@@ -1,5 +1,113 @@
 <!-- AUTOMATICALLY GENERATED FILE - DO NOT EDIT -->
 
+<def tag="form" for="InformationSource">
+  <form merge param="default">
+    <error-messages param/>
+    <field-list fields="name, web, weight" param/>
+    <div param="actions">
+      <submit label="#{ht 'information_sources.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
+    </div>
+  </form>
+</def>
+
+
+
+<def tag="form" for="InterorgRelation">
+  <form merge param="default">
+    <error-messages param/>
+    <field-list fields="name, start_time, end_time, value, information_source, o2o_relation_type, organization_a, organization_b, user" param/>
+    <div param="actions">
+      <submit label="#{ht 'interorg_relations.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
+    </div>
+  </form>
+</def>
+
+
+
+<def tag="form" for="InterpersonalRelation">
+  <form merge param="default">
+    <error-messages param/>
+    <field-list fields="name, start_time, end_time, value, information_source, p2p_relation_type, person_a, person_b, user" param/>
+    <div param="actions">
+      <submit label="#{ht 'interpersonal_relations.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
+    </div>
+  </form>
+</def>
+
+
+
+<def tag="form" for="O2oRelationType">
+  <form merge param="default">
+    <error-messages param/>
+    <field-list fields="name" param/>
+    <div param="actions">
+      <submit label="#{ht 'o2o_relation_types.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
+    </div>
+  </form>
+</def>
+
+
+
+<def tag="form" for="Organization">
+  <form merge param="default">
+    <error-messages param/>
+    <field-list fields="name, street1, street2, zip_code, trade_register_nr, tax_nr, start_time, end_time, information_source, interorg_relations, organizations, persons, related_organizations_a, related_organizations_b, user" param/>
+    <div param="actions">
+      <submit label="#{ht 'organizations.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
+    </div>
+  </form>
+</def>
+
+
+
+<def tag="form" for="P2oRelationType">
+  <form merge param="default">
+    <error-messages param/>
+    <field-list fields="name" param/>
+    <div param="actions">
+      <submit label="#{ht 'p2o_relation_types.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
+    </div>
+  </form>
+</def>
+
+
+
+<def tag="form" for="P2pRelationType">
+  <form merge param="default">
+    <error-messages param/>
+    <field-list fields="name" param/>
+    <div param="actions">
+      <submit label="#{ht 'p2p_relation_types.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
+    </div>
+  </form>
+</def>
+
+
+
+<def tag="form" for="Person">
+  <form merge param="default">
+    <error-messages param/>
+    <field-list fields="first_name, last_name, born_at, mothers_name, information_source, organizations, related_persons_a, related_persons_b, user" param/>
+    <div param="actions">
+      <submit label="#{ht 'people.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
+    </div>
+  </form>
+</def>
+
+
+
+<def tag="form" for="PersonToOrgRelation">
+  <form merge param="default">
+    <error-messages param/>
+    <field-list fields="name, start_time, end_time, value, information_source, organization, p2p_relation_type, person, user" param/>
+    <div param="actions">
+      <submit label="#{ht 'person_to_org_relations.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
+    </div>
+  </form>
+</def>
+
+
+
 <def tag="form" for="User">
   <form merge param="default">
     <error-messages param/>

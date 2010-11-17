@@ -1,0 +1,2 @@
+module P2pRelationTypesHelper
+end
