@@ -3,7 +3,7 @@ class Organization < ActiveRecord::Base
   hobo_model # Don't put anything above this
 
   fields do
-    name              :string
+    name              :string, :unique
     street1           :string
     street2           :string
     zip_code          :string
@@ -15,12 +15,12 @@ class Organization < ActiveRecord::Base
   end
 
   has_many :interorg_relations, :accessible => true
-  has_many :person_to_org_relations
+  # has_many :person_to_org_relations
 
-  has_many :persons,       :through => :person_to_org_relations, :accessible => true
-  has_many :organizations, :through => :person_to_org_relations, :accessible => true
-  has_many :related_organizations_a, :through => :interorg_relations, :accessible => true, :source => :organization_a
-  has_many :related_organizations_b, :through => :interorg_relations, :accessible => true, :source => :organization_b
+  # has_many :persons,       :through => :person_to_org_relations, :accessible => true
+  # has_many :organizations, :through => :person_to_org_relations, :accessible => true
+  # has_many :organizations, :through => :interorg_relations, :accessible => true, :source => :organization
+  # has_many :related_organizations, :through => :interorg_relations, :accessible => true, :source => :related_organization
 
   belongs_to :information_source
   belongs_to :user, :creator => true
@@ -28,11 +28,11 @@ class Organization < ActiveRecord::Base
   # --- Permissions --- #
 
   def create_permitted?
-    acting_user.administrator?
+    acting_user.administrator? || (acting_user.editor? && user.id == acting_user.id)
   end
 
   def update_permitted?
-    acting_user.administrator?
+    acting_user.administrator? || acting_user.editor?
   end
 
   def destroy_permitted?

@@ -3,10 +3,12 @@ class P2pRelationType < ActiveRecord::Base
   hobo_model # Don't put anything above this
 
   fields do
-    name :string
+    name   :string
+    weight :string
     timestamps
   end
 
+  belongs_to :pair, :class_name => "P2pRelationType"
 
   # --- Permissions --- #
 

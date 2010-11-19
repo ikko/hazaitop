@@ -9,7 +9,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20101117140528) do
+ActiveRecord::Schema.define(:version => 20101119151251) do
 
   create_table "information_sources", :force => true do |t|
     t.string   "name"
@@ -20,24 +20,25 @@ ActiveRecord::Schema.define(:version => 20101117140528) do
   end
 
   create_table "interorg_relations", :force => true do |t|
-    t.string   "name"
-    t.date     "start_time"
     t.datetime "created_at"
     t.datetime "updated_at"
     t.integer  "o2o_relation_type_id"
-    t.integer  "organization_a_id"
-    t.integer  "organization_b_id"
+    t.integer  "organization_id"
+    t.integer  "related_organization_id"
     t.integer  "information_source_id"
-    t.integer  "user_id"
-    t.date     "end_time"
-    t.integer  "value"
+    t.boolean  "mirrored",                :default => false
+    t.integer  "interorg_relation_id"
+    t.boolean  "needs_sync",              :default => true
+    t.boolean  "copied",                  :default => false
   end
 
   add_index "interorg_relations", ["information_source_id"], :name => "index_interorg_relations_on_information_source_id"
+  add_index "interorg_relations", ["interorg_relation_id"], :name => "index_interorg_relations_on_interorg_relation_id"
   add_index "interorg_relations", ["o2o_relation_type_id"], :name => "index_interorg_relations_on_o2o_relation_type_id"
-  add_index "interorg_relations", ["organization_a_id"], :name => "index_interorg_relations_on_organization_a_id"
-  add_index "interorg_relations", ["organization_b_id"], :name => "index_interorg_relations_on_organization_b_id"
-  add_index "interorg_relations", ["user_id"], :name => "index_interorg_relations_on_user_id"
+  add_index "interorg_relations", ["organization_id"], :name => "index_interorg_relations_on_organization_a_id"
+  add_index "interorg_relations", ["organization_id"], :name => "index_interorg_relations_on_organization_id"
+  add_index "interorg_relations", ["related_organization_id"], :name => "index_interorg_relations_on_organization_b_id"
+  add_index "interorg_relations", ["related_organization_id"], :name => "index_interorg_relations_on_related_organization_id"
 
   create_table "interpersonal_relations", :force => true do |t|
     t.string   "name"
@@ -63,7 +64,11 @@ ActiveRecord::Schema.define(:version => 20101117140528) do
     t.string   "name"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.string   "weight"
+    t.integer  "pair_id"
   end
+
+  add_index "o2o_relation_types", ["pair_id"], :name => "index_o2o_relation_types_on_pair_id"
 
   create_table "organizations", :force => true do |t|
     t.string   "name"
@@ -87,12 +92,14 @@ ActiveRecord::Schema.define(:version => 20101117140528) do
     t.string   "name"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.string   "weight"
   end
 
   create_table "p2p_relation_types", :force => true do |t|
     t.string   "name"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.string   "weight"
   end
 
   create_table "people", :force => true do |t|
@@ -141,6 +148,7 @@ ActiveRecord::Schema.define(:version => 20101117140528) do
     t.datetime "updated_at"
     t.string   "state",                                   :default => "invited"
     t.datetime "key_timestamp"
+    t.boolean  "editor",                                  :default => false
   end
 
   add_index "users", ["state"], :name => "index_users_on_state"

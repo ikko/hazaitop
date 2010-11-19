@@ -6,6 +6,7 @@ class User < ActiveRecord::Base
     name          :string, :required, :unique
     email_address :email_address, :login => true
     administrator :boolean, :default => false
+    editor        :boolean, :default => false
     timestamps
   end
 
@@ -17,7 +18,7 @@ class User < ActiveRecord::Base
     new_password_required_without_invite_only? || User.count==0
   end
   alias_method_chain :new_password_required?, :invite_only
-  
+
   # --- Signup lifecycle --- #
 
   lifecycle do
@@ -32,10 +33,10 @@ class User < ActiveRecord::Base
            :become => :invited do
        UserMailer.deliver_invite(self, lifecycle.key)
     end
-  
+
     transition :accept_invitation, { :invited => :active }, :available_to => :key_holder,
                :params => [ :password, :password_confirmation ]
-  
+
     transition :request_password_reset, { :active => :active }, :new_key => true do
       UserMailer.deliver_forgot_password(self, lifecycle.key)
     end
@@ -44,7 +45,7 @@ class User < ActiveRecord::Base
                :params => [ :password, :password_confirmation ]
 
   end
-  
+
 
   # --- Permissions --- #
 
@@ -54,7 +55,7 @@ class User < ActiveRecord::Base
   end
 
   def update_permitted?
-    acting_user.administrator? || 
+    acting_user.administrator? ||
       (acting_user == self && only_changed?(:email_address, :crypted_password,
                                             :current_password, :password, :password_confirmation))
     # Note: crypted_password has attr_protected so although it is permitted to change, it cannot be changed
