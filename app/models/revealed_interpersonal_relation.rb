@@ -1,15 +1,12 @@
-class P2oRelationType < ActiveRecord::Base
+class RevealedInterpersonalRelation < ActiveRecord::Base
 
   hobo_model # Don't put anything above this
 
   fields do
-    name   :string
     weight :integer
     timestamps
   end
 
-  belongs_to :p2p_relation_type   # ha nincs definiálva a kalkulátorban, akkor erre default-olunk
-  validates_presence_of :p2p_relation_type
 
   # --- Permissions --- #
 

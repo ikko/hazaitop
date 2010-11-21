@@ -20,10 +20,10 @@ class Person < ActiveRecord::Base
     end
   end
 
-  has_many :interpersonal_relations
-  #has_many :person_to_org_relations
+  has_many :interpersonal_relations, :accessible => true
+  has_many :person_to_org_relations, :accessible => true
 
-  #has_many :organizations, :through => :person_to_org_relations, :accessible => true
+  has_many :organizations, :through => :person_to_org_relations
   #has_many :related_persons_a, :through => :interpersonal_relations, :accessible => true, :source => :person_a
   #has_many :related_persons_b, :through => :interpersonal_relations, :accessible => true, :source => :person_b
 
@@ -33,11 +33,11 @@ class Person < ActiveRecord::Base
   # --- Permissions --- #
 
   def create_permitted?
-    acting_user.administrator?
+    acting_user.administrator? || (acting_user.editor? && user.id == acting_user.id)
   end
 
   def update_permitted?
-    acting_user.administrator?
+    acting_user.administrator? || (acting_user.editor? && !user_id_changed?)
   end
 
   def destroy_permitted?

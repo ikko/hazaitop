@@ -1,0 +1,2 @@
+module InterpersonalRelationCalculatorsHelper
+end

@@ -9,14 +9,15 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20101119151251) do
+ActiveRecord::Schema.define(:version => 20101121184325) do
 
   create_table "information_sources", :force => true do |t|
     t.string   "name"
     t.string   "web"
     t.datetime "created_at"
     t.datetime "updated_at"
-    t.integer  "weight"
+    t.float    "weight"
+    t.boolean  "internal",   :default => false
   end
 
   create_table "interorg_relations", :force => true do |t|
@@ -28,8 +29,6 @@ ActiveRecord::Schema.define(:version => 20101119151251) do
     t.integer  "information_source_id"
     t.boolean  "mirrored",                :default => false
     t.integer  "interorg_relation_id"
-    t.boolean  "needs_sync",              :default => true
-    t.boolean  "copied",                  :default => false
   end
 
   add_index "interorg_relations", ["information_source_id"], :name => "index_interorg_relations_on_information_source_id"
@@ -40,31 +39,44 @@ ActiveRecord::Schema.define(:version => 20101119151251) do
   add_index "interorg_relations", ["related_organization_id"], :name => "index_interorg_relations_on_organization_b_id"
   add_index "interorg_relations", ["related_organization_id"], :name => "index_interorg_relations_on_related_organization_id"
 
-  create_table "interpersonal_relations", :force => true do |t|
-    t.string   "name"
-    t.date     "start_time"
+  create_table "interpersonal_relation_calculators", :force => true do |t|
+    t.integer  "weight"
     t.datetime "created_at"
     t.datetime "updated_at"
     t.integer  "p2p_relation_type_id"
-    t.integer  "person_a_id"
-    t.integer  "person_b_id"
+    t.integer  "p2o_relation_type_id"
+    t.integer  "related_p2o_relation_type_id"
+  end
+
+  add_index "interpersonal_relation_calculators", ["p2o_relation_type_id"], :name => "index_interpersonal_relation_calculators_on_p2o_relation_type_id"
+  add_index "interpersonal_relation_calculators", ["p2p_relation_type_id"], :name => "index_interpersonal_relation_calculators_on_p2p_relation_type_id"
+
+  create_table "interpersonal_relations", :force => true do |t|
+    t.datetime "created_at"
+    t.datetime "updated_at"
+    t.integer  "p2p_relation_type_id"
     t.integer  "information_source_id"
-    t.integer  "user_id"
-    t.date     "end_time"
-    t.integer  "value"
+    t.boolean  "mirrored",                  :default => false
+    t.integer  "person_id"
+    t.integer  "related_person_id"
+    t.integer  "interpersonal_relation_id"
+    t.integer  "person_to_org_relation_id"
+    t.integer  "organization_id"
   end
 
   add_index "interpersonal_relations", ["information_source_id"], :name => "index_interpersonal_relations_on_information_source_id"
+  add_index "interpersonal_relations", ["interpersonal_relation_id"], :name => "index_interpersonal_relations_on_interpersonal_relation_id"
+  add_index "interpersonal_relations", ["organization_id"], :name => "index_interpersonal_relations_on_organization_id"
   add_index "interpersonal_relations", ["p2p_relation_type_id"], :name => "index_interpersonal_relations_on_p2p_relation_type_id"
-  add_index "interpersonal_relations", ["person_a_id"], :name => "index_interpersonal_relations_on_person_a_id"
-  add_index "interpersonal_relations", ["person_b_id"], :name => "index_interpersonal_relations_on_person_b_id"
-  add_index "interpersonal_relations", ["user_id"], :name => "index_interpersonal_relations_on_user_id"
+  add_index "interpersonal_relations", ["person_id"], :name => "index_interpersonal_relations_on_person_id"
+  add_index "interpersonal_relations", ["person_to_org_relation_id"], :name => "index_interpersonal_relations_on_person_to_org_relation_id"
+  add_index "interpersonal_relations", ["related_person_id"], :name => "index_interpersonal_relations_on_related_person_id"
 
   create_table "o2o_relation_types", :force => true do |t|
     t.string   "name"
     t.datetime "created_at"
     t.datetime "updated_at"
-    t.string   "weight"
+    t.float    "weight"
     t.integer  "pair_id"
   end
 
@@ -81,8 +93,6 @@ ActiveRecord::Schema.define(:version => 20101119151251) do
     t.datetime "updated_at"
     t.integer  "information_source_id"
     t.integer  "user_id"
-    t.date     "start_time"
-    t.date     "end_time"
   end
 
   add_index "organizations", ["information_source_id"], :name => "index_organizations_on_information_source_id"
@@ -92,15 +102,22 @@ ActiveRecord::Schema.define(:version => 20101119151251) do
     t.string   "name"
     t.datetime "created_at"
     t.datetime "updated_at"
-    t.string   "weight"
+    t.integer  "weight"
+    t.integer  "p2p_relation_type_id"
   end
+
+  add_index "p2o_relation_types", ["p2p_relation_type_id"], :name => "index_p2o_relation_types_on_p2p_relation_type_id"
 
   create_table "p2p_relation_types", :force => true do |t|
     t.string   "name"
     t.datetime "created_at"
     t.datetime "updated_at"
-    t.string   "weight"
+    t.float    "weight"
+    t.integer  "pair_id"
+    t.boolean  "internal",   :default => false
   end
+
+  add_index "p2p_relation_types", ["pair_id"], :name => "index_p2p_relation_types_on_pair_id"
 
   create_table "people", :force => true do |t|
     t.string   "first_name"
@@ -117,24 +134,26 @@ ActiveRecord::Schema.define(:version => 20101119151251) do
   add_index "people", ["user_id"], :name => "index_people_on_user_id"
 
   create_table "person_to_org_relations", :force => true do |t|
-    t.string   "name"
     t.date     "start_time"
     t.date     "end_time"
     t.datetime "created_at"
     t.datetime "updated_at"
-    t.integer  "p2p_relation_type_id"
     t.integer  "person_id"
     t.integer  "organization_id"
     t.integer  "information_source_id"
-    t.integer  "user_id"
-    t.integer  "value"
+    t.integer  "p2o_relation_type_id"
   end
 
   add_index "person_to_org_relations", ["information_source_id"], :name => "index_person_to_org_relations_on_information_source_id"
   add_index "person_to_org_relations", ["organization_id"], :name => "index_person_to_org_relations_on_organization_id"
-  add_index "person_to_org_relations", ["p2p_relation_type_id"], :name => "index_person_to_org_relations_on_p2p_relation_type_id"
+  add_index "person_to_org_relations", ["p2o_relation_type_id"], :name => "index_person_to_org_relations_on_p2o_relation_type_id"
   add_index "person_to_org_relations", ["person_id"], :name => "index_person_to_org_relations_on_person_id"
-  add_index "person_to_org_relations", ["user_id"], :name => "index_person_to_org_relations_on_user_id"
+
+  create_table "revealed_interpersonal_relations", :force => true do |t|
+    t.integer  "weight"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
 
   create_table "users", :force => true do |t|
     t.string   "crypted_password",          :limit => 40

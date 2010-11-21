@@ -4,7 +4,7 @@ class O2oRelationType < ActiveRecord::Base
 
   fields do
     name   :string
-    weight :string
+    weight :float
     timestamps
   end
 

@@ -11,8 +11,11 @@ class InterpersonalRelation < ActiveRecord::Base
   belongs_to :person
   belongs_to :related_person, :class_name => "Person"
 
+  belongs_to :person_to_org_relation   # ha a rendszer hozta automatikusan létre a kapcsolatot, azt ez alapján tette
+  belongs_to :organization             # ez csak automatikusnál értelmezendő, cacheljük
+
   belongs_to :information_source
-  belongs_to :interpersonal_relation  # megmutatja, hgoy kinek a mirrorja. ha nil, akkor ot mirrorozzuk
+  belongs_to :interpersonal_relation   # megmutatja, hgoy kinek a mirrorja. ha nil, akkor ot mirrorozzuk
 
   validates_presence_of :related_person
   validates_presence_of :information_source
@@ -25,12 +28,13 @@ class InterpersonalRelation < ActiveRecord::Base
       else
         relation_type_id = r.p2p_relation_type_id
       end
-      InterperonalRelation.create!(:interpersonal_relation_id => r.id,
+      InterpersonalRelation.create!(:interpersonal_relation_id => r.id,
                               :person_id => r.related_person_id,
                               :related_person_id => r.person_id,
                               :interpersonal_relation_id => r.id,
                               :p2p_relation_type_id => relation_type_id,
                               :information_source_id => r.information_source_id,
+                              :organization_id => r.organization_id,
                               :mirrored => true)
       r.update_attribute :mirrored, true
     end

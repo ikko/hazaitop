@@ -4,7 +4,8 @@ class P2pRelationType < ActiveRecord::Base
 
   fields do
     name   :string
-    weight :string
+    weight :float
+    internal :boolean, :default => false
     timestamps
   end
 
