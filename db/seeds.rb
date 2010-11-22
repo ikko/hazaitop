@@ -77,34 +77,14 @@ if Rails.env == "development"
 
 end
 
-if Rails.env == "development"
-
-  if User.count == 0
-    User.create :name => "Béky Miklós", :email_address => "miklos.beky@gmail.com", :password => "asdf1234", :password_confirmation => "asdf1234", :editor => false, :administrator => true
-    User.create :name => "Komzák Nándor", :email_address => "nandor.komzak@gmail.com", :password => "asdf1234", :password_confirmation => "asdf1234", :editor => false, :administrator => true
-    User.create :name => "Léderer Sándor", :email_address => "lederer@k-monitor.hu", :password => "probababa", :password_confirmation => "probababa", :editor => true, :supervisor => true
-    User.create :name => "Keserű Júlia", :email_address => "keseru.julia@k-monitor.hu", :password => "probababa", :password_confirmation => "probababa", :editor => true, :supervisor => true
-  end
-
-  if Organization.count == 0
-    Organization.create! :name => "szivarvany gyar", :information_source_id => sajat.id
-    Organization.create! :name => "gomba gyar", :information_source_id => sajat.id
-  end
-
-  if Person.count == 0
-    Person.create! :first_name => "kokojszi", :last_name => "torpe", :information_source_id => sajat.id
-    Person.create! :first_name => "bobojsza", :last_name => "torpe", :information_source_id => sajat.id
-  end
-
-end
 
 if Rails.env == "production"
 
   if User.count == 0
-    User.create :name => "Béky Miklós", :email_address => "miklos.beky@gmail.com", :password => "asdf1234", :password_confirmation => "asdf1234", :editor => false, :administrator => true
-    User.create :name => "Komzák Nándor", :email_address => "nandor.komzak@gmail.com", :password => "asdf1234", :password_confirmation => "asdf1234", :editor => false, :administrator => true
-    User.create :name => "Léderer Sándor", :email_address => "lederer@k-monitor.hu", :password => "probababa", :password_confirmation => "probababa", :editor => true, :supervisor => true
-    User.create :name => "Keserű Júlia", :email_address => "keseru.julia@k-monitor.hu", :password => "probababa", :password_confirmation => "probababa", :editor => true, :supervisor => true
+    User.create :name => "Béky Miklós", :email_address => "miklos.beky@gmail.com", :password => "asdf1234", :password_confirmation => "asdf1234", :editor => false, :administrator => true, :state => "active"
+    User.create :name => "Komzák Nándor", :email_address => "nandor.komzak@gmail.com", :password => "asdf1234", :password_confirmation => "asdf1234", :editor => false, :administrator => true, :state => "active"
+    User.create :name => "Léderer Sándor", :email_address => "lederer@k-monitor.hu", :password => "probababa", :password_confirmation => "probababa", :editor => true, :supervisor => true, :state => "active"
+    User.create :name => "Keserű Júlia", :email_address => "keseru.julia@k-monitor.hu", :password => "probababa", :password_confirmation => "probababa", :editor => true, :supervisor => true, :state => "active"
   end
 
 
