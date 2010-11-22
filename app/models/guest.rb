@@ -8,4 +8,8 @@ class Guest < Hobo::Guest
     false
   end
 
+  def supervisor?
+    false
+  end
+
 end

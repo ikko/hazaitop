@@ -33,6 +33,8 @@ class Person < ActiveRecord::Base
   belongs_to :information_source
   belongs_to :user, :creator => true
 
+  named_scope :list, :limit => 15, :order => "updated_at DESC"
+
   # --- Permissions --- #
 
   def create_permitted?
@@ -44,7 +46,7 @@ class Person < ActiveRecord::Base
   end
 
   def destroy_permitted?
-    acting_user.administrator?
+    acting_user.administrator? || acting_user.supervisor?
   end
 
   def view_permitted?(field)

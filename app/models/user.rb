@@ -7,6 +7,7 @@ class User < ActiveRecord::Base
     email_address :email_address, :login => true
     administrator :boolean, :default => false
     editor        :boolean, :default => false
+    supervisor    :boolean, :default => false
     timestamps
   end
 
@@ -27,7 +28,7 @@ class User < ActiveRecord::Base
     state :active
 
     create :invite,
-           :available_to => "acting_user if acting_user.administrator?",
+           :available_to => "acting_user if (acting_user.administrator? or acting_user.supervisor? or acting_user.editor?)",
            :params => [:name, :email_address],
            :new_key => true,
            :become => :invited do

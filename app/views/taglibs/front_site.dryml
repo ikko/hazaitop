@@ -11,7 +11,8 @@
 <extend tag="page">
   <old-page merge>
     <footer:>
-      <a href="&admin_users_url" if="&current_user.administrator?">Admin</a>
+      Copyright 2010 K-Monitor and Amitaba-Mudra |  <a href="#{base_url}/front/development">development</a> | <a href="#{base_url}/front/impressum">impressum</a>
+      <a href="&admin_users_url" if="&current_user.administrator?"> | admin</a>
     </footer:>
   </old-page>
 </extend>
@@ -24,7 +25,42 @@
   </old-page>
 </extend>
 
-<def tag="app-name">K Wiw</def>
+<def tag="app-name">K wiw</def>
+
+
+<def tag="main-nav">
+  <navigation class="main-nav" merge-attrs param="default">
+    <nav-item href="#{base_url}/">Home</nav-item>
+    <nav-item with="&Person"><ht key="persons.nav_item">People</ht></nav-item>
+    <nav-item with="&Organization"><ht key="persons.nav_item">Organizations</ht></nav-item>
+    <nav-item if="&current_user.administrator? or current_user.editor?" with="&InformationSource"><ht key="information_sources.nav_item">Sources</ht></nav-item>
+    <nav-item if="&current_user.administrator? or current_user.editor?" href="#{base_url}/settings">Settings</nav-item>
+  </navigation>
+</def>
+
+<def tag="card" for="Organization">
+  <card class="organization" param="default" merge>
+    <header: param>
+      <h4 param="heading"><a><name/></a></h4>
+    </header:>
+    <body: param>
+      <view:street1/><br/> 
+      <view:tax_nr/> <view:trade_register_nr/><br/>
+      <a:user param="creator-link"/>
+    </body:>
+  </card>
+</def>
+
+<def tag="card" for="Person">
+  <card class="person" param="default" merge>
+    <header: param>
+      <h4 param="heading"><a><view:first_name/>, <view:last_name/></a></h4>
+    </header:>
+    <body: param>
+      <a:user param="creator-link"/>
+    </body:>
+  </card>
+</def>
 
 <def tag="form" for="Person">
   <form merge param="default">

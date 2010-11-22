@@ -9,7 +9,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20101122121329) do
+ActiveRecord::Schema.define(:version => 20101122144437) do
 
   create_table "information_sources", :force => true do |t|
     t.string   "name"
@@ -152,6 +152,11 @@ ActiveRecord::Schema.define(:version => 20101122121329) do
   add_index "person_to_org_relations", ["p2o_relation_type_id"], :name => "index_person_to_org_relations_on_p2o_relation_type_id"
   add_index "person_to_org_relations", ["person_id"], :name => "index_person_to_org_relations_on_person_id"
 
+  create_table "settings", :force => true do |t|
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
   create_table "users", :force => true do |t|
     t.string   "crypted_password",          :limit => 40
     t.string   "salt",                      :limit => 40
@@ -165,6 +170,7 @@ ActiveRecord::Schema.define(:version => 20101122121329) do
     t.string   "state",                                   :default => "invited"
     t.datetime "key_timestamp"
     t.boolean  "editor",                                  :default => false
+    t.boolean  "supervisor",                              :default => false
   end
 
   add_index "users", ["state"], :name => "index_users_on_state"

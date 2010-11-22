@@ -13,15 +13,15 @@ class O2oRelationType < ActiveRecord::Base
   # --- Permissions --- #
 
   def create_permitted?
-    acting_user.administrator?
+    acting_user.administrator? || acting_user.supervisor?
   end
 
   def update_permitted?
-    acting_user.administrator?
+    acting_user.administrator? || acting_user.supervisor?
   end
 
   def destroy_permitted?
-    acting_user.administrator?
+    acting_user.administrator? || acting_user.supervisor?
   end
 
   def view_permitted?(field)

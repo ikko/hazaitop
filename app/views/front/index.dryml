@@ -6,9 +6,10 @@
     <header class="content-header">
       <h1>Welcome to <app-name/></h1>
       <section class="welcome-message">
-        <h3>Congratulations! Your Hobo Rails App is up and running</h3>
+        <h3>Congratulations, you've reached the home page!</h3>
         <ul>
-          <li>To customise this page: edit app/views/front/index.dryml</li>
+          <li if="&current_user.guest?"><a href="/login">Log in</a> or browse content...</li>
+          <li>Lorem ipsum, tell others, what's this...</li>
         </ul>
     
         <% if User.count == 0 -%>
@@ -23,8 +24,14 @@
       
       </section>
     </header>
+    
 
     <section class="content-body">
+      <h2>Last Updated Organizations</h2>
+      <table-plus with="&Organization.list" fields="name, street1, zip_code, information_source" without-search-form/>
+      <h2>Last Updated People</h2>
+      <table-plus with="&Person.list" fields="first_name, last_name, mothers_name, information_source" without-search-form/>
+
     </section>
   </content:>
   
