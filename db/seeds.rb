@@ -60,7 +60,8 @@ if Rails.env == "development"
 
   if User.count == 0
     User.create :name => "admin", :email_address => "admin@addig.hu", :password => "minek", :password_confirmation => "minek", :editor => false, :administrator => true
-    User.create :name => "editor", :email_address => "editor@addig.hu", :password => "minek", :password_confirmation => "minek", :editor => true, :administrator => false
+    User.create :name => "editor", :email_address => "editor@addig.hu", :password => "minek", :password_confirmation => "minek", :editor => true,
+    User.create :name => "supervisor", :email_address => "supervisor@addig.hu", :password => "minek", :password_confirmation => "minek", :editor => true, :supervisor => true
     User.create :name => "normale", :email_address => "normale@addig.hu", :password => "minek", :password_confirmation => "minek", :editor => false, :administrator => false
   end
 
@@ -72,6 +73,49 @@ if Rails.env == "development"
   if Person.count == 0
     Person.create! :first_name => "kokojszi", :last_name => "torpe", :information_source_id => sajat.id
     Person.create! :first_name => "bobojsza", :last_name => "torpe", :information_source_id => sajat.id
+  end
+
+end
+
+if Rails.env == "development"
+
+  if User.count == 0
+    User.create :name => "Béky Miklós", :email_address => "miklos.beky@gmail.com", :password => "asdf1234", :password_confirmation => "asdf1234", :editor => false, :administrator => true
+    User.create :name => "Komzák Nándor", :email_address => "nandor.komzak@gmail.com", :password => "asdf1234", :password_confirmation => "asdf1234", :editor => false, :administrator => true
+    User.create :name => "Léderer Sándor", :email_address => "lederer@k-monitor.hu", :password => "probababa", :password_confirmation => "probababa", :editor => true, :supervisor => true
+    User.create :name => "Keserű Júlia", :email_address => "keseru.julia@k-monitor.hu", :password => "probababa", :password_confirmation => "probababa", :editor => true, :supervisor => true
+  end
+
+  if Organization.count == 0
+    Organization.create! :name => "szivarvany gyar", :information_source_id => sajat.id
+    Organization.create! :name => "gomba gyar", :information_source_id => sajat.id
+  end
+
+  if Person.count == 0
+    Person.create! :first_name => "kokojszi", :last_name => "torpe", :information_source_id => sajat.id
+    Person.create! :first_name => "bobojsza", :last_name => "torpe", :information_source_id => sajat.id
+  end
+
+end
+
+if Rails.env == "production"
+
+  if User.count == 0
+    User.create :name => "Béky Miklós", :email_address => "miklos.beky@gmail.com", :password => "asdf1234", :password_confirmation => "asdf1234", :editor => false, :administrator => true
+    User.create :name => "Komzák Nándor", :email_address => "nandor.komzak@gmail.com", :password => "asdf1234", :password_confirmation => "asdf1234", :editor => false, :administrator => true
+    User.create :name => "Léderer Sándor", :email_address => "lederer@k-monitor.hu", :password => "probababa", :password_confirmation => "probababa", :editor => true, :supervisor => true
+    User.create :name => "Keserű Júlia", :email_address => "keseru.julia@k-monitor.hu", :password => "probababa", :password_confirmation => "probababa", :editor => true, :supervisor => true
+  end
+
+
+  if Organization.count == 0
+    Organization.create! :name => "Szivarvany Gyár", :information_source_id => sajat.id
+    Organization.create! :name => "Gomba Gyár", :information_source_id => sajat.id
+  end
+
+  if Person.count == 0
+    Person.create! :first_name => "Géza", :last_name => "Cérna", :information_source_id => sajat.id
+    Person.create! :first_name => "Mátyás", :last_name => "Mókás", :information_source_id => sajat.id
   end
 
 end

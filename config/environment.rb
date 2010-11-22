@@ -41,3 +41,20 @@ Rails::Initializer.run do |config|
   # config.i18n.load_path += Dir[Rails.root.join('my', 'locales', '*.{rb,yml}')]
   # config.i18n.default_locale = :de
 end
+
+# smtp-tls gem madness
+begin
+  require 'smtp-tls'
+rescue LoadError
+end
+
+ActionMailer::Base.delivery_method = :smtp
+ActionMailer::Base.smtp_settings = {
+
+   :address => "mail.topspot.hu",
+   :port => 25,
+   :domain => "mail.topspot.hu",
+   :authentication => :plain,
+   :user_name => "info",
+   :password => "kalapacsvetes9",
+}
