@@ -32,7 +32,7 @@ class PersonToOrgRelation < ActiveRecord::Base
     self.interpersonal_relations.try.delete_all
 
     self.other_interpersonal_relations.try.delete_all
-    if person_id # ha nem törlés történt
+    if person # ha nem törlés történt
       if !(InterpersonalRelation.find_by_person_to_org_relation_id(id) or InterpersonalRelation.find_by_other_person_to_org_relation_id(id))
        # meg kell vizsgálnunk hogy van-e már, különben kétszer megy bele (a hobo?) az after_save-be TODO
         potential_relations = PersonToOrgRelation.find( :all, :conditions => [
@@ -65,6 +65,9 @@ class PersonToOrgRelation < ActiveRecord::Base
         end
       end
     else # törlés történt
+      self.destroy
+    end
+    if !organization # ha org-ból törölték
       self.destroy
     end
   end
