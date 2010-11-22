@@ -12,6 +12,8 @@ class InterpersonalRelation < ActiveRecord::Base
   belongs_to :related_person, :class_name => "Person"
 
   belongs_to :person_to_org_relation   # ha a rendszer hozta automatikusan létre a kapcsolatot, azt ez alapján tette
+  belongs_to :other_person_to_org_relation, :class_name => "PersonToOrgRelation" # ez meg a másik fele az előbbinek
+
   belongs_to :organization             # ez csak automatikusnál értelmezendő, cacheljük
 
   belongs_to :information_source
@@ -35,6 +37,8 @@ class InterpersonalRelation < ActiveRecord::Base
                               :p2p_relation_type_id => relation_type_id,
                               :information_source_id => r.information_source_id,
                               :organization_id => r.organization_id,
+                              :person_to_org_relation_id => r.person_to_org_relation_id,
+                              :other_person_to_org_relation_id => r.other_person_to_org_relation_id,
                               :mirrored => true)
       r.update_attribute :mirrored, true
     end
@@ -63,6 +67,14 @@ class InterpersonalRelation < ActiveRecord::Base
   end
 
   after_save do |r|
+    if r.information_source.internal and !(r.person_to_org_relation and r.other_person_to_org_relation)
+      if r.interpersonal_relation
+        r.interpersonal_relation.destroy
+      else
+        InterpersonalRelation.find_by_interpersonal_relation_id(r.id)._?.destroy
+      end
+      r.related_person_id = nil
+    end
     if !r.related_person_id
       r.destroy
     end

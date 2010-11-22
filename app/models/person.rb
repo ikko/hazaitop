@@ -14,7 +14,7 @@ class Person < ActiveRecord::Base
     last_name + ', ' + first_name + (born_at ? ', ' + born_at.to_s : '')
   end
 
-  before_save do |r|
+  before_validation do |r|
     if r.born_at
       r.update_attribute(:born_at, nil) if r.born_at.year == Time.now.year
     end

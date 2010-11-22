@@ -4,4 +4,8 @@ class Guest < Hobo::Guest
     false
   end
 
+  def editor?
+    false
+  end
+
 end

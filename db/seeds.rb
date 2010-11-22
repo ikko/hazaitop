@@ -52,6 +52,26 @@ if InformationSource.count == 0
   InformationSource.create( :name => "cégbíróság",              :weight => "15" )
   InformationSource.create( :name => "index.hu",                :weight => "11" )
   InformationSource.create( :name => "origo.hu",                :weight => "11" )
-  InformationSource.create( :name => "saját forrás",            :weight => "20" )
+  sajat = InformationSource.create( :name => "saját forrás",            :weight => "20" )
+
+end
+
+if Rails.env == "development"
+
+  if User.count == 0
+    User.create :name => "admin", :email_address => "admin@addig.hu", :password => "minek", :password_confirmation => "minek", :editor => false, :administrator => true
+    User.create :name => "editor", :email_address => "editor@addig.hu", :password => "minek", :password_confirmation => "minek", :editor => true, :administrator => false
+    User.create :name => "normale", :email_address => "normale@addig.hu", :password => "minek", :password_confirmation => "minek", :editor => false, :administrator => false
+  end
+
+  if Organization.count == 0
+    Organization.create! :name => "szivarvany gyar", :information_source_id => sajat.id
+    Organization.create! :name => "gomba gyar", :information_source_id => sajat.id
+  end
+
+  if Person.count == 0
+    Person.create! :first_name => "kokojszi", :last_name => "torpe", :information_source_id => sajat.id
+    Person.create! :first_name => "bobojsza", :last_name => "torpe", :information_source_id => sajat.id
+  end
 
 end
