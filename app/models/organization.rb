@@ -28,6 +28,8 @@ class Organization < ActiveRecord::Base
   validates_presence_of :name
   validates_presence_of :information_source
 
+  named_scope :list, :limit => 15, :order => "updated_at DESC"
+
   # --- Permissions --- #
 
   def create_permitted?
@@ -39,7 +41,7 @@ class Organization < ActiveRecord::Base
   end
 
   def destroy_permitted?
-    acting_user.administrator?
+    acting_user.administrator? || acting_user.supervisor?
   end
 
   def view_permitted?(field)
