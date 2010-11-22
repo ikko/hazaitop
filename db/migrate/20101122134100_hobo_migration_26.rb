@@ -1,4 +1,4 @@
-class HoboMigration23 < ActiveRecord::Migration
+class HoboMigration26 < ActiveRecord::Migration
   def self.up
     add_column :users, :supervisor, :boolean, :default => false
 
