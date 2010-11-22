@@ -9,7 +9,6 @@ class HoboMigration17 < ActiveRecord::Migration
     remove_index :interorg_relations, :name => :index_interorg_relations_on_organization_a_id rescue ActiveRecord::StatementInvalid
     remove_index :interorg_relations, :name => :index_interorg_relations_on_organization_b_id rescue ActiveRecord::StatementInvalid
 
-    add_index :interpersonal_relation_calculators, [:related_p2o_relation_type_id]
   end
 
   def self.down

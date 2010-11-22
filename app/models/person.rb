@@ -5,18 +5,17 @@ class Person < ActiveRecord::Base
   fields do
     first_name   :string, :required
     last_name    :string, :required
+    name         :string
     born_at      :date
     mothers_name :string
     timestamps
   end
 
-  def name
-    last_name + ', ' + first_name + (born_at ? ', ' + born_at.to_s : '')
-  end
-
   before_save do |r|
     if r.born_at and r.born_at.year == Time.now.year
       r.born_at = nil
+    elsif r.born_at
+      r.name = r.last_name + ', ' + r.first_name + ' ' + r.born_at.to_s
     end
   end
 

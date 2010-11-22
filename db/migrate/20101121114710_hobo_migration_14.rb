@@ -16,7 +16,6 @@ class HoboMigration14 < ActiveRecord::Migration
     end
     add_index :interpersonal_relation_calculators, [:p2p_relation_type_id]
     add_index :interpersonal_relation_calculators, [:p2o_relation_type_id]
-    add_index :interpersonal_relation_calculators, [:related_p2o_relation_type_id]
 
     add_column :interpersonal_relations, :person_to_org_relation_id, :integer
 

@@ -9,7 +9,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20101122121329) do
+ActiveRecord::Schema.define(:version => 20101122154310) do
 
   create_table "information_sources", :force => true do |t|
     t.string   "name"
@@ -34,9 +34,7 @@ ActiveRecord::Schema.define(:version => 20101122121329) do
   add_index "interorg_relations", ["information_source_id"], :name => "index_interorg_relations_on_information_source_id"
   add_index "interorg_relations", ["interorg_relation_id"], :name => "index_interorg_relations_on_interorg_relation_id"
   add_index "interorg_relations", ["o2o_relation_type_id"], :name => "index_interorg_relations_on_o2o_relation_type_id"
-  add_index "interorg_relations", ["organization_id"], :name => "index_interorg_relations_on_organization_a_id"
   add_index "interorg_relations", ["organization_id"], :name => "index_interorg_relations_on_organization_id"
-  add_index "interorg_relations", ["related_organization_id"], :name => "index_interorg_relations_on_organization_b_id"
   add_index "interorg_relations", ["related_organization_id"], :name => "index_interorg_relations_on_related_organization_id"
 
   create_table "interpersonal_relation_calculators", :force => true do |t|
@@ -50,6 +48,7 @@ ActiveRecord::Schema.define(:version => 20101122121329) do
 
   add_index "interpersonal_relation_calculators", ["p2o_relation_type_id"], :name => "index_interpersonal_relation_calculators_on_p2o_relation_type_id"
   add_index "interpersonal_relation_calculators", ["p2p_relation_type_id"], :name => "index_interpersonal_relation_calculators_on_p2p_relation_type_id"
+  add_index "interpersonal_relation_calculators", ["related_p2o_relation_type_id"], :name => "index_interersonal_rel_calc"
 
   create_table "interpersonal_relations", :force => true do |t|
     t.datetime "created_at"
@@ -131,6 +130,7 @@ ActiveRecord::Schema.define(:version => 20101122121329) do
     t.datetime "updated_at"
     t.integer  "information_source_id"
     t.integer  "user_id"
+    t.string   "name"
   end
 
   add_index "people", ["information_source_id"], :name => "index_people_on_information_source_id"
