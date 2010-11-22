@@ -25,12 +25,7 @@ class PersonToOrgRelation < ActiveRecord::Base
   end
 
   def match
-    logger.info "........................................."
-    logger.info self.inspect
-    logger.info self.interpersonal_relations.inspect
-    logger.info self.other_interpersonal_relations.inspect
     self.interpersonal_relations.try.delete_all
-
     self.other_interpersonal_relations.try.delete_all
     if person # ha nem törlés történt
       if !(InterpersonalRelation.find_by_person_to_org_relation_id(id) or InterpersonalRelation.find_by_other_person_to_org_relation_id(id))
