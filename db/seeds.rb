@@ -60,7 +60,7 @@ if Rails.env == "development"
 
   if User.count == 0
     User.create :name => "admin", :email_address => "admin@addig.hu", :password => "minek", :password_confirmation => "minek", :editor => false, :administrator => true
-    User.create :name => "editor", :email_address => "editor@addig.hu", :password => "minek", :password_confirmation => "minek", :editor => true,
+    User.create :name => "editor", :email_address => "editor@addig.hu", :password => "minek", :password_confirmation => "minek", :editor => true
     User.create :name => "supervisor", :email_address => "supervisor@addig.hu", :password => "minek", :password_confirmation => "minek", :editor => true, :supervisor => true
     User.create :name => "normale", :email_address => "normale@addig.hu", :password => "minek", :password_confirmation => "minek", :editor => false, :administrator => false
   end
