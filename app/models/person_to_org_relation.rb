@@ -55,7 +55,8 @@ class PersonToOrgRelation < ActiveRecord::Base
                                             :information_source_id => info.id,
                                             :person_to_org_relation_id => id,
                                             :other_person_to_org_relation_id => pot.id,
-                                            :organization_id => organization_id )
+                                            :organization_id => organization_id,
+                                            :internal => true)
           end
         end
       end

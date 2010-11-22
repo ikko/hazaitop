@@ -14,18 +14,21 @@ class Person < ActiveRecord::Base
     last_name + ', ' + first_name + (born_at ? ', ' + born_at.to_s : '')
   end
 
-  before_validation do |r|
-    if r.born_at
-      r.update_attribute(:born_at, nil) if r.born_at.year == Time.now.year
+  before_save do |r|
+    if r.born_at and r.born_at.year == Time.now.year
+      r.born_at = nil
     end
   end
 
+  # ez az összes kapcsolat, azok is, amit a rendszer generált
   has_many :interpersonal_relations, :accessible => true
+
+  # ezek csak a kézzel bevitt kapcsolatok
+  has_many :personal_relations, :conditions => [ "internal = ?", false], :class_name => "InterpersonalRelation", :accessible => true
+
   has_many :person_to_org_relations, :accessible => true
 
   has_many :organizations, :through => :person_to_org_relations
-  #has_many :related_persons_a, :through => :interpersonal_relations, :accessible => true, :source => :person_a
-  #has_many :related_persons_b, :through => :interpersonal_relations, :accessible => true, :source => :person_b
 
   belongs_to :information_source
   belongs_to :user, :creator => true

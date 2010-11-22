@@ -5,6 +5,7 @@ class InterpersonalRelation < ActiveRecord::Base
   fields do
     timestamps
     mirrored     :boolean, :default => false
+    internal     :boolean, :default => false
   end
 
   belongs_to :p2p_relation_type
@@ -83,11 +84,10 @@ class InterpersonalRelation < ActiveRecord::Base
   # --- Permissions --- #
 
   def create_permitted?
-   acting_user.administrator? || acting_user.editor?
+    acting_user.administrator? || acting_user.editor?
   end
 
   def update_permitted?
-    # return true
     acting_user.administrator? || acting_user.editor?
   end
 

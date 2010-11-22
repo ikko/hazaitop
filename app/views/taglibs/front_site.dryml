@@ -4,6 +4,8 @@
 <include src="taglibs/auto/rapid/pages"/>
 <include src="taglibs/auto/rapid/forms"/>
 
+<include src="hobo-jquery" plugin="hobo-jquery"/>
+
 <set-theme name="clean"/>
 
 <extend tag="page">
@@ -14,4 +16,47 @@
   </old-page>
 </extend>
 
+<extend tag="page">
+  <old-page merge>
+    <custom-scripts:>
+      <hjq-assets/>
+    </custom-scripts>
+  </old-page>
+</extend>
+
 <def tag="app-name">K Wiw</def>
+
+<def tag="form" for="Person">
+  <form merge param="default">
+    <error-messages param/>
+    <field-list fields="first_name, last_name, born_at, mothers_name, information_source, personal_relations, person_to_org_relations, user" param>
+      <person-to-org-relations-view:>
+        <hjq-input-many fields="organization, p2o_relation_type, start_time, end_time, information_source" />  
+      </person-to-org-relations-view:>
+      <personal-relations-view:>
+        <hjq-input-many fields="related_person, p2p_relation_type, information_source" />  
+      </personal-relations-view:>
+    </field-list>
+    <div param="actions">
+      <submit label="#{ht 'people.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
+    </div>
+  </form>
+</def>
+
+<def tag="form" for="Organization">
+  <form merge param="default">
+    <error-messages param/>
+    <field-list fields="name, street1, street2, zip_code, trade_register_nr, tax_nr, information_source, interorg_relations, person_to_org_relations, user" param>
+      <person-to-org-relations-view:>
+        <hjq-input-many fields="person, p2o_relation_type, start_time, end_time, information_source" />  
+      </person-to-org-relations-view:>
+      <interorg-relations-view:>
+        <hjq-input-many fields="related_organization, o2o_relation_type, information_source" />  
+      </interorg-relations-view:>
+    </field-list>
+    <div param="actions">
+      <submit label="#{ht 'organizations.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
+    </div>
+  </form>
+</def>
+

@@ -9,7 +9,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20101122005750) do
+ActiveRecord::Schema.define(:version => 20101122121329) do
 
   create_table "information_sources", :force => true do |t|
     t.string   "name"
@@ -63,6 +63,7 @@ ActiveRecord::Schema.define(:version => 20101122005750) do
     t.integer  "person_to_org_relation_id"
     t.integer  "organization_id"
     t.integer  "other_person_to_org_relation_id"
+    t.boolean  "internal",                        :default => false
   end
 
   add_index "interpersonal_relations", ["information_source_id"], :name => "index_interpersonal_relations_on_information_source_id"
