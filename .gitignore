@@ -1,5 +1,6 @@
 config/database.yml
 db/schema.rb
+tmp/*
 *~
 log/*
 app/views/taglibs/auto/*
