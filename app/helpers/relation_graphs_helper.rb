@@ -1,0 +1,2 @@
+module RelationGraphsHelper
+end
