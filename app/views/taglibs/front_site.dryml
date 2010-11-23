@@ -33,7 +33,7 @@
     <nav-item href="#{base_url}/">Home</nav-item>
     <nav-item with="&Person"><ht key="persons.nav_item">People</ht></nav-item>
     <nav-item with="&Organization"><ht key="persons.nav_item">Organizations</ht></nav-item>
-    <!--nav-item href="/search"><ht key="search.nav_item">Search</ht></nav-item-->
+    <nav-item href="/search"><ht key="search.nav_item">Search</ht></nav-item>
     <nav-item if="&current_user.administrator? or current_user.editor?" with="&InformationSource"><ht key="information_sources.nav_item">Sources</ht></nav-item>
     <nav-item if="&current_user.administrator? or current_user.editor?" href="#{base_url}/settings">Settings</nav-item>
   </navigation>
