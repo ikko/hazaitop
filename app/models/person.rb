@@ -20,6 +20,8 @@ class Person < ActiveRecord::Base
     end
   end
 
+  belongs_to :place_of_birth
+
   # ez az összes kapcsolat, azok is, amit a rendszer generált
   has_many :interpersonal_relations, :accessible => true
 
