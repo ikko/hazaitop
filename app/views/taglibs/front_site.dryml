@@ -113,3 +113,20 @@
   </form>
 </def>
 
+<extend tag="form" for="InformationSource">
+  <old-form>
+    <field-list: skip="internal"/>
+  </old-form>
+</extend>
+  
+<def tag="card" for="InformationSource">
+  <card class="information-source" param="default" merge>
+    <header: param>
+      <h4 param="heading"><a><name/></a></h4>
+    </header:>
+    <body: param>
+      <a if="web" href="#{this.web}" target="_blank"><view:web/></a>
+    </body:>
+  </card>
+</def>
+

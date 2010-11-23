@@ -14,11 +14,11 @@ class InformationSource < ActiveRecord::Base
   # --- Permissions --- #
 
   def create_permitted?
-    acting_user.administrator? || acting_user.supervisor?
+    acting_user.administrator? || acting_user.supervisor? || acting_user.editor?
   end
 
   def update_permitted?
-    acting_user.administrator? || acting_user.supervisor?
+    acting_user.administrator? || acting_user.supervisor? || acting_user.editor?
   end
 
   def destroy_permitted?

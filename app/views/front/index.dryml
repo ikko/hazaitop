@@ -27,11 +27,10 @@
     
 
     <section class="content-body">
-      <h2>Last Updated Organizations</h2>
+      <h2>Recently Updated Organizations</h2>
       <table-plus with="&Organization.list" fields="name, street1, zip_code, information_source" without-search-form/>
-      <h2>Last Updated People</h2>
-      <table-plus with="&Person.list" fields="first_name, last_name, mothers_name, information_source" without-search-form/>
-
+      <h2>Recently Updated People</h2>
+      <table-plus with="&Person.list" fields="last_name, first_name, information_source" without-search-form/>
     </section>
   </content:>
   

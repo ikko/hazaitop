@@ -50,9 +50,9 @@ if InformationSource.count == 0
   # információforrások
   InformationSource.create( :name => "közbeszerzési értesítő",  :weight => "15" )
   InformationSource.create( :name => "cégbíróság",              :weight => "15" )
-  InformationSource.create( :name => "index.hu",                :weight => "11" )
-  InformationSource.create( :name => "origo.hu",                :weight => "11" )
-  sajat = InformationSource.create( :name => "saját forrás",            :weight => "20" )
+  InformationSource.create( :name => "index.hu",                :weight => "11", :web => "http://www.index.hu" )
+  InformationSource.create( :name => "origo.hu",                :weight => "11", :web => "http://www.origo.hu" )
+  sajat = InformationSource.create( :name => "saját forrás",    :weight => "20" )
 
 end
 
