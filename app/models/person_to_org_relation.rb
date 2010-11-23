@@ -6,6 +6,7 @@ class PersonToOrgRelation < ActiveRecord::Base
     start_time :date
     end_time   :date
     timestamps
+    weight     :float
   end
 
   belongs_to :p2o_relation_type
@@ -19,6 +20,10 @@ class PersonToOrgRelation < ActiveRecord::Base
 
   validates_presence_of :information_source
   validates_presence_of :p2o_relation_type
+
+  before_save do |r|
+    r.weight = r.information_source.weight * r.p2o_relation_type.weight
+  end
 
   after_save do |r|
     r.match
