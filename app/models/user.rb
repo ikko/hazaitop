@@ -29,7 +29,7 @@ class User < ActiveRecord::Base
 
     create :invite,
            :available_to => "acting_user if (acting_user.administrator? or acting_user.supervisor? or acting_user.editor?)",
-           :params => [:name, :email_address],
+           :params => [:name, :email_address, :editor, :supervisor],
            :new_key => true,
            :become => :invited do
        UserMailer.deliver_invite(self, lifecycle.key)
