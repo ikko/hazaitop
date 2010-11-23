@@ -1,0 +1,49 @@
+<page>
+  <append-scripts:>
+    <javascript name="AC_OETags.min, json2.min, cytoscapeweb.min"/>
+    <script type="text/javascript">
+      var options = {
+        swfPath: "/swf/CytoscapeWeb",
+        flashInstallerPath: "/swf/playerProductInstall"
+      }, vis = new org.cytoscapeweb.Visualization("relationgraph", options);
+  
+      jQuery(function($) {
+        vis.draw({ network: '<%=@graphml%>'});
+        $("#search_entities").tabs();
+        $(".ui-tabs .ui-widget-content").css('height', '400px');
+        $(".autocomplete").autocomplete({minLength: '3', 
+                                         delay: '500',
+                                         select: function(event, ui) {
+                                           $.ajax({url: '/search/?id='+ui.item.id+'&type='+$("#search_entities").tabs("option", "selected"),
+                                                   dataType: 'text',
+                                                   success: function(graphml) {
+                                                     <%= "console.log(graphml)" if Rails.env.development? %>
+                                                     vis.draw({ network: graphml });
+                                                   }});
+                                         }});
+        $("#organization_autocomplete").autocomplete({source: '/organizations/query'});
+        $("#people_autocomplete").autocomplete({source: '/people/query'});
+      });
+    </script> 
+  </append-scripts:>
+  <content:>
+    <div class="left" id="search_box">
+      <div id="search_entities">
+        <ul>
+          <li><a href="#search_tab_people">People</a></li>
+          <li><a href="#search_tab_organizations">Organizations</a></li>
+        </ul>
+        <div id="search_tab_people">
+          <input class="autocomplete" id="people_autocomplete" type="text"/>
+        </div>
+        <div id="search_tab_organizations">
+          <input class="autocomplete" id="organization_autocomplete" type="text"/>
+        </div>
+      </div>
+    </div>
+    <div class="left" id="relationgraph" style="width: 70%;height: 400px"></div>
+    <a href="http://cytoscapeweb.cytoscape.org/">
+        <img src="http://cytoscapeweb.cytoscape.org/img/logos/cw_s.png" alt="Cytoscape Web"/>
+    </a>
+  </content:>
+</page>
