@@ -6,17 +6,21 @@
     <header class="content-header">
       <h1>Settings</h1>
       <section class="welcome-message">
-        <h3>Choose entitiy to configure:</h3>
+        <h3>Configure</h3>
 
           <navigation if="&current_user.administrator? or current_user.editor?">
-            <nav-item with="&InterpersonalRelation"><ht key="interpersonal_relations.nav_item">Interpersonal Relations</ht></nav-item>
-            <nav-item with="&InterorgRelation"><ht key="interorg_relations.nav_item">Interorganizational Relations</ht></nav-item>
             <nav-item with="&InterpersonalRelationCalculator"><ht key="interpersonal_relation_calculators.nav_item">Interpersonal Relation Calculator</ht></nav-item>
             <nav-item with="&O2oRelationType"><ht key="o2o_relation_types.nav_item">Organization to Organization Relation Types</ht></nav-item>
             <nav-item with="&P2oRelationType"><ht key="p2o_relation_types.nav_item">Person to Organization Relation Types</ht></nav-item>
             <nav-item with="&P2pRelationType"><ht key="p2p_relation_types.nav_item">Person to Person Relation Types</ht></nav-item>
           </navigation>
-                
+      
+        <h3>Examine</h3>
+      
+          <navigation if="&current_user.administrator? or current_user.editor?">
+            <nav-item with="&InterpersonalRelation"><ht key="interpersonal_relations.nav_item">Interpersonal Relations</ht></nav-item>
+            <nav-item with="&InterorgRelation"><ht key="interorg_relations.nav_item">Interorganizational Relations</ht></nav-item>
+          </navigation>          
       
       </section>
       
