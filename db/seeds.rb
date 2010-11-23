@@ -71,8 +71,8 @@ if Rails.env == "development"
   end
 
   if Person.count == 0
-    Person.create! :first_name => "kokojszi", :last_name => "torpe", :information_source_id => sajat.id
-    Person.create! :first_name => "bobojsza", :last_name => "torpe", :information_source_id => sajat.id
+    Person.create :first_name => "kokojszi", :last_name => "torpe", :information_source_id => sajat.id
+    Person.create :first_name => "bobojsza", :last_name => "torpe", :information_source_id => sajat.id
   end
 
 end

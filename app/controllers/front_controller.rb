@@ -13,11 +13,4 @@ class FrontController < ApplicationController
       redirect_to user_login_path
     end
   end
-
-  def search
-    if params[:query]
-      site_search(params[:query])
-    end
-  end
-
 end

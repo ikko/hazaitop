@@ -12,10 +12,11 @@ class Person < ActiveRecord::Base
   end
 
   before_save do |r|
+    r.name = r.last_name + ', ' + r.first_name
     if r.born_at and r.born_at.year == Time.now.year
       r.born_at = nil
     elsif r.born_at
-      r.name = r.last_name + ', ' + r.first_name + ' ' + r.born_at.to_s
+      r.name << r.born_at.to_s
     end
   end
 
