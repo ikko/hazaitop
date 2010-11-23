@@ -75,7 +75,7 @@
 <def tag="form" for="Person">
   <form merge param="default">
     <error-messages param/>
-    <field-list fields="first_name, last_name, born_at, mothers_name, information_source, personal_relations, person_to_org_relations, user" param>
+    <field-list fields="first_name, last_name, place_of_birth, born_at, mothers_name, information_source, personal_relations, person_to_org_relations, user" param>
       <person-to-org-relations-view:>
         <hjq-input-many fields="organization, p2o_relation_type, start_time, end_time, information_source" />  
       </person-to-org-relations-view:>
