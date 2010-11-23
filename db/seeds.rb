@@ -89,13 +89,13 @@ if Rails.env == "production"
 
 
   if Organization.count == 0
-    Organization.create! :name => "Szivarvany Gyár", :information_source_id => sajat.id
-    Organization.create! :name => "Gomba Gyár", :information_source_id => sajat.id
+    Organization.create! :name => "szivarvany gyár", :information_source_id => sajat.id
+    Organization.create! :name => "gomba gyár", :information_source_id => sajat.id
   end
 
   if Person.count == 0
-    Person.create! :first_name => "Géza", :last_name => "Cérna", :information_source_id => sajat.id
-    Person.create! :first_name => "Mátyás", :last_name => "Mókás", :information_source_id => sajat.id
+    Person.create! :first_name => "géza", :last_name => "cérna", :information_source_id => sajat.id
+    Person.create! :first_name => "mátyás", :last_name => "mókás", :information_source_id => sajat.id
   end
 
 end
