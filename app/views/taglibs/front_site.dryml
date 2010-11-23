@@ -11,15 +11,22 @@
 <extend tag="page">
   <old-page merge>
     <footer:>
-      <a href="http://rubyonrails.com">
-        <img src="/images/rails.png" height="36"/>
+      <a href="http://www.k-monitor.hu" target="_blank">
+        <img src="/images/k-monitor-logo.jpg" height="50" alt="K-Monitor Közhasznú Egyesület"/>
       </a>
-      <a href="http://hobocentral.net">
-        <img src="/images/hobo.png"/>
+      <a href="http://www.tasz.hu/" target="_blank">
+        <img src="/images/tasz-logo.png" height="50" alt="Társaság a Szabadságjogokért" />
       </a>
-      <a href="http://cytoscapeweb.cytoscape.org/">
-        <img src="http://cytoscapeweb.cytoscape.org/img/logos/cw_s.png" alt="Cytoscape Web"/>
-      </a><br />
+      <a href="http://www.transparency.org" target="_blank">
+        <img src="/images/transparency-international-logo.gif" height="50" alt="Transparency International"/>
+      </a>
+      <a href="#" target="_blank">
+        <img src="/images/amitaba-mudra-logo.gif" height="50" alt="AMITABA-MUDRA Kft." />
+      </a>
+      <a href="http://www.digitalnatives.hu" target="_blank">
+        <img src="/images/dina-logo.jpg" height="50" alt="Digital Natives Kft."/>
+      </a>
+      <br />
       Copyright 2010 K-Monitor and Amitaba-Mudra |  <a href="#{base_url}/front/development">development</a> | <a href="#{base_url}/front/impressum">impressum</a>
       <a href="&admin_users_url" if="&current_user.administrator?"> | admin</a>
     </footer:>
