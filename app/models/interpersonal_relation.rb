@@ -6,6 +6,7 @@ class InterpersonalRelation < ActiveRecord::Base
     timestamps
     mirrored     :boolean, :default => false
     internal     :boolean, :default => false
+    weight       :float
   end
 
   belongs_to :p2p_relation_type
@@ -23,6 +24,10 @@ class InterpersonalRelation < ActiveRecord::Base
   validates_presence_of :related_person
   validates_presence_of :information_source
   validates_presence_of :p2p_relation_type
+
+  before_save do |r|
+    r.weight = r.information_source.weight * r.p2p_relation_type.weight
+  end
 
   after_create do |r|
     unless r.mirrored

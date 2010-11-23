@@ -5,6 +5,7 @@ class InterorgRelation < ActiveRecord::Base
   fields do
     timestamps
     mirrored     :boolean, :default => false
+    weight       :float
   end
 
   belongs_to :o2o_relation_type
@@ -17,6 +18,10 @@ class InterorgRelation < ActiveRecord::Base
   validates_presence_of :related_organization
   validates_presence_of :information_source
   validates_presence_of :o2o_relation_type
+
+  before_save do |r|
+    r.weight = r.information_source.weight * r.o2o_relation_type.weight
+  end
 
   after_create do |r|
     unless r.mirrored
