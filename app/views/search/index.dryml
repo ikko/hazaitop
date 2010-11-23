@@ -8,7 +8,6 @@
       }, vis = new org.cytoscapeweb.Visualization("relationgraph", options);
   
       jQuery(function($) {
-        vis.draw({ network: '<%=@graphml%>'});
         $("#search_entities").tabs();
         $(".ui-tabs .ui-widget-content").css('height', '400px');
         $(".autocomplete").autocomplete({minLength: '3', 
@@ -18,7 +17,7 @@
                                                    dataType: 'text',
                                                    success: function(graphml) {
                                                      <%= "console.log(graphml)" if Rails.env.development? %>
-                                                     vis.draw({ network: graphml });
+                                                     vis.draw({network: graphml, edgeLabelsVisible: true});
                                                    }});
                                          }});
         $("#organization_autocomplete").autocomplete({source: '/organizations/query'});
