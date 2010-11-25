@@ -84,11 +84,11 @@
     <error-messages param/>
     <field-list fields="first_name, last_name, place_of_birth, born_at, mothers_name, information_source, personal_relations, person_to_org_relations, user" param>
       <person-to-org-relations-view:>
-        <hjq-input-many fields="organization, p2o_relation_type, start_time, end_time, information_source, litigations">
+        <hjq-input-many fields="organization, p2o_relation_type, start_time, end_time, litigations, information_source">
         </hjq-input-many>
       </person-to-org-relations-view:>
       <personal-relations-view:>
-        <hjq-input-many fields="related_person, p2p_relation_type, information_source" />
+        <hjq-input-many fields="related_person, p2p_relation_type, litigations, information_source" />
       </personal-relations-view:>
     </field-list>
     <div param="actions">
@@ -102,10 +102,10 @@
     <error-messages param/>
     <field-list fields="name, street1, street2, zip_code, trade_register_nr, tax_nr, information_source, interorg_relations, person_to_org_relations, user" param>
       <person-to-org-relations-view:>
-        <hjq-input-many fields="person, o2p_relation_type, start_time, end_time, information_source" />
+        <hjq-input-many fields="person, o2p_relation_type, start_time, end_time, litigations, information_source" />
       </person-to-org-relations-view:>
       <interorg-relations-view:>
-        <hjq-input-many fields="related_organization, o2o_relation_type, information_source" />
+        <hjq-input-many fields="related_organization, o2o_relation_type, litigations, information_source" />
       </interorg-relations-view:>
     </field-list>
     <div param="actions">
