@@ -8,21 +8,57 @@ if P2pRelationType.count == 0
   P2pRelationType.create( :name => "barát",               :weight => "6" )
   P2pRelationType.create( :name => "rokon",               :weight => "11" )
 
+  # alperesi / felperesi viszony
+  a = P2pRelationType.create( :name => "alperes",         :weight => "10" )
+  b = P2pRelationType.create( :name => "felperes",        :weight => "10",   :pair_id => a.id  )
+  a.update_attribute :pair_id, b.id
+
   # egyszerűen származtatható személyes kapcsolatok és a forrás intézményi kapcsolatok
   i = P2pRelationType.create( :name => "iskolatárs",      :weight => "3" )
-  P2oRelationType.create(     :name   => "diák",          :weight => "6", :p2p_relation_type_id => i.id )
+  a = P2oRelationType.create(     :name   => "diák",         :weight => "6", :p2p_relation_type_id => i.id)
+  b = O2pRelationType.create(     :name   => "tanuló",       :weight => "6", :p2p_relation_type_id => i.id, :pair_id => a.id  )
+  a.update_attribute :pair_id, b.id
+
   i = P2pRelationType.create( :name => "kollégiumi társ", :weight => "4" )
-  P2oRelationType.create(     :name   => "kollegista",    :weight => "9", :p2p_relation_type_id => i.id )
+  a = P2oRelationType.create(     :name   => "kollegista",   :weight => "9", :p2p_relation_type_id => i.id )
+  b = O2pRelationType.create(     :name   => "kollegista",   :weight => "9", :p2p_relation_type_id => i.id, :pair_id => a.id  )
+    a.update_attribute :pair_id, b.id
+
   i = P2pRelationType.create( :name => "munkatárs",       :weight => "7" )
-  P2oRelationType.create(     :name   => "alkalmazott",   :weight => "7",  :p2p_relation_type_id => i.id )
+  a = P2oRelationType.create(     :name   => "alkalmazott",  :weight => "7",  :p2p_relation_type_id => i.id )
+  b = O2pRelationType.create(     :name   => "munkavállaló", :weight => "7", :p2p_relation_type_id => i.id, :pair_id => a.id  )
+  a.update_attribute :pair_id, b.id
+
   i = P2pRelationType.create( :name => "párttárs",        :weight => "12" )
-  P2oRelationType.create(     :name   => "párttag",       :weight => "14", :p2p_relation_type_id => i.id )
+  a = P2oRelationType.create(     :name   => "párttag",      :weight => "14", :p2p_relation_type_id => i.id )
+  b = O2pRelationType.create(     :name   => "párttag",      :weight => "14", :p2p_relation_type_id => i.id, :pair_id => a.id  )
+  a.update_attribute :pair_id, b.id
+
   i = P2pRelationType.create( :name => "társtulajdonos",  :weight => "8" )
-  P2oRelationType.create(     :name   => "tulajdonos",    :weight => "10", :p2p_relation_type_id => i.id )
+  a = P2oRelationType.create(     :name   => "tulajdonos",   :weight => "10", :p2p_relation_type_id => i.id )
+  b = O2pRelationType.create(     :name   => "tulajdonos",   :weight => "10", :p2p_relation_type_id => i.id, :pair_id => a.id  )
+  a.update_attribute :pair_id, b.id
+
   i = P2pRelationType.create( :name => "IT társ",         :weight => "8" )
-  P2oRelationType.create(     :name   => "IT tag",        :weight => "10", :p2p_relation_type_id => i.id )
+  a = P2oRelationType.create(     :name   => "IT tag",       :weight => "10", :p2p_relation_type_id => i.id )
+  b = O2pRelationType.create(     :name   => "IT tag",       :weight => "10", :p2p_relation_type_id => i.id, :pair_id => a.id  )
+  a.update_attribute :pair_id, b.id
+
   i = P2pRelationType.create( :name => "FB társ",         :weight => "8" )
-  P2oRelationType.create(     :name   => "FB tag",        :weight => "10", :p2p_relation_type_id => i.id )
+  a = P2oRelationType.create(     :name   => "FB tag",       :weight => "10", :p2p_relation_type_id => i.id )
+  b = O2pRelationType.create(     :name   => "FB tag",       :weight => "10", :p2p_relation_type_id => i.id, :pair_id => a.id  )
+  a.update_attribute :pair_id, b.id
+
+
+  i = P2pRelationType.create( :name => "alperesek",       :weight => "8" )
+  a = P2oRelationType.create(     :name   => "alperes",      :weight => "10", :p2p_relation_type_id => i.id )
+  b = O2pRelationType.create(     :name   => "felperes",     :weight => "10", :p2p_relation_type_id => i.id, :pair_id => a.id  )
+  a.update_attribute :pair_id, b.id
+
+  i = P2pRelationType.create( :name => "felperesek",      :weight => "8" )
+  a = P2oRelationType.create(     :name   => "felperes",     :weight => "10", :p2p_relation_type_id => i.id )
+  b = O2pRelationType.create(     :name   => "alperes",      :weight => "10", :p2p_relation_type_id => i.id, :pair_id => a.id  )
+  a.update_attribute :pair_id, b.id
 
 end
 
@@ -37,6 +73,9 @@ if O2oRelationType.count == 0
   t.update_attribute :pair_id, r.id
   t = O2oRelationType.create( :name => "szponzor",       :weight => "10" )
   r = O2oRelationType.create( :name => "szponzorált",    :weight => "10", :pair_id => t.id )
+  t.update_attribute :pair_id, r.id
+  t = O2oRelationType.create( :name => "alperes",        :weight => "10" )
+  r = O2oRelationType.create( :name => "felperes",       :weight => "10", :pair_id => t.id )
   t.update_attribute :pair_id, r.id
 
   # p2p kapcsolatot nem eredményező egyszerű személy és szerveztközi kapcsolatok
@@ -53,6 +92,15 @@ if InformationSource.count == 0
   InformationSource.create( :name => "index.hu",                :weight => "11", :web => "http://www.index.hu" )
   InformationSource.create( :name => "origo.hu",                :weight => "11", :web => "http://www.origo.hu" )
   sajat = InformationSource.create( :name => "saját forrás",    :weight => "20" )
+
+end
+
+if LitigationRelation.count == 0
+
+  LitigationRelation.create :name => "alperes"
+  LitigationRelation.create :name => "felperes"
+  LitigationRelation.create :name => "tanú"
+  LitigationRelation.create :name => "bíró"
 
 end
 

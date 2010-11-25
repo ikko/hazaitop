@@ -10,6 +10,7 @@ class PersonToOrgRelation < ActiveRecord::Base
   end
 
   belongs_to :p2o_relation_type
+  belongs_to :o2p_relation_type
   belongs_to :organization
   belongs_to :person
 
@@ -18,8 +19,19 @@ class PersonToOrgRelation < ActiveRecord::Base
 
   belongs_to :information_source
 
+  has_many :litigation_relations, :as => :litigable
+  has_many :litigations, :through => :litigation_relations, :accessible => true
+
   validates_presence_of :information_source
   validates_presence_of :p2o_relation_type
+  validates_presence_of :p2o_relation_type
+
+  before_validation do |r|
+    p2o_relation_type_id   = r.o2p_relation_type.pair_id if r.o2p_relation_type
+    o2p_relation_type_id   = r.p2o_relation_type.pair_id if r.p2o_relation_type
+    r.p2o_relation_type_id = p2o_relation_type_id        if p2o_relation_type_id
+    r.o2p_relation_type_id = o2p_relation_type_id        if o2p_relation_type_id
+  end
 
   before_save do |r|
     r.weight = r.information_source.weight * r.p2o_relation_type.weight

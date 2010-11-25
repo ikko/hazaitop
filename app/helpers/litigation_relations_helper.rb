@@ -1,0 +1,2 @@
+module LitigationRelationsHelper
+end

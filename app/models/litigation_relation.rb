@@ -1,4 +1,4 @@
-class Affair < ActiveRecord::Base
+class LitigationRelation < ActiveRecord::Base
 
   hobo_model # Don't put anything above this
 
@@ -7,10 +7,8 @@ class Affair < ActiveRecord::Base
     timestamps
   end
 
-#   has_many :affected_people
-#   has_many :people, :through => :affected_people
-#   has_many :organizations
-#   has_many :
+  belongs_to :litigable, :polymorphic => true
+  belongs_to :litigation
 
   # --- Permissions --- #
 

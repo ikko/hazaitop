@@ -21,6 +21,9 @@ class InterpersonalRelation < ActiveRecord::Base
   belongs_to :information_source
   belongs_to :interpersonal_relation   # megmutatja, hgoy kinek a mirrorja. ha nil, akkor ot mirrorozzuk
 
+  has_many :litigation_relations, :as => :litigable
+  has_many :litigations, :through => :litigation_relations, :accessible => true
+
   validates_presence_of :related_person
   validates_presence_of :information_source
   validates_presence_of :p2p_relation_type
