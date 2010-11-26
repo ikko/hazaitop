@@ -1,6 +1,13 @@
 # This file should contain all the record creation needed to seed the database with its default values.
 # The data can then be loaded with the rake db:seed (or created alongside the db with db:setup or cap:deploy:db).
 
+P2oRelationType.delete_all
+P2pRelationType.delete_all
+O2oRelationType.delete_all
+Person.delete_all
+InformationSource.delete_all
+Organization.delete_all
+
 if P2pRelationType.count == 0
 
   # egyszerű személyes kapcsolatok
