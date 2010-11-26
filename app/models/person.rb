@@ -20,6 +20,9 @@ class Person < ActiveRecord::Base
     end
   end
 
+  has_many :person_grade_assocs
+  has_many :person_grades, :through => :person_grade_assocs, :accessible => true
+
   belongs_to :place_of_birth
 
   # ez az összes kapcsolat, azok is, amit a rendszer generált

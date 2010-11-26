@@ -1,4 +1,4 @@
-class P2oRelationType < ActiveRecord::Base
+class O2pRelationType < ActiveRecord::Base
 
   hobo_model # Don't put anything above this
 
@@ -11,8 +11,7 @@ class P2oRelationType < ActiveRecord::Base
   belongs_to :p2p_relation_type   # ha nincs definiálva a kalkulátorban, akkor erre default-olunk
   validates_presence_of :p2p_relation_type
 
-  belongs_to :pair, :class_name => "O2pRelationType"
-
+  belongs_to :pair, :class_name => "P2oRelationType"
 
   # --- Permissions --- #
 

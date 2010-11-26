@@ -9,7 +9,7 @@ class InterpersonalRelationCalculator < ActiveRecord::Base
 
   belongs_to :p2p_relation_type
   belongs_to :p2o_relation_type
-  belongs_to :related_p2o_relation_type, :class_name => "P2oRelationType"
+  belongs_to :related_p2o_relation_type, :class_name => "P2oRelationType", :index => "matrix"
 
   # --- Permissions --- #
 

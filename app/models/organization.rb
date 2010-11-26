@@ -4,15 +4,26 @@ class Organization < ActiveRecord::Base
 
   fields do
     name              :string, :unique
-    street1           :string
-    street2           :string
+    street            :string
+    city              :string
     zip_code          :string
     trade_register_nr :string
     tax_nr            :string
-#    start_time        :date
-#    end_time          :date
+    founded_at        :date
     timestamps
   end
+
+  belongs_to :sector
+
+  has_many :activity_assocs
+  has_many :activities, :through => :activity_assocs, :accessible => true
+
+#   has_many :organization_grade_assocs
+#   has_many :org_grades, :through => :organization_grade_assocs, :accessible => true
+
+  belongs_to :org_grade
+
+  has_many :financials, :accessible => true
 
   has_many :interorg_relations, :accessible => true
   has_many :person_to_org_relations, :accessible => true
@@ -26,6 +37,7 @@ class Organization < ActiveRecord::Base
   belongs_to :user, :creator => true
 
   validates_presence_of :name
+  validates_presence_of :org_grade
   validates_presence_of :information_source
 
   named_scope :list, :limit => 15, :order => "updated_at DESC"

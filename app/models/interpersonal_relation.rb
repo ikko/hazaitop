@@ -5,6 +5,8 @@ class InterpersonalRelation < ActiveRecord::Base
   fields do
     timestamps
     mirrored     :boolean, :default => false
+    start_time   :date
+    end_time     :date
     internal     :boolean, :default => false
     weight       :float
   end
@@ -20,6 +22,9 @@ class InterpersonalRelation < ActiveRecord::Base
 
   belongs_to :information_source
   belongs_to :interpersonal_relation   # megmutatja, hgoy kinek a mirrorja. ha nil, akkor ot mirrorozzuk
+
+  has_many :litigation_relations, :as => :litigable
+  has_many :litigations, :through => :litigation_relations, :accessible => true
 
   validates_presence_of :related_person
   validates_presence_of :information_source
@@ -45,6 +50,8 @@ class InterpersonalRelation < ActiveRecord::Base
                               :organization_id => r.organization_id,
                               :person_to_org_relation_id => r.person_to_org_relation_id,
                               :other_person_to_org_relation_id => r.other_person_to_org_relation_id,
+                              :start_time => r.start_time,
+                              :end_time => r.end_time,
                               :mirrored => true)
       r.update_attribute :mirrored, true
     end

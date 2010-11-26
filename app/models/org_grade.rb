@@ -1,18 +1,13 @@
-class P2oRelationType < ActiveRecord::Base
+class OrgGrade < ActiveRecord::Base
 
   hobo_model # Don't put anything above this
 
   fields do
-    name   :string
-    weight :integer
+    name :string
     timestamps
   end
 
-  belongs_to :p2p_relation_type   # ha nincs definiálva a kalkulátorban, akkor erre default-olunk
-  validates_presence_of :p2p_relation_type
-
-  belongs_to :pair, :class_name => "O2pRelationType"
-
+  has_many :organizations
 
   # --- Permissions --- #
 

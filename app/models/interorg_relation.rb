@@ -15,6 +15,9 @@ class InterorgRelation < ActiveRecord::Base
   belongs_to :information_source
   belongs_to :interorg_relation  # megmutatja, hgoy kinek a mirrorja. ha nil, akkor ot mirrorozzuk
 
+  has_many :litigation_relations, :as => :litigable
+  has_many :litigations, :through => :litigation_relations, :accessible => true
+
   validates_presence_of :related_organization
   validates_presence_of :information_source
   validates_presence_of :o2o_relation_type
