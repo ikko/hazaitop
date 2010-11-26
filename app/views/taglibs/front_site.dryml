@@ -99,7 +99,7 @@
 <def tag="form" for="Organization">
   <form merge param="default">
     <error-messages param/>
-    <field-list fields="name, org_grade, sector, activities, zip_code, city, street, trade_register_nr, tax_nr, information_source, financials, interorg_relations, person_to_org_relations, user" param>
+    <field-list fields="name, org_grade, sector, activities, zip_code, city, street, trade_register_nr, tax_nr, number_of_employees, information_source, financials, interorg_relations, person_to_org_relations, user" param>
       <person-to-org-relations-view:>
         <hjq-input-many fields="person, o2p_relation_type, start_time, end_time, litigations, information_source" />
       </person-to-org-relations-view:>

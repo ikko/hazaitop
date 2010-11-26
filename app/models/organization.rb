@@ -3,13 +3,14 @@ class Organization < ActiveRecord::Base
   hobo_model # Don't put anything above this
 
   fields do
-    name              :string, :unique
-    street            :string
-    city              :string
-    zip_code          :string
-    trade_register_nr :string
-    tax_nr            :string
-    founded_at        :date
+    name                :string, :unique
+    street              :string
+    city                :string
+    zip_code            :string
+    trade_register_nr   :string
+    tax_nr              :string
+    founded_at          :date
+    number_of_employees :integer
     timestamps
   end
 
@@ -39,6 +40,7 @@ class Organization < ActiveRecord::Base
   validates_presence_of :name
   validates_presence_of :org_grade
   validates_presence_of :information_source
+  validates_numericality_of :number_of_employees, :if => lambda { |r| r.number_of_employees }
 
   named_scope :list, :limit => 15, :order => "updated_at DESC"
 

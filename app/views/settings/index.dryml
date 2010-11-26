@@ -6,7 +6,7 @@
     <header class="content-header">
       <h1>Settings</h1>
       <section class="welcome-message">
-        <h3>Configure</h3>
+        <h3>Relations</h3>
 
           <navigation if="&current_user.administrator? or current_user.editor?">
             <nav-item with="&InterpersonalRelationCalculator"><ht key="interpersonal_relation_calculators.nav_item">Interpersonal Relation Calculator</ht></nav-item>
@@ -14,20 +14,22 @@
             <nav-item with="&P2oRelationType"><ht key="p2o_relation_types.nav_item">Person to Organization Relation Types</ht></nav-item>
             <nav-item with="&P2pRelationType"><ht key="p2p_relation_types.nav_item">Person to Person Relation Types</ht></nav-item>
           </navigation>
-      
-        <h3>Examine</h3>
-      
+
+        <h3>Qualities</h3>
+
           <navigation if="&current_user.administrator? or current_user.editor?">
-            <nav-item with="&InterpersonalRelation"><ht key="interpersonal_relations.nav_item">Interpersonal Relations</ht></nav-item>
-            <nav-item with="&InterorgRelation"><ht key="interorg_relations.nav_item">Interorganizational Relations</ht></nav-item>
-          </navigation>          
-      
+            <nav-item with="&PersonGrade"><ht key="person_grades.nav_item">Person Grades</ht></nav-item>
+            <nav-item with="&OrgGrade"><ht key="org_grades.nav_item">Organizational Grades</ht></nav-item>
+            <nav-item with="&Activity"><ht key="activities.nav_item">Activity Types</ht></nav-item>
+            <nav-item with="&Sector"><ht key="sectors.nav_item">Sectors</ht></nav-item>
+          </navigation>
+
       </section>
-      
+
     </header>
 
     <section class="content-body">
     </section>
   </content:>
-  
+
 </page>

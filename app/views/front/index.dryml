@@ -11,7 +11,7 @@
           <li if="&current_user.guest?"><a href="/login">Log in</a> or browse content...</li>
           <li>Lorem ipsum, tell others, what's this...</li>
         </ul>
-    
+
         <% if User.count == 0 -%>
           <h3 style="margin-top: 20px;">There are no user accounts - please provide the details of the site administrator</h3>
 
@@ -20,18 +20,18 @@
             <submit: label="Register Administrator"/>
           </form>
         <% end -%>
-        
-      
+
+
       </section>
     </header>
-    
+
 
     <section class="content-body">
       <h2>Recently Updated Organizations</h2>
-      <table-plus with="&Organization.list" fields="name, street1, zip_code, information_source" without-search-form/>
+      <table-plus with="&Organization.list" fields="name, city, street, zip_code, information_source" without-search-form/>
       <h2>Recently Updated People</h2>
       <table-plus with="&Person.list" fields="last_name, first_name, information_source" without-search-form/>
     </section>
   </content:>
-  
+
 </page>
