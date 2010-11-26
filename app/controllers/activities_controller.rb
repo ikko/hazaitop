@@ -1,4 +1,4 @@
-class ArticlesController < ApplicationController
+class ActivitiesController < ApplicationController
 
   hobo_model_controller
 

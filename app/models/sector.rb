@@ -1,15 +1,13 @@
-class InterpersonalRelationCalculator < ActiveRecord::Base
+class Sector < ActiveRecord::Base
 
   hobo_model # Don't put anything above this
 
   fields do
-    weight :integer
+    name :string
     timestamps
   end
 
-  belongs_to :p2p_relation_type
-  belongs_to :p2o_relation_type
-  belongs_to :related_p2o_relation_type, :class_name => "P2oRelationType", :index => "matrix"
+  has_many :organizations
 
   # --- Permissions --- #
 

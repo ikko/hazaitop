@@ -1,4 +1,4 @@
-class Affair < ActiveRecord::Base
+class OrgGrade < ActiveRecord::Base
 
   hobo_model # Don't put anything above this
 
@@ -7,23 +7,20 @@ class Affair < ActiveRecord::Base
     timestamps
   end
 
-#   has_many :affected_people
-#   has_many :people, :through => :affected_people
-#   has_many :organizations
-#   has_many :
+  has_many :organizations
 
   # --- Permissions --- #
 
   def create_permitted?
-    acting_user.administrator?
+    acting_user.administrator? || acting_user.supervisor?
   end
 
   def update_permitted?
-    acting_user.administrator?
+    acting_user.administrator? || acting_user.supervisor?
   end
 
   def destroy_permitted?
-    acting_user.administrator?
+    acting_user.administrator? || acting_user.supervisor?
   end
 
   def view_permitted?(field)

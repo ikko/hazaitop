@@ -1,9 +1,9 @@
-class Article < ActiveRecord::Base
+class Activity < ActiveRecord::Base
 
   hobo_model # Don't put anything above this
 
   fields do
-    web :string
+    name :string
     timestamps
   end
 
@@ -11,15 +11,15 @@ class Article < ActiveRecord::Base
   # --- Permissions --- #
 
   def create_permitted?
-    acting_user.administrator?
+    acting_user.administrator? || acting_user.editor?
   end
 
   def update_permitted?
-    acting_user.administrator?
+    acting_user.administrator? || acting_user.editor?
   end
 
   def destroy_permitted?
-    acting_user.administrator?
+    acting_user.administrator? || acting_user.editor?
   end
 
   def view_permitted?(field)

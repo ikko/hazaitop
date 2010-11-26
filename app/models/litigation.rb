@@ -11,10 +11,7 @@ class Litigation < ActiveRecord::Base
   end
 
   has_many :litigation_relations
-
-#  has_many :interorg_relations, :through => :litigation_relations
-#  has_many :interpersonal_relations, :through => :litigation_relations
-#  has_many :person_to_org_relations, :through => :litigation_relations
+  belongs_to :information_source
 
   # --- Permissions --- #
 

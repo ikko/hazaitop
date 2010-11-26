@@ -64,6 +64,16 @@ class PersonToOrgRelation < ActiveRecord::Base
                                     :name => "közös intézményi kapcsolat", :weight => 5, :internal => true }).id
               end
             end
+            if start_time <= pot.start_time
+              calculated_start_time = pot.start_time
+            else
+              calculated_start_time = start_time
+            end
+            if end_time <= pot.end_time
+              calculated_end_time = end_time
+            else
+              calculated_end_time = pot.end_time
+            end
             info = InformationSource.find :first, :conditions => { :internal => true, :weight => weight }
             info = InformationSource.create!( :internal => true, :weight => weight, :name => "system" ) if !info
             InterpersonalRelation.create!(  :p2p_relation_type_id => relation_type_id,
@@ -73,6 +83,8 @@ class PersonToOrgRelation < ActiveRecord::Base
                                             :person_to_org_relation_id => id,
                                             :other_person_to_org_relation_id => pot.id,
                                             :organization_id => organization_id,
+                                            :start_time => calculated_start_time,
+                                            :end_time => calculated_end_time,
                                             :internal => true)
           end
         end

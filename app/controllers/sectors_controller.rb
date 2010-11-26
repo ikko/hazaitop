@@ -1,4 +1,4 @@
-class AffairsController < ApplicationController
+class SectorsController < ApplicationController
 
   hobo_model_controller
 

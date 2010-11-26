@@ -1,4 +1,4 @@
-<show-page>
+<show-page without-creator-link>
   <append-content-body:>
     <table-plus:interpersonal_relations fields="related_person, p2p_relation_type, organization, information_source" without-search-form />
     <table-plus:person_to_org_relations fields="organization, p2o_relation_type, start_time, end_time, information_source" without-search-form />

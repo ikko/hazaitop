@@ -1,4 +1,4 @@
-class AffairHints < Hobo::ViewHints
+class SectorHints < Hobo::ViewHints
 
   # model_name "My Model"
   # field_names :field1 => "First Field", :field2 => "Second Field"
