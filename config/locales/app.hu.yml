@@ -22,8 +22,8 @@ hu:
     nav_item: Személyek
     actions:
       new: Új személy
-      edit: Adatok és kapcsolatok szerkesztése
-      delete: Törlés
+      edit: adatok és kapcsolatok szerkesztése
+      delete: Személy törlése
     hints:
       name: Adj nevet a témának
       sitelist: Soronként adj meg egy-egy új rss csatorna forrást http:// -vel kezdve. A hibásan megadott források nem kerülnek feldolgozásra.
@@ -66,7 +66,7 @@ hu:
     actions:
       new: Új információ forrás
       edit: információ forrás adatok szerkesztése
-      delete: Törlés
+      delete: Információ forrás törlése
     weight: Súly
     name: Név
     hints:
@@ -124,7 +124,7 @@ hu:
     actions:
       new: Új per
       edit: per leírás szerkesztése
-      delete: Törlés
+      delete: Per törlése
     start_time: Kezdő dátum
     end_time: Záró dátum
     description: Leírás
@@ -145,7 +145,7 @@ hu:
     actions:
       new: Új személyi minőség
       edit: szerkesztés
-      delete: Törlés
+      delete: Minőség törlése
     collection:
       count: Már {{count}} személyi minőség található.
       heading:
@@ -165,7 +165,7 @@ hu:
     actions:
       new: Új tevékenység típus
       edit: szerkesztés
-      delete: Törlés
+      delete: Tevékenység törlése
     collection:
       count: Már {{count}} személyi minőség található.
       heading:
@@ -185,7 +185,7 @@ hu:
     actions:
       new: Új szektor
       edit: szerkesztés
-      delete: Törlés
+      delete: Ágazat törlése
     collection:
       count: Már {{count}} szektor található.
       heading:
@@ -205,7 +205,7 @@ hu:
     actions:
       new: Új szervezeti minőség
       edit: szerkesztés
-      delete: Törlés
+      delete: Minőség törlése
     collection:
       count: Már {{count}} szervezeti minőség található.
       heading:
@@ -233,13 +233,13 @@ hu:
     financials: Vagyoni adatok
     interorg_relations: Szervezetközi kapcsolatok
     person_to_org_relations: Személyes kapcsolatok
-    user: Létrehpzó
+    user: Létrehozó
     state: státusz
     nav_item: Szervezetek
     actions:
       new: Új személy
-      edit: Adatok és kapcsolatok szerkesztése
-      delete: Törlés
+      edit: adatok és kapcsolatok szerkesztése
+      delete: Szervezet törlése
     hints:
       name: a szervezet teljes neve
       street: közterület, házszám, élület, emelet, ajtó
@@ -249,9 +249,9 @@ hu:
         other: Találatok
         
   financials:
-    year: év
-    balance_sheet_total: mérlegfőösszeg
-    turnover: forgalom
+    year: Év
+    balance_sheet_total: Mérlegfőösszeg
+    turnover: Forgalom
 
   interorg_relations:
     model_name: szervezetek közti kapcsolat
@@ -265,13 +265,15 @@ hu:
   search:
     nav_item: Keresés
 
-  settings
+  settings:
     nav_item: Beállítások
 
   users:
     name: név
-    point: pont
-    email_address: e-mail cím
+    email_address: E-mail cím
+    current_password: jelenlegi jelszó
+    new_password: Új jelszó
+    confirm_new_password: Új jelszó megerősítés
     password: jelszó
     password_confirmation: jelszó megerősítés
     invitation: meghívó
@@ -281,6 +283,7 @@ hu:
     actions:
       follow: Kövesd
       invite: Őt meghívom!
+      save: Mentés
     cards:
       owned_topics: saját témák
       opinions: vélemények
@@ -288,7 +291,8 @@ hu:
       following: őket követi
     hints:
       name: Add meg a felhasználó nevét
-      email_address: Add meg a felhasználó e-mail címét
+      password: jelszó
+      password_confirmation: jelszó megerősítése
     invite:
       heading: Új meghívó küldése
             
@@ -375,11 +379,12 @@ hu:
     settings: Beállítások
     qualities: Minőségek
     relations: Kapcsolatok
+    ongoing: folyamatban
 
   homepage:
     recenty_updated_organizations: Legutóbb frissített szervezetek
     recenty_updated_people: Legutóbb frissített személyek
-    home: kezdőlap
+    home: Főoldal
 
   development:
     title: Fejlesztés
@@ -396,7 +401,6 @@ hu:
       # You can provide other formats here if you like!
       default: "%Y-%m-%d"
       short: "%b %d"
-      long: "%B %d, %Y"
 
     day_names: [Vasárnap, Hétfő, Kedd, Szerda, Csütörtök, Péntek, Szombat]
     abbr_day_names: [Vas, Hét, Ked, Sze, Csü, Pén, Szo]

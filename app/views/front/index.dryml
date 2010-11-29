@@ -6,7 +6,7 @@
     <header class="content-header">
       <h1>Üdvözlet</h1>
       <section class="welcome-message">
-        <h3>Ez itt a kezdőlap</h3>
+        <h3>Ez itt a főldal</h3>
         <ul>
           <li if="&current_user.guest?"><a href="/login">Belépés</a> az adatok szerkesztéséhez...</li>
           <li>Lorem ipsum: leírás, hogy mi is ez az egész...</li>
@@ -14,7 +14,6 @@
 
         <% if User.count == 0 -%>
           <h3 style="margin-top: 20px;">There are no user accounts - please provide the details of the site administrator</h3>
-
           <form with="&this || User.new" without-cancel>
             <field-list: fields="name, email_address, password, password_confirmation"/>
             <submit: label="Register Administrator"/>
@@ -30,7 +29,9 @@
       <h2><ht key="homepage.recenty_updated_organizations">Recently Updated Organizations</ht></h2>
       <table-plus with="&Organization.list" fields="name, city, street, zip_code, information_source" without-search-form/>
       <h2><ht key="homepage.recenty_updated_people">Recently Updated People</ht></h2>
-      <table-plus with="&Person.list" fields="last_name, first_name, information_source" without-search-form/>
+      <table-plus with="&Person.list" fields="last_name, first_name, information_source" without-search-form>
+        <this-heading:>Személy</this-heading:>
+      </table-plus>
     </section>
   </content:>
 

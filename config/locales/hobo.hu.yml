@@ -61,7 +61,6 @@ hu:
 
       forgot_password_sent:
         title: "Elfelejtett jelszó - E-mail elküldve"
-        heading: "Elfelejtett jelszó - E-mail elküldve"
         text: "Elküldtünk egy e-mailt erre a címre: {{email}}. Az üzenetben találhatók utasítások arra vonatkozóan, hogy mik a teendők az új jelszó lértáhozásához. Ha nem kapod meg az e-mail-t érdemes körülnézni a spam vagy törölt levelek között is, hátha oda került az üzenet véletlenül."
 
       account_disabled:
@@ -78,17 +77,17 @@ hu:
       add: "Hozzáadás"
       more: "Még"
       delete: "{{model}} törlése"
-      save: "Ment"
+      save: "Mentés"
       cancel: "Mégsem"
       edit: "{{model}} szerkesztése"
       back: "Vissza ide:"
       send: "Elküld"
-      remove: "Töröl"
+      remove: "Törlés"
       signup: "Feliratkozás"
       login: "Belépés"
       logout: "Kilépés"
-      logged_in_as: "Üdvözlünk, {{name}}"
-      account: "Profil"
+      logged_in_as: "Üdvözlet, {{name}}"
+      account: "Adatok"
           
     # hobos default message translation  
     messages:
@@ -153,5 +152,5 @@ hu:
     
     table_plus:
       search: "Keresés"
-      empty: "Nincs megjeleníthető {{model}}"
+      empty: "Nincs megjeleníthető adat"
 

@@ -53,7 +53,7 @@ class PersonToOrgRelation < ActiveRecord::Base
           "organization_id = ? and ((start_time <= ? and (end_time >= ? or no_end_time = ?)) or (start_time <= ? and no_end_time = ?)) and id != ?", organization_id, start_time, start_time, true, Time.now.to_date, true, id ])
         else
           potential_relations = PersonToOrgRelation.find( :all, :conditions => [
-          "organization_id = ? and ((start_time <= ? and (end_time >= ? or no_end_time = ?)) or (start_time <= ? and (end_time >= ? or no_end_time = ?)) and id != ?", organization_id, start_time, start_time, true, end_time, end_time, true, id ])
+          "organization_id = ? and ((start_time <= ? and (end_time >= ? or no_end_time = ?)) or (start_time <= ? and (end_time >= ? or no_end_time = ?))) and id != ?", organization_id, start_time, start_time, true, end_time, end_time, true, id ])
         end
         if potential_relations
           potential_relations.each do |pot|
