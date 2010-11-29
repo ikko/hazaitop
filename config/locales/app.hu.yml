@@ -117,7 +117,6 @@ hu:
     edit:
       heading: Szerkesztés
   
-  
   litigations:
     model_name: per
     nav_item: Perek
@@ -130,6 +129,18 @@ hu:
     description: Leírás
     name: Név
     information_source: Információ forrás 
+    new:
+      heading: Új per
+    index:
+      heading: Perek
+    edit:
+      heading: per leírás szerkesztése
+    name: Elnevezés
+    user: Létrehozó
+    collection:
+      count: Már {{count}} per található.
+      heading:
+        other: Találatok
 
   person_grades:
     model_name: minőségek
@@ -139,7 +150,7 @@ hu:
       heading: Személyi minőségek
     edit:
       heading: szerkesztés
-    name: elnevezés
+    name: Elnevezés
     user: Létrehozó
     nav_item: Személyi minőségek
     actions:
@@ -159,7 +170,7 @@ hu:
       heading: Tevékenység típusok
     edit:
       heading: szerkesztés
-    name: elnevezés
+    name: Elnevezés
     user: Létrehozó
     nav_item: Tevékenység típusok
     actions:
@@ -179,7 +190,7 @@ hu:
       heading: Ágazatok
     edit:
       heading: szerkesztés
-    name: elnevezés
+    name: Elnevezés
     user: Létrehozó
     nav_item: Szektorok
     actions:
