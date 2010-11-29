@@ -4,18 +4,18 @@
 
   <content:>
     <header class="content-header">
-      <h1>Settings</h1>
+      <h1><ht key="custom.settings">Settings</ht></h1>
       <section class="welcome-message">
-        <h3>Relations</h3>
+        <h3><ht key="custom.relations">Relations</ht></h3>
 
           <navigation if="&current_user.administrator? or current_user.editor?">
-            <nav-item with="&InterpersonalRelationCalculator"><ht key="interpersonal_relation_calculators.nav_item">Interpersonal Relation Calculator</ht></nav-item>
-            <nav-item with="&O2oRelationType"><ht key="o2o_relation_types.nav_item">Organization to Organization Relation Types</ht></nav-item>
-            <nav-item with="&P2oRelationType"><ht key="p2o_relation_types.nav_item">Person to Organization Relation Types</ht></nav-item>
-            <nav-item with="&P2pRelationType"><ht key="p2p_relation_types.nav_item">Person to Person Relation Types</ht></nav-item>
+            <nav-item with="&O2oRelationType"><ht key="o2o_relation_types.nav_item">Interorganizational Relation Types</ht></nav-item>
+            <nav-item with="&P2oRelationType"><ht key="p2o_relation_types.nav_item">Person and Organization Relation Types</ht></nav-item>
+            <nav-item with="&P2pRelationType"><ht key="p2p_relation_types.nav_item">Interpersonal Relation Types</ht></nav-item>
+            <nav-item with="&InterpersonalRelationCalculator"><ht key="interpersonal_relation_calculators.nav_item">Interpersonal Relation Matrix</ht></nav-item>
           </navigation>
 
-        <h3>Qualities</h3>
+        <h3><ht key="custom.qualities">Qualities</ht></h3>
 
           <navigation if="&current_user.administrator? or current_user.editor?">
             <nav-item with="&PersonGrade"><ht key="person_grades.nav_item">Person Grades</ht></nav-item>

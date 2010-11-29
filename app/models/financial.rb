@@ -11,6 +11,10 @@ class Financial < ActiveRecord::Base
 
   belongs_to :organization
 
+  validates_numericality_of :year
+  validates_numericality_of :balance_sheet_total
+  validates_numericality_of :turnover
+
   # --- Permissions --- #
 
   def create_permitted?

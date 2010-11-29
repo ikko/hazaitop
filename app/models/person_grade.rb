@@ -13,15 +13,15 @@ class PersonGrade < ActiveRecord::Base
   # --- Permissions --- #
 
   def create_permitted?
-    acting_user.administrator? || acting_user.editor?
+    acting_user.administrator? || acting_user.supervisor? || acting_user.editor?
   end
 
   def update_permitted?
-    acting_user.administrator? || acting_user.editor?
+    acting_user.administrator? || acting_user.supervisor? || acting_user.editor?
   end
 
   def destroy_permitted?
-    acting_user.administrator? || acting_user.editor?
+    acting_user.administrator? || acting_user.supervisor?
   end
 
   def view_permitted?(field)

@@ -1,0 +1,164 @@
+de:
+  topics:
+    new:
+      heading: Új téma
+    index:
+      heading: Témák
+    edit:
+      heading: Téma szerkesztése
+    name: név
+    sitelist: új feed/rss lista
+    language: nyelv
+    channels: csatornák
+    state: státusz
+    point: pont    
+    nav_item: "{{model}}"
+    actions:
+      share: Oszd meg
+      hide: Rejtsd el
+      watch: Nézd
+    hints:
+      name: Adj nevet a témának
+      sitelist: Soronként adj meg egy-egy új rss csatorna forrást http:// -vel kezdve. A hibásan megadott források nem kerülnek feldolgozásra.
+      sites: Válaszd ki a csatornákat a listából, melyek ehhez a témához tartoznak, vagy töröld, ami mégse tartozik bele.
+    collection:
+      heading:
+        other: Találatok
+        
+  aware_ofs:
+    collection:
+      heading:
+        name: Ezeket figyeli
+
+  watchings:
+    collection:
+      heading:
+        name: Ezeket nézi
+
+  words:
+    collection:
+      heading:
+        other: Szavai
+
+  channels:
+    collection:
+      heading:
+        other: Találatok
+
+  fillters:
+    new:
+      heading: Új szűrő
+    edit:
+      heading: Szűrő szerkesztése
+    index:
+      name: Szűrő
+      heading: Szűrők
+    name: név
+    wordlist: új szavak listája
+    language: nyelv
+    words: szavak
+    state: státusz
+    point: pont
+    nav_item: "{{model}}"
+    actions:
+      be_aware: Figyeld
+      share: Oszd meg
+      hide: Rejtsd el
+      deselect: Visszaválaszt
+      select: Kiválaszt
+    hints:
+      name: Adj nevet a szűrőnek
+      wordlist: Add meg a téged érdeklő új szavakat ehhez a szűrőhőz. Ezek alapján fogjuk szűrni a témáidat. A szavakat vesszővel vagy szóközzel válaszd el egymástól.
+      words: Válaszd ki a szavakat a listából, melyek ehhez a szűrőhöz tartoznak, vagy töröld, ami mégse tartozik bele.
+    collection:
+      heading:
+        other: Találatok
+
+
+  users:
+    name: név
+    point: pont
+    email_address: e-mail cím
+    password: jelszó
+    password_confirmation: jelszó megerősítés
+    invitation: meghívó
+    index:
+      heading: Felhasználók
+    nav_item: "{{model}}"
+    actions:
+      follow: Kövesd
+      invite: Őt meghívom!
+    cards:
+      owned_topics: saját témák
+      opinions: vélemények
+      followers: ők követik
+      following: őket követi
+    hints:
+      name: Add meg a felhasználó nevét
+      email_address: Add meg a felhasználó e-mail címét
+    invite:
+      heading: Új meghívó küldése
+    
+  managed_topics:
+    collection:
+      heading:
+        other: Saját témái
+
+  managed_fillters:
+    collection:
+      heading:
+        other: Saját szűrői
+
+  opinions:
+    collection:
+      heading:
+        other: Véleményei
+        
+  activerecord:
+    models:
+      site: Site
+      topic: Téma
+      channel: Csatorna
+      user: Felhasználó
+      language: Nyelv
+      color: Szín
+      aware_of: figyeli
+      wathcing: nézi
+      word: szó
+      opinion: Vélemény
+      channel_opinion: Csatorna vélemény
+      guest: Vendég
+      fillter: Szűrő
+      followee: Őket követ
+      follower: Követő
+    errors:
+      models:
+        user:
+          attributes:
+            email_address:
+              too_short: túl rövid
+      
+  custom:
+    reset_colors: színek alaphelyzetbe állítása
+    edit_colors: színek szerkesztése
+    view_colors: színek megtekintése
+    fresh: Friss
+    best_rated: Legkedveletebb
+    private_fresh: Privát friss
+    private_best_rated: Privát legkedveletebb
+    invite: Meghívó
+    home: Kezdőlap
+    my_page: Saját Oldal
+    dont_press_twice: Ezt a gombot ne nyomd meg kétszer, mert eltarthat egy ideig, mire lefut...
+    refresh_your_results: Találatok frissítése
+    managed_topics: saját témák
+    opinions: vélemények
+    fillters_and_topics_selection: Válassz legalább egy szűrőt és egy témát.
+    none: még senki
+    nonet: még senkit
+    create_new_topic: új téma létrehozása
+    create_new_fillter: új szűrő létrehozása
+
+  sidebar:
+    fillters_you_aware_of: Szűrők amiket figyelsz
+    your_watched_topics: Témák, amiket nézel

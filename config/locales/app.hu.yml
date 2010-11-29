@@ -1,0 +1,426 @@
+hu:
+  people:
+    model_name: személy
+    new:
+      heading: Új személy
+    index:
+      heading: Személyek
+    edit:
+      heading: Személy adatok és kapcsolatok szerkesztése
+    name: név
+    first_name: Keresztnév
+    last_name: Vezetéknév
+    born_at: Születési idő
+    place_of_birth: Születési hely
+    mothers_name: Anyja neve
+    person_grades: Minőség
+    information_source: Információ forrás 
+    personal_relations: Személyes kapcsolatok
+    person_to_org_relations: Szervezeti kapcsolatok
+    user: Létrehozó
+    state: státusz
+    nav_item: Személyek
+    actions:
+      new: Új személy
+      edit: Adatok és kapcsolatok szerkesztése
+      delete: Törlés
+    hints:
+      name: Adj nevet a témának
+      sitelist: Soronként adj meg egy-egy új rss csatorna forrást http:// -vel kezdve. A hibásan megadott források nem kerülnek feldolgozásra.
+      sites: Válaszd ki a csatornákat a listából, melyek ehhez a témához tartoznak, vagy töröld, ami mégse tartozik bele.
+    collection:
+      count: Már {{count}} személy található.
+      heading:
+        other: Találatok
+
+  interpersonal_relations:
+    model_name: személyek közti kapcsolat
+    related_person: Kapcsolódó személy
+    p2p_relation_type: Személyes kapcsolat típusa
+    litigations: Perek
+    information_source: Információ forrás 
+    hints:
+      litigations: kapcsolódó perek, amennyiben vannak
+
+  person_to_org_relations:
+    model_name: személy és szervezet közti kapcsolat
+    person: Személy
+    organization: Szervezet
+    p2o_relation_type: Kapcsolat típusa
+    o2p_relation_type: Kapcsolat típusa
+    start_time: Kezdő dátum
+    end_time: Záró dátum
+    no_end_time: Nincs záródátum
+    litigations: Perek
+    information_source: Információ forrás 
+    hints:
+      litigations: kapcsolódó perek, amennyiben vannak
+      no_end_time: a záró dátum nem értelmezett, amennyiben a kapcsolat jelenleg is fennáll és a lezárás ideje nem ismert
+      
+  information_sources:
+    model_name: információ forrás
+    nav_item: Források
+    collection:
+      count: Már {{count}} információ forrás található.
+      heading: Információ források
+    actions:
+      new: Új információ forrás
+      edit: információ forrás adatok szerkesztése
+      delete: Törlés
+    weight: Súly
+    name: Név
+    hints:
+      web: http:// -vel kezdd!
+    new:
+      heading: Új információ forrás
+    index:
+      heading: Személyek
+    edit:
+      heading: Személy adatok és kapcsolatok szerkesztése
+
+  p2p_relation_types: 
+    model_name: személyes kapcsolat típusa
+    nav_item: Személyközi kapcsolat típusok
+  o2o_relation_types: 
+    model_name: szervezeti kapcsolat típusa
+    nav_item: Szervezetközi kapcsolat típusok
+  p2o_relation_types:
+    model_name: szervezeti kapcsolat típusa
+    nav_item: Személy és szervezet közti kapcsolat típusok
+  o2p_relation_types:
+    model_name: személyes kapcsolat típusa
+    nav_item: Szervezet és szervezet közti kapcsolat típusok
+    
+       
+  interpersonal_relation_calculators:
+    model_name: személyközi kapcsolattipusok mátrix
+    nav_item: Személyközi kapcsolattipusok mátrix
+    collection:
+      count: Már {{count}} személyközi kapcsalatdefiníció található.
+      heading: Személyközi kapcsolattipusok mátrix
+    actions:
+      new: Új elem
+      edit: szerkesztése
+      delete: Törlés
+    weight: Súly
+    p2o_relation_type: Személy és cég közti kapcsolattípus
+    p2p_relation_type: Származtatott személyközi kapcsolattípus
+    related_p2o_relation_type: Vonatkozó személy és cég közti kapcsolattípus
+    hints:
+      p2o_relation_type: Válassza ki az elsődleges azonosítandó kapcsolattípust!
+      p2p_relation_type: Adja meg az azonosítandó és a vonatkozó kapcsolatokból származtatandó típust!
+      related_p2o_relation_type: Válassza ki a vonatkozó kapcsolattípust!
+    new:
+      heading: Új származtatott kapcsolattípus-mátrix elem
+    index:
+      heading: Személyközi kapcsolattipusok mátrix
+    edit:
+      heading: Szerkesztés
+  
+  
+  litigations:
+    model_name: per
+    nav_item: Perek
+    actions:
+      new: Új per
+      edit: per leírás szerkesztése
+      delete: Törlés
+    start_time: Kezdő dátum
+    end_time: Záró dátum
+    description: Leírás
+    name: Név
+    information_source: Információ forrás 
+
+  person_grades:
+    model_name: minőségek
+    new:
+      heading: Új személyi minőség
+    index:
+      heading: Személyi minőségek
+    edit:
+      heading: szerkesztés
+    name: elnevezés
+    user: Létrehozó
+    nav_item: Személyi minőségek
+    actions:
+      new: Új személyi minőség
+      edit: szerkesztés
+      delete: Törlés
+    collection:
+      count: Már {{count}} személyi minőség található.
+      heading:
+        other: Találatok
+
+  activities:
+    model_name: tevékenységek
+    new:
+      heading: Új tevékenység típus
+    index:
+      heading: Tevékenység típusok
+    edit:
+      heading: szerkesztés
+    name: elnevezés
+    user: Létrehozó
+    nav_item: Tevékenység típusok
+    actions:
+      new: Új tevékenység típus
+      edit: szerkesztés
+      delete: Törlés
+    collection:
+      count: Már {{count}} személyi minőség található.
+      heading:
+        other: Találatok
+
+  sectors:
+    model_name: ágazatok
+    new:
+      heading: Új ágazat
+    index:
+      heading: Ágazatok
+    edit:
+      heading: szerkesztés
+    name: elnevezés
+    user: Létrehozó
+    nav_item: Szektorok
+    actions:
+      new: Új szektor
+      edit: szerkesztés
+      delete: Törlés
+    collection:
+      count: Már {{count}} szektor található.
+      heading:
+        other: Találatok
+
+  org_grades:
+    model_name: minőségek
+    new:
+      heading: Új szervezeti minőség
+    index:
+      heading: Szervezeti minőségek
+    edit:
+      heading: szerkesztés
+    name: megnevezés
+    user: Létrehozó
+    nav_item: Szervezeti minőségek
+    actions:
+      new: Új szervezeti minőség
+      edit: szerkesztés
+      delete: Törlés
+    collection:
+      count: Már {{count}} szervezeti minőség található.
+      heading:
+        other: Találatok
+
+  organizations:
+    new:
+      heading: Új szervezet
+    edit:
+      heading: Szervezet szerkesztése
+    index:
+      name: Szervezet
+      heading: Szervezetek
+    name: Név
+    org_grade: Minőség
+    sector: Ágazat
+    activities: Tevékenységek
+    zip_code: Irányítószám
+    city: Város
+    street: Utca
+    trade_register_nr: Cégjegyzékszám
+    tax_nr: Adószám
+    number_of_employees: Munkavállalók száma
+    information_source: Információ forrás
+    financials: Vagyoni adatok
+    interorg_relations: Szervezetközi kapcsolatok
+    person_to_org_relations: Személyes kapcsolatok
+    user: Létrehpzó
+    state: státusz
+    nav_item: Szervezetek
+    actions:
+      new: Új személy
+      edit: Adatok és kapcsolatok szerkesztése
+      delete: Törlés
+    hints:
+      name: a szervezet teljes neve
+      street: közterület, házszám, élület, emelet, ajtó
+    collection:
+      count: Már {{count}} szervezet található.
+      heading:
+        other: Találatok
+        
+  financials:
+    year: év
+    balance_sheet_total: mérlegfőösszeg
+    turnover: forgalom
+
+  interorg_relations:
+    model_name: szervezetek közti kapcsolat
+    related_organization: Kapcsolódó szervezet
+    o2o_relation_type: Szervezetközi kappcsolat típusa
+    litigations: Perek
+    information_source: Információ forrás 
+    hints:
+      litigations: kapcsolódó perek, amennyiben vannak
+      
+  search:
+    nav_item: Keresés
+
+  settings
+    nav_item: Beállítások
+
+  users:
+    name: név
+    point: pont
+    email_address: e-mail cím
+    password: jelszó
+    password_confirmation: jelszó megerősítés
+    invitation: meghívó
+    index:
+      heading: Felhasználók
+    nav_item: "{{model}}"
+    actions:
+      follow: Kövesd
+      invite: Őt meghívom!
+    cards:
+      owned_topics: saját témák
+      opinions: vélemények
+      followers: ők követik
+      following: őket követi
+    hints:
+      name: Add meg a felhasználó nevét
+      email_address: Add meg a felhasználó e-mail címét
+    invite:
+      heading: Új meghívó küldése
+            
+  activerecord:
+    models:
+      person: személy
+      organization: szervezet
+      p2p_relation_type: személyes kapcsolat típusa
+      o2o_relation_type: szervezeti kapcsolat típusa
+      p2o_relation_type: szervezeti kapcsolat típusa
+      o2p_relation_type: személyes kapcsolat típusa
+      litigation: per
+      interpersonal_relation: személyek közti kapcsolat
+      user: Felhasználó
+      guest: Vendég
+    errors:
+      models:
+        user:
+          attributes:
+            email_address:
+              too_short: túl rövid
+        person:
+          attributes:
+            first_name:
+              blank: cannot be empty
+            last_name:
+              blank: cannot be empty
+            personal_relations:
+              invalid: is invalid
+            person_to_org_relations:
+              invalid: is invalid
+            information_source:
+              blank: cannot be empty
+        interpersonal_relation:
+          attributes:
+            related_person:
+              blank: cannot be empty
+            information_source:
+              blank: cannot be empty
+            p2p_relation_type:
+              blank: cannot be empty
+        person_to_org_relation:
+          attributes:
+            information_source:
+              blank: cannot be empty
+            p2o_relation_type:
+              blank: cannot be empty
+        organization:
+          attributes:
+            name:
+              blank: cannot be empty
+            org_grade:
+              blank: cannot be empty
+            interorg_relations:
+              invalid: is invalid
+            person_to_org_relations:
+              invalid: is invalid
+            information_source:
+              blank: cannot be empty              
+        interorg_relation:
+          attributes:
+            related_organization:
+              blank: cannot be empty
+            information_source:
+              blank: cannot be empty
+            o2o_relation_type:
+              blank: cannot be empty
+        person_to_org_relation:
+          attributes:
+            information_source:
+              blank: cannot be empty
+            p2o_relation_type:
+              blank: cannot be empty
+        financial:
+          attributes:
+            year:
+              not_a_number: must be a number
+            turnover:
+              not_a_number: must be a number
+            balance_sheet_total:
+              not_a_number: must be a number
+  custom:
+    new: új
+    settings: Beállítások
+    qualities: Minőségek
+    relations: Kapcsolatok
+
+  homepage:
+    recenty_updated_organizations: Legutóbb frissített szervezetek
+    recenty_updated_people: Legutóbb frissített személyek
+    home: kezdőlap
+
+  development:
+    title: Fejlesztés
+    footer: fejlesztés
+
+  impressum:
+    title: Impresszum
+    footer: impresszum
+
+  date:
+    formats:
+      # Use the strftime parameters for formats.
+      # When no format has been given, it uses default.
+      # You can provide other formats here if you like!
+      default: "%Y-%m-%d"
+      short: "%b %d"
+      long: "%B %d, %Y"
+
+    day_names: [Vasárnap, Hétfő, Kedd, Szerda, Csütörtök, Péntek, Szombat]
+    abbr_day_names: [Vas, Hét, Ked, Sze, Csü, Pén, Szo]
+
+    # Don't forget the nil at the beginning; there's no such thing as a 0th month
+    month_names: [~, január, február, március, április, május, június, augusztus, szeptember, október, november, december]
+    abbr_month_names: [~, jan, feb, már, ápr, máj, jún, júl, aug, sze, okt, nov, dec]
+    # Used in date_select and datetime_select.
+    order:
+      - :year
+      - :month
+      - :day
+
+  time:
+    formats:
+      default: "%a, %d %b %Y %H:%M:%S %z"
+      short: "%d %b %H:%M"
+      long: "%B %d, %Y %H:%M"
+    am: "am"
+    pm: "pm"
+
+# Used in array.to_sentence.
+  support:
+    array:
+      words_connector: ", "
+      two_words_connector: " és "
+      last_word_connector: " és "

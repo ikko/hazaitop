@@ -1,0 +1,157 @@
+####
+#### Hobo Translation
+####
+hu:
+  hobo:
+    # hobos default pages translations
+    page:
+      index:
+        title: "{{model}} Lista"
+        heading: "{{model}} Lista"
+
+      new:
+        title: "Új {{model}}"
+        heading: "Új {{model}}"
+
+      show:
+        title: "{{model}}"
+        heading: "{{model}}"
+        back_link: "Visza"
+        edit_link: "{{model}} szerkesztés"
+        new_link: "Új {{model}}"
+        add_form_heading: "{{model}} hozzáadás"
+
+      edit:
+        title: "{{model}} szerkesztés"
+        heading: "{{model}} szerkesztés"
+
+      index_for_owner:
+        title: "{{model}} ehhez:"
+        heading:
+          your: "Saját {{model}}"
+          other: "{{model}}"
+        subheading: "Ehhez:"
+
+      new_for_owner:
+        title: "Új {{model}} ehhez"
+        heading: "Új {{model}}"
+        subheading: "Ehhez:"
+          
+      login:
+        title: "Belépés"
+        heading: "Belépés"
+        email: "E-mail"
+        password: "Jelszó"
+        remember_me: "Jegyezz meg"
+        login: "Belépés"
+        signup: "Feliratkozás"
+        forgot_password: "Elfelejtett jelszó?"
+
+      signup:
+        title: "Regisztráció"
+        heading: "Új felhasználó regisztráció"
+  
+      forgot_password:
+        title: "Elfelejtett jelsző?"
+        heading: "Elfelejtett jelsző?"
+        text: "Írd be az e-mail címet, amit ezen a site-on használsz. . 
+               Küldeni fogunk egy hivatkozást e-mailben a megadott címre, amire kattintva új jelszót állíthatsz be."
+        email: "E-mail"
+        send: "Küldés"
+
+      forgot_password_sent:
+        title: "Elfelejtett jelszó - E-mail elküldve"
+        heading: "Elfelejtett jelszó - E-mail elküldve"
+        text: "Elküldtünk egy e-mailt erre a címre: {{email}}. Az üzenetben találhatók utasítások arra vonatkozóan, hogy mik a teendők az új jelszó lértáhozásához. Ha nem kapod meg az e-mail-t érdemes körülnézni a spam vagy törölt levelek között is, hátha oda került az üzenet véletlenül."
+
+      account_disabled:
+        title: "Nem található a felhasználói fiók"
+        heading: "Nem található a felhasználói fiók"
+        text: "Nem található ehhez az e-mail címhez tartozó fiók. Biztos hogy jól gépelted be az e-mail címet?"
+
+    # hobos default action translation
+    actions:
+      new: "Uj {{model}}"
+      create: "Létrehoz"
+      previous: "Előző"
+      next: "Következő"
+      add: "Hozzáadás"
+      more: "Még"
+      delete: "{{model}} törlése"
+      save: "Ment"
+      cancel: "Mégsem"
+      edit: "{{model}} szerkesztése"
+      back: "Vissza ide:"
+      send: "Elküld"
+      remove: "Töröl"
+      signup: "Feliratkozás"
+      login: "Belépés"
+      logout: "Kilépés"
+      logged_in_as: "Üdvözlünk, {{name}}"
+      account: "Profil"
+          
+    # hobos default message translation  
+    messages:
+      create:
+        success: "A {{model}} sikeresen létrejött"
+        error: "Nem hozható létre a {{model}}.\n{{errors}}"
+      creator:
+        error: "Nem hozható létre a {{name}} (do creator).\n{{errors}}"
+      transition:
+        error: "Nem hozható létre a {{name}} (do transition).\n{{errors}}"
+      update:
+        no_attribute_error: "Nincs frissíthető attributum megadva a paraméterek közt"
+        success: "A {{model}} változásait sikeresen elmentettük."
+        error: "Valami hiba volt ezzel a változtatással.\n{{errors}}"
+      destroy:
+        success: "A {{model}} törölve."
+      signup: 
+        success: "Köszönjük, hogy feliratkoztál!"
+        must_activate: "Aktiválnod kell a fiókodat, ahhoz, hogy be tudj lépni. Nézd meg az e-mail-jeidet most!"
+      login: 
+        success: "Sikeresen beléptél."
+        error: "Nem adtál meg érvényes azonosítót ({{login}}) és jelszót!"
+      logout: "Sikeresen kiléptél."
+      reset_password: "A jelszavadat megváltoztattuk."
+      permission_denied: "Hozzáférés megtagadva"
+      not_found: "A keresett oldal nem található."
+      unauthenticated: "Nem tudunk authentikálni téged sajnos"
+      current_password_is_not_correct: "helytelen"
+      you_are_site_admin: "Te vagy a site adminisztrátora."
+      you_signed_up: "Sikeresen feliratkozál"
+      no: "Nem áll {{model}} rendelkezésre."
+      confirm: "Biztos vagy benne?"
+        
+    collection:
+      count:
+        zero: "Nincs {{model}}"
+        one: "Egy {{model}} van pillanatnyilag."
+        other: "Már {{count}} {{model}} van."
+      heading:
+        your: "A te {{model}}id"
+        other: "{{model}}i"
+      add_form_heading: "{{model}} hozzáadása"
+      empty_message: "nincs még adat"
+
+    support:
+      or: "vagy"
+      a: "egy"
+      an: "egy"
+      
+    live_search:
+      label: "Keresés" 
+      results_label: "Találatok:"
+      close_button: "bezár"
+      more: "Még több"
+      no_results: "A keresés nem vezetett eredményre."
+
+    form:
+      new:
+        heading: "Új {{model}}"
+      error:
+        heading: "A következő hiba történt"
+    
+    table_plus:
+      search: "Keresés"
+      empty: "Nincs megjeleníthető {{model}}"
+

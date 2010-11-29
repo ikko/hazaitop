@@ -7,6 +7,7 @@ class InterpersonalRelation < ActiveRecord::Base
     mirrored     :boolean, :default => false
     start_time   :date
     end_time     :date
+    no_end_time  :boolean, :default => false
     internal     :boolean, :default => false
     weight       :float
   end
@@ -52,6 +53,7 @@ class InterpersonalRelation < ActiveRecord::Base
                               :other_person_to_org_relation_id => r.other_person_to_org_relation_id,
                               :start_time => r.start_time,
                               :end_time => r.end_time,
+                              :no_end_time => r.no_end_time,
                               :mirrored => true)
       r.update_attribute :mirrored, true
     end
