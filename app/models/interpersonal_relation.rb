@@ -41,25 +41,23 @@ class InterpersonalRelation < ActiveRecord::Base
       else
         relation_type_id = r.p2p_relation_type_id
       end
-      InterpersonalRelation.create!(:interpersonal_relation_id => r.id,
-                              :person_id => r.related_person_id,
-                              :related_person_id => r.person_id,
-                              :interpersonal_relation_id => r.id,
-                              :p2p_relation_type_id => relation_type_id,
-                              :information_source_id => r.information_source_id,
-                              :organization_id => r.organization_id,
-                              :person_to_org_relation_id => r.person_to_org_relation_id,
-                              :other_person_to_org_relation_id => r.other_person_to_org_relation_id,
-                              :start_time => r.start_time,
-                              :end_time => r.end_time,
-                              :mirrored => true)
-      r.update_attribute :mirrored, true
+      interpersonal = InterpersonalRelation.create!(:interpersonal_relation_id => r.id,
+                                                    :person_id => r.related_person_id,
+                                                    :related_person_id => r.person_id,
+                                                    :p2p_relation_type_id => relation_type_id,
+                                                    :information_source_id => r.information_source_id,
+                                                    :organization_id => r.organization_id,
+                                                    :person_to_org_relation_id => r.person_to_org_relation_id,
+                                                    :other_person_to_org_relation_id => r.other_person_to_org_relation_id,
+                                                    :start_time => r.start_time,
+                                                    :end_time => r.end_time,
+                                                    :mirrored => true)
+      r.update_attributes :mirrored => true, :interpersonal_relation_id => interpersonal.id
     end
   end
 
   after_save do |r|
     o = InterpersonalRelation.find_by_id(r.interpersonal_relation_id)
-    o = InterpersonalRelation.find_by_interpersonal_relation_id(r.id) unless o
     if o
       if o.related_person_id != r.person_id
         o.update_attribute :related_person_id, r.person_id

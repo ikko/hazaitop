@@ -30,9 +30,11 @@ class SearchController < ApplicationController
     resp[:relationWeight] = relation.weight
     if target_type == source_type && target_type == 'o'
       resp[:relationId] = "o2o#{relation.id}"
+      resp[:alternateRelationId] = "o2o#{relation.interorg_relation.id}"
       resp[:relationLabel] = relation.o2o_relation_type.name
     elsif target_type == source_type && target_type == 'p'
       resp[:relationId] = "p2p#{relation.id}"
+      resp[:alternateRelationId] = "p2p#{relation.interpersonal_relation.id}"
       resp[:relationLabel] = relation.p2p_relation_type.name
     else
       resp[:relationId] = "p2o#{relation.id}"

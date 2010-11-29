@@ -33,20 +33,19 @@ class InterorgRelation < ActiveRecord::Base
       else
         relation_type_id = r.o2o_relation_type_id
       end
-      InterorgRelation.create!(:interorg_relation_id => r.id,
+      interorg = InterorgRelation.create!(:interorg_relation_id => r.id,
                               :organization_id => r.related_organization_id,
                               :related_organization_id => r.organization_id,
                               :interorg_relation_id => r.id,
                               :o2o_relation_type_id => relation_type_id,
                               :information_source_id => r.information_source_id,
                               :mirrored => true)
-      r.update_attribute :mirrored, true
+      r.update_attributes :mirrored => true, :interorg_relation_id => interorg.id
     end
   end
 
   after_save do |r|
     o = InterorgRelation.find_by_id(r.interorg_relation_id)
-    o = InterorgRelation.find_by_interorg_relation_id(r.id) unless o
     if o
       if o.related_organization_id != r.organization_id
         o.update_attribute :related_organization_id, r.organization_id

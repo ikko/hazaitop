@@ -7,6 +7,10 @@ O2oRelationType.delete_all
 Person.delete_all
 InformationSource.delete_all
 Organization.delete_all
+OrgGrade.delete_all
+Activity.delete_all
+PersonGrade.delete_all
+Sector.delete_all
 
 if PersonGrade.count == 0
   PersonGrade.create :name => "politikus"
@@ -15,7 +19,7 @@ if PersonGrade.count == 0
 end
 
 if OrgGrade.count == 0
-  OrgGrade.create :name => "minisztérium"
+  org = OrgGrade.create :name => "minisztérium"
   OrgGrade.create :name => "hatóság"
   OrgGrade.create :name => "állami cég"
   OrgGrade.create :name => "magáncég"
@@ -161,13 +165,14 @@ if Rails.env == "development"
   end
 
   if Organization.count == 0
-    Organization.create! :name => "szivarvany gyar", :information_source_id => sajat.id
-    Organization.create! :name => "gomba gyar", :information_source_id => sajat.id
+    Organization.create! :name => "szivarvany gyar", :information_source_id => sajat.id, :org_grade_id => org.id
+    Organization.create! :name => "gomba gyar", :information_source_id => sajat.id, :org_grade_id => org.id
   end
 
   if Person.count == 0
     Person.create :first_name => "kokojszi", :last_name => "torpe", :information_source_id => sajat.id
     Person.create :first_name => "bobojsza", :last_name => "torpe", :information_source_id => sajat.id
+    Person.create :first_name => "miki", :last_name => "móka", :information_source_id => sajat.id
   end
 
 end
@@ -184,8 +189,8 @@ if Rails.env == "production"
 
 
   if Organization.count == 0
-    Organization.create! :name => "szivarvany gyár", :information_source_id => sajat.id
-    Organization.create! :name => "gomba gyár", :information_source_id => sajat.id
+    Organization.create! :name => "szivarvany gyár", :information_source_id => sajat.id, :org_grade_id => org.id
+    Organization.create! :name => "gomba gyár", :information_source_id => sajat.id, :org_grade_id => org.id
   end
 
   if Person.count == 0
