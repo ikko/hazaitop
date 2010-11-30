@@ -5,8 +5,9 @@ class PersonToOrgRelation < ActiveRecord::Base
   fields do
     start_time :date
     end_time   :date
-    timestamps
+    no_end_time :boolean, :default => false
     weight     :float
+    timestamps
   end
 
   belongs_to :p2o_relation_type
@@ -44,11 +45,16 @@ class PersonToOrgRelation < ActiveRecord::Base
   def match
     self.interpersonal_relations.try.delete_all
     self.other_interpersonal_relations.try.delete_all
-    if person # ha nem törlés történt
+    if person and organization # ha nem törlés történt
       if !(InterpersonalRelation.find_by_person_to_org_relation_id(id) or InterpersonalRelation.find_by_other_person_to_org_relation_id(id))
        # meg kell vizsgálnunk hogy van-e már, különben kétszer megy bele (a hobo?) az after_save-be TODO
-        potential_relations = PersonToOrgRelation.find( :all, :conditions => [
-          "organization_id = ? and ((start_time <= ? and end_time >= ?) or (start_time <= ? and end_time >= ?)) and id != ?", organization_id, start_time, start_time, end_time, end_time, id ])
+        if no_end_time
+          potential_relations = PersonToOrgRelation.find( :all, :conditions => [
+          "organization_id = ? and ((start_time <= ? and (end_time >= ? or no_end_time = ?)) or (start_time <= ? and no_end_time = ?)) and id != ?", organization_id, start_time, start_time, true, Time.now.to_date, true, id ])
+        else
+          potential_relations = PersonToOrgRelation.find( :all, :conditions => [
+          "organization_id = ? and ((start_time <= ? and (end_time >= ? or no_end_time = ?)) or (start_time <= ? and (end_time >= ? or no_end_time = ?))) and id != ?", organization_id, start_time, start_time, true, end_time, end_time, true, id ])
+        end
         if potential_relations
           potential_relations.each do |pot|
             weight = (information_source.weight + pot.information_source.weight) / 2.0
@@ -69,10 +75,20 @@ class PersonToOrgRelation < ActiveRecord::Base
             else
               calculated_start_time = start_time
             end
-            if end_time <= pot.end_time
-              calculated_end_time = end_time
-            else
+            calculated_no_end_time = false
+            if no_end_time and !pot.no_end_time
               calculated_end_time = pot.end_time
+            elsif pot.no_end_time and !no_end_time
+              calculated_end_time = end_time
+            elsif no_end_time and pot.no_end_time
+              calculated_end_time = nil
+              calculated_no_end_time = true
+            else
+              if end_time <= pot.end_time
+                calculated_end_time = end_time
+              else
+                calculated_end_time = pot.end_time
+              end
             end
             info = InformationSource.find :first, :conditions => { :internal => true, :weight => weight }
             info = InformationSource.create!( :internal => true, :weight => weight, :name => "system" ) if !info
@@ -85,14 +101,12 @@ class PersonToOrgRelation < ActiveRecord::Base
                                             :organization_id => organization_id,
                                             :start_time => calculated_start_time,
                                             :end_time => calculated_end_time,
+                                            :no_end_time => calculated_no_end_time,
                                             :internal => true)
           end
         end
       end
     else # törlés történt
-      self.destroy
-    end
-    if !organization # ha org-ból törölték
       self.destroy
     end
   end

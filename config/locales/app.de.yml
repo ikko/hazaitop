@@ -1,0 +1,164 @@
+de:
+  topics:
+    new:
+      heading: Neues Thema
+    index:
+      heading: Themen
+    edit:
+      heading: Thema bearbeiten
+    name: Name
+    sitelist: Neue feed/rss Liste
+    language: Sprache
+    channels: Kanäle
+    state: Status
+    point: Punkt    
+    nav_item: "{{model}}"
+    actions:
+      share: Teilen
+      hide: Verstecken
+      watch: Schau
+    hints:
+      name: Thema benennen 
+      sitelist: Bitte tragen Sie neue rss Kanäle mit http:// beginnend in jeweils neue Zeilen ein. Falsch angegebenen Kanäle werden nicht verarbeitet. 
+      sites: Bitte wählen Sie die dem Thema entsprechenden Kanäle aus der Liste oder löschen Sie jene die doch nicht zum Thema passen. 
+    collection:
+      heading:
+        other: Ergebnisse
+        
+  aware_ofs:
+    collection:
+      heading:
+        name: Von Ihnen verfolgt
+
+  watchings:
+    collection:
+      heading:
+        name: Von Ihnen regelmäßig angeschaut
+
+  words:
+    collection:
+      heading:
+        other: Wörter
+
+  channels:
+    collection:
+      heading:
+        other: Ergebnisse
+
+  fillters:
+    new:
+      heading: Neuer Filter
+    edit:
+      heading: Filter bearbeiten 
+    index:
+      name: Filter
+      heading: Filter
+    name: Name
+    wordlist: Liste neuer Wörter
+    language: Sprache
+    words: Wörter
+    state: Status
+    point: Ounkt
+    nav_item: "{{model}}"
+    actions:
+      be_aware: Verfolgen
+      share: Teilen
+      hide: Verstecken
+      deselect: Abwählen
+      select: Auswählen
+    hints:
+      name: Filter benennen
+      wordlist: Neue Wörter für den Filter angeben. Mit Hilfe dieser werden wir deine Themen filtern. Die Wörter müssen durch ein Komma oder ein Leerzeichen von einander getrennt werden. 
+      words: Bitte wählen Sie die dem Filter entsprechende Wörter aus der Liste oder löschen Sie jene die doch nicht zum Filter passen.
+    collection:
+      heading:
+        other: Ergebnisse
+
+
+  users:
+    name: Name
+    point: Punkt
+    email_address: E-mail Addresse
+    password: Passwort
+    password_confirmation: Passwort bestätigen
+    invitation: Einladung
+    index:
+      heading: Benutzer
+    nav_item: "{{model}}"
+    actions:
+      follow: Verfolgen
+      invite: Einladen!
+    cards:
+      owned_topics: Eigene Themen
+      opinions: Meinungen
+      followers: Benutzer die Ihnen folgen
+      following: Benutzer denen Sie folgen
+    hints:
+      name: Gib den Namen des Benutzers an
+      email_address: Gib die E-mail Addresse des Benutzers an
+    invite:
+      heading: Neue Einladung verschicken
+    
+  managed_topics:
+    collection:
+      heading:
+        other: Seine eigene Themen
+
+  managed_fillters:
+    collection:
+      heading:
+        other: Seine eigenen Filter
+
+  opinions:
+    collection:
+      heading:
+        other: Seine Meinungen
+        
+  activerecord:
+    models:
+      site: Seite
+      topic: Thema
+      channel: Kanal
+      user: Benutzer
+      language: Sprache
+      color: Farbe
+      aware_of: verfolgt
+      wathcing: angeschaut
+      word: Wort
+      opinion: Meinung
+      channel_opinion: Kanal Meinung
+      guest: Gast
+      fillter: Filter
+      followee: Őket követ
+      follower: Követő
+    errors:
+      models:
+        user:
+          attributes:
+            email_address:
+              too_short: Zu Kurz
+      
+  custom:
+    reset_colors: Farben in Grundstellung bringen
+    edit_colors: Farben bearbeiten
+    view_colors: Farben betrachten 
+    fresh: Frisch
+    best_rated: Am beliebtesten
+    private_fresh: Privat frisch
+    private_best_rated: Privat am beliebtesten 
+    invite: Einladung
+    home: Startseite
+    my_page: Eigene Seite
+    dont_press_twice: Diesen Knopf bitte nicht zweimal drücken, es dauert eine Weile bis die Aufgabe abgeschlossen ist...
+    refresh_your_results: Ergebnisse auffrischen 
+    managed_topics: Eigene Themen
+    opinions: Meinungen
+    fillters_and_topics_selection: Wählen Sie mindestens einen Filter und ein Thema.
+    none: Noch niemand
+    nonet: Noch niemanden
+    create_new_topic: Neues Thema erschaffen
+    create_new_fillter: Neuen Filter erschaffen
+
+  sidebar:
+    fillters_you_aware_of: Filter die Sie verfolgen
+    your_watched_topics: Themen die Sie sich anschauen

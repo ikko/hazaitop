@@ -1,0 +1,157 @@
+####
+#### Hobo Translation
+####
+de:
+  hobo:
+    # hobos default pages translations
+    page:
+      index:
+        title: "{{model}} Liste"
+        heading: "{{model}} Liste"
+
+      new:
+        title: "Neu {{model}}"
+        heading: "Neu {{model}}"
+
+      show:
+        title: "{{model}}"
+        heading: "{{model}}"
+        back_link: "Zurück"
+        edit_link: "{{model}} bearbeiten"
+        new_link: "Neu {{model}}"
+        add_form_heading: "{{model}} hinzufügen"
+
+      edit:
+        title: "{{model}} bearbeiten"
+        heading: "{{model}} bearbeiten"
+
+      index_for_owner:
+        title: "{{model}} für:"
+        heading:
+          your: "Eigene {{model}}"
+          other: "{{model}}"
+        subheading: "für:"
+
+      new_for_owner:
+        title: "Neu {{model}} für"
+        heading: "Neu {{model}}"
+        subheading: "für:"
+          
+      login:
+        title: "Eintritt"
+        heading: "Eintritt"
+        email: "E-mail"
+        password: "Passwort"
+        remember_me: "Benutzer merken"
+        login: "Eintritt"
+        signup: "Anmelden"
+        forgot_password: "Passwort vergessen?"
+
+      signup:
+        title: "Registrieren"
+        heading: "Neuen Benutzer registrieren"
+  
+      forgot_password:
+        title: "Passwort vergessen?"
+        heading: "Passwort vergessen?"
+        text: "Die für diese Seite verwendete E-mail Addresse angeben. . 
+               Sie werden per E-mail ein Link erhalten, auf dem Sie ein neues Passwort angeben können."
+        email: "E-mail"
+        send: "Schicken"
+
+      forgot_password_sent:
+        title: "Passwort vergessen - E-mail verschickt"
+        heading: "Passwort vergessen - E-mail verschickt"
+        text: "Wir haben eine E-mail an folgende Addresse gesendet: {{email}}. In der Nachricht erhalten Sie alle nötigen Anweisungen für das Angeben eines neuen Passwortes. Wenn Sie die E-mail nicht erhalten ist es erstmal ratsam auch unter den Spam oder den gelöschten Nachrichten nach ihr zu suchen, vielleicht ist sie versehentlich dort gelandet."
+
+      account_disabled:
+        title: "Benutzer Postfach kann nicht gefunden werden"
+        heading: "Benutzer Postfach kann nicht gefunden werden"
+        text: "Das zu dieser E-mail Addresse gehörende Postfach kann nicht gefunden werden. Sind Sie sicher, dass Sie die E-mail Addresse richtig angegeben haben?"
+
+    # hobos default action translation
+    actions:
+      new: "Neu {{model}}"
+      create: "Erschaffen"
+      previous: "Zurück"
+      next: "Vorwärts"
+      add: "Hinzufügen"
+      more: "Mehr"
+      delete: "{{model}} löschen"
+      save: "Speichern"
+      cancel: "Cancel"
+      edit: "{{model}} bearbeiten"
+      back: "Zurück nach:"
+      send: "Schicken"
+      remove: "Löschen"
+      signup: "Anmelden"
+      login: "Eintritt"
+      logout: "Abmeldung"
+      logged_in_as: "Willkommen, {{name}}"
+      account: "Einstellungen"
+          
+    # hobos default message translation  
+    messages:
+      create:
+        success: "Ihr {{model}} wurde erfolgreich erstellt"
+        error: "{{model}}.\n{{errors}} kann nicht erstellt werden"
+      creator:
+        error: "{{name}} (do creator).\n{{errors}} kann nicht erstellt werden"
+      transition:
+        error: "{{name}} (do transition).\n{{errors}} kann nicht erstellt werden"
+      update:
+        no_attribute_error: "Es sind keine auf zu frischenden Attribute bei den Paramteren angegeben"
+        success: "Die Änderung am {{model}} wurden erfolgreich gespeichert."
+        error: "Es ergab sich ein Problem bei dieser Änderung.\n{{errors}}"
+      destroy:
+        success: "{{model}} gelöscht."
+      signup: 
+        success: "Wir danken Ihenen für die Anmeldung!"
+        must_activate: "Ihr Postfach muss aktiviert werden, bevor Sie eintreten können. Schauen Sie sich Ihre E-mails an!"
+      login: 
+        success: "Eintritt war erfolgreich."
+        error: "Sie haben keinen gültigen Benutzernamen ({{login}}) und Passwort angegeben!"
+      logout: "Abmeldung war erfolgreich."
+      reset_password: "Ihr Passwort wurde geändert."
+      permission_denied: "Zutritt verweigert"
+      not_found: "Die gesuchte Seite ist nicht zu finden."
+      unauthenticated: "Ich kann Sie leider nicht authentifizieren"
+      current_password_is_not_correct: "falsch"
+      you_are_site_admin: "Sie sind der Administrator der Seite."
+      you_signed_up: "Anmeldung war erfolgreich"
+      no: "{{model}} steht nicht zur Verfügung."
+      confirm: "Sind Sie sicher?"
+        
+    collection:
+      count:
+        zero: "{{model}}nicht vorhanden"
+        one: "Zurzeit gibt es ein {{model}}."
+        other: "Es gibt schon {{count}} {{model}}."
+      heading:
+        your: "Ihre {{model}}"
+        other: "{{model}}"
+      add_form_heading: "{{model}} hinzufügen"
+      empty_message: "noch keine Daten vorhanden"
+
+    support:
+      or: "oder"
+      a: "ein"
+      an: "ein"
+      
+    live_search:
+      label: "Suche" 
+      results_label: "Ergebnisse:"
+      close_button: "schließen"
+      more: "Noch mehr"
+      no_results: "Die Suche ergab keine Ergebnisse."
+
+    form:
+      new:
+        heading: "Neu {{model}}"
+      error:
+        heading: "Folgender Fehler ist aufgetreten"
+    
+    table_plus:
+      search: "Suche"
+      empty: "Kein anzeigbares {{model}}"
+

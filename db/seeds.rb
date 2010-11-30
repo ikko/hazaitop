@@ -24,7 +24,7 @@ if OrgGrade.count == 0
   OrgGrade.create :name => "állami cég"
   OrgGrade.create :name => "magáncég"
   OrgGrade.create :name => "párt"
-  OrgGrade.create :name => "non-profit szervezet"
+  org = OrgGrade.create :name => "non-profit szervezet"
   OrgGrade.create :name => "off-shore cég"
   OrgGrade.create :name => "egyéb"
 end
