@@ -36,104 +36,102 @@ class SearchController < ApplicationController
     @network[:edges] << edge
   end
 
+  def generate_node_edges_for_visible_nodes(visible_nodes)
+    # az éppen kiválasztott node-on kívül az összes kliens oldalon betöltött 
+    # vmint az új node-okon végigmegyünk és kigeneráljuk a kapcsolataikat
+    visible_nodes.each do |node|
+      if !(node.kind_of?(Person) && node.id == @id)
+        generate_node_edges_for_node(node, visible_nodes)
+      end
+    end
+  end
+
+  def generate_node_edges_for_node(node, visible_nodes)
+    if node.kind_of?(Person)
+      node.personal_relations.each do |personal_relation|
+        if visible_nodes.include? personal_relation.related_person
+          generate_json_edge(personal_relation.related_person, 'p', personal_relation, node)
+        end
+      end
+      node.person_to_org_relations.each do |org_relation|
+        if visible_nodes.include? org_relation.organization
+          generate_json_edge(org_relation.organization, 'o', org_relation, node)
+        end
+      end
+    else
+      node.person_to_org_relations.each do |personal_relation|
+        if visible_nodes.include? personal_relation.person
+          generate_json_edge(personal_relation.person, 'p', personal_relation, node)
+        end
+      end
+      node.interorg_relations.each do |org_relation|
+        if visible_nodes.include? org_relation.related_organization
+          generate_json_edge(org_relation.related_organization, 'o', org_relation, node)
+        end
+      end
+    end
+  end
+
+  def generate_nodes(persons = [], organizations = [])
+    # ha personra kerestek
+    if params[:type]=='p'
+      resource = Person.find(params[:id])
+      resource.personal_relations.each do |personal_relation|
+        persons << personal_relation.related_person
+        generate_json_node(personal_relation.related_person, 'p')
+        generate_json_edge(personal_relation.related_person, 'p', personal_relation, resource)
+      end
+      resource.person_to_org_relations.each do |org_relation|
+        organizations << org_relation.organization
+        generate_json_node(org_relation.organization, 'o')
+        generate_json_edge(org_relation.organization, 'o', org_relation, resource)
+      end
+      generate_node_edges_for_visible_nodes((persons.flatten + organizations.flatten).uniq)
+      generate_json_node(resource, 'p')
+    # ha organization-re kerestek
+    elsif params[:type] == 'o'
+      resource = Organization.find(params[:id])
+      resource.person_to_org_relations.each do |personal_relation|
+        persons << personal_relation.person
+        generate_json_node(personal_relation.person, 'p')
+        generate_json_edge(personal_relation.person, 'p', personal_relation, resource)
+      end
+      resource.interorg_relations.each do |org_relation|
+        organizations << org_relation.related_organization
+        generate_json_node(org_relation.related_organization, 'o')
+        generate_json_edge(org_relation.related_organization, 'o', org_relation, resource)
+      end
+      generate_node_edges_for_visible_nodes((persons.flatten + organizations.flatten).uniq)
+      generate_json_node(resource, 'o')
+    end
+  end
+
   def index
-    id = params[:id].to_i
-    if id && params[:type]
+    if params[:id] && params[:type]
+      @id = params[:id].to_i
       @network = {:nodes=>[], :edges=>[]}
-      person_ids = []
-      organization_ids = []
-      if params[:nodes]
-        # az éppen kiválasztott node-on kívül az összes kliens oldalon betöltött node-on
-        # végigmegyünk és kigeneráljuk a kapcsolataikat
-        params[:nodes][0..-2].split(',').each do |node|
-          match = node.match /(.*?)(\d+)$/
-          person_ids << match[2] if match[1] == 'p'
-          organization_ids << match[2] if match[1] == 'o'
-        end
-        persons = Array(Person.find_by_id(person_ids) )
-        organizations = Array(Organization.find_by_id(organization_ids))
-      else
-        persons = []
-        organizations = []
-      end
-      # ha personra kerestek
-      # type 0: person, 1: organization
-      if params[:type]=='0'
-        resource = Person.find(params[:id])
-        resource.personal_relations.each do |personal_relation|
-          persons << personal_relation.related_person
-          generate_json_node(personal_relation.related_person, 'p')
-          generate_json_edge(personal_relation.related_person, 'p', personal_relation, resource)
-        end
-        resource.person_to_org_relations.each do |org_relation|
-          organizations << org_relation.organization
-          generate_json_node(org_relation.organization, 'o')
-          generate_json_edge(org_relation.organization, 'o', org_relation, resource)
-        end
+      if request.xhr?
+        person_ids = []
+        organization_ids = []
         if params[:nodes]
-          # az éppen kiválasztott node-on kívül az összes kliens oldalon betöltött 
-          # vmint az új node-okon végigmegyünk és kigeneráljuk a kapcsolataikat
-          (persons.flatten + organizations.flatten).uniq.each do |node|
-            if !(node.kind_of?(Person) && node.id == id)
-              if node.kind_of?(Person)
-                node.personal_relations.each do |personal_relation|
-                  generate_json_edge(personal_relation.related_person, 'p', personal_relation, node)
-                end
-                node.person_to_org_relations.each do |org_relation|
-                  generate_json_edge(org_relation.organization, 'o', org_relation, node)
-                end
-              else
-                node.person_to_org_relations.each do |personal_relation|
-                  generate_json_edge(personal_relation.person, 'p', personal_relation, node)
-                end
-                node.interorg_relations.each do |org_relation|
-                  generate_json_edge(org_relation.related_organization, 'o', org_relation, node)
-                end
-              end
-            end
+          # az éppen kiválasztott node-on kívül az összes kliens oldalon betöltött node-on
+          # végigmegyünk és kigeneráljuk a kapcsolataikat
+          params[:nodes][0..-2].split(',').each do |node|
+            match = node.match /(.*?)(\d+)$/
+            person_ids << match[2] if match[1] == 'p'
+            organization_ids << match[2] if match[1] == 'o'
           end
+          persons = Array(Person.find_by_id(person_ids) )
+          organizations = Array(Organization.find_by_id(organization_ids))
         else
-          generate_json_node(resource, 'p')
+          persons = []
+          organizations = []
         end
+        generate_nodes(persons, organizations)
+        render :json => @network
       else
-        resource = Organization.find(params[:id])
-        resource.person_to_org_relations.each do |personal_relation|
-          persons << personal_relation.person
-          generate_json_node(personal_relation.person, 'p')
-          generate_json_edge(personal_relation.person, 'p', personal_relation, resource)
-        end
-        resource.interorg_relations.each do |org_relation|
-          organizations << org_relation.related_organization
-          generate_json_node(org_relation.related_organization, 'o')
-          generate_json_edge(org_relation.related_organization, 'o', org_relation, resource)
-        end
-        if params[:nodes]
-          # az éppen kiválasztott node-on kívül az összes kliens oldalon betöltött 
-          # vmint az új node-okon végigmegyünk és kigeneráljuk a kapcsolataikat
-          (persons.flatten + organizations.flatten).uniq.each do |node|
-            if !(node.kind_of?(Person) && node.id == id)
-              if node.kind_of?(Person)
-                node.personal_relations.each do |personal_relation|
-                  generate_json_edge(personal_relation.related_person, 'p', personal_relation, node)
-                end
-                node.person_to_org_relations.each do |org_relation|
-                  generate_json_edge(org_relation.organization, 'o', org_relation, node)
-                end
-              else
-                node.person_to_org_relations.each do |personal_relation|
-                  generate_json_edge(personal_relation.person, 'p', personal_relation, node)
-                end
-                node.interorg_relations.each do |org_relation|
-                  generate_json_edge(org_relation.related_organization, 'o', org_relation, node)
-                end
-              end
-            end
-          end
-        else
-          generate_json_node(resource, 'o')
-        end
+        generate_nodes
       end
-      render :json => @network
     end
   rescue ActiveRecord::RecordNotFound
     render :nothing => true
