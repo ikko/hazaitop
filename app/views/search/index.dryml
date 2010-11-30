@@ -3,8 +3,12 @@
     <javascript name="AC_OETags.min, json2.min, cytoscapeweb.min, graph"/>
     <script type='text/javascript'>
       <%= "var __debug = true;" if Rails.env.development? %>
-      function log(data) {
-        if (__debug) console.log(data);
+      function log() {
+        if (__debug) {
+          for(var i=0; arguments.length > i; i++) {
+            console.log(arguments[i]);
+          }
+        }
       }
     </script>
   </append-scripts:>
@@ -24,5 +28,6 @@
       </div>
     </div>
     <div class="left" id="relationgraph" style="width: 70%;height: 400px"></div>
+    <div class="clear"></div>
   </content:>
 </page>

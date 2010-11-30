@@ -1,95 +1,100 @@
-var vis;
 (function($) {
-  var bypass = {nodes:{},edges:{}},
-      options = {swfPath: "/swf/CytoscapeWeb", flashInstallerPath: "/swf/playerProductInstall"}, 
-      maxWeight=null,
-      searched=false;
+  var searched = false,
+      network = {
+    xgmmlHeader: '<graph label="Cytoscape Web" directed="0" Graphic="1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cy="http://www.cytoscape.org" xmlns="http://www.cs.rpi.edu/XGMML">',
+    body: '',
+    nodes: {arr: []},
+    edges: {arr: []},
+    nodeIds: [],
+    maxWeight: null,
+    parseNodes: function(nodes) {
+      for (var i=0; nodes.length > i; i++) {
+        var node = nodes[i];  
+        if (!this.nodes[node.id]) {
+          this.nodes.arr.push(node);
+          this.nodes[node.id] = node;
+          this.nodeIds.push(node.id);
+          this.body += this.generateXmlFromNode(node);
+        }
+      }
+    },
+    parseEdges: function(edges) {
+      for(var i=0; edges.length > i; i++) {
+        var edge = edges[i];
+        if (!this.edges[edge.id] && !this.edges[edge.alternateId]) {
+          this.edges.arr.push(edge);
+          this.edges[edge.id] = edge;
+          if (edge.alternateId) {this.edges[edge.alternateId] = edge;}
+          this.body += this.generateXmlFromEdge(edge);
+        }
+      }
+    },
+    generateXmlFromNode: function(node) {
+      return "<node id='"+node.id+"' label='"+node.label+"'><graphics type='"+node.shape+"'/></node>"
+    },
+    generateXmlFromEdge: function(edge) {
+      return "<edge id='"+edge.id+"' source='"+edge.sourceId+"' target='"+edge.targetId+"' label='"+edge.label+"'><att type='real' name='weight' value='"+edge.weight+"'/><graphics width='"+(edge.weight/this.maxWeight)*10+"'/></edge>"
+    },
+    setMaxWeight: function (edges) {
+      for(var i=0; edges.length > i; i++) {
+        if (edges[i].weight > this.maxWeight) {
+          this.maxWeight = edges[i].weight;
+        }
+      }
+    },
+    parse: function(data) {
+      this.setMaxWeight(data.edges);
+      this.parseNodes(data.nodes);
+      this.parseEdges(data.edges);
+      log(this.toXgmml())
+      return this.toXgmml();
+    },
+    toXgmml: function() {
+      return this.xgmmlHeader + this.body + '</graph>'
+    },
+    draw: function(data) {
+      vis.draw({network: this.parse(data), 
+                edgeLabelsVisible: true, 
+                layout: 'Circle', 
+                visualStyle: {nodes:{size:51, labelFontSize:10}, edges:{labelFontSize:10}}});
+    },
+    loadedNodeIds: function() {
+      var resp = '';
+      for(var i=0; this.nodeIds.length > i; i++) {
+        resp += this.nodeIds[i]+',';
+      }
+      return resp;
+    }
+  };
 
-  vis = new org.cytoscapeweb.Visualization("relationgraph", options),
-
+  var vis = new org.cytoscapeweb.Visualization("relationgraph", {swfPath: "/swf/CytoscapeWeb", flashInstallerPath: "/swf/playerProductInstall"});
   vis.ready(function() {
-    setMaxWeight();
     if (!searched) {
       vis.addListener("click", "nodes", function(event) {
-        $.ajax({url:'/search/?id='+event.target.data.id,
+        var match = event.target.data.id.match(/^(.*)(\d+)$/),
+            type = match[1] == 'p' ? '0' : '1',
+            id = match[2];
+        $.ajax({url:'/search/?id='+id+'&type='+type+'&nodes='+network.loadedNodeIds(), 
                 dataType: 'json',
                 success: function(response) {
-                  // ha a válaszban van olyan node-ok maxWeight-je nagyobb az aktuálisnál, 
-                  // akkor arányosan átrajzoljuk a meglévő kapcsolati súlyozást
-                  if (response.maxWeight>maxWeight) {
-                    maxWeight = response.maxWeight;
-                    refreshEdgesWeights();
-                  }
-
-                  // beillesztjük és össszekötjük az új node-okat a target node-al
-                  // valamint rendesen belőjük a megjelenésüket
-                  addNewNodes(response, event);
-
-                  // újrarapozícionáltatjuk a networkot
-                  vis.layout({name:'Circle',nodes: { shape: { passthroughMapper: { attrName: "shape" } } } });
+                  log('Node kapcsolatai válasz: ', response);
+                  network.draw(response); 
                 }});
       });
-      // egyszerű flag hogy új keresésnél amikor kirajzoljuk az új gráfot ne
-      // bindoljuk újra a node click eseményt
       searched = true;
     }
   });
 
-  function setMaxWeight() {
-    for(var i=0, edges = vis.edges(), edgesLength = edges.length; edgesLength > i; i++) {
-      if (edges[i].data.weight > maxWeight) {
-        maxWeight = edges[i].data.weight;
-      }
-    }
-  }
-
-  function refreshEdgesWeights() {
-    var bypass = {edges:{}};
-    for(var i=0, edges = vis.edges(), edgesLength = edges.length; edgesLength > i; i++) {
-      var obj = edges[i];
-      bypass.edges[obj.data.id] = {width:(obj.data.weight/maxWeight)*10};
-    }
-    vis.visualStyleBypass(bypass);
-  }
-
-  function addNewNodes(response, event) {
-    var bypass = {nodes:{},edges:{}};
-    // hozzáadjuk az új node-okat
-    for (var i=0; response.nodes.length > i;i++) {
-      var node = response.nodes[i];  
-      // csak akkor fűzzük be a node-ot ha még nincs a networkba
-      if (!vis.node(node.id)) {
-        vis.addNode(event.mouseX, event.mouseY, {id: node.id, label: node.label, shape: node.shape}, false);
-        bypass.nodes[node.id] = {shape: node.shape};
-      }
-      // csak akkor füzzük be az edge-t ha még nincs a networkba
-      if (!vis.edge(node.relationId) && !vis.edge(node.alternateRelationId)) {
-        vis.addEdge({id: node.relationId,
-                     source: node.id, 
-                     target: event.target.data.id, 
-                     label: node.relationLabel,
-                     weight: node.relationWeight}, false);
-        bypass.edges[node.relationId] = {width:(node.relationWeight/maxWeight)*10};
-      }
-    }
-    // megrajzoljuk őket helyesen
-    vis.visualStyleBypass(bypass);
-  }
-
   $(function() {
     $("#search_entities").tabs();
-    $(".ui-tabs .ui-widget-content").css('height', '400px');
     $(".autocomplete").autocomplete({minLength: '1', 
                                      delay: '500',
                                      select: function(event, ui) {
                                        $.ajax({url: '/search/?id='+ui.item.id+'&type='+$("#search_entities").tabs("option", "selected"),
-                                               dataType: 'text',
-                                               success: function(response) {
-                                                 log(response);
-                                                 vis.draw({network: response, 
-                                                           edgeLabelsVisible: true, 
-                                                           layout: 'Circle', 
-                                                           visualStyle: {nodes:{size:51, labelFontSize:10}, edges:{labelFontSize:10}}});
+                                               dataType: 'json',
+                                               success: function(response) { 
+                                                 log('Node kapcsolatai válasz: ', response);
+                                                 network.draw(response); 
                                                }});
                                      }});
     $("#organization_autocomplete").autocomplete({source: '/organizations/query'});
