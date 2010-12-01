@@ -107,12 +107,12 @@ if P2pRelationType.count == 0
   b = O2pRelationType.create(     :name   => "FB tag",       :weight => "10", :p2p_relation_type_id => i.id, :pair_id => a.id  )
   a.update_attribute :pair_id, b.id
 
-  i = P2pRelationType.create( :name => "alperesek",       :weight => "8" )
+  i = P2pRelationType.create( :name => "egyidejű alperesek",       :weight => "8" )
   a = P2oRelationType.create(     :name   => "alperes",      :weight => "10", :p2p_relation_type_id => i.id )
   b = O2pRelationType.create(     :name   => "felperes",     :weight => "10", :p2p_relation_type_id => i.id, :pair_id => a.id  )
   a.update_attribute :pair_id, b.id
 
-  i = P2pRelationType.create( :name => "felperesek",      :weight => "8" )
+  i = P2pRelationType.create( :name => "egyidejű felperesek",      :weight => "8" )
   a = P2oRelationType.create(     :name   => "felperes",     :weight => "10", :p2p_relation_type_id => i.id )
   b = O2pRelationType.create(     :name   => "alperes",      :weight => "10", :p2p_relation_type_id => i.id, :pair_id => a.id  )
   a.update_attribute :pair_id, b.id

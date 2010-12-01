@@ -92,7 +92,7 @@ class PersonToOrgRelation < ActiveRecord::Base
             end
             info = InformationSource.find :first, :conditions => { :internal => true, :weight => weight }
             info = InformationSource.create!( :internal => true, :weight => weight, :name => "system" ) if !info
-            InterpersonalRelation.create!(  :p2p_relation_type_id => relation_type_id,
+            p2p_relation = InterpersonalRelation.create!(  :p2p_relation_type_id => relation_type_id,
                                             :person_id => person_id,
                                             :related_person_id => pot.person_id,
                                             :information_source_id => info.id,
@@ -103,6 +103,7 @@ class PersonToOrgRelation < ActiveRecord::Base
                                             :end_time => calculated_end_time,
                                             :no_end_time => calculated_no_end_time,
                                             :internal => true)
+            p2p_relation.litigations = self.litigations
           end
         end
       end

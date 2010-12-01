@@ -54,6 +54,7 @@ class InterpersonalRelation < ActiveRecord::Base
                                                     :end_time => r.end_time,
                                                     :no_end_time => r.no_end_time,
                                                     :mirrored => true)
+      interpersonal.litigations = r.litigations
       r.update_attributes :mirrored => true, :interpersonal_relation_id => interpersonal.id
     end
   end
@@ -75,6 +76,9 @@ class InterpersonalRelation < ActiveRecord::Base
       end
       if o.information_source_id != r.information_source_id
         o.update_attribute :information_source_id, r.information_source_id
+      end
+      if o.litigations != r.litigations
+        o.litigations = r.litigations
       end
     end
   end
