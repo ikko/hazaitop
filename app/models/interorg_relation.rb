@@ -34,16 +34,17 @@ class InterorgRelation < ActiveRecord::Base
       else
         relation_type_id = r.o2o_relation_type_id
       end
+      visual = r.o2o_relation_type.visual
       interorg = InterorgRelation.create!(:interorg_relation_id => r.id,
                               :organization_id => r.related_organization_id,
                               :related_organization_id => r.organization_id,
                               :interorg_relation_id => r.id,
                               :o2o_relation_type_id => relation_type_id,
                               :information_source_id => r.information_source_id,
-                              :visual => r.o2o_relation_type.visual,
+                              :visual => visual,
                               :mirrored => true)
       interorg.litigations = r.litigations
-      r.update_attributes :mirrored => true, :interorg_relation_id => interorg.id
+      r.update_attributes :mirrored => true, :interorg_relation_id => interorg.id, :visual => visual
     end
   end
 

@@ -55,11 +55,11 @@ class InterpersonalRelation < ActiveRecord::Base
                                                 :start_time => r.start_time,
                                                 :end_time => r.end_time,
                                                 :no_end_time => r.no_end_time,
-                                                :visual => r.p2p_relation_type.visual,
+                                                :visual => visual,
                                                 :mirrored => true)
       interpersonal.litigations = r.litigations
       interpersonal.save
-      r.update_attributes :mirrored => true, :interpersonal_relation_id => interpersonal.id
+      r.update_attributes :mirrored => true, :interpersonal_relation_id => interpersonal.id, :visual => visual
     end
   end
 

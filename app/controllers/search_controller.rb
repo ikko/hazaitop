@@ -123,10 +123,10 @@ if visible_nodes.include? litigation
   end
 
   def generate_network(persons = [], organizations = [], litigations = [])
-    # ha personra kerestek
+    # ha person kapcsolatait fedik fel
     if params[:type]=='p'
       resource = Person.find(params[:id])
-      resource.interpersonal_relations.each do |personal_relation|
+      resource.visual_personal_relations.each do |personal_relation|
         persons << personal_relation.related_person
         generate_json_node(personal_relation.related_person, 'p')
         generate_json_edge(personal_relation.related_person, 'p', personal_relation, resource)
@@ -136,7 +136,7 @@ if visible_nodes.include? litigation
           generate_json_edge(litigation, 'l', personal_relation, resource)
         end
       end
-      resource.person_to_org_relations.each do |org_relation|
+      resource.visual_person_to_org_relations.each do |org_relation|
         organizations << org_relation.organization
         generate_json_node(org_relation.organization, 'o')
         generate_json_edge(org_relation.organization, 'o', org_relation, resource)
@@ -146,9 +146,9 @@ if visible_nodes.include? litigation
           generate_json_edge(litigation, 'l', org_relation, resource)
         end
       end
-      generate_node_edges_for_visible_nodes((persons.flatten + organizations.flatten + litigations.flatten).uniq)
+      generate_node_edges_for_visible_nodes((persons + organizations + litigations).uniq)
       generate_json_node(resource, 'p')
-    # ha organization-re kerestek
+    # ha organization kapcsolatait fedik fel
     elsif params[:type] == 'o'
       resource = Organization.find(params[:id])
       resource.person_to_org_relations.each do |personal_relation|
@@ -171,9 +171,9 @@ if visible_nodes.include? litigation
           generate_json_edge(litigation, 'l', org_relation, resource)
         end
       end
-      generate_node_edges_for_visible_nodes((persons.flatten + organizations.flatten + litigations.flatten).uniq)
+      generate_node_edges_for_visible_nodes((persons + organizations + litigations).uniq)
       generate_json_node(resource, 'o')
-    # ha litigation-re kerestek
+    # ha litigation kapcsolatait fedik fel
     elsif params[:type] == 'l'
       resource = Litigation.find(params[:id])
       litigations << resource
@@ -216,7 +216,7 @@ if visible_nodes.include? litigation
         generate_json_node(o2o_rel.related_organization, 'o')
         generate_json_edge(o2o_rel.related_organization, 'o', o2o_rel, resource)
       end
-      generate_node_edges_for_visible_nodes((persons.flatten + organizations.flatten + litigations.flatten).uniq)
+      generate_node_edges_for_visible_nodes((persons + organizations + litigations).uniq)
       generate_json_node(resource, 'l')
     end
   end
@@ -225,13 +225,13 @@ if visible_nodes.include? litigation
     if params[:id] && params[:type]
       @id = params[:id].to_i
       @network = {:nodes=>[], :edges=>[]}
+      # ajax request
+      # ilyenkor figyeljük hogy milyen node-ok vannak már az oldalon, és az új kigenerálandó node-ok között milyen kapcsolatok vannak
       if request.xhr?
         person_ids = []
         organization_ids = []
         litigation_ids = []
         if params[:nodes]
-          # az éppen kiválasztott node-on kívül az összes kliens oldalon betöltött node-on
-          # végigmegyünk és kigeneráljuk a kapcsolataikat
           params[:nodes][0..-2].split(',').each do |node|
             match = node.match /(.*?)(\d+)$/
             person_ids << match[2] if match[1] == 'p'
@@ -246,8 +246,9 @@ if visible_nodes.include? litigation
           organizations = []
           litigations = []
         end
-        generate_network(persons, organizations, litigations)
+        generate_network(persons.flatten, organizations.flatten, litigations.flatten)
         render :json => @network
+      # ha egy másik oldalról érkezve egy konkrét adott node kapcsolatait akarják felfeldni
       else
         generate_network
       end
