@@ -10,6 +10,7 @@ class InterpersonalRelation < ActiveRecord::Base
     no_end_time  :boolean, :default => false
     internal     :boolean, :default => false
     weight       :float
+    visual       :boolean, :default => true
   end
 
   belongs_to :p2p_relation_type
@@ -42,6 +43,7 @@ class InterpersonalRelation < ActiveRecord::Base
       else
         relation_type_id = r.p2p_relation_type_id
       end
+      visual = r.p2p_relation_type.visual
       interpersonal = InterpersonalRelation.create!(:interpersonal_relation_id => r.id,
                                                     :person_id => r.related_person_id,
                                                     :related_person_id => r.person_id,
@@ -53,6 +55,7 @@ class InterpersonalRelation < ActiveRecord::Base
                                                     :start_time => r.start_time,
                                                     :end_time => r.end_time,
                                                     :no_end_time => r.no_end_time,
+                                                    :visual => r.p2p_relation_type.visual,
                                                     :mirrored => true)
       interpersonal.litigations = r.litigations
       r.update_attributes :mirrored => true, :interpersonal_relation_id => interpersonal.id
@@ -68,7 +71,7 @@ class InterpersonalRelation < ActiveRecord::Base
       if o.p2p_relation_type_id != r.p2p_relation_type_id
         if o.p2p_relation_type and o.p2p_relation_type.pair
           if o.p2p_relation_type.pair_id != r.p2p_relation_type_id
-            o.update_attribute :p2p_relation_type_id, r.p2p_relation_type.pair.id
+            o.update_attributes :p2p_relation_type_id => r.p2p_relation_type.pair.id, :visual => r.p2p_relation_type.visual
           end
         else
           o.update_attribute :p2p_relation_type_id, r.p2p_relation_type_id

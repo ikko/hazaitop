@@ -6,6 +6,7 @@ class InterorgRelation < ActiveRecord::Base
     timestamps
     mirrored     :boolean, :default => false
     weight       :float
+    visual       :boolean, :default => true
   end
 
   belongs_to :o2o_relation_type
@@ -39,6 +40,7 @@ class InterorgRelation < ActiveRecord::Base
                               :interorg_relation_id => r.id,
                               :o2o_relation_type_id => relation_type_id,
                               :information_source_id => r.information_source_id,
+                              :visual => r.o2o_relation_type.visual,
                               :mirrored => true)
       interorg.litigations = r.litigations
       r.update_attributes :mirrored => true, :interorg_relation_id => interorg.id
@@ -54,7 +56,7 @@ class InterorgRelation < ActiveRecord::Base
       if o.o2o_relation_type_id != r.o2o_relation_type_id
         if o.o2o_relation_type and o.o2o_relation_type.pair
           if o.o2o_relation_type.pair_id != r.o2o_relation_type_id
-            o.update_attribute :o2o_relation_type_id, r.o2o_relation_type.pair.id
+            o.update_attributes :o2o_relation_type_id => r.o2o_relation_type.pair.id, :visual => r.o2o_relation_type.visual
           end
         else
           o.update_attribute :o2o_relation_type_id, r.o2o_relation_type_id

@@ -7,6 +7,7 @@ class PersonToOrgRelation < ActiveRecord::Base
     end_time   :date
     no_end_time :boolean, :default => false
     weight     :float
+    visual       :boolean, :default => true
     timestamps
   end
 
@@ -102,6 +103,7 @@ class PersonToOrgRelation < ActiveRecord::Base
                                             :start_time => calculated_start_time,
                                             :end_time => calculated_end_time,
                                             :no_end_time => calculated_no_end_time,
+                                            :visual => p2o_relation_type.visual,
                                             :internal => true)
             p2p_relation.litigations = self.litigations
           end

@@ -31,6 +31,8 @@ class Person < ActiveRecord::Base
   # ezek csak a kézzel bevitt kapcsolatok
   has_many :personal_relations, :conditions => [ "internal = ?", false], :class_name => "InterpersonalRelation", :accessible => true
 
+  has_many :visual_personal_relations, :conditions => [ "visual = ?", true], :class_name => "InterpersonalRelation"
+
   has_many :person_to_org_relations, :accessible => true
 
   has_many :organizations, :through => :person_to_org_relations
