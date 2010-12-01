@@ -6,35 +6,35 @@ hu:
     # hobos default pages translations
     page:
       index:
-        title: "{{model}} Lista"
-        heading: "{{model}} Lista"
+        title: "%{model} Lista"
+        heading: "%{model} Lista"
 
       new:
-        title: "Új {{model}}"
-        heading: "Új {{model}}"
+        title: "Új %{model}"
+        heading: "Új %{model}"
 
       show:
-        title: "{{model}}"
-        heading: "{{model}}"
+        title: "%{model}"
+        heading: "%{model}"
         back_link: "Visza"
-        edit_link: "{{model}} szerkesztés"
-        new_link: "Új {{model}}"
-        add_form_heading: "{{model}} hozzáadás"
+        edit_link: "%{model} szerkesztés"
+        new_link: "Új %{model}"
+        add_form_heading: "%{model} hozzáadás"
 
       edit:
-        title: "{{model}} szerkesztés"
-        heading: "{{model}} szerkesztés"
+        title: "%{model} szerkesztés"
+        heading: "%{model} szerkesztés"
 
       index_for_owner:
-        title: "{{model}} ehhez:"
+        title: "%{model} ehhez:"
         heading:
-          your: "Saját {{model}}"
-          other: "{{model}}"
+          your: "Saját %{model}"
+          other: "%{model}"
         subheading: "Ehhez:"
 
       new_for_owner:
-        title: "Új {{model}} ehhez"
-        heading: "Új {{model}}"
+        title: "Új %{model} ehhez"
+        heading: "Új %{model}"
         subheading: "Ehhez:"
           
       login:
@@ -61,7 +61,7 @@ hu:
 
       forgot_password_sent:
         title: "Elfelejtett jelszó - E-mail elküldve"
-        text: "Elküldtünk egy e-mailt erre a címre: {{email}}. Az üzenetben találhatók utasítások arra vonatkozóan, hogy mik a teendők az új jelszó lértáhozásához. Ha nem kapod meg az e-mail-t érdemes körülnézni a spam vagy törölt levelek között is, hátha oda került az üzenet véletlenül."
+        text: "Elküldtünk egy e-mailt erre a címre: %{email}. Az üzenetben találhatók utasítások arra vonatkozóan, hogy mik a teendők az új jelszó lértáhozásához. Ha nem kapod meg az e-mail-t érdemes körülnézni a spam vagy törölt levelek között is, hátha oda került az üzenet véletlenül."
 
       account_disabled:
         title: "Nem található a felhasználói fiók"
@@ -70,46 +70,46 @@ hu:
 
     # hobos default action translation
     actions:
-      new: "Uj {{model}}"
+      new: "Uj %{model}"
       create: "Létrehoz"
       previous: "Előző"
       next: "Következő"
       add: "Hozzáadás"
       more: "Még"
-      delete: "{{model}} törlése"
+      delete: "%{model} törlése"
       save: "Mentés"
       cancel: "Mégsem"
-      edit: "{{model}} szerkesztése"
+      edit: "%{model} szerkesztése"
       back: "Vissza ide:"
       send: "Elküld"
       remove: "Törlés"
       signup: "Feliratkozás"
       login: "Belépés"
       logout: "Kilépés"
-      logged_in_as: "Üdvözlet, {{name}}"
+      logged_in_as: "Üdvözlet, %{name}"
       account: "Adatok"
           
     # hobos default message translation  
     messages:
       create:
-        success: "A {{model}} sikeresen létrejött"
-        error: "Nem hozható létre a {{model}}.\n{{errors}}"
+        success: "A %{model} sikeresen létrejött"
+        error: "Nem hozható létre a %{model}.\n%{errors}"
       creator:
-        error: "Nem hozható létre a {{name}} (do creator).\n{{errors}}"
+        error: "Nem hozható létre a %{name} (do creator).\n%{errors}"
       transition:
-        error: "Nem hozható létre a {{name}} (do transition).\n{{errors}}"
+        error: "Nem hozható létre a %{name} (do transition).\n%{errors}"
       update:
         no_attribute_error: "Nincs frissíthető attributum megadva a paraméterek közt"
-        success: "A {{model}} változásait sikeresen elmentettük."
-        error: "Valami hiba volt ezzel a változtatással.\n{{errors}}"
+        success: "A %{model} változásait sikeresen elmentettük."
+        error: "Valami hiba volt ezzel a változtatással.\n%{errors}"
       destroy:
-        success: "A {{model}} törölve."
+        success: "A %{model} törölve."
       signup: 
         success: "Köszönjük, hogy feliratkoztál!"
         must_activate: "Aktiválnod kell a fiókodat, ahhoz, hogy be tudj lépni. Nézd meg az e-mail-jeidet most!"
       login: 
         success: "Sikeresen beléptél."
-        error: "Nem adtál meg érvényes azonosítót ({{login}}) és jelszót!"
+        error: "Nem adtál meg érvényes azonosítót (%{login}) és jelszót!"
       logout: "Sikeresen kiléptél."
       reset_password: "A jelszavadat megváltoztattuk."
       permission_denied: "Hozzáférés megtagadva"
@@ -118,18 +118,18 @@ hu:
       current_password_is_not_correct: "helytelen"
       you_are_site_admin: "Te vagy a site adminisztrátora."
       you_signed_up: "Sikeresen feliratkozál"
-      no: "Nem áll {{model}} rendelkezésre."
+      no: "Nem áll %{model} rendelkezésre."
       confirm: "Biztos vagy benne?"
         
     collection:
       count:
-        zero: "Nincs {{model}}"
-        one: "Egy {{model}} van pillanatnyilag."
-        other: "Már {{count}} {{model}} van."
+        zero: "Nincs %{model}"
+        one: "Egy %{model} van pillanatnyilag."
+        other: "Már %{count} %{model} van."
       heading:
-        your: "A te {{model}}id"
-        other: "{{model}}i"
-      add_form_heading: "{{model}} hozzáadása"
+        your: "A te %{model}id"
+        other: "%{model}i"
+      add_form_heading: "%{model} hozzáadása"
       empty_message: "nincs még adat"
 
     support:
@@ -146,7 +146,7 @@ hu:
 
     form:
       new:
-        heading: "Új {{model}}"
+        heading: "Új %{model}"
       error:
         heading: "A következő hiba történt"
     
