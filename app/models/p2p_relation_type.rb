@@ -6,6 +6,7 @@ class P2pRelationType < ActiveRecord::Base
     name   :string
     weight :float
     internal :boolean, :default => false
+    visual       :boolean, :default => true
     timestamps
   end
 

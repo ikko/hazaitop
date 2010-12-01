@@ -63,8 +63,8 @@ if P2pRelationType.count == 0
   P2pRelationType.create( :name => "rokon",               :weight => "11" )
 
   # kétoldalú nem származtatott személyes kapcsolatok
-  a = P2pRelationType.create( :name => "alperes",         :weight => "10" )
-  b = P2pRelationType.create( :name => "felperes",        :weight => "10",   :pair_id => a.id  )
+  a = P2pRelationType.create( :name => "alperes",         :weight => "10", :visual => false )
+  b = P2pRelationType.create( :name => "felperes",        :weight => "10",   :pair_id => a.id, :visual => false  )
   a.update_attribute :pair_id, b.id
 
   a = P2pRelationType.create( :name => "hitelező",         :weight => "20" )
@@ -108,13 +108,13 @@ if P2pRelationType.count == 0
   a.update_attribute :pair_id, b.id
 
   i = P2pRelationType.create( :name => "egyidejű alperesek",       :weight => "8" )
-  a = P2oRelationType.create(     :name   => "alperes",      :weight => "10", :p2p_relation_type_id => i.id )
-  b = O2pRelationType.create(     :name   => "felperes",     :weight => "10", :p2p_relation_type_id => i.id, :pair_id => a.id  )
+  a = P2oRelationType.create(     :name   => "alperes",      :weight => "10", :p2p_relation_type_id => i.id, :visual => false )
+  b = O2pRelationType.create(     :name   => "felperes",     :weight => "10", :p2p_relation_type_id => i.id, :pair_id => a.id, :visual => false  )
   a.update_attribute :pair_id, b.id
 
   i = P2pRelationType.create( :name => "egyidejű felperesek",      :weight => "8" )
-  a = P2oRelationType.create(     :name   => "felperes",     :weight => "10", :p2p_relation_type_id => i.id )
-  b = O2pRelationType.create(     :name   => "alperes",      :weight => "10", :p2p_relation_type_id => i.id, :pair_id => a.id  )
+  a = P2oRelationType.create(     :name   => "felperes",     :weight => "10", :p2p_relation_type_id => i.id, :visual => false )
+  b = O2pRelationType.create(     :name   => "alperes",      :weight => "10", :p2p_relation_type_id => i.id, :pair_id => a.id, :visual => false  )
   a.update_attribute :pair_id, b.id
 
 end
@@ -131,8 +131,8 @@ if O2oRelationType.count == 0
   t = O2oRelationType.create( :name => "szponzor",       :weight => "10" )
   r = O2oRelationType.create( :name => "szponzorált",    :weight => "10", :pair_id => t.id )
   t.update_attribute :pair_id, r.id
-  t = O2oRelationType.create( :name => "alperes",        :weight => "10" )
-  r = O2oRelationType.create( :name => "felperes",       :weight => "10", :pair_id => t.id )
+  t = O2oRelationType.create( :name => "alperes",        :weight => "10", :visual => false )
+  r = O2oRelationType.create( :name => "felperes",       :weight => "10", :pair_id => t.id, :visual => false )
   t.update_attribute :pair_id, r.id
   t = O2oRelationType.create( :name => "alvállalkozó",   :weight => "10" )
   r = O2oRelationType.create( :name => "fővállalkozó",   :weight => "10", :pair_id => t.id )

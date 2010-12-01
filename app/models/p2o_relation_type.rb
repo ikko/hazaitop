@@ -5,6 +5,7 @@ class P2oRelationType < ActiveRecord::Base
   fields do
     name   :string
     weight :integer
+    visual       :boolean, :default => true
     timestamps
   end
 
