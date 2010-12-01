@@ -151,7 +151,7 @@ if visible_nodes.include? litigation
     # ha organization kapcsolatait fedik fel
     elsif params[:type] == 'o'
       resource = Organization.find(params[:id])
-      resource.person_to_org_relations.each do |personal_relation|
+      resource.visual_person_to_org_relations.each do |personal_relation|
         persons << personal_relation.person
         generate_json_node(personal_relation.person, 'p')
         generate_json_edge(personal_relation.person, 'p', personal_relation, resource)
@@ -161,7 +161,7 @@ if visible_nodes.include? litigation
           generate_json_edge(litigation, 'l', personal_relation, resource)
         end
       end
-      resource.interorg_relations.each do |org_relation|
+      resource.visual_interorg_relations.each do |org_relation|
         organizations << org_relation.related_organization
         generate_json_node(org_relation.related_organization, 'o')
         generate_json_edge(org_relation.related_organization, 'o', org_relation, resource)
@@ -174,6 +174,7 @@ if visible_nodes.include? litigation
       generate_node_edges_for_visible_nodes((persons + organizations + litigations).uniq)
       generate_json_node(resource, 'o')
     # ha litigation kapcsolatait fedik fel
+    # TODO: ezt a részt átnézni
     elsif params[:type] == 'l'
       resource = Litigation.find(params[:id])
       litigations << resource
