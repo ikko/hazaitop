@@ -192,13 +192,13 @@ hu:
       heading: szerkesztés
     name: Elnevezés
     user: Létrehozó
-    nav_item: Szektorok
+    nav_item: Ágazatok
     actions:
-      new: Új szektor
+      new: Új ágazat
       edit: szerkesztés
       delete: Ágazat törlése
     collection:
-      count: Már {{count}} szektor található.
+      count: Már {{count}} ágazat található.
       heading:
         other: Találatok
 
@@ -237,6 +237,7 @@ hu:
     zip_code: Irányítószám
     city: Város
     street: Utca
+    founded_at: Alapítva
     trade_register_nr: Cégjegyzékszám
     tax_nr: Adószám
     number_of_employees: Munkavállalók száma
@@ -253,7 +254,7 @@ hu:
       delete: Szervezet törlése
     hints:
       name: a szervezet teljes neve
-      street: közterület, házszám, élület, emelet, ajtó
+      street: közterület, házszám, épület, emelet, ajtó
     collection:
       count: Már {{count}} szervezet található.
       heading:
@@ -281,8 +282,8 @@ hu:
 
   users:
     name: név
-    email_address: E-mail cím
-    current_password: jelenlegi jelszó
+    email_address: E-mail address
+    current_password: Current password
     new_password: Új jelszó
     confirm_new_password: Új jelszó megerősítés
     password: jelszó
@@ -296,14 +297,12 @@ hu:
       invite: Őt meghívom!
       save: Mentés
     cards:
-      owned_topics: saját témák
-      opinions: vélemények
-      followers: ők követik
-      following: őket követi
     hints:
+      email_address: e-mail cím
       name: Add meg a felhasználó nevét
-      password: jelszó
-      password_confirmation: jelszó megerősítése
+      current_password: jelenlegi jelszó
+      password: új jelszó
+      password_confirmation: új jelszó megerősítése
     invite:
       heading: Új meghívó küldése
             

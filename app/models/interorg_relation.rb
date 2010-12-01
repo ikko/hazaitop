@@ -40,6 +40,7 @@ class InterorgRelation < ActiveRecord::Base
                               :o2o_relation_type_id => relation_type_id,
                               :information_source_id => r.information_source_id,
                               :mirrored => true)
+      interorg.litigations = r.litigations
       r.update_attributes :mirrored => true, :interorg_relation_id => interorg.id
     end
   end
@@ -61,6 +62,9 @@ class InterorgRelation < ActiveRecord::Base
       end
       if o.information_source_id != r.information_source_id
         o.update_attribute :information_source_id, r.information_source_id
+      end
+      if o.litigations != r.litigations
+        o.litigations = r.litigations
       end
     end
   end
