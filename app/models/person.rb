@@ -32,6 +32,7 @@ class Person < ActiveRecord::Base
   has_many :personal_relations, :conditions => [ "internal = ?", false], :class_name => "InterpersonalRelation", :accessible => true
 
   has_many :visual_personal_relations, :conditions => [ "visual = ?", true], :class_name => "InterpersonalRelation"
+  has_many :visual_person_to_org_relations, :conditions => [ "visual = ?", true], :class_name => "PersonToOrgRelation"
 
   has_many :person_to_org_relations, :accessible => true
 
