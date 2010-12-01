@@ -31,8 +31,11 @@ class Person < ActiveRecord::Base
   # ezek csak a kézzel bevitt kapcsolatok
   has_many :personal_relations, :conditions => [ "internal = ?", false], :class_name => "InterpersonalRelation", :accessible => true
 
-  has_many :visual_personal_relations, :conditions => [ "visual = ?", true], :class_name => "InterpersonalRelation"
-  has_many :visual_person_to_org_relations, :conditions => [ "visual = ?", true], :class_name => "PersonToOrgRelation"
+  # helperek a vizualicáziós részhez
+  has_many :personal_non_litigation_relations, :conditions => [ "visual = ?", true], :class_name => "InterpersonalRelation"
+  has_many :personal_litigation_relations, :conditions => [ "visual = ?", false], :class_name => "InterpersonalRelation"
+  has_many :person_to_org_non_litigation_relations, :conditions => [ "visual = ?", true], :class_name => "PersonToOrgRelation"
+  has_many :person_to_org_litigation_relations, :conditions => [ "visual = ?", false], :class_name => "PersonToOrgRelation"
 
   has_many :person_to_org_relations, :accessible => true
 

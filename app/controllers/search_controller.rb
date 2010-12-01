@@ -126,20 +126,28 @@ if visible_nodes.include? litigation
     # ha person kapcsolatait fedik fel
     if params[:type]=='p'
       resource = Person.find(params[:id])
-      resource.visual_personal_relations.each do |personal_relation|
+      # személyes kapcsolatok
+      resource.personal_non_litigation_relations.each do |personal_relation|
         persons << personal_relation.related_person
         generate_json_node(personal_relation.related_person, 'p')
         generate_json_edge(personal_relation.related_person, 'p', personal_relation, resource)
+      end
+      # személyes peres kapcsolatok
+      resource.personal_litigation_relations.each do |personal_relation|
         personal_relation.litigations.each do |litigation|
           litigations << litigation
           generate_json_node(litigation, 'l')
           generate_json_edge(litigation, 'l', personal_relation, resource)
         end
       end
-      resource.visual_person_to_org_relations.each do |org_relation|
+      # intézményes kapcsolatok  
+      resource.person_to_org_non_litigation_relations.each do |org_relation|
         organizations << org_relation.organization
         generate_json_node(org_relation.organization, 'o')
         generate_json_edge(org_relation.organization, 'o', org_relation, resource)
+      end
+      # intézményes peres kapcsolatok
+      resource.person_to_org_litigation_relations.each do |org_relation|
         org_relation.litigations.each do |litigation|
           litigations << litigation
           generate_json_node(litigation, 'l')
@@ -151,20 +159,28 @@ if visible_nodes.include? litigation
     # ha organization kapcsolatait fedik fel
     elsif params[:type] == 'o'
       resource = Organization.find(params[:id])
-      resource.visual_person_to_org_relations.each do |personal_relation|
+      # személyes kapcsolatok
+      resource.person_to_org_non_litigation_relations.each do |personal_relation|
         persons << personal_relation.person
         generate_json_node(personal_relation.person, 'p')
         generate_json_edge(personal_relation.person, 'p', personal_relation, resource)
+      end
+      # személyes peres kapcsolatok
+      resource.person_to_org_litigation_relations.each do |personal_relation|
         personal_relation.litigations.each do |litigation|
           litigations << litigation
           generate_json_node(litigation, 'l')
           generate_json_edge(litigation, 'l', personal_relation, resource)
         end
       end
-      resource.visual_interorg_relations.each do |org_relation|
+      # intézményes kapcsolatok  
+      resource.interorg_non_litigation_relations.each do |org_relation|
         organizations << org_relation.related_organization
         generate_json_node(org_relation.related_organization, 'o')
         generate_json_edge(org_relation.related_organization, 'o', org_relation, resource)
+      end
+      # intézményes peres kapcsolatok
+      resource.interorg_litigation_relations.each do |org_relation|
         org_relation.litigations.each do |litigation|
           litigations << litigation
           generate_json_node(litigation, 'l')
