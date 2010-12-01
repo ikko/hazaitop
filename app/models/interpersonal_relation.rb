@@ -42,7 +42,7 @@ class InterpersonalRelation < ActiveRecord::Base
       else
         relation_type_id = r.p2p_relation_type_id
       end
-      interpersonal = InterpersonalRelation.create!(:interpersonal_relation_id => r.id,
+      interpersonal = InterpersonalRelation.new(:interpersonal_relation_id => r.id,
                                                     :person_id => r.related_person_id,
                                                     :related_person_id => r.person_id,
                                                     :p2p_relation_type_id => relation_type_id,
@@ -55,6 +55,7 @@ class InterpersonalRelation < ActiveRecord::Base
                                                     :no_end_time => r.no_end_time,
                                                     :mirrored => true)
       interpersonal.litigations = r.litigations
+      interpersonal.save
       r.update_attributes :mirrored => true, :interpersonal_relation_id => interpersonal.id
     end
   end

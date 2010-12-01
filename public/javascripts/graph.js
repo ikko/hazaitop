@@ -76,15 +76,19 @@ var vis;
       $("#node_panel").show();
       var match = nodeData.id.match(/^(.*)(\d+)$/);
       if (match[1] == 'p') {
-        $organizationNode.hide();
+        $nodeAttributePanels.hide();
         $personNode.show();
         $selectedNodeType.val('p');
         $personNode.find("#name").text(nodeData.label);
       } else if (match[1] == 'o'){
+        $nodeAttributePanels.hide();
         $organizationNode.show();
-        $personNode.hide();
         $selectedNodeType.val('o');
         $organizationNode.find("#name").text(nodeData.label);
+      } else if (match[1] == 'l'){
+        $nodeAttributePanels.hide();
+        $litigationNode.show();
+        $selectedNodeType.val('l');
       }
       $selectedNodeId.val(match[2]);
     }
@@ -96,6 +100,8 @@ var vis;
       return 'p'
     } else if (tabIndex == 1) {
       return 'o'
+    } else if (tabIndex == 2) {
+      return 'l'
     }
   }
 
@@ -104,7 +110,9 @@ var vis;
     $selectedNodeType = $("#selected_node_type");
     $personNode = $("#person_node");
     $organizationNode = $("#organization_node");
+    $litigationNode = $("#litigation_node");
     $loadNodeRelations = $("#load_node_relations");
+    $nodeAttributePanels = $(".node_attributes");
 
     vis = new org.cytoscapeweb.Visualization("relationgraph", {swfPath: "/swf/CytoscapeWeb", flashInstallerPath: "/swf/playerProductInstall"});
     if ($selectedNodeType.val().length > 0) {
@@ -151,5 +159,6 @@ var vis;
                                      }});
     $("#organization_autocomplete").autocomplete({source: '/organizations/query'});
     $("#people_autocomplete").autocomplete({source: '/people/query'});
+    $("#litigation_autocomplete").autocomplete({source: '/litigations/query'});
   });
 })(jQuery);
