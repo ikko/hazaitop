@@ -1,4 +1,5 @@
-#search_box {width: 28%; height: 500px}
+#search_box {width: 30%; height: 500px; min-height: 500px; background-color: white;}
 .left {float: left}
 .page-footer {clear: both;}
+.clear {clear:both;}
 .litigations-view .proto-item {float: none !important}

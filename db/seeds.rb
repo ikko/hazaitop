@@ -1,6 +1,17 @@
 # This file should contain all the record creation needed to seed the database with its default values.
 # The data can then be loaded with the rake db:seed (or created alongside the db with db:setup or cap:deploy:db).
 
+P2oRelationType.delete_all
+P2pRelationType.delete_all
+O2oRelationType.delete_all
+Person.delete_all
+InformationSource.delete_all
+Organization.delete_all
+OrgGrade.delete_all
+Activity.delete_all
+PersonGrade.delete_all
+Sector.delete_all
+
 if PersonGrade.count == 0
   PersonGrade.create :name => "politikus"
   PersonGrade.create :name => "üzletember"
@@ -8,7 +19,7 @@ if PersonGrade.count == 0
 end
 
 if OrgGrade.count == 0
-  OrgGrade.create :name => "minisztérium"
+  org = OrgGrade.create :name => "minisztérium"
   OrgGrade.create :name => "hatóság"
   OrgGrade.create :name => "állami cég"
   OrgGrade.create :name => "magáncég"
@@ -161,6 +172,7 @@ if Rails.env == "development"
   if Person.count == 0
     Person.create :first_name => "kokojszi", :last_name => "torpe", :information_source_id => sajat.id
     Person.create :first_name => "bobojsza", :last_name => "torpe", :information_source_id => sajat.id
+    Person.create :first_name => "miki", :last_name => "móka", :information_source_id => sajat.id
   end
 
 end
