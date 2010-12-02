@@ -3,10 +3,11 @@ class P2pRelationType < ActiveRecord::Base
   hobo_model # Don't put anything above this
 
   fields do
-    name   :string
-    weight :float
+    name     :string
+    weight   :float
     internal :boolean, :default => false
-    visual       :boolean, :default => true
+    visual   :boolean, :default => true
+    litig    :boolean, :default => false
     timestamps
   end
 

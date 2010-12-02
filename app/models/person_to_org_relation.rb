@@ -26,7 +26,14 @@ class PersonToOrgRelation < ActiveRecord::Base
 
   validates_presence_of :information_source
   validates_presence_of :p2o_relation_type
-  validates_presence_of :p2o_relation_type
+  # validates_presence_of :o2p_relation_type
+  validate :litigation_related
+
+  def litigation_related
+    unless litigations.blank?
+      errors.add("Litigation allowed only if", "relation type has legal aspect.") unless p2o_relation_type.litig
+    end
+  end
 
   before_validation do |r|
     p2o_relation_type_id   = r.o2p_relation_type.pair_id if r.o2p_relation_type
