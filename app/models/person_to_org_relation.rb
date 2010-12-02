@@ -43,6 +43,7 @@ class PersonToOrgRelation < ActiveRecord::Base
   end
 
   before_save do |r|
+    r.visual = r.p2o_relation_type.visual
     r.weight = r.information_source.weight * r.p2o_relation_type.weight
   end
 
