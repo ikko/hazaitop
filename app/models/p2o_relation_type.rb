@@ -5,7 +5,8 @@ class P2oRelationType < ActiveRecord::Base
   fields do
     name   :string
     weight :integer
-    visual       :boolean, :default => true
+    visual :boolean, :default => true
+    litig  :boolean, :default => false
     timestamps
   end
 

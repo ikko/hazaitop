@@ -20,6 +20,8 @@ class Person < ActiveRecord::Base
     end
   end
 
+  validates_presence_of :information_source
+
   has_many :person_grade_assocs
   has_many :person_grades, :through => :person_grade_assocs, :accessible => true
 

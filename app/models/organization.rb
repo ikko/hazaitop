@@ -14,6 +14,8 @@ class Organization < ActiveRecord::Base
     timestamps
   end
 
+  validates_presence_of :information_source
+
   belongs_to :sector
 
   has_many :activity_assocs

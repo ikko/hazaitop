@@ -31,6 +31,14 @@ class InterpersonalRelation < ActiveRecord::Base
   validates_presence_of :related_person
   validates_presence_of :information_source
   validates_presence_of :p2p_relation_type
+  validate :litigation_related
+
+
+  def litigation_related
+    unless litigations.blank?
+      errors.add("Litigation allowed only if", "relation type has legal aspect.") unless p2p_relation_type.litig
+    end
+  end
 
   before_save do |r|
     r.weight = r.information_source.weight * r.p2p_relation_type.weight
