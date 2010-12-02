@@ -95,16 +95,19 @@ class SearchController < ApplicationController
           nodes_in_litigation[:relation_pair] << {litigable => [litigable.organization, litigable.person]}
           nodes_in_litigation[:nodes] << [litigable.organization, litigable.person]
         end
+        nodes_in_litigation[:nodes] = nodes_in_litigation[:nodes].flatten.uniq
+        nodes_in_litigation[:relation_pair] = nodes_in_litigation[:relation_pair].flatten
         # megnézzük hogy a perhez tartozó node-ok közül hány látható az oldalon,
         # ez a látható nem litigation node-ok (azaz person és org) és a perben résztvevő node-ok metszete
-        if (@non_litigation_nodes & nodes_in_litigation[:nodes].flatten.uniq).length > 1
+        # ha ez nagyobb mint egy akkor kigeneráljuk a peres kapcsolatot
+        if (@non_litigation_nodes & nodes_in_litigation[:nodes]).length > 1
           # ha több mint egy látszik akkor kigenerájuk az aktuálisan vizsgált pert ha még nem látszik az oldalon
           unless @litigations.include? litigation
             generate_node(litigation, 'l') 
             @litigations << litigation
           end
           # végig megyünk a perhez tartozó kapcsolat párokon
-          nodes_in_litigation[:relation_pair].flatten.each do |relation_pair|
+          nodes_in_litigation[:relation_pair].each do |relation_pair|
             # végig megyünk az adott kapcsolat párhoz tartozó node-okon
             relation_pair.values.flatten.each do |node|
               # ha látszik az oldalon akkor kigeneráljuk a kapcsolatát a perhez
@@ -112,6 +115,28 @@ class SearchController < ApplicationController
                 node_type = node.kind_of?(Person) ? 'p' : 'o'
                 generate_edge(node, node_type, relation_pair.keys.first, litigation)
               end
+            end
+          end
+        # vmint akkor is kigeneráljuk a peres kapcsolatot (vmint a perben résztvevő egyéb node-okat)
+        # ha az aktuálisan vizsgált node résztvevője a pernek
+        elsif nodes_in_litigation[:nodes].include? @explored_node
+          # kigeneráljuk a pert ha még nem látszik
+          unless @litigations.include? litigation
+            generate_node(litigation, 'l') 
+            @litigations << litigation
+          end
+          # végig megyünk a perhez tartozó kapcsolat párokon
+          nodes_in_litigation[:relation_pair].each do |relation_pair|
+            # végig megyünk az adott kapcsolat párhoz tartozó node-okon
+            relation_pair.values.flatten.each do |node|
+              node_type = node.kind_of?(Person) ? 'p' : 'o'
+              # ha még nem látszik az oldalon akkor kigeneráljuk a node-ot
+              unless @non_litigation_nodes.include? node
+                generate_node(node, node_type) 
+                @non_litigation_nodes << node
+              end
+              # kigeneráljuk a kapcsolatát a perhez
+              generate_edge(node, node_type, relation_pair.keys.first, litigation)
             end
           end
         end
@@ -277,6 +302,7 @@ class SearchController < ApplicationController
         generate_edge(o2o_rel.related_organization, 'o', o2o_rel, resource)
       end
     end
+    @explored_node = resource
     # person és organization node-ok közötti kapcsolatok kigenerálása
     generate_node_edges_for_visible_non_litigation_nodes
     # litigation kapcsolatok kigenerálása
