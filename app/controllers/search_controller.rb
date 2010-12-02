@@ -67,23 +67,47 @@ class SearchController < ApplicationController
     # ha legalább még egy perben résztvevő node látható az oldalon 
     # akkor megnézzük ki van e generálva a per, ha nincs akkor kigeneráljuk a node-ját
     # a perben résztvevőket akik láthatóak az oldalon bekötjük a perhez
-    Litigation.find(LitigationRelation.for_relations(@relations).*.litigation_id).each do |litigation|
-      nodes_in_litigations = {:relation_pair => [], :nodes => []}
+
+    # @litigation_relations változóban lévő per kapcsolatokhoz megkeressük a pereket és végigmegyünk rajtuk 
+    Litigation.find(LitigationRelation.for_relations(@litigation_relations).*.litigation_id).each do |litigation|
+      # perenként megnézzük milyen node-ok tartoznak hozzá és milyen per-relation-párok vannak
+      nodes_in_litigation = {:relation_pair => [], :nodes => []}
+      # végig megyünk a perhez tartozó kapcsolatokon
       litigation.litigation_relations.*.litigable.each do |litigable|
-        if litigable.respond_to?(:person) && litigable.respond_to?(:related_person) && litigable.person.present? && litigable.related_person.present?
-          nodes_in_litigations[:relation_pair] << {litigable => [litigable.person, litigable.related_person]}
-          nodes_in_litigations[:nodes] << [litigable.person, litigable.related_person] 
-        elsif litigable.respond_to?(:organization) && litigable.respond_to?(:related_organization) && litigable.organization.present? && litigable.related_organization.present?
-          nodes_in_litigations[:relation_pair] << {litigable => [litigable.organization, litigable.related_organization]}
-          nodes_in_litigations[:nodes] << [litigable.organization, litigable.related_organization]
-        elsif litigable.respond_to?(:organization) && litigable.respond_to?(:person) && litigable.organization.present? && litigable.person.present?
-          nodes_in_litigations[:relation_pair] << {litigable => [litigable.organization, litigable.person]}
-          nodes_in_litigations[:nodes] << [litigable.organization, litigable.person]
+        # attól függően hogy a kapcsolat interpersonal, interorg vagy person_to_org 
+        # elmentjük a kapcsolatban résztvevőket és a kapcsolatot
+        if litigable.respond_to?(:person) && 
+           litigable.respond_to?(:related_person) && 
+           litigable.person.present? && 
+           litigable.related_person.present?
+          nodes_in_litigation[:relation_pair] << {litigable => [litigable.person, litigable.related_person]}
+          nodes_in_litigation[:nodes] << [litigable.person, litigable.related_person] 
+        elsif litigable.respond_to?(:organization) && 
+              litigable.respond_to?(:related_organization) && 
+              litigable.organization.present? && 
+              litigable.related_organization.present?
+          nodes_in_litigation[:relation_pair] << {litigable => [litigable.organization, litigable.related_organization]}
+          nodes_in_litigation[:nodes] << [litigable.organization, litigable.related_organization]
+        elsif litigable.respond_to?(:organization) && 
+              litigable.respond_to?(:person) && 
+              litigable.organization.present? && 
+              litigable.person.present?
+          nodes_in_litigation[:relation_pair] << {litigable => [litigable.organization, litigable.person]}
+          nodes_in_litigation[:nodes] << [litigable.organization, litigable.person]
         end
-        if (@non_litigation_nodes & nodes_in_litigations[:nodes].flatten.uniq).length > 1
-          generate_node(litigation, 'l') unless @litigations.include? litigation
-          nodes_in_litigations[:relation_pair].flatten.each do |relation_pair|
+        # megnézzük hogy a perhez tartozó node-ok közül hány látható az oldalon,
+        # ez a látható nem litigation node-ok (azaz person és org) és a perben résztvevő node-ok metszete
+        if (@non_litigation_nodes & nodes_in_litigation[:nodes].flatten.uniq).length > 1
+          # ha több mint egy látszik akkor kigenerájuk az aktuálisan vizsgált pert ha még nem látszik az oldalon
+          unless @litigations.include? litigation
+            generate_node(litigation, 'l') 
+            @litigations << litigation
+          end
+          # végig megyünk a perhez tartozó kapcsolat párokon
+          nodes_in_litigation[:relation_pair].flatten.each do |relation_pair|
+            # végig megyünk az adott kapcsolat párhoz tartozó node-okon
             relation_pair.values.flatten.each do |node|
+              # ha látszik az oldalon akkor kigeneráljuk a kapcsolatát a perhez
               if @non_litigation_nodes.include? node
                 node_type = node.kind_of?(Person) ? 'p' : 'o'
                 generate_edge(node, node_type, relation_pair.keys.first, litigation)
@@ -149,10 +173,9 @@ class SearchController < ApplicationController
     # ha person kapcsolatait fedik fel
     if params[:type]=='p'
       resource = Person.find(params[:id])
-      @persons << resource
+      @persons << resource unless @persons.include? resource
       # személyes kapcsolatok
       resource.personal_non_litigation_relations.each do |personal_relation|
-        @relations << personal_relation
         # ha még nem látható az oldalon akkor kigeneráljuk a személyt
         unless @persons.include? personal_relation.related_person
           @persons << personal_relation.related_person
@@ -162,19 +185,10 @@ class SearchController < ApplicationController
       end
       # személyes peres kapcsolatok
       resource.personal_litigation_relations.each do |personal_relation|
-        @relations << personal_relation
-        personal_relation.litigations.each do |litigation|
-          # ha még nem látható az oldalon akkor kigeneráljuk a pert
-          unless @litigations.include? litigation
-            @litigations << litigation 
-            generate_node(litigation, 'l')
-            generate_edge(litigation, 'l', personal_relation, resource)
-          end
-        end
+        @litigation_relations << personal_relation
       end
       # intézményes kapcsolatok  
       resource.person_to_org_non_litigation_relations.each do |org_relation|
-        @relations << org_relation
         # ha még nem látható az oldalon akkor kigeneráljuk az intézményt
         unless @organizations.include? org_relation.organization
           @organizations << org_relation.organization
@@ -184,20 +198,12 @@ class SearchController < ApplicationController
       end
       # intézményes peres kapcsolatok
       resource.person_to_org_litigation_relations.each do |org_relation|
-        @relations << org_relation
-        org_relation.litigations.each do |litigation|
-          # ha még nem látható az oldalon akkor kigeneráljuk a pert
-          unless @litigations.include? litigation
-            @litigations << litigation 
-            generate_node(litigation, 'l')
-            generate_edge(litigation, 'l', org_relation, resource)
-          end
-        end
+        @litigation_relations << org_relation
       end
     # ha organization kapcsolatait fedik fel
     elsif params[:type] == 'o'
       resource = Organization.find(params[:id])
-      @organizations << resource
+      @organizations << resource unless @organizations.include? resource
       # személyes kapcsolatok
       resource.person_to_org_non_litigation_relations.each do |personal_relation|
         persons << personal_relation.person
@@ -273,7 +279,7 @@ class SearchController < ApplicationController
     end
     # person és organization node-ok közötti kapcsolatok kigenerálása
     generate_node_edges_for_visible_non_litigation_nodes
-    # litigation kapcsolatok - vagy akár node-ok - kigenerálása
+    # litigation kapcsolatok kigenerálása
     generate_litigation_relations
     generate_node(resource, params[:type])
   end
@@ -282,7 +288,7 @@ class SearchController < ApplicationController
     if params[:id] && params[:type]
       @id = params[:id].to_i
       @network = {:nodes=>[], :edges=>[]}
-      @relations = []
+      @litigation_relations = []
       # ajax request
       # ilyenkor figyeljük hogy milyen node-ok vannak már az oldalon, és az új kigenerálandó node-ok között milyen kapcsolatok vannak
       if request.xhr?
