@@ -93,6 +93,9 @@
         <hjq-input-many>
           <item:>
             <field-list fields="organization, p2o_relation_type, start_time, end_time, no_end_time, litigations, information_source">
+              <organization-view:>
+                <select-one options="&Organization.all"/>
+              </organization-view:>
               <information-source-view:>
                 <select-one options="&InformationSource.not_internal"/> | <a href="&new_information_source_path"  target="_blank"><ht key="custom.new">new</ht></a>
               </information-source-view:>
@@ -110,6 +113,9 @@
         <hjq-input-many>
           <item:>
             <field-list fields="related_person, p2p_relation_type, litigations, information_source">
+              <related-person-view:>
+                <select-one options="&Person.all-[@this]"/>
+              </related-person-view:>
               <information-source-view:>
                 <select-one options="&InformationSource.not_internal"/> | <a href="&new_information_source_path"  target="_blank"><ht key="custom.new">new</ht></a>
               </information-source-view:>
@@ -138,6 +144,9 @@
         <hjq-input-many>
           <item:>
             <field-list fields="person, o2p_relation_type, start_time, end_time, no_end_time, litigations, information_source">
+              <person-view:>
+                <select-one options="&Person.all"/>
+              </person-view:>
               <information-source-view:>
                 <select-one options="&InformationSource.not_internal"/> | <a href="&new_information_source_path" target="_blank"><ht key="custom.new">new</ht></a>
               </information-source-view:>
@@ -155,6 +164,9 @@
         <hjq-input-many>
           <item:>
             <field-list fields="related_organization, o2o_relation_type, litigations, information_source">
+              <related-organization-view:>
+                <select-one options="&Organization.all-[@this]"/>
+              </related-organization-view:>
               <information-source-view:>
                 <select-one options="&InformationSource.not_internal"/> | <a href="&new_information_source_path" target="_blank"><ht key="custom.new">new</ht></a>
               </information-source-view:>
