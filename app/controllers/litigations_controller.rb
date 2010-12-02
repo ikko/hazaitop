@@ -4,6 +4,12 @@ class LitigationsController < ApplicationController
 
   auto_actions :all
 
+  index_action :query do
+    render :json => Litigation.name_contains(params[:term]).order_by(:name).limit(100).all(:select=>'id, name').map {|litigation|
+      {:label => litigation.name, :id => litigation.id}
+    }
+  end
+
   def show
     @this = find_instance
     person_to_org_relation_ids = []

@@ -19,7 +19,7 @@ if PersonGrade.count == 0
 end
 
 if OrgGrade.count == 0
-  org = OrgGrade.create :name => "minisztérium"
+  OrgGrade.create :name => "minisztérium"
   OrgGrade.create :name => "hatóság"
   OrgGrade.create :name => "állami cég"
   OrgGrade.create :name => "magáncég"

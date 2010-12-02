@@ -9,6 +9,17 @@ class LitigationRelation < ActiveRecord::Base
   belongs_to :litigable, :polymorphic => true
   belongs_to :litigation
 
+  named_scope :for_relations, lambda {|relations|
+    conditions = ''
+    Array(relations).each do |relation|
+      if conditions.present?
+        conditions << " or litigable_type='#{relation.class}' and litigable_id=#{relation.id}" 
+      else
+        conditions = "litigable_type='#{relation.class}' and litigable_id=#{relation.id}"
+      end
+    end
+    {:conditions=>conditions}
+  }
   # --- Permissions --- #
 
   def create_permitted?

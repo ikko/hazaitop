@@ -99,20 +99,21 @@ class PersonToOrgRelation < ActiveRecord::Base
               end
             end
             info = InformationSource.find :first, :conditions => { :internal => true, :weight => weight }
-            info = InformationSource.create!( :internal => true, :weight => weight, :name => "system" ) if !info
-            p2p_relation = InterpersonalRelation.create!(  :p2p_relation_type_id => relation_type_id,
-                                            :person_id => person_id,
-                                            :related_person_id => pot.person_id,
-                                            :information_source_id => info.id,
-                                            :person_to_org_relation_id => id,
-                                            :other_person_to_org_relation_id => pot.id,
-                                            :organization_id => organization_id,
-                                            :start_time => calculated_start_time,
-                                            :end_time => calculated_end_time,
-                                            :no_end_time => calculated_no_end_time,
-                                            :visual => p2o_relation_type.visual,
-                                            :internal => true)
-            p2p_relation.litigations = self.litigations
+            info = InformationSource.create!(:internal => true, :weight => weight, :name => "system" ) if !info
+            interpersonal = InterpersonalRelation.new(:p2p_relation_type_id => relation_type_id,
+                                                      :person_id => person_id,
+                                                      :related_person_id => pot.person_id,
+                                                      :information_source_id => info.id,
+                                                      :person_to_org_relation_id => id,
+                                                      :other_person_to_org_relation_id => pot.id,
+                                                      :organization_id => organization_id,
+                                                      :start_time => calculated_start_time,
+                                                      :end_time => calculated_end_time,
+                                                      :no_end_time => calculated_no_end_time,
+                                                      :visual => p2o_relation_type.visual,
+                                                      :internal => true)
+            interpersonal.litigations = self.litigations
+            interpersonal.save
           end
         end
       end

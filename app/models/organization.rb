@@ -31,8 +31,11 @@ class Organization < ActiveRecord::Base
   has_many :interorg_relations, :accessible => true
   has_many :person_to_org_relations, :accessible => true
 
-  has_many :visual_person_to_org_relations, :conditions => [ "visual = ?", true], :class_name => "PersonToOrgRelation"
-  has_many :visual_interorg_relations, :conditions => [ "visual = ?", true], :class_name => "InterorgRelation"
+  # helperek a vizualicáziós részhez
+  has_many :person_to_org_non_litigation_relations, :conditions => [ "visual = ?", true], :class_name => "PersonToOrgRelation"
+  has_many :person_to_org_litigation_relations, :conditions => [ "visual = ?", false], :class_name => "PersonToOrgRelation"
+  has_many :interorg_non_litigation_relations, :conditions => [ "visual = ?", true], :class_name => "InterorgRelation"
+  has_many :interorg_litigation_relations, :conditions => [ "visual = ?", false], :class_name => "InterorgRelation"
 
   has_many :persons,       :through => :person_to_org_relations
   # has_many :organizations, :through => :person_to_org_relations, :accessible => true

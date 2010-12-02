@@ -10,6 +10,7 @@
           }
         }
       }
+      var xmmlGraph = <%= @network.to_json %>;
     </script>
   </append-scripts:>
   <content:>
@@ -18,6 +19,7 @@
         <ul>
           <li><a href="#search_tab_people">People</a></li>
           <li><a href="#search_tab_organizations">Organizations</a></li>
+          <li><a href="#search_tab_litigations">Litigations</a></li>
         </ul>
         <div id="search_tab_people">
           Person name: <input class="autocomplete" id="people_autocomplete" type="text"/>
@@ -25,6 +27,33 @@
         <div id="search_tab_organizations">
           Organization name: <input class="autocomplete" id="organization_autocomplete" type="text"/>
         </div>
+        <div id="search_tab_litigations">
+          Litigation name: <input class="autocomplete" id="litigation_autocomplete" type="text"/>
+        </div>
+      </div>
+      <div id="node_panel" class="ui-tabs ui-widget ui-widget-content ui-corner-all" style="display: none;">
+        <div class="ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all">Részletes információk</div>
+        <div id="person_node" class="node_attributes" style="display: none;">
+          <ul>
+            <li>Név: <span id="name"></span></li>
+            <li>Születési év: <span id="born"></span></li>
+          </ul>  
+        </div>
+        <div id="organization_node" class="node_attributes" style="display: none;">
+          <ul>
+            <li>Név: <span id="name"></span></li>
+            <li>Alapítás éve: <span id="born"></span></li>
+          </ul>  
+        </div>
+        <div id="litigation_node" class="node_attributes" style="display: none;">
+          <ul>
+            <li>Per kezdete: <span id="litigation_start"></span></li>
+            <li>Per vége: <span id="litigation_end"></span></li>
+          </ul>  
+        </div>
+        <input type="hidden" name="id" id="selected_node_id" value="#{params[:id]}"/>
+        <input type="hidden" name="type" id="selected_node_type" value="#{params[:type]}"/>
+        <a href="#" id="load_node_relations">Kapcsolati háló felderítése</a>
       </div>
     </div>
     <div class="left" id="relationgraph" style="width: 70%;height: 400px"></div>
