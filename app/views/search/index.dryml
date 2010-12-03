@@ -48,6 +48,10 @@
             <li>Név: <span id="organization_name"></span></li>
             <li>Cím: <span id="address"></span></li>
             <li>Alapítás éve: <span id="founded_at"></span></li>
+            <li>Legfrissebb pénzügyi adatok</li>
+            <li>Év: <span id="year"></span></li>
+            <li>Forgalom: <span id="turnover"></span></li>
+            <li>Mérleg: <span id="balance"></span></li> 
           </ul>  
         </div>
         <div id="litigation_node" class="node_attributes" style="display: none;">

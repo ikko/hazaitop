@@ -14,6 +14,15 @@ class SearchController < ApplicationController
       node[:shape] = 'RECTANGLE'
       node[:foundedAt] = source.founded_at ? source.founded_at.to_s : no_data
       node[:address] = source.city.present? || source.street.present? ? "#{source.city} #{source.street}".strip : no_data
+      if source.recent_financial_year
+        node[:year] = source.recent_financial_year.year
+        node[:turnover] = source.recent_financial_year.turnover
+        node[:balance] = source.recent_financial_year.balance_sheet_total
+      else
+        node[:year] = no_data
+        node[:turnover] = no_data
+        node[:balance] = no_data
+      end
     elsif source_type == 'l'
       node[:shape] = 'DIAMOND'
       node[:startTime] = source.start_time ? source.start_time.to_s : no_data

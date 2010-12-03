@@ -41,7 +41,7 @@ var vis;
       if (node.shape == 'CIRCLE') {
         return "<att name='bornAt' value='"+node.bornAt+"'/><att name='mothersName' value='"+node.mothersName+"'/>"
       } else if (node.shape == 'RECTANGLE') {
-        return "<att name='foundedAt' value='"+node.foundedAt+"'/><att name='address' value='"+node.address+"'/>"
+        return "<att name='foundedAt' value='"+node.foundedAt+"'/><att name='address' value='"+node.address+"'/><att name='balance' value='"+node.balance+"'/><att name='turnover' value='"+node.turnover+"'/><att name='year' value='"+node.year+"'/>"
       } else if (node.shape == 'DIAMOND') {
         return "<att name='startTime' value='"+node.startTime+"'/><att name='endTime' value='"+node.endTime+"'/>"
       }
@@ -98,6 +98,9 @@ var vis;
         $organizationNode.find("#organization_name").text(nodeData.label);
         $organizationNode.find("#address").text(nodeData.address);
         $organizationNode.find("#founded_at").text(nodeData.foundedAt);
+        $organizationNode.find("#year").text(nodeData.year);
+        $organizationNode.find("#turnover").text(nodeData.turnover);
+        $organizationNode.find("#balance").text(nodeData.balance);
       } else if (match[1] == 'l'){
         $nodeAttributePanels.hide();
         $litigationNode.show();

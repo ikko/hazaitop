@@ -27,6 +27,7 @@ class Organization < ActiveRecord::Base
   belongs_to :org_grade
 
   has_many :financials, :accessible => true
+  has_one :recent_financial_year, :class_name => 'Financial', :order => 'year DESC'
 
   has_many :interorg_relations, :accessible => true
   has_many :person_to_org_relations, :accessible => true
