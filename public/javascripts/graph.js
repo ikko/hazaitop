@@ -32,7 +32,7 @@ var vis;
       }
     },
     generateXmlFromNode: function(node) {
-      return "<node id='"+node.id+"' label='"+node.label+"'><graphics type='"+node.shape+"'/>"+this.generateNodeAttributes(node)+"</node>"
+      return "<node id='"+node.id+"' label='"+node.label+"'><graphics type='"+node.shape+"' "+(node.shape=='DIAMOND' ? "w='35'":"")+"/>"+this.generateNodeAttributes(node)+"</node>"
     },
     generateXmlFromEdge: function(edge) {
       return "<edge id='"+edge.id+"' source='"+edge.sourceId+"' target='"+edge.targetId+"' label='"+edge.label+"'><att type='real' name='weight' value='"+edge.weight+"'/><graphics width='"+(edge.weight/this.maxWeight)*10+"'/></edge>"
@@ -107,6 +107,9 @@ var vis;
         $litigationNode.find("#end_time").text(nodeData.endTime);
       }
       $selectedNodeId.val(match[2]);
+    },
+    showAjaxLoader: function() {
+      $relationgraph.html('<img src="/images/network-ajax-loader.gif" class="ajax-loader"/>');
     }
   };
 
@@ -129,6 +132,11 @@ var vis;
     $litigationNode = $("#litigation_node");
     $loadNodeRelations = $("#load_node_relations");
     $nodeAttributePanels = $(".node_attributes");
+    $relationgraph = $("#relationgraph");
+    $searchTabPeopleLoader = $("#search_tab_people .ajax_loader");
+    $searchTabOrganizationLoader = $("#search_tab_organizations .ajax_loader");
+    $searchTabLitigationLoader = $("#search_tab_litigations .ajax_loader");
+    $searchAjaxLoaders = $("#search_entities .ajax_loader");
 
     vis = new org.cytoscapeweb.Visualization("relationgraph", {swfPath: "/swf/CytoscapeWeb", flashInstallerPath: "/swf/playerProductInstall"});
     if ($selectedNodeType.val().length > 0) {
@@ -151,6 +159,7 @@ var vis;
     $("#search_entities").tabs();
     $loadNodeRelations.click(function(e) {
       e.preventDefault();
+      network.showAjaxLoader();
       $.ajax({url:'/search/?id='+$selectedNodeId.val()+'&type='+$selectedNodeType.val()+'&nodes='+network.loadedNodeIds(), 
               dataType: 'json',
               success: function(response) {
@@ -161,7 +170,11 @@ var vis;
     });
     $(".autocomplete").autocomplete({minLength: '1', 
                                      delay: '500',
+                                     open: function() {
+                                       $searchAjaxLoaders.hide()
+                                     },
                                      select: function(event, ui) {
+                                       network.showAjaxLoader();
                                        $selectedNodeId.val(ui.item.id);
                                        $selectedNodeType.val(getAutocompleteType());
                                        $.ajax({url: '/search/?id='+ui.item.id+'&nodes='+network.loadedNodeIds()+'&type='+getAutocompleteType(),
@@ -173,8 +186,21 @@ var vis;
                                                  network.draw(response); 
                                                }});
                                      }});
-    $("#organization_autocomplete").autocomplete({source: '/organizations/query'});
-    $("#people_autocomplete").autocomplete({source: '/people/query'});
-    $("#litigation_autocomplete").autocomplete({source: '/litigations/query'});
+    $("#organization_autocomplete").autocomplete({source: '/organizations/query', 
+                                                  search: function() {
+                                                  log('lofi')
+                                                    $searchAjaxLoaders.hide()
+                                                    $searchTabOrganizationLoader.show();
+                                                  }});
+    $("#people_autocomplete").autocomplete({source: '/people/query', 
+                                            search: function() {
+                                              $searchAjaxLoaders.hide()
+                                              $searchTabPeopleLoader.show();
+                                            }}); 
+    $("#litigation_autocomplete").autocomplete({source: '/litigations/query', 
+                                                search: function() {
+                                                  $searchAjaxLoaders.hide()
+                                                  $searchTabLitigationLoader.show();
+                                                }});
   });
 })(jQuery);

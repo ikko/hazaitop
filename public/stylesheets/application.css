@@ -4,3 +4,6 @@
 .clear {clear:both;}
 .litigations-view .proto-item {float: none !important}
 #node_panel li {list-style: none;}
+#relationgraph .ajax-loader {margin: 180px auto 0 auto; text-align: center; display: block;}
+.autocomplete {float: left;}
+#search_entities .ajax_loader {display: none; float:left;}

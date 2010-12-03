@@ -22,13 +22,16 @@
           <li><a href="#search_tab_litigations">Litigations</a></li>
         </ul>
         <div id="search_tab_people">
-          Person name: <input class="autocomplete" id="people_autocomplete" type="text"/>
+          Person name: <input class="autocomplete" id="people_autocomplete" type="text"/><img class="ajax_loader" src="/images/autocomplete-ajax-loader.gif"/>
+          <div class="clear"></div>
         </div>
         <div id="search_tab_organizations">
-          Organization name: <input class="autocomplete" id="organization_autocomplete" type="text"/>
+          Organization name: <input class="autocomplete" id="organization_autocomplete" type="text"/><img class="ajax_loader" src="/images/autocomplete-ajax-loader.gif"/>
+          <div class="clear"></div>
         </div>
         <div id="search_tab_litigations">
-          Litigation name: <input class="autocomplete" id="litigation_autocomplete" type="text"/>
+          Litigation name: <input class="autocomplete" id="litigation_autocomplete" type="text"/><img class="ajax_loader" src="/images/autocomplete-ajax-loader.gif"/>
+          <div class="clear"></div>
         </div>
       </div>
       <div id="node_panel" class="ui-tabs ui-widget ui-widget-content ui-corner-all" style="display: none;">
