@@ -24,8 +24,8 @@ class LitigationsController < ApplicationController
         interorg_relation_ids << rel.litigable_id
       end
     end
-    @person_to_org_relations = PersonToOrgRelation.find_by_id   person_to_org_relation_ids
-    @interpersonal_relations = InterpersonalRelation.find_by_id interpersonal_relation_ids
-    @interorg_relations      = InterorgRelation.find_by_id      interorg_relation_ids
+    @person_to_org_relations = PersonToOrgRelation.find_all_by_id   person_to_org_relation_ids
+    @interpersonal_relations = InterpersonalRelation.find_all_by_id interpersonal_relation_ids
+    @interorg_relations      = InterorgRelation.find_all_by_id      interorg_relation_ids
   end
 end

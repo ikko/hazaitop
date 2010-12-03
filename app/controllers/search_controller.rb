@@ -284,6 +284,9 @@ class SearchController < ApplicationController
       @id = params[:id].to_i
       @network = {:nodes=>[], :edges=>[]}
       @litigation_relations = []
+      @persons = []
+      @organizations = []
+      @litigations = []
       # ajax request
       # ilyenkor figyeljük hogy milyen node-ok vannak már az oldalon, és az új kigenerálandó node-ok között milyen kapcsolatok vannak
       if request.xhr?
@@ -300,10 +303,6 @@ class SearchController < ApplicationController
           @persons = Array(Person.find_by_id(person_ids)).flatten
           @organizations = Array(Organization.find_by_id(organization_ids)).flatten
           @litigations = Array(Litigation.find_by_id(litigation_ids)).flatten
-        else
-          persons = []
-          organizations = []
-          litigations = []
         end
         generate_network
         render :json => @network
