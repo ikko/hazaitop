@@ -4,7 +4,7 @@ class O2pRelationType < ActiveRecord::Base
 
   fields do
     name   :string
-    weight :integer
+    weight :float
     visual :boolean, :default => true
     litig  :boolean, :default => false
     timestamps
