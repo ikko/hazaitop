@@ -3,7 +3,7 @@ class InterpersonalRelationCalculator < ActiveRecord::Base
   hobo_model # Don't put anything above this
 
   fields do
-    weight :integer
+    weight :float
     timestamps
   end
 
