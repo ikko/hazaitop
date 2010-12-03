@@ -32,10 +32,19 @@ var vis;
       }
     },
     generateXmlFromNode: function(node) {
-      return "<node id='"+node.id+"' label='"+node.label+"'><graphics type='"+node.shape+"'/></node>"
+      return "<node id='"+node.id+"' label='"+node.label+"'><graphics type='"+node.shape+"' "+(node.shape=='DIAMOND' ? "w='35'":"")+"/>"+this.generateNodeAttributes(node)+"</node>"
     },
     generateXmlFromEdge: function(edge) {
       return "<edge id='"+edge.id+"' source='"+edge.sourceId+"' target='"+edge.targetId+"' label='"+edge.label+"'><att type='real' name='weight' value='"+edge.weight+"'/><graphics width='"+(edge.weight/this.maxWeight)*10+"'/></edge>"
+    },
+    generateNodeAttributes: function(node) {
+      if (node.shape == 'CIRCLE') {
+        return "<att name='bornAt' value='"+node.bornAt+"'/><att name='mothersName' value='"+node.mothersName+"'/>"
+      } else if (node.shape == 'RECTANGLE') {
+        return "<att name='foundedAt' value='"+node.foundedAt+"'/><att name='address' value='"+node.address+"'/><att name='balance' value='"+node.balance+"'/><att name='turnover' value='"+node.turnover+"'/><att name='year' value='"+node.year+"'/>"
+      } else if (node.shape == 'DIAMOND') {
+        return "<att name='startTime' value='"+node.startTime+"'/><att name='endTime' value='"+node.endTime+"'/>"
+      }
     },
     setMaxWeight: function (edges) {
       for(var i=0; edges.length > i; i++) {
@@ -79,18 +88,31 @@ var vis;
         $nodeAttributePanels.hide();
         $personNode.show();
         $selectedNodeType.val('p');
-        $personNode.find("#name").text(nodeData.label);
+        $personNode.find("#person_name").text(nodeData.label);
+        $personNode.find("#mothers_name").text(nodeData.mothersName);
+        $personNode.find("#born_at").text(nodeData.bornAt);
       } else if (match[1] == 'o'){
         $nodeAttributePanels.hide();
         $organizationNode.show();
         $selectedNodeType.val('o');
-        $organizationNode.find("#name").text(nodeData.label);
+        $organizationNode.find("#organization_name").text(nodeData.label);
+        $organizationNode.find("#address").text(nodeData.address);
+        $organizationNode.find("#founded_at").text(nodeData.foundedAt);
+        $organizationNode.find("#year").text(nodeData.year);
+        $organizationNode.find("#turnover").text(nodeData.turnover);
+        $organizationNode.find("#balance").text(nodeData.balance);
       } else if (match[1] == 'l'){
         $nodeAttributePanels.hide();
         $litigationNode.show();
         $selectedNodeType.val('l');
+        $litigationNode.find("#litigation_name").text(nodeData.label);
+        $litigationNode.find("#start_time").text(nodeData.startTime);
+        $litigationNode.find("#end_time").text(nodeData.endTime);
       }
       $selectedNodeId.val(match[2]);
+    },
+    showAjaxLoader: function() {
+      $relationgraph.html('<img src="/images/network-ajax-loader.gif" class="ajax-loader"/>');
     }
   };
 
@@ -113,6 +135,11 @@ var vis;
     $litigationNode = $("#litigation_node");
     $loadNodeRelations = $("#load_node_relations");
     $nodeAttributePanels = $(".node_attributes");
+    $relationgraph = $("#relationgraph");
+    $searchTabPeopleLoader = $("#search_tab_people .ajax_loader");
+    $searchTabOrganizationLoader = $("#search_tab_organizations .ajax_loader");
+    $searchTabLitigationLoader = $("#search_tab_litigations .ajax_loader");
+    $searchAjaxLoaders = $("#search_entities .ajax_loader");
 
     vis = new org.cytoscapeweb.Visualization("relationgraph", {swfPath: "/swf/CytoscapeWeb", flashInstallerPath: "/swf/playerProductInstall"});
     if ($selectedNodeType.val().length > 0) {
@@ -135,6 +162,7 @@ var vis;
     $("#search_entities").tabs();
     $loadNodeRelations.click(function(e) {
       e.preventDefault();
+      network.showAjaxLoader();
       $.ajax({url:'/search/?id='+$selectedNodeId.val()+'&type='+$selectedNodeType.val()+'&nodes='+network.loadedNodeIds(), 
               dataType: 'json',
               success: function(response) {
@@ -145,7 +173,11 @@ var vis;
     });
     $(".autocomplete").autocomplete({minLength: '1', 
                                      delay: '500',
+                                     open: function() {
+                                       $searchAjaxLoaders.hide()
+                                     },
                                      select: function(event, ui) {
+                                       network.showAjaxLoader();
                                        $selectedNodeId.val(ui.item.id);
                                        $selectedNodeType.val(getAutocompleteType());
                                        $.ajax({url: '/search/?id='+ui.item.id+'&nodes='+network.loadedNodeIds()+'&type='+getAutocompleteType(),
@@ -157,8 +189,21 @@ var vis;
                                                  network.draw(response); 
                                                }});
                                      }});
-    $("#organization_autocomplete").autocomplete({source: '/organizations/query'});
-    $("#people_autocomplete").autocomplete({source: '/people/query'});
-    $("#litigation_autocomplete").autocomplete({source: '/litigations/query'});
+    $("#organization_autocomplete").autocomplete({source: '/organizations/query', 
+                                                  search: function() {
+                                                  log('lofi')
+                                                    $searchAjaxLoaders.hide()
+                                                    $searchTabOrganizationLoader.show();
+                                                  }});
+    $("#people_autocomplete").autocomplete({source: '/people/query', 
+                                            search: function() {
+                                              $searchAjaxLoaders.hide()
+                                              $searchTabPeopleLoader.show();
+                                            }}); 
+    $("#litigation_autocomplete").autocomplete({source: '/litigations/query', 
+                                                search: function() {
+                                                  $searchAjaxLoaders.hide()
+                                                  $searchTabLitigationLoader.show();
+                                                }});
   });
 })(jQuery);

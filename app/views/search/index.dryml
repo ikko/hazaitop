@@ -22,33 +22,43 @@
           <li><a href="#search_tab_litigations">Litigations</a></li>
         </ul>
         <div id="search_tab_people">
-          Person name: <input class="autocomplete" id="people_autocomplete" type="text"/>
+          Person name: <input class="autocomplete" id="people_autocomplete" type="text"/><img class="ajax_loader" src="/images/autocomplete-ajax-loader.gif"/>
+          <div class="clear"></div>
         </div>
         <div id="search_tab_organizations">
-          Organization name: <input class="autocomplete" id="organization_autocomplete" type="text"/>
+          Organization name: <input class="autocomplete" id="organization_autocomplete" type="text"/><img class="ajax_loader" src="/images/autocomplete-ajax-loader.gif"/>
+          <div class="clear"></div>
         </div>
         <div id="search_tab_litigations">
-          Litigation name: <input class="autocomplete" id="litigation_autocomplete" type="text"/>
+          Litigation name: <input class="autocomplete" id="litigation_autocomplete" type="text"/><img class="ajax_loader" src="/images/autocomplete-ajax-loader.gif"/>
+          <div class="clear"></div>
         </div>
       </div>
       <div id="node_panel" class="ui-tabs ui-widget ui-widget-content ui-corner-all" style="display: none;">
         <div class="ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all">Részletes információk</div>
         <div id="person_node" class="node_attributes" style="display: none;">
           <ul>
-            <li>Név: <span id="name"></span></li>
-            <li>Születési év: <span id="born"></span></li>
+            <li>Név: <span id="person_name"></span></li>
+            <li>Ajnya neve: <span id="mothers_name"></span></li>
+            <li>Születési év: <span id="born_at"></span></li>
           </ul>  
         </div>
         <div id="organization_node" class="node_attributes" style="display: none;">
           <ul>
-            <li>Név: <span id="name"></span></li>
-            <li>Alapítás éve: <span id="born"></span></li>
+            <li>Név: <span id="organization_name"></span></li>
+            <li>Cím: <span id="address"></span></li>
+            <li>Alapítás éve: <span id="founded_at"></span></li>
+            <li>Legfrissebb pénzügyi adatok</li>
+            <li>Év: <span id="year"></span></li>
+            <li>Forgalom: <span id="turnover"></span></li>
+            <li>Mérleg: <span id="balance"></span></li> 
           </ul>  
         </div>
         <div id="litigation_node" class="node_attributes" style="display: none;">
           <ul>
-            <li>Per kezdete: <span id="litigation_start"></span></li>
-            <li>Per vége: <span id="litigation_end"></span></li>
+            <li>Név: <span id="litigation_name"></span></li>
+            <li>Per kezdete: <span id="start_time"></span></li>
+            <li>Per vége: <span id="end_time"></span></li>
           </ul>  
         </div>
         <input type="hidden" name="id" id="selected_node_id" value="#{params[:id]}"/>

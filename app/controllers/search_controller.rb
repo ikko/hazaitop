@@ -4,14 +4,31 @@ class SearchController < ApplicationController
 
   def generate_node(source, source_type)
     node = {}
+    no_data = 'Nincs adat'
     node[:id] = "#{source_type}#{source.id}"
-    node[:shape] = if source_type == 'p'
-                    'CIRCLE'
-                   elsif source_type == 'o'
-                     'RECTANGLE'
-                   elsif source_type == 'l'
-                     'DIAMOND'
-                   end
+    if source_type == 'p'
+      node[:shape] = 'CIRCLE'
+      node[:bornAt] = source.born_at ? source.born_at.to_s : no_data
+      node[:mothersName] = source.mothers_name.present? ? source.mothers_name : no_data
+    elsif source_type == 'o'
+      node[:shape] = 'RECTANGLE'
+      node[:foundedAt] = source.founded_at ? source.founded_at.to_s : no_data
+      node[:address] = source.city.present? || source.street.present? ? "#{source.city} #{source.street}".strip : no_data
+      if source.recent_financial_year
+        node[:year] = source.recent_financial_year.year
+        node[:turnover] = source.recent_financial_year.turnover
+        node[:balance] = source.recent_financial_year.balance_sheet_total
+      else
+        node[:year] = no_data
+        node[:turnover] = no_data
+        node[:balance] = no_data
+      end
+    elsif source_type == 'l'
+      node[:shape] = 'DIAMOND'
+      node[:startTime] = source.start_time ? source.start_time.to_s : no_data
+      node[:endTime] = source.end_time ? source.end_time.to_s : no_data
+    end
+    node[:informationSource] = source.information_source
     node[:label] = source.name
     @network[:nodes] << node
   end
