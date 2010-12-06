@@ -22,15 +22,15 @@
           <li><a href="#search_tab_litigations">Perek</a></li>
         </ul>
         <div id="search_tab_people">
-          Személy: <input class="autocomplete" id="people_autocomplete" type="text"/><img class="ajax_loader" src="/images/autocomplete-ajax-loader.gif"/>
+          Személy neve: <input class="autocomplete" id="people_autocomplete" type="text"/><img class="ajax_loader" src="/images/autocomplete-ajax-loader.gif"/>
           <div class="clear"></div>
         </div>
         <div id="search_tab_organizations">
-          Szervezet: <input class="autocomplete" id="organization_autocomplete" type="text"/><img class="ajax_loader" src="/images/autocomplete-ajax-loader.gif"/>
+          Szervezet neve: <input class="autocomplete" id="organization_autocomplete" type="text"/><img class="ajax_loader" src="/images/autocomplete-ajax-loader.gif"/>
           <div class="clear"></div>
         </div>
         <div id="search_tab_litigations">
-          Per: <input class="autocomplete" id="litigation_autocomplete" type="text"/><img class="ajax_loader" src="/images/autocomplete-ajax-loader.gif"/>
+          Per megnevezés: <input class="autocomplete" id="litigation_autocomplete" type="text"/><img class="ajax_loader" src="/images/autocomplete-ajax-loader.gif"/>
           <div class="clear"></div>
         </div>
       </div>
