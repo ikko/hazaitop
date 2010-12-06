@@ -3,6 +3,7 @@
     <javascript name="AC_OETags.min, json2.min, cytoscapeweb.min, graph"/>
     <script type='text/javascript'>
       <%= "var __debug = true;" if Rails.env.development? %>
+      <%= "var __debug = false;" if Rails.env.production? %>
       function log() {
         if (__debug) {
           for(var i=0; arguments.length > i; i++) {
