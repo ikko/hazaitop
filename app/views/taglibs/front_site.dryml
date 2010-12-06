@@ -113,6 +113,9 @@
         <hjq-input-many>
           <item:>
             <field-list fields="related_person, p2p_relation_type, litigations, information_source">
+              <p2p-relation-type-view:>
+                <select-one options="&P2pRelationType.not_internal"/>
+              </p2p-relation-type-view:>
               <related-person-view:>
                 <select-one options="&Person.all-[@this]"/>
               </related-person-view:>
