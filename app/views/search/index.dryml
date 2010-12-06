@@ -17,9 +17,9 @@
     <div class="left" id="search_box">
       <div id="search_entities">
         <ul>
-          <li><a href="#search_tab_people">People</a></li>
-          <li><a href="#search_tab_organizations">Organizations</a></li>
-          <li><a href="#search_tab_litigations">Litigations</a></li>
+          <li><a href="#search_tab_people">Személyek</a></li>
+          <li><a href="#search_tab_organizations">Szervezetek</a></li>
+          <li><a href="#search_tab_litigations">Perek</a></li>
         </ul>
         <div id="search_tab_people">
           Person name: <input class="autocomplete" id="people_autocomplete" type="text"/><img class="ajax_loader" src="/images/autocomplete-ajax-loader.gif"/>
@@ -41,7 +41,7 @@
             <li>Név: <span id="person_name"></span></li>
             <li>Ajnya neve: <span id="mothers_name"></span></li>
             <li>Születési év: <span id="born_at"></span></li>
-          </ul>  
+          </ul>
         </div>
         <div id="organization_node" class="node_attributes" style="display: none;">
           <ul>
@@ -51,15 +51,15 @@
             <li>Legfrissebb pénzügyi adatok</li>
             <li>Év: <span id="year"></span></li>
             <li>Forgalom: <span id="turnover"></span></li>
-            <li>Mérleg: <span id="balance"></span></li> 
-          </ul>  
+            <li>Mérleg: <span id="balance"></span></li>
+          </ul>
         </div>
         <div id="litigation_node" class="node_attributes" style="display: none;">
           <ul>
             <li>Név: <span id="litigation_name"></span></li>
             <li>Per kezdete: <span id="start_time"></span></li>
             <li>Per vége: <span id="end_time"></span></li>
-          </ul>  
+          </ul>
         </div>
         <input type="hidden" name="id" id="selected_node_id" value="#{params[:id]}"/>
         <input type="hidden" name="type" id="selected_node_type" value="#{params[:type]}"/>
