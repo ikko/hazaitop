@@ -7,6 +7,7 @@ class InterorgRelation < ActiveRecord::Base
     mirrored     :boolean, :default => false
     weight       :float
     visual       :boolean, :default => true
+    weblink      :string
   end
 
   belongs_to :o2o_relation_type
@@ -49,7 +50,8 @@ class InterorgRelation < ActiveRecord::Base
                               :o2o_relation_type_id => relation_type_id,
                               :information_source_id => r.information_source_id,
                               :visual => visual,
-                              :mirrored => true)
+                              :mirrored => true,
+                              :weblink => r.weblink)
       interorg.litigations = r.litigations
       r.update_attributes :mirrored => true, :interorg_relation_id => interorg.id, :visual => visual
     end

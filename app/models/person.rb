@@ -6,6 +6,7 @@ class Person < ActiveRecord::Base
     first_name   :string, :required
     last_name    :string, :required
     name         :string
+    klink         :string
     born_at      :date
     mothers_name :string
     timestamps

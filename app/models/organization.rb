@@ -4,6 +4,7 @@ class Organization < ActiveRecord::Base
 
   fields do
     name                :string, :unique
+    klink               :string
     street              :string
     city                :string
     zip_code            :string

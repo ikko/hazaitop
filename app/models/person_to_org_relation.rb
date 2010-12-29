@@ -7,7 +7,8 @@ class PersonToOrgRelation < ActiveRecord::Base
     end_time   :date
     no_end_time :boolean, :default => false
     weight     :float
-    visual       :boolean, :default => true
+    visual     :boolean, :default => true
+    weblink    :string
     timestamps
   end
 
