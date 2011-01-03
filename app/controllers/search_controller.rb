@@ -58,6 +58,7 @@ class SearchController < ApplicationController
     elsif target_type == 'o' && source_type == 'p'
       edge[:id] = "o2p#{relation.id}"
       edge[:alternateId] = "p2o#{relation.id}"
+      puts relation.o2p_relation_type.inspect
       edge[:label] = relation.o2p_relation_type.name
     elsif target_type == 'o' && source_type == 'l'
       edge[:id] = "o2l#{relation.id}"
@@ -186,6 +187,7 @@ class SearchController < ApplicationController
         end
       end
     elsif node.kind_of?(Organization)
+      Rails.logger.info node.inspect
       node.person_to_org_non_litigation_relations.each do |personal_relation|
         if @non_litigation_nodes.include? personal_relation.person
           generate_edge(personal_relation.person, 'p', personal_relation, node)

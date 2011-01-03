@@ -11,8 +11,11 @@ class InterpersonalRelation < ActiveRecord::Base
     internal     :boolean, :default => false
     weight       :float
     visual       :boolean, :default => true
-    weblink      :string
   end
+
+  has_many :article_relations, :as => :relationable
+  has_many :articles, :through => :article_relations
+ 
 
   belongs_to :p2p_relation_type
   belongs_to :person
@@ -65,8 +68,8 @@ class InterpersonalRelation < ActiveRecord::Base
                                                 :end_time => r.end_time,
                                                 :no_end_time => r.no_end_time,
                                                 :visual => visual,
-                                                :mirrored => true,
-                                                :weblink => r.weblink)
+                                                :mirrored => true)
+      interpersonal.articles = r.articles
       interpersonal.litigations = r.litigations
       interpersonal.save
       r.update_attributes :mirrored => true, :interpersonal_relation_id => interpersonal.id, :visual => visual

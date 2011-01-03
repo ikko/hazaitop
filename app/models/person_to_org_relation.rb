@@ -8,9 +8,12 @@ class PersonToOrgRelation < ActiveRecord::Base
     no_end_time :boolean, :default => false
     weight     :float
     visual     :boolean, :default => true
-    weblink    :string
     timestamps
   end
+
+  has_many :article_relations, :as => :relationable
+  has_many :articles, :through => :article_relations
+
 
   belongs_to :p2o_relation_type
   belongs_to :o2p_relation_type
@@ -114,6 +117,7 @@ class PersonToOrgRelation < ActiveRecord::Base
                                                       :no_end_time => calculated_no_end_time,
                                                       :visual => p2o_relation_type.visual,
                                                       :internal => true)
+            interpersonal.articles = articles
             interpersonal.litigations = self.litigations
             interpersonal.save
           end
