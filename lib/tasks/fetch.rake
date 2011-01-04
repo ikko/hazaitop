@@ -73,46 +73,37 @@ namespace :fetch do
 
             if t1.kind_of?(Person) and t2.kind_of?(Person)
               puts "p2p"
-
-              begin
-             
-                relation = InterpersonalRelation.find( :conditions => [ 'person_id = ? and related_person_id = ? and information_source_id = ?', t1.id, t2.id, info_id ])
-              rescue
+              relation = InterpersonalRelation.find( :first, :conditions => [ 'person_id = ? and related_person_id = ? and information_source_id = ?', t1.id, t2.id, info_id ])
+              unless relation
                 relation = InterpersonalRelation.create( :person_id => t1.id, :related_person_id => t2.id, :information_source_id => info_id, :p2p_relation_type_id => f_p2p.id )
-              ensure
-                unless relation.articles.include?(a)
-                  relation.articles << a
-                end
+              end
+              unless relation.articles.include?(a)
+                relation.articles << a
               end
             end
             
             if t1.kind_of?(Organization) and t2.kind_of?(Organization)
               puts "o2o"
-              begin
-                relation = InterorgRelation.find( :conditions => [ 'organization_id = ? and related_organization_id = ? and information_source_id = ?', t1.id, t2.id, info_id])
-              rescue
+              relation = InterorgRelation.find( :first, :conditions => [ 'organization_id = ? and related_organization_id = ? and information_source_id = ?', t1.id, t2.id, info_id])
+              unless relation
                 relation = InterorgRelation.create!( :organization_id => t1.id, :related_organization_id => t2.id, :information_source_id => info_id, :o2o_relation_type_id => f_o2o.id)
-              ensure
-                unless relation.articles.include?(a)
-                  relation.articles << a
-                end
               end
+              unless relation.articles.include?(a)
+                relation.articles << a
+              end
+              
             end
  
             if t1.kind_of?(Person) and t2.kind_of?(Organization)
               puts "p2o"
-              begin
-                relation = PersonToOrgRelation.find( :conditions => [ 'person_id = ? and organization_id = ? and information_source_id = ?', t1.id, t2.id, info_id])
-              rescue
-                puts t1.id
-                puts t2.id
-                puts f_p2o.id
+              relation = PersonToOrgRelation.find( :first, :conditions => [ 'person_id = ? and organization_id = ? and information_source_id = ?', t1.id, t2.id, info_id])
+              unless relation
                 relation = PersonToOrgRelation.create!( :person_id => t1.id, :organization_id => t2.id, :information_source_id => info_id, :p2o_relation_type_id => f_p2o.id)
-              ensure
-                unless relation.articles.include?(a)
-                  relation.articles << a
-                end
               end
+              unless relation.articles.include?(a)
+                relation.articles << a
+              end
+              
             end
            
           end
