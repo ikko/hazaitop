@@ -7,6 +7,10 @@ class ArticleRelation < ActiveRecord::Base
   belongs_to :relationable, :polymorphic => true
   belongs_to :article
 
+  def name
+    id.to_s
+  end
+
   # --- Permissions --- #
 
   def create_permitted?

@@ -3,9 +3,20 @@
   <append-content-body:>
     <a href="/search/?type=p&id=#{this.id}">Kapcsolati háló megjelenítése</a><br />
     <a if="&!this.klink.empty?" href="http://www.k-monitor.hu#{this.klink}" target="_blank">Ugrás a K-Monitorra</a>
-    <table-plus:interpersonal_relations fields="related_person, p2p_relation_type, organization, information_source" without-search-form />
-    <table-plus:person_to_org_relations fields="organization, p2o_relation_type, start_time, end_time, information_source" without-search-form>
-          <end-time-view:>
+    <table-plus:interpersonal_relations fields="related_person, p2p_relation_type, organization, information_source, article_relations" without-search-form>
+      <article-relations-view:>
+        <% this.each do |r| %>
+          <a href="http://www.k-monitor.hu/#{r.article.weblink}" target="_blank"><view with="&r.article.id"/></a>&nbsp;
+        <% end %>
+      </article-relations-view:>
+    </table-plus:interpersonal_relations>
+    <table-plus:person_to_org_relations fields="organization, p2o_relation_type, start_time, end_time, information_source, article_relations" without-search-form>
+      <article-relations-view:>
+        <% this.each do |r| %>
+          <a href="http://www.k-monitor.hu/#{r.article.weblink}" target="_blank"><view with="&r.article.id"/></a>&nbsp;
+        <% end %>
+      </article-relations-view:>
+      <end-time-view:>
         <view format="%B %d, %Y" if="&!this_parent.no_end_time"/>
         <ht if="&this_parent.no_end_time" key="custom.ongoing">ongoing</ht>
       </end-time-view:>
