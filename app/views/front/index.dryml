@@ -9,7 +9,7 @@
         <h3>Ez itt a főldal</h3>
         <ul>
           <li if="&current_user.guest?"><a href="/login">Belépés</a> az adatok szerkesztéséhez...</li>
-          <li>Lorem ipsum: leírás, hogy mi is ez az egész...</li>
+          <li>Az oldal célja a magyar politikai és gazdasági elit összefonódásának és kapcsolati hálójának feltérképezése az átláthatóbb közpénz-mozgás érdekében...</li>
         </ul>
 
         <% if User.count == 0 -%>

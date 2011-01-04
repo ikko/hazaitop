@@ -196,15 +196,15 @@ if Rails.env == "production"
   end
 
 
-  if Organization.count == 0
-    Organization.create! :name => "szivarvany gyár", :information_source_id => sajat.id, :org_grade_id => org.id
-    Organization.create! :name => "gomba gyár", :information_source_id => sajat.id, :org_grade_id => org.id
-  end
+# if Organization.count == 0
+#   Organization.create! :name => "szivarvany gyár", :information_source_id => sajat.id, :org_grade_id => org.id
+#   Organization.create! :name => "gomba gyár", :information_source_id => sajat.id, :org_grade_id => org.id
+# end
 
-  if Person.count == 0
-    Person.create! :first_name => "géza", :last_name => "cérna", :information_source_id => sajat.id
-    Person.create! :first_name => "mátyás", :last_name => "mókás", :information_source_id => sajat.id
-  end
+# if Person.count == 0
+#   Person.create! :first_name => "géza", :last_name => "cérna", :information_source_id => sajat.id
+#   Person.create! :first_name => "mátyás", :last_name => "mókás", :information_source_id => sajat.id
+# end
 
 end
 
