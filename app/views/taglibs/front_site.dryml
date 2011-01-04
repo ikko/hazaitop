@@ -71,10 +71,10 @@
 <def tag="card" for="Person">
   <card class="person" param="default" merge>
     <header: param>
-      <h4 param="heading"><a><view:first_name/>, <view:last_name/></a></h4>
+      <h4 param="heading"><a><view:name/></a></h4>
     </header:>
     <body: param>
-      <view:person_grades/>
+      <view:person_grades if="&this.person_grades"/>
     </body:>
   </card>
 </def>

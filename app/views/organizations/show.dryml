@@ -1,6 +1,8 @@
 <show-page without-creator-link>
+  <field-list: skip="klink" />
   <append-content-body:>
-    <a href="/search/?type=o&id=#{this.id}">Kapcsolati háló megjelenítése</a>
+    <a href="/search/?type=o&id=#{this.id}">Kapcsolati háló megjelenítése</a><br />
+    <a if="&!this.klink.blank?" href="http://www.k-monitor.hu/#{this.klink}" target="_blank">k-monitor link</a>
     <table-plus:financials fields="year, balance_sheet_total, turnover" without-search-form />
     <table-plus:interorg_relations fields="related_organization, o2o_relation_type, information_source" without-search-form />
     <table-plus:person_to_org_relations fields="person, o2p_relation_type, start_time, end_time, information_source" without-search-form >
