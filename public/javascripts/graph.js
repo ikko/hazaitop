@@ -88,7 +88,7 @@ var vis;
         $nodeAttributePanels.hide();
         $personNode.show();
         $selectedNodeType.val('p');
-        $personNode.find("#person_name").text(nodeData.label);
+        $personNode.find("#person_name").html("<a href='/people/"+nodeData.id.match(/\d+/)+"'>"+nodeData.label+"</a>");
         $personNode.find("#mothers_name").text(nodeData.mothersName);
         $personNode.find("#born_at").text(nodeData.bornAt);
       } else if (match[0] == 'o'){
@@ -96,7 +96,7 @@ var vis;
         $organizationNode.show();
         $selectedNodeType.val('o');
         log($organizationNode)
-        $organizationNode.find("#organization_name").text(nodeData.label);
+        $organizationNode.find("#organization_name").html("<a href='/organizations/"+nodeData.id.match(/\d+/)+"'>"+nodeData.label+"</a>");
         $organizationNode.find("#address").text(nodeData.address);
         $organizationNode.find("#founded_at").text(nodeData.foundedAt);
         $organizationNode.find("#year").text(nodeData.year);
@@ -106,7 +106,7 @@ var vis;
         $nodeAttributePanels.hide();
         $litigationNode.show();
         $selectedNodeType.val('l');
-        $litigationNode.find("#litigation_name").text(nodeData.label);
+        $litigationNode.find("#litigation_name").html("<a href='/litigations/"+nodeData.id.match(/\d+/)+"'>"+nodeData.label+"</a>");
         $litigationNode.find("#start_time").text(nodeData.startTime);
         $litigationNode.find("#end_time").text(nodeData.endTime);
       }
