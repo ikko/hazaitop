@@ -27,9 +27,9 @@
 
     <section class="content-body">
       <h2><ht key="homepage.recenty_updated_organizations">Recently Updated Organizations</ht></h2>
-      <table-plus with="&Organization.list" fields="name, city, street, zip_code, information_source" without-search-form/>
+      <table-plus with="&Organization.list" fields="this, city, street, zip_code, information_source" without-search-form/>
       <h2><ht key="homepage.recenty_updated_people">Recently Updated People</ht></h2>
-      <table-plus with="&Person.list" fields="last_name, first_name, information_source" without-search-form>
+      <table-plus with="&Person.list" fields="this, last_name, first_name, information_source" without-search-form>
         <this-heading:>Személy</this-heading:>
       </table-plus>
     </section>

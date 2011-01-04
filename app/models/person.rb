@@ -6,11 +6,13 @@ class Person < ActiveRecord::Base
     first_name   :string, :required
     last_name    :string, :required
     name         :string
-    klink         :string
+    klink        :string
     born_at      :date
     mothers_name :string
     timestamps
   end
+
+  default_scope  :order => 'last_name, first_name' 
 
   before_save do |r|
     r.name = r.last_name + ', ' + r.first_name

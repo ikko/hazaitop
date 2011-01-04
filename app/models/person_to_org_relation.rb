@@ -25,7 +25,7 @@ class PersonToOrgRelation < ActiveRecord::Base
 
   belongs_to :information_source
 
-  has_many :litigation_relations, :as => :litigable
+  has_many :litigation_relations, :as => :litigable, :dependent => :destroy
   has_many :litigations, :through => :litigation_relations, :accessible => true
 
   validates_presence_of :information_source

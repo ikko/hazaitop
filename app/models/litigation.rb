@@ -10,6 +10,8 @@ class Litigation < ActiveRecord::Base
     timestamps
   end
 
+  default_scope  :order => 'name'
+
   has_many :litigation_relations
   belongs_to :information_source
 
