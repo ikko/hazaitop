@@ -223,6 +223,7 @@ hu:
         other: Találatok
 
   organizations:
+    model_name: szervezet
     new:
       heading: Új szervezet
     edit:
