@@ -45,10 +45,10 @@ namespace :fetch do
   desc 'fetch article'
   task :articles => :environment do
     info_id = InformationSource.find_by_name('k-monitor.hu').id
-    f_p2p = P2pRelationType.find_by_name('feldolgozásra vár')
-    f_o2o = O2oRelationType.find_by_name('feldolgozásra vár')
-    f_o2p = O2pRelationType.find_by_name('feldolgozásra vár')
-    f_p2o = P2oRelationType.find_by_name('feldolgozásra vár')
+    f_p2p = P2pRelationType.find_by_name('feldolgozás alatt')
+    f_o2o = O2oRelationType.find_by_name('feldolgozás alatt')
+    f_o2p = O2pRelationType.find_by_name('feldolgozás alatt')
+    f_p2o = P2oRelationType.find_by_name('feldolgozás alatt')
     articles = Nokogiri::HTML(open('http://www.k-monitor.hu/adatbazis/kereses'))
     (1..articles.css("span.result")[0].children[0].text.to_i / 10 + 1).each do |i|
       puts "#{i}. oldal beolvasása"
