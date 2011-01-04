@@ -54,7 +54,7 @@ namespace :fetch do
       puts "#{i}. oldal beolvasása"
       articles = Nokogiri::HTML(open("http://www.k-monitor.hu/adatbazis/kereses?page=#{i}"))
       articles.css(".news_list_1").each do |article|
-        wlink = article.css("h3 a")[0].attributes['href'].value
+        wlink = article.css("h3 a")[0].attributes['href'].value.split('?')[0]
         a = Article.find_or_create_by_weblink(wlink) do |r|
           r.summary = article.css(".n_teaser")[0].children[0].text
           r.title = article.css("h3 a")[0].children[0].text
@@ -62,7 +62,7 @@ namespace :fetch do
         end
         tags = []
         article.css(".links a, .links_starred a").each do |link|
-          href = link.attributes['href'].value.sub("/kereses","")
+          href = link.attributes['href'].value.sub("/kereses","").split('?')[0]
           tag = Person.find_by_klink(href) || Organization.find_by_klink(href)
           next unless tag
           tags << tag
