@@ -1,5 +1,6 @@
 config/database.yml
 db/schema.rb
+db/dump.sql
 tmp/*
 *~
 log/*

@@ -83,25 +83,26 @@ var vis;
         $loadNodeRelations.show();
       }
       $("#node_panel").show();
-      var match = nodeData.id.match(/^(.*)(\d+)$/);
-      if (match[1] == 'p') {
+      var match = nodeData.id.match(/p|o|l/);
+      if (match[0] == 'p') {
         $nodeAttributePanels.hide();
         $personNode.show();
         $selectedNodeType.val('p');
         $personNode.find("#person_name").text(nodeData.label);
         $personNode.find("#mothers_name").text(nodeData.mothersName);
         $personNode.find("#born_at").text(nodeData.bornAt);
-      } else if (match[1] == 'o'){
+      } else if (match[0] == 'o'){
         $nodeAttributePanels.hide();
         $organizationNode.show();
         $selectedNodeType.val('o');
+        log($organizationNode)
         $organizationNode.find("#organization_name").text(nodeData.label);
         $organizationNode.find("#address").text(nodeData.address);
         $organizationNode.find("#founded_at").text(nodeData.foundedAt);
         $organizationNode.find("#year").text(nodeData.year);
         $organizationNode.find("#turnover").text(nodeData.turnover);
         $organizationNode.find("#balance").text(nodeData.balance);
-      } else if (match[1] == 'l'){
+      } else if (match[0] == 'l'){
         $nodeAttributePanels.hide();
         $litigationNode.show();
         $selectedNodeType.val('l');
