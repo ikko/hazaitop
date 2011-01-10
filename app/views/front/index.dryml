@@ -13,7 +13,7 @@
         </ul>
 
         <ul if="&I18n.locale == :en">
-          <li>The purpose of this site is to reveal the network of the Hungarian political and business elite in order to facilitate public money translight movements...</li>
+          <li>The purpose of this site is to reveal the network of Hungary's political and business elite in order to facilitate public money transition transparency...</li>
           <li if="&current_user.guest?"><a href="/login">Login</a> to edit data...</li>
         </ul>
 
