@@ -189,8 +189,8 @@ end
 if Rails.env == "production"
 
   if User.count == 0
-    User.create :name => "Béky Miklós", :email_address => "miklos.beky@gmail.com", :password => "asdf1234", :password_confirmation => "asdf1234", :editor => false, :administrator => true, :state => "active"
-    User.create :name => "Komzák Nándor", :email_address => "nandor.komzak@gmail.com", :password => "asdf1234", :password_confirmation => "asdf1234", :editor => false, :administrator => true, :state => "active"
+    User.create :name => "Béky Miklós", :email_address => "miklos.beky@gmail.com", :password => "asdf1234", :password_confirmation => "mitminek", :editor => false, :administrator => true, :state => "active"
+    User.create :name => "Komzák Nándor", :email_address => "nandor.komzak@gmail.com", :password => "asdf1234", :password_confirmation => "mitminek", :editor => false, :administrator => true, :state => "active"
     User.create :name => "Léderer Sándor", :email_address => "lederer@k-monitor.hu", :password => "probababa", :password_confirmation => "probababa", :editor => true, :supervisor => true, :state => "active"
     User.create :name => "Keserű Júlia", :email_address => "keseru.julia@k-monitor.hu", :password => "probababa", :password_confirmation => "probababa", :editor => true, :supervisor => true, :state => "active"
   end

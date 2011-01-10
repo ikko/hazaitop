@@ -1,8 +1,14 @@
 <show-page without-creator-link>
   <field-list: skip="klink" />
+  <append-heading:>
+    <div style="position:relative">
+      <div id="resource_links">
+        <a href="/search/?type=p&id=#{this.id}"><ht key="custom.draw_network">Draw network connections</ht></a><br />
+        <a if="&!this.klink.empty?" href="http://www.k-monitor.hu#{this.klink}" target="_blank"><ht key="custom.jump_to_k-monitor">View on k-monitor.hu</ht></a>
+      </div>
+    </div>
+  </append-heading:>
   <append-content-body:>
-    <a href="/search/?type=o&id=#{this.id}">Kapcsolati háló megjelenítése</a><br />
-    <a if="&!this.klink.blank?" href="http://www.k-monitor.hu#{this.klink}" target="_blank">k-monitor link</a>
     <table-plus:financials fields="year, balance_sheet_total, turnover" without-search-form />
     <table-plus:interorg_relations fields="related_organization, o2o_relation_type, information_source, article_relations" without-search-form >
       <article-relations-view:>

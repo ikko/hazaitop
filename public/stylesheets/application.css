@@ -7,3 +7,5 @@
 #relationgraph .ajax-loader {margin: 180px auto 0 auto; text-align: center; display: block;}
 .autocomplete {float: left;}
 #search_entities .ajax_loader {display: none; float:left;}
+#resource_links {position: absolute; right: 45px; top:45px; font-size: 80%}
+
