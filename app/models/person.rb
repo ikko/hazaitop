@@ -50,6 +50,7 @@ class Person < ActiveRecord::Base
   belongs_to :user, :creator => true
 
   named_scope :list, :limit => 15, :order => "updated_at DESC"
+  # named_scope :listed, :order => "updated_at DESC"
 
   # --- Permissions --- #
 

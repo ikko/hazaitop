@@ -4,7 +4,7 @@
     <div style="position:relative">
       <div id="resource_links">
         <a href="/search/?type=p&id=#{this.id}"><ht key="custom.draw_network">Draw network connections</ht></a><br />
-        <a if="&!this.klink.empty?" href="http://www.k-monitor.hu#{this.klink}" target="_blank"><ht key="custom.jump_to_k-monitor">View on k-monitor.hu</ht></a>
+        <a if="&this.klink" href="http://www.k-monitor.hu#{this.klink}" target="_blank"><ht key="custom.jump_to_k-monitor">View on k-monitor.hu</ht></a>
       </div>
     </div>
   </append-heading:>
