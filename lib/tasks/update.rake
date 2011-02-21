@@ -3,29 +3,28 @@ namespace :update do
   task :counters => :environment do
   
 
-#   Organization.reset_column_information
-#   Person.reset_column_information
+#   Organization.reset_column_debugrmation
+#   Person.reset_column_debugrmation
 
-    Rails.logger.info "updating counter cache for interorg relations"
+    Rails.logger.debug "updating counter cache for interorg relations"
     Organization.find(:all).each do |p|
       p.update_attribute :interorg_relations_count, p.interorg_relations.length
     end
-    Rails.logger.info "updating counter cache for interpersonal relations"
+    Rails.logger.debug "updating counter cache for interpersonal relations"
     Person.find(:all).each do |p|
       p.update_attribute :interpersonal_relations_count, p.interpersonal_relations.length
     end
-    Rails.logger.info "updating person to org relations"
-    Rails.logger.info "updating counter cache on organizaions"
-    n organization
+    Rails.logger.debug "updating person to org relations"
+    Rails.logger.debug "updating counter cache on organizaions"
     Organization.find(:all).each do |p|
       p.update_attribute :person_to_org_relations_count, p.person_to_org_relations.length
     end
-    Rails.logger.info "updating counter cache on people"
+    Rails.logger.debug "updating counter cache on people"
     Person.find(:all).each do |p|
       p.update_attribute :person_to_org_relations_count, p.person_to_org_relations.length
     end
 
-    Rails.logger.info "should feel done..."
+    Rails.logger.debug "should feel done..."
 
   end
 end
