@@ -9,6 +9,8 @@ class Person < ActiveRecord::Base
     klink        :string
     born_at      :date
     mothers_name :string
+    interpersonal_relations_count :integer
+    person_to_org_relations_count :integer
     timestamps
   end
 
@@ -51,6 +53,8 @@ class Person < ActiveRecord::Base
 
   named_scope :list, :limit => 15, :order => "updated_at DESC"
   # named_scope :listed, :order => "updated_at DESC"
+  named_scope :listed, :order => "updated_at DESC", :conditions => "interpersonal_relations_count > 0 or person_to_org_relations_count > 0" 
+ 
 
   # --- Permissions --- #
 

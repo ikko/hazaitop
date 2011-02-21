@@ -18,7 +18,8 @@ class InterpersonalRelation < ActiveRecord::Base
  
 
   belongs_to :p2p_relation_type
-  belongs_to :person
+  belongs_to :person, :counter_cache => true
+
   belongs_to :related_person, :class_name => "Person"
 
   belongs_to :person_to_org_relation   # ha a rendszer hozta automatikusan létre a kapcsolatot, azt ez alapján tette

@@ -14,7 +14,8 @@ class InterorgRelation < ActiveRecord::Base
   has_many :articles, :through => :article_relations
   
   belongs_to :o2o_relation_type
-  belongs_to :organization
+  belongs_to :organization, :counter_cache => true
+
   belongs_to :related_organization, :class_name => "Organization"
 
   belongs_to :information_source

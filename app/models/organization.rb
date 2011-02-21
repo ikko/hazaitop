@@ -12,6 +12,8 @@ class Organization < ActiveRecord::Base
     tax_nr              :string
     founded_at          :date
     number_of_employees :integer
+    interorg_relations_count :integer
+    person_to_org_relations_count :integer
     timestamps
   end
 
@@ -55,7 +57,8 @@ class Organization < ActiveRecord::Base
   validates_presence_of :information_source
   validates_numericality_of :number_of_employees, :if => lambda { |r| r.number_of_employees }
 
-  named_scope :list, :limit => 15, :order => "updated_at DESC"
+  named_scope :list, :limit => 15, :order => "updated_at DESC" 
+  named_scope :listed, :order => "updated_at DESC", :conditions => "interorg_relations_count > 0 or person_to_org_relations_count > 0" 
 
   # --- Permissions --- #
 

@@ -17,8 +17,8 @@ class PersonToOrgRelation < ActiveRecord::Base
 
   belongs_to :p2o_relation_type
   belongs_to :o2p_relation_type
-  belongs_to :organization
-  belongs_to :person
+  belongs_to :organization, :counter_cache => true
+  belongs_to :person, :counter_cache => true
 
   has_many :interpersonal_relations, :dependent => :destroy
   has_many :other_interpersonal_relations, :class_name => "InterpersonalRelation", :dependent => :destroy
