@@ -15,6 +15,7 @@ class Organization < ActiveRecord::Base
     timestamps
   end
 
+
   default_scope  :order => 'name'
 
   validates_presence_of :information_source
