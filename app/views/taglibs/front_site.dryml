@@ -75,8 +75,8 @@
       <h4 param="heading"><a><name/></a></h4>
     </header:>
     <body: param>
-      <view:interorg_relations_count/> szervezeti kapcsolat,
-      <view:person_to_org_relations_count/> személyi kapcsolat<br />
+      <strong><view:interorg_relations_count/></strong> szervezeti kapcsolat,
+      <strong><view:person_to_org_relations_count/></strong> személyi kapcsolat<br />
       <strong><view:city/></strong> <view:street/> <br/>
       <view:trade_register_nr/> <view:tax_nr/> <br/>
     </body:>
@@ -89,9 +89,9 @@
       <h4 param="heading"><a><view:name/></a></h4>
     </header:>
     <body: param>
-      <view:person_grades if="&this.person_grades"/>
-      <view:interpersonal_relations_count/> személyi kapcsolat,
-      <view:person_to_org_relations_count/> szervezeti kapcsolat<br />
+      <strong><view:person_grades if="&this.person_grades"/>
+      <strong><view:interpersonal_relations_count/></strong> személyi kapcsolat,
+      <view:person_to_org_relations_count/></strong> szervezeti kapcsolat<br />
     </body:>
   </card>
 </def>
