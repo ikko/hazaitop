@@ -6,7 +6,7 @@ namespace :update do
 #   Organization.reset_column_information
 #   Person.reset_column_information
 
-    uts "updating counter cache for interorg relations"
+    Rails.logger.info "updating counter cache for interorg relations"
     Organization.find(:all).each do |p|
       p.update_attribute :interorg_relations_count, p.interorg_relations.length
     end
