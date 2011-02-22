@@ -34,12 +34,12 @@
     <section class="content-body">
       <h2><ht key="homepage.organizations">Organizations</ht></h2>
       <table-plus with="&Organization.list" fields="this, city, street, zip_code, information_source" without-search-form/>
-      <a href="#{organizations_path}">továbbiak....</a><br />
+      <a href="#{organizations_path}">további szervezetek...</a><br />
       <h2><ht key="homepage.people">People</ht></h2>
       <table-plus with="&Person.list" fields="this, last_name, first_name, information_source" without-search-form>
         <this-heading:>Személy</this-heading:>
       </table-plus>
-      <a href="{#people_path}">továbbiak....</a>
+      <a href="#{people_path}">további személyek...</a>
     </section>
   </content:>
 
