@@ -51,7 +51,7 @@ class Person < ActiveRecord::Base
   belongs_to :information_source
   belongs_to :user, :creator => true
 
-  named_scope :list, :limit => 15, :order => "interpersonal_relations_count DESC"
+  named_scope :list, :limit => 15, :order => "person_to_org_relations_count DESC"
   # named_scope :listed, :order => "updated_at DESC"
   named_scope :listed, :order => "interpersonal_relations_count DESC" #, :conditions => "interpersonal_relations_count > 0 or person_to_org_relations_count > 0" 
  

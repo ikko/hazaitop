@@ -75,8 +75,8 @@
       <h4 param="heading"><a><name/></a></h4>
     </header:>
     <body: param>
-      <strong><view:interorg_relations_count/></strong> szervezeti kapcsolat,
-      <strong><view:person_to_org_relations_count/></strong> személyi kapcsolat<br />
+      <span if="&this.interorg_relations_count"><strong><view:interorg_relations_count/></strong> szervezeti kapcsolat, </span>
+      <span if="&this.person_to_org_relations_count"><strong><view:person_to_org_relations_count/></strong> személyi kapcsolat</span> <br />
       <strong><view:city/></strong> <view:street/> <br/>
       <view:trade_register_nr/> <view:tax_nr/> <br/>
     </body:>
@@ -89,9 +89,9 @@
       <h4 param="heading"><a><view:name/></a></h4>
     </header:>
     <body: param>
-      <strong><view:person_grades if="&this.person_grades"/>
-      <strong><view:interpersonal_relations_count/></strong> személyi kapcsolat,
-      <view:person_to_org_relations_count/></strong> szervezeti kapcsolat<br />
+      <view:person_grades if="&this.person_grades"/>
+      <span if="&this.interpersonal_relations_count"><strong><view:interpersonal_relations_count/></strong> személyi kapcsolat, </span>
+      <span if="&this.person_to_org_relations_count"><strong><view:person_to_org_relations_count/></strong> szervezeti kapcsolat</span><br />
     </body:>
   </card>
 </def>
