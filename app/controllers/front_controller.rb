@@ -27,10 +27,7 @@ class FrontController < ApplicationController
   private
 
   def site_search(query)
-    logger.info query
     results = Organization.name_contains(query) + Person.name_contains(query) + Litigation.name_contains(query)
-    logger.info "results: ******************************************************"
-    logger.info results.inspect
     all_results = results.select { |r| r.viewable_by?(current_user) }
     if all_results.empty?
       render :text => "<p>"+ ht(:"hobo.live_search.no_results", :default=>["Your search returned no matches."]) + "</p>"

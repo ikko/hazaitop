@@ -164,7 +164,7 @@ var vis;
     $loadNodeRelations.click(function(e) {
       e.preventDefault();
       network.showAjaxLoader();
-      $.ajax({url:'/graph_search/?id='+$selectedNodeId.val()+'&type='+$selectedNodeType.val()+'&nodes='+network.loadedNodeIds(), 
+      $.ajax({url:'/site_search/?id='+$selectedNodeId.val()+'&type='+$selectedNodeType.val()+'&nodes='+network.loadedNodeIds(), 
               dataType: 'json',
               success: function(response) {
                 log('Node kapcsolatai válasz: ', response);
@@ -181,7 +181,7 @@ var vis;
                                        network.showAjaxLoader();
                                        $selectedNodeId.val(ui.item.id);
                                        $selectedNodeType.val(getAutocompleteType());
-                                       $.ajax({url: '/graph_search/?id='+ui.item.id+'&nodes='+network.loadedNodeIds()+'&type='+getAutocompleteType(),
+                                       $.ajax({url: '/site_search/?id='+ui.item.id+'&nodes='+network.loadedNodeIds()+'&type='+getAutocompleteType(),
                                                dataType: 'json',
                                                success: function(response) { 
                                                  log('Node kapcsolatai válasz: ', response);
