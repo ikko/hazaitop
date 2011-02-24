@@ -1,4 +1,4 @@
-class SearchController < ApplicationController
+class SiteSearchController < ApplicationController
 
   hobo_controller
 

@@ -23,6 +23,9 @@
          })();
       </script>
     </before-scripts:>
+    <custom-scripts:>
+      <hjq-assets/>
+    </custom-scripts:> 
     <footer:>
       <a href="http://www.k-monitor.hu" target="_blank">
         <img src="/images/k-monitor-logo.jpg" height="50" alt="K-Monitor Közhasznú Egyesület"/>
@@ -46,24 +49,14 @@
   </old-page>
 </extend>
 
-<extend tag="page">
-  <old-page merge without-search>
-    <custom-scripts:>
-      <hjq-assets/>
-    </custom-scripts:>
-  </old-page>
-</extend>
-
 <def tag="app-name">K wiw - Hazai Top</def>
-
 
 <def tag="main-nav">
   <navigation class="main-nav" merge-attrs param="default">
-    <nav-item href="#{base_url}/"><ht key="homepage.home">Home</ht></nav-item>
     <nav-item with="&Person"><ht key="people.nav_item">People</ht></nav-item>
     <nav-item with="&Organization"><ht key="organizations.nav_item">Organizations</ht></nav-item>
     <nav-item with="&Litigation"><ht key="litigations.nav_item">Litigations</ht></nav-item>
-    <nav-item href="/search"><ht key="search.nav_item">Search</ht></nav-item>
+    <nav-item href="/site_search"><ht key="search.nav_item">Search</ht></nav-item>
     <nav-item if="&current_user.administrator? or current_user.editor?" with="&InformationSource"><ht key="information_sources.nav_item">Sources</ht></nav-item>
     <nav-item if="&current_user.administrator? or current_user.editor?" href="#{base_url}/settings"><ht key="settings.nav_item">Settings</ht></nav-item>
   </navigation>

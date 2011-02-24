@@ -1,8 +1,10 @@
 ActionController::Routing::Routes.draw do |map|
 
   map.root :controller => 'front', :action => 'index'
+  map.site_search  'search', :controller => 'front', :action => 'search'
 
   Hobo.add_routes(map)
+  
 
   # The priority is based upon order of creation: first created -> highest priority.
 
