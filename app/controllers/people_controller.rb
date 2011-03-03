@@ -6,8 +6,8 @@ class PeopleController < ApplicationController
 
   autocomplete
 
-  caches_page :show,  :expires_in => 4.minutes
-  caches_page :index, :expires_in => 4.minutes
+#  caches_page :show,  :expires_in => 4.minutes
+#  caches_page :index, :expires_in => 4.minutes
 
   def index
     hobo_index Person.listed, :per_page => 10
