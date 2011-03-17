@@ -3,5 +3,5 @@ db/schema.rb
 db/dump.sql
 tmp/*
 *~
-log/*
-app/views/taglibs/auto/*
+log
+app/views/taglibs/auto
