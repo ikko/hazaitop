@@ -55,6 +55,7 @@
   <navigation class="main-nav" merge-attrs param="default">
     <nav-item with="&Person"><ht key="people.nav_item">People</ht></nav-item>
     <nav-item with="&Organization"><ht key="organizations.nav_item">Organizations</ht></nav-item>
+    <nav-item with="&Article"><ht key="articles.nav_item">Articles</ht></nav-item>
     <nav-item with="&Litigation"><ht key="litigations.nav_item">Litigations</ht></nav-item>
     <nav-item href="/site_search"><ht key="visualize.nav_item">Visualize</ht></nav-item>
     <nav-item if="&current_user.administrator? or current_user.editor?" with="&InformationSource"><ht key="information_sources.nav_item">Sources</ht></nav-item>
@@ -89,6 +90,32 @@
   </card>
 </def>
 
+<extend tag="form" for="Article">
+  <old-form merge>
+
+    <field-list: fields="title, summary, internet_address" > 
+      <interpersonal-relations-view:>
+        <hjq-input-many>
+          <item:>
+            <field-list fields="related_person, p2p_relation_type, litigations, information_source">
+              <p2p-relation-type-view:>
+                <select-one options="&P2pRelationType.not_internal"/>
+              </p2p-relation-type-view:>
+              <related-person-view:>
+                <select-one options="&Person.all-[@this]"/>
+              </related-person-view:>
+              <information-source-view:>
+                <select-one options="&InformationSource.not_internal"/> | <a href="&new_information_source_path"  target="_blank"><ht key="custom.new">new</ht></a>
+              </information-source-view:>
+            </field-list>
+          </item:>
+        </hjq-input-many>
+      </interpersonal-relations-view:>
+    </field-list>
+  </old-form>
+</extend>
+
+
 <def tag="form" for="Person">
   <form merge param="default">
     <error-messages param/>
@@ -102,7 +129,7 @@
       <person-to-org-relations-view:>
         <hjq-input-many>
           <item:>
-            <field-list fields="organization, p2o_relation_type, start_time, end_time, no_end_time, litigations, information_source">
+            <field-list fields="organization, p2o_relation_type, start_time, end_time, no_end_time, litigations, articles, information_source">
               <organization-view:>
                 <select-one options="&Organization.all"/>
               </organization-view:>
@@ -112,6 +139,9 @@
               <start-time-view:>
                 <input start-year="&Time.now.year-50" end-year="&Time.now.year"/>
               </start-time-view:>
+              <articles-view:>
+                <select-many options="&Article.recent(30)"/> | <a href="&new_article_path"  target="_blank"><ht key="custom.new">new</ht></a>
+              </articles-view:>
               <end-time-view: class="end-time-toggler" style="display:#{this_parent.no_end_time ? ' none;' : ' block;'}">
                 <input start-year="&Time.now.year-50" end-year="&Time.now.year+50"/>
               </end-time-view:>
@@ -122,13 +152,16 @@
       <personal-relations-view:>
         <hjq-input-many>
           <item:>
-            <field-list fields="related_person, p2p_relation_type, litigations, information_source">
+            <field-list fields="related_person, p2p_relation_type, litigations, articles, information_source">
               <p2p-relation-type-view:>
                 <select-one options="&P2pRelationType.not_internal"/>
               </p2p-relation-type-view:>
               <related-person-view:>
                 <select-one options="&Person.all-[@this]"/>
               </related-person-view:>
+              <articles-view:>
+                <select-many options="&Article.recent(30)"/> | <a href="&new_article_path"  target="_blank"><ht key="custom.new">new</ht></a>
+              </articles-view:>
               <information-source-view:>
                 <select-one options="&InformationSource.not_internal"/> | <a href="&new_information_source_path"  target="_blank"><ht key="custom.new">new</ht></a>
               </information-source-view:>
@@ -156,7 +189,7 @@
       <person-to-org-relations-view:>
         <hjq-input-many>
           <item:>
-            <field-list fields="person, o2p_relation_type, start_time, end_time, no_end_time, litigations, information_source">
+            <field-list fields="person, o2p_relation_type, start_time, end_time, no_end_time, litigations, articles, information_source">
               <person-view:>
                 <select-one options="&Person.all"/>
               </person-view:>
@@ -166,6 +199,9 @@
               <start-time-view:>
                 <input start-year="&Time.now.year-50" end-year="&Time.now.year"/>
               </start-time-view:>
+              <articles-view:>
+                <select-many options="&Article.recent(30)"/> | <a href="&new_article_path"  target="_blank"><ht key="custom.new">new</ht></a>
+              </articles-view:>
               <end-time-view: class="end-time-toggler" style="display:#{this_parent.no_end_time ? ' none;' : ' block;'}">
                 <input start-year="&Time.now.year-50" end-year="&Time.now.year+50"/>
               </end-time-view:>
@@ -176,13 +212,16 @@
       <interorg-relations-view:>
         <hjq-input-many>
           <item:>
-            <field-list fields="related_organization, o2o_relation_type, litigations, information_source">
+            <field-list fields="related_organization, o2o_relation_type, litigations, articles, information_source">
               <related-organization-view:>
                 <select-one options="&Organization.all-[@this]"/>
               </related-organization-view:>
               <information-source-view:>
                 <select-one options="&InformationSource.not_internal"/> | <a href="&new_information_source_path" target="_blank"><ht key="custom.new">new</ht></a>
               </information-source-view:>
+              <articles-view:>
+                <select-many options="&Article.recent(30)"/> | <a href="&new_article_path"  target="_blank"><ht key="custom.new">new</ht></a>
+              </articles-view:>
             </field-list>
           </item:>
         </hjq-input-many>
@@ -199,7 +238,7 @@
 
 <extend tag="form" for="InformationSource">
   <old-form>
-    <field-list: skip="internal"/>
+    <field-list: skip="internal, weblink"/>
   </old-form>
 </extend>
 
@@ -210,6 +249,17 @@
     </header:>
     <body: param>
       <a if="web" href="#{this.web}" target="_blank"><view:web/></a>
+    </body:>
+  </card>
+</def>
+
+<def tag="card" for="Article">
+  <card class="article" param="default" merge>
+    <header: param>
+      <h4 param="heading"><a><name/></a></h4>
+    </header:>
+    <body: param>
+      <view:summary/>
     </body:>
   </card>
 </def>

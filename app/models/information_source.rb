@@ -4,12 +4,21 @@ class InformationSource < ActiveRecord::Base
 
   fields do
     name     :string, :required
-    web      :string
+    web      :string, :required
     weight   :float, :required, :default => 1
+    domain_name   :string
     internal :boolean, :default => false
     timestamps
   end
 
+  has_many :recent_articles, :order => "updated_at DESC", :limit => 10, :class_name => "Article"
+
+  before_save do |record|
+    unless record.web.blank?
+      d = Domainatrix.parse(record.web)
+      record.domain_name = d.domain + '.' + d.public_suffix
+    end
+  end
 
   # --- Permissions --- #
 

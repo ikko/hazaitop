@@ -12,14 +12,14 @@
     <table-plus:interpersonal_relations fields="related_person, p2p_relation_type, organization, information_source, article_relations" without-search-form>
       <article-relations-view:>
         <% this.each do |r| %>
-          <a href="http://www.k-monitor.hu/#{r.article.weblink}" target="_blank"><view with="&r.article.id"/></a>&nbsp;
+          <a href="#{article_path(r.article_id)}"><view with="&r.article.id"/></a>&nbsp;
         <% end %>
       </article-relations-view:>
     </table-plus:interpersonal_relations>
     <table-plus:person_to_org_relations fields="organization, p2o_relation_type, start_time, end_time, information_source, article_relations" without-search-form>
       <article-relations-view:>
         <% this.each do |r| %>
-          <a href="http://www.k-monitor.hu/#{r.article.weblink}" target="_blank"><view with="&r.article.id"/></a>&nbsp;
+          <a href="#{article_path(r.article_id)}"><view with="&r.article.id"/></a>&nbsp;
         <% end %>
       </article-relations-view:>
       <end-time-view:>

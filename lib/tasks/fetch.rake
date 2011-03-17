@@ -8,8 +8,6 @@ namespace :fetch do
     people = Nokogiri::HTML(open('http://www.k-monitor.hu/adatbazis/szemelyek'))
     info_id = InformationSource.find_by_name('k-monitor.hu').id
     people.css(".tags_table a").each do |person|
-      puts "-------------"
-      puts "fetching person: " +  person.children[0].text
       name = person.children[0].text.split(' ')
       last_name = name[0]
       first_name= name[1..-1].join(' ') if name.length>1
@@ -31,8 +29,6 @@ namespace :fetch do
     grade_id = OrgGrade.find_by_name("magáncég").id
     organizations = Nokogiri::HTML(open('http://www.k-monitor.hu/adatbazis/intezmenyek'))
     organizations.css(".tags_table a").each do |organization|
-      puts "-------------"
-      puts "fetching organization: " +  organization.children[0].text
       org = Organization.find_by_name(organization.children[0].text)
       if !org
         puts "saving organization: " +  organization.children[0].text
@@ -50,9 +46,9 @@ namespace :fetch do
     f_o2p = O2pRelationType.find_by_name('feldolgozás alatt')
     f_p2o = P2oRelationType.find_by_name('feldolgozás alatt')
     articles = Nokogiri::HTML(open('http://www.k-monitor.hu/adatbazis/kereses'))
-    (1..articles.css("span.result")[0].children[0].text.to_i / 10 + 1).each do |i|
-  if i < 300
-      puts "#{i}. oldal beolvasása"
+#    (1..articles.css("span.result")[0].children[0].text.to_i / 10 + 1).each do |i|
+    (1..4).each do |i|
+      puts Time.now
       articles = Nokogiri::HTML(open("http://www.k-monitor.hu/adatbazis/kereses?page=#{i}"))
       articles.css(".news_list_1").each do |article|
         wlink = article.css("h3 a")[0].attributes['href'].value.split('?')[0]
@@ -60,6 +56,7 @@ namespace :fetch do
           r.summary = article.css(".n_teaser")[0].children[0].text
           r.title = article.css("h3 a")[0].children[0].text
           r.weblink = wlink 
+          r.internet_address = "http://www.k-monitor.hu/" + wlink
         end
         tags = []
         article.css(".links a, .links_starred a").each do |link|
@@ -100,7 +97,6 @@ namespace :fetch do
                 end
               end
             end
-end
           end
         end
       end
