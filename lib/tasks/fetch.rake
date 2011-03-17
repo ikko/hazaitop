@@ -49,7 +49,6 @@ namespace :fetch do
 #    (1..articles.css("span.result")[0].children[0].text.to_i / 10 + 1).each do |i|
     (1..4).each do |i|
       puts Time.now
-      puts "#{i}. oldal beolvasása"
       articles = Nokogiri::HTML(open("http://www.k-monitor.hu/adatbazis/kereses?page=#{i}"))
       articles.css(".news_list_1").each do |article|
         wlink = article.css("h3 a")[0].attributes['href'].value.split('?')[0]
