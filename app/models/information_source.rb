@@ -3,9 +3,9 @@ class InformationSource < ActiveRecord::Base
   hobo_model # Don't put anything above this
 
   fields do
-    name     :string
+    name     :string, :required
     web      :string
-    weight   :float
+    weight   :float, :required, :default => 1
     internal :boolean, :default => false
     timestamps
   end

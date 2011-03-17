@@ -51,6 +51,7 @@ namespace :fetch do
     f_p2o = P2oRelationType.find_by_name('feldolgozás alatt')
     articles = Nokogiri::HTML(open('http://www.k-monitor.hu/adatbazis/kereses'))
     (1..articles.css("span.result")[0].children[0].text.to_i / 10 + 1).each do |i|
+  if i < 300
       puts "#{i}. oldal beolvasása"
       articles = Nokogiri::HTML(open("http://www.k-monitor.hu/adatbazis/kereses?page=#{i}"))
       articles.css(".news_list_1").each do |article|
@@ -99,6 +100,7 @@ namespace :fetch do
                 end
               end
             end
+end
           end
         end
       end
