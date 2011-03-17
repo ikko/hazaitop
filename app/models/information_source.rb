@@ -3,13 +3,22 @@ class InformationSource < ActiveRecord::Base
   hobo_model # Don't put anything above this
 
   fields do
-    name     :string
-    web      :string
-    weight   :float
+    name     :string, :required
+    web      :string, :required
+    weight   :float, :required, :default => 1
+    domain_name   :string
     internal :boolean, :default => false
     timestamps
   end
 
+  has_many :recent_articles, :order => "updated_at DESC", :limit => 10, :class_name => "Article"
+
+  before_save do |record|
+    unless record.web.blank?
+      d = Domainatrix.parse(record.web)
+      record.domain_name = d.domain + '.' + d.public_suffix
+    end
+  end
 
   # --- Permissions --- #
 

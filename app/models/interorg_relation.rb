@@ -11,7 +11,7 @@ class InterorgRelation < ActiveRecord::Base
 
 
   has_many :article_relations, :as => :relationable
-  has_many :articles, :through => :article_relations
+  has_many :articles, :through => :article_relations, :accessible => true
   
   belongs_to :o2o_relation_type
   belongs_to :organization, :counter_cache => true

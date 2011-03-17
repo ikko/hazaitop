@@ -14,7 +14,7 @@ class InterpersonalRelation < ActiveRecord::Base
   end
 
   has_many :article_relations, :as => :relationable
-  has_many :articles, :through => :article_relations
+  has_many :articles, :through => :article_relations, :accessible => true
  
 
   belongs_to :p2p_relation_type

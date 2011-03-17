@@ -19,7 +19,7 @@ hu:
     person_to_org_relations: Szervezeti kapcsolatok
     user: Létrehozó
     state: státusz
-    nav_item: Személyek
+    nav_item: Személy
     actions:
       new: Új személy
       edit: adatok és kapcsolatok szerkesztése
@@ -33,11 +33,40 @@ hu:
       heading:
         other: Találatok
 
+  articles:
+    model_name: cikk
+    new:
+      heading: Új cikk
+    index:
+      heading: Cikkek
+    edit:
+      heading: Cikk szerkesztése
+    title: Cím
+    summary: Összefoglaló
+    information_source: Információ forrás 
+    interpersonal_relations: Személyes kapcsolatok
+    person_to_org_relations: Szervezet-személy kapcsolatok
+    interorg_relations: Szervezeti kapcsolatok
+    user: Létrehozó
+    state: státusz
+    nav_item: Cikk
+    actions:
+      new: Új cikk
+      edit: adatok szerkesztése
+      delete: Cikk törlése
+    hints:
+      internet_address: http-vel kell kezdődnie!
+    collection:
+      count: Már %{count} cikk található.
+      heading:
+        other: Találatok
+
   interpersonal_relations:
     model_name: személyek közti kapcsolat
     related_person: Kapcsolódó személy
     p2p_relation_type: Személyes kapcsolat típusa
     litigations: Perek
+    articles: Cikkek
     information_source: Információ forrás 
     hints:
       litigations: kapcsolódó perek, amennyiben vannak
@@ -53,13 +82,14 @@ hu:
     no_end_time: Nincs záródátum
     litigations: Perek
     information_source: Információ forrás 
+    articles: Cikkek
     hints:
       litigations: kapcsolódó perek, amennyiben vannak
       no_end_time: a záró dátum nem értelmezett, amennyiben a kapcsolat jelenleg is fennáll és a lezárás ideje nem ismert
       
   information_sources:
     model_name: információ forrás
-    nav_item: Források
+    nav_item: Forrás
     collection:
       count: Már %{count} információ forrás található.
       heading: Információ források
@@ -119,7 +149,7 @@ hu:
   
   litigations:
     model_name: per
-    nav_item: Perek
+    nav_item: Per
     actions:
       new: Új per
       edit: per leírás szerkesztése
@@ -248,7 +278,7 @@ hu:
     person_to_org_relations: Személyes kapcsolatok
     user: Létrehozó
     state: státusz
-    nav_item: Szervezetek
+    nav_item: Szervezet
     actions:
       new: Új személy
       edit: adatok és kapcsolatok szerkesztése
@@ -271,15 +301,16 @@ hu:
     related_organization: Kapcsolódó szervezet
     o2o_relation_type: Szervezetközi kappcsolat típusa
     litigations: Perek
+    articles: Cikkek
     information_source: Információ forrás 
     hints:
       litigations: kapcsolódó perek, amennyiben vannak
       
   visualize:
-    nav_item: Grafikon
+    nav_item: Háló
 
   settings:
-    nav_item: Beállítások
+    nav_item: Beállítás
 
   users:
     name: név
@@ -292,7 +323,7 @@ hu:
     invitation: meghívó
     index:
       heading: Felhasználók
-    nav_item: "{{model}}"
+    nav_item: Felhasználó
     actions:
       follow: Kövesd
       invite: Őt meghívom!
