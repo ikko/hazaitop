@@ -27,10 +27,17 @@ class PersonToOrgRelation < ActiveRecord::Base
   has_many :litigation_relations, :as => :litigable, :dependent => :destroy
   has_many :litigations, :through => :litigation_relations, :accessible => true
 
-  validates_presence_of :information_source
   validates_presence_of :p2o_relation_type
   # validates_presence_of :o2p_relation_type
   validate :litigation_related
+  validate :source_present
+
+  def source_present
+    if information_source.blank? and articles.epmty?
+      errors.add("Information source or article", "must present.")
+    end
+  end
+
 
   def litigation_related
     unless litigations.blank?
@@ -47,6 +54,7 @@ class PersonToOrgRelation < ActiveRecord::Base
 
   before_save do |r|
     r.visual = r.p2o_relation_type.visual
+    r.information_source_id = r.articles.first.information_source_id if r.information_source.blank?
     r.weight = r.information_source.weight * r.p2o_relation_type.weight
   end
 

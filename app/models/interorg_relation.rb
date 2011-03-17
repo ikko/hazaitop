@@ -25,9 +25,16 @@ class InterorgRelation < ActiveRecord::Base
   has_many :litigations, :through => :litigation_relations, :accessible => true
 
   validates_presence_of :related_organization
-  validates_presence_of :information_source
   validates_presence_of :o2o_relation_type
   validate :litigation_related
+  validate :source_present
+
+  def source_present
+    if information_source.blank? and articles.epmty?
+      errors.add("Information source or article", "must present.")
+    end
+  end
+
 
   def litigation_related
    unless litigations.blank?
@@ -36,6 +43,7 @@ class InterorgRelation < ActiveRecord::Base
   end
 
   before_save do |r|
+    r.information_source_id = r.articles.first.information_source_id if r.information_source.blank?
     r.weight = r.information_source.weight * r.o2o_relation_type.weight
   end
 
