@@ -53,11 +53,12 @@ namespace :fetch do
       articles = Nokogiri::HTML(open("http://www.k-monitor.hu/adatbazis/kereses?page=#{i}"))
       articles.css(".news_list_1").each do |article|
         wlink = article.css("h3 a")[0].attributes['href'].value.split('?')[0]
-        a = Article.find_or_create_by_weblink(wlink) do |r|
+        internet_address = "http://www.k-monitor.hu/" + wlink
+        a = Article.find_or_create_by_internet_address(internet_address) do |r|
           r.summary = article.css(".n_teaser")[0].children[0].text
           r.title = article.css("h3 a")[0].children[0].text
           r.weblink = wlink 
-          r.internet_address = "http://www.k-monitor.hu/" + wlink
+          r.internet_address = internet_address
         end
         tags = []
         article.css(".links a, .links_starred a").each do |link|
