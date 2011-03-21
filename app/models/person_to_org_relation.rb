@@ -33,7 +33,7 @@ class PersonToOrgRelation < ActiveRecord::Base
   validate :source_present
 
   def source_present
-    if information_source.blank? and articles.epmty?
+    if information_source.blank? and articles.empty?
       errors.add("Information source or article", "must present.")
     end
   end

@@ -9,6 +9,18 @@ class PeopleController < ApplicationController
 #  caches_page :show,  :expires_in => 4.minutes
 #  caches_page :index, :expires_in => 4.minutes
 
+  def edit
+    @this = find_instance
+    fill_drop_down
+    fill_local_drop_down
+  end
+
+  def new
+    fill_drop_down
+    fill_local_drop_down
+    hobo_new
+  end
+
   def index
     hobo_index Person.listed, :per_page => 10
   end
@@ -18,4 +30,11 @@ class PeopleController < ApplicationController
       {:label => person.name, :id => person.id}
     }
   end
+
+  private
+
+  def fill_local_drop_down
+    @people_except_this = Person.all-[@this]
+  end
+
 end

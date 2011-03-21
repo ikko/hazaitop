@@ -1,10 +1,12 @@
 #!/bin/bash
 cd `dirname $0`
+
+echo "---------------------------------------------------------------"
 echo "fetch start at" $(date)
 
-# rake fetch:people
-# rake fetch:organizations
-# rake fetch:articles
+rake fetch:people
+rake fetch:organizations
+rake fetch:articles
 
 echo "fetch finished at" $(date)
 cd -

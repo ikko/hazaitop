@@ -5,6 +5,7 @@ class InterorgRelation < ActiveRecord::Base
   fields do
     timestamps
     mirrored     :boolean, :default => false
+    mirror       :boolean, :default => false
     weight       :float
     visual       :boolean, :default => true
   end
@@ -30,7 +31,7 @@ class InterorgRelation < ActiveRecord::Base
   validate :source_present
 
   def source_present
-    if information_source.blank? and articles.epmty?
+    if information_source.blank? and articles.empty?
       errors.add("Information source or article", "must present.")
     end
   end
@@ -62,7 +63,8 @@ class InterorgRelation < ActiveRecord::Base
                               :o2o_relation_type_id => relation_type_id,
                               :information_source_id => r.information_source_id,
                               :visual => visual,
-                              :mirrored => true)
+                              :mirrored => true,
+                              :mirror => true)
       interorg.articles = r.articles
       interorg.litigations = r.litigations
       r.update_attributes :mirrored => true, :interorg_relation_id => interorg.id, :visual => visual
