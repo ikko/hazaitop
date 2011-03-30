@@ -11,6 +11,7 @@ OrgGrade.delete_all
 Activity.delete_all
 PersonGrade.delete_all
 Sector.delete_all
+Article.delete_all
 
 if PersonGrade.count == 0
   PersonGrade.create :name => "politikus"
@@ -170,17 +171,6 @@ if Rails.env == "development"
     User.create :name => "editor", :email_address => "editor@addig.hu", :password => "minek", :password_confirmation => "minek", :editor => true
     User.create :name => "supervisor", :email_address => "supervisor@addig.hu", :password => "minek", :password_confirmation => "minek", :editor => true, :supervisor => true
     User.create :name => "normale", :email_address => "normale@addig.hu", :password => "minek", :password_confirmation => "minek", :editor => false, :administrator => false
-  end
-
-  if Organization.count == 0
-    Organization.create! :name => "szivarvany gyar", :information_source_id => sajat.id, :org_grade_id => org.id
-    Organization.create! :name => "gomba gyar", :information_source_id => sajat.id, :org_grade_id => org.id
-  end
-
-  if Person.count == 0
-    Person.create :first_name => "kokojszi", :last_name => "torpe", :information_source_id => sajat.id
-    Person.create :first_name => "bobojsza", :last_name => "torpe", :information_source_id => sajat.id
-    Person.create :first_name => "miki", :last_name => "móka", :information_source_id => sajat.id
   end
 
 end
