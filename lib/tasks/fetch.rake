@@ -41,17 +41,17 @@ namespace :fetch do
   desc 'fetch article'
   task :articles => :environment do
     info_id = InformationSource.find_by_name('k-monitor.hu').id
-    f_p2p = P2pRelationType.find_by_name('feldolgozás alatt')
-    f_o2o = O2oRelationType.find_by_name('feldolgozás alatt')
-    f_o2p = O2pRelationType.find_by_name('feldolgozás alatt')
-    f_p2o = P2oRelationType.find_by_name('feldolgozás alatt')
+    f_p2p = P2pRelationType.find_by_name('közös sajtó')
+    f_o2o = O2oRelationType.find_by_name('közös sajtó')
+    f_o2p = O2pRelationType.find_by_name('közös sajtó')
+    f_p2o = P2oRelationType.find_by_name('közös sajtó')
     articles = Nokogiri::HTML(open('http://www.k-monitor.hu/adatbazis/kereses'))
 #    (1..articles.css("span.result")[0].children[0].text.to_i / 10 + 1).each do |i|
-    (1..4).each do |i|
-      puts Time.now
+    (1..40).each do |i|
+      puts "fetching page #{i} on k-monitor.hu at " + Time.now.to_s
       articles = Nokogiri::HTML(open("http://www.k-monitor.hu/adatbazis/kereses?page=#{i}"))
       articles.css(".news_list_1").each do |article|
-        wlink = article.css("h3 a")[0].attributes['href'].value.split('?')[0]
+        wlink = article.css("h3 a")[0].attributes['href'].value.split('?')[0] || ""
         internet_address = "http://www.k-monitor.hu/" + wlink
         a = Article.find_or_create_by_internet_address(internet_address) do |r|
           r.summary = article.css(".n_teaser")[0].children[0].text

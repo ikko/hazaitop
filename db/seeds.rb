@@ -62,7 +62,7 @@ if P2pRelationType.count == 0
   P2pRelationType.create( :name => "üzleti partner",      :weight => "9" )
   P2pRelationType.create( :name => "barát",               :weight => "6" )
   P2pRelationType.create( :name => "rokon",               :weight => "11" )
-  f = P2pRelationType.create( :name => "feldolgozás alatt",   :weight => "1" )
+  f = P2pRelationType.create( :name => "közös sajtó",   :weight => "1" )
 
   # kétoldalú nem származtatott személyes kapcsolatok
   a = P2pRelationType.create( :name => "alperes",         :weight => "10", :visual => false, :litig => true )
@@ -75,8 +75,8 @@ if P2pRelationType.count == 0
 
   # intézményi kapcsolatból származtatható személyes kapcsolatok és a forrás intézményi kapcsolatok
   
-  a = P2oRelationType.create(     :name   => "feldolgozás alatt",       :weight => "1", :p2p_relation_type_id => f.id )
-  b = O2pRelationType.create(     :name   => "feldolgozás alatt",       :weight => "1", :p2p_relation_type_id => f.id, :pair_id => a.id  )
+  a = P2oRelationType.create(     :name   => "közös sajtó",       :weight => "1", :p2p_relation_type_id => f.id )
+  b = O2pRelationType.create(     :name   => "közös sajtó",       :weight => "1", :p2p_relation_type_id => f.id, :pair_id => a.id  )
   a.update_attribute :pair_id, b.id
   
   i = P2pRelationType.create( :name => "iskolatárs",      :weight => "3", :internal => true )
@@ -130,7 +130,7 @@ if O2oRelationType.count == 0
 
   # egyszerű intézményközi kapcsolatok
   O2oRelationType.create(     :name => "üzleti partner", :weight => "5" )
-  O2oRelationType.create(     :name => "feldolgozás alatt", :weight => "1" )
+  O2oRelationType.create(     :name => "közös sajtó", :weight => "1" )
 
   # kétoldalú intézményközi kapcsolatok párban
   t = O2oRelationType.create( :name => "anyavállalat",   :weight => "10" )
@@ -155,7 +155,7 @@ end
 if InformationSource.count == 0
 
   # információforrások
-  InformationSource.create( :name => "közbeszerzési értesítő",  :weight => "15" )
+  InformationSource.create( :name => "közbeszerzési értesítő",  :weight => "14" )
   InformationSource.create( :name => "cégbíróság",              :weight => "15" )
   InformationSource.create( :name => "index.hu",                :weight => "11", :web => "http://www.index.hu" )
   InformationSource.create( :name => "k-monitor.hu",            :weight => "08", :web => "http://www.k-monitor.hu" )

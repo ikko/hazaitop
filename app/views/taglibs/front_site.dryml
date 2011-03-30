@@ -90,30 +90,72 @@
   </card>
 </def>
 
-<extend tag="form" for="Article">
-  <old-form merge>
-
-    <field-list: fields="title, summary, internet_address" > 
+<def tag="form" for="Article">
+  <form merge param="default">
+    <error-messages param/>
+    <field-list fields="internet_address, title, summary"/>
+   <if test="&false">
+    <field-list unless="&@this.new_record?" fields="interpersonal_relations, interorg_relations, person_to_org_relations"> 
+      <interorg-relations-view:>
+        <hjq-input-many>
+          <item:>
+            <field-list fields="organization, o2o_relation_type, related_organization, litigations">
+              <o2o-relation-type-view:>
+                <select-one options="&@o2o_types"/>
+              </o2o-relation-type-view:>
+              <organization-view:>
+                <select-one options="&@organizatoins"/>
+              </organization-view:>
+              <related-organization-view:>
+                <select-one options="&@organizations"/>
+              </related-organization-view:>
+            </field-list>
+          </item:>
+        </hjq-input-many>
+      </interorg-relations-view:>
       <interpersonal-relations-view:>
         <hjq-input-many>
           <item:>
-            <field-list fields="related_person, p2p_relation_type, litigations, information_source">
+            <field-list fields="person, p2p_relation_type, related_person, litigations, article_relations">
               <p2p-relation-type-view:>
-                <select-one options="&P2pRelationType.not_internal"/>
+                <select-one options="&@p2p_types"/>
+                <input type="text" name="article[interpersonal_relations][#{ this_parent.new_record? ? 0 : this_parent.id }][information_source_id]" value="&@this.information_source_id" style="display:none" />
+                <input type="text" name="interpersonal_relations[#{ this_parent.new_record? ? 0 : this_parent.id }][article_relations][0][relationable_type]" value="InterpersonalRelation" style="display:none" />
               </p2p-relation-type-view:>
+              <person-view:>
+                <select-one options="&@people"/>
+              </person-view:>
               <related-person-view:>
-                <select-one options="&Person.all-[@this]"/>
+                <select-one options="&@people"/>
               </related-person-view:>
-              <information-source-view:>
-                <select-one options="&InformationSource.not_internal"/> | <a href="&new_information_source_path"  target="_blank"><ht key="custom.new">new</ht></a>
-              </information-source-view:>
             </field-list>
           </item:>
         </hjq-input-many>
       </interpersonal-relations-view:>
-    </field-list>
-  </old-form>
-</extend>
+      <person-to-org-relations-view:>
+        <hjq-input-many>
+          <item:>
+            <field-list fields="person, p2o_relation_type, organization, litigations">
+              <p2o-relation-type-view:>
+                <select-one options="&@p2o_types"/>
+              </p2o-relation-type-view:>
+              <person-view:>
+                <select-one options="&@people"/>
+              </person-view:>
+              <organization-view:>
+                <select-one options="&@organizations"/>
+              </organization-view:>
+            </field-list>
+          </item:>
+        </hjq-input-many>
+      </person-to-org-relations-view:>
+    </field-list>    
+   </if>
+    <div param="actions">
+      <submit label="#{ht 'articles.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
+    </div>
+  </form>
+</def>
 
 
 <def tag="form" for="Person">
@@ -121,7 +163,7 @@
     <error-messages param/>
     <field-list fields="last_name, first_name, person_grades, place_of_birth, born_at, mothers_name, information_source, personal_relations, person_to_org_relations, user" param>
       <information-source-view:>
-        <select-one options="&InformationSource.not_internal"/> | <a href="&new_information_source_path"  target="_blank"><ht key="custom.new">new</ht></a>
+        <select-one options="&@info_sources"/> | <a href="&new_information_source_path"  target="_blank"><ht key="custom.new">new</ht></a>
       </information-source-view:>
       <born-at-view:>
         <input start-year="&Time.now.year-100" end-year="&Time.now.year"/>
@@ -131,16 +173,16 @@
           <item:>
             <field-list fields="organization, p2o_relation_type, start_time, end_time, no_end_time, litigations, articles, information_source">
               <organization-view:>
-                <select-one options="&Organization.all"/>
+                <select-one options="&@organizations"/>
               </organization-view:>
               <information-source-view:>
-                <select-one options="&InformationSource.not_internal"/> | <a href="&new_information_source_path"  target="_blank"><ht key="custom.new">new</ht></a>
+                <select-one options="&@info_sources"/> | <a href="&new_information_source_path"  target="_blank"><ht key="custom.new">new</ht></a>
               </information-source-view:>
               <start-time-view:>
                 <input start-year="&Time.now.year-50" end-year="&Time.now.year"/>
               </start-time-view:>
               <articles-view:>
-                <select-many options="&Article.recent(30)"/> | <a href="&new_article_path"  target="_blank"><ht key="custom.new">new</ht></a>
+                <select-many options="&@recent_articles"/> | <a href="&new_article_path"  target="_blank"><ht key="custom.new">new</ht></a>
               </articles-view:>
               <end-time-view: class="end-time-toggler" style="display:#{this_parent.no_end_time ? ' none;' : ' block;'}">
                 <input start-year="&Time.now.year-50" end-year="&Time.now.year+50"/>
@@ -154,7 +196,7 @@
           <item:>
             <field-list fields="related_person, p2p_relation_type, litigations, articles, information_source">
               <p2p-relation-type-view:>
-                <select-one options="&P2pRelationType.not_internal"/>
+                <select-one options="&@p2p_types"/>
               </p2p-relation-type-view:>
               <related-person-view:>
                 <select-one options="&Person.all-[@this]"/>
@@ -259,7 +301,8 @@
       <h4 param="heading"><a><name/></a></h4>
     </header:>
     <body: param>
-      <view:summary/>
+      <a><view:summary/></a>
+      <i><a><view:created_at/></a></i>
     </body:>
   </card>
 </def>

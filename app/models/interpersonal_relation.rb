@@ -5,6 +5,7 @@ class InterpersonalRelation < ActiveRecord::Base
   fields do
     timestamps
     mirrored     :boolean, :default => false
+    mirror       :boolean, :default => false 
     start_time   :date
     end_time     :date
     no_end_time  :boolean, :default => false
@@ -38,8 +39,12 @@ class InterpersonalRelation < ActiveRecord::Base
   validate :litigation_related
   validate :source_present
 
+  attr_accessor :skip_source_validation, :info_id
+
   def source_present
-    if information_source.blank? and articles.epmty?
+    logger.info "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    logger.info self.inspect
+    if information_source.blank? and articles.empty? and !skip_source_validation
       errors.add("Information source or article", "must present.")
     end
   end
@@ -51,8 +56,13 @@ class InterpersonalRelation < ActiveRecord::Base
   end
 
   before_save do |r|
-    r.information_source_id = r.articles.first.information_source_id if r.information_source.blank?
+    logger.info "%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%"
+    logger.info r.inspect
+    r.information_source_id = (r.info_id ? r.info_id : r.articles.first.information_source_id ) if r.information_source.blank?
+    logger.info r.inspect
+    logger.info r.information_source.try.inspect
     r.weight = r.information_source.weight * r.p2p_relation_type.weight
+    logger.info r.inspect
   end
 
   after_create do |r|
@@ -75,7 +85,8 @@ class InterpersonalRelation < ActiveRecord::Base
                                                 :end_time => r.end_time,
                                                 :no_end_time => r.no_end_time,
                                                 :visual => visual,
-                                                :mirrored => true)
+                                                :mirrored => true,
+                                                :mirror => true)
       interpersonal.articles = r.articles
       interpersonal.litigations = r.litigations
       interpersonal.save
