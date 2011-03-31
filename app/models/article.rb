@@ -5,7 +5,7 @@ class Article < ActiveRecord::Base
   fields do
     title   :text
     summary :text
-    internet_address :string, :required
+    internet_address :string, :required, :unique
     weblink :string
     timestamps
   end
