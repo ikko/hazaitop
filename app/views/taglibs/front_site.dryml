@@ -49,7 +49,7 @@
   </old-page>
 </extend>
 
-<def tag="app-name">K wiw - Hazai Top</def>
+<def tag="app-name">Hazai Top - K wiw</def>
 
 <def tag="main-nav">
   <navigation class="main-nav" merge-attrs param="default">
@@ -69,8 +69,8 @@
       <h4 param="heading"><a><name/></a></h4>
     </header:>
     <body: param>
-      <span if="&this.interorg_relations_count"><strong><view:interorg_relations_count/></strong> szervezeti kapcsolat, </span>
-      <span if="&this.person_to_org_relations_count"><strong><view:person_to_org_relations_count/></strong> személyi kapcsolat</span> <br />
+      <span if="&this.interorg_relations_count"><strong><view:interorg_relations_count/></strong> <ht key="custom.organizational_relationships">Organizational relationships</ht>, </span>
+      <span if="&this.person_to_org_relations_count"><strong><view:person_to_org_relations_count/></strong> <ht key="custom.personal_relationships">Personal relationships</ht></span> <br />
       <strong><view:city/></strong> <view:street/> <br/>
       <view:trade_register_nr/> <view:tax_nr/> <br/>
     </body:>
@@ -84,8 +84,8 @@
     </header:>
     <body: param>
       <view:person_grades if="&this.person_grades"/>
-      <span if="&this.interpersonal_relations_count"><strong><view:interpersonal_relations_count/></strong> személyi kapcsolat, </span>
-      <span if="&this.person_to_org_relations_count"><strong><view:person_to_org_relations_count/></strong> szervezeti kapcsolat</span><br />
+      <span if="&this.interpersonal_relations_count"><strong><view:interpersonal_relations_count/></strong> <ht key="custom.personal_relationships">Personal relationships</ht>, </span>
+      <span if="&this.person_to_org_relations_count"><strong><view:person_to_org_relations_count/></strong> <ht key="custom.organizational_relationships">Organizational relationships</ht></span><br />
     </body:>
   </card>
 </def>
