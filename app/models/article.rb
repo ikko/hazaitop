@@ -10,6 +10,8 @@ class Article < ActiveRecord::Base
     timestamps
   end
 
+  default_scope :order => 'updated_at DESC'
+
   belongs_to :information_source
 
   has_many :article_relations
