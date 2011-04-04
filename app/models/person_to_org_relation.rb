@@ -77,56 +77,57 @@ class PersonToOrgRelation < ActiveRecord::Base
         end
         if potential_relations
           potential_relations.each do |pot|
-            weight = (information_source.weight + pot.information_source.weight) / 2.0
-            # nézzük meg, hogy a kalkulátorban rögzítve van-e a két kapcsolattipus (irányított!)
-            relation_type_id = InterpersonalRelationCalculator.find_by_p2o_relation_type_id(pot.p2o_relation_type_id)._?.p2p_relation_type_id
-            if !relation_type_id
-              # ha megegyezik a két kapcsolat, akkor default-oljunk, a p2p kapcsolattipusukra
-              if p2o_relation_type_id == pot.p2o_relation_type_id
-                relation_type_id = p2o_relation_type.p2p_relation_type_id
-              else
-                # ha nincs info, akkor csak azt rögzítjük, hogy közös intézménynél szerepelnek
-                relation_type_id = P2pRelationType.find_or_create_by_internal(true, {
-                                    :name => "közös intézményi kapcsolat", :weight => 5, :internal => true }).id
+            if person_id != pot.person_id # saját kapcsolatokat nem veszünk fel
+              weight = (information_source.weight + pot.information_source.weight) / 2.0
+              # nézzük meg, hogy a kalkulátorban rögzítve van-e a két kapcsolattipus (irányított!)
+              relation_type_id = InterpersonalRelationCalculator.find_by_p2o_relation_type_id(pot.p2o_relation_type_id)._?.p2p_relation_type_id
+              if !relation_type_id
+                # ha megegyezik a két kapcsolat, akkor default-oljunk, a p2p kapcsolattipusukra
+                if p2o_relation_type_id == pot.p2o_relation_type_id
+                  relation_type_id = p2o_relation_type.p2p_relation_type_id
+                else
+                  # ha nincs info, akkor csak azt rögzítjük, hogy közös intézménynél szerepelnek
+                  relation_type_id = P2pRelationType.find(:first, :conditions => {:name => "közös intézményi kapcsolat", :internal => true }).id
+                end
               end
-            end
-            if start_time <= pot.start_time
-              calculated_start_time = pot.start_time
-            else
-              calculated_start_time = start_time
-            end
-            calculated_no_end_time = false
-            if no_end_time and !pot.no_end_time
-              calculated_end_time = pot.end_time
-            elsif pot.no_end_time and !no_end_time
-              calculated_end_time = end_time
-            elsif no_end_time and pot.no_end_time
-              calculated_end_time = nil
-              calculated_no_end_time = true
-            else
-              if end_time <= pot.end_time
-                calculated_end_time = end_time
+              if start_time <= pot.start_time
+                calculated_start_time = pot.start_time
               else
+                calculated_start_time = start_time
+              end
+              calculated_no_end_time = false
+              if no_end_time and !pot.no_end_time
                 calculated_end_time = pot.end_time
+              elsif pot.no_end_time and !no_end_time
+                calculated_end_time = end_time
+              elsif no_end_time and pot.no_end_time
+                calculated_end_time = nil
+                calculated_no_end_time = true
+              else
+                if end_time <= pot.end_time
+                  calculated_end_time = end_time
+                else
+                  calculated_end_time = pot.end_time
+                end
               end
+              info = InformationSource.find :first, :conditions => { :internal => true, :weight => weight }
+              info = InformationSource.create!(:internal => true, :weight => weight, :name => "system", :web => 'http://hazaitop.addig.hu' ) if !info
+              interpersonal = InterpersonalRelation.new(:p2p_relation_type_id => relation_type_id,
+                                                        :person_id => person_id,
+                                                        :related_person_id => pot.person_id,
+                                                        :information_source_id => info.id,
+                                                        :person_to_org_relation_id => id,
+                                                        :other_person_to_org_relation_id => pot.id,
+                                                        :organization_id => organization_id,
+                                                        :start_time => calculated_start_time,
+                                                        :end_time => calculated_end_time,
+                                                        :no_end_time => calculated_no_end_time,
+                                                        :visual => p2o_relation_type.visual,
+                                                        :internal => true)
+              interpersonal.articles = articles
+              interpersonal.litigations = self.litigations
+              interpersonal.save
             end
-            info = InformationSource.find :first, :conditions => { :internal => true, :weight => weight }
-            info = InformationSource.create!(:internal => true, :weight => weight, :name => "system", :web => 'http://hazaitop.addig.hu' ) if !info
-            interpersonal = InterpersonalRelation.new(:p2p_relation_type_id => relation_type_id,
-                                                      :person_id => person_id,
-                                                      :related_person_id => pot.person_id,
-                                                      :information_source_id => info.id,
-                                                      :person_to_org_relation_id => id,
-                                                      :other_person_to_org_relation_id => pot.id,
-                                                      :organization_id => organization_id,
-                                                      :start_time => calculated_start_time,
-                                                      :end_time => calculated_end_time,
-                                                      :no_end_time => calculated_no_end_time,
-                                                      :visual => p2o_relation_type.visual,
-                                                      :internal => true)
-            interpersonal.articles = articles
-            interpersonal.litigations = self.litigations
-            interpersonal.save
           end
         end
       end
