@@ -111,7 +111,7 @@ class PersonToOrgRelation < ActiveRecord::Base
               end
             end
             info = InformationSource.find :first, :conditions => { :internal => true, :weight => weight }
-            info = InformationSource.create!(:internal => true, :weight => weight, :name => "system" ) if !info
+            info = InformationSource.create!(:internal => true, :weight => weight, :name => "system", :web => 'http://hazaitop.addig.hu' ) if !info
             interpersonal = InterpersonalRelation.new(:p2p_relation_type_id => relation_type_id,
                                                       :person_id => person_id,
                                                       :related_person_id => pot.person_id,
