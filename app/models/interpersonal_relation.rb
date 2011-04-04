@@ -42,8 +42,6 @@ class InterpersonalRelation < ActiveRecord::Base
   attr_accessor :skip_source_validation, :info_id
 
   def source_present
-    logger.info "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
-    logger.info self.inspect
     if information_source.blank? and articles.empty? and !skip_source_validation
       errors.add("Information source or article", "must present.")
     end
@@ -56,13 +54,8 @@ class InterpersonalRelation < ActiveRecord::Base
   end
 
   before_save do |r|
-    logger.info "%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%"
-    logger.info r.inspect
     r.information_source_id = (r.info_id ? r.info_id : r.articles.first.information_source_id ) if r.information_source.blank?
-    logger.info r.inspect
-    logger.info r.information_source.try.inspect
     r.weight = r.information_source.weight * r.p2p_relation_type.weight
-    logger.info r.inspect
   end
 
   after_create do |r|
@@ -86,7 +79,9 @@ class InterpersonalRelation < ActiveRecord::Base
                                                 :no_end_time => r.no_end_time,
                                                 :visual => visual,
                                                 :mirrored => true,
-                                                :mirror => true)
+                                                :mirror => true,
+                                                :internal => r.internal
+                                               )
       interpersonal.articles = r.articles
       interpersonal.litigations = r.litigations
       interpersonal.save

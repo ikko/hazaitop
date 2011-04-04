@@ -104,10 +104,12 @@
                 <select-one options="&@o2o_types"/>
               </o2o-relation-type-view:>
               <organization-view:>
-                <select-one options="&@organizatoins"/>
+                <name-one /> 
+                <!--select-one options="&@organizatoins"/-->
               </organization-view:>
               <related-organization-view:>
-                <select-one options="&@organizations"/>
+                <name-one />
+                <!--select-one options="&@organizations"/-->
               </related-organization-view:>
             </field-list>
           </item:>
@@ -123,10 +125,12 @@
                 <input type="text" name="interpersonal_relations[#{ this_parent.new_record? ? 0 : this_parent.id }][article_relations][0][relationable_type]" value="InterpersonalRelation" style="display:none" />
               </p2p-relation-type-view:>
               <person-view:>
-                <select-one options="&@people"/>
+                <name-one />
+                <!--select-one options="&@people"/-->
               </person-view:>
               <related-person-view:>
-                <select-one options="&@people"/>
+                <name-one />
+                <!--select-one options="&@people"/-->
               </related-person-view:>
             </field-list>
           </item:>
@@ -140,10 +144,12 @@
                 <select-one options="&@p2o_types"/>
               </p2o-relation-type-view:>
               <person-view:>
-                <select-one options="&@people"/>
+                <name-one />
+                <!--select-one options="&@people"/-->
               </person-view:>
               <organization-view:>
-                <select-one options="&@organizations"/>
+                <name-one />
+                <!--select-one options="&@organizations"/-->
               </organization-view:>
             </field-list>
           </item:>

@@ -13,7 +13,6 @@ PersonGrade.delete_all
 Sector.delete_all
 Article.delete_all
 
-P2pRelationType.create(:name => "közös intézményi kapcsolat", :internal => true)
 
 if PersonGrade.count == 0
   PersonGrade.create :name => "politikus"
@@ -59,6 +58,8 @@ if Sector.count == 0
 end
 
 if P2pRelationType.count == 0
+
+  P2pRelationType.create(:name => "közös intézményi kapcsolat", :internal => true)
 
   # egyszerű személyes kapcsolatok
   P2pRelationType.create( :name => "üzleti partner",      :weight => "9" )
