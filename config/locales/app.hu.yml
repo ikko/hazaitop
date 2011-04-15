@@ -452,7 +452,7 @@ hu:
     abbr_day_names: [Vas, Hét, Ked, Sze, Csü, Pén, Szo]
 
     # Don't forget the nil at the beginning; there's no such thing as a 0th month
-    month_names: [~, január, február, március, április, május, június, augusztus, szeptember, október, november, december]
+    month_names: [~, január, február, március, április, május, június, július, augusztus, szeptember, október, november, december]
     abbr_month_names: [~, jan, feb, már, ápr, máj, jún, júl, aug, sze, okt, nov, dec]
     # Used in date_select and datetime_select.
     order:
