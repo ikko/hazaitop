@@ -1,18 +1,6 @@
 # This file should contain all the record creation needed to seed the database with its default values.
 # The data can then be loaded with the rake db:seed (or created alongside the db with db:setup or cap:deploy:db).
 
-P2oRelationType.delete_all
-P2pRelationType.delete_all
-O2oRelationType.delete_all
-Person.delete_all
-InformationSource.delete_all
-Organization.delete_all
-OrgGrade.delete_all
-Activity.delete_all
-PersonGrade.delete_all
-Sector.delete_all
-Article.delete_all
-
 
 if PersonGrade.count == 0
   PersonGrade.create :name => "politikus"
@@ -182,10 +170,7 @@ end
 if Rails.env == "production"
 
   if User.count == 0
-    User.create :name => "Béky Miklós", :email_address => "miklos.beky@gmail.com", :password => "asdf1234", :password_confirmation => "mitminek", :editor => false, :administrator => true, :state => "active"
-    User.create :name => "Komzák Nándor", :email_address => "nandor.komzak@gmail.com", :password => "asdf1234", :password_confirmation => "mitminek", :editor => false, :administrator => true, :state => "active"
-    User.create :name => "Léderer Sándor", :email_address => "lederer@k-monitor.hu", :password => "probababa", :password_confirmation => "probababa", :editor => true, :supervisor => true, :state => "active"
-    User.create :name => "Keserű Júlia", :email_address => "keseru.julia@k-monitor.hu", :password => "probababa", :password_confirmation => "probababa", :editor => true, :supervisor => true, :state => "active"
+#    User.create :name => "adminuser", :email_address => "adminuser@addig.hu", :password => "mitminek", :password_confirmation => "mitminek", :editor => false, :administrator => true, :state => "active"
   end
 
 

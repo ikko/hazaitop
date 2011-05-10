@@ -6,3 +6,4 @@ tmp/*
 log
 app/views/taglibs/auto
 public/cache
+db/*.sqlite3
