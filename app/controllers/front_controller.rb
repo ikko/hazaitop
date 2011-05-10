@@ -12,11 +12,7 @@ class FrontController < ApplicationController
 
   def development; end
 
-  def summary
-    if !(current_user.administrator? or current_user.supervisor?)
-      redirect_to user_login_path
-    end
-  end
+  def summary ; end
 
   def search               
     if params[:query]      
