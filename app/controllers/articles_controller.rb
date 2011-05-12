@@ -14,4 +14,14 @@ class ArticlesController < ApplicationController
     fill_drop_down
   end
 
+  def show
+    @this = find_instance
+    respond_to do |format| 
+      format.html  { hobo_show @this }
+      format.xml   { render(:xml => @this) }
+      format.json  { render(:json=> @this) }
+    end
+  end
+
+
 end

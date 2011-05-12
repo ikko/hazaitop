@@ -22,7 +22,21 @@ class PeopleController < ApplicationController
   end
 
   def index
-    hobo_index Person.listed, :per_page => 10
+    @this = Person.listed
+    respond_to do |format| 
+      format.html  { hobo_index ( @this, :per_page => 10 ) }
+      format.xml   { render( :xml => @this ) and return }
+      format.json  { render( :xml => @this ) and return }
+    end
+  end
+
+  def show
+    @this = find_instance
+    respond_to do |format| 
+      format.html  { hobo_show @this }
+      format.xml   { render(:xml => @this) }
+      format.json  { render(:json=> @this) }
+    end
   end
 
   index_action :query do

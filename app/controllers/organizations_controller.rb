@@ -10,9 +10,22 @@ class OrganizationsController < ApplicationController
 #  caches_page :index, :expires_in => 4.minutes
 
   def index
-    hobo_index Organization.listed, :per_page => 10
+    @this = Organization.listed
+    respond_to do |format| 
+      format.html  { hobo_index ( @this, :per_page => 10 ) }
+      format.xml   { render( :xml => @this ) and return }
+      format.json  { render( :xml => @this ) and return }
+    end
   end
 
+  def show
+    @this = find_instance
+    respond_to do |format| 
+      format.html  { hobo_show @this }
+      format.xml   { render(:xml => @this) }
+      format.json  { render(:json=> @this) }
+    end
+  end
 
   index_action :query do
     render :json => Organization.name_contains(params[:term]).order_by(:name).limit(100).all(:select=>'id, name').map {|org|
