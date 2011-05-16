@@ -13,8 +13,8 @@ class OrganizationsController < ApplicationController
     @this = Organization.listed
     respond_to do |format| 
       format.html  { hobo_index( @this, :per_page => 10 ) }
-      format.xml   { render( :xml => @this ) and return }
-      format.json  { render( :xml => @this ) and return }
+      format.xml   { render( :xml  => @this ) and return }
+      format.json  { render( :json => @this ) and return }
     end
   end
 

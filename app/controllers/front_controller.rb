@@ -14,6 +14,8 @@ class FrontController < ApplicationController
 
   def summary ; end
 
+  def api ; end
+
   def search               
     if params[:query]      
       site_search(params[:query])

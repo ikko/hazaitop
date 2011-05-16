@@ -62,6 +62,7 @@
     <nav-item with="&Article"><ht key="articles.nav_item">Articles</ht></nav-item>
     <nav-item with="&Litigation"><ht key="litigations.nav_item">Litigations</ht></nav-item>
     <nav-item href="/site_search"><ht key="visualize.nav_item">Visualize</ht></nav-item>
+    <nav-item href="/front/api"><ht key="api.nav_item">API</ht></nav-item>
     <nav-item if="&current_user.administrator? or current_user.editor?" with="&InformationSource"><ht key="information_sources.nav_item">Sources</ht></nav-item>
     <nav-item if="&current_user.administrator? or current_user.editor?" href="#{base_url}/settings"><ht key="settings.nav_item">Settings</ht></nav-item>
   </navigation>
