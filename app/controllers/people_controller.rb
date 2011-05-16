@@ -34,8 +34,8 @@ class PeopleController < ApplicationController
     @this = find_instance
     respond_to do |format| 
       format.html  { hobo_show @this }
-      format.xml   { render(:xml => @this) }
-      format.json  { render(:json=> @this) }
+       format.xml  { render( :xml => { "data" =>  @this, "interpersonal_relations" => @this.interpersonal_relations, "person_to_org_relations" => @this.person_to_org_relations }  ) }
+      format.json  { render( :json => { "data"=>  @this, "interpersonal_relations"  => @this.interpersonal_relations, "person_to_org_relations" => @this.person_to_org_relations } ) }
     end
   end
 

@@ -4,11 +4,11 @@
 
   <content:>
     <header class="content-header">
-      <h1><ht key="api.title">Basic Data API</ht></h1>
+      <h1><ht key="api.title">Data API</ht></h1>
       <section>
 
         <br/><h4> You can get all people in json like this </h4>
-        Az összes személy lekérdehető json formátumban így: <br/>
+        Az összes személy lekérdezhető json formátumban így: <br/>
         <a target="_blank" href="http://hazaitop.addigaddig.hu/people.json">http://hazaitop.addigaddig.hu/people.json</a><br/>
 
         <h4> and all orgs like this </h4>
@@ -16,7 +16,7 @@
         <a target="_blank" href="http://hazaitop.addigaddig.hu/organizations.json">http://hazaitop.addigaddig.hu/organizations.json</a> <br/>
 
         <h4> you can ask for one this way </h4>
-        egy személy vagy szervezet adatai így kérdezhetők le <br/>
+        egy személy vagy szervezet adatai így érhetők el <br/>
         <a target="_blank" href="http://hazaitop.addigaddig.hu/organizations/1.json">http://hazaitop.addigaddig.hu/organizations/1.json</a> <br/>
         <a target="_blank" href="http://hazaitop.addigaddig.hu/people/1.json">http://hazaitop.addigaddig.hu/people/1.json</a> <br/>
 
@@ -30,7 +30,7 @@
 
         <h4> for xml fans that works also everywhere </h4>
         xml barátok számára a kiterjesztés megváltoztatásával mindenhol átállítható az adatformátum <br/>
-        <a target="_blank" href="http://hazaitop.addigaddig.hu/information_sources/2.xml">http://hazaitop.addigaddig.hu/information_sources/2.xml</a> <br/>
+        <a target="_blank" href="http://hazaitop.addigaddig.hu/information_sources/2.xml">http://hazaitop.addigaddig.hu/information_sources/2.xml</a>.<br/>
        
         <br/>
         <h4> A jobb érthetőség kedvéért érdemes tanulmányozni a <a target="_blank" href="/front/summary">szoftver architektúrát</a> vagy a <a target="_blank" href="http://github.com/ikko/hazaitop">forráskódot</a>.</h4>
