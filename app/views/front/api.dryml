@@ -9,16 +9,16 @@
 
         <br/><h4> You can get all people in json like this </h4>
         Az összes személy lekérdezhető json formátumban így: <br/>
-        <a target="_blank" href="http://hazaitop.addigaddig.hu/people.json">http://hazaitop.addigaddig.hu/people.json</a><br/>
+        <a target="_blank" href="http://hazaitop.addig.hu/people.json">http://hazaitop.addig.hu/people.json</a><br/>
 
         <h4> and all orgs like this </h4>
         az összes szervezet pedig így <br/>
-        <a target="_blank" href="http://hazaitop.addigaddig.hu/organizations.json">http://hazaitop.addigaddig.hu/organizations.json</a> <br/>
+        <a target="_blank" href="http://hazaitop.addig.hu/organizations.json">http://hazaitop.addig.hu/organizations.json</a> <br/>
 
         <h4> you can ask for one this way </h4>
         egy személy vagy szervezet adatai így érhetők el <br/>
-        <a target="_blank" href="http://hazaitop.addigaddig.hu/organizations/1.json">http://hazaitop.addigaddig.hu/organizations/1.json</a> <br/>
-        <a target="_blank" href="http://hazaitop.addigaddig.hu/people/1.json">http://hazaitop.addigaddig.hu/people/1.json</a> <br/>
+        <a target="_blank" href="http://hazaitop.addig.hu/organizations/1.json">http://hazaitop.addig.hu/organizations/1.json</a> <br/>
+        <a target="_blank" href="http://hazaitop.addig.hu/people/1.json">http://hazaitop.addig.hu/people/1.json</a> <br/>
 
         <h4> and now when you see something like this in the data (ending with an "_id") </h4>
         és ha az adatban ehhez hasonló, "_id" végződésű mező található<br/>
@@ -26,11 +26,11 @@
 
         <h4> you are most likely able to query that too </h4>
         az jellemzően lekérdezhető így <br/>
-        <a target="_blank" href="http://hazaitop.addigaddig.hu/information_sources/2.json">http://hazaitop.addigaddig.hu/information_sources/2.json</a> <br/>
+        <a target="_blank" href="http://hazaitop.addig.hu/information_sources/2.json">http://hazaitop.addig.hu/information_sources/2.json</a> <br/>
 
         <h4> for xml fans that works also everywhere </h4>
         xml barátok számára a kiterjesztés megváltoztatásával mindenhol átállítható az adatformátum <br/>
-        <a target="_blank" href="http://hazaitop.addigaddig.hu/information_sources/2.xml">http://hazaitop.addigaddig.hu/information_sources/2.xml</a>.<br/>
+        <a target="_blank" href="http://hazaitop.addig.hu/information_sources/2.xml">http://hazaitop.addig.hu/information_sources/2.xml</a>.<br/>
        
         <br/>
         <h4> A jobb érthetőség kedvéért érdemes tanulmányozni a <a target="_blank" href="/front/summary">szoftver architektúrát</a> vagy a <a target="_blank" href="http://github.com/ikko/hazaitop">forráskódot</a>.</h4>
