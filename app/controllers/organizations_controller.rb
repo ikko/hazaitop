@@ -9,6 +9,12 @@ class OrganizationsController < ApplicationController
 #  caches_page :show,  :expires_in => 4.minutes
 #  caches_page :index, :expires_in => 4.minutes
 
+  def update
+    hobo_update do
+      OrgHistory.create( :user_id => current_user.id, :organization_id => @this.id ) if @this.valid?
+    end
+  end
+
   def index
     @this = Organization.listed
     respond_to do |format| 

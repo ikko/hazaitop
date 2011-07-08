@@ -55,6 +55,7 @@ class Person < ActiveRecord::Base
   # named_scope :listed, :order => "updated_at DESC"
   named_scope :listed, :order => "interpersonal_relations_count DESC" #, :conditions => "interpersonal_relations_count > 0 or person_to_org_relations_count > 0" 
  
+  has_many :person_histories
 
   # --- Permissions --- #
 

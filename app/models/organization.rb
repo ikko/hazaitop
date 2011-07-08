@@ -59,7 +59,7 @@ class Organization < ActiveRecord::Base
 
   named_scope :list, :limit => 15, :order => "interorg_relations_count DESC" 
   named_scope :listed, :order => "person_to_org_relations_count DESC" #, :conditions => "interorg_relations_count > 0 or person_to_org_relations_count > 0" 
-
+  has_many :org_histories
   # --- Permissions --- #
 
   def create_permitted?

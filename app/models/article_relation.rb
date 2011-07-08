@@ -27,7 +27,7 @@ class ArticleRelation < ActiveRecord::Base
   end
 
   def destroy_permitted?
-    acting_user.administrator? || acting_user.supervisor? || cting_user.editor?
+    acting_user.administrator? || acting_user.supervisor? || acting_user.editor?
   end
 
   def view_permitted?(field)

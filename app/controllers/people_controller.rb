@@ -9,6 +9,12 @@ class PeopleController < ApplicationController
 #  caches_page :show,  :expires_in => 4.minutes
 #  caches_page :index, :expires_in => 4.minutes
 
+  def update
+    hobo_update do
+      PersonHistory.create( :user_id => current_user.id, :person_id => @this.id ) if @this.valid?
+    end
+  end
+
   def edit
     @this = find_instance
     fill_drop_down

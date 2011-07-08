@@ -28,5 +28,9 @@
         <ht if="&this_parent.no_end_time" key="custom.ongoing">ongoing</ht>
       </end-time-view:>
     </table-plus:person_to_org_relations>
+    <if test="&current_user.signed_up? and @this.org_histories.count > 0">
+      <h3 class="save_history">Save History</h3>
+      <table-plus with="&@this.org_histories" fields="user, updated_at" without-search-form/>
+    </if>
   </append-content-body:>
 </show-page>
