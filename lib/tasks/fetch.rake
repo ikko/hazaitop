@@ -13,7 +13,7 @@ namespace :fetch do
     dl =  Nokogiri::HTML(open('http://www.kozbeszerzes.hu/' + ertesito.css('a.attach').last['href']))    
     dl.css('a').last['href']
     a = dl.css('a').last['href'].split('/').last.match(/\d+/).to_s
-    filepath = dl.css('a').last['href'].split('/')[0..-2].join('/') + "/KÉ20#{a}%20teljes_alairt.pdf.pdf"
+    filepath = dl.css('a').last['href'].split('/')[0..-2].join('/') + "/KÉ%20#{a}%20teljes_alairt.pdf.pdf"
     system "cd #{Rails.root + 'tmp'} && wget #{filepath}"
     puts 'lofa'
   end
