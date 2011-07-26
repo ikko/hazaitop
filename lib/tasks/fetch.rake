@@ -7,14 +7,30 @@ namespace :fetch do
 
     require 'pdftohtmlr'
     include PDFToHTMLR
-#    file = PdfFilePath.new([Path to Source PDF])
     lapid = 326224
-    ertesito = Nokogiri::HTML(open("http://www.kozbeszerzes.hu/lid/ertesito/pid/0/ertesitoProperties?objectID=Lapszam.portal_#{ lapid }"))
-    dl =  Nokogiri::HTML(open('http://www.kozbeszerzes.hu/' + ertesito.css('a.attach').last['href']))    
-    dl.css('a').last['href']
-    a = dl.css('a').last['href'].split('/').last.match(/\d+/).to_s
-    filepath = dl.css('a').last['href'].split('/')[0..-2].join('/') + "/KÉ%20#{a}%20teljes_alairt.pdf.pdf"
-    system "cd #{Rails.root + 'tmp'} && wget #{filepath}"
+#    ertesito = Nokogiri::HTML(open("http://www.kozbeszerzes.hu/lid/ertesito/pid/0/ertesitoProperties?objectID=Lapszam.portal_#{ lapid }"))
+#    dl =  Nokogiri::HTML(open('http://www.kozbeszerzes.hu/' + ertesito.css('a.attach').last['href']))    
+#    dl.css('a').last['href']
+#    a = "085" # dl.css('a').last['href'].split('/').last.match(/\d+/).to_s
+#    filepath = dl.css('a').last['href'].split('/')[0..-2].join('/') + "/KÉ%20#{a}%20teljes_alairt.pdf.pdf"
+#    system "cd #{Rails.root + 'tmp'} && wget -O #{lapid}.pdf #{filepath}"
+    puts "prepare..."
+    puts Rails.root.to_s + "/tmp/#{ lapid }.pdf"
+    pdf = PdfFilePath.new(Rails.root.to_s + "/tmp/#{ lapid }.pdf")
+    xml = pdf.convert_to_xml
+    lines = []
+    xml.each_line do |line|
+      if line[0..9] == '<text top='
+        lines << Nokogiri::HTML(line).text
+      end
+    end
+    lines.each_with_index do |v, i|
+      if v == "tájékoztató"
+        if lines[i + 1] == "az eljárás eredményéről"
+          puts lines[i + 8]
+        end
+      end
+    end
     puts 'lofa'
   end
 
