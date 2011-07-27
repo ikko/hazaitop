@@ -18,19 +18,112 @@ namespace :fetch do
     puts Rails.root.to_s + "/tmp/#{ lapid }.pdf"
     pdf = PdfFilePath.new(Rails.root.to_s + "/tmp/#{ lapid }.pdf")
     xml = pdf.convert_to_xml
-    lines = []
-    xml.each_line do |line|
-      if line[0..9] == '<text top='
-        lines << Nokogiri::HTML(line).text
-      end
-    end
-    lines.each_with_index do |v, i|
-      if v == "tájékoztató"
-        if lines[i + 1] == "az eljárás eredményéről"
-          puts lines[i + 8]
+    LMAX = 2000
+    @lines = []
+    def look( what, where )
+      for i in 1..LMAX do 
+        if @lines[ where + i ] == what
+          return @lines[ where + i + 1 ]
         end
       end
     end
+    
+    def look_between( this, that, where )
+      result = ''
+      counter = 1
+      for i in 1..LMAX do 
+        if @lines[ where + i ] == this
+          while @lines[ where + i + counter] != that do
+            result << @lines[ where + i + counter]
+            result << "\n"
+            counter += 1
+          end
+          return result
+        end
+      end
+    end
+
+    def look_x_before_between( this, that, where )
+      result  = []
+      counter = 1
+      for i in 1..LMAX do 
+        if @lines[ where + i ][0..this.size-1] == this
+          while @lines[ where + i + counter ][0..that.size-1] != that do
+            if @lines[ where + i + counter ] == 'x'
+              result << @lines[ where + i + counter + 1 ]
+            end
+            counter += 1
+            break if counter > LMAX
+          end
+          return result
+        end
+      end
+    end
+
+    def look_x_after_between( this, that, where )
+      result  = []
+      counter = 1
+      for i in 1..LMAX do 
+#        puts "scanning... #{where + i} ::: #{@lines[where + i]}"
+        if @lines[ where + i ][0..this.size-1] == this
+#          puts "benn: #{where + i} ::: #{@lines[where + i]}"
+          while @lines[ where + i + counter ][0..that.size-1] != that do
+#            puts "alatta: #{ where + i + counter} ::: #{@lines[where + i + counter]}"
+            if @lines[ where + i + counter ] == 'x'
+#              puts "iksz: #{ where + i + counter -1} ::: #{@lines[where + i + counter -1]}"
+              result << @lines[ where + i + counter - 1 ]
+            end
+            counter += 1
+            break if counter > LMAX
+          end
+          return result
+        end
+      end
+    end
+
+    file = File.new( Rails.root.to_s + "/tmp/#{lapid}.xml", 'w' )
+    xml.each_line do |line|
+      if line[0..9] == '<text top='
+        @lines << Nokogiri::HTML(line).text.strip
+        file.write( Nokogiri::HTML(line).text )
+        file.write "\n"
+      end
+    end
+    @lines.each_with_index do |v, i|
+      if v == "tájékoztató"
+        if @lines[i + 1] == "az eljárás eredményéről"
+          puts '======================================='
+          puts @lines[i + 8]
+          puts '======================================='
+          puts look("Hivatalos név:", i)
+          puts look("Postai cím:", i)
+          puts look("Város/Község:", i)
+          puts look("Postai irányítószám:", i)
+          puts look("Telefon:", i)
+          puts look("E-mail:", i)
+          puts look("Fax:",    i)
+          puts look("Az ajánlatkérő általános címe (URL):", i)
+          # az ajánlatkérő típusa
+          puts look_x_after_between(  "I.2.) Az ajánlatkérő típusa",
+                                      "I.3", i).inspect
+          # az ajánlatkérő tevékenységi köre
+          puts look_x_before_between( "I.3",
+                                      "Az ajánlatkérő más ajánlatkérők nevében folytatja-e le a közbeszerzési eljárást?", i).inspect
+          puts "::ELNEVEZÉS"
+          puts look_between("II.1.1) Az ajánlatkérő által a szerződéshez rendelt elnevezés",
+                            "II.1.2) A szerződés típusa, valamint a teljesítés helye ( Csak azt a kategóriát válassza – építési beruházás,", i)
+          puts "::TÁRGY, MENNYISÉG"
+         puts look_between("II.1.5) A szerződés vagy a közbeszerzés(ek) tárgya, mennyisége",
+                            "II.1.6) Közös Közbeszerzési Szójegyzék (CPV)", i)
+
+        
+        
+        
+        
+        end
+      end
+    end
+    file.close
     puts 'lofa'
   end
 
