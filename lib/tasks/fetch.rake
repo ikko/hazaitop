@@ -50,7 +50,12 @@ namespace :fetch do
         if @lines[ where + i ][0..this.size-1] == this
           while @lines[ where + i + counter ][0..that.size-1] != that do
             if @lines[ where + i + counter ] == 'x'
-              result << @lines[ where + i + counter + 1 ]
+              if @lines[ where + i + counter + 1 ] ==  "Egyéb (nevezze meg):"
+                lin = @lines[ where + i + counter + 2 ]
+              else
+                lin = @lines[ where + i + counter + 1 ]
+              end
+              result << lin
             end
             counter += 1
             break if counter > LMAX
@@ -71,7 +76,12 @@ namespace :fetch do
 #            puts "alatta: #{ where + i + counter} ::: #{@lines[where + i + counter]}"
             if @lines[ where + i + counter ] == 'x'
 #              puts "iksz: #{ where + i + counter -1} ::: #{@lines[where + i + counter -1]}"
-              result << @lines[ where + i + counter - 1 ]
+              if @lines[ where + i + counter - 1 ] == "Egyéb (nevezze meg):"
+                lin = @lines[ where + i + counter + 1 ]
+              else
+                lin = @lines[ where + i + counter - 1 ]
+              end
+              result << lin 
             end
             counter += 1
             break if counter > LMAX
@@ -81,6 +91,24 @@ namespace :fetch do
       end
     end
 
+    def look_cpv_between( this, that, where )
+      result  = []
+      counter = 1
+      for i in 1..LMAX do 
+        if @lines[ where + i ][0..this.size-1] == this
+          while @lines[ where + i + counter ][0..that.size-1] != that do
+            if @lines[ where + i + counter ].match(/\d{8,8}/)
+              result << @lines[ where + i + counter ]
+            end
+            counter += 1
+            break if counter > LMAX
+          end
+          return result
+        end
+      end
+    end
+
+    # parsing starts here
     file = File.new( Rails.root.to_s + "/tmp/#{lapid}.xml", 'w' )
     xml.each_line do |line|
       if line[0..9] == '<text top='
@@ -107,14 +135,28 @@ namespace :fetch do
           puts look_x_after_between(  "I.2.) Az ajánlatkérő típusa",
                                       "I.3", i).inspect
           # az ajánlatkérő tevékenységi köre
-          puts look_x_before_between( "I.3",
-                                      "Az ajánlatkérő más ajánlatkérők nevében folytatja-e le a közbeszerzési eljárást?", i).inspect
+          puts a = look_x_before_between( "I.3",
+                                          "Az ajánlatkérő más ajánlatkérők nevében folytatja-e le a közbeszerzési eljárást?", i).inspect
+          
           puts "::ELNEVEZÉS"
           puts look_between("II.1.1) Az ajánlatkérő által a szerződéshez rendelt elnevezés",
                             "II.1.2) A szerződés típusa, valamint a teljesítés helye ( Csak azt a kategóriát válassza – építési beruházás,", i)
           puts "::TÁRGY, MENNYISÉG"
-         puts look_between("II.1.5) A szerződés vagy a közbeszerzés(ek) tárgya, mennyisége",
+          puts look_between("II.1.5) A szerződés vagy a közbeszerzés(ek) tárgya, mennyisége",
                             "II.1.6) Közös Közbeszerzési Szójegyzék (CPV)", i)
+          puts look_x_before_between("II.1.2) A szerződés típusa, valamint a teljesítés helye", "NUTS-kód", i).inspect
+          puts look("NUTS-kód", i)
+
+          # keretszerzodés?
+          puts look_x_after_between("II.1.3) A hirdetmény a következők valamelyikével kapcsolatos",
+                                    "II.1.4) A szerződés vagy a közbeszerzés(ek) tárgya, mennyisége", i).inspect
+
+
+          puts look_cpv_between("II.1.5) Közös Közbeszerzési Szójegyzék (CPV)", "II.2) A szerződés(ek) értéke", i).inspect
+
+
+
+
 
         
         
