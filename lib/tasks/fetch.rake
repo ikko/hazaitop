@@ -138,21 +138,27 @@ namespace :fetch do
           puts a = look_x_before_between( "I.3",
                                           "Az ajánlatkérő más ajánlatkérők nevében folytatja-e le a közbeszerzési eljárást?", i).inspect
           
-          puts "::ELNEVEZÉS"
+          puts ":: ELNEVEZÉS"
           puts look_between("II.1.1) Az ajánlatkérő által a szerződéshez rendelt elnevezés",
                             "II.1.2) A szerződés típusa, valamint a teljesítés helye ( Csak azt a kategóriát válassza – építési beruházás,", i)
-          puts "::TÁRGY, MENNYISÉG"
+          puts ":: TÁRGY, MENNYISÉG"
+          puts look_between("II.1.4) A szerződés vagy a közbeszerzés(ek) tárgya, mennyisége",
+                            "II.1.5) Közös Közbeszerzési Szójegyzék (CPV)", i)
           puts look_between("II.1.5) A szerződés vagy a közbeszerzés(ek) tárgya, mennyisége",
                             "II.1.6) Közös Közbeszerzési Szójegyzék (CPV)", i)
-          puts look_x_before_between("II.1.2) A szerződés típusa, valamint a teljesítés helye", "NUTS-kód", i).inspect
-          puts look("NUTS-kód", i)
+          puts ":: szerődés tipusa"
+          puts look_x_before_between("II.1.2) A szerződés típusa, valamint a teljesítés helye", "II.1.3)", i).inspect
 
+          puts ":: keretszerződés v dbr?"
           # keretszerzodés?
+          puts look_x_after_between("II.1.2) A hirdetmény a következők valamelyikével kapcsolatos",
+                                    "II.1.4)", i).inspect
           puts look_x_after_between("II.1.3) A hirdetmény a következők valamelyikével kapcsolatos",
-                                    "II.1.4) A szerződés vagy a közbeszerzés(ek) tárgya, mennyisége", i).inspect
-
-
+                                    "II.1.5)", i).inspect
+          puts ":: CPV"
+          # kétféle is lehet:
           puts look_cpv_between("II.1.5) Közös Közbeszerzési Szójegyzék (CPV)", "II.2) A szerződés(ek) értéke", i).inspect
+          puts look_cpv_between("II.1.6) Közös Közbeszerzési Szójegyzék (CPV)", "II.2) A szerződés(ek) értéke", i).inspect
 
 
 
