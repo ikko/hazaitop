@@ -165,7 +165,7 @@ namespace :fetch do
           puts '======================================='
           puts @lines[i + 8]
           puts '======================================='
-          puts megrendelo = look("Hivatalos név:", i)
+          puts megrendelo = look_between("Hivatalos név:", "Postai cím:", i).split("\n").join(' ')
           puts look("Postai cím:", i)
           puts look("Város/Község:", i)
           puts look("Postai irányítószám:", i)
@@ -233,7 +233,7 @@ namespace :fetch do
             puts look_between("Megnevezése", "IV.1)", j)
             puts look("A szerződéskötés tervezett időpontja", j)
             puts look("A benyújtott ajánlatok száma", j)
-            puts vallalkozo = look("Hivatalos név:", j)
+            puts vallalkozo = look_between("Hivatalos név:", "Postai cím:", j).split("\n").join(' ')
             puts look("Postai cím:", j)
             puts look("Város/Község:", j)
             puts look("Postai irányítószám:", j)
@@ -274,7 +274,15 @@ namespace :fetch do
             @sum = @sum + h[h.keys.first]
             @sums << commify( h[h.keys.first] )
 
-            @ertekek << [ h.keys.first, commify( h[ h.keys.first ] ), megrendelo, vallalkozo, afa,  h[ h.keys.first ] ]
+            e = look("V.2.2) Ha az eljárás eredménytelen, illetve szerződéskötésre nem kerül sor, ennek indoka", j)
+
+            if e != "V.2.3) A nyertes ajánlattevőnek a közbeszerzési törvény 70. §-ának (2) bekezdése szerinti minősítése"
+              eredmenytelen = true
+            else
+              eredmenytelen = false
+            end
+
+            @ertekek << [ h.keys.first, commify( h[ h.keys.first ] ), megrendelo, vallalkozo, afa,  h[ h.keys.first ], eredmenytelen ]
    
             puts ":: a legalacsonyabb vagy mi..."
             # legalacsonyabb 
@@ -290,6 +298,8 @@ namespace :fetch do
             j = get_pos("IV. szakasz", j)
 
           end    
+
+            
 
         end
       end
