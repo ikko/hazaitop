@@ -18,8 +18,18 @@ namespace :fetch do
     puts Rails.root.to_s + "/tmp/#{ lapid }.pdf"
     pdf = PdfFilePath.new(Rails.root.to_s + "/tmp/#{ lapid }.pdf")
     xml = pdf.convert_to_xml
-    LMAX = 2000
+    LMAX = 4000
     @lines = []
+
+    def get_pos( what, where )
+      for i in 1..(LMAX*3) do 
+        if @lines[ where + i ][0..what.size-1] == what
+          return where + i
+        end
+      end
+      nil
+    end
+
     def look( what, where )
       for i in 1..LMAX do 
         if @lines[ where + i ] == what
@@ -108,6 +118,35 @@ namespace :fetch do
       end
     end
 
+    def look_price_between( this, that, where )
+      result = {}
+      number = nil
+      currency = ''
+      counter = 1
+      for i in 1..LMAX do 
+        if @lines[ where + i ][0..this.size-1] == this
+          while @lines[ where + i + counter ][0..that.size-1] != that do
+            if @lines[ where + i + counter ] == "Érték (arab számmal)"
+              number = @lines[ where + i + counter + 1].scan(/[0-9]/).join.to_i
+            end
+            if @lines[ where + i + counter ] == "Pénznem"
+              currency = @lines[ where + i + counter + 1]
+            end
+            counter += 1
+            break if counter > LMAX
+          end
+          if number
+            result[currency] = number
+          end
+          return result
+        end
+      end
+    end
+
+    def commify(v) 
+      (s=v.to_s;x=s.length;s).rjust(x+(3-(x%3))).scan(/.{3}/).join(',').strip
+    end
+ 
     # parsing starts here
     file = File.new( Rails.root.to_s + "/tmp/#{lapid}.xml", 'w' )
     xml.each_line do |line|
@@ -117,13 +156,16 @@ namespace :fetch do
         file.write "\n"
       end
     end
+    @sum = 0
+    @sums = []
+    @ertekek = []
     @lines.each_with_index do |v, i|
       if v == "tájékoztató"
         if @lines[i + 1] == "az eljárás eredményéről"
           puts '======================================='
           puts @lines[i + 8]
           puts '======================================='
-          puts look("Hivatalos név:", i)
+          puts megrendelo = look("Hivatalos név:", i)
           puts look("Postai cím:", i)
           puts look("Város/Község:", i)
           puts look("Postai irányítószám:", i)
@@ -155,24 +197,107 @@ namespace :fetch do
                                     "II.1.4)", i).inspect
           puts look_x_after_between("II.1.3) A hirdetmény a következők valamelyikével kapcsolatos",
                                     "II.1.5)", i).inspect
+
+          puts ":: milyen a keretmegállapodás"
+          puts look_x_after_between("III.1.3) A keretmegállapodás megkötésére milyen eljárás alkalmazásával került sor?",
+                                    "III.2)", i)
+
+ 
           puts ":: CPV"
           # kétféle is lehet:
           puts look_cpv_between("II.1.5) Közös Közbeszerzési Szójegyzék (CPV)", "II.2) A szerződés(ek) értéke", i).inspect
           puts look_cpv_between("II.1.6) Közös Közbeszerzési Szójegyzék (CPV)", "II.2) A szerződés(ek) értéke", i).inspect
 
+          puts ":: ÉRTÉK"
+          # érták
+          h = look_price_between("II.2) A szerződés(ek) értéke", 
+                                  "III.1.1)", i)
 
 
+          puts ":: ÁFA"
+          # áfa info:
+ 
+          look_x_after_between("II.2) A szerződés(ek) értéke", "III.1.1)", i)
+          puts h.inspect
+          puts commify( h[h.keys.first] )
+          # az aktuális hirdetmény vége
+          puts v = get_pos("E hirdetmény feladásának dátuma", i)
 
+          # nézzük, kikkel szerződtek
 
-        
-        
-        
-        
+          j = get_pos("IV. szakasz", i)
+
+          while j and j < v do
+
+            puts look("A Szerződés száma", j)
+            puts look_between("Megnevezése", "IV.1)", j)
+            puts look("A szerződéskötés tervezett időpontja", j)
+            puts look("A benyújtott ajánlatok száma", j)
+            puts vallalkozo = look("Hivatalos név:", j)
+            puts look("Postai cím:", j)
+            puts look("Város/Község:", j)
+            puts look("Postai irányítószám:", j)
+            puts look("Telefon:", j)
+            puts look("E-mail:", j)
+            puts look("Fax:",    j)
+           
+            a = look("Internetcím (URL):", j)
+            if a != "IV.4) A szerződés értékére vonatkozó információ (csak számokkal)"
+              puts a
+            end
+ 
+            puts ":: eredetileg becsült érték"
+            # bscsüét érték 
+            h = look_price_between("Az ellenszolgáltatás eredetileg becsült értéke", 
+                                  "Az ellenszolgáltatás szerződésbeli összege", j)
+
+            puts ":: ÁFA"
+            # áfa info:
+            puts look_x_after_between("Az ellenszolgáltatás eredetileg becsült értéke",
+                                 "Az ellenszolgáltatás szerződésbeli összege", j)
+            puts h.inspect
+            puts commify( h[h.keys.first] )
+   
+            puts ":: Az ellenszolgáltatás szerződésbeli összege"
+  
+            # szerződéses összeg 
+            h = look_price_between( "Az ellenszolgáltatás szerződésbeli összege", 
+                                    "a legalacsonyabb ellenszolgáltatást tartalmazó ajánlat", j)
+  
+            puts ":: ÁFA"
+            # áfa info:
+            puts afa = look_x_after_between( "Az ellenszolgáltatás szerződésbeli összege",
+                                  "a legalacsonyabb ellenszolgáltatást tartalmazó ajánlat", j)
+            puts h.inspect
+            puts commify( h[h.keys.first] )
+
+            @sum = @sum + h[h.keys.first]
+            @sums << commify( h[h.keys.first] )
+
+            @ertekek << [ h.keys.first, commify( h[ h.keys.first ] ), megrendelo, vallalkozo, afa,  h[ h.keys.first ] ]
+   
+            puts ":: a legalacsonyabb vagy mi..."
+            # legalacsonyabb 
+            h = look_price_between("a legalacsonyabb ellenszolgáltatást tartalmazó ajánlat", "Valószínűsíthető", j)
+  
+            puts ":: ÁFA"
+            # áfa info:
+            look_x_after_between( "a legalacsonyabb ellenszolgáltatást tartalmazó ajánlat", "Valószínűsíthető", j)
+            puts h.inspect
+            puts commify( h[h.keys.first] )
+
+            # ugrás a következő vállalkozóra ebben a hirdetményben
+            j = get_pos("IV. szakasz", j)
+
+          end    
+
         end
       end
     end
     file.close
-    puts 'lofa'
+    puts '=========== összesen ============'
+    puts commify( @sum )
+    @ertekek.sort {|x,y| y[5] <=> x[5] }.each do |e| puts e.inspect end
   end
 
   desc 'fetch people'
