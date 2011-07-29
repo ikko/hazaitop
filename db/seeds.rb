@@ -136,6 +136,10 @@ if O2oRelationType.count == 0
   t = O2oRelationType.create( :name => "alvállalkozó",   :weight => "10" )
   r = O2oRelationType.create( :name => "fővállalkozó",   :weight => "10", :pair_id => t.id )
   t.update_attribute :pair_id, r.id
+  t = O2oRelationType.create( :name => "közbeszerző",     :weight => "1" )
+  r = O2oRelationType.create( :name => "közbesz nyertes", :weight => "1", :pair_id => t.id )
+  t.update_attribute :pair_id, r.id
+
 
   # p2p kapcsolatot nem eredményező egyszerű személy és szerveztközi kapcsolatok
   P2oRelationType.create( :name => "alvállalkozó",      :weight => "6" )

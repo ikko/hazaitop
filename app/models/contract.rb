@@ -3,10 +3,10 @@ class Contract < ActiveRecord::Base
   hobo_model # Don't put anything above this
 
   fields do
-    buyer :string
+    number :string
+    name :string
     description :text
     subject_and_qty :text
-    seller :string
     sum_value  :integer
     contracted_value :integer
     estimated_value :integer
@@ -26,8 +26,10 @@ class Contract < ActiveRecord::Base
   has_many :contract_cpv_rels
   has_many :cpvs, :through => :contract_cpv_rels
 
+  belongs_to :buyer,  :class_name => "Organization"
+  belongs_to :seller, :class_name => "Organization"
 
- belongs_to :notification
+  belongs_to :notification
 
   # --- Permissions --- #
 

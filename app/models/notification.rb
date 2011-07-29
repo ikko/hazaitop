@@ -4,8 +4,10 @@ class Notification < ActiveRecord::Base
 
   fields do
     timestamps
+    name :string
+    issued_at :date
     processed :boolean, :default => false
-    number :integer
+    number :string
     site_id :integer
   end
 
