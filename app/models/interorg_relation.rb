@@ -8,8 +8,12 @@ class InterorgRelation < ActiveRecord::Base
     mirror       :boolean, :default => false
     weight       :float
     visual       :boolean, :default => true
+    value        :integer
+    currency     :string
+    vat_incl     :boolean
   end
 
+  belongs_to :contract
 
   has_many :article_relations, :as => :relationable
   has_many :articles, :through => :article_relations, :accessible => true

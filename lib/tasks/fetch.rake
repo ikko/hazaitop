@@ -282,7 +282,7 @@ namespace :fetch do
               eredmenytelen = false
             end
 
-            @ertekek << [ h.keys.first, commify( h[ h.keys.first ] ), megrendelo, vallalkozo, afa,  h[ h.keys.first ], eredmenytelen ]
+            @ertekek << [ h.keys.first, commify( h[ h.keys.first ] ), megrendelo, vallalkozo, afa,  h[ h.keys.first ]  ]
    
             puts ":: a legalacsonyabb vagy mi..."
             # legalacsonyabb 

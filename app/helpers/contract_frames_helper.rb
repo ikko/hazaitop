@@ -1,0 +1,2 @@
+module ContractFramesHelper
+end

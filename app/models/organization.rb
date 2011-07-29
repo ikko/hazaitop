@@ -8,6 +8,10 @@ class Organization < ActiveRecord::Base
     street              :string
     city                :string
     zip_code            :string
+    phone               :string
+    fax                 :string
+    email_address       :email_address
+    internet_address    :string
     trade_register_nr   :string
     tax_nr              :string
     founded_at          :date
@@ -17,6 +21,11 @@ class Organization < ActiveRecord::Base
     timestamps
   end
 
+  has_many :buyer_activity_rels
+  has_many :buyer_activities, :through => :buyer_activity_rels
+
+  has_many :buyer_type_rels
+  has_many :buyer_types, :through => :buyer_type_rels
 
   default_scope  :order => 'name'
 
