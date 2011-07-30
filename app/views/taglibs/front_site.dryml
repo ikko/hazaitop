@@ -230,7 +230,7 @@
                 <name-one/>
               </related-person-view:>
               <articles-view:>
-                <select-many options="&Article.recent(30)"/> | <a href="&new_article_path"  target="_blank"><ht key="custom.new">new</ht></a>
+                <select-many options="&@recent_articles"/> | <a href="&new_article_path"  target="_blank"><ht key="custom.new">new</ht></a>
               </articles-view:>
               <information-source-view:>
                 <select-one options="&InformationSource.not_internal"/> | <a href="&new_information_source_path"  target="_blank"><ht key="custom.new">new</ht></a>
@@ -271,7 +271,7 @@
                 <input start-year="&Time.now.year-50" end-year="&Time.now.year"/>
               </start-time-view:>
               <articles-view:>
-                <select-many options="&Article.recent(30)"/> | <a href="&new_article_path"  target="_blank"><ht key="custom.new">new</ht></a>
+                <select-many options="&@recent_articles"/> | <a href="&new_article_path"  target="_blank"><ht key="custom.new">new</ht></a>
               </articles-view:>
               <end-time-view: class="end-time-toggler" style="display:#{this_parent.no_end_time ? ' none;' : ' block;'}">
                 <input start-year="&Time.now.year-50" end-year="&Time.now.year+50"/>
@@ -292,7 +292,7 @@
                 <select-one options="&InformationSource.not_internal"/> | <a href="&new_information_source_path" target="_blank"><ht key="custom.new">new</ht></a>
               </information-source-view:>
               <articles-view:>
-                <select-many options="&Article.recent(30)"/> | <a href="&new_article_path"  target="_blank"><ht key="custom.new">new</ht></a>
+                <select-many options="&@recent_articles"/> | <a href="&new_article_path"  target="_blank"><ht key="custom.new">new</ht></a>
               </articles-view:>
             </field-list>
           </item:>
