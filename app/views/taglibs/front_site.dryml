@@ -77,7 +77,7 @@
     </header:>
     <body: param>
       <strong><a><view:seller/></a></strong><br/>
-      ajánlattevők száma: <view:no_of_other_proposals/><br />
+      ajánlattevők száma: <view:no_of_proposals/><br />
       forrás: <a><view:notification/></a>
     </body:>
   </card>
