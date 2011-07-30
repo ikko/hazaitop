@@ -11,6 +11,9 @@
   <append-content-body:>
     <table-plus:financials fields="year, balance_sheet_total, turnover" without-search-form />
     <table-plus:interorg_relations fields="related_organization, o2o_relation_type, information_source, value, currency, vat_incl, contract, article_relations" without-search-form >
+      <value-view:>
+        <view with="&commify(this)"/>
+      </value-view:>
       <article-relations-view:>
         <% this.each do |r| %>
           <a href="#{article_path(r.article_id)}"><view with="&r.article.id"/></a>&nbsp;

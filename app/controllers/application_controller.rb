@@ -20,5 +20,13 @@ class ApplicationController < ActionController::Base
     @info_sources = InformationSource.not_internal
     @recent_articles = Article.recent(30)
   end
+    def commify(v) 
+      a = (s=v.to_s;x=s.length;s).rjust(x+(3-(x%3))).scan(/.{3}/).join('.').strip
+      if a[0]='.'
+        a = a[0..-1]
+      end
+      a
+    end
+
 
 end

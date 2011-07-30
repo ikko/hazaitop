@@ -18,6 +18,8 @@ class Contract < ActiveRecord::Base
     timestamps
   end
 
+  default_scope  :order => 'contracted_value DESC'
+
   has_many :contract_type_rels
   has_many :contract_types, :through => :contract_type_rels
 

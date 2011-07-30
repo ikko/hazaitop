@@ -403,15 +403,15 @@ namespace :fetch do
                                                                           :related_organization_id => vall.id,
                                                                           :information_source_id => info.id
                                                                          )
-                                                                         puts ":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::"
+                 puts ":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::"
                                                                          puts note.inspect
                                                                          puts megr.inspect
                                                                          puts vall.inspect
                                                                          puts contract.inspect
                                                                          puts rel.inspect
-                                                                         puts ":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::"
+                 puts ":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::"
 
-                                                                         sleep 200
+                                                                         sleep 1
 
                                                                          puts ":: a legalacsonyabb vagy mi..."
                                                                          # legalacsonyabb 
