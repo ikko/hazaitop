@@ -157,13 +157,17 @@ namespace :fetch do
 
 
     # reading data...
-    for lapid in 326001..326222 do
+    for lapid in 326221..326222 do
 
       if ! File.exist?(Rails.root + "tmp/#{lapid}.pdf")
       #    lapid = 326224
         puts "downloading... to tmp/#{lapid}.pdf from"
         puts "http://www.kozbeszerzes.hu/lid/ertesito/pid/0/ertesitoProperties?objectID=Lapszam.portal_#{ lapid }"
         ertesito = Nokogiri::HTML(open("http://www.kozbeszerzes.hu/lid/ertesito/pid/0/ertesitoProperties?objectID=Lapszam.portal_#{ lapid }"))
+        if ertesito.css('a.attach').blank?
+          puts "skipping #{lapid}, download failed..."
+          next
+        end
         dl =  Nokogiri::HTML(open('http://www.kozbeszerzes.hu/' + ertesito.css('a.attach').last['href']))    
         dl.css('a').last['href']
         a = dl.css('a').last['href'].split('/').last.match(/\d+/).to_s
@@ -171,7 +175,7 @@ namespace :fetch do
         system "cd #{Rails.root + 'tmp'} && wget -O #{lapid}.pdf #{filepath}"
       end
       if ! File.exist?(Rails.root + "tmp/#{lapid}.pdf")
-        puts "skipping #{lapid}, could not download..."
+        puts "skipping #{lapid}, no tempfile found..."
         next
       end
       puts "prepare..."
@@ -284,7 +288,7 @@ namespace :fetch do
 
                 puts c_number = look("A Szerzõdés száma", j) 
                 puts c_name = look_between("Megnevezése", "IV.1)", j)
-                puts c_no_of_other_proposals = look("A benyújtott ajánlatok száma", j).to_i
+                puts c_no_of_proposals = look("A benyújtott ajánlatok száma", j).to_i
                 puts vallalkozo = look_between("Hivatalos név:", "Postai cím:", j).split("\n").join(' ')
                 puts c_cim = look("Postai cím:", j)
                 puts c_varos = look("Város/Község:", j)
@@ -383,7 +387,7 @@ namespace :fetch do
 
                 contract = Contract.create!( :number => c_number,
                                             :name             => c_name,
-                                            :no_of_other_proposals => c_no_of_other_proposals.to_i,
+                                            :no_of__proposals => c_no_of_proposals.to_i,
                                             :buyer_id         => megr.id,
                                             :seller_id        => vall.id,
                                             :description      => c_elnevezes,

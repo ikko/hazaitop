@@ -3,7 +3,7 @@ class Contract < ActiveRecord::Base
   hobo_model # Don't put anything above this
 
   fields do
-    no_of_other_proposals :integer
+    no_of_proposals :integer
     name :string
     description :text
     sum_value  :integer
