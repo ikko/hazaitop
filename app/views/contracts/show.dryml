@@ -1,0 +1,13 @@
+<show-page>
+  <field-list:>
+    <sum-value-view:>
+      <view with="&commify(this)"/>
+    </sum-value-view:>
+    <contracted-value-view:>
+      <view with="&commify(this)"/>
+    </contracted-value-view:>
+    <estimated-value-view:>
+      <view with="&commify(this)"/>
+    </estimated-value-view:>
+  </field-list:>
+</show-page>
