@@ -10,7 +10,7 @@ class Organization < ActiveRecord::Base
     zip_code            :string
     phone               :string
     fax                 :string
-    email_address       :email_address
+    email_address       :string
     internet_address    :string
     trade_register_nr   :string
     tax_nr              :string
@@ -28,8 +28,6 @@ class Organization < ActiveRecord::Base
   has_many :buyer_types, :through => :buyer_type_rels
 
   default_scope  :order => 'name'
-
-  validates_presence_of :information_source
 
   belongs_to :sector
 
@@ -62,7 +60,6 @@ class Organization < ActiveRecord::Base
   belongs_to :user, :creator => true
 
   validates_presence_of :name
-  validates_presence_of :org_grade
   validates_presence_of :information_source
   validates_numericality_of :number_of_employees, :if => lambda { |r| r.number_of_employees }
 

@@ -8,7 +8,6 @@ class Notification < ActiveRecord::Base
     issued_at :date
     processed :boolean, :default => false
     number :string
-    site_id :integer
   end
 
   has_many :contracts

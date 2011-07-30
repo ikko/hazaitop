@@ -68,6 +68,10 @@ class InterorgRelation < ActiveRecord::Base
                               :information_source_id => r.information_source_id,
                               :visual => visual,
                               :mirrored => true,
+                              :value => r.value,
+                              :currency => r.currency,
+                              :vat_incl => r.vat_incl,
+                              :contract_id => r.contract_id,
                               :mirror => true)
       interorg.articles = r.articles
       interorg.litigations = r.litigations

@@ -8,11 +8,12 @@ class Contract < ActiveRecord::Base
     description :text
     subject_and_qty :text
     sum_value  :integer
+    s_vat_incl :boolean
     contracted_value :integer
+    c_vat_incl :boolean
     estimated_value :integer
+    e_vat_incl :boolean
     currency :string
-    vat_incl :boolean
-    contracting_at :date
     no_of_other_proposals :integer
     timestamps
   end
