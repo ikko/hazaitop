@@ -157,7 +157,7 @@ namespace :fetch do
 
 
     # reading data...
-    for lapid in 326223..326224 do
+    for lapid in 326001..326222 do
 
       if ! File.exist?(Rails.root + "tmp/#{lapid}.pdf")
       #    lapid = 326224
@@ -169,6 +169,10 @@ namespace :fetch do
         a = dl.css('a').last['href'].split('/').last.match(/\d+/).to_s
         filepath = dl.css('a').last['href'].split('/')[0..-2].join('/') + "/KÉ%20#{a}%20teljes_alairt.pdf.pdf"
         system "cd #{Rails.root + 'tmp'} && wget -O #{lapid}.pdf #{filepath}"
+      end
+      if ! File.exist?(Rails.root + "tmp/#{lapid}.pdf")
+        puts "skipping #{lapid}, could not download..."
+        next
       end
       puts "prepare..."
       puts Rails.root.to_s + "/tmp/#{ lapid }.pdf"

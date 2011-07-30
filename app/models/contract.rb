@@ -3,10 +3,9 @@ class Contract < ActiveRecord::Base
   hobo_model # Don't put anything above this
 
   fields do
-    number :string
+    no_of_other_proposals :integer
     name :string
     description :text
-    subject_and_qty :text
     sum_value  :integer
     s_vat_incl :boolean
     contracted_value :integer
@@ -14,7 +13,8 @@ class Contract < ActiveRecord::Base
     estimated_value :integer
     e_vat_incl :boolean
     currency :string
-    no_of_other_proposals :integer
+    subject_and_qty :text
+    number :string
     timestamps
   end
 
