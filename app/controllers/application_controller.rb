@@ -18,7 +18,7 @@ class ApplicationController < ActionController::Base
     @p2p_types = P2pRelationType.not_internal
     @p2o_types = P2oRelationType.all
     @info_sources = InformationSource.not_internal
-    @recent_articles = Article.recent(400)
+    @recent_articles = Article.recent(200)
   end
 
 end

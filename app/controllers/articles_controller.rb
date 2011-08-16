@@ -4,6 +4,8 @@ class ArticlesController < ApplicationController
 
   auto_actions :all
 
+  autocomplete :title
+
   def new
     fill_drop_down
     hobo_new

@@ -14,7 +14,7 @@ class InterpersonalRelation < ActiveRecord::Base
     visual       :boolean, :default => true
   end
 
-  has_many :article_relations, :as => :relationable
+  has_many :article_relations, :as => :relationable, :accessible => true
   has_many :articles, :through => :article_relations, :accessible => true
  
 

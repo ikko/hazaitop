@@ -15,7 +15,7 @@ class InterorgRelation < ActiveRecord::Base
 
   belongs_to :contract
 
-  has_many :article_relations, :as => :relationable
+  has_many :article_relations, :as => :relationable, :accessible => true
   has_many :articles, :through => :article_relations, :accessible => true
   
   belongs_to :o2o_relation_type
