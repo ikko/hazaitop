@@ -43,7 +43,7 @@ class Organization < ActiveRecord::Base
   has_one :recent_financial_year, :class_name => 'Financial', :order => 'year DESC'
 
   has_many :interorg_relations, :accessible => true
-  has_many :person_to_org_relations, :accessible => true
+  has_many :person_to_org_relations, :accessible => true, :order => 'person_id'
 
   # helperek a vizualicáziós részhez
   has_many :person_to_org_non_litigation_relations, :conditions => [ "visual = ?", true], :class_name => "PersonToOrgRelation"

@@ -13,6 +13,8 @@ class InterorgRelation < ActiveRecord::Base
     vat_incl     :boolean
   end
 
+  default_scope :order => "related_organization_id"
+
   belongs_to :contract
 
   has_many :article_relations, :as => :relationable, :accessible => true

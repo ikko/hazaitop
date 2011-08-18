@@ -4,6 +4,8 @@ class PlaceOfBirthsController < ApplicationController
 
   auto_actions :all
 
+  autocomplete
+
   def show
     @this = find_instance
     respond_to do |format| 

@@ -2,7 +2,8 @@
 
   <content-body:>
  
-    <field-list fields="summary, information_source, internet_address"> 
+    <field-list fields="processed_at, user" if="&current_user.editor? or current_user.supervisor? or current_user.administrator?"/>
+    <field-list fields="summary, information_source, internet_address">
       <internet-address-view:>
         <a href="&this" target="_blank"><view/></a>
       </internet-address-view:>

@@ -113,7 +113,7 @@
 <def tag="form" for="Article">
   <form merge param="default">
     <error-messages param/>
-    <field-list fields="internet_address, title, summary"/>
+    <field-list fields="processed_at"/>
     <!--field-list unless="&@this.new_record?" fields="interpersonal_relations, interorg_relations, person_to_org_relations"> 
       <interorg-relations-view:>
         <hjq-input-many>
@@ -180,6 +180,10 @@
   <form merge param="default">
     <error-messages param/>
     <field-list fields="last_name, first_name, person_grades, place_of_birth, born_at, mothers_name, information_source, personal_relations, person_to_org_relations, user" param>
+      <place-of-birth-view:>
+        <name-one/>
+      </place-of-birth-view:>
+
       <information-source-view:>
         <select-one options="&@info_sources"/> | <a href="&new_information_source_path"  target="_blank"><ht key="custom.new">new</ht></a>
       </information-source-view:>
@@ -192,6 +196,7 @@
             <field-list fields="organization, p2o_relation_type, article_relations, start_time, end_time, no_end_time, litigations, information_source">
               <article-relations-view:>
                 <input-many>
+                  <a:article default="_blank"><view:id/></a>
                   <name-one:article/>
                 </input-many>
               </article-relations-view:>
@@ -226,6 +231,7 @@
               </related-person-view:>
               <article-relations-view:>
                 <input-many>
+                  <a:article default="_blank"><view:id/></a>
                   <name-one:article/>
                 </input-many>
               </article-relations-view:>
@@ -259,6 +265,7 @@
             <field-list fields="person, o2p_relation_type, article_relations, start_time, end_time, no_end_time, litigations, information_source">
               <article-relations-view:>
                 <input-many>
+                  <a:article default="_blank"><view:id/></a>
                   <name-one:article/>
                 </input-many>
               </article-relations-view:>
@@ -290,6 +297,7 @@
               </information-source-view:>
               <article-relations-view:>
                 <input-many>
+                  <a:article default="_blank"><view:id/></a>
                   <name-one:article/>
                 </input-many>
               </article-relations-view:>

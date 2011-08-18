@@ -44,7 +44,7 @@ class Person < ActiveRecord::Base
   has_many :person_to_org_non_litigation_relations, :conditions => [ "visual = ?", true], :class_name => "PersonToOrgRelation"
   has_many :person_to_org_litigation_relations, :conditions => [ "visual = ?", false], :class_name => "PersonToOrgRelation"
 
-  has_many :person_to_org_relations, :accessible => true
+  has_many :person_to_org_relations, :accessible => true, :order => "organization_id"
 
   has_many :organizations, :through => :person_to_org_relations
 

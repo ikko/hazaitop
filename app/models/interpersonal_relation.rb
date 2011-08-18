@@ -16,7 +16,8 @@ class InterpersonalRelation < ActiveRecord::Base
 
   has_many :article_relations, :as => :relationable, :accessible => true
   has_many :articles, :through => :article_relations, :accessible => true
- 
+
+  default_scope :order => "related_person_id"
 
   belongs_to :p2p_relation_type
   belongs_to :person, :counter_cache => true

@@ -7,6 +7,7 @@ class Article < ActiveRecord::Base
     summary :text
     internet_address :string, :required, :unique
     weblink :string
+    processed_at :date
     timestamps
   end
 
@@ -14,6 +15,7 @@ class Article < ActiveRecord::Base
   default_scope :order => 'updated_at DESC'
 
   belongs_to :information_source
+  belongs_to :user
 
   has_many :article_relations
   
@@ -62,7 +64,7 @@ class Article < ActiveRecord::Base
   end
 
   def update_permitted?
-    acting_user.administrator? || acting_user.supervisor? || acting_user.editor?
+    user_id = acting_user.id && ( acting_user.administrator? || acting_user.supervisor? || acting_user.editor? )
   end
 
   def destroy_permitted?
