@@ -396,9 +396,14 @@ namespace :fetch do
                                               :information_source_id => info.id,
                                               :user_id => user.id
                                              ) 
-
-
+                  m_tevekenyseg.each do |r|
+                    activity = Activity.find_or_create_by_name(r) { |act| act.name = r }
+                    if !megr.activities.include?(activity)
+                      megr.activities << activity
+                    end
+                  end
                 end
+
                 if !megr # hack, hogy nil id-val teegye be, mert valami nem okés a parsolt adattal
                   megr = Struct.new(:id).new
                 end
@@ -419,6 +424,17 @@ namespace :fetch do
                                             :currency         => c_currency,
                                             :notification_id  => note.id
                                            )
+                if contract
+                  c_targy.each do |cpv|
+                    contract.cpvs << Cpv.find_first_by_name(cpv)
+                  end
+                  c_tipus.each do |type|
+                    contract.contract_types << ContactType.find_first_by_name(type)
+                  end
+                  c_keret do |frame|
+                    contract.contact_frames << ContractFrame.find_first_by_name(frame)
+                  end
+                end
                 if !contract # hack, hogy nil id-val teegye be, mert valami nem okés a parsolt adattal
                   contract = Struct.new(:id).new
                 end
@@ -519,12 +535,14 @@ namespace :fetch do
     f_p2o = P2oRelationType.find_by_name('közös sajtó')
     articles = Nokogiri::HTML(open('http://www.k-monitor.hu/adatbazis/kereses'))
 #    (1..articles.css("span.result")[0].children[0].text.to_i / 10 + 1).each do |i|
-    (1..4).each do |i|
+    (2..2).each do |i|
       puts "fetching page #{i} on k-monitor.hu at " + Time.now.to_s
       articles = Nokogiri::HTML(open("http://www.k-monitor.hu/adatbazis/kereses?page=#{i}"))
       articles.css(".news_list_1").each do |article|
+        puts article.search("//form/input[@name='halora']").inspect
         wlink = article.css("h3 a")[0].attributes['href'].value.split('?')[0] || ""
-        internet_address = "http://www.k-monitor.hu/" + wlink
+        puts internet_address = "http://www.k-monitor.hu/" + wlink
+
         a = Article.find_or_create_by_internet_address(internet_address) do |r|
           r.summary = article.css(".n_teaser")[0].children[0].text
           r.title = article.css("h3 a")[0].children[0].text
