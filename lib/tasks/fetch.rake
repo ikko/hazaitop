@@ -157,9 +157,11 @@ namespace :fetch do
 
 
     # reading data...
-    for lapid in 326221..326222 do
-
-      if ! File.exist?(Rails.root + "tmp/#{lapid}.pdf")
+    # for lapid in 326220..326230 do
+    for lapid in 325000..325431 do
+      # 282615 a vége
+      puts lapid
+      if !File.exist?(Rails.root + "tmp/#{lapid}.pdf")
       #    lapid = 326224
         puts "downloading... to tmp/#{lapid}.pdf from"
         puts "http://www.kozbeszerzes.hu/lid/ertesito/pid/0/ertesitoProperties?objectID=Lapszam.portal_#{ lapid }"
@@ -168,17 +170,21 @@ namespace :fetch do
           puts "skipping #{lapid}, download failed..."
           next
         end
-        dl =  Nokogiri::HTML(open('http://www.kozbeszerzes.hu/' + ertesito.css('a.attach').last['href']))    
-        dl.css('a').last['href']
+        dl =  Nokogiri::HTML(open('http://www.kozbeszerzes.hu/' + ertesito.css('a.attach').last['href']))
         a = dl.css('a').last['href'].split('/').last.match(/\d+/).to_s
         filepath = dl.css('a').last['href'].split('/')[0..-2].join('/') + "/KÉ%20#{a}%20teljes_alairt.pdf.pdf"
         system "cd #{Rails.root + 'tmp'} && wget -O #{lapid}.pdf #{filepath}"
+        if File.stat(Rails.root + "tmp/#{lapid}.pdf").size == 0
+          filepath = dl.css('a').last['href']
+          system "cd #{Rails.root + 'tmp'} && wget -O #{lapid}.pdf #{filepath}"
+          puts "régi pdf elnevezés..."
+        end
       end
-      if ! File.exist?(Rails.root + "tmp/#{lapid}.pdf")
-        puts "skipping #{lapid}, no tempfile found..."
+      if !File.exist?(Rails.root + "tmp/#{lapid}.pdf") or File.stat(Rails.root + "tmp/#{lapid}.pdf").size == 0
+        puts "skipping #{lapid}, no tempfile found or file is empty: probably 404..."
         next
       end
-      puts "prepare..."
+      puts "prepare...#{lapid}"
       puts Rails.root.to_s + "/tmp/#{ lapid }.pdf"
       pdf = PdfFilePath.new(Rails.root.to_s + "/tmp/#{ lapid }.pdf")
       xml = pdf.convert_to_xml
@@ -194,11 +200,17 @@ namespace :fetch do
         end
       end
 
-      name = look_between("a Közbeszerzések Tanácsa Hivatalos Lapja", "--", 1).strip
+      name = look_between("a Közbeszerzések Tanácsa Hivatalos Lapja", "--", 1)
+      if name.kind_of?(Range)
+        puts filepath
+        name = filepath.split("KE-").last.split(".pdf").first
+      else
+        name = name.strip
+      end
+      puts name
 
       if !Notification.find_by_name(name)
-
-        date = name[-11..-1].to_date
+        date = ertesito.css(".ertesitoLapszamInfoful span").last.text.to_date
         note = Notification.create!( :name => name, :issued_at => date,  :number => lapid )
 
         @sum = 0
@@ -356,7 +368,7 @@ namespace :fetch do
 
                 vall = Organization.find_by_name(vallalkozo)
                 if !vall
-                  vall = Organization.create!( :name => vallalkozo,
+                  vall = Organization.create( :name => vallalkozo,
                                               :street => c_cim,
                                               :city => c_varos,
                                               :zip_code => c_irszam,
@@ -368,9 +380,12 @@ namespace :fetch do
                                               :user_id => user.id
                                              )
                 end
+                if !vall # hack, hogy nil id-val teegye be, mert valami nem okés a parsolt adattal
+                  vall = Struct.new(:id).new
+                end
                 megr = Organization.find_by_name(megrendelo)
                 if !megr
-                  megr = Organization.create!( :name => megrendelo,
+                  megr = Organization.create( :name => megrendelo,
                                               :street => m_cim,
                                               :city => m_varos,
                                               :zip_code => m_irszam,
@@ -384,10 +399,13 @@ namespace :fetch do
 
 
                 end
-
-                contract = Contract.create!( :number => c_number,
+                if !megr # hack, hogy nil id-val teegye be, mert valami nem okés a parsolt adattal
+                  megr = Struct.new(:id).new
+                end
+ 
+                contract = Contract.create( :number => c_number,
                                             :name             => c_name,
-                                            :no_of__proposals => c_no_of_proposals.to_i,
+                                            :no_of_proposals => c_no_of_proposals.to_i,
                                             :buyer_id         => megr.id,
                                             :seller_id        => vall.id,
                                             :description      => c_elnevezes,
@@ -401,14 +419,18 @@ namespace :fetch do
                                             :currency         => c_currency,
                                             :notification_id  => note.id
                                            )
-
-                                           rel = InterorgRelation.create!( :value => c_ertek,
+                if !contract # hack, hogy nil id-val teegye be, mert valami nem okés a parsolt adattal
+                  contract = Struct.new(:id).new
+                end
+ 
+                                           rel = InterorgRelation.create( :value => c_ertek,
                                                                           :currency => c_currency,
                                                                           :vat_incl => afa(c_ertek_afa),
                                                                           :contract_id => contract.id,
                                                                           :o2o_relation_type_id => O2oRelationType.find_by_name("Közbesz nyertes").id,
                                                                           :organization_id => megr.id,
                                                                           :related_organization_id => vall.id,
+                                                                          :notification_id  => note.id,
                                                                           :information_source_id => info.id
                                                                          )
                  puts ":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::"
@@ -419,7 +441,7 @@ namespace :fetch do
                                                                          puts rel.inspect
                  puts ":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::"
 
-                                                                         sleep 1
+                                                                         # sleep 1
 
                                                                          puts ":: a legalacsonyabb vagy mi..."
                                                                          # legalacsonyabb 
@@ -444,6 +466,8 @@ namespace :fetch do
         file.close
         puts '=========== összesen ============'
         puts commify( @sum )
+        note.contracted_value = @sum
+        note.save
         @ertekek.sort {|x,y| y[5] <=> x[5] }.each do |e| puts e.inspect end
       end
     end

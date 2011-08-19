@@ -8,9 +8,11 @@ class Notification < ActiveRecord::Base
     issued_at :date
     processed :boolean, :default => false
     number :string
+    contracted_value :string
   end
 
   has_many :contracts
+  has_many :interorg_relations
 
   # --- Permissions --- #
 

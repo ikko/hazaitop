@@ -15,6 +15,7 @@ class InterorgRelation < ActiveRecord::Base
 
   default_scope :order => "related_organization_id"
 
+  belongs_to :notification
   belongs_to :contract
 
   has_many :article_relations, :as => :relationable, :accessible => true

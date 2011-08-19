@@ -321,6 +321,19 @@
   </old-form>
 </extend>
 
+<def tag="card" for="Notification">
+  <card class="notification" param="default" merge>
+    <header: param>
+      <h3><a><view:contracted_value /> HUF </a></h3>
+      <h4 param="heading"><a><name/></a></h4>
+    </header:>
+    <body: param>
+      <view:contracts.count/> szerződés
+    </body:>
+  </card>
+</def>
+
+
 <def tag="card" for="InformationSource">
   <card class="information-source" param="default" merge>
     <header: param>
