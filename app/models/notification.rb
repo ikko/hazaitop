@@ -8,7 +8,7 @@ class Notification < ActiveRecord::Base
     issued_at :date
     processed :boolean, :default => false
     number :string
-    contracted_value :string
+    contracted_value :integer, :limit => 8
   end
 
   has_many :contracts

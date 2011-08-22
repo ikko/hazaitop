@@ -6,11 +6,11 @@ class Contract < ActiveRecord::Base
     no_of_proposals :integer
     name :string
     description :text
-    sum_value  :integer
+    sum_value  :integer, :limit => 8
     s_vat_incl :boolean
-    contracted_value :integer
+    contracted_value :integer, :limit => 8
     c_vat_incl :boolean
-    estimated_value :integer
+    estimated_value :integer, :limit => 8
     e_vat_incl :boolean
     currency :string
     subject_and_qty :text

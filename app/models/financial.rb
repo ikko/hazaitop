@@ -4,8 +4,8 @@ class Financial < ActiveRecord::Base
 
   fields do
     year                :integer
-    balance_sheet_total :integer
-    turnover            :integer
+    balance_sheet_total :integer, :limit => 8
+    turnover            :integer, :limit => 8 
     timestamps
   end
 

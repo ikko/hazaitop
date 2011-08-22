@@ -8,7 +8,7 @@ class InterorgRelation < ActiveRecord::Base
     mirror       :boolean, :default => false
     weight       :float
     visual       :boolean, :default => true
-    value        :integer
+    value        :integer, :limit => 8
     currency     :string
     vat_incl     :boolean
   end

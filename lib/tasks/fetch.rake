@@ -157,8 +157,8 @@ namespace :fetch do
 
 
     # reading data...
-    # for lapid in 326220..326230 do
-    for lapid in 325000..325431 do
+    for lapid in 326220..326230 do
+    # for lapid in 325000..325431 do
       # 282615 a vége
       puts lapid
       if !File.exist?(Rails.root + "tmp/#{lapid}.pdf")
@@ -396,13 +396,15 @@ namespace :fetch do
                                               :information_source_id => info.id,
                                               :user_id => user.id
                                              ) 
-                  m_tevekenyseg.each do |r|
-                    activity = Activity.find_or_create_by_name(r) { |act| act.name = r }
-                    if !megr.activities.include?(activity)
-                      megr.activities << activity
-                    end
+                end
+                
+                m_tevekenyseg.each do |r|
+                  activity = Activity.find_or_create_by_name(r) { |act| act.name = r }
+                  if !megr.activities.include?(activity)
+                    megr.activities << activity
                   end
                 end
+              
 
                 if !megr # hack, hogy nil id-val teegye be, mert valami nem okés a parsolt adattal
                   megr = Struct.new(:id).new
