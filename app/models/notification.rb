@@ -11,7 +11,7 @@ class Notification < ActiveRecord::Base
     contracted_value :integer, :limit => 8
   end
 
-  default_scope :order => "contracted_value DESC"
+#  default_scope :order => "contracted_value DESC"
 
   has_many :contracts
   has_many :interorg_relations

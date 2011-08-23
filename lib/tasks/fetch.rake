@@ -157,8 +157,8 @@ namespace :fetch do
 
 
     # reading data...
-    for lapid in 326220..326230 do
-    # for lapid in 325000..325431 do
+    # for lapid in 326220..326230 do
+    for lapid in 325000..325431 do
       # 282615 a vége
       puts lapid
       if !File.exist?(Rails.root + "tmp/#{lapid}.pdf")
@@ -433,7 +433,7 @@ namespace :fetch do
                                             :notification_id  => note.id
                                            )
                 if contract
-                  c_targy.each do |cpv|
+                  c_cpv.each do |cpv|
                     contract.cpvs << Cpv.find_or_create_by_name(cpv) { |rec| rec.name = cpv }
                   end
                   c_tipus.each do |type|

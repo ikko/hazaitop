@@ -10,4 +10,7 @@
       <view with="&commify(this)"/>
     </estimated-value-view:>
   </field-list:>
+  <append-content-body:>
+    <view:cpvs/>
+  </append-content-body:>
 </show-page>
