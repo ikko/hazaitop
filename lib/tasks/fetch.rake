@@ -179,6 +179,8 @@ namespace :fetch do
           system "cd #{Rails.root + 'tmp'} && wget -O #{lapid}.pdf #{filepath}"
           puts "régi pdf elnevezés..."
         end
+      else
+        puts "file already downloaded to tmp... using that..."
       end
       if !File.exist?(Rails.root + "tmp/#{lapid}.pdf") or File.stat(Rails.root + "tmp/#{lapid}.pdf").size == 0
         puts "skipping #{lapid}, no tempfile found or file is empty: probably 404..."
@@ -210,7 +212,11 @@ namespace :fetch do
       puts name
 
       if !Notification.find_by_name(name)
-        date = ertesito.css(".ertesitoLapszamInfoful span").last.text.to_date
+        if ertesito
+          date = ertesito.css(".ertesitoLapszamInfoful span").last.text.to_date
+        else
+          date = name[-11..-1].to_date
+        end
         note = Notification.create!( :name => name, :issued_at => date,  :number => lapid )
 
         @sum = 0
@@ -236,7 +242,7 @@ namespace :fetch do
                                                   "I.3", i)
               # az ajánlatkérő tevékenységi köre
               puts m_tevekenyseg = a = look_x_before_between( "I.3",
-                                                             "Az ajánlatkérő más ajánlatkérők nevében folytatja-e le a közbeszerzési eljárást?", i).inspect
+                                                             "Az ajánlatkérő más ajánlatkérők nevében folytatja-e le a közbeszerzési eljárást?", i)
 
               puts ":: ELNEVEZÉS"
               puts c_elnevezes = look_between("II.1.1) Az ajánlatkérő által a szerződéshez rendelt elnevezés",
@@ -249,7 +255,7 @@ namespace :fetch do
               puts c_targy = targy1.class == Range ? targy2 : targy1
 
               puts ":: szerődés tipusa"
-              puts c_tipus = look_x_before_between("II.1.2) A szerződés típusa, valamint a teljesítés helye", "II.1.3)", i).inspect
+              puts c_tipus = look_x_before_between("II.1.2) A szerződés típusa, valamint a teljesítés helye", "II.1.3)", i)
 
               puts ":: keretszerződés v dbr?"
               # keretszerzodés?
@@ -397,7 +403,7 @@ namespace :fetch do
                                               :user_id => user.id
                                              ) 
                 end
-                
+                puts m_tevekenyseg
                 m_tevekenyseg.each do |r|
                   activity = Activity.find_or_create_by_name(r) { |act| act.name = r }
                   if !megr.activities.include?(activity)
@@ -428,13 +434,13 @@ namespace :fetch do
                                            )
                 if contract
                   c_targy.each do |cpv|
-                    contract.cpvs << Cpv.find_first_by_name(cpv)
+                    contract.cpvs << Cpv.find_or_create_by_name(cpv) { |rec| rec.name = cpv }
                   end
                   c_tipus.each do |type|
-                    contract.contract_types << ContactType.find_first_by_name(type)
+                    contract.contract_types << ContractType.find_or_create_by_name(type) { |rec| rec.name = type }
                   end
-                  c_keret do |frame|
-                    contract.contact_frames << ContractFrame.find_first_by_name(frame)
+                  c_keret.each do |frame|
+                    contract.contract_frames << ContractFrame.find_or_create_by_name(frame) { |rec| rec.name = frame }
                   end
                 end
                 if !contract # hack, hogy nil id-val teegye be, mert valami nem okés a parsolt adattal

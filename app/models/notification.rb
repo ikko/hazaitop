@@ -11,8 +11,15 @@ class Notification < ActiveRecord::Base
     contracted_value :integer, :limit => 8
   end
 
+  default_scope :order => "contracted_value DESC"
+
   has_many :contracts
   has_many :interorg_relations
+
+  def summarize_value
+    self.contracted_value = contracts.*.contracted_value.sum
+    self.save
+  end
 
   # --- Permissions --- #
 

@@ -1,4 +1,8 @@
 <show-page>
-  <field-list: skip="number"/>
+  <field-list: skip="number">
+    <contracted-value-view:>
+      <%= commify(this) %>
+    </contracted-value-view:>
+  </field-list:>
 </show-page>
 

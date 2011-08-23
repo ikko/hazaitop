@@ -175,7 +175,6 @@
   </form>
 </def>
 
-
 <def tag="form" for="Person">
   <form merge param="default">
     <error-messages param/>
@@ -324,7 +323,7 @@
 <def tag="card" for="Notification">
   <card class="notification" param="default" merge>
     <header: param>
-      <h3><a><view:contracted_value /> HUF </a></h3>
+      <h3><a><view with="&commify(this.contracted_value)" /> HUF </a></h3>
       <h4 param="heading"><a><name/></a></h4>
     </header:>
     <body: param>
