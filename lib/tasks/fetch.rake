@@ -10,9 +10,14 @@ namespace :fetch do
 
     # helper functions should be separeted later TODO
     def get_pos( what, where )
-      for i in 1..(LMAX*3) do 
-        if @lines[ where + i ][0..what.size-1] == what
-          return where + i
+      for i in 1..(LMAX*3) do
+        next if @lines_size -1 < where + i
+        begin
+          if @lines[ where + i ][0..what.size-1] == what
+            return where + i
+          end
+        rescue
+          return nil
         end
       end
       nil
@@ -20,6 +25,7 @@ namespace :fetch do
 
     def look( what, where )
       for i in 1..LMAX do 
+        next if @lines_size -1 < where + i
         if @lines[ where + i ][0..what.size-1] == what
           return @lines[ where + i + 1 ]
         end
@@ -30,11 +36,14 @@ namespace :fetch do
       result = ''
       counter = 1
       for i in 1..LMAX do 
+        next if @lines_size -1 < where + i
         if @lines[ where + i ][0..this.size-1] == this
+          next if @lines_size -1 < where + i + counter
           while @lines[ where + i + counter][0..that.size-1] != that do
             result << @lines[ where + i + counter]
             result << "\n"
             counter += 1
+            break if @lines_size -1 < where + i + counter
           end
           return result
         end
@@ -45,7 +54,9 @@ namespace :fetch do
       result  = []
       counter = 1
       for i in 1..LMAX do 
+        next if @lines_size -1 < where + i
         if @lines[ where + i ][0..this.size-1] == this
+          next if @lines_size -1 < where + i + counter
           while @lines[ where + i + counter ][0..that.size-1] != that do
             if @lines[ where + i + counter ] == 'x'
               if @lines[ where + i + counter + 1 ] ==  "Egyéb (nevezze meg):"
@@ -56,7 +67,7 @@ namespace :fetch do
               result << lin
             end
             counter += 1
-            break if counter > LMAX
+            break if counter > LMAX or @lines_size -1 < where + i + counter
           end
           return result
         end
@@ -67,6 +78,7 @@ namespace :fetch do
       result  = []
       counter = 1
       for i in 1..LMAX do 
+        next if @lines_size -1 < where + i
         #        puts "scanning... #{where + i} ::: #{@lines[where + i]}"
         if @lines[ where + i ][0..this.size-1] == this
           #          puts "benn: #{where + i} ::: #{@lines[where + i]}"
@@ -82,7 +94,7 @@ namespace :fetch do
               result << lin 
             end
             counter += 1
-            break if counter > LMAX
+            break if counter > LMAX or @lines_size -1 < where + i + counter
           end
           return result
         end
@@ -93,13 +105,15 @@ namespace :fetch do
       result  = []
       counter = 1
       for i in 1..LMAX do 
+        next if @lines_size -1 < where + i
         if @lines[ where + i ][0..this.size-1] == this
+          next if @lines_size -1 < where + i + counter
           while @lines[ where + i + counter ][0..that.size-1] != that do
             if @lines[ where + i + counter ].match(/\d{8,8}/)
               result << @lines[ where + i + counter ]
             end
             counter += 1
-            break if counter > LMAX
+            break if counter > LMAX or @lines_size -1 < where + i + counter
           end
           return result
         end
@@ -112,7 +126,9 @@ namespace :fetch do
       currency = ''
       counter = 1
       for i in 1..LMAX do 
+        next if @lines_size -1 < where + i
         if @lines[ where + i ][0..this.size-1] == this
+          next if @lines_size -1 < where + i + counter
           while @lines[ where + i + counter ][0..that.size-1] != that do
             if @lines[ where + i + counter ] == "Érték (arab számmal)"
               number = @lines[ where + i + counter + 1].scan(/[0-9]/).join.to_i
@@ -157,8 +173,15 @@ namespace :fetch do
 
 
     # reading data...
-    # for lapid in 326220..326230 do
-    for lapid in 325000..325431 do
+    # for lapid in 326000..326230 do
+    # for lapid in 325000..325999 do
+    # for lapid in 324000..324999 do 
+    # for lapid in 323000..323999 do 
+    # for lapid in 320000..320999 do 
+    # for lapid in 321000..322999 do 
+    # for lapid in 319000..319999 do - in progress
+    # old - 319025, 319055,
+    for lapid in 319056..319999 do 
       # 282615 a vége
       puts lapid
       if !File.exist?(Rails.root + "tmp/#{lapid}.pdf")
@@ -202,6 +225,7 @@ namespace :fetch do
         end
       end
 
+      @lines_size = @lines.size
       name = look_between("a Közbeszerzések Tanácsa Hivatalos Lapja", "--", 1)
       if name.kind_of?(Range)
         puts filepath

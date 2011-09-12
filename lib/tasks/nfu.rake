@@ -25,65 +25,41 @@ namespace :nfu do
 
     # reading data...
     # for lapid in 326220..326230 do
-    for lapid in 1..15 do
+#    for lapid in 1..15 do
+    lapid = 1
       # 282615 a vége
       puts lapid
       system "wget -O tmp/tmp.html --cookies=on --keep-session-cookies --save-cookies=cookie.txt \"http://emir.nfu.hu/kulso/jelek/index.php?i_6=104&checked_array=104&view=list&id=14&menu=104&ttipus=&tkod=&op_nev=&op_nev_teljes=&id_paly_altip=&kedv=\""
-      system "wget -O tmp/nfu#{lapid}.html --cookies=on --load-cookies=cookie.txt --keep-session-cookies \"https://emir.nfu.hu/kulso/jelek/index.php?i_6=104&checked_array=104&view=list&id=14&menu=104&ttipus=&tkod=&op_nev=&op_nev_teljes=&id_paly_altip=&kedv=\""
-      nfu = Nokogiri::HTML(open("tmp/nfu#{lapid}.html", nil, 'utf-8'))
-      nfu.css('full_cont')
+      system "wget -O tmp/nfu#{lapid}.html --cookies=on --load-cookies=cookie.txt --keep-session-cookies \"http://emir.nfu.hu/kulso/jelek/index.php?i_6=104&pn=#{lapid}&checked_array=104&view=list&id=14&menu=104&ttipus=&tkod=&op_nev=&op_nev_teljes=&id_paly_altip=&kedv=\""
+      nfu = Nokogiri::HTML(open("tmp/nfu#{lapid}.html").read, nil, 'utf-8')
+      puts "======================================================"
+      nfu.css('.report_table tr').each do |row|
+        puts osszeg = row.css('td').last.text
+        next if osszeg == "Megítélt támogatás (Ft):"
+        puts palyazo = row.css('td').first.elements[2].elements[0].text
+        puts link = row.css('td').first.elements[2].attributes.first.last.to_s  # ez csaka vége, emir kell elé
+        puts targy = row.css('td').first.elements[2].children.to_s.split('<br>').last
+        puts palyazat = row.css('td').children.first.to_s
 
-      if !File.exist?(Rails.root + "tmp/#{lapid}.html")
-      #    lapid = 326224
-        puts "downloading... to tmp/#{lapid}.pdf from"
-        puts "http://www.kozbeszerzes.hu/lid/ertesito/pid/0/ertesitoProperties?objectID=Lapszam.portal_#{ lapid }"
-        ertesito = Nokogiri::HTML(open("http://www.kozbeszerzes.hu/lid/ertesito/pid/0/ertesitoProperties?objectID=Lapszam.portal_#{ lapid }"))
-        if ertesito.css('a.attach').blank?
-          puts "skipping #{lapid}, download failed..."
-          next
-        end
-        dl =  Nokogiri::HTML(open('http://www.kozbeszerzes.hu/' + ertesito.css('a.attach').last['href']))
-        a = dl.css('a').last['href'].split('/').last.match(/\d+/).to_s
-        filepath = dl.css('a').last['href'].split('/')[0..-2].join('/') + "/KÉ%20#{a}%20teljes_alairt.pdf.pdf"
-        system "cd #{Rails.root + 'tmp'} && wget -O #{lapid}.pdf #{filepath}"
-        if File.stat(Rails.root + "tmp/#{lapid}.pdf").size == 0
-          filepath = dl.css('a').last['href']
-          system "cd #{Rails.root + 'tmp'} && wget -O #{lapid}.pdf #{filepath}"
-          puts "régi pdf elnevezés..."
-        end
-      else
-        puts "file already downloaded to tmp... using that..."
-      end
-      if !File.exist?(Rails.root + "tmp/#{lapid}.pdf") or File.stat(Rails.root + "tmp/#{lapid}.pdf").size == 0
-        puts "skipping #{lapid}, no tempfile found or file is empty: probably 404..."
-        next
-      end
-      puts "prepare...#{lapid}"
-      puts Rails.root.to_s + "/tmp/#{ lapid }.pdf"
-      pdf = PdfFilePath.new(Rails.root.to_s + "/tmp/#{ lapid }.pdf")
-      xml = pdf.convert_to_xml
-      LMAX = 4000
-      @lines = []
-      # parsing starts here
-      file = File.new( Rails.root.to_s + "/tmp/#{lapid}.xml", 'w' )
-      xml.each_line do |line|
-        if line[0..9] == '<text top='
-          @lines << Nokogiri::HTML(line).text.strip
-          file.write( Nokogiri::HTML(line).text )
-          file.write "\n"
-        end
-      end
+        detail = Nokogiri::HTML(open("http://emir.nfu.hu/kulso/jelek/#{link}").read, nil, 'utf-8').css('.td_adat_2')
 
-      name = look_between("a Közbeszerzések Tanácsa Hivatalos Lapja", "--", 1)
-      if name.kind_of?(Range)
-        puts filepath
-        name = filepath.split("KE-").last.split(".pdf").first
-      else
-        name = name.strip
-      end
-      puts name
-
-      if !Notification.find_by_name(name)
+        puts onkorm  = detail[0].text
+        puts project = detail[1].text
+        puts op_name = detail[2].text
+        puts tender_name = detail[3].text
+        puts region =  detail[4].text
+        puts county =  detail[5].text 
+        puts city   =  detail[6].text 
+        puts amount =  detail[7].text
+        puts subsidy = detail[8].text
+        puts decided_at = detail[9].text
+        puts desicion_score = detail[10].text
+        puts "-----------------------------------------------------------------"
+#      end
+    end
+  end
+=begin
+     if !Notification.find_by_name(name)
         if ertesito
           date = ertesito.css(".ertesitoLapszamInfoful span").last.text.to_date
         else
@@ -368,7 +344,7 @@ namespace :nfu do
       end
     end
   end
-
+=end
 
   desc 'fetch people'
   task :people => :environment do

@@ -8,7 +8,7 @@ class Cpv < ActiveRecord::Base
   end
 
   has_many :contract_cpv_rels
-  has_many :contracts, :through => :contract_cpv_rels
+  has_many :contracts, :through => :contract_cpv_rels, :accessible => true
 
   # --- Permissions --- #
 
