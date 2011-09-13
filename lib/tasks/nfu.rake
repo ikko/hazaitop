@@ -29,7 +29,7 @@ namespace :nfu do
 
     # reading data...
     # for lapid in 326220..326230 do
-    for lapid in 297..602 do
+    for lapid in 1..602 do
 #    lapid = 1
       puts "processing nfu #{lapid}. page..."
       system "wget -O tmp/tmp.html --cookies=on --keep-session-cookies --save-cookies=cookie.txt \"http://emir.nfu.hu/kulso/jelek/index.php?i_6=104&checked_array=104&view=list&id=14&menu=104&ttipus=&tkod=&op_nev=&op_nev_teljes=&id_paly_altip=&kedv=\""
@@ -48,6 +48,7 @@ namespace :nfu do
 
         detail = Nokogiri::HTML(open("http://emir.nfu.hu/kulso/jelek/#{link}").read, nil, 'utf-8').css('.td_adat_2')
 
+        puts url = "http://emir.nfu.hu/kulso/jelek/#{link}"
         puts onkorm  = detail[0].try.text
         puts project = detail[1].try.text
         puts op_name = detail[2].try.text
@@ -62,6 +63,12 @@ namespace :nfu do
         puts "-----------------------------------------------------------------"
 
         us = onkorm + op_name + tender_name + decided_at.to_s + amount.to_s
+
+        t = Tender.find_by_unique_string( us )
+        if t
+          t.url = url
+          t.save
+        end
 
         if !Tender.find_by_unique_string( us )
   
@@ -89,6 +96,7 @@ namespace :nfu do
                                      :decided_at => decided_at.try.to_date,
                                      :information_source_id => info.id,
                                      :user_id => user.id,
+                                     :url => url,
                                      :unique_string => us
                                    )
 

@@ -15,6 +15,7 @@ class Tender < ActiveRecord::Base
     decided_at     :date
     decision_score :float
     unique_string  :text
+    url :string
     timestamps
   end
 

@@ -92,7 +92,7 @@
     </header:>
     <body: param>
       <strong><a><view:caller/></a></strong><br/>
-      forrás: <a><view:op_name/> | <view:name/></a>
+      <a href="&this.url" target="_blank">forrás</a> | <a><view:op_name/> | <view:name/></a>
     </body:>
   </card>
 </def>
