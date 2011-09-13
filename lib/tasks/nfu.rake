@@ -28,10 +28,9 @@ namespace :nfu do
 
     # reading data...
     # for lapid in 326220..326230 do
-#    for lapid in 1..15 do
-    lapid = 1
-      # 282615 a vége
-      puts lapid
+    for lapid in 1..602 do
+#    lapid = 1
+      puts "processing nfu #{lapid}. page..."
       system "wget -O tmp/tmp.html --cookies=on --keep-session-cookies --save-cookies=cookie.txt \"http://emir.nfu.hu/kulso/jelek/index.php?i_6=104&checked_array=104&view=list&id=14&menu=104&ttipus=&tkod=&op_nev=&op_nev_teljes=&id_paly_altip=&kedv=\""
       system "wget -O tmp/nfu#{lapid}.html --cookies=on --load-cookies=cookie.txt --keep-session-cookies \"http://emir.nfu.hu/kulso/jelek/index.php?i_6=104&pn=#{lapid}&checked_array=104&view=list&id=14&menu=104&ttipus=&tkod=&op_nev=&op_nev_teljes=&id_paly_altip=&kedv=\""
       nfu = Nokogiri::HTML(open("tmp/nfu#{lapid}.html").read, nil, 'utf-8')
@@ -72,16 +71,17 @@ namespace :nfu do
                   palyazo = Struct.new(:id).new
                 end
 
-                tender = Tender.new( :applicant_id => palyazo.id,
+                tender = Tender.create( :applicant_id => palyazo.id,
                                      :caller_id =>    palyaztato.id,
                                      :project =>      project,
                                      :op_name => op_name,
                                      :name => tender_name,
                                      :region => region,
                                      :county => county,
+                                     :subsidy => subsidy.to_f / 100,
                                      :city => city,
                                      :amount => amount.scan(/[0-9]/).join.to_i,
-                                     :currency => (amount[-1..-2] == "Ft" ? "HUF" : nil ),
+                                     :currency => (amount[-2..-1] == "Ft" ? "HUF" : nil ),
                                      :decision_score => decision_score.gsub(',','.').to_f,
                                      :decided_at => decided_at.to_date,
                                      :information_source_id => info.id,
@@ -94,7 +94,7 @@ namespace :nfu do
                                    puts "/=////////////////////=/"
 
 
-                                   rel = InterorgRelation.new( :value => tender.amount,
+                                   rel = InterorgRelation.create( :value => tender.amount,
                                                                           :currency => tender.currency,
                                                                           :vat_incl => nil,
                                                                           :tender_id => tender.id,
@@ -104,7 +104,7 @@ namespace :nfu do
                                                                           :information_source_id => info.id
                                                                        )
                               tender.interorg_relation_id = rel.id
-#                              tender.save
+                              tender.save
                               puts pp(rel)
                  puts ":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::"
                                                                          puts rel.inspect
@@ -115,6 +115,7 @@ namespace :nfu do
 
                                                                          sleep 1
         end
+      end 
     end
   end
 end

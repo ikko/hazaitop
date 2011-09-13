@@ -7,7 +7,7 @@ class Tender < ActiveRecord::Base
     project        :string
     op_name        :string
     amount         :integer, :limit => 8
-    subsidy        :integer
+    subsidy        :float
     currency       :string
     city           :string
     county         :string
