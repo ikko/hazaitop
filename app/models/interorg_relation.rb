@@ -17,6 +17,7 @@ class InterorgRelation < ActiveRecord::Base
 
   belongs_to :notification
   belongs_to :contract
+  belongs_to :tender
 
   has_many :article_relations, :as => :relationable, :accessible => true
   has_many :articles, :through => :article_relations, :accessible => true
