@@ -1,4 +1,16 @@
 hu:
+  notifications:
+    model_name: értesítő
+    index:
+      heading: Értesítők
+  contracts:
+    model_name: szerződés
+    index:
+      heading: Szerződések
+  tenders:
+    model_name: pályázat
+    index:
+      heading: Pályázatok
   people:
     model_name: személy
     new:
