@@ -18,6 +18,8 @@ class Tender < ActiveRecord::Base
     timestamps
   end
 
+  default_scope :order => "amount DESC"
+
   belongs_to :user
 
   belongs_to :information_source

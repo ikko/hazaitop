@@ -23,12 +23,13 @@ namespace :nfu do
 
                 palyaztato = Organization.find_by_name("Nemzeti Fejlesztési Ügynökség")
     palyazo_rel = O2oRelationType.find_or_create_by_name('palyázó') do |r| r.name = 'pályázó' end
-    palyaztato_rel = O2oRelationType.find_or_create_by_name('palyáztató') do |r| r.name = 'pályáztató' end
+    palyaztato_rel = O2oRelationType.find_or_create_by_name('palyáztató') do |r| r.name = 'pályáztató'; r.pair_id = palyazo_rel.id end
+    palyazo_rel.pair_id = palyaztato_rel.id
     
 
     # reading data...
     # for lapid in 326220..326230 do
-    for lapid in 1..602 do
+    for lapid in 297..602 do
 #    lapid = 1
       puts "processing nfu #{lapid}. page..."
       system "wget -O tmp/tmp.html --cookies=on --keep-session-cookies --save-cookies=cookie.txt \"http://emir.nfu.hu/kulso/jelek/index.php?i_6=104&checked_array=104&view=list&id=14&menu=104&ttipus=&tkod=&op_nev=&op_nev_teljes=&id_paly_altip=&kedv=\""
@@ -38,6 +39,8 @@ namespace :nfu do
       nfu.css('.report_table tr').each do |row|
         puts osszeg = row.css('td').last.text
         next if osszeg == "Megítélt támogatás (Ft):"
+        next if osszeg == "2. fordulóba léphet"
+        next if osszeg == "0,00"
         puts palyazo = row.css('td').first.elements[2].elements[0].text
         puts link = row.css('td').first.elements[2].attributes.first.last.to_s  # ez csaka vége, emir kell elé
         puts targy = row.css('td').first.elements[2].children.to_s.split('<br>').last
@@ -45,17 +48,17 @@ namespace :nfu do
 
         detail = Nokogiri::HTML(open("http://emir.nfu.hu/kulso/jelek/#{link}").read, nil, 'utf-8').css('.td_adat_2')
 
-        puts onkorm  = detail[0].text
-        puts project = detail[1].text
-        puts op_name = detail[2].text
-        puts tender_name = detail[3].text
-        puts region =  detail[4].text
-        puts county =  detail[5].text 
-        puts city   =  detail[6].text 
-        puts amount =  detail[7].text
-        puts subsidy = detail[8].text
-        puts decided_at = detail[9].text
-        puts decision_score = detail[10].text
+        puts onkorm  = detail[0].try.text
+        puts project = detail[1].try.text
+        puts op_name = detail[2].try.text
+        puts tender_name = detail[3].try.text
+        puts region =  detail[4].try.text
+        puts county =  detail[5].try.text 
+        puts city   =  detail[6].try.text 
+        puts amount =  detail[7].try.text
+        puts subsidy = detail[8].try.text
+        puts decided_at = detail[9].try.text
+        puts decision_score = detail[10].try.text
         puts "-----------------------------------------------------------------"
 
         us = onkorm + op_name + tender_name + decided_at.to_s + amount.to_s
@@ -78,12 +81,12 @@ namespace :nfu do
                                      :name => tender_name,
                                      :region => region,
                                      :county => county,
-                                     :subsidy => subsidy.to_f / 100,
+                                     :subsidy => subsidy.try.to_f / 100,
                                      :city => city,
                                      :amount => amount.scan(/[0-9]/).join.to_i,
                                      :currency => (amount[-2..-1] == "Ft" ? "HUF" : nil ),
-                                     :decision_score => decision_score.gsub(',','.').to_f,
-                                     :decided_at => decided_at.to_date,
+                                     :decision_score => decision_score.try.gsub(',','.').to_f,
+                                     :decided_at => decided_at.try.to_date,
                                      :information_source_id => info.id,
                                      :user_id => user.id,
                                      :unique_string => us
@@ -113,7 +116,7 @@ namespace :nfu do
                                                                          puts palyaztato.inspect
                  puts ":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::"
 
-                                                                         sleep 1
+ #                                                                         sleep 1
         end
       end 
     end

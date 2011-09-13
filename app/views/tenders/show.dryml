@@ -1,0 +1,11 @@
+<show-page>
+  <field-list: skip="unique_string, interorg_relation, user">
+    <subsidy-view:>
+      <%= "#{ this * 100 }%" %>
+    </subsidy-view:>
+    <amount-view:>
+      <%= commify(this) %>
+    </amount-view:>
+  </field-list:>
+</show-page>
+

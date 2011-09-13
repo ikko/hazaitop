@@ -70,7 +70,7 @@
 </def>
 
 <def tag="card" for="Contract">
-  <card class="organization" param="default" merge>
+  <card class="contract" param="default" merge>
     <header: param>
       <h4 param="heading"><a><view:buyer/></a></h4>
       <a><h5><view with="&commify(this.contracted_value)"/> <view:currency/> <view with="&this.c_vat_incl ? 'ÁFÁ-val' : 'ÁFA nélkül'"/></h5></a>
@@ -79,6 +79,20 @@
       <strong><a><view:seller/></a></strong><br/>
       ajánlattevők száma: <view:no_of_proposals/><br />
       forrás: <a><view:notification/></a>
+    </body:>
+  </card>
+</def>
+
+
+<def tag="card" for="Tender">
+  <card class="tender" param="default" merge>
+    <header: param>
+      <h4 param="heading"><a><view:applicant/></a></h4>
+      <a><h5><view with="&commify(this.amount)"/> <view:currency/> </h5></a>
+    </header:>
+    <body: param>
+      <strong><a><view:caller/></a></strong><br/>
+      forrás: <a><view:op_name/> | <view:name/></a>
     </body:>
   </card>
 </def>

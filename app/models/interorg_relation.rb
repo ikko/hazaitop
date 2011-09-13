@@ -76,6 +76,8 @@ class InterorgRelation < ActiveRecord::Base
                               :currency => r.currency,
                               :vat_incl => r.vat_incl,
                               :contract_id => r.contract_id,
+                              :notification_id => r.notification_id,
+                              :tender_id => r.tender_id,
                               :mirror => true)
       interorg.articles = r.articles
       interorg.litigations = r.litigations
