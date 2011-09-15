@@ -7,7 +7,7 @@
       <%= commify(this) %>
     </amount-view:>
     <url-view:>
-      <a href="&this" target="_blank"><view:this/></a>
+      <a href="&this" target="_blank">link</a>
     </url-view:>
   </field-list:>
 </show-page>
