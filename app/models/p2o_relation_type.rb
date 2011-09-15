@@ -15,6 +15,28 @@ class P2oRelationType < ActiveRecord::Base
 
   belongs_to :pair, :class_name => "O2pRelationType"
 
+=begin
+  after_create do |r|
+    O2pRelationType.create( :name => r.name,
+                            :weight => r.weight,
+                            :visual => r.visual,
+                            :litig => r.litig,
+                            :mirror_of_id => r.id)
+  end
+
+  after_save do |r|
+    o2p = O2pRelationType.find( r.id )
+    o2p.update_attributes( :name => r.name,
+                           :weight => r.weight,
+                           :visual => r.visual,
+                           :litig => r.litig)
+
+  end
+
+  after_destroy do |r|
+    O2pRelationType.find( r.id ).delete
+  end
+=end
 
   # --- Permissions --- #
 

@@ -81,8 +81,8 @@ if P2pRelationType.count == 0
     a.update_attribute :pair_id, b.id
 
   i = P2pRelationType.create( :name => "munkatárs",       :weight => "7", :internal => true )
-  a = P2oRelationType.create(     :name   => "alkalmazott",  :weight => "7",  :p2p_relation_type_id => i.id )
-  b = O2pRelationType.create(     :name   => "munkavállaló", :weight => "7", :p2p_relation_type_id => i.id, :pair_id => a.id  )
+  a = P2oRelationType.create(     :name   => "munkavállaló",  :weight => "7",  :p2p_relation_type_id => i.id )
+  b = O2pRelationType.create(     :name   => "munkaadó", :weight => "7", :p2p_relation_type_id => i.id, :pair_id => a.id  )
   a.update_attribute :pair_id, b.id
 
   i = P2pRelationType.create( :name => "párttárs",        :weight => "12", :internal => true )

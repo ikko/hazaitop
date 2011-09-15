@@ -11,6 +11,7 @@
           <navigation if="&current_user.administrator? or current_user.editor?">
             <nav-item with="&O2oRelationType"><ht key="o2o_relation_types.nav_item">Interorganizational Relation Types</ht></nav-item>
             <nav-item with="&P2oRelationType"><ht key="p2o_relation_types.nav_item">Person and Organization Relation Types</ht></nav-item>
+            <nav-item with="&O2pRelationType"><ht key="p2o_relation_types.nav_item">Person and Organization Relation Types</ht> Pairs</nav-item>
             <nav-item with="&P2pRelationType"><ht key="p2p_relation_types.nav_item">Interpersonal Relation Types</ht></nav-item>
             <nav-item with="&InterpersonalRelationCalculator"><ht key="interpersonal_relation_calculators.nav_item">Interpersonal Relation Matrix</ht></nav-item>
           </navigation>

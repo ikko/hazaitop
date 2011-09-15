@@ -14,6 +14,8 @@ class O2pRelationType < ActiveRecord::Base
   validates_presence_of :p2p_relation_type
 
   belongs_to :pair, :class_name => "P2oRelationType"
+#  belongs_to :mirror_of, :class_name => "P2oRelationType"
+
 
   # --- Permissions --- #
 

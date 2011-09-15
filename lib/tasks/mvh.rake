@@ -34,6 +34,7 @@ namespace :mvh do
 
     file.each_line do |f|
       a = f.split(';')
+      next if a.size != 9
       puts 'org: ' + org  = a[0].gsub('"','').gsub('  ',' ').strip
       puts 'zip: ' + zip  = a[1]
       puts 'city: ' + city = a[2]
