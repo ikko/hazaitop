@@ -12,13 +12,18 @@ class Notification < ActiveRecord::Base
   end
 
 #  default_scope :order => "contracted_value DESC"
-
+  
   has_many :contracts
   has_many :interorg_relations
 
   def summarize_value
     self.contracted_value = contracts.*.contracted_value.sum
     self.save
+  end
+
+
+  def url
+    "http://www.kozbeszerzes.hu/lid/ertesito/pid/0/ertesitoProperties?objectID=Lapszam.portal_#{number}"
   end
 
   # --- Permissions --- #

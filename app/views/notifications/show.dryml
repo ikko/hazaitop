@@ -1,8 +1,11 @@
 <show-page>
-  <field-list: skip="number">
+  <field-list:>
     <contracted-value-view:>
       <%= commify(this) %>
     </contracted-value-view:>
+    <number-view:>
+      <a href="&this_parent.url" target="_blank">link</a>
+    </number-view:>
   </field-list:>
 </show-page>
 

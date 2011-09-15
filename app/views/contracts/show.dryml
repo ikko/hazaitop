@@ -11,6 +11,7 @@
     </estimated-value-view:>
   </field-list:>
   <append-content-body:>
-    <view:cpvs/>
+    <view:cpvs/><br /><br />
+    <strong>Source:</strong> <a href="&this.notification.url" target="_blank">link</a><br />
   </append-content-body:>
 </show-page>

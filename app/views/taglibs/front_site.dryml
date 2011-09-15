@@ -78,7 +78,7 @@
     <body: param>
       <strong><a><view:seller/></a></strong><br/>
       ajánlattevők száma: <view:no_of_proposals/><br />
-      forrás: <a><view:notification/></a>
+      <a href="&this.notification.url" target="_blank">forrás</a> | <a><view:notification/></a>
     </body:>
   </card>
 </def>
@@ -92,7 +92,7 @@
     </header:>
     <body: param>
       <strong><a><view:caller/></a></strong><br/>
-      <a href="&this.url" target="_blank">forrás</a> | <a><view:op_name/> | <view:name/></a>
+      <a href="&this.url" target="_blank">forrás</a> | <a><view:op_name if="&this.op_name"/><view:found if="&this.found"/> | <view:name/></a>
     </body:>
   </card>
 </def>

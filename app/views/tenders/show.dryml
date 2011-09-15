@@ -1,13 +1,13 @@
 <show-page>
   <field-list: skip="unique_string, interorg_relation, user">
     <subsidy-view:>
-      <%= "#{ this * 100 }%" %>
+      <%= this ? "#{ this * 100 }%" : "" %>
     </subsidy-view:>
     <amount-view:>
       <%= commify(this) %>
     </amount-view:>
     <url-view:>
-      <a href="&this" target="_blank"><view:this></a>
+      <a href="&this" target="_blank"><view:this/></a>
     </url-view:>
   </field-list:>
 </show-page>
