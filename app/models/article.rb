@@ -55,7 +55,16 @@ class Article < ActiveRecord::Base
       end
     end
   end
- 
+
+  lifecycle do
+    state :normal, :default => true
+    state :processed
+
+    transition :progress, { :normal => :processed }, 
+      :available_to => "User", :if => "acting_user.editor? or acting_user.supervisor? or acting_user.administrator?",
+      :params => [ :processed_at ]
+
+  end
 
   # --- Permissions --- #
 

@@ -127,7 +127,7 @@
 <def tag="form" for="Article">
   <form merge param="default">
     <error-messages param/>
-    <field-list fields="processed_at"/>
+    <field-list fields="summary, information_source, internet_address"/>
     <!--field-list unless="&@this.new_record?" fields="interpersonal_relations, interorg_relations, person_to_org_relations"> 
       <interorg-relations-view:>
         <hjq-input-many>
