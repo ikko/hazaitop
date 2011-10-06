@@ -10,7 +10,7 @@
 
 <extend tag="page">
   <old-page merge>
-    <before-scripts:>
+    <scripts:>
       <script type="text/javascript">
         var _gaq = _gaq || [];
         _gaq.push(['_setAccount', 'UA-20915206-1']);
@@ -22,10 +22,61 @@
              var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
          })();
       </script>
-    </before-scripts:>
+    </scripts:>
+    <stylesheets:>
+      <stylesheet name="reset, application"/>
+    </stylesheets:>
     <custom-scripts:>
       <hjq-assets/>
     </custom-scripts:> 
+    <header:>
+      <div id="header_links">
+        <a href="" id="logo">a HÁLÓ</a>
+        <div class="header_link_column">
+          <strong>PROFILOK</strong>
+          <ul>
+            <li><a href="">Személyek</a></li>
+            <li><a href="">Szervezetek</a></li>
+            <li><a href="">Tranzakciók</a></li>
+          </ul>
+        </div>
+        <div class="header_link_column">
+          <strong>HÁLÓ</strong>
+          <ul>
+            <li><a href="">Térkép</a></li>
+            <li><a href="">Hogyan működik?</a></li>
+          </ul>
+        </div>
+        <div class="header_link_column">
+          <strong>RÓLUNK</strong>
+          <ul>
+            <li><a href="">A projektről</a></li>
+            <li><a href="">Kapcsolat</a></li>
+          </ul>
+        </div>
+        <div class="header_link_column">
+          <strong>BEJELENTKEZÉS</strong>
+          <ul>
+            <li><a href="">Regisztráció</a></li>
+          </ul>
+          <div id="search_box">
+            <div id="search_wrapper"><form action="post"><input type="text" name="search" id="search_input" value="Keresés"/><input type="submit" id="search_button" value="Submit"/></form></div>
+          </div>
+        </div>
+      </div>
+      <div id="header_infoline">
+        <div class="left" id="arrows"><a class="arrow" href="">◂</a><a class="arrow" href="">▸</a></div>
+        <ul class="left">
+          <li><a href="">Tegnap ez lopott</a></li>
+          <li style="display: none">Ma ez lop</li>
+          <li style="display: none">Holnap ez fog lopni</li>
+        </ul>
+        2011. október 6.<div class="separator">|</div><a href="http://www.k-monitor.hu">www.k-monitor.hu</a>
+      </div>
+    </header:>
+    <content:>
+
+    </content:>
     <footer:>
 
 <div class="left" style="width:350px">
