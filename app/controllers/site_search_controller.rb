@@ -43,40 +43,72 @@ class SiteSearchController < ApplicationController
                     'l'
                   end
     edge[:weight] = relation.weight
+    logger.debug "lofa_10"
     if target_type == source_type && target_type == 'o'
+    logger.debug "lofa_12"
       edge[:id] = "o2o#{relation.id}"
+    logger.debug "lofa_13"
       edge[:alternateId] = "o2o#{relation.interorg_relation.id}"
+    logger.debug "lofa_14"
       edge[:label] = relation.o2o_relation_type.name
     elsif target_type == source_type && target_type == 'p'
+    logger.debug "lofa_15"
       edge[:id] = "p2p#{relation.id}"
+    logger.debug "lofa_17"
       edge[:alternateId] = "p2p#{relation.interpersonal_relation.id}"
+    logger.debug "lofa_18"
       edge[:label] = relation.p2p_relation_type.name
     elsif target_type == 'p' && source_type == 'o'
       edge[:id] = "p2o#{relation.id}"
+    logger.debug "lofa_19"
       edge[:alternateId] = "o2p#{relation.id}"
+    logger.debug "lofa_10"
       edge[:label] = relation.p2o_relation_type.name
+    logger.debug "lofa_21"
     elsif target_type == 'o' && source_type == 'p'
+    logger.debug "lofa_22"
       edge[:id] = "o2p#{relation.id}"
+    logger.debug "lofa_23"
       edge[:alternateId] = "p2o#{relation.id}"
+    logger.debug "lofa_24"
       puts relation.o2p_relation_type.inspect
+    logger.debug "lofa_25"
       edge[:label] = relation.o2p_relation_type.name
+    logger.debug "lofa_26"
     elsif target_type == 'o' && source_type == 'l'
+    logger.debug "lofa_27"
       edge[:id] = "o2l#{relation.id}"
+    logger.debug "lofa_20"
       edge[:label] = relation.try.o2p_relation_type._?.name || relation.o2o_relation_type.name
+    logger.debug "lofa_29"
     elsif target_type == 'l' && source_type == 'o'
+    logger.debug "lofa_30"
       edge[:id] = "l2o#{relation.id}"
+    logger.debug "lofa_31"
       edge[:label] = relation.try.p2o_relation_type._?.name || relation.o2o_relation_type.name
+    logger.debug "lofa_32"
     elsif target_type == 'p' && source_type == 'l'
+    logger.debug "lofa_33"
       edge[:id] = "p2l#{relation.id}"
+    logger.debug "lofa_34"
       puts relation.inspect
+    logger.debug "lofa_35"
       edge[:label] = relation.try.p2o_relation_type._?.name || relation.p2p_relation_type.name
+    logger.debug "lofa_36"
     elsif target_type == 'l' && source_type == 'p'
+    logger.debug "lofa_37"
       edge[:id] = "l2p#{relation.id}"
+    logger.debug "lofa_38"
       edge[:label] = relation.try.o2p_relation_type._?.name || relation.p2p_relation_type.name
+    logger.debug "lofa_39"
     end
+    logger.debug "lofa_40"
     edge[:sourceId] = "#{source_type}#{source.id}"
+    logger.debug "lofa_41"
     edge[:targetId] = "#{target_type}#{target.id}"
+    logger.debug "lofa_42"
     @network[:edges] << edge
+    logger.debug "lofa_43"
   end
 
   def generate_litigation_relations_for_litigations
@@ -210,12 +242,19 @@ class SiteSearchController < ApplicationController
       
       # személyes kapcsolatok
       resource.personal_non_litigation_relations.each do |personal_relation|
+        logger.debug "================="
+        logger.debug personal_relation.related_person.name
         # ha még nem látható az oldalon akkor kigeneráljuk a személyt
         unless @persons.include? personal_relation.related_person
+          logger.debug "lofa1"
           @persons << personal_relation.related_person
+          logger.debug "lofa2"
           generate_node(personal_relation.related_person, 'p')
+          logger.debug "lofa3"
           generate_edge(personal_relation.related_person, 'p', personal_relation, resource)
+          logger.debug "lofa4"
         end
+          logger.debug "lofa5"
       end
       
       # intézményes kapcsolatok  
