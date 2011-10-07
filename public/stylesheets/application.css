@@ -5,7 +5,7 @@
 #header_links { 
   background-color: #054756;
   height: 86px;
-  width: 897px;
+  width: 946px;
 }
 
 #logo { 
@@ -51,6 +51,10 @@
   float: left;
 }
 
+.clear {
+  clear: both;
+}
+
 ul {
   list-style-type: none;
 }
@@ -72,7 +76,7 @@ a {
 }
 
 #search_box #search_input {
-  width: 86px;
+  width: 135px;
   border: 1px solid black;
   border-right: none;
   font-size: 11px;
@@ -99,7 +103,7 @@ a {
   margin-top: 3px;
   background-color: #5d6768;
   color: white;
-  width: 897px;
+  width: 946px;
   line-height: 25px;
 }
 
@@ -109,7 +113,7 @@ a {
 }
 
 #header_infoline ul {
-  width: 649px;
+  width: 695px;
 }
 
 #header_infoline .arrow {
@@ -123,3 +127,18 @@ a {
   margin-left: 5px;
 }
 
+#welcome_search {
+  background: url(/images/search_box.png) no-repeat;
+}
+
+#advanced_search {
+
+}
+
+#to_map {
+
+}
+
+#video_preview {
+  margin-left: -15px;
+}
