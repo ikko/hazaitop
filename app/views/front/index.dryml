@@ -4,34 +4,19 @@
 
   <content:>
     <header class="content-header">
-      <h1><ht key="custom.welcome">Welcome</ht></h1>
-      <section class="welcome-message">
-        <h3><ht key="homepage.title">This is the homepage</ht></h3>
-        <ul if="&I18n.locale == :hu">
-          <li>Az oldal célja a magyar politikai és gazdasági elit összefonódásának és kapcsolati hálójának feltérképezése az átláthatóbb közpénz-mozgás érdekében...</li>
-          <li if="&current_user.guest?"><a href="/login">Belépés</a> az adatok szerkesztéséhez...</li>
-        </ul>
-
-        <ul if="&I18n.locale == :en">
-          <li>The purpose of this site is to reveal the network of Hungary's political and business elite in order to facilitate public money transition transparency...</li>
-          <li if="&current_user.guest?"><a href="/login">Login</a> to edit data...</li>
-        </ul>
-
-
-        <% if User.count == 0 -%>
-          <h3 style="margin-top: 20px;">There are no user accounts - please provide the details of the site administrator</h3>
-          <form with="&this || User.new" without-cancel>
-            <field-list: fields="name, email_address, password, password_confirmation"/>
-            <submit: label="Register Administrator"/>
-          </form>
-        <% end -%>
-
-
-      </section>
+      <a id="video_preview" class="left" href=""><img src="/images/video_preview.jpg"/></a>
+      <div id="welcome-message" class="left">
+        Az oldal célja a magyar <strong>politikai</strong> és<br /> <strong>gazdasági elit</strong> összefonódásának<br /> és <strong>kapcsolati háló</strong>jának feltérképezése<br /> az átláthatóbb közpénzmozgás érdekében.
+        <div id="welcome_search">
+          <a href="" id="advanced_search"></a>
+          <a href="" id="to_map"></a>
+        </div>
+      </div>
     </header>
 
 
     <section class="content-body">
+      <div class="clear"></div>
       <h2><ht key="homepage.organizations">Organizations</ht></h2>
       <table-plus with="&Organization.list" fields="this, city, street, zip_code, information_source" without-search-form/>
       <a href="#{organizations_path}">további szervezetek...</a><br />
