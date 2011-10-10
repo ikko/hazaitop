@@ -37,31 +37,36 @@
           <div class="separator left">|</div>
           <a href="" class="left">Legfrisebb</a>
         </div>
-        <table-plus with="&Person.list" sort-field="last_name" fields="this, last_name, first_name, information_source" without-search-form>
+        <table-plus with="&@persons" fields="this, last_name, first_name, information_source" without-search-form>
           <this-heading:>Személy</this-heading:>
+          <up-arrow:>⬆</up-arrow:>
+          <down-arrow:>⬇</down-arrow:>
+          <this-view:><a/> <a href="/site_search/?p=#{this.id}"><img src="/images/plusz.png"/></a> </this-view:>
         </table-plus>
+        <div class="table_footer"><a href="#{people_path}">További személyek &gt;</a></div>
       </div>
       <div id="orgs_content" class="tab_content" style="display: none">
-        <ul>
-          <li><a href="">Legtöbb kapcsolat</a></li>
-          <li><a href="">Legfrisebb</a></li>
-        </ul>
+        <div class="order_list">
+          <a href="" class="left">Legtöbb kapcsolat</a>
+          <div class="separator left">|</div>
+          <a href="" class="left">Legfrisebb</a>
+        </div>
+        <table-plus with="&Organization.list" fields="this, city, street, zip_code, information_source" without-search-form>
+          <up-arrow:>⬆</up-arrow:>
+          <down-arrow:>⬇</down-arrow:>
+          <this-view:><a/> <a href="/site_search/?p=#{this.id}"><img src="/images/plusz.png"/></a> </this-view:>
+        </table-plus>
+        <a href="#{organizations_path}">további szervezetek...</a><br />
       </div>
+
       <div id="trans_content" class="tab_content" style="display: none">
-        <ul>
-          <li><a href="">Legtöbb kapcsolat</a></li>
-          <li><a href="">Legfrisebb</a></li>
-        </ul>
+        <div class="order_list">
+          <a href="" class="left">Legtöbb kapcsolat</a>
+          <div class="separator left">|</div>
+          <a href="" class="left">Legfrisebb</a>
+        </div>
       </div>
       <div class="clear"></div>
-      <h2><ht key="homepage.organizations">Organizations</ht></h2>
-      <table-plus with="&Organization.list" fields="this, city, street, zip_code, information_source" without-search-form/>
-      <a href="#{organizations_path}">további szervezetek...</a><br />
-      <h2><ht key="homepage.people">People</ht></h2>
-      <table-plus with="&Person.list" fields="this, last_name, first_name, information_source" without-search-form>
-        <this-heading:>Személy</this-heading:>
-      </table-plus>
-      <a href="#{people_path}">további személyek...</a>
     </div>
   </content:>
 
