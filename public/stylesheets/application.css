@@ -239,10 +239,11 @@ a {
 }
 
 .order_list a {
-  padding: 0px 6px;
+  padding: 0px 9px;
 }
 
-.order_list div {
+.order_list .active {
+  font-weight: bold;
 }
 
 .tab_content {
