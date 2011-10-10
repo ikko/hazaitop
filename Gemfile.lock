@@ -26,6 +26,7 @@ GEM
       rails (>= 2.2.2, < 3.0.0)
     hobosupport (1.0.3)
     mysql (2.8.1)
+    nokogiri (1.4.4)
     rack (1.1.2)
     rails (2.3.8)
       actionmailer (= 2.3.8)
@@ -48,5 +49,6 @@ DEPENDENCIES
   domainatrix
   hobo (= 1.0.3)
   mysql
+  nokogiri
   rails (= 2.3.8)
   thin

@@ -79,27 +79,39 @@
     </content:>
     <footer:>
 
-<div class="left" style="width:350px">
-<a class="left" rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.hu" target="_blank"><img alt="Creative Commons Licenc" style="border-width:0;width=88px;height=31px" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/></a><a target="_blank" style="margin-left:10px" class="left" href="http://opendefinition.org/"><img alt="This material is Open Data" border="0" src="http://m.okfn.org/images/ok_buttons/od_80x15_blue.png" /></a>Ez a Mű a <a target="_blank" rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.hu">Licenc</a> feltételeinek megfelelően szabadon felhasználható.*<br />Forráskód: Source code on <a href="http://github.com/ikko/hazaitop/" target="_blank">GitHub</a>.<br />*Az oldalon található idézetek a hivatkozott jogtulajdonosok teljes terjedelmű cikkeiből származnak és azok tulajdonát képezik.
-              </div>
-      <a href="http://www.k-monitor.hu" target="_blank">
-        <img src="/images/k-monitor-logo.jpg" height="50" alt="K-Monitor Közhasznú Egyesület"/>
-      </a>
-      <a href="http://www.tasz.hu/" target="_blank">
-        <img src="/images/tasz-logo.png" height="50" alt="Társaság a Szabadságjogokért" />
-      </a>
-      <a href="http://www.transparency.org" target="_blank">
-        <img src="/images/transparency-international-logo.gif" height="50" alt="Transparency International"/>
-      </a>
-      <a href="#" target="_blank">
-        <img src="/images/amitaba-mudra-logo.gif" height="50" alt="AMITABA-MUDRA Kft." />
-      </a>
-      <a href="http://www.digitalnatives.hu" target="_blank">
-        <img src="/images/dina-logo.jpg" height="50" alt="Digital Natives Kft."/>
-      </a>
-      <br />
-      Copyright 2010-<%= Time.now.to_date.year %> K-Monitor KhE. and AMITABA - MUDRA Kft. |  <a href="#{base_url}/front/development"><ht key="development.footer">development</ht></a> | <a href="#{base_url}/front/impressum"><ht key="impressum.footer">impressum</ht></a>
-      <a href="&admin_users_url" if="&current_user.administrator?"> | admin</a>
+      <div id="logos" class="left">
+        <a href="http://www.k-monitor.hu" target="_blank">
+          <img src="/images/k-monitor-logo.jpg" height="50" alt="K-Monitor Közhasznú Egyesület"/>
+        </a>
+        <a href="http://www.tasz.hu/" target="_blank">
+          <img src="/images/tasz-logo.png" height="50" alt="Társaság a Szabadságjogokért" />
+        </a>
+        <a href="http://www.transparency.org" target="_blank">
+          <img src="/images/transparency-international-logo.gif" height="50" alt="Transparency International"/>
+        </a>
+        <a href="#" target="_blank">
+          <img src="/images/amitaba-mudra-logo.gif" height="50" alt="AMITABA-MUDRA Kft." />
+        </a>
+        <a href="http://www.digitalnatives.hu" target="_blank">
+          <img src="/images/dina-logo.jpg" height="50" alt="Digital Natives Kft."/>
+        </a>
+      </div>
+      <div class="left" id="licenses">
+        <div id="licenses_images" class="left">
+          <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.hu" target="_blank">
+            <img alt="Creative Commons Licenc" style="border-width:0;width=88px;height=31px" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"/>
+          </a>
+          <a target="_blank" href="http://opendefinition.org/">
+            <img alt="This material is Open Data" border="0" src="http://m.okfn.org/images/ok_buttons/od_80x15_blue.png" style="width:88px"/>
+          </a>
+        </div>
+        <div id="licenses_text" class="left">
+          Ez a Mű a <a target="_blank" rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.hu">Licenc</a> feltételeinek megfelelően szabadon felhasználható.*<br />Forráskód: Source code on <a href="http://github.com/ikko/hazaitop/" target="_blank">GitHub</a>.<br />*Az oldalon található idézetek a hivatkozott jogtulajdonosok teljes terjedelmű cikkeiből származnak és azok tulajdonát képezik.
+        </div>
+      </div>
+      <div id="footer_bottom_links">
+        <a href="#{base_url}/front/development"><ht key="development.footer">fejlesztés</ht></a> | <a href="#{base_url}/front/impressum"><ht key="impressum.footer">impresszum</ht></a> | <a href="">api</a> | <a href="">kapcsolat</a> <span id="copyright">Copyright 2010-<%= Time.now.to_date.year %> K-Monitor KhE. and AMITABA - MUDRA Kft.</span>
+      </div>
     </footer:>
   </old-page>
 </extend>

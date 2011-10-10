@@ -1,3 +1,8 @@
+.page-header, .section.with-flash.content, .page-footer {
+  width: 945px;
+  margin: 0 auto;
+}
+
 #header {
   color: white;
 }
@@ -143,7 +148,7 @@ a {
 #welcome_message {
   background-color: #e6e2e3;
   padding-left: 37px;
-  width: 385px;
+  width: 381px;
   margin-top: 38px;
   padding-top: 28px;
   line-height: 28px;
@@ -182,7 +187,11 @@ a {
 }
 
 #video_preview {
-  margin-left: -15px;
+  margin-left: -11px;
+}
+
+.content_body {
+  padding-bottom: 30px;
 }
 
 .content_body .tabs a {
@@ -226,6 +235,7 @@ a {
   height: 30px;
   border-bottom: 1px solid #8bb6bf;
   width: 945px;
+  font-size: 13px;
 }
 
 .order_list a {
@@ -237,6 +247,7 @@ a {
 
 .tab_content {
  /* background-color: #6EA4B0;*/
+  width: 945px;
 }
 
 .tab_content a {
@@ -255,4 +266,117 @@ table {
 table th {
   background-color: #6EA4B0;
   color: white;
+}
+
+.table-plus {
+  width: 100%;
+}
+
+table {
+  width: 100%;
+}
+
+table thead, table td {
+  font-size: 13px;
+  line-height: 30px;
+  height: 30px;
+}
+
+.tab_content thead a {
+  padding-left: 10px;
+  color: white;
+}
+
+table td {
+  border-right: 1px solid #58828E;
+  padding-left: 10px;
+}
+
+table th {
+  border-right: 1px solid #58828E;
+}
+
+.information-source-view, .information-source-heading {
+  border-right: none;
+}
+
+table .even {
+  background-color: #D1CFD0;
+}
+
+table .even {
+  background-color: #f3f1f2;
+}
+
+.table_footer {
+  text-align: right;
+  width: 100%;
+  background-color: #6EA4B0;
+  line-height: 23px;
+  font-size: 11px;
+}
+
+.table_footer a {
+  padding-right: 10px;
+  color: white;
+}
+
+#logos {
+  border-right: 2px solid #E6E2E3;
+  padding-top: 10px;
+}
+
+#logos img {
+  padding-right: 18px;
+}
+
+.page-footer {
+  border-top: 2px solid #E6E2E3;
+  padding-top: 9px;
+}
+
+#licenses {
+  width: 294px;
+  padding-left: 13px;
+  font-size: 10px;
+  color: #D1CFD0;
+  padding-bottom: 9px;
+}
+
+#licenses_images {
+  width: 95px;
+}
+
+#licenses_text {
+  width: 199px;
+  float: left;
+  color: #878789;
+}
+
+#licenses_text a { 
+  color: black;
+}
+
+#footer_bottom_links {
+  background-color: #3a3a3a;
+  width: 100%;
+  clear: both;
+  line-height: 28px;
+  font-size: 11px;
+  color: #f1f1f1;
+}
+
+#footer_bottom_links a {
+  color: #f1f1f1;
+  padding: 0px 6px;
+}
+
+#licenses_images img {
+  padding-bottom: 10px;
+}
+
+#copyright {
+  color: #868789;
+  float: right;
+  padding-right: 6px;
 }

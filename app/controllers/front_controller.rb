@@ -1,12 +1,14 @@
 class FrontController < ApplicationController
 
-  hobo_controller
+  hobo_model_controller
 
   caches_page :index, :expires_in => 4.minutes
   caches_page :impressum, :expires_in => 90.minutes
   caches_page :development, :expires_in => 90.minutes
 
-  def index; end
+  def index
+    @persons = Person.list.apply_scopes(:order_by => parse_sort_param(:name, :information_source))
+  end
 
   def impressum; end
 
