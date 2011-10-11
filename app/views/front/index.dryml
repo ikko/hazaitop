@@ -3,7 +3,7 @@
   <body: class="front-page"/>
 
   <content:>
-    <div id="content_header">
+    <div class="content-header">
       <a id="video_preview" class="left" href=""><img src="/images/video_preview.png"/></a>
       <img src="/images/video_right.png" class="left"/>
       <div id="welcome_message" class="left">

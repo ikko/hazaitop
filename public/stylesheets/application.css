@@ -165,7 +165,7 @@ a {
   padding-bottom: 38px;
 }
 
-#content_header {
+.content-header {
   margin-top: 32px;
 }
 
@@ -188,10 +188,6 @@ a {
 
 #video_preview {
   margin-left: -11px;
-}
-
-.content_body {
-  padding-bottom: 30px;
 }
 
 .content_body .tabs a {
@@ -255,16 +251,11 @@ a {
   color: black;
 }
 
-.tabs .active .separator {
-  
-}
-
-
-table {
+.table-plus table {
   border-top: 1px solid #58828e;
 }
 
-table th {
+.table-plus table th {
   background-color: #6EA4B0;
   color: white;
 }
@@ -273,11 +264,11 @@ table th {
   width: 100%;
 }
 
-table {
+.table-plus table {
   width: 100%;
 }
 
-table thead, table td {
+.table-plus table thead, .table-plus td {
   font-size: 13px;
   line-height: 30px;
   height: 30px;
@@ -288,16 +279,16 @@ table thead, table td {
   color: white;
 }
 
-table td {
+.table-plus td {
   border-right: 1px solid #58828E;
   padding-left: 10px;
 }
 
-table th {
+.table-plus th {
   border-right: 1px solid #58828E;
 }
 
-.information-source-view, .information-source-heading {
+.table-plus .information-source-view, .table-plus .information-source-heading {
   border-right: none;
 }
 
@@ -305,7 +296,7 @@ table .even {
   background-color: #D1CFD0;
 }
 
-table .even {
+table .odd {
   background-color: #f3f1f2;
 }
 
@@ -334,6 +325,7 @@ table .even {
 .page-footer {
   border-top: 2px solid #E6E2E3;
   padding-top: 9px;
+  margin-top: 30px;
 }
 
 #licenses {
@@ -380,4 +372,25 @@ table .even {
   color: #868789;
   float: right;
   padding-right: 6px;
+}
+
+.field-list {
+  padding-top: 14px;
+}
+
+.field-list th {
+  font-weight: bold;
+  padding-left: 6px;
+}
+
+.details_header {
+  background-color: #F4F2F3;
+  line-height: 34px;
+  font-size: 17px;
+  padding-left: 7px;
+  border-top: 1px solid #868789;
+  border-bottom: 3px solid #868789;
+  margin-top: 25px;
+  margin-bottom: 20px;
+  letter-spacing: 1px;
 }
