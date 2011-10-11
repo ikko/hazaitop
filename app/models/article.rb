@@ -7,7 +7,7 @@ class Article < ActiveRecord::Base
     summary :text
     internet_address :string, :required, :unique
     weblink :string
-    processed_at :date
+    processed_at :date #TODO ez elvileg a created_at, de nekünk kellene az article tényleges létrehozása is
     timestamps
   end
 
