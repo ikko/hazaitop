@@ -18,6 +18,10 @@ class ArticlesController < ApplicationController
 
   def show
     @this = find_instance
+    @interpersonal_relations_size = @this.interpersonal_relations.size
+    @person_to_org_relations_size = @this.person_to_org_relations.size
+    @interorg_relations_size = @this.interorg_relations.size
+
     respond_to do |format| 
       format.html  { hobo_show @this }
       format.xml   { render(:xml => @this) }

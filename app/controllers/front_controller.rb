@@ -7,7 +7,8 @@ class FrontController < ApplicationController
   caches_page :development, :expires_in => 90.minutes
 
   def index
-    @persons = Person.list.apply_scopes(:order_by => parse_sort_param(:name, :information_source))
+    @people        = Person.list.apply_scopes(:order_by => parse_sort_param(:name, :information_source))
+    @organizations = Organization.list.apply_scopes(:order_by => parse_sort_param(:name, :information_source))
   end
 
   def impressum; end
@@ -27,16 +28,9 @@ class FrontController < ApplicationController
   private
 
   def site_search(query)
-    results = Organization.name_contains(query) + 
-              Person.last_name_contains(query) + 
-              Person.first_name_contains(query) + 
-              Litigation.name_contains(query) + 
-              Article.title_contains(query)
-    all_results = results.select { |r| r.viewable_by?(current_user) }
-    if all_results.empty?
-      render :text => "<p>"+ ht(:"hobo.live_search.no_results", :default=>["Your search returned no matches."]) + "</p>"
-    else
-      render_tags(all_results, :search_card, :for_type => true)
-    end
+    @organizations = Organization.search(query, :name)
+    @people        = Person.search(query, :last_name, :first_name)
+    @litigations   = Litigation.search(query, :name) 
+    @articles      = Article.search(query, :title)
   end
 end

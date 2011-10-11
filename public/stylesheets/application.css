@@ -190,7 +190,7 @@ a {
   margin-left: -11px;
 }
 
-.content_body .tabs a {
+.tabs a {
   color: black;
   font-size: 15px;
 }
@@ -393,4 +393,22 @@ table .odd {
   margin-top: 25px;
   margin-bottom: 20px;
   letter-spacing: 1px;
+}
+
+.card.article {
+  border-bottom: 2px solid #868789; 
+  padding-bottom: 14px;
+}
+
+.card.article .article-title {
+  color: #6EA4B0;
+}
+
+.article-summary {
+  color: black;
+  line-height: 26px;
+}
+
+.article-created {
+  font-style: italic;
 }
