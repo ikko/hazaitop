@@ -145,6 +145,10 @@ a {
   width: 166px;
 }
 
+#to_map_blue {
+  margin-left: 15px;
+}
+
 #welcome_message {
   background-color: #e6e2e3;
   padding-left: 37px;
@@ -274,7 +278,7 @@ a {
   height: 30px;
 }
 
-.tab_content thead a {
+thead a {
   padding-left: 10px;
   color: white;
 }
@@ -374,13 +378,24 @@ table .odd {
   padding-right: 6px;
 }
 
+.card, .field-list {
+  font-size: 13px;
+}
+
 .field-list {
   padding-top: 14px;
+  clear: both;
+  margin-bottom: 20px;
 }
 
 .field-list th {
   font-weight: bold;
   padding-left: 6px;
+  line-height: 20px;
+}
+
+.field-list td {
+  padding-left: 40px;
 }
 
 .details_header {
@@ -417,6 +432,6 @@ table .odd {
   color: black;
 }
 
-.field-list td {
-  padding-left: 40px;
+h2 {
+  font-size: 27px;
 }

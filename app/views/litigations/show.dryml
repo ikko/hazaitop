@@ -1,6 +1,9 @@
 <show-page>
+  <heading: class="left"/>
+  <after-heading:>
+    <a href="/site_search/?type=l&id=#{this.id}"><img src="/images/terkepre_vele.jpg" id="to_map_blue"/></a>
+  </after-heading:>
   <append-content-body:>
-    <a href="/site_search/?type=l&id=#{this.id}">Kapcsolati háló megjelenítése</a>
     <table-plus if="&@interpersonal_relations" with="&@interpersonal_relations" fields="person, p2p_relation_type, related_person, organization, information_source" without-search-form />
     <table-plus if="&@interorg_relations" with="&@interorg_relations" fields="organization, o2o_relation_type, related_organization, information_source" without-search-form />
     <table-plus if="&@person_to_org_relations" with="&@person_to_org_relations" fields="person, p2o_relation_type, organization, start_time, end_time, information_source" without-search-form />
