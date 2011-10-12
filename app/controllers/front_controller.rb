@@ -20,9 +20,7 @@ class FrontController < ApplicationController
   def api ; end
 
   def search               
-    if params[:query]      
-      site_search(params[:query])
-    end
+    site_search(params[:query])
   end
 
   private
