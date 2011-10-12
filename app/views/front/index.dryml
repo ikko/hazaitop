@@ -8,10 +8,10 @@
       <img src="/images/video_right.png" class="left"/>
       <div id="welcome_message" class="left">
         Az oldal célja a magyar <strong>politikai</strong> és<br /> <strong>gazdasági elit</strong> összefonódásának<br /> és <strong>kapcsolati háló</strong>jának feltérképezése<br /> az átláthatóbb közpénzmozgás érdekében.
-        <form action="post" id="quick_search_content_wrapper">
+        <form action="/search" method="post" id="quick_search_content_wrapper">
           <img src="/images/quicksearch_borderleft.png" class="left"/>
           <img src="/images/quicksearch_bordertop.png" class="left"/>
-          <input type="text" name="search" id="quick_search_input" value="Gyorskeresés"/>
+          <input type="text" name="query" id="quick_search_input" value="Gyorskeresés"/>
           <input type="submit" class="left" id="quick_search_zoom"/>
           <img src="/images/quicksearch_borderbottom.png" class="left"/>
           <img src="/images/quicksearch_borderright.png" class="right"/>

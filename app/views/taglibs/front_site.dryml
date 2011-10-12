@@ -60,7 +60,7 @@
             <li><a href="">Regisztráció</a></li>
           </ul>
           <div id="search_box">
-            <div id="search_wrapper"><form action="post"><input type="text" name="search" id="search_input" value="Keresés"/><input type="submit" id="search_button" value="Submit"/></form></div>
+            <div id="search_wrapper"><form with="&nil" action="/search" method="post"><input type="text" name="query" id="search_input" value="Keresés"/><input type="submit" id="search_button" value="Submit"/></form></div>
           </div>
         </div>
       </div>
