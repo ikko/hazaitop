@@ -412,3 +412,11 @@ table .odd {
 .article-created {
   font-style: italic;
 }
+
+.information_source-link {
+  color: black;
+}
+
+.field-list td {
+  padding-left: 40px;
+}
