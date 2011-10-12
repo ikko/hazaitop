@@ -1,0 +1,49 @@
+<page>
+  <content:>
+    <header class="content-header">
+      <h2>Keresési találatok</h2>
+    </header>
+    <div class="details_header">Profilok:</div>
+      <div class="tabs">
+        <div class="active tab"><a href="#people_content">SZEMÉLYEK</a></div><div class="separator"></div>
+        <div class="tab"><a href="#orgs_content">SZERVEZETEK</a></div>
+      </div>
+      <div id="people_content" class="tab_content">
+        <div class="order_list">
+          <a href="" class="left active">Legtöbb kapcsolat</a>
+          <div class="separator left">|</div>
+          <a href="" class="left">Legfrisebb</a>
+        </div>
+        <table-plus with="&@people" fields="this, last_name, first_name, information_source" without-search-form>
+          <this-heading:>Személy</this-heading:>
+          <up-arrow:>⬆</up-arrow:>
+          <down-arrow:>⬇</down-arrow:>
+          <this-view:><a/> <a href="/site_search/?p=#{this.id}"><img src="/images/plusz.png"/></a> </this-view:>
+        </table-plus>
+        <div class="table_footer">ide jön a lapozás</div>
+      </div>
+      <div id="orgs_content" class="tab_content" style="display: none">
+        <div class="order_list">
+          <a href="" class="left">Legtöbb kapcsolat</a>
+          <div class="separator left">|</div>
+          <a href="" class="left">Legfrisebb</a>
+        </div>
+        <table-plus with="&@organizations" fields="this, city, street, zip_code, information_source" without-search-form>
+          <up-arrow:>⬆</up-arrow:>
+          <down-arrow:>⬇</down-arrow:>
+          <this-view:><a/> <a href="/site_search/?p=#{this.id}"><img src="/images/plusz.png"/></a> </this-view:>
+        </table-plus>
+        <div class="table_footer">ide jön a lapozás</div>
+      </div>
+    <div class="details_header">Cikkek:</div>
+    <collection with="&@articles">
+      <card:>
+        <body:>
+          <a><view:summary/></a>
+          <span class="article-created">Dátum: <view:created-at/></span><% if this.information_source %> | <view:information-source/><% end %>
+        </body:>
+      </card:>
+      <empty-message:></empty-message:>
+    </collection>
+  </content:>
+</page>

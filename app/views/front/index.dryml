@@ -3,29 +3,71 @@
   <body: class="front-page"/>
 
   <content:>
-    <header class="content-header">
-      <a id="video_preview" class="left" href=""><img src="/images/video_preview.jpg"/></a>
-      <div id="welcome-message" class="left">
+    <div class="content-header">
+      <a id="video_preview" class="left" href=""><img src="/images/video_preview.png"/></a>
+      <img src="/images/video_right.png" class="left"/>
+      <div id="welcome_message" class="left">
         Az oldal célja a magyar <strong>politikai</strong> és<br /> <strong>gazdasági elit</strong> összefonódásának<br /> és <strong>kapcsolati háló</strong>jának feltérképezése<br /> az átláthatóbb közpénzmozgás érdekében.
-        <div id="welcome_search">
-          <a href="" id="advanced_search"></a>
-          <a href="" id="to_map"></a>
+        <form action="post" id="quick_search_content_wrapper">
+          <img src="/images/quicksearch_borderleft.png" class="left"/>
+          <img src="/images/quicksearch_bordertop.png" class="left"/>
+          <input type="text" name="search" id="quick_search_input" value="Gyorskeresés"/>
+          <input type="submit" class="left" id="quick_search_zoom"/>
+          <img src="/images/quicksearch_borderbottom.png" class="left"/>
+          <img src="/images/quicksearch_borderright.png" class="right"/>
+          <div id="welcome_message_bottom">
+            <a href="" id="quick_search" class="left">RÉSZLETES KERESÉS</a>
+            <a href="" id="to_map" class="left">TÉRKÉPRE</a>
+          </div>
+        </form>
+      </div>
+      <img src="/images/video_bottom.png"/>
+    </div>
+
+
+    <div class="content_body">
+      <div class="tabs">
+        <div class="active tab"><a href="#people_content">SZEMÉLYEK</a></div><div class="separator"></div>
+        <div class="tab"><a href="#orgs_content">SZERVEZETEK</a></div><div class="separator"></div>
+        <div class="tab"><a href="#trans_content">TRANZAKCIÓK</a></div>
+      </div>
+      <div id="people_content" class="tab_content">
+        <div class="order_list">
+          <a href="" class="left active">Legtöbb kapcsolat</a>
+          <div class="separator left">|</div>
+          <a href="" class="left">Legfrisebb</a>
+        </div>
+        <table-plus with="&@people" fields="this, last_name, first_name, information_source" without-search-form>
+          <this-heading:>Személy</this-heading:>
+          <up-arrow:>⬆</up-arrow:>
+          <down-arrow:>⬇</down-arrow:>
+          <this-view:><a/> <a href="/site_search/?p=#{this.id}"><img src="/images/plusz.png"/></a> </this-view:>
+        </table-plus>
+        <div class="table_footer"><a href="#{people_path}">További személyek &gt;</a></div>
+      </div>
+      <div id="orgs_content" class="tab_content" style="display: none">
+        <div class="order_list">
+          <a href="" class="left">Legtöbb kapcsolat</a>
+          <div class="separator left">|</div>
+          <a href="" class="left">Legfrisebb</a>
+        </div>
+        <table-plus with="&@organizations" fields="this, city, street, zip_code, information_source" without-search-form>
+          <up-arrow:>⬆</up-arrow:>
+          <down-arrow:>⬇</down-arrow:>
+          <this-view:><a/> <a href="/site_search/?p=#{this.id}"><img src="/images/plusz.png"/></a> </this-view:>
+        </table-plus>
+        <div class="table_footer"><a href="#{organizations_path}">További szervezetek &gt;</a></div>
+      </div>
+
+      <div id="trans_content" class="tab_content" style="display: none">
+        <div class="order_list">
+          <a href="" class="left">Legtöbb kapcsolat</a>
+          <div class="separator left">|</div>
+          <a href="" class="left">Legfrisebb</a>
         </div>
       </div>
-    </header>
-
-
-    <section class="content-body">
       <div class="clear"></div>
-      <h2><ht key="homepage.organizations">Organizations</ht></h2>
-      <table-plus with="&Organization.list" fields="this, city, street, zip_code, information_source" without-search-form/>
-      <a href="#{organizations_path}">további szervezetek...</a><br />
-      <h2><ht key="homepage.people">People</ht></h2>
-      <table-plus with="&Person.list" fields="this, last_name, first_name, information_source" without-search-form>
-        <this-heading:>Személy</this-heading:>
-      </table-plus>
-      <a href="#{people_path}">további személyek...</a>
-    </section>
+    </div>
   </content:>
 
 </page>
