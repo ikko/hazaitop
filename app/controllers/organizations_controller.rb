@@ -25,7 +25,10 @@ class OrganizationsController < ApplicationController
   end
 
   def show
-    @this = find_instance
+    @this               = find_instance
+    @interorg_size      = @this.interorg_relations.size
+    @person_to_org_size = @this.person_to_org_relations.size
+    @financials_size    = @this.financials.size
     respond_to do |format| 
       format.html  { hobo_show @this }
       format.xml   { render( :xml  => { "data" =>  @this, "interorg_relations"  => @this.interorg_relations, "person_to_org_relations" => @this.person_to_org_relations } ) }

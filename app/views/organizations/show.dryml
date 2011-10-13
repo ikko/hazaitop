@@ -1,42 +1,56 @@
 <show-page without-creator-link>
-  <field-list: skip="klink" />
-  <append-heading:>
-    <div style="position:relative">
-      <div id="resource_links">
-        <a href="/site_search/?type=o&id=#{this.id}" target="_blank"><ht key="custom.draw_network">Draw network connections</ht></a><br />
-        <a if="&this.klink" href="http://www.k-monitor.hu#{this.klink}" target="_blank"><ht key="custom.jump_to_k-monitor">View on k-monitor.hu</ht></a>
-      </div>
-    </div>
- <!--form action="&'/organizations/' + this.id.to_s + '/merge'" method="POST" if="&current_user.supervisor? or current_user.editor? or current_user.administrator?" >
-    Merge <name-one:organization/> into <%=this.name%> <submit label="start!"/>
-  </form-->
-
-
-  </append-heading:>
+  <field-list: fields="street, city, zip_code, phone, fax, email_address, internet_address, trade_register_nr, tax_nr, founded_at, number_of_employees, information_source, org_grade, sector, activities" />
+  <heading: class="left"/>
+  <after-heading:>
+    <a href="/site_search/?type=o&id=#{this.id}" target='_blank'><img src="/images/terkepre_vele.jpg" id="to_map_blue"/></a>
+    <!--a if="&this.klink" href="http://www.k-monitor.hu#{this.klink}" target="_blank"><ht key="custom.jump_to_k-monitor">View on k-monitor.hu</ht></a-->
+  </after-heading:>
   <append-content-body:>
-    <field-list fields="activities" />
-    <table-plus:financials fields="year, balance_sheet_total, turnover" without-search-form />
-    <table-plus:interorg_relations fields="related_organization, o2o_relation_type, information_source, value, currency, vat_incl, contract, tender, article_relations" without-search-form >
-      <value-view:>
-        <view with="&commify(this)"/>
-      </value-view:>
-      <article-relations-view:>
-        <% this.each do |r| %>
-          <a href="#{article_path(r.article_id)}"><view with="&r.article.title[0..60].strip + '...'"/></a><br/>
-        <% end %>
-      </article-relations-view:>
-    </table-plus:interorg_relations>
-    <table-plus:person_to_org_relations fields="person, o2p_relation_type, start_time, end_time, information_source, article_relations" without-search-form >
-      <article-relations-view:>
-        <% this.each do |r| %>
-          <a href="#{article_path(r.article_id)}"><view with="&r.article.title[0..60].strip + '...'"/></a><br/>
-        <% end %>
-      </article-relations-view:>
-      <end-time-view:>
-        <view format="%B %d, %Y" if="&!this_parent.no_end_time"/>
-        <ht if="&this_parent.no_end_time" key="custom.ongoing">ongoing</ht>
-      </end-time-view:>
-    </table-plus:person_to_org_relations>
+    <% if @person_to_org_size > 0 || @interorg_size > 0 || @financials_size %>
+
+      <div class="tabs">
+        <div if="&@person_to_org_size>0" class="active tab">
+          <a href="#person_to_org_content">SZEMÉLYEK</a>
+        </div>
+        <div if="&@person_to_org_size>0 && (@interorg_size>0 || @financials_size>0)" class="separator"></div>
+        <div if="&@interorg_size>0" class="#{'active ' if @person_to_org_size==0} tab">
+          <a href="#interorg_content">SZERVEZETEK</a>
+        </div>
+        <div if="&@interorg_size>0 && @financials_size>0" class="separator"></div>
+        <div if="&@financials_size>0" class="#{'active ' if @person_to_org_size==0 && @interorg_size==0} tab">
+          <a href="#financial_content">PÉNZÜGYEK</a>
+        </div>
+      </div>
+      <div if="&@person_to_org_size>0" id="person_to_org_content" class="tab_content">
+        <table-plus:person_to_org_relations fields="person, o2p_relation_type, start_time, end_time, information_source, article_relations" without-search-form >
+          <article-relations-view:>
+            <% this.each do |r| %>
+              <a href="#{article_path(r.article_id)}"><view with="&r.article.id"/></a>&nbsp;
+            <% end %>
+          </article-relations-view:>
+          <end-time-view:>
+            <view format="%B %d, %Y" if="&!this_parent.no_end_time"/>
+            <ht if="&this_parent.no_end_time" key="custom.ongoing">ongoing</ht>
+          </end-time-view:>
+        </table-plus:person_to_org_relations>
+      </div>
+      <div if="&@interorg_size>0" id="interorg_content" class="tab_content">
+        <table-plus:interorg_relations fields="related_organization, o2o_relation_type, information_source, value, currency, vat_incl, contract, tender, article_relations" without-search-form >
+          <value-view:>
+            <view with="&commify(this)"/>
+          </value-view:>
+          <article-relations-view:>
+            <% this.each do |r| %>
+              <a href="#{article_path(r.article_id)}"><view with="&r.article.id"/></a>&nbsp;
+            <% end %>
+          </article-relations-view:>
+        </table-plus:interorg_relations>
+      </div>
+      <div if="&@financials_size>0" id="financial_content" class="tab_content">
+        <table-plus:financials fields="year, balance_sheet_total, turnover" without-search-form />
+      </div>
+    <% end %>
+>>>>>>> organization show oldal
     <if test="&current_user.signed_up? and @this.org_histories.count > 0">
       <h3 class="save_history">Save History</h3>
       <table-plus with="&@this.org_histories" fields="user, updated_at" without-search-form/>
