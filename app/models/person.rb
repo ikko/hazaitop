@@ -9,8 +9,8 @@ class Person < ActiveRecord::Base
     klink        :string
     born_at      :date
     mothers_name :string
-    interpersonal_relations_count :integer
-    person_to_org_relations_count :integer
+    interpersonal_relations_count :integer, :default => 0
+    person_to_org_relations_count :integer, :default => 0
     timestamps
   end
 

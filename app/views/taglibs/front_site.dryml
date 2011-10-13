@@ -183,8 +183,10 @@
     </header:>
     <body: param>
       <view:person_grades if="&this.person_grades"/>
-      <span if="&this.interpersonal_relations_count"><strong><view:interpersonal_relations_count/></strong> személyi kapcsolat, </span>
-      <span if="&this.person_to_org_relations_count"><strong><view:person_to_org_relations_count/></strong> szervezeti kapcsolat</span><br />
+      <div if="&this.interpersonal_relations_count>0 || this.person_to_org_relations_count>0">
+        <view:interpersonal_relations_count class="strong" if="&this.interpersonal_relations_count"/> személyi kapcsolat, 
+        <view:person_to_org_relations_count class="strong" if="&this.person_to_org_relations_count"/> szervezeti kapcsolat
+      </div>
     </body:>
   </card>
 </def>
