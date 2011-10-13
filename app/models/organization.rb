@@ -3,21 +3,22 @@ class Organization < ActiveRecord::Base
   hobo_model # Don't put anything above this
 
   fields do
-    name                :string, :unique
-    klink               :string
-    street              :string
-    city                :string
-    zip_code            :string
-    phone               :string
-    fax                 :string
-    email_address       :string
-    internet_address    :string
-    trade_register_nr   :string
-    tax_nr              :string
-    founded_at          :date
-    number_of_employees :integer
-    interorg_relations_count :integer
-    person_to_org_relations_count :integer
+    name                          :string, :unique
+    klink                         :string
+    street                        :string
+    city                          :string
+    zip_code                      :string
+    phone                         :string
+    fax                           :string
+    email_address                 :string
+    internet_address              :string
+    trade_register_nr             :string
+    tax_nr                        :string
+    founded_at                    :date
+    number_of_employees           :integer
+    interorg_relations_count      :integer, :default => 0
+    person_to_org_relations_count :integer, :default => 0
+    financials_count              :integer, :default => 0
     timestamps
   end
 

@@ -9,7 +9,7 @@ class Financial < ActiveRecord::Base
     timestamps
   end
 
-  belongs_to :organization
+  belongs_to :organization, :counter_cache => true
 
   validates_numericality_of :year
   validates_numericality_of :balance_sheet_total

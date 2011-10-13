@@ -428,10 +428,18 @@ table .odd {
   font-style: italic;
 }
 
-.information_source-link {
+.top-page-nav a, .bottom-page-nav a, .information_source-link, .organization-link, .notification-link {
   color: black;
+}
+
+.card.organization div {
+  line-height: 25px;
 }
 
 h2 {
   font-size: 27px;
+}
+
+.strong {
+  font-weight: bold;
 }
