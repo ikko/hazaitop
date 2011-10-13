@@ -6,22 +6,22 @@
     <!--a if="&this.klink" href="http://www.k-monitor.hu#{this.klink}" target="_blank"><ht key="custom.jump_to_k-monitor">View on k-monitor.hu</ht></a-->
   </after-heading:>
   <append-content-body:>
-    <% if @person_to_org_size > 0 || @interorg_size > 0 || @financials_size %>
+    <% if this.person_to_org_relations_count > 0 || this.interorg_relations_count > 0 || this.financials_count > 0 %>
 
       <div class="tabs">
-        <div if="&@person_to_org_size>0" class="active tab">
+        <div if="&this.person_to_org_relations_count>0" class="active tab">
           <a href="#person_to_org_content">SZEMÉLYEK</a>
         </div>
-        <div if="&@person_to_org_size>0 && (@interorg_size>0 || @financials_size>0)" class="separator"></div>
-        <div if="&@interorg_size>0" class="#{'active ' if @person_to_org_size==0} tab">
+        <div if="&this.person_to_org_relations_count>0 && (this.interorg_relations_count>0 || this.financials_count>0)" class="separator"></div>
+        <div if="&this.interorg_relations_count>0" class="#{'active ' if this.person_to_org_relations_count==0} tab">
           <a href="#interorg_content">SZERVEZETEK</a>
         </div>
-        <div if="&@interorg_size>0 && @financials_size>0" class="separator"></div>
-        <div if="&@financials_size>0" class="#{'active ' if @person_to_org_size==0 && @interorg_size==0} tab">
+        <div if="&this.interorg_relations_count>0 && this.financials_count>0" class="separator"></div>
+        <div if="&this.financials_count>0" class="#{'active ' if this.person_to_org_relations_count==0 && this.interorg_relations_count==0} tab">
           <a href="#financial_content">PÉNZÜGYEK</a>
         </div>
       </div>
-      <div if="&@person_to_org_size>0" id="person_to_org_content" class="tab_content">
+      <div if="&this.person_to_org_relations_count>0" id="person_to_org_content" class="tab_content">
         <table-plus:person_to_org_relations fields="person, o2p_relation_type, start_time, end_time, information_source, article_relations" without-search-form >
           <article-relations-view:>
             <% this.each do |r| %>
@@ -34,7 +34,7 @@
           </end-time-view:>
         </table-plus:person_to_org_relations>
       </div>
-      <div if="&@interorg_size>0" id="interorg_content" class="tab_content">
+      <div if="&this.interorg_relations_count>0" id="interorg_content" class="tab_content">
         <table-plus:interorg_relations fields="related_organization, o2o_relation_type, information_source, value, currency, vat_incl, contract, tender, article_relations" without-search-form >
           <value-view:>
             <view with="&commify(this)"/>
@@ -46,7 +46,7 @@
           </article-relations-view:>
         </table-plus:interorg_relations>
       </div>
-      <div if="&@financials_size>0" id="financial_content" class="tab_content">
+      <div if="&this.financials_count>0" id="financial_content" class="tab_content">
         <table-plus:financials fields="year, balance_sheet_total, turnover" without-search-form />
       </div>
     <% end %>

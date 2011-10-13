@@ -166,10 +166,12 @@
       <h4 param="heading"><a><name/></a></h4>
     </header:>
     <body: param>
-      <span if="&this.interorg_relations_count"><strong><view:interorg_relations_count/></strong> szervezeti kapcsolat, </span>
-      <span if="&this.person_to_org_relations_count"><strong><view:person_to_org_relations_count/></strong> személyi kapcsolat</span> <br />
-      <strong><view:city/></strong> <view:street/> <br/>
-      <view:trade_register_nr/> <view:tax_nr/> <br/>
+      <div if="&this.interorg_relations_count>0 || this.person_to_org_relations_count>0">
+        <view:interorg_relations_count class="strong" if="&this.interorg_relations_count"/> szervezeti kapcsolat 
+        <view:person_to_org_relations_count class="strong" if="&this.person_to_org_relations_count>0"/> személyi kapcsolat
+      </div>
+      <view:city class="strong"/> <view:street/>
+      <view:trade_register_nr/> <view:tax_nr/>
     </body:>
   </card>
 </def>
