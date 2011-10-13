@@ -412,7 +412,7 @@ table .odd {
 
 .card.article {
   border-bottom: 2px solid #868789; 
-  padding-bottom: 14px;
+  padding: 14px 0px;
 }
 
 .card.article .article-title {
@@ -428,7 +428,7 @@ table .odd {
   font-style: italic;
 }
 
-.top-page-nav a, .bottom-page-nav a, .information_source-link, .organization-link, .notification-link {
+.top-page-nav a, .bottom-page-nav a, .information_source-link, .organization-link, .notification-link, .litigation-link, .article-created-at {
   color: black;
 }
 
@@ -438,6 +438,7 @@ table .odd {
 
 h2 {
   font-size: 27px;
+  margin-bottom: 25px;
 }
 
 .strong {
