@@ -428,7 +428,7 @@ table .odd {
   font-style: italic;
 }
 
-.top-page-nav a, .bottom-page-nav a, .information_source-link, .organization-link, .notification-link, .litigation-link, .article-created-at {
+.top-page-nav a, .bottom-page-nav a, .information_source-link, .organization-link, .notification-link, .litigation-link, .article-created-at, .contract-link, .notification_url {
   color: black;
 }
 

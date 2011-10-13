@@ -141,7 +141,7 @@
     <body: param>
       <strong><a><view:seller/></a></strong><br/>
       ajánlattevők száma: <view:no_of_proposals/><br />
-      <a href="&this.notification.url" target="_blank">forrás</a> | <a><view:notification/></a>
+      <a class="notification_url" href="&this.notification.url" target="_blank">forrás</a> | <a><view:notification/></a>
     </body:>
   </card>
 </def>
