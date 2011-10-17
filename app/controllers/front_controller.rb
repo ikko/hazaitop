@@ -23,6 +23,10 @@ class FrontController < ApplicationController
     site_search(params[:query])
   end
 
+  def detailed_search
+
+  end
+
   private
 
   def site_search(query)

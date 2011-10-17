@@ -444,3 +444,74 @@ h2 {
 .strong {
   font-weight: bold;
 }
+
+#detailed_search_wrapper {
+  background-color: #e6e2e3;
+  font-size: 13px;
+}
+
+#detailed_search_wrapper fieldset {
+  border-bottom: 1px solid #C9C7C8;
+  border-top: 1px solid #D2D0D1;
+  padding: 19px 12px;
+}
+
+#detailed_search_wrapper fieldset span {
+  width: 90px;
+  display: inline-block;
+}
+
+#detailed_search_wrapper fieldset input {
+  border: 1px solid #b6b5b6;
+  height: 25px;
+  margin: 0px;
+  padding: 0px;
+  margin-bottom: 5px;
+}
+
+.no_top_border {
+  border-top: none !important;
+}
+
+.no_bottom_border {
+  border-bottom: none !important;
+}
+
+#detailed_search_submit_button {
+  background-color: #064a57;
+  border: 1px solid #7c8486;
+  color: white;
+  cursor: pointer;
+  float: right;
+  width: 150px;
+}
+
+.from_to_separator {
+  display: inline-block;
+  width: 24px;
+  margin: 0px 5px;
+  height: 0px;
+  border-top: 1px solid #C9C7C8;
+  border-bottom: 1px solid #D2D0D1;
+  line-height: 0px;
+  font-size: 0px;
+  top: -3px;
+  position: relative;
+}
+
+#search_word {
+  width: 827px;
+}
+
+.checkbox {
+  padding: 0px;
+  margin: 0px !important;
+  height: 13px !important;
+}
+
+.checkbox_label {
+  width: 80px;
+  display: inline-block;
+  padding-left: 10px;
+  padding-bottom: 12px;
+}

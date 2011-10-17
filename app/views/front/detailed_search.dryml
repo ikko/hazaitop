@@ -1,0 +1,26 @@
+<page>
+  <content:>
+    <header class="content-header">
+      <h2>Részletes keresés</h2>
+    </header>
+    <div id="detailed_search_wrapper">
+      <form action="" method="post">
+        <fieldset class="no_top_border">
+          <span>Kereső szó:</span><input type="text" name="search_word" id="search_word"/>
+        </fieldset>
+        <fieldset>
+          <span>Dátum:</span><input type="text" name="date_from"/><div class="from_to_separator"></div><input type="text" name="date_to"/><br />
+          <span>Összeg (Ft):</span><input type="text" name="amount_from"/><div class="from_to_separator"></div><input type="text" name="amount_to"/>
+        </fieldset>
+        <fieldset>
+          <span>Profil:</span><input type="checkbox" name="person" class="checkbox"/><label class="checkbox_label">Személy</label><input type="checkbox" name="organization" class="checkbox"/><label class="checkbox_label">Szervezet</label><br />
+          <span>Adat:</span><input type="checkbox" name="article" class="checkbox"/><label class="checkbox_label">Cikk</label><input type="checkbox" name="litigation" class="checkbox"/><label class="checkbox_label">Per</label><input type="checkbox" name="notification" class="checkbox"/><label class="checkbox_label">Közbeszerzés</label>
+        </fieldset>
+        <fieldset class="no_bottom_border">
+          <input type="submit" name="submit" id="detailed_search_submit_button" value="Keresés"/>
+        </fieldset>
+      </form>
+    </div>
+  </content:>
+</page>
+
