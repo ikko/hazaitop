@@ -1,6 +1,6 @@
 <page>
   <append-scripts:>
-    <javascript name="AC_OETags.min, json2.min, cytoscapeweb.min, graph"/>
+    <javascript name="jquery-1.4.4, jquery-ui-1.8.6.custom.min, AC_OETags.min, json2.min, cytoscapeweb.min, graph"/>
     <script type='text/javascript'>
       <%= "var __debug = true;" if Rails.env.development? %>
       <%= "var __debug = false;" if Rails.env.production? %>
@@ -15,7 +15,92 @@
     </script>
   </append-scripts:>
   <content:>
-    <div class="left" id="search_box">
+    <div id="map_wrapper">
+      <div id="map_panel" class="left">
+        <div id="map_tabs">
+          <div class="active tab"><a href="#map_content">TÉRKÉP</a></div>
+          <div class="tab"><a href="#search_content">KERESÉS</a></div>
+          <div class="tab"><a href="#profil_content">PROFIL</a></div>
+        </div>
+        <div id="map_content" style="display: none;" class="tab_content">
+          <div id="map_content_header">
+            <span class="strong">Hunvald</span><br />
+            <a href="">profil megtekintése</a>
+          </div>
+          <input type="checkbox" name=""/><label class="strong">Személyek</label><br />
+          <input type="checkbox" name=""/><label>rokoni kapcsolatok</label><br />
+          <input type="checkbox" name=""/><label>üzleti kapcsolatok</label><br />
+          <input type="checkbox" name=""/><label>egyéb kapcsolatok</label><br />
+          <input type="checkbox" name=""/><label class="strong">Szervezetek</label><br />
+          <input type="checkbox" name=""/><label class="strong">Közbeszerzések</label><br />
+        </div>
+        <div id="search_content" style="display: none;" class="tab_content">
+          <label>Személy neve: </label><input class="autocomplete" id="people_autocomplete" type="text"/><img class="ajax_loader" src="/images/autocomplete-ajax-loader.gif"/>
+          <div class="clear"></div>
+          <label>Szervezet neve: </label><input class="autocomplete" id="organization_autocomplete" type="text"/><img class="ajax_loader" src="/images/autocomplete-ajax-loader.gif"/>
+          <div class="clear"></div>
+          <label>Per megnevezés: </label><input class="autocomplete" id="litigation_autocomplete" type="text"/><img class="ajax_loader" src="/images/autocomplete-ajax-loader.gif"/>
+          <div class="clear"></div>
+        </div>
+        <div id="profil_content" class="tab_content">
+          <div id="search_entities">
+            <div id="person_node" class="node_attributes">
+              <ul>
+                <li>Név: <span id="person_name"></span></li>
+                <li>Ajnya neve: <span id="mothers_name"></span></li>
+                <li>Születési év: <span id="born_at"></span></li>
+              </ul>
+            </div>
+            <div id="organization_node" class="node_attributes">
+              <ul>
+                <li>Név: <span id="organization_name"></span></li>
+                <li>Cím: <span id="address"></span></li>
+                <li>Alapítás éve: <span id="founded_at"></span></li>
+                <li>Legfrissebb pénzügyi adatok</li>
+                <li>Év: <span id="year"></span></li>
+                <li>Forgalom: <span id="turnover"></span></li>
+                <li>Mérleg: <span id="balance"></span></li>
+              </ul>
+            </div>
+            <div id="litigation_node" class="node_attributes">
+              <ul>
+                <li>Név: <span id="litigation_name"></span></li>
+                <li>Per kezdete: <span id="start_time"></span></li>
+                <li>Per vége: <span id="end_time"></span></li>
+              </ul>
+            </div>
+            <input type="hidden" name="id" id="selected_node_id" value="#{params[:id]}"/>
+            <input type="hidden" name="type" id="selected_node_type" value="#{params[:type]}"/>
+            <a href="#" id="load_node_relations">Kapcsolati háló felderítése</a>
+          </div>
+        </div>
+      </div>
+      <div class="left" id="relationgraph"></div>
+    </div>
+    <div id="map_node_details">
+      <header class="content-header">
+        <h2>Hunvald György</h2>
+      </header>
+      <div class="node_details_block left">
+        <div class="details_header">Betöltött hivatalok:</div>
+        bkv mufti<br />
+        gazdasági mufti
+      </div>
+      <div class="node_details_block left">
+        <div class="details_header">Személyes adatok:</div>
+        <div class="strong detail">Születési idő</div>1939.02.12<br />
+        <div class="strong detail">Anyja neve</div>Kis Aranka<br />
+        <div class="strong detail">Születési hely</div>Budapest<br />
+        <div class="strong detail">Információ forrás</div><a href="http://k-monitor.hu">www.k-monitor.hu</a><br />
+      </div>
+      <div class="node_details_block left">
+        <div class="details_header">Linkek:</div>
+        <a href="http://k-monitor.hu">Megtekintés a k-monitoron</a><br />
+        <a href="http://parlament.hu">Életrajz (parlament.hu)</a>
+      </div>
+      <div class="clear"></div>
+    </div>
+    <!--div class="left" id="search_box">
       <div id="search_entities">
         <ul>
           <li><a href="#search_tab_people">Személyek</a></li>
@@ -68,6 +153,6 @@
       </div>
     </div>
     <div class="left" id="relationgraph" style="width: 70%;height: 400px"></div>
-    <div class="clear"></div>
+    <div class="clear"></div-->
   </content:>
 </page>
