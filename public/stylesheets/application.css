@@ -1,5 +1,5 @@
 .page-header, .section.with-flash.content, .page-footer {
-  width: 945px;
+  width: 946px;
   margin: 0 auto;
 }
 
@@ -145,6 +145,10 @@ a {
   width: 166px;
 }
 
+#to_map_blue {
+  margin-left: 15px;
+}
+
 #welcome_message {
   background-color: #e6e2e3;
   padding-left: 37px;
@@ -230,7 +234,7 @@ a {
   line-height: 30px;
   height: 30px;
   border-bottom: 1px solid #8bb6bf;
-  width: 945px;
+  width: 946px;
   font-size: 13px;
 }
 
@@ -244,7 +248,7 @@ a {
 
 .tab_content {
  /* background-color: #6EA4B0;*/
-  width: 945px;
+  width: 946px;
 }
 
 .tab_content a {
@@ -274,7 +278,7 @@ a {
   height: 30px;
 }
 
-.tab_content thead a {
+thead a {
   padding-left: 10px;
   color: white;
 }
@@ -374,13 +378,24 @@ table .odd {
   padding-right: 6px;
 }
 
+.card, .field-list {
+  font-size: 13px;
+}
+
 .field-list {
   padding-top: 14px;
+  clear: both;
+  margin-bottom: 20px;
 }
 
 .field-list th {
   font-weight: bold;
   padding-left: 6px;
+  line-height: 20px;
+}
+
+.field-list td {
+  padding-left: 40px;
 }
 
 .details_header {
@@ -397,7 +412,7 @@ table .odd {
 
 .card.article {
   border-bottom: 2px solid #868789; 
-  padding-bottom: 14px;
+  padding: 14px 0px;
 }
 
 .card.article .article-title {
@@ -411,4 +426,195 @@ table .odd {
 
 .article-created {
   font-style: italic;
+}
+
+.top-page-nav a, .bottom-page-nav a, .information_source-link, .organization-link, .notification-link, .litigation-link, .article-created-at, .contract-link, .notification_url, .person-link {
+  color: black;
+}
+
+.card.organization div {
+  line-height: 25px;
+}
+
+h2 {
+  font-size: 27px;
+  margin-bottom: 25px;
+}
+
+.strong {
+  font-weight: bold;
+}
+
+#detailed_search_wrapper {
+  background-color: #e6e2e3;
+  font-size: 13px;
+}
+
+#detailed_search_wrapper fieldset {
+  border-bottom: 1px solid #C9C7C8;
+  border-top: 1px solid #D2D0D1;
+  padding: 19px 12px;
+}
+
+#detailed_search_wrapper fieldset span {
+  width: 90px;
+  display: inline-block;
+}
+
+#detailed_search_wrapper fieldset input {
+  border: 1px solid #b6b5b6;
+  height: 25px;
+  margin: 0px;
+  padding: 0px;
+  margin-bottom: 5px;
+}
+
+.no_top_border {
+  border-top: none !important;
+}
+
+.no_bottom_border {
+  border-bottom: none !important;
+}
+
+#detailed_search_submit_button {
+  background-color: #064a57;
+  border: 1px solid #7c8486;
+  color: white;
+  cursor: pointer;
+  float: right;
+  width: 150px;
+}
+
+.from_to_separator {
+  display: inline-block;
+  width: 24px;
+  margin: 0px 5px;
+  height: 0px;
+  border-top: 1px solid #C9C7C8;
+  border-bottom: 1px solid #D2D0D1;
+  line-height: 0px;
+  font-size: 0px;
+  top: -3px;
+  position: relative;
+}
+
+#search_word {
+  width: 827px;
+}
+
+.checkbox {
+  padding: 0px;
+  margin: 0px !important;
+  height: 13px !important;
+}
+
+.checkbox_label {
+  width: 80px;
+  display: inline-block;
+  padding-left: 10px;
+  padding-bottom: 12px;
+}
+
+#map_wrapper {
+  background-color: #aaaaac;
+  margin-top: 30px;
+  height: 400px;
+}
+
+#map_tabs {
+  height: 27px;
+}
+
+#map_tabs a {
+  font-size: 13px;
+  color: black;
+}
+
+#map_tabs .tab {
+  width: 75px;
+  margin-right: 4px;
+  float: left;
+  background-color: #E6E2E3;
+  text-align: center;
+  padding: 7px 0px;
+}
+
+#map_tabs .active {
+  font-weight: bold;
+  background-color: #6EA4B0;
+}
+
+#map_panel {
+  width: 237px;
+}
+
+#relationgraph {
+  height: 390px;
+  margin: 5px;
+  background-color: #054756;
+  width: 704px;
+  margin-left: 0px;
+}
+
+#map_panel .tab_content {
+  width: 100%;
+}
+
+#map_content_header {
+  margin: 10px;
+  border-bottom: 2px solid #ceced0;
+  padding-bottom: 10px;
+}
+
+#map_content_header span {
+  font-size: 14px;
+}
+
+#map_content_header a {
+  font-style: italic;
+}
+
+#map_content input {
+  margin-left: 15px;
+}
+
+#search_content input {
+  border: none;
+  margin-left: 10px;
+  width: 218px;
+}
+
+#search_content label {
+  padding: 10px 10px 0px 10px;
+  display: block;
+}
+
+.ajax_loader {
+  display: none;
+}
+
+.node_attributes {
+  margin: 10px;
+  line-height: 16px;
+}
+
+.node_details_block .details_header {
+  width: 293px;
+  margin-right: 15px;
+  margin-top: 0px;
+}
+
+.node_details_block .detail {
+  display: inline-block;
+  width: 150px;
+}
+
+.node_details_block a {
+  color: black;
+}
+
+.node_details_block {
+  font-size: 13px;
+  line-height: 20px;
 }

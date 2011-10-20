@@ -60,7 +60,7 @@
             <li><a href="">Regisztráció</a></li>
           </ul>
           <div id="search_box">
-            <div id="search_wrapper"><form action="post"><input type="text" name="search" id="search_input" value="Keresés"/><input type="submit" id="search_button" value="Submit"/></form></div>
+            <div id="search_wrapper"><form with="&nil" action="/search" method="post"><input type="text" name="query" id="search_input" value="Keresés"/><input type="submit" id="search_button" value="Submit"/></form></div>
           </div>
         </div>
       </div>
@@ -141,7 +141,7 @@
     <body: param>
       <strong><a><view:seller/></a></strong><br/>
       ajánlattevők száma: <view:no_of_proposals/><br />
-      <a href="&this.notification.url" target="_blank">forrás</a> | <a><view:notification/></a>
+      <a class="notification_url" href="&this.notification.url" target="_blank">forrás</a> | <a><view:notification/></a>
     </body:>
   </card>
 </def>
@@ -166,10 +166,12 @@
       <h4 param="heading"><a><name/></a></h4>
     </header:>
     <body: param>
-      <span if="&this.interorg_relations_count"><strong><view:interorg_relations_count/></strong> szervezeti kapcsolat, </span>
-      <span if="&this.person_to_org_relations_count"><strong><view:person_to_org_relations_count/></strong> személyi kapcsolat</span> <br />
-      <strong><view:city/></strong> <view:street/> <br/>
-      <view:trade_register_nr/> <view:tax_nr/> <br/>
+      <div if="&this.interorg_relations_count>0 || this.person_to_org_relations_count>0">
+        <view:interorg_relations_count class="strong" if="&this.interorg_relations_count"/> szervezeti kapcsolat 
+        <view:person_to_org_relations_count class="strong" if="&this.person_to_org_relations_count>0"/> személyi kapcsolat
+      </div>
+      <view:city class="strong"/> <view:street/>
+      <view:trade_register_nr/> <view:tax_nr/>
     </body:>
   </card>
 </def>
@@ -181,8 +183,10 @@
     </header:>
     <body: param>
       <view:person_grades if="&this.person_grades"/>
-      <span if="&this.interpersonal_relations_count"><strong><view:interpersonal_relations_count/></strong> személyi kapcsolat, </span>
-      <span if="&this.person_to_org_relations_count"><strong><view:person_to_org_relations_count/></strong> szervezeti kapcsolat</span><br />
+      <div if="&this.interpersonal_relations_count>0 || this.person_to_org_relations_count>0">
+        <view:interpersonal_relations_count class="strong" if="&this.interpersonal_relations_count"/> személyi kapcsolat, 
+        <view:person_to_org_relations_count class="strong" if="&this.person_to_org_relations_count"/> szervezeti kapcsolat
+      </div>
     </body:>
   </card>
 </def>
