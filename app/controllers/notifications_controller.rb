@@ -4,4 +4,6 @@ class NotificationsController < ApplicationController
 
   auto_actions :all
 
+  autocomplete
+
 end

@@ -13,7 +13,7 @@ class Notification < ActiveRecord::Base
 
 #  default_scope :order => "contracted_value DESC"
   
-  has_many :contracts
+  has_many :contracts, :accessible => true
   has_many :interorg_relations
 
   def summarize_value

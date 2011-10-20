@@ -329,6 +329,22 @@
   </form>
 </def>
 
+<extend tag="form" for="Contract">
+  <old-form>
+    <field-list:>
+      <notification-view:>
+        <name-one/>
+      </notification-view:>
+      <seller-view:>
+        <name-one/>
+      </seller-view:>
+      <buyer-view:>
+        <name-one/>
+      </buyer-view:>
+    </field-list:>
+  </old-form>
+</extend>
+
 <extend tag="form" for="InformationSource">
   <old-form>
     <field-list: skip="internal, weblink"/>
