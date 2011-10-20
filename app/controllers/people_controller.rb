@@ -51,6 +51,11 @@ class PeopleController < ApplicationController
     }
   end
 
+  index_action :list do
+    hobo_index Person.order_by(params['sort'].to_sym)
+    render :index
+  end
+
   private
 
   def fill_local_drop_down

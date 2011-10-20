@@ -38,4 +38,9 @@ class OrganizationsController < ApplicationController
       {:label => org.name, :id => org.id}
     }
   end
+
+  index_action :list do
+    hobo_index Organization.order_by(params['sort'].to_sym)
+    render :index
+  end
 end
