@@ -567,56 +567,56 @@ namespace :fetch do
     f_p2o = P2oRelationType.find_by_name('közös sajtó')
     articles = Nokogiri::HTML(open('http://www.k-monitor.hu/adatbazis/kereses'))
 #    (1..articles.css("span.result")[0].children[0].text.to_i / 10 + 1).each do |i|
-    (2..2).each do |i|
+    (1..1).each do |i|
       puts "fetching page #{i} on k-monitor.hu at " + Time.now.to_s
-      articles = Nokogiri::HTML(open("http://www.k-monitor.hu/adatbazis/kereses?page=#{i}"))
+      articles = Nokogiri::HTML(open("http://www.k-monitor.hu/kereses?page=#{i}"))
       articles.css(".news_list_1").each do |article|
-        puts article.search("//form/input[@name='halora']").inspect
-        wlink = article.css("h3 a")[0].attributes['href'].value.split('?')[0] || ""
-        puts internet_address = "http://www.k-monitor.hu/" + wlink
-
-        a = Article.find_or_create_by_internet_address(internet_address) do |r|
-          r.summary = article.css(".n_teaser")[0].children[0].text
-          r.title = article.css("h3 a")[0].children[0].text
-          r.weblink = wlink 
-          r.internet_address = internet_address
-        end
-        tags = []
-        article.css(".links a, .links_starred a").each do |link|
-          href = link.attributes['href'].value.sub("/kereses","").split('?')[0]
-          tag = Person.find_by_klink(href) || Organization.find_by_klink(href)
-          next unless tag
-          tags << tag
-        end
-        tags.each do |t1|
-          tags.each do |t2|
-            if t1.klink != t2.klink
-              if t1.kind_of?(Person) and t2.kind_of?(Person)
-                relation = InterpersonalRelation.find( :first, :conditions => [ 'person_id = ? and related_person_id = ? and information_source_id = ?', t1.id, t2.id, info_id ])
-                unless relation
-                  relation = InterpersonalRelation.create( :person_id => t1.id, :related_person_id => t2.id, :information_source_id => info_id, :p2p_relation_type_id => f_p2p.id )
+        if article.search("input[@name='halora']").first.attributes['value'].value == "igen"
+          wlink = article.css("h3 a")[0].attributes['href'].value.split('?')[0] || ""
+          puts internet_address = "http://www.k-monitor.hu/" + wlink
+          a = Article.find_or_create_by_internet_address(internet_address) do |r|
+            r.summary = article.css(".n_teaser")[0].children[0].text
+            r.title = article.css("h3 a")[0].children[0].text
+            r.weblink = wlink 
+            r.internet_address = internet_address
+          end
+          tags = []
+          article.css(".links a, .links_starred a").each do |link|
+            href = link.attributes['href'].value.sub("/kereses","").split('?')[0]
+            tag = Person.find_by_klink(href) || Organization.find_by_klink(href)
+            next unless tag
+            tags << tag
+          end
+          tags.each do |t1|
+            tags.each do |t2|
+              if t1.klink != t2.klink
+                if t1.kind_of?(Person) and t2.kind_of?(Person)
+                  relation = InterpersonalRelation.find( :first, :conditions => [ 'person_id = ? and related_person_id = ? and information_source_id = ?', t1.id, t2.id, info_id ])
+                  unless relation
+                    relation = InterpersonalRelation.create( :person_id => t1.id, :related_person_id => t2.id, :information_source_id => info_id, :p2p_relation_type_id => f_p2p.id )
+                  end
+                  unless relation.articles.include?(a)
+                    relation.articles << a
+                  end
                 end
-                unless relation.articles.include?(a)
-                  relation.articles << a
+                
+                if t1.kind_of?(Organization) and t2.kind_of?(Organization)
+                  relation = InterorgRelation.find( :first, :conditions => [ 'organization_id = ? and related_organization_id = ? and information_source_id = ?', t1.id, t2.id, info_id])
+                  unless relation
+                    relation = InterorgRelation.create!( :organization_id => t1.id, :related_organization_id => t2.id, :information_source_id => info_id, :o2o_relation_type_id => f_o2o.id)
+                  end
+                  unless relation.articles.include?(a)
+                    relation.articles << a
+                  end
                 end
-              end
-              
-              if t1.kind_of?(Organization) and t2.kind_of?(Organization)
-                relation = InterorgRelation.find( :first, :conditions => [ 'organization_id = ? and related_organization_id = ? and information_source_id = ?', t1.id, t2.id, info_id])
-                unless relation
-                  relation = InterorgRelation.create!( :organization_id => t1.id, :related_organization_id => t2.id, :information_source_id => info_id, :o2o_relation_type_id => f_o2o.id)
-                end
-                unless relation.articles.include?(a)
-                  relation.articles << a
-                end
-              end
-              if t1.kind_of?(Person) and t2.kind_of?(Organization)
-                relation = PersonToOrgRelation.find( :first, :conditions => [ 'person_id = ? and organization_id = ? and information_source_id = ?', t1.id, t2.id, info_id])
-                unless relation
-                  relation = PersonToOrgRelation.create!( :person_id => t1.id, :organization_id => t2.id, :information_source_id => info_id, :p2o_relation_type_id => f_p2o.id)
-                end
-                unless relation.articles.include?(a)
-                  relation.articles << a
+                if t1.kind_of?(Person) and t2.kind_of?(Organization)
+                  relation = PersonToOrgRelation.find( :first, :conditions => [ 'person_id = ? and organization_id = ? and information_source_id = ?', t1.id, t2.id, info_id])
+                  unless relation
+                    relation = PersonToOrgRelation.create!( :person_id => t1.id, :organization_id => t2.id, :information_source_id => info_id, :p2o_relation_type_id => f_p2o.id)
+                  end
+                  unless relation.articles.include?(a)
+                    relation.articles << a
+                  end
                 end
               end
             end
