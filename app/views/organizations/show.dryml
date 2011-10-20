@@ -7,6 +7,11 @@
         <a if="&this.klink" href="http://www.k-monitor.hu#{this.klink}" target="_blank"><ht key="custom.jump_to_k-monitor">View on k-monitor.hu</ht></a>
       </div>
     </div>
+ <!--form action="&'/organizations/' + this.id.to_s + '/merge'" method="POST" if="&current_user.supervisor? or current_user.editor? or current_user.administrator?" >
+    Merge <name-one:organization/> into <%=this.name%> <submit label="start!"/>
+  </form-->
+
+
   </append-heading:>
   <append-content-body:>
     <field-list fields="activities" />
@@ -36,5 +41,15 @@
       <h3 class="save_history">Save History</h3>
       <table-plus with="&@this.org_histories" fields="user, updated_at" without-search-form/>
     </if>
+    <form action="&'/organizations/' + this.id.to_s + '/merge'" method="get" if="&current_user.supervisor? or current_user.editor? or current_user.administrator?" >
+        <field-list fields="merge_from">
+          <merge-from-view:>
+            <name-one/>
+            Be aware! All data will be deleted after the merge of the organization you enter here!
+          </merge-from-view:>
+        </field-list>
+      <submit label="start merge!" style="display:inline"/>
+    </form>
+ 
   </append-content-body:>
 </show-page>

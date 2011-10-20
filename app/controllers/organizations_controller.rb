@@ -43,4 +43,13 @@ class OrganizationsController < ApplicationController
     hobo_index Organization.order_by(params['sort'].to_sym)
     render :index
   end
+
+  show_action :merge do
+    merge_into = find_instance
+    to_merge = Organization.find_by_name(params[:organization][:merge_from])
+    Organization.merge merge_into, to_merge
+    flash.now[:notice] = "#{to_merge.name} has been successfully merged into #{merge_into.name}!"
+    hobo_show merge_into
+    render :show
+  end
 end

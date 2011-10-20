@@ -21,6 +21,30 @@ class Organization < ActiveRecord::Base
     timestamps
   end
 
+  belongs_to :merge_from, :class_name => "Organization"
+  has_many :organizations, :accessible => true, :foreign_key => "merge_from_id"
+
+  def self.merge into_this, this
+
+    into_this.buyer_activities << this.buyer_activities
+    into_this.buyer_types << this.buyer_types
+    into_this.activities << this.activities
+    into_this.interorg_relations << this.interorg_relations
+    into_this.person_to_org_relations << this.person_to_org_relations
+    into_this.org_histories << this.org_histories
+    into_this.save
+
+    this.buyer_activities.delete_all
+    this.buyer_types.delete_all
+    this.activities.delete_all
+    this.interorg_relations.delete_all
+    this.person_to_org_relations.delete_all
+    this.org_histories.delete_all
+
+    this.delete
+
+  end
+
   has_many :buyer_activity_rels
   has_many :buyer_activities, :through => :buyer_activity_rels
 
