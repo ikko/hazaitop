@@ -17,14 +17,14 @@
       </value-view:>
       <article-relations-view:>
         <% this.each do |r| %>
-          <a href="#{article_path(r.article_id)}"><view with="&r.article.id"/></a>&nbsp;
+          <a href="#{article_path(r.article_id)}"><view with="&r.article.title[0..60].strip + '...'"/></a><br/>
         <% end %>
       </article-relations-view:>
     </table-plus:interorg_relations>
     <table-plus:person_to_org_relations fields="person, o2p_relation_type, start_time, end_time, information_source, article_relations" without-search-form >
       <article-relations-view:>
         <% this.each do |r| %>
-          <a href="#{article_path(r.article_id)}"><view with="&r.article.id"/></a>&nbsp;
+          <a href="#{article_path(r.article_id)}"><view with="&r.article.title[0..60].strip + '...'"/></a><br/>
         <% end %>
       </article-relations-view:>
       <end-time-view:>
