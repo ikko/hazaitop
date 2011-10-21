@@ -56,6 +56,10 @@
   float: left;
 }
 
+.right {
+  float: right;
+}
+
 .clear {
   clear: both;
 }
@@ -335,9 +339,10 @@ table .odd {
 #licenses {
   width: 294px;
   padding-left: 13px;
-  font-size: 10px;
+  font-size: 9px;
   color: #D1CFD0;
   padding-bottom: 9px;
+  line-height: 1.2em;
 }
 
 #licenses_images {
@@ -617,4 +622,46 @@ h2 {
 .node_details_block {
   font-size: 13px;
   line-height: 20px;
+}
+
+#login_popup {
+  position: absolute;
+  background-color: #054756;
+  padding: 5px;
+  width: 164px;
+  height: 76px;
+  top: 0px;
+  display: none;
+}
+
+#login_popup input {
+  border: none;
+  width: 126px;
+  margin-top: 5px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+
+#login_popup .submit {
+  background-color: #6EA4B0;
+  width: 30px;
+  margin-left: 5px;
+  color: white;
+  font-size: 12px;
+  height: 17px;
+}
+
+#login_popup .message {
+  visibility: hidden;
+  display: block;
+  margin-top: 5px;
+}
+
+.header_link_column.last {
+  width:174px; 
+  position: relative;
+}
+
+.header_link_column.last li {
+  height: 15px;
 }

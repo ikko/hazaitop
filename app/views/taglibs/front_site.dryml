@@ -31,7 +31,7 @@
     </custom-scripts:> 
     <header:>
       <div id="header_links">
-        <a href="" id="logo">a HÁLÓ</a>
+        <a href="/" id="logo">a HÁLÓ</a>
         <div class="header_link_column">
           <strong>PROFILOK</strong>
           <ul>
@@ -54,11 +54,21 @@
             <li><a href="">Kapcsolat</a></li>
           </ul>
         </div>
-        <div class="header_link_column" style="width:174px;">
-          <strong>BEJELENTKEZÉS</strong>
+        <div class="header_link_column last" style="">
           <ul>
+            <li><a href="">Bejelentkezés</a></li>
             <li><a href="">Regisztráció</a></li>
           </ul>
+          <div id="login_popup">
+            <span class="strong">BEJELENTKEZÉS</span><a href="" class="right"><img src="/images/x_login.jpg"/></a>
+            <span class="message">msg</span>
+            <form action="/login" method="post">
+              <input type="text" name="login" value="E-mail"/>
+              <div class="clear"></div>
+              <input type="password" name="password" class="left" value="Jelszó"/>
+              <input type="submit" class="submit right" value="OK"/>
+            </form>
+          </div>
           <div id="search_box">
             <div id="search_wrapper"><form with="&nil" action="/search" method="post"><input type="text" name="query" id="search_input" value="Keresés"/><input type="submit" id="search_button" value="Submit"/></form></div>
           </div>

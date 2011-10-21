@@ -11,10 +11,11 @@
         <form action="/search" method="post" id="quick_search_content_wrapper">
           <img src="/images/quicksearch_borderleft.png" class="left"/>
           <img src="/images/quicksearch_bordertop.png" class="left"/>
+          <!--hjq-autocomplete:project source="&query_projects_path" delay="500" minLength="3" /-->
           <input type="text" name="query" id="quick_search_input" value="Gyorskeresés"/>
           <input type="submit" class="left" id="quick_search_zoom"/>
           <img src="/images/quicksearch_borderbottom.png" class="left"/>
-          <img src="/images/quicksearch_borderright.png" class="right"/>
+          <img src="/images/quicksearch_borderright.png" />
           <div id="welcome_message_bottom">
             <a href="" id="quick_search" class="left">RÉSZLETES KERESÉS</a>
             <a href="" id="to_map" class="left">TÉRKÉPRE</a>
