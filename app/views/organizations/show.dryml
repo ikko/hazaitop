@@ -1,4 +1,7 @@
 <show-page without-creator-link>
+  <append-custom-scripts:>
+    <hjq-assets/>
+  </append-custom-scripts:>
   <field-list: fields="street, city, zip_code, phone, fax, email_address, internet_address, trade_register_nr, tax_nr, founded_at, number_of_employees, information_source, org_grade, sector, activities" />
   <heading: class="left"/>
   <after-heading:>

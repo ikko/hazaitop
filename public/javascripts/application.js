@@ -21,7 +21,7 @@ if (typeof jQuery != 'undefined') {
         if (!$this.parent().hasClass("active")) {
           $(".tab").removeClass("active");
           $(".tab_content").hide();
-          $($this.attr('href')).show('fast');
+          $($this.attr('href')).show();
           $(this).parent().addClass("active");
         }
         e.preventDefault();

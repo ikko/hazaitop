@@ -1,4 +1,7 @@
 <show-page>
+  <append-custom-scripts:>
+    <hjq-assets/>
+  </append-custom-scripts:>
   <heading: class="left"/>
   <after-heading:>
     <a href="/site_search/?type=l&id=#{this.id}" target="_blank"><img src="/images/terkepre_vele.jpg" id="to_map_blue"/></a>

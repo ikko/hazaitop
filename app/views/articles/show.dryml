@@ -1,5 +1,8 @@
 <show-page>
 
+  <append-custom-scripts:>
+    <hjq-assets/>
+  </append-custom-scripts:>
   <content-body:>
  
     <div class="details_header">Cikk adatok:</div>
