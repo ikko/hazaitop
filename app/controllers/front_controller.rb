@@ -21,7 +21,7 @@ class FrontController < ApplicationController
 
   def search               
     site_search(params[:query])
-    render_tags(@organizations+@people+@litigations+@articles, :search_card, :for_type => true)
+    render_tags(@organizations+@people+@litigations+@articles, :search_card, :for_type => true) if request.xhr?
   end
 
   def detailed_search
