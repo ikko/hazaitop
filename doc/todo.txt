@@ -4,10 +4,13 @@ utf8 karakterek designhoz:
 per-eket ne egymás mellé rendezze - felvitelnél jó, megjelenítésnél nem...
 
 adatbázisból kitisztítani a \r\n-eket
-dátumot beformázni article listánál a találatoknál
+dátumot magyarosítani article listánál a találatoknál
 article találati listánál kellene lapozási design
 indexes oldalak cardok listája
 people show oldalon láthatatlan link, táblázatok között space, nincs megjeleníthető adatot beljebb igazítani és lejjebb, ha nincs adat táblázathoz ne jelenítsük meg, térképre vele link a névhez
-contract show oldalon source link láthatatlan
-főoldalon alsó keresésnél autocomplete (card design)
 site_search oldalon keresésnél ajax result hátterét belőni
+
+gyorskeresésnél loader indikátor eltolja bordert
+tabok javascriptel váltogathatóak
+hiányzó lapozási funkciók
+
