@@ -36,42 +36,32 @@
       <div class="tab"><a href="#history_content">MENTÉSEK</a></div>
     </div>
     <div id="people_content" class="tab_content">
-      <% if @this.interpersonal_relations.count > 0 %>
-        <table-plus:interpersonal_relations fields="related_person, p2p_relation_type, organization, information_source, article_relations" without-search-form>
-          <article-relations-view:>
-            <% this.each do |r| %>
-              <a href="#{article_path(r.article_id)}"><view with="&r.article.id"/></a>&nbsp;
-            <% end %>
-          </article-relations-view:>
-        </table-plus:interpersonal_relations>
-      <% else %>
-        <span class="no_data">Nincs kapcsolódó adat.</span>
-      <% end %>
+      <table-plus:interpersonal_relations fields="related_person, p2p_relation_type, organization, information_source, article_relations" without-search-form>
+        <article-relations-view:>
+          <% this.each do |r| %>
+            <a href="#{article_path(r.article_id)}"><view with="&r.article.id"/></a>&nbsp;
+          <% end %>
+        </article-relations-view:>
+      </table-plus:interpersonal_relations>
     </div>
     <div id="orgs_content" class="tab_content" style="display: none">
-      <% if @this.person_to_org_relations.count > 0 %>
-        <table-plus:person_to_org_relations fields="organization, p2o_relation_type, start_time, end_time, information_source, article_relations" without-search-form>
-          <article-relations-view:>
-            <% this.each do |r| %>
-              <a href="#{article_path(r.article_id)}"><view with="&r.article.id"/></a>&nbsp;
-            <% end %>
-          </article-relations-view:>
-          <end-time-view:>
-            <view format="%B %d, %Y" if="&!this_parent.no_end_time"/>
-            <ht if="&this_parent.no_end_time" key="custom.ongoing">ongoing</ht>
-          </end-time-view:>
-        </table-plus:person_to_org_relations>
-      <% else %>
-        <span class="no_data">Nincs kapcsolódó adat.</span>
-      <% end %>
+      <table-plus:person_to_org_relations fields="organization, p2o_relation_type, start_time, end_time, information_source, article_relations" without-search-form>
+        <article-relations-view:>
+          <% this.each do |r| %>
+            <a href="#{article_path(r.article_id)}"><view with="&r.article.id"/></a>&nbsp;
+          <% end %>
+        </article-relations-view:>
+        <end-time-view:>
+          <view format="%B %d, %Y" if="&!this_parent.no_end_time"/>
+          <ht if="&this_parent.no_end_time" key="custom.ongoing">ongoing</ht>
+        </end-time-view:>
+      </table-plus:person_to_org_relations>
     </div>
     <div id="history_content" class="tab_content" style="display: none">
       <% if current_user.signed_up? and @this.person_histories.count > 0 %>
         <div class="details_header">Mentések:</div>
         <table-plus with="&@this.person_histories" fields="user, updated_at" without-search-form/>
-      <% else %>
-        <span class="no_data">Nincs kapcsolódó adat.</span>
-      <% end %>>
+      <% end %>
     </div>
   </append-content-body:>
 </show-page>

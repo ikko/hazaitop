@@ -461,3 +461,8 @@
   </card>
 </def>
 
+<extend tag="table-plus">
+  <old-table-plus merge>
+    <empty-message:><span class="no_data">Nincs kapcsolódó adat.</span></empty-message:>
+  </old-table-plus>
+</extend>
