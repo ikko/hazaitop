@@ -50,9 +50,42 @@
         <table-plus:financials fields="year, balance_sheet_total, turnover" without-search-form />
       </div>
     <% end %>
->>>>>>> organization show oldal
+    <div class="tabs">
+      <div class="active tab"><a href="#people_content">SZEMÉLYEK</a></div><div class="separator"></div>
+      <div class="tab"><a href="#orgs_content">SZERVEZETEK</a></div><div class="separator"></div>
+      <div class="tab"><a href="#financial_content">PÉNZÜGYEK</a></div>
+    </div>
+    <div id="people_content" class="tab_content">
+      <table-plus:person_to_org_relations fields="person, o2p_relation_type, start_time, end_time, information_source, article_relations" without-search-form >
+        <article-relations-view:>
+          <% this.each do |r| %>
+            <a href="#{article_path(r.article_id)}"><view with="&r.article.id"/></a>&nbsp;
+          <% end %>
+        </article-relations-view:>
+        <end-time-view:>
+          <view format="%B %d, %Y" if="&!this_parent.no_end_time"/>
+          <ht if="&this_parent.no_end_time" key="custom.ongoing">ongoing</ht>
+        </end-time-view:>
+      </table-plus:person_to_org_relations>
+    </div>
+    <div id="orgs_content" class="tab_content" style="display: none">
+      <table-plus:interorg_relations fields="related_organization, o2o_relation_type, information_source, value, currency, vat_incl, contract, tender, article_relations" without-search-form >
+        <value-view:>
+          <view with="&commify(this)"/>
+        </value-view:>
+        <article-relations-view:>
+          <% this.each do |r| %>
+            <a href="#{article_path(r.article_id)}"><view with="&r.article.id"/></a>&nbsp;
+          <% end %>
+        </article-relations-view:>
+      </table-plus:interorg_relations>
+    </div>
+    <div id="financial_content" class="tab_content" style="display: none">
+      <table-plus:financials fields="year, balance_sheet_total, turnover" without-search-form />
+    </div>
+>>>>>>> mentések table nincs a tabok közt, org show oldal egyszerűbb tabverziósítva
     <if test="&current_user.signed_up? and @this.org_histories.count > 0">
-      <h3 class="save_history">Save History</h3>
+      <div class="details_header">Mentések:</div>
       <table-plus with="&@this.org_histories" fields="user, updated_at" without-search-form/>
     </if>
     <form action="&'/organizations/' + this.id.to_s + '/merge'" method="get" if="&current_user.supervisor? or current_user.editor? or current_user.administrator?" >

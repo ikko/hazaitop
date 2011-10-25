@@ -32,8 +32,7 @@
     <div class="details_header">Kapcsolódó profilok:</div>
     <div class="tabs">
       <div class="active tab"><a href="#people_content">SZEMÉLYEK</a></div><div class="separator"></div>
-      <div class="tab"><a href="#orgs_content">SZERVEZETEK</a></div><div class="separator"></div>
-      <div class="tab"><a href="#history_content">MENTÉSEK</a></div>
+      <div class="tab"><a href="#orgs_content">SZERVEZETEK</a></div>
     </div>
     <div id="people_content" class="tab_content">
       <table-plus:interpersonal_relations fields="related_person, p2p_relation_type, organization, information_source, article_relations" without-search-form>
@@ -57,11 +56,9 @@
         </end-time-view:>
       </table-plus:person_to_org_relations>
     </div>
-    <div id="history_content" class="tab_content" style="display: none">
-      <% if current_user.signed_up? and @this.person_histories.count > 0 %>
-        <div class="details_header">Mentések:</div>
-        <table-plus with="&@this.person_histories" fields="user, updated_at" without-search-form/>
-      <% end %>
-    </div>
+    <% if current_user.signed_up? and @this.person_histories.count > 0 %>
+      <div class="details_header">Mentések:</div>
+      <table-plus with="&@this.person_histories" fields="user, updated_at" without-search-form/>
+    <% end %>
   </append-content-body:>
 </show-page>
