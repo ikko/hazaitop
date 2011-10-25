@@ -40,7 +40,7 @@
       <card:>
         <body:>
           <a><view:summary/></a>
-          <span class="article-created">Dátum: <view:created-at/></span><% if this.information_source %> | <a><view:information-source/></a><% end %>
+          <span class="article-created">Dátum: <%= I18n.l( this.created_at, :format =>"%B %d, %Y %H:%M") %></span><% if this.information_source %> | <a><view:information-source/></a><% end %>
         </body:>
       </card:>
       <empty-message:></empty-message:>
