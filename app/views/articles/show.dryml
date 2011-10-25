@@ -16,11 +16,16 @@
     <div class="details_header">Kapcsolódó profilok:</div>
     <div class="tabs" style="width: 507px">
       <div class="active tab"><a href="#people_content">SZEMÉLYEK</a></div><div class="separator"></div>
-      <div class="tab" style="width: 225px"><a href="#people_orgs_content">SZEMÉLYEK-SZERVEZETEK</a></div><div class="separator"></div>
-      <div class="tab"><a href="#orgs_content">SZERVEZETEK</a></div>
+      <div class="tab"><a href="#orgs_content">SZERVEZETEK</a></div><div class="separator"></div>
+      <div class="tab" style="width: 225px"><a href="#people_orgs_content">SZEMÉLYEK-SZERVEZETEK</a></div>
     </div>
     <div id="people_content" class="tab_content">
       <table-plus:interpersonal_relations fields="person, related_person, p2p_relation_type, information_source" without-search-form>    
+        <controls:><delete-button/></controls:>
+      </table-plus>
+    </div>
+    <div id="orgs_content" class="tab_content" style="display: none">
+      <table-plus:interorg_relations fields="organization, related_organization, o2o_relation_type, information_source" without-search-form>
         <controls:><delete-button/></controls:>
       </table-plus>
     </div>
@@ -32,11 +37,6 @@
         </end-time-view:>
         <controls:><delete-button/></controls:>
       </table-plus:person_to_org_relations>
-    </div>
-    <div id="orgs_content" class="tab_content" style="display: none">
-      <table-plus:interorg_relations fields="organization, related_organization, o2o_relation_type, information_source" without-search-form>
-        <controls:><delete-button/></controls:>
-      </table-plus>
     </div>
 
   </content-body:>
