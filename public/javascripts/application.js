@@ -13,4 +13,17 @@ if (typeof jQuery != 'undefined') {
       }} );
     });
   });
+
+  (function($){
+    $(function() {
+      $(".tab a").click(function() {
+        var $this = $(this);
+        $(".tab").removeClass("active");
+        $(".tab_content").hide("slow");
+        $($this.attr('href')).show('slow');
+        $(this).parent().addClass("active");
+      });
+    });
+
+  })(jQuery)
 }
