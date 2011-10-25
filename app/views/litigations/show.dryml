@@ -1,7 +1,7 @@
 <show-page>
   <heading: class="left"/>
   <after-heading:>
-    <a href="/site_search/?type=l&id=#{this.id}"><img src="/images/terkepre_vele.jpg" id="to_map_blue"/></a>
+    <a href="/site_search/?type=l&id=#{this.id}" target="_blank"><img src="/images/terkepre_vele.jpg" id="to_map_blue"/></a>
   </after-heading:>
   <append-content-body:>
     <table-plus if="&@interpersonal_relations" with="&@interpersonal_relations" fields="person, p2p_relation_type, related_person, organization, information_source" without-search-form />

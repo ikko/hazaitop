@@ -1,12 +1,7 @@
 <show-page without-creator-link>
   <field-list: skip="klink"/>
   <append-heading:>
-    <div style="position:relative">
-      <div id="resource_links">
-        <a href="/site_search/?type=p&id=#{this.id}" target="_blank"><ht key="custom.draw_network">Draw network connections</ht></a><br />
-        <a if="&this.klink" href="http://www.k-monitor.hu#{this.klink}" target="_blank"><ht key="custom.jump_to_k-monitor">View on k-monitor.hu</ht></a>
-      </div>
-    </div>
+    <a href="/site_search/?type=p&id=#{this.id}" target="_blank"><img src="/images/terkepre_vele.jpg" id="to_map_blue"/></a>
   </append-heading:>
   <append-content-body:>
     <table-plus:interpersonal_relations fields="related_person, p2p_relation_type, organization, information_source, article_relations" without-search-form>
