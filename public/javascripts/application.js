@@ -16,12 +16,15 @@ if (typeof jQuery != 'undefined') {
 
   (function($){
     $(function() {
-      $(".tab a").click(function() {
+      $(".tab a").click(function(e) {
         var $this = $(this);
-        $(".tab").removeClass("active");
-        $(".tab_content").hide("slow");
-        $($this.attr('href')).show('slow');
-        $(this).parent().addClass("active");
+        if (!$this.parent().hasClass("active")) {
+          $(".tab").removeClass("active");
+          $(".tab_content").hide();
+          $($this.attr('href')).show('fast');
+          $(this).parent().addClass("active");
+        }
+        e.preventDefault();
       });
     });
 

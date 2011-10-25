@@ -1,5 +1,8 @@
 <page title="Home">
 
+  <append-custom-scripts:>
+    <hjq-assets/>
+  </append-custom-scripts:>
   <body: class="front-page"/>
 
   <content:>
