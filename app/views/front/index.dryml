@@ -8,19 +8,24 @@
       <img src="/images/video_right.png" class="left"/>
       <div id="welcome_message" class="left">
         Az oldal célja a magyar <strong>politikai</strong> és<br /> <strong>gazdasági elit</strong> összefonódásának<br /> és <strong>kapcsolati háló</strong>jának feltérképezése<br /> az átláthatóbb közpénzmozgás érdekében.
-        <form action="/search" method="post" id="quick_search_content_wrapper">
+        <div id="quick_search_content_wrapper">
           <img src="/images/quicksearch_borderleft.png" class="left"/>
-          <img src="/images/quicksearch_bordertop.png" class="left"/>
-          <!--hjq-autocomplete:project source="&query_projects_path" delay="500" minLength="3" /-->
-          <input type="text" name="query" id="quick_search_input" value="Gyorskeresés"/>
-          <input type="submit" class="left" id="quick_search_zoom"/>
-          <img src="/images/quicksearch_borderbottom.png" class="left"/>
+          <img src="/images/quicksearch_bordertop.png" class="left" style="width: 319px;"/>
+          <div class='search'>
+            <input class='live-search' type='search' id="quick_search_input" value="Gyorskeresés"/>
+            <spinner id='search-spinner'/>
+          </div>
+          <section class='hidden' id='search-results-panel'>
+            <h2><ht key='hobo.live_search.results_label'>Search Results</ht></h2><div class="close-button"><ht key='hobo.live_search.close_button'>close</ht></div>
+            <section id='search-results'>&nbsp;</section>
+          </section>
+          <img src="/images/quicksearch_borderbottom.png" class="left" style="width: 319px;"/>
           <img src="/images/quicksearch_borderright.png" />
           <div id="welcome_message_bottom">
             <a href="" id="quick_search" class="left">RÉSZLETES KERESÉS</a>
             <a href="" id="to_map" class="left">TÉRKÉPRE</a>
           </div>
-        </form>
+        </div>
       </div>
       <img src="/images/video_bottom.png"/>
     </div>

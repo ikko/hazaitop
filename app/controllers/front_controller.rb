@@ -21,10 +21,10 @@ class FrontController < ApplicationController
 
   def search               
     site_search(params[:query])
+    render_tags(@organizations+@people+@litigations+@articles, :search_card, :for_type => true)
   end
 
   def detailed_search
-
   end
 
   private

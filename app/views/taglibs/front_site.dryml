@@ -10,8 +10,8 @@
 
 <extend tag="page">
   <old-page merge>
-    <scripts:>
-      <script type="text/javascript">
+    <custom-scripts:>
+      <javascript>
         var _gaq = _gaq || [];
         _gaq.push(['_setAccount', 'UA-20915206-1']);
         _gaq.push(['_setDomainName', '.addig.hu']);
@@ -21,14 +21,11 @@
            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
              var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
          })();
-      </script>
-    </scripts:>
+      </javascript>
+    </custom-scripts:>
     <stylesheets:>
       <stylesheet name="reset, application"/>
     </stylesheets:>
-    <custom-scripts:>
-      <hjq-assets/>
-    </custom-scripts:> 
     <header:>
       <div id="header_links">
         <a href="/" id="logo">a HÁLÓ</a>
