@@ -3,22 +3,23 @@
     <hjq-assets/>
   </append-custom-scripts:>
   <append-head:>
-    <javascript name="jquery.getParams, jquery.scrollTo-min"/>
     <script>
       (function($) {
         $(function(){
-          var object_type = $.getURLParam("object_type");
-          $("#search_input").val('<%= params[:query] %>')
-          
-          if (object_type=="article") {
-            $.scrollTo(".collection.cikks");
-          } else if (object_type == "org" || object_type == "person") {
-            $.scrollTo(".tabs");
-            if ($.getURLParam("object_type")=="org") {
-              $(".tabs .tab:eq(1) a").click();
-            }
-          }
+          $("#search_input").val('<%= params[:query] %>');
 
+          $("#people_content .pagination a").live('click', function(e) {
+            $.ajax({url: $(this).attr('href'), success: function(data) {$("#people_content .table-plus").html(data)}});
+            e.preventDefault();
+          });
+          $("#orgs_content .pagination a").live('click', function(e) {
+            $.ajax({url: $(this).attr('href'), success: function(data) {$("#orgs_content .table-plus").html(data)}});
+            e.preventDefault();
+          });
+          $(".article_pagination a").live('click', function(e) {
+            $.ajax({url: $(this).attr('href'), success: function(data) {$("#arts_content").html(data)}});
+            e.preventDefault();
+          });
         });
       })(jQuery)
     </script>
@@ -33,34 +34,14 @@
         <div class="tab"><a href="#orgs_content">SZERVEZETEK</a></div>
       </div>
       <div id="people_content" class="tab_content">
-        <table-plus with="&@people" fields="this, last_name, first_name, information_source" without-search-form>
-          <this-heading:>Személy</this-heading:>
-          <up-arrow:>⬆</up-arrow:>
-          <down-arrow:>⬇</down-arrow:>
-          <this-view:><a/> <a href="/site_search/?p=#{this.id}"><img src="/images/plusz.png"/></a> </this-view:>
-          <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:object_type=>'person', :query=>params[:query]}"/>
-        </table-plus>
+        <table-plus-person with="&@people"/>
       </div>
       <div id="orgs_content" class="tab_content" style="display: none">
-        <table-plus with="&@organizations" fields="this, city, street, zip_code, information_source" without-search-form>
-          <up-arrow:>⬆</up-arrow:>
-          <down-arrow:>⬇</down-arrow:>
-          <this-view:><a/> <a href="/site_search/?p=#{this.id}"><img src="/images/plusz.png"/></a> </this-view:>
-          <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:object_type=>'org', :query=>params[:query]}"/>
-        </table-plus>
+        <table-plus-org with="&@organizations"/>
       </div>
     <div class="details_header">Cikkek:</div>
-    <collection with="&@articles">
-      <card:>
-        <body:>
-          <a><view:summary/></a>
-          <span class="article-created">Dátum: <%= I18n.l( this.created_at, :format =>"%B %d, %Y %H:%M") %></span><% if this.information_source %> | <a><view:information-source/></a><% end %>
-        </body:>
-      </card:>
-      <empty-message:></empty-message:>
-      <after-empty-message:>
-        <page-nav with="&@articles" class="pagination article_pagination" previous-label="&laquo;" next-label="&raquo;" params="&{:object_type=>'article', :query=>params[:query]}"/>
-      </after-empty-message:>
-    </collection>
+    <div id="arts_content">
+      <collection-article with="&@articles"/>
+    </div>
   </content:>
 </page>

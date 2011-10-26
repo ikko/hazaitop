@@ -46,12 +46,7 @@
           <div class="separator left">|</div>
           <a href="" class="left">Legfrisebb</a>
         </div>
-        <table-plus with="&@people" fields="this, last_name, first_name, information_source" without-search-form>
-          <this-heading:>Személy</this-heading:>
-          <up-arrow:>⬆</up-arrow:>
-          <down-arrow:>⬇</down-arrow:>
-          <this-view:><a/> <a href="/site_search/?p=#{this.id}"><img src="/images/plusz.png"/></a> </this-view:>
-        </table-plus>
+        <table-plus-person with="&@people" without-page-nav/>
         <div class="table_footer"><a href="#{people_path}">További személyek &gt;</a></div>
       </div>
       <div id="orgs_content" class="tab_content" style="display: none">
@@ -60,11 +55,7 @@
           <div class="separator left">|</div>
           <a href="" class="left">Legfrisebb</a>
         </div>
-        <table-plus with="&@organizations" fields="this, city, street, zip_code, information_source" without-search-form>
-          <up-arrow:>⬆</up-arrow:>
-          <down-arrow:>⬇</down-arrow:>
-          <this-view:><a/> <a href="/site_search/?p=#{this.id}"><img src="/images/plusz.png"/></a> </this-view:>
-        </table-plus>
+        <table-plus-org with="&@organizations" without-page-nav/>
         <div class="table_footer"><a href="#{organizations_path}">További szervezetek &gt;</a></div>
       </div>
 

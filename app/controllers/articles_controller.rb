@@ -11,6 +11,11 @@ class ArticlesController < ApplicationController
     hobo_new
   end
 
+  index_action :search do
+    query = params[:query] || ""
+    @articles = Article.search(query, :title).paginate(:per_page=>10, :page=>params[:page])
+  end
+
   def edit
     @this = find_instance
     fill_drop_down

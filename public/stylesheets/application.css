@@ -326,6 +326,10 @@ table .odd {
   color: white;
 }
 
+.pagination span {
+  padding-right: 10px;
+}
+
 .pagination.article_pagination {
   background-color: white;
 }

@@ -466,3 +466,37 @@
     <empty-message:><span class="no_data">Nincs kapcsolódó adat.</span></empty-message:>
   </old-table-plus>
 </extend>
+
+<def tag="table-plus-person">
+  <table-plus fields="this, last_name, first_name, information_source" without-search-form merge>
+    <this-heading:>Személy</this-heading:>
+    <up-arrow:>⬆</up-arrow:>
+    <down-arrow:>⬇</down-arrow:>
+    <this-view:><a/> <a href="/site_search/?p=#{this.id}"><img src="/images/plusz.png"/></a> </this-view:>
+    <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:controller=>'people', :action=>'search', :query=>params[:query]}"/>
+  </table-plus>
+</def>
+
+<def tag="table-plus-org">
+  <table-plus fields="this, city, street, zip_code, information_source" without-search-form merge>
+    <up-arrow:>⬆</up-arrow:>
+    <down-arrow:>⬇</down-arrow:>
+    <this-view:><a/> <a href="/site_search/?p=#{this.id}"><img src="/images/plusz.png"/></a> </this-view:>
+    <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:controller=>'organizations', :action=>'search', :query=>params[:query]}"/>
+  </table-plus>
+</def>
+
+<def tag="collection-article">
+  <collection>
+    <card:>
+      <body:>
+        <a><view:summary/></a>
+        <span class="article-created">Dátum: <%= I18n.l( this.created_at, :format =>"%B %d, %Y %H:%M") %></span><% if this.information_source %> | <a><view:information-source/></a><% end %>
+      </body:>
+    </card:>
+    <empty-message:></empty-message:>
+    <after-empty-message:>
+      <page-nav with="&@articles" class="pagination article_pagination" previous-label="&laquo;" next-label="&raquo;" params="&{:controller=>'articles', :action=>'search', :query=>params[:query]}"/>
+    </after-empty-message:>
+  </collection>
+</def>

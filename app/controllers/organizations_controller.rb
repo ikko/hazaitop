@@ -15,6 +15,11 @@ class OrganizationsController < ApplicationController
     end
   end
 
+  index_action :search do
+    query = params[:query] || ""
+    @organizations = Organization.search(query, :name).paginate(:per_page=>10, :page=>params[:page])
+  end
+
   def index
     @this = Organization.listed
     respond_to do |format| 
