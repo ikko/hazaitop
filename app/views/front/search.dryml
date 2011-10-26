@@ -1,4 +1,28 @@
 <page>
+  <append-custom-scripts:>
+    <hjq-assets/>
+  </append-custom-scripts:>
+  <append-head:>
+    <javascript name="jquery.getParams, jquery.scrollTo-min"/>
+    <script>
+      (function($) {
+        $(function(){
+          var object_type = $.getURLParam("object_type");
+          $("#search_input").val('<%= params[:query] %>')
+          
+          if (object_type=="article") {
+            $.scrollTo(".collection.cikks");
+          } else if (object_type == "org" || object_type == "person") {
+            $.scrollTo(".tabs");
+            if ($.getURLParam("object_type")=="org") {
+              $(".tabs .tab:eq(1) a").click();
+            }
+          }
+
+        });
+      })(jQuery)
+    </script>
+  </append-head:>
   <content:>
     <header class="content-header">
       <h2>Keresési találatok</h2>
@@ -9,31 +33,21 @@
         <div class="tab"><a href="#orgs_content">SZERVEZETEK</a></div>
       </div>
       <div id="people_content" class="tab_content">
-        <div class="order_list">
-          <a href="" class="left active">Legtöbb kapcsolat</a>
-          <div class="separator left">|</div>
-          <a href="" class="left">Legfrisebb</a>
-        </div>
         <table-plus with="&@people" fields="this, last_name, first_name, information_source" without-search-form>
           <this-heading:>Személy</this-heading:>
           <up-arrow:>⬆</up-arrow:>
           <down-arrow:>⬇</down-arrow:>
           <this-view:><a/> <a href="/site_search/?p=#{this.id}"><img src="/images/plusz.png"/></a> </this-view:>
+          <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:object_type=>'person', :query=>params[:query]}"/>
         </table-plus>
-        <div class="table_footer">ide jön a lapozás</div>
       </div>
       <div id="orgs_content" class="tab_content" style="display: none">
-        <div class="order_list">
-          <a href="" class="left">Legtöbb kapcsolat</a>
-          <div class="separator left">|</div>
-          <a href="" class="left">Legfrisebb</a>
-        </div>
         <table-plus with="&@organizations" fields="this, city, street, zip_code, information_source" without-search-form>
           <up-arrow:>⬆</up-arrow:>
           <down-arrow:>⬇</down-arrow:>
           <this-view:><a/> <a href="/site_search/?p=#{this.id}"><img src="/images/plusz.png"/></a> </this-view:>
+          <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:object_type=>'org', :query=>params[:query]}"/>
         </table-plus>
-        <div class="table_footer">ide jön a lapozás</div>
       </div>
     <div class="details_header">Cikkek:</div>
     <collection with="&@articles">
@@ -44,6 +58,9 @@
         </body:>
       </card:>
       <empty-message:></empty-message:>
+      <after-empty-message:>
+        <page-nav with="&@articles" class="pagination article_pagination" previous-label="&laquo;" next-label="&raquo;" params="&{:object_type=>'article', :query=>params[:query]}"/>
+      </after-empty-message:>
     </collection>
   </content:>
 </page>

@@ -313,7 +313,7 @@ table .odd {
   background-color: #f3f1f2;
 }
 
-.table_footer {
+.pagination {
   text-align: right;
   width: 100%;
   background-color: #6EA4B0;
@@ -321,9 +321,21 @@ table .odd {
   font-size: 11px;
 }
 
-.table_footer a {
+.pagination a {
   padding-right: 10px;
   color: white;
+}
+
+.pagination.article_pagination {
+  background-color: white;
+}
+
+.pagination.article_pagination a {
+  color: black;
+}
+
+.pagination .current {
+  color: grey;
 }
 
 #logos {
@@ -438,7 +450,7 @@ table .odd {
   font-style: italic;
 }
 
-.top-page-nav a, .bottom-page-nav a, .information_source-link, .organization-link, .notification-link, .litigation-link, .article-created-at, .contract-link, .notification_url, .person-link {
+.top-page-nav a, .bottom-page-nav a, .information_source-link, .organization-link, .notification-link, .litigation-link, .article-created-at, .contract-link, .notification_url, .person-link, .article-link {
   color: black;
 }
 

@@ -30,9 +30,17 @@ class FrontController < ApplicationController
   private
 
   def site_search(query)
-    @organizations = Organization.search(query, :name)
-    @people        = Person.search(query, :last_name, :first_name)
-    @litigations   = Litigation.search(query, :name) 
-    @articles      = Article.search(query, :title)
+    query = "" unless query.present? 
+    org_page = person_page = litigation_page = article_page = 1
+    case params[:object_type]
+      when "person" then person_page = params[:page]
+      when "org" then org_page = params[:page]
+      when "litigation" then litigation_page = params[:page]
+      when "article" then article_page = params[:page]
+    end
+    @organizations = Organization.search(query, :name).paginate(:per_page=>10, :page=>org_page)
+    @people        = Person.search(query, :last_name, :first_name).paginate(:per_page=>10, :page=>person_page)
+    @litigations   = Litigation.search(query, :name).paginate(:per_page=>10, :page=>litigation_page)
+    @articles      = Article.search(query, :title).paginate(:per_page=>10, :page=>article_page)
   end
 end
