@@ -3,6 +3,26 @@
     <hjq-assets/>
   </append-custom-scripts:>
   <heading: class="left"/>
+  <append-head:>
+    <script>
+      (function($) {
+        $(function(){
+          $("#people_content .pagination a").live('click', function(e) {
+            $.ajax({url: $(this).attr('href'), success: function(data) {$("#people_content .table-plus").html(data)}});
+            e.preventDefault();
+          });
+          $("#orgs_content .pagination a").live('click', function(e) {
+            $.ajax({url: $(this).attr('href'), success: function(data) {$("#orgs_content .table-plus").html(data)}});
+            e.preventDefault();
+          });
+          $("#people_orgs_content .pagination a").live('click', function(e) {
+            $.ajax({url: $(this).attr('href'), success: function(data) {$("#people_orgs_content .table-plus").html(data)}});
+            e.preventDefault();
+          });
+        });
+      })(jQuery)
+    </script>
+  </append-head:>
   <after-heading:>
     <a href="/site_search/?type=l&id=#{this.id}" target="_blank"><img src="/images/terkepre_vele.jpg" id="to_map_blue"/></a>
   </after-heading:>
@@ -14,13 +34,13 @@
       <div class="tab" style="width: 225px"><a href="#people_orgs_content">SZEMÉLYEK-SZERVEZETEK</a></div>
     </div>
     <div id="people_content" class="tab_content">
-      <table-plus if="&@interpersonal_relations" with="&@interpersonal_relations" fields="person, p2p_relation_type, related_person, organization, information_source" without-search-form />
+      <table-plus-litigation-interpersonal with="&@interpersonal_relations"/>
     </div>
     <div id="orgs_content" class="tab_content" style="display: none">
-      <table-plus if="&@interorg_relations" with="&@interorg_relations" fields="organization, o2o_relation_type, related_organization, information_source" without-search-form />
+      <table-plus-litigation-interorg with="&@interorg_relations"/>
     </div>
     <div id="people_orgs_content" class="tab_content" style="display: none">
-      <table-plus if="&@person_to_org_relations" with="&@person_to_org_relations" fields="person, p2o_relation_type, organization, start_time, end_time, information_source" without-search-form />
+      <table-plus-litigation-person-to-org with="&@person_to_org_relations"/>
     </div>
   </append-content-body:>
 </show-page>

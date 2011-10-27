@@ -20,6 +20,24 @@ class OrganizationsController < ApplicationController
     @organizations = Organization.search(query, :name).paginate(:per_page=>10, :page=>params[:page])
   end
 
+  index_action :person_to_org_pagination do
+    @this = find_instance
+    return unless @this
+    @person_to_orgs = @this.interorg_relations.paginate(:per_page=>10, :page=>params[:page])
+  end
+
+  index_action :interorg_pagination do
+    @this = find_instance
+    return unless @this
+    @interorgs = @this.interorg_relations.paginate(:per_page=>10, :page=>params[:page])
+  end
+
+  index_action :financial_pagination do
+    @this = find_instance
+    return unless @this
+    @financials = @this.org_histories.paginate(:per_page=>10, :page=>params[:page])
+  end
+
   def index
     @this = Organization.listed
     respond_to do |format| 
