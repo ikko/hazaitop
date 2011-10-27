@@ -87,7 +87,6 @@
     <div id="financial_content" class="tab_content" style="display: none">
       <table-plus-organization-financial with="&@financials" fields="year, balance_sheet_total, turnover" without-search-form />
     </div>
->>>>>>> mentések table nincs a tabok közt, org show oldal egyszerűbb tabverziósítva
     <if test="&current_user.signed_up? and @this.org_histories.count > 0">
       <div class="details_header">Mentések:</div>
       <table-plus-organization-financial with="&@this.org_histories" fields="user, updated_at" without-search-form/>
