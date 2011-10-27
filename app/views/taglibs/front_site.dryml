@@ -496,7 +496,33 @@
     </card:>
     <empty-message:></empty-message:>
     <after-empty-message:>
-      <page-nav with="&@articles" class="pagination article_pagination" previous-label="&laquo;" next-label="&raquo;" params="&{:controller=>'articles', :action=>'search', :query=>params[:query]}"/>
+      <page-nav: with="&@articles" class="pagination article_pagination" previous-label="&laquo;" next-label="&raquo;" params="&{:controller=>'articles', :action=>'search', :query=>params[:query]}"/>
     </after-empty-message:>
   </collection>
+</def>
+
+<def tag="table-plus-article-interpersonal">
+  <table-plus fields="person, related_person, p2p_relation_type, information_source" without-search-form merge>
+    <controls:><delete-button/></controls:>
+    <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'interpersonal_pagination', :id => @this.id}"/>
+  </table-plus>
+</def>
+
+<def tag="table-plus-article-interorg">
+  <table-plus fields="organization, related_organization, o2o_relation_type, information_source" without-search-form>
+    <controls:><delete-button/></controls:>
+    <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'interorg_pagination', :id => @this.id}"/>
+  </table-plus>
+</def>
+
+
+<def tag="table-plus-article-person-to-org">
+  <table-plus fields="person, organization, p2o_relation_type, start_time, end_time, information_source" without-search-form>
+   <end-time-view:>
+      <view format="%B %d, %Y" if="&!this_parent.no_end_time"/>
+      <ht if="&this_parent.no_end_time" key="custom.ongoing">ongoing</ht>
+    </end-time-view:>
+    <controls:><delete-button/></controls:>
+    <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'person_to_org_pagination', :id => @this.id}"/>
+  </table-plus>
 </def>

@@ -3,6 +3,26 @@
   <append-custom-scripts:>
     <hjq-assets/>
   </append-custom-scripts:>
+  <append-head:>
+    <script>
+      (function($) {
+        $(function(){
+          $("#people_content .pagination a").live('click', function(e) {
+            $.ajax({url: $(this).attr('href'), success: function(data) {$("#people_content .table-plus").html(data)}});
+            e.preventDefault();
+          });
+          $("#orgs_content .pagination a").live('click', function(e) {
+            $.ajax({url: $(this).attr('href'), success: function(data) {$("#orgs_content .table-plus").html(data)}});
+            e.preventDefault();
+          });
+          $("#people_orgs_content .pagination a").live('click', function(e) {
+            $.ajax({url: $(this).attr('href'), success: function(data) {$("#people_orgs_content .table-plus").html(data)}});
+            e.preventDefault();
+          });
+        });
+      })(jQuery)
+    </script>
+  </append-head:>
   <content-body:>
  
     <div class="details_header">Cikk adatok:</div>
@@ -23,23 +43,13 @@
       <div class="tab" style="width: 225px"><a href="#people_orgs_content">SZEMÉLYEK-SZERVEZETEK</a></div>
     </div>
     <div id="people_content" class="tab_content">
-      <table-plus:interpersonal_relations fields="person, related_person, p2p_relation_type, information_source" without-search-form>    
-        <controls:><delete-button/></controls:>
-      </table-plus>
+      <table-plus-article-interpersonal with="&@interpersonal_relations"/>    
     </div>
     <div id="orgs_content" class="tab_content" style="display: none">
-      <table-plus:interorg_relations fields="organization, related_organization, o2o_relation_type, information_source" without-search-form>
-        <controls:><delete-button/></controls:>
-      </table-plus>
+      <table-plus-article-interorg with="&@interorg_relations"/>
     </div>
     <div id="people_orgs_content" class="tab_content" style="display: none">
-      <table-plus:person_to_org_relations fields="person, organization, p2o_relation_type, start_time, end_time, information_source" without-search-form>
-       <end-time-view:>
-          <view format="%B %d, %Y" if="&!this_parent.no_end_time"/>
-          <ht if="&this_parent.no_end_time" key="custom.ongoing">ongoing</ht>
-        </end-time-view:>
-        <controls:><delete-button/></controls:>
-      </table-plus:person_to_org_relations>
+      <table-plus-article-person-to-org with="&@person_to_org_relations"/>
     </div>
 
   </content-body:>
