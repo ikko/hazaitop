@@ -487,7 +487,7 @@
 </def>
 
 <def tag="table-plus-contract">
-  <table-plus fields="this">
+  <table-plus fields="name" without-search-form merge>
     <up-arrow:>⬆</up-arrow:>
     <down-arrow:>⬇</down-arrow:>
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'contract_pagination', :query=>params[:query]}"/>

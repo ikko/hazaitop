@@ -258,6 +258,7 @@ a {
 .tab_content {
  /* background-color: #6EA4B0;*/
   width: 946px;
+  min-height: 100px;
 }
 
 .tab_content a {

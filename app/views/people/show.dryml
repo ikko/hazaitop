@@ -27,7 +27,6 @@
     </script>
   </append-head:>
   <append-content-body:>
-<<<<<<< HEAD
     <% if @this.interpersonal_relations.count > 0 %>
       <div class="details_header">Kapcsolódó személyek:</div>
       <table-plus:interpersonal_relations fields="related_person, p2p_relation_type, organization, information_source, article_relations" without-search-form>
