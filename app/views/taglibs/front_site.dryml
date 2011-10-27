@@ -473,7 +473,7 @@
     <up-arrow:>⬆</up-arrow:>
     <down-arrow:>⬇</down-arrow:>
     <this-view:><a/> <a href="/site_search/?p=#{this.id}"><img src="/images/plusz.png"/></a> </this-view:>
-    <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:controller=>'people', :action=>'search', :query=>params[:query]}"/>
+    <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'person_pagination', :query=>params[:query]}"/>
   </table-plus>
 </def>
 
@@ -482,7 +482,15 @@
     <up-arrow:>⬆</up-arrow:>
     <down-arrow:>⬇</down-arrow:>
     <this-view:><a/> <a href="/site_search/?p=#{this.id}"><img src="/images/plusz.png"/></a> </this-view:>
-    <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:controller=>'organizations', :action=>'search', :query=>params[:query]}"/>
+    <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'org_pagination', :query=>params[:query]}"/>
+  </table-plus>
+</def>
+
+<def tag="table-plus-contract">
+  <table-plus fields="this">
+    <up-arrow:>⬆</up-arrow:>
+    <down-arrow:>⬇</down-arrow:>
+    <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'contract_pagination', :query=>params[:query]}"/>
   </table-plus>
 </def>
 
