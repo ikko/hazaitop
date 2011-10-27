@@ -556,7 +556,7 @@
   <table-plus fields="person, o2p_relation_type, start_time, end_time, information_source, article_relations" without-search-form>
     <article-relations-view:>
       <% this.each do |r| %>
-        <a href="#{article_path(r.article_id)}"><view with="&r.article.id"/></a>&nbsp;
+        <a href="#{article_path(r.article_id)}"><view with="&r.article.title[0..60].strip + '...'"/></a><br/>
       <% end %>
     </article-relations-view:>
     <end-time-view:>
@@ -574,7 +574,7 @@
     </value-view:>
     <article-relations-view:>
       <% this.each do |r| %>
-        <a href="#{article_path(r.article_id)}"><view with="&r.article.id"/></a>&nbsp;
+        <a href="#{article_path(r.article_id)}"><view with="&r.article.title[0..60].strip + '...'"/></a><br/>
       <% end %>
     </article-relations-view:>
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'interorg_pagination', :id => @this.id}"/>
@@ -591,7 +591,7 @@
   <table-plus fields="related_person, p2p_relation_type, organization, information_source, article_relations" without-search-form>
     <article-relations-view:>
       <% this.each do |r| %>
-        <a href="#{article_path(r.article_id)}"><view with="&r.article.id"/></a>&nbsp;
+        <a href="#{article_path(r.article_id)}"><view with="&r.article.title[0..60].strip + '...'"/></a><br/>
       <% end %>
     </article-relations-view:>
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'interpersonal_pagination', :id => @this.id}"/>
@@ -602,7 +602,7 @@
   <table-plus fields="organization, p2o_relation_type, start_time, end_time, information_source, article_relations" without-search-form>
     <article-relations-view:>
       <% this.each do |r| %>
-        <a href="#{article_path(r.article_id)}"><view with="&r.article.id"/></a>&nbsp;
+        <a href="#{article_path(r.article_id)}"><view with="&r.article.title[0..60].strip + '...'"/></a><br/>;
       <% end %>
     </article-relations-view:>
     <end-time-view:>
