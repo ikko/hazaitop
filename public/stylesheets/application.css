@@ -313,7 +313,7 @@ table .odd {
   background-color: #f3f1f2;
 }
 
-.pagination {
+.pagination, .table_footer {
   text-align: right;
   width: 100%;
   background-color: #6EA4B0;
@@ -321,7 +321,7 @@ table .odd {
   font-size: 11px;
 }
 
-.pagination a {
+.pagination a, .table_footer a {
   padding-right: 10px;
   color: white;
 }

@@ -49,6 +49,10 @@ class OrganizationsController < ApplicationController
 
   def show
     @this               = find_instance
+    @person_to_orgs = @this.interorg_relations.paginate(:per_page=>10, :page=>params[:page])
+    @interorgs = @this.interorg_relations.paginate(:per_page=>10, :page=>params[:page])
+    @financials = @this.org_histories.paginate(:per_page=>10, :page=>params[:page])
+
     respond_to do |format| 
       format.html  { hobo_show @this }
       format.xml   { render( :xml  => { "data" =>  @this, "interorg_relations"  => @this.interorg_relations, "person_to_org_relations" => @this.person_to_org_relations } ) }

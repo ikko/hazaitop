@@ -31,7 +31,7 @@ class ArticlesController < ApplicationController
   index_action :person_to_org_pagination do
     @this = find_instance
     return unless @this
-    @person_to_orgs = @this.interorg_relations.paginate(:per_page=>10, :page=>params[:page])
+    @person_to_orgs = @this.person_to_org_relations.paginate(:per_page=>10, :page=>params[:page])
   end
 
   def edit

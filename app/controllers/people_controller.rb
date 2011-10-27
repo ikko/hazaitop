@@ -41,8 +41,30 @@ class PeopleController < ApplicationController
     end
   end
 
+  index_action :interpersonal_pagination do
+    @this = find_instance
+    return unless @this
+    @interpersons = @this.interpersonal_relations.paginate(:per_page=>10, :page=>params[:page])
+  end
+
+  index_action :person_to_org_pagination do
+    @this = find_instance
+    return unless @this
+    @person_to_orgs = @this.person_to_org_relations.paginate(:per_page=>10, :page=>params[:page])
+  end
+
+  index_action :history_pagination do
+    @this = find_instance
+    return unless @this
+    @histories = @this.person_histories.paginate(:per_page=>10, :page=>params[:page])
+  end
+
   def show
     @this = find_instance
+    @interersonal_relations = @this.interpersonal_relations.paginate(:per_page=>10, :page=>params[:page])
+    @person_to_org_relations = @this.person_to_org_relations.paginate(:per_page=>10, :page=>params[:page])
+    @histories = @this.person_histories.paginate(:per_page=>10, :page=>params[:page])
+
     respond_to do |format| 
       format.html  { hobo_show @this }
        format.xml  { render( :xml => { "data" =>  @this, "interpersonal_relations" => @this.interpersonal_relations, "person_to_org_relations" => @this.person_to_org_relations }  ) }
