@@ -314,12 +314,29 @@ table .odd {
   background-color: #f3f1f2;
 }
 
-.pagination, .table_footer {
+.pagination, .table_footer{
   text-align: right;
   width: 100%;
   background-color: #6EA4B0;
   line-height: 23px;
   font-size: 11px;
+}
+
+.index-page .top-page-nav, .index-page .bottom-page-nav {
+  width: 100%;
+  line-height: 23px;
+  font-size: 11px;
+  color: #6EA4B0;
+}
+
+.index-page .top-page-nav a, .index-page .bottom-page-nav a {
+  color: #6EA4B0;
+  padding-right: 10px;
+}
+
+.index-page .top-page-nav span, .index-page .bottom-page-nav span {
+  color: black;
+  padding-right: 10px;
 }
 
 .pagination a, .table_footer a {
@@ -339,7 +356,7 @@ table .odd {
   color: black;
 }
 
-.pagination .current {
+.pagination .current, .top-page-nav .current, .bottom-page-nav .current {
   color: grey;
 }
 
@@ -437,7 +454,7 @@ table .odd {
   letter-spacing: 1px;
 }
 
-.card.article {
+.card.article, .card.person, .card.organization, .card.contract {
   border-bottom: 2px solid #868789; 
   padding: 14px 0px;
 }
@@ -455,8 +472,12 @@ table .odd {
   font-style: italic;
 }
 
-.top-page-nav a, .bottom-page-nav a, .information_source-link, .organization-link, .notification-link, .litigation-link, .article-created-at, .contract-link, .notification_url, .person-link, .article-link {
+.top-page-nav a, .bottom-page-nav a, .information_source-link, .organization-link, .notification-link, .litigation-link, .article-created-at, .contract-link, .notification_url, .article-link {
   color: black;
+}
+
+.heading .person-link, .heading .organization-link {
+  color: #6EA4B0;
 }
 
 .card.organization div {
@@ -719,3 +740,22 @@ h2 {
   display: block;
   font-size: 13px;
 }
+
+.button {color: white; background: #5B8BA0;}
+.button:hover {background-color: #193440; color: white;}
+.button {
+  padding: 6px 10px;
+  border: none;
+  width: auto;
+  font-size: 11px; font-weight: bold;
+  margin-top: 10px;
+}
+
+#index_page_order {
+  margin: 13px 0px;
+  height: 30px;
+}
+
+.button:hover {cursor: pointer;}
+
+

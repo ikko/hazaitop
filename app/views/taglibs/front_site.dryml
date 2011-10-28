@@ -32,15 +32,15 @@
         <div class="header_link_column">
           <strong>PROFILOK</strong>
           <ul>
-            <li><a href="">Személyek</a></li>
-            <li><a href="">Szervezetek</a></li>
-            <li><a href="">Tranzakciók</a></li>
+            <li><a href="/people">Személyek</a></li>
+            <li><a href="/organizations">Szervezetek</a></li>
+            <li><a href="/contracts">Tranzakciók</a></li>
           </ul>
         </div>
         <div class="header_link_column">
           <strong>HÁLÓ</strong>
           <ul>
-            <li><a href="">Térkép</a></li>
+            <li><a href="/site_search">Térkép</a></li>
             <li><a href="">Hogyan működik?</a></li>
           </ul>
         </div>
@@ -59,7 +59,7 @@
           <div id="login_popup">
             <span class="strong">BEJELENTKEZÉS</span><a href="" class="right"><img src="/images/x_login.jpg"/></a>
             <span class="message">msg</span>
-            <form action="/login" method="post">
+            <form with="&nil" action="/login" method="post">
               <input type="text" name="login" value="E-mail"/>
               <div class="clear"></div>
               <input type="password" name="password" class="left" value="Jelszó"/>
@@ -179,6 +179,7 @@
       </div>
       <view:city class="strong"/> <view:street/>
       <view:trade_register_nr/> <view:tax_nr/>
+      <repeat:activities join=", "><a/></repeat>
     </body:>
   </card>
 </def>

@@ -4,12 +4,12 @@
       There <count prefix="are"/>
     </ht>
   </count:>
-  <top-page-nav: inner-window="19" />
-  <bottom-page-nav: inner-window="19" />
+  <top-page-nav: inner-window="14" />
+  <bottom-page-nav: inner-window="14" />
   <prepend-content-body:>
-    <a href="/people/list?sort=name">ABC szerint</a> |
-    <a href="/people/list?sort=created_at">Beviteli sorrendben</a> | 
+    <div id="index_page_order">
+      <a class="button" href="/people/list?sort=name">ABC szerint</a>
+      <a class="button" href="/people/list?sort=created_at">Beviteli sorrendben</a>
+    </div>
   </prepend-content-body:>
-
-
 </index-page>

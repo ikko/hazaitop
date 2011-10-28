@@ -5,30 +5,16 @@ per-eket ne egymás mellé rendezze - felvitelnél jó, megjelenítésnél nem..
 
 adatbázisból kitisztítani a \r\n-eket
 kezdőoldalon videó
-menü bekötés
 hírfolyam
 gyorskeresésnél loader indikátor eltolja bordert
+hogyan működik, a projektről és kapcsolat oldalak hiányoznak (admin szerkesztés hozzájuk)
+bejelentkezés, regisztráció részt belőni
 
 különböző sorrendezési lehetőségek 
 főoldal
 person: legtöbb személyes kapcsolat (interpersonal_relations_count), legtöbb szervezeti kapcs(person_to_org_relations_count), most frissített(updated_at)
 org: legtöbb személyes kapcsolat (person_to_org_relations_count), legtöbb szervezeti kapcs(interorg_relations_count), most frissített(updated_at)
 contract: érték szerint(sum_value), ajánlattevők száma szerint(no_of_proposals)
-
-person index oldal
-abc szerint,beviteli sorrendben 
-
-person show
-
-org oldal
-
-litigation oldal
-
-
-cardos lapozásnál fehér alapon kék betűk (nem a tablés)
-
-indexnél sorrendezés hobo_button_active classal (sötét kék(alap) és világoskék(hover) és sötétszürke(kiválasztott) színekkel) 
-indexes oldalak cardok listája, cardban adatok éles hazaitopról venni infót (szerevezeteknél tevékenységeket (activities) vesszővel elválasztva)
 
 térképre vele oldal
 ajax result hátterét 010101

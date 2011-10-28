@@ -62,18 +62,22 @@
       </div>
       <div id="people_content" class="tab_content">
         <div class="order_list">
-          <a href="" class="left active">Legtöbb kapcsolat</a>
+          <a href="" class="left active">Legtöbb személyes kapcsolat</a>
           <div class="separator left">|</div>
-          <a href="" class="left">Legfrisebb</a>
+          <a href="" class="left active">Legtöbb szervezeti kapcsolat</a>
+          <div class="separator left">|</div>
+          <a href="" class="left">Most frissített</a>
         </div>
         <table-plus-person with="&@people"/>
         <div class="table_footer"><a href="#{people_path}">További személyek &gt;</a></div>
       </div>
       <div id="orgs_content" class="tab_content" style="display: none">
         <div class="order_list">
-          <a href="" class="left">Legtöbb kapcsolat</a>
+          <a href="" class="left active">Legtöbb személyes kapcsolat</a>
           <div class="separator left">|</div>
-          <a href="" class="left">Legfrisebb</a>
+          <a href="" class="left active">Legtöbb szervezeti kapcsolat</a>
+          <div class="separator left">|</div>
+          <a href="" class="left">Most frissített</a>
         </div>
         <table-plus with="&@organizations" fields="this, city, street, zip_code, information_source" without-search-form>
           <up-arrow:>⬆</up-arrow:>
@@ -85,12 +89,12 @@
 
       <div id="trans_content" class="tab_content" style="display: none">
         <div class="order_list">
-          <a href="" class="left">Legtöbb kapcsolat</a>
+          <a href="" class="left">Érték szerint</a>
           <div class="separator left">|</div>
-          <a href="" class="left">Legfrisebb</a>
-          <table-plus-contract with="&@contracts"/>
-          <div class="table_footer"><a href="#{people_path}">További tranzakciók &gt;</a></div>
+          <a href="" class="left">Ajánlattevők száma szerint</a>
         </div>
+        <table-plus-contract with="&@contracts"/>
+        <div class="table_footer"><a href="#{people_path}">További tranzakciók &gt;</a></div>
       </div>
       <div class="clear"></div>
     </div>
