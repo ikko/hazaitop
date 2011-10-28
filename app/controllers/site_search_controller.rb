@@ -29,7 +29,7 @@ class SiteSearchController < ApplicationController
       node[:endTime] = source.end_time ? source.end_time.to_s : no_data
     end
     node[:informationSource] = source.information_source
-    node[:label] = source.name
+    node[:label] = source.name.gsub(',', "\n")
     @network[:nodes] << node
   end
 

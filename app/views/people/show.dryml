@@ -27,30 +27,6 @@
     </script>
   </append-head:>
   <append-content-body:>
-    <% if @this.interpersonal_relations.count > 0 %>
-      <div class="details_header">Kapcsolódó személyek:</div>
-      <table-plus:interpersonal_relations fields="related_person, p2p_relation_type, organization, information_source, article_relations" without-search-form>
-        <article-relations-view:>
-          <% this.each do |r| %>
-            <a href="#{article_path(r.article_id)}"><view with="&r.article.id"/></a>&nbsp;
-          <% end %>
-        </article-relations-view:>
-      </table-plus:interpersonal_relations>
-    <% end %>
-    <% if @this.person_to_org_relations.count > 0 %>
-      <div class="details_header">Kapcsolódó szervezetek:</div>
-      <table-plus:person_to_org_relations fields="organization, p2o_relation_type, start_time, end_time, information_source, article_relations" without-search-form>
-        <article-relations-view:>
-          <% this.each do |r| %>
-            <a href="#{article_path(r.article_id)}"><view with="&r.article.id"/></a>&nbsp;
-          <% end %>
-        </article-relations-view:>
-        <end-time-view:>
-          <view format="%B %d, %Y" if="&!this_parent.no_end_time"/>
-          <ht if="&this_parent.no_end_time" key="custom.ongoing">ongoing</ht>
-        </end-time-view:>
-      </table-plus:person_to_org_relations>
-    <% end %>
     <div class="details_header">Kapcsolódó profilok:</div>
     <div class="tabs">
       <div class="active tab"><a href="#people_content">SZEMÉLYEK</a></div><div class="separator"></div>

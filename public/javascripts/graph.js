@@ -6,7 +6,7 @@ var vis;
     nodes: {arr: []},
     edges: {arr: []},
     nodeIds: [],
-    maxWeight: null,
+    maxWeight: 1,
     discoveredNodes: [],
     initialized: false,
     parseNodes: function(nodes) {
@@ -35,13 +35,14 @@ var vis;
       return "<node id='"+node.id+"' label='"+node.label+"'><graphics type='CIRCLE' outline='#"+this.generateNodeColor(node)+"'  fill='#"+this.generateNodeColor(node)+"'/>"+this.generateNodeAttributes(node)+"</node>"
     },
     generateXmlFromEdge: function(edge) {
-      return "<edge id='"+edge.id+"' source='"+edge.sourceId+"' target='"+edge.targetId+"' label='"+edge.label+"'><att type='real' name='weight' value='"+edge.weight+"'/><graphics width='"+(edge.weight/this.maxWeight)*10+"'/></edge>"
+      return "<edge id='"+edge.id+"' source='"+edge.sourceId+"' target='"+edge.targetId+"' label='"+edge.label+"'><att type='real' name='weight' value='"+edge.weight+"'/><graphics width='1'/></edge>"; /* "+(edge.weight/this.maxWeight)*10+" */
     },
     generateNodeColor: function(node) {
       if (node.shape == 'CIRCLE') {
         return "cd3403";
       } else if (node.shape == 'RECTANGLE') {
-        return "cbff67";
+        return "7b9d3a";
+        //return "cbff67";
       } else if (node.shape == 'DIAMOND') {
         return "66ccff";
       }
@@ -75,8 +76,8 @@ var vis;
     draw: function(data) {
       vis.draw({network: this.parse(data), 
                 edgeLabelsVisible: true, 
-                layout: 'Circle', 
-                visualStyle: {global:{backgroundColor: "#010101"},nodes:{labelFontColor: "#ffffff", size:51, labelFontSize:10}, edges:{labelFontSize:10}}});
+                layout: 'Tree', 
+                visualStyle: {global:{backgroundColor: "#010101"},nodes:{labelFontColor: "#ffffff", size:35, labelFontSize:11, labelFontWeight:'bold'}, edges:{labelFontColor: "#ffffff", labelFontSize:11, labelFontWeight:'bold'}}});
     },
     loadedNodeIds: function() {
       var resp = '';

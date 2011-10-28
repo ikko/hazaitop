@@ -8,7 +8,9 @@ kezdőoldalon videó
 hírfolyam
 gyorskeresésnél loader indikátor eltolja bordert
 hogyan működik, a projektről és kapcsolat oldalak hiányoznak (admin szerkesztés hozzájuk)
-bejelentkezés, regisztráció részt belőni
+bejelentkezés részt belőni
+részletes keresés nincs bekötve
+most többször is be van húzva a hjq asset (adminnál kellett)
 
 különböző sorrendezési lehetőségek 
 főoldal
@@ -26,3 +28,12 @@ Szervezetek::
 o2p_relation_types
 o2o_realtion_types
 
+
+
+részletes keresés oldal
+találat a form alá cardosan (keresés után formot kitölteni)
+scrollbar map checkboxokhoz
+fejléc sávnál article.lastot
+térkép oldalon alúl normális adatokkal
+contractnál name (max 50 kar), összeg(contracted_value), buyer, seller
+sorrend főoldalon több aktív

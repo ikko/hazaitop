@@ -1,6 +1,6 @@
 <page>
   <scripts:>
-    <javascript name="jquery-1.4.4, jquery-ui-1.8.6.custom.min, AC_OETags.min, json2.min, cytoscapeweb.min, graph"/>
+    <javascript name="jquery-1.4.4, jquery-ui-1.8.6.custom.min, AC_OETags.min, json2.min, cytoscapeweb.min, application, graph"/>
     <script type='text/javascript'>
       <%= "var __debug = true;" if Rails.env.development? %>
       <%= "var __debug = false;" if Rails.env.production? %>
@@ -22,17 +22,26 @@
           <div class="tab"><a href="#search_content">KERESÉS</a></div>
           <div class="tab"><a href="#profil_content">PROFIL</a></div>
         </div>
-        <div id="map_content" style="display: none;" class="tab_content">
+        <div id="map_content" class="tab_content">
           <div id="map_content_header">
             <span class="strong">Hunvald</span><br />
             <a href="">profil megtekintése</a>
           </div>
-          <input type="checkbox" name=""/><label class="strong">Személyek</label><br />
-          <input type="checkbox" name=""/><label>rokoni kapcsolatok</label><br />
-          <input type="checkbox" name=""/><label>üzleti kapcsolatok</label><br />
-          <input type="checkbox" name=""/><label>egyéb kapcsolatok</label><br />
-          <input type="checkbox" name=""/><label class="strong">Szervezetek</label><br />
           <input type="checkbox" name=""/><label class="strong">Közbeszerzések</label><br />
+          <input type="checkbox" name=""/><label class="strong">Személyek</label><br />
+          <% P2oRelationType.all.each do |rel_type| %>
+            <input type="checkbox" id="p2o_relation_type" name="p2o_relation_type[id]" value="#{rel_type.id}"/><label><%= rel_type.name %></label><br />
+          <% end %>
+          <% P2pRelationType.not_internal.each do |rel_type| %>
+            <input type="checkbox" id="p2p_relation_type" name="p2p_relation_type[id]" value="#{rel_type.id}"/><label><%= rel_type.name %></label><br />
+          <% end %>
+          <input type="checkbox" name=""/><label class="strong">Szervezetek</label><br />
+          <% O2pRelationType.all.each do |rel_type| %>
+            <input type="checkbox" id="o2p_relation_type" name="o2p_relation_type[id]" value="#{rel_type.id}"/><label><%= rel_type.name %></label><br />
+          <% end %>
+          <% (O2oRelationType.visual + O2oRelationType.litig).each do |rel_type| %>
+            <input type="checkbox" id="o2o_relation_type" name="o2o_relation_type[id]" value="#{rel_type.id}"/><label><%= rel_type.name %></label><br />
+          <% end %>
         </div>
         <div id="search_content" style="display: none;" class="tab_content">
           <label>Személy neve: </label><input class="autocomplete" id="people_autocomplete" type="text"/><img class="ajax_loader" src="/images/autocomplete-ajax-loader.gif"/>
@@ -42,7 +51,7 @@
           <label>Per megnevezés: </label><input class="autocomplete" id="litigation_autocomplete" type="text"/><img class="ajax_loader" src="/images/autocomplete-ajax-loader.gif"/>
           <div class="clear"></div>
         </div>
-        <div id="profil_content" class="tab_content">
+        <div id="profil_content" style="display: none;" class="tab_content">
           <div id="search_entities">
             <div id="person_node" class="node_attributes">
               <ul>
