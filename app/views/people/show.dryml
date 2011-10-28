@@ -60,7 +60,7 @@
       <table-plus-person-interperson with="&@interpersonal_relations"/>
     </div>
     <div id="orgs_content" class="tab_content" style="display: none">
-      <table-plus-person-person-to_org with="&@person_to_org_relations"/>
+      <table-plus-person-person-to-org with="&@person_to_org_relations"/>
     </div>
     <% if current_user.signed_up? and @histories.count > 0 %>
       <div class="details_header">Mentések:</div>

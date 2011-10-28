@@ -31,7 +31,6 @@
       <img src="/images/video_right.png" class="left"/>
       <div id="welcome_message" class="left">
         Az oldal célja a magyar <strong>politikai</strong> és<br /> <strong>gazdasági elit</strong> összefonódásának<br /> és <strong>kapcsolati háló</strong>jának feltérképezése<br /> az átláthatóbb közpénzmozgás érdekében.
-<<<<<<< HEAD
         <div id="quick_search_content_wrapper">
           <img src="/images/quicksearch_borderleft.png" class="left"/>
           <img src="/images/quicksearch_bordertop.png" class="left" style="width: 319px;"/>
@@ -45,24 +44,11 @@
           </section>
           <img src="/images/quicksearch_borderbottom.png" class="left" style="width: 319px;"/>
           <img src="/images/quicksearch_borderright.png" />
-=======
-        <form action="/search" method="post" id="quick_search_content_wrapper">
-          <img src="/images/quicksearch_borderleft.png" class="left"/>
-          <img src="/images/quicksearch_bordertop.png" class="left"/>
-          <input type="text" name="query" id="quick_search_input" value="Gyorskeresés"/>
-          <input type="submit" class="left" id="quick_search_zoom"/>
-          <img src="/images/quicksearch_borderbottom.png" class="left"/>
-          <img src="/images/quicksearch_borderright.png" class="right"/>
->>>>>>> b32dc302e681dd6620fb9de20af18df2af9ccf13
           <div id="welcome_message_bottom">
             <a href="" id="quick_search" class="left">RÉSZLETES KERESÉS</a>
             <a href="" id="to_map" class="left">TÉRKÉPRE</a>
           </div>
-<<<<<<< HEAD
         </div>
-=======
-        </form>
->>>>>>> b32dc302e681dd6620fb9de20af18df2af9ccf13
       </div>
       <img src="/images/video_bottom.png"/>
     </div>
@@ -102,11 +88,8 @@
           <a href="" class="left">Legtöbb kapcsolat</a>
           <div class="separator left">|</div>
           <a href="" class="left">Legfrisebb</a>
-<<<<<<< HEAD
           <table-plus-contract with="&@contracts"/>
           <div class="table_footer"><a href="#{people_path}">További tranzakciók &gt;</a></div>
-=======
->>>>>>> b32dc302e681dd6620fb9de20af18df2af9ccf13
         </div>
       </div>
       <div class="clear"></div>

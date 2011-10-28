@@ -61,7 +61,7 @@ class PeopleController < ApplicationController
 
   def show
     @this = find_instance
-    @interersonal_relations = @this.interpersonal_relations.paginate(:per_page=>10, :page=>params[:page])
+    @interpersonal_relations = @this.interpersonal_relations.paginate(:per_page=>10, :page=>params[:page])
     @person_to_org_relations = @this.person_to_org_relations.paginate(:per_page=>10, :page=>params[:page])
     @histories = @this.person_histories.paginate(:per_page=>10, :page=>params[:page])
 

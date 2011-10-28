@@ -4,20 +4,43 @@ utf8 karakterek designhoz:
 per-eket ne egymás mellé rendezze - felvitelnél jó, megjelenítésnél nem...
 
 adatbázisból kitisztítani a \r\n-eket
-indexes oldalak cardok listája
-site_search oldalon keresésnél ajax result hátterét belőni
-
+kezdőoldalon videó
+menü bekötés
+hírfolyam
 gyorskeresésnél loader indikátor eltolja bordert
 
 különböző sorrendezési lehetőségek 
-
 főoldal
-person:
-org
-contract:
+person: legtöbb személyes kapcsolat (interpersonal_relations_count), legtöbb szervezeti kapcs(person_to_org_relations_count), most frissített(updated_at)
+org: legtöbb személyes kapcsolat (person_to_org_relations_count), legtöbb szervezeti kapcs(interorg_relations_count), most frissített(updated_at)
+contract: érték szerint(sum_value), ajánlattevők száma szerint(no_of_proposals)
 
-person oldal
+person index oldal
+abc szerint,beviteli sorrendben 
+
+person show
 
 org oldal
 
 litigation oldal
+
+
+cardos lapozásnál fehér alapon kék betűk (nem a tablés)
+
+indexnél sorrendezés hobo_button_active classal (sötét kék(alap) és világoskék(hover) és sötétszürke(kiválasztott) színekkel) 
+indexes oldalak cardok listája, cardban adatok éles hazaitopról venni infót (szerevezeteknél tevékenységeket (activities) vesszővel elválasztva)
+
+térképre vele oldal
+ajax result hátterét 010101
+mindegyik kör
+személy színkód: cd3403 szervezet: cbff67 litigation: 66ccff
+
+node szűrések
+személyek (személyeket is ki/be lehet kapcsolni): 
+P2oRelationTypes.all.*.name
+P2pRelationTypes.all.*.name 
+
+Szervezetek::
+o2p_relation_types
+o2o_realtion_types
+
