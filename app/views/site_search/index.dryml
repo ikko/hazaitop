@@ -1,5 +1,5 @@
 <page>
-  <append-scripts:>
+  <scripts:>
     <javascript name="jquery-1.4.4, jquery-ui-1.8.6.custom.min, AC_OETags.min, json2.min, cytoscapeweb.min, graph"/>
     <script type='text/javascript'>
       <%= "var __debug = true;" if Rails.env.development? %>
@@ -13,7 +13,7 @@
       }
       var xmmlGraph = <%= @network.to_json %>;
     </script>
-  </append-scripts:>
+  </scripts:>
   <content:>
     <div id="map_wrapper">
       <div id="map_panel" class="left">

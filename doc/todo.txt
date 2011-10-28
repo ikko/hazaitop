@@ -17,10 +17,6 @@ org: legtöbb személyes kapcsolat (person_to_org_relations_count), legtöbb sze
 contract: érték szerint(sum_value), ajánlattevők száma szerint(no_of_proposals)
 
 térképre vele oldal
-ajax result hátterét 010101
-mindegyik kör
-személy színkód: cd3403 szervezet: cbff67 litigation: 66ccff
-
 node szűrések
 személyek (személyeket is ki/be lehet kapcsolni): 
 P2oRelationTypes.all.*.name

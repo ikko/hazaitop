@@ -32,10 +32,19 @@ var vis;
       }
     },
     generateXmlFromNode: function(node) {
-      return "<node id='"+node.id+"' label='"+node.label+"'><graphics type='"+node.shape+"' "+(node.shape=='DIAMOND' ? "w='35'":"")+"/>"+this.generateNodeAttributes(node)+"</node>"
+      return "<node id='"+node.id+"' label='"+node.label+"'><graphics type='CIRCLE' outline='#"+this.generateNodeColor(node)+"'  fill='#"+this.generateNodeColor(node)+"'/>"+this.generateNodeAttributes(node)+"</node>"
     },
     generateXmlFromEdge: function(edge) {
       return "<edge id='"+edge.id+"' source='"+edge.sourceId+"' target='"+edge.targetId+"' label='"+edge.label+"'><att type='real' name='weight' value='"+edge.weight+"'/><graphics width='"+(edge.weight/this.maxWeight)*10+"'/></edge>"
+    },
+    generateNodeColor: function(node) {
+      if (node.shape == 'CIRCLE') {
+        return "cd3403";
+      } else if (node.shape == 'RECTANGLE') {
+        return "cbff67";
+      } else if (node.shape == 'DIAMOND') {
+        return "66ccff";
+      }
     },
     generateNodeAttributes: function(node) {
       if (node.shape == 'CIRCLE') {
@@ -67,7 +76,7 @@ var vis;
       vis.draw({network: this.parse(data), 
                 edgeLabelsVisible: true, 
                 layout: 'Circle', 
-                visualStyle: {nodes:{size:51, labelFontSize:10}, edges:{labelFontSize:10}}});
+                visualStyle: {global:{backgroundColor: "#010101"},nodes:{labelFontColor: "#ffffff", size:51, labelFontSize:10}, edges:{labelFontSize:10}}});
     },
     loadedNodeIds: function() {
       var resp = '';

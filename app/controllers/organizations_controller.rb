@@ -49,8 +49,8 @@ class OrganizationsController < ApplicationController
 
   def show
     @this               = find_instance
-    @person_to_orgs = @this.interorg_relations.paginate(:per_page=>10, :page=>params[:page])
-    @interorgs = @this.interorg_relations.paginate(:per_page=>10, :page=>params[:page])
+    @person_to_org_relations = @this.interorg_relations.paginate(:per_page=>10, :page=>params[:page])
+    @interorg_relations = @this.interorg_relations.paginate(:per_page=>10, :page=>params[:page])
     @financials = @this.org_histories.paginate(:per_page=>10, :page=>params[:page])
     respond_to do |format| 
       format.html  { hobo_show @this }
