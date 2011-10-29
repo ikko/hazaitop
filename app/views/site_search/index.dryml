@@ -24,24 +24,26 @@
         </div>
         <div id="map_content" class="tab_content">
           <div id="map_content_header">
-            <span class="strong">Hunvald</span><br />
+            <span class="strong">Gyurcsány Ferenc</span><br />
             <a href="">profil megtekintése</a>
           </div>
-          <input type="checkbox" name=""/><label class="strong">Közbeszerzések</label><br />
-          <input type="checkbox" name=""/><label class="strong">Személyek</label><br />
-          <% P2oRelationType.all.each do |rel_type| %>
-            <input type="checkbox" id="p2o_relation_type" name="p2o_relation_type[id]" value="#{rel_type.id}"/><label><%= rel_type.name %></label><br />
-          <% end %>
-          <% P2pRelationType.not_internal.each do |rel_type| %>
-            <input type="checkbox" id="p2p_relation_type" name="p2p_relation_type[id]" value="#{rel_type.id}"/><label><%= rel_type.name %></label><br />
-          <% end %>
-          <input type="checkbox" name=""/><label class="strong">Szervezetek</label><br />
-          <% O2pRelationType.all.each do |rel_type| %>
-            <input type="checkbox" id="o2p_relation_type" name="o2p_relation_type[id]" value="#{rel_type.id}"/><label><%= rel_type.name %></label><br />
-          <% end %>
-          <% (O2oRelationType.visual + O2oRelationType.litig).each do |rel_type| %>
-            <input type="checkbox" id="o2o_relation_type" name="o2o_relation_type[id]" value="#{rel_type.id}"/><label><%= rel_type.name %></label><br />
-          <% end %>
+          <div id="checkbox_list">
+            <input type="checkbox" name=""/><label class="strong">Közbeszerzések</label><br />
+            <input type="checkbox" name=""/><label class="strong">Személyek</label><br />
+            <% P2oRelationType.all.each do |rel_type| %>
+              <input type="checkbox" id="p2o_relation_type" name="p2o_relation_type[id]" value="#{rel_type.id}"/><label><%= rel_type.name %></label><br />
+            <% end %>
+            <% P2pRelationType.not_internal.each do |rel_type| %>
+              <input type="checkbox" id="p2p_relation_type" name="p2p_relation_type[id]" value="#{rel_type.id}"/><label><%= rel_type.name %></label><br />
+            <% end %>
+            <input type="checkbox" name=""/><label class="strong">Szervezetek</label><br />
+            <% O2pRelationType.all.each do |rel_type| %>
+              <input type="checkbox" id="o2p_relation_type" name="o2p_relation_type[id]" value="#{rel_type.id}"/><label><%= rel_type.name %></label><br />
+            <% end %>
+            <% (O2oRelationType.visual + O2oRelationType.litig).each do |rel_type| %>
+              <input type="checkbox" id="o2o_relation_type" name="o2o_relation_type[id]" value="#{rel_type.id}"/><label><%= rel_type.name %></label><br />
+            <% end %>
+          </div>
         </div>
         <div id="search_content" style="display: none;" class="tab_content">
           <label>Személy neve: </label><input class="autocomplete" id="people_autocomplete" type="text"/><img class="ajax_loader" src="/images/autocomplete-ajax-loader.gif"/>
@@ -88,17 +90,17 @@
     </div>
     <div id="map_node_details">
       <header class="content-header">
-        <h2>Hunvald György</h2>
+        <h2>Gyurcsány Ferenc</h2>
       </header>
       <div class="node_details_block left">
         <div class="details_header">Betöltött hivatalok:</div>
-        bkv mufti<br />
-        gazdasági mufti
+        Altus Befektetési és<br /> Vagyonkezelő Rt. vezérigazgató
+        Miniszterelnök
       </div>
       <div class="node_details_block left">
         <div class="details_header">Személyes adatok:</div>
-        <div class="strong detail">Születési idő</div>1939.02.12<br />
-        <div class="strong detail">Anyja neve</div>Kis Aranka<br />
+        <div class="strong detail">Születési idő</div>1961.06.04<br />
+        <div class="strong detail">Anyja neve</div>Varga Katalin<br />
         <div class="strong detail">Születési hely</div>Budapest<br />
         <div class="strong detail">Információ forrás</div><a href="http://k-monitor.hu">www.k-monitor.hu</a><br />
       </div>

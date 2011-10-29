@@ -62,7 +62,7 @@
       <div id="header_infoline">
         <div class="left" id="arrows"><a class="arrow" href="">◂</a><a class="arrow" href="">▸</a></div>
         <ul class="left">
-          <li><a href="">Tegnap ez lopott</a></li>
+          <li><a href=""><%= Article.last.title %></a></li>
           <li style="display: none">Ma ez lop</li>
           <li style="display: none">Holnap ez fog lopni</li>
         </ul>
@@ -476,7 +476,8 @@
 </def>
 
 <def tag="table-plus-contract">
-  <table-plus fields="name" without-search-form merge>
+  <table-plus fields="name, contracted_value, buyer, seller" without-search-form merge>
+    <name-view:><%= this.length>70 ? "#{this[0..70]}..." : this %></name-view:>
     <up-arrow:>⬆</up-arrow:>
     <down-arrow:>⬇</down-arrow:>
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'contract_pagination', :query=>params[:query]}"/>

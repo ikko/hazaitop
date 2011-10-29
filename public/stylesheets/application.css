@@ -168,8 +168,7 @@ a {
 }
 
 #welcome_message_bottom {
-  margin-top: 8px;
-  padding-bottom: 8px;
+  padding-bottom: 5px;
 }
 
 #quick_search_content_wrapper {
@@ -189,6 +188,7 @@ a {
   padding: 5px;
   margin: 0px;
   height: 33px;
+  margin-bottom: 15px;
 }
 
 #quick_search_zoom {
@@ -718,7 +718,7 @@ h2 {
 }
 
 #search-results-panel {
-  position: relative;
+  position: absolute;
   top: 49px;
   right: 25px;
   z-index: 50;
@@ -729,6 +729,10 @@ h2 {
   border: 1px solid #DDD;
   color: black;
   background: #F2F2F2;
+}
+
+#search-results h4 {
+  margin: 0px;
 }
 
 .content-body a {
@@ -758,4 +762,7 @@ h2 {
 
 .button:hover {cursor: pointer;}
 
-
+#checkbox_list {
+  overflow-y: scroll;
+  height: 315px;
+}
