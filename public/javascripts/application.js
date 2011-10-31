@@ -40,6 +40,22 @@ if (typeof jQuery != 'undefined') {
         next_news.addClass("active").show();
         e.preventDefault();
       });
+
+      //térképszűrők
+      $("#person_relation").click(function(){
+        if ($(this).is(":checked")) {
+          $(".person_relation").attr("checked", "checked")
+        } else {
+          $(".person_relation").attr("checked", "")
+        }
+      });
+      $("#org_relation").click(function(){
+        if ($(this).is(":checked")) {
+          $(".org_relation").attr("checked", "checked")
+        } else {
+          $(".org_relation").attr("checked", "")
+        }
+      });
     });
 
   })(jQuery)

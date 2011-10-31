@@ -23,25 +23,25 @@
           <div class="tab"><a href="#profil_content">PROFIL</a></div>
         </div>
         <div id="map_content" class="tab_content">
-          <div id="map_content_header">
+          <div id="map_content_header" style="#{@id ? 'display: block' : ''}">
             <span class="strong">Gyurcsány Ferenc</span><br />
             <a href="">profil megtekintése</a>
           </div>
           <div id="checkbox_list">
-            <input type="checkbox" name=""/><label class="strong">Közbeszerzések</label><br />
-            <input type="checkbox" name=""/><label class="strong">Személyek</label><br />
+            <input type="checkbox" checked="checked" name=""/><label class="strong">Közbeszerzések</label><br />
+            <input id="person_relation" checked="checked" type="checkbox" name=""/><label class="strong">Személyek</label><br />
             <% P2oRelationType.all.each do |rel_type| %>
-              <input type="checkbox" id="p2o_relation_type" name="p2o_relation_type[id]" value="#{rel_type.id}"/><label><%= rel_type.graph_label %></label><br />
+              <input class="person_relation" checked="checked" type="checkbox" id="p2o_relation_type" name="p2o_relation_type[id]" value="#{rel_type.id}"/><label><%= rel_type.graph_label %></label><br />
             <% end %>
             <% P2pRelationType.all.each do |rel_type| %>
-              <input type="checkbox" id="p2p_relation_type" name="p2p_relation_type[id]" value="#{rel_type.id}"/><label><%= rel_type.graph_label %></label><br />
+              <input class="person_relation" checked="checked" type="checkbox" id="p2p_relation_type" name="p2p_relation_type[id]" value="#{rel_type.id}"/><label><%= rel_type.graph_label %></label><br />
             <% end %>
-            <input type="checkbox" name=""/><label class="strong">Szervezetek</label><br />
+            <input id="org_relation" type="checkbox" checked="checked" name=""/><label class="strong">Szervezetek</label><br />
             <% O2pRelationType.all.each do |rel_type| %>
-              <input type="checkbox" id="o2p_relation_type" name="o2p_relation_type[id]" value="#{rel_type.id}"/><label><%= rel_type.graph_label %></label><br />
+              <input class="org_relation" type="checkbox" checked="checked" id="o2p_relation_type" name="o2p_relation_type[id]" value="#{rel_type.id}"/><label><%= rel_type.graph_label %></label><br />
             <% end %>
             <% (O2oRelationType.visual + O2oRelationType.litig).each do |rel_type| %>
-              <input type="checkbox" id="o2o_relation_type" name="o2o_relation_type[id]" value="#{rel_type.id}"/><label><%= rel_type.graph_label %></label><br />
+              <input class="org_relation" type="checkbox" checked="checked" id="o2o_relation_type" name="o2o_relation_type[id]" value="#{rel_type.id}"/><label><%= rel_type.graph_label %></label><br />
             <% end %>
           </div>
         </div>
