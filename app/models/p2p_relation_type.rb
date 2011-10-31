@@ -8,7 +8,12 @@ class P2pRelationType < ActiveRecord::Base
     internal :boolean, :default => false
     visual   :boolean, :default => true
     litig    :boolean, :default => false
+    label    :string
     timestamps
+  end
+
+  def graph_label
+    label.blank? ? name : label
   end
 
   belongs_to :pair, :class_name => "P2pRelationType"

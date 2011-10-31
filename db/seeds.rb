@@ -53,11 +53,11 @@ if P2pRelationType.count == 0
   P2pRelationType.create( :name => "üzleti partner",      :weight => "9" )
   P2pRelationType.create( :name => "barát",               :weight => "6" )
   P2pRelationType.create( :name => "rokon",               :weight => "11" )
-  f = P2pRelationType.create( :name => "közös sajtó",   :weight => "1" )
+  f = P2pRelationType.create( :name => "közös sajtó", :label => "közös sajtó személlyel",  :weight => "1" )
 
   # kétoldalú nem származtatott személyes kapcsolatok
-  a = P2pRelationType.create( :name => "alperes",         :weight => "10", :visual => false, :litig => true )
-  b = P2pRelationType.create( :name => "felperes",        :weight => "10",   :pair_id => a.id, :visual => false, :litig => true  )
+  a = P2pRelationType.create( :name => "alperes",  :label => "alperes magánszeméllyel",       :weight => "10", :visual => false, :litig => true )
+  b = P2pRelationType.create( :name => "felperes", :label => "felperes magánszeméllyel",        :weight => "10",   :pair_id => a.id, :visual => false, :litig => true  )
   a.update_attribute :pair_id, b.id
 
   a = P2pRelationType.create( :name => "hitelező",         :weight => "20" )
@@ -66,8 +66,8 @@ if P2pRelationType.count == 0
 
   # intézményi kapcsolatból származtatható személyes kapcsolatok és a forrás intézményi kapcsolatok
   
-  a = P2oRelationType.create(     :name   => "közös sajtó",       :weight => "1", :p2p_relation_type_id => f.id )
-  b = O2pRelationType.create(     :name   => "közös sajtó",       :weight => "1", :p2p_relation_type_id => f.id, :pair_id => a.id  )
+  a = P2oRelationType.create(     :name   => "közös sajtó", :label => "közös sajtó szervezettel",       :weight => "1", :p2p_relation_type_id => f.id )
+  b = O2pRelationType.create(     :name   => "közös sajtó", :label => "közös sajtó személlyel",       :weight => "1", :p2p_relation_type_id => f.id, :pair_id => a.id  )
   a.update_attribute :pair_id, b.id
   
   i = P2pRelationType.create( :name => "iskolatárs",      :weight => "3", :internal => true )
@@ -106,13 +106,13 @@ if P2pRelationType.count == 0
   a.update_attribute :pair_id, b.id
 
   i = P2pRelationType.create( :name => "egyidejű alperesek",       :weight => "8", :internal => true )
-  a = P2oRelationType.create(     :name   => "alperes",      :weight => "10", :p2p_relation_type_id => i.id, :visual => false, :litig => true )
-  b = O2pRelationType.create(     :name   => "felperes",     :weight => "10", :p2p_relation_type_id => i.id, :pair_id => a.id, :visual => false, :litig => true  )
+  a = P2oRelationType.create(     :name   => "alperes", :label => "alperes szervezettel",     :weight => "10", :p2p_relation_type_id => i.id, :visual => false, :litig => true )
+  b = O2pRelationType.create(     :name   => "felperes", : :label => "felperes személlyel",    :weight => "10", :p2p_relation_type_id => i.id, :pair_id => a.id, :visual => false, :litig => true  )
   a.update_attribute :pair_id, b.id
 
   i = P2pRelationType.create( :name => "egyidejű felperesek",      :weight => "8", :internal => true )
-  a = P2oRelationType.create(     :name   => "felperes",     :weight => "10", :p2p_relation_type_id => i.id, :visual => false, :litig => true )
-  b = O2pRelationType.create(     :name   => "alperes",      :weight => "10", :p2p_relation_type_id => i.id, :pair_id => a.id, :visual => false, :litig => true  )
+  a = P2oRelationType.create(     :name   => "felperes", :label => "felperes szervezettel",    :weight => "10", :p2p_relation_type_id => i.id, :visual => false, :litig => true )
+  b = O2pRelationType.create(     :name   => "alperes",  :label => "alperes személlyel",    :weight => "10", :p2p_relation_type_id => i.id, :pair_id => a.id, :visual => false, :litig => true  )
   a.update_attribute :pair_id, b.id
 
 end
@@ -121,7 +121,7 @@ if O2oRelationType.count == 0
 
   # egyszerű intézményközi kapcsolatok
   O2oRelationType.create(     :name => "üzleti partner", :weight => "5" )
-  O2oRelationType.create(     :name => "közös sajtó", :weight => "1" )
+  O2oRelationType.create(     :name => "közös sajtó", :label => "közös sajtó szervezettel", :weight => "1" )
 
   # kétoldalú intézményközi kapcsolatok párban
   t = O2oRelationType.create( :name => "anyavállalat",   :weight => "10" )
@@ -130,8 +130,8 @@ if O2oRelationType.count == 0
   t = O2oRelationType.create( :name => "szponzor",       :weight => "10" )
   r = O2oRelationType.create( :name => "szponzorált",    :weight => "10", :pair_id => t.id )
   t.update_attribute :pair_id, r.id
-  t = O2oRelationType.create( :name => "alperes",        :weight => "10", :visual => false, :litig => true )
-  r = O2oRelationType.create( :name => "felperes",       :weight => "10", :pair_id => t.id, :visual => false, :litig => true )
+  t = O2oRelationType.create( :name => "alperes",  :label => "alperes szervezettel",       :weight => "10", :visual => false, :litig => true )
+  r = O2oRelationType.create( :name => "felperes", :label => "felperes szervezettel",       :weight => "10", :pair_id => t.id, :visual => false, :litig => true )
   t.update_attribute :pair_id, r.id
   t = O2oRelationType.create( :name => "alvállalkozó",   :weight => "10" )
   r = O2oRelationType.create( :name => "fővállalkozó",   :weight => "10", :pair_id => t.id )
@@ -171,24 +171,6 @@ if Rails.env == "development"
 end
 
 
-if Rails.env == "production"
-
-  if User.count == 0
-#    User.create :name => "adminuser", :email_address => "adminuser@addig.hu", :password => "mitminek", :password_confirmation => "mitminek", :editor => false, :administrator => true, :state => "active"
-  end
-
-
-if Organization.count == 0
-   Organization.create! :name => "szivarvany gyár", :information_source_id => sajat.id, :org_grade_id => org.id
-   Organization.create! :name => "gomba gyár", :information_source_id => sajat.id, :org_grade_id => org.id
-end
-
-if Person.count == 0
-   Person.create! :first_name => "géza", :last_name => "cérna", :information_source_id => sajat.id
-   Person.create! :first_name => "mátyás", :last_name => "mókás", :information_source_id => sajat.id
-end
-
-end
 
 if PlaceOfBirth.count == 0
 

@@ -139,6 +139,15 @@ var vis;
   }
 
   $(function() {
+    var query = location.href.split('#');
+    console.log(query)
+    if (query[1] == "search_content") {
+      $(".tab_content").hide();
+      $(".tab").removeClass("active");
+      $("#search_content").show();
+      $("a[href='#search_content']").parent().addClass("active");
+    }
+
     $selectedNodeId = $("#selected_node_id");
     $selectedNodeType = $("#selected_node_type");
     $personNode = $("#person_node");

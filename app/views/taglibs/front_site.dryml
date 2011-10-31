@@ -60,11 +60,13 @@
         </div>
       </div>
       <div id="header_infoline">
-        <div class="left" id="arrows"><a class="arrow" href="">◂</a><a class="arrow" href="">▸</a></div>
-        <ul class="left">
-          <li><a href=""><%= Article.last.title %></a></li>
-          <li style="display: none">Ma ez lop</li>
-          <li style="display: none">Holnap ez fog lopni</li>
+        <div class="left" id="arrows"><a class="left_arrow" href="">◂</a><a class="right_arrow" href="">▸</a></div>
+        <ul class="left" id="news">
+          <% i = 0 %>
+          <% Article.recent(5).each do |article| %>
+            <li class="#{ i == 0 ? 'active' : ''}"><a href=""><%= article.title %></a></li>
+            <% i =+1 %>
+          <% end %>
         </ul>
         2011. október 6.<div class="separator">|</div><a href="http://www.k-monitor.hu">www.k-monitor.hu</a>
       </div>

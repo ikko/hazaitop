@@ -16,6 +16,7 @@ if (typeof jQuery != 'undefined') {
 
   (function($){
     $(function() {
+      // tabváltás
       $(".tab a").click(function(e) {
         var $this = $(this);
         if (!$this.parent().hasClass("active")) {
@@ -24,6 +25,19 @@ if (typeof jQuery != 'undefined') {
           $($this.attr('href')).show();
           $(this).parent().addClass("active");
         }
+        e.preventDefault();
+      });
+
+      //hírléptetés
+      $("#arrows a").click(function(e) {
+        var next_news, actual_news = $("#news li.active");
+        if (actual_news.next().length>0) {
+          next_news = actual_news.next();
+        } else {
+          next_news = $("#news li:first");
+        }
+        $("#news li").removeClass("active").hide();
+        next_news.addClass("active").show();
         e.preventDefault();
       });
     });

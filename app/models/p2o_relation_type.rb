@@ -7,7 +7,12 @@ class P2oRelationType < ActiveRecord::Base
     weight :float, :required, :default => 1
     visual :boolean, :default => true
     litig  :boolean, :default => false
+    label  :string
     timestamps
+  end
+
+  def graph_label
+    label.blank? ? name : label
   end
 
   belongs_to :p2p_relation_type   # ha nincs definiálva a kalkulátorban, akkor erre default-olunk

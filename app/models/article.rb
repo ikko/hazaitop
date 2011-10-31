@@ -13,6 +13,8 @@ class Article < ActiveRecord::Base
 
   default_scope :order => 'updated_at DESC'
 
+  named_scope :recent, lambda {|limit|  {:limit => limit} }
+
   belongs_to :information_source
   belongs_to :user
 
