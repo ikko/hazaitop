@@ -12,11 +12,11 @@
             e.preventDefault();
           });
           $("#orgs_content .pagination a").live('click', function(e) {
-            $.ajax({url: $(this).attr('href'), success: function(data) {$("#orgs_content .table-plus").html(data)}});
+            $.ajax({url: $(this).attr('href'), success: function(data) {$("#orgs_content").html(data)}});
             e.preventDefault();
           });
           $("#trans_content .pagination a").live('click', function(e) {
-            $.ajax({url: $(this).attr('href'), success: function(data) {$("#trans_content .table-plus").html(data)}});
+            $.ajax({url: $(this).attr('href'), success: function(data) {$("#trans_content").html(data)}});
             e.preventDefault();
           });
         });
@@ -61,27 +61,11 @@
         <div class="table_footer"><a href="#{people_path}">További személyek &gt;</a></div>
       </div>
       <div id="orgs_content" class="tab_content" style="display: none">
-        <div class="order_list">
-          <a href="" class="left active">Legtöbb személyes kapcsolat</a>
-          <div class="separator left">|</div>
-          <a href="" class="left">Legtöbb szervezeti kapcsolat</a>
-          <div class="separator left">|</div>
-          <a href="" class="left">Most frissített</a>
-        </div>
-        <table-plus with="&@organizations" fields="this, city, street, zip_code, information_source" without-search-form>
-          <up-arrow:>⬆</up-arrow:>
-          <down-arrow:>⬇</down-arrow:>
-          <this-view:><a/> <a href="/site_search/?p=#{this.id}"><img src="/images/plusz.png"/></a> </this-view:>
-        </table-plus>
+        <table-plus-org with="&@organizations"/>
         <div class="table_footer"><a href="#{organizations_path}">További szervezetek &gt;</a></div>
       </div>
 
       <div id="trans_content" class="tab_content" style="display: none">
-        <div class="order_list">
-          <a href="" class="left active">Érték szerint</a>
-          <div class="separator left">|</div>
-          <a href="" class="left">Ajánlattevők száma szerint</a>
-        </div>
         <table-plus-contract with="&@contracts"/>
         <div class="table_footer"><a href="#{people_path}">További tranzakciók &gt;</a></div>
       </div>

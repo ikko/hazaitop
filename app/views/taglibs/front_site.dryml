@@ -475,19 +475,36 @@
 </def>
 
 <def tag="table-plus-org">
+  <div class="order_list">
+    <a href="" class="left active">Legtöbb személyes kapcsolat</a>
+    <div class="separator left">|</div>
+    <a href="" class="left">Legtöbb szervezeti kapcsolat</a>
+    <div class="separator left">|</div>
+    <a href="" class="left">Most frissített</a>
+  </div>
   <table-plus fields="this, city, street, zip_code, information_source" without-search-form merge>
-    <up-arrow:>⬆</up-arrow:>
-    <down-arrow:>⬇</down-arrow:>
+    <Organization-heading:><span>Név</span></Organization-heading:>
+    <city-heading:><span>Információ forrás</span></city-heading:>
+    <street-heading:><span>Információ forrás</span></street-heading:>
+    <zip-code-heading:><span>Információ forrás</span></zip-code-heading:>
+    <information-source-heading:><span>Információ forrás</span></information-source-heading:>
     <this-view:><a/> <a href="/site_search/?p=#{this.id}"><img src="/images/plusz.png"/></a> </this-view:>
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'org_pagination', :query=>params[:query]}"/>
   </table-plus>
 </def>
 
 <def tag="table-plus-contract">
+  <div class="order_list">
+    <a href="" class="left active">Érték szerint</a>
+    <div class="separator left">|</div>
+    <a href="" class="left">Ajánlattevők száma szerint</a>
+  </div>
   <table-plus fields="name, contracted_value, buyer, seller" without-search-form merge>
+    <name-heading:><span>Megnevezés</span></name-heading:>
+    <contracted_value-heading:><span>Szerződési érték</span></contracted_value-heading:>
+    <buyer-heading:><span>Vevő</span></buyer-heading:>
+    <seller-heading:><span>Eladó</span></seller-heading:>
     <name-view:><%= this.length>70 ? "#{this[0..70]}..." : this %></name-view:>
-    <up-arrow:>⬆</up-arrow:>
-    <down-arrow:>⬇</down-arrow:>
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'contract_pagination', :query=>params[:query]}"/>
   </table-plus>
 </def>
