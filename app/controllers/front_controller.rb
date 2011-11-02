@@ -21,7 +21,7 @@ class FrontController < ApplicationController
   end
 
   index_action :contract_pagination do
-    @contracts = Contract.paginate(:per_page=>10, :page=>params[:page])
+    @contracts = Contract.apply_scopes(:order_by => parse_sort_param(:contracted_value, :no_of_proposals)).paginate(:per_page=>10, :page=>params[:page])
   end
 
   def impressum; end

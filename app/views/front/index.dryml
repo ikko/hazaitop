@@ -29,6 +29,10 @@
             $.ajax({url: $(this).attr('href'), success: function(data) {$("#trans_content").html(data)}});
             e.preventDefault();
           });
+          $("#trans_content .order_list a").live('click', function(e) {
+            $.ajax({url: $(this).attr('href'), success: function(data) {$("#trans_content").html(data)}});
+            e.preventDefault();
+          });
         });
       })(jQuery)
     </script>

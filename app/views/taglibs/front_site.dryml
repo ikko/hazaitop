@@ -501,13 +501,14 @@
 
 <def tag="table-plus-contract">
   <div class="order_list">
-    <a href="" class="left active">Érték szerint</a>
+    <a href="/front/contract_pagination/?sort=contracted_value" class="left #{!params[:sort] || params[:sort]=='contracted_value' ? 'active' : ''}">Érték szerint</a>
     <div class="separator left">|</div>
-    <a href="" class="left">Ajánlattevők száma szerint</a>
+    <a href="/front/contract_pagination/?sort=no_of_proposals" class="left #{params[:sort] && params[:sort]=='no_of_proposals' ? 'active' : ''}">Ajánlattevők száma szerint</a>
   </div>
-  <table-plus fields="name, contracted_value, buyer, seller" without-search-form merge>
+  <table-plus fields="name, contracted_value, no_of_proposals, buyer, seller" without-search-form merge>
     <name-heading:><span>Megnevezés</span></name-heading:>
-    <contracted_value-heading:><span>Szerződési érték</span></contracted_value-heading:>
+    <contracted-value-heading:><span>Szerződési érték</span></contracted-value-heading:>
+    <no-of-proposals-heading:><span>Ajánlattevők száma</span></no-of-proposals-heading:>
     <buyer-heading:><span>Vevő</span></buyer-heading:>
     <seller-heading:><span>Eladó</span></seller-heading:>
     <name-view:><%= this.length>70 ? "#{this[0..70]}..." : this %></name-view:>
