@@ -466,9 +466,10 @@
     <div class="separator left">|</div>
     <a href="/front/person_pagination/?sort=updated_at" class="left #{params[:sort] && params[:sort]=='updated_at' ? 'active' : ''}">Most frissített</a>
   </div>
-  <table-plus fields="this, interpersonal_relations_count, information_source" without-search-form merge>
+  <table-plus fields="this, interpersonal_relations_count, person_to_org_relations_count, information_source" without-search-form merge>
     <Person-heading:><span>Név</span></Person-heading:>
     <interpersonal-relations-count-heading:><span>Személyes kapcsolat</span></interpersonal-relations-count-heading:>
+    <person-to-org-relations-count-heading:><span>Szervezeti kapcsolat</span></person-to-org-relations-count-heading:>
     <information-source-heading:><span>Információ forrás</span></information-source-heading:>
     <this-view:><a/> <a href="/site_search/?p=#{this.id}"><img src="/images/plusz.png"/></a> </this-view:>
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'person_pagination', :query=>params[:query], :sort=>params[:sort]}"/>
