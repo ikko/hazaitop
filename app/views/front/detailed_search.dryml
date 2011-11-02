@@ -17,7 +17,7 @@
           <span>Adat:</span><input type="checkbox" name="article" class="checkbox"/><label class="checkbox_label">Cikk</label><input type="checkbox" name="litigation" class="checkbox"/><label class="checkbox_label">Per</label><input type="checkbox" name="notification" class="checkbox"/><label class="checkbox_label">Közbeszerzés</label>
         </fieldset>
         <fieldset class="no_bottom_border">
-          <input type="submit" name="submit" id="detailed_search_submit_button" value="Keresés"/>
+          <input type="submit" name="submit" class="right" id="detailed_search_submit_button" value="Keresés"/>
         </fieldset>
       </form>
     </div>

@@ -506,6 +506,10 @@ h2 {
   font-size: 13px;
 }
 
+.login-page th {
+  font-weight: normal;
+}
+
 #detailed_search_wrapper fieldset {
   border-bottom: 1px solid #C9C7C8;
   border-top: 1px solid #D2D0D1;
@@ -517,7 +521,7 @@ h2 {
   display: inline-block;
 }
 
-#detailed_search_wrapper fieldset input {
+#detailed_search_wrapper fieldset input, .login-input, .password-input {
   border: 1px solid #b6b5b6;
   height: 25px;
   margin: 0px;
@@ -533,13 +537,23 @@ h2 {
   border-bottom: none !important;
 }
 
-#detailed_search_submit_button {
+#detailed_search_submit_button, .login-page .submit-button {
   background-color: #064a57;
   border: 1px solid #7c8486;
   color: white;
   cursor: pointer;
-  float: right;
   width: 150px;
+}
+
+.flash.error {
+  font-family: "Lucida Grande", arial, sans-serif;
+  background: #9d0018;
+  border: 1px solid #7a0013;
+  padding: 20px;
+  color: white;
+  margin-bottom: 20px;
+  text-align: center;
+  margin-top: 20px;
 }
 
 .from_to_separator {

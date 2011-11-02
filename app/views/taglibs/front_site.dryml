@@ -53,7 +53,7 @@
           </ul>
         </div>
         <div class="header_link_column last" style="">
-          <strong><a href="">BEJELENTKEZÉS</a></strong>
+          <strong><a href="/login">BEJELENTKEZÉS</a></strong>
           <div id="search_box">
             <div id="search_wrapper"><form with="&nil" action="/search" method="post"><input type="text" name="query" id="search_input" value="Keresés"/><input type="submit" id="search_button" value="Submit"/></form></div>
           </div>
