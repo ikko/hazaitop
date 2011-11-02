@@ -1,7 +1,7 @@
 <show-page>
-  <append-custom-scripts:>
+  <!--append-custom-scripts:>
     <hjq-assets/>
-  </append-custom-scripts:>
+  </append-custom-scripts:-->
   <heading: class="left"/>
   <append-head:>
     <script>
