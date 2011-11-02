@@ -107,7 +107,7 @@ if P2pRelationType.count == 0
 
   i = P2pRelationType.create( :name => "egyidejű alperesek",       :weight => "8", :internal => true )
   a = P2oRelationType.create(     :name   => "alperes", :label => "alperes szervezettel",     :weight => "10", :p2p_relation_type_id => i.id, :visual => false, :litig => true )
-  b = O2pRelationType.create(     :name   => "felperes", : :label => "felperes személlyel",    :weight => "10", :p2p_relation_type_id => i.id, :pair_id => a.id, :visual => false, :litig => true  )
+  b = O2pRelationType.create(     :name   => "felperes", :label => "felperes személlyel",    :weight => "10", :p2p_relation_type_id => i.id, :pair_id => a.id, :visual => false, :litig => true  )
   a.update_attribute :pair_id, b.id
 
   i = P2pRelationType.create( :name => "egyidejű felperesek",      :weight => "8", :internal => true )
