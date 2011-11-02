@@ -484,11 +484,12 @@
     <div class="separator left">|</div>
     <a href="" class="left">Most frissített</a>
   </div>
-  <table-plus fields="this, city, street, zip_code, information_source" without-search-form merge>
+  <table-plus fields="this, city, street, zip_code, person_to_org_relations_count, information_source" without-search-form merge>
     <Organization-heading:><span>Név</span></Organization-heading:>
-    <city-heading:><span>Információ forrás</span></city-heading:>
-    <street-heading:><span>Információ forrás</span></street-heading:>
-    <zip-code-heading:><span>Információ forrás</span></zip-code-heading:>
+    <city-heading:><span>Város</span></city-heading:>
+    <street-heading:><span>Utca</span></street-heading:>
+    <zip-code-heading:><span>Irányítószám</span></zip-code-heading:>
+    <person-to-org-relations-count-heading:><span>Személyes kapcsolat</span></person-to-org-relations-count-heading:>
     <information-source-heading:><span>Információ forrás</span></information-source-heading:>
     <this-view:><a/> <a href="/site_search/?p=#{this.id}"><img src="/images/plusz.png"/></a> </this-view:>
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'org_pagination', :query=>params[:query]}"/>
