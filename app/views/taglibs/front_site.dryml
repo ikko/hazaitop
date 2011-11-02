@@ -459,10 +459,16 @@
 </extend>
 
 <def tag="table-plus-person">
-  <table-plus fields="this, last_name, first_name, information_source" without-search-form merge>
-    <this-heading:>Személy</this-heading:>
-    <up-arrow:>⬆</up-arrow:>
-    <down-arrow:>⬇</down-arrow:>
+  <div class="order_list">
+    <a href="" class="left active">Legtöbb személyes kapcsolat</a>
+    <div class="separator left">|</div>
+    <a href="" class="left">Legtöbb szervezeti kapcsolat</a>
+    <div class="separator left">|</div>
+    <a href="" class="left">Most frissített</a>
+  </div>
+  <table-plus fields="this, information_source" without-search-form merge>
+    <Person-heading:><span>Név</span></Person-heading:>
+    <information-source-heading:><span>Információ forrás</span></information-source-heading:>
     <this-view:><a/> <a href="/site_search/?p=#{this.id}"><img src="/images/plusz.png"/></a> </this-view:>
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'person_pagination', :query=>params[:query]}"/>
   </table-plus>

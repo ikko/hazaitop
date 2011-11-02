@@ -296,7 +296,7 @@ a {
   height: 30px;
 }
 
-thead a {
+thead a, thead span {
   padding-left: 10px;
   color: white;
 }
