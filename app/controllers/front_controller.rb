@@ -13,7 +13,7 @@ class FrontController < ApplicationController
   end
 
   index_action :person_pagination do
-    @people = Person.listed.paginate(:per_page=>10, :page=>params[:page])
+    @people = Person.apply_scopes(:order_by => parse_sort_param(:interpersonal_relations_count, :person_to_org_relations_count, :updated_at)).paginate(:per_page=>10, :page=>params[:page])
   end
 
   index_action :org_pagination do

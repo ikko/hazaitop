@@ -11,6 +11,11 @@
             $.ajax({url: $(this).attr('href'), success: function(data) {$("#people_content").html(data)}});
             e.preventDefault();
           });
+          $("#people_content .order_list a").live('click', function(e) {
+            $.ajax({url: $(this).attr('href'), success: function(data) {$("#people_content").html(data)}});
+            e.preventDefault();
+          });
+
           $("#orgs_content .pagination a").live('click', function(e) {
             $.ajax({url: $(this).attr('href'), success: function(data) {$("#orgs_content").html(data)}});
             e.preventDefault();
@@ -48,8 +53,6 @@
       </div>
       <img src="/images/video_bottom.png"/>
     </div>
-
-
     <div class="content_body">
       <div class="tabs">
         <div class="active tab"><a href="#people_content">SZEMÉLYEK</a></div><div class="separator"></div>
