@@ -58,16 +58,13 @@
       </div>
       <div id="people_content" class="tab_content">
         <table-plus-person with="&@people"/>
-        <div class="table_footer"><a href="#{people_path}">További személyek &gt;</a></div>
       </div>
       <div id="orgs_content" class="tab_content" style="display: none">
         <table-plus-org with="&@organizations"/>
-        <div class="table_footer"><a href="#{organizations_path}">További szervezetek &gt;</a></div>
       </div>
 
       <div id="trans_content" class="tab_content" style="display: none">
         <table-plus-contract with="&@contracts"/>
-        <div class="table_footer"><a href="#{people_path}">További tranzakciók &gt;</a></div>
       </div>
       <div class="clear"></div>
     </div>

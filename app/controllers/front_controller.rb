@@ -7,7 +7,7 @@ class FrontController < ApplicationController
   caches_page :development, :expires_in => 90.minutes
 
   def index
-    @people        = Person.list.apply_scopes(:order_by => parse_sort_param(:name, :information_source)).paginate(:per_page=>10, :page=>params[:page])
+    @people        = Person.listed.paginate(:per_page=>10, :page=>params[:page])
     @organizations = Organization.list.apply_scopes(:order_by => parse_sort_param(:name, :information_source)).paginate(:per_page=>10, :page=>params[:page])
     @contracts     = Contract.apply_scopes(:order_by => parse_sort_param(:name)).paginate(:per_page=>10, :page=>params[:page])
   end

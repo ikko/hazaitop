@@ -466,12 +466,14 @@
     <div class="separator left">|</div>
     <a href="" class="left">Most frissített</a>
   </div>
-  <table-plus fields="this, information_source" without-search-form merge>
+  <table-plus fields="this, interpersonal_relations_count, information_source" without-search-form merge>
     <Person-heading:><span>Név</span></Person-heading:>
+    <interpersonal-relations-count-heading:><span>Személyes kapcsolat</span></interpersonal-relations-count-heading:>
     <information-source-heading:><span>Információ forrás</span></information-source-heading:>
     <this-view:><a/> <a href="/site_search/?p=#{this.id}"><img src="/images/plusz.png"/></a> </this-view:>
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'person_pagination', :query=>params[:query]}"/>
   </table-plus>
+  <div class="table_footer"><a href="#{people_path}">További személyek &gt;</a></div>
 </def>
 
 <def tag="table-plus-org">
@@ -491,6 +493,7 @@
     <this-view:><a/> <a href="/site_search/?p=#{this.id}"><img src="/images/plusz.png"/></a> </this-view:>
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'org_pagination', :query=>params[:query]}"/>
   </table-plus>
+  <div class="table_footer"><a href="#{organizations_path}">További szervezetek &gt;</a></div>
 </def>
 
 <def tag="table-plus-contract">
@@ -507,6 +510,7 @@
     <name-view:><%= this.length>70 ? "#{this[0..70]}..." : this %></name-view:>
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'contract_pagination', :query=>params[:query]}"/>
   </table-plus>
+  <div class="table_footer"><a href="#{people_path}">További tranzakciók &gt;</a></div>
 </def>
 
 <def tag="collection-article">
