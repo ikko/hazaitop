@@ -460,11 +460,11 @@
 
 <def tag="table-plus-person">
   <div class="order_list">
-    <a href="/front/person_pagination/?sort=interpersonal_relations_count" class="left #{!params[:sort] || params[:sort]=='interpersonal_relations_count' ? 'active' : ''}">Legtöbb személyes kapcsolat</a>
+    <a href="/front/person_pagination/?sort=-interpersonal_relations_count" class="left #{!params[:sort] || params[:sort]=='-interpersonal_relations_count' ? 'active' : ''}">Legtöbb személyes kapcsolat</a>
     <div class="separator left">|</div>
-    <a href="/front/person_pagination/?sort=person_to_org_relations_count" class="left #{params[:sort] && params[:sort]=='person_to_org_relations_count' ? 'active' : ''}">Legtöbb szervezeti kapcsolat</a>
+    <a href="/front/person_pagination/?sort=-person_to_org_relations_count" class="left #{params[:sort] && params[:sort]=='-person_to_org_relations_count' ? 'active' : ''}">Legtöbb szervezeti kapcsolat</a>
     <div class="separator left">|</div>
-    <a href="/front/person_pagination/?sort=updated_at" class="left #{params[:sort] && params[:sort]=='updated_at' ? 'active' : ''}">Most frissített</a>
+    <a href="/front/person_pagination/?sort=-updated_at" class="left #{params[:sort] && params[:sort]=='-updated_at' ? 'active' : ''}">Most frissített</a>
   </div>
   <table-plus fields="this, interpersonal_relations_count, person_to_org_relations_count, information_source" without-search-form merge>
     <Person-heading:><span>Név</span></Person-heading:>
@@ -479,11 +479,11 @@
 
 <def tag="table-plus-org">
   <div class="order_list">
-    <a href="/front/org_pagination/?sort=person_to_org_relations_count" class="left #{!params[:sort] || params[:sort]=='person_to_org_relations_count' ? 'active' : ''}">Legtöbb személyes kapcsolat</a>
+    <a href="/front/org_pagination/?sort=-person_to_org_relations_count" class="left #{!params[:sort] || params[:sort]=='-person_to_org_relations_count' ? 'active' : ''}">Legtöbb személyes kapcsolat</a>
     <div class="separator left">|</div>
-    <a href="/front/org_pagination/?sort=interorg_relations_count" class="left #{params[:sort] && params[:sort]=='interorg_relations_count' ? 'active' : ''}">Legtöbb szervezeti kapcsolat</a>
+    <a href="/front/org_pagination/?sort=-interorg_relations_count" class="left #{params[:sort] && params[:sort]=='-interorg_relations_count' ? 'active' : ''}">Legtöbb szervezeti kapcsolat</a>
     <div class="separator left">|</div>
-    <a href="/front/org_pagination/?sort=updated_at" class="left #{params[:sort] && params[:sort]=='updated_at' ? 'active' : ''}">Most frissített</a>
+    <a href="/front/org_pagination/?sort=-updated_at" class="left #{params[:sort] && params[:sort]=='-updated_at' ? 'active' : ''}">Most frissített</a>
   </div>
   <table-plus fields="this, city, street, zip_code, person_to_org_relations_count, interorg_relations_count, information_source" without-search-form merge>
     <Organization-heading:><span>Név</span></Organization-heading:>
@@ -501,9 +501,9 @@
 
 <def tag="table-plus-contract">
   <div class="order_list">
-    <a href="/front/contract_pagination/?sort=contracted_value" class="left #{!params[:sort] || params[:sort]=='contracted_value' ? 'active' : ''}">Érték szerint</a>
+    <a href="/front/contract_pagination/?sort=-contracted_value" class="left #{!params[:sort] || params[:sort]=='-contracted_value' ? 'active' : ''}">Érték szerint</a>
     <div class="separator left">|</div>
-    <a href="/front/contract_pagination/?sort=no_of_proposals" class="left #{params[:sort] && params[:sort]=='no_of_proposals' ? 'active' : ''}">Ajánlattevők száma szerint</a>
+    <a href="/front/contract_pagination/?sort=-no_of_proposals" class="left #{params[:sort] && params[:sort]=='-no_of_proposals' ? 'active' : ''}">Ajánlattevők száma szerint</a>
   </div>
   <table-plus fields="name, contracted_value, no_of_proposals, buyer, seller" without-search-form merge>
     <name-heading:><span>Megnevezés</span></name-heading:>
