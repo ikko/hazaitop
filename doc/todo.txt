@@ -15,7 +15,7 @@ különböző sorrendezési lehetőségek
 főoldal
 person: legtöbb személyes kapcsolat (interpersonal_relations_count), legtöbb szervezeti kapcs(person_to_org_relations_count), most frissített(updated_at)
 org: legtöbb személyes kapcsolat (person_to_org_relations_count), legtöbb szervezeti kapcs(interorg_relations_count), most frissített(updated_at)
-contract: érték szerint(sum_value), ajánlattevők száma szerint(no_of_proposals)
+contract: érték szerint(contracted_value), ajánlattevők száma szerint(no_of_proposals)
 
 térképre vele oldal
 node szűrések
