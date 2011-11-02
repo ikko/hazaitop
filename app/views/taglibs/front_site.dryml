@@ -472,28 +472,29 @@
     <person-to-org-relations-count-heading:><span>Szervezeti kapcsolat</span></person-to-org-relations-count-heading:>
     <information-source-heading:><span>Információ forrás</span></information-source-heading:>
     <this-view:><a/> <a href="/site_search/?p=#{this.id}"><img src="/images/plusz.png"/></a> </this-view:>
-    <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'person_pagination', :query=>params[:query], :sort=>params[:sort]}"/>
+    <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'person_pagination'}"/>
   </table-plus>
   <div class="table_footer"><a href="#{people_path}">További személyek &gt;</a></div>
 </def>
 
 <def tag="table-plus-org">
   <div class="order_list">
-    <a href="" class="left active">Legtöbb személyes kapcsolat</a>
+    <a href="/front/org_pagination/?sort=person_to_org_relations_count" class="left #{!params[:sort] || params[:sort]=='person_to_org_relations_count' ? 'active' : ''}">Legtöbb személyes kapcsolat</a>
     <div class="separator left">|</div>
-    <a href="" class="left">Legtöbb szervezeti kapcsolat</a>
+    <a href="/front/org_pagination/?sort=interorg_relations_count" class="left #{params[:sort] && params[:sort]=='interorg_relations_count' ? 'active' : ''}">Legtöbb szervezeti kapcsolat</a>
     <div class="separator left">|</div>
-    <a href="" class="left">Most frissített</a>
+    <a href="/front/org_pagination/?sort=updated_at" class="left #{params[:sort] && params[:sort]=='updated_at' ? 'active' : ''}">Most frissített</a>
   </div>
-  <table-plus fields="this, city, street, zip_code, person_to_org_relations_count, information_source" without-search-form merge>
+  <table-plus fields="this, city, street, zip_code, person_to_org_relations_count, interorg_relations_count, information_source" without-search-form merge>
     <Organization-heading:><span>Név</span></Organization-heading:>
     <city-heading:><span>Város</span></city-heading:>
     <street-heading:><span>Utca</span></street-heading:>
     <zip-code-heading:><span>Irányítószám</span></zip-code-heading:>
     <person-to-org-relations-count-heading:><span>Személyes kapcsolat</span></person-to-org-relations-count-heading:>
+    <interorg-relations-count-heading:><span>Szervezeti kapcsolat</span></interorg-relations-count-heading:>
     <information-source-heading:><span>Információ forrás</span></information-source-heading:>
     <this-view:><a/> <a href="/site_search/?p=#{this.id}"><img src="/images/plusz.png"/></a> </this-view:>
-    <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'org_pagination', :query=>params[:query]}"/>
+    <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'org_pagination'}"/>
   </table-plus>
   <div class="table_footer"><a href="#{organizations_path}">További szervezetek &gt;</a></div>
 </def>

@@ -20,6 +20,11 @@
             $.ajax({url: $(this).attr('href'), success: function(data) {$("#orgs_content").html(data)}});
             e.preventDefault();
           });
+          $("#orgs_content .order_list a").live('click', function(e) {
+            $.ajax({url: $(this).attr('href'), success: function(data) {$("#orgs_content").html(data)}});
+            e.preventDefault();
+          });
+
           $("#trans_content .pagination a").live('click', function(e) {
             $.ajax({url: $(this).attr('href'), success: function(data) {$("#trans_content").html(data)}});
             e.preventDefault();

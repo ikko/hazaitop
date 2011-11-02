@@ -17,7 +17,7 @@ class FrontController < ApplicationController
   end
 
   index_action :org_pagination do
-    @organizations = Organization.listed.paginate(:per_page=>10, :page=>params[:page])
+    @organizations = Organization.apply_scopes(:order_by => parse_sort_param(:person_to_org_relations_count, :interorg_relations_count, :updated_at)).paginate(:per_page=>10, :page=>params[:page])
   end
 
   index_action :contract_pagination do
