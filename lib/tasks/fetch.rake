@@ -567,7 +567,7 @@ namespace :fetch do
     f_p2o = P2oRelationType.find_by_name('közös sajtó')
     articles = Nokogiri::HTML(open('http://www.k-monitor.hu/adatbazis/kereses'))
 #    (1..articles.css("span.result")[0].children[0].text.to_i / 10 + 1).each do |i|
-    (1..2).each do |i|
+    (1..100).each do |i|
       puts "fetching page #{i} on k-monitor.hu at " + Time.now.to_s
       articles = Nokogiri::HTML(open("http://www.k-monitor.hu/kereses?page=#{i}"))
       articles.css(".news_list_1").each do |article|
@@ -594,6 +594,7 @@ namespace :fetch do
                   relation = InterpersonalRelation.find( :first, :conditions => [ 'person_id = ? and related_person_id = ? and information_source_id = ?', t1.id, t2.id, info_id ])
                   unless relation
                     relation = InterpersonalRelation.create( :person_id => t1.id, :related_person_id => t2.id, :information_source_id => info_id, :p2p_relation_type_id => f_p2p.id )
+                    puts "new relation for #{t1.name} and #{t2.name}"
                   end
                   unless relation.articles.include?(a)
                     relation.articles << a
@@ -604,6 +605,7 @@ namespace :fetch do
                   relation = InterorgRelation.find( :first, :conditions => [ 'organization_id = ? and related_organization_id = ? and information_source_id = ?', t1.id, t2.id, info_id])
                   unless relation
                     relation = InterorgRelation.create!( :organization_id => t1.id, :related_organization_id => t2.id, :information_source_id => info_id, :o2o_relation_type_id => f_o2o.id)
+                    puts "new relation for #{t1.name} and #{t2.name}"
                   end
                   unless relation.articles.include?(a)
                     relation.articles << a
@@ -613,6 +615,7 @@ namespace :fetch do
                   relation = PersonToOrgRelation.find( :first, :conditions => [ 'person_id = ? and organization_id = ? and information_source_id = ?', t1.id, t2.id, info_id])
                   unless relation
                     relation = PersonToOrgRelation.create!( :person_id => t1.id, :organization_id => t2.id, :information_source_id => info_id, :p2o_relation_type_id => f_p2o.id)
+                    puts "new relation for #{t1.name} and #{t2.name}"
                   end
                   unless relation.articles.include?(a)
                     relation.articles << a
