@@ -11,6 +11,7 @@ class InterorgRelation < ActiveRecord::Base
     value        :integer, :limit => 8
     currency     :string
     vat_incl     :boolean
+    happened_at  :date
   end
 
   default_scope :order => "related_organization_id"

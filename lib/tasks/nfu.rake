@@ -112,7 +112,8 @@ namespace :nfu do
                                                                           :o2o_relation_type_id => palyazo_rel.id, 
                                                                           :organization_id => palyaztato.id,
                                                                           :related_organization_id => palyazo.id,
-                                                                          :information_source_id => info.id
+                                                                          :information_source_id => info.id,
+                                                                          :happened_at => tender.decided_at
                                                                        )
                               tender.interorg_relation_id = rel.id
                               tender.save

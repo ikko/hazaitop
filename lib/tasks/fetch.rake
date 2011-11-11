@@ -454,7 +454,8 @@ namespace :fetch do
                                             :estimated_value  => c_becsult,
                                             :e_vat_incl       => afa(c_becsult_afa),
                                             :currency         => c_currency,
-                                            :notification_id  => note.id
+                                            :notification_id  => note.id,
+                                            :issued_at        => date
                                            )
                 if contract
                   c_cpv.each do |cpv|
@@ -479,7 +480,8 @@ namespace :fetch do
                                                                           :organization_id => megr.id,
                                                                           :related_organization_id => vall.id,
                                                                           :notification_id  => note.id,
-                                                                          :information_source_id => info.id
+                                                                          :information_source_id => info.id,
+                                                                          :happened_at => date
                                                                          )
                  puts ":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::"
                                                                          puts note.inspect
@@ -583,7 +585,7 @@ namespace :fetch do
           tags = []
           article.css(".links a, .links_starred a").each do |link|
             href = link.attributes['href'].value.sub("/kereses","").split('?')[0]
-            tag = Person.find_by_klink(href) || Organization.find_by_klink(href)
+            tag = Person.find_by_klink('/' + href) || Organization.find_by_klink('/' + href)
             next unless tag
             tags << tag
           end
@@ -593,7 +595,7 @@ namespace :fetch do
                 if t1.kind_of?(Person) and t2.kind_of?(Person)
                   relation = InterpersonalRelation.find( :first, :conditions => [ 'person_id = ? and related_person_id = ? and information_source_id = ?', t1.id, t2.id, info_id ])
                   unless relation
-                    relation = InterpersonalRelation.create( :person_id => t1.id, :related_person_id => t2.id, :information_source_id => info_id, :p2p_relation_type_id => f_p2p.id )
+                    relation = InterpersonalRelation.create!( :person_id => t1.id, :related_person_id => t2.id, :information_source_id => info_id, :p2p_relation_type_id => f_p2p.id )
                     puts "new relation for #{t1.name} and #{t2.name}"
                   end
                   unless relation.articles.include?(a)
