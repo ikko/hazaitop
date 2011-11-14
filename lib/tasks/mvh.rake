@@ -30,7 +30,7 @@ namespace :mvh do
 
     # reading data...
 
-    file = File.open("tmp/agrar.csv")
+    file = File.open("db/agrar.csv")
 
     file.each_line do |f|
       a = f.split(';')

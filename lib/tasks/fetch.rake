@@ -454,7 +454,8 @@ namespace :fetch do
                                             :estimated_value  => c_becsult,
                                             :e_vat_incl       => afa(c_becsult_afa),
                                             :currency         => c_currency,
-                                            :notification_id  => note.id
+                                            :notification_id  => note.id,
+                                            :issued_at        => date
                                            )
                 if contract
                   c_cpv.each do |cpv|
@@ -479,7 +480,8 @@ namespace :fetch do
                                                                           :organization_id => megr.id,
                                                                           :related_organization_id => vall.id,
                                                                           :notification_id  => note.id,
-                                                                          :information_source_id => info.id
+                                                                          :information_source_id => info.id,
+                                                                          :happened_at => date
                                                                          )
                  puts ":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::"
                                                                          puts note.inspect
@@ -567,7 +569,7 @@ namespace :fetch do
     f_p2o = P2oRelationType.find_by_name('közös sajtó')
     articles = Nokogiri::HTML(open('http://www.k-monitor.hu/adatbazis/kereses'))
 #    (1..articles.css("span.result")[0].children[0].text.to_i / 10 + 1).each do |i|
-    (1..2).each do |i|
+    (1..100).each do |i|
       puts "fetching page #{i} on k-monitor.hu at " + Time.now.to_s
       articles = Nokogiri::HTML(open("http://www.k-monitor.hu/kereses?page=#{i}"))
       articles.css(".news_list_1").each do |article|
@@ -583,7 +585,7 @@ namespace :fetch do
           tags = []
           article.css(".links a, .links_starred a").each do |link|
             href = link.attributes['href'].value.sub("/kereses","").split('?')[0]
-            tag = Person.find_by_klink(href) || Organization.find_by_klink(href)
+            tag = Person.find_by_klink('/' + href) || Organization.find_by_klink('/' + href)
             next unless tag
             tags << tag
           end
@@ -593,7 +595,8 @@ namespace :fetch do
                 if t1.kind_of?(Person) and t2.kind_of?(Person)
                   relation = InterpersonalRelation.find( :first, :conditions => [ 'person_id = ? and related_person_id = ? and information_source_id = ?', t1.id, t2.id, info_id ])
                   unless relation
-                    relation = InterpersonalRelation.create( :person_id => t1.id, :related_person_id => t2.id, :information_source_id => info_id, :p2p_relation_type_id => f_p2p.id )
+                    relation = InterpersonalRelation.create!( :person_id => t1.id, :related_person_id => t2.id, :information_source_id => info_id, :p2p_relation_type_id => f_p2p.id )
+                    puts "new relation for #{t1.name} and #{t2.name}"
                   end
                   unless relation.articles.include?(a)
                     relation.articles << a
@@ -604,6 +607,7 @@ namespace :fetch do
                   relation = InterorgRelation.find( :first, :conditions => [ 'organization_id = ? and related_organization_id = ? and information_source_id = ?', t1.id, t2.id, info_id])
                   unless relation
                     relation = InterorgRelation.create!( :organization_id => t1.id, :related_organization_id => t2.id, :information_source_id => info_id, :o2o_relation_type_id => f_o2o.id)
+                    puts "new relation for #{t1.name} and #{t2.name}"
                   end
                   unless relation.articles.include?(a)
                     relation.articles << a
@@ -613,6 +617,7 @@ namespace :fetch do
                   relation = PersonToOrgRelation.find( :first, :conditions => [ 'person_id = ? and organization_id = ? and information_source_id = ?', t1.id, t2.id, info_id])
                   unless relation
                     relation = PersonToOrgRelation.create!( :person_id => t1.id, :organization_id => t2.id, :information_source_id => info_id, :p2o_relation_type_id => f_p2o.id)
+                    puts "new relation for #{t1.name} and #{t2.name}"
                   end
                   unless relation.articles.include?(a)
                     relation.articles << a

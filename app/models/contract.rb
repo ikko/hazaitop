@@ -15,6 +15,7 @@ class Contract < ActiveRecord::Base
     currency :string
     subject_and_qty :text
     number :string
+    issued_at :date
     timestamps
   end
 
