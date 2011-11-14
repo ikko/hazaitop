@@ -480,7 +480,7 @@ table .odd {
   font-style: italic;
 }
 
-.top-page-nav a, .bottom-page-nav a, .information_source-link, .organization-link, .notification-link, .litigation-link, .article-created-at, .contract-link, .notification_url, .article-link {
+.top-page-nav a, .bottom-page-nav a, .information_source-link, .organization-link, .transaction-link, .litigation-link, .article-created-at, .contract-link, .transaction_url, .article-link {
   color: black;
 }
 
@@ -569,7 +569,7 @@ h2 {
   position: relative;
 }
 
-#search_word {
+#detailed_search_wrapper #query {
   width: 827px;
 }
 

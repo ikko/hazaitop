@@ -20,28 +20,97 @@
             $.ajax({url: $(this).attr('href'), success: function(data) {$("#arts_content").html(data)}});
             e.preventDefault();
           });
+          $('#data_transaction').change(function() {
+            if ($(this).is(':checked')) {
+              $('#profil_person').attr('checked', false);
+              $('#profil_org').attr('checked', false);
+              $('#data_article').attr('checked', false);
+              $('#data_litigation').attr('checked', false);
+              $('#amount_from').attr('disabled', false)
+              $('#amount_to').attr('disabled', false)
+            } else {
+              $('#profil_person').attr('checked', true);
+              $('#profil_org').attr('checked', true);
+              $('#data_article').attr('checked', true);
+              $('#data_litigation').attr('checked', true);
+              $('#amount_from').attr('disabled', true)
+              $('#amount_to').attr('disabled', true)
+            }
+          });
         });
       })(jQuery)
     </script>
   </append-head:>
   <content:>
     <header class="content-header">
-      <h2>Keresési találatok</h2>
+      <h2>Részletes keresés</h2>
     </header>
-    <div class="details_header">Profilok:</div>
+    <!--header class="content-header">
+      <h2>Keresési találatok</h2>
+    </header-->
+    <div id="detailed_search_wrapper">
+      <form action="" method="post">
+        <fieldset class="no_top_border">
+          <span>Kereső szó:</span><input type="text" name="query" id="query" value="#{params[:query]}"/>
+        </fieldset>
+        <fieldset>
+          <span>Dátum:</span>
+          <input type="text" name="date_from" value="#{params[:date_from]}"/>
+          <div class="from_to_separator"></div>
+          <input type="text" name="date_to" value="#{params[:date_to]}"/>
+          <br />
+          <span>Összeg (Ft):</span>
+          <%= text_field_tag "amount_from", params[:amount_from], :disabled => params[:transaction] ? false : true %>
+          <div class="from_to_separator"></div>
+          <%= text_field_tag "amount_to", params[:amount_to], :disabled => params[:transaction] ? false : true %>
+        </fieldset>
+        <fieldset>
+          <span>Profil:</span>
+          <%= check_box_tag "person", nil, params[:person] ? true : false, :id=>"profil_person", :class=>"checkbox" %>
+          <label class="checkbox_label" for="profil_person">Személy</label>
+          <%= check_box_tag "organization", nil, params[:organization] ? true : false, :id=>"profil_org", :class=>"checkbox" %>
+          <label for="profil_org" class="checkbox_label">Szervezet</label>
+          <br />
+          <span>Adat:</span>
+          <%= check_box_tag "article", nil, params[:article] ? true : false, :id=>"data_article", :class=>"checkbox" %>
+          <label class="checkbox_label" for="data_article">Cikk</label>
+          <%= check_box_tag "litigation", nil, params[:litigation] ? true : false, :id=>"data_litigation", :class=>"checkbox" %>
+          <label for="data_litigation" class="checkbox_label">Per</label>
+          <br />
+          <span>Tranzakció:</span>
+          <%= check_box_tag "transaction", nil, params[:transaction] ? true : false, :id=>"data_transaction", :class=>"checkbox" %>
+          <label for="data_transaction" class="checkbox_label">Közbeszerzés</label>
+        </fieldset>
+        <fieldset class="no_bottom_border">
+          <input type="submit" name="submit" class="right" id="detailed_search_submit_button" value="Keresés"/>
+        </fieldset>
+      </form>
+    </div>
+    <% if params[:transaction] %>
+      <div class="details_header">Tranzakciók:</div>
+      <div id="trans_content">
+        <collection:transactions/>
+      </div>
+    <% else %>
+      <div class="details_header">Profilok:</div>
       <div class="tabs">
         <div class="active tab"><a href="#people_content">SZEMÉLYEK</a></div><div class="separator"></div>
         <div class="tab"><a href="#orgs_content">SZERVEZETEK</a></div>
       </div>
       <div id="people_content" class="tab_content">
-        <table-plus-person with="&@people"/>
+        <table-plus-person with="&@people" without-table-footer/>
       </div>
       <div id="orgs_content" class="tab_content" style="display: none">
-        <table-plus-org with="&@organizations"/>
+        <table-plus-org with="&@organizations" without-table-footer/>
       </div>
-    <div class="details_header">Cikkek:</div>
-    <div id="arts_content">
-      <collection-article with="&@articles"/>
-    </div>
+      <div class="details_header">Perek:</div>
+      <div id="litigs_content">
+        <collection with="&@litigations"/>
+      </div>
+      <div class="details_header">Cikkek:</div>
+      <div id="arts_content">
+        <collection-article with="&@articles"/>
+      </div>
+    <% end %>
   </content:>
 </page>
