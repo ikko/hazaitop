@@ -39,9 +39,9 @@ var vis;
     },
     generateNodeColor: function(node) {
       if (node.shape == 'CIRCLE') {
-        return "cd3403";
-      } else if (node.shape == 'RECTANGLE') {
         return "7b9d3a";
+      } else if (node.shape == 'RECTANGLE') {
+        return "cd3403";
         //return "cbff67";
       } else if (node.shape == 'DIAMOND') {
         return "66ccff";

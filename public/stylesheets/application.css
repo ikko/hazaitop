@@ -117,8 +117,9 @@ a {
   margin-top: 3px;
   background-color: #5d6768;
   color: white;
-  width: 946px;
+  width: 940px;
   line-height: 25px;
+  padding-right: 6px;
 }
 
 #header_infoline .separator {
@@ -615,7 +616,7 @@ h2 {
 #relationgraph {
   height: 390px;
   margin: 5px;
-  background-color: #054756;
+  background-color: black;
   width: 704px;
   margin-left: 0px;
 }
@@ -634,7 +635,7 @@ h2 {
 }
 
 #news {
-  width: 690px;
+  width: 675px;
   margin-right: 10px;
   /* chrome marquee bug hack */
   padding: 0px 3px;
