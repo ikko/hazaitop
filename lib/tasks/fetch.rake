@@ -481,7 +481,8 @@ namespace :fetch do
                                                                           :related_organization_id => vall.id,
                                                                           :notification_id  => note.id,
                                                                           :information_source_id => info.id,
-                                                                          :happened_at => date
+                                                                          :happened_at => date,
+                                                                          :name => name
                                                                          )
                  puts ":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::"
                                                                          puts note.inspect
@@ -569,7 +570,7 @@ namespace :fetch do
     f_p2o = P2oRelationType.find_by_name('közös sajtó')
     articles = Nokogiri::HTML(open('http://www.k-monitor.hu/adatbazis/kereses'))
 #    (1..articles.css("span.result")[0].children[0].text.to_i / 10 + 1).each do |i|
-    (1..100).each do |i|
+    (101..108).each do |i|
       puts "fetching page #{i} on k-monitor.hu at " + Time.now.to_s
       articles = Nokogiri::HTML(open("http://www.k-monitor.hu/kereses?page=#{i}"))
       articles.css(".news_list_1").each do |article|
@@ -585,7 +586,8 @@ namespace :fetch do
           tags = []
           article.css(".links a, .links_starred a").each do |link|
             href = link.attributes['href'].value.sub("/kereses","").split('?')[0]
-            tag = Person.find_by_klink('/' + href) || Organization.find_by_klink('/' + href)
+            tag = Person.find_by_klink('/' + href) || Organization.find_by_klink('/' + href) || Person.find_by_klink(href) || Organization.find_by_klink(href)
+
             next unless tag
             tags << tag
           end

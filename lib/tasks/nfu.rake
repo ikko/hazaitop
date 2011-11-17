@@ -113,7 +113,8 @@ namespace :nfu do
                                                                           :organization_id => palyaztato.id,
                                                                           :related_organization_id => palyazo.id,
                                                                           :information_source_id => info.id,
-                                                                          :happened_at => tender.decided_at
+                                                                          :happened_at => tender.decided_at,
+                                                                          :name => tender.project
                                                                        )
                               tender.interorg_relation_id = rel.id
                               tender.save
