@@ -356,11 +356,12 @@ table .odd {
   padding-right: 10px;
 }
 
-.pagination.article_pagination {
+.pagination.bright {
   background-color: white;
+  text-align: left;
 }
 
-.pagination.article_pagination a {
+.pagination.bright a {
   color: black;
 }
 

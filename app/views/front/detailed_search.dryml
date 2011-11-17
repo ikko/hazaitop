@@ -9,15 +9,15 @@
           $("#search_input").val('<%= params[:query] %>');
 
           $("#people_content .pagination a").live('click', function(e) {
-            $.ajax({url: $(this).attr('href'), success: function(data) {$("#people_content .table-plus").html(data)}});
+            $.ajax({url: $(this).attr('href'), success: function(data) {$("#people_content").html(data)}});
             e.preventDefault();
           });
           $("#orgs_content .pagination a").live('click', function(e) {
-            $.ajax({url: $(this).attr('href'), success: function(data) {$("#orgs_content .table-plus").html(data)}});
+            $.ajax({url: $(this).attr('href'), success: function(data) {$("#orgs_content").html(data)}});
             e.preventDefault();
           });
           $("#trans_content .pagination a").live('click', function(e) {
-            $.ajax({url: $(this).attr('href'), success: function(data) {$("#trans_content .table-plus").html(data)}});
+            $.ajax({url: $(this).attr('href'), success: function(data) {$("#trans_content").html(data)}});
             e.preventDefault();
           });
           $("#litigs_content .pagination a").live('click', function(e) {
@@ -111,20 +111,17 @@
         <collection-transaction with="&@transactions"/>
       </div>
     <% else %>
-      <div class="details_header">Profilok:</div>
-      <div class="tabs">
-        <div class="active tab"><a href="#people_content">SZEMÉLYEK</a></div><div class="separator"></div>
-        <div class="tab"><a href="#orgs_content">SZERVEZETEK</a></div>
+      <div class="details_header">Személyek:</div>
+      <div id="people_content">
+        <collection-person with="&@people"/>
       </div>
-      <div id="people_content" class="tab_content">
-        <table-plus-person with="&@people" without-table-footer without-order-list />
-      </div>
-      <div id="orgs_content" class="tab_content" style="display: none">
-        <table-plus-org with="&@organizations" without-table-footer without-order-list/>
+      <div class="details_header">Szervezetek:</div>
+      <div id="orgs_content">
+        <collection-organization with="&@organizations"/>
       </div>
       <div class="details_header">Perek:</div>
       <div id="litigs_content">
-        <collection with="&@litigations"/>
+        <collection-litigation with="&@litigations"/>
       </div>
       <div class="details_header">Cikkek:</div>
       <div id="arts_content">
