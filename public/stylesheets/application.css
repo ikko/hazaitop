@@ -680,12 +680,16 @@ h2 {
 #search_content input {
   border: none;
   margin-left: 10px;
-  width: 218px;
+  width: 197px;
 }
 
 #search_content label {
   padding: 10px 10px 0px 10px;
   display: block;
+}
+
+#network_info {
+  padding: 15px;
 }
 
 .ajax_loader {
