@@ -824,5 +824,6 @@ h2 {
 
 #checkbox_list {
   overflow-y: scroll;
-  height: 315px;
+  height: 358px;
+  margin-top: 10px;
 }

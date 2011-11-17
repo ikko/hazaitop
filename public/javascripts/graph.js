@@ -80,7 +80,7 @@ var vis;
       vis.draw({network: this.parse(data), 
                 edgeLabelsVisible: true, 
                 layout: 'Tree', 
-                visualStyle: {global:{backgroundColor: "#010101"},nodes:{labelFontColor: "#ffffff", size:35, labelFontSize:11, labelFontWeight:'bold'}, edges:{labelFontColor: "#ffffff", labelFontSize:11, labelFontWeight:'bold'}}});
+                visualStyle: {global:{backgroundColor: "#010101"},nodes:{labelFontColor: "#ffffff", size:65, labelFontSize:11, labelFontWeight:'bold'}, edges:{labelFontColor: "#ffffff", labelFontSize:11, labelFontWeight:'bold'}}});
     },
     loadedNodeIds: function() {
       var resp = '';
