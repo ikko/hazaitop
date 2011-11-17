@@ -296,7 +296,7 @@ a {
   height: 30px;
 }
 
-thead a {
+thead a, thead span {
   padding-left: 10px;
   color: white;
 }
@@ -356,11 +356,12 @@ table .odd {
   padding-right: 10px;
 }
 
-.pagination.article_pagination {
+.pagination.bright {
   background-color: white;
+  text-align: left;
 }
 
-.pagination.article_pagination a {
+.pagination.bright a {
   color: black;
 }
 
@@ -480,7 +481,7 @@ table .odd {
   font-style: italic;
 }
 
-.top-page-nav a, .bottom-page-nav a, .information_source-link, .organization-link, .notification-link, .litigation-link, .article-created-at, .contract-link, .notification_url, .article-link {
+.top-page-nav a, .bottom-page-nav a, .information_source-link, .organization-link, .transaction-link, .litigation-link, .article-created-at, .contract-link, .transaction_url, .article-link {
   color: black;
 }
 
@@ -506,6 +507,10 @@ h2 {
   font-size: 13px;
 }
 
+.login-page th {
+  font-weight: normal;
+}
+
 #detailed_search_wrapper fieldset {
   border-bottom: 1px solid #C9C7C8;
   border-top: 1px solid #D2D0D1;
@@ -517,7 +522,7 @@ h2 {
   display: inline-block;
 }
 
-#detailed_search_wrapper fieldset input {
+#detailed_search_wrapper fieldset input, .login-input, .password-input {
   border: 1px solid #b6b5b6;
   height: 25px;
   margin: 0px;
@@ -533,13 +538,23 @@ h2 {
   border-bottom: none !important;
 }
 
-#detailed_search_submit_button {
+#detailed_search_submit_button, .login-page .submit-button {
   background-color: #064a57;
   border: 1px solid #7c8486;
   color: white;
   cursor: pointer;
-  float: right;
   width: 150px;
+}
+
+.flash.error {
+  font-family: "Lucida Grande", arial, sans-serif;
+  background: #9d0018;
+  border: 1px solid #7a0013;
+  padding: 20px;
+  color: white;
+  margin-bottom: 20px;
+  text-align: center;
+  margin-top: 20px;
 }
 
 .from_to_separator {
@@ -555,7 +570,7 @@ h2 {
   position: relative;
 }
 
-#search_word {
+#detailed_search_wrapper #query {
   width: 827px;
 }
 
@@ -611,6 +626,14 @@ h2 {
   background-color: #054756;
   width: 704px;
   margin-left: 0px;
+}
+
+#relationgraph .ajax-loader {
+  position: relative;
+  top: 50%;
+  margin: 0 auto;
+  display: block;
+  text-align: center;
 }
 
 #map_panel .tab_content {

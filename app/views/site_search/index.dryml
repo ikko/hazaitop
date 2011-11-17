@@ -1,6 +1,9 @@
 <page>
+  <append-stylesheets:>
+    <stylesheet name="jquery-ui-1.8.16.custom"/>
+  </append-stylesheets:>
   <scripts:>
-    <javascript name="jquery-1.4.4, jquery-ui-1.8.6.custom.min, AC_OETags.min, json2.min, cytoscapeweb.min, application, graph"/>
+    <javascript name="jquery-1.4.4, jquery-ui-1.8.16.custom.min, AC_OETags.min, json2.min, cytoscapeweb.min, application, graph"/>
     <script type='text/javascript'>
       <%= "var __debug = true;" if Rails.env.development? %>
       <%= "var __debug = false;" if Rails.env.production? %>
@@ -54,36 +57,35 @@
           <div class="clear"></div>
         </div>
         <div id="profil_content" style="display: none;" class="tab_content">
-          <div id="search_entities">
-            <div id="person_node" class="node_attributes">
-              <ul>
-                <li>Név: <span id="person_name"></span></li>
-                <li>Ajnya neve: <span id="mothers_name"></span></li>
-                <li>Születési év: <span id="born_at"></span></li>
-              </ul>
-            </div>
-            <div id="organization_node" class="node_attributes">
-              <ul>
-                <li>Név: <span id="organization_name"></span></li>
-                <li>Cím: <span id="address"></span></li>
-                <li>Alapítás éve: <span id="founded_at"></span></li>
-                <li>Legfrissebb pénzügyi adatok</li>
-                <li>Év: <span id="year"></span></li>
-                <li>Forgalom: <span id="turnover"></span></li>
-                <li>Mérleg: <span id="balance"></span></li>
-              </ul>
-            </div>
-            <div id="litigation_node" class="node_attributes">
-              <ul>
-                <li>Név: <span id="litigation_name"></span></li>
-                <li>Per kezdete: <span id="start_time"></span></li>
-                <li>Per vége: <span id="end_time"></span></li>
-              </ul>
-            </div>
-            <input type="hidden" name="id" id="selected_node_id" value="#{params[:id]}"/>
-            <input type="hidden" name="type" id="selected_node_type" value="#{params[:type]}"/>
-            <a href="#" id="load_node_relations">Kapcsolati háló felderítése</a>
+          <div id="person_node" class="node_attributes">
+            <ul>
+              <li>Név: <span id="person_name"></span></li>
+              <li>Ajnya neve: <span id="mothers_name"></span></li>
+              <li>Születési év: <span id="born_at"></span></li>
+            </ul>
           </div>
+          <div id="organization_node" class="node_attributes">
+            <ul>
+              <li>Név: <span id="organization_name"></span></li>
+              <li>Cím: <span id="address"></span></li>
+              <li>Alapítás éve: <span id="founded_at"></span></li>
+              <li>Legfrissebb pénzügyi adatok</li>
+              <li>Év: <span id="year"></span></li>
+              <li>Forgalom: <span id="turnover"></span></li>
+              <li>Mérleg: <span id="balance"></span></li>
+            </ul>
+          </div>
+          <div id="litigation_node" class="node_attributes">
+            <ul>
+              <li>Név: <span id="litigation_name"></span></li>
+              <li>Per kezdete: <span id="start_time"></span></li>
+              <li>Per vége: <span id="end_time"></span></li>
+            </ul>
+          </div>
+          <input type="hidden" name="id" id="selected_node_id" value="#{params[:id]}"/>
+          <input type="hidden" name="type" id="selected_node_type" value="#{params[:type]}"/>
+          <input type="hidden" name="search_type" id="search_type"/>
+          <a href="#" id="load_node_relations">Kapcsolati háló felderítése</a>
         </div>
       </div>
       <div class="left" id="relationgraph"></div>

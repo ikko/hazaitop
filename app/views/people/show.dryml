@@ -1,7 +1,7 @@
 <show-page without-creator-link>
-  <append-custom-scripts:>
+  <!--append-custom-scripts:>
     <hjq-assets/>
-  </append-custom-scripts:>
+  </append-custom-scripts:-->
   <field-list: skip="klink"/>
   <append-heading:>
     <a href="/site_search/?type=p&id=#{this.id}" target="_blank"><img src="/images/terkepre_vele.jpg" id="to_map_blue"/></a>

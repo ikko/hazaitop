@@ -5,16 +5,12 @@ per-eket ne egymás mellé rendezze - felvitelnél jó, megjelenítésnél nem..
 
 adatbázisból kitisztítani a \r\n-eket
 kezdőoldalon videó
+indikátoros jelzés tablés ajaxos váltásnál
 gyorskeresésnél loader indikátor eltolja bordert
 hogyan működik, a projektről és kapcsolat oldalak hiányoznak (admin szerkesztés hozzájuk)
-bejelentkezés részt belőni
-most többször is be van húzva a hjq asset (adminnál kellett)
-
-különböző sorrendezési lehetőségek 
-főoldal
-person: legtöbb személyes kapcsolat (interpersonal_relations_count), legtöbb szervezeti kapcs(person_to_org_relations_count), most frissített(updated_at)
-org: legtöbb személyes kapcsolat (person_to_org_relations_count), legtöbb szervezeti kapcs(interorg_relations_count), most frissített(updated_at)
-contract: érték szerint(sum_value), ajánlattevők száma szerint(no_of_proposals)
+térkép oldalon keresést megcsinálni szépre és működőre
+részletes keresés oldal
+találat a form alá cardosan (keresés után formot kitölteni)
 
 térképre vele oldal
 node szűrések
@@ -26,7 +22,11 @@ Szervezetek::
 o2p_relation_types
 o2o_realtion_types
 
+interorg value/amount
+
+person2org relation
 
 
-részletes keresés oldal
-találat a form alá cardosan (keresés után formot kitölteni)
+front kontrollerbe kell az articlekhozis lapozhatóság
+kibővíteni front kontban a szűkített kereséseket mert kaphatnak query-t (dátumokat csak ott használjuk ahol van start_time, end_time, query, összeg interorgnál a value, kellene még tranzakciók fül is [összegre vagy a két szervezetre kattintva az interorg contract-ja vagy tenderje jön be, attól függ melyik van])
+
