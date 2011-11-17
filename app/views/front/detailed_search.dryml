@@ -9,22 +9,27 @@
           $("#search_input").val('<%= params[:query] %>');
 
           $("#people_content .pagination a").live('click', function(e) {
+            $(this).html(spinnerImg);
             $.ajax({url: $(this).attr('href'), success: function(data) {$("#people_content").html(data)}});
             e.preventDefault();
           });
           $("#orgs_content .pagination a").live('click', function(e) {
+            $(this).html(spinnerImg);
             $.ajax({url: $(this).attr('href'), success: function(data) {$("#orgs_content").html(data)}});
             e.preventDefault();
           });
           $("#trans_content .pagination a").live('click', function(e) {
+            $(this).html(spinnerImg);
             $.ajax({url: $(this).attr('href'), success: function(data) {$("#trans_content").html(data)}});
             e.preventDefault();
           });
           $("#litigs_content .pagination a").live('click', function(e) {
+            $(this).html(spinnerImg);
             $.ajax({url: $(this).attr('href'), success: function(data) {$("#litigs_content").html(data)}});
             e.preventDefault();
           });
           $(".article_pagination a").live('click', function(e) {
+            $(this).html(spinnerImg);
             $.ajax({url: $(this).attr('href'), success: function(data) {$("#arts_content").html(data)}});
             e.preventDefault();
           });

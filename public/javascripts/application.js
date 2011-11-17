@@ -1,6 +1,8 @@
 // Place your application-specific JavaScript functions and classes here
 // This file is automatically included by javascript_include_tag :defaults
 
+var spinnerImg = '<img src="/hobothemes/clean/images/spinner.gif" class="ajax-loader"/>';
+
 if (typeof jQuery != 'undefined') { 
   jQuery( function() {
     jQuery('.person-to-org-relation-no-end-time').live( 'click', function(e) {

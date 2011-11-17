@@ -628,9 +628,16 @@ h2 {
   text-align: center;
 }
 
+.pagination .ajax-loader {
+  position: relative;
+  top: 4px;
+}
+
 #news {
   width: 690px;
   margin-right: 10px;
+  /* chrome marquee bug hack */
+  padding: 0px 3px;
 }
 
 .news_separator {
