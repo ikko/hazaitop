@@ -75,7 +75,7 @@ class PersonToOrgRelation < ActiveRecord::Base
           potential_relations = PersonToOrgRelation.find( :all, :conditions => [
           "organization_id = ? and ((start_time <= ? and (end_time >= ? or no_end_time = ?)) or (start_time <= ? and (end_time >= ? or no_end_time = ?))) and id != ?", organization_id, start_time, start_time, true, end_time, end_time, true, id ])
         end
-        press_id = P2oRelationType.find_by_name("közös sajtó").id
+        press_id = P2oRelationType.find_by_name("sajtó").id
         if potential_relations and p2o_relation_type_id != press_id
           potential_relations.each do |pot|
             unless pot.p2o_relation_type_id == press_id  # sajtós fetcheket nem birizgáljuk
