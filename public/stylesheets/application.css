@@ -628,6 +628,14 @@ h2 {
   margin-left: 0px;
 }
 
+#relationgraph .ajax-loader {
+  position: relative;
+  top: 50%;
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+}
+
 #map_panel .tab_content {
   width: 100%;
 }

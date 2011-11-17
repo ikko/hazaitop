@@ -127,14 +127,14 @@ var vis;
     }
   };
 
-  function getAutocompleteType() {
-    var tabIndex = $("#search_entities").tabs("option", "selected");
-    if (tabIndex == 0) {
-      return 'p'
-    } else if (tabIndex == 1) {
-      return 'o'
-    } else if (tabIndex == 2) {
-      return 'l'
+  function setSearchType() {
+    $this = $(this);
+    if ($this.attr('id', 'people_autocomplete')) {
+      $searchType.val('p');
+    } else if ($this.attr('id', 'organization_autocomplete')) {
+      $searchType.val('o');
+    } else {
+      $searchType.val('l');
     }
   }
 
@@ -150,6 +150,7 @@ var vis;
 
     $selectedNodeId = $("#selected_node_id");
     $selectedNodeType = $("#selected_node_type");
+    $searchType = $("#search_type");
     $personNode = $("#person_node");
     $organizationNode = $("#organization_node");
     $litigationNode = $("#litigation_node");
@@ -160,6 +161,10 @@ var vis;
     $searchTabOrganizationLoader = $("#search_tab_organizations .ajax_loader");
     $searchTabLitigationLoader = $("#search_tab_litigations .ajax_loader");
     $searchAjaxLoaders = $("#search_entities .ajax_loader");
+
+    $('#organization_autocomplete').change(setSearchType);
+    $('#people_autocomplete').change(setSearchType);
+    $('#litigation_autocomplete').change(setSearchType);
 
     vis = new org.cytoscapeweb.Visualization("relationgraph", {swfPath: "/swf/CytoscapeWeb", flashInstallerPath: "/swf/playerProductInstall"});
     if ($selectedNodeType.val().length > 0) {
@@ -179,7 +184,7 @@ var vis;
       network.showNodeInfo(vis.node($selectedNodeType.val()+$selectedNodeId.val()).data);
     });
 
-    $("#search_entities").tabs();
+    //$("#search_entities").tabs();
     $loadNodeRelations.click(function(e) {
       e.preventDefault();
       network.showAjaxLoader();
@@ -199,8 +204,8 @@ var vis;
                                      select: function(event, ui) {
                                        network.showAjaxLoader();
                                        $selectedNodeId.val(ui.item.id);
-                                       $selectedNodeType.val(getAutocompleteType());
-                                       $.ajax({url: '/site_search/?id='+ui.item.id+'&nodes='+network.loadedNodeIds()+'&type='+getAutocompleteType(),
+                                       $selectedNodeType.val($searchType.val());
+                                       $.ajax({url: '/site_search/?id='+ui.item.id+'&nodes='+network.loadedNodeIds()+'&type='+$searchType.val(),
                                                dataType: 'json',
                                                success: function(response) { 
                                                  log('Node kapcsolatai válasz: ', response);
