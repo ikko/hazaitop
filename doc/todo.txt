@@ -30,4 +30,5 @@ person2org relation
 front kontrollerbe kell az articlekhozis lapozhatóság
 kibővíteni front kontban a szűkített kereséseket mert kaphatnak query-t (dátumokat csak ott használjuk ahol van start_time, end_time, query, összeg interorgnál a value, kellene még tranzakciók fül is [összegre vagy a két szervezetre kattintva az interorg contract-ja vagy tenderje jön be, attól függ melyik van])
 
-search response oldalon article is kereshetően lapozható kell legyen
+search response oldalon article és litigation is kereshetően lapozható kell legyen
+collection litigation detailed search oldalon page-navosítani

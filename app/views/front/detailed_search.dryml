@@ -16,6 +16,14 @@
             $.ajax({url: $(this).attr('href'), success: function(data) {$("#orgs_content .table-plus").html(data)}});
             e.preventDefault();
           });
+          $("#trans_content .pagination a").live('click', function(e) {
+            $.ajax({url: $(this).attr('href'), success: function(data) {$("#trans_content .table-plus").html(data)}});
+            e.preventDefault();
+          });
+          $("#litigs_content .pagination a").live('click', function(e) {
+            $.ajax({url: $(this).attr('href'), success: function(data) {$("#litigs_content").html(data)}});
+            e.preventDefault();
+          });
           $(".article_pagination a").live('click', function(e) {
             $.ajax({url: $(this).attr('href'), success: function(data) {$("#arts_content").html(data)}});
             e.preventDefault();
@@ -37,6 +45,17 @@
               $('#amount_to').attr('disabled', true)
             }
           });
+          checkTransaction = function() {
+            if ($('#data_transaction').is(':checked')) {
+              $('#amount_from').attr('disabled', true)
+              $('#amount_to').attr('disabled', true)
+              $('#data_transaction').attr('checked', false);
+            }
+          }
+          $('#profil_person').change(checkTransaction);
+          $('#profil_org').change(checkTransaction);
+          $('#data_article').change(checkTransaction);
+          $('#data_litigation').change(checkTransaction);
         });
       })(jQuery)
     </script>
@@ -89,7 +108,7 @@
     <% if params[:transaction] %>
       <div class="details_header">Tranzakciók:</div>
       <div id="trans_content">
-        <collection:transactions/>
+        <collection-transaction with="&@transactions"/>
       </div>
     <% else %>
       <div class="details_header">Profilok:</div>
@@ -98,10 +117,10 @@
         <div class="tab"><a href="#orgs_content">SZERVEZETEK</a></div>
       </div>
       <div id="people_content" class="tab_content">
-        <table-plus-person with="&@people" without-table-footer/>
+        <table-plus-person with="&@people" without-table-footer without-order-list />
       </div>
       <div id="orgs_content" class="tab_content" style="display: none">
-        <table-plus-org with="&@organizations" without-table-footer/>
+        <table-plus-org with="&@organizations" without-table-footer without-order-list/>
       </div>
       <div class="details_header">Perek:</div>
       <div id="litigs_content">

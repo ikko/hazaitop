@@ -55,7 +55,7 @@
         <div class="header_link_column last" style="">
           <strong><a href="/login">BEJELENTKEZÉS</a></strong>
           <div id="search_box">
-            <div id="search_wrapper"><form with="&nil" action="/search" method="post"><input type="text" name="query" id="search_input" value="Keresés"/><input type="submit" id="search_button" value="Submit"/></form></div>
+            <div id="search_wrapper"><form with="&nil" action="/detailed_search" method="post"><input type="text" name="query" id="search_input" value="Keresés"/><input type="submit" id="search_button" value="Submit"/></form></div>
           </div>
         </div>
       </div>
@@ -459,7 +459,7 @@
 </extend>
 
 <def tag="table-plus-person">
-  <div class="order_list">
+  <div class="order_list" param="order-list">
     <a href="/front/person_pagination/?sort=-interpersonal_relations_count" class="left #{!params[:sort] || params[:sort]=='-interpersonal_relations_count' ? 'active' : ''}">Legtöbb személyes kapcsolat</a>
     <div class="separator left">|</div>
     <a href="/front/person_pagination/?sort=-person_to_org_relations_count" class="left #{params[:sort] && params[:sort]=='-person_to_org_relations_count' ? 'active' : ''}">Legtöbb szervezeti kapcsolat</a>
@@ -472,18 +472,18 @@
     <person-to-org-relations-count-heading:><span>Szervezeti kapcsolat</span></person-to-org-relations-count-heading:>
     <information-source-heading:><span>Információ forrás</span></information-source-heading:>
     <this-view:><a/> <a href="/site_search/?p=#{this.id}"><img src="/images/plusz.png"/></a> </this-view:>
-    <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'person_pagination', :query=>params[:query], :date_from=>params[:date_from], :date_to=>params[:date_to], :amount_from=>params[:amount_from], :amount_to=>params[:amount_to]}"/>
+    <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:block => 'person', :action=>params[:person] ? 'detailed_search' : 'person_pagination', :query=>params[:query], :date_from=>params[:date_from], :date_to=>params[:date_to], :sort=>params[:sort]}"/>
   </table-plus>
   <div param="table_footer" class="table_footer"><a href="#{people_path}">További személyek &gt;</a></div>
 </def>
 
 <def tag="table-plus-org">
-  <div class="order_list">
-    <a href="/front/org_pagination/?sort=-person_to_org_relations_count" class="left #{!params[:sort] || params[:sort]=='-person_to_org_relations_count' ? 'active' : ''}">Legtöbb személyes kapcsolat</a>
+  <div class="order_list" param="order-list">
+    <a href="&url_for :controller => 'front', :action => 'org_pagination', :sort=>'-person_to_org_relations_count'" class="left #{!params[:sort] || params[:sort]=='-person_to_org_relations_count' ? 'active' : ''}">Legtöbb személyes kapcsolat</a>
     <div class="separator left">|</div>
-    <a href="/front/org_pagination/?sort=-interorg_relations_count" class="left #{params[:sort] && params[:sort]=='-interorg_relations_count' ? 'active' : ''}">Legtöbb szervezeti kapcsolat</a>
+    <a href="&url_for :controller => 'front', :action => 'org_pagination', :sort=>'-interorg_relations_count'" class="left #{params[:sort] && params[:sort]=='-interorg_relations_count' ? 'active' : ''}">Legtöbb szervezeti kapcsolat</a>
     <div class="separator left">|</div>
-    <a href="/front/org_pagination/?sort=-updated_at" class="left #{params[:sort] && params[:sort]=='-updated_at' ? 'active' : ''}">Most frissített</a>
+    <a href="&url_for :controller => 'front', :action => 'org_pagination', :sort=>'-updated_at'" class="left #{params[:sort] && params[:sort]=='-updated_at' ? 'active' : ''}">Most frissített</a>
   </div>
   <table-plus fields="this, city, street, zip_code, person_to_org_relations_count, interorg_relations_count, information_source" without-search-form merge>
     <Organization-heading:><span>Név</span></Organization-heading:>
@@ -494,9 +494,23 @@
     <interorg-relations-count-heading:><span>Szervezeti kapcsolat</span></interorg-relations-count-heading:>
     <information-source-heading:><span>Információ forrás</span></information-source-heading:>
     <this-view:><a/> <a href="/site_search/?p=#{this.id}"><img src="/images/plusz.png"/></a> </this-view:>
-    <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'org_pagination', :query=>params[:query], :date_from=>params[:date_from], :date_to=>params[:date_to], :amount_from=>params[:amount_from], :amount_to=>params[:amount_to]}"/>
+    <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:block=> 'org', :action=>params[:organization] ? 'detailed_search' : 'org_pagination', :query=>params[:query], :date_from=>params[:date_from], :date_to=>params[:date_to], :sort=>params[:sort]}"/>
   </table-plus>
   <div param="table_footer" class="table_footer"><a href="#{organizations_path}">További szervezetek &gt;</a></div>
+</def>
+
+<def tag="table-plus-trans">
+  <table-plus fields="this, city, street, zip_code, person_to_org_relations_count, interorg_relations_count, information_source" without-search-form merge>
+    <Organization-heading:><span>Név</span></Organization-heading:>
+    <city-heading:><span>Város</span></city-heading:>
+    <street-heading:><span>Utca</span></street-heading:>
+    <zip-code-heading:><span>Irányítószám</span></zip-code-heading:>
+    <person-to-org-relations-count-heading:><span>Személyes kapcsolat</span></person-to-org-relations-count-heading:>
+    <interorg-relations-count-heading:><span>Szervezeti kapcsolat</span></interorg-relations-count-heading:>
+    <information-source-heading:><span>Információ forrás</span></information-source-heading:>
+    <this-view:><a/> <a href="/site_search/?p=#{this.id}"><img src="/images/plusz.png"/></a> </this-view:>
+    <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'trans_pagination', :query=>params[:query], :date_from=>params[:date_from], :date_to=>params[:date_to], :amount_from=>params[:amount_from], :amount_to=>params[:amount_to], :sort=>params[:sort]}"/>
+  </table-plus>
 </def>
 
 <def tag="table-plus-contract">
@@ -517,17 +531,26 @@
   <div class="table_footer"><a href="#{people_path}">További tranzakciók &gt;</a></div>
 </def>
 
+<def tag="collection-transaction">
+  <collection>
+    <after-empty-message:>
+      <page-nav: with="&@transactions" class="pagination transaction_pagination" previous-label="&laquo;" next-label="&raquo;" params="&{:block=> 'transaction', :action=>'detailed_search', :query=>params[:query], :amount_from => params[:amount_from], :amount_to=>params[:amount_to], :date_from=>params[:date_from], :date_to=>params[:date_to], :sort=>params[:sort]}"/>
+    </after-empty-message:>
+  </collection>
+</def>
+
 <def tag="collection-article">
   <collection>
     <card:>
       <body:>
         <a><view:summary/></a>
-        <span class="article-created">Dátum: <%= I18n.l( this.created_at, :format =>"%B %d, %Y %H:%M") %></span><% if this.information_source %> | <a><view:information-source/></a><% end %>
+        <span class="article-created">Dátum: <%= I18n.l( this.created_at, :format =>"%B %d, %Y %H:%M") %></span>
+        <% if this.information_source %> | <a><view:information-source/></a><% end %>
       </body:>
     </card:>
     <empty-message:></empty-message:>
     <after-empty-message:>
-      <page-nav: with="&@articles" class="pagination article_pagination" previous-label="&laquo;" next-label="&raquo;" params="&{:controller=>'articles', :action=>'search', :query=>params[:query]}"/>
+      <page-nav: if="&@articles.present?" with="&@articles" class="pagination article_pagination" previous-label="&laquo;" next-label="&raquo;" params="&{:controller=>'articles', :action=>'search', :query=>params[:query]}"/>
     </after-empty-message:>
   </collection>
 </def>

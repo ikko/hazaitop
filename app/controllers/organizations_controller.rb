@@ -23,7 +23,7 @@ class OrganizationsController < ApplicationController
   index_action :person_to_org_pagination do
     @this = find_instance
     return unless @this
-    @person_to_orgs = @this.interorg_relations.paginate(:per_page=>10, :page=>params[:page])
+    @person_to_orgs = @this.person_to_org_relations.paginate(:per_page=>10, :page=>params[:page])
   end
 
   index_action :interorg_pagination do
@@ -49,7 +49,7 @@ class OrganizationsController < ApplicationController
 
   def show
     @this               = find_instance
-    @person_to_org_relations = @this.interorg_relations.paginate(:per_page=>10, :page=>params[:page])
+    @person_to_org_relations = @this.person_to_org_relations.paginate(:per_page=>10, :page=>params[:page])
     @interorg_relations = @this.interorg_relations.paginate(:per_page=>10, :page=>params[:page])
     @financials = @this.org_histories.paginate(:per_page=>10, :page=>params[:page])
     respond_to do |format| 
