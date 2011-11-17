@@ -131,7 +131,15 @@ namespace :fetch do
           next if @lines_size -1 < where + i + counter
           while @lines[ where + i + counter ][0..that.size-1] != that do
             if @lines[ where + i + counter ] == "Érték (arab számmal)"
-              number = @lines[ where + i + counter + 1].scan(/[0-9]/).join.to_i
+              current_line = @lines[ where + i + counter + 1]
+              if current_line.include?('-') and ( current_line.split('-')[1].try.size > 2 or current_line.split('-').size > 2 )
+                number = current_line.split('-')[0].scan(/[0-9]/).join.to_i
+              end
+              if current_line.include?('/')
+                number = current_line.split('/')[0].scan(/[0-9]/).join.to_i
+              else
+                number = current_line.scan(/[0-9]/).join.to_i unless number
+              end
             end
             if @lines[ where + i + counter ] == "Pénznem"
               currency = @lines[ where + i + counter + 1]
@@ -181,12 +189,13 @@ namespace :fetch do
     # for lapid in 321000..322999 do 
     # for lapid in 319000..319999 do - in progress
     # old - 319025, 319055,
-    for lapid in 319056..319999 do 
+    
+    for lapid in 319000..319999 do 
       # 282615 a vége
       puts lapid
-      if !File.exist?(Rails.root + "tmp/#{lapid}.pdf")
+      if !File.exist?(Rails.root + "db/kbe/#{lapid}.pdf")
       #    lapid = 326224
-        puts "downloading... to tmp/#{lapid}.pdf from"
+        puts "downloading... to db/kbe/#{lapid}.pdf from"
         puts "http://www.kozbeszerzes.hu/lid/ertesito/pid/0/ertesitoProperties?objectID=Lapszam.portal_#{ lapid }"
         ertesito = Nokogiri::HTML(open("http://www.kozbeszerzes.hu/lid/ertesito/pid/0/ertesitoProperties?objectID=Lapszam.portal_#{ lapid }"))
         if ertesito.css('a.attach').blank?
@@ -196,27 +205,27 @@ namespace :fetch do
         dl =  Nokogiri::HTML(open('http://www.kozbeszerzes.hu/' + ertesito.css('a.attach').last['href']))
         a = dl.css('a').last['href'].split('/').last.match(/\d+/).to_s
         filepath = dl.css('a').last['href'].split('/')[0..-2].join('/') + "/KÉ%20#{a}%20teljes_alairt.pdf.pdf"
-        system "cd #{Rails.root + 'tmp'} && wget -O #{lapid}.pdf #{filepath}"
-        if File.stat(Rails.root + "tmp/#{lapid}.pdf").size == 0
+        system "cd #{Rails.root + 'db/kbe'} && wget -O #{lapid}.pdf #{filepath}"
+        if File.stat(Rails.root + "db/kbe/#{lapid}.pdf").size == 0
           filepath = dl.css('a').last['href']
-          system "cd #{Rails.root + 'tmp'} && wget -O #{lapid}.pdf #{filepath}"
+          system "cd #{Rails.root + 'db/kbe'} && wget -O #{lapid}.pdf #{filepath}"
           puts "régi pdf elnevezés..."
         end
       else
-        puts "file already downloaded to tmp... using that..."
+        puts "file already downloaded to db/kbe/ using that..."
       end
-      if !File.exist?(Rails.root + "tmp/#{lapid}.pdf") or File.stat(Rails.root + "tmp/#{lapid}.pdf").size == 0
+      if !File.exist?(Rails.root + "db/kbe/#{lapid}.pdf") or File.stat(Rails.root + "db/kbe/#{lapid}.pdf").size == 0
         puts "skipping #{lapid}, no tempfile found or file is empty: probably 404..."
         next
       end
       puts "prepare...#{lapid}"
-      puts Rails.root.to_s + "/tmp/#{ lapid }.pdf"
-      pdf = PdfFilePath.new(Rails.root.to_s + "/tmp/#{ lapid }.pdf")
+      puts Rails.root.to_s + "/db/kbe/#{ lapid }.pdf"
+      pdf = PdfFilePath.new(Rails.root.to_s + "/db/kbe/#{ lapid }.pdf")
       xml = pdf.convert_to_xml
       LMAX = 4000
       @lines = []
       # parsing starts here
-      file = File.new( Rails.root.to_s + "/tmp/#{lapid}.xml", 'w' )
+      file = File.new( Rails.root.to_s + "/db/kbe/#{lapid}.xml", 'w' )
       xml.each_line do |line|
         if line[0..9] == '<text top='
           @lines << Nokogiri::HTML(line).text.strip
@@ -564,13 +573,13 @@ namespace :fetch do
   desc 'fetch article'
   task :articles => :environment do
     info_id = InformationSource.find_by_name('k-monitor.hu').id
-    f_p2p = P2pRelationType.find_by_name('közös sajtó')
-    f_o2o = O2oRelationType.find_by_name('közös sajtó')
-    f_o2p = O2pRelationType.find_by_name('közös sajtó')
-    f_p2o = P2oRelationType.find_by_name('közös sajtó')
+    f_p2p = P2pRelationType.find_by_name('sajtó')
+    f_o2o = O2oRelationType.find_by_name('sajtó')
+    f_o2p = O2pRelationType.find_by_name('sajtó')
+    f_p2o = P2oRelationType.find_by_name('sajtó')
     articles = Nokogiri::HTML(open('http://www.k-monitor.hu/adatbazis/kereses'))
 #    (1..articles.css("span.result")[0].children[0].text.to_i / 10 + 1).each do |i|
-    (101..108).each do |i|
+    (1..151).each do |i|
       puts "fetching page #{i} on k-monitor.hu at " + Time.now.to_s
       articles = Nokogiri::HTML(open("http://www.k-monitor.hu/kereses?page=#{i}"))
       articles.css(".news_list_1").each do |article|

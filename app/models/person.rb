@@ -3,8 +3,8 @@ class Person < ActiveRecord::Base
   hobo_model # Don't put anything above this
 
   fields do
-    first_name   :string, :required
-    last_name    :string, :required
+    first_name   :string #, :required
+    last_name    :string #, :required
     name         :string
     klink        :string
     born_at      :date
@@ -17,7 +17,7 @@ class Person < ActiveRecord::Base
   default_scope  :order => 'last_name, first_name' 
 
   before_save do |r|
-    r.name = r.last_name + ', ' + r.first_name
+    r.name = r.last_name + ' ' + r.first_name
     if r.born_at and r.born_at.year == Time.now.year
       r.born_at = nil
     elsif r.born_at

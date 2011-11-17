@@ -41,7 +41,7 @@ class FrontController < ApplicationController
     # főoldalről érkező ajaxos keresés
     if request.xhr?
       @organizations = Organization.search(query, :name).paginate(:per_page=>10, :page=>params[:page])
-      @people        = Person.search(query, :last_name, :first_name).paginate(:per_page=>10, :page=>params[:page])
+      @people        = Person.search(query, :name).paginate(:per_page=>10, :page=>params[:page])
       @litigations   = Litigation.search(query, :name).paginate(:per_page=>10, :page=>params[:page])
       @articles      = Article.search(query, :title).paginate(:per_page=>10, :page=>params[:page])
       render_tags(@organizations+@people+@litigations+@articles, :search_card, :for_type => true) 
@@ -85,7 +85,7 @@ class FrontController < ApplicationController
       # nem kerestek dátumra
       elsif !params[:date_from].present? && !params[:date_to].present?
         @organizations = params[:organization] ? Organization.search(query, :name).paginate(:per_page=>10, :page=>params[:page]) : Organization.limit(0)
-        @people        = params[:person] ? Person.search(query, :last_name, :first_name).paginate(:per_page=>10, :page=>params[:page]) : Person.limit(0)
+        @people        = params[:person] ? Person.search(query, :name).paginate(:per_page=>10, :page=>params[:page]) : Person.limit(0)
         @litigations   = params[:litigation] ? Litigation.search(query, :name).paginate(:per_page=>10, :page=>params[:page]) : Litigation.limit(0)
         @articles      = params[:article] ? Article.search(query, :title).paginate(:per_page=>10, :page=>params[:page]) : Article.limit(0)
       # valamire rákerestek
@@ -145,7 +145,7 @@ private
         cond << (i>0 ? " and #{e}" : e)
       end
       builded_person_conditions = [cond] + person_pars
-      Person.search(params[:query], :last_name, :first_name).
+      Person.search(params[:query], :name).
              paginate(:joins=>"left outer join person_to_org_relations on person_to_org_relations.person_id = people.id 
                                left outer join interpersonal_relations on interpersonal_relations.person_id = people.id", 
                       :conditions=>builded_person_conditions,
