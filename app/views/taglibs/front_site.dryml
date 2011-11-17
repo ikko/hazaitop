@@ -11,7 +11,8 @@
 <extend tag="page">
   <old-page merge>
     <custom-scripts:>
-      <javascript>
+      <hjq-assets/>
+      <script>
         var _gaq = _gaq || [];
         _gaq.push(['_setAccount', 'UA-20915206-1']);
         _gaq.push(['_setDomainName', '.addig.hu']);
@@ -21,8 +22,11 @@
            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
              var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
          })();
-      </javascript>
-      <hjq-assets/>
+         var news = [];
+        <% Article.recent(5).each do |article| %>
+          <%= "news.push('<a href=\"#{url_for(article)}\">#{article.title}</a><span class=\"news_separator\"></span>');" %>;
+        <% end %>
+      </script>
     </custom-scripts:>
     <stylesheets:>
       <stylesheet name="reset, application"/>
@@ -61,13 +65,12 @@
       </div>
       <div id="header_infoline">
         <div class="left" id="arrows"><a class="left_arrow" href="">◂</a><a class="right_arrow" href="">▸</a></div>
-        <ul class="left" id="news">
-          <% i = 0 %>
+        <!-- NOTE: class-t és id-t js kódban is újraépítjük lapozásnál, így ha itt változtatunk akkor ott is kell -->
+        <%= '<marquee class="left" id="news">' %>
           <% Article.recent(5).each do |article| %>
-            <li class="#{ i == 0 ? 'active' : ''}"><a href=""><%= article.title %></a></li>
-            <% i =+1 %>
+            <a href="#{url_for(article)}"><%= article.title %></a><span class="news_separator"></span>
           <% end %>
-        </ul>
+        <%= '</marquee>' %>
         2011. október 6.<div class="separator">|</div><a href="http://www.k-monitor.hu">www.k-monitor.hu</a>
       </div>
     </header:>

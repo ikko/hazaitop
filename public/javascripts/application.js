@@ -30,15 +30,13 @@ if (typeof jQuery != 'undefined') {
 
       //hírléptetés
       $("#arrows a").click(function(e) {
-        var next_news, actual_news = $("#news li.active");
-        if (actual_news.next().length>0) {
-          next_news = actual_news.next();
-        } else {
-          next_news = $("#news li:first");
-        }
-        $("#news li").removeClass("active").hide();
-        next_news.addClass("active").show();
         e.preventDefault();
+        if ($(this).hasClass('left_arrow')) {
+          news = [news.pop()].concat(news);
+        } else {
+          news.push(news.shift());
+        }
+        $("#news").replaceWith("<marquee  class='left' id='news'>" + news.join(" ") + "</marquee>");
       });
 
       //térképszűrők

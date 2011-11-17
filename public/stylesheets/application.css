@@ -141,14 +141,6 @@ a {
   margin-left: 5px;
 }
 
-#news li {
-  display: none;
-}
-
-#news li.active {
-  display: block;
-}
-
 #quick_search {
   text-indent: -10000px;
   background: url(/images/quicksearch_link.png) no-repeat;
@@ -634,6 +626,16 @@ h2 {
   margin: 0 auto;
   display: block;
   text-align: center;
+}
+
+#news {
+  width: 690px;
+  margin-right: 10px;
+}
+
+.news_separator {
+  width: 150px;
+  display: inline-block;
 }
 
 #map_panel .tab_content {
