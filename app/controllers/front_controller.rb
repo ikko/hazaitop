@@ -37,10 +37,9 @@ class FrontController < ApplicationController
   def api ; end
 
   def search               
-    query = params[:query]
+    query = params[:query] || ""
     # főoldalről érkező ajaxos keresés
     if request.xhr?
-      query = "" unless query.present? 
       @organizations = Organization.search(query, :name).paginate(:per_page=>10, :page=>params[:page])
       @people        = Person.search(query, :last_name, :first_name).paginate(:per_page=>10, :page=>params[:page])
       @litigations   = Litigation.search(query, :name).paginate(:per_page=>10, :page=>params[:page])
@@ -51,6 +50,7 @@ class FrontController < ApplicationController
 
   # részletes keresés oldalról érkező html keresés
   def detailed_search
+    params[:query] ||= ''
     query = params[:query]
     # ha ajaxos lapozás van
     if params[:block]

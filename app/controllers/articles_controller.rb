@@ -11,11 +11,6 @@ class ArticlesController < ApplicationController
     hobo_new
   end
 
-  index_action :search do
-    query = params[:query] || ""
-    @articles = Article.search(query, :title).paginate(:per_page=>10, :page=>params[:page])
-  end
-
   index_action :interpersonal_pagination do
     @this = find_instance
     return unless @this
