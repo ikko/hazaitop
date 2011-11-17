@@ -632,6 +632,14 @@ h2 {
 .pagination .ajax-loader {
   position: relative;
   top: 4px;
+  width: 15px;
+}
+
+#network_clean {
+  text-align: center;
+  margin: 0 auto;
+  display: block;
+  margin-top: 11px;
 }
 
 #news {

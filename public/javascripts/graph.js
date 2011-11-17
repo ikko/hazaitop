@@ -73,6 +73,9 @@ var vis;
     toXgmml: function() {
       return this.xgmmlHeader + this.body + '</graph>'
     },
+    clean: function() {
+      vis.draw({network:[], visualStyle: {global:{backgroundColor: "#010101"}}})
+    },
     draw: function(data) {
       vis.draw({network: this.parse(data), 
                 edgeLabelsVisible: true, 
@@ -229,5 +232,9 @@ var vis;
                                                   $searchAjaxLoaders.hide()
                                                   $searchTabLitigationLoader.show();
                                                 }});
+    $("#network_clean").click(function(e) {
+      e.preventDefault();
+      network.clean();
+    });
   });
 })(jQuery);

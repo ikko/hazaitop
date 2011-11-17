@@ -54,6 +54,7 @@
           <label>Szervezet neve: </label><input class="autocomplete" id="organization_autocomplete" type="text"/><img class="ajax_loader" src="/images/autocomplete-ajax-loader.gif"/>
           <div class="clear"></div>
           <label>Per megnevezés: </label><input class="autocomplete" id="litigation_autocomplete" type="text"/><img class="ajax_loader" src="/images/autocomplete-ajax-loader.gif"/>
+          <a id="network_clean" href="">Kirajzolt háló törlése</a>
           <div class="clear"></div>
         </div>
         <div id="profil_content" style="display: none;" class="tab_content">
