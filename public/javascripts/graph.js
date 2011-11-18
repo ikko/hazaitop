@@ -252,13 +252,20 @@ var network;
       network.clean();
     });
     $("#checkbox_list input").change(function() {
-      var bp={edges:{}}; 
+      var $this = $(this),
+          inpuIsChecked = $this.is(':checked'),
+          inputLabel = $this.next().text(),
+          bp={edges:{}},
+          graphHasEdge=false; 
+
       for(var i=0; network.edges.arr.length>i;i++) {
-        if (network.edges.arr[i].label==$(this).next().text()) { 
-          bp.edges[network.edges.arr[i].id]={opacity:0}; 
+        if (network.edges.arr[i].label==inputLabel) {
+          graphHasEdge = true;
+          bp.edges[network.edges.arr[i].id]={opacity:inputIsChecked ? 1 : 0}; 
         }
       }
-      vis.visualStyleBypass(bp)
+
+      if (graphHasEdge) { vis.visualStyleBypass(bp); }
     });
   });
 })(jQuery);
