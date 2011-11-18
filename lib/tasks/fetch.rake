@@ -132,7 +132,7 @@ namespace :fetch do
           while @lines[ where + i + counter ][0..that.size-1] != that do
             if @lines[ where + i + counter ] == "Érték (arab számmal)"
               current_line = @lines[ where + i + counter + 1]
-              if current_line.include?('-') and ( current_line.split('-')[1].try.size > 2 or current_line.split('-').size > 2 )
+              if current_line.include?('-') and ( current_line.split('-')[1] and current_line.split('-')[1].size > 2 or current_line.split('-').size > 2 )
                 number = current_line.split('-')[0].scan(/[0-9]/).join.to_i
               end
               if current_line.include?('/')
@@ -190,10 +190,10 @@ namespace :fetch do
     # for lapid in 319000..319999 do - in progress
     # old - 319025, 319055,
     
-    for lapid in 319000..319999 do 
+    for lapid in 319020..319999 do 
       # 282615 a vége
       puts lapid
-      if !File.exist?(Rails.root + "db/kbe/#{lapid}.pdf")
+      if !File.exist?(Rails.root + "db/kbe/#{lapid}.pdf")  
       #    lapid = 326224
         puts "downloading... to db/kbe/#{lapid}.pdf from"
         puts "http://www.kozbeszerzes.hu/lid/ertesito/pid/0/ertesitoProperties?objectID=Lapszam.portal_#{ lapid }"
@@ -212,7 +212,7 @@ namespace :fetch do
           puts "régi pdf elnevezés..."
         end
       else
-        puts "file already downloaded to db/kbe/ using that..."
+        puts "pdf file already downloaded to db/kbe/ using that..."
       end
       if !File.exist?(Rails.root + "db/kbe/#{lapid}.pdf") or File.stat(Rails.root + "db/kbe/#{lapid}.pdf").size == 0
         puts "skipping #{lapid}, no tempfile found or file is empty: probably 404..."
@@ -225,7 +225,7 @@ namespace :fetch do
       LMAX = 4000
       @lines = []
       # parsing starts here
-      file = File.new( Rails.root.to_s + "/db/kbe/#{lapid}.xml", 'w' )
+      file = File.new( Rails.root.to_s + "/db/kbe/#{lapid}.txt", 'w' )
       xml.each_line do |line|
         if line[0..9] == '<text top='
           @lines << Nokogiri::HTML(line).text.strip
@@ -235,14 +235,24 @@ namespace :fetch do
       end
 
       @lines_size = @lines.size
-      name = look_between("a Közbeszerzések Tanácsa Hivatalos Lapja", "--", 1)
-      if name.kind_of?(Range)
-        puts filepath
-        name = filepath.split("KE-").last.split(".pdf").first
+
+      if File.exist?("db/kbe/#{lapid}.nfo")
+        nfo = File.open("db/kbe/#{lapid}.nfo")
+        name = nfo.read.strip
+        nfo.close
       else
-        name = name.strip
+        name = look_between("a Közbeszerzések Tanácsa Hivatalos Lapja", "--", 1)
+        if name.kind_of?(Range)
+          puts filepath
+          name = filepath.split("KE-").last.split(".pdf").first
+        else
+          name = name.strip
+        end
+        puts name
+        nfo = File.open("db/kbe/#{lapid}.nfo", 'w')
+        nfo.puts(name)
+        nfo.close
       end
-      puts name
 
       if !Notification.find_by_name(name)
         if ertesito
@@ -491,7 +501,7 @@ namespace :fetch do
                                                                           :notification_id  => note.id,
                                                                           :information_source_id => info.id,
                                                                           :happened_at => date,
-                                                                          :name => name
+                                                                          :name => contract.description
                                                                          )
                  puts ":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::"
                                                                          puts note.inspect
@@ -524,11 +534,17 @@ namespace :fetch do
           end
         end
         file.close
-        puts '=========== összesen ============'
+        nfo = File.open("db/kbe/#{lapid}.sum", 'w')
+        nfo.puts name 
+        nfo.puts "processing at #{Time.now}"
+        puts    '=========== összesen ============'
+        nfo.puts  '=========== összesen ============'
         puts commify( @sum )
+        nfo.puts commify( @sum )
         note.contracted_value = @sum
         note.save
-        @ertekek.sort {|x,y| y[5] <=> x[5] }.each do |e| puts e.inspect end
+        @ertekek.sort {|x,y| y[5] <=> x[5] }.each do |e| puts(e.inspect); nfo.puts(e.inspect) end
+        nfo.close
       end
     end
   end
