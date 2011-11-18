@@ -30,7 +30,8 @@
   background-color: #054756;
   border-left: 3px solid white;
   color: white;
-  padding-top: 12px;
+  padding-top: 8px;
+  padding-bottom: 4px;
 }
 
 .header_link_column a {
@@ -368,7 +369,11 @@ table .odd {
 }
 
 #logos img {
-  padding-right: 18px;
+  padding-right: 16px;
+}
+
+.devpage a {
+  color: #6ea4b0;
 }
 
 .page-footer {
