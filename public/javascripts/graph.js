@@ -1,6 +1,7 @@
 var vis;
+var network;
 (function($) {
-  var network = {
+  network = {
     xgmmlHeader: '<graph label="Cytoscape Web" directed="0" Graphic="1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cy="http://www.cytoscape.org" xmlns="http://www.cs.rpi.edu/XGMML">',
     body: '',
     nodes: {arr: []},
@@ -132,9 +133,9 @@ var vis;
 
   function setSearchType() {
     $this = $(this);
-    if ($this.attr('id', 'people_autocomplete')) {
+    if ($this.attr('id') == 'people_autocomplete') {
       $searchType.val('p');
-    } else if ($this.attr('id', 'organization_autocomplete')) {
+    } else if ($this.attr('id') == 'organization_autocomplete') {
       $searchType.val('o');
     } else {
       $searchType.val('l');
@@ -160,10 +161,9 @@ var vis;
     $loadNodeRelations = $("#load_node_relations");
     $nodeAttributePanels = $(".node_attributes");
     $relationgraph = $("#relationgraph");
-    $searchTabPeopleLoader = $("#search_tab_people .ajax_loader");
-    $searchTabOrganizationLoader = $("#search_tab_organizations .ajax_loader");
-    $searchTabLitigationLoader = $("#search_tab_litigations .ajax_loader");
-    $searchAjaxLoaders = $("#search_entities .ajax_loader");
+    $peopleSearchLoader = $("#people_search_ajax_loader");
+    $organizationSearchLoader = $("#organizations_search_ajax_loader");
+    $litigationSearchLoader = $("#litigations_search_ajax_loader");
 
     $('#organization_autocomplete').change(setSearchType);
     $('#people_autocomplete').change(setSearchType);
@@ -187,7 +187,6 @@ var vis;
       network.showNodeInfo(vis.node($selectedNodeType.val()+$selectedNodeId.val()).data);
     });
 
-    //$("#search_entities").tabs();
     $loadNodeRelations.click(function(e) {
       e.preventDefault();
       network.showAjaxLoader();
@@ -217,24 +216,45 @@ var vis;
                                                  network.draw(response); 
                                                }});
                                      }});
+
+    // hack autocompletehez
+    // http://stackoverflow.com/questions/4718968/detecting-no-results-on-jquery-ui-autocomplete
+    var __response = $.ui.autocomplete.prototype._response;
+    $.ui.autocomplete.prototype._response = function(content) {
+        __response.apply(this, [content]);
+        this.element.trigger("autocompletesearchcomplete", [content]);
+    };
+
     $("#organization_autocomplete").autocomplete({source: '/organizations/query', 
                                                   search: function() {
-                                                    $searchAjaxLoaders.hide();
-                                                    $searchTabOrganizationLoader.show();
-                                                  }});
+                                                    $organizationSearchLoader.show();
+                                                  },
+                                                  open: function() {
+                                                    $organizationSearchLoader.hide();
+                                                  }}).bind("autocompletesearchcomplete", function() { $organizationSearchLoader.hide(); });
+
     $("#people_autocomplete").autocomplete({source: '/people/query', 
                                             search: function() {
-                                              $searchAjaxLoaders.hide()
-                                              $searchTabPeopleLoader.show();
-                                            }}); 
+                                              $peopleSearchLoader.show();
+                                            },
+                                            open: function() {
+                                              $peopleSearchLoader.hide();
+                                            }}).bind("autocompletesearchcomplete", function() { $peopleSearchLoader.hide(); });; 
     $("#litigation_autocomplete").autocomplete({source: '/litigations/query', 
                                                 search: function() {
-                                                  $searchAjaxLoaders.hide()
-                                                  $searchTabLitigationLoader.show();
-                                                }});
+                                                  $litigationSearchLoader.show();
+                                                },
+                                                open: function() {
+                                                  $litigationSearchLoader.hide();
+                                                }}).bind("autocompletesearchcomplete", function() { $litigationSearchLoader.hide(); });;
     $("#network_clean").click(function(e) {
       e.preventDefault();
       network.clean();
+    });
+    $("#checkbox_list input").change(function() {
+      for(var i=0; network.edges.arr.length>i;i++) {
+        //if (network.edges.arr[i].label==$(this)."üzleti partner") { bp={edges:{}}; bp.edges[network.edges.arr[i].id]={opacity:0} ; console.log(bp);vis.visualStyleBypass(bp)}}
+      });
     });
   });
 })(jQuery);

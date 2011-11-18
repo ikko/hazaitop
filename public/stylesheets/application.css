@@ -692,6 +692,12 @@ h2 {
   padding: 15px;
 }
 
+#search_content .ajax_loader {
+  position: relative;
+  top: 3px;
+  left: 4px;
+}
+
 .ajax_loader {
   display: none;
 }

@@ -49,11 +49,11 @@
           </div>
         </div>
         <div id="search_content" style="display: none;" class="tab_content">
-          <label>Személy neve: </label><input class="autocomplete" id="people_autocomplete" type="text"/><img class="ajax_loader" src="/images/autocomplete-ajax-loader.gif"/>
+          <label>Személy neve: </label><input class="autocomplete" id="people_autocomplete" type="text"/><img class="ajax_loader" id="people_search_ajax_loader" src="/images/autocomplete-ajax-loader.gif"/>
           <div class="clear"></div>
-          <label>Szervezet neve: </label><input class="autocomplete" id="organization_autocomplete" type="text"/><img class="ajax_loader" src="/images/autocomplete-ajax-loader.gif"/>
+          <label>Szervezet neve: </label><input class="autocomplete" id="organization_autocomplete" type="text"/><img class="ajax_loader" id="organizations_search_ajax_loader" src="/images/autocomplete-ajax-loader.gif"/>
           <div class="clear"></div>
-          <label>Per megnevezés: </label><input class="autocomplete" id="litigation_autocomplete" type="text"/><img class="ajax_loader" src="/images/autocomplete-ajax-loader.gif"/>
+          <label>Per megnevezés: </label><input class="autocomplete" id="litigation_autocomplete" type="text"/><img class="ajax_loader" id="litigations_search_ajax_loader" src="/images/autocomplete-ajax-loader.gif"/>
           <a id="network_clean" href="">Kirajzolt háló törlése</a>
           <p id="network_info">Jelmagyarázat térképhez<br/>Leírás hogyan működik a keresés</p>
           <div class="clear"></div>
