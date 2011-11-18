@@ -5,12 +5,8 @@ per-eket ne egymás mellé rendezze - felvitelnél jó, megjelenítésnél nem..
 
 adatbázisból kitisztítani a \r\n-eket
 kezdőoldalon videó
-indikátoros jelzés tablés ajaxos váltásnál
-gyorskeresésnél loader indikátor eltolja bordert
 hogyan működik, a projektről és kapcsolat oldalak hiányoznak (admin szerkesztés hozzájuk)
-térkép oldalon keresést megcsinálni szépre és működőre
-részletes keresés oldal
-találat a form alá cardosan (keresés után formot kitölteni)
+térkép oldalon kapcsolati háló törlése gomb
 
 térképre vele oldal
 node szűrések
@@ -27,6 +23,5 @@ interorg value/amount
 person2org relation
 
 
-front kontrollerbe kell az articlekhozis lapozhatóság
 kibővíteni front kontban a szűkített kereséseket mert kaphatnak query-t (dátumokat csak ott használjuk ahol van start_time, end_time, query, összeg interorgnál a value, kellene még tranzakciók fül is [összegre vagy a két szervezetre kattintva az interorg contract-ja vagy tenderje jön be, attól függ melyik van])
 

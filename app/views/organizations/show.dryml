@@ -7,14 +7,17 @@
       (function($) {
         $(function(){
           $("#people_content .pagination a").live('click', function(e) {
+            $(this).html(spinnerImg);
             $.ajax({url: $(this).attr('href'), success: function(data) {$("#people_content .table-plus").html(data)}});
             e.preventDefault();
           });
           $("#orgs_content .pagination a").live('click', function(e) {
+            $(this).html(spinnerImg);
             $.ajax({url: $(this).attr('href'), success: function(data) {$("#orgs_content .table-plus").html(data)}});
             e.preventDefault();
           });
           $("#financial_content .pagination a").live('click', function(e) {
+            $(this).html(spinnerImg);
             $.ajax({url: $(this).attr('href'), success: function(data) {$("#financial_content .table-plus").html(data)}});
             e.preventDefault();
           });
