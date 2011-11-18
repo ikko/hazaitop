@@ -252,9 +252,13 @@ var network;
       network.clean();
     });
     $("#checkbox_list input").change(function() {
+      var bp={edges:{}}; 
       for(var i=0; network.edges.arr.length>i;i++) {
-        //if (network.edges.arr[i].label==$(this)."üzleti partner") { bp={edges:{}}; bp.edges[network.edges.arr[i].id]={opacity:0} ; console.log(bp);vis.visualStyleBypass(bp)}}
-      });
+        if (network.edges.arr[i].label==$(this).next().text()) { 
+          bp.edges[network.edges.arr[i].id]={opacity:0}; 
+        }
+      }
+      vis.visualStyleBypass(bp)
     });
   });
 })(jQuery);
