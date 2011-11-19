@@ -7,9 +7,9 @@ class FrontController < ApplicationController
   caches_page :development, :expires_in => 90.minutes
 
   def index
-    @people        = Person.listed.paginate(:per_page=>10, :page=>params[:page])
-    @organizations = Organization.listed.paginate(:per_page=>10, :page=>params[:page])
-    @transactions  = Organization.list.paginate(:joins=>:interorg_relations, :per_page=>10, :page=>params[:page])
+    @people        = Person.order_by(:interpersonal_relations_count, 'desc').paginate(:per_page=>10, :page=>params[:page])
+    @organizations = Organization.order_by(:person_to_org_relations_count, 'desc').paginate(:per_page=>10, :page=>params[:page])
+    @transactions  = Organization.order_by(:interorg_relations_count, 'desc').paginate(:joins=>:interorg_relations, :per_page=>10, :page=>params[:page])
   end
 
   index_action :person_pagination do
