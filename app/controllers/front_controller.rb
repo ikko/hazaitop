@@ -9,7 +9,7 @@ class FrontController < ApplicationController
   def index
     @people        = Person.listed.paginate(:per_page=>10, :page=>params[:page])
     @organizations = Organization.listed.paginate(:per_page=>10, :page=>params[:page])
-    @contracts     = Contract.paginate(:per_page=>10, :page=>params[:page])
+    @transactions  = Organization.list.paginate(:joins=>:interorg_relations, :per_page=>10, :page=>params[:page])
   end
 
   index_action :person_pagination do
@@ -21,11 +21,7 @@ class FrontController < ApplicationController
   end
 
   index_action :trans_pagination do
-  #  @transactions =
-  end
-
-  index_action :contract_pagination do
-    @contracts = Contract.apply_scopes(:order_by => parse_sort_param(:contracted_value, :no_of_proposals)).paginate(:per_page=>10, :page=>params[:page])
+    @transactions = Organization.apply_scopes(:order_by => parse_sort_param(:interorg_relations_count, :updated_at)).paginate(:per_page=>10, :page=>params[:page])
   end
 
   def impressum; end

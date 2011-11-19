@@ -82,7 +82,7 @@
       </div>
 
       <div id="trans_content" class="tab_content" style="display: none">
-        <table-plus-contract with="&@contracts"/>
+        <table-plus-trans with="&@transactions"/>
       </div>
       <div class="clear"></div>
     </div>
