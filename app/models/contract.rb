@@ -19,8 +19,6 @@ class Contract < ActiveRecord::Base
     number :string
     issued_at :date
     case_number :string
-    tender_number :string
-    tender_date :date
     timestamps
   end
 

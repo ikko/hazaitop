@@ -124,14 +124,17 @@ namespace :fetch do
 
     def maxnumber s
       # van ilyen is: "4 248 190 4.248.190"   
-      if s.match(/\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}/).to_s.scan(/\d/).join == s.match(/\d{1,3} \d{1,3} \d{1,3} \d{1,3}/).to_s.scan(/\d/).join
-        return s.match(/\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}/).to_s.scan(/\d/).join.to_i
+      minta = s.match(/\d{1,3}\.\d{3,3}\.\d{3,3}\.\d{3,3}/)
+      if minta and minta.to_s.scan(/\d/).join == s.match(/\d{1,3} \d{3,3} \d{3,3} \d{3,3}/).to_s.scan(/\d/).join
+        return minta.to_s.scan(/\d/).join.to_i
       end
-      if s.match(/\d{1,3}\.\d{1,3}\.\d{1,3}/).to_s.scan(/\d/).join == s.match(/\d{1,3} \d{1,3} \d{1,3}/).to_s.scan(/\d/).join
-        return s.match(/\d{1,3}\.\d{1,3}\.\d{1,3}/).to_s.scan(/\d/).join.to_i
+      minta = s.match(/\d{1,3}\.\d{3,3}\.\d{3,3}/)
+      if minta and minta.to_s.scan(/\d/).join == s.match(/\d{1,3} \d{3,3} \d{3,3}/).to_s.scan(/\d/).join
+        return minta.to_s.scan(/\d/).join.to_i
       end
-      if s.match(/\d{1,3}\.\d{1,3}/).to_s.scan(/\d/).join == s.match(/\d{1,3} \d{1,3}/).to_s.scan(/\d/).join
-        return s.match(/\d{1,3}\.\d{1,3}/).to_s.scan(/\d/).join.to_i
+      minta = s.match(/\d{1,3}\.\d{3,3}/)
+      if minta and minta.to_s.scan(/\d/).join == s.match(/\d{1,3} \d{3,3}/).to_s.scan(/\d/).join
+        return s.match(/\d{1,3}\.\d{3,3}/).to_s.scan(/\d/).join.to_i
       end
       # egyébként felszabdaljuk rsézeekre és kiszedjük a vessző welőtti (az lesz a nagyobb) számot
       summa = 0
@@ -139,6 +142,23 @@ namespace :fetch do
         b.split(/\d+\. rész/).each do |c|
           c.split('rész').each do |d|     # van amikor római számmal írják
             t = []
+            # ilyen is van: "24,187,000.-"
+            minta = d.match(/\d{1,3},\d{3,3},\d{3,3},\d{3,3}/).to_s
+            if minta.present?
+              d.gsub!( minta, minta.gsub(',','x')) # valami másra, lényeg, hogy ne pontra, mert azt most visszavesszőzzuk:
+              d.gsub!( '.', ',')
+            end
+            minta = d.match(/\d{1,3},\d{3,3},\d{3,3}/).to_s
+            if minta.present?
+              d.gsub!( minta, minta.gsub(',','x')) # valami másra, lényeg, hogy ne pontra, mert azt most visszavesszőzzuk:
+              d.gsub!( '.', ',')
+            end
+            minta = d.match(/\d{1,3},\d{3,3}/).to_s
+            if minta.present? and !d.match(/\.\d{3,3},\d{3,3}/)
+              d.gsub!( minta, minta.gsub(',','x')) # valami másra, lényeg, hogy ne pontra, mert azt most visszavesszőzzuk:
+              d.gsub!( '.', ',')
+            end
+            # végül kivesszük a számokat belőle
             d.split(',').each do |e|
               t << e.scan(/[0-9]/).join.to_i
             end
@@ -160,12 +180,8 @@ namespace :fetch do
           next if @lines_size -1 < where + i + counter
           while @lines[ where + i + counter ][0..that.size-1] != that do
             if @lines[ where + i + counter ] == "Érték (arab számmal)"
-              curent_line = @lines[ where + i + counter + 1]
-              if current_line.include?('/')
-                number = maxnumber( current_line.split(' ').split('/')[0] )
-              else
-                number = maxnumber( current_line )
-              end
+              current_line = @lines[ where + i + counter + 1]
+              number = maxnumber( current_line.split('/')[0] )
             end
             if @lines[ where + i + counter ] == "Pénznem"
               currency = @lines[ where + i + counter + 1]
@@ -178,7 +194,7 @@ namespace :fetch do
           else
             result['n/a'] = nil # az első valutát keressük az eredményben, és ha nincs kell valami, különben még beteszi az original stringet
           end
-          result['original'] = current
+          result['original'] = current_line
           return result
         end
       end
@@ -241,16 +257,16 @@ namespace :fetch do
           puts "régi pdf elnevezés..."
         end
       else
-        puts "pdf file already downloaded to db/kbe/ using that..."
+        puts "pdf file already downloaded, using that..."
       end
       if !File.exist?(Rails.root + "db/kbe/#{lapid}.pdf") or File.stat(Rails.root + "db/kbe/#{lapid}.pdf").size == 0
-        puts "skipping #{lapid}, no tempfile found or file is empty: probably 404..."
+        puts "skipping #{Rails.root.to_s}/db/kbe/#{ lapid }.pdf, no file found or file is empty: probably 404..."
         next
       end
-      puts "prepare...#{lapid}"
-      puts Rails.root.to_s + "/db/kbe/#{ lapid }.pdf"
+      puts "parsing data from #{Rails.root.to_s}/db/kbe/#{ lapid }.pdf, please wait..."
       pdf = PdfFilePath.new(Rails.root.to_s + "/db/kbe/#{ lapid }.pdf")
       xml = pdf.convert_to_xml
+      puts "preparing..."
       LMAX = 4000
       @lines = []
       # parsing starts here
@@ -372,9 +388,6 @@ namespace :fetch do
               c_original_sum_value = h['original']
               puts h.inspect
               puts commify( h[h.keys.first] )
-
-              puts tender_number = look_between( "A hirdetmény száma a KÉ-ben", " (KÉ-szám/évszám)", i).gsub("\n",'').gsub(' ','')
-              puts tender_date   = look_between( "A hirdetmény közzétételének dátuma", " (év/hó/nap)", i).strip.to_date
 
               # az aktuális hirdetmény vége
               puts v = get_pos("E hirdetmény feladásának dátuma", i)
@@ -516,9 +529,7 @@ namespace :fetch do
                                             :currency         => c_currency,
                                             :notification_id  => note.id,
                                             :issued_at        => date,
-                                            :case_number      => case_number,
-                                            :tender_number    => tender_number,
-                                            :tender_date      => tender_date
+                                            :case_number      => case_number
 
                                            )
                 if contract
@@ -587,6 +598,9 @@ namespace :fetch do
         nfo.puts  '=========== összesen ============'
         puts commify( @sum )
         nfo.puts commify( @sum )
+        log.puts commify( @sum )
+        log.puts "notification id is #{note.id}, note number is #{note.number}"
+        log.puts "=========== processed at: #{Time.now} ============"
         note.contracted_value = @sum
         note.save
         @ertekek.sort {|x,y| y[5] <=> x[5] }.each do |e| puts(e.inspect); nfo.puts(e.inspect) end
