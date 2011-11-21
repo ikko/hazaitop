@@ -101,14 +101,14 @@ var network;
       if (match[0] == 'p') {
         $nodeAttributePanels.hide();
         $personNode.show();
-        $selectedNodeType.val('p');
+        $selectedElemType.val('p');
         $personNode.find("#person_name").html("<a href='/people/"+nodeData.id.match(/\d+/)+"'>"+nodeData.label+"</a>");
         $personNode.find("#mothers_name").text(nodeData.mothersName);
         $personNode.find("#born_at").text(nodeData.bornAt);
       } else if (match[0] == 'o'){
         $nodeAttributePanels.hide();
         $organizationNode.show();
-        $selectedNodeType.val('o');
+        $selectedElemType.val('o');
         log($organizationNode)
         $organizationNode.find("#organization_name").html("<a href='/organizations/"+nodeData.id.match(/\d+/)+"'>"+nodeData.label+"</a>");
         $organizationNode.find("#address").text(nodeData.address);
@@ -119,12 +119,12 @@ var network;
       } else if (match[0] == 'l'){
         $nodeAttributePanels.hide();
         $litigationNode.show();
-        $selectedNodeType.val('l');
+        $selectedElemType.val('l');
         $litigationNode.find("#litigation_name").html("<a href='/litigations/"+nodeData.id.match(/\d+/)+"'>"+nodeData.label+"</a>");
         $litigationNode.find("#start_time").text(nodeData.startTime);
         $litigationNode.find("#end_time").text(nodeData.endTime);
       }
-      $selectedNodeId.val(match[2]);
+      $selectedElemId.val(match[2]);
     },
     showAjaxLoader: function() {
       $relationgraph.html('<img src="/images/network-ajax-loader.gif" class="ajax-loader"/>');
@@ -152,8 +152,9 @@ var network;
       $("a[href='#search_content']").parent().addClass("active");
     }
 
-    $selectedNodeId = $("#selected_node_id");
-    $selectedNodeType = $("#selected_node_type");
+    $selectedElemId = $("#selected_elem_id");
+    $selectedElemType = $("#selected_elem_type");
+    $selectedType = $("#selected_type");
     $searchType = $("#search_type");
     $personNode = $("#person_node");
     $organizationNode = $("#organization_node");
@@ -170,9 +171,9 @@ var network;
     $('#litigation_autocomplete').change(setSearchType);
 
     vis = new org.cytoscapeweb.Visualization("relationgraph", {swfPath: "/swf/CytoscapeWeb", flashInstallerPath: "/swf/playerProductInstall"});
-    if ($selectedNodeType.val().length > 0) {
+    if ($selectedElemType.val().length > 0) {
       log('Konkrét node kapcsolati hálójának kirajzolása');
-      network.discoveredNodes.push($selectedNodeType.val()+$selectedNodeId.val());
+      network.discoveredNodes.push($selectedElemType.val()+$selectedElemId.val());
       network.draw(xmmlGraph);
     }
     vis.ready(function() {
@@ -183,18 +184,18 @@ var network;
         });
         network.initialized = true;
       }
-      vis.select('nodes', [$selectedNodeType.val()+$selectedNodeId.val()]);
-      network.showNodeInfo(vis.node($selectedNodeType.val()+$selectedNodeId.val()).data);
+      vis.select($selectedType.val() + 's', [$selectedElemType.val()+$selectedElemId.val()]);
+      network.showNodeInfo(vis[$selectedType.val()]($selectedElemType.val()+$selectedElemId.val()).data);
     });
 
     $loadNodeRelations.click(function(e) {
       e.preventDefault();
       network.showAjaxLoader();
-      $.ajax({url:'/site_search/?id='+$selectedNodeId.val()+'&type='+$selectedNodeType.val()+'&nodes='+network.loadedNodeIds(), 
+      $.ajax({url:'/site_search/?id='+$selectedElemId.val()+'&type='+$selectedElemType.val()+'&nodes='+network.loadedNodeIds(), 
               dataType: 'json',
               success: function(response) {
                 log('Node kapcsolatai válasz: ', response);
-                network.discoveredNodes.push($selectedNodeType.val()+$selectedNodeId.val());
+                network.discoveredNodes.push($selectedElemType.val()+$selectedElemId.val());
                 network.draw(response); 
               }});
     });
@@ -205,14 +206,14 @@ var network;
                                      },
                                      select: function(event, ui) {
                                        network.showAjaxLoader();
-                                       $selectedNodeId.val(ui.item.id);
-                                       $selectedNodeType.val($searchType.val());
+                                       $selectedElemId.val(ui.item.id);
+                                       $selectedElemType.val($searchElemType.val());
                                        $.ajax({url: '/site_search/?id='+ui.item.id+'&nodes='+network.loadedNodeIds()+'&type='+$searchType.val(),
                                                dataType: 'json',
                                                success: function(response) { 
                                                  log('Node kapcsolatai válasz: ', response);
                                                  $(event.target).val('');
-                                                 network.discoveredNodes.push($selectedNodeType.val()+$selectedNodeId.val());
+                                                 network.discoveredNodes.push($selectedElemType.val()+$selectedElemId.val());
                                                  network.draw(response); 
                                                }});
                                      }});
