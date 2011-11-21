@@ -104,8 +104,8 @@ private
     transaction_conditions = []
     transaction_conditions << ["interorg_relations.value >= ?", params[:amount_from]] if params[:amount_from].present?
     transaction_conditions << ["interorg_relations.value <= ?", params[:amount_to]] if params[:amount_to].present?
-    transaction_conditions << ["interorg_relations.happened_at >= ?", params[:date_from]] if params[:date_from].present?
-    transaction_conditions << ["interorg_relations.happened_at <= ?", params[:date_to]] if params[:date_to].present?
+    transaction_conditions << ["interorg_relations.issued_at >= ?", params[:date_from]] if params[:date_from].present?
+    transaction_conditions << ["interorg_relations.issued_at <= ?", params[:date_to]] if params[:date_to].present?
     cond = ""
     par = []
     transaction_conditions.flatten.each_with_index do |e, i|
@@ -158,12 +158,12 @@ private
       org_pars = []
 
       if params[:date_from].present?
-        organization_conditions << "person_to_org_relations.start_time >= ? and interorg_relations.happened_at >=?"
+        organization_conditions << "person_to_org_relations.start_time >= ? and interorg_relations.issued_at >=?"
         org_pars << params[:date_from]
         org_pars << params[:date_from]
       end
       if params[:date_to].present?
-        organization_conditions << "person_to_org_relations.end_time <= ? and interorg_relations.happened_at <=?"
+        organization_conditions << "person_to_org_relations.end_time <= ? and interorg_relations.isseud_at <=?"
         org_pars << params[:date_to]
         org_pars << params[:date_to]
       end

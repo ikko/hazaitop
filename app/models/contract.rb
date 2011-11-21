@@ -7,15 +7,20 @@ class Contract < ActiveRecord::Base
     name :string
     description :text
     sum_value  :integer, :limit => 8
+    original_sum_value :string
     s_vat_incl :boolean
     contracted_value :integer, :limit => 8
     c_vat_incl :boolean
+    original_contracted_value :string
     estimated_value :integer, :limit => 8
     e_vat_incl :boolean
     currency :string
     subject_and_qty :text
     number :string
     issued_at :date
+    case_number :string
+    tender_number :string
+    tender_date :date
     timestamps
   end
 
