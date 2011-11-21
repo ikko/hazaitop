@@ -47,30 +47,68 @@ class SiteSearchController < ApplicationController
       edge[:id] = "o2o#{relation.id}"
       edge[:alternateId] = "o2o#{relation.interorg_relation.id}"
       edge[:label] = relation.o2o_relation_type.name
+      edge[:org] = relation.organization.name
+      edge[:relatedOrg] = relation.related_organization.name
+      edge[:issuedAt] = relation.issued_at
+      edge[:source] = relation.information_source.name
+      edge[:value] = relation.value
+      edge[:contract] = relation.contract.name
     elsif target_type == source_type && target_type == 'p'
       edge[:id] = "p2p#{relation.id}"
       edge[:alternateId] = "p2p#{relation.interpersonal_relation.id}"
       edge[:label] = relation.p2p_relation_type.name
+      edge[:person] = relation.person.name
+      edge[:relatedPerson] = relation.related_person.name
+      edge[:startTime] = relation.start_time
+      edge[:endTime] = relation.end_time
+      edge[:source] = relation.information_source.name
     elsif target_type == 'p' && source_type == 'o'
       edge[:id] = "p2o#{relation.id}"
       edge[:alternateId] = "o2p#{relation.id}"
       edge[:label] = relation.p2o_relation_type.name
+      edge[:person] = relation.person.name
+      edge[:org] = relation.organization.name
+      edge[:startTime] = relation.start_time
+      edge[:endTime] = relation.end_time
+      edge[:source] = relation.information_source.name
     elsif target_type == 'o' && source_type == 'p'
       edge[:id] = "o2p#{relation.id}"
       edge[:alternateId] = "p2o#{relation.id}"
       edge[:label] = relation.o2p_relation_type.name
+      edge[:person] = relation.person.name
+      edge[:org] = relation.organization.name
+      edge[:startTime] = relation.start_time
+      edge[:endTime] = relation.end_time
+      edge[:source] = relation.information_source.name
     elsif target_type == 'o' && source_type == 'l'
       edge[:id] = "o2l#{relation.id}"
-      edge[:label] = relation.try.o2p_relation_type._?.name || relation.o2o_relation_type.name
-    elsif target_type == 'l' && source_type == 'o'
-      edge[:id] = "l2o#{relation.id}"
-      edge[:label] = relation.try.p2o_relation_type._?.name || relation.o2o_relation_type.name
+      if relation.try.o2p_relation_type._?.name
+        edge[:label] = relation.o2p_relation_type.name
+        edge[:org] = relation.organization.name
+      elsif relation.try.p2o_relation_type._?.name
+        edge[:label] = relation.p2o_relation_type.name
+        edge[:org] = relation.organization.name
+      elsif relation.try.o2o_relation_type._?.name
+        edge[:label] = relation.o2o_relation_type.name
+        edge[:org] = relation.organization.name
+      end
+      edge[:litigation] = litigation.name
+      edge[:startTime] = relation.start_time
+      edge[:endTime] = relation.end_time
+      edge[:source] = relation.information_source.name
     elsif target_type == 'p' && source_type == 'l'
       edge[:id] = "p2l#{relation.id}"
-      edge[:label] = relation.try.p2o_relation_type._?.name || relation.p2p_relation_type.name
-    elsif target_type == 'l' && source_type == 'p'
-      edge[:id] = "l2p#{relation.id}"
-      edge[:label] = relation.try.o2p_relation_type._?.name || relation.p2p_relation_type.name
+      if relation.try.p2o_relation_type._?.name
+        edge[:label] = relation.p2o_relation_type.name
+      elsif relation.try.o2p_relation_type._?.name
+        edge[:label] = relation.o2p_relation_type.name
+      elsif relation.try.p2p_relation_type._?.name
+        edge[:label] = relation.p2p_relation_type.name
+      end
+      edge[:litigation] = litigation.name
+      edge[:startTime] = relation.start_time
+      edge[:endTime] = relation.end_time
+      edge[:source] = relation.information_source.name
     end
     edge[:sourceId] = "#{source_type}#{source.id}"
     edge[:targetId] = "#{target_type}#{target.id}"

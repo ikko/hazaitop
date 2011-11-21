@@ -61,27 +61,80 @@
         <div id="profil_content" style="display: none;" class="tab_content">
           <div id="person_node" class="node_attributes">
             <ul>
-              <li>Név: <span id="person_name"></span></li>
-              <li>Ajnya neve: <span id="mothers_name"></span></li>
-              <li>Születési év: <span id="born_at"></span></li>
+              <li>Név: <span class="name"></span></li>
+              <li>Ajnya neve: <span class="mothers_name"></span></li>
+              <li>Születési év: <span class="born_at"></span></li>
             </ul>
           </div>
           <div id="organization_node" class="node_attributes">
             <ul>
-              <li>Név: <span id="organization_name"></span></li>
-              <li>Cím: <span id="address"></span></li>
-              <li>Alapítás éve: <span id="founded_at"></span></li>
+              <li>Név: <span class="name"></span></li>
+              <li>Cím: <span class="address"></span></li>
+              <li>Alapítás éve: <span class="founded_at"></span></li>
               <li>Legfrissebb pénzügyi adatok</li>
-              <li>Év: <span id="year"></span></li>
-              <li>Forgalom: <span id="turnover"></span></li>
-              <li>Mérleg: <span id="balance"></span></li>
+              <li>Év: <span class="year"></span></li>
+              <li>Forgalom: <span class="turnover"></span></li>
+              <li>Mérleg: <span class="balance"></span></li>
             </ul>
           </div>
           <div id="litigation_node" class="node_attributes">
             <ul>
-              <li>Név: <span id="litigation_name"></span></li>
-              <li>Per kezdete: <span id="start_time"></span></li>
-              <li>Per vége: <span id="end_time"></span></li>
+              <li>Név: <span class="name"></span></li>
+              <li>Per kezdete: <span class="start_time"></span></li>
+              <li>Per vége: <span class="end_time"></span></li>
+            </ul>
+          </div>
+          <div id="o2o_edge" class="node_attributes">
+            <ul>
+              <li>Név: <span class="name"></span></li>
+              <li>Kapcsolodó szervezet: <span class="org"></span></li>
+              <li>Kapcsolodó szervezet: <span class="org"></span></li>
+              <li>Időpont: <span class="issued_at"></span></li>
+              <li>Információ forrás: <span class="source"></span></li>
+              <li>Érték: <span class="value"></span></li>
+              <li>Hirdetmény: <span class="contract"></span></li>
+              <li></li>
+            </ul>
+          </div>
+          <div id="p2p_edge" class="node_attributes">
+            <ul>
+              <li>Név: <span class="name"></span></li>
+              <li>Kapcsolódó személy: <span class="person"></span></li>
+              <li>Kapcsolódó személy: <span class="person"></span></li>
+              <li>Kezdete: <span class="start_time"></span></li>
+              <li>Vége: <span class="end_time"></span></li>
+              <li>Információ forrás: <span class="source"></span></li>
+            </ul>
+          </div>
+          <div id="p2o_edge" class="node_attributes">
+            <ul>
+              <li>Név: <span class="name"></span></li>
+              <li>Kapcsolódó személy: <span class="person"></span></li>
+              <li>Kapcsolódó személy: <span class="person"></span></li>
+              <li>Kapcsolódó szervezet: <span class="org"></span></li>
+              <li>Kezdete: <span class="start_time"></span></li>
+              <li>Vége: <span class="end_time"></span></li>
+              <li>Információ forrás: <span class="source"></span></li>
+            </ul>
+          </div>
+          <div id="o2l_edge" class="node_attributes">
+            <ul>
+              <li>Név: <span class="name"></span></li>
+              <li>Kapcsolódó szervezet: <span class="org"></span></li>
+              <li>Kapcsolódó per: <span class="litigation"></span></li>
+              <li>Kezdete: <span class="start_time"></span></li>
+              <li>Vége: <span class="end_time"></span></li>
+              <li>Információ forrás: <span class="source"></span></li>
+            </ul>
+          </div>
+          <div id="p2l_edge" class="node_attributes">
+            <ul>
+              <li>Név: <span class="name"></span></li>
+              <li>Kapcsolódó szermély: <span class="person"></span></li>
+              <li>Kapcsolódó per: <span class="litigation"></span></li>
+              <li>Kezdete: <span class="start_time"></span></li>
+              <li>Vége: <span class="end_time"></span></li>
+              <li>Információ forrás: <span class="source"></span></li>
             </ul>
           </div>
           <input type="hidden" name="id" id="selected_type" value="#{params[:type] == 't' ? 'edge' : 'node'}"/>
@@ -116,59 +169,5 @@
       </div>
       <div class="clear"></div>
     </div>
-    <!--div class="left" id="search_box">
-      <div id="search_entities">
-        <ul>
-          <li><a href="#search_tab_people">Személyek</a></li>
-          <li><a href="#search_tab_organizations">Szervezetek</a></li>
-          <li><a href="#search_tab_litigations">Perek</a></li>
-        </ul>
-        <div id="search_tab_people">
-          Személy neve: <input class="autocomplete" id="people_autocomplete" type="text"/><img class="ajax_loader" src="/images/autocomplete-ajax-loader.gif"/>
-          <div class="clear"></div>
-        </div>
-        <div id="search_tab_organizations">
-          Szervezet neve: <input class="autocomplete" id="organization_autocomplete" type="text"/><img class="ajax_loader" src="/images/autocomplete-ajax-loader.gif"/>
-          <div class="clear"></div>
-        </div>
-        <div id="search_tab_litigations">
-          Per megnevezés: <input class="autocomplete" id="litigation_autocomplete" type="text"/><img class="ajax_loader" src="/images/autocomplete-ajax-loader.gif"/>
-          <div class="clear"></div>
-        </div>
-      </div>
-      <div id="node_panel" class="ui-tabs ui-widget ui-widget-content ui-corner-all" style="display: none;">
-        <div class="ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all">Részletes információk</div>
-        <div id="person_node" class="node_attributes" style="display: none;">
-          <ul>
-            <li>Név: <span id="person_name"></span></li>
-            <li>Ajnya neve: <span id="mothers_name"></span></li>
-            <li>Születési év: <span id="born_at"></span></li>
-          </ul>
-        </div>
-        <div id="organization_node" class="node_attributes" style="display: none;">
-          <ul>
-            <li>Név: <span id="organization_name"></span></li>
-            <li>Cím: <span id="address"></span></li>
-            <li>Alapítás éve: <span id="founded_at"></span></li>
-            <li>Legfrissebb pénzügyi adatok</li>
-            <li>Év: <span id="year"></span></li>
-            <li>Forgalom: <span id="turnover"></span></li>
-            <li>Mérleg: <span id="balance"></span></li>
-          </ul>
-        </div>
-        <div id="litigation_node" class="node_attributes" style="display: none;">
-          <ul>
-            <li>Név: <span id="litigation_name"></span></li>
-            <li>Per kezdete: <span id="start_time"></span></li>
-            <li>Per vége: <span id="end_time"></span></li>
-          </ul>
-        </div>
-        <input type="hidden" name="id" id="selected_node_id" value="#{params[:id]}"/>
-        <input type="hidden" name="type" id="selected_node_type" value="#{params[:type]}"/>
-        <a href="#" id="load_node_relations">Kapcsolati háló felderítése</a>
-      </div>
-    </div>
-    <div class="left" id="relationgraph" style="width: 70%;height: 400px"></div>
-    <div class="clear"></div-->
   </content:>
 </page>
