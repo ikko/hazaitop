@@ -8,6 +8,8 @@ namespace :fetch do
     require 'pdftohtmlr'
     include PDFToHTMLR
 
+    log = File.open('db/ertesito_osszegzes.txt', 'w')
+
     # helper functions should be separeted later TODO
     def get_pos( what, where )
       for i in 1..(LMAX*3) do
@@ -120,6 +122,53 @@ namespace :fetch do
       end
     end
 
+    def maxnumber s
+      # van ilyen is: "4 248 190 4.248.190"   
+      minta = s.match(/\d{1,3}\.\d{3,3}\.\d{3,3}\.\d{3,3}/)
+      if minta and minta.to_s.scan(/\d/).join == s.match(/\d{1,3} \d{3,3} \d{3,3} \d{3,3}/).to_s.scan(/\d/).join
+        return minta.to_s.scan(/\d/).join.to_i
+      end
+      minta = s.match(/\d{1,3}\.\d{3,3}\.\d{3,3}/)
+      if minta and minta.to_s.scan(/\d/).join == s.match(/\d{1,3} \d{3,3} \d{3,3}/).to_s.scan(/\d/).join
+        return minta.to_s.scan(/\d/).join.to_i
+      end
+      minta = s.match(/\d{1,3}\.\d{3,3}/)
+      if minta and minta.to_s.scan(/\d/).join == s.match(/\d{1,3} \d{3,3}/).to_s.scan(/\d/).join
+        return s.match(/\d{1,3}\.\d{3,3}/).to_s.scan(/\d/).join.to_i
+      end
+      # egyébként felszabdaljuk rsézeekre és kiszedjük a vessző welőtti (az lesz a nagyobb) számot
+      summa = 0
+      s.split(/\d+\.rész/).each do |b|
+        b.split(/\d+\. rész/).each do |c|
+          c.split('rész').each do |d|     # van amikor római számmal írják
+            t = []
+            # ilyen is van: "24,187,000.-"
+            minta = d.match(/\d{1,3},\d{3,3},\d{3,3},\d{3,3}/).to_s
+            if minta.present?
+              d.gsub!( minta, minta.gsub(',','x')) # valami másra, lényeg, hogy ne pontra, mert azt most visszavesszőzzuk:
+              d.gsub!( '.', ',')
+            end
+            minta = d.match(/\d{1,3},\d{3,3},\d{3,3}/).to_s
+            if minta.present?
+              d.gsub!( minta, minta.gsub(',','x')) # valami másra, lényeg, hogy ne pontra, mert azt most visszavesszőzzuk:
+              d.gsub!( '.', ',')
+            end
+            minta = d.match(/\d{1,3},\d{3,3}/).to_s
+            if minta.present? and !d.match(/\.\d{3,3},\d{3,3}/)
+              d.gsub!( minta, minta.gsub(',','x')) # valami másra, lényeg, hogy ne pontra, mert azt most visszavesszőzzuk:
+              d.gsub!( '.', ',')
+            end
+            # végül kivesszük a számokat belőle
+            d.split(',').each do |e|
+              t << e.scan(/[0-9]/).join.to_i
+            end
+            summa = summa + t.max
+          end
+        end
+      end
+      return summa
+    end
+
     def look_price_between( this, that, where )
       result = {}
       number = nil
@@ -132,14 +181,7 @@ namespace :fetch do
           while @lines[ where + i + counter ][0..that.size-1] != that do
             if @lines[ where + i + counter ] == "Érték (arab számmal)"
               current_line = @lines[ where + i + counter + 1]
-              if current_line.include?('-') and ( current_line.split('-')[1] and current_line.split('-')[1].size > 2 or current_line.split('-').size > 2 )
-                number = current_line.split('-')[0].scan(/[0-9]/).join.to_i
-              end
-              if current_line.include?('/')
-                number = current_line.split('/')[0].scan(/[0-9]/).join.to_i
-              else
-                number = current_line.scan(/[0-9]/).join.to_i unless number
-              end
+              number = maxnumber( current_line.split('/')[0] )
             end
             if @lines[ where + i + counter ] == "Pénznem"
               currency = @lines[ where + i + counter + 1]
@@ -149,7 +191,10 @@ namespace :fetch do
           end
           if number
             result[currency] = number
+          else
+            result['n/a'] = nil # az első valutát keressük az eredményben, és ha nincs kell valami, különben még beteszi az original stringet
           end
+          result['original'] = current_line
           return result
         end
       end
@@ -193,7 +238,7 @@ namespace :fetch do
     for lapid in 319020..319999 do 
       # 282615 a vége
       puts lapid
-      if !File.exist?(Rails.root + "db/kbe/#{lapid}.pdf")  
+      if false # !File.exist?(Rails.root + "db/kbe/#{lapid}.pdf")  
       #    lapid = 326224
         puts "downloading... to db/kbe/#{lapid}.pdf from"
         puts "http://www.kozbeszerzes.hu/lid/ertesito/pid/0/ertesitoProperties?objectID=Lapszam.portal_#{ lapid }"
@@ -212,16 +257,16 @@ namespace :fetch do
           puts "régi pdf elnevezés..."
         end
       else
-        puts "pdf file already downloaded to db/kbe/ using that..."
+        puts "pdf file already downloaded, using that..."
       end
       if !File.exist?(Rails.root + "db/kbe/#{lapid}.pdf") or File.stat(Rails.root + "db/kbe/#{lapid}.pdf").size == 0
-        puts "skipping #{lapid}, no tempfile found or file is empty: probably 404..."
+        puts "skipping #{Rails.root.to_s}/db/kbe/#{ lapid }.pdf, no file found or file is empty: probably 404..."
         next
       end
-      puts "prepare...#{lapid}"
-      puts Rails.root.to_s + "/db/kbe/#{ lapid }.pdf"
+      puts "parsing data from #{Rails.root.to_s}/db/kbe/#{ lapid }.pdf, please wait..."
       pdf = PdfFilePath.new(Rails.root.to_s + "/db/kbe/#{ lapid }.pdf")
       xml = pdf.convert_to_xml
+      puts "preparing..."
       LMAX = 4000
       @lines = []
       # parsing starts here
@@ -254,6 +299,8 @@ namespace :fetch do
         nfo.close
       end
 
+      log.puts(name)
+
       if !Notification.find_by_name(name)
         if ertesito
           date = ertesito.css(".ertesitoLapszamInfoful span").last.text.to_date
@@ -268,6 +315,8 @@ namespace :fetch do
         @lines.each_with_index do |v, i|
           if v == "tájékoztató"
             if @lines[i + 1] == "az eljárás eredményéről"
+              puts '======================================='
+              puts case_number = @lines[i - 6].split(" ").last.try[1..-2]
               puts '======================================='
               puts @lines[i + 8]
               puts '======================================='
@@ -291,9 +340,9 @@ namespace :fetch do
               puts c_elnevezes = look_between("II.1.1) Az ajánlatkérő által a szerződéshez rendelt elnevezés",
                                               "II.1.2) A szerződés típusa, valamint a teljesítés helye ( Csak azt a kategóriát válassza – építési beruházás,", i)
               puts ":: TÁRGY, MENNYISÉG"
-              puts targy1 = look_between("II.1.4) A szerződés vagy a közbeszerzés(ek) tárgya, mennyisége",
+              targy1 = look_between("II.1.4) A szerződés vagy a közbeszerzés(ek) tárgya, mennyisége",
                                          "II.1.5) Közös Közbeszerzési Szójegyzék (CPV)", i)
-              puts targy2 = look_between("II.1.5) A szerződés vagy a közbeszerzés(ek) tárgya, mennyisége",
+              targy2 = look_between("II.1.5) A szerződés vagy a közbeszerzés(ek) tárgya, mennyisége",
                                          "II.1.6) Közös Közbeszerzési Szójegyzék (CPV)", i)
               puts c_targy = targy1.class == Range ? targy2 : targy1
 
@@ -302,9 +351,9 @@ namespace :fetch do
 
               puts ":: keretszerződés v dbr?"
               # keretszerzodés?
-              puts keret1 = look_x_after_between("II.1.2) A hirdetmény a következők valamelyikével kapcsolatos",
+              keret1 = look_x_after_between("II.1.2) A hirdetmény a következők valamelyikével kapcsolatos",
                                                  "II.1.4)", i)
-              puts keret2 = look_x_after_between("II.1.3) A hirdetmény a következők valamelyikével kapcsolatos",
+              keret2 = look_x_after_between("II.1.3) A hirdetmény a következők valamelyikével kapcsolatos",
                                                  "II.1.5)", i)
 
               puts c_keret = keret1.class == Range ? keret2 : keret1
@@ -318,8 +367,8 @@ namespace :fetch do
 
               puts ":: CPV"
               # kétféle is lehet:
-              puts cpv1 = look_cpv_between("II.1.5) Közös Közbeszerzési Szójegyzék (CPV)", "II.2) A szerződés(ek) értéke", i)
-              puts cpv2 = look_cpv_between("II.1.6) Közös Közbeszerzési Szójegyzék (CPV)", "II.2) A szerződés(ek) értéke", i)
+              cpv1 = look_cpv_between("II.1.5) Közös Közbeszerzési Szójegyzék (CPV)", "II.2) A szerződés(ek) értéke", i)
+              cpv2 = look_cpv_between("II.1.6) Közös Közbeszerzési Szójegyzék (CPV)", "II.2) A szerződés(ek) értéke", i)
               puts c_cpv = cpv1.class == Range ? cpv2 : cpv1
 
 
@@ -336,8 +385,10 @@ namespace :fetch do
 
               c_currency = h.keys.first
               c_sum_value = h[ h.keys.first ]
+              c_original_sum_value = h['original']
               puts h.inspect
               puts commify( h[h.keys.first] )
+
               # az aktuális hirdetmény vége
               puts v = get_pos("E hirdetmény feladásának dátuma", i)
 
@@ -390,6 +441,7 @@ namespace :fetch do
                 puts h.inspect
                 puts commify( h[h.keys.first] )
                 puts c_ertek = h[h.keys.first]
+                puts c_eredeti_ertek = h['original']
 
                 @sum = @sum + h[h.keys.first]
                 @sums << commify( h[h.keys.first] )
@@ -467,14 +519,18 @@ namespace :fetch do
                                             :description      => c_elnevezes,
                                             :subject_and_qty  => c_targy,
                                             :sum_value        => c_sum_value,
+                                            :original_sum_value  => c_original_sum_value,
                                             :s_vat_incl       => afa(c_sum_value_afa),
                                             :contracted_value => c_ertek,
+                                            :original_contracted_value => c_eredeti_ertek,
                                             :c_vat_incl       => afa(c_ertek_afa),
                                             :estimated_value  => c_becsult,
                                             :e_vat_incl       => afa(c_becsult_afa),
                                             :currency         => c_currency,
                                             :notification_id  => note.id,
-                                            :issued_at        => date
+                                            :issued_at        => date,
+                                            :case_number      => case_number
+
                                            )
                 if contract
                   c_cpv.each do |cpv|
@@ -500,8 +556,9 @@ namespace :fetch do
                                                                           :related_organization_id => vall.id,
                                                                           :notification_id  => note.id,
                                                                           :information_source_id => info.id,
-                                                                          :happened_at => date,
+                                                                          :issued_at => date,
                                                                           :name => contract.description
+                                                                          
                                                                          )
                  puts ":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::"
                                                                          puts note.inspect
@@ -541,6 +598,9 @@ namespace :fetch do
         nfo.puts  '=========== összesen ============'
         puts commify( @sum )
         nfo.puts commify( @sum )
+        log.puts commify( @sum )
+        log.puts "notification id is #{note.id}, note number is #{note.number}"
+        log.puts "=========== processed at: #{Time.now} ============"
         note.contracted_value = @sum
         note.save
         @ertekek.sort {|x,y| y[5] <=> x[5] }.each do |e| puts(e.inspect); nfo.puts(e.inspect) end
