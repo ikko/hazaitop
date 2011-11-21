@@ -19,14 +19,20 @@ var network;
           this.nodeIds.push(node.id);
           this.body += this.generateXmlFromNode(node);
         }
+        // újra parse-olásnál mindig üres edge tömbel kezdünk
+        node.edges = [];
       }
     },
     parseEdges: function(edges) {
       for(var i=0; edges.length > i; i++) {
         var edge = edges[i];
         if (!this.edges[edge.id] && edge.alternateId && !this.edges[edge.alternateId]) {
+          // ezt az attributot nem toljuk át szerverről mivel mindig defaultba visible
+          edge.visible = visible;
           this.edges.arr.push(edge);
           this.edges[edge.id] = edge;
+          this.nodes[edge.sourceId].edges.push(edge.id);
+          this.nodes[edge.targetId].edges.push(edge.id);
           if (edge.alternateId) {this.edges[edge.alternateId] = edge;}
           this.body += this.generateXmlFromEdge(edge);
         }
@@ -82,6 +88,7 @@ var network;
                 edgeLabelsVisible: true, 
                 layout: 'Tree', 
                 visualStyle: {global:{backgroundColor: "#010101"},nodes:{labelFontColor: "#ffffff", size:65, labelFontSize:11, labelFontWeight:'bold'}, edges:{labelFontColor: "#ffffff", labelFontSize:11, labelFontWeight:'bold'}}});
+      network.filter();
     },
     loadedNodeIds: function() {
       var resp = '';
@@ -175,6 +182,22 @@ var network;
         $p2lEdge.find(".source").text(nodeData.source);
       }
       $selectedElemId.val(match[2]);
+    }, 
+    filter: function() {
+      vis.filter('edges', function(edge) {
+        var visible = $('input[value='+edge.id+']').is(':checked');
+        network.edges[edge.id].visible = visible;
+        return visible;
+      });
+      vis.filter('nodes', function(node) {
+        var nodeEdges = network.nodes[node.id].edges,
+            visible = false;
+        // node annak függvényében látható hogy van e látható kapcsolata
+        for (var i=0; nodeEdges.length > 0; i++) {
+          if (network.edges[nodeEdges[i]].visible) {visible = true}
+        }
+        return visible;
+      });
     },
     showAjaxLoader: function() {
       $relationgraph.html('<img src="/images/network-ajax-loader.gif" class="ajax-loader"/>');
@@ -307,21 +330,8 @@ var network;
       e.preventDefault();
       network.clean();
     });
-    $("#checkbox_list input").change(function() {
-      var $this = $(this),
-          inpuIsChecked = $this.is(':checked'),
-          inputLabel = $this.next().text(),
-          bp={edges:{}},
-          graphHasEdge=false; 
-
-      for(var i=0; network.edges.arr.length>i;i++) {
-        if (network.edges.arr[i].label==inputLabel) {
-          graphHasEdge = true;
-          bp.edges[network.edges.arr[i].id]={opacity:inputIsChecked ? 1 : 0}; 
-        }
-      }
-
-      if (graphHasEdge) { vis.visualStyleBypass(bp); }
+    $("#checkbox_list input").click(function() {
+      network.filter();
     });
   });
 })(jQuery);
