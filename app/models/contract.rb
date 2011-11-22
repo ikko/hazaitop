@@ -38,6 +38,8 @@ class Contract < ActiveRecord::Base
 
   belongs_to :notification
 
+  has_many :interorg_relations, :dependent => :destroy
+
   # --- Permissions --- #
 
   def create_permitted?

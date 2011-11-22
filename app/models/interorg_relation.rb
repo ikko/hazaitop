@@ -40,6 +40,8 @@ class InterorgRelation < ActiveRecord::Base
   validate :litigation_related
   validate :source_present
 
+  has_many :interorg_relations, :dependent => :destroy
+
   def source_present
     if information_source.blank? and articles.empty?
       errors.add("Information source or article", "must present.")
