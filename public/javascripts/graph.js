@@ -28,7 +28,7 @@ var network;
         var edge = edges[i];
         if (!this.edges[edge.id] && edge.alternateId && !this.edges[edge.alternateId]) {
           // ezt az attributot nem toljuk át szerverről mivel mindig defaultba visible
-          edge.visible = visible;
+          edge.visible = true;
           this.edges.arr.push(edge);
           this.edges[edge.id] = edge;
           this.nodes[edge.sourceId].edges.push(edge.id);
@@ -88,7 +88,6 @@ var network;
                 edgeLabelsVisible: true, 
                 layout: 'Tree', 
                 visualStyle: {global:{backgroundColor: "#010101"},nodes:{labelFontColor: "#ffffff", size:65, labelFontSize:11, labelFontWeight:'bold'}, edges:{labelFontColor: "#ffffff", labelFontSize:11, labelFontWeight:'bold'}}});
-      network.filter();
     },
     loadedNodeIds: function() {
       var resp = '';
@@ -182,19 +181,27 @@ var network;
         $p2lEdge.find(".source").text(nodeData.source);
       }
       $selectedElemId.val(match[2]);
-    }, 
+    },
+    select: function() {
+      vis.select($selectedType.val() + 's', [$selectedElemType.val()+$selectedElemId.val()]);
+      network.showNodeInfo(vis[$selectedType.val()]($selectedElemType.val()+$selectedElemId.val()).data);
+    },
     filter: function() {
       vis.filter('edges', function(edge) {
-        var visible = $('input[value='+edge.id+']').is(':checked');
-        network.edges[edge.id].visible = visible;
+        var networkEdge = network.edges[edge.data.id],
+            visible = $('input[value='+networkEdge.relationTypeId+']').is(':checked');
+        networkEdge.visible = visible;   
         return visible;
       });
       vis.filter('nodes', function(node) {
-        var nodeEdges = network.nodes[node.id].edges,
+        var nodeEdges = network.nodes[node.data.id].edges,
             visible = false;
         // node annak függvényében látható hogy van e látható kapcsolata
-        for (var i=0; nodeEdges.length > 0; i++) {
-          if (network.edges[nodeEdges[i]].visible) {visible = true}
+        for (var i=0; nodeEdges.length > i; i++) {
+          if (network.edges[nodeEdges[i]].visible) {
+            visible = true;
+            break;
+          }
         }
         return visible;
       });
@@ -262,8 +269,8 @@ var network;
         });
         network.initialized = true;
       }
-      vis.select($selectedType.val() + 's', [$selectedElemType.val()+$selectedElemId.val()]);
-      network.showNodeInfo(vis[$selectedType.val()]($selectedElemType.val()+$selectedElemId.val()).data);
+      network.filter();
+      network.select();
     });
 
     $loadNodeRelations.click(function(e) {
