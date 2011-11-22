@@ -47,6 +47,7 @@ class SiteSearchController < ApplicationController
       edge[:id] = "o2o#{relation.id}"
       edge[:alternateId] = "o2o#{relation.interorg_relation.id}"
       edge[:label] = relation.o2o_relation_type.name
+      edge[:relationTypeId] = "o2o#{relation.o2o_relation_type.id}"
       edge[:org] = relation.organization.name
       edge[:relatedOrg] = relation.related_organization.name
       edge[:issuedAt] = relation.issued_at
@@ -57,6 +58,7 @@ class SiteSearchController < ApplicationController
       edge[:id] = "p2p#{relation.id}"
       edge[:alternateId] = "p2p#{relation.interpersonal_relation.id}"
       edge[:label] = relation.p2p_relation_type.name
+      edge[:relationTypeId] = "p2p#{relation.p2p_relation_type.id}"
       edge[:person] = relation.person.name
       edge[:relatedPerson] = relation.related_person.name
       edge[:startTime] = relation.start_time
@@ -66,6 +68,7 @@ class SiteSearchController < ApplicationController
       edge[:id] = "p2o#{relation.id}"
       edge[:alternateId] = "o2p#{relation.id}"
       edge[:label] = relation.p2o_relation_type.name
+      edge[:relationTypeId] = "p2o#{relation.p2o_relation_type.id}"
       edge[:person] = relation.person.name
       edge[:org] = relation.organization.name
       edge[:startTime] = relation.start_time
@@ -75,6 +78,7 @@ class SiteSearchController < ApplicationController
       edge[:id] = "o2p#{relation.id}"
       edge[:alternateId] = "p2o#{relation.id}"
       edge[:label] = relation.o2p_relation_type.name
+      edge[:relationTypeId] = "o2p#{relation.o2p_relation_type.id}"
       edge[:person] = relation.person.name
       edge[:org] = relation.organization.name
       edge[:startTime] = relation.start_time
@@ -84,14 +88,17 @@ class SiteSearchController < ApplicationController
       if relation.try.o2p_relation_type._?.name
         edge[:id] = "o2p#{relation.id}"
         edge[:label] = relation.o2p_relation_type.name
+        edge[:relationTypeId] = "o2p#{relation.o2p_relation_type.id}"
         edge[:org] = relation.organization.name
       elsif relation.try.p2o_relation_type._?.name
         edge[:id] = "p2o#{relation.id}"
         edge[:label] = relation.p2o_relation_type.name
+        edge[:relationTypeId] = "p2o#{relation.p2o_relation_type.id}"
         edge[:org] = relation.organization.name
       elsif relation.try.o2o_relation_type._?.name
         edge[:id] = "o2o#{relation.id}"
         edge[:label] = relation.o2o_relation_type.name
+        edge[:relationTypeId] = "o2o#{relation.o2o_relation_type.id}"
         edge[:org] = relation.organization.name
       end
       edge[:litigation] = litigation.name
@@ -102,12 +109,15 @@ class SiteSearchController < ApplicationController
       if relation.try.p2o_relation_type._?.name
         edge[:id] = "p2o#{relation.id}"
         edge[:label] = relation.p2o_relation_type.name
+        edge[:relationTypeId] = "p2o#{relation.p2o_relation_type.id}"
       elsif relation.try.o2p_relation_type._?.name
         edge[:id] = "o2p#{relation.id}"
         edge[:label] = relation.o2p_relation_type.name
+        edge[:relationTypeId] = "o2p#{relation.o2p_relation_type.id}"
       elsif relation.try.p2p_relation_type._?.name
         edge[:id] = "p2p#{relation.id}"
         edge[:label] = relation.p2p_relation_type.name
+        edge[:relationTypeId] = "p2p#{relation.p2p_relation_type.id}"
       end
       edge[:litigation] = litigation.name
       edge[:startTime] = relation.start_time
