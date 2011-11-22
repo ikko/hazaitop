@@ -102,6 +102,8 @@ var network;
       } else {
         $loadNodeRelations.show();
       }
+      $('#profil_link').click();
+
       $("#node_panel").show();
       var match = nodeData.id.match(/(.*?)\d+$/);
       if (match[1] == 'p') {

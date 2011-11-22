@@ -21,11 +21,11 @@
     <div id="map_wrapper">
       <div id="map_panel" class="left">
         <div id="map_tabs">
-          <div class="active tab"><a href="#map_content">TÉRKÉP</a></div>
-          <div class="tab"><a href="#search_content">KERESÉS</a></div>
-          <div class="tab"><a href="#profil_content">PROFIL</a></div>
+          <div class="tab"><a id="map_link" href="#map_content">TÉRKÉP</a></div>
+          <div class="#{params[:type] && params[:id] ? '' : 'active'} tab"><a id="search_link" href="#search_content">KERESÉS</a></div>
+          <div class="#{params[:type] && params[:id] ? 'active' : ''} tab"><a id="profil_link" href="#profil_content">PROFIL</a></div>
         </div>
-        <div id="map_content" class="tab_content">
+        <div id="map_content" style="display: none" class="tab_content">
           <div id="checkbox_list">
             <input type="checkbox" checked="checked" name=""/><label class="strong">Közbeszerzések</label><br />
             <input id="person_relation" checked="checked" type="checkbox" name=""/><label class="strong">Személyek</label><br />
@@ -44,7 +44,7 @@
             <% end %>
           </div>
         </div>
-        <div id="search_content" style="display: none;" class="tab_content">
+        <div id="search_content" style="#{params[:type] && params[:id] ? 'display: none' : 'display: block'}" class="tab_content">
           <label>Személy neve: </label><input class="autocomplete" id="people_autocomplete" type="text"/><img class="ajax_loader" id="people_search_ajax_loader" src="/images/autocomplete-ajax-loader.gif"/>
           <div class="clear"></div>
           <label>Szervezet neve: </label><input class="autocomplete" id="organization_autocomplete" type="text"/><img class="ajax_loader" id="organizations_search_ajax_loader" src="/images/autocomplete-ajax-loader.gif"/>
@@ -54,7 +54,7 @@
           <p id="network_info">Jelmagyarázat térképhez<br/>Leírás hogyan működik a keresés</p>
           <div class="clear"></div>
         </div>
-        <div id="profil_content" style="display: none;" class="tab_content">
+        <div id="profil_content" style="#{params[:type] && params[:id] ? 'display: block' : 'display: none'}" class="tab_content">
           <div id="person_node" class="node_attributes">
             <ul>
               <li>Név: <span class="name"></span></li>
@@ -137,7 +137,7 @@
           <input type="hidden" name="id" id="selected_elem_id" value="#{params[:id]}"/>
           <input type="hidden" name="type" id="selected_elem_type" value="#{params[:type] == 't' ? 'o2o' : params[:type]}"/>
           <input type="hidden" name="search_type" id="search_type"/>
-          <a href="#" id="load_node_relations">Kapcsolati háló felderítése</a>
+          <a style="#{params[:type] && params[:id] ? 'display: none' : ''}" href="#" id="load_node_relations">Kapcsolati háló felderítése</a>
         </div>
       </div>
       <div class="left" id="relationgraph"></div>
