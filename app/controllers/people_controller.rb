@@ -33,7 +33,7 @@ class PeopleController < ApplicationController
   end
 
   def index
-    @this = Person.listed
+    @this = Person.order_by(:interpersonal_relations_count, 'desc')
     respond_to do |format| 
       format.html  { hobo_index( @this, :per_page => 10 ) }
       format.xml   { render( :xml  => @this ) and return }

@@ -19,14 +19,20 @@ var network;
           this.nodeIds.push(node.id);
           this.body += this.generateXmlFromNode(node);
         }
+        // újra parse-olásnál mindig üres edge tömbel kezdünk
+        node.edges = [];
       }
     },
     parseEdges: function(edges) {
       for(var i=0; edges.length > i; i++) {
         var edge = edges[i];
-        if (!this.edges[edge.id] && !this.edges[edge.alternateId]) {
+        if (!this.edges[edge.id] && edge.alternateId && !this.edges[edge.alternateId]) {
+          // ezt az attributot nem toljuk át szerverről mivel mindig defaultba visible
+          edge.visible = visible;
           this.edges.arr.push(edge);
           this.edges[edge.id] = edge;
+          this.nodes[edge.sourceId].edges.push(edge.id);
+          this.nodes[edge.targetId].edges.push(edge.id);
           if (edge.alternateId) {this.edges[edge.alternateId] = edge;}
           this.body += this.generateXmlFromEdge(edge);
         }
@@ -82,6 +88,7 @@ var network;
                 edgeLabelsVisible: true, 
                 layout: 'Tree', 
                 visualStyle: {global:{backgroundColor: "#010101"},nodes:{labelFontColor: "#ffffff", size:65, labelFontSize:11, labelFontWeight:'bold'}, edges:{labelFontColor: "#ffffff", labelFontSize:11, labelFontWeight:'bold'}}});
+      network.filter();
     },
     loadedNodeIds: function() {
       var resp = '';
@@ -97,34 +104,100 @@ var network;
         $loadNodeRelations.show();
       }
       $("#node_panel").show();
-      var match = nodeData.id.match(/p|o|l/);
-      if (match[0] == 'p') {
+      var match = nodeData.id.match(/(.*?)\d+$/);
+      if (match[1] == 'p') {
         $nodeAttributePanels.hide();
         $personNode.show();
-        $selectedNodeType.val('p');
-        $personNode.find("#person_name").html("<a href='/people/"+nodeData.id.match(/\d+/)+"'>"+nodeData.label+"</a>");
-        $personNode.find("#mothers_name").text(nodeData.mothersName);
-        $personNode.find("#born_at").text(nodeData.bornAt);
-      } else if (match[0] == 'o'){
+        $selectedElemType.val('p');
+        $personNode.find(".name").html("<a href='/people/"+nodeData.id.match(/\d+$/)+"'>"+nodeData.label+"</a>");
+        $personNode.find(".mothers_name").text(nodeData.mothersName);
+        $personNode.find(".born_at").text(nodeData.bornAt);
+      } else if (match[1] == 'o'){
         $nodeAttributePanels.hide();
         $organizationNode.show();
-        $selectedNodeType.val('o');
+        $selectedElemType.val('o');
         log($organizationNode)
-        $organizationNode.find("#organization_name").html("<a href='/organizations/"+nodeData.id.match(/\d+/)+"'>"+nodeData.label+"</a>");
-        $organizationNode.find("#address").text(nodeData.address);
-        $organizationNode.find("#founded_at").text(nodeData.foundedAt);
-        $organizationNode.find("#year").text(nodeData.year);
-        $organizationNode.find("#turnover").text(nodeData.turnover);
-        $organizationNode.find("#balance").text(nodeData.balance);
-      } else if (match[0] == 'l'){
+        $organizationNode.find(".name").html("<a href='/organizations/"+nodeData.id.match(/\d+$/)+"'>"+nodeData.label+"</a>");
+        $organizationNode.find(".address").text(nodeData.address);
+        $organizationNode.find(".founded_at").text(nodeData.foundedAt);
+        $organizationNode.find(".year").text(nodeData.year);
+        $organizationNode.find(".turnover").text(nodeData.turnover);
+        $organizationNode.find(".balance").text(nodeData.balance);
+      } else if (match[1] == 'l'){
         $nodeAttributePanels.hide();
         $litigationNode.show();
-        $selectedNodeType.val('l');
-        $litigationNode.find("#litigation_name").html("<a href='/litigations/"+nodeData.id.match(/\d+/)+"'>"+nodeData.label+"</a>");
-        $litigationNode.find("#start_time").text(nodeData.startTime);
-        $litigationNode.find("#end_time").text(nodeData.endTime);
+        $selectedElemType.val('l');
+        $litigationNode.find(".name").html("<a href='/litigations/"+nodeData.id.match(/\d+$/)+"'>"+nodeData.label+"</a>");
+        $litigationNode.find(".start_time").text(nodeData.startTime);
+        $litigationNode.find(".end_time").text(nodeData.endTime);
+      } else if (match[1] == 'o2o'){
+        $nodeAttributePanels.hide();
+        $o2oEdge.show();
+        $selectedElemType.val('o2o');
+        $o2oEdge.find(".name").text(nodeData.label);
+        $o2oEdge.find(".org:first").text(nodeData.org);
+        $o2oEdge.find(".org:last").text(nodeData.relatedOrg);
+        $o2oEdge.find(".issued_at").text(nodeData.issuedAt);
+        $o2oEdge.find(".source").text(nodeData.source);
+        $o2oEdge.find(".value").text(nodeData.value);
+        $o2oEdge.find(".contract").html("<a href='/contracts/"+nodeData.contractId+"' target='_blank'>"+nodeData.contractName+"</a>");
+      } else if (match[1] == 'p2p'){
+        $nodeAttributePanels.hide();
+        $p2pEdge.show();
+        $selectedElemType.val('p2p');
+        $p2pEdge.find(".name").text(nodeData.label);
+        $p2pEdge.find(".person:first").text(nodeData.person);
+        $p2pEdge.find(".person:last").text(nodeData.relatedPerson);
+        $p2pEdge.find(".start_time").text(nodeData.startTime);
+        $p2pEdge.find(".end_time").text(nodeData.endTime);
+        $p2pEdge.find(".source").text(nodeData.source);
+      } else if (match[1] == 'p2o' || match[1] == 'o2p'){
+        $nodeAttributePanels.hide();
+        $p2oEdge.show();
+        $selectedElemType.val('p2o');
+        $p2oEdge.find(".name").text(nodeData.label);
+        $p2oEdge.find(".person").text(nodeData.person);
+        $p2oEdge.find(".org").text(nodeData.org);
+        $p2oEdge.find(".start_time").text(nodeData.startTime);
+        $p2oEdge.find(".end_time").text(nodeData.endTime);
+        $p2oEdge.find(".source").text(nodeData.source);
+      } else if (match[1] == 'o2l'){
+        $nodeAttributePanels.hide();
+        $o2lEdge.show();
+        $selectedElemType.val('o2l');
+        $o2lEdge.find(".name").text(nodeData.label);
+        $o2lEdge.find(".org").text(nodeData.org);
+        $o2lEdge.find(".litigation").text(nodeData.litigation);
+        $o2lEdge.find(".start_time").text(nodeData.startTime);
+        $o2lEdge.find(".end_time").text(nodeData.endTime);
+        $o2lEdge.find(".source").text(nodeData.source);
+      } else if (match[1] == 'p2l'){
+        $nodeAttributePanels.hide();
+        $p2lEdge.show();
+        $selectedElemType.val('p2l');
+        $p2lEdge.find(".person").text(nodeData.person);
+        $p2lEdge.find(".litigation").text(nodeData.litigation);
+        $p2lEdge.find(".start_time").text(nodeData.startTime);
+        $p2lEdge.find(".end_time").text(nodeData.endTime);
+        $p2lEdge.find(".source").text(nodeData.source);
       }
-      $selectedNodeId.val(match[2]);
+      $selectedElemId.val(match[2]);
+    }, 
+    filter: function() {
+      vis.filter('edges', function(edge) {
+        var visible = $('input[value='+edge.id+']').is(':checked');
+        network.edges[edge.id].visible = visible;
+        return visible;
+      });
+      vis.filter('nodes', function(node) {
+        var nodeEdges = network.nodes[node.id].edges,
+            visible = false;
+        // node annak függvényében látható hogy van e látható kapcsolata
+        for (var i=0; nodeEdges.length > 0; i++) {
+          if (network.edges[nodeEdges[i]].visible) {visible = true}
+        }
+        return visible;
+      });
     },
     showAjaxLoader: function() {
       $relationgraph.html('<img src="/images/network-ajax-loader.gif" class="ajax-loader"/>');
@@ -152,12 +225,18 @@ var network;
       $("a[href='#search_content']").parent().addClass("active");
     }
 
-    $selectedNodeId = $("#selected_node_id");
-    $selectedNodeType = $("#selected_node_type");
+    $selectedElemId = $("#selected_elem_id");
+    $selectedElemType = $("#selected_elem_type");
+    $selectedType = $("#selected_type");
     $searchType = $("#search_type");
     $personNode = $("#person_node");
     $organizationNode = $("#organization_node");
     $litigationNode = $("#litigation_node");
+    $o2oEdge = $("#o2o_edge");
+    $p2pEdge = $("#p2p_edge");
+    $p2oEdge = $("#p2o_edge");
+    $o2lEdge = $("#o2l_edge");
+    $p2lEdge = $("#p2l_edge");
     $loadNodeRelations = $("#load_node_relations");
     $nodeAttributePanels = $(".node_attributes");
     $relationgraph = $("#relationgraph");
@@ -170,9 +249,9 @@ var network;
     $('#litigation_autocomplete').change(setSearchType);
 
     vis = new org.cytoscapeweb.Visualization("relationgraph", {swfPath: "/swf/CytoscapeWeb", flashInstallerPath: "/swf/playerProductInstall"});
-    if ($selectedNodeType.val().length > 0) {
+    if ($selectedElemType.val().length > 0) {
       log('Konkrét node kapcsolati hálójának kirajzolása');
-      network.discoveredNodes.push($selectedNodeType.val()+$selectedNodeId.val());
+      network.discoveredNodes.push($selectedElemType.val()+$selectedElemId.val());
       network.draw(xmmlGraph);
     }
     vis.ready(function() {
@@ -183,18 +262,18 @@ var network;
         });
         network.initialized = true;
       }
-      vis.select('nodes', [$selectedNodeType.val()+$selectedNodeId.val()]);
-      network.showNodeInfo(vis.node($selectedNodeType.val()+$selectedNodeId.val()).data);
+      vis.select($selectedType.val() + 's', [$selectedElemType.val()+$selectedElemId.val()]);
+      network.showNodeInfo(vis[$selectedType.val()]($selectedElemType.val()+$selectedElemId.val()).data);
     });
 
     $loadNodeRelations.click(function(e) {
       e.preventDefault();
       network.showAjaxLoader();
-      $.ajax({url:'/site_search/?id='+$selectedNodeId.val()+'&type='+$selectedNodeType.val()+'&nodes='+network.loadedNodeIds(), 
+      $.ajax({url:'/site_search/?id='+$selectedElemId.val()+'&type='+$selectedElemType.val()+'&nodes='+network.loadedNodeIds(), 
               dataType: 'json',
               success: function(response) {
                 log('Node kapcsolatai válasz: ', response);
-                network.discoveredNodes.push($selectedNodeType.val()+$selectedNodeId.val());
+                network.discoveredNodes.push($selectedElemType.val()+$selectedElemId.val());
                 network.draw(response); 
               }});
     });
@@ -205,14 +284,14 @@ var network;
                                      },
                                      select: function(event, ui) {
                                        network.showAjaxLoader();
-                                       $selectedNodeId.val(ui.item.id);
-                                       $selectedNodeType.val($searchType.val());
+                                       $selectedElemId.val(ui.item.id);
+                                       $selectedElemType.val($searchElemType.val());
                                        $.ajax({url: '/site_search/?id='+ui.item.id+'&nodes='+network.loadedNodeIds()+'&type='+$searchType.val(),
                                                dataType: 'json',
                                                success: function(response) { 
                                                  log('Node kapcsolatai válasz: ', response);
                                                  $(event.target).val('');
-                                                 network.discoveredNodes.push($selectedNodeType.val()+$selectedNodeId.val());
+                                                 network.discoveredNodes.push($selectedElemType.val()+$selectedElemId.val());
                                                  network.draw(response); 
                                                }});
                                      }});
@@ -251,14 +330,8 @@ var network;
       e.preventDefault();
       network.clean();
     });
-    $("#checkbox_list input").change(function() {
-      var bp={edges:{}}; 
-      for(var i=0; network.edges.arr.length>i;i++) {
-        if (network.edges.arr[i].label==$(this).next().text()) { 
-          bp.edges[network.edges.arr[i].id]={opacity:0}; 
-        }
-      }
-      vis.visualStyleBypass(bp)
+    $("#checkbox_list input").click(function() {
+      network.filter();
     });
   });
 })(jQuery);

@@ -43,72 +43,80 @@ class SiteSearchController < ApplicationController
                     'l'
                   end
     edge[:weight] = relation.weight
-    logger.debug "lofa_10"
     if target_type == source_type && target_type == 'o'
-    logger.debug "lofa_12"
       edge[:id] = "o2o#{relation.id}"
-    logger.debug "lofa_13"
       edge[:alternateId] = "o2o#{relation.interorg_relation.id}"
-    logger.debug "lofa_14"
       edge[:label] = relation.o2o_relation_type.name
+      edge[:org] = relation.organization.name
+      edge[:relatedOrg] = relation.related_organization.name
+      edge[:issuedAt] = relation.issued_at
+      edge[:source] = relation.information_source.name
+      edge[:value] = relation.value
+      edge[:contract] = relation.contract.name
     elsif target_type == source_type && target_type == 'p'
-    logger.debug "lofa_15"
       edge[:id] = "p2p#{relation.id}"
-    logger.debug "lofa_17"
       edge[:alternateId] = "p2p#{relation.interpersonal_relation.id}"
-    logger.debug "lofa_18"
       edge[:label] = relation.p2p_relation_type.name
+      edge[:person] = relation.person.name
+      edge[:relatedPerson] = relation.related_person.name
+      edge[:startTime] = relation.start_time
+      edge[:endTime] = relation.end_time
+      edge[:source] = relation.information_source.name
     elsif target_type == 'p' && source_type == 'o'
       edge[:id] = "p2o#{relation.id}"
-    logger.debug "lofa_19"
       edge[:alternateId] = "o2p#{relation.id}"
-    logger.debug "lofa_10"
       edge[:label] = relation.p2o_relation_type.name
-    logger.debug "lofa_21"
+      edge[:person] = relation.person.name
+      edge[:org] = relation.organization.name
+      edge[:startTime] = relation.start_time
+      edge[:endTime] = relation.end_time
+      edge[:source] = relation.information_source.name
     elsif target_type == 'o' && source_type == 'p'
-    logger.debug "lofa_22"
       edge[:id] = "o2p#{relation.id}"
-    logger.debug "lofa_23"
       edge[:alternateId] = "p2o#{relation.id}"
-    logger.debug "lofa_24"
-      puts relation.o2p_relation_type.inspect
-    logger.debug "lofa_25"
       edge[:label] = relation.o2p_relation_type.name
-    logger.debug "lofa_26"
+      edge[:person] = relation.person.name
+      edge[:org] = relation.organization.name
+      edge[:startTime] = relation.start_time
+      edge[:endTime] = relation.end_time
+      edge[:source] = relation.information_source.name
     elsif target_type == 'o' && source_type == 'l'
-    logger.debug "lofa_27"
-      edge[:id] = "o2l#{relation.id}"
-    logger.debug "lofa_20"
-      edge[:label] = relation.try.o2p_relation_type._?.name || relation.o2o_relation_type.name
-    logger.debug "lofa_29"
-    elsif target_type == 'l' && source_type == 'o'
-    logger.debug "lofa_30"
-      edge[:id] = "l2o#{relation.id}"
-    logger.debug "lofa_31"
-      edge[:label] = relation.try.p2o_relation_type._?.name || relation.o2o_relation_type.name
-    logger.debug "lofa_32"
+      if relation.try.o2p_relation_type._?.name
+        edge[:id] = "o2p#{relation.id}"
+        edge[:label] = relation.o2p_relation_type.name
+        edge[:org] = relation.organization.name
+      elsif relation.try.p2o_relation_type._?.name
+        edge[:id] = "p2o#{relation.id}"
+        edge[:label] = relation.p2o_relation_type.name
+        edge[:org] = relation.organization.name
+      elsif relation.try.o2o_relation_type._?.name
+        edge[:id] = "o2o#{relation.id}"
+        edge[:label] = relation.o2o_relation_type.name
+        edge[:org] = relation.organization.name
+      end
+      edge[:litigation] = litigation.name
+      edge[:startTime] = relation.start_time
+      edge[:endTime] = relation.end_time
+      edge[:source] = relation.information_source.name
     elsif target_type == 'p' && source_type == 'l'
-    logger.debug "lofa_33"
-      edge[:id] = "p2l#{relation.id}"
-    logger.debug "lofa_34"
-      puts relation.inspect
-    logger.debug "lofa_35"
-      edge[:label] = relation.try.p2o_relation_type._?.name || relation.p2p_relation_type.name
-    logger.debug "lofa_36"
-    elsif target_type == 'l' && source_type == 'p'
-    logger.debug "lofa_37"
-      edge[:id] = "l2p#{relation.id}"
-    logger.debug "lofa_38"
-      edge[:label] = relation.try.o2p_relation_type._?.name || relation.p2p_relation_type.name
-    logger.debug "lofa_39"
+      if relation.try.p2o_relation_type._?.name
+        edge[:id] = "p2o#{relation.id}"
+        edge[:label] = relation.p2o_relation_type.name
+      elsif relation.try.o2p_relation_type._?.name
+        edge[:id] = "o2p#{relation.id}"
+        edge[:label] = relation.o2p_relation_type.name
+      elsif relation.try.p2p_relation_type._?.name
+        edge[:id] = "p2p#{relation.id}"
+        edge[:label] = relation.p2p_relation_type.name
+      end
+      edge[:litigation] = litigation.name
+      edge[:startTime] = relation.start_time
+      edge[:endTime] = relation.end_time
+      edge[:source] = relation.information_source.name
     end
-    logger.debug "lofa_40"
     edge[:sourceId] = "#{source_type}#{source.id}"
-    logger.debug "lofa_41"
     edge[:targetId] = "#{target_type}#{target.id}"
-    logger.debug "lofa_42"
     @network[:edges] << edge
-    logger.debug "lofa_43"
   end
 
   def generate_litigation_relations_for_litigations
@@ -219,7 +227,6 @@ class SiteSearchController < ApplicationController
         end
       end
     elsif node.kind_of?(Organization)
-      Rails.logger.info node.inspect
       node.person_to_org_non_litigation_relations.each do |personal_relation|
         if @non_litigation_nodes.include? personal_relation.person
           generate_edge(personal_relation.person, 'p', personal_relation, node)
@@ -235,26 +242,19 @@ class SiteSearchController < ApplicationController
 
   def generate_network
     # ha person kapcsolatait fedik fel
-    if params[:type]=='p'
+    if params[:type] == 'p'
       resource = Person.find(params[:id])
       @explored_node = resource
       @persons << resource unless @persons.include? resource
       
       # személyes kapcsolatok
       resource.personal_non_litigation_relations.each do |personal_relation|
-        logger.debug "================="
-        logger.debug personal_relation.related_person.name
         # ha még nem látható az oldalon akkor kigeneráljuk a személyt
         unless @persons.include? personal_relation.related_person
-          logger.debug "lofa1"
           @persons << personal_relation.related_person
-          logger.debug "lofa2"
           generate_node(personal_relation.related_person, 'p')
-          logger.debug "lofa3"
           generate_edge(personal_relation.related_person, 'p', personal_relation, resource)
-          logger.debug "lofa4"
         end
-          logger.debug "lofa5"
       end
       
       # intézményes kapcsolatok  
@@ -268,45 +268,18 @@ class SiteSearchController < ApplicationController
       end
       
       # személyes peres kapcsolatok
-      @litigation_relations << resource.personal_litigation_relations
+      @litigation_relations += resource.personal_litigation_relations
       # intézményes peres kapcsolatok
-      @litigation_relations << resource.person_to_org_litigation_relations
+      @litigation_relations += resource.person_to_org_litigation_relations
 
-      @litigation_relations.flatten! 
       @non_litigation_nodes = @persons + @organizations
 
       # litigation kapcsolatok kigenerálása
       generate_litigation_relations_for_litigations
+      generate_node(resource, params[:type])
     # ha organization kapcsolatait fedik fel
     elsif params[:type] == 'o'
-      resource = Organization.find(params[:id])
-      @explored_node = resource
-      @organizations << resource unless @organizations.include? resource
-
-      # személyes kapcsolatok
-      resource.person_to_org_non_litigation_relations.each do |personal_relation|
-        @persons << personal_relation.person
-        generate_node(personal_relation.person, 'p')
-        generate_edge(personal_relation.person, 'p', personal_relation, resource)
-      end
-
-      # intézményes kapcsolatok  
-      resource.interorg_non_litigation_relations.each do |org_relation|
-        @organizations << org_relation.related_organization
-        generate_node(org_relation.related_organization, 'o')
-        generate_edge(org_relation.related_organization, 'o', org_relation, resource)
-      end
-
-      # személyes peres kapcsolatok
-      @litigation_relations << resource.person_to_org_litigation_relations
-      # intézményes peres kapcsolatok
-      @litigation_relations << resource.interorg_litigation_relations
-
-      @litigation_relations.flatten! 
-      @non_litigation_nodes = @persons + @organizations
-
-      # litigation kapcsolatok kigenerálása
-      generate_litigation_relations_for_litigations
+      set_network_for_organization(params[:id])
     # ha litigation kapcsolatait fedik fel
     elsif params[:type] == 'l'
       resource = Litigation.find(params[:id])
@@ -314,10 +287,49 @@ class SiteSearchController < ApplicationController
       @litigations << resource
       @non_litigation_nodes = @persons + @organizations
       generate_litigation_relations_for_litigation(resource)
+      generate_node(resource, params[:type])
+    # ha transaction kapcsolatait fedik fel  
+    elsif params[:type] == 't'
+      interorg_relation = InterorgRelation.find(params[:id])
+      if interorg_relation
+        set_network_for_organization(interorg_relation.organization)
+        set_network_for_organization(interorg_relation.related_organization)
+      end
     end
     # person és organization node-ok közötti kapcsolatok kigenerálása
     generate_node_edges_for_visible_non_litigation_nodes
-    generate_node(resource, params[:type])
+  end
+
+  def set_network_for_organization(id)
+    resource = Organization.find(id)
+    @explored_node = resource
+    @organizations << resource unless @organizations.include? resource
+
+    # személyes kapcsolatok
+    resource.person_to_org_non_litigation_relations.each do |personal_relation|
+      @persons << personal_relation.person
+      generate_node(personal_relation.person, 'p')
+      generate_edge(personal_relation.person, 'p', personal_relation, resource)
+    end
+
+    # intézményes kapcsolatok  
+    resource.interorg_non_litigation_relations.each do |org_relation|
+      @organizations << org_relation.related_organization
+      generate_node(org_relation.related_organization, 'o')
+      generate_edge(org_relation.related_organization, 'o', org_relation, resource)
+    end
+
+    # személyes peres kapcsolatok
+    @litigation_relations += resource.person_to_org_litigation_relations
+    # intézményes peres kapcsolatok
+    @litigation_relations += resource.interorg_litigation_relations
+
+    @non_litigation_nodes += @persons 
+    @non_litigation_nodes += @organizations
+
+    # litigation kapcsolatok kigenerálása
+    generate_litigation_relations_for_litigations
+    generate_node(resource, 'o')
   end
 
   def index
@@ -328,6 +340,7 @@ class SiteSearchController < ApplicationController
       @persons = []
       @organizations = []
       @litigations = []
+      @non_litigation_nodes = []
       # ajax request
       # ilyenkor figyeljük hogy milyen node-ok vannak már az oldalon, és az új kigenerálandó node-ok között milyen kapcsolatok vannak
       if request.xhr?

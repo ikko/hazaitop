@@ -39,7 +39,7 @@ class OrganizationsController < ApplicationController
   end
 
   def index
-    @this = Organization.listed
+    @this = Organization.order_by(:person_to_org_relations_count, 'desc')
     respond_to do |format| 
       format.html  { hobo_index( @this, :per_page => 10 ) }
       format.xml   { render( :xml  => @this ) and return }

@@ -710,6 +710,7 @@ h2 {
 .node_attributes {
   margin: 10px;
   line-height: 16px;
+  display: none;
 }
 
 .node_details_block .details_header {

@@ -7,9 +7,9 @@ class FrontController < ApplicationController
   caches_page :development, :expires_in => 90.minutes
 
   def index
-    @people        = Person.listed.paginate(:per_page=>10, :page=>params[:page])
-    @organizations = Organization.listed.paginate(:per_page=>10, :page=>params[:page])
-    @contracts     = Contract.paginate(:per_page=>10, :page=>params[:page])
+    @people        = Person.order_by(:interpersonal_relations_count, 'desc').paginate(:per_page=>10, :page=>params[:page])
+    @organizations = Organization.order_by(:person_to_org_relations_count, 'desc').paginate(:per_page=>10, :page=>params[:page])
+    @transactions  = InterorgRelation.paginate(:per_page=>10, :page=>params[:page])
   end
 
   index_action :person_pagination do
@@ -21,11 +21,7 @@ class FrontController < ApplicationController
   end
 
   index_action :trans_pagination do
-  #  @transactions =
-  end
-
-  index_action :contract_pagination do
-    @contracts = Contract.apply_scopes(:order_by => parse_sort_param(:contracted_value, :no_of_proposals)).paginate(:per_page=>10, :page=>params[:page])
+    @transactions = InterorgRelation.paginate(:per_page=>10, :page=>params[:page])
   end
 
   def impressum; end

@@ -474,8 +474,8 @@
     <interpersonal-relations-count-heading:><span>Személyes kapcsolat</span></interpersonal-relations-count-heading:>
     <person-to-org-relations-count-heading:><span>Szervezeti kapcsolat</span></person-to-org-relations-count-heading:>
     <information-source-heading:><span>Információ forrás</span></information-source-heading:>
-    <this-view:><a/> <a href="/site_search/?p=#{this.id}"><img src="/images/plusz.png"/></a> </this-view:>
-    <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{ :action=> 'person_pagination', :query=>params[:query], :sort=>params[:sort]}"/>
+    <this-view:><a/> <a href="/site_search/?type=p&id=#{this.id}"><img src="/images/plusz.png"/></a> </this-view:>
+    <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{ :action=> 'person_pagination', :sort=>params[:sort]}"/>
   </table-plus>
   <div param="table_footer" class="table_footer"><a href="#{people_path}">További személyek &gt;</a></div>
 </def>
@@ -496,13 +496,14 @@
     <person-to-org-relations-count-heading:><span>Személyes kapcsolat</span></person-to-org-relations-count-heading:>
     <interorg-relations-count-heading:><span>Szervezeti kapcsolat</span></interorg-relations-count-heading:>
     <information-source-heading:><span>Információ forrás</span></information-source-heading:>
-    <this-view:><a/> <a href="/site_search/?p=#{this.id}"><img src="/images/plusz.png"/></a> </this-view:>
-    <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{ :action=>'org_pagination', :query=>params[:query], :sort=>params[:sort]}"/>
+    <this-view:><a/> <a href="/site_search/?type=o&id=#{this.id}"><img src="/images/plusz.png"/></a> </this-view:>
+    <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{ :action=>'org_pagination', :sort=>params[:sort]}"/>
   </table-plus>
   <div param="table_footer" class="table_footer"><a href="#{organizations_path}">További szervezetek &gt;</a></div>
 </def>
 
 <def tag="table-plus-trans">
+  <!-- TODO: order list kell ide -->
   <table-plus fields="this, city, street, zip_code, person_to_org_relations_count, interorg_relations_count, information_source" without-search-form merge>
     <Organization-heading:><span>Név</span></Organization-heading:>
     <city-heading:><span>Város</span></city-heading:>
@@ -511,27 +512,9 @@
     <person-to-org-relations-count-heading:><span>Személyes kapcsolat</span></person-to-org-relations-count-heading:>
     <interorg-relations-count-heading:><span>Szervezeti kapcsolat</span></interorg-relations-count-heading:>
     <information-source-heading:><span>Információ forrás</span></information-source-heading:>
-    <this-view:><a/> <a href="/site_search/?p=#{this.id}"><img src="/images/plusz.png"/></a> </this-view:>
-    <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'trans_pagination', :query=>params[:query], :date_from=>params[:date_from], :date_to=>params[:date_to], :amount_from=>params[:amount_from], :amount_to=>params[:amount_to], :sort=>params[:sort]}"/>
+    <this-view:><a/> <a href="/site_search/?type=t&id=#{this.id}"><img src="/images/plusz.png"/></a> </this-view:>
+    <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'trans_pagination', :sort=>params[:sort]}"/>
   </table-plus>
-</def>
-
-<def tag="table-plus-contract">
-  <div class="order_list">
-    <a href="/front/contract_pagination/?sort=-contracted_value" class="left #{!params[:sort] || params[:sort]=='-contracted_value' ? 'active' : ''}">Érték szerint</a>
-    <div class="separator left">|</div>
-    <a href="/front/contract_pagination/?sort=-no_of_proposals" class="left #{params[:sort] && params[:sort]=='-no_of_proposals' ? 'active' : ''}">Ajánlattevők száma szerint</a>
-  </div>
-  <table-plus fields="name, contracted_value, no_of_proposals, buyer, seller" without-search-form merge>
-    <name-heading:><span>Megnevezés</span></name-heading:>
-    <contracted-value-heading:><span>Szerződési érték</span></contracted-value-heading:>
-    <no-of-proposals-heading:><span>Ajánlattevők száma</span></no-of-proposals-heading:>
-    <buyer-heading:><span>Vevő</span></buyer-heading:>
-    <seller-heading:><span>Eladó</span></seller-heading:>
-    <name-view:><%= this.length>70 ? "#{this[0..70]}..." : this %></name-view:>
-    <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'contract_pagination', :query=>params[:query]}"/>
-  </table-plus>
-  <div class="table_footer"><a href="#{people_path}">További tranzakciók &gt;</a></div>
 </def>
 
 <def tag="collection-litigation">
@@ -542,7 +525,6 @@
     </after-empty-message:>
   </collection>
 </def>
-
 
 <def tag="collection-transaction">
   <collection>
