@@ -194,12 +194,9 @@ namespace :fetch do
             counter += 1
             break if counter > LMAX
           end
-          if number.to_i > 0
-            result[currency] = number.to_i
-          else
-            result['n/a'] = 0 # az első valutát keressük az eredményben, és ha nincs kell valami, különben még beteszi az original stringet
-          end
-          result['original'] = current_line
+          result[:value] = number.to_i
+          result[:currency] = currency
+          result[:original] = current_line
           return result
         end
       end
@@ -239,12 +236,13 @@ namespace :fetch do
     # for lapid in 321000..322999 do 
     # for lapid in 319000..319999 do - in progress
     # old - 319025, 319055,
+    # for lapid in 319020..319999 do 
 
     @log.puts "////////////////////////////////////////////////////////////////////////"
     @log.puts "starting to process at #{Time.now} in #{Rails.root}"
     @log.puts "------------------------------------------------------------------------"
 
-    for lapid in 319020..319999 do 
+    for lapid in 319220..319999 do 
       # 282615 a vége
       puts lapid
       @lines = []
@@ -334,7 +332,7 @@ namespace :fetch do
       @log.puts(name)
 
       #     if !Notification.find_by_name(name)
-      if ertesito
+      if ertesito and ertesito.css(".ertesitoLapszamInfoful span").last
         date = ertesito.css(".ertesitoLapszamInfoful span").last.text.to_date
       else
         date = name[-11..-1].to_date
@@ -415,11 +413,11 @@ namespace :fetch do
 
             puts c_sum_value_afa = look_x_after_between("II.2) A szerződés(ek) értéke", "III.1.1)", i)
 
-            c_currency = h.keys.first
-            c_sum_value = h[ h.keys.first ]
-            c_original_sum_value = h['original']
+            c_currency = h[:currency]
+            c_sum_value = h[:value]
+            c_original_sum_value = h[:original]
             puts h.inspect
-            puts commify( h[h.keys.first] )
+            puts commify( h[:value] )
 
             # az aktuális hirdetmény vége
             puts v = get_pos("E hirdetmény feladásának dátuma", i)
@@ -456,8 +454,8 @@ namespace :fetch do
               puts c_becsult_afa = look_x_after_between("Az ellenszolgáltatás eredetileg becsült értéke",
                                                         "Az ellenszolgáltatás szerződésbeli összege", j)
               puts h.inspect
-              puts commify( h[h.keys.first] )
-              puts c_becsult = h[h.keys.first]
+              puts commify( h[:value] )
+              puts c_becsult = h[:value]
 
 
               puts ":: Az ellenszolgáltatás szerződésbeli összege"
@@ -471,12 +469,12 @@ namespace :fetch do
               puts c_ertek_afa = look_x_after_between( "Az ellenszolgáltatás szerződésbeli összege",
                                                       "a legalacsonyabb ellenszolgáltatást tartalmazó ajánlat", j)
               puts h.inspect
-              puts commify( h[h.keys.first] )
-              puts c_ertek = h[h.keys.first]
-              puts c_eredeti_ertek = h['original']
+              puts commify( h[:value] )
+              puts c_ertek = h[:value]
+              puts c_eredeti_ertek = h[:original]
 
-              @sum = @sum + h[h.keys.first]
-              @sums << commify( h[h.keys.first] )
+              @sum = @sum + h[:value]
+              @sums << commify( h[:value] )
 
               e = look("V.2.2) Ha az eljárás eredménytelen, illetve szerződéskötésre nem kerül sor, ennek indoka", j)
 
@@ -488,7 +486,7 @@ namespace :fetch do
 
               break if c_ertek == 0 and eredmenytelen
 
-              @ertekek << [ h.keys.first, commify( h[ h.keys.first ] ), megrendelo, vallalkozo, c_ertek_afa,  h[ h.keys.first ]  ]
+              @ertekek << [ h[:value], commify( h[:value] ), megrendelo, vallalkozo, c_ertek_afa,  case_number ]
 
               if vallalkozo[-4..-1] == ' Kft' or
                 vallalkozo[-3..-1] == ' Rt' or
@@ -610,7 +608,7 @@ namespace :fetch do
                                                                      # áfa info:
                                                                      look_x_after_between( "a legalacsonyabb ellenszolgáltatást tartalmazó ajánlat", "Valószínűsíthető", j)
                                                                      puts h.inspect
-                                                                     puts commify( h[h.keys.first] )
+                                                                     puts commify( h[:value] )
 
                                                                      # ugrás a következő vállalkozóra ebben a hirdetményben
                                                                      j = get_pos("IV. szakasz", j)
