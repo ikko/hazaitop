@@ -304,8 +304,8 @@ class SiteSearchController < ApplicationController
       @this = interorg_relation.organization
       @target = interorg_relation.related_organization
       if interorg_relation
-        set_network_for_organization(interorg_relation.organization)
-        set_network_for_organization(interorg_relation.related_organization)
+        set_network_for_organization(@this)
+        set_network_for_organization(@target)
       end
     end
     # person és organization node-ok közötti kapcsolatok kigenerálása

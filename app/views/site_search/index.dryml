@@ -143,8 +143,10 @@
       <div class="left" id="relationgraph"></div>
     </div>
     <div id="map_node_details">
-      <node-show-page without-head without-header without-to-map/>
-      <node-show-page with="&@target" without-head without-header without-to-map/>
+      <node-show-page without-head without-header without-to-map without-footer>
+      <node-show-page with="&@target" without-head without-header without-to-map without-footer>
+        <content: style="display:none"/>
+      </node-show-page>
     </div>
   </content:>
 </page>
