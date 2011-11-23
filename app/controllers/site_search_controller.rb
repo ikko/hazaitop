@@ -253,7 +253,7 @@ class SiteSearchController < ApplicationController
   def generate_network
     # ha person kapcsolatait fedik fel
     if params[:type] == 'p'
-      resource = Person.find(params[:id])
+      @this = resource = Person.find(params[:id])
       @explored_node = resource
       @persons << resource unless @persons.include? resource
       
@@ -292,7 +292,7 @@ class SiteSearchController < ApplicationController
       set_network_for_organization(params[:id])
     # ha litigation kapcsolatait fedik fel
     elsif params[:type] == 'l'
-      resource = Litigation.find(params[:id])
+      @this = resource = Litigation.find(params[:id])
       @explored_node = resource
       @litigations << resource
       @non_litigation_nodes = @persons + @organizations
@@ -301,6 +301,8 @@ class SiteSearchController < ApplicationController
     # ha transaction kapcsolatait fedik fel  
     elsif params[:type] == 't'
       interorg_relation = InterorgRelation.find(params[:id])
+      @this = interorg_relation.organization
+      @target = interorg_relation.related_organization
       if interorg_relation
         set_network_for_organization(interorg_relation.organization)
         set_network_for_organization(interorg_relation.related_organization)
@@ -311,7 +313,7 @@ class SiteSearchController < ApplicationController
   end
 
   def set_network_for_organization(id)
-    resource = Organization.find(id)
+    @this = resource = Organization.find(id)
     @explored_node = resource
     @organizations << resource unless @organizations.include? resource
 

@@ -143,27 +143,8 @@
       <div class="left" id="relationgraph"></div>
     </div>
     <div id="map_node_details">
-      <header class="content-header">
-        <h2>Gyurcsány Ferenc</h2>
-      </header>
-      <div class="node_details_block left">
-        <div class="details_header">Betöltött hivatalok:</div>
-        Altus Befektetési és<br /> Vagyonkezelő Rt. vezérigazgató
-        Miniszterelnök
-      </div>
-      <div class="node_details_block left">
-        <div class="details_header">Személyes adatok:</div>
-        <div class="strong detail">Születési idő</div>1961.06.04<br />
-        <div class="strong detail">Anyja neve</div>Varga Katalin<br />
-        <div class="strong detail">Születési hely</div>Budapest<br />
-        <div class="strong detail">Információ forrás</div><a href="http://k-monitor.hu">www.k-monitor.hu</a><br />
-      </div>
-      <div class="node_details_block left">
-        <div class="details_header">Linkek:</div>
-        <a href="http://k-monitor.hu">Megtekintés a k-monitoron</a><br />
-        <a href="http://parlament.hu">Életrajz (parlament.hu)</a>
-      </div>
-      <div class="clear"></div>
+      <node-show-page without-head without-header without-to-map/>
+      <node-show-page with="&@target" without-head without-header without-to-map/>
     </div>
   </content:>
 </page>

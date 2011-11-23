@@ -30,20 +30,5 @@ class LitigationsController < ApplicationController
 
   def show
     @this = find_instance
-    person_to_org_relation_ids = []
-    interpersonal_relation_ids = []
-    interorg_relation_ids = []
-    @this.litigation_relations.each do |rel|
-      if rel.litigable_type == "PersonToOrgRelation"
-        person_to_org_relation_ids << rel.litigable_id
-      elsif rel.litigable_type == "InterpersonalRelation"
-        interpersonal_relation_ids << rel.litigable_id
-      elsif rel.litigable_type == "InterorgRelation"
-        interorg_relation_ids << rel.litigable_id
-      end
-    end
-    @person_to_org_relations = PersonToOrgRelation.find_all_by_id   person_to_org_relation_ids
-    @interpersonal_relations = InterpersonalRelation.find_all_by_id interpersonal_relation_ids
-    @interorg_relations      = InterorgRelation.find_all_by_id      interorg_relation_ids
   end
 end
