@@ -35,6 +35,7 @@ class SiteSearchController < ApplicationController
 
   def generate_edge(source, source_type, relation, target)
     edge = {}
+    no_data = 'Nincs adat'
     target_type = if target.kind_of?(Organization) 
                     'o'
                   elsif target.kind_of?(Person)
@@ -50,10 +51,10 @@ class SiteSearchController < ApplicationController
       edge[:relationTypeId] = "o2o#{relation.o2o_relation_type.id}"
       edge[:org] = relation.organization.name
       edge[:relatedOrg] = relation.related_organization.name
-      edge[:issuedAt] = relation.issued_at
+      edge[:issuedAt] = relation.issued_at.present? ? relation.issued_at : no_data
       edge[:source] = relation.information_source.name
       edge[:value] = relation.value
-      edge[:contract] = relation.contract.name
+      edge[:contract] = relation.contract.present? ? relation.contract.name || no_data
     elsif target_type == source_type && target_type == 'p'
       edge[:id] = "p2p#{relation.id}"
       edge[:alternateId] = "p2p#{relation.interpersonal_relation.id}"
@@ -61,8 +62,8 @@ class SiteSearchController < ApplicationController
       edge[:relationTypeId] = "p2p#{relation.p2p_relation_type.id}"
       edge[:person] = relation.person.name
       edge[:relatedPerson] = relation.related_person.name
-      edge[:startTime] = relation.start_time
-      edge[:endTime] = relation.end_time
+      edge[:startTime] = relation.start_time.present? ? relation.start_time : no_data
+      edge[:endTime] = relation.end_time.present? ? relation.end_time : no_data
       edge[:source] = relation.information_source.name
     elsif target_type == 'p' && source_type == 'o'
       edge[:id] = "p2o#{relation.id}"
@@ -71,8 +72,8 @@ class SiteSearchController < ApplicationController
       edge[:relationTypeId] = "p2o#{relation.p2o_relation_type.id}"
       edge[:person] = relation.person.name
       edge[:org] = relation.organization.name
-      edge[:startTime] = relation.start_time
-      edge[:endTime] = relation.end_time
+      edge[:startTime] = relation.start_time.present? ? relation.start_time : no_data
+      edge[:endTime] = relation.end_time.present? ? relation.end_time : no_data
       edge[:source] = relation.information_source.name
     elsif target_type == 'o' && source_type == 'p'
       edge[:id] = "o2p#{relation.id}"
@@ -81,9 +82,9 @@ class SiteSearchController < ApplicationController
       edge[:relationTypeId] = "o2p#{relation.o2p_relation_type.id}"
       edge[:person] = relation.person.name
       edge[:org] = relation.organization.name
-      edge[:startTime] = relation.start_time
-      edge[:endTime] = relation.end_time
-      edge[:source] = relation.information_source.name
+      edge[:startTime] = relation.start_time.present? ? relation.start_time : no_data
+      edge[:endTime] = relation.end_time.present? ? relation.end_time : no_data
+      edge[:source] = relation.information_source.name || no_data
     elsif target_type == 'o' && source_type == 'l'
       if relation.try.o2p_relation_type._?.name
         edge[:id] = "o2p#{relation.id}"
@@ -102,8 +103,8 @@ class SiteSearchController < ApplicationController
         edge[:org] = relation.organization.name
       end
       edge[:litigation] = litigation.name
-      edge[:startTime] = relation.start_time
-      edge[:endTime] = relation.end_time
+      edge[:startTime] = relation.start_time.present? ? relation.start_time : no_data
+      edge[:endTime] = relation.end_time.present? ? relation.end_time : no_data
       edge[:source] = relation.information_source.name
     elsif target_type == 'p' && source_type == 'l'
       if relation.try.p2o_relation_type._?.name
@@ -120,8 +121,8 @@ class SiteSearchController < ApplicationController
         edge[:relationTypeId] = "p2p#{relation.p2p_relation_type.id}"
       end
       edge[:litigation] = litigation.name
-      edge[:startTime] = relation.start_time
-      edge[:endTime] = relation.end_time
+      edge[:startTime] = relation.start_time.present? ? relation.start_time : no_data
+      edge[:endTime] = relation.end_time.present? ? relation.end_time : no_data
       edge[:source] = relation.information_source.name
     end
     edge[:sourceId] = "#{source_type}#{source.id}"
