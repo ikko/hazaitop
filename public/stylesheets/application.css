@@ -864,3 +864,7 @@ h2 {
 #map_node_details .section {
   min-height: 300px;
 }
+
+#profil_content li span {
+  font-weight: bold;
+}
