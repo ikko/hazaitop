@@ -96,6 +96,34 @@ var network;
       }
       return resp;
     },
+    nodeClicked: function(event) {
+      log('Node clicked: ', event);
+      var match = event.target.data.id.match(/(.*?)(\d+)$/);
+      network.showNodeInfo(event.target.data);
+      $selectedElemType.val(match[1]);
+      $selectedElemId.val(match[2]);
+    },
+    nodeDblClicked: function(event) {
+      log('Node dblclicked: ', event);
+      var id = $selectedElemType.val()+$selectedElemId.val();
+      $("#map_node_details > .section").hide();
+      $("#node_details_tab a").removeClass('active');
+      // ha már betöltöttük akkor mutatjuk, egyébként ajaxos lekérés
+      if ($("#"+id+"_content.section").length > 0) {
+        $("#"+id+"_content.section").show();
+        $("#"+id+"_tab").addClass('active');
+      } else {
+        // létrehozunk egy új tabot és content containert hozzá
+        $('#node_details_tab').append("<a href='#' class='active'>"+event.target.data.label+"</a>");
+        $('#map_node_details').append("<div class='section' id='"+id+"'></div>");
+        $.ajax({url:'/site_search/node_show?id='+$selectedElemId.val()+'&type='+$selectedElemType.val(), 
+                success: function(response) {
+                  log('Node részletes infó: ', response);
+                  $('#map_node_details .temp').replaceWith(response); 
+                  $('#map_node_details').append($('#map_node_details .temp body').html()); 
+                }});
+      }
+    },
     showNodeInfo: function(nodeData) {
       if ($.inArray(nodeData.id, this.discoveredNodes) != -1) {
         $loadNodeRelations.hide();
@@ -247,25 +275,8 @@ var network;
     }
     vis.ready(function() {
       if (!network.initialized) {
-        vis.addListener("click", "nodes", function(event) {
-          var match = event.target.data.id.match(/(.*?)(\d+)$/);
-          log('Node clicked: ', event);
-          network.showNodeInfo(event.target.data);
-          $selectedElemType.val(match[1]);
-          $selectedElemId.val(match[2]);
-          $("#map_node_details > .section").hide();
-          // ha már betöltöttük akkor mutatjuk, egyébként ajaxos lekérés
-          if ($("#"+$selectedElemType.val()+$selectedElemId.val()+"_content.section").length > 0) {
-            $("#"+$selectedElemType.val()+$selectedElemId.val()+"_content.section").show();
-          } else {
-            $.ajax({url:'/site_search/node_show?id='+$selectedElemId.val()+'&type='+$selectedElemType.val(), 
-                    success: function(response) {
-                      log('Node részletes infó: ', response);
-                      $('#map_node_details .temp').replaceWith(response); 
-                      $('#map_node_details').append($('#map_node_details .temp body').html()); 
-                    }});
-          }
-        });
+        vis.addListener("click", "nodes", network.nodeClicked)
+        vis.addListener('dblclick', 'nodes', network.nodeDblClicked);
         network.initialized = true;
       }
       // filterezni csak ready eseménykor lehet
@@ -341,5 +352,9 @@ var network;
     $("#checkbox_list input").click(function() {
       network.filter();
     });
+
+    setTimeout(function(){
+      $('body').click();
+    }, 300);
   });
 })(jQuery);

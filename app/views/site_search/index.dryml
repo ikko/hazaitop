@@ -142,6 +142,10 @@
       </div>
       <div class="left" id="relationgraph"></div>
     </div>
+    <div id="node_details_tab">
+      <a href="#" id="#{@this.class.to_s[0..0].downcase}#{@this.id}_tab" class="active"><%= @this.name %></a>
+    </div>
+    <div class="clear"></div>
     <div id="map_node_details">
       <node-show-page without-head without-header without-to-map without-footer>
         <content: id="#{@this.class.to_s[0..0].downcase}#{@this.id}_content"/>

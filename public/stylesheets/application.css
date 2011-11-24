@@ -609,7 +609,7 @@ h2 {
   padding: 7px 0px;
 }
 
-#map_tabs .active {
+#map_tabs .active, #node_details_tab a.active {
   font-weight: bold;
   background-color: #6EA4B0;
 }
@@ -846,4 +846,17 @@ h2 {
 
 .temp {
   display: none;
+}
+
+#node_details_tab a {
+  float: left;
+  display: block;
+  margin-right: 15px;
+  color: black;
+  padding: 15px;
+  background-color: #E6E2E3;
+}
+
+#node_details_tab {
+  margin-top: 30px;
 }
