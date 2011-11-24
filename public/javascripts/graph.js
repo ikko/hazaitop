@@ -202,6 +202,7 @@ var network;
       }
     },
     select: function() {
+      vis.deselect();
       vis.select($selectedType.val() + 's', [$selectedElemType.val()+$selectedElemId.val()]);
     },
     filter: function() {
@@ -362,6 +363,23 @@ var network;
     $("#load_node_details").click(function(event) {
       e.preventDefault();
       network.nodeDblClicked(event, $('#person_node ul span:first').text());
+    });
+
+    $("#node_details_tab a").live('click', function() {
+      var id, match = $(this).attr('id').match(/(p|o|l)(\d+)_tab/);
+      $selectedElemType.val(match[1]);
+      $selectedElemId.val(match[2]);
+      id = $selectedElemType.val() + $selectedElemId.val();
+
+      // lehet edge is de most mi mindenképp nodeot fogunk lekérni
+      $selectedType.val('node');
+      network.select();
+      console.log(id)
+      $("#node_details_tab a").removeClass('active');
+      $("#"+id+"_tab_label").addClass('active');
+      $("#map_node_details > .section").hide();
+      $("#"+id+"_content.section").show();
+      network.showNodeInfo(vis.node(id).data);
     });
 
     setTimeout(function(){
