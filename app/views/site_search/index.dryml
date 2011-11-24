@@ -137,7 +137,8 @@
           <input type="hidden" name="id" id="selected_elem_id" value="#{params[:id]}"/>
           <input type="hidden" name="type" id="selected_elem_type" value="#{params[:type] == 't' ? 'o2o' : params[:type]}"/>
           <input type="hidden" name="search_type" id="search_type"/>
-          <a style="#{params[:type] && params[:id] ? 'display: none' : ''}" href="#" id="load_node_relations">Kapcsolati háló felderítése</a>
+          <a style="#{params[:type] && params[:id] ? 'display: none' : ''}" href="#" id="load_node_relations">Kapcsolati háló felderítése</a><br />
+          <a href="" id="load_node_details" style="display: none">Részletes információk</a>
         </div>
       </div>
       <div class="left" id="relationgraph"></div>

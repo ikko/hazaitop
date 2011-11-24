@@ -860,3 +860,8 @@ h2 {
 #node_details_tab {
   margin-top: 30px;
 }
+
+#map_node_details .section {
+  min-height: 300px;
+  height: 300px;
+}

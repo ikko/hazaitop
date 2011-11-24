@@ -104,6 +104,7 @@ var network;
       $selectedElemId.val(match[2]);
     },
     nodeDblClicked: function(event) {
+      var label = arguments[1] || event.target.data.label;
       log('Node dblclicked: ', event);
       var id = $selectedElemType.val()+$selectedElemId.val();
       $("#map_node_details > .section").hide();
@@ -114,7 +115,7 @@ var network;
         $("#"+id+"_tab").addClass('active');
       } else {
         // létrehozunk egy új tabot és content containert hozzá
-        $('#node_details_tab').append("<a href='#' class='active'>"+event.target.data.label+"</a>");
+        $('#node_details_tab').append("<a href='#' id='"+id+"_tab_label' class='active'>"+label+"</a>");
         $('#map_node_details').append("<div class='section' id='"+id+"'></div>");
         $.ajax({url:'/site_search/node_show?id='+$selectedElemId.val()+'&type='+$selectedElemType.val(), 
                 success: function(response) {
@@ -123,6 +124,8 @@ var network;
                   $('#map_node_details').append($('#map_node_details .temp body').html()); 
                 }});
       }
+      // a tabhoz ugrunk
+      window.scrollTo(0, $('#'+id+'_tab_label').position().top)
     },
     showNodeInfo: function(nodeData) {
       if ($.inArray(nodeData.id, this.discoveredNodes) != -1) {
@@ -131,6 +134,9 @@ var network;
         $loadNodeRelations.show();
       }
       $('#profil_link').click();
+      
+      // ha még nem látszana..
+      $('#load_node_details').show();
 
       $("#node_panel").show();
       var match = nodeData.id.match(/(.*?)(\d+)$/);
@@ -351,6 +357,11 @@ var network;
     });
     $("#checkbox_list input").click(function() {
       network.filter();
+    });
+
+    $("#load_node_details").click(function(event) {
+      e.preventDefault();
+      network.nodeDblClicked(event, $('#person_node ul span:first').text());
     });
 
     setTimeout(function(){
