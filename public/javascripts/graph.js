@@ -106,7 +106,14 @@ var network;
     nodeClicked: function(event) {
       log('Node clicked: ', event);
       var match = event.target.data.id.match(/(.*?)(\d+)$/);
-      network.showNodeInfo(event.target.data);
+      network.showNodeInfo(network.nodes[event.target.data.id]);
+      $selectedElemType.val(match[1]);
+      $selectedElemId.val(match[2]);
+    },
+    edgeClicked: function(event) {
+      log('Edge clicked: ', event);
+      var match = event.target.data.id.match(/(.*?)(\d+)$/);
+      network.showNodeInfo(network.edges[event.target.data.id]);
       $selectedElemType.val(match[1]);
       $selectedElemId.val(match[2]);
     },
@@ -146,6 +153,7 @@ var network;
       $('#load_node_details').show();
 
       $("#node_panel").show();
+
       var match = nodeData.id.match(/(.*?)(\d+)$/);
       $nodeAttributePanels.hide();
       if (match[1] == 'p') {
@@ -290,6 +298,7 @@ var network;
     vis.ready(function() {
       if (!network.initialized) {
         vis.addListener("click", "nodes", network.nodeClicked)
+        vis.addListener("click", "edges", network.edgeClicked)
         vis.addListener('dblclick', 'nodes', network.nodeDblClicked);
         network.initialized = true;
       }

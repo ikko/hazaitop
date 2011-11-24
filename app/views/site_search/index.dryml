@@ -82,7 +82,7 @@
           </div>
           <div id="o2o_edge" class="node_attributes">
             <ul>
-              <li>Név: <span class="name"></span></li>
+              <li>Kapcsolat megnevezése: <span class="name"></span></li>
               <li>Kapcsolodó szervezet: <span class="org"></span></li>
               <li>Kapcsolodó szervezet: <span class="org"></span></li>
               <li>Időpont: <span class="issued_at"></span></li>
@@ -94,7 +94,7 @@
           </div>
           <div id="p2p_edge" class="node_attributes">
             <ul>
-              <li>Név: <span class="name"></span></li>
+              <li>Kapcsolat megnevezése: <span class="name"></span></li>
               <li>Kapcsolódó személy: <span class="person"></span></li>
               <li>Kapcsolódó személy: <span class="person"></span></li>
               <li>Kezdete: <span class="start_time"></span></li>
@@ -104,7 +104,7 @@
           </div>
           <div id="p2o_edge" class="node_attributes">
             <ul>
-              <li>Név: <span class="name"></span></li>
+              <li>Kapcsolat megnevezése: <span class="name"></span></li>
               <li>Kapcsolódó személy: <span class="person"></span></li>
               <li>Kapcsolódó személy: <span class="person"></span></li>
               <li>Kapcsolódó szervezet: <span class="org"></span></li>
@@ -115,7 +115,7 @@
           </div>
           <div id="o2l_edge" class="node_attributes">
             <ul>
-              <li>Név: <span class="name"></span></li>
+              <li>Kapcsolat megnevezése: <span class="name"></span></li>
               <li>Kapcsolódó szervezet: <span class="org"></span></li>
               <li>Kapcsolódó per: <span class="litigation"></span></li>
               <li>Kezdete: <span class="start_time"></span></li>
@@ -125,7 +125,7 @@
           </div>
           <div id="p2l_edge" class="node_attributes">
             <ul>
-              <li>Név: <span class="name"></span></li>
+              <li>Kapcsolat megnevezése: <span class="name"></span></li>
               <li>Kapcsolódó szermély: <span class="person"></span></li>
               <li>Kapcsolódó per: <span class="litigation"></span></li>
               <li>Kezdete: <span class="start_time"></span></li>
