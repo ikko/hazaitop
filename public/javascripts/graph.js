@@ -382,8 +382,9 @@ var network;
       network.showNodeInfo(vis.node(id).data);
     });
 
-    setTimeout(function(){
-      $('body').click();
+    // key event capture lehetőségének visszaállítása html-re (ha esetleg flashen lenne)
+    setInterval(function(){
+      $('body').attr('tabIndex', 0).focus();
     }, 300);
   });
 })(jQuery);
