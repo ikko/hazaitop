@@ -81,6 +81,13 @@ var network;
       return this.xgmmlHeader + this.body + '</graph>'
     },
     clean: function() {
+      $("#node_details_tab a").remove();
+      $("#map_node_details > .section").remove();
+      network.nodes.arr = [];
+      network.edges.arr = [];
+      network.nodeIds = [];
+      network.discoveredNodes = [];
+      network.maxWeight = 1;
       vis.draw({network:[], visualStyle: {global:{backgroundColor: "#010101"}}})
     },
     draw: function(data) {
