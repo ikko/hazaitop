@@ -105,19 +105,15 @@ var network;
       $('#profil_link').click();
 
       $("#node_panel").show();
-      var match = nodeData.id.match(/(.*?)\d+$/);
+      var match = nodeData.id.match(/(.*?)(\d+)$/);
+      $nodeAttributePanels.hide();
       if (match[1] == 'p') {
-        $nodeAttributePanels.hide();
         $personNode.show();
-        $selectedElemType.val('p');
         $personNode.find(".name").html("<a href='/people/"+nodeData.id.match(/\d+$/)+"'>"+nodeData.label+"</a>");
         $personNode.find(".mothers_name").text(nodeData.mothersName);
         $personNode.find(".born_at").text(nodeData.bornAt);
       } else if (match[1] == 'o'){
-        $nodeAttributePanels.hide();
         $organizationNode.show();
-        $selectedElemType.val('o');
-        log($organizationNode)
         $organizationNode.find(".name").html("<a href='/organizations/"+nodeData.id.match(/\d+$/)+"'>"+nodeData.label+"</a>");
         $organizationNode.find(".address").text(nodeData.address);
         $organizationNode.find(".founded_at").text(nodeData.foundedAt);
@@ -125,16 +121,12 @@ var network;
         $organizationNode.find(".turnover").text(nodeData.turnover);
         $organizationNode.find(".balance").text(nodeData.balance);
       } else if (match[1] == 'l'){
-        $nodeAttributePanels.hide();
         $litigationNode.show();
-        $selectedElemType.val('l');
         $litigationNode.find(".name").html("<a href='/litigations/"+nodeData.id.match(/\d+$/)+"'>"+nodeData.label+"</a>");
         $litigationNode.find(".start_time").text(nodeData.startTime);
         $litigationNode.find(".end_time").text(nodeData.endTime);
       } else if (match[1] == 'o2o'){
-        $nodeAttributePanels.hide();
         $o2oEdge.show();
-        $selectedElemType.val('o2o');
         $o2oEdge.find(".name").text(nodeData.label);
         $o2oEdge.find(".org:first").text(nodeData.org);
         $o2oEdge.find(".org:last").text(nodeData.relatedOrg);
@@ -143,9 +135,7 @@ var network;
         $o2oEdge.find(".value").text(nodeData.value);
         $o2oEdge.find(".contract").html("<a href='/contracts/"+nodeData.contractId+"' target='_blank'>"+nodeData.contractName+"</a>");
       } else if (match[1] == 'p2p'){
-        $nodeAttributePanels.hide();
         $p2pEdge.show();
-        $selectedElemType.val('p2p');
         $p2pEdge.find(".name").text(nodeData.label);
         $p2pEdge.find(".person:first").text(nodeData.person);
         $p2pEdge.find(".person:last").text(nodeData.relatedPerson);
@@ -153,9 +143,7 @@ var network;
         $p2pEdge.find(".end_time").text(nodeData.endTime);
         $p2pEdge.find(".source").text(nodeData.source);
       } else if (match[1] == 'p2o' || match[1] == 'o2p'){
-        $nodeAttributePanels.hide();
         $p2oEdge.show();
-        $selectedElemType.val('p2o');
         $p2oEdge.find(".name").text(nodeData.label);
         $p2oEdge.find(".person").text(nodeData.person);
         $p2oEdge.find(".org").text(nodeData.org);
@@ -163,9 +151,7 @@ var network;
         $p2oEdge.find(".end_time").text(nodeData.endTime);
         $p2oEdge.find(".source").text(nodeData.source);
       } else if (match[1] == 'o2l'){
-        $nodeAttributePanels.hide();
         $o2lEdge.show();
-        $selectedElemType.val('o2l');
         $o2lEdge.find(".name").text(nodeData.label);
         $o2lEdge.find(".org").text(nodeData.org);
         $o2lEdge.find(".litigation").text(nodeData.litigation);
@@ -173,20 +159,16 @@ var network;
         $o2lEdge.find(".end_time").text(nodeData.endTime);
         $o2lEdge.find(".source").text(nodeData.source);
       } else if (match[1] == 'p2l'){
-        $nodeAttributePanels.hide();
         $p2lEdge.show();
-        $selectedElemType.val('p2l');
         $p2lEdge.find(".person").text(nodeData.person);
         $p2lEdge.find(".litigation").text(nodeData.litigation);
         $p2lEdge.find(".start_time").text(nodeData.startTime);
         $p2lEdge.find(".end_time").text(nodeData.endTime);
         $p2lEdge.find(".source").text(nodeData.source);
       }
-      $selectedElemId.val(match[2]);
     },
     select: function() {
       vis.select($selectedType.val() + 's', [$selectedElemType.val()+$selectedElemId.val()]);
-      network.showNodeInfo(vis[$selectedType.val()]($selectedElemType.val()+$selectedElemId.val()).data);
     },
     filter: function() {
       vis.filter('edges', function(edge) {
@@ -266,11 +248,27 @@ var network;
     vis.ready(function() {
       if (!network.initialized) {
         vis.addListener("click", "nodes", function(event) {
+          var match = event.target.data.id.match(/(.*?)(\d+)$/);
           log('Node clicked: ', event);
           network.showNodeInfo(event.target.data);
+          $selectedElemType.val(match[1]);
+          $selectedElemId.val(match[2]);
+          $("#map_node_details > .section").hide();
+          // ha már betöltöttük akkor mutatjuk, egyébként ajaxos lekérés
+          if ($("#"+$selectedElemType.val()+$selectedElemId.val()+"_content.section").length > 0) {
+            $("#"+$selectedElemType.val()+$selectedElemId.val()+"_content.section").show();
+          } else {
+            $.ajax({url:'/site_search/node_show?id='+$selectedElemId.val()+'&type='+$selectedElemType.val(), 
+                    success: function(response) {
+                      log('Node részletes infó: ', response);
+                      $('#map_node_details .temp').replaceWith(response); 
+                      $('#map_node_details').append($('#map_node_details .temp body').html()); 
+                    }});
+          }
         });
         network.initialized = true;
       }
+      // filterezni csak ready eseménykor lehet
       network.filter();
       network.select();
     });
@@ -328,6 +326,7 @@ var network;
                                             open: function() {
                                               $peopleSearchLoader.hide();
                                             }}).bind("autocompletesearchcomplete", function() { $peopleSearchLoader.hide(); });; 
+
     $("#litigation_autocomplete").autocomplete({source: '/litigations/query', 
                                                 search: function() {
                                                   $litigationSearchLoader.show();

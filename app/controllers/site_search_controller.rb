@@ -344,6 +344,14 @@ class SiteSearchController < ApplicationController
     generate_node(resource, 'o')
   end
 
+  def node_show
+    @this = case params[:type]
+              when 'p' then Person
+              when 'o' then Organization
+              else Litigation
+            end.find(params[:id])
+  end
+
   def index
     if params[:id] && params[:type]
       @id = params[:id].to_i

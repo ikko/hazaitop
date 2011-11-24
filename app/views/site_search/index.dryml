@@ -144,9 +144,12 @@
     </div>
     <div id="map_node_details">
       <node-show-page without-head without-header without-to-map without-footer>
-      <node-show-page with="&@target" without-head without-header without-to-map without-footer>
-        <content: style="display:none"/>
+        <content: id="#{@this.class.to_s[0..0].downcase}#{@this.id}_content"/>
       </node-show-page>
+      <node-show-page with="&@target" without-head without-header without-to-map without-footer>
+        <content: style="display:none" id="#{@target.class.to_s[0..0].downcase}#{@target.id}_content"/>
+      </node-show-page>
+      <div class="temp"></div>
     </div>
   </content:>
 </page>

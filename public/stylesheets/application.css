@@ -843,3 +843,7 @@ h2 {
   height: 358px;
   margin-top: 10px;
 }
+
+.temp {
+  display: none;
+}
