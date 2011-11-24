@@ -308,17 +308,27 @@ var network;
                                        $searchAjaxLoaders.hide()
                                      },
                                      select: function(event, ui) {
-                                       network.showAjaxLoader();
+                                       var id;
                                        $selectedElemId.val(ui.item.id);
-                                       $selectedElemType.val($searchElemType.val());
-                                       $.ajax({url: '/site_search/?id='+ui.item.id+'&nodes='+network.loadedNodeIds()+'&type='+$searchType.val(),
-                                               dataType: 'json',
-                                               success: function(response) { 
-                                                 log('Node kapcsolatai válasz: ', response);
-                                                 $(event.target).val('');
-                                                 network.discoveredNodes.push($selectedElemType.val()+$selectedElemId.val());
-                                                 network.draw(response); 
-                                               }});
+                                       $selectedElemType.val($searchType.val());
+                                       id = $selectedElemType.val()+$selectedElemId.val();
+                                       // lehet eddig edge is de most mi mindenképp nodeot fogunk lekérni
+                                       $selectedType.val('node');
+                                       // ha már felfedeztük  
+                                       if ($.inArray(id, network.discoveredNodes) != -1) {
+                                         network.select();
+                                         network.showNodeInfo(vis.node(id).data);
+                                       } else {
+                                         network.showAjaxLoader();
+                                         $.ajax({url: '/site_search/?id='+ui.item.id+'&nodes='+network.loadedNodeIds()+'&type='+$searchType.val(),
+                                                 dataType: 'json',
+                                                 success: function(response) { 
+                                                   log('Node kapcsolatai válasz: ', response);
+                                                   $(event.target).val('');
+                                                   network.discoveredNodes.push($selectedElemType.val()+$selectedElemId.val());
+                                                   network.draw(response); 
+                                                 }});
+                                       }
                                      }});
 
     // hack autocompletehez
@@ -374,7 +384,6 @@ var network;
       // lehet edge is de most mi mindenképp nodeot fogunk lekérni
       $selectedType.val('node');
       network.select();
-      console.log(id)
       $("#node_details_tab a").removeClass('active');
       $("#"+id+"_tab_label").addClass('active');
       $("#map_node_details > .section").hide();
@@ -384,7 +393,7 @@ var network;
 
     // key event capture lehetőségének visszaállítása html-re (ha esetleg flashen lenne)
     setInterval(function(){
-      $('body').attr('tabIndex', 0).focus();
+     if ($('#cytoscapeWeb1:focus').length > 0) $('body').attr('tabIndex', 0).focus();
     }, 300);
   });
 })(jQuery);
