@@ -516,7 +516,8 @@
     <o2o-relation-type-name-heading:><span>Kapcsolat</span></o2o-relation-type-name-heading:>
     <related-organization-heading:><span>Szervezet</span></related-organization-heading:>
     <o2o-relation-type-pair-name-heading:><span>Kapcsolat</span></o2o-relation-type-pair-name-heading:>
-    <name-view:><a><%= this.scan(/./mu)[0..50] << (this.scan(/./mu).length > 50 ? '...' : '') %></a> <a href="/site_search/?type=t&id=#{this.id}"><img src="/images/plusz.png"/></a> </name-view:>
+    <name-view:><a href="#{url_for(this_parent.tender_id ? this_parent.tender : this_parent.contract)}"><%= this.scan(/./mu)[0..50] << (this.scan(/./mu).length > 50 ? '...' : '') %></a> <a href="/site_search/?type=t&id=#{this_parent.id}"><img src="/images/plusz.png"/></a> </name-view:>
+    <value-view:><a href="#{url_for(this_parent.tender_id ? this_parent.tender : this_parent.contract)}"><%= commify(this) %></a></value-view:>
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'trans_pagination', :sort=>params[:sort]}"/>
   </table-plus>
 </def>
