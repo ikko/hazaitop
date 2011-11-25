@@ -508,14 +508,15 @@
     <div class="separator left">|</div>
     <a href="&url_for :controller => 'front', :action => 'trans_pagination', :sort=>'-issued_at'" class="left #{params[:sort] && params[:sort]=='-issued_at' ? 'active' : ''}">Legfrissebb</a>
   </div>
-  <table-plus fields="this, issued_at, organization, o2o_relation_type.name, related_organization, o2o_relation_type.pair.name" without-search-form merge>
-    <Organization-heading:><span>Név</span></Organization-heading:>
+  <table-plus fields="name, issued_at, value, organization, o2o_relation_type.name, related_organization, o2o_relation_type.pair.name" without-search-form merge>
+    <name-heading:><span>Név</span></name-heading:>
     <issued-at-heading:><span>Dátum</span></issued-at-heading:>
+    <value-heading:><span>Összeg</span></value-heading:>
     <organization-heading:><span>Szervezet</span></organization-heading:>
     <o2o-relation-type-name-heading:><span>Kapcsolat</span></o2o-relation-type-name-heading:>
     <related-organization-heading:><span>Szervezet</span></related-organization-heading:>
     <o2o-relation-type-pair-name-heading:><span>Kapcsolat</span></o2o-relation-type-pair-name-heading:>
-    <this-view:><a/> <a href="/site_search/?type=t&id=#{this.id}"><img src="/images/plusz.png"/></a> </this-view:>
+    <name-view:><a><%= this.scan(/./mu)[0..50] << (this.scan(/./mu).length > 50 ? '...' : '') %></a> <a href="/site_search/?type=t&id=#{this.id}"><img src="/images/plusz.png"/></a> </name-view:>
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'trans_pagination', :sort=>params[:sort]}"/>
   </table-plus>
 </def>

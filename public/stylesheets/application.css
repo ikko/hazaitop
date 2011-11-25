@@ -284,10 +284,11 @@ a {
   width: 100%;
 }
 
-.table-plus table thead, .table-plus td {
+.table-plus table thead, .table-plus td, .table-plus th {
   font-size: 13px;
   line-height: 30px;
   height: 30px;
+  padding: 10px;
 }
 
 thead a, thead span {
