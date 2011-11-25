@@ -182,7 +182,12 @@ var network;
         $o2oEdge.find(".issued_at").text(nodeData.issuedAt);
         $o2oEdge.find(".source").text(nodeData.source);
         $o2oEdge.find(".value").text(nodeData.value);
-        $o2oEdge.find(".contract").html("<a href='/contracts/"+nodeData.contractId+"' target='_blank'>"+nodeData.contractName+"</a>");
+        if (nodeData.contractOrTender) {
+          $o2oEdge.find(".contract").html("<a href='/"+nodeData.contractOrTender+"s/"+nodeData.contractId+"' target='_blank'>"+nodeData.contractName+"</a>");
+        } else {
+          // ha nincs contract simán 'nincs adat' lesz benne
+          $o2oEdge.find(".contract").text(nodeData.contractName);
+        }
       } else if (match[1] == 'p2p'){
         $p2pEdge.show();
         $p2pEdge.find(".name").text(nodeData.label);
