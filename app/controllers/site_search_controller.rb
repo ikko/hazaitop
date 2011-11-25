@@ -53,7 +53,7 @@ class SiteSearchController < ApplicationController
       edge[:relatedOrg] = relation.related_organization.name
       edge[:issuedAt] = relation.issued_at.present? ? relation.issued_at : no_data
       edge[:source] = relation.information_source.name
-      edge[:value] = relation.value
+      edge[:value] = relation.value.present? relation.value : no_data
       edge[:contract] = relation.contract.present? ? relation.contract.name : no_data
     elsif target_type == source_type && target_type == 'p'
       edge[:id] = "p2p#{relation.id}"
