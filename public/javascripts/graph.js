@@ -387,7 +387,7 @@ var network;
     });
 
     $("#load_node_details").click(function(event) {
-      e.preventDefault();
+      event.preventDefault();
       network.nodeDblClicked(event, $('#person_node ul span:first').text());
     });
 

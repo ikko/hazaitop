@@ -763,19 +763,21 @@
           <table-plus:financials fields="year, balance_sheet_total, turnover" without-search-form />
         </div>
       <% end %>
-      <div class="tabs">
-        <div class="active tab"><a href="#people_content">SZEMÉLYEK</a></div><div class="separator"></div>
-        <div class="tab"><a href="#orgs_content">SZERVEZETEK</a></div><div class="separator"></div>
-        <div class="tab"><a href="#financial_content">PÉNZÜGYEK</a></div>
-      </div>
-      <div id="people_content" class="tab_content">
-        <table-plus-organization-person-to-org with="&@this.person_to_org_relations.paginate(:per_page=>10, :page=>params[:page])"/>
-      </div>
-      <div id="orgs_content" class="tab_content" style="display: none">
-        <table-plus-organization-interorg with="&@this.interorg_relations.paginate(:per_page=>10, :page=>params[:page])"/>
-      </div>
-      <div id="financial_content" class="tab_content" style="display: none">
-        <table-plus-organization-financial with="&@this.org_histories.paginate(:per_page=>10, :page=>params[:page])" fields="year, balance_sheet_total, turnover" without-search-form />
+      <div class="contents">
+        <div class="tabs">
+          <div class="active tab"><a href="#people_content">SZEMÉLYEK</a></div><div class="separator"></div>
+          <div class="tab"><a href="#orgs_content">SZERVEZETEK</a></div><div class="separator"></div>
+          <div class="tab"><a href="#financial_content">PÉNZÜGYEK</a></div>
+        </div>
+        <div id="people_content" class="tab_content">
+          <table-plus-organization-person-to-org with="&@this.person_to_org_relations.paginate(:per_page=>10, :page=>params[:page])"/>
+        </div>
+        <div id="orgs_content" class="tab_content" style="display: none">
+          <table-plus-organization-interorg with="&@this.interorg_relations.paginate(:per_page=>10, :page=>params[:page])"/>
+        </div>
+        <div id="financial_content" class="tab_content" style="display: none">
+          <table-plus-organization-financial with="&@this.org_histories.paginate(:per_page=>10, :page=>params[:page])" fields="year, balance_sheet_total, turnover" without-search-form />
+        </div>
       </div>
       <if test="&current_user.signed_up? and @this.org_histories.count > 0">
         <div class="details_header">Mentések:</div>
@@ -826,15 +828,17 @@
         })(jQuery)
       </script>
       <div class="details_header">Kapcsolódó profilok:</div>
-      <div class="tabs">
-        <div class="active tab"><a href="#people_content">SZEMÉLYEK</a></div><div class="separator"></div>
-        <div class="tab"><a href="#orgs_content">SZERVEZETEK</a></div>
-      </div>
-      <div id="people_content" class="tab_content">
-        <table-plus-person-interperson with="&@this.interpersonal_relations.paginate(:per_page=>10, :page=>params[:page])"/>
-      </div>
-      <div id="orgs_content" class="tab_content" style="display: none">
-        <table-plus-person-person-to-org with="&@this.person_to_org_relations.paginate(:per_page=>10, :page=>params[:page])"/>
+      <div class="contents">
+        <div class="tabs">
+          <div class="active tab"><a href="#people_content">SZEMÉLYEK</a></div><div class="separator"></div>
+          <div class="tab"><a href="#orgs_content">SZERVEZETEK</a></div>
+        </div>
+        <div id="people_content" class="tab_content">
+          <table-plus-person-interperson with="&@this.interpersonal_relations.paginate(:per_page=>10, :page=>params[:page])"/>
+        </div>
+        <div id="orgs_content" class="tab_content" style="display: none">
+          <table-plus-person-person-to-org with="&@this.person_to_org_relations.paginate(:per_page=>10, :page=>params[:page])"/>
+        </div>
       </div>
       <% @histories = @this.person_histories.paginate(:per_page=>10, :page=>params[:page]) %>
       <% if current_user.signed_up? and @histories.count > 0 %>
@@ -879,36 +883,38 @@
         })(jQuery)
       </script>
       <div class="details_header">Kapcsolódó profilok:</div>
-      <div class="tabs" style="width: 507px">
-        <div class="active tab"><a href="#people_content">SZEMÉLYEK</a></div><div class="separator"></div>
-        <div class="tab"><a href="#orgs_content">SZERVEZETEK</a></div><div class="separator"></div>
-        <div class="tab" style="width: 225px"><a href="#people_orgs_content">SZEMÉLYEK-SZERVEZETEK</a></div>
-      </div>
-      <% 
-         person_to_org_relation_ids = [] 
-         interpersonal_relation_ids = []
-         interorg_relation_ids = []
-         @this.litigation_relations.each do |rel|
-           if rel.litigable_type == "PersonToOrgRelation"
-             person_to_org_relation_ids << rel.litigable_id
-           elsif rel.litigable_type == "InterpersonalRelation"
-             interpersonal_relation_ids << rel.litigable_id
-           elsif rel.litigable_type == "InterorgRelation"
-             interorg_relation_ids << rel.litigable_id
+      <div class="contents">
+        <div class="tabs" style="width: 507px">
+          <div class="active tab"><a href="#people_content">SZEMÉLYEK</a></div><div class="separator"></div>
+          <div class="tab"><a href="#orgs_content">SZERVEZETEK</a></div><div class="separator"></div>
+          <div class="tab" style="width: 225px"><a href="#people_orgs_content">SZEMÉLYEK-SZERVEZETEK</a></div>
+        </div>
+        <% 
+           person_to_org_relation_ids = [] 
+           interpersonal_relation_ids = []
+           interorg_relation_ids = []
+           @this.litigation_relations.each do |rel|
+             if rel.litigable_type == "PersonToOrgRelation"
+               person_to_org_relation_ids << rel.litigable_id
+             elsif rel.litigable_type == "InterpersonalRelation"
+               interpersonal_relation_ids << rel.litigable_id
+             elsif rel.litigable_type == "InterorgRelation"
+               interorg_relation_ids << rel.litigable_id
+             end
            end
-         end
-         @person_to_org_relations = PersonToOrgRelation.find_all_by_id   person_to_org_relation_ids
-         @interpersonal_relations = InterpersonalRelation.find_all_by_id interpersonal_relation_ids
-         @interorg_relations      = InterorgRelation.find_all_by_id      interorg_relation_ids
-      %>
-      <div id="people_content" class="tab_content">
-        <table-plus-litigation-interpersonal with="&@interpersonal_relations"/>
-      </div>
-      <div id="orgs_content" class="tab_content" style="display: none">
-        <table-plus-litigation-interorg with="&@interorg_relations"/>
-      </div>
-      <div id="people_orgs_content" class="tab_content" style="display: none">
-        <table-plus-litigation-person-to-org with="&@person_to_org_relations"/>
+           @person_to_org_relations = PersonToOrgRelation.find_all_by_id   person_to_org_relation_ids
+           @interpersonal_relations = InterpersonalRelation.find_all_by_id interpersonal_relation_ids
+           @interorg_relations      = InterorgRelation.find_all_by_id      interorg_relation_ids
+        %>
+        <div id="people_content" class="tab_content">
+          <table-plus-litigation-interpersonal with="&@interpersonal_relations"/>
+        </div>
+        <div id="orgs_content" class="tab_content" style="display: none">
+          <table-plus-litigation-interorg with="&@interorg_relations"/>
+        </div>
+        <div id="people_orgs_content" class="tab_content" style="display: none">
+          <table-plus-litigation-person-to-org with="&@person_to_org_relations"/>
+        </div>
       </div>
     </append-content-body:>
   </show-page>

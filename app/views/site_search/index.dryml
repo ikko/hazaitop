@@ -19,7 +19,7 @@
   </scripts:>
   <content:>
     <div id="map_wrapper">
-      <div id="map_panel" class="left">
+      <div id="map_panel" class="contents left">
         <div id="map_tabs">
           <div class="tab"><a id="map_link" href="#map_content">TÉRKÉP</a></div>
           <div class="#{params[:type] && params[:id] ? '' : 'active'} tab"><a id="search_link" href="#search_content">KERESÉS</a></div>
@@ -144,7 +144,7 @@
       <div class="left" id="relationgraph"></div>
     </div>
     <div id="node_details_tab">
-      <a href="#" id="#{@this.class.to_s[0..0].downcase}#{@this.id}_tab_label" class="active"><%= @this.name %></a>
+      <a if="&this" href="#" id="#{@this.class.to_s[0..0].downcase}#{@this.id}_tab_label" class="active"><%= @this.name %></a>
     </div>
     <div class="clear"></div>
     <div id="map_node_details">

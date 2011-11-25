@@ -69,20 +69,22 @@
       <img src="/images/video_bottom.png"/>
     </div>
     <div class="content_body">
-      <div class="tabs">
-        <div class="active tab"><a href="#people_content">SZEMÉLYEK</a></div><div class="separator"></div>
-        <div class="tab"><a href="#orgs_content">SZERVEZETEK</a></div><div class="separator"></div>
-        <div class="tab"><a href="#trans_content">TRANZAKCIÓK</a></div>
-      </div>
-      <div id="people_content" class="tab_content">
-        <table-plus-person with="&@people"/>
-      </div>
-      <div id="orgs_content" class="tab_content" style="display: none">
-        <table-plus-org with="&@organizations"/>
-      </div>
+      <div class="contents">
+        <div class="tabs">
+          <div class="active tab"><a href="#people_content">SZEMÉLYEK</a></div><div class="separator"></div>
+          <div class="tab"><a href="#orgs_content">SZERVEZETEK</a></div><div class="separator"></div>
+          <div class="tab"><a href="#trans_content">TRANZAKCIÓK</a></div>
+        </div>
+        <div id="people_content" class="tab_content">
+          <table-plus-person with="&@people"/>
+        </div>
+        <div id="orgs_content" class="tab_content" style="display: none">
+          <table-plus-org with="&@organizations"/>
+        </div>
 
-      <div id="trans_content" class="tab_content" style="display: none">
-        <table-plus-trans with="&@transactions"/>
+        <div id="trans_content" class="tab_content" style="display: none">
+          <table-plus-trans with="&@transactions"/>
+        </div>
       </div>
       <div class="clear"></div>
     </div>

@@ -19,12 +19,13 @@ if (typeof jQuery != 'undefined') {
   (function($){
     $(function() {
       // tabváltás
-      $(".tab a").click(function(e) {
+      $(".tab a").live('click', function(e) {
         var $this = $(this);
         if (!$this.parent().hasClass("active")) {
-          $(".tab").removeClass("active");
-          $(".tab_content").hide();
-          $($this.attr('href')).show();
+          $this.parent().parent().find(".tab").removeClass("active");
+          $content = $this.parents('.contents')
+          $content.find(".tab_content").hide();
+          $content.find($this.attr('href')).show();
           $(this).parent().addClass("active");
         }
         e.preventDefault();
