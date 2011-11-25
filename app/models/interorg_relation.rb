@@ -40,7 +40,13 @@ class InterorgRelation < ActiveRecord::Base
   validate :litigation_related
   validate :source_present
 
-  has_many :interorg_relations, :dependent => :destroy
+ has_many :interorg_relations #, :dependent => :destroy
+
+  after_destroy do |r| 
+    r.interorg_relations.first.try.destroy 
+    r.interorg_relation.try.destroy
+  end
+  
 
   def source_present
     if information_source.blank? and articles.empty?
@@ -119,6 +125,8 @@ class InterorgRelation < ActiveRecord::Base
       r.destroy
     end
   end
+
+
 
   # --- Permissions --- #
 
