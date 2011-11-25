@@ -155,6 +155,10 @@ namespace :fetch do
               d.gsub!( minta, minta.gsub(',','x')) # valami másra, lényeg, hogy ne pontra, mert azt most visszavesszőzzuk:
               d.gsub!( '.', ',')
             end
+            minta = d.match(/\d{4},\d{2}/)
+            if minta.present?
+              d = d.split( minta.to_s )[0] + minta.to_s.split(',')[0]
+            end
             minta = d.match(/\d{1,3},\d{3,3}/).to_s
             if minta.present? and !d.match(/\.\d{3,3},\d{3,3}/)
               d.gsub!( minta, minta.gsub(',','x')) # valami másra, lényeg, hogy ne pontra, mert azt most visszavesszőzzuk:
@@ -237,12 +241,15 @@ namespace :fetch do
     # for lapid in 319000..319999 do - in progress
     # old - 319025, 319055,
     # for lapid in 319020..319999 do 
+    #
+    # 32
 
     @log.puts "////////////////////////////////////////////////////////////////////////"
     @log.puts "starting to process at #{Time.now} in #{Rails.root}"
     @log.puts "------------------------------------------------------------------------"
 
-    for lapid in 319220..319999 do 
+#    for lapid in 319220..319999 do 
+    for lapid in 319422..328837 do 
       # 282615 a vége
       puts lapid
       @lines = []
@@ -630,7 +637,7 @@ namespace :fetch do
       @log.puts ""
       note.contracted_value = @sum
       note.save
-      @ertekek.sort {|x,y| y[5] <=> x[5] }.each do |e| puts(e.inspect); nfo.puts(e.inspect) end
+      @ertekek.sort {|x,y| y[0] <=> x[0] }.each do |e| puts(e.inspect); nfo.puts(e.inspect) end
       nfo.close
     end
     @log.close

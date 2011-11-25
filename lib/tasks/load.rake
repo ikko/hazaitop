@@ -16,7 +16,7 @@ namespace :load do
         org.email_address     = a[7]
         org.internet_address  = a[8]
         org.trade_register_nr = a[9]
-        org.tax_nr   = a[10]
+        org.tax_nr   = a[10].strip
         puts org.name
         puts org.save
       else

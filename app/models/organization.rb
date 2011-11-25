@@ -3,7 +3,7 @@ class Organization < ActiveRecord::Base
   hobo_model # Don't put anything above this
 
   fields do
-    name                          :string, :unique
+    name                          :string#, :unique
     klink                         :string
     street                        :string
     city                          :string
