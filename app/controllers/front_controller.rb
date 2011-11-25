@@ -21,7 +21,7 @@ class FrontController < ApplicationController
   end
 
   index_action :trans_pagination do
-    @transactions = InterorgRelation.paginate(:per_page=>10, :page=>params[:page])
+    @transactions = InterorgRelation.appy_scopes(:order_by=> parse_sort_param(:issued_at, :value)).paginate(:per_page=>10, :include=>[:organization, :related_organization, :o2o_relation_type, {:o2o_relation_type => :pair}], :page=>params[:page])
   end
 
   def impressum; end

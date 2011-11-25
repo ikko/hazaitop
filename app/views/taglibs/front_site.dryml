@@ -503,15 +503,18 @@
 </def>
 
 <def tag="table-plus-trans">
-  <!-- TODO: order list kell ide -->
-  <table-plus fields="this, city, street, zip_code, person_to_org_relations_count, interorg_relations_count, information_source" without-search-form merge>
+  <div class="order_list" param="order-list">
+    <a href="&url_for :controller => 'front', :action => 'trans_pagination', :sort=>'-value'" class="left #{!params[:sort] || params[:sort]=='-value' ? 'active' : ''}">Összeg</a>
+    <div class="separator left">|</div>
+    <a href="&url_for :controller => 'front', :action => 'trans_pagination', :sort=>'-issued_at'" class="left #{params[:sort] && params[:sort]=='-issued_at' ? 'active' : ''}">Legfrissebb</a>
+  </div>
+  <table-plus fields="this, issued_at, organization, o2o_relation_type.name, related_organization, o2o_relation_type.pair.name" without-search-form merge>
     <Organization-heading:><span>Név</span></Organization-heading:>
-    <city-heading:><span>Város</span></city-heading:>
-    <street-heading:><span>Utca</span></street-heading:>
-    <zip-code-heading:><span>Irányítószám</span></zip-code-heading:>
-    <person-to-org-relations-count-heading:><span>Személyes kapcsolat</span></person-to-org-relations-count-heading:>
-    <interorg-relations-count-heading:><span>Szervezeti kapcsolat</span></interorg-relations-count-heading:>
-    <information-source-heading:><span>Információ forrás</span></information-source-heading:>
+    <issued-at-heading:><span>Dátum</span></issued-at-heading:>
+    <organization-heading:><span>Szervezet</span></organization-heading:>
+    <o2o-relation-type-name-heading:><span>Kapcsolat</span></o2o-relation-type-name-heading:>
+    <related-organization-heading:><span>Szervezet</span></related-organization-heading:>
+    <o2o-relation-type-pair-name-heading:><span>Kapcsolat</span></o2o-relation-type-pair-name-heading:>
     <this-view:><a/> <a href="/site_search/?type=t&id=#{this.id}"><img src="/images/plusz.png"/></a> </this-view:>
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'trans_pagination', :sort=>params[:sort]}"/>
   </table-plus>
