@@ -93,7 +93,7 @@ var network;
     draw: function(data) {
       vis.draw({network: this.parse(data), 
                 edgeLabelsVisible: true, 
-                layout: 'Tree', 
+                layout: {name:'Tree'/*, options:{breadthSpace:50}*/},
                 visualStyle: {global:{backgroundColor: "#010101"},nodes:{labelFontColor: "#ffffff", size:65, labelFontSize:11, labelFontWeight:'bold'}, edges:{labelFontColor: "#ffffff", labelFontSize:11, labelFontWeight:'bold'}}});
     },
     loadedNodeIds: function() {
@@ -126,7 +126,7 @@ var network;
       // ha már betöltöttük akkor mutatjuk, egyébként ajaxos lekérés
       if ($("#"+id+"_content.section").length > 0) {
         $("#"+id+"_content.section").show();
-        $("#"+id+"_tab").addClass('active');
+        $("#"+id+"_tab_label").addClass('active');
       } else {
         // létrehozunk egy új tabot és content containert hozzá
         $('#node_details_tab').append("<a href='#' id='"+id+"_tab_label' class='active'>"+label+"</a>");
