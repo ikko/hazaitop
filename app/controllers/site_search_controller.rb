@@ -310,13 +310,11 @@ class SiteSearchController < ApplicationController
       generate_node(resource, params[:type])
     # ha transaction kapcsolatait fedik fel  
     elsif params[:type] == 't'
-      interorg_relation = InterorgRelation.find(params[:id])
-      @this = interorg_relation.organization
-      @target = interorg_relation.related_organization
-      @explored_node = @this
+      @this = interorg_relation = InterorgRelation.find(params[:id])
+      @explored_node = interorg_relation.organization
       if interorg_relation
-        set_network_for_organization(@this)
-        set_network_for_organization(@target)
+        set_network_for_organization(interorg_relation.organization)
+        set_network_for_organization(interorg_relation.related_organization)
       end
     end
     # person és organization node-ok közötti kapcsolatok kigenerálása

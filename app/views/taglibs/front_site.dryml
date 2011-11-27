@@ -919,3 +919,54 @@
     </append-content-body:>
   </show-page>
 </def>
+
+<def tag="node-card" polymorphic/>
+<def tag="node-card" for="Person">
+  <div id="person_node" class="node_attributes" style="display: block">
+    <ul>
+      <li>Név: <span class="name"><view:name if-blank="Nincs adat" no-wrapper/></span></li>
+      <li>Ajnya neve: <span class="mothers_name"><view:mothers-name if-blank="Nincs adat" no-wrapper/></span></li>
+      <li>Születési év: <span class="born_at"><view:born-at if-blank="Nincs adat" no-wrapper/></span></li>
+    </ul>
+  </div>
+</def>
+
+<def tag="node-card" for="Organization">
+  <div id="organization_node" class="node_attributes" style="display: block">
+    <ul>
+      <li>Név: <span class="name"><view:name if-blank="Nincs adat" no-wrapper/></span></li>
+      <li>Cím: <span class="address"><view:address if-blank="Nincs adat" no-wrapper/></span></li>
+      <li>Alapítás éve: <span class="founded_at"><view:founded-at if-blank="Nincs adat" no-wrapper/></span></li>
+      <li>Legfrissebb pénzügyi adatok</li>
+      <li>Év: <span class="year"><view:recent-financial-year.year if-blank="Nincs adat" no-wrapper/></span></li>
+      <li>Forgalom: <span class="turnover"><view:recent_financial_year.turnover if-blank="Nincs adat" no-wrapper/></span></li>
+      <li>Mérleg: <span class="balance"><view:recent_financial_year.balance_sheet_total if-blank="Nincs adat" no-wrapper/></span></li>
+    </ul>
+  </div>
+</def>
+
+<def tag="node-card" for="Litigation">
+  <div id="litigation_node" class="node_attributes" style="display: block">
+    <ul>
+      <li>Név: <span class="name"><view:name if-blank="Nincs adat" no-wrapper/></span></li>
+      <li>Per kezdete: <span class="start_time"><view:start-time if-blank="Nincs adat" no-wrapper/></span></li>
+      <li>Per vége: <span class="end_time"><view:end-time if-blank="Nincs adat" no-wrapper/></span></li>
+    </ul>
+  </div>
+</def>
+
+<def tag="node-card" for="InterorgRelation">
+  <div id="o2o_edge" class="node_attributes">
+    <ul>
+      <li>Kapcsolat megnevezése: <span class="name"><view:name if-blank="Nincs adat" no-wrapper/></span></li>
+      <li>Kapcsolodó szervezet: <span class="org"><view:organization.name if-blank="Nincs adat" no-wrapper/></span></li>
+      <li>Kapcsolodó szervezet: <span class="org"><view:related-organization.name if-blank="Nincs adat" no-wrapper/></span></li>
+      <li>Időpont: <span class="issued_at"><view:issued-at if-blank="Nincs adat" no-wrapper/></span></li>
+      <li>Információ forrás: <span class="source"><view:source if-blank="Nincs adat" no-wrapper/></span></li>
+      <li>Érték: <span class="value"><view:value if-blank="Nincs adat" no-wrapper/></span></li>
+      <li>Hirdetmény: <span class="contract"><view with="&@this.contact || @this.tender" if-blank="Nincs adat" no-wrapper/></span></li>
+      <li></li>
+    </ul>
+  </div>
+</def>
+
