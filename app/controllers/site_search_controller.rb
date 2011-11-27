@@ -33,24 +33,30 @@ class SiteSearchController < ApplicationController
     @network[:nodes] << node
   end
 
-  def generate_edge(source, source_type, relation, target)
+  def generate_edge(source, source_type, relation, target, target_type=nil)
     edge = {}
     no_data = 'Nincs adat'
-    target_type = if target.kind_of?(Organization) 
-                    'o'
-                  elsif target.kind_of?(Person)
-                    'p'
-                  elsif target.kind_of?(Litigation)
-                    'l'
-                  end
+    if target_type
+      target_id = target
+    else 
+      target_type = if target.kind_of?(Organization) 
+                      'o'
+                    elsif target.kind_of?(Person)
+                      'p'
+                    elsif target.kind_of?(Litigation)
+                      'l'
+                    end
+      target_id = target.id
+    end
     edge[:weight] = relation.weight
     if target_type == source_type && target_type == 'o'
       edge[:id] = "o2o#{relation.id}"
-      edge[:alternateId] = "o2o#{relation.interorg_relation.id}"
+      edge[:alternateId] = "o2o#{relation.interorg_relation_id}"
       edge[:label] = relation.o2o_relation_type.name
-      edge[:relationTypeId] = "o2o#{relation.o2o_relation_type.id}"
-      edge[:org] = relation.organization.name
-      edge[:relatedOrg] = relation.related_organization.name
+      edge[:relationTypeId] = "o2o#{relation.o2o_relation_type_id}"
+      edge[:org] = source.name
+      # mivel csak akkor rajzolunk ki edge-t ha a target megtalálható az oldalon ezért már betöltöttük őket
+      edge[:relatedOrg] = @organizations.select {|r| r.id == relation.related_organization_id}.first.name
       edge[:issuedAt] = relation.issued_at.present? ? relation.issued_at : no_data
       edge[:source] = relation.information_source.name
       edge[:value] = relation.value.present? ? relation.value : no_data
@@ -60,35 +66,38 @@ class SiteSearchController < ApplicationController
       edge[:contractId] = contract_or_tender && contract_or_tender.id
     elsif target_type == source_type && target_type == 'p'
       edge[:id] = "p2p#{relation.id}"
-      edge[:alternateId] = "p2p#{relation.interpersonal_relation.id}"
+      edge[:alternateId] = "p2p#{relation.interpersonal_relation_id}"
       edge[:label] = relation.p2p_relation_type.name
-      edge[:relationTypeId] = "p2p#{relation.p2p_relation_type.id}"
-      edge[:person] = relation.person.name
-      edge[:relatedPerson] = relation.related_person.name
+      edge[:relationTypeId] = "p2p#{relation.p2p_relation_type_id}"
+      edge[:person] = source.name
+      # mivel csak akkor rajzolunk ki edge-t ha a target megtalálható az oldalon ezért már betöltöttük őket
+      edge[:relatedPerson] = @persons.select {|r| r.id == relation.related_person_id}.first.name
       edge[:startTime] = relation.start_time.present? ? relation.start_time : no_data
       edge[:endTime] = relation.end_time.present? ? relation.end_time : no_data
       edge[:source] = relation.information_source.name
-    elsif target_type == 'p' && source_type == 'o'
-      edge[:id] = "p2o#{relation.id}"
-      edge[:alternateId] = "o2p#{relation.id}"
-      edge[:label] = relation.p2o_relation_type.name
-      edge[:relationTypeId] = "p2o#{relation.p2o_relation_type.id}"
-      edge[:person] = relation.person.name
-      edge[:org] = relation.organization.name
-      edge[:startTime] = relation.start_time.present? ? relation.start_time : no_data
-      edge[:endTime] = relation.end_time.present? ? relation.end_time : no_data
-      edge[:source] = relation.information_source.name
-    elsif target_type == 'o' && source_type == 'p'
+    elsif source_type == 'o' && target_type == 'p'
       edge[:id] = "o2p#{relation.id}"
       edge[:alternateId] = "p2o#{relation.id}"
       edge[:label] = relation.o2p_relation_type.name
-      edge[:relationTypeId] = "o2p#{relation.o2p_relation_type.id}"
-      edge[:person] = relation.person.name
-      edge[:org] = relation.organization.name
+      edge[:relationTypeId] = "o2p#{relation.o2p_relation_type_id}"
+      # mivel csak akkor rajzolunk ki edge-t ha a target megtalálható az oldalon ezért már betöltöttük őket
+      edge[:person] = @persons.select {|r| r.id == relation.person_id}.first.name
+      edge[:org] = source.name
+      edge[:startTime] = relation.start_time.present? ? relation.start_time : no_data
+      edge[:endTime] = relation.end_time.present? ? relation.end_time : no_data
+      edge[:source] = relation.information_source.name
+    elsif source_type == 'p' && target_type == 'o' 
+      edge[:id] = "p2o#{relation.id}"
+      edge[:alternateId] = "o2p#{relation.id}"
+      edge[:label] = relation.p2o_relation_type.name
+      edge[:relationTypeId] = "p2o#{relation.p2o_relation_type_id}"
+      edge[:person] = source.name
+      # mivel csak akkor rajzolunk ki edge-t ha a target megtalálható az oldalon ezért már betöltöttük őket
+      edge[:org] = @organizations.select {|r| r.id == relation.organization_id}.first.name
       edge[:startTime] = relation.start_time.present? ? relation.start_time : no_data
       edge[:endTime] = relation.end_time.present? ? relation.end_time : no_data
       edge[:source] = relation.information_source.name || no_data
-    elsif target_type == 'o' && source_type == 'l'
+    elsif source_type == 'o' && target_type == 'l' 
       if relation.try.o2p_relation_type._?.name
         edge[:id] = "o2p#{relation.id}"
         edge[:label] = relation.o2p_relation_type.name
@@ -105,11 +114,11 @@ class SiteSearchController < ApplicationController
         edge[:relationTypeId] = "o2o#{relation.o2o_relation_type.id}"
         edge[:org] = relation.organization.name
       end
-      edge[:litigation] = litigation.name
+      edge[:litigation] = target.name
       edge[:startTime] = relation.start_time.present? ? relation.start_time : no_data
       edge[:endTime] = relation.end_time.present? ? relation.end_time : no_data
       edge[:source] = relation.information_source.name
-    elsif target_type == 'p' && source_type == 'l'
+    elsif source_type == 'p' && target_type == 'l' 
       if relation.try.p2o_relation_type._?.name
         edge[:id] = "p2o#{relation.id}"
         edge[:label] = relation.p2o_relation_type.name
@@ -123,13 +132,13 @@ class SiteSearchController < ApplicationController
         edge[:label] = relation.p2p_relation_type.name
         edge[:relationTypeId] = "p2p#{relation.p2p_relation_type.id}"
       end
-      edge[:litigation] = litigation.name
+      edge[:litigation] = target.name
       edge[:startTime] = relation.start_time.present? ? relation.start_time : no_data
       edge[:endTime] = relation.end_time.present? ? relation.end_time : no_data
       edge[:source] = relation.information_source.name
     end
     edge[:sourceId] = "#{source_type}#{source.id}"
-    edge[:targetId] = "#{target_type}#{target.id}"
+    edge[:targetId] = "#{target_type}#{target_id}"
     @network[:edges] << edge
   end
 
@@ -145,7 +154,7 @@ class SiteSearchController < ApplicationController
   def generate_litigation_relations_for_litigation(litigation)
     nodes_in_litigation = {:relation_pair => [], :nodes => []}
     # végig megyünk a perhez tartozó kapcsolatokon
-    litigation.litigation_relations.*.litigable.each do |litigable|
+    litigation.litigation_relations.all(:include=>:litigable).*.litigable.each do |litigable|
       # attól függően hogy a kapcsolat interpersonal, interorg vagy person_to_org 
       # elmentjük a kapcsolatban résztvevőket és a kapcsolatot
       if litigable.respond_to?(:person) && 
@@ -228,28 +237,26 @@ class SiteSearchController < ApplicationController
 
   def generate_node_edges_for_node(node)
     if node.kind_of?(Person)
-      # adott személy személyes kapcsolatai
-      node.personal_non_litigation_relations.each do |personal_relation|
-        # csak akkor generáljuk ki a kapcsolatot ha a célszemély is látható az oldalon
-        if @non_litigation_nodes.include? personal_relation.related_person
-          generate_edge(personal_relation.related_person, 'p', personal_relation, node)
-        end
+      # adott személy azon személyes kapcsolatai, amelyeknél a kapcsolódó személy megtalálható a kirajzolandó hálón
+      node.personal_non_litigation_relations.all(:include=>[:information_source, :p2p_relation_type], 
+                                                 :conditions=>{:related_person_id=>@persons.*.id}).each do |personal_relation|
+        generate_edge(node, 'p', personal_relation, personal_relation.related_person_id, 'p')
       end
-      node.person_to_org_non_litigation_relations.each do |org_relation|
-        if @non_litigation_nodes.include? org_relation.organization
-          generate_edge(org_relation.organization, 'o', org_relation, node)
-        end
+      # adott személy azon szervezeti kapcsolatai, amelyeknél a kapcsolódó szervezet megtalálható a kirajzolandó hálón
+      node.person_to_org_non_litigation_relations.all(:include=>[:information_source, :p2o_relation_type],
+                                                      :conditions=>{:organization_id=>@organizations.*.id}).each do |org_relation|
+        generate_edge(node, 'p', org_relation, org_relation.organization_id, 'o')
       end
     elsif node.kind_of?(Organization)
-      node.person_to_org_non_litigation_relations.each do |personal_relation|
-        if @non_litigation_nodes.include? personal_relation.person
-          generate_edge(personal_relation.person, 'p', personal_relation, node)
-        end
+      # adott szervezet azon személyes kapcsolatai, amelyeknél a kapcsolódó személy megtalálható a kirajzolandó hálón
+      node.person_to_org_non_litigation_relations.all(:include=>[:information_source, :p2o_relation_type], 
+                                                      :conditions=>{:person_id=>@persons.*.id}).each do |personal_relation|
+        generate_edge(node, 'o', personal_relation, personal_relation.person_id, 'p')
       end
-      node.interorg_non_litigation_relations.each do |org_relation|
-        if @non_litigation_nodes.include? org_relation.related_organization
-          generate_edge(org_relation.related_organization, 'o', org_relation, node)
-        end
+      # adott szervezet azon szervezeti kapcsolatai, amelyeknél a kapcsolódó szervezet megtalálható a kirajzolandó hálón
+      node.interorg_non_litigation_relations.all(:include=>[:information_source, :o2o_relation_type],
+                                                 :conditions=>{:related_organization_id=>@organizations.*.id}).each do |org_relation|
+        generate_edge(node, 'o', org_relation, org_relation.related_organization_id, 'o')
       end
     end
   end
@@ -262,22 +269,20 @@ class SiteSearchController < ApplicationController
       @persons << resource unless @persons.include? resource
       
       # személyes kapcsolatok
-      resource.personal_non_litigation_relations.each do |personal_relation|
+      resource.personal_non_litigation_relations.all(:include=>{:related_person=>:information_source}).each do |personal_relation|
         # ha még nem látható az oldalon akkor kigeneráljuk a személyt
         unless @persons.include? personal_relation.related_person
           @persons << personal_relation.related_person
           generate_node(personal_relation.related_person, 'p')
-          generate_edge(personal_relation.related_person, 'p', personal_relation, resource)
         end
       end
       
       # intézményes kapcsolatok  
-      resource.person_to_org_non_litigation_relations.each do |org_relation|
+      resource.person_to_org_non_litigation_relations.all(:include=>{:organization=>[:information_source, :recent_financial_year]}).each do |org_relation|
         # ha még nem látható az oldalon akkor kigeneráljuk az intézményt
         unless @organizations.include? org_relation.organization
           @organizations << org_relation.organization
           generate_node(org_relation.organization, 'o')
-          generate_edge(org_relation.organization, 'o', org_relation, resource)
         end
       end
       
@@ -293,7 +298,8 @@ class SiteSearchController < ApplicationController
       generate_node(resource, params[:type])
     # ha organization kapcsolatait fedik fel
     elsif params[:type] == 'o'
-      set_network_for_organization(params[:id])
+      @this = Organization.find(params[:id])
+      set_network_for_organization(@this)
     # ha litigation kapcsolatait fedik fel
     elsif params[:type] == 'l'
       @this = resource = Litigation.find(params[:id])
@@ -307,6 +313,7 @@ class SiteSearchController < ApplicationController
       interorg_relation = InterorgRelation.find(params[:id])
       @this = interorg_relation.organization
       @target = interorg_relation.related_organization
+      @explored_node = @this
       if interorg_relation
         set_network_for_organization(@this)
         set_network_for_organization(@target)
@@ -316,23 +323,25 @@ class SiteSearchController < ApplicationController
     generate_node_edges_for_visible_non_litigation_nodes
   end
 
-  def set_network_for_organization(id)
-    @this = resource = Organization.find(id)
-    @explored_node = resource
+  def set_network_for_organization(resource)
     @organizations << resource unless @organizations.include? resource
 
     # személyes kapcsolatok
-    resource.person_to_org_non_litigation_relations.each do |personal_relation|
-      @persons << personal_relation.person
-      generate_node(personal_relation.person, 'p')
-      generate_edge(personal_relation.person, 'p', personal_relation, resource)
+    resource.person_to_org_non_litigation_relations.all(:include=>{:person=>:information_source}).each do |personal_relation|
+      # ha még nem látható az oldalon akkor kigeneráljuk a személyt
+      unless @persons.include? personal_relation.person
+        @persons << personal_relation.person
+        generate_node(personal_relation.person, 'p')
+      end
     end
 
     # intézményes kapcsolatok  
-    resource.interorg_non_litigation_relations.each do |org_relation|
-      @organizations << org_relation.related_organization
-      generate_node(org_relation.related_organization, 'o')
-      generate_edge(org_relation.related_organization, 'o', org_relation, resource)
+    resource.interorg_non_litigation_relations.all(:include=>{:related_organization=>[:information_source, :recent_financial_year]}).each do |org_relation|
+      # ha még nem látható az oldalon akkor kigeneráljuk az intézményt
+      unless @organizations.include? org_relation.related_organization
+        @organizations << org_relation.related_organization
+        generate_node(org_relation.related_organization, 'o')
+      end
     end
 
     # személyes peres kapcsolatok
