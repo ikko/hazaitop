@@ -680,6 +680,34 @@ namespace :fetch do
     puts (Organization.count - i).to_s + " organization added"
   end
 
+  desc 'fetch article dates'
+  task :dates => :environment do
+    info_id = InformationSource.find_by_name('k-monitor.hu').id
+    f_p2p = P2pRelationType.find_by_name('sajtó')
+    f_o2o = O2oRelationType.find_by_name('sajtó')
+    f_o2p = O2pRelationType.find_by_name('sajtó')
+    f_p2o = P2oRelationType.find_by_name('sajtó')
+    articles = Nokogiri::HTML(open('http://www.k-monitor.hu/adatbazis/kereses'))
+#    (1..articles.css("span.result")[0].children[0].text.to_i / 10 + 1).each do |i|
+    (1..156).each do |i|
+      puts "fetching page #{i} on k-monitor.hu at " + Time.now.to_s
+      articles = Nokogiri::HTML(open("http://www.k-monitor.hu/kereses?page=#{i}"))
+      articles.css(".news_list_1").each do |article|
+        if article.search("input[@name='halora']").first.attributes['value'].value == "igen"
+          wlink = article.css("h3 a")[0].attributes['href'].value.split('?')[0] || ""
+          issue_date = article.css(".extra a")[1].text.to_textual_id.to_date
+          puts internet_address = "http://www.k-monitor.hu/" + wlink
+          a = Article.find_by_internet_address(internet_address) 
+          if a 
+            puts a.issued_at = issue_date
+            a.save
+          end
+        end
+      end
+    end
+  end
+          
+   
   desc 'fetch article'
   task :articles => :environment do
     info_id = InformationSource.find_by_name('k-monitor.hu').id
@@ -689,19 +717,23 @@ namespace :fetch do
     f_p2o = P2oRelationType.find_by_name('sajtó')
     articles = Nokogiri::HTML(open('http://www.k-monitor.hu/adatbazis/kereses'))
 #    (1..articles.css("span.result")[0].children[0].text.to_i / 10 + 1).each do |i|
-    (1..151).each do |i|
+    (24..151).each do |i|
       puts "fetching page #{i} on k-monitor.hu at " + Time.now.to_s
       articles = Nokogiri::HTML(open("http://www.k-monitor.hu/kereses?page=#{i}"))
       articles.css(".news_list_1").each do |article|
         if article.search("input[@name='halora']").first.attributes['value'].value == "igen"
           wlink = article.css("h3 a")[0].attributes['href'].value.split('?')[0] || ""
+          issue_date = article.css(".extra a")[1].text.gsub('május', 'may').gsub('szept','sept').gsub('okt','oct').to_textual_id.to_date
           puts internet_address = "http://www.k-monitor.hu/" + wlink
           a = Article.find_or_create_by_internet_address(internet_address) do |r|
             r.summary = article.css(".n_teaser")[0].children[0].text
             r.title = article.css("h3 a")[0].children[0].text
             r.weblink = wlink 
+            r.issued_at = issue_date
             r.internet_address = internet_address
           end
+          puts a.issued_at = issue_date
+          a.save
           tags = []
           article.css(".links a, .links_starred a").each do |link|
             href = link.attributes['href'].value.sub("/kereses","").split('?')[0]
@@ -716,8 +748,18 @@ namespace :fetch do
                 if t1.kind_of?(Person) and t2.kind_of?(Person)
                   relation = InterpersonalRelation.find( :first, :conditions => [ 'person_id = ? and related_person_id = ? and information_source_id = ?', t1.id, t2.id, info_id ])
                   unless relation
-                    relation = InterpersonalRelation.create!( :person_id => t1.id, :related_person_id => t2.id, :information_source_id => info_id, :p2p_relation_type_id => f_p2p.id )
+                    relation = InterpersonalRelation.create!( :person_id => t1.id, 
+                                                              :related_person_id => t2.id,
+                                                              :information_source_id => info_id,
+                                                              :p2p_relation_type_id => f_p2p.id,
+                                                              :start_time => issue_date,
+                                                              :no_end_time => true
+                                                            )
                     puts "new relation for #{t1.name} and #{t2.name}"
+                  else
+                    relation.start_time = issue_date
+                    relation.no_end_time = true
+                    relation.save
                   end
                   unless relation.articles.include?(a)
                     relation.articles << a
@@ -727,8 +769,11 @@ namespace :fetch do
                 if t1.kind_of?(Organization) and t2.kind_of?(Organization)
                   relation = InterorgRelation.find( :first, :conditions => [ 'organization_id = ? and related_organization_id = ? and information_source_id = ?', t1.id, t2.id, info_id])
                   unless relation
-                    relation = InterorgRelation.create!( :organization_id => t1.id, :related_organization_id => t2.id, :information_source_id => info_id, :o2o_relation_type_id => f_o2o.id)
+                    relation = InterorgRelation.create!( :organization_id => t1.id, :related_organization_id => t2.id, :information_source_id => info_id, :o2o_relation_type_id => f_o2o.id, :issued_at => issue_date )
                     puts "new relation for #{t1.name} and #{t2.name}"
+                  else
+                    relation.issued_at = issue_date
+                    relation.save
                   end
                   unless relation.articles.include?(a)
                     relation.articles << a
@@ -737,8 +782,18 @@ namespace :fetch do
                 if t1.kind_of?(Person) and t2.kind_of?(Organization)
                   relation = PersonToOrgRelation.find( :first, :conditions => [ 'person_id = ? and organization_id = ? and information_source_id = ?', t1.id, t2.id, info_id])
                   unless relation
-                    relation = PersonToOrgRelation.create!( :person_id => t1.id, :organization_id => t2.id, :information_source_id => info_id, :p2o_relation_type_id => f_p2o.id)
+                    relation = PersonToOrgRelation.create!( :person_id => t1.id, 
+                                                            :organization_id => t2.id,
+                                                            :information_source_id => info_id,
+                                                            :p2o_relation_type_id => f_p2o.id,
+                                                            :start_time => issue_date,
+                                                            :no_end_time => true
+                                                          )
                     puts "new relation for #{t1.name} and #{t2.name}"
+                  else
+                    relation.start_time = issue_date 
+                    relation.no_end_time = true 
+                    relation.save
                   end
                   unless relation.articles.include?(a)
                     relation.articles << a

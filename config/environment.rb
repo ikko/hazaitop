@@ -46,6 +46,8 @@ Rails::Initializer.run do |config|
   config.i18n.default_locale = :hu
 end
 
+require 'textual'
+
 # smtp-tls gem madness
 begin
   require 'smtp-tls'
