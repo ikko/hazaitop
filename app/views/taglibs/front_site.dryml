@@ -719,50 +719,6 @@
           });
         })(jQuery)
       </script>
-      <% if this.person_to_org_relations_count > 0 || this.interorg_relations_count > 0 || this.financials_count > 0 %>
-
-        <div class="tabs">
-          <div if="&this.person_to_org_relations_count>0" class="active tab">
-            <a href="#person_to_org_content">SZEMÉLYEK</a>
-          </div>
-          <div if="&this.person_to_org_relations_count>0 && (this.interorg_relations_count>0 || this.financials_count>0)" class="separator"></div>
-          <div if="&this.interorg_relations_count>0" class="#{'active ' if this.person_to_org_relations_count==0} tab">
-            <a href="#interorg_content">SZERVEZETEK</a>
-          </div>
-          <div if="&this.interorg_relations_count>0 && this.financials_count>0" class="separator"></div>
-          <div if="&this.financials_count>0" class="#{'active ' if this.person_to_org_relations_count==0 && this.interorg_relations_count==0} tab">
-            <a href="#financial_content">PÉNZÜGYEK</a>
-          </div>
-        </div>
-        <div if="&this.person_to_org_relations_count>0" id="person_to_org_content" class="tab_content">
-          <table-plus with="&@this.person_to_org_relations.paginate(:per_page=>10, :page=>1)" fields="person, o2p_relation_type, start_time, end_time, information_source, article_relations" without-search>
-            <article-relations-view:>
-              <% this.each do |r| %>
-                <a href="#{article_path(r.article_id)}"><view with="&r.article.id"/></a>&nbsp;
-              <% end %>
-            </article-relations-view:>
-            <end-time-view:>
-              <view format="%B %d, %Y" if="&!this_parent.no_end_time"/>
-              <ht if="&this_parent.no_end_time" key="custom.ongoing">ongoing</ht>
-            </end-time-view:>
-          </table-plus>
-        </div>
-        <div if="&this.interorg_relations_count>0" id="interorg_content" class="tab_content">
-          <table-plus with="&@this.interorg_relations.paginate(:per_page=>10, :page=>1)" fields="related_organization, o2o_relation_type, information_source, value, currency, vat_incl, contract, tender, article_relations" without-search-form >
-            <value-view:>
-              <view with="&commify(this)"/>
-            </value-view:>
-            <article-relations-view:>
-              <% this.each do |r| %>
-                <a href="#{article_path(r.article_id)}"><view with="&r.article.id"/></a>&nbsp;
-              <% end %>
-            </article-relations-view:>
-          </table-plus>
-        </div>
-        <div if="&this.financials_count>0" id="financial_content" class="tab_content">
-          <table-plus:financials fields="year, balance_sheet_total, turnover" without-search-form />
-        </div>
-      <% end %>
       <div class="contents">
         <div class="tabs">
           <div class="active tab"><a href="#people_content">SZEMÉLYEK</a></div><div class="separator"></div>
