@@ -396,8 +396,9 @@ var network;
       network.nodeDblClicked(event, $('#person_node ul span:first').text());
     });
 
-    $("#node_details_tab a").live('click', function() {
+    $("#node_details_tab a").live('click', function(e) {
       var id, match = $(this).attr('id').match(/(p|o|l)(\d+)_tab/);
+      e.preventDefault();
       $selectedElemType.val(match[1]);
       $selectedElemId.val(match[2]);
       id = $selectedElemType.val() + $selectedElemId.val();
