@@ -619,7 +619,7 @@
 </def>
 
 <def tag="table-plus-organization-person-to-org">
-  <table-plus fields="person, o2p_relation_type, start_time, end_time, information_source, article_relations" without-search-form>
+  <table-plus fields="person, o2p_relation_type, start_time, end_time, article_relations, information_source" without-search-form>
     <article-relations-view:>
       <% this.each do |r| %>
         <a href="#{article_path(r.article_id)}"><view with="&r.article.title[0..60].strip + '...'"/></a><br/>
@@ -634,7 +634,7 @@
 </def>
 
 <def tag="table-plus-organization-interorg">
-  <table-plus fields="related_organization, o2o_relation_type, information_source, value, currency, vat_incl, contract, tender, article_relations" without-search-form>
+  <table-plus fields="related_organization, o2o_relation_type, value, currency, vat_incl, contract, tender, article_relations, information_source" without-search-form>
     <value-view:>
       <view with="&commify(this)"/>
     </value-view:>
@@ -654,7 +654,7 @@
 </def>
 
 <def tag="table-plus-person-interperson">
-  <table-plus fields="related_person, p2p_relation_type, organization, information_source, article_relations" without-search-form>
+  <table-plus fields="related_person, p2p_relation_type, organization, article_relations, information_source" without-search-form>
     <article-relations-view:>
       <% this.each do |r| %>
         <a href="#{article_path(r.article_id)}"><view with="&r.article.title[0..60].strip + '...'"/></a><br/>
@@ -665,10 +665,10 @@
 </def>
 
 <def tag="table-plus-person-person-to-org">
-  <table-plus fields="organization, p2o_relation_type, start_time, end_time, information_source, article_relations" without-search-form>
+  <table-plus fields="organization, p2o_relation_type, start_time, end_time, article_relations, information_source" without-search-form>
     <article-relations-view:>
       <% this.each do |r| %>
-        <a href="#{article_path(r.article_id)}"><view with="&r.article.title[0..60].strip + '...'"/></a><br/>;
+        <a href="#{article_path(r.article_id)}"><view with="&r.article.title[0..60].strip + '...'"/></a><br/>
       <% end %>
     </article-relations-view:>
     <end-time-view:>
