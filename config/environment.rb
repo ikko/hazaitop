@@ -7,6 +7,9 @@ RAILS_GEM_VERSION = '2.3.8' unless defined? RAILS_GEM_VERSION
 # Bootstrap the Rails environment, frameworks, and default configuration
 require File.join(File.dirname(__FILE__), 'boot')
 
+KOZBESZ_NYERTES = "közbesz nyertes"
+PALYAZO = "pályázó"
+
 Rails::Initializer.run do |config|
   #config.gem 'hobo'
   #config.gem 'domainatrix'

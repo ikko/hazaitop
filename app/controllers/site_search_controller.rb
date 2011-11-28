@@ -311,10 +311,16 @@ class SiteSearchController < ApplicationController
     # ha transaction kapcsolatait fedik fel  
     elsif params[:type] == 't'
       @explored_node = interorg_relation = InterorgRelation.find(params[:id])
-      @this = interorg_relation.organization
+      if @explored_node.o2o_relation_type==KOZBESZ_NYERTES && !@explored_node.mirror || @explored_node.o2o_relation_type==PALYAZO && @explored_node.mirror 
+        @this = interorg_relation.organization
+        @target = interorg_relation.related_organization
+      else
+        @this = interorg_relation.related_organization
+        @target = interorg_relation.organization
+        @explored_node = interorg_relation.interorg_relation
+      end
       if interorg_relation
-        set_network_for_organization(interorg_relation.organization)
-        set_network_for_organization(interorg_relation.related_organization)
+        set_network_for_organization(@this)
       end
     end
     # person és organization node-ok közötti kapcsolatok kigenerálása
@@ -325,7 +331,7 @@ class SiteSearchController < ApplicationController
     @organizations << resource unless @organizations.include? resource
 
     # személyes kapcsolatok
-    resource.person_to_org_non_litigation_relations.all(:include=>{:person=>:information_source}, :limit=>5).each do |personal_relation|
+    resource.person_to_org_non_litigation_relations.all(:include=>{:person=>:information_source}).each do |personal_relation|
       # ha még nem látható az oldalon akkor kigeneráljuk a személyt
       unless @persons.include? personal_relation.person
         @persons << personal_relation.person
@@ -334,7 +340,7 @@ class SiteSearchController < ApplicationController
     end
 
     # intézményes kapcsolatok  
-    resource.interorg_non_litigation_relations.all(:include=>{:related_organization=>[:information_source, :recent_financial_year]}, :limit=>5).each do |org_relation|
+    resource.interorg_non_litigation_relations.all(:include=>{:related_organization=>[:information_source, :recent_financial_year]}).each do |org_relation|
       # ha még nem látható az oldalon akkor kigeneráljuk az intézményt
       unless @organizations.include? org_relation.related_organization
         @organizations << org_relation.related_organization
