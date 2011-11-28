@@ -91,6 +91,10 @@ class Organization < ActiveRecord::Base
   has_many :org_histories
   # --- Permissions --- #
 
+  def address
+    "#{zip_code} #{city}, #{street}"
+  end
+
   def create_permitted?
     acting_user.administrator? || (acting_user.editor? && user.id == acting_user.id)
   end

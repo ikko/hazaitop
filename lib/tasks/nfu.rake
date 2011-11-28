@@ -22,7 +22,7 @@ namespace :nfu do
 
 
                 palyaztato = Organization.find_by_name("Nemzeti Fejlesztési Ügynökség")
-    palyazo_rel = O2oRelationType.find_or_create_by_name('palyázó') do |r| r.name = 'pályázó' end
+    palyazo_rel = O2oRelationType.find_or_create_by_name(PALYAZO) do |r| r.name = PALYAZO end
     palyaztato_rel = O2oRelationType.find_or_create_by_name('palyáztató') do |r| r.name = 'pályáztató'; r.pair_id = palyazo_rel.id end
     palyazo_rel.pair_id = palyaztato_rel.id
     

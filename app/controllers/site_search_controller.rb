@@ -180,7 +180,7 @@ class SiteSearchController < ApplicationController
       nodes_in_litigation[:relation_pair].flatten!
       # kigeneráljuk a peres kapcsolatot (vmint a perben résztvevő egyéb node-okat)
       # ha az aktuálisan vizsgált node a) résztvevője a pernek b) ő maga egy per
-      if nodes_in_litigation[:nodes].include?(@explored_node) || @explored_node.kind_of?(Litigation)
+      if nodes_in_litigation[:nodes].include?(@this) || @this.kind_of?(Litigation)
         # kigeneráljuk a pert ha még nem látszik
         unless @litigations.include? litigation
           generate_node(litigation, 'l') 
@@ -310,11 +310,17 @@ class SiteSearchController < ApplicationController
       generate_node(resource, params[:type])
     # ha transaction kapcsolatait fedik fel  
     elsif params[:type] == 't'
-      @this = interorg_relation = InterorgRelation.find(params[:id])
-      @explored_node = interorg_relation.organization
+      @explored_node = interorg_relation = InterorgRelation.find(params[:id])
+      if @explored_node.o2o_relation_type==KOZBESZ_NYERTES && !@explored_node.mirror || @explored_node.o2o_relation_type==PALYAZO && @explored_node.mirror 
+        @this = interorg_relation.organization
+        @target = interorg_relation.related_organization
+      else
+        @this = interorg_relation.related_organization
+        @target = interorg_relation.organization
+        @explored_node = interorg_relation.interorg_relation
+      end
       if interorg_relation
-        set_network_for_organization(interorg_relation.organization)
-        set_network_for_organization(interorg_relation.related_organization)
+        set_network_for_organization(@this)
       end
     end
     # person és organization node-ok közötti kapcsolatok kigenerálása

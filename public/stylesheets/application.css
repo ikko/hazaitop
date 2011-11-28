@@ -639,10 +639,14 @@ h2 {
   text-align: center;
 }
 
-.pagination .ajax-loader {
+.pagination .ajax-loader, .order_list .ajax-loader {
   position: relative;
   top: 4px;
   width: 15px;
+}
+
+.order_list .ajax-loader {
+  top: 7px;
 }
 
 #network_clean {

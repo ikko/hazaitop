@@ -588,7 +588,7 @@ namespace :fetch do
                                                                       :currency => c_currency,
                                                                       :vat_incl => afa(c_ertek_afa),
                                                                       :contract_id => contract.id,
-                                                                      :o2o_relation_type_id => O2oRelationType.find_by_name("Közbesz nyertes").id,
+                                                                      :o2o_relation_type_id => O2oRelationType.find_by_name(KOZBESZ_NYERTES).id,
                                                                       :organization_id => megr.id,
                                                                       :related_organization_id => vall.id,
                                                                       :notification_id  => note.id,
