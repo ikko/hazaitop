@@ -7,11 +7,12 @@ class Article < ActiveRecord::Base
     summary :text
     internet_address :string, :required, :unique
     weblink :string
-    processed_at :date #TODO ez elvileg a created_at, de nekünk kellene az article tényleges létrehozása is
+    processed_at :date 
+    issued_at    :date
     timestamps
   end
 
-  default_scope :order => 'updated_at DESC'
+  default_scope :order => 'issued_at DESC'
 
   named_scope :recent, lambda {|limit|  {:limit => limit} }
 

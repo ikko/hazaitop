@@ -13,6 +13,10 @@
   width: 946px;
 }
 
+body {
+  font-family: "Trebuchet MS",Helvetica,Jamrul,sans-serif;
+}
+
 #logo { 
   display: block; 
   width: 385px; 
