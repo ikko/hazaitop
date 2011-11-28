@@ -9,11 +9,78 @@ class PeopleController < ApplicationController
 #  caches_page :show,  :expires_in => 4.minutes
 #  caches_page :index, :expires_in => 4.minutes
 
+  def create
+    add_new_entities
+    if flash[:errors].present?
+      redirect_to new_person_path and return 
+    else
+      hobo_create
+    end
+  end
+
   def update
+    add_new_entities    
+    redirect_to edit_person_path(params[:id]) and return if flash[:errors].present?
     hobo_update do
       PersonHistory.create( :user_id => current_user.id, :person_id => @this.id ) if @this.valid?
     end
   end
+
+  def add_new_entities
+    info_source = InformationSource.find_or_create_by_name('ahalo.hu') do |r| r.name = 'ahalo.hu'; r.web = 'http://ahalo.hu' end
+    if !params[:person][:personal_relations].blank?
+      params[:person][:personal_relations].each do |k,p|
+        if p[:related_person].blank?
+          flash[:errors] = 'related entity cannot be blank'
+        elsif !Person.find_by_name(p[:related_person])
+          first_name = p[:related_person].split(' ')
+          last_name = first_name.shift
+          first_name = first_name.join(' ')
+          Person.create( :first_name => first_name,
+                         :last_name => last_name, 
+                         :user_id => current_user.id,
+                         :information_source_id => p[:information_source_id].blank? ? info_source.id : p[:information_source_id]
+                       )
+        end
+        if !p[:article_relations].blank?
+          p[:article_relations].each do |k,a|
+            if a[:article].blank? or !Article.find_by_title( a[:article] )
+              if flash[:errors].present?
+                flash[:errors] << "\nArticle does not exist for #{p[:related_person]} with title #{a[:article]}"
+              else
+                flash[:errors] = "Article does not exist for #{p[:related_person]} with title #{a[:article]}"
+              end
+            end
+          end
+        end
+      end
+    end
+    if !params[:person][:person_to_org_relations].blank?
+      params[:person][:person_to_org_relations].each do |k,o|
+        if o[:organization].blank?
+          flash[:errors] = 'related entity cannot be blank'
+        elsif !Organization.find_by_name(o[:organization])
+          Organization.create(:name => o[:organization], 
+                              :user_id => current_user.id,
+                              :information_source_id => p[:information_source_id].blank? ? info_source.id : p[:information_source_id]
+                             )
+        end
+        if !o[:article_relations].blank?
+          o[:article_relations].each do |k,a|
+            if a[:article].blank? or !Article.find_by_title( a[:article] )
+              if flash[:errors].present?
+                flash[:errors] << "\nArticle does not exist for #{o[:organization]} with title #{a[:article]}"
+              else
+                flash[:errors] = "Article does not exist for #{o[:organization]} with title #{a[:article]}"
+              end
+            end
+          end
+        end
+      end
+    end
+
+  end
+
 
   index_action :search do
     query = params[:query] || ""

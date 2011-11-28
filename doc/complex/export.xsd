@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<xs:element name="export">
+		<xs:complexType>
+		<xs:sequence maxOccurs="unbounded">
+			<xs:element name="ceg" maxOccurs="unbounded">
+				<xs:complexType>
+				<xs:sequence maxOccurs="unbounded">
+					<xs:element name="rovat" maxOccurs="unbounded">
+						<xs:complexType>
+						<xs:sequence maxOccurs="unbounded">
+							<xs:element name="alrovat" maxOccurs="unbounded">
+								<xs:complexType>
+								<xs:sequence maxOccurs="unbounded">
+									<xs:element name="mezo" maxOccurs="unbounded">
+										<xs:complexType mixed="true">
+										<xs:sequence minOccurs="0" maxOccurs="unbounded">
+											<xs:element name="ujsor"></xs:element>
+										</xs:sequence>
+										<xs:attribute name="id" type="xs:string" use="required" />
+										</xs:complexType>
+									</xs:element>
+								</xs:sequence>
+								<xs:attribute name="id" type="xs:string" use="required" />
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+						<xs:attribute name="id" type="xs:string" use="required" />
+						</xs:complexType>
+					</xs:element>
+				</xs:sequence>
+				<xs:attribute name="id" type="xs:string" use="required" />
+				</xs:complexType>
+			</xs:element>
+		</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

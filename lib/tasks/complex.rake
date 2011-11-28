@@ -30,11 +30,8 @@ namespace :complex do
       cegjegyzekszam = file.to_s[0..1] + '-' + file.to_s[2..3] + '-' + file.to_s[4..9]
       org = Organization.find_or_create_by_trade_register_nr( cegjegyzekszam ) do |r| r.name = cegjegyzekszam + rand(3000).to_s end
       
-      org.name = 
-
-
       f = File.open(file)
-        doc = Nokogiri::XML(f)
+      doc = Nokogiri::XML(f)
 
 
       f.close
