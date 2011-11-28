@@ -962,9 +962,9 @@
       <li>Kapcsolodó szervezet: <span class="org"><view:organization.name if-blank="Nincs adat" no-wrapper/></span></li>
       <li>Kapcsolodó szervezet: <span class="org"><view:related-organization.name if-blank="Nincs adat" no-wrapper/></span></li>
       <li>Időpont: <span class="issued_at"><view:issued-at if-blank="Nincs adat" no-wrapper/></span></li>
-      <li>Információ forrás: <span class="source"><view:source if-blank="Nincs adat" no-wrapper/></span></li>
+      <li>Információ forrás: <span class="source"><view:information-source if-blank="Nincs adat" no-wrapper/></span></li>
       <li>Érték: <span class="value"><view:value if-blank="Nincs adat" no-wrapper/></span></li>
-      <li>Hirdetmény: <span class="contract"><view with="&@this.contact || @this.tender" if-blank="Nincs adat" no-wrapper/></span></li>
+      <li>Hirdetmény: <span class="contract"><view with="&@this.contract || @this.tender" if-blank="Nincs adat" no-wrapper/></span></li>
       <li></li>
     </ul>
   </div>
