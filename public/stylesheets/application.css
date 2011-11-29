@@ -707,7 +707,12 @@ h2 {
 }
 
 #network_info {
+  text-align: left;
+}
+
+.tab_content p {
   padding: 15px;
+  text-align: center;
 }
 
 #search_content .ajax_loader {
