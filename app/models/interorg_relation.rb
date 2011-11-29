@@ -3,6 +3,7 @@ class InterorgRelation < ActiveRecord::Base
   hobo_model # Don't put anything above this
 
   fields do
+    name         :text
     timestamps
     mirrored     :boolean, :default => false
     mirror       :boolean, :default => false
@@ -11,6 +12,7 @@ class InterorgRelation < ActiveRecord::Base
     value        :integer, :limit => 8
     currency     :string
     vat_incl     :boolean
+    issued_at    :date
   end
 
   default_scope :order => "related_organization_id"
@@ -21,7 +23,7 @@ class InterorgRelation < ActiveRecord::Base
 
   has_many :article_relations, :as => :relationable, :accessible => true
   has_many :articles, :through => :article_relations, :accessible => true
-  
+
   belongs_to :o2o_relation_type
   belongs_to :organization, :counter_cache => true
 
@@ -38,6 +40,14 @@ class InterorgRelation < ActiveRecord::Base
   validate :litigation_related
   validate :source_present
 
+ has_many :interorg_relations #, :dependent => :destroy
+
+  after_destroy do |r| 
+    r.interorg_relations.first.try.destroy 
+    r.interorg_relation.try.destroy
+  end
+  
+
   def source_present
     if information_source.blank? and articles.empty?
       errors.add("Information source or article", "must present.")
@@ -46,9 +56,9 @@ class InterorgRelation < ActiveRecord::Base
 
 
   def litigation_related
-   unless litigations.blank?
-     errors.add("Litigation allowed only if", "relation type has legal aspect.") unless o2o_relation_type.litig
-   end
+    unless litigations.blank?
+      errors.add("Litigation allowed only if", "relation type has legal aspect.") unless o2o_relation_type.litig
+    end
   end
 
   before_save do |r|
@@ -65,20 +75,21 @@ class InterorgRelation < ActiveRecord::Base
       end
       visual = r.o2o_relation_type.visual
       interorg = InterorgRelation.create!(:interorg_relation_id => r.id,
-                              :organization_id => r.related_organization_id,
-                              :related_organization_id => r.organization_id,
-                              :interorg_relation_id => r.id,
-                              :o2o_relation_type_id => relation_type_id,
-                              :information_source_id => r.information_source_id,
-                              :visual => visual,
-                              :mirrored => true,
-                              :value => r.value,
-                              :currency => r.currency,
-                              :vat_incl => r.vat_incl,
-                              :contract_id => r.contract_id,
-                              :notification_id => r.notification_id,
-                              :tender_id => r.tender_id,
-                              :mirror => true)
+                                          :organization_id => r.related_organization_id,
+                                          :related_organization_id => r.organization_id,
+                                          :interorg_relation_id => r.id,
+                                          :o2o_relation_type_id => relation_type_id,
+                                          :information_source_id => r.information_source_id,
+                                          :visual => visual,
+                                          :mirrored => true,
+                                          :value => r.value,
+                                          :currency => r.currency,
+                                          :vat_incl => r.vat_incl,
+                                          :contract_id => r.contract_id,
+                                          :notification_id => r.notification_id,
+                                          :tender_id => r.tender_id,
+                                          :issued_at => r.issued_at,
+                                          :mirror => true)
       interorg.articles = r.articles
       interorg.litigations = r.litigations
       r.update_attributes :mirrored => true, :interorg_relation_id => interorg.id, :visual => visual
@@ -114,6 +125,8 @@ class InterorgRelation < ActiveRecord::Base
       r.destroy
     end
   end
+
+
 
   # --- Permissions --- #
 

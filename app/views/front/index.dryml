@@ -1,46 +1,93 @@
 <page title="Home">
 
+  <!--append-custom-scripts:>
+    <hjq-assets/>
+  </append-custom-scripts:-->
+  <append-head:>
+    <script>
+      (function($) {
+        $(function(){
+          $("#people_content .pagination a").live('click', function(e) {
+            $(this).html(spinnerImg);
+            $.ajax({url: $(this).attr('href'), success: function(data) {$("#people_content").html(data)}});
+            e.preventDefault();
+          });
+          $("#people_content .order_list a").live('click', function(e) {
+            $(this).html(spinnerImg);
+            $.ajax({url: $(this).attr('href'), success: function(data) {$("#people_content").html(data)}});
+            e.preventDefault();
+          });
+
+          $("#orgs_content .pagination a").live('click', function(e) {
+            $(this).html(spinnerImg);
+            $.ajax({url: $(this).attr('href'), success: function(data) {$("#orgs_content").html(data)}});
+            e.preventDefault();
+          });
+          $("#orgs_content .order_list a").live('click', function(e) {
+            $(this).html(spinnerImg);
+            $.ajax({url: $(this).attr('href'), success: function(data) {$("#orgs_content").html(data)}});
+            e.preventDefault();
+          });
+
+          $("#trans_content .pagination a").live('click', function(e) {
+            $(this).html(spinnerImg);
+            $.ajax({url: $(this).attr('href'), success: function(data) {$("#trans_content").html(data)}});
+            e.preventDefault();
+          });
+          $("#trans_content .order_list a").live('click', function(e) {
+            $(this).html(spinnerImg);
+            $.ajax({url: $(this).attr('href'), success: function(data) {$("#trans_content").html(data)}});
+            e.preventDefault();
+          });
+        });
+      })(jQuery)
+    </script>
+  </append-head:>
   <body: class="front-page"/>
 
   <content:>
-    <header class="content-header">
-      <h1><ht key="custom.welcome">Welcome</ht></h1>
-      <section class="welcome-message">
-        <h3><ht key="homepage.title">This is the homepage</ht></h3>
-        <ul if="&I18n.locale == :hu">
-          <li>Az oldal célja a magyar politikai és gazdasági elit összefonódásának és kapcsolati hálójának feltérképezése az átláthatóbb közpénz-mozgás érdekében...</li>
-          <li if="&current_user.guest?"><a href="/login">Belépés</a> az adatok szerkesztéséhez...</li>
-        </ul>
+    <div class="content-header">
+      <a id="video_preview" class="left" href=""><img src="/images/video_preview.png"/></a>
+      <img src="/images/video_right.png" class="left"/>
+      <div id="welcome_message" class="left">
+        Az oldal célja a magyar <strong>politikai</strong> és<br /> <strong>gazdasági elit</strong> összefonódásának<br /> és <strong>kapcsolati háló</strong>jának feltérképezése<br /> az átláthatóbb közpénzmozgás érdekében.
+        <div id="quick_search_content_wrapper">
+          <div class='search'>
+            <input class='live-search' type='search' id="quick_search_input" value="Gyorskeresés"/>
+            <spinner id='search-spinner'/>
+          </div>
+          <section class='hidden' id='search-results-panel'>
+            <h2><ht key='hobo.live_search.results_label'>Search Results</ht></h2><img class="close-button" src="/images/x.jpg"></img>
+            <section id='search-results'>&nbsp;</section>
+          </section>
+          <div class="clear" id="welcome_message_bottom">
+            <a href="/detailed_search" id="quick_search" class="left">RÉSZLETES KERESÉS</a>
+            <a href="/site_search#search_content" id="to_map" class="left">TÉRKÉP</a>
+          </div>
+        </div>
+      </div>
+      <img src="/images/video_bottom.png"/>
+    </div>
+    <div class="content_body">
+      <div class="contents">
+        <div class="tabs">
+          <div class="active tab"><a href="#people_content">SZEMÉLYEK</a></div><div class="separator"></div>
+          <div class="tab"><a href="#orgs_content">SZERVEZETEK</a></div><div class="separator"></div>
+          <div class="tab"><a href="#trans_content">TRANZAKCIÓK</a></div>
+        </div>
+        <div id="people_content" class="tab_content">
+          <table-plus-person with="&@people"/>
+        </div>
+        <div id="orgs_content" class="tab_content" style="display: none">
+          <table-plus-org with="&@organizations"/>
+        </div>
 
-        <ul if="&I18n.locale == :en">
-          <li>The purpose of this site is to reveal the network of Hungary's political and business elite in order to facilitate public money transition transparency...</li>
-          <li if="&current_user.guest?"><a href="/login">Login</a> to edit data...</li>
-        </ul>
-
-
-        <% if User.count == 0 -%>
-          <h3 style="margin-top: 20px;">There are no user accounts - please provide the details of the site administrator</h3>
-          <form with="&this || User.new" without-cancel>
-            <field-list: fields="name, email_address, password, password_confirmation"/>
-            <submit: label="Register Administrator"/>
-          </form>
-        <% end -%>
-
-
-      </section>
-    </header>
-
-
-    <section class="content-body">
-      <h2><ht key="homepage.organizations">Organizations</ht></h2>
-      <table-plus with="&Organization.list" fields="this, city, street, zip_code, information_source" without-search-form/>
-      <a href="#{organizations_path}">további szervezetek...</a><br />
-      <h2><ht key="homepage.people">People</ht></h2>
-      <table-plus with="&Person.list" fields="this, last_name, first_name, information_source" without-search-form>
-        <this-heading:>Személy</this-heading:>
-      </table-plus>
-      <a href="#{people_path}">további személyek...</a>
-    </section>
+        <div id="trans_content" class="tab_content" style="display: none">
+          <table-plus-trans with="&@transactions"/>
+        </div>
+      </div>
+      <div class="clear"></div>
+    </div>
   </content:>
 
 </page>

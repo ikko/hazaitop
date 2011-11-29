@@ -5,7 +5,7 @@ class InformationSource < ActiveRecord::Base
   fields do
     name     :string, :required
     web      :string, :required
-    weight   :float, :required, :default => 1
+    weight   :float, :default => 1
     domain_name   :string
     internal :boolean, :default => false
     timestamps

@@ -7,12 +7,14 @@ class Article < ActiveRecord::Base
     summary :text
     internet_address :string, :required, :unique
     weblink :string
-    processed_at :date
+    processed_at :date 
+    issued_at    :date
     timestamps
   end
 
+  default_scope :order => 'issued_at DESC'
 
-  default_scope :order => 'updated_at DESC'
+  named_scope :recent, lambda {|limit|  {:limit => limit} }
 
   belongs_to :information_source
   belongs_to :user

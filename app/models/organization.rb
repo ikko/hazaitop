@@ -3,21 +3,22 @@ class Organization < ActiveRecord::Base
   hobo_model # Don't put anything above this
 
   fields do
-    name                :string, :unique
-    klink               :string
-    street              :string
-    city                :string
-    zip_code            :string
-    phone               :string
-    fax                 :string
-    email_address       :string
-    internet_address    :string
-    trade_register_nr   :string
-    tax_nr              :string
-    founded_at          :date
-    number_of_employees :integer
-    interorg_relations_count :integer
-    person_to_org_relations_count :integer
+    name                          :string#, :unique
+    klink                         :string
+    street                        :string
+    city                          :string
+    zip_code                      :string
+    phone                         :string
+    fax                           :string
+    email_address                 :string
+    internet_address              :string
+    trade_register_nr             :string
+    tax_nr                        :string
+    founded_at                    :date
+    number_of_employees           :integer
+    interorg_relations_count      :integer, :default => 0
+    person_to_org_relations_count :integer, :default => 0
+    financials_count              :integer, :default => 0
     timestamps
   end
 
@@ -87,10 +88,12 @@ class Organization < ActiveRecord::Base
   validates_presence_of :information_source
   validates_numericality_of :number_of_employees, :if => lambda { |r| r.number_of_employees }
 
-  named_scope :list, :limit => 15, :order => "interorg_relations_count DESC" 
-  named_scope :listed, :order => "person_to_org_relations_count DESC" #, :conditions => "interorg_relations_count > 0 or person_to_org_relations_count > 0" 
   has_many :org_histories
   # --- Permissions --- #
+
+  def address
+    "#{zip_code} #{city}, #{street}"
+  end
 
   def create_permitted?
     acting_user.administrator? || (acting_user.editor? && user.id == acting_user.id)

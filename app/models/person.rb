@@ -3,21 +3,21 @@ class Person < ActiveRecord::Base
   hobo_model # Don't put anything above this
 
   fields do
-    first_name   :string, :required
-    last_name    :string, :required
+    first_name   :string #, :required
+    last_name    :string #, :required
     name         :string
     klink        :string
     born_at      :date
     mothers_name :string
-    interpersonal_relations_count :integer
-    person_to_org_relations_count :integer
+    interpersonal_relations_count :integer, :default => 0
+    person_to_org_relations_count :integer, :default => 0
     timestamps
   end
 
   default_scope  :order => 'last_name, first_name' 
 
   before_save do |r|
-    r.name = r.last_name + ', ' + r.first_name
+    r.name = r.last_name + ' ' + r.first_name
     if r.born_at and r.born_at.year == Time.now.year
       r.born_at = nil
     elsif r.born_at
@@ -51,10 +51,6 @@ class Person < ActiveRecord::Base
   belongs_to :information_source
   belongs_to :user, :creator => true
 
-  named_scope :list, :limit => 15, :order => "person_to_org_relations_count DESC"
-  # named_scope :listed, :order => "updated_at DESC"
-  named_scope :listed, :order => "interpersonal_relations_count DESC" #, :conditions => "interpersonal_relations_count > 0 or person_to_org_relations_count > 0" 
- 
   has_many :person_histories
 
   # --- Permissions --- #

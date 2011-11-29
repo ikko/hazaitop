@@ -12,6 +12,6 @@
   </field-list:>
   <append-content-body:>
     <view:cpvs/><br /><br />
-    <strong>Source:</strong> <a href="&this.notification.url" target="_blank">link</a><br />
+    <strong>Source:</strong> <a href="&this.notification.url" target="_blank"><%= this.notification.url %></a><br />
   </append-content-body:>
 </show-page>

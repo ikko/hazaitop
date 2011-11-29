@@ -1,6 +1,9 @@
 <page>
-  <append-scripts:>
-    <javascript name="AC_OETags.min, json2.min, cytoscapeweb.min, graph"/>
+  <append-stylesheets:>
+    <stylesheet name="jquery-ui-1.8.16.custom"/>
+  </append-stylesheets:>
+  <scripts:>
+    <javascript name="jquery-1.4.4, jquery-ui-1.8.16.custom.min, AC_OETags.min, json2.min, cytoscapeweb.min, application, graph"/>
     <script type='text/javascript'>
       <%= "var __debug = true;" if Rails.env.development? %>
       <%= "var __debug = false;" if Rails.env.production? %>
@@ -13,61 +16,109 @@
       }
       var xmmlGraph = <%= @network.to_json %>;
     </script>
-  </append-scripts:>
+  </scripts:>
   <content:>
-    <div class="left" id="search_box">
-      <div id="search_entities">
-        <ul>
-          <li><a href="#search_tab_people">Személyek</a></li>
-          <li><a href="#search_tab_organizations">Szervezetek</a></li>
-          <li><a href="#search_tab_litigations">Perek</a></li>
-        </ul>
-        <div id="search_tab_people">
-          Személy neve: <input class="autocomplete" id="people_autocomplete" type="text"/><img class="ajax_loader" src="/images/autocomplete-ajax-loader.gif"/>
+    <div id="map_wrapper">
+      <div id="map_panel" class="contents left">
+        <div id="map_tabs">
+          <div class="tab"><a id="map_link" href="#map_content">TÉRKÉP</a></div>
+          <div class="#{params[:type] && params[:id] ? '' : 'active'} tab"><a id="search_link" href="#search_content">KERESÉS</a></div>
+          <div class="#{params[:type] && params[:id] ? 'active' : ''} tab"><a id="profil_link" href="#profil_content">PROFIL</a></div>
+        </div>
+        <div id="map_content" style="display: none" class="tab_content">
+          <div id="checkbox_list">
+            <input type="checkbox" checked="checked" name=""/><label class="strong">Közbeszerzések</label><br />
+            <input id="person_relation" checked="checked" type="checkbox" name=""/><label class="strong">Személyek</label><br />
+            <% P2oRelationType.all.each do |rel_type| %>
+              <input class="person_relation" checked="checked" type="checkbox" id="p2o_relation_type" name="p2o_relation_type[id]" value="p2o#{rel_type.id}"/><label><%= rel_type.graph_label %></label><br />
+            <% end %>
+            <% P2pRelationType.all.each do |rel_type| %>
+              <input class="person_relation" checked="checked" type="checkbox" id="p2p_relation_type" name="p2p_relation_type[id]" value="p2p#{rel_type.id}"/><label><%= rel_type.graph_label %></label><br />
+            <% end %>
+            <input id="org_relation" type="checkbox" checked="checked" name=""/><label class="strong">Szervezetek</label><br />
+            <% O2pRelationType.all.each do |rel_type| %>
+              <input class="org_relation" type="checkbox" checked="checked" id="o2p_relation_type" name="o2p_relation_type[id]" value="o2p#{rel_type.id}"/><label><%= rel_type.graph_label %></label><br />
+            <% end %>
+            <% (O2oRelationType.visual + O2oRelationType.litig).each do |rel_type| %>
+              <input class="org_relation" type="checkbox" checked="checked" id="o2o_relation_type" name="o2o_relation_type[id]" value="o2o#{rel_type.id}"/><label><%= rel_type.graph_label %></label><br />
+            <% end %>
+          </div>
+        </div>
+        <div id="search_content" style="#{params[:type] && params[:id] ? 'display: none' : 'display: block'}" class="tab_content">
+          <label>Személy neve: </label><input class="autocomplete" id="people_autocomplete" type="text"/><img class="ajax_loader" id="people_search_ajax_loader" src="/images/autocomplete-ajax-loader.gif"/>
+          <div class="clear"></div>
+          <label>Szervezet neve: </label><input class="autocomplete" id="organization_autocomplete" type="text"/><img class="ajax_loader" id="organizations_search_ajax_loader" src="/images/autocomplete-ajax-loader.gif"/>
+          <div class="clear"></div>
+          <label>Per megnevezés: </label><input class="autocomplete" id="litigation_autocomplete" type="text"/><img class="ajax_loader" id="litigations_search_ajax_loader" src="/images/autocomplete-ajax-loader.gif"/>
+          <a id="network_clean" href="">Kirajzolt háló törlése</a>
+          <p id="network_info">Jelmagyarázat térképhez<br/>Leírás hogyan működik a keresés</p>
           <div class="clear"></div>
         </div>
-        <div id="search_tab_organizations">
-          Szervezet neve: <input class="autocomplete" id="organization_autocomplete" type="text"/><img class="ajax_loader" src="/images/autocomplete-ajax-loader.gif"/>
-          <div class="clear"></div>
-        </div>
-        <div id="search_tab_litigations">
-          Per megnevezés: <input class="autocomplete" id="litigation_autocomplete" type="text"/><img class="ajax_loader" src="/images/autocomplete-ajax-loader.gif"/>
-          <div class="clear"></div>
+        <div id="profil_content" style="#{params[:type] && params[:id] ? 'display: block' : 'display: none'}" class="tab_content">
+          <node-card with="&@explored_node" if="&@explored_node"/>
+          <div id="p2p_edge" class="node_attributes">
+            <ul>
+              <li>Kapcsolat megnevezése: <span class="name"></span></li>
+              <li>Kapcsolódó személy: <span class="person"></span></li>
+              <li>Kapcsolódó személy: <span class="person"></span></li>
+              <li>Kezdete: <span class="start_time"></span></li>
+              <li>Vége: <span class="end_time"></span></li>
+              <li>Információ forrás: <span class="source"></span></li>
+            </ul>
+          </div>
+          <div id="p2o_edge" class="node_attributes">
+            <ul>
+              <li>Kapcsolat megnevezése: <span class="name"></span></li>
+              <li>Kapcsolódó személy: <span class="person"></span></li>
+              <li>Kapcsolódó szervezet: <span class="org"></span></li>
+              <li>Kezdete: <span class="start_time"></span></li>
+              <li>Vége: <span class="end_time"></span></li>
+              <li>Információ forrás: <span class="source"></span></li>
+            </ul>
+          </div>
+          <div id="o2l_edge" class="node_attributes">
+            <ul>
+              <li>Kapcsolat megnevezése: <span class="name"></span></li>
+              <li>Kapcsolódó szervezet: <span class="org"></span></li>
+              <li>Kapcsolódó per: <span class="litigation"></span></li>
+              <li>Kezdete: <span class="start_time"></span></li>
+              <li>Vége: <span class="end_time"></span></li>
+              <li>Információ forrás: <span class="source"></span></li>
+            </ul>
+          </div>
+          <div id="p2l_edge" class="node_attributes">
+            <ul>
+              <li>Kapcsolat megnevezése: <span class="name"></span></li>
+              <li>Kapcsolódó szermély: <span class="person"></span></li>
+              <li>Kapcsolódó per: <span class="litigation"></span></li>
+              <li>Kezdete: <span class="start_time"></span></li>
+              <li>Vége: <span class="end_time"></span></li>
+              <li>Információ forrás: <span class="source"></span></li>
+            </ul>
+          </div>
+          <input type="hidden" name="id" id="selected_type" value="#{params[:type] == 't' ? 'edge' : 'node'}"/>
+          <input type="hidden" name="id" id="selected_elem_id" value="#{@explored_node.try.id}"/>
+          <input type="hidden" name="type" id="selected_elem_type" value="#{params[:type] == 't' ? 'o2o' : params[:type]}"/>
+          <input type="hidden" name="search_type" id="search_type"/>
+          <a style="#{params[:type] && params[:id] ? 'display: none' : ''}" href="#" id="load_node_relations">Kapcsolati háló felderítése</a><br />
+          <a href="" id="load_node_details" style="#{params[:type] && params[:id] ? 'display: block' : 'display: none'}">Részletes információk</a>
         </div>
       </div>
-      <div id="node_panel" class="ui-tabs ui-widget ui-widget-content ui-corner-all" style="display: none;">
-        <div class="ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all">Részletes információk</div>
-        <div id="person_node" class="node_attributes" style="display: none;">
-          <ul>
-            <li>Név: <span id="person_name"></span></li>
-            <li>Ajnya neve: <span id="mothers_name"></span></li>
-            <li>Születési év: <span id="born_at"></span></li>
-          </ul>
-        </div>
-        <div id="organization_node" class="node_attributes" style="display: none;">
-          <ul>
-            <li>Név: <span id="organization_name"></span></li>
-            <li>Cím: <span id="address"></span></li>
-            <li>Alapítás éve: <span id="founded_at"></span></li>
-            <li>Legfrissebb pénzügyi adatok</li>
-            <li>Év: <span id="year"></span></li>
-            <li>Forgalom: <span id="turnover"></span></li>
-            <li>Mérleg: <span id="balance"></span></li>
-          </ul>
-        </div>
-        <div id="litigation_node" class="node_attributes" style="display: none;">
-          <ul>
-            <li>Név: <span id="litigation_name"></span></li>
-            <li>Per kezdete: <span id="start_time"></span></li>
-            <li>Per vége: <span id="end_time"></span></li>
-          </ul>
-        </div>
-        <input type="hidden" name="id" id="selected_node_id" value="#{params[:id]}"/>
-        <input type="hidden" name="type" id="selected_node_type" value="#{params[:type]}"/>
-        <a href="#" id="load_node_relations">Kapcsolati háló felderítése</a>
-      </div>
+      <div class="left" id="relationgraph"></div>
     </div>
-    <div class="left" id="relationgraph" style="width: 70%;height: 400px"></div>
+    <div id="node_details_tab">
+      <a if="&@this" href="#" id="#{@this.class.to_s[0..0].downcase}#{@this.id}_tab_label" class="active"><%= @this.name %></a>
+      <a if="&@target" href="#" id="#{@target.class.to_s[0..0].downcase}#{@target.id}_tab_label"><%= @target.name %></a>
+    </div>
     <div class="clear"></div>
+    <div id="map_node_details">
+      <node-show-page without-head without-header without-to-map without-footer>
+        <content: id="#{@this.class.to_s[0..0].downcase}#{@this.id}_content"/>
+      </node-show-page>
+      <node-show-page with="&@target" without-head without-header without-to-map without-footer>
+        <content: style="display:none" id="#{@target.class.to_s[0..0].downcase}#{@target.id}_content"/>
+      </node-show-page>
+      <div class="temp"></div>
+    </div>
   </content:>
 </page>

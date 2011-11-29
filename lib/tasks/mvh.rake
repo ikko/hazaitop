@@ -30,7 +30,7 @@ namespace :mvh do
 
     # reading data...
 
-    file = File.open("tmp/agrar.csv")
+    file = File.open("db/ag2.csv")
 
     file.each_line do |f|
       a = f.split(';')
@@ -76,7 +76,8 @@ namespace :mvh do
                                :information_source_id => info.id,
                                :user_id => user.id,
                                :unique_string => us,
-                               :url => 'http://www.mvh.gov.hu'
+                               :url => 'http://www.mvh.gov.hu',
+                               :decided_at => "2011.06.30".to_date # TODO
                               )
 
 
