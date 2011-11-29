@@ -55,7 +55,7 @@
           <div class="clear"></div>
         </div>
         <div id="profil_content" style="#{params[:type] && params[:id] ? 'display: block' : 'display: none'}" class="tab_content">
-          <node-card with="&@explored_node"/>
+          <node-card with="&@explored_node" if="&@explored_node"/>
           <div id="p2p_edge" class="node_attributes">
             <ul>
               <li>Kapcsolat megnevezése: <span class="name"></span></li>
@@ -97,7 +97,7 @@
             </ul>
           </div>
           <input type="hidden" name="id" id="selected_type" value="#{params[:type] == 't' ? 'edge' : 'node'}"/>
-          <input type="hidden" name="id" id="selected_elem_id" value="#{@explored_node.id}"/>
+          <input type="hidden" name="id" id="selected_elem_id" value="#{@explored_node.try.id}"/>
           <input type="hidden" name="type" id="selected_elem_type" value="#{params[:type] == 't' ? 'o2o' : params[:type]}"/>
           <input type="hidden" name="search_type" id="search_type"/>
           <a style="#{params[:type] && params[:id] ? 'display: none' : ''}" href="#" id="load_node_relations">Kapcsolati háló felderítése</a><br />
