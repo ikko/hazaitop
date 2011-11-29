@@ -27,11 +27,10 @@ class FrontController < ApplicationController
     @transactions = InterorgRelation.value_is_not('').not_mirror.apply_scopes(:order_by=> parse_sort_param(:value, :issued_at)).paginate(:per_page=>10, :include=>[:organization, :related_organization, :o2o_relation_type, {:o2o_relation_type => :pair}], :page=>params[:page])
   end
 
-  def how_it_works end
-  def about end
-  def contact end
+  def how_it_works; end
+  def about; end
+  def contact; end
   def impressum; end
-
   def development; end
 
   def summary ; end

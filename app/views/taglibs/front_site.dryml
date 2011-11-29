@@ -110,7 +110,7 @@
         </div>
       </div>
       <div id="footer_bottom_links">
-        <a href="#{base_url}/front/development"><ht key="development.footer">fejlesztés</ht></a> | <a href="#{base_url}/front/impressum"><ht key="impressum.footer">impresszum</ht></a> | <a href="">api</a> | <a href="">kapcsolat</a> <span id="copyright">Copyright 2010-<%= Time.now.to_date.year %> K-Monitor KhE. and AMITABA - MUDRA Kft.</span>
+        <a href="#{base_url}/front/development"><ht key="development.footer">fejlesztés</ht></a> | <a href="#{base_url}/front/impressum"><ht key="impressum.footer">impresszum</ht></a> | <a href="/front/api">api</a> | <a href="/front/contact">kapcsolat</a> <span id="copyright">Copyright 2010-<%= Time.now.to_date.year %> K-Monitor KhE. and AMITABA - MUDRA Kft.</span>
       </div>
     </footer:>
   </old-page>
