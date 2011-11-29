@@ -508,7 +508,7 @@
     <div class="separator left">|</div>
     <a href="&url_for :controller => 'front', :action => 'trans_pagination', :sort=>'-issued_at'" class="left #{params[:sort] && params[:sort]=='-issued_at' ? 'active' : ''}">Legfrissebb</a>
   </div>
-  <table-plus fields="name, issued_at, value, organization, o2o_relation_type.name, related_organization, o2o_relation_type.pair.name" without-search-form merge>
+  <table-plus fields="name, issued_at, value, organization, o2o_relation_type.name, related_organization, o2o_relation_type.pair.name, information_source" without-search-form merge>
     <name-heading:><span>Név</span></name-heading:>
     <issued-at-heading:><span>Dátum</span></issued-at-heading:>
     <value-heading:><span>Összeg</span></value-heading:>
@@ -917,7 +917,7 @@
         <li>Időpont: <span class="issued_at"><view:issued-at if-blank="Nincs adat" no-wrapper/></span></li>
         <li>Információ forrás: <span class="source"><view:information-source if-blank="Nincs adat" no-wrapper/></span></li>
         <li>Érték: <span class="value"><view:value if-blank="Nincs adat" no-wrapper/></span></li>
-        <li>Hirdetmény: <span class="contract"><view with="&@explored_node.contract || @explored_node.tender" if-blank="Nincs adat" no-wrapper/></span></li>
+        <li>Hirdetmény: <span class="contract"><view with="&this.contract || this.tender" if-blank="Nincs adat" no-wrapper/></span></li>
         <li></li>
       </ul>
     </do>

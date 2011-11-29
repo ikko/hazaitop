@@ -653,7 +653,9 @@ h2 {
   text-align: center;
   margin: 0 auto;
   display: block;
-  margin-top: 11px;
+  margin-top: 20px;
+  color: black;
+  font-weight: bold;
 }
 
 #news {
@@ -670,6 +672,8 @@ h2 {
 
 #map_panel .tab_content {
   width: 100%;
+  height: 327px;
+  overflow-y: auto;
 }
 
 #map_content_header {
@@ -703,7 +707,12 @@ h2 {
 }
 
 #network_info {
+  text-align: left;
+}
+
+.tab_content p {
   padding: 15px;
+  text-align: center;
 }
 
 #search_content .ajax_loader {
@@ -848,8 +857,6 @@ h2 {
 .button:hover {cursor: pointer;}
 
 #checkbox_list {
-  overflow-y: scroll;
-  height: 358px;
   margin-top: 10px;
 }
 
