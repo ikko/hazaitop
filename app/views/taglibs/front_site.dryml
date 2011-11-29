@@ -917,7 +917,7 @@
         <li>Időpont: <span class="issued_at"><view:issued-at if-blank="Nincs adat" no-wrapper/></span></li>
         <li>Információ forrás: <span class="source"><view:information-source if-blank="Nincs adat" no-wrapper/></span></li>
         <li>Érték: <span class="value"><view:value if-blank="Nincs adat" no-wrapper/></span></li>
-        <li>Hirdetmény: <span class="contract"><view with="&@explored_node.contract || @explored_node.tender" if-blank="Nincs adat" no-wrapper/></span></li>
+        <li>Hirdetmény: <span class="contract"><view with="&this.contract || this.tender" if-blank="Nincs adat" no-wrapper/></span></li>
         <li></li>
       </ul>
     </do>
