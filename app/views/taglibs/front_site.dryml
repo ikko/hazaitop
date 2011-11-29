@@ -71,7 +71,7 @@
             <a href="#{url_for(article)}"><%= article.title %></a><span class="news_separator"></span>
           <% end %>
         <%= '</marquee>' %>
-      <div class="right"><%= Time.now.strftime("%Y. %B %d.").downcase -%><div class="separator">|</div><a href="http://www.k-monitor.hu">www.k-monitor.hu</a></div>
+      <div class="right"><%= Time.now.strftime("%Y. %B %d.").downcase -%><div class="separator">|</div><a target="_blank" href="http://www.k-monitor.hu">www.k-monitor.hu</a></div>
       </div>
     </header:>
     <content:>
@@ -89,7 +89,7 @@
         <a href="http://www.transparency.org" target="_blank">
           <img src="/images/transparency-international-logo.gif" height="50" alt="Transparency International"/>
         </a>
-        <a href="#" target="_blank">
+        <a href="/front/development" target="_blank">
           <img src="/images/amitaba-mudra-logo.gif" height="50" alt="AMITABA-MUDRA Kft." />
         </a>
         <a href="http://www.digitalnatives.hu" target="_blank">
@@ -347,7 +347,7 @@
             <field-list fields="person, o2p_relation_type, article_relations, start_time, end_time, no_end_time, litigations, information_source">
               <article-relations-view:>
                 <input-many>
-                  <a:article default="_blank"><view:id/></a>
+                  <a:article target="_blank"><view:id/></a>
                   <name-one:article/>
                 </input-many>
               </article-relations-view:>
@@ -379,7 +379,7 @@
               </information-source-view:>
               <article-relations-view:>
                 <input-many>
-                  <a:article default="_blank"><view:id/></a>
+                  <a:article target="_blank"><view:id/></a>
                   <name-one:article/>
                 </input-many>
               </article-relations-view:>
