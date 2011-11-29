@@ -71,7 +71,7 @@
             <a href="#{url_for(article)}"><%= article.title %></a><span class="news_separator"></span>
           <% end %>
         <%= '</marquee>' %>
-        <div class="right">2011. október 6.<div class="separator">|</div><a href="http://www.k-monitor.hu">www.k-monitor.hu</a></div>
+      <div class="right"><%= Time.now.strftime("%Y. %B %d.").downcase -%><div class="separator">|</div><a href="http://www.k-monitor.hu">www.k-monitor.hu</a></div>
       </div>
     </header:>
     <content:>
