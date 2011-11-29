@@ -466,7 +466,7 @@ table .odd {
   letter-spacing: 1px;
 }
 
-.card.article, .card.person, .card.organization, .card.contract {
+.card.article, .card.person, .card.organization, .card.contract, .card.interorg-relation {
   border-bottom: 2px solid #868789; 
   padding: 14px 0px;
 }
@@ -488,7 +488,7 @@ table .odd {
   color: black;
 }
 
-.heading .person-link, .heading .organization-link {
+.heading .person-link, .heading .organization-link, .heading .contract-link, .heading .tender-link {
   color: #6EA4B0;
 }
 

@@ -103,6 +103,7 @@ class FrontController < ApplicationController
 private
   def get_transactions
     transaction_conditions = []
+    transaction_conditions << ["interorg_relations.value != ?", 0]
     transaction_conditions << ["interorg_relations.value >= ?", params[:amount_from]] if params[:amount_from].present?
     transaction_conditions << ["interorg_relations.value <= ?", params[:amount_to]] if params[:amount_to].present?
     transaction_conditions << ["interorg_relations.issued_at >= ?", params[:date_from]] if params[:date_from].present?
@@ -111,18 +112,17 @@ private
     par = []
     transaction_conditions.flatten.each_with_index do |e, i|
       if i.even?
-        puts e.inspect
         cond << (i>0 ? " and #{e}" : e)
       else
         par << e
       end
     end
     builded_transaction_conditions = [cond] + par
-    Organization.search(params[:query], :name).
-                 paginate(:joins=>:interorg_relations, 
-                          :conditions=>builded_transaction_conditions, 
-                          :per_page=>10, 
-                          :page=>params[:page])
+    InterorgRelation.search(params[:query], :name).
+                     paginate(:include=>[:contract, :tender, :organization, :related_organization],
+                              :conditions=>builded_transaction_conditions, 
+                              :per_page=>10, 
+                              :page=>params[:page])
   end
 
   def get_people
