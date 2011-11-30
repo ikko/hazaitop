@@ -594,7 +594,7 @@ namespace :fetch do
                                                                       :notification_id  => note.id,
                                                                       :information_source_id => info.id,
                                                                       :issued_at => date,
-                                                                      :name => contract.description
+                                                                      :name => contract.description.blank? ? contract.name : contract.description
 
                                                                      )
                                                                      puts ":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::"
