@@ -39,7 +39,7 @@
           <ul>
             <li><a href="/people">Személyek</a></li>
             <li><a href="/organizations">Szervezetek</a></li>
-            <li><a href="/contracts">Tranzakciók</a></li>
+            <li><a href="/transactions">Tranzakciók</a></li>
           </ul>
         </div>
         <div class="header_link_column">
@@ -194,6 +194,19 @@
         <view:interpersonal_relations_count class="strong" if="&this.interpersonal_relations_count"/> személyi kapcsolat, 
         <view:person_to_org_relations_count class="strong" if="&this.person_to_org_relations_count"/> szervezeti kapcsolat
       </div>
+    </body:>
+  </card>
+</def>
+
+<def tag="card" for="InterorgRelation">
+  <card class="transaction" param="default" merge>
+    <header: param>
+      <h4 param="heading"><a><view:name/></a></h4>
+    </header:>
+    <body: param>
+      <view:organization class="strong"/>
+      <view:related-organization class="strong"/>
+      <view:value class="strong"/>
     </body:>
   </card>
 </def>
