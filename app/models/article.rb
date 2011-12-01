@@ -68,6 +68,10 @@ class Article < ActiveRecord::Base
 
   end
 
+  def to_param
+    "#{id}-#{title.to_textual_id}"
+  end
+
   # --- Permissions --- #
 
   def create_permitted?

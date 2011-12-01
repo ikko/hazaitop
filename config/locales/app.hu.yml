@@ -17,6 +17,9 @@ hu:
       heading: Új személy
     index:
       heading: Személyek
+      title: Személyek
+    show:
+      title: Személy
     edit:
       heading: Személy adatok és kapcsolatok szerkesztése
     name: név
@@ -273,6 +276,9 @@ hu:
     index:
       name: Szervezet
       heading: Szervezetek
+      title: Szervezetek
+    show:
+      title: Szervezet
     name: Név
     org_grade: Minőség
     sector: Ágazat
@@ -310,6 +316,9 @@ hu:
 
   interorg_relations:
     model_name: szervezetek közti kapcsolat
+    index:
+      heading: Tranzakciók
+      title: Tranzakciók
     related_organization: Kapcsolódó szervezet
     o2o_relation_type: Szervezetközi kappcsolat típusa
     litigations: Perek
@@ -317,6 +326,8 @@ hu:
     information_source: Információ forrás 
     hints:
       litigations: kapcsolódó perek, amennyiben vannak
+    collection:
+      count: Már %{count} tranzakció található.
       
   visualize:
     nav_item: Háló

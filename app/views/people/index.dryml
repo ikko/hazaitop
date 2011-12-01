@@ -4,8 +4,8 @@
       There <count prefix="are"/>
     </ht>
   </count:>
-  <top-page-nav: inner-window="14" />
-  <bottom-page-nav: inner-window="14" />
+  <top-page-nav: inner-window="10" />
+  <bottom-page-nav: inner-window="10" />
   <prepend-content-body:>
     <div id="index_page_order">
       <a class="button" href="/people/list?sort=name">ABC szerint</a>

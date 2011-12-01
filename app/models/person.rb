@@ -53,6 +53,10 @@ class Person < ActiveRecord::Base
 
   has_many :person_histories
 
+  def to_param
+    "#{id}-#{name.to_textual_id}"
+  end
+
   # --- Permissions --- #
 
   def create_permitted?
