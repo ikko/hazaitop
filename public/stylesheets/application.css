@@ -915,3 +915,7 @@ h2 {
   padding: 20px;
   margin: 10px;
 }
+
+.edit-page .button {
+  width: auto !important;
+}
