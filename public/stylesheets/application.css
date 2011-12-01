@@ -931,3 +931,13 @@ h2 {
 .edit-page .button {
   width: auto !important;
 }
+
+.completions-popup {
+  background: white;
+  border: 1px solid #7FB1BB;
+  color: #054756;
+}
+
+.completions-popup li {
+  border-bottom: dotted 1px;
+}
