@@ -884,3 +884,65 @@ h2 {
 #profil_content li span {
   font-weight: bold;
 }
+
+.edit-page table {
+  border-spacing: 13px;
+  border: #054756 2px solid;
+  width: 100%;
+  background: #ccc;
+}
+
+.edit-page table table {
+  background: #ddd;
+}
+
+.input-many-item {
+  clear:both
+}
+
+.edit-page input {
+  border: 1px solid #7FB1BB;
+  color: #054756;
+  width: 90%;
+}
+
+.edit-page select {
+  border: 1px solid #7FB1BB;
+  color: #054756;
+}
+
+
+
+.edit-page .card {
+  border-bottom: 0px;
+}
+
+.input-help {
+  color: #999;
+}
+
+.error-messages {
+  background: darkRed;
+  color: white;
+  padding: 20px;
+  margin: 10px;
+}
+
+.edit-page .button {
+  width: auto !important;
+}
+
+.completions-popup {
+  background: white;
+  border: 1px solid #7FB1BB;
+  color: #054756;
+}
+
+.completions-popup li:hover {
+  background: #7FB1BB;
+  color: white;
+}
+
+.completions-popup li {
+  border-bottom: dotted 1px;
+}
