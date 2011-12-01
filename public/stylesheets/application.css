@@ -466,7 +466,7 @@ table .odd {
   letter-spacing: 1px;
 }
 
-.card.article, .card.person, .card.organization, .card.contract {
+.card.article, .card.person, .card.organization, .card.contract, .card.interorg-relation {
   border-bottom: 2px solid #868789; 
   padding: 14px 0px;
 }
@@ -488,7 +488,7 @@ table .odd {
   color: black;
 }
 
-.heading .person-link, .heading .organization-link {
+.heading .person-link, .heading .organization-link, .heading .contract-link, .heading .tender-link {
   color: #6EA4B0;
 }
 
@@ -883,4 +883,39 @@ h2 {
 
 #profil_content li span {
   font-weight: bold;
+}
+
+.edit-page table {
+  border-spacing: 13px;
+  border: #054756 2px solid;
+  width: 100%;
+}
+
+.input-many-item {
+  clear:both
+}
+
+.edit-page input {
+  border: 1px solid #7FB1BB;
+  color: #054756;
+  width: 90%;
+}
+
+.edit-page .card {
+  border-bottom: 0px;
+}
+
+.input-help {
+  color: #999;
+}
+
+.error-messages {
+  background: darkRed;
+  color: white;
+  padding: 20px;
+  margin: 10px;
+}
+
+.edit-page .button {
+  width: auto !important;
 }
