@@ -126,6 +126,9 @@ class InterorgRelation < ActiveRecord::Base
     end
   end
 
+  def to_param
+    "#{id}-#{name.to_textual_id}"
+  end
 
 
   # --- Permissions --- #
