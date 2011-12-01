@@ -143,7 +143,7 @@ class PeopleController < ApplicationController
   end
 
   index_action :list do
-    hobo_index Person.order_by(params['sort'].to_sym)
+    hobo_index Person.order_by(params['sort'].to_sym), :per_page=>10
     render :index
   end
 

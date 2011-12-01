@@ -488,7 +488,7 @@ table .odd {
   color: black;
 }
 
-.heading .person-link, .heading .organization-link, .heading .contract-link, .heading .tender-link {
+.heading .person-link, .heading .organization-link, .heading .contract-link, .heading .tender-link, .heading .interorg-relation-link {
   color: #6EA4B0;
 }
 

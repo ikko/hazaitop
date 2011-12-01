@@ -40,6 +40,10 @@ class Contract < ActiveRecord::Base
 
   has_many :interorg_relations, :dependent => :destroy
 
+  def to_param
+    "#{id}-#{name.to_textual_id}"
+  end
+
   # --- Permissions --- #
 
   def create_permitted?

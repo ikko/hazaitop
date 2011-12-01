@@ -3,6 +3,8 @@ ActionController::Routing::Routes.draw do |map|
   map.root :controller => 'front', :action => 'index'
   map.search 'search', :controller => 'front', :action => 'search'
   map.detailed_search 'detailed_search', :controller => 'front', :action => 'detailed_search'
+  map.transactions 'transactions', :controller => 'interorg_relations', :action => 'index'
+  map.transaction_list 'transactions/list', :controller => 'interorg_relations', :action => 'list'
 
   Hobo.add_routes(map)
   

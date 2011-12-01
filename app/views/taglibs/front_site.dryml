@@ -39,7 +39,7 @@
           <ul>
             <li><a href="/people">Személyek</a></li>
             <li><a href="/organizations">Szervezetek</a></li>
-            <li><a href="/contracts">Tranzakciók</a></li>
+            <li><a href="/transactions">Tranzakciók</a></li>
           </ul>
         </div>
         <div class="header_link_column">
@@ -57,7 +57,13 @@
           </ul>
         </div>
         <div class="header_link_column last" style="">
-          <strong><a href="/login">BEJELENTKEZÉS</a></strong>
+          <strong>
+            <% if current_user.signed_up? %>
+              <a href="/logout">KIJELENTKEZÉS</a>
+            <% else %>
+              <a href="/login">BEJELENTKEZÉS</a>
+            <% end %>
+          </strong>
           <div id="search_box">
             <div id="search_wrapper"><form with="&nil" action="/detailed_search" method="post"><input type="text" name="query" id="search_input" value="Keresés"/><input type="submit" id="search_button" value="Submit"/></form></div>
           </div>
@@ -187,6 +193,22 @@
       <div if="&this.interpersonal_relations_count>0 || this.person_to_org_relations_count>0">
         <view:interpersonal_relations_count class="strong" if="&this.interpersonal_relations_count"/> személyi kapcsolat, 
         <view:person_to_org_relations_count class="strong" if="&this.person_to_org_relations_count"/> szervezeti kapcsolat
+      </div>
+    </body:>
+  </card>
+</def>
+
+<def tag="card" for="InterorgRelation">
+  <card class="interorg-relation" param="default" merge>
+    <header: param>
+      <h4 param="heading"><a href="#{url_for(this.tender_id ? this.tender : this.contract)}" class="interorg-relation-link"><view:name/></a></h4>
+    </header:>
+    <body: param>
+      <div>
+        Szervezet: <view:organization class="strong"/><br />
+        Szervezet: <view:related-organization class="strong"/><br />
+        Érték: <view: with="&commify(this.value)" class="strong"/><br />
+        Dátum: <view: with="&this.issued_at.strftime('%Y. %B %d.').downcase" class="strong"/>
       </div>
     </body:>
   </card>

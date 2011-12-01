@@ -89,12 +89,16 @@ class Organization < ActiveRecord::Base
   validates_numericality_of :number_of_employees, :if => lambda { |r| r.number_of_employees }
 
   has_many :org_histories
-  # --- Permissions --- #
+
+  def to_param
+    "#{id}-#{name.to_textual_id}"
+  end
 
   def address
     "#{zip_code} #{city}, #{street}"
   end
 
+  # --- Permissions --- #
   def create_permitted?
     acting_user.administrator? || (acting_user.editor? && user.id == acting_user.id)
   end

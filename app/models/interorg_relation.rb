@@ -126,6 +126,13 @@ class InterorgRelation < ActiveRecord::Base
     end
   end
 
+  def to_param
+    if name.present?
+      "#{id}-#{name.to_textual_id}"
+    else
+      id
+    end
+  end
 
 
   # --- Permissions --- #
