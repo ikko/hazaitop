@@ -57,7 +57,13 @@
           </ul>
         </div>
         <div class="header_link_column last" style="">
-          <strong><a href="/login">BEJELENTKEZÉS</a></strong>
+          <strong>
+            <% if current_user.signed_up? %>
+              <a href="/logout">KIJELENTKEZÉS</a>
+            <% else %>
+              <a href="/login">BEJELENTKEZÉS</a>
+            <% end %>
+          </strong>
           <div id="search_box">
             <div id="search_wrapper"><form with="&nil" action="/detailed_search" method="post"><input type="text" name="query" id="search_input" value="Keresés"/><input type="submit" id="search_button" value="Submit"/></form></div>
           </div>
