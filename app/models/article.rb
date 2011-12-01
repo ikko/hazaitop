@@ -69,7 +69,7 @@ class Article < ActiveRecord::Base
   end
 
   def to_param
-    "#{id}-#{name.to_textual_id}"
+    "#{id}-#{title.to_textual_id}"
   end
 
   # --- Permissions --- #
