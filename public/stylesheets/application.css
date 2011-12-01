@@ -889,6 +889,11 @@ h2 {
   border-spacing: 13px;
   border: #054756 2px solid;
   width: 100%;
+  background: #ccc;
+}
+
+.edit-page table table {
+  background: #ddd;
 }
 
 .input-many-item {
@@ -900,6 +905,13 @@ h2 {
   color: #054756;
   width: 90%;
 }
+
+.edit-page select {
+  border: 1px solid #7FB1BB;
+  color: #054756;
+}
+
+
 
 .edit-page .card {
   border-bottom: 0px;
