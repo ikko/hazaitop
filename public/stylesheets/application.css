@@ -884,3 +884,34 @@ h2 {
 #profil_content li span {
   font-weight: bold;
 }
+
+.edit-page table {
+  border-spacing: 13px;
+  border: #054756 2px solid;
+  width: 100%;
+}
+
+.input-many-item {
+  clear:both
+}
+
+.edit-page input {
+  border: 1px solid #7FB1BB;
+  color: #054756;
+  width: 90%;
+}
+
+.edit-page .card {
+  border-bottom: 0px;
+}
+
+.input-help {
+  color: #999;
+}
+
+.error-messages {
+  background: darkRed;
+  color: white;
+  padding: 20px;
+  margin: 10px;
+}
