@@ -693,7 +693,7 @@
 
 <def tag="table-plus-person-history">
   <table-plus fields="user, updated_at" without-search-form>
-    <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'financial_pagination', :id => @this.id}"/>
+    <page-nav: previous-label="&laquo;" next-label="&raquo;"/>
   </table-plus>
 </def>
 
@@ -749,7 +749,7 @@
       </div>
       <if test="&current_user.signed_up? and @this.org_histories.count > 0">
         <div class="details_header">Mentések:</div>
-        <table-plus-organization-financial with="&@this.org_histories" fields="user, updated_at" without-search-form/>
+        <table-plus with="&@this.org_histories" fields="user, updated_at" without-search-form/>
       </if>
       <form action="&'/organizations/' + this.id.to_s + '/merge'" method="get" if="&current_user.supervisor? or current_user.editor? or current_user.administrator?" >
           <field-list fields="merge_from">
