@@ -7,6 +7,7 @@ var network;
     nodes: {arr: []},
     edges: {arr: []},
     nodeIds: [],
+    layout: 'Tree', 
     maxWeight: 1,
     discoveredNodes: [],
     initialized: false,
@@ -94,7 +95,7 @@ var network;
     draw: function(data) {
       vis.draw({network: this.parse(data), 
                 edgeLabelsVisible: true, 
-                layout: {name:'Tree'/*, options:{breadthSpace:50}*/},
+                layout: {name: network.layout/*, options:{breadthSpace:50}*/},
                 visualStyle: {global:{backgroundColor: "#010101"},nodes:{labelFontColor: "#ffffff", size:65, labelFontSize:11, labelFontWeight:'bold'}, edges:{labelFontColor: "#ffffff", labelFontSize:11, labelFontWeight:'bold'}}});
     },
     loadedNodeIds: function() {
@@ -420,6 +421,11 @@ var network;
       $("#map_node_details > .section").hide();
       $("#"+id+"_content.section").show();
       network.showNodeInfo(vis.node(id).data);
+    });
+
+    $('#graphtype').click( function() {
+      network.layout = $(this).val();
+      network.draw(network);
     });
 
     // key event capture lehetőségének visszaállítása html-re (ha esetleg flashen lenne)

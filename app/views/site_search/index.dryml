@@ -105,7 +105,17 @@
             <a href="" id="load_node_details" style="#{params[:type] && params[:id] ? 'display: block' : 'display: none'}">Részletes információk</a>
           </p>
         </div>
+        <div id="graphtype_wrapper">
+          Elrendezés:
+          <select id="graphtype">
+            <option value="Tree" selected="selected">Fa struktúra</option>
+            <option value="Radial" >Sugárirányú</option>
+            <option value="Circle" >Kör</option>
+            <option value="ForceDirected" >Erő vezérelt</option>
+          </select>
+        </div>
         <a id="network_clean" href="">Kirajzolt háló törlése</a>
+        
       </div>
       <div class="left" id="relationgraph"></div>
     </div>
