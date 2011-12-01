@@ -128,7 +128,7 @@ class OrganizationsController < ApplicationController
   end
 
   index_action :list do
-    hobo_index Organization.order_by(params['sort'].to_sym)
+    hobo_index Organization.order_by(params['sort'].to_sym), :per_page=>10
     render :index
   end
 

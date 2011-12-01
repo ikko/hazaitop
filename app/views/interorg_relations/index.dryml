@@ -1,15 +1,15 @@
 <index-page>
   <count:>
-    <ht key="interorg_relations.collection.count" count="&InterorgRelation.value_is_not('').count">
+    <ht key="interorg_relations.collection.count" count="&InterorgRelation.not_mirror.value_is_not('').count">
       There <count prefix="are"/>
     </ht>
   </count:>
-  <top-page-nav: inner-window="14" />
-  <bottom-page-nav: inner-window="14" />
+  <top-page-nav: inner-window="10" />
+  <bottom-page-nav: inner-window="10" />
   <prepend-content-body:>
     <div id="index_page_order">
       <a class="button" href="/transactions/list?sort=value">Érték szerint</a>
-      <a class="button" href="/transactions/list?sort=name">Név szerint</a>
+      <a class="button" href="/transactions/list?sort=name">ABC szerint</a>
       <a class="button" href="/transactions/list?sort=created_at">Beviteli sorrendben</a>
     </div>
   </prepend-content-body:>

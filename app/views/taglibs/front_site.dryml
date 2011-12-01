@@ -199,14 +199,17 @@
 </def>
 
 <def tag="card" for="InterorgRelation">
-  <card class="transaction" param="default" merge>
+  <card class="interorg-relation" param="default" merge>
     <header: param>
-      <h4 param="heading"><a><view:name/></a></h4>
+      <h4 param="heading"><a href="#{url_for(this.tender_id ? this.tender : this.contract)}" class="interorg-relation-link"><view:name/></a></h4>
     </header:>
     <body: param>
-      <view:organization class="strong"/>
-      <view:related-organization class="strong"/>
-      <view:value class="strong"/>
+      <div>
+        Szervezet: <view:organization class="strong"/><br />
+        Szervezet: <view:related-organization class="strong"/><br />
+        Érték: <view: with="&commify(this.value)" class="strong"/><br />
+        Dátum: <view: with="&this.issued_at.strftime('%Y. %B %d.').downcase" class="strong"/>
+      </div>
     </body:>
   </card>
 </def>

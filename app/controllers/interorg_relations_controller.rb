@@ -14,11 +14,11 @@ class InterorgRelationsController < ApplicationController
   end
 
   def index
-    @this = InterorgRelation.value_is_not('').order_by(:value, 'desc').paginate(:per_page=>10, :page=>1)
+    @this = InterorgRelation.not_mirror.value_is_not('').order_by(:value, 'desc').paginate(:per_page=>10, :page=>1, :include=>[:tender, :contract])
   end
 
   index_action :list do
-    hobo_index InterorgRelation.value_is_not('').order_by(params['sort'].to_sym)
+    hobo_index InterorgRelation.not_mirror.value_is_not('').order_by(params['sort'].to_sym), :per_page=>10
     render :index
   end
 
