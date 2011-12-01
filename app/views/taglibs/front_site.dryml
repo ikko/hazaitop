@@ -260,7 +260,7 @@
 <def tag="form" for="Person">
   <form merge param="default">
     <error-messages param/>
-    <field-list fields="last_name, first_name, person_grades, place_of_birth, born_at, mothers_name, information_source, personal_relations, person_to_org_relations, user" param>
+    <field-list fields="last_name, first_name, person_grades, place_of_birth, born_at, mothers_name, information_source, personal_relations, person_to_org_relations, user"  param>
       <place-of-birth-view:>
         <name-one/>
       </place-of-birth-view:>
@@ -744,7 +744,7 @@
           <table-plus-organization-interorg with="&@this.interorg_relations.paginate(:per_page=>10, :page=>params[:page])"/>
         </div>
         <div id="financial_content" class="tab_content" style="display: none">
-          <table-plus-organization-financial with="&@this.org_histories.paginate(:per_page=>10, :page=>params[:page])" fields="year, balance_sheet_total, turnover" without-search-form />
+          <table-plus-organization-financial with="&@this.financials.paginate(:per_page=>10, :page=>params[:page])" fields="year, balance_sheet_total, turnover" without-search-form />
         </div>
       </div>
       <if test="&current_user.signed_up? and @this.org_histories.count > 0">

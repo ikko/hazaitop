@@ -938,6 +938,11 @@ h2 {
   color: #054756;
 }
 
+.completions-popup li:hover {
+  background: #7FB1BB;
+  color: white;
+}
+
 .completions-popup li {
   border-bottom: dotted 1px;
 }
