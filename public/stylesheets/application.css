@@ -953,3 +953,8 @@ h2 {
   margin: 10px auto;
   display: block;
 }
+
+.hjq-input-many .buttons {
+  margin-bottom: 40px;
+  margin-top: -15px;
+}
