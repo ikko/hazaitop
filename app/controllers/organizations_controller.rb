@@ -20,7 +20,7 @@ class OrganizationsController < ApplicationController
 
 
   def update
-    render :text => "access denied" unless current_user_user.administrator? or current_user.editor? or current_user.supervisor?
+    render :text => "access denied" unless current_user.administrator? or current_user.editor? or current_user.supervisor?
     logger.info "========================================================== 1 =="
     add_new_entities    
     logger.info "========================================================== 2 =="
