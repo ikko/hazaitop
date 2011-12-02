@@ -42,21 +42,24 @@ class InterpersonalRelation < ActiveRecord::Base
 
   attr_accessor :skip_source_validation, :info_id
 
-  def source_present
-    if information_source.blank? and articles.empty? and !skip_source_validation
-      errors.add("Information source or article", "must present.")
+  def source_present 
+    if information_source.blank? and article_relations.empty? and !skip_source_validation
+      errors.add("Information source", "must present.")
     end
   end
 
   def litigation_related
+    logger.info "========================================================== iii =="
     unless litigations.blank?
       errors.add("Litigation allowed only if", "relation type has legal aspect.") unless p2p_relation_type.litig
     end
   end
 
   before_save do |r|
-    r.information_source_id = (r.info_id ? r.info_id : r.articles.first.information_source_id ) if r.information_source.blank?
-    r.weight = r.information_source.weight * r.p2p_relation_type.weight
+    logger.info "========================================================== ii =="
+    r.information_source_id = (r.info_id ? r.info_id : r.articles.first.try.information_source_id ) if r.information_source.blank?
+    r.information_source_id = InformationSource.find_by_domain_name('ahalo.hu').id if r.information_source.blank?
+    # r.weight = r.information_source.weight * r.p2p_relation_type.weight
   end
 
   after_create do |r|
@@ -91,30 +94,38 @@ class InterpersonalRelation < ActiveRecord::Base
   end
 
   after_save do |r|
+    logger.info "========================================================== i =="
     o = InterpersonalRelation.find_by_id(r.interpersonal_relation_id)
     if o
+    logger.info "========================================================== A =="
       if o.related_person_id != r.person_id
         o.update_attribute :related_person_id, r.person_id
       end
       if o.p2p_relation_type_id != r.p2p_relation_type_id
+    logger.info "========================================================== B =="
         if o.p2p_relation_type and o.p2p_relation_type.pair
           if o.p2p_relation_type.pair_id != r.p2p_relation_type_id
             o.update_attributes :p2p_relation_type_id => r.p2p_relation_type.pair.id, :visual => r.p2p_relation_type.visual
           end
         else
           o.update_attribute :p2p_relation_type_id, r.p2p_relation_type_id
+    logger.info "========================================================== C =="
         end
       end
       if o.information_source_id != r.information_source_id
         o.update_attribute :information_source_id, r.information_source_id
+    logger.info "========================================================== D =="
       end
       if o.litigations != r.litigations
+    logger.info "========================================================== E =="
         o.litigations = r.litigations
+    logger.info "========================================================== F =="
       end
     end
   end
 
   after_save do |r|
+    logger.info "========================================================== ??? =="
     if r.information_source.internal and !(r.person_to_org_relation and r.other_person_to_org_relation)
       if r.interpersonal_relation
         r.interpersonal_relation.destroy

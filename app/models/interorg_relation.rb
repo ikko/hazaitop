@@ -50,7 +50,7 @@ class InterorgRelation < ActiveRecord::Base
 
   def source_present
     if information_source.blank? and articles.empty?
-      errors.add("Information source or article", "must present.")
+      errors.add("Information source", "must present.")
     end
   end
 
@@ -62,8 +62,9 @@ class InterorgRelation < ActiveRecord::Base
   end
 
   before_save do |r|
-    r.information_source_id = r.articles.first.information_source_id if r.information_source.blank?
-    r.weight = r.information_source.weight * r.o2o_relation_type.weight
+    r.information_source_id = (r.info_id ? r.info_id : r.articles.first.try.information_source_id ) if r.information_source.blank?
+    r.information_source_id = InformationSource.find_by_domain_name('ahalo.hu').id if r.information_source.blank?
+    # r.weight = r.information_source.weight * r.o2o_relation_type.weight
   end
 
   after_create do |r|
