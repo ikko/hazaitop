@@ -8,6 +8,8 @@ class P2oRelationType < ActiveRecord::Base
     visual :boolean, :default => true
     litig  :boolean, :default => false
     label  :string
+    role   :string    # tisztség complexbol
+    parsed   :boolean, :default => false
     timestamps
   end
 

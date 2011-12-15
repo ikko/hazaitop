@@ -12,6 +12,10 @@ class Article < ActiveRecord::Base
     timestamps
   end
 
+  def name
+    title
+  end
+
   default_scope :order => 'issued_at DESC'
 
   named_scope :recent, lambda {|limit|  {:limit => limit} }

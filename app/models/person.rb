@@ -6,9 +6,14 @@ class Person < ActiveRecord::Base
     first_name   :string #, :required
     last_name    :string #, :required
     name         :string
+    street       :string
+    city         :string
+    zip_code     :string
+    country      :string
     klink        :string
     born_at      :date
     mothers_name :string
+    complexed_at :date
     interpersonal_relations_count :integer, :default => 0
     person_to_org_relations_count :integer, :default => 0
     timestamps

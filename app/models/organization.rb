@@ -7,6 +7,7 @@ class Organization < ActiveRecord::Base
     klink                         :string
     street                        :string
     city                          :string
+    country                       :string
     zip_code                      :string
     phone                         :string
     fax                           :string
@@ -19,6 +20,7 @@ class Organization < ActiveRecord::Base
     interorg_relations_count      :integer, :default => 0
     person_to_org_relations_count :integer, :default => 0
     financials_count              :integer, :default => 0
+    complexed_at                  :date
     timestamps
   end
 
