@@ -346,7 +346,7 @@ namespace :complex do
 
       puts tax_nr = to_tax_nr( doc.search('//rovat[@id=0]/alrovat/mezo[@id="adosz"]').text.strip )
       puts cim = doc.search('//rovat[@id=0]/alrovat[@id=1]/mezo[@id="cim"]').text.strip
-      if cim
+      if cim and !cim.empty?
         puts irszam = cim[0..3] 
         puts varos = cim.split(',').first[5..2000]
         puts utca =  cim.split(',').last.strip
