@@ -325,7 +325,7 @@ namespace :complex do
     dirname = 'db/complex/orgs/'
     Dir.foreach( dirname ) do |file|
       next if file == '.' or file == '..'
-      n += 1; break if n > 20
+      # n += 1; break if n > 20
       puts file
       puts file.inspect
       fc = file.length == 13 ? "0" + file : file # lemarad a 0 a file elejéről, amikor 0-val kezdődik a cégjegyzékszám
@@ -346,9 +346,11 @@ namespace :complex do
 
       puts tax_nr = to_tax_nr( doc.search('//rovat[@id=0]/alrovat/mezo[@id="adosz"]').text.strip )
       puts cim = doc.search('//rovat[@id=0]/alrovat[@id=1]/mezo[@id="cim"]').text.strip
-      puts irszam = cim[0..3]
-      puts varos = cim.split(',').first[5..2000]
-      puts utca =  cim.split(',').last.strip
+      if cim
+        puts irszam = cim[0..3] 
+        puts varos = cim.split(',').first[5..2000]
+        puts utca =  cim.split(',').last.strip
+      end
       puts na =  doc.search('//rovat[@id=0]/alrovat[@id=1]/mezo[@id="nevalrovat"]').text.strip
       puts nev = doc.search("//rovat[@id=2]/alrovat[@id='#{na}']/mezo[@id='nev']").text.strip
 
@@ -549,7 +551,7 @@ namespace :complex do
         ap rel
       end
 
-
+=begin
       doc.search('//rovat[@id=99]/alrovat').each do |a|
         puts "- - - - - - Hirdetmények- - - -"
         hird = parse_simple(a, 'szoveg', 'labj' 'tipus', 'tipusnev', 'kozdatum', 'ugyszam', 'eugyszam', 'birosag', 'felsz', 'felsz_cim', 'felsz_cjsz',
@@ -583,6 +585,7 @@ namespace :complex do
           end
         end
       end
+=end      
       doc.search('//rovat[@id=103]/alrovat').each do |a|
         puts "- - - - - - közkereseti társaság tagjai - - - - - -"
         parse_member a, "Kkt. tag", "Kkt. tag", "kkt. tag ugyanazon társaságnál"
