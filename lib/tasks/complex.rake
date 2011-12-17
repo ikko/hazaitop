@@ -369,11 +369,11 @@ namespace :complex do
       end
       doc.search('//rovat[@id=13]/alrovat').each do |a|
         puts "- - - - - - cégjegyzésre jogosultak - - - - - -"
-        parse_member a, "Cégjegyzésre jogosult", "Cég jegyzésére jogosult", "ugyanazon céget jegyzi"
+        parse_member a, "Cég jegyzésére jogosult", "Cégjegyzésre jogosult", "ugyanazon céget jegyzi"
       end
       doc.search('//rovat[@id=14]/alrovat').each do |a|
         puts "- - - - - - könyvvizsgálók - - - - - -"
-        parse_member a, "Könyvvizsgált cég", "Könyvvizsgáló", "ugyanazon könyvvizsgáló"
+        parse_member a, "Könyvvizsgáló", "Könyvvizsgált cég", "ugyanazon könyvvizsgáló"
       end
       doc.search('//rovat[@id=15]/alrovat').each do |a|
         puts "- - - - - - Felügyelő bizottsági tagok adatai - - - - - -"
@@ -381,7 +381,7 @@ namespace :complex do
       end
       doc.search('//rovat[@id=16]/alrovat').each do |a|
         puts "- - - - - - Jogelődök - - - - - -"
-        parse_member a, "Jogutód", "Jogelőd", "közös jogelőd vagy jogutód"
+        parse_member a, "Jogelőd", "Jogutód", "közös jogelőd vagy jogutód"
       end
       doc.search('//rovat[@id=19]/alrovat').each do |a|
         puts "- - - - - - TB Szám - - - - - -"
@@ -585,47 +585,47 @@ namespace :complex do
       end
       doc.search('//rovat[@id=103]/alrovat').each do |a|
         puts "- - - - - - közkereseti társaság tagjai - - - - - -"
-        parse_member a, "kkt. tag", "kkt. tag", "kkt. tag ugyanazon társaságnál"
+        parse_member a, "Kkt. tag", "Kkt. tag", "kkt. tag ugyanazon társaságnál"
       end
       doc.search('//rovat[@id=106]/alrovat').each do |a|
         puts "- - - - - - beltagok tagjai - - - - - -"
-        parse_member a, "bt. beltag", "bt. beltag", "bt. beltag ugyanazon társaságnál"
+        parse_member a, "Bt. beltag", "Bt. beltag", "Bt. beltag ugyanazon társaságnál"
       end
       doc.search('//rovat[@id=107]/alrovat').each do |a|
         puts "- - - - - - egyesülés tagjai - - - - - -"
-        parse_member a, "egyesülés tagja", "egyesülés tagja", "egyesülés tagja ugyanazon társaságnál"
+        parse_member a, "Egyesülés tagja", "Egyesülés tagja", "Egyesülés tagja ugyanazon társaságnál"
       end
       doc.search('//rovat[@id=108]/alrovat').each do |a|
         puts "- - - - - - közös vállalat tagjai - - - - - -"
-        parse_member a, "közös vállalat tagja", "közös vállalat tagja", "közös válallat tagja ugyanazon társaságnál"
+        parse_member a, "Közös vállalat tagja", "Közös vállalat tagja", "Közös válallat tagja ugyanazon társaságnál"
       end
       doc.search('//rovat[@id=109]/alrovat').each do |a|
         puts "- - - - - - egyesülés tagjai - - - - - -"
-        parse_member a, "kft. tag", "kft. tag", "kft tagja ugyanazon társaságnál"
+        parse_member a, "Kft. tag", "Kft. tag", "Kft. tagja ugyanazon társaságnál"
       end
       doc.search('//rovat[@id=110]/alrovat').each do |a|
         puts "- - - - - - egyszeméyles rt. alapító - - - - - -"
-        parse_member a, "egyszeméyles rt. alapító / részvényes", "egyszeméyles rt. alapító / részvényes", "rt. alapító / részvényes ugyanazon társaságnál"
+        parse_member a, "Egyszeméyles rt. alapító / részvényes", "Egyszeméyles rt. alapító / részvényes", "rt. alapító / részvényes ugyanazon társaságnál"
       end
       doc.search('//rovat[@id=111]/alrovat').each do |a|
         puts "- - - - - - egyéni cég tulajdonosa - - - - - -"
-        parse_member a, "egyéni cég tulajdonosa", "egyéni cég tulajdonosa", "egyéni cég tulajdonosa ugyanazon társaságnál"
+        parse_member a, "Egyéni cég tulajdonosa", "Egyéni cég tulajdonosa", "egyéni cég tulajdonosa ugyanazon társaságnál"
       end
       doc.search('//rovat[@id=120]/alrovat').each do |a|
         puts "- - - - - - részvényesek - - - - - -"
-        parse_member a, "részvényes", "részvényes", "részvényes ugyanazon társaságnál"
+        parse_member a, "Részvényes", "Részvényes", "részvényes ugyanazon társaságnál"
       end
       doc.search('//rovat[@id=206]/alrovat').each do |a|  
         puts "- - - - - - kultagok tagjai - - - - - -"
-        parse_member a, "bt. kültag", "bt. kültag", "bt. kültag ugyanazon társaságnál"
+        parse_member a, "Bt. kültag", "Bt. kültag", "bt. kültag ugyanazon társaságnál"
       end
       doc.search('//rovat[@id=213]/alrovat').each do |a|  
         puts "- - - - - - cégtagok tagjai - - - - - -"
-        parse_member a, "cégtag", "cégtag", "cégtag ugyanazon társaságnál"
+        parse_member a, "Cégtag", "Cégtag", "cégtag ugyanazon társaságnál"
       end
       doc.search('//rovat[@id=214]/alrovat').each do |a|  
         puts "- - - - - - kht tagok tagjai - - - - - -"
-        parse_member a, "kht. tag", "kht. tag", "kht. tag ugyanazon társaságnál"
+        parse_member a, "Kht. tag", "Kht. tag", "kht. tag ugyanazon társaságnál"
       end
       doc.search('//rovat[@id=99017]/alrovat').each do |a|  
         puts "- - - - - - Mérlegadatok (11 soros) - - - -"
