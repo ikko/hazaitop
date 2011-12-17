@@ -4,9 +4,11 @@ class O2oRelationType < ActiveRecord::Base
 
   fields do
     name   :string, :required
-    weight :float, :required, :default => 1
+    weight :float, :default => 1
     visual :boolean, :default => true
     litig  :boolean, :default => false
+    parsed   :boolean, :default => false
+    role   :string
     label  :string
     timestamps
   end

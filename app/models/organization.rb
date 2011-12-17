@@ -3,10 +3,12 @@ class Organization < ActiveRecord::Base
   hobo_model # Don't put anything above this
 
   fields do
-    name                          :string#, :unique
+    name                          :string, :unique
+    alternate_name                :string # ha unique miatt nem menti le, akkor itt található, h mit nem engedett
     klink                         :string
     street                        :string
     city                          :string
+    country                       :string
     zip_code                      :string
     phone                         :string
     fax                           :string
@@ -19,11 +21,27 @@ class Organization < ActiveRecord::Base
     interorg_relations_count      :integer, :default => 0
     person_to_org_relations_count :integer, :default => 0
     financials_count              :integer, :default => 0
+    complexed_at                  :date
+    ksh_number                    :string
+    ksh_number_from               :date
+    social_security_number        :string
+    social_security_number_from   :date
+    stock                         :integer, :limit => 8
+    ceased_at                     :date
+    ceased_from                   :date # _from mezők complexből a hatályosság vagy a változás kezdetét jelölik
+    kozhasznu                     :boolean
+    kozhasznu_from                :date
+    kiemelten_kozhasznu           :boolean
+    kiemelten_kozhasznu_from      :date
     timestamps
   end
 
   belongs_to :merge_from, :class_name => "Organization"
   has_many :organizations, :accessible => true, :foreign_key => "merge_from_id"
+  belongs_to :law_successor, :class_name => "Organization"   #TODO
+  
+  has_many :announcements
+  has_many :liquidations
 
   def self.merge into_this, this
 

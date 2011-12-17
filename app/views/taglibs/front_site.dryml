@@ -282,7 +282,7 @@
 <def tag="form" for="Person">
   <form merge param="default">
     <error-messages param/>
-    <field-list fields="last_name, first_name, person_grades, place_of_birth, born_at, mothers_name, information_source, personal_relations, person_to_org_relations, user"  param>
+    <field-list fields="last_name, first_name, person_grades, place_of_birth, born_at, mothers_name, information_source, personal_relations, person_to_org_relations, user" param>
       <place-of-birth-view:>
         <name-one/>
       </place-of-birth-view:>
@@ -300,7 +300,7 @@
               <article-relations-view:>
                 <input-many>
                   <a:article default="_blank"><view:id/></a>
-                  <name-one:article/>
+                  <select-one:article options="&@recent_articles"/>
                 </input-many>
               </article-relations-view:>
               <organization-view:>
@@ -335,7 +335,7 @@
               <article-relations-view:>
                 <input-many>
                   <a:article default="_blank"><view:id/></a>
-                  <name-one:article/>
+                  <select-one:article options="&@recent_articles"/>
                 </input-many>
               </article-relations-view:>
               <information-source-view:>
@@ -356,7 +356,7 @@
 <def tag="form" for="Organization">
  <form merge param="default">
     <error-messages param/>
-   <field-list fields="name, org_grade, sector, activities, zip_code, city, street, trade_register_nr, tax_nr, founded_at, number_of_employees, information_source, financials, interorg_relations, person_to_org_relations, user" param>
+   <field-list fields="name, org_grade, sector, activities, zip_code, city, street, trade_register_nr, tax_nr, founded_at, number_of_employees, information_source, financials, interorg_relations, person_to_org_relations, user" tag="editor" param>
       <information-source-view:>
         <select-one options="&InformationSource.not_internal"/> | <a href="&new_information_source_path"  target="_blank"><ht key="custom.new">new</ht></a>
       </information-source-view:>
@@ -370,7 +370,7 @@
               <article-relations-view:>
                 <input-many>
                   <a:article target="_blank"><view:id/></a>
-                  <name-one:article/>
+                  <select-one:article options="&@recent_articles"/>
                 </input-many>
               </article-relations-view:>
               <person-view:>
@@ -402,7 +402,7 @@
               <article-relations-view:>
                 <input-many>
                   <a:article target="_blank"><view:id/></a>
-                  <name-one:article/>
+                  <select-one:article options="&@recent_articles"/>
                 </input-many>
               </article-relations-view:>
             </field-list>

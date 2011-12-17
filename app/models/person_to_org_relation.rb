@@ -6,8 +6,18 @@ class PersonToOrgRelation < ActiveRecord::Base
     start_time :date
     end_time   :date
     no_end_time :boolean, :default => false
-    weight     :float
+    weight     :float,    :default => 1
     visual     :boolean, :default => true
+    role   :string    # tisztség complexbol
+    role2   :string    # tisztség complexbol névből kiparse-olva
+    note   :text
+    erased_at :date  # ha a bejegyzés törlés volt a cégbíróságon, akkkor ide a törlés dátuma kerül
+    jelentos  :boolean, :default => false
+    tobbsegi  :boolean, :default => false
+    kozvetlen :boolean, :default => false
+    szavazat_50_szazalek_felett  :boolean, :default => false
+    szavazat_tobbsegi_befolyas   :boolean, :default => false
+    szavazat_egyeduli_reszvenyes :boolean, :default => false
     timestamps
   end
 
@@ -70,12 +80,16 @@ class PersonToOrgRelation < ActiveRecord::Base
     if person and organization # ha nem törlés történt
       if !(InterpersonalRelation.find_by_person_to_org_relation_id(id) or InterpersonalRelation.find_by_other_person_to_org_relation_id(id))
        # meg kell vizsgálnunk hogy van-e már, különben kétszer megy bele (a hobo?) az after_save-be TODO
-        if no_end_time
-          potential_relations = PersonToOrgRelation.find( :all, :conditions => [
-          "organization_id = ? and ((start_time <= ? and (end_time >= ? or no_end_time = ?)) or (start_time <= ? and no_end_time = ?)) and id != ?", organization_id, start_time, start_time, true, Time.now.to_date, true, id ])
+        if start_time.nil?
+          potential_relations = nil # TODO azért ez itt nem biztos---
         else
-          potential_relations = PersonToOrgRelation.find( :all, :conditions => [
-          "organization_id = ? and ((start_time <= ? and (end_time >= ? or no_end_time = ?)) or (start_time <= ? and (end_time >= ? or no_end_time = ?))) and id != ?", organization_id, start_time, start_time, true, end_time, end_time, true, id ])
+          if no_end_time
+            potential_relations = PersonToOrgRelation.find( :all, :conditions => [
+            "organization_id = ? and ((start_time <= ? and (end_time >= ? or no_end_time = ?)) or (start_time <= ? and no_end_time = ?)) and id != ?", organization_id, start_time, start_time, true, Time.now.to_date, true, id ])
+          else
+            potential_relations = PersonToOrgRelation.find( :all, :conditions => [
+            "organization_id = ? and ((start_time <= ? and (end_time >= ? or no_end_time = ?)) or (start_time <= ? and (end_time >= ? or no_end_time = ?))) and id != ?", organization_id, start_time, start_time, true, end_time, end_time, true, id ])
+          end
         end
         press_id = P2oRelationType.find_by_name("sajtó").id
         if potential_relations and p2o_relation_type_id != press_id

@@ -7,12 +7,25 @@ class InterorgRelation < ActiveRecord::Base
     timestamps
     mirrored     :boolean, :default => false
     mirror       :boolean, :default => false
-    weight       :float
+    weight       :float,   :default => 1
     visual       :boolean, :default => true
     value        :integer, :limit => 8
+    start_time   :date
+    end_time     :date
+    no_end_time  :boolean, :default => false
     currency     :string
     vat_incl     :boolean
     issued_at    :date
+    erased_at    :date  # ha a bejegyzés törlés volt a cégbíróságon, akkkor ide a törlés dátuma kerül
+    note         :text
+    role         :string    # tisztség complexbol
+    role2        :string    # tisztség complexbol névből kiparse-olva
+    jelentos  :boolean, :default => false
+    tobbsegi  :boolean, :default => false
+    kozvetlen :boolean, :default => false
+    szavazat_50_szazalek_felett  :boolean, :default => false
+    szavazat_tobbsegi_befolyas   :boolean, :default => false
+    szavazat_egyeduli_reszvenyes :boolean, :default => false
   end
 
   default_scope :order => "related_organization_id"
