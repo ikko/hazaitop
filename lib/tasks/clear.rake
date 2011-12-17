@@ -6,6 +6,7 @@ namespace :clear do
     Organization.all(:conditions => "name LIKE '%nkorm%'").each do |o|
       puts o.name
       o.tax_nr = nil
+      o.trade_register_nr = nil
       o.save
     end
   end
