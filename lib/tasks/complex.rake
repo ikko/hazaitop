@@ -551,7 +551,7 @@ namespace :complex do
         ap rel
       end
 
-#=begin
+=begin
       doc.search('//rovat[@id=99]/alrovat').each do |a|
         puts "- - - - - - Hirdetmények- - - -"
         hird = parse_simple(a, 'szoveg', 'labj' 'tipus', 'tipusnev', 'kozdatum', 'ugyszam', 'eugyszam', 'birosag', 'felsz', 'felsz_cim', 'felsz_cjsz',
@@ -585,7 +585,7 @@ namespace :complex do
           end
         end
       end
-#=end      
+=end      
       doc.search('//rovat[@id=103]/alrovat').each do |a|
         puts "- - - - - - közkereseti társaság tagjai - - - - - -"
         parse_member a, "Kkt. tag", "Kkt. tag", "kkt. tag ugyanazon társaságnál"
