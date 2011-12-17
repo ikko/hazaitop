@@ -255,9 +255,9 @@ namespace :complex do
         puts adosz
         puts cgjsz
         org = nil
-        org = Organization.find_by_tax_nr(adosz) if !adosz.empty? 
-        org = Organization.find_by_trade_register_nr( to_trade_register_nr(cgjsz) ) unless org
-        org = Organization.find_by_name( nev ) unless org
+        org = Organization.find_by_tax_nr(adosz) if !adosz.empty? and !adosz.blank?
+        org = Organization.find_by_trade_register_nr( to_trade_register_nr(cgjsz) ) if !org and !cgjsz.empty? and !cgjsz.blank?
+        org = Organization.find_by_name( nev ) if !org and !nev.blank? and !nev.empty?
         org = Organization.create!( :name => nev,
                                     :trade_register_nr => to_trade_register_nr(cgjsz),
                                     :country           => orszag,
