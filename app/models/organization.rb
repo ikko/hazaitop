@@ -31,8 +31,8 @@ class Organization < ActiveRecord::Base
     ceased_from                   :date # _from mezők complexből a hatályosság vagy a változás kezdetét jelölik
     kozhasznu                     :boolean
     kozhasznu_from                :date
-    kiemelten kozhasznu           :booleans
-    kiemelten kozhasznu_from      :date
+    kiemelten_kozhasznu           :boolean
+    kiemelten_kozhasznu_from      :date
     timestamps
   end
 

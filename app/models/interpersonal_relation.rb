@@ -12,6 +12,7 @@ class InterpersonalRelation < ActiveRecord::Base
     internal     :boolean, :default => false
     weight       :float
     visual       :boolean, :default => true
+    erased_at :date  # ha a bejegyzés törlés volt a cégbíróságon, akkkor ide a törlés dátuma kerül
   end
 
   has_many :article_relations, :as => :relationable, :accessible => true
