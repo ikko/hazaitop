@@ -24,7 +24,7 @@ namespace :complex do
   task :import => :environment do
 
     # initialize
-    @info = InformationSource.find_or_create_by_name("MVH") do |r| 
+    @info = InformationSource.find_or_create_by_name("Complex") do |r| 
       r.name = "Complex"
       r.web = "http://www.complex.hu"
     end
@@ -35,6 +35,12 @@ namespace :complex do
 
     def to_tax_nr s
       "#{s[0..7]}-#{s[8..8]}-#{s[9..10]}"
+    end
+
+    def to_trade_register_nr s
+      s = s.to_s
+      s2 = s.length == 9 ? "0" + s : s # lemarad a 0 a file elejéről, amikor 0-val kezdődik a cégjegyzékszám
+      cegjegyzekszam = s2[0..1] + '-' + s2[2..3] + '-' + s2[4..9]
     end
 
     def to_date a
@@ -66,8 +72,8 @@ namespace :complex do
           r.parsed = true
         end
         a.update_attribute :pair_id, b.id
-        return a if klass == "P2oRelationType"
-        return b if klass == "O2pRelationType"  # ilyenkor fordítva lesz!! ésszel :)
+        return a if klass == P2oRelationType
+        return b if klass == O2pRelationType  # ilyenkor fordítva lesz!! ésszel :)
       else
         relation_type = klass.find_or_create_by_name(role) do |r|
           r.name = role
@@ -166,6 +172,10 @@ namespace :complex do
       puts ':: tkelt:'
       puts tkelt    = to_date(a.search('mezo[@id="tkelt"]'  ).text.strip)
       puts "TV::::: end"
+      if kepve or kepvo
+        role = role + " együttesen" if kepve
+        role = role + " önállóan"   if kepvo
+      end
       if is_person
         person = Person.find_by_name_and_mothers_name(pnev, panev)
         person = Person.find_by_name(pnev) unless person
@@ -173,7 +183,7 @@ namespace :complex do
           name = pnev.split(' ')
           last_name  = name[0]
           first_name = name[1..-1].join(' ') if name.length > 1
-          person = Person.create!( :first_name => first_name,
+          puts person = Person.create!( :first_name => first_name,
                                  :last_name  => last_name,
                                  :mothers_name => panev,
                                  :street => "#{pteru} #{phsz}",
@@ -183,16 +193,12 @@ namespace :complex do
                                  :information_source_id => @info.id
                                )
         end
-        if kepve or kepvo
-          role = role + " együttesen" if kepve
-          role = role + " önállóan"   if kepvo
-        end
-        relation_type = role_to_relation_type role, pair_role, P2oRelationType, subrole
+        puts relation_type = role_to_relation_type( role, pair_role, P2oRelationType, subrole )
         rel = PersonToOrgRelation.find_by_person_id_and_organization_id_and_start_time_and_end_time_and_information_source_id_and_p2o_relation_type_id(
                                           person.id,    @org.id,            valtk,         valtv,       @info.id,                 relation_type.id )
         if !rel
           puts " >>>>>>>>>>>> creating new relation for:"
-          puts PersonToOrgRelation.create!( :information_source => @info.id,
+          puts PersonToOrgRelation.create!( :information_source_id => @info.id,
                                        :person_id => person.id,
                                        :organization_id => @org.id,
                                        :start_time => valtk,
@@ -206,9 +212,36 @@ namespace :complex do
         puts "  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> WIP - organization found: "
         puts adosz
         puts cgjsz
-        puts org = Organization.find_by_tax_nr(adosz)
-        puts org = Organization.find_by_trade_register_nr(cgjsz)
-sleep 30000
+        org = nil
+        org = Organization.find_by_tax_nr(adosz) if !adosz.empty? 
+        org = Organization.find_by_trade_register_nr( to_trade_register_nr(cgjsz) ) unless org
+        org = Organization.find_by_trade_register_nr( to_trade_register_nr(cgjsz) ) unless org
+        org = Organization.find_by_name( nev ) unless org
+        org = Organization.create!( :name => nev,
+                                    :trade_register_nr => cgjsz,
+                                    :country           => orszag,
+                                    :zip_code          => irsz,
+                                    :city              => hely,
+                                    :street            => "#{teru} #{hsz}",
+                                    :information_source_id => @info.id
+                                  ) unless org
+        ap org
+        puts relation_type = role_to_relation_type( role, pair_role, O2oRelationType )
+        rel = InterorgRelation.find_by_organization_id_and_related_organization_id_and_start_time_and_end_time_and_information_source_id_and_o2o_relation_type_id(
+                                       @org.id,             org.id,                    valtk,         valtv,       @info.id,                 relation_type.id )
+        if !rel
+          puts " >>>>>>>>>>>> creating new relation for:"
+          rel InterorgRelation.create!( :information_source_id => @info.id,
+                                       :related_organization_id => org.id,
+                                       :organization_id => @org.id,
+                                       :start_time => valtk,
+                                       :end_time => valtv,
+                                       :no_end_time => ( valtv.nil? ? true : false ),
+                                       :o2o_relation_type_id  => relation_type.id,
+                                       :role => ( tiszt.blank? ? nil : tiszt )
+                                     )
+        end
+        ap rel
       else
         # something went wrong
         puts "ERROR: : : : * * * * * * * * * * * * could not parse member"
@@ -218,31 +251,31 @@ sleep 30000
     end
 
     def parse_simple a, *what
-      puts hattol = to_date(a.search('mezo[@id="hattol"]').text.strip)
-      puts hatig  = to_date(a.search('mezo[@id="hatig"]').text.strip)
-      result = []
+      result = {}
+      puts result['hattol'] = to_date(a.search('mezo[@id="hattol"]').text.strip)
+      puts result['hatig']  = to_date(a.search('mezo[@id="hatig"]').text.strip)
+      puts result['labj']   = a.search("mezo[@id='labj']").text.strip.gsub('<ujsor/>',"\n")
+      puts result['valtk']  = to_date(a.search('mezo[@id="valtk"]').text.strip)
+      puts result['valtv']  = to_date(a.search('mezo[@id="valtv"]').text.strip)
+      puts result['bkelt']  = to_date(a.search('mezo[@id="bkelt"]').text.strip)
+      puts result['tkelt']  = to_date(a.search('mezo[@id="tkelt"]').text.strip)
+      result['from'] = result['valtk'] if result['valtk']
+      result['from'] = result['hattol'] if result['hattol']
+      result['to'] = result['valtv'] if result['valtv']
+      result['to'] = result['hatig'] if result['hatig']
       what.each do |w|
-        result << a.search("mezo[@id='#{w}']").text.strip
+        result[w] = a.search("mezo[@id='#{w}']").text.strip.gsub('<ujsor/>',"\n")
       end
-      puts labj   = a.search("mezo[@id='labj']").text.strip
-      puts valtk  = to_date(a.search('mezo[@id="valtk"]').text.strip)
-      puts valtv  = to_date(a.search('mezo[@id="valtv"]').text.strip)
-      puts bkelt  = to_date(a.search('mezo[@id="bkelt"]').text.strip)
-      puts tkelt  = to_date(a.search('mezo[@id="tkelt"]').text.strip)
-      if result.size == 1
-        return result.first
-      else
-        return result
-      end
+      return result
     end
 
+    no_of_found = 0
+    no_of_not_found = 0
     n = 1
     dirname = 'db/complex/orgs/'
     Dir.foreach( dirname ) do |file|
       next if file == '.' or file == '..'
-      n += 1; break if n > 2
-      no_of_found = 0
-      no_of_not_found = 0
+      n += 1; break if n > 20
       puts file
       puts file.inspect
       fc = file.length == 13 ? "0" + file : file # lemarad a 0 a file elejéről, amikor 0-val kezdődik a cégjegyzékszám
@@ -274,18 +307,18 @@ sleep 30000
       @org.street   = utca   if @new_org or @org.street.blank?
       @org.city     = varos  if @new_org or @org.city.blank?
       @org.zip_code = irszam if @new_org or @org.zip_code.blank?
-      @org.save
-      @org.name     = nev    if @new_org
-      @org.save
+      @org.alternate_name  = nev   if @new_org
 
       is_person = nil
 
       if @org.tax_nr == tax_nr
+
         puts ". . . . . . . . . . . . . . . . . . . . company found"
+        puts no_of_found += 1
         # ------- tisztségviselők -------, cégjegyzsére jogosultak
         doc.search('//rovat[@id=13]/alrovat').each do |a|
           puts "- - - - - - cégjegyzésre jogosultak - - - - - -"
-          parse_member a, "cégjegyzésre jogosult", "cégjegyzésre jogosult", "ugyanazon céget jegyzők"
+          parse_member a, "cégjegyzésre jogosult", "cég jegyzésére jogosult", "ugyanazon céget jegyzők"
         end
         doc.search('//rovat[@id=14]/alrovat').each do |a|
           puts "- - - - - - könyvvizsgálók - - - - - -"
@@ -297,32 +330,192 @@ sleep 30000
         end
         doc.search('//rovat[@id=16]/alrovat').each do |a|
           puts "- - - - - - Jogelődök - - - - - -"
-          parse_member a, "Jogelőd", "Jogutód"
+          parse_member a, "Jogelőd", "Jogutód", "közös jogelőd vagy jogutód"
         end
         doc.search('//rovat[@id=19]/alrovat').each do |a|
           puts "- - - - - - TB Szám - - - - - -"
-          puts parse_simple a, 'tbsz'
+          h = parse_simple(a, 'tbsz')
+          if !h['tbsz'].blank? 
+            if @org.social_security_number.blank? or ( h['from'] and @org.social_security_number_from and @org.social_security_number_from < h['from'] )
+              @org.social_security_number      = h['tbsz']
+              @org.social_security_number_from = h['from']
+            end
+          end
         end
         doc.search('//rovat[@id=20]/alrovat').each do |a|
           puts "- - - - - - KSH Szám - - - - - -"
-          puts parse_simple a, 'kshsz'
+          h = parse_simple(a, 'kshsz')
+          if !h['kshsz'].blank? 
+            if @org.ksh_number.blank? or ( h['from'] and @org.ksh_number_from and @org.ksh_number_from < h['from'] )
+              @org.ksh_number      = h['kshsz']
+              @org.ksh_number_from = h['from']
+            end
+          end
         end
-        doc.search('//rovat[@id=16]/alrovat').each do |a|
-          puts "- - - - - - Jogutód - - - - - -"
-          jogutod = parse_simple a, 'jccjsz', 'atdat'
-          puts jogutod_cegjegyzekszam = jogutod[0]
-          puts jogutod_atalakulas     = to_date(jogutod[1])
+        doc.search('//rovat[@id=24]/alrovat').each do |a|
+          puts "- - - - - - Megszuntek nyilvánítás - - - - - -"  # ez ugye amugy esgyser lehetne csak elvileg... bár ki tudja mit csinálnak a bíroságok....
+          h = parse_simple(a, 'mnydat')
+          if !to_date(h['mnydat']).blank? 
+            if @org.ceased_at.blank? or ( h['from'] and @org.ceased_from and @org.ceased_from < h['from'] )
+              @org.ceased_at   = to_date( h['mnydat'] )
+              @org.ceased_from = h['from']
+            end
+          end 
         end
-        doc.search('//rovat[@id=16]/alrovat').each do |a|
-          puts "- - - - - - TB Szám - - - - - -"
-          puts parse_simple a, 'tbsz'
+        doc.search('//rovat[@id=26]/alrovat').each do |a|
+          puts "- - - - - - Végelszámolás - - - - - -"  
+          type = 'vegelszamolas'
+          h = parse_simple(a, 'vegk', 'vegv', 'kod', 'ne', 'hird')
+          kezdete = to_date(h['vegk'])
+          vege    = to_date(h['vegv'])
+          if kezdete 
+            liq = Liquidation.find_by_organization_id_and_type_and_process_start( @org.id, type, kezdete )
+            if !liq
+              Liquidation.create!( :process_start => kezdete, 
+                                   :process_end   => vege, 
+                                   :start_time    => h['from'], 
+                                   :end_time => h['to'], 
+                                   :organization_id => @org.id,
+                                   :type => type,
+                                   :simple => ( h['ne'] == 'x' ? true : false ),
+                                   :stays  => ( h['kod'] == 'x' ? true : false ),
+                                   :note   => h['hird']
+                                 )
+            end
+          end 
         end
+        doc.search('//rovat[@id=27]/alrovat').each do |a|
+          puts "- - - - - - Csődeljárás - - - - - -"  
+          type = 'csodeljaras'
+          h = parse_simple(a, 'szank', 'szanv', 'labj')
+          kezdete = to_date(h['szank'])
+          vege    = to_date(h['szanv'])
+          if kezdete 
+            liq = Liquidation.find_by_organization_id_and_type_and_process_start( @org.id, type, kezdete )
+            if !liq
+              Liquidation.create!( :process_start => kezdete, 
+                                   :process_end   => vege, 
+                                   :start_time    => h['from'], 
+                                   :end_time => h['to'], 
+                                   :organization_id => @org.id,
+                                   :type => type,
+                                   :note   => h['labj']
+                                 )
+            end
+          end 
+        end
+        doc.search('//rovat[@id=28]/alrovat').each do |a|
+          puts "- - - - - - Felszámolás - - - - - -"  
+          type = 'felszamolas'
+          h = parse_simple(a, 'felszk', 'felszv', 'labj', 'kod')
+          kezdete = to_date(h['felszk'])
+          vege    = to_date(h['felszv'])
+          if kezdete 
+            liq = Liquidation.find_by_organization_id_and_type_and_process_start( @org.id, type, kezdete )
+            if !liq
+              Liquidation.create!( :process_start => kezdete, 
+                                   :process_end   => vege, 
+                                   :start_time    => h['from'], 
+                                   :end_time => h['to'], 
+                                   :organization_id => @org.id,
+                                   :type => type,
+                                   :stays  => ( h['kod'] == 'x' ? true : false ),
+                                   :note   => h['labj']
+                                 )
+            end
+          end 
+        end
+
+        doc.search('//rovat[@id=48]/alrovat').each do |a|
+          puts "- - - - - - Kozhasznusagi fokozat - - - - - -"
+          h = parse_simple(a, 'kozh', 'kkozh')
+          if h['kozh'] == 'x'  
+            if @org.kozhasznu.blank? or ( h['from'] and @org.kozhasznu_from and @org.kozhasznu_from < h['from'] )
+              @org.kozhasznu = true
+              @org.kozhasznu_from = h['from']
+            end
+          end
+          if h['kkozh'] == 'x'  
+            if @org.kiemelten_kozhasznu.blank? or ( h['from'] and @org.kiemelten_kozhasznu_from and @org.kiemelten_kozhasznu_from < h['from'] )
+              @org.kiemelten_kozhasznu = true
+              @org.kiemelten_kozhasznu_from = h['from']
+            end
+          end
+        end
+
+        doc.search('//rovat[@id=49]/alrovat').each do |a|
+          puts "- - - - - - Előző cégjegyzékszámok - - - - - -"  
+          h = parse_simple(a, 'cgjsz', 'labj')
+          cegjegyzekszam = to_trade_register_nr( h['cgjsz'] )
+          c = TradeRegisterNumber.find_by_organization_id_and_nr( @org.id, cegjegyzekszam )
+          if !c
+          Liquidation.create!( 
+                               :start_time    => h['from'], 
+                               :end_time => h['to'], 
+                               :organization_id => @org.id,
+                               :nr => cegjegyzekszam,
+                               :note   => h['labj']
+                             )
+          end 
+        end
+
+        doc.search('//rovat[@id=54]/alrovat').each do |a|
+          puts "- - - - - - állami tulajdonosi joggyakorló - - - - - -"
+          parse_member a, "állami tulajdonosi joggyakorló", "állami tulajdonosi joggyakorló"
+        end
+
+        doc.search('//rovat[@id=99]/alrovat').each do |a|
+          puts "- - - - - - Hirdetmények- - - -"
+          hird = parse_simple(a, 'szoveg', 'labj' 'tipus', 'tipusnev', 'kozdatum', 'ugyszam', 'eugyszam', 'birosag', 'felsz', 'felsz_cim', 'felsz_cjsz',
+                              'felszbizt1_nev', 'felszbizt1_cim', 'felszbizt1_irsz', 'felszbizt2_nev', 'felszbizt2_cim', 'felszbizt2_irsz', 'benyujtdatum', 'fkozdatum', 'jogerodatum')
+          if !hird['szoveg'].blank?
+            anno = Announcement.find_by_organization_id_and_content( @org.id, hird['szoveg'] )
+            if !anno
+              Announcement.create!( :content => hird['szoveg'],
+                                    :organization_id => @org.id,
+                                    :start_time        => to_date(hird['hattol']), 
+                                    :end_time          => to_date(hird['hatig']),
+                                    :labjegyezet       => hird['labj'],
+                                    :tipus             => hird['tipus'],
+                                    :tipusnev          => hird['tipusnev'],
+                                    :issued_at         => to_date(hird['kozdatum']),
+                                    :ugyszam           => hird['ugyszam'],
+                                    :eugyszam          => hird['eugyszam'],
+                                    :birosag           => hird['birosag'],
+                                    :felszamolo_neve   => hird['felsz'],
+                                    :felszamolo_cime   => hird['felsz_cim'],
+                                    :felszamolo_cgjsz  => hird['felsz_cjsz'],
+                                    :felszbizt1_nev    => hird['felszbizt1_nev'],
+                                    :felszbizt1_cim    => hird['felszbizt1_cim'],
+                                    :felszbizt1_irsz   => hird['felszbizt1_irsz'],
+                                    :felszbizt2_nev    => hird['felszbizt2_nev'],
+                                    :felszbizt2_cim    => hird['felszbizt2_cim'],
+                                    :felszbizt2_irsz   => hird['felszbizt2_irsz'],
+                                    :legal_at          => to_date(hird['jogerodatum']),
+                                    :submitted_at      => to_date(hird['fkozdatum'])
+                                  )
+            end
+          end
+        end
+        doc.search('//rovat[@id=11]/alrovat').each do |a|
+          puts "- - - - - - Vagyon - - - - - -"
+          vagyon = parse_simple(a, 'szam')['szam'].to_i
+          @org.stock = vagyon if stock > 0 and !@org.stock.blank?
+        end
+        @org.save
       else
         puts " ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !  company not found..."
+        puts no_of_not_found += 1
       end
 
       f.close
-
+      if @new_org  # azért mentjuk a végén a nevet, mert ha van már ilyen, akkor unique miatt nem fogja engedni
+        @org.name     = nev    
+        @org.save
+      end
+      puts "#{no_of_found} organizations found"
+      puts "#{no_of_not_found} organizations not found"
+      
     end
   end
 

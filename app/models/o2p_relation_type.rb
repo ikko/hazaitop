@@ -8,7 +8,6 @@ class O2pRelationType < ActiveRecord::Base
     visual :boolean, :default => true
     litig  :boolean, :default => false
     label  :string
-    role   :string
     parsed   :boolean, :default => false
     timestamps
   end

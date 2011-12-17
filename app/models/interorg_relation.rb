@@ -7,9 +7,12 @@ class InterorgRelation < ActiveRecord::Base
     timestamps
     mirrored     :boolean, :default => false
     mirror       :boolean, :default => false
-    weight       :float
+    weight       :float,   :default => 1
     visual       :boolean, :default => true
     value        :integer, :limit => 8
+    start_time   :date
+    end_time     :date
+    no_end_time  :boolean, :default => false
     currency     :string
     vat_incl     :boolean
     issued_at    :date

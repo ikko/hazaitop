@@ -48,7 +48,7 @@ class SiteSearchController < ApplicationController
                     end
       target_id = target.id
     end
-    edge[:weight] = relation.weight
+    edge[:weight] = 1 # relation.weight
     if target_type == source_type && target_type == 'o'
       edge[:id] = "o2o#{relation.id}"
       edge[:alternateId] = "o2o#{relation.interorg_relation_id}"

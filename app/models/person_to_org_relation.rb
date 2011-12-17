@@ -6,8 +6,9 @@ class PersonToOrgRelation < ActiveRecord::Base
     start_time :date
     end_time   :date
     no_end_time :boolean, :default => false
-    weight     :float
+    weight     :float,    :default => 1
     visual     :boolean, :default => true
+    role   :string    # tisztség complexbol
     timestamps
   end
 
