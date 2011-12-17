@@ -257,7 +257,7 @@ namespace :complex do
         org = nil
         org = Organization.find_by_tax_nr(adosz) if !adosz.empty? and !adosz.blank?
         org = Organization.find_by_trade_register_nr( to_trade_register_nr(cgjsz) ) if !org and !cgjsz.empty? and !cgjsz.blank?
-        org = Organization.find_by_name( nev ) if !org !nev.blank? and !nev.empty?
+        org = Organization.find_by_name( nev ) if !org and !nev.blank? and !nev.empty?
         org = Organization.create!( :name => nev,
                                     :trade_register_nr => to_trade_register_nr(cgjsz),
                                     :country           => orszag,
@@ -551,7 +551,7 @@ namespace :complex do
         ap rel
       end
 
-=begin
+#=begin
       doc.search('//rovat[@id=99]/alrovat').each do |a|
         puts "- - - - - - Hirdetmények- - - -"
         hird = parse_simple(a, 'szoveg', 'labj' 'tipus', 'tipusnev', 'kozdatum', 'ugyszam', 'eugyszam', 'birosag', 'felsz', 'felsz_cim', 'felsz_cjsz',
@@ -585,7 +585,7 @@ namespace :complex do
           end
         end
       end
-=end      
+#=end      
       doc.search('//rovat[@id=103]/alrovat').each do |a|
         puts "- - - - - - közkereseti társaság tagjai - - - - - -"
         parse_member a, "Kkt. tag", "Kkt. tag", "kkt. tag ugyanazon társaságnál"
