@@ -102,6 +102,7 @@ namespace :complex do
       if nev.empty?   # akkor ez person lesz
         puts is_person = true
         puts pnev  =  a.search('mezo[@id="pnev"]').text.strip
+        return false if pnev.blank?  # van olyan, h csak egy id meg egy hatályosság van bnne, más nincs...
         pn = pnev.split(',')
         pnev = pn[0]
         tiszt2 = pn[1..-1].join(',') if pn.length > 1
@@ -205,6 +206,8 @@ namespace :complex do
       if kepve or kepvo
         role = role + " együttesen" if kepve
         role = role + " önállóan"   if kepvo
+        pair_role = pair_role + " együttesen" if kepve
+        pair_role = pair_role + " önállóan"   if kepvo
       end
       if is_person
         person = Person.find_by_name_and_mothers_name(pnev, panev)
@@ -323,8 +326,13 @@ namespace :complex do
     no_of_not_found = 0
     n = 1
     dirname = 'db/complex/orgs/'
+    # forwarding = true
     Dir.foreach( dirname ) do |file|
       next if file == '.' or file == '..'
+      # if forwarding and file == '509005483.xml'
+      #   forwarding = false     
+      # end
+      # next if forwarding
       # n += 1; break if n > 20
       puts file
       puts file.inspect
@@ -603,7 +611,7 @@ namespace :complex do
         parse_member a, "Közös vállalat tagja", "Közös vállalat tagja", "Közös válallat tagja ugyanazon társaságnál"
       end
       doc.search('//rovat[@id=109]/alrovat').each do |a|
-        puts "- - - - - - egyesülés tagjai - - - - - -"
+        puts "- - - - - - kft tagjai - - - - - -"
         parse_member a, "Kft. tag", "Kft. tag", "Kft. tagja ugyanazon társaságnál"
       end
       doc.search('//rovat[@id=110]/alrovat').each do |a|
