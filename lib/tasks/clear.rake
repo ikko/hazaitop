@@ -6,7 +6,7 @@ namespace :clear do
     Organization.all(:conditions => "name LIKE '%intézmény%' or 
                                      name LIKE '%nkorm%' or 
                                      name LIKE '%egyéni vállalkozó%' or 
-                                     name LIKE '%iskola% or 
+                                     name LIKE '%iskola%' or 
                                      name LIKE '%óvoda%'" ).each do |o|
       puts o.name
       o.tax_nr = nil
