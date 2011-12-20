@@ -32,6 +32,7 @@ namespace :load do
     puts f = File.open('db/manual_person_grades.txt', 'r')
     new_p = 0; p = []; p_ids = []
     sub = false
+    puts @info = InformationSource.find_by_name('ahalo.hu')
     f.each do |l|
       l.strip!
       if !sub
@@ -41,12 +42,13 @@ namespace :load do
         a = l.split(':+:')
         a.each do |b|
           c = b.split(':!:')
-          @sub = Person.find_or_create_by_name( c[0].strip ) do |w|
+          @sub = Person.find_or_create_by_name( c[0].strip.gsub(',','' ) do |w|
             w.first_name = c[1]
             w.last_name  = c[2]
             w.klink      = c[6]
             w.born_at    = c[7].try.to_date
             w.mothers_name=c[8]
+            w.information_source_id = @info.id
           end
           if @sub 
             if !@sub.person_grades.include?(@main)
