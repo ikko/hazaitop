@@ -18,6 +18,7 @@ class PersonToOrgRelation < ActiveRecord::Base
     szavazat_50_szazalek_felett  :boolean, :default => false
     szavazat_tobbsegi_befolyas   :boolean, :default => false
     szavazat_egyeduli_reszvenyes :boolean, :default => false
+    parsed :boolean, :default => false
     timestamps
   end
 

@@ -50,6 +50,11 @@ class Person < ActiveRecord::Base
   has_many :person_to_org_non_litigation_relations, :conditions => [ "visual = ?", true], :class_name => "PersonToOrgRelation"
   has_many :person_to_org_litigation_relations, :conditions => [ "visual = ?", false], :class_name => "PersonToOrgRelation"
 
+
+  # helperek adminhoz
+  has_many :personal_manual_relations,      :conditions => [ "parsed = ?", false], :class_name => "InterpersonalRelation"
+  has_many :person_to_org_manual_relations, :conditions => [ "parsed = ?", false], :class_name => "PersonToOrgRelation"
+
   has_many :person_to_org_relations, :accessible => true, :order => "organization_id"
 
   has_many :organizations, :through => :person_to_org_relations

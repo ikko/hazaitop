@@ -19,40 +19,21 @@ class PeopleController < ApplicationController
   end
 
   def update
-    render :text => "access denied" unless current_user.administrator? or current_user.editor? or current_user.supervisor?
-    logger.info "========================================================== 1 =="
+    render :text => "access denied" unless current_user.administrator? or current_user.editor? or current_user.supervisor? # mivel nincs hobo permi check ilyenkor...
     add_new_entities    
-    logger.info "========================================================== 2 =="
-    logger.info params.inspect
     redirect_to edit_person_path(params[:id]) and return if flash[:errors].present?
-    logger.info "========================================================== 3 =="
     @person = find_instance
-    logger.info "========================================================== 4 =="
-    logger.info params['person'].inspect
-    @person.update_attributes params['person']
-    logger.info "========================================================== 5 =="
+    hobo_update 
     if @person.valid?
-    logger.info "========================================================== 6 =="
       PersonHistory.create( :user_id => current_user.id, :person_id => @person.id ) 
-    logger.info "========================================================== 7 =="
-      redirect_to person_path( @person.id )
-    logger.info "========================================================== 8 =="
-    else
-      render :action => :edit
+#      redirect_to person_path( @person.id )
+#    else
+#      render :action => :edit
     end
-
-    logger.info "========================================================== 9 =="
   rescue => e
     logger.info e.backtrace.join("\n")
     logger.info "*********************************************** update person error happened ********************************"
     logger.info e.inspect
-=begin
-    hobo_update do
-      PersonHistory.create( :user_id => current_user.id, :person_id => @this.id ) if @this.valid?
-      logger.info @this.inspect
-      logger.info @this.valid?
-    end
-=end
   end
 
   def add_new_entities
@@ -71,6 +52,7 @@ class PeopleController < ApplicationController
                          :information_source_id => p[:information_source_id].blank? ? info_source.id : p[:information_source_id]
                        )
         end
+=begin
         if !p[:article_relations].blank?
           p[:article_relations].each do |k,a|
             next if k.to_i == -1
@@ -83,6 +65,7 @@ class PeopleController < ApplicationController
             end
           end
         end
+=end        
       end
     end
     if !params[:person][:person_to_org_relations].blank?
@@ -95,6 +78,7 @@ class PeopleController < ApplicationController
                               :information_source_id => p[:information_source_id].blank? ? info_source.id : p[:information_source_id]
                              )
         end
+=begin
         if !o[:article_relations].blank?
           o[:article_relations].each do |k,a|
             next if k.to_i == -1
@@ -107,6 +91,7 @@ class PeopleController < ApplicationController
             end
           end
         end
+=end
       end
     end
 
