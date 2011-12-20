@@ -961,3 +961,13 @@ h2 {
 
 .card.interpersonal-relation {
   margin-top: 40px
+}
+
+.card.p2p-relation-type, .card.p2o-relation-type, .card.o2p-relation-type, .card.o2o-relation-type {
+  border-bottom: 1px solid gray;
+  border-top: 1px solid gray;
+  margin: 2px;
+  padding: 5px;
+}
+
+

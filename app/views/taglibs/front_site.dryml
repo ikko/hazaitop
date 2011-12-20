@@ -958,3 +958,40 @@
   </div>
 </def>
 
+
+
+<def tag="card" for="O2oRelationType">
+  <card class="o2o-relation-type" param="default" merge>
+    <header: param>
+      <h4 param="heading"><a><name/></a> <span if="&this.pair"> (<view:pair/>)</span></h4>
+      parsed: <editor:parsed/>
+    </header:>
+  </card>
+</def>
+
+<def tag="card" for="O2pRelationType">
+  <card class="o2p-relation-type" param="default" merge>
+    <header: param>
+      <h4 param="heading"><a><name/></a> <span if="&this.pair"> (<view:pair/>)</span></h4>
+      parsed: <editor:parsed/>
+    </header:>
+  </card>
+</def>
+
+<def tag="card" for="P2oRelationType">
+  <card class="p2o-relation-type" param="default" merge>
+    <header: param>
+      <h4 param="heading"><a><name/></a> <span if="&this.pair"> (<view:pair/>)</span></h4>
+      parsed: <editor:parsed/>
+    </header:>
+  </card>
+</def>
+
+<def tag="card" for="P2pRelationType">
+  <card class="p2p-relation-type" param="default" merge>
+    <header: param>
+      <h4 param="heading"><a><name/></a> <span if="&this.pair"> (<view:pair/>)</span></h4>
+      parsed: <editor:parsed/>
+    </header:>
+  </card>
+</def>
