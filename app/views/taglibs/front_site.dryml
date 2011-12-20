@@ -282,7 +282,7 @@
 <def tag="form" for="Person">
   <form merge param="default">
     <error-messages param/>
-    <field-list fields="last_name, first_name, person_grades, place_of_birth, born_at, mothers_name, information_source, personal_relations, person_to_org_relations, user" param>
+    <field-list fields="last_name, first_name, person_grades, place_of_birth, born_at, mothers_name, information_source, user" param>
       <place-of-birth-view:>
         <name-one/>
       </place-of-birth-view:>
@@ -356,7 +356,7 @@
 <def tag="form" for="Organization">
  <form merge param="default">
     <error-messages param/>
-   <field-list fields="name, org_grade, sector, activities, zip_code, city, street, trade_register_nr, tax_nr, founded_at, number_of_employees, information_source, financials, interorg_relations, person_to_org_relations, user" tag="editor" param>
+   <field-list fields="name, org_grade, sector, activities, zip_code, city, street, trade_register_nr, tax_nr, founded_at, number_of_employees, information_source, financials, user" tag="editor" param>
       <information-source-view:>
         <select-one options="&InformationSource.not_internal"/> | <a href="&new_information_source_path"  target="_blank"><ht key="custom.new">new</ht></a>
       </information-source-view:>
