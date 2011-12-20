@@ -38,11 +38,21 @@ namespace :load do
         @main = PersonGrade.find_or_create_by_name(l) do |r| r.name = l end
         sub = true
       else
-        a = l.split(':!:')
+        a = l.split(':+:')
         a.each do |b|
-          @sub = Person.find_by_name( b.strip )
+          c = b.split(':!:')
+          @sub = Person.find_or_create_by_name( c[0].strip ) do |w|
+            w.first_name = c[1]
+            w.last_name  = c[2]
+            w.street     = c[3]
+            w.zip_code   = c[4]
+            w.country    = c[5]
+            w.klink      = c[6]
+            w.born_at    = c[7].to_date
+            w.mothers_name=c[8]
+          end
           if @sub 
-            if !@sun.person_grades.include?(@main)
+            if !@sub.person_grades.include?(@main)
               @sub.person_grades << @main
               puts "added that #{@sub} is #{@main}"
             end
