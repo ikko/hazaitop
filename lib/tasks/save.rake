@@ -23,7 +23,7 @@ namespace :save do
       f.puts("#{r.name}")
       s = ""
       r.people.each do |w|
-        s << "#{w.name}:!:#{w.first_name}:!:#{w.last_name}:!:#{w.klink}:!:#{w.born_at}:!:#{w.mothers_name}:+:"
+        s << "#{w.name.gsub(',','')}:!:#{w.first_name}:!:#{w.last_name}:!:#{w.klink}:!:#{w.born_at}:!:#{w.mothers_name}:+:"
       end
       f.puts(s)                        
       n += 1
