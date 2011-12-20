@@ -69,6 +69,7 @@ namespace :complex do
         i = P2pRelationType.find_or_create_by_name_and_internal( subrole, true ) do |r|
           r.name = subrole
           r.internal = true
+          r.parsed = true
         end
         a = P2oRelationType.find_or_create_by_name_and_parsed( role, true ) do |r|   
           r.name = role
@@ -87,7 +88,8 @@ namespace :complex do
       else
         relation_type = klass.find_or_create_by_name(role) do |r|
           r.name = role
-          r.pair = klass.create!( :name => pair, :parsed => true ) 
+          r.pair = klass.create!( :name => pair, :parsed => true )
+          r.parsed = true
         end
         relation_type.pair.update_attribute :pair_id, relation_type.id 
         return relation_type
@@ -250,7 +252,8 @@ namespace :complex do
                                        :kozvetlen => kozvetlen, 
                                        :szavazat_50_szazalek_felett =>  szavazat_50_szazalek_felett,
                                        :szavazat_tobbsegi_befolyas  =>  szavazat_tobbsegi_befolyas,
-                                       :szavazat_egyeduli_reszvenyes => szavazat_egyeduli_reszvenyes
+                                       :szavazat_egyeduli_reszvenyes => szavazat_egyeduli_reszvenyes,
+                                       :parsed => true
                                      )
         end
       elsif !is_person
@@ -291,7 +294,8 @@ namespace :complex do
                                        :kozvetlen => kozvetlen,
                                        :szavazat_50_szazalek_felett =>  szavazat_50_szazalek_felett,
                                        :szavazat_tobbsegi_befolyas  =>  szavazat_tobbsegi_befolyas,
-                                       :szavazat_egyeduli_reszvenyes => szavazat_egyeduli_reszvenyes
+                                       :szavazat_egyeduli_reszvenyes => szavazat_egyeduli_reszvenyes,
+                                       :parsed => true
                                      )
         end
         ap rel
@@ -325,14 +329,20 @@ namespace :complex do
     no_of_found = 0
     no_of_not_found = 0
     n = 1
+    xa = 0; xb = 0; xc = 0;
     dirname = 'db/complex/orgs/'
-    # forwarding = true
+    forwarding = true
+    puts "counting..."
     Dir.foreach( dirname ) do |file|
       next if file == '.' or file == '..'
-      # if forwarding and file == '509005483.xml'
-      #   forwarding = false     
-      # end
-      # next if forwarding
+      if forwarding and file == '509010664.xml'
+        forwarding = false     
+        xc = xa;
+      end
+      xa = xa + 1;
+      next if forwarding
+      xb = xb + 1;
+      next
       # n += 1; break if n > 20
       puts file
       puts file.inspect
@@ -553,7 +563,8 @@ namespace :complex do
                                      :no_end_time => ( vege.nil? ? true : false ),
                                      :p2o_relation_type_id  => relation_type.id,
                                      :note => ( h['labj'].blank? ? nil : h['labj'] ),
-                                     :erased_at => h['tkelt']
+                                     :erased_at => h['tkelt'],
+                                     :parsed => true
                                    )
         end
         ap rel
@@ -679,6 +690,8 @@ namespace :complex do
       puts "#{no_of_not_found} organizations are new"
       
     end
+
+    puts "counted: #{xa}, #{xb}, #{xc}"
   end
 
 end

@@ -594,7 +594,8 @@ namespace :fetch do
                                                                       :notification_id  => note.id,
                                                                       :information_source_id => info.id,
                                                                       :issued_at => date,
-                                                                      :name => contract.description.blank? ? contract.name : contract.description
+                                                                      :name => contract.description.blank? ? contract.name : contract.description,
+                                                                      :parsed => true
 
                                                                      )
                                                                      puts ":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::"
@@ -753,7 +754,8 @@ namespace :fetch do
                                                               :information_source_id => info_id,
                                                               :p2p_relation_type_id => f_p2p.id,
                                                               :start_time => issue_date,
-                                                              :no_end_time => true
+                                                              :no_end_time => true,
+                                                              :parsed => true
                                                             )
                     puts "new relation for #{t1.name} and #{t2.name}"
                   else
@@ -769,7 +771,7 @@ namespace :fetch do
                 if t1.kind_of?(Organization) and t2.kind_of?(Organization)
                   relation = InterorgRelation.find( :first, :conditions => [ 'organization_id = ? and related_organization_id = ? and information_source_id = ?', t1.id, t2.id, info_id])
                   unless relation
-                    relation = InterorgRelation.create!( :organization_id => t1.id, :related_organization_id => t2.id, :information_source_id => info_id, :o2o_relation_type_id => f_o2o.id, :issued_at => issue_date )
+                    relation = InterorgRelation.create!( :organization_id => t1.id, :related_organization_id => t2.id, :information_source_id => info_id, :o2o_relation_type_id => f_o2o.id, :issued_at => issue_date, :parsed => true )
                     puts "new relation for #{t1.name} and #{t2.name}"
                   else
                     relation.issued_at = issue_date
@@ -787,7 +789,8 @@ namespace :fetch do
                                                             :information_source_id => info_id,
                                                             :p2o_relation_type_id => f_p2o.id,
                                                             :start_time => issue_date,
-                                                            :no_end_time => true
+                                                            :no_end_time => true,
+                                                            :parsed => true
                                                           )
                     puts "new relation for #{t1.name} and #{t2.name}"
                   else
