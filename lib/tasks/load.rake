@@ -42,7 +42,7 @@ namespace :load do
         a = l.split(':+:')
         a.each do |b|
           c = b.split(':!:')
-          @sub = Person.find_or_create_by_name( c[0].strip.gsub(',','' ) do |w|
+          @sub = Person.find_or_create_by_name( c[0].strip.gsub(',','' ) ) do |w|
             w.first_name = c[1]
             w.last_name  = c[2]
             w.klink      = c[6]
