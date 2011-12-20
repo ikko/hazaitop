@@ -45,7 +45,7 @@ namespace :load do
             w.first_name = c[1]
             w.last_name  = c[2]
             w.klink      = c[6]
-            w.born_at    = c[7].to_date
+            w.born_at    = c[7].try.to_date
             w.mothers_name=c[8]
           end
           if @sub 
