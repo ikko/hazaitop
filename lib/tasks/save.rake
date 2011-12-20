@@ -32,4 +32,16 @@ namespace :save do
     f.close
   end
 
+  desc 'export manual data to db/manual_#{model}.txt'
+  task :information_sources => :environment do
+    f = File.open('db/manual_information_sources.txt', 'w')
+    n = 0
+    x = PersonGrade.count
+    InformationSource.all.each do |r| 
+      f.puts("#{r.name}:!:#{r.web}:!:#{r.internal ? '1' : '0'}")
+      n += 1
+      puts "saving information source #{r.name} ... #{(n.to_f / x * 100).round(2)}% #{n} of #{x}"
+    end
+    f.close
+  end
 end
