@@ -21,7 +21,11 @@ namespace :save do
     x = PersonGrade.count
     PersonGrade.all.each do |r| 
       f.puts("#{r.name}")
-      f.puts(r.people.*.name.join(':!:'))
+      s = ""
+      r.people.each do |w|
+        s << "#{w.name}:!:#{w.first_name}:!:#{w.last_name}:!:#{w.street}:!:#{w.zip_code}:!:#{w.country}:!:#{w.klink}:!:#{w.born_at}:!:#{w.mothers_name}:+:"
+      end
+      f.puts(s)                        
       n += 1
       puts "saving person grade #{r.name} ... #{(n.to_f / x * 100).round(2)}% #{n} of #{x}"
     end
