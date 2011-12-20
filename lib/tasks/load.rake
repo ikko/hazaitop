@@ -70,10 +70,10 @@ namespace :load do
     puts "exiting..."
   end
 
+
   desc 'import manual data from db/manual_#{model}.txt'
   task :information_sources => :environment do
     puts f = File.open('db/manual_information_sources.txt', 'r')
-    new_p = 0; p = []; p_ids = []
     sub = false
     f.each do |l|
       l.strip!
@@ -83,6 +83,88 @@ namespace :load do
         w.web  = c[1].strip
         w.internal = ( c[2].strip == '1' ? true : false )
         puts "creating new source:"
+        puts w.inspect
+        puts "......."
+      end
+    end
+    f.close
+    puts "exiting..."
+  end
+
+  desc 'import manual data from db/manual_#{model}.txt'
+  task :p2p_relation_types => :environment do
+    puts f = File.open('db/manual_p2p_relation_types.txt', 'r')
+    sub = false
+    f.each do |l|
+      l.strip!
+      c = l.split(':!:')
+      P2pRelationType.find_or_create_by_name( c[0].strip ) do |w|
+        w.name = c[0].strip
+        w.weight =  c[1].strip.to_f
+        w.visual = ( c[2].strip == '1' ? true : false )
+        w.litig = ( c[3].strip == '1' ? true : false )
+        puts "creating new rel type:"
+        puts w.inspect
+        puts "......."
+      end
+    end
+    f.close
+    puts "exiting..."
+  end
+
+  desc 'import manual data from db/manual_#{model}.txt'
+  task :o2o_relation_types => :environment do
+    puts f = File.open('db/manual_o2o_relation_types.txt', 'r')
+    sub = false
+    f.each do |l|
+      l.strip!
+      c = l.split(':!:')
+      O2oRelationType.find_or_create_by_name( c[0].strip ) do |w|
+        w.name = c[0].strip
+        w.weight =  c[1].strip.to_f
+        w.visual = ( c[2].strip == '1' ? true : false )
+        w.litig = ( c[3].strip == '1' ? true : false )
+        puts "creating new rel type:"
+        puts w.inspect
+        puts "......."
+      end
+    end
+    f.close
+    puts "exiting..."
+  end
+  desc 'import manual data from db/manual_#{model}.txt'
+  task :p2o_relation_types => :environment do
+    puts f = File.open('db/manual_p2o_relation_types.txt', 'r')
+    sub = false
+    f.each do |l|
+      l.strip!
+      c = l.split(':!:')
+      P2oRelationType.find_or_create_by_name( c[0].strip ) do |w|
+        w.name = c[0].strip
+        w.weight =  c[1].strip.to_f
+        w.visual = ( c[2].strip == '1' ? true : false )
+        w.litig = ( c[3].strip == '1' ? true : false )
+        puts "creating new rel type:"
+        puts w.inspect
+        puts "......."
+      end
+    end
+    f.close
+    puts "exiting..."
+  end
+  desc 'import manual data from db/manual_#{model}.txt'
+  task :o2p_relation_types => :environment do
+    puts f = File.open('db/manual_o2p_relation_types.txt', 'r')
+    sub = false
+    f.each do |l|
+      l.strip!
+      c = l.split(':!:')
+      O2pRelationType.find_or_create_by_name( c[0].strip ) do |w|
+        w.name = c[0].strip
+        w.weight =  c[1].strip.to_f
+        w.visual = ( c[2].strip == '1' ? true : false )
+        w.litig = ( c[3].strip == '1' ? true : false )
+        puts "creating new rel type:"
         puts w.inspect
         puts "......."
       end
