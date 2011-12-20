@@ -44,9 +44,6 @@ namespace :load do
           @sub = Person.find_or_create_by_name( c[0].strip ) do |w|
             w.first_name = c[1]
             w.last_name  = c[2]
-            w.street     = c[3]
-            w.zip_code   = c[4]
-            w.country    = c[5]
             w.klink      = c[6]
             w.born_at    = c[7].to_date
             w.mothers_name=c[8]
