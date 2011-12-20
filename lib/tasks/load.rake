@@ -26,7 +26,6 @@ namespace :load do
     f.close
   end
 
-
   desc 'import manual data from db/manual_#{model}.txt'
   task :person_grades => :environment do
     puts f = File.open('db/manual_person_grades.txt', 'r')
@@ -67,6 +66,27 @@ namespace :load do
     end
     puts "#{new_p} new people found: "
     puts p.join(',')
+    f.close
+    puts "exiting..."
+  end
+
+  desc 'import manual data from db/manual_#{model}.txt'
+  task :information_sources => :environment do
+    puts f = File.open('db/manual_information_sources.txt', 'r')
+    new_p = 0; p = []; p_ids = []
+    sub = false
+    f.each do |l|
+      l.strip!
+      c = l.split(':!:')
+      InformationSource.find_or_create_by_name( c[0].strip ) do |w|
+        w.name = c[0].strip
+        w.web  = c[1].strip
+        w.internal = ( c[2].strip == '1' ? true : false )
+        puts "creating new source:"
+        puts w.inspect
+        puts "......."
+      end
+    end
     f.close
     puts "exiting..."
   end
