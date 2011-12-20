@@ -26,4 +26,40 @@ namespace :load do
     f.close
   end
 
+
+  desc 'import manual data from db/manual_#{model}.txt'
+  task :person_grades => :environment do
+    puts f = File.open('db/manual_person_grades.txt', 'r')
+    new_p = 0; p = []; p_ids = []
+    sub = false
+    f.each do |l|
+      l.strip!
+      if !sub
+        @main = PersonGrade.find_or_create_by_name(l) do |r| r.name = l end
+        sub = true
+      else
+        a = l.split(':!:')
+        a.each do |b|
+          @sub = Person.find_by_name( b.strip )
+          if @sub 
+            if !@sun.person_grades.include?(@main)
+              @sub.person_grades << @main
+              puts "added that #{@sub} is #{@main}"
+            end
+          else
+            p << @sub
+            p_ids << @sub.id
+            new_p += 1
+          end
+        end
+        sub = false
+        puts "- - - - - - - "
+      end
+    end
+    puts "#{new_p} new people found: "
+    puts p.join(',')
+    f.close
+    puts "exiting..."
+  end
+
 end
