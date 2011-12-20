@@ -356,7 +356,7 @@
 <def tag="form" for="Organization">
  <form merge param="default">
     <error-messages param/>
-   <field-list fields="name, org_grade, sector, activities, zip_code, city, street, trade_register_nr, tax_nr, founded_at, number_of_employees, information_source, financials, user" tag="editor" param>
+   <field-list fields="name, org_grade, sector, activities, zip_code, city, street, trade_register_nr, tax_nr, founded_at, number_of_employees, information_source, financials, user, interorg-manual-relations, person-to-org-manual-relations" tag="editor" param>
       <information-source-view:>
         <select-one options="&InformationSource.not_internal"/> | <a href="&new_information_source_path"  target="_blank"><ht key="custom.new">new</ht></a>
       </information-source-view:>
@@ -461,6 +461,7 @@
     </header:>
     <body: param>
       <a if="web" href="#{this.web}" target="_blank"><view:web/></a>
+      internal: <editor:internal/>
     </body:>
   </card>
 </def>
@@ -959,6 +960,15 @@
 </def>
 
 
+
+<def tag="card" for="InformationSource">
+  <card class="o2o-relation-type" param="default" merge>
+    <header: param>
+      <h4 param="heading"><a><name/></a></h4>
+      internal: <editor:internal/>
+    </header:>
+  </card>
+</def>
 
 <def tag="card" for="O2oRelationType">
   <card class="o2o-relation-type" param="default" merge>
