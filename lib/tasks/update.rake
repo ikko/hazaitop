@@ -14,11 +14,11 @@ namespace :update do
   desc 'update parsed bit cache'
   task :parsed => :environment do
     puts "1"
-    InterpersonalRelation.all.each do |r| r.p2p_relation_type.parsed? ? r.update_attribute :parsed, true : r.update_attribute :parsed, false  end
+    InterpersonalRelation.all.each do |r| r.p2p_relation_type.parsed? ? r.update_attribute(:parsed, true) : r.update_attribute(:parsed, false) end
     puts "2"
-    InterorgRelation.all.each do |r|      r.o2o_relation_type.parsed? ? r.update_attribute :parsed, true : r.update_attribute :parsed, false  end
+    InterorgRelation.all.each do |r|      r.o2o_relation_type.parsed? ? r.update_attribute(:parsed, true) : r.update_attribute(:parsed, false) end
     puts "3"
-    PersonToOrgRelation.all.each do |r|   r.p2o_relation_type.parsed? ? r.update_attribute :parsed, true : r.update_attribute :parsed, false  end
+    PersonToOrgRelation.all.each do |r|   r.p2o_relation_type.parsed? ? r.update_attribute(:parsed, true) : r.update_attribute(:parsed, false) end
     puts "4"
   end
 end
