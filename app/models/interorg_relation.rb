@@ -130,6 +130,9 @@ class InterorgRelation < ActiveRecord::Base
       if o.information_source_id != r.information_source_id
         o.update_attribute :information_source_id, r.information_source_id
       end
+      if o.articles != r.articles
+        o.litigations = r.articles
+      end
       if o.litigations != r.litigations
         o.litigations = r.litigations
       end
@@ -137,9 +140,13 @@ class InterorgRelation < ActiveRecord::Base
   end
 
   after_save do |r|
-    if !r.related_organization_id
+    if !r.related_organization_id or !r.organization_id
       r.destroy
     end
+  end
+
+  after_destroy do |r|
+    r.interorg_relation.try.destroy
   end
 
   def to_param

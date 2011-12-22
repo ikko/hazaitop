@@ -96,38 +96,31 @@ class InterpersonalRelation < ActiveRecord::Base
   end
 
   after_save do |r|
-    logger.info "========================================================== i =="
     o = InterpersonalRelation.find_by_id(r.interpersonal_relation_id)
     if o
-    logger.info "========================================================== A =="
       if o.related_person_id != r.person_id
         o.update_attribute :related_person_id, r.person_id
       end
       if o.p2p_relation_type_id != r.p2p_relation_type_id
-    logger.info "========================================================== B =="
         if o.p2p_relation_type and o.p2p_relation_type.pair
           if o.p2p_relation_type.pair_id != r.p2p_relation_type_id
             o.update_attributes :p2p_relation_type_id => r.p2p_relation_type.pair.id, :visual => r.p2p_relation_type.visual
           end
         else
           o.update_attribute :p2p_relation_type_id, r.p2p_relation_type_id
-    logger.info "========================================================== C =="
         end
       end
       if o.information_source_id != r.information_source_id
         o.update_attribute :information_source_id, r.information_source_id
-    logger.info "========================================================== D =="
+      end
+      if o.articles != r.articles
+        o.articles = r.articles
       end
       if o.litigations != r.litigations
-    logger.info "========================================================== E =="
         o.litigations = r.litigations
-    logger.info "========================================================== F =="
       end
     end
-  end
-
-  after_save do |r|
-    logger.info "========================================================== ??? =="
+    # ha mi hoztuk létre és már törölték a kapcsolatait, akkor őt is töröljuük
     if r.information_source.internal and !(r.person_to_org_relation and r.other_person_to_org_relation)
       if r.interpersonal_relation
         r.interpersonal_relation.destroy
@@ -136,10 +129,15 @@ class InterpersonalRelation < ActiveRecord::Base
       end
       r.related_person_id = nil
     end
-    if !r.related_person_id
+    if !r.related_person_id or !person_id
       r.destroy
     end
   end
+
+  after_destroy do |r|
+    r.interpersonal_relation.try.destroy
+  end
+
 
   # --- Permissions --- #
 

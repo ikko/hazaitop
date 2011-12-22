@@ -34,6 +34,7 @@ class Organization < ActiveRecord::Base
     kiemelten_kozhasznu           :boolean
     kiemelten_kozhasznu_from      :date
     timestamps
+    complex_xml :text
   end
 
   belongs_to :merge_from, :class_name => "Organization"

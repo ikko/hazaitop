@@ -304,7 +304,8 @@ namespace :complex do
         puts "ERROR: : : : * * * * * * * * * * * * could not parse member"
         return false
       end
-      @org.update_attribute :complexed_at, Time.now.to_date
+      
+      @org.update_attributes :complexed_at => Time.now.to_date
     end
 
     def parse_simple a, *what
@@ -326,15 +327,22 @@ namespace :complex do
       return result
     end
 
+    def downcase_hu x
+      x.downcase.gsub('É','é').gsub('Á','á').gsub('Ő','ő').gsub('Ú','ú').gsub('Ű','ű').gsub('Ó','ó').gsub('Ü','ü').gsub('Ö','ö').gsub('Í','í')
+    end
+
     no_of_found = 0
     no_of_not_found = 0
     n = 1
     xa = 0; xb = 0; xc = 0;
     dirname = 'db/complex/orgs/'
+    logname = "db/complex/import-#{Time.now.to_s(:db).gsub(' ','-').gsub(':','-').gsub('/','-')}.log"
+    logfile = File.open(logname, 'w' )
     forwarding = true
     puts "counting..."
     Dir.foreach( dirname ) do |file|
       next if file == '.' or file == '..'
+=begin      
       if forwarding and file == '509010664.xml'
         forwarding = false     
         xc = xa;
@@ -343,7 +351,8 @@ namespace :complex do
       next if forwarding
       xb = xb + 1;
       next
-      # n += 1; break if n > 20
+=end
+      n += 1; break if n > 20
       puts file
       puts file.inspect
       fc = file.length == 13 ? "0" + file : file # lemarad a 0 a file elejéről, amikor 0-val kezdődik a cégjegyzékszám
@@ -358,9 +367,21 @@ namespace :complex do
       f = File.open(dirname + file)
       doc = Nokogiri::XML(f, nil, 'ISO8859-2')
 
+
+      f = File.open(dirname + file)
+      sf = ""
+      sf.each do |fsl|
+        sf << sfl
+      end
+      @org.complex_xml = sf
+
+
       puts "- - - - - - - - - - - "
       puts @org.inspect
       puts "- - - - - - - - - - - "
+
+
+
 
       puts tax_nr = to_tax_nr( doc.search('//rovat[@id=0]/alrovat/mezo[@id="adosz"]').text.strip )
       puts cim = doc.search('//rovat[@id=0]/alrovat[@id=1]/mezo[@id="cim"]').text.strip
@@ -376,6 +397,16 @@ namespace :complex do
       @org.city     = varos  if @new_org or @org.city.blank?
       @org.zip_code = irszam if @new_org or @org.zip_code.blank?
       @org.alternate_name  = nev   if @new_org
+
+      if nev and (@new_org or 
+                  downcase_hu(@org.name).match( downcase_hu(nev.split(' ')[0]).scan(/[a-zéáíőúöüóű]/).join ) or
+                  @org.name[0..15].scan(/[0-9]/).size > 8
+                 )
+        logfile.puts "matched: #{file} -::-  #{@org.id} -::- #{@org.name} -::- #{nev} -::- #{Time.now}"
+      else
+        logfile.puts "NOT matched: #{file} -::-  #{@org.id} -::- #{@org.name} -::- #{nev} -::- #{Time.now}"
+        next
+      end
 
       is_person = nil
 
@@ -692,6 +723,9 @@ namespace :complex do
     end
 
     puts "counted: #{xa}, #{xb}, #{xc}"
+
+    logfile.close
+
   end
 
 end
