@@ -131,7 +131,7 @@ class InterorgRelation < ActiveRecord::Base
         o.update_attribute :information_source_id, r.information_source_id
       end
       if o.articles != r.articles
-        o.litigations = r.articles
+        o.articles = r.articles
       end
       if o.litigations != r.litigations
         o.litigations = r.litigations
