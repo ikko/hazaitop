@@ -13,12 +13,17 @@ namespace :update do
 
   desc 'update parsed bit cache'
   task :parsed => :environment do
-    puts "1"
-    InterpersonalRelation.all.each do |r| r.p2p_relation_type.parsed? ? r.update_attribute(:parsed, true) : r.update_attribute(:parsed, false) end
-    puts "2"
-    InterorgRelation.all.each do |r|      r.o2o_relation_type.parsed? ? r.update_attribute(:parsed, true) : r.update_attribute(:parsed, false) end
-    puts "3"
-    PersonToOrgRelation.all.each do |r|   r.p2o_relation_type.parsed? ? r.update_attribute(:parsed, true) : r.update_attribute(:parsed, false) end
-    puts "4"
+    for i in 0..26 do 
+      puts i
+      puts "a"
+      InterpersonalRelation.find(:all, :include => :p2p_relation_type, :conditions => ["id >= #{i}001 and id < #{i+1}000"]).each do |r| r.p2p_relation_type.parsed? ? r.update_attribute(:parsed, true) : r.update_attribute(:parsed, false) end
+      puts "b"
+      InterorgRelation.find(:all, :include => :o2o_relation_type, :conditions => ["id >= #{i}001 and id < #{i+1}000"]).each do |r|      r.o2o_relation_type.parsed? ? r.update_attribute(:parsed, true) : r.update_attribute(:parsed, false) end
+      puts "c"
+      PersonToOrgRelation.find(:all, :include => :p2o_relation_type, :conditions => ["id >= #{i}001 and id < #{i+1}000"]).each do |r|   r.p2o_relation_type.parsed? ? r.update_attribute(:parsed, true) : r.update_attribute(:parsed, false) end
+      puts "d"
+
+      puts "--------------------------"
+    end
   end
 end

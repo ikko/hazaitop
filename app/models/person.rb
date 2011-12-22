@@ -17,6 +17,7 @@ class Person < ActiveRecord::Base
     complexed_at :date
     interpersonal_relations_count :integer, :default => 0
     person_to_org_relations_count :integer, :default => 0
+    complex_xml :text
     timestamps
   end
 
