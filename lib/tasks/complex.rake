@@ -394,8 +394,9 @@ namespace :complex do
         puts varos = cim.split(',').first[5..2000]
         puts utca =  cim.split(',').last.strip
       end
-      puts na =  doc.search('//rovat[@id=0]/alrovat[@id=1]/mezo[@id="nevalrovat"]').text.strip
-      puts nev = doc.search("//rovat[@id=2]/alrovat[@id='#{na}']/mezo[@id='nev']").text.strip
+#      puts na =  doc.search('//rovat[@id=0]/alrovat[@id=1]/mezo[@id="nevalrovat"]').text.strip
+#      puts nev = doc.search("//rovat[@id=2]/alrovat[@id='#{na}']/mezo[@id='nev']").text.strip
+      puts nev = doc.search("//rovat[@id=2]/alrovat/mezo[@id='nev']").text.strip
 
       @org.street   = utca   if @new_org or @org.street.blank?
       @org.city     = varos  if @new_org or @org.city.blank?
