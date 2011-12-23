@@ -398,7 +398,7 @@ namespace :complex do
 #      puts nev = doc.search("//rovat[@id=2]/alrovat[@id='#{na}']/mezo[@id='nev']").text.strip
       puts nev = doc.search("//rovat[@id=2]/alrovat/mezo[@id='nev']").text.strip
 
-      next if !nev
+      next if !nev or nev.empty?
 
       if nev and nev[0..1] == '" '
         nev = nev.gsub('"', '').gsub('  ',' ')
