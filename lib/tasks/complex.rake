@@ -404,17 +404,16 @@ namespace :complex do
       @org.alternate_name  = nev   if @new_org
 
       if @org.complexed_at
-         logfile.puts "ALREADY COMPLEXD: #{file} -::-  #{@org.id} -::- #{@org.name} -::- #{nev} -::- #{Time.now}"
+         logfile.puts "already complexed: #{file} -::-  #{@org.id} -::- #{@org.name} -::- #{nev} -::- #{Time.now}"
          next
       end
 
-      if nev and (@new_org or 
-                  downcase_hu(@org.name).match( downcase_hu(nev.split(' ')[0]).scan(/[a-zéáíőúöüóű\-]/).join ) or
-                  @org.name[0..15].scan(/[0-9]/).size > 8
+      if nev and (@new_org or @org.name[0..15].scan(/[0-9]/).size > 8 or
+                  downcase_hu(@org.name).match( downcase_hu(nev.split(' ')[0]).scan(/[a-zéáíőúöüóű\-]/).join )
                  )
-        logfile.puts "::matched: #{file} -::-  #{@org.id} -::- #{@org.name} -::- #{nev} -::- #{Time.now}"
+        logfile.puts "MATCHED: #{file} -::-  #{@org.id} -::- #{@org.name} -::- #{nev} -::- #{Time.now}"
       else
-        logfile.puts "NOT MATHDED: #{file} -::-  #{@org.id} -::- #{@org.name} -::- #{nev} -::- #{Time.now}"
+        logfile.puts "not matched: #{file} -::-  #{@org.id} -::- #{@org.name} -::- #{nev} -::- #{Time.now}"
         next
       end
 
