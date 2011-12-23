@@ -129,7 +129,7 @@ class InterpersonalRelation < ActiveRecord::Base
       end
       r.related_person_id = nil
     end
-    if !r.related_person_id or !person_id
+    if !r.related_person_id or !r.person_id
       r.destroy
     end
   end
