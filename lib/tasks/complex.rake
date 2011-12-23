@@ -398,22 +398,33 @@ namespace :complex do
 #      puts nev = doc.search("//rovat[@id=2]/alrovat[@id='#{na}']/mezo[@id='nev']").text.strip
       puts nev = doc.search("//rovat[@id=2]/alrovat/mezo[@id='nev']").text.strip
 
+      next if !nev
+
+      if nev and nev[0..1] == '" '
+        nev = nev.gsub('"', '').gsub('  ',' ')
+      end
+
       @org.street   = utca   if @new_org or @org.street.blank?
       @org.city     = varos  if @new_org or @org.city.blank?
       @org.zip_code = irszam if @new_org or @org.zip_code.blank?
       @org.alternate_name  = nev   if @new_org
 
+      logstring =  " #{file} -::-  #{@org.id} -::- #{@org.name} -::- #{nev} -::- #{Time.now}"
+
       if @org.complexed_at
-         logfile.puts "already complexed: #{file} -::-  #{@org.id} -::- #{@org.name} -::- #{nev} -::- #{Time.now}"
+         logfile.puts "already complexed: " + logstring 
          next
       end
-
       if nev and (@new_org or @org.name[0..15].scan(/[0-9]/).size > 8 or
                   downcase_hu(@org.name).match( downcase_hu(nev.split(' ')[0]).scan(/[a-zéáíőúöüóű\-]/).join )
                  )
-        logfile.puts "MATCHED: #{file} -::-  #{@org.id} -::- #{@org.name} -::- #{nev} -::- #{Time.now}"
+        if  @new_org or @org.name[0..15].scan(/[0-9]/).size > 8 
+          logfile.puts "new:         " + logstring 
+        else
+          logfile.puts "MATCHED:     " + logstring
+        end
       else
-        logfile.puts "not matched: #{file} -::-  #{@org.id} -::- #{@org.name} -::- #{nev} -::- #{Time.now}"
+        logfile.puts   "not matched: " + logstring
         next
       end
 
