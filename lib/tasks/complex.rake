@@ -352,7 +352,7 @@ namespace :complex do
       xb = xb + 1;
       next
 =end
-      n += 1; break if n > 20
+#      n += 1; break if n > 20
       puts file
       puts file.inspect
       fc = file.length == 13 ? "0" + file : file # lemarad a 0 a file elejéről, amikor 0-val kezdődik a cégjegyzékszám
@@ -403,7 +403,7 @@ namespace :complex do
       @org.alternate_name  = nev   if @new_org
 
       if nev and (@new_org or 
-                  downcase_hu(@org.name).match( downcase_hu(nev.split(' ')[0]).scan(/[a-zéáíőúöüóű]/).join ) or
+                  downcase_hu(@org.name).match( downcase_hu(nev.split(' ')[0]).scan(/[a-zéáíőúöüóű\-]/).join ) or
                   @org.name[0..15].scan(/[0-9]/).size > 8
                  )
         logfile.puts "matched: #{file} -::-  #{@org.id} -::- #{@org.name} -::- #{nev} -::- #{Time.now}"
