@@ -366,12 +366,16 @@ namespace :complex do
 
       f = File.open(dirname + file)
       doc = Nokogiri::XML(f, nil, 'ISO8859-2')
+      f.close
 
 
       f = File.open(dirname + file)
       sf = ""
-      sf.each do |fsl|
-        sf << sfl
+      f.each do |l|
+        l = '  ' + l if l[0..3] == '<rov' or l[0..3] == '</ro'
+        l = '    ' + l if l[0..3] == '<alr' or l[0..3] == '</al'
+        l = '      ' + l if l[0..3] == '<mez' or l[0..3] == '</me'
+        sf << l
       end
       @org.complex_xml = sf
 
