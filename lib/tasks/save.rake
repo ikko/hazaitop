@@ -99,5 +99,34 @@ namespace :save do
     f.close
   end
 
+  desc 'export manual data to db/manual_#{model}.txt'
+  task :people => :environment do
+    f = File.open('db/manual_people.txt', 'w')
+    n = 0
+    x = People.count
+    People.all.each do |r|
+      a = r.interpesonal_relations.not_mirror.*.p2p_relation_type_id
+      b = r.person_to_org_relations.not_mirror.*.p2o_relation_type_id
+      n += 1
+      unless a - [ "1" ].empty?
+        f.puts("#{r.last_name}:!:#{r.klink}:!:#{r.first_name}:!:#{r.born_at}:!:#{r.mothers_name}:!:#{r.place_of_birth}:!:#{r.information_source}:!:#{r.user}")
+        puts "saving org #{r.name} ... #{(n.to_f / x * 100).round(2)}% #{n} of #{x}"
+      end
+    end
+    f.close
+  end
+
+  desc 'export manual data to db/manual_#{model}.txt'
+  task :orgs => :environment do
+    f = File.open('db/manual_organizations.txt', 'w')
+    n = 0
+    x = Organizations.count
+    Organization.all.each do |r| 
+      n += 1
+      f.puts("#{r.name}:!:#{r.klink}:!:#{r.street}:!:#{r.city}:!:#{r.zip_code}:!:#{r.phone}:!:#{r.fax}:!:#{r.email_address}:!:#{r.internet_address}:!:#{r.information_source}:!:#{r.user}")
+      puts "saving org #{r.name} ... #{(n.to_f / x * 100).round(2)}% #{n} of #{x}"
+    end
+    f.close
+  end
 
 end
