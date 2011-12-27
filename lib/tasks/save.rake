@@ -139,11 +139,41 @@ namespace :save do
     f = File.open('db/manual_interpersonal_relations.txt', 'w')
     n = 0
     x = InterpersonalRelation.count
-    InterpersonalRelation.p2p_relation_type_is_not(5).not_internal.each do |r| 
+    InterpersonalRelation.not_mirror.p2p_relation_type_is_not(5).not_internal.each do |r| 
       n += 1
       if r.person and r.related_person
-        f.puts("#{r.start_time}:!:#{r.end_time}:!:#{r.no_end_time ? '1' : '2'}:!:#{city}:!:#{r.zip_code}:!:#{r.phone}:!:#{r.fax}:!:#{r.email_address}:!:#{r.internet_address}:!:#{r.information_source}:!:#{r.user}:!:#{r.related_person}:!:#{r.person}:/:#{r.articles.*.weblink.join(',')}")
-        puts "saving interpersonal_relation #{r.name} ... #{(n.to_f / x * 100).round(2)}% #{n} of #{x}"
+        f.puts("#{r.start_time}:!:#{r.end_time}:!:#{r.no_end_time ? '1' : '0'}:!:#{r.information_source}:!:#{r.related_person.name.gsub(',','')}:!:#{r.person.name.gsub(',','')}:!:#{r.p2p_relation_type}:/:#{r.articles.*.weblink.join(',')}")
+        puts "saving interpersonal_relation #{r.person} & #{r.related_person} ... #{(n.to_f / x * 100).round(2)}% #{n} of #{x}"
+      end
+    end
+    f.close
+  end
+
+  desc 'export manual data to db/manual_#{model}.txt'
+  task :interorg => :environment do
+    f = File.open('db/manual_interorg_relations.txt', 'w')
+    n = 0
+    x = InterorgRelation.count
+    InterorgRelation.not_mirror.o2o_relation_type_is_not(2).o2o_relation_type_is_not(15).o2o_relation_type_is_not(16).o2o_relation_type_is_not(18).o2o_relation_type_is_not(19).not_internal.each do |r| 
+      n += 1
+      if r.organization and r.related_organization
+        f.puts("#{r.information_source}:!:#{r.related_organization}:!:#{r.organization}:!:#{r.o2o_relation_type}:/:#{r.articles.*.weblink.join(',')}")
+        puts "saving interorg_relation #{r.organization} & #{r.related_organization} ... #{(n.to_f / x * 100).round(2)}% #{n} of #{x}"
+      end
+    end
+    f.close
+  end
+
+  desc 'export manual data to db/manual_#{model}.txt'
+  task :person_to_org => :environment do
+    f = File.open('db/manual_person_to_org_relations.txt', 'w')
+    n = 0
+    x = PersonToOrgRelation.count
+    PersonToOrgRelation.p2o_relation_type_is_not(1).not_internal.each do |r| 
+      n += 1
+      if r.person and r.organization
+        f.puts("#{r.start_time}:!:#{r.end_time}:!:#{r.no_end_time ? '1' : '0'}:!:#{r.information_source}:!:#{r.person.name.gsub(',','')}:!:#{r.organization}:!:#{r.p2o_relation_type}:/:#{r.articles.*.weblink.join(',')}")
+        puts "saving person_to_org_relation #{r.person} & #{r.organization} ... #{(n.to_f / x * 100).round(2)}% #{n} of #{x}"
       end
     end
     f.close
