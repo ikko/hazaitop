@@ -391,6 +391,16 @@ namespace :load do
       o  = Organization.find_all_by_name a[5]
       t  = O2oRelationType.find_by_name a[6].split(':/:')[0]
 
+      if p.size > 1
+        new_p = []
+        p.each do |x|
+          if !x.klink.blank?
+            new_p << x
+          end
+        end
+        p = new_p
+      end
+
       if p.size != 1 or o.size != 1
         puts "double org or person, skipping..."
         puts l
@@ -405,7 +415,7 @@ namespace :load do
       o = o.first
       p = p.first
 
-      r = InterorgRelation.find_by_organizaion_id_and_person_id_and_p2o_relation_type_id( o.id, p.id, t.id )
+      r = InterorgRelation.find_by_organization_id_and_person_id_and_p2o_relation_type_id( o.id, p.id, t.id )
       if r
         puts "relation found skipping... #{a.inspect}"
       else
