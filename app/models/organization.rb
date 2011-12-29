@@ -96,8 +96,8 @@ class Organization < ActiveRecord::Base
   has_many :interorg_litigation_relations, :conditions => [ "visual = ?", false], :class_name => "InterorgRelation"
 
   # helperek adminhoz
-  has_many :person_to_org_manual_relations, :conditions => [ "parsed = ?", false ], :class_name => "PersonToOrgRelation"
-  has_many :interorg_manual_relations,      :conditions => [ "parsed = ?", false ], :class_name => "InterorgRelation"
+  has_many :manual_person_to_org_relations, :conditions => [ "parsed = ?", false ], :class_name => "PersonToOrgRelation", :accessible => true
+  has_many :manual_interorg_relations,      :conditions => [ "parsed = ?", false ], :class_name => "InterorgRelation", :accessible => true
 
   has_many :persons,       :through => :person_to_org_relations
 

@@ -53,8 +53,8 @@ class Person < ActiveRecord::Base
 
 
   # helperek adminhoz
-  has_many :personal_manual_relations,      :conditions => [ "parsed = ?", false], :class_name => "InterpersonalRelation"
-  has_many :person_to_org_manual_relations, :conditions => [ "parsed = ?", false], :class_name => "PersonToOrgRelation"
+  has_many :manual_interpersonal_relations, :conditions => [ "parsed = ?", false], :class_name => "InterpersonalRelation", :accessible => true
+  has_many :manual_person_to_org_relations, :conditions => [ "parsed = ?", false], :class_name => "PersonToOrgRelation", :accessible => true
 
   has_many :person_to_org_relations, :accessible => true, :order => "organization_id"
 
