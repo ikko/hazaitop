@@ -46,7 +46,7 @@ namespace :load do
             w.first_name = c[1].strip
             w.last_name  = c[2].strip
             w.klink      = c[6]
-            w.born_at    = (c[7].empty? ? nil : c[7].to_date)
+            w.born_at    = (c[7].blank? ? nil : c[7].to_date)
             w.mothers_name=c[8]
             w.information_source_id = @info.id
           end
@@ -203,7 +203,7 @@ namespace :load do
       r.last_name = a[0]
       r.klink = a[1]
       r.first_name = a[2]
-      r.born_at = (a[3].empty? ? nil : a[3].to_date)
+      r.born_at = (a[3].blank? nil : a[3].to_date)
       r.mothers_name = a[4]
       r.place_of_birth = PlaceOfBirth.find_by_name(a[5])
       r.information_source = InformationSource.find_by_name(a[6])
@@ -315,8 +315,8 @@ namespace :load do
         r.person_id = p.id
         r.related_person_id = rp.id
         r.p2p_relation_type_id = t.id
-        r.start_time = (a[0].empty? ? nil : a[0].to_date)
-        r.end_time = (a[1].empty? ? nil : a[1].to_date)
+        r.start_time = (a[0].blank? ? nil : a[0].to_date)
+        r.end_time = (a[1].blank? ? nil : a[1].to_date)
         r.no_end_time = (a[2] == "1" ? true : false)
         r.information_source = InformationSource.find_by_name(a[9])
         r.articles = Article.find_all_by_title( a[6].split(':/:')[1].split(',') ) if a[6].split(':/:')[1] 
@@ -414,8 +414,8 @@ namespace :load do
         r.organization_id = o.id
         r.person_id = p.id
         r.p2o_relation_type_id = t.id
-        r.start_time = (a[0].empty? ? nil : a[0].to_date)
-        r.end_time = (a[1].empty? ? nil : a[1].to_date)
+        r.start_time = (a[0].blank? ? nil : a[0].to_date)
+        r.end_time = (a[1].blank? ? nil : a[1].to_date)
         r.no_end_time = (a[2] == "1" ? true : false)
         r.information_source = InformationSource.find_by_name(a[3])
         r.articles = Article.find_all_by_title( a[6].split(':/:')[1].split(',') ) if a[6].split(':/:')[1]
