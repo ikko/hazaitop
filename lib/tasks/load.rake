@@ -260,7 +260,7 @@ namespace :load do
     f = File.open('db/manual_interpersonal_relations.txt', 'r')
     f.each do |l|
 
-       # f.puts("#{r.start_time}:!:#{r.end_time}:!:#{r.no_end_time ? '1' : '0'}:!:#{r.information_source}:!:#{r.related_person.name.gsub(',','')}:!:#{r.person.name.gsub(',','')}:!:#{r.p2p_relation_type}:/:#{r.articles.*.weblink.join(',')}")
+     # f.puts("#{r.start_time}:!:#{r.end_time}:!:#{r.no_end_time ? '1' : '0'}:!:#{r.information_source}:!:#{r.related_person.name.gsub(',','')}:!:#{r.person.name.gsub(',','')}:!:#{r.p2p_relation_type}:/:#{r.articles.*.weblink.join(',')}")
 
       l.strip!
       next if l.empty?
@@ -318,7 +318,7 @@ namespace :load do
         r.start_time = (a[0].blank? ? nil : a[0].to_date)
         r.end_time = (a[1].blank? ? nil : a[1].to_date)
         r.no_end_time = (a[2] == "1" ? true : false)
-        r.information_source = InformationSource.find_by_name(a[9])
+        r.information_source = InformationSource.find_by_name(a[3])
         r.articles = Article.find_all_by_title( a[6].split(':/:')[1].split(',') ) if a[6].split(':/:')[1] 
         puts "loading relation data...#{r.inspect}"
         puts r.save
