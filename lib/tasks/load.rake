@@ -189,7 +189,7 @@ namespace :load do
       next if l.empty?
       a = l.split(':!:')
       r = nil
-      r = Person.find_by_klink( a[1] ) unless a[1].empty?
+      r = Person.find_by_klink( a[1] ) unless a[1].blank?
       if r.nil? 
         r = Person.find_by_name( a[0].strip + ' ' + a[2].strip )
         puts "looking just for name #{a[0].strip + ' ' + a[2].strip}"
@@ -224,7 +224,7 @@ namespace :load do
       next if l.empty?
       a = l.split(':!:')
       r = nil
-      r = Organization.find_by_klink( a[1] ) unless a[1].empty?
+      r = Organization.find_by_klink( a[1] ) unless a[1].blank?
       if r.nil? 
         r = Organization.find_by_name( a[0].strip )
         puts "looking just for name #{a[0].strip}"
