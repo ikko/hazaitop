@@ -36,7 +36,7 @@ class OrganizationsController < ApplicationController
     logger.info "========================================================== 6 =="
       OrgHistory.create( :user_id => current_user.id, :organization_id => @organization.id ) 
     logger.info "========================================================== 7 =="
-      redirect_to organiozation_path( @organization.id )
+      redirect_to organization_path( @organization.id )
     logger.info "========================================================== 8 =="
     else
       render :action => :edit
