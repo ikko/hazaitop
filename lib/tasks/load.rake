@@ -46,7 +46,7 @@ namespace :load do
             w.first_name = c[1].strip
             w.last_name  = c[2].strip
             w.klink      = c[6]
-            w.born_at    = c[7].try.to_date
+            w.born_at    = (c[7].empty? ? nil : c[7].to_date)
             w.mothers_name=c[8]
             w.information_source_id = @info.id
           end
@@ -188,7 +188,8 @@ namespace :load do
       l.strip!
       next if l.empty?
       a = l.split(':!:')
-      r = Person.find_by_klink( a[1] )
+      r = nil
+      r = Person.find_by_klink( a[1] ) unless a[1].empty?
       if r.nil? 
         r = Person.find_by_name( a[0].strip + ' ' + a[2].strip )
         puts "looking just for name #{a[0].strip + ' ' + a[2].strip}"
@@ -202,9 +203,9 @@ namespace :load do
       r.last_name = a[0]
       r.klink = a[1]
       r.first_name = a[2]
-      r.born_at = a[3].try.to_date
+      r.born_at = (a[3].empty? ? nil : a[3].to_date)
       r.mothers_name = a[4]
-      r.place_of_birth = PlaceOfBrith.find_by_name(a[5])
+      r.place_of_birth = PlaceOfBirth.find_by_name(a[5])
       r.information_source = InformationSource.find_by_name(a[6])
       r.user = User.find_by_name(a[7])
       r.user = User.find_by_name('Beta') unless r.user
@@ -222,7 +223,8 @@ namespace :load do
       l.strip!
       next if l.empty?
       a = l.split(':!:')
-      r = Organization.find_by_klink( a[1] )
+      r = nil
+      r = Organization.find_by_klink( a[1] ) unless a[1].empty?
       if r.nil? 
         r = Organization.find_by_name( a[0].strip )
         puts "looking just for name #{a[0].strip}"
@@ -269,11 +271,32 @@ namespace :load do
       p  = Person.find_all_by_name a[5]
       t  = P2pRelationType.find_by_name a[6].split(':/:')[0]
 
+
+      if p.size > 1
+        new_p = []
+        p.each do |x|
+          if !x.klink.blank?
+            new_p << x
+          end
+        end
+        p = new_p
+      end
+
+      if rp.size > 1
+        new_rp = []
+        rp.each do |x|
+          if !x.klink.blank?
+            new_rp << x
+          end
+        end
+        rp = new_rp
+      end
+
       if rp.size != 1 or p.size != 1
         puts "double people or missing, skipping..."
         puts l
         puts rp.inspect
-        puts r.inspect
+        puts p.inspect
         puts t.inspect
         puts "waiting..."
         sleep 10
@@ -292,11 +315,11 @@ namespace :load do
         r.person_id = p.id
         r.related_person_id = rp.id
         r.p2p_relation_type_id = t.id
-        r.start_time = a[0].try.to_date
-        r.end_time = a[1].try.to_date
+        r.start_time = (a[0].empty? ? nil : a[0].to_date)
+        r.end_time = (a[1].empty? ? nil : a[1].to_date)
         r.no_end_time = (a[2] == "1" ? true : false)
         r.information_source = InformationSource.find_by_name(a[9])
-        r.articles = Article.find_all_by_name( a[6].split(':/:')[1].split(',') )
+        r.articles = Article.find_all_by_title( a[6].split(':/:')[1].split(',') ) if a[6].split(':/:')[1] 
         puts "loading relation data...#{r.inspect}"
         puts r.save
       end
@@ -332,7 +355,7 @@ namespace :load do
       o = o.first
       ro = ro.first
 
-      r = InterorgRelation.find_by_organizaion_id_and_related_organization_id_and_o2o_relation_type_id( o.id, ro.id, t.id )
+      r = InterorgRelation.find_by_organization_id_and_related_organization_id_and_o2o_relation_type_id( o.id, ro.id, t.id )
       if r
         puts "relation found skipping... #{a.inspect}"
       else
@@ -343,7 +366,7 @@ namespace :load do
         r.o2o_relation_type_id = t.id
         r.no_end_time = true
         r.information_source = InformationSource.find_by_name(a[0])
-        r.articles = Article.find_all_by_name( a[3].split(':/:')[1].split(',') )
+        r.articles = Article.find_all_by_title( a[3].split(':/:')[1].split(',') ) if a[3].split(':/:')[1]
         puts "loading relation data...#{r.inspect}"
         puts r.save
       end
@@ -391,11 +414,11 @@ namespace :load do
         r.organization_id = o.id
         r.person_id = p.id
         r.p2o_relation_type_id = t.id
-        r.start_time = a[0].try.to_date
-        r.end_time = a[1].try.to_date
+        r.start_time = (a[0].empty? ? nil : a[0].to_date)
+        r.end_time = (a[1].empty? ? nil : a[1].to_date)
         r.no_end_time = (a[2] == "1" ? true : false)
         r.information_source = InformationSource.find_by_name(a[3])
-        r.articles = Article.find_all_by_name( a[6].split(':/:')[1].split(',') )
+        r.articles = Article.find_all_by_title( a[6].split(':/:')[1].split(',') ) if a[6].split(':/:')[1]
         puts "loading relation data...#{r.inspect}"
         puts r.save
       end

@@ -87,14 +87,14 @@ namespace :save do
   end
 
   desc 'export manual data to db/manual_#{model}.txt'
-  task :p2o_relation_types => :environment do
-    f = File.open('db/manual_p2o_relation_types.txt', 'w')
+  task :o2p_relation_types => :environment do
+    f = File.open('db/manual_o2p_relation_types.txt', 'w')
     n = 0
-    x = P2oRelationType.count
-    P2oRelationType.all.each do |r| 
+    x = O2pRelationType.count
+    O2pRelationType.all.each do |r| 
       f.puts("#{r.name}:!:#{r.weight}:!:#{r.visual ? '1' : '0'}:!:#{r.litig ? '1' : '0'}")
       n += 1
-      puts "saving p2o rel type #{r.name} ... #{(n.to_f / x * 100).round(2)}% #{n} of #{x}"
+      puts "saving o2p rel type #{r.name} ... #{(n.to_f / x * 100).round(2)}% #{n} of #{x}"
     end
     f.close
   end
