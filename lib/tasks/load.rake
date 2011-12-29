@@ -415,12 +415,12 @@ namespace :load do
       o = o.first
       p = p.first
 
-      r = InterorgRelation.find_by_organization_id_and_person_id_and_p2o_relation_type_id( o.id, p.id, t.id )
+      r = PersonToOrgRelation.find_by_organization_id_and_person_id_and_p2o_relation_type_id( o.id, p.id, t.id )
       if r
         puts "relation found skipping... #{a.inspect}"
       else
         puts "not found - - - - creating new realtion"
-        r = InterorgRelation.new
+        r = PersonToOrgRelation.new
         r.organization_id = o.id
         r.person_id = p.id
         r.p2o_relation_type_id = t.id
