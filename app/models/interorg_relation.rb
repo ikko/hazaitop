@@ -55,7 +55,7 @@ class InterorgRelation < ActiveRecord::Base
   validate :litigation_related
   validate :source_present
 
- has_many :interorg_relations #, :dependent => :destroy
+  has_many :interorg_relations #, :dependent => :destroy
 
   after_destroy do |r| 
     r.interorg_relations.first.try.destroy 

@@ -13,7 +13,7 @@ namespace :update do
 
   desc 'update parsed bit cache'
   task :parsed => :environment do
-    for i in 0..26 do 
+    for i in 0..300
       puts i
       puts "a"
       InterpersonalRelation.find(:all, :include => :p2p_relation_type, :conditions => ["id >= #{i}001 and id < #{i+1}000"]).each do |r| r.p2p_relation_type.parsed? ? r.update_attribute(:parsed, true) : r.update_attribute(:parsed, false) end

@@ -138,7 +138,6 @@ class InterpersonalRelation < ActiveRecord::Base
     r.interpersonal_relation.try.destroy
   end
 
-
   # --- Permissions --- #
 
   def create_permitted?

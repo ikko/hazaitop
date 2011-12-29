@@ -486,19 +486,21 @@
 
 <def tag="table-plus-person">
   <div class="order_list" param="order-list">
-    <a href="/front/person_pagination/?sort=-interpersonal_relations_count" class="left #{!params[:sort] || params[:sort]=='-interpersonal_relations_count' ? 'active' : ''}">Legtöbb személyes kapcsolat</a>
+    <a href="/front/person_pagination/?sort=-person_to_org_relations_count" class="left #{!params[:sort] || params[:sort]=='-person_to_org_relations_count' ? 'active' : ''}">Legtöbb szervezeti kapcsolat</a>
     <div class="separator left">|</div>
-    <a href="/front/person_pagination/?sort=-person_to_org_relations_count" class="left #{params[:sort] && params[:sort]=='-person_to_org_relations_count' ? 'active' : ''}">Legtöbb szervezeti kapcsolat</a>
+    <a href="/front/person_pagination/?sort=-interpersonal_relations_count" class="left #{params[:sort] && params[:sort]=='-interpersonal_relations_count' ? 'active' : ''}">Legtöbb személyes kapcsolat</a>
     <div class="separator left">|</div>
     <a href="/front/person_pagination/?sort=-updated_at" class="left #{params[:sort] && params[:sort]=='-updated_at' ? 'active' : ''}">Most frissített</a>
   </div>
-  <table-plus fields="this, interpersonal_relations_count, person_to_org_relations_count, information_source" without-search-form merge>
+  <table-plus fields="this, person_to_org_relations_count, information_source" without-search-form merge>
     <Person-heading:><span>Név</span></Person-heading:>
     <interpersonal-relations-count-heading:><span>Személyes kapcsolat</span></interpersonal-relations-count-heading:>
     <person-to-org-relations-count-heading:><span>Szervezeti kapcsolat</span></person-to-org-relations-count-heading:>
     <information-source-heading:><span>Információ forrás</span></information-source-heading:>
     <this-view:><a/> <a href="/site_search/?type=p&id=#{this.id}"><img src="/images/plusz.png"/></a> </this-view:>
-    <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{ :action=> 'person_pagination', :sort=>params[:sort]}"/>
+    <div param="person-nav">
+      <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{ :action=> 'person_pagination', :sort=>params[:sort]}"/>
+    </div>
   </table-plus>
   <div param="table_footer" class="table_footer"><a href="#{people_path}">További személyek &gt;</a></div>
 </def>
@@ -511,8 +513,9 @@
     <div class="separator left">|</div>
     <a href="&url_for :controller => 'front', :action => 'org_pagination', :sort=>'-updated_at'" class="left #{params[:sort] && params[:sort]=='-updated_at' ? 'active' : ''}">Most frissített</a>
   </div>
-  <table-plus fields="this, city, street, zip_code, person_to_org_relations_count, interorg_relations_count, information_source" without-search-form merge>
+  <table-plus fields="this, address person_to_org_relations_count, interorg_relations_count, information_source" without-search-form merge>
     <Organization-heading:><span>Név</span></Organization-heading:>
+    <address-heading:><span>Cím</span></address-heading:>
     <city-heading:><span>Város</span></city-heading:>
     <street-heading:><span>Utca</span></street-heading:>
     <zip-code-heading:><span>Irányítószám</span></zip-code-heading:>
@@ -520,7 +523,9 @@
     <interorg-relations-count-heading:><span>Szervezeti kapcsolat</span></interorg-relations-count-heading:>
     <information-source-heading:><span>Információ forrás</span></information-source-heading:>
     <this-view:><a/> <a href="/site_search/?type=o&id=#{this.id}"><img src="/images/plusz.png"/></a> </this-view:>
-    <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{ :action=>'org_pagination', :sort=>params[:sort]}"/>
+    <div param="org-nav">
+      <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{ :action=>'org_pagination', :sort=>params[:sort]}"/>
+    </div>
   </table-plus>
   <div param="table_footer" class="table_footer"><a href="#{organizations_path}">További szervezetek &gt;</a></div>
 </def>
@@ -541,7 +546,9 @@
     <o2o-relation-type-pair-name-heading:><span>Kapcsolat</span></o2o-relation-type-pair-name-heading:>
     <name-view:><a href="#{url_for(this_parent.tender_id ? this_parent.tender : this_parent.contract)}"><%= this.scan(/./mu)[0..50] << (this.scan(/./mu).length > 50 ? '...' : '') %></a> <a href="/site_search/?type=t&id=#{this_parent.id}"><img src="/images/plusz.png"/></a> </name-view:>
     <value-view:><a href="#{url_for(this_parent.tender_id ? this_parent.tender : this_parent.contract)}"><%= commify(this) %></a></value-view:>
-    <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'trans_pagination', :sort=>params[:sort]}"/>
+    <div param="trans-nav">
+      <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'trans_pagination', :sort=>params[:sort]}"/>
+    </div>
   </table-plus>
 </def>
 
@@ -628,7 +635,7 @@
   <table-plus fields="person, organization, p2o_relation_type, start_time, end_time, information_source" without-search-form>
    <end-time-view:>
       <view format="%B %d, %Y" if="&!this_parent.no_end_time"/>
-      <ht if="&this_parent.no_end_time" key="custom.ongoing">ongoing</ht>
+      <ht if="&this_parent.no_end_time" key="custom.not_known">not known</ht>
     </end-time-view:>
     <controls:><delete-button/></controls:>
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'person_to_org_pagination', :id => @this.id}"/>
@@ -662,7 +669,7 @@
     </article-relations-view:>
     <end-time-view:>
       <view format="%B %d, %Y" if="&!this_parent.no_end_time"/>
-      <ht if="&this_parent.no_end_time" key="custom.ongoing">ongoing</ht>
+      <ht if="&this_parent.no_end_time" key="custom.not_known">not known</ht>
     </end-time-view:>
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'person_to_org_pagination', :id => @this.id}"/>
   </table-plus>
@@ -708,7 +715,7 @@
     </article-relations-view:>
     <end-time-view:>
       <view format="%B %d, %Y" if="&!this_parent.no_end_time"/>
-      <ht if="&this_parent.no_end_time" key="custom.ongoing">ongoing</ht>
+      <ht if="&this_parent.no_end_time" key="custom.not_known">not known</ht>
     </end-time-view:>
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'person_to_org_pagination', :id => @this.id}"/>
   </table-plus>
@@ -726,7 +733,7 @@
     <!--append-custom-scripts:>
       <hjq-assets/>
     </append-custom-scripts:-->
-    <field-list: fields="street, city, zip_code, phone, fax, email_address, internet_address, trade_register_nr, tax_nr, founded_at, number_of_employees, information_source, org_grade, sector, activities" />
+    <field-list: fields="address, phone, fax, email_address, internet_address, trade_register_nr, tax_nr, number_of_employees, information_source, activities" />
     <heading: class="left"/>
     <after-heading:>
       <a href="/site_search/?type=o&id=#{this.id}" target="_blank" param="to-map"><img src="/images/terkepre_vele.jpg" id="to_map_blue"/></a>
@@ -792,7 +799,7 @@
     <!--append-custom-scripts:>
       <hjq-assets/>
     </append-custom-scripts:-->
-    <field-list: skip="klink"/>
+    <field-list: fields="address, mothers_name, place_of_birth, born_at, information_source"/>
     <append-heading:>
       <a href="/site_search/?type=p&id=#{this.id}" target="_blank" param="to-map"><img src="/images/terkepre_vele.jpg" id="to_map_blue"/></a>
     </append-heading:>

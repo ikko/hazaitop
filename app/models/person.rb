@@ -69,6 +69,10 @@ class Person < ActiveRecord::Base
     "#{id}-#{name.to_textual_id}"
   end
 
+  def address
+    "#{zip_code} #{city}, #{street}"
+  end
+
   # --- Permissions --- #
 
   def create_permitted?
