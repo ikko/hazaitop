@@ -203,7 +203,7 @@ namespace :load do
       r.last_name = a[0]
       r.klink = a[1]
       r.first_name = a[2]
-      r.born_at = (a[3].blank? nil : a[3].to_date)
+      r.born_at = (a[3].blank? ? nil : a[3].to_date)
       r.mothers_name = a[4]
       r.place_of_birth = PlaceOfBirth.find_by_name(a[5])
       r.information_source = InformationSource.find_by_name(a[6])
