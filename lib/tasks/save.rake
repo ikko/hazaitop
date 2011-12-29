@@ -87,14 +87,14 @@ namespace :save do
   end
 
   desc 'export manual data to db/manual_#{model}.txt'
-  task :o2p_relation_types => :environment do
-    f = File.open('db/manual_o2p_relation_types.txt', 'w')
+  task :p2o_relation_types => :environment do
+    f = File.open('db/manual_p2o_relation_types.txt', 'w')
     n = 0
-    x = O2pRelationType.count
-    O2pRelationType.all.each do |r| 
+    x = P2oRelationType.count
+    P2oRelationType.all.each do |r| 
       f.puts("#{r.name}:!:#{r.weight}:!:#{r.visual ? '1' : '0'}:!:#{r.litig ? '1' : '0'}")
       n += 1
-      puts "saving o2p rel type #{r.name} ... #{(n.to_f / x * 100).round(2)}% #{n} of #{x}"
+      puts "saving p2o rel type #{r.name} ... #{(n.to_f / x * 100).round(2)}% #{n} of #{x}"
     end
     f.close
   end
@@ -154,7 +154,7 @@ namespace :save do
     f = File.open('db/manual_interorg_relations.txt', 'w')
     n = 0
     x = InterorgRelation.count
-    InterorgRelation.not_mirror.o2o_relation_type_is_not(2).o2o_relation_type_is_not(15).o2o_relation_type_is_not(16).o2o_relation_type_is_not(18).o2o_relation_type_is_not(19).not_internal.each do |r| 
+    InterorgRelation.not_mirror.o2o_relation_type_is_not(2).o2o_relation_type_is_not(15).o2o_relation_type_is_not(16).o2o_relation_type_is_not(18).o2o_relation_type_is_not(19).each do |r| 
       n += 1
       if r.organization and r.related_organization
         f.puts("#{r.information_source}:!:#{r.related_organization}:!:#{r.organization}:!:#{r.o2o_relation_type}:/:#{r.articles.*.weblink.join(',')}")
@@ -169,7 +169,7 @@ namespace :save do
     f = File.open('db/manual_person_to_org_relations.txt', 'w')
     n = 0
     x = PersonToOrgRelation.count
-    PersonToOrgRelation.p2o_relation_type_is_not(1).not_internal.each do |r| 
+    PersonToOrgRelation.p2o_relation_type_is_not(1).each do |r| 
       n += 1
       if r.person and r.organization
         f.puts("#{r.start_time}:!:#{r.end_time}:!:#{r.no_end_time ? '1' : '0'}:!:#{r.information_source}:!:#{r.person.name.gsub(',','')}:!:#{r.organization}:!:#{r.p2o_relation_type}:/:#{r.articles.*.weblink.join(',')}")
