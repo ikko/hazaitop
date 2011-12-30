@@ -4,9 +4,25 @@
     <hjq-assets/>
   </append-custom-scripts:-->
   <append-head:>
+
+
+    <script type="text/javascript" src="/javascripts/jquery.fancybox-1.3.4.pack.js"></script>
+    <link rel="stylesheet" type="text/css" href="/stylesheets/fancybox/jquery.fancybox-1.3.4.css" media="screen" />
+
+
     <script>
       (function($) {
         $(function(){
+
+          $("a#video_preview").fancybox({
+    				'width'				: '40%',
+		    		'height'			: '40%',
+    				'autoScale'			: false,
+		    		'transitionIn'		: 'elastic',
+    				'transitionOut'		: 'elastic',
+		    		'type'				: 'iframe'
+          });
+
           $("#people_content .pagination a").live('click', function(e) {
             $(this).html(spinnerImg);
             $.ajax({url: $(this).attr('href'), success: function(data) {$("#people_content").html(data)}});
@@ -47,7 +63,7 @@
 
   <content:>
     <div class="content-header">
-      <a id="video_preview" class="left" href=""><img src="/images/video_preview.png"/></a>
+      <a id="video_preview" class="left" href="http://player.vimeo.com/video/33670490?title=0&amp;byline=0&amp;portrait=0&amp;autoplay=1"><img src="/images/video_preview.png"/></a>
       <img src="/images/video_right.png" class="left"/>
       <div id="welcome_message" class="left">
         Az oldal célja a magyar <strong>politikai</strong> és<br /> <strong>gazdasági elit</strong> összefonódásának<br /> és <strong>kapcsolati háló</strong>jának feltérképezése<br /> az átláthatóbb közpénzmozgás érdekében.
@@ -76,18 +92,25 @@
           <div class="tab"><a href="#trans_content">TRANZAKCIÓK</a></div>
         </div>
         <div id="people_content" class="tab_content">
-          <table-plus-person with="&@people"/>
+          <table-plus-person with="&@people" without-page-nav/>
         </div>
         <div id="orgs_content" class="tab_content" style="display: none">
-          <table-plus-org with="&@organizations"/>
+          <table-plus-org with="&@organizations" without-page-nav/>
         </div>
 
         <div id="trans_content" class="tab_content" style="display: none">
-          <table-plus-trans with="&@transactions"/>
+          <table-plus-trans with="&@transactions" without-page-nav/>
         </div>
       </div>
       <div class="clear"></div>
     </div>
+
+	<div style="display: none;">
+    <div id="inline1" style="width:400px;height:100px;overflow:auto;">
+      <iframe src="http://player.vimeo.com/video/33670490?title=0&amp;byline=0&amp;portrait=0" width="400" height="225" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+		</div>
+	</div>
+
   </content:>
 
 </page>

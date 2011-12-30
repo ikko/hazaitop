@@ -254,7 +254,7 @@ a {
 }
 
 .order_list a {
-  padding: 0px 9px;
+  padding: 0px 7px;
 }
 
 .order_list .active {
@@ -290,19 +290,20 @@ a {
 
 .table-plus table thead, .table-plus td, .table-plus th {
   font-size: 13px;
-  line-height: 30px;
-  height: 30px;
-  padding: 0px 10px;
+  line-height: 20px;
+  padding: 7px 7px 7px 7px;
+}
+
+.table-plus table thead {
+  text-transform:uppercase;
 }
 
 thead a, thead span {
-  padding-left: 10px;
   color: white;
 }
 
 .table-plus td {
   border-right: 1px solid #58828E;
-  padding-left: 10px;
 }
 
 .table-plus th {
@@ -311,7 +312,9 @@ thead a, thead span {
 
 .table-plus .information-source-view, .table-plus .information-source-heading {
   border-right: none;
+  width: 80px;
 }
+
 
 table .even {
   background-color: #D1CFD0;
@@ -374,7 +377,7 @@ table .odd {
 }
 
 #logos img {
-  padding-right: 16px;
+  padding-right: 42px;
 }
 
 .devpage a {
@@ -454,6 +457,10 @@ table .odd {
   padding-left: 40px;
 }
 
+.field-heading-row {
+  padding: 10px;
+}
+
 .details_header {
   background-color: #F4F2F3;
   line-height: 34px;
@@ -484,7 +491,7 @@ table .odd {
   font-style: italic;
 }
 
-.top-page-nav a, .bottom-page-nav a, .information_source-link, .organization-link, .transaction-link, .litigation-link, .article-created-at, .contract-link, .transaction_url, .article-link {
+.top-page-nav a, .bottom-page-nav a, .information_source-link, .organization-link, .transaction-link, .litigation-link, .article-created-at, .contract-link, .transaction_url, .article-link, .person-link {
   color: black;
 }
 
@@ -549,15 +556,24 @@ h2 {
   width: 150px;
 }
 
-.flash.error {
+
+.flash {
   font-family: "Lucida Grande", arial, sans-serif;
-  background: #9d0018;
-  border: 1px solid #7a0013;
   padding: 20px;
   color: white;
   margin-bottom: 20px;
   text-align: center;
   margin-top: 20px;
+}
+
+.flash.error {
+  background: #9d0018;
+  border: 1px solid #7a0013;
+}
+
+.flash.notice {
+  background: orange;
+  border: 1px solid green;
 }
 
 .from_to_separator {
@@ -834,9 +850,13 @@ h2 {
 }
 
 .no_data {
-  padding: 5px;
+  padding: 16px;
   display: block;
   font-size: 13px;
+  text-align: center;
+  background: #EEE;
+  text-transform: uppercase;
+  color: #777;
 }
 
 .button {color: white; background: #5B8BA0;}
@@ -847,6 +867,10 @@ h2 {
   width: auto;
   font-size: 11px; font-weight: bold;
   margin-top: 10px;
+}
+
+.table-plus .button {
+  margin-top: 0px;
 }
 
 #index_page_order {
@@ -906,6 +930,11 @@ h2 {
   width: 90%;
 }
 
+.edit-page input.remove-button{
+  width: auto;
+  color: darkRed;
+}
+
 .edit-page select {
   border: 1px solid #7FB1BB;
   color: #054756;
@@ -953,3 +982,21 @@ h2 {
   margin: 10px auto;
   display: block;
 }
+
+.hjq-input-many .buttons {
+  argin-bottom: 40px;
+  argin-top: -15px;
+}
+
+.card.interpersonal-relation {
+  margin-top: 40px
+}
+
+.card.p2p-relation-type, .card.p2o-relation-type, .card.o2p-relation-type, .card.o2o-relation-type {
+  border-bottom: 1px solid gray;
+  border-top: 1px solid gray;
+  margin: 2px;
+  padding: 5px;
+}
+
+

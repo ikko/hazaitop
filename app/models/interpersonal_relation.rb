@@ -12,9 +12,11 @@ class InterpersonalRelation < ActiveRecord::Base
     internal     :boolean, :default => false
     weight       :float
     visual       :boolean, :default => true
+    erased_at :date  # ha a bejegyzés törlés volt a cégbíróságon, akkkor ide a törlés dátuma kerül
+    parsed :boolean, :default => false
   end
 
-  has_many :article_relations, :as => :relationable, :accessible => true
+  has_many :article_relations, :as => :relationable, :accessible => true, :dependent => :destroy
   has_many :articles, :through => :article_relations, :accessible => true
 
   default_scope :order => "related_person_id"
@@ -42,21 +44,24 @@ class InterpersonalRelation < ActiveRecord::Base
 
   attr_accessor :skip_source_validation, :info_id
 
-  def source_present
-    if information_source.blank? and articles.empty? and !skip_source_validation
-      errors.add("Information source or article", "must present.")
+  def source_present 
+    if information_source.blank? and article_relations.empty? and !skip_source_validation
+      errors.add("Information source", "must present.")
     end
   end
 
   def litigation_related
+    logger.info "========================================================== iii =="
     unless litigations.blank?
       errors.add("Litigation allowed only if", "relation type has legal aspect.") unless p2p_relation_type.litig
     end
   end
 
   before_save do |r|
-    r.information_source_id = (r.info_id ? r.info_id : r.articles.first.information_source_id ) if r.information_source.blank?
-    r.weight = r.information_source.weight * r.p2p_relation_type.weight
+    logger.info "========================================================== ii =="
+    r.information_source_id = (r.info_id ? r.info_id : r.articles.first.try.information_source_id ) if r.information_source.blank?
+    r.information_source_id = InformationSource.find_by_domain_name('ahalo.hu').id if r.information_source.blank?
+    # r.weight = r.information_source.weight * r.p2p_relation_type.weight
   end
 
   after_create do |r|
@@ -108,13 +113,14 @@ class InterpersonalRelation < ActiveRecord::Base
       if o.information_source_id != r.information_source_id
         o.update_attribute :information_source_id, r.information_source_id
       end
+      if o.articles != r.articles
+        o.articles = r.articles
+      end
       if o.litigations != r.litigations
         o.litigations = r.litigations
       end
     end
-  end
-
-  after_save do |r|
+    # ha mi hoztuk létre és már törölték a kapcsolatait, akkor őt is töröljuük
     if r.information_source.internal and !(r.person_to_org_relation and r.other_person_to_org_relation)
       if r.interpersonal_relation
         r.interpersonal_relation.destroy
@@ -123,9 +129,13 @@ class InterpersonalRelation < ActiveRecord::Base
       end
       r.related_person_id = nil
     end
-    if !r.related_person_id
+    if !r.related_person_id or !r.person_id
       r.destroy
     end
+  end
+
+  after_destroy do |r|
+    r.interpersonal_relation.try.destroy
   end
 
   # --- Permissions --- #

@@ -6,8 +6,19 @@ class PersonToOrgRelation < ActiveRecord::Base
     start_time :date
     end_time   :date
     no_end_time :boolean, :default => false
-    weight     :float
+    weight     :float,    :default => 1
     visual     :boolean, :default => true
+    role   :string    # tisztség complexbol
+    role2   :string    # tisztség complexbol névből kiparse-olva
+    note   :text
+    erased_at :date  # ha a bejegyzés törlés volt a cégbíróságon, akkkor ide a törlés dátuma kerül
+    jelentos  :boolean, :default => false
+    tobbsegi  :boolean, :default => false
+    kozvetlen :boolean, :default => false
+    szavazat_50_szazalek_felett  :boolean, :default => false
+    szavazat_tobbsegi_befolyas   :boolean, :default => false
+    szavazat_egyeduli_reszvenyes :boolean, :default => false
+    parsed :boolean, :default => false
     timestamps
   end
 
@@ -34,7 +45,7 @@ class PersonToOrgRelation < ActiveRecord::Base
 
   def source_present
     if information_source.blank? and articles.empty?
-      errors.add("Information source or article", "must present.")
+      errors.add("Information source", "must present.")
     end
   end
 
@@ -54,8 +65,10 @@ class PersonToOrgRelation < ActiveRecord::Base
 
   before_save do |r|
     r.visual = r.p2o_relation_type.visual
-    r.information_source_id = r.articles.first.information_source_id if r.information_source.blank?
-    r.weight = r.information_source.weight * r.p2o_relation_type.weight
+    r.information_source_id = (r.info_id ? r.info_id : r.articles.first.try.information_source_id ) if r.information_source.blank?
+    r.information_source_id = InformationSource.find_by_domain_name('ahalo.hu').id if r.information_source.blank?
+
+    # r.weight = r.information_source.weight * r.p2o_relation_type.weight
   end
 
   after_save do |r|
@@ -68,12 +81,16 @@ class PersonToOrgRelation < ActiveRecord::Base
     if person and organization # ha nem törlés történt
       if !(InterpersonalRelation.find_by_person_to_org_relation_id(id) or InterpersonalRelation.find_by_other_person_to_org_relation_id(id))
        # meg kell vizsgálnunk hogy van-e már, különben kétszer megy bele (a hobo?) az after_save-be TODO
-        if no_end_time
-          potential_relations = PersonToOrgRelation.find( :all, :conditions => [
-          "organization_id = ? and ((start_time <= ? and (end_time >= ? or no_end_time = ?)) or (start_time <= ? and no_end_time = ?)) and id != ?", organization_id, start_time, start_time, true, Time.now.to_date, true, id ])
+        if start_time.nil?
+          potential_relations = nil # TODO azért ez itt nem biztos---
         else
-          potential_relations = PersonToOrgRelation.find( :all, :conditions => [
-          "organization_id = ? and ((start_time <= ? and (end_time >= ? or no_end_time = ?)) or (start_time <= ? and (end_time >= ? or no_end_time = ?))) and id != ?", organization_id, start_time, start_time, true, end_time, end_time, true, id ])
+          if no_end_time
+            potential_relations = PersonToOrgRelation.find( :all, :conditions => [
+            "organization_id = ? and ((start_time <= ? and (end_time >= ? or no_end_time = ?)) or (start_time <= ? and no_end_time = ?)) and id != ?", organization_id, start_time, start_time, true, Time.now.to_date, true, id ])
+          else
+            potential_relations = PersonToOrgRelation.find( :all, :conditions => [
+            "organization_id = ? and ((start_time <= ? and (end_time >= ? or no_end_time = ?)) or (start_time <= ? and (end_time >= ? or no_end_time = ?))) and id != ?", organization_id, start_time, start_time, true, end_time, end_time, true, id ])
+          end
         end
         press_id = P2oRelationType.find_by_name("sajtó").id
         if potential_relations and p2o_relation_type_id != press_id
@@ -138,6 +155,7 @@ class PersonToOrgRelation < ActiveRecord::Base
       self.destroy
     end
   end
+
 
   # --- Permissions --- #
 

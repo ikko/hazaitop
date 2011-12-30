@@ -9,7 +9,12 @@ class Article < ActiveRecord::Base
     weblink :string
     processed_at :date 
     issued_at    :date
+    search_result_count           :integer, :default => 0
     timestamps
+  end
+
+  def name
+    title
   end
 
   default_scope :order => 'issued_at DESC'

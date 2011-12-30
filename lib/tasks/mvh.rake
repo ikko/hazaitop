@@ -23,8 +23,8 @@ namespace :mvh do
 
 
     palyaztato = Organization.find_by_name("Mezőgazdasági és Vidékfejlesztési Hivatal")
-    palyazo_rel = O2oRelationType.find_or_create_by_name('palyázó') do |r| r.name = 'pályázó' end
-    palyaztato_rel = O2oRelationType.find_or_create_by_name('palyáztató') do |r| r.name = 'pályáztató'; r.pair_id = palyazo_rel.id end
+    palyazo_rel = O2oRelationType.find_or_create_by_name('palyázó') do |r| r.name = 'pályázó'; r.parsed = true end
+    palyaztato_rel = O2oRelationType.find_or_create_by_name('palyáztató') do |r| r.name = 'pályáztató'; r.parsed = true; r.pair_id = palyazo_rel.id end
     palyazo_rel.pair_id = palyaztato_rel.id
 
 
@@ -36,13 +36,13 @@ namespace :mvh do
       a = f.split(';')
       next if a.size != 9
       puts 'org: ' + org  = a[0].gsub('"','').gsub('  ',' ').strip
-      puts 'zip: ' + zip  = a[1]
-      puts 'city: ' + city = a[2]
-      puts 'utca: ' + utca = a[3]
-      puts 'jogcim: ' + jogcim = a[4]
-      puts 'alap: ' + alap = a[5]
-      puts 'forrás: ' + forras = a[6]
-      puts 'tamogatas: ' + tamogatas = a[7]
+      puts 'zip: ' + zip  = a[1].strip
+      puts 'city: ' + city = a[2].strip
+      puts 'utca: ' + utca = a[3].strip
+      puts 'jogcim: ' + jogcim = a[4].strip
+      puts 'alap: ' + alap = a[5].strip
+      puts 'forrás: ' + forras = a[6].strip
+      puts 'tamogatas: ' + tamogatas = a[7].strip
       puts "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
 
       next if org == "Név" or org == "magánszemély" or tamogatas.to_i < 0
@@ -61,7 +61,7 @@ namespace :mvh do
         palyazo = Struct.new(:id).new
       end
 
-      us = org + jogcim + alap + tamogatas
+      us = org + jogcim + alap + tamogatas.to_i
 
       if !Tender.find_by_unique_string( us ) 
 
@@ -88,7 +88,8 @@ namespace :mvh do
                                                             :o2o_relation_type_id => palyazo_rel.id, 
                                                             :organization_id => palyaztato.id,
                                                             :related_organization_id => palyazo.id,
-                                                            :information_source_id => info.id
+                                                            :information_source_id => info.id,
+                                                            :parsed => true
                                                            )
 
                                                            tender.interorg_relation_id = rel.id

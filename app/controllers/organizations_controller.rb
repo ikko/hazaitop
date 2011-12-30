@@ -18,13 +18,44 @@ class OrganizationsController < ApplicationController
     end
   end
 
+
   def update
-    add_new_entities
+    render :text => "access denied" unless current_user.administrator? or current_user.editor? or current_user.supervisor?
+    logger.info "========================================================== 1 =="
+    add_new_entities    
+    logger.info "========================================================== 2 =="
+    logger.info params.inspect
     redirect_to edit_organization_path(params[:id]) and return if flash[:errors].present?
-    hobo_update do
-      OrgHistory.create( :user_id => current_user.id, :organization_id => @this.id ) if @this.valid?
+    logger.info "========================================================== 3 =="
+    @organization = find_instance
+    logger.info "========================================================== 4 =="
+    logger.info params['organization'].inspect
+    @organization.update_attributes params['organization']
+    logger.info "========================================================== 5 =="
+    if @organization.valid?
+    logger.info "========================================================== 6 =="
+      OrgHistory.create( :user_id => current_user.id, :organization_id => @organization.id ) 
+    logger.info "========================================================== 7 =="
+      redirect_to organization_path( @organization.id )
+    logger.info "========================================================== 8 =="
+    else
+      render :action => :edit
     end
+
+    logger.info "========================================================== 9 =="
+  rescue => e
+    logger.info e.backtrace.join("\n")
+    logger.info "*********************************************** update org error happened ********************************"
+    logger.info e.inspect
   end
+
+#  def update
+#    add_new_entities
+#    redirect_to edit_organization_path(params[:id]) and return if flash[:errors].present?
+#    hobo_update do
+#      OrgHistory.create( :user_id => current_user.id, :organization_id => @this.id ) if @this.valid?
+#    end
+#  end
 
   def add_new_entities
     info_source = InformationSource.find_or_create_by_name('ahalo.hu') do |r| r.name = 'ahalo.hu'; r.web = 'http://ahalo.hu' end
@@ -44,6 +75,7 @@ class OrganizationsController < ApplicationController
         end
         if !p[:article_relations].blank?
           p[:article_relations].each do |k,a|
+            next if k.to_i == -1
             if a[:article].blank? or !Article.find_by_title( a[:article] )
               if flash[:errors].present?
                 flash[:errors] << "\nArticle does not exist for #{p[:person]} with title #{a[:article]}"
@@ -67,6 +99,7 @@ class OrganizationsController < ApplicationController
         end
         if !o[:article_relations].blank?
           o[:article_relations].each do |k,a|
+            next if k.to_i == -1
             if a[:article].blank? or !Article.find_by_title( a[:article] )
               if flash[:errors].present?
                 flash[:errors] << "\nArticle does not exist for #{o[:related_organization]} with title #{a[:article]}"

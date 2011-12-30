@@ -48,7 +48,7 @@ class SiteSearchController < ApplicationController
                     end
       target_id = target.id
     end
-    edge[:weight] = relation.weight
+    edge[:weight] = 1 # relation.weight
     if target_type == source_type && target_type == 'o'
       edge[:id] = "o2o#{relation.id}"
       edge[:alternateId] = "o2o#{relation.interorg_relation_id}"
@@ -384,7 +384,7 @@ class SiteSearchController < ApplicationController
         person_ids = []
         organization_ids = []
         litigation_ids = []
-        if params[:nodes]
+        if !params[:nodes].blank?
           params[:nodes][0..-2].split(',').each do |node|
             match = node.match /(.*?)(\d+)$/
             person_ids << match[2] if match[1] == 'p'

@@ -4,26 +4,36 @@ class Person < ActiveRecord::Base
 
   fields do
     first_name   :string #, :required
-    last_name    :string #, :required
+    last_name    :string, :required
     name         :string
+    street       :string
+    city         :string
+    zip_code     :string
+    country      :string
     klink        :string
     born_at      :date
     mothers_name :string
+    mothers_name_alternate :string # ha megtaláltuk, de nem biztos, h ő az, akkor ide tesszük complex-ből
+    complexed_at :date
     interpersonal_relations_count :integer, :default => 0
     person_to_org_relations_count :integer, :default => 0
+    search_result_count           :integer, :default => 0
+    complex_xml :text
     timestamps
   end
 
   default_scope  :order => 'last_name, first_name' 
 
   before_save do |r|
-    r.name = r.last_name + ' ' + r.first_name
+    r.name = r.last_name.to_s.strip + ' ' + r.first_name.to_s.strip
     if r.born_at and r.born_at.year == Time.now.year
       r.born_at = nil
     elsif r.born_at
       r.name << r.born_at.to_s
     end
   end
+
+  belongs_to :selected_organization, :class_name => "Organization"
 
   validates_presence_of :information_source
 
@@ -44,6 +54,11 @@ class Person < ActiveRecord::Base
   has_many :person_to_org_non_litigation_relations, :conditions => [ "visual = ?", true], :class_name => "PersonToOrgRelation"
   has_many :person_to_org_litigation_relations, :conditions => [ "visual = ?", false], :class_name => "PersonToOrgRelation"
 
+
+  # helperek adminhoz
+  has_many :manual_interpersonal_relations, :conditions => [ "parsed = ?", false], :class_name => "InterpersonalRelation", :accessible => true
+  has_many :manual_person_to_org_relations, :conditions => [ "parsed = ?", false], :class_name => "PersonToOrgRelation", :accessible => true
+
   has_many :person_to_org_relations, :accessible => true, :order => "organization_id"
 
   has_many :organizations, :through => :person_to_org_relations
@@ -53,8 +68,35 @@ class Person < ActiveRecord::Base
 
   has_many :person_histories
 
+  belongs_to :merge_from, :class_name => "Person"
+  
   def to_param
     "#{id}-#{name.to_textual_id}"
+  end
+
+  def address
+    if zip_code.blank? and city.blank? and street.blank?
+      " "
+    else
+      "#{zip_code} #{city}, #{street}"
+    end
+  end
+
+  def self.merge into_this, this
+
+    into_this.person_grades << this.person_grades   
+    into_this.person_to_org_relations << this.person_to_org_relations
+    into_this.interpersonal_relations << this.interpersonal_relations
+    into_this.person_histories << this.person_histories
+    into_this.save
+
+    this.person_grades.delete_all
+    this.person_to_org_relations.delete_all
+    this.interpersonal_relations..delete_all
+    this.person_histories.delete_all
+
+    this.delete
+
   end
 
   # --- Permissions --- #

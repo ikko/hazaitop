@@ -19,11 +19,21 @@ class PeopleController < ApplicationController
   end
 
   def update
+    render :text => "access denied" unless current_user.administrator? or current_user.editor? or current_user.supervisor? # mivel nincs hobo permi check ilyenkor...
     add_new_entities    
     redirect_to edit_person_path(params[:id]) and return if flash[:errors].present?
-    hobo_update do
-      PersonHistory.create( :user_id => current_user.id, :person_id => @this.id ) if @this.valid?
+    @person = find_instance
+    hobo_update 
+    if @person.valid?
+      PersonHistory.create( :user_id => current_user.id, :person_id => @person.id ) 
+#      redirect_to person_path( @person.id )
+#    else
+#      render :action => :edit
     end
+  rescue => e
+    logger.info e.backtrace.join("\n")
+    logger.info "*********************************************** update person error happened ********************************"
+    logger.info e.inspect
   end
 
   def add_new_entities
@@ -42,8 +52,10 @@ class PeopleController < ApplicationController
                          :information_source_id => p[:information_source_id].blank? ? info_source.id : p[:information_source_id]
                        )
         end
+=begin
         if !p[:article_relations].blank?
           p[:article_relations].each do |k,a|
+            next if k.to_i == -1
             if a[:article].blank? or !Article.find_by_title( a[:article] )
               if flash[:errors].present?
                 flash[:errors] << "\nArticle does not exist for #{p[:related_person]} with title #{a[:article]}"
@@ -53,6 +65,7 @@ class PeopleController < ApplicationController
             end
           end
         end
+=end        
       end
     end
     if !params[:person][:person_to_org_relations].blank?
@@ -65,8 +78,10 @@ class PeopleController < ApplicationController
                               :information_source_id => p[:information_source_id].blank? ? info_source.id : p[:information_source_id]
                              )
         end
+=begin
         if !o[:article_relations].blank?
           o[:article_relations].each do |k,a|
+            next if k.to_i == -1
             if a[:article].blank? or !Article.find_by_title( a[:article] )
               if flash[:errors].present?
                 flash[:errors] << "\nArticle does not exist for #{o[:organization]} with title #{a[:article]}"
@@ -76,6 +91,7 @@ class PeopleController < ApplicationController
             end
           end
         end
+=end
       end
     end
 
@@ -145,6 +161,15 @@ class PeopleController < ApplicationController
   index_action :list do
     hobo_index Person.order_by(params['sort'].to_sym), :per_page=>10
     render :index
+  end
+
+  show_action :merge do
+    merge_into = find_instance
+    to_merge = Person.find_by_name(params[:person][:merge_from])
+    Person.merge merge_into, to_merge
+    flash.now[:notice] = "#{to_merge.name} has been successfully merged into #{merge_into.name}!"
+    hobo_show merge_into
+    render :show
   end
 
   private

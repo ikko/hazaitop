@@ -3,9 +3,14 @@ namespace :clear do
 
   desc "clear tax_nr for onkormanyzat"
   task "onkori" => :environment do
-    Organization.all(:conditions => "name LIKE '%nkorm%'").each do |o|
+    Organization.all(:conditions => "name LIKE '%intézmény%' or 
+                                     name LIKE '%nkorm%' or 
+                                     name LIKE '%egyéni vállalkozó%' or 
+                                     name LIKE '%iskola%' or 
+                                     name LIKE '%óvoda%'" ).each do |o|
       puts o.name
       o.tax_nr = nil
+      o.trade_register_nr = nil
       o.save
     end
   end

@@ -8,7 +8,7 @@ class PersonGrade < ActiveRecord::Base
   end
 
   has_many :person_grade_assocs
-  has_many :persons, :through => :person_grade_assocs
+  has_many :people, :through => :person_grade_assocs
 
   # --- Permissions --- #
 

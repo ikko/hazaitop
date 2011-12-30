@@ -7,12 +7,28 @@ class InterorgRelation < ActiveRecord::Base
     timestamps
     mirrored     :boolean, :default => false
     mirror       :boolean, :default => false
-    weight       :float
+    weight       :float,   :default => 1
     visual       :boolean, :default => true
     value        :integer, :limit => 8
+    start_time   :date
+    end_time     :date
+    no_end_time  :boolean, :default => false
     currency     :string
     vat_incl     :boolean
     issued_at    :date
+    erased_at    :date  # ha a bejegyzés törlés volt a cégbíróságon, akkkor ide a törlés dátuma kerül
+    note         :text
+    role         :string    # tisztség complexbol
+    role2        :string    # tisztség complexbol névből kiparse-olva
+    jelentos  :boolean, :default => false
+    tobbsegi  :boolean, :default => false
+    kozvetlen :boolean, :default => false
+    szavazat_50_szazalek_felett  :boolean, :default => false
+    szavazat_tobbsegi_befolyas   :boolean, :default => false
+    szavazat_egyeduli_reszvenyes :boolean, :default => false
+    szavazat_egyeduli_reszvenyes :boolean, :default => false
+    parsed :boolean, :default => false
+    search_result_count :integer, :default => 0
   end
 
   default_scope :order => "related_organization_id"
@@ -40,7 +56,7 @@ class InterorgRelation < ActiveRecord::Base
   validate :litigation_related
   validate :source_present
 
- has_many :interorg_relations #, :dependent => :destroy
+  has_many :interorg_relations #, :dependent => :destroy
 
   after_destroy do |r| 
     r.interorg_relations.first.try.destroy 
@@ -50,7 +66,7 @@ class InterorgRelation < ActiveRecord::Base
 
   def source_present
     if information_source.blank? and articles.empty?
-      errors.add("Information source or article", "must present.")
+      errors.add("Information source", "must present.")
     end
   end
 
@@ -62,8 +78,9 @@ class InterorgRelation < ActiveRecord::Base
   end
 
   before_save do |r|
-    r.information_source_id = r.articles.first.information_source_id if r.information_source.blank?
-    r.weight = r.information_source.weight * r.o2o_relation_type.weight
+    r.information_source_id = (r.info_id ? r.info_id : r.articles.first.try.information_source_id ) if r.information_source.blank?
+    r.information_source_id = InformationSource.find_by_domain_name('ahalo.hu').id if r.information_source.blank?
+    # r.weight = r.information_source.weight * r.o2o_relation_type.weight
   end
 
   after_create do |r|
@@ -114,6 +131,9 @@ class InterorgRelation < ActiveRecord::Base
       if o.information_source_id != r.information_source_id
         o.update_attribute :information_source_id, r.information_source_id
       end
+      if o.articles != r.articles
+        o.articles = r.articles
+      end
       if o.litigations != r.litigations
         o.litigations = r.litigations
       end
@@ -121,9 +141,13 @@ class InterorgRelation < ActiveRecord::Base
   end
 
   after_save do |r|
-    if !r.related_organization_id
+    if !r.related_organization_id or !r.organization_id
       r.destroy
     end
+  end
+
+  after_destroy do |r|
+    r.interorg_relation.try.destroy
   end
 
   def to_param
