@@ -743,7 +743,8 @@
     <field-list: fields="address, phone, fax, email_address, internet_address, trade_register_nr, tax_nr, number_of_employees, information_source, activities" />
     <heading: class="left"/>
     <after-heading:>
-      <a href="/site_search/?type=o&id=#{this.id}" target="_blank" param="to-map"><img src="/images/terkepre_vele.jpg" id="to_map_blue"/></a>
+      <a href="/site_search/?type=o&id=#{this.id}" target="_blank" param="to-map"><img src="/images/terkepre_vele.jpg" id="to_map_blue"/></a> | 
+      <i><a style="color:darkBlue" if="&(current_user.administrator? or current_user.editor? or current_user.supervisor?) and File.exist?(Rails.root.to_s + '/public/orgs/' + this.trade_register_nr.scan(/\d+/).join.to_i.to_s + '.xml')" target="_blank" href="/orgs/#{this.trade_register_nr.scan(/\d+/).join.to_i}.xml">complex xml (click és ctrl-u)</a></i> | 
       <!--a if="&this.klink" href="http://www.k-monitor.hu#{this.klink}" target="_blank"><ht key="custom.jump_to_k-monitor">View on k-monitor.hu</ht></a-->
     </after-heading:>
     <append-content-body:>

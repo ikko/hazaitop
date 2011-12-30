@@ -121,9 +121,9 @@ class Organization < ActiveRecord::Base
 
   def address
     if zip_code.blank? and city.blank? and street.blank?
-      ""
+      " "
     else
-      "#{zip_code} #{city}, #{street}" if !zip_code
+      "#{zip_code} #{city}, #{street}" 
     end
   end
 

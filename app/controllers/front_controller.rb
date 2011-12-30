@@ -99,11 +99,11 @@ class FrontController < ApplicationController
       end
       # statok:
       unless query.strip.empty?
-        @people.try.first.try.increment! :search_result_count
-        @organizations.try.first.try.increment! :search_result_count
-        @litigations.try.first.try.increment! :search_result_count
-        @articles.try.first.try.increment! :search_result_count
-        @transactions.try.first.try.increment! :search_result_count
+        @people.try.first.try.increment :search_result_count
+        @organizations.try.first.try.increment :search_result_count
+        @litigations.try.first.try.increment :search_result_count
+        @articles.try.first.try.increment :search_result_count
+        @transactions.try.first.try.increment :search_result_count
       end
     end
   end
