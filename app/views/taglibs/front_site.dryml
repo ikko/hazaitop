@@ -666,7 +666,7 @@
 </def>
 
 <def tag="table-plus-organization-person-to-org">
-  <table-plus fields="person, o2p_relation_type, start_time, end_time, article_relations, information_source" without-search-form>
+  <table-plus fields="person, o2p_relation_type, start_time, end_time, information_source" without-search-form>
     <controls:><delete-button/></controls:>
     <article-relations-view:>
       <% this.each do |r| %>
@@ -677,12 +677,16 @@
       <view format="%B %d, %Y" if="&!this_parent.no_end_time"/>
       <ht if="&this_parent.no_end_time" key="custom.not_known">not known</ht>
     </end-time-view:>
+    <information-source-view:>
+      <% @artcount = this_parent.articles.count %>
+      <view/> <a with="&this_parent" if="&@artcount != 0">(<%= @artcount -%>)</a>
+    </information-source-view:>
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'person_to_org_pagination', :id => @this.id}"/>
   </table-plus>
 </def>
 
 <def tag="table-plus-organization-interorg">
-  <table-plus fields="related_organization, o2o_relation_type, value, currency, vat_incl, contract, tender, article_relations, information_source" without-search-form>
+  <table-plus fields="related_organization, o2o_relation_type, value, currency, vat_incl, contract, tender, information_source" without-search-form>
     <controls:><delete-button/></controls:>
     <value-view:>
       <view with="&commify(this)"/>
@@ -692,6 +696,10 @@
         <a href="#{article_path(r.article_id)}"><view with="&r.article.title[0..60].strip + '...'"/></a><br/>
       <% end %>
     </article-relations-view:>
+    <information-source-view:>
+      <% @artcount = this_parent.articles.count %>
+      <view/> <a with="&this_parent" if="&@artcount != 0">(<%= @artcount -%>)</a>
+    </information-source-view:>
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'interorg_pagination', :id => @this.id}"/>
   </table-plus>
 </def>
@@ -704,19 +712,23 @@
 </def>
 
 <def tag="table-plus-person-interperson">
-  <table-plus fields="related_person, p2p_relation_type, organization, article_relations, information_source" without-search-form>
+  <table-plus fields="related_person, p2p_relation_type, organization, information_source" without-search-form>
     <controls:><delete-button/></controls:>
     <article-relations-view:>
       <% this.each do |r| %>
         <a href="#{article_path(r.article_id)}"><view with="&r.article.title[0..60].strip + '...'"/></a><br/>
       <% end %>
-    </article-relations-view:>
+    </article-relations-view:> 
+    <information-source-view:>
+      <% @artcount = this_parent.articles.count %>
+      <view/> <a with="&this_parent" if="&@artcount != 0">(<%= @artcount -%>)</a>
+    </information-source-view:>
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'interpersonal_pagination', :id => @this.id}"/>
   </table-plus>
 </def>
 
 <def tag="table-plus-person-person-to-org">
-  <table-plus fields="organization, p2o_relation_type, start_time, end_time, article_relations, information_source" without-search-form>
+  <table-plus fields="organization, p2o_relation_type, start_time, end_time, information_source" without-search-form>
     <controls:><delete-button/></controls:>
     <article-relations-view:>
       <% this.each do |r| %>
@@ -727,6 +739,10 @@
       <view format="%B %d, %Y" if="&!this_parent.no_end_time"/>
       <ht if="&this_parent.no_end_time" key="custom.not_known">not known</ht>
     </end-time-view:>
+    <information-source-view:>
+      <% @artcount = this_parent.articles.count %>
+      <view/> <a with="&this_parent" if="&@artcount != 0">(<%= @artcount -%>)</a>
+    </information-source-view:>
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'person_to_org_pagination', :id => @this.id}"/>
   </table-plus>
 </def>
