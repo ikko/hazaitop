@@ -572,8 +572,8 @@ h2 {
 }
 
 .flash.notice {
-  background: darkGreen;
-  border: 1px solid #7a0013;
+  background: orange;
+  border: 1px solid green;
 }
 
 .from_to_separator {
