@@ -9,7 +9,7 @@
 <set-theme name="clean"/>
 
 <def tag="view" for="Date">
-  <%= this.strftime('%Y.%m.%d.').downcase %>
+  <%= this.try.strftime('%Y.%m.%d.').downcase %>
 </def>
 
 
