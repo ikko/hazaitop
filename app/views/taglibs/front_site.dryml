@@ -754,8 +754,8 @@
     <heading: class="left"/>
     <after-heading:>
       <a href="/site_search/?type=o&id=#{this.id}" target="_blank" param="to-map"><img src="/images/terkepre_vele.jpg" id="to_map_blue"/></a>  
-      <i><a style="color:darkBlue" if="&this.trade_register_nr and (current_user.administrator? or current_user.editor? or current_user.supervisor?) and File.exist?(Rails.root.to_s + '/public/orgs/' + this.trade_register_nr.scan(/\d+/).join.to_i.to_s + '.xml')" target="_blank" href="/orgs/#{this.trade_register_nr.scan(/\d+/).join.to_i}.xml"> | complex xml (click és ctrl-u) | </a></i>
-      <!--a if="&this.klink" href="http://www.k-monitor.hu#{this.klink}" target="_blank"><ht key="custom.jump_to_k-monitor">View on k-monitor.hu</ht></a-->
+      <i><a style="color:darkBlue" if="&this.trade_register_nr and (current_user.administrator? or current_user.editor? or current_user.supervisor?) and File.exist?(Rails.root.to_s + '/public/orgs/' + this.trade_register_nr.scan(/\d+/).join.to_i.to_s + '.xml')" target="_blank" href="/orgs/#{this.trade_register_nr.scan(/\d+/).join.to_i}.xml"> | complex xml (click és ctrl-u) | </a></i><br/>
+      <a if="&this.klink" href="http://www.k-monitor.hu#{this.klink}" target="_blank"><ht key="custom.jump_to_k-monitor">View on k-monitor.hu</ht></a-->
     </after-heading:>
     <append-content-body:>
       <script>
@@ -863,6 +863,15 @@
           <table-plus-person-history with="&@histories"/>
         </div>
       <% end %>
+      <form action="&'/people/' + this.id.to_s + '/merge'" method="get" if="&current_user.supervisor? or current_user.editor? or current_user.administrator?" >
+          <field-list fields="merge_from">
+            <merge-from-view:>
+              <name-one/>
+              Be aware! All data will be deleted after the merge of the person you enter here!
+            </merge-from-view:>
+          </field-list>
+        <submit label="start merge!" style="display:inline"/>
+      </form>
     </append-content-body:>
   </show-page>
 </def>

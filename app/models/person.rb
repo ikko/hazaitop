@@ -68,6 +68,8 @@ class Person < ActiveRecord::Base
 
   has_many :person_histories
 
+  belongs_to :merge_from, :class_name => "Person"
+  
   def to_param
     "#{id}-#{name.to_textual_id}"
   end
@@ -78,6 +80,23 @@ class Person < ActiveRecord::Base
     else
       "#{zip_code} #{city}, #{street}"
     end
+  end
+
+  def self.merge into_this, this
+
+    into_this.person_grades << this.person_grades   
+    into_this.person_to_org_relations << this.person_to_org_relations
+    into_this.interpersonal_relations << this.interpersonal_relations
+    into_this.person_histories << this.person_histories
+    into_this.save
+
+    this.person_grades.delete_all
+    this.person_to_org_relations.delete_all
+    this.interpersonal_relations..delete_all
+    this.person_histories.delete_all
+
+    this.delete
+
   end
 
   # --- Permissions --- #

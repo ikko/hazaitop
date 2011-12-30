@@ -163,6 +163,15 @@ class PeopleController < ApplicationController
     render :index
   end
 
+  show_action :merge do
+    merge_into = find_instance
+    to_merge = Person.find_by_name(params[:person][:merge_from])
+    Person.merge merge_into, to_merge
+    flash.now[:notice] = "#{to_merge.name} has been successfully merged into #{merge_into.name}!"
+    hobo_show merge_into
+    render :show
+  end
+
   private
 
   def fill_local_drop_down
