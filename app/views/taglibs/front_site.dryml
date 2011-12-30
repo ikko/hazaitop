@@ -103,9 +103,6 @@
         <a href="/front/development" target="_blank">
           <img src="/images/amitaba-mudra-logo.gif" height="50" alt="AMITABA-MUDRA Kft." />
         </a>
-        <a href="http://www.digitalnatives.hu" target="_blank">
-          <img src="/images/dina-logo.jpg" height="50" alt="Digital Natives Kft."/>
-        </a>
       </div>
       <div class="left" id="licenses">
         <div id="licenses_images" class="left">
@@ -489,7 +486,7 @@
 
 <extend tag="table-plus">
   <old-table-plus merge>
-    <empty-message:><span class="no_data">Nincs kapcsolódó adat.</span></empty-message:>
+    <empty-message:><span class="no_data">Nincs kapcsolódó adat</span></empty-message:>
   </old-table-plus>
 </extend>
 
@@ -640,7 +637,8 @@
 
 <def tag="table-plus-article-person-to-org">
   <table-plus fields="person, organization, p2o_relation_type, start_time, end_time, information_source" without-search-form>
-   <end-time-view:>
+    <controls:><delete-button/></controls:>
+    <end-time-view:>
       <view format="%B %d, %Y" if="&!this_parent.no_end_time"/>
       <ht if="&this_parent.no_end_time" key="custom.not_known">not known</ht>
     </end-time-view:>
@@ -669,6 +667,7 @@
 
 <def tag="table-plus-organization-person-to-org">
   <table-plus fields="person, o2p_relation_type, start_time, end_time, article_relations, information_source" without-search-form>
+    <controls:><delete-button/></controls:>
     <article-relations-view:>
       <% this.each do |r| %>
         <a href="#{article_path(r.article_id)}"><view with="&r.article.title[0..60].strip + '...'"/></a><br/>
@@ -684,6 +683,7 @@
 
 <def tag="table-plus-organization-interorg">
   <table-plus fields="related_organization, o2o_relation_type, value, currency, vat_incl, contract, tender, article_relations, information_source" without-search-form>
+    <controls:><delete-button/></controls:>
     <value-view:>
       <view with="&commify(this)"/>
     </value-view:>
@@ -698,12 +698,14 @@
 
 <def tag="table-plus-organization-financial">
   <table-plus fields="year, balance_sheet_total, turnover" without-search-form>
+    <controls:><delete-button/></controls:>
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'financial_pagination', :id => @this.id}"/>
   </table-plus>
 </def>
 
 <def tag="table-plus-person-interperson">
   <table-plus fields="related_person, p2p_relation_type, organization, article_relations, information_source" without-search-form>
+    <controls:><delete-button/></controls:>
     <article-relations-view:>
       <% this.each do |r| %>
         <a href="#{article_path(r.article_id)}"><view with="&r.article.title[0..60].strip + '...'"/></a><br/>
@@ -715,6 +717,7 @@
 
 <def tag="table-plus-person-person-to-org">
   <table-plus fields="organization, p2o_relation_type, start_time, end_time, article_relations, information_source" without-search-form>
+    <controls:><delete-button/></controls:>
     <article-relations-view:>
       <% this.each do |r| %>
         <a href="#{article_path(r.article_id)}"><view with="&r.article.title[0..60].strip + '...'"/></a><br/>
@@ -730,6 +733,7 @@
 
 <def tag="table-plus-person-history">
   <table-plus fields="user, updated_at" without-search-form>
+    <controls:><delete-button/></controls:>
     <page-nav: previous-label="&laquo;" next-label="&raquo;"/>
   </table-plus>
 </def>
@@ -740,7 +744,13 @@
     <!--append-custom-scripts:>
       <hjq-assets/>
     </append-custom-scripts:-->
-    <field-list: fields="address, phone, fax, email_address, internet_address, trade_register_nr, tax_nr, number_of_employees, information_source, activities" />
+    <field-list: fields="address, phone, fax, email_address, internet_address, trade_register_nr, tax_nr, number_of_employees, information_source, activities">
+      <controls:>
+        <if test="&current_user.supervisor? or current_user.editor? or current.user.administrator?">
+          <delete-button/>
+        </if>
+      </controls:>
+    </field-list:>
     <heading: class="left"/>
     <after-heading:>
       <a href="/site_search/?type=o&id=#{this.id}" target="_blank" param="to-map"><img src="/images/terkepre_vele.jpg" id="to_map_blue"/></a> | 
