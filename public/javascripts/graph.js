@@ -324,6 +324,7 @@ var network;
       // filterezni csak ready eseménykor lehet
       network.filter();
       network.select();
+      network.showNodeInfo(vis.node($selectedElemType.val()+$selectedElemId.val()).data);
     });
 
     $loadNodeRelations.click(function(e) {
