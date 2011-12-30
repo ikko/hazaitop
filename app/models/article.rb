@@ -9,6 +9,7 @@ class Article < ActiveRecord::Base
     weblink :string
     processed_at :date 
     issued_at    :date
+    search_result_count           :integer, :default => 0
     timestamps
   end
 

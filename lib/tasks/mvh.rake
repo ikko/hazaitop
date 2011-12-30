@@ -36,13 +36,13 @@ namespace :mvh do
       a = f.split(';')
       next if a.size != 9
       puts 'org: ' + org  = a[0].gsub('"','').gsub('  ',' ').strip
-      puts 'zip: ' + zip  = a[1]
-      puts 'city: ' + city = a[2]
-      puts 'utca: ' + utca = a[3]
-      puts 'jogcim: ' + jogcim = a[4]
-      puts 'alap: ' + alap = a[5]
-      puts 'forrás: ' + forras = a[6]
-      puts 'tamogatas: ' + tamogatas = a[7]
+      puts 'zip: ' + zip  = a[1].strip
+      puts 'city: ' + city = a[2].strip
+      puts 'utca: ' + utca = a[3].strip
+      puts 'jogcim: ' + jogcim = a[4].strip
+      puts 'alap: ' + alap = a[5].strip
+      puts 'forrás: ' + forras = a[6].strip
+      puts 'tamogatas: ' + tamogatas = a[7].strip
       puts "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
 
       next if org == "Név" or org == "magánszemély" or tamogatas.to_i < 0
@@ -61,7 +61,7 @@ namespace :mvh do
         palyazo = Struct.new(:id).new
       end
 
-      us = org + jogcim + alap + tamogatas
+      us = org + jogcim + alap + tamogatas.to_i
 
       if !Tender.find_by_unique_string( us ) 
 

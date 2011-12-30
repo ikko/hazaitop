@@ -92,14 +92,14 @@
           <div class="tab"><a href="#trans_content">TRANZAKCIÓK</a></div>
         </div>
         <div id="people_content" class="tab_content">
-          <table-plus-person with="&@people" without-person-nav/>
+          <table-plus-person with="&@people" without-page-nav/>
         </div>
         <div id="orgs_content" class="tab_content" style="display: none">
-          <table-plus-org with="&@organizations" without-org-nav/>
+          <table-plus-org with="&@organizations" without-page-nav/>
         </div>
 
         <div id="trans_content" class="tab_content" style="display: none">
-          <table-plus-trans with="&@transactions" without-trans-nav/>
+          <table-plus-trans with="&@transactions" without-page-nav/>
         </div>
       </div>
       <div class="clear"></div>

@@ -8,6 +8,7 @@ class Litigation < ActiveRecord::Base
     start_time :date
     end_time   :date
     timestamps
+    search_result_count           :integer, :default => 0
   end
 
   default_scope  :order => 'name'

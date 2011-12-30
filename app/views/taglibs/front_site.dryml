@@ -8,6 +8,11 @@
 
 <set-theme name="clean"/>
 
+<def tag="view" for="Date">
+  <%= this.strftime('%Y.%m.%d.').downcase %>
+</def>
+
+
 <extend tag="page">
   <old-page merge>
     <custom-scripts:>
@@ -282,10 +287,14 @@
 <def tag="form" for="Person">
   <form merge param="default">
     <error-messages param/>
-    <field-list fields="last_name, first_name, person_grades, place_of_birth, born_at, mothers_name, information_source, user, manual_person_to_org_relations, manual_interpersonal_relations" param>
+    <field-list fields="last_name, first_name, person_grades, place_of_birth, born_at, mothers_name, information_source, user, selected_organization, manual_person_to_org_relations, manual_interpersonal_relations" param>
       <place-of-birth-view:>
         <name-one/>
       </place-of-birth-view:>
+
+      <selected-organization-view:>
+        <select-one options="&this_parent.organizations"/>
+      </selected-organization-view:>
 
       <information-source-view:>
         <select-one options="&@info_sources"/> | <a href="&new_information_source_path"  target="_blank"><ht key="custom.new">new</ht></a>
@@ -300,7 +309,7 @@
               <article-relations-view:>
                 <input-many>
                   <a:article default="_blank"><view:id/></a>
-                  <select-one:article options="&@recent_articles"/>
+                  <name-one:article/>
                 </input-many>
               </article-relations-view:>
               <organization-view:>
@@ -335,8 +344,8 @@
               <article-relations-view:>
                 <input-many>
                   <a:article default="_blank"><view:id/></a>
-                  <select-one:article options="&@recent_articles"/>
-                </input-many>
+                  <name-one:article/>
+               </input-many>
               </article-relations-view:>
               <information-source-view:>
                 <select-one options="&InformationSource.not_internal"/> | <a href="&new_information_source_path"  target="_blank"><ht key="custom.new">new</ht></a>
@@ -370,7 +379,7 @@
               <article-relations-view:>
                 <input-many>
                   <a:article target="_blank"><view:id/></a>
-                  <select-one:article options="&@recent_articles"/>
+                  <name-one:article/>
                 </input-many>
               </article-relations-view:>
               <person-view:>
@@ -402,7 +411,7 @@
               <article-relations-view:>
                 <input-many>
                   <a:article target="_blank"><view:id/></a>
-                  <select-one:article options="&@recent_articles"/>
+                  <name-one:article/>
                 </input-many>
               </article-relations-view:>
             </field-list>
@@ -490,17 +499,19 @@
     <div class="separator left">|</div>
     <a href="/front/person_pagination/?sort=-interpersonal_relations_count" class="left #{params[:sort] && params[:sort]=='-interpersonal_relations_count' ? 'active' : ''}">Legtöbb személyes kapcsolat</a>
     <div class="separator left">|</div>
+    <a href="/front/person_pagination/?sort=-search_result_count" class="left #{params[:sort] && params[:sort]=='-search_result_count' ? 'active' : ''}">Legtöbbet keresett</a>
+    <div class="separator left">|</div>
     <a href="/front/person_pagination/?sort=-updated_at" class="left #{params[:sort] && params[:sort]=='-updated_at' ? 'active' : ''}">Most frissített</a>
   </div>
-  <table-plus fields="this, person_to_org_relations_count, information_source" without-search-form merge>
+  <table-plus fields="this, person_to_org_relations_count, selected_organization, information_source" without-search-form merge>
     <Person-heading:><span>Név</span></Person-heading:>
+    <selected-organization-heading:>Szervezet</selected-organization-heading:>
     <interpersonal-relations-count-heading:><span>Személyes kapcsolat</span></interpersonal-relations-count-heading:>
     <person-to-org-relations-count-heading:><span>Szervezeti kapcsolat</span></person-to-org-relations-count-heading:>
-    <information-source-heading:><span>Információ forrás</span></information-source-heading:>
+    <information-source-heading:><span>Forrás</span></information-source-heading:>
     <this-view:><a/> <a href="/site_search/?type=p&id=#{this.id}"><img src="/images/plusz.png"/></a> </this-view:>
-    <div param="person-nav">
-      <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{ :action=> 'person_pagination', :sort=>params[:sort]}"/>
-    </div>
+    <selected-organization-view:><a/> <a unless="&this.nil?" href="/site_search/?type=o&id=#{this.id}"><img src="/images/plusz.png"/></a> </selected-organization-view:>
+    <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{ :action=> 'person_pagination', :sort=>params[:sort]}"/>
   </table-plus>
   <div param="table_footer" class="table_footer"><a href="#{people_path}">További személyek &gt;</a></div>
 </def>
@@ -513,7 +524,7 @@
     <div class="separator left">|</div>
     <a href="&url_for :controller => 'front', :action => 'org_pagination', :sort=>'-updated_at'" class="left #{params[:sort] && params[:sort]=='-updated_at' ? 'active' : ''}">Most frissített</a>
   </div>
-  <table-plus fields="this, address person_to_org_relations_count, interorg_relations_count, information_source" without-search-form merge>
+  <table-plus fields="this, address, person_to_org_relations_count, interorg_relations_count, information_source" without-search-form merge>
     <Organization-heading:><span>Név</span></Organization-heading:>
     <address-heading:><span>Cím</span></address-heading:>
     <city-heading:><span>Város</span></city-heading:>
@@ -521,11 +532,9 @@
     <zip-code-heading:><span>Irányítószám</span></zip-code-heading:>
     <person-to-org-relations-count-heading:><span>Személyes kapcsolat</span></person-to-org-relations-count-heading:>
     <interorg-relations-count-heading:><span>Szervezeti kapcsolat</span></interorg-relations-count-heading:>
-    <information-source-heading:><span>Információ forrás</span></information-source-heading:>
+    <information-source-heading:><span>Forrás</span></information-source-heading:>
     <this-view:><a/> <a href="/site_search/?type=o&id=#{this.id}"><img src="/images/plusz.png"/></a> </this-view:>
-    <div param="org-nav">
-      <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{ :action=>'org_pagination', :sort=>params[:sort]}"/>
-    </div>
+    <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{ :action=>'org_pagination', :sort=>params[:sort]}"/>
   </table-plus>
   <div param="table_footer" class="table_footer"><a href="#{organizations_path}">További szervezetek &gt;</a></div>
 </def>
@@ -546,9 +555,7 @@
     <o2o-relation-type-pair-name-heading:><span>Kapcsolat</span></o2o-relation-type-pair-name-heading:>
     <name-view:><a href="#{url_for(this_parent.tender_id ? this_parent.tender : this_parent.contract)}"><%= this.scan(/./mu)[0..50] << (this.scan(/./mu).length > 50 ? '...' : '') %></a> <a href="/site_search/?type=t&id=#{this_parent.id}"><img src="/images/plusz.png"/></a> </name-view:>
     <value-view:><a href="#{url_for(this_parent.tender_id ? this_parent.tender : this_parent.contract)}"><%= commify(this) %></a></value-view:>
-    <div param="trans-nav">
-      <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'trans_pagination', :sort=>params[:sort]}"/>
-    </div>
+    <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'trans_pagination', :sort=>params[:sort]}"/>
   </table-plus>
 </def>
 

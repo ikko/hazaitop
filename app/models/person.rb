@@ -17,6 +17,7 @@ class Person < ActiveRecord::Base
     complexed_at :date
     interpersonal_relations_count :integer, :default => 0
     person_to_org_relations_count :integer, :default => 0
+    search_result_count           :integer, :default => 0
     complex_xml :text
     timestamps
   end
@@ -24,13 +25,15 @@ class Person < ActiveRecord::Base
   default_scope  :order => 'last_name, first_name' 
 
   before_save do |r|
-    r.name = r.last_name.to_s + ' ' + r.first_name.to_s
+    r.name = r.last_name.to_s.strip + ' ' + r.first_name.to_s.strip
     if r.born_at and r.born_at.year == Time.now.year
       r.born_at = nil
     elsif r.born_at
       r.name << r.born_at.to_s
     end
   end
+
+  belongs_to :selected_organization, :class_name => "Organization"
 
   validates_presence_of :information_source
 
@@ -70,7 +73,11 @@ class Person < ActiveRecord::Base
   end
 
   def address
-    "#{zip_code} #{city}, #{street}"
+    if zip_code.blank? and city.blank? and street.blank?
+      ""
+    else
+      "#{zip_code} #{city}, #{street}" if !zip_code
+    end
   end
 
   # --- Permissions --- #

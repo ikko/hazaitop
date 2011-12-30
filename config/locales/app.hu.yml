@@ -29,7 +29,10 @@ hu:
     place_of_birth: Születési hely
     mothers_name: Anyja neve
     person_grades: Minőség
-    information_source: Információ forrás 
+    information_source: Forrás
+    p2p_relation_type: Kapcsolat
+    p2o_relation_type: Kapcsolat
+    article_relations: Cikkek
     personal_relations: Személyes kapcsolatok
     person_to_org_relations: Szervezeti kapcsolatok
     user: Létrehozó
@@ -79,10 +82,11 @@ hu:
   interpersonal_relations:
     model_name: személyek közti kapcsolat
     related_person: Kapcsolódó személy
-    p2p_relation_type: Személyes kapcsolat típusa
+    p2p_relation_type: Kapcsolat
     litigations: Perek
     articles: Cikkek
-    information_source: Információ forrás 
+    article_relations: Cikkek
+    information_source: Forrás 
     hints:
       litigations: kapcsolódó perek, amennyiben vannak
 
@@ -90,14 +94,15 @@ hu:
     model_name: személy és szervezet közti kapcsolat
     person: Személy
     organization: Szervezet
-    p2o_relation_type: Kapcsolat típusa
-    o2p_relation_type: Kapcsolat típusa
+    p2o_relation_type: Kapcsolat
+    o2p_relation_type: Kapcsolat
     start_time: Kezdő dátum
     end_time: Záró dátum
     no_end_time: Nincs záródátum
     litigations: Perek
-    information_source: Információ forrás 
+    information_source: Forrás 
     articles: Cikkek
+    article_relations: Cikkek
     hints:
       litigations: kapcsolódó perek, amennyiben vannak
       no_end_time: a záró dátum nem értelmezett, amennyiben a kapcsolat jelenleg is fennáll és a lezárás ideje nem ismert
@@ -290,7 +295,11 @@ hu:
     trade_register_nr: Cégjegyzékszám
     tax_nr: Adószám
     number_of_employees: Munkavállalók száma
-    information_source: Információ forrás
+    information_source: Forrás
+    o2p_relation_type: Kapcsolat
+    o2p_relation_type: Kapcsolat
+    p2p_relation_type: Kapcsolat
+    article_relations: Cikkek
     financials: Vagyoni adatok
     interorg_relations: Szervezetközi kapcsolatok
     person_to_org_relations: Személyes kapcsolatok
@@ -298,7 +307,7 @@ hu:
     state: státusz
     nav_item: Szervezet
     actions:
-      new: Új személy
+      new: Új szervezet
       edit: adatok és kapcsolatok szerkesztése
       delete: Szervezet törlése
     hints:
@@ -320,10 +329,11 @@ hu:
       heading: Tranzakciók
       title: Tranzakciók
     related_organization: Kapcsolódó szervezet
-    o2o_relation_type: Szervezetközi kappcsolat típusa
+    o2o_relation_type: Kapcsolat
     litigations: Perek
     articles: Cikkek
-    information_source: Információ forrás 
+    article_relations: Cikkek
+    information_source: Forrás 
     hints:
       litigations: kapcsolódó perek, amennyiben vannak
     collection:

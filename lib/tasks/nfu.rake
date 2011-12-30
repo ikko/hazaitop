@@ -41,25 +41,25 @@ namespace :nfu do
         next if osszeg == "Megítélt támogatás (Ft):"
         next if osszeg == "2. fordulóba léphet"
         next if osszeg == "0,00"
-        puts palyazo = row.css('td').first.elements[2].elements[0].text
+        puts palyazo = row.css('td').first.elements[2].elements[0].text.strip
         puts link = row.css('td').first.elements[2].attributes.first.last.to_s  # ez csaka vége, emir kell elé
-        puts targy = row.css('td').first.elements[2].children.to_s.split('<br>').last
-        puts palyazat = row.css('td').children.first.to_s
+        puts targy = row.css('td').first.elements[2].children.to_s.split('<br>').last.strip
+        puts palyazat = row.css('td').children.first.to_s.strip
 
         detail = Nokogiri::HTML(open("http://emir.nfu.hu/kulso/jelek/#{link}").read, nil, 'utf-8').css('.td_adat_2')
 
         puts url = "http://emir.nfu.hu/kulso/jelek/#{link}"
-        puts onkorm  = detail[0].try.text
-        puts project = detail[1].try.text
-        puts op_name = detail[2].try.text
-        puts tender_name = detail[3].try.text
-        puts region =  detail[4].try.text
-        puts county =  detail[5].try.text 
-        puts city   =  detail[6].try.text 
-        puts amount =  detail[7].try.text
-        puts subsidy = detail[8].try.text
-        puts decided_at = detail[9].try.text
-        puts decision_score = detail[10].try.text
+        puts onkorm  = detail[0].try.text.strip
+        puts project = detail[1].try.text.strip
+        puts op_name = detail[2].try.text.strip
+        puts tender_name = detail[3].try.text.strip
+        puts region =  detail[4].try.text.strip
+        puts county =  detail[5].try.text.strip
+        puts city   =  detail[6].try.text.strip
+        puts amount =  detail[7].try.text.strip
+        puts subsidy = detail[8].try.text.strip
+        puts decided_at = detail[9].try.text.strip
+        puts decision_score = detail[10].try.text.strip
         puts "-----------------------------------------------------------------"
 
         us = onkorm + op_name + tender_name + decided_at.to_s + amount.to_s

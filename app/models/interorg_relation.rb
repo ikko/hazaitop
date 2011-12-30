@@ -28,6 +28,7 @@ class InterorgRelation < ActiveRecord::Base
     szavazat_egyeduli_reszvenyes :boolean, :default => false
     szavazat_egyeduli_reszvenyes :boolean, :default => false
     parsed :boolean, :default => false
+    search_result_count :integer, :default => 0
   end
 
   default_scope :order => "related_organization_id"

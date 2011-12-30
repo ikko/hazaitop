@@ -35,6 +35,7 @@ class Organization < ActiveRecord::Base
     kiemelten_kozhasznu_from      :date
     timestamps
     complex_xml :text
+    search_result_count           :integer, :default => 0
   end
 
   belongs_to :merge_from, :class_name => "Organization"
@@ -99,7 +100,7 @@ class Organization < ActiveRecord::Base
   has_many :manual_person_to_org_relations, :conditions => [ "parsed = ?", false ], :class_name => "PersonToOrgRelation", :accessible => true
   has_many :manual_interorg_relations,      :conditions => [ "parsed = ?", false ], :class_name => "InterorgRelation", :accessible => true
 
-  has_many :persons,       :through => :person_to_org_relations
+  has_many :people,       :through => :person_to_org_relations
 
   # has_many :organizations, :through => :person_to_org_relations, :accessible => true
   # has_many :organizations, :through => :interorg_relations, :accessible => true, :source => :organization
@@ -119,7 +120,15 @@ class Organization < ActiveRecord::Base
   end
 
   def address
-    "#{zip_code} #{city}, #{street}"
+    if zip_code.blank? and city.blank? and street.blank?
+      ""
+    else
+      "#{zip_code} #{city}, #{street}" if !zip_code
+    end
+  end
+
+  before_validation do |r|
+    r.name = r.name.try.gsub('"','').strip
   end
 
   # --- Permissions --- #

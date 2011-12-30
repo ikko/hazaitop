@@ -254,7 +254,7 @@ a {
 }
 
 .order_list a {
-  padding: 0px 9px;
+  padding: 0px 7px;
 }
 
 .order_list .active {
@@ -290,13 +290,15 @@ a {
 
 .table-plus table thead, .table-plus td, .table-plus th {
   font-size: 13px;
-  line-height: 30px;
-  height: 30px;
-  padding: 0px 10px;
+  line-height: 20px;
+  padding: 7px 7px 7px 7px;
+}
+
+.table-plus table thead {
+  text-transform:uppercase;
 }
 
 thead a, thead span {
-  padding-left: 10px;
   color: white;
 }
 
@@ -311,7 +313,9 @@ thead a, thead span {
 
 .table-plus .information-source-view, .table-plus .information-source-heading {
   border-right: none;
+  width: 80px;
 }
+
 
 table .even {
   background-color: #D1CFD0;
@@ -454,6 +458,10 @@ table .odd {
   padding-left: 40px;
 }
 
+.field-heading-row {
+  padding: 10px;
+}
+
 .details_header {
   background-color: #F4F2F3;
   line-height: 34px;
@@ -549,15 +557,24 @@ h2 {
   width: 150px;
 }
 
-.flash.error {
+
+.flash {
   font-family: "Lucida Grande", arial, sans-serif;
-  background: #9d0018;
-  border: 1px solid #7a0013;
   padding: 20px;
   color: white;
   margin-bottom: 20px;
   text-align: center;
   margin-top: 20px;
+}
+
+.flash.error {
+  background: #9d0018;
+  border: 1px solid #7a0013;
+}
+
+.flash.notice {
+  background: darkGreen;
+  border: 1px solid #7a0013;
 }
 
 .from_to_separator {
@@ -834,9 +851,13 @@ h2 {
 }
 
 .no_data {
-  padding: 5px;
+  padding: 16px;
   display: block;
   font-size: 13px;
+  text-align: center;
+  background: #EEE;
+  text-transform: uppercase;
+  color: #777;
 }
 
 .button {color: white; background: #5B8BA0;}
@@ -904,6 +925,11 @@ h2 {
   border: 1px solid #7FB1BB;
   color: #054756;
   width: 90%;
+}
+
+.edit-page input.remove-button{
+  width: auto;
+  color: darkRed;
 }
 
 .edit-page select {
