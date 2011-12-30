@@ -1,27 +1,21 @@
 utf8 karakterek designhoz:
 ⬆⬇◂▸
 
+minusz gombok rossz helyen
+térképnél rossz a szűrő
+
+elválasztó vonal tranzakcióknál
+
 per-eket ne egymás mellé rendezze - felvitelnél jó, megjelenítésnél nem...
 
 adatbázisból kitisztítani a \r\n-eket
 kezdőoldalon videó
+
 hogyan működik, a projektről és kapcsolat oldalak hiányoznak (admin szerkesztés hozzájuk)
-térkép oldalon kapcsolati háló törlése gomb
-
-térképre vele oldal
-node szűrések
-személyek (személyeket is ki/be lehet kapcsolni): 
-P2oRelationTypes.all.*.name
-P2pRelationTypes.all.*.name 
-
-Szervezetek::
-o2p_relation_types
-o2o_realtion_types
-
-interorg value/amount
-
-person2org relation
-
+jelezni ha valami nem látható (mert pl nincs kapcsolata senkivel)
+jelmagyarázat térképhez, hogyan működik site_search keresésnél
+van hogy nem látszik a loader site_searchnél gráfnál
+EHELYETT MOST SHOW OLDALAK VANNAK: alsó profil (betöltött hivatalok helyett szervezeti kapcsolatok, személyi kapcsolatok, személyes adatok jobbra, linkek nem kell (megtekintés kmonitoron lehet a szemlyes adatoknál, életrajz nem kell)
 
 kibővíteni front kontban a szűkített kereséseket mert kaphatnak query-t (dátumokat csak ott használjuk ahol van start_time, end_time, query, összeg interorgnál a value, kellene még tranzakciók fül is [összegre vagy a két szervezetre kattintva az interorg contract-ja vagy tenderje jön be, attól függ melyik van])
 

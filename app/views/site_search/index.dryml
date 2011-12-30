@@ -54,7 +54,7 @@
           <div class="clear"></div>
         </div>
         <div id="profil_content" style="#{params[:type] && params[:id] ? 'display: block' : 'display: none'}" class="tab_content">
-          <node-card with="&@explored_node" if="&@explored_node"/>
+          <node-card with="&@explored_node"/>
           <div id="p2p_edge" class="node_attributes">
             <ul>
               <li>Kapcsolat megnevezése: <span class="name"></span></li>
