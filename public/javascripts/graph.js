@@ -143,15 +143,19 @@ var network;
       window.scrollTo(0, $('#'+id+'_tab_label').position().top)
     },
     showNodeInfo: function(nodeData) {
-      if ($.inArray(nodeData.id, this.discoveredNodes) != -1) {
-        $loadNodeRelations.hide();
-      } else {
+                    console.log('discovered: ', this.discoveredNodes)
+                    console.log('node: ', nodeData)
+      var match = nodeData.id.match(/(.*?)(\d+)$/);
+                    console.log(match)
+                      console.log($.inArray(nodeData.id, this.discoveredNodes))
+      if ((match[1] == 'p' || match[1] == 'o' || match[1] == 'l') && $.inArray(nodeData.id, this.discoveredNodes) == -1) {
         $loadNodeRelations.show();
+      } else {
+        $loadNodeRelations.hide();
       }
       $('#profil_link').click();
       
-      var match = nodeData.id.match(/(.*?)(\d+)$/);
-      // ha még nem látszana és node adatait mutatjuk
+      // ha node adatait mutatjuk
       if (match[1] == 'p' || match[1] == 'o' || match[1] == 'l') {
         $('#load_node_details').show();
       } else {
@@ -163,13 +167,11 @@ var network;
       $nodeAttributePanels.hide();
       if (match[1] == 'p') {
         $personNode.show();
-        $loadNodeRelations.show();
         $personNode.find(".name").html("<a href='/people/"+nodeData.id.match(/\d+$/)+"'>"+nodeData.label+"</a>");
         $personNode.find(".mothers_name").text(nodeData.mothersName);
         $personNode.find(".born_at").text(nodeData.bornAt);
       } else if (match[1] == 'o'){
         $organizationNode.show();
-        $loadNodeRelations.show();
         $organizationNode.find(".name").html("<a href='/organizations/"+nodeData.id.match(/\d+$/)+"'>"+nodeData.label+"</a>");
         $organizationNode.find(".address").text(nodeData.address);
         $organizationNode.find(".founded_at").text(nodeData.foundedAt);
@@ -178,13 +180,11 @@ var network;
         $organizationNode.find(".balance").text(nodeData.balance);
       } else if (match[1] == 'l'){
         $litigationNode.show();
-        $loadNodeRelations.show();
         $litigationNode.find(".name").html("<a href='/litigations/"+nodeData.id.match(/\d+$/)+"'>"+nodeData.label+"</a>");
         $litigationNode.find(".start_time").text(nodeData.startTime);
         $litigationNode.find(".end_time").text(nodeData.endTime);
       } else if (match[1] == 'o2o'){
         $o2oEdge.show();
-        $loadNodeRelations.hide();
         $o2oEdge.find(".name").text(nodeData.label);
         $o2oEdge.find(".org:first").text(nodeData.org);
         $o2oEdge.find(".org:last").text(nodeData.relatedOrg);
@@ -199,7 +199,6 @@ var network;
         }
       } else if (match[1] == 'p2p'){
         $p2pEdge.show();
-        $loadNodeRelations.hide();
         $p2pEdge.find(".name").text(nodeData.label);
         $p2pEdge.find(".person:first").text(nodeData.person);
         $p2pEdge.find(".person:last").text(nodeData.relatedPerson);
@@ -208,7 +207,6 @@ var network;
         $p2pEdge.find(".source").text(nodeData.source);
       } else if (match[1] == 'p2o' || match[1] == 'o2p'){
         $p2oEdge.show();
-        $loadNodeRelations.hide();
         $p2oEdge.find(".name").text(nodeData.label);
         $p2oEdge.find(".person").text(nodeData.person);
         $p2oEdge.find(".org").text(nodeData.org);
@@ -217,7 +215,6 @@ var network;
         $p2oEdge.find(".source").text(nodeData.source);
       } else if (match[1] == 'o2l'){
         $o2lEdge.show();
-        $loadNodeRelations.hide();
         $o2lEdge.find(".name").text(nodeData.label);
         $o2lEdge.find(".org").text(nodeData.org);
         $o2lEdge.find(".litigation").text(nodeData.litigation);
@@ -226,7 +223,6 @@ var network;
         $o2lEdge.find(".source").text(nodeData.source);
       } else if (match[1] == 'p2l'){
         $p2lEdge.show();
-        $loadNodeRelations.hide();
         $p2lEdge.find(".person").text(nodeData.person);
         $p2lEdge.find(".litigation").text(nodeData.litigation);
         $p2lEdge.find(".start_time").text(nodeData.startTime);
