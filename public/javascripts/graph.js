@@ -132,12 +132,11 @@ var network;
       } else {
         // létrehozunk egy új tabot és content containert hozzá
         $('#node_details_tab').append("<a href='#' id='"+id+"_tab_label' class='active'>"+label+"</a>");
-        $('#map_node_details').append("<div class='section' id='"+id+"'></div>");
         $.ajax({url:'/site_search/node_show?id='+$selectedElemId.val()+'&type='+$selectedElemType.val(), 
                 success: function(response) {
                   log('Node részletes infó: ', response);
-                  $('#map_node_details .temp').replaceWith(response); 
-                  $('#map_node_details').append($('#map_node_details .temp body').html()); 
+                  $('#map_node_details .temp').html(response); 
+                  $('#map_node_details').append($('#map_node_details .temp').html());
                 }});
       }
       // a tabhoz ugrunk
