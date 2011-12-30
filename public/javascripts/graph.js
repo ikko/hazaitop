@@ -151,12 +151,16 @@ var network;
       }
       $('#profil_link').click();
       
-      // ha még nem látszana..
-      $('#load_node_details').show();
+      var match = nodeData.id.match(/(.*?)(\d+)$/);
+      // ha még nem látszana és node adatait mutatjuk
+      if (match[1] == 'p' || match[1] == 'o' || match[1] == 'l') {
+        $('#load_node_details').show();
+      } else {
+        $('#load_node_details').hide();
+      }
 
       $("#node_panel").show();
 
-      var match = nodeData.id.match(/(.*?)(\d+)$/);
       $nodeAttributePanels.hide();
       if (match[1] == 'p') {
         $personNode.show();
