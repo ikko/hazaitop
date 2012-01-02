@@ -384,7 +384,7 @@ class SiteSearchController < ApplicationController
         person_ids = []
         organization_ids = []
         litigation_ids = []
-        if !params[:nodes].blank?
+        if params[:nodes]
           params[:nodes][0..-2].split(',').each do |node|
             match = node.match /(.*?)(\d+)$/
             person_ids << match[2] if match[1] == 'p'

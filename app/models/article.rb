@@ -7,7 +7,7 @@ class Article < ActiveRecord::Base
     summary :text
     internet_address :string, :required, :unique
     weblink :string
-    processed_at :date 
+    processed_at :date
     issued_at    :date
     search_result_count           :integer, :default => 0
     timestamps
@@ -15,6 +15,10 @@ class Article < ActiveRecord::Base
 
   def name
     title
+  end
+
+  def find_by_name x
+    find_by_title_or_id x
   end
 
   default_scope :order => 'issued_at DESC'
@@ -25,38 +29,38 @@ class Article < ActiveRecord::Base
   belongs_to :user
 
   has_many :article_relations
-  
-  has_many :person_to_org_relations, 
-           :through => :article_relations, 
-           :source => :person_to_org_relation, 
+
+  has_many :person_to_org_relations,
+           :through => :article_relations,
+           :source => :person_to_org_relation,
            :conditions => "article_relations.relationable_type = 'PersonToOrgRelation'",
-           :accessible => true 
+           :accessible => true
 
-  has_many :interorg_relations, 
-           :through => :article_relations, 
-           :source => :interorg_relation, 
-           :conditions => [ "article_relations.relationable_type = 'InterorgRelation' and mirror = ?", false ], 
-           :accessible => true 
+  has_many :interorg_relations,
+           :through => :article_relations,
+           :source => :interorg_relation,
+           :conditions => [ "article_relations.relationable_type = 'InterorgRelation' and mirror = ?", false ],
+           :accessible => true
 
-  has_many :interpersonal_relations, 
-           :through => :article_relations, 
+  has_many :interpersonal_relations,
+           :through => :article_relations,
            :source => :interpersonal_relation,
            :conditions => [ "article_relations.relationable_type = 'InterpersonalRelation' and mirror = ?", false ],
-           :accessible => true 
+           :accessible => true
 
   before_save do |article|
     unless article.internet_address.blank?
        d = Domainatrix.parse(article.internet_address)
        domain_name = d.domain + '.' + d.public_suffix
        i = InformationSource.find_or_create_by_domain_name( domain_name ) { |r| r.name = r.domain_name = domain_name; r.weight = 1; r.web = 'http://' + d.host }
-       article.information_source_id = i.id 
+       article.information_source_id = i.id
     end
   end
 
   validate :begins_with_http_or_https
 
   def begins_with_http_or_https
-    if !internet_address.blank? 
+    if !internet_address.blank?
       unless (internet_address[0..6] == 'http://' or internet_address[0..7] == 'https://')
         errors.add("Internet address", "must begin with 'http://' or 'https://' copy from browser please")
       end
@@ -67,7 +71,7 @@ class Article < ActiveRecord::Base
     state :normal, :default => true
     state :processed
 
-    transition :progress, { :normal => :processed }, 
+    transition :progress, { :normal => :processed },
       :available_to => "User", :if => "acting_user.editor? or acting_user.supervisor? or acting_user.administrator?",
       :params => [ :processed_at ]
 
@@ -96,3 +100,4 @@ class Article < ActiveRecord::Base
   end
 
 end
+
