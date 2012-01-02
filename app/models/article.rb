@@ -17,8 +17,8 @@ class Article < ActiveRecord::Base
     title
   end
 
-  def self.find_by_name_or_id x
-    find_by_title_or_id x
+  def self.find_by_name x
+    find_by_title x
   end
 
   default_scope :order => 'issued_at DESC'
