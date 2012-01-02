@@ -2,10 +2,10 @@ class ArticleRelation < ActiveRecord::Base
 
   hobo_model # Don't put anything above this
 
-  fields 
+  fields
 
-  belongs_to :relationable, :polymorphic => true
-  belongs_to :article
+  belongs_to :relationable, :polymorphic => true, :accessible => true
+  belongs_to :article, :accessible => true
 
 
   belongs_to :person_to_org_relation,  :class_name => "PersonToOrgRelation",   :foreign_key => "relationable_id"
@@ -35,3 +35,4 @@ class ArticleRelation < ActiveRecord::Base
   end
 
 end
+

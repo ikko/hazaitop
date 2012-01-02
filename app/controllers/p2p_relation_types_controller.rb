@@ -4,6 +4,8 @@ class P2pRelationTypesController < ApplicationController
 
   auto_actions :all
 
+  caches_page :show, :expires_in => 5.minutes
+
   def show
     @this = find_instance
     respond_to do |format| 
