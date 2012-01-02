@@ -17,7 +17,7 @@ class Article < ActiveRecord::Base
     title
   end
 
-  def find_by_name_or_id x
+  def self.find_by_name_or_id x
     find_by_title_or_id x
   end
 
