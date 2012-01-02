@@ -4,7 +4,7 @@ class ArticlesController < ApplicationController
 
   auto_actions :all
 
-  autocomplete :title
+  autocomplete :title, :query_scope => [ :title_contains ]
 
   def new
     fill_drop_down
@@ -40,7 +40,7 @@ class ArticlesController < ApplicationController
     @interorg_relations = @this.interorg_relations.paginate(:per_page=>10, :page=>params[:page])
     @person_to_org_relations = @this.person_to_org_relations.paginate(:per_page=>10, :page=>params[:page])
 
-    respond_to do |format| 
+    respond_to do |format|
       format.html  { hobo_show @this }
       format.xml   { render(:xml => @this) }
       format.json  { render(:json=> @this) }
@@ -49,3 +49,4 @@ class ArticlesController < ApplicationController
 
 
 end
+
