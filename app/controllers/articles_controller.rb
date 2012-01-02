@@ -4,7 +4,7 @@ class ArticlesController < ApplicationController
 
   auto_actions :all
 
-  autocomplete :title, :query_scope => [ :title_contains ]
+  autocomplete :title #, :query_scope => [ :title_contains ]
 
   def new
     fill_drop_down
