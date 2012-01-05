@@ -623,25 +623,26 @@
 
 <def tag="table-plus-article-interpersonal">
   <table-plus fields="person, related_person, p2p_relation_type, information_source" without-search-form merge>
-    <controls:/><!--delete-button/></controls:-->
+    <!--controls:><delete-button/>/controls:-->
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'interpersonal_pagination', :id => @this.id}"/>
   </table-plus>
 </def>
 
 <def tag="table-plus-article-interorg">
   <table-plus fields="organization, related_organization, o2o_relation_type, information_source" without-search-form>
-    <controls:/><!--delete-button/></controls:-->
+    <!--controls:><delete-button/>/controls:-->
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'interorg_pagination', :id => @this.id}"/>
   </table-plus>
 </def>
 
 <def tag="table-plus-article-person-to-org">
   <table-plus fields="person, organization, p2o_relation_type, start_time, end_time, information_source" without-search-form>
-    <controls:/>
+    <!--controls:><delete-button/>/controls:-->
     <end-time-view:>
       <view format="%B %d, %Y" if="&!this_parent.no_end_time"/>
       <ht if="&this_parent.no_end_time" key="custom.not_known">not known</ht>
     </end-time-view:>
+    <!--controls:><delete-button/>/controls:-->
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'person_to_org_pagination', :id => @this.id}"/>
   </table-plus>
 </def>
@@ -666,7 +667,7 @@
 
 <def tag="table-plus-organization-person-to-org">
   <table-plus fields="person, o2p_relation_type, start_time, end_time, information_source" without-search-form>
-    <controls:/>
+    <!--controls:><delete-button/>/controls:-->
     <article-relations-view:>
       <% this.each do |r| %>
         <a href="#{article_path(r.article_id)}"><view with="&r.article.title[0..60].strip + '...'"/></a><br/>
@@ -686,7 +687,7 @@
 
 <def tag="table-plus-organization-interorg">
   <table-plus fields="related_organization, o2o_relation_type, value, currency, vat_incl, contract, tender, information_source" without-search-form>
-    <controls:/>
+    <!--controls:><delete-button/>/controls:-->
     <value-view:>
       <view with="&commify(this)"/>
     </value-view:>
@@ -705,14 +706,14 @@
 
 <def tag="table-plus-organization-financial">
   <table-plus fields="year, balance_sheet_total, turnover" without-search-form>
-    <controls:/>
+    <!--controls:><delete-button/>/controls:-->
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'financial_pagination', :id => @this.id}"/>
   </table-plus>
 </def>
 
 <def tag="table-plus-person-interperson">
   <table-plus fields="related_person, p2p_relation_type, organization, information_source" without-search-form>
-    <controls:/>
+    <!--controls:><delete-button/>/controls:-->
     <article-relations-view:>
       <% this.each do |r| %>
         <a href="#{article_path(r.article_id)}"><view with="&r.article.title[0..60].strip + '...'"/></a><br/>
@@ -728,7 +729,7 @@
 
 <def tag="table-plus-person-person-to-org">
   <table-plus fields="organization, p2o_relation_type, start_time, end_time, information_source" without-search-form>
-    <controls:/>
+    <!--controls:><delete-button/>/controls:-->
     <article-relations-view:>
       <% this.each do |r| %>
         <a href="#{article_path(r.article_id)}"><view with="&r.article.title[0..60].strip + '...'"/></a><br/>
@@ -748,7 +749,7 @@
 
 <def tag="table-plus-person-history">
   <table-plus fields="user, updated_at" without-search-form>
-    <controls:/>
+    <!--controls:><delete-button/>/controls:-->
     <page-nav: previous-label="&laquo;" next-label="&raquo;"/>
   </table-plus>
 </def>
@@ -760,7 +761,11 @@
       <hjq-assets/>
     </append-custom-scripts:-->
     <field-list: fields="address, phone, fax, email_address, internet_address, trade_register_nr, tax_nr, number_of_employees, information_source, activities">
-      <controls:/>
+      <!--controls:>
+        <if test="&current_user.supervisor? or current_user.editor? or current.user.administrator?">
+          <delete-button/>
+        </if>
+      /controls:-->
     </field-list:>
     <heading: class="left"/>
     <after-heading:>
@@ -1033,21 +1038,6 @@
   </card>
 </def>
 
-<def tag="form" for="InterpersonalRelation">
-  <form merge param="default">
-    <error-messages param/>
-    <field-list fields="start_time, end_time, no_end_time, articles, information_source, litigations, p2p_relation_type">
-      <articles-view:>
-        <name-one:article/>
-      </articles-view:>
-    </field-list>
-    <div param="actions">
-      <submit label="#{ht 'interpersonal_relations.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
-    </div>
-  </form>
-</def>
-
-
 <def tag="card" for="P2oRelationType">
   <card class="p2o-relation-type" param="default" merge>
     <header: param>
@@ -1065,4 +1055,3 @@
     </header:>
   </card>
 </def>
-
