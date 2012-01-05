@@ -318,9 +318,6 @@
               <start-time-view:>
                 <input start-year="&Time.now.year-50" end-year="&Time.now.year"/>
               </start-time-view:>
-              <articles-view:>
-                <select-many options="&@recent_articles"/> | <a href="&new_article_path"  target="_blank"><ht key="custom.new">new</ht></a>
-              </articles-view:>
               <end-time-view: class="end-time-toggler" style="display:#{this_parent.no_end_time ? ' none;' : ' block;'}">
                 <input start-year="&Time.now.year-50" end-year="&Time.now.year+50"/>
               </end-time-view:>
@@ -1036,10 +1033,13 @@
 <def tag="form" for="InterpersonalRelation">
   <form merge param="default">
     <error-messages param/>
-    <field-list fields="start_time, end_time, no_end_time, articles, information_source, litigations, p2p_relation_type">
-      <articles-view:>
-        <name-one:article/>
-      </articles-view:>
+    <field-list fields="start_time, end_time, no_end_time, article_relations, information_source, litigations, p2p_relation_type">
+      <article-relations-view:>
+        <input-many>
+          <a:article default="_blank"><view:id/></a>
+          <name-one:article/>
+        </input-many>
+      </article-relations-view:>
     </field-list>
     <div param="actions">
       <submit label="#{ht 'interpersonal_relations.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
@@ -1047,6 +1047,39 @@
   </form>
 </def>
 
+<def tag="form" for="PersonToOrgRelation">
+  <form merge param="default">
+    <error-messages param/>
+    <field-list fields="start_time, end_time, no_end_time, article_relations, information_source, litigations, p2o_relation_type">
+      <article-relations-view:>
+        <input-many>
+          <a:article default="_blank"><view:id/></a>
+          <name-one:article/>
+        </input-many>
+      </article-relations-view:>
+    </field-list>
+    <div param="actions">
+      <submit label="#{ht 'interpersonal_relations.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
+    </div>
+  </form>
+</def>
+
+<def tag="form" for="InterOrgRelation">
+  <form merge param="default">
+    <error-messages param/>
+    <field-list fields="start_time, end_time, no_end_time, article_relations, information_source, litigations, o2o_relation_type">
+      <article-relations-view:>
+        <input-many>
+          <a:article default="_blank"><view:id/></a>
+          <name-one:article/>
+        </input-many>
+      </article-relations-view:>
+    </field-list>
+    <div param="actions">
+      <submit label="#{ht 'interpersonal_relations.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
+    </div>
+  </form>
+</def>
 
 <def tag="card" for="P2oRelationType">
   <card class="p2o-relation-type" param="default" merge>

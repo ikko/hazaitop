@@ -4,6 +4,7 @@ class Article < ActiveRecord::Base
 
   fields do
     title   :text
+    name    :text
     summary :text
     internet_address :string, :required, :unique
     weblink :string
@@ -11,10 +12,6 @@ class Article < ActiveRecord::Base
     issued_at    :date
     search_result_count           :integer, :default => 0
     timestamps
-  end
-
-  def name
-    title
   end
 
 #  def self.find_by_name x
