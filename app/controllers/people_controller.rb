@@ -116,7 +116,7 @@ class PeopleController < ApplicationController
   end
 
   def index
-    @this = Person.order_by(:interpersonal_relations_count, 'desc')
+    @this = Person.order_by(:name)
     respond_to do |format| 
       format.html  { hobo_index( @this, :per_page => 10 ) }
       format.xml   { render( :xml  => @this ) and return }
@@ -159,8 +159,7 @@ class PeopleController < ApplicationController
   end
 
   index_action :list do
-    hobo_index Person.order_by(params['sort'].to_sym), :per_page=>10
-    render :index
+    @people = Person.order_by(params[:sort].try.to_sym || :name).paginate(:per_page=>10, :page=>params[:page])
   end
 
   show_action :merge do

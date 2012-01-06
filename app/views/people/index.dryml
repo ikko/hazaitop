@@ -1,15 +1,36 @@
-<index-page>
-  <count:>
-    <ht key="people.collection.count" count="&Person.count">
-      There <count prefix="are"/>
-    </ht>
-  </count:>
-  <top-page-nav: inner-window="10" />
-  <bottom-page-nav: inner-window="10" />
-  <prepend-content-body:>
-    <div id="index_page_order">
-      <a class="button" href="/people/list?sort=name">ABC szerint</a>
-      <a class="button" href="/people/list?sort=created_at">Beviteli sorrendben</a>
+<index-page without-count without-top-page-nav without-bottom-page-nav without-content-header>
+  <append-head:>
+    <script>
+      (function($) {
+        $(function(){
+
+          $("#people_content .pagination a").live('click', function(e) {
+            $(this).html(spinnerImg);
+            $.ajax({url: $(this).attr('href'), success: function(data) {$("#people_content").html(data)}});
+            e.preventDefault();
+          });
+          $("#people_content .order_list a").live('click', function(e) {
+            $(this).html(spinnerImg);
+            $.ajax({url: $(this).attr('href'), success: function(data) {$("#people_content").html(data)}});
+            e.preventDefault();
+          });
+        });
+      })(jQuery)
+    </script>
+  </append-head:>
+  <collection: replace>
+    <div class="tabs" style="margin-top:36px">
+      <div class="tab active"><a href="#people_content">SZEMÉLYEK</a></div>
     </div>
-  </prepend-content-body:>
+    <div id="people_content">
+      <table-plus-person fields="this, interpersonal_relations_count, selected_organization,  information_source" with="&@people" without-table-footer>
+        <order-list:>
+          <a href="/people/list?sort=-name" class="left #{!params[:sort] || params[:sort]=='-name' ? 'active' : ''}">ABC szerint</a>
+          <div class="separator left">|</div>
+          <a href="/people/list?sort=-updated_at" class="left #{params[:sort] && params[:sort]=='-updated_at' ? 'active' : ''}">Beviteli sorrendben</a>
+        </order-list:>
+        <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{ :action=> 'list', :sort=>params[:sort]}"/>
+      </table-plus-person>
+    </div>
+  </collection:>
 </index-page>
