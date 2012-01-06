@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class LitigationsController < ApplicationController
 
   hobo_model_controller
@@ -32,3 +33,4 @@ class LitigationsController < ApplicationController
     @this = find_instance
   end
 end
+

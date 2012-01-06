@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class HoboMigration14 < ActiveRecord::Migration
   def self.up
     add_column :o2o_relation_types, :litig, :boolean, :default => false
@@ -19,3 +20,4 @@ class HoboMigration14 < ActiveRecord::Migration
     remove_column :o2p_relation_types, :litig
   end
 end
+

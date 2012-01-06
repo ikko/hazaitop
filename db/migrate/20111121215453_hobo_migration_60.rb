@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class HoboMigration60 < ActiveRecord::Migration
   def self.up
     remove_column :contracts, :tender_date
@@ -9,3 +10,4 @@ class HoboMigration60 < ActiveRecord::Migration
     add_column :contracts, :tender_number, :string
   end
 end
+

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class ArticleRelation < ActiveRecord::Base
 
   hobo_model # Don't put anything above this
@@ -35,4 +36,5 @@ class ArticleRelation < ActiveRecord::Base
   end
 
 end
+
 

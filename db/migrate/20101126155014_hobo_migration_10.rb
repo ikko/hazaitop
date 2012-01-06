@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class HoboMigration10 < ActiveRecord::Migration
   def self.up
     drop_table :financial_datas
@@ -28,3 +29,4 @@ class HoboMigration10 < ActiveRecord::Migration
     drop_table :financials
   end
 end
+

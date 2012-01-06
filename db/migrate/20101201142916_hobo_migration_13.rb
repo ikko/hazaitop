@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class HoboMigration13 < ActiveRecord::Migration
   def self.up
     add_column :interpersonal_relations, :visual, :boolean, :default => true
@@ -31,3 +32,4 @@ class HoboMigration13 < ActiveRecord::Migration
     remove_column :o2p_relation_types, :visual
   end
 end
+

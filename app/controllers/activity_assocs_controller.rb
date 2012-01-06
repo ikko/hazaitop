@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class ActivityAssocsController < ApplicationController
 
   hobo_model_controller
@@ -5,3 +6,4 @@ class ActivityAssocsController < ApplicationController
   auto_actions :all
 
 end
+

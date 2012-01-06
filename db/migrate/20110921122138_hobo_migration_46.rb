@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class HoboMigration46 < ActiveRecord::Migration
   def self.up
     add_column :articles, :state, :string, :default => "normal"
@@ -13,3 +14,4 @@ class HoboMigration46 < ActiveRecord::Migration
     remove_index :articles, :name => :index_articles_on_state rescue ActiveRecord::StatementInvalid
   end
 end
+

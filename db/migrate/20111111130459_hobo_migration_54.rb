@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class HoboMigration54 < ActiveRecord::Migration
   def self.up
     add_column :interorg_relations, :happened_at, :date
@@ -11,3 +12,4 @@ class HoboMigration54 < ActiveRecord::Migration
     remove_column :contracts, :issued_at
   end
 end
+

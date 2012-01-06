@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class FrontsController < ApplicationController
 
   hobo_model_controller
@@ -5,3 +6,4 @@ class FrontsController < ApplicationController
   auto_actions :all
 
 end
+

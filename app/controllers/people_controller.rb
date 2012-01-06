@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class PeopleController < ApplicationController
 
   hobo_model_controller
@@ -179,3 +180,4 @@ class PeopleController < ApplicationController
   end
 
 end
+

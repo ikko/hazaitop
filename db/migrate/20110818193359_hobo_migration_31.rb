@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class HoboMigration31 < ActiveRecord::Migration
   def self.up
     add_column :articles, :processed_at, :date
@@ -13,3 +14,4 @@ class HoboMigration31 < ActiveRecord::Migration
     remove_index :articles, :name => :index_articles_on_user_id rescue ActiveRecord::StatementInvalid
   end
 end
+

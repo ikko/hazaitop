@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 namespace :upgrade do
 
   desc 'weblink, domain and host information'

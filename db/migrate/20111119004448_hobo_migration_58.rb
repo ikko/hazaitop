@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class HoboMigration58 < ActiveRecord::Migration
   def self.up
     remove_column :interorg_relations, :case_number
@@ -7,3 +8,4 @@ class HoboMigration58 < ActiveRecord::Migration
     add_column :interorg_relations, :case_number, :string
   end
 end
+

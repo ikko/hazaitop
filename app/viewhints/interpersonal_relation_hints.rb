@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class InterpersonalRelationHints < Hobo::ViewHints
 
   # model_name "My Model"
@@ -8,3 +9,4 @@ class InterpersonalRelationHints < Hobo::ViewHints
   children :articles
 
 end
+

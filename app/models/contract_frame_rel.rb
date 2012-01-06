@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class ContractFrameRel < ActiveRecord::Base
 
   hobo_model # Don't put anything above this
@@ -30,3 +31,4 @@ class ContractFrameRel < ActiveRecord::Base
   end
 
 end
+

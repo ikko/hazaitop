@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class HoboMigration33 < ActiveRecord::Migration
   def self.up
     add_column :notifications, :contracted_value, :integer
@@ -7,3 +8,4 @@ class HoboMigration33 < ActiveRecord::Migration
     remove_column :notifications, :contracted_value
   end
 end
+

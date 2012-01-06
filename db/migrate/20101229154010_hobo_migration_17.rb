@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class HoboMigration17 < ActiveRecord::Migration
   def self.up
     add_column :interpersonal_relations, :weblink, :string
@@ -15,3 +16,4 @@ class HoboMigration17 < ActiveRecord::Migration
     remove_column :person_to_org_relations, :weblink
   end
 end
+

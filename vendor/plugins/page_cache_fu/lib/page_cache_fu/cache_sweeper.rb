@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module PageCacheFu
   module CacheSweeper
     def self.sweep_if_expired(file, options={})
@@ -24,3 +25,4 @@ module PageCacheFu
     end
   end
 end
+

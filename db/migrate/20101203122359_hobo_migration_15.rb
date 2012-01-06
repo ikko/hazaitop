@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class HoboMigration15 < ActiveRecord::Migration
   def self.up
     change_column :p2o_relation_types, :weight, :float, :limit => nil
@@ -15,3 +16,4 @@ class HoboMigration15 < ActiveRecord::Migration
     change_column :o2p_relation_types, :weight, :integer
   end
 end
+

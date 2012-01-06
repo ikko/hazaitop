@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require File.dirname(__FILE__) + '/../test_helper'
 
 class PersonToOrgRelationTest < ActiveSupport::TestCase
@@ -6,3 +7,4 @@ class PersonToOrgRelationTest < ActiveSupport::TestCase
     assert true
   end
 end
+

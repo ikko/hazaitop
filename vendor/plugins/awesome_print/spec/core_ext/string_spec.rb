@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require File.expand_path(File.dirname(__FILE__) + '/../spec_helper')
 
 describe "String extensions" do
@@ -18,3 +19,4 @@ describe "String extensions" do
     "whiteish".send(:whiteish).should == "\e[0;37mwhiteish\e[0m"
   end
 end
+

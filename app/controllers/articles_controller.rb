@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class ArticlesController < ApplicationController
 
   hobo_model_controller
@@ -49,4 +50,5 @@ class ArticlesController < ApplicationController
 
 
 end
+
 

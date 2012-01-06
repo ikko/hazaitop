@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class Admin::AdminSiteController < ApplicationController
 
   hobo_controller
@@ -11,3 +12,4 @@ class Admin::AdminSiteController < ApplicationController
   end  
   
 end
+

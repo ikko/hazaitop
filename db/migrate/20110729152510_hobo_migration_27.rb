@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class HoboMigration27 < ActiveRecord::Migration
   def self.up
     create_table :contract_type_rels do |t|
@@ -141,3 +142,4 @@ class HoboMigration27 < ActiveRecord::Migration
     remove_index :interorg_relations, :name => :index_interorg_relations_on_contract_id rescue ActiveRecord::StatementInvalid
   end
 end
+

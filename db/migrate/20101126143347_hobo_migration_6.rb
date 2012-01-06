@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class HoboMigration6 < ActiveRecord::Migration
   def self.up
     add_column :interpersonal_relations, :start_time, :date
@@ -9,3 +10,4 @@ class HoboMigration6 < ActiveRecord::Migration
     remove_column :interpersonal_relations, :end_time
   end
 end
+

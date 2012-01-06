@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class LitigationRelation < ActiveRecord::Base
 
   hobo_model # Don't put anything above this
@@ -39,3 +40,4 @@ class LitigationRelation < ActiveRecord::Base
   end
 
 end
+

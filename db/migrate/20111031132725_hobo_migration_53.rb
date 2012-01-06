@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class HoboMigration53 < ActiveRecord::Migration
   def self.up
     add_column :o2o_relation_types, :label, :string
@@ -19,3 +20,4 @@ class HoboMigration53 < ActiveRecord::Migration
     remove_column :o2p_relation_types, :label
   end
 end
+

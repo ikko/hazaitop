@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require File.expand_path(File.dirname(__FILE__) + '/spec_helper')
 
 describe "Single method" do
@@ -446,3 +447,4 @@ describe "Methods arrays" do
     (hello.send(:his) - hello.send(:her)).sort_by { |x| x.to_s }.should == [ :him, :his ]
   end
 end
+

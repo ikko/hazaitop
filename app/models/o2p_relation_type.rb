@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class O2pRelationType < ActiveRecord::Base
 
   hobo_model # Don't put anything above this
@@ -42,3 +43,4 @@ class O2pRelationType < ActiveRecord::Base
   end
 
 end
+

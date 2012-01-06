@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class HoboMigration23 < ActiveRecord::Migration
   def self.up
     add_column :information_sources, :domain_name, :string
@@ -17,3 +18,4 @@ class HoboMigration23 < ActiveRecord::Migration
     remove_index :article_relations, :name => :index_article_relations_on_relationable_id rescue ActiveRecord::StatementInvalid
   end
 end
+

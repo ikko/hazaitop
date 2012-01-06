@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class BuyerTypeRelHints < Hobo::ViewHints
 
   # model_name "My Model"
@@ -5,3 +6,4 @@ class BuyerTypeRelHints < Hobo::ViewHints
   # field_help :field1 => "Enter what you want in this field"
   # children :primary_collection1, :aside_collection1, :aside_collection2
 end
+

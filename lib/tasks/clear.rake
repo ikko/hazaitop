@@ -1,5 +1,16 @@
+# -*- encoding : utf-8 -*-
 
 namespace :clear do
+  desc "set company tag for company orgs"
+  task "company" => :environment do
+    Organization.all.each do |o|
+      puts o.name
+      # o.tax_nr = nil
+      # o.trade_register_nr = nil
+      puts o.save
+    end
+  end
+
 
   desc "clear tax_nr for onkormanyzat"
   task "onkori" => :environment do

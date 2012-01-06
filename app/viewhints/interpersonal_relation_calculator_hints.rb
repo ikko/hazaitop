@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class InterpersonalRelationCalculatorHints < Hobo::ViewHints
 
   # model_name "My Model"
@@ -7,3 +8,4 @@ class InterpersonalRelationCalculatorHints < Hobo::ViewHints
 
 
 end
+

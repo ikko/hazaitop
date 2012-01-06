@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module AwesomePrint
   module Mongoid
 
@@ -32,3 +33,4 @@ module AwesomePrint
 end
 
 AwesomePrint::Formatter.send(:include, AwesomePrint::Mongoid)
+

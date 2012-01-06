@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 namespace :update do
   desc 'update counter cache'
   task :counters => :environment do

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class HoboMigration11 < ActiveRecord::Migration
   def self.up
     add_column :organizations, :number_of_employees, :integer
@@ -7,3 +8,4 @@ class HoboMigration11 < ActiveRecord::Migration
     remove_column :organizations, :number_of_employees
   end
 end
+

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class HoboMigration16 < ActiveRecord::Migration
   def self.up
     add_column :organizations, :klink, :string
@@ -11,3 +12,4 @@ class HoboMigration16 < ActiveRecord::Migration
     remove_column :people, :klink
   end
 end
+

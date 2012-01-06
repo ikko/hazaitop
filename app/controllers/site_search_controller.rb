@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class SiteSearchController < ApplicationController
 
   hobo_controller
@@ -406,3 +407,4 @@ class SiteSearchController < ApplicationController
     render :nothing => true
   end
 end
+

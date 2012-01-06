@@ -1,23 +1,15 @@
+# encoding: UTF-8
 module Textual
 
   def to_textual_id
+    
     foo = self.downcase.strip
-    foo.gsub!(/[ĄÀ�?ÂÃâäàãáäå�?ăąǎǟǡǻ�?ȃȧẵặ]/,'a')
-    foo.gsub!(/[Ęëêéèẽēĕėẻȅȇẹȩęḙḛ�?ếễểḕḗệ�?]/,'e')
-    foo.gsub!(/[Ì�?ÎĨ�?iìíîĩīĭỉ�?ịįȉȋḭɨḯ]/,'i')
-              foo.gsub!(/[ÒÓÔÕÖòóôõ�?�?ȯö�?őǒ�?�?ơǫ�?ɵøồốỗổȱȫȭ�?�?ṑṓ�?ớỡởợǭộǿ]/,'o')
-              foo.gsub!(/[ÙÚÛŨÜùúûũūŭüủůűǔȕȗưụṳųṷṵṹṻǖǜǘǖǚừứữửự]/,'u')
-              foo.gsub!(/[ỳýŷỹȳ�?ÿỷẙƴỵ]/,'y')
-              foo.gsub!(/[œ]/,'oe')
-              foo.gsub!(/[ÆǼǢæ]/,'ae')
-              foo.gsub!(/[ñǹńŃ]/,'n')
-              foo.gsub!(/[ÇçćĆ]/,'c')
-              foo.gsub!(/[ß]/,'ss')
-              foo.gsub!(/[œ]/,'oe')
-              foo.gsub!(/[ĳ]/,'ij')
-              foo.gsub!(/[�?łŁ]/,'l')
-              foo.gsub!(/[śŚ]/,'s')
-              foo.gsub!(/[źżŹŻ]/,'z')
+#   foo.gsub!(/[Áá]/,'a')
+#   foo.gsub!(/[Éé]/,'e')
+#    foo.gsub!(/[Íí]/,'i')
+#              foo.gsub!(/[ÓÖŐóöő]/,'o')
+#              foo.gsub!(/[ÚÜŰúüű]/,'u')
+#              foo.gsub!(/[ß]/,'ss')
               foo.gsub!(/[\s\'\"\\\/\?\.\=\+\&\%]$/,'')
               foo.gsub!(/[\s\'\"\\\/\?\.\=\+\&\%\(\)]/,'-')
               foo.gsub!(/[:]/,'')

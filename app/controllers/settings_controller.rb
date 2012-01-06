@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class SettingsController < ApplicationController
 
   hobo_model_controller
@@ -5,3 +6,4 @@ class SettingsController < ApplicationController
   auto_actions :index
 
 end
+

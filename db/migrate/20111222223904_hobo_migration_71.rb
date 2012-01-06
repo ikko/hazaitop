@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class HoboMigration71 < ActiveRecord::Migration
   def self.up
     add_column :organizations, :complex_xml, :text
@@ -11,3 +12,4 @@ class HoboMigration71 < ActiveRecord::Migration
     remove_column :people, :complex_xml
   end
 end
+

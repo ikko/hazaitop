@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class FrontController < ApplicationController
 
   hobo_model_controller
@@ -218,3 +219,4 @@ private
     Article.search(params[:query], :title).paginate(:per_page=>10, :page=>params[:page])
   end
 end
+

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class HoboMigration3 < ActiveRecord::Migration
   def self.up
     drop_table :affairs
@@ -47,3 +48,4 @@ class HoboMigration3 < ActiveRecord::Migration
 
   end
 end
+

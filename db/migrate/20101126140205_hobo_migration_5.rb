@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class HoboMigration5 < ActiveRecord::Migration
   def self.up
     add_column :organization_grade_assocs, :organization_id, :integer
@@ -29,3 +30,4 @@ class HoboMigration5 < ActiveRecord::Migration
     remove_index :interpersonal_relation_calculators, :name => :matrix rescue ActiveRecord::StatementInvalid
   end
 end
+

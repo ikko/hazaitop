@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class OrganizationsController < ApplicationController
 
   hobo_model_controller
@@ -174,3 +175,4 @@ class OrganizationsController < ApplicationController
     render :show
   end
 end
+

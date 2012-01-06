@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class HoboMigration49 < ActiveRecord::Migration
   def self.up
     Organization.all.each do |org|
@@ -9,3 +10,4 @@ class HoboMigration49 < ActiveRecord::Migration
   def self.down
   end
 end
+
