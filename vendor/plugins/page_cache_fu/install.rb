@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require 'ftools'
 
 # Install page_cache_sweeper into the local script directory.
@@ -19,3 +20,4 @@ else
   File.copy src_sweeper_file, dest_sweeper_file
   puts "Installation successful. The page_cache_sweeper script has been installed into #{dest_sweeper_file}."
 end  
+

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require File.dirname(__FILE__) + '/../test_helper'
 
 class AnnouncementsControllerTest < ActionController::TestCase
@@ -6,3 +7,4 @@ class AnnouncementsControllerTest < ActionController::TestCase
     assert true
   end
 end
+

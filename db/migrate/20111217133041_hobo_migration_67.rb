@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class HoboMigration67 < ActiveRecord::Migration
   def self.up
     add_column :organizations, :ksh_number_from, :date
@@ -15,3 +16,4 @@ class HoboMigration67 < ActiveRecord::Migration
     add_column :organizations, :law_successor_cgjsz, :string
   end
 end
+

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class HoboMigration52 < ActiveRecord::Migration
   def self.up
     add_column :organizations, :merge_from_id, :integer
@@ -11,3 +12,4 @@ class HoboMigration52 < ActiveRecord::Migration
     remove_index :organizations, :name => :index_organizations_on_merge_from_id rescue ActiveRecord::StatementInvalid
   end
 end
+

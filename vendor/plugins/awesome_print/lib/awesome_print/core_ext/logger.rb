@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Copyright (c) 2010-2011 Michael Dvorkin
 #
 # Awesome Print is freely distributable under the terms of MIT license.
@@ -18,3 +19,4 @@ end
 
 Logger.send(:include, AwesomePrint::Logger)
 ActiveSupport::BufferedLogger.send(:include, AwesomePrint::Logger) if defined?(::ActiveSupport::BufferedLogger)
+

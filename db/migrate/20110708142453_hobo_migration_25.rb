@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class HoboMigration25 < ActiveRecord::Migration
   def self.up
     create_table :person_saves do |t|
@@ -54,3 +55,4 @@ class HoboMigration25 < ActiveRecord::Migration
     remove_index :interpersonal_relation_calculators, :name => :index_interpersonal_relation_calculators_on_p2o_relation_type_id rescue ActiveRecord::StatementInvalid
   end
 end
+

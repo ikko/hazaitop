@@ -116,22 +116,30 @@
         <collection-transaction with="&@transactions"/>
       </div>
     <% else %>
-      <div class="details_header">Személyek:</div>
-      <div id="people_content">
-        <collection-person with="&@people"/>
-      </div>
-      <div class="details_header">Szervezetek:</div>
-      <div id="orgs_content">
-        <collection-organization with="&@organizations"/>
-      </div>
-      <div class="details_header">Perek:</div>
-      <div id="litigs_content">
-        <collection-litigation with="&@litigations"/>
-      </div>
-      <div class="details_header">Cikkek:</div>
-      <div id="arts_content">
-        <collection-article with="&@articles"/>
-      </div>
+      <if test="&params[:person]">
+        <div class="details_header">Személyek:</div>
+        <div id="people_content">
+          <collection-person with="&@people"/>
+        </div>
+      </if>
+      <if test="&params[:organization]">
+        <div class="details_header">Szervezetek:</div>
+        <div id="orgs_content">
+          <collection-organization with="&@organizations"/>
+        </div>
+      </if>
+        <if test="&params[:litigation]">
+        <div class="details_header">Perek:</div>
+        <div id="litigs_content">
+          <collection-litigation with="&@litigations"/>
+        </div>
+      </if>
+      <if test="&params[:article]">
+        <div class="details_header">Cikkek:</div>
+        <div id="arts_content">
+          <collection-article with="&@articles"/>
+        </div>
+      </if>
     <% end %>
   </content:>
 </page>

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class InformationSource < ActiveRecord::Base
 
   hobo_model # Don't put anything above this
@@ -39,3 +40,4 @@ class InformationSource < ActiveRecord::Base
   end
 
 end
+

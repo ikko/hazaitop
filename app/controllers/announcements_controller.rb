@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class AnnouncementsController < ApplicationController
 
   hobo_model_controller
@@ -5,3 +6,4 @@ class AnnouncementsController < ApplicationController
   auto_actions :all
 
 end
+

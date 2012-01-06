@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class HoboMigration66 < ActiveRecord::Migration
   def self.up
     create_table :announcements do |t|
@@ -49,3 +50,4 @@ class HoboMigration66 < ActiveRecord::Migration
     drop_table :announcements
   end
 end
+

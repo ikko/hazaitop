@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class PlaceOfBirthsController < ApplicationController
 
   hobo_model_controller
@@ -17,3 +18,4 @@ class PlaceOfBirthsController < ApplicationController
 
 
 end
+

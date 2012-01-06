@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class ContractsController < ApplicationController
 
   hobo_model_controller
@@ -5,3 +6,4 @@ class ContractsController < ApplicationController
   auto_actions :all
 
 end
+

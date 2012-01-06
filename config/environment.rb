@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Be sure to restart your server when you modify this file
 # HOBO_SHOW_LOCALE_KEYS = true
 
@@ -70,3 +71,4 @@ ActionMailer::Base.smtp_settings = {
    :user_name => "info",
    :password => "kalapacsvetes9",
 }
+

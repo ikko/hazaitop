@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class HoboMigration44 < ActiveRecord::Migration
   def self.up
     add_column :tenders, :url, :string
@@ -7,3 +8,4 @@ class HoboMigration44 < ActiveRecord::Migration
     remove_column :tenders, :url
   end
 end
+

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class NotificationsController < ApplicationController
 
   hobo_model_controller
@@ -7,3 +8,4 @@ class NotificationsController < ApplicationController
   autocomplete
 
 end
+

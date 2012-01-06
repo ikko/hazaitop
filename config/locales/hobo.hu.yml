@@ -15,7 +15,7 @@ hu:
 
       show:
         title: "%{model}"
-        heading: "%{model}"
+        heading: "model"
         back_link: "Visza"
         edit_link: "%{model} szerkesztés"
         new_link: "Új %{model}"

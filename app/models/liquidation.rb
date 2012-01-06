@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class Liquidation < ActiveRecord::Base
 
   hobo_model # Don't put anything above this
@@ -35,3 +36,4 @@ class Liquidation < ActiveRecord::Base
   end
 
 end
+

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class Cpv < ActiveRecord::Base
 
   hobo_model # Don't put anything above this
@@ -29,3 +30,4 @@ class Cpv < ActiveRecord::Base
   end
 
 end
+

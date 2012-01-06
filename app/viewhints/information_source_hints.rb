@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class InformationSourceHints < Hobo::ViewHints
 
    field_help :web => "starts with http://"
@@ -7,3 +8,4 @@ class InformationSourceHints < Hobo::ViewHints
   # field_help :field1 => "Enter what you want in this field"
   # children :primary_collection1, :aside_collection1, :aside_collection2
 end
+

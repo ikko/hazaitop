@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class HoboMigration20 < ActiveRecord::Migration
   def self.up
     create_table :article_relations do |t|
@@ -37,3 +38,4 @@ class HoboMigration20 < ActiveRecord::Migration
     add_index :person_to_org_relations, [:article_id]
   end
 end
+

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require 'ftools'
 
 # Remove page_cache_sweeper from the local script directory.
@@ -18,3 +19,4 @@ else
   File.delete dest_sweeper_file
   puts "Uninstallation successful. The page_cache_sweeper script has been removed from the script directory."
 end  
+

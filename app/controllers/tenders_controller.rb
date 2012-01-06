@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class TendersController < ApplicationController
 
   hobo_model_controller
@@ -5,3 +6,4 @@ class TendersController < ApplicationController
   auto_actions :all
 
 end
+

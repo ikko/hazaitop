@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class HoboMigration2 < ActiveRecord::Migration
   def self.up
     add_column :litigations, :information_source_id, :integer
@@ -11,3 +12,4 @@ class HoboMigration2 < ActiveRecord::Migration
     remove_index :litigations, :name => :index_litigations_on_information_source_id rescue ActiveRecord::StatementInvalid
   end
 end
+

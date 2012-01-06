@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class LitigationRelationsController < ApplicationController
 
   hobo_model_controller
@@ -15,3 +16,4 @@ class LitigationRelationsController < ApplicationController
 
 
 end
+

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module PageCacheFu
   module Patches
     module CachingPagesClassMethods
@@ -82,3 +83,4 @@ module PageCacheFu
     end
   end
 end
+

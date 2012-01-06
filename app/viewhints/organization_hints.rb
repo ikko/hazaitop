@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class OrganizationHints < Hobo::ViewHints
 
   # model_name "My Model"
@@ -6,3 +7,4 @@ class OrganizationHints < Hobo::ViewHints
   # children :primary_collection1, :aside_collection1, :aside_collection2
   
 end
+

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class HoboMigration7 < ActiveRecord::Migration
   def self.up
     create_table :activity_assocs do |t|
@@ -38,3 +39,4 @@ class HoboMigration7 < ActiveRecord::Migration
     remove_index :organizations, :name => :index_organizations_on_sector_id rescue ActiveRecord::StatementInvalid
   end
 end
+

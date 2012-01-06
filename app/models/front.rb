@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class Front < ActiveRecord::Base
 
   hobo_model # Don't put anything above this
@@ -26,3 +27,4 @@ class Front < ActiveRecord::Base
   end
 
 end
+

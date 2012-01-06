@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class Organization < ActiveRecord::Base
 
   hobo_model # Don't put anything above this
@@ -36,6 +37,7 @@ class Organization < ActiveRecord::Base
     timestamps
     complex_xml :text
     search_result_count           :integer, :default => 0
+    company :boolean, :default => false
   end
 
   belongs_to :merge_from, :class_name => "Organization"
@@ -131,6 +133,14 @@ class Organization < ActiveRecord::Base
     r.name = r.name.try.gsub('"','').strip
   end
 
+  before_save do |r|
+    r.company = true if r.name.downcase.include?('rt')
+    r.company = true if r.name.downcase.include?('kft')
+    r.company = true if r.name.downcase.include?('bt')
+    r.company = true if r.name.downcase.include?('llalat') # vállalat
+    r.company = true if r.name.downcase.include?('rsas') # társaság
+  end
+
   # --- Permissions --- #
   def create_permitted?
     acting_user.administrator? || (acting_user.editor? && user.id == acting_user.id)
@@ -149,3 +159,4 @@ class Organization < ActiveRecord::Base
   end
 
 end
+

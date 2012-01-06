@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class HoboMigration61 < ActiveRecord::Migration
   def self.up
     add_column :articles, :issued_at, :date
@@ -7,3 +8,4 @@ class HoboMigration61 < ActiveRecord::Migration
     remove_column :articles, :issued_at
   end
 end
+

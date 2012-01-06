@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class PlaceOfBirth < ActiveRecord::Base
 
   hobo_model # Don't put anything above this
@@ -27,3 +28,4 @@ class PlaceOfBirth < ActiveRecord::Base
   end
 
 end
+

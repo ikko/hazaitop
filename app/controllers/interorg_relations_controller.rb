@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class InterorgRelationsController < ApplicationController
 
   hobo_model_controller
@@ -23,3 +24,4 @@ class InterorgRelationsController < ApplicationController
   end
 
 end
+

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class Guest < Hobo::Guest
 
   def administrator?
@@ -13,3 +14,4 @@ class Guest < Hobo::Guest
   end
 
 end
+

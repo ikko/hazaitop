@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require 'dispatcher'
 #require 'lib/page_cache_fu.rb'
 Dispatcher.to_prepare do
@@ -21,4 +22,5 @@ Dispatcher.to_prepare do
   end
 
 end
+
 

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class HoboMigration64 < ActiveRecord::Migration
   def self.up
     add_column :o2o_relation_types, :parsed, :boolean, :default => false
@@ -19,3 +20,4 @@ class HoboMigration64 < ActiveRecord::Migration
     add_column :o2p_relation_types, :role, :string
   end
 end
+

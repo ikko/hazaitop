@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class HoboMigration19 < ActiveRecord::Migration
   def self.up
     add_column :interpersonal_relations, :article_id, :integer
@@ -37,3 +38,4 @@ class HoboMigration19 < ActiveRecord::Migration
     add_index :articles, [:articable_type, :articable_id]
   end
 end
+

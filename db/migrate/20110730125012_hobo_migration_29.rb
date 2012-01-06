@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class HoboMigration29 < ActiveRecord::Migration
   def self.up
     add_column :contracts, :s_vat_incl, :boolean
@@ -15,3 +16,4 @@ class HoboMigration29 < ActiveRecord::Migration
     add_column :contracts, :vat_incl, :boolean
   end
 end
+

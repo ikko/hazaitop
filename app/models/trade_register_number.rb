@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class TradeRegisterNumber < ActiveRecord::Base
 
   hobo_model # Don't put anything above this
@@ -32,3 +33,4 @@ class TradeRegisterNumber < ActiveRecord::Base
   end
 
 end
+

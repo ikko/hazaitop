@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class PersonToOrgRelation < ActiveRecord::Base
 
   hobo_model # Don't put anything above this
@@ -176,3 +177,4 @@ class PersonToOrgRelation < ActiveRecord::Base
   end
 
 end
+

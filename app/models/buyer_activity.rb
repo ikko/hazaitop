@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class BuyerActivity < ActiveRecord::Base
 
   hobo_model # Don't put anything above this
@@ -31,3 +32,4 @@ class BuyerActivity < ActiveRecord::Base
   end
 
 end
+

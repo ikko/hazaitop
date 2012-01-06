@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class UsersController < ApplicationController
 
   hobo_user_controller
@@ -25,3 +26,4 @@ class UsersController < ApplicationController
   end
 
 end
+

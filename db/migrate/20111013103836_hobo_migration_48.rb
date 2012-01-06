@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class HoboMigration48 < ActiveRecord::Migration
   def self.up
     add_column :organizations, :financials_count, :integer, :default => 0
@@ -11,3 +12,4 @@ class HoboMigration48 < ActiveRecord::Migration
     change_column :organizations, :person_to_org_relations_count, :integer
   end
 end
+

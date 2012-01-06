@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class HoboMigration74 < ActiveRecord::Migration
   def self.up
     add_column :organizations, :search_result_count, :integer, :default => 0
@@ -23,3 +24,4 @@ class HoboMigration74 < ActiveRecord::Migration
     remove_column :articles, :search_result_count
   end
 end
+

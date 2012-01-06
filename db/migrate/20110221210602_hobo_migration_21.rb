@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class HoboMigration21 < ActiveRecord::Migration
   def self.up
     add_column :organizations, :interorg_relations_count, :integer
@@ -47,4 +48,5 @@ class PersonToOrgRelation < ActiveRecord::Base
     belongs_to :organization, :counter_cache => true
     belongs_to :person, :counter_cache => true
 end
+
 

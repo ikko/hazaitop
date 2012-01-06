@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 namespace :load do
 
   desc 'import org data'

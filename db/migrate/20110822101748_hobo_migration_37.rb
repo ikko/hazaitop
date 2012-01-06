@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class HoboMigration37 < ActiveRecord::Migration
   def self.up
     change_column :interorg_relations, :value, :integer, :limit => 8
@@ -19,3 +20,4 @@ class HoboMigration37 < ActiveRecord::Migration
     change_column :notifications, :contracted_value, :integer
   end
 end
+

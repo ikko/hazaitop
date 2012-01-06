@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require 'rubygems'
 require 'maruku'
 require 'dryml'
@@ -13,3 +14,4 @@ taglibs = Dir["../taglibs/**/*.dryml"].reject {|filename|
 out=Dryml.render(open("doc.dryml").read, {:this => taglibs}, "doc.dryml")
 
 open("../documentation/doc.html", "w").write(out)
+

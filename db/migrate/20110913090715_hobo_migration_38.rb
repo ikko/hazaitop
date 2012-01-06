@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class HoboMigration38 < ActiveRecord::Migration
   def self.up
     create_table :tenders do |t|
@@ -22,3 +23,4 @@ class HoboMigration38 < ActiveRecord::Migration
     drop_table :tenders
   end
 end
+

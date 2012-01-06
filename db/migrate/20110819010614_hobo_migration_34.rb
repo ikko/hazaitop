@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class HoboMigration34 < ActiveRecord::Migration
   def self.up
     change_column :notifications, :contracted_value, :string, :limit => 255
@@ -7,3 +8,4 @@ class HoboMigration34 < ActiveRecord::Migration
     change_column :notifications, :contracted_value, :integer
   end
 end
+

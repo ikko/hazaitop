@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class Notification < ActiveRecord::Base
 
   hobo_model # Don't put anything above this
@@ -45,3 +46,4 @@ class Notification < ActiveRecord::Base
   end
 
 end
+

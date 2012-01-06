@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class P2pRelationTypesController < ApplicationController
 
   caches_page :show, :expires_in => 5.minutes
@@ -19,3 +20,4 @@ class P2pRelationTypesController < ApplicationController
 
 
 end
+

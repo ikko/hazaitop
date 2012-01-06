@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class HoboMigration40 < ActiveRecord::Migration
   def self.up
     add_column :tenders, :interorg_relation_id, :integer
@@ -11,3 +12,4 @@ class HoboMigration40 < ActiveRecord::Migration
     remove_index :tenders, :name => :index_tenders_on_interorg_relation_id rescue ActiveRecord::StatementInvalid
   end
 end
+

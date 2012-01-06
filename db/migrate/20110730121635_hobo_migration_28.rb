@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class HoboMigration28 < ActiveRecord::Migration
   def self.up
     add_column :contracts, :number, :string
@@ -31,3 +32,4 @@ class HoboMigration28 < ActiveRecord::Migration
     remove_index :contracts, :name => :index_contracts_on_seller_id rescue ActiveRecord::StatementInvalid
   end
 end
+

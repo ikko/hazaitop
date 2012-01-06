@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 namespace :complex do
 
   desc 'split complex xml file to ceg xmls'

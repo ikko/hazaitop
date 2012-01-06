@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module PageCacheFu
   private
 
@@ -16,3 +17,4 @@ module PageCacheFu
   end
 
 end
+
