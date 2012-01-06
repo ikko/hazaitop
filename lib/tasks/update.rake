@@ -64,8 +64,8 @@ namespace :update do
       if r.summary.strip != r.summary
         r.update_attribute :summary, r.summary.strip
       end
-      if r.title.strip != r.title
-        r.update_attribute :title, r.title.strip
+      if r.name.strip != r.name
+        r.update_attribute :name, r.name.strip
       end
     end
 

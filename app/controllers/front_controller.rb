@@ -44,7 +44,7 @@ class FrontController < ApplicationController
       @organizations = Organization.search(query, :name).paginate(:per_page=>10, :page=>params[:page])
       @people        = Person.search(query, :name).paginate(:per_page=>10, :page=>params[:page])
       @litigations   = Litigation.search(query, :name).paginate(:per_page=>10, :page=>params[:page])
-      @articles      = Article.search(query, :title).paginate(:per_page=>10, :page=>params[:page])
+      @articles      = Article.search(query, :name).paginate(:per_page=>10, :page=>params[:page])
       render_tags(@organizations+@people+@litigations+@articles, :search_card, :for_type => true) 
     end
   end
@@ -88,7 +88,7 @@ class FrontController < ApplicationController
         @organizations = params[:organization] ? Organization.search(query, :name).paginate(:per_page=>10, :page=>params[:page]) : Organization.limit(0)
         @people        = params[:person] ? Person.search(query, :name).paginate(:per_page=>10, :page=>params[:page]) : Person.limit(0)
         @litigations   = params[:litigation] ? Litigation.search(query, :name).paginate(:per_page=>10, :page=>params[:page]) : Litigation.limit(0)
-        @articles      = params[:article] ? Article.search(query, :title).paginate(:per_page=>10, :page=>params[:page]) : Article.limit(0)
+        @articles      = params[:article] ? Article.search(query, :name).paginate(:per_page=>10, :page=>params[:page]) : Article.limit(0)
       # valamire rákerestek
       else
         @people = params[:person] ? get_people : Person.limit(0)
@@ -215,6 +215,6 @@ private
   end
 
   def get_articles
-    Article.search(params[:query], :title).paginate(:per_page=>10, :page=>params[:page])
+    Article.search(params[:query], :name).paginate(:per_page=>10, :page=>params[:page])
   end
 end

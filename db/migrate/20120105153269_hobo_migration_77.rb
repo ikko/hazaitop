@@ -1,4 +1,4 @@
-class HoboMigration76 < ActiveRecord::Migration
+class HoboMigration77 < ActiveRecord::Migration
   def self.up
     Article.update_all("name=title")
   end

@@ -56,11 +56,11 @@ class PeopleController < ApplicationController
         if !p[:article_relations].blank?
           p[:article_relations].each do |k,a|
             next if k.to_i == -1
-            if a[:article].blank? or !Article.find_by_title( a[:article] )
+            if a[:article].blank? or !Article.find_by_name( a[:article] )
               if flash[:errors].present?
-                flash[:errors] << "\nArticle does not exist for #{p[:related_person]} with title #{a[:article]}"
+                flash[:errors] << "\nArticle does not exist for #{p[:related_person]} with name #{a[:article]}"
               else
-                flash[:errors] = "Article does not exist for #{p[:related_person]} with title #{a[:article]}"
+                flash[:errors] = "Article does not exist for #{p[:related_person]} with name #{a[:article]}"
               end
             end
           end
@@ -82,11 +82,11 @@ class PeopleController < ApplicationController
         if !o[:article_relations].blank?
           o[:article_relations].each do |k,a|
             next if k.to_i == -1
-            if a[:article].blank? or !Article.find_by_title( a[:article] )
+            if a[:article].blank? or !Article.find_by_name( a[:article] )
               if flash[:errors].present?
-                flash[:errors] << "\nArticle does not exist for #{o[:organization]} with title #{a[:article]}"
+                flash[:errors] << "\nArticle does not exist for #{o[:organization]} with name #{a[:article]}"
               else
-                flash[:errors] = "Article does not exist for #{o[:organization]} with title #{a[:article]}"
+                flash[:errors] = "Article does not exist for #{o[:organization]} with name #{a[:article]}"
               end
             end
           end

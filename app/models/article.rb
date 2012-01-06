@@ -3,7 +3,6 @@ class Article < ActiveRecord::Base
   hobo_model # Don't put anything above this
 
   fields do
-    title   :text
     name    :text
     summary :text
     internet_address :string, :required, :unique

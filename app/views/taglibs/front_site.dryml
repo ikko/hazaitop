@@ -29,7 +29,7 @@
          })();
          var news = [];
         <% Article.recent(5).each do |article| %>
-          <%= "news.push('<a href=\"#{url_for(article)}\">#{article.title}</a><span class=\"news_separator\"></span>');" %>;
+          <%= "news.push('<a href=\"#{url_for(article)}\">#{article.name}</a><span class=\"news_separator\"></span>');" %>;
         <% end %>
       </script>
     </custom-scripts:>
@@ -79,7 +79,7 @@
         <!-- NOTE: class-t és id-t js kódban is újraépítjük lapozásnál, így ha itt változtatunk akkor ott is kell -->
         <%= '<marquee class="left" id="news">' %>
           <% Article.recent(5).each do |article| %>
-            <a href="#{url_for(article)}"><%= article.title %></a><span class="news_separator"></span>
+            <a href="#{url_for(article)}"><%= article.name %></a><span class="news_separator"></span>
           <% end %>
         <%= '</marquee>' %>
       <div class="right"><%= Time.now.strftime("%Y. %B %d.").downcase -%><div class="separator">|</div><a target="_blank" href="http://www.k-monitor.hu">www.k-monitor.hu</a></div>
@@ -219,7 +219,7 @@
 <def tag="form" for="Article">
   <form merge param="default">
     <error-messages param/>
-    <field-list fields="title, summary, information_source, internet_address, processed_at"/>
+    <field-list fields="name, summary, information_source, internet_address, processed_at"/>
     <!--field-list unless="&@this.new_record?" fields="interpersonal_relations, interorg_relations, person_to_org_relations"> 
       <interorg-relations-view:>
         <hjq-input-many>
@@ -666,7 +666,7 @@
     <controls:/>
     <article-relations-view:>
       <% this.each do |r| %>
-        <a href="#{article_path(r.article_id)}"><view with="&r.article.title[0..60].strip + '...'"/></a><br/>
+        <a href="#{article_path(r.article_id)}"><view with="&r.article.name[0..60].strip + '...'"/></a><br/>
       <% end %>
     </article-relations-view:>
     <end-time-view:>
@@ -689,7 +689,7 @@
     </value-view:>
     <article-relations-view:>
       <% this.each do |r| %>
-        <a href="#{article_path(r.article_id)}"><view with="&r.article.title[0..60].strip + '...'"/></a><br/>
+        <a href="#{article_path(r.article_id)}"><view with="&r.article.name[0..60].strip + '...'"/></a><br/>
       <% end %>
     </article-relations-view:>
     <information-source-view:>
@@ -712,7 +712,7 @@
     <controls:/>
     <article-relations-view:>
       <% this.each do |r| %>
-        <a href="#{article_path(r.article_id)}"><view with="&r.article.title[0..60].strip + '...'"/></a><br/>
+        <a href="#{article_path(r.article_id)}"><view with="&r.article.name[0..60].strip + '...'"/></a><br/>
       <% end %>
     </article-relations-view:> 
     <information-source-view:>
@@ -728,7 +728,7 @@
     <controls:/>
     <article-relations-view:>
       <% this.each do |r| %>
-        <a href="#{article_path(r.article_id)}"><view with="&r.article.title[0..60].strip + '...'"/></a><br/>
+        <a href="#{article_path(r.article_id)}"><view with="&r.article.name[0..60].strip + '...'"/></a><br/>
       <% end %>
     </article-relations-view:>
     <end-time-view:>
