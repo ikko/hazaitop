@@ -40,7 +40,7 @@ namespace :load do
         w.summary  = c[2].strip
         w.internet_address  = c[3].strip
         w.weblink  = c[4].strip
-        w.processed_at = c[6] ? c[6].to_date
+        w.processed_at = c[6] ? c[6].to_date : nil
         w.user_id = c[7].blank? ? nil : User.find_by_name(c[7]).id
         puts w.inspect
         puts "......."
