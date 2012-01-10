@@ -38,7 +38,7 @@ namespace :load do
         w.information_source_id = InformationSource.find_by_name(c[0]).id
         w.name     = c[1].strip
         w.summary  = c[2].try.strip
-        w.internet_address  = c[3].strip
+        w.internet_address  = c[3].try.strip
         w.weblink  = c[4].try.strip
         w.processed_at = c[6].blank? ? nil : c[6].to_date
         w.user_id = c[7].blank? ? nil : User.find_by_name(c[7]).id
