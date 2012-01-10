@@ -119,7 +119,7 @@ class PeopleController < ApplicationController
   def index
     @this = Person.order_by(:name)
     respond_to do |format| 
-      format.html  { hobo_index( @this, :per_page => 10 ) }
+      format.html  { hobo_index( @this, :per_page => 20 ) }
       format.xml   { render( :xml  => @this ) and return }
       format.json  { render( :json => @this ) and return }
     end

@@ -140,7 +140,7 @@ class OrganizationsController < ApplicationController
   def index
     @this = Organization.order_by(:person_to_org_relations_count, 'desc')
     respond_to do |format| 
-      format.html  { hobo_index( @this, :per_page => 10 ) }
+      format.html  { hobo_index( @this, :per_page => 20 ) }
       format.xml   { render( :xml  => @this ) and return }
       format.json  { render( :json => @this ) and return }
     end
