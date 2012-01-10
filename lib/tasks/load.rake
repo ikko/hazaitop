@@ -34,15 +34,15 @@ namespace :load do
       next if l.empty?
       l.strip!
       c = l.split(':!:')
-      next if c[1].blank?
-      Article.find_or_create_by_name( c[1].strip ) do |w|
-        w.information_source_id = InformationSource.find_by_name(c[0]).id
-        w.name     = c[1].strip
+      next if c[0].blank?
+      Article.find_or_create_by_name( c[0].strip ) do |w|
+        w.information_source_id = InformationSource.find_by_name(c[1]).id
+        w.name     = c[0].strip
         w.summary  = c[2].try.strip
         w.internet_address  = c[3].try.strip
         w.weblink  = c[4].try.strip
-        w.processed_at = c[6].blank? ? nil : c[6].to_date
-        w.user_id = c[7].blank? ? nil : User.find_by_name(c[7]).id
+        w.processed_at = c[5].blank? ? nil : c[5].to_date
+        w.user_id = c[6].blank? ? nil : User.find_by_name(c[6]).id
         puts w.inspect
         puts "......."
       end
