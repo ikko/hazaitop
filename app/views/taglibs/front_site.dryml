@@ -675,7 +675,7 @@
     </end-time-view:>
     <information-source-view:>
       <% @artcount = this_parent.articles.count %>
-      <view/> <a with="&this_parent" if="&@artcount != 0">(<%= @artcount -%>)</a>
+      <a with="&this_parent"> <view:information_source.name/> </a> <a with="&this_parent" if="&@artcount != 0"> (<%= @artcount -%>)</a>
     </information-source-view:>
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'person_to_org_pagination', :id => @this.id}"/>
   </table-plus>
@@ -694,7 +694,7 @@
     </article-relations-view:>
     <information-source-view:>
       <% @artcount = this_parent.articles.count %>
-      <view/> <a with="&this_parent" if="&@artcount != 0">(<%= @artcount -%>)</a>
+      <a with="&this_parent"> <view:information_source.name/> </a> <a with="&this_parent" if="&@artcount != 0"> <%= @artcount -%>)</a>
     </information-source-view:>
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'interorg_pagination', :id => @this.id}"/>
   </table-plus>
@@ -717,7 +717,7 @@
     </article-relations-view:> 
     <information-source-view:>
       <% @artcount = this_parent.articles.count %>
-      <view/> <a with="&this_parent" if="&@artcount != 0">(<%= @artcount -%>)</a>
+      <a with="&this_parent"> <view:information_source.name/> </a> <a with="&this_parent" if="&@artcount != 0"> (<%= @artcount -%>)</a>
     </information-source-view:>
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'interpersonal_pagination', :id => @this.id}"/>
   </table-plus>
@@ -737,7 +737,7 @@
     </end-time-view:>
     <information-source-view:>
       <% @artcount = this_parent.articles.count %>
-      <view/> <a with="&this_parent" if="&@artcount != 0">(<%= @artcount -%>)</a>
+      <a with="&this_parent" if="&@artcount != 0"> <view:information_source.name/> (<%= @artcount -%>)</a>
     </information-source-view:>
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'person_to_org_pagination', :id => @this.id}"/>
   </table-plus>
