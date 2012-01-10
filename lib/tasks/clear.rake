@@ -20,6 +20,14 @@ namespace :clear do
     end
   end
 
+  desc "strip all articles"
+  task "article" => :environment do
+    Article.all.each do |a|
+      a.name = a.name.try.strip
+      a.summary = a.summary.try.strip
+      a.save
+    end
+  end
 
   desc "clear tax_nr for onkormanyzat"
   task "onkori" => :environment do
