@@ -182,11 +182,11 @@ namespace :save do
 
 
   desc 'export manual data to db/manual_#{model}.txt'
-  task :article => :environment do
+  task :articles => :environment do
     f = File.open('db/manual_articles.txt', 'w')
     n = 0
     x = Article.count
-    Article.all do |r| 
+    Article.all.each do |r| 
       n += 1
       f.puts("#{r.information_source.name}:!:#{r.title}:!:#{r.summary}:!:#{r.internet_address}:!:#{r.weblink}:!:#{r.internet_address}:!:#{r.processed ? '1' : '0'}:!:#{r.user.name}")
       puts "saving article #{r.title} ... #{(n.to_f / x * 100).round(2)}% #{n} of #{x}"
