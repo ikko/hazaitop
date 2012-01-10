@@ -25,6 +25,7 @@ namespace :complex do
   task :import => :environment do
 
     def check_last_name last_name
+      return false # nem nézzük, h mi a last name, mindig létrehozzuk inkább
       names = %w{Nagy Kovács Tóth Szabó Horváth Varga Kiss Molnár Németh Farkas Balogh Papp Takács Juhász Lakatos Mészáros Oláh Simon Rácz Fekete Szilágyi Török Fehér Gál Balázs Kis Szűcs Kocsis Pintér Fodor Orsós Szalai Magyar Takács}
       if names.include? last_name.capitalize
         return false
