@@ -1,12 +1,20 @@
 # -*- encoding : utf-8 -*-
-
 namespace :clear do
   desc "set company tag for company orgs"
   task "company" => :environment do
     Organization.all.each do |o|
+      if o.name.downcase.include?('kft') or
+         o.name.downcase.include?('rt') or
+         o.name.downcase.include?('rsas') or #
+         o.name.downcase.include?('llalat') or
+         o.name.downcase.include?('bt') then
+        o.company = true
+      else
+
+        o.tax_nr = nil
+        o.trade_register_nr = nil
+      end
       puts o.name
-      # o.tax_nr = nil
-      # o.trade_register_nr = nil
       puts o.save
     end
   end
