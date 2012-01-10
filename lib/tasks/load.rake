@@ -49,7 +49,6 @@ namespace :load do
     f.close
     puts "exiting..."
   end
-      f.puts("#{r.information_source.name}:!:#{r.title}:!:#{r.summary}:!:#{r.internet_address}:!:#{r.weblink}:!:#{r.internet_address}:!:#{r.processed_at}:!:#{r.user.try.name}")
 
 
   desc 'import manual data from db/manual_#{model}.txt'
