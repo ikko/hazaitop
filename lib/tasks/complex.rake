@@ -440,9 +440,11 @@ namespace :complex do
         vagyon = parse_simple(a, 'szam')['szam'].to_i
         @org.stock = vagyon if vagyon > 0 and !@org.stock.blank?
       end
-      doc.search('//rovat[@id=13]/alrovat').each do |a|
-        puts "- - - - - - cégjegyzésre jogosultak - - - - - -"
-        parse_member a, "Cég jegyzésére jogosult", "Cégjegyzésre jogosult", "ugyanazon céget jegyzi"
+      if @org.person_to_org_relations_count < 100
+        doc.search('//rovat[@id=13]/alrovat').each do |a|
+          puts "- - - - - - cégjegyzésre jogosultak - - - - - -"
+          parse_member a, "Cég jegyzésére jogosult", "Cégjegyzésre jogosult", "ugyanazon céget jegyzi"
+        end
       end
       doc.search('//rovat[@id=14]/alrovat').each do |a|
         puts "- - - - - - könyvvizsgálók - - - - - -"
