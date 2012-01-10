@@ -37,10 +37,10 @@ namespace :load do
       Article.find_or_create_by_name( c[1].strip ) do |w|
         w.information_source_id = InformationSource.find_by_name(c[0]).id
         w.name     = c[1].strip
-        w.summary  = c[2].strip
+        w.summary  = c[2].try.strip
         w.internet_address  = c[3].strip
-        w.weblink  = c[4].strip
-        w.processed_at = c[6] ? c[6].to_date : nil
+        w.weblink  = c[4].try.strip
+        w.processed_at = c[6].blank? ? nil : c[6].to_date
         w.user_id = c[7].blank? ? nil : User.find_by_name(c[7]).id
         puts w.inspect
         puts "......."
