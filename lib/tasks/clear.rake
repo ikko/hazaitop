@@ -8,7 +8,7 @@ namespace :clear do
          o.name.downcase.include?('rsas') or #
          o.name.downcase.include?('llalat') or
          o.name.downcase.include?('nyomda') or
-         o.name.downcase.include?('bt') then
+         o.name.downcase.include?('bt') or
          o.name.downcase.include?('bank') then
         o.company = true
       else
