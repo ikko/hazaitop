@@ -34,8 +34,8 @@ namespace :load do
       next if l.empty?
       l.strip!
       c = l.split(':!:')
-      next if c[0].blank?
-      Article.find_or_create_by_name( c[0].strip ) do |w|
+      next if c[0].blank? or c[3].blank?
+      Article.find_or_create_by_internet_address( c[3].strip ) do |w|
         w.information_source_id = InformationSource.find_by_name(c[1]).id
         w.name     = c[0].strip
         w.summary  = c[2].try.strip
