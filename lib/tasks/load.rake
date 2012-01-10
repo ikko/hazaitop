@@ -37,8 +37,8 @@ namespace :load do
       next if c[0].blank? or c[3].blank?
       Article.find_or_create_by_internet_address( c[3].strip ) do |w|
         w.information_source_id = InformationSource.find_by_name(c[1]).id
-        w.name     = c[0].strip
-        w.summary  = c[2].try.strip
+        w.name     = c[0].strip.gsub("NEWLINE","\n")
+        w.summary  = c[2].try.strip.gsub("NEWLINE","\n")
         w.internet_address  = c[3].try.strip
         w.weblink  = c[4].try.strip
         w.processed_at = c[5].blank? ? nil : c[5].to_date
