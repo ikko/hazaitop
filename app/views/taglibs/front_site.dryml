@@ -1059,12 +1059,12 @@
       </article-relations-view:>
     </field-list>
     <div param="actions">
-      <submit label="#{ht 'interpersonal_relations.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
+      <submit label="#{ht 'person_to_org_relations.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
     </div>
   </form>
 </def>
 
-<def tag="form" for="InterOrgRelation">
+<def tag="form" for="InterorgRelation">
   <form merge param="default">
     <error-messages param/>
     <field-list fields="start_time, end_time, no_end_time, article_relations, information_source, litigations, o2o_relation_type">
@@ -1076,7 +1076,7 @@
       </article-relations-view:>
     </field-list>
     <div param="actions">
-      <submit label="#{ht 'interpersonal_relations.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
+      <submit label="#{ht 'interorg_relations.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
     </div>
   </form>
 </def>
