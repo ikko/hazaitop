@@ -12,7 +12,6 @@ namespace :clear do
          o.name.downcase.include?('bank') then
         o.company = true
       else
-
         o.tax_nr = nil
         o.trade_register_nr = nil
       end
