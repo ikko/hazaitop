@@ -14,7 +14,7 @@
       <%= this_parent.no_end_time? ? "" : "Záró dátum" %>
     </end-time-label:>
     <end-time-view:>
-      <view:end-time unless="&this_parent.no_end_time?"/>
+      <view unless="&this_parent.no_end_time?"/>
     </end-time-view:>
     <contract-label:>
       <%= this_parent.contract ? "Szerződés" : '' %>

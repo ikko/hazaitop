@@ -11,7 +11,7 @@
       <%= this_parent.no_end_time? ? "" : "Záró dátum" %>
     </end-time-label:>
     <end-time-view:>
-      <view:end-time unless="&this_parent.no_end_time?"/>
+      <view unless="&this_parent.no_end_time?"/>
     </end-time-view:>
     <organization-label:>
       <%= this_parent.organization ? "Szervezet" : '' %>
