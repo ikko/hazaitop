@@ -360,12 +360,12 @@ namespace :complex do
       fc = file.length == 13 ? "0" + file : file # lemarad a 0 a file elejéről, amikor 0-val kezdődik a cégjegyzékszám
       cegjegyzekszam = fc.to_s[0..1] + '-' + fc.to_s[2..3] + '-' + fc.to_s[4..9]
       @new_org = false
-      @org = Organization.find_or_create_by_trade_register_nr( cegjegyzekszam ) do |r| 
-        r.name = cegjegyzekszam + rand(3000).to_s
-        r.information_source_id = @info.id
-        @new_org = true
-      end
-
+      @org = Organization.find_by_trade_register_nr_and_company( cegjegyzekszam, true ) # do |r| 
+#        r.name = cegjegyzekszam + rand(3000).to_s
+#        r.information_source_id = @info.id
+#        @new_org = true
+#      end
+      next unless @org
       f = File.open(dirname + file)
       doc = Nokogiri::XML(f, nil, 'ISO8859-2')
       f.close
