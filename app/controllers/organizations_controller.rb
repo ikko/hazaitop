@@ -140,7 +140,7 @@ class OrganizationsController < ApplicationController
   def index
     @this = Organization.order_by(:name)
     respond_to do |format| 
-      format.html  { hobo_index( @this, :per_page => 20 ) }
+      format.html  { hobo_index( @this, :per_page => 20, :include => :information_source ) }
       format.xml   { render( :xml  => @this ) and return }
       format.json  { render( :json => @this ) and return }
     end
@@ -161,8 +161,9 @@ class OrganizationsController < ApplicationController
     }
   end
 
+
   index_action :list do
-    @organizations = Organization.order_by(params[:sort].try.to_sym || :name).paginate(:per_page=>20, :page=>params[:page])
+    @organizations = Organization.order_by(params[:sort].try.to_sym || :name).paginate(:per_page=>20, :page=>params[:page], :include=>:information_source)
   end
 
   show_action :merge do
