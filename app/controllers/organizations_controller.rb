@@ -138,7 +138,7 @@ class OrganizationsController < ApplicationController
   end
 
   def index
-    @this = Organization.order_by(:person_to_org_relations_count, 'desc')
+    @this = Organization.order_by(:name)
     respond_to do |format| 
       format.html  { hobo_index( @this, :per_page => 20 ) }
       format.xml   { render( :xml  => @this ) and return }
@@ -162,8 +162,7 @@ class OrganizationsController < ApplicationController
   end
 
   index_action :list do
-    hobo_index Organization.order_by(params['sort'].to_sym), :per_page=>10
-    render :index
+    @organizations = Organization.order_by(params[:sort].try.to_sym || :name).paginate(:per_page=>20, :page=>params[:page])
   end
 
   show_action :merge do

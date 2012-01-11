@@ -1,21 +1,3 @@
-<!--index-page>
-  <count:>
-    <ht key="organization.collection.count" count="&Organization.count">
-      There <count prefix="are"/>
-    </ht>
-  </count:>
-  <top-page-nav: inner-window="10" />
-  <bottom-page-nav: inner-window="10" />
-  <prepend-content-body:>
-    <div id="index_page_order">
-      <a class="button" href="/organizations/list?sort=name">ABC szerint</a>
-      <a class="button" href="/organizations/list?sort=created_at">Beviteli sorrendben</a>
-    </div>
-  </prepend-content-body:>
-</index-page-->
-
-
-
 <index-page without-count without-top-page-nav without-bottom-page-nav without-content-header>
   <append-head:>
     <script>

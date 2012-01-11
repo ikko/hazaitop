@@ -160,7 +160,7 @@ class PeopleController < ApplicationController
   end
 
   index_action :list do
-    @people = Person.order_by(params[:sort].try.to_sym || :name).paginate(:per_page=>10, :page=>params[:page])
+    @people = Person.order_by(params[:sort].try.to_sym || :name).paginate(:per_page=>20, :page=>params[:page])
   end
 
   show_action :merge do
