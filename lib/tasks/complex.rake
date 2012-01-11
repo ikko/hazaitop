@@ -25,6 +25,7 @@ namespace :complex do
   task :import => :environment do
 
     def check_last_name last_name
+      return false # nem nézzük, h mi a last name, mindig létrehozzuk inkább
       names = %w{Nagy Kovács Tóth Szabó Horváth Varga Kiss Molnár Németh Farkas Balogh Papp Takács Juhász Lakatos Mészáros Oláh Simon Rácz Fekete Szilágyi Török Fehér Gál Balázs Kis Szűcs Kocsis Pintér Fodor Orsós Szalai Magyar Takács}
       if names.include? last_name.capitalize
         return false
@@ -439,9 +440,11 @@ namespace :complex do
         vagyon = parse_simple(a, 'szam')['szam'].to_i
         @org.stock = vagyon if vagyon > 0 and !@org.stock.blank?
       end
-      doc.search('//rovat[@id=13]/alrovat').each do |a|
-        puts "- - - - - - cégjegyzésre jogosultak - - - - - -"
-        parse_member a, "Cég jegyzésére jogosult", "Cégjegyzésre jogosult", "ugyanazon céget jegyzi"
+      if @org.person_to_org_relations_count < 100
+        doc.search('//rovat[@id=13]/alrovat').each do |a|
+          puts "- - - - - - cégjegyzésre jogosultak - - - - - -"
+          parse_member a, "Cég jegyzésére jogosult", "Cégjegyzésre jogosult", "ugyanazon céget jegyzi"
+        end
       end
       doc.search('//rovat[@id=14]/alrovat').each do |a|
         puts "- - - - - - könyvvizsgálók - - - - - -"

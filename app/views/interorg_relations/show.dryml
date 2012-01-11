@@ -1,0 +1,35 @@
+<show-page>
+  <heading:>
+    <view:organization/> és <view:related_organization/>
+  </heading:>
+  <record-flags: replace></record-flags:>
+  <field-list: fields="o2o_relation_type, start_time, end_time, information_source, tender, contract">
+    <o2o-relation-type-label:> 
+      Kapcsolat 
+    </o2o-relation-type-label:>
+    <o2o-relation-type-view:>
+      <view/> <%= '&nbsp;' %> <view with="&this_parent.role" if="&this_parent.role"/>
+    </o2o-relation-type-view:>
+    <end-time-label:>
+      <%= this_parent.no_end_time? ? "" : "Záró dátum" %>
+    </end-time-label:>
+    <end-time-view:>
+      <view unless="&this_parent.no_end_time?"/>
+    </end-time-view:>
+    <contract-label:>
+      <%= this_parent.contract ? "Szerződés" : '' %>
+    </contract-label:>
+    <contract-view:>
+      <view:contract if="&this_parent.contract"/>
+    </contract-view:>
+    <tender-label:>
+      <%= this_parent.tender   ? "Pályázat" : '' %>
+    </tender-label:>
+    <tender-view:>
+      <view:tender if="&this_parent.tender"/>
+    </tender-view:>
+  </field-list:>
+  <collection-heading: class="details_header">
+    Cikkek:
+  </collection-heading:>
+</show-page>

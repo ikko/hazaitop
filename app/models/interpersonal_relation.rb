@@ -17,7 +17,7 @@ class InterpersonalRelation < ActiveRecord::Base
     parsed :boolean, :default => false
   end
 
-  has_many :article_relations, :as => :relationable, :accessible => true, :dependent => :destroy
+  has_many :article_relations, :as => :relationable, :accessible => true
   has_many :articles, :through => :article_relations, :accessible => true
 
   default_scope :order => "related_person_id"

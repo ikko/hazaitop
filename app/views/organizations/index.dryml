@@ -1,4 +1,4 @@
-<index-page>
+<!--index-page>
   <count:>
     <ht key="organization.collection.count" count="&Organization.count">
       There <count prefix="are"/>
@@ -12,4 +12,43 @@
       <a class="button" href="/organizations/list?sort=created_at">Beviteli sorrendben</a>
     </div>
   </prepend-content-body:>
+</index-page-->
+
+
+
+<index-page without-count without-top-page-nav without-bottom-page-nav without-content-header>
+  <append-head:>
+    <script>
+      (function($) {
+        $(function(){
+
+          $("#organizations_content .pagination a").live('click', function(e) {
+            $(this).html(spinnerImg);
+            $.ajax({url: $(this).attr('href'), success: function(data) {$("#organizations_content").html(data)}});
+            e.preventDefault();
+          });
+          $("#organizations_content .order_list a").live('click', function(e) {
+            $(this).html(spinnerImg);
+            $.ajax({url: $(this).attr('href'), success: function(data) {$("#organizations_content").html(data)}});
+            e.preventDefault();
+          });
+        });
+      })(jQuery)
+    </script>
+  </append-head:>
+  <collection: replace>
+    <div class="tabs" style="margin-top:36px">
+      <div class="tab active"><a href="#organizations_content">SZERVEZETEK</a></div>
+    </div>
+    <div id="organizations_content">
+      <table-plus-org fields="this, address, interorg_relations_count, person_to_org_relations_count,  information_source" with="&@organizations" without-table-footer>
+        <order-list:>
+          <a href="/organizations/list?sort=-name" class="left #{!params[:sort] || params[:sort]=='-name' ? 'active' : ''}">ABC szerint</a>
+          <div class="separator left">|</div>
+          <a href="/organizations/list?sort=-updated_at" class="left #{params[:sort] && params[:sort]=='-updated_at' ? 'active' : ''}">Beviteli sorrendben</a>
+        </order-list:>
+        <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{ :action=> 'list', :sort=>params[:sort]}"/>
+      </table-plus-org>
+    </div>
+  </collection:>
 </index-page>

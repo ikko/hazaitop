@@ -1,16 +1,33 @@
 # -*- encoding : utf-8 -*-
-
 namespace :clear do
   desc "set company tag for company orgs"
   task "company" => :environment do
     Organization.all.each do |o|
+      if o.name.downcase.include?('kft') or
+         o.name.downcase.include?('rt') or
+         o.name.downcase.include?('rsas') or #
+         o.name.downcase.include?('llalat') or
+         o.name.downcase.include?('nyomda') or
+         o.name.downcase.include?('bt') or
+         o.name.downcase.include?('bank') then
+        o.company = true
+      else
+        o.tax_nr = nil
+        o.trade_register_nr = nil
+      end
       puts o.name
-      # o.tax_nr = nil
-      # o.trade_register_nr = nil
       puts o.save
     end
   end
 
+  desc "strip all articles"
+  task "article" => :environment do
+    Article.all.each do |a|
+      a.name = a.name.try.strip
+      a.summary = a.summary.try.strip
+      a.save
+    end
+  end
 
   desc "clear tax_nr for onkormanyzat"
   task "onkori" => :environment do

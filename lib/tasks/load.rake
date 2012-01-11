@@ -28,6 +28,31 @@ namespace :load do
   end
 
   desc 'import manual data from db/manual_#{model}.txt'
+  task :articles => :environment do
+    puts f = File.open('db/manual_articles.txt', 'r')
+    f.each do |l|
+      next if l.empty?
+      l.strip!
+      c = l.split(':!:')
+      next if c[0].blank? or c[3].blank?
+      Article.find_or_create_by_internet_address( c[3].strip ) do |w|
+        w.information_source_id = InformationSource.find_by_name(c[1]).id
+        w.name     = c[0].strip.gsub("NEWLINE","\n")
+        w.summary  = c[2].try.strip.gsub("NEWLINE","\n")
+        w.internet_address  = c[3].try.strip
+        w.weblink  = c[4].try.strip
+        w.processed_at = c[5].blank? ? nil : c[5].to_date
+        w.user_id = c[6].blank? ? nil : User.find_by_name(c[6]).id
+        puts w.inspect
+        puts "......."
+      end
+    end
+    f.close
+    puts "exiting..."
+  end
+
+
+  desc 'import manual data from db/manual_#{model}.txt'
   task :person_grades => :environment do
     puts f = File.open('db/manual_person_grades.txt', 'r')
     new_p = 0; p = []; p_ids = []
