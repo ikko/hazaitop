@@ -43,6 +43,36 @@ namespace :clear do
     end
   end
 
+
+  desc "strip organization white spaces"
+  task "orgs" => :environment do
+    counter = 97 # 'a'
+    puts 'a'
+    n = 0
+    Organization.all.each do |o|
+      if o.name[0] > counter
+        counter = o.name[0]
+        puts o.name[0..0]
+      end
+      if o.street.try.strip != o.street
+        o.street = o.street.strip
+        o.save
+        n += 1
+      end
+      if o.city.try.strip != o.city
+        o.city = o.city.strip
+        o.save
+        n += 1
+      end
+      if o.name.try.strip != o.name
+        o.name = o.name.strip
+        o.save
+        n += 1
+      end
+    end
+    puts "#{n} change has been made"
+  end
+
   desc 'merge orgs with same tax_nr'
   task :tax_nr => :environment do
     n = 0
