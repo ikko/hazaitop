@@ -161,9 +161,9 @@ class OrganizationsController < ApplicationController
     }
   end
 
+
   index_action :list do
-    hobo_index Organization.order_by(params['sort'].to_sym), :per_page=>10
-    render :index
+    @organization = Organization.order_by(params[:sort].try.to_sym || :name).paginate(:per_page=>20, :page=>params[:page])
   end
 
   show_action :merge do
