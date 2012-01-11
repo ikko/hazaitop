@@ -1,7 +1,7 @@
 class HoboMigration78 < ActiveRecord::Migration
   def self.up
     # biztos ami biztos
-    if Article.first.name.present?
+    if Article.first.try.name.present?
       remove_column :articles, :title
     end
   end
