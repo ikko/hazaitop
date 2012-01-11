@@ -412,7 +412,7 @@ namespace :complex do
       @org.zip_code = irszam if @new_org or @org.zip_code.blank?
       @org.alternate_name  = nev   if @new_org
 
-      logstring =  " #{file} -::-  #{@org.id} -::- #{@org.name} -::- #{nev} -::- #{Time.now}"
+      logstring =  " #{file} | #{@org.id} | #{@org.name} | #{nev}"
 
       if @org.complexed_at
          logfile.puts "already complexed: " + logstring 
@@ -422,12 +422,12 @@ namespace :complex do
                   downcase_hu(@org.name).match( downcase_hu(nev.split(' ')[0]).scan(/[a-zéáíőúöüóű\-]/).join )
                  )
         if  @new_org or @org.name[0..15].scan(/[0-9]/).size > 8 
-          logfile.puts "new:         " + logstring 
+          logfile.puts "new:         |" + logstring 
         else
-          logfile.puts "MATCHED:     " + logstring
+          logfile.puts "MATCHED:     |" + logstring
         end
       else
-        logfile.puts   "not matched: " + logstring
+        logfile.puts   "not matched: |" + logstring
         next
       end
 
