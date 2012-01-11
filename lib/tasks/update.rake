@@ -30,14 +30,15 @@ namespace :update do
 
   desc 'strip newlines...'
   task :strip => :environment do
-=begin
     Organization.all.each do |r|
       if r.name.strip != r.name
         r.update_attribute :name, r.name.strip
         puts r.name.strip
       end
+      if r.name.include?('"')
+        r.save
+      end
     end
-=end
 
     def clean x
       return true if x.blank?
