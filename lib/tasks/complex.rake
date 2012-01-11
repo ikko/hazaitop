@@ -729,12 +729,11 @@ namespace :complex do
                                   :year              => to_date(h['kezd']).try.year
                                 )
           end
-          ap fina
         end
       end
       @org.save
 
-      f.close
+     # f.close
       if @new_org  # azért mentjuk a végén a nevet, mert ha van már ilyen, akkor unique miatt nem fogja engedni
         @org.name     = nev    
         @org.save
