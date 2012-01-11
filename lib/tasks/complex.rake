@@ -427,7 +427,7 @@ namespace :complex do
           logfile.puts "MATCHED:     |" + logstring
         end
       else
-        logfile.puts   "not matched: |" + logstring
+        # logfile.puts   "not matched: |" + logstring
         next
       end
 
