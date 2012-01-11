@@ -337,7 +337,7 @@ namespace :complex do
     no_of_not_found = 0
     n = 1
     xa = 0; xb = 0; xc = 0;
-    dirname = 'db/complex/orgs/'
+    dirname = 'public/orgs/'
     logname = "db/complex/import-#{Time.now.to_s(:db).gsub(' ','-').gsub(':','-').gsub('/','-')}.log"
     logfile = File.open(logname, 'w' )
     forwarding = true
