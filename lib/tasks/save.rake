@@ -143,7 +143,7 @@ namespace :save do
     InterpersonalRelation.not_mirror.p2p_relation_type_is_not(5).not_internal.each do |r| 
       n += 1
       if r.person and r.related_person
-        f.puts("#{r.start_time}:!:#{r.end_time}:!:#{r.no_end_time ? '1' : '0'}:!:#{r.information_source}:!:#{r.related_person.name.gsub(',','')}:!:#{r.person.name.gsub(',','')}:!:#{r.p2p_relation_type}:/:#{r.articles.*.weblink.join(',')}")
+        f.puts("#{r.start_time}:!:#{r.end_time}:!:#{r.no_end_time ? '1' : '0'}:!:#{r.information_source}:!:#{r.related_person.name.gsub(',','')}:!:#{r.person.name.gsub(',','')}:!:#{r.p2p_relation_type}:/:#{r.articles.*.internet_address.join(',')}")
         puts "saving interpersonal_relation #{r.person} & #{r.related_person} ... #{(n.to_f / x * 100).round(2)}% #{n} of #{x}"
       end
     end
@@ -158,7 +158,7 @@ namespace :save do
     InterorgRelation.not_mirror.o2o_relation_type_is_not(2).o2o_relation_type_is_not(15).o2o_relation_type_is_not(16).o2o_relation_type_is_not(18).o2o_relation_type_is_not(19).each do |r| 
       n += 1
       if r.organization and r.related_organization
-        f.puts("#{r.information_source}:!:#{r.related_organization}:!:#{r.organization}:!:#{r.o2o_relation_type}:/:#{r.articles.*.weblink.join(',')}")
+        f.puts("#{r.information_source}:!:#{r.related_organization}:!:#{r.organization}:!:#{r.o2o_relation_type}:/:#{r.articles.*.internet_address.join(',')}")
         puts "saving interorg_relation #{r.organization} & #{r.related_organization} ... #{(n.to_f / x * 100).round(2)}% #{n} of #{x}"
       end
     end
@@ -173,7 +173,7 @@ namespace :save do
     PersonToOrgRelation.p2o_relation_type_is_not(1).each do |r| 
       n += 1
       if r.person and r.organization
-        f.puts("#{r.start_time}:!:#{r.end_time}:!:#{r.no_end_time ? '1' : '0'}:!:#{r.information_source}:!:#{r.person.name.gsub(',','')}:!:#{r.organization}:!:#{r.p2o_relation_type}:/:#{r.articles.*.weblink.join(',')}")
+        f.puts("#{r.start_time}:!:#{r.end_time}:!:#{r.no_end_time ? '1' : '0'}:!:#{r.information_source}:!:#{r.person.name.gsub(',','')}:!:#{r.organization}:!:#{r.p2o_relation_type}:/:#{r.articles.*.internet_address.join(',')}")
         puts "saving person_to_org_relation #{r.person} & #{r.organization} ... #{(n.to_f / x * 100).round(2)}% #{n} of #{x}"
       end
     end
