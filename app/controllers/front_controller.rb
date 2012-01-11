@@ -184,7 +184,8 @@ private
       end
       builded_organization_conditions = [cond] + org_pars
       Organization.search(params[:query], :name).
-                   paginate(:joins=>"left outer join person_to_org_relations on person_to_org_relations.organization_id = organizations.id
+                   paginate(:select=>"distinct organizations.* ",
+                            :joins=>"left outer join person_to_org_relations on person_to_org_relations.organization_id = organizations.id
                                      left outer join interorg_relations on interorg_relations.organization_id = organizations.id",
                             :conditions=>builded_organization_conditions,
                             :per_page=>10,
