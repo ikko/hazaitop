@@ -1,17 +1,38 @@
-<index-page>
-  <count:>
-    <ht key="interorg_relations.collection.count" count="&InterorgRelation.not_mirror.value_is_not('').count">
-      There <count prefix="are"/>
-    </ht>
-  </count:>
-  <top-page-nav: inner-window="10" />
-  <bottom-page-nav: inner-window="10" />
-  <prepend-content-body:>
-    <div id="index_page_order">
-      <a class="button" href="/transactions/list?sort=value">Érték szerint</a>
-      <a class="button" href="/transactions/list?sort=name">ABC szerint</a>
-      <a class="button" href="/transactions/list?sort=created_at">Beviteli sorrendben</a>
-    </div>
-  </prepend-content-body:>
-</index-page>
+<index-page without-count without-top-page-nav without-bottom-page-nav without-content-header>
+  <append-head:>
+    <script>
+      (function($) {
+        $(function(){
 
+          $("#litigations_content .pagination a").live('click', function(e) {
+            $(this).html(spinnerImg);
+            $.ajax({url: $(this).attr('href'), success: function(data) {$("#litigations_content").html(data)}});
+            e.preventDefault();
+          });
+          $("#litigations_content .order_list a").live('click', function(e) {
+            $(this).html(spinnerImg);
+            $.ajax({url: $(this).attr('href'), success: function(data) {$("#litigations_content").html(data)}});
+            e.preventDefault();
+          });
+        });
+      })(jQuery)
+    </script>
+  </append-head:>
+  <collection: replace>
+    <div class="tabs" style="margin-top:36px">
+      <div class="tab active"><a href="#litigations_content">TRANZAKCIÓK</a></div>
+    </div>
+    <div id="litigations_content">
+      <table-plus-trans without-table-footer>
+        <order-list:>
+          <a href="/transactions/list?sort=-value" class="left #{!params[:sort] || params[:sort]=='-value' ? 'active' : ''}">Érték szerint</a>
+          <div class="separator left">|</div>
+          <a href="/transactions/list?sort=-name" class="left #{params[:sort] && params[:sort]=='-name' ? 'active' : ''}">ABC szerint</a>
+          <div class="separator left">|</div>
+          <a href="/tranzactions/list?sort=-updated_at" class="left #{params[:sort] && params[:sort]=='-updated_at' ? 'active' : ''}">Beviteli sorrendben</a>
+        </order-list:>
+        <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{ :action=> 'list', :sort=>params[:sort]}"/>
+      </table-plus-trans>
+    </div>
+  </collection:>
+</index-page>
