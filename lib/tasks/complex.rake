@@ -369,7 +369,6 @@ namespace :complex do
       f = File.open(dirname + file)
       doc = Nokogiri::XML(f, nil, 'ISO8859-2')
       f.close
-
 =begin
 # majd inkább beolvassuk egyenként a file-t és beformázzuk amikor kell, nem terheljuk az adatbázist ilyenekkel...
       f = File.open(dirname + file, 'r:ISO8859-2')
@@ -441,8 +440,10 @@ namespace :complex do
         vagyon = parse_simple(a, 'szam')['szam'].to_i
         @org.stock = vagyon if vagyon > 0 and !@org.stock.blank?
       end
-      if @org.person_to_org_relations_count < 100
-        doc.search('//rovat[@id=13]/alrovat').each do |a|
+      @relation_counter = 0
+      doc.search('//rovat[@id=13]/alrovat').each do |a|
+        @relation_counter += 1
+        if @relation_counter < 100
           puts "- - - - - - cégjegyzésre jogosultak - - - - - -"
           parse_member a, "Cég jegyzésére jogosult", "Cégjegyzésre jogosult", "ugyanazon céget jegyzi"
         end
