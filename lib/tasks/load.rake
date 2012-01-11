@@ -345,7 +345,7 @@ namespace :load do
         r.end_time = (a[1].blank? ? nil : a[1].to_date)
         r.no_end_time = (a[2] == "1" ? true : false)
         r.information_source = InformationSource.find_by_name(a[3])
-        r.articles = Article.find_all_by_name( a[6].split(':/:')[1].split(',') ) if a[6].split(':/:')[1] 
+        r.articles = Article.find_all_by_name( a[6].split(':/:')[1].split(',').each do |l| l.strip! end ) if a[6].split(':/:')[1] 
         puts "loading relation data...#{r.inspect}"
         puts r.save
       end
@@ -392,7 +392,7 @@ namespace :load do
         r.o2o_relation_type_id = t.id
         r.no_end_time = true
         r.information_source = InformationSource.find_by_name(a[0])
-        r.articles = Article.find_all_by_name( a[3].split(':/:')[1].split(',') ) if a[3].split(':/:')[1]
+        r.articles = Article.find_all_by_name( a[3].split(':/:')[1].split(',').each do |l| l.strip! end ) if a[3].split(':/:')[1]
         puts "loading relation data...#{r.inspect}"
         puts r.save
       end
@@ -454,7 +454,7 @@ namespace :load do
         r.end_time = (a[1].blank? ? nil : a[1].to_date)
         r.no_end_time = (a[2] == "1" ? true : false)
         r.information_source = InformationSource.find_by_name(a[3])
-        r.articles = Article.find_all_by_name( a[6].split(':/:')[1].split(',') ) if a[6].split(':/:')[1]
+        r.articles = Article.find_all_by_name( a[6].split(':/:')[1].split(',').each do |l| l.strip! end ) if a[6].split(':/:')[1]
         puts "loading relation data...#{r.inspect}"
         puts r.save
       end
