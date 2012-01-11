@@ -263,8 +263,8 @@ namespace :complex do
         puts adosz
         puts cgjsz
         org = nil
-        org = Organization.find_by_tax_nr(adosz) if !adosz.empty? and !adosz.blank?
-        org = Organization.find_by_trade_register_nr( to_trade_register_nr(cgjsz) ) if !org and !cgjsz.empty? and !cgjsz.blank?
+        org = Organization.find_by_tax_nr_and_company(adosz, true) if !adosz.empty? and !adosz.blank?
+        org = Organization.find_by_trade_register_nr_and_company( to_trade_register_nr(cgjsz), true ) if !org and !cgjsz.empty? and !cgjsz.blank?
         org = Organization.find_by_name( nev ) if !org and !nev.blank? and !nev.empty?
         org = Organization.create!( :name => nev,
                                     :trade_register_nr => to_trade_register_nr(cgjsz),
@@ -337,7 +337,7 @@ namespace :complex do
     no_of_not_found = 0
     n = 1
     xa = 0; xb = 0; xc = 0;
-    dirname = 'db/complex/orgs/'
+    dirname = 'public/orgs/'
     logname = "db/complex/import-#{Time.now.to_s(:db).gsub(' ','-').gsub(':','-').gsub('/','-')}.log"
     logfile = File.open(logname, 'w' )
     forwarding = true
@@ -360,18 +360,19 @@ namespace :complex do
       fc = file.length == 13 ? "0" + file : file # lemarad a 0 a file elejéről, amikor 0-val kezdődik a cégjegyzékszám
       cegjegyzekszam = fc.to_s[0..1] + '-' + fc.to_s[2..3] + '-' + fc.to_s[4..9]
       @new_org = false
-      @org = Organization.find_or_create_by_trade_register_nr( cegjegyzekszam ) do |r| 
-        r.name = cegjegyzekszam + rand(3000).to_s
-        r.information_source_id = @info.id
-        @new_org = true
-      end
-
+      @org = Organization.find_by_trade_register_nr_and_company( cegjegyzekszam, true ) # do |r| 
+#        r.name = cegjegyzekszam + rand(3000).to_s
+#        r.information_source_id = @info.id
+#        @new_org = true
+#      end
+      next unless @org
       f = File.open(dirname + file)
       doc = Nokogiri::XML(f, nil, 'ISO8859-2')
       f.close
 
-
-      f = File.open(dirname + file)
+=begin
+# majd inkább beolvassuk egyenként a file-t és beformázzuk amikor kell, nem terheljuk az adatbázist ilyenekkel...
+      f = File.open(dirname + file, 'r:ISO8859-2')
       sf = ""
       f.each do |l|
         l = '  ' + l if l[0..3] == '<rov' or l[0..3] == '</ro'
@@ -380,7 +381,7 @@ namespace :complex do
         sf << l
       end
       @org.complex_xml = sf
-
+=end
 
       puts "- - - - - - - - - - - "
       puts @org.inspect
@@ -411,7 +412,7 @@ namespace :complex do
       @org.zip_code = irszam if @new_org or @org.zip_code.blank?
       @org.alternate_name  = nev   if @new_org
 
-      logstring =  " #{file} -::-  #{@org.id} -::- #{@org.name} -::- #{nev} -::- #{Time.now}"
+      logstring =  " #{file} | #{@org.id} | #{@org.name} | #{nev}"
 
       if @org.complexed_at
          logfile.puts "already complexed: " + logstring 
@@ -421,12 +422,12 @@ namespace :complex do
                   downcase_hu(@org.name).match( downcase_hu(nev.split(' ')[0]).scan(/[a-zéáíőúöüóű\-]/).join )
                  )
         if  @new_org or @org.name[0..15].scan(/[0-9]/).size > 8 
-          logfile.puts "new:         " + logstring 
+          logfile.puts "new:         |" + logstring 
         else
-          logfile.puts "MATCHED:     " + logstring
+          logfile.puts "MATCHED:     |" + logstring
         end
       else
-        logfile.puts   "not matched: " + logstring
+        # logfile.puts   "not matched: |" + logstring
         next
       end
 
@@ -728,12 +729,11 @@ namespace :complex do
                                   :year              => to_date(h['kezd']).try.year
                                 )
           end
-          ap fina
         end
       end
       @org.save
 
-      f.close
+     # f.close
       if @new_org  # azért mentjuk a végén a nevet, mert ha van már ilyen, akkor unique miatt nem fogja engedni
         @org.name     = nev    
         @org.save

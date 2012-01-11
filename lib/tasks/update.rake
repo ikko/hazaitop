@@ -30,37 +30,46 @@ namespace :update do
 
   desc 'strip newlines...'
   task :strip => :environment do
-=begin
     Organization.all.each do |r|
       if r.name.strip != r.name
         r.update_attribute :name, r.name.strip
         puts r.name.strip
       end
+      if r.name.include?('"')
+        r.save
+      end
     end
-=end
 
     def clean x
       return true if x.blank?
-
-      return true if x.include?("Budapest")
+      x = x.downcase
+      return true if x.include?("budapest")
       return true if x.include?(" út")
       return true if x.include?(" utca")
-      return true if x.include?(" tér")
+      return true if x.include?(" u.")
+      return true if x.include?("hrsz")
 
       return false if x.include?("\n")
       return false if x.include?("\r")
       return false if x.split(' ').size > 10
       return false if x.size < 3
+      return false if x.include?('2011')
+      return false if x.include?('2010')
+      return false if x.include?(' és ')
+      return false if x.include?(' határozat ')
+      return false if x.include?(' jogok ')
+      return false if x.include?(' főváros ')
+      return false if x.include?(' ismeretterjeszt ')
       true
     end
 
     Organization.all.each do |r|
-      r.update_attribute :street, ''  unless clean r.street
-      r.update_attribute :city, ''    unless clean r.city
-      r.update_attribute :zip_code,'' unless clean r.zip_code
+      r.update_attribute :street, nil   unless clean r.street
+      r.update_attribute :city, nil     unless clean r.city
+      r.update_attribute :zip_code, nil unless clean r.zip_code
     end
 
-
+=begin
     Article.all.each do |r|
       if r.summary.strip != r.summary
         r.update_attribute :summary, r.summary.strip
@@ -69,7 +78,6 @@ namespace :update do
         r.update_attribute :name, r.name.strip
       end
     end
-
 
     x = Tender.count
     n = 0
@@ -80,5 +88,7 @@ namespace :update do
         r.update_attribute :unique_string, r.applicant.name + r.op_name.try.to_s.strip + r.name.try.to_s.strip + r.decided_at.to_s + r.amount.to_s
       end
     end
+=end
+
   end
 end
