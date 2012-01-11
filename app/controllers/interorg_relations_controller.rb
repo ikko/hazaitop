@@ -15,12 +15,17 @@ class InterorgRelationsController < ApplicationController
   end
 
   def index
-    @this = InterorgRelation.not_mirror.value_is_not('').order_by(:value, 'desc').paginate(:per_page=>10, :page=>1, :include=>[:tender, :contract])
+    @this = InterorgRelation.not_mirror.value_is_not('').order_by(:value, 'desc')
+    respond_to do |format| 
+      format.html  { hobo_index( @this, :per_page => 20, :include => [:tender, :contract] ) }
+      format.xml   { render( :xml  => @this ) and return }
+      format.json  { render( :json => @this ) and return }
+    end
   end
 
   index_action :list do
-    hobo_index InterorgRelation.not_mirror.value_is_not('').order_by(params['sort'].to_sym), :per_page=>10
-    render :index
+    order = params['sort'].try.to_sym ? [params['sort'].to_sym] : [:value, 'desc']
+    @transactions = InterorgRelation.not_mirror.value_is_not('').order_by(*order).paginate(:per_page=>20, :page=>params[:page], :include=>[:tender, :contract])
   end
 
 end
