@@ -1,9 +1,0 @@
-<table-plus-org with="&@organizations" without-table-footer>
-  <order-list:>
-    <a href="/organizations/list?sort=-name" class="left #{!params[:sort] || params[:sort]=='-person_to_org_relations_count' ? 'active' : ''}">ABC szerint</a>
-    <div class="separator left">|</div>
-    <a href="/organizations/list?sort=-updated_at" class="left #{params[:sort] && params[:sort]=='-updated_at' ? 'active' : ''}">Beviteli sorrendben</a>
-  </order-list:>
-  <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{ :action=> 'list', :sort=>params[:sort]}"/>
-</table-plus-org>
-
