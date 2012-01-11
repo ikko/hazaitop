@@ -58,6 +58,7 @@ namespace :update do
       return false if x.include?(' határozat ')
       return false if x.include?(' jogok ')
       return false if x.include?(' főváros ')
+      return false if x.include?(' ismeretterjeszt ')
       true
     end
 
