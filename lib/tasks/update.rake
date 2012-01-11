@@ -55,6 +55,9 @@ namespace :update do
       return false if x.include?('2011')
       return false if x.include?('2010')
       return false if x.include?(' és ')
+      return false if x.include?(' határozat ')
+      return false if x.include?(' jogok ')
+      return false if x.include?(' főváros ')
       true
     end
 
