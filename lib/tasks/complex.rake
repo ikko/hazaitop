@@ -265,7 +265,7 @@ namespace :complex do
         org = nil
         org = Organization.find_by_tax_nr_and_company(adosz, true) if !adosz.empty? and !adosz.blank?
         org = Organization.find_by_trade_register_nr_and_company( to_trade_register_nr(cgjsz), true ) if !org and !cgjsz.empty? and !cgjsz.blank?
-        org = Organization.find_by_name_and_company( nev, true ) if !org and !nev.blank? and !nev.empty?
+        org = Organization.find_by_name( nev ) if !org and !nev.blank? and !nev.empty?
         org = Organization.create!( :name => nev,
                                     :trade_register_nr => to_trade_register_nr(cgjsz),
                                     :country           => orszag,
