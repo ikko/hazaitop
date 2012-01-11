@@ -163,7 +163,7 @@ class OrganizationsController < ApplicationController
 
 
   index_action :list do
-    @organizations = Organization.order_by(params[:sort].try.to_sym || :name).paginate(:per_page=>20, :page=>params[:page], :include=>:information_source)
+    @organizations = Organization.apply_scopes(:order_by => parse_sort_param(:name, :updated_at)).paginate(:per_page=>20, :page=>params[:page], :include=>:information_source)
   end
 
   show_action :merge do
