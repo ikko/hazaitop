@@ -370,8 +370,9 @@ namespace :complex do
       doc = Nokogiri::XML(f, nil, 'ISO8859-2')
       f.close
 
-
-      f = File.open(dirname + file)
+=begin
+# majd inkább beolvassuk egyenként a file-t és beformázzuk amikor kell, nem terheljuk az adatbázist ilyenekkel...
+      f = File.open(dirname + file, 'r:ISO8859-2')
       sf = ""
       f.each do |l|
         l = '  ' + l if l[0..3] == '<rov' or l[0..3] == '</ro'
@@ -380,7 +381,7 @@ namespace :complex do
         sf << l
       end
       @org.complex_xml = sf
-
+=end
 
       puts "- - - - - - - - - - - "
       puts @org.inspect
