@@ -93,7 +93,7 @@ class Person < ActiveRecord::Base
 
     this.person_grades.delete_all
     this.person_to_org_relations.delete_all
-    this.interpersonal_relations..delete_all
+    this.interpersonal_relations.delete_all
     this.person_histories.delete_all
 
     this.delete

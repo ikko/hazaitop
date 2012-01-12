@@ -15,8 +15,9 @@
 
 <extend tag="page">
   <old-page merge>
-    <title:>a Háló</title>
+    <title:>a HÁLÓ</title>
     <custom-scripts:>
+      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
       <hjq-assets/>
       <script>
         var _gaq = _gaq || [];
