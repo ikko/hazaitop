@@ -262,6 +262,7 @@ namespace :complex do
         puts "  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> WIP - organization found: "
         puts adosz
         puts cgjsz
+        puts "név: #{nev}"
         org = nil
         org = Organization.find_by_tax_nr_and_company(adosz, true) if !adosz.empty? and !adosz.blank?
         org = Organization.find_by_trade_register_nr_and_company( to_trade_register_nr(cgjsz), true ) if !org and !cgjsz.empty? and !cgjsz.blank?
@@ -344,16 +345,15 @@ namespace :complex do
     puts "counting..."
     Dir.foreach( dirname ) do |file|
       next if file == '.' or file == '..'
-=begin      
-      if forwarding and file == '509010664.xml'
+
+      if forwarding and file == '909009694.xml'
         forwarding = false     
         xc = xa;
       end
       xa = xa + 1;
       next if forwarding
-      xb = xb + 1;
-      next
-=end
+#      xb = xb + 1;
+#      next
 #      n += 1; break if n > 20
       puts file
       puts file.inspect
