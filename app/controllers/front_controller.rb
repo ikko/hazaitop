@@ -13,21 +13,6 @@ class FrontController < ApplicationController
     @transactions  = InterorgRelation.order_by(:value, 'desc').not_mirror.value_is_not('').paginate(:per_page=>10, :page=>params[:page])
   end
 
-  index_action :person_pagination do
-    params[:sort] ||= '-person_to_org_relations_count'
-    @people = Person.apply_scopes(:order_by => parse_sort_param(:interpersonal_relations_count, :person_to_org_relations_count, :updated_at, :search_result_count)).paginate(:per_page=>10, :page=>params[:page])
-  end
-
-  index_action :org_pagination do
-    params[:sort] ||= '-person_to_org_relations_count'
-    @organizations = Organization.apply_scopes(:order_by => parse_sort_param(:person_to_org_relations_count, :interorg_relations_count, :updated_at, :search_result_count)).paginate(:per_page=>10, :page=>params[:page])
-  end
-
-  index_action :trans_pagination do
-    params[:sort] ||= '-value'
-    @transactions = InterorgRelation.value_is_not('').not_mirror.apply_scopes(:order_by=> parse_sort_param(:value, :issued_at, :search_result_count)).paginate(:per_page=>10, :include=>[:organization, :related_organization, :o2o_relation_type, {:o2o_relation_type => :pair}], :page=>params[:page])
-  end
-
   def how_it_works; end
   def about; end
   def contact; end
