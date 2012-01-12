@@ -117,6 +117,8 @@
           <div id="graph_distance" class="slider"></div>
           Gravitáció:
           <div id="graph_gravity" class="slider"></div>
+          Méret:
+          <div id="graph_node_size" class="slider"></div>
         </div>
         <a id="network_clean" href="">Kirajzolt háló törlése</a>
         
