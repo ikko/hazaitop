@@ -8,6 +8,7 @@ var network;
     edges: {arr: []},
     nodeIds: [],
     layout: 'Tree', 
+    layoutOptions: {},
     maxWeight: 1,
     discoveredNodes: [],
     initialized: false,
@@ -95,8 +96,10 @@ var network;
     draw: function(data) {
       vis.draw({network: this.parse(data), 
                 edgeLabelsVisible: true, 
-                layout: {name: network.layout/*, options:{breadthSpace:50}*/},
-                visualStyle: {global:{backgroundColor: "#010101"},nodes:{labelFontColor: "#ffffff", size:65, labelFontSize:11, labelFontWeight:'bold'}, edges:{labelFontColor: "#ffffff", labelFontSize:11, labelFontWeight:'bold'}}});
+                layout: {name: network.layout, options: network.layoutOptions},
+                visualStyle: {global:{backgroundColor: "#010101"},
+                              nodes:{labelFontColor: "#ffffff", size:65, labelFontSize:11, labelFontWeight:'bold'}, 
+                              edges:{labelFontColor: "#ffffff", labelFontSize:11, labelFontWeight:'bold'}}});
     },
     loadedNodeIds: function() {
       var resp = '';
@@ -143,11 +146,7 @@ var network;
       window.scrollTo(0, $('#'+id+'_tab_label').position().top)
     },
     showNodeInfo: function(nodeData) {
-                    console.log('discovered: ', this.discoveredNodes)
-                    console.log('node: ', nodeData)
       var match = nodeData.id.match(/(.*?)(\d+)$/);
-                    console.log(match)
-                      console.log($.inArray(nodeData.id, this.discoveredNodes))
       if ((match[1] == 'p' || match[1] == 'o' || match[1] == 'l') && $.inArray(nodeData.id, this.discoveredNodes) == -1) {
         $loadNodeRelations.show();
       } else {
@@ -393,6 +392,17 @@ var network;
                                                 open: function() {
                                                   $litigationSearchLoader.hide();
                                                 }}).bind("autocompletesearchcomplete", function() { $litigationSearchLoader.hide(); });;
+
+    $("#graph_distance").slider({min: 1, max: 10, stop: function(event, ui) {
+      network.layoutOptions.minDistance = ui.value;
+      network.draw(network);
+    }});
+
+    $("#graph_gravity").slider({min: 1, max: 100, stop: function(event, ui) {
+      network.layoutOptions.gravitation = ui.value;
+      network.draw(network);
+    }});
+
     $("#network_clean").click(function(e) {
       e.preventDefault();
       network.clean();

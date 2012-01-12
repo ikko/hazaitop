@@ -1,9 +1,9 @@
 <page>
   <append-stylesheets:>
-    <stylesheet name="jquery-ui-1.8.16.custom"/>
+    <stylesheet name="jquery-ui-1.8.17.custom"/>
   </append-stylesheets:>
   <scripts:>
-    <javascript name="jquery-1.4.4, jquery-ui-1.8.16.custom.min, AC_OETags.min, json2.min, cytoscapeweb.min, application, graph"/>
+    <javascript name="jquery-1.4.4, jquery-ui-1.8.17.custom.min, AC_OETags.min, json2.min, cytoscapeweb.min, application, graph"/>
     <script type='text/javascript'>
       <%= "var __debug = true;" if Rails.env.development? %>
       <%= "var __debug = false;" if Rails.env.production? %>
@@ -113,6 +113,10 @@
             <option value="Circle" >Kör</option>
             <option value="ForceDirected" >Erő vezérelt</option>
           </select>
+          Távolság:
+          <div id="graph_distance" class="slider"></div>
+          Gravitáció:
+          <div id="graph_gravity" class="slider"></div>
         </div>
         <a id="network_clean" href="">Kirajzolt háló törlése</a>
         
