@@ -1118,3 +1118,25 @@
 </def>
 
 
+
+<def tag="form" for="Contract">
+  <form merge param="default">
+    <error-messages param/>
+    <field-list fields="no_of_proposals, name, description, sum_value, original_sum_value, s_vat_incl, contracted_value, c_vat_incl, original_contracted_value, estimated_value, e_vat_incl, currency, subject_and_qty, number, issued_at, case_number, buyer, notification, seller" param>
+      <seller-view:>
+        <name-one/>
+      </seller-view:>
+      <buyer-view:>
+        <name-one/>
+      </buyer-view:>
+      <notification-view:>
+        <name-one/>
+      </notification-view:>
+    </field-list>
+    <div param="actions">
+      <submit label="#{ht 'contracts.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
+    </div>
+  </form>
+</def>
+
+

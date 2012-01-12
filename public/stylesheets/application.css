@@ -1002,4 +1002,11 @@ h2 {
   padding: 5px;
 }
 
+textarea {
+  width: 600px;
+  height: 200px;
+}
 
+.boolean {
+  width: auto !important;
+}

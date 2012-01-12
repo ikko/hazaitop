@@ -156,7 +156,8 @@ private
       end
       builded_person_conditions = [cond] + person_pars
       Person.search(params[:query], :name).
-             paginate(:joins=>"left outer join person_to_org_relations on person_to_org_relations.person_id = people.id 
+             paginate(:select=>"distinct people.* ",
+                      :joins=>"left outer join person_to_org_relations on person_to_org_relations.person_id = people.id 
                                left outer join interpersonal_relations on interpersonal_relations.person_id = people.id", 
                       :conditions=>builded_person_conditions,
                       :per_page=>10,
