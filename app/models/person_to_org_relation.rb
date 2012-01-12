@@ -38,7 +38,7 @@ class PersonToOrgRelation < ActiveRecord::Base
 
   has_many :litigation_relations, :as => :litigable, :dependent => :destroy
   has_many :litigations, :through => :litigation_relations, :accessible => true
-=begin
+
   validates_presence_of :p2o_relation_type
   # validates_presence_of :o2p_relation_type
   validate :litigation_related
@@ -75,7 +75,7 @@ class PersonToOrgRelation < ActiveRecord::Base
   after_save do |r|
     r.match
   end
-=end
+
   def match
     self.interpersonal_relations.try.delete_all
     self.other_interpersonal_relations.try.delete_all
