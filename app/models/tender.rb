@@ -36,6 +36,11 @@ class Tender < ActiveRecord::Base
     "#{id}-#{name.to_textual_id}"
   end
 
+
+  def name 
+    attributes["name"].blank? ? "dokumentáció" : attributes["name"]
+  end
+
   # --- Permissions --- #
 
   def create_permitted?
