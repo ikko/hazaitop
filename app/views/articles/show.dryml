@@ -39,19 +39,21 @@
     </field-list>
 
     <div class="details_header">Kapcsolódó profilok:</div>
-    <div class="tabs" style="width: 507px">
-      <div class="active tab"><a href="#people_content">SZEMÉLYEK</a></div><div class="separator"></div>
-      <div class="tab"><a href="#orgs_content">SZERVEZETEK</a></div><div class="separator"></div>
-      <div class="tab" style="width: 225px"><a href="#people_orgs_content">SZEMÉLYEK-SZERVEZETEK</a></div>
-    </div>
-    <div id="people_content" class="tab_content">
-      <table-plus-article-interpersonal with="&@interpersonal_relations"/>    
-    </div>
-    <div id="orgs_content" class="tab_content" style="display: none">
-      <table-plus-article-interorg with="&@interorg_relations"/>
-    </div>
-    <div id="people_orgs_content" class="tab_content" style="display: none">
-      <table-plus-article-person-to-org with="&@person_to_org_relations"/>
+    <div class="contents">
+      <div class="tabs" style="width: 507px">
+        <div class="active tab"><a href="#people_content">SZEMÉLYEK</a></div><div class="separator"></div>
+        <div class="tab"><a href="#orgs_content">SZERVEZETEK</a></div><div class="separator"></div>
+        <div class="tab" style="width: 225px"><a href="#people_orgs_content">SZEMÉLYEK-SZERVEZETEK</a></div>
+      </div>
+      <div id="people_content" class="tab_content">
+        <table-plus-article-interpersonal with="&@interpersonal_relations"/>    
+      </div>
+      <div id="orgs_content" class="tab_content" style="display: none">
+        <table-plus-article-interorg with="&@interorg_relations"/>
+      </div>
+      <div id="people_orgs_content" class="tab_content" style="display: none">
+        <table-plus-article-person-to-org with="&@person_to_org_relations"/>
+      </div>
     </div>
 
   </content-body:>
