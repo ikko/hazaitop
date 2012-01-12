@@ -761,6 +761,9 @@
     </append-custom-scripts:-->
     <field-list: fields="address, phone, fax, email_address, internet_address, trade_register_nr, tax_nr, number_of_employees, information_source, activities">
       <controls:/>
+      <internet-address-view:>
+        <a href='&"http://#{this.try.strip}"' target="_blank"><view/></a>
+      </internet-address-view:>
     </field-list:>
     <heading: class="left"/>
     <after-heading:>
