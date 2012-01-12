@@ -478,7 +478,7 @@
     </header:>
     <body: param>
       <a><view:summary/></a>
-      <i><a><%= I18n.l( this.created_at, :format =>"%B %d, %Y %H:%M") %></a></i>
+      <!--i><a><%= I18n.l( this.created_at, :format =>"%B %d, %Y %H:%M") %></a></i-->
     </body:>
   </card>
 </def>
