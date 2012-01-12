@@ -20,13 +20,13 @@
       <%= this_parent.contract ? "Szerződés" : '' %>
     </contract-label:>
     <contract-view:>
-      <view:contract if="&this_parent.contract"/>
+      <view if="&this_parent.contract"/>
     </contract-view:>
     <tender-label:>
       <%= this_parent.tender   ? "Pályázat" : '' %>
     </tender-label:>
     <tender-view:>
-      <view:tender if="&this_parent.tender"/>
+      <view if="&this_parent.tender"/>
     </tender-view:>
   </field-list:>
   <collection-heading: class="details_header">
