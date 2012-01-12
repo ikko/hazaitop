@@ -9,6 +9,7 @@ var network;
     nodeIds: [],
     layout: 'Tree', 
     layoutOptions: {},
+    visualStyle: {nodes: {size: 65}},
     maxWeight: 1,
     discoveredNodes: [],
     initialized: false,
@@ -98,7 +99,7 @@ var network;
                 edgeLabelsVisible: true, 
                 layout: {name: network.layout, options: network.layoutOptions},
                 visualStyle: {global:{backgroundColor: "#010101"},
-                              nodes:{labelFontColor: "#ffffff", size:65, labelFontSize:11, labelFontWeight:'bold'}, 
+                              nodes:{labelFontColor: "#ffffff", size: network.visualStyle.nodes.size, labelFontSize:11, labelFontWeight:'bold'}, 
                               edges:{labelFontColor: "#ffffff", labelFontSize:11, labelFontWeight:'bold'}}});
     },
     loadedNodeIds: function() {
@@ -400,6 +401,11 @@ var network;
 
     $("#graph_gravity").slider({min: 1, max: 100, stop: function(event, ui) {
       network.layoutOptions.gravitation = ui.value;
+      network.draw(network);
+    }});
+
+    $("#graph_node_size").slider({value: 65, min: 45, max: 100, stop: function(event, ui) {
+      network.visualStyle.nodes.size = ui.value;
       network.draw(network);
     }});
 
