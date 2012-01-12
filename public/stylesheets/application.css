@@ -498,7 +498,7 @@ table .odd {
   color: black;
 }
 
-.heading .person-link, .heading .organization-link, .heading .contract-link, .heading .tender-link, .heading .interorg-relation-link, .heading .article-name {
+.heading .person-link, .heading .organization-link, .heading .contract-link, .heading .tender-link, .heading .interorg-relation-link, .heading .article-name, a.edit-link {
   color: #6EA4B0;
 }
 
@@ -576,7 +576,7 @@ h2 {
 
 .flash.notice {
   background: orange;
-  border: 1px solid green;
+  border: 1px solid yellow;
 }
 
 .from_to_separator {
@@ -1002,4 +1002,11 @@ h2 {
   padding: 5px;
 }
 
+textarea {
+  width: 600px;
+  height: 200px;
+}
 
+.boolean {
+  width: auto !important;
+}

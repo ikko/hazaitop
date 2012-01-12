@@ -539,7 +539,7 @@
     <div class="separator left">|</div>
     <a href="&url_for :controller => 'front', :action => 'trans_pagination', :sort=>'-issued_at'" class="left #{params[:sort] && params[:sort]=='-issued_at' ? 'active' : ''}">Legfrissebb</a>
   </div>
-  <table-plus fields="name, issued_at, value, organization, o2o_relation_type.name, related_organization, o2o_relation_type.pair.name, information_source" without-search-form merge>
+  <table-plus fields="name, issued_at, value, organization, o2o_relation_type.pair.name, related_organization, o2o_relation_type.name, information_source" without-search-form merge>
     <name-heading:><span>Név</span></name-heading:>
     <issued-at-heading:><span>Dátum</span></issued-at-heading:>
     <value-heading:><span>Összeg</span></value-heading:>
@@ -1098,4 +1098,45 @@
     </header:>
   </card>
 </def>
+
+<def tag="form" for="Tender">
+  <form merge param="default">
+    <error-messages param/>
+    <field-list fields="name, project, op_name, amount, subsidy, currency, city, county, region, decided_at, decision_score, found, source, applicant, caller, information_source">
+    <caller-view:>
+      <name-one/>
+    </caller-view:>
+    <applicant-view:>
+      <name-one/>
+    </applicant-view:>
+
+    </field-list>
+    <div param="actions">
+      <submit label="#{ht 'tenders.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
+    </div>
+  </form>
+</def>
+
+
+
+<def tag="form" for="Contract">
+  <form merge param="default">
+    <error-messages param/>
+    <field-list fields="no_of_proposals, name, description, sum_value, original_sum_value, s_vat_incl, contracted_value, c_vat_incl, original_contracted_value, estimated_value, e_vat_incl, currency, subject_and_qty, number, issued_at, case_number, buyer, notification, seller" param>
+      <seller-view:>
+        <name-one/>
+      </seller-view:>
+      <buyer-view:>
+        <name-one/>
+      </buyer-view:>
+      <notification-view:>
+        <name-one/>
+      </notification-view:>
+    </field-list>
+    <div param="actions">
+      <submit label="#{ht 'contracts.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
+    </div>
+  </form>
+</def>
+
 
