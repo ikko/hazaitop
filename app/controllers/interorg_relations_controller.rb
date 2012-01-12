@@ -24,8 +24,7 @@ class InterorgRelationsController < ApplicationController
   end
 
   index_action :list do
-    order = params['sort'].try.to_sym ? [params['sort'].to_sym] : [:value, 'desc']
-    @transactions = InterorgRelation.not_mirror.value_is_not('').order_by(*order).paginate(:per_page=>20, :page=>params[:page], :include=>[:tender, :contract])
+    @transactions = InterorgRelation.not_mirror.value_is_not('').apply_scopes(:order_by => parse_sort_param(:value, :name, :updated_at)).paginate(:per_page=>20, :page=>params[:page], :include=>[:tender, :contract])
   end
 
 end

@@ -1,10 +1,10 @@
 <table-plus-trans with="&@transactions" without-table-footer>
   <order-list:>
-    <a href="/transactions/list?sort=-value" class="left #{!params[:sort] || params[:sort]=='-value' ? 'active' : ''}">Érték szerint</a>
+    <a href="/transactions/list?sort=#{get_sort_param('value', 'asc')}" class="left #{!params[:sort] || @sort_field == 'value' ? 'active' : ''}">Érték szerint</a>
     <div class="separator left">|</div>
-    <a href="/transactions/list?sort=-name" class="left #{params[:sort] && params[:sort]=='-name' ? 'active' : ''}">ABC szerint</a>
+    <a href="/transactions/list?sort=#{get_sort_param('name', 'desc')}" class="left #{@sort_field == 'name' ? 'active' : ''}">ABC szerint</a>
     <div class="separator left">|</div>
-    <a href="/tranzactions/list?sort=-updated_at" class="left #{params[:sort] && params[:sort]=='-updated_at' ? 'active' : ''}">Beviteli sorrendben</a>
+    <a href="/transactions/list?sort=#{get_sort_param('updated_at', 'asc')}" class="left #{@sort_field == 'updated_at' ? 'active' : ''}">Beviteli sorrendben</a>
   </order-list:>
   <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{ :action=> 'list', :sort=>params[:sort]}"/>
 </table-plus-trans>
