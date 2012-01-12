@@ -15,6 +15,7 @@
 
 <extend tag="page">
   <old-page merge>
+    <title:>a Háló</title>
     <custom-scripts:>
       <hjq-assets/>
       <script>
