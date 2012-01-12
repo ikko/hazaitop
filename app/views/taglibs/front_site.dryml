@@ -552,6 +552,7 @@
     <value-view:><a href="#{url_for(this_parent.tender_id ? this_parent.tender : this_parent.contract)}"><%= commify(this) %></a></value-view:>
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'trans_pagination', :sort=>params[:sort]}"/>
   </table-plus>
+  <div param="table_footer" class="table_footer"><a href="#{transactions_path}">További tranzakciók &gt;</a></div>
 </def>
 
 <def tag="collection-litigation">
