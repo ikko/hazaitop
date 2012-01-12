@@ -9,7 +9,7 @@ module ApplicationHelper
     a
   end
 
-  def get_sort_param attr, default_order
+  def get_sort_param attr, default_order = 'asc'
     # default_order: az az alapállapot ami első rákattintásnál történik
     if default_order == 'desc'
       "#{@sort_field != attr || @sort_field == attr && @sort_direction == 'desc' ? '' : '-'}#{attr}"

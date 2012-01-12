@@ -489,13 +489,13 @@
 
 <def tag="table-plus-person">
   <div class="order_list" param="order-list">
-    <a href="/front/person_pagination/?sort=-person_to_org_relations_count" class="left #{!params[:sort] || params[:sort]=='-person_to_org_relations_count' ? 'active' : ''}">Legtöbb szervezeti kapcsolat</a>
+    <a href="/front/person_pagination/?sort=-person_to_org_relations_count" class="left #{!params[:sort] || @sort_field=='person_to_org_relations_count' ? 'active' : ''}">Legtöbb szervezeti kapcsolat</a>
     <div class="separator left">|</div>
-    <a href="/front/person_pagination/?sort=-interpersonal_relations_count" class="left #{params[:sort] && params[:sort]=='-interpersonal_relations_count' ? 'active' : ''}">Legtöbb személyes kapcsolat</a>
+    <a href="/front/person_pagination/?sort=-interpersonal_relations_count" class="left #{@sort_field=='interpersonal_relations_count' ? 'active' : ''}">Legtöbb személyes kapcsolat</a>
     <div class="separator left">|</div>
-    <a href="/front/person_pagination/?sort=-search_result_count" class="left #{params[:sort] && params[:sort]=='-search_result_count' ? 'active' : ''}">Legtöbbet keresett</a>
+    <a href="/front/person_pagination/?sort=-search_result_count" class="left #{@sort_field=='search_result_count' ? 'active' : ''}">Legtöbbet keresett</a>
     <div class="separator left">|</div>
-    <a href="/front/person_pagination/?sort=-updated_at" class="left #{params[:sort] && params[:sort]=='-updated_at' ? 'active' : ''}">Most frissített</a>
+    <a href="/front/person_pagination/?sort=-updated_at" class="left #{@sort_field=='updated_at' ? 'active' : ''}">Most frissített</a>
   </div>
   <table-plus fields="this, person_to_org_relations_count, selected_organization, information_source" without-search-form merge>
     <Person-heading:><span>Név</span></Person-heading:>
