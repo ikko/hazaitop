@@ -90,7 +90,10 @@ namespace :complex do
       else
         relation_type = klass.find_or_create_by_name(role) do |r|
           r.name = role
-          r.pair = klass.create!( :name => pair, :parsed => true )
+          r.pair = klass.find_or_create_by_name_and_parsed(pair, true) do |w|
+            w.name = pair
+            w.parsed = true
+          end
           r.parsed = true
         end
         relation_type.pair.update_attribute :pair_id, relation_type.id 

@@ -161,7 +161,7 @@ class InterorgRelation < ActiveRecord::Base
 
 
   def name 
-    attributes["name"].blank? ? "dokumentáció" : attributes["name"]
+    attributes["name"].blank? ? "<dokumentáció>" : attributes["name"]
   end
 
   # --- Permissions --- #
