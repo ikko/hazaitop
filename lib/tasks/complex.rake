@@ -345,7 +345,7 @@ namespace :complex do
     puts "counting..."
     Dir.foreach( dirname ) do |file|
       next if file == '.' or file == '..'
-
+      logfile.puts 'forwarding' if forwarding
       if forwarding and file == '909009694.xml'
         forwarding = false     
         xc = xa;
