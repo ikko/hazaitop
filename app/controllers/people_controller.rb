@@ -98,12 +98,6 @@ class PeopleController < ApplicationController
 
   end
 
-
-  index_action :search do
-    query = params[:query] || ""
-    @people = Person.search(query, :name).paginate(:per_page=>10, :page=>params[:page])
-  end
-
   def edit
     @this = find_instance
     fill_drop_down

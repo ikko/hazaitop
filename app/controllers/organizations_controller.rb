@@ -114,11 +114,6 @@ class OrganizationsController < ApplicationController
     end
   end
 
-  index_action :search do
-    query = params[:query] || ""
-    @organizations = Organization.search(query, :name).paginate(:per_page=>10, :page=>params[:page])
-  end
-
   index_action :person_to_org_pagination do
     @this = find_instance
     return unless @this
