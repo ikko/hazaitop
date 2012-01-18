@@ -543,6 +543,25 @@ h2 {
   margin-bottom: 5px;
 }
 
+#detailed_search_wrapper table td {
+  padding-left: 0px;
+}
+
+#detailed_search_wrapper table th {
+  font-weight: normal;
+  width: 100px;
+}
+
+#detailed_search_wrapper .field-list {
+  padding-top: 0px;
+  margin-bottom: 0px;
+  clear: none;
+}
+
+#detailed_search_wrapper .inline_input {
+  width: 320px;
+}
+
 .no_top_border {
   border-top: none !important;
 }

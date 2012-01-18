@@ -1,0 +1,219 @@
+<page>
+  <!--append-custom-scripts:>
+    <hjq-assets/>
+  </append-custom-scripts:-->
+  <append-head:>
+    <script>
+      (function($) {
+        $(function(){
+          $("#people_content .pagination a").live('click', function(e) {
+            $(this).html(spinnerImg);
+            $.ajax({url: $(this).attr('href'), success: function(data) {$("#people_content").html(data)}});
+            e.preventDefault();
+          });
+          
+          $("#orgs_content .pagination a").live('click', function(e) {
+            $(this).html(spinnerImg);
+            $.ajax({url: $(this).attr('href'), success: function(data) {$("#orgs_content").html(data)}});
+            e.preventDefault();
+          });
+          
+          $("#trans_content .pagination a").live('click', function(e) {
+            $(this).html(spinnerImg);
+            $.ajax({url: $(this).attr('href'), success: function(data) {$("#trans_content").html(data)}});
+            e.preventDefault();
+          });
+          
+          $("#litigs_content .pagination a").live('click', function(e) {
+            $(this).html(spinnerImg);
+            $.ajax({url: $(this).attr('href'), success: function(data) {$("#litigs_content").html(data)}});
+            e.preventDefault();
+          });
+          
+          $(".article_pagination a").live('click', function(e) {
+            $(this).html(spinnerImg);
+            $.ajax({url: $(this).attr('href'), success: function(data) {$("#arts_content").html(data)}});
+            e.preventDefault();
+          });
+
+          $('#data_transaction').change(function() {
+            if ($(this).is(':checked')) {
+              $('#profil_person').attr('checked', false);
+              $('#profil_organization').attr('checked', false);
+              $('#data_article').attr('checked', false);
+              $('#data_litigation').attr('checked', false);
+              $('#amount_from').attr('disabled', false);
+              $('#amount_to').attr('disabled', false);
+              /*$('#place_of_birth_selector').attr('disabled', true);
+              $('#activity_selector').attr('disabled', true);
+              $('#sector_selector').attr('disabled', true);*/
+            } else {
+              $('#profil_person').attr('checked', true);
+              $('#profil_organization').attr('checked', true);
+              $('#data_article').attr('checked', true);
+              $('#data_litigation').attr('checked', true);
+              $('#amount_from').attr('disabled', true);
+              $('#amount_to').attr('disabled', true);
+              /*$('#place_of_birth_selector').attr('disabled', false);
+              $('#activity_selector').attr('disabled', false);
+              $('#sector_selector').attr('disabled', false);*/
+            }
+          });
+
+          checkTransaction = function() {
+            if ($('#data_transaction').is(':checked')) {
+              $('#amount_from').attr('disabled', true)
+              $('#amount_to').attr('disabled', true)
+              $('#data_transaction').attr('checked', false);
+            }
+          }
+          
+          $('#profil_person').change(checkTransaction);
+          $('#profil_organization').change(checkTransaction);
+          $('#data_article').change(checkTransaction);
+          $('#data_litigation').change(checkTransaction);
+
+          $('#place_of_birth_selector').change(function() {
+            $('#profil_person').attr('checked', true);
+            $('#profil_organization').attr('checked', true);
+            $('#data_article').attr('checked', false);
+            $('#data_litigation').attr('checked', false);
+            $('#data_transaction').attr('checked', false);
+          });
+
+          $('#activity_selector').change(function() {
+            $('#profil_person').attr('checked', false);
+            $('#profil_organization').attr('checked', true);
+            $('#data_article').attr('checked', false);
+            $('#data_litigation').attr('checked', false);
+            $('#data_transaction').attr('checked', false);
+          });
+
+          $('#sector_selector').change(function() {
+            $('#profil_person').attr('checked', false);
+            $('#profil_organization').attr('checked', true);
+            $('#data_article').attr('checked', false);
+            $('#data_litigation').attr('checked', false);
+            $('#data_transaction').attr('checked', false);
+          });
+        });
+      })(jQuery)
+    </script>
+  </append-head:>
+  <content:>
+    <header class="content-header">
+      <h2>Részletes keresés</h2>
+    </header>
+    <!--header class="content-header">
+      <h2>Keresési találatok</h2>
+    </header-->
+    <div id="detailed_search_wrapper">
+      <form with="&@detailed_search">
+        <fieldset class="no_top_border">
+          <field-list: id="query" fields="query"/>
+        </fieldset>
+        <fieldset>
+          <field-list: fields="date_from" class="left inline_input">
+            <date-from-view:>
+              <%= text_field_tag(name, this) %>
+              <div class="from_to_separator"></div>
+            </date-from-view:>
+          </field-list:>
+          <field-list: fields="date_to" class="left" without-date-to-label>
+            <date-to-view:>
+              <%= text_field_tag(name, this) %>
+            </date-to-view:>
+          </field-list:>
+          <field-list: fields="amount_from" style="clear: both;" class="left inline_input clear">
+            <amount-from-view:>
+              <input id="amount_from" disabled="&!@detailed_search.transaction"/>
+              <div class="from_to_separator"></div>
+            </amount-from-view:>
+          </field-list:>
+          <field-list: fields="amount_to" class="left" without-amount-to-label>
+            <amount-to-view:>
+              <input id="amount_to" disabled="&!@detailed_search.transaction"/>
+            </amount-to-view:>
+          </field-list:>
+        </fieldset>
+        <fieldset>
+          <span>Profil:</span>
+          <with-fields  fields="person, organization">
+            <input class="checkbox" id="profil_#{this_field}"/><label class="checkbox_label"><%= this_field_name %></label>
+          </with-fields>
+          <br />
+          <span>Adat:</span>
+          <with-fields  fields="article, litigation">
+            <input class="checkbox" id="data_#{this_field}"/><label class="checkbox_label"><%= this_field_name %></label>
+          </with-fields>
+          <br />
+          <span>Tranzakció:</span>
+          <with-fields  fields="transaction">
+            <input class="checkbox" id="data_#{this_field}"/><label class="checkbox_label"><%= this_field_name %></label>
+          </with-fields>
+        </fieldset>
+        <fieldset>
+          <field-list: fields="place_of_births">
+            <place-of-births-view:>
+              <select-many prompt="Hely hozzáadása">
+                <select: id="place_of_birth_selector"/>
+              </select-many>
+            </place-of-births-view:>
+          </field-list:>
+        </fieldset>
+        <fieldset>
+          <field-list: fields="activities">
+            <activities-view:>
+              <select-many prompt="Tevékenység hozzáadása">
+                <select: id="activity_selector"/>
+              </select-many>
+            </activities-view:>
+          </field-list:>
+        </fieldset>
+        <fieldset>
+          <field-list: fields="sectors">
+            <sectors-view:>
+              <select-many prompt="Ágazat hozzáadása">
+                <select: id="sector_selector"/>
+              </select-many>
+            </sectors-view:>
+          </field-list:>
+        </fieldset>
+        <fieldset class="no_bottom_border">
+          <submit name="submit" class="right" id="detailed_search_submit_button" value="Keresés"/>
+        </fieldset>
+      </form>
+    </div>
+    <% if @detailed_search.transaction %>
+      <div class="details_header">Tranzakciók:</div>
+      <div id="trans_content">
+        <collection-transaction with="&@transactions"/>
+      </div>
+    <% else %>
+      <if test="&@detailed_search.person">
+        <div class="details_header">Személyek:</div>
+        <div id="people_content">
+          <collection-person with="&@people"/>
+        </div>
+      </if>
+      <if test="&@detailed_search.organization">
+        <div class="details_header">Szervezetek:</div>
+        <div id="orgs_content">
+          <collection-organization with="&@organizations"/>
+        </div>
+      </if>
+        <if test="&@detailed_search.litigation">
+        <div class="details_header">Perek:</div>
+        <div id="litigs_content">
+          <collection-litigation with="&@litigations"/>
+        </div>
+      </if>
+      <if test="&@detailed_search.article">
+        <div class="details_header">Cikkek:</div>
+        <div id="arts_content">
+          <collection-article with="&@articles"/>
+        </div>
+      </if>
+    <% end %>
+  </content:>
+</page>

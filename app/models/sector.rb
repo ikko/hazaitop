@@ -8,6 +8,7 @@ class Sector < ActiveRecord::Base
     timestamps
   end
 
+  set_default_order "name"
   has_many :organizations
 
   # --- Permissions --- #

@@ -1145,4 +1145,39 @@
   </form>
 </def>
 
-
+<def attrs='options, targets, remove-label, prompt, disabled, name' tag='select-many'><%
+  prompt ||= "Add #{this_field.titleize.singularize}"
+  options ||= this_field_reflection.klass.all(:conditions =>this.conditions).select {|x| can_view?(x)}
+  name ||= param_name_for_this
+                
+  values = this
+  remove_label ||= ht("hobo.actions.remove", :default=>'Remove')
+  -%>
+  <div class='input select-many' merge-attrs>
+    <div class='item-proto' style='display:none'>
+      <div class='item' param='proto-item'>
+        <span></span>
+        <input name='#{name}[]' type='hidden' param='proto-hidden'/>
+        <input class='remove-item' type='button' value='#{remove_label}' param='proto-remove-button'/>
+      </div>
+    </div>
+    <div class='items'>
+      <div class='item' repeat param='item'>
+        <span><%= h this.to_s %></span>
+        <input name='#{name}[]' type='hidden' value='@#{h this.id}' disabled='&disabled' param='hidden'/>
+        <input class='remove-item' type='button' value='#{remove_label}' disabled='&disabled' param='remove-button'/>
+      </div>
+    </div>
+    <select merge-attrs='&amp;{:disabled =&gt; disabled}' param>
+      <option value=''><prompt/></option>
+      <repeat with='&options'>
+        <if test='&this.in?(values)'>
+          <optgroup class='disabled-option' label='#{h this.to_s}' alt='@#{this.id}'>&nbsp;</optgroup>
+        </if>
+        <else>
+          <option value='@#{this.id}'><%= h this.to_s %></option>
+        </else>
+      </repeat>
+    </select>
+  </div>
+</def>

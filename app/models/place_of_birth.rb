@@ -8,6 +8,7 @@ class PlaceOfBirth < ActiveRecord::Base
     timestamps
   end
 
+  set_default_order "name"
 
   # --- Permissions --- #
 
