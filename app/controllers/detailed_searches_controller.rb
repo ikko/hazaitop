@@ -178,7 +178,7 @@ private
       end
 
       if @detailed_search.activities.present?
-        organizaion_conditions << "(activity_assocs.activity_id in (?))"
+        organization_conditions << "(activity_assocs.activity_id in (?))"
         org_pars << @detailed_search.activities.*.id
       end
 
