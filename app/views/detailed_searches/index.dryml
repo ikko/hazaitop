@@ -44,9 +44,10 @@
               $('#data_litigation').attr('checked', false);
               $('#amount_from').attr('disabled', false);
               $('#amount_to').attr('disabled', false);
-              /*$('#place_of_birth_selector').attr('disabled', true);
+              $('#place_of_birth_selector').attr('disabled', true);
               $('#activity_selector').attr('disabled', true);
-              $('#sector_selector').attr('disabled', true);*/
+              $('#sector_selector').attr('disabled', true);
+              $('.select-many span').addClass('disabled');
             } else {
               $('#profil_person').attr('checked', true);
               $('#profil_organization').attr('checked', true);
@@ -54,9 +55,10 @@
               $('#data_litigation').attr('checked', true);
               $('#amount_from').attr('disabled', true);
               $('#amount_to').attr('disabled', true);
-              /*$('#place_of_birth_selector').attr('disabled', false);
+              $('#place_of_birth_selector').attr('disabled', false);
               $('#activity_selector').attr('disabled', false);
-              $('#sector_selector').attr('disabled', false);*/
+              $('#sector_selector').attr('disabled', false);
+              $('.select-many span').removeClass('disabled');
             }
           });
 
@@ -65,6 +67,17 @@
               $('#amount_from').attr('disabled', true)
               $('#amount_to').attr('disabled', true)
               $('#data_transaction').attr('checked', false);
+            } 
+            if ($('#profil_person').is(':checked') || $('#profil_organization').is(':checked')) {
+              $('#place_of_birth_selector').attr('disabled', false);
+              $('#activity_selector').attr('disabled', false);
+              $('#sector_selector').attr('disabled', false);
+              $('.select-many span').removeClass('disabled');
+            } else {
+              $('#place_of_birth_selector').attr('disabled', true);
+              $('#activity_selector').attr('disabled', true);
+              $('#sector_selector').attr('disabled', true);
+              $('.select-many span').addClass('disabled');
             }
           }
           
