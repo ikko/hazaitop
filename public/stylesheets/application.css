@@ -543,6 +543,15 @@ h2 {
   margin-bottom: 5px;
 }
 
+#detailed_search_wrapper fieldset .remove-item {
+  background: transparent url(/images/minusz.png) no-repeat;
+  border: none;
+  text-indent: -1000px;
+  width: 31px;
+  height: 31px;
+  cursor: pointer;
+}
+
 #detailed_search_wrapper table td {
   padding-left: 0px;
 }

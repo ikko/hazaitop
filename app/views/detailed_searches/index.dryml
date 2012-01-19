@@ -30,7 +30,7 @@
             e.preventDefault();
           });
           
-          $(".article_pagination a").live('click', function(e) {
+          $("#arts_content .pagination a").live('click', function(e) {
             $(this).html(spinnerImg);
             $.ajax({url: $(this).attr('href'), success: function(data) {$("#arts_content").html(data)}});
             e.preventDefault();
