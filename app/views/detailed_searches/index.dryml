@@ -109,6 +109,7 @@
             $('#data_litigation').attr('checked', false);
             $('#data_transaction').attr('checked', false);
           });
+          checkTransaction();
         });
       })(jQuery)
     </script>

@@ -1056,3 +1056,8 @@ textarea {
   width: 70%;
   display: inline-block;
 }
+
+.disabled {
+  background: lightgray !important;
+  color: gray !important;
+}
