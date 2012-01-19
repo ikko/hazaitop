@@ -168,18 +168,18 @@ private
       end
 
       if @detailed_search.place_of_births.present?
-        person_conditions << "(organizations.city in (?))"
-        person_pars << @detailed_search.place_of_births.*.name
+        organization_conditions << "(organizations.city in (?))"
+        org_pars << @detailed_search.place_of_births.*.name
       end
 
       if @detailed_search.sectors.present?
-        person_conditions << "(organizations.sector_id in (?))"
-        person_pars << @detailed_search.sectors.*.id
+        organization_conditions << "(organizations.sector_id in (?))"
+        org_pars << @detailed_search.sectors.*.id
       end
 
       if @detailed_search.activities.present?
-        person_conditions << "(activity_assocs.activity_id in (?))"
-        person_pars << @detailed_search.activities.*.id
+        organizaion_conditions << "(activity_assocs.activity_id in (?))"
+        org_pars << @detailed_search.activities.*.id
       end
 
       cond = ""
