@@ -60,7 +60,7 @@ class DetailedSearchesController < ApplicationController
       end
       # statok:
       unless @detailed_search.query.strip.empty?
-        @people.try.first.try.incremen!t :search_result_count
+        @people.try.first.try.increment! :search_result_count
         @organizations.try.first.try.increment! :search_result_count
         @litigations.try.first.try.increment! :search_result_count
         @articles.try.first.try.increment! :search_result_count
