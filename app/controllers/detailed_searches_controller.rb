@@ -10,7 +10,9 @@ class DetailedSearchesController < ApplicationController
   end
 
   def index
+
     @detailed_search = DetailedSearch.new params[:detailed_search]
+
     @detailed_search.query ||= ""
     # ha ajaxos lapozás van
     if params[:block]
@@ -58,11 +60,11 @@ class DetailedSearchesController < ApplicationController
       end
       # statok:
       unless @detailed_search.query.strip.empty?
-        @people.try.first.try.increment :search_result_count
-        @organizations.try.first.try.increment :search_result_count
-        @litigations.try.first.try.increment :search_result_count
-        @articles.try.first.try.increment :search_result_count
-        @transactions.try.first.try.increment :search_result_count
+        @people.try.first.try.incremen!t :search_result_count
+        @organizations.try.first.try.increment! :search_result_count
+        @litigations.try.first.try.increment! :search_result_count
+        @articles.try.first.try.increment! :search_result_count
+        @transactions.try.first.try.increment! :search_result_count
       end
     end
   end
@@ -75,7 +77,7 @@ private
         pag_params[:conditions].merge!({:city=>@detailed_search.place_of_births.*.name})
       end
       if @detailed_search.sectors.present?
-        pag_params[:conditions].merge!({:sector=>@detailed_search.sectors})
+        pag_params[:conditions].merge!({:sector_id => @detailed_search.sectors})
       end
       if @detailed_search.activities.present?
         pag_params[:joins] = "left outer join activity_assocs on activity_assocs.organization_id=organizations.id"
@@ -171,7 +173,7 @@ private
       end
 
       if @detailed_search.sectors.present?
-        person_conditions << "(organizations.sector in (?))"
+        person_conditions << "(organizations.sector_id in (?))"
         person_pars << @detailed_search.sectors.*.id
       end
 

@@ -3,9 +3,7 @@ class ActivityAssoc < ActiveRecord::Base
 
   hobo_model # Don't put anything above this
 
-  fields do
-    timestamps
-  end
+  fields
 
   belongs_to :activity
   belongs_to :organization
