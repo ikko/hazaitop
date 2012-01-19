@@ -176,6 +176,13 @@
           </field-list:>
         </fieldset>
         <fieldset>
+          <field-list: fields="relations">
+            <relations-view:>
+                <input-many-relation id="relation_selector"/>
+            </relations-view:>
+          </field-list:>
+        </fieldset>
+        <fieldset>
           <field-list: fields="activities">
             <activities-view:>
               <select-many prompt="Tevékenység hozzáadása">

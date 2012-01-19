@@ -14,6 +14,7 @@ class Contract < ActiveRecord::Base
     c_vat_incl :boolean
     original_contracted_value :string
     estimated_value :integer, :limit => 8
+    city :string
     e_vat_incl :boolean
     currency :string
     subject_and_qty :text

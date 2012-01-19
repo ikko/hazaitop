@@ -318,6 +318,11 @@ hu:
       heading:
         other: Találatok
         
+  relations:
+    p2p_relation_types: személyes
+    p2o_relation_types: személy és intézmény közti
+    o2o_relation_types: intézményes
+
   financials:
     year: Év
     balance_sheet_total: Mérlegfőösszeg
@@ -357,6 +362,7 @@ hu:
     place_of_births: Helyek
     sectors: Ágazatok
     activities: Tevékenységek
+    relations: Kapcsolatok
 
     
   users:

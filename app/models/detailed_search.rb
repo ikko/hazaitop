@@ -22,6 +22,9 @@ class DetailedSearch < ActiveRecord::Base
   has_many :detailed_search_sectors
   has_many :sectors, :through => :detailed_search_sectors, :accessible => true
 
+  has_many :detailed_search_relations, :accessible => true
+  has_many :relations, :through => :detailed_search_relations, :accessible => true
+
   # --- Permissions --- #
 
   def create_permitted?

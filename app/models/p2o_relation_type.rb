@@ -22,6 +22,10 @@ class P2oRelationType < ActiveRecord::Base
 
   belongs_to :pair, :class_name => "O2pRelationType"
 
+  has_many :relations, :through => :p2o_relations
+  has_many :p2o_relations, :accessible => true
+
+
   after_create do |r|
     t = O2pRelationType.create( :name => r.name,
                             :weight => r.weight,

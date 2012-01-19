@@ -79,6 +79,11 @@ private
       if @detailed_search.sectors.present?
         pag_params[:conditions].merge!({:sector_id => @detailed_search.sectors})
       end
+      if @detailed_search.relations.present?
+        # TODO
+#        pag_params[:joins] = "left outer join activity_assocs on activity_assocs.organization_id=organizations.id"
+#        pag_params[:conditions].merge!({:"activity_assocs.activity_id"=>@detailed_search.activities})
+      end
       if @detailed_search.activities.present?
         pag_params[:joins] = "left outer join activity_assocs on activity_assocs.organization_id=organizations.id"
         pag_params[:conditions].merge!({:"activity_assocs.activity_id"=>@detailed_search.activities})
@@ -178,6 +183,11 @@ private
       end
 
       if @detailed_search.activities.present?
+        organization_conditions << "(activity_assocs.activity_id in (?))"
+        org_pars << @detailed_search.activities.*.id
+      end
+
+      if @detailed_search.relations.present?
         organization_conditions << "(activity_assocs.activity_id in (?))"
         org_pars << @detailed_search.activities.*.id
       end

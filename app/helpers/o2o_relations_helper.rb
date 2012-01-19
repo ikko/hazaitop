@@ -1,0 +1,2 @@
+module O2oRelationsHelper
+end

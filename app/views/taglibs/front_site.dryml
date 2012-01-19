@@ -1181,3 +1181,60 @@
     </select>
   </div>
 </def>
+
+
+
+ 
+
+<def attrs='minimum, fields, skip, more-skip, template' polymorphic tag='input-many-relation'>
+<%
+# helper function to create id's on buttons to facilitate testing
+def underize(s)
+  s.gsub(/\[/,"_").gsub(/\]/,"")
+end
+%>
+  <set empty='&this.empty?'/>
+  <% template ||= this.try.new_candidate || this.member_class.new %>
+  <% minimum ||= 0 ; minimum = minimum.to_i %>
+  <% skip ||= this.proxy_reflection.klass.reflect_on_all_associations.detect {|p| p.primary_key_name==this.proxy_reflection.primary_key_name}.try.name.to_s if this.respond_to? :proxy_reflection %>
+  <% skip += ",#{more_skip}" if more_skip -%>
+  <ul class='input-many #{this_field.dasherize} #{css_data :input_many_prefix, param_name_for_this} #{css_data(:minimum, minimum)}' merge-attrs>
+    <fake-field-context fake-field='-1' context='&template'>
+      <li class='input-many-li input-many-template' id='#{underize param_name_for_this}'>
+        <div class='input-many-item' param='default'>
+          <field-list param merge-attrs='fields' skip='&skip'/>
+        </div>
+      </li>
+    </fake-field-context>
+    <li class='input-many-li empty #{"hidden" unless this.empty? and minimum==0}' id='#{underize param_name_for_this}_-1_empty'>
+      <!-- HACK way to signal an empty collection to the controller -->
+      <input name='#{param_name_for_this}' class='empty-input' id='#{underize param_name_for_this}' type='hidden' value='' disabled='&(!this.empty? || minimum>0)'/>
+      <fake-field-context fake-field='-1' context='&template'>
+        <div param='empty-message'>
+          <ht key='#{this.class.to_s.underscore}.collection.empty_message'>
+            No <%= this.class.name.titleize.downcase.pluralize %>.
+          </ht>
+        </div>
+        <div class='buttons'>
+          <button param='add-item' id='#{underize param_name_for_this}_add'>+</button>
+        </div>
+      </fake-field-context>
+    </li>
+    <fake-field-context fake-field='0' context='&template'>
+      <li class='input-many-li' id='#{underize param_name_for_this}' if='&(this_parent.empty? && minimum>0)'>
+        <div class='input-many-item' param='default'>
+          <field-list param merge-attrs='fields' skip='&skip'/>
+        </div>
+      </li>
+    </fake-field-context>
+    <li class="input-many-li #{'record-with-errors' unless this.errors.empty?}" repeat id='#{underize param_name_for_this}'>
+      <error-messages class='sub-record' without-heading/>
+      <hidden-id-field/>
+      <div class='input-many-item' param='default'>
+        <field-list param merge-attrs='fields' skip='&skip'/>
+      </div>
+      <div class='buttons'>
+      </div>
+    </li>
+  </ul>
+</def>
