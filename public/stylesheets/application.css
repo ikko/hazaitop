@@ -1038,3 +1038,21 @@ textarea {
 .boolean {
   width: auto !important;
 }
+
+#detailed_search_wrapper .select-many span {
+  background: white;
+  padding: 6px;
+  border: solid 1px  #B6B5B6;
+}
+
+
+
+#detailed_search_wrapper .activities-view span {
+  width: 90%;
+  display: inline-block;
+}
+
+#detailed_search_wrapper .sectors-view span {
+  width: 70%;
+  display: inline-block;
+}
