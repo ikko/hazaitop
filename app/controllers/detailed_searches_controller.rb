@@ -13,6 +13,8 @@ class DetailedSearchesController < ApplicationController
 
     @detailed_search = DetailedSearch.new params[:detailed_search]
 
+    puts @detailed_search.inspect
+
     @detailed_search.query ||= ""
     # ha ajaxos lapozás van
     if params[:block]
@@ -80,9 +82,16 @@ private
         pag_params[:conditions].merge!({:sector_id => @detailed_search.sectors})
       end
       if @detailed_search.relations.present?
-        # TODO
-#        pag_params[:joins] = "left outer join activity_assocs on activity_assocs.organization_id=organizations.id"
-#        pag_params[:conditions].merge!({:"activity_assocs.activity_id"=>@detailed_search.activities})
+        # TODO itt a pag_params[:joins] most mindig felül van csapva!                
+        if @detailed_search.relations.first.p2o_relation_types.present?
+          pag_params[:joins] = "left outer join person_to_org_relations on person_to_org_relations.organization_id=organizations.id"
+          pag_params[:conditions].merge!({:"person_to_org_relations.p2o_relation_type_id"=>@detailed_search.relations.first.p2o_relation_types})
+        end
+        if @detailed_search.relations.first.o2o_relation_types.present?
+          # TODO a relatedet is bejoin-onljuk
+          pag_params[:joins] = "left outer join interorg_relations on interorg_relations.organization_id=organizations.id"
+          pag_params[:conditions].merge!({:"interorg_relations.o2o_relation_type_id"=>@detailed_search.relations.first.o2o_relation_types})
+        end
       end
       if @detailed_search.activities.present?
         pag_params[:joins] = "left outer join activity_assocs on activity_assocs.organization_id=organizations.id"
@@ -92,6 +101,16 @@ private
     if relation.to_sym == :person && @detailed_search.person?
       if @detailed_search.place_of_births.present?
         pag_params[:conditions].merge!({:city=>@detailed_search.place_of_births.*.name})
+      end
+      if @detailed_search.relations.present?
+        if @detailed_search.relations.first.p2p_relation_types.present?
+          pag_params[:joins] = "left outer join interpersonal_relations on interpersonal_relations.person_id=people.id"
+          pag_params[:conditions].merge!({:"interpersonal_relations.p2p_relation_type_id"=>@detailed_search.relations.first.p2p_relation_types})
+        end
+        if @detailed_search.relations.first.p2o_relation_types.present?
+          pag_params[:joins] = "left outer join person_to_org_relations on person_to_org_relations.person_id=people.id"
+          pag_params[:conditions].merge!({:"person_to_org_relations.p2o_relation_type_id"=>@detailed_search.relations.first.p2o_relation_types})
+        end
       end
     end
     pag_params
@@ -142,6 +161,17 @@ private
         person_pars << @detailed_search.place_of_births.*.name
       end
 
+      if @detailed_search.relations.present?
+        if @detailed_search.relations.first.p2o_relations.present?
+          person_conditions << "(p2o_relations.p2o_relation_type_id in (?))"
+          person_pars << @detailed_search.relations.first.p2o_relations.*.id
+        end
+        if @detailed_search.relations.first.p2p_relations.present?
+          person_conditions << "(p2p_relations.p2p_relation_type_id in (?))"
+          person_pars << @detailed_search.relations.first.p2p_relations.*.id
+        end
+      end
+
       cond = ""
       person_conditions.flatten.each_with_index do |e, i|
         cond << (i>0 ? " and #{e}" : e)
@@ -188,8 +218,14 @@ private
       end
 
       if @detailed_search.relations.present?
-        organization_conditions << "(activity_assocs.activity_id in (?))"
-        org_pars << @detailed_search.activities.*.id
+        if @detailed_search.relations.first.p2o_relation_types.present?
+          organization_conditions << "(p2o_relations.p2o_relation_type_id in (?))"
+          org_pars << @detailed_search.relations.first.p2o_relation_types.*.id
+        end
+        if @detailed_search.relations.first.o2o_relation_types.present?
+          organization_conditions << "(o2o_relations.o2o_relation_type_id in (?))"
+          org_pars << @detailed_search.relations.first.o2o_relation_types.*.id
+        end
       end
 
       cond = ""
@@ -199,9 +235,9 @@ private
       builded_organization_conditions = [cond] + org_pars
       Organization.search(@detailed_search.query, :name).
                    paginate(:select=>"distinct organizations.* ",
-                            :joins=>"left outer join person_to_org_relations on person_to_org_relations.organization_id = organizations.id
-                                     left outer join interorg_relations on interorg_relations.organization_id = organizations.id
-                                     left outer join activity_assocs on activity_assocs.organization_id=organizations.id",
+                            :joins=>"left outer join interorg_relations on interorg_relations.organization_id = organizations.id
+                                     left outer join activity_assocs on activity_assocs.organization_id=organizations.id
+                                     left outer join person_to_org_relations on person_to_org_relations.organization_id = organizations.id",
                             :conditions=>builded_organization_conditions,
                             :per_page=>10,
                             :page=>params[:page])
