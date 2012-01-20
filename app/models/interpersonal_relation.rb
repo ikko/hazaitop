@@ -80,6 +80,7 @@ class InterpersonalRelation < ActiveRecord::Base
                                                 :information_source_id => r.information_source_id,
                                                 :organization_id => r.organization_id,
                                                 :person_to_org_relation_id => r.person_to_org_relation_id,
+                                                :parsed = r.parsed,
                                                 :other_person_to_org_relation_id => r.other_person_to_org_relation_id,
                                                 :start_time => r.start_time,
                                                 :end_time => r.end_time,

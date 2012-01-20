@@ -98,6 +98,7 @@ class InterorgRelation < ActiveRecord::Base
                                           :interorg_relation_id => r.id,
                                           :o2o_relation_type_id => relation_type_id,
                                           :information_source_id => r.information_source_id,
+                                          :parsed => r.parsed,
                                           :visual => visual,
                                           :mirrored => true,
                                           :value => r.value,
