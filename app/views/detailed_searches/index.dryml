@@ -47,7 +47,9 @@
               $('#place_of_birth_selector').attr('disabled', true);
               $('#activity_selector').attr('disabled', true);
               $('#sector_selector').attr('disabled', true);
+              $('#detailed_search_relations_-1_add').attr('disabled', true);
               $('.select-many span').addClass('disabled');
+              $('select').addClass('disabled');
             } else {
               $('#profil_person').attr('checked', true);
               $('#profil_organization').attr('checked', true);
@@ -58,7 +60,9 @@
               $('#place_of_birth_selector').attr('disabled', false);
               $('#activity_selector').attr('disabled', false);
               $('#sector_selector').attr('disabled', false);
+              $('#detailed_search_relations_-1_add').attr('disabled', false);
               $('.select-many span').removeClass('disabled');
+              $('select').removeClass('disabled');
             }
           });
 
@@ -72,12 +76,16 @@
               $('#place_of_birth_selector').attr('disabled', false);
               $('#activity_selector').attr('disabled', false);
               $('#sector_selector').attr('disabled', false);
+              $('#detailed_search_relations_-1_add').attr('disabled', false);
               $('.select-many span').removeClass('disabled');
+              $('select').removeClass('disabled');
             } else {
               $('#place_of_birth_selector').attr('disabled', true);
               $('#activity_selector').attr('disabled', true);
               $('#sector_selector').attr('disabled', true);
+              $('#detailed_search_relations_-1_add').attr('disabled', true);
               $('.select-many span').addClass('disabled');
+              $('select').addClass('disabled');
             }
           }
           
