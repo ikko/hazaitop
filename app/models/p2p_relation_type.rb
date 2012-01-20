@@ -20,6 +20,9 @@ class P2pRelationType < ActiveRecord::Base
 
   belongs_to :pair, :class_name => "P2pRelationType"
 
+  has_many :interpersonal_relations
+  has_many :people       , :through => :interpersonal_relations, :accessible => true
+
   # --- Permissions --- #
 
   def create_permitted?

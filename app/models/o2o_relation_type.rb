@@ -20,6 +20,10 @@ class O2oRelationType < ActiveRecord::Base
 
   belongs_to :pair, :class_name => "O2oRelationType"
 
+  has_many :interorg_relations
+  has_many :organizations, :through => :interorg_relations, :accessible => true
+  
+
   # --- Permissions --- #
 
   def create_permitted?

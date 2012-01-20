@@ -12,12 +12,17 @@ class P2pRelationTypesController < ApplicationController
   def show
     @this = find_instance
     respond_to do |format| 
-      format.html  { hobo_show @this }
+      format.html  { 
+        hobo_show @this do 
+          @people = this.people.paginate(:page => params[:page]) 
+        end 
+      }
       format.xml   { render(:xml => @this) }
       format.json  { render(:json=> @this) }
     end
   end
+end 
 
 
-end
+
 

@@ -1238,3 +1238,41 @@ end
     </li>
   </ul>
 </def>
+
+
+
+
+
+<extend tag="show-page" for="P2oRelationType"> 
+  <old-show-page merge> 
+    <collection: replace> 
+      <page-nav with="&@people" param="top-page-nav"/> 
+      <collection with="&@people" /> 
+      <page-nav with="&@people" param="bottom-page-nav"/> 
+    </collection:>
+  </old-show-page> 
+</extend> 
+
+   
+<extend tag="show-page" for="O2oRelationType"> 
+  <old-show-page merge> 
+    <collection: replace> 
+      <page-nav with="&@organizations" param="top-page-nav"/> 
+      <collection with="&@organizations" /> 
+      <page-nav with="&@organizations" param="bottom-page-nav"/> 
+    </collection:>
+  </old-show-page> 
+</extend> 
+
+   
+<extend tag="show-page" for="P2pRelationType"> 
+  <old-show-page merge> 
+    <collection: replace> 
+      <page-nav with="&@people" param="top-page-nav"/> 
+      <collection with="&@people" /> 
+      <page-nav with="&@people" param="bottom-page-nav"/> 
+    </collection:>
+  </old-show-page> 
+</extend> 
+
+   
