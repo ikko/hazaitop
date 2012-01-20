@@ -7,7 +7,7 @@ var network;
     nodes: {arr: []},
     edges: {arr: []},
     nodeIds: [],
-    layout: 'Tree', 
+    layout: 'Radial', 
     layoutOptions: {},
     visualStyle: {nodes: {size: 65}},
     maxWeight: 1,

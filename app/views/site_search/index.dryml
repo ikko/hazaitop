@@ -108,8 +108,8 @@
         <div id="graphtype_wrapper">
           Elrendezés:
           <select id="graphtype">
-            <option value="Tree" selected="selected">Fa struktúra</option>
-            <option value="Radial" >Sugárirányú</option>
+            <option value="Tree">Fa struktúra</option>
+            <option value="Radial" selected="selected">Sugárirányú</option>
             <option value="Circle" >Kör</option>
             <option value="ForceDirected" >Erő vezérelt</option>
           </select>
