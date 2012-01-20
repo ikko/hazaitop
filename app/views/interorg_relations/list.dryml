@@ -6,5 +6,5 @@
     <div class="separator left">|</div>
     <a href="/transactions/list?sort=#{get_sort_param('updated_at', 'asc')}" class="left #{@sort_field == 'updated_at' ? 'active' : ''}">Beviteli sorrendben</a>
   </order-list:>
-  <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{ :action=> 'list', :sort=>params[:sort]}"/>
+  <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{ :action=> 'list', :sort=>params[:sort]}" inner_window="12" outer_window="2"/>
 </table-plus-trans>

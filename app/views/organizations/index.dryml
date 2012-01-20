@@ -29,7 +29,7 @@
           <div class="separator left">|</div>
           <a href="/organizations/list?sort=-updated_at" class="left">Beviteli sorrendben</a>
         </order-list:>
-        <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{ :action=> 'list', :sort=>params[:sort]}"/>
+        <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{ :action=> 'list', :sort=>params[:sort]}" inner_window="12" outer_window="2"/>
       </table-plus-org>
     </div>
   </collection:>

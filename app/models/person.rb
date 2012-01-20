@@ -101,18 +101,18 @@ class Person < ActiveRecord::Base
   end
 
   # --- Permissions --- #
-
   def create_permitted?
     acting_user.administrator? || (acting_user.editor? && user.id == acting_user.id)
   end
 
   def update_permitted?
-    acting_user.administrator? || (acting_user.editor? && !user_id_changed?)
+    acting_user.administrator? || acting_user.editor? || acting_user.supervisor?
   end
 
   def destroy_permitted?
-    acting_user.administrator? || acting_user.supervisor?
+    acting_user.administrator? || acting_user.supervisor? || acting_user.editor?
   end
+
 
   def view_permitted?(field)
     true
