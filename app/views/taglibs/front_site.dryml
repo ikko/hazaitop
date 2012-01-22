@@ -1240,6 +1240,12 @@ end
 </def>
 
 
+<def tag='page-nav'>
+  <select if="&this.total_pages.present?" class="page_selector">
+    <%= options_for_select((1..this.total_pages).map{|p| ["#{p}. oldal", p]}, this.current_page) %>
+  </select>
+  <%= will_paginate this, attributes.symbolize_keys.reverse_merge(:inner_window => 2, :previous_label => translate("hobo.actions.previous", :default=>"&laquo; Prev"), :next_label =>translate("hobo.actions.next", :default=>"Next &raquo;")) %>
+</def>
 
 
 

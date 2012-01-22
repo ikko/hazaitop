@@ -335,6 +335,10 @@ table .odd {
   font-size: 11px;
 }
 
+.page_selector {
+  float: right;
+}
+
 .index-page .top-page-nav, .index-page .bottom-page-nav {
   width: 100%;
   line-height: 23px;

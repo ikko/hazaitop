@@ -57,6 +57,11 @@ if (typeof jQuery != 'undefined') {
           $(".org_relation").attr("checked", "")
         }
       });
+
+      // oldal váltó
+      $(".page_selector").live("change", function() {
+        $(this).parent().find(".pagination").append("<a href='"+$(this).next().find("a:first").attr("href").replace(/page=\d+/, "page="+$(this).val())+"'></a>").find("a:last").click();
+      });
     });
 
   })(jQuery)
