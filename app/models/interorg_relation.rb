@@ -58,7 +58,7 @@ class InterorgRelation < ActiveRecord::Base
   validate :source_present
 
   has_many :interorg_relations #, :dependent => :destroy
-# =begin
+=begin
   after_destroy do |r| 
     r.interorg_relations.first.try.destroy 
     r.interorg_relation.try.destroy
@@ -151,7 +151,7 @@ class InterorgRelation < ActiveRecord::Base
   after_destroy do |r|
     r.interorg_relation.try.destroy
   end
-# =end
+=end
   def to_param
     if name.present?
       "#{id}-#{name.to_textual_id}"
