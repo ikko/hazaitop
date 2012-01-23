@@ -37,7 +37,7 @@ class InterpersonalRelation < ActiveRecord::Base
 
   has_many :litigation_relations, :as => :litigable, :dependent => :destroy
   has_many :litigations, :through => :litigation_relations, :accessible => true
-=begin
+#=begin
   validates_presence_of :related_person
   validates_presence_of :p2p_relation_type
   validate :litigation_related
@@ -139,7 +139,7 @@ class InterpersonalRelation < ActiveRecord::Base
   after_destroy do |r|
     r.interpersonal_relation.try.destroy
   end
-=end
+#=end
 
   # --- Permissions --- #
 
