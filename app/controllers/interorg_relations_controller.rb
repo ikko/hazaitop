@@ -20,7 +20,7 @@ class InterorgRelationsController < ApplicationController
 
   def index
     @this = InterorgRelation.not_mirror.value_is_not('').order_by(:value, 'desc')
-    params[:sort] ||= "value"
+    params[:sort] ||= "-value"
     respond_to do |format| 
       format.html  { hobo_index( @this, :per_page => 20, :include => [:tender, :contract] ) }
       format.xml   { render( :xml  => @this ) and return }

@@ -46,7 +46,7 @@
           <ul>
             <li><a href="/people">Személyek</a></li>
             <li><a href="/organizations">Szervezetek</a></li>
-            <li><a href="/transactions/?sort=value">Tranzakciók</a></li>
+            <li><a href="/transactions/?sort=-value">Tranzakciók</a></li>
           </ul>
         </div>
         <div class="header_link_column">
