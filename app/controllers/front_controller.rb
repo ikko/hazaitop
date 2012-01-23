@@ -5,7 +5,13 @@ class FrontController < ApplicationController
 
   caches_page :index, :expires_in => 4.minutes
   caches_page :impressum, :expires_in => 90.minutes
+  caches_page :about, :expires_in => 90.minutes
+  caches_page :how_it_works, :expires_in => 90.minutes
+  caches_page :contact, :expires_in => 90.minutes
   caches_page :development, :expires_in => 90.minutes
+  caches_page :person_pagination, :expires_in => 4.minutes
+  caches_page :org_pagination, :expires_in => 4.minutes
+  caches_page :trans_pagination, :expires_in => 4.minutes
 
   def index
     @people        = Person.order_by(:person_to_org_relations_count, 'desc').paginate(:per_page=>10, :page=>params[:page])

@@ -7,8 +7,14 @@ class PeopleController < ApplicationController
 
   autocomplete
 
-#  caches_page :show,  :expires_in => 4.minutes
-#  caches_page :index, :expires_in => 4.minutes
+  caches_page :show,  :expires_in => 10.minutes
+  caches_page :index, :expires_in => 10.minutes
+
+  caches_page :person_to_org_pagination, :expires_in => 20.minutes
+  caches_page :interorg_pagination, :expires_in => 20.minutes
+  caches_page :history_pagination, :expires_in => 20.minutes
+  caches_page :list, :expires_in => 20.minutes
+
 
   def create
     add_new_entities

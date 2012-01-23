@@ -7,6 +7,10 @@ class ArticlesController < ApplicationController
 
   autocomplete
 
+  caches_page :show,  :expires_in => 10.minutes
+  caches_page :index, :expires_in => 10.minutes
+
+
   def new
     fill_drop_down
     hobo_new

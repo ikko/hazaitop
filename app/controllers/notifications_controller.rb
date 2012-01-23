@@ -7,5 +7,9 @@ class NotificationsController < ApplicationController
 
   autocomplete
 
+  caches_page :show, :expires_in => 180.minutes
+  caches_page :index, :expires_in => 180.minutes
+
+
 end
 

@@ -3,6 +3,9 @@ class SiteSearchController < ApplicationController
 
   hobo_controller
 
+  caches_page :index,     :expires_in => 90.minutes
+  caches_page :node_show, :expires_in => 90.minutes
+
   def generate_node(source, source_type)
     node = {}
     no_data = 'Nincs adat'
@@ -369,6 +372,8 @@ class SiteSearchController < ApplicationController
               else Litigation
             end.find(params[:id])
   end
+
+
 
   def index
     if params[:id] && params[:type]

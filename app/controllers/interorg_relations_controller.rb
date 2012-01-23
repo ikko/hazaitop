@@ -5,6 +5,10 @@ class InterorgRelationsController < ApplicationController
 
   auto_actions :all #, :index, :show
 
+  caches_page :show,  :expires_in => 180.minutes
+  caches_page :index, :expires_in => 180.minutes
+  caches_page :list,  :expires_in => 180.minutes
+
   def show
     @this = find_instance
     respond_to do |format| 

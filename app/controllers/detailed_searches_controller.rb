@@ -4,6 +4,11 @@ class DetailedSearchesController < ApplicationController
 
   auto_actions :index, :create
 
+  caches_page :create, :expires_in => 10.minutes
+  caches_page :new, :expires_in => 10.minutes
+  caches_page :index, :expires_in => 10.minutes
+
+
   def create
     index
     render :action => :index
