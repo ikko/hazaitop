@@ -396,30 +396,37 @@ Then /^mutasd az oldalt$/ do
 end
 
 Akkor /^letöltöm az irányítószám alapján a találatokat$/ do
-    (1010..1010).each do |i|
-      When %Q{kitöltöm a "tbxZip" mezőt a következővel "#{i}"}
-      And %q{a "Keresés" gombra kattintunk}
-      Then %q{látnunk kell az "elem megjelenítve" szöveget}
-        @klink = []
-        @klinks = all(".OITH_DgBorder tr a")
-        @klinks.size.times do |n|
-          puts @klink[n] = @klinks[n].text
+  f = File.open('db/civil.txt', 'w')
+  (9995..9998).each do |i|
+    When %Q{kitöltöm a "tbxZip" mezőt a következővel "#{i}"}
+    And %q{a "Keresés" gombra kattintunk}
+    begin 
+#      Then %q{látnunk kell az "elem megjelenítve" szöveget}
+      @klink = []
+      @klinks = all(".OITH_DgBorder tr a")
+      @klinks.size.times do |n|
+        @klink[n] = @klinks[n].text
+      end
+      @klinks.size.times do |n|
+        And %Q{a "#{@klink[n]}" linkre kattintunk}
+        Then %q{látnunk kell az "részletes adatai" szöveget}
+        @kdata = all(".OITH_InputUnit td")
+        s = ""
+        @kdata.size.times do |m|
+          s << "#{@kdata[m].try.text};"
         end
-        @klinks.size.times do |n|
-          puts @klink[n] 
-          And %Q{a "#{@klink[n]}" linkre kattintunk}
-          Then %q{látnunk kell az "részletes adatai" szöveget}
-          @kdata = all(".OITH_InputUnit td")
-          puts @kdata.size
-          @kdata.size.times do |m|
-            puts @kdata[m].try.text
-          end
-          And %Q{a "Vissza a találatokhoz" linkre kattintunk}
-        end
-
-
-
-
-    end
+        f.puts(s)
+        sleep 1
+        And %Q{a "Vissza a találatokhoz" linkre kattintunk}
+      end
+      vanmeg = page.has_css?("a[name=linkNext]")
+      if vanmeg
+        linkNext = find("a[name=linkNext]")
+        And %Q{a "#{linkNext.text}" linkre kattintunk}
+      end
+    end while vanmeg
+    And %Q{a "Vissza a kereséshez" linkre kattintunk}
+  end
+  f.close
 end
 

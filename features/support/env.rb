@@ -43,7 +43,7 @@ Spork.prefork do
       @port = 3000
     end
   end
-
+  driver = Selenium::WebDriver.for :chrome, :switches => %w[--ignore-certificate-errors --disable-popup-blocking --disable-translate]
   # chrome böngészőben való teszteléshez
 #  Capybara.register_driver :chrome do |app|
 #    Capybara::Selenium::Driver.new(app, :browser => :chrome)
