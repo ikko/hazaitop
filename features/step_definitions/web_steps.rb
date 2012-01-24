@@ -395,22 +395,6 @@ Then /^mutasd az oldalt$/ do
   save_and_open_page
 end
 
-Then /a site zárva van új regisztrálás elől/ do
-  Then "1 setting-nek kell léteznie a következőkkel site_closed: true"
-  Given "az ifindeye kezdőoldalra megyek"
-  Then %q{látnunk kell a "start ifindeye" linket a ".start" elemben js}
-  Then %q{látnunk kell a "Site registration currently is closed!" szöveget az ".info" elemben js}
-end
-
-Then /a site nyitva van új regisztrálásra/ do
-  Then "1 setting-nek kell léteznie a következőkkel site_closed: false"
-  Given "az ifindeye kezdőoldalra megyek"
-  Then %q{látnunk kell a "start ifindeye" linket a ".start" elemben js}
-  Then %q{nem szabad látni a "site registration currently is closed!" szöveget az ".info" elemben}
-  Then %q{látnunk kell az ".fb-like" elemet}
-end
-
-
 Akkor /^letöltöm az irányítószám alapján a találatokat$/ do
     (1010..1010).each do |i|
       When %Q{kitöltöm a "tbxZip" mezőt a következővel "#{i}"}
