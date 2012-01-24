@@ -77,6 +77,8 @@ When /^(?:|I )fill in the following(?: within "([^\"]*)")?:$/ do |selector, fiel
   with_scope(selector) do
     fields.rows_hash.each do |name, value|
       When %{I fill in "#{name}" with "#{value}"}
+
+      W
     end
   end
 end
@@ -407,3 +409,33 @@ Then /a site nyitva van új regisztrálásra/ do
   Then %q{nem szabad látni a "site registration currently is closed!" szöveget az ".info" elemben}
   Then %q{látnunk kell az ".fb-like" elemet}
 end
+
+
+Akkor /^letöltöm az irányítószám alapján a találatokat$/ do
+    (1010..1010).each do |i|
+      When %Q{kitöltöm a "tbxZip" mezőt a következővel "#{i}"}
+      And %q{a "Keresés" gombra kattintunk}
+      Then %q{látnunk kell az "elem megjelenítve" szöveget}
+        @klink = []
+        @klinks = all(".OITH_DgBorder tr a")
+        @klinks.size.times do |n|
+          puts @klink[n] = @klinks[n].text
+        end
+        @klinks.size.times do |n|
+          puts @klink[n] 
+          And %Q{a "#{@klink[n]}" linkre kattintunk}
+          Then %q{látnunk kell az "részletes adatai" szöveget}
+          @kdata = all(".OITH_InputUnit td")
+          puts @kdata.size
+          @kdata.size.times do |m|
+            puts @kdata[m].try.text
+          end
+          And %Q{a "Vissza a találatokhoz" linkre kattintunk}
+        end
+
+
+
+
+    end
+end
+

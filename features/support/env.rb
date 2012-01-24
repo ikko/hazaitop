@@ -27,13 +27,15 @@ Spork.prefork do
 #  end
 
   Capybara.default_selector = :css
+
   # NOTE: alapba a saját gépen tesztelünk, @facebook-al tagelt tesztek a hookban beállított hoston futnak
   # a http szükséges vmiért a chrome-nak
-  Capybara.app_host = "http://localhost:3000"
+  Capybara.app_host = "http://www.birosag.hu"
   Capybara.default_driver = :selenium
-  Capybara.default_wait_time = 20
+  #Capybara.default_wait_time = 50
   Capybara.ignore_hidden_elements = true
   Hobo::Dryml.precompile_taglibs
+  Capybara.server_boot_timeout = 90
 
   # NOTE: ez a rész kell a chrome-hoz vmiért
   class Capybara::Server
@@ -43,9 +45,9 @@ Spork.prefork do
   end
 
   # chrome böngészőben való teszteléshez
-  Capybara.register_driver :chrome do |app|
-    Capybara::Driver::Selenium.new(app, :browser => :chrome)
-  end
+#  Capybara.register_driver :chrome do |app|
+#    Capybara::Selenium::Driver.new(app, :browser => :chrome)
+#  end
 
   puts "App host #{Capybara.app_host} in use..."
 end

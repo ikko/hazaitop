@@ -5,10 +5,10 @@ Jellemző:
   Én mint új felhasználó
   Megnézem a promó oldalt és engedélyezem az alkalamzást
 
-  Háttér:
-    Ha én létezek
-    És én be vagyok lépve a hoboba
-    És a "start ifindeye" linkre kattintok
+  @wip 
+  Forgatókönyv:
+    Ha a keresés oldalra megyek
+    Akkor letöltöm az irányítószám alapján a találatokat
 
   Forgatókönyv: Új kép kiválasztási és feltöltési lehetőség (ha még nincs egy sem feltöltve)
     És a "Settings" linkre kattintok

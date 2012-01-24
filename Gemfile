@@ -5,7 +5,14 @@ gem "domainatrix"
 gem "nokogiri"
 gem "pdftohtmlr"
 
-group :development do
+
+group :development, :test do
+  gem 'pickle'
+  gem "spork", "0.8.5"
   gem "thin"
   gem "mysql"
+  gem "capybara", "1.1.1"
+  gem "cucumber", "1.1.0"
+  gem "cucumber-rails", "0.3.2"
+  gem "database_cleaner"
 end
