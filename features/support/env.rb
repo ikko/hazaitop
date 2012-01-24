@@ -32,7 +32,7 @@ Spork.prefork do
   # a http szükséges vmiért a chrome-nak
   Capybara.app_host = "http://www.birosag.hu"
   Capybara.default_driver = :selenium
-  #Capybara.default_wait_time = 50
+  Capybara.default_wait_time = 50
   Capybara.ignore_hidden_elements = true
   Hobo::Dryml.precompile_taglibs
   Capybara.server_boot_timeout = 90
@@ -43,7 +43,7 @@ Spork.prefork do
       @port = 3000
     end
   end
-  driver = Selenium::WebDriver.for :chrome, :switches => %w[--ignore-certificate-errors --disable-popup-blocking --disable-translate]
+#  driver = Selenium::WebDriver.for :chrome, :switches => %w[--ignore-certificate-errors --disable-popup-blocking --disable-translate]
   # chrome böngészőben való teszteléshez
 #  Capybara.register_driver :chrome do |app|
 #    Capybara::Selenium::Driver.new(app, :browser => :chrome)

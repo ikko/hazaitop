@@ -397,7 +397,7 @@ end
 
 Akkor /^letöltöm az irányítószám alapján a találatokat$/ do
   f = File.open('db/civil.txt', 'w')
-  (9995..9998).each do |i|
+  (1000..9999).each do |i|
     When %Q{kitöltöm a "tbxZip" mezőt a következővel "#{i}"}
     And %q{a "Keresés" gombra kattintunk}
     begin 
@@ -411,11 +411,12 @@ Akkor /^letöltöm az irányítószám alapján a találatokat$/ do
         And %Q{a "#{@klink[n]}" linkre kattintunk}
         Then %q{látnunk kell az "részletes adatai" szöveget}
         @kdata = all(".OITH_InputUnit td")
-        s = ""
+        s = "#{i};"
         @kdata.size.times do |m|
           s << "#{@kdata[m].try.text};"
         end
         f.puts(s)
+        f.flush
         sleep 1
         And %Q{a "Vissza a találatokhoz" linkre kattintunk}
       end
