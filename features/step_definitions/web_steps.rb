@@ -396,8 +396,8 @@ Then /^mutasd az oldalt$/ do
 end
 
 Akkor /^letöltöm az irányítószám alapján a találatokat$/ do
-  f = File.open('db/civil.txt', 'w')
-  (1000..9999).each do |i|
+  (1091..9999).each do |i|
+    f = File.open("db/civil_#{i}.txt", 'w')
     When %Q{kitöltöm a "tbxZip" mezőt a következővel "#{i}"}
     And %q{a "Keresés" gombra kattintunk}
     begin 
@@ -408,16 +408,19 @@ Akkor /^letöltöm az irányítószám alapján a találatokat$/ do
         @klink[n] = @klinks[n].text
       end
       @klinks.size.times do |n|
-        And %Q{a "#{@klink[n]}" linkre kattintunk}
+        next if @klink[n].include?('"')
+        a = @klink[n]
+        And %Q{a "#{a}" linkre kattintunk}
         Then %q{látnunk kell az "részletes adatai" szöveget}
         @kdata = all(".OITH_InputUnit td")
         s = "#{i};"
         @kdata.size.times do |m|
-          s << "#{@kdata[m].try.text};"
+          a = @kdata[m].try.text.gsub("\n", " ")
+          s << "#{a}!;!"
         end
         f.puts(s)
         f.flush
-        sleep 1
+        sleep 0.4
         And %Q{a "Vissza a találatokhoz" linkre kattintunk}
       end
       vanmeg = page.has_css?("a[name=linkNext]")
@@ -426,8 +429,8 @@ Akkor /^letöltöm az irányítószám alapján a találatokat$/ do
         And %Q{a "#{linkNext.text}" linkre kattintunk}
       end
     end while vanmeg
+    f.close
     And %Q{a "Vissza a kereséshez" linkre kattintunk}
   end
-  f.close
 end
 
