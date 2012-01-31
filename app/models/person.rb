@@ -20,6 +20,7 @@ class Person < ActiveRecord::Base
     person_to_org_relations_count :integer, :default => 0
     search_result_count           :integer, :default => 0
     relations_counter             :integer, :default => 0
+    relations_bit                 :boolean, :default => false
     complex_xml :text
     timestamps
   end
@@ -34,6 +35,7 @@ class Person < ActiveRecord::Base
       r.name << r.born_at.to_s
     end
     r.relations_counter = r.interpersonal_relations_count + r.person_to_org_relations_count
+    r.relations_bit = true if r.relations_counter > 0
   end
 
   belongs_to :selected_organization, :class_name => "Organization"

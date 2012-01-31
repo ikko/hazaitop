@@ -20,6 +20,8 @@ class DetailedSearchesController < ApplicationController
 
     @detailed_search.query ||= params[:query] ||= ""
 
+    @detailed_search.query = "" if @detailed_search.query == "Keresés"
+
      if @detailed_search.query.blank?     and 
         @detailed_search.date_from.blank? and
         @detailed_search.date_to.blank?   and
@@ -95,6 +97,7 @@ private
   def build_paginate_params_for relation
     pag_params = {:per_page=>10, :page=>params[:page], :conditions=>{}, :joins=>""}
     if relation.to_sym == :organization && @detailed_search.organization?
+      pag_params[:conditions].merge!({:relations_bit => true})
       if @detailed_search.place_of_births.present?
         pag_params[:conditions].merge!({:city=>@detailed_search.place_of_births.*.name})
       end
@@ -119,6 +122,7 @@ private
       end
     end
     if relation.to_sym == :person && @detailed_search.person?
+      pag_params[:conditions].merge!({:relations_bit => true})
       if @detailed_search.place_of_births.present?
         pag_params[:conditions].merge!({:city=>@detailed_search.place_of_births.*.name})
       end
@@ -162,8 +166,8 @@ private
   end
 
   def get_people
-      person_conditions = []
-      person_pars = []
+      person_conditions = [ "(people.relations_bit = ?)" ]
+      person_pars = [ true ]
       
       if @detailed_search.date_from.present?
         person_conditions << "(person_to_org_relations.start_time >= ? or interpersonal_relations.start_time >= ?)"
@@ -208,8 +212,8 @@ private
   end
 
   def get_organizations
-      organization_conditions = []
-      org_pars = []
+      organization_conditions = [ "(organizations.relations_bit = ?)"  ]
+      org_pars = [ true ]
 
       if @detailed_search.date_from.present?
         organization_conditions << "person_to_org_relations.start_time >= ? and interorg_relations.issued_at >=?"
