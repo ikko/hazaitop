@@ -765,6 +765,7 @@
       </internet-address-view:>
     </field-list:>
     <heading: class="left"/>
+    <record-flags: fields="kozhasznu, kiemelten_kozhasznu"/>
     <after-heading:>
       <a href="/site_search/?type=o&id=#{this.id}" target="_blank" param="to-map"><img src="/images/terkepre_vele.jpg" id="to_map_blue"/></a>  
       <i><a style="color:darkBlue" if="&this.trade_register_nr and (current_user.administrator? or current_user.editor? or current_user.supervisor?) and File.exist?(Rails.root.to_s + '/public/orgs/' + this.trade_register_nr.scan(/\d+/).join.to_i.to_s + '.xml')" target="_blank" href="/orgs/#{this.trade_register_nr.scan(/\d+/).join.to_i}.xml"> | complex xml (click és ctrl-u) | </a></i><br/>

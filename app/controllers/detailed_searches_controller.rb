@@ -18,9 +18,24 @@ class DetailedSearchesController < ApplicationController
 
     @detailed_search = DetailedSearch.new params[:detailed_search]
 
-    puts @detailed_search.inspect
+    @detailed_search.query ||= params[:query] ||= ""
 
-    @detailed_search.query ||= ""
+     if @detailed_search.query.blank?     and 
+        @detailed_search.date_from.blank? and
+        @detailed_search.date_to.blank?   and
+        @detailed_search.person       == true and
+        @detailed_search.organization == true and
+        @detailed_search.article      == true and
+        @detailed_search.litigation   == true and 
+        @detailed_search.transaction.blank? and
+        @detailed_search.amount_from.blank? and
+        @detailed_search.amount_to.blank?     
+
+       @empty_search = true
+     else
+       @empty_search = false
+     end
+
     # ha ajaxos lapozás van
     if params[:block]
       if params[:block]=='transaction'
@@ -40,33 +55,33 @@ class DetailedSearchesController < ApplicationController
         render "paginate_litigation" and return
       end
     else
-      # ha tranzakció be van jelölve akkor csak ott keresünk
-      if @detailed_search.transaction?
-        @transactions = get_transactions
-      # nem kerestek dátumra
-      elsif !@detailed_search.date_from.present? && !@detailed_search.date_to.present?
-        @organizations = @detailed_search.organization? ? Organization.search(@detailed_search.query, :name).
-                                                                       paginate(build_paginate_params_for(:organization)) : 
-                                                          Organization.limit(0)
-        @people        = @detailed_search.person? ? Person.search(@detailed_search.query, :name).
-                                                           paginate(build_paginate_params_for(:person)) : 
-                                                    Person.limit(0)
-        @litigations   = @detailed_search.litigation? ? Litigation.search(@detailed_search.query, :name).
-                                                                   paginate(:per_page=>10, :page=>params[:page]) : 
-                                                        Litigation.limit(0)
-        @articles      = @detailed_search.article? ? Article.search(@detailed_search.query, :name).
-                                                             paginate(:per_page=>10, :page=>params[:page]) : 
-                                                     Article.limit(0)
-      # valamire rákerestek
-      else
-        @people = @detailed_search.person? ? get_people : Person.limit(0)
-        @organizations = @detailed_search.organization? ? get_organizations : Organization.limit(0)
-        @litigations = @detailed_search.litigation? ? get_litigations : Litigation.limit(0)
-        # article esetén nem figyeljük a dátum keresést
-        @articles = @detailed_search.article? ? get_articles : Article.limit(0)
-      end
-      # statok:
-      unless @detailed_search.query.strip.empty?
+      if !@empty_search
+        # ha tranzakció be van jelölve akkor csak ott keresünk
+        if @detailed_search.transaction?
+          @transactions = get_transactions
+          # nem kerestek dátumra
+        elsif !@detailed_search.date_from.present? && !@detailed_search.date_to.present?
+          @organizations = @detailed_search.organization? ? Organization.search(@detailed_search.query, :name).
+            paginate(build_paginate_params_for(:organization)) : 
+            Organization.limit(0)
+          @people        = @detailed_search.person? ? Person.search(@detailed_search.query, :name).
+            paginate(build_paginate_params_for(:person)) : 
+            Person.limit(0)
+          @litigations   = @detailed_search.litigation? ? Litigation.search(@detailed_search.query, :name).
+            paginate(:per_page=>10, :page=>params[:page]) : 
+            Litigation.limit(0)
+          @articles      = @detailed_search.article? ? Article.search(@detailed_search.query, :name).
+            paginate(:per_page=>10, :page=>params[:page]) : 
+            Article.limit(0)
+          # valamire rákerestek
+        else
+          @people = @detailed_search.person? ? get_people : Person.limit(0)
+          @organizations = @detailed_search.organization? ? get_organizations : Organization.limit(0)
+          @litigations = @detailed_search.litigation? ? get_litigations : Litigation.limit(0)
+          # article esetén nem figyeljük a dátum keresést
+          @articles = @detailed_search.article? ? get_articles : Article.limit(0)
+        end
+        # statok:
         @people.try.first.try.increment! :search_result_count
         @organizations.try.first.try.increment! :search_result_count
         @litigations.try.first.try.increment! :search_result_count

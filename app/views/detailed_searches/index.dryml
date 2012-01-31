@@ -213,36 +213,38 @@
         </fieldset>
       </form>
     </div>
-    <% if @detailed_search.transaction %>
-      <div class="details_header">Tranzakciók:</div>
-      <div id="trans_content">
-        <collection-transaction with="&@transactions"/>
-      </div>
-    <% else %>
-      <if test="&@detailed_search.person">
-        <div class="details_header">Személyek:</div>
-        <div id="people_content">
-          <collection-person with="&@people"/>
+    <% if !@empty_search %>
+      <% if @detailed_search.transaction %>
+        <div class="details_header">Tranzakciók:</div>
+        <div id="trans_content">
+          <collection-transaction with="&@transactions"/>
         </div>
-      </if>
-      <if test="&@detailed_search.organization">
-        <div class="details_header">Szervezetek:</div>
-        <div id="orgs_content">
-          <collection-organization with="&@organizations"/>
-        </div>
-      </if>
-        <if test="&@detailed_search.litigation">
-        <div class="details_header">Perek:</div>
-        <div id="litigs_content">
-          <collection-litigation with="&@litigations"/>
-        </div>
-      </if>
-      <if test="&@detailed_search.article">
-        <div class="details_header">Cikkek:</div>
-        <div id="arts_content">
-          <collection-article with="&@articles"/>
-        </div>
-      </if>
+      <% else %>
+        <if test="&@detailed_search.person">
+          <div class="details_header">Személyek:</div>
+          <div id="people_content">
+            <collection-person with="&@people"/>
+          </div>
+        </if>
+        <if test="&@detailed_search.organization">
+          <div class="details_header">Szervezetek:</div>
+          <div id="orgs_content">
+            <collection-organization with="&@organizations"/>
+          </div>
+        </if>
+          <if test="&@detailed_search.litigation">
+          <div class="details_header">Perek:</div>
+          <div id="litigs_content">
+            <collection-litigation with="&@litigations"/>
+          </div>
+        </if>
+        <if test="&@detailed_search.article">
+          <div class="details_header">Cikkek:</div>
+          <div id="arts_content">
+            <collection-article with="&@articles"/>
+          </div>
+        </if>
+      <% end %>
     <% end %>
   </content:>
 </page>
