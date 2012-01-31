@@ -12,6 +12,14 @@ namespace :update do
 
   end
 
+  desc 'update relations counter'
+  task :counter => :environment do
+  
+    Organization.all.each do |p| p.save end
+    Person.all.each do |p| p.save end
+
+  end
+
   desc 'update parsed bit cache'
   task :parsed => :environment do
     for i in 0..300

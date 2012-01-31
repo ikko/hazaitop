@@ -117,7 +117,7 @@ class PeopleController < ApplicationController
   end
 
   def index
-    @this = Person.order_by(:name)
+    @this = Person.relations_counter_is_not(0).order_by(:name)
     respond_to do |format| 
       format.html  { hobo_index( @this, :per_page => 20, :include => :information_source ) }
       format.xml   { render( :xml  => @this ) and return }
@@ -160,7 +160,7 @@ class PeopleController < ApplicationController
   end
 
   index_action :list do
-    @people = Person.apply_scopes(:order_by => parse_sort_param(:name, :updated_at)).paginate(:per_page=>20, :page=>params[:page], :include => :information_source)
+    @people = Person.relations_counter_is_not(0).apply_scopes(:order_by => parse_sort_param(:name, :updated_at)).paginate(:per_page=>20, :page=>params[:page], :include => :information_source)
   end
 
   show_action :merge do

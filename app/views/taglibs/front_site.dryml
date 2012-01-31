@@ -176,9 +176,8 @@
       <h4 param="heading"><a><name/></a></h4>
     </header:>
     <body: param>
-      <div if="&this.interorg_relations_count>0 || this.person_to_org_relations_count>0">
-        <view:interorg_relations_count class="strong" if="&this.interorg_relations_count"/> szervezeti kapcsolat 
-        <view:person_to_org_relations_count class="strong" if="&this.person_to_org_relations_count>0"/> személyi kapcsolat
+      <div if="&this.relations_counter>0">
+        <view:relations_counter class="strong" if="&this.relations_counter"/> kapcsolat 
       </div>
       <view:city class="strong"/> <view:street/>
       <view:trade_register_nr/> <view:tax_nr/>
@@ -194,9 +193,8 @@
     </header:>
     <body: param>
       <view:person_grades if="&this.person_grades"/>
-      <div if="&this.interpersonal_relations_count>0 || this.person_to_org_relations_count>0">
-        <view:interpersonal_relations_count class="strong" if="&this.interpersonal_relations_count"/> személyi kapcsolat, 
-        <view:person_to_org_relations_count class="strong" if="&this.person_to_org_relations_count"/> szervezeti kapcsolat
+      <div if="&this.relations_counter>0">
+        <view:relations_counter class="strong" if="&this.relations_counter"/> kapcsolat 
       </div>
     </body:>
   </card>
@@ -499,11 +497,10 @@
     <div class="separator left">|</div>
     <a href="/front/person_pagination/?sort=-updated_at" class="left #{@sort_field=='updated_at' ? 'active' : ''}">Most frissített</a>
   </div>
-  <table-plus fields="this, person_to_org_relations_count, selected_organization, information_source" without-search-form merge>
+  <table-plus fields="this, relations_counter, selected_organization, information_source" without-search-form merge>
     <Person-heading:><span>Név</span></Person-heading:>
     <selected-organization-heading:>Szervezet</selected-organization-heading:>
-    <interpersonal-relations-count-heading:><span>Személyes kapcsolat</span></interpersonal-relations-count-heading:>
-    <person-to-org-relations-count-heading:><span>Szervezeti kapcsolat</span></person-to-org-relations-count-heading:>
+    <relations-counter-heading:><span>Kapcsolat</span></relations-counter-heading:>
     <information-source-heading:><span>Forrás</span></information-source-heading:>
     <this-view:><a/> <a href="/site_search/?type=p&id=#{this.id}"><img src="/images/plusz.png"/></a> </this-view:>
     <selected-organization-view:><a/> <a unless="&this.nil?" href="/site_search/?type=o&id=#{this.id}"><img src="/images/plusz.png"/></a> </selected-organization-view:>
@@ -518,16 +515,17 @@
     <div class="separator left">|</div>
     <a href="&url_for :controller => 'front', :action => 'org_pagination', :sort=>'-interorg_relations_count'" class="left #{params[:sort] && params[:sort]=='-interorg_relations_count' ? 'active' : ''}">Legtöbb szervezeti kapcsolat</a>
     <div class="separator left">|</div>
+    <a href="/front/org_pagination/?sort=-search_result_count" class="left #{@sort_field=='search_result_count' ? 'active' : ''}">Legtöbbet keresett</a>
+    <div class="separator left">|</div>
     <a href="&url_for :controller => 'front', :action => 'org_pagination', :sort=>'-updated_at'" class="left #{params[:sort] && params[:sort]=='-updated_at' ? 'active' : ''}">Most frissített</a>
   </div>
-  <table-plus fields="this, address, person_to_org_relations_count, interorg_relations_count, information_source" without-search-form merge>
+  <table-plus fields="this, address, relations_counter, information_source" without-search-form merge>
     <Organization-heading:><span>Név</span></Organization-heading:>
     <address-heading:><span>Cím</span></address-heading:>
     <city-heading:><span>Város</span></city-heading:>
     <street-heading:><span>Utca</span></street-heading:>
     <zip-code-heading:><span>Irányítószám</span></zip-code-heading:>
-    <person-to-org-relations-count-heading:><span>Személyes kapcsolat</span></person-to-org-relations-count-heading:>
-    <interorg-relations-count-heading:><span>Szervezeti kapcsolat</span></interorg-relations-count-heading:>
+    <relations-counter-heading:><span>Kapcsolat</span></relations-counter-heading:>
     <information-source-heading:><span>Forrás</span></information-source-heading:>
     <this-view:><a/> <a href="/site_search/?type=o&id=#{this.id}"><img src="/images/plusz.png"/></a> </this-view:>
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{ :action=>'org_pagination', :sort=>params[:sort]}"/>

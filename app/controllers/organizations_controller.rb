@@ -139,7 +139,7 @@ class OrganizationsController < ApplicationController
   end
 
   def index
-    @this = Organization.order_by(:name)
+    @this = Organization.relations_counter_is_not(0).order_by(:name)
     respond_to do |format| 
       format.html  { hobo_index( @this, :per_page => 20, :include => :information_source ) }
       format.xml   { render( :xml  => @this ) and return }
@@ -164,7 +164,7 @@ class OrganizationsController < ApplicationController
 
 
   index_action :list do
-    @organizations = Organization.apply_scopes(:order_by => parse_sort_param(:name, :updated_at)).paginate(:per_page=>20, :page=>params[:page], :include=>:information_source)
+    @organizations = Organization.relations_counter_is_not(0).apply_scopes(:order_by => parse_sort_param(:name, :updated_at)).paginate(:per_page=>20, :page=>params[:page], :include=>:information_source)
   end
 
   show_action :merge do

@@ -23,7 +23,7 @@
       <div class="tab active"><a href="#organizations_content">SZERVEZETEK</a></div>
     </div>
     <div id="organizations_content">
-      <table-plus-org fields="this, address, interorg_relations_count, person_to_org_relations_count,  information_source" with="&@organizations" without-table-footer>
+      <table-plus-org fields="this, address, relations_counter, information_source" with="&@organizations" without-table-footer>
         <order-list:>
           <a href="/organizations/list?sort=-name" class="left active">ABC szerint</a>
           <div class="separator left">|</div>

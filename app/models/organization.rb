@@ -22,6 +22,7 @@ class Organization < ActiveRecord::Base
     interorg_relations_count      :integer, :default => 0
     person_to_org_relations_count :integer, :default => 0
     financials_count              :integer, :default => 0
+    relations_counter             :integer, :default => 0
     complexed_at                  :date
     ksh_number                    :string
     ksh_number_from               :date
@@ -139,6 +140,7 @@ class Organization < ActiveRecord::Base
     r.company = true if r.name.downcase.include?('bt')
     r.company = true if r.name.downcase.include?('llalat') # vállalat
     r.company = true if r.name.downcase.include?('rsas') # társaság
+    r.relations_counter = r.interorg_relations_count + r.person_to_org_relations_count
   end
 
   # --- Permissions --- #
