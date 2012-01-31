@@ -92,7 +92,7 @@ class DetailedSearchesController < ApplicationController
         r = Litigation.find(@litigations.try.first.try.id) if @litigations.try.first
         r.try.increment! :search_result_count
         r = Article.find(@articles.try.first.try.id) if @articles.try.first
-        r.increment! :search_result_count
+        r.try.increment! :search_result_count
         r  = InterorgRelation.find(@transactions.try.first.try.id) if @transactions.try.first
         r.try.increment! :search_result_count
       end

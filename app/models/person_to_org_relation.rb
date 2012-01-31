@@ -70,11 +70,13 @@ class PersonToOrgRelation < ActiveRecord::Base
     r.information_source_id = InformationSource.find_by_domain_name('ahalo.hu').id if r.information_source.blank?
 
     r.parsed = r.p2o_relation_type.parsed if r.p2o_relation_type
+    true
     # r.weight = r.information_source.weight * r.p2o_relation_type.weight
   end
 
   after_save do |r|
     r.match
+    true
   end
 #=end
   def match

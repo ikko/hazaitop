@@ -16,8 +16,9 @@ namespace :civils do
     birel_x = O2oRelationType.find_or_create_by_name("nyilvántartója") do |r| r.name = 'nyilvántartója'; r.parsed = true; r.pair_id = birel.id end
     birel.update_attribute :pair_id, birel_x.id
 
-    (1010..1010).each do |i|
+    (1000..1999).each do |i|
       f = File.open("db/civil_#{i}.txt")
+      puts "== #{i} ======================================="
       f.each do |l|
         next if l.blank?
         l = l[5..-1]
@@ -25,9 +26,16 @@ namespace :civils do
         next if a[1].blank?
         org = Organization.find_by_name( a[1] )
         org = Organization.new unless org
-        org.name     = a[1] unless org.name
-        org.street   = a[7] unless org.street
-        org.city     = a[5] unless org.city
+        org.name     = a[1] if org.name.blank?
+        org.zip_code = a[3] if org.zip_code.blank?
+        org.street   = a[7] if org.street.blank?
+        org.city     = a[5] if org.city.blank?
+        org.description   = a[15] if org.description.blank?
+        org.county_id_nr  = a[19] if org.county_id_nr.blank?
+        org.country_id_nr = a[21] if org.country_id_nr.blank?
+        org.information_source_id = info.id unless org.information_source_id 
+        start_date = a[27].blank? ? nil : a[27].to_date
+        puts org.save
         k = a[9].split(',')
         k.each do |z| 
           z = z.strip
@@ -36,12 +44,20 @@ namespace :civils do
                                 :last_name  => z.split(' ').first,
                                 :information_source_id => info.id
                               )
-            PersonToOrgRelation.create!( :information_source_id => info.id,
+                              puts info.id
+                              puts p.id
+                              puts org.id
+                              puts rel.id
+                              puts "((((((((((((((("
+            pto = PersonToOrgRelation.new( :information_source_id => info.id,
                                          :person_id => p.id,
                                          :organization_id => org.id,
                                          :parsed => true,
-                                         :p2o_relation_type_id => rel.id
+                                         :p2o_relation_type_id => rel.id,
+                                         :no_end_time => true,
+                                         :start_time => start_date
                                        )
+            pto.save
           end
         end
         act = Activity.find_or_create_by_name(a[11].strip) do |r| r.name = a[11].strip end
@@ -52,12 +68,9 @@ namespace :civils do
         if !org.activities.include?(act)
           org.activities << act
         end
-        org.description = a[15].strip
-        org.county_id_nr = a[19].strip
-        org.country_id_nr = a[21].strip
 
         bir = Organization.find_or_create_by_name( a[23].strip ) do |b| b.name = a[23].strip; b.information_source_id = info.id end
-        ir = InterorgRelation.find_by_organization_id_and_related_organization_id_and_name( org.id, bir.id, a[25] ) do |r|
+        ir = InterorgRelation.find_or_create_by_organization_id_and_related_organization_id_and_name( org.id, bir.id, a[25] ) do |r|
           r.organization_id = org.id
           r.related_organization_id = bir.id
           r.name = a[25]
@@ -67,10 +80,8 @@ namespace :civils do
           r.parsed = true
         end
 
-        puts ir.inspect
         puts org.name
-        puts org.save
-        puts "===================================================="
+
       end
       f.close
     end
