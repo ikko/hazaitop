@@ -30,6 +30,7 @@ class DetailedSearchesController < ApplicationController
         @detailed_search.article      == true and
         @detailed_search.litigation   == true and 
         @detailed_search.transaction.blank? and
+        @detailed_search.relations.blank?   and
         @detailed_search.amount_from.blank? and
         @detailed_search.amount_to.blank?     
 
@@ -84,11 +85,16 @@ class DetailedSearchesController < ApplicationController
           @articles = @detailed_search.article? ? get_articles : Article.limit(0)
         end
         # statok:
-        @people.try.first.try.increment! :search_result_count
-        @organizations.try.first.try.increment! :search_result_count
-        @litigations.try.first.try.increment! :search_result_count
-        @articles.try.first.try.increment! :search_result_count
-        @transactions.try.first.try.increment! :search_result_count
+        r = Person.find(@people.try.first.try.id) if @people.try.first
+        r.try.increment! :search_result_count
+        r = Organization.find(@organizations.try.first.try.id) if @organizations.try.first
+        r.try.increment! :search_result_count
+        r = Litigation.find(@litigations.try.first.try.id) if @litigations.try.first
+        r.try.increment! :search_result_count
+        r = Article.find(@articles.try.first.try.id) if @articles.try.first
+        r.increment! :search_result_count
+        r  = InterorgRelation.find(@transactions.try.first.try.id) if @transactions.try.first
+        r.try.increment! :search_result_count
       end
     end
   end
