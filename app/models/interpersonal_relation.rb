@@ -62,6 +62,7 @@ class InterpersonalRelation < ActiveRecord::Base
     logger.info "========================================================== ii =="
     r.information_source_id = (r.info_id ? r.info_id : r.articles.first.try.information_source_id ) if r.information_source.blank?
     r.information_source_id = InformationSource.find_by_domain_name('ahalo.hu').id if r.information_source.blank?
+    r.parsed = r.p2p_relation_type.parsed if r.p2p_relation_type
     # r.weight = r.information_source.weight * r.p2p_relation_type.weight
   end
 

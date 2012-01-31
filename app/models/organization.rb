@@ -37,6 +37,9 @@ class Organization < ActiveRecord::Base
     kiemelten_kozhasznu           :boolean
     kiemelten_kozhasznu_from      :date
     civil                         :boolean, :default => false
+    description                   :string
+    country_id_nr                 :string
+    county_id_nr                  :string
     timestamps
     complex_xml :text
     search_result_count           :integer, :default => 0

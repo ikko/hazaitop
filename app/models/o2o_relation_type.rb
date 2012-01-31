@@ -8,7 +8,7 @@ class O2oRelationType < ActiveRecord::Base
     weight :float, :default => 1
     visual :boolean, :default => true
     litig  :boolean, :default => false
-    parsed   :boolean, :default => false
+    parsed :boolean, :default => false
     role   :string
     label  :string
     timestamps
