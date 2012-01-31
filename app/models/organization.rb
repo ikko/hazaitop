@@ -35,6 +35,7 @@ class Organization < ActiveRecord::Base
     kozhasznu_from                :date
     kiemelten_kozhasznu           :boolean
     kiemelten_kozhasznu_from      :date
+    civil                         :boolean, :default => false
     timestamps
     complex_xml :text
     search_result_count           :integer, :default => 0

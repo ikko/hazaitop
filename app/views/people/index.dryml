@@ -23,7 +23,7 @@
       <div class="tab active"><a href="#people_content">SZEMÉLYEK</a></div>
     </div>
     <div id="people_content">
-      <table-plus-person fields="this, interpersonal_relations_count, selected_organization,  information_source" with="&@people" without-table-footer>
+      <table-plus-person fields="this, relations_counter, selected_organization,  information_source" with="&@people" without-table-footer>
         <order-list:>
           <a href="/people/list?sort=-name" class="left active">ABC szerint</a>
           <div class="separator left">|</div>
