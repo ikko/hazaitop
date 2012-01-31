@@ -23,6 +23,7 @@ class DetailedSearchesController < ApplicationController
     @detailed_search.query = "" if @detailed_search.query == "Keresés"
 
      if @detailed_search.query.blank?     and 
+        @detailed_search.address.blank?   and
         @detailed_search.date_from.blank? and
         @detailed_search.date_to.blank?   and
         @detailed_search.person       == true and
@@ -64,10 +65,10 @@ class DetailedSearchesController < ApplicationController
           @transactions = get_transactions
           # nem kerestek dátumra
         elsif !@detailed_search.date_from.present? && !@detailed_search.date_to.present?
-          @organizations = @detailed_search.organization? ? Organization.search(@detailed_search.query, :name).
+          @organizations = @detailed_search.organization? ? Organization.search(@detailed_search.query, :name).search(@detailed_search.address, :address).
             paginate(build_paginate_params_for(:organization)) : 
             Organization.limit(0)
-          @people        = @detailed_search.person? ? Person.search(@detailed_search.query, :name).
+          @people        = @detailed_search.person? ? Person.search(@detailed_search.query, :name).search(@detailed_search.address, :address).
             paginate(build_paginate_params_for(:person)) : 
             Person.limit(0)
           @litigations   = @detailed_search.litigation? ? Litigation.search(@detailed_search.query, :name).
@@ -208,7 +209,7 @@ private
         cond << (i>0 ? " and #{e}" : e)
       end
       builded_person_conditions = [cond] + person_pars
-      Person.search(@detailed_search.query, :name).
+      Person.search(@detailed_search.query, :name).search(@detailed_search.address, :address).
              paginate(:select=>"distinct people.* ",
                       :joins=>"left outer join person_to_org_relations on person_to_org_relations.person_id = people.id 
                                left outer join interpersonal_relations on interpersonal_relations.person_id = people.id", 
@@ -264,7 +265,7 @@ private
         cond << (i>0 ? " and #{e}" : e)
       end
       builded_organization_conditions = [cond] + org_pars
-      Organization.search(@detailed_search.query, :name).
+      Organization.search(@detailed_search.query, :name).search(@detailed_search.address, :address).
                    paginate(:select=>"distinct organizations.* ",
                             :joins=>"left outer join interorg_relations on interorg_relations.organization_id = organizations.id
                                      left outer join activity_assocs on activity_assocs.organization_id=organizations.id

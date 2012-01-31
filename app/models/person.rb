@@ -23,6 +23,7 @@ class Person < ActiveRecord::Base
     relations_bit                 :boolean, :default => false
     complex_xml :text
     timestamps
+    address :string
   end
 
   default_scope  :order => 'last_name, first_name' 
@@ -36,6 +37,11 @@ class Person < ActiveRecord::Base
     end
     r.relations_counter = r.interpersonal_relations_count + r.person_to_org_relations_count
     r.relations_bit = true if r.relations_counter > 0
+    if r.zip_code.blank? and r.city.blank? and r.street.blank?
+      r.address = " "
+    else
+      r.address = "#{r.zip_code} #{r.city}, #{r.street}" 
+    end
   end
 
   belongs_to :selected_organization, :class_name => "Organization"

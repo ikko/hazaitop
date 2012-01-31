@@ -34,6 +34,7 @@ namespace :civils do
         org.county_id_nr  = a[19] if org.county_id_nr.blank?
         org.country_id_nr = a[21] if org.country_id_nr.blank?
         org.information_source_id = info.id unless org.information_source_id 
+        org.civil = true
         start_date = a[27].blank? ? nil : a[27].to_date
         puts org.save
         k = a[9].split(',')
@@ -44,11 +45,6 @@ namespace :civils do
                                 :last_name  => z.split(' ').first,
                                 :information_source_id => info.id
                               )
-                              puts info.id
-                              puts p.id
-                              puts org.id
-                              puts rel.id
-                              puts "((((((((((((((("
             pto = PersonToOrgRelation.new( :information_source_id => info.id,
                                          :person_id => p.id,
                                          :organization_id => org.id,

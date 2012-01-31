@@ -44,6 +44,7 @@ class Organization < ActiveRecord::Base
     complex_xml :text
     search_result_count           :integer, :default => 0
     company :boolean, :default => false
+    address :string
   end
 
   belongs_to :merge_from, :class_name => "Organization"
@@ -127,14 +128,6 @@ class Organization < ActiveRecord::Base
     "#{id}-#{name.to_textual_id}"
   end
 
-  def address
-    if zip_code.blank? and city.blank? and street.blank?
-      " "
-    else
-      "#{zip_code} #{city}, #{street}" 
-    end
-  end
-
   before_validation do |r|
     r.name = r.name.try.gsub('"','').strip
   end
@@ -147,6 +140,11 @@ class Organization < ActiveRecord::Base
     r.company = true if r.name.downcase.include?('rsas') # társaság
     r.relations_counter = r.interorg_relations_count + r.person_to_org_relations_count
     r.relations_bit = true if r.relations_counter > 0
+    if r.zip_code.blank? and r.city.blank? and r.street.blank?
+      r.address = " "
+    else
+      r.address = "#{r.zip_code} #{r.city}, #{r.street}" 
+    end
   end
 
   # --- Permissions --- #
