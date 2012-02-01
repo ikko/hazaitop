@@ -21,6 +21,7 @@ class Contract < ActiveRecord::Base
     number :string
     issued_at :date
     case_number :string
+    place_of_performance :string
     timestamps
   end
 

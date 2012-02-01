@@ -146,8 +146,6 @@ private
       end
     end
     pag_params[:joins] = nil if pag_params[:joins].strip.empty?
-    puts pag_params.inspect
-    puts "==================================="
     pag_params
   end
 
@@ -168,7 +166,7 @@ private
       end
     end
     builded_transaction_conditions = [cond] + par
-    InterorgRelation.search(@detailed_search.query, :name).
+    InterorgRelation.search(@detailed_search.query, :name).search(@detailed_search.address, :address).
                      paginate(:include=>[:contract, :tender, :organization, :related_organization],
                               :conditions=>builded_transaction_conditions, 
                               :per_page=>10, 

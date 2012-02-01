@@ -32,6 +32,7 @@ namespace :fetch do
       for i in 1..LMAX do 
         next if @lines_size -1 < where + i
         if @lines[ where + i ][0..what.size-1] == what
+          next if @lines[ where + i + 1 ] == "NUTS-kód"  # nasty hack, ez a teljesítés helyére vonatkozik c_telj_helye
           return @lines[ where + i + 1 ]
         end
       end
@@ -384,6 +385,9 @@ namespace :fetch do
                                   "II.1.6) Közös Közbeszerzési Szójegyzék (CPV)", i)
             puts c_targy = targy1.class == Range ? targy2 : targy1
 
+            puts ":: teljesítés helye"
+            puts c_telj_helye = look("A teljesítés helye", i)
+
             puts ":: szerődés tipusa"
             puts c_tipus = look_x_before_between("II.1.2) A szerződés típusa, valamint a teljesítés helye", "II.1.3)", i)
 
@@ -567,7 +571,8 @@ namespace :fetch do
                                          :currency         => c_currency,
                                          :notification_id  => note.id,
                                          :issued_at        => date,
-                                         :case_number      => case_number
+                                         :case_number      => case_number,
+                                         :place_of_performance => c_telj_helye
 
                                         )
                                         if contract
