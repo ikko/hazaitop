@@ -18,7 +18,8 @@ class DetailedSearchesController < ApplicationController
 
     @detailed_search = DetailedSearch.new params[:detailed_search]
 
-    @detailed_search.query ||= params[:query] ||= ""
+    @detailed_search.query   ||= params[:query] ||= ""
+    @detailed_search.address ||= params[:address] ||= ""
 
     @detailed_search.query = "" if @detailed_search.query == "Keresés"
 
@@ -145,6 +146,8 @@ private
       end
     end
     pag_params[:joins] = nil if pag_params[:joins].strip.empty?
+    puts pag_params.inspect
+    puts "==================================="
     pag_params
   end
 

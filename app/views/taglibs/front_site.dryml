@@ -590,7 +590,7 @@
   <collection>
     <empty-message:>Nincs találat</empty-message:>
     <after-empty-message:>
-      <page-nav: previous-label="&laquo;" next-label="&raquo;" class="pagination bright" params="&{:block => 'org', :detailed_search=>{:query=>@detailed_search.query, :sectors=>@detailed_search.sectors.map{|s| '@'+s.id.to_s}, :relations=>{:'0'=>{ :o2o_relation_types => @detailed_search.relations.try.first.try.o2o_relation_types.try.map{|a| '@'+a.id.to_s}}}, :relations => { :'0'=> { :p2o_relation_types => @detailed_search.relations.try.first.try.p2o_relation_types.try.map{|a| '@'+a.id.to_s}}}, :activities=>@detailed_search.activities.map{|a| '@'+a.id.to_s}, :place_of_births=>@detailed_search.place_of_births.map{|pob| '@'+pob.id.to_s}, :date_from=>@detailed_search.date_from, :date_to=>@detailed_search.date_to}}"/>
+      <page-nav: previous-label="&laquo;" next-label="&raquo;" class="pagination bright" params="&{:block => 'org', :detailed_search=>{:query=>@detailed_search.query, :address=>@detailed_search.address, :sectors=>@detailed_search.sectors.map{|s| '@'+s.id.to_s}, :relations=>{:'0'=>{ :o2o_relation_types => @detailed_search.relations.try.first.try.o2o_relation_types.try.map{|a| '@'+a.id.to_s}}}, :relations => { :'0'=> { :p2o_relation_types => @detailed_search.relations.try.first.try.p2o_relation_types.try.map{|a| '@'+a.id.to_s}}}, :activities=>@detailed_search.activities.map{|a| '@'+a.id.to_s}, :place_of_births=>@detailed_search.place_of_births.map{|pob| '@'+pob.id.to_s}, :date_from=>@detailed_search.date_from, :date_to=>@detailed_search.date_to}}"/>
     </after-empty-message:>
   </collection>
 </def>
@@ -599,7 +599,7 @@
   <collection>
     <empty-message:>Nincs találat</empty-message:>
     <after-empty-message:>
-      <page-nav: previous-label="&laquo;" next-label="&raquo;" class="pagination bright" params="&{:block => 'person', :detailed_search=>{:place_of_births=>@detailed_search.place_of_births.map{|pob| '@'+pob.id.to_s}, :relations => {:'0' => {:p2o_relation_types => @detailed_search.relations.try.first.try.p2o_relation_types.try.map{|a| '@'+a.id.to_s}}},  :relations => {:'0' => {:p2p_relation_types => @detailed_search.relations.try.first.try.p2p_relation_types.try.map{|a| '@'+a.id.to_s}}}, :query=>@detailed_search.query, :date_from=>@detailed_search.date_from, :date_to=>@detailed_search.date_to}}"/>
+      <page-nav: previous-label="&laquo;" next-label="&raquo;" class="pagination bright" params="&{:block => 'person', :detailed_search=>{:place_of_births=>@detailed_search.place_of_births.map{|pob| '@'+pob.id.to_s}, :relations => {:'0' => {:p2o_relation_types => @detailed_search.relations.try.first.try.p2o_relation_types.try.map{|a| '@'+a.id.to_s}}},  :relations => {:'0' => {:p2p_relation_types => @detailed_search.relations.try.first.try.p2p_relation_types.try.map{|a| '@'+a.id.to_s}}}, :query=>@detailed_search.query, :address=>@detailed_search.address, :date_from=>@detailed_search.date_from, :date_to=>@detailed_search.date_to}}"/>
     </after-empty-message:>
   </collection>
 </def>
