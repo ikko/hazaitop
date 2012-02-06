@@ -64,7 +64,8 @@ class InterorgRelation < ActiveRecord::Base
     r.interorg_relations.first.try.destroy 
     r.interorg_relation.try.destroy
   end
-  
+
+
 
   def source_present
     if information_source.blank? and articles.empty?
@@ -87,6 +88,7 @@ class InterorgRelation < ActiveRecord::Base
   end
 
   after_create do |r|
+    r.organization.try.increment! :relations_counter
     unless r.mirrored
       if r.o2o_relation_type.pair
         relation_type_id = r.o2o_relation_type.pair.id
@@ -151,6 +153,7 @@ class InterorgRelation < ActiveRecord::Base
   end
 
   after_destroy do |r|
+    r.organization.try.decrement! :relations_counter
     r.interorg_relation.try.destroy
   end
 #=end
@@ -185,6 +188,8 @@ class InterorgRelation < ActiveRecord::Base
   def view_permitted?(field)
     true
   end
+
+
 
 end
 

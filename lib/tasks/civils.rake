@@ -65,16 +65,16 @@ namespace :civils do
           org.activities << act
         end
 
-        bir = Organization.find_or_create_by_name( a[23].strip ) do |b| b.name = a[23].strip; b.information_source_id = info.id end
-        ir = InterorgRelation.find_or_create_by_organization_id_and_related_organization_id_and_name( org.id, bir.id, a[25] ) do |r|
-          r.organization_id = org.id
-          r.related_organization_id = bir.id
-          r.name = a[25]
-          r.start_time = a[27].to_date unless a[27].blank?
-          r.information_source_id = info.id
-          r.o2o_relation_type_id = birel.id
-          r.parsed = true
-        end
+#        bir = Organization.find_or_create_by_name( a[23].strip ) do |b| b.name = a[23].strip; b.information_source_id = info.id end
+#        ir = InterorgRelation.find_or_create_by_organization_id_and_related_organization_id_and_name( org.id, bir.id, a[25] ) do |r|
+#          r.organization_id = org.id
+#          r.related_organization_id = bir.id
+#          r.name = a[25]
+#          r.start_time = a[27].to_date unless a[27].blank?
+#          r.information_source_id = info.id
+#          r.o2o_relation_type_id = birel.id
+#          r.parsed = true
+#        end
 
         puts org.name
 

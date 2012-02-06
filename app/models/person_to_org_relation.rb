@@ -64,12 +64,16 @@ class PersonToOrgRelation < ActiveRecord::Base
     r.o2p_relation_type_id = o2p_relation_type_id        if o2p_relation_type_id
   end
 
+  before_create do |r|
+    r.organization.try.increment! :relations_counter
+    r.person.try.increment! :relations_counter
+  end
+    
   before_save do |r|
     r.visual = r.p2o_relation_type.visual
     r.information_source_id = (r.info_id ? r.info_id : r.articles.first.try.information_source_id ) if r.information_source.blank?
     r.information_source_id = InformationSource.find_by_domain_name('ahalo.hu').id if r.information_source.blank?
 
-    r.parsed = r.p2o_relation_type.parsed if r.p2o_relation_type
     true
     # r.weight = r.information_source.weight * r.p2o_relation_type.weight
   end
@@ -77,6 +81,11 @@ class PersonToOrgRelation < ActiveRecord::Base
   after_save do |r|
     r.match
     true
+  end
+
+  after_destroy do |r|
+    r.organization.try.decrement! :relations_counter
+    r.person.try.decrement! :relations_counter
   end
 #=end
   def match

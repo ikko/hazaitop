@@ -67,6 +67,7 @@ class InterpersonalRelation < ActiveRecord::Base
   end
 
   after_create do |r|
+    r.person.try.increment! :relations_counter
     unless r.mirrored
       if r.p2p_relation_type.pair
         relation_type_id = r.p2p_relation_type.pair.id
@@ -138,6 +139,7 @@ class InterpersonalRelation < ActiveRecord::Base
   end
 
   after_destroy do |r|
+    r.person.try.decrement! :relations_counter
     r.interpersonal_relation.try.destroy
   end
 #=end
