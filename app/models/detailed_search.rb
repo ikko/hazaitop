@@ -5,7 +5,6 @@ class DetailedSearch < ActiveRecord::Base
   fields do
     query        :string
     address      :string
-    subject      :string
     date_from    :date
     date_to      :date
     person       :boolean, :default => true

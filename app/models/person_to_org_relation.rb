@@ -67,7 +67,6 @@ class PersonToOrgRelation < ActiveRecord::Base
   before_create do |r|
     r.organization.try.increment! :relations_counter
     r.person.try.increment! :relations_counter
-    true
   end
     
   before_save do |r|
@@ -85,10 +84,8 @@ class PersonToOrgRelation < ActiveRecord::Base
   end
 
   after_destroy do |r|
-    logger.info "jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj"
     r.organization.try.decrement! :relations_counter
     r.person.try.decrement! :relations_counter
-    true
   end
 #=end
   def match

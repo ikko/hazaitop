@@ -396,7 +396,7 @@ Then /^mutasd az oldalt$/ do
 end
 
 Akkor /^letöltöm az irányítószám alapján a találatokat$/ do
-  (5465..9999).each do |i|
+  (4400..9999).each do |i|
     f = File.open("db/civil_#{i}.txt", 'w')
     When %Q{kitöltöm a "tbxZip" mezőt a következővel "#{i}"}
     And %q{a "Keresés" gombra kattintunk}

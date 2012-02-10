@@ -44,7 +44,6 @@
               $('#data_litigation').attr('checked', false);
               $('#amount_from').attr('disabled', false);
               $('#amount_to').attr('disabled', false);
-              $('#subject').attr('disabled', false);
               $('#place_of_birth_selector').attr('disabled', true);
               $('#activity_selector').attr('disabled', true);
               $('#sector_selector').attr('disabled', true);
@@ -58,7 +57,6 @@
               $('#data_litigation').attr('checked', true);
               $('#amount_from').attr('disabled', true);
               $('#amount_to').attr('disabled', true);
-              $('#subject').attr('disabled', true);
               $('#place_of_birth_selector').attr('disabled', false);
               $('#activity_selector').attr('disabled', false);
               $('#sector_selector').attr('disabled', false);
@@ -72,7 +70,6 @@
             if ($('#data_transaction').is(':checked')) {
               $('#amount_from').attr('disabled', true)
               $('#amount_to').attr('disabled', true)
-              $('#subject').attr('disabled', true)
               $('#data_transaction').attr('checked', false);
             } 
             if ($('#profil_person').is(':checked') || $('#profil_organization').is(':checked')) {
@@ -135,7 +132,7 @@
     <div id="detailed_search_wrapper">
       <form with="&@detailed_search">
         <fieldset class="no_top_border">
-          <field-list: id="query" fields="query, address, subject"/>
+          <field-list: id="query" fields="query, address"/>
         </fieldset>
         <fieldset>
           <field-list: fields="date_from" class="left inline_input">
