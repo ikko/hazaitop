@@ -149,6 +149,32 @@ private
     pag_params
   end
 
+  def get_contracts
+    contract_conditions = []
+    contract_conditions << ["contracts.value != ?", 0]
+    contract_conditions << ["contracts.value >= ?", @detailed_search.amount_from] if @detailed_search.amount_from.present?
+    contract_conditions << ["contracts.value <= ?", @detailed_search.amount_to] if @detailed_search.amount_to.present?
+    contract_conditions << ["contracts.issued_at >= ?", @detailed_search.date_from] if @detailed_search.date_from.present?
+    contract_conditions << ["contracts.issued_at <= ?", @detailed_search.date_to] if @detailed_search.date_to.present?
+    cond = ""
+    par = []
+    contract_conditions.flatten.each_with_index do |e, i|
+      if i.even?
+        cond << (i>0 ? " and #{e}" : e)
+      else
+        par << e
+      end
+    end
+    builded_contract_conditions = [cond] + par
+    Contract.search(@detailed_search.query, :name).
+             search(@detailed_search.address, :place_of_performance).
+#             search(@detailed_search.subject, :subject_and_qty).
+                     paginate(
+                              :conditions=>builded_contract_conditions, 
+                              :per_page=>10, 
+                              :page=>params[:page])
+  end
+
   def get_transactions
     transaction_conditions = []
     transaction_conditions << ["interorg_relations.value != ?", 0]

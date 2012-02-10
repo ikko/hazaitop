@@ -1,6 +1,6 @@
 <page>
   <content:>
-    <div class="content-body">
+    <div class="content-body table-plus">
     <h2>Application Summary</h2>
 
     <table class="app-summary">
@@ -38,7 +38,7 @@
         </tr>
       </with-gems>
     </table>
-
+    <br/>
     <h3>Plugins</h3>
     <table class="app-summary">
       <with-plugins>
