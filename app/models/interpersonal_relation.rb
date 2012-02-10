@@ -64,6 +64,7 @@ class InterpersonalRelation < ActiveRecord::Base
     r.information_source_id = InformationSource.find_by_domain_name('ahalo.hu').id if r.information_source.blank?
     r.parsed = r.p2p_relation_type.parsed if r.p2p_relation_type
     # r.weight = r.information_source.weight * r.p2p_relation_type.weight
+    true
   end
 
   after_create do |r|
@@ -97,6 +98,7 @@ class InterpersonalRelation < ActiveRecord::Base
       interpersonal.save
       r.update_attributes :mirrored => true, :interpersonal_relation_id => interpersonal.id, :visual => visual
     end
+    true
   end
 
   after_save do |r|
@@ -136,11 +138,13 @@ class InterpersonalRelation < ActiveRecord::Base
     if !r.related_person_id or !r.person_id
       r.destroy
     end
+    true
   end
 
   after_destroy do |r|
     r.person.try.decrement! :relations_counter
     r.interpersonal_relation.try.destroy
+    true
   end
 #=end
 
