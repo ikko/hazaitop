@@ -170,7 +170,7 @@ private
     builded_contract_conditions = [cond] + par
     Contract.search(@detailed_search.query, :name).
              search(@detailed_search.address, :place_of_performance).
-             search(@detailed_search.subject, :subject_and_qty).
+#             search(@detailed_search.subject, :subject_and_qty).
                      paginate(
                               :conditions=>builded_contract_conditions, 
                               :per_page=>10, 

@@ -15,7 +15,7 @@ Rails::Initializer.run do |config|
   #config.gem 'hobo'
   #config.gem 'domainatrix'
 
-  config.action_controller.session_store = :active_record_store
+#  config.action_controller.session_store = :active_record_store
 
 
   # Settings in config/environments/* take precedence over those specified here.

@@ -135,7 +135,7 @@
     <div id="detailed_search_wrapper">
       <form with="&@detailed_search">
         <fieldset class="no_top_border">
-          <field-list: id="query" fields="query, address, subject"/>
+          <field-list: id="query" fields="query, address"/>
         </fieldset>
         <fieldset>
           <field-list: fields="date_from" class="left inline_input">
