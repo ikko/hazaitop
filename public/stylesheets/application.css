@@ -481,7 +481,7 @@ table .odd {
 }
 
 .card.article, .card.person, .card.organization, .card.contract, .card.interorg-relation {
-  border-bottom: 2px solid #868789; 
+  border-bottom: 1px solid #868789; 
   padding: 14px 0px;
 }
 
@@ -1075,4 +1075,6 @@ textarea {
   color: #6EA4B0;
 }
 
-
+.merge-from-view input {
+  width: 300px
+}

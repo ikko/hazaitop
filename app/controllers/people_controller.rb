@@ -15,6 +15,12 @@ class PeopleController < ApplicationController
   caches_page :history_pagination, :expires_in => 20.minutes
   caches_page :list, :expires_in => 20.minutes
 
+#  def complete_name
+#    hobo_completions :name, Person.auto(
+#  end
+
+#  named_scope :auto, lambda { { :conditions => { :locale => I18n.locale } } }
+
 
   def create
     add_new_entities
@@ -32,10 +38,7 @@ class PeopleController < ApplicationController
     @person = find_instance
     hobo_update 
     if @person.valid?
-      PersonHistory.create( :user_id => current_user.id, :person_id => @person.id ) 
-#      redirect_to person_path( @person.id )
-#    else
-#      render :action => :edit
+      PersonHistory.create( :user_id => current_user.id, :person_id => @person.id, :parameters => params.inspect) 
     end
   rescue => e
     logger.info e.backtrace.join("\n")
@@ -59,20 +62,6 @@ class PeopleController < ApplicationController
                          :information_source_id => p[:information_source_id].blank? ? info_source.id : p[:information_source_id]
                        )
         end
-=begin
-        if !p[:article_relations].blank?
-          p[:article_relations].each do |k,a|
-            next if k.to_i == -1
-            if a[:article].blank? or !Article.find_by_name( a[:article] )
-              if flash[:errors].present?
-                flash[:errors] << "\nArticle does not exist for #{p[:related_person]} with name #{a[:article]}"
-              else
-                flash[:errors] = "Article does not exist for #{p[:related_person]} with name #{a[:article]}"
-              end
-            end
-          end
-        end
-=end        
       end
     end
     if !params[:person][:person_to_org_relations].blank?
@@ -85,20 +74,6 @@ class PeopleController < ApplicationController
                               :information_source_id => p[:information_source_id].blank? ? info_source.id : p[:information_source_id]
                              )
         end
-=begin
-        if !o[:article_relations].blank?
-          o[:article_relations].each do |k,a|
-            next if k.to_i == -1
-            if a[:article].blank? or !Article.find_by_name( a[:article] )
-              if flash[:errors].present?
-                flash[:errors] << "\nArticle does not exist for #{o[:organization]} with name #{a[:article]}"
-              else
-                flash[:errors] = "Article does not exist for #{o[:organization]} with name #{a[:article]}"
-              end
-            end
-          end
-        end
-=end
       end
     end
 
@@ -154,8 +129,8 @@ class PeopleController < ApplicationController
   end
 
   index_action :query do
-    render :json => Person.name_contains(params[:term]).order_by(:name).limit(100).all(:select=>'id, name').map {|person|
-      {:label => person.name, :id => person.id}
+    render :json => Person.name_contains(params[:term]).order_by(:name).limit(40).all(:select=>'id, name').map {|person|
+      {:label => "#{person.name} (ID:#{person.id})", :id => person.id}
     }
   end
 
@@ -165,9 +140,14 @@ class PeopleController < ApplicationController
 
   show_action :merge do
     merge_into = find_instance
-    to_merge = Person.find_by_name(params[:person][:merge_from])
-    Person.merge merge_into, to_merge
-    flash.now[:notice] = "#{to_merge.name} has been successfully merged into #{merge_into.name}!"
+    to_merge = Person.find_by_id(params[:person][:merge_from][:person].split('(ID:')[1].chop)
+    if merge_into.id == to_merge.id
+      flash.now[:error] = "Nem lehet személyt önmagával egyesíteni!"
+    else
+      Person.merge merge_into, to_merge
+      PersonHistory.create( :user_id => current_user.id, :person_id => merge_into.id, :parameters => params.inspect) 
+      flash.now[:notice] = "#{to_merge.name} kapcsolatai sikeresen hozzáadva!"
+    end
     hobo_show merge_into
     render :show
   end

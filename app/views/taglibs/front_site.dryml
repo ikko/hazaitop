@@ -141,6 +141,10 @@
   </navigation>
 </def>
 
+
+<!-- = = = = = = = CARDS = = = = = = = -->
+
+
 <def tag="card" for="Contract">
   <card class="contract" param="default" merge>
     <header: param>
@@ -175,8 +179,14 @@
       <h4 param="heading"><a><name/></a></h4>
     </header:>
     <body: param>
-      <div if="&this.relations_counter>0">
-        <view:relations_counter class="strong" if="&this.relations_counter"/> kapcsolat 
+      <div if="&this.relations_bit">
+        <span class="strong"><%= this.interorg_relations_count + this.person_to_org_relations_count %></span> kapcsolat 
+        (<span if="&this.person_to_org_relations_count>0">
+          <view:person_to_org_relations_count class="strong"/> személyes, 
+        </span>
+        <span if="&this.interorg_relations_count>0">
+          <view:interorg_relations_count class="strong"/> szervezeti
+        </span>)
       </div>
       <view:city class="strong"/> <view:street/>
       <view:trade_register_nr/> <view:tax_nr/>
@@ -192,8 +202,14 @@
     </header:>
     <body: param>
       <view:person_grades if="&this.person_grades"/>
-      <div if="&this.relations_counter>0">
-        <view:relations_counter class="strong" if="&this.relations_counter"/> kapcsolat 
+      <div if="&this.relations_bit">
+        <span class="strong"><%= this.interpersonal_relations_count + this.person_to_org_relations_count %></span> kapcsolat 
+        (<span if="&this.interpersonal_relations_count>0">
+          <view:interpersonal_relations_count class="strong"/> személyes, 
+        </span>
+        <span if="&this.person_to_org_relations_count>0">
+          <view:person_to_org_relations_count class="strong"/> szervezeti
+        </span>)
       </div>
     </body:>
   </card>
@@ -213,6 +229,132 @@
       </div>
     </body:>
   </card>
+</def>
+
+<def tag="card" for="Notification">
+  <card class="notification" param="default" merge>
+    <header: param>
+      <h3><a><view with="&commify(this.contracted_value)" /> HUF </a></h3>
+      <h4 param="heading"><a><name/></a></h4>
+    </header:>
+    <body: param>
+      <view:contracts.count/> szerződés
+    </body:>
+  </card>
+</def>
+
+
+<def tag="card" for="InformationSource">
+  <card class="information-source" param="default" merge>
+    <header: param>
+      <h4 param="heading"><a><name/></a></h4>
+    </header:>
+    <body: param>
+      <a if="web" href="#{this.web}" target="_blank"><view:web/></a>
+      internal: <editor:internal/>
+    </body:>
+  </card>
+</def>
+
+<def tag="card" for="Article">
+  <card class="article" param="default" merge>
+    <header: param>
+      <h4 param="heading"><a><name/></a></h4>
+    </header:>
+    <body: param>
+      <a><view:summary/></a>
+      <!--i><a><%= I18n.l( this.created_at, :format =>"%B %d, %Y %H:%M") %></a></i-->
+    </body:>
+  </card>
+</def>
+
+<def tag="card" for="InformationSource">
+  <card class="o2o-relation-type" param="default" merge>
+    <header: param>
+      <h4 param="heading"><a><name/></a></h4>
+      internal: <editor:internal/>
+    </header:>
+  </card>
+</def>
+
+<def tag="card" for="O2oRelationType">
+  <card class="o2o-relation-type" param="default" merge>
+    <header: param>
+      <h4 param="heading"><a><name/></a> <span if="&this.pair"> (<view:pair/>)</span></h4>
+      parsed: <editor:parsed/>
+    </header:>
+  </card>
+</def>
+
+<def tag="card" for="O2pRelationType">
+  <card class="o2p-relation-type" param="default" merge>
+    <header: param>
+      <h4 param="heading"><a><name/></a> <span if="&this.pair"> (<view:pair/>)</span></h4>
+      parsed: <editor:parsed/>
+    </header:>
+  </card>
+</def>
+
+<def tag="card" for="P2oRelationType">
+  <card class="p2o-relation-type" param="default" merge>
+    <header: param>
+      <h4 param="heading"><a><name/></a> <span if="&this.pair"> (<view:pair/>)</span></h4>
+      parsed: <editor:parsed/>
+    </header:>
+  </card>
+</def>
+
+<def tag="card" for="P2pRelationType">
+  <card class="p2p-relation-type" param="default" merge>
+    <header: param>
+      <h4 param="heading"><a><name/></a> <span if="&this.pair"> (<view:pair/>)</span></h4>
+      parsed: <editor:parsed/>
+    </header:>
+  </card>
+</def>
+
+
+<!-- = = = = = = = FORMS = = = = = = = -->
+
+
+<def tag="form" for="Tender">
+  <form merge param="default">
+    <error-messages param/>
+    <field-list fields="name, project, op_name, amount, subsidy, currency, city, county, region, decided_at, decision_score, found, source, applicant, caller, information_source">
+    <caller-view:>
+      <name-one/>
+    </caller-view:>
+    <applicant-view:>
+      <name-one/>
+    </applicant-view:>
+
+    </field-list>
+    <div param="actions">
+      <submit label="#{ht 'tenders.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
+    </div>
+  </form>
+</def>
+
+
+
+<def tag="form" for="Contract">
+  <form merge param="default">
+    <error-messages param/>
+    <field-list fields="no_of_proposals, name, description, sum_value, original_sum_value, s_vat_incl, contracted_value, c_vat_incl, original_contracted_value, estimated_value, e_vat_incl, currency, subject_and_qty, number, issued_at, case_number, buyer, notification, seller" param>
+      <seller-view:>
+        <name-one/>
+      </seller-view:>
+      <buyer-view:>
+        <name-one/>
+      </buyer-view:>
+      <notification-view:>
+        <name-one/>
+      </notification-view:>
+    </field-list>
+    <div param="actions">
+      <submit label="#{ht 'contracts.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
+    </div>
+  </form>
 </def>
 
 <def tag="form" for="Article">
@@ -443,42 +585,62 @@
   </old-form>
 </extend>
 
-<def tag="card" for="Notification">
-  <card class="notification" param="default" merge>
-    <header: param>
-      <h3><a><view with="&commify(this.contracted_value)" /> HUF </a></h3>
-      <h4 param="heading"><a><name/></a></h4>
-    </header:>
-    <body: param>
-      <view:contracts.count/> szerződés
-    </body:>
-  </card>
+
+
+<def tag="form" for="InterpersonalRelation">
+  <form merge param="default">
+    <error-messages param/>
+    <field-list fields="start_time, end_time, no_end_time, article_relations, information_source, litigations, p2p_relation_type">
+      <article-relations-view:>
+        <input-many>
+          <a:article default="_blank"><view:id/></a>
+          <name-one:article/>
+        </input-many>
+      </article-relations-view:>
+    </field-list>
+    <div param="actions">
+      <submit label="#{ht 'interpersonal_relations.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
+    </div>
+  </form>
+</def>
+
+<def tag="form" for="PersonToOrgRelation">
+  <form merge param="default">
+    <error-messages param/>
+    <field-list fields="start_time, end_time, no_end_time, article_relations, information_source, litigations, p2o_relation_type">
+      <article-relations-view:>
+        <input-many>
+          <a:article default="_blank"><view:id/></a>
+          <name-one:article/>
+        </input-many>
+      </article-relations-view:>
+    </field-list>
+    <div param="actions">
+      <submit label="#{ht 'person_to_org_relations.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
+    </div>
+  </form>
+</def>
+
+<def tag="form" for="InterorgRelation">
+  <form merge param="default">
+    <error-messages param/>
+    <field-list fields="start_time, end_time, no_end_time, article_relations, information_source, litigations, o2o_relation_type">
+      <article-relations-view:>
+        <input-many>
+          <a:article default="_blank"><view:id/></a>
+          <name-one:article/>
+        </input-many>
+      </article-relations-view:>
+    </field-list>
+    <div param="actions">
+      <submit label="#{ht 'interorg_relations.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
+    </div>
+  </form>
 </def>
 
 
-<def tag="card" for="InformationSource">
-  <card class="information-source" param="default" merge>
-    <header: param>
-      <h4 param="heading"><a><name/></a></h4>
-    </header:>
-    <body: param>
-      <a if="web" href="#{this.web}" target="_blank"><view:web/></a>
-      internal: <editor:internal/>
-    </body:>
-  </card>
-</def>
+<!-- = = = = = = = TABLES = = = = = = = -->
 
-<def tag="card" for="Article">
-  <card class="article" param="default" merge>
-    <header: param>
-      <h4 param="heading"><a><name/></a></h4>
-    </header:>
-    <body: param>
-      <a><view:summary/></a>
-      <!--i><a><%= I18n.l( this.created_at, :format =>"%B %d, %Y %H:%M") %></a></i-->
-    </body:>
-  </card>
-</def>
 
 <extend tag="table-plus">
   <old-table-plus merge>
@@ -791,7 +953,7 @@
 </def>
 
 <def tag="table-plus-person-history">
-  <table-plus fields="user, updated_at" without-search-form>
+  <table-plus fields="user, updated_at, parameters" without-search-form>
     <controls:/>
     <page-nav: previous-label="&laquo;" next-label="&raquo;"/>
   </table-plus>
@@ -856,12 +1018,13 @@
       </div>
       <if test="&current_user.signed_up? and @this.org_histories.count > 0">
         <div class="details_header">Mentések:</div>
-        <table-plus with="&@this.org_histories" fields="user, updated_at" without-search-form/>
+        <table-plus with="&@this.org_histories" fields="user, updated_at, parameters" without-search-form/>
       </if>
       <form action="&'/organizations/' + this.id.to_s + '/merge'" method="get" if="&current_user.supervisor? or current_user.editor? or current_user.administrator?" >
           <field-list fields="merge_from">
             <merge-from-view:>
-              <name-one/>
+              <hjq-autocomplete:organization source="&query_organizations_path" delay="200" minLength="3" />
+              <!--name-one/-->
               Be aware! All data will be deleted after the merge of the organization you enter here!
             </merge-from-view:>
           </field-list>
@@ -870,6 +1033,10 @@
     </append-content-body:>
   </show-page>
 </def>
+
+
+<!-- = = = = = = = PAGES / NODES = = = = = = = -->
+
 
 <def tag="node-show-page" for="Person">
   <show-page merge without-creator-link>
@@ -925,7 +1092,8 @@
       <form action="&'/people/' + this.id.to_s + '/merge'" method="get" if="&current_user.supervisor? or current_user.editor? or current_user.administrator?" >
           <field-list fields="merge_from">
             <merge-from-view:>
-              <name-one/>
+              <hjq-autocomplete:person source="&query_people_path" delay="220" minLength="3" />
+              <!--name-one/-->
               Be aware! All data will be deleted after the merge of the person you enter here!
             </merge-from-view:>
           </field-list>
@@ -1053,142 +1221,6 @@
 </def>
 
 
-
-<def tag="card" for="InformationSource">
-  <card class="o2o-relation-type" param="default" merge>
-    <header: param>
-      <h4 param="heading"><a><name/></a></h4>
-      internal: <editor:internal/>
-    </header:>
-  </card>
-</def>
-
-<def tag="card" for="O2oRelationType">
-  <card class="o2o-relation-type" param="default" merge>
-    <header: param>
-      <h4 param="heading"><a><name/></a> <span if="&this.pair"> (<view:pair/>)</span></h4>
-      parsed: <editor:parsed/>
-    </header:>
-  </card>
-</def>
-
-<def tag="card" for="O2pRelationType">
-  <card class="o2p-relation-type" param="default" merge>
-    <header: param>
-      <h4 param="heading"><a><name/></a> <span if="&this.pair"> (<view:pair/>)</span></h4>
-      parsed: <editor:parsed/>
-    </header:>
-  </card>
-</def>
-
-<def tag="form" for="InterpersonalRelation">
-  <form merge param="default">
-    <error-messages param/>
-    <field-list fields="start_time, end_time, no_end_time, article_relations, information_source, litigations, p2p_relation_type">
-      <article-relations-view:>
-        <input-many>
-          <a:article default="_blank"><view:id/></a>
-          <name-one:article/>
-        </input-many>
-      </article-relations-view:>
-    </field-list>
-    <div param="actions">
-      <submit label="#{ht 'interpersonal_relations.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
-    </div>
-  </form>
-</def>
-
-<def tag="form" for="PersonToOrgRelation">
-  <form merge param="default">
-    <error-messages param/>
-    <field-list fields="start_time, end_time, no_end_time, article_relations, information_source, litigations, p2o_relation_type">
-      <article-relations-view:>
-        <input-many>
-          <a:article default="_blank"><view:id/></a>
-          <name-one:article/>
-        </input-many>
-      </article-relations-view:>
-    </field-list>
-    <div param="actions">
-      <submit label="#{ht 'person_to_org_relations.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
-    </div>
-  </form>
-</def>
-
-<def tag="form" for="InterorgRelation">
-  <form merge param="default">
-    <error-messages param/>
-    <field-list fields="start_time, end_time, no_end_time, article_relations, information_source, litigations, o2o_relation_type">
-      <article-relations-view:>
-        <input-many>
-          <a:article default="_blank"><view:id/></a>
-          <name-one:article/>
-        </input-many>
-      </article-relations-view:>
-    </field-list>
-    <div param="actions">
-      <submit label="#{ht 'interorg_relations.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
-    </div>
-  </form>
-</def>
-
-<def tag="card" for="P2oRelationType">
-  <card class="p2o-relation-type" param="default" merge>
-    <header: param>
-      <h4 param="heading"><a><name/></a> <span if="&this.pair"> (<view:pair/>)</span></h4>
-      parsed: <editor:parsed/>
-    </header:>
-  </card>
-</def>
-
-<def tag="card" for="P2pRelationType">
-  <card class="p2p-relation-type" param="default" merge>
-    <header: param>
-      <h4 param="heading"><a><name/></a> <span if="&this.pair"> (<view:pair/>)</span></h4>
-      parsed: <editor:parsed/>
-    </header:>
-  </card>
-</def>
-
-<def tag="form" for="Tender">
-  <form merge param="default">
-    <error-messages param/>
-    <field-list fields="name, project, op_name, amount, subsidy, currency, city, county, region, decided_at, decision_score, found, source, applicant, caller, information_source">
-    <caller-view:>
-      <name-one/>
-    </caller-view:>
-    <applicant-view:>
-      <name-one/>
-    </applicant-view:>
-
-    </field-list>
-    <div param="actions">
-      <submit label="#{ht 'tenders.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
-    </div>
-  </form>
-</def>
-
-
-
-<def tag="form" for="Contract">
-  <form merge param="default">
-    <error-messages param/>
-    <field-list fields="no_of_proposals, name, description, sum_value, original_sum_value, s_vat_incl, contracted_value, c_vat_incl, original_contracted_value, estimated_value, e_vat_incl, currency, subject_and_qty, number, issued_at, case_number, buyer, notification, seller" param>
-      <seller-view:>
-        <name-one/>
-      </seller-view:>
-      <buyer-view:>
-        <name-one/>
-      </buyer-view:>
-      <notification-view:>
-        <name-one/>
-      </notification-view:>
-    </field-list>
-    <div param="actions">
-      <submit label="#{ht 'contracts.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
-    </div>
-  </form>
-</def>
 
 <def attrs='options, targets, remove-label, prompt, disabled, name' tag='select-many'><%
   prompt ||= "Add #{this_field.titleize.singularize}"

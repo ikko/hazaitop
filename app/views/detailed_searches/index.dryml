@@ -211,7 +211,7 @@
         <fieldset>
           <field-list: fields="cpvs">
             <cpvs-view:>
-              <select-many prompt="Téma / CPV kód hozzáadása">
+              <select-many prompt="Téma (CPV kód) hozzáadása">
                 <select: id="cpv_selector"/>
               </select-many>
             </cpvs-view:>

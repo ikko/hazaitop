@@ -26,6 +26,10 @@ class Person < ActiveRecord::Base
     address :string
   end
 
+  def to_s
+    "#{name} (#{id})"
+  end
+
   default_scope  :order => 'last_name, first_name' 
 
   before_save do |r|

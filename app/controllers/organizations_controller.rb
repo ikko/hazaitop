@@ -25,44 +25,21 @@ class OrganizationsController < ApplicationController
     end
   end
 
-
   def update
     render :text => "access denied" unless current_user.administrator? or current_user.editor? or current_user.supervisor?
-    logger.info "========================================================== 1 =="
     add_new_entities    
-    logger.info "========================================================== 2 =="
-    logger.info params.inspect
     redirect_to edit_organization_path(params[:id]) and return if flash[:errors].present?
-    logger.info "========================================================== 3 =="
     @organization = find_instance
-    logger.info "========================================================== 4 =="
-    logger.info params['organization'].inspect
-    @organization.update_attributes params['organization']
-    logger.info "========================================================== 5 =="
+    hobo_update
     if @organization.valid?
-    logger.info "========================================================== 6 =="
-      OrgHistory.create( :user_id => current_user.id, :organization_id => @organization.id ) 
-    logger.info "========================================================== 7 =="
-      redirect_to organization_path( @organization.id )
-    logger.info "========================================================== 8 =="
-    else
-      render :action => :edit
+      OrgHistory.create( :user_id => current_user.id, :organization_id => @organization.id, :parameters => params.inspect ) 
     end
-
-    logger.info "========================================================== 9 =="
   rescue => e
     logger.info e.backtrace.join("\n")
     logger.info "*********************************************** update org error happened ********************************"
     logger.info e.inspect
   end
 
-#  def update
-#    add_new_entities
-#    redirect_to edit_organization_path(params[:id]) and return if flash[:errors].present?
-#    hobo_update do
-#      OrgHistory.create( :user_id => current_user.id, :organization_id => @this.id ) if @this.valid?
-#    end
-#  end
 
   def add_new_entities
     info_source = InformationSource.find_or_create_by_name('ahalo.hu') do |r| r.name = 'ahalo.hu'; r.web = 'http://ahalo.hu' end
@@ -157,8 +134,8 @@ class OrganizationsController < ApplicationController
   end
 
   index_action :query do
-    render :json => Organization.name_contains(params[:term]).order_by(:name).limit(100).all(:select=>'id, name').map {|org|
-      {:label => org.name, :id => org.id}
+    render :json => Organization.name_contains(params[:term]).order_by(:name).limit(40).all(:select=>'id, name').map {|org|
+      {:label => "#{org.name} (ID:#{org.id})", :id => org.id}
     }
   end
 
@@ -169,9 +146,14 @@ class OrganizationsController < ApplicationController
 
   show_action :merge do
     merge_into = find_instance
-    to_merge = Organization.find_by_name(params[:organization][:merge_from])
-    Organization.merge merge_into, to_merge
-    flash.now[:notice] = "#{to_merge.name} has been successfully merged into #{merge_into.name}!"
+    to_merge = Organization.find_by_id(params[:organization][:merge_from][:organization].split('(ID:')[1].chop)
+    if merge_into.id == to_merge.id
+      flash.now[:error] = "Nem lehet szervezetet önmagával egyesíteni!"
+    else
+      Organization.merge merge_into, to_merge
+      OrgHistory.create( :user_id => current_user.id, :organization_id => merge_into.id, :parameters => params.inspect) 
+      flash.now[:notice] = "#{to_merge.name} kapcsolatai sikeresen hozzáadva!"
+    end
     hobo_show merge_into
     render :show
   end
