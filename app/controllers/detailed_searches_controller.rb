@@ -165,12 +165,9 @@ private
     tender_conditions << ["tenders.decided_at <= ?", @detailed_search.date_to] if @detailed_search.date_to.present?
     cond = ""
     par = []
-    tender_conditions.flatten.each_with_index do |e, i|
-      if i.even?
-        cond << (i>0 ? " and #{e}" : e)
-      else
-        par << e
-      end
+    tender_conditions.each_with_index do |e, i|
+      cond << (i>0 ? " and #{e[0]}" : e[0])
+      par << e[1]
     end
     builded_tender_conditions = [cond] + par
     Tender.search(@detailed_search.query, :name).
@@ -189,25 +186,25 @@ private
     contract_conditions << ["contracts.contracted_value <= ?", @detailed_search.amount_to] if @detailed_search.amount_to.present?
     contract_conditions << ["contracts.issued_at >= ?", @detailed_search.date_from] if @detailed_search.date_from.present?
     contract_conditions << ["contracts.issued_at <= ?", @detailed_search.date_to] if @detailed_search.date_to.present?
+    contract_conditions << ["(contract_cpv_rels.cpv_id in (?))", @detailed_search.cpvs.*.id] if @detailed_search.cpvs.present?
     cond = ""
     par = []
-    contract_conditions.flatten.each_with_index do |e, i|
-      if i.even?
-        cond << (i>0 ? " and #{e}" : e)
-      else
-        par << e
-      end
+    contract_conditions.each_with_index do |e, i|
+      cond << (i>0 ? " and #{e[0]}" : e[0])
+      par << e[1]
     end
     builded_contract_conditions = [cond] + par
     Contract.search(@detailed_search.query, :name).
              search(@detailed_search.address, :place_of_performance).
              search(@detailed_search.subject, :subject_and_qty).
-                     paginate(
+                     paginate(:select=>"distinct contracts.* ",
+                              :joins=>"left outer join contract_cpv_rels on contract_cpv_rels.contract_id = contracts.id ",
                               :conditions=>builded_contract_conditions, 
                               :per_page=>10, 
                               :page=>params[:page])
   end
 
+  # note used, see get_contracts and get_tenders (comment #2)
   def get_transactions
     transaction_conditions = []
     transaction_conditions << ["interorg_relations.value != ?", 0]

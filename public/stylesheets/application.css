@@ -1061,6 +1061,11 @@ textarea {
   display: inline-block;
 }
 
+#detailed_search_wrapper .cpvs-view span {
+  width: 90%;
+  display: inline-block;
+}
+
 .disabled {
   background: lightgray !important;
   color: gray !important;

@@ -5,6 +5,7 @@ class DetailedSearch < ActiveRecord::Base
   fields do
     query        :string
     address      :string
+    subject      :string
     date_from    :date
     date_to      :date
     person       :boolean, :default => true
@@ -23,6 +24,8 @@ class DetailedSearch < ActiveRecord::Base
   has_many :activities, :through=>:detailed_search_activities, :accessible => true
   has_many :detailed_search_sectors
   has_many :sectors, :through => :detailed_search_sectors, :accessible => true
+  has_many :detailed_search_cpvs
+  has_many :cpvs, :through => :detailed_search_cpvs, :accessible => true
 
   has_many :detailed_search_relations, :accessible => true
   has_many :relations, :through => :detailed_search_relations, :accessible => true

@@ -70,14 +70,20 @@
               $('.select-many span').removeClass('disabled');
               $('select').removeClass('disabled');
             }
+            if ($('#data_contract').is(':checked')) {
+              $('#cpv_selector').attr('disabled', false)
+              $('#cpv_selector').removeClass('disabled');
+              $('.cpvs-view .item span').removeClass('disabled');
+            } else 
+            {
+              $('#cpv_selector').attr('disabled', true)
+              $('#cpv_selector').addClass('disabled');
+              $('.cpvs-view .item span').addClass('disabled');
+            }
           });
 
           checkTransaction = function() {
-            if ($('#data_contract').is(':checked')) {
-              $('#amount_from').attr('disabled', true)
-              $('#amount_to').attr('disabled', true)
-              $('#subject').attr('disabled', true)
-            } 
+
             if ($('#data_tender').is(':checked')) {
               $('#amount_from').attr('disabled', true)
               $('#amount_to').attr('disabled', true)
@@ -100,6 +106,22 @@
             {
               $('#data_contract').attr('checked', false);
               $('#data_tender').attr('checked', false);
+            }
+            if ($('#data_contract').is(':checked')) {
+              $('#amount_from').attr('disabled', false)
+              $('#amount_to').attr('disabled', false)
+              $('#subject').attr('disabled', false)
+              $('#cpv_selector').attr('disabled', false)
+              $('#cpv_selector').removeClass('disabled');
+              $('.cpvs-view .item span').removeClass('disabled');
+            } else 
+            {
+              $('#amount_from').attr('disabled', true)
+              $('#amount_to').attr('disabled', true)
+              $('#subject').attr('disabled', true)
+              $('#cpv_selector').attr('disabled', true)
+              $('#cpv_selector').addClass('disabled');
+              $('.cpvs-view .item span').addClass('disabled');
             }
           }
           
@@ -185,6 +207,15 @@
           <with-fields  fields="contract, tender">
             <input class="checkbox data_transaction" id="data_#{this_field}"/><label class="checkbox_label"><%= this_field_name %></label>
           </with-fields>
+        </fieldset>
+        <fieldset>
+          <field-list: fields="cpvs">
+            <cpvs-view:>
+              <select-many prompt="Téma / CPV kód hozzáadása">
+                <select: id="cpv_selector"/>
+              </select-many>
+            </cpvs-view:>
+          </field-list:>
         </fieldset>
         <fieldset>
           <field-list: fields="relations">

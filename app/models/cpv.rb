@@ -5,11 +5,16 @@ class Cpv < ActiveRecord::Base
 
   fields do
     name :string
+    description :string
     timestamps
   end
 
   has_many :contract_cpv_rels
   has_many :contracts, :through => :contract_cpv_rels, :accessible => true
+
+  def to_s
+    "#{name}: #{description}"
+  end
 
   # --- Permissions --- #
 

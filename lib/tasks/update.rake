@@ -97,6 +97,18 @@ namespace :update do
       end
     end
 =end
-
   end
+
+
+  desc 'update cpv descriptions from db/cpv_codes.txt'
+  task :cpv => :environment do
+    f = File.open("db/cpv_codes.txt", "r")
+    c = []
+    f.each do |l|
+      next if l.strip.empty?
+      a = l.split('  ')
+      Cpv.find_by_name(a[0]).try.update_attribute :description, a[1]
+    end
+  end
+
 end

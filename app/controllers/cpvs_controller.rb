@@ -5,5 +5,7 @@ class CpvsController < ApplicationController
 
   auto_actions :all
 
+#  autocomplete :description
+
 end
 
