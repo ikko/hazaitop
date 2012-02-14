@@ -20,18 +20,21 @@ class DetailedSearchesController < ApplicationController
 
     @detailed_search.query   ||= params[:query] ||= ""
     @detailed_search.address ||= params[:address] ||= ""
+    @detailed_search.subject ||= params[:subject] ||= ""
 
     @detailed_search.query = "" if @detailed_search.query == "Keresés"
 
      if @detailed_search.query.blank?     and 
         @detailed_search.address.blank?   and
+        @detailed_search.subject.blank?   and
         @detailed_search.date_from.blank? and
         @detailed_search.date_to.blank?   and
         @detailed_search.person       == true and
         @detailed_search.organization == true and
         @detailed_search.article      == true and
         @detailed_search.litigation   == true and 
-        @detailed_search.transaction.blank? and
+        @detailed_search.contract.blank?    and
+        @detailed_search.tender.blank?      and
         @detailed_search.relations.blank?   and
         @detailed_search.amount_from.blank? and
         @detailed_search.amount_to.blank?     
@@ -43,9 +46,12 @@ class DetailedSearchesController < ApplicationController
 
     # ha ajaxos lapozás van
     if params[:block]
-      if params[:block]=='transaction'
-        @transactions = get_transactions
-        render "paginate_transaction" and return
+      if params[:block]=='tender'
+        @tenders = get_tenders
+        render "paginate_tender" and return
+      elsif params[:block]=='contract'
+        @contracts = get_contracts
+        render "paginate_contract" and return
       elsif params[:block]=='person'
         @people = get_people
         render "paginate_person" and return
@@ -62,9 +68,13 @@ class DetailedSearchesController < ApplicationController
     else
       if !@empty_search
         # ha tranzakció be van jelölve akkor csak ott keresünk
-        if @detailed_search.transaction?
-          @transactions = get_transactions
-          @contracts    = get_contracts
+        if @detailed_search.contract? or @detailed_search.tender?
+          if @detailed_search.contract?
+            @contracts   = get_contracts
+          end
+          if @detailed_search.tender?
+            @tenders     = get_tenders
+          end
           # nem kerestek dátumra
         elsif !@detailed_search.date_from.present? && !@detailed_search.date_to.present?
           @organizations = @detailed_search.organization? ? Organization.search(@detailed_search.query, :name).search(@detailed_search.address, :address).
@@ -76,9 +86,9 @@ class DetailedSearchesController < ApplicationController
           @litigations   = @detailed_search.litigation? ? Litigation.search(@detailed_search.query, :name).
             paginate(:per_page=>10, :page=>params[:page]) : 
             Litigation.limit(0)
-          @articles      = @detailed_search.article? ? Article.search(@detailed_search.query, :name).
+          @articles      = @detailed_search.article?  ? Article.search(@detailed_search.query, :name).
             paginate(:per_page=>10, :page=>params[:page]) : 
-            Article.limit(0)
+            Article.limit(0) 
           # valamire rákerestek
         else
           @people = @detailed_search.person? ? get_people : Person.limit(0)
@@ -96,7 +106,9 @@ class DetailedSearchesController < ApplicationController
         r.try.increment! :search_result_count
         r = Article.find(@articles.try.first.try.id) if @articles.try.first
         r.try.increment! :search_result_count
-        r  = InterorgRelation.find(@transactions.try.first.try.id) if @transactions.try.first
+        r  = InterorgRelation.find(@contracts.try.first.try.interorg_relations.try.first.try.id) if @contracts.try.first.try.interorg_relations.try.first
+        r.try.increment! :search_result_count
+        r  = InterorgRelation.find(@tenders.try.first.try.interorg_relation.try.id) if @tenders.try.first.try.interorg_relation
         r.try.increment! :search_result_count
       end
     end
@@ -107,9 +119,6 @@ private
     pag_params = {:per_page=>10, :page=>params[:page], :conditions=>{}, :joins=>""}
     if relation.to_sym == :organization && @detailed_search.organization?
       pag_params[:conditions].merge!({:relations_bit => true})
-      if @detailed_search.place_of_births.present?
-        pag_params[:conditions].merge!({:city=>@detailed_search.place_of_births.*.name})
-      end
       if @detailed_search.sectors.present?
         pag_params[:conditions].merge!({:sector_id => @detailed_search.sectors})
       end
@@ -132,9 +141,6 @@ private
     end
     if relation.to_sym == :person && @detailed_search.person?
       pag_params[:conditions].merge!({:relations_bit => true})
-      if @detailed_search.place_of_births.present?
-        pag_params[:conditions].merge!({:city=>@detailed_search.place_of_births.*.name})
-      end
       if @detailed_search.relations.present?
         if @detailed_search.relations.first.p2p_relation_types.present?
           pag_params[:joins] += "left outer join interpersonal_relations on interpersonal_relations.person_id=people.id "
@@ -150,12 +156,37 @@ private
     pag_params
   end
 
+  def get_tenders
+    tender_conditions = []
+    tender_conditions << ["tenders.amount != ?", 0]
+    tender_conditions << ["tenders.amount >= ?", @detailed_search.amount_from] if @detailed_search.amount_from.present?
+    tender_conditions << ["tenders.amount <= ?", @detailed_search.amount_to] if @detailed_search.amount_to.present?
+    tender_conditions << ["tenders.decided_at >= ?", @detailed_search.date_from] if @detailed_search.date_from.present?
+    tender_conditions << ["tenders.decided_at <= ?", @detailed_search.date_to] if @detailed_search.date_to.present?
+    cond = ""
+    par = []
+    tender_conditions.flatten.each_with_index do |e, i|
+      if i.even?
+        cond << (i>0 ? " and #{e}" : e)
+      else
+        par << e
+      end
+    end
+    builded_tender_conditions = [cond] + par
+    Tender.search(@detailed_search.query, :name).
+           search(@detailed_search.address, :city).
+           search(@detailed_search.subject, :project).
+                     paginate(
+                              :conditions=>builded_tender_conditions, 
+                              :per_page=>10, 
+                              :page=>params[:page])
+  end
 
   def get_contracts
     contract_conditions = []
-    contract_conditions << ["contracts.value != ?", 0]
-    contract_conditions << ["contracts.value >= ?", @detailed_search.amount_from] if @detailed_search.amount_from.present?
-    contract_conditions << ["contracts.value <= ?", @detailed_search.amount_to] if @detailed_search.amount_to.present?
+    contract_conditions << ["contracts.contracted_value != ?", 0]
+    contract_conditions << ["contracts.contracted_value >= ?", @detailed_search.amount_from] if @detailed_search.amount_from.present?
+    contract_conditions << ["contracts.contracted_value <= ?", @detailed_search.amount_to] if @detailed_search.amount_to.present?
     contract_conditions << ["contracts.issued_at >= ?", @detailed_search.date_from] if @detailed_search.date_from.present?
     contract_conditions << ["contracts.issued_at <= ?", @detailed_search.date_to] if @detailed_search.date_to.present?
     cond = ""
@@ -170,7 +201,7 @@ private
     builded_contract_conditions = [cond] + par
     Contract.search(@detailed_search.query, :name).
              search(@detailed_search.address, :place_of_performance).
-#             search(@detailed_search.subject, :subject_and_qty).
+             search(@detailed_search.subject, :subject_and_qty).
                      paginate(
                               :conditions=>builded_contract_conditions, 
                               :per_page=>10, 
@@ -217,11 +248,6 @@ private
         person_pars << @detailed_search.date_to
       end
 
-      if @detailed_search.place_of_births.present?
-        person_conditions << "(people.city in (?))"
-        person_pars << @detailed_search.place_of_births.*.name
-      end
-
       if @detailed_search.relations.present?
         if @detailed_search.relations.first.p2o_relations.present?
           person_conditions << "(p2o_relations.p2o_relation_type_id in (?))"
@@ -261,11 +287,6 @@ private
         organization_conditions << "person_to_org_relations.end_time <= ? and interorg_relations.isseud_at <=?"
         org_pars << @detailed_search.date_to
         org_pars << @detailed_search.date_to
-      end
-
-      if @detailed_search.place_of_births.present?
-        organization_conditions << "(organizations.city in (?))"
-        org_pars << @detailed_search.place_of_births.*.name
       end
 
       if @detailed_search.sectors.present?
@@ -329,6 +350,10 @@ private
   end
 
   def get_articles
-    Article.search(@detailed_search.query, :name).paginate(:per_page=>10, :page=>params[:page])
+    if !@detailed_search.query.empty?
+      Article.search(@detailed_search.query, :name).search(@detailed_search.query, :address).paginate(:per_page=>10, :page=>params[:page])
+    else
+      Article.limit(0)
+    end
   end
 end

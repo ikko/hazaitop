@@ -14,7 +14,8 @@ class DetailedSearch < ActiveRecord::Base
     litigation   :boolean, :default => true
     amount_from  :integer
     amount_to    :integer
-    transaction  :boolean
+    contract     :boolean
+    tender       :boolean
   end
 
   has_many :detailed_search_place_of_births

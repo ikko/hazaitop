@@ -353,13 +353,15 @@ hu:
   detailed_searches:
     query: Kereső szó
     address: Cím
+    subject: Tárgy
     date_from: Dátum
     amount_from: Összeg (Ft) 
     person: Személy 
     organization: Szervezet 
     article: Cikk 
     litigation: Per 
-    transaction: Közbeszerzés
+    contract: Közbeszerzés
+    tender: Pályázat
     place_of_births: Helyek
     sectors: Ágazatok
     activities: Tevékenységek

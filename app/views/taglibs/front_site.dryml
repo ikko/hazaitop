@@ -564,6 +564,52 @@
   </collection>
 </def>
 
+<def tag="collection-contract">
+  <collection>
+    <card:>
+      <header:>
+        <h4 class="heading">
+          <a><view:name/></a>
+        </h4>
+      </header:>
+      <body:>
+        <span>Érték: <view: with="&commify(this.contracted_value)"/></span><br />
+        <span>Vevő: <view:buyer.name/></span><br />
+        <span>Eladó: <view:seller.name/></span>
+        <span>Kihírdetve: <view:issued_at/></span>
+      </body:>
+    </card:>
+    <empty-message:>Nincs találat</empty-message:>
+    <after-empty-message:>
+      <page-nav: class="pagination bright" previous-label="&laquo;" next-label="&raquo;" params="&{:block=> 'contract', :address=>@detailed_search.address, :subject=>@detailed_search.subject, :query=>@detailed_search.query, :amount_from => @detailed_search.amount_from, :amount_to=>@detailed_search.amount_to, :date_from=>@detailed_search.date_from, :date_to=>@detailed_search.date_to, :sort=>params[:sort]}"/>
+    </after-empty-message:>
+  </collection>
+</def>
+
+
+<def tag="collection-tender">
+  <collection>
+    <card:>
+      <header:>
+        <h4 class="heading">
+          <a><view:name/></a>
+        </h4>
+      </header:>
+      <body:>
+        <span>Érték: <view: with="&commify(this.amount)"/></span><br />
+        <span>Pályáztató: <view:caller.name/></span><br />
+        <span>Pályázó: <view:applicant.name/></span>
+        <span>Döntés: <view:decided_at/></span>
+      </body:>
+    </card:>
+    <empty-message:>Nincs találat</empty-message:>
+    <after-empty-message:>
+      <page-nav: class="pagination bright" previous-label="&laquo;" next-label="&raquo;" params="&{:block=> 'tender', :address=>@detailed_search.address, :subject=>@detailed_search.subject, :query=>@detailed_search.query, :amount_from => @detailed_search.amount_from, :amount_to=>@detailed_search.amount_to, :date_from=>@detailed_search.date_from, :date_to=>@detailed_search.date_to, :sort=>params[:sort]}"/>
+    </after-empty-message:>
+  </collection>
+</def>
+
+
 <def tag="collection-transaction">
   <collection>
     <card:>
@@ -580,7 +626,7 @@
     </card:>
     <empty-message:>Nincs találat</empty-message:>
     <after-empty-message:>
-      <page-nav: class="pagination bright" previous-label="&laquo;" next-label="&raquo;" params="&{:block=> 'transaction', :query=>@detailed_search.query, :amount_from => @detailed_search.amount_from, :amount_to=>@detailed_search.amount_to, :date_from=>@detailed_search.date_from, :date_to=>@detailed_search.date_to, :sort=>params[:sort]}"/>
+      <page-nav: class="pagination bright" previous-label="&laquo;" next-label="&raquo;" params="&{:block=> 'transaction', :address=>@detailed_search.address, :subject=>@detailed_search.subject, :query=>@detailed_search.query, :amount_from => @detailed_search.amount_from, :amount_to=>@detailed_search.amount_to, :date_from=>@detailed_search.date_from, :date_to=>@detailed_search.date_to, :sort=>params[:sort]}"/>
     </after-empty-message:>
   </collection>
 </def>
