@@ -28,21 +28,31 @@ class OrganizationsController < ApplicationController
 
   def update
     render :text => "access denied" unless current_user.administrator? or current_user.editor? or current_user.supervisor?
+    logger.info "========================================================== 1 =="
     add_new_entities    
+    logger.info "========================================================== 2 =="
+    logger.info params.inspect
     redirect_to edit_organization_path(params[:id]) and return if flash[:errors].present?
+    logger.info "========================================================== 3 =="
     @organization = find_instance
-    hobo_update do
-      if @organization.valid?
-        OrgHistory.create( :user_id => current_user.id, :organization_id => @organization.id ) 
-      # redirect_to organization_path( @organization.id )
- #   else
- #     render :action => :edit
-      end
+    logger.info "========================================================== 4 =="
+    logger.info params['organization'].inspect
+    @organization.update_attributes params['organization']
+    logger.info "========================================================== 5 =="
+    if @organization.valid?
+    logger.info "========================================================== 6 =="
+      OrgHistory.create( :user_id => current_user.id, :organization_id => @organization.id ) 
+    logger.info "========================================================== 7 =="
+      redirect_to organization_path( @organization.id )
+    logger.info "========================================================== 8 =="
+    else
+      render :action => :edit
     end
 
+    logger.info "========================================================== 9 =="
   rescue => e
     logger.info e.backtrace.join("\n")
-    logger.info "**************** update org error happened ***********************"
+    logger.info "*********************************************** update org error happened ********************************"
     logger.info e.inspect
   end
 

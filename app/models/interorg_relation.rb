@@ -63,7 +63,6 @@ class InterorgRelation < ActiveRecord::Base
   after_destroy do |r| 
     r.interorg_relations.first.try.destroy 
     r.interorg_relation.try.destroy
-    true
   end
 
 
@@ -86,11 +85,9 @@ class InterorgRelation < ActiveRecord::Base
     r.information_source_id = InformationSource.find_by_domain_name('ahalo.hu').id if r.information_source.blank?
     r.parsed = r.o2o_relation_type.parsed if r.o2o_relation_type
     # r.weight = r.information_source.weight * r.o2o_relation_type.weight
-    true
   end
 
   after_create do |r|
-    logger.info "////////////////////// after create ///////////////////////////////////////"
     r.organization.try.increment! :relations_counter
     unless r.mirrored
       if r.o2o_relation_type.pair
@@ -120,7 +117,6 @@ class InterorgRelation < ActiveRecord::Base
       interorg.litigations = r.litigations
       r.update_attributes :mirrored => true, :interorg_relation_id => interorg.id, :visual => visual
     end
-    true
   end
 
   after_save do |r|
@@ -148,24 +144,17 @@ class InterorgRelation < ActiveRecord::Base
         o.litigations = r.litigations
       end
     end
-    true
   end
 
   after_save do |r|
-    logger.info "======================================================"
-    logger.info "lofa elott"
     if !r.related_organization_id or !r.organization_id
-      logger.info "======================================================"
-      logger.info "lofaa"
       r.destroy
     end
-    true
   end
 
   after_destroy do |r|
     r.organization.try.decrement! :relations_counter
     r.interorg_relation.try.destroy
-    true
   end
 #=end
   def to_param
