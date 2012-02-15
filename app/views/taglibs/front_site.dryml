@@ -14,7 +14,7 @@
 
 <extend tag="page">
   <old-page merge>
-    <title:><%= "#{this.try.name ? this.name+' - ' : @controller.controller_name == 'front' ? @controller.action_name == 'index' ? '' : @controller.action_name.gsub('_', ' ')+' - ' : @controller.controller_name.gsub('_', ' ')+' - '}a HÁLÓ" %></title>
+    <title:><%= "#{this.try.name ? '('+this.name+') ' : ''}a HÁLÓ" %></title>
     <custom-scripts:>
       <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
       <hjq-assets/>
