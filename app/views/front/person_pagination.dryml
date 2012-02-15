@@ -14,8 +14,11 @@
     <selected-organization-heading:>Szervezet</selected-organization-heading:>
     <relations-counter-heading:><span>Kapcsolat</span></relations-counter-heading:>
     <information-source-heading:><span>Forrás</span></information-source-heading:>
-    <this-view:><a/> <a href="/site_search/?type=p&id=#{this.id}"><img src="/images/plusz.png"/></a> </this-view:>
-    <selected-organization-view:><a/> <a unless="&this.nil?" href="/site_search/?type=o&id=#{this.id}"><img src="/images/plusz.png"/></a> </selected-organization-view:>
+    <relations-counter-view:><%= this.interpersonal_relations_count + this.person_to_org_relations_count %></relations-counter-view:>
+    <selected-organization-view:><a with="&this" target="_blank"/></selected-organization-view:>
+    <information-source-view:><a with="&this" target="_blank"/></information-source-view:>
+    <this-view:><a target="_blank"/> <a target="_blank" href="/site_search/?type=p&id=#{this.id}"><img src="/images/plusz.png"/></a> </this-view:>
+    <selected-organization-view:><a target="_blank"/> <a unless="&this.nil?" href="/site_search/?type=o&id=#{this.id}" target="_blank"><img src="/images/plusz.png"/></a> </selected-organization-view:>
   </table-plus>
   <div class="table_footer"><a href="#{people_path}">További személyek &gt;</a></div>
 
