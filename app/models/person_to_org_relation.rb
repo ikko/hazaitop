@@ -23,6 +23,10 @@ class PersonToOrgRelation < ActiveRecord::Base
     timestamps
   end
 
+  def name
+    "#{person} és #{organization}"
+  end
+
   has_many :article_relations, :as => :relationable, :accessible => true
   has_many :articles, :through => :article_relations, :accessible => true
 

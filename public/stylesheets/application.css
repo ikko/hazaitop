@@ -480,7 +480,7 @@ table .odd {
   letter-spacing: 1px;
 }
 
-.card.article, .card.person, .card.organization, .card.contract, .card.interorg-relation {
+.card.article, .card.person, .card.organization, .card.contract, .card.tender .card.interorg-relation {
   border-bottom: 1px solid #868789; 
   padding: 14px 0px;
 }
@@ -1077,4 +1077,8 @@ textarea {
 
 .merge-from-view input {
   width: 300px
+}
+
+.card a {
+  color: #6EA4B0
 }

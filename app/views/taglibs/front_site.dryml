@@ -14,7 +14,7 @@
 
 <extend tag="page">
   <old-page merge>
-    <title:>a HÁLÓ</title>
+    <title:><%= "#{this.try.name ? this.name+' - ' : @controller.controller_name == 'front' ? @controller.action_name == 'index' ? '' : @controller.action_name.gsub('_', ' ')+' - ' : @controller.controller_name.gsub('_', ' ')+' - '}a HÁLÓ" %></title>
     <custom-scripts:>
       <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
       <hjq-assets/>
@@ -72,6 +72,14 @@
           </strong>
           <div id="search_box">
             <div id="search_wrapper"><form with="&nil" action="/detailed_searches" method="post"><input type="text" name="query" id="search_input" value="Keresés"/><input type="submit" id="search_button" value="Submit"/></form></div>
+            <script>
+              jQuery('#search_input').focus(function(){
+                jQuery(this).attr('value') == 'Keresés' ? jQuery(this).attr('value', '') : '';;
+              });
+              jQuery('#search_input').focusout(function(){
+                jQuery(this).attr('value') == '' ? jQuery(this).attr('value', 'Keresés') : '';
+              });
+            </script>
           </div>
         </div>
       </div>
@@ -148,13 +156,14 @@
 <def tag="card" for="Contract">
   <card class="contract" param="default" merge>
     <header: param>
-      <h4 param="heading"><a><view:buyer/></a></h4>
-      <a><h5><view with="&commify(this.contracted_value)"/> <view:currency/> <view with="&this.c_vat_incl ? 'ÁFÁ-val' : 'ÁFA nélkül'"/></h5></a>
+      <h4 param="heading"><a target="_blank"><view/></a></h4>
+      <a target="_blank"><h5><view with="&commify(this.contracted_value)"/> <view:currency/> <view with="&this.c_vat_incl ? 'ÁFÁ-val' : 'ÁFA nélkül'"/></h5></a>
     </header:>
     <body: param>
-      <strong><a><view:seller/></a></strong><br/>
+      <strong><view:seller.name/></strong><br/>
+      <strong><view:buyer.name/></strong><br/>
       ajánlattevők száma: <view:no_of_proposals/><br />
-      <a class="notification_url" href="&this.notification.url" target="_blank">forrás</a> | <a><view:notification/></a>
+      <a class="notification_url" href="&this.notification.url" target="_blank">forrás</a> | <a target="_blank"><view:notification/></a>
     </body:>
   </card>
 </def>
@@ -163,12 +172,13 @@
 <def tag="card" for="Tender">
   <card class="tender" param="default" merge>
     <header: param>
-      <h4 param="heading"><a><view:applicant/></a></h4>
-      <a><h5><view with="&commify(this.amount)"/> <view:currency/> </h5></a>
+      <h4 param="heading"><a target="_blank"><view/></a></h4>
+      <a target="_blank"><h5><view with="&commify(this.amount)"/> <view:currency/> </h5></a>
     </header:>
     <body: param>
-      <strong><a><view:caller/></a></strong><br/>
-      <a href="&this.url" target="_blank">forrás</a> | <a><view:op_name if="&this.op_name"/><view:found if="&this.found"/> | <view:name/></a>
+      <strong><view:caller.name/></strong><br/>
+      <strong><view:applicant.name/></strong><br/>
+      <a href="&this.url" target="_blank">forrás</a> | <a target="_blank"><view:op_name if="&this.op_name"/><view:found if="&this.found"/> | <view:name/></a>
     </body:>
   </card>
 </def>
@@ -176,7 +186,7 @@
 <def tag="card" for="Organization">
   <card class="organization" param="default" merge>
     <header: param>
-      <h4 param="heading"><a><name/></a></h4>
+      <h4 param="heading"><a target="_blank"><name/></a></h4>
     </header:>
     <body: param>
       <div if="&this.relations_bit">
@@ -190,7 +200,7 @@
       </div>
       <view:city class="strong"/> <view:street/>
       <view:trade_register_nr/> <view:tax_nr/>
-      <repeat:activities join=", "><a/></repeat>
+      <repeat:activities join=", "><a target="_blank"/></repeat>
     </body:>
   </card>
 </def>
@@ -198,7 +208,7 @@
 <def tag="card" for="Person">
   <card class="person" param="default" merge>
     <header: param>
-      <h4 param="heading"><a><view:name/></a></h4>
+      <h4 param="heading"><a target="_blank"><view:name/></a></h4>
     </header:>
     <body: param>
       <view:person_grades if="&this.person_grades"/>
@@ -218,7 +228,7 @@
 <def tag="card" for="InterorgRelation">
   <card class="interorg-relation" param="default" merge>
     <header: param>
-      <h4 param="heading"><a href="#{url_for(this.tender_id ? this.tender : this.contract)}" class="interorg-relation-link"><view:name/></a></h4>
+      <h4 param="heading"><a  target="_blank" href="#{url_for(this.tender_id ? this.tender : this.contract)}" class="interorg-relation-link"><view:name/></a></h4>
     </header:>
     <body: param>
       <div>
@@ -234,8 +244,8 @@
 <def tag="card" for="Notification">
   <card class="notification" param="default" merge>
     <header: param>
-      <h3><a><view with="&commify(this.contracted_value)" /> HUF </a></h3>
-      <h4 param="heading"><a><name/></a></h4>
+      <h3><a target="_blank"><view with="&commify(this.contracted_value)" /> HUF </a></h3>
+      <h4 param="heading"><a target="_blank"><name/></a></h4>
     </header:>
     <body: param>
       <view:contracts.count/> szerződés
@@ -247,7 +257,7 @@
 <def tag="card" for="InformationSource">
   <card class="information-source" param="default" merge>
     <header: param>
-      <h4 param="heading"><a><name/></a></h4>
+      <h4 param="heading"><a target="_blank"><name/></a></h4>
     </header:>
     <body: param>
       <a if="web" href="#{this.web}" target="_blank"><view:web/></a>
@@ -259,11 +269,11 @@
 <def tag="card" for="Article">
   <card class="article" param="default" merge>
     <header: param>
-      <h4 param="heading"><a><name/></a></h4>
+      <h4 param="heading"><a target="_blank"><name/></a></h4>
     </header:>
     <body: param>
-      <a><view:summary/></a>
-      <!--i><a><%= I18n.l( this.created_at, :format =>"%B %d, %Y %H:%M") %></a></i-->
+      <a target="_blank"><view:summary/></a>
+      <i><a target="_blank"><%= I18n.l( this.created_at, :format =>"%B %d, %Y %H:%M") %></a></i>
     </body:>
   </card>
 </def>
@@ -271,7 +281,7 @@
 <def tag="card" for="InformationSource">
   <card class="o2o-relation-type" param="default" merge>
     <header: param>
-      <h4 param="heading"><a><name/></a></h4>
+      <h4 param="heading"><a target="_blank"><name/></a></h4>
       internal: <editor:internal/>
     </header:>
   </card>
@@ -280,7 +290,7 @@
 <def tag="card" for="O2oRelationType">
   <card class="o2o-relation-type" param="default" merge>
     <header: param>
-      <h4 param="heading"><a><name/></a> <span if="&this.pair"> (<view:pair/>)</span></h4>
+      <h4 param="heading"><a target="_blank"><name/></a> <span if="&this.pair"> (<view:pair/>)</span></h4>
       parsed: <editor:parsed/>
     </header:>
   </card>
@@ -289,7 +299,7 @@
 <def tag="card" for="O2pRelationType">
   <card class="o2p-relation-type" param="default" merge>
     <header: param>
-      <h4 param="heading"><a><name/></a> <span if="&this.pair"> (<view:pair/>)</span></h4>
+      <h4 param="heading"><a target="_blank"><name/></a> <span if="&this.pair"> (<view:pair/>)</span></h4>
       parsed: <editor:parsed/>
     </header:>
   </card>
@@ -298,7 +308,7 @@
 <def tag="card" for="P2oRelationType">
   <card class="p2o-relation-type" param="default" merge>
     <header: param>
-      <h4 param="heading"><a><name/></a> <span if="&this.pair"> (<view:pair/>)</span></h4>
+      <h4 param="heading"><a target="_blank"><name/></a> <span if="&this.pair"> (<view:pair/>)</span></h4>
       parsed: <editor:parsed/>
     </header:>
   </card>
@@ -307,7 +317,7 @@
 <def tag="card" for="P2pRelationType">
   <card class="p2p-relation-type" param="default" merge>
     <header: param>
-      <h4 param="heading"><a><name/></a> <span if="&this.pair"> (<view:pair/>)</span></h4>
+      <h4 param="heading"><a target="_blank"><name/></a> <span if="&this.pair"> (<view:pair/>)</span></h4>
       parsed: <editor:parsed/>
     </header:>
   </card>
@@ -663,8 +673,10 @@
     <selected-organization-heading:>Szervezet</selected-organization-heading:>
     <relations-counter-heading:><span>Kapcsolat</span></relations-counter-heading:>
     <information-source-heading:><span>Forrás</span></information-source-heading:>
-    <this-view:><a/> <a href="/site_search/?type=p&id=#{this.id}"><img src="/images/plusz.png"/></a> </this-view:>
-    <selected-organization-view:><a/> <a unless="&this.nil?" href="/site_search/?type=o&id=#{this.id}"><img src="/images/plusz.png"/></a> </selected-organization-view:>
+    <selected-organization-view:><a with="&this" target="_blank"/></selected-organization-view:>
+    <information-source-view:><a with="&this" target="_blank"/></information-source-view:>
+    <this-view:><a target="_blank"/> <a target="_blank" href="/site_search/?type=p&id=#{this.id}"><img src="/images/plusz.png"/></a> </this-view:>
+    <selected-organization-view:><a target="_blank"/> <a unless="&this.nil?" href="/site_search/?type=o&id=#{this.id}" target="_blank"><img src="/images/plusz.png"/></a> </selected-organization-view:>
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{ :action=> 'person_pagination', :sort=>params[:sort]}"/>
   </table-plus>
   <div param="table_footer" class="table_footer"><a href="#{people_path}">További személyek &gt;</a></div>
@@ -688,7 +700,8 @@
     <zip-code-heading:><span>Irányítószám</span></zip-code-heading:>
     <relations-counter-heading:><span>Kapcsolat</span></relations-counter-heading:>
     <information-source-heading:><span>Forrás</span></information-source-heading:>
-    <this-view:><a/> <a href="/site_search/?type=o&id=#{this.id}"><img src="/images/plusz.png"/></a> </this-view:>
+    <information-source-view:><a with="&this" target="_blank"/></information-source-view:>
+    <this-view:><a target="_blank"/> <a target="_blank" href="/site_search/?type=o&id=#{this.id}"><img src="/images/plusz.png"/></a> </this-view:>
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{ :action=>'org_pagination', :sort=>params[:sort]}"/>
   </table-plus>
   <div param="table_footer" class="table_footer"><a href="#{organizations_path}">További szervezetek &gt;</a></div>
@@ -709,8 +722,11 @@
     <related-organization-heading:><span>Szervezet</span></related-organization-heading:>
     <o2o-relation-type-pair-name-heading:><span>Kapcsolat</span></o2o-relation-type-pair-name-heading:>
     <information-source-heading:><span>Forrás</span></information-source-heading:>
-    <name-view:><a href="#{url_for(this_parent.tender_id ? this_parent.tender : this_parent.contract)}"><%= this.scan(/./mu)[0..50] << (this.scan(/./mu).length > 50 ? '...' : '') %></a> <a href="/site_search/?type=t&id=#{this_parent.id}"><img src="/images/plusz.png"/></a> </name-view:>
-    <value-view:><a href="#{url_for(this_parent.tender_id ? this_parent.tender : this_parent.contract)}"><%= commify(this) %></a></value-view:>
+    <organization-view:><a with="&this" target="_blank"/></organization-view:>
+    <related-organization-view:><a with="&this" target="_blank"/></related-organization-view:>
+    <information-source-view:><a with="&this" target="_blank"/></information-source-view:>
+    <name-view:><a target="_blank" href="#{url_for(this_parent.tender_id ? this_parent.tender : this_parent.contract)}"><%= this.scan(/./mu)[0..50] << (this.scan(/./mu).length > 50 ? '...' : '') %></a> <a target="_blank" href="/site_search/?type=t&id=#{this_parent.id}"><img src="/images/plusz.png"/></a> </name-view:>
+    <value-view:><a target="_blank" href="#{url_for(this_parent.tender_id ? this_parent.tender : this_parent.contract)}"><%= commify(this) %></a></value-view:>
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'trans_pagination', :sort=>params[:sort]}"/>
   </table-plus>
   <div param="table_footer" class="table_footer"><a href="#{transactions_path}">További tranzakciók &gt;</a></div>
@@ -722,6 +738,11 @@
     <after-empty-message:>
       <page-nav: class="pagination bright" previous-label="&laquo;" next-label="&raquo;" params="&{:block=> 'litigation', :query=>params[:query], :date_from=>params[:date_from], :date_to=>params[:date_to]}"/>
     </after-empty-message:>
+    <card:>
+      <after-body:>
+        <a target="_blank" with="&this" action="edit" class="button" if="&this.editable_by?(current_user)">Szerkeszt</a> <delete-button/>
+      </after-body:>
+    </card:>
   </collection>
 </def>
 
@@ -735,9 +756,10 @@
       </header:>
       <body:>
         <span>Érték: <view: with="&commify(this.contracted_value)"/></span><br />
-        <span>Vevő: <view:buyer.name/></span><br />
-        <span>Eladó: <view:seller.name/></span><br />
-        <span>Kihírdetve: <view:issued_at/></span>
+        <span>Vevő:  <a with="&this.buyer" target="_blank"/></span><br />
+        <span>Eladó: <a with="&this.seller" target="_blank"/></span><br />
+        <span>Kihírdetve: <view:issued_at/></span><br/>
+        <a target="_blank" with="&this" action="edit" class="button" if="&this.editable_by?(current_user)">Szerkeszt</a> <delete-button/>
       </body:>
     </card:>
     <empty-message:>Nincs találat</empty-message:>
@@ -758,9 +780,10 @@
       </header:>
       <body:>
         <span>Érték: <view: with="&commify(this.amount)"/></span><br />
-        <span>Pályáztató: <view:caller.name/></span><br />
-        <span>Pályázó: <view:applicant.name/></span>
+        <span>Pályáztató: <a with="&this.caller" target="_blank"/></span><br />
+        <span>Pályázó: <a with="&this.applicant" target="_blank"/></span><br />
         <span>Döntés: <view:decided_at/></span>
+        <a target="_blank" with="&this" action="edit" class="button" if="&this.editable_by?(current_user)">Szerkeszt</a> <delete-button/>
       </body:>
     </card:>
     <empty-message:>Nincs találat</empty-message:>
@@ -799,6 +822,11 @@
     <after-empty-message:>
       <page-nav: previous-label="&laquo;" next-label="&raquo;" class="pagination bright" params="&{:block => 'org', :detailed_search=>{:query=>@detailed_search.query, :address=>@detailed_search.address, :sectors=>@detailed_search.sectors.map{|s| '@'+s.id.to_s}, :relations=>{:'0'=>{ :o2o_relation_types => @detailed_search.relations.try.first.try.o2o_relation_types.try.map{|a| '@'+a.id.to_s}}}, :relations => { :'0'=> { :p2o_relation_types => @detailed_search.relations.try.first.try.p2o_relation_types.try.map{|a| '@'+a.id.to_s}}}, :activities=>@detailed_search.activities.map{|a| '@'+a.id.to_s}, :place_of_births=>@detailed_search.place_of_births.map{|pob| '@'+pob.id.to_s}, :date_from=>@detailed_search.date_from, :date_to=>@detailed_search.date_to}}"/>
     </after-empty-message:>
+    <card:>
+      <after-body:>
+        <a target="_blank" with="&this" action="edit" class="button" if="&this.editable_by?(current_user)">Szerkeszt</a> <delete-button/>
+      </after-body:>
+    </card:>
   </collection>
 </def>
 
@@ -808,6 +836,11 @@
     <after-empty-message:>
       <page-nav: previous-label="&laquo;" next-label="&raquo;" class="pagination bright" params="&{:block => 'person', :detailed_search=>{:place_of_births=>@detailed_search.place_of_births.map{|pob| '@'+pob.id.to_s}, :relations => {:'0' => {:p2o_relation_types => @detailed_search.relations.try.first.try.p2o_relation_types.try.map{|a| '@'+a.id.to_s}}},  :relations => {:'0' => {:p2p_relation_types => @detailed_search.relations.try.first.try.p2p_relation_types.try.map{|a| '@'+a.id.to_s}}}, :query=>@detailed_search.query, :address=>@detailed_search.address, :date_from=>@detailed_search.date_from, :date_to=>@detailed_search.date_to}}"/>
     </after-empty-message:>
+    <card:>
+      <after-body:>
+        <a target="_blank" with="&this" action="edit" class="button" if="&this.editable_by?(current_user)">Szerkeszt</a> <delete-button/>
+      </after-body:>
+    </card:>
   </collection>
 </def>
 
@@ -815,9 +848,10 @@
   <collection>
     <card:>
       <body:>
-        <a><view:summary/></a>
+        <a target="_blank"><view:summary/></a>
         <span class="article-created">Dátum: <%= I18n.l( this.created_at, :format =>"%B %d, %Y %H:%M") %></span>
         <% if this.information_source %> | <a><view:information-source/></a><% end %>
+        <a target="_blank" with="&this" action="edit" class="button" if="&this.editable_by?(current_user)">Szerkeszt</a> <delete-button/>
       </body:>
     </card:>
     <empty-message:>Nincs találat</empty-message:>
@@ -873,6 +907,8 @@
 <def tag="table-plus-organization-person-to-org">
   <table-plus fields="person, o2p_relation_type, start_time, end_time, information_source" without-search-form>
     <controls:/>
+    <person-view:><a with="&this" target="_blank"/></person-view:>
+    <o2p-relation-type-view:><a with="&this" target="_blank"/></o2p-relation-type-view:>
     <article-relations-view:>
       <% this.each do |r| %>
         <a href="#{article_path(r.article_id)}"><view with="&r.article.name[0..60].strip + '...'"/></a><br/>
@@ -884,7 +920,7 @@
     </end-time-view:>
     <information-source-view:>
       <% @artcount = this_parent.articles.count %>
-      <a with="&this_parent"> <view:information_source.name/> </a> <a with="&this_parent" if="&@artcount != 0"> (<%= @artcount -%>)</a>
+      <a target="_blank" with="&this_parent"> <view:information_source.name/> </a> <a target="_blank" with="&this_parent" if="&@artcount != 0"> (<%= @artcount -%>)</a>
     </information-source-view:>
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'person_to_org_pagination', :id => @this.id}"/>
   </table-plus>
@@ -893,17 +929,19 @@
 <def tag="table-plus-organization-interorg">
   <table-plus fields="related_organization, o2o_relation_type, value, currency, vat_incl, contract, tender, information_source" without-search-form>
     <controls:/>
+    <related-organization-view:><a with="&this" target="_blank"/></related-organization-view:>
+    <o2o-relation-type-view:><a with="&this" target="_blank"/></o2o-relation-type-view:>
     <value-view:>
       <view with="&commify(this)"/>
     </value-view:>
     <article-relations-view:>
       <% this.each do |r| %>
-        <a href="#{article_path(r.article_id)}"><view with="&r.article.name[0..60].strip + '...'"/></a><br/>
+        <a target="_blank" href="#{article_path(r.article_id)}"><view with="&r.article.name[0..60].strip + '...'"/></a><br/>
       <% end %>
     </article-relations-view:>
     <information-source-view:>
       <% @artcount = this_parent.articles.count %>
-      <a with="&this_parent"> <view:information_source.name/> </a> <a with="&this_parent" if="&@artcount != 0"> <%= @artcount -%>)</a>
+      <a target="_blank" with="&this_parent"> <view:information_source.name/> </a> <a target="_blank" with="&this_parent" if="&@artcount != 0"> (<%= @artcount -%>)</a>
     </information-source-view:>
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'interorg_pagination', :id => @this.id}"/>
   </table-plus>
@@ -919,6 +957,9 @@
 <def tag="table-plus-person-interperson">
   <table-plus fields="related_person, p2p_relation_type, organization, information_source" without-search-form>
     <controls:/>
+    <related-person-view:><a with="&this" target="_blank"/></related-person-view:>
+    <organization-view:><a with="&this" target="_blank"/></organization-view:>
+    <p2p-relation-type-view:><a with="&this" target="_blank"/></p2p-relation-type-view:>
     <article-relations-view:>
       <% this.each do |r| %>
         <a href="#{article_path(r.article_id)}"><view with="&r.article.name[0..60].strip + '...'"/></a><br/>
@@ -926,7 +967,7 @@
     </article-relations-view:> 
     <information-source-view:>
       <% @artcount = this_parent.articles.count %>
-      <a with="&this_parent"> <view:information_source.name/> </a> <a with="&this_parent" if="&@artcount != 0"> (<%= @artcount -%>)</a>
+      <a target="_blank" with="&this_parent"> <view:information_source.name/> </a> <a target="_blank" with="&this_parent" if="&@artcount != 0"> (<%= @artcount -%>)</a>
     </information-source-view:>
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'interpersonal_pagination', :id => @this.id}"/>
   </table-plus>
@@ -935,6 +976,8 @@
 <def tag="table-plus-person-person-to-org">
   <table-plus fields="organization, p2o_relation_type, start_time, end_time, information_source" without-search-form>
     <controls:/>
+    <organization-view:><a with="&this" target="_blank"/></organization-view:>
+    <p2o-relation-type-view:><a with="&this" target="_blank"/></p2o-relation-type-view:>
     <article-relations-view:>
       <% this.each do |r| %>
         <a href="#{article_path(r.article_id)}"><view with="&r.article.name[0..60].strip + '...'"/></a><br/>
@@ -946,7 +989,7 @@
     </end-time-view:>
     <information-source-view:>
       <% @artcount = this_parent.articles.count %>
-      <a with="&this_parent" if="&@artcount != 0"> <view:information_source.name/> (<%= @artcount -%>)</a>
+      <a target="_blank" with="&this_parent" if="&@artcount != 0"> <view:information_source.name/> (<%= @artcount -%>)</a>
     </information-source-view:>
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'person_to_org_pagination', :id => @this.id}"/>
   </table-plus>
@@ -954,10 +997,17 @@
 
 <def tag="table-plus-person-history">
   <table-plus fields="user, updated_at, parameters" without-search-form>
+    <user-view:><a with="&this" target="_blank"/></user-view:>
     <controls:/>
     <page-nav: previous-label="&laquo;" next-label="&raquo;"/>
   </table-plus>
 </def>
+
+
+
+<!-- = = = = = = = PAGES / NODES = = = = = = = -->
+
+
 
 <def tag="node-show-page" polymorphic/>
 <def tag="node-show-page" for="Organization">
@@ -1035,7 +1085,6 @@
 </def>
 
 
-<!-- = = = = = = = PAGES / NODES = = = = = = = -->
 
 
 <def tag="node-show-page" for="Person">
@@ -1043,6 +1092,7 @@
     <!--append-custom-scripts:>
       <hjq-assets/>
     </append-custom-scripts:-->
+    <record-flags: fields=""/>
     <field-list: fields="address, mothers_name, place_of_birth, born_at, information_source"/>
     <append-heading:>
       <a href="/site_search/?type=p&id=#{this.id}" target="_blank" param="to-map"><img src="/images/terkepre_vele.jpg" id="to_map_blue"/></a>

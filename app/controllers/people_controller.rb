@@ -141,12 +141,16 @@ class PeopleController < ApplicationController
   show_action :merge do
     merge_into = find_instance
     to_merge = Person.find_by_id(params[:person][:merge_from][:person].split('(ID:')[1].chop)
-    if merge_into.id == to_merge.id
-      flash.now[:error] = "Nem lehet személyt önmagával egyesíteni!"
+    if !to_merge
+      flash.now[:error] = "Ez a merge már megtörtént!"
     else
-      Person.merge merge_into, to_merge
-      PersonHistory.create( :user_id => current_user.id, :person_id => merge_into.id, :parameters => params.inspect) 
-      flash.now[:notice] = "#{to_merge.name} kapcsolatai sikeresen hozzáadva!"
+      if merge_into.id == to_merge.id
+        flash.now[:error] = "Nem lehet személyt önmagával egyesíteni!"
+      else
+        merged = Person.merge merge_into, to_merge
+        PersonHistory.create( :user_id => current_user.id, :person_id => merge_into.id, :parameters => "#{params.inspect}, #{merged}")
+        flash.now[:notice] = "#{to_merge.name} kapcsolatai sikeresen hozzáadva!"
+      end
     end
     hobo_show merge_into
     render :show

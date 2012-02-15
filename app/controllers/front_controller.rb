@@ -49,7 +49,9 @@ class FrontController < ApplicationController
       @people        = Person.search(query, :name).paginate(:per_page=>10, :page=>params[:page])
       @litigations   = Litigation.search(query, :name).paginate(:per_page=>10, :page=>params[:page])
       @articles      = Article.search(query, :name).paginate(:per_page=>10, :page=>params[:page])
-      render_tags(@organizations+@people+@litigations+@articles, :search_card, :for_type => true) 
+      @contracts     = Contract.search(query, :name).paginate(:per_page=>10, :page=>params[:page])
+      @tenders       = Tender.search(query, :name).paginate(:per_page=>10, :page=>params[:page])
+      render_tags(@organizations+@people+@litigations+@articles+@contracts+@tenders, :search_card, :for_type => true) 
     end
   end
 end

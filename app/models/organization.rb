@@ -72,6 +72,7 @@ class Organization < ActiveRecord::Base
     this.org_histories.delete_all
 
     this.delete
+    this.inspect
 
   end
 

@@ -71,6 +71,11 @@
           <div class='search'>
             <input class='live-search' type='search' id="quick_search_input" value="Gyorskeresés"/>
             <spinner id='search-spinner'/>
+            <script>
+              jQuery('#quick_search_input').focus(function(){
+                jQuery(this).attr('value') == 'Gyorskeresés' ? jQuery(this).attr('value', '') : '';;
+              });
+            </script>
           </div>
           <section class='hidden' id='search-results-panel'>
             <h2><ht key='hobo.live_search.results_label'>Search Results</ht></h2><img class="close-button" src="/images/x.jpg"></img>
