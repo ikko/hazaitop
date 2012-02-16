@@ -4,7 +4,7 @@
     <br/>
     <form with="&InterpersonalRelation.new" action="closest">
 
-      <h3>Adja meg két személy nevét:</h3>
+      <h3>Adjon meg két személynevet:</h3>
       <hjq-autocomplete:person         source="&query_people_path" delay="220" minLength="3" />
       <hjq-autocomplete:related_person source="&query_people_path" delay="220" minLength="3" />
 

@@ -112,7 +112,7 @@ class Person < ActiveRecord::Base
 
   end
 
-  def find_path a, target, level=5, res=[self]
+  def find_path a, target, level=4, res=[self]
     return if level == 0
     a.people.each do |p|
       if p == target
