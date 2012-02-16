@@ -4,6 +4,7 @@ gem "hobo", "1.0.3"
 gem "domainatrix"
 gem "nokogiri"
 gem "pdftohtmlr"
+gem 'lazy_high_charts'
 
 
 group :development, :test do
