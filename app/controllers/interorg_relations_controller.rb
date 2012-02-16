@@ -26,7 +26,7 @@ class InterorgRelationsController < ApplicationController
         hobo_index( @this, :per_page => 20, :include => [:tender, :contract] ) do
           data = []
           @this.each do |rel|
-            data << { :name => (rel.name.scan(/./)[0..38].join('')+'...'), :y =>rel.value }
+            data << { :name => (rel.name.scan(/./)[0..34].join('')+'...'), :y =>rel.value }
           end
           @h = LazyHighCharts::HighChart.new('pie') do |f|
             f.options[:chart][:defaultSeriesType] = "pie"
