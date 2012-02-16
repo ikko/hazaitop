@@ -19,6 +19,8 @@
     </script>
   </append-head:>
   <collection: replace>
+    <javascript name="highcharts"/>
+    <%= high_chart("my_id", @h) %>
     <div class="tabs" style="margin-top:36px">
       <div class="tab active"><a href="#litigations_content">TRANZAKCIÓK</a></div>
     </div>

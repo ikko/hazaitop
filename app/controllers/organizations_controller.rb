@@ -126,8 +126,19 @@ class OrganizationsController < ApplicationController
 
   def show
     @this               = find_instance
+    data = []
+    @this.interorg_relations.value_is_not(0).limit(20).each do |rel|
+      data << { :name =>  (rel.name.scan(/./)[0..48].join('')+'...'), :y =>rel.value }
+    end
     respond_to do |format| 
-      format.html  { hobo_show @this }
+      format.html  { 
+        hobo_show @this 
+        @h = LazyHighCharts::HighChart.new('pie') do |f|
+          f.options[:chart][:defaultSeriesType] = "pie"
+          f.options[:title][:text] = "Top tranzakciók"
+          f.series(:data=> data)
+        end
+      }
       format.xml   { render( :xml  => { "data" =>  @this, "interorg_relations"  => @this.interorg_relations, "person_to_org_relations" => @this.person_to_org_relations } ) }
       format.json  { render( :json => { "data"=>  @this,  "interorg_relations"  => @this.interorg_relations, "person_to_org_relations" => @this.person_to_org_relations } ) }
     end

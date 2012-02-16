@@ -33,7 +33,7 @@ class InterorgRelation < ActiveRecord::Base
     address :string  #teljesítés helye, címként így kereshető
   end
 
-  default_scope :order => "related_organization_id"
+  default_scope :order => "value DESC, information_source_id DESC"
 
   belongs_to :notification
   belongs_to :contract

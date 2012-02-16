@@ -49,6 +49,8 @@ GEM
       rails (>= 2.2.2, < 3.0.0)
     hobosupport (1.0.3)
     json (1.6.5)
+    lazy_high_charts (1.1.5)
+      bundler (~> 1.0)
     mime-types (1.17.2)
     multi_json (1.0.4)
     mysql (2.8.1)
@@ -95,6 +97,7 @@ DEPENDENCIES
   database_cleaner
   domainatrix
   hobo (= 1.0.3)
+  lazy_high_charts
   mysql
   nokogiri
   pdftohtmlr

@@ -22,7 +22,20 @@ class InterorgRelationsController < ApplicationController
     @this = InterorgRelation.not_mirror.value_is_not('').order_by(:value, 'desc')
     params[:sort] ||= "-value"
     respond_to do |format| 
-      format.html  { hobo_index( @this, :per_page => 20, :include => [:tender, :contract] ) }
+      format.html do
+        hobo_index( @this, :per_page => 20, :include => [:tender, :contract] ) do
+          data = []
+          @this.each do |rel|
+            data << { :name => (rel.name.scan(/./)[0..38].join('')+'...'), :y =>rel.value }
+          end
+          @h = LazyHighCharts::HighChart.new('pie') do |f|
+            f.options[:chart][:defaultSeriesType] = "pie"
+            f.options[:title][:text] = "TOP 20 Tranzakció"
+            f.series(:data => data)
+          end
+          puts @h.inspect
+        end
+      end
       format.xml   { render( :xml  => @this ) and return }
       format.json  { render( :json => @this ) and return }
     end
