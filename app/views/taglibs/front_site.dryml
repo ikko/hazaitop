@@ -273,7 +273,8 @@
     </header:>
     <body: param>
       <a target="_blank"><view:summary/></a>
-      <i><a target="_blank"><%= I18n.l( this.created_at, :format =>"%B %d, %Y %H:%M") %></a></i>
+      <i><a target="_blank"><%= I18n.l( this.issued_at, :format =>"%B %d, %Y %H:%M") %></a></i> -
+      forrás: <a target="_blank"><view:information_source/></a>, <a href="&this.original_internet_address" target="_blank"><view:original_source/></a>
     </body:>
   </card>
 </def>
@@ -849,12 +850,9 @@
 <def tag="collection-article">
   <collection>
     <card:>
-      <body:>
-        <a target="_blank"><view:summary/></a>
-        <span class="article-created">Dátum: <%= I18n.l( this.created_at, :format =>"%B %d, %Y %H:%M") %></span>
-        <% if this.information_source %> | <a><view:information-source/></a><% end %>
+      <append-body:>
         <a target="_blank" with="&this" action="edit" class="button" if="&this.editable_by?(current_user)">Szerkeszt</a> <delete-button/>
-      </body:>
+      </append-body:>
     </card:>
     <empty-message:>Nincs találat</empty-message:>
     <after-empty-message:>

@@ -32,10 +32,13 @@
       <transition-buttons class="right"/>
       <field-list fields="processed_at, user"/>
     </if>
-    <field-list fields="summary, information_source, internet_address">
+    <field-list fields="summary, information_source, internet_address, original_source, original_internet_address">
       <internet-address-view:>
         <a href="&this" target="_blank"><view/></a>
       </internet-address-view:>
+      <original-internet-address-view:>
+        <a href="&this" target="_blank"><view/></a>
+      </original-internet-address-view:>
     </field-list>
 
     <div class="details_header">Kapcsolódó profilok:</div>
