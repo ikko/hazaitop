@@ -272,7 +272,7 @@
       <h4 param="heading"><a target="_blank"><name/></a></h4>
     </header:>
     <body: param>
-      <a target="_blank"><view:summary/></a>
+      <a target="_blank"><view:summary format="%Y. %b %d."/></a>
       <i><view:issued_at/></i> -
       forrás: <a target="_blank"><view:information_source.name/></a>, <a href="&this.original_internet_address" target="_blank"><view:original_source/></a><br/>
     </body:>
