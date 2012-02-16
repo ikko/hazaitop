@@ -730,7 +730,7 @@ namespace :fetch do
       articles.css(".news_list_1").each do |article|
         if article.search("input[@name='halora']").first.attributes['value'].value == "igen"
           wlink = article.css("h3 a")[0].attributes['href'].value.split('?')[0] || ""
-          issue_date = article.css(".extra a")[1].text.gsub('május', 'may').gsub('szept','sept').gsub('októ','octo').to_textual_id.to_date
+          issue_date = article.css(".extra a")[1].text.gsub('május', 'may').gsub('sz','s').gsub('k','c').gsub('ó','o').to_textual_id.to_date
           puts internet_address = "http://www.k-monitor.hu/" + wlink
           a = Article.find_or_create_by_internet_address(internet_address) do |r|
             r.summary = article.css(".n_teaser")[0].children[0].text.strip

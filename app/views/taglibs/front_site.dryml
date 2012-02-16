@@ -273,8 +273,8 @@
     </header:>
     <body: param>
       <a target="_blank"><view:summary/></a>
-      <i><a target="_blank"><%= I18n.l( this.issued_at, :format =>"%B %d, %Y %H:%M") %></a></i> -
-      forrás: <a target="_blank"><view:information_source/></a>, <a href="&this.original_internet_address" target="_blank"><view:original_source/></a>
+      <i><view:issued_at/></i> -
+      forrás: <a target="_blank"><view:information_source.name/></a>, <a href="&this.original_internet_address" target="_blank"><view:original_source/></a><br/>
     </body:>
   </card>
 </def>
