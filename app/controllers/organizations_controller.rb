@@ -128,7 +128,7 @@ class OrganizationsController < ApplicationController
     @this               = find_instance
     data = []
     @this.interorg_relations.value_is_not(0).limit(20).each do |rel|
-      data << { :name =>  (rel.related_organization.name.scan(/./)[0..48].join('')+'...'), :y =>rel.value }
+      data << { :name =>  (rel.related_organization.name.scan(/./)[0..42].join('')+'...'), :y =>rel.value }
     end
     respond_to do |format| 
       format.html  { 

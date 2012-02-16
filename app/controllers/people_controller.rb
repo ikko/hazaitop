@@ -31,6 +31,13 @@ class PeopleController < ApplicationController
     end
   end
 
+  index_action :closer
+  show_action :closest do
+    @a = Person.find(params[:interpersonal_relation][:person].split('(ID:')[1].chop)
+    @b = Person.find(params[:interpersonal_relation][:related_person].split('(ID:')[1].chop)
+    @this = @a.path_to(@b) if @a and @b
+  end
+
   def update
     render :text => "access denied" unless current_user.administrator? or current_user.editor? or current_user.supervisor? # mivel nincs hobo permi check ilyenkor...
     add_new_entities    

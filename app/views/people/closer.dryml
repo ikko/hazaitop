@@ -1,0 +1,18 @@
+<page>
+  <content:>
+    <br/>
+    <br/>
+    <form with="&InterpersonalRelation.new" action="closest">
+
+      <h3>Adja meg két személy nevét:</h3>
+      <hjq-autocomplete:person         source="&query_people_path" delay="220" minLength="3" />
+      <hjq-autocomplete:related_person source="&query_people_path" delay="220" minLength="3" />
+
+      <submit label="keres"/>
+
+    </form>
+    <br/>
+    <br/>
+
+  </content:>
+</page>

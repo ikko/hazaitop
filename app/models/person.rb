@@ -55,6 +55,7 @@ class Person < ActiveRecord::Base
 
   # ez az összes kapcsolat, azok is, amit a rendszer generált
   has_many :interpersonal_relations, :accessible => true
+  has_many :people, :through => :interpersonal_relations, :source => :related_person
 
   # ezek csak a kézzel bevitt kapcsolatok
   has_many :personal_relations, :conditions => [ "internal = ?", false], :class_name => "InterpersonalRelation", :accessible => true
@@ -109,6 +110,33 @@ class Person < ActiveRecord::Base
     this.delete
     this.inspect
 
+  end
+
+  def find_path a, target, level=5, res=[self]
+    return if level == 0
+    a.people.each do |p|
+      if p == target
+        @this << res + [p]
+        return
+      end
+      if !res.include?(p)
+        find_path a, target, level-1, ( res + [p] )
+      end
+    end
+  end
+
+  def path_to b
+    results = ""
+    @this = []
+    find_path self, b
+    @this.sort! { |a,b| a.size <=> b.size }
+    @this.each do |w| results << w.*.linked_name.join('  >  ') + "<br/><br/>" end
+    results
+  end
+
+  def linked_name
+    "<a style='color: #6EA4B0' target='_blank' href='/people/#{id}'>#{name}</a>"
+    # css nem tom miért nem muxik
   end
 
   # --- Permissions --- #

@@ -82,10 +82,6 @@ a {
   color: white;
 }
 
-.api a, .interpersonal-relation a, {
-  color: #6EA4B0;
-}
-
 #search_box {
   border-top: 3px solid white;
   padding: 5px;
@@ -1082,3 +1078,8 @@ textarea {
 .card a {
   color: #6EA4B0
 }
+
+.api a, .interpersonal-relation a, {
+  color: #6EA4B0 !important;
+}
+
