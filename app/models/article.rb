@@ -11,6 +11,8 @@ class Article < ActiveRecord::Base
     processed_at :date
     issued_at    :date
     search_result_count           :integer, :default => 0
+    original_internet_address :string
+    original_source :string
     timestamps
   end
 
@@ -51,6 +53,7 @@ class Article < ActiveRecord::Base
        domain_name = d.domain + '.' + d.public_suffix
        i = InformationSource.find_or_create_by_domain_name( domain_name ) { |r| r.name = r.domain_name = domain_name; r.weight = 1; r.web = 'http://' + d.host }
        article.information_source_id = i.id
+       article.original_internet_address = article.internet_address if article.original_internet_address.blank?
     end
   end
 

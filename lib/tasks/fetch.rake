@@ -715,7 +715,7 @@ namespace :fetch do
   end
           
    
-  desc 'fetch article'
+  desc 'fetch articles from k-monitor.hu'
   task :articles => :environment do
     info_id = InformationSource.find_by_name('k-monitor.hu').id
     f_p2p = P2pRelationType.find_by_name('sajtó')
@@ -724,7 +724,7 @@ namespace :fetch do
     f_p2o = P2oRelationType.find_by_name('sajtó')
     articles = Nokogiri::HTML(open('http://www.k-monitor.hu/adatbazis/kereses'))
 #    (1..articles.css("span.result")[0].children[0].text.to_i / 10 + 1).each do |i|
-    (1..10).each do |i|
+    (1..300).each do |i|
       puts "fetching page #{i} on k-monitor.hu at " + Time.now.to_s
       articles = Nokogiri::HTML(open("http://www.k-monitor.hu/kereses?page=#{i}"))
       articles.css(".news_list_1").each do |article|
@@ -739,7 +739,9 @@ namespace :fetch do
             r.issued_at = issue_date
             r.internet_address = internet_address
           end
-          puts a.issued_at = issue_date
+          a.original_internet_address = article.search("a").last.attributes.first.last.text
+          a.original_source = Domainatrix.parse( a.original_internet_address ).domain
+          a.issued_at = issue_date
           a.save
           tags = []
           article.css(".links a, .links_starred a").each do |link|
