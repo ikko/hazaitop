@@ -56,23 +56,22 @@ class Organization < ActiveRecord::Base
 
   def self.merge into_this, this
 
-    into_this.buyer_activities << this.buyer_activities
-    into_this.buyer_types << this.buyer_types
-    into_this.activities << this.activities
-    into_this.interorg_relations << this.interorg_relations
-    into_this.person_to_org_relations << this.person_to_org_relations
-    into_this.org_histories << this.org_histories
-    into_this.save
+    this.buyer_activity_rels.each     { |f| f.organization_id = into_this.id; f.save(false) }
+    this.buyer_type_rels.each         { |f| f.organization_id = into_this.id; f.save(false) }
+    this.activity_assocs.each         { |f| f.organization_id = into_this.id; f.save(false) }
+    this.interorg_relations.each      { |f| f.organization_id = into_this.id; f.save(false) }
+    this.person_to_org_relations.each { |f| f.organization_id = into_this.id; f.save(false) }
+    this.org_histories.each           { |f| f.organization_id = into_this.id; f.save(false) }
+    into_this.save(false)
 
-    this.buyer_activities.delete_all
-    this.buyer_types.delete_all
-    this.activities.delete_all
-    this.interorg_relations.delete_all
-    this.person_to_org_relations.delete_all
-    this.org_histories.delete_all
-
-    this.delete
-    this.inspect
+#   this.buyer_activity_rels.destroy_all
+#   this.buyer_type_rels.destroy_all
+#   this.activity_assocs_destroy_all
+#   this.interorg_relations.destroy_all
+#   this.person_to_org_relations.destroy_all
+#   this.org_histories.destroy_all
+    this.reload
+#    this.destroy
 
   end
 

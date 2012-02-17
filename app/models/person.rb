@@ -94,21 +94,21 @@ class Person < ActiveRecord::Base
     end
   end
 
+
   def self.merge into_this, this
 
-    into_this.person_grades << this.person_grades   
-    into_this.person_to_org_relations << this.person_to_org_relations
-    into_this.interpersonal_relations << this.interpersonal_relations
-    into_this.person_histories << this.person_histories
-    into_this.save
+    this.person_grade_assocs.each      { |f| f.person_id = into_this.id; f.save(false) }
+    this.interpersonal_relations.each  { |f| f.person_id = into_this.id; f.save(false) }
+    this.person_to_org_relations.each  { |f| f.person_id = into_this.id; f.save(false) }
+    this.person_histories.each         { |f| f.person_id = into_this.id; f.save(false) }
+    into_this.save(false)
 
-    this.person_grades.delete_all
-    this.person_to_org_relations.delete_all
-    this.interpersonal_relations.delete_all
-    this.person_histories.delete_all
-
-    this.delete
-    this.inspect
+#   this.person_grade_assocs.destroy_all
+#   this.person_to_org_relations.destroy_all
+#   this.interpersonal_relations.destroy_all
+#   this.person_histories.destroy_all
+    this.reload
+#    this.destroy
 
   end
 

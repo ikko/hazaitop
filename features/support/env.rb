@@ -32,7 +32,7 @@ Spork.prefork do
   # a http szükséges vmiért a chrome-nak
   Capybara.app_host = "http://www.birosag.hu"
   Capybara.default_driver = :selenium
-  Capybara.default_wait_time = 50
+  Capybara.default_wait_time = 90
   Capybara.ignore_hidden_elements = true
   Hobo::Dryml.precompile_taglibs
   Capybara.server_boot_timeout = 90

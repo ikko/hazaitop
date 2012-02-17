@@ -36,7 +36,7 @@ class OrganizationsController < ApplicationController
     end
   rescue => e
     logger.info e.backtrace.join("\n")
-    logger.info "*********************************************** update org error happened ********************************"
+    logger.info "**************** update org error happened ***********************"
     logger.info e.inspect
   end
 

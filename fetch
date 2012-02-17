@@ -2,11 +2,12 @@
 cd `dirname $0`
 
 echo "---------------------------------------------------------------"
-echo "fetch start at" $(date)
+echo "fetch and update started at" $(date)
 
-rake fetch:people
-rake fetch:organizations
-rake fetch:articles
+bundle exec rake fetch:people
+bundle exec rake fetch:organizations
+bundle exec rake fetch:articles
+bundle exec rake update:counter
 
-echo "fetch finished at" $(date)
+echo "fetch and update finished at" $(date)
 cd -
