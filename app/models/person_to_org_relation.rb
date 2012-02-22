@@ -85,14 +85,10 @@ class PersonToOrgRelation < ActiveRecord::Base
 
   after_save do |r|
     r.match
-    puts "person_to_org_relation after_save hook running..."
-    puts r.inspect
-    puts "///////////////////////////////////////////////"
     true
   end
 
   after_destroy do |r|
-    logger.info "jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj"
     r.organization.try.decrement! :relations_counter
     r.person.try.decrement! :relations_counter
     true
@@ -101,11 +97,8 @@ class PersonToOrgRelation < ActiveRecord::Base
   def match
     self.interpersonal_relations.try.delete_all
     self.other_interpersonal_relations.try.delete_all
-    puts        "----  lofa 1 ---- #{self.id}"
     if person and organization # ha nem törlés történt
-    puts        "----  lofa 2 ---- #{self.id}"
       if !(InterpersonalRelation.find_by_person_to_org_relation_id(id) or InterpersonalRelation.find_by_other_person_to_org_relation_id(id))
-    puts        "----  lofa 3 ---- #{self.id}"
        # meg kell vizsgálnunk hogy van-e már, különben kétszer megy bele (a hobo?) az after_save-be TODO
         if start_time.nil?
           potential_relations = nil # TODO azért ez itt nem biztos---
@@ -119,13 +112,9 @@ class PersonToOrgRelation < ActiveRecord::Base
           end
         end
         press_id = P2oRelationType.find_by_name("sajtó").id
-    puts        "----  lofa 4 ---- #{self.id}"
         if potential_relations and p2o_relation_type_id != press_id
-    puts        "----  lofa 5 ---- #{self.id}"
           potential_relations.each do |pot|
-    puts        "----  lofa 6 ---- #{self.id}"
             unless pot.p2o_relation_type_id == press_id  # sajtós fetcheket nem birizgáljuk
-    puts        "----  lofa 7 ---- #{self.id}"
               if person_id != pot.person_id # saját kapcsolatokat nem veszünk fel
                 weight = (information_source.weight + pot.information_source.weight) / 2.0
                 # nézzük meg, hogy a kalkulátorban rögzítve van-e a két kapcsolattipus (irányított!)
@@ -175,11 +164,8 @@ class PersonToOrgRelation < ActiveRecord::Base
                                                           :visual => p2o_relation_type.visual,
                                                           :internal => true)
                 interpersonal.articles = articles
-    puts        "----  lofa 9 ---- #{self.id}"
                 interpersonal.litigations = self.litigations
-    puts        "----  lofa 10 ---- #{self.id}"
-    puts        interpersonal.save
-    puts        "----  lofa 11 ---- #{self.id}"
+                interpersonal.save
               end
             end
           end
