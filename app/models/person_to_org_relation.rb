@@ -36,7 +36,7 @@ class PersonToOrgRelation < ActiveRecord::Base
   belongs_to :person, :counter_cache => true
 
   has_many :interpersonal_relations, :dependent => :destroy
-  has_many :other_interpersonal_relations, :class_name => "InterpersonalRelation", :dependent => :destroy
+  has_many :other_interpersonal_relations, :class_name => "InterpersonalRelation", :dependent => :destroy, :foreign_key => "other_interpersonal_relation_id"
 
   belongs_to :information_source
 
