@@ -179,7 +179,7 @@
     <body: param>
       <strong><view:caller.name/></strong><br/>
       <strong><view:applicant.name/></strong><br/>
-      <a href="&this.url" target="_blank">forrás</a> | <a target="_blank"><view:op_name if="&this.op_name"/><view:found if="&this.found"/> | <view:name/></a>
+      <a href="&this.url" target="_blank">forrás</a> | <a target="_blank"><view:op_name if="&this.op_name"/><view:found if="&this.found"/> | <view:name/></a><br/>
     </body:>
   </card>
 </def>
