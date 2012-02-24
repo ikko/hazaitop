@@ -41,42 +41,44 @@ namespace :fetch2 do
         puts kishtml = false
       end
       puts telepules = doc.css('h1')[0].text.split(' települési választás eredményei')[0]
-      puts polg_name = doc.css('table p')[1].children.children.first.children.first.text
-      puts polg_part = doc.css('table p')[1].children.children.first.children.last.text
-      part = Organization.find_or_create_by_name(polg_part) do |r|
-        r.name = polg_part
-        r.information_source_id = info.id
-        r.user_id = user.id
-      end if polg_part != 'FÜGGETLEN'
-      t = Organization.find_or_create_by_name(telepules + " Önkormányzata") do |r|
-        r.name = telepules + " Önkormányzata"
-        r.city = telepules
-        r.information_source_id = info.id
-        r.user_id = user.id
+      if doc.css('table p')[1].children.children.first.children.first
+        puts polg_name = doc.css('table p')[1].children.children.first.children.first.text
+        puts polg_part = doc.css('table p')[1].children.children.first.children.last.text
+        part = Organization.find_or_create_by_name(polg_part) do |r|
+          r.name = polg_part
+          r.information_source_id = info.id
+          r.user_id = user.id
+        end if polg_part != 'FÜGGETLEN'
+        t = Organization.find_or_create_by_name(telepules + " Önkormányzata") do |r|
+          r.name = telepules + " Önkormányzata"
+          r.city = telepules
+          r.information_source_id = info.id
+          r.user_id = user.id
+        end
+        p = Person.create!( :name => polg_name,
+                           :information_source_id => info.id,
+                           :user_id => user.id
+                          )
+
+
+
+                          PersonToOrgRelation.create!( :person_id => p.id,
+                                                       :organization_id => part.id,
+                                                       :p2o_relation_type_id => part_rel.id,
+                                                       :information_source_id => info.id,
+                                                       :parsed => true,
+                                                       :start_time => "2010.10.03".to_date,
+                                                       :end_time =>   "2014.10.03".to_date
+                                                     ) if polg_part != 'FÜGGETLEN'
+                          PersonToOrgRelation.create!( :person_id => p.id,
+                                                       :organization_id => t.id,
+                                                       :p2o_relation_type_id => polg_rel.id,
+                                                       :information_source_id => info.id,
+                                                       :parsed => true,
+                                                       :start_time => "2010.10.03".to_date,
+                                                       :end_time =>   "2014.10.03".to_date
+                                                                                )
       end
-      p = Person.create!( :name => polg_name,
-                          :information_source_id => info.id,
-                          :user_id => user.id
-                        )
-
-
-
-      PersonToOrgRelation.create!( :person_id => p.id,
-                                   :organization_id => part.id,
-                                   :p2o_relation_type_id => part_rel.id,
-                                   :information_source_id => info.id,
-                                   :parsed => true,
-                                   :start_time => "2010.10.03".to_date,
-                                   :end_time =>   "2014.10.03".to_date
-                                 ) if polg_part != 'FÜGGETLEN'
-      PersonToOrgRelation.create!( :person_id => p.id,
-                                   :organization_id => t.id,
-                                   :p2o_relation_type_id => polg_rel.id,
-                                   :information_source_id => info.id,
-                                   :parsed => true,
-                                   :start_time => "2010.10.03".to_date,
-                                   :end_time =>   "2014.10.03".to_date
-                                 )
       n.times do |i|
         if kishtml
           puts kepv_name = doc.css('td')[8+i*3].text
