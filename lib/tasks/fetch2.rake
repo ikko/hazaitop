@@ -27,12 +27,19 @@ namespace :fetch2 do
     part_rel = P2oRelationType.find_by_name('párttag')
     Dir.foreach( 'db/onkorm/files' ) do |file|
       next if file == '.' or file == '..'
+      next if file[-4..-1] == '.log'
       puts "=============================="
       puts file
       f = File.open( "db/onkorm/files/#{file}", 'r' )
       next if File.exists?("db/onkorm/files/#{file}.log")
       doc = Nokogiri::HTML(f)
-      puts n = doc.css('td')[5].children.children.children[7].text.to_i
+      if doc.css('td')[5].children.children.children[7]
+        puts n = doc.css('td')[5].children.children.children[7].text.to_i
+        puts kishtml = true
+      else
+        puts n = doc.css('td')[5].children.children.children[1].text.scan(/\d+/).first.to_i
+        puts kishtml = false
+      end
       puts telepules = doc.css('h1')[0].text.split(' települési választás eredményei')[0]
       puts polg_name = doc.css('table p')[1].children.children.first.children.first.text
       puts polg_part = doc.css('table p')[1].children.children.first.children.last.text
@@ -71,8 +78,13 @@ namespace :fetch2 do
                                    :end_time =>   "2014.10.03".to_date
                                  )
       n.times do |i|
-        puts kepv_name = doc.css('td')[8+i*3].text
-        puts kepv_part = doc.css('td')[8+i*3+1].text.strip
+        if kishtml
+          puts kepv_name = doc.css('td')[8+i*3].text
+          puts kepv_part = doc.css('td')[8+i*3+1].text.strip
+        else
+          puts kepv_name = doc.css('table')[3].css('tr')[i+1].css('td')[0].text
+          puts kepv_part = doc.css('table')[3].css('tr')[i+1].css('td')[1].text
+        end
         part = Organization.find_or_create_by_name(kepv_part) do |r|
           r.name = kepv_part
           r.information_source_id = info.id
@@ -102,7 +114,6 @@ namespace :fetch2 do
       g = File.open("db/onkorm/files/#{file}.log", 'w' )
       g.puts(Time.now.to_s)
       g.close
-      break
     end
   end
 
