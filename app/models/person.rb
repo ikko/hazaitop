@@ -5,7 +5,7 @@ class Person < ActiveRecord::Base
 
   fields do
     first_name   :string #, :required
-    last_name    :string, :required
+    last_name    :string #, :required
     name         :string
     street       :string
     city         :string
@@ -29,11 +29,19 @@ class Person < ActiveRecord::Base
   default_scope  :order => 'last_name, first_name' 
 
   before_save do |r|
-    r.name = r.last_name.to_s.strip + ' ' + r.first_name.to_s.strip
-    if r.born_at and r.born_at.year == Time.now.year
-      r.born_at = nil
-    elsif r.born_at
-      r.name << r.born_at.to_s
+    if r.last_name
+      r.name = r.last_name.to_s.strip + ' ' + r.first_name.to_s.strip
+      if r.born_at and r.born_at.year == Time.now.year
+        r.born_at = nil
+      elsif r.born_at
+        r.name << r.born_at.to_s
+      end
+    else
+      if r.name
+        names = r.name.split(' ')
+        r.last_name = names[0]
+        r.first_name = names[1..-1].join(' ') if names[1]
+      end
     end
     r.relations_counter = r.interpersonal_relations_count + r.person_to_org_relations_count
     r.relations_bit = true if r.relations_counter > 0

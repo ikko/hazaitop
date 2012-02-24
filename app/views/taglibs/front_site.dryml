@@ -921,7 +921,8 @@
     </end-time-view:>
     <information-source-view:>
       <% @artcount = this_parent.articles.count %>
-      <a target="_blank" with="&this_parent"> <view:information_source.name/> </a> <a target="_blank" with="&this_parent" if="&@artcount != 0"> (<%= @artcount -%>)</a>
+      <a target="_blank" with="&this_parent" if="&@artcount != 0"> <view:this.name/> (<%= @artcount -%>)</a>
+      <else><view/></else>
     </information-source-view:>
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'person_to_org_pagination', :id => @this.id}"/>
   </table-plus>
@@ -942,7 +943,8 @@
     </article-relations-view:>
     <information-source-view:>
       <% @artcount = this_parent.articles.count %>
-      <a target="_blank" with="&this_parent"> <view:information_source.name/> </a> <a target="_blank" with="&this_parent" if="&@artcount != 0"> (<%= @artcount -%>)</a>
+      <a target="_blank" with="&this_parent" if="&@artcount != 0"> <view:this.name/> (<%= @artcount -%>)</a>
+      <else><view/></else>
     </information-source-view:>
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'interorg_pagination', :id => @this.id}"/>
   </table-plus>
@@ -968,7 +970,8 @@
     </article-relations-view:> 
     <information-source-view:>
       <% @artcount = this_parent.articles.count %>
-      <a target="_blank" with="&this_parent"> <view:information_source.name/> </a> <a target="_blank" with="&this_parent" if="&@artcount != 0"> (<%= @artcount -%>)</a>
+      <a target="_blank" with="&this_parent" if="&@artcount != 0"> <view:this.name/> (<%= @artcount -%>)</a>
+      <else><view/></else>
     </information-source-view:>
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'interpersonal_pagination', :id => @this.id}"/>
   </table-plus>
@@ -990,7 +993,8 @@
     </end-time-view:>
     <information-source-view:>
       <% @artcount = this_parent.articles.count %>
-      <a target="_blank" with="&this_parent" if="&@artcount != 0"> <view:information_source.name/> (<%= @artcount -%>)</a>
+      <a target="_blank" with="&this_parent" if="&@artcount != 0"> <view:this.name/> (<%= @artcount -%>)</a>
+      <else><view/></else>
     </information-source-view:>
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'person_to_org_pagination', :id => @this.id}"/>
   </table-plus>
