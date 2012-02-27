@@ -1,14 +1,30 @@
 # -*- encoding : utf-8 -*-
 namespace :complex do
 
+  @date = "20120201" # Time.now.to_date.to_s.scan(/[0-9]/).join
+  @dirname  = "db/complex/zip"
+
+  desc 'get complex company data by ftp'
+  task :ftp => :environment do
+    filename = "#{@dirname}/#{@date}.zip"
+    system "mkdir #{@dirname}" unless File.directory?(@dirname ) 
+   if !File.exists?( filename )
+      system "wget -O #{ filename} -a log/complex_ftp.log --ftp-user=kwiw --ftp-password=andW1kL ftp://ftp.complex.hu/FROM_COMPLEX/kwiw_#{@date}-??????.zip"
+      system "mkdir #{@dirname}/#{@date}"
+      system "cd #{@dirname} && unzip #{@date}.zip -d #{@date} && cd - "
+      Rake::Task["complex:slice"].execute
+      Rake::Task["complex:import"].execute
+    end
+  end
+
   desc 'split complex xml file to ceg xmls'
   task :slice => :environment do
-    f = File.open('db/complex/data.xml', 'r')
+    f = File.open( "#{@dirname}/#{@date}/kwiw_#{@date}.xml", 'r')
     encoding = f.gets.strip
     if f.gets.strip == "<export>"
       f.each do |l|
         if l[0..7] == "<ceg id="
-          puts @o = File.open("db/complex/orgs/#{l.strip.scan(/\d+/).first.to_i}.xml", "w")
+          @o = File.open("#{@dirname}/#{@date}/#{l.strip.scan(/\d+/).first.to_i}.xml", "w")
         end
         if l[0..7] == "</ceg>"
           @o.close
@@ -341,13 +357,13 @@ namespace :complex do
     no_of_not_found = 0
     n = 1
     xa = 0; xb = 0; xc = 0;
-    dirname = 'public/orgs/'
-    logname = "db/complex/import-#{Time.now.to_s(:db).gsub(' ','-').gsub(':','-').gsub('/','-')}.log"
+    dirname = "#{@dirname}/#{@date}/"
+    logname = "log/complex-import-#{Time.now.to_s(:db).gsub(' ','-').gsub(':','-').gsub('/','-')}.log"
     logfile = File.open(logname, 'w' )
     forwarding = true
     puts "counting..."
     Dir.foreach( dirname ) do |file|
-      next if file == '.' or file == '..'
+      next if file == '.' or file == '..' or file[0..4] == 'kwiw_'
       logfile.puts 'forwarding' if forwarding
       if forwarding and file == '909009694.xml'
         forwarding = false     
