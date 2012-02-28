@@ -10,6 +10,7 @@ class UserMailer < ActionMailer::Base
     @from       = "no-reply@#{host}"
     @sent_on    = Time.now
     @headers    = {}
+    logger.info key
   end
   
   def invite(user, key)
@@ -23,6 +24,7 @@ class UserMailer < ActionMailer::Base
     @from       = "no-reply@#{host}"
     @sent_on    = Time.now
     @headers    = {}
+    logger.info key
   end
 
 end
