@@ -64,11 +64,11 @@ end
 ActionMailer::Base.delivery_method = :smtp
 ActionMailer::Base.smtp_settings = {
 
-   :address => "mail.topspot.hu",
-   :port => 25,
-   :domain => "mail.topspot.hu",
+   :address => "smtp.google.com",
+   :port => 587,
+   :domain => "ahalo.hu",
    :authentication => :plain,
-   :user_name => "info",
-   :password => "kalapacsvetes9",
+   :user_name => "kmonitorahalo@gmail.com",
+   :password => "",
 }
 
