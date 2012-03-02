@@ -99,7 +99,7 @@ class PeopleController < ApplicationController
   end
 
   def index
-    @this = Person.relations_counter_is_not(0).order_by(:name)
+    @this = Person.relations_counter_is_not(0).order_by(:order_name)
     respond_to do |format| 
       format.html  { hobo_index( @this, :per_page => 20, :include => :information_source ) }
       format.xml   { render( :xml  => @this ) and return }

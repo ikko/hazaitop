@@ -909,7 +909,11 @@
   <table-plus fields="person, o2p_relation_type, start_time, end_time, information_source" without-search-form>
     <controls:/>
     <person-view:><a with="&this" target="_blank"/></person-view:>
-    <o2p-relation-type-view:><a with="&this" target="_blank"/></o2p-relation-type-view:>
+    <o2p-relation-type-view:>
+      <a with="&this" target="_blank">
+        <view/><span if="&this_parent.role">, <view with="&this_parent.role"/></span>
+      </a>
+    </o2p-relation-type-view:>
     <article-relations-view:>
       <% this.each do |r| %>
         <a href="#{article_path(r.article_id)}"><view with="&r.article.name[0..60].strip + '...'"/></a><br/>
@@ -981,7 +985,11 @@
   <table-plus fields="organization, p2o_relation_type, start_time, end_time, information_source" without-search-form>
     <controls:/>
     <organization-view:><a with="&this" target="_blank"/></organization-view:>
-    <p2o-relation-type-view:><a with="&this" target="_blank"/></p2o-relation-type-view:>
+    <p2o-relation-type-view:>
+      <a with="&this" target="_blank">
+        <view/><span if="&this_parent.role">, <view with="&this_parent.role"/></span>
+      </a>
+    </p2o-relation-type-view:>
     <article-relations-view:>
       <% this.each do |r| %>
         <a href="#{article_path(r.article_id)}"><view with="&r.article.name[0..60].strip + '...'"/></a><br/>

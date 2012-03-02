@@ -25,7 +25,7 @@
     <div id="people_content">
       <table-plus-person fields="this, relations_counter, selected_organization,  information_source" with="&@people" without-table-footer>
         <order-list:>
-          <a href="/people/list?sort=-name" class="left active">ABC szerint</a>
+          <a href="/people/list?sort=-order_name" class="left active">ABC szerint</a>
           <div class="separator left">|</div>
           <a href="/people/list?sort=-updated_at" class="left">Beviteli sorrendben</a>
         </order-list:>
