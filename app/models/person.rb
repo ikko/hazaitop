@@ -167,7 +167,7 @@ class Person < ActiveRecord::Base
         if name.include?( w )
           s = name.split( w )
           self.name = s[0]
-          self.sname = s[1] if s[1] and s[1].size > s[0].size
+          self.name = s[1] if s[1] and s[1].size > s[0].size
           self.last_name = nil
           normalize_name
           PersonToOrgRelation.information_source_id_is(birosag.id).person_id_is(id).each do |rel|
