@@ -145,7 +145,6 @@ class Person < ActiveRecord::Base
   end
 
   def normalize_name
-    puts "normalize name"
     if last_name
       self.name = last_name.to_s.strip + ' ' + first_name.to_s.strip
       if born_at and born_at.year == Time.now.year
@@ -161,18 +160,18 @@ class Person < ActiveRecord::Base
   end
 
   def clean_name
-    puts "clean_name"
     birosag = InformationSource.find_by_name("birosag.hu")
     if information_source_id == birosag.id
       exclude = ["( dr.Szunyogh Valériával együtt)", "( együttesen )", "( elnök )", "( önállóan )", "(a kuratóriumi elnökkel együttesen)", "(alkalmazott)", "(együttesen)", "(elnök) önállóan", "(ketten együtt)", "(önálló)", "/ együttesen", "/ együttesen", "/ eln.tag", "/ Elnök kettö együt", "/ elnök önállóan", "/ elnökhelyettes", "/ ketten együtt", "/ kettő együtt", "/ önállóan", "/ pénztáros", "/ titkár", "/együtt", "/együttesen/ *! **!", "/Elnökh. kettö együtt", "/kettö e", "/önállóan", "/önállóan", "a kuratórium elnöke", "a kuratórium titkára", "alelnök", "alelnök", "alelnök (együttesen)", "alelnök (elején is)", "alelnök elnökkel együtt", "által képviselt tulajdonközösség", "az Ügyvezető Testület elnöke", "az Ügyvezető Testület tagja", "döntőbizottsági tag", "döntőbizottsági tag", "együtt", "együttesen", "eln./önáll.", "elnök", "elnök - igazgató", "elnök akadály esetén", "elnök önálló", "elnök önállóan", "elnökh.", "elnökhelyettes", "elnökkel együtt", "elnökségi tag", "értékesítési és marketing igazgató", "és egy társa", "és társai", "és társai", "forgalmi üzemmérnök - üzemigazgató helyettes", "főtitkár", "gazdasági főmunkatárs", "gazdasági vezérigazgató-helyettes", "igazgatósági", "igazgatósági tag", "IT elnök", "IT tag", "It.tag/másik tagga", "képviseleti joga a 16.Pk.61.042/2003/13. sz. végzés alapján szünetel", "ketten együtt", "kettő együtt", "közös", "közös képviselő", "közös képviselő és 4 társa", "közös törzsbetét képviselő", "kuratóriumi elnök", "kuratóriumi tag", "kuratóriumi titkár", "más munkavállaló", "munkavállaló", "önálló", "önállóan", "szállodaigazgató", "szervezési elnökhelyettes", "tag+másik 2 tag", "társelnök", "titkár", "ügyintéőz társelnök", "ügyvezető", "ügyvezető elnök", "üzletrész képv."]
       exclude.each do |w|
         if name.include?( w )
-          self.name = name.split( w )[0].strip
+          s = name.split( w )
+          self.name = s[0]
+          self.sname = s[1] if s[1] and s[1].size > s[0].size
           self.last_name = nil
           normalize_name
           PersonToOrgRelation.information_source_id_is(birosag.id).person_id_is(id).each do |rel|
             rel.role = w
-            puts "rel save"
             rel.save
           end  
         end
