@@ -1064,7 +1064,7 @@
         })(jQuery)
       </script>
       <javascript name="highcharts"/>
-      <%= high_chart("my_id", @h) if !@h.data.first[:data].empty? %>
+      <%= high_chart("my_id", @h) if @h.data and !@h.data.first[:data].empty? %>
       <div class="contents">
         <div class="tabs">
           <div class="active tab"><a href="#people_content">SZEMÉLYEK</a></div><div class="separator"></div>
