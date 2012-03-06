@@ -40,8 +40,8 @@ class Person < ActiveRecord::Base
         end
       end
     end
-    Person.update_counters r.id, :interpersonal_relations_count => -r.interpersonal_relations_count + (isize = r.interpersonal_relations.size)
-    Person.update_counters r.id, :person_to_org_relations_count => -r.person_to_org_relations_count + (psize = r.person_to_org_relations.size)
+    Person.update_counters r.id, :interpersonal_relations_count => -r.interpersonal_relations_count + (isize = r.interpersonal_relations.count)
+    Person.update_counters r.id, :person_to_org_relations_count => -r.person_to_org_relations_count + (psize = r.person_to_org_relations.count)
     r.relations_counter = isize + psize
     r.relations_bit = true if r.relations_counter > 0
     if r.zip_code.blank? and r.city.blank? and r.street.blank?
@@ -163,7 +163,8 @@ class Person < ActiveRecord::Base
 
   def clean_name
     birosag = InformationSource.find_by_name("birosag.hu")
-    if information_source_id == birosag.id and name
+    if name and information_source_id == birosag.id
+      puts name.inspect
       exclude = ["( dr.Szunyogh Valériával együtt)", "( együttesen )", "( elnök )", "( önállóan )", "(a kuratóriumi elnökkel együttesen)", "(alkalmazott)", "(együttesen)", "(elnök) önállóan", "(ketten együtt)", "(önálló)", "/ együttesen", "/ együttesen", "/ eln.tag", "/ Elnök kettö együt", "/ elnök önállóan", "/ elnökhelyettes", "/ ketten együtt", "/ kettő együtt", "/ önállóan", "/ pénztáros", "/ titkár", "/együtt", "/együttesen/ *! **!", "/Elnökh. kettö együtt", "/kettö e", "/önállóan", "/önállóan", "a kuratórium elnöke", "a kuratórium titkára", "alelnök", "alelnök", "alelnök (együttesen)", "alelnök (elején is)", "alelnök elnökkel együtt", "által képviselt tulajdonközösség", "az Ügyvezető Testület elnöke", "az Ügyvezető Testület tagja", "döntőbizottsági tag", "döntőbizottsági tag", "együtt", "együttesen", "eln./önáll.", "elnök", "elnök - igazgató", "elnök akadály esetén", "elnök önálló", "elnök önállóan", "elnökh.", "elnökhelyettes", "elnökkel együtt", "elnökségi tag", "értékesítési és marketing igazgató", "és egy társa", "és társai", "és társai", "forgalmi üzemmérnök - üzemigazgató helyettes", "főtitkár", "gazdasági főmunkatárs", "gazdasági vezérigazgató-helyettes", "igazgatósági", "igazgatósági tag", "IT elnök", "IT tag", "It.tag/másik tagga", "képviseleti joga a 16.Pk.61.042/2003/13. sz. végzés alapján szünetel", "ketten együtt", "kettő együtt", "közös", "közös képviselő", "közös képviselő és 4 társa", "közös törzsbetét képviselő", "kuratóriumi elnök", "kuratóriumi tag", "kuratóriumi titkár", "más munkavállaló", "munkavállaló", "önálló", "önállóan", "szállodaigazgató", "szervezési elnökhelyettes", "tag+másik 2 tag", "társelnök", "titkár", "ügyintéőz társelnök", "ügyvezető", "ügyvezető elnök", "üzletrész képv."]
       exclude.each do |w|
         if name.include?( w )
