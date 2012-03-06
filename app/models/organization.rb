@@ -139,7 +139,7 @@ class Organization < ActiveRecord::Base
     r.company = true if r.name.downcase.include?('llalat') # vállalat
     r.company = true if r.name.downcase.include?('rsas') # társaság
     Organization.update_counters r.id, :interorg_relations_count => -r.interorg_relations_count + (isize = r.interorg_relations.size)
-    Organization.update_counters r.id, :person_to_org_relations_count => -r.preson_to_org_relations_count + (psize = r.person_to_org_relations.size)
+    Organization.update_counters r.id, :person_to_org_relations_count => -r.person_to_org_relations_count + (psize = r.person_to_org_relations.size)
     r.relations_counter = isize + psize
     r.relations_counter = r.interorg_relations_count + r.person_to_org_relations_count
     r.relations_bit = true if r.relations_counter > 0
