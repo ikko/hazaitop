@@ -15,8 +15,8 @@ namespace :update do
   desc 'update relations counter'
   task :counter => :environment do
   
-    Organization.all.each do |p| p.save end
-    Person.all.each do |p| puts "#{p.id}: #{p.save}" end
+#   Organization.all.each do |p| p.save end
+    Person.all.each do |p| if !p.order_name then puts "#{p.id}: #{p.save}" end end; nil
 
   end
 
