@@ -328,6 +328,9 @@
 
 <!-- = = = = = = = FORMS = = = = = = = -->
 
+<extend tag='input' for='date'>
+  <old-input merge start-year="&1900" end-year="&Time.now.year"/>
+</extend>
 
 <def tag="form" for="Tender">
   <form merge param="default">
