@@ -193,7 +193,7 @@
       <div if="&this.relations_bit">
         <span class="strong"><%= this.interorg_relations_count + this.person_to_org_relations_count %></span> kapcsolat 
         (<span if="&this.person_to_org_relations_count>0">
-          <view:person_to_org_relations_count class="strong"/> személyes, 
+          <view:person_to_org_relations_count class="strong"/> személyes<span if="&this.interorg_relations_count>0">,</span>
         </span>
         <span if="&this.interorg_relations_count>0">
           <view:interorg_relations_count class="strong"/> szervezeti
@@ -216,7 +216,7 @@
       <div if="&this.relations_bit">
         <span class="strong"><%= this.interpersonal_relations_count + this.person_to_org_relations_count %></span> kapcsolat 
         (<span if="&this.interpersonal_relations_count>0">
-          <view:interpersonal_relations_count class="strong"/> személyes, 
+          <view:interpersonal_relations_count class="strong"/> személyes<span if="&this.person_to_org_relations_count>0">,</span>
         </span>
         <span if="&this.person_to_org_relations_count>0">
           <view:person_to_org_relations_count class="strong"/> szervezeti
@@ -372,7 +372,11 @@
 <def tag="form" for="Article">
   <form merge param="default">
     <error-messages param/>
-    <field-list fields="name, summary, information_source, internet_address, processed_at"/>
+    <field-list fields="name, summary, information_source, internet_address, issued_at">
+      <issued-at-view:>
+        <input start-year="&Time.now.year-100" end-year="&Time.now.year"/>
+      </issued-at-view:>
+    </field-list>    
     <!--field-list unless="&@this.new_record?" fields="interpersonal_relations, interorg_relations, person_to_org_relations"> 
       <interorg-relations-view:>
         <hjq-input-many>
