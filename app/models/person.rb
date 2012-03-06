@@ -40,8 +40,8 @@ class Person < ActiveRecord::Base
         end
       end
     end
-    Person.update_counters r.id, :interpersonal_relations_count => isize = r.interpersonal_relations.size
-    Person.update_counters r.id, :person_to_org_relations_count => psize = r.person_to_org_relations.size
+    Person.update_counters r.id, :interpersonal_relations_count => -r.interpersonal_relations_count + (isize = r.interpersonal_relations.size)
+    Person.update_counters r.id, :person_to_org_relations_count => -r.person_to_org_relations_count + (psize = r.person_to_org_relations.size)
     r.relations_counter = isize + psize
     r.relations_bit = true if r.relations_counter > 0
     if r.zip_code.blank? and r.city.blank? and r.street.blank?
