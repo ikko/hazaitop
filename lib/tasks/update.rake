@@ -1,23 +1,26 @@
 # -*- encoding : utf-8 -*-
 namespace :update do
-  desc 'update counter cache'
-  task :counters => :environment do
-  
-    Organization.all.each do |p|
-      p.update_attributes :interorg_relations_count => p.interorg_relations.length, :person_to_org_relations_count => p.person_to_org_relations.length
-    end
-    Person.all.each do |p|
-      p.update_attributes :interpersonal_relations_count => p.interpersonal_relations.length, :person_to_org_relations_count => p.person_to_org_relations.length
-    end
-
-  end
 
   desc 'update relations counter'
-  task :counter => :environment do
-  
-     Organization.all.each do |p| p.save end
-     Person.all.each do |p| puts "#{p.id}: #{p.save}" end
-
+  task :counters => :environment do
+#     Organization.all.each do |p| p.save end
+#     Person.all.each do |p| puts "#{p.id}: #{p.save}" end
+    for i in 0..300
+      puts i
+      puts "a"
+      InterpersonalRelation.find(:all, :include => :person, :conditions => ["id >= #{i}001 and id < #{i+1}000"]).each do |r| 
+        if !r.person or !r.related_person then puts r.destroy end
+      end
+      puts "b"
+      InterorgRelation.find(:all, :include => :organization, :conditions => ["id >= #{i}001 and id < #{i+1}000"]).each do |r|
+        if !r.related_organization or !r.organization then puts r.destroy end
+      end
+      puts "c"
+      PersonToOrgRelation.find(:all, :include => [:person, :organization], :conditions => ["id >= #{i}001 and id < #{i+1}000"]).each do |r|
+        if !r.person or !r.organization then puts r.destroy end
+      end
+      puts "--------------------------"
+    end
   end
 
   desc 'update parsed bit cache'
