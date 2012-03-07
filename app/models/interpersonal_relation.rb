@@ -10,6 +10,7 @@ class InterpersonalRelation < ActiveRecord::Base
     start_time   :date
     end_time     :date
     no_end_time  :boolean, :default => false
+    no_start_time  :boolean, :default => false
     internal     :boolean, :default => false
     weight       :float
     visual       :boolean, :default => true
@@ -92,6 +93,7 @@ class InterpersonalRelation < ActiveRecord::Base
                                                 :start_time => r.start_time,
                                                 :end_time => r.end_time,
                                                 :no_end_time => r.no_end_time,
+                                                :no_start_time => r.no_start_time,
                                                 :visual => visual,
                                                 :mirrored => true,
                                                 :mirror => true,

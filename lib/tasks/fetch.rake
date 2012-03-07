@@ -734,21 +734,23 @@ namespace :fetch do
     f_p2o = P2oRelationType.find_by_name('sajtó')
     articles = Nokogiri::HTML(open('http://www.k-monitor.hu/adatbazis/kereses'))
 #    (1..articles.css("span.result")[0].children[0].text.to_i / 10 + 1).each do |i|
-    (1..10).each do |i|
+    (1..259).each do |i|
       puts "fetching page #{i} on k-monitor.hu at " + Time.now.to_s
       articles = Nokogiri::HTML(open("http://www.k-monitor.hu/kereses?page=#{i}"))
       articles.css(".news_list_1").each do |article|
         if article.search("input[@name='halora']").first.attributes['value'].value == "igen"
           wlink = article.css("h3 a")[0].attributes['href'].value.split('?')[0] || ""
-          issue_date = article.css(".extra a")[1].text.gsub('május', 'may').
-            gsub('sz','s').
-            gsub('k','c').
-            gsub('július','july').
-            gsub('június','june').
-            gsub('március','march').
-            gsub('április','april').
-            gsub('május','may').
-            gsub('ó','o').to_textual_id.to_date
+          issue_date = article.css(".extra a")[1].text.to_textual_id.gsub('-','.').
+            gsub("január","jan").
+            gsub("február","feb").
+            gsub("március","mar").
+            gsub("május","may").
+            gsub("június","jun").
+            gsub("július","jul").
+            gsub("augusztus","aug").
+            gsub("szeptember","sep").
+            gsub("október","oct").
+            to_date
           puts internet_address = "http://www.k-monitor.hu/" + wlink
           a = Article.find_or_create_by_internet_address(internet_address) do |r|
             r.summary = article.css(".n_teaser")[0].children[0].text.strip

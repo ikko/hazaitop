@@ -7,6 +7,7 @@ class PersonToOrgRelation < ActiveRecord::Base
     start_time :date
     end_time   :date
     no_end_time :boolean, :default => false
+    no_start_time :boolean, :default => false
     weight     :float,    :default => 1
     visual     :boolean, :default => true
     role   :string    # tisztség complexbol
@@ -99,8 +100,14 @@ class PersonToOrgRelation < ActiveRecord::Base
     if person and organization # ha nem törlés történt
       if !(InterpersonalRelation.find_by_person_to_org_relation_id(id) or InterpersonalRelation.find_by_other_person_to_org_relation_id(id))
        # meg kell vizsgálnunk hogy van-e már, különben kétszer megy bele (a hobo?) az after_save-be TODO
-        if start_time.nil?
-          potential_relations = nil # TODO azért ez itt nem biztos---
+        if no_start_time
+          if no_end_time
+            potential_relations = PersonToOrgRelation.find( :all, :conditions => [
+            "organization_id = ?", organization_id ])
+          else
+            potential_relations = PersonToOrgRelation.find( :all, :conditions => [
+            "organization_id = ? and ((no_start_time = ? and (end_time <= ? or no_end_time = ?)) or ((no_start_time = ?) and (start_time <= ?) and (end_time >= ? or no_end_time = ?))) and id != ?", organization_id, true, end_time, true, false, end_time, end_time, true, id ])
+          end
         else
           if no_end_time
             potential_relations = PersonToOrgRelation.find( :all, :conditions => [
@@ -127,11 +134,23 @@ class PersonToOrgRelation < ActiveRecord::Base
                     relation_type_id = P2pRelationType.find(:first, :conditions => {:name => "közös intézményi kapcsolat", :internal => true }).id
                   end
                 end
-                if start_time <= pot.start_time
+
+                calculated_no_start_time = false
+                if no_start_time and !pot.no_start_time
                   calculated_start_time = pot.start_time
-                else
+                elsif pot.no_start_time and !no_start_time
                   calculated_start_time = start_time
+                elsif no_start_time and pot.no_start_time
+                  calculated_start_time = nil
+                  calculated_no_start_time = true
+                else
+                  if start_time <= pot.start_time
+                    calculated_start_time = pot.start_time
+                  else
+                    calculated_start_time = start_time
+                  end
                 end
+
                 calculated_no_end_time = false
                 if no_end_time and !pot.no_end_time
                   calculated_end_time = pot.end_time
@@ -159,6 +178,7 @@ class PersonToOrgRelation < ActiveRecord::Base
                                                           :start_time => calculated_start_time,
                                                           :end_time => calculated_end_time,
                                                           :no_end_time => calculated_no_end_time,
+                                                          :no_start_time => calculated_no_start_time,
                                                           :visual => p2o_relation_type.visual,
                                                           :internal => true)
                 interpersonal.articles = articles

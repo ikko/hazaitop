@@ -462,7 +462,7 @@
       <manual-person-to-org-relations-view:>
         <hjq-input-many>
           <item:>
-            <field-list fields="organization, p2o_relation_type, article_relations, start_time, end_time, no_end_time, litigations, information_source">
+            <field-list fields="organization, p2o_relation_type, article_relations, start_time, no_start_time, end_time, no_end_time, litigations, information_source">
               <article-relations-view:>
                 <input-many>
                   <a:article default="_blank"><view:id/></a>
@@ -475,11 +475,11 @@
               <information-source-view:>
                 <select-one options="&@info_sources"/> | <a href="&new_information_source_path"  target="_blank"><ht key="custom.new">new</ht></a>
               </information-source-view:>
-              <start-time-view:>
-                <input start-year="&Time.now.year-50" end-year="&Time.now.year"/>
+              <start-time-view: class="start-time-toggler" style="display:#{this_parent.no_start_time ? ' none;' : ' block;'}">
+                <input start-year="&Time.now.year-100" end-year="&Time.now.year"/>
               </start-time-view:>
               <end-time-view: class="end-time-toggler" style="display:#{this_parent.no_end_time ? ' none;' : ' block;'}">
-                <input start-year="&Time.now.year-50" end-year="&Time.now.year+50"/>
+                <input start-year="&Time.now.year-100" end-year="&Time.now.year+100"/>
               </end-time-view:>
             </field-list>
           </item:>
@@ -523,13 +523,10 @@
       <information-source-view:>
         <select-one options="&InformationSource.not_internal"/> | <a href="&new_information_source_path"  target="_blank"><ht key="custom.new">new</ht></a>
       </information-source-view:>
-      <founded-at-view:>
-        <input start-year="&Time.now.year-100" end-year="&Time.now.year"/>
-      </founded-at-view:>
       <manual-person-to-org-relations-view:>
         <hjq-input-many>
           <item:>
-            <field-list fields="person, o2p_relation_type, article_relations, start_time, end_time, no_end_time, litigations, information_source">
+            <field-list fields="person, o2p_relation_type, article_relations, start_time, no_start_time, end_time, no_end_time, litigations, information_source">
               <article-relations-view:>
                 <input-many>
                   <a:article target="_blank"><view:id/></a>
@@ -542,11 +539,11 @@
               <information-source-view:>
                 <select-one options="&InformationSource.not_internal"/> | <a href="&new_information_source_path" target="_blank"><ht key="custom.new">new</ht></a>
               </information-source-view:>
-              <start-time-view:>
-                <input start-year="&Time.now.year-50" end-year="&Time.now.year"/>
+              <start-time-view: class="start-time-toggler" style="display:#{this_parent.no_start_time ? ' none;' : ' block;'}">
+                <input start-year="&Time.now.year-100" end-year="&Time.now.year"/>
               </start-time-view:>
               <end-time-view: class="end-time-toggler" style="display:#{this_parent.no_end_time ? ' none;' : ' block;'}">
-                <input start-year="&Time.now.year-50" end-year="&Time.now.year+50"/>
+                <input start-year="&Time.now.year-100" end-year="&Time.now.year+100"/>
               </end-time-view:>
             </field-list>
           </item:>
@@ -609,7 +606,7 @@
 <def tag="form" for="InterpersonalRelation">
   <form merge param="default">
     <error-messages param/>
-    <field-list fields="start_time, end_time, no_end_time, article_relations, information_source, litigations, p2p_relation_type">
+    <field-list fields="start_time, no_start_time, end_time, no_end_time, article_relations, information_source, litigations, p2p_relation_type">
       <article-relations-view:>
         <input-many>
           <a:article default="_blank"><view:id/></a>
