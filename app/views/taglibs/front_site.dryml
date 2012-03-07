@@ -375,7 +375,7 @@
 <def tag="form" for="Article">
   <form merge param="default">
     <error-messages param/>
-    <field-list fields="name, summary, information_source, internet_address, issued_at">
+    <field-list fields="name, summary, information_source, internet_address, issued_at, original_internet_address">
       <issued-at-view:>
         <input start-year="&Time.now.year-100" end-year="&Time.now.year"/>
       </issued-at-view:>

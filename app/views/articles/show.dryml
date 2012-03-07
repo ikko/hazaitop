@@ -32,7 +32,7 @@
       <transition-buttons class="right"/>
       <field-list fields="processed_at, user"/>
     </if>
-    <field-list fields="summary, information_source, internet_address, original_source, original_internet_address">
+    <field-list fields="issued_at, summary, information_source, internet_address, original_source, original_internet_address">
       <internet-address-view:>
         <a href="&this" target="_blank"><view/></a>
       </internet-address-view:>
