@@ -719,6 +719,9 @@ namespace :fetch do
           x = "http://#{x}" if x[0..6] != "http://"
           if a and !a.issued_at
             puts a.issued_at = issue_date
+            a.save
+          end
+          if a and !a.original_internet_address
             a.original_internet_address = x 
             a.original_source = Domainatrix.parse( x ).domain
             a.save
