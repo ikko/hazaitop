@@ -696,8 +696,8 @@ namespace :fetch do
     f_p2o = P2oRelationType.find_by_name('sajtó')
     articles = Nokogiri::HTML(open('http://www.k-monitor.hu/adatbazis/kereses'))
 #    (1..articles.css("span.result")[0].children[0].text.to_i / 10 + 1).each do |i|
-    (1..156).each do |i|
-      puts "fetching page #{i} on k-monitor.hu at " + Time.now.to_s
+    (1..300).each do |i|
+      puts "fetching dates on page #{i} on k-monitor.hu at " + Time.now.to_s
       articles = Nokogiri::HTML(open("http://www.k-monitor.hu/kereses?page=#{i}"))
       articles.css(".news_list_1").each do |article|
         if article.search("input[@name='halora']").first.attributes['value'].value == "igen"
@@ -724,7 +724,7 @@ namespace :fetch do
     f_p2o = P2oRelationType.find_by_name('sajtó')
     articles = Nokogiri::HTML(open('http://www.k-monitor.hu/adatbazis/kereses'))
 #    (1..articles.css("span.result")[0].children[0].text.to_i / 10 + 1).each do |i|
-    (1..30).each do |i|
+    (1..10).each do |i|
       puts "fetching page #{i} on k-monitor.hu at " + Time.now.to_s
       articles = Nokogiri::HTML(open("http://www.k-monitor.hu/kereses?page=#{i}"))
       articles.css(".news_list_1").each do |article|
