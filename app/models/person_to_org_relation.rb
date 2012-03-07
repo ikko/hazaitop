@@ -84,7 +84,7 @@ class PersonToOrgRelation < ActiveRecord::Base
   end
 
   after_save do |r|
-#    r.match
+    r.match
     true
   end
 
@@ -95,8 +95,8 @@ class PersonToOrgRelation < ActiveRecord::Base
   end
 #=end
   def match
-    self.interpersonal_relations.try.delete_all
-    self.other_interpersonal_relations.try.delete_all
+    self.interpersonal_relations.try.destroy_all
+    self.other_interpersonal_relations.try.destroy_all
     if person and organization # ha nem törlés történt
       if !(InterpersonalRelation.find_by_person_to_org_relation_id(id) or InterpersonalRelation.find_by_other_person_to_org_relation_id(id))
        # meg kell vizsgálnunk hogy van-e már, különben kétszer megy bele (a hobo?) az after_save-be TODO

@@ -660,10 +660,11 @@ namespace :fetch do
       name = person.children[0].text.split(' ')
       last_name = name[0]
       first_name= name[1..-1].join(' ') if name.length>1
-      pe = Person.find_by_first_name_and_last_name(first_name, last_name)
+      kl = '/' + person.attributes['href'].value
+      pe = Person.find_by_klink( kl )
       if !pe && first_name!=nil
         puts "saving person: " +  person.children[0].text
-        Person.create!(:last_name => last_name, :first_name => first_name, :klink => '/' + person.attributes['href'].value, :information_source_id => info_id)
+        Person.create!(:last_name => last_name, :first_name => first_name, :klink => kl, :information_source_id => info_id)
       elsif !first_name
         puts "Couldn't fetch person: #{last_name}, #{person.attributes['href'].value}"
       end
