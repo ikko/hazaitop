@@ -5,9 +5,9 @@ var spinnerImg = '<img src="/hobothemes/clean/images/spinner.gif" class="ajax-lo
 
 if (typeof jQuery != 'undefined') { 
   jQuery( function() {
-    jQuery('.person-to-org-relation-no-end-time').live( 'click', function(e) {
+    jQuery('.no-end-time-tag').live( 'click', function(e) {
       var input = jQuery(this)
-      jQuery(this).parents('li').find('.end-time-toggler').toggle( function() { if (input.is(':checked')) {
+      jQuery(this).parents('li').find('.end-time-view').toggle( function() { if (input.is(':checked')) {
         jQuery(this).css('display', 'none');
       }
       else {
@@ -17,9 +17,9 @@ if (typeof jQuery != 'undefined') {
   });
 
   jQuery( function() {
-    jQuery('.person-to-org-relation-no-start-time').live( 'click', function(e) {
+    jQuery('.no-start-time-tag').live( 'click', function(e) {
       var input = jQuery(this)
-      jQuery(this).parents('li').find('.start-time-toggler').toggle( function() { if (input.is(':checked')) {
+      jQuery(this).parents('li').find('.start-time-view').toggle( function() { if (input.is(':checked')) {
         jQuery(this).css('display', 'none');
       }
       else {
