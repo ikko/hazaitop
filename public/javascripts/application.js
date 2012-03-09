@@ -16,6 +16,18 @@ if (typeof jQuery != 'undefined') {
     });
   });
 
+  jQuery( function() {
+    jQuery('.person-to-org-relation-no-start-time').live( 'click', function(e) {
+      var input = jQuery(this)
+      jQuery(this).parents('li').find('.start-time-toggler').toggle( function() { if (input.is(':checked')) {
+        jQuery(this).css('display', 'none');
+      }
+      else {
+        jQuery(this).css('display', 'block');
+      }} );
+    });
+  });
+
   (function($){
     $(function() {
       // tabváltás

@@ -17,6 +17,7 @@ namespace :update do
       end
       puts "c"
       PersonToOrgRelation.find(:all, :include => [:person, :organization], :conditions => ["id >= #{i}001 and id < #{i+1}000"]).each do |r|
+        r.save
         if !r.person or !r.organization then puts r.destroy end
       end
       puts "--------------------------"
