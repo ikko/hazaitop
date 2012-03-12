@@ -340,7 +340,7 @@ namespace :fetch do
       end
     end
 
-    # initioalize
+    # initialize
     info = InformationSource.find_or_create_by_name("Közbeszerzési Értesítő") do |r|
       r.name = "Közbeszerzési Értesítő"
       r.web = "http://www.kozbeszerzes.hu"
@@ -369,7 +369,7 @@ namespace :fetch do
     @log.puts "------------------------------------------------------------------------"
 
 #    for lapid in 319220..319999 do 
-    for lapid in 319422..328837 do 
+    for lapid in 320220..332621 do 
       # 282615 a vége
       puts lapid
       @lines = []
