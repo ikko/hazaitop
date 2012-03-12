@@ -714,11 +714,11 @@ namespace :fetch do
             gsub("szeptember","sep").
             gsub("október","oct").
             to_date
+          internet_address = "http://www.k-monitor.hu/" + wlink
           a = Article.find_by_internet_address(internet_address) 
           x = article.search("a").last.attributes.first.last.text
           x = "http://#{x}" if x[0..6] != "http://"
           if a and !a.issued_at
-            puts internet_address = "http://www.k-monitor.hu/" + wlink
             puts a.issued_at = issue_date
             a.save
           end
