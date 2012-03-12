@@ -701,7 +701,7 @@ namespace :fetch do
       puts "fetching dates on page #{i} on k-monitor.hu at " + Time.now.to_s
       articles = Nokogiri::HTML(open("http://www.k-monitor.hu/kereses?page=#{i}"))
       articles.css(".news_list_1").each do |article|
-        if article.search("input[@name='halora']").first.attributes['value'].value == "igen"
+       #if article.search("input[@name='halora']").first.attributes['value'].value == "igen"
           wlink = article.css("h3 a")[0].attributes['href'].value.split('?')[0] || ""
           issue_date = article.css(".extra a")[1].text.to_textual_id.gsub('-','.').
             gsub("január","jan").
@@ -714,11 +714,11 @@ namespace :fetch do
             gsub("szeptember","sep").
             gsub("október","oct").
             to_date
-          puts internet_address = "http://www.k-monitor.hu/" + wlink
           a = Article.find_by_internet_address(internet_address) 
           x = article.search("a").last.attributes.first.last.text
           x = "http://#{x}" if x[0..6] != "http://"
           if a and !a.issued_at
+            puts internet_address = "http://www.k-monitor.hu/" + wlink
             puts a.issued_at = issue_date
             a.save
           end
@@ -727,7 +727,7 @@ namespace :fetch do
             a.original_source = Domainatrix.parse( x ).domain
             a.save
           end
-        end
+#        end
       end
     end
   end
