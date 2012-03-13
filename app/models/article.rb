@@ -88,7 +88,7 @@ class Article < ActiveRecord::Base
   end
 
   def update_permitted?
-    user_id = acting_user.id && ( acting_user.administrator? || acting_user.supervisor? || acting_user.editor? )
+    acting_user.administrator? || acting_user.supervisor? || acting_user.editor?
   end
 
   def destroy_permitted?
