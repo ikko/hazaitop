@@ -1,0 +1,9 @@
+#!/bin/bash
+for i in {1..100}
+do
+   echo "processing $i time"
+   cat db/kbe/counter.txt
+   bundle exec rake fetch:ertesito --trace
+   sleep 10
+done
+

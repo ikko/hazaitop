@@ -363,14 +363,26 @@ namespace :fetch do
     # for lapid in 319020..319999 do 
     #
     # 32
+    #
+    def increment_counter lapid
+      cf = File.open(@counter_file, 'w')
+      cf.puts(lapid)
+      cf.close
+    end
 
     @log.puts "////////////////////////////////////////////////////////////////////////"
     @log.puts "starting to process at #{Time.now} in #{Rails.root}"
     @log.puts "------------------------------------------------------------------------"
-
+    maxdoc = Nokogiri::HTML(open('http://kozbeszerzes.hu/lid/ertesito/pid/0/ertesitoList'))
+    max_lapid = maxdoc.search('#ful_1 a').attr('onclick').value.split('portal_')[1].split("'; ")[0].to_i
+    lapid = 321031
 #    for lapid in 319220..319999 do 
-    for lapid in 320221..332621 do 
-      # 282615 a vége
+    while lapid < max_lapid do
+      @counter_file = 'db/kbe/counter.txt'
+      if File.exists? @counter_file
+        cf = File.open(@counter_file, 'r')
+        lapid = cf.gets.to_i + 1
+      end
       puts lapid
       @lines = []
       # ha még nincs meg ez az értesítő
@@ -398,6 +410,7 @@ namespace :fetch do
             ertesito = Nokogiri::HTML(open("http://www.kozbeszerzes.hu/lid/ertesito/pid/0/ertesitoProperties?objectID=Lapszam.portal_#{ lapid }"))
             if ertesito.css('a.attach').blank?
               puts "skipping #{lapid}, download failed... no attach class found in html, no pdf to download?"
+              increment_counter lapid
               next
             end
             dl =  Nokogiri::HTML(open('http://www.kozbeszerzes.hu/' + ertesito.css('a.attach').last['href']))
@@ -414,6 +427,7 @@ namespace :fetch do
           end
           if !File.exist?(Rails.root + "db/kbe/#{lapid}.pdf") or File.stat(Rails.root + "db/kbe/#{lapid}.pdf").size == 0
             puts "skipping #{Rails.root.to_s}/db/kbe/#{ lapid }.pdf, no file found or file is empty: probably 404..."
+            increment_counter lapid
             next
           end
           puts "parsing data from #{Rails.root.to_s}/db/kbe/#{ lapid }.pdf, please wait..."
@@ -434,6 +448,7 @@ namespace :fetch do
       else
         puts "Skipping: notification already in database..."
         puts note.inspect
+        increment_counter lapid
         next
       end
 
@@ -764,7 +779,12 @@ namespace :fetch do
       note.save
       @ertekek.sort {|x,y| y[0] <=> x[0] }.each do |e| puts(e.inspect); nfo.puts(e.inspect) end
       nfo.close
-    end
+      increment_counter lapid
+
+      # ez azért van így mert elfogy a memória mikor másodszorra próbálunk letölteni TODO
+      break
+
+    end # of while
     @log.close
   end
 
