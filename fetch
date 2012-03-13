@@ -6,8 +6,8 @@ echo "fetch and update started at" $(date)
 
 bundle exec rake fetch:people
 bundle exec rake fetch:organizations
-bundle exec rake fetch:articles
-bundle exec rake update:counter
+#bundle exec rake fetch:articles
+# bundle exec rake update:counters
 
 echo "fetch and update finished at" $(date)
 cd -
