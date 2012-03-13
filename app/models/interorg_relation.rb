@@ -90,7 +90,6 @@ class InterorgRelation < ActiveRecord::Base
   end
 
   after_create do |r|
-    logger.info "////////////////////// after create ///////////////////////////////////////"
     r.organization.try.increment! :relations_counter
     unless r.mirrored
       if r.o2o_relation_type.pair
@@ -152,11 +151,7 @@ class InterorgRelation < ActiveRecord::Base
   end
 
   after_save do |r|
-    logger.info "======================================================"
-    logger.info "lofa elott"
     if !r.related_organization_id or !r.organization_id
-      logger.info "======================================================"
-      logger.info "lofaa"
       r.destroy
     end
     true

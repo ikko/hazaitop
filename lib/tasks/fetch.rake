@@ -369,7 +369,7 @@ namespace :fetch do
     @log.puts "------------------------------------------------------------------------"
 
 #    for lapid in 319220..319999 do 
-    for lapid in 320220..332621 do 
+    for lapid in 320221..332621 do 
       # 282615 a vége
       puts lapid
       @lines = []
