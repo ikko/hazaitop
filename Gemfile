@@ -5,7 +5,7 @@ gem "domainatrix"
 gem "nokogiri"
 gem "pdftohtmlr"
 gem 'lazy_high_charts'
-
+gem 'tlsmail'
 
 group :development, :test do
   gem 'pickle'

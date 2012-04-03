@@ -1,0 +1,7 @@
+cd /home/ahalo/hazaitop/
+git pull origin design
+/etc/init.d/ahalo stop
+/etc/init.d/ahalo start
+tail -fn2000 log/production.log
+
+

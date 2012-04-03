@@ -1,0 +1,13 @@
+find . -type f -print0 | xargs -0 -n 1 sed -i -e 's/p2p/p_to_p/g'
+find . -type f -print0 | xargs -0 -n 1 sed -i -e 's/p2o/p_to_o/g'
+find . -type f -print0 | xargs -0 -n 1 sed -i -e 's/o2o/o_to_o/g'
+find . -type f -print0 | xargs -0 -n 1 sed -i -e 's/o2p/o_to_p/g'
+find . -type f -print0 | xargs -0 -n 1 sed -i -e 's/P2p/PToP/g'
+find . -type f -print0 | xargs -0 -n 1 sed -i -e 's/P2o/PToO/g'
+find . -type f -print0 | xargs -0 -n 1 sed -i -e 's/O2o/OToO/g'
+find . -type f -print0 | xargs -0 -n 1 sed -i -e 's/O2p/OToP/g'
+find . -name '*' -print0 | xargs -0 rename 's/p2p/p_to_p/'
+find . -name '*' -print0 | xargs -0 rename 's/o2o/o_to_o/'
+find . -name '*' -print0 | xargs -0 rename 's/o2p/o_to_p/'
+find . -name '*' -print0 | xargs -0 rename 's/p2o/p_to_o/'
+

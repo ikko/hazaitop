@@ -1,0 +1,5 @@
+git add app lib public
+git commit -m auto_deploy
+git push 
+ssh ahalo < deploy.commands
+
