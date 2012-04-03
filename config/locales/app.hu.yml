@@ -30,8 +30,8 @@ hu:
     mothers_name: Anyja neve
     person_grades: Minőség
     information_source: Forrás
-    p2p_relation_type: Kapcsolat
-    p2o_relation_type: Kapcsolat
+    p_to_p_relation_type: Kapcsolat
+    p_to_o_relation_type: Kapcsolat
     article_relations: Cikkek
     personal_relations: Személyes kapcsolatok
     person_to_org_relations: Szervezeti kapcsolatok
@@ -82,7 +82,7 @@ hu:
   interpersonal_relations:
     model_name: személyek közti kapcsolat
     related_person: Kapcsolódó személy
-    p2p_relation_type: Kapcsolat
+    p_to_p_relation_type: Kapcsolat
     litigations: Perek
     articles: Cikkek
     article_relations: Cikkek
@@ -94,8 +94,8 @@ hu:
     model_name: személy és szervezet közti kapcsolat
     person: Személy
     organization: Szervezet
-    p2o_relation_type: Kapcsolat
-    o2p_relation_type: Kapcsolat
+    p_to_o_relation_type: Kapcsolat
+    o_to_p_relation_type: Kapcsolat
     start_time: Kezdő dátum
     end_time: Záró dátum
     no_end_time: Nincs záródátum
@@ -128,16 +128,16 @@ hu:
     edit:
       heading: Személy adatok és kapcsolatok szerkesztése
 
-  p2p_relation_types: 
+  p_to_p_relation_types: 
     model_name: személyes kapcsolat típusa
     nav_item: Személyközi kapcsolat típusok
-  o2o_relation_types: 
+  o_to_o_relation_types: 
     model_name: szervezeti kapcsolat típusa
     nav_item: Szervezetközi kapcsolat típusok
-  p2o_relation_types:
+  p_to_o_relation_types:
     model_name: szervezeti kapcsolat típusa
     nav_item: Személy és szervezet közti kapcsolat típusok
-  o2p_relation_types:
+  o_to_p_relation_types:
     model_name: személyes kapcsolat típusa
     nav_item: Szervezet és szervezet közti kapcsolat típusok
     
@@ -153,13 +153,13 @@ hu:
       edit: szerkesztése
       delete: Törlés
     weight: Súly
-    p2o_relation_type: Személy és cég közti kapcsolattípus
-    p2p_relation_type: Származtatott személyközi kapcsolattípus
-    related_p2o_relation_type: Vonatkozó személy és cég közti kapcsolattípus
+    p_to_o_relation_type: Személy és cég közti kapcsolattípus
+    p_to_p_relation_type: Származtatott személyközi kapcsolattípus
+    related_p_to_o_relation_type: Vonatkozó személy és cég közti kapcsolattípus
     hints:
-      p2o_relation_type: Válassza ki az elsődleges azonosítandó kapcsolattípust!
-      p2p_relation_type: Adja meg az azonosítandó és a vonatkozó kapcsolatokból származtatandó típust!
-      related_p2o_relation_type: Válassza ki a vonatkozó kapcsolattípust!
+      p_to_o_relation_type: Válassza ki az elsődleges azonosítandó kapcsolattípust!
+      p_to_p_relation_type: Adja meg az azonosítandó és a vonatkozó kapcsolatokból származtatandó típust!
+      related_p_to_o_relation_type: Válassza ki a vonatkozó kapcsolattípust!
     new:
       heading: Új származtatott kapcsolattípus-mátrix elem
     index:
@@ -296,9 +296,9 @@ hu:
     tax_nr: Adószám
     number_of_employees: Munkavállalók száma
     information_source: Forrás
-    o2p_relation_type: Kapcsolat
-    o2p_relation_type: Kapcsolat
-    p2p_relation_type: Kapcsolat
+    o_to_p_relation_type: Kapcsolat
+    o_to_p_relation_type: Kapcsolat
+    p_to_p_relation_type: Kapcsolat
     article_relations: Cikkek
     financials: Vagyoni adatok
     interorg_relations: Szervezetközi kapcsolatok
@@ -319,9 +319,9 @@ hu:
         other: Találatok
         
   relations:
-    p2p_relation_types: személyes
-    p2o_relation_types: személy és intézmény közti
-    o2o_relation_types: intézményes
+    p_to_p_relation_types: személyes
+    p_to_o_relation_types: személy és intézmény közti
+    o_to_o_relation_types: intézményes
 
   financials:
     year: Év
@@ -334,7 +334,7 @@ hu:
       heading: Tranzakciók
       title: Tranzakciók
     related_organization: Kapcsolódó szervezet
-    o2o_relation_type: Kapcsolat
+    o_to_o_relation_type: Kapcsolat
     litigations: Perek
     articles: Cikkek
     article_relations: Cikkek
@@ -399,10 +399,10 @@ hu:
     models:
       person: személy
       organization: szervezet
-      p2p_relation_type: személyes kapcsolat típusa
-      o2o_relation_type: szervezeti kapcsolat típusa
-      p2o_relation_type: szervezeti kapcsolat típusa
-      o2p_relation_type: személyes kapcsolat típusa
+      p_to_p_relation_type: személyes kapcsolat típusa
+      o_to_o_relation_type: szervezeti kapcsolat típusa
+      p_to_o_relation_type: szervezeti kapcsolat típusa
+      o_to_p_relation_type: személyes kapcsolat típusa
       litigation: per
       interpersonal_relation: személyek közti kapcsolat
       user: Felhasználó
@@ -431,13 +431,13 @@ hu:
               blank: cannot be empty
             information_source:
               blank: cannot be empty
-            p2p_relation_type:
+            p_to_p_relation_type:
               blank: cannot be empty
         person_to_org_relation:
           attributes:
             information_source:
               blank: cannot be empty
-            p2o_relation_type:
+            p_to_o_relation_type:
               blank: cannot be empty
         organization:
           attributes:
@@ -457,13 +457,13 @@ hu:
               blank: cannot be empty
             information_source:
               blank: cannot be empty
-            o2o_relation_type:
+            o_to_o_relation_type:
               blank: cannot be empty
         person_to_org_relation:
           attributes:
             information_source:
               blank: cannot be empty
-            p2o_relation_type:
+            p_to_o_relation_type:
               blank: cannot be empty
         financial:
           attributes:
