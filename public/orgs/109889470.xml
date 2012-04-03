@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">889470</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">1107 Budapest, Száva u. 5-7. </mezo>
+<mezo id = "cim">1107 Budapest, SzÃ¡va u. 5-7. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">14113246242</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20071211</mezo>
-<mezo id = "nev">ORD Invest Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">ORD Invest Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20071211</mezo>
@@ -35,7 +35,7 @@
 <mezo id = "hattol">20071211</mezo>
 <mezo id = "irsz">1107</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Száva u. 5-7.</mezo>
+<mezo id = "teru">SzÃ¡va u. 5-7.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
@@ -48,7 +48,7 @@
 <mezo id = "hattol">20100121</mezo>
 <mezo id = "irsz">1220</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Kapitánypuszta 182659.</mezo>
+<mezo id = "teru">KapitÃ¡nypuszta 182659.</mezo>
 <mezo id = "valtk">20100121</mezo>
 <mezo id = "bkelt">20100205</mezo>
 </alrovat>
@@ -56,7 +56,7 @@
 <mezo id = "hattol">20100121</mezo>
 <mezo id = "irsz">1239</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Nagykõrösi út 353.</mezo>
+<mezo id = "teru">NagykÅ‘rÃ¶si Ãºt 353.</mezo>
 <mezo id = "valtk">20100121</mezo>
 <mezo id = "bkelt">20100205</mezo>
 </alrovat>
@@ -835,9 +835,9 @@
 <rovat id = "13">
 <alrovat id = "2">
 <mezo id = "hattol">20100121</mezo>
-<mezo id = "tiszt">cégvezetõ</mezo>
-<mezo id = "pnev">Losonczi Ottó</mezo>
-<mezo id = "panev">Szabó Anna</mezo>
+<mezo id = "tiszt">cÃ©gvezetÅ‘</mezo>
+<mezo id = "pnev">Losonczi OttÃ³</mezo>
+<mezo id = "panev">SzabÃ³ Anna</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20070928</mezo>
 <mezo id = "valtk">20100121</mezo>
@@ -848,12 +848,12 @@
 <alrovat id = "1">
 <mezo id = "hattol">20071211</mezo>
 <mezo id = "cgjsz">109260986</mezo>
-<mezo id = "nev">SALDO-MINOR Könyvvizsgáló és Gazdasági Szakértõ KFT.</mezo>
+<mezo id = "nev">SALDO-MINOR KÃ¶nyvvizsgÃ¡lÃ³ Ã©s GazdasÃ¡gi SzakÃ©rtÅ‘ KFT.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1074</mezo>
 <mezo id = "hely">Budapest, Csengery u 11. 2. em. 201.</mezo>
-<mezo id = "pnev">PalanitzLászló</mezo>
-<mezo id = "panev">Lukács Ilona</mezo>
+<mezo id = "pnev">PalanitzLÃ¡szlÃ³</mezo>
+<mezo id = "panev">LukÃ¡cs Ilona</mezo>
 <mezo id = "pirsz">4029</mezo>
 <mezo id = "phely">Debrecen, Kazinczy u. 12.</mezo>
 <mezo id = "jogvk">20071231</mezo>
@@ -868,7 +868,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20071211</mezo>
 <mezo id = "cgjsz">109462973</mezo>
-<mezo id = "nev">ORD Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">ORD Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "atdat">20071231</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
@@ -878,7 +878,7 @@
 <alrovat id = "2">
 <mezo id = "hattol">20100127</mezo>
 <mezo id = "cgjsz">0109689741</mezo>
-<mezo id = "nev">TO-BAU Ingatlanforgalmazó és Építõipari Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">TO-BAU IngatlanforgalmazÃ³ Ã©s Ã‰pÃ­tÅ‘ipari KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">20100127</mezo>
 <mezo id = "bkelt">20100127</mezo>
 </alrovat>
@@ -911,10 +911,10 @@
 <rovat id = "0109">
 <alrovat id = "1">
 <mezo id = "hattol">20071211</mezo>
-<mezo id = "pnev">Losonczi Ottó</mezo>
-<mezo id = "panev">Szabó Anna</mezo>
+<mezo id = "pnev">Losonczi OttÃ³</mezo>
+<mezo id = "panev">SzabÃ³ Anna</mezo>
 <mezo id = "pirsz">1204</mezo>
-<mezo id = "phely">Budapest, Rákóczi út 122-124.</mezo>
+<mezo id = "phely">Budapest, RÃ¡kÃ³czi Ãºt 122-124.</mezo>
 <mezo id = "tagsk">20071231</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "sz2">x</mezo>
@@ -926,9 +926,9 @@
 <alrovat id = "2">
 <mezo id = "hattol">20071211</mezo>
 <mezo id = "pnev">Losonci Andrea</mezo>
-<mezo id = "panev">Szabó Anna</mezo>
+<mezo id = "panev">SzabÃ³ Anna</mezo>
 <mezo id = "pirsz">2241</mezo>
-<mezo id = "phely">Sülysáp, Kinizsi út 28.</mezo>
+<mezo id = "phely">SÃ¼lysÃ¡p, Kinizsi Ãºt 28.</mezo>
 <mezo id = "tagsk">20071231</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">0</mezo>
@@ -938,15 +938,15 @@
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20100127</mezo>
-<mezo id = "pnev">Tószegi Lajos</mezo>
-<mezo id = "panev">Katona Terézia</mezo>
+<mezo id = "pnev">TÃ³szegi Lajos</mezo>
+<mezo id = "panev">Katona TerÃ©zia</mezo>
 <mezo id = "tagsk">20100127</mezo>
 <mezo id = "valtk">20100127</mezo>
 <mezo id = "bkelt">20100127</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20100127</mezo>
-<mezo id = "pnev">Dányi Albert</mezo>
+<mezo id = "pnev">DÃ¡nyi Albert</mezo>
 <mezo id = "panev">Losonci Anna</mezo>
 <mezo id = "tagsk">20100127</mezo>
 <mezo id = "valtk">20100127</mezo>
@@ -957,60 +957,60 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A TO-BAU Ingatlanforgalmazó és Építõipari Korlátolt Felelõsségû Társaság és az ORD Invest Kereskedelmi Korlátolt Felelõsségû Társaság közzéteszi, hogy a 2009. szeptember 15-én és a 2009. november 26-án hozott taggyûlési határozatokkal, a társaságok a beolvadással történõ átalakulásukat határozták el olyan módon, hogy a TO-BAU Ingatlanforgalmazó és Építõipari Korlátolt Felelõsségû Társaság beolvad az ORD Invest Kereskedelmi Korlátolt Felelõsségû Társaságba.<ujsor/>
-Az egyesülés módja: beolvadás.<ujsor/>
-A társaságok a 2006. évi IV. törvény 75. § (2) és (3) bekezdése, valamint a 79. § (5) bekezdése alapján a következõ adatok közzétételét határozták el:<ujsor/>
-A beolvadó társaság adatai:<ujsor/>
-Név: TO-BAU Ingatlanforgalmazó és Építõipari Korlátolt Felelõsségû Társaság.<ujsor/>
-Cégjegyzékszáma: [01 09 689741].<ujsor/>
-Székhelye: 1202 Budapest, Hunyadi János tér 12­14.<ujsor/>
-A társaság fõbb záró mérlegadatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 78 377 Saját tõke 188 708<ujsor/>
-Forgóeszközök 212 049 Jegyzett tõke 3 000<ujsor/>
-Aktív idõbeli elhatárolások 46 440 Pénzbeli hozzájárulás 3 000<ujsor/>
-Nem pénzbeli hozzájárulás 0<ujsor/>
-Céltartalék 0<ujsor/>
-Kötelezettségek 132 976<ujsor/>
-Passzív idõbeli elhatárolások 15 182<ujsor/>
-ÖSSZESEN: 336 866 ÖSSZESEN: 336 866<ujsor/>
-Az átvevõ társaság adatai:<ujsor/>
-Név: ORD Invest Kereskedelmi Korlátolt Felelõsségû Társaság.<ujsor/>
-Cégjegyzékszáma: [01 09 889470].<ujsor/>
-Székhelye: 1107 Budapest, Száva u. 5­7.<ujsor/>
-A társaság fõbb záró mérlegadatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 1 100 748 Saját tõke 434 426<ujsor/>
-Forgóeszközök 239 935 Jegyzett tõke 140 000<ujsor/>
-Aktív idõbeli elhatárolások 6 381 Pénzbeli hozzájárulás 83 000<ujsor/>
-Nem pénzbeli hozzájárulás 57 000<ujsor/>
-Céltartalék 0<ujsor/>
-Kötelezettségek 862 134<ujsor/>
-Passzív idõbeli elhatárolások 50 504<ujsor/>
-ÖSSZESEN: 1 347 064 ÖSSZESEN: 1 347 064<ujsor/>
-A beolvadással létrejövõ társaság adatai:<ujsor/>
-Társasági forma: korlátolt felelõsségû társaság.<ujsor/>
-Név: ORD Invest Kereskedelmi Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhelye: 1107 Budapest, Száva u. 5­7.<ujsor/>
-A társasági szerzõdés elfogadásának napja: 2009. november 26.<ujsor/>
-A társaság nyitó vagyonmérleg-tervezetének fõbb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 1 179 125 Saját tõke 921 134<ujsor/>
-Forgóeszközök 437 841 Jegyzett tõke 303 000<ujsor/>
-Aktív idõbeli elhatárolások 6 381 Pénzbeli hozzájárulás 86 000<ujsor/>
-Nem pénzbeli hozzájárulás 217 000<ujsor/>
-Céltartalék 0<ujsor/>
-Kötelezettségek 682 967<ujsor/>
-Passzív idõbeli elhatárolások 19 246<ujsor/>
-ÖSSZESEN: 1 623 347 ÖSSZESEN: 1 623 347<ujsor/>
-A létrejövõ társaság fõ tevékenysége (TEÁOR ’08): 6810 Saját tulajdonú ingatlan adásvétele.<ujsor/>
-Vezetõ tisztségviselõje: Losonczi Ottó (a. n.: Szabó Anna; 1206 Budapest, Rákóczi u. 122­124.).<ujsor/>
-A társasági szerzõdés elfogadásának napja: 2009. november 26.<ujsor/>
-A társaságok értesítik hitelezõiket, hogy a fenti hirdetmény részükre tájékoztatásul szolgál. A hitelezõket a 2006. évi IV. törvény 76. § (2) és (3) bekezdése alapján biztosíték igénylésére irányuló jog nem illeti meg.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">A TO-BAU IngatlanforgalmazÃ³ Ã©s Ã‰pÃ­tÅ‘ipari KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g Ã©s az ORD Invest Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g kÃ¶zzÃ©teszi, hogy a 2009. szeptember 15-Ã©n Ã©s a 2009. november 26-Ã¡n hozott taggyÅ±lÃ©si hatÃ¡rozatokkal, a tÃ¡rsasÃ¡gok a beolvadÃ¡ssal tÃ¶rtÃ©nÅ‘ Ã¡talakulÃ¡sukat hatÃ¡roztÃ¡k el olyan mÃ³don, hogy a TO-BAU IngatlanforgalmazÃ³ Ã©s Ã‰pÃ­tÅ‘ipari KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g beolvad az ORD Invest Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gba.<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: beolvadÃ¡s.<ujsor/>
+A tÃ¡rsasÃ¡gok a 2006. Ã©vi IV. tÃ¶rvÃ©ny 75. Â§ (2) Ã©s (3) bekezdÃ©se, valamint a 79. Â§ (5) bekezdÃ©se alapjÃ¡n a kÃ¶vetkezÅ‘ adatok kÃ¶zzÃ©tÃ©telÃ©t hatÃ¡roztÃ¡k el:<ujsor/>
+A beolvadÃ³ tÃ¡rsasÃ¡g adatai:<ujsor/>
+NÃ©v: TO-BAU IngatlanforgalmazÃ³ Ã©s Ã‰pÃ­tÅ‘ipari KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡ma: [01 09 689741].<ujsor/>
+SzÃ©khelye: 1202 Budapest, Hunyadi JÃ¡nos tÃ©r 12Â­14.<ujsor/>
+A tÃ¡rsasÃ¡g fÅ‘bb zÃ¡rÃ³ mÃ©rlegadatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 78 377 SajÃ¡t tÅ‘ke 188 708<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 212 049 Jegyzett tÅ‘ke 3 000<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 46 440 PÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s 3 000<ujsor/>
+Nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s 0<ujsor/>
+CÃ©ltartalÃ©k 0<ujsor/>
+KÃ¶telezettsÃ©gek 132 976<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 15 182<ujsor/>
+Ã–SSZESEN: 336 866 Ã–SSZESEN: 336 866<ujsor/>
+Az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g adatai:<ujsor/>
+NÃ©v: ORD Invest Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡ma: [01 09 889470].<ujsor/>
+SzÃ©khelye: 1107 Budapest, SzÃ¡va u. 5Â­7.<ujsor/>
+A tÃ¡rsasÃ¡g fÅ‘bb zÃ¡rÃ³ mÃ©rlegadatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 1 100 748 SajÃ¡t tÅ‘ke 434 426<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 239 935 Jegyzett tÅ‘ke 140 000<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 6 381 PÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s 83 000<ujsor/>
+Nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s 57 000<ujsor/>
+CÃ©ltartalÃ©k 0<ujsor/>
+KÃ¶telezettsÃ©gek 862 134<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 50 504<ujsor/>
+Ã–SSZESEN: 1 347 064 Ã–SSZESEN: 1 347 064<ujsor/>
+A beolvadÃ¡ssal lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g adatai:<ujsor/>
+TÃ¡rsasÃ¡gi forma: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+NÃ©v: ORD Invest Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 1107 Budapest, SzÃ¡va u. 5Â­7.<ujsor/>
+A tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s elfogadÃ¡sÃ¡nak napja: 2009. november 26.<ujsor/>
+A tÃ¡rsasÃ¡g nyitÃ³ vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 1 179 125 SajÃ¡t tÅ‘ke 921 134<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 437 841 Jegyzett tÅ‘ke 303 000<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 6 381 PÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s 86 000<ujsor/>
+Nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s 217 000<ujsor/>
+CÃ©ltartalÃ©k 0<ujsor/>
+KÃ¶telezettsÃ©gek 682 967<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 19 246<ujsor/>
+Ã–SSZESEN: 1 623 347 Ã–SSZESEN: 1 623 347<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™08): 6810 SajÃ¡t tulajdonÃº ingatlan adÃ¡svÃ©tele.<ujsor/>
+VezetÅ‘ tisztsÃ©gviselÅ‘je: Losonczi OttÃ³ (a. n.: SzabÃ³ Anna; 1206 Budapest, RÃ¡kÃ³czi u. 122Â­124.).<ujsor/>
+A tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s elfogadÃ¡sÃ¡nak napja: 2009. november 26.<ujsor/>
+A tÃ¡rsasÃ¡gok Ã©rtesÃ­tik hitelezÅ‘iket, hogy a fenti hirdetmÃ©ny rÃ©szÃ¼kre tÃ¡jÃ©koztatÃ¡sul szolgÃ¡l. A hitelezÅ‘ket a 2006. Ã©vi IV. tÃ¶rvÃ©ny 76. Â§ (2) Ã©s (3) bekezdÃ©se alapjÃ¡n biztosÃ­tÃ©k igÃ©nylÃ©sÃ©re irÃ¡nyulÃ³ jog nem illeti meg.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109889470</mezo>
-<mezo id = "nev">ORD Invest Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">ORD Invest Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1107 Budapest</mezo>
 </alrovat>
 </rovat>

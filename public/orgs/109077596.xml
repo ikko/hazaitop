@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">077596</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">1132 Budapest, Váci út 30. </mezo>
+<mezo id = "cim">1132 Budapest, VÃ¡ci Ãºt 30. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">10579194244</mezo>
 </alrovat>
@@ -13,19 +13,19 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19910730</mezo>
-<mezo id = "nev">BASF Hungária Vegyiáru és Kiegészitõ Termék, Berendezés- és Szolgáltatás Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">BASF HungÃ¡ria VegyiÃ¡ru Ã©s KiegÃ©szitÅ‘ TermÃ©k, BerendezÃ©s- Ã©s SzolgÃ¡ltatÃ¡s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">19910730</mezo>
-<mezo id = "nev">BASF Hungária Kft.</mezo>
+<mezo id = "nev">BASF HungÃ¡ria Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "4">
 <alrovat id = "1">
 <mezo id = "hattol">19910730</mezo>
-<mezo id = "nev">BASF Hungária Handelsgesellschaft für Chemische Waren und Verwandte Produkte, Anlagen und Dienstleistungen mit beschränkter Haftung</mezo>
+<mezo id = "nev">BASF HungÃ¡ria Handelsgesellschaft fÃ¼r Chemische Waren und Verwandte Produkte, Anlagen und Dienstleistungen mit beschrÃ¤nkter Haftung</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
@@ -33,7 +33,7 @@
 <mezo id = "hattol">20070320</mezo>
 <mezo id = "irsz">1132</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Váci út 30.</mezo>
+<mezo id = "teru">VÃ¡ci Ãºt 30.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">20061201</mezo>
 <mezo id = "valtv">0</mezo>
@@ -808,9 +808,9 @@
 <rovat id = "13">
 <alrovat id = "27">
 <mezo id = "hattol">20090921</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Csont Sándor</mezo>
-<mezo id = "panev">Dr. Sárközy Éva</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Csont SÃ¡ndor</mezo>
+<mezo id = "panev">Dr. SÃ¡rkÃ¶zy Ã‰va</mezo>
 <mezo id = "pirsz">1016</mezo>
 <mezo id = "phely">Budapest</mezo>
 <mezo id = "pteru">Zsolt utca 9.</mezo>
@@ -821,7 +821,7 @@
 </alrovat>
 <alrovat id = "30">
 <mezo id = "hattol">20090921</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "pnev">Dr. Herbert Martin Fisch</mezo>
 <mezo id = "panev">Frieda Maria Ersfeld</mezo>
 <mezo id = "pkorsz">DE</mezo>
@@ -835,8 +835,8 @@
 </alrovat>
 <alrovat id = "33">
 <mezo id = "hattol">20100413</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Nick Márton</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Nick MÃ¡rton</mezo>
 <mezo id = "panev">Mendi Anna</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20100413</mezo>
@@ -846,8 +846,8 @@
 </alrovat>
 <alrovat id = "34">
 <mezo id = "hattol">20100413</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Sasvári Eleonóra</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">SasvÃ¡ri EleonÃ³ra</mezo>
 <mezo id = "panev">Nagy Ilona</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20100413</mezo>
@@ -857,11 +857,11 @@
 </alrovat>
 <alrovat id = "35">
 <mezo id = "hattol">20110401</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Krasznai Gábor</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Krasznai GÃ¡bor</mezo>
 <mezo id = "panev">Varga Zsuzsanna</mezo>
 <mezo id = "pirsz">2051</mezo>
-<mezo id = "phely">Biatorbágy</mezo>
+<mezo id = "phely">BiatorbÃ¡gy</mezo>
 <mezo id = "pteru">Rosenbach utca 44.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20110401</mezo>
@@ -871,12 +871,12 @@
 </alrovat>
 <alrovat id = "36">
 <mezo id = "hattol">20110601</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Lányi Krisztián Tamás</mezo>
-<mezo id = "panev">Takács-Szenczi Mária Judit</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">LÃ¡nyi KrisztiÃ¡n TamÃ¡s</mezo>
+<mezo id = "panev">TakÃ¡cs-Szenczi MÃ¡ria Judit</mezo>
 <mezo id = "pirsz">2049</mezo>
-<mezo id = "phely">Diósd</mezo>
-<mezo id = "pteru">Tulipán utca 15.</mezo>
+<mezo id = "phely">DiÃ³sd</mezo>
+<mezo id = "pteru">TulipÃ¡n utca 15.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20110601</mezo>
 <mezo id = "valtk">20110601</mezo>
@@ -888,16 +888,16 @@
 <alrovat id = "13">
 <mezo id = "hattol">20110601</mezo>
 <mezo id = "cgjsz">0109063183</mezo>
-<mezo id = "nev">KPMG Hungária Könyvvizsgáló, Adó- és Közgazdasági Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">KPMG HungÃ¡ria KÃ¶nyvvizsgÃ¡lÃ³, AdÃ³- Ã©s KÃ¶zgazdasÃ¡gi TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1132</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Váci út 30.</mezo>
-<mezo id = "pnev">Kajtár László</mezo>
-<mezo id = "panev">Szányi Katalin</mezo>
+<mezo id = "teru">VÃ¡ci Ãºt 30.</mezo>
+<mezo id = "pnev">KajtÃ¡r LÃ¡szlÃ³</mezo>
+<mezo id = "panev">SzÃ¡nyi Katalin</mezo>
 <mezo id = "pirsz">1038</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Tündérliget utca 10. C. ép.</mezo>
+<mezo id = "pteru">TÃ¼ndÃ©rliget utca 10. C. Ã©p.</mezo>
 <mezo id = "jogvk">20110601</mezo>
 <mezo id = "jogvv">20120531</mezo>
 <mezo id = "valtk">20110601</mezo>
@@ -908,12 +908,12 @@
 <alrovat id = "1">
 <mezo id = "hattol">20011211</mezo>
 <mezo id = "cgjsz">109267870</mezo>
-<mezo id = "nev">BASF Agro Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">BASF Agro Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20071002</mezo>
 <mezo id = "cgjsz">109365243</mezo>
-<mezo id = "nev">BASF Építõkémia Hungária Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">BASF Ã‰pÃ­tÅ‘kÃ©mia HungÃ¡ria KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "atdat">20071130</mezo>
 <mezo id = "valtk">20071002</mezo>
 <mezo id = "valtv">0</mezo>
@@ -923,7 +923,7 @@
 <alrovat id = "3">
 <mezo id = "hattol">20100101</mezo>
 <mezo id = "cgjsz">0109926940</mezo>
-<mezo id = "nev">Ciba Central Eastern Europe Szolgáltató, Tanácsadó és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Ciba Central Eastern Europe SzolgÃ¡ltatÃ³, TanÃ¡csadÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "atdat">20100101</mezo>
 <mezo id = "valtk">20100101</mezo>
 <mezo id = "bkelt">20091202</mezo>
@@ -940,7 +940,7 @@
 <mezo id = "adosz">10579194244</mezo>
 <mezo id = "kadosz">HU10579194</mezo>
 <mezo id = "bkelt">20110715</mezo>
-<mezo id = "megj">Státusz kezdete: 1991/07/01</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 1991/07/01</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0109">
@@ -969,368 +969,368 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A BASF Agro Kereskedelmi és Szolgáltató Kft. (1034 Budapest, Seregély u. 1-5.; cégjegyzékszám: [01 09 267870]) mint beolvadó társaság és BASF Hungária Vegyiáru és Kiegészítõ Termék, Berendezés- és Szolgáltatás Kereskedelmi Kft. (1034 Budapest, Seregély u. 1-5.; cégjegyzékszám: [01 09 077596]) mint átvevõ társaság, 2001. szeptember 12-i taggyûlési határozatukkal elhatározták a társaságok<ujsor/>
-egyesülését.<ujsor/>
-Az egyesülés a beolvadó társaságnak az átvevõ társaságba történõ beolvadásával valósul meg. A beolvadással a beolvadó társaság általános jogutódja a BASF Hungária Vegyiáru és Kiegészítõ Termék, Berendezés- és Szolgáltatás Kereskedelmi Kft. (1034 Budapest, Seregély u. 1-5.), átvevõ társaság lesz.<ujsor/>
-A társaság cégneve: BASF Hungária Vegyiáru és Kiegészítõ Termék, Berendezés- és Szolgáltatás Kereskedelmi Kft.<ujsor/>
-Székhelye: 1034 Budapest, Seregély u. 1-5.<ujsor/>
-Ügyvezetõje: Rainer Hug (D-67133 Maxdorf, Wöhlerstrasse 34. Németország).<ujsor/>
-Cégjegyzés módja: önálló.<ujsor/>
-Tevékenységi köre: 2415 Mûtrágya, nitrogénvegyület gyártása; 2420 Mezõgazdasági vegyi termék gyártása; 5112 Alapanyag, üzemanyag ügynöki nagykereskedelem; 5118 Máshova nem sorolt termék ügynöki nagykereskedelme; 5119 Vegyes termékkörû ügynöki nagykereskedelem; 5146 Gyógyszer, gyógyászati termék nagykereskedelme; 5147 Egyéb fogyasztási cikk nagykereskedelme; 5155 Vegyi áru nagykereskedelme; 5164 Irodagép, -berendezés nagykereskedelme; 5170 Egyéb nagykereskedelem; 7413 Piac- és közvélemény-kutatás; 7414 Üzletviteli tanácsadás; 7484 Máshova nem sorolt, egyéb gazdasági tevékenységet segítõ szolgáltatás.<ujsor/>
-A módosított, egységes szerkezetbe foglalt társasági szerzõdés elfogadásának napja: 2001. szeptember 12.<ujsor/>
-Az egyesülõ társaságok fõbb adatai a 2001. július 31-i fordulónappal készített vagyonmérleg-tervezet szerint (E Ft-ban):<ujsor/>
-ESZKÖZÖK Átvevõ társaság Beolvadó társaság Különbözet Rendezés Beolvadással<ujsor/>
-(aktívák) vagyona könyv vagyona piaci  (saját tõke) létrejövõ<ujsor/>
- szerinti értéken értéken   társaság vagyona<ujsor/>
-A) Befektetett eszközök 135 194 0 0 0 135 194<ujsor/>
-I. Immateriális javak 9 315  0 0 9 315<ujsor/>
-II. Tárgyi eszközök 66 441 0 0 0 66 441<ujsor/>
-III. Befektetett pénzügyi eszközök 59 438 0 0 0 59 438<ujsor/>
-B) Forgóeszközök 13 235 720 850 070 -722 386 0 13 363 404<ujsor/>
-I. Készletek 2 661 331 0 0 0 2 661 331<ujsor/>
-II. Követelések 10 573 298 826 446 -722 386 0 10 677 358<ujsor/>
-III. Értékpapírok 0 0 0 0 0<ujsor/>
-IV. Pénzeszközök 1 091 23 624 0 0 24 715<ujsor/>
-C) Aktív idõbeli elhatárolások 149 0 0 0 149<ujsor/>
-ÖSSZESEN: 13 371 063 850 070 -722 386 0 13 498 747<ujsor/>
-FORRÁSOK Átvevõ társaság Beolvadó társaság Különbözet Rendezés Beolvadással<ujsor/>
-(passzívák) vagyona könyv vagyona piaci  (saját tõke) létrejövõ<ujsor/>
- szerinti értéken értéken   társaság vagyona<ujsor/>
-D) Saját tõke 2 575 284 843 697 0  3 418 981<ujsor/>
-I. Jegyzett tõke 48 000 3 000   51 000<ujsor/>
-III. Tõketartalék 4 513 17   4 530<ujsor/>
-IV. Eredménytartalék 2 522 771 840 680   3 363 451<ujsor/>
-E) Céltartalék 0 0 0 0 0<ujsor/>
-F) Kötelezettségek 10 122 187 5 973 -722 386 0 9 405 774<ujsor/>
-I. Hosszú lejáratú kötelezettségek 0 0 0 0 0<ujsor/>
-II. Rövid lejáratú kötelezettségek 10 122 187 5 973 -722 386 0 9 405 774<ujsor/>
-G) Passzív idõbeli elhatárolások 673 592 400 0 0 673 992<ujsor/>
-ÖSSZESEN: 13 371 063 850 070 -722 386 0 13 498 747<ujsor/>
-Felhívjuk az átalakulás alatt álló társaságok hitelezõit, akiknek az átalakuló gazdasági társaságokkal szemben fennálló, le nem járt követelései az átalakulásról hozott döntés elsõ közzétételét megelõzõen keletkeztek, hogy követeléseik erejéig az átalakuló gazdasági társaságtól a döntés második közzétételét követõ harmincnapos jogvesztõ határidõn belül biztosítékot követelhetnek.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">A BASF Agro Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ Kft. (1034 Budapest, SeregÃ©ly u. 1-5.; cÃ©gjegyzÃ©kszÃ¡m: [01 09 267870]) mint beolvadÃ³ tÃ¡rsasÃ¡g Ã©s BASF HungÃ¡ria VegyiÃ¡ru Ã©s KiegÃ©szÃ­tÅ‘ TermÃ©k, BerendezÃ©s- Ã©s SzolgÃ¡ltatÃ¡s Kereskedelmi Kft. (1034 Budapest, SeregÃ©ly u. 1-5.; cÃ©gjegyzÃ©kszÃ¡m: [01 09 077596]) mint Ã¡tvevÅ‘ tÃ¡rsasÃ¡g, 2001. szeptember 12-i taggyÅ±lÃ©si hatÃ¡rozatukkal elhatÃ¡roztÃ¡k a tÃ¡rsasÃ¡gok<ujsor/>
+egyesÃ¼lÃ©sÃ©t.<ujsor/>
+Az egyesÃ¼lÃ©s a beolvadÃ³ tÃ¡rsasÃ¡gnak az Ã¡tvevÅ‘ tÃ¡rsasÃ¡gba tÃ¶rtÃ©nÅ‘ beolvadÃ¡sÃ¡val valÃ³sul meg. A beolvadÃ¡ssal a beolvadÃ³ tÃ¡rsasÃ¡g Ã¡ltalÃ¡nos jogutÃ³dja a BASF HungÃ¡ria VegyiÃ¡ru Ã©s KiegÃ©szÃ­tÅ‘ TermÃ©k, BerendezÃ©s- Ã©s SzolgÃ¡ltatÃ¡s Kereskedelmi Kft. (1034 Budapest, SeregÃ©ly u. 1-5.), Ã¡tvevÅ‘ tÃ¡rsasÃ¡g lesz.<ujsor/>
+A tÃ¡rsasÃ¡g cÃ©gneve: BASF HungÃ¡ria VegyiÃ¡ru Ã©s KiegÃ©szÃ­tÅ‘ TermÃ©k, BerendezÃ©s- Ã©s SzolgÃ¡ltatÃ¡s Kereskedelmi Kft.<ujsor/>
+SzÃ©khelye: 1034 Budapest, SeregÃ©ly u. 1-5.<ujsor/>
+ÃœgyvezetÅ‘je: Rainer Hug (D-67133 Maxdorf, WÃ¶hlerstrasse 34. NÃ©metorszÃ¡g).<ujsor/>
+CÃ©gjegyzÃ©s mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+TevÃ©kenysÃ©gi kÃ¶re: 2415 MÅ±trÃ¡gya, nitrogÃ©nvegyÃ¼let gyÃ¡rtÃ¡sa; 2420 MezÅ‘gazdasÃ¡gi vegyi termÃ©k gyÃ¡rtÃ¡sa; 5112 Alapanyag, Ã¼zemanyag Ã¼gynÃ¶ki nagykereskedelem; 5118 MÃ¡shova nem sorolt termÃ©k Ã¼gynÃ¶ki nagykereskedelme; 5119 Vegyes termÃ©kkÃ¶rÅ± Ã¼gynÃ¶ki nagykereskedelem; 5146 GyÃ³gyszer, gyÃ³gyÃ¡szati termÃ©k nagykereskedelme; 5147 EgyÃ©b fogyasztÃ¡si cikk nagykereskedelme; 5155 Vegyi Ã¡ru nagykereskedelme; 5164 IrodagÃ©p, -berendezÃ©s nagykereskedelme; 5170 EgyÃ©b nagykereskedelem; 7413 Piac- Ã©s kÃ¶zvÃ©lemÃ©ny-kutatÃ¡s; 7414 Ãœzletviteli tanÃ¡csadÃ¡s; 7484 MÃ¡shova nem sorolt, egyÃ©b gazdasÃ¡gi tevÃ©kenysÃ©get segÃ­tÅ‘ szolgÃ¡ltatÃ¡s.<ujsor/>
+A mÃ³dosÃ­tott, egysÃ©ges szerkezetbe foglalt tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s elfogadÃ¡sÃ¡nak napja: 2001. szeptember 12.<ujsor/>
+Az egyesÃ¼lÅ‘ tÃ¡rsasÃ¡gok fÅ‘bb adatai a 2001. jÃºlius 31-i fordulÃ³nappal kÃ©szÃ­tett vagyonmÃ©rleg-tervezet szerint (E Ft-ban):<ujsor/>
+ESZKÃ–ZÃ–K ÃtvevÅ‘ tÃ¡rsasÃ¡g BeolvadÃ³ tÃ¡rsasÃ¡g KÃ¼lÃ¶nbÃ¶zet RendezÃ©s BeolvadÃ¡ssal<ujsor/>
+(aktÃ­vÃ¡k) vagyona kÃ¶nyv vagyona piaci  (sajÃ¡t tÅ‘ke) lÃ©trejÃ¶vÅ‘<ujsor/>
+ szerinti Ã©rtÃ©ken Ã©rtÃ©ken   tÃ¡rsasÃ¡g vagyona<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 135 194 0 0 0 135 194<ujsor/>
+I. ImmateriÃ¡lis javak 9 315  0 0 9 315<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 66 441 0 0 0 66 441<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 59 438 0 0 0 59 438<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 13 235 720 850 070 -722 386 0 13 363 404<ujsor/>
+I. KÃ©szletek 2 661 331 0 0 0 2 661 331<ujsor/>
+II. KÃ¶vetelÃ©sek 10 573 298 826 446 -722 386 0 10 677 358<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 0 0 0 0<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 1 091 23 624 0 0 24 715<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 149 0 0 0 149<ujsor/>
+Ã–SSZESEN: 13 371 063 850 070 -722 386 0 13 498 747<ujsor/>
+FORRÃSOK ÃtvevÅ‘ tÃ¡rsasÃ¡g BeolvadÃ³ tÃ¡rsasÃ¡g KÃ¼lÃ¶nbÃ¶zet RendezÃ©s BeolvadÃ¡ssal<ujsor/>
+(passzÃ­vÃ¡k) vagyona kÃ¶nyv vagyona piaci  (sajÃ¡t tÅ‘ke) lÃ©trejÃ¶vÅ‘<ujsor/>
+ szerinti Ã©rtÃ©ken Ã©rtÃ©ken   tÃ¡rsasÃ¡g vagyona<ujsor/>
+D) SajÃ¡t tÅ‘ke 2 575 284 843 697 0  3 418 981<ujsor/>
+I. Jegyzett tÅ‘ke 48 000 3 000   51 000<ujsor/>
+III. TÅ‘ketartalÃ©k 4 513 17   4 530<ujsor/>
+IV. EredmÃ©nytartalÃ©k 2 522 771 840 680   3 363 451<ujsor/>
+E) CÃ©ltartalÃ©k 0 0 0 0 0<ujsor/>
+F) KÃ¶telezettsÃ©gek 10 122 187 5 973 -722 386 0 9 405 774<ujsor/>
+I. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0 0 0 0 0<ujsor/>
+II. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 10 122 187 5 973 -722 386 0 9 405 774<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 673 592 400 0 0 673 992<ujsor/>
+Ã–SSZESEN: 13 371 063 850 070 -722 386 0 13 498 747<ujsor/>
+FelhÃ­vjuk az Ã¡talakulÃ¡s alatt Ã¡llÃ³ tÃ¡rsasÃ¡gok hitelezÅ‘it, akiknek az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gokkal szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei az Ã¡talakulÃ¡srÃ³l hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, hogy kÃ¶vetelÃ©seik erejÃ©ig az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gtÃ³l a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109077596</mezo>
-<mezo id = "nev">BASF Hungária Vegyiáru és Kiegészitõ Termék, Berendezés- és Szolgáltatás Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">BASF HungÃ¡ria VegyiÃ¡ru Ã©s KiegÃ©szitÅ‘ TermÃ©k, BerendezÃ©s- Ã©s SzolgÃ¡ltatÃ¡s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A BASF Agro Kereskedelmi és Szolgáltató Kft. (1034 Budapest, Seregély u. 1-5.; cégjegyzékszám: [01 09 267870]) mint beolvadó társaság és BASF Hungária Vegyiáru és Kiegészítõ Termék, Berendezés- és Szolgáltatás Kereskedelmi Kft. (1034 Budapest, Seregély u. 1-5.; cégjegyzékszám: [01 09 077596]) mint átvevõ társaság, 2001. szeptember 12-i taggyûlési határozatukkal elhatározták a társaságok<ujsor/>
-egyesülését.<ujsor/>
-Az egyesülés a beolvadó társaságnak az átvevõ társaságba történõ beolvadásával valósul meg. A beolvadással a beolvadó társaság általános jogutódja a BASF Hungária Vegyiáru és Kiegészítõ Termék, Berendezés- és Szolgáltatás Kereskedelmi Kft. (1034 Budapest, Seregély u. 1-5.), átvevõ társaság lesz.<ujsor/>
-A társaság cégneve: BASF Hungária Vegyiáru és Kiegészítõ Termék, Berendezés- és Szolgáltatás Kereskedelmi Kft.<ujsor/>
-Székhelye: 1034 Budapest, Seregély u. 1-5.<ujsor/>
-Ügyvezetõje: Rainer Hug (D-67133 Maxdorf, Wöhlerstrasse 34. Németország).<ujsor/>
-Cégjegyzés módja: önálló.<ujsor/>
-Tevékenységi köre: 2415 Mûtrágya, nitrogénvegyület gyártása; 2420 Mezõgazdasági vegyi termék gyártása; 5112 Alapanyag, üzemanyag ügynöki nagykereskedelem; 5118 Máshova nem sorolt termék ügynöki nagykereskedelme; 5119 Vegyes termékkörû ügynöki nagykereskedelem; 5146 Gyógyszer, gyógyászati termék nagykereskedelme; 5147 Egyéb fogyasztási cikk nagykereskedelme; 5155 Vegyi áru nagykereskedelme; 5164 Irodagép, -berendezés nagykereskedelme; 5170 Egyéb nagykereskedelem; 7413 Piac- és közvélemény-kutatás; 7414 Üzletviteli tanácsadás; 7484 Máshova nem sorolt, egyéb gazdasági tevékenységet segítõ szolgáltatás.<ujsor/>
-A módosított, egységes szerkezetbe foglalt társasági szerzõdés elfogadásának napja: 2001. szeptember 12.<ujsor/>
-Az egyesülõ társaságok fõbb adatai a 2001. július 31-i fordulónappal készített vagyonmérleg-tervezet szerint (E Ft-ban):<ujsor/>
-ESZKÖZÖK (aktívák) Átvevõ társaság Beolvadó társaság Különbözet Rendezés Beolvadással<ujsor/>
- vagyona könyv vagyona piaci  (saját tõke) létrejövõ<ujsor/>
- szerinti értéken értéken   társaság vagyona<ujsor/>
-A) Befektetett eszközök 135 194 0 0 0 135 194<ujsor/>
-I. Immateriális javak 9 315  0 0 9 315<ujsor/>
-II. Tárgyi eszközök 66 441 0 0 0 66 441<ujsor/>
-III. Befektetett pénzügyi eszközök 59 438 0 0 0 59 438<ujsor/>
-B) Forgóeszközök 13 235 720 850 070 -722 386 0 13 363 404<ujsor/>
-I. Készletek 2 661 331 0 0 0 2 661 331<ujsor/>
-II. Követelések 10 573 298 826 446 -722 386 0 10 677 358<ujsor/>
-III. Értékpapírok 0 0 0 0 0<ujsor/>
-IV. Pénzeszközök 1 091 23 624 0 0 24 715<ujsor/>
-C) Aktív idõbeli elhatárolások 149 0 0 0 149<ujsor/>
-ÖSSZESEN: 13 371 063 850 070 -722 386 0 13 498 747<ujsor/>
-FORRÁSOK (passzívák) Átvevõ társaság Beolvadó társaság Különbözet Rendezés Beolvadással<ujsor/>
- vagyona könyv vagyona piaci  (saját tõke) létrejövõ<ujsor/>
- szerinti értéken értéken   társaság vagyona<ujsor/>
-D) Saját tõke 2 575 284 843 697 0  3 418 981<ujsor/>
-I. Jegyzett tõke 48 000 3 000   51 000<ujsor/>
-III. Tõketartalék 4 513 17   4 530<ujsor/>
-IV. Eredménytartalék 2 522 771 840 680   3 363 451<ujsor/>
-E) Céltartalék 0 0 0 0 0<ujsor/>
-F) Kötelezettségek 10 122 187 5 973 -722 386 0 9 405 774<ujsor/>
-I. Hosszú lejáratú kötelezettségek 0 0 0 0 0<ujsor/>
-II. Rövid lejáratú kötelezettségek 10 122 187 5 973 -722 386 0 9 405 774<ujsor/>
-G) Passzív idõbeli elhatárolások 673 592 400 0 0 673 992<ujsor/>
-ÖSSZESEN: 13 371 063 850 070 -722 386 0 13 498 747<ujsor/>
-Felhívjuk az átalakulás alatt álló társaságok hitelezõit, akiknek az átalakuló gazdasági társaságokkal szemben fennálló, le nem járt követelései az átalakulásról hozott döntés elsõ közzétételét megelõzõen keletkeztek, hogy követeléseik erejéig az átalakuló gazdasági társaságtól a döntés második közzétételét követõ harmincnapos jogvesztõ határidõn belül biztosítékot követelhetnek.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">A BASF Agro Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ Kft. (1034 Budapest, SeregÃ©ly u. 1-5.; cÃ©gjegyzÃ©kszÃ¡m: [01 09 267870]) mint beolvadÃ³ tÃ¡rsasÃ¡g Ã©s BASF HungÃ¡ria VegyiÃ¡ru Ã©s KiegÃ©szÃ­tÅ‘ TermÃ©k, BerendezÃ©s- Ã©s SzolgÃ¡ltatÃ¡s Kereskedelmi Kft. (1034 Budapest, SeregÃ©ly u. 1-5.; cÃ©gjegyzÃ©kszÃ¡m: [01 09 077596]) mint Ã¡tvevÅ‘ tÃ¡rsasÃ¡g, 2001. szeptember 12-i taggyÅ±lÃ©si hatÃ¡rozatukkal elhatÃ¡roztÃ¡k a tÃ¡rsasÃ¡gok<ujsor/>
+egyesÃ¼lÃ©sÃ©t.<ujsor/>
+Az egyesÃ¼lÃ©s a beolvadÃ³ tÃ¡rsasÃ¡gnak az Ã¡tvevÅ‘ tÃ¡rsasÃ¡gba tÃ¶rtÃ©nÅ‘ beolvadÃ¡sÃ¡val valÃ³sul meg. A beolvadÃ¡ssal a beolvadÃ³ tÃ¡rsasÃ¡g Ã¡ltalÃ¡nos jogutÃ³dja a BASF HungÃ¡ria VegyiÃ¡ru Ã©s KiegÃ©szÃ­tÅ‘ TermÃ©k, BerendezÃ©s- Ã©s SzolgÃ¡ltatÃ¡s Kereskedelmi Kft. (1034 Budapest, SeregÃ©ly u. 1-5.), Ã¡tvevÅ‘ tÃ¡rsasÃ¡g lesz.<ujsor/>
+A tÃ¡rsasÃ¡g cÃ©gneve: BASF HungÃ¡ria VegyiÃ¡ru Ã©s KiegÃ©szÃ­tÅ‘ TermÃ©k, BerendezÃ©s- Ã©s SzolgÃ¡ltatÃ¡s Kereskedelmi Kft.<ujsor/>
+SzÃ©khelye: 1034 Budapest, SeregÃ©ly u. 1-5.<ujsor/>
+ÃœgyvezetÅ‘je: Rainer Hug (D-67133 Maxdorf, WÃ¶hlerstrasse 34. NÃ©metorszÃ¡g).<ujsor/>
+CÃ©gjegyzÃ©s mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+TevÃ©kenysÃ©gi kÃ¶re: 2415 MÅ±trÃ¡gya, nitrogÃ©nvegyÃ¼let gyÃ¡rtÃ¡sa; 2420 MezÅ‘gazdasÃ¡gi vegyi termÃ©k gyÃ¡rtÃ¡sa; 5112 Alapanyag, Ã¼zemanyag Ã¼gynÃ¶ki nagykereskedelem; 5118 MÃ¡shova nem sorolt termÃ©k Ã¼gynÃ¶ki nagykereskedelme; 5119 Vegyes termÃ©kkÃ¶rÅ± Ã¼gynÃ¶ki nagykereskedelem; 5146 GyÃ³gyszer, gyÃ³gyÃ¡szati termÃ©k nagykereskedelme; 5147 EgyÃ©b fogyasztÃ¡si cikk nagykereskedelme; 5155 Vegyi Ã¡ru nagykereskedelme; 5164 IrodagÃ©p, -berendezÃ©s nagykereskedelme; 5170 EgyÃ©b nagykereskedelem; 7413 Piac- Ã©s kÃ¶zvÃ©lemÃ©ny-kutatÃ¡s; 7414 Ãœzletviteli tanÃ¡csadÃ¡s; 7484 MÃ¡shova nem sorolt, egyÃ©b gazdasÃ¡gi tevÃ©kenysÃ©get segÃ­tÅ‘ szolgÃ¡ltatÃ¡s.<ujsor/>
+A mÃ³dosÃ­tott, egysÃ©ges szerkezetbe foglalt tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s elfogadÃ¡sÃ¡nak napja: 2001. szeptember 12.<ujsor/>
+Az egyesÃ¼lÅ‘ tÃ¡rsasÃ¡gok fÅ‘bb adatai a 2001. jÃºlius 31-i fordulÃ³nappal kÃ©szÃ­tett vagyonmÃ©rleg-tervezet szerint (E Ft-ban):<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) ÃtvevÅ‘ tÃ¡rsasÃ¡g BeolvadÃ³ tÃ¡rsasÃ¡g KÃ¼lÃ¶nbÃ¶zet RendezÃ©s BeolvadÃ¡ssal<ujsor/>
+ vagyona kÃ¶nyv vagyona piaci  (sajÃ¡t tÅ‘ke) lÃ©trejÃ¶vÅ‘<ujsor/>
+ szerinti Ã©rtÃ©ken Ã©rtÃ©ken   tÃ¡rsasÃ¡g vagyona<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 135 194 0 0 0 135 194<ujsor/>
+I. ImmateriÃ¡lis javak 9 315  0 0 9 315<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 66 441 0 0 0 66 441<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 59 438 0 0 0 59 438<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 13 235 720 850 070 -722 386 0 13 363 404<ujsor/>
+I. KÃ©szletek 2 661 331 0 0 0 2 661 331<ujsor/>
+II. KÃ¶vetelÃ©sek 10 573 298 826 446 -722 386 0 10 677 358<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 0 0 0 0<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 1 091 23 624 0 0 24 715<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 149 0 0 0 149<ujsor/>
+Ã–SSZESEN: 13 371 063 850 070 -722 386 0 13 498 747<ujsor/>
+FORRÃSOK (passzÃ­vÃ¡k) ÃtvevÅ‘ tÃ¡rsasÃ¡g BeolvadÃ³ tÃ¡rsasÃ¡g KÃ¼lÃ¶nbÃ¶zet RendezÃ©s BeolvadÃ¡ssal<ujsor/>
+ vagyona kÃ¶nyv vagyona piaci  (sajÃ¡t tÅ‘ke) lÃ©trejÃ¶vÅ‘<ujsor/>
+ szerinti Ã©rtÃ©ken Ã©rtÃ©ken   tÃ¡rsasÃ¡g vagyona<ujsor/>
+D) SajÃ¡t tÅ‘ke 2 575 284 843 697 0  3 418 981<ujsor/>
+I. Jegyzett tÅ‘ke 48 000 3 000   51 000<ujsor/>
+III. TÅ‘ketartalÃ©k 4 513 17   4 530<ujsor/>
+IV. EredmÃ©nytartalÃ©k 2 522 771 840 680   3 363 451<ujsor/>
+E) CÃ©ltartalÃ©k 0 0 0 0 0<ujsor/>
+F) KÃ¶telezettsÃ©gek 10 122 187 5 973 -722 386 0 9 405 774<ujsor/>
+I. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0 0 0 0 0<ujsor/>
+II. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 10 122 187 5 973 -722 386 0 9 405 774<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 673 592 400 0 0 673 992<ujsor/>
+Ã–SSZESEN: 13 371 063 850 070 -722 386 0 13 498 747<ujsor/>
+FelhÃ­vjuk az Ã¡talakulÃ¡s alatt Ã¡llÃ³ tÃ¡rsasÃ¡gok hitelezÅ‘it, akiknek az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gokkal szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei az Ã¡talakulÃ¡srÃ³l hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, hogy kÃ¶vetelÃ©seik erejÃ©ig az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gtÃ³l a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109077596</mezo>
-<mezo id = "nev">BASF Hungária Vegyiáru és Kiegészitõ Termék, Berendezés- és Szolgáltatás Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">BASF HungÃ¡ria VegyiÃ¡ru Ã©s KiegÃ©szitÅ‘ TermÃ©k, BerendezÃ©s- Ã©s SzolgÃ¡ltatÃ¡s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság által nyilvántartásba vett, 1132 Budapest, Váci út 30. (BC30 Irodaház) szám alatti székhelyû BASF Hungária Vegyiáru és Kiegészítõ Termék, Berendezés- és Szolgáltatás Kereskedelmi Korlátolt Felelõsségû Társaság (Cg.: [01 09 077569]) és a Fõvárosi Bíróság mint Cégbíróság által nyilvántartásba vett, 1222 Budapest, Háros u. 11. szám alatti székhelyû BASF Építõkémia Hungária Korlátolt Felelõsségû Társaság (Cg.: [01 09 365243])<ujsor/>
-egyesül.<ujsor/>
-Az egyesülés módja: beolvadás, oly módon, hogy a BASF Építõkémia Hungária Korlátolt Felelõsségû Társaság mint beolvadó társaság beolvad a BASF Hungária Vegyiáru és Kiegészítõ Termék, Berendezés- és Szolgáltató Kereskedelmi Korlátolt Felelõsségû Társaságba mint átvevõ társaságba.<ujsor/>
-A létrejövõ gazdasági társaság formája az átvevõ társaság társasági formájával megegyezõ: korlátolt felelõsségû társaság.<ujsor/>
-A létrejövõ gazdasági társaság cégneve az átvevõ társaság cégnevével megegyezõ: BASF Hungária Vegyiáru és Kiegészítõ Termék, Berendezés- és Szolgáltatás Kereskedelmi Korlátolt Felelõsségû Társaság.<ujsor/>
-A cég rövidített elnevezése: BASF Hungária Kft.<ujsor/>
-A cég idegen nyelvû elnevezése, idegen nyelvû rövidített elnevezése: BASF Hungária Handelsgesellschaft für Chemische Waren und Verwandte Produkten und Dienstleistungen mit beschränkter Haftung, BASF Hungária GmbH.<ujsor/>
-A létrejövõ társaság székhelye az átvevõ társaság székhelyével megegyezõ: 1132 Budapest, Váci út 30. (BC30 Irodaház).<ujsor/>
-A létrejövõ gazdasági társaság alapító okirata keltének napja: 2007. október 2.<ujsor/>
-Az egyesülõ társaságok vagyonmérleg-tervezetének fordulónapja: 2007. július 31.<ujsor/>
-Az átalakuló és létrejövõ társaságok vagyonmérleg-tervezetének legfontosabb adatai (fordulónap: 2007. július 31.):<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g Ã¡ltal nyilvÃ¡ntartÃ¡sba vett, 1132 Budapest, VÃ¡ci Ãºt 30. (BC30 IrodahÃ¡z) szÃ¡m alatti szÃ©khelyÅ± BASF HungÃ¡ria VegyiÃ¡ru Ã©s KiegÃ©szÃ­tÅ‘ TermÃ©k, BerendezÃ©s- Ã©s SzolgÃ¡ltatÃ¡s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [01 09 077569]) Ã©s a FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g Ã¡ltal nyilvÃ¡ntartÃ¡sba vett, 1222 Budapest, HÃ¡ros u. 11. szÃ¡m alatti szÃ©khelyÅ± BASF Ã‰pÃ­tÅ‘kÃ©mia HungÃ¡ria KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [01 09 365243])<ujsor/>
+egyesÃ¼l.<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: beolvadÃ¡s, oly mÃ³don, hogy a BASF Ã‰pÃ­tÅ‘kÃ©mia HungÃ¡ria KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g mint beolvadÃ³ tÃ¡rsasÃ¡g beolvad a BASF HungÃ¡ria VegyiÃ¡ru Ã©s KiegÃ©szÃ­tÅ‘ TermÃ©k, BerendezÃ©s- Ã©s SzolgÃ¡ltatÃ³ Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gba mint Ã¡tvevÅ‘ tÃ¡rsasÃ¡gba.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g formÃ¡ja az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g tÃ¡rsasÃ¡gi formÃ¡jÃ¡val megegyezÅ‘: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g cÃ©gneve az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g cÃ©gnevÃ©vel megegyezÅ‘: BASF HungÃ¡ria VegyiÃ¡ru Ã©s KiegÃ©szÃ­tÅ‘ TermÃ©k, BerendezÃ©s- Ã©s SzolgÃ¡ltatÃ¡s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+A cÃ©g rÃ¶vidÃ­tett elnevezÃ©se: BASF HungÃ¡ria Kft.<ujsor/>
+A cÃ©g idegen nyelvÅ± elnevezÃ©se, idegen nyelvÅ± rÃ¶vidÃ­tett elnevezÃ©se: BASF HungÃ¡ria Handelsgesellschaft fÃ¼r Chemische Waren und Verwandte Produkten und Dienstleistungen mit beschrÃ¤nkter Haftung, BASF HungÃ¡ria GmbH.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g szÃ©khelye az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g szÃ©khelyÃ©vel megegyezÅ‘: 1132 Budapest, VÃ¡ci Ãºt 30. (BC30 IrodahÃ¡z).<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g alapÃ­tÃ³ okirata keltÃ©nek napja: 2007. oktÃ³ber 2.<ujsor/>
+Az egyesÃ¼lÅ‘ tÃ¡rsasÃ¡gok vagyonmÃ©rleg-tervezetÃ©nek fordulÃ³napja: 2007. jÃºlius 31.<ujsor/>
+Az Ã¡talakulÃ³ Ã©s lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡gok vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai (fordulÃ³nap: 2007. jÃºlius 31.):<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK<ujsor/>
-Átvevõ társaság Beolvadó Különbözetek Rendezés Átalakulással<ujsor/>
-(záró)  társaság (záró)  (saját tõke) létrejövõ társaság (nyitó)<ujsor/>
-A) Befektetett eszközök 57 097 63 844 120 941<ujsor/>
-I. Immateriális javak 2 023 570 2 593<ujsor/>
-II. Tárgyi eszközök 38 586 63 144 101 730<ujsor/>
-III. Befektetett pénzügyi eszközök 16 488 130 16 618<ujsor/>
-B) Forgóeszközök 18 980 541 798 765 19 779 306<ujsor/>
-I. Készletek 675 155 219 776 894 931<ujsor/>
-II. Követelések 18 173 137 525 935 18 699 072<ujsor/>
-III. Értékpapírok 0 0<ujsor/>
-IV. Pénzeszközök 132 249 53 054 185 303<ujsor/>
-C) Aktív idõbeli elhatárolások 97 560 8 089 105 649<ujsor/>
-ÖSSZESEN: 19 135 198 870 698 0 0 20 005 896<ujsor/>
+ESZKÃ–ZÃ–K<ujsor/>
+ÃtvevÅ‘ tÃ¡rsasÃ¡g BeolvadÃ³ KÃ¼lÃ¶nbÃ¶zetek RendezÃ©s ÃtalakulÃ¡ssal<ujsor/>
+(zÃ¡rÃ³)  tÃ¡rsasÃ¡g (zÃ¡rÃ³)  (sajÃ¡t tÅ‘ke) lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g (nyitÃ³)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 57 097 63 844 120 941<ujsor/>
+I. ImmateriÃ¡lis javak 2 023 570 2 593<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 38 586 63 144 101 730<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 16 488 130 16 618<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 18 980 541 798 765 19 779 306<ujsor/>
+I. KÃ©szletek 675 155 219 776 894 931<ujsor/>
+II. KÃ¶vetelÃ©sek 18 173 137 525 935 18 699 072<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 0<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 132 249 53 054 185 303<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 97 560 8 089 105 649<ujsor/>
+Ã–SSZESEN: 19 135 198 870 698 0 0 20 005 896<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK<ujsor/>
-Átvevõ társaság Beolvadó Különbözetek Rendezés Átalakulással<ujsor/>
-(záró)  társaság (záró)  (saját tõke) létrejövõ társaság (nyitó)<ujsor/>
-D) Saját tõke 5 337 532 ­11 797 5 325 735<ujsor/>
-I. Jegyzett tõke 51 000 100 000 151 000<ujsor/>
-III. Tõketartalék 4 529 762 5 291<ujsor/>
-IV. Eredménytartalék 5 282 003 ­112 559 5 169 444<ujsor/>
-V. Lekötött tartalék<ujsor/>
-E) Céltartalékok ­ 2 177 2 177<ujsor/>
-F) Kötelezettségek 11 098 215 846 161 11 944 376<ujsor/>
-G) Passzív idõbeli elhatárolások 2 699 451 34 157 2 733 608<ujsor/>
-ÖSSZESEN: 19 135 198 870 698 0 0 20 005 896<ujsor/>
-A létrejövõ társaság fõ tevékenységi köre (TEÁOR ’03) az átvevõ társaság fõ tevékenységi körével megegyezõ: 6720 Biztosítást kiegészítõ tevékenység.<ujsor/>
-A létrejövõ társaság ügyvezetõje az átvevõ társaság ügyvezetõjével megegyezõ személy: dr. Stephan Kothrade (a. n.: Elisabeth Imbery; D­67117 Limburgerhof, Diedesheimer str. 8/B; megbizatásának idõtartama: 2006. február 1-jétõl 2010. február 1-jéig, kézbesítési meghatalmazott: dr. Pankotai Zoltán ügyvéd; Pankotai Ügyvédi Iroda; 1068 Budapest, Rippl-Rónai u. 12.).<ujsor/>
-A létrejövõ társaság képviseleti joggal felruházott munkavállalói az átvevõ társaság képviseleti joggal felruházott munkavállalójával megegyezõ személy: Nick Márton (a. n.: Mendi Anna; 2085 Pilisvörösvár, Piliscsabai u. 29.; megbízatásának idõtartama: 2005. január 1-jétõl 2010. január 1-jéig), Szõkéné Sasvári Eleonóra (a. n.: Nagy Ilona; 1221 Budapest, Ady Endre u. 147/C II. 2.; megbizatásának idõtartama: 2005. augusztus 1-jétõl 2010. augusztus 1-jéig).<ujsor/>
-Felhívjuk az egyesülõ társaságok hitelezõit, hogy követeléseiket a Gt. 76. § (2) bekezdése alapján a társaságoknak jelentsék be, ugyanis azok a hitelezõk, akiknek az átalakuló gazdasági társasággal szemben fennálló, le nem járt követelései az átalakulással hozott döntés elsõ közzétételét megelõzõen keletkeztek, követeléseik erejéig az átalakuló gazdasági társaságtól a döntés második közzétételét követõ 30 napos jogvesztõ határidõn belül biztosítékot követelhetnek.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+FORRÃSOK<ujsor/>
+ÃtvevÅ‘ tÃ¡rsasÃ¡g BeolvadÃ³ KÃ¼lÃ¶nbÃ¶zetek RendezÃ©s ÃtalakulÃ¡ssal<ujsor/>
+(zÃ¡rÃ³)  tÃ¡rsasÃ¡g (zÃ¡rÃ³)  (sajÃ¡t tÅ‘ke) lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g (nyitÃ³)<ujsor/>
+D) SajÃ¡t tÅ‘ke 5 337 532 Â­11 797 5 325 735<ujsor/>
+I. Jegyzett tÅ‘ke 51 000 100 000 151 000<ujsor/>
+III. TÅ‘ketartalÃ©k 4 529 762 5 291<ujsor/>
+IV. EredmÃ©nytartalÃ©k 5 282 003 Â­112 559 5 169 444<ujsor/>
+V. LekÃ¶tÃ¶tt tartalÃ©k<ujsor/>
+E) CÃ©ltartalÃ©kok Â­ 2 177 2 177<ujsor/>
+F) KÃ¶telezettsÃ©gek 11 098 215 846 161 11 944 376<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 2 699 451 34 157 2 733 608<ujsor/>
+Ã–SSZESEN: 19 135 198 870 698 0 0 20 005 896<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©gi kÃ¶re (TEÃOR â€™03) az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©gi kÃ¶rÃ©vel megegyezÅ‘: 6720 BiztosÃ­tÃ¡st kiegÃ©szÃ­tÅ‘ tevÃ©kenysÃ©g.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g Ã¼gyvezetÅ‘je az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g Ã¼gyvezetÅ‘jÃ©vel megegyezÅ‘ szemÃ©ly: dr. Stephan Kothrade (a. n.: Elisabeth Imbery; DÂ­67117 Limburgerhof, Diedesheimer str. 8/B; megbizatÃ¡sÃ¡nak idÅ‘tartama: 2006. februÃ¡r 1-jÃ©tÅ‘l 2010. februÃ¡r 1-jÃ©ig, kÃ©zbesÃ­tÃ©si meghatalmazott: dr. Pankotai ZoltÃ¡n Ã¼gyvÃ©d; Pankotai ÃœgyvÃ©di Iroda; 1068 Budapest, Rippl-RÃ³nai u. 12.).<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g kÃ©pviseleti joggal felruhÃ¡zott munkavÃ¡llalÃ³i az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g kÃ©pviseleti joggal felruhÃ¡zott munkavÃ¡llalÃ³jÃ¡val megegyezÅ‘ szemÃ©ly: Nick MÃ¡rton (a. n.: Mendi Anna; 2085 PilisvÃ¶rÃ¶svÃ¡r, Piliscsabai u. 29.; megbÃ­zatÃ¡sÃ¡nak idÅ‘tartama: 2005. januÃ¡r 1-jÃ©tÅ‘l 2010. januÃ¡r 1-jÃ©ig), SzÅ‘kÃ©nÃ© SasvÃ¡ri EleonÃ³ra (a. n.: Nagy Ilona; 1221 Budapest, Ady Endre u. 147/C II. 2.; megbizatÃ¡sÃ¡nak idÅ‘tartama: 2005. augusztus 1-jÃ©tÅ‘l 2010. augusztus 1-jÃ©ig).<ujsor/>
+FelhÃ­vjuk az egyesÃ¼lÅ‘ tÃ¡rsasÃ¡gok hitelezÅ‘it, hogy kÃ¶vetelÃ©seiket a Gt. 76. Â§ (2) bekezdÃ©se alapjÃ¡n a tÃ¡rsasÃ¡goknak jelentsÃ©k be, ugyanis azok a hitelezÅ‘k, akiknek az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei az Ã¡talakulÃ¡ssal hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gtÃ³l a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ 30 napos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109077596</mezo>
-<mezo id = "nev">BASF Hungária Vegyiáru és Kiegészitõ Termék, Berendezés- és Szolgáltatás Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">BASF HungÃ¡ria VegyiÃ¡ru Ã©s KiegÃ©szitÅ‘ TermÃ©k, BerendezÃ©s- Ã©s SzolgÃ¡ltatÃ¡s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1132 Budapest</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság által nyilvántartásba vett, 1132 Budapest, Váci út 30. (BC30 Irodaház) szám alatti székhelyû BASF Hungária Vegyiáru és Kiegészítõ Termék, Berendezés- és Szolgáltatás Kereskedelmi Korlátolt Felelõsségû Társaság (Cg.: [01 09 077569]) és a Fõvárosi Bíróság mint Cégbíróság által nyilvántartásba vett, 1222 Budapest, Háros u. 11. szám alatti székhelyû BASF Építõkémia Hungária Korlátolt Felelõsségû Társaság (Cg.: [01 09 365243]) egyesül.<ujsor/>
-Az egyesülés módja: beolvadás, oly módon, hogy a BASF Építõkémia Hungária Korlátolt Felelõsségû Társaság mint beolvadó társaság beolvad a BASF Hungária Vegyiáru és Kiegészítõ Termék, Berendezés- és Szolgáltató Kereskedelmi Korlátolt Felelõsségû Társaságba mint átvevõ társaságba.<ujsor/>
-A létrejövõ gazdasági társaság formája az átvevõ társaság társasági formájával megegyezõ: korlátolt felelõsségû társaság.<ujsor/>
-A létrejövõ gazdasági társaság cégneve az átvevõ társaság cégnevével megegyezõ: BASF Hungária Vegyiáru és Kiegészítõ Termék, Berendezés- és Szolgáltatás Kereskedelmi Korlátolt Felelõsségû Társaság.<ujsor/>
-A cég rövidített elnevezése: BASF Hungária Kft.<ujsor/>
-A cég idegen nyelvû elnevezése, idegen nyelvû rövidített elnevezése: BASF Hungária Handelsgesellschaft für Chemische Waren und Verwandte Produkten und Dienstleistungen mit beschränkter Haftung, BASF Hungária GmbH.<ujsor/>
-A létrejövõ társaság székhelye az átvevõ társaság székhelyével megegyezõ: 1132 Budapest, Váci út 30. (BC30 Irodaház).<ujsor/>
-A létrejövõ gazdasági társaság alapító okirata keltének napja: 2007. október 2.<ujsor/>
-Az egyesülõ társaságok vagyonmérleg-tervezetének fordulónapja: 2007. július 31.<ujsor/>
-Az átalakuló és létrejövõ társaságok vagyonmérleg-tervezetének legfontosabb adatai (fordulónap: 2007. július 31.):<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g Ã¡ltal nyilvÃ¡ntartÃ¡sba vett, 1132 Budapest, VÃ¡ci Ãºt 30. (BC30 IrodahÃ¡z) szÃ¡m alatti szÃ©khelyÅ± BASF HungÃ¡ria VegyiÃ¡ru Ã©s KiegÃ©szÃ­tÅ‘ TermÃ©k, BerendezÃ©s- Ã©s SzolgÃ¡ltatÃ¡s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [01 09 077569]) Ã©s a FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g Ã¡ltal nyilvÃ¡ntartÃ¡sba vett, 1222 Budapest, HÃ¡ros u. 11. szÃ¡m alatti szÃ©khelyÅ± BASF Ã‰pÃ­tÅ‘kÃ©mia HungÃ¡ria KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [01 09 365243]) egyesÃ¼l.<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: beolvadÃ¡s, oly mÃ³don, hogy a BASF Ã‰pÃ­tÅ‘kÃ©mia HungÃ¡ria KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g mint beolvadÃ³ tÃ¡rsasÃ¡g beolvad a BASF HungÃ¡ria VegyiÃ¡ru Ã©s KiegÃ©szÃ­tÅ‘ TermÃ©k, BerendezÃ©s- Ã©s SzolgÃ¡ltatÃ³ Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gba mint Ã¡tvevÅ‘ tÃ¡rsasÃ¡gba.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g formÃ¡ja az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g tÃ¡rsasÃ¡gi formÃ¡jÃ¡val megegyezÅ‘: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g cÃ©gneve az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g cÃ©gnevÃ©vel megegyezÅ‘: BASF HungÃ¡ria VegyiÃ¡ru Ã©s KiegÃ©szÃ­tÅ‘ TermÃ©k, BerendezÃ©s- Ã©s SzolgÃ¡ltatÃ¡s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+A cÃ©g rÃ¶vidÃ­tett elnevezÃ©se: BASF HungÃ¡ria Kft.<ujsor/>
+A cÃ©g idegen nyelvÅ± elnevezÃ©se, idegen nyelvÅ± rÃ¶vidÃ­tett elnevezÃ©se: BASF HungÃ¡ria Handelsgesellschaft fÃ¼r Chemische Waren und Verwandte Produkten und Dienstleistungen mit beschrÃ¤nkter Haftung, BASF HungÃ¡ria GmbH.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g szÃ©khelye az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g szÃ©khelyÃ©vel megegyezÅ‘: 1132 Budapest, VÃ¡ci Ãºt 30. (BC30 IrodahÃ¡z).<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g alapÃ­tÃ³ okirata keltÃ©nek napja: 2007. oktÃ³ber 2.<ujsor/>
+Az egyesÃ¼lÅ‘ tÃ¡rsasÃ¡gok vagyonmÃ©rleg-tervezetÃ©nek fordulÃ³napja: 2007. jÃºlius 31.<ujsor/>
+Az Ã¡talakulÃ³ Ã©s lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡gok vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai (fordulÃ³nap: 2007. jÃºlius 31.):<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK<ujsor/>
-Átvevõ társaság Beolvadó Különbözetek Rendezés Átalakulással<ujsor/>
-(záró)  társaság (záró)  (saját tõke) létrejövõ társaság (nyitó)<ujsor/>
-A) Befektetett eszközök 57 097 63 844 120 941<ujsor/>
-I. Immateriális javak 2 023 570 2 593<ujsor/>
-II. Tárgyi eszközök 38 586 63 144 101 730<ujsor/>
-III. Befektetett pénzügyi eszközök 16 488 130 16 618<ujsor/>
-B) Forgóeszközök 18 980 541 798 765 19 779 306<ujsor/>
-I. Készletek 675 155 219 776 894 931<ujsor/>
-II. Követelések 18 173 137 525 935 18 699 072<ujsor/>
-III. Értékpapírok 0 0<ujsor/>
-IV. Pénzeszközök 132 249 53 054 185 303<ujsor/>
-C) Aktív idõbeli elhatárolások 97 560 8 089 105 649<ujsor/>
-ÖSSZESEN: 19 135 198 870 698 0 0 20 005 896<ujsor/>
+ESZKÃ–ZÃ–K<ujsor/>
+ÃtvevÅ‘ tÃ¡rsasÃ¡g BeolvadÃ³ KÃ¼lÃ¶nbÃ¶zetek RendezÃ©s ÃtalakulÃ¡ssal<ujsor/>
+(zÃ¡rÃ³)  tÃ¡rsasÃ¡g (zÃ¡rÃ³)  (sajÃ¡t tÅ‘ke) lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g (nyitÃ³)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 57 097 63 844 120 941<ujsor/>
+I. ImmateriÃ¡lis javak 2 023 570 2 593<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 38 586 63 144 101 730<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 16 488 130 16 618<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 18 980 541 798 765 19 779 306<ujsor/>
+I. KÃ©szletek 675 155 219 776 894 931<ujsor/>
+II. KÃ¶vetelÃ©sek 18 173 137 525 935 18 699 072<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 0<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 132 249 53 054 185 303<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 97 560 8 089 105 649<ujsor/>
+Ã–SSZESEN: 19 135 198 870 698 0 0 20 005 896<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK<ujsor/>
-Átvevõ társaság Beolvadó Különbözetek Rendezés Átalakulással<ujsor/>
-(záró)  társaság (záró)  (saját tõke) létrejövõ társaság (nyitó)<ujsor/>
-D) Saját tõke 5 337 532 ­11 797 5 325 735<ujsor/>
-I. Jegyzett tõke 51 000 100 000 151 000<ujsor/>
-III. Tõketartalék 4 529 762 5 291<ujsor/>
-IV. Eredménytartalék 5 282 003 ­112 559 5 169 444<ujsor/>
-V. Lekötött tartalék<ujsor/>
-E) Céltartalékok ­ 2 177 2 177<ujsor/>
-F) Kötelezettségek 11 098 215 846 161 11 944 376<ujsor/>
-G) Passzív idõbeli elhatárolások 2 699 451 34 157 2 733 608<ujsor/>
-ÖSSZESEN: 19 135 198 870 698 0 0 20 005 896<ujsor/>
-A létrejövõ társaság fõ tevékenységi köre (TEÁOR ’03) az átvevõ társaság fõ tevékenységi körével megegyezõ: 6720 Biztosítást kiegészítõ tevékenység.<ujsor/>
-A létrejövõ társaság ügyvezetõje az átvevõ társaság ügyvezetõjével megegyezõ személy: dr. Stephan Kothrade (a. n.: Elisabeth Imbery; D­67117 Limburgerhof, Diedesheimer str. 8/B; megbizatásának idõtartama: 2006. február 1-jétõl 2010. február 1-jéig, kézbesítési meghatalmazott: dr. Pankotai Zoltán ügyvéd; Pankotai Ügyvédi Iroda; 1068 Budapest, Rippl-Rónai u. 12.).<ujsor/>
-A létrejövõ társaság képviseleti joggal felruházott munkavállalói az átvevõ társaság képviseleti joggal felruházott munkavállalójával megegyezõ személy: Nick Márton (a. n.: Mendi Anna; 2085 Pilisvörösvár, Piliscsabai u. 29.; megbízatásának idõtartama: 2005. január 1-jétõl 2010. január 1-jéig), Szõkéné Sasvári Eleonóra (a. n.: Nagy Ilona; 1221 Budapest, Ady Endre u. 147/C II. 2.; megbizatásának idõtartama: 2005. augusztus 1-jétõl 2010. augusztus 1-jéig).<ujsor/>
-Felhívjuk az egyesülõ társaságok hitelezõit, hogy követeléseiket a Gt. 76. § (2) bekezdése alapján a társaságoknak jelentsék be, ugyanis azok a hitelezõk, akiknek az átalakuló gazdasági társasággal szemben fennálló, le nem járt követelései az átalakulással hozott döntés elsõ közzétételét megelõzõen keletkeztek, követeléseik erejéig az átalakuló gazdasági társaságtól a döntés második közzétételét követõ 30 napos jogvesztõ határidõn belül biztosítékot követelhetnek.<ujsor/>
-(Második közzététel.)<ujsor/>
+FORRÃSOK<ujsor/>
+ÃtvevÅ‘ tÃ¡rsasÃ¡g BeolvadÃ³ KÃ¼lÃ¶nbÃ¶zetek RendezÃ©s ÃtalakulÃ¡ssal<ujsor/>
+(zÃ¡rÃ³)  tÃ¡rsasÃ¡g (zÃ¡rÃ³)  (sajÃ¡t tÅ‘ke) lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g (nyitÃ³)<ujsor/>
+D) SajÃ¡t tÅ‘ke 5 337 532 Â­11 797 5 325 735<ujsor/>
+I. Jegyzett tÅ‘ke 51 000 100 000 151 000<ujsor/>
+III. TÅ‘ketartalÃ©k 4 529 762 5 291<ujsor/>
+IV. EredmÃ©nytartalÃ©k 5 282 003 Â­112 559 5 169 444<ujsor/>
+V. LekÃ¶tÃ¶tt tartalÃ©k<ujsor/>
+E) CÃ©ltartalÃ©kok Â­ 2 177 2 177<ujsor/>
+F) KÃ¶telezettsÃ©gek 11 098 215 846 161 11 944 376<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 2 699 451 34 157 2 733 608<ujsor/>
+Ã–SSZESEN: 19 135 198 870 698 0 0 20 005 896<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©gi kÃ¶re (TEÃOR â€™03) az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©gi kÃ¶rÃ©vel megegyezÅ‘: 6720 BiztosÃ­tÃ¡st kiegÃ©szÃ­tÅ‘ tevÃ©kenysÃ©g.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g Ã¼gyvezetÅ‘je az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g Ã¼gyvezetÅ‘jÃ©vel megegyezÅ‘ szemÃ©ly: dr. Stephan Kothrade (a. n.: Elisabeth Imbery; DÂ­67117 Limburgerhof, Diedesheimer str. 8/B; megbizatÃ¡sÃ¡nak idÅ‘tartama: 2006. februÃ¡r 1-jÃ©tÅ‘l 2010. februÃ¡r 1-jÃ©ig, kÃ©zbesÃ­tÃ©si meghatalmazott: dr. Pankotai ZoltÃ¡n Ã¼gyvÃ©d; Pankotai ÃœgyvÃ©di Iroda; 1068 Budapest, Rippl-RÃ³nai u. 12.).<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g kÃ©pviseleti joggal felruhÃ¡zott munkavÃ¡llalÃ³i az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g kÃ©pviseleti joggal felruhÃ¡zott munkavÃ¡llalÃ³jÃ¡val megegyezÅ‘ szemÃ©ly: Nick MÃ¡rton (a. n.: Mendi Anna; 2085 PilisvÃ¶rÃ¶svÃ¡r, Piliscsabai u. 29.; megbÃ­zatÃ¡sÃ¡nak idÅ‘tartama: 2005. januÃ¡r 1-jÃ©tÅ‘l 2010. januÃ¡r 1-jÃ©ig), SzÅ‘kÃ©nÃ© SasvÃ¡ri EleonÃ³ra (a. n.: Nagy Ilona; 1221 Budapest, Ady Endre u. 147/C II. 2.; megbizatÃ¡sÃ¡nak idÅ‘tartama: 2005. augusztus 1-jÃ©tÅ‘l 2010. augusztus 1-jÃ©ig).<ujsor/>
+FelhÃ­vjuk az egyesÃ¼lÅ‘ tÃ¡rsasÃ¡gok hitelezÅ‘it, hogy kÃ¶vetelÃ©seiket a Gt. 76. Â§ (2) bekezdÃ©se alapjÃ¡n a tÃ¡rsasÃ¡goknak jelentsÃ©k be, ugyanis azok a hitelezÅ‘k, akiknek az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei az Ã¡talakulÃ¡ssal hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gtÃ³l a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ 30 napos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109077596</mezo>
-<mezo id = "nev">BASF Hungária Vegyiáru és Kiegészitõ Termék, Berendezés- és Szolgáltatás Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">BASF HungÃ¡ria VegyiÃ¡ru Ã©s KiegÃ©szitÅ‘ TermÃ©k, BerendezÃ©s- Ã©s SzolgÃ¡ltatÃ¡s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1132 Budapest</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság a Cg.01-09-077596 cégjegyzékszámon bejegyzett BASF Hungária Vegyiáru és Kiegészitõ Termék, Berendezés- és Szolgáltatás Kereskedelmi Korlátolt Felelõsségû Társaság (1132 Budapest, Váci út 30.; adószáma: 10579194-2-44) kérelme alapján elrendeli az 2009. október 6. napján hozott Cg.01-09-077596 /122. számú végzésének kijavítását az alábbiak szerint:<ujsor/>
-13. A képviseletre jogosult(ak) adatai<ujsor/>
-A képviselet módja: együttes.<ujsor/>
-Nick Márton más munkavállaló (an.: Mendi Anna)<ujsor/>
-2085 Pilisvörösvár, Piliscsabai u 29.<ujsor/>
-Jogv. kezdete: 2005.01.01. Jogv. vége: 2010.01.01.<ujsor/>
-Vált. vége: 2009.09.21.<ujsor/>
-Törölve (végzés kelte): 2009. október 20.<ujsor/>
-E végzés ellen fellebbezésnek nincs helye, azonban az ügyész, továbbá az, akire a végzés rendelkezést tartalmaz - a rendelkezés õt érintõ részére vonatkozóan - pert indíthat a cég ellen a cég székhelye szerint illetékes megyei bíróság elõtt a bejegyzõ végzés hatályon kívül helyezése iránt.<ujsor/>
-A per megindításának a bejegyzõ végzés Cégközlönyben való közzétételétõl, illetve - közzétételi kötelezettség hiányában - annak kézbesítésétõl számított 30 napon belül van helye. A határidõ elmulasztása jogvesztéssel jár.<ujsor/>
-2009. október 20.<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.01-09-077596 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett BASF HungÃ¡ria VegyiÃ¡ru Ã©s KiegÃ©szitÅ‘ TermÃ©k, BerendezÃ©s- Ã©s SzolgÃ¡ltatÃ¡s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (1132 Budapest, VÃ¡ci Ãºt 30.; adÃ³szÃ¡ma: 10579194-2-44) kÃ©relme alapjÃ¡n elrendeli az 2009. oktÃ³ber 6. napjÃ¡n hozott Cg.01-09-077596 /122. szÃ¡mÃº vÃ©gzÃ©sÃ©nek kijavÃ­tÃ¡sÃ¡t az alÃ¡bbiak szerint:<ujsor/>
+13. A kÃ©pviseletre jogosult(ak) adatai<ujsor/>
+A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+Nick MÃ¡rton mÃ¡s munkavÃ¡llalÃ³ (an.: Mendi Anna)<ujsor/>
+2085 PilisvÃ¶rÃ¶svÃ¡r, Piliscsabai u 29.<ujsor/>
+Jogv. kezdete: 2005.01.01. Jogv. vÃ©ge: 2010.01.01.<ujsor/>
+VÃ¡lt. vÃ©ge: 2009.09.21.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2009. oktÃ³ber 20.<ujsor/>
+E vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye, azonban az Ã¼gyÃ©sz, tovÃ¡bbÃ¡ az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s Å‘t Ã©rintÅ‘ rÃ©szÃ©re vonatkozÃ³an - pert indÃ­that a cÃ©g ellen a cÃ©g szÃ©khelye szerint illetÃ©kes megyei bÃ­rÃ³sÃ¡g elÅ‘tt a bejegyzÅ‘ vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt.<ujsor/>
+A per megindÃ­tÃ¡sÃ¡nak a bejegyzÅ‘ vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l, illetve - kÃ¶zzÃ©tÃ©teli kÃ¶telezettsÃ©g hiÃ¡nyÃ¡ban - annak kÃ©zbesÃ­tÃ©sÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l van helye. A hatÃ¡ridÅ‘ elmulasztÃ¡sa jogvesztÃ©ssel jÃ¡r.<ujsor/>
+2009. oktÃ³ber 20.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109077596</mezo>
-<mezo id = "nev">BASF Hungária Vegyiáru és Kiegészitõ Termék, Berendezés- és Szolgáltatás Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1132 Budapest, Váci út 30.</mezo>
+<mezo id = "nev">BASF HungÃ¡ria VegyiÃ¡ru Ã©s KiegÃ©szitÅ‘ TermÃ©k, BerendezÃ©s- Ã©s SzolgÃ¡ltatÃ¡s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1132 Budapest, VÃ¡ci Ãºt 30.</mezo>
 <mezo id = "adosz">10579194244</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A BASF Hungária Vegyiáru és Kiegészítõ Termék, Berendezés- és Szolgáltatás Kereskedelmi Korlátolt Felelõsségû Társaság (a továbbiakban: átvevõ társaság), valamint a Ciba Central Eastern Europe Szolgáltató, Tanácsadó és Kereskedelmi Korlátolt Felelõsségû Társaság (a továbbiakban: beolvadó társaság) 2009. november 2-án kelt határozatával elhatározta, hogy egyesül egymással.<ujsor/>
-Az egyesülés módja: beolvadás, amely során a beolvadó gazdasági társaság megszûnik, és annak vagyona az átvevõ gazdasági társaságra mint jogutódra száll át, amelynek gazdasági formája változatlan marad.<ujsor/>
-Beolvadó társaság cégneve: Ciba Central Eastern Europe Szolgáltató, Tanácsadó és Kereskedelmi Korlátolt Felelõsségû Társaság.<ujsor/>
-Cégjegyzékszám: [01 09 926940].<ujsor/>
-Székhelye: 1132 Budapest, Váci út 30.<ujsor/>
-Központi ügyintézés helye: 2040 Budaörs, Edison u. 2.<ujsor/>
-Átvevõ társaság cégneve: BASF Hungária Vegyiáru és Kiegészítõ Termék, Berendezés- és Szolgáltatás Kereskedelmi Korlátolt Felelõsségû Társaság.<ujsor/>
-Cégjegyzékszám: [01 09 077596].<ujsor/>
-Székhelye: 1132 Budapest, Váci út 30.<ujsor/>
-Létrejövõ társaság formája: korlátolt felelõsségû társaság.<ujsor/>
-Cégneve: BASF Hungária Vegyiáru és Kiegészítõ Termék, Berendezés- és Szolgáltatás Kereskedelmi Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhelye: 1132 Budapest, Váci út 30.<ujsor/>
-Létrejövõ társaság társasági szerzõdése megkötésének (módosításának) napja: 2009. november 2.<ujsor/>
-Az átalakuló és a létrejövõ gazdasági társaság(ok) vagyonmérleg-tervezetének legfontosabb adatai):<ujsor/>
-Beolvadó társaság (záró):<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-A) Befektetett eszközök 505 790 D) Saját tõke 42 969<ujsor/>
-I. Immateriális javak 332 122 I. Jegyzett tõke 7 000<ujsor/>
-II. Tárgyi eszközök 173 668 II. Jegyzett, de még be nem fizetett tõke 0<ujsor/>
-III. Befektetett pénzügyi eszközök 0 III. Tõketartalék 2 613<ujsor/>
-B) Forgóeszközök 6 199 204 IV. Eredménytartalék 33 356<ujsor/>
-I. Készletek 480 999 V. Lekötött tartalék 0<ujsor/>
-II. Követelések 5 099 317 VI. Értékelési tartalék 0<ujsor/>
-III. Értékpapírok 0 E) Céltartalékok 59 212<ujsor/>
-IV. Pénzeszközök 618 888 F) Kötelezettségek 6 189 148<ujsor/>
-C) Aktív idõbeli elhatárolások 0 I. Hátra sorolt kötelezettségek 0<ujsor/>
-II. Hosszú lejáratú kötelezettségek 0<ujsor/>
-III. Rövid lejáratú kötelezettségek 6 189 148<ujsor/>
-G) Passzív idõbeli elhatárolások 413 665<ujsor/>
-ÖSSZESEN: 6 704 994 ÖSSZESEN: 6 704 994<ujsor/>
-Átvevõ társaság (záró):<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-A) Befektetett eszközök 111 490 D) Saját tõke 6 045 991<ujsor/>
-I. Immateriális javak 884 I. Jegyzett tõke 151 000<ujsor/>
-II. Tárgyi eszközök 98 016 II. Jegyzett, de még be nem fizetett tõke 0<ujsor/>
-III. Befektetett pénzügyi eszközök 12 590 III. Tõketartalék 5 291<ujsor/>
-B) Forgóeszközök 24 828 803 IV. Eredménytartalék 5 889 700<ujsor/>
-I. Készletek 979 625 V. Lekötött tartalék 0<ujsor/>
-II. Követelések 23 707 200 VI. Értékelési tartalék 0<ujsor/>
-III. Értékpapírok 0 E) Céltartalékok 408<ujsor/>
-IV. Pénzeszközök 141 978 F) Kötelezettségek 15 286 493<ujsor/>
-C) Aktív idõbeli elhatárolások 26 303 I. Hátra sorolt kötelezettségek 0<ujsor/>
-II. Hosszú lejáratú kötelezettségek 0<ujsor/>
-III. Rövid lejáratú kötelezettségek 15 286 493<ujsor/>
-G) Passzív idõbeli elhatárolások 3 633 704<ujsor/>
-ÖSSZESEN: 24 966 596 ÖSSZESEN: 24 966 596<ujsor/>
-Létrejövõ társaság (nyitó):<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-A) Befektetett eszközök 617 280 D) Saját tõke 6 088 960<ujsor/>
-I. Immateriális javak 333 006 I. Jegyzett tõke 158 000<ujsor/>
-II. Tárgyi eszközök 271 684 II. Jegyzett, de még be nem fizetett tõke 0<ujsor/>
-III. Befektetett pénzügyi eszközök 12 590 III. Tõketartalék 7 904<ujsor/>
-B) Forgóeszközök 31 028 007 IV. Eredménytartalék 5 923 056<ujsor/>
-I. Készletek 1 460 624 V. Lekötött tartalék 0<ujsor/>
-II. Követelések 28 806 517 VI. Értékelési tartalék 0<ujsor/>
-III. Értékpapírok 0 VII. Mérleg szerinti eredmény 0<ujsor/>
-IV. Pénzeszközök 760 866 E) Céltartalékok 59 620<ujsor/>
-C) Aktív idõbeli elhatárolások 26 303 F) Kötelezettségek 21 475 641<ujsor/>
-I. Hátra sorolt kötelezettségek 0<ujsor/>
-II. Hosszú lejáratú kötelezettségek 0<ujsor/>
-III. Rövid lejáratú kötelezettségek 21 475 641<ujsor/>
-G) Passzív idõbeli elhatárolások 4 047 369<ujsor/>
-ÖSSZESEN: 31 671 590 ÖSSZESEN: 31 671 590<ujsor/>
-A beolvadás idõpontja [Gt. 74. § (6) bekezdés, Ctv. 57. § (2) bekezdés]: 2010. január 1.<ujsor/>
-A létrejövõ társaság fõ tevékenysége: Vegyiáru nagykereskedelme.<ujsor/>
-Vezetõ tisztségviselõje: dr. Herbert Martin Fisch (DE­67157 Wachenheim, In der Eselsweide 8.).<ujsor/>
-A Gt. 76. § (3) bekezdése alapján a társaság hitelezõi nem élhetnek a Gt. 76. § (2) bekezdésében foglalt biztosítékkérési jogukkal, mivel az átalakuló társaság tagjának felelõssége a társaság fennállása alatt korlátozott és az átalakulás során a jogutód társaság tõkéje nem kevesebb, mint a jogelõd társaságé volt az átalakulás elhatározásakor.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">A BASF HungÃ¡ria VegyiÃ¡ru Ã©s KiegÃ©szÃ­tÅ‘ TermÃ©k, BerendezÃ©s- Ã©s SzolgÃ¡ltatÃ¡s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (a tovÃ¡bbiakban: Ã¡tvevÅ‘ tÃ¡rsasÃ¡g), valamint a Ciba Central Eastern Europe SzolgÃ¡ltatÃ³, TanÃ¡csadÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (a tovÃ¡bbiakban: beolvadÃ³ tÃ¡rsasÃ¡g) 2009. november 2-Ã¡n kelt hatÃ¡rozatÃ¡val elhatÃ¡rozta, hogy egyesÃ¼l egymÃ¡ssal.<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: beolvadÃ¡s, amely sorÃ¡n a beolvadÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g megszÅ±nik, Ã©s annak vagyona az Ã¡tvevÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡gra mint jogutÃ³dra szÃ¡ll Ã¡t, amelynek gazdasÃ¡gi formÃ¡ja vÃ¡ltozatlan marad.<ujsor/>
+BeolvadÃ³ tÃ¡rsasÃ¡g cÃ©gneve: Ciba Central Eastern Europe SzolgÃ¡ltatÃ³, TanÃ¡csadÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡m: [01 09 926940].<ujsor/>
+SzÃ©khelye: 1132 Budapest, VÃ¡ci Ãºt 30.<ujsor/>
+KÃ¶zponti Ã¼gyintÃ©zÃ©s helye: 2040 BudaÃ¶rs, Edison u. 2.<ujsor/>
+ÃtvevÅ‘ tÃ¡rsasÃ¡g cÃ©gneve: BASF HungÃ¡ria VegyiÃ¡ru Ã©s KiegÃ©szÃ­tÅ‘ TermÃ©k, BerendezÃ©s- Ã©s SzolgÃ¡ltatÃ¡s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡m: [01 09 077596].<ujsor/>
+SzÃ©khelye: 1132 Budapest, VÃ¡ci Ãºt 30.<ujsor/>
+LÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g formÃ¡ja: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gneve: BASF HungÃ¡ria VegyiÃ¡ru Ã©s KiegÃ©szÃ­tÅ‘ TermÃ©k, BerendezÃ©s- Ã©s SzolgÃ¡ltatÃ¡s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 1132 Budapest, VÃ¡ci Ãºt 30.<ujsor/>
+LÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g tÃ¡rsasÃ¡gi szerzÅ‘dÃ©se megkÃ¶tÃ©sÃ©nek (mÃ³dosÃ­tÃ¡sÃ¡nak) napja: 2009. november 2.<ujsor/>
+Az Ã¡talakulÃ³ Ã©s a lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g(ok) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai):<ujsor/>
+BeolvadÃ³ tÃ¡rsasÃ¡g (zÃ¡rÃ³):<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 505 790 D) SajÃ¡t tÅ‘ke 42 969<ujsor/>
+I. ImmateriÃ¡lis javak 332 122 I. Jegyzett tÅ‘ke 7 000<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 173 668 II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke 0<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 III. TÅ‘ketartalÃ©k 2 613<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 6 199 204 IV. EredmÃ©nytartalÃ©k 33 356<ujsor/>
+I. KÃ©szletek 480 999 V. LekÃ¶tÃ¶tt tartalÃ©k 0<ujsor/>
+II. KÃ¶vetelÃ©sek 5 099 317 VI. Ã‰rtÃ©kelÃ©si tartalÃ©k 0<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 E) CÃ©ltartalÃ©kok 59 212<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 618 888 F) KÃ¶telezettsÃ©gek 6 189 148<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 0 I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0<ujsor/>
+II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 6 189 148<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 413 665<ujsor/>
+Ã–SSZESEN: 6 704 994 Ã–SSZESEN: 6 704 994<ujsor/>
+ÃtvevÅ‘ tÃ¡rsasÃ¡g (zÃ¡rÃ³):<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 111 490 D) SajÃ¡t tÅ‘ke 6 045 991<ujsor/>
+I. ImmateriÃ¡lis javak 884 I. Jegyzett tÅ‘ke 151 000<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 98 016 II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke 0<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 12 590 III. TÅ‘ketartalÃ©k 5 291<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 24 828 803 IV. EredmÃ©nytartalÃ©k 5 889 700<ujsor/>
+I. KÃ©szletek 979 625 V. LekÃ¶tÃ¶tt tartalÃ©k 0<ujsor/>
+II. KÃ¶vetelÃ©sek 23 707 200 VI. Ã‰rtÃ©kelÃ©si tartalÃ©k 0<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 E) CÃ©ltartalÃ©kok 408<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 141 978 F) KÃ¶telezettsÃ©gek 15 286 493<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 26 303 I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0<ujsor/>
+II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 15 286 493<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 3 633 704<ujsor/>
+Ã–SSZESEN: 24 966 596 Ã–SSZESEN: 24 966 596<ujsor/>
+LÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g (nyitÃ³):<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 617 280 D) SajÃ¡t tÅ‘ke 6 088 960<ujsor/>
+I. ImmateriÃ¡lis javak 333 006 I. Jegyzett tÅ‘ke 158 000<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 271 684 II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke 0<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 12 590 III. TÅ‘ketartalÃ©k 7 904<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 31 028 007 IV. EredmÃ©nytartalÃ©k 5 923 056<ujsor/>
+I. KÃ©szletek 1 460 624 V. LekÃ¶tÃ¶tt tartalÃ©k 0<ujsor/>
+II. KÃ¶vetelÃ©sek 28 806 517 VI. Ã‰rtÃ©kelÃ©si tartalÃ©k 0<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 VII. MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 760 866 E) CÃ©ltartalÃ©kok 59 620<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 26 303 F) KÃ¶telezettsÃ©gek 21 475 641<ujsor/>
+I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0<ujsor/>
+II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 21 475 641<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 4 047 369<ujsor/>
+Ã–SSZESEN: 31 671 590 Ã–SSZESEN: 31 671 590<ujsor/>
+A beolvadÃ¡s idÅ‘pontja [Gt. 74. Â§ (6) bekezdÃ©s, Ctv. 57. Â§ (2) bekezdÃ©s]: 2010. januÃ¡r 1.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©ge: VegyiÃ¡ru nagykereskedelme.<ujsor/>
+VezetÅ‘ tisztsÃ©gviselÅ‘je: dr. Herbert Martin Fisch (DEÂ­67157 Wachenheim, In der Eselsweide 8.).<ujsor/>
+A Gt. 76. Â§ (3) bekezdÃ©se alapjÃ¡n a tÃ¡rsasÃ¡g hitelezÅ‘i nem Ã©lhetnek a Gt. 76. Â§ (2) bekezdÃ©sÃ©ben foglalt biztosÃ­tÃ©kkÃ©rÃ©si jogukkal, mivel az Ã¡talakulÃ³ tÃ¡rsasÃ¡g tagjÃ¡nak felelÅ‘ssÃ©ge a tÃ¡rsasÃ¡g fennÃ¡llÃ¡sa alatt korlÃ¡tozott Ã©s az Ã¡talakulÃ¡s sorÃ¡n a jogutÃ³d tÃ¡rsasÃ¡g tÅ‘kÃ©je nem kevesebb, mint a jogelÅ‘d tÃ¡rsasÃ¡gÃ© volt az Ã¡talakulÃ¡s elhatÃ¡rozÃ¡sakor.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109077596</mezo>
-<mezo id = "nev">BASF Hungária Vegyiáru és Kiegészitõ Termék, Berendezés- és Szolgáltatás Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">BASF HungÃ¡ria VegyiÃ¡ru Ã©s KiegÃ©szitÅ‘ TermÃ©k, BerendezÃ©s- Ã©s SzolgÃ¡ltatÃ¡s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1132 Budapest</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A BASF Hungária Vegyi áru és Kiegészítõ Termék, Berendezés- és Szolgáltatás Kereskedelmi Korlátolt Felelõsségû Társaság (a továbbiakban: átvevõ társaság), valamint a Ciba Central Eastern Europe Szolgáltató, Tanácsadó és Kereskedelmi Korlátolt Felelõsségû Társaság (a továbbiakban: beolvadó társaság) 2009. november 2-án kelt határozatával elhatározta, hogy egyesül egymással.<ujsor/>
-Az egyesülés módja: beolvadás, amely során a beolvadó gazdasági társaság megszûnik, és annak vagyona az átvevõ gazdasági társaságra mint jogutódra száll át, amelynek gazdasági formája változatlan marad.<ujsor/>
-Beolvadó társaság cégneve: Ciba Central Eastern Europe Szolgáltató, Tanácsadó és Kereskedelmi Korlátolt Felelõsségû Társaság.<ujsor/>
-Cégjegyzékszám: [01 09 926940].<ujsor/>
-Székhelye: 1132 Budapest, Váci út 30.<ujsor/>
-Központi ügyintézés helye: 2040 Budaörs, Edison u. 2.<ujsor/>
-Átvevõ társaság cégneve: BASF Hungária Vegyi áru és Kiegészítõ Termék, Berendezés- és Szolgáltatás Kereskedelmi Korlátolt Felelõsségû Társaság.<ujsor/>
-Cégjegyzékszám: [01 09 077596].<ujsor/>
-Székhelye: 1132 Budapest, Váci út 30.<ujsor/>
-Létrejövõ társaság formája: korlátolt felelõsségû társaság.<ujsor/>
-Cégneve: BASF Hungária Vegyi áru és Kiegészítõ Termék, Berendezés- és Szolgáltatás Kereskedelmi Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhelye: 1132 Budapest, Váci út 30.<ujsor/>
-Létrejövõ társaság társasági szerzõdése megkötésének (módosításának) napja: 2009. november 2.<ujsor/>
-Az átalakuló és a létrejövõ gazdasági társaság(ok) vagyonmérleg-tervezetének legfontosabb adatai):<ujsor/>
-Beolvadó társaság (záró):<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-A) Befektetett eszközök 505 790 D) Saját tõke 42 969<ujsor/>
-I. Immateriális javak 332 122 I. Jegyzett tõke 7 000<ujsor/>
-II. Tárgyi eszközök 173 668 II. Jegyzett, de még be nem fizetett tõke 0<ujsor/>
-III. Befektetett pénzügyi eszközök 0 III. Tõketartalék 2 613<ujsor/>
-B) Forgóeszközök 6 199 204 IV. Eredménytartalék 33 356<ujsor/>
-I. Készletek 480 999 V. Lekötött tartalék 0<ujsor/>
-II. Követelések 5 099 317 VI. Értékelési tartalék 0<ujsor/>
-III. Értékpapírok 0 E) Céltartalékok 59 212<ujsor/>
-IV. Pénzeszközök 618 888 F) Kötelezettségek 6 189 148<ujsor/>
-C) Aktív idõbeli elhatárolások 0 I. Hátra sorolt kötelezettségek 0<ujsor/>
-II. Hosszú lejáratú kötelezettségek 0<ujsor/>
-III. Rövid lejáratú kötelezettségek 6 189 148<ujsor/>
-G) Passzív idõbeli elhatárolások 413 665<ujsor/>
-ÖSSZESEN: 6 704 994 ÖSSZESEN: 6 704 994<ujsor/>
-Átvevõ társaság (záró):<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-A) Befektetett eszközök 111 490 D) Saját tõke 6 045 991<ujsor/>
-I. Immateriális javak 884 I. Jegyzett tõke 151 000<ujsor/>
-II. Tárgyi eszközök 98 016 II. Jegyzett, de még be nem fizetett tõke 0<ujsor/>
-III. Befektetett pénzügyi eszközök 12 590 III. Tõketartalék 5 291<ujsor/>
-B) Forgóeszközök 24 828 803 IV. Eredménytartalék 5 889 700<ujsor/>
-I. Készletek 979 625 V. Lekötött tartalék 0<ujsor/>
-II. Követelések 23 707 200 VI. Értékelési tartalék 0<ujsor/>
-III. Értékpapírok 0 E) Céltartalékok 408<ujsor/>
-IV. Pénzeszközök 141 978 F) Kötelezettségek 15 286 493<ujsor/>
-C) Aktív idõbeli elhatárolások 26 303 I. Hátra sorolt kötelezettségek 0<ujsor/>
-II. Hosszú lejáratú kötelezettségek 0<ujsor/>
-III. Rövid lejáratú kötelezettségek 15 286 493<ujsor/>
-G) Passzív idõbeli elhatárolások 3 633 704<ujsor/>
-ÖSSZESEN: 24 966 596 ÖSSZESEN: 24 966 596<ujsor/>
-Létrejövõ társaság (nyitó):<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-A) Befektetett eszközök 617 280 D) Saját tõke 6 088 960<ujsor/>
-I. Immateriális javak 333 006 I. Jegyzett tõke 158 000<ujsor/>
-II. Tárgyi eszközök 271 684 II. Jegyzett, de még be nem fizetett tõke 0<ujsor/>
-III. Befektetett pénzügyi eszközök 12 590 III. Tõketartalék 7 904<ujsor/>
-B) Forgóeszközök 31 028 007 IV. Eredménytartalék 5 923 056<ujsor/>
-I. Készletek 1 460 624 V. Lekötött tartalék 0<ujsor/>
-II. Követelések 28 806 517 VI. Értékelési tartalék 0<ujsor/>
-III. Értékpapírok 0 VII. Mérleg szerinti eredmény 0<ujsor/>
-IV. Pénzeszközök 760 866 E) Céltartalékok 59 620<ujsor/>
-C) Aktív idõbeli elhatárolások 26 303 F) Kötelezettségek 21 475 641<ujsor/>
-I. Hátra sorolt kötelezettségek 0<ujsor/>
-II. Hosszú lejáratú kötelezettségek 0<ujsor/>
-III. Rövid lejáratú kötelezettségek 21 475 641<ujsor/>
-G) Passzív idõbeli elhatárolások 4 047 369<ujsor/>
-ÖSSZESEN: 31 671 590 ÖSSZESEN: 31 671 590<ujsor/>
-A beolvadás idõpontja [Gt. 74. § (6) bekezdés, Ctv. 57. § (2) bekezdés]: 2010. január 1.<ujsor/>
-A létrejövõ társaság fõ tevékenysége: Vegyi áru nagykereskedelme.<ujsor/>
-Vezetõ tisztségviselõje: dr. Herbert Martin Fisch (DE­67157 Wachenheim, In der Eselsweide 8.).<ujsor/>
-A Gt. 76. § (3) bekezdése alapján a társaság hitelezõi nem élhetnek a Gt. 76. § (2) bekezdésében foglalt biztosítékkérési jogukkal, mivel az átalakuló társaság tagjának felelõssége a társaság fennállása alatt korlátozott és az átalakulás során a jogutód társaság tõkéje nem kevesebb, mint a jogelõd társaságé volt az átalakulás elhatározásakor.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">A BASF HungÃ¡ria Vegyi Ã¡ru Ã©s KiegÃ©szÃ­tÅ‘ TermÃ©k, BerendezÃ©s- Ã©s SzolgÃ¡ltatÃ¡s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (a tovÃ¡bbiakban: Ã¡tvevÅ‘ tÃ¡rsasÃ¡g), valamint a Ciba Central Eastern Europe SzolgÃ¡ltatÃ³, TanÃ¡csadÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (a tovÃ¡bbiakban: beolvadÃ³ tÃ¡rsasÃ¡g) 2009. november 2-Ã¡n kelt hatÃ¡rozatÃ¡val elhatÃ¡rozta, hogy egyesÃ¼l egymÃ¡ssal.<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: beolvadÃ¡s, amely sorÃ¡n a beolvadÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g megszÅ±nik, Ã©s annak vagyona az Ã¡tvevÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡gra mint jogutÃ³dra szÃ¡ll Ã¡t, amelynek gazdasÃ¡gi formÃ¡ja vÃ¡ltozatlan marad.<ujsor/>
+BeolvadÃ³ tÃ¡rsasÃ¡g cÃ©gneve: Ciba Central Eastern Europe SzolgÃ¡ltatÃ³, TanÃ¡csadÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡m: [01 09 926940].<ujsor/>
+SzÃ©khelye: 1132 Budapest, VÃ¡ci Ãºt 30.<ujsor/>
+KÃ¶zponti Ã¼gyintÃ©zÃ©s helye: 2040 BudaÃ¶rs, Edison u. 2.<ujsor/>
+ÃtvevÅ‘ tÃ¡rsasÃ¡g cÃ©gneve: BASF HungÃ¡ria Vegyi Ã¡ru Ã©s KiegÃ©szÃ­tÅ‘ TermÃ©k, BerendezÃ©s- Ã©s SzolgÃ¡ltatÃ¡s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡m: [01 09 077596].<ujsor/>
+SzÃ©khelye: 1132 Budapest, VÃ¡ci Ãºt 30.<ujsor/>
+LÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g formÃ¡ja: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gneve: BASF HungÃ¡ria Vegyi Ã¡ru Ã©s KiegÃ©szÃ­tÅ‘ TermÃ©k, BerendezÃ©s- Ã©s SzolgÃ¡ltatÃ¡s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 1132 Budapest, VÃ¡ci Ãºt 30.<ujsor/>
+LÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g tÃ¡rsasÃ¡gi szerzÅ‘dÃ©se megkÃ¶tÃ©sÃ©nek (mÃ³dosÃ­tÃ¡sÃ¡nak) napja: 2009. november 2.<ujsor/>
+Az Ã¡talakulÃ³ Ã©s a lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g(ok) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai):<ujsor/>
+BeolvadÃ³ tÃ¡rsasÃ¡g (zÃ¡rÃ³):<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 505 790 D) SajÃ¡t tÅ‘ke 42 969<ujsor/>
+I. ImmateriÃ¡lis javak 332 122 I. Jegyzett tÅ‘ke 7 000<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 173 668 II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke 0<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 III. TÅ‘ketartalÃ©k 2 613<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 6 199 204 IV. EredmÃ©nytartalÃ©k 33 356<ujsor/>
+I. KÃ©szletek 480 999 V. LekÃ¶tÃ¶tt tartalÃ©k 0<ujsor/>
+II. KÃ¶vetelÃ©sek 5 099 317 VI. Ã‰rtÃ©kelÃ©si tartalÃ©k 0<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 E) CÃ©ltartalÃ©kok 59 212<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 618 888 F) KÃ¶telezettsÃ©gek 6 189 148<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 0 I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0<ujsor/>
+II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 6 189 148<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 413 665<ujsor/>
+Ã–SSZESEN: 6 704 994 Ã–SSZESEN: 6 704 994<ujsor/>
+ÃtvevÅ‘ tÃ¡rsasÃ¡g (zÃ¡rÃ³):<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 111 490 D) SajÃ¡t tÅ‘ke 6 045 991<ujsor/>
+I. ImmateriÃ¡lis javak 884 I. Jegyzett tÅ‘ke 151 000<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 98 016 II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke 0<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 12 590 III. TÅ‘ketartalÃ©k 5 291<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 24 828 803 IV. EredmÃ©nytartalÃ©k 5 889 700<ujsor/>
+I. KÃ©szletek 979 625 V. LekÃ¶tÃ¶tt tartalÃ©k 0<ujsor/>
+II. KÃ¶vetelÃ©sek 23 707 200 VI. Ã‰rtÃ©kelÃ©si tartalÃ©k 0<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 E) CÃ©ltartalÃ©kok 408<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 141 978 F) KÃ¶telezettsÃ©gek 15 286 493<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 26 303 I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0<ujsor/>
+II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 15 286 493<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 3 633 704<ujsor/>
+Ã–SSZESEN: 24 966 596 Ã–SSZESEN: 24 966 596<ujsor/>
+LÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g (nyitÃ³):<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 617 280 D) SajÃ¡t tÅ‘ke 6 088 960<ujsor/>
+I. ImmateriÃ¡lis javak 333 006 I. Jegyzett tÅ‘ke 158 000<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 271 684 II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke 0<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 12 590 III. TÅ‘ketartalÃ©k 7 904<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 31 028 007 IV. EredmÃ©nytartalÃ©k 5 923 056<ujsor/>
+I. KÃ©szletek 1 460 624 V. LekÃ¶tÃ¶tt tartalÃ©k 0<ujsor/>
+II. KÃ¶vetelÃ©sek 28 806 517 VI. Ã‰rtÃ©kelÃ©si tartalÃ©k 0<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 VII. MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 760 866 E) CÃ©ltartalÃ©kok 59 620<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 26 303 F) KÃ¶telezettsÃ©gek 21 475 641<ujsor/>
+I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0<ujsor/>
+II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 21 475 641<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 4 047 369<ujsor/>
+Ã–SSZESEN: 31 671 590 Ã–SSZESEN: 31 671 590<ujsor/>
+A beolvadÃ¡s idÅ‘pontja [Gt. 74. Â§ (6) bekezdÃ©s, Ctv. 57. Â§ (2) bekezdÃ©s]: 2010. januÃ¡r 1.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©ge: Vegyi Ã¡ru nagykereskedelme.<ujsor/>
+VezetÅ‘ tisztsÃ©gviselÅ‘je: dr. Herbert Martin Fisch (DEÂ­67157 Wachenheim, In der Eselsweide 8.).<ujsor/>
+A Gt. 76. Â§ (3) bekezdÃ©se alapjÃ¡n a tÃ¡rsasÃ¡g hitelezÅ‘i nem Ã©lhetnek a Gt. 76. Â§ (2) bekezdÃ©sÃ©ben foglalt biztosÃ­tÃ©kkÃ©rÃ©si jogukkal, mivel az Ã¡talakulÃ³ tÃ¡rsasÃ¡g tagjÃ¡nak felelÅ‘ssÃ©ge a tÃ¡rsasÃ¡g fennÃ¡llÃ¡sa alatt korlÃ¡tozott Ã©s az Ã¡talakulÃ¡s sorÃ¡n a jogutÃ³d tÃ¡rsasÃ¡g tÅ‘kÃ©je nem kevesebb, mint a jogelÅ‘d tÃ¡rsasÃ¡gÃ© volt az Ã¡talakulÃ¡s elhatÃ¡rozÃ¡sakor.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109077596</mezo>
-<mezo id = "nev">BASF Hungária Vegyiáru és Kiegészitõ Termék, Berendezés- és Szolgáltatás Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">BASF HungÃ¡ria VegyiÃ¡ru Ã©s KiegÃ©szitÅ‘ TermÃ©k, BerendezÃ©s- Ã©s SzolgÃ¡ltatÃ¡s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1132 Budapest</mezo>
 </alrovat>
 </rovat>

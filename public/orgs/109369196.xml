@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">369196</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">1123 Budapest, Alkotás utca 7. b. ép. 2. em. 2. </mezo>
+<mezo id = "cim">1123 Budapest, AlkotÃ¡s utca 7. b. Ã©p. 2. em. 2. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">12030705243</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19950310</mezo>
-<mezo id = "nev">IMMO Szerviz Szolgáltató és Épületkezelõ Korlátolt felelõsségû társaság</mezo>
+<mezo id = "nev">IMMO Szerviz SzolgÃ¡ltatÃ³ Ã©s Ã‰pÃ¼letkezelÅ‘ KorlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -27,7 +27,7 @@
 <mezo id = "hattol">20110520</mezo>
 <mezo id = "irsz">1123</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Alkotás utca 7. b. ép. 2. em. 2.</mezo>
+<mezo id = "teru">AlkotÃ¡s utca 7. b. Ã©p. 2. em. 2.</mezo>
 <mezo id = "valtk">20110520</mezo>
 <mezo id = "bkelt">20110609</mezo>
 </alrovat>
@@ -764,12 +764,12 @@
 <rovat id = "13">
 <alrovat id = "4">
 <mezo id = "hattol">20110520</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Garamszegi Miklós</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Garamszegi MiklÃ³s</mezo>
 <mezo id = "panev">Hajzer Ilona</mezo>
 <mezo id = "pirsz">1123</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Alkotás utca 7. b. ép. 2. em. 2.</mezo>
+<mezo id = "pteru">AlkotÃ¡s utca 7. b. Ã©p. 2. em. 2.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100801</mezo>
 <mezo id = "jogvv">20150731</mezo>
@@ -781,8 +781,8 @@
 <rovat id = "14">
 <alrovat id = "3">
 <mezo id = "hattol">20070801</mezo>
-<mezo id = "pnev">Baracska László</mezo>
-<mezo id = "panev">Barabás Katalin</mezo>
+<mezo id = "pnev">Baracska LÃ¡szlÃ³</mezo>
+<mezo id = "panev">BarabÃ¡s Katalin</mezo>
 <mezo id = "pirsz">1022</mezo>
 <mezo id = "phely">Budapest, Kazinczy u. 20.</mezo>
 <mezo id = "jogvk">20070601</mezo>
@@ -813,28 +813,28 @@
 <alrovat id = "4">
 <mezo id = "adosz">12030705243</mezo>
 <mezo id = "bkelt">20110715</mezo>
-<mezo id = "megj">Státusz kezdete: 1995/03/10</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 1995/03/10</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0109">
 <alrovat id = "5">
 <mezo id = "hattol">20091026</mezo>
-<mezo id = "pnev">Gémesi Ottilia</mezo>
+<mezo id = "pnev">GÃ©mesi Ottilia</mezo>
 <mezo id = "panev">Sinka Julianna</mezo>
 <mezo id = "pirsz">2454</mezo>
-<mezo id = "phely">Iváncsa</mezo>
-<mezo id = "pteru">Szabadság utca 7.</mezo>
+<mezo id = "phely">IvÃ¡ncsa</mezo>
+<mezo id = "pteru">SzabadsÃ¡g utca 7.</mezo>
 <mezo id = "tagsk">20091026</mezo>
 <mezo id = "valtk">20091026</mezo>
 <mezo id = "bkelt">20091111</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20110520</mezo>
-<mezo id = "pnev">Garamszegi Miklós</mezo>
+<mezo id = "pnev">Garamszegi MiklÃ³s</mezo>
 <mezo id = "panev">Hajzer Ilona</mezo>
 <mezo id = "pirsz">1123</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Alkotás utca 7. b. ép. 2. em. 2.</mezo>
+<mezo id = "pteru">AlkotÃ¡s utca 7. b. Ã©p. 2. em. 2.</mezo>
 <mezo id = "tagsk">19980901</mezo>
 <mezo id = "sz2">x</mezo>
 <mezo id = "valtk">20110520</mezo>
@@ -850,34 +850,34 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság az 1998. 10. 01-én hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g az 1998. 10. 01-Ã©n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
 20. 12030707-0201-130-1.<ujsor/>
- Törölve: 1999. 10. 04-i hatállyal.<ujsor/>
+ TÃ¶rÃ¶lve: 1999. 10. 04-i hatÃ¡llyal.<ujsor/>
  12030705-7020-113-01.<ujsor/>
- Hatályos: 1999. 10. 04-tõl.<ujsor/>
+ HatÃ¡lyos: 1999. 10. 04-tÅ‘l.<ujsor/>
 Bejegyezve: 1999. 10. 04.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109369196</mezo>
-<mezo id = "nev">IMMO Szerviz Szolgáltató és Épületkezelõ Korlátolt felelõsségû társaság</mezo>
-<mezo id = "cim">1123 Budapest, Alkotás u. 7/b. 1. em. 2.</mezo>
+<mezo id = "nev">IMMO Szerviz SzolgÃ¡ltatÃ³ Ã©s Ã‰pÃ¼letkezelÅ‘ KorlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1123 Budapest, AlkotÃ¡s u. 7/b. 1. em. 2.</mezo>
 <mezo id = "adosz">12030705241</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság a Cg.01-09-369196 cégjegyzékszámon bejegyzett IMMO Szervíz Szolgáltató és Épületkezelõ Korlátolt felelõsségû társaság (1123 Budapest, Alkotás utca 7. b. ép. 2. em. 2.; adószáma: 12030705-2-43) ügyében az 2011. június 9. napján hozott Cg.01-09-369196/56. számú végzését hivatalból kiegészíteni rendeli az alábbiak szerint:<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.01-09-369196 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett IMMO SzervÃ­z SzolgÃ¡ltatÃ³ Ã©s Ã‰pÃ¼letkezelÅ‘ KorlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g (1123 Budapest, AlkotÃ¡s utca 7. b. Ã©p. 2. em. 2.; adÃ³szÃ¡ma: 12030705-2-43) Ã¼gyÃ©ben az 2011. jÃºnius 9. napjÃ¡n hozott Cg.01-09-369196/56. szÃ¡mÃº vÃ©gzÃ©sÃ©t hivatalbÃ³l kiegÃ©szÃ­teni rendeli az alÃ¡bbiak szerint:<ujsor/>
 1(09) A tag(ok) adatai<ujsor/>
-A társaság irányítását biztosító befolyásolás fajtája: közvetlen irányítást biztosító befolyás.<ujsor/>
-Garamszegi Miklós (an.: Hajzer Ilona)<ujsor/>
-1123 Budapest, Alkotás u 7/B. 1/2.<ujsor/>
-Vált. vége: 2011.05.20.<ujsor/>
-Törölve (végzés kelte): 2011. július 8.<ujsor/>
-A végzés ellen fellebbezésnek nincs helye.<ujsor/>
-2011. július 8.<ujsor/>
+A tÃ¡rsasÃ¡g irÃ¡nyÃ­tÃ¡sÃ¡t biztosÃ­tÃ³ befolyÃ¡solÃ¡s fajtÃ¡ja: kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡s.<ujsor/>
+Garamszegi MiklÃ³s (an.: Hajzer Ilona)<ujsor/>
+1123 Budapest, AlkotÃ¡s u 7/B. 1/2.<ujsor/>
+VÃ¡lt. vÃ©ge: 2011.05.20.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2011. jÃºlius 8.<ujsor/>
+A vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye.<ujsor/>
+2011. jÃºlius 8.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109369196</mezo>
-<mezo id = "nev">IMMO Szervíz Szolgáltató és Épületkezelõ Korlátolt felelõsségû társaság</mezo>
-<mezo id = "cim">1123 Budapest, Alkotás utca 7. b. ép. 2. em. 2.</mezo>
+<mezo id = "nev">IMMO SzervÃ­z SzolgÃ¡ltatÃ³ Ã©s Ã‰pÃ¼letkezelÅ‘ KorlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1123 Budapest, AlkotÃ¡s utca 7. b. Ã©p. 2. em. 2.</mezo>
 <mezo id = "adosz">12030705243</mezo>
 </alrovat>
 </rovat>

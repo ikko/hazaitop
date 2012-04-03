@@ -5,14 +5,14 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">065265</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">7621 Pécs, Ferencesek utca 50. 1. em. 1. </mezo>
+<mezo id = "cim">7621 PÃ©cs, Ferencesek utca 50. 1. em. 1. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">11547459202</mezo>
 </alrovat>
 </rovat>
 <rovat id = "2">
 <alrovat id = "1">
-<mezo id = "nev">ABIT Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">ABIT Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -24,7 +24,7 @@
 <alrovat id = "3">
 <mezo id = "hattol">20070814</mezo>
 <mezo id = "irsz">7621</mezo>
-<mezo id = "hely">Pécs</mezo>
+<mezo id = "hely">PÃ©cs</mezo>
 <mezo id = "teru">Ferencesek utca 50. 1. em. 1.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">20070612</mezo>
@@ -35,7 +35,7 @@
 <alrovat id = "2">
 <mezo id = "hattol">20070814</mezo>
 <mezo id = "irsz">7678</mezo>
-<mezo id = "hely">Abaliget, Széchenyi István utca 32.</mezo>
+<mezo id = "hely">Abaliget, SzÃ©chenyi IstvÃ¡n utca 32.</mezo>
 <mezo id = "valtk">20070612</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -157,7 +157,7 @@
 <mezo id = "hattol">20100426</mezo>
 <mezo id = "valtk">20100426</mezo>
 <mezo id = "bkelt">20100521</mezo>
-<mezo id = "teaszov">Egyéb információ-technológiai szolgáltatás</mezo>
+<mezo id = "teaszov">EgyÃ©b informÃ¡ciÃ³-technolÃ³giai szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -172,9 +172,9 @@
 <rovat id = "13">
 <alrovat id = "4">
 <mezo id = "hattol">20100426</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Ancsin Zoltán</mezo>
-<mezo id = "panev">Körtvélyesi Aranka</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Ancsin ZoltÃ¡n</mezo>
+<mezo id = "panev">KÃ¶rtvÃ©lyesi Aranka</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20070612</mezo>
 <mezo id = "valtk">20100426</mezo>
@@ -213,10 +213,10 @@
 <rovat id = "0109">
 <alrovat id = "6">
 <mezo id = "hattol">20070814</mezo>
-<mezo id = "pnev">Ancsinné Szauter Éva</mezo>
-<mezo id = "panev">Roszipál Teréz</mezo>
+<mezo id = "pnev">AncsinnÃ© Szauter Ã‰va</mezo>
+<mezo id = "panev">RoszipÃ¡l TerÃ©z</mezo>
 <mezo id = "pirsz">7678</mezo>
-<mezo id = "phely">Abaliget, Széchenyi István utca 32.</mezo>
+<mezo id = "phely">Abaliget, SzÃ©chenyi IstvÃ¡n utca 32.</mezo>
 <mezo id = "tagsk">19991208</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">0</mezo>
@@ -224,10 +224,10 @@
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">20070814</mezo>
-<mezo id = "pnev">Ancsin Zoltán</mezo>
-<mezo id = "panev">Körtvélyesi Aranka</mezo>
+<mezo id = "pnev">Ancsin ZoltÃ¡n</mezo>
+<mezo id = "panev">KÃ¶rtvÃ©lyesi Aranka</mezo>
 <mezo id = "pirsz">7678</mezo>
-<mezo id = "phely">Abaliget, Széchenyi István utca 32.</mezo>
+<mezo id = "phely">Abaliget, SzÃ©chenyi IstvÃ¡n utca 32.</mezo>
 <mezo id = "tagsk">19971020</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "sz2">x</mezo>
@@ -244,12 +244,12 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Ancsin Zoltán (a. n.: Körtvélyesi Aranka; 7678 Abaliget, Széchenyi u. 32.) az ABIT Kft.-ben (székhelye: 7624 Pécs, Szigeti út 89.; cégjegyzékszám: [02 09 065265]) az 1997. évi CXLIV. tv. 291. § szerinti közvetlen irányítást biztosító befolyással rendelkezik, mivel az ellenõrzött társaságnál a szavazatok 93,33333%-a illeti meg.<ujsor/>
-A befolyásszerzés idõpontja: a társasági szerzõdés módosítás napja, 2000. június 15.<ujsor/>
-Akiknek az ellenõrzött társasággal szembeni le nem járt követelései a befolyás közzétételét megelõzõen keletkeztek, a közzététel utáni kilencvennapos jogvesztõ határidõn belül követeléseik erejéig biztosítékot követelhetnek Ancsin Zoltántól, mint uralkodó tagtól.<ujsor/>
+<mezo id = "szoveg">Ancsin ZoltÃ¡n (a. n.: KÃ¶rtvÃ©lyesi Aranka; 7678 Abaliget, SzÃ©chenyi u. 32.) az ABIT Kft.-ben (szÃ©khelye: 7624 PÃ©cs, Szigeti Ãºt 89.; cÃ©gjegyzÃ©kszÃ¡m: [02 09 065265]) az 1997. Ã©vi CXLIV. tv. 291. Â§ szerinti kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡ssal rendelkezik, mivel az ellenÅ‘rzÃ¶tt tÃ¡rsasÃ¡gnÃ¡l a szavazatok 93,33333%-a illeti meg.<ujsor/>
+A befolyÃ¡sszerzÃ©s idÅ‘pontja: a tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s mÃ³dosÃ­tÃ¡s napja, 2000. jÃºnius 15.<ujsor/>
+Akiknek az ellenÅ‘rzÃ¶tt tÃ¡rsasÃ¡ggal szembeni le nem jÃ¡rt kÃ¶vetelÃ©sei a befolyÃ¡s kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, a kÃ¶zzÃ©tÃ©tel utÃ¡ni kilencvennapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l kÃ¶vetelÃ©seik erejÃ©ig biztosÃ­tÃ©kot kÃ¶vetelhetnek Ancsin ZoltÃ¡ntÃ³l, mint uralkodÃ³ tagtÃ³l.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0209065265</mezo>
-<mezo id = "nev">ABIT Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">ABIT Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "99017">

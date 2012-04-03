@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">666030</mezo>
 <mezo id = "nevalrovat">2</mezo>
-<mezo id = "cim">1112 Budapest, Repülõtérti út 2. </mezo>
+<mezo id = "cim">1112 Budapest, RepÃ¼lÅ‘tÃ©rti Ãºt 2. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">12311390243</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">19990318</mezo>
-<mezo id = "nev">Szenzortechnika Biztonságtechnikai és Környezetvédelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Szenzortechnika BiztonsÃ¡gtechnikai Ã©s KÃ¶rnyezetvÃ©delmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -27,7 +27,7 @@
 <mezo id = "hattol">20070907</mezo>
 <mezo id = "irsz">1112</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Repülõtérti út 2.</mezo>
+<mezo id = "teru">RepÃ¼lÅ‘tÃ©rti Ãºt 2.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">20070907</mezo>
 <mezo id = "valtv">0</mezo>
@@ -39,7 +39,7 @@
 <alrovat id = "3">
 <mezo id = "hattol">20051221</mezo>
 <mezo id = "irsz">8790</mezo>
-<mezo id = "hely">Zalaszentgrót, Szabadság tér 4.</mezo>
+<mezo id = "hely">ZalaszentgrÃ³t, SzabadsÃ¡g tÃ©r 4.</mezo>
 <mezo id = "orsz">HU</mezo>
 </alrovat>
 </rovat>
@@ -178,10 +178,10 @@
 <rovat id = "13">
 <alrovat id = "6">
 <mezo id = "hattol">20100104</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "email">istvangal@szenzortechnika.hu</mezo>
-<mezo id = "pnev">Gál István</mezo>
-<mezo id = "panev">Cziczeli Mária</mezo>
+<mezo id = "pnev">GÃ¡l IstvÃ¡n</mezo>
+<mezo id = "panev">Cziczeli MÃ¡ria</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100104</mezo>
 <mezo id = "jogvv">20150104</mezo>
@@ -191,10 +191,10 @@
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">20100104</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "email">ferenctoth@szenzortechnika.hu</mezo>
-<mezo id = "pnev">Tóth Ferenc</mezo>
-<mezo id = "panev">Horváth Irma</mezo>
+<mezo id = "pnev">TÃ³th Ferenc</mezo>
+<mezo id = "panev">HorvÃ¡th Irma</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100104</mezo>
 <mezo id = "jogvv">20150104</mezo>
@@ -220,10 +220,10 @@
 <rovat id = "0109">
 <alrovat id = "12">
 <mezo id = "hattol">20081218</mezo>
-<mezo id = "pnev">Gál István</mezo>
-<mezo id = "panev">Cziczeli Mária</mezo>
+<mezo id = "pnev">GÃ¡l IstvÃ¡n</mezo>
+<mezo id = "panev">Cziczeli MÃ¡ria</mezo>
 <mezo id = "pirsz">2464</mezo>
-<mezo id = "phely">Gyúró</mezo>
+<mezo id = "phely">GyÃºrÃ³</mezo>
 <mezo id = "pteru">Szeder utca 16.</mezo>
 <mezo id = "tagsk">20050104</mezo>
 <mezo id = "valtk">20081218</mezo>
@@ -232,18 +232,18 @@
 <alrovat id = "13">
 <mezo id = "hattol">20081218</mezo>
 <mezo id = "j">x</mezo>
-<mezo id = "pnev">Tóth Ferenc</mezo>
-<mezo id = "panev">Horváth Irma</mezo>
+<mezo id = "pnev">TÃ³th Ferenc</mezo>
+<mezo id = "panev">HorvÃ¡th Irma</mezo>
 <mezo id = "pirsz">2030</mezo>
-<mezo id = "phely">Érd</mezo>
-<mezo id = "pteru">Dercefû utca 3.</mezo>
+<mezo id = "phely">Ã‰rd</mezo>
+<mezo id = "pteru">DercefÅ± utca 3.</mezo>
 <mezo id = "tagsk">20050104</mezo>
 <mezo id = "valtk">20081218</mezo>
 <mezo id = "bkelt">20090615</mezo>
 </alrovat>
 <alrovat id = "14">
 <mezo id = "hattol">20081218</mezo>
-<mezo id = "pnev">Kós Zoltán</mezo>
+<mezo id = "pnev">KÃ³s ZoltÃ¡n</mezo>
 <mezo id = "panev">Viszlai Margit</mezo>
 <mezo id = "pirsz">1082</mezo>
 <mezo id = "phely">Budapest</mezo>
@@ -255,11 +255,11 @@
 <alrovat id = "15">
 <mezo id = "hattol">20081218</mezo>
 <mezo id = "cgjsz">0109666030</mezo>
-<mezo id = "nev">Szenzortechnika Biztonságtechnikai és Környezetvédelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Szenzortechnika BiztonsÃ¡gtechnikai Ã©s KÃ¶rnyezetvÃ©delmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1112</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Repülõtéri út 2.</mezo>
+<mezo id = "teru">RepÃ¼lÅ‘tÃ©ri Ãºt 2.</mezo>
 <mezo id = "tagsk">20070517</mezo>
 <mezo id = "valtk">20081218</mezo>
 <mezo id = "bkelt">20090615</mezo>
@@ -274,41 +274,41 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság az 1999. 03. 18-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. Gál Istvánné ügyvezetõ<ujsor/>
-1046 Budapest, Káposztásmegyeri út 17. II/9.<ujsor/>
- Törölve: 1998. 12. 01-i hatállyal.<ujsor/>
- Gál István (an: Cziczel Mária) ügyvezetõ<ujsor/>
-2030 Érd, Béke tér 4/C. fszt. 2.<ujsor/>
- Hatályos: 1998. 12. 01-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g az 1999. 03. 18-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. GÃ¡l IstvÃ¡nnÃ© Ã¼gyvezetÅ‘<ujsor/>
+1046 Budapest, KÃ¡posztÃ¡smegyeri Ãºt 17. II/9.<ujsor/>
+ TÃ¶rÃ¶lve: 1998. 12. 01-i hatÃ¡llyal.<ujsor/>
+ GÃ¡l IstvÃ¡n (an: Cziczel MÃ¡ria) Ã¼gyvezetÅ‘<ujsor/>
+2030 Ã‰rd, BÃ©ke tÃ©r 4/C. fszt. 2.<ujsor/>
+ HatÃ¡lyos: 1998. 12. 01-tÅ‘l.<ujsor/>
 Bejegyezve: 1999. 06. 15.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109666030</mezo>
-<mezo id = "nev">Szenzortechnika Biztonságtechnikai és Környezetvédelmi Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1047 Budapest, Fóti út 56.</mezo>
+<mezo id = "nev">Szenzortechnika BiztonsÃ¡gtechnikai Ã©s KÃ¶rnyezetvÃ©delmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1047 Budapest, FÃ³ti Ãºt 56.</mezo>
 <mezo id = "adosz">12311390241</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 1999. 03. 18-án hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-1(09). Tóth Ferenc (an: Horváth Irma)<ujsor/>
-1022 Budapest, Lévay u. 9/b.<ujsor/>
- Hatályos: 1998. 12. 01-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 1999. 03. 18-Ã¡n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+1(09). TÃ³th Ferenc (an: HorvÃ¡th Irma)<ujsor/>
+1022 Budapest, LÃ©vay u. 9/b.<ujsor/>
+ HatÃ¡lyos: 1998. 12. 01-tÅ‘l.<ujsor/>
 Bejegyezve: 2000. 11. 24.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109666030</mezo>
-<mezo id = "nev">Szenzortechnika Biztonságtechnikai és Környezetvédelmi Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1047 Budapest, Fóti út 56.</mezo>
+<mezo id = "nev">Szenzortechnika BiztonsÃ¡gtechnikai Ã©s KÃ¶rnyezetvÃ©delmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1047 Budapest, FÃ³ti Ãºt 56.</mezo>
 <mezo id = "adosz">12311390241</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Sinkó János (a. n.: Pátrovics Ágnes; 2030 Érd, Kövezõ u. 14.) közzéteszi, hogy a Szenzortechnika Biztonságtechnikai és Környezetvédelmi Korlátolt Felelõsségû Társaságban (Cg.: [01 09 666030]; székhelye: 1112 Budapest, Kõérberki út 36.) üzletrész-adásvétel folytán, 2005. január 4-én jelentõs befolyást szerzett oly mértékben, hogy a társaságnál a szavazatok 30%-ával rendelkezik.<ujsor/>
+<mezo id = "szoveg">SinkÃ³ JÃ¡nos (a. n.: PÃ¡trovics Ãgnes; 2030 Ã‰rd, KÃ¶vezÅ‘ u. 14.) kÃ¶zzÃ©teszi, hogy a Szenzortechnika BiztonsÃ¡gtechnikai Ã©s KÃ¶rnyezetvÃ©delmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gban (Cg.: [01 09 666030]; szÃ©khelye: 1112 Budapest, KÅ‘Ã©rberki Ãºt 36.) Ã¼zletrÃ©sz-adÃ¡svÃ©tel folytÃ¡n, 2005. januÃ¡r 4-Ã©n jelentÅ‘s befolyÃ¡st szerzett oly mÃ©rtÃ©kben, hogy a tÃ¡rsasÃ¡gnÃ¡l a szavazatok 30%-Ã¡val rendelkezik.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109666030</mezo>
-<mezo id = "nev">Czelíria Kereskedelmi és Szolgáltató Kft.</mezo>
+<mezo id = "nev">CzelÃ­ria Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ Kft.</mezo>
 <mezo id = "cim">1112 Budapest</mezo>
 </alrovat>
 </rovat>

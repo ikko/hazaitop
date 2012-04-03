@@ -5,7 +5,7 @@
 <mezo id = "cf">10</mezo>
 <mezo id = "szam">042987</mezo>
 <mezo id = "nevalrovat">3</mezo>
-<mezo id = "cim">1064 Budapest, Rózsa utca 81-83. </mezo>
+<mezo id = "cim">1064 Budapest, RÃ³zsa utca 81-83. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">12098336242</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "3">
 <mezo id = "hattol">20070701</mezo>
-<mezo id = "nev">Terézvárosi Vagyonkezelõ Nonprofit Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">TerÃ©zvÃ¡rosi VagyonkezelÅ‘ Nonprofit ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">20070701</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20071009</mezo>
@@ -23,7 +23,7 @@
 <rovat id = "3">
 <alrovat id = "3">
 <mezo id = "hattol">20070701</mezo>
-<mezo id = "nev">Terézvárosi Vagyonkezelõ Nonprofit Zrt.</mezo>
+<mezo id = "nev">TerÃ©zvÃ¡rosi VagyonkezelÅ‘ Nonprofit Zrt.</mezo>
 <mezo id = "valtk">20070701</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20071009</mezo>
@@ -35,7 +35,7 @@
 <mezo id = "hattol">20021028</mezo>
 <mezo id = "irsz">1064</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Rózsa utca 81-83.</mezo>
+<mezo id = "teru">RÃ³zsa utca 81-83.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "8">
@@ -1669,7 +1669,7 @@
 <mezo id = "hattol">20101216</mezo>
 <mezo id = "valtk">20101216</mezo>
 <mezo id = "bkelt">20110117</mezo>
-<mezo id = "teaszov">Biztonsági rendszer szolgáltatás</mezo>
+<mezo id = "teaszov">BiztonsÃ¡gi rendszer szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -1684,10 +1684,10 @@
 <rovat id = "13">
 <alrovat id = "44">
 <mezo id = "hattol">20071028</mezo>
-<mezo id = "pnev">dr. Rajkiné Németh Edit</mezo>
+<mezo id = "pnev">dr. RajkinÃ© NÃ©meth Edit</mezo>
 <mezo id = "panev">Rombai Margit</mezo>
 <mezo id = "pirsz">1024</mezo>
-<mezo id = "phely">Budapest, Fillér u. 12. III/7.</mezo>
+<mezo id = "phely">Budapest, FillÃ©r u. 12. III/7.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">c</mezo>
 <mezo id = "jogvk">20071029</mezo>
@@ -1699,10 +1699,10 @@
 </alrovat>
 <alrovat id = "47">
 <mezo id = "hattol">20071028</mezo>
-<mezo id = "pnev">Kiss Lajos felügyelõbizottság</mezo>
-<mezo id = "panev">Rácz Katalin</mezo>
+<mezo id = "pnev">Kiss Lajos felÃ¼gyelÅ‘bizottsÃ¡g</mezo>
+<mezo id = "panev">RÃ¡cz Katalin</mezo>
 <mezo id = "pirsz">1172</mezo>
-<mezo id = "phely">Budapest, Kõtelek u. 12.</mezo>
+<mezo id = "phely">Budapest, KÅ‘telek u. 12.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">c</mezo>
 <mezo id = "jogvk">20071029</mezo>
@@ -1714,9 +1714,9 @@
 </alrovat>
 <alrovat id = "55">
 <mezo id = "hattol">20101028</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Papp László</mezo>
-<mezo id = "panev">Széles Erszébet Katalin</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">Papp LÃ¡szlÃ³</mezo>
+<mezo id = "panev">SzÃ©les ErszÃ©bet Katalin</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20101028</mezo>
 <mezo id = "jogvv">20151027</mezo>
@@ -1726,7 +1726,7 @@
 </alrovat>
 <alrovat id = "56">
 <mezo id = "hattol">20101028</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
 <mezo id = "pnev">Bartos Levente</mezo>
 <mezo id = "panev">Babarczi Ibolya</mezo>
 <mezo id = "kepve">x</mezo>
@@ -1738,9 +1738,9 @@
 </alrovat>
 <alrovat id = "57">
 <mezo id = "hattol">20101028</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Dr. Varga Zsolt Tamás</mezo>
-<mezo id = "panev">Véssey Marianna</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">Dr. Varga Zsolt TamÃ¡s</mezo>
+<mezo id = "panev">VÃ©ssey Marianna</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20101028</mezo>
 <mezo id = "jogvv">20151027</mezo>
@@ -1750,9 +1750,9 @@
 </alrovat>
 <alrovat id = "58">
 <mezo id = "hattol">20101028</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Kövesdi András</mezo>
-<mezo id = "panev">Tóásó Ágnes</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">KÃ¶vesdi AndrÃ¡s</mezo>
+<mezo id = "panev">TÃ³Ã¡sÃ³ Ãgnes</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20101028</mezo>
 <mezo id = "jogvv">20151027</mezo>
@@ -1762,9 +1762,9 @@
 </alrovat>
 <alrovat id = "59">
 <mezo id = "hattol">20101028</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Tóth László</mezo>
-<mezo id = "panev">Fülöp Ilona</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">TÃ³th LÃ¡szlÃ³</mezo>
+<mezo id = "panev">FÃ¼lÃ¶p Ilona</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20101028</mezo>
 <mezo id = "jogvv">20151027</mezo>
@@ -1774,12 +1774,12 @@
 </alrovat>
 <alrovat id = "61">
 <mezo id = "hattol">20101028</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Fabriczki András</mezo>
-<mezo id = "panev">Zelmanovits Irén</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">Fabriczki AndrÃ¡s</mezo>
+<mezo id = "panev">Zelmanovits IrÃ©n</mezo>
 <mezo id = "pirsz">1121</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Mártonhegyi út 21. A. ép.</mezo>
+<mezo id = "pteru">MÃ¡rtonhegyi Ãºt 21. A. Ã©p.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20101028</mezo>
 <mezo id = "jogvv">20151027</mezo>
@@ -1792,13 +1792,13 @@
 <alrovat id = "5">
 <mezo id = "hattol">20100601</mezo>
 <mezo id = "cgjsz">0109561335</mezo>
-<mezo id = "nev">MONETA Könyvvizsgáló és Adótanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">MONETA KÃ¶nyvvizsgÃ¡lÃ³ Ã©s AdÃ³tanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1188</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Bercsényi Miklós utca 29/A.</mezo>
-<mezo id = "pnev">Tóth József</mezo>
-<mezo id = "panev">Szabó Anna</mezo>
+<mezo id = "teru">BercsÃ©nyi MiklÃ³s utca 29/A.</mezo>
+<mezo id = "pnev">TÃ³th JÃ³zsef</mezo>
+<mezo id = "panev">SzabÃ³ Anna</mezo>
 <mezo id = "jogvk">20100601</mezo>
 <mezo id = "jogvv">20120531</mezo>
 <mezo id = "valtk">20100601</mezo>
@@ -1808,8 +1808,8 @@
 <rovat id = "15">
 <alrovat id = "41">
 <mezo id = "hattol">20101028</mezo>
-<mezo id = "pnev">Czuppon Zoltán Zsolt</mezo>
-<mezo id = "panev">Helyes Klára</mezo>
+<mezo id = "pnev">Czuppon ZoltÃ¡n Zsolt</mezo>
+<mezo id = "panev">Helyes KlÃ¡ra</mezo>
 <mezo id = "jogvk">20101028</mezo>
 <mezo id = "jogvv">20151027</mezo>
 <mezo id = "valtk">20101028</mezo>
@@ -1817,8 +1817,8 @@
 </alrovat>
 <alrovat id = "43">
 <mezo id = "hattol">20101028</mezo>
-<mezo id = "pnev">Császárné Csóka Ilona Mária</mezo>
-<mezo id = "panev">Kozák Ilona</mezo>
+<mezo id = "pnev">CsÃ¡szÃ¡rnÃ© CsÃ³ka Ilona MÃ¡ria</mezo>
+<mezo id = "panev">KozÃ¡k Ilona</mezo>
 <mezo id = "jogvk">20101028</mezo>
 <mezo id = "jogvv">20151027</mezo>
 <mezo id = "valtk">20101028</mezo>
@@ -1826,8 +1826,8 @@
 </alrovat>
 <alrovat id = "44">
 <mezo id = "hattol">20101028</mezo>
-<mezo id = "pnev">Tóth György</mezo>
-<mezo id = "panev">Nagy Mária</mezo>
+<mezo id = "pnev">TÃ³th GyÃ¶rgy</mezo>
+<mezo id = "panev">Nagy MÃ¡ria</mezo>
 <mezo id = "jogvk">20101028</mezo>
 <mezo id = "jogvv">20151027</mezo>
 <mezo id = "valtk">20101028</mezo>
@@ -1836,7 +1836,7 @@
 <alrovat id = "45">
 <mezo id = "hattol">20101028</mezo>
 <mezo id = "pnev">Hatvani Csaba</mezo>
-<mezo id = "panev">Kovács Gizella Piroska</mezo>
+<mezo id = "panev">KovÃ¡cs Gizella Piroska</mezo>
 <mezo id = "jogvk">20101028</mezo>
 <mezo id = "jogvv">20151027</mezo>
 <mezo id = "valtk">20101028</mezo>
@@ -1844,11 +1844,11 @@
 </alrovat>
 <alrovat id = "46">
 <mezo id = "hattol">20110526</mezo>
-<mezo id = "pnev">dr. Deák Imre</mezo>
-<mezo id = "panev">Mocsári Edit Terézia</mezo>
+<mezo id = "pnev">dr. DeÃ¡k Imre</mezo>
+<mezo id = "panev">MocsÃ¡ri Edit TerÃ©zia</mezo>
 <mezo id = "pirsz">1092</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Bakáts tér 9.</mezo>
+<mezo id = "pteru">BakÃ¡ts tÃ©r 9.</mezo>
 <mezo id = "jogvk">20101028</mezo>
 <mezo id = "jogvv">20151027</mezo>
 <mezo id = "valtk">20110526</mezo>
@@ -1859,13 +1859,13 @@
 <alrovat id = "1">
 <mezo id = "hattol">19960101</mezo>
 <mezo id = "cgjsz">101003351</mezo>
-<mezo id = "nev">Terézvárosi Épületszolgáltató Önkormányzati Vállalat.</mezo>
-<mezo id = "mod">átalakulás rt.-vé</mezo>
+<mezo id = "nev">TerÃ©zvÃ¡rosi Ã‰pÃ¼letszolgÃ¡ltatÃ³ Ã–nkormÃ¡nyzati VÃ¡llalat.</mezo>
+<mezo id = "mod">Ã¡talakulÃ¡s rt.-vÃ©</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20000522</mezo>
 <mezo id = "cgjsz">109062738</mezo>
-<mezo id = "nev">Terézvárosi Beruházásszervezõ és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">TerÃ©zvÃ¡rosi BeruhÃ¡zÃ¡sszervezÅ‘ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "20">
@@ -1888,16 +1888,16 @@
 <mezo id = "adosz">12098336242</mezo>
 <mezo id = "kadosz">HU12098336</mezo>
 <mezo id = "bkelt">20110811</mezo>
-<mezo id = "megj">Státusz kezdete: 1996/01/01</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 1996/01/01</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0110">
 <alrovat id = "1">
 <mezo id = "hattol">19960101</mezo>
-<mezo id = "nev">Budapest, Fõváros Terézváros Önkormányzata</mezo>
+<mezo id = "nev">Budapest, FÅ‘vÃ¡ros TerÃ©zvÃ¡ros Ã–nkormÃ¡nyzata</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1067</mezo>
-<mezo id = "hely">Budapest, Eötvös J. u. 3.</mezo>
+<mezo id = "hely">Budapest, EÃ¶tvÃ¶s J. u. 3.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "93">
@@ -1909,516 +1909,516 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság az 1998. 09. 18-án hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-2(10). Zártkörû.<ujsor/>
- Törölve: 1998. 05. 22-i hatállyal.<ujsor/>
- Zártkörû.<ujsor/>
- Hatályos: 1998. 08. 10-tõl.<ujsor/>
-8(10). Közzététel módja: hirdetmény.<ujsor/>
- Törölve: 1998. 05. 22-i hatállyal.<ujsor/>
- Közzététel módja: meghívó.<ujsor/>
- Hatályos: 1998. 08. 10-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g az 1998. 09. 18-Ã¡n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+2(10). ZÃ¡rtkÃ¶rÅ±.<ujsor/>
+ TÃ¶rÃ¶lve: 1998. 05. 22-i hatÃ¡llyal.<ujsor/>
+ ZÃ¡rtkÃ¶rÅ±.<ujsor/>
+ HatÃ¡lyos: 1998. 08. 10-tÅ‘l.<ujsor/>
+8(10). KÃ¶zzÃ©tÃ©tel mÃ³dja: hirdetmÃ©ny.<ujsor/>
+ TÃ¶rÃ¶lve: 1998. 05. 22-i hatÃ¡llyal.<ujsor/>
+ KÃ¶zzÃ©tÃ©tel mÃ³dja: meghÃ­vÃ³.<ujsor/>
+ HatÃ¡lyos: 1998. 08. 10-tÅ‘l.<ujsor/>
 Bejegyezve: 1998. 09. 28.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110042987</mezo>
-<mezo id = "nev">Terézvárosi Vagyonkezelõ Részvénytársaság</mezo>
-<mezo id = "cim">1063 Budapest Szív u. 40.</mezo>
+<mezo id = "nev">TerÃ©zvÃ¡rosi VagyonkezelÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1063 Budapest SzÃ­v u. 40.</mezo>
 <mezo id = "adosz">12098336201</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Terézvárosi Vagyonkezelõ Részvénytársaság (1063 Budapest, Szív u. 40.) és a Terézvárosi Beruházásszervezõ és Szolgáltató Korlátolt Felelõsségû Társaság (1068 Budapest, Király u. 88.) a Gt. 65. §-a és 75. § (2) bekezdése alapján az alábbi közleményt teszi közzé:<ujsor/>
-A Fõvárosi bíróság mint Cégbíróság által Cg. [01 10 042987] cégjegyzékszám alatt nyilvántartásba vett, 1063 Budapest, Szív u. 40. szám alatti székhelyû Terézvárosi Vagyonkezelõ Részvénytársaság, és a Fõvárosi bíróság mint Cégbíróság által Cg. [01 09 062738] cégjegyzékszám alatt nyilvántartásba vett, 1068 Budapest, Király u. 88. szám alatti Terézvárosi Beruházásszervezõ és Szolgáltató Korlátolt Felelõsségû Társaság<ujsor/>
-egyesül.<ujsor/>
-Az egyesülés módja: beolvadás.<ujsor/>
-A Terézvárosi Beruházásszervezõ és Szolgáltató Kft. mint beolvadó társaság beolvad a Terézvárosi Vagyonkezelõ Részvénytársaságba mint átvevõ társaságba.<ujsor/>
-Az egyesülési szerzõdés aláírásának tervezett idõpontja: 1999. december 22.<ujsor/>
-Az egyesülõ társaságok vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-ESZKÖZÖK A Terézvárosi A Terézvárosi Az átvevõ<ujsor/>
- Vagyonkezelõ Rt. Kft. Terézvárosi<ujsor/>
- záró záró Vagyonkezelõ Rt.<ujsor/>
- vagyonmérleg- vagyonmérleg- nyitó<ujsor/>
- tervezete tervezete vagyonmérleg-<ujsor/>
+<mezo id = "szoveg">A TerÃ©zvÃ¡rosi VagyonkezelÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (1063 Budapest, SzÃ­v u. 40.) Ã©s a TerÃ©zvÃ¡rosi BeruhÃ¡zÃ¡sszervezÅ‘ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (1068 Budapest, KirÃ¡ly u. 88.) a Gt. 65. Â§-a Ã©s 75. Â§ (2) bekezdÃ©se alapjÃ¡n az alÃ¡bbi kÃ¶zlemÃ©nyt teszi kÃ¶zzÃ©:<ujsor/>
+A FÅ‘vÃ¡rosi bÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g Ã¡ltal Cg. [01 10 042987] cÃ©gjegyzÃ©kszÃ¡m alatt nyilvÃ¡ntartÃ¡sba vett, 1063 Budapest, SzÃ­v u. 40. szÃ¡m alatti szÃ©khelyÅ± TerÃ©zvÃ¡rosi VagyonkezelÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g, Ã©s a FÅ‘vÃ¡rosi bÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g Ã¡ltal Cg. [01 09 062738] cÃ©gjegyzÃ©kszÃ¡m alatt nyilvÃ¡ntartÃ¡sba vett, 1068 Budapest, KirÃ¡ly u. 88. szÃ¡m alatti TerÃ©zvÃ¡rosi BeruhÃ¡zÃ¡sszervezÅ‘ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g<ujsor/>
+egyesÃ¼l.<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: beolvadÃ¡s.<ujsor/>
+A TerÃ©zvÃ¡rosi BeruhÃ¡zÃ¡sszervezÅ‘ Ã©s SzolgÃ¡ltatÃ³ Kft. mint beolvadÃ³ tÃ¡rsasÃ¡g beolvad a TerÃ©zvÃ¡rosi VagyonkezelÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡gba mint Ã¡tvevÅ‘ tÃ¡rsasÃ¡gba.<ujsor/>
+Az egyesÃ¼lÃ©si szerzÅ‘dÃ©s alÃ¡Ã­rÃ¡sÃ¡nak tervezett idÅ‘pontja: 1999. december 22.<ujsor/>
+Az egyesÃ¼lÅ‘ tÃ¡rsasÃ¡gok vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K A TerÃ©zvÃ¡rosi A TerÃ©zvÃ¡rosi Az Ã¡tvevÅ‘<ujsor/>
+ VagyonkezelÅ‘ Rt. Kft. TerÃ©zvÃ¡rosi<ujsor/>
+ zÃ¡rÃ³ zÃ¡rÃ³ VagyonkezelÅ‘ Rt.<ujsor/>
+ vagyonmÃ©rleg- vagyonmÃ©rleg- nyitÃ³<ujsor/>
+ tervezete tervezete vagyonmÃ©rleg-<ujsor/>
  (E Ft) (E Ft) tervezete<ujsor/>
    (E Ft)<ujsor/>
-A) Befektetett eszközök 264 488 46 195 300 683<ujsor/>
-I. Immateriális javak 51 381 160 51 541<ujsor/>
-II. Tárgyi eszközök 202 528 45 821 248 349<ujsor/>
-III. Befektetett pénzügyi eszközök 579 214 793<ujsor/>
-B) Forgóeszközök 105 406 29 717 135 123<ujsor/>
-I. Készletek 0 84 84<ujsor/>
-II. Követelések 36 703 25 359 62 062<ujsor/>
-III. Pénzeszközök 68 703 4 274 72 977<ujsor/>
-C) Aktív idõbeli elhatárolás 16 401 0 16 401<ujsor/>
-ÖSSZESEN: 376 295 75 912 452 207<ujsor/>
-FORRÁSOK A Terézvárosi A Terézvárosi Az átvevõ<ujsor/>
- Vagyonkezelõ Rt. Kft. Terézvárosi<ujsor/>
- záró záró Vagyonkezelõ Rt.<ujsor/>
- vagyonmérleg- vagyonmérleg- nyitó<ujsor/>
- tervezete tervezete vagyonmérleg-<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 264 488 46 195 300 683<ujsor/>
+I. ImmateriÃ¡lis javak 51 381 160 51 541<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 202 528 45 821 248 349<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 579 214 793<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 105 406 29 717 135 123<ujsor/>
+I. KÃ©szletek 0 84 84<ujsor/>
+II. KÃ¶vetelÃ©sek 36 703 25 359 62 062<ujsor/>
+III. PÃ©nzeszkÃ¶zÃ¶k 68 703 4 274 72 977<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡s 16 401 0 16 401<ujsor/>
+Ã–SSZESEN: 376 295 75 912 452 207<ujsor/>
+FORRÃSOK A TerÃ©zvÃ¡rosi A TerÃ©zvÃ¡rosi Az Ã¡tvevÅ‘<ujsor/>
+ VagyonkezelÅ‘ Rt. Kft. TerÃ©zvÃ¡rosi<ujsor/>
+ zÃ¡rÃ³ zÃ¡rÃ³ VagyonkezelÅ‘ Rt.<ujsor/>
+ vagyonmÃ©rleg- vagyonmÃ©rleg- nyitÃ³<ujsor/>
+ tervezete tervezete vagyonmÃ©rleg-<ujsor/>
  (E Ft) (E Ft) tervezete<ujsor/>
    (E Ft)<ujsor/>
-D) Saját tõke 267 878 73 978 341 856<ujsor/>
-I. Jegyzett tõke 226 000 20 000 246 000<ujsor/>
-II. Tõketartalék 27 125 42 017 69 142<ujsor/>
-III. Eredménytartalék 14 753 11 961 26 714<ujsor/>
-E) Céltartalék 1 516 984 2 500<ujsor/>
-F) Kötelezettségek 81 016 950 81 966<ujsor/>
-G) Passzív idõbeli elhatárolások 25 885 0 25 885<ujsor/>
-ÖSSZESEN: 376 295 75 912 452 207<ujsor/>
-A jegyzett tõke összegén belül a pénzbeli és nem pénzbeli hozzájárulás aránya:<ujsor/>
-Pénzbeli hozzájárulás: 37 013 000 Ft (15,04%).<ujsor/>
-Nem pénzbeli hozzájárulás: 208 987 000 Ft (84,95%).<ujsor/>
-A részvények típusa: névre szóló részvények.<ujsor/>
-A részvények fajtája: törzsrészvények.<ujsor/>
-A részvények névértéke: 1 000 000 Ft.<ujsor/>
-Az átvevõ Terézvárosi Vagyonkezelõ Rt. tevékenységi köre: 4522 Tetõszerkezet-építés, tetõfedés, vízszigetelés; 4525 Egyéb speciális szaképítés; 4531 Villanyszerelés; 4532 Szigetelés; 4533 Víz-, gáz-, fûtésszerelés; 4534 Egyéb épületgépészeti szerelés; 4541 Vakolás; 4542 Épületasztalosszerkezet-szerelés; 4543 Padló-, falburkolás; 4544 Festés, üvegezés; 4545 Egyéb befejezõ építés; 5020 Gépjármûjavítás; 5153 Fa-, építõanyag-, szaniteráru-nagykereskedelem; 5154 Vasáru-, szerelvény-nagykereskedelem; 5156 Egyéb termelési célú termék nagykereskedelme; 5246 Vasáru-, festék-, üveg-kiskereskedelem; 5248 Egyéb, máshova nem sorolt iparcikk-kiskereskedelem; 6311 Rakománykezelés; 6312 Tárolás, raktározás; 6321 Szárazföldi szállítást segítõ tevékenység; 6523 Máshova nem sorolt egyéb pénzügyi tevékenység; 7012 Ingatlanforgalmazás; 7020 Ingatlan bérbeadása, üzemeltetése; 7031 Ingatlanügynöki tevékenység; 7032 Ingatlankezelés; 7220 Szoftverkészítés, -szaktanácsadás; 7230 Adatfeldolgozás; 7240 Adatbanki tevékenység; 7260 Egyéb számítástechnikai tevékenység; 7412 Számviteli, könyvvizsgálói, adószakértõi tevékenység; 7414 Üzletviteli tanácsadás; 7420 Mérnöki tevékenység, tanácsadás; 7430 Mûszaki vizsgálat, elemzés; 7440 Hirdetés; 7470 Takarítás, tisztítás; 7484 Máshova nem sorolt, egyéb gazdasági tevékenységet segítõ szolgáltatás; 8532 Szociális ellátás elhelyezés nélkül.<ujsor/>
-Az átvevõ Terézvárosi Vagyonkezelõ Rt. vezetõ tisztségviselõinek neve és lakóhelye:<ujsor/>
-Vadai Mihály Zsolt (a. n.: Varga Erzsébet) igazgatósági tag, 1066 Budapest, Weiner Leó u. 18.,<ujsor/>
-Baranyai Zsolt (a. n.: Lorge Margit) igazgatósági tag, 1063 Budapest, Szegfû u. 5.,<ujsor/>
-Lászay János (a. n.: Thébusz Paula) igazgatósági tag, 1062 Budapest, Bajza u. 17.,<ujsor/>
-dr. Hajdú Mária (a. n.: Sárkány Júlia) igazgatósági tag, 1064 Budapest, Rózsa u. 95.,<ujsor/>
-Bajor Zoltán (a. n.: Weisz Judit) igazgatósági tag, 1067 Budapest, Eötvös u. 34.,<ujsor/>
-dr. Fekete József (a. n.: Nagy Matild) igazgatósági tag, 1182 Budapest, Kõrös u. 14.,<ujsor/>
-Völgyessy Szomor Erika (a. n.: Dvorszky Erika) igazgatósági tag, 1039 Budapest, Naplemente u. 23.,<ujsor/>
-Szili Kovács Tibor (a. n.: dr. Darvas Mária) igazgatósági tag, 1066 Budapest, Teréz krt. 12.<ujsor/>
-Az átvevõ Terézvárosi Vagyonkezelõ Rt. felügyelõbizottsági tagjainak neve és lakóhelye:<ujsor/>
-Csomor Zoltán (a. n: Kovács Erzsébet), 1119 Budapest, Etele út 32.,<ujsor/>
-dr. Marián Miklós (a. n: Kálmán Ildikó), 1113 Budapest, Karolina út 37/A,<ujsor/>
-Bánszky Ferenc (a. n: Bánszky Zsuzsanna), 1094 Budapest, Tompa u. 16.,<ujsor/>
-Bárány Tibor (a. n: Túróczi Ilona), 1141 Budapest, Bazsarózsa u. 68. III. 11.<ujsor/>
-Felhívjuk a társaság hitelezõit, hogy követeléseiket a Gt. 66. §-a alapján a társaságnak jelentsék be.<ujsor/>
+D) SajÃ¡t tÅ‘ke 267 878 73 978 341 856<ujsor/>
+I. Jegyzett tÅ‘ke 226 000 20 000 246 000<ujsor/>
+II. TÅ‘ketartalÃ©k 27 125 42 017 69 142<ujsor/>
+III. EredmÃ©nytartalÃ©k 14 753 11 961 26 714<ujsor/>
+E) CÃ©ltartalÃ©k 1 516 984 2 500<ujsor/>
+F) KÃ¶telezettsÃ©gek 81 016 950 81 966<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 25 885 0 25 885<ujsor/>
+Ã–SSZESEN: 376 295 75 912 452 207<ujsor/>
+A jegyzett tÅ‘ke Ã¶sszegÃ©n belÃ¼l a pÃ©nzbeli Ã©s nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s arÃ¡nya:<ujsor/>
+PÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s: 37 013 000 Ft (15,04%).<ujsor/>
+Nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s: 208 987 000 Ft (84,95%).<ujsor/>
+A rÃ©szvÃ©nyek tÃ­pusa: nÃ©vre szÃ³lÃ³ rÃ©szvÃ©nyek.<ujsor/>
+A rÃ©szvÃ©nyek fajtÃ¡ja: tÃ¶rzsrÃ©szvÃ©nyek.<ujsor/>
+A rÃ©szvÃ©nyek nÃ©vÃ©rtÃ©ke: 1 000 000 Ft.<ujsor/>
+Az Ã¡tvevÅ‘ TerÃ©zvÃ¡rosi VagyonkezelÅ‘ Rt. tevÃ©kenysÃ©gi kÃ¶re: 4522 TetÅ‘szerkezet-Ã©pÃ­tÃ©s, tetÅ‘fedÃ©s, vÃ­zszigetelÃ©s; 4525 EgyÃ©b speciÃ¡lis szakÃ©pÃ­tÃ©s; 4531 VillanyszerelÃ©s; 4532 SzigetelÃ©s; 4533 VÃ­z-, gÃ¡z-, fÅ±tÃ©sszerelÃ©s; 4534 EgyÃ©b Ã©pÃ¼letgÃ©pÃ©szeti szerelÃ©s; 4541 VakolÃ¡s; 4542 Ã‰pÃ¼letasztalosszerkezet-szerelÃ©s; 4543 PadlÃ³-, falburkolÃ¡s; 4544 FestÃ©s, Ã¼vegezÃ©s; 4545 EgyÃ©b befejezÅ‘ Ã©pÃ­tÃ©s; 5020 GÃ©pjÃ¡rmÅ±javÃ­tÃ¡s; 5153 Fa-, Ã©pÃ­tÅ‘anyag-, szaniterÃ¡ru-nagykereskedelem; 5154 VasÃ¡ru-, szerelvÃ©ny-nagykereskedelem; 5156 EgyÃ©b termelÃ©si cÃ©lÃº termÃ©k nagykereskedelme; 5246 VasÃ¡ru-, festÃ©k-, Ã¼veg-kiskereskedelem; 5248 EgyÃ©b, mÃ¡shova nem sorolt iparcikk-kiskereskedelem; 6311 RakomÃ¡nykezelÃ©s; 6312 TÃ¡rolÃ¡s, raktÃ¡rozÃ¡s; 6321 SzÃ¡razfÃ¶ldi szÃ¡llÃ­tÃ¡st segÃ­tÅ‘ tevÃ©kenysÃ©g; 6523 MÃ¡shova nem sorolt egyÃ©b pÃ©nzÃ¼gyi tevÃ©kenysÃ©g; 7012 IngatlanforgalmazÃ¡s; 7020 Ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se; 7031 IngatlanÃ¼gynÃ¶ki tevÃ©kenysÃ©g; 7032 IngatlankezelÃ©s; 7220 SzoftverkÃ©szÃ­tÃ©s, -szaktanÃ¡csadÃ¡s; 7230 AdatfeldolgozÃ¡s; 7240 Adatbanki tevÃ©kenysÃ©g; 7260 EgyÃ©b szÃ¡mÃ­tÃ¡stechnikai tevÃ©kenysÃ©g; 7412 SzÃ¡mviteli, kÃ¶nyvvizsgÃ¡lÃ³i, adÃ³szakÃ©rtÅ‘i tevÃ©kenysÃ©g; 7414 Ãœzletviteli tanÃ¡csadÃ¡s; 7420 MÃ©rnÃ¶ki tevÃ©kenysÃ©g, tanÃ¡csadÃ¡s; 7430 MÅ±szaki vizsgÃ¡lat, elemzÃ©s; 7440 HirdetÃ©s; 7470 TakarÃ­tÃ¡s, tisztÃ­tÃ¡s; 7484 MÃ¡shova nem sorolt, egyÃ©b gazdasÃ¡gi tevÃ©kenysÃ©get segÃ­tÅ‘ szolgÃ¡ltatÃ¡s; 8532 SzociÃ¡lis ellÃ¡tÃ¡s elhelyezÃ©s nÃ©lkÃ¼l.<ujsor/>
+Az Ã¡tvevÅ‘ TerÃ©zvÃ¡rosi VagyonkezelÅ‘ Rt. vezetÅ‘ tisztsÃ©gviselÅ‘inek neve Ã©s lakÃ³helye:<ujsor/>
+Vadai MihÃ¡ly Zsolt (a. n.: Varga ErzsÃ©bet) igazgatÃ³sÃ¡gi tag, 1066 Budapest, Weiner LeÃ³ u. 18.,<ujsor/>
+Baranyai Zsolt (a. n.: Lorge Margit) igazgatÃ³sÃ¡gi tag, 1063 Budapest, SzegfÅ± u. 5.,<ujsor/>
+LÃ¡szay JÃ¡nos (a. n.: ThÃ©busz Paula) igazgatÃ³sÃ¡gi tag, 1062 Budapest, Bajza u. 17.,<ujsor/>
+dr. HajdÃº MÃ¡ria (a. n.: SÃ¡rkÃ¡ny JÃºlia) igazgatÃ³sÃ¡gi tag, 1064 Budapest, RÃ³zsa u. 95.,<ujsor/>
+Bajor ZoltÃ¡n (a. n.: Weisz Judit) igazgatÃ³sÃ¡gi tag, 1067 Budapest, EÃ¶tvÃ¶s u. 34.,<ujsor/>
+dr. Fekete JÃ³zsef (a. n.: Nagy Matild) igazgatÃ³sÃ¡gi tag, 1182 Budapest, KÅ‘rÃ¶s u. 14.,<ujsor/>
+VÃ¶lgyessy Szomor Erika (a. n.: Dvorszky Erika) igazgatÃ³sÃ¡gi tag, 1039 Budapest, Naplemente u. 23.,<ujsor/>
+Szili KovÃ¡cs Tibor (a. n.: dr. Darvas MÃ¡ria) igazgatÃ³sÃ¡gi tag, 1066 Budapest, TerÃ©z krt. 12.<ujsor/>
+Az Ã¡tvevÅ‘ TerÃ©zvÃ¡rosi VagyonkezelÅ‘ Rt. felÃ¼gyelÅ‘bizottsÃ¡gi tagjainak neve Ã©s lakÃ³helye:<ujsor/>
+Csomor ZoltÃ¡n (a. n: KovÃ¡cs ErzsÃ©bet), 1119 Budapest, Etele Ãºt 32.,<ujsor/>
+dr. MariÃ¡n MiklÃ³s (a. n: KÃ¡lmÃ¡n IldikÃ³), 1113 Budapest, Karolina Ãºt 37/A,<ujsor/>
+BÃ¡nszky Ferenc (a. n: BÃ¡nszky Zsuzsanna), 1094 Budapest, Tompa u. 16.,<ujsor/>
+BÃ¡rÃ¡ny Tibor (a. n: TÃºrÃ³czi Ilona), 1141 Budapest, BazsarÃ³zsa u. 68. III. 11.<ujsor/>
+FelhÃ­vjuk a tÃ¡rsasÃ¡g hitelezÅ‘it, hogy kÃ¶vetelÃ©seiket a Gt. 66. Â§-a alapjÃ¡n a tÃ¡rsasÃ¡gnak jelentsÃ©k be.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110042987</mezo>
-<mezo id = "nev">Terézvárosi Vagyonkezelõ Részvénytársaság</mezo>
+<mezo id = "nev">TerÃ©zvÃ¡rosi VagyonkezelÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Terézvárosi Vagyonkezelõ Részvénytársaság (1063 Budapest, Szív u. 40.) és a Terézvárosi Beruházásszervezõ és Szolgáltató Korlátolt Felelõsségû Társaság (1068 Budapest, Király u. 88.) a Gt. 65. §-a és 75. § (2) bekezdése alapján az alábbi közleményt teszi közzé:<ujsor/>
-A Fõvárosi bíróság mint Cégbíróság által Cg. [01 10 042987] cégjegyzékszám alatt nyilvántartásba vett, 1063 Budapest, Szív u. 40. szám alatti székhelyû Terézvárosi Vagyonkezelõ Részvénytársaság, és a Fõvárosi bíróság mint Cégbíróság által Cg. [01 09 062738] cégjegyzékszám alatt nyilvántartásba vett, 1068 Budapest, Király u. 88. szám alatti Terézvárosi Beruházásszervezõ és Szolgáltató Korlátolt Felelõsségû Társaság<ujsor/>
-egyesül.<ujsor/>
-Az egyesülés módja: beolvadás.<ujsor/>
-A Terézvárosi Beruházásszervezõ és Szolgáltató Kft. mint beolvadó társaság beolvad a Terézvárosi Vagyonkezelõ Részvénytársaságba mint átvevõ társaságba.<ujsor/>
-Az egyesülési szerzõdés aláírásának tervezett idõpontja: 1999. december 22.<ujsor/>
-Az egyesülõ társaságok vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-ESZKÖZÖK A Terézvárosi A Terézvárosi Az átvevõ<ujsor/>
- Vagyonkezelõ Rt. Kft. Terézvárosi<ujsor/>
- záró záró Vagyonkezelõ Rt.<ujsor/>
- vagyonmérleg- vagyonmérleg- nyitó<ujsor/>
- tervezete tervezete vagyonmérleg-<ujsor/>
+<mezo id = "szoveg">A TerÃ©zvÃ¡rosi VagyonkezelÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (1063 Budapest, SzÃ­v u. 40.) Ã©s a TerÃ©zvÃ¡rosi BeruhÃ¡zÃ¡sszervezÅ‘ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (1068 Budapest, KirÃ¡ly u. 88.) a Gt. 65. Â§-a Ã©s 75. Â§ (2) bekezdÃ©se alapjÃ¡n az alÃ¡bbi kÃ¶zlemÃ©nyt teszi kÃ¶zzÃ©:<ujsor/>
+A FÅ‘vÃ¡rosi bÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g Ã¡ltal Cg. [01 10 042987] cÃ©gjegyzÃ©kszÃ¡m alatt nyilvÃ¡ntartÃ¡sba vett, 1063 Budapest, SzÃ­v u. 40. szÃ¡m alatti szÃ©khelyÅ± TerÃ©zvÃ¡rosi VagyonkezelÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g, Ã©s a FÅ‘vÃ¡rosi bÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g Ã¡ltal Cg. [01 09 062738] cÃ©gjegyzÃ©kszÃ¡m alatt nyilvÃ¡ntartÃ¡sba vett, 1068 Budapest, KirÃ¡ly u. 88. szÃ¡m alatti TerÃ©zvÃ¡rosi BeruhÃ¡zÃ¡sszervezÅ‘ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g<ujsor/>
+egyesÃ¼l.<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: beolvadÃ¡s.<ujsor/>
+A TerÃ©zvÃ¡rosi BeruhÃ¡zÃ¡sszervezÅ‘ Ã©s SzolgÃ¡ltatÃ³ Kft. mint beolvadÃ³ tÃ¡rsasÃ¡g beolvad a TerÃ©zvÃ¡rosi VagyonkezelÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡gba mint Ã¡tvevÅ‘ tÃ¡rsasÃ¡gba.<ujsor/>
+Az egyesÃ¼lÃ©si szerzÅ‘dÃ©s alÃ¡Ã­rÃ¡sÃ¡nak tervezett idÅ‘pontja: 1999. december 22.<ujsor/>
+Az egyesÃ¼lÅ‘ tÃ¡rsasÃ¡gok vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K A TerÃ©zvÃ¡rosi A TerÃ©zvÃ¡rosi Az Ã¡tvevÅ‘<ujsor/>
+ VagyonkezelÅ‘ Rt. Kft. TerÃ©zvÃ¡rosi<ujsor/>
+ zÃ¡rÃ³ zÃ¡rÃ³ VagyonkezelÅ‘ Rt.<ujsor/>
+ vagyonmÃ©rleg- vagyonmÃ©rleg- nyitÃ³<ujsor/>
+ tervezete tervezete vagyonmÃ©rleg-<ujsor/>
  (E Ft) (E Ft) tervezete<ujsor/>
    (E Ft)<ujsor/>
-A) Befektetett eszközök 264 488 46 195 300 683<ujsor/>
-I. Immateriális javak 51 381 160 51 541<ujsor/>
-II. Tárgyi eszközök 202 528 45 821 248 349<ujsor/>
-III. Befektetett pénzügyi eszközök 579 214 793<ujsor/>
-B) Forgóeszközök 105 406 29 717 135 123<ujsor/>
-I. Készletek 0 84 84<ujsor/>
-II. Követelések 36 703 25 359 62 062<ujsor/>
-III. Pénzeszközök 68 703 4 274 72 977<ujsor/>
-C) Aktív idõbeli elhatárolás 16 401 0 16 401<ujsor/>
-ÖSSZESEN: 376 295 75 912 452 207<ujsor/>
-FORRÁSOK A Terézvárosi A Terézvárosi Az átvevõ<ujsor/>
- Vagyonkezelõ Rt. Kft. Terézvárosi<ujsor/>
- záró záró Vagyonkezelõ Rt.<ujsor/>
- vagyonmérleg- vagyonmérleg- nyitó<ujsor/>
- tervezete tervezete vagyonmérleg-<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 264 488 46 195 300 683<ujsor/>
+I. ImmateriÃ¡lis javak 51 381 160 51 541<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 202 528 45 821 248 349<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 579 214 793<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 105 406 29 717 135 123<ujsor/>
+I. KÃ©szletek 0 84 84<ujsor/>
+II. KÃ¶vetelÃ©sek 36 703 25 359 62 062<ujsor/>
+III. PÃ©nzeszkÃ¶zÃ¶k 68 703 4 274 72 977<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡s 16 401 0 16 401<ujsor/>
+Ã–SSZESEN: 376 295 75 912 452 207<ujsor/>
+FORRÃSOK A TerÃ©zvÃ¡rosi A TerÃ©zvÃ¡rosi Az Ã¡tvevÅ‘<ujsor/>
+ VagyonkezelÅ‘ Rt. Kft. TerÃ©zvÃ¡rosi<ujsor/>
+ zÃ¡rÃ³ zÃ¡rÃ³ VagyonkezelÅ‘ Rt.<ujsor/>
+ vagyonmÃ©rleg- vagyonmÃ©rleg- nyitÃ³<ujsor/>
+ tervezete tervezete vagyonmÃ©rleg-<ujsor/>
  (E Ft) (E Ft) tervezete<ujsor/>
    (E Ft)<ujsor/>
-D) Saját tõke 267 878 73 978 341 856<ujsor/>
-I. Jegyzett tõke 226 000 20 000 246 000<ujsor/>
-II. Tõketartalék 27 125 42 017 69 142<ujsor/>
-III. Eredménytartalék 14 753 11 961 26 714<ujsor/>
-E) Céltartalék 1 516 984 2 500<ujsor/>
-F) Kötelezettségek 81 016 950 81 966<ujsor/>
-G) Passzív idõbeli elhatárolások 25 885 0 25 885<ujsor/>
-ÖSSZESEN: 376 295 75 912 452 207<ujsor/>
-A jegyzett tõke összegén belül a pénzbeli és nem pénzbeli hozzájárulás aránya:<ujsor/>
-Pénzbeli hozzájárulás: 37 013 000 Ft (15,04%).<ujsor/>
-Nem pénzbeli hozzájárulás: 208 987 000 Ft (84,95%).<ujsor/>
-A részvények típusa: névre szóló részvények.<ujsor/>
-A részvények fajtája: törzsrészvények.<ujsor/>
-A részvények névértéke: 1 000 000 Ft.<ujsor/>
-Az átvevõ Terézvárosi Vagyonkezelõ Rt. tevékenységi köre: 4522 Tetõszerkezet-építés, tetõfedés, vízszigetelés; 4525 Egyéb speciális szaképítés; 4531 Villanyszerelés; 4532 Szigetelés; 4533 Víz-, gáz-, fûtésszerelés; 4534 Egyéb épületgépészeti szerelés; 4541 Vakolás; 4542 Épületasztalosszerkezet-szerelés; 4543 Padló-, falburkolás; 4544 Festés, üvegezés; 4545 Egyéb befejezõ építés; 5020 Gépjármûjavítás; 5153 Fa-, építõanyag-, szaniteráru-nagykereskedelem; 5154 Vasáru-, szerelvény-nagykereskedelem; 5156 Egyéb termelési célú termék nagykereskedelme; 5246 Vasáru-, festék-, üveg-kiskereskedelem; 5248 Egyéb, máshova nem sorolt iparcikk-kiskereskedelem; 6311 Rakománykezelés; 6312 Tárolás, raktározás; 6321 Szárazföldi szállítást segítõ tevékenység; 6523 Máshova nem sorolt egyéb pénzügyi tevékenység; 7012 Ingatlanforgalmazás; 7020 Ingatlan bérbeadása, üzemeltetése; 7031 Ingatlanügynöki tevékenység; 7032 Ingatlankezelés; 7220 Szoftverkészítés, -szaktanácsadás; 7230 Adatfeldolgozás; 7240 Adatbanki tevékenység; 7260 Egyéb számítástechnikai tevékenység; 7412 Számviteli, könyvvizsgálói, adószakértõi tevékenység; 7414 Üzletviteli tanácsadás; 7420 Mérnöki tevékenység, tanácsadás; 7430 Mûszaki vizsgálat, elemzés; 7440 Hirdetés; 7470 Takarítás, tisztítás; 7484 Máshova nem sorolt, egyéb gazdasági tevékenységet segítõ szolgáltatás; 8532 Szociális ellátás elhelyezés nélkül.<ujsor/>
-Az átvevõ Terézvárosi Vagyonkezelõ Rt. vezetõ tisztségviselõinek neve és lakóhelye:<ujsor/>
-Vadai Mihály Zsolt (a. n.: Varga Erzsébet) igazgatósági tag, 1066 Budapest, Weiner Leó u. 18.,<ujsor/>
-Baranyai Zsolt (a. n.: Lorge Margit) igazgatósági tag, 1063 Budapest, Szegfû u. 5.,<ujsor/>
-Lászay János (a. n.: Thébusz Paula) igazgatósági tag, 1062 Budapest, Bajza u. 17.,<ujsor/>
-dr. Hajdú Mária (a. n.: Sárkány Júlia) igazgatósági tag, 1064 Budapest, Rózsa u. 95.,<ujsor/>
-Bajor Zoltán (a. n.: Weisz Judit) igazgatósági tag, 1067 Budapest, Eötvös u. 34.,<ujsor/>
-dr. Fekete József (a. n.: Nagy Matild) igazgatósági tag, 1182 Budapest, Kõrös u. 14.,<ujsor/>
-Völgyessy Szomor Erika (a. n.: Dvorszky Erika) igazgatósági tag, 1039 Budapest, Naplemente u. 23.,<ujsor/>
-Szili Kovács Tibor (a. n.: dr. Darvas Mária) igazgatósági tag, 1066 Budapest, Teréz krt. 12.<ujsor/>
-Az átvevõ Terézvárosi Vagyonkezelõ Rt. felügyelõbizottsági tagjainak neve és lakóhelye:<ujsor/>
-Csomor Zoltán (a. n: Kovács Erzsébet), 1119 Budapest, Etele út 32.,<ujsor/>
-dr. Marián Miklós (a. n: Kálmán Ildikó), 1113 Budapest, Karolina út 37/A,<ujsor/>
-Bánszky Ferenc (a. n: Bánszky Zsuzsanna), 1094 Budapest, Tompa u. 16.,<ujsor/>
-Bárány Tibor (a. n: Túróczi Ilona), 1141 Budapest, Bazsarózsa u. 68. III. 11.<ujsor/>
-Felhívjuk a társaság hitelezõit, hogy követeléseiket a Gt. 66. §-a alapján a társaságnak jelentsék be.<ujsor/>
+D) SajÃ¡t tÅ‘ke 267 878 73 978 341 856<ujsor/>
+I. Jegyzett tÅ‘ke 226 000 20 000 246 000<ujsor/>
+II. TÅ‘ketartalÃ©k 27 125 42 017 69 142<ujsor/>
+III. EredmÃ©nytartalÃ©k 14 753 11 961 26 714<ujsor/>
+E) CÃ©ltartalÃ©k 1 516 984 2 500<ujsor/>
+F) KÃ¶telezettsÃ©gek 81 016 950 81 966<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 25 885 0 25 885<ujsor/>
+Ã–SSZESEN: 376 295 75 912 452 207<ujsor/>
+A jegyzett tÅ‘ke Ã¶sszegÃ©n belÃ¼l a pÃ©nzbeli Ã©s nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s arÃ¡nya:<ujsor/>
+PÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s: 37 013 000 Ft (15,04%).<ujsor/>
+Nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s: 208 987 000 Ft (84,95%).<ujsor/>
+A rÃ©szvÃ©nyek tÃ­pusa: nÃ©vre szÃ³lÃ³ rÃ©szvÃ©nyek.<ujsor/>
+A rÃ©szvÃ©nyek fajtÃ¡ja: tÃ¶rzsrÃ©szvÃ©nyek.<ujsor/>
+A rÃ©szvÃ©nyek nÃ©vÃ©rtÃ©ke: 1 000 000 Ft.<ujsor/>
+Az Ã¡tvevÅ‘ TerÃ©zvÃ¡rosi VagyonkezelÅ‘ Rt. tevÃ©kenysÃ©gi kÃ¶re: 4522 TetÅ‘szerkezet-Ã©pÃ­tÃ©s, tetÅ‘fedÃ©s, vÃ­zszigetelÃ©s; 4525 EgyÃ©b speciÃ¡lis szakÃ©pÃ­tÃ©s; 4531 VillanyszerelÃ©s; 4532 SzigetelÃ©s; 4533 VÃ­z-, gÃ¡z-, fÅ±tÃ©sszerelÃ©s; 4534 EgyÃ©b Ã©pÃ¼letgÃ©pÃ©szeti szerelÃ©s; 4541 VakolÃ¡s; 4542 Ã‰pÃ¼letasztalosszerkezet-szerelÃ©s; 4543 PadlÃ³-, falburkolÃ¡s; 4544 FestÃ©s, Ã¼vegezÃ©s; 4545 EgyÃ©b befejezÅ‘ Ã©pÃ­tÃ©s; 5020 GÃ©pjÃ¡rmÅ±javÃ­tÃ¡s; 5153 Fa-, Ã©pÃ­tÅ‘anyag-, szaniterÃ¡ru-nagykereskedelem; 5154 VasÃ¡ru-, szerelvÃ©ny-nagykereskedelem; 5156 EgyÃ©b termelÃ©si cÃ©lÃº termÃ©k nagykereskedelme; 5246 VasÃ¡ru-, festÃ©k-, Ã¼veg-kiskereskedelem; 5248 EgyÃ©b, mÃ¡shova nem sorolt iparcikk-kiskereskedelem; 6311 RakomÃ¡nykezelÃ©s; 6312 TÃ¡rolÃ¡s, raktÃ¡rozÃ¡s; 6321 SzÃ¡razfÃ¶ldi szÃ¡llÃ­tÃ¡st segÃ­tÅ‘ tevÃ©kenysÃ©g; 6523 MÃ¡shova nem sorolt egyÃ©b pÃ©nzÃ¼gyi tevÃ©kenysÃ©g; 7012 IngatlanforgalmazÃ¡s; 7020 Ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se; 7031 IngatlanÃ¼gynÃ¶ki tevÃ©kenysÃ©g; 7032 IngatlankezelÃ©s; 7220 SzoftverkÃ©szÃ­tÃ©s, -szaktanÃ¡csadÃ¡s; 7230 AdatfeldolgozÃ¡s; 7240 Adatbanki tevÃ©kenysÃ©g; 7260 EgyÃ©b szÃ¡mÃ­tÃ¡stechnikai tevÃ©kenysÃ©g; 7412 SzÃ¡mviteli, kÃ¶nyvvizsgÃ¡lÃ³i, adÃ³szakÃ©rtÅ‘i tevÃ©kenysÃ©g; 7414 Ãœzletviteli tanÃ¡csadÃ¡s; 7420 MÃ©rnÃ¶ki tevÃ©kenysÃ©g, tanÃ¡csadÃ¡s; 7430 MÅ±szaki vizsgÃ¡lat, elemzÃ©s; 7440 HirdetÃ©s; 7470 TakarÃ­tÃ¡s, tisztÃ­tÃ¡s; 7484 MÃ¡shova nem sorolt, egyÃ©b gazdasÃ¡gi tevÃ©kenysÃ©get segÃ­tÅ‘ szolgÃ¡ltatÃ¡s; 8532 SzociÃ¡lis ellÃ¡tÃ¡s elhelyezÃ©s nÃ©lkÃ¼l.<ujsor/>
+Az Ã¡tvevÅ‘ TerÃ©zvÃ¡rosi VagyonkezelÅ‘ Rt. vezetÅ‘ tisztsÃ©gviselÅ‘inek neve Ã©s lakÃ³helye:<ujsor/>
+Vadai MihÃ¡ly Zsolt (a. n.: Varga ErzsÃ©bet) igazgatÃ³sÃ¡gi tag, 1066 Budapest, Weiner LeÃ³ u. 18.,<ujsor/>
+Baranyai Zsolt (a. n.: Lorge Margit) igazgatÃ³sÃ¡gi tag, 1063 Budapest, SzegfÅ± u. 5.,<ujsor/>
+LÃ¡szay JÃ¡nos (a. n.: ThÃ©busz Paula) igazgatÃ³sÃ¡gi tag, 1062 Budapest, Bajza u. 17.,<ujsor/>
+dr. HajdÃº MÃ¡ria (a. n.: SÃ¡rkÃ¡ny JÃºlia) igazgatÃ³sÃ¡gi tag, 1064 Budapest, RÃ³zsa u. 95.,<ujsor/>
+Bajor ZoltÃ¡n (a. n.: Weisz Judit) igazgatÃ³sÃ¡gi tag, 1067 Budapest, EÃ¶tvÃ¶s u. 34.,<ujsor/>
+dr. Fekete JÃ³zsef (a. n.: Nagy Matild) igazgatÃ³sÃ¡gi tag, 1182 Budapest, KÅ‘rÃ¶s u. 14.,<ujsor/>
+VÃ¶lgyessy Szomor Erika (a. n.: Dvorszky Erika) igazgatÃ³sÃ¡gi tag, 1039 Budapest, Naplemente u. 23.,<ujsor/>
+Szili KovÃ¡cs Tibor (a. n.: dr. Darvas MÃ¡ria) igazgatÃ³sÃ¡gi tag, 1066 Budapest, TerÃ©z krt. 12.<ujsor/>
+Az Ã¡tvevÅ‘ TerÃ©zvÃ¡rosi VagyonkezelÅ‘ Rt. felÃ¼gyelÅ‘bizottsÃ¡gi tagjainak neve Ã©s lakÃ³helye:<ujsor/>
+Csomor ZoltÃ¡n (a. n: KovÃ¡cs ErzsÃ©bet), 1119 Budapest, Etele Ãºt 32.,<ujsor/>
+dr. MariÃ¡n MiklÃ³s (a. n: KÃ¡lmÃ¡n IldikÃ³), 1113 Budapest, Karolina Ãºt 37/A,<ujsor/>
+BÃ¡nszky Ferenc (a. n: BÃ¡nszky Zsuzsanna), 1094 Budapest, Tompa u. 16.,<ujsor/>
+BÃ¡rÃ¡ny Tibor (a. n: TÃºrÃ³czi Ilona), 1141 Budapest, BazsarÃ³zsa u. 68. III. 11.<ujsor/>
+FelhÃ­vjuk a tÃ¡rsasÃ¡g hitelezÅ‘it, hogy kÃ¶vetelÃ©seiket a Gt. 66. Â§-a alapjÃ¡n a tÃ¡rsasÃ¡gnak jelentsÃ©k be.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110042987</mezo>
-<mezo id = "nev">Terézvárosi Vagyonkezelõ Részvénytársaság</mezo>
+<mezo id = "nev">TerÃ©zvÃ¡rosi VagyonkezelÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A TERÉZVÁROSI VAGYONKEZELÕ Részvénytársaság (1063 Budapest, Szív u. 40.; Cg.: [01 10 042987]; képviseletében Kovács István vezérigazgató) tudatja ügyfeleivel és hitelezõivel, hogy a képviselõ-testület elhatározta az alaptõke 246 000 000 Ft-ról 222 000 000 Ft-ra történõ leszállítását az 1997. évi CXLIV. tv. rendelkezései szerint.<ujsor/>
-A leszállítást kimondó határozat napja: 2001. június 29.<ujsor/>
-Az eredeti alaptõke: 246 000 000 Ft.<ujsor/>
-A leszállított alaptõke: 222 000 000 Ft.<ujsor/>
-A leszállítás módja: tõkekivonás.<ujsor/>
-Értesítjük a hitelezõket, hogy az 1997. évi CXLIV. tv. 262. §-ának rendelkezése szerint az alaptõke leszállításhoz hozzá nem járuló hitelezõk követeléseiket a hirdetmény utolsó közzétételétõl számított 30 napon belül jelentsék be.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">A TERÃ‰ZVÃROSI VAGYONKEZELÅ RÃ©szvÃ©nytÃ¡rsasÃ¡g (1063 Budapest, SzÃ­v u. 40.; Cg.: [01 10 042987]; kÃ©pviseletÃ©ben KovÃ¡cs IstvÃ¡n vezÃ©rigazgatÃ³) tudatja Ã¼gyfeleivel Ã©s hitelezÅ‘ivel, hogy a kÃ©pviselÅ‘-testÃ¼let elhatÃ¡rozta az alaptÅ‘ke 246 000 000 Ft-rÃ³l 222 000 000 Ft-ra tÃ¶rtÃ©nÅ‘ leszÃ¡llÃ­tÃ¡sÃ¡t az 1997. Ã©vi CXLIV. tv. rendelkezÃ©sei szerint.<ujsor/>
+A leszÃ¡llÃ­tÃ¡st kimondÃ³ hatÃ¡rozat napja: 2001. jÃºnius 29.<ujsor/>
+Az eredeti alaptÅ‘ke: 246 000 000 Ft.<ujsor/>
+A leszÃ¡llÃ­tott alaptÅ‘ke: 222 000 000 Ft.<ujsor/>
+A leszÃ¡llÃ­tÃ¡s mÃ³dja: tÅ‘kekivonÃ¡s.<ujsor/>
+Ã‰rtesÃ­tjÃ¼k a hitelezÅ‘ket, hogy az 1997. Ã©vi CXLIV. tv. 262. Â§-Ã¡nak rendelkezÃ©se szerint az alaptÅ‘ke leszÃ¡llÃ­tÃ¡shoz hozzÃ¡ nem jÃ¡rulÃ³ hitelezÅ‘k kÃ¶vetelÃ©seiket a hirdetmÃ©ny utolsÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l jelentsÃ©k be.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110042987</mezo>
-<mezo id = "nev">Terézvárosi Vagyonkezelõ Részvénytársaság</mezo>
+<mezo id = "nev">TerÃ©zvÃ¡rosi VagyonkezelÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A TERÉZVÁROSI VAGYONKEZELÕ Részvénytársaság (1063 Budapest, Szív u. 40.; Cg.: [01 10 042987]; képviseletében Kovács István vezérigazgató) tudatja ügyfeleivel és hitelezõivel, hogy a képviselõ-testület elhatározta az alaptõke 246 000 000 Ft-ról 222 000 000 Ft-ra történõ leszállítását az 1997. évi CXLIV. tv. rendelkezései szerint.<ujsor/>
-A leszállítást kimondó határozat napja: 2001. június 29.<ujsor/>
-Az eredeti alaptõke: 246 000 000 Ft.<ujsor/>
-A leszállított alaptõke: 222 000 000 Ft.<ujsor/>
-A leszállítás módja: tõkekivonás.<ujsor/>
-Értesítjük a hitelezõket, hogy az 1997. évi CXLIV. tv. 262. §-ának rendelkezése szerint az alaptõke leszállításhoz hozzá nem járuló hitelezõk követeléseiket a hirdetmény utolsó közzétételétõl számított 30 napon belül jelentsék be.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">A TERÃ‰ZVÃROSI VAGYONKEZELÅ RÃ©szvÃ©nytÃ¡rsasÃ¡g (1063 Budapest, SzÃ­v u. 40.; Cg.: [01 10 042987]; kÃ©pviseletÃ©ben KovÃ¡cs IstvÃ¡n vezÃ©rigazgatÃ³) tudatja Ã¼gyfeleivel Ã©s hitelezÅ‘ivel, hogy a kÃ©pviselÅ‘-testÃ¼let elhatÃ¡rozta az alaptÅ‘ke 246 000 000 Ft-rÃ³l 222 000 000 Ft-ra tÃ¶rtÃ©nÅ‘ leszÃ¡llÃ­tÃ¡sÃ¡t az 1997. Ã©vi CXLIV. tv. rendelkezÃ©sei szerint.<ujsor/>
+A leszÃ¡llÃ­tÃ¡st kimondÃ³ hatÃ¡rozat napja: 2001. jÃºnius 29.<ujsor/>
+Az eredeti alaptÅ‘ke: 246 000 000 Ft.<ujsor/>
+A leszÃ¡llÃ­tott alaptÅ‘ke: 222 000 000 Ft.<ujsor/>
+A leszÃ¡llÃ­tÃ¡s mÃ³dja: tÅ‘kekivonÃ¡s.<ujsor/>
+Ã‰rtesÃ­tjÃ¼k a hitelezÅ‘ket, hogy az 1997. Ã©vi CXLIV. tv. 262. Â§-Ã¡nak rendelkezÃ©se szerint az alaptÅ‘ke leszÃ¡llÃ­tÃ¡shoz hozzÃ¡ nem jÃ¡rulÃ³ hitelezÅ‘k kÃ¶vetelÃ©seiket a hirdetmÃ©ny utolsÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l jelentsÃ©k be.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110042987</mezo>
-<mezo id = "nev">Terézvárosi Vagyonkezelõ Részvénytársaság</mezo>
+<mezo id = "nev">TerÃ©zvÃ¡rosi VagyonkezelÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2007. 02. 14-én hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. A képviselet módja: önálló.<ujsor/>
- Tisztsége: igazgató (vezérigazgató).<ujsor/>
- Förstner Pál (an: Kardos Adamovits Edit)<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2007. 02. 14-Ã©n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: igazgatÃ³ (vezÃ©rigazgatÃ³).<ujsor/>
+ FÃ¶rstner PÃ¡l (an: Kardos Adamovits Edit)<ujsor/>
 1064 Budapest, Izabella u. 87. II/1.<ujsor/>
  A jogviszony kezdete: 2006. 10. 26.<ujsor/>
- A jogviszony vége: 2011. 10. 26.<ujsor/>
- A változás idõpontja: 2006. 12. 29.<ujsor/>
+ A jogviszony vÃ©ge: 2011. 10. 26.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2006. 12. 29.<ujsor/>
  Bejegyezve: 2007. 10. 09.<ujsor/>
 2007. 10. 09.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110042987</mezo>
-<mezo id = "nev">Terézvárosi Vagyonkezelõ Nonprofit Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">1064 Budapest, Rózsa utca 81-83.</mezo>
+<mezo id = "nev">TerÃ©zvÃ¡rosi VagyonkezelÅ‘ Nonprofit ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1064 Budapest, RÃ³zsa utca 81-83.</mezo>
 <mezo id = "adosz">12098336242</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2008. 01. 14-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. A képviselet módja: együttes.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (igazgatósági tag).<ujsor/>
- dr. Rajkiné Németh Edit (an: Rombai Margit)<ujsor/>
-1024 Budapest, Fillér u. 12. III/7.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2008. 01. 14-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag).<ujsor/>
+ dr. RajkinÃ© NÃ©meth Edit (an: Rombai Margit)<ujsor/>
+1024 Budapest, FillÃ©r u. 12. III/7.<ujsor/>
  A jogviszony kezdete: 2007. 10. 29.<ujsor/>
- A jogviszony vége: 2007. 10. 28.<ujsor/>
- A változás idõpontja: 2007. 10. 28.<ujsor/>
- A változás idõpontja (törlés): 2007. 10. 28.<ujsor/>
- A képviselet módja: együttes.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (igazgatósági tag).<ujsor/>
- Kiss Lajos felügyelõbizottság (an: Rácz Katalin)<ujsor/>
-1172 Budapest, Kõtelek u. 12.<ujsor/>
+ A jogviszony vÃ©ge: 2007. 10. 28.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2007. 10. 28.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2007. 10. 28.<ujsor/>
+ A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag).<ujsor/>
+ Kiss Lajos felÃ¼gyelÅ‘bizottsÃ¡g (an: RÃ¡cz Katalin)<ujsor/>
+1172 Budapest, KÅ‘telek u. 12.<ujsor/>
  A jogviszony kezdete: 2007. 10. 29.<ujsor/>
- A jogviszony vége: 2012. 10. 28.<ujsor/>
- A változás idõpontja: 2007. 10. 28.<ujsor/>
- A változás idõpontja (törlés): 2007. 10. 28.<ujsor/>
- Törölve: 2008. 02. 04.<ujsor/>
- A képviselet módja: együttes.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (igazgatósági tag).<ujsor/>
- dr. Rajkiné Németh Edit (an: Rombai Margit)<ujsor/>
-1024 Budapest, Fillér u. 12. III/7.<ujsor/>
+ A jogviszony vÃ©ge: 2012. 10. 28.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2007. 10. 28.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2007. 10. 28.<ujsor/>
+ TÃ¶rÃ¶lve: 2008. 02. 04.<ujsor/>
+ A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag).<ujsor/>
+ dr. RajkinÃ© NÃ©meth Edit (an: Rombai Margit)<ujsor/>
+1024 Budapest, FillÃ©r u. 12. III/7.<ujsor/>
  A jogviszony kezdete: 2007. 10. 29.<ujsor/>
- A jogviszony vége: 2012. 10. 28.<ujsor/>
- A változás idõpontja: 2007. 10. 28.<ujsor/>
- A képviselet módja: együttes.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (igazgatósági tag).<ujsor/>
- Kiss Lajos (an: Rácz Katalin)<ujsor/>
-1172 Budapest, Kõtelek u. 12.<ujsor/>
+ A jogviszony vÃ©ge: 2012. 10. 28.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2007. 10. 28.<ujsor/>
+ A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag).<ujsor/>
+ Kiss Lajos (an: RÃ¡cz Katalin)<ujsor/>
+1172 Budapest, KÅ‘telek u. 12.<ujsor/>
  A jogviszony kezdete: 2007. 10. 28.<ujsor/>
- A jogviszony vége: 2012. 10. 28.<ujsor/>
- A változás idõpontja: 2007. 10. 28.<ujsor/>
+ A jogviszony vÃ©ge: 2012. 10. 28.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2007. 10. 28.<ujsor/>
  Bejegyezve: 2008. 02. 04.<ujsor/>
 2008. 02. 04.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110042987</mezo>
-<mezo id = "nev">Terézvárosi Vagyonkezelõ Nonprofit Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">1064 Budapest, Rózsa utca 81-83.</mezo>
+<mezo id = "nev">TerÃ©zvÃ¡rosi VagyonkezelÅ‘ Nonprofit ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1064 Budapest, RÃ³zsa utca 81-83.</mezo>
 <mezo id = "adosz">12098336242</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A beolvadó Terézvárosi Foglalkoztatást Elõsegítõ Nonprofit Kft. (Cg.: [01 09 884632]; székhelye: 1064 Budapest, Rózsa u. 81­83.) és az átvevõ Terézvárosi Vagyonkezelõ Nonprofit Zrt. (Cg.: [01 10 042987]; székhelye: 1064 Budapest, Rózsa u. 81­83.) elhatározta egyesüléssel (beolvadás) történõ átalakulását.<ujsor/>
-A létrejövõ gazdasági társaság formája: nonprofit zártkörûen mûködõ részvénytársaság.<ujsor/>
-Cégnév: Terézvárosi Vagyonkezelõ Nonprofit Zrt.<ujsor/>
-Székhely: 1064 Budapest, Rózsa u. 81­83.<ujsor/>
-A létrejövõ gazdasági társaság alapító okiratának elfogadása: 2008. június 19.<ujsor/>
-A létrejövõ gazdasági társaság alaptõkéje 249 db, egyenként 1 000 000 Ft névértékû, dematerializált részvénybõl áll.<ujsor/>
-Az átalakuló társaságok (záró) és a létrejövõ társaság (nyitó) vagyonmérleg-tervezete (2007. december 31.):<ujsor/>
+<mezo id = "szoveg">A beolvadÃ³ TerÃ©zvÃ¡rosi FoglalkoztatÃ¡st ElÅ‘segÃ­tÅ‘ Nonprofit Kft. (Cg.: [01 09 884632]; szÃ©khelye: 1064 Budapest, RÃ³zsa u. 81Â­83.) Ã©s az Ã¡tvevÅ‘ TerÃ©zvÃ¡rosi VagyonkezelÅ‘ Nonprofit Zrt. (Cg.: [01 10 042987]; szÃ©khelye: 1064 Budapest, RÃ³zsa u. 81Â­83.) elhatÃ¡rozta egyesÃ¼lÃ©ssel (beolvadÃ¡s) tÃ¶rtÃ©nÅ‘ Ã¡talakulÃ¡sÃ¡t.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g formÃ¡ja: nonprofit zÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ rÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gnÃ©v: TerÃ©zvÃ¡rosi VagyonkezelÅ‘ Nonprofit Zrt.<ujsor/>
+SzÃ©khely: 1064 Budapest, RÃ³zsa u. 81Â­83.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g alapÃ­tÃ³ okiratÃ¡nak elfogadÃ¡sa: 2008. jÃºnius 19.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g alaptÅ‘kÃ©je 249 db, egyenkÃ©nt 1 000 000 Ft nÃ©vÃ©rtÃ©kÅ±, dematerializÃ¡lt rÃ©szvÃ©nybÅ‘l Ã¡ll.<ujsor/>
+Az Ã¡talakulÃ³ tÃ¡rsasÃ¡gok (zÃ¡rÃ³) Ã©s a lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g (nyitÃ³) vagyonmÃ©rleg-tervezete (2007. december 31.):<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK (aktívák)<ujsor/>
-Beolvadó társaság Átvevõ társaság Beolvadás után létrejövõ társaság<ujsor/>
-A) Befektetett eszközök 36 976 210 850 247 826<ujsor/>
-I. Immateriális javak 2 607 2 607<ujsor/>
-Vagyoni értékû jogok 2 516 2 516<ujsor/>
-Szellemi termékek 91 91<ujsor/>
-II. Tárgyi eszközök 36 976 207 712 244 688<ujsor/>
-Ingatlanok és a kapcsolódó vagyoni értékû jogok 197 675 197 675<ujsor/>
-Mûszaki berendezések, gépek, jármûvek 36 809 3 195 40 004<ujsor/>
-Egyéb berendezések, felszerelések, jármûvek 167 6 842 7 009<ujsor/>
-III. Befektetett pénzügyi eszközök 0 531 531<ujsor/>
-Egyéb tartósan adott kölcsön 531 531<ujsor/>
-B) Forgóeszközök 5 619 250 294 255 913<ujsor/>
-I. Készletek 1 651 0 1 651<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k)<ujsor/>
+BeolvadÃ³ tÃ¡rsasÃ¡g ÃtvevÅ‘ tÃ¡rsasÃ¡g BeolvadÃ¡s utÃ¡n lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 36 976 210 850 247 826<ujsor/>
+I. ImmateriÃ¡lis javak 2 607 2 607<ujsor/>
+Vagyoni Ã©rtÃ©kÅ± jogok 2 516 2 516<ujsor/>
+Szellemi termÃ©kek 91 91<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 36 976 207 712 244 688<ujsor/>
+Ingatlanok Ã©s a kapcsolÃ³dÃ³ vagyoni Ã©rtÃ©kÅ± jogok 197 675 197 675<ujsor/>
+MÅ±szaki berendezÃ©sek, gÃ©pek, jÃ¡rmÅ±vek 36 809 3 195 40 004<ujsor/>
+EgyÃ©b berendezÃ©sek, felszerelÃ©sek, jÃ¡rmÅ±vek 167 6 842 7 009<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 531 531<ujsor/>
+EgyÃ©b tartÃ³san adott kÃ¶lcsÃ¶n 531 531<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 5 619 250 294 255 913<ujsor/>
+I. KÃ©szletek 1 651 0 1 651<ujsor/>
 Anyagok 1 453 0 1 453<ujsor/>
-Áruk 198 0 198<ujsor/>
-II. Követelések 258 109 861 110 119<ujsor/>
-Követelések áruszállításból és szolgáltatásból (vevõk) 89 10 745 10 834<ujsor/>
-Követelések kapcsolt vállalkozással szemben 91 151 91 151<ujsor/>
-Egyéb követelések 169 7 965 8 134<ujsor/>
-III. Értékpaírok 0 0 0<ujsor/>
-IV. Pénzeszközök 3 710 140 433 144 143<ujsor/>
-Pénztár, csekkek 113 2 381 2 494<ujsor/>
-Bankbetétek 3 597 138 052 141 649<ujsor/>
-C) Aktív idõbeli elhatárolások 200 642 842<ujsor/>
-Bevételek aktív idõbeli elhatárolása 195 304 499<ujsor/>
-Költségek, ráfordítások aktív idõbeli elhatárolása 5 338 343<ujsor/>
-ÖSSZESEN: 42 795 461 786 504 581<ujsor/>
+Ãruk 198 0 198<ujsor/>
+II. KÃ¶vetelÃ©sek 258 109 861 110 119<ujsor/>
+KÃ¶vetelÃ©sek Ã¡ruszÃ¡llÃ­tÃ¡sbÃ³l Ã©s szolgÃ¡ltatÃ¡sbÃ³l (vevÅ‘k) 89 10 745 10 834<ujsor/>
+KÃ¶vetelÃ©sek kapcsolt vÃ¡llalkozÃ¡ssal szemben 91 151 91 151<ujsor/>
+EgyÃ©b kÃ¶vetelÃ©sek 169 7 965 8 134<ujsor/>
+III. Ã‰rtÃ©kpaÃ­rok 0 0 0<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 3 710 140 433 144 143<ujsor/>
+PÃ©nztÃ¡r, csekkek 113 2 381 2 494<ujsor/>
+BankbetÃ©tek 3 597 138 052 141 649<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 200 642 842<ujsor/>
+BevÃ©telek aktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sa 195 304 499<ujsor/>
+KÃ¶ltsÃ©gek, rÃ¡fordÃ­tÃ¡sok aktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sa 5 338 343<ujsor/>
+Ã–SSZESEN: 42 795 461 786 504 581<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK (passzívák)<ujsor/>
-Beolvadó társaság Átvevõ társaság Beolvadás után létrejövõ társaság<ujsor/>
-D) Saját tõke 17 218 337 044 354 262<ujsor/>
-I. Jegyzett tõke 3 000 246 000 249 000<ujsor/>
-II. Jegyzett, de még be nem fizetett tõke 0 0<ujsor/>
-III. Tõketartalék 67 977 67 977<ujsor/>
-IV. Eredménytartalék 14 218 23 067 37 285<ujsor/>
-V. Lekötött tartalék 0 0<ujsor/>
-VI. Értékelési tartalék 0 0<ujsor/>
-VII. Mérleg szerinti eredmény 0<ujsor/>
-E) Céltartalékok 0 71 362 71 362<ujsor/>
-Céltartalék a várható kötelezettségekre 5 000 5 000<ujsor/>
-Céltartalék a jövõbeni költségekre 66 362 66 362<ujsor/>
-F) Kötelezettségek 25 430 35 264 60 694<ujsor/>
-I. Hátra sorolt kötelezettségek 0 0 0<ujsor/>
-II. Hosszú lejáratú kötelezettségek 13 423 0 13 423<ujsor/>
-Egyéb hosszú lejáratú kötelezettségek 13 423 0 13 423<ujsor/>
-III. Rövid lejáratú kötelezettségek 12 007 35 264 47 271<ujsor/>
-Kötelezettségek áruszállításból és szolgáltatásból (szállítók) 668 13 555 14 223<ujsor/>
-Rövid lejáratú kötelezettségek kapcsolt vállalkozással szemben 0 10 919 10 919<ujsor/>
-Egyéb rövid lejáratú kötelezettségek 11 339 10 790 22 129<ujsor/>
-G) Passzív idõbeli elhatárolások 147 18 116 18 263<ujsor/>
-Költségek, ráfordítások passzív idõbeli elhatárolása 147 18 116 18 263<ujsor/>
-ÖSSZESEN: 42 795 461 786 504 581<ujsor/>
-Az egyesülés módja: beolvadás.<ujsor/>
-A létrejövõ társaság fõ tevékenysége (TEÁOR ’08): 6820 Saját tulajdonú, bérelt ingatlan bérbeadása, üzemeltetése.<ujsor/>
-A létrejövõ gazdasági társaság vezetõ tisztségviselõje: Kovács Péter (1014 Budapest, Úri u. 29. fszt. 4.).<ujsor/>
-Azok a hitelezõk, akiknek az átalakuló gazdasági társasággal szemben fennálló, le nem járt követelései az átalakulással hozott döntés elsõ közzétételét megelõzõen keletkeztek, követeléseik erejéig az átalakuló gazdasági társaságtól a döntés második közzétételét követõ harmincnapos jogvesztõ határidõn belül biztosítékot követelhetnek [Gt. 76. § (2) bekezdés].<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+FORRÃSOK (passzÃ­vÃ¡k)<ujsor/>
+BeolvadÃ³ tÃ¡rsasÃ¡g ÃtvevÅ‘ tÃ¡rsasÃ¡g BeolvadÃ¡s utÃ¡n lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g<ujsor/>
+D) SajÃ¡t tÅ‘ke 17 218 337 044 354 262<ujsor/>
+I. Jegyzett tÅ‘ke 3 000 246 000 249 000<ujsor/>
+II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke 0 0<ujsor/>
+III. TÅ‘ketartalÃ©k 67 977 67 977<ujsor/>
+IV. EredmÃ©nytartalÃ©k 14 218 23 067 37 285<ujsor/>
+V. LekÃ¶tÃ¶tt tartalÃ©k 0 0<ujsor/>
+VI. Ã‰rtÃ©kelÃ©si tartalÃ©k 0 0<ujsor/>
+VII. MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+E) CÃ©ltartalÃ©kok 0 71 362 71 362<ujsor/>
+CÃ©ltartalÃ©k a vÃ¡rhatÃ³ kÃ¶telezettsÃ©gekre 5 000 5 000<ujsor/>
+CÃ©ltartalÃ©k a jÃ¶vÅ‘beni kÃ¶ltsÃ©gekre 66 362 66 362<ujsor/>
+F) KÃ¶telezettsÃ©gek 25 430 35 264 60 694<ujsor/>
+I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0 0 0<ujsor/>
+II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 13 423 0 13 423<ujsor/>
+EgyÃ©b hosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 13 423 0 13 423<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 12 007 35 264 47 271<ujsor/>
+KÃ¶telezettsÃ©gek Ã¡ruszÃ¡llÃ­tÃ¡sbÃ³l Ã©s szolgÃ¡ltatÃ¡sbÃ³l (szÃ¡llÃ­tÃ³k) 668 13 555 14 223<ujsor/>
+RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek kapcsolt vÃ¡llalkozÃ¡ssal szemben 0 10 919 10 919<ujsor/>
+EgyÃ©b rÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 11 339 10 790 22 129<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 147 18 116 18 263<ujsor/>
+KÃ¶ltsÃ©gek, rÃ¡fordÃ­tÃ¡sok passzÃ­v idÅ‘beli elhatÃ¡rolÃ¡sa 147 18 116 18 263<ujsor/>
+Ã–SSZESEN: 42 795 461 786 504 581<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: beolvadÃ¡s.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™08): 6820 SajÃ¡t tulajdonÃº, bÃ©relt ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘je: KovÃ¡cs PÃ©ter (1014 Budapest, Ãšri u. 29. fszt. 4.).<ujsor/>
+Azok a hitelezÅ‘k, akiknek az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei az Ã¡talakulÃ¡ssal hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gtÃ³l a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek [Gt. 76. Â§ (2) bekezdÃ©s].<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110042987</mezo>
-<mezo id = "nev">Terézvárosi Vagyonkezelõ Nonprofit Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">TerÃ©zvÃ¡rosi VagyonkezelÅ‘ Nonprofit ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1064 Budapest</mezo>
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A beolvadó Terézvárosi Foglalkoztatást Elõsegítõ Nonprofit Kft. (Cg.: [01 09 884632]; székhelye: 1064 Budapest, Rózsa u. 81­83.) és az átvevõ Terézvárosi Vagyonkezelõ Nonprofit Zrt. (Cg.: [01 10 042987]; székhelye: 1064 Budapest, Rózsa u. 81­83.) elhatározta egyesüléssel (beolvadás) történõ átalakulását.<ujsor/>
-A létrejövõ gazdasági társaság formája: nonprofit zártkörûen mûködõ részvénytársaság.<ujsor/>
-Cégnév: Terézvárosi Vagyonkezelõ Nonprofit Zrt.<ujsor/>
-Székhely: 1064 Budapest, Rózsa u. 81­83.<ujsor/>
-A létrejövõ gazdasági társaság alapító okiratának elfogadása: 2008. június 19.<ujsor/>
-A létrejövõ gazdasági társaság alaptõkéje 249 db, egyenként 1 000 000 Ft névértékû, dematerializált részvénybõl áll.<ujsor/>
-Az átalakuló társaságok (záró) és a létrejövõ társaság (nyitó) vagyonmérleg-tervezete (2007. december 31.):<ujsor/>
+<mezo id = "szoveg">A beolvadÃ³ TerÃ©zvÃ¡rosi FoglalkoztatÃ¡st ElÅ‘segÃ­tÅ‘ Nonprofit Kft. (Cg.: [01 09 884632]; szÃ©khelye: 1064 Budapest, RÃ³zsa u. 81Â­83.) Ã©s az Ã¡tvevÅ‘ TerÃ©zvÃ¡rosi VagyonkezelÅ‘ Nonprofit Zrt. (Cg.: [01 10 042987]; szÃ©khelye: 1064 Budapest, RÃ³zsa u. 81Â­83.) elhatÃ¡rozta egyesÃ¼lÃ©ssel (beolvadÃ¡s) tÃ¶rtÃ©nÅ‘ Ã¡talakulÃ¡sÃ¡t.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g formÃ¡ja: nonprofit zÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ rÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gnÃ©v: TerÃ©zvÃ¡rosi VagyonkezelÅ‘ Nonprofit Zrt.<ujsor/>
+SzÃ©khely: 1064 Budapest, RÃ³zsa u. 81Â­83.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g alapÃ­tÃ³ okiratÃ¡nak elfogadÃ¡sa: 2008. jÃºnius 19.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g alaptÅ‘kÃ©je 249 db, egyenkÃ©nt 1 000 000 Ft nÃ©vÃ©rtÃ©kÅ±, dematerializÃ¡lt rÃ©szvÃ©nybÅ‘l Ã¡ll.<ujsor/>
+Az Ã¡talakulÃ³ tÃ¡rsasÃ¡gok (zÃ¡rÃ³) Ã©s a lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g (nyitÃ³) vagyonmÃ©rleg-tervezete (2007. december 31.):<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK (aktívák)<ujsor/>
-Beolvadó társaság Átvevõ társaság Beolvadás után létrejövõ társaság<ujsor/>
-A) Befektetett eszközök 36 976 210 850 247 826<ujsor/>
-I. Immateriális javak 2 607 2 607<ujsor/>
-Vagyoni értékû jogok 2 516 2 516<ujsor/>
-Szellemi termékek 91 91<ujsor/>
-II. Tárgyi eszközök 36 976 207 712 244 688<ujsor/>
-Ingatlanok és a kapcsolódó vagyoni értékû jogok 197 675 197 675<ujsor/>
-Mûszaki berendezések, gépek, jármûvek 36 809 3 195 40 004<ujsor/>
-Egyéb berendezések, felszerelések, jármûvek 167 6 842 7 009<ujsor/>
-III. Befektetett pénzügyi eszközök 0 531 531<ujsor/>
-Egyéb tartósan adott kölcsön 531 531<ujsor/>
-B) Forgóeszközök 5 619 250 294 255 913<ujsor/>
-I. Készletek 1 651 0 1 651<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k)<ujsor/>
+BeolvadÃ³ tÃ¡rsasÃ¡g ÃtvevÅ‘ tÃ¡rsasÃ¡g BeolvadÃ¡s utÃ¡n lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 36 976 210 850 247 826<ujsor/>
+I. ImmateriÃ¡lis javak 2 607 2 607<ujsor/>
+Vagyoni Ã©rtÃ©kÅ± jogok 2 516 2 516<ujsor/>
+Szellemi termÃ©kek 91 91<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 36 976 207 712 244 688<ujsor/>
+Ingatlanok Ã©s a kapcsolÃ³dÃ³ vagyoni Ã©rtÃ©kÅ± jogok 197 675 197 675<ujsor/>
+MÅ±szaki berendezÃ©sek, gÃ©pek, jÃ¡rmÅ±vek 36 809 3 195 40 004<ujsor/>
+EgyÃ©b berendezÃ©sek, felszerelÃ©sek, jÃ¡rmÅ±vek 167 6 842 7 009<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 531 531<ujsor/>
+EgyÃ©b tartÃ³san adott kÃ¶lcsÃ¶n 531 531<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 5 619 250 294 255 913<ujsor/>
+I. KÃ©szletek 1 651 0 1 651<ujsor/>
 Anyagok 1 453 0 1 453<ujsor/>
-Áruk 198 0 198<ujsor/>
-II. Követelések 258 109 861 110 119<ujsor/>
-Követelések áruszállításból és szolgáltatásból (vevõk) 89 10 745 10 834<ujsor/>
-Követelések kapcsolt vállalkozással szemben 91 151 91 151<ujsor/>
-Egyéb követelések 169 7 965 8 134<ujsor/>
-III. Értékpaírok 0 0 0<ujsor/>
-IV. Pénzeszközök 3 710 140 433 144 143<ujsor/>
-Pénztár, csekkek 113 2 381 2 494<ujsor/>
-Bankbetétek 3 597 138 052 141 649<ujsor/>
-C) Aktív idõbeli elhatárolások 200 642 842<ujsor/>
-Bevételek aktív idõbeli elhatárolása 195 304 499<ujsor/>
-Költségek, ráfordítások aktív idõbeli elhatárolása 5 338 343<ujsor/>
-ÖSSZESEN: 42 795 461 786 504 581<ujsor/>
+Ãruk 198 0 198<ujsor/>
+II. KÃ¶vetelÃ©sek 258 109 861 110 119<ujsor/>
+KÃ¶vetelÃ©sek Ã¡ruszÃ¡llÃ­tÃ¡sbÃ³l Ã©s szolgÃ¡ltatÃ¡sbÃ³l (vevÅ‘k) 89 10 745 10 834<ujsor/>
+KÃ¶vetelÃ©sek kapcsolt vÃ¡llalkozÃ¡ssal szemben 91 151 91 151<ujsor/>
+EgyÃ©b kÃ¶vetelÃ©sek 169 7 965 8 134<ujsor/>
+III. Ã‰rtÃ©kpaÃ­rok 0 0 0<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 3 710 140 433 144 143<ujsor/>
+PÃ©nztÃ¡r, csekkek 113 2 381 2 494<ujsor/>
+BankbetÃ©tek 3 597 138 052 141 649<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 200 642 842<ujsor/>
+BevÃ©telek aktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sa 195 304 499<ujsor/>
+KÃ¶ltsÃ©gek, rÃ¡fordÃ­tÃ¡sok aktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sa 5 338 343<ujsor/>
+Ã–SSZESEN: 42 795 461 786 504 581<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK (passzívák)<ujsor/>
-Beolvadó társaság Átvevõ társaság Beolvadás után létrejövõ társaság<ujsor/>
-D) Saját tõke 17 218 337 044 354 262<ujsor/>
-I. Jegyzett tõke 3 000 246 000 249 000<ujsor/>
-II. Jegyzett, de még be nem fizetett tõke 0 0<ujsor/>
-III. Tõketartalék 67 977 67 977<ujsor/>
-IV. Eredménytartalék 14 218 23 067 37 285<ujsor/>
-V. Lekötött tartalék 0 0<ujsor/>
-VI. Értékelési tartalék 0 0<ujsor/>
-VII. Mérleg szerinti eredmény 0<ujsor/>
-E) Céltartalékok 0 71 362 71 362<ujsor/>
-Céltartalék a várható kötelezettségekre 5 000 5 000<ujsor/>
-Céltartalék a jövõbeni költségekre 66 362 66 362<ujsor/>
-F) Kötelezettségek 25 430 35 264 60 694<ujsor/>
-I. Hátra sorolt kötelezettségek 0 0 0<ujsor/>
-II. Hosszú lejáratú kötelezettségek 13 423 0 13 423<ujsor/>
-Egyéb hosszú lejáratú kötelezettségek 13 423 0 13 423<ujsor/>
-III. Rövid lejáratú kötelezettségek 12 007 35 264 47 271<ujsor/>
-Kötelezettségek áruszállításból és szolgáltatásból (szállítók) 668 13 555 14 223<ujsor/>
-Rövid lejáratú kötelezettségek kapcsolt vállalkozással szemben 0 10 919 10 919<ujsor/>
-Egyéb rövid lejáratú kötelezettségek 11 339 10 790 22 129<ujsor/>
-G) Passzív idõbeli elhatárolások 147 18 116 18 263<ujsor/>
-Költségek, ráfordítások passzív idõbeli elhatárolása 147 18 116 18 263<ujsor/>
-ÖSSZESEN: 42 795 461 786 504 581<ujsor/>
-Az egyesülés módja: beolvadás.<ujsor/>
-A létrejövõ társaság fõ tevékenysége (TEÁOR ’08): 6820 Saját tulajdonú, bérelt ingatlan bérbeadása, üzemeltetése.<ujsor/>
-A létrejövõ gazdasági társaság vezetõ tisztségviselõje: Kovács Péter (1014 Budapest, Úri u. 29. fszt. 4.).<ujsor/>
-Azok a hitelezõk, akiknek az átalakuló gazdasági társasággal szemben fennálló, le nem járt követelései az átalakulással hozott döntés elsõ közzétételét megelõzõen keletkeztek, követeléseik erejéig az átalakuló gazdasági társaságtól a döntés második közzétételét követõ harmincnapos jogvesztõ határidõn belül biztosítékot követelhetnek [Gt. 76. § (2) bekezdés].<ujsor/>
-(Második közzététel.)<ujsor/>
+FORRÃSOK (passzÃ­vÃ¡k)<ujsor/>
+BeolvadÃ³ tÃ¡rsasÃ¡g ÃtvevÅ‘ tÃ¡rsasÃ¡g BeolvadÃ¡s utÃ¡n lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g<ujsor/>
+D) SajÃ¡t tÅ‘ke 17 218 337 044 354 262<ujsor/>
+I. Jegyzett tÅ‘ke 3 000 246 000 249 000<ujsor/>
+II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke 0 0<ujsor/>
+III. TÅ‘ketartalÃ©k 67 977 67 977<ujsor/>
+IV. EredmÃ©nytartalÃ©k 14 218 23 067 37 285<ujsor/>
+V. LekÃ¶tÃ¶tt tartalÃ©k 0 0<ujsor/>
+VI. Ã‰rtÃ©kelÃ©si tartalÃ©k 0 0<ujsor/>
+VII. MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+E) CÃ©ltartalÃ©kok 0 71 362 71 362<ujsor/>
+CÃ©ltartalÃ©k a vÃ¡rhatÃ³ kÃ¶telezettsÃ©gekre 5 000 5 000<ujsor/>
+CÃ©ltartalÃ©k a jÃ¶vÅ‘beni kÃ¶ltsÃ©gekre 66 362 66 362<ujsor/>
+F) KÃ¶telezettsÃ©gek 25 430 35 264 60 694<ujsor/>
+I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0 0 0<ujsor/>
+II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 13 423 0 13 423<ujsor/>
+EgyÃ©b hosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 13 423 0 13 423<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 12 007 35 264 47 271<ujsor/>
+KÃ¶telezettsÃ©gek Ã¡ruszÃ¡llÃ­tÃ¡sbÃ³l Ã©s szolgÃ¡ltatÃ¡sbÃ³l (szÃ¡llÃ­tÃ³k) 668 13 555 14 223<ujsor/>
+RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek kapcsolt vÃ¡llalkozÃ¡ssal szemben 0 10 919 10 919<ujsor/>
+EgyÃ©b rÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 11 339 10 790 22 129<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 147 18 116 18 263<ujsor/>
+KÃ¶ltsÃ©gek, rÃ¡fordÃ­tÃ¡sok passzÃ­v idÅ‘beli elhatÃ¡rolÃ¡sa 147 18 116 18 263<ujsor/>
+Ã–SSZESEN: 42 795 461 786 504 581<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: beolvadÃ¡s.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™08): 6820 SajÃ¡t tulajdonÃº, bÃ©relt ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘je: KovÃ¡cs PÃ©ter (1014 Budapest, Ãšri u. 29. fszt. 4.).<ujsor/>
+Azok a hitelezÅ‘k, akiknek az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei az Ã¡talakulÃ¡ssal hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gtÃ³l a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek [Gt. 76. Â§ (2) bekezdÃ©s].<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110042987</mezo>
-<mezo id = "nev">Terézvárosi Vagyonkezelõ Nonprofit Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">TerÃ©zvÃ¡rosi VagyonkezelÅ‘ Nonprofit ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1064 Budapest</mezo>
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a 2008. 08. 21. napján indult változásbejegyzési eljárást megszünteti.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a 2008. 08. 21. napjÃ¡n indult vÃ¡ltozÃ¡sbejegyzÃ©si eljÃ¡rÃ¡st megszÃ¼nteti.<ujsor/>
 2008. 09. 10.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110042987</mezo>
-<mezo id = "nev">Terézvárosi Vagyonkezelõ Nonprofit Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">1064 Budapest, Rózsa utca 81-83.</mezo>
+<mezo id = "nev">TerÃ©zvÃ¡rosi VagyonkezelÅ‘ Nonprofit ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1064 Budapest, RÃ³zsa utca 81-83.</mezo>
 <mezo id = "adosz">12098336242</mezo>
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2007. 10. 09-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. A képviselet módja: önálló.<ujsor/>
- Tisztsége: igazgató (vezérigazgató).<ujsor/>
- Förstner Pál (an: Kardos Adamovits Edit)<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2007. 10. 09-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: igazgatÃ³ (vezÃ©rigazgatÃ³).<ujsor/>
+ FÃ¶rstner PÃ¡l (an: Kardos Adamovits Edit)<ujsor/>
 1064 Budapest, Izabella u. 87. II /1.<ujsor/>
  A jogviszony kezdete: 2006. 10. 26.<ujsor/>
- A jogviszony vége: 2011. 10. 26.<ujsor/>
- A változás idõpontja: 2006. 12. 29.<ujsor/>
- A változás idõpontja (törlés): 2006. 12. 29.<ujsor/>
- Törölve: 2006. 12. 29.<ujsor/>
- A képviselet módja: önálló.<ujsor/>
- Förstner Pál (an: Kardos Adamovits Edit) igazgató<ujsor/>
+ A jogviszony vÃ©ge: 2011. 10. 26.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2006. 12. 29.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2006. 12. 29.<ujsor/>
+ TÃ¶rÃ¶lve: 2006. 12. 29.<ujsor/>
+ A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ FÃ¶rstner PÃ¡l (an: Kardos Adamovits Edit) igazgatÃ³<ujsor/>
 1064 Budapest, Izabella u. 87. II /1.<ujsor/>
  A jogviszony kezdete: 2006. 10. 26.<ujsor/>
- A jogviszony vége: 2011. 10. 26.<ujsor/>
- A változás idõpontja: 2006. 12. 29.<ujsor/>
+ A jogviszony vÃ©ge: 2011. 10. 26.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2006. 12. 29.<ujsor/>
  Bejegyezve: 2006. 12. 29.<ujsor/>
 2008. 10. 08.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110042987</mezo>
-<mezo id = "nev">Terézvárosi Vagyonkezelõ Nonprofit Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">1064 Budapest, Rózsa utca 81-83.</mezo>
+<mezo id = "nev">TerÃ©zvÃ¡rosi VagyonkezelÅ‘ Nonprofit ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1064 Budapest, RÃ³zsa utca 81-83.</mezo>
 <mezo id = "adosz">12098336242</mezo>
 </alrovat>
 <alrovat id = "11">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2008. 10. 08-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. A képviselet módja: önálló.<ujsor/>
- Förstner Pál (an: Kardos Adamovits Edit) igazgató<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2008. 10. 08-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ FÃ¶rstner PÃ¡l (an: Kardos Adamovits Edit) igazgatÃ³<ujsor/>
 1064 Budapest, Izabella u. 87. II /1.<ujsor/>
  A jogviszony kezdete: 2006. 10. 26.<ujsor/>
- A jogviszony vége: 2011. 10. 26.<ujsor/>
- A változás idõpontja: 2006. 12. 29.<ujsor/>
- A változás idõpontja (törlés): 2006. 12. 29.<ujsor/>
- Törölve: 2006. 12. 29.<ujsor/>
+ A jogviszony vÃ©ge: 2011. 10. 26.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2006. 12. 29.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2006. 12. 29.<ujsor/>
+ TÃ¶rÃ¶lve: 2006. 12. 29.<ujsor/>
 2008. 11. 11.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110042987</mezo>
-<mezo id = "nev">Terézvárosi Vagyonkezelõ Nonprofit Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">1064 Budapest, Rózsa utca 81-83.</mezo>
+<mezo id = "nev">TerÃ©zvÃ¡rosi VagyonkezelÅ‘ Nonprofit ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1064 Budapest, RÃ³zsa utca 81-83.</mezo>
 <mezo id = "adosz">12098336242</mezo>
 </alrovat>
 <alrovat id = "12">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság a Cg.01-10-042987 cégjegyzékszámon bejegyzett Terézvárosi Vagyonkezelõ Nonprofit Zártkörûen Mûködõ Részvénytársaság (1064 Budapest, Rózsa utca 81-83.; adószáma: 12098336-2-42) ügyében az 2010. november 26. napján hozott Cg.01-10-042987/185 számú végzését hivatalból kijavítani rendeli az alábbiak szerint:<ujsor/>
-13. A képviseletre jogosult(ak) adatai<ujsor/>
-A képviselet módja: önálló.<ujsor/>
-Fabriczki András vezetõ tisztségviselõ (vezérigazgató) (an.: Zelmanovits Irén)<ujsor/>
-1121 Budapest, Mártonhegyi út 21. A. ép.<ujsor/>
-Jogv. kezdete: 2009.01.01. Jogv. vége: 2013.12.31.<ujsor/>
-Vált. vége: 2010.10.28.<ujsor/>
-Törölve (végzés kelte): 2011. január 17.<ujsor/>
-15. A felügyelõbizottsági tagok adatai<ujsor/>
-Tóth György (an.: Nagy Mária)<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.01-10-042987 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett TerÃ©zvÃ¡rosi VagyonkezelÅ‘ Nonprofit ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (1064 Budapest, RÃ³zsa utca 81-83.; adÃ³szÃ¡ma: 12098336-2-42) Ã¼gyÃ©ben az 2010. november 26. napjÃ¡n hozott Cg.01-10-042987/185 szÃ¡mÃº vÃ©gzÃ©sÃ©t hivatalbÃ³l kijavÃ­tani rendeli az alÃ¡bbiak szerint:<ujsor/>
+13. A kÃ©pviseletre jogosult(ak) adatai<ujsor/>
+A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+Fabriczki AndrÃ¡s vezetÅ‘ tisztsÃ©gviselÅ‘ (vezÃ©rigazgatÃ³) (an.: Zelmanovits IrÃ©n)<ujsor/>
+1121 Budapest, MÃ¡rtonhegyi Ãºt 21. A. Ã©p.<ujsor/>
+Jogv. kezdete: 2009.01.01. Jogv. vÃ©ge: 2013.12.31.<ujsor/>
+VÃ¡lt. vÃ©ge: 2010.10.28.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2011. januÃ¡r 17.<ujsor/>
+15. A felÃ¼gyelÅ‘bizottsÃ¡gi tagok adatai<ujsor/>
+TÃ³th GyÃ¶rgy (an.: Nagy MÃ¡ria)<ujsor/>
 1064 Budapest, Podmaniczky u 47.<ujsor/>
-Jogv. kezdete: 2007.10.29. Jogv. vége: 2012.10.28.<ujsor/>
-Vált. vége: 2010.10.28.<ujsor/>
-Törölve (végzés kelte): 2011. január 17.<ujsor/>
-Czuppon Zoltán Zsolt (an.: Helyes Klára)<ujsor/>
-9751 Vép, Berzsenyi utca 6.<ujsor/>
-Jogv. kezdete: 2010.05.01. Jogv. vége: 2012.10.28.<ujsor/>
-Vált. vége: 2010.10.28.<ujsor/>
-Törölve (végzés kelte): 2011. január 17.<ujsor/>
-Wertán Zsolt Zoltán (an.: Görgényi Kingy)<ujsor/>
-1068 Budapest, Felsõ erdõsor 11.<ujsor/>
-Jogv. kezdete: 2010.05.01. Jogv. vége: 2012.10.28.<ujsor/>
-Vált. vége: 2010.10.28.<ujsor/>
-Törölve (végzés kelte): 2011. január 17.<ujsor/>
-A végzés ellen fellebbezésnek helye nincs.<ujsor/>
-2011. január 17.<ujsor/>
+Jogv. kezdete: 2007.10.29. Jogv. vÃ©ge: 2012.10.28.<ujsor/>
+VÃ¡lt. vÃ©ge: 2010.10.28.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2011. januÃ¡r 17.<ujsor/>
+Czuppon ZoltÃ¡n Zsolt (an.: Helyes KlÃ¡ra)<ujsor/>
+9751 VÃ©p, Berzsenyi utca 6.<ujsor/>
+Jogv. kezdete: 2010.05.01. Jogv. vÃ©ge: 2012.10.28.<ujsor/>
+VÃ¡lt. vÃ©ge: 2010.10.28.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2011. januÃ¡r 17.<ujsor/>
+WertÃ¡n Zsolt ZoltÃ¡n (an.: GÃ¶rgÃ©nyi Kingy)<ujsor/>
+1068 Budapest, FelsÅ‘ erdÅ‘sor 11.<ujsor/>
+Jogv. kezdete: 2010.05.01. Jogv. vÃ©ge: 2012.10.28.<ujsor/>
+VÃ¡lt. vÃ©ge: 2010.10.28.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2011. januÃ¡r 17.<ujsor/>
+A vÃ©gzÃ©s ellen fellebbezÃ©snek helye nincs.<ujsor/>
+2011. januÃ¡r 17.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110042987</mezo>
-<mezo id = "nev">Terézvárosi Vagyonkezelõ Nonprofit Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">1064 Budapest, Rózsa utca 81-83.</mezo>
+<mezo id = "nev">TerÃ©zvÃ¡rosi VagyonkezelÅ‘ Nonprofit ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1064 Budapest, RÃ³zsa utca 81-83.</mezo>
 <mezo id = "adosz">12098336242</mezo>
 </alrovat>
 <alrovat id = "13">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság a Cg.01-10-042987 cégjegyzékszámon bejegyzett Terézvárosi Vagyonkezelõ Nonprofit Zártkörûen Mûködõ Részvénytársaság (1064 Budapest, Rózsa utca 81-83.; adószáma: 12098336-2-42) kérelme alapján elrendeli az 2010. november 29. napján hozott Cg.01-10-042987 /186 számú végzésének kijavítását az alábbiak szerint:<ujsor/>
-13. A képviseletre jogosult(ak) adatai<ujsor/>
-A képviselet módja: együttes.<ujsor/>
-Adóazonosító jel: 8307952646<ujsor/>
-Fabriczki András vezetõ tisztségviselõ (igazgatósági tag) (an.: Zelmanovits Irén)<ujsor/>
-1121 Budapest, Mártonhegyi út 21. A. ép.<ujsor/>
-Jogv. kezdete: 2010.10.28. Jogv. vége: 2015.10.27.<ujsor/>
-Vált. vége: 2010.10.28.<ujsor/>
-Törölve (végzés kelte): 2011. április 12.<ujsor/>
-A képviselet módja: önálló.<ujsor/>
-Adóazonosító jel: 8307952646<ujsor/>
-Fabriczki András vezetõ tisztségviselõ (igazgatósági tag) (an.: Zelmanovits Irén)<ujsor/>
-1121 Budapest, Mártonhegyi út 21. A. ép.<ujsor/>
-Jogv. kezdete: 2010.10.28. Jogv. vége: 2015.10.27.<ujsor/>
-Vált. kezdete: 2010.10.28.<ujsor/>
-Bejegyezve (végzés kelte): 2011. április 12.<ujsor/>
-E végzés ellen fellebbezésnek nincs helye, azonban az ügyész, továbbá az, akire a végzés rendelkezést tartalmaz - a rendelkezés õt érintõ részére vonatkozóan - pert indíthat a cég ellen a cég székhelye szerint illetékes megyei bíróság elõtt a bejegyzõ végzés hatályon kívül helyezése iránt.<ujsor/>
-A per megindításának a bejegyzõ végzés Cégközlönyben való közzétételétõl, illetve - közzétételi kötelezettség hiányában - annak kézbesítésétõl számított 30 napon belül van helye. A határidõ elmulasztása jogvesztéssel jár.<ujsor/>
-A fenti adat(ok) bejegyzése és közzététele a következõ okirat(ok) alapján történt: kijavítás iránti kérelem; Önkormányzat tag esetén a képviselõ-testület erre vonatkozó döntését tartalmazó okirat; a létesítõ okirat módosítása; a létesítõ okirat - változásokkal egybefoglalt - hatályosított szövege; a jogi képviselõ meghatalmazása, illetve képviseleti jogának igazolása; a jogi képviselõ meghatalmazása, illetve képviseleti jogának igazolása.<ujsor/>
-Az okirat(ok) a cég cégjegyzékét vezetõ cégbíróságon megtekinthetõk.<ujsor/>
-2011. április 12.<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.01-10-042987 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett TerÃ©zvÃ¡rosi VagyonkezelÅ‘ Nonprofit ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (1064 Budapest, RÃ³zsa utca 81-83.; adÃ³szÃ¡ma: 12098336-2-42) kÃ©relme alapjÃ¡n elrendeli az 2010. november 29. napjÃ¡n hozott Cg.01-10-042987 /186 szÃ¡mÃº vÃ©gzÃ©sÃ©nek kijavÃ­tÃ¡sÃ¡t az alÃ¡bbiak szerint:<ujsor/>
+13. A kÃ©pviseletre jogosult(ak) adatai<ujsor/>
+A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+AdÃ³azonosÃ­tÃ³ jel: 8307952646<ujsor/>
+Fabriczki AndrÃ¡s vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag) (an.: Zelmanovits IrÃ©n)<ujsor/>
+1121 Budapest, MÃ¡rtonhegyi Ãºt 21. A. Ã©p.<ujsor/>
+Jogv. kezdete: 2010.10.28. Jogv. vÃ©ge: 2015.10.27.<ujsor/>
+VÃ¡lt. vÃ©ge: 2010.10.28.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2011. Ã¡prilis 12.<ujsor/>
+A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+AdÃ³azonosÃ­tÃ³ jel: 8307952646<ujsor/>
+Fabriczki AndrÃ¡s vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag) (an.: Zelmanovits IrÃ©n)<ujsor/>
+1121 Budapest, MÃ¡rtonhegyi Ãºt 21. A. Ã©p.<ujsor/>
+Jogv. kezdete: 2010.10.28. Jogv. vÃ©ge: 2015.10.27.<ujsor/>
+VÃ¡lt. kezdete: 2010.10.28.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2011. Ã¡prilis 12.<ujsor/>
+E vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye, azonban az Ã¼gyÃ©sz, tovÃ¡bbÃ¡ az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s Å‘t Ã©rintÅ‘ rÃ©szÃ©re vonatkozÃ³an - pert indÃ­that a cÃ©g ellen a cÃ©g szÃ©khelye szerint illetÃ©kes megyei bÃ­rÃ³sÃ¡g elÅ‘tt a bejegyzÅ‘ vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt.<ujsor/>
+A per megindÃ­tÃ¡sÃ¡nak a bejegyzÅ‘ vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l, illetve - kÃ¶zzÃ©tÃ©teli kÃ¶telezettsÃ©g hiÃ¡nyÃ¡ban - annak kÃ©zbesÃ­tÃ©sÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l van helye. A hatÃ¡ridÅ‘ elmulasztÃ¡sa jogvesztÃ©ssel jÃ¡r.<ujsor/>
+A fenti adat(ok) bejegyzÃ©se Ã©s kÃ¶zzÃ©tÃ©tele a kÃ¶vetkezÅ‘ okirat(ok) alapjÃ¡n tÃ¶rtÃ©nt: kijavÃ­tÃ¡s irÃ¡nti kÃ©relem; Ã–nkormÃ¡nyzat tag esetÃ©n a kÃ©pviselÅ‘-testÃ¼let erre vonatkozÃ³ dÃ¶ntÃ©sÃ©t tartalmazÃ³ okirat; a lÃ©tesÃ­tÅ‘ okirat mÃ³dosÃ­tÃ¡sa; a lÃ©tesÃ­tÅ‘ okirat - vÃ¡ltozÃ¡sokkal egybefoglalt - hatÃ¡lyosÃ­tott szÃ¶vege; a jogi kÃ©pviselÅ‘ meghatalmazÃ¡sa, illetve kÃ©pviseleti jogÃ¡nak igazolÃ¡sa; a jogi kÃ©pviselÅ‘ meghatalmazÃ¡sa, illetve kÃ©pviseleti jogÃ¡nak igazolÃ¡sa.<ujsor/>
+Az okirat(ok) a cÃ©g cÃ©gjegyzÃ©kÃ©t vezetÅ‘ cÃ©gbÃ­rÃ³sÃ¡gon megtekinthetÅ‘k.<ujsor/>
+2011. Ã¡prilis 12.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110042987</mezo>
-<mezo id = "nev">Terézvárosi Vagyonkezelõ Nonprofit Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">1064 Budapest, Rózsa utca 81-83.</mezo>
+<mezo id = "nev">TerÃ©zvÃ¡rosi VagyonkezelÅ‘ Nonprofit ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1064 Budapest, RÃ³zsa utca 81-83.</mezo>
 <mezo id = "adosz">12098336242</mezo>
 </alrovat>
 </rovat>

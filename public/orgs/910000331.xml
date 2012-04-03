@@ -5,7 +5,7 @@
 <mezo id = "cf">10</mezo>
 <mezo id = "szam">000331</mezo>
 <mezo id = "nevalrovat">4</mezo>
-<mezo id = "cim">4025 Debrecen, Széchenyi utca 15. </mezo>
+<mezo id = "cim">4025 Debrecen, SzÃ©chenyi utca 15. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">12476963209</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "4">
 <mezo id = "hattol">20080131</mezo>
-<mezo id = "nev">EAST-AUDIT Igazságügyi Adó-, Járulék-, és Könyvszakértõ, Tanácsadó Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">EAST-AUDIT IgazsÃ¡gÃ¼gyi AdÃ³-, JÃ¡rulÃ©k-, Ã©s KÃ¶nyvszakÃ©rtÅ‘, TanÃ¡csadÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">20080131</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20080206</mezo>
@@ -31,7 +31,7 @@
 <mezo id = "hattol">20000530</mezo>
 <mezo id = "irsz">4025</mezo>
 <mezo id = "hely">Debrecen</mezo>
-<mezo id = "teru">Széchenyi utca 15.</mezo>
+<mezo id = "teru">SzÃ©chenyi utca 15.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "7">
@@ -291,8 +291,8 @@
 <rovat id = "13">
 <alrovat id = "16">
 <mezo id = "hattol">20100405</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Tóth Béla Attila</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">TÃ³th BÃ©la Attila</mezo>
 <mezo id = "panev">Mezei Etel</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100405</mezo>
@@ -302,8 +302,8 @@
 </alrovat>
 <alrovat id = "17">
 <mezo id = "hattol">20100405</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Tóth Kálmán Tibor</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">TÃ³th KÃ¡lmÃ¡n Tibor</mezo>
 <mezo id = "panev">Nagy Veronika</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100405</mezo>
@@ -313,9 +313,9 @@
 </alrovat>
 <alrovat id = "18">
 <mezo id = "hattol">20100405</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Balogh Istvánné</mezo>
-<mezo id = "panev">Király Erzsébet</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">Balogh IstvÃ¡nnÃ©</mezo>
+<mezo id = "panev">KirÃ¡ly ErzsÃ©bet</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100405</mezo>
 <mezo id = "valtk">20100405</mezo>
@@ -327,13 +327,13 @@
 <alrovat id = "4">
 <mezo id = "hattol">20100405</mezo>
 <mezo id = "cgjsz">0909004183</mezo>
-<mezo id = "nev">RÁCZ és DOMJÁN Könyvvizsgáló és Adótanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">RÃCZ Ã©s DOMJÃN KÃ¶nyvvizsgÃ¡lÃ³ Ã©s AdÃ³tanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">4033</mezo>
 <mezo id = "hely">Debrecen</mezo>
-<mezo id = "teru">Beregszászi Pál utca 8.</mezo>
-<mezo id = "pnev">Dr. Domján Anna</mezo>
-<mezo id = "panev">Szûcs Anna</mezo>
+<mezo id = "teru">BeregszÃ¡szi PÃ¡l utca 8.</mezo>
+<mezo id = "pnev">Dr. DomjÃ¡n Anna</mezo>
+<mezo id = "panev">SzÅ±cs Anna</mezo>
 <mezo id = "jogvk">20100405</mezo>
 <mezo id = "jogvv">20150404</mezo>
 <mezo id = "valtk">20100405</mezo>
@@ -344,7 +344,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20000530</mezo>
 <mezo id = "cgjsz">909005733</mezo>
-<mezo id = "nev">&quot;EAST-AUDIT&quot; Könyvvizsgáló és Adószakértõ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">&quot;EAST-AUDIT&quot; KÃ¶nyvvizsgÃ¡lÃ³ Ã©s AdÃ³szakÃ©rtÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "20">
@@ -368,28 +368,28 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Hajdú-Bihar Megyei Bíróságon mint Cégbíróságon nyilvántartott EAST-AUDIT Könyvvizsgáló és Tanácsadó Zártkörûen Mûködõ Részvénytársaság (Cg.: [09 10 000331]; 4025 Debrecen, Széchenyi u. 15.) a Gazdasági társaságokról szóló, 2006. évi IV. törvény 256. § (2) bekezdése alapján közzéteszi, hogy a társaság 2007. március 20-án tartott közgyûlése, az alaptõke ­ zártkörben, új részvények kibocsátásával 59 000 000 forintra történõ felemelésérõl az alábbi határozatot hozta:<ujsor/>
-4/2007. (03. 20.) Közgyûlési határozat:<ujsor/>
-A közgyûlés elhatározza jelenlegi 29 000 000 Ft összegû alaptõkéjének ­ amely teljes egészében befizetett, rendelkezésre bocsátott ­ 30 000 000 (harmincmillió) forinttal történõ felemelését, új részvények, zártkörû módon történõ forgalomba hozatalával.<ujsor/>
-Az alaptõke-emelés eredményeként kibocsátásra és a részvényesek részére megvételre felajánlásra kerül 60 (hatvan) darab, egyenként 500 000 (ötszázezer) Ft névértékû, dematerializált „A” sorozatú törzsrészvény, amelyhez ­ átvételük esetén ­ az alapszabály VIII. fejezetében foglalt részvényesi jogok és kötelezettségek fûzõdnek.<ujsor/>
-Az alaptõke-emelés formája: teljes egészében, a részvényesek ­ a társaság által elismert, az alaptõke-emeléssel megegyezõ értékû (30 000 000 Ft) ­ tagi kölcsön követelésének apportálása.<ujsor/>
-A részvények nyilvános forgalomba hozatalra nem kerülnek, zártkörû forgalomba hozataluk a Gt. 254­258. §-a alapján történik.<ujsor/>
-Az új részvényeket a társaság, a névértékkel megegyezõ 500 000 Ft-os kibocsátási értéken bocsátja ki és ajánlja fel megvásárlásra a tulajdonos részvényeseknek, akik ­ 2007. március 20-án ­ a követeléseik apportba, a társaság tulajdonába adásával fizetik meg a kibocsátott részvények vételárát.<ujsor/>
-A kibocsátandó 60 darab, egyenként 500 000 Ft névértékû törzsrészvénybõl, a társaság jelenlegi részvényesei ­ az általuk tett elõzetes kötelezettségvállaló nyilatkozatok alapján ­, az alábbi arányban jogosultak a részvények átvételére:<ujsor/>
-A részvények átvételére Új kibocsátású részvények<ujsor/>
-jogosult  száma (db) kibocsátási és névértéke (Ft)<ujsor/>
-Balogh Istvánné  21 10 500 000 (apport)<ujsor/>
+<mezo id = "szoveg">A HajdÃº-Bihar Megyei BÃ­rÃ³sÃ¡gon mint CÃ©gbÃ­rÃ³sÃ¡gon nyilvÃ¡ntartott EAST-AUDIT KÃ¶nyvvizsgÃ¡lÃ³ Ã©s TanÃ¡csadÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [09 10 000331]; 4025 Debrecen, SzÃ©chenyi u. 15.) a GazdasÃ¡gi tÃ¡rsasÃ¡gokrÃ³l szÃ³lÃ³, 2006. Ã©vi IV. tÃ¶rvÃ©ny 256. Â§ (2) bekezdÃ©se alapjÃ¡n kÃ¶zzÃ©teszi, hogy a tÃ¡rsasÃ¡g 2007. mÃ¡rcius 20-Ã¡n tartott kÃ¶zgyÅ±lÃ©se, az alaptÅ‘ke Â­ zÃ¡rtkÃ¶rben, Ãºj rÃ©szvÃ©nyek kibocsÃ¡tÃ¡sÃ¡val 59 000 000 forintra tÃ¶rtÃ©nÅ‘ felemelÃ©sÃ©rÅ‘l az alÃ¡bbi hatÃ¡rozatot hozta:<ujsor/>
+4/2007. (03. 20.) KÃ¶zgyÅ±lÃ©si hatÃ¡rozat:<ujsor/>
+A kÃ¶zgyÅ±lÃ©s elhatÃ¡rozza jelenlegi 29 000 000 Ft Ã¶sszegÅ± alaptÅ‘kÃ©jÃ©nek Â­ amely teljes egÃ©szÃ©ben befizetett, rendelkezÃ©sre bocsÃ¡tott Â­ 30 000 000 (harmincmilliÃ³) forinttal tÃ¶rtÃ©nÅ‘ felemelÃ©sÃ©t, Ãºj rÃ©szvÃ©nyek, zÃ¡rtkÃ¶rÅ± mÃ³don tÃ¶rtÃ©nÅ‘ forgalomba hozatalÃ¡val.<ujsor/>
+Az alaptÅ‘ke-emelÃ©s eredmÃ©nyekÃ©nt kibocsÃ¡tÃ¡sra Ã©s a rÃ©szvÃ©nyesek rÃ©szÃ©re megvÃ©telre felajÃ¡nlÃ¡sra kerÃ¼l 60 (hatvan) darab, egyenkÃ©nt 500 000 (Ã¶tszÃ¡zezer) Ft nÃ©vÃ©rtÃ©kÅ±, dematerializÃ¡lt â€Aâ€ sorozatÃº tÃ¶rzsrÃ©szvÃ©ny, amelyhez Â­ Ã¡tvÃ©telÃ¼k esetÃ©n Â­ az alapszabÃ¡ly VIII. fejezetÃ©ben foglalt rÃ©szvÃ©nyesi jogok Ã©s kÃ¶telezettsÃ©gek fÅ±zÅ‘dnek.<ujsor/>
+Az alaptÅ‘ke-emelÃ©s formÃ¡ja: teljes egÃ©szÃ©ben, a rÃ©szvÃ©nyesek Â­ a tÃ¡rsasÃ¡g Ã¡ltal elismert, az alaptÅ‘ke-emelÃ©ssel megegyezÅ‘ Ã©rtÃ©kÅ± (30 000 000 Ft) Â­ tagi kÃ¶lcsÃ¶n kÃ¶vetelÃ©sÃ©nek apportÃ¡lÃ¡sa.<ujsor/>
+A rÃ©szvÃ©nyek nyilvÃ¡nos forgalomba hozatalra nem kerÃ¼lnek, zÃ¡rtkÃ¶rÅ± forgalomba hozataluk a Gt. 254Â­258. Â§-a alapjÃ¡n tÃ¶rtÃ©nik.<ujsor/>
+Az Ãºj rÃ©szvÃ©nyeket a tÃ¡rsasÃ¡g, a nÃ©vÃ©rtÃ©kkel megegyezÅ‘ 500 000 Ft-os kibocsÃ¡tÃ¡si Ã©rtÃ©ken bocsÃ¡tja ki Ã©s ajÃ¡nlja fel megvÃ¡sÃ¡rlÃ¡sra a tulajdonos rÃ©szvÃ©nyeseknek, akik Â­ 2007. mÃ¡rcius 20-Ã¡n Â­ a kÃ¶vetelÃ©seik apportba, a tÃ¡rsasÃ¡g tulajdonÃ¡ba adÃ¡sÃ¡val fizetik meg a kibocsÃ¡tott rÃ©szvÃ©nyek vÃ©telÃ¡rÃ¡t.<ujsor/>
+A kibocsÃ¡tandÃ³ 60 darab, egyenkÃ©nt 500 000 Ft nÃ©vÃ©rtÃ©kÅ± tÃ¶rzsrÃ©szvÃ©nybÅ‘l, a tÃ¡rsasÃ¡g jelenlegi rÃ©szvÃ©nyesei Â­ az Ã¡ltaluk tett elÅ‘zetes kÃ¶telezettsÃ©gvÃ¡llalÃ³ nyilatkozatok alapjÃ¡n Â­, az alÃ¡bbi arÃ¡nyban jogosultak a rÃ©szvÃ©nyek Ã¡tvÃ©telÃ©re:<ujsor/>
+A rÃ©szvÃ©nyek Ã¡tvÃ©telÃ©re Ãšj kibocsÃ¡tÃ¡sÃº rÃ©szvÃ©nyek<ujsor/>
+jogosult  szÃ¡ma (db) kibocsÃ¡tÃ¡si Ã©s nÃ©vÃ©rtÃ©ke (Ft)<ujsor/>
+Balogh IstvÃ¡nnÃ©  21 10 500 000 (apport)<ujsor/>
 4031 Debrecen, Ohat u. 14.<ujsor/>
-Tóth Kálmán Tibor  21 10 500 000 (apport)<ujsor/>
+TÃ³th KÃ¡lmÃ¡n Tibor  21 10 500 000 (apport)<ujsor/>
 4024 Debrecen, Teleki u. 22. I. 3.<ujsor/>
-Tóth Béla Attila  12 6 000 000 (apport)<ujsor/>
-2000 Szentendre, Kálvária u. 40.<ujsor/>
-Kusai Tamás    6 3 000 000 (apport)<ujsor/>
+TÃ³th BÃ©la Attila  12 6 000 000 (apport)<ujsor/>
+2000 Szentendre, KÃ¡lvÃ¡ria u. 40.<ujsor/>
+Kusai TamÃ¡s    6 3 000 000 (apport)<ujsor/>
 4028 Debrecen, Lugosi u. 18/C<ujsor/>
-A részvényesek kötelezettséget vállaltak arra, hogy a követelések apportálása révén jegyzett részvénytulajdonukat legkésõbb 15 napon belül az értékpapírszámlán nevükre íratják, regisztráltatják.<ujsor/>
+A rÃ©szvÃ©nyesek kÃ¶telezettsÃ©get vÃ¡llaltak arra, hogy a kÃ¶vetelÃ©sek apportÃ¡lÃ¡sa rÃ©vÃ©n jegyzett rÃ©szvÃ©nytulajdonukat legkÃ©sÅ‘bb 15 napon belÃ¼l az Ã©rtÃ©kpapÃ­rszÃ¡mlÃ¡n nevÃ¼kre Ã­ratjÃ¡k, regisztrÃ¡ltatjÃ¡k.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0910000331</mezo>
-<mezo id = "nev">EAST-AUDIT Könyvvizsgáló és Tanácsadó Részvénytársaság</mezo>
+<mezo id = "nev">EAST-AUDIT KÃ¶nyvvizsgÃ¡lÃ³ Ã©s TanÃ¡csadÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">4025 Debrecen</mezo>
 </alrovat>
 </rovat>

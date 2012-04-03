@@ -5,7 +5,7 @@
 <mezo id = "cf">10</mezo>
 <mezo id = "szam">001428</mezo>
 <mezo id = "nevalrovat">2</mezo>
-<mezo id = "cim">2510 Dorog, Esztergomi út l5. </mezo>
+<mezo id = "cim">2510 Dorog, Esztergomi Ãºt l5. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">11186085211</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20061220</mezo>
-<mezo id = "nev">NOVOPRINT Nyomdaipari és Kiadói Zártkörû Részvénytársaság</mezo>
+<mezo id = "nev">NOVOPRINT Nyomdaipari Ã©s KiadÃ³i ZÃ¡rtkÃ¶rÅ± RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">20061220</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20080626</mezo>
@@ -41,7 +41,7 @@
 <mezo id = "hattol">19921229</mezo>
 <mezo id = "irsz">2510</mezo>
 <mezo id = "hely">Dorog</mezo>
-<mezo id = "teru">Esztergomi út l5.</mezo>
+<mezo id = "teru">Esztergomi Ãºt l5.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "7">
@@ -54,7 +54,7 @@
 <mezo id = "hattol">20091030</mezo>
 <mezo id = "irsz">1037</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Vörösvári út 119.</mezo>
+<mezo id = "teru">VÃ¶rÃ¶svÃ¡ri Ãºt 119.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20091030</mezo>
 <mezo id = "bkelt">20091219</mezo>
@@ -63,7 +63,7 @@
 <mezo id = "hattol">20091030</mezo>
 <mezo id = "irsz">1211</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Déli utca 13-17.</mezo>
+<mezo id = "teru">DÃ©li utca 13-17.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20091030</mezo>
 <mezo id = "bkelt">20091219</mezo>
@@ -561,21 +561,21 @@
 <rovat id = "13">
 <alrovat id = "24">
 <mezo id = "hattol">20001012</mezo>
-<mezo id = "tiszt">Siska Róza</mezo>
-<mezo id = "pnev">Dobák Istvánné Radovics Ilona</mezo>
-<mezo id = "panev">fõkönyvelõ</mezo>
+<mezo id = "tiszt">Siska RÃ³za</mezo>
+<mezo id = "pnev">DobÃ¡k IstvÃ¡nnÃ© Radovics Ilona</mezo>
+<mezo id = "panev">fÅ‘kÃ¶nyvelÅ‘</mezo>
 <mezo id = "pirsz">2517</mezo>
-<mezo id = "phely">Kesztölc</mezo>
-<mezo id = "pteru">Malom út 84.</mezo>
+<mezo id = "phely">KesztÃ¶lc</mezo>
+<mezo id = "pteru">Malom Ãºt 84.</mezo>
 </alrovat>
 <alrovat id = "50">
 <mezo id = "hattol">20091030</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
 <mezo id = "pnev">Miseje Attila</mezo>
-<mezo id = "panev">Kovács Ilona</mezo>
+<mezo id = "panev">KovÃ¡cs Ilona</mezo>
 <mezo id = "pirsz">1015</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Batthyány utca 65.</mezo>
+<mezo id = "pteru">BatthyÃ¡ny utca 65.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20091030</mezo>
 <mezo id = "jogvv">20131030</mezo>
@@ -584,11 +584,11 @@
 </alrovat>
 <alrovat id = "51">
 <mezo id = "hattol">20091030</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (vezérigazgató)</mezo>
-<mezo id = "pnev">Dávid Ferenc</mezo>
-<mezo id = "panev">Horváth Ilona</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (vezÃ©rigazgatÃ³)</mezo>
+<mezo id = "pnev">DÃ¡vid Ferenc</mezo>
+<mezo id = "panev">HorvÃ¡th Ilona</mezo>
 <mezo id = "pirsz">2094</mezo>
-<mezo id = "phely">Nagykovácsi</mezo>
+<mezo id = "phely">NagykovÃ¡csi</mezo>
 <mezo id = "pteru">Templomkert utca 8.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20091030</mezo>
@@ -598,12 +598,12 @@
 </alrovat>
 <alrovat id = "52">
 <mezo id = "hattol">20091030</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Kerék Csaba</mezo>
-<mezo id = "panev">Tölgyesi Terézia</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">KerÃ©k Csaba</mezo>
+<mezo id = "panev">TÃ¶lgyesi TerÃ©zia</mezo>
 <mezo id = "pirsz">1137</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Katona József utca 28.</mezo>
+<mezo id = "pteru">Katona JÃ³zsef utca 28.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20091030</mezo>
 <mezo id = "jogvv">20131030</mezo>
@@ -615,15 +615,15 @@
 <alrovat id = "7">
 <mezo id = "hattol">20070531</mezo>
 <mezo id = "cgjsz">109261363</mezo>
-<mezo id = "nev">KODEX-KONTROLL Könyvvizsgáló, Gazdasági és Adótanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">KODEX-KONTROLL KÃ¶nyvvizsgÃ¡lÃ³, GazdasÃ¡gi Ã©s AdÃ³tanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "irsz">1112</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Oltványi utca</mezo>
+<mezo id = "teru">OltvÃ¡nyi utca</mezo>
 <mezo id = "hsz">51.</mezo>
-<mezo id = "pnev">Páli Gábor</mezo>
+<mezo id = "pnev">PÃ¡li GÃ¡bor</mezo>
 <mezo id = "panev">Dr. Fenyvesi Anna</mezo>
 <mezo id = "pirsz">1112</mezo>
-<mezo id = "phely">Budapest, Oltványi utca 51.</mezo>
+<mezo id = "phely">Budapest, OltvÃ¡nyi utca 51.</mezo>
 <mezo id = "jogvk">20070531</mezo>
 <mezo id = "jogvv">20110531</mezo>
 <mezo id = "valtk">20070531</mezo>
@@ -635,11 +635,11 @@
 <rovat id = "15">
 <alrovat id = "21">
 <mezo id = "hattol">20091030</mezo>
-<mezo id = "pnev">dr. Telek József</mezo>
-<mezo id = "panev">Schenker Erzsébet</mezo>
+<mezo id = "pnev">dr. Telek JÃ³zsef</mezo>
+<mezo id = "panev">Schenker ErzsÃ©bet</mezo>
 <mezo id = "pirsz">2094</mezo>
-<mezo id = "phely">Nagykovácsi</mezo>
-<mezo id = "pteru">Pók utca 60.</mezo>
+<mezo id = "phely">NagykovÃ¡csi</mezo>
+<mezo id = "pteru">PÃ³k utca 60.</mezo>
 <mezo id = "jogvk">20091030</mezo>
 <mezo id = "jogvv">20131030</mezo>
 <mezo id = "valtk">20091030</mezo>
@@ -647,11 +647,11 @@
 </alrovat>
 <alrovat id = "22">
 <mezo id = "hattol">20091030</mezo>
-<mezo id = "pnev">Fabók Dávid</mezo>
-<mezo id = "panev">Dávid Ildikó</mezo>
+<mezo id = "pnev">FabÃ³k DÃ¡vid</mezo>
+<mezo id = "panev">DÃ¡vid IldikÃ³</mezo>
 <mezo id = "pirsz">2120</mezo>
 <mezo id = "phely">Dunakeszi</mezo>
-<mezo id = "pteru">Kosztolányi Dezsõ utca 1/B.</mezo>
+<mezo id = "pteru">KosztolÃ¡nyi DezsÅ‘ utca 1/B.</mezo>
 <mezo id = "jogvk">20091030</mezo>
 <mezo id = "jogvv">20131030</mezo>
 <mezo id = "valtk">20091030</mezo>
@@ -659,11 +659,11 @@
 </alrovat>
 <alrovat id = "23">
 <mezo id = "hattol">20091030</mezo>
-<mezo id = "pnev">dr. Kõrösi Ilona</mezo>
-<mezo id = "panev">Vörös Ilona</mezo>
+<mezo id = "pnev">dr. KÅ‘rÃ¶si Ilona</mezo>
+<mezo id = "panev">VÃ¶rÃ¶s Ilona</mezo>
 <mezo id = "pirsz">1073</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Kertész utca 22.</mezo>
+<mezo id = "pteru">KertÃ©sz utca 22.</mezo>
 <mezo id = "jogvk">20091030</mezo>
 <mezo id = "jogvv">20131030</mezo>
 <mezo id = "valtk">20091030</mezo>
@@ -703,7 +703,7 @@
 <alrovat id = "7">
 <mezo id = "hattol">20050405</mezo>
 <mezo id = "cgjsz">910000030</mezo>
-<mezo id = "nev">KARTONPACK Dobozipari Részvénytársaság</mezo>
+<mezo id = "nev">KARTONPACK Dobozipari RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "irsz">4030</mezo>
 <mezo id = "hely">Debrecen</mezo>
 <mezo id = "teru">Galamb u.</mezo>
@@ -713,9 +713,9 @@
 <alrovat id = "8">
 <mezo id = "hattol">20050405</mezo>
 <mezo id = "cgjsz">1309069570</mezo>
-<mezo id = "nev">PHARMA-PRESS Nyomdaipari Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">PHARMA-PRESS Nyomdaipari KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "irsz">2094</mezo>
-<mezo id = "hely">Nagykovácsi</mezo>
+<mezo id = "hely">NagykovÃ¡csi</mezo>
 <mezo id = "teru">Templomkert u.</mezo>
 <mezo id = "hsz">8.</mezo>
 <mezo id = "j">x</mezo>
@@ -730,251 +730,251 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Komárom-Esztergom Megyei Bíróság 11 10 001428<ujsor/>
-NOVOPRINT Nyomdaipari és Kiadói Részvénytársaság<ujsor/>
-A bíróság 1994. 02. 10-én hozott végzését a Ctvr. 25. § (1) bekezdése, illetve a Pp. 224. § (1) bekezdése alapján hivatalból az alábbiak szerint javítja ki:<ujsor/>
+<mezo id = "szoveg">KomÃ¡rom-Esztergom Megyei BÃ­rÃ³sÃ¡g 11 10 001428<ujsor/>
+NOVOPRINT Nyomdaipari Ã©s KiadÃ³i RÃ©szvÃ©nytÃ¡rsasÃ¡g<ujsor/>
+A bÃ­rÃ³sÃ¡g 1994. 02. 10-Ã©n hozott vÃ©gzÃ©sÃ©t a Ctvr. 25. Â§ (1) bekezdÃ©se, illetve a Pp. 224. Â§ (1) bekezdÃ©se alapjÃ¡n hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja ki:<ujsor/>
 8. 1994. 11. 19.<ujsor/>
 Helyesen:<ujsor/>
 8. 1993. 11. 19.<ujsor/>
-12. Egyszázhetvenkettõmillió forint.<ujsor/>
-Hatályos: 1994. 11. 19-tõl.<ujsor/>
-Helyesen: 1993. 11. 19-tõl.<ujsor/>
-15. Kovács Tamás igazgatósági tag HU 1012 Budapest, Pálya u. 15.<ujsor/>
-Törölve: 1993. 11. 19-i hatállyal.<ujsor/>
-Helyesen: 1993. 06. 08-i hatállyal.<ujsor/>
-Koka Tamás igazgatósági tag HU 1026 Budapest, Szilágyi Erzsébet fasor 25.<ujsor/>
-Hatályos: 1994. 11. 19-tõl.<ujsor/>
-Helyesen: 1993. 06. 08-tól.<ujsor/>
-18. Egyszázhetvenkettõezer darab, egyezer forint.<ujsor/>
-Hatályos: 1994. 11. 19-tõl.<ujsor/>
-Helyesen: 1993. 11. 19-tõl.<ujsor/>
+12. EgyszÃ¡zhetvenkettÅ‘milliÃ³ forint.<ujsor/>
+HatÃ¡lyos: 1994. 11. 19-tÅ‘l.<ujsor/>
+Helyesen: 1993. 11. 19-tÅ‘l.<ujsor/>
+15. KovÃ¡cs TamÃ¡s igazgatÃ³sÃ¡gi tag HU 1012 Budapest, PÃ¡lya u. 15.<ujsor/>
+TÃ¶rÃ¶lve: 1993. 11. 19-i hatÃ¡llyal.<ujsor/>
+Helyesen: 1993. 06. 08-i hatÃ¡llyal.<ujsor/>
+Koka TamÃ¡s igazgatÃ³sÃ¡gi tag HU 1026 Budapest, SzilÃ¡gyi ErzsÃ©bet fasor 25.<ujsor/>
+HatÃ¡lyos: 1994. 11. 19-tÅ‘l.<ujsor/>
+Helyesen: 1993. 06. 08-tÃ³l.<ujsor/>
+18. EgyszÃ¡zhetvenkettÅ‘ezer darab, egyezer forint.<ujsor/>
+HatÃ¡lyos: 1994. 11. 19-tÅ‘l.<ujsor/>
+Helyesen: 1993. 11. 19-tÅ‘l.<ujsor/>
 1994. 05. 05.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110001428</mezo>
-<mezo id = "nev">NOVOPRINT Nyomdaipari és Kiadói Részvénytársaság (Dorog, Esztergomi út 15.)</mezo>
+<mezo id = "nev">NOVOPRINT Nyomdaipari Ã©s KiadÃ³i RÃ©szvÃ©nytÃ¡rsasÃ¡g (Dorog, Esztergomi Ãºt 15.)</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Komárom-Esztergom Megyei Bíróság 11 10 001428<ujsor/>
-NOVOPRINT Nyomdaipari és Kiadói Részvénytársaság<ujsor/>
-A bíróság az 1994. 05. 05-én hozott végzését hivatalból az alábbiak szerint javítja ki:<ujsor/>
-12. Egyszázhetvenkettõmillió forint.<ujsor/>
-Törölve: 1994. 03. 07-i hatállyal.<ujsor/>
-Kettõszázhuszonkettõmillió forint (ebbõl készpénz 172 000 000 Ft, apport 50 000 000 Ft).<ujsor/>
-Hatályos: 1994. 03. 07-tõl.<ujsor/>
+<mezo id = "szoveg">KomÃ¡rom-Esztergom Megyei BÃ­rÃ³sÃ¡g 11 10 001428<ujsor/>
+NOVOPRINT Nyomdaipari Ã©s KiadÃ³i RÃ©szvÃ©nytÃ¡rsasÃ¡g<ujsor/>
+A bÃ­rÃ³sÃ¡g az 1994. 05. 05-Ã©n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja ki:<ujsor/>
+12. EgyszÃ¡zhetvenkettÅ‘milliÃ³ forint.<ujsor/>
+TÃ¶rÃ¶lve: 1994. 03. 07-i hatÃ¡llyal.<ujsor/>
+KettÅ‘szÃ¡zhuszonkettÅ‘milliÃ³ forint (ebbÅ‘l kÃ©szpÃ©nz 172 000 000 Ft, apport 50 000 000 Ft).<ujsor/>
+HatÃ¡lyos: 1994. 03. 07-tÅ‘l.<ujsor/>
 1994. 11. 14.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110001428</mezo>
-<mezo id = "nev">NOVOPRINT Nyomdaipari és Kiadói Részvénytársaság (Dorog, Esztergomi út 15.)</mezo>
+<mezo id = "nev">NOVOPRINT Nyomdaipari Ã©s KiadÃ³i RÃ©szvÃ©nytÃ¡rsasÃ¡g (Dorog, Esztergomi Ãºt 15.)</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A NOVOPRINT Rt. (2510 Dorog, Esztergomi út 15.) közgyûlése 1994. december 16-i ülésén a társaság alaptõkéjének felemelésérõl határozott. Az alaptõke-emelés célja a társaság forgóeszközeinek bõvítése, új beruházások megvalósítása.<ujsor/>
-Az alaptõke-emelés módjai:<ujsor/>
-1. Zártkörû jegyzésre kijelölt részvényesek számára.<ujsor/>
-2. A tõketartalék alaptõkévé átalakításával 6700 db (hatezer-hétszáz darab), egyenként 1000 Ft (egyezer forint) névértékû, névre szóló dolgozói részvény kibocsátása 6 700 000 Ft (hatmillió-hétszázezer forint) összegben.<ujsor/>
-3. 10 000 db (tízezer darab), egyenként 1000 Ft (egyezer forint) névértékû, bemutatóra szóló, nyilvános kibocsátású kamatozó részvény kibocsátása 200%-os árfolyamon, azaz 2000 Ft/db (kettõezer forint/darab) áron.<ujsor/>
-Az új részvények a korábban kibocsátott részvényekhez kapcsolódó jogokat nem érintik, de azzal azonos jogokkal rendelkeznek.<ujsor/>
-A nyilvános kibocsátású részvények esetében a legkisebb jegyezhetõ összeg 10 000 Ft (tízezer forint) névértékû részvény.<ujsor/>
-Az alaptõke-emelés kezdõ- és zárónapja:<ujsor/>
-a) zártkörû emelés esetén:<ujsor/>
-kezdõnap: a jelen hirdetmény megjelenését követõ nap,<ujsor/>
-zárónap: a kezdõnaptól számított 30. nap;<ujsor/>
-b) nyilvános kibocsátás esetén:<ujsor/>
-kezdõnap: 1995. március 1. (illetve a közlemény megjelenésének napja),<ujsor/>
-zárónap: 1995. április 30.<ujsor/>
-A jegyzés helye a társaság székhelye.<ujsor/>
-A fentiek érdekében a közgyûlés az alapszabályt a következõk szerint módosítja:<ujsor/>
-1. Az alapszabály 6. pontja helyébe a következõ rendelkezés lép:<ujsor/>
-A társaság alaptõkéje:<ujsor/>
-alaptõke: 283 700 000 Ft (kettõszáznyolcvanhárommillió-hétszázezer forint)<ujsor/>
-tõketartalék: 14 840 000 Ft (tizennégymillió-nyolcszáznegyvenezer forint).<ujsor/>
-2. Az alapszabály 7.1.-7.4. pontja a lejegyzett tõkeösszeggel módosul.<ujsor/>
-3. Az alapszabály 8. pontja helyébe a következõ rendelkezés lép:<ujsor/>
-&quot;8. A társaság részvényeinek száma, névértéke, fajtája és címletei:<ujsor/>
-8.1. A társaság alaptõkéje 283 700 db (kettõszáznyolcvanháromezer-hétszáz darab) 1000 Ft (egyezer forint) névértékû részvényre oszlik. A részvények közül 273 700 db (kettõszázhetvenháromezer-hétszáz darab) névre szóló részvény, ezen belül 6700 db (hatezer-hétszáz darab) dolgozói részvény; 10 000 db (tízezer darab) bemutatóra szóló kamatozó részvény.<ujsor/>
-Az éves kamat mértéke a mindenkori jegybanki alapkamat 150%-a.<ujsor/>
-8.2. Az 1000 Ft (egyezer forint) névértékû részvények összevontan is kibocsáthatók a tulajdonosi igényeknek megfelelõen 100 000 Ft (egyszázezer forint), 250 000 Ft (kettõszázötvenezer forint), 500 000 Ft (ötszázezer forint) és 1 000 000 Ft-os (egymillió forintos) címletekben.<ujsor/>
-8.3. A részvénytársaság alaptõkén felüli vagyonából - az alaptõke felemelésére vonatkozó szabályok szerint - ingyenes vagy kedvezményes áron megszerezhetõ dolgozói részvények bocsáthatók ki. E részvények megszerzésének és átruházásának feltételeit az igazgatóság határozza meg.&quot;<ujsor/>
-A KÁRPÁTIA Vendéglátó és Kereskedelmi Korlátolt Felelõsségû Társaság (8900 Zalaegerszeg, Nyerges út 74.)<ujsor/>
-árverésre<ujsor/>
-bocsátja kizárt tagja 200 000 Ft (kettõszázezer forint) névértékû üzletrészét ugyanilyen értékû becsértéken.<ujsor/>
-Az árverés ideje: 1995. április 7., 10 óra.<ujsor/>
-Az árverés helye: 8900 Zalaegerszeg, Könyök u. 7. WAGNER és VASS Ügyvédi Iroda.<ujsor/>
-Az árverési részvétel elõfeltétele: aki a becsérték 20%-ának megfelelõ bánatpénzt az árverés helyén az árverést megelõzõ napon 12-16 óra között letétbe helyezi.<ujsor/>
-További tájékoztatással a WAGNER és VASS Ügyvédi Iroda áll rendelkezésre. Telefonszáma: 92/321-977.<ujsor/>
+<mezo id = "szoveg">A NOVOPRINT Rt. (2510 Dorog, Esztergomi Ãºt 15.) kÃ¶zgyÅ±lÃ©se 1994. december 16-i Ã¼lÃ©sÃ©n a tÃ¡rsasÃ¡g alaptÅ‘kÃ©jÃ©nek felemelÃ©sÃ©rÅ‘l hatÃ¡rozott. Az alaptÅ‘ke-emelÃ©s cÃ©lja a tÃ¡rsasÃ¡g forgÃ³eszkÃ¶zeinek bÅ‘vÃ­tÃ©se, Ãºj beruhÃ¡zÃ¡sok megvalÃ³sÃ­tÃ¡sa.<ujsor/>
+Az alaptÅ‘ke-emelÃ©s mÃ³djai:<ujsor/>
+1. ZÃ¡rtkÃ¶rÅ± jegyzÃ©sre kijelÃ¶lt rÃ©szvÃ©nyesek szÃ¡mÃ¡ra.<ujsor/>
+2. A tÅ‘ketartalÃ©k alaptÅ‘kÃ©vÃ© Ã¡talakÃ­tÃ¡sÃ¡val 6700 db (hatezer-hÃ©tszÃ¡z darab), egyenkÃ©nt 1000 Ft (egyezer forint) nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³ dolgozÃ³i rÃ©szvÃ©ny kibocsÃ¡tÃ¡sa 6 700 000 Ft (hatmilliÃ³-hÃ©tszÃ¡zezer forint) Ã¶sszegben.<ujsor/>
+3. 10 000 db (tÃ­zezer darab), egyenkÃ©nt 1000 Ft (egyezer forint) nÃ©vÃ©rtÃ©kÅ±, bemutatÃ³ra szÃ³lÃ³, nyilvÃ¡nos kibocsÃ¡tÃ¡sÃº kamatozÃ³ rÃ©szvÃ©ny kibocsÃ¡tÃ¡sa 200%-os Ã¡rfolyamon, azaz 2000 Ft/db (kettÅ‘ezer forint/darab) Ã¡ron.<ujsor/>
+Az Ãºj rÃ©szvÃ©nyek a korÃ¡bban kibocsÃ¡tott rÃ©szvÃ©nyekhez kapcsolÃ³dÃ³ jogokat nem Ã©rintik, de azzal azonos jogokkal rendelkeznek.<ujsor/>
+A nyilvÃ¡nos kibocsÃ¡tÃ¡sÃº rÃ©szvÃ©nyek esetÃ©ben a legkisebb jegyezhetÅ‘ Ã¶sszeg 10 000 Ft (tÃ­zezer forint) nÃ©vÃ©rtÃ©kÅ± rÃ©szvÃ©ny.<ujsor/>
+Az alaptÅ‘ke-emelÃ©s kezdÅ‘- Ã©s zÃ¡rÃ³napja:<ujsor/>
+a) zÃ¡rtkÃ¶rÅ± emelÃ©s esetÃ©n:<ujsor/>
+kezdÅ‘nap: a jelen hirdetmÃ©ny megjelenÃ©sÃ©t kÃ¶vetÅ‘ nap,<ujsor/>
+zÃ¡rÃ³nap: a kezdÅ‘naptÃ³l szÃ¡mÃ­tott 30. nap;<ujsor/>
+b) nyilvÃ¡nos kibocsÃ¡tÃ¡s esetÃ©n:<ujsor/>
+kezdÅ‘nap: 1995. mÃ¡rcius 1. (illetve a kÃ¶zlemÃ©ny megjelenÃ©sÃ©nek napja),<ujsor/>
+zÃ¡rÃ³nap: 1995. Ã¡prilis 30.<ujsor/>
+A jegyzÃ©s helye a tÃ¡rsasÃ¡g szÃ©khelye.<ujsor/>
+A fentiek Ã©rdekÃ©ben a kÃ¶zgyÅ±lÃ©s az alapszabÃ¡lyt a kÃ¶vetkezÅ‘k szerint mÃ³dosÃ­tja:<ujsor/>
+1. Az alapszabÃ¡ly 6. pontja helyÃ©be a kÃ¶vetkezÅ‘ rendelkezÃ©s lÃ©p:<ujsor/>
+A tÃ¡rsasÃ¡g alaptÅ‘kÃ©je:<ujsor/>
+alaptÅ‘ke: 283 700 000 Ft (kettÅ‘szÃ¡znyolcvanhÃ¡rommilliÃ³-hÃ©tszÃ¡zezer forint)<ujsor/>
+tÅ‘ketartalÃ©k: 14 840 000 Ft (tizennÃ©gymilliÃ³-nyolcszÃ¡znegyvenezer forint).<ujsor/>
+2. Az alapszabÃ¡ly 7.1.-7.4. pontja a lejegyzett tÅ‘keÃ¶sszeggel mÃ³dosul.<ujsor/>
+3. Az alapszabÃ¡ly 8. pontja helyÃ©be a kÃ¶vetkezÅ‘ rendelkezÃ©s lÃ©p:<ujsor/>
+&quot;8. A tÃ¡rsasÃ¡g rÃ©szvÃ©nyeinek szÃ¡ma, nÃ©vÃ©rtÃ©ke, fajtÃ¡ja Ã©s cÃ­mletei:<ujsor/>
+8.1. A tÃ¡rsasÃ¡g alaptÅ‘kÃ©je 283 700 db (kettÅ‘szÃ¡znyolcvanhÃ¡romezer-hÃ©tszÃ¡z darab) 1000 Ft (egyezer forint) nÃ©vÃ©rtÃ©kÅ± rÃ©szvÃ©nyre oszlik. A rÃ©szvÃ©nyek kÃ¶zÃ¼l 273 700 db (kettÅ‘szÃ¡zhetvenhÃ¡romezer-hÃ©tszÃ¡z darab) nÃ©vre szÃ³lÃ³ rÃ©szvÃ©ny, ezen belÃ¼l 6700 db (hatezer-hÃ©tszÃ¡z darab) dolgozÃ³i rÃ©szvÃ©ny; 10 000 db (tÃ­zezer darab) bemutatÃ³ra szÃ³lÃ³ kamatozÃ³ rÃ©szvÃ©ny.<ujsor/>
+Az Ã©ves kamat mÃ©rtÃ©ke a mindenkori jegybanki alapkamat 150%-a.<ujsor/>
+8.2. Az 1000 Ft (egyezer forint) nÃ©vÃ©rtÃ©kÅ± rÃ©szvÃ©nyek Ã¶sszevontan is kibocsÃ¡thatÃ³k a tulajdonosi igÃ©nyeknek megfelelÅ‘en 100 000 Ft (egyszÃ¡zezer forint), 250 000 Ft (kettÅ‘szÃ¡zÃ¶tvenezer forint), 500 000 Ft (Ã¶tszÃ¡zezer forint) Ã©s 1 000 000 Ft-os (egymilliÃ³ forintos) cÃ­mletekben.<ujsor/>
+8.3. A rÃ©szvÃ©nytÃ¡rsasÃ¡g alaptÅ‘kÃ©n felÃ¼li vagyonÃ¡bÃ³l - az alaptÅ‘ke felemelÃ©sÃ©re vonatkozÃ³ szabÃ¡lyok szerint - ingyenes vagy kedvezmÃ©nyes Ã¡ron megszerezhetÅ‘ dolgozÃ³i rÃ©szvÃ©nyek bocsÃ¡thatÃ³k ki. E rÃ©szvÃ©nyek megszerzÃ©sÃ©nek Ã©s Ã¡truhÃ¡zÃ¡sÃ¡nak feltÃ©teleit az igazgatÃ³sÃ¡g hatÃ¡rozza meg.&quot;<ujsor/>
+A KÃRPÃTIA VendÃ©glÃ¡tÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (8900 Zalaegerszeg, Nyerges Ãºt 74.)<ujsor/>
+Ã¡rverÃ©sre<ujsor/>
+bocsÃ¡tja kizÃ¡rt tagja 200 000 Ft (kettÅ‘szÃ¡zezer forint) nÃ©vÃ©rtÃ©kÅ± Ã¼zletrÃ©szÃ©t ugyanilyen Ã©rtÃ©kÅ± becsÃ©rtÃ©ken.<ujsor/>
+Az Ã¡rverÃ©s ideje: 1995. Ã¡prilis 7., 10 Ã³ra.<ujsor/>
+Az Ã¡rverÃ©s helye: 8900 Zalaegerszeg, KÃ¶nyÃ¶k u. 7. WAGNER Ã©s VASS ÃœgyvÃ©di Iroda.<ujsor/>
+Az Ã¡rverÃ©si rÃ©szvÃ©tel elÅ‘feltÃ©tele: aki a becsÃ©rtÃ©k 20%-Ã¡nak megfelelÅ‘ bÃ¡natpÃ©nzt az Ã¡rverÃ©s helyÃ©n az Ã¡rverÃ©st megelÅ‘zÅ‘ napon 12-16 Ã³ra kÃ¶zÃ¶tt letÃ©tbe helyezi.<ujsor/>
+TovÃ¡bbi tÃ¡jÃ©koztatÃ¡ssal a WAGNER Ã©s VASS ÃœgyvÃ©di Iroda Ã¡ll rendelkezÃ©sre. TelefonszÃ¡ma: 92/321-977.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110001428</mezo>
-<mezo id = "nev">NOVOPRINT Nyomdaipari és Kiadói Részvénytársaság (Dorog, Esztergomi út 15.)</mezo>
+<mezo id = "nev">NOVOPRINT Nyomdaipari Ã©s KiadÃ³i RÃ©szvÃ©nytÃ¡rsasÃ¡g (Dorog, Esztergomi Ãºt 15.)</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A NOVOPRINT Rt. (2510 Dorog, Esztergomi út 15.) értesíti az érdeklõdõket, hogy a társaság 1995. december 4-én megtartott közgyûlésén a társaság alaptõkéjének 5 000 000 Ft-tal (ötmillió forinttal), vagyis 273 700 000 Ft-ról (kettõszázhetvenhárommillió-hétszázezer forintról) 278 700 000 Ft-ra (kettõszázhetvennyolcmillió-hétszázezer forintra) történõ felemelését határozta el.<ujsor/>
-Az alaptõke-emelés célja új pénzügyi források bevonása a társaság fejlesztési terveinek megvalósításához.<ujsor/>
-Az alaptõke-emelés módja: kamatozó részvények kibocsátása.<ujsor/>
-A nyilvános kibocsátás során a társaság 5000 db (ötezer darab) 1000 Ft (egyezer forint) névértékû részvénye jegyezhetõ le, túljegyzés további 5000 db-ra (ötezer darabra) fogadható el.<ujsor/>
-Az 5 000 000 Ft (ötmillió forint) névértékû kamatozó részvény a névérték 200%-án kerül kibocsátásra. Az új részvények tulajdonosai az osztalékon felül a mindenkori jegybanki alapkamat 150%-ának megfelelõ mértékû kamatra jogosultak, egyúttal mindazon jogok megilletik õket, mint a korábban kibocsátott részvények tulajdonosait.<ujsor/>
-Az új részvények kibocsátása a korábbi részvényekhez fûzõdõ jogokat nem érintik.<ujsor/>
-A részvényjegyzés helye: 2510 Dorog, Esztergomi út 15.;<ujsor/>
+<mezo id = "szoveg">A NOVOPRINT Rt. (2510 Dorog, Esztergomi Ãºt 15.) Ã©rtesÃ­ti az Ã©rdeklÅ‘dÅ‘ket, hogy a tÃ¡rsasÃ¡g 1995. december 4-Ã©n megtartott kÃ¶zgyÅ±lÃ©sÃ©n a tÃ¡rsasÃ¡g alaptÅ‘kÃ©jÃ©nek 5 000 000 Ft-tal (Ã¶tmilliÃ³ forinttal), vagyis 273 700 000 Ft-rÃ³l (kettÅ‘szÃ¡zhetvenhÃ¡rommilliÃ³-hÃ©tszÃ¡zezer forintrÃ³l) 278 700 000 Ft-ra (kettÅ‘szÃ¡zhetvennyolcmilliÃ³-hÃ©tszÃ¡zezer forintra) tÃ¶rtÃ©nÅ‘ felemelÃ©sÃ©t hatÃ¡rozta el.<ujsor/>
+Az alaptÅ‘ke-emelÃ©s cÃ©lja Ãºj pÃ©nzÃ¼gyi forrÃ¡sok bevonÃ¡sa a tÃ¡rsasÃ¡g fejlesztÃ©si terveinek megvalÃ³sÃ­tÃ¡sÃ¡hoz.<ujsor/>
+Az alaptÅ‘ke-emelÃ©s mÃ³dja: kamatozÃ³ rÃ©szvÃ©nyek kibocsÃ¡tÃ¡sa.<ujsor/>
+A nyilvÃ¡nos kibocsÃ¡tÃ¡s sorÃ¡n a tÃ¡rsasÃ¡g 5000 db (Ã¶tezer darab) 1000 Ft (egyezer forint) nÃ©vÃ©rtÃ©kÅ± rÃ©szvÃ©nye jegyezhetÅ‘ le, tÃºljegyzÃ©s tovÃ¡bbi 5000 db-ra (Ã¶tezer darabra) fogadhatÃ³ el.<ujsor/>
+Az 5 000 000 Ft (Ã¶tmilliÃ³ forint) nÃ©vÃ©rtÃ©kÅ± kamatozÃ³ rÃ©szvÃ©ny a nÃ©vÃ©rtÃ©k 200%-Ã¡n kerÃ¼l kibocsÃ¡tÃ¡sra. Az Ãºj rÃ©szvÃ©nyek tulajdonosai az osztalÃ©kon felÃ¼l a mindenkori jegybanki alapkamat 150%-Ã¡nak megfelelÅ‘ mÃ©rtÃ©kÅ± kamatra jogosultak, egyÃºttal mindazon jogok megilletik Å‘ket, mint a korÃ¡bban kibocsÃ¡tott rÃ©szvÃ©nyek tulajdonosait.<ujsor/>
+Az Ãºj rÃ©szvÃ©nyek kibocsÃ¡tÃ¡sa a korÃ¡bbi rÃ©szvÃ©nyekhez fÅ±zÅ‘dÅ‘ jogokat nem Ã©rintik.<ujsor/>
+A rÃ©szvÃ©nyjegyzÃ©s helye: 2510 Dorog, Esztergomi Ãºt 15.;<ujsor/>
 1065 Budapest, Podmaniczky u. 12.<ujsor/>
-A részvényjegyzés kezdõ napja: 1996. február 21.;<ujsor/>
-záró napja: 1996. március 1.<ujsor/>
-A társaság közgyûlése az alaptõke-emeléssel kapcsolatban az alapító okiratot az alábbiak szerint módosította:<ujsor/>
-,,6. A társaság alaptõkéje:<ujsor/>
-Alaptõke: 278 700 000 Ft (kettõszázhetvennyolcmillió-hétszázezer forint).&apos;&apos;<ujsor/>
-Az alapító okirat 7. pontja az alábbi 7.6. ponttal egészül ki:<ujsor/>
-,,7.6. Nyilvánosan lejegyzett 1,79% 5000 db&apos;&apos;.<ujsor/>
-A társaság alapító okiratának 8.1. pontja helyébe az alábbi rendelkezés lép:<ujsor/>
-,,8.1. A társaság alaptõkéje 278 700 db (kettõszázhetvennyolcezer darab) 1000 Ft-os (egyezer forintos) névértékû részvényre oszlik, melyek közül 273 700 db (kettõszázhetvenháromezer-hétszáz darab) névre szóló részvény, ezen belül 6700 db (hatezer-hétszáz darab) dolgozói részvény, további 5000 db (ötezer darab) pedig bemutatóra szóló kamatozó részvény.<ujsor/>
-A kamatozó részvények esetében az éves kamat mértéke a mindenkori jegybanki alapkamat 150%-a.&apos;&apos;.<ujsor/>
+A rÃ©szvÃ©nyjegyzÃ©s kezdÅ‘ napja: 1996. februÃ¡r 21.;<ujsor/>
+zÃ¡rÃ³ napja: 1996. mÃ¡rcius 1.<ujsor/>
+A tÃ¡rsasÃ¡g kÃ¶zgyÅ±lÃ©se az alaptÅ‘ke-emelÃ©ssel kapcsolatban az alapÃ­tÃ³ okiratot az alÃ¡bbiak szerint mÃ³dosÃ­totta:<ujsor/>
+,,6. A tÃ¡rsasÃ¡g alaptÅ‘kÃ©je:<ujsor/>
+AlaptÅ‘ke: 278 700 000 Ft (kettÅ‘szÃ¡zhetvennyolcmilliÃ³-hÃ©tszÃ¡zezer forint).&apos;&apos;<ujsor/>
+Az alapÃ­tÃ³ okirat 7. pontja az alÃ¡bbi 7.6. ponttal egÃ©szÃ¼l ki:<ujsor/>
+,,7.6. NyilvÃ¡nosan lejegyzett 1,79% 5000 db&apos;&apos;.<ujsor/>
+A tÃ¡rsasÃ¡g alapÃ­tÃ³ okiratÃ¡nak 8.1. pontja helyÃ©be az alÃ¡bbi rendelkezÃ©s lÃ©p:<ujsor/>
+,,8.1. A tÃ¡rsasÃ¡g alaptÅ‘kÃ©je 278 700 db (kettÅ‘szÃ¡zhetvennyolcezer darab) 1000 Ft-os (egyezer forintos) nÃ©vÃ©rtÃ©kÅ± rÃ©szvÃ©nyre oszlik, melyek kÃ¶zÃ¼l 273 700 db (kettÅ‘szÃ¡zhetvenhÃ¡romezer-hÃ©tszÃ¡z darab) nÃ©vre szÃ³lÃ³ rÃ©szvÃ©ny, ezen belÃ¼l 6700 db (hatezer-hÃ©tszÃ¡z darab) dolgozÃ³i rÃ©szvÃ©ny, tovÃ¡bbi 5000 db (Ã¶tezer darab) pedig bemutatÃ³ra szÃ³lÃ³ kamatozÃ³ rÃ©szvÃ©ny.<ujsor/>
+A kamatozÃ³ rÃ©szvÃ©nyek esetÃ©ben az Ã©ves kamat mÃ©rtÃ©ke a mindenkori jegybanki alapkamat 150%-a.&apos;&apos;.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110001428</mezo>
-<mezo id = "nev">NOVOPRINT Nyomdaipari és Kiadói Részvénytársaság (Dorog, Esztergomi út 15.)</mezo>
+<mezo id = "nev">NOVOPRINT Nyomdaipari Ã©s KiadÃ³i RÃ©szvÃ©nytÃ¡rsasÃ¡g (Dorog, Esztergomi Ãºt 15.)</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2001. 01. 17-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-4(10). Tízezer darab kamatozó részvény, egyezer Ft.<ujsor/>
- Hatályos: 2000. 09. 07-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2001. 01. 17-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+4(10). TÃ­zezer darab kamatozÃ³ rÃ©szvÃ©ny, egyezer Ft.<ujsor/>
+ HatÃ¡lyos: 2000. 09. 07-tÅ‘l.<ujsor/>
 Bejegyezve: 2001. 01. 31.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110001428</mezo>
-<mezo id = "nev">NOVOPRINT Nyomdaipari és Kiadói Részvénytársaság</mezo>
-<mezo id = "cim">2510 Dorog, Esztergomi út 15.</mezo>
+<mezo id = "nev">NOVOPRINT Nyomdaipari Ã©s KiadÃ³i RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2510 Dorog, Esztergomi Ãºt 15.</mezo>
 <mezo id = "adosz">11186085211</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2001. 01. 02-án hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. Dobák Istvánné Radovics Ilona (an: fõkönyvelõ) Siska Róza<ujsor/>
-2517 Kesztölc, Malom út 84.<ujsor/>
- Törölve: 2000. 10. 12-i hatállyal.<ujsor/>
- Dobák Istvánné Radovics Ilona (an: Siska Róza) fõkönyvelõ<ujsor/>
-2517 Kesztölc, Malom út 84.<ujsor/>
- Hatályos: 2000. 10. 12-tõl.<ujsor/>
-4(10). Tízezer darab egyezer Ft.<ujsor/>
- Törölve: 2000. 09. 07-i hatállyal.<ujsor/>
- Tízezer darab egyezer Ft.<ujsor/>
- Hatályos: 1999. 09. 07-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2001. 01. 02-Ã¡n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. DobÃ¡k IstvÃ¡nnÃ© Radovics Ilona (an: fÅ‘kÃ¶nyvelÅ‘) Siska RÃ³za<ujsor/>
+2517 KesztÃ¶lc, Malom Ãºt 84.<ujsor/>
+ TÃ¶rÃ¶lve: 2000. 10. 12-i hatÃ¡llyal.<ujsor/>
+ DobÃ¡k IstvÃ¡nnÃ© Radovics Ilona (an: Siska RÃ³za) fÅ‘kÃ¶nyvelÅ‘<ujsor/>
+2517 KesztÃ¶lc, Malom Ãºt 84.<ujsor/>
+ HatÃ¡lyos: 2000. 10. 12-tÅ‘l.<ujsor/>
+4(10). TÃ­zezer darab egyezer Ft.<ujsor/>
+ TÃ¶rÃ¶lve: 2000. 09. 07-i hatÃ¡llyal.<ujsor/>
+ TÃ­zezer darab egyezer Ft.<ujsor/>
+ HatÃ¡lyos: 1999. 09. 07-tÅ‘l.<ujsor/>
 Bejegyezve: 2001. 01. 17.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110001428</mezo>
-<mezo id = "nev">NOVOPRINT Nyomdaipari és Kiadói Részvénytársaság</mezo>
-<mezo id = "cim">2510 Dorog, Esztergomi út 15.</mezo>
+<mezo id = "nev">NOVOPRINT Nyomdaipari Ã©s KiadÃ³i RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2510 Dorog, Esztergomi Ãºt 15.</mezo>
 <mezo id = "adosz">11186085211</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2001. 01. 17-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-4(10). Tízezer darab egyezer Ft.<ujsor/>
- Törölve: 1999. 09. 07-i hatállyal.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2001. 01. 17-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+4(10). TÃ­zezer darab egyezer Ft.<ujsor/>
+ TÃ¶rÃ¶lve: 1999. 09. 07-i hatÃ¡llyal.<ujsor/>
 Bejegyezve: 2001. 02. 14.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110001428</mezo>
-<mezo id = "nev">NOVOPRINT Nyomdaipari és Kiadói Részvénytársaság</mezo>
-<mezo id = "cim">2510 Dorog, Esztergomi út 15.</mezo>
+<mezo id = "nev">NOVOPRINT Nyomdaipari Ã©s KiadÃ³i RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2510 Dorog, Esztergomi Ãºt 15.</mezo>
 <mezo id = "adosz">11186085211</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A GLOBE International Investment Ltd. (Derby House Athol Street, Douglas, Isle of Man IMI 1QG British Isles) tájékoztatja a nyilvánosságot, hogy 2001. március 1-jén részvényvásárlás útján, a NOVOPRINT Nyomdai és Kiadói Részvénytársaságban (2510 Dorog, Esztergomi út 15.; Cg.: [11 10 001428]) 51,18%-os részesedést szerzett, mely a Gt. rendelkezései szerint többségi irányítást biztosító befolyást eredményez.<ujsor/>
+<mezo id = "szoveg">A GLOBE International Investment Ltd. (Derby House Athol Street, Douglas, Isle of Man IMI 1QG British Isles) tÃ¡jÃ©koztatja a nyilvÃ¡nossÃ¡got, hogy 2001. mÃ¡rcius 1-jÃ©n rÃ©szvÃ©nyvÃ¡sÃ¡rlÃ¡s ÃºtjÃ¡n, a NOVOPRINT Nyomdai Ã©s KiadÃ³i RÃ©szvÃ©nytÃ¡rsasÃ¡gban (2510 Dorog, Esztergomi Ãºt 15.; Cg.: [11 10 001428]) 51,18%-os rÃ©szesedÃ©st szerzett, mely a Gt. rendelkezÃ©sei szerint tÃ¶bbsÃ©gi irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡st eredmÃ©nyez.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110001428</mezo>
-<mezo id = "nev">NOVOPRINT Nyomdaipari és Kiadói Részvénytársaság (Dorog, Esztergomi út 15.)</mezo>
+<mezo id = "nev">NOVOPRINT Nyomdaipari Ã©s KiadÃ³i RÃ©szvÃ©nytÃ¡rsasÃ¡g (Dorog, Esztergomi Ãºt 15.)</mezo>
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A BRITTON INTERINVEST LIMITED LIABILITY COMPANY (3306 Wetmore Avenue, Everett, WA 98201, Washington, USA) tájékoztatja a nyilvánosságot, hogy 2001. május 5-én, részvényvásárlás útján, a Novoprint Nyomdaipari és Kiadói Részvénytársaságban (2510 Dorog, Esztergomi út 15.; Cg.: [11 10 001428]), 28,2%-os részesedést szerzett, mely a Gt. rendelkezései szerint jelentõs befolyást eredményez.<ujsor/>
+<mezo id = "szoveg">A BRITTON INTERINVEST LIMITED LIABILITY COMPANY (3306 Wetmore Avenue, Everett, WA 98201, Washington, USA) tÃ¡jÃ©koztatja a nyilvÃ¡nossÃ¡got, hogy 2001. mÃ¡jus 5-Ã©n, rÃ©szvÃ©nyvÃ¡sÃ¡rlÃ¡s ÃºtjÃ¡n, a Novoprint Nyomdaipari Ã©s KiadÃ³i RÃ©szvÃ©nytÃ¡rsasÃ¡gban (2510 Dorog, Esztergomi Ãºt 15.; Cg.: [11 10 001428]), 28,2%-os rÃ©szesedÃ©st szerzett, mely a Gt. rendelkezÃ©sei szerint jelentÅ‘s befolyÃ¡st eredmÃ©nyez.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110001428</mezo>
-<mezo id = "nev">NOVOPRINT Nyomdaipari és Kiadói Részvénytársaság (Dorog, Esztergomi út 15.)</mezo>
+<mezo id = "nev">NOVOPRINT Nyomdaipari Ã©s KiadÃ³i RÃ©szvÃ©nytÃ¡rsasÃ¡g (Dorog, Esztergomi Ãºt 15.)</mezo>
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2001. 01. 02-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-A 14/001 szám alatti Koczka Sándorné, HU 1025 Budapest, Szépvölgyi u. 217/b. könyvvizsgáló törlésének dátuma helyesen: 2000. május 23.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2001. 01. 02-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+A 14/001 szÃ¡m alatti Koczka SÃ¡ndornÃ©, HU 1025 Budapest, SzÃ©pvÃ¶lgyi u. 217/b. kÃ¶nyvvizsgÃ¡lÃ³ tÃ¶rlÃ©sÃ©nek dÃ¡tuma helyesen: 2000. mÃ¡jus 23.<ujsor/>
 Bejegyezve: 2001. 06. 11.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110001428</mezo>
-<mezo id = "nev">NOVOPRINT Nyomdaipari és Kiadói Részvénytársaság</mezo>
-<mezo id = "cim">2510 Dorog, Esztergomi út 15.</mezo>
+<mezo id = "nev">NOVOPRINT Nyomdaipari Ã©s KiadÃ³i RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2510 Dorog, Esztergomi Ãºt 15.</mezo>
 <mezo id = "adosz">11186085211</mezo>
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2001. 01. 02-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-14. [01 06 412717] SZÁMVETÕK Szolgáltató Betéti Társaság<ujsor/>
-HU 1025 Budapest, Szépvölgyi u. 217.<ujsor/>
- Koczka Sándorné (an: Csuhai Borbála)<ujsor/>
-1025 Budapest, Szépvölgyi u. 217.<ujsor/>
- Hatályos: 2000. 05. 23-tól.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2001. 01. 02-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+14. [01 06 412717] SZÃMVETÅK SzolgÃ¡ltatÃ³ BetÃ©ti TÃ¡rsasÃ¡g<ujsor/>
+HU 1025 Budapest, SzÃ©pvÃ¶lgyi u. 217.<ujsor/>
+ Koczka SÃ¡ndornÃ© (an: Csuhai BorbÃ¡la)<ujsor/>
+1025 Budapest, SzÃ©pvÃ¶lgyi u. 217.<ujsor/>
+ HatÃ¡lyos: 2000. 05. 23-tÃ³l.<ujsor/>
 Bejegyezve: 2001. 06. 15.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110001428</mezo>
-<mezo id = "nev">NOVOPRINT Nyomdaipari és Kiadói Részvénytársaság</mezo>
-<mezo id = "cim">2510 Dorog, Esztergomi út 15.</mezo>
+<mezo id = "nev">NOVOPRINT Nyomdaipari Ã©s KiadÃ³i RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2510 Dorog, Esztergomi Ãºt 15.</mezo>
 <mezo id = "adosz">11186085211</mezo>
 </alrovat>
 <alrovat id = "11">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A KARTONPACK Dobozipari Rt. (cégjegyzékszáma: [09 10 000030]; 4030 Debrecen, Galamb u. 11.) a Gazdasági társaságokról szóló 1997. évi CXLIV. tv. 292. § (1) bekezdése alapján közzéteszi, hogy a Komárom-Esztergom Megyei Bíróságon mint Cégbíróságon bejegyzett NOVOPRINT Nyomdaipari és Kiadói Részvénytársaságban (Cg.: [11 10 001428]; székhelye: 2510 Dorog, Esztergomi út 15.) a részvények 51,18%-át megszerezte, így a társaságban a Gt. 290. §-a alapján többségi irányítást biztosító befolyást szerzett, a 2003. január 31-én kelt részvény-adásvételi szerzõdés alapján.<ujsor/>
+<mezo id = "szoveg">A KARTONPACK Dobozipari Rt. (cÃ©gjegyzÃ©kszÃ¡ma: [09 10 000030]; 4030 Debrecen, Galamb u. 11.) a GazdasÃ¡gi tÃ¡rsasÃ¡gokrÃ³l szÃ³lÃ³ 1997. Ã©vi CXLIV. tv. 292. Â§ (1) bekezdÃ©se alapjÃ¡n kÃ¶zzÃ©teszi, hogy a KomÃ¡rom-Esztergom Megyei BÃ­rÃ³sÃ¡gon mint CÃ©gbÃ­rÃ³sÃ¡gon bejegyzett NOVOPRINT Nyomdaipari Ã©s KiadÃ³i RÃ©szvÃ©nytÃ¡rsasÃ¡gban (Cg.: [11 10 001428]; szÃ©khelye: 2510 Dorog, Esztergomi Ãºt 15.) a rÃ©szvÃ©nyek 51,18%-Ã¡t megszerezte, Ã­gy a tÃ¡rsasÃ¡gban a Gt. 290. Â§-a alapjÃ¡n tÃ¶bbsÃ©gi irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡st szerzett, a 2003. januÃ¡r 31-Ã©n kelt rÃ©szvÃ©ny-adÃ¡svÃ©teli szerzÅ‘dÃ©s alapjÃ¡n.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110001428</mezo>
-<mezo id = "nev">NOVOPRINT Nyomdaipari és Kiadói Részvénytársaság</mezo>
-<mezo id = "cim">2510 Dorog, Esztergomi út l5. </mezo>
+<mezo id = "nev">NOVOPRINT Nyomdaipari Ã©s KiadÃ³i RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2510 Dorog, Esztergomi Ãºt l5. </mezo>
 </alrovat>
 <alrovat id = "12">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A KARTONPACK Dobozipari Rt. (Cg.: [09 10 000030]; 4030 Debrecen, Galamb u. 11.) a Gazdasági társaságokról szóló 1997. évi CXLIV. tv. 292. § (1) bekezdése alapján közzéteszi, hogy a NOVOPRINT Nyomdaipari és Kiadói Részvénytársaságban (Cg.: [11 10 001428]; székhelye: 2510 Dorog, Esztergomi út 15.) a részvények 93,18%-át megszerezte, ezért a társaságban a Gt. 291. §-a alapján közvetlen irányítást biztosító befolyást szerzett a 2004. július 26-án hatályba lépett szerzõdéssel.<ujsor/>
-A hitelezõk a Gt. 296. § (2) bekezdése szerinti jogaikat gyakorolhatják.<ujsor/>
+<mezo id = "szoveg">A KARTONPACK Dobozipari Rt. (Cg.: [09 10 000030]; 4030 Debrecen, Galamb u. 11.) a GazdasÃ¡gi tÃ¡rsasÃ¡gokrÃ³l szÃ³lÃ³ 1997. Ã©vi CXLIV. tv. 292. Â§ (1) bekezdÃ©se alapjÃ¡n kÃ¶zzÃ©teszi, hogy a NOVOPRINT Nyomdaipari Ã©s KiadÃ³i RÃ©szvÃ©nytÃ¡rsasÃ¡gban (Cg.: [11 10 001428]; szÃ©khelye: 2510 Dorog, Esztergomi Ãºt 15.) a rÃ©szvÃ©nyek 93,18%-Ã¡t megszerezte, ezÃ©rt a tÃ¡rsasÃ¡gban a Gt. 291. Â§-a alapjÃ¡n kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡st szerzett a 2004. jÃºlius 26-Ã¡n hatÃ¡lyba lÃ©pett szerzÅ‘dÃ©ssel.<ujsor/>
+A hitelezÅ‘k a Gt. 296. Â§ (2) bekezdÃ©se szerinti jogaikat gyakorolhatjÃ¡k.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110001428</mezo>
-<mezo id = "nev">NOVOPRINT Nyomdaipari és Kiadói Részvénytársaság</mezo>
-<mezo id = "cim">2510 Dorog, Esztergomi út l5. </mezo>
+<mezo id = "nev">NOVOPRINT Nyomdaipari Ã©s KiadÃ³i RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2510 Dorog, Esztergomi Ãºt l5. </mezo>
 </alrovat>
 <alrovat id = "13">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A PHARMA-PRESS Nyomdaipari Korlátolt Felelõsségû Társaság (Cg.: [13 09 069570]; 2094 Nagykovácsi, Templomkert u. 8.) a Gazdasági társaságokról szóló 1997. évi CXLIV. tv. 292. § (1) bekezdése alapján közzéteszi, hogy a NOVOPRINT Nyomdaipari és Kiadói Részvénytársaságban (Cg.: [11 10 001428]; székhelye: 2510 Dorog, Esztergomi út 15.) 2005. április 5-én kelt adásvételi szerzõdéssel a részvények 44,15%-át megszerezte, ezért a társaságban a Gt. 289. §-a alapján jelentõs befolyással rendelkezik.<ujsor/>
+<mezo id = "szoveg">A PHARMA-PRESS Nyomdaipari KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [13 09 069570]; 2094 NagykovÃ¡csi, Templomkert u. 8.) a GazdasÃ¡gi tÃ¡rsasÃ¡gokrÃ³l szÃ³lÃ³ 1997. Ã©vi CXLIV. tv. 292. Â§ (1) bekezdÃ©se alapjÃ¡n kÃ¶zzÃ©teszi, hogy a NOVOPRINT Nyomdaipari Ã©s KiadÃ³i RÃ©szvÃ©nytÃ¡rsasÃ¡gban (Cg.: [11 10 001428]; szÃ©khelye: 2510 Dorog, Esztergomi Ãºt 15.) 2005. Ã¡prilis 5-Ã©n kelt adÃ¡svÃ©teli szerzÅ‘dÃ©ssel a rÃ©szvÃ©nyek 44,15%-Ã¡t megszerezte, ezÃ©rt a tÃ¡rsasÃ¡gban a Gt. 289. Â§-a alapjÃ¡n jelentÅ‘s befolyÃ¡ssal rendelkezik.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110001428</mezo>
-<mezo id = "nev">NOVOPRINT Nyomdaipari és Kiadói Részvénytársaság</mezo>
+<mezo id = "nev">NOVOPRINT Nyomdaipari Ã©s KiadÃ³i RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">2510 Dorog</mezo>
 </alrovat>
 <alrovat id = "14">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a cég 2007. 07. 03. napján<ujsor/>
-benyújtott változás bejegyzése iránti kérelmét elutasítja.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a cÃ©g 2007. 07. 03. napjÃ¡n<ujsor/>
+benyÃºjtott vÃ¡ltozÃ¡s bejegyzÃ©se irÃ¡nti kÃ©relmÃ©t elutasÃ­tja.<ujsor/>
 2007. 08. 31.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110001428</mezo>
-<mezo id = "nev">NOVOPRINT Nyomdaipari és Kiadói Részvénytársaság</mezo>
-<mezo id = "cim">2510 Dorog, Esztergomi út 15.</mezo>
+<mezo id = "nev">NOVOPRINT Nyomdaipari Ã©s KiadÃ³i RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2510 Dorog, Esztergomi Ãºt 15.</mezo>
 <mezo id = "adosz">11186085211</mezo>
 </alrovat>
 <alrovat id = "15">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a cég 2007. 07. 05. napján<ujsor/>
-benyújtott változás bejegyzése iránti kérelmét elutasítja.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a cÃ©g 2007. 07. 05. napjÃ¡n<ujsor/>
+benyÃºjtott vÃ¡ltozÃ¡s bejegyzÃ©se irÃ¡nti kÃ©relmÃ©t elutasÃ­tja.<ujsor/>
 2007. 10. 30.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110001428</mezo>
-<mezo id = "nev">NOVOPRINT Nyomdaipari és Kiadói Részvénytársaság</mezo>
-<mezo id = "cim">2510 Dorog, Esztergomi út 15.</mezo>
+<mezo id = "nev">NOVOPRINT Nyomdaipari Ã©s KiadÃ³i RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2510 Dorog, Esztergomi Ãºt 15.</mezo>
 <mezo id = "adosz">11186085211</mezo>
 </alrovat>
 </rovat>

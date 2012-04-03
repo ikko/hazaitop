@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">563961</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">1023 Budapest, II. Zsigmond tér 10. </mezo>
+<mezo id = "cim">1023 Budapest, II. Zsigmond tÃ©r 10. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">12201521241</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19961025</mezo>
-<mezo id = "nev">NETLOCK Informatikai és Hálózatbiztonsági Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">NETLOCK Informatikai Ã©s HÃ¡lÃ³zatbiztonsÃ¡gi SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -33,7 +33,7 @@
 <mezo id = "hattol">19961025</mezo>
 <mezo id = "irsz">1023</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">II. Zsigmond tér 10.</mezo>
+<mezo id = "teru">II. Zsigmond tÃ©r 10.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "7">
@@ -41,7 +41,7 @@
 <mezo id = "hattol">20101115</mezo>
 <mezo id = "irsz">4028</mezo>
 <mezo id = "hely">Debrecen</mezo>
-<mezo id = "teru">Kassai út 26.</mezo>
+<mezo id = "teru">Kassai Ãºt 26.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20101115</mezo>
 <mezo id = "bkelt">20101129</mezo>
@@ -381,9 +381,9 @@
 <rovat id = "13">
 <alrovat id = "6">
 <mezo id = "hattol">20101115</mezo>
-<mezo id = "tiszt">cégvezetõ</mezo>
+<mezo id = "tiszt">cÃ©gvezetÅ‘</mezo>
 <mezo id = "email">szucs_k@netlock.hu</mezo>
-<mezo id = "pnev">Dr. Szûcs Katalin</mezo>
+<mezo id = "pnev">Dr. SzÅ±cs Katalin</mezo>
 <mezo id = "panev">Markovics Katalin</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20081015</mezo>
@@ -393,10 +393,10 @@
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">20101129</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "email">rozsahegyi_zs@netlock.hu</mezo>
-<mezo id = "pnev">Rózsahegyi Zsolt</mezo>
-<mezo id = "panev">Syrek Ágnes</mezo>
+<mezo id = "pnev">RÃ³zsahegyi Zsolt</mezo>
+<mezo id = "panev">Syrek Ãgnes</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20090330</mezo>
 <mezo id = "valtk">20101129</mezo>
@@ -408,16 +408,16 @@
 <alrovat id = "4">
 <mezo id = "hattol">20090518</mezo>
 <mezo id = "cgjsz">0109076203</mezo>
-<mezo id = "nev">CREDIT &amp; DEBIT Könyvszakértõ, Adó- és Jogi tanácsadó kft.</mezo>
+<mezo id = "nev">CREDIT &amp; DEBIT KÃ¶nyvszakÃ©rtÅ‘, AdÃ³- Ã©s Jogi tanÃ¡csadÃ³ kft.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1164</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Batthyány utca 7.</mezo>
-<mezo id = "pnev">Fabók János</mezo>
-<mezo id = "panev">Magát Katalin</mezo>
+<mezo id = "teru">BatthyÃ¡ny utca 7.</mezo>
+<mezo id = "pnev">FabÃ³k JÃ¡nos</mezo>
+<mezo id = "panev">MagÃ¡t Katalin</mezo>
 <mezo id = "pirsz">1164</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Batthyány utca 7.</mezo>
+<mezo id = "pteru">BatthyÃ¡ny utca 7.</mezo>
 <mezo id = "jogvk">20090518</mezo>
 <mezo id = "jogvv">20130531</mezo>
 <mezo id = "valtk">20090518</mezo>
@@ -454,10 +454,10 @@
 <mezo id = "irsz">1097</mezo>
 <mezo id = "hely">Amsterdam</mezo>
 <mezo id = "teru">Prins Bernhardplein 200</mezo>
-<mezo id = "pcnev">Dr. Fecskovics Erzsébet Ügyvédi Iroda</mezo>
+<mezo id = "pcnev">Dr. Fecskovics ErzsÃ©bet ÃœgyvÃ©di Iroda</mezo>
 <mezo id = "pcirsz">1023</mezo>
 <mezo id = "pchely">Budapest</mezo>
-<mezo id = "pcteru">Zsigmond tér 10.</mezo>
+<mezo id = "pcteru">Zsigmond tÃ©r 10.</mezo>
 <mezo id = "tagsk">20070628</mezo>
 <mezo id = "valtk">20110316</mezo>
 <mezo id = "knyh">Amsterdami Kereskedelmi Kamara</mezo>
@@ -473,11 +473,11 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Rózsahegyi Rita (a. n.: Syrek Ágnes; 1124 Budapest, Veréb út 3.) bejelenti, hogy a Netlock Informatikai és Hálózatbiztonsági Szolgáltató Kft. (1023 Budapest, Zsigmond tér 10.; Cg.: [01 09 563961]) 2002. november 1-jei taggyûlésén megszerezte a társaság 45%-os részesedését. Ezáltal Rózsahegyi Rita a társaságban jelentõs befolyással rendelkezik.<ujsor/>
+<mezo id = "szoveg">RÃ³zsahegyi Rita (a. n.: Syrek Ãgnes; 1124 Budapest, VerÃ©b Ãºt 3.) bejelenti, hogy a Netlock Informatikai Ã©s HÃ¡lÃ³zatbiztonsÃ¡gi SzolgÃ¡ltatÃ³ Kft. (1023 Budapest, Zsigmond tÃ©r 10.; Cg.: [01 09 563961]) 2002. november 1-jei taggyÅ±lÃ©sÃ©n megszerezte a tÃ¡rsasÃ¡g 45%-os rÃ©szesedÃ©sÃ©t. EzÃ¡ltal RÃ³zsahegyi Rita a tÃ¡rsasÃ¡gban jelentÅ‘s befolyÃ¡ssal rendelkezik.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109563961</mezo>
-<mezo id = "nev">NETLOCK Informatikai és Hálózatbiztonsági Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1023 Budapest, II. Zsigmond tér 10. </mezo>
+<mezo id = "nev">NETLOCK Informatikai Ã©s HÃ¡lÃ³zatbiztonsÃ¡gi SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1023 Budapest, II. Zsigmond tÃ©r 10. </mezo>
 </alrovat>
 </rovat>
 <rovat id = "99017">

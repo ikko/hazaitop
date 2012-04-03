@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">306002</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">8700 Marcali, Puskás Tivadar utca 26. </mezo>
+<mezo id = "cim">8700 Marcali, PuskÃ¡s Tivadar utca 26. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">13310213214</mezo>
 </alrovat>
@@ -13,13 +13,13 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20040701</mezo>
-<mezo id = "nev">NOA-ÉP Építõipari és Beruházási Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">NOA-Ã‰P Ã‰pÃ­tÅ‘ipari Ã©s BeruhÃ¡zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">20040701</mezo>
-<mezo id = "nev">NOA-ÉP Kft.</mezo>
+<mezo id = "nev">NOA-Ã‰P Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
@@ -27,7 +27,7 @@
 <mezo id = "hattol">20040701</mezo>
 <mezo id = "irsz">8700</mezo>
 <mezo id = "hely">Marcali</mezo>
-<mezo id = "teru">Puskás Tivadar utca 26.</mezo>
+<mezo id = "teru">PuskÃ¡s Tivadar utca 26.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "8">
@@ -182,9 +182,9 @@
 <rovat id = "13">
 <alrovat id = "5">
 <mezo id = "hattol">20101201</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Märli Noémi születési neve: Mika Noémi</mezo>
-<mezo id = "panev">Farkas Margit Dóra</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">MÃ¤rli NoÃ©mi szÃ¼letÃ©si neve: Mika NoÃ©mi</mezo>
+<mezo id = "panev">Farkas Margit DÃ³ra</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20040616</mezo>
 <mezo id = "valtk">20101201</mezo>
@@ -195,10 +195,10 @@
 <rovat id = "14">
 <alrovat id = "1">
 <mezo id = "hattol">20070801</mezo>
-<mezo id = "pnev">Leuko Kornél</mezo>
+<mezo id = "pnev">Leuko KornÃ©l</mezo>
 <mezo id = "panev">Somogyi Gabriella</mezo>
 <mezo id = "pirsz">7400</mezo>
-<mezo id = "phely">Kaposvár, Bartók Béla u. 51.</mezo>
+<mezo id = "phely">KaposvÃ¡r, BartÃ³k BÃ©la u. 51.</mezo>
 <mezo id = "jogvk">20070531</mezo>
 <mezo id = "jogvv">20120531</mezo>
 <mezo id = "valtk">20070531</mezo>
@@ -223,7 +223,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20071130</mezo>
 <mezo id = "jccjsz">1409307927</mezo>
-<mezo id = "nev">NOA-ÉP Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">NOA-Ã‰P SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "atdat">0</mezo>
 <mezo id = "valtk">20071130</mezo>
 <mezo id = "valtv">0</mezo>
@@ -233,7 +233,7 @@
 <alrovat id = "2">
 <mezo id = "hattol">20081001</mezo>
 <mezo id = "jccjsz">1409308723</mezo>
-<mezo id = "nev">NOA Építõ Magyarország Építõipari és Beruházási Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">NOA Ã‰pÃ­tÅ‘ MagyarorszÃ¡g Ã‰pÃ­tÅ‘ipari Ã©s BeruhÃ¡zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "atdat">0</mezo>
 <mezo id = "valtk">20081001</mezo>
 <mezo id = "valtv">0</mezo>
@@ -244,8 +244,8 @@
 <rovat id = "0109">
 <alrovat id = "3">
 <mezo id = "hattol">20071130</mezo>
-<mezo id = "pnev">Marli Noémi sz.: Mika Noémi</mezo>
-<mezo id = "panev">Farkas Margit Dóra</mezo>
+<mezo id = "pnev">Marli NoÃ©mi sz.: Mika NoÃ©mi</mezo>
+<mezo id = "panev">Farkas Margit DÃ³ra</mezo>
 <mezo id = "pirsz">8700</mezo>
 <mezo id = "phely">Marcali, Noszlopy u. 159.</mezo>
 <mezo id = "tagsk">20040616</mezo>
@@ -266,328 +266,328 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A NOA-ÉP Építõipari és Beruházási Korlátolt Felelõsségû Társaság (Cg.: [14 09 306002]; székhelye: 8700 Marcali, Puskás Tivadar u. 26.) szétválik.<ujsor/>
-A szétválás módja: kiválás.<ujsor/>
-A szétválás után létrejövõ gazdasági társaságok:<ujsor/>
-1. Fennmaradó társaság neve: NOA-ÉP Építõipari és Beruházási Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhelye: 8700 Marcali, Puskás Tivadar u. 26.<ujsor/>
-2. Kiválással létrejövõ társaság neve: NOA-ÉP Szolgáltató Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhelye: 8700 Marcali, Puskás Tivadar u. 26.<ujsor/>
-A szétválás után létrejövõ gazdasági társaság társasági szerzõdése megkötésének napja: 2007. november 30.<ujsor/>
-A NOA-ÉP Építõipari és Beruházási Korlátolt Felelõsségû Társaság záró és nyitó vagyonmérleg-tervezete:<ujsor/>
+<mezo id = "szoveg">A NOA-Ã‰P Ã‰pÃ­tÅ‘ipari Ã©s BeruhÃ¡zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [14 09 306002]; szÃ©khelye: 8700 Marcali, PuskÃ¡s Tivadar u. 26.) szÃ©tvÃ¡lik.<ujsor/>
+A szÃ©tvÃ¡lÃ¡s mÃ³dja: kivÃ¡lÃ¡s.<ujsor/>
+A szÃ©tvÃ¡lÃ¡s utÃ¡n lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡gok:<ujsor/>
+1. FennmaradÃ³ tÃ¡rsasÃ¡g neve: NOA-Ã‰P Ã‰pÃ­tÅ‘ipari Ã©s BeruhÃ¡zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 8700 Marcali, PuskÃ¡s Tivadar u. 26.<ujsor/>
+2. KivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g neve: NOA-Ã‰P SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 8700 Marcali, PuskÃ¡s Tivadar u. 26.<ujsor/>
+A szÃ©tvÃ¡lÃ¡s utÃ¡n lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g tÃ¡rsasÃ¡gi szerzÅ‘dÃ©se megkÃ¶tÃ©sÃ©nek napja: 2007. november 30.<ujsor/>
+A NOA-Ã‰P Ã‰pÃ­tÅ‘ipari Ã©s BeruhÃ¡zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g zÃ¡rÃ³ Ã©s nyitÃ³ vagyonmÃ©rleg-tervezete:<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK Záró Rendezés Nyitó<ujsor/>
-A) Befektetett eszközök 18 118 0 18 118<ujsor/>
-I. Immateriális javak 18 18<ujsor/>
-II. Tárgyi eszközök 18 100 18 100<ujsor/>
-III. Befektetett pénzügyi eszközök<ujsor/>
-B) Forgóeszközök 95 334 ­2200 93 134<ujsor/>
-I. Készletek 134 134<ujsor/>
-II. Követelések 22 544 ­1700 20 844<ujsor/>
-III. Értékpapírok<ujsor/>
-IV. Pénzeszközök 72 656 ­500 72 156<ujsor/>
-C) Aktív idõbeli elhatárolások<ujsor/>
-ÖSSZESEN: 113 452 ­2200 111 252<ujsor/>
+ESZKÃ–ZÃ–K ZÃ¡rÃ³ RendezÃ©s NyitÃ³<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 18 118 0 18 118<ujsor/>
+I. ImmateriÃ¡lis javak 18 18<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 18 100 18 100<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 95 334 Â­2200 93 134<ujsor/>
+I. KÃ©szletek 134 134<ujsor/>
+II. KÃ¶vetelÃ©sek 22 544 Â­1700 20 844<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 72 656 Â­500 72 156<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok<ujsor/>
+Ã–SSZESEN: 113 452 Â­2200 111 252<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK Záró Rendezés Nyitó<ujsor/>
-D) Saját tõke 44 534 ­500 44 034<ujsor/>
-I. Jegyzett tõke 3 000 ­500 2 500<ujsor/>
-II. Jegyzett, de még be nem fizetett tõke<ujsor/>
-III. Tõketartalék<ujsor/>
-IV. Eredménytartalék 29 779 29 779<ujsor/>
-V. Lekötött tartalék<ujsor/>
-VI. Értékelési tartalék<ujsor/>
-VII. Mérleg szerinti eredmény 11 755 11 755<ujsor/>
-E) Céltartalékok<ujsor/>
-F) Kötelezettségek 68 918 ­1700 67 218<ujsor/>
-I. Hátra sorolt kötelezettségek<ujsor/>
-II. Hosszú lejáratú kötelezettségek<ujsor/>
-III. Rövid lejáratú kötelezettségek 68 918 ­1700 67 218<ujsor/>
-G) Passzív idõbeli elhatárolások<ujsor/>
-ÖSSZESEN: 113 452 ­2200 111 252<ujsor/>
-A NOA-ÉP Szolgáltató Korlátolt Felelõsségû Társaság nyitó vagyonmérleg-tervezete:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-A) Befektetett eszközök 0 D) Saját tõke 500<ujsor/>
-I. Immateriális javak I. Jegyzett tõke 500<ujsor/>
-II. Tárgyi eszközök II. Jegyzett, de még be nem fizetett tõke<ujsor/>
-III. Befektetett pénzügyi eszközök III. Tõketartalék<ujsor/>
-B) Forgóeszközök 2200 IV. Eredménytartalék<ujsor/>
-I. Készletek V. Lekötött tartalék<ujsor/>
-II. Követelések 1700 VI. Értékelési tartalék<ujsor/>
-III. Értékpapírok VII. Mérleg szerinti eredmény<ujsor/>
-IV. Pénzeszközök 500 E) Céltartalékok<ujsor/>
-C) Aktív idõbeli elhatárolások F) Kötelezettségek 1700<ujsor/>
-I. Hátra sorolt kötelezettségek<ujsor/>
-II. Hosszú lejáratú kötelezettségek III. Rövid lejáratú kötelezettségek<ujsor/>
-G) Passzív idõbeli elhatárolások<ujsor/>
-ÖSSZESEN: 2200 ÖSSZESEN: 2200<ujsor/>
-A kiválással létrejövõ gazdasági társaság fõ tevékenysége (TEÁOR ’03): 4521 Épület, híd, alagút, közmû, vezeték építése.<ujsor/>
-A kiválással létrejövõ gazdasági társaság ügyvezetõi: Märli Noémi (8700 Marcali, Noszlopy u. 159.), valamint Märli Anton (8700 Marcali, Noszlopy u. 159.).<ujsor/>
-A fennmaradó társaság fõ tevékenysége (TEÁOR ’03): 4521 Épület, híd, alagút, közmû, vezeték építése.<ujsor/>
-A fennmaradó társaság ügyvezetõje: Märli Noémi (8700 Marcali, Noszlopy u. 159.), valamint Märli Anton (8700 Marcali, Noszlopy u. 159.).<ujsor/>
-A NOA-ÉP Építõipari és Beruházási Korlátolt Felelõsségû Társaság vagyona úgy oszlik meg, hogy a NOA-ÉP Építõipari és Beruházási Korlátolt Felelõsségû Társaság törzstõkéje 2 500 000 Ft lesz, melybõl 2 000 000 Ft pénzbeli hozzájárulás Märli Noémi törzsbetétje, és 500 000 Ft pénzbeli hozzájárulás Märli Anton törzsbetétje és a NOA-ÉP Szolgáltató Korlátolt Felelõsségû Társaság törzstõkéje 500 000 Ft lesz, melybõl 400 000 Ft pénzbeli hozzájárulás Märli Noémi törzsbetétje, és 100 000 Ft pénzbeli hozzájárulás Märli Anton törzsbetétje.<ujsor/>
-A vagyonmegosztásnak megfelelõen a NOA-ÉP Szolgáltató Korlátolt Felelõsségû Társaság lesz a jogutódja a Hétszínvirág Egységes Gyógypedagógiai és Módszertani Intézmény átalakítása és bõvítése vállalkozói jogviszonnyal kapcsolatos jogosítványoknak, kötelezettségeknek, valamint a folyamatban levõ valamennyi peres és nem peres ügyeknek és hatósági eljárásoknak. Minden egyéb jogviszonynak a NOA-ÉP Építõipari és Beruházási Korlátolt Felelõsségû Társaság lesz a jogutódja.<ujsor/>
-A vagyon megosztásának százalékos aránya: a NOA-ÉP Építõipari és Beruházási Korlátolt Felelõsségû Társaság 83%-ban, a NOA-ÉP Szolgáltató Korlátolt Felelõsségû Társaság 17%-ban lesz jogutódja a szétváló gazdasági társaságnak.<ujsor/>
-Märli Noémi ügyvezetõ felhívja a gazdasági társaság ismert és ismeretlen hitelezõit, hogy azok a hitelezõk, akiknek a NOA-ÉP Építõipari és Beruházási Korlátolt Felelõsségû Társasággal szemben fennálló, le nem járt követelései a szétválással hozott döntés elsõ közzétételét megelõzõen keletkeztek, követeléseik erejéig a szétváló gazdasági társaságtól a döntés második közzétételét követõ harmincnapos jogvesztõ határidõn belül biztosítékot követelhetnek.<ujsor/>
-Märli Noémi ügyvezetõ felhívja a gazdasági társaság ismert és ismeretlen hitelezõit, hogy a hirdetményi határidõ alatt a 06 (85) 510-230-as telefonszámon kaphatnak tájékoztatást a követelésüket érintõ vagyonmegosztási rendelkezésekrõl.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+FORRÃSOK ZÃ¡rÃ³ RendezÃ©s NyitÃ³<ujsor/>
+D) SajÃ¡t tÅ‘ke 44 534 Â­500 44 034<ujsor/>
+I. Jegyzett tÅ‘ke 3 000 Â­500 2 500<ujsor/>
+II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke<ujsor/>
+III. TÅ‘ketartalÃ©k<ujsor/>
+IV. EredmÃ©nytartalÃ©k 29 779 29 779<ujsor/>
+V. LekÃ¶tÃ¶tt tartalÃ©k<ujsor/>
+VI. Ã‰rtÃ©kelÃ©si tartalÃ©k<ujsor/>
+VII. MÃ©rleg szerinti eredmÃ©ny 11 755 11 755<ujsor/>
+E) CÃ©ltartalÃ©kok<ujsor/>
+F) KÃ¶telezettsÃ©gek 68 918 Â­1700 67 218<ujsor/>
+I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek<ujsor/>
+II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 68 918 Â­1700 67 218<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok<ujsor/>
+Ã–SSZESEN: 113 452 Â­2200 111 252<ujsor/>
+A NOA-Ã‰P SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g nyitÃ³ vagyonmÃ©rleg-tervezete:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 0 D) SajÃ¡t tÅ‘ke 500<ujsor/>
+I. ImmateriÃ¡lis javak I. Jegyzett tÅ‘ke 500<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k III. TÅ‘ketartalÃ©k<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 2200 IV. EredmÃ©nytartalÃ©k<ujsor/>
+I. KÃ©szletek V. LekÃ¶tÃ¶tt tartalÃ©k<ujsor/>
+II. KÃ¶vetelÃ©sek 1700 VI. Ã‰rtÃ©kelÃ©si tartalÃ©k<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok VII. MÃ©rleg szerinti eredmÃ©ny<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 500 E) CÃ©ltartalÃ©kok<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok F) KÃ¶telezettsÃ©gek 1700<ujsor/>
+I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek<ujsor/>
+II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok<ujsor/>
+Ã–SSZESEN: 2200 Ã–SSZESEN: 2200<ujsor/>
+A kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™03): 4521 Ã‰pÃ¼let, hÃ­d, alagÃºt, kÃ¶zmÅ±, vezetÃ©k Ã©pÃ­tÃ©se.<ujsor/>
+A kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g Ã¼gyvezetÅ‘i: MÃ¤rli NoÃ©mi (8700 Marcali, Noszlopy u. 159.), valamint MÃ¤rli Anton (8700 Marcali, Noszlopy u. 159.).<ujsor/>
+A fennmaradÃ³ tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™03): 4521 Ã‰pÃ¼let, hÃ­d, alagÃºt, kÃ¶zmÅ±, vezetÃ©k Ã©pÃ­tÃ©se.<ujsor/>
+A fennmaradÃ³ tÃ¡rsasÃ¡g Ã¼gyvezetÅ‘je: MÃ¤rli NoÃ©mi (8700 Marcali, Noszlopy u. 159.), valamint MÃ¤rli Anton (8700 Marcali, Noszlopy u. 159.).<ujsor/>
+A NOA-Ã‰P Ã‰pÃ­tÅ‘ipari Ã©s BeruhÃ¡zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g vagyona Ãºgy oszlik meg, hogy a NOA-Ã‰P Ã‰pÃ­tÅ‘ipari Ã©s BeruhÃ¡zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©je 2 500 000 Ft lesz, melybÅ‘l 2 000 000 Ft pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s MÃ¤rli NoÃ©mi tÃ¶rzsbetÃ©tje, Ã©s 500 000 Ft pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s MÃ¤rli Anton tÃ¶rzsbetÃ©tje Ã©s a NOA-Ã‰P SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©je 500 000 Ft lesz, melybÅ‘l 400 000 Ft pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s MÃ¤rli NoÃ©mi tÃ¶rzsbetÃ©tje, Ã©s 100 000 Ft pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s MÃ¤rli Anton tÃ¶rzsbetÃ©tje.<ujsor/>
+A vagyonmegosztÃ¡snak megfelelÅ‘en a NOA-Ã‰P SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g lesz a jogutÃ³dja a HÃ©tszÃ­nvirÃ¡g EgysÃ©ges GyÃ³gypedagÃ³giai Ã©s MÃ³dszertani IntÃ©zmÃ©ny Ã¡talakÃ­tÃ¡sa Ã©s bÅ‘vÃ­tÃ©se vÃ¡llalkozÃ³i jogviszonnyal kapcsolatos jogosÃ­tvÃ¡nyoknak, kÃ¶telezettsÃ©geknek, valamint a folyamatban levÅ‘ valamennyi peres Ã©s nem peres Ã¼gyeknek Ã©s hatÃ³sÃ¡gi eljÃ¡rÃ¡soknak. Minden egyÃ©b jogviszonynak a NOA-Ã‰P Ã‰pÃ­tÅ‘ipari Ã©s BeruhÃ¡zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g lesz a jogutÃ³dja.<ujsor/>
+A vagyon megosztÃ¡sÃ¡nak szÃ¡zalÃ©kos arÃ¡nya: a NOA-Ã‰P Ã‰pÃ­tÅ‘ipari Ã©s BeruhÃ¡zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g 83%-ban, a NOA-Ã‰P SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g 17%-ban lesz jogutÃ³dja a szÃ©tvÃ¡lÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gnak.<ujsor/>
+MÃ¤rli NoÃ©mi Ã¼gyvezetÅ‘ felhÃ­vja a gazdasÃ¡gi tÃ¡rsasÃ¡g ismert Ã©s ismeretlen hitelezÅ‘it, hogy azok a hitelezÅ‘k, akiknek a NOA-Ã‰P Ã‰pÃ­tÅ‘ipari Ã©s BeruhÃ¡zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei a szÃ©tvÃ¡lÃ¡ssal hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig a szÃ©tvÃ¡lÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gtÃ³l a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+MÃ¤rli NoÃ©mi Ã¼gyvezetÅ‘ felhÃ­vja a gazdasÃ¡gi tÃ¡rsasÃ¡g ismert Ã©s ismeretlen hitelezÅ‘it, hogy a hirdetmÃ©nyi hatÃ¡ridÅ‘ alatt a 06 (85) 510-230-as telefonszÃ¡mon kaphatnak tÃ¡jÃ©koztatÃ¡st a kÃ¶vetelÃ©sÃ¼ket Ã©rintÅ‘ vagyonmegosztÃ¡si rendelkezÃ©sekrÅ‘l.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">1409306002</mezo>
-<mezo id = "nev">NOA-ÉP Építõipari és Beruházási Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">NOA-Ã‰P Ã‰pÃ­tÅ‘ipari Ã©s BeruhÃ¡zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">8700 Marcali</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A NOA-ÉP Építõipari és Beruházási Korlátolt Felelõsségû Társaság (Cg.: [14 09 306002]; székhelye: 8700 Marcali, Puskás Tivadar u. 26.) szétválik.<ujsor/>
-A szétválás módja: kiválás.<ujsor/>
-A szétválás után létrejövõ gazdasági társaságok:<ujsor/>
-1. Fennmaradó társaság neve: NOA-ÉP Építõipari és Beruházási Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhelye: 8700 Marcali, Puskás Tivadar u. 26.<ujsor/>
-2. Kiválással létrejövõ társaság neve: NOA-ÉP Szolgáltató Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhelye: 8700 Marcali, Puskás Tivadar u. 26.<ujsor/>
-A szétválás után létrejövõ gazdasági társaság társasági szerzõdése megkötésének napja: 2007. november 30.<ujsor/>
-A NOA-ÉP Építõipari és Beruházási Korlátolt Felelõsségû Társaság záró és nyitó vagyonmérleg-tervezete:<ujsor/>
+<mezo id = "szoveg">A NOA-Ã‰P Ã‰pÃ­tÅ‘ipari Ã©s BeruhÃ¡zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [14 09 306002]; szÃ©khelye: 8700 Marcali, PuskÃ¡s Tivadar u. 26.) szÃ©tvÃ¡lik.<ujsor/>
+A szÃ©tvÃ¡lÃ¡s mÃ³dja: kivÃ¡lÃ¡s.<ujsor/>
+A szÃ©tvÃ¡lÃ¡s utÃ¡n lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡gok:<ujsor/>
+1. FennmaradÃ³ tÃ¡rsasÃ¡g neve: NOA-Ã‰P Ã‰pÃ­tÅ‘ipari Ã©s BeruhÃ¡zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 8700 Marcali, PuskÃ¡s Tivadar u. 26.<ujsor/>
+2. KivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g neve: NOA-Ã‰P SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 8700 Marcali, PuskÃ¡s Tivadar u. 26.<ujsor/>
+A szÃ©tvÃ¡lÃ¡s utÃ¡n lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g tÃ¡rsasÃ¡gi szerzÅ‘dÃ©se megkÃ¶tÃ©sÃ©nek napja: 2007. november 30.<ujsor/>
+A NOA-Ã‰P Ã‰pÃ­tÅ‘ipari Ã©s BeruhÃ¡zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g zÃ¡rÃ³ Ã©s nyitÃ³ vagyonmÃ©rleg-tervezete:<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK Záró Rendezés Nyitó<ujsor/>
-A) Befektetett eszközök 18 118 0 18 118<ujsor/>
-I. Immateriális javak 18 18<ujsor/>
-II. Tárgyi eszközök 18 100 18 100<ujsor/>
-III. Befektetett pénzügyi eszközök<ujsor/>
-B) Forgóeszközök 95 334 ­2200 93 134<ujsor/>
-I. Készletek 134 134<ujsor/>
-II. Követelések 22 544 ­1700 20 844<ujsor/>
-III. Értékpapírok<ujsor/>
-IV. Pénzeszközök 72 656 ­500 72 156<ujsor/>
-C) Aktív idõbeli elhatárolások<ujsor/>
-ÖSSZESEN: 113 452 ­2200 111 252<ujsor/>
+ESZKÃ–ZÃ–K ZÃ¡rÃ³ RendezÃ©s NyitÃ³<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 18 118 0 18 118<ujsor/>
+I. ImmateriÃ¡lis javak 18 18<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 18 100 18 100<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 95 334 Â­2200 93 134<ujsor/>
+I. KÃ©szletek 134 134<ujsor/>
+II. KÃ¶vetelÃ©sek 22 544 Â­1700 20 844<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 72 656 Â­500 72 156<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok<ujsor/>
+Ã–SSZESEN: 113 452 Â­2200 111 252<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK Záró Rendezés Nyitó<ujsor/>
-D) Saját tõke 44 534 ­500 44 034<ujsor/>
-I. Jegyzett tõke 3 000 ­500 2 500<ujsor/>
-II. Jegyzett, de még be nem fizetett tõke<ujsor/>
-III. Tõketartalék<ujsor/>
-IV. Eredménytartalék 29 779 29 779<ujsor/>
-V. Lekötött tartalék<ujsor/>
-VI. Értékelési tartalék<ujsor/>
-VII. Mérleg szerinti eredmény 11 755 11 755<ujsor/>
-E) Céltartalékok<ujsor/>
-F) Kötelezettségek 68 918 ­1700 67 218<ujsor/>
-I. Hátra sorolt kötelezettségek<ujsor/>
-II. Hosszú lejáratú kötelezettségek<ujsor/>
-III. Rövid lejáratú kötelezettségek 68 918 ­1700 67 218<ujsor/>
-G) Passzív idõbeli elhatárolások<ujsor/>
-ÖSSZESEN: 113 452 ­2200 111 252<ujsor/>
-A NOA-ÉP Szolgáltató Korlátolt Felelõsségû Társaság nyitó vagyonmérleg-tervezete:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-A) Befektetett eszközök 0 D) Saját tõke 500<ujsor/>
-I. Immateriális javak I. Jegyzett tõke 500<ujsor/>
-II. Tárgyi eszközök II. Jegyzett, de még be nem fizetett tõke<ujsor/>
-III. Befektetett pénzügyi eszközök III. Tõketartalék<ujsor/>
-B) Forgóeszközök 2200 IV. Eredménytartalék<ujsor/>
-I. Készletek V. Lekötött tartalék<ujsor/>
-II. Követelések 1700 VI. Értékelési tartalék<ujsor/>
-III. Értékpapírok VII. Mérleg szerinti eredmény<ujsor/>
-IV. Pénzeszközök 500 E) Céltartalékok<ujsor/>
-C) Aktív idõbeli elhatárolások F) Kötelezettségek 1700<ujsor/>
-I. Hátra sorolt kötelezettségek<ujsor/>
-II. Hosszú lejáratú kötelezettségek<ujsor/>
-III. Rövid lejáratú kötelezettségek<ujsor/>
-G) Passzív idõbeli elhatárolások<ujsor/>
-ÖSSZESEN: 2200 ÖSSZESEN: 2200<ujsor/>
-A kiválással létrejövõ gazdasági társaság fõ tevékenysége (TEÁOR ’03): 4521 Épület, híd, alagút, közmû, vezeték építése.<ujsor/>
-A kiválással létrejövõ gazdasági társaság ügyvezetõi: Märli Noémi (8700 Marcali, Noszlopy u. 159.), valamint Märli Anton (8700 Marcali, Noszlopy u. 159.).<ujsor/>
-A fennmaradó társaság fõ tevékenysége (TEÁOR ’03): 4521 Épület, híd, alagút, közmû, vezeték építése.<ujsor/>
-A fennmaradó társaság ügyvezetõje: Märli Noémi (8700 Marcali, Noszlopy u. 159.), valamint Märli Anton (8700 Marcali, Noszlopy u. 159.).<ujsor/>
-A NOA-ÉP Építõipari és Beruházási Korlátolt Felelõsségû Társaság vagyona úgy oszlik meg, hogy a NOA-ÉP Építõipari és Beruházási Korlátolt Felelõsségû Társaság törzstõkéje 2 500 000 Ft lesz, melybõl 2 000 000 Ft pénzbeli hozzájárulás Märli Noémi törzsbetétje, és 500 000 Ft pénzbeli hozzájárulás Märli Anton törzsbetétje és a NOA-ÉP Szolgáltató Korlátolt Felelõsségû Társaság törzstõkéje 500 000 Ft lesz, melybõl 400 000 Ft pénzbeli hozzájárulás Märli Noémi törzsbetétje, és 100 000 Ft pénzbeli hozzájárulás Märli Anton törzsbetétje.<ujsor/>
-A vagyonmegosztásnak megfelelõen a NOA-ÉP Szolgáltató Korlátolt Felelõsségû Társaság lesz a jogutódja a Hétszínvirág Egységes Gyógypedagógiai és Módszertani Intézmény átalakítása és bõvítése vállalkozói jogviszonnyal kapcsolatos jogosítványoknak, kötelezettségeknek, valamint a folyamatban levõ valamennyi peres és nem peres ügyeknek és hatósági eljárásoknak. Minden egyéb jogviszonynak a NOA-ÉP Építõipari és Beruházási Korlátolt Felelõsségû Társaság lesz a jogutódja.<ujsor/>
-A vagyon megosztásának százalékos aránya: a NOA-ÉP Építõipari és Beruházási Korlátolt Felelõsségû Társaság 83%-ban, a NOA-ÉP Szolgáltató Korlátolt Felelõsségû Társaság 17%-ban lesz jogutódja a szétváló gazdasági társaságnak.<ujsor/>
-Märli Noémi ügyvezetõ felhívja a gazdasági társaság ismert és ismeretlen hitelezõit, hogy azok a hitelezõk, akiknek a NOA-ÉP Építõipari és Beruházási Korlátolt Felelõsségû Társasággal szemben fennálló, le nem járt követelései a szétválással hozott döntés elsõ közzétételét megelõzõen keletkeztek, követeléseik erejéig a szétváló gazdasági társaságtól a döntés második közzétételét követõ harmincnapos jogvesztõ határidõn belül biztosítékot követelhetnek.<ujsor/>
-Märli Noémi ügyvezetõ felhívja a gazdasági társaság ismert és ismeretlen hitelezõit, hogy a hirdetményi határidõ alatt a 06 (85) 510-230-as telefonszámon kaphatnak tájékoztatást a követelésüket érintõ vagyonmegosztási rendelkezésekrõl.<ujsor/>
-(Második közzététel.)<ujsor/>
+FORRÃSOK ZÃ¡rÃ³ RendezÃ©s NyitÃ³<ujsor/>
+D) SajÃ¡t tÅ‘ke 44 534 Â­500 44 034<ujsor/>
+I. Jegyzett tÅ‘ke 3 000 Â­500 2 500<ujsor/>
+II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke<ujsor/>
+III. TÅ‘ketartalÃ©k<ujsor/>
+IV. EredmÃ©nytartalÃ©k 29 779 29 779<ujsor/>
+V. LekÃ¶tÃ¶tt tartalÃ©k<ujsor/>
+VI. Ã‰rtÃ©kelÃ©si tartalÃ©k<ujsor/>
+VII. MÃ©rleg szerinti eredmÃ©ny 11 755 11 755<ujsor/>
+E) CÃ©ltartalÃ©kok<ujsor/>
+F) KÃ¶telezettsÃ©gek 68 918 Â­1700 67 218<ujsor/>
+I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek<ujsor/>
+II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 68 918 Â­1700 67 218<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok<ujsor/>
+Ã–SSZESEN: 113 452 Â­2200 111 252<ujsor/>
+A NOA-Ã‰P SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g nyitÃ³ vagyonmÃ©rleg-tervezete:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 0 D) SajÃ¡t tÅ‘ke 500<ujsor/>
+I. ImmateriÃ¡lis javak I. Jegyzett tÅ‘ke 500<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k III. TÅ‘ketartalÃ©k<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 2200 IV. EredmÃ©nytartalÃ©k<ujsor/>
+I. KÃ©szletek V. LekÃ¶tÃ¶tt tartalÃ©k<ujsor/>
+II. KÃ¶vetelÃ©sek 1700 VI. Ã‰rtÃ©kelÃ©si tartalÃ©k<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok VII. MÃ©rleg szerinti eredmÃ©ny<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 500 E) CÃ©ltartalÃ©kok<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok F) KÃ¶telezettsÃ©gek 1700<ujsor/>
+I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek<ujsor/>
+II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok<ujsor/>
+Ã–SSZESEN: 2200 Ã–SSZESEN: 2200<ujsor/>
+A kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™03): 4521 Ã‰pÃ¼let, hÃ­d, alagÃºt, kÃ¶zmÅ±, vezetÃ©k Ã©pÃ­tÃ©se.<ujsor/>
+A kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g Ã¼gyvezetÅ‘i: MÃ¤rli NoÃ©mi (8700 Marcali, Noszlopy u. 159.), valamint MÃ¤rli Anton (8700 Marcali, Noszlopy u. 159.).<ujsor/>
+A fennmaradÃ³ tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™03): 4521 Ã‰pÃ¼let, hÃ­d, alagÃºt, kÃ¶zmÅ±, vezetÃ©k Ã©pÃ­tÃ©se.<ujsor/>
+A fennmaradÃ³ tÃ¡rsasÃ¡g Ã¼gyvezetÅ‘je: MÃ¤rli NoÃ©mi (8700 Marcali, Noszlopy u. 159.), valamint MÃ¤rli Anton (8700 Marcali, Noszlopy u. 159.).<ujsor/>
+A NOA-Ã‰P Ã‰pÃ­tÅ‘ipari Ã©s BeruhÃ¡zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g vagyona Ãºgy oszlik meg, hogy a NOA-Ã‰P Ã‰pÃ­tÅ‘ipari Ã©s BeruhÃ¡zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©je 2 500 000 Ft lesz, melybÅ‘l 2 000 000 Ft pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s MÃ¤rli NoÃ©mi tÃ¶rzsbetÃ©tje, Ã©s 500 000 Ft pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s MÃ¤rli Anton tÃ¶rzsbetÃ©tje Ã©s a NOA-Ã‰P SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©je 500 000 Ft lesz, melybÅ‘l 400 000 Ft pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s MÃ¤rli NoÃ©mi tÃ¶rzsbetÃ©tje, Ã©s 100 000 Ft pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s MÃ¤rli Anton tÃ¶rzsbetÃ©tje.<ujsor/>
+A vagyonmegosztÃ¡snak megfelelÅ‘en a NOA-Ã‰P SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g lesz a jogutÃ³dja a HÃ©tszÃ­nvirÃ¡g EgysÃ©ges GyÃ³gypedagÃ³giai Ã©s MÃ³dszertani IntÃ©zmÃ©ny Ã¡talakÃ­tÃ¡sa Ã©s bÅ‘vÃ­tÃ©se vÃ¡llalkozÃ³i jogviszonnyal kapcsolatos jogosÃ­tvÃ¡nyoknak, kÃ¶telezettsÃ©geknek, valamint a folyamatban levÅ‘ valamennyi peres Ã©s nem peres Ã¼gyeknek Ã©s hatÃ³sÃ¡gi eljÃ¡rÃ¡soknak. Minden egyÃ©b jogviszonynak a NOA-Ã‰P Ã‰pÃ­tÅ‘ipari Ã©s BeruhÃ¡zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g lesz a jogutÃ³dja.<ujsor/>
+A vagyon megosztÃ¡sÃ¡nak szÃ¡zalÃ©kos arÃ¡nya: a NOA-Ã‰P Ã‰pÃ­tÅ‘ipari Ã©s BeruhÃ¡zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g 83%-ban, a NOA-Ã‰P SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g 17%-ban lesz jogutÃ³dja a szÃ©tvÃ¡lÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gnak.<ujsor/>
+MÃ¤rli NoÃ©mi Ã¼gyvezetÅ‘ felhÃ­vja a gazdasÃ¡gi tÃ¡rsasÃ¡g ismert Ã©s ismeretlen hitelezÅ‘it, hogy azok a hitelezÅ‘k, akiknek a NOA-Ã‰P Ã‰pÃ­tÅ‘ipari Ã©s BeruhÃ¡zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei a szÃ©tvÃ¡lÃ¡ssal hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig a szÃ©tvÃ¡lÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gtÃ³l a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+MÃ¤rli NoÃ©mi Ã¼gyvezetÅ‘ felhÃ­vja a gazdasÃ¡gi tÃ¡rsasÃ¡g ismert Ã©s ismeretlen hitelezÅ‘it, hogy a hirdetmÃ©nyi hatÃ¡ridÅ‘ alatt a 06 (85) 510-230-as telefonszÃ¡mon kaphatnak tÃ¡jÃ©koztatÃ¡st a kÃ¶vetelÃ©sÃ¼ket Ã©rintÅ‘ vagyonmegosztÃ¡si rendelkezÃ©sekrÅ‘l.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">1409306002</mezo>
-<mezo id = "nev">NOA-ÉP Építõipari és Beruházási Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">NOA-Ã‰P Ã‰pÃ­tÅ‘ipari Ã©s BeruhÃ¡zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">8700 Marcali</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Somogy Megyei Bíróság mint Cégbíróság által bejegyzett NOA-ÉP Építõipari és Beruházási Korlátolt Felelõsségû Társaság (Cg.: [14 09 306002]; rövidített cégnév: NOA-ÉP Kft.; székhelye: 8700 Marcali, Puskás Tivadar u. 26.; képviselõ: Märli Noémi és Märli Anton önálló képviseleti joggal rendelkezõ ügyvezetõk) taggyûlése 2008. szeptember 26-án (elsõ döntés) és 2008. október 1-jén kelt határozataival (második döntés) elhatározta, hogy a társaság szétválással átalakul, és a társaságból kiválással létrejön a NOA Építõ Magyarország Építõipari és Beruházási Korlátolt Felelõsségû Társaság (rövidített cégnév: NOA Építõ Kft.), míg a NOA-ÉP Építõipari és Beruházási Korlátolt Felelõsségû Társaság, mint fennmaradó társaság változatlan társasági formában mûködik tovább.<ujsor/>
-A szétválás módja: kiválás.<ujsor/>
-A szétváló társaságot megilletõ jogok és kötelezettségek megosztására vonatkozó megállapodás legfontosabb rendelkezései, különösen a megosztás aránya:<ujsor/>
-A 2008. augusztus 31-i fordulónappal készített vagyonmérleg-tervezet vagyonmegosztási aránya, részletezése:<ujsor/>
+<mezo id = "szoveg">A Somogy Megyei BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g Ã¡ltal bejegyzett NOA-Ã‰P Ã‰pÃ­tÅ‘ipari Ã©s BeruhÃ¡zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [14 09 306002]; rÃ¶vidÃ­tett cÃ©gnÃ©v: NOA-Ã‰P Kft.; szÃ©khelye: 8700 Marcali, PuskÃ¡s Tivadar u. 26.; kÃ©pviselÅ‘: MÃ¤rli NoÃ©mi Ã©s MÃ¤rli Anton Ã¶nÃ¡llÃ³ kÃ©pviseleti joggal rendelkezÅ‘ Ã¼gyvezetÅ‘k) taggyÅ±lÃ©se 2008. szeptember 26-Ã¡n (elsÅ‘ dÃ¶ntÃ©s) Ã©s 2008. oktÃ³ber 1-jÃ©n kelt hatÃ¡rozataival (mÃ¡sodik dÃ¶ntÃ©s) elhatÃ¡rozta, hogy a tÃ¡rsasÃ¡g szÃ©tvÃ¡lÃ¡ssal Ã¡talakul, Ã©s a tÃ¡rsasÃ¡gbÃ³l kivÃ¡lÃ¡ssal lÃ©trejÃ¶n a NOA Ã‰pÃ­tÅ‘ MagyarorszÃ¡g Ã‰pÃ­tÅ‘ipari Ã©s BeruhÃ¡zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (rÃ¶vidÃ­tett cÃ©gnÃ©v: NOA Ã‰pÃ­tÅ‘ Kft.), mÃ­g a NOA-Ã‰P Ã‰pÃ­tÅ‘ipari Ã©s BeruhÃ¡zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g, mint fennmaradÃ³ tÃ¡rsasÃ¡g vÃ¡ltozatlan tÃ¡rsasÃ¡gi formÃ¡ban mÅ±kÃ¶dik tovÃ¡bb.<ujsor/>
+A szÃ©tvÃ¡lÃ¡s mÃ³dja: kivÃ¡lÃ¡s.<ujsor/>
+A szÃ©tvÃ¡lÃ³ tÃ¡rsasÃ¡got megilletÅ‘ jogok Ã©s kÃ¶telezettsÃ©gek megosztÃ¡sÃ¡ra vonatkozÃ³ megÃ¡llapodÃ¡s legfontosabb rendelkezÃ©sei, kÃ¼lÃ¶nÃ¶sen a megosztÃ¡s arÃ¡nya:<ujsor/>
+A 2008. augusztus 31-i fordulÃ³nappal kÃ©szÃ­tett vagyonmÃ©rleg-tervezet vagyonmegosztÃ¡si arÃ¡nya, rÃ©szletezÃ©se:<ujsor/>
 Adatok E Ft-ban<ujsor/>
-NOA-ÉP Korlátolt NOA-ÉP Korlátolt NOA Építõ Korlátolt<ujsor/>
-Felelõsségû Társaság Felelõsségû Társaság Felelõsségû Társaság<ujsor/>
-átalakulás elõtt (záró) átalakulás után (nyitó) átalakulás után (nyitó)<ujsor/>
+NOA-Ã‰P KorlÃ¡tolt NOA-Ã‰P KorlÃ¡tolt NOA Ã‰pÃ­tÅ‘ KorlÃ¡tolt<ujsor/>
+FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g<ujsor/>
+Ã¡talakulÃ¡s elÅ‘tt (zÃ¡rÃ³) Ã¡talakulÃ¡s utÃ¡n (nyitÃ³) Ã¡talakulÃ¡s utÃ¡n (nyitÃ³)<ujsor/>
 65 659 15 659 50 000<ujsor/>
-(saját tõke) (saját tõke) (saját tõke)<ujsor/>
+(sajÃ¡t tÅ‘ke) (sajÃ¡t tÅ‘ke) (sajÃ¡t tÅ‘ke)<ujsor/>
 100% 23,85% 76,15%<ujsor/>
 2 500 2 500 500<ujsor/>
-(jegyzett tõke) (jegyzett tõke) (jegyzett tõke)<ujsor/>
-A kiválás során fennmaradó társaság cégneve: NOA-ÉP Építõipari és Beruházási Korlátolt Felelõsségû Társaság.<ujsor/>
-Mûködési formája: korlátolt felelõsségû társaság.<ujsor/>
-Rövidített cégnév: NOA-ÉP Kft.<ujsor/>
-Székhelye: 8700 Marcali, Puskás Tivadar u. 26.<ujsor/>
-Fõ tevékenysége (TEÁOR ’08): 4120 Lakó- és nem lakóépület építése.<ujsor/>
-Képviselõi: Märli Noémi sz. Mika Noémi ügyvezetõ (a. n.: Farkas Margit Dóra; 8700 Marcali, Noszlopy u. 159.) és Märli Anton ügyvezetõ (a. n.: Tiefau Borbála; 8700 Marcali, Noszlopy u. 159.) önálló aláírási joggal.<ujsor/>
-A NOA-ÉP Építõipari és Beruházási Korlátolt Felelõsségû Társaság módosításokkal egységes szerkezetbe foglalt társasági szerzõdése 2008. október 1-jén került aláírásra.<ujsor/>
-A létrejövõ gazdasági társaság cégneve: NOA Építõ Magyarország Építõipari és Beruházási Korlátolt Felelõsségû Társaság.<ujsor/>
-Mûködési formája: korlátolt felelõsségû társaság.<ujsor/>
-Rövidített cégneve: NOA Építõ Kft.<ujsor/>
-Székhelye: 8700 Marcali, Puskás Tivadar u. 26.<ujsor/>
-Fõ tevékenysége (TEÁOR ’08): 4120 Lakó- és nem lakóépület építése.<ujsor/>
-Képviselõi: Märli Noémi sz. Mika Noémi ügyvezetõ (a. n.: Farkas Margit Dóra; 8700 Marcali, Noszlopy u. 159.) és Märli Anton ügyvezetõ (a. n.: Tiefau Borbála; 8700 Marcali, Noszlopy u. 159.) önálló aláírási joggal.<ujsor/>
-A létrejövõ gazdasági társaság alapító okirata megkötésének napja: 2008. október 1.<ujsor/>
-A NOA-ÉP Építõipari és Beruházási Korlátolt Felelõsségû Társaság vagyonmérleg-tervezetének legfontosabb adatai (záró):<ujsor/>
-ESZKÖZÖK (aktívák) (E Ft) FORRÁSOK (passzívák) (E Ft)<ujsor/>
-Befektetett eszközök 22 180 Saját tõke 65 659<ujsor/>
-Immateriális javak 13 Jegyzett tõke 2 500<ujsor/>
-Tárgyi eszközök 22 167 Tõketartalék 0<ujsor/>
-Befektetett pénzügyi eszközök 0 Eredménytartalék 62 163<ujsor/>
-Forgóeszközök 69 471 Lekötött tartalék 0<ujsor/>
-Készletek 134 Mérleg szerinti eredmény 996<ujsor/>
-Vevõkövetelések 51 812 Céltartalékok 0<ujsor/>
-Követelések kapcsolt vállalkozásokról 0 Kötelezettségek 25 992<ujsor/>
-Egyéb követelések 0 Hosszú lejáratú kötelezettségek 0<ujsor/>
-Értékpapírok 0 Rövid lejáratú kötelezettségek 25 992<ujsor/>
-Pénzeszközök 17 525 Kötelezettségek kapcsolt<ujsor/>
-Aktív idõbeli elhatárolások 0 vállalkozásokról 0<ujsor/>
-Egyéb kötelezettségek 0<ujsor/>
-Passzív idõbeli elhatárolások 0<ujsor/>
-ÖSSZESEN: 91 651 ÖSSZESEN: 91 651<ujsor/>
-A NOA-ÉP Építõipari és Beruházási Korlátolt Felelõsségû Társaság vagyonmérleg-tervezetének legfontosabb adatai (nyitó):<ujsor/>
-ESZKÖZÖK (aktívák) (E Ft) FORRÁSOK (passzívák) (E Ft)<ujsor/>
-Befektetett eszközök 8 643 Saját tõke 15 659<ujsor/>
-Immateriális javak 13 Jegyzett tõke 2 500<ujsor/>
-Tárgyi eszközök 8 630 Tõketartalék 0<ujsor/>
-Befektetett pénzügyi eszközök 0 Eredménytartalék 12 163<ujsor/>
-Forgóeszközök 33 008 Lekötött tartalék 0<ujsor/>
-Készletek 134 Mérleg szerinti eredmény 996<ujsor/>
-Vevõkövetelések 17 799 Céltartalékok 0<ujsor/>
-Követelések kapcsolt vállalkozásokról 0 Kötelezettségek 25 992<ujsor/>
-Egyéb követelések 0 Hosszú lejáratú kötelezettségek<ujsor/>
-Értékpapírok 0 Rövid lejáratú kötelezettségek 25 992<ujsor/>
-Pénzeszközök 15 075 Kötelezettségek kapcsolt<ujsor/>
-Aktív idõbeli elhatárolások 0 vállalkozásokról 0<ujsor/>
-Egyéb kötelezettségek 0<ujsor/>
-Passzív idõbeli elhatárolások 0<ujsor/>
-ÖSSZESEN: 41 651 ÖSSZESEN: 41 651<ujsor/>
-A NOA Építõ Magyarország Építõipari és Beruházási Korlátolt Felelõsségû Társaság vagyonmérleg-tervezetének legfontosabb adatai (nyitó):<ujsor/>
-ESZKÖZÖK (aktívák) (E Ft) FORRÁSOK (passzívák) (E Ft)<ujsor/>
-Befektetett eszközök 13 537 Saját tõke 50 000<ujsor/>
-Immateriális javak 0 Jegyzett tõke 500<ujsor/>
-Tárgyi eszközök 13 537 Tõketartalék 0<ujsor/>
-Befektetett pénzügyi eszközök 0 Eredménytartalék 49 500<ujsor/>
-Forgóeszközök 36 463 Lekötött tartalék 0<ujsor/>
-Készletek 0 Mérleg szerinti eredmény 0<ujsor/>
-Vevõkövetelések 34 013 Céltartalékok 0<ujsor/>
-Követelések kapcsolt vállalkozásokról 0 Kötelezettségek 0<ujsor/>
-Egyéb követelések 0 Hosszú lejáratú kötelezettségek 0<ujsor/>
-Értékpapírok 0 Rövid lejáratú kötelezettségek 0<ujsor/>
-Pénzeszközök 2 450 Kötelezettségek kapcsolt<ujsor/>
-Aktív idõbeli elhatárolások 0 vállalkozásokról 0<ujsor/>
-Egyéb kötelezettségek 0<ujsor/>
-Passzív idõbeli elhatárolások 0<ujsor/>
-ÖSSZESEN: 50 000 ÖSSZESEN: 50 000<ujsor/>
-A Gazdasági társaságokról szóló 2006. évi IV. törvény 76. §-a, valamint a 84. § (5) bekezdés c) pontja alapján a következõ hitelezõi felhívást tesszük közzé:<ujsor/>
-Az átalakulás az átalakuló társasággal szemben fennálló követeléseket nem teszi lejárttá. Azok a hitelezõk, akiknek a társasággal szemben fennálló, le nem járt követelései az átalakulással hozott döntés elsõ közzétételét megelõzõen keletkeztek, követeléseik erejéig az átalakuló társaságtól a döntés második közzétételét követõ harmincnapos jogvesztõ határidõn belül biztosítékot követelhetnek.<ujsor/>
-A hitelezõk a hirdetményi határidõ alatt a követelésüket érintõ vagyonmegosztási rendelkezésekrõl a társaság következõ elérhetõségein kaphatnak tájékoztatást hétfõtõl péntekig 9 és 16 óra között: Székhely: 8700 Marcali, Puskás Tivadar u. 26. Telefon: 06 (85) 510-230. Fax: 06 (85) 510-018.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+(jegyzett tÅ‘ke) (jegyzett tÅ‘ke) (jegyzett tÅ‘ke)<ujsor/>
+A kivÃ¡lÃ¡s sorÃ¡n fennmaradÃ³ tÃ¡rsasÃ¡g cÃ©gneve: NOA-Ã‰P Ã‰pÃ­tÅ‘ipari Ã©s BeruhÃ¡zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+MÅ±kÃ¶dÃ©si formÃ¡ja: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+RÃ¶vidÃ­tett cÃ©gnÃ©v: NOA-Ã‰P Kft.<ujsor/>
+SzÃ©khelye: 8700 Marcali, PuskÃ¡s Tivadar u. 26.<ujsor/>
+FÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™08): 4120 LakÃ³- Ã©s nem lakÃ³Ã©pÃ¼let Ã©pÃ­tÃ©se.<ujsor/>
+KÃ©pviselÅ‘i: MÃ¤rli NoÃ©mi sz. Mika NoÃ©mi Ã¼gyvezetÅ‘ (a. n.: Farkas Margit DÃ³ra; 8700 Marcali, Noszlopy u. 159.) Ã©s MÃ¤rli Anton Ã¼gyvezetÅ‘ (a. n.: Tiefau BorbÃ¡la; 8700 Marcali, Noszlopy u. 159.) Ã¶nÃ¡llÃ³ alÃ¡Ã­rÃ¡si joggal.<ujsor/>
+A NOA-Ã‰P Ã‰pÃ­tÅ‘ipari Ã©s BeruhÃ¡zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g mÃ³dosÃ­tÃ¡sokkal egysÃ©ges szerkezetbe foglalt tÃ¡rsasÃ¡gi szerzÅ‘dÃ©se 2008. oktÃ³ber 1-jÃ©n kerÃ¼lt alÃ¡Ã­rÃ¡sra.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g cÃ©gneve: NOA Ã‰pÃ­tÅ‘ MagyarorszÃ¡g Ã‰pÃ­tÅ‘ipari Ã©s BeruhÃ¡zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+MÅ±kÃ¶dÃ©si formÃ¡ja: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+RÃ¶vidÃ­tett cÃ©gneve: NOA Ã‰pÃ­tÅ‘ Kft.<ujsor/>
+SzÃ©khelye: 8700 Marcali, PuskÃ¡s Tivadar u. 26.<ujsor/>
+FÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™08): 4120 LakÃ³- Ã©s nem lakÃ³Ã©pÃ¼let Ã©pÃ­tÃ©se.<ujsor/>
+KÃ©pviselÅ‘i: MÃ¤rli NoÃ©mi sz. Mika NoÃ©mi Ã¼gyvezetÅ‘ (a. n.: Farkas Margit DÃ³ra; 8700 Marcali, Noszlopy u. 159.) Ã©s MÃ¤rli Anton Ã¼gyvezetÅ‘ (a. n.: Tiefau BorbÃ¡la; 8700 Marcali, Noszlopy u. 159.) Ã¶nÃ¡llÃ³ alÃ¡Ã­rÃ¡si joggal.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g alapÃ­tÃ³ okirata megkÃ¶tÃ©sÃ©nek napja: 2008. oktÃ³ber 1.<ujsor/>
+A NOA-Ã‰P Ã‰pÃ­tÅ‘ipari Ã©s BeruhÃ¡zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai (zÃ¡rÃ³):<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) (E Ft) FORRÃSOK (passzÃ­vÃ¡k) (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 22 180 SajÃ¡t tÅ‘ke 65 659<ujsor/>
+ImmateriÃ¡lis javak 13 Jegyzett tÅ‘ke 2 500<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 22 167 TÅ‘ketartalÃ©k 0<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 EredmÃ©nytartalÃ©k 62 163<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 69 471 LekÃ¶tÃ¶tt tartalÃ©k 0<ujsor/>
+KÃ©szletek 134 MÃ©rleg szerinti eredmÃ©ny 996<ujsor/>
+VevÅ‘kÃ¶vetelÃ©sek 51 812 CÃ©ltartalÃ©kok 0<ujsor/>
+KÃ¶vetelÃ©sek kapcsolt vÃ¡llalkozÃ¡sokrÃ³l 0 KÃ¶telezettsÃ©gek 25 992<ujsor/>
+EgyÃ©b kÃ¶vetelÃ©sek 0 HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 0 RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 25 992<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 17 525 KÃ¶telezettsÃ©gek kapcsolt<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 0 vÃ¡llalkozÃ¡sokrÃ³l 0<ujsor/>
+EgyÃ©b kÃ¶telezettsÃ©gek 0<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 0<ujsor/>
+Ã–SSZESEN: 91 651 Ã–SSZESEN: 91 651<ujsor/>
+A NOA-Ã‰P Ã‰pÃ­tÅ‘ipari Ã©s BeruhÃ¡zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai (nyitÃ³):<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) (E Ft) FORRÃSOK (passzÃ­vÃ¡k) (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 8 643 SajÃ¡t tÅ‘ke 15 659<ujsor/>
+ImmateriÃ¡lis javak 13 Jegyzett tÅ‘ke 2 500<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 8 630 TÅ‘ketartalÃ©k 0<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 EredmÃ©nytartalÃ©k 12 163<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 33 008 LekÃ¶tÃ¶tt tartalÃ©k 0<ujsor/>
+KÃ©szletek 134 MÃ©rleg szerinti eredmÃ©ny 996<ujsor/>
+VevÅ‘kÃ¶vetelÃ©sek 17 799 CÃ©ltartalÃ©kok 0<ujsor/>
+KÃ¶vetelÃ©sek kapcsolt vÃ¡llalkozÃ¡sokrÃ³l 0 KÃ¶telezettsÃ©gek 25 992<ujsor/>
+EgyÃ©b kÃ¶vetelÃ©sek 0 HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 0 RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 25 992<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 15 075 KÃ¶telezettsÃ©gek kapcsolt<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 0 vÃ¡llalkozÃ¡sokrÃ³l 0<ujsor/>
+EgyÃ©b kÃ¶telezettsÃ©gek 0<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 0<ujsor/>
+Ã–SSZESEN: 41 651 Ã–SSZESEN: 41 651<ujsor/>
+A NOA Ã‰pÃ­tÅ‘ MagyarorszÃ¡g Ã‰pÃ­tÅ‘ipari Ã©s BeruhÃ¡zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai (nyitÃ³):<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) (E Ft) FORRÃSOK (passzÃ­vÃ¡k) (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 13 537 SajÃ¡t tÅ‘ke 50 000<ujsor/>
+ImmateriÃ¡lis javak 0 Jegyzett tÅ‘ke 500<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 13 537 TÅ‘ketartalÃ©k 0<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 EredmÃ©nytartalÃ©k 49 500<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 36 463 LekÃ¶tÃ¶tt tartalÃ©k 0<ujsor/>
+KÃ©szletek 0 MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+VevÅ‘kÃ¶vetelÃ©sek 34 013 CÃ©ltartalÃ©kok 0<ujsor/>
+KÃ¶vetelÃ©sek kapcsolt vÃ¡llalkozÃ¡sokrÃ³l 0 KÃ¶telezettsÃ©gek 0<ujsor/>
+EgyÃ©b kÃ¶vetelÃ©sek 0 HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 0 RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 2 450 KÃ¶telezettsÃ©gek kapcsolt<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 0 vÃ¡llalkozÃ¡sokrÃ³l 0<ujsor/>
+EgyÃ©b kÃ¶telezettsÃ©gek 0<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 0<ujsor/>
+Ã–SSZESEN: 50 000 Ã–SSZESEN: 50 000<ujsor/>
+A GazdasÃ¡gi tÃ¡rsasÃ¡gokrÃ³l szÃ³lÃ³ 2006. Ã©vi IV. tÃ¶rvÃ©ny 76. Â§-a, valamint a 84. Â§ (5) bekezdÃ©s c) pontja alapjÃ¡n a kÃ¶vetkezÅ‘ hitelezÅ‘i felhÃ­vÃ¡st tesszÃ¼k kÃ¶zzÃ©:<ujsor/>
+Az Ã¡talakulÃ¡s az Ã¡talakulÃ³ tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³ kÃ¶vetelÃ©seket nem teszi lejÃ¡rttÃ¡. Azok a hitelezÅ‘k, akiknek a tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei az Ã¡talakulÃ¡ssal hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig az Ã¡talakulÃ³ tÃ¡rsasÃ¡gtÃ³l a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+A hitelezÅ‘k a hirdetmÃ©nyi hatÃ¡ridÅ‘ alatt a kÃ¶vetelÃ©sÃ¼ket Ã©rintÅ‘ vagyonmegosztÃ¡si rendelkezÃ©sekrÅ‘l a tÃ¡rsasÃ¡g kÃ¶vetkezÅ‘ elÃ©rhetÅ‘sÃ©gein kaphatnak tÃ¡jÃ©koztatÃ¡st hÃ©tfÅ‘tÅ‘l pÃ©ntekig 9 Ã©s 16 Ã³ra kÃ¶zÃ¶tt: SzÃ©khely: 8700 Marcali, PuskÃ¡s Tivadar u. 26. Telefon: 06 (85) 510-230. Fax: 06 (85) 510-018.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">1409306002</mezo>
-<mezo id = "nev">NOA-ÉP Építõipari és Beruházási Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">NOA-Ã‰P Ã‰pÃ­tÅ‘ipari Ã©s BeruhÃ¡zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">8700 Marcali</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Somogy Megyei Bíróság mint Cégbíróság által bejegyzett NOA-ÉP Építõipari és Beruházási Korlátolt Felelõsségû Társaság (Cg.: [14 09 306002]; rövidített cégnév: NOA-ÉP Kft.; székhelye: 8700 Marcali, Puskás Tivadar u. 26.; képviselõ: Märli Noémi és Märli Anton önálló képviseleti joggal rendelkezõ ügyvezetõk) taggyûlése 2008. szeptember 26-án (elsõ döntés) és 2008. október 1-jén kelt határozataival (második döntés) elhatározta, hogy a társaság szétválással átalakul, és a társaságból kiválással létrejön a NOA Építõ Magyarország Építõipari és Beruházási Korlátolt Felelõsségû Társaság (rövidített cégnév: NOA Építõ Kft.), míg a NOA-ÉP Építõipari és Beruházási Korlátolt Felelõsségû Társaság, mint fennmaradó társaság változatlan társasági formában mûködik tovább.<ujsor/>
-A szétválás módja: kiválás.<ujsor/>
-A szétváló társaságot megilletõ jogok és kötelezettségek megosztására vonatkozó megállapodás legfontosabb rendelkezései, különösen a megosztás aránya:<ujsor/>
-A 2008. augusztus 31-i fordulónappal készített vagyonmérleg-tervezet vagyonmegosztási aránya, részletezése:<ujsor/>
+<mezo id = "szoveg">A Somogy Megyei BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g Ã¡ltal bejegyzett NOA-Ã‰P Ã‰pÃ­tÅ‘ipari Ã©s BeruhÃ¡zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [14 09 306002]; rÃ¶vidÃ­tett cÃ©gnÃ©v: NOA-Ã‰P Kft.; szÃ©khelye: 8700 Marcali, PuskÃ¡s Tivadar u. 26.; kÃ©pviselÅ‘: MÃ¤rli NoÃ©mi Ã©s MÃ¤rli Anton Ã¶nÃ¡llÃ³ kÃ©pviseleti joggal rendelkezÅ‘ Ã¼gyvezetÅ‘k) taggyÅ±lÃ©se 2008. szeptember 26-Ã¡n (elsÅ‘ dÃ¶ntÃ©s) Ã©s 2008. oktÃ³ber 1-jÃ©n kelt hatÃ¡rozataival (mÃ¡sodik dÃ¶ntÃ©s) elhatÃ¡rozta, hogy a tÃ¡rsasÃ¡g szÃ©tvÃ¡lÃ¡ssal Ã¡talakul, Ã©s a tÃ¡rsasÃ¡gbÃ³l kivÃ¡lÃ¡ssal lÃ©trejÃ¶n a NOA Ã‰pÃ­tÅ‘ MagyarorszÃ¡g Ã‰pÃ­tÅ‘ipari Ã©s BeruhÃ¡zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (rÃ¶vidÃ­tett cÃ©gnÃ©v: NOA Ã‰pÃ­tÅ‘ Kft.), mÃ­g a NOA-Ã‰P Ã‰pÃ­tÅ‘ipari Ã©s BeruhÃ¡zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g, mint fennmaradÃ³ tÃ¡rsasÃ¡g vÃ¡ltozatlan tÃ¡rsasÃ¡gi formÃ¡ban mÅ±kÃ¶dik tovÃ¡bb.<ujsor/>
+A szÃ©tvÃ¡lÃ¡s mÃ³dja: kivÃ¡lÃ¡s.<ujsor/>
+A szÃ©tvÃ¡lÃ³ tÃ¡rsasÃ¡got megilletÅ‘ jogok Ã©s kÃ¶telezettsÃ©gek megosztÃ¡sÃ¡ra vonatkozÃ³ megÃ¡llapodÃ¡s legfontosabb rendelkezÃ©sei, kÃ¼lÃ¶nÃ¶sen a megosztÃ¡s arÃ¡nya:<ujsor/>
+A 2008. augusztus 31-i fordulÃ³nappal kÃ©szÃ­tett vagyonmÃ©rleg-tervezet vagyonmegosztÃ¡si arÃ¡nya, rÃ©szletezÃ©se:<ujsor/>
 Adatok E Ft-ban<ujsor/>
-NOA-ÉP Korlátolt NOA-ÉP Korlátolt NOA Építõ Korlátolt<ujsor/>
-Felelõsségû Társaság Felelõsségû Társaság Felelõsségû Társaság<ujsor/>
-átalakulás elõtt (záró) átalakulás után (nyitó) átalakulás után (nyitó)<ujsor/>
+NOA-Ã‰P KorlÃ¡tolt NOA-Ã‰P KorlÃ¡tolt NOA Ã‰pÃ­tÅ‘ KorlÃ¡tolt<ujsor/>
+FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g<ujsor/>
+Ã¡talakulÃ¡s elÅ‘tt (zÃ¡rÃ³) Ã¡talakulÃ¡s utÃ¡n (nyitÃ³) Ã¡talakulÃ¡s utÃ¡n (nyitÃ³)<ujsor/>
 65 659 15 659 50 000<ujsor/>
-(saját tõke) (saját tõke) (saját tõke)<ujsor/>
+(sajÃ¡t tÅ‘ke) (sajÃ¡t tÅ‘ke) (sajÃ¡t tÅ‘ke)<ujsor/>
 100% 23,85% 76,15%<ujsor/>
 2 500 2 500 500<ujsor/>
-(jegyzett tõke) (jegyzett tõke) (jegyzett tõke)<ujsor/>
-A kiválás során fennmaradó társaság cégneve: NOA-ÉP Építõipari és Beruházási Korlátolt Felelõsségû Társaság.<ujsor/>
-Mûködési formája: korlátolt felelõsségû társaság.<ujsor/>
-Rövidített cégnév: NOA-ÉP Kft.<ujsor/>
-Székhelye: 8700 Marcali, Puskás Tivadar u. 26.<ujsor/>
-Fõ tevékenysége (TEÁOR ’08): 4120 Lakó- és nem lakóépület építése.<ujsor/>
-Képviselõi: Märli Noémi sz. Mika Noémi ügyvezetõ (a. n.: Farkas Margit Dóra; 8700 Marcali, Noszlopy u. 159.) és Märli Anton ügyvezetõ (a. n.: Tiefau Borbála; 8700 Marcali, Noszlopy u. 159.) önálló aláírási joggal.<ujsor/>
-A NOA-ÉP Építõipari és Beruházási Korlátolt Felelõsségû Társaság módosításokkal egységes szerkezetbe foglalt társasági szerzõdése 2008. október 1-jén került aláírásra.<ujsor/>
-A létrejövõ gazdasági társaság cégneve: NOA Építõ Magyarország Építõipari és Beruházási Korlátolt Felelõsségû Társaság.<ujsor/>
-Mûködési formája: korlátolt felelõsségû társaság.<ujsor/>
-Rövidített cégneve: NOA Építõ Kft.<ujsor/>
-Székhelye: 8700 Marcali, Puskás Tivadar u. 26.<ujsor/>
-Fõ tevékenysége (TEÁOR ’08): 4120 Lakó- és nem lakóépület építése.<ujsor/>
-Képviselõi: Märli Noémi sz. Mika Noémi ügyvezetõ (a. n.: Farkas Margit Dóra; 8700 Marcali, Noszlopy u. 159.) és Märli Anton ügyvezetõ (a. n.: Tiefau Borbála; 8700 Marcali, Noszlopy u. 159.) önálló aláírási joggal.<ujsor/>
-A létrejövõ gazdasági társaság alapító okirata megkötésének napja: 2008. október 1.<ujsor/>
-A NOA-ÉP Építõipari és Beruházási Korlátolt Felelõsségû Társaság vagyonmérleg-tervezetének legfontosabb adatai (záró):<ujsor/>
-ESZKÖZÖK (aktívák) (E Ft) FORRÁSOK (passzívák) (E Ft)<ujsor/>
-Befektetett eszközök 22 180 Saját tõke 65 659<ujsor/>
-Immateriális javak 13 Jegyzett tõke 2 500<ujsor/>
-Tárgyi eszközök 22 167 Tõketartalék 0<ujsor/>
-Befektetett pénzügyi eszközök 0 Eredménytartalék 62 163<ujsor/>
-Forgóeszközök 69 471 Lekötött tartalék 0<ujsor/>
-Készletek 134 Mérleg szerinti eredmény 996<ujsor/>
-Vevõkövetelések 51 812 Céltartalékok 0<ujsor/>
-Követelések kapcsolt vállalkozásokról 0 Kötelezettségek 25 992<ujsor/>
-Egyéb követelések 0 Hosszú lejáratú kötelezettségek 0<ujsor/>
-Értékpapírok 0 Rövid lejáratú kötelezettségek 25 992<ujsor/>
-Pénzeszközök 17 525 Kötelezettségek kapcsolt<ujsor/>
-Aktív idõbeli elhatárolások 0 vállalkozásokról 0<ujsor/>
-Egyéb kötelezettségek 0<ujsor/>
-Passzív idõbeli elhatárolások 0<ujsor/>
-ÖSSZESEN: 91 651 ÖSSZESEN: 91 651<ujsor/>
-A NOA-ÉP Építõipari és Beruházási Korlátolt Felelõsségû Társaság vagyonmérleg-tervezetének legfontosabb adatai (nyitó):<ujsor/>
-ESZKÖZÖK (aktívák) (E Ft) FORRÁSOK (passzívák) (E Ft)<ujsor/>
-Befektetett eszközök 8 643 Saját tõke 15 659<ujsor/>
-Immateriális javak 13 Jegyzett tõke 2 500<ujsor/>
-Tárgyi eszközök 8 630 Tõketartalék 0<ujsor/>
-Befektetett pénzügyi eszközök 0 Eredménytartalék 12 163<ujsor/>
-Forgóeszközök 33 008 Lekötött tartalék 0<ujsor/>
-Készletek 134 Mérleg szerinti eredmény 996<ujsor/>
-Vevõkövetelések 17 799 Céltartalékok 0<ujsor/>
-Követelések kapcsolt vállalkozásokról 0 Kötelezettségek 25 992<ujsor/>
-Egyéb követelések 0 Hosszú lejáratú kötelezettségek<ujsor/>
-Értékpapírok 0 Rövid lejáratú kötelezettségek 25 992<ujsor/>
-Pénzeszközök 15 075 Kötelezettségek kapcsolt<ujsor/>
-Aktív idõbeli elhatárolások 0 vállalkozásokról 0<ujsor/>
-Egyéb kötelezettségek 0<ujsor/>
-Passzív idõbeli elhatárolások 0<ujsor/>
-ÖSSZESEN: 41 651 ÖSSZESEN: 41 651<ujsor/>
-A NOA Építõ Magyarország Építõipari és Beruházási Korlátolt Felelõsségû Társaság vagyonmérleg-tervezetének legfontosabb adatai (nyitó):<ujsor/>
-ESZKÖZÖK (aktívák) (E Ft) FORRÁSOK (passzívák) (E Ft)<ujsor/>
-Befektetett eszközök 13 537 Saját tõke 50 000<ujsor/>
-Immateriális javak 0 Jegyzett tõke 500<ujsor/>
-Tárgyi eszközök 13 537 Tõketartalék 0<ujsor/>
-Befektetett pénzügyi eszközök 0 Eredménytartalék 49 500<ujsor/>
-Forgóeszközök 36 463 Lekötött tartalék 0<ujsor/>
-Készletek 0 Mérleg szerinti eredmény 0<ujsor/>
-Vevõkövetelések 34 013 Céltartalékok 0<ujsor/>
-Követelések kapcsolt vállalkozásokról 0 Kötelezettségek 0<ujsor/>
-Egyéb követelések 0 Hosszú lejáratú kötelezettségek 0<ujsor/>
-Értékpapírok 0 Rövid lejáratú kötelezettségek 0<ujsor/>
-Pénzeszközök 2 450 Kötelezettségek kapcsolt<ujsor/>
-Aktív idõbeli elhatárolások 0 vállalkozásokról 0<ujsor/>
-Egyéb kötelezettségek 0<ujsor/>
-Passzív idõbeli elhatárolások 0<ujsor/>
-ÖSSZESEN: 50 000 ÖSSZESEN: 50 000<ujsor/>
-A Gazdasági társaságokról szóló 2006. évi IV. törvény 76. §-a, valamint a 84. § (5) bekezdés c) pontja alapján a következõ hitelezõi felhívást tesszük közzé:<ujsor/>
-Az átalakulás az átalakuló társasággal szemben fennálló követeléseket nem teszi lejárttá. Azok a hitelezõk, akiknek a társasággal szemben fennálló, le nem járt követelései az átalakulással hozott döntés elsõ közzétételét megelõzõen keletkeztek, követeléseik erejéig az átalakuló társaságtól a döntés második közzétételét követõ harmincnapos jogvesztõ határidõn belül biztosítékot követelhetnek.<ujsor/>
-A hitelezõk a hirdetményi határidõ alatt a követelésüket érintõ vagyonmegosztási rendelkezésekrõl a társaság következõ elérhetõségein kaphatnak tájékoztatást hétfõtõl péntekig 9 és 16 óra között: Székhely: 8700 Marcali, Puskás Tivadar u. 26. Telefon: 06 (85) 510-230. Fax: 06 (85) 510-018.<ujsor/>
-(Második közzététel.)<ujsor/>
+(jegyzett tÅ‘ke) (jegyzett tÅ‘ke) (jegyzett tÅ‘ke)<ujsor/>
+A kivÃ¡lÃ¡s sorÃ¡n fennmaradÃ³ tÃ¡rsasÃ¡g cÃ©gneve: NOA-Ã‰P Ã‰pÃ­tÅ‘ipari Ã©s BeruhÃ¡zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+MÅ±kÃ¶dÃ©si formÃ¡ja: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+RÃ¶vidÃ­tett cÃ©gnÃ©v: NOA-Ã‰P Kft.<ujsor/>
+SzÃ©khelye: 8700 Marcali, PuskÃ¡s Tivadar u. 26.<ujsor/>
+FÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™08): 4120 LakÃ³- Ã©s nem lakÃ³Ã©pÃ¼let Ã©pÃ­tÃ©se.<ujsor/>
+KÃ©pviselÅ‘i: MÃ¤rli NoÃ©mi sz. Mika NoÃ©mi Ã¼gyvezetÅ‘ (a. n.: Farkas Margit DÃ³ra; 8700 Marcali, Noszlopy u. 159.) Ã©s MÃ¤rli Anton Ã¼gyvezetÅ‘ (a. n.: Tiefau BorbÃ¡la; 8700 Marcali, Noszlopy u. 159.) Ã¶nÃ¡llÃ³ alÃ¡Ã­rÃ¡si joggal.<ujsor/>
+A NOA-Ã‰P Ã‰pÃ­tÅ‘ipari Ã©s BeruhÃ¡zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g mÃ³dosÃ­tÃ¡sokkal egysÃ©ges szerkezetbe foglalt tÃ¡rsasÃ¡gi szerzÅ‘dÃ©se 2008. oktÃ³ber 1-jÃ©n kerÃ¼lt alÃ¡Ã­rÃ¡sra.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g cÃ©gneve: NOA Ã‰pÃ­tÅ‘ MagyarorszÃ¡g Ã‰pÃ­tÅ‘ipari Ã©s BeruhÃ¡zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+MÅ±kÃ¶dÃ©si formÃ¡ja: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+RÃ¶vidÃ­tett cÃ©gneve: NOA Ã‰pÃ­tÅ‘ Kft.<ujsor/>
+SzÃ©khelye: 8700 Marcali, PuskÃ¡s Tivadar u. 26.<ujsor/>
+FÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™08): 4120 LakÃ³- Ã©s nem lakÃ³Ã©pÃ¼let Ã©pÃ­tÃ©se.<ujsor/>
+KÃ©pviselÅ‘i: MÃ¤rli NoÃ©mi sz. Mika NoÃ©mi Ã¼gyvezetÅ‘ (a. n.: Farkas Margit DÃ³ra; 8700 Marcali, Noszlopy u. 159.) Ã©s MÃ¤rli Anton Ã¼gyvezetÅ‘ (a. n.: Tiefau BorbÃ¡la; 8700 Marcali, Noszlopy u. 159.) Ã¶nÃ¡llÃ³ alÃ¡Ã­rÃ¡si joggal.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g alapÃ­tÃ³ okirata megkÃ¶tÃ©sÃ©nek napja: 2008. oktÃ³ber 1.<ujsor/>
+A NOA-Ã‰P Ã‰pÃ­tÅ‘ipari Ã©s BeruhÃ¡zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai (zÃ¡rÃ³):<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) (E Ft) FORRÃSOK (passzÃ­vÃ¡k) (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 22 180 SajÃ¡t tÅ‘ke 65 659<ujsor/>
+ImmateriÃ¡lis javak 13 Jegyzett tÅ‘ke 2 500<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 22 167 TÅ‘ketartalÃ©k 0<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 EredmÃ©nytartalÃ©k 62 163<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 69 471 LekÃ¶tÃ¶tt tartalÃ©k 0<ujsor/>
+KÃ©szletek 134 MÃ©rleg szerinti eredmÃ©ny 996<ujsor/>
+VevÅ‘kÃ¶vetelÃ©sek 51 812 CÃ©ltartalÃ©kok 0<ujsor/>
+KÃ¶vetelÃ©sek kapcsolt vÃ¡llalkozÃ¡sokrÃ³l 0 KÃ¶telezettsÃ©gek 25 992<ujsor/>
+EgyÃ©b kÃ¶vetelÃ©sek 0 HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 0 RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 25 992<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 17 525 KÃ¶telezettsÃ©gek kapcsolt<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 0 vÃ¡llalkozÃ¡sokrÃ³l 0<ujsor/>
+EgyÃ©b kÃ¶telezettsÃ©gek 0<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 0<ujsor/>
+Ã–SSZESEN: 91 651 Ã–SSZESEN: 91 651<ujsor/>
+A NOA-Ã‰P Ã‰pÃ­tÅ‘ipari Ã©s BeruhÃ¡zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai (nyitÃ³):<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) (E Ft) FORRÃSOK (passzÃ­vÃ¡k) (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 8 643 SajÃ¡t tÅ‘ke 15 659<ujsor/>
+ImmateriÃ¡lis javak 13 Jegyzett tÅ‘ke 2 500<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 8 630 TÅ‘ketartalÃ©k 0<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 EredmÃ©nytartalÃ©k 12 163<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 33 008 LekÃ¶tÃ¶tt tartalÃ©k 0<ujsor/>
+KÃ©szletek 134 MÃ©rleg szerinti eredmÃ©ny 996<ujsor/>
+VevÅ‘kÃ¶vetelÃ©sek 17 799 CÃ©ltartalÃ©kok 0<ujsor/>
+KÃ¶vetelÃ©sek kapcsolt vÃ¡llalkozÃ¡sokrÃ³l 0 KÃ¶telezettsÃ©gek 25 992<ujsor/>
+EgyÃ©b kÃ¶vetelÃ©sek 0 HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 0 RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 25 992<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 15 075 KÃ¶telezettsÃ©gek kapcsolt<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 0 vÃ¡llalkozÃ¡sokrÃ³l 0<ujsor/>
+EgyÃ©b kÃ¶telezettsÃ©gek 0<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 0<ujsor/>
+Ã–SSZESEN: 41 651 Ã–SSZESEN: 41 651<ujsor/>
+A NOA Ã‰pÃ­tÅ‘ MagyarorszÃ¡g Ã‰pÃ­tÅ‘ipari Ã©s BeruhÃ¡zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai (nyitÃ³):<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) (E Ft) FORRÃSOK (passzÃ­vÃ¡k) (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 13 537 SajÃ¡t tÅ‘ke 50 000<ujsor/>
+ImmateriÃ¡lis javak 0 Jegyzett tÅ‘ke 500<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 13 537 TÅ‘ketartalÃ©k 0<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 EredmÃ©nytartalÃ©k 49 500<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 36 463 LekÃ¶tÃ¶tt tartalÃ©k 0<ujsor/>
+KÃ©szletek 0 MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+VevÅ‘kÃ¶vetelÃ©sek 34 013 CÃ©ltartalÃ©kok 0<ujsor/>
+KÃ¶vetelÃ©sek kapcsolt vÃ¡llalkozÃ¡sokrÃ³l 0 KÃ¶telezettsÃ©gek 0<ujsor/>
+EgyÃ©b kÃ¶vetelÃ©sek 0 HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 0 RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 2 450 KÃ¶telezettsÃ©gek kapcsolt<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 0 vÃ¡llalkozÃ¡sokrÃ³l 0<ujsor/>
+EgyÃ©b kÃ¶telezettsÃ©gek 0<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 0<ujsor/>
+Ã–SSZESEN: 50 000 Ã–SSZESEN: 50 000<ujsor/>
+A GazdasÃ¡gi tÃ¡rsasÃ¡gokrÃ³l szÃ³lÃ³ 2006. Ã©vi IV. tÃ¶rvÃ©ny 76. Â§-a, valamint a 84. Â§ (5) bekezdÃ©s c) pontja alapjÃ¡n a kÃ¶vetkezÅ‘ hitelezÅ‘i felhÃ­vÃ¡st tesszÃ¼k kÃ¶zzÃ©:<ujsor/>
+Az Ã¡talakulÃ¡s az Ã¡talakulÃ³ tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³ kÃ¶vetelÃ©seket nem teszi lejÃ¡rttÃ¡. Azok a hitelezÅ‘k, akiknek a tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei az Ã¡talakulÃ¡ssal hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig az Ã¡talakulÃ³ tÃ¡rsasÃ¡gtÃ³l a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+A hitelezÅ‘k a hirdetmÃ©nyi hatÃ¡ridÅ‘ alatt a kÃ¶vetelÃ©sÃ¼ket Ã©rintÅ‘ vagyonmegosztÃ¡si rendelkezÃ©sekrÅ‘l a tÃ¡rsasÃ¡g kÃ¶vetkezÅ‘ elÃ©rhetÅ‘sÃ©gein kaphatnak tÃ¡jÃ©koztatÃ¡st hÃ©tfÅ‘tÅ‘l pÃ©ntekig 9 Ã©s 16 Ã³ra kÃ¶zÃ¶tt: SzÃ©khely: 8700 Marcali, PuskÃ¡s Tivadar u. 26. Telefon: 06 (85) 510-230. Fax: 06 (85) 510-018.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">1409306002</mezo>
-<mezo id = "nev">NOA-ÉP Építõipari és Beruházási Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">NOA-Ã‰P Ã‰pÃ­tÅ‘ipari Ã©s BeruhÃ¡zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">8700 Marcali</mezo>
 </alrovat>
 </rovat>

@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">163737</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">1033 Budapest, Szentlélek tér 7. </mezo>
+<mezo id = "cim">1033 Budapest, SzentlÃ©lek tÃ©r 7. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">10751965241</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19911230</mezo>
-<mezo id = "nev">&quot;CELER&quot; Épületfenntartó és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">&quot;CELER&quot; Ã‰pÃ¼letfenntartÃ³ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -27,7 +27,7 @@
 <mezo id = "hattol">20011219</mezo>
 <mezo id = "irsz">1033</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Szentlélek tér 7.</mezo>
+<mezo id = "teru">SzentlÃ©lek tÃ©r 7.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "6">
@@ -572,12 +572,12 @@
 <rovat id = "13">
 <alrovat id = "7">
 <mezo id = "hattol">20110601</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Eperjesi Zoltán</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Eperjesi ZoltÃ¡n</mezo>
 <mezo id = "panev">Biacsics Gabriella</mezo>
 <mezo id = "pirsz">1039</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Királyok u. 130.</mezo>
+<mezo id = "pteru">KirÃ¡lyok u. 130.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20110601</mezo>
 <mezo id = "jogvv">20110731</mezo>
@@ -590,13 +590,13 @@
 <alrovat id = "4">
 <mezo id = "hattol">20091216</mezo>
 <mezo id = "cgjsz">1309071857</mezo>
-<mezo id = "nev">PEPI Könyvvizsgáló, Adószakértõ és Üzleti Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">PEPI KÃ¶nyvvizsgÃ¡lÃ³, AdÃ³szakÃ©rtÅ‘ Ã©s Ãœzleti TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2014</mezo>
-<mezo id = "hely">Csobánka</mezo>
-<mezo id = "teru">Panoráma u. 17.</mezo>
+<mezo id = "hely">CsobÃ¡nka</mezo>
+<mezo id = "teru">PanorÃ¡ma u. 17.</mezo>
 <mezo id = "pnev">Bartha Gyula</mezo>
-<mezo id = "panev">Matók Éva</mezo>
+<mezo id = "panev">MatÃ³k Ã‰va</mezo>
 <mezo id = "jogvk">20100101</mezo>
 <mezo id = "jogvv">20141231</mezo>
 <mezo id = "valtk">20091216</mezo>
@@ -606,8 +606,8 @@
 <rovat id = "15">
 <alrovat id = "30">
 <mezo id = "hattol">20101014</mezo>
-<mezo id = "pnev">Dóra Csaba</mezo>
-<mezo id = "panev">Varga Klára</mezo>
+<mezo id = "pnev">DÃ³ra Csaba</mezo>
+<mezo id = "panev">Varga KlÃ¡ra</mezo>
 <mezo id = "jogvk">20101014</mezo>
 <mezo id = "jogvv">20141014</mezo>
 <mezo id = "valtk">20101014</mezo>
@@ -615,8 +615,8 @@
 </alrovat>
 <alrovat id = "31">
 <mezo id = "hattol">20101014</mezo>
-<mezo id = "pnev">Demkó Imre</mezo>
-<mezo id = "panev">Mikola Zsuzsanna Terézia</mezo>
+<mezo id = "pnev">DemkÃ³ Imre</mezo>
+<mezo id = "panev">Mikola Zsuzsanna TerÃ©zia</mezo>
 <mezo id = "jogvk">20101014</mezo>
 <mezo id = "jogvv">20141014</mezo>
 <mezo id = "valtk">20101014</mezo>
@@ -624,8 +624,8 @@
 </alrovat>
 <alrovat id = "32">
 <mezo id = "hattol">20101014</mezo>
-<mezo id = "pnev">Szûcs Zsuzsanna</mezo>
-<mezo id = "panev">Tóth Erzsébet</mezo>
+<mezo id = "pnev">SzÅ±cs Zsuzsanna</mezo>
+<mezo id = "panev">TÃ³th ErzsÃ©bet</mezo>
 <mezo id = "jogvk">20101014</mezo>
 <mezo id = "jogvv">20141014</mezo>
 <mezo id = "valtk">20101014</mezo>
@@ -642,26 +642,26 @@
 <alrovat id = "4">
 <mezo id = "adosz">10751965241</mezo>
 <mezo id = "bkelt">20110801</mezo>
-<mezo id = "megj">Státusz kezdete: 1991/12/30</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 1991/12/30</mezo>
 </alrovat>
 </rovat>
 <rovat id = "22">
 <alrovat id = "1">
 <mezo id = "jccjsz">0110047113</mezo>
-<mezo id = "nev">Óbudai Vagyonkezelõ Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">Ã“budai VagyonkezelÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "atdat">20110731</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0109">
 <alrovat id = "3">
 <mezo id = "hattol">20101014</mezo>
-<mezo id = "nev">Óbuda-Békásmegyer Önkormányzat</mezo>
+<mezo id = "nev">Ã“buda-BÃ©kÃ¡smegyer Ã–nkormÃ¡nyzat</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1033</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Fõ tér 3.</mezo>
-<mezo id = "pnev">Bús Balázs polgármester</mezo>
-<mezo id = "panev">Antal Mária</mezo>
+<mezo id = "teru">FÅ‘ tÃ©r 3.</mezo>
+<mezo id = "pnev">BÃºs BalÃ¡zs polgÃ¡rmester</mezo>
+<mezo id = "panev">Antal MÃ¡ria</mezo>
 <mezo id = "valtk">20101014</mezo>
 <mezo id = "bkelt">20101216</mezo>
 </alrovat>
@@ -675,92 +675,92 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság a Cg.01-09-163737 cégjegyzékszámon bejegyzett &quot;CELER&quot; Épületfenntartó és Szolgáltató Korlátolt Felelõsségû Társaság (1033 Budapest, Szentlélek tér 7.; adószáma: 10751965-2-41) kérelme alapján elrendeli az 2010. január 26. napján hozott Cg.01-09-163737/94. számú végzésének kijavítását az alábbiak szerint:<ujsor/>
-a 13/004 rovat változás vége (törlõdátuma) helyesen: 2009.12.16.<ujsor/>
-A végzés ellen fellebbezésnek helye nincs.<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.01-09-163737 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett &quot;CELER&quot; Ã‰pÃ¼letfenntartÃ³ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (1033 Budapest, SzentlÃ©lek tÃ©r 7.; adÃ³szÃ¡ma: 10751965-2-41) kÃ©relme alapjÃ¡n elrendeli az 2010. januÃ¡r 26. napjÃ¡n hozott Cg.01-09-163737/94. szÃ¡mÃº vÃ©gzÃ©sÃ©nek kijavÃ­tÃ¡sÃ¡t az alÃ¡bbiak szerint:<ujsor/>
+a 13/004 rovat vÃ¡ltozÃ¡s vÃ©ge (tÃ¶rlÅ‘dÃ¡tuma) helyesen: 2009.12.16.<ujsor/>
+A vÃ©gzÃ©s ellen fellebbezÃ©snek helye nincs.<ujsor/>
 2010. december 9.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109163737</mezo>
-<mezo id = "nev">&apos;CELER&apos; Épületfenntartó és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1033 Budapest, Szentlélek tér 7.</mezo>
+<mezo id = "nev">&apos;CELER&apos; Ã‰pÃ¼letfenntartÃ³ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1033 Budapest, SzentlÃ©lek tÃ©r 7.</mezo>
 <mezo id = "adosz">10751965241</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A „CELER” Épületfenntartó és Szolgáltató Korlátolt Felelõsségû Társaság (Cg.: [01 09 163737]; székhelye: 1033 Budapest, Szentlélek tér 7.) elhatározta<ujsor/>
-zártkörûen mûködõ részvénytársasággá<ujsor/>
-való átalakulását.<ujsor/>
-Az átalakulással a „CELER” Épületfenntartó és Szolgáltató Korlátolt Felelõsségû Társaság jogutódja az Óbudai Vagyonkezelõ Zártkörûen Mûködõ Részvénytársaság lesz.<ujsor/>
-Az átalakulással létrejövõ társaság fõbb adatai:<ujsor/>
-Neve: Óbudai Vagyonkezelõ Zártkörûen Mûködõ Részvénytársaság.<ujsor/>
-Székhelye: 1033 Budapest, Szentlélek tér 7.<ujsor/>
-Formája: zártkörûen mûködõ részvénytársaság.<ujsor/>
-Az átalakulással létrejövõ társaság alapító okirat aláírásának napja: 2011. május 26.<ujsor/>
-Az átalakulás napja: 2011. július 31.<ujsor/>
-Az átalakuló és az átalakulással létrejövõ társaság vagyonmérleg-tervezetének fõbb adatai:<ujsor/>
+<mezo id = "szoveg">A â€CELERâ€ Ã‰pÃ¼letfenntartÃ³ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [01 09 163737]; szÃ©khelye: 1033 Budapest, SzentlÃ©lek tÃ©r 7.) elhatÃ¡rozta<ujsor/>
+zÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ rÃ©szvÃ©nytÃ¡rsasÃ¡ggÃ¡<ujsor/>
+valÃ³ Ã¡talakulÃ¡sÃ¡t.<ujsor/>
+Az Ã¡talakulÃ¡ssal a â€CELERâ€ Ã‰pÃ¼letfenntartÃ³ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g jogutÃ³dja az Ã“budai VagyonkezelÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g lesz.<ujsor/>
+Az Ã¡talakulÃ¡ssal lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g fÅ‘bb adatai:<ujsor/>
+Neve: Ã“budai VagyonkezelÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 1033 Budapest, SzentlÃ©lek tÃ©r 7.<ujsor/>
+FormÃ¡ja: zÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ rÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+Az Ã¡talakulÃ¡ssal lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g alapÃ­tÃ³ okirat alÃ¡Ã­rÃ¡sÃ¡nak napja: 2011. mÃ¡jus 26.<ujsor/>
+Az Ã¡talakulÃ¡s napja: 2011. jÃºlius 31.<ujsor/>
+Az Ã¡talakulÃ³ Ã©s az Ã¡talakulÃ¡ssal lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai:<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK Jogelõd „CELER” Jogutód Óbudai<ujsor/>
-Épületfenntartó és Szolgáltató Vagyonkezelõ Zártkörûen<ujsor/>
-Korlátolt Felelõsségû Társaság Mûködõ Részvénytársaság<ujsor/>
-Befektetett eszközök 11 878 11 878<ujsor/>
-Forgóeszközök 364 393 364 393<ujsor/>
-ÖSSZESEN: 378 701 378 701<ujsor/>
+ESZKÃ–ZÃ–K JogelÅ‘d â€CELERâ€ JogutÃ³d Ã“budai<ujsor/>
+Ã‰pÃ¼letfenntartÃ³ Ã©s SzolgÃ¡ltatÃ³ VagyonkezelÅ‘ ZÃ¡rtkÃ¶rÅ±en<ujsor/>
+KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 11 878 11 878<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 364 393 364 393<ujsor/>
+Ã–SSZESEN: 378 701 378 701<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK Jogelõd „CELER” Jogutód Óbudai<ujsor/>
-Épületfenntartó és Szolgáltató Vagyonkezelõ Zártkörûen<ujsor/>
-Korlátolt Felelõsségû Társaság Mûködõ Részvénytársaság<ujsor/>
-Saját tõke 156 016 156 016<ujsor/>
-Jegyzett tõke 3 000 100 000<ujsor/>
-ÖSSZESEN: 378 701 378 701<ujsor/>
-Az átalakulással létrejövõ társaság fõ tevékenysége: Vagyonkezelés.<ujsor/>
-Vezetõ tisztségviselõi: dr. Demeter Gellért (1037 Budapest, Toboz u. 22. II. 5.), Burghard Attila (1141 Budapest, Szugló u. 125/D), Eperjesi Zoltán (1039 Budapest, Királyok u. 130.).<ujsor/>
-A létrejövõ társaság részvényei:<ujsor/>
-A jogutód Óbudai Vagyonkezelõ Zártkörûen Mûködõ Részvénytársaság alaptõkéjét 1 (egy) darab 100 000 000 Ft (százmillió forint) névértékû, nyomdai úton elõállított, névre szóló törzsrészvény testesíti meg. A részvény kibocsátási értéke megegyezik a részvény névértékével. Atörzsrészvény az alapítót, azaz Budapest Fõváros III. Kerület Óbuda-Békásmegyer Önkormányzatot illeti meg.<ujsor/>
-A „CELER” Épületfenntartó és Szolgáltató Korlátolt Felelõsségû Társaság jelen közlemény útján felhívja azon hitelezõit, akiknek az átalakuló gazdasági társasággal szemben fennálló, le nem járt követelései jelen közlemény elsõ közzétételét megelõzõen keletkeztek, hogy követeléseik erejéig az átalakuló gazdasági társaságtól jelen közlemény második közzétételét követõ harmincnapos jogvesztõ határidõn belül biztosítékot követelhetnek.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+FORRÃSOK JogelÅ‘d â€CELERâ€ JogutÃ³d Ã“budai<ujsor/>
+Ã‰pÃ¼letfenntartÃ³ Ã©s SzolgÃ¡ltatÃ³ VagyonkezelÅ‘ ZÃ¡rtkÃ¶rÅ±en<ujsor/>
+KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g<ujsor/>
+SajÃ¡t tÅ‘ke 156 016 156 016<ujsor/>
+Jegyzett tÅ‘ke 3 000 100 000<ujsor/>
+Ã–SSZESEN: 378 701 378 701<ujsor/>
+Az Ã¡talakulÃ¡ssal lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©ge: VagyonkezelÃ©s.<ujsor/>
+VezetÅ‘ tisztsÃ©gviselÅ‘i: dr. Demeter GellÃ©rt (1037 Budapest, Toboz u. 22. II. 5.), Burghard Attila (1141 Budapest, SzuglÃ³ u. 125/D), Eperjesi ZoltÃ¡n (1039 Budapest, KirÃ¡lyok u. 130.).<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g rÃ©szvÃ©nyei:<ujsor/>
+A jogutÃ³d Ã“budai VagyonkezelÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g alaptÅ‘kÃ©jÃ©t 1 (egy) darab 100 000 000 Ft (szÃ¡zmilliÃ³ forint) nÃ©vÃ©rtÃ©kÅ±, nyomdai Ãºton elÅ‘Ã¡llÃ­tott, nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©ny testesÃ­ti meg. A rÃ©szvÃ©ny kibocsÃ¡tÃ¡si Ã©rtÃ©ke megegyezik a rÃ©szvÃ©ny nÃ©vÃ©rtÃ©kÃ©vel. AtÃ¶rzsrÃ©szvÃ©ny az alapÃ­tÃ³t, azaz Budapest FÅ‘vÃ¡ros III. KerÃ¼let Ã“buda-BÃ©kÃ¡smegyer Ã–nkormÃ¡nyzatot illeti meg.<ujsor/>
+A â€CELERâ€ Ã‰pÃ¼letfenntartÃ³ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g jelen kÃ¶zlemÃ©ny ÃºtjÃ¡n felhÃ­vja azon hitelezÅ‘it, akiknek az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei jelen kÃ¶zlemÃ©ny elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, hogy kÃ¶vetelÃ©seik erejÃ©ig az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gtÃ³l jelen kÃ¶zlemÃ©ny mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109163737</mezo>
-<mezo id = "nev">&quot;CELER&quot; Épületfenntartó és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">&quot;CELER&quot; Ã‰pÃ¼letfenntartÃ³ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1033 Budapest</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A „CELER” Épületfenntartó és Szolgáltató Korlátolt Felelõsségû Társaság (Cg.: [01 09 163737]; székhelye: 1033 Budapest, Szentlélek tér 7.) elhatározta<ujsor/>
-zártkörûen mûködõ részvénytársasággá<ujsor/>
-való átalakulását.<ujsor/>
-Az átalakulással a „CELER” Épületfenntartó és Szolgáltató Korlátolt Felelõsségû Társaság jogutódja az Óbudai Vagyonkezelõ Zártkörûen Mûködõ Részvénytársaság lesz.<ujsor/>
-Az átalakulással létrejövõ társaság fõbb adatai:<ujsor/>
-Neve: Óbudai Vagyonkezelõ Zártkörûen Mûködõ Részvénytársaság.<ujsor/>
-Székhelye: 1033 Budapest, Szentlélek tér 7.<ujsor/>
-Formája: zártkörûen mûködõ részvénytársaság.<ujsor/>
-Az átalakulással létrejövõ társaság alapító okirat aláírásának napja: 2011. május 26.<ujsor/>
-Az átalakulás napja: 2011. július 31.<ujsor/>
-Az átalakuló és az átalakulással létrejövõ társaság vagyonmérleg-tervezetének fõbb adatai:<ujsor/>
+<mezo id = "szoveg">A â€CELERâ€ Ã‰pÃ¼letfenntartÃ³ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [01 09 163737]; szÃ©khelye: 1033 Budapest, SzentlÃ©lek tÃ©r 7.) elhatÃ¡rozta<ujsor/>
+zÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ rÃ©szvÃ©nytÃ¡rsasÃ¡ggÃ¡<ujsor/>
+valÃ³ Ã¡talakulÃ¡sÃ¡t.<ujsor/>
+Az Ã¡talakulÃ¡ssal a â€CELERâ€ Ã‰pÃ¼letfenntartÃ³ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g jogutÃ³dja az Ã“budai VagyonkezelÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g lesz.<ujsor/>
+Az Ã¡talakulÃ¡ssal lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g fÅ‘bb adatai:<ujsor/>
+Neve: Ã“budai VagyonkezelÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 1033 Budapest, SzentlÃ©lek tÃ©r 7.<ujsor/>
+FormÃ¡ja: zÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ rÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+Az Ã¡talakulÃ¡ssal lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g alapÃ­tÃ³ okirat alÃ¡Ã­rÃ¡sÃ¡nak napja: 2011. mÃ¡jus 26.<ujsor/>
+Az Ã¡talakulÃ¡s napja: 2011. jÃºlius 31.<ujsor/>
+Az Ã¡talakulÃ³ Ã©s az Ã¡talakulÃ¡ssal lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai:<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK Jogelõd „CELER” Jogutód Óbudai<ujsor/>
-Épületfenntartó és Szolgáltató Vagyonkezelõ Zártkörûen<ujsor/>
-Korlátolt Felelõsségû Társaság Mûködõ Részvénytársaság<ujsor/>
-Befektetett eszközök 11 878 11 878<ujsor/>
-Forgóeszközök 364 393 364 393<ujsor/>
-ÖSSZESEN: 378 701 378 701<ujsor/>
+ESZKÃ–ZÃ–K JogelÅ‘d â€CELERâ€ JogutÃ³d Ã“budai<ujsor/>
+Ã‰pÃ¼letfenntartÃ³ Ã©s SzolgÃ¡ltatÃ³ VagyonkezelÅ‘ ZÃ¡rtkÃ¶rÅ±en<ujsor/>
+KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 11 878 11 878<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 364 393 364 393<ujsor/>
+Ã–SSZESEN: 378 701 378 701<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK Jogelõd „CELER” Jogutód Óbudai<ujsor/>
-Épületfenntartó és Szolgáltató Vagyonkezelõ Zártkörûen<ujsor/>
-Korlátolt Felelõsségû Társaság Mûködõ Részvénytársaság<ujsor/>
-Saját tõke 156 016 156 016<ujsor/>
-Jegyzett tõke 3 000 100 000<ujsor/>
-ÖSSZESEN: 378 701 378 701<ujsor/>
-Az átalakulással létrejövõ társaság fõ tevékenysége: Vagyonkezelés.<ujsor/>
-Vezetõ tisztségviselõi: dr. Demeter Gellért (1037 Budapest, Toboz u. 22. II. 5.), Burghard Attila (1141 Budapest, Szugló u. 125/D), Eperjesi Zoltán (1039 Budapest, Királyok u. 130.).<ujsor/>
-A létrejövõ társaság részvényei:<ujsor/>
-A jogutód Óbudai Vagyonkezelõ Zártkörûen Mûködõ Részvénytársaság alaptõkéjét 1 (egy) darab 100 000 000 Ft (százmillió forint) névértékû, nyomdai úton elõállított, névre szóló törzsrészvény testesíti meg. A részvény kibocsátási értéke megegyezik a részvény névértékével. A törzsrészvény az alapítót, azaz Budapest Fõváros III. Kerület Óbuda-Békásmegyer Önkormányzatot illeti meg.<ujsor/>
-A „CELER” Épületfenntartó és Szolgáltató Korlátolt Felelõsségû Társaság jelen közlemény útján felhívja azon hitelezõit, akiknek az átalakuló gazdasági társasággal szemben fennálló, le nem járt követelései jelen közlemény elsõ közzétételét megelõzõen keletkeztek, hogy követeléseik erejéig az átalakuló gazdasági társaságtól jelen közlemény második közzétételét követõ harmincnapos jogvesztõ határidõn belül biztosítékot követelhetnek.<ujsor/>
-(Második közzététel.)<ujsor/>
+FORRÃSOK JogelÅ‘d â€CELERâ€ JogutÃ³d Ã“budai<ujsor/>
+Ã‰pÃ¼letfenntartÃ³ Ã©s SzolgÃ¡ltatÃ³ VagyonkezelÅ‘ ZÃ¡rtkÃ¶rÅ±en<ujsor/>
+KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g<ujsor/>
+SajÃ¡t tÅ‘ke 156 016 156 016<ujsor/>
+Jegyzett tÅ‘ke 3 000 100 000<ujsor/>
+Ã–SSZESEN: 378 701 378 701<ujsor/>
+Az Ã¡talakulÃ¡ssal lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©ge: VagyonkezelÃ©s.<ujsor/>
+VezetÅ‘ tisztsÃ©gviselÅ‘i: dr. Demeter GellÃ©rt (1037 Budapest, Toboz u. 22. II. 5.), Burghard Attila (1141 Budapest, SzuglÃ³ u. 125/D), Eperjesi ZoltÃ¡n (1039 Budapest, KirÃ¡lyok u. 130.).<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g rÃ©szvÃ©nyei:<ujsor/>
+A jogutÃ³d Ã“budai VagyonkezelÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g alaptÅ‘kÃ©jÃ©t 1 (egy) darab 100 000 000 Ft (szÃ¡zmilliÃ³ forint) nÃ©vÃ©rtÃ©kÅ±, nyomdai Ãºton elÅ‘Ã¡llÃ­tott, nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©ny testesÃ­ti meg. A rÃ©szvÃ©ny kibocsÃ¡tÃ¡si Ã©rtÃ©ke megegyezik a rÃ©szvÃ©ny nÃ©vÃ©rtÃ©kÃ©vel. A tÃ¶rzsrÃ©szvÃ©ny az alapÃ­tÃ³t, azaz Budapest FÅ‘vÃ¡ros III. KerÃ¼let Ã“buda-BÃ©kÃ¡smegyer Ã–nkormÃ¡nyzatot illeti meg.<ujsor/>
+A â€CELERâ€ Ã‰pÃ¼letfenntartÃ³ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g jelen kÃ¶zlemÃ©ny ÃºtjÃ¡n felhÃ­vja azon hitelezÅ‘it, akiknek az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei jelen kÃ¶zlemÃ©ny elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, hogy kÃ¶vetelÃ©seik erejÃ©ig az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gtÃ³l jelen kÃ¶zlemÃ©ny mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109163737</mezo>
-<mezo id = "nev">&quot;CELER&quot; Épületfenntartó és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">&quot;CELER&quot; Ã‰pÃ¼letfenntartÃ³ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1033 Budapest</mezo>
 </alrovat>
 </rovat>

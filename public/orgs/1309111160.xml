@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">111160</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">2335 Taksony, Szent Imre út 8. </mezo>
+<mezo id = "cim">2335 Taksony, Szent Imre Ãºt 8. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">13873291213</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20070119</mezo>
-<mezo id = "nev">VIRABEL Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">VIRABEL Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -31,7 +31,7 @@
 <mezo id = "hattol">20070119</mezo>
 <mezo id = "irsz">2335</mezo>
 <mezo id = "hely">Taksony</mezo>
-<mezo id = "teru">Szent Imre út 8.</mezo>
+<mezo id = "teru">Szent Imre Ãºt 8.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
@@ -42,7 +42,7 @@
 <mezo id = "hattol">20100202</mezo>
 <mezo id = "irsz">6760</mezo>
 <mezo id = "hely">Kistelek</mezo>
-<mezo id = "teru">Rákóczi utca 17.</mezo>
+<mezo id = "teru">RÃ¡kÃ³czi utca 17.</mezo>
 <mezo id = "valtk">20100202</mezo>
 <mezo id = "bkelt">20100216</mezo>
 </alrovat>
@@ -826,25 +826,25 @@
 <mezo id = "hattol">20090811</mezo>
 <mezo id = "valtk">20090811</mezo>
 <mezo id = "bkelt">20090910</mezo>
-<mezo id = "teaszov">Hulladék újrahasznosítása</mezo>
+<mezo id = "teaszov">HulladÃ©k ÃºjrahasznosÃ­tÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "106">
 <mezo id = "hattol">20090811</mezo>
 <mezo id = "valtk">20090811</mezo>
 <mezo id = "bkelt">20090910</mezo>
-<mezo id = "teaszov">Nem veszélyes hulladék gyûjtése</mezo>
+<mezo id = "teaszov">Nem veszÃ©lyes hulladÃ©k gyÅ±jtÃ©se</mezo>
 </alrovat>
 <alrovat id = "107">
 <mezo id = "hattol">20090811</mezo>
 <mezo id = "valtk">20090811</mezo>
 <mezo id = "bkelt">20090910</mezo>
-<mezo id = "teaszov">Veszélyes hulladék gyûjtése</mezo>
+<mezo id = "teaszov">VeszÃ©lyes hulladÃ©k gyÅ±jtÃ©se</mezo>
 </alrovat>
 <alrovat id = "108">
 <mezo id = "hattol">20090811</mezo>
 <mezo id = "valtk">20090811</mezo>
 <mezo id = "bkelt">20091126</mezo>
-<mezo id = "teaszov">Saját tulajdonú ingatlan adásvétele</mezo>
+<mezo id = "teaszov">SajÃ¡t tulajdonÃº ingatlan adÃ¡svÃ©tele</mezo>
 </alrovat>
 <alrovat id = "109">
 <mezo id = "hattol">20090811</mezo>
@@ -867,9 +867,9 @@
 <rovat id = "13">
 <alrovat id = "4">
 <mezo id = "hattol">20110225</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Wágner Zoltánné</mezo>
-<mezo id = "panev">Miklós Mária</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">WÃ¡gner ZoltÃ¡nnÃ©</mezo>
+<mezo id = "panev">MiklÃ³s MÃ¡ria</mezo>
 <mezo id = "pirsz">2335</mezo>
 <mezo id = "phely">Taksony</mezo>
 <mezo id = "pteru">Solt u. 14.</mezo>
@@ -881,9 +881,9 @@
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20110225</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Wágner Zoltán</mezo>
-<mezo id = "panev">Kiss Éva</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">WÃ¡gner ZoltÃ¡n</mezo>
+<mezo id = "panev">Kiss Ã‰va</mezo>
 <mezo id = "pirsz">2335</mezo>
 <mezo id = "phely">Taksony</mezo>
 <mezo id = "pteru">Solt u. 14.</mezo>
@@ -930,8 +930,8 @@
 <rovat id = "0109">
 <alrovat id = "1">
 <mezo id = "hattol">20070119</mezo>
-<mezo id = "pnev">Wágner Zoltán</mezo>
-<mezo id = "panev">Kiss Éva</mezo>
+<mezo id = "pnev">WÃ¡gner ZoltÃ¡n</mezo>
+<mezo id = "panev">Kiss Ã‰va</mezo>
 <mezo id = "pirsz">2335</mezo>
 <mezo id = "phely">Taksony, Solt u. 14.</mezo>
 <mezo id = "tagsk">20061212</mezo>
@@ -941,8 +941,8 @@
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20070119</mezo>
-<mezo id = "pnev">Wágner Zoltánné</mezo>
-<mezo id = "panev">Miklós Mária</mezo>
+<mezo id = "pnev">WÃ¡gner ZoltÃ¡nnÃ©</mezo>
+<mezo id = "panev">MiklÃ³s MÃ¡ria</mezo>
 <mezo id = "pirsz">2335</mezo>
 <mezo id = "phely">Taksony, Solt u. 14.</mezo>
 <mezo id = "tagsk">20061212</mezo>
@@ -955,43 +955,43 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Pest Megyei Bíróság mint Cégbíróság a Cg.13-09-111160 cégjegyzékszámon bejegyzett VIRABEL Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság (2335 Taksony, Szent Imre út 8.; adószáma: 13873291-2-13) kérelme alapján elrendeli az 2009. szeptember 10. napján hozott Cg.13-09-111160 /22. számú végzésének kijavítását az alábbiak szerint:<ujsor/>
-13. A képviseletre jogosult(ak) adatai<ujsor/>
-A képviselet módja: önálló.<ujsor/>
-Wágner Zoltán vezetõ tisztségviselõ (ügyvezetõ) (an.: Kiss Éva)<ujsor/>
+<mezo id = "szoveg">A Pest Megyei BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.13-09-111160 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett VIRABEL Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (2335 Taksony, Szent Imre Ãºt 8.; adÃ³szÃ¡ma: 13873291-2-13) kÃ©relme alapjÃ¡n elrendeli az 2009. szeptember 10. napjÃ¡n hozott Cg.13-09-111160 /22. szÃ¡mÃº vÃ©gzÃ©sÃ©nek kijavÃ­tÃ¡sÃ¡t az alÃ¡bbiak szerint:<ujsor/>
+13. A kÃ©pviseletre jogosult(ak) adatai<ujsor/>
+A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+WÃ¡gner ZoltÃ¡n vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘) (an.: Kiss Ã‰va)<ujsor/>
 2335 Taksony, Solt u 14.<ujsor/>
-Jogv. kezdete: 2006.12.12. Jogv. vége: 2011.12.12.<ujsor/>
-Vált. kezdete: 2007.01.19.<ujsor/>
-Bejegyezve (végzés kelte): 2009. szeptember 15.<ujsor/>
-E végzés ellen fellebbezésnek nincs helye.<ujsor/>
+Jogv. kezdete: 2006.12.12. Jogv. vÃ©ge: 2011.12.12.<ujsor/>
+VÃ¡lt. kezdete: 2007.01.19.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2009. szeptember 15.<ujsor/>
+E vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye.<ujsor/>
 2009. szeptember 15.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1309111160</mezo>
-<mezo id = "nev">VIRABEL Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">2335 Taksony, Szent Imre út 8.</mezo>
+<mezo id = "nev">VIRABEL Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2335 Taksony, Szent Imre Ãºt 8.</mezo>
 <mezo id = "adosz">13873291213</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Pest Megyei Bíróság mint Cégbíróság a Cg.13-09-111160 cégjegyzékszámon bejegyzett VIRABEL Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság (2335 Taksony, Szent Imre út 8.; adószáma: 13873291-2-13) kérelme alapján elrendeli az 2009. szeptember 10. napján hozott Cg.13-09-111160 /22. számú végzésének kijavítását az alábbiak szerint:<ujsor/>
-9. A cég tevékenysége<ujsor/>
-Saját tulajdonú ingatlan adásvétele<ujsor/>
-Fõtevékenység<ujsor/>
-Vált. vége: 2009.08.11.<ujsor/>
-Törölve (végzés kelte): 2009. november 26.<ujsor/>
-Saját tulajdonú ingatlan adásvétele<ujsor/>
-Vált. kezdete: 2009.08.11.<ujsor/>
-Bejegyezve (végzés kelte): 2009. november 26.<ujsor/>
+<mezo id = "szoveg">A Pest Megyei BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.13-09-111160 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett VIRABEL Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (2335 Taksony, Szent Imre Ãºt 8.; adÃ³szÃ¡ma: 13873291-2-13) kÃ©relme alapjÃ¡n elrendeli az 2009. szeptember 10. napjÃ¡n hozott Cg.13-09-111160 /22. szÃ¡mÃº vÃ©gzÃ©sÃ©nek kijavÃ­tÃ¡sÃ¡t az alÃ¡bbiak szerint:<ujsor/>
+9. A cÃ©g tevÃ©kenysÃ©ge<ujsor/>
+SajÃ¡t tulajdonÃº ingatlan adÃ¡svÃ©tele<ujsor/>
+FÅ‘tevÃ©kenysÃ©g<ujsor/>
+VÃ¡lt. vÃ©ge: 2009.08.11.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2009. november 26.<ujsor/>
+SajÃ¡t tulajdonÃº ingatlan adÃ¡svÃ©tele<ujsor/>
+VÃ¡lt. kezdete: 2009.08.11.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2009. november 26.<ujsor/>
 Ital-kiskereskedelem<ujsor/>
-Vált. kezdete: 2009.08.11.<ujsor/>
-Bejegyezve (végzés kelte): 2009. november 26.<ujsor/>
-E végzés ellen fellebbezésnek nincs helye.<ujsor/>
+VÃ¡lt. kezdete: 2009.08.11.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2009. november 26.<ujsor/>
+E vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye.<ujsor/>
 2009. november 26.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1309111160</mezo>
-<mezo id = "nev">VIRABEL Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">2335 Taksony, Szent Imre út 8.</mezo>
+<mezo id = "nev">VIRABEL Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2335 Taksony, Szent Imre Ãºt 8.</mezo>
 <mezo id = "adosz">13873291213</mezo>
 </alrovat>
 </rovat>

@@ -5,7 +5,7 @@
 <mezo id = "cf">10</mezo>
 <mezo id = "szam">000135</mezo>
 <mezo id = "nevalrovat">3</mezo>
-<mezo id = "cim">3525 Miskolc, Deák tér l. </mezo>
+<mezo id = "cim">3525 Miskolc, DeÃ¡k tÃ©r l. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">11071596205</mezo>
 </alrovat>
@@ -13,13 +13,13 @@
 <rovat id = "2">
 <alrovat id = "3">
 <mezo id = "hattol">20051215</mezo>
-<mezo id = "nev">ÉSZAKERDÕ Erdõgazdasági Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">Ã‰SZAKERDÅ ErdÅ‘gazdasÃ¡gi ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "2">
 <mezo id = "hattol">20051215</mezo>
-<mezo id = "nev">ÉSZAKERDÕ Zrt</mezo>
+<mezo id = "nev">Ã‰SZAKERDÅ Zrt</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
@@ -27,56 +27,56 @@
 <mezo id = "hattol">19930630</mezo>
 <mezo id = "irsz">3525</mezo>
 <mezo id = "hely">Miskolc</mezo>
-<mezo id = "teru">Deák tér l.</mezo>
+<mezo id = "teru">DeÃ¡k tÃ©r l.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "6">
 <alrovat id = "1">
 <mezo id = "hattol">19930630</mezo>
 <mezo id = "irsz">3517</mezo>
-<mezo id = "hely">Lillafüredi Erdészeti Igazgatóság Miskolc,Erzsébet u.73.</mezo>
+<mezo id = "hely">LillafÃ¼redi ErdÃ©szeti IgazgatÃ³sÃ¡g Miskolc,ErzsÃ©bet u.73.</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">19930630</mezo>
 <mezo id = "irsz">3533</mezo>
-<mezo id = "hely">Miskolci Fûrész Igazgatóság Miskolc,Ládi-telep</mezo>
+<mezo id = "hely">Miskolci FÅ±rÃ©sz IgazgatÃ³sÃ¡g Miskolc,LÃ¡di-telep</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">19930630</mezo>
 <mezo id = "irsz">3535</mezo>
-<mezo id = "hely">Mûszaki Üzemigazgatóság Miskolc,Erdész u.24.</mezo>
+<mezo id = "hely">MÅ±szaki ÃœzemigazgatÃ³sÃ¡g Miskolc,ErdÃ©sz u.24.</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20030116</mezo>
 <mezo id = "irsz">3517</mezo>
-<mezo id = "hely">Miskolc, Erzsébet sétány 75.</mezo>
+<mezo id = "hely">Miskolc, ErzsÃ©bet sÃ©tÃ¡ny 75.</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20030116</mezo>
 <mezo id = "irsz">3535</mezo>
-<mezo id = "hely">Miskolc, Erdész u. 24.</mezo>
+<mezo id = "hely">Miskolc, ErdÃ©sz u. 24.</mezo>
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">20030116</mezo>
 <mezo id = "irsz">3533</mezo>
-<mezo id = "hely">Miskolci Fürész Üzemigazgatóság Miskolc</mezo>
-<mezo id = "teru">Ládi</mezo>
+<mezo id = "hely">Miskolci FÃ¼rÃ©sz ÃœzemigazgatÃ³sÃ¡g Miskolc</mezo>
+<mezo id = "teru">LÃ¡di</mezo>
 <mezo id = "terj">telep</mezo>
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">20030116</mezo>
 <mezo id = "irsz">3517</mezo>
-<mezo id = "hely">Lillafüredi Erdészeti Igazgat1oság</mezo>
-<mezo id = "teru">Miskolc Erzsébet</mezo>
-<mezo id = "terj">sétány</mezo>
+<mezo id = "hely">LillafÃ¼redi ErdÃ©szeti Igazgat1osÃ¡g</mezo>
+<mezo id = "teru">Miskolc ErzsÃ©bet</mezo>
+<mezo id = "terj">sÃ©tÃ¡ny</mezo>
 <mezo id = "hsz">75</mezo>
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">20030116</mezo>
 <mezo id = "irsz">3535</mezo>
-<mezo id = "hely">Lillafüredi Állami Erdei Vasút</mezo>
-<mezo id = "teru">Üzemigazgatóság Miskolc</mezo>
-<mezo id = "terj">Erdész u</mezo>
+<mezo id = "hely">LillafÃ¼redi Ãllami Erdei VasÃºt</mezo>
+<mezo id = "teru">ÃœzemigazgatÃ³sÃ¡g Miskolc</mezo>
+<mezo id = "terj">ErdÃ©sz u</mezo>
 <mezo id = "hsz">24</mezo>
 </alrovat>
 </rovat>
@@ -84,43 +84,43 @@
 <alrovat id = "2">
 <mezo id = "hattol">19930630</mezo>
 <mezo id = "irsz">3994</mezo>
-<mezo id = "hely">Hegyközi Erdészeti Igazgatóság Pálháza,Ipartelep I.</mezo>
+<mezo id = "hely">HegykÃ¶zi ErdÃ©szeti IgazgatÃ³sÃ¡g PÃ¡lhÃ¡za,Ipartelep I.</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">19930630</mezo>
 <mezo id = "irsz">3860</mezo>
-<mezo id = "hely">Hernádvölgyi Erdészeti Igazgatóság 3860 Encs,Kossuth u.26/a.</mezo>
+<mezo id = "hely">HernÃ¡dvÃ¶lgyi ErdÃ©szeti IgazgatÃ³sÃ¡g 3860 Encs,Kossuth u.26/a.</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">19930630</mezo>
 <mezo id = "irsz">3752</mezo>
-<mezo id = "hely">Bódvavölgyi Erdészeti Igazgatóság Szendrõ,Marx tér 29.</mezo>
+<mezo id = "hely">BÃ³dvavÃ¶lgyi ErdÃ©szeti IgazgatÃ³sÃ¡g SzendrÅ‘,Marx tÃ©r 29.</mezo>
 </alrovat>
 <alrovat id = "11">
 <mezo id = "hattol">19930630</mezo>
 <mezo id = "irsz">3896</mezo>
-<mezo id = "hely">Telkibányai Erdészeti Igazgatóság Telkibánya,Szabadság u.9.</mezo>
+<mezo id = "hely">TelkibÃ¡nyai ErdÃ©szeti IgazgatÃ³sÃ¡g TelkibÃ¡nya,SzabadsÃ¡g u.9.</mezo>
 </alrovat>
 <alrovat id = "19">
 <mezo id = "hattol">20030116</mezo>
 <mezo id = "irsz">3556</mezo>
-<mezo id = "hely">Délbükki Erdészeti Igazgatóság, Mocsolyástelep.</mezo>
+<mezo id = "hely">DÃ©lbÃ¼kki ErdÃ©szeti IgazgatÃ³sÃ¡g, MocsolyÃ¡stelep.</mezo>
 </alrovat>
 <alrovat id = "21">
 <mezo id = "hattol">20030116</mezo>
 <mezo id = "irsz">3671</mezo>
-<mezo id = "hely">Jósva-Tornai Erd. Szín, Szabadság u. 85.</mezo>
+<mezo id = "hely">JÃ³sva-Tornai Erd. SzÃ­n, SzabadsÃ¡g u. 85.</mezo>
 </alrovat>
 <alrovat id = "24">
 <mezo id = "hattol">20030116</mezo>
 <mezo id = "irsz">3950</mezo>
-<mezo id = "hely">Sárospataki Erdészet Sárospatak, Kazinczy u. 1.</mezo>
+<mezo id = "hely">SÃ¡rospataki ErdÃ©szet SÃ¡rospatak, Kazinczy u. 1.</mezo>
 </alrovat>
 <alrovat id = "28">
 <mezo id = "hattol">20030116</mezo>
 <mezo id = "irsz">3950</mezo>
-<mezo id = "hely">Sárospataki Erdészeti Ig.</mezo>
-<mezo id = "teru">Sárospatak Kazinczy</mezo>
+<mezo id = "hely">SÃ¡rospataki ErdÃ©szeti Ig.</mezo>
+<mezo id = "teru">SÃ¡rospatak Kazinczy</mezo>
 <mezo id = "terj">u</mezo>
 <mezo id = "hsz">1</mezo>
 <mezo id = "orsz">HU</mezo>
@@ -128,8 +128,8 @@
 <alrovat id = "30">
 <mezo id = "hattol">20100303</mezo>
 <mezo id = "irsz">3950</mezo>
-<mezo id = "hely">Sárospataki Faipari Üzem</mezo>
-<mezo id = "teru">és Vállalkozói Park Sárospatak, Nagy Lajos út 6.</mezo>
+<mezo id = "hely">SÃ¡rospataki Faipari Ãœzem</mezo>
+<mezo id = "teru">Ã©s VÃ¡llalkozÃ³i Park SÃ¡rospatak, Nagy Lajos Ãºt 6.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20100303</mezo>
 <mezo id = "bkelt">20100415</mezo>
@@ -137,8 +137,8 @@
 <alrovat id = "31">
 <mezo id = "hattol">20100303</mezo>
 <mezo id = "irsz">3642</mezo>
-<mezo id = "hely">Bánhorváti Erdészeti Igazgatóság</mezo>
-<mezo id = "teru">Bánhorváti, Jókai út 54.</mezo>
+<mezo id = "hely">BÃ¡nhorvÃ¡ti ErdÃ©szeti IgazgatÃ³sÃ¡g</mezo>
+<mezo id = "teru">BÃ¡nhorvÃ¡ti, JÃ³kai Ãºt 54.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20100303</mezo>
 <mezo id = "bkelt">20100415</mezo>
@@ -146,8 +146,8 @@
 <alrovat id = "32">
 <mezo id = "hattol">20100621</mezo>
 <mezo id = "irsz">3934</mezo>
-<mezo id = "hely">Hegyaljai Erdészeti Igazgatóság Tolcsva</mezo>
-<mezo id = "teru">József A u. 5.</mezo>
+<mezo id = "hely">Hegyaljai ErdÃ©szeti IgazgatÃ³sÃ¡g Tolcsva</mezo>
+<mezo id = "teru">JÃ³zsef A u. 5.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20100621</mezo>
 <mezo id = "bkelt">20100624</mezo>
@@ -155,8 +155,8 @@
 <alrovat id = "33">
 <mezo id = "hattol">20100621</mezo>
 <mezo id = "irsz">3630</mezo>
-<mezo id = "hely">Sajóvölgyi Erdészeti Igazgatóság Putnok</mezo>
-<mezo id = "teru">Serényi László tér 19.</mezo>
+<mezo id = "hely">SajÃ³vÃ¶lgyi ErdÃ©szeti IgazgatÃ³sÃ¡g Putnok</mezo>
+<mezo id = "teru">SerÃ©nyi LÃ¡szlÃ³ tÃ©r 19.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20100621</mezo>
 <mezo id = "bkelt">20100624</mezo>
@@ -164,7 +164,7 @@
 <alrovat id = "34">
 <mezo id = "hattol">20100621</mezo>
 <mezo id = "irsz">3777</mezo>
-<mezo id = "hely">Keletbükki Erdészeti Igazgatóság Parasznya</mezo>
+<mezo id = "hely">KeletbÃ¼kki ErdÃ©szeti IgazgatÃ³sÃ¡g Parasznya</mezo>
 <mezo id = "teru">Kossuth u. 9.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20100621</mezo>
@@ -173,8 +173,8 @@
 <alrovat id = "35">
 <mezo id = "hattol">20100621</mezo>
 <mezo id = "irsz">3907</mezo>
-<mezo id = "hely">Tállyai Erdészeti Igazgatóság Tállya</mezo>
-<mezo id = "teru">Gesztenyesor út 32.</mezo>
+<mezo id = "hely">TÃ¡llyai ErdÃ©szeti IgazgatÃ³sÃ¡g TÃ¡llya</mezo>
+<mezo id = "teru">Gesztenyesor Ãºt 32.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20100621</mezo>
 <mezo id = "bkelt">20100624</mezo>
@@ -182,7 +182,7 @@
 <alrovat id = "36">
 <mezo id = "hattol">20100621</mezo>
 <mezo id = "irsz">3559</mezo>
-<mezo id = "hely">Répáshutai Erdészeti Igazgatóság Répáshuta</mezo>
+<mezo id = "hely">RÃ©pÃ¡shutai ErdÃ©szeti IgazgatÃ³sÃ¡g RÃ©pÃ¡shuta</mezo>
 <mezo id = "teru">Herman u. 44.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20100621</mezo>
@@ -191,8 +191,8 @@
 <alrovat id = "37">
 <mezo id = "hattol">20100621</mezo>
 <mezo id = "irsz">3761</mezo>
-<mezo id = "hely">Jósva-Tornai Erdészeti Igazgatóság Szín</mezo>
-<mezo id = "teru">Szabadság u. 84.</mezo>
+<mezo id = "hely">JÃ³sva-Tornai ErdÃ©szeti IgazgatÃ³sÃ¡g SzÃ­n</mezo>
+<mezo id = "teru">SzabadsÃ¡g u. 84.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20100621</mezo>
 <mezo id = "bkelt">20100624</mezo>
@@ -2844,10 +2844,10 @@
 <rovat id = "13">
 <alrovat id = "31">
 <mezo id = "hattol">20060511</mezo>
-<mezo id = "pnev">Cserép János</mezo>
-<mezo id = "panev">Tóth Ilona</mezo>
+<mezo id = "pnev">CserÃ©p JÃ¡nos</mezo>
+<mezo id = "panev">TÃ³th Ilona</mezo>
 <mezo id = "pirsz">3535</mezo>
-<mezo id = "phely">Miskolc, Erdész u. 2.</mezo>
+<mezo id = "phely">Miskolc, ErdÃ©sz u. 2.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">2</mezo>
 <mezo id = "jogvk">19930615</mezo>
@@ -2857,7 +2857,7 @@
 </alrovat>
 <alrovat id = "50">
 <mezo id = "hattol">20100127</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Bak Julianna</mezo>
 <mezo id = "panev">Fodor Julianna</mezo>
 <mezo id = "kepve">x</mezo>
@@ -2870,9 +2870,9 @@
 </alrovat>
 <alrovat id = "51">
 <mezo id = "hattol">20100127</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Papp Gyula</mezo>
-<mezo id = "panev">Vecsei Ágnes</mezo>
+<mezo id = "panev">Vecsei Ãgnes</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20021129</mezo>
 <mezo id = "mindig">x</mezo>
@@ -2883,8 +2883,8 @@
 </alrovat>
 <alrovat id = "57">
 <mezo id = "hattol">20100713</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (vezérigazgató)</mezo>
-<mezo id = "pnev">Zay Adorján</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (vezÃ©rigazgatÃ³)</mezo>
+<mezo id = "pnev">Zay AdorjÃ¡n</mezo>
 <mezo id = "panev">Utassy Margit</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100713</mezo>
@@ -2896,8 +2896,8 @@
 <rovat id = "14">
 <alrovat id = "7">
 <mezo id = "hattol">20110601</mezo>
-<mezo id = "pnev">Oláh Gábor</mezo>
-<mezo id = "panev">Ács Gizella</mezo>
+<mezo id = "pnev">OlÃ¡h GÃ¡bor</mezo>
+<mezo id = "panev">Ãcs Gizella</mezo>
 <mezo id = "pirsz">3000</mezo>
 <mezo id = "phely">Hatvan</mezo>
 <mezo id = "pteru">Irinyi u. 10.</mezo>
@@ -2910,8 +2910,8 @@
 <rovat id = "15">
 <alrovat id = "39">
 <mezo id = "hattol">20100519</mezo>
-<mezo id = "pnev">Buday Péter</mezo>
-<mezo id = "panev">Baranyai Mária</mezo>
+<mezo id = "pnev">Buday PÃ©ter</mezo>
+<mezo id = "panev">Baranyai MÃ¡ria</mezo>
 <mezo id = "jogvk">20100519</mezo>
 <mezo id = "jogvv">20140531</mezo>
 <mezo id = "valtk">20100519</mezo>
@@ -2920,8 +2920,8 @@
 </alrovat>
 <alrovat id = "40">
 <mezo id = "hattol">20100519</mezo>
-<mezo id = "pnev">Tóth Lajos</mezo>
-<mezo id = "panev">Kristóf Márta</mezo>
+<mezo id = "pnev">TÃ³th Lajos</mezo>
+<mezo id = "panev">KristÃ³f MÃ¡rta</mezo>
 <mezo id = "jogvk">20100519</mezo>
 <mezo id = "jogvv">20140531</mezo>
 <mezo id = "valtk">20100519</mezo>
@@ -2930,8 +2930,8 @@
 </alrovat>
 <alrovat id = "41">
 <mezo id = "hattol">20100713</mezo>
-<mezo id = "pnev">Ladányi Imre</mezo>
-<mezo id = "panev">Réthelyi Magdolna</mezo>
+<mezo id = "pnev">LadÃ¡nyi Imre</mezo>
+<mezo id = "panev">RÃ©thelyi Magdolna</mezo>
 <mezo id = "jogvk">20100713</mezo>
 <mezo id = "jogvv">20130713</mezo>
 <mezo id = "valtk">20100713</mezo>
@@ -2939,8 +2939,8 @@
 </alrovat>
 <alrovat id = "43">
 <mezo id = "hattol">20100713</mezo>
-<mezo id = "pnev">Tilhóf Magdolna</mezo>
-<mezo id = "panev">Ottinger Gertrúd</mezo>
+<mezo id = "pnev">TilhÃ³f Magdolna</mezo>
+<mezo id = "panev">Ottinger GertrÃºd</mezo>
 <mezo id = "jogvk">20100713</mezo>
 <mezo id = "jogvv">20130713</mezo>
 <mezo id = "valtk">20100713</mezo>
@@ -2948,8 +2948,8 @@
 </alrovat>
 <alrovat id = "44">
 <mezo id = "hattol">20110711</mezo>
-<mezo id = "pnev">Radics Péter</mezo>
-<mezo id = "panev">Tóth Klára</mezo>
+<mezo id = "pnev">Radics PÃ©ter</mezo>
+<mezo id = "panev">TÃ³th KlÃ¡ra</mezo>
 <mezo id = "pirsz">2120</mezo>
 <mezo id = "phely">Dunakeszi</mezo>
 <mezo id = "pteru">Szabadka utca 13/A.</mezo>
@@ -2963,7 +2963,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">19930630</mezo>
 <mezo id = "cgjsz">501000116</mezo>
-<mezo id = "nev">Borsodi Erdõ és Fafeldolgozó Gazdaság</mezo>
+<mezo id = "nev">Borsodi ErdÅ‘ Ã©s FafeldolgozÃ³ GazdasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "20">
@@ -2985,18 +2985,18 @@
 <mezo id = "adosz">11071596205</mezo>
 <mezo id = "kadosz">HU11071596</mezo>
 <mezo id = "bkelt">20110816</mezo>
-<mezo id = "megj">Státusz kezdete: 1993/06/30</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 1993/06/30</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0110">
 <alrovat id = "3">
 <mezo id = "hattol">20101202</mezo>
 <mezo id = "cgjsz">0110041712</mezo>
-<mezo id = "nev">Magyar Fejlesztési Bank Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">Magyar FejlesztÃ©si Bank ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1051</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Nádor utca 31.</mezo>
+<mezo id = "teru">NÃ¡dor utca 31.</mezo>
 <mezo id = "sz3">x</mezo>
 <mezo id = "valtk">20101202</mezo>
 <mezo id = "bkelt">20110127</mezo>
@@ -3011,131 +3011,131 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Borsod-Abaúj-Zemplén Megyei Bíróság 05 10 000135<ujsor/>
-Északmagyarországi Erdõgazdasági Részvénytársaság<ujsor/>
-A bíróság az 1994. 02. 09-én hozott végzését hivatalból az alábbiak szerint javítja ki:<ujsor/>
-Északmagyarországi Erdõgazdasági Részvénytársaság.<ujsor/>
-Törölve: 1993. 06. 30-i hatállyal.<ujsor/>
-Észak-Magyarországi Erdõgazdasági Részvénytársaság.<ujsor/>
-Hatályos: 1993. 06. 30-tól.<ujsor/>
-15. Gergely Ferenc igazgatósági tag HU 1872 Budapest, Hûvösvölgyi út 109.<ujsor/>
-Törölve: 1993. 06. 30-i hatállyal.<ujsor/>
-Gerely Ferenc igazgatósági tag HU 1872 Budapest, Hûvösvölgyi út 109.<ujsor/>
-Hatályos: 1993. 06. 30-tól.<ujsor/>
-23. Újhúzy László HU 3530 Miskolc, Mártírok u. 2. II. 2.<ujsor/>
-Törölve: 1993. 06. 30-i hatállyal.<ujsor/>
-Újházy László HU 3530 Miskolc, Mártírok u. 2. II. 2.<ujsor/>
-Hatályos: 1993. 06. 30-tól.<ujsor/>
+<mezo id = "szoveg">Borsod-AbaÃºj-ZemplÃ©n Megyei BÃ­rÃ³sÃ¡g 05 10 000135<ujsor/>
+Ã‰szakmagyarorszÃ¡gi ErdÅ‘gazdasÃ¡gi RÃ©szvÃ©nytÃ¡rsasÃ¡g<ujsor/>
+A bÃ­rÃ³sÃ¡g az 1994. 02. 09-Ã©n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja ki:<ujsor/>
+Ã‰szakmagyarorszÃ¡gi ErdÅ‘gazdasÃ¡gi RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+TÃ¶rÃ¶lve: 1993. 06. 30-i hatÃ¡llyal.<ujsor/>
+Ã‰szak-MagyarorszÃ¡gi ErdÅ‘gazdasÃ¡gi RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+HatÃ¡lyos: 1993. 06. 30-tÃ³l.<ujsor/>
+15. Gergely Ferenc igazgatÃ³sÃ¡gi tag HU 1872 Budapest, HÅ±vÃ¶svÃ¶lgyi Ãºt 109.<ujsor/>
+TÃ¶rÃ¶lve: 1993. 06. 30-i hatÃ¡llyal.<ujsor/>
+Gerely Ferenc igazgatÃ³sÃ¡gi tag HU 1872 Budapest, HÅ±vÃ¶svÃ¶lgyi Ãºt 109.<ujsor/>
+HatÃ¡lyos: 1993. 06. 30-tÃ³l.<ujsor/>
+23. ÃšjhÃºzy LÃ¡szlÃ³ HU 3530 Miskolc, MÃ¡rtÃ­rok u. 2. II. 2.<ujsor/>
+TÃ¶rÃ¶lve: 1993. 06. 30-i hatÃ¡llyal.<ujsor/>
+ÃšjhÃ¡zy LÃ¡szlÃ³ HU 3530 Miskolc, MÃ¡rtÃ­rok u. 2. II. 2.<ujsor/>
+HatÃ¡lyos: 1993. 06. 30-tÃ³l.<ujsor/>
 1994. 03. 09.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0510000135</mezo>
-<mezo id = "nev">Észak-Magyarországi Erdõgazdasági Részvénytársaság (Miskolc, Deák tér l.)</mezo>
+<mezo id = "nev">Ã‰szak-MagyarorszÃ¡gi ErdÅ‘gazdasÃ¡gi RÃ©szvÃ©nytÃ¡rsasÃ¡g (Miskolc, DeÃ¡k tÃ©r l.)</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2003. 03. 12-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-06. 3517 Lillafüredi Erdészeti Igazgatóság Miskolc, Erzsébet u. 73.<ujsor/>
- 3533 Miskolci Fûrész Igazgatóság Miskolc, Ládi-telep.<ujsor/>
- 3517 Miskolc, Erzsébet sétány 75.<ujsor/>
- 3535 Miskolc, Erdész u. 24.<ujsor/>
- Törölve: 2003. 01. 16-i hatállyal.<ujsor/>
- 3517 Lillafüredi Erdészeti Igazgatóság, Miskolc Erzsébet sétány 73.<ujsor/>
- 3533 Miskolci Fûrész Üzemigazgatóság Miskolc, Ládi telep.<ujsor/>
- 3517 Lillafüredi Erdészeti Igazgat1oság, Miskolc Erzsébet sétány 75.<ujsor/>
- 3535 Lillafüredi Állami Erdei Vasút, Üzemigazgatóság Miskolc Erdész u. 24.<ujsor/>
- Hatályos: 2003. 01. 16-tól.<ujsor/>
-07. 3671 Jósva-Tornai Erd. Szín, Szabadság u. 85.<ujsor/>
- 3950 Sárospataki Erdészet Sárospatak, Kazinczy u. 1.<ujsor/>
- Törölve: 2003. 01. 16-i hatállyal.<ujsor/>
- 3934 Hegyaljai Erdészeti Igazgatóság, Tolcsva Szent István u. 4.<ujsor/>
- 3761 Jósva-Tornai Erdészeti Ig., Szín Szabadság u. 84.<ujsor/>
- 3950 Sárospataki Erdészeti Ig., Sárospatak Kazinczy u. 1.<ujsor/>
- Hatályos: 2003. 01. 16-tól.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2003. 03. 12-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+06. 3517 LillafÃ¼redi ErdÃ©szeti IgazgatÃ³sÃ¡g Miskolc, ErzsÃ©bet u. 73.<ujsor/>
+ 3533 Miskolci FÅ±rÃ©sz IgazgatÃ³sÃ¡g Miskolc, LÃ¡di-telep.<ujsor/>
+ 3517 Miskolc, ErzsÃ©bet sÃ©tÃ¡ny 75.<ujsor/>
+ 3535 Miskolc, ErdÃ©sz u. 24.<ujsor/>
+ TÃ¶rÃ¶lve: 2003. 01. 16-i hatÃ¡llyal.<ujsor/>
+ 3517 LillafÃ¼redi ErdÃ©szeti IgazgatÃ³sÃ¡g, Miskolc ErzsÃ©bet sÃ©tÃ¡ny 73.<ujsor/>
+ 3533 Miskolci FÅ±rÃ©sz ÃœzemigazgatÃ³sÃ¡g Miskolc, LÃ¡di telep.<ujsor/>
+ 3517 LillafÃ¼redi ErdÃ©szeti Igazgat1osÃ¡g, Miskolc ErzsÃ©bet sÃ©tÃ¡ny 75.<ujsor/>
+ 3535 LillafÃ¼redi Ãllami Erdei VasÃºt, ÃœzemigazgatÃ³sÃ¡g Miskolc ErdÃ©sz u. 24.<ujsor/>
+ HatÃ¡lyos: 2003. 01. 16-tÃ³l.<ujsor/>
+07. 3671 JÃ³sva-Tornai Erd. SzÃ­n, SzabadsÃ¡g u. 85.<ujsor/>
+ 3950 SÃ¡rospataki ErdÃ©szet SÃ¡rospatak, Kazinczy u. 1.<ujsor/>
+ TÃ¶rÃ¶lve: 2003. 01. 16-i hatÃ¡llyal.<ujsor/>
+ 3934 Hegyaljai ErdÃ©szeti IgazgatÃ³sÃ¡g, Tolcsva Szent IstvÃ¡n u. 4.<ujsor/>
+ 3761 JÃ³sva-Tornai ErdÃ©szeti Ig., SzÃ­n SzabadsÃ¡g u. 84.<ujsor/>
+ 3950 SÃ¡rospataki ErdÃ©szeti Ig., SÃ¡rospatak Kazinczy u. 1.<ujsor/>
+ HatÃ¡lyos: 2003. 01. 16-tÃ³l.<ujsor/>
 Bejegyezve: 2003. 07. 14.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0510000135</mezo>
-<mezo id = "nev">Észak-Magyarországi Erdõgazdasági Részvénytársaság</mezo>
-<mezo id = "cim">3525 Miskolc, Deák tér l.</mezo>
+<mezo id = "nev">Ã‰szak-MagyarorszÃ¡gi ErdÅ‘gazdasÃ¡gi RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">3525 Miskolc, DeÃ¡k tÃ©r l.</mezo>
 <mezo id = "adosz">11071596205</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2003. 03. 12-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-12. A./ a vezérigazgató önállóan,- b./ az Igazgatóság tagjai közül kettõ együttesen, c./ egy igazgatóság tag és az igazgatóság által egy erre felhatalmazott alkalmazott együttesen.<ujsor/>
- Törölve: 1998. 05. 28-i hatállyal.<ujsor/>
- A./ a vezérigazgató önállóan, b./az Igazgatóság tagjai közül kettõ együttesen, c./egy igazgatósági tag és az igazgatóság által egy erre felhatalmazott alkalmazott együttesen d./az igazgatóság által erre feljogosított két alkalmazott együttesen.<ujsor/>
- Hatályos: 1998. 05. 28-tól.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2003. 03. 12-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+12. A./ a vezÃ©rigazgatÃ³ Ã¶nÃ¡llÃ³an,- b./ az IgazgatÃ³sÃ¡g tagjai kÃ¶zÃ¼l kettÅ‘ egyÃ¼ttesen, c./ egy igazgatÃ³sÃ¡g tag Ã©s az igazgatÃ³sÃ¡g Ã¡ltal egy erre felhatalmazott alkalmazott egyÃ¼ttesen.<ujsor/>
+ TÃ¶rÃ¶lve: 1998. 05. 28-i hatÃ¡llyal.<ujsor/>
+ A./ a vezÃ©rigazgatÃ³ Ã¶nÃ¡llÃ³an, b./az IgazgatÃ³sÃ¡g tagjai kÃ¶zÃ¼l kettÅ‘ egyÃ¼ttesen, c./egy igazgatÃ³sÃ¡gi tag Ã©s az igazgatÃ³sÃ¡g Ã¡ltal egy erre felhatalmazott alkalmazott egyÃ¼ttesen d./az igazgatÃ³sÃ¡g Ã¡ltal erre feljogosÃ­tott kÃ©t alkalmazott egyÃ¼ttesen.<ujsor/>
+ HatÃ¡lyos: 1998. 05. 28-tÃ³l.<ujsor/>
 Bejegyezve: 2003. 08. 01.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0510000135</mezo>
-<mezo id = "nev">Észak-Magyarországi Erdõgazdasági Részvénytársaság</mezo>
-<mezo id = "cim">3525 Miskolc, Deák tér l.</mezo>
+<mezo id = "nev">Ã‰szak-MagyarorszÃ¡gi ErdÅ‘gazdasÃ¡gi RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">3525 Miskolc, DeÃ¡k tÃ©r l.</mezo>
 <mezo id = "adosz">11071596205</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2006. 06. 05-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. A képviselet módja: együttes.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (tisztségviselõ).<ujsor/>
- Cserép János (an: Tóth Ilona)<ujsor/>
-3535 Miskolc, Erdész u. 2.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2006. 06. 05-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (tisztsÃ©gviselÅ‘).<ujsor/>
+ CserÃ©p JÃ¡nos (an: TÃ³th Ilona)<ujsor/>
+3535 Miskolc, ErdÃ©sz u. 2.<ujsor/>
  A jogviszony kezdete: 1993. 06. 15.<ujsor/>
- A jogviszony vége: 2009. 05. 31.<ujsor/>
- Törölve: 2006. 05. 11.<ujsor/>
- A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (tisztségviselõ).<ujsor/>
- Cserép János (an: Tóth Ilona)<ujsor/>
-3535 Miskolc, Erdész u. 2.<ujsor/>
+ A jogviszony vÃ©ge: 2009. 05. 31.<ujsor/>
+ TÃ¶rÃ¶lve: 2006. 05. 11.<ujsor/>
+ A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (tisztsÃ©gviselÅ‘).<ujsor/>
+ CserÃ©p JÃ¡nos (an: TÃ³th Ilona)<ujsor/>
+3535 Miskolc, ErdÃ©sz u. 2.<ujsor/>
  A jogviszony kezdete: 1996. 05. 29.<ujsor/>
- A jogviszony vége: 2009. 05. 31.<ujsor/>
+ A jogviszony vÃ©ge: 2009. 05. 31.<ujsor/>
  Bejegyezve: 2006. 05. 11.<ujsor/>
 2006. 07. 24.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0510000135</mezo>
-<mezo id = "nev">ÉSZAKERDÕ Erdõgazdasági Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">3525 Miskolc, Deák tér l.</mezo>
+<mezo id = "nev">Ã‰SZAKERDÅ ErdÅ‘gazdasÃ¡gi ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">3525 Miskolc, DeÃ¡k tÃ©r l.</mezo>
 <mezo id = "adosz">11071596205</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Borsod-Abaúj-Zemplén Megyei Bíróság mint Cégbíróság a Cg.05-10-000135 cégjegyzékszámon bejegyzett ÉSZAKERDÕ Erdõgazdasági Zártkörûen Mûködõ Részvénytársaság (3525 Miskolc, Deák tér l; adószáma: 11071596-2-05) kérelme alapján elrendeli az 2006. június 5. napján hozott Cg.05-10-000135 /119. számú végzésének kiegészítését az alábbiak szerint:<ujsor/>
-15. A felügyelõ bizottsági tagok adatai<ujsor/>
-Tóth Lajos (an.: Kristóf Márta)<ujsor/>
-Jogv. kezdete: 1993.06.30. Jogv. vége: 2010.05.31.<ujsor/>
-Vált. kezdete: 2006.05.11.<ujsor/>
-Bejegyezve (végzés kelte): 2010. március 24.<ujsor/>
-E végzés ellen fellebbezésnek nincs helye, azonban az ügyész, továbbá az, akire a végzés rendelkezést tartalmaz - a rendelkezés õt érintõ részére vonatkozóan - pert indíthat a cég ellen a cég székhelye szerint illetékes megyei bíróság elõtt a bejegyzõ végzés hatályon kívül helyezése iránt.<ujsor/>
-A per megindításának a bejegyzõ végzés Cégközlönyben való közzétételétõl, illetve - közzétételi kötelezettség hiányában - annak kézbesítésétõl számított 30 napon belül van helye. A határidõ elmulasztása jogvesztéssel jár.<ujsor/>
-2010. március 24.<ujsor/>
+<mezo id = "szoveg">A Borsod-AbaÃºj-ZemplÃ©n Megyei BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.05-10-000135 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett Ã‰SZAKERDÅ ErdÅ‘gazdasÃ¡gi ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (3525 Miskolc, DeÃ¡k tÃ©r l; adÃ³szÃ¡ma: 11071596-2-05) kÃ©relme alapjÃ¡n elrendeli az 2006. jÃºnius 5. napjÃ¡n hozott Cg.05-10-000135 /119. szÃ¡mÃº vÃ©gzÃ©sÃ©nek kiegÃ©szÃ­tÃ©sÃ©t az alÃ¡bbiak szerint:<ujsor/>
+15. A felÃ¼gyelÅ‘ bizottsÃ¡gi tagok adatai<ujsor/>
+TÃ³th Lajos (an.: KristÃ³f MÃ¡rta)<ujsor/>
+Jogv. kezdete: 1993.06.30. Jogv. vÃ©ge: 2010.05.31.<ujsor/>
+VÃ¡lt. kezdete: 2006.05.11.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2010. mÃ¡rcius 24.<ujsor/>
+E vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye, azonban az Ã¼gyÃ©sz, tovÃ¡bbÃ¡ az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s Å‘t Ã©rintÅ‘ rÃ©szÃ©re vonatkozÃ³an - pert indÃ­that a cÃ©g ellen a cÃ©g szÃ©khelye szerint illetÃ©kes megyei bÃ­rÃ³sÃ¡g elÅ‘tt a bejegyzÅ‘ vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt.<ujsor/>
+A per megindÃ­tÃ¡sÃ¡nak a bejegyzÅ‘ vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l, illetve - kÃ¶zzÃ©tÃ©teli kÃ¶telezettsÃ©g hiÃ¡nyÃ¡ban - annak kÃ©zbesÃ­tÃ©sÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l van helye. A hatÃ¡ridÅ‘ elmulasztÃ¡sa jogvesztÃ©ssel jÃ¡r.<ujsor/>
+2010. mÃ¡rcius 24.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0510000135</mezo>
-<mezo id = "nev">ÉSZAKERDÕ Erdõgazdasági Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">3525 Miskolc, Deák tér l</mezo>
+<mezo id = "nev">Ã‰SZAKERDÅ ErdÅ‘gazdasÃ¡gi ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">3525 Miskolc, DeÃ¡k tÃ©r l</mezo>
 <mezo id = "adosz">11071596205</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az ÉSZAKERDÕ Erdõgazdasági Zártkörûen Mûködõ Részvénytársaság (Cg.: [05 10 000135]; székhelye: 3525 Miskolc, Deák tér 1.) egyedüli tulajdonosa (a magyar állam képviseletében az MFB Zrt., mint a társaság feletti tulajdonosi jogok gyakorlója) 2010. december 2-án 1/2010. (XII.2.) sz. alapítói határozatával úgy döntött, hogy az ÉSZAKERDÕ Erdõgazdasági Zártkörûen Mûködõ Részvénytársaság teljes alaptõkéjét megtestesítõ, 1 278 670 E Ft (egymilliárd-kettõszázhetvennyolcmillió-hatszázhetvenezer forint) össznévértékû, nyomdai úton elõállított részvényeit 1 278 670 db, egyenként 1000 Ft névértékû dematerializált részvénnyé alakítja át.<ujsor/>
-A társaság tájékoztatja a részvényest az alábbiakról:<ujsor/>
-Az átalakítás megkezdésének idõpontja: 2011. január 3.<ujsor/>
-Az átalakítás idõtartama: a megkezdéstõl számított 60 nap, amely 2011. március 4.<ujsor/>
-A részvények benyújtásának helye: a társaság székhelye (3525 Miskolc, Deák tér 1.).<ujsor/>
-A társaság felhívja a részvényest arra, hogy a nyomdai úton elõállított részvényeit 2011. január 3-a és 2011. március 4-e között nyújtsa be a társaság (kibocsátó) székhelyén.<ujsor/>
-A részvényes a benyújtással egyidejûleg köteles megjelölni azt a befektetési szolgáltatót, amellyel értékpapírszámla-szerzõdést kötött, mert ennek hiányában úgy kell tekinteni, mint aki a benyújtást elmulasztotta.<ujsor/>
-A központi értéktárnál letétként elhelyezett értékpapírok benyújtottnak tekintendõk, amennyiben az értékpapír tulajdonosa értékpapírszámlával rendelkezik.<ujsor/>
-A be nem nyújtott, nyomdai úton elõállított értékpapír helyébe lépõ dematerializált értékpapírok tulajdonjoga a nyomdai úton elõállított értékpapír utolsó tulajdonosát illeti meg.<ujsor/>
-Az átalakítás idõpontja: a részvények benyújtására megjelölt utolsó napot követõ munkanap: 2011. március 7.<ujsor/>
-Amennyiben a nyomdai úton elõállított részvények hiánytalanul és érvényesen 2011. március 4-ét megelõzõen benyújtásra kerülnek, az átalakítás folyamata hamarabb lezárható. Ebben az esetben az átalakítás idõpontja a részvények hiánytalan és érvényes benyújtásának napját követõ elsõ munkanap.<ujsor/>
-Az átalakítás napjával a kibocsátó az átalakított részvényeket érvénytelenné nyilvánítja, dematerializált részvénnyé alakítja.<ujsor/>
-Az érvénytelenné nyilvánított részvény forgalom tárgya nem lehet, azonban annak bemutatásával tulajdonosa követelheti részére a dematerializált részvény kiadását, vagy ha az értékesítés megtörtént, az értékesített dematerializált részvény ellenértékét.<ujsor/>
+<mezo id = "szoveg">Az Ã‰SZAKERDÅ ErdÅ‘gazdasÃ¡gi ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [05 10 000135]; szÃ©khelye: 3525 Miskolc, DeÃ¡k tÃ©r 1.) egyedÃ¼li tulajdonosa (a magyar Ã¡llam kÃ©pviseletÃ©ben az MFB Zrt., mint a tÃ¡rsasÃ¡g feletti tulajdonosi jogok gyakorlÃ³ja) 2010. december 2-Ã¡n 1/2010. (XII.2.) sz. alapÃ­tÃ³i hatÃ¡rozatÃ¡val Ãºgy dÃ¶ntÃ¶tt, hogy az Ã‰SZAKERDÅ ErdÅ‘gazdasÃ¡gi ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g teljes alaptÅ‘kÃ©jÃ©t megtestesÃ­tÅ‘, 1 278 670 E Ft (egymilliÃ¡rd-kettÅ‘szÃ¡zhetvennyolcmilliÃ³-hatszÃ¡zhetvenezer forint) Ã¶ssznÃ©vÃ©rtÃ©kÅ±, nyomdai Ãºton elÅ‘Ã¡llÃ­tott rÃ©szvÃ©nyeit 1 278 670 db, egyenkÃ©nt 1000 Ft nÃ©vÃ©rtÃ©kÅ± dematerializÃ¡lt rÃ©szvÃ©nnyÃ© alakÃ­tja Ã¡t.<ujsor/>
+A tÃ¡rsasÃ¡g tÃ¡jÃ©koztatja a rÃ©szvÃ©nyest az alÃ¡bbiakrÃ³l:<ujsor/>
+Az Ã¡talakÃ­tÃ¡s megkezdÃ©sÃ©nek idÅ‘pontja: 2011. januÃ¡r 3.<ujsor/>
+Az Ã¡talakÃ­tÃ¡s idÅ‘tartama: a megkezdÃ©stÅ‘l szÃ¡mÃ­tott 60 nap, amely 2011. mÃ¡rcius 4.<ujsor/>
+A rÃ©szvÃ©nyek benyÃºjtÃ¡sÃ¡nak helye: a tÃ¡rsasÃ¡g szÃ©khelye (3525 Miskolc, DeÃ¡k tÃ©r 1.).<ujsor/>
+A tÃ¡rsasÃ¡g felhÃ­vja a rÃ©szvÃ©nyest arra, hogy a nyomdai Ãºton elÅ‘Ã¡llÃ­tott rÃ©szvÃ©nyeit 2011. januÃ¡r 3-a Ã©s 2011. mÃ¡rcius 4-e kÃ¶zÃ¶tt nyÃºjtsa be a tÃ¡rsasÃ¡g (kibocsÃ¡tÃ³) szÃ©khelyÃ©n.<ujsor/>
+A rÃ©szvÃ©nyes a benyÃºjtÃ¡ssal egyidejÅ±leg kÃ¶teles megjelÃ¶lni azt a befektetÃ©si szolgÃ¡ltatÃ³t, amellyel Ã©rtÃ©kpapÃ­rszÃ¡mla-szerzÅ‘dÃ©st kÃ¶tÃ¶tt, mert ennek hiÃ¡nyÃ¡ban Ãºgy kell tekinteni, mint aki a benyÃºjtÃ¡st elmulasztotta.<ujsor/>
+A kÃ¶zponti Ã©rtÃ©ktÃ¡rnÃ¡l letÃ©tkÃ©nt elhelyezett Ã©rtÃ©kpapÃ­rok benyÃºjtottnak tekintendÅ‘k, amennyiben az Ã©rtÃ©kpapÃ­r tulajdonosa Ã©rtÃ©kpapÃ­rszÃ¡mlÃ¡val rendelkezik.<ujsor/>
+A be nem nyÃºjtott, nyomdai Ãºton elÅ‘Ã¡llÃ­tott Ã©rtÃ©kpapÃ­r helyÃ©be lÃ©pÅ‘ dematerializÃ¡lt Ã©rtÃ©kpapÃ­rok tulajdonjoga a nyomdai Ãºton elÅ‘Ã¡llÃ­tott Ã©rtÃ©kpapÃ­r utolsÃ³ tulajdonosÃ¡t illeti meg.<ujsor/>
+Az Ã¡talakÃ­tÃ¡s idÅ‘pontja: a rÃ©szvÃ©nyek benyÃºjtÃ¡sÃ¡ra megjelÃ¶lt utolsÃ³ napot kÃ¶vetÅ‘ munkanap: 2011. mÃ¡rcius 7.<ujsor/>
+Amennyiben a nyomdai Ãºton elÅ‘Ã¡llÃ­tott rÃ©szvÃ©nyek hiÃ¡nytalanul Ã©s Ã©rvÃ©nyesen 2011. mÃ¡rcius 4-Ã©t megelÅ‘zÅ‘en benyÃºjtÃ¡sra kerÃ¼lnek, az Ã¡talakÃ­tÃ¡s folyamata hamarabb lezÃ¡rhatÃ³. Ebben az esetben az Ã¡talakÃ­tÃ¡s idÅ‘pontja a rÃ©szvÃ©nyek hiÃ¡nytalan Ã©s Ã©rvÃ©nyes benyÃºjtÃ¡sÃ¡nak napjÃ¡t kÃ¶vetÅ‘ elsÅ‘ munkanap.<ujsor/>
+Az Ã¡talakÃ­tÃ¡s napjÃ¡val a kibocsÃ¡tÃ³ az Ã¡talakÃ­tott rÃ©szvÃ©nyeket Ã©rvÃ©nytelennÃ© nyilvÃ¡nÃ­tja, dematerializÃ¡lt rÃ©szvÃ©nnyÃ© alakÃ­tja.<ujsor/>
+Az Ã©rvÃ©nytelennÃ© nyilvÃ¡nÃ­tott rÃ©szvÃ©ny forgalom tÃ¡rgya nem lehet, azonban annak bemutatÃ¡sÃ¡val tulajdonosa kÃ¶vetelheti rÃ©szÃ©re a dematerializÃ¡lt rÃ©szvÃ©ny kiadÃ¡sÃ¡t, vagy ha az Ã©rtÃ©kesÃ­tÃ©s megtÃ¶rtÃ©nt, az Ã©rtÃ©kesÃ­tett dematerializÃ¡lt rÃ©szvÃ©ny ellenÃ©rtÃ©kÃ©t.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0510000135</mezo>
-<mezo id = "nev">ÉSZAKERDÕ Erdõgazdasági Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">Ã‰SZAKERDÅ ErdÅ‘gazdasÃ¡gi ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">3525 Miskolc</mezo>
 </alrovat>
 </rovat>

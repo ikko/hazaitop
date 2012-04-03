@@ -5,7 +5,7 @@
 <mezo id = "cf">10</mezo>
 <mezo id = "szam">001361</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">8000 Székesfehérvár, Nagyszombati út 43. </mezo>
+<mezo id = "cim">8000 SzÃ©kesfehÃ©rvÃ¡r, Nagyszombati Ãºt 43. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">14544565207</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20081231</mezo>
-<mezo id = "nev">INOTAL Alumíniumfeldolgozó Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">INOTAL AlumÃ­niumfeldolgozÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">20081231</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20081208</mezo>
@@ -34,8 +34,8 @@
 <alrovat id = "2">
 <mezo id = "hattol">20110401</mezo>
 <mezo id = "irsz">8000</mezo>
-<mezo id = "hely">Székesfehérvár</mezo>
-<mezo id = "teru">Nagyszombati út 43.</mezo>
+<mezo id = "hely">SzÃ©kesfehÃ©rvÃ¡r</mezo>
+<mezo id = "teru">Nagyszombati Ãºt 43.</mezo>
 <mezo id = "valtk">20110401</mezo>
 <mezo id = "bkelt">20110330</mezo>
 </alrovat>
@@ -44,7 +44,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20081231</mezo>
 <mezo id = "irsz">8104</mezo>
-<mezo id = "hely">Várpalota, Fehérvári út 26.</mezo>
+<mezo id = "hely">VÃ¡rpalota, FehÃ©rvÃ¡ri Ãºt 26.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20081231</mezo>
 <mezo id = "valtv">0</mezo>
@@ -54,7 +54,7 @@
 <alrovat id = "2">
 <mezo id = "hattol">20081231</mezo>
 <mezo id = "irsz">1117</mezo>
-<mezo id = "hely">Budapest, Gábor Dénes utca 2.</mezo>
+<mezo id = "hely">Budapest, GÃ¡bor DÃ©nes utca 2.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20081231</mezo>
 <mezo id = "valtv">0</mezo>
@@ -651,9 +651,9 @@
 <rovat id = "13">
 <alrovat id = "26">
 <mezo id = "hattol">20091231</mezo>
-<mezo id = "tiszt">cégvezetõ</mezo>
+<mezo id = "tiszt">cÃ©gvezetÅ‘</mezo>
 <mezo id = "pnev">Somogyi Ferenc</mezo>
-<mezo id = "panev">Kovács Éva</mezo>
+<mezo id = "panev">KovÃ¡cs Ã‰va</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20090801</mezo>
 <mezo id = "valtk">20091231</mezo>
@@ -661,9 +661,9 @@
 </alrovat>
 <alrovat id = "28">
 <mezo id = "hattol">20091231</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Bacsárdi Tamás</mezo>
-<mezo id = "panev">Czunám Valéria</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">BacsÃ¡rdi TamÃ¡s</mezo>
+<mezo id = "panev">CzunÃ¡m ValÃ©ria</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20081231</mezo>
 <mezo id = "valtk">20091231</mezo>
@@ -671,9 +671,9 @@
 </alrovat>
 <alrovat id = "29">
 <mezo id = "hattol">20091231</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">dr. Murgás Lajos</mezo>
-<mezo id = "panev">Kálózy Anna</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">dr. MurgÃ¡s Lajos</mezo>
+<mezo id = "panev">KÃ¡lÃ³zy Anna</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20081231</mezo>
 <mezo id = "valtk">20091231</mezo>
@@ -681,9 +681,9 @@
 </alrovat>
 <alrovat id = "30">
 <mezo id = "hattol">20091231</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Erdélyi Eleonóra</mezo>
-<mezo id = "panev">Kovács Anna</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">ErdÃ©lyi EleonÃ³ra</mezo>
+<mezo id = "panev">KovÃ¡cs Anna</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20081231</mezo>
 <mezo id = "valtk">20091231</mezo>
@@ -691,9 +691,9 @@
 </alrovat>
 <alrovat id = "31">
 <mezo id = "hattol">20091231</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Huszics Zoltán</mezo>
-<mezo id = "panev">Stublák Margit</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Huszics ZoltÃ¡n</mezo>
+<mezo id = "panev">StublÃ¡k Margit</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20081231</mezo>
 <mezo id = "valtk">20091231</mezo>
@@ -701,9 +701,9 @@
 </alrovat>
 <alrovat id = "32">
 <mezo id = "hattol">20091231</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Joóné Angeli Magdolna</mezo>
-<mezo id = "panev">Bokréta Magdolna</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">JoÃ³nÃ© Angeli Magdolna</mezo>
+<mezo id = "panev">BokrÃ©ta Magdolna</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20081231</mezo>
 <mezo id = "valtk">20091231</mezo>
@@ -711,8 +711,8 @@
 </alrovat>
 <alrovat id = "33">
 <mezo id = "hattol">20091231</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Kecskésné Sütõ Szilvia</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">KecskÃ©snÃ© SÃ¼tÅ‘ Szilvia</mezo>
 <mezo id = "panev">Zagyva Irma</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20081231</mezo>
@@ -721,8 +721,8 @@
 </alrovat>
 <alrovat id = "34">
 <mezo id = "hattol">20091231</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Köröspataki Judit</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">KÃ¶rÃ¶spataki Judit</mezo>
 <mezo id = "panev">Kolb Judit</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20081231</mezo>
@@ -731,8 +731,8 @@
 </alrovat>
 <alrovat id = "35">
 <mezo id = "hattol">20091231</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Máthé László</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">MÃ¡thÃ© LÃ¡szlÃ³</mezo>
 <mezo id = "panev">Varga Ilona</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20081231</mezo>
@@ -741,9 +741,9 @@
 </alrovat>
 <alrovat id = "36">
 <mezo id = "hattol">20091231</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Németh Endre</mezo>
-<mezo id = "panev">Kövér Mária</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">NÃ©meth Endre</mezo>
+<mezo id = "panev">KÃ¶vÃ©r MÃ¡ria</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20091231</mezo>
 <mezo id = "valtk">20091231</mezo>
@@ -751,9 +751,9 @@
 </alrovat>
 <alrovat id = "37">
 <mezo id = "hattol">20091231</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Pánczél Lajosné</mezo>
-<mezo id = "panev">Zugor Klára</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">PÃ¡nczÃ©l LajosnÃ©</mezo>
+<mezo id = "panev">Zugor KlÃ¡ra</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20081231</mezo>
 <mezo id = "valtk">20091231</mezo>
@@ -761,9 +761,9 @@
 </alrovat>
 <alrovat id = "38">
 <mezo id = "hattol">20091231</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Papp Éva</mezo>
-<mezo id = "panev">Vinczellér Éva</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Papp Ã‰va</mezo>
+<mezo id = "panev">VinczellÃ©r Ã‰va</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20081231</mezo>
 <mezo id = "valtk">20091231</mezo>
@@ -771,9 +771,9 @@
 </alrovat>
 <alrovat id = "39">
 <mezo id = "hattol">20091231</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Péter Ágnes</mezo>
-<mezo id = "panev">Dévényi Erzsébet</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">PÃ©ter Ãgnes</mezo>
+<mezo id = "panev">DÃ©vÃ©nyi ErzsÃ©bet</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20081231</mezo>
 <mezo id = "valtk">20091231</mezo>
@@ -781,8 +781,8 @@
 </alrovat>
 <alrovat id = "40">
 <mezo id = "hattol">20091231</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Szõnyi László</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">SzÅ‘nyi LÃ¡szlÃ³</mezo>
 <mezo id = "panev">Vizer Anna</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20081231</mezo>
@@ -791,9 +791,9 @@
 </alrovat>
 <alrovat id = "41">
 <mezo id = "hattol">20091231</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Szûcs Zoltán</mezo>
-<mezo id = "panev">Kárász Piroska</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">SzÅ±cs ZoltÃ¡n</mezo>
+<mezo id = "panev">KÃ¡rÃ¡sz Piroska</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20081231</mezo>
 <mezo id = "valtk">20091231</mezo>
@@ -801,9 +801,9 @@
 </alrovat>
 <alrovat id = "42">
 <mezo id = "hattol">20091231</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Temesszentandrási Guido</mezo>
-<mezo id = "panev">Horváth Hedvig</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">TemesszentandrÃ¡si Guido</mezo>
+<mezo id = "panev">HorvÃ¡th Hedvig</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20091231</mezo>
 <mezo id = "valtk">20091231</mezo>
@@ -811,9 +811,9 @@
 </alrovat>
 <alrovat id = "43">
 <mezo id = "hattol">20091231</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Tóthné Fodor Erzsébet</mezo>
-<mezo id = "panev">Tomor Erzsébet</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">TÃ³thnÃ© Fodor ErzsÃ©bet</mezo>
+<mezo id = "panev">Tomor ErzsÃ©bet</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20081231</mezo>
 <mezo id = "valtk">20091231</mezo>
@@ -821,9 +821,9 @@
 </alrovat>
 <alrovat id = "44">
 <mezo id = "hattol">20091231</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Salamon András</mezo>
-<mezo id = "panev">Bonevácz Margit</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Salamon AndrÃ¡s</mezo>
+<mezo id = "panev">BonevÃ¡cz Margit</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20081231</mezo>
 <mezo id = "valtk">20091231</mezo>
@@ -832,12 +832,12 @@
 </alrovat>
 <alrovat id = "45">
 <mezo id = "hattol">20110711</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Nagy István</mezo>
-<mezo id = "panev">Tóth Ilona</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">Nagy IstvÃ¡n</mezo>
+<mezo id = "panev">TÃ³th Ilona</mezo>
 <mezo id = "pirsz">8000</mezo>
-<mezo id = "phely">Székesfehérvár</mezo>
-<mezo id = "pteru">Trencséni utca 37. C. ép.</mezo>
+<mezo id = "phely">SzÃ©kesfehÃ©rvÃ¡r</mezo>
+<mezo id = "pteru">TrencsÃ©ni utca 37. C. Ã©p.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20090801</mezo>
 <mezo id = "valtk">20110711</mezo>
@@ -846,12 +846,12 @@
 </alrovat>
 <alrovat id = "46">
 <mezo id = "hattol">20110711</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Brezóczki Attila</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">BrezÃ³czki Attila</mezo>
 <mezo id = "panev">Goliscseva Lilija</mezo>
 <mezo id = "pirsz">1029</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Gyöngyvér utca 31.</mezo>
+<mezo id = "pteru">GyÃ¶ngyvÃ©r utca 31.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20081231</mezo>
 <mezo id = "valtk">20110711</mezo>
@@ -860,12 +860,12 @@
 </alrovat>
 <alrovat id = "47">
 <mezo id = "hattol">20110711</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Penk Márton</mezo>
-<mezo id = "panev">Metzger Erzsébet</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">Penk MÃ¡rton</mezo>
+<mezo id = "panev">Metzger ErzsÃ©bet</mezo>
 <mezo id = "pirsz">8000</mezo>
-<mezo id = "phely">Székesfehérvár</mezo>
-<mezo id = "pteru">Nagyszombati út 43.</mezo>
+<mezo id = "phely">SzÃ©kesfehÃ©rvÃ¡r</mezo>
+<mezo id = "pteru">Nagyszombati Ãºt 43.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20110801</mezo>
 <mezo id = "valtk">20110711</mezo>
@@ -874,12 +874,12 @@
 </alrovat>
 <alrovat id = "48">
 <mezo id = "hattol">20110711</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Hertelendi Ákos</mezo>
-<mezo id = "panev">Gyanó Etelka</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">Hertelendi Ãkos</mezo>
+<mezo id = "panev">GyanÃ³ Etelka</mezo>
 <mezo id = "pirsz">2000</mezo>
 <mezo id = "phely">Szentendre</mezo>
-<mezo id = "pteru">Bérc köz 9.</mezo>
+<mezo id = "pteru">BÃ©rc kÃ¶z 9.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20110801</mezo>
 <mezo id = "valtk">20110711</mezo>
@@ -891,16 +891,16 @@
 <alrovat id = "1">
 <mezo id = "hattol">20081231</mezo>
 <mezo id = "cgjsz">709005621</mezo>
-<mezo id = "nev">KIS &amp; MÓRICZ Könyvvizsgáló és Pénzügyi Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">KIS &amp; MÃ“RICZ KÃ¶nyvvizsgÃ¡lÃ³ Ã©s PÃ©nzÃ¼gyi TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">8000</mezo>
-<mezo id = "hely">Székesfehérvár</mezo>
+<mezo id = "hely">SzÃ©kesfehÃ©rvÃ¡r</mezo>
 <mezo id = "teru">Millenniumi</mezo>
 <mezo id = "hsz">11</mezo>
 <mezo id = "pnev">Kis Katalin</mezo>
-<mezo id = "panev">Sabjanits Teréz</mezo>
+<mezo id = "panev">Sabjanits TerÃ©z</mezo>
 <mezo id = "pirsz">8000</mezo>
-<mezo id = "phely">Székesfehérvár, Pozsonyi út 73.</mezo>
+<mezo id = "phely">SzÃ©kesfehÃ©rvÃ¡r, Pozsonyi Ãºt 73.</mezo>
 <mezo id = "jogvk">20081231</mezo>
 <mezo id = "jogvv">20131231</mezo>
 <mezo id = "valtk">20081231</mezo>
@@ -913,7 +913,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20081231</mezo>
 <mezo id = "cgjsz">709012402</mezo>
-<mezo id = "nev">INOTAL Alumíniumfeldolgozó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">INOTAL AlumÃ­niumfeldolgozÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "atdat">20081231</mezo>
 <mezo id = "valtk">20081231</mezo>
 <mezo id = "valtv">0</mezo>
@@ -938,18 +938,18 @@
 <mezo id = "adosz">14544565207</mezo>
 <mezo id = "kadosz">HU14544565</mezo>
 <mezo id = "bkelt">20110726</mezo>
-<mezo id = "megj">Státusz kezdete: 2008/11/18</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 2008/11/18</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0110">
 <alrovat id = "1">
 <mezo id = "hattol">20081231</mezo>
 <mezo id = "cgjsz">109691683</mezo>
-<mezo id = "nev">ALPUT Vagyonkezelõ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">ALPUT VagyonkezelÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1029</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Botond vezér</mezo>
+<mezo id = "teru">Botond vezÃ©r</mezo>
 <mezo id = "hsz">9</mezo>
 <mezo id = "tagsk">20081231</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -962,11 +962,11 @@
 <alrovat id = "3">
 <mezo id = "hattol">20110325</mezo>
 <mezo id = "cgjsz">0709009740</mezo>
-<mezo id = "nev">Martin Metals Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Martin Metals Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">8000</mezo>
-<mezo id = "hely">Székesfehérvár</mezo>
-<mezo id = "teru">Nagyszombati út 43.</mezo>
+<mezo id = "hely">SzÃ©kesfehÃ©rvÃ¡r</mezo>
+<mezo id = "teru">Nagyszombati Ãºt 43.</mezo>
 <mezo id = "tagsk">20081231</mezo>
 <mezo id = "valtk">20110325</mezo>
 <mezo id = "bkelt">20110330</mezo>
@@ -976,90 +976,90 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2008. 12. 08-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-50. 8104 Várpalota, Fehérvári út 26.<ujsor/>
- A változás idõpontja: 2008. 12. 31.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2008. 12. 08-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+50. 8104 VÃ¡rpalota, FehÃ©rvÃ¡ri Ãºt 26.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 12. 31.<ujsor/>
  Bejegyezve: 2008. 12. 31.<ujsor/>
-3(10). A részvény átruházását az alapító okirat nem korlátozza.<ujsor/>
- A változás idõpontja: 2008. 12. 31.<ujsor/>
+3(10). A rÃ©szvÃ©ny Ã¡truhÃ¡zÃ¡sÃ¡t az alapÃ­tÃ³ okirat nem korlÃ¡tozza.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 12. 31.<ujsor/>
  Bejegyezve: 2008. 12. 31.<ujsor/>
-9(10). Egyszemélyes igazgatóság.<ujsor/>
- A változás idõpontja: 2008. 12. 31.<ujsor/>
+9(10). EgyszemÃ©lyes igazgatÃ³sÃ¡g.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 12. 31.<ujsor/>
  Bejegyezve: 2008. 12. 31.<ujsor/>
-10(10). Részvényfajta: törzsrészvény.<ujsor/>
- Egyezer darab INOTAL Zrt. törzsrészvény, negyvenezer Ft.<ujsor/>
- A változás idõpontja: 2008. 12. 31.<ujsor/>
+10(10). RÃ©szvÃ©nyfajta: tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+ Egyezer darab INOTAL Zrt. tÃ¶rzsrÃ©szvÃ©ny, negyvenezer Ft.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 12. 31.<ujsor/>
  Bejegyezve: 2008. 12. 31.<ujsor/>
 2009. 03. 19.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0710001361</mezo>
-<mezo id = "nev">INOTAL Alumíniumfeldolgozó Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">8000 Székesfehérvár, Radványi utca 16.</mezo>
+<mezo id = "nev">INOTAL AlumÃ­niumfeldolgozÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">8000 SzÃ©kesfehÃ©rvÃ¡r, RadvÃ¡nyi utca 16.</mezo>
 <mezo id = "adosz">14544565207</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2009. 03. 19-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-10(10). Részvényfajta: törzsrészvény.<ujsor/>
- Egyezer darab INOTAL Zrt. törzsrészvény, negyvenezer Ft.<ujsor/>
- A változás idõpontja: 2008. 12. 31.<ujsor/>
- A változás idõpontja (törlés): 2008. 12. 31.<ujsor/>
- Törölve: 2008. 12. 31.<ujsor/>
- Részvényfajta: Törzsrészvény.<ujsor/>
- Egyezer darab INOTAL Zrt. törzsrészvény, négymillió Ft.<ujsor/>
- A változás idõpontja: 2008. 12. 31.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2009. 03. 19-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+10(10). RÃ©szvÃ©nyfajta: tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+ Egyezer darab INOTAL Zrt. tÃ¶rzsrÃ©szvÃ©ny, negyvenezer Ft.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 12. 31.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2008. 12. 31.<ujsor/>
+ TÃ¶rÃ¶lve: 2008. 12. 31.<ujsor/>
+ RÃ©szvÃ©nyfajta: TÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+ Egyezer darab INOTAL Zrt. tÃ¶rzsrÃ©szvÃ©ny, nÃ©gymilliÃ³ Ft.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 12. 31.<ujsor/>
  Bejegyezve: 2008. 12. 31.<ujsor/>
 2009. 03. 25.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0710001361</mezo>
-<mezo id = "nev">INOTAL Alumíniumfeldolgozó Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">8000 Székesfehérvár, Radványi utca 16.</mezo>
+<mezo id = "nev">INOTAL AlumÃ­niumfeldolgozÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">8000 SzÃ©kesfehÃ©rvÃ¡r, RadvÃ¡nyi utca 16.</mezo>
 <mezo id = "adosz">14544565207</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fejér Megyei Bíróság mint Cégbíróság a Cg.07-10-001361 cégjegyzékszámon bejegyzett INOTAL Alumíniumfeldolgozó Zártkörûen Mûködõ Részvénytársaság (8000 Székesfehérvár, Radványi utca 16.; adószáma: 14544565-2-07) kérelme alapján elrendeli az 2010. január 14. napján hozott Cg.07-10-001361 /21. számú végzésének kijavítását az alábbiak szerint:<ujsor/>
-10(10) A részvények száma és névértéke<ujsor/>
-Részvényfajta: Törzsrészvény 1000 db 14768867.-EUR, azaz tizennégymillió-hétszázhatvannyolcezer-nyolcszázhatvanhét egész és 23 század EUR névértékû részvény.<ujsor/>
-Megnevezés: INOTAL Zrt. törzsrészvény<ujsor/>
-Vált. vége: 2010.01.01.<ujsor/>
-Törölve (végzés kelte): 2010. január 28.<ujsor/>
-Részvényfajta: törzsrészvény 1000 db 14768.-EUR, azaz tizennégyezer-hétszázhatvannyolc egész és 8672 tízezred EUR névértékû részvény.<ujsor/>
-Vált. kezdete: 2010.01.01.<ujsor/>
-Bejegyezve (végzés kelte): 2010. január 28.<ujsor/>
-E végzés ellen fellebbezésnek nincs helye, azonban az ügyész, továbbá az, akire a végzés rendelkezést tartalmaz - a rendelkezés õt érintõ részére vonatkozóan - pert indíthat a cég ellen a cég székhelye szerint illetékes megyei bíróság elõtt a bejegyzõ végzés hatályon kívül helyezése iránt.<ujsor/>
-A per megindításának a bejegyzõ végzés Cégközlönyben való közzétételétõl, illetve - közzétételi kötelezettség hiányában - annak kézbesítésétõl számított 30 napon belül van helye. A határidõ elmulasztása jogvesztéssel jár.<ujsor/>
-2010. január 28.<ujsor/>
+<mezo id = "szoveg">A FejÃ©r Megyei BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.07-10-001361 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett INOTAL AlumÃ­niumfeldolgozÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (8000 SzÃ©kesfehÃ©rvÃ¡r, RadvÃ¡nyi utca 16.; adÃ³szÃ¡ma: 14544565-2-07) kÃ©relme alapjÃ¡n elrendeli az 2010. januÃ¡r 14. napjÃ¡n hozott Cg.07-10-001361 /21. szÃ¡mÃº vÃ©gzÃ©sÃ©nek kijavÃ­tÃ¡sÃ¡t az alÃ¡bbiak szerint:<ujsor/>
+10(10) A rÃ©szvÃ©nyek szÃ¡ma Ã©s nÃ©vÃ©rtÃ©ke<ujsor/>
+RÃ©szvÃ©nyfajta: TÃ¶rzsrÃ©szvÃ©ny 1000 db 14768867.-EUR, azaz tizennÃ©gymilliÃ³-hÃ©tszÃ¡zhatvannyolcezer-nyolcszÃ¡zhatvanhÃ©t egÃ©sz Ã©s 23 szÃ¡zad EUR nÃ©vÃ©rtÃ©kÅ± rÃ©szvÃ©ny.<ujsor/>
+MegnevezÃ©s: INOTAL Zrt. tÃ¶rzsrÃ©szvÃ©ny<ujsor/>
+VÃ¡lt. vÃ©ge: 2010.01.01.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2010. januÃ¡r 28.<ujsor/>
+RÃ©szvÃ©nyfajta: tÃ¶rzsrÃ©szvÃ©ny 1000 db 14768.-EUR, azaz tizennÃ©gyezer-hÃ©tszÃ¡zhatvannyolc egÃ©sz Ã©s 8672 tÃ­zezred EUR nÃ©vÃ©rtÃ©kÅ± rÃ©szvÃ©ny.<ujsor/>
+VÃ¡lt. kezdete: 2010.01.01.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2010. januÃ¡r 28.<ujsor/>
+E vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye, azonban az Ã¼gyÃ©sz, tovÃ¡bbÃ¡ az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s Å‘t Ã©rintÅ‘ rÃ©szÃ©re vonatkozÃ³an - pert indÃ­that a cÃ©g ellen a cÃ©g szÃ©khelye szerint illetÃ©kes megyei bÃ­rÃ³sÃ¡g elÅ‘tt a bejegyzÅ‘ vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt.<ujsor/>
+A per megindÃ­tÃ¡sÃ¡nak a bejegyzÅ‘ vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l, illetve - kÃ¶zzÃ©tÃ©teli kÃ¶telezettsÃ©g hiÃ¡nyÃ¡ban - annak kÃ©zbesÃ­tÃ©sÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l van helye. A hatÃ¡ridÅ‘ elmulasztÃ¡sa jogvesztÃ©ssel jÃ¡r.<ujsor/>
+2010. januÃ¡r 28.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0710001361</mezo>
-<mezo id = "nev">INOTAL Alumíniumfeldolgozó Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">8000 Székesfehérvár, Radványi utca 16.</mezo>
+<mezo id = "nev">INOTAL AlumÃ­niumfeldolgozÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">8000 SzÃ©kesfehÃ©rvÃ¡r, RadvÃ¡nyi utca 16.</mezo>
 <mezo id = "adosz">14544565207</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fejér Megyei Bíróság mint Cégbíróság a Cg.07-10-001361 cégjegyzékszámon bejegyzett INOTAL Alumíniumfeldolgozó Zártkörûen Mûködõ Részvénytársaság (8000 Székesfehérvár, Radványi utca 16.; adószáma: 14544565-2-07) kérelme alapján elrendeli az 2010. január 14. napján hozott Cg.07-10-001361 /21. számú végzésének kiegészítését az alábbiak szerint:<ujsor/>
-8. A létesítõ okirat kelte<ujsor/>
+<mezo id = "szoveg">A FejÃ©r Megyei BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.07-10-001361 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett INOTAL AlumÃ­niumfeldolgozÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (8000 SzÃ©kesfehÃ©rvÃ¡r, RadvÃ¡nyi utca 16.; adÃ³szÃ¡ma: 14544565-2-07) kÃ©relme alapjÃ¡n elrendeli az 2010. januÃ¡r 14. napjÃ¡n hozott Cg.07-10-001361 /21. szÃ¡mÃº vÃ©gzÃ©sÃ©nek kiegÃ©szÃ­tÃ©sÃ©t az alÃ¡bbiak szerint:<ujsor/>
+8. A lÃ©tesÃ­tÅ‘ okirat kelte<ujsor/>
 2010.04.20<ujsor/>
-Bejegyezve (végzés kelte): 2010. július 16.<ujsor/>
-13. A képviseletre jogosult(ak) adatai<ujsor/>
-A képviselet módja: együttes.<ujsor/>
-Adóazonosító jel: 8412920619<ujsor/>
-Salamon András más munkavállaló (an.: Bonevácz Margit)<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2010. jÃºlius 16.<ujsor/>
+13. A kÃ©pviseletre jogosult(ak) adatai<ujsor/>
+A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+AdÃ³azonosÃ­tÃ³ jel: 8412920619<ujsor/>
+Salamon AndrÃ¡s mÃ¡s munkavÃ¡llalÃ³ (an.: BonevÃ¡cz Margit)<ujsor/>
 Jogv. kezdete: 2008.12.31.<ujsor/>
-Vált. kezdete: 2009.12.31.<ujsor/>
-Bejegyezve (végzés kelte): 2010. július 16.<ujsor/>
-A cégjegyzék 8-as rovata a módosítások és nem az egységes szerkezetbe foglalás idõpontját kell hogy tartalmazza. A kettõ nem kell, hogy egybeessen, utóbbi dátum lehet késõbbi is, de az nem része a cégjegyzéknek.<ujsor/>
-E végzés ellen fellebbezésnek nincs helye, azonban az ügyész, továbbá az, akire a végzés rendelkezést tartalmaz - a rendelkezés õt érintõ részére vonatkozóan - pert indíthat a cég ellen a cég székhelye szerint illetékes megyei bíróság elõtt a bejegyzõ végzés hatályon kívül helyezése iránt.<ujsor/>
-A per megindításának a bejegyzõ végzés Cégközlönyben való közzétételétõl, illetve - közzétételi kötelezettség hiányában - annak kézbesítésétõl számított 30 napon belül van helye. A határidõ elmulasztása jogvesztéssel jár.<ujsor/>
-2010. július 16.<ujsor/>
+VÃ¡lt. kezdete: 2009.12.31.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2010. jÃºlius 16.<ujsor/>
+A cÃ©gjegyzÃ©k 8-as rovata a mÃ³dosÃ­tÃ¡sok Ã©s nem az egysÃ©ges szerkezetbe foglalÃ¡s idÅ‘pontjÃ¡t kell hogy tartalmazza. A kettÅ‘ nem kell, hogy egybeessen, utÃ³bbi dÃ¡tum lehet kÃ©sÅ‘bbi is, de az nem rÃ©sze a cÃ©gjegyzÃ©knek.<ujsor/>
+E vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye, azonban az Ã¼gyÃ©sz, tovÃ¡bbÃ¡ az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s Å‘t Ã©rintÅ‘ rÃ©szÃ©re vonatkozÃ³an - pert indÃ­that a cÃ©g ellen a cÃ©g szÃ©khelye szerint illetÃ©kes megyei bÃ­rÃ³sÃ¡g elÅ‘tt a bejegyzÅ‘ vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt.<ujsor/>
+A per megindÃ­tÃ¡sÃ¡nak a bejegyzÅ‘ vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l, illetve - kÃ¶zzÃ©tÃ©teli kÃ¶telezettsÃ©g hiÃ¡nyÃ¡ban - annak kÃ©zbesÃ­tÃ©sÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l van helye. A hatÃ¡ridÅ‘ elmulasztÃ¡sa jogvesztÃ©ssel jÃ¡r.<ujsor/>
+2010. jÃºlius 16.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0710001361</mezo>
-<mezo id = "nev">INOTAL Alumíniumfeldolgozó Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">8000 Székesfehérvár, Radványi utca 16.</mezo>
+<mezo id = "nev">INOTAL AlumÃ­niumfeldolgozÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">8000 SzÃ©kesfehÃ©rvÃ¡r, RadvÃ¡nyi utca 16.</mezo>
 <mezo id = "adosz">14544565207</mezo>
 </alrovat>
 </rovat>

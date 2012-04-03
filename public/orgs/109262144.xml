@@ -5,18 +5,18 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">262144</mezo>
 <mezo id = "nevalrovat">3</mezo>
-<mezo id = "cim">1116 Budapest, Fehérvári út 120. </mezo>
+<mezo id = "cim">1116 Budapest, FehÃ©rvÃ¡ri Ãºt 120. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">10828601243</mezo>
 </alrovat>
 </rovat>
 <rovat id = "2">
 <alrovat id = "2">
-<mezo id = "nev">DONAU LAB Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">DONAU LAB Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">19950515</mezo>
-<mezo id = "nev">DONAU LAB Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">DONAU LAB Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -30,7 +30,7 @@
 <mezo id = "hattol">20110503</mezo>
 <mezo id = "irsz">1116</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Fehérvári út 120.</mezo>
+<mezo id = "teru">FehÃ©rvÃ¡ri Ãºt 120.</mezo>
 <mezo id = "valtk">20110503</mezo>
 <mezo id = "bkelt">20110505</mezo>
 </alrovat>
@@ -329,8 +329,8 @@
 <rovat id = "13">
 <alrovat id = "7">
 <mezo id = "hattol">20091201</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Papp József</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Papp JÃ³zsef</mezo>
 <mezo id = "panev">Nagy Ilona</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20081210</mezo>
@@ -342,13 +342,13 @@
 <alrovat id = "3">
 <mezo id = "hattol">20091201</mezo>
 <mezo id = "cgjsz">1909503612</mezo>
-<mezo id = "nev">STRAUDIT Könyvvizsgáló és Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">STRAUDIT KÃ¶nyvvizsgÃ¡lÃ³ Ã©s TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">8200</mezo>
-<mezo id = "hely">Veszprém</mezo>
-<mezo id = "teru">Muskátli utca 6.</mezo>
-<mezo id = "pnev">Németh Ágnes</mezo>
-<mezo id = "panev">Alézi Margit</mezo>
+<mezo id = "hely">VeszprÃ©m</mezo>
+<mezo id = "teru">MuskÃ¡tli utca 6.</mezo>
+<mezo id = "pnev">NÃ©meth Ãgnes</mezo>
+<mezo id = "panev">AlÃ©zi Margit</mezo>
 <mezo id = "jogvk">20091202</mezo>
 <mezo id = "jogvv">20140531</mezo>
 <mezo id = "valtk">20091201</mezo>
@@ -386,11 +386,11 @@
 <mezo id = "hely">Dietikon</mezo>
 <mezo id = "teru">Bernstrasse</mezo>
 <mezo id = "hsz">380</mezo>
-<mezo id = "pcnev">Rosonczy Ügyvédi Iroda</mezo>
+<mezo id = "pcnev">Rosonczy ÃœgyvÃ©di Iroda</mezo>
 <mezo id = "pcanev">0</mezo>
 <mezo id = "pcirsz">1136</mezo>
 <mezo id = "pchely">Budapest</mezo>
-<mezo id = "pcteru">Pannónia</mezo>
+<mezo id = "pcteru">PannÃ³nia</mezo>
 <mezo id = "pchsz">36.</mezo>
 <mezo id = "pckirsz">0</mezo>
 <mezo id = "tagsk">20011009</mezo>
@@ -399,7 +399,7 @@
 <mezo id = "valtk">20090109</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "knytsz">CH-020.3.906.970-3</mezo>
-<mezo id = "knyh">Handelsregisteramt Kanton Zürich, 8022 Zürich, Bleichweg 5</mezo>
+<mezo id = "knyh">Handelsregisteramt Kanton ZÃ¼rich, 8022 ZÃ¼rich, Bleichweg 5</mezo>
 <mezo id = "bkelt">20090119</mezo>
 <mezo id = "tkelt">0</mezo>
 </alrovat>
@@ -413,11 +413,11 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A DONAU LAB AG (Zürich Kanton cégjegyzékébe a CH-020.-3.906.970-3 számon bejegyzett svájci cég; székhelye: CH-8953 Dietikon, Bernstrasse 380.) közzéteszi, hogy a DONAU LAB Kereskedelmi és Korlátolt Felelõsségû Társaságban (1021 Budapest, Budakeszi út 55/D-P/8. mfszt. 3-4. Cg.: [01 09 262144]) 2001. október 9-én az üzletrészek 100%-ának megszerzésével közvetlen irányítást biztosító befolyást szerzett.<ujsor/>
-A hitelezõk a Gt. 296. § (2) bekezdése szerinti jogaikkal élhetnek.<ujsor/>
+<mezo id = "szoveg">A DONAU LAB AG (ZÃ¼rich Kanton cÃ©gjegyzÃ©kÃ©be a CH-020.-3.906.970-3 szÃ¡mon bejegyzett svÃ¡jci cÃ©g; szÃ©khelye: CH-8953 Dietikon, Bernstrasse 380.) kÃ¶zzÃ©teszi, hogy a DONAU LAB Kereskedelmi Ã©s KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gban (1021 Budapest, Budakeszi Ãºt 55/D-P/8. mfszt. 3-4. Cg.: [01 09 262144]) 2001. oktÃ³ber 9-Ã©n az Ã¼zletrÃ©szek 100%-Ã¡nak megszerzÃ©sÃ©vel kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡st szerzett.<ujsor/>
+A hitelezÅ‘k a Gt. 296. Â§ (2) bekezdÃ©se szerinti jogaikkal Ã©lhetnek.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109262144</mezo>
-<mezo id = "nev">DONAU LAB Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">DONAU LAB Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "99017">

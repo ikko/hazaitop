@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">133031</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">2318 Szigetszenmárton, Erdõsor utca 102. </mezo>
+<mezo id = "cim">2318 SzigetszenmÃ¡rton, ErdÅ‘sor utca 102. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">14978155213</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20091120</mezo>
-<mezo id = "nev">Gastro - Virtus Vendéglátóipari Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Gastro - Virtus VendÃ©glÃ¡tÃ³ipari KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">20091120</mezo>
 </alrovat>
 </rovat>
@@ -28,8 +28,8 @@
 <alrovat id = "1">
 <mezo id = "hattol">20091120</mezo>
 <mezo id = "irsz">2318</mezo>
-<mezo id = "hely">Szigetszenmárton</mezo>
-<mezo id = "teru">Erdõsor utca 102.</mezo>
+<mezo id = "hely">SzigetszenmÃ¡rton</mezo>
+<mezo id = "teru">ErdÅ‘sor utca 102.</mezo>
 <mezo id = "valtk">20091120</mezo>
 </alrovat>
 </rovat>
@@ -37,8 +37,8 @@
 <alrovat id = "1">
 <mezo id = "hattol">20091120</mezo>
 <mezo id = "irsz">2454</mezo>
-<mezo id = "hely">Iváncsa</mezo>
-<mezo id = "teru">Arany János utca 1.</mezo>
+<mezo id = "hely">IvÃ¡ncsa</mezo>
+<mezo id = "teru">Arany JÃ¡nos utca 1.</mezo>
 <mezo id = "orsz">HU</mezo>
 </alrovat>
 </rovat>
@@ -52,27 +52,27 @@
 <alrovat id = "1">
 <mezo id = "hattol">20091120</mezo>
 <mezo id = "valtk">20091120</mezo>
-<mezo id = "teaszov">Élelmiszer jellegû bolti kiskereskedelem</mezo>
+<mezo id = "teaszov">Ã‰lelmiszer jellegÅ± bolti kiskereskedelem</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20091120</mezo>
 <mezo id = "valtk">20091120</mezo>
-<mezo id = "teaszov">Éttermi, mozgó vendéglátás</mezo>
+<mezo id = "teaszov">Ã‰ttermi, mozgÃ³ vendÃ©glÃ¡tÃ¡s</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20091120</mezo>
 <mezo id = "valtk">20091120</mezo>
-<mezo id = "teaszov">Iparcikk jellegû bolti vegyes kiskereskedelem</mezo>
+<mezo id = "teaszov">Iparcikk jellegÅ± bolti vegyes kiskereskedelem</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20091120</mezo>
 <mezo id = "valtk">20091120</mezo>
-<mezo id = "teaszov">Zöldség, gyümölcs kiskereskedelme</mezo>
+<mezo id = "teaszov">ZÃ¶ldsÃ©g, gyÃ¼mÃ¶lcs kiskereskedelme</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20091120</mezo>
 <mezo id = "valtk">20091120</mezo>
-<mezo id = "teaszov">Hús, húsárú kiskereskedelme</mezo>
+<mezo id = "teaszov">HÃºs, hÃºsÃ¡rÃº kiskereskedelme</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20091120</mezo>
@@ -82,7 +82,7 @@
 <alrovat id = "7">
 <mezo id = "hattol">20091120</mezo>
 <mezo id = "valtk">20091120</mezo>
-<mezo id = "teaszov">Kenyér, pékárú, édesség kiskereskedelem</mezo>
+<mezo id = "teaszov">KenyÃ©r, pÃ©kÃ¡rÃº, Ã©dessÃ©g kiskereskedelem</mezo>
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">20091120</mezo>
@@ -92,12 +92,12 @@
 <alrovat id = "9">
 <mezo id = "hattol">20091120</mezo>
 <mezo id = "valtk">20091120</mezo>
-<mezo id = "teaszov">Dohányárú kiskereskedelem</mezo>
+<mezo id = "teaszov">DohÃ¡nyÃ¡rÃº kiskereskedelem</mezo>
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">20091120</mezo>
 <mezo id = "valtk">20091120</mezo>
-<mezo id = "teaszov">Egyéb élelmiszer kiskereskedelem</mezo>
+<mezo id = "teaszov">EgyÃ©b Ã©lelmiszer kiskereskedelem</mezo>
 </alrovat>
 <alrovat id = "11">
 <mezo id = "hattol">20091120</mezo>
@@ -107,47 +107,47 @@
 <alrovat id = "12">
 <mezo id = "hattol">20091120</mezo>
 <mezo id = "valtk">20091120</mezo>
-<mezo id = "teaszov">Vasárú, festék üveg kiskereskedelem</mezo>
+<mezo id = "teaszov">VasÃ¡rÃº, festÃ©k Ã¼veg kiskereskedelem</mezo>
 </alrovat>
 <alrovat id = "13">
 <mezo id = "hattol">20091120</mezo>
 <mezo id = "valtk">20091120</mezo>
-<mezo id = "teaszov">Takaró, szõnyeg, fal, padlóburkoló kiskereskedelme</mezo>
+<mezo id = "teaszov">TakarÃ³, szÅ‘nyeg, fal, padlÃ³burkolÃ³ kiskereskedelme</mezo>
 </alrovat>
 <alrovat id = "14">
 <mezo id = "hattol">20091120</mezo>
 <mezo id = "valtk">20091120</mezo>
-<mezo id = "teaszov">Villamos háztartási készülék kiskereskedelme</mezo>
+<mezo id = "teaszov">Villamos hÃ¡ztartÃ¡si kÃ©szÃ¼lÃ©k kiskereskedelme</mezo>
 </alrovat>
 <alrovat id = "15">
 <mezo id = "hattol">20091120</mezo>
 <mezo id = "valtk">20091120</mezo>
-<mezo id = "teaszov">Bútor, világítási eszköz, egyéb háztartási cikk kiskereskedelme</mezo>
+<mezo id = "teaszov">BÃºtor, vilÃ¡gÃ­tÃ¡si eszkÃ¶z, egyÃ©b hÃ¡ztartÃ¡si cikk kiskereskedelme</mezo>
 </alrovat>
 <alrovat id = "16">
 <mezo id = "hattol">20091120</mezo>
 <mezo id = "valtk">20091120</mezo>
-<mezo id = "teaszov">Könyv kiskereskedelem</mezo>
+<mezo id = "teaszov">KÃ¶nyv kiskereskedelem</mezo>
 </alrovat>
 <alrovat id = "17">
 <mezo id = "hattol">20091120</mezo>
 <mezo id = "valtk">20091120</mezo>
-<mezo id = "teaszov">Újság, papírárú kiskereskedelem</mezo>
+<mezo id = "teaszov">ÃšjsÃ¡g, papÃ­rÃ¡rÃº kiskereskedelem</mezo>
 </alrovat>
 <alrovat id = "18">
 <mezo id = "hattol">20091120</mezo>
 <mezo id = "valtk">20091120</mezo>
-<mezo id = "teaszov">Ruházat kiskereskedelem</mezo>
+<mezo id = "teaszov">RuhÃ¡zat kiskereskedelem</mezo>
 </alrovat>
 <alrovat id = "19">
 <mezo id = "hattol">20091120</mezo>
 <mezo id = "valtk">20091120</mezo>
-<mezo id = "teaszov">Lábbeli, bõrárú kiskereskedelme</mezo>
+<mezo id = "teaszov">LÃ¡bbeli, bÅ‘rÃ¡rÃº kiskereskedelme</mezo>
 </alrovat>
 <alrovat id = "20">
 <mezo id = "hattol">20091120</mezo>
 <mezo id = "valtk">20091120</mezo>
-<mezo id = "teaszov">Gyógyszer kiskereskedelem</mezo>
+<mezo id = "teaszov">GyÃ³gyszer kiskereskedelem</mezo>
 </alrovat>
 <alrovat id = "21">
 <mezo id = "hattol">20091120</mezo>
@@ -157,62 +157,62 @@
 <alrovat id = "22">
 <mezo id = "hattol">20091120</mezo>
 <mezo id = "valtk">20091120</mezo>
-<mezo id = "teaszov">Egyéb, máshová nem sorolt új árú kiskereskedelme</mezo>
+<mezo id = "teaszov">EgyÃ©b, mÃ¡shovÃ¡ nem sorolt Ãºj Ã¡rÃº kiskereskedelme</mezo>
 </alrovat>
 <alrovat id = "23">
 <mezo id = "hattol">20091120</mezo>
 <mezo id = "valtk">20091120</mezo>
-<mezo id = "teaszov">Használtcikk bolti kiskereskdelme</mezo>
+<mezo id = "teaszov">HasznÃ¡ltcikk bolti kiskereskdelme</mezo>
 </alrovat>
 <alrovat id = "24">
 <mezo id = "hattol">20091120</mezo>
 <mezo id = "valtk">20091120</mezo>
-<mezo id = "teaszov">Közúti árúszállítás</mezo>
+<mezo id = "teaszov">KÃ¶zÃºti Ã¡rÃºszÃ¡llÃ­tÃ¡s</mezo>
 </alrovat>
 <alrovat id = "25">
 <mezo id = "hattol">20091120</mezo>
 <mezo id = "valtk">20091120</mezo>
-<mezo id = "teaszov">Szállodai szolgáltatás</mezo>
+<mezo id = "teaszov">SzÃ¡llodai szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "26">
 <mezo id = "hattol">20091120</mezo>
 <mezo id = "valtk">20091120</mezo>
-<mezo id = "teaszov">Üdülési, egyéb átmeneti szálláshely szolgáltatás</mezo>
+<mezo id = "teaszov">ÃœdÃ¼lÃ©si, egyÃ©b Ã¡tmeneti szÃ¡llÃ¡shely szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "27">
 <mezo id = "hattol">20091120</mezo>
 <mezo id = "valtk">20091120</mezo>
-<mezo id = "teaszov">Kempingszolgáltatás</mezo>
+<mezo id = "teaszov">KempingszolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "28">
 <mezo id = "hattol">20091120</mezo>
 <mezo id = "valtk">20091120</mezo>
-<mezo id = "teaszov">Egyéb szálláshely szolgáltatás</mezo>
+<mezo id = "teaszov">EgyÃ©b szÃ¡llÃ¡shely szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "29">
 <mezo id = "hattol">20091120</mezo>
 <mezo id = "valtk">20091120</mezo>
-<mezo id = "teaszov">Rendezvényi étkeztetés</mezo>
+<mezo id = "teaszov">RendezvÃ©nyi Ã©tkeztetÃ©s</mezo>
 </alrovat>
 <alrovat id = "30">
 <mezo id = "hattol">20091120</mezo>
 <mezo id = "valtk">20091120</mezo>
-<mezo id = "teaszov">Egyéb vendéglátás</mezo>
+<mezo id = "teaszov">EgyÃ©b vendÃ©glÃ¡tÃ¡s</mezo>
 </alrovat>
 <alrovat id = "31">
 <mezo id = "hattol">20091120</mezo>
 <mezo id = "valtk">20091120</mezo>
-<mezo id = "teaszov">Italszolgáltatás</mezo>
+<mezo id = "teaszov">ItalszolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "32">
 <mezo id = "hattol">20091120</mezo>
 <mezo id = "valtk">20091120</mezo>
-<mezo id = "teaszov">Saját tulajdonú, bérelt ingatlan hasznosítása</mezo>
+<mezo id = "teaszov">SajÃ¡t tulajdonÃº, bÃ©relt ingatlan hasznosÃ­tÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "33">
 <mezo id = "hattol">20091120</mezo>
 <mezo id = "valtk">20091120</mezo>
-<mezo id = "teaszov">Máshova nem sorolt, egyéb kiegészítõ üzleti szolgáltatás</mezo>
+<mezo id = "teaszov">MÃ¡shova nem sorolt, egyÃ©b kiegÃ©szÃ­tÅ‘ Ã¼zleti szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -228,12 +228,12 @@
 <rovat id = "13">
 <alrovat id = "1">
 <mezo id = "hattol">20091120</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (üzletvezetésre jogosult tag)</mezo>
-<mezo id = "pnev">Nyilasné Barta Magdolna</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼zletvezetÃ©sre jogosult tag)</mezo>
+<mezo id = "pnev">NyilasnÃ© Barta Magdolna</mezo>
 <mezo id = "panev">Lehoczki Magdolna</mezo>
 <mezo id = "pirsz">2318</mezo>
-<mezo id = "phely">Szigetszentmárton</mezo>
-<mezo id = "pteru">Erdõsor utca 100.</mezo>
+<mezo id = "phely">SzigetszentmÃ¡rton</mezo>
+<mezo id = "pteru">ErdÅ‘sor utca 100.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20091120</mezo>
 <mezo id = "valtk">20091120</mezo>
@@ -243,7 +243,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20091120</mezo>
 <mezo id = "cgjsz">1309107953</mezo>
-<mezo id = "nev">Nyilas-Gastro Vendéglátóipari Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Nyilas-Gastro VendÃ©glÃ¡tÃ³ipari KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">20091120</mezo>
 </alrovat>
 </rovat>
@@ -264,22 +264,22 @@
 <rovat id = "0109">
 <alrovat id = "1">
 <mezo id = "hattol">20091120</mezo>
-<mezo id = "pnev">Nyilasné Barta Magdolna</mezo>
+<mezo id = "pnev">NyilasnÃ© Barta Magdolna</mezo>
 <mezo id = "panev">Lehoczki Magdolna</mezo>
 <mezo id = "pirsz">2318</mezo>
-<mezo id = "phely">Szigetszentmárton</mezo>
-<mezo id = "pteru">Erdõsor utca 100.</mezo>
+<mezo id = "phely">SzigetszentmÃ¡rton</mezo>
+<mezo id = "pteru">ErdÅ‘sor utca 100.</mezo>
 <mezo id = "tagsk">20091120</mezo>
 <mezo id = "sz2">x</mezo>
 <mezo id = "valtk">20091120</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20091120</mezo>
-<mezo id = "pnev">Nyilas Dóra Magdolna</mezo>
+<mezo id = "pnev">Nyilas DÃ³ra Magdolna</mezo>
 <mezo id = "panev">Barta Magdolna</mezo>
 <mezo id = "pirsz">2318</mezo>
-<mezo id = "phely">Szigetszentmárton</mezo>
-<mezo id = "pteru">Erdõsor utca 100.</mezo>
+<mezo id = "phely">SzigetszentmÃ¡rton</mezo>
+<mezo id = "pteru">ErdÅ‘sor utca 100.</mezo>
 <mezo id = "tagsk">20091120</mezo>
 <mezo id = "valtk">20091120</mezo>
 </alrovat>

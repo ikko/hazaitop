@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">072176</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">7900 Szigetvár, Deák Ferenc tér 16. </mezo>
+<mezo id = "cim">7900 SzigetvÃ¡r, DeÃ¡k Ferenc tÃ©r 16. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">14208184202</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20080327</mezo>
-<mezo id = "nev">DDHG Dél-Dunántúli Hulladékgazdálkodási Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">DDHG DÃ©l-DunÃ¡ntÃºli HulladÃ©kgazdÃ¡lkodÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20080327</mezo>
@@ -34,8 +34,8 @@
 <alrovat id = "2">
 <mezo id = "hattol">20100116</mezo>
 <mezo id = "irsz">7900</mezo>
-<mezo id = "hely">Szigetvár</mezo>
-<mezo id = "teru">Deák Ferenc tér 16.</mezo>
+<mezo id = "hely">SzigetvÃ¡r</mezo>
+<mezo id = "teru">DeÃ¡k Ferenc tÃ©r 16.</mezo>
 <mezo id = "valtk">20100116</mezo>
 <mezo id = "bkelt">20100209</mezo>
 </alrovat>
@@ -456,7 +456,7 @@
 <mezo id = "hattol">20090928</mezo>
 <mezo id = "valtk">20090928</mezo>
 <mezo id = "bkelt">20091009</mezo>
-<mezo id = "teaszov">Nem veszélyes hulladék gyûjtése</mezo>
+<mezo id = "teaszov">Nem veszÃ©lyes hulladÃ©k gyÅ±jtÃ©se</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -473,9 +473,9 @@
 <rovat id = "13">
 <alrovat id = "3">
 <mezo id = "hattol">20100101</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Papp Béla</mezo>
-<mezo id = "panev">Dékány Mária</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Papp BÃ©la</mezo>
+<mezo id = "panev">DÃ©kÃ¡ny MÃ¡ria</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20090928</mezo>
 <mezo id = "valtk">20100101</mezo>
@@ -488,13 +488,13 @@
 <mezo id = "cgjsz">0209074475</mezo>
 <mezo id = "nev">MKISS-Audit Kft.</mezo>
 <mezo id = "irsz">7633</mezo>
-<mezo id = "hely">Pécs</mezo>
-<mezo id = "teru">Ybl Miklós utca 6. fszt 2.</mezo>
-<mezo id = "pnev">Fehérné Kiss Katalin</mezo>
-<mezo id = "panev">Illés Mária</mezo>
+<mezo id = "hely">PÃ©cs</mezo>
+<mezo id = "teru">Ybl MiklÃ³s utca 6. fszt 2.</mezo>
+<mezo id = "pnev">FehÃ©rnÃ© Kiss Katalin</mezo>
+<mezo id = "panev">IllÃ©s MÃ¡ria</mezo>
 <mezo id = "pirsz">7624</mezo>
-<mezo id = "phely">Pécs</mezo>
-<mezo id = "pteru">Báthory utca 20.</mezo>
+<mezo id = "phely">PÃ©cs</mezo>
+<mezo id = "pteru">BÃ¡thory utca 20.</mezo>
 <mezo id = "jogvk">20110901</mezo>
 <mezo id = "jogvv">20130531</mezo>
 <mezo id = "valtk">20110901</mezo>
@@ -505,7 +505,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20080327</mezo>
 <mezo id = "cgjsz">209066757</mezo>
-<mezo id = "nev">&quot;DDMHG&quot; Duna- Dráva menti Hulladékgazdálkodási Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">&quot;DDMHG&quot; Duna- DrÃ¡va menti HulladÃ©kgazdÃ¡lkodÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "atdat">0</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
@@ -527,18 +527,18 @@
 <alrovat id = "3">
 <mezo id = "adosz">14208184202</mezo>
 <mezo id = "bkelt">20111012</mezo>
-<mezo id = "megj">Státusz kezdete: 2008/02/08</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 2008/02/08</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0109">
 <alrovat id = "2">
 <mezo id = "hattol">20100101</mezo>
 <mezo id = "cgjsz">0209064556</mezo>
-<mezo id = "nev">&quot;Dél-Kom&quot; Dél-Dunántúli Kommunális Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">&quot;DÃ©l-Kom&quot; DÃ©l-DunÃ¡ntÃºli KommunÃ¡lis SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">7632</mezo>
-<mezo id = "hely">Pécs</mezo>
-<mezo id = "teru">Siklósi út 52.</mezo>
+<mezo id = "hely">PÃ©cs</mezo>
+<mezo id = "teru">SiklÃ³si Ãºt 52.</mezo>
 <mezo id = "tagsk">20080401</mezo>
 <mezo id = "valtk">20100101</mezo>
 <mezo id = "bkelt">20100209</mezo>
@@ -548,52 +548,52 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2008. 03. 27-én hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2008. 03. 27-Ã©n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
 09. 7713&apos;08.<ujsor/>
- A változás idõpontja: 2008. 03. 19.<ujsor/>
- A változás idõpontja (törlés): 2008. 03. 27.<ujsor/>
- Törölve: 2008. 03. 27.<ujsor/>
- Gépjármûkölcsönzés (3,5 tonna fölött).<ujsor/>
- A változás idõpontja: 2008. 03. 27.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 03. 19.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2008. 03. 27.<ujsor/>
+ TÃ¶rÃ¶lve: 2008. 03. 27.<ujsor/>
+ GÃ©pjÃ¡rmÅ±kÃ¶lcsÃ¶nzÃ©s (3,5 tonna fÃ¶lÃ¶tt).<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 03. 27.<ujsor/>
  Bejegyezve: 2008. 03. 27.<ujsor/>
 2009. 04. 01.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0209072176</mezo>
-<mezo id = "nev">DDHG Dél-Dunántúli Hulladékgazdálkodási Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">7900 Szigetvár, Szabadság utca 14.</mezo>
+<mezo id = "nev">DDHG DÃ©l-DunÃ¡ntÃºli HulladÃ©kgazdÃ¡lkodÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">7900 SzigetvÃ¡r, SzabadsÃ¡g utca 14.</mezo>
 <mezo id = "adosz">14208184202</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Baranya Megyei Bíróság, mint Cégbíróság által nyilvántartott DDHG Dél-Dunántúli Hulladékgazdálkodási Korlátolt Felelõsségû Társaság (Cg.: [02 09 072176]; székhelye: 7900 Szigetvár, Deák Ferenc tér 16.) egyedüli tulajdonosa 2011. január 20-án a társaság törzstõkéjének leszállításáról határozott.<ujsor/>
-A törzstõke-leszállítás módja: veszteségrendezés.<ujsor/>
-A törzstõke leszállítás elõtti mértéke: 27 500 000 Ft.<ujsor/>
-A leszállított törzstõke mértéke: 3 000 000 Ft.<ujsor/>
-Az egyszemélyes kft. tagja, a Dél-Kom Kft. törzsbetétjének nagysága a tõkeleszállítás után: 3 000 000 Ft.<ujsor/>
-A társaság egyidejûleg felhívja a hitelezõit, hogy a hirdetmény elsõ alkalommal történt közzétételét megelõzõen keletkezett és ezen idõpontig esedékessé nem vált követeléseik után biztosítékra tarthatnak igényt, és ez iránti igényüket a hirdetmény második közzétételétõl számított 30 napon belül a társaság székhelyére (7900 Szigetvár, Deák Ferenc tér 16.) jelentsék be.<ujsor/>
-Nem jogosult biztosítékra a hitelezõ, ha a törzstõke-leszállításhoz kapcsolódó kockázattal arányos biztosítékkal ­ jogszabály rendelkezése vagy szerzõdés alapján ­ már rendelkezik, vagy ha a társaság pénzügyi, vagyoni helyzetére figyelemmel a biztosítékadás indokolatlan.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">A Baranya Megyei BÃ­rÃ³sÃ¡g, mint CÃ©gbÃ­rÃ³sÃ¡g Ã¡ltal nyilvÃ¡ntartott DDHG DÃ©l-DunÃ¡ntÃºli HulladÃ©kgazdÃ¡lkodÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [02 09 072176]; szÃ©khelye: 7900 SzigetvÃ¡r, DeÃ¡k Ferenc tÃ©r 16.) egyedÃ¼li tulajdonosa 2011. januÃ¡r 20-Ã¡n a tÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©jÃ©nek leszÃ¡llÃ­tÃ¡sÃ¡rÃ³l hatÃ¡rozott.<ujsor/>
+A tÃ¶rzstÅ‘ke-leszÃ¡llÃ­tÃ¡s mÃ³dja: vesztesÃ©grendezÃ©s.<ujsor/>
+A tÃ¶rzstÅ‘ke leszÃ¡llÃ­tÃ¡s elÅ‘tti mÃ©rtÃ©ke: 27 500 000 Ft.<ujsor/>
+A leszÃ¡llÃ­tott tÃ¶rzstÅ‘ke mÃ©rtÃ©ke: 3 000 000 Ft.<ujsor/>
+Az egyszemÃ©lyes kft. tagja, a DÃ©l-Kom Kft. tÃ¶rzsbetÃ©tjÃ©nek nagysÃ¡ga a tÅ‘keleszÃ¡llÃ­tÃ¡s utÃ¡n: 3 000 000 Ft.<ujsor/>
+A tÃ¡rsasÃ¡g egyidejÅ±leg felhÃ­vja a hitelezÅ‘it, hogy a hirdetmÃ©ny elsÅ‘ alkalommal tÃ¶rtÃ©nt kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkezett Ã©s ezen idÅ‘pontig esedÃ©kessÃ© nem vÃ¡lt kÃ¶vetelÃ©seik utÃ¡n biztosÃ­tÃ©kra tarthatnak igÃ©nyt, Ã©s ez irÃ¡nti igÃ©nyÃ¼ket a hirdetmÃ©ny mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l a tÃ¡rsasÃ¡g szÃ©khelyÃ©re (7900 SzigetvÃ¡r, DeÃ¡k Ferenc tÃ©r 16.) jelentsÃ©k be.<ujsor/>
+Nem jogosult biztosÃ­tÃ©kra a hitelezÅ‘, ha a tÃ¶rzstÅ‘ke-leszÃ¡llÃ­tÃ¡shoz kapcsolÃ³dÃ³ kockÃ¡zattal arÃ¡nyos biztosÃ­tÃ©kkal Â­ jogszabÃ¡ly rendelkezÃ©se vagy szerzÅ‘dÃ©s alapjÃ¡n Â­ mÃ¡r rendelkezik, vagy ha a tÃ¡rsasÃ¡g pÃ©nzÃ¼gyi, vagyoni helyzetÃ©re figyelemmel a biztosÃ­tÃ©kadÃ¡s indokolatlan.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0209072176</mezo>
-<mezo id = "nev">DDHG Dél-Dunántúli Hulladékgazdálkodási Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">7900 Szigetvár</mezo>
+<mezo id = "nev">DDHG DÃ©l-DunÃ¡ntÃºli HulladÃ©kgazdÃ¡lkodÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">7900 SzigetvÃ¡r</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Baranya Megyei Bíróság, mint Cégbíróság által nyilvántartott DDHG Dél-Dunántúli Hulladékgazdálkodási Korlátolt Felelõsségû Társaság (Cg.: [02 09 072176]; székhelye: 7900 Szigetvár, Deák Ferenc tér 16.) egyedüli tulajdonosa 2011. január 20-án a társaság törzstõkéjének leszállításáról határozott.<ujsor/>
-A törzstõke-leszállítás módja: veszteségrendezés.<ujsor/>
-A törzstõke leszállítás elõtti mértéke: 27 500 000 Ft.<ujsor/>
-A leszállított törzstõke mértéke: 3 000 000 Ft.<ujsor/>
-Az egyszemélyes kft. tagja, a Dél-Kom Kft. törzsbetétjének nagysága a tõkeleszállítás után: 3 000 000 Ft.<ujsor/>
-A társaság egyidejûleg felhívja a hitelezõit, hogy a hirdetmény elsõ alkalommal történt közzétételét megelõzõen keletkezett és ezen idõpontig esedékessé nem vált követeléseik után biztosítékra tarthatnak igényt, és ez iránti igényüket a hirdetmény második közzétételétõl számított 30 napon belül a társaság székhelyére (7900 Szigetvár, Deák Ferenc tér 16.) jelentsék be.<ujsor/>
-Nem jogosult biztosítékra a hitelezõ, ha a törzstõke-leszállításhoz kapcsolódó kockázattal arányos biztosítékkal ­ jogszabály rendelkezése vagy szerzõdés alapján ­ már rendelkezik, vagy ha a társaság pénzügyi, vagyoni helyzetére figyelemmel a biztosítékadás indokolatlan.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">A Baranya Megyei BÃ­rÃ³sÃ¡g, mint CÃ©gbÃ­rÃ³sÃ¡g Ã¡ltal nyilvÃ¡ntartott DDHG DÃ©l-DunÃ¡ntÃºli HulladÃ©kgazdÃ¡lkodÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [02 09 072176]; szÃ©khelye: 7900 SzigetvÃ¡r, DeÃ¡k Ferenc tÃ©r 16.) egyedÃ¼li tulajdonosa 2011. januÃ¡r 20-Ã¡n a tÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©jÃ©nek leszÃ¡llÃ­tÃ¡sÃ¡rÃ³l hatÃ¡rozott.<ujsor/>
+A tÃ¶rzstÅ‘ke-leszÃ¡llÃ­tÃ¡s mÃ³dja: vesztesÃ©grendezÃ©s.<ujsor/>
+A tÃ¶rzstÅ‘ke leszÃ¡llÃ­tÃ¡s elÅ‘tti mÃ©rtÃ©ke: 27 500 000 Ft.<ujsor/>
+A leszÃ¡llÃ­tott tÃ¶rzstÅ‘ke mÃ©rtÃ©ke: 3 000 000 Ft.<ujsor/>
+Az egyszemÃ©lyes kft. tagja, a DÃ©l-Kom Kft. tÃ¶rzsbetÃ©tjÃ©nek nagysÃ¡ga a tÅ‘keleszÃ¡llÃ­tÃ¡s utÃ¡n: 3 000 000 Ft.<ujsor/>
+A tÃ¡rsasÃ¡g egyidejÅ±leg felhÃ­vja a hitelezÅ‘it, hogy a hirdetmÃ©ny elsÅ‘ alkalommal tÃ¶rtÃ©nt kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkezett Ã©s ezen idÅ‘pontig esedÃ©kessÃ© nem vÃ¡lt kÃ¶vetelÃ©seik utÃ¡n biztosÃ­tÃ©kra tarthatnak igÃ©nyt, Ã©s ez irÃ¡nti igÃ©nyÃ¼ket a hirdetmÃ©ny mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l a tÃ¡rsasÃ¡g szÃ©khelyÃ©re (7900 SzigetvÃ¡r, DeÃ¡k Ferenc tÃ©r 16.) jelentsÃ©k be.<ujsor/>
+Nem jogosult biztosÃ­tÃ©kra a hitelezÅ‘, ha a tÃ¶rzstÅ‘ke-leszÃ¡llÃ­tÃ¡shoz kapcsolÃ³dÃ³ kockÃ¡zattal arÃ¡nyos biztosÃ­tÃ©kkal Â­ jogszabÃ¡ly rendelkezÃ©se vagy szerzÅ‘dÃ©s alapjÃ¡n Â­ mÃ¡r rendelkezik, vagy ha a tÃ¡rsasÃ¡g pÃ©nzÃ¼gyi, vagyoni helyzetÃ©re figyelemmel a biztosÃ­tÃ©kadÃ¡s indokolatlan.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0209072176</mezo>
-<mezo id = "nev">DDHG Dél-Dunántúli Hulladékgazdálkodási Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">7900 Szigetvár</mezo>
+<mezo id = "nev">DDHG DÃ©l-DunÃ¡ntÃºli HulladÃ©kgazdÃ¡lkodÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">7900 SzigetvÃ¡r</mezo>
 </alrovat>
 </rovat>
 <rovat id = "99017">

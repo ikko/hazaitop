@@ -183,36 +183,36 @@ var network;
         $litigationNode.find(".name").html("<a href='/litigations/"+nodeData.id.match(/\d+$/)+"'>"+nodeData.label+"</a>");
         $litigationNode.find(".start_time").text(nodeData.startTime);
         $litigationNode.find(".end_time").text(nodeData.endTime);
-      } else if (match[1] == 'o2o'){
-        $o2oEdge.show();
-        $o2oEdge.find(".name").text(nodeData.label);
-        $o2oEdge.find(".org:first").text(nodeData.org);
-        $o2oEdge.find(".org:last").text(nodeData.relatedOrg);
-        $o2oEdge.find(".issued_at").text(nodeData.issuedAt);
-        $o2oEdge.find(".source").text(nodeData.source);
-        $o2oEdge.find(".value").text(nodeData.value);
+      } else if (match[1] == 'o_to_o'){
+        $o_to_oEdge.show();
+        $o_to_oEdge.find(".name").text(nodeData.label);
+        $o_to_oEdge.find(".org:first").text(nodeData.org);
+        $o_to_oEdge.find(".org:last").text(nodeData.relatedOrg);
+        $o_to_oEdge.find(".issued_at").text(nodeData.issuedAt);
+        $o_to_oEdge.find(".source").text(nodeData.source);
+        $o_to_oEdge.find(".value").text(nodeData.value);
         if (nodeData.contractOrTender) {
-          $o2oEdge.find(".contract").html("<a href='/"+nodeData.contractOrTender+"s/"+nodeData.contractId+"' target='_blank'>"+nodeData.contractName+"</a>");
+          $o_to_oEdge.find(".contract").html("<a href='/"+nodeData.contractOrTender+"s/"+nodeData.contractId+"' target='_blank'>"+nodeData.contractName+"</a>");
         } else {
           // ha nincs contract simán 'nincs adat' lesz benne
-          $o2oEdge.find(".contract").text(nodeData.contractName);
+          $o_to_oEdge.find(".contract").text(nodeData.contractName);
         }
-      } else if (match[1] == 'p2p'){
-        $p2pEdge.show();
-        $p2pEdge.find(".name").text(nodeData.label);
-        $p2pEdge.find(".person:first").text(nodeData.person);
-        $p2pEdge.find(".person:last").text(nodeData.relatedPerson);
-        $p2pEdge.find(".start_time").text(nodeData.startTime);
-        $p2pEdge.find(".end_time").text(nodeData.endTime);
-        $p2pEdge.find(".source").text(nodeData.source);
-      } else if (match[1] == 'p2o' || match[1] == 'o2p'){
-        $p2oEdge.show();
-        $p2oEdge.find(".name").text(nodeData.label);
-        $p2oEdge.find(".person").text(nodeData.person);
-        $p2oEdge.find(".org").text(nodeData.org);
-        $p2oEdge.find(".start_time").text(nodeData.startTime);
-        $p2oEdge.find(".end_time").text(nodeData.endTime);
-        $p2oEdge.find(".source").text(nodeData.source);
+      } else if (match[1] == 'p_to_p'){
+        $p_to_pEdge.show();
+        $p_to_pEdge.find(".name").text(nodeData.label);
+        $p_to_pEdge.find(".person:first").text(nodeData.person);
+        $p_to_pEdge.find(".person:last").text(nodeData.relatedPerson);
+        $p_to_pEdge.find(".start_time").text(nodeData.startTime);
+        $p_to_pEdge.find(".end_time").text(nodeData.endTime);
+        $p_to_pEdge.find(".source").text(nodeData.source);
+      } else if (match[1] == 'p_to_o' || match[1] == 'o_to_p'){
+        $p_to_oEdge.show();
+        $p_to_oEdge.find(".name").text(nodeData.label);
+        $p_to_oEdge.find(".person").text(nodeData.person);
+        $p_to_oEdge.find(".org").text(nodeData.org);
+        $p_to_oEdge.find(".start_time").text(nodeData.startTime);
+        $p_to_oEdge.find(".end_time").text(nodeData.endTime);
+        $p_to_oEdge.find(".source").text(nodeData.source);
       } else if (match[1] == 'o2l'){
         $o2lEdge.show();
         $o2lEdge.find(".name").text(nodeData.label);
@@ -287,9 +287,9 @@ var network;
     $personNode = $("#person_node");
     $organizationNode = $("#organization_node");
     $litigationNode = $("#litigation_node");
-    $o2oEdge = $("#o2o_edge");
-    $p2pEdge = $("#p2p_edge");
-    $p2oEdge = $("#p2o_edge");
+    $o_to_oEdge = $("#o_to_o_edge");
+    $p_to_pEdge = $("#p_to_p_edge");
+    $p_to_oEdge = $("#p_to_o_edge");
     $o2lEdge = $("#o2l_edge");
     $p2lEdge = $("#p2l_edge");
     $loadNodeRelations = $("#load_node_relations");

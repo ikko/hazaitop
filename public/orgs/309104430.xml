@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">104430</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">6000 Kecskemét, Matkói út 18. </mezo>
+<mezo id = "cim">6000 KecskemÃ©t, MatkÃ³i Ãºt 18. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">11379162203</mezo>
 </alrovat>
@@ -13,21 +13,21 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19960327</mezo>
-<mezo id = "nev">JÉGSZILÁNK Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">JÃ‰GSZILÃNK Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">19960327</mezo>
-<mezo id = "nev">JÉGSZILÁNK Kft.</mezo>
+<mezo id = "nev">JÃ‰GSZILÃNK Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
 <alrovat id = "2">
 <mezo id = "hattol">20100601</mezo>
 <mezo id = "irsz">6000</mezo>
-<mezo id = "hely">Kecskemét</mezo>
-<mezo id = "teru">Matkói út 18.</mezo>
+<mezo id = "hely">KecskemÃ©t</mezo>
+<mezo id = "teru">MatkÃ³i Ãºt 18.</mezo>
 <mezo id = "valtk">20100601</mezo>
 <mezo id = "bkelt">20100630</mezo>
 </alrovat>
@@ -211,7 +211,7 @@
 <mezo id = "hattol">20100601</mezo>
 <mezo id = "valtk">20100601</mezo>
 <mezo id = "bkelt">20100630</mezo>
-<mezo id = "teaszov">Egyéb vendéglátás</mezo>
+<mezo id = "teaszov">EgyÃ©b vendÃ©glÃ¡tÃ¡s</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -226,12 +226,12 @@
 <rovat id = "13">
 <alrovat id = "5">
 <mezo id = "hattol">20091130</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Szilvási Katalin Mariann</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">SzilvÃ¡si Katalin Mariann</mezo>
 <mezo id = "panev">Gabnai Piroska</mezo>
 <mezo id = "pirsz">6000</mezo>
-<mezo id = "phely">Kecskemét</mezo>
-<mezo id = "pteru">Dobó krt. 11. 5. em. 14.</mezo>
+<mezo id = "phely">KecskemÃ©t</mezo>
+<mezo id = "pteru">DobÃ³ krt. 11. 5. em. 14.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20080222</mezo>
 <mezo id = "valtk">20091130</mezo>
@@ -239,12 +239,12 @@
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20091130</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Gara Mihály</mezo>
-<mezo id = "panev">Faragó Anna</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Gara MihÃ¡ly</mezo>
+<mezo id = "panev">FaragÃ³ Anna</mezo>
 <mezo id = "pirsz">6000</mezo>
-<mezo id = "phely">Kecskemét</mezo>
-<mezo id = "pteru">Vágó utca 28. 1. em. 2.</mezo>
+<mezo id = "phely">KecskemÃ©t</mezo>
+<mezo id = "pteru">VÃ¡gÃ³ utca 28. 1. em. 2.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20080222</mezo>
 <mezo id = "valtk">20091130</mezo>
@@ -288,10 +288,10 @@
 <rovat id = "0109">
 <alrovat id = "5">
 <mezo id = "hattol">20080222</mezo>
-<mezo id = "pnev">Takács József</mezo>
-<mezo id = "panev">Karcsú Katalin</mezo>
+<mezo id = "pnev">TakÃ¡cs JÃ³zsef</mezo>
+<mezo id = "panev">KarcsÃº Katalin</mezo>
 <mezo id = "pirsz">6000</mezo>
-<mezo id = "phely">Kecskemét, Dobó krt. 11. V/14.</mezo>
+<mezo id = "phely">KecskemÃ©t, DobÃ³ krt. 11. V/14.</mezo>
 <mezo id = "tagsk">19960327</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20080222</mezo>
@@ -301,10 +301,10 @@
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20090223</mezo>
-<mezo id = "pnev">Gara Mihály</mezo>
-<mezo id = "panev">Faragó Anna</mezo>
+<mezo id = "pnev">Gara MihÃ¡ly</mezo>
+<mezo id = "panev">FaragÃ³ Anna</mezo>
 <mezo id = "pirsz">6000</mezo>
-<mezo id = "phely">Kecskemét, Vágó utca 28. 1. em. 2.</mezo>
+<mezo id = "phely">KecskemÃ©t, VÃ¡gÃ³ utca 28. 1. em. 2.</mezo>
 <mezo id = "tagsk">20090223</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20090223</mezo>
@@ -314,11 +314,11 @@
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">20091130</mezo>
-<mezo id = "pnev">Szilvási Katalin Mariann</mezo>
+<mezo id = "pnev">SzilvÃ¡si Katalin Mariann</mezo>
 <mezo id = "panev">Gabnai Piroska</mezo>
 <mezo id = "pirsz">6000</mezo>
-<mezo id = "phely">Kecskemét</mezo>
-<mezo id = "pteru">Dobó krt. 11. 5. em. 14.</mezo>
+<mezo id = "phely">KecskemÃ©t</mezo>
+<mezo id = "pteru">DobÃ³ krt. 11. 5. em. 14.</mezo>
 <mezo id = "tagsk">19960327</mezo>
 <mezo id = "valtk">20091130</mezo>
 <mezo id = "bkelt">20091221</mezo>
@@ -326,10 +326,10 @@
 <alrovat id = "8">
 <mezo id = "hattol">20091130</mezo>
 <mezo id = "pnev">Papp Norbert</mezo>
-<mezo id = "panev">Kovács Terézia</mezo>
+<mezo id = "panev">KovÃ¡cs TerÃ©zia</mezo>
 <mezo id = "pirsz">6000</mezo>
-<mezo id = "phely">Kecskemét</mezo>
-<mezo id = "pteru">Vágó utca 28. 2. em. 9.</mezo>
+<mezo id = "phely">KecskemÃ©t</mezo>
+<mezo id = "pteru">VÃ¡gÃ³ utca 28. 2. em. 9.</mezo>
 <mezo id = "tagsk">20091130</mezo>
 <mezo id = "valtk">20091130</mezo>
 <mezo id = "bkelt">20091221</mezo>

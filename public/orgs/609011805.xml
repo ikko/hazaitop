@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">011805</mezo>
 <mezo id = "nevalrovat">2</mezo>
-<mezo id = "cim">6800 Hódmezõvásárhely, Andrássy utca 3. I. em. 3. </mezo>
+<mezo id = "cim">6800 HÃ³dmezÅ‘vÃ¡sÃ¡rhely, AndrÃ¡ssy utca 3. I. em. 3. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">14115176206</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20110201</mezo>
-<mezo id = "nev">MESTER-BauHolding Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">MESTER-BauHolding KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">20110201</mezo>
 <mezo id = "bkelt">20110215</mezo>
 </alrovat>
@@ -21,7 +21,7 @@
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">20071129</mezo>
-<mezo id = "nev">JANTÓ-BauHoling Kft.</mezo>
+<mezo id = "nev">JANTÃ“-BauHoling Kft.</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20071129</mezo>
@@ -38,8 +38,8 @@
 <alrovat id = "2">
 <mezo id = "hattol">20101122</mezo>
 <mezo id = "irsz">6800</mezo>
-<mezo id = "hely">Hódmezõvásárhely</mezo>
-<mezo id = "teru">Andrássy utca 3. I. em. 3.</mezo>
+<mezo id = "hely">HÃ³dmezÅ‘vÃ¡sÃ¡rhely</mezo>
+<mezo id = "teru">AndrÃ¡ssy utca 3. I. em. 3.</mezo>
 <mezo id = "valtk">20101122</mezo>
 <mezo id = "bkelt">20101130</mezo>
 </alrovat>
@@ -338,79 +338,79 @@
 <mezo id = "hattol">20101122</mezo>
 <mezo id = "valtk">20101122</mezo>
 <mezo id = "bkelt">20101130</mezo>
-<mezo id = "teaszov">Épületépítési projekt szervezése</mezo>
+<mezo id = "teaszov">Ã‰pÃ¼letÃ©pÃ­tÃ©si projekt szervezÃ©se</mezo>
 </alrovat>
 <alrovat id = "32">
 <mezo id = "hattol">20101122</mezo>
 <mezo id = "valtk">20101122</mezo>
 <mezo id = "bkelt">20101130</mezo>
-<mezo id = "teaszov">Lakó- és nem lakó épület építése</mezo>
+<mezo id = "teaszov">LakÃ³- Ã©s nem lakÃ³ Ã©pÃ¼let Ã©pÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "33">
 <mezo id = "hattol">20101122</mezo>
 <mezo id = "valtk">20101122</mezo>
 <mezo id = "bkelt">20101130</mezo>
-<mezo id = "teaszov">Út, autópálya építése</mezo>
+<mezo id = "teaszov">Ãšt, autÃ³pÃ¡lya Ã©pÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "34">
 <mezo id = "hattol">20101122</mezo>
 <mezo id = "valtk">20101122</mezo>
 <mezo id = "bkelt">20101130</mezo>
-<mezo id = "teaszov">Híd, alagút építése</mezo>
+<mezo id = "teaszov">HÃ­d, alagÃºt Ã©pÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "35">
 <mezo id = "hattol">20101122</mezo>
 <mezo id = "valtk">20101122</mezo>
 <mezo id = "bkelt">20101130</mezo>
-<mezo id = "teaszov">Folyadék szállítására szolgáló közmû építése</mezo>
+<mezo id = "teaszov">FolyadÃ©k szÃ¡llÃ­tÃ¡sÃ¡ra szolgÃ¡lÃ³ kÃ¶zmÅ± Ã©pÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "36">
 <mezo id = "hattol">20101122</mezo>
 <mezo id = "valtk">20101122</mezo>
 <mezo id = "bkelt">20101130</mezo>
-<mezo id = "teaszov">Elektromos, híradás-technikai célú közmû építése</mezo>
+<mezo id = "teaszov">Elektromos, hÃ­radÃ¡s-technikai cÃ©lÃº kÃ¶zmÅ± Ã©pÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "37">
 <mezo id = "hattol">20101122</mezo>
 <mezo id = "valtk">20101122</mezo>
 <mezo id = "bkelt">20101130</mezo>
-<mezo id = "teaszov">Vízi létesítmény építése</mezo>
+<mezo id = "teaszov">VÃ­zi lÃ©tesÃ­tmÃ©ny Ã©pÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "38">
 <mezo id = "hattol">20101122</mezo>
 <mezo id = "valtk">20101122</mezo>
 <mezo id = "bkelt">20101130</mezo>
-<mezo id = "teaszov">Egyéb m.n.s. építés</mezo>
+<mezo id = "teaszov">EgyÃ©b m.n.s. Ã©pÃ­tÃ©s</mezo>
 </alrovat>
 <alrovat id = "39">
 <mezo id = "hattol">20101122</mezo>
 <mezo id = "valtk">20101122</mezo>
 <mezo id = "bkelt">20101130</mezo>
-<mezo id = "teaszov">Bontás</mezo>
+<mezo id = "teaszov">BontÃ¡s</mezo>
 </alrovat>
 <alrovat id = "40">
 <mezo id = "hattol">20101122</mezo>
 <mezo id = "valtk">20101122</mezo>
 <mezo id = "bkelt">20101130</mezo>
-<mezo id = "teaszov">Építési terület elõkészítése</mezo>
+<mezo id = "teaszov">Ã‰pÃ­tÃ©si terÃ¼let elÅ‘kÃ©szÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "41">
 <mezo id = "hattol">20101122</mezo>
 <mezo id = "valtk">20101122</mezo>
 <mezo id = "bkelt">20101130</mezo>
-<mezo id = "teaszov">Egyéb befejezõ építés m.n.s.</mezo>
+<mezo id = "teaszov">EgyÃ©b befejezÅ‘ Ã©pÃ­tÃ©s m.n.s.</mezo>
 </alrovat>
 <alrovat id = "42">
 <mezo id = "hattol">20101122</mezo>
 <mezo id = "valtk">20101122</mezo>
 <mezo id = "bkelt">20101130</mezo>
-<mezo id = "teaszov">Tetõfedés, tetõszerkezet-építés</mezo>
+<mezo id = "teaszov">TetÅ‘fedÃ©s, tetÅ‘szerkezet-Ã©pÃ­tÃ©s</mezo>
 </alrovat>
 <alrovat id = "43">
 <mezo id = "hattol">20101122</mezo>
 <mezo id = "valtk">20101122</mezo>
 <mezo id = "bkelt">20101130</mezo>
-<mezo id = "teaszov">Egyéb speciális szaképítés m.n.s.</mezo>
+<mezo id = "teaszov">EgyÃ©b speciÃ¡lis szakÃ©pÃ­tÃ©s m.n.s.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -429,12 +429,12 @@
 <rovat id = "13">
 <alrovat id = "4">
 <mezo id = "hattol">20110420</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Jantó Zsuzsanna</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">JantÃ³ Zsuzsanna</mezo>
 <mezo id = "panev">Simon Zsuzsanna</mezo>
 <mezo id = "pirsz">6900</mezo>
-<mezo id = "phely">Makó</mezo>
-<mezo id = "pteru">Sírkert utca 59.</mezo>
+<mezo id = "phely">MakÃ³</mezo>
+<mezo id = "pteru">SÃ­rkert utca 59.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20110420</mezo>
 <mezo id = "valtk">20110420</mezo>
@@ -472,11 +472,11 @@
 <rovat id = "0109">
 <alrovat id = "3">
 <mezo id = "hattol">20110420</mezo>
-<mezo id = "pnev">Jantó Zsuzsanna</mezo>
+<mezo id = "pnev">JantÃ³ Zsuzsanna</mezo>
 <mezo id = "panev">Simon Zsuzsanna</mezo>
 <mezo id = "pirsz">6900</mezo>
-<mezo id = "phely">Makó</mezo>
-<mezo id = "pteru">Sírkert utca 59.</mezo>
+<mezo id = "phely">MakÃ³</mezo>
+<mezo id = "pteru">SÃ­rkert utca 59.</mezo>
 <mezo id = "tagsk">20071122</mezo>
 <mezo id = "valtk">20110420</mezo>
 <mezo id = "bkelt">20110427</mezo>
@@ -486,35 +486,35 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2007. 11. 29-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2007. 11. 29-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
 45. E-mail: jantobauholing @freemail.hu<ujsor/>
- A változás idõpontja (törlés): 2007. 11. 29.<ujsor/>
- Törölve: 2007. 12. 04.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2007. 11. 29.<ujsor/>
+ TÃ¶rÃ¶lve: 2007. 12. 04.<ujsor/>
  E-mail: jantobauholding @freemail.hu<ujsor/>
- A változás idõpontja: 2007. 11. 29.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2007. 11. 29.<ujsor/>
  Bejegyezve: 2007. 12. 04.<ujsor/>
 2007. 12. 04.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0609011805</mezo>
-<mezo id = "nev">JANTÓ-BauHolding Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">6900 Makó, Ráday u. 37.</mezo>
+<mezo id = "nev">JANTÃ“-BauHolding KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">6900 MakÃ³, RÃ¡day u. 37.</mezo>
 <mezo id = "adosz">14115176206</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2007. 12. 29-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-03. JANTÓ-BauHoling Kft.<ujsor/>
- A változás idõpontja (törlés): 2007. 11. 29.<ujsor/>
- Törölve: 2008. 01. 10.<ujsor/>
- JANTÓ-BauHolding Kft.<ujsor/>
- A változás idõpontja: 2007. 11. 29.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2007. 12. 29-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+03. JANTÃ“-BauHoling Kft.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2007. 11. 29.<ujsor/>
+ TÃ¶rÃ¶lve: 2008. 01. 10.<ujsor/>
+ JANTÃ“-BauHolding Kft.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2007. 11. 29.<ujsor/>
  Bejegyezve: 2008. 01. 10.<ujsor/>
 2008. 01. 10.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0609011805</mezo>
-<mezo id = "nev">JANTÓ-BauHolding Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">6900 Makó, Ráday u. 37.</mezo>
+<mezo id = "nev">JANTÃ“-BauHolding KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">6900 MakÃ³, RÃ¡day u. 37.</mezo>
 <mezo id = "adosz">14115176206</mezo>
 </alrovat>
 </rovat>

@@ -3,13 +3,13 @@
     <view:person/> és <view:organization/>
   </heading:>
   <record-flags: replace></record-flags:>
-  <field-list: fields="p2o_relation_type, start_time, end_time, information_source">
-    <p2o-relation-type-label:> 
+  <field-list: fields="p_to_o_relation_type, start_time, end_time, information_source">
+    <p_to_o-relation-type-label:> 
       Kapcsolat 
-    </p2o-relation-type-label:>
-    <p2o-relation-type-view:>
+    </p_to_o-relation-type-label:>
+    <p_to_o-relation-type-view:>
       <view/> <%= '&nbsp;' %> <view with="&this_parent.role" if="&this_parent.role"/>
-    </p2o-relation-type-view:>
+    </p_to_o-relation-type-view:>
     <end-time-label:>
       <%= this_parent.no_end_time ? "" : "Záró dátum" %>
     </end-time-label:>

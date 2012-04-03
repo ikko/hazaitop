@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">070201</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">1062 Budapest, Andrássy út 128. I/6. </mezo>
+<mezo id = "cim">1062 Budapest, AndrÃ¡ssy Ãºt 128. I/6. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">10420894242</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19910408</mezo>
-<mezo id = "nev">HYDEA Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">HYDEA TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -25,7 +25,7 @@
 <rovat id = "4">
 <alrovat id = "1">
 <mezo id = "hattol">19910408</mezo>
-<mezo id = "nev">Olaszul: HYDEA Consulting Societa a Responsabilita Limitata röviden: HYDEA S.r.l.</mezo>
+<mezo id = "nev">Olaszul: HYDEA Consulting Societa a Responsabilita Limitata rÃ¶viden: HYDEA S.r.l.</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20101029</mezo>
@@ -39,7 +39,7 @@
 <mezo id = "hattol">19971201</mezo>
 <mezo id = "irsz">1062</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Andrássy út 128. I/6.</mezo>
+<mezo id = "teru">AndrÃ¡ssy Ãºt 128. I/6.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "8">
@@ -201,7 +201,7 @@
 <rovat id = "13">
 <alrovat id = "11">
 <mezo id = "hattol">20101029</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "pnev">Gianluca Vedova</mezo>
 <mezo id = "panev">Maria Luisa di Francesco</mezo>
 <mezo id = "pmnev">Stefano Destro</mezo>
@@ -215,7 +215,7 @@
 </alrovat>
 <alrovat id = "12">
 <mezo id = "hattol">20101029</mezo>
-<mezo id = "tiszt">cégvezetõ</mezo>
+<mezo id = "tiszt">cÃ©gvezetÅ‘</mezo>
 <mezo id = "pnev">Stefano Destro</mezo>
 <mezo id = "panev">Barutta Eva</mezo>
 <mezo id = "kepvo">x</mezo>
@@ -229,13 +229,13 @@
 <alrovat id = "1">
 <mezo id = "hattol">20101029</mezo>
 <mezo id = "cgjsz">0109872301</mezo>
-<mezo id = "nev">Ferbal Könyvvizsgálói Tanácsadó és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Ferbal KÃ¶nyvvizsgÃ¡lÃ³i TanÃ¡csadÃ³ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1123</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Alkotás utca 39. C. ép. III. em.</mezo>
-<mezo id = "pnev">Rutterschmid László</mezo>
-<mezo id = "panev">Kovács Erzsébet</mezo>
+<mezo id = "teru">AlkotÃ¡s utca 39. C. Ã©p. III. em.</mezo>
+<mezo id = "pnev">Rutterschmid LÃ¡szlÃ³</mezo>
+<mezo id = "panev">KovÃ¡cs ErzsÃ©bet</mezo>
 <mezo id = "jogvk">20101029</mezo>
 <mezo id = "jogvv">20141127</mezo>
 <mezo id = "valtk">20101029</mezo>
@@ -263,17 +263,17 @@
 <rovat id = "0109">
 <alrovat id = "15">
 <mezo id = "hattol">20020515</mezo>
-<mezo id = "pnev">Zwack Péter</mezo>
+<mezo id = "pnev">Zwack PÃ©ter</mezo>
 <mezo id = "panev">Wahl Veronika</mezo>
 <mezo id = "pirsz">1026</mezo>
-<mezo id = "phely">Budapest, Hidász u. 8.</mezo>
+<mezo id = "phely">Budapest, HidÃ¡sz u. 8.</mezo>
 </alrovat>
 <alrovat id = "18">
 <mezo id = "hattol">20101029</mezo>
 <mezo id = "nev">AGRICONSULTING S.p.A.</mezo>
 <mezo id = "orsz">IT</mezo>
 <mezo id = "irsz">189</mezo>
-<mezo id = "hely">Róma</mezo>
+<mezo id = "hely">RÃ³ma</mezo>
 <mezo id = "teru">Via Vitorchiano 123.</mezo>
 <mezo id = "pmnev">Stefano Destro</mezo>
 <mezo id = "pmanev">Barutta Eva</mezo>
@@ -307,65 +307,65 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság az 1995. 04. 03-án hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. Az ügyvezetõ önállóan, az ügyvezetõ<ujsor/>
-igazgatóhelyettes egy másik - az ügyvezetõ<ujsor/>
-igazgató által meghatalmazott- alkalmazottal<ujsor/>
-együttesen jegyzi a céget.<ujsor/>
- Törölve: 1994. 11. 01-i hatállyal.<ujsor/>
- Önálló és együttes.<ujsor/>
- Hatályos: 1994. 11. 01-tõl.<ujsor/>
-14. Az ügyvezetõ igazgató és az ügyvezetõ igazgató-<ujsor/>
-helyettes együttes aláírása szükséges az<ujsor/>
-alábbiakban.<ujsor/>
-befektetések: 3, 7 millió forint értékig<ujsor/>
-üzletkötések: 1-50 millió forint értékig<ujsor/>
-hitelügyletek: 1, 5 millió forint értékig<ujsor/>
-kiadások engedélyezése 100. 000 Ft felett.<ujsor/>
- Törölve: 1994. 11. 01-i hatállyal.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g az 1995. 04. 03-Ã¡n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. Az Ã¼gyvezetÅ‘ Ã¶nÃ¡llÃ³an, az Ã¼gyvezetÅ‘<ujsor/>
+igazgatÃ³helyettes egy mÃ¡sik - az Ã¼gyvezetÅ‘<ujsor/>
+igazgatÃ³ Ã¡ltal meghatalmazott- alkalmazottal<ujsor/>
+egyÃ¼ttesen jegyzi a cÃ©get.<ujsor/>
+ TÃ¶rÃ¶lve: 1994. 11. 01-i hatÃ¡llyal.<ujsor/>
+ Ã–nÃ¡llÃ³ Ã©s egyÃ¼ttes.<ujsor/>
+ HatÃ¡lyos: 1994. 11. 01-tÅ‘l.<ujsor/>
+14. Az Ã¼gyvezetÅ‘ igazgatÃ³ Ã©s az Ã¼gyvezetÅ‘ igazgatÃ³-<ujsor/>
+helyettes egyÃ¼ttes alÃ¡Ã­rÃ¡sa szÃ¼ksÃ©ges az<ujsor/>
+alÃ¡bbiakban.<ujsor/>
+befektetÃ©sek: 3, 7 milliÃ³ forint Ã©rtÃ©kig<ujsor/>
+Ã¼zletkÃ¶tÃ©sek: 1-50 milliÃ³ forint Ã©rtÃ©kig<ujsor/>
+hitelÃ¼gyletek: 1, 5 milliÃ³ forint Ã©rtÃ©kig<ujsor/>
+kiadÃ¡sok engedÃ©lyezÃ©se 100. 000 Ft felett.<ujsor/>
+ TÃ¶rÃ¶lve: 1994. 11. 01-i hatÃ¡llyal.<ujsor/>
 Bejegyezve: 1995. 09. 19.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109070201</mezo>
-<mezo id = "nev">HYDEA Tanácsadó Korlátolt Felelõsségü Társaság</mezo>
-<mezo id = "cim">1117 Budapest, Budafoki út 79.</mezo>
+<mezo id = "nev">HYDEA TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÃ¼ TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1117 Budapest, Budafoki Ãºt 79.</mezo>
 <mezo id = "adosz">10388961201</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A felszámolók névjegyzékérõl szóló 167/1993. (XI.30.) Korm. rendelet módosításáról szóló 65/1997. (IV.18.) Korm. rendelet 6. § (3) bekezdése alapján a felszámolók névjegyzékébõl törölve.<ujsor/>
+<mezo id = "szoveg">A felszÃ¡molÃ³k nÃ©vjegyzÃ©kÃ©rÅ‘l szÃ³lÃ³ 167/1993. (XI.30.) Korm. rendelet mÃ³dosÃ­tÃ¡sÃ¡rÃ³l szÃ³lÃ³ 65/1997. (IV.18.) Korm. rendelet 6. Â§ (3) bekezdÃ©se alapjÃ¡n a felszÃ¡molÃ³k nÃ©vjegyzÃ©kÃ©bÅ‘l tÃ¶rÃ¶lve.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109070201</mezo>
-<mezo id = "nev">HYDEA Tanácsadó Korlátolt Felelõsségü Társaság</mezo>
+<mezo id = "nev">HYDEA TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÃ¼ TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2000. 01. 07-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2000. 01. 07-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
 21. 10420887-2-01.<ujsor/>
- Törölve: 2000. 09. 01-i hatállyal.<ujsor/>
+ TÃ¶rÃ¶lve: 2000. 09. 01-i hatÃ¡llyal.<ujsor/>
  10420894-2-42.<ujsor/>
- Hatályos: 2000. 09. 01-tõl.<ujsor/>
+ HatÃ¡lyos: 2000. 09. 01-tÅ‘l.<ujsor/>
 Bejegyezve: 2000. 09. 01.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109070201</mezo>
-<mezo id = "nev">HYDEA Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1062 Budapest, Andrássy út 128. I/6.</mezo>
+<mezo id = "nev">HYDEA TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1062 Budapest, AndrÃ¡ssy Ãºt 128. I/6.</mezo>
 <mezo id = "adosz">10420894242</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 1998. 06. 22-án hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-09. 5231&apos;03 Gyógyszer-kiskereskedelem.<ujsor/>
- Törölve: 1998. 05. 06-i hatállyal.<ujsor/>
- 5131&apos;03 Zöldség-, gyümölcs-nagykereskedelem.<ujsor/>
- Hatályos: 1998. 05. 06-tól.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 1998. 06. 22-Ã¡n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+09. 5231&apos;03 GyÃ³gyszer-kiskereskedelem.<ujsor/>
+ TÃ¶rÃ¶lve: 1998. 05. 06-i hatÃ¡llyal.<ujsor/>
+ 5131&apos;03 ZÃ¶ldsÃ©g-, gyÃ¼mÃ¶lcs-nagykereskedelem.<ujsor/>
+ HatÃ¡lyos: 1998. 05. 06-tÃ³l.<ujsor/>
 Bejegyezve: 2003. 11. 04.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109070201</mezo>
-<mezo id = "nev">HYDEA Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1062 Budapest, Andrássy út 128. I/6.</mezo>
+<mezo id = "nev">HYDEA TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1062 Budapest, AndrÃ¡ssy Ãºt 128. I/6.</mezo>
 <mezo id = "adosz">10420894242</mezo>
 </alrovat>
 </rovat>

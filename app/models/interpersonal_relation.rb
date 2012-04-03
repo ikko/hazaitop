@@ -22,12 +22,23 @@ class InterpersonalRelation < ActiveRecord::Base
     "#{person} és #{related_person}"
   end
 
+  default_scope :include => :related_person, :order => :"people.name"
+  named_scope :ordered, lambda { |order_table| 
+    order_by= case order_table
+    when "related_person" then "people.order_name"
+    when "p_to_p_relation_type" then "p_to_p_relation_types.name"
+    else order_table.pluralize + ".name"
+    end.to_sym
+    { :include => order_table.to_sym, :order => order_by } 
+  }
+
+  named_scope :info, lambda { |info_ids| info_ids.present? ? { :conditions => [ "interpersonal_relations.information_source_id in (?)", info_ids ]} : {} }
   has_many :article_relations, :as => :relationable, :accessible => true
   has_many :articles, :through => :article_relations, :accessible => true
 
-  default_scope :order => "related_person_id"
+  default_scope include => :p_to_p_relation_type
 
-  belongs_to :p2p_relation_type
+  belongs_to :p_to_p_relation_type
   belongs_to :person, :counter_cache => true
 
   belongs_to :related_person, :class_name => "Person"
@@ -44,7 +55,7 @@ class InterpersonalRelation < ActiveRecord::Base
   has_many :litigations, :through => :litigation_relations, :accessible => true
 #=begin
   validates_presence_of :related_person
-  validates_presence_of :p2p_relation_type
+  validates_presence_of :p_to_p_relation_type
   validate :litigation_related
   validate :source_present
 
@@ -59,7 +70,7 @@ class InterpersonalRelation < ActiveRecord::Base
   def litigation_related
     logger.info "========================================================== iii =="
     unless litigations.blank?
-      errors.add("Litigation allowed only if", "relation type has legal aspect.") unless p2p_relation_type.litig
+      errors.add("Litigation allowed only if", "relation type has legal aspect.") unless p_to_p_relation_type.litig
     end
   end
 
@@ -67,24 +78,24 @@ class InterpersonalRelation < ActiveRecord::Base
     logger.info "========================================================== ii =="
     r.information_source_id = (r.info_id ? r.info_id : r.articles.first.try.information_source_id ) if r.information_source.blank?
     r.information_source_id = InformationSource.find_by_domain_name('ahalo.hu').id if r.information_source.blank?
-    r.parsed = r.p2p_relation_type.parsed if r.p2p_relation_type
-    # r.weight = r.information_source.weight * r.p2p_relation_type.weight
+    r.parsed = r.p_to_p_relation_type.parsed if r.p_to_p_relation_type
+    # r.weight = r.information_source.weight * r.p_to_p_relation_type.weight
     true
   end
 
   after_create do |r|
     r.person.try.increment! :relations_counter
     unless r.mirrored
-      if r.p2p_relation_type.pair
-        relation_type_id = r.p2p_relation_type.pair.id
+      if r.p_to_p_relation_type.pair
+        relation_type_id = r.p_to_p_relation_type.pair.id
       else
-        relation_type_id = r.p2p_relation_type_id
+        relation_type_id = r.p_to_p_relation_type_id
       end
-      visual = r.p2p_relation_type.visual
+      visual = r.p_to_p_relation_type.visual
       interpersonal = InterpersonalRelation.new(:interpersonal_relation_id => r.id,
                                                 :person_id => r.related_person_id,
                                                 :related_person_id => r.person_id,
-                                                :p2p_relation_type_id => relation_type_id,
+                                                :p_to_p_relation_type_id => relation_type_id,
                                                 :information_source_id => r.information_source_id,
                                                 :organization_id => r.organization_id,
                                                 :person_to_org_relation_id => r.person_to_org_relation_id,
@@ -113,13 +124,13 @@ class InterpersonalRelation < ActiveRecord::Base
       if o.related_person_id != r.person_id
         o.update_attribute :related_person_id, r.person_id
       end
-      if o.p2p_relation_type_id != r.p2p_relation_type_id
-        if o.p2p_relation_type and o.p2p_relation_type.pair
-          if o.p2p_relation_type.pair_id != r.p2p_relation_type_id
-            o.update_attributes :p2p_relation_type_id => r.p2p_relation_type.pair.id, :visual => r.p2p_relation_type.visual
+      if o.p_to_p_relation_type_id != r.p_to_p_relation_type_id
+        if o.p_to_p_relation_type and o.p_to_p_relation_type.pair
+          if o.p_to_p_relation_type.pair_id != r.p_to_p_relation_type_id
+            o.update_attributes :p_to_p_relation_type_id => r.p_to_p_relation_type.pair.id, :visual => r.p_to_p_relation_type.visual
           end
         else
-          o.update_attribute :p2p_relation_type_id, r.p2p_relation_type_id
+          o.update_attribute :p_to_p_relation_type_id, r.p_to_p_relation_type_id
         end
       end
       if o.information_source_id != r.information_source_id

@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">072007</mezo>
 <mezo id = "nevalrovat">2</mezo>
-<mezo id = "cim">1037 Budapest, Pomázi út 11. </mezo>
+<mezo id = "cim">1037 Budapest, PomÃ¡zi Ãºt 11. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">10491496241</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20011129</mezo>
-<mezo id = "nev">CONFECTOR Mérnök Iroda Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">CONFECTOR MÃ©rnÃ¶k Iroda KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -29,7 +29,7 @@
 <mezo id = "hattol">20110502</mezo>
 <mezo id = "irsz">1037</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Pomázi út 11.</mezo>
+<mezo id = "teru">PomÃ¡zi Ãºt 11.</mezo>
 <mezo id = "valtk">20110502</mezo>
 <mezo id = "bkelt">20110530</mezo>
 </alrovat>
@@ -39,7 +39,7 @@
 <mezo id = "hattol">20110502</mezo>
 <mezo id = "irsz">1028</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Tárkony u. 9.</mezo>
+<mezo id = "teru">TÃ¡rkony u. 9.</mezo>
 <mezo id = "valtk">20110502</mezo>
 <mezo id = "bkelt">20110530</mezo>
 </alrovat>
@@ -47,7 +47,7 @@
 <mezo id = "hattol">20110502</mezo>
 <mezo id = "irsz">1037</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Török-kõ u. 19944/6.</mezo>
+<mezo id = "teru">TÃ¶rÃ¶k-kÅ‘ u. 19944/6.</mezo>
 <mezo id = "valtk">20110502</mezo>
 <mezo id = "bkelt">20110530</mezo>
 </alrovat>
@@ -302,457 +302,457 @@
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Lakó- és nem lakó épület építése ( fõtevékenység )</mezo>
+<mezo id = "teaszov">LakÃ³- Ã©s nem lakÃ³ Ã©pÃ¼let Ã©pÃ­tÃ©se ( fÅ‘tevÃ©kenysÃ©g )</mezo>
 </alrovat>
 <alrovat id = "207">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Fûrészárugyártás</mezo>
+<mezo id = "teaszov">FÅ±rÃ©szÃ¡rugyÃ¡rtÃ¡s</mezo>
 </alrovat>
 <alrovat id = "208">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Falemezgyártás</mezo>
+<mezo id = "teaszov">FalemezgyÃ¡rtÃ¡s</mezo>
 </alrovat>
 <alrovat id = "209">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Parkettagyártás</mezo>
+<mezo id = "teaszov">ParkettagyÃ¡rtÃ¡s</mezo>
 </alrovat>
 <alrovat id = "210">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Épületasztalos-ipari termék gyártása</mezo>
+<mezo id = "teaszov">Ã‰pÃ¼letasztalos-ipari termÃ©k gyÃ¡rtÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "211">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Egyéb fa-, parafatermék, fonottáru gyártása</mezo>
+<mezo id = "teaszov">EgyÃ©b fa-, parafatermÃ©k, fonottÃ¡ru gyÃ¡rtÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "212">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Mûanyag építõanyag gyártása</mezo>
+<mezo id = "teaszov">MÅ±anyag Ã©pÃ­tÅ‘anyag gyÃ¡rtÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "213">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Egyéb elektronikus, villamos vezeték, kábel gyártása</mezo>
+<mezo id = "teaszov">EgyÃ©b elektronikus, villamos vezetÃ©k, kÃ¡bel gyÃ¡rtÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "214">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Síküveggyártás</mezo>
+<mezo id = "teaszov">SÃ­kÃ¼veggyÃ¡rtÃ¡s</mezo>
 </alrovat>
 <alrovat id = "215">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Síküveg továbbfeldolgozása</mezo>
+<mezo id = "teaszov">SÃ­kÃ¼veg tovÃ¡bbfeldolgozÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "216">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Mûszaki, egyéb üvegtermék gyártása</mezo>
+<mezo id = "teaszov">MÅ±szaki, egyÃ©b Ã¼vegtermÃ©k gyÃ¡rtÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "217">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Építési betontermék gyártása</mezo>
+<mezo id = "teaszov">Ã‰pÃ­tÃ©si betontermÃ©k gyÃ¡rtÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "218">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Építési gipsztermék gyártása</mezo>
+<mezo id = "teaszov">Ã‰pÃ­tÃ©si gipsztermÃ©k gyÃ¡rtÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "219">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Elõre kevert beton gyártása</mezo>
+<mezo id = "teaszov">ElÅ‘re kevert beton gyÃ¡rtÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "220">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Egyéb beton-, gipsz-, cementtermék gyártása</mezo>
+<mezo id = "teaszov">EgyÃ©b beton-, gipsz-, cementtermÃ©k gyÃ¡rtÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "221">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Kõmegmunkálás</mezo>
+<mezo id = "teaszov">KÅ‘megmunkÃ¡lÃ¡s</mezo>
 </alrovat>
 <alrovat id = "222">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Hidegen hajlított acélidom gyártása</mezo>
+<mezo id = "teaszov">Hidegen hajlÃ­tott acÃ©lidom gyÃ¡rtÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "223">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Fémszerkezet gyártása</mezo>
+<mezo id = "teaszov">FÃ©mszerkezet gyÃ¡rtÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "224">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Fém épületelem gyártása</mezo>
+<mezo id = "teaszov">FÃ©m Ã©pÃ¼letelem gyÃ¡rtÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "225">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Fémtartály gyártása</mezo>
+<mezo id = "teaszov">FÃ©mtartÃ¡ly gyÃ¡rtÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "226">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Fémfelület-kezelés</mezo>
+<mezo id = "teaszov">FÃ©mfelÃ¼let-kezelÃ©s</mezo>
 </alrovat>
 <alrovat id = "227">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Fémmegmunkálás</mezo>
+<mezo id = "teaszov">FÃ©mmegmunkÃ¡lÃ¡s</mezo>
 </alrovat>
 <alrovat id = "228">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Acél tárolóeszköz gyártása</mezo>
+<mezo id = "teaszov">AcÃ©l tÃ¡rolÃ³eszkÃ¶z gyÃ¡rtÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "229">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Egyéb m.n.s. feldolgozóipari tevékenység</mezo>
+<mezo id = "teaszov">EgyÃ©b m.n.s. feldolgozÃ³ipari tevÃ©kenysÃ©g</mezo>
 </alrovat>
 <alrovat id = "230">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Ipari gép, berendezés javítása</mezo>
+<mezo id = "teaszov">Ipari gÃ©p, berendezÃ©s javÃ­tÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "231">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Egyéb ipari eszköz javítása</mezo>
+<mezo id = "teaszov">EgyÃ©b ipari eszkÃ¶z javÃ­tÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "232">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Ipari gép, berendezés üzembe helyezése</mezo>
+<mezo id = "teaszov">Ipari gÃ©p, berendezÃ©s Ã¼zembe helyezÃ©se</mezo>
 </alrovat>
 <alrovat id = "233">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Épületépítési projekt szervezése</mezo>
+<mezo id = "teaszov">Ã‰pÃ¼letÃ©pÃ­tÃ©si projekt szervezÃ©se</mezo>
 </alrovat>
 <alrovat id = "234">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Út, autópálya építése</mezo>
+<mezo id = "teaszov">Ãšt, autÃ³pÃ¡lya Ã©pÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "235">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Vasút építése</mezo>
+<mezo id = "teaszov">VasÃºt Ã©pÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "236">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Folyadék szállítására szolgáló közmû építése</mezo>
+<mezo id = "teaszov">FolyadÃ©k szÃ¡llÃ­tÃ¡sÃ¡ra szolgÃ¡lÃ³ kÃ¶zmÅ± Ã©pÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "237">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Vízi létesítmény építése</mezo>
+<mezo id = "teaszov">VÃ­zi lÃ©tesÃ­tmÃ©ny Ã©pÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "238">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Egyéb m.n.s. építés</mezo>
+<mezo id = "teaszov">EgyÃ©b m.n.s. Ã©pÃ­tÃ©s</mezo>
 </alrovat>
 <alrovat id = "239">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Bontás</mezo>
+<mezo id = "teaszov">BontÃ¡s</mezo>
 </alrovat>
 <alrovat id = "240">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Építési terület elõkészítése</mezo>
+<mezo id = "teaszov">Ã‰pÃ­tÃ©si terÃ¼let elÅ‘kÃ©szÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "241">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Talajmintavétel, próbafúrás</mezo>
+<mezo id = "teaszov">TalajmintavÃ©tel, prÃ³bafÃºrÃ¡s</mezo>
 </alrovat>
 <alrovat id = "242">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Villanyszerelés</mezo>
+<mezo id = "teaszov">VillanyszerelÃ©s</mezo>
 </alrovat>
 <alrovat id = "243">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Víz-, gáz-, fûtés-, légkondicionáló-szerelés</mezo>
+<mezo id = "teaszov">VÃ­z-, gÃ¡z-, fÅ±tÃ©s-, lÃ©gkondicionÃ¡lÃ³-szerelÃ©s</mezo>
 </alrovat>
 <alrovat id = "244">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Egyéb épületgépészeti szerelés</mezo>
+<mezo id = "teaszov">EgyÃ©b Ã©pÃ¼letgÃ©pÃ©szeti szerelÃ©s</mezo>
 </alrovat>
 <alrovat id = "245">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Vakolás</mezo>
+<mezo id = "teaszov">VakolÃ¡s</mezo>
 </alrovat>
 <alrovat id = "246">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Épületasztalos-szerkezet szerelése</mezo>
+<mezo id = "teaszov">Ã‰pÃ¼letasztalos-szerkezet szerelÃ©se</mezo>
 </alrovat>
 <alrovat id = "247">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Padló-, falburkolás</mezo>
+<mezo id = "teaszov">PadlÃ³-, falburkolÃ¡s</mezo>
 </alrovat>
 <alrovat id = "248">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Festés, üvegezés</mezo>
+<mezo id = "teaszov">FestÃ©s, Ã¼vegezÃ©s</mezo>
 </alrovat>
 <alrovat id = "249">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Egyéb befejezõ építés m.n.s.</mezo>
+<mezo id = "teaszov">EgyÃ©b befejezÅ‘ Ã©pÃ­tÃ©s m.n.s.</mezo>
 </alrovat>
 <alrovat id = "250">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Tetõfedés, tetõszerkezet-építés</mezo>
+<mezo id = "teaszov">TetÅ‘fedÃ©s, tetÅ‘szerkezet-Ã©pÃ­tÃ©s</mezo>
 </alrovat>
 <alrovat id = "251">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Egyéb speciális szaképítés m.n.s.</mezo>
+<mezo id = "teaszov">EgyÃ©b speciÃ¡lis szakÃ©pÃ­tÃ©s m.n.s.</mezo>
 </alrovat>
 <alrovat id = "252">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Fa-, építési anyag ügynöki nagykereskedelme</mezo>
+<mezo id = "teaszov">Fa-, Ã©pÃ­tÃ©si anyag Ã¼gynÃ¶ki nagykereskedelme</mezo>
 </alrovat>
 <alrovat id = "253">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Egyéb termék ügynöki nagykereskedelme</mezo>
+<mezo id = "teaszov">EgyÃ©b termÃ©k Ã¼gynÃ¶ki nagykereskedelme</mezo>
 </alrovat>
 <alrovat id = "254">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Fa-, építõanyag-, szaniteráru-nagykereskedelem</mezo>
+<mezo id = "teaszov">Fa-, Ã©pÃ­tÅ‘anyag-, szaniterÃ¡ru-nagykereskedelem</mezo>
 </alrovat>
 <alrovat id = "255">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Egyéb termelési célú termék nagykereskedelme</mezo>
+<mezo id = "teaszov">EgyÃ©b termelÃ©si cÃ©lÃº termÃ©k nagykereskedelme</mezo>
 </alrovat>
 <alrovat id = "256">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Vegyestermékkörû nagykereskedelem</mezo>
+<mezo id = "teaszov">VegyestermÃ©kkÃ¶rÅ± nagykereskedelem</mezo>
 </alrovat>
 <alrovat id = "257">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Számítógép, periféria, szoftver kiskereskedelme</mezo>
+<mezo id = "teaszov">SzÃ¡mÃ­tÃ³gÃ©p, perifÃ©ria, szoftver kiskereskedelme</mezo>
 </alrovat>
 <alrovat id = "258">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Telekommunikációs termék kiskereskedelme</mezo>
+<mezo id = "teaszov">TelekommunikÃ¡ciÃ³s termÃ©k kiskereskedelme</mezo>
 </alrovat>
 <alrovat id = "259">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Vasáru-, festék-, üveg-kiskereskedelem</mezo>
+<mezo id = "teaszov">VasÃ¡ru-, festÃ©k-, Ã¼veg-kiskereskedelem</mezo>
 </alrovat>
 <alrovat id = "260">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Takaró, szõnyeg, fal-, padlóburkoló kiskereskedelme</mezo>
+<mezo id = "teaszov">TakarÃ³, szÅ‘nyeg, fal-, padlÃ³burkolÃ³ kiskereskedelme</mezo>
 </alrovat>
 <alrovat id = "261">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Bútor, világítási eszköz, egyéb háztartási cikk kiskereskedelme</mezo>
+<mezo id = "teaszov">BÃºtor, vilÃ¡gÃ­tÃ¡si eszkÃ¶z, egyÃ©b hÃ¡ztartÃ¡si cikk kiskereskedelme</mezo>
 </alrovat>
 <alrovat id = "262">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Egyéb m.n.s. új áru kiskereskedelme</mezo>
+<mezo id = "teaszov">EgyÃ©b m.n.s. Ãºj Ã¡ru kiskereskedelme</mezo>
 </alrovat>
 <alrovat id = "263">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Közúti áruszállítás</mezo>
+<mezo id = "teaszov">KÃ¶zÃºti Ã¡ruszÃ¡llÃ­tÃ¡s</mezo>
 </alrovat>
 <alrovat id = "264">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Költöztetés</mezo>
+<mezo id = "teaszov">KÃ¶ltÃ¶ztetÃ©s</mezo>
 </alrovat>
 <alrovat id = "265">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Raktározás, tárolás</mezo>
+<mezo id = "teaszov">RaktÃ¡rozÃ¡s, tÃ¡rolÃ¡s</mezo>
 </alrovat>
 <alrovat id = "266">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Szárazföldi szállítást kiegészítõ szolgáltatás</mezo>
+<mezo id = "teaszov">SzÃ¡razfÃ¶ldi szÃ¡llÃ­tÃ¡st kiegÃ©szÃ­tÅ‘ szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "267">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Rakománykezelés</mezo>
+<mezo id = "teaszov">RakomÃ¡nykezelÃ©s</mezo>
 </alrovat>
 <alrovat id = "268">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">M.n.s. egyéb információs szolgáltatás</mezo>
+<mezo id = "teaszov">M.n.s. egyÃ©b informÃ¡ciÃ³s szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "269">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Saját tulajdonú ingatlan adásvétele</mezo>
+<mezo id = "teaszov">SajÃ¡t tulajdonÃº ingatlan adÃ¡svÃ©tele</mezo>
 </alrovat>
 <alrovat id = "270">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Saját tulajdonú, bérelt ingatlan bérbeadása, üzemeltetése</mezo>
+<mezo id = "teaszov">SajÃ¡t tulajdonÃº, bÃ©relt ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se</mezo>
 </alrovat>
 <alrovat id = "271">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Ingatlanügynöki tevékenység</mezo>
+<mezo id = "teaszov">IngatlanÃ¼gynÃ¶ki tevÃ©kenysÃ©g</mezo>
 </alrovat>
 <alrovat id = "272">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Ingatlankezelés</mezo>
+<mezo id = "teaszov">IngatlankezelÃ©s</mezo>
 </alrovat>
 <alrovat id = "273">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">PR, kommunikáció</mezo>
+<mezo id = "teaszov">PR, kommunikÃ¡ciÃ³</mezo>
 </alrovat>
 <alrovat id = "274">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Üzletviteli, egyéb vezetési tanácsadás</mezo>
+<mezo id = "teaszov">Ãœzletviteli, egyÃ©b vezetÃ©si tanÃ¡csadÃ¡s</mezo>
 </alrovat>
 <alrovat id = "275">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Építészmérnöki tevékenység</mezo>
+<mezo id = "teaszov">Ã‰pÃ­tÃ©szmÃ©rnÃ¶ki tevÃ©kenysÃ©g</mezo>
 </alrovat>
 <alrovat id = "276">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Mérnöki tevékenység, mûszaki tanácsadás</mezo>
+<mezo id = "teaszov">MÃ©rnÃ¶ki tevÃ©kenysÃ©g, mÅ±szaki tanÃ¡csadÃ¡s</mezo>
 </alrovat>
 <alrovat id = "277">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Mûszaki vizsgálat, elemzés</mezo>
+<mezo id = "teaszov">MÅ±szaki vizsgÃ¡lat, elemzÃ©s</mezo>
 </alrovat>
 <alrovat id = "278">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Fényképészet</mezo>
+<mezo id = "teaszov">FÃ©nykÃ©pÃ©szet</mezo>
 </alrovat>
 <alrovat id = "279">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">M.n.s. egyéb szakmai, tudományos, mûszaki tevékenység</mezo>
+<mezo id = "teaszov">M.n.s. egyÃ©b szakmai, tudomÃ¡nyos, mÅ±szaki tevÃ©kenysÃ©g</mezo>
 </alrovat>
 <alrovat id = "280">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">Építményüzemeltetés</mezo>
+<mezo id = "teaszov">Ã‰pÃ­tmÃ©nyÃ¼zemeltetÃ©s</mezo>
 </alrovat>
 <alrovat id = "281">
 <mezo id = "hattol">20110215</mezo>
 <mezo id = "valtk">20110215</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "teaszov">M.n.s. egyéb kiegészítõ üzleti szolgáltatás</mezo>
+<mezo id = "teaszov">M.n.s. egyÃ©b kiegÃ©szÃ­tÅ‘ Ã¼zleti szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -767,9 +767,9 @@
 <rovat id = "13">
 <alrovat id = "5">
 <mezo id = "hattol">20110502</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "pnev">Holman Attila</mezo>
-<mezo id = "panev">Boda Erzsébet</mezo>
+<mezo id = "panev">Boda ErzsÃ©bet</mezo>
 <mezo id = "pirsz">1028</mezo>
 <mezo id = "phely">Budapest</mezo>
 <mezo id = "pteru">Kilincs u. 17.</mezo>
@@ -784,16 +784,16 @@
 <alrovat id = "1">
 <mezo id = "hattol">20110502</mezo>
 <mezo id = "cgjsz">0109260292</mezo>
-<mezo id = "nev">Contó &amp; Controll Könyvvizsgáló, Könyvelõ és Gazdasági tanácsadó Kft</mezo>
+<mezo id = "nev">ContÃ³ &amp; Controll KÃ¶nyvvizsgÃ¡lÃ³, KÃ¶nyvelÅ‘ Ã©s GazdasÃ¡gi tanÃ¡csadÃ³ Kft</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1026</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Sodrás utca 12.</mezo>
-<mezo id = "pnev">Dr. Lukács János</mezo>
-<mezo id = "panev">Kis Teréz</mezo>
+<mezo id = "teru">SodrÃ¡s utca 12.</mezo>
+<mezo id = "pnev">Dr. LukÃ¡cs JÃ¡nos</mezo>
+<mezo id = "panev">Kis TerÃ©z</mezo>
 <mezo id = "pirsz">1021</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Budakeszi út 51/D.</mezo>
+<mezo id = "pteru">Budakeszi Ãºt 51/D.</mezo>
 <mezo id = "jogvk">20110502</mezo>
 <mezo id = "jogvv">20160502</mezo>
 <mezo id = "valtk">20110502</mezo>
@@ -804,7 +804,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20011129</mezo>
 <mezo id = "cgjsz">109689479</mezo>
-<mezo id = "nev">CONPLUSZ Ingatlankezelõ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">CONPLUSZ IngatlankezelÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "20">
@@ -828,14 +828,14 @@
 <mezo id = "adosz">10491496241</mezo>
 <mezo id = "kadosz">HU10491496</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "megj">Adószám státusza: érvényes adószám</mezo>
+<mezo id = "megj">AdÃ³szÃ¡m stÃ¡tusza: Ã©rvÃ©nyes adÃ³szÃ¡m</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0109">
 <alrovat id = "9">
 <mezo id = "hattol">20110502</mezo>
 <mezo id = "pnev">Holman Attila</mezo>
-<mezo id = "panev">Boda Erzsébet</mezo>
+<mezo id = "panev">Boda ErzsÃ©bet</mezo>
 <mezo id = "pirsz">1028</mezo>
 <mezo id = "phely">Budapest</mezo>
 <mezo id = "pteru">Kilincs u. 17.</mezo>
@@ -846,11 +846,11 @@
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">20110502</mezo>
-<mezo id = "pnev">Holman László</mezo>
-<mezo id = "panev">Boda Erzsébet</mezo>
+<mezo id = "pnev">Holman LÃ¡szlÃ³</mezo>
+<mezo id = "panev">Boda ErzsÃ©bet</mezo>
 <mezo id = "pirsz">2659</mezo>
-<mezo id = "phely">Érsekvadkert</mezo>
-<mezo id = "pteru">Honvéd u. 22.</mezo>
+<mezo id = "phely">Ã‰rsekvadkert</mezo>
+<mezo id = "pteru">HonvÃ©d u. 22.</mezo>
 <mezo id = "tagsk">20010629</mezo>
 <mezo id = "valtk">20110502</mezo>
 <mezo id = "bkelt">20110530</mezo>
@@ -865,304 +865,304 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A CONFECTOR Mérnöki Iroda Korlátolt Felelõsségû Társaság taggyûlése, 2001. május 29-én és 2001. június 29-én tartott taggyûlésén egyszemélyi tulajdonosi döntéssel elhatározta a kizárólagos tulajdonában álló CONPLUSZ Ingatlankezelõ Kft. jogutódlással történõ megszüntetését,<ujsor/>
-beolvadását<ujsor/>
-a CONFECTOR Mérnöki Iroda Korlátolt Felelõsségû Társaságba (1028 Budapest, Tárkony u. 9.), s a taggyûlések egyben a befogadó társaság nevében is meghozták a beolvadáshoz szükséges taggyûlési határozatokat.<ujsor/>
-Az átalakuló (beolvadó) gazdasági társaság cégneve: CONPLUSZ Ingatlankezelõ Korlátolt Felelõsségû Társaság. Székhelye: 1028 Budapest, Tárkony u. 9.<ujsor/>
-Cégjegyzékszáma: [01 09 689479].<ujsor/>
-A létrejövõ (befogadó) gazdasági társaság formája, neve: CONFECTOR Mérnöki Iroda Korlátolt Felelõsségû Társaság. Székhelye: 1028 Budapest, Tárkony u. 9.<ujsor/>
-Cégjegyzékszáma: [01 09 072007].<ujsor/>
-A társasági szerzõdés megkötésének napja: 2001. június 29.<ujsor/>
-Az átalakuló (beolvadó) CONPLUSZ Ingatlankezelõ Kft. gazdasági társaság vagyonmérleg-tervezetének adatai:<ujsor/>
-ESZKÖZÖK (aktívák) (E Ft) FORRÁSOK (passzívák) (E Ft)<ujsor/>
-A) Befektetett eszközök 13 316 D) Saját tõke 13 448<ujsor/>
-I. Immateriális javak 0 I. Jegyzett tõke 10 000<ujsor/>
-II. Tárgyi eszközök 13 316 II. Jegyzett, de még be nem fizetett tõke 0<ujsor/>
-III. Befektetett pénzügyi eszközök 0 III. Tõketartalék 3 448<ujsor/>
-B) Forgóeszközök 2 143 IV. Eredménytartalék 0<ujsor/>
-I. Készletek 0 V. Értékelési tartalék 0<ujsor/>
-II. Követelések 110 VI. Mérleg szerinti eredmény 0<ujsor/>
-III. Értékpapírok 0 E) Céltartalék 0<ujsor/>
-IV. Pénzeszközök 2 033 F) Kötelezettségek 1 818<ujsor/>
-C) Aktív idõbeli elhatárolások 114 I. Hosszú lejáratú kötelezettségek 0<ujsor/>
-  II. Rövid lejáratú kötelezettségek 1 818<ujsor/>
-  G) Passzív idõbeli elhatárolások 307<ujsor/>
-ÖSSZESEN: 15 573 ÖSSZESEN: 15 573<ujsor/>
-A létrejövõ gazdasági társaság vagyonmérleg-tervezetének adatai:<ujsor/>
-A beolvasztó (átvevõ) CONFECTOR Mérnöki Iroda Korlátolt Felelõsségû Társaság:<ujsor/>
-ESZKÖZÖK (aktívák) (E Ft) FORRÁSOK (passzívák) (E Ft)<ujsor/>
-A) Befektetett eszközök 78 718 D) Saját tõke 124 870<ujsor/>
-I. Immateriális javak 190 I. Jegyzett tõke 15 000<ujsor/>
-II. Tárgyi eszközök 65 080 II. Jegyzett, de még be nem fizetett tõke 0<ujsor/>
-III. Befektetett pénzügyi eszközök 13 448 III. Tõketartalék 0<ujsor/>
-B) Forgóeszközök 140 146 IV. Eredménytartalék 109 870<ujsor/>
-I. Készletek 9 979 V. Értékelési tartalék 0<ujsor/>
-II. Követelések 22 949 VI. Mérleg szerinti eredmény 0<ujsor/>
-III. Értékpapírok 38 020 E) Céltartalék 2 264<ujsor/>
-IV. Pénzeszközök 69 198 F) Kötelezettségek 92 347<ujsor/>
-C) Aktív idõbeli elhatárolások 2 761 I. Hosszú lejáratú kötelezettségek 20 000<ujsor/>
-  II. Rövid lejáratú kötelezettségek 72 347<ujsor/>
-  G) Passzív idõbeli elhatárolások 2 144<ujsor/>
-ÖSSZESEN: 221625 ÖSSZESEN: 221625<ujsor/>
-Az átalakulással létrejövõ (befogadó) CONFECTOR Mérnöki Iroda Korlátolt Felelõsségû Társaság:<ujsor/>
-ESZKÖZÖK (aktívák) (E Ft) FORRÁSOK (passzívák) (E Ft)<ujsor/>
-A) Befektetett eszközök 78 586 D) Saját tõke 124 870<ujsor/>
-I. Immateriális javak 190 I. Jegyzett tõke 15 000<ujsor/>
-II. Tárgyi eszközök 78 396 II. Jegyzett, de még be nem fizetett tõke 0<ujsor/>
-III. Befektetett pénzügyi eszközök 0 III. Tõketartalék 0<ujsor/>
-B) Forgóeszközök 142 179 IV. Eredménytartalék 109 870<ujsor/>
-I. Készletek 9 979 V. Értékelési tartalék 0<ujsor/>
-II. Követelések 22 949 VI. Mérleg szerinti eredmény 0<ujsor/>
-III. Értékpapírok 38 020 E) Céltartalék 2 264<ujsor/>
-IV. Pénzeszközök 71 231 F) Kötelezettségek 94 055<ujsor/>
-C) Aktív idõbeli elhatárolások 2 875 I. Hosszú lejáratú kötelezettségek 20 000<ujsor/>
-  II. Rövid lejáratú kötelezettségek 74 055<ujsor/>
-  G) Passzív idõbeli elhatárolások 2 451<ujsor/>
-ÖSSZESEN: 223 640 ÖSSZESEN: 223 640<ujsor/>
-A létrejövõ CONFECTOR Kft. gazdasági társaság tevékenysége: 2010 Fûrészárugyártás; 2020 Falemezgyártás; 2030 Épületasztalos-ipari termék gyártása; 2051 Fatömegcikkgyártás; 2523 Mûanyag építõanyag gyártása; 2611 Síküveggyártás; 2612 Síküveg továbbfeldolgozása; 2615 Mûszaki, egyéb üvegtermék gyártása; 2661 Építési betontermék gyártása; 2662 Építési gipsztermék gyártása; 2663 Elõre kevert beton gyártása; 2666 Egyéb beton-, gipsz-, cementtermék gyártása; 2670 Kõmegmunkálás; 2811 Fémszerkezet gyártása; 2812 Fém épületelem gyártása; 2821 Fémtartály gyártása; 2851 Fémfelület-kezelés; 2852 Fémmegmunkálás; 2871 Vas, acél tárolóeszköz gyártása; 4511 Épületbontás, földmunka; 4512 Talajmintavétel, próbafúrás; 4521 Épület, híd, alagút, közmû, vezeték építése; 4522 Tetõszerkezet-építés, tetõfedés, vízszigetelés; 4523 Autópálya, út, repülõtér, sportjátéktér építése; 4524 Vízi létesítmény építése; 4525 Egyéb speciális szaképítés; 4531 Villanyszerelés; 4532 Szigetelés; 4533 Víz-, gáz-, fûtésszerelés; 4534 Egyéb épületgépészeti szerelés; 4541 Vakolás; 4542 Épületasztalosszerkezet-szerelés; 4543 Padló-, falburkolás; 4544 Festés, üvegezés; 4545 Egyéb befejezõ építés; 4550 Építési eszköz kölcsönzése személyzettel; 5113 Fa-, építési anyag ügynöki nagykereskedelme; 5118 Máshova nem sorolt termék ügynöki nagykereskedelme; 5153 Fa-, építõanyag-, szaniteráru-nagykereskedelem; 5156 Egyéb termelési célú termék nagykereskedelme; 5170 Egyéb nagykereskedelem; 5248 Egyéb, máshova nem sorolt iparcikk-kiskereskedelem; 6024 Közúti teherszállítás; 6311 Rakománykezelés; 6312 Tárolás, raktározás; 6321 Szárazföldi szállítást segítõ tevékenység; 7011 Ingatlanberuházás, -eladás; 7012 Ingatlanforgalmazás; 7020 Ingatlan bérbeadása, üzemeltetése; 7031 Ingatlanügynöki tevékenység; 7032 Ingatlankezelés; 7414 Üzletviteli tanácsadás; 7420 Mérnöki tevékenység, tanácsadás; 7430 Mû szaki vizsgálat, elemzés; 7484 Máshova nem sorolt, egyéb gazdasági tevékenységet segítõ szolgáltatás.<ujsor/>
-A létrejövõ (befogadó) CONFECTOR Kft. gazdasági társaság vezetõ tisztségviselõje: Holman Attila ügyvezetõ (1028 Budapest, Tárkony u. 9.; a. n.: Boda Erzsébet).<ujsor/>
-Az egyesülés módja: beolvadás.<ujsor/>
-A befogadó CONFECTOR Kft. a beolvadó CONPLUSZ Kft. általános jogutódja. A beolvadó CONPLUSZ Kft.-nek fennálló, átveendõ kötelezettségei nincsenek, azonban, amennyiben a késõbbiekben ilyen kötelezettségek merülnének fel, azokért az átvevõ CONFECTOR Kft. tartozik teljes körûen helytállni.<ujsor/>
-A társaság ismert hitelezõt nem tart nyilván.<ujsor/>
-Ezért a társaság a Gt. 66. § (2) bekezdése alapján felhívja a társaság esetleges hitelezõit, hogy fennálló, le nem járt követeléseik erejéig a jelen közlemény Cégközlönyben történt második megjelenésétõl számított 30 napos jogvesztõ határidõn belül az átalakuló gazdasági társaságtól biztosítékot követelhetnek.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">A CONFECTOR MÃ©rnÃ¶ki Iroda KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g taggyÅ±lÃ©se, 2001. mÃ¡jus 29-Ã©n Ã©s 2001. jÃºnius 29-Ã©n tartott taggyÅ±lÃ©sÃ©n egyszemÃ©lyi tulajdonosi dÃ¶ntÃ©ssel elhatÃ¡rozta a kizÃ¡rÃ³lagos tulajdonÃ¡ban Ã¡llÃ³ CONPLUSZ IngatlankezelÅ‘ Kft. jogutÃ³dlÃ¡ssal tÃ¶rtÃ©nÅ‘ megszÃ¼ntetÃ©sÃ©t,<ujsor/>
+beolvadÃ¡sÃ¡t<ujsor/>
+a CONFECTOR MÃ©rnÃ¶ki Iroda KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gba (1028 Budapest, TÃ¡rkony u. 9.), s a taggyÅ±lÃ©sek egyben a befogadÃ³ tÃ¡rsasÃ¡g nevÃ©ben is meghoztÃ¡k a beolvadÃ¡shoz szÃ¼ksÃ©ges taggyÅ±lÃ©si hatÃ¡rozatokat.<ujsor/>
+Az Ã¡talakulÃ³ (beolvadÃ³) gazdasÃ¡gi tÃ¡rsasÃ¡g cÃ©gneve: CONPLUSZ IngatlankezelÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g. SzÃ©khelye: 1028 Budapest, TÃ¡rkony u. 9.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡ma: [01 09 689479].<ujsor/>
+A lÃ©trejÃ¶vÅ‘ (befogadÃ³) gazdasÃ¡gi tÃ¡rsasÃ¡g formÃ¡ja, neve: CONFECTOR MÃ©rnÃ¶ki Iroda KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g. SzÃ©khelye: 1028 Budapest, TÃ¡rkony u. 9.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡ma: [01 09 072007].<ujsor/>
+A tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s megkÃ¶tÃ©sÃ©nek napja: 2001. jÃºnius 29.<ujsor/>
+Az Ã¡talakulÃ³ (beolvadÃ³) CONPLUSZ IngatlankezelÅ‘ Kft. gazdasÃ¡gi tÃ¡rsasÃ¡g vagyonmÃ©rleg-tervezetÃ©nek adatai:<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) (E Ft) FORRÃSOK (passzÃ­vÃ¡k) (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 13 316 D) SajÃ¡t tÅ‘ke 13 448<ujsor/>
+I. ImmateriÃ¡lis javak 0 I. Jegyzett tÅ‘ke 10 000<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 13 316 II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke 0<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 III. TÅ‘ketartalÃ©k 3 448<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 2 143 IV. EredmÃ©nytartalÃ©k 0<ujsor/>
+I. KÃ©szletek 0 V. Ã‰rtÃ©kelÃ©si tartalÃ©k 0<ujsor/>
+II. KÃ¶vetelÃ©sek 110 VI. MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 E) CÃ©ltartalÃ©k 0<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 2 033 F) KÃ¶telezettsÃ©gek 1 818<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 114 I. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0<ujsor/>
+  II. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 1 818<ujsor/>
+  G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 307<ujsor/>
+Ã–SSZESEN: 15 573 Ã–SSZESEN: 15 573<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g vagyonmÃ©rleg-tervezetÃ©nek adatai:<ujsor/>
+A beolvasztÃ³ (Ã¡tvevÅ‘) CONFECTOR MÃ©rnÃ¶ki Iroda KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g:<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) (E Ft) FORRÃSOK (passzÃ­vÃ¡k) (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 78 718 D) SajÃ¡t tÅ‘ke 124 870<ujsor/>
+I. ImmateriÃ¡lis javak 190 I. Jegyzett tÅ‘ke 15 000<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 65 080 II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke 0<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 13 448 III. TÅ‘ketartalÃ©k 0<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 140 146 IV. EredmÃ©nytartalÃ©k 109 870<ujsor/>
+I. KÃ©szletek 9 979 V. Ã‰rtÃ©kelÃ©si tartalÃ©k 0<ujsor/>
+II. KÃ¶vetelÃ©sek 22 949 VI. MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 38 020 E) CÃ©ltartalÃ©k 2 264<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 69 198 F) KÃ¶telezettsÃ©gek 92 347<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 2 761 I. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 20 000<ujsor/>
+  II. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 72 347<ujsor/>
+  G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 2 144<ujsor/>
+Ã–SSZESEN: 221625 Ã–SSZESEN: 221625<ujsor/>
+Az Ã¡talakulÃ¡ssal lÃ©trejÃ¶vÅ‘ (befogadÃ³) CONFECTOR MÃ©rnÃ¶ki Iroda KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g:<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) (E Ft) FORRÃSOK (passzÃ­vÃ¡k) (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 78 586 D) SajÃ¡t tÅ‘ke 124 870<ujsor/>
+I. ImmateriÃ¡lis javak 190 I. Jegyzett tÅ‘ke 15 000<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 78 396 II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke 0<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 III. TÅ‘ketartalÃ©k 0<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 142 179 IV. EredmÃ©nytartalÃ©k 109 870<ujsor/>
+I. KÃ©szletek 9 979 V. Ã‰rtÃ©kelÃ©si tartalÃ©k 0<ujsor/>
+II. KÃ¶vetelÃ©sek 22 949 VI. MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 38 020 E) CÃ©ltartalÃ©k 2 264<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 71 231 F) KÃ¶telezettsÃ©gek 94 055<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 2 875 I. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 20 000<ujsor/>
+  II. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 74 055<ujsor/>
+  G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 2 451<ujsor/>
+Ã–SSZESEN: 223 640 Ã–SSZESEN: 223 640<ujsor/>
+A lÃ©trejÃ¶vÅ‘ CONFECTOR Kft. gazdasÃ¡gi tÃ¡rsasÃ¡g tevÃ©kenysÃ©ge: 2010 FÅ±rÃ©szÃ¡rugyÃ¡rtÃ¡s; 2020 FalemezgyÃ¡rtÃ¡s; 2030 Ã‰pÃ¼letasztalos-ipari termÃ©k gyÃ¡rtÃ¡sa; 2051 FatÃ¶megcikkgyÃ¡rtÃ¡s; 2523 MÅ±anyag Ã©pÃ­tÅ‘anyag gyÃ¡rtÃ¡sa; 2611 SÃ­kÃ¼veggyÃ¡rtÃ¡s; 2612 SÃ­kÃ¼veg tovÃ¡bbfeldolgozÃ¡sa; 2615 MÅ±szaki, egyÃ©b Ã¼vegtermÃ©k gyÃ¡rtÃ¡sa; 2661 Ã‰pÃ­tÃ©si betontermÃ©k gyÃ¡rtÃ¡sa; 2662 Ã‰pÃ­tÃ©si gipsztermÃ©k gyÃ¡rtÃ¡sa; 2663 ElÅ‘re kevert beton gyÃ¡rtÃ¡sa; 2666 EgyÃ©b beton-, gipsz-, cementtermÃ©k gyÃ¡rtÃ¡sa; 2670 KÅ‘megmunkÃ¡lÃ¡s; 2811 FÃ©mszerkezet gyÃ¡rtÃ¡sa; 2812 FÃ©m Ã©pÃ¼letelem gyÃ¡rtÃ¡sa; 2821 FÃ©mtartÃ¡ly gyÃ¡rtÃ¡sa; 2851 FÃ©mfelÃ¼let-kezelÃ©s; 2852 FÃ©mmegmunkÃ¡lÃ¡s; 2871 Vas, acÃ©l tÃ¡rolÃ³eszkÃ¶z gyÃ¡rtÃ¡sa; 4511 Ã‰pÃ¼letbontÃ¡s, fÃ¶ldmunka; 4512 TalajmintavÃ©tel, prÃ³bafÃºrÃ¡s; 4521 Ã‰pÃ¼let, hÃ­d, alagÃºt, kÃ¶zmÅ±, vezetÃ©k Ã©pÃ­tÃ©se; 4522 TetÅ‘szerkezet-Ã©pÃ­tÃ©s, tetÅ‘fedÃ©s, vÃ­zszigetelÃ©s; 4523 AutÃ³pÃ¡lya, Ãºt, repÃ¼lÅ‘tÃ©r, sportjÃ¡tÃ©ktÃ©r Ã©pÃ­tÃ©se; 4524 VÃ­zi lÃ©tesÃ­tmÃ©ny Ã©pÃ­tÃ©se; 4525 EgyÃ©b speciÃ¡lis szakÃ©pÃ­tÃ©s; 4531 VillanyszerelÃ©s; 4532 SzigetelÃ©s; 4533 VÃ­z-, gÃ¡z-, fÅ±tÃ©sszerelÃ©s; 4534 EgyÃ©b Ã©pÃ¼letgÃ©pÃ©szeti szerelÃ©s; 4541 VakolÃ¡s; 4542 Ã‰pÃ¼letasztalosszerkezet-szerelÃ©s; 4543 PadlÃ³-, falburkolÃ¡s; 4544 FestÃ©s, Ã¼vegezÃ©s; 4545 EgyÃ©b befejezÅ‘ Ã©pÃ­tÃ©s; 4550 Ã‰pÃ­tÃ©si eszkÃ¶z kÃ¶lcsÃ¶nzÃ©se szemÃ©lyzettel; 5113 Fa-, Ã©pÃ­tÃ©si anyag Ã¼gynÃ¶ki nagykereskedelme; 5118 MÃ¡shova nem sorolt termÃ©k Ã¼gynÃ¶ki nagykereskedelme; 5153 Fa-, Ã©pÃ­tÅ‘anyag-, szaniterÃ¡ru-nagykereskedelem; 5156 EgyÃ©b termelÃ©si cÃ©lÃº termÃ©k nagykereskedelme; 5170 EgyÃ©b nagykereskedelem; 5248 EgyÃ©b, mÃ¡shova nem sorolt iparcikk-kiskereskedelem; 6024 KÃ¶zÃºti teherszÃ¡llÃ­tÃ¡s; 6311 RakomÃ¡nykezelÃ©s; 6312 TÃ¡rolÃ¡s, raktÃ¡rozÃ¡s; 6321 SzÃ¡razfÃ¶ldi szÃ¡llÃ­tÃ¡st segÃ­tÅ‘ tevÃ©kenysÃ©g; 7011 IngatlanberuhÃ¡zÃ¡s, -eladÃ¡s; 7012 IngatlanforgalmazÃ¡s; 7020 Ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se; 7031 IngatlanÃ¼gynÃ¶ki tevÃ©kenysÃ©g; 7032 IngatlankezelÃ©s; 7414 Ãœzletviteli tanÃ¡csadÃ¡s; 7420 MÃ©rnÃ¶ki tevÃ©kenysÃ©g, tanÃ¡csadÃ¡s; 7430 MÅ± szaki vizsgÃ¡lat, elemzÃ©s; 7484 MÃ¡shova nem sorolt, egyÃ©b gazdasÃ¡gi tevÃ©kenysÃ©get segÃ­tÅ‘ szolgÃ¡ltatÃ¡s.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ (befogadÃ³) CONFECTOR Kft. gazdasÃ¡gi tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘je: Holman Attila Ã¼gyvezetÅ‘ (1028 Budapest, TÃ¡rkony u. 9.; a. n.: Boda ErzsÃ©bet).<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: beolvadÃ¡s.<ujsor/>
+A befogadÃ³ CONFECTOR Kft. a beolvadÃ³ CONPLUSZ Kft. Ã¡ltalÃ¡nos jogutÃ³dja. A beolvadÃ³ CONPLUSZ Kft.-nek fennÃ¡llÃ³, Ã¡tveendÅ‘ kÃ¶telezettsÃ©gei nincsenek, azonban, amennyiben a kÃ©sÅ‘bbiekben ilyen kÃ¶telezettsÃ©gek merÃ¼lnÃ©nek fel, azokÃ©rt az Ã¡tvevÅ‘ CONFECTOR Kft. tartozik teljes kÃ¶rÅ±en helytÃ¡llni.<ujsor/>
+A tÃ¡rsasÃ¡g ismert hitelezÅ‘t nem tart nyilvÃ¡n.<ujsor/>
+EzÃ©rt a tÃ¡rsasÃ¡g a Gt. 66. Â§ (2) bekezdÃ©se alapjÃ¡n felhÃ­vja a tÃ¡rsasÃ¡g esetleges hitelezÅ‘it, hogy fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©seik erejÃ©ig a jelen kÃ¶zlemÃ©ny CÃ©gkÃ¶zlÃ¶nyben tÃ¶rtÃ©nt mÃ¡sodik megjelenÃ©sÃ©tÅ‘l szÃ¡mÃ­tott 30 napos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gtÃ³l biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109072007</mezo>
-<mezo id = "nev">CONFECTOR Mérnök Iroda Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">CONFECTOR MÃ©rnÃ¶k Iroda KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A CONFECTOR Mérnöki Iroda Korlátolt Felelõsségû Társaság taggyûlése, 2001. május 29-én és 2001. június 29-én tartott taggyûlésén egyszemélyi tulajdonosi döntéssel elhatározta a kizárólagos tulajdonában álló CONPLUSZ Ingatlankezelõ Kft. jogutódlással történõ megszüntetését,<ujsor/>
-beolvadását<ujsor/>
-a CONFECTOR Mérnöki Iroda Korlátolt Felelõsségû Társaságba (1028 Budapest, Tárkony u. 9.), s a taggyûlések egyben a befogadó társaság nevében is meghozták a beolvadáshoz szükséges taggyûlési határozatokat.<ujsor/>
-Az átalakuló (beolvadó) gazdasági társaság cégneve: CONPLUSZ Ingatlankezelõ Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhelye: 1028 Budapest, Tárkony u. 9.<ujsor/>
-Cégjegyzékszáma: [01 09 689479].<ujsor/>
-A létrejövõ (befogadó) gazdasági társaság formája, neve: CONFECTOR Mérnöki Iroda Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhelye: 1028 Budapest, Tárkony u. 9.<ujsor/>
-Cégjegyzékszáma: [01 09 072007].<ujsor/>
-A társasági szerzõdés megkötésének napja: 2001. június 29.<ujsor/>
-Az átalakuló (beolvadó) CONPLUSZ Ingatlankezelõ Kft. gazdasági társaság vagyonmérleg-tervezetének adatai:<ujsor/>
-ESZKÖZÖK (aktívák) (E Ft) FORRÁSOK (passzívák) (E Ft)<ujsor/>
-A) Befektetett eszközök 13 316 D) Saját tõke 13 448<ujsor/>
-I. Immateriális javak 0 I. Jegyzett tõke 10 000<ujsor/>
-II. Tárgyi eszközök 13 316 II. Jegyzett, de még be nem fizetett tõke 0<ujsor/>
-III. Befektetett pénzügyi eszközök 0 III. Tõketartalék 3 448<ujsor/>
-B) Forgóeszközök 2 143 IV. Eredménytartalék 0<ujsor/>
-I. Készletek 0 V. Értékelési tartalék 0<ujsor/>
-II. Követelések 110 VI. Mérleg szerinti eredmény 0<ujsor/>
-III. Értékpapírok 0 E) Céltartalék 0<ujsor/>
-IV. Pénzeszközök 2 033 F) Kötelezettségek 1 818<ujsor/>
-C) Aktív idõbeli elhatárolások 114 I. Hosszú lejáratú kötelezettségek 0<ujsor/>
-  II. Rövid lejáratú kötelezettségek 1 818<ujsor/>
-  G) Passzív idõbeli elhatárolások 307<ujsor/>
-ÖSSZESEN: 15 573 ÖSSZESEN: 15 573<ujsor/>
-A létrejövõ gazdasági társaság vagyonmérleg-tervezetének adatai:<ujsor/>
-A beolvasztó (átvevõ) CONFECTOR Mérnöki Iroda Korlátolt Felelõsségû Társaság:<ujsor/>
-ESZKÖZÖK (aktívák) (E Ft) FORRÁSOK (passzívák) (E Ft)<ujsor/>
-A) Befektetett eszközök 78 718 D) Saját tõke 124 870<ujsor/>
-I. Immateriális javak 190 I. Jegyzett tõke 15 000<ujsor/>
-II. Tárgyi eszközök 65 080 II. Jegyzett, de még be nem fizetett tõke 0<ujsor/>
-III. Befektetett pénzügyi eszközök 13 448 III. Tõketartalék 0<ujsor/>
-B) Forgóeszközök 140 146 IV. Eredménytartalék 109 870<ujsor/>
-I. Készletek 9 979 V. Értékelési tartalék 0<ujsor/>
-II. Követelések 22 949 VI. Mérleg szerinti eredmény 0<ujsor/>
-III. Értékpapírok 38 020 E) Céltartalék 2 264<ujsor/>
-IV. Pénzeszközök 69 198 F) Kötelezettségek 92 347<ujsor/>
-C) Aktív idõbeli elhatárolások 2 761 I. Hosszú lejáratú kötelezettségek 20 000<ujsor/>
-  II. Rövid lejáratú kötelezettségek 72 347<ujsor/>
-  G) Passzív idõbeli elhatárolások 2 144<ujsor/>
-ÖSSZESEN: 221 625 ÖSSZESEN: 221 625<ujsor/>
-Az átalakulással létrejövõ (befogadó) CONFECTOR Mérnöki Iroda Korlátolt Felelõsségû Társaság:<ujsor/>
-ESZKÖZÖK (aktívák) (E Ft) FORRÁSOK (passzívák) (E Ft)<ujsor/>
-A) Befektetett eszközök 78 586 D) Saját tõke 124 870<ujsor/>
-I. Immateriális javak 190 I. Jegyzett tõke 15 000<ujsor/>
-II. Tárgyi eszközök 78 396 II. Jegyzett, de még be nem fizetett tõke 0<ujsor/>
-III. Befektetett pénzügyi eszközök 0 III. Tõketartalék 0<ujsor/>
-B) Forgóeszközök 142 179 IV. Eredménytartalék 109 870<ujsor/>
-I. Készletek 9 979 V. Értékelési tartalék 0<ujsor/>
-II. Követelések 22 949 VI. Mérleg szerinti eredmény 0<ujsor/>
-III. Értékpapírok 38 020 E) Céltartalék 2 264<ujsor/>
-IV. Pénzeszközök 71 231 F) Kötelezettségek 94 055<ujsor/>
-C) Aktív idõbeli elhatárolások 2 875 I. Hosszú lejáratú kötelezettségek 20 000<ujsor/>
-  II. Rövid lejáratú kötelezettségek 74 055<ujsor/>
-  G) Passzív idõbeli elhatárolások 2 451<ujsor/>
-ÖSSZESEN: 223 640 ÖSSZESEN: 223 640<ujsor/>
-A létrejövõ CONFECTOR Kft. gazdasági társaság tevékenysége: 2010 Fûrészárugyártás; 2020 Falemezgyártás; 2030 Épületasztalos-ipari termék gyártása; 2051 Fatömegcikkgyártás; 2523 Mûanyag építõanyag gyártása; 2611 Síküveggyártás; 2612 Síküveg továbbfeldolgozása; 2615 Mûszaki, egyéb üvegtermék gyártása; 2661 Építési betontermék gyártása; 2662 Építési gipsztermék gyártása; 2663 Elõre kevert beton gyártása; 2666 Egyéb beton-, gipsz-, cementtermék gyártása; 2670 Kõmegmunkálás; 2811 Fémszerkezet gyártása; 2812 Fém épületelem gyártása; 2821 Fémtartály gyártása; 2851 Fémfelület-kezelés; 2852 Fémmegmunkálás; 2871 Vas, acél tárolóeszköz gyártása; 4511 Épületbontás, földmunka; 4512 Talajmintavétel, próbafúrás; 4521 Épület, híd, alagút, közmû, vezeték építése; 4522 Tetõszerkezet-építés, tetõfedés, vízszigetelés; 4523 Autópálya, út, repülõtér, sportjátéktér építése; 4524 Vízi létesítmény építése; 4525 Egyéb speciális szaképítés; 4531 Villanyszerelés; 4532 Szigetelés; 4533 Víz-, gáz-, fûtésszerelés; 4534 Egyéb épületgépészeti szerelés; 4541 Vakolás; 4542 Épületasztalosszerkezet-szerelés; 4543 Padló-, falburkolás; 4544 Festés, üvegezés; 4545 Egyéb befejezõ építés; 4550 Építési eszköz kölcsönzése személyzettel; 5113 Fa-, építési anyag ügynöki nagykereskedelme; 5118 Máshova nem sorolt termék ügynöki nagykereskedelme; 5153 Fa-, építõanyag-, szaniteráru-nagykereskedelem; 5156 Egyéb termelési célú termék nagykereskedelme; 5170 Egyéb nagykereskedelem; 5248 Egyéb, máshova nem sorolt iparcikk-kiskereskedelem; 6024 Közúti teherszállítás; 6311 Rakománykezelés; 6312 Tárolás, raktározás; 6321 Szárazföldi szállítást segítõ tevékenység; 7011 Ingatlanberuházás, -eladás; 7012 Ingatlanforgalmazás; 7020 Ingatlan bérbeadása, üzemeltetése; 7031 Ingatlanügynöki tevékenység; 7032 Ingatlankezelés; 7414 Üzletviteli tanácsadás; 7420 Mérnöki tevékenység, tanácsadás; 7430 Mûszaki vizsgálat, elemzés; 7484 Máshova nem sorolt, egyéb gazdasági tevékenységet segítõ szolgáltatás.<ujsor/>
-A létrejövõ (befogadó) CONFECTOR Kft. gazdasági társaság vezetõ tisztségviselõje: Holman Attila ügyvezetõ (1028 Budapest, Tárkony u. 9.; a. n.: Boda Erzsébet).<ujsor/>
-Az egyesülés módja: beolvadás.<ujsor/>
-A befogadó CONFECTOR Kft. a beolvadó CONPLUSZ Kft. általános jogutódja. A beolvadó CONPLUSZ Kft.-nek fennálló, átveendõ kötelezettségei nincsenek, azonban, amennyiben a késõbbiekben ilyen kötelezettségek merülnének fel, azokért az átvevõ CONFECTOR Kft. tartozik teljes körûen helytállni.<ujsor/>
-A társaság ismert hitelezõt nem tart nyilván.<ujsor/>
-Ezért a társaság a Gt. 66. § (2) bekezdése alapján felhívja a társaság esetleges hitelezõit, hogy fennálló, le nem járt követeléseik erejéig a jelen közlemény Cégközlönyben történt második megjelenésétõl számított 30 napos jogvesztõ határidõn belül az átalakuló gazdasági társaságtól biztosítékot követelhetnek.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">A CONFECTOR MÃ©rnÃ¶ki Iroda KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g taggyÅ±lÃ©se, 2001. mÃ¡jus 29-Ã©n Ã©s 2001. jÃºnius 29-Ã©n tartott taggyÅ±lÃ©sÃ©n egyszemÃ©lyi tulajdonosi dÃ¶ntÃ©ssel elhatÃ¡rozta a kizÃ¡rÃ³lagos tulajdonÃ¡ban Ã¡llÃ³ CONPLUSZ IngatlankezelÅ‘ Kft. jogutÃ³dlÃ¡ssal tÃ¶rtÃ©nÅ‘ megszÃ¼ntetÃ©sÃ©t,<ujsor/>
+beolvadÃ¡sÃ¡t<ujsor/>
+a CONFECTOR MÃ©rnÃ¶ki Iroda KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gba (1028 Budapest, TÃ¡rkony u. 9.), s a taggyÅ±lÃ©sek egyben a befogadÃ³ tÃ¡rsasÃ¡g nevÃ©ben is meghoztÃ¡k a beolvadÃ¡shoz szÃ¼ksÃ©ges taggyÅ±lÃ©si hatÃ¡rozatokat.<ujsor/>
+Az Ã¡talakulÃ³ (beolvadÃ³) gazdasÃ¡gi tÃ¡rsasÃ¡g cÃ©gneve: CONPLUSZ IngatlankezelÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 1028 Budapest, TÃ¡rkony u. 9.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡ma: [01 09 689479].<ujsor/>
+A lÃ©trejÃ¶vÅ‘ (befogadÃ³) gazdasÃ¡gi tÃ¡rsasÃ¡g formÃ¡ja, neve: CONFECTOR MÃ©rnÃ¶ki Iroda KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 1028 Budapest, TÃ¡rkony u. 9.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡ma: [01 09 072007].<ujsor/>
+A tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s megkÃ¶tÃ©sÃ©nek napja: 2001. jÃºnius 29.<ujsor/>
+Az Ã¡talakulÃ³ (beolvadÃ³) CONPLUSZ IngatlankezelÅ‘ Kft. gazdasÃ¡gi tÃ¡rsasÃ¡g vagyonmÃ©rleg-tervezetÃ©nek adatai:<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) (E Ft) FORRÃSOK (passzÃ­vÃ¡k) (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 13 316 D) SajÃ¡t tÅ‘ke 13 448<ujsor/>
+I. ImmateriÃ¡lis javak 0 I. Jegyzett tÅ‘ke 10 000<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 13 316 II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke 0<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 III. TÅ‘ketartalÃ©k 3 448<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 2 143 IV. EredmÃ©nytartalÃ©k 0<ujsor/>
+I. KÃ©szletek 0 V. Ã‰rtÃ©kelÃ©si tartalÃ©k 0<ujsor/>
+II. KÃ¶vetelÃ©sek 110 VI. MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 E) CÃ©ltartalÃ©k 0<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 2 033 F) KÃ¶telezettsÃ©gek 1 818<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 114 I. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0<ujsor/>
+  II. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 1 818<ujsor/>
+  G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 307<ujsor/>
+Ã–SSZESEN: 15 573 Ã–SSZESEN: 15 573<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g vagyonmÃ©rleg-tervezetÃ©nek adatai:<ujsor/>
+A beolvasztÃ³ (Ã¡tvevÅ‘) CONFECTOR MÃ©rnÃ¶ki Iroda KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g:<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) (E Ft) FORRÃSOK (passzÃ­vÃ¡k) (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 78 718 D) SajÃ¡t tÅ‘ke 124 870<ujsor/>
+I. ImmateriÃ¡lis javak 190 I. Jegyzett tÅ‘ke 15 000<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 65 080 II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke 0<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 13 448 III. TÅ‘ketartalÃ©k 0<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 140 146 IV. EredmÃ©nytartalÃ©k 109 870<ujsor/>
+I. KÃ©szletek 9 979 V. Ã‰rtÃ©kelÃ©si tartalÃ©k 0<ujsor/>
+II. KÃ¶vetelÃ©sek 22 949 VI. MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 38 020 E) CÃ©ltartalÃ©k 2 264<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 69 198 F) KÃ¶telezettsÃ©gek 92 347<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 2 761 I. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 20 000<ujsor/>
+  II. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 72 347<ujsor/>
+  G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 2 144<ujsor/>
+Ã–SSZESEN: 221 625 Ã–SSZESEN: 221 625<ujsor/>
+Az Ã¡talakulÃ¡ssal lÃ©trejÃ¶vÅ‘ (befogadÃ³) CONFECTOR MÃ©rnÃ¶ki Iroda KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g:<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) (E Ft) FORRÃSOK (passzÃ­vÃ¡k) (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 78 586 D) SajÃ¡t tÅ‘ke 124 870<ujsor/>
+I. ImmateriÃ¡lis javak 190 I. Jegyzett tÅ‘ke 15 000<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 78 396 II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke 0<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 III. TÅ‘ketartalÃ©k 0<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 142 179 IV. EredmÃ©nytartalÃ©k 109 870<ujsor/>
+I. KÃ©szletek 9 979 V. Ã‰rtÃ©kelÃ©si tartalÃ©k 0<ujsor/>
+II. KÃ¶vetelÃ©sek 22 949 VI. MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 38 020 E) CÃ©ltartalÃ©k 2 264<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 71 231 F) KÃ¶telezettsÃ©gek 94 055<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 2 875 I. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 20 000<ujsor/>
+  II. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 74 055<ujsor/>
+  G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 2 451<ujsor/>
+Ã–SSZESEN: 223 640 Ã–SSZESEN: 223 640<ujsor/>
+A lÃ©trejÃ¶vÅ‘ CONFECTOR Kft. gazdasÃ¡gi tÃ¡rsasÃ¡g tevÃ©kenysÃ©ge: 2010 FÅ±rÃ©szÃ¡rugyÃ¡rtÃ¡s; 2020 FalemezgyÃ¡rtÃ¡s; 2030 Ã‰pÃ¼letasztalos-ipari termÃ©k gyÃ¡rtÃ¡sa; 2051 FatÃ¶megcikkgyÃ¡rtÃ¡s; 2523 MÅ±anyag Ã©pÃ­tÅ‘anyag gyÃ¡rtÃ¡sa; 2611 SÃ­kÃ¼veggyÃ¡rtÃ¡s; 2612 SÃ­kÃ¼veg tovÃ¡bbfeldolgozÃ¡sa; 2615 MÅ±szaki, egyÃ©b Ã¼vegtermÃ©k gyÃ¡rtÃ¡sa; 2661 Ã‰pÃ­tÃ©si betontermÃ©k gyÃ¡rtÃ¡sa; 2662 Ã‰pÃ­tÃ©si gipsztermÃ©k gyÃ¡rtÃ¡sa; 2663 ElÅ‘re kevert beton gyÃ¡rtÃ¡sa; 2666 EgyÃ©b beton-, gipsz-, cementtermÃ©k gyÃ¡rtÃ¡sa; 2670 KÅ‘megmunkÃ¡lÃ¡s; 2811 FÃ©mszerkezet gyÃ¡rtÃ¡sa; 2812 FÃ©m Ã©pÃ¼letelem gyÃ¡rtÃ¡sa; 2821 FÃ©mtartÃ¡ly gyÃ¡rtÃ¡sa; 2851 FÃ©mfelÃ¼let-kezelÃ©s; 2852 FÃ©mmegmunkÃ¡lÃ¡s; 2871 Vas, acÃ©l tÃ¡rolÃ³eszkÃ¶z gyÃ¡rtÃ¡sa; 4511 Ã‰pÃ¼letbontÃ¡s, fÃ¶ldmunka; 4512 TalajmintavÃ©tel, prÃ³bafÃºrÃ¡s; 4521 Ã‰pÃ¼let, hÃ­d, alagÃºt, kÃ¶zmÅ±, vezetÃ©k Ã©pÃ­tÃ©se; 4522 TetÅ‘szerkezet-Ã©pÃ­tÃ©s, tetÅ‘fedÃ©s, vÃ­zszigetelÃ©s; 4523 AutÃ³pÃ¡lya, Ãºt, repÃ¼lÅ‘tÃ©r, sportjÃ¡tÃ©ktÃ©r Ã©pÃ­tÃ©se; 4524 VÃ­zi lÃ©tesÃ­tmÃ©ny Ã©pÃ­tÃ©se; 4525 EgyÃ©b speciÃ¡lis szakÃ©pÃ­tÃ©s; 4531 VillanyszerelÃ©s; 4532 SzigetelÃ©s; 4533 VÃ­z-, gÃ¡z-, fÅ±tÃ©sszerelÃ©s; 4534 EgyÃ©b Ã©pÃ¼letgÃ©pÃ©szeti szerelÃ©s; 4541 VakolÃ¡s; 4542 Ã‰pÃ¼letasztalosszerkezet-szerelÃ©s; 4543 PadlÃ³-, falburkolÃ¡s; 4544 FestÃ©s, Ã¼vegezÃ©s; 4545 EgyÃ©b befejezÅ‘ Ã©pÃ­tÃ©s; 4550 Ã‰pÃ­tÃ©si eszkÃ¶z kÃ¶lcsÃ¶nzÃ©se szemÃ©lyzettel; 5113 Fa-, Ã©pÃ­tÃ©si anyag Ã¼gynÃ¶ki nagykereskedelme; 5118 MÃ¡shova nem sorolt termÃ©k Ã¼gynÃ¶ki nagykereskedelme; 5153 Fa-, Ã©pÃ­tÅ‘anyag-, szaniterÃ¡ru-nagykereskedelem; 5156 EgyÃ©b termelÃ©si cÃ©lÃº termÃ©k nagykereskedelme; 5170 EgyÃ©b nagykereskedelem; 5248 EgyÃ©b, mÃ¡shova nem sorolt iparcikk-kiskereskedelem; 6024 KÃ¶zÃºti teherszÃ¡llÃ­tÃ¡s; 6311 RakomÃ¡nykezelÃ©s; 6312 TÃ¡rolÃ¡s, raktÃ¡rozÃ¡s; 6321 SzÃ¡razfÃ¶ldi szÃ¡llÃ­tÃ¡st segÃ­tÅ‘ tevÃ©kenysÃ©g; 7011 IngatlanberuhÃ¡zÃ¡s, -eladÃ¡s; 7012 IngatlanforgalmazÃ¡s; 7020 Ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se; 7031 IngatlanÃ¼gynÃ¶ki tevÃ©kenysÃ©g; 7032 IngatlankezelÃ©s; 7414 Ãœzletviteli tanÃ¡csadÃ¡s; 7420 MÃ©rnÃ¶ki tevÃ©kenysÃ©g, tanÃ¡csadÃ¡s; 7430 MÅ±szaki vizsgÃ¡lat, elemzÃ©s; 7484 MÃ¡shova nem sorolt, egyÃ©b gazdasÃ¡gi tevÃ©kenysÃ©get segÃ­tÅ‘ szolgÃ¡ltatÃ¡s.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ (befogadÃ³) CONFECTOR Kft. gazdasÃ¡gi tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘je: Holman Attila Ã¼gyvezetÅ‘ (1028 Budapest, TÃ¡rkony u. 9.; a. n.: Boda ErzsÃ©bet).<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: beolvadÃ¡s.<ujsor/>
+A befogadÃ³ CONFECTOR Kft. a beolvadÃ³ CONPLUSZ Kft. Ã¡ltalÃ¡nos jogutÃ³dja. A beolvadÃ³ CONPLUSZ Kft.-nek fennÃ¡llÃ³, Ã¡tveendÅ‘ kÃ¶telezettsÃ©gei nincsenek, azonban, amennyiben a kÃ©sÅ‘bbiekben ilyen kÃ¶telezettsÃ©gek merÃ¼lnÃ©nek fel, azokÃ©rt az Ã¡tvevÅ‘ CONFECTOR Kft. tartozik teljes kÃ¶rÅ±en helytÃ¡llni.<ujsor/>
+A tÃ¡rsasÃ¡g ismert hitelezÅ‘t nem tart nyilvÃ¡n.<ujsor/>
+EzÃ©rt a tÃ¡rsasÃ¡g a Gt. 66. Â§ (2) bekezdÃ©se alapjÃ¡n felhÃ­vja a tÃ¡rsasÃ¡g esetleges hitelezÅ‘it, hogy fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©seik erejÃ©ig a jelen kÃ¶zlemÃ©ny CÃ©gkÃ¶zlÃ¶nyben tÃ¶rtÃ©nt mÃ¡sodik megjelenÃ©sÃ©tÅ‘l szÃ¡mÃ­tott 30 napos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gtÃ³l biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109072007</mezo>
-<mezo id = "nev">CONFECTOR Mérnök Iroda Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">CONFECTOR MÃ©rnÃ¶k Iroda KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A beolvadó CONPLUSZ Ingatlankezelõ Korlátolt Felelõsségû Társaság (székhelye: 1028 Budapest, Tárkony u. 9.; cégjegyzékszáma: [01 09 689479]) és az átvevõ CONFECTOR Mérnöki Iroda Korlátolt Felelõsségû Társaság (1028 Budapest, Tárkony u. 9.; cégjegyzékszáma: [01 09 072007]) egyesülésére vonatkozó közlemény a Cégközlöny 2001. július 26-i 30. és 2001. augusztus 2-i, 31. számában jelent meg.<ujsor/>
-A közleménybõl kimaradt, hogy az átvevõ társaság jegyzett tõkéjébõl az egyesülést követõen 14 500 E Ft a pénzbeli betét és 500 E Ft a nem pénzbeli betét.<ujsor/>
+<mezo id = "szoveg">A beolvadÃ³ CONPLUSZ IngatlankezelÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (szÃ©khelye: 1028 Budapest, TÃ¡rkony u. 9.; cÃ©gjegyzÃ©kszÃ¡ma: [01 09 689479]) Ã©s az Ã¡tvevÅ‘ CONFECTOR MÃ©rnÃ¶ki Iroda KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (1028 Budapest, TÃ¡rkony u. 9.; cÃ©gjegyzÃ©kszÃ¡ma: [01 09 072007]) egyesÃ¼lÃ©sÃ©re vonatkozÃ³ kÃ¶zlemÃ©ny a CÃ©gkÃ¶zlÃ¶ny 2001. jÃºlius 26-i 30. Ã©s 2001. augusztus 2-i, 31. szÃ¡mÃ¡ban jelent meg.<ujsor/>
+A kÃ¶zlemÃ©nybÅ‘l kimaradt, hogy az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g jegyzett tÅ‘kÃ©jÃ©bÅ‘l az egyesÃ¼lÃ©st kÃ¶vetÅ‘en 14 500 E Ft a pÃ©nzbeli betÃ©t Ã©s 500 E Ft a nem pÃ©nzbeli betÃ©t.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109072007</mezo>
-<mezo id = "nev">CONFECTOR Mérnök Iroda Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">CONFECTOR MÃ©rnÃ¶k Iroda KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a 2011. március 11. napján indult változásbejegyzési eljárást megszünteti.<ujsor/>
-A végzés ellen a kézbesítéstõl számított 15 (tizenöt) napon belül a Fõvárosi Ïtélõtáblához címzett, de a Fõvárosi Bíróságnál, mint Cégbíróságnál 1 (egy) példányban elektronikus úton benyújtható fellebbezésnek van helye. A fellebbezéshez csatolni kell a fellebbezési illeték (7.000.- Ft) elektronikus úton történõ megfizetését igazoló MÁK igazolást. A Fõvárosi Ïtélõtábla elõtti eljárásban a fellebbezõ fél részére a jogi képviselet kötelezõ.<ujsor/>
-2011. április 13.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a 2011. mÃ¡rcius 11. napjÃ¡n indult vÃ¡ltozÃ¡sbejegyzÃ©si eljÃ¡rÃ¡st megszÃ¼nteti.<ujsor/>
+A vÃ©gzÃ©s ellen a kÃ©zbesÃ­tÃ©stÅ‘l szÃ¡mÃ­tott 15 (tizenÃ¶t) napon belÃ¼l a FÅ‘vÃ¡rosi ÄtÃ©lÅ‘tÃ¡blÃ¡hoz cÃ­mzett, de a FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡gnÃ¡l, mint CÃ©gbÃ­rÃ³sÃ¡gnÃ¡l 1 (egy) pÃ©ldÃ¡nyban elektronikus Ãºton benyÃºjthatÃ³ fellebbezÃ©snek van helye. A fellebbezÃ©shez csatolni kell a fellebbezÃ©si illetÃ©k (7.000.- Ft) elektronikus Ãºton tÃ¶rtÃ©nÅ‘ megfizetÃ©sÃ©t igazolÃ³ MÃK igazolÃ¡st. A FÅ‘vÃ¡rosi ÄtÃ©lÅ‘tÃ¡bla elÅ‘tti eljÃ¡rÃ¡sban a fellebbezÅ‘ fÃ©l rÃ©szÃ©re a jogi kÃ©pviselet kÃ¶telezÅ‘.<ujsor/>
+2011. Ã¡prilis 13.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109072007</mezo>
-<mezo id = "nev">CONFECTOR Mérnök Iroda Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1028 Budapest, Tárkony u. 9</mezo>
+<mezo id = "nev">CONFECTOR MÃ©rnÃ¶k Iroda KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1028 Budapest, TÃ¡rkony u. 9</mezo>
 <mezo id = "adosz">10491496241</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A CONFECTOR Kft. (Cg.: [01 09 072007]; székhely: 1037 Budapest, Pomázi út 11.; adószám: [10491496-2-41]; képviseli: Holman Attila ügyvezetõ) képviseletében eljáró tulajdonosok, illetve ügyvezetõ 2011. május 19-én megtartott taggyûlésükön egyhangúan elhatározták a CONFECTOR Kft. 2011. augusztus 31-ei hatállyal szétválás útján történõ kiválását a 2006. évi IV. tv. 82. § és 83. §-ában foglaltaknak megfelelõen.<ujsor/>
-A társaság szétválása a Gt. 82. § és 83. § (5) bekezdés e) pontjában foglaltaknak megfelelõen kiválás útján történik. A szétváló gazdasági társaság jogutódja ­ ideértve azt a gazdasági társaságot is, amelybõl a kiválás történik ­ a gazdasági társaságnak a szétválás elõtt keletkezett kötelezettségeiért a szétválási szerzõdés rendelkezése szerint felel.<ujsor/>
-A szétválás módja: kiválás.<ujsor/>
-A létrejövõ társaság fõbb adatai:<ujsor/>
-Neve: HOLMAN Ingatlanhasznosító és Fejlesztõ Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhely: 1037 Budapest, Pomázi út 11.<ujsor/>
-Telephely: 1037 Budapest, Török-kõ u. 19944/6., 1028 Budapest, Rákos u. 12.<ujsor/>
-Formája: korlátolt felelõsségû társaság.<ujsor/>
-A szétválás útján történõ kiválást kimondó okirat elfogadásának napja: 2011. május 19.<ujsor/>
-A társasági szerzõdésének kelte: 2011. május 19.<ujsor/>
-A fennmaradó társaság fõbb adatai:<ujsor/>
-Neve: CONFECTOR Mérnök Iroda Korlátolt Felelõsségû Társaság.<ujsor/>
-Cégjegyzékszáma: [01 09 072007].<ujsor/>
-Székhely: 1037 Budapest, Pomázi út 11.<ujsor/>
-Telephely: 1028 Budapest, Tárkony u. 9., 1037 Budapest, Török-kõ u. 19944/6.<ujsor/>
-A kiválás után fennmaradó társaság társasági szerzõdésének kelte: 2011. május 19.<ujsor/>
-Az átalakuló, a létrejövõ és a fennmaradó gazdasági társaság vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-Átalakuló CONFECTOR Kft.:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 292 193 Saját tõke 774 499<ujsor/>
-Forgóeszközök 1 551 477 Jegyzett tõke 15 000<ujsor/>
-Aktív idõbeli elhatárolás 10 110 Céltartalékok 0<ujsor/>
-Kötelezettségek 872 845<ujsor/>
-Passzív idõbeli elhatárolások 206 436<ujsor/>
-ÖSSZESEN: 1 853 780 ÖSSZESEN: 1 853 780<ujsor/>
-Létrejövõ HOLMAN Kft.:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 263 235 Saját tõke 263 235<ujsor/>
-Forgóeszközök 0 Jegyzett tõke 1 000<ujsor/>
-Aktív idõbeli elhatárolás 0 Céltartalékok 0<ujsor/>
-Kötelezettségek 0<ujsor/>
-Passzív idõbeli elhatárolások 0<ujsor/>
-ÖSSZESEN: 263 235 ÖSSZESEN: 263 235<ujsor/>
-Fennmaradó CONFECTOR Kft.<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 28 958 Saját tõke 511 264<ujsor/>
-Forgóeszközök 1 551 477 Jegyzett tõke 100 000<ujsor/>
-Aktív idõbeli elhatárolás 10 110 Céltartalékok 0<ujsor/>
-Kötelezettségek 872 845<ujsor/>
-Passzív idõbeli elhatárolások 206 436<ujsor/>
-ÖSSZESEN: 1 590 545 ÖSSZESEN: 1 590 545<ujsor/>
-A fennmaradó gazdasági társaság fõ tevékenysége: 4120 Lakó- és nem lakóépület építése.<ujsor/>
-A létrejövõ gazdasági társaság fõ tevékenysége: 4120 Lakó- és nem lakóépület építése.<ujsor/>
-A fennmaradó CONFECTOR Kft. vezetõ tisztségviselõje: Holman Attila (a. n.: Boda Erzsébet, 1028 Budapest, Tárkony u. 9.).<ujsor/>
-Az ügyvezetõ megbízatása határozatlan idõre szól.<ujsor/>
-A létrejövõ gazdasági társaság vezetõ tisztségviselõje: Holman Attila (a. n.: Boda Erzsébet, 1028 Budapest, Tárkony u. 9.).<ujsor/>
-Az ügyvezetõ megbízatása határozatlan idõre szól.<ujsor/>
-A hitelezõk a 2006. évi IV. tv. 76. § (1) és (2) bekezdéseiben foglalt jogaikkal élhetnek. E szerint az átalakulás az átalakuló gazdasági társasággal szemben fennálló követeléseket nem teszi lejárttá. Azok a hitelezõk, akiknek az átalakuló gazdasági társasággal szemben fennálló, le nem járt követelései az átalakulással hozott döntés elsõ közzétételét megelõzõen keletkeztek, követeléseik erejéig az átalakuló gazdasági társaságtól a döntés második közzétételét követõ harmincnapos jogvesztõ határidõn belül biztosítékot követelhetnek.<ujsor/>
-A hitelezõk a hirdetményi határidõ alatt a fennmaradó CONFECTOR Kft. székhelyén (1037 Budapest, Pomázi út 11.) kaphatnak tájékoztatást a követelésüket érintõ vagyonmegosztási rendelkezésekrõl.<ujsor/>
-A szétváló társaság jogutóda a szétváló társaságnak a szétválás elõtt keletkezett kötelezettségeiért a szétválási szerzõdés rendelkezése szerint felel. A szétváló társaság vagyonmegosztás elõtt szerzett jogainak érvényesítésére a szétválás után az a jogutód jogosult, amelyhez az adott jogot a szétválási szerzõdés rendelte.<ujsor/>
-A szétváló gazdasági társaságot megilletõ jogok és kötelezettségek az alábbiak:<ujsor/>
-Saját tõke felosztás (%) E Ft<ujsor/>
-Fennmaradó társaság: CONFECTOR Kft. 66,0122 511 264<ujsor/>
-Létrejövõ társaság: HOLMAN Kft. 33,9878 263 235<ujsor/>
-Hosszú lejáratú kötelezettségek % E Ft<ujsor/>
-Fennmaradó társaság: CONFECTOR Kft. 100 189 460<ujsor/>
-Létrejövõ társaság: HOLMAN Kft. 0 0<ujsor/>
-Rövid lejáratú kötelezettségek % E Ft<ujsor/>
-Fennmaradó társaság: CONFECTOR Kft. 100 683 385<ujsor/>
-Létrejövõ társaság: HOLMAN Kft. 0 0<ujsor/>
-Mérlegfõösszeg % E Ft<ujsor/>
-Fennmaradó társaság: CONFECTOR Kft. 85,8001 1 590 545<ujsor/>
-Létrejövõ társaság: HOLMAN Kft. 14,1999 263 235<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">A CONFECTOR Kft. (Cg.: [01 09 072007]; szÃ©khely: 1037 Budapest, PomÃ¡zi Ãºt 11.; adÃ³szÃ¡m: [10491496-2-41]; kÃ©pviseli: Holman Attila Ã¼gyvezetÅ‘) kÃ©pviseletÃ©ben eljÃ¡rÃ³ tulajdonosok, illetve Ã¼gyvezetÅ‘ 2011. mÃ¡jus 19-Ã©n megtartott taggyÅ±lÃ©sÃ¼kÃ¶n egyhangÃºan elhatÃ¡roztÃ¡k a CONFECTOR Kft. 2011. augusztus 31-ei hatÃ¡llyal szÃ©tvÃ¡lÃ¡s ÃºtjÃ¡n tÃ¶rtÃ©nÅ‘ kivÃ¡lÃ¡sÃ¡t a 2006. Ã©vi IV. tv. 82. Â§ Ã©s 83. Â§-Ã¡ban foglaltaknak megfelelÅ‘en.<ujsor/>
+A tÃ¡rsasÃ¡g szÃ©tvÃ¡lÃ¡sa a Gt. 82. Â§ Ã©s 83. Â§ (5) bekezdÃ©s e) pontjÃ¡ban foglaltaknak megfelelÅ‘en kivÃ¡lÃ¡s ÃºtjÃ¡n tÃ¶rtÃ©nik. A szÃ©tvÃ¡lÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g jogutÃ³dja Â­ ideÃ©rtve azt a gazdasÃ¡gi tÃ¡rsasÃ¡got is, amelybÅ‘l a kivÃ¡lÃ¡s tÃ¶rtÃ©nik Â­ a gazdasÃ¡gi tÃ¡rsasÃ¡gnak a szÃ©tvÃ¡lÃ¡s elÅ‘tt keletkezett kÃ¶telezettsÃ©geiÃ©rt a szÃ©tvÃ¡lÃ¡si szerzÅ‘dÃ©s rendelkezÃ©se szerint felel.<ujsor/>
+A szÃ©tvÃ¡lÃ¡s mÃ³dja: kivÃ¡lÃ¡s.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g fÅ‘bb adatai:<ujsor/>
+Neve: HOLMAN IngatlanhasznosÃ­tÃ³ Ã©s FejlesztÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khely: 1037 Budapest, PomÃ¡zi Ãºt 11.<ujsor/>
+Telephely: 1037 Budapest, TÃ¶rÃ¶k-kÅ‘ u. 19944/6., 1028 Budapest, RÃ¡kos u. 12.<ujsor/>
+FormÃ¡ja: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+A szÃ©tvÃ¡lÃ¡s ÃºtjÃ¡n tÃ¶rtÃ©nÅ‘ kivÃ¡lÃ¡st kimondÃ³ okirat elfogadÃ¡sÃ¡nak napja: 2011. mÃ¡jus 19.<ujsor/>
+A tÃ¡rsasÃ¡gi szerzÅ‘dÃ©sÃ©nek kelte: 2011. mÃ¡jus 19.<ujsor/>
+A fennmaradÃ³ tÃ¡rsasÃ¡g fÅ‘bb adatai:<ujsor/>
+Neve: CONFECTOR MÃ©rnÃ¶k Iroda KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡ma: [01 09 072007].<ujsor/>
+SzÃ©khely: 1037 Budapest, PomÃ¡zi Ãºt 11.<ujsor/>
+Telephely: 1028 Budapest, TÃ¡rkony u. 9., 1037 Budapest, TÃ¶rÃ¶k-kÅ‘ u. 19944/6.<ujsor/>
+A kivÃ¡lÃ¡s utÃ¡n fennmaradÃ³ tÃ¡rsasÃ¡g tÃ¡rsasÃ¡gi szerzÅ‘dÃ©sÃ©nek kelte: 2011. mÃ¡jus 19.<ujsor/>
+Az Ã¡talakulÃ³, a lÃ©trejÃ¶vÅ‘ Ã©s a fennmaradÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+ÃtalakulÃ³ CONFECTOR Kft.:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 292 193 SajÃ¡t tÅ‘ke 774 499<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 1 551 477 Jegyzett tÅ‘ke 15 000<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡s 10 110 CÃ©ltartalÃ©kok 0<ujsor/>
+KÃ¶telezettsÃ©gek 872 845<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 206 436<ujsor/>
+Ã–SSZESEN: 1 853 780 Ã–SSZESEN: 1 853 780<ujsor/>
+LÃ©trejÃ¶vÅ‘ HOLMAN Kft.:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 263 235 SajÃ¡t tÅ‘ke 263 235<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 0 Jegyzett tÅ‘ke 1 000<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡s 0 CÃ©ltartalÃ©kok 0<ujsor/>
+KÃ¶telezettsÃ©gek 0<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 0<ujsor/>
+Ã–SSZESEN: 263 235 Ã–SSZESEN: 263 235<ujsor/>
+FennmaradÃ³ CONFECTOR Kft.<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 28 958 SajÃ¡t tÅ‘ke 511 264<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 1 551 477 Jegyzett tÅ‘ke 100 000<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡s 10 110 CÃ©ltartalÃ©kok 0<ujsor/>
+KÃ¶telezettsÃ©gek 872 845<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 206 436<ujsor/>
+Ã–SSZESEN: 1 590 545 Ã–SSZESEN: 1 590 545<ujsor/>
+A fennmaradÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©ge: 4120 LakÃ³- Ã©s nem lakÃ³Ã©pÃ¼let Ã©pÃ­tÃ©se.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©ge: 4120 LakÃ³- Ã©s nem lakÃ³Ã©pÃ¼let Ã©pÃ­tÃ©se.<ujsor/>
+A fennmaradÃ³ CONFECTOR Kft. vezetÅ‘ tisztsÃ©gviselÅ‘je: Holman Attila (a. n.: Boda ErzsÃ©bet, 1028 Budapest, TÃ¡rkony u. 9.).<ujsor/>
+Az Ã¼gyvezetÅ‘ megbÃ­zatÃ¡sa hatÃ¡rozatlan idÅ‘re szÃ³l.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘je: Holman Attila (a. n.: Boda ErzsÃ©bet, 1028 Budapest, TÃ¡rkony u. 9.).<ujsor/>
+Az Ã¼gyvezetÅ‘ megbÃ­zatÃ¡sa hatÃ¡rozatlan idÅ‘re szÃ³l.<ujsor/>
+A hitelezÅ‘k a 2006. Ã©vi IV. tv. 76. Â§ (1) Ã©s (2) bekezdÃ©seiben foglalt jogaikkal Ã©lhetnek. E szerint az Ã¡talakulÃ¡s az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³ kÃ¶vetelÃ©seket nem teszi lejÃ¡rttÃ¡. Azok a hitelezÅ‘k, akiknek az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei az Ã¡talakulÃ¡ssal hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gtÃ³l a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+A hitelezÅ‘k a hirdetmÃ©nyi hatÃ¡ridÅ‘ alatt a fennmaradÃ³ CONFECTOR Kft. szÃ©khelyÃ©n (1037 Budapest, PomÃ¡zi Ãºt 11.) kaphatnak tÃ¡jÃ©koztatÃ¡st a kÃ¶vetelÃ©sÃ¼ket Ã©rintÅ‘ vagyonmegosztÃ¡si rendelkezÃ©sekrÅ‘l.<ujsor/>
+A szÃ©tvÃ¡lÃ³ tÃ¡rsasÃ¡g jogutÃ³da a szÃ©tvÃ¡lÃ³ tÃ¡rsasÃ¡gnak a szÃ©tvÃ¡lÃ¡s elÅ‘tt keletkezett kÃ¶telezettsÃ©geiÃ©rt a szÃ©tvÃ¡lÃ¡si szerzÅ‘dÃ©s rendelkezÃ©se szerint felel. A szÃ©tvÃ¡lÃ³ tÃ¡rsasÃ¡g vagyonmegosztÃ¡s elÅ‘tt szerzett jogainak Ã©rvÃ©nyesÃ­tÃ©sÃ©re a szÃ©tvÃ¡lÃ¡s utÃ¡n az a jogutÃ³d jogosult, amelyhez az adott jogot a szÃ©tvÃ¡lÃ¡si szerzÅ‘dÃ©s rendelte.<ujsor/>
+A szÃ©tvÃ¡lÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡got megilletÅ‘ jogok Ã©s kÃ¶telezettsÃ©gek az alÃ¡bbiak:<ujsor/>
+SajÃ¡t tÅ‘ke felosztÃ¡s (%) E Ft<ujsor/>
+FennmaradÃ³ tÃ¡rsasÃ¡g: CONFECTOR Kft. 66,0122 511 264<ujsor/>
+LÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g: HOLMAN Kft. 33,9878 263 235<ujsor/>
+HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek % E Ft<ujsor/>
+FennmaradÃ³ tÃ¡rsasÃ¡g: CONFECTOR Kft. 100 189 460<ujsor/>
+LÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g: HOLMAN Kft. 0 0<ujsor/>
+RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek % E Ft<ujsor/>
+FennmaradÃ³ tÃ¡rsasÃ¡g: CONFECTOR Kft. 100 683 385<ujsor/>
+LÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g: HOLMAN Kft. 0 0<ujsor/>
+MÃ©rlegfÅ‘Ã¶sszeg % E Ft<ujsor/>
+FennmaradÃ³ tÃ¡rsasÃ¡g: CONFECTOR Kft. 85,8001 1 590 545<ujsor/>
+LÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g: HOLMAN Kft. 14,1999 263 235<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109072007</mezo>
-<mezo id = "nev">CONFECTOR Mérnöki Iroda Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">CONFECTOR MÃ©rnÃ¶ki Iroda KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1037 Budapest</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A CONFECTOR Kft. (Cg.: [01 09 072007]; székhely: 1037 Budapest, Pomázi út 11.; adószám: [10491496-2-41]; képviseli: Holman Attila ügyvezetõ) képviseletében eljáró tulajdonosok, illetve ügyvezetõ 2011. május 19-én megtartott taggyûlésükön egyhangúan elhatározták a CONFECTOR Kft. 2011. augusztus 31-ei hatállyal szétválás útján történõ kiválását a 2006. évi IV. tv. 82. § és 83. §-ában foglaltaknak megfelelõen.<ujsor/>
-A társaság szétválása a Gt. 82. § és 83. § (5) bekezdés e) pontjában foglaltaknak megfelelõen kiválás útján történik. A szétváló gazdasági társaság jogutódja ­ ideértve azt a gazdasági társaságot is, amelybõl a kiválás történik ­ a gazdasági társaságnak a szétválás elõtt keletkezett kötelezettségeiért a szétválási szerzõdés rendelkezése szerint felel.<ujsor/>
-A szétválás módja: kiválás.<ujsor/>
-A létrejövõ társaság fõbb adatai:<ujsor/>
-Neve: HOLMAN Ingatlanhasznosító és Fejlesztõ Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhely: 1037 Budapest, Pomázi út 11.<ujsor/>
-Telephely: 1037 Budapest, Török-kõ u. 19944/6., 1028 Budapest, Rákos u. 12.<ujsor/>
-Formája: korlátolt felelõsségû társaság.<ujsor/>
-A szétválás útján történõ kiválást kimondó okirat elfogadásának napja: 2011. május 19.<ujsor/>
-A társasági szerzõdésének kelte: 2011. május 19.<ujsor/>
-A fennmaradó társaság fõbb adatai:<ujsor/>
-Neve: CONFECTOR Mérnök Iroda Korlátolt Felelõsségû Társaság.<ujsor/>
-Cégjegyzékszáma: [01 09 072007].<ujsor/>
-Székhely: 1037 Budapest, Pomázi út 11.<ujsor/>
-Telephely: 1028 Budapest, Tárkony u. 9., 1037 Budapest, Török-kõ u. 19944/6.<ujsor/>
-A kiválás után fennmaradó társaság társasági szerzõdésének kelte: 2011. május 19.<ujsor/>
-Az átalakuló, a létrejövõ és a fennmaradó gazdasági társaság vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-Átalakuló CONFECTOR Kft.:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 292 193 Saját tõke 774 499<ujsor/>
-Forgóeszközök 1 551 477 Jegyzett tõke 15 000<ujsor/>
-Aktív idõbeli elhatárolás 10 110 Céltartalékok 0<ujsor/>
-Kötelezettségek 872 845<ujsor/>
-Passzív idõbeli elhatárolások 206 436<ujsor/>
-ÖSSZESEN: 1 853 780 ÖSSZESEN: 1 853 780<ujsor/>
-Létrejövõ HOLMAN Kft.:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 263 235 Saját tõke 263 235<ujsor/>
-Forgóeszközök 0 Jegyzett tõke 1 000<ujsor/>
-Aktív idõbeli elhatárolás 0 Céltartalékok 0<ujsor/>
-Kötelezettségek 0<ujsor/>
-Passzív idõbeli elhatárolások 0<ujsor/>
-ÖSSZESEN: 263 235 ÖSSZESEN: 263 235<ujsor/>
-Fennmaradó CONFECTOR Kft.<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 28 958 Saját tõke 511 264<ujsor/>
-Forgóeszközök 1 551 477 Jegyzett tõke 100 000<ujsor/>
-Aktív idõbeli elhatárolás 10 110 Céltartalékok 0<ujsor/>
-Kötelezettségek 872 845<ujsor/>
-Passzív idõbeli elhatárolások 206 436<ujsor/>
-ÖSSZESEN: 1 590 545 ÖSSZESEN: 1 590 545<ujsor/>
-A fennmaradó gazdasági társaság fõ tevékenysége: 4120 Lakó- és nem lakóépület építése.<ujsor/>
-A létrejövõ gazdasági társaság fõ tevékenysége: 4120 Lakó- és nem lakóépület építése.<ujsor/>
-A fennmaradó CONFECTOR Kft. vezetõ tisztségviselõje: Holman Attila (a. n.: Boda Erzsébet, 1028 Budapest, Tárkony u. 9.).<ujsor/>
-Az ügyvezetõ megbízatása határozatlan idõre szól.<ujsor/>
-A létrejövõ gazdasági társaság vezetõ tisztségviselõje: Holman Attila (a. n.: Boda Erzsébet, 1028 Budapest, Tárkony u. 9.).<ujsor/>
-Az ügyvezetõ megbízatása határozatlan idõre szól.<ujsor/>
-A hitelezõk a 2006. évi IV. tv. 76. § (1) és (2) bekezdéseiben foglalt jogaikkal élhetnek. E szerint az átalakulás az átalakuló gazdasági társasággal szemben fennálló követeléseket nem teszi lejárttá. Azok a hitelezõk, akiknek az átalakuló gazdasági társasággal szemben fennálló, le nem járt követelései az átalakulással hozott döntés elsõ közzétételét megelõzõen keletkeztek, követeléseik erejéig az átalakuló gazdasági társaságtól a döntés második közzétételét követõ harmincnapos jogvesztõ határidõn belül biztosítékot követelhetnek.<ujsor/>
-A hitelezõk a hirdetményi határidõ alatt a fennmaradó CONFECTOR Kft. székhelyén (1037 Budapest, Pomázi út 11.) kaphatnak tájékoztatást a követelésüket érintõ vagyonmegosztási rendelkezésekrõl.<ujsor/>
-A szétváló társaság jogutóda a szétváló társaságnak a szétválás elõtt keletkezett kötelezettségeiért a szétválási szerzõdés rendelkezése szerint felel. A szétváló társaság vagyonmegosztás elõtt szerzett jogainak érvényesítésére a szétválás után az a jogutód jogosult, amelyhez az adott jogot a szétválási szerzõdés rendelte.<ujsor/>
-A szétváló gazdasági társaságot megilletõ jogok és kötelezettségek az alábbiak:<ujsor/>
-Saját tõke felosztás (%) E Ft<ujsor/>
-Fennmaradó társaság: CONFECTOR Kft. 66,0122 511 264<ujsor/>
-Létrejövõ társaság: HOLMAN Kft. 33,9878 263 235<ujsor/>
-Hosszú lejáratú kötelezettségek % E Ft<ujsor/>
-Fennmaradó társaság: CONFECTOR Kft. 100 189 460<ujsor/>
-Létrejövõ társaság: HOLMAN Kft. 0 0<ujsor/>
-Rövid lejáratú kötelezettségek % E Ft<ujsor/>
-Fennmaradó társaság: CONFECTOR Kft. 100 683 385<ujsor/>
-Létrejövõ társaság: HOLMAN Kft. 0 0<ujsor/>
-Mérlegfõösszeg % E Ft<ujsor/>
-Fennmaradó társaság: CONFECTOR Kft. 85,8001 1 590 545<ujsor/>
-Létrejövõ társaság: HOLMAN Kft. 14,1999 263 235<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">A CONFECTOR Kft. (Cg.: [01 09 072007]; szÃ©khely: 1037 Budapest, PomÃ¡zi Ãºt 11.; adÃ³szÃ¡m: [10491496-2-41]; kÃ©pviseli: Holman Attila Ã¼gyvezetÅ‘) kÃ©pviseletÃ©ben eljÃ¡rÃ³ tulajdonosok, illetve Ã¼gyvezetÅ‘ 2011. mÃ¡jus 19-Ã©n megtartott taggyÅ±lÃ©sÃ¼kÃ¶n egyhangÃºan elhatÃ¡roztÃ¡k a CONFECTOR Kft. 2011. augusztus 31-ei hatÃ¡llyal szÃ©tvÃ¡lÃ¡s ÃºtjÃ¡n tÃ¶rtÃ©nÅ‘ kivÃ¡lÃ¡sÃ¡t a 2006. Ã©vi IV. tv. 82. Â§ Ã©s 83. Â§-Ã¡ban foglaltaknak megfelelÅ‘en.<ujsor/>
+A tÃ¡rsasÃ¡g szÃ©tvÃ¡lÃ¡sa a Gt. 82. Â§ Ã©s 83. Â§ (5) bekezdÃ©s e) pontjÃ¡ban foglaltaknak megfelelÅ‘en kivÃ¡lÃ¡s ÃºtjÃ¡n tÃ¶rtÃ©nik. A szÃ©tvÃ¡lÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g jogutÃ³dja Â­ ideÃ©rtve azt a gazdasÃ¡gi tÃ¡rsasÃ¡got is, amelybÅ‘l a kivÃ¡lÃ¡s tÃ¶rtÃ©nik Â­ a gazdasÃ¡gi tÃ¡rsasÃ¡gnak a szÃ©tvÃ¡lÃ¡s elÅ‘tt keletkezett kÃ¶telezettsÃ©geiÃ©rt a szÃ©tvÃ¡lÃ¡si szerzÅ‘dÃ©s rendelkezÃ©se szerint felel.<ujsor/>
+A szÃ©tvÃ¡lÃ¡s mÃ³dja: kivÃ¡lÃ¡s.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g fÅ‘bb adatai:<ujsor/>
+Neve: HOLMAN IngatlanhasznosÃ­tÃ³ Ã©s FejlesztÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khely: 1037 Budapest, PomÃ¡zi Ãºt 11.<ujsor/>
+Telephely: 1037 Budapest, TÃ¶rÃ¶k-kÅ‘ u. 19944/6., 1028 Budapest, RÃ¡kos u. 12.<ujsor/>
+FormÃ¡ja: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+A szÃ©tvÃ¡lÃ¡s ÃºtjÃ¡n tÃ¶rtÃ©nÅ‘ kivÃ¡lÃ¡st kimondÃ³ okirat elfogadÃ¡sÃ¡nak napja: 2011. mÃ¡jus 19.<ujsor/>
+A tÃ¡rsasÃ¡gi szerzÅ‘dÃ©sÃ©nek kelte: 2011. mÃ¡jus 19.<ujsor/>
+A fennmaradÃ³ tÃ¡rsasÃ¡g fÅ‘bb adatai:<ujsor/>
+Neve: CONFECTOR MÃ©rnÃ¶k Iroda KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡ma: [01 09 072007].<ujsor/>
+SzÃ©khely: 1037 Budapest, PomÃ¡zi Ãºt 11.<ujsor/>
+Telephely: 1028 Budapest, TÃ¡rkony u. 9., 1037 Budapest, TÃ¶rÃ¶k-kÅ‘ u. 19944/6.<ujsor/>
+A kivÃ¡lÃ¡s utÃ¡n fennmaradÃ³ tÃ¡rsasÃ¡g tÃ¡rsasÃ¡gi szerzÅ‘dÃ©sÃ©nek kelte: 2011. mÃ¡jus 19.<ujsor/>
+Az Ã¡talakulÃ³, a lÃ©trejÃ¶vÅ‘ Ã©s a fennmaradÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+ÃtalakulÃ³ CONFECTOR Kft.:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 292 193 SajÃ¡t tÅ‘ke 774 499<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 1 551 477 Jegyzett tÅ‘ke 15 000<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡s 10 110 CÃ©ltartalÃ©kok 0<ujsor/>
+KÃ¶telezettsÃ©gek 872 845<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 206 436<ujsor/>
+Ã–SSZESEN: 1 853 780 Ã–SSZESEN: 1 853 780<ujsor/>
+LÃ©trejÃ¶vÅ‘ HOLMAN Kft.:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 263 235 SajÃ¡t tÅ‘ke 263 235<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 0 Jegyzett tÅ‘ke 1 000<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡s 0 CÃ©ltartalÃ©kok 0<ujsor/>
+KÃ¶telezettsÃ©gek 0<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 0<ujsor/>
+Ã–SSZESEN: 263 235 Ã–SSZESEN: 263 235<ujsor/>
+FennmaradÃ³ CONFECTOR Kft.<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 28 958 SajÃ¡t tÅ‘ke 511 264<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 1 551 477 Jegyzett tÅ‘ke 100 000<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡s 10 110 CÃ©ltartalÃ©kok 0<ujsor/>
+KÃ¶telezettsÃ©gek 872 845<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 206 436<ujsor/>
+Ã–SSZESEN: 1 590 545 Ã–SSZESEN: 1 590 545<ujsor/>
+A fennmaradÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©ge: 4120 LakÃ³- Ã©s nem lakÃ³Ã©pÃ¼let Ã©pÃ­tÃ©se.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©ge: 4120 LakÃ³- Ã©s nem lakÃ³Ã©pÃ¼let Ã©pÃ­tÃ©se.<ujsor/>
+A fennmaradÃ³ CONFECTOR Kft. vezetÅ‘ tisztsÃ©gviselÅ‘je: Holman Attila (a. n.: Boda ErzsÃ©bet, 1028 Budapest, TÃ¡rkony u. 9.).<ujsor/>
+Az Ã¼gyvezetÅ‘ megbÃ­zatÃ¡sa hatÃ¡rozatlan idÅ‘re szÃ³l.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘je: Holman Attila (a. n.: Boda ErzsÃ©bet, 1028 Budapest, TÃ¡rkony u. 9.).<ujsor/>
+Az Ã¼gyvezetÅ‘ megbÃ­zatÃ¡sa hatÃ¡rozatlan idÅ‘re szÃ³l.<ujsor/>
+A hitelezÅ‘k a 2006. Ã©vi IV. tv. 76. Â§ (1) Ã©s (2) bekezdÃ©seiben foglalt jogaikkal Ã©lhetnek. E szerint az Ã¡talakulÃ¡s az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³ kÃ¶vetelÃ©seket nem teszi lejÃ¡rttÃ¡. Azok a hitelezÅ‘k, akiknek az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei az Ã¡talakulÃ¡ssal hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gtÃ³l a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+A hitelezÅ‘k a hirdetmÃ©nyi hatÃ¡ridÅ‘ alatt a fennmaradÃ³ CONFECTOR Kft. szÃ©khelyÃ©n (1037 Budapest, PomÃ¡zi Ãºt 11.) kaphatnak tÃ¡jÃ©koztatÃ¡st a kÃ¶vetelÃ©sÃ¼ket Ã©rintÅ‘ vagyonmegosztÃ¡si rendelkezÃ©sekrÅ‘l.<ujsor/>
+A szÃ©tvÃ¡lÃ³ tÃ¡rsasÃ¡g jogutÃ³da a szÃ©tvÃ¡lÃ³ tÃ¡rsasÃ¡gnak a szÃ©tvÃ¡lÃ¡s elÅ‘tt keletkezett kÃ¶telezettsÃ©geiÃ©rt a szÃ©tvÃ¡lÃ¡si szerzÅ‘dÃ©s rendelkezÃ©se szerint felel. A szÃ©tvÃ¡lÃ³ tÃ¡rsasÃ¡g vagyonmegosztÃ¡s elÅ‘tt szerzett jogainak Ã©rvÃ©nyesÃ­tÃ©sÃ©re a szÃ©tvÃ¡lÃ¡s utÃ¡n az a jogutÃ³d jogosult, amelyhez az adott jogot a szÃ©tvÃ¡lÃ¡si szerzÅ‘dÃ©s rendelte.<ujsor/>
+A szÃ©tvÃ¡lÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡got megilletÅ‘ jogok Ã©s kÃ¶telezettsÃ©gek az alÃ¡bbiak:<ujsor/>
+SajÃ¡t tÅ‘ke felosztÃ¡s (%) E Ft<ujsor/>
+FennmaradÃ³ tÃ¡rsasÃ¡g: CONFECTOR Kft. 66,0122 511 264<ujsor/>
+LÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g: HOLMAN Kft. 33,9878 263 235<ujsor/>
+HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek % E Ft<ujsor/>
+FennmaradÃ³ tÃ¡rsasÃ¡g: CONFECTOR Kft. 100 189 460<ujsor/>
+LÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g: HOLMAN Kft. 0 0<ujsor/>
+RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek % E Ft<ujsor/>
+FennmaradÃ³ tÃ¡rsasÃ¡g: CONFECTOR Kft. 100 683 385<ujsor/>
+LÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g: HOLMAN Kft. 0 0<ujsor/>
+MÃ©rlegfÅ‘Ã¶sszeg % E Ft<ujsor/>
+FennmaradÃ³ tÃ¡rsasÃ¡g: CONFECTOR Kft. 85,8001 1 590 545<ujsor/>
+LÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g: HOLMAN Kft. 14,1999 263 235<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109072007</mezo>
-<mezo id = "nev">CONFECTOR Mérnöki Iroda Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">CONFECTOR MÃ©rnÃ¶ki Iroda KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1037 Budapest</mezo>
 </alrovat>
 </rovat>

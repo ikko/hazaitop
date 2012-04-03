@@ -7,7 +7,7 @@
 <mezo id = "nevalrovat">1</mezo>
 <mezo id = "uj_szh">0809022165</mezo>
 <mezo id = "allapot">6</mezo>
-<mezo id = "cim">1118 Budapest, Budaörsi út 48-50. 2. em. 3/b. </mezo>
+<mezo id = "cim">1118 Budapest, BudaÃ¶rsi Ãºt 48-50. 2. em. 3/b. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">13349295243</mezo>
 </alrovat>
@@ -15,13 +15,13 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20041108</mezo>
-<mezo id = "nev">Pannon Szél-erõ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Pannon SzÃ©l-erÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">20041108</mezo>
-<mezo id = "nev">Pannon Szél-erõ Kft.</mezo>
+<mezo id = "nev">Pannon SzÃ©l-erÅ‘ Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "4">
@@ -35,7 +35,7 @@
 <mezo id = "hattol">20060120</mezo>
 <mezo id = "irsz">1118</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Budaörsi út 48-50. 2. em. 3/b.</mezo>
+<mezo id = "teru">BudaÃ¶rsi Ãºt 48-50. 2. em. 3/b.</mezo>
 <mezo id = "kirsz">0</mezo>
 </alrovat>
 </rovat>
@@ -567,11 +567,11 @@
 <rovat id = "13">
 <alrovat id = "9">
 <mezo id = "hattol">20091102</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "pnev">Ing. Hans Heinrich Pinstuk</mezo>
 <mezo id = "panev">Margarete Israel</mezo>
-<mezo id = "pmnev">Dr. Risinger Dóra</mezo>
-<mezo id = "pmanev">Domonkos Enikõ</mezo>
+<mezo id = "pmnev">Dr. Risinger DÃ³ra</mezo>
+<mezo id = "pmanev">Domonkos EnikÅ‘</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20091102</mezo>
 <mezo id = "valtk">20091102</mezo>
@@ -579,7 +579,7 @@
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">20091102</mezo>
-<mezo id = "tiszt">cégvezetõ</mezo>
+<mezo id = "tiszt">cÃ©gvezetÅ‘</mezo>
 <mezo id = "pnev">Botond Gabriella</mezo>
 <mezo id = "panev">Tartler Gabriella</mezo>
 <mezo id = "kepve">x</mezo>
@@ -592,16 +592,16 @@
 <alrovat id = "2">
 <mezo id = "hattol">20060330</mezo>
 <mezo id = "cgjsz">109563903</mezo>
-<mezo id = "nev">Molnár és Bányai Könyvvizsgáló és Pénzügyi Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">MolnÃ¡r Ã©s BÃ¡nyai KÃ¶nyvvizsgÃ¡lÃ³ Ã©s PÃ©nzÃ¼gyi TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1023</mezo>
-<mezo id = "hely">Budapest, Bécsi út 3-5</mezo>
-<mezo id = "teru">Bécsi út</mezo>
+<mezo id = "hely">Budapest, BÃ©csi Ãºt 3-5</mezo>
+<mezo id = "teru">BÃ©csi Ãºt</mezo>
 <mezo id = "hsz">3-5.</mezo>
-<mezo id = "pnev">dr. Molnár Barna</mezo>
-<mezo id = "panev">Csiszár Margit</mezo>
+<mezo id = "pnev">dr. MolnÃ¡r Barna</mezo>
+<mezo id = "panev">CsiszÃ¡r Margit</mezo>
 <mezo id = "pirsz">9200</mezo>
-<mezo id = "phely">Mosonmagyaróvár, Méhbangó u. 2.</mezo>
+<mezo id = "phely">MosonmagyarÃ³vÃ¡r, MÃ©hbangÃ³ u. 2.</mezo>
 <mezo id = "jogvk">20060330</mezo>
 <mezo id = "jogvv">20110330</mezo>
 </alrovat>
@@ -627,12 +627,12 @@
 <mezo id = "orsz">AT</mezo>
 <mezo id = "irsz">7000</mezo>
 <mezo id = "hely">Eisenstadt</mezo>
-<mezo id = "teru">Kasernenstraße</mezo>
+<mezo id = "teru">KasernenstraÃŸe</mezo>
 <mezo id = "hsz">9.</mezo>
-<mezo id = "pmnev">Dr. Risinger Dóra</mezo>
-<mezo id = "pmanev">Domonkos Enikõ</mezo>
+<mezo id = "pmnev">Dr. Risinger DÃ³ra</mezo>
+<mezo id = "pmanev">Domonkos EnikÅ‘</mezo>
 <mezo id = "pmirsz">9021</mezo>
-<mezo id = "pmhely">Gyõr, Arany János utca 31.</mezo>
+<mezo id = "pmhely">GyÅ‘r, Arany JÃ¡nos utca 31.</mezo>
 <mezo id = "tagsk">20080627</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "sz2">x</mezo>
@@ -653,16 +653,16 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2004. 11. 08-án hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-02. Pannon Szél-erõ Korlátolt Felelõsségû Társaság<ujsor/>
- Törölve: 2004. 11. 08-i hatállyal.<ujsor/>
- Pannon Szél-erõ Szolgáltató Korlátolt Felelõsségû Társaság<ujsor/>
- Hatályos: 2004. 11. 08-tól.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2004. 11. 08-Ã¡n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+02. Pannon SzÃ©l-erÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g<ujsor/>
+ TÃ¶rÃ¶lve: 2004. 11. 08-i hatÃ¡llyal.<ujsor/>
+ Pannon SzÃ©l-erÅ‘ SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g<ujsor/>
+ HatÃ¡lyos: 2004. 11. 08-tÃ³l.<ujsor/>
 Bejegyezve: 2004. 11. 17.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109730720</mezo>
-<mezo id = "nev">Pannon Szél-erõ Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1123 Budapest, Dolgos út 2/184.</mezo>
+<mezo id = "nev">Pannon SzÃ©l-erÅ‘ SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1123 Budapest, Dolgos Ãºt 2/184.</mezo>
 <mezo id = "adosz">13349295243</mezo>
 </alrovat>
 </rovat>

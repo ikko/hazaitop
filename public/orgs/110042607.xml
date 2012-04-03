@@ -5,7 +5,7 @@
 <mezo id = "cf">10</mezo>
 <mezo id = "szam">042607</mezo>
 <mezo id = "nevalrovat">5</mezo>
-<mezo id = "cim">1239 Budapest, Haraszti út 44 </mezo>
+<mezo id = "cim">1239 Budapest, Haraszti Ãºt 44 </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">10950676244</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "5">
 <mezo id = "hattol">20070824</mezo>
-<mezo id = "nev">KÖZGÉP Építõ- és Fémszerkezetgyártó Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">KÃ–ZGÃ‰P Ã‰pÃ­tÅ‘- Ã©s FÃ©mszerkezetgyÃ¡rtÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">20070824</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20071212</mezo>
@@ -23,13 +23,13 @@
 <rovat id = "3">
 <alrovat id = "3">
 <mezo id = "hattol">20060620</mezo>
-<mezo id = "nev">KÖZGÉP Zrt</mezo>
+<mezo id = "nev">KÃ–ZGÃ‰P Zrt</mezo>
 </alrovat>
 </rovat>
 <rovat id = "4">
 <alrovat id = "9">
 <mezo id = "hattol">20070824</mezo>
-<mezo id = "nev">KÖZGÉP Building and Metal Structure Manufacturing Private Limited Company , KÖZGÉP Ltd.</mezo>
+<mezo id = "nev">KÃ–ZGÃ‰P Building and Metal Structure Manufacturing Private Limited Company , KÃ–ZGÃ‰P Ltd.</mezo>
 <mezo id = "valtk">20070824</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20071212</mezo>
@@ -42,7 +42,7 @@
 <mezo id = "irsz">1239</mezo>
 <mezo id = "hely">Budapest</mezo>
 <mezo id = "teru">Haraszti</mezo>
-<mezo id = "terj">út</mezo>
+<mezo id = "terj">Ãºt</mezo>
 <mezo id = "hsz">44</mezo>
 <mezo id = "kirsz">0</mezo>
 </alrovat>
@@ -1317,22 +1317,22 @@
 <rovat id = "13">
 <alrovat id = "20">
 <mezo id = "hattol">20100430</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
 <mezo id = "pnev">Szigeti Ferenc</mezo>
-<mezo id = "panev">Stark Erzsébet</mezo>
+<mezo id = "panev">Stark ErzsÃ©bet</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20070530</mezo>
 <mezo id = "jogvv">20120530</mezo>
-<mezo id = "mnev">egy igazgatósági tag, vagy egy munkavállaló</mezo>
+<mezo id = "mnev">egy igazgatÃ³sÃ¡gi tag, vagy egy munkavÃ¡llalÃ³</mezo>
 <mezo id = "valtk">20100430</mezo>
 <mezo id = "bkelt">20100727</mezo>
 <mezo id = "adoazon">8357710425</mezo>
 </alrovat>
 <alrovat id = "22">
 <mezo id = "hattol">20100430</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Németh Miklós</mezo>
-<mezo id = "panev">Pintér Gizella</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">NÃ©meth MiklÃ³s</mezo>
+<mezo id = "panev">PintÃ©r Gizella</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20070824</mezo>
 <mezo id = "jogvv">20120530</mezo>
@@ -1342,12 +1342,12 @@
 </alrovat>
 <alrovat id = "23">
 <mezo id = "hattol">20101221</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Harsányi Andrásné</mezo>
-<mezo id = "panev">Faith Lívia</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">HarsÃ¡nyi AndrÃ¡snÃ©</mezo>
+<mezo id = "panev">Faith LÃ­via</mezo>
 <mezo id = "pirsz">1112</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Olt utca 28. B. ép.</mezo>
+<mezo id = "pteru">Olt utca 28. B. Ã©p.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20101221</mezo>
 <mezo id = "jogvv">20120530</mezo>
@@ -1357,12 +1357,12 @@
 </alrovat>
 <alrovat id = "24">
 <mezo id = "hattol">20101221</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Zsigri Ferenc</mezo>
-<mezo id = "panev">Ladányi Zsuzsanna Ilona</mezo>
+<mezo id = "panev">LadÃ¡nyi Zsuzsanna Ilona</mezo>
 <mezo id = "pirsz">5200</mezo>
-<mezo id = "phely">Törökszentmiklós</mezo>
-<mezo id = "pteru">Szegfû utca 27.</mezo>
+<mezo id = "phely">TÃ¶rÃ¶kszentmiklÃ³s</mezo>
+<mezo id = "pteru">SzegfÅ± utca 27.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20101221</mezo>
 <mezo id = "valtk">20101221</mezo>
@@ -1371,13 +1371,13 @@
 </alrovat>
 <alrovat id = "25">
 <mezo id = "hattol">20101221</mezo>
-<mezo id = "nev">15 A felügyelõbizottsági tagok adatai</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "nev">15 A felÃ¼gyelÅ‘bizottsÃ¡gi tagok adatai</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Honti Ferenc</mezo>
-<mezo id = "panev">László Mária</mezo>
+<mezo id = "panev">LÃ¡szlÃ³ MÃ¡ria</mezo>
 <mezo id = "pirsz">1213</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Csáklya utca 2. A. ép.</mezo>
+<mezo id = "pteru">CsÃ¡klya utca 2. A. Ã©p.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20101221</mezo>
 <mezo id = "valtk">20101221</mezo>
@@ -1386,12 +1386,12 @@
 </alrovat>
 <alrovat id = "26">
 <mezo id = "hattol">20110601</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
 <mezo id = "pnev">dr. Nyerges Zsolt</mezo>
-<mezo id = "panev">dr. Ábrahám Mária</mezo>
+<mezo id = "panev">dr. ÃbrahÃ¡m MÃ¡ria</mezo>
 <mezo id = "pirsz">5000</mezo>
 <mezo id = "phely">Szolnok</mezo>
-<mezo id = "pteru">Tabán t. 49.</mezo>
+<mezo id = "pteru">TabÃ¡n t. 49.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20110601</mezo>
 <mezo id = "jogvv">20160531</mezo>
@@ -1404,13 +1404,13 @@
 <alrovat id = "9">
 <mezo id = "hattol">20100430</mezo>
 <mezo id = "cgjsz">0109717920</mezo>
-<mezo id = "nev">CONTROLLING-AUDIT Könyvvizsgálói Kft</mezo>
+<mezo id = "nev">CONTROLLING-AUDIT KÃ¶nyvvizsgÃ¡lÃ³i Kft</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1134</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Lõportár u. 14/a.</mezo>
-<mezo id = "pnev">Török Zoltán</mezo>
-<mezo id = "panev">Farkas Jolán</mezo>
+<mezo id = "teru">LÅ‘portÃ¡r u. 14/a.</mezo>
+<mezo id = "pnev">TÃ¶rÃ¶k ZoltÃ¡n</mezo>
+<mezo id = "panev">Farkas JolÃ¡n</mezo>
 <mezo id = "jogvk">20100430</mezo>
 <mezo id = "jogvv">20130430</mezo>
 <mezo id = "valtk">20100430</mezo>
@@ -1420,8 +1420,8 @@
 <rovat id = "15">
 <alrovat id = "23">
 <mezo id = "hattol">20100430</mezo>
-<mezo id = "pnev">dr. Kövesdi Zoltán</mezo>
-<mezo id = "panev">Mizda Mária</mezo>
+<mezo id = "pnev">dr. KÃ¶vesdi ZoltÃ¡n</mezo>
+<mezo id = "panev">Mizda MÃ¡ria</mezo>
 <mezo id = "jogvk">20100430</mezo>
 <mezo id = "jogvv">20120530</mezo>
 <mezo id = "valtk">20100430</mezo>
@@ -1429,11 +1429,11 @@
 </alrovat>
 <alrovat id = "24">
 <mezo id = "hattol">20101221</mezo>
-<mezo id = "pnev">Ráfael Csaba Imréné</mezo>
-<mezo id = "panev">Szlovencsák Julianna</mezo>
+<mezo id = "pnev">RÃ¡fael Csaba ImrÃ©nÃ©</mezo>
+<mezo id = "panev">SzlovencsÃ¡k Julianna</mezo>
 <mezo id = "pirsz">1125</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Istenhegyi út 50-52. A. ép.</mezo>
+<mezo id = "pteru">Istenhegyi Ãºt 50-52. A. Ã©p.</mezo>
 <mezo id = "jogvk">20101221</mezo>
 <mezo id = "jogvv">20120530</mezo>
 <mezo id = "valtk">20101221</mezo>
@@ -1441,11 +1441,11 @@
 </alrovat>
 <alrovat id = "25">
 <mezo id = "hattol">20101221</mezo>
-<mezo id = "pnev">dr. Sárvári Tamás</mezo>
-<mezo id = "panev">dr. Filepkó Mária</mezo>
+<mezo id = "pnev">dr. SÃ¡rvÃ¡ri TamÃ¡s</mezo>
+<mezo id = "panev">dr. FilepkÃ³ MÃ¡ria</mezo>
 <mezo id = "pirsz">2040</mezo>
-<mezo id = "phely">Budaörs</mezo>
-<mezo id = "pteru">Puskás Tivadar utca 37-41. D. ép. IV. em. 44.</mezo>
+<mezo id = "phely">BudaÃ¶rs</mezo>
+<mezo id = "pteru">PuskÃ¡s Tivadar utca 37-41. D. Ã©p. IV. em. 44.</mezo>
 <mezo id = "jogvk">20101221</mezo>
 <mezo id = "jogvv">20120530</mezo>
 <mezo id = "valtk">20101221</mezo>
@@ -1464,7 +1464,7 @@
 <mezo id = "adosz">10950676244</mezo>
 <mezo id = "kadosz">HU10950676</mezo>
 <mezo id = "bkelt">20110614</mezo>
-<mezo id = "megj">Adószám státusza: érvényes adószám</mezo>
+<mezo id = "megj">AdÃ³szÃ¡m stÃ¡tusza: Ã©rvÃ©nyes adÃ³szÃ¡m</mezo>
 </alrovat>
 </rovat>
 <rovat id = "93">
@@ -1476,326 +1476,326 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A KÖZGÉP-UNIÓ Rt. (1209 Budapest, Haraszti út 44.) Igazgatósága a társaság<ujsor/>
-rendkívüli közgyûlését 1995. december 4-én (hétfõn) 14 órára összehívja a társaság székhelyére.<ujsor/>
+<mezo id = "szoveg">A KÃ–ZGÃ‰P-UNIÃ“ Rt. (1209 Budapest, Haraszti Ãºt 44.) IgazgatÃ³sÃ¡ga a tÃ¡rsasÃ¡g<ujsor/>
+rendkÃ­vÃ¼li kÃ¶zgyÅ±lÃ©sÃ©t 1995. december 4-Ã©n (hÃ©tfÅ‘n) 14 Ã³rÃ¡ra Ã¶sszehÃ­vja a tÃ¡rsasÃ¡g szÃ©khelyÃ©re.<ujsor/>
 Napirend:<ujsor/>
-1. Tájékoztató a társaság tevékenységérõl.<ujsor/>
-2. A társaság alapító okirata szerint kibocsátott aranyrészvény átalakítása.<ujsor/>
-3. Az alapító okirat módosítása.<ujsor/>
-4. Az alapító és a társaság közötti elszámolások.<ujsor/>
+1. TÃ¡jÃ©koztatÃ³ a tÃ¡rsasÃ¡g tevÃ©kenysÃ©gÃ©rÅ‘l.<ujsor/>
+2. A tÃ¡rsasÃ¡g alapÃ­tÃ³ okirata szerint kibocsÃ¡tott aranyrÃ©szvÃ©ny Ã¡talakÃ­tÃ¡sa.<ujsor/>
+3. Az alapÃ­tÃ³ okirat mÃ³dosÃ­tÃ¡sa.<ujsor/>
+4. Az alapÃ­tÃ³ Ã©s a tÃ¡rsasÃ¡g kÃ¶zÃ¶tti elszÃ¡molÃ¡sok.<ujsor/>
 5. Egyebek.<ujsor/>
-A közgyûlésen való részvétel és a szavazás az alapító okiratban szabályozott módon történik. Amennyiben a közgyûlés nem határozatképes, a megismételt közgyûlést - azonos helyen és napirenddel - 1995. december 18-án 14 órára hívjuk össze.<ujsor/>
-Igazgatóság<ujsor/>
+A kÃ¶zgyÅ±lÃ©sen valÃ³ rÃ©szvÃ©tel Ã©s a szavazÃ¡s az alapÃ­tÃ³ okiratban szabÃ¡lyozott mÃ³don tÃ¶rtÃ©nik. Amennyiben a kÃ¶zgyÅ±lÃ©s nem hatÃ¡rozatkÃ©pes, a megismÃ©telt kÃ¶zgyÅ±lÃ©st - azonos helyen Ã©s napirenddel - 1995. december 18-Ã¡n 14 Ã³rÃ¡ra hÃ­vjuk Ã¶ssze.<ujsor/>
+IgazgatÃ³sÃ¡g<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110042607</mezo>
-<mezo id = "nev">KÖZGÉP Gép- és Fémszerkezetgyártó Részvénytársaság</mezo>
+<mezo id = "nev">KÃ–ZGÃ‰P GÃ©p- Ã©s FÃ©mszerkezetgyÃ¡rtÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
 <mezo id = "szoveg"><ujsor/>
-Tátékoztatjuk részvényeseinket, hogy a KÖZGÉP-UNIÓ Rt. (1209 Budapest, Haraszti út 44.) 1995. december 4-ére összehívott rendkívüli közgyûlésének napirendje kiegészül az alábbiakkal:<ujsor/>
-6. Közúti Gépellátó Vállalat képviselete az igazgatóságban és a felügyelõbizottságban.<ujsor/>
-Igazgatóság<ujsor/>
+TÃ¡tÃ©koztatjuk rÃ©szvÃ©nyeseinket, hogy a KÃ–ZGÃ‰P-UNIÃ“ Rt. (1209 Budapest, Haraszti Ãºt 44.) 1995. december 4-Ã©re Ã¶sszehÃ­vott rendkÃ­vÃ¼li kÃ¶zgyÅ±lÃ©sÃ©nek napirendje kiegÃ©szÃ¼l az alÃ¡bbiakkal:<ujsor/>
+6. KÃ¶zÃºti GÃ©pellÃ¡tÃ³ VÃ¡llalat kÃ©pviselete az igazgatÃ³sÃ¡gban Ã©s a felÃ¼gyelÅ‘bizottsÃ¡gban.<ujsor/>
+IgazgatÃ³sÃ¡g<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110042607</mezo>
-<mezo id = "nev">KÖZGÉP Gép- és Fémszerkezetgyártó Részvénytársaság</mezo>
+<mezo id = "nev">KÃ–ZGÃ‰P GÃ©p- Ã©s FÃ©mszerkezetgyÃ¡rtÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A KÖZGÉP-UNIÓ Rt. Igazgatósága értesíti tisztelt részvényeseit, hogy a társaság évi rendes közgyûlését 1996. május 28-án 14 órakor tartja.<ujsor/>
-Helyszíne: 1239 Budapest, Haraszti út 44.<ujsor/>
-A közgyûlés napirendje:<ujsor/>
-1. Az igazgatóság jelentése az 1995. évi üzleti tevékenységrõl, a társaság ügyvezetésérõl, vagyoni helyzetérõl. Javaslat a nyereség felosztására.<ujsor/>
-2. A felügyelõbizottság és könyvvizsgáló jelentése az elsõ napirendi pontról, a társaság mérlegérõl, a nyereség felosztásáról.<ujsor/>
-3. A mérleg megállapítása, az eredmény felosztása.<ujsor/>
-4. Az 1996. évi üzleti terv jóváhagyása.<ujsor/>
-5. A közgyûlési hatáskörbe tartozó díjazások megállapítása.<ujsor/>
-6. A vezérigazgatóval kötendõ szerzõdés tisztsége ellátására.<ujsor/>
-7. Az alapító okirat módosítása: az aranyrészvény átalakítása, a tevékenységi kör bõvítése.<ujsor/>
-A névre szóló részvények tulajdonosai a közgyûlésen szavazhatnak, ha a közgyûlés napját megelõzõ utolsó munkanapon 16 óráig a társaság részvénykönyvébe bejegyzést nyernek. A bemutatóra szóló részvények tulajdonosai a közgyûlés napjának 12 órájáig helyezhetik letétbe az INTER-EURÓPA Bank Rt.-nél részvényeiket. Szavazásuk feltétele a részvény adatait tartalmazó letéti igazolás bemutatása a közgyûlés elõtt.<ujsor/>
-A részvényesek szavazati jogukat személyesen vagy közokiratban, illetve teljes bizonyító erejû magánokiratban meghatalmazott képviselõjük útján gyakorolhatják. Határozatképtelenség esetén az új közgyûlés idõpontja azonos helyen és azonos napirenddel: 1996. május 30-án 14 óra.<ujsor/>
-Részvénytársaság Igazgatósága<ujsor/>
+<mezo id = "szoveg">A KÃ–ZGÃ‰P-UNIÃ“ Rt. IgazgatÃ³sÃ¡ga Ã©rtesÃ­ti tisztelt rÃ©szvÃ©nyeseit, hogy a tÃ¡rsasÃ¡g Ã©vi rendes kÃ¶zgyÅ±lÃ©sÃ©t 1996. mÃ¡jus 28-Ã¡n 14 Ã³rakor tartja.<ujsor/>
+HelyszÃ­ne: 1239 Budapest, Haraszti Ãºt 44.<ujsor/>
+A kÃ¶zgyÅ±lÃ©s napirendje:<ujsor/>
+1. Az igazgatÃ³sÃ¡g jelentÃ©se az 1995. Ã©vi Ã¼zleti tevÃ©kenysÃ©grÅ‘l, a tÃ¡rsasÃ¡g Ã¼gyvezetÃ©sÃ©rÅ‘l, vagyoni helyzetÃ©rÅ‘l. Javaslat a nyeresÃ©g felosztÃ¡sÃ¡ra.<ujsor/>
+2. A felÃ¼gyelÅ‘bizottsÃ¡g Ã©s kÃ¶nyvvizsgÃ¡lÃ³ jelentÃ©se az elsÅ‘ napirendi pontrÃ³l, a tÃ¡rsasÃ¡g mÃ©rlegÃ©rÅ‘l, a nyeresÃ©g felosztÃ¡sÃ¡rÃ³l.<ujsor/>
+3. A mÃ©rleg megÃ¡llapÃ­tÃ¡sa, az eredmÃ©ny felosztÃ¡sa.<ujsor/>
+4. Az 1996. Ã©vi Ã¼zleti terv jÃ³vÃ¡hagyÃ¡sa.<ujsor/>
+5. A kÃ¶zgyÅ±lÃ©si hatÃ¡skÃ¶rbe tartozÃ³ dÃ­jazÃ¡sok megÃ¡llapÃ­tÃ¡sa.<ujsor/>
+6. A vezÃ©rigazgatÃ³val kÃ¶tendÅ‘ szerzÅ‘dÃ©s tisztsÃ©ge ellÃ¡tÃ¡sÃ¡ra.<ujsor/>
+7. Az alapÃ­tÃ³ okirat mÃ³dosÃ­tÃ¡sa: az aranyrÃ©szvÃ©ny Ã¡talakÃ­tÃ¡sa, a tevÃ©kenysÃ©gi kÃ¶r bÅ‘vÃ­tÃ©se.<ujsor/>
+A nÃ©vre szÃ³lÃ³ rÃ©szvÃ©nyek tulajdonosai a kÃ¶zgyÅ±lÃ©sen szavazhatnak, ha a kÃ¶zgyÅ±lÃ©s napjÃ¡t megelÅ‘zÅ‘ utolsÃ³ munkanapon 16 Ã³rÃ¡ig a tÃ¡rsasÃ¡g rÃ©szvÃ©nykÃ¶nyvÃ©be bejegyzÃ©st nyernek. A bemutatÃ³ra szÃ³lÃ³ rÃ©szvÃ©nyek tulajdonosai a kÃ¶zgyÅ±lÃ©s napjÃ¡nak 12 Ã³rÃ¡jÃ¡ig helyezhetik letÃ©tbe az INTER-EURÃ“PA Bank Rt.-nÃ©l rÃ©szvÃ©nyeiket. SzavazÃ¡suk feltÃ©tele a rÃ©szvÃ©ny adatait tartalmazÃ³ letÃ©ti igazolÃ¡s bemutatÃ¡sa a kÃ¶zgyÅ±lÃ©s elÅ‘tt.<ujsor/>
+A rÃ©szvÃ©nyesek szavazati jogukat szemÃ©lyesen vagy kÃ¶zokiratban, illetve teljes bizonyÃ­tÃ³ erejÅ± magÃ¡nokiratban meghatalmazott kÃ©pviselÅ‘jÃ¼k ÃºtjÃ¡n gyakorolhatjÃ¡k. HatÃ¡rozatkÃ©ptelensÃ©g esetÃ©n az Ãºj kÃ¶zgyÅ±lÃ©s idÅ‘pontja azonos helyen Ã©s azonos napirenddel: 1996. mÃ¡jus 30-Ã¡n 14 Ã³ra.<ujsor/>
+RÃ©szvÃ©nytÃ¡rsasÃ¡g IgazgatÃ³sÃ¡ga<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110042607</mezo>
-<mezo id = "nev">KÖZGÉP Gép- és Fémszerkezetgyártó Részvénytársaság</mezo>
+<mezo id = "nev">KÃ–ZGÃ‰P GÃ©p- Ã©s FÃ©mszerkezetgyÃ¡rtÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A KÖZGÉP-UNIÓ Rt. (1239 Budapest, Haraszti út 44.) Igazgatósága értesíti tisztelt részvényeseit, hogy a társaság évi rendes közgyûlését 1997. május 16-án 14 órakor tartja.<ujsor/>
-Helyszín: 1239 Budapest, Haraszti út 44.<ujsor/>
-A közgyûlés napirendje:<ujsor/>
-1. Az igazgatóság jelentése az 1996. évi üzleti tevékenységrõl, a társaság ügyvezetésérõl, vagyoni helyzetérõl. Javaslat a nyereség felosztására.<ujsor/>
-2. A felügyelõbizottság és könyvvizsgáló jelentése az elsõ napirendi pontról, a társaság mérlegérõl, a nyereség felosztásáról.<ujsor/>
-3. A mérleg megállapítása, az eredmény felosztása.<ujsor/>
-4. Az 1997. évi üzleti terv jóváhagyása.<ujsor/>
-5. A közgyûlési hatáskörbe tartozó díjazások megállapítása.<ujsor/>
-6. Igazgatósági és felügyelõbizottsági tagok felmentése, újak választása.<ujsor/>
-7. Döntés eszközök értékesítésére vonatkozó szerzõdésrõl.<ujsor/>
-8. Hozzájárulás bankgarancia igénybevételére vonatkozó megállapodáshoz.<ujsor/>
+<mezo id = "szoveg">A KÃ–ZGÃ‰P-UNIÃ“ Rt. (1239 Budapest, Haraszti Ãºt 44.) IgazgatÃ³sÃ¡ga Ã©rtesÃ­ti tisztelt rÃ©szvÃ©nyeseit, hogy a tÃ¡rsasÃ¡g Ã©vi rendes kÃ¶zgyÅ±lÃ©sÃ©t 1997. mÃ¡jus 16-Ã¡n 14 Ã³rakor tartja.<ujsor/>
+HelyszÃ­n: 1239 Budapest, Haraszti Ãºt 44.<ujsor/>
+A kÃ¶zgyÅ±lÃ©s napirendje:<ujsor/>
+1. Az igazgatÃ³sÃ¡g jelentÃ©se az 1996. Ã©vi Ã¼zleti tevÃ©kenysÃ©grÅ‘l, a tÃ¡rsasÃ¡g Ã¼gyvezetÃ©sÃ©rÅ‘l, vagyoni helyzetÃ©rÅ‘l. Javaslat a nyeresÃ©g felosztÃ¡sÃ¡ra.<ujsor/>
+2. A felÃ¼gyelÅ‘bizottsÃ¡g Ã©s kÃ¶nyvvizsgÃ¡lÃ³ jelentÃ©se az elsÅ‘ napirendi pontrÃ³l, a tÃ¡rsasÃ¡g mÃ©rlegÃ©rÅ‘l, a nyeresÃ©g felosztÃ¡sÃ¡rÃ³l.<ujsor/>
+3. A mÃ©rleg megÃ¡llapÃ­tÃ¡sa, az eredmÃ©ny felosztÃ¡sa.<ujsor/>
+4. Az 1997. Ã©vi Ã¼zleti terv jÃ³vÃ¡hagyÃ¡sa.<ujsor/>
+5. A kÃ¶zgyÅ±lÃ©si hatÃ¡skÃ¶rbe tartozÃ³ dÃ­jazÃ¡sok megÃ¡llapÃ­tÃ¡sa.<ujsor/>
+6. IgazgatÃ³sÃ¡gi Ã©s felÃ¼gyelÅ‘bizottsÃ¡gi tagok felmentÃ©se, Ãºjak vÃ¡lasztÃ¡sa.<ujsor/>
+7. DÃ¶ntÃ©s eszkÃ¶zÃ¶k Ã©rtÃ©kesÃ­tÃ©sÃ©re vonatkozÃ³ szerzÅ‘dÃ©srÅ‘l.<ujsor/>
+8. HozzÃ¡jÃ¡rulÃ¡s bankgarancia igÃ©nybevÃ©telÃ©re vonatkozÃ³ megÃ¡llapodÃ¡shoz.<ujsor/>
 9. Egyebek.<ujsor/>
-10. Az alapító okirat módosítása az igazgatósági tagok száma tekintetében.<ujsor/>
-A névre szóló részvények tulajdonosai a közgyûlésen szavazhatnak, ha a közgyûlés napját megelõzõ utolsó munkanapon 16 óráig a társaság részvénykönyvébe bejegyzést nyernek. A bemutatóra szóló részvények tulajdonosai a közgyûlés napjának 12 órájáig helyezhetik letétbe az Inter-Európa Bank Rt.-nél részvényeiket. Szavazásuk feltétele a részvény adatait tartalmazó letéti igazolás bemutatása a közgyûlés elõtt.<ujsor/>
-A részvényesek szavazati jogukat személyesen, vagy közokiratban, illetve teljes bizonyító erejû magánokiratban meghatalmazott képviselõjük útján gyakorolhatják. Határozatképtelenség esetén az új közgyûlés idõpontja azonos helyen és azonos napirenddel 1997. május 20., 14 óra.<ujsor/>
-Részvénytársaság Igazgatósága<ujsor/>
-TÁJÉKOZTATÓ ADATOK<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 260 545 Jegyzett tõke 260 000<ujsor/>
-Forgóeszközök 182 017 Kötelezettségek 137 217<ujsor/>
-Készletek 51 518 Tõketartalék 37 335<ujsor/>
-Követelések 123 598 Üzemi tevékenység eredménye 6 930<ujsor/>
-Pénzeszközök 6 124<ujsor/>
-ÖSSZESEN: 443 799 ÖSSZESEN: 443 799<ujsor/>
+10. Az alapÃ­tÃ³ okirat mÃ³dosÃ­tÃ¡sa az igazgatÃ³sÃ¡gi tagok szÃ¡ma tekintetÃ©ben.<ujsor/>
+A nÃ©vre szÃ³lÃ³ rÃ©szvÃ©nyek tulajdonosai a kÃ¶zgyÅ±lÃ©sen szavazhatnak, ha a kÃ¶zgyÅ±lÃ©s napjÃ¡t megelÅ‘zÅ‘ utolsÃ³ munkanapon 16 Ã³rÃ¡ig a tÃ¡rsasÃ¡g rÃ©szvÃ©nykÃ¶nyvÃ©be bejegyzÃ©st nyernek. A bemutatÃ³ra szÃ³lÃ³ rÃ©szvÃ©nyek tulajdonosai a kÃ¶zgyÅ±lÃ©s napjÃ¡nak 12 Ã³rÃ¡jÃ¡ig helyezhetik letÃ©tbe az Inter-EurÃ³pa Bank Rt.-nÃ©l rÃ©szvÃ©nyeiket. SzavazÃ¡suk feltÃ©tele a rÃ©szvÃ©ny adatait tartalmazÃ³ letÃ©ti igazolÃ¡s bemutatÃ¡sa a kÃ¶zgyÅ±lÃ©s elÅ‘tt.<ujsor/>
+A rÃ©szvÃ©nyesek szavazati jogukat szemÃ©lyesen, vagy kÃ¶zokiratban, illetve teljes bizonyÃ­tÃ³ erejÅ± magÃ¡nokiratban meghatalmazott kÃ©pviselÅ‘jÃ¼k ÃºtjÃ¡n gyakorolhatjÃ¡k. HatÃ¡rozatkÃ©ptelensÃ©g esetÃ©n az Ãºj kÃ¶zgyÅ±lÃ©s idÅ‘pontja azonos helyen Ã©s azonos napirenddel 1997. mÃ¡jus 20., 14 Ã³ra.<ujsor/>
+RÃ©szvÃ©nytÃ¡rsasÃ¡g IgazgatÃ³sÃ¡ga<ujsor/>
+TÃJÃ‰KOZTATÃ“ ADATOK<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 260 545 Jegyzett tÅ‘ke 260 000<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 182 017 KÃ¶telezettsÃ©gek 137 217<ujsor/>
+KÃ©szletek 51 518 TÅ‘ketartalÃ©k 37 335<ujsor/>
+KÃ¶vetelÃ©sek 123 598 Ãœzemi tevÃ©kenysÃ©g eredmÃ©nye 6 930<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 6 124<ujsor/>
+Ã–SSZESEN: 443 799 Ã–SSZESEN: 443 799<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110042607</mezo>
-<mezo id = "nev">KÖZGÉP Gép- és Fémszerkezetgyártó Részvénytársaság</mezo>
+<mezo id = "nev">KÃ–ZGÃ‰P GÃ©p- Ã©s FÃ©mszerkezetgyÃ¡rtÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A KÖZGÉP-UNIÓ Rt. (1239 Budapest, Haraszti út 44.) Igazgatósága értesíti tisztelt részvényeseit, hogy a társaság évi rendes közgyûlését 1998. május 18-án 14 órakor tartja.<ujsor/>
-Helyszíne: 1239 Budapest, Haraszti út 44.<ujsor/>
-A közgyûlés napirendje:<ujsor/>
-1. Az igazgatóság jelentése az 1997. évi üzletmenetrõl, a társaság ügyvezetésérõl, vagyoni helyzetérõl. Javaslat a nyereség felosztására.<ujsor/>
-2. A felügyelõbizottság és a könyvvizsgáló jelentése az elsõ napirendi pontról, a társaság mérlegérõl, a nyereség felosztásáról.<ujsor/>
-3. A mérleg megállapítása, a nyereség felosztása.<ujsor/>
-4. Az 1998. évi üzleti terv megtárgyalása, elfogadása.<ujsor/>
-5. Az igazgatósági tagok és a felügyelõbizottság választása.<ujsor/>
-6. A könyvvizsgáló felmentése, új könyvvizsgáló megbízása.<ujsor/>
-7. A közgyûlési hatáskörbe tartozó díjazások megállapítása.<ujsor/>
-8. Tájékoztatás a felvett hitelek, bankgaranciák mértékérõl, felhasználásáról, döntés bankgarancia-keretszerzõdés jóváhagyásáról.<ujsor/>
-9. Az igazgatóság által elõterjesztett egyéb ügyek.<ujsor/>
-A névre szóló részvények tulajdonosai a közgyûlésen szavazhatnak, ha a közgyûlés napját megelõzõ utolsó munkanapon 16 óráig a társaság részvénykönyvébe bejegyzést nyernek. A bemutatóra szóló részvények tulajdonosai a közgyûlés napjának 12 órájáig helyezhetik letétbe az Inter-Európa Bank Rt.-nél részvényeiket. Szavazásuk feltétele a részvény adatait tartalmazó letéti igazolás bemutatása a közgyûlés elõtt.<ujsor/>
-A részvényesek szavazati jogukat személyesen, vagy közokiratban, illetve teljes bizonyító erejû magánokiratban meghatalmazott képviselõjük útján gyakorolhatják. Határozatképtelenség esetén az új közgyûlés idõpontja - azonos helyen és azonos napirenddel - 1998. május 22., 8 óra 30.<ujsor/>
-Tájékoztató adatok:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 270 462 Jegyzett tõke 260 000<ujsor/>
-Forgóeszközök 167 616 Kötelezettségek 135 071<ujsor/>
-Készletek 56 989 Tõketartalék 37 602<ujsor/>
-Követelések 67 678 Üzemi tevékenység eredménye 569<ujsor/>
-Pénzeszközök 42 949<ujsor/>
-ÖSSZESEN: 438 788 ÖSSZESEN: 438 788<ujsor/>
-Részvénytársaság Igazgatósága<ujsor/>
+<mezo id = "szoveg">A KÃ–ZGÃ‰P-UNIÃ“ Rt. (1239 Budapest, Haraszti Ãºt 44.) IgazgatÃ³sÃ¡ga Ã©rtesÃ­ti tisztelt rÃ©szvÃ©nyeseit, hogy a tÃ¡rsasÃ¡g Ã©vi rendes kÃ¶zgyÅ±lÃ©sÃ©t 1998. mÃ¡jus 18-Ã¡n 14 Ã³rakor tartja.<ujsor/>
+HelyszÃ­ne: 1239 Budapest, Haraszti Ãºt 44.<ujsor/>
+A kÃ¶zgyÅ±lÃ©s napirendje:<ujsor/>
+1. Az igazgatÃ³sÃ¡g jelentÃ©se az 1997. Ã©vi Ã¼zletmenetrÅ‘l, a tÃ¡rsasÃ¡g Ã¼gyvezetÃ©sÃ©rÅ‘l, vagyoni helyzetÃ©rÅ‘l. Javaslat a nyeresÃ©g felosztÃ¡sÃ¡ra.<ujsor/>
+2. A felÃ¼gyelÅ‘bizottsÃ¡g Ã©s a kÃ¶nyvvizsgÃ¡lÃ³ jelentÃ©se az elsÅ‘ napirendi pontrÃ³l, a tÃ¡rsasÃ¡g mÃ©rlegÃ©rÅ‘l, a nyeresÃ©g felosztÃ¡sÃ¡rÃ³l.<ujsor/>
+3. A mÃ©rleg megÃ¡llapÃ­tÃ¡sa, a nyeresÃ©g felosztÃ¡sa.<ujsor/>
+4. Az 1998. Ã©vi Ã¼zleti terv megtÃ¡rgyalÃ¡sa, elfogadÃ¡sa.<ujsor/>
+5. Az igazgatÃ³sÃ¡gi tagok Ã©s a felÃ¼gyelÅ‘bizottsÃ¡g vÃ¡lasztÃ¡sa.<ujsor/>
+6. A kÃ¶nyvvizsgÃ¡lÃ³ felmentÃ©se, Ãºj kÃ¶nyvvizsgÃ¡lÃ³ megbÃ­zÃ¡sa.<ujsor/>
+7. A kÃ¶zgyÅ±lÃ©si hatÃ¡skÃ¶rbe tartozÃ³ dÃ­jazÃ¡sok megÃ¡llapÃ­tÃ¡sa.<ujsor/>
+8. TÃ¡jÃ©koztatÃ¡s a felvett hitelek, bankgaranciÃ¡k mÃ©rtÃ©kÃ©rÅ‘l, felhasznÃ¡lÃ¡sÃ¡rÃ³l, dÃ¶ntÃ©s bankgarancia-keretszerzÅ‘dÃ©s jÃ³vÃ¡hagyÃ¡sÃ¡rÃ³l.<ujsor/>
+9. Az igazgatÃ³sÃ¡g Ã¡ltal elÅ‘terjesztett egyÃ©b Ã¼gyek.<ujsor/>
+A nÃ©vre szÃ³lÃ³ rÃ©szvÃ©nyek tulajdonosai a kÃ¶zgyÅ±lÃ©sen szavazhatnak, ha a kÃ¶zgyÅ±lÃ©s napjÃ¡t megelÅ‘zÅ‘ utolsÃ³ munkanapon 16 Ã³rÃ¡ig a tÃ¡rsasÃ¡g rÃ©szvÃ©nykÃ¶nyvÃ©be bejegyzÃ©st nyernek. A bemutatÃ³ra szÃ³lÃ³ rÃ©szvÃ©nyek tulajdonosai a kÃ¶zgyÅ±lÃ©s napjÃ¡nak 12 Ã³rÃ¡jÃ¡ig helyezhetik letÃ©tbe az Inter-EurÃ³pa Bank Rt.-nÃ©l rÃ©szvÃ©nyeiket. SzavazÃ¡suk feltÃ©tele a rÃ©szvÃ©ny adatait tartalmazÃ³ letÃ©ti igazolÃ¡s bemutatÃ¡sa a kÃ¶zgyÅ±lÃ©s elÅ‘tt.<ujsor/>
+A rÃ©szvÃ©nyesek szavazati jogukat szemÃ©lyesen, vagy kÃ¶zokiratban, illetve teljes bizonyÃ­tÃ³ erejÅ± magÃ¡nokiratban meghatalmazott kÃ©pviselÅ‘jÃ¼k ÃºtjÃ¡n gyakorolhatjÃ¡k. HatÃ¡rozatkÃ©ptelensÃ©g esetÃ©n az Ãºj kÃ¶zgyÅ±lÃ©s idÅ‘pontja - azonos helyen Ã©s azonos napirenddel - 1998. mÃ¡jus 22., 8 Ã³ra 30.<ujsor/>
+TÃ¡jÃ©koztatÃ³ adatok:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 270 462 Jegyzett tÅ‘ke 260 000<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 167 616 KÃ¶telezettsÃ©gek 135 071<ujsor/>
+KÃ©szletek 56 989 TÅ‘ketartalÃ©k 37 602<ujsor/>
+KÃ¶vetelÃ©sek 67 678 Ãœzemi tevÃ©kenysÃ©g eredmÃ©nye 569<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 42 949<ujsor/>
+Ã–SSZESEN: 438 788 Ã–SSZESEN: 438 788<ujsor/>
+RÃ©szvÃ©nytÃ¡rsasÃ¡g IgazgatÃ³sÃ¡ga<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110042607</mezo>
-<mezo id = "nev">KÖZGÉP Gép- és Fémszerkezetgyártó Részvénytársaság</mezo>
+<mezo id = "nev">KÃ–ZGÃ‰P GÃ©p- Ã©s FÃ©mszerkezetgyÃ¡rtÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A KÖZGÉP-UNIÓ Rt. (1239 Budapest, Haraszti út 44.) igazgatósága ezúton is értesíti t. részvényeseit, hogy a részvénytársaság az összes bemutatóra szóló részvényét felülbélyegzés formájában névre szóló részvénnyé alakítja át, 1998. június 30-i hatállyal. A részvényátadást munkaidõben, az rt. székhelyén, legkésõbb 1998. június 30-ig kell végrehajtani. Ezt követõen a bemutatóra szóló részvények érvénytelenítésre kerülnek. Az érvénytelenítéssel a részvényesi jogok megszûnnek. A felülbélyegzésre át nem adott részvények helyett kiadott új részvényeket az rt. értékesíti. Az értékesítésbõl befolyt és költségekkel csökkentett ellenértéket a volt részvényesnek átadja azzal, hogy a névérték kifizetését nem garantálja.<ujsor/>
+<mezo id = "szoveg">A KÃ–ZGÃ‰P-UNIÃ“ Rt. (1239 Budapest, Haraszti Ãºt 44.) igazgatÃ³sÃ¡ga ezÃºton is Ã©rtesÃ­ti t. rÃ©szvÃ©nyeseit, hogy a rÃ©szvÃ©nytÃ¡rsasÃ¡g az Ã¶sszes bemutatÃ³ra szÃ³lÃ³ rÃ©szvÃ©nyÃ©t felÃ¼lbÃ©lyegzÃ©s formÃ¡jÃ¡ban nÃ©vre szÃ³lÃ³ rÃ©szvÃ©nnyÃ© alakÃ­tja Ã¡t, 1998. jÃºnius 30-i hatÃ¡llyal. A rÃ©szvÃ©nyÃ¡tadÃ¡st munkaidÅ‘ben, az rt. szÃ©khelyÃ©n, legkÃ©sÅ‘bb 1998. jÃºnius 30-ig kell vÃ©grehajtani. Ezt kÃ¶vetÅ‘en a bemutatÃ³ra szÃ³lÃ³ rÃ©szvÃ©nyek Ã©rvÃ©nytelenÃ­tÃ©sre kerÃ¼lnek. Az Ã©rvÃ©nytelenÃ­tÃ©ssel a rÃ©szvÃ©nyesi jogok megszÅ±nnek. A felÃ¼lbÃ©lyegzÃ©sre Ã¡t nem adott rÃ©szvÃ©nyek helyett kiadott Ãºj rÃ©szvÃ©nyeket az rt. Ã©rtÃ©kesÃ­ti. Az Ã©rtÃ©kesÃ­tÃ©sbÅ‘l befolyt Ã©s kÃ¶ltsÃ©gekkel csÃ¶kkentett ellenÃ©rtÃ©ket a volt rÃ©szvÃ©nyesnek Ã¡tadja azzal, hogy a nÃ©vÃ©rtÃ©k kifizetÃ©sÃ©t nem garantÃ¡lja.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110042607</mezo>
-<mezo id = "nev">KÖZGÉP Gép- és Fémszerkezetgyártó Részvénytársaság</mezo>
+<mezo id = "nev">KÃ–ZGÃ‰P GÃ©p- Ã©s FÃ©mszerkezetgyÃ¡rtÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A KÖZGÉP-UNIÓ Rt. (1239 Budapest, Haraszti út 44.) Igazgatósága értesíti tisztelt részvényeseit, hogy a társaság rendkívüli közgyûlést tart 1998. augusztus 17-én 10 órakor.<ujsor/>
-Helyszíne: 1239 Budapest, Haraszti út 44.<ujsor/>
-A rendkívüli közgyûlés napirendje:<ujsor/>
-1. Vezérigazgató, igazgatósági tag felmentése.<ujsor/>
-2. Vezérigazgató, igazgatósági tag választása.<ujsor/>
-3. Alapító okirat módosítása.<ujsor/>
-A névre szóló részvények tulajdonosai a közgyûlésen szavazhatnak, ha a közgyûlés napját megelõzõ utolsó munkanapon 16 óráig a társaság részvénykönyvébe bejegyzést nyernek.<ujsor/>
-A részvényesek szavazati jogukat személyesen, vagy közokiratban, illetve teljes bizonyító erejû magánokiratban meghatalmazott képviselõjük útján gyakorolhatják. Határozatképtelenség esetén az új közgyûlés idõpontja azonos helyen és azonos napirenddel 1998. augusztus 24., 10 óra.<ujsor/>
-Részvénytársaság Igazgatósága<ujsor/>
+<mezo id = "szoveg">A KÃ–ZGÃ‰P-UNIÃ“ Rt. (1239 Budapest, Haraszti Ãºt 44.) IgazgatÃ³sÃ¡ga Ã©rtesÃ­ti tisztelt rÃ©szvÃ©nyeseit, hogy a tÃ¡rsasÃ¡g rendkÃ­vÃ¼li kÃ¶zgyÅ±lÃ©st tart 1998. augusztus 17-Ã©n 10 Ã³rakor.<ujsor/>
+HelyszÃ­ne: 1239 Budapest, Haraszti Ãºt 44.<ujsor/>
+A rendkÃ­vÃ¼li kÃ¶zgyÅ±lÃ©s napirendje:<ujsor/>
+1. VezÃ©rigazgatÃ³, igazgatÃ³sÃ¡gi tag felmentÃ©se.<ujsor/>
+2. VezÃ©rigazgatÃ³, igazgatÃ³sÃ¡gi tag vÃ¡lasztÃ¡sa.<ujsor/>
+3. AlapÃ­tÃ³ okirat mÃ³dosÃ­tÃ¡sa.<ujsor/>
+A nÃ©vre szÃ³lÃ³ rÃ©szvÃ©nyek tulajdonosai a kÃ¶zgyÅ±lÃ©sen szavazhatnak, ha a kÃ¶zgyÅ±lÃ©s napjÃ¡t megelÅ‘zÅ‘ utolsÃ³ munkanapon 16 Ã³rÃ¡ig a tÃ¡rsasÃ¡g rÃ©szvÃ©nykÃ¶nyvÃ©be bejegyzÃ©st nyernek.<ujsor/>
+A rÃ©szvÃ©nyesek szavazati jogukat szemÃ©lyesen, vagy kÃ¶zokiratban, illetve teljes bizonyÃ­tÃ³ erejÅ± magÃ¡nokiratban meghatalmazott kÃ©pviselÅ‘jÃ¼k ÃºtjÃ¡n gyakorolhatjÃ¡k. HatÃ¡rozatkÃ©ptelensÃ©g esetÃ©n az Ãºj kÃ¶zgyÅ±lÃ©s idÅ‘pontja azonos helyen Ã©s azonos napirenddel 1998. augusztus 24., 10 Ã³ra.<ujsor/>
+RÃ©szvÃ©nytÃ¡rsasÃ¡g IgazgatÃ³sÃ¡ga<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110042607</mezo>
-<mezo id = "nev">KÖZGÉP Gép- és Fémszerkezetgyártó Részvénytársaság</mezo>
+<mezo id = "nev">KÃ–ZGÃ‰P GÃ©p- Ã©s FÃ©mszerkezetgyÃ¡rtÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság az 1998. 06. 16-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-05. 1209 Budapest, Haraszti út 44.<ujsor/>
- Törölve: 1994. 06. 24-i hatállyal.<ujsor/>
- 1239 Budapest, Haraszti út 44.<ujsor/>
- Hatályos: 1994. 06. 24-tõl.<ujsor/>
-15. Virág Attila<ujsor/>
-2040 Budaörs, Víztorony u. 7.<ujsor/>
- Törölve: 1998. 05. 18-i hatállyal.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g az 1998. 06. 16-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+05. 1209 Budapest, Haraszti Ãºt 44.<ujsor/>
+ TÃ¶rÃ¶lve: 1994. 06. 24-i hatÃ¡llyal.<ujsor/>
+ 1239 Budapest, Haraszti Ãºt 44.<ujsor/>
+ HatÃ¡lyos: 1994. 06. 24-tÅ‘l.<ujsor/>
+15. VirÃ¡g Attila<ujsor/>
+2040 BudaÃ¶rs, VÃ­ztorony u. 7.<ujsor/>
+ TÃ¶rÃ¶lve: 1998. 05. 18-i hatÃ¡llyal.<ujsor/>
 Bejegyezve: 1999. 07. 12.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110042607</mezo>
-<mezo id = "nev">KÖZGÉP-UNIÓ Gép- és Fémszerkezetgyártó Részvénytársaság</mezo>
-<mezo id = "cim">1239 Budapest, Haraszti út 44.</mezo>
+<mezo id = "nev">KÃ–ZGÃ‰P-UNIÃ“ GÃ©p- Ã©s FÃ©mszerkezetgyÃ¡rtÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1239 Budapest, Haraszti Ãºt 44.</mezo>
 <mezo id = "adosz">10950676243</mezo>
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság az 1998. 09. 30-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. Rozgonyi György vezérigazgató<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g az 1998. 09. 30-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. Rozgonyi GyÃ¶rgy vezÃ©rigazgatÃ³<ujsor/>
 1063 Budapest, Kmetty u. 14. III/2.<ujsor/>
- Apáthy Endre Igazgatósági tag<ujsor/>
+ ApÃ¡thy Endre IgazgatÃ³sÃ¡gi tag<ujsor/>
 1078 Budapest, Marek J. u. 16.<ujsor/>
- Armand Jean Langendorfer Igazgatósági tag<ujsor/>
-Külföldi cím: DE Am Wackenhubel, 66352 Grossrosseln II.<ujsor/>
- Gopcsa Péter mûszaki igazgató<ujsor/>
-1163 Budapest, Üzbég u. 5.<ujsor/>
- Fejes Gáborné fõkönyvelõ<ujsor/>
-2330 Dunaharaszti, Jókai u. 9.<ujsor/>
- Törölve: 1998. 08. 17-i hatállyal.<ujsor/>
+ Armand Jean Langendorfer IgazgatÃ³sÃ¡gi tag<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: DE Am Wackenhubel, 66352 Grossrosseln II.<ujsor/>
+ Gopcsa PÃ©ter mÅ±szaki igazgatÃ³<ujsor/>
+1163 Budapest, ÃœzbÃ©g u. 5.<ujsor/>
+ Fejes GÃ¡bornÃ© fÅ‘kÃ¶nyvelÅ‘<ujsor/>
+2330 Dunaharaszti, JÃ³kai u. 9.<ujsor/>
+ TÃ¶rÃ¶lve: 1998. 08. 17-i hatÃ¡llyal.<ujsor/>
 Bejegyezve: 1999. 07. 12.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110042607</mezo>
-<mezo id = "nev">KÖZGÉP-UNIÓ Gép- és Fémszerkezetgyártó Részvénytársaság</mezo>
-<mezo id = "cim">1239 Budapest, Haraszti út 44.</mezo>
+<mezo id = "nev">KÃ–ZGÃ‰P-UNIÃ“ GÃ©p- Ã©s FÃ©mszerkezetgyÃ¡rtÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1239 Budapest, Haraszti Ãºt 44.</mezo>
 <mezo id = "adosz">10950676243</mezo>
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság az 1999. 07. 12-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-18. Budapesti Kereskedelmi és Iparkamara.<ujsor/>
- Kamarai azonosítószám: 123467.<ujsor/>
- Hatályos: 1999. 07. 12-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g az 1999. 07. 12-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+18. Budapesti Kereskedelmi Ã©s Iparkamara.<ujsor/>
+ Kamarai azonosÃ­tÃ³szÃ¡m: 123467.<ujsor/>
+ HatÃ¡lyos: 1999. 07. 12-tÅ‘l.<ujsor/>
 19. 81342-0.<ujsor/>
- Hatályos: 1999. 07. 12-tõl.<ujsor/>
+ HatÃ¡lyos: 1999. 07. 12-tÅ‘l.<ujsor/>
 20. 10950676-2811-114-01.<ujsor/>
- Hatályos: 1999. 07. 12-tõl.<ujsor/>
+ HatÃ¡lyos: 1999. 07. 12-tÅ‘l.<ujsor/>
 Bejegyezve: 1999. 09. 09.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110042607</mezo>
-<mezo id = "nev">KÖZGÉP-UNIÓ Gép- és Fémszerkezetgyártó Részvénytársaság</mezo>
-<mezo id = "cim">1239 Budapest, Haraszti út 44.</mezo>
+<mezo id = "nev">KÃ–ZGÃ‰P-UNIÃ“ GÃ©p- Ã©s FÃ©mszerkezetgyÃ¡rtÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1239 Budapest, Haraszti Ãºt 44.</mezo>
 <mezo id = "adosz">10950676243</mezo>
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság az 1999. 07. 12-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. Sal László igazgatósági tag<ujsor/>
-4025 Debrecen, Petõfi tér 6. IV. l.<ujsor/>
- Törölve: 1998. 05. 18-i hatállyal.<ujsor/>
- Sal László vezérigazgató<ujsor/>
-4025 Debrecen, Petõfi tér 6. IV. 1.<ujsor/>
- Hatályos: 1999. 05. 18-tól.<ujsor/>
-5(10). Egy darab ötmillió Ft.<ujsor/>
- Egyezer-kettõszázötven darab elsõbbségi részvény, egyszázezer Ft.<ujsor/>
- Egyezer-háromszáz darab egyszázezer Ft.<ujsor/>
- Törölve: 1999. 07. 12-i hatállyal.<ujsor/>
- Részvényfajta: törzsrészvény.<ujsor/>
- Egyezer-háromszázötven darab egyszázezer Ft.<ujsor/>
- Részvényfajta: likviditációs elsõbbségi részvény.<ujsor/>
- Egyezer-kettõszázötven darab egyszázezer Ft.<ujsor/>
- Hatályos: 1999. 07. 12-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g az 1999. 07. 12-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. Sal LÃ¡szlÃ³ igazgatÃ³sÃ¡gi tag<ujsor/>
+4025 Debrecen, PetÅ‘fi tÃ©r 6. IV. l.<ujsor/>
+ TÃ¶rÃ¶lve: 1998. 05. 18-i hatÃ¡llyal.<ujsor/>
+ Sal LÃ¡szlÃ³ vezÃ©rigazgatÃ³<ujsor/>
+4025 Debrecen, PetÅ‘fi tÃ©r 6. IV. 1.<ujsor/>
+ HatÃ¡lyos: 1999. 05. 18-tÃ³l.<ujsor/>
+5(10). Egy darab Ã¶tmilliÃ³ Ft.<ujsor/>
+ Egyezer-kettÅ‘szÃ¡zÃ¶tven darab elsÅ‘bbsÃ©gi rÃ©szvÃ©ny, egyszÃ¡zezer Ft.<ujsor/>
+ Egyezer-hÃ¡romszÃ¡z darab egyszÃ¡zezer Ft.<ujsor/>
+ TÃ¶rÃ¶lve: 1999. 07. 12-i hatÃ¡llyal.<ujsor/>
+ RÃ©szvÃ©nyfajta: tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+ Egyezer-hÃ¡romszÃ¡zÃ¶tven darab egyszÃ¡zezer Ft.<ujsor/>
+ RÃ©szvÃ©nyfajta: likviditÃ¡ciÃ³s elsÅ‘bbsÃ©gi rÃ©szvÃ©ny.<ujsor/>
+ Egyezer-kettÅ‘szÃ¡zÃ¶tven darab egyszÃ¡zezer Ft.<ujsor/>
+ HatÃ¡lyos: 1999. 07. 12-tÅ‘l.<ujsor/>
 Bejegyezve: 1999. 09. 09.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110042607</mezo>
-<mezo id = "nev">KÖZGÉP-UNIÓ Gép- és Fémszerkezetgyártó Részvénytársaság</mezo>
-<mezo id = "cim">1239 Budapest, Haraszti út 44.</mezo>
+<mezo id = "nev">KÃ–ZGÃ‰P-UNIÃ“ GÃ©p- Ã©s FÃ©mszerkezetgyÃ¡rtÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1239 Budapest, Haraszti Ãºt 44.</mezo>
 <mezo id = "adosz">10950676243</mezo>
 </alrovat>
 <alrovat id = "11">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság az 1999. 07. 12-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-1(10). [01 01 003332] Közúti Gépellátó Vállalat<ujsor/>
-HU 1209 Budapest, Haraszti út 44.<ujsor/>
- Törölve: 1999. 04. 27-i hatállyal.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g az 1999. 07. 12-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+1(10). [01 01 003332] KÃ¶zÃºti GÃ©pellÃ¡tÃ³ VÃ¡llalat<ujsor/>
+HU 1209 Budapest, Haraszti Ãºt 44.<ujsor/>
+ TÃ¶rÃ¶lve: 1999. 04. 27-i hatÃ¡llyal.<ujsor/>
 Bejegyezve: 2000. 01. 19.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110042607</mezo>
-<mezo id = "nev">KÖZGÉP-UNIÓ Gép- és Fémszerkezetgyártó Részvénytársaság</mezo>
-<mezo id = "cim">1239 Budapest, Haraszti út 44.</mezo>
+<mezo id = "nev">KÃ–ZGÃ‰P-UNIÃ“ GÃ©p- Ã©s FÃ©mszerkezetgyÃ¡rtÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1239 Budapest, Haraszti Ãºt 44.</mezo>
 <mezo id = "adosz">10950676243</mezo>
 </alrovat>
 <alrovat id = "12">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2000. 06. 19-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2000. 06. 19-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
 15. Geiger Ferenc<ujsor/>
-1238 Budapest, Táncsics Mihály u. 90.<ujsor/>
- Hatályos: 1998. 05. 18-tól.<ujsor/>
- Kun Zoltán (an: Tóth Rozália)<ujsor/>
-5008 Szolnok, Karinthy út 48.<ujsor/>
- Hatályos: 2000. 04. 19-tõl.<ujsor/>
+1238 Budapest, TÃ¡ncsics MihÃ¡ly u. 90.<ujsor/>
+ HatÃ¡lyos: 1998. 05. 18-tÃ³l.<ujsor/>
+ Kun ZoltÃ¡n (an: TÃ³th RozÃ¡lia)<ujsor/>
+5008 Szolnok, Karinthy Ãºt 48.<ujsor/>
+ HatÃ¡lyos: 2000. 04. 19-tÅ‘l.<ujsor/>
 Bejegyezve: 2000. 07. 07.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110042607</mezo>
-<mezo id = "nev">KÖZGÉP Gép- és Fémszerkezetgyártó Részvénytársaság</mezo>
-<mezo id = "cim">1239 Budapest, Haraszti út 44.</mezo>
+<mezo id = "nev">KÃ–ZGÃ‰P GÃ©p- Ã©s FÃ©mszerkezetgyÃ¡rtÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1239 Budapest, Haraszti Ãºt 44.</mezo>
 <mezo id = "adosz">10950676243</mezo>
 </alrovat>
 <alrovat id = "13">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2007. 12. 12-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-10(10). Részvényfajta: törzsrészvény.<ujsor/>
-Sorozatszám: 1-6650.<ujsor/>
- Hatezer-ötszázötven darab egyszázezer Ft.<ujsor/>
- A változás idõpontja: 2007. 08. 24.<ujsor/>
- A változás idõpontja (törlés): 2007. 08. 24.<ujsor/>
- Törölve: 2008. 01. 18.<ujsor/>
- Részvényfajta: törzsrészvény.<ujsor/>
-Sorozatszám: 1-6550.<ujsor/>
- Hatezer-ötszázötven darab egyszázezer Ft.<ujsor/>
- A változás idõpontja: 2008. 08. 24.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2007. 12. 12-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+10(10). RÃ©szvÃ©nyfajta: tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+SorozatszÃ¡m: 1-6650.<ujsor/>
+ Hatezer-Ã¶tszÃ¡zÃ¶tven darab egyszÃ¡zezer Ft.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2007. 08. 24.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2007. 08. 24.<ujsor/>
+ TÃ¶rÃ¶lve: 2008. 01. 18.<ujsor/>
+ RÃ©szvÃ©nyfajta: tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+SorozatszÃ¡m: 1-6550.<ujsor/>
+ Hatezer-Ã¶tszÃ¡zÃ¶tven darab egyszÃ¡zezer Ft.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 08. 24.<ujsor/>
  Bejegyezve: 2008. 01. 18.<ujsor/>
 2008. 01. 18.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110042607</mezo>
-<mezo id = "nev">KÖZGÉP Építõ- és Fémszerkezetgyártó Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">1239 Budapest, Haraszti út 44.</mezo>
+<mezo id = "nev">KÃ–ZGÃ‰P Ã‰pÃ­tÅ‘- Ã©s FÃ©mszerkezetgyÃ¡rtÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1239 Budapest, Haraszti Ãºt 44.</mezo>
 <mezo id = "adosz">10950676243</mezo>
 </alrovat>
 <alrovat id = "14">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2008. 01. 18-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-10(10). Részvényfajta: törzsrészvény.<ujsor/>
-Sorozatszám: 1-6550.<ujsor/>
- Hatezer-ötszázötven darab egyszázezer Ft.<ujsor/>
- A változás idõpontja: 2008. 08. 24.<ujsor/>
- A változás idõpontja (törlés): 2008. 08. 24.<ujsor/>
- Törölve: 2008. 02. 18.<ujsor/>
- Részvényfajta: törzsrészvény.<ujsor/>
-Sorozatszám: 1-6550.<ujsor/>
- Hatezer-ötszázötven darab egyszázezer Ft.<ujsor/>
- A változás idõpontja: 2007. 08. 24.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2008. 01. 18-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+10(10). RÃ©szvÃ©nyfajta: tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+SorozatszÃ¡m: 1-6550.<ujsor/>
+ Hatezer-Ã¶tszÃ¡zÃ¶tven darab egyszÃ¡zezer Ft.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 08. 24.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2008. 08. 24.<ujsor/>
+ TÃ¶rÃ¶lve: 2008. 02. 18.<ujsor/>
+ RÃ©szvÃ©nyfajta: tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+SorozatszÃ¡m: 1-6550.<ujsor/>
+ Hatezer-Ã¶tszÃ¡zÃ¶tven darab egyszÃ¡zezer Ft.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2007. 08. 24.<ujsor/>
  Bejegyezve: 2008. 02. 18.<ujsor/>
 2008. 02. 18.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110042607</mezo>
-<mezo id = "nev">KÖZGÉP Építõ- és Fémszerkezetgyártó Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">1239 Budapest, Haraszti út 44.</mezo>
+<mezo id = "nev">KÃ–ZGÃ‰P Ã‰pÃ­tÅ‘- Ã©s FÃ©mszerkezetgyÃ¡rtÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1239 Budapest, Haraszti Ãºt 44.</mezo>
 <mezo id = "adosz">10950676243</mezo>
 </alrovat>
 <alrovat id = "15">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A KÖZGÉP Zrt. (Cg.: [01 10 042607]; székhely: 1239 Budapest, Haraszti út 44.) közgyûlése a 4/2008. (XI. 21.) számú határozatával elfogadta az alaptõke-emelés új részvények forgalomba hozatalával történõ alaptõke felemelését.<ujsor/>
-Az alaptõke összege az emelés elõtt: 1 040 000 000 Ft.<ujsor/>
-Az alaptõke-emelés összege: 500 000 000 Ft.<ujsor/>
-A felemelt alaptõke összege: 1 540 000 000 Ft.<ujsor/>
-A kibocsátandó új részvények száma, névértéke, sorozata, összes névértéke: 5000 db egyenként 100 000 Ft névértékû törzsrészvény az alábbi összevont címletekben kerül kinyomtatásra:<ujsor/>
-­ 4700 darab 100 000 Ft névértékû törzsrészvény összevontan 10 000 000 Ft (tízmillió forint) címletekben (összes névértéke: 470 000 000 Ft),<ujsor/>
-­ 290 db 100 000 Ft névértékû törzsrészvény 1 000 000 Ft (egymillió forint) címletekben (összes névértéke: 29 000 000 Ft),<ujsor/>
-­ részvények, amelyek nem kerülnek összevont címletekben kinyomtatva: 10 darab 100 000 Ft névértékû törzsrészvény (összes névértéke: 1 000 000 Ft).<ujsor/>
-Részvényjellemzõk: valamennyi kibocsátásra kerülõ új részvény (törzsrészvény) nyomdai úton kerül elõállításra. Az új részvények kibocsátási értéke azonos a névértékkel, és valamennyi új részvényhez azonos jogok kapcsolódnak.<ujsor/>
-A részvények névértékének megfelelõ összegû vagyoni hozzájárulás megfizetése pénzbeli hozzájárulás rendelkezésre bocsátásával történik. A részvények pénzbeli ellenértékét a részvényt jegyzõknek az alaptõke-emelést elhatározó közgyûlési határozat meghozatalától számított 30 napon belül kell a társaság bankszámlájára befizetnie.<ujsor/>
+<mezo id = "szoveg">A KÃ–ZGÃ‰P Zrt. (Cg.: [01 10 042607]; szÃ©khely: 1239 Budapest, Haraszti Ãºt 44.) kÃ¶zgyÅ±lÃ©se a 4/2008. (XI. 21.) szÃ¡mÃº hatÃ¡rozatÃ¡val elfogadta az alaptÅ‘ke-emelÃ©s Ãºj rÃ©szvÃ©nyek forgalomba hozatalÃ¡val tÃ¶rtÃ©nÅ‘ alaptÅ‘ke felemelÃ©sÃ©t.<ujsor/>
+Az alaptÅ‘ke Ã¶sszege az emelÃ©s elÅ‘tt: 1 040 000 000 Ft.<ujsor/>
+Az alaptÅ‘ke-emelÃ©s Ã¶sszege: 500 000 000 Ft.<ujsor/>
+A felemelt alaptÅ‘ke Ã¶sszege: 1 540 000 000 Ft.<ujsor/>
+A kibocsÃ¡tandÃ³ Ãºj rÃ©szvÃ©nyek szÃ¡ma, nÃ©vÃ©rtÃ©ke, sorozata, Ã¶sszes nÃ©vÃ©rtÃ©ke: 5000 db egyenkÃ©nt 100 000 Ft nÃ©vÃ©rtÃ©kÅ± tÃ¶rzsrÃ©szvÃ©ny az alÃ¡bbi Ã¶sszevont cÃ­mletekben kerÃ¼l kinyomtatÃ¡sra:<ujsor/>
+Â­ 4700 darab 100 000 Ft nÃ©vÃ©rtÃ©kÅ± tÃ¶rzsrÃ©szvÃ©ny Ã¶sszevontan 10 000 000 Ft (tÃ­zmilliÃ³ forint) cÃ­mletekben (Ã¶sszes nÃ©vÃ©rtÃ©ke: 470 000 000 Ft),<ujsor/>
+Â­ 290 db 100 000 Ft nÃ©vÃ©rtÃ©kÅ± tÃ¶rzsrÃ©szvÃ©ny 1 000 000 Ft (egymilliÃ³ forint) cÃ­mletekben (Ã¶sszes nÃ©vÃ©rtÃ©ke: 29 000 000 Ft),<ujsor/>
+Â­ rÃ©szvÃ©nyek, amelyek nem kerÃ¼lnek Ã¶sszevont cÃ­mletekben kinyomtatva: 10 darab 100 000 Ft nÃ©vÃ©rtÃ©kÅ± tÃ¶rzsrÃ©szvÃ©ny (Ã¶sszes nÃ©vÃ©rtÃ©ke: 1 000 000 Ft).<ujsor/>
+RÃ©szvÃ©nyjellemzÅ‘k: valamennyi kibocsÃ¡tÃ¡sra kerÃ¼lÅ‘ Ãºj rÃ©szvÃ©ny (tÃ¶rzsrÃ©szvÃ©ny) nyomdai Ãºton kerÃ¼l elÅ‘Ã¡llÃ­tÃ¡sra. Az Ãºj rÃ©szvÃ©nyek kibocsÃ¡tÃ¡si Ã©rtÃ©ke azonos a nÃ©vÃ©rtÃ©kkel, Ã©s valamennyi Ãºj rÃ©szvÃ©nyhez azonos jogok kapcsolÃ³dnak.<ujsor/>
+A rÃ©szvÃ©nyek nÃ©vÃ©rtÃ©kÃ©nek megfelelÅ‘ Ã¶sszegÅ± vagyoni hozzÃ¡jÃ¡rulÃ¡s megfizetÃ©se pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s rendelkezÃ©sre bocsÃ¡tÃ¡sÃ¡val tÃ¶rtÃ©nik. A rÃ©szvÃ©nyek pÃ©nzbeli ellenÃ©rtÃ©kÃ©t a rÃ©szvÃ©nyt jegyzÅ‘knek az alaptÅ‘ke-emelÃ©st elhatÃ¡rozÃ³ kÃ¶zgyÅ±lÃ©si hatÃ¡rozat meghozatalÃ¡tÃ³l szÃ¡mÃ­tott 30 napon belÃ¼l kell a tÃ¡rsasÃ¡g bankszÃ¡mlÃ¡jÃ¡ra befizetnie.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110042607</mezo>
-<mezo id = "nev">KÖZGÉP Építõ- és Fémszerkezetgyártó Rt.</mezo>
+<mezo id = "nev">KÃ–ZGÃ‰P Ã‰pÃ­tÅ‘- Ã©s FÃ©mszerkezetgyÃ¡rtÃ³ Rt.</mezo>
 <mezo id = "cim">1239 Budapest</mezo>
 </alrovat>
 <alrovat id = "16">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A KÖZGÉP Zrt. (Cg.: [01 10 042607]; székhely: 1239 Budapest, Haraszti út 44.) közgyûlése a 6/2010. (IV. 30.) számú határozatával elfogadta az alaptõke-emelés új részvények forgalomba hozatalával történõ alaptõke felemelését, a részvényjegyzés végleges adatait az alábbiak szerint:<ujsor/>
-Az alaptõke összege az emelés elõtt: 1 540 000 000 Ft.<ujsor/>
-Az alaptõke-emelés összege: 250 000 000 Ft.<ujsor/>
-A felemelt alaptõke összege: 1 790 000 000 Ft.<ujsor/>
-A kibocsátandó új részvények száma, névértéke, sorozata, összes névértéke: 2500 db egyenként 100 000 Ft névértékû törzsrészvény.<ujsor/>
-Részvényjellemzõk: valamennyi kibocsátásra kerülõ új részvény (törzsrészvény) nyomdai úton kerül elõállításra. Az új részvények kibocsátási értéke azonos a névértékkel, és valamennyi új részvényhez azonos jogok kapcsolódnak.<ujsor/>
-A részvények névértékének megfelelõ összegû vagyoni hozzájárulás megfizetése pénzbeli hozzájárulás rendelkezésre bocsátásával történik. A részvények pénzbeli ellenértékét a részvényt jegyzõknek az alaptõke-emelést elhatározó közgyûlési határozat meghozatalától számított 30 napon belül kell a társaság bankszámlájára befizetnie.<ujsor/>
+<mezo id = "szoveg">A KÃ–ZGÃ‰P Zrt. (Cg.: [01 10 042607]; szÃ©khely: 1239 Budapest, Haraszti Ãºt 44.) kÃ¶zgyÅ±lÃ©se a 6/2010. (IV. 30.) szÃ¡mÃº hatÃ¡rozatÃ¡val elfogadta az alaptÅ‘ke-emelÃ©s Ãºj rÃ©szvÃ©nyek forgalomba hozatalÃ¡val tÃ¶rtÃ©nÅ‘ alaptÅ‘ke felemelÃ©sÃ©t, a rÃ©szvÃ©nyjegyzÃ©s vÃ©gleges adatait az alÃ¡bbiak szerint:<ujsor/>
+Az alaptÅ‘ke Ã¶sszege az emelÃ©s elÅ‘tt: 1 540 000 000 Ft.<ujsor/>
+Az alaptÅ‘ke-emelÃ©s Ã¶sszege: 250 000 000 Ft.<ujsor/>
+A felemelt alaptÅ‘ke Ã¶sszege: 1 790 000 000 Ft.<ujsor/>
+A kibocsÃ¡tandÃ³ Ãºj rÃ©szvÃ©nyek szÃ¡ma, nÃ©vÃ©rtÃ©ke, sorozata, Ã¶sszes nÃ©vÃ©rtÃ©ke: 2500 db egyenkÃ©nt 100 000 Ft nÃ©vÃ©rtÃ©kÅ± tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+RÃ©szvÃ©nyjellemzÅ‘k: valamennyi kibocsÃ¡tÃ¡sra kerÃ¼lÅ‘ Ãºj rÃ©szvÃ©ny (tÃ¶rzsrÃ©szvÃ©ny) nyomdai Ãºton kerÃ¼l elÅ‘Ã¡llÃ­tÃ¡sra. Az Ãºj rÃ©szvÃ©nyek kibocsÃ¡tÃ¡si Ã©rtÃ©ke azonos a nÃ©vÃ©rtÃ©kkel, Ã©s valamennyi Ãºj rÃ©szvÃ©nyhez azonos jogok kapcsolÃ³dnak.<ujsor/>
+A rÃ©szvÃ©nyek nÃ©vÃ©rtÃ©kÃ©nek megfelelÅ‘ Ã¶sszegÅ± vagyoni hozzÃ¡jÃ¡rulÃ¡s megfizetÃ©se pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s rendelkezÃ©sre bocsÃ¡tÃ¡sÃ¡val tÃ¶rtÃ©nik. A rÃ©szvÃ©nyek pÃ©nzbeli ellenÃ©rtÃ©kÃ©t a rÃ©szvÃ©nyt jegyzÅ‘knek az alaptÅ‘ke-emelÃ©st elhatÃ¡rozÃ³ kÃ¶zgyÅ±lÃ©si hatÃ¡rozat meghozatalÃ¡tÃ³l szÃ¡mÃ­tott 30 napon belÃ¼l kell a tÃ¡rsasÃ¡g bankszÃ¡mlÃ¡jÃ¡ra befizetnie.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110042607</mezo>
-<mezo id = "nev">KÖZGÉP Építõ- és Fémszerkezetgyártó Rt.</mezo>
+<mezo id = "nev">KÃ–ZGÃ‰P Ã‰pÃ­tÅ‘- Ã©s FÃ©mszerkezetgyÃ¡rtÃ³ Rt.</mezo>
 <mezo id = "cim">1239 Budapest</mezo>
 </alrovat>
 </rovat>

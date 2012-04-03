@@ -7,7 +7,7 @@
 <mezo id = "nevalrovat">2</mezo>
 <mezo id = "uj_szh">1310041097</mezo>
 <mezo id = "allapot">6</mezo>
-<mezo id = "cim">1141 Budapest, Paskál u. 60. </mezo>
+<mezo id = "cim">1141 Budapest, PaskÃ¡l u. 60. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">13215613242</mezo>
 </alrovat>
@@ -15,7 +15,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20060206</mezo>
-<mezo id = "nev">PIKOSYSTEM Kórházi Technológiai zrt.</mezo>
+<mezo id = "nev">PIKOSYSTEM KÃ³rhÃ¡zi TechnolÃ³giai zrt.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -29,7 +29,7 @@
 <mezo id = "hattol">20040414</mezo>
 <mezo id = "irsz">1141</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Paskál u. 60.</mezo>
+<mezo id = "teru">PaskÃ¡l u. 60.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "8">
@@ -300,7 +300,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090506</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb személyi használatú, háztartási cikk kölcsönzése</mezo>
+<mezo id = "teaszov">EgyÃ©b szemÃ©lyi hasznÃ¡latÃº, hÃ¡ztartÃ¡si cikk kÃ¶lcsÃ¶nzÃ©se</mezo>
 </alrovat>
 <alrovat id = "44">
 <mezo id = "hattol">20090429</mezo>
@@ -318,7 +318,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090506</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb gép, tárgyi eszköz kölcsönzése</mezo>
+<mezo id = "teaszov">EgyÃ©b gÃ©p, tÃ¡rgyi eszkÃ¶z kÃ¶lcsÃ¶nzÃ©se</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -337,10 +337,10 @@
 <rovat id = "13">
 <alrovat id = "1">
 <mezo id = "hattol">20040414</mezo>
-<mezo id = "pnev">dr. Pázmándi Péter</mezo>
-<mezo id = "panev">Kis Éva</mezo>
+<mezo id = "pnev">dr. PÃ¡zmÃ¡ndi PÃ©ter</mezo>
+<mezo id = "panev">Kis Ã‰va</mezo>
 <mezo id = "pirsz">2100</mezo>
-<mezo id = "phely">Gödöllõ, Kereszt u. 7.</mezo>
+<mezo id = "phely">GÃ¶dÃ¶llÅ‘, Kereszt u. 7.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">3</mezo>
 <mezo id = "jogvk">20031115</mezo>
@@ -351,7 +351,7 @@
 <mezo id = "pnev">Kamasz Imre</mezo>
 <mezo id = "panev">Kusztor Margit</mezo>
 <mezo id = "pirsz">1054</mezo>
-<mezo id = "phely">Budapest, Tüköry u. 5.</mezo>
+<mezo id = "phely">Budapest, TÃ¼kÃ¶ry u. 5.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">3</mezo>
 <mezo id = "jogvk">20031115</mezo>
@@ -359,10 +359,10 @@
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20040414</mezo>
-<mezo id = "pnev">Lászlóffy Miklós</mezo>
-<mezo id = "panev">Hegedûs Éva</mezo>
+<mezo id = "pnev">LÃ¡szlÃ³ffy MiklÃ³s</mezo>
+<mezo id = "panev">HegedÅ±s Ã‰va</mezo>
 <mezo id = "pirsz">2113</mezo>
-<mezo id = "phely">Erdõkertes, Ady Endre u. 24.</mezo>
+<mezo id = "phely">ErdÅ‘kertes, Ady Endre u. 24.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">3</mezo>
 <mezo id = "jogvk">20031115</mezo>
@@ -370,11 +370,11 @@
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">20090529</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatótanácsi tag)</mezo>
-<mezo id = "pnev">dr. Pázmándi Péter</mezo>
-<mezo id = "panev">Kis Éva</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³tanÃ¡csi tag)</mezo>
+<mezo id = "pnev">dr. PÃ¡zmÃ¡ndi PÃ©ter</mezo>
+<mezo id = "panev">Kis Ã‰va</mezo>
 <mezo id = "pirsz">2100</mezo>
-<mezo id = "phely">Gödöllõ</mezo>
+<mezo id = "phely">GÃ¶dÃ¶llÅ‘</mezo>
 <mezo id = "pteru">Kereszt utca 7.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20090529</mezo>
@@ -383,29 +383,29 @@
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">20090529</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatótanácsi tag)</mezo>
-<mezo id = "pnev">Pázmándi Bálint</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³tanÃ¡csi tag)</mezo>
+<mezo id = "pnev">PÃ¡zmÃ¡ndi BÃ¡lint</mezo>
 <mezo id = "panev">Albert Andrea</mezo>
 <mezo id = "pirsz">1141</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Szilágysomlyó utca 58.</mezo>
+<mezo id = "pteru">SzilÃ¡gysomlyÃ³ utca 58.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20090529</mezo>
-<mezo id = "mnev">Tóth Péterné Fecske Zsuzsanna</mezo>
+<mezo id = "mnev">TÃ³th PÃ©ternÃ© Fecske Zsuzsanna</mezo>
 <mezo id = "valtk">20090529</mezo>
 <mezo id = "bkelt">20091014</mezo>
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">20090529</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatótanácsi tag)</mezo>
-<mezo id = "pnev">Tóth Péterné Fecske Zsuzsanna</mezo>
-<mezo id = "panev">Bálint Márta</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³tanÃ¡csi tag)</mezo>
+<mezo id = "pnev">TÃ³th PÃ©ternÃ© Fecske Zsuzsanna</mezo>
+<mezo id = "panev">BÃ¡lint MÃ¡rta</mezo>
 <mezo id = "pirsz">2400</mezo>
-<mezo id = "phely">Dunaújváros</mezo>
-<mezo id = "pteru">Öreghegy utca 24.</mezo>
+<mezo id = "phely">DunaÃºjvÃ¡ros</mezo>
+<mezo id = "pteru">Ã–reghegy utca 24.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20090529</mezo>
-<mezo id = "mnev">Pázmándi Bálint</mezo>
+<mezo id = "mnev">PÃ¡zmÃ¡ndi BÃ¡lint</mezo>
 <mezo id = "valtk">20090529</mezo>
 <mezo id = "bkelt">20091014</mezo>
 </alrovat>
@@ -413,10 +413,10 @@
 <rovat id = "14">
 <alrovat id = "2">
 <mezo id = "hattol">20081002</mezo>
-<mezo id = "pnev">Fehér Tamás</mezo>
-<mezo id = "panev">Szûcs Klárla</mezo>
+<mezo id = "pnev">FehÃ©r TamÃ¡s</mezo>
+<mezo id = "panev">SzÅ±cs KlÃ¡rla</mezo>
 <mezo id = "pirsz">1161</mezo>
-<mezo id = "phely">Budapest, Pálya utca 141.</mezo>
+<mezo id = "phely">Budapest, PÃ¡lya utca 141.</mezo>
 <mezo id = "jogvk">20080801</mezo>
 <mezo id = "jogvv">20130801</mezo>
 <mezo id = "valtk">20081002</mezo>
@@ -428,10 +428,10 @@
 <rovat id = "15">
 <alrovat id = "4">
 <mezo id = "hattol">20081002</mezo>
-<mezo id = "pnev">Miskey Andrea Tünde</mezo>
+<mezo id = "pnev">Miskey Andrea TÃ¼nde</mezo>
 <mezo id = "panev">Varga Etelka</mezo>
 <mezo id = "pirsz">2100</mezo>
-<mezo id = "phely">Gödöllõ, Kereszt utca 7.</mezo>
+<mezo id = "phely">GÃ¶dÃ¶llÅ‘, Kereszt utca 7.</mezo>
 <mezo id = "jogvk">20081002</mezo>
 <mezo id = "jogvv">20131002</mezo>
 <mezo id = "valtk">20081002</mezo>
@@ -441,11 +441,11 @@
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">20090529</mezo>
-<mezo id = "pnev">Kovács Tamás András</mezo>
+<mezo id = "pnev">KovÃ¡cs TamÃ¡s AndrÃ¡s</mezo>
 <mezo id = "panev">dr. Wittenberger Katalin</mezo>
 <mezo id = "pirsz">2459</mezo>
-<mezo id = "phely">Rácalmás</mezo>
-<mezo id = "pteru">Martinász utca 76. ép.</mezo>
+<mezo id = "phely">RÃ¡calmÃ¡s</mezo>
+<mezo id = "pteru">MartinÃ¡sz utca 76. Ã©p.</mezo>
 <mezo id = "jogvk">20090529</mezo>
 <mezo id = "jogvv">20131012</mezo>
 <mezo id = "valtk">20090529</mezo>
@@ -453,11 +453,11 @@
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">20090529</mezo>
-<mezo id = "pnev">Bõsze Szabolcs</mezo>
-<mezo id = "panev">Kõvágó Katalin</mezo>
+<mezo id = "pnev">BÅ‘sze Szabolcs</mezo>
+<mezo id = "panev">KÅ‘vÃ¡gÃ³ Katalin</mezo>
 <mezo id = "pirsz">1141</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Szugló utca 157.</mezo>
+<mezo id = "pteru">SzuglÃ³ utca 157.</mezo>
 <mezo id = "jogvk">20090529</mezo>
 <mezo id = "jogvv">20131002</mezo>
 <mezo id = "valtk">20090529</mezo>
@@ -468,7 +468,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20040414</mezo>
 <mezo id = "cgjsz">109682234</mezo>
-<mezo id = "nev">PIKOSYSTEM Egészségügyi Fõvállalkozási és Kórháztechnikai Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">PIKOSYSTEM EgÃ©szsÃ©gÃ¼gyi FÅ‘vÃ¡llalkozÃ¡si Ã©s KÃ³rhÃ¡ztechnikai KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "20">
@@ -486,10 +486,10 @@
 <rovat id = "0110">
 <alrovat id = "1">
 <mezo id = "hattol">20090227</mezo>
-<mezo id = "pnev">dr. Pázmándi Péter</mezo>
-<mezo id = "panev">Kis Éva</mezo>
+<mezo id = "pnev">dr. PÃ¡zmÃ¡ndi PÃ©ter</mezo>
+<mezo id = "panev">Kis Ã‰va</mezo>
 <mezo id = "pirsz">2100</mezo>
-<mezo id = "phely">Gödöllõ, Kereszt utca 7.</mezo>
+<mezo id = "phely">GÃ¶dÃ¶llÅ‘, Kereszt utca 7.</mezo>
 <mezo id = "tagsk">0</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "sz2">x</mezo>
@@ -508,67 +508,67 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2004. 04. 14-én hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. A képviselet módja: önálló.<ujsor/>
- Tisztsége: igazgató (vezérigazgató).<ujsor/>
- dr. Pázmándi Péter (an: Kis Éva)<ujsor/>
-2100 Gödöllõ, Kereszt u. 7.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2004. 04. 14-Ã©n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: igazgatÃ³ (vezÃ©rigazgatÃ³).<ujsor/>
+ dr. PÃ¡zmÃ¡ndi PÃ©ter (an: Kis Ã‰va)<ujsor/>
+2100 GÃ¶dÃ¶llÅ‘, Kereszt u. 7.<ujsor/>
  A jogviszony kezdete: 2003. 11. 15.<ujsor/>
- A jogviszony vége: 2008. 11. 15.<ujsor/>
- A képviselet módja: együttes.<ujsor/>
- Tisztsége: igazgató (vezérigazgató).<ujsor/>
+ A jogviszony vÃ©ge: 2008. 11. 15.<ujsor/>
+ A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: igazgatÃ³ (vezÃ©rigazgatÃ³).<ujsor/>
  Kamasz Imre (an: Kusztor Margit)<ujsor/>
-1054 Budapest, Tüköry u. 5.<ujsor/>
+1054 Budapest, TÃ¼kÃ¶ry u. 5.<ujsor/>
  A jogviszony kezdete: 2003. 11. 15.<ujsor/>
- A jogviszony vége: 2008. 11. 15.<ujsor/>
- A képviselet módja: együttes.<ujsor/>
- Tisztsége: igazgató (vezérigazgató).<ujsor/>
- Lászlóffy Miklós (an: Hegedûs Éva)<ujsor/>
-2113 Erdõkertes, Ady Endre u. 24.<ujsor/>
+ A jogviszony vÃ©ge: 2008. 11. 15.<ujsor/>
+ A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: igazgatÃ³ (vezÃ©rigazgatÃ³).<ujsor/>
+ LÃ¡szlÃ³ffy MiklÃ³s (an: HegedÅ±s Ã‰va)<ujsor/>
+2113 ErdÅ‘kertes, Ady Endre u. 24.<ujsor/>
  A jogviszony kezdete: 2003. 11. 15.<ujsor/>
- A jogviszony vége: 2008. 11. 15.<ujsor/>
- Törölve: 2004. 04. 14-i hatállyal.<ujsor/>
- A képviselet módja: önálló.<ujsor/>
- Dr. Pázmándi Péter (an: Kis Éva) elnök-vezérigazgató<ujsor/>
-2100 Gödöllõ, Kereszt u. 7.<ujsor/>
+ A jogviszony vÃ©ge: 2008. 11. 15.<ujsor/>
+ TÃ¶rÃ¶lve: 2004. 04. 14-i hatÃ¡llyal.<ujsor/>
+ A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ Dr. PÃ¡zmÃ¡ndi PÃ©ter (an: Kis Ã‰va) elnÃ¶k-vezÃ©rigazgatÃ³<ujsor/>
+2100 GÃ¶dÃ¶llÅ‘, Kereszt u. 7.<ujsor/>
  A jogviszony kezdete: 2003. 11. 15.<ujsor/>
- A jogviszony vége: 2008. 11. 15.<ujsor/>
- A képviselet módja: együttes.<ujsor/>
- Kamasz Imre (an: Kusztor Margit) igazgatósági tag<ujsor/>
-1054 Budapest, Tüköry u. 5.<ujsor/>
+ A jogviszony vÃ©ge: 2008. 11. 15.<ujsor/>
+ A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ Kamasz Imre (an: Kusztor Margit) igazgatÃ³sÃ¡gi tag<ujsor/>
+1054 Budapest, TÃ¼kÃ¶ry u. 5.<ujsor/>
  A jogviszony kezdete: 2003. 11. 15.<ujsor/>
- A jogviszony vége: 2008. 11. 15.<ujsor/>
- A képviselet módja: együttes.<ujsor/>
- Lászlóffy Miklós (an: Hegedûs Éva) igazgatósági tag<ujsor/>
-2113 Erdõkertes, Ady Endre u. 24.<ujsor/>
+ A jogviszony vÃ©ge: 2008. 11. 15.<ujsor/>
+ A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ LÃ¡szlÃ³ffy MiklÃ³s (an: HegedÅ±s Ã‰va) igazgatÃ³sÃ¡gi tag<ujsor/>
+2113 ErdÅ‘kertes, Ady Endre u. 24.<ujsor/>
  A jogviszony kezdete: 2003. 11. 15.<ujsor/>
- A jogviszony vége: 2008. 11. 15.<ujsor/>
- Hatályos: 2004. 04. 14-tõl.<ujsor/>
+ A jogviszony vÃ©ge: 2008. 11. 15.<ujsor/>
+ HatÃ¡lyos: 2004. 04. 14-tÅ‘l.<ujsor/>
 Bejegyezve: 2005. 03. 25.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110045029</mezo>
-<mezo id = "nev">PIKOSYSTEM Kórházi Technológiai Részvénytársaság</mezo>
-<mezo id = "cim">1141 Budapest, Paskál u. 60.</mezo>
+<mezo id = "nev">PIKOSYSTEM KÃ³rhÃ¡zi TechnolÃ³giai RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1141 Budapest, PaskÃ¡l u. 60.</mezo>
 <mezo id = "adosz">13215613242</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság a Cg.01-10-045029 cégjegyzékszámon bejegyzett PIKOSYSTEM Kórházi Technológiai zrt (1141 Budapest, Paskál u 60.; adószáma: 13215613-2-42) ügyében az 2009. május 5. napján hozott Cg.01-10-045029/30. számú végzését hivatalból kijavítani rendeli az alábbiak szerint:<ujsor/>
-5(10) Névre szóló részvények<ujsor/>
-Részvényfajta: törzsrészvény 120 db 100000.-Ft, azaz egyszázezer Ft névértékû részvény.<ujsor/>
-Vált. vége: 2009.02.27.<ujsor/>
-Törölve (végzés kelte): 2009. október 14.<ujsor/>
-Részvényfajta: elsõbbségi<ujsor/>
-Részvényosztály: háromszoros szavazatelsõbbégû 80 db 100000.-Ft, azaz egyszázezer Ft névértékû részvény.<ujsor/>
-Vált. vége: 2009.02.27.<ujsor/>
-Törölve (végzés kelte): 2009. október 14.<ujsor/>
-A végzés ellen fellebbezésnek helye nincs.<ujsor/>
-2009. október 14.<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.01-10-045029 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett PIKOSYSTEM KÃ³rhÃ¡zi TechnolÃ³giai zrt (1141 Budapest, PaskÃ¡l u 60.; adÃ³szÃ¡ma: 13215613-2-42) Ã¼gyÃ©ben az 2009. mÃ¡jus 5. napjÃ¡n hozott Cg.01-10-045029/30. szÃ¡mÃº vÃ©gzÃ©sÃ©t hivatalbÃ³l kijavÃ­tani rendeli az alÃ¡bbiak szerint:<ujsor/>
+5(10) NÃ©vre szÃ³lÃ³ rÃ©szvÃ©nyek<ujsor/>
+RÃ©szvÃ©nyfajta: tÃ¶rzsrÃ©szvÃ©ny 120 db 100000.-Ft, azaz egyszÃ¡zezer Ft nÃ©vÃ©rtÃ©kÅ± rÃ©szvÃ©ny.<ujsor/>
+VÃ¡lt. vÃ©ge: 2009.02.27.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2009. oktÃ³ber 14.<ujsor/>
+RÃ©szvÃ©nyfajta: elsÅ‘bbsÃ©gi<ujsor/>
+RÃ©szvÃ©nyosztÃ¡ly: hÃ¡romszoros szavazatelsÅ‘bbÃ©gÅ± 80 db 100000.-Ft, azaz egyszÃ¡zezer Ft nÃ©vÃ©rtÃ©kÅ± rÃ©szvÃ©ny.<ujsor/>
+VÃ¡lt. vÃ©ge: 2009.02.27.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2009. oktÃ³ber 14.<ujsor/>
+A vÃ©gzÃ©s ellen fellebbezÃ©snek helye nincs.<ujsor/>
+2009. oktÃ³ber 14.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110045029</mezo>
-<mezo id = "nev">PIKOSYSTEM Kórházi Technológiai zrt</mezo>
-<mezo id = "cim">1141 Budapest, Paskál u 60.</mezo>
+<mezo id = "nev">PIKOSYSTEM KÃ³rhÃ¡zi TechnolÃ³giai zrt</mezo>
+<mezo id = "cim">1141 Budapest, PaskÃ¡l u 60.</mezo>
 <mezo id = "adosz">13215613242</mezo>
 </alrovat>
 </rovat>

@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">708329</mezo>
 <mezo id = "nevalrovat">2</mezo>
-<mezo id = "cim">1113 Budapest, Daróci út 4. </mezo>
+<mezo id = "cim">1113 Budapest, DarÃ³ci Ãºt 4. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">12886867243</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20061213</mezo>
-<mezo id = "nev">DIGITAL NATIVES Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">DIGITAL NATIVES SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">20061010</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -31,7 +31,7 @@
 <mezo id = "hattol">20090310</mezo>
 <mezo id = "irsz">1113</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Daróci út 4.</mezo>
+<mezo id = "teru">DarÃ³ci Ãºt 4.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">20090310</mezo>
 <mezo id = "valtv">0</mezo>
@@ -1463,12 +1463,12 @@
 <rovat id = "13">
 <alrovat id = "6">
 <mezo id = "hattol">20091008</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Somos Sándor</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Somos SÃ¡ndor</mezo>
 <mezo id = "panev">Mendler Margit</mezo>
 <mezo id = "pirsz">2112</mezo>
-<mezo id = "phely">Veresegyház</mezo>
-<mezo id = "pteru">Egressy Béni utca 8.</mezo>
+<mezo id = "phely">VeresegyhÃ¡z</mezo>
+<mezo id = "pteru">Egressy BÃ©ni utca 8.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20091008</mezo>
 <mezo id = "valtk">20091008</mezo>
@@ -1486,23 +1486,23 @@
 <mezo id = "adosz">12886867243</mezo>
 <mezo id = "kadosz">HU12886867</mezo>
 <mezo id = "bkelt">20110818</mezo>
-<mezo id = "megj">Státusz kezdete: 2002/08/07</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 2002/08/07</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0109">
 <alrovat id = "3">
 <mezo id = "hattol">20030601</mezo>
-<mezo id = "pnev">Temesvári Tamás György</mezo>
-<mezo id = "panev">Bánhidi Mária</mezo>
+<mezo id = "pnev">TemesvÃ¡ri TamÃ¡s GyÃ¶rgy</mezo>
+<mezo id = "panev">BÃ¡nhidi MÃ¡ria</mezo>
 <mezo id = "pirsz">1041</mezo>
-<mezo id = "phely">Budapest, Rózsa u. 59. VII/21.</mezo>
+<mezo id = "phely">Budapest, RÃ³zsa u. 59. VII/21.</mezo>
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">20061213</mezo>
-<mezo id = "pnev">Somos Sándor</mezo>
+<mezo id = "pnev">Somos SÃ¡ndor</mezo>
 <mezo id = "panev">Mendler Margit</mezo>
 <mezo id = "pirsz">2112</mezo>
-<mezo id = "phely">Veresegyház, Egressy Béni u. 8.</mezo>
+<mezo id = "phely">VeresegyhÃ¡z, Egressy BÃ©ni u. 8.</mezo>
 <mezo id = "tagsk">20061010</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">0</mezo>
@@ -1510,8 +1510,8 @@
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">20061213</mezo>
-<mezo id = "pnev">Tompa Tamás</mezo>
-<mezo id = "panev">Milló Katalin</mezo>
+<mezo id = "pnev">Tompa TamÃ¡s</mezo>
+<mezo id = "panev">MillÃ³ Katalin</mezo>
 <mezo id = "pirsz">1075</mezo>
 <mezo id = "phely">Budapest, Kazinczy u. 7. 2. 5/a.</mezo>
 <mezo id = "tagsk">20061010</mezo>
@@ -1522,11 +1522,11 @@
 <alrovat id = "16">
 <mezo id = "hattol">20110817</mezo>
 <mezo id = "cgjsz">1309147063</mezo>
-<mezo id = "nev">IRL Vagyonkezelõ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">IRL VagyonkezelÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2000</mezo>
 <mezo id = "hely">Szentendre</mezo>
-<mezo id = "teru">Kovács László út 44-.</mezo>
+<mezo id = "teru">KovÃ¡cs LÃ¡szlÃ³ Ãºt 44-.</mezo>
 <mezo id = "tagsk">20110525</mezo>
 <mezo id = "sz2">x</mezo>
 <mezo id = "valtk">20110817</mezo>
@@ -1542,35 +1542,35 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2004. 06. 21-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-1(09). Temesvári Tamás György (an: Bánhidi Mária)<ujsor/>
-1041 Budapest, Rózsa u. 59. VII/21.<ujsor/>
- Törölve: 2003. 06. 01-i hatállyal.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2004. 06. 21-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+1(09). TemesvÃ¡ri TamÃ¡s GyÃ¶rgy (an: BÃ¡nhidi MÃ¡ria)<ujsor/>
+1041 Budapest, RÃ³zsa u. 59. VII/21.<ujsor/>
+ TÃ¶rÃ¶lve: 2003. 06. 01-i hatÃ¡llyal.<ujsor/>
 Bejegyezve: 2004. 07. 14.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109708329</mezo>
-<mezo id = "nev">HAXGT Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1015 Budapest, Batthyány u. 2. 3. em. 22.</mezo>
+<mezo id = "nev">HAXGT Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1015 Budapest, BatthyÃ¡ny u. 2. 3. em. 22.</mezo>
 <mezo id = "adosz">12886867241</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Honti Péter (a. n.: Györki Gabriella, 5600 Békéscsaba, Feketefenyõ u. 5.) a Gazdasági társaságokról szóló 1997. évi CXLIV. tv. 292. § (1) bekezdése alapján közzéteszi, hogy a HAXGT Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaságban (Cg.: [01 09 708329]; székhely: 1015 Budapest, Batthyány u. 2. III. 22.) a társaság üzletrészeinek 50% értékével megegyezõ mértékû jelentõs befolyást szerzett.<ujsor/>
-A befolyásszerzés idõpontja: 2005. május 2.<ujsor/>
+<mezo id = "szoveg">Honti PÃ©ter (a. n.: GyÃ¶rki Gabriella, 5600 BÃ©kÃ©scsaba, FeketefenyÅ‘ u. 5.) a GazdasÃ¡gi tÃ¡rsasÃ¡gokrÃ³l szÃ³lÃ³ 1997. Ã©vi CXLIV. tv. 292. Â§ (1) bekezdÃ©se alapjÃ¡n kÃ¶zzÃ©teszi, hogy a HAXGT Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gban (Cg.: [01 09 708329]; szÃ©khely: 1015 Budapest, BatthyÃ¡ny u. 2. III. 22.) a tÃ¡rsasÃ¡g Ã¼zletrÃ©szeinek 50% Ã©rtÃ©kÃ©vel megegyezÅ‘ mÃ©rtÃ©kÅ± jelentÅ‘s befolyÃ¡st szerzett.<ujsor/>
+A befolyÃ¡sszerzÃ©s idÅ‘pontja: 2005. mÃ¡jus 2.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109708329</mezo>
-<mezo id = "nev">HAXGT Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">HAXGT Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1015 Budapest</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Deák Balázs Zoltán (a. n.: László Judit; 1027 Budapest, Csalogány u. 13­19.) a Gazdasági társaságokról szóló 1997. évi CXLIV. tv. 292. § (1) bekezdése alapján közzéteszi, hogy a HAXGT Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaságban (Cg.: [01 09 708329]; székhely: 1015 Budapest, Batthyány u. 2. III. 22.) a társaság üzletrészeinek 50% értékével megegyezõ mértékû, jelentõs befolyást szerzett.<ujsor/>
-A befolyásszerzés idõpontja: 2005. május 2.<ujsor/>
+<mezo id = "szoveg">DeÃ¡k BalÃ¡zs ZoltÃ¡n (a. n.: LÃ¡szlÃ³ Judit; 1027 Budapest, CsalogÃ¡ny u. 13Â­19.) a GazdasÃ¡gi tÃ¡rsasÃ¡gokrÃ³l szÃ³lÃ³ 1997. Ã©vi CXLIV. tv. 292. Â§ (1) bekezdÃ©se alapjÃ¡n kÃ¶zzÃ©teszi, hogy a HAXGT Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gban (Cg.: [01 09 708329]; szÃ©khely: 1015 Budapest, BatthyÃ¡ny u. 2. III. 22.) a tÃ¡rsasÃ¡g Ã¼zletrÃ©szeinek 50% Ã©rtÃ©kÃ©vel megegyezÅ‘ mÃ©rtÃ©kÅ±, jelentÅ‘s befolyÃ¡st szerzett.<ujsor/>
+A befolyÃ¡sszerzÃ©s idÅ‘pontja: 2005. mÃ¡jus 2.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109708329</mezo>
-<mezo id = "nev">HAXGT Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">HAXGT Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1015 Budapest</mezo>
 </alrovat>
 </rovat>

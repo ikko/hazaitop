@@ -7,17 +7,17 @@
 <mezo id = "nevalrovat">3</mezo>
 <mezo id = "regi_szh">0109465700</mezo>
 <mezo id = "allapot">3</mezo>
-<mezo id = "cim">6086 Szalkszentmárton, Ságvári út 1. </mezo>
+<mezo id = "cim">6086 SzalkszentmÃ¡rton, SÃ¡gvÃ¡ri Ãºt 1. </mezo>
 <mezo id = "adosz">12101706203</mezo>
 </alrovat>
 </rovat>
 <rovat id = "2">
 <alrovat id = "1">
-<mezo id = "nev">AMPER-VILL Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">AMPER-VILL Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20110417</mezo>
-<mezo id = "nev">AMPER-VILL-BAU Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság &quot;végelszámolás alatt&quot;</mezo>
+<mezo id = "nev">AMPER-VILL-BAU Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g &quot;vÃ©gelszÃ¡molÃ¡s alatt&quot;</mezo>
 <mezo id = "valtk">20110417</mezo>
 <mezo id = "bkelt">20110624</mezo>
 </alrovat>
@@ -34,8 +34,8 @@
 <alrovat id = "3">
 <mezo id = "hattol">20080407</mezo>
 <mezo id = "irsz">6086</mezo>
-<mezo id = "hely">Szalkszentmárton</mezo>
-<mezo id = "teru">Ságvári út 1.</mezo>
+<mezo id = "hely">SzalkszentmÃ¡rton</mezo>
+<mezo id = "teru">SÃ¡gvÃ¡ri Ãºt 1.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">20080407</mezo>
 <mezo id = "valtv">0</mezo>
@@ -90,7 +90,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090409</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb speciális szaképítés m.n.s.</mezo>
+<mezo id = "teaszov">EgyÃ©b speciÃ¡lis szakÃ©pÃ­tÃ©s m.n.s.</mezo>
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">20080407</mezo>
@@ -108,7 +108,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090409</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Lakó és nem lakó épület építése</mezo>
+<mezo id = "teaszov">LakÃ³ Ã©s nem lakÃ³ Ã©pÃ¼let Ã©pÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "11">
 <mezo id = "hattol">20080407</mezo>
@@ -126,7 +126,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090409</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Híd, alagút építése</mezo>
+<mezo id = "teaszov">HÃ­d, alagÃºt Ã©pÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "12">
 <mezo id = "hattol">20080407</mezo>
@@ -144,7 +144,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090409</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Bontás</mezo>
+<mezo id = "teaszov">BontÃ¡s</mezo>
 </alrovat>
 <alrovat id = "13">
 <mezo id = "hattol">20080407</mezo>
@@ -162,7 +162,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090409</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Építési terület elõkészítése</mezo>
+<mezo id = "teaszov">Ã‰pÃ­tÃ©si terÃ¼let elÅ‘kÃ©szÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "14">
 <mezo id = "hattol">20080407</mezo>
@@ -180,7 +180,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090409</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Talajmintavétel, próbafúrás</mezo>
+<mezo id = "teaszov">TalajmintavÃ©tel, prÃ³bafÃºrÃ¡s</mezo>
 </alrovat>
 <alrovat id = "15">
 <mezo id = "hattol">20080407</mezo>
@@ -198,7 +198,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090409</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Villanyszerelés</mezo>
+<mezo id = "teaszov">VillanyszerelÃ©s</mezo>
 </alrovat>
 <alrovat id = "16">
 <mezo id = "hattol">20080407</mezo>
@@ -216,7 +216,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090409</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Víz-, gáz-, fûtés-, légkoncícionáló-szerelés</mezo>
+<mezo id = "teaszov">VÃ­z-, gÃ¡z-, fÅ±tÃ©s-, lÃ©gkoncÃ­cionÃ¡lÃ³-szerelÃ©s</mezo>
 </alrovat>
 <alrovat id = "17">
 <mezo id = "hattol">20080407</mezo>
@@ -234,7 +234,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090409</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Vakolás</mezo>
+<mezo id = "teaszov">VakolÃ¡s</mezo>
 </alrovat>
 <alrovat id = "18">
 <mezo id = "hattol">20080407</mezo>
@@ -252,7 +252,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090409</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Padló-, falburkolás</mezo>
+<mezo id = "teaszov">PadlÃ³-, falburkolÃ¡s</mezo>
 </alrovat>
 <alrovat id = "19">
 <mezo id = "hattol">20080407</mezo>
@@ -270,7 +270,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090409</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Festés, üvegezés</mezo>
+<mezo id = "teaszov">FestÃ©s, Ã¼vegezÃ©s</mezo>
 </alrovat>
 <alrovat id = "20">
 <mezo id = "hattol">20080407</mezo>
@@ -288,7 +288,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090409</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb befejezõ építés m.n.s.</mezo>
+<mezo id = "teaszov">EgyÃ©b befejezÅ‘ Ã©pÃ­tÃ©s m.n.s.</mezo>
 </alrovat>
 <alrovat id = "21">
 <mezo id = "hattol">20080407</mezo>
@@ -306,43 +306,43 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090409</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Tetõfedés, tetõszerkezet-építés</mezo>
+<mezo id = "teaszov">TetÅ‘fedÃ©s, tetÅ‘szerkezet-Ã©pÃ­tÃ©s</mezo>
 </alrovat>
 <alrovat id = "22">
 <mezo id = "hattol">20100104</mezo>
 <mezo id = "valtk">20100104</mezo>
 <mezo id = "bkelt">20100111</mezo>
-<mezo id = "teaszov">Ipari gép, berendezés javítása</mezo>
+<mezo id = "teaszov">Ipari gÃ©p, berendezÃ©s javÃ­tÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "23">
 <mezo id = "hattol">20100104</mezo>
 <mezo id = "valtk">20100104</mezo>
 <mezo id = "bkelt">20100111</mezo>
-<mezo id = "teaszov">Egyéb közlekedési eszköz javítása</mezo>
+<mezo id = "teaszov">EgyÃ©b kÃ¶zlekedÃ©si eszkÃ¶z javÃ­tÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "24">
 <mezo id = "hattol">20100104</mezo>
 <mezo id = "valtk">20100104</mezo>
 <mezo id = "bkelt">20100111</mezo>
-<mezo id = "teaszov">Egyéb ipari eszköz javítása</mezo>
+<mezo id = "teaszov">EgyÃ©b ipari eszkÃ¶z javÃ­tÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "25">
 <mezo id = "hattol">20100104</mezo>
 <mezo id = "valtk">20100104</mezo>
 <mezo id = "bkelt">20100111</mezo>
-<mezo id = "teaszov">Fa-, építési anyag ügynöki nagykereskedelme</mezo>
+<mezo id = "teaszov">Fa-, Ã©pÃ­tÃ©si anyag Ã¼gynÃ¶ki nagykereskedelme</mezo>
 </alrovat>
 <alrovat id = "26">
 <mezo id = "hattol">20100104</mezo>
 <mezo id = "valtk">20100104</mezo>
 <mezo id = "bkelt">20100111</mezo>
-<mezo id = "teaszov">Fa-, építõanyag-, szaniteráru-nagykereskedelem</mezo>
+<mezo id = "teaszov">Fa-, Ã©pÃ­tÅ‘anyag-, szaniterÃ¡ru-nagykereskedelem</mezo>
 </alrovat>
 <alrovat id = "27">
 <mezo id = "hattol">20100104</mezo>
 <mezo id = "valtk">20100104</mezo>
 <mezo id = "bkelt">20100111</mezo>
-<mezo id = "teaszov">Fémáru, szerelvény, fûtési berendezés nagykereskedelme</mezo>
+<mezo id = "teaszov">FÃ©mÃ¡ru, szerelvÃ©ny, fÅ±tÃ©si berendezÃ©s nagykereskedelme</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -358,16 +358,16 @@
 <alrovat id = "4">
 <mezo id = "hattol">20110417</mezo>
 <mezo id = "cgjsz">0409000901</mezo>
-<mezo id = "nev">BAREX Gazdasági Tanácsadó,Kereskedõ és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">BAREX GazdasÃ¡gi TanÃ¡csadÃ³,KereskedÅ‘ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "irsz">5540</mezo>
 <mezo id = "hely">Szarvas</mezo>
 <mezo id = "teru">Kossuth utca 18.</mezo>
-<mezo id = "tiszt">végelszámoló</mezo>
+<mezo id = "tiszt">vÃ©gelszÃ¡molÃ³</mezo>
 <mezo id = "pnev">Dr. Kepenyes-Darida Bea</mezo>
-<mezo id = "panev">Duda Éva Erzsébet</mezo>
+<mezo id = "panev">Duda Ã‰va ErzsÃ©bet</mezo>
 <mezo id = "pirsz">5540</mezo>
 <mezo id = "phely">Szarvas</mezo>
-<mezo id = "pteru">Üdülõ sétány 222.</mezo>
+<mezo id = "pteru">ÃœdÃ¼lÅ‘ sÃ©tÃ¡ny 222.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20110417</mezo>
 <mezo id = "valtk">20110417</mezo>
@@ -432,10 +432,10 @@
 <rovat id = "0109">
 <alrovat id = "5">
 <mezo id = "hattol">20080407</mezo>
-<mezo id = "pnev">id. Kovács Pál</mezo>
-<mezo id = "panev">Rozner Mária</mezo>
+<mezo id = "pnev">id. KovÃ¡cs PÃ¡l</mezo>
+<mezo id = "panev">Rozner MÃ¡ria</mezo>
 <mezo id = "pirsz">6086</mezo>
-<mezo id = "phely">Szalkszentmárton, Ságvári út 1.</mezo>
+<mezo id = "phely">SzalkszentmÃ¡rton, SÃ¡gvÃ¡ri Ãºt 1.</mezo>
 <mezo id = "tagsk">20080407</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "sz2">x</mezo>
@@ -446,10 +446,10 @@
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20080407</mezo>
-<mezo id = "pnev">Ifj. Kovács Pál</mezo>
-<mezo id = "panev">Román Gabriella</mezo>
+<mezo id = "pnev">Ifj. KovÃ¡cs PÃ¡l</mezo>
+<mezo id = "panev">RomÃ¡n Gabriella</mezo>
 <mezo id = "pirsz">6086</mezo>
-<mezo id = "phely">Szalkszentmárton, Alkotmány út 91.</mezo>
+<mezo id = "phely">SzalkszentmÃ¡rton, AlkotmÃ¡ny Ãºt 91.</mezo>
 <mezo id = "tagsk">20080407</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20080407</mezo>

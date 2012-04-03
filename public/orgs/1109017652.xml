@@ -6,7 +6,7 @@
 <mezo id = "szam">017652</mezo>
 <mezo id = "nevalrovat">1</mezo>
 <mezo id = "regi_szh">0809018935</mezo>
-<mezo id = "cim">2800 Tatabánya, Ságvári utca 5/c. </mezo>
+<mezo id = "cim">2800 TatabÃ¡nya, SÃ¡gvÃ¡ri utca 5/c. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">14957345211</mezo>
 </alrovat>
@@ -21,8 +21,8 @@
 <alrovat id = "2">
 <mezo id = "hattol">20101012</mezo>
 <mezo id = "irsz">2800</mezo>
-<mezo id = "hely">Tatabánya</mezo>
-<mezo id = "teru">Ságvári utca 5/c.</mezo>
+<mezo id = "hely">TatabÃ¡nya</mezo>
+<mezo id = "teru">SÃ¡gvÃ¡ri utca 5/c.</mezo>
 <mezo id = "valtk">20101012</mezo>
 <mezo id = "bkelt">20101103</mezo>
 </alrovat>
@@ -31,8 +31,8 @@
 <alrovat id = "1">
 <mezo id = "hattol">20101012</mezo>
 <mezo id = "irsz">9200</mezo>
-<mezo id = "hely">Mosonmagyaróvár</mezo>
-<mezo id = "teru">Kolbai Károly utca 6.</mezo>
+<mezo id = "hely">MosonmagyarÃ³vÃ¡r</mezo>
+<mezo id = "teru">Kolbai KÃ¡roly utca 6.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20101012</mezo>
 <mezo id = "bkelt">20101103</mezo>
@@ -58,25 +58,25 @@
 <rovat id = "902">
 <alrovat id = "1">
 <mezo id = "hattol">20091102</mezo>
-<mezo id = "teaszov">Reklámügynöki tevékenység</mezo>
+<mezo id = "teaszov">ReklÃ¡mÃ¼gynÃ¶ki tevÃ©kenysÃ©g</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20091102</mezo>
-<mezo id = "teaszov">Médiareklám</mezo>
+<mezo id = "teaszov">MÃ©diareklÃ¡m</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20091102</mezo>
-<mezo id = "teaszov">Követelésbehajtás</mezo>
+<mezo id = "teaszov">KÃ¶vetelÃ©sbehajtÃ¡s</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20091102</mezo>
-<mezo id = "teaszov">M.n.s. egyéb személyi szolgáltatás</mezo>
+<mezo id = "teaszov">M.n.s. egyÃ©b szemÃ©lyi szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20091105</mezo>
 <mezo id = "valtk">20091105</mezo>
 <mezo id = "bkelt">20091209</mezo>
-<mezo id = "teaszov">Személybiztonsági tevékenység</mezo>
+<mezo id = "teaszov">SzemÃ©lybiztonsÃ¡gi tevÃ©kenysÃ©g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -91,9 +91,9 @@
 <rovat id = "13">
 <alrovat id = "2">
 <mezo id = "hattol">20100401</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Vécsei László</mezo>
-<mezo id = "panev">Fórián Julianna</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">VÃ©csei LÃ¡szlÃ³</mezo>
+<mezo id = "panev">FÃ³riÃ¡n Julianna</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100401</mezo>
 <mezo id = "valtk">20100401</mezo>
@@ -105,12 +105,12 @@
 <alrovat id = "1">
 <mezo id = "hattol">20101012</mezo>
 <mezo id = "cgjsz">0809000598</mezo>
-<mezo id = "nev">MENTORING Pénzügyi - Gazdasági Tanácsadó, Könyvvizsgáló és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">MENTORING PÃ©nzÃ¼gyi - GazdasÃ¡gi TanÃ¡csadÃ³, KÃ¶nyvvizsgÃ¡lÃ³ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">9022</mezo>
-<mezo id = "hely">Gyõr</mezo>
-<mezo id = "teru">Apáca utca 39.</mezo>
-<mezo id = "pnev">Dr. Havas István</mezo>
+<mezo id = "hely">GyÅ‘r</mezo>
+<mezo id = "teru">ApÃ¡ca utca 39.</mezo>
+<mezo id = "pnev">Dr. Havas IstvÃ¡n</mezo>
 <mezo id = "panev">Csege Margit</mezo>
 <mezo id = "jogvk">20101012</mezo>
 <mezo id = "jogvv">20151012</mezo>
@@ -154,21 +154,21 @@
 <rovat id = "0109">
 <alrovat id = "1">
 <mezo id = "hattol">20091102</mezo>
-<mezo id = "pnev">Fekete Zoltán</mezo>
-<mezo id = "panev">Ábrahám Irén</mezo>
+<mezo id = "pnev">Fekete ZoltÃ¡n</mezo>
+<mezo id = "panev">ÃbrahÃ¡m IrÃ©n</mezo>
 <mezo id = "pirsz">9026</mezo>
-<mezo id = "phely">Gyõr</mezo>
-<mezo id = "pteru">Bácsai utca 23.</mezo>
+<mezo id = "phely">GyÅ‘r</mezo>
+<mezo id = "pteru">BÃ¡csai utca 23.</mezo>
 <mezo id = "tagsk">20090928</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20091102</mezo>
 <mezo id = "cgjsz">0109866024</mezo>
-<mezo id = "nev">Patent Holding Vagyonkezelõ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Patent Holding VagyonkezelÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1142</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Erzsébet királyné útja 112.</mezo>
+<mezo id = "teru">ErzsÃ©bet kirÃ¡lynÃ© Ãºtja 112.</mezo>
 <mezo id = "tagsk">20090928</mezo>
 </alrovat>
 </rovat>

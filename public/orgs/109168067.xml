@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">168067</mezo>
 <mezo id = "nevalrovat">2</mezo>
-<mezo id = "cim">1039 Budapest, Szentendrei út 283-285 </mezo>
+<mezo id = "cim">1039 Budapest, Szentendrei Ãºt 283-285 </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">10776896241</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20080530</mezo>
-<mezo id = "nev">STUDIOTECH Hungary Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">STUDIOTECH Hungary Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">20080530</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20080728</mezo>
@@ -46,7 +46,7 @@
 <mezo id = "irsz">1039</mezo>
 <mezo id = "hely">Budapest</mezo>
 <mezo id = "teru">Szentendrei</mezo>
-<mezo id = "terj">út</mezo>
+<mezo id = "terj">Ãºt</mezo>
 <mezo id = "hsz">283-285</mezo>
 </alrovat>
 </rovat>
@@ -863,16 +863,16 @@
 <rovat id = "13">
 <alrovat id = "2">
 <mezo id = "hattol">19950707</mezo>
-<mezo id = "nev">Hargas Géza ügyvezetõ</mezo>
+<mezo id = "nev">Hargas GÃ©za Ã¼gyvezetÅ‘</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2000</mezo>
 <mezo id = "hely">Szentendre</mezo>
-<mezo id = "teru">Kökény u. 2.</mezo>
+<mezo id = "teru">KÃ¶kÃ©ny u. 2.</mezo>
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">20100531</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Orosz Károly</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Orosz KÃ¡roly</mezo>
 <mezo id = "panev">Ferge Piroska</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100531</mezo>
@@ -885,13 +885,13 @@
 <alrovat id = "1">
 <mezo id = "hattol">20101115</mezo>
 <mezo id = "cgjsz">1309067436</mezo>
-<mezo id = "nev">KÖNYV-ELL-2 Kft.</mezo>
+<mezo id = "nev">KÃ–NYV-ELL-2 Kft.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2440</mezo>
-<mezo id = "hely">Százhalombatta</mezo>
-<mezo id = "teru">Gyöngyvirág utca 6.</mezo>
+<mezo id = "hely">SzÃ¡zhalombatta</mezo>
+<mezo id = "teru">GyÃ¶ngyvirÃ¡g utca 6.</mezo>
 <mezo id = "pnev">Kiss Gizella</mezo>
-<mezo id = "panev">Mráz Stefánia</mezo>
+<mezo id = "panev">MrÃ¡z StefÃ¡nia</mezo>
 <mezo id = "jogvk">20101115</mezo>
 <mezo id = "jogvv">20110531</mezo>
 <mezo id = "valtk">20101115</mezo>
@@ -919,16 +919,16 @@
 <rovat id = "0109">
 <alrovat id = "6">
 <mezo id = "hattol">19950707</mezo>
-<mezo id = "nev">Gyengõ István</mezo>
+<mezo id = "nev">GyengÅ‘ IstvÃ¡n</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1195</mezo>
-<mezo id = "hely">Budapest, Jáhn F. u. 15.</mezo>
+<mezo id = "hely">Budapest, JÃ¡hn F. u. 15.</mezo>
 </alrovat>
 <alrovat id = "16">
 <mezo id = "hattol">20080530</mezo>
 <mezo id = "nev">STUDIOTECH S. A.</mezo>
 <mezo id = "irsz">1130</mezo>
-<mezo id = "hely">Brüsszel</mezo>
+<mezo id = "hely">BrÃ¼sszel</mezo>
 <mezo id = "teru">Houtweg</mezo>
 <mezo id = "hsz">3</mezo>
 <mezo id = "tagsk">0</mezo>
@@ -943,7 +943,7 @@
 <alrovat id = "18">
 <mezo id = "hattol">20090220</mezo>
 <mezo id = "cgjsz">109911292</mezo>
-<mezo id = "nev">Holdtech Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Holdtech KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1039</mezo>
 <mezo id = "hely">Budapest</mezo>
@@ -967,77 +967,77 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 1997. 04. 15-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. Hargas Géza ügyvezetõ (an: Baksai Julianna)<ujsor/>
-2000 Szentendre, Kökény u. 2.<ujsor/>
- Törölve: 1995. 07. 07-i hatállyal.<ujsor/>
- Hargas Gyõzõ ügyvezetõ<ujsor/>
-2000 Szentendre, Kökény u. 2.<ujsor/>
- Hatályos: 1995. 07. 07-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 1997. 04. 15-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. Hargas GÃ©za Ã¼gyvezetÅ‘ (an: Baksai Julianna)<ujsor/>
+2000 Szentendre, KÃ¶kÃ©ny u. 2.<ujsor/>
+ TÃ¶rÃ¶lve: 1995. 07. 07-i hatÃ¡llyal.<ujsor/>
+ Hargas GyÅ‘zÅ‘ Ã¼gyvezetÅ‘<ujsor/>
+2000 Szentendre, KÃ¶kÃ©ny u. 2.<ujsor/>
+ HatÃ¡lyos: 1995. 07. 07-tÅ‘l.<ujsor/>
 Bejegyezve: 2000. 04. 28.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109168067</mezo>
-<mezo id = "nev">STUDIÓTECH HUNGARY Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1039 Budapest, Szentendrei út 283-285.</mezo>
+<mezo id = "nev">STUDIÃ“TECH HUNGARY Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1039 Budapest, Szentendrei Ãºt 283-285.</mezo>
 <mezo id = "adosz">10776896241</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A STUDIOTECH HUNGARY Kereskedelmi Korlátolt Felelõsségû Társaság (cégjegyzékszám: [01 09 168067]; székhely: 1039 Budapest, Szentendrei út 283­285.) törzstõkéjét a taggyûlés 2005. április 29-i döntése alapján 30 000 000 Ft-ról 20 400 000 Ft-ra szállítja le.<ujsor/>
-A törzstõke-leszállítás oka és módja: a saját üzletrész bevonása.<ujsor/>
-A társaság felhívja az esetleges hitelezõket, hogy követeléseiket a második közzétételtõl számított 30 napon belül a társaság ügyvezetõjének, a társaság székhelyére jelentsék be.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">A STUDIOTECH HUNGARY Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (cÃ©gjegyzÃ©kszÃ¡m: [01 09 168067]; szÃ©khely: 1039 Budapest, Szentendrei Ãºt 283Â­285.) tÃ¶rzstÅ‘kÃ©jÃ©t a taggyÅ±lÃ©s 2005. Ã¡prilis 29-i dÃ¶ntÃ©se alapjÃ¡n 30 000 000 Ft-rÃ³l 20 400 000 Ft-ra szÃ¡llÃ­tja le.<ujsor/>
+A tÃ¶rzstÅ‘ke-leszÃ¡llÃ­tÃ¡s oka Ã©s mÃ³dja: a sajÃ¡t Ã¼zletrÃ©sz bevonÃ¡sa.<ujsor/>
+A tÃ¡rsasÃ¡g felhÃ­vja az esetleges hitelezÅ‘ket, hogy kÃ¶vetelÃ©seiket a mÃ¡sodik kÃ¶zzÃ©tÃ©teltÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l a tÃ¡rsasÃ¡g Ã¼gyvezetÅ‘jÃ©nek, a tÃ¡rsasÃ¡g szÃ©khelyÃ©re jelentsÃ©k be.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109168067</mezo>
-<mezo id = "nev">STUDIÓTECH HUNGARY Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">STUDIÃ“TECH HUNGARY Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1039 Budapest</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A STUDIOTECH HUNGARY Kereskedelmi Korlátolt Felelõsségû Társaság (cégjegyzékszám: [01 09 168067]; székhely: 1039 Budapest, Szentendrei út 283­285.) törzstõkéjét a taggyûlés 2005. április 29-i döntése alapján 30 000 000 Ft-ról 20 400 000 Ft-ra szállítja le.<ujsor/>
-A törzstõke-leszállítás oka és módja: a saját üzletrész bevonása.<ujsor/>
-A társaság felhívja az esetleges hitelezõket, hogy követeléseiket a második közzétételtõl számított 30 napon belül a társaság ügyvezetõjének, a társaság székhelyére jelentsék be.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">A STUDIOTECH HUNGARY Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (cÃ©gjegyzÃ©kszÃ¡m: [01 09 168067]; szÃ©khely: 1039 Budapest, Szentendrei Ãºt 283Â­285.) tÃ¶rzstÅ‘kÃ©jÃ©t a taggyÅ±lÃ©s 2005. Ã¡prilis 29-i dÃ¶ntÃ©se alapjÃ¡n 30 000 000 Ft-rÃ³l 20 400 000 Ft-ra szÃ¡llÃ­tja le.<ujsor/>
+A tÃ¶rzstÅ‘ke-leszÃ¡llÃ­tÃ¡s oka Ã©s mÃ³dja: a sajÃ¡t Ã¼zletrÃ©sz bevonÃ¡sa.<ujsor/>
+A tÃ¡rsasÃ¡g felhÃ­vja az esetleges hitelezÅ‘ket, hogy kÃ¶vetelÃ©seiket a mÃ¡sodik kÃ¶zzÃ©tÃ©teltÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l a tÃ¡rsasÃ¡g Ã¼gyvezetÅ‘jÃ©nek, a tÃ¡rsasÃ¡g szÃ©khelyÃ©re jelentsÃ©k be.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109168067</mezo>
-<mezo id = "nev">STUDIÓTECH HUNGARY Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">STUDIÃ“TECH HUNGARY Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1039 Budapest</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2005. 10. 12-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-1(09). Mécs Rudolf (an: Paróczai Mária)<ujsor/>
-Külföldi cím: BE 1B-12 Brussels , Chemin de Deux Maisons 83.<ujsor/>
- Kézbesítési megbízott: Végh Károly (an: Reményi Rozália)<ujsor/>
-2500 Esztergom, Honvéd u. 53.<ujsor/>
- Hatályos: 2005. 04. 29-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2005. 10. 12-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+1(09). MÃ©cs Rudolf (an: ParÃ³czai MÃ¡ria)<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: BE 1B-12 Brussels , Chemin de Deux Maisons 83.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott: VÃ©gh KÃ¡roly (an: RemÃ©nyi RozÃ¡lia)<ujsor/>
+2500 Esztergom, HonvÃ©d u. 53.<ujsor/>
+ HatÃ¡lyos: 2005. 04. 29-tÅ‘l.<ujsor/>
 Bejegyezve: 2005. 12. 19.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109168067</mezo>
-<mezo id = "nev">STUDIÓTECH HUNGARY Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1039 Budapest, Szentendrei út 283-285.</mezo>
+<mezo id = "nev">STUDIÃ“TECH HUNGARY Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1039 Budapest, Szentendrei Ãºt 283-285.</mezo>
 <mezo id = "adosz">10776896241</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 1998. 11. 02-án hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-1(09). Gyengõ István (an: Bartsch Júlianna)<ujsor/>
-HU 1195 Budapest, Jáhn F. u. 15.<ujsor/>
- A változás idõpontja (törlés): 1998. 09. 22.<ujsor/>
- Törölve: 2007. 12. 03.<ujsor/>
- Gyengõ István (an: Bartsch Júlianna)<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 1998. 11. 02-Ã¡n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+1(09). GyengÅ‘ IstvÃ¡n (an: Bartsch JÃºlianna)<ujsor/>
+HU 1195 Budapest, JÃ¡hn F. u. 15.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 1998. 09. 22.<ujsor/>
+ TÃ¶rÃ¶lve: 2007. 12. 03.<ujsor/>
+ GyengÅ‘ IstvÃ¡n (an: Bartsch JÃºlianna)<ujsor/>
 1065 Budapest, Bajcsy-Zsilinszky u. 19/a.<ujsor/>
- A változás idõpontja: 1998. 09. 22.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 1998. 09. 22.<ujsor/>
  Bejegyezve: 2007. 12. 03.<ujsor/>
 2007. 12. 03.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109168067</mezo>
-<mezo id = "nev">STUDIÓTECH HUNGARY Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1039 Budapest, Szentendrei út 283-285.</mezo>
+<mezo id = "nev">STUDIÃ“TECH HUNGARY Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1039 Budapest, Szentendrei Ãºt 283-285.</mezo>
 <mezo id = "adosz">10776896241</mezo>
 </alrovat>
 </rovat>

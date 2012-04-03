@@ -6,7 +6,7 @@
 <mezo id = "szam">000031</mezo>
 <mezo id = "nevalrovat">1</mezo>
 <mezo id = "allapot">6</mezo>
-<mezo id = "cim">5001 Szolnok, Kossuth Lajos út 2. </mezo>
+<mezo id = "cim">5001 Szolnok, Kossuth Lajos Ãºt 2. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">20671943216</mezo>
 </alrovat>
@@ -14,7 +14,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20000329</mezo>
-<mezo id = "nev">Jász-Nagykun-Szolnok Megyei Területfejlesztési Ügynökség Közhasznú Társaság</mezo>
+<mezo id = "nev">JÃ¡sz-Nagykun-Szolnok Megyei TerÃ¼letfejlesztÃ©si ÃœgynÃ¶ksÃ©g KÃ¶zhasznÃº TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
@@ -22,7 +22,7 @@
 <mezo id = "hattol">20000329</mezo>
 <mezo id = "irsz">5001</mezo>
 <mezo id = "hely">Szolnok</mezo>
-<mezo id = "teru">Kossuth Lajos út 2.</mezo>
+<mezo id = "teru">Kossuth Lajos Ãºt 2.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "8">
@@ -121,7 +121,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090303</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">M.n.s. egyéb közösségi, társadalmi tevékenység</mezo>
+<mezo id = "teaszov">M.n.s. egyÃ©b kÃ¶zÃ¶ssÃ©gi, tÃ¡rsadalmi tevÃ©kenysÃ©g</mezo>
 </alrovat>
 <alrovat id = "24">
 <mezo id = "hattol">20081230</mezo>
@@ -140,7 +140,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090303</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Biotechnológiai kutatás, fejlesztés</mezo>
+<mezo id = "teaszov">BiotechnolÃ³giai kutatÃ¡s, fejlesztÃ©s</mezo>
 </alrovat>
 <alrovat id = "25">
 <mezo id = "hattol">20081230</mezo>
@@ -159,7 +159,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090303</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb természettudományi, mûszaki kutatás, fejlesztés</mezo>
+<mezo id = "teaszov">EgyÃ©b termÃ©szettudomÃ¡nyi, mÅ±szaki kutatÃ¡s, fejlesztÃ©s</mezo>
 </alrovat>
 <alrovat id = "26">
 <mezo id = "hattol">20081230</mezo>
@@ -178,7 +178,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090303</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Társadalomtudományi, humán kutatás, fejlesztés</mezo>
+<mezo id = "teaszov">TÃ¡rsadalomtudomÃ¡nyi, humÃ¡n kutatÃ¡s, fejlesztÃ©s</mezo>
 </alrovat>
 <alrovat id = "27">
 <mezo id = "hattol">20081230</mezo>
@@ -197,7 +197,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090303</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Piac-, közvélemény-kutatás</mezo>
+<mezo id = "teaszov">Piac-, kÃ¶zvÃ©lemÃ©ny-kutatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "28">
 <mezo id = "hattol">20081230</mezo>
@@ -216,7 +216,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090303</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Szakmai középfokú oktatás</mezo>
+<mezo id = "teaszov">Szakmai kÃ¶zÃ©pfokÃº oktatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "29">
 <mezo id = "hattol">20081230</mezo>
@@ -235,7 +235,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090303</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Sport, szabadidõs képzés</mezo>
+<mezo id = "teaszov">Sport, szabadidÅ‘s kÃ©pzÃ©s</mezo>
 </alrovat>
 <alrovat id = "30">
 <mezo id = "hattol">20081230</mezo>
@@ -254,7 +254,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090303</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Kulturális képzés</mezo>
+<mezo id = "teaszov">KulturÃ¡lis kÃ©pzÃ©s</mezo>
 </alrovat>
 <alrovat id = "31">
 <mezo id = "hattol">20081230</mezo>
@@ -273,7 +273,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090303</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">M.n.s. egyéb oktatás</mezo>
+<mezo id = "teaszov">M.n.s. egyÃ©b oktatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "32">
 <mezo id = "hattol">20081230</mezo>
@@ -291,7 +291,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090303</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Erdészeti szolgáltatás</mezo>
+<mezo id = "teaszov">ErdÃ©szeti szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "33">
 <mezo id = "hattol">20081230</mezo>
@@ -309,7 +309,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090303</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Épületépítési projekt szervezése</mezo>
+<mezo id = "teaszov">Ã‰pÃ¼letÃ©pÃ­tÃ©si projekt szervezÃ©se</mezo>
 </alrovat>
 <alrovat id = "34">
 <mezo id = "hattol">20081230</mezo>
@@ -327,7 +327,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090303</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Könyvkiadás</mezo>
+<mezo id = "teaszov">KÃ¶nyvkiadÃ¡s</mezo>
 </alrovat>
 <alrovat id = "35">
 <mezo id = "hattol">20081230</mezo>
@@ -345,7 +345,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090303</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Címtárak, levelezõjegyzékek kiadása</mezo>
+<mezo id = "teaszov">CÃ­mtÃ¡rak, levelezÅ‘jegyzÃ©kek kiadÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "36">
 <mezo id = "hattol">20081230</mezo>
@@ -363,7 +363,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090303</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Napilapkiadás</mezo>
+<mezo id = "teaszov">NapilapkiadÃ¡s</mezo>
 </alrovat>
 <alrovat id = "37">
 <mezo id = "hattol">20081230</mezo>
@@ -381,7 +381,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090303</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Folyóirat, idõszaki kiadvány kiadása</mezo>
+<mezo id = "teaszov">FolyÃ³irat, idÅ‘szaki kiadvÃ¡ny kiadÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "38">
 <mezo id = "hattol">20081230</mezo>
@@ -399,7 +399,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090303</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb kiadói tevékenység</mezo>
+<mezo id = "teaszov">EgyÃ©b kiadÃ³i tevÃ©kenysÃ©g</mezo>
 </alrovat>
 <alrovat id = "39">
 <mezo id = "hattol">20081230</mezo>
@@ -417,7 +417,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090303</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Számítógépes játék kiadása</mezo>
+<mezo id = "teaszov">SzÃ¡mÃ­tÃ³gÃ©pes jÃ¡tÃ©k kiadÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "40">
 <mezo id = "hattol">20081230</mezo>
@@ -435,7 +435,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090303</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb szoftverkiadás</mezo>
+<mezo id = "teaszov">EgyÃ©b szoftverkiadÃ¡s</mezo>
 </alrovat>
 <alrovat id = "41">
 <mezo id = "hattol">20081230</mezo>
@@ -453,7 +453,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090303</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Hangfelvétel készítése, kiadása</mezo>
+<mezo id = "teaszov">HangfelvÃ©tel kÃ©szÃ­tÃ©se, kiadÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "42">
 <mezo id = "hattol">20081230</mezo>
@@ -471,7 +471,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090303</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Rádiómûsor-szolgáltatás</mezo>
+<mezo id = "teaszov">RÃ¡diÃ³mÅ±sor-szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "43">
 <mezo id = "hattol">20081230</mezo>
@@ -489,7 +489,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090303</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Számítógépes programozás</mezo>
+<mezo id = "teaszov">SzÃ¡mÃ­tÃ³gÃ©pes programozÃ¡s</mezo>
 </alrovat>
 <alrovat id = "44">
 <mezo id = "hattol">20081230</mezo>
@@ -507,7 +507,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090303</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Információ-technológiai szaktanácsadás</mezo>
+<mezo id = "teaszov">InformÃ¡ciÃ³-technolÃ³giai szaktanÃ¡csadÃ¡s</mezo>
 </alrovat>
 <alrovat id = "45">
 <mezo id = "hattol">20081230</mezo>
@@ -525,7 +525,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090303</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Számítógép-üzemeltetés</mezo>
+<mezo id = "teaszov">SzÃ¡mÃ­tÃ³gÃ©p-Ã¼zemeltetÃ©s</mezo>
 </alrovat>
 <alrovat id = "46">
 <mezo id = "hattol">20081230</mezo>
@@ -543,7 +543,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090303</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb információ-technológiai szolgáltatás</mezo>
+<mezo id = "teaszov">EgyÃ©b informÃ¡ciÃ³-technolÃ³giai szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "47">
 <mezo id = "hattol">20081230</mezo>
@@ -561,7 +561,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090303</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Adatfeldolgozás, web-hoszting szolgáltatás</mezo>
+<mezo id = "teaszov">AdatfeldolgozÃ¡s, web-hoszting szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "48">
 <mezo id = "hattol">20081230</mezo>
@@ -579,7 +579,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090303</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Világháló-portál szolgáltatás</mezo>
+<mezo id = "teaszov">VilÃ¡ghÃ¡lÃ³-portÃ¡l szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "49">
 <mezo id = "hattol">20081230</mezo>
@@ -597,7 +597,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090303</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">M.n.s. egyéb információs szolgáltatás</mezo>
+<mezo id = "teaszov">M.n.s. egyÃ©b informÃ¡ciÃ³s szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "50">
 <mezo id = "hattol">20081230</mezo>
@@ -615,7 +615,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090303</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Vagyonkezelés (holding)</mezo>
+<mezo id = "teaszov">VagyonkezelÃ©s (holding)</mezo>
 </alrovat>
 <alrovat id = "51">
 <mezo id = "hattol">20081230</mezo>
@@ -633,7 +633,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090303</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Ingatlankezelés</mezo>
+<mezo id = "teaszov">IngatlankezelÃ©s</mezo>
 </alrovat>
 <alrovat id = "52">
 <mezo id = "hattol">20081230</mezo>
@@ -651,7 +651,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090303</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Üzletvezetés</mezo>
+<mezo id = "teaszov">ÃœzletvezetÃ©s</mezo>
 </alrovat>
 <alrovat id = "53">
 <mezo id = "hattol">20081230</mezo>
@@ -669,7 +669,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090303</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">PR, kommunikáció</mezo>
+<mezo id = "teaszov">PR, kommunikÃ¡ciÃ³</mezo>
 </alrovat>
 <alrovat id = "54">
 <mezo id = "hattol">20081230</mezo>
@@ -687,7 +687,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090303</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Üzletviteli, egyéb vezetési tanácsadás</mezo>
+<mezo id = "teaszov">Ãœzletviteli, egyÃ©b vezetÃ©si tanÃ¡csadÃ¡s</mezo>
 </alrovat>
 <alrovat id = "55">
 <mezo id = "hattol">20081230</mezo>
@@ -705,7 +705,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090303</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Építészmérnöki tevékenység</mezo>
+<mezo id = "teaszov">Ã‰pÃ­tÃ©szmÃ©rnÃ¶ki tevÃ©kenysÃ©g</mezo>
 </alrovat>
 <alrovat id = "56">
 <mezo id = "hattol">20081230</mezo>
@@ -723,7 +723,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090303</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Mérnöki tevékenység, mûszaki tanácsadás</mezo>
+<mezo id = "teaszov">MÃ©rnÃ¶ki tevÃ©kenysÃ©g, mÅ±szaki tanÃ¡csadÃ¡s</mezo>
 </alrovat>
 <alrovat id = "57">
 <mezo id = "hattol">20081230</mezo>
@@ -741,7 +741,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090303</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Mûszaki vizsgálat, elemzés</mezo>
+<mezo id = "teaszov">MÅ±szaki vizsgÃ¡lat, elemzÃ©s</mezo>
 </alrovat>
 <alrovat id = "58">
 <mezo id = "hattol">20081230</mezo>
@@ -759,7 +759,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090303</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Reklámügynöki tevékenység</mezo>
+<mezo id = "teaszov">ReklÃ¡mÃ¼gynÃ¶ki tevÃ©kenysÃ©g</mezo>
 </alrovat>
 <alrovat id = "59">
 <mezo id = "hattol">20081230</mezo>
@@ -777,7 +777,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090303</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Médiareklám</mezo>
+<mezo id = "teaszov">MÃ©diareklÃ¡m</mezo>
 </alrovat>
 <alrovat id = "60">
 <mezo id = "hattol">20081230</mezo>
@@ -795,7 +795,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090303</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Divat-, formatervezés</mezo>
+<mezo id = "teaszov">Divat-, formatervezÃ©s</mezo>
 </alrovat>
 <alrovat id = "61">
 <mezo id = "hattol">20081230</mezo>
@@ -813,7 +813,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090303</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Fényképészet</mezo>
+<mezo id = "teaszov">FÃ©nykÃ©pÃ©szet</mezo>
 </alrovat>
 <alrovat id = "62">
 <mezo id = "hattol">20081230</mezo>
@@ -831,7 +831,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090303</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">M.n.s. egyéb szakmai, tudományos, mûszaki tevékenység</mezo>
+<mezo id = "teaszov">M.n.s. egyÃ©b szakmai, tudomÃ¡nyos, mÅ±szaki tevÃ©kenysÃ©g</mezo>
 </alrovat>
 <alrovat id = "63">
 <mezo id = "hattol">20081230</mezo>
@@ -849,7 +849,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090303</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Munkaközvetítés</mezo>
+<mezo id = "teaszov">MunkakÃ¶zvetÃ­tÃ©s</mezo>
 </alrovat>
 <alrovat id = "64">
 <mezo id = "hattol">20081230</mezo>
@@ -867,7 +867,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090303</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Munkaerõkölcsönzés</mezo>
+<mezo id = "teaszov">MunkaerÅ‘kÃ¶lcsÃ¶nzÃ©s</mezo>
 </alrovat>
 <alrovat id = "65">
 <mezo id = "hattol">20081230</mezo>
@@ -885,7 +885,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090303</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb emberierõforrás-ellátás, -gazdálkodás</mezo>
+<mezo id = "teaszov">EgyÃ©b emberierÅ‘forrÃ¡s-ellÃ¡tÃ¡s, -gazdÃ¡lkodÃ¡s</mezo>
 </alrovat>
 <alrovat id = "66">
 <mezo id = "hattol">20081230</mezo>
@@ -903,7 +903,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090303</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Építményüzemeltetés</mezo>
+<mezo id = "teaszov">Ã‰pÃ­tmÃ©nyÃ¼zemeltetÃ©s</mezo>
 </alrovat>
 <alrovat id = "67">
 <mezo id = "hattol">20081230</mezo>
@@ -921,7 +921,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090303</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Konferencia, kereskedelmi bemutató szervezése</mezo>
+<mezo id = "teaszov">Konferencia, kereskedelmi bemutatÃ³ szervezÃ©se</mezo>
 </alrovat>
 <alrovat id = "68">
 <mezo id = "hattol">20081230</mezo>
@@ -939,7 +939,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090303</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Követelésbehajtás</mezo>
+<mezo id = "teaszov">KÃ¶vetelÃ©sbehajtÃ¡s</mezo>
 </alrovat>
 <alrovat id = "69">
 <mezo id = "hattol">20081230</mezo>
@@ -957,7 +957,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090303</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">M.n.s. egyéb kiegészítõ üzleti szolgáltatás</mezo>
+<mezo id = "teaszov">M.n.s. egyÃ©b kiegÃ©szÃ­tÅ‘ Ã¼zleti szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "70">
 <mezo id = "hattol">20081230</mezo>
@@ -975,7 +975,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090303</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Oktatást kiegészítõ tevékenység</mezo>
+<mezo id = "teaszov">OktatÃ¡st kiegÃ©szÃ­tÅ‘ tevÃ©kenysÃ©g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -990,7 +990,7 @@
 <rovat id = "13">
 <alrovat id = "6">
 <mezo id = "hattol">20081230</mezo>
-<mezo id = "pnev">Karancsi Tamás</mezo>
+<mezo id = "pnev">Karancsi TamÃ¡s</mezo>
 <mezo id = "panev">Krista Piroska</mezo>
 <mezo id = "pirsz">5000</mezo>
 <mezo id = "phely">Szolnok, Konstantin u. 48. 1. em. 4.</mezo>
@@ -1008,16 +1008,16 @@
 <alrovat id = "3">
 <mezo id = "hattol">20080501</mezo>
 <mezo id = "cgjsz">1609004168</mezo>
-<mezo id = "nev">FEHÉRNÉ Könyvvizsgáló és Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">FEHÃ‰RNÃ‰ KÃ¶nyvvizsgÃ¡lÃ³ Ã©s TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">5000</mezo>
 <mezo id = "hely">Szolnok</mezo>
-<mezo id = "teru">Markotányos</mezo>
+<mezo id = "teru">MarkotÃ¡nyos</mezo>
 <mezo id = "hsz">8.</mezo>
-<mezo id = "pnev">Fehér Andrásné</mezo>
-<mezo id = "panev">Szilágyi Gabriella</mezo>
+<mezo id = "pnev">FehÃ©r AndrÃ¡snÃ©</mezo>
+<mezo id = "panev">SzilÃ¡gyi Gabriella</mezo>
 <mezo id = "pirsz">5000</mezo>
-<mezo id = "phely">Szolnok, Markotányos út 8.</mezo>
+<mezo id = "phely">Szolnok, MarkotÃ¡nyos Ãºt 8.</mezo>
 <mezo id = "jogvk">20080501</mezo>
 <mezo id = "jogvv">20110430</mezo>
 <mezo id = "valtk">20080501</mezo>
@@ -1029,10 +1029,10 @@
 <rovat id = "15">
 <alrovat id = "5">
 <mezo id = "hattol">20060829</mezo>
-<mezo id = "pnev">Bakk Zoltán</mezo>
-<mezo id = "panev">Papp Rozália</mezo>
+<mezo id = "pnev">Bakk ZoltÃ¡n</mezo>
+<mezo id = "panev">Papp RozÃ¡lia</mezo>
 <mezo id = "pirsz">5200</mezo>
-<mezo id = "phely">Törökszentmiklós, Ifjúság u. 18.</mezo>
+<mezo id = "phely">TÃ¶rÃ¶kszentmiklÃ³s, IfjÃºsÃ¡g u. 18.</mezo>
 <mezo id = "jogvk">20060502</mezo>
 <mezo id = "jogvv">20080430</mezo>
 <mezo id = "valtk">0</mezo>
@@ -1041,9 +1041,9 @@
 <alrovat id = "7">
 <mezo id = "hattol">20080501</mezo>
 <mezo id = "pnev">Hatvani Lajos</mezo>
-<mezo id = "panev">Gajdos Jolán</mezo>
+<mezo id = "panev">Gajdos JolÃ¡n</mezo>
 <mezo id = "pirsz">5093</mezo>
-<mezo id = "phely">Vezseny, Fõ út 15.</mezo>
+<mezo id = "phely">Vezseny, FÅ‘ Ãºt 15.</mezo>
 <mezo id = "jogvk">20080501</mezo>
 <mezo id = "jogvv">20110430</mezo>
 <mezo id = "valtk">20080501</mezo>
@@ -1053,10 +1053,10 @@
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">20080501</mezo>
-<mezo id = "pnev">Bakk Zoltán</mezo>
-<mezo id = "panev">Papp Rozália</mezo>
+<mezo id = "pnev">Bakk ZoltÃ¡n</mezo>
+<mezo id = "panev">Papp RozÃ¡lia</mezo>
 <mezo id = "pirsz">5200</mezo>
-<mezo id = "phely">Törökszentmiklós, Ifjuság út 18.</mezo>
+<mezo id = "phely">TÃ¶rÃ¶kszentmiklÃ³s, IfjusÃ¡g Ãºt 18.</mezo>
 <mezo id = "jogvk">20080501</mezo>
 <mezo id = "jogvv">20110430</mezo>
 <mezo id = "valtk">20080501</mezo>
@@ -1066,10 +1066,10 @@
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">20080501</mezo>
-<mezo id = "pnev">Hajdú László</mezo>
+<mezo id = "pnev">HajdÃº LÃ¡szlÃ³</mezo>
 <mezo id = "panev">Gocza Ilona</mezo>
 <mezo id = "pirsz">5137</mezo>
-<mezo id = "phely">Jászkisér, Dobó út 16.</mezo>
+<mezo id = "phely">JÃ¡szkisÃ©r, DobÃ³ Ãºt 16.</mezo>
 <mezo id = "jogvk">20080501</mezo>
 <mezo id = "jogvv">20110430</mezo>
 <mezo id = "valtk">20080501</mezo>
@@ -1091,41 +1091,41 @@
 <rovat id = "22">
 <alrovat id = "1">
 <mezo id = "jccjsz">1609011184</mezo>
-<mezo id = "nev">Jász-Nagykun-Szolnok Megyei Területfejlesztési Ügynökség Közhasznú Nonprofit Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">JÃ¡sz-Nagykun-Szolnok Megyei TerÃ¼letfejlesztÃ©si ÃœgynÃ¶ksÃ©g KÃ¶zhasznÃº Nonprofit KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0214">
 <alrovat id = "1">
 <mezo id = "hattol">20000329</mezo>
-<mezo id = "nev">Jász-Nagykun-Szolnok Megyei Területfejlesztési Tanács</mezo>
+<mezo id = "nev">JÃ¡sz-Nagykun-Szolnok Megyei TerÃ¼letfejlesztÃ©si TanÃ¡cs</mezo>
 <mezo id = "irsz">5001</mezo>
 <mezo id = "hely">Szolnok</mezo>
-<mezo id = "teru">Kossuth Lajos út</mezo>
+<mezo id = "teru">Kossuth Lajos Ãºt</mezo>
 <mezo id = "hsz">2.</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20000329</mezo>
-<mezo id = "nev">Közép-Tiszamenti Önkormányzatok Területfejlesztési Társulása</mezo>
+<mezo id = "nev">KÃ¶zÃ©p-Tiszamenti Ã–nkormÃ¡nyzatok TerÃ¼letfejlesztÃ©si TÃ¡rsulÃ¡sa</mezo>
 <mezo id = "irsz">5322</mezo>
 <mezo id = "hely">Tiszaszentimre</mezo>
-<mezo id = "teru">Hõsök tere</mezo>
+<mezo id = "teru">HÅ‘sÃ¶k tere</mezo>
 <mezo id = "hsz">7.</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">20000329</mezo>
-<mezo id = "nev">Nagykun Együttmûködési Társulás</mezo>
+<mezo id = "nev">Nagykun EgyÃ¼ttmÅ±kÃ¶dÃ©si TÃ¡rsulÃ¡s</mezo>
 <mezo id = "irsz">5420</mezo>
-<mezo id = "hely">Túrkeve</mezo>
-<mezo id = "teru">Petõfi tér</mezo>
+<mezo id = "hely">TÃºrkeve</mezo>
+<mezo id = "teru">PetÅ‘fi tÃ©r</mezo>
 <mezo id = "hsz">1.</mezo>
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">20070326</mezo>
-<mezo id = "nev">Jászsági Többcélú Társulás</mezo>
+<mezo id = "nev">JÃ¡szsÃ¡gi TÃ¶bbcÃ©lÃº TÃ¡rsulÃ¡s</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">5100</mezo>
-<mezo id = "hely">Jászberény</mezo>
-<mezo id = "teru">Szabadság tér</mezo>
+<mezo id = "hely">JÃ¡szberÃ©ny</mezo>
+<mezo id = "teru">SzabadsÃ¡g tÃ©r</mezo>
 <mezo id = "hsz">26.</mezo>
 <mezo id = "tagsk">20061208</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -1134,11 +1134,11 @@
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">20070326</mezo>
-<mezo id = "nev">Szolnoki Kistérség Többcélú Társulása</mezo>
+<mezo id = "nev">Szolnoki KistÃ©rsÃ©g TÃ¶bbcÃ©lÃº TÃ¡rsulÃ¡sa</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">5000</mezo>
 <mezo id = "hely">Szolnok</mezo>
-<mezo id = "teru">Baross út</mezo>
+<mezo id = "teru">Baross Ãºt</mezo>
 <mezo id = "hsz">1.</mezo>
 <mezo id = "tagsk">20061208</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -1147,11 +1147,11 @@
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">20070326</mezo>
-<mezo id = "nev">Kunszentmártoni Kistérség Többcélú Társulása</mezo>
+<mezo id = "nev">KunszentmÃ¡rtoni KistÃ©rsÃ©g TÃ¶bbcÃ©lÃº TÃ¡rsulÃ¡sa</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">5440</mezo>
-<mezo id = "hely">Kunszentmárton</mezo>
-<mezo id = "teru">Köztársaság tér</mezo>
+<mezo id = "hely">KunszentmÃ¡rton</mezo>
+<mezo id = "teru">KÃ¶ztÃ¡rsasÃ¡g tÃ©r</mezo>
 <mezo id = "hsz">8.</mezo>
 <mezo id = "tagsk">20061208</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -1160,10 +1160,10 @@
 </alrovat>
 <alrovat id = "11">
 <mezo id = "hattol">20070326</mezo>
-<mezo id = "nev">Törökszentmiklós Térsége Többcélú Kistérségi Társulás</mezo>
+<mezo id = "nev">TÃ¶rÃ¶kszentmiklÃ³s TÃ©rsÃ©ge TÃ¶bbcÃ©lÃº KistÃ©rsÃ©gi TÃ¡rsulÃ¡s</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">5200</mezo>
-<mezo id = "hely">Törökszentmiklós</mezo>
+<mezo id = "hely">TÃ¶rÃ¶kszentmiklÃ³s</mezo>
 <mezo id = "teru">Kossuth u. 135/A.</mezo>
 <mezo id = "hsz">20061208</mezo>
 <mezo id = "tagsk">0</mezo>
@@ -1181,16 +1181,16 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2000. 03. 29-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-1(14). Közhasznú.<ujsor/>
- Törölve: 2000. 03. 29-i hatállyal.<ujsor/>
- Kiemelten közhasznú.<ujsor/>
- Hatályos: 2000. 03. 29-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2000. 03. 29-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+1(14). KÃ¶zhasznÃº.<ujsor/>
+ TÃ¶rÃ¶lve: 2000. 03. 29-i hatÃ¡llyal.<ujsor/>
+ Kiemelten kÃ¶zhasznÃº.<ujsor/>
+ HatÃ¡lyos: 2000. 03. 29-tÅ‘l.<ujsor/>
 Bejegyezve: 2000. 08. 11.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1614000031</mezo>
-<mezo id = "nev">Jász-Nagykun-Szolnok Megyei Területfejlesztési Ügynökség Közhasznú Társaság</mezo>
-<mezo id = "cim">5001 Szolnok, Kossuth Lajos út 2.</mezo>
+<mezo id = "nev">JÃ¡sz-Nagykun-Szolnok Megyei TerÃ¼letfejlesztÃ©si ÃœgynÃ¶ksÃ©g KÃ¶zhasznÃº TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">5001 Szolnok, Kossuth Lajos Ãºt 2.</mezo>
 <mezo id = "adosz">20671943216</mezo>
 </alrovat>
 </rovat>

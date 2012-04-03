@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">079163</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">1117 Budapest, Nándorfejérvár köz 10. </mezo>
+<mezo id = "cim">1117 Budapest, NÃ¡ndorfejÃ©rvÃ¡r kÃ¶z 10. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">10603594243</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19910828</mezo>
-<mezo id = "nev">ECONET Kereskedelmi és Ipari Szolgáltató Kft.</mezo>
+<mezo id = "nev">ECONET Kereskedelmi Ã©s Ipari SzolgÃ¡ltatÃ³ Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -27,7 +27,7 @@
 <mezo id = "hattol">20070713</mezo>
 <mezo id = "irsz">1117</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Nándorfejérvár köz 10.</mezo>
+<mezo id = "teru">NÃ¡ndorfejÃ©rvÃ¡r kÃ¶z 10.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">20070530</mezo>
 <mezo id = "valtv">0</mezo>
@@ -37,13 +37,13 @@
 <alrovat id = "1">
 <mezo id = "hattol">20050922</mezo>
 <mezo id = "irsz">9600</mezo>
-<mezo id = "hely">Sárvár, Rákóczi út 75.</mezo>
+<mezo id = "hely">SÃ¡rvÃ¡r, RÃ¡kÃ³czi Ãºt 75.</mezo>
 <mezo id = "orsz">HU</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20050922</mezo>
 <mezo id = "irsz">9600</mezo>
-<mezo id = "hely">Sárvár, Rákóczi út 77.</mezo>
+<mezo id = "hely">SÃ¡rvÃ¡r, RÃ¡kÃ³czi Ãºt 77.</mezo>
 <mezo id = "orsz">HU</mezo>
 </alrovat>
 </rovat>
@@ -421,12 +421,12 @@
 <rovat id = "13">
 <alrovat id = "12">
 <mezo id = "hattol">20110601</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Klenyánszki Erika</mezo>
-<mezo id = "panev">Klenyán Zsuzsanna</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">KlenyÃ¡nszki Erika</mezo>
+<mezo id = "panev">KlenyÃ¡n Zsuzsanna</mezo>
 <mezo id = "pirsz">8380</mezo>
-<mezo id = "phely">Hévíz</mezo>
-<mezo id = "pteru">Petõfi Sándor utca 20-22.</mezo>
+<mezo id = "phely">HÃ©vÃ­z</mezo>
+<mezo id = "pteru">PetÅ‘fi SÃ¡ndor utca 20-22.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20110601</mezo>
 <mezo id = "jogvv">20120531</mezo>
@@ -439,16 +439,16 @@
 <alrovat id = "7">
 <mezo id = "hattol">20110601</mezo>
 <mezo id = "cgjsz">0109708797</mezo>
-<mezo id = "nev">GAIA-N Könyvvizsgáló Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">GAIA-N KÃ¶nyvvizsgÃ¡lÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1196</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Árpád u. 162.</mezo>
-<mezo id = "pnev">Boza István</mezo>
+<mezo id = "teru">ÃrpÃ¡d u. 162.</mezo>
+<mezo id = "pnev">Boza IstvÃ¡n</mezo>
 <mezo id = "panev">Szarka Margit</mezo>
 <mezo id = "pirsz">1133</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Dráva utca 5/a.</mezo>
+<mezo id = "pteru">DrÃ¡va utca 5/a.</mezo>
 <mezo id = "jogvk">20110601</mezo>
 <mezo id = "jogvv">20120531</mezo>
 <mezo id = "valtk">20110601</mezo>
@@ -470,16 +470,16 @@
 <mezo id = "adosz">10603594243</mezo>
 <mezo id = "kadosz">HU10603594</mezo>
 <mezo id = "bkelt">20110601</mezo>
-<mezo id = "megj">Adószám státusza: érvényes adószám</mezo>
+<mezo id = "megj">AdÃ³szÃ¡m stÃ¡tusza: Ã©rvÃ©nyes adÃ³szÃ¡m</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0109">
 <alrovat id = "9">
 <mezo id = "hattol">20050512</mezo>
-<mezo id = "pnev">Klenyánszky Erika</mezo>
-<mezo id = "panev">Klenyán Zsuzsanna</mezo>
+<mezo id = "pnev">KlenyÃ¡nszky Erika</mezo>
+<mezo id = "panev">KlenyÃ¡n Zsuzsanna</mezo>
 <mezo id = "pirsz">8380</mezo>
-<mezo id = "phely">Hévíz, Petõfi S. u. 20-22.</mezo>
+<mezo id = "phely">HÃ©vÃ­z, PetÅ‘fi S. u. 20-22.</mezo>
 </alrovat>
 <alrovat id = "11">
 <mezo id = "hattol">20101210</mezo>
@@ -490,18 +490,18 @@
 <mezo id = "tagsk">20101210</mezo>
 <mezo id = "sz2">x</mezo>
 <mezo id = "valtk">20101210</mezo>
-<mezo id = "knyh">cégbíróság</mezo>
+<mezo id = "knyh">cÃ©gbÃ­rÃ³sÃ¡g</mezo>
 <mezo id = "bkelt">20110106</mezo>
 </alrovat>
 <alrovat id = "13">
 <mezo id = "hattol">20101210</mezo>
 <mezo id = "nev">BURGIN s.r.o.</mezo>
 <mezo id = "orsz">SL</mezo>
-<mezo id = "hely">Jesenského 49/23</mezo>
-<mezo id = "teru">94 01 Stúrovo</mezo>
+<mezo id = "hely">JesenskÃ©ho 49/23</mezo>
+<mezo id = "teru">94 01 StÃºrovo</mezo>
 <mezo id = "tagsk">20101210</mezo>
 <mezo id = "valtk">20101210</mezo>
-<mezo id = "knyh">bíróság</mezo>
+<mezo id = "knyh">bÃ­rÃ³sÃ¡g</mezo>
 <mezo id = "bkelt">20110124</mezo>
 </alrovat>
 </rovat>
@@ -514,29 +514,29 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság a Cg.01-09-079163 cégjegyzékszámon bejegyzett ECONET Kereskedelmi és Ipari Szolgáltató Kft. (1117 Budapest, Nándorfejérvár köz 10.; adószáma: 10603594-2-43) kérelme alapján elrendeli az 2011. január 6. napján hozott Cg.01-09-079163 /96. számú végzésének kijavítását az alábbiak szerint:<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.01-09-079163 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett ECONET Kereskedelmi Ã©s Ipari SzolgÃ¡ltatÃ³ Kft. (1117 Budapest, NÃ¡ndorfejÃ©rvÃ¡r kÃ¶z 10.; adÃ³szÃ¡ma: 10603594-2-43) kÃ©relme alapjÃ¡n elrendeli az 2011. januÃ¡r 6. napjÃ¡n hozott Cg.01-09-079163 /96. szÃ¡mÃº vÃ©gzÃ©sÃ©nek kijavÃ­tÃ¡sÃ¡t az alÃ¡bbiak szerint:<ujsor/>
 1(09) A tag(ok) adatai<ujsor/>
-Külföldi cég, szervezet nyilvántartási száma: 27259/N<ujsor/>
-Külföldi cég, szervezet nyilvántartó hatósága: Bíróság<ujsor/>
+KÃ¼lfÃ¶ldi cÃ©g, szervezet nyilvÃ¡ntartÃ¡si szÃ¡ma: 27259/N<ujsor/>
+KÃ¼lfÃ¶ldi cÃ©g, szervezet nyilvÃ¡ntartÃ³ hatÃ³sÃ¡ga: BÃ­rÃ³sÃ¡g<ujsor/>
 BURGIN s.r.o.<ujsor/>
-SL Jesenského 49/23, 94 01 Stúrovo, Slovakia<ujsor/>
+SL JesenskÃ©ho 49/23, 94 01 StÃºrovo, Slovakia<ujsor/>
 Tags. kezdete: 2010.10.12.<ujsor/>
-Vált. vége: 2010.10.12.<ujsor/>
-Törölve (végzés kelte): 2011. január 24.<ujsor/>
-Külföldi cég, szervezet nyilvántartási száma: 27259/N<ujsor/>
-Külföldi cég, szervezet nyilvántartó hatósága: bíróság<ujsor/>
+VÃ¡lt. vÃ©ge: 2010.10.12.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2011. januÃ¡r 24.<ujsor/>
+KÃ¼lfÃ¶ldi cÃ©g, szervezet nyilvÃ¡ntartÃ¡si szÃ¡ma: 27259/N<ujsor/>
+KÃ¼lfÃ¶ldi cÃ©g, szervezet nyilvÃ¡ntartÃ³ hatÃ³sÃ¡ga: bÃ­rÃ³sÃ¡g<ujsor/>
 BURGIN s.r.o.<ujsor/>
-SL Jesenského 49/23, 94 01 Stúrovo<ujsor/>
+SL JesenskÃ©ho 49/23, 94 01 StÃºrovo<ujsor/>
 Tags. kezdete: 2010.12.10.<ujsor/>
-Vált. kezdete: 2010.12.10.<ujsor/>
-Bejegyezve (végzés kelte): 2011. január 24.<ujsor/>
-E végzés ellen fellebbezésnek nincs helye, azonban az ügyész, továbbá az, akire a végzés rendelkezést tartalmaz - a rendelkezés õt érintõ részére vonatkozóan - pert indíthat a cég ellen a cég székhelye szerint illetékes megyei bíróság elõtt a bejegyzõ végzés hatályon kívül helyezése iránt.<ujsor/>
-A per megindításának a bejegyzõ végzés Cégközlönyben való közzétételétõl, illetve - közzétételi kötelezettség hiányában - annak kézbesítésétõl számított 30 napon belül van helye. A határidõ elmulasztása jogvesztéssel jár.<ujsor/>
-2011. január 24.<ujsor/>
+VÃ¡lt. kezdete: 2010.12.10.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2011. januÃ¡r 24.<ujsor/>
+E vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye, azonban az Ã¼gyÃ©sz, tovÃ¡bbÃ¡ az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s Å‘t Ã©rintÅ‘ rÃ©szÃ©re vonatkozÃ³an - pert indÃ­that a cÃ©g ellen a cÃ©g szÃ©khelye szerint illetÃ©kes megyei bÃ­rÃ³sÃ¡g elÅ‘tt a bejegyzÅ‘ vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt.<ujsor/>
+A per megindÃ­tÃ¡sÃ¡nak a bejegyzÅ‘ vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l, illetve - kÃ¶zzÃ©tÃ©teli kÃ¶telezettsÃ©g hiÃ¡nyÃ¡ban - annak kÃ©zbesÃ­tÃ©sÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l van helye. A hatÃ¡ridÅ‘ elmulasztÃ¡sa jogvesztÃ©ssel jÃ¡r.<ujsor/>
+2011. januÃ¡r 24.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109079163</mezo>
-<mezo id = "nev">ECONET Kereskedelmi és Ipari Szolgáltató Kft.</mezo>
-<mezo id = "cim">1117 Budapest, Nándorfejérvár köz 10.</mezo>
+<mezo id = "nev">ECONET Kereskedelmi Ã©s Ipari SzolgÃ¡ltatÃ³ Kft.</mezo>
+<mezo id = "cim">1117 Budapest, NÃ¡ndorfejÃ©rvÃ¡r kÃ¶z 10.</mezo>
 <mezo id = "adosz">10603594243</mezo>
 </alrovat>
 </rovat>

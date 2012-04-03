@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">682281</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">1031 Budapest, Nimród utca 7. </mezo>
+<mezo id = "cim">1031 Budapest, NimrÃ³d utca 7. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">11901486241</mezo>
 </alrovat>
@@ -13,13 +13,13 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19991001</mezo>
-<mezo id = "nev">SPECIÁLTERV Építõmérnöki Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">SPECIÃLTERV Ã‰pÃ­tÅ‘mÃ©rnÃ¶ki KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">19991001</mezo>
-<mezo id = "nev">SPECIÁLTERV Kft.</mezo>
+<mezo id = "nev">SPECIÃLTERV Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
@@ -27,7 +27,7 @@
 <mezo id = "hattol">20040601</mezo>
 <mezo id = "irsz">1031</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Nimród utca 7.</mezo>
+<mezo id = "teru">NimrÃ³d utca 7.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "8">
@@ -1044,8 +1044,8 @@
 <rovat id = "13">
 <alrovat id = "5">
 <mezo id = "hattol">20080521</mezo>
-<mezo id = "pnev">Pál Gábor</mezo>
-<mezo id = "panev">Gáti Mária</mezo>
+<mezo id = "pnev">PÃ¡l GÃ¡bor</mezo>
+<mezo id = "panev">GÃ¡ti MÃ¡ria</mezo>
 <mezo id = "pirsz">1095</mezo>
 <mezo id = "phely">Budapest, Ipar utca 11.</mezo>
 <mezo id = "kepvo">x</mezo>
@@ -1061,25 +1061,25 @@
 <alrovat id = "1">
 <mezo id = "hattol">20031028</mezo>
 <mezo id = "cgjsz">103024222</mezo>
-<mezo id = "nev">AKTÍVA Ügyviteli Közkereseti Társaság</mezo>
+<mezo id = "nev">AKTÃVA Ãœgyviteli KÃ¶zkereseti TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1121</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Normafa út</mezo>
+<mezo id = "teru">Normafa Ãºt</mezo>
 <mezo id = "hsz">18.</mezo>
-<mezo id = "pnev">Fekete István</mezo>
-<mezo id = "panev">Szabó Mária</mezo>
+<mezo id = "pnev">Fekete IstvÃ¡n</mezo>
+<mezo id = "panev">SzabÃ³ MÃ¡ria</mezo>
 <mezo id = "pirsz">1121</mezo>
-<mezo id = "phely">Budapest, Normafa út 18.</mezo>
+<mezo id = "phely">Budapest, Normafa Ãºt 18.</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20080521</mezo>
 <mezo id = "cgjsz">109733478</mezo>
-<mezo id = "nev">SILVER AUDIT Számviteli Szolgáltató Kft.</mezo>
+<mezo id = "nev">SILVER AUDIT SzÃ¡mviteli SzolgÃ¡ltatÃ³ Kft.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1122</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Hajnóczy József utca</mezo>
+<mezo id = "teru">HajnÃ³czy JÃ³zsef utca</mezo>
 <mezo id = "hsz">3. fszt. 2.</mezo>
 <mezo id = "jogvk">20080521</mezo>
 <mezo id = "jogvv">20121231</mezo>
@@ -1124,8 +1124,8 @@
 <alrovat id = "6">
 <mezo id = "hattol">20031028</mezo>
 <mezo id = "k">x</mezo>
-<mezo id = "pnev">Pál Gábor</mezo>
-<mezo id = "panev">Gáti Mária</mezo>
+<mezo id = "pnev">PÃ¡l GÃ¡bor</mezo>
+<mezo id = "panev">GÃ¡ti MÃ¡ria</mezo>
 <mezo id = "pirsz">1095</mezo>
 <mezo id = "phely">Budapest, Ipar utca 11.</mezo>
 </alrovat>
@@ -1139,42 +1139,42 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Boros Péter (a. n.: Gál Vilma; 2030 Érd, Bakonyi u. 17.) a társasági törvény 292. § (1) bekezdése alapján ezennel nyilvánosságra hozza, hogy a Fõvárosi Cégbíróságnál Cg. [01 09 682281] szám alatt bejegyzett SPECIÁLTERV Építõmérnöki Kft.-ben (1095 Budapest, Ipar u. 11.) a 2000. március 1-jén kelt üzletrész-átruházási szerzõdésben foglalt üzletrész megvásárlásával 2000. március 1-jétõl többségi irányítást biztosító befolyást, 67% mértékû üzletrészt szerzett.<ujsor/>
+<mezo id = "szoveg">Boros PÃ©ter (a. n.: GÃ¡l Vilma; 2030 Ã‰rd, Bakonyi u. 17.) a tÃ¡rsasÃ¡gi tÃ¶rvÃ©ny 292. Â§ (1) bekezdÃ©se alapjÃ¡n ezennel nyilvÃ¡nossÃ¡gra hozza, hogy a FÅ‘vÃ¡rosi CÃ©gbÃ­rÃ³sÃ¡gnÃ¡l Cg. [01 09 682281] szÃ¡m alatt bejegyzett SPECIÃLTERV Ã‰pÃ­tÅ‘mÃ©rnÃ¶ki Kft.-ben (1095 Budapest, Ipar u. 11.) a 2000. mÃ¡rcius 1-jÃ©n kelt Ã¼zletrÃ©sz-Ã¡truhÃ¡zÃ¡si szerzÅ‘dÃ©sben foglalt Ã¼zletrÃ©sz megvÃ¡sÃ¡rlÃ¡sÃ¡val 2000. mÃ¡rcius 1-jÃ©tÅ‘l tÃ¶bbsÃ©gi irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡st, 67% mÃ©rtÃ©kÅ± Ã¼zletrÃ©szt szerzett.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109682281</mezo>
-<mezo id = "nev">SPECIÁLTERV Építõmérnöki Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">SPECIÃLTERV Ã‰pÃ­tÅ‘mÃ©rnÃ¶ki KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A SPECIÁLTERV Építõmérnöki Korlátolt Felelõsségû Társaság a Gazdasági társaságokról szóló 1997. évi CXLIV. törvény 292. § (1) bekezdése alapján az alábbiakat teszi közzé:<ujsor/>
-A SPECIÁLTERV Építõmérnöki Korlátolt Felelõsségû Társaság (cégjegyzékszám: [01 09 682281]; 1095 Budapest, Ipar u. 11.) 2003. október 28-án megtartott taggyûlése elhatározta, hogy a társaság egyszemélyes korlátolt felelõsségû társaságként kíván tovább mûködni úgy, hogy a társaság egyik tagja Pál Gábor (a. n.: Gáti Mária; 1095 Budapest, Ipar u. 11.) a többi tag üzletrészét megvásárolta. A változásnak megfelelõen Pál Gábor tag 100%-os üzletrésszel, tehát közvetlen irányítást biztosító befolyással rendelkezik.<ujsor/>
-A SPECIÁLTERV Építõmérnöki Korlátolt Felelõsségû Társaság ügyvezetõje a Gt. 296. § (2) bekezdése alapján felhívja azon hitelezõket, akiknek a fenti társasággal szemben le nem járt követelései a befolyás közzétételét megelõzõen keletkeztek, hogy a közzététel utáni 90 napos jogvesztõ határidõn belül, követeléseik erejéig biztosítékot követelhetnek az uralkodó tagtól.<ujsor/>
+<mezo id = "szoveg">A SPECIÃLTERV Ã‰pÃ­tÅ‘mÃ©rnÃ¶ki KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g a GazdasÃ¡gi tÃ¡rsasÃ¡gokrÃ³l szÃ³lÃ³ 1997. Ã©vi CXLIV. tÃ¶rvÃ©ny 292. Â§ (1) bekezdÃ©se alapjÃ¡n az alÃ¡bbiakat teszi kÃ¶zzÃ©:<ujsor/>
+A SPECIÃLTERV Ã‰pÃ­tÅ‘mÃ©rnÃ¶ki KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (cÃ©gjegyzÃ©kszÃ¡m: [01 09 682281]; 1095 Budapest, Ipar u. 11.) 2003. oktÃ³ber 28-Ã¡n megtartott taggyÅ±lÃ©se elhatÃ¡rozta, hogy a tÃ¡rsasÃ¡g egyszemÃ©lyes korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡gkÃ©nt kÃ­vÃ¡n tovÃ¡bb mÅ±kÃ¶dni Ãºgy, hogy a tÃ¡rsasÃ¡g egyik tagja PÃ¡l GÃ¡bor (a. n.: GÃ¡ti MÃ¡ria; 1095 Budapest, Ipar u. 11.) a tÃ¶bbi tag Ã¼zletrÃ©szÃ©t megvÃ¡sÃ¡rolta. A vÃ¡ltozÃ¡snak megfelelÅ‘en PÃ¡l GÃ¡bor tag 100%-os Ã¼zletrÃ©sszel, tehÃ¡t kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡ssal rendelkezik.<ujsor/>
+A SPECIÃLTERV Ã‰pÃ­tÅ‘mÃ©rnÃ¶ki KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g Ã¼gyvezetÅ‘je a Gt. 296. Â§ (2) bekezdÃ©se alapjÃ¡n felhÃ­vja azon hitelezÅ‘ket, akiknek a fenti tÃ¡rsasÃ¡ggal szemben le nem jÃ¡rt kÃ¶vetelÃ©sei a befolyÃ¡s kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, hogy a kÃ¶zzÃ©tÃ©tel utÃ¡ni 90 napos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l, kÃ¶vetelÃ©seik erejÃ©ig biztosÃ­tÃ©kot kÃ¶vetelhetnek az uralkodÃ³ tagtÃ³l.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109682281</mezo>
-<mezo id = "nev">SPECIÁLTERV Építõmérnöki Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">SPECIÃLTERV Ã‰pÃ­tÅ‘mÃ©rnÃ¶ki KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1095 Budapest, Ipar utca 11. </mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2004. 01. 15-én hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-14. [01 03 024222] AKTÍVA Ügyviteli Közkereseti Társaság<ujsor/>
-HU 1121 Budapest, Normafa út 18.<ujsor/>
- Fekete István (an: Szabó Mária)<ujsor/>
-1121 Budapest, Normafa út 18.<ujsor/>
- Törölve: 2003. 10. 28-i hatállyal.<ujsor/>
- [01 03 024222] &quot;AKTIVA&quot; Ügyviteli Közkereseti Társaság<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2004. 01. 15-Ã©n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+14. [01 03 024222] AKTÃVA Ãœgyviteli KÃ¶zkereseti TÃ¡rsasÃ¡g<ujsor/>
+HU 1121 Budapest, Normafa Ãºt 18.<ujsor/>
+ Fekete IstvÃ¡n (an: SzabÃ³ MÃ¡ria)<ujsor/>
+1121 Budapest, Normafa Ãºt 18.<ujsor/>
+ TÃ¶rÃ¶lve: 2003. 10. 28-i hatÃ¡llyal.<ujsor/>
+ [01 03 024222] &quot;AKTIVA&quot; Ãœgyviteli KÃ¶zkereseti TÃ¡rsasÃ¡g<ujsor/>
 HU 1121 Budapest, Normafa u. 18.<ujsor/>
- Farkas István (an: Szabó Mária)<ujsor/>
+ Farkas IstvÃ¡n (an: SzabÃ³ MÃ¡ria)<ujsor/>
 1121 Budapest, Normafa u. 18.<ujsor/>
  A jogviszony kezdete: 2003. 10. 28.<ujsor/>
- Hatályos: 2004. 07. 19-tõl.<ujsor/>
+ HatÃ¡lyos: 2004. 07. 19-tÅ‘l.<ujsor/>
 Bejegyezve: 2004. 07. 19.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109682281</mezo>
-<mezo id = "nev">SPECIÁLTERV Építõmérnöki Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1031 Budapest, Nimród utca 7.</mezo>
+<mezo id = "nev">SPECIÃLTERV Ã‰pÃ­tÅ‘mÃ©rnÃ¶ki KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1031 Budapest, NimrÃ³d utca 7.</mezo>
 <mezo id = "adosz">11901486241</mezo>
 </alrovat>
 </rovat>

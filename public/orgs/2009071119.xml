@@ -7,7 +7,7 @@
 <mezo id = "nevalrovat">3</mezo>
 <mezo id = "regi_szh">0109873533</mezo>
 <mezo id = "allapot">2</mezo>
-<mezo id = "cim">8800 Nagykanizsa, Berzsenyi Dániel utca 12/b. 4. em. 12. </mezo>
+<mezo id = "cim">8800 Nagykanizsa, Berzsenyi DÃ¡niel utca 12/b. 4. em. 12. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">10772768220</mezo>
 </alrovat>
@@ -15,7 +15,7 @@
 <rovat id = "2">
 <alrovat id = "3">
 <mezo id = "hattol">20110513</mezo>
-<mezo id = "nev">&quot;CRAZY-CARGO-TERMINÁL&quot; Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság &quot;felszámolás alatt&quot;</mezo>
+<mezo id = "nev">&quot;CRAZY-CARGO-TERMINÃL&quot; Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g &quot;felszÃ¡molÃ¡s alatt&quot;</mezo>
 <mezo id = "valtk">20110513</mezo>
 <mezo id = "bkelt">20110519</mezo>
 </alrovat>
@@ -23,7 +23,7 @@
 <rovat id = "3">
 <alrovat id = "3">
 <mezo id = "hattol">20110513</mezo>
-<mezo id = "nev">&quot;CRAZY-CARGO-TERMINÁL&quot; Kft. &quot;f.a.&quot;</mezo>
+<mezo id = "nev">&quot;CRAZY-CARGO-TERMINÃL&quot; Kft. &quot;f.a.&quot;</mezo>
 <mezo id = "valtk">20110513</mezo>
 <mezo id = "bkelt">20110519</mezo>
 </alrovat>
@@ -33,7 +33,7 @@
 <mezo id = "hattol">20101021</mezo>
 <mezo id = "irsz">8800</mezo>
 <mezo id = "hely">Nagykanizsa</mezo>
-<mezo id = "teru">Berzsenyi Dániel utca 12/b. 4. em. 12.</mezo>
+<mezo id = "teru">Berzsenyi DÃ¡niel utca 12/b. 4. em. 12.</mezo>
 <mezo id = "valtk">20101021</mezo>
 <mezo id = "bkelt">20101203</mezo>
 </alrovat>
@@ -989,13 +989,13 @@
 <alrovat id = "16">
 <mezo id = "hattol">20110513</mezo>
 <mezo id = "cgjsz">0109269376</mezo>
-<mezo id = "nev">SONTEN Pénzügyi és Befektetési Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">SONTEN PÃ©nzÃ¼gyi Ã©s BefektetÃ©si TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1067</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Szépvölgyi út 52.</mezo>
-<mezo id = "tiszt">felszámolóbiztos</mezo>
-<mezo id = "pnev">Gellén István</mezo>
+<mezo id = "teru">SzÃ©pvÃ¶lgyi Ãºt 52.</mezo>
+<mezo id = "tiszt">felszÃ¡molÃ³biztos</mezo>
+<mezo id = "pnev">GellÃ©n IstvÃ¡n</mezo>
 <mezo id = "panev">Kiss Piroska</mezo>
 <mezo id = "pirsz">1165</mezo>
 <mezo id = "phely">Budapest</mezo>
@@ -1043,7 +1043,7 @@
 <mezo id = "adosz">10772768220</mezo>
 <mezo id = "kadosz">HU10772768</mezo>
 <mezo id = "bkelt">20110520</mezo>
-<mezo id = "megj">Adószám státusza: érvényes adószám</mezo>
+<mezo id = "megj">AdÃ³szÃ¡m stÃ¡tusza: Ã©rvÃ©nyes adÃ³szÃ¡m</mezo>
 </alrovat>
 </rovat>
 <rovat id = "28">
@@ -1057,9 +1057,9 @@
 <rovat id = "0109">
 <alrovat id = "10">
 <mezo id = "hattol">20101021</mezo>
-<mezo id = "pnev">Kõváriné Bánfi Ildikó</mezo>
+<mezo id = "pnev">KÅ‘vÃ¡rinÃ© BÃ¡nfi IldikÃ³</mezo>
 <mezo id = "panev">Obermayer Edit</mezo>
-<mezo id = "pcnev">Buzai Ügyvédi Iroda</mezo>
+<mezo id = "pcnev">Buzai ÃœgyvÃ©di Iroda</mezo>
 <mezo id = "pcirsz">1072</mezo>
 <mezo id = "pchely">Budapest</mezo>
 <mezo id = "pcteru">Dembinszky utca 10. fsz 2.</mezo>
@@ -1069,9 +1069,9 @@
 </alrovat>
 <alrovat id = "11">
 <mezo id = "hattol">20101021</mezo>
-<mezo id = "pnev">Kõvári Anita</mezo>
-<mezo id = "panev">Bánfi Ildikó</mezo>
-<mezo id = "pcnev">Buzai Ügyvédi Iroda</mezo>
+<mezo id = "pnev">KÅ‘vÃ¡ri Anita</mezo>
+<mezo id = "panev">BÃ¡nfi IldikÃ³</mezo>
+<mezo id = "pcnev">Buzai ÃœgyvÃ©di Iroda</mezo>
 <mezo id = "pcirsz">1072</mezo>
 <mezo id = "pchely">Budapest</mezo>
 <mezo id = "pcteru">Dembinszky utca 10. fsz 2.</mezo>
@@ -1081,9 +1081,9 @@
 </alrovat>
 <alrovat id = "12">
 <mezo id = "hattol">20101021</mezo>
-<mezo id = "pnev">Kõvári Adrienn</mezo>
-<mezo id = "panev">Bánfi Ildikó</mezo>
-<mezo id = "pcnev">Buzai Ügyvédi Iroda</mezo>
+<mezo id = "pnev">KÅ‘vÃ¡ri Adrienn</mezo>
+<mezo id = "panev">BÃ¡nfi IldikÃ³</mezo>
+<mezo id = "pcnev">Buzai ÃœgyvÃ©di Iroda</mezo>
 <mezo id = "pcirsz">1072</mezo>
 <mezo id = "pchely">Budapest</mezo>
 <mezo id = "pcteru">Dembinszky utca 10. fsz 2.</mezo>
@@ -1101,23 +1101,23 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Zala Megyei Bíróság 3.Fpk.20-11-020042/8. sz. végzése felszámolás megindításának közzétételérõl<ujsor/>
-A bíróság elrendeli annak a Cégközlönyben való közzétételét, hogy a(z) 2011. május 4. napján jogerõre emelkedett végzésével a(z)  &quot;CRAZY-CARGO-TERMINÁL&quot; Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság (8800 Nagykanizsa, Berzsenyi Dániel utca 12/b. 4. em. 12.; cégjegyzékszáma: 20 09 071119; adószáma: 10772768-2-20) adós felszámolását fõeljárásként elrendelte.<ujsor/>
-Elõzõ elnevezése(i): &quot;CRAZY&quot; Kereskedelmi és Export-Import Korlátolt Felelõsségû Társaság<ujsor/>
-Elõzõ székhelyei(i): 1087 Budapest, Luther u. 4-6 1094 Budapest, Balázs Béla u. 39 8000 Székesfehérvár, M7-es autópálya 59. km 0346/2/A. 8000 Székesfehérvár, M7-es autópálya 59. km 20346/2/A. 1139 Budapest, Gömb u 48/D. 1. em. 7.<ujsor/>
-A bíróság által kijelölt felszámoló: SONTEN Pénzügyi és Befektetési Tanácsadó Kft., 1067 Budapest, Csengery u. 53. cégjegyzékszáma: 01 09 269376.<ujsor/>
-A felszámolóbiztos(ok): Gellén István (an: Kiss Piroska) 1165 Budapest, Natasa u. 7.<ujsor/>
-A felszámolási eljárás megindítására irányuló kérelem benyújtásának idõpontja: 2011. január 24.<ujsor/>
-A felszámolás kezdõ idõpontja e végzés Cégközlönyben való közzétételének napja.<ujsor/>
-A Zala Megyei Bíróság Gazdasági Hivatalánál kezelt elkülönített számla száma: 10049006-01483202-24000004.<ujsor/>
-Mindazok [ideértve a zálogjogosultakat, és a 3. § (1) bekezdés c) pontja szerinti függõ követelések jogosultjait is], akik az adóssal szemben fennálló ismert követeléseiket - kivéve a felszámolási eljárást közvetlenül megelõzõ csõdeljárásban [27. § (2) bekezdés e) pont] már bejelentett és nyilvántartásba vett követeléseket - a felszámolás során hitelezõként érvényesíteni kívánják, ismert követeléseiket e végzés közzétételétõl számított 40 napon belül jelentsék be a felszámolónak.<ujsor/>
-A felszámoló - a módosított 1991. évi XLIX. tv. 57. § (1) bekezdés a) és c) pontjában meghatározott követelések kivételével - csak azt a bejelentést veszi nyilvántartásba, amely után az igénybejelentõ a követelés 1 %-át, de legalább 5.000 Ft-ot, legfeljebb 200.000 Ft-ot az e végzésben megjelölt számlára - a bírósági ügyszámra (végzés számra) hivatkozással - 40 napon belül befizetett és ezt a felszámoló részére igazolta.<ujsor/>
-Zalaegerszeg, 2011. május 13.<ujsor/>
-A közzététel idõpontja: 2011. május 13.<ujsor/>
+<mezo id = "szoveg">A Zala Megyei BÃ­rÃ³sÃ¡g 3.Fpk.20-11-020042/8. sz. vÃ©gzÃ©se felszÃ¡molÃ¡s megindÃ­tÃ¡sÃ¡nak kÃ¶zzÃ©tÃ©telÃ©rÅ‘l<ujsor/>
+A bÃ­rÃ³sÃ¡g elrendeli annak a CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©t, hogy a(z) 2011. mÃ¡jus 4. napjÃ¡n jogerÅ‘re emelkedett vÃ©gzÃ©sÃ©vel a(z)  &quot;CRAZY-CARGO-TERMINÃL&quot; Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (8800 Nagykanizsa, Berzsenyi DÃ¡niel utca 12/b. 4. em. 12.; cÃ©gjegyzÃ©kszÃ¡ma: 20 09 071119; adÃ³szÃ¡ma: 10772768-2-20) adÃ³s felszÃ¡molÃ¡sÃ¡t fÅ‘eljÃ¡rÃ¡skÃ©nt elrendelte.<ujsor/>
+ElÅ‘zÅ‘ elnevezÃ©se(i): &quot;CRAZY&quot; Kereskedelmi Ã©s Export-Import KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g<ujsor/>
+ElÅ‘zÅ‘ szÃ©khelyei(i): 1087 Budapest, Luther u. 4-6 1094 Budapest, BalÃ¡zs BÃ©la u. 39 8000 SzÃ©kesfehÃ©rvÃ¡r, M7-es autÃ³pÃ¡lya 59. km 0346/2/A. 8000 SzÃ©kesfehÃ©rvÃ¡r, M7-es autÃ³pÃ¡lya 59. km 20346/2/A. 1139 Budapest, GÃ¶mb u 48/D. 1. em. 7.<ujsor/>
+A bÃ­rÃ³sÃ¡g Ã¡ltal kijelÃ¶lt felszÃ¡molÃ³: SONTEN PÃ©nzÃ¼gyi Ã©s BefektetÃ©si TanÃ¡csadÃ³ Kft., 1067 Budapest, Csengery u. 53. cÃ©gjegyzÃ©kszÃ¡ma: 01 09 269376.<ujsor/>
+A felszÃ¡molÃ³biztos(ok): GellÃ©n IstvÃ¡n (an: Kiss Piroska) 1165 Budapest, Natasa u. 7.<ujsor/>
+A felszÃ¡molÃ¡si eljÃ¡rÃ¡s megindÃ­tÃ¡sÃ¡ra irÃ¡nyulÃ³ kÃ©relem benyÃºjtÃ¡sÃ¡nak idÅ‘pontja: 2011. januÃ¡r 24.<ujsor/>
+A felszÃ¡molÃ¡s kezdÅ‘ idÅ‘pontja e vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©nek napja.<ujsor/>
+A Zala Megyei BÃ­rÃ³sÃ¡g GazdasÃ¡gi HivatalÃ¡nÃ¡l kezelt elkÃ¼lÃ¶nÃ­tett szÃ¡mla szÃ¡ma: 10049006-01483202-24000004.<ujsor/>
+Mindazok [ideÃ©rtve a zÃ¡logjogosultakat, Ã©s a 3. Â§ (1) bekezdÃ©s c) pontja szerinti fÃ¼ggÅ‘ kÃ¶vetelÃ©sek jogosultjait is], akik az adÃ³ssal szemben fennÃ¡llÃ³ ismert kÃ¶vetelÃ©seiket - kivÃ©ve a felszÃ¡molÃ¡si eljÃ¡rÃ¡st kÃ¶zvetlenÃ¼l megelÅ‘zÅ‘ csÅ‘deljÃ¡rÃ¡sban [27. Â§ (2) bekezdÃ©s e) pont] mÃ¡r bejelentett Ã©s nyilvÃ¡ntartÃ¡sba vett kÃ¶vetelÃ©seket - a felszÃ¡molÃ¡s sorÃ¡n hitelezÅ‘kÃ©nt Ã©rvÃ©nyesÃ­teni kÃ­vÃ¡njÃ¡k, ismert kÃ¶vetelÃ©seiket e vÃ©gzÃ©s kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott 40 napon belÃ¼l jelentsÃ©k be a felszÃ¡molÃ³nak.<ujsor/>
+A felszÃ¡molÃ³ - a mÃ³dosÃ­tott 1991. Ã©vi XLIX. tv. 57. Â§ (1) bekezdÃ©s a) Ã©s c) pontjÃ¡ban meghatÃ¡rozott kÃ¶vetelÃ©sek kivÃ©telÃ©vel - csak azt a bejelentÃ©st veszi nyilvÃ¡ntartÃ¡sba, amely utÃ¡n az igÃ©nybejelentÅ‘ a kÃ¶vetelÃ©s 1 %-Ã¡t, de legalÃ¡bb 5.000 Ft-ot, legfeljebb 200.000 Ft-ot az e vÃ©gzÃ©sben megjelÃ¶lt szÃ¡mlÃ¡ra - a bÃ­rÃ³sÃ¡gi Ã¼gyszÃ¡mra (vÃ©gzÃ©s szÃ¡mra) hivatkozÃ¡ssal - 40 napon belÃ¼l befizetett Ã©s ezt a felszÃ¡molÃ³ rÃ©szÃ©re igazolta.<ujsor/>
+Zalaegerszeg, 2011. mÃ¡jus 13.<ujsor/>
+A kÃ¶zzÃ©tÃ©tel idÅ‘pontja: 2011. mÃ¡jus 13.<ujsor/>
 </mezo>
 <mezo id = "cjsz">2009071119</mezo>
-<mezo id = "nev">&quot;CRAZY-CARGO-TERMINÁL&quot; Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">8800 Nagykanizsa, Berzsenyi Dániel utca 12/b. 4. em. 12.</mezo>
+<mezo id = "nev">&quot;CRAZY-CARGO-TERMINÃL&quot; Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">8800 Nagykanizsa, Berzsenyi DÃ¡niel utca 12/b. 4. em. 12.</mezo>
 <mezo id = "adosz">10772768220</mezo>
 </alrovat>
 </rovat>

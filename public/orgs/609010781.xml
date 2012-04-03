@@ -7,7 +7,7 @@
 <mezo id = "nevalrovat">1</mezo>
 <mezo id = "regi_szh">0409002624</mezo>
 <mezo id = "allapot">2</mezo>
-<mezo id = "cim">6723 Szeged, Római krt. 21. </mezo>
+<mezo id = "cim">6723 Szeged, RÃ³mai krt. 21. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">11047739206</mezo>
 </alrovat>
@@ -15,7 +15,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19940606</mezo>
-<mezo id = "nev">Biztonsági Üzem Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">BiztonsÃ¡gi Ãœzem KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
@@ -23,7 +23,7 @@
 <mezo id = "hattol">20070823</mezo>
 <mezo id = "irsz">6723</mezo>
 <mezo id = "hely">Szeged</mezo>
-<mezo id = "teru">Római krt. 21.</mezo>
+<mezo id = "teru">RÃ³mai krt. 21.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">20070530</mezo>
 <mezo id = "valtv">0</mezo>
@@ -33,7 +33,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20080630</mezo>
 <mezo id = "irsz">6725</mezo>
-<mezo id = "hely">Szeged, Medencés kikötõ.</mezo>
+<mezo id = "hely">Szeged, MedencÃ©s kikÃ¶tÅ‘.</mezo>
 <mezo id = "valtk">20080630</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20081014</mezo>
@@ -1344,10 +1344,10 @@
 <rovat id = "13">
 <alrovat id = "11">
 <mezo id = "hattol">20080630</mezo>
-<mezo id = "pnev">Báló Tamás</mezo>
-<mezo id = "panev">Kothencz Irén</mezo>
+<mezo id = "pnev">BÃ¡lÃ³ TamÃ¡s</mezo>
+<mezo id = "panev">Kothencz IrÃ©n</mezo>
 <mezo id = "pirsz">6763</mezo>
-<mezo id = "phely">Szatymaz, II. körzet Tanya 2689.</mezo>
+<mezo id = "phely">Szatymaz, II. kÃ¶rzet Tanya 2689.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">d</mezo>
 <mezo id = "jogvk">20080707</mezo>
@@ -1361,12 +1361,12 @@
 <alrovat id = "1">
 <mezo id = "hattol">19980101</mezo>
 <mezo id = "cgjsz">409002626</mezo>
-<mezo id = "nev">Gyomaendrõdi Építõ, Ipari és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">GyomaendrÅ‘di Ã‰pÃ­tÅ‘, Ipari Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">19980330</mezo>
 <mezo id = "cgjsz">409002723</mezo>
-<mezo id = "nev">Vésztõi Mûszaki Iroda Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">VÃ©sztÅ‘i MÅ±szaki Iroda KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "20">
@@ -1385,11 +1385,11 @@
 <alrovat id = "7">
 <mezo id = "hattol">20081030</mezo>
 <mezo id = "cgjsz">610000252</mezo>
-<mezo id = "nev">SZEVIÉP Szerkezet- és Vízépítõ Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">SZEVIÃ‰P Szerkezet- Ã©s VÃ­zÃ©pÃ­tÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">6723</mezo>
 <mezo id = "hely">Szeged</mezo>
-<mezo id = "teru">Római</mezo>
+<mezo id = "teru">RÃ³mai</mezo>
 <mezo id = "hsz">21.</mezo>
 <mezo id = "tagsk">20081030</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -1409,326 +1409,326 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Biztonsági Üzem Korlátolt Felelõsségû Társaság (Cg.: [06 09 010781]; székhelye: 6723 Szeged, Római krt. 21.) ügyvezetõje felhívja az érintettek figyelmét arra, hogy a SZEVIÉP Investment Befektetési és Vagyonkezelõ Holding Korlátolt Felelõsségû Társaság (Cg.: [06 09 008863]; székhelye: 6723 Szeged, Római krt. 21.; képviseli: Gábor Attila ügyvezetõ) mint a Biztonsági Üzem Korlátolt Felelõsségû Társaság alapítója a 2008. május 29-én hozott határozatával ­ a Biztonsági Üzem Korlátolt Felelõsségû Társaság saját tõkéjének a jegyzett tõke összege alá csökkenése következtében ­ elhatározta a Biztonsági Üzem Korlátolt Felelõsségû Társaság törzstõkéjének 97 660 000 Ft-ról (kilencvenhétmillió-hatszázhatvanezer forintról) 3 000 000 Ft-ra (hárommillió forintra) történõ leszállítását a veszteség rendezése érdekében.<ujsor/>
-A törzstõke-leszállítást követõen az egyes törzsbetétek nagysága: SZEVIÉP Investment Befektetési és Vagyonkezelõ Holdin Korlátolt felelõsségû Társaság 3 000 000 Ft (hárommillió forint).<ujsor/>
-A Biztonsági Üzem Korlátolt Felelõsségû Társaság a hitelezõknek biztosítékot ­ a Gt. 163. § (2) bekezdés a) pontja alapján ­ nem ad, mivel a tõkeleszállítás veszteség rendezése érdekében történik.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">A BiztonsÃ¡gi Ãœzem KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [06 09 010781]; szÃ©khelye: 6723 Szeged, RÃ³mai krt. 21.) Ã¼gyvezetÅ‘je felhÃ­vja az Ã©rintettek figyelmÃ©t arra, hogy a SZEVIÃ‰P Investment BefektetÃ©si Ã©s VagyonkezelÅ‘ Holding KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [06 09 008863]; szÃ©khelye: 6723 Szeged, RÃ³mai krt. 21.; kÃ©pviseli: GÃ¡bor Attila Ã¼gyvezetÅ‘) mint a BiztonsÃ¡gi Ãœzem KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g alapÃ­tÃ³ja a 2008. mÃ¡jus 29-Ã©n hozott hatÃ¡rozatÃ¡val Â­ a BiztonsÃ¡gi Ãœzem KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g sajÃ¡t tÅ‘kÃ©jÃ©nek a jegyzett tÅ‘ke Ã¶sszege alÃ¡ csÃ¶kkenÃ©se kÃ¶vetkeztÃ©ben Â­ elhatÃ¡rozta a BiztonsÃ¡gi Ãœzem KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©jÃ©nek 97 660 000 Ft-rÃ³l (kilencvenhÃ©tmilliÃ³-hatszÃ¡zhatvanezer forintrÃ³l) 3 000 000 Ft-ra (hÃ¡rommilliÃ³ forintra) tÃ¶rtÃ©nÅ‘ leszÃ¡llÃ­tÃ¡sÃ¡t a vesztesÃ©g rendezÃ©se Ã©rdekÃ©ben.<ujsor/>
+A tÃ¶rzstÅ‘ke-leszÃ¡llÃ­tÃ¡st kÃ¶vetÅ‘en az egyes tÃ¶rzsbetÃ©tek nagysÃ¡ga: SZEVIÃ‰P Investment BefektetÃ©si Ã©s VagyonkezelÅ‘ Holdin KorlÃ¡tolt felelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g 3 000 000 Ft (hÃ¡rommilliÃ³ forint).<ujsor/>
+A BiztonsÃ¡gi Ãœzem KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g a hitelezÅ‘knek biztosÃ­tÃ©kot Â­ a Gt. 163. Â§ (2) bekezdÃ©s a) pontja alapjÃ¡n Â­ nem ad, mivel a tÅ‘keleszÃ¡llÃ­tÃ¡s vesztesÃ©g rendezÃ©se Ã©rdekÃ©ben tÃ¶rtÃ©nik.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0609010781</mezo>
-<mezo id = "nev">Biztonsági Üzem Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">BiztonsÃ¡gi Ãœzem KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">6723 Szeged</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Biztonsági Üzem Korlátolt Felelõsségû Társaság (Cg.: [06 09 010781]; székhelye: 6723 Szeged, Római krt. 21.) ügyvezetõje felhívja az érintettek figyelmét arra, hogy a SZEVIÉP Investment Befektetési és Vagyonkezelõ Holding Korlátolt Felelõsségû Társaság (Cg.: [06 09 008863]; székhelye: 6723 Szeged, Római krt. 21.; képviseli: Gábor Attila ügyvezetõ) mint a Biztonsági Üzem Korlátolt Felelõsségû Társaság alapítója a 2008. május 29-én hozott határozatával ­ a Biztonsági Üzem Korlátolt Felelõsségû Társaság saját tõkéjének a jegyzett tõke összege alá csökkenése következtében ­ elhatározta a Biztonsági Üzem Korlátolt Felelõsségû Társaság törzstõkéjének 97 660 000 Ft-ról (kilencvenhétmillió-hatszázhatvanezer forintról) 3 000 000 Ft-ra (hárommillió forintra) történõ leszállítását a veszteség rendezése érdekében.<ujsor/>
-A törzstõke-leszállítást követõen az egyes törzsbetétek nagysága: SZEVIÉP Investment Befektetési és Vagyonkezelõ Holding Korlátolt felelõsségû Társaság 3 000 000 Ft (hárommillió forint).<ujsor/>
-A Biztonsági Üzem Korlátolt Felelõsségû Társaság a hitelezõknek biztosítékot ­ a Gt. 163. § (2) bekezdés a) pontja alapján ­ nem ad, mivel a tõkeleszállítás veszteség rendezése érdekében történik.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">A BiztonsÃ¡gi Ãœzem KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [06 09 010781]; szÃ©khelye: 6723 Szeged, RÃ³mai krt. 21.) Ã¼gyvezetÅ‘je felhÃ­vja az Ã©rintettek figyelmÃ©t arra, hogy a SZEVIÃ‰P Investment BefektetÃ©si Ã©s VagyonkezelÅ‘ Holding KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [06 09 008863]; szÃ©khelye: 6723 Szeged, RÃ³mai krt. 21.; kÃ©pviseli: GÃ¡bor Attila Ã¼gyvezetÅ‘) mint a BiztonsÃ¡gi Ãœzem KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g alapÃ­tÃ³ja a 2008. mÃ¡jus 29-Ã©n hozott hatÃ¡rozatÃ¡val Â­ a BiztonsÃ¡gi Ãœzem KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g sajÃ¡t tÅ‘kÃ©jÃ©nek a jegyzett tÅ‘ke Ã¶sszege alÃ¡ csÃ¶kkenÃ©se kÃ¶vetkeztÃ©ben Â­ elhatÃ¡rozta a BiztonsÃ¡gi Ãœzem KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©jÃ©nek 97 660 000 Ft-rÃ³l (kilencvenhÃ©tmilliÃ³-hatszÃ¡zhatvanezer forintrÃ³l) 3 000 000 Ft-ra (hÃ¡rommilliÃ³ forintra) tÃ¶rtÃ©nÅ‘ leszÃ¡llÃ­tÃ¡sÃ¡t a vesztesÃ©g rendezÃ©se Ã©rdekÃ©ben.<ujsor/>
+A tÃ¶rzstÅ‘ke-leszÃ¡llÃ­tÃ¡st kÃ¶vetÅ‘en az egyes tÃ¶rzsbetÃ©tek nagysÃ¡ga: SZEVIÃ‰P Investment BefektetÃ©si Ã©s VagyonkezelÅ‘ Holding KorlÃ¡tolt felelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g 3 000 000 Ft (hÃ¡rommilliÃ³ forint).<ujsor/>
+A BiztonsÃ¡gi Ãœzem KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g a hitelezÅ‘knek biztosÃ­tÃ©kot Â­ a Gt. 163. Â§ (2) bekezdÃ©s a) pontja alapjÃ¡n Â­ nem ad, mivel a tÅ‘keleszÃ¡llÃ­tÃ¡s vesztesÃ©g rendezÃ©se Ã©rdekÃ©ben tÃ¶rtÃ©nik.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0609010781</mezo>
-<mezo id = "nev">Biztonsági Üzem Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">BiztonsÃ¡gi Ãœzem KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">6723 Szeged</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Csongrád Megyei Bíróság<ujsor/>
-14.Fpk.06-10-000475/8. sz. végzése<ujsor/>
-felszámolás megindításának közzétételérõl<ujsor/>
-A bíróság elrendeli annak a Cégközlönyben való közzétételét, hogy a(z)<ujsor/>
-2010. június 10. napján jogerõre emelkedett végzésével a(z)<ujsor/>
-Biztonsági Üzem Korlátolt Felelõsségû Társaság (6723 Szeged, Római<ujsor/>
-krt 21.; cégjegyzékszáma: 06 09 010781; adószáma: 11047739-2-06) adós<ujsor/>
-felszámolását fõeljárásként elrendelte.<ujsor/>
-Elõzõ székhelyei(i):<ujsor/>
-5700 Gyula, Sarkadi u. 101 5700 Gyula, Városház u 26. 6727 Szeged, Irinyi<ujsor/>
+<mezo id = "szoveg">A CsongrÃ¡d Megyei BÃ­rÃ³sÃ¡g<ujsor/>
+14.Fpk.06-10-000475/8. sz. vÃ©gzÃ©se<ujsor/>
+felszÃ¡molÃ¡s megindÃ­tÃ¡sÃ¡nak kÃ¶zzÃ©tÃ©telÃ©rÅ‘l<ujsor/>
+A bÃ­rÃ³sÃ¡g elrendeli annak a CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©t, hogy a(z)<ujsor/>
+2010. jÃºnius 10. napjÃ¡n jogerÅ‘re emelkedett vÃ©gzÃ©sÃ©vel a(z)<ujsor/>
+BiztonsÃ¡gi Ãœzem KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (6723 Szeged, RÃ³mai<ujsor/>
+krt 21.; cÃ©gjegyzÃ©kszÃ¡ma: 06 09 010781; adÃ³szÃ¡ma: 11047739-2-06) adÃ³s<ujsor/>
+felszÃ¡molÃ¡sÃ¡t fÅ‘eljÃ¡rÃ¡skÃ©nt elrendelte.<ujsor/>
+ElÅ‘zÅ‘ szÃ©khelyei(i):<ujsor/>
+5700 Gyula, Sarkadi u. 101 5700 Gyula, VÃ¡roshÃ¡z u 26. 6727 Szeged, Irinyi<ujsor/>
 u 1.<ujsor/>
-Jogelõd(ök): Vésztõi Mûszaki Iroda Korlátolt Felelõsségû Társaság<ujsor/>
-A bíróság által kijelölt felszámoló:<ujsor/>
-Budapest Holding Elsõ Hazai Vagyonkezelõ Zrt., 1115 Budapest, Bartók Béla<ujsor/>
-út 92-94. cégjegyzékszáma: 01 10 041192. (A helyi kirendeltség címe:<ujsor/>
-6722 Szeged,Jósika u.41.)<ujsor/>
-A felszámolóbiztos(ok):<ujsor/>
-Dr. Pusztai Gábor 1364 Budapest, Pf.: 74.<ujsor/>
-A felszámolási eljárás megindítására irányuló kérelem benyújtásának<ujsor/>
-idõpontja: 2010. május 21.<ujsor/>
-A felszámolás kezdõ idõpontja e végzés Cégközlönyben való közzétételének<ujsor/>
+JogelÅ‘d(Ã¶k): VÃ©sztÅ‘i MÅ±szaki Iroda KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g<ujsor/>
+A bÃ­rÃ³sÃ¡g Ã¡ltal kijelÃ¶lt felszÃ¡molÃ³:<ujsor/>
+Budapest Holding ElsÅ‘ Hazai VagyonkezelÅ‘ Zrt., 1115 Budapest, BartÃ³k BÃ©la<ujsor/>
+Ãºt 92-94. cÃ©gjegyzÃ©kszÃ¡ma: 01 10 041192. (A helyi kirendeltsÃ©g cÃ­me:<ujsor/>
+6722 Szeged,JÃ³sika u.41.)<ujsor/>
+A felszÃ¡molÃ³biztos(ok):<ujsor/>
+Dr. Pusztai GÃ¡bor 1364 Budapest, Pf.: 74.<ujsor/>
+A felszÃ¡molÃ¡si eljÃ¡rÃ¡s megindÃ­tÃ¡sÃ¡ra irÃ¡nyulÃ³ kÃ©relem benyÃºjtÃ¡sÃ¡nak<ujsor/>
+idÅ‘pontja: 2010. mÃ¡jus 21.<ujsor/>
+A felszÃ¡molÃ¡s kezdÅ‘ idÅ‘pontja e vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©nek<ujsor/>
 napja.<ujsor/>
-A Csongrád Megyei Bíróság Gazdasági Hivatalánál kezelt elkülönített számla<ujsor/>
-száma: 10028007-01483147-24000004.<ujsor/>
-Mindazok [ideértve a zálogjogosultakat, és a 3. § (1) bekezdés c) pontja<ujsor/>
-szerinti függõ követelések jogosultjait is], akik az adóssal szemben<ujsor/>
-fennálló ismert követeléseiket - kivéve a felszámolási eljárást<ujsor/>
-közvetlenül megelõzõ csõdeljárásban [27. § (2) bekezdés e) pont] már<ujsor/>
-bejelentett és nyilvántartásba vett követeléseket - a felszámolás során<ujsor/>
-hitelezõként érvényesíteni kívánják, ismert követeléseiket e végzés<ujsor/>
-közzétételétõl számított 40 napon belül jelentsék be a felszámolónak.<ujsor/>
-A felszámoló - a módosított 1991. évi XLIX. tv. 57. § (1) bekezdés a) és<ujsor/>
-c) pontjában meghatározott követelések kivételével - csak azt a<ujsor/>
-bejelentést veszi nyilvántartásba, amely után az igénybejelentõ a<ujsor/>
-követelés 1 %-át, de legalább 5.000 Ft-ot, legfeljebb 200.000 Ft-ot az e<ujsor/>
-végzésben megjelölt számlára - a bírósági ügyszámra (végzés számra)<ujsor/>
-hivatkozással -  40 napon belül befizetett és ezt a felszámoló<ujsor/>
-részére igazolta.<ujsor/>
-Szeged, 2010. június 24.<ujsor/>
-A közzététel idõpontja: 2010. június 24.<ujsor/>
+A CsongrÃ¡d Megyei BÃ­rÃ³sÃ¡g GazdasÃ¡gi HivatalÃ¡nÃ¡l kezelt elkÃ¼lÃ¶nÃ­tett szÃ¡mla<ujsor/>
+szÃ¡ma: 10028007-01483147-24000004.<ujsor/>
+Mindazok [ideÃ©rtve a zÃ¡logjogosultakat, Ã©s a 3. Â§ (1) bekezdÃ©s c) pontja<ujsor/>
+szerinti fÃ¼ggÅ‘ kÃ¶vetelÃ©sek jogosultjait is], akik az adÃ³ssal szemben<ujsor/>
+fennÃ¡llÃ³ ismert kÃ¶vetelÃ©seiket - kivÃ©ve a felszÃ¡molÃ¡si eljÃ¡rÃ¡st<ujsor/>
+kÃ¶zvetlenÃ¼l megelÅ‘zÅ‘ csÅ‘deljÃ¡rÃ¡sban [27. Â§ (2) bekezdÃ©s e) pont] mÃ¡r<ujsor/>
+bejelentett Ã©s nyilvÃ¡ntartÃ¡sba vett kÃ¶vetelÃ©seket - a felszÃ¡molÃ¡s sorÃ¡n<ujsor/>
+hitelezÅ‘kÃ©nt Ã©rvÃ©nyesÃ­teni kÃ­vÃ¡njÃ¡k, ismert kÃ¶vetelÃ©seiket e vÃ©gzÃ©s<ujsor/>
+kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott 40 napon belÃ¼l jelentsÃ©k be a felszÃ¡molÃ³nak.<ujsor/>
+A felszÃ¡molÃ³ - a mÃ³dosÃ­tott 1991. Ã©vi XLIX. tv. 57. Â§ (1) bekezdÃ©s a) Ã©s<ujsor/>
+c) pontjÃ¡ban meghatÃ¡rozott kÃ¶vetelÃ©sek kivÃ©telÃ©vel - csak azt a<ujsor/>
+bejelentÃ©st veszi nyilvÃ¡ntartÃ¡sba, amely utÃ¡n az igÃ©nybejelentÅ‘ a<ujsor/>
+kÃ¶vetelÃ©s 1 %-Ã¡t, de legalÃ¡bb 5.000 Ft-ot, legfeljebb 200.000 Ft-ot az e<ujsor/>
+vÃ©gzÃ©sben megjelÃ¶lt szÃ¡mlÃ¡ra - a bÃ­rÃ³sÃ¡gi Ã¼gyszÃ¡mra (vÃ©gzÃ©s szÃ¡mra)<ujsor/>
+hivatkozÃ¡ssal -  40 napon belÃ¼l befizetett Ã©s ezt a felszÃ¡molÃ³<ujsor/>
+rÃ©szÃ©re igazolta.<ujsor/>
+Szeged, 2010. jÃºnius 24.<ujsor/>
+A kÃ¶zzÃ©tÃ©tel idÅ‘pontja: 2010. jÃºnius 24.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0609010781</mezo>
-<mezo id = "nev">Biztonsági Üzem Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">BiztonsÃ¡gi Ãœzem KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "adosz">11047739206</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Budapest Holding Elsõ Hazai Vagyonkezelõ Zrt. (Cg.: [01 10 041192]; székhelye: 6722 Szeged, Jósika u. 41.; Csongrád Megyei Képviselete) mint a Biztonsági Üzem Kft. „f. a.” (Cg.: [06 09 010781]; székhelye: 6723 Szeged, Római krt. 21.) Csongrád Megyei Bíróság 14. Fpk. 06-10-000475/8. számú végzésében kijelölt felszámolója<ujsor/>
-nyilvános pályázaton<ujsor/>
-értékesítésre hirdeti meg az adós gazdálkodó szervezet tulajdonát képezõ vagyontárgyakat:<ujsor/>
-­ SCHWARZMÜLLER SPA 3/E típusú, 1998-as évjáratú pótkocsi.<ujsor/>
-Vételár: 900 000 Ft (+ áfa), bruttó 1 125 000 Ft (egymillió-egyszázhuszonötezer forint).<ujsor/>
-Bánatpénz: 90 000 Ft (kilencvenezer forint).<ujsor/>
-­ CARNEHL CHKS/AL típusú, 1999-es évjárató billencs pótkocsi.<ujsor/>
-Vételár: 5 000 000 Ft (+ áfa), bruttó 6 250 000 Ft (hatmillió-kettõszázötvenezer forint).<ujsor/>
-Bánatpénz: 500 000 Ft.<ujsor/>
-­ VOLVO FH 12 420 típusú, 1997-es évjáratú nyerges vontató.<ujsor/>
-Vételár: 3 650 000 Ft (+ áfa), bruttó 4 562 500 Ft (négymillió-ötszázhatvankettõezer-ötszáz forint).<ujsor/>
-Bánatpénz: 365 000 Ft (háromszázhatvanötezer forint).<ujsor/>
-­ IFA W 50 L/F típusú, 1977-es évjáratú locsolókocsi (üzemképtelen állapotban).<ujsor/>
-Vételár: 250 000 Ft (+ áfa), bruttó 312 500 Ft (háromszáztizenkettõezer-ötszáz forint).<ujsor/>
-Bánatpénz: 25 000 Ft (huszonötezer forint).<ujsor/>
-­ LIAZ 110.850 típusú, 1987-es évjáratú locsolókocsi (üzemképtelen állapotban).<ujsor/>
-Vételár: 1 100 000 Ft (+ áfa), bruttó 1 375 000 Ft (egymillió-háromszázhetvenötezer forint).<ujsor/>
-Bánatpénz: 110 000 Ft (egyszáztízezer forint).<ujsor/>
-­ LIAZ 12.10 BOBR típusú, 1988-as évjáratú locsolókocsi (kisebb hibákkal).<ujsor/>
-Vételár: 1 100 000 Ft (+ áfa), bruttó 1 375 000 Ft (egymillió-háromszázhetvenötezer forint).<ujsor/>
-Bánatpénz: 110 000 Ft (egyszáztízezer forint).<ujsor/>
-­ LIAZ 110.073 típusú, 1989-es évjáratú locsolókocsi.<ujsor/>
-Vételár: 1 500 000 Ft (+ áfa), bruttó 1 875 000 Ft (egymillió-nyolcszázhetvenötezer forint).<ujsor/>
-Bánatpénz: 150 000 Ft (egyszázötvenezer forint).<ujsor/>
-A felszámoló tájékoztatja az ajánlattevõt arról is, hogy<ujsor/>
-­ a meghirdetett vagyontárgyak az általános forgalmi adó hatálya alá tartozó adóalanyok esetében az Általános forgalmi adóról szóló 2007. évi CXXVII. törvény 142. §-a alapján kerülnek értékesítésre,<ujsor/>
-­ a vagyontárgyak megtekintett állapotban ­ környezeti tehermentesítés nélkül ­ kerülnek értékesítésre, a felszámoló a kellékszavatosságot kizárja,<ujsor/>
-­ a vagyontárgyakra önállóan, illetõleg együttesen is tehetõ ajánlat,<ujsor/>
-­ a felszámoló a vagyontárgyakat érintõen beszámításra vonatkozó ajánlatot nem fogad el.<ujsor/>
-A pályázati ajánlat benyújtásának határideje, tartalmi és formai követelményei:<ujsor/>
-­ Az ajánlatokat legkésõbb a jelen hirdetmény Cégközlönyben történõ megjelenését követõ 30. nap 12. órájáig lehet tértivevényes küldeményként postára adni, kettõs, zárt borítékban, két egyezõ példányban, vagy személyesen átadni a felszámoló (Szeged, Jósika u. 41.) irodájában lehetséges. A belsõ boríték a feladóra vonatkozó semminemû utalást nem tartalmazhat, azon kizárólag a „Biztonsági Üzem Kft. f. a.” megjelölés szerepelhet.<ujsor/>
-­ Ezt megelõzõen a bánatpénzt az ajánlattevõ köteles letétbe helyezni a felszámoló K &amp; H Bank Zrt.-nél vezetett 10402623-26211712-00000000 számú bankszámlájára. A bánatpénznek legkésõbb az ajánlat benyújtására nyitva álló határidõ utolsó napját megelõzõen jóváírásra kell kerülnie a fenti számlán. Az utaláson fel kell tüntetni a „Biztonsági Üzem Kft. f. a. bánatpénz” megjelölést. A bánatpénz eredményes pályázat esetén a vételárba beszámít. A bánatpénz ajánlattevõ érdekkörét érintõen bekövetkezett elállás esetén nem követelhetõ vissza. Sikertelen pályázat esetén a bánatpénz 8 banki napon belül kamatmentesen kerül visszafizetésre.<ujsor/>
-­ Az ajánlatnak tartalmaznia kell az ajánlattevõ teljes személyi adatait (gazdálkodó szervezet esetén: cégnevet, székhelyet, adószámot, bankszámlaszámot és a képviseletre jogosult adatait), a vagyontárgy megjelölését, megajánlott nettó, illetõleg bruttó vételárat, a vállalt fizetési feltételeket és annak határidejét, továbbá nyilatkozatot arra vonatkozóan, hogy az ajánlattevõ ajánlata benyújtásával 60 napig ajánlati kötöttséget vállal.<ujsor/>
-­ Az ajánlathoz minden esetben csatolni kell a bánatpénz letétbe helyezését igazoló pénzintézeti igazolást, magánszemély esetén a személyi azonosságát igazoló hatósági igazolvány két tanú által hitelesített másolatát, gazdasági társaság esetén 30 napnál nem régebbi hiteles cégkivonatot, illetõleg aláírási címpéldányt, egyéni vállalkozó esetén a vállalkozói igazolvány hitelesített másolatát.<ujsor/>
-A pályázati ajánlatok elbírálása:<ujsor/>
-­ Az ajánlatok felbontása nem nyilvános úton, hanem a felszámolóbiztos és a közjegyzõ jelenlétében történik a pályázati határidõ lejártát követõ 15 napon belül. A beérkezett ajánlatokat a felszámoló a bontást követõ 15 napon belül értékeli, és vevõkijelölés útján dönt az ajánlat elfogadásáról. Ezt követõ 15 napon belül köti meg a szerzõdést a vevõvel. A vagyontárgyak birtokba-, illetõleg tulajdonba adására a vételárnak a szerzõdés szerinti teljes kiegyenlítése esetén kerül sor.<ujsor/>
-­ A felszámoló elõnyösebbnek minõsítheti azt az ajánlatot, amelyben magasabb vételárat jelölt meg az ajánlattevõ, illetõleg kedvezõbb elbírálást nyerhet az az ajánlat is, amely valamennyi vagyontárgy együttes megvásárlására vonatkozik.<ujsor/>
-­ Az ajánlatot tevõket a pályázat eredményérõl a bontástól számított 15 napon belül a felszámoló értesíti.<ujsor/>
-­ A jelen pályázati felhívás a felszámoló részére nem jelent értékesítési kötelezettséget. A felszámoló megfelelõ ajánlat hiányában dönthet úgy, hogy a pályázatot eredménytelennek nyilvánítja.<ujsor/>
-­ A pályázati határidõt követõen érkezett ajánlat, valamint a tartalmi, illetõleg a formai követelményeknek meg nem felelõ pályázat érvénytelen, azokat a felszámoló elutasítja.<ujsor/>
-­ Amennyiben az egyes vagyontárgyak vonatkozásában több megfelelõ, azonos értékû (a vételár vonatkozásában legfeljebb 10%-kal eltérõ) ajánlat érkezik, a felszámoló a pályázat nyertesének eldöntése érdekében nyilvános ártárgyalást tûz ki, melynek feltételeirõl, idõpontjáról és helyérõl az érdekelteket értesíti.<ujsor/>
-­ A felszámoló felhívja az elõvásárlásra jogosultak figyelmét, hogy e jogukat ­ igazoltan ­ a nyilvános pályázat keretein belül gyakorolhatják, és ezen szándékukat a pályázati határidõn belül írásban jelentsék be a felszámolónak. Amennyiben az elõvásárlásra jogosult a rendelkezésére álló határidõn belül nem nyilatkozik, illetõleg a vételi ajánlatot teljes körûen nem fogadja el, valamint az adásvételi szerzõdést nem köti meg, a felszámoló úgy tekinti, hogy elõvásárlási jogával nem kíván élni.<ujsor/>
-A vagyontárgyak elõre egyeztetett idõpontban megtekinthetõek. Az elõzetes idõpont egyeztethetõ, valamint a pályázattal kapcsolatosan további információ kérhetõ munkanapokon 8 és 16 óra között a felszámoló Csongrád Megyei Képviseletén dr. Pusztai Gábor felszámolóbiztostól a 06 (30) 983-1223-as mobilszámon, illetõleg a 06 (62) 543-260-as telefonszámon, és bõvebb adatok, fényképek megtekinthetõk a www.felszamolas-eszkozok.hu oldalon.<ujsor/>
+<mezo id = "szoveg">A Budapest Holding ElsÅ‘ Hazai VagyonkezelÅ‘ Zrt. (Cg.: [01 10 041192]; szÃ©khelye: 6722 Szeged, JÃ³sika u. 41.; CsongrÃ¡d Megyei KÃ©pviselete) mint a BiztonsÃ¡gi Ãœzem Kft. â€f. a.â€ (Cg.: [06 09 010781]; szÃ©khelye: 6723 Szeged, RÃ³mai krt. 21.) CsongrÃ¡d Megyei BÃ­rÃ³sÃ¡g 14. Fpk. 06-10-000475/8. szÃ¡mÃº vÃ©gzÃ©sÃ©ben kijelÃ¶lt felszÃ¡molÃ³ja<ujsor/>
+nyilvÃ¡nos pÃ¡lyÃ¡zaton<ujsor/>
+Ã©rtÃ©kesÃ­tÃ©sre hirdeti meg az adÃ³s gazdÃ¡lkodÃ³ szervezet tulajdonÃ¡t kÃ©pezÅ‘ vagyontÃ¡rgyakat:<ujsor/>
+Â­ SCHWARZMÃœLLER SPA 3/E tÃ­pusÃº, 1998-as Ã©vjÃ¡ratÃº pÃ³tkocsi.<ujsor/>
+VÃ©telÃ¡r: 900 000 Ft (+ Ã¡fa), bruttÃ³ 1 125 000 Ft (egymilliÃ³-egyszÃ¡zhuszonÃ¶tezer forint).<ujsor/>
+BÃ¡natpÃ©nz: 90 000 Ft (kilencvenezer forint).<ujsor/>
+Â­ CARNEHL CHKS/AL tÃ­pusÃº, 1999-es Ã©vjÃ¡ratÃ³ billencs pÃ³tkocsi.<ujsor/>
+VÃ©telÃ¡r: 5 000 000 Ft (+ Ã¡fa), bruttÃ³ 6 250 000 Ft (hatmilliÃ³-kettÅ‘szÃ¡zÃ¶tvenezer forint).<ujsor/>
+BÃ¡natpÃ©nz: 500 000 Ft.<ujsor/>
+Â­ VOLVO FH 12 420 tÃ­pusÃº, 1997-es Ã©vjÃ¡ratÃº nyerges vontatÃ³.<ujsor/>
+VÃ©telÃ¡r: 3 650 000 Ft (+ Ã¡fa), bruttÃ³ 4 562 500 Ft (nÃ©gymilliÃ³-Ã¶tszÃ¡zhatvankettÅ‘ezer-Ã¶tszÃ¡z forint).<ujsor/>
+BÃ¡natpÃ©nz: 365 000 Ft (hÃ¡romszÃ¡zhatvanÃ¶tezer forint).<ujsor/>
+Â­ IFA W 50 L/F tÃ­pusÃº, 1977-es Ã©vjÃ¡ratÃº locsolÃ³kocsi (Ã¼zemkÃ©ptelen Ã¡llapotban).<ujsor/>
+VÃ©telÃ¡r: 250 000 Ft (+ Ã¡fa), bruttÃ³ 312 500 Ft (hÃ¡romszÃ¡ztizenkettÅ‘ezer-Ã¶tszÃ¡z forint).<ujsor/>
+BÃ¡natpÃ©nz: 25 000 Ft (huszonÃ¶tezer forint).<ujsor/>
+Â­ LIAZ 110.850 tÃ­pusÃº, 1987-es Ã©vjÃ¡ratÃº locsolÃ³kocsi (Ã¼zemkÃ©ptelen Ã¡llapotban).<ujsor/>
+VÃ©telÃ¡r: 1 100 000 Ft (+ Ã¡fa), bruttÃ³ 1 375 000 Ft (egymilliÃ³-hÃ¡romszÃ¡zhetvenÃ¶tezer forint).<ujsor/>
+BÃ¡natpÃ©nz: 110 000 Ft (egyszÃ¡ztÃ­zezer forint).<ujsor/>
+Â­ LIAZ 12.10 BOBR tÃ­pusÃº, 1988-as Ã©vjÃ¡ratÃº locsolÃ³kocsi (kisebb hibÃ¡kkal).<ujsor/>
+VÃ©telÃ¡r: 1 100 000 Ft (+ Ã¡fa), bruttÃ³ 1 375 000 Ft (egymilliÃ³-hÃ¡romszÃ¡zhetvenÃ¶tezer forint).<ujsor/>
+BÃ¡natpÃ©nz: 110 000 Ft (egyszÃ¡ztÃ­zezer forint).<ujsor/>
+Â­ LIAZ 110.073 tÃ­pusÃº, 1989-es Ã©vjÃ¡ratÃº locsolÃ³kocsi.<ujsor/>
+VÃ©telÃ¡r: 1 500 000 Ft (+ Ã¡fa), bruttÃ³ 1 875 000 Ft (egymilliÃ³-nyolcszÃ¡zhetvenÃ¶tezer forint).<ujsor/>
+BÃ¡natpÃ©nz: 150 000 Ft (egyszÃ¡zÃ¶tvenezer forint).<ujsor/>
+A felszÃ¡molÃ³ tÃ¡jÃ©koztatja az ajÃ¡nlattevÅ‘t arrÃ³l is, hogy<ujsor/>
+Â­ a meghirdetett vagyontÃ¡rgyak az Ã¡ltalÃ¡nos forgalmi adÃ³ hatÃ¡lya alÃ¡ tartozÃ³ adÃ³alanyok esetÃ©ben az ÃltalÃ¡nos forgalmi adÃ³rÃ³l szÃ³lÃ³ 2007. Ã©vi CXXVII. tÃ¶rvÃ©ny 142. Â§-a alapjÃ¡n kerÃ¼lnek Ã©rtÃ©kesÃ­tÃ©sre,<ujsor/>
+Â­ a vagyontÃ¡rgyak megtekintett Ã¡llapotban Â­ kÃ¶rnyezeti tehermentesÃ­tÃ©s nÃ©lkÃ¼l Â­ kerÃ¼lnek Ã©rtÃ©kesÃ­tÃ©sre, a felszÃ¡molÃ³ a kellÃ©kszavatossÃ¡got kizÃ¡rja,<ujsor/>
+Â­ a vagyontÃ¡rgyakra Ã¶nÃ¡llÃ³an, illetÅ‘leg egyÃ¼ttesen is tehetÅ‘ ajÃ¡nlat,<ujsor/>
+Â­ a felszÃ¡molÃ³ a vagyontÃ¡rgyakat Ã©rintÅ‘en beszÃ¡mÃ­tÃ¡sra vonatkozÃ³ ajÃ¡nlatot nem fogad el.<ujsor/>
+A pÃ¡lyÃ¡zati ajÃ¡nlat benyÃºjtÃ¡sÃ¡nak hatÃ¡rideje, tartalmi Ã©s formai kÃ¶vetelmÃ©nyei:<ujsor/>
+Â­ Az ajÃ¡nlatokat legkÃ©sÅ‘bb a jelen hirdetmÃ©ny CÃ©gkÃ¶zlÃ¶nyben tÃ¶rtÃ©nÅ‘ megjelenÃ©sÃ©t kÃ¶vetÅ‘ 30. nap 12. Ã³rÃ¡jÃ¡ig lehet tÃ©rtivevÃ©nyes kÃ¼ldemÃ©nykÃ©nt postÃ¡ra adni, kettÅ‘s, zÃ¡rt borÃ­tÃ©kban, kÃ©t egyezÅ‘ pÃ©ldÃ¡nyban, vagy szemÃ©lyesen Ã¡tadni a felszÃ¡molÃ³ (Szeged, JÃ³sika u. 41.) irodÃ¡jÃ¡ban lehetsÃ©ges. A belsÅ‘ borÃ­tÃ©k a feladÃ³ra vonatkozÃ³ semminemÅ± utalÃ¡st nem tartalmazhat, azon kizÃ¡rÃ³lag a â€BiztonsÃ¡gi Ãœzem Kft. f. a.â€ megjelÃ¶lÃ©s szerepelhet.<ujsor/>
+Â­ Ezt megelÅ‘zÅ‘en a bÃ¡natpÃ©nzt az ajÃ¡nlattevÅ‘ kÃ¶teles letÃ©tbe helyezni a felszÃ¡molÃ³ K &amp; H Bank Zrt.-nÃ©l vezetett 10402623-26211712-00000000 szÃ¡mÃº bankszÃ¡mlÃ¡jÃ¡ra. A bÃ¡natpÃ©nznek legkÃ©sÅ‘bb az ajÃ¡nlat benyÃºjtÃ¡sÃ¡ra nyitva Ã¡llÃ³ hatÃ¡ridÅ‘ utolsÃ³ napjÃ¡t megelÅ‘zÅ‘en jÃ³vÃ¡Ã­rÃ¡sra kell kerÃ¼lnie a fenti szÃ¡mlÃ¡n. Az utalÃ¡son fel kell tÃ¼ntetni a â€BiztonsÃ¡gi Ãœzem Kft. f. a. bÃ¡natpÃ©nzâ€ megjelÃ¶lÃ©st. A bÃ¡natpÃ©nz eredmÃ©nyes pÃ¡lyÃ¡zat esetÃ©n a vÃ©telÃ¡rba beszÃ¡mÃ­t. A bÃ¡natpÃ©nz ajÃ¡nlattevÅ‘ Ã©rdekkÃ¶rÃ©t Ã©rintÅ‘en bekÃ¶vetkezett elÃ¡llÃ¡s esetÃ©n nem kÃ¶vetelhetÅ‘ vissza. Sikertelen pÃ¡lyÃ¡zat esetÃ©n a bÃ¡natpÃ©nz 8 banki napon belÃ¼l kamatmentesen kerÃ¼l visszafizetÃ©sre.<ujsor/>
+Â­ Az ajÃ¡nlatnak tartalmaznia kell az ajÃ¡nlattevÅ‘ teljes szemÃ©lyi adatait (gazdÃ¡lkodÃ³ szervezet esetÃ©n: cÃ©gnevet, szÃ©khelyet, adÃ³szÃ¡mot, bankszÃ¡mlaszÃ¡mot Ã©s a kÃ©pviseletre jogosult adatait), a vagyontÃ¡rgy megjelÃ¶lÃ©sÃ©t, megajÃ¡nlott nettÃ³, illetÅ‘leg bruttÃ³ vÃ©telÃ¡rat, a vÃ¡llalt fizetÃ©si feltÃ©teleket Ã©s annak hatÃ¡ridejÃ©t, tovÃ¡bbÃ¡ nyilatkozatot arra vonatkozÃ³an, hogy az ajÃ¡nlattevÅ‘ ajÃ¡nlata benyÃºjtÃ¡sÃ¡val 60 napig ajÃ¡nlati kÃ¶tÃ¶ttsÃ©get vÃ¡llal.<ujsor/>
+Â­ Az ajÃ¡nlathoz minden esetben csatolni kell a bÃ¡natpÃ©nz letÃ©tbe helyezÃ©sÃ©t igazolÃ³ pÃ©nzintÃ©zeti igazolÃ¡st, magÃ¡nszemÃ©ly esetÃ©n a szemÃ©lyi azonossÃ¡gÃ¡t igazolÃ³ hatÃ³sÃ¡gi igazolvÃ¡ny kÃ©t tanÃº Ã¡ltal hitelesÃ­tett mÃ¡solatÃ¡t, gazdasÃ¡gi tÃ¡rsasÃ¡g esetÃ©n 30 napnÃ¡l nem rÃ©gebbi hiteles cÃ©gkivonatot, illetÅ‘leg alÃ¡Ã­rÃ¡si cÃ­mpÃ©ldÃ¡nyt, egyÃ©ni vÃ¡llalkozÃ³ esetÃ©n a vÃ¡llalkozÃ³i igazolvÃ¡ny hitelesÃ­tett mÃ¡solatÃ¡t.<ujsor/>
+A pÃ¡lyÃ¡zati ajÃ¡nlatok elbÃ­rÃ¡lÃ¡sa:<ujsor/>
+Â­ Az ajÃ¡nlatok felbontÃ¡sa nem nyilvÃ¡nos Ãºton, hanem a felszÃ¡molÃ³biztos Ã©s a kÃ¶zjegyzÅ‘ jelenlÃ©tÃ©ben tÃ¶rtÃ©nik a pÃ¡lyÃ¡zati hatÃ¡ridÅ‘ lejÃ¡rtÃ¡t kÃ¶vetÅ‘ 15 napon belÃ¼l. A beÃ©rkezett ajÃ¡nlatokat a felszÃ¡molÃ³ a bontÃ¡st kÃ¶vetÅ‘ 15 napon belÃ¼l Ã©rtÃ©keli, Ã©s vevÅ‘kijelÃ¶lÃ©s ÃºtjÃ¡n dÃ¶nt az ajÃ¡nlat elfogadÃ¡sÃ¡rÃ³l. Ezt kÃ¶vetÅ‘ 15 napon belÃ¼l kÃ¶ti meg a szerzÅ‘dÃ©st a vevÅ‘vel. A vagyontÃ¡rgyak birtokba-, illetÅ‘leg tulajdonba adÃ¡sÃ¡ra a vÃ©telÃ¡rnak a szerzÅ‘dÃ©s szerinti teljes kiegyenlÃ­tÃ©se esetÃ©n kerÃ¼l sor.<ujsor/>
+Â­ A felszÃ¡molÃ³ elÅ‘nyÃ¶sebbnek minÅ‘sÃ­theti azt az ajÃ¡nlatot, amelyben magasabb vÃ©telÃ¡rat jelÃ¶lt meg az ajÃ¡nlattevÅ‘, illetÅ‘leg kedvezÅ‘bb elbÃ­rÃ¡lÃ¡st nyerhet az az ajÃ¡nlat is, amely valamennyi vagyontÃ¡rgy egyÃ¼ttes megvÃ¡sÃ¡rlÃ¡sÃ¡ra vonatkozik.<ujsor/>
+Â­ Az ajÃ¡nlatot tevÅ‘ket a pÃ¡lyÃ¡zat eredmÃ©nyÃ©rÅ‘l a bontÃ¡stÃ³l szÃ¡mÃ­tott 15 napon belÃ¼l a felszÃ¡molÃ³ Ã©rtesÃ­ti.<ujsor/>
+Â­ A jelen pÃ¡lyÃ¡zati felhÃ­vÃ¡s a felszÃ¡molÃ³ rÃ©szÃ©re nem jelent Ã©rtÃ©kesÃ­tÃ©si kÃ¶telezettsÃ©get. A felszÃ¡molÃ³ megfelelÅ‘ ajÃ¡nlat hiÃ¡nyÃ¡ban dÃ¶nthet Ãºgy, hogy a pÃ¡lyÃ¡zatot eredmÃ©nytelennek nyilvÃ¡nÃ­tja.<ujsor/>
+Â­ A pÃ¡lyÃ¡zati hatÃ¡ridÅ‘t kÃ¶vetÅ‘en Ã©rkezett ajÃ¡nlat, valamint a tartalmi, illetÅ‘leg a formai kÃ¶vetelmÃ©nyeknek meg nem felelÅ‘ pÃ¡lyÃ¡zat Ã©rvÃ©nytelen, azokat a felszÃ¡molÃ³ elutasÃ­tja.<ujsor/>
+Â­ Amennyiben az egyes vagyontÃ¡rgyak vonatkozÃ¡sÃ¡ban tÃ¶bb megfelelÅ‘, azonos Ã©rtÃ©kÅ± (a vÃ©telÃ¡r vonatkozÃ¡sÃ¡ban legfeljebb 10%-kal eltÃ©rÅ‘) ajÃ¡nlat Ã©rkezik, a felszÃ¡molÃ³ a pÃ¡lyÃ¡zat nyertesÃ©nek eldÃ¶ntÃ©se Ã©rdekÃ©ben nyilvÃ¡nos Ã¡rtÃ¡rgyalÃ¡st tÅ±z ki, melynek feltÃ©teleirÅ‘l, idÅ‘pontjÃ¡rÃ³l Ã©s helyÃ©rÅ‘l az Ã©rdekelteket Ã©rtesÃ­ti.<ujsor/>
+Â­ A felszÃ¡molÃ³ felhÃ­vja az elÅ‘vÃ¡sÃ¡rlÃ¡sra jogosultak figyelmÃ©t, hogy e jogukat Â­ igazoltan Â­ a nyilvÃ¡nos pÃ¡lyÃ¡zat keretein belÃ¼l gyakorolhatjÃ¡k, Ã©s ezen szÃ¡ndÃ©kukat a pÃ¡lyÃ¡zati hatÃ¡ridÅ‘n belÃ¼l Ã­rÃ¡sban jelentsÃ©k be a felszÃ¡molÃ³nak. Amennyiben az elÅ‘vÃ¡sÃ¡rlÃ¡sra jogosult a rendelkezÃ©sÃ©re Ã¡llÃ³ hatÃ¡ridÅ‘n belÃ¼l nem nyilatkozik, illetÅ‘leg a vÃ©teli ajÃ¡nlatot teljes kÃ¶rÅ±en nem fogadja el, valamint az adÃ¡svÃ©teli szerzÅ‘dÃ©st nem kÃ¶ti meg, a felszÃ¡molÃ³ Ãºgy tekinti, hogy elÅ‘vÃ¡sÃ¡rlÃ¡si jogÃ¡val nem kÃ­vÃ¡n Ã©lni.<ujsor/>
+A vagyontÃ¡rgyak elÅ‘re egyeztetett idÅ‘pontban megtekinthetÅ‘ek. Az elÅ‘zetes idÅ‘pont egyeztethetÅ‘, valamint a pÃ¡lyÃ¡zattal kapcsolatosan tovÃ¡bbi informÃ¡ciÃ³ kÃ©rhetÅ‘ munkanapokon 8 Ã©s 16 Ã³ra kÃ¶zÃ¶tt a felszÃ¡molÃ³ CsongrÃ¡d Megyei KÃ©pviseletÃ©n dr. Pusztai GÃ¡bor felszÃ¡molÃ³biztostÃ³l a 06 (30) 983-1223-as mobilszÃ¡mon, illetÅ‘leg a 06 (62) 543-260-as telefonszÃ¡mon, Ã©s bÅ‘vebb adatok, fÃ©nykÃ©pek megtekinthetÅ‘k a www.felszamolas-eszkozok.hu oldalon.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0609010781</mezo>
-<mezo id = "nev">Biztonsági Üzem Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">BiztonsÃ¡gi Ãœzem KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">6723 Szeged</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Budapest Holding Elsõ Hazai Vagyonkezelõ Zrt. (Cg.: [01 10 041192]; székhely: 1062 Budapest, Andrássy út 91. I. 3.; Csongrád megyei képviselete: 6722 Szeged, Jósika u. 41.) megbízásából eljáró dr. Pusztai Gábor, mint a Biztonsági Üzem Kft. „f. a.” (Cg.: [06 09 010781]; székhelye: 6723 Szeged, Római krt. 21.; adószáma: [11047739-2-06]) Csongrád Megyei Bíróság 14. Fpk. 06-10-000475/8. számú végzésében kijelölt felszámolója<ujsor/>
-nyilvános pályázat<ujsor/>
-útján értékesítésre kínálja az adós gazdálkodó szervezet tulajdonát képezõ alábbi vagyonelemeket:<ujsor/>
-I. Gépjármû:<ujsor/>
-Gyártmány: LIAZ.<ujsor/>
-Típus: 12.10 BOBR.<ujsor/>
-Kivitel: 3 személyes.<ujsor/>
-Karosszéria színe: fehér.<ujsor/>
-Gyártási év: 1988.<ujsor/>
-Hengerûrtartalom: 11.940 cm3.<ujsor/>
-Teljesítmény: 170 kW.<ujsor/>
-Megjegyzés: önindító hibával.<ujsor/>
-Irányár: 900 000 Ft (+ áfa) bruttó 1 125 000 Ft.<ujsor/>
-II. Gépjármû:.<ujsor/>
-Gyártmány: LIAZ.<ujsor/>
-Típus: 110.850.<ujsor/>
-Kivitel: 2 személyes.<ujsor/>
-Karosszéria színe: narancs.<ujsor/>
-Gyártási év: 1987.<ujsor/>
-Hengerûrtartalom: 11.940 cm3.<ujsor/>
-Teljesítmény: 162 kW.<ujsor/>
-Megjegyzés: üzemképtelen állapotú.<ujsor/>
-Irányár: 900 000 Ft (+ áfa) bruttó 1 125 000 Ft.<ujsor/>
-III. Gépjármû:<ujsor/>
-Gyártmány: LIAZ.<ujsor/>
-Típus: 110.073.<ujsor/>
-Kivitel: 2 személyes.<ujsor/>
-Karosszéria színe: narancs.<ujsor/>
-Gyártási év: 1989.<ujsor/>
-Hengerûrtartalom: 11.940 cm3.<ujsor/>
-Teljesítmény: 147 kW.<ujsor/>
-Irányár: 1 200 000 Ft (+ áfa) bruttó 1 500 000 Ft.<ujsor/>
-IV. Gépjármû:<ujsor/>
-Gyártmány: IFA.<ujsor/>
-Típus: W 50 L/F WOMA AUTOMAT/CSATORNA.<ujsor/>
-Kivitel: 2 személyes.<ujsor/>
-Karosszéria színe: fehér.<ujsor/>
-Gyártási év: 1977.<ujsor/>
-Hengerûrtartalom: 6.560 cm3.<ujsor/>
-Teljesítmény: 92 kW.<ujsor/>
-Megjegyzés: üzemképtelen, motor szétszedve, szivattyú hiányzik.<ujsor/>
-Irányár: 200 000 Ft (+ áfa) bruttó 250 000 Ft.<ujsor/>
-V. Gépjármû (nyerges vontató):<ujsor/>
-Gyártmány: VOLVO.<ujsor/>
-Típus: FH 12 420.<ujsor/>
-Kivitel: 2 személyes.<ujsor/>
-Karosszéria színe: fehér.<ujsor/>
-Gyártási év: 1997.<ujsor/>
-Hengerûrtartalom: 12.130 cm3.<ujsor/>
-Teljesítmény: 309 kW.<ujsor/>
-Megjegyzés: esztétikai hibákkal, motor porlasztó hiba.<ujsor/>
-Irányár: 3 400 000 Ft (+ áfa) bruttó 4 250 000 Ft.<ujsor/>
-VI. Billencs pótkocsi:<ujsor/>
-Gyártmány: CARNHEL.<ujsor/>
-Típus: CHKS/AL.<ujsor/>
-Karosszéria színe: fekete.<ujsor/>
-Irányár: 4 800 000 Ft (+ áfa) bruttó 6 000 000 Ft.<ujsor/>
-VII. Pótkocsi:<ujsor/>
-Gyártmány: SCHWARZMÜLLER.<ujsor/>
-Típus: SPA 3/E.<ujsor/>
-Karosszéria színe: fekete.<ujsor/>
-Gyártási év: 1998.<ujsor/>
-Megjegyzés: ponyva hiányzik.<ujsor/>
-Irányár: 700 000 Ft (+ áfa) bruttó 875 000 Ft.<ujsor/>
-A pályázaton való részvétel feltételei:<ujsor/>
-­ Az ajánlatokat legkésõbb a jelen hirdetmény Cégközlönyben történõ megjelenését követõ 15. napon, amennyiben az munkaszüneti nap, akkor az azt követõ munkanapon 12 óráig személyesen a felszámoló 6722 Szeged, Jósika u. 41. szám alatt található irodájában lehet leadni vagy tértivevényes küldeményként postára adni kettõs, zárt borítékban, két egyezõ példányban. A belsõ boríték a feladóra vonatkozó semminemû utalást nem tartalmazhat, azon kizárólag csak a „Biztonsági Üzem Kft. f. a.” megjelölés szerepelhet.<ujsor/>
-­ Az ajánlatnak tartalmaznia kell:<ujsor/>
-= az ajánlattevõ adatait (magánszemély esetén személyi adatait; gazdálkodó szervezet esetén: cégnevet, székhelyet, adószámot, bankszámlaszámot és a képviseletre jogosult adatait),<ujsor/>
-= a vagyontárgy megjelölését, a megajánlott nettó, illetõleg bruttó ajánlati árat,<ujsor/>
-= a fizetés módját, feltételeit és a fizetési határidõt,<ujsor/>
-= továbbá nyilatkozatot arra vonatkozóan, hogy az ajánlattevõ ajánlata benyújtásával 60 napig ajánlati kötöttséget vállal.<ujsor/>
-= A benyújtott pályázathoz minden esetben csatolni kell a bánatpénz (ajánlati biztosíték) letétbe helyezését igazoló pénzintézeti igazolást, vagy készpénz esetén az arra vonatkozó bizonylatot, továbbá:<ujsor/>
-= magánszemély esetén a személyi azonosságát igazoló hatósági igazolvány két tanú által hitelesített másolatát,<ujsor/>
-= gazdasági társaság esetén 30 napnál nem régebbi hiteles cégkivonatot, illetõleg aláírási címpéldányt vagy ügyvéd által ellenjegyzett aláírási mintát,<ujsor/>
-= egyéni vállalkozó esetén vagy a vállalkozói igazolvány hitelesített másolatát, vagy pedig az egyéni vállalkozó e minõségét más jogszabályi feltételeknek megfelelõ igazolását.<ujsor/>
-A pályázó köteles az általa pályázott vagyontárgynak pályázati hirdetményben megjelölt 10 M Ft-nál alacsonyabb összegû irányár esetén annak 5%-át, míg a 10 M Ft vagy 10 M Ft-nál magasabb összegû irányár esetén annak 3%-át ajánlati biztosítékként a felszámoló K &amp; H Bank Zrt.-nél vezetett 10402623-26211712-00000000 számú számlájára átutalni, illetve készpénzben ajánlati biztosítékként (bánatpénz) személyesen a felszámoló 6722 Szeged, Jósika u. 41. szám alatt található irodájában befizetni (a befizetés igazolását a pályázathoz mellékelni kell).<ujsor/>
-Amennyiben a bánatpénz banki utalással kerül kifizetésre, annak legkésõbb az ajánlat benyújtására nyitva álló határidõ utolsó napját megelõzõen jóváírásra kell kerülnie a fenti számlán. Az utaláson fel kell tüntetni a „Biztonsági Üzem Kft. f. a. bánatpénz” megjelölést. A bánatpénz eredményes pályázat esetén a vételárba beszámít. Ha a szerzõdés a vevõ érdekkörében felmerülõ okból nem jön létre, a vevõ a pályázati biztosítékot elveszíti, a felszámoló ezt az összeget az értékesítési bevétel részeként számolja el. Az eredménytelen, illetve érvénytelen pályázat esetén a bánatpénz a pályázatok értékelését követõen 8 munkanapon belül kamatmentesen kerül visszafizetésre.<ujsor/>
-Vételár megfizetésének módja, határideje, szerzõdéskötés:<ujsor/>
-­ Sikeres pályázat esetén a vételár megfizetésének módja történhet készpénzben, valamint átutalással is a fentiekben szereplõ, a felszámoló által megadott számlaszámra.<ujsor/>
-­ A vételár megfizetésének határideje a szerzõdéskötéstõl számított 30. nap.<ujsor/>
-­ Szerzõdéskötés végsõ határideje a pályázati kiírás lejártát követõ 60. nap, eddig köteles a pályázó is az ajánlata benyújtásával kötöttséget vállalni.<ujsor/>
-­ A szerzõdéskötéssel kapcsolatos költségek a nyertes pályázót terhelik, a szerzõdést a felszámoló készítteti el.<ujsor/>
-A felszámoló az ajánlattevõt az alábbiakról tájékoztatja:<ujsor/>
-Az ajánlatok felbontása nem nyilvános úton, hanem a felszámolóbiztos és a közjegyzõ jelenlétében történik a pályázati határidõ lejártát követõen 15 napon belül. A beérkezett ajánlatokat a felszámoló a bontást követõ 15 napon belül értékeli és vevõkijelölés útján dönt az ajánlat elfogadásáról. Ezt követõ 15 napon belül köti meg a szerzõdést a vevõvel. A vagyontárgyak birtokba-, illetõleg tulajdonba adására a vételárnak a szerzõdés szerinti teljes kiegyenlítése esetén kerül sor.<ujsor/>
-Az ajánlatot tevõket a pályázat eredményérõl a bontástól számított 15 napon belül a felszámoló értesíti.<ujsor/>
-A felszámoló elõnyösebbnek minõsítheti azt az ajánlatot, amelyben magasabb vételárat jelölt meg az ajánlattevõ, illetõleg kedvezõbb elbírálást nyerhet az az ajánlat is, amely a vagyonelemek szélesebb körére vagy azok együttes megvásárlására vonatkozik.<ujsor/>
-A pályázati határidõt követõen érkezett ajánlat, valamint a tartalmi, illetõleg a formai követelményeknek meg nem felelõ pályázat érvénytelen, azokat a felszámoló elutasítja.<ujsor/>
-Amennyiben az egyes vagyontárgyak vonatkozásában több azonos értékû (a vételár vonatkozásában legfeljebb 10%-kal eltérõ) ajánlat érkezik, a felszámoló a pályázat nyertesének eldöntése érdekében ártárgyalást tûz ki, melynek feltételeirõl, idõpontjáról és helyérõl az érdekelteket értesíti.<ujsor/>
-A meghirdetett vagyontárgyak az általános forgalmi adó hatálya alá tartozó adóalanyok esetében az Általános forgalmi adóról szóló 2007. évi CXXVII. törvény 142. § alapján kerülnek értékesítésre.<ujsor/>
-A vagyontárgyak megtekintett állapotban kerülnek értékesítésre, a felszámoló a kellékszavatosságot kizárja.<ujsor/>
-A vagyontárgyakra önállóan, illetõleg együttesen is tehetõ ajánlat.<ujsor/>
-A felszámoló a vagyontárgyakat érintõen beszámításra vonatkozó ajánlatot nem fogad el.<ujsor/>
-A felszámoló felhívja az elõvásárlásra jogosultak figyelmét, hogy e jogukat ­ igazoltan ­ a nyilvános pályázat keretein belül gyakorolhatják és ezen szándékukat a pályázati határidõn belül írásban jelentsék be a felszámolónak. Amennyiben az elõvásárlásra jogosult a rendelkezésére álló határidõn belül nem nyilatkozik, illetõleg a vételi ajánlatot teljes körûen nem fogadja el, valamint az adásvételi szerzõdést nem köti meg, a felszámoló úgy tekinti, hogy elõvásárlási jogával nem kíván élni.<ujsor/>
-A felszámoló fenntartja a jogot, hogy a pályázatot megfelelõ ajánlat hiányában eredménytelennek nyilvánítsa.<ujsor/>
-A vagyontárgyak elõre egyeztetett idõpontban megtekinthetõek. A pályázattal kapcsolatosan további információ kérhetõ munkanapokon 8 és 16 óra között a felszámoló Csongrád megyei képviseletén dr. Pusztai Gábor felszámolóbiztostól a 06 (30) 983-1223-as mobilszámon, illetõleg a 06 (62) 543-260-as telefonszámon, és bõvebb adatok, fényképek megtekinthetõk a www.felszamolas-eszkozok.hu oldalon.<ujsor/>
+<mezo id = "szoveg">A Budapest Holding ElsÅ‘ Hazai VagyonkezelÅ‘ Zrt. (Cg.: [01 10 041192]; szÃ©khely: 1062 Budapest, AndrÃ¡ssy Ãºt 91. I. 3.; CsongrÃ¡d megyei kÃ©pviselete: 6722 Szeged, JÃ³sika u. 41.) megbÃ­zÃ¡sÃ¡bÃ³l eljÃ¡rÃ³ dr. Pusztai GÃ¡bor, mint a BiztonsÃ¡gi Ãœzem Kft. â€f. a.â€ (Cg.: [06 09 010781]; szÃ©khelye: 6723 Szeged, RÃ³mai krt. 21.; adÃ³szÃ¡ma: [11047739-2-06]) CsongrÃ¡d Megyei BÃ­rÃ³sÃ¡g 14. Fpk. 06-10-000475/8. szÃ¡mÃº vÃ©gzÃ©sÃ©ben kijelÃ¶lt felszÃ¡molÃ³ja<ujsor/>
+nyilvÃ¡nos pÃ¡lyÃ¡zat<ujsor/>
+ÃºtjÃ¡n Ã©rtÃ©kesÃ­tÃ©sre kÃ­nÃ¡lja az adÃ³s gazdÃ¡lkodÃ³ szervezet tulajdonÃ¡t kÃ©pezÅ‘ alÃ¡bbi vagyonelemeket:<ujsor/>
+I. GÃ©pjÃ¡rmÅ±:<ujsor/>
+GyÃ¡rtmÃ¡ny: LIAZ.<ujsor/>
+TÃ­pus: 12.10 BOBR.<ujsor/>
+Kivitel: 3 szemÃ©lyes.<ujsor/>
+KarosszÃ©ria szÃ­ne: fehÃ©r.<ujsor/>
+GyÃ¡rtÃ¡si Ã©v: 1988.<ujsor/>
+HengerÅ±rtartalom: 11.940 cm3.<ujsor/>
+TeljesÃ­tmÃ©ny: 170 kW.<ujsor/>
+MegjegyzÃ©s: Ã¶nindÃ­tÃ³ hibÃ¡val.<ujsor/>
+IrÃ¡nyÃ¡r: 900 000 Ft (+ Ã¡fa) bruttÃ³ 1 125 000 Ft.<ujsor/>
+II. GÃ©pjÃ¡rmÅ±:.<ujsor/>
+GyÃ¡rtmÃ¡ny: LIAZ.<ujsor/>
+TÃ­pus: 110.850.<ujsor/>
+Kivitel: 2 szemÃ©lyes.<ujsor/>
+KarosszÃ©ria szÃ­ne: narancs.<ujsor/>
+GyÃ¡rtÃ¡si Ã©v: 1987.<ujsor/>
+HengerÅ±rtartalom: 11.940 cm3.<ujsor/>
+TeljesÃ­tmÃ©ny: 162 kW.<ujsor/>
+MegjegyzÃ©s: Ã¼zemkÃ©ptelen Ã¡llapotÃº.<ujsor/>
+IrÃ¡nyÃ¡r: 900 000 Ft (+ Ã¡fa) bruttÃ³ 1 125 000 Ft.<ujsor/>
+III. GÃ©pjÃ¡rmÅ±:<ujsor/>
+GyÃ¡rtmÃ¡ny: LIAZ.<ujsor/>
+TÃ­pus: 110.073.<ujsor/>
+Kivitel: 2 szemÃ©lyes.<ujsor/>
+KarosszÃ©ria szÃ­ne: narancs.<ujsor/>
+GyÃ¡rtÃ¡si Ã©v: 1989.<ujsor/>
+HengerÅ±rtartalom: 11.940 cm3.<ujsor/>
+TeljesÃ­tmÃ©ny: 147 kW.<ujsor/>
+IrÃ¡nyÃ¡r: 1 200 000 Ft (+ Ã¡fa) bruttÃ³ 1 500 000 Ft.<ujsor/>
+IV. GÃ©pjÃ¡rmÅ±:<ujsor/>
+GyÃ¡rtmÃ¡ny: IFA.<ujsor/>
+TÃ­pus: W 50 L/F WOMA AUTOMAT/CSATORNA.<ujsor/>
+Kivitel: 2 szemÃ©lyes.<ujsor/>
+KarosszÃ©ria szÃ­ne: fehÃ©r.<ujsor/>
+GyÃ¡rtÃ¡si Ã©v: 1977.<ujsor/>
+HengerÅ±rtartalom: 6.560 cm3.<ujsor/>
+TeljesÃ­tmÃ©ny: 92 kW.<ujsor/>
+MegjegyzÃ©s: Ã¼zemkÃ©ptelen, motor szÃ©tszedve, szivattyÃº hiÃ¡nyzik.<ujsor/>
+IrÃ¡nyÃ¡r: 200 000 Ft (+ Ã¡fa) bruttÃ³ 250 000 Ft.<ujsor/>
+V. GÃ©pjÃ¡rmÅ± (nyerges vontatÃ³):<ujsor/>
+GyÃ¡rtmÃ¡ny: VOLVO.<ujsor/>
+TÃ­pus: FH 12 420.<ujsor/>
+Kivitel: 2 szemÃ©lyes.<ujsor/>
+KarosszÃ©ria szÃ­ne: fehÃ©r.<ujsor/>
+GyÃ¡rtÃ¡si Ã©v: 1997.<ujsor/>
+HengerÅ±rtartalom: 12.130 cm3.<ujsor/>
+TeljesÃ­tmÃ©ny: 309 kW.<ujsor/>
+MegjegyzÃ©s: esztÃ©tikai hibÃ¡kkal, motor porlasztÃ³ hiba.<ujsor/>
+IrÃ¡nyÃ¡r: 3 400 000 Ft (+ Ã¡fa) bruttÃ³ 4 250 000 Ft.<ujsor/>
+VI. Billencs pÃ³tkocsi:<ujsor/>
+GyÃ¡rtmÃ¡ny: CARNHEL.<ujsor/>
+TÃ­pus: CHKS/AL.<ujsor/>
+KarosszÃ©ria szÃ­ne: fekete.<ujsor/>
+IrÃ¡nyÃ¡r: 4 800 000 Ft (+ Ã¡fa) bruttÃ³ 6 000 000 Ft.<ujsor/>
+VII. PÃ³tkocsi:<ujsor/>
+GyÃ¡rtmÃ¡ny: SCHWARZMÃœLLER.<ujsor/>
+TÃ­pus: SPA 3/E.<ujsor/>
+KarosszÃ©ria szÃ­ne: fekete.<ujsor/>
+GyÃ¡rtÃ¡si Ã©v: 1998.<ujsor/>
+MegjegyzÃ©s: ponyva hiÃ¡nyzik.<ujsor/>
+IrÃ¡nyÃ¡r: 700 000 Ft (+ Ã¡fa) bruttÃ³ 875 000 Ft.<ujsor/>
+A pÃ¡lyÃ¡zaton valÃ³ rÃ©szvÃ©tel feltÃ©telei:<ujsor/>
+Â­ Az ajÃ¡nlatokat legkÃ©sÅ‘bb a jelen hirdetmÃ©ny CÃ©gkÃ¶zlÃ¶nyben tÃ¶rtÃ©nÅ‘ megjelenÃ©sÃ©t kÃ¶vetÅ‘ 15. napon, amennyiben az munkaszÃ¼neti nap, akkor az azt kÃ¶vetÅ‘ munkanapon 12 Ã³rÃ¡ig szemÃ©lyesen a felszÃ¡molÃ³ 6722 Szeged, JÃ³sika u. 41. szÃ¡m alatt talÃ¡lhatÃ³ irodÃ¡jÃ¡ban lehet leadni vagy tÃ©rtivevÃ©nyes kÃ¼ldemÃ©nykÃ©nt postÃ¡ra adni kettÅ‘s, zÃ¡rt borÃ­tÃ©kban, kÃ©t egyezÅ‘ pÃ©ldÃ¡nyban. A belsÅ‘ borÃ­tÃ©k a feladÃ³ra vonatkozÃ³ semminemÅ± utalÃ¡st nem tartalmazhat, azon kizÃ¡rÃ³lag csak a â€BiztonsÃ¡gi Ãœzem Kft. f. a.â€ megjelÃ¶lÃ©s szerepelhet.<ujsor/>
+Â­ Az ajÃ¡nlatnak tartalmaznia kell:<ujsor/>
+= az ajÃ¡nlattevÅ‘ adatait (magÃ¡nszemÃ©ly esetÃ©n szemÃ©lyi adatait; gazdÃ¡lkodÃ³ szervezet esetÃ©n: cÃ©gnevet, szÃ©khelyet, adÃ³szÃ¡mot, bankszÃ¡mlaszÃ¡mot Ã©s a kÃ©pviseletre jogosult adatait),<ujsor/>
+= a vagyontÃ¡rgy megjelÃ¶lÃ©sÃ©t, a megajÃ¡nlott nettÃ³, illetÅ‘leg bruttÃ³ ajÃ¡nlati Ã¡rat,<ujsor/>
+= a fizetÃ©s mÃ³djÃ¡t, feltÃ©teleit Ã©s a fizetÃ©si hatÃ¡ridÅ‘t,<ujsor/>
+= tovÃ¡bbÃ¡ nyilatkozatot arra vonatkozÃ³an, hogy az ajÃ¡nlattevÅ‘ ajÃ¡nlata benyÃºjtÃ¡sÃ¡val 60 napig ajÃ¡nlati kÃ¶tÃ¶ttsÃ©get vÃ¡llal.<ujsor/>
+= A benyÃºjtott pÃ¡lyÃ¡zathoz minden esetben csatolni kell a bÃ¡natpÃ©nz (ajÃ¡nlati biztosÃ­tÃ©k) letÃ©tbe helyezÃ©sÃ©t igazolÃ³ pÃ©nzintÃ©zeti igazolÃ¡st, vagy kÃ©szpÃ©nz esetÃ©n az arra vonatkozÃ³ bizonylatot, tovÃ¡bbÃ¡:<ujsor/>
+= magÃ¡nszemÃ©ly esetÃ©n a szemÃ©lyi azonossÃ¡gÃ¡t igazolÃ³ hatÃ³sÃ¡gi igazolvÃ¡ny kÃ©t tanÃº Ã¡ltal hitelesÃ­tett mÃ¡solatÃ¡t,<ujsor/>
+= gazdasÃ¡gi tÃ¡rsasÃ¡g esetÃ©n 30 napnÃ¡l nem rÃ©gebbi hiteles cÃ©gkivonatot, illetÅ‘leg alÃ¡Ã­rÃ¡si cÃ­mpÃ©ldÃ¡nyt vagy Ã¼gyvÃ©d Ã¡ltal ellenjegyzett alÃ¡Ã­rÃ¡si mintÃ¡t,<ujsor/>
+= egyÃ©ni vÃ¡llalkozÃ³ esetÃ©n vagy a vÃ¡llalkozÃ³i igazolvÃ¡ny hitelesÃ­tett mÃ¡solatÃ¡t, vagy pedig az egyÃ©ni vÃ¡llalkozÃ³ e minÅ‘sÃ©gÃ©t mÃ¡s jogszabÃ¡lyi feltÃ©teleknek megfelelÅ‘ igazolÃ¡sÃ¡t.<ujsor/>
+A pÃ¡lyÃ¡zÃ³ kÃ¶teles az Ã¡ltala pÃ¡lyÃ¡zott vagyontÃ¡rgynak pÃ¡lyÃ¡zati hirdetmÃ©nyben megjelÃ¶lt 10 M Ft-nÃ¡l alacsonyabb Ã¶sszegÅ± irÃ¡nyÃ¡r esetÃ©n annak 5%-Ã¡t, mÃ­g a 10 M Ft vagy 10 M Ft-nÃ¡l magasabb Ã¶sszegÅ± irÃ¡nyÃ¡r esetÃ©n annak 3%-Ã¡t ajÃ¡nlati biztosÃ­tÃ©kkÃ©nt a felszÃ¡molÃ³ K &amp; H Bank Zrt.-nÃ©l vezetett 10402623-26211712-00000000 szÃ¡mÃº szÃ¡mlÃ¡jÃ¡ra Ã¡tutalni, illetve kÃ©szpÃ©nzben ajÃ¡nlati biztosÃ­tÃ©kkÃ©nt (bÃ¡natpÃ©nz) szemÃ©lyesen a felszÃ¡molÃ³ 6722 Szeged, JÃ³sika u. 41. szÃ¡m alatt talÃ¡lhatÃ³ irodÃ¡jÃ¡ban befizetni (a befizetÃ©s igazolÃ¡sÃ¡t a pÃ¡lyÃ¡zathoz mellÃ©kelni kell).<ujsor/>
+Amennyiben a bÃ¡natpÃ©nz banki utalÃ¡ssal kerÃ¼l kifizetÃ©sre, annak legkÃ©sÅ‘bb az ajÃ¡nlat benyÃºjtÃ¡sÃ¡ra nyitva Ã¡llÃ³ hatÃ¡ridÅ‘ utolsÃ³ napjÃ¡t megelÅ‘zÅ‘en jÃ³vÃ¡Ã­rÃ¡sra kell kerÃ¼lnie a fenti szÃ¡mlÃ¡n. Az utalÃ¡son fel kell tÃ¼ntetni a â€BiztonsÃ¡gi Ãœzem Kft. f. a. bÃ¡natpÃ©nzâ€ megjelÃ¶lÃ©st. A bÃ¡natpÃ©nz eredmÃ©nyes pÃ¡lyÃ¡zat esetÃ©n a vÃ©telÃ¡rba beszÃ¡mÃ­t. Ha a szerzÅ‘dÃ©s a vevÅ‘ Ã©rdekkÃ¶rÃ©ben felmerÃ¼lÅ‘ okbÃ³l nem jÃ¶n lÃ©tre, a vevÅ‘ a pÃ¡lyÃ¡zati biztosÃ­tÃ©kot elveszÃ­ti, a felszÃ¡molÃ³ ezt az Ã¶sszeget az Ã©rtÃ©kesÃ­tÃ©si bevÃ©tel rÃ©szekÃ©nt szÃ¡molja el. Az eredmÃ©nytelen, illetve Ã©rvÃ©nytelen pÃ¡lyÃ¡zat esetÃ©n a bÃ¡natpÃ©nz a pÃ¡lyÃ¡zatok Ã©rtÃ©kelÃ©sÃ©t kÃ¶vetÅ‘en 8 munkanapon belÃ¼l kamatmentesen kerÃ¼l visszafizetÃ©sre.<ujsor/>
+VÃ©telÃ¡r megfizetÃ©sÃ©nek mÃ³dja, hatÃ¡rideje, szerzÅ‘dÃ©skÃ¶tÃ©s:<ujsor/>
+Â­ Sikeres pÃ¡lyÃ¡zat esetÃ©n a vÃ©telÃ¡r megfizetÃ©sÃ©nek mÃ³dja tÃ¶rtÃ©nhet kÃ©szpÃ©nzben, valamint Ã¡tutalÃ¡ssal is a fentiekben szereplÅ‘, a felszÃ¡molÃ³ Ã¡ltal megadott szÃ¡mlaszÃ¡mra.<ujsor/>
+Â­ A vÃ©telÃ¡r megfizetÃ©sÃ©nek hatÃ¡rideje a szerzÅ‘dÃ©skÃ¶tÃ©stÅ‘l szÃ¡mÃ­tott 30. nap.<ujsor/>
+Â­ SzerzÅ‘dÃ©skÃ¶tÃ©s vÃ©gsÅ‘ hatÃ¡rideje a pÃ¡lyÃ¡zati kiÃ­rÃ¡s lejÃ¡rtÃ¡t kÃ¶vetÅ‘ 60. nap, eddig kÃ¶teles a pÃ¡lyÃ¡zÃ³ is az ajÃ¡nlata benyÃºjtÃ¡sÃ¡val kÃ¶tÃ¶ttsÃ©get vÃ¡llalni.<ujsor/>
+Â­ A szerzÅ‘dÃ©skÃ¶tÃ©ssel kapcsolatos kÃ¶ltsÃ©gek a nyertes pÃ¡lyÃ¡zÃ³t terhelik, a szerzÅ‘dÃ©st a felszÃ¡molÃ³ kÃ©szÃ­tteti el.<ujsor/>
+A felszÃ¡molÃ³ az ajÃ¡nlattevÅ‘t az alÃ¡bbiakrÃ³l tÃ¡jÃ©koztatja:<ujsor/>
+Az ajÃ¡nlatok felbontÃ¡sa nem nyilvÃ¡nos Ãºton, hanem a felszÃ¡molÃ³biztos Ã©s a kÃ¶zjegyzÅ‘ jelenlÃ©tÃ©ben tÃ¶rtÃ©nik a pÃ¡lyÃ¡zati hatÃ¡ridÅ‘ lejÃ¡rtÃ¡t kÃ¶vetÅ‘en 15 napon belÃ¼l. A beÃ©rkezett ajÃ¡nlatokat a felszÃ¡molÃ³ a bontÃ¡st kÃ¶vetÅ‘ 15 napon belÃ¼l Ã©rtÃ©keli Ã©s vevÅ‘kijelÃ¶lÃ©s ÃºtjÃ¡n dÃ¶nt az ajÃ¡nlat elfogadÃ¡sÃ¡rÃ³l. Ezt kÃ¶vetÅ‘ 15 napon belÃ¼l kÃ¶ti meg a szerzÅ‘dÃ©st a vevÅ‘vel. A vagyontÃ¡rgyak birtokba-, illetÅ‘leg tulajdonba adÃ¡sÃ¡ra a vÃ©telÃ¡rnak a szerzÅ‘dÃ©s szerinti teljes kiegyenlÃ­tÃ©se esetÃ©n kerÃ¼l sor.<ujsor/>
+Az ajÃ¡nlatot tevÅ‘ket a pÃ¡lyÃ¡zat eredmÃ©nyÃ©rÅ‘l a bontÃ¡stÃ³l szÃ¡mÃ­tott 15 napon belÃ¼l a felszÃ¡molÃ³ Ã©rtesÃ­ti.<ujsor/>
+A felszÃ¡molÃ³ elÅ‘nyÃ¶sebbnek minÅ‘sÃ­theti azt az ajÃ¡nlatot, amelyben magasabb vÃ©telÃ¡rat jelÃ¶lt meg az ajÃ¡nlattevÅ‘, illetÅ‘leg kedvezÅ‘bb elbÃ­rÃ¡lÃ¡st nyerhet az az ajÃ¡nlat is, amely a vagyonelemek szÃ©lesebb kÃ¶rÃ©re vagy azok egyÃ¼ttes megvÃ¡sÃ¡rlÃ¡sÃ¡ra vonatkozik.<ujsor/>
+A pÃ¡lyÃ¡zati hatÃ¡ridÅ‘t kÃ¶vetÅ‘en Ã©rkezett ajÃ¡nlat, valamint a tartalmi, illetÅ‘leg a formai kÃ¶vetelmÃ©nyeknek meg nem felelÅ‘ pÃ¡lyÃ¡zat Ã©rvÃ©nytelen, azokat a felszÃ¡molÃ³ elutasÃ­tja.<ujsor/>
+Amennyiben az egyes vagyontÃ¡rgyak vonatkozÃ¡sÃ¡ban tÃ¶bb azonos Ã©rtÃ©kÅ± (a vÃ©telÃ¡r vonatkozÃ¡sÃ¡ban legfeljebb 10%-kal eltÃ©rÅ‘) ajÃ¡nlat Ã©rkezik, a felszÃ¡molÃ³ a pÃ¡lyÃ¡zat nyertesÃ©nek eldÃ¶ntÃ©se Ã©rdekÃ©ben Ã¡rtÃ¡rgyalÃ¡st tÅ±z ki, melynek feltÃ©teleirÅ‘l, idÅ‘pontjÃ¡rÃ³l Ã©s helyÃ©rÅ‘l az Ã©rdekelteket Ã©rtesÃ­ti.<ujsor/>
+A meghirdetett vagyontÃ¡rgyak az Ã¡ltalÃ¡nos forgalmi adÃ³ hatÃ¡lya alÃ¡ tartozÃ³ adÃ³alanyok esetÃ©ben az ÃltalÃ¡nos forgalmi adÃ³rÃ³l szÃ³lÃ³ 2007. Ã©vi CXXVII. tÃ¶rvÃ©ny 142. Â§ alapjÃ¡n kerÃ¼lnek Ã©rtÃ©kesÃ­tÃ©sre.<ujsor/>
+A vagyontÃ¡rgyak megtekintett Ã¡llapotban kerÃ¼lnek Ã©rtÃ©kesÃ­tÃ©sre, a felszÃ¡molÃ³ a kellÃ©kszavatossÃ¡got kizÃ¡rja.<ujsor/>
+A vagyontÃ¡rgyakra Ã¶nÃ¡llÃ³an, illetÅ‘leg egyÃ¼ttesen is tehetÅ‘ ajÃ¡nlat.<ujsor/>
+A felszÃ¡molÃ³ a vagyontÃ¡rgyakat Ã©rintÅ‘en beszÃ¡mÃ­tÃ¡sra vonatkozÃ³ ajÃ¡nlatot nem fogad el.<ujsor/>
+A felszÃ¡molÃ³ felhÃ­vja az elÅ‘vÃ¡sÃ¡rlÃ¡sra jogosultak figyelmÃ©t, hogy e jogukat Â­ igazoltan Â­ a nyilvÃ¡nos pÃ¡lyÃ¡zat keretein belÃ¼l gyakorolhatjÃ¡k Ã©s ezen szÃ¡ndÃ©kukat a pÃ¡lyÃ¡zati hatÃ¡ridÅ‘n belÃ¼l Ã­rÃ¡sban jelentsÃ©k be a felszÃ¡molÃ³nak. Amennyiben az elÅ‘vÃ¡sÃ¡rlÃ¡sra jogosult a rendelkezÃ©sÃ©re Ã¡llÃ³ hatÃ¡ridÅ‘n belÃ¼l nem nyilatkozik, illetÅ‘leg a vÃ©teli ajÃ¡nlatot teljes kÃ¶rÅ±en nem fogadja el, valamint az adÃ¡svÃ©teli szerzÅ‘dÃ©st nem kÃ¶ti meg, a felszÃ¡molÃ³ Ãºgy tekinti, hogy elÅ‘vÃ¡sÃ¡rlÃ¡si jogÃ¡val nem kÃ­vÃ¡n Ã©lni.<ujsor/>
+A felszÃ¡molÃ³ fenntartja a jogot, hogy a pÃ¡lyÃ¡zatot megfelelÅ‘ ajÃ¡nlat hiÃ¡nyÃ¡ban eredmÃ©nytelennek nyilvÃ¡nÃ­tsa.<ujsor/>
+A vagyontÃ¡rgyak elÅ‘re egyeztetett idÅ‘pontban megtekinthetÅ‘ek. A pÃ¡lyÃ¡zattal kapcsolatosan tovÃ¡bbi informÃ¡ciÃ³ kÃ©rhetÅ‘ munkanapokon 8 Ã©s 16 Ã³ra kÃ¶zÃ¶tt a felszÃ¡molÃ³ CsongrÃ¡d megyei kÃ©pviseletÃ©n dr. Pusztai GÃ¡bor felszÃ¡molÃ³biztostÃ³l a 06 (30) 983-1223-as mobilszÃ¡mon, illetÅ‘leg a 06 (62) 543-260-as telefonszÃ¡mon, Ã©s bÅ‘vebb adatok, fÃ©nykÃ©pek megtekinthetÅ‘k a www.felszamolas-eszkozok.hu oldalon.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0609010781</mezo>
-<mezo id = "nev">Biztonsági Üzem Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">BiztonsÃ¡gi Ãœzem KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">6723 Szeged</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Budapest Holding Elsõ Hazai Vagyonkezelõ Zrt. (Cg.: [01 10 041192]; székhely: 1062 Budapest, Andrássy út 91. I. 3.) Csongrád Megyei Képviselete (6722 Szeged, Jósika u. 41.) megbízásából eljáró dr. Pusztai Gábor mint a Biztonsági Üzem Kft. „f. a.” (Cg.: [06 09 010781]; székhely: 6723 Szeged, Római krt. 21.; adószám: [11047739-2-06]) Csongrád Megyei Bíróság 14. Fpk. 06-10-000475/8. számú végzésében kijelölt felszámolója<ujsor/>
-nyilvános pályázat<ujsor/>
-útján értékesíteni kívánja az adós gazdálkodó szervezet tulajdonát képezõ alábbi vagyonelemeket:<ujsor/>
-I. Gépjármû:<ujsor/>
-Gyártmány: LIAZ.<ujsor/>
-Típus: 12.10 BOBR.<ujsor/>
-Kivitel: 3 személyes.<ujsor/>
-Karosszéria színe: fehér.<ujsor/>
-Gyártási év: 1988.<ujsor/>
-Hengerûrtartalom: 11.940 cm3.<ujsor/>
-Teljesítmény: 170 kW.<ujsor/>
-Megjegyzés: önindító hibával.<ujsor/>
-Irányár: 720 000 Ft (+ áfa), bruttó 900 000 Ft.<ujsor/>
-II. Gépjármû:<ujsor/>
-Gyártmány: LIAZ.<ujsor/>
-Típus: 110.850.<ujsor/>
-Kivitel: 2 személyes.<ujsor/>
-Karosszéria színe: narancs.<ujsor/>
-Gyártási év: 1987.<ujsor/>
-Hengerûrtartalom: 11.940 cm3.<ujsor/>
-Teljesítmény: 162 kW.<ujsor/>
-Megjegyzés: üzemképtelen állapotú.<ujsor/>
-Irányár: 720 000 Ft (+ áfa), bruttó 900 000 Ft.<ujsor/>
-III. Gépjármû:<ujsor/>
-Gyártmány: LIAZ.<ujsor/>
-Típus: 110.073.<ujsor/>
-Kivitel: 2 személyes.<ujsor/>
-Karosszéria színe: narancs.<ujsor/>
-Gyártási év: 1989.<ujsor/>
-Hengerûrtartalom: 11.940 cm3.<ujsor/>
-Teljesítmény: 147 kW.<ujsor/>
-Irányár: 960 000 Ft (+ áfa), bruttó 1 200 000 Ft.<ujsor/>
-IV. Gépjármû:<ujsor/>
-Gyártmány: VOLVO.<ujsor/>
-Típus: FH 12 420.<ujsor/>
-Kivitel: 2 személyes.<ujsor/>
-Karosszéria színe: fehér.<ujsor/>
-Gyártási év: 1997.<ujsor/>
-Hengerûrtartalom: 12.130 cm3.<ujsor/>
-Teljesítmény: 309 kW.<ujsor/>
-Megjegyzés: esztétikai hibákkal, motor porlasztó hiba.<ujsor/>
-Irányár: 2 720 000 Ft (+ áfa), bruttó 3 400 000 Ft.<ujsor/>
-V. Billenõs pótkocsi:<ujsor/>
-Gyártmány: CARNHEL.<ujsor/>
-Típus: CHKS/AL.<ujsor/>
-Karosszéria színe: fekete.<ujsor/>
-Irányár: 3 840 000 Ft (+ áfa), bruttó 4 800 000 Ft.<ujsor/>
-VI. Pótkocsi:<ujsor/>
-Gyártmány: SCHWARZMÜLLER.<ujsor/>
-Típus: SPA 3/E.<ujsor/>
-Karosszéria színe: fekete.<ujsor/>
-Gyártási év: 1998.<ujsor/>
-Megjegyzés: ponyva hiányzik.<ujsor/>
-Irányár: 560 000 Ft (+ áfa), bruttó 700 000 Ft.<ujsor/>
-VII. Követelés<ujsor/>
-A nyilvános pályázat során a felszámoló értékesíteni kívánja az adós gazdálkodó szervezet kifejezetten bizonytalan vevõ követelését, mely a „SZEVIÉP” Szerkezet- és Vízépítõ Kft. „f. a.”-val (6723 Szeged, Római krt. 21.) szemben áll fenn 65 602 436 Ft értékben.<ujsor/>
-A „SZEVIÉP” Szerkezet- és Vízépítõ Kft. „f. a.” felszámolója, a CASH &amp; LIMES Vagyonkezelõ és Felszámoló Zrt. (1146 Budapest, Cházár András u. 9.) a Biztonsági Üzem Kft. „f. a.” követelését a felszámoló elismerte és „h” kategóriába sorolta be.<ujsor/>
-Irányár: a követelés összegének 10%-a.<ujsor/>
-VIII. Követelés A nyilvános pályázat során a felszámoló értékesíteni kívánja a Biztonsági Üzem Kft. „f. a.” 108 555 000 Ft összegû bizonytalan követelését, melyre vonatkozóan a Csongrád Megyei Bíróság részérõl 11.G.40.035/2011/15/1. számú jogerõs végzés született.<ujsor/>
-Irányár: a követelés összegének 10%-a.<ujsor/>
-A) A pályázaton való részvétel feltételei:<ujsor/>
-­ Az ajánlatokat legkésõbb a jelen hirdetmény Cégközlönyben történõ megjelenését követõ 15 napon, amennyiben az munkaszüneti nap, akkor az azt követõ munkanapon 12 óráig személyesen a felszámoló (6722 Szeged, Jósika u. 41.) irodájában lehet leadni vagy tértivevényes küldeményként postára adni kettõs, zárt borítékban, két egyezõ példányban. A belsõ boríték a feladóra vonatkozó semminemû utalást nem tartalmazhat, azon kizárólag csak a „Biztonsági Üzem Kft. f. a.” megjelölés szerepelhet.<ujsor/>
-­ Az ajánlatnak tartalmaznia kell:<ujsor/>
-­ az ajánlattevõ adatait (magánszemély esetén személyi adatait; gazdálkodó szervezet esetén: cégnevet, székhelyet, adószámot, bankszámlaszámot és a képviseletre jogosult adatait),<ujsor/>
-­ a vagyontárgy megjelölését, megajánlott nettó, illetõleg bruttó ajánlati árat,<ujsor/>
-­ a fizetés módját, feltételeit és a fizetési határidõt,<ujsor/>
-­ továbbá nyilatkozatot arra vonatkozóan, hogy az ajánlattevõ ajánlata benyújtásával 60 napig ajánlati kötöttséget vállal.<ujsor/>
-­ A benyújtott pályázathoz minden esetben csatolni kell a bánatpénz (ajánlati biztosíték) letétbe helyezését igazoló pénzintézeti igazolást, vagy készpénz esetén az arra vonatkozó bizonylatot, továbbá:<ujsor/>
-­ magánszemély esetén a személyi azonosságát igazoló hatósági igazolvány két tanú által hitelesített másolatát,<ujsor/>
-­ gazdasági társaság esetén 30 napnál nem régebbi hiteles cégkivonatot, illetõleg aláírási címpéldányt vagy ügyvéd által ellenjegyzett aláírási mintát,<ujsor/>
-­ egyéni vállalkozó esetén vagy a vállalkozói igazolvány hitelesített másolatát, vagy pedig az egyéni vállalkozó e minõségét más jogszabályi feltételeknek megfelelõ igazolását.<ujsor/>
-A pályázó köteles az általa pályázott vagyontárgynak pályázati hirdetményben megjelölt 10 M Ft-nál alacsonyabb összegû irányár esetén annak 5%-át, míg a 10 M Ft vagy 10 M Ft-nál magasabb összegû irányár esetén annak 3%-át ajánlati biztosítékként a felszámoló K&amp;H Bank Zrt.-nél vezetett 10402623-26211712-00000000 számú számlájára átutalni, illetve készpénzben ajánlati biztosítékként (bánatpénz) személyesen a felszámoló (6722 Szeged, Jósika u. 41.) irodájában befizetni (a befizetés igazolását a pályázathoz mellékelni kell).<ujsor/>
-Amennyiben a bánatpénz banki utalással kerül kifizetésre, annak legkésõbb az ajánlat benyújtására nyitva álló határidõ utolsó napját megelõzõen jóváírásra kell kerülnie a fenti számlán. Az utaláson fel kell tüntetni a „Biztonsági Üzem Kft. f. a. bánatpénz” megjelölést. A bánatpénz eredményes pályázat esetén a vételárba beszámít. Ha a szerzõdés a vevõ érdekkörében felmerülõ okból nem jön létre, a vevõ a pályázati biztosítékot elveszíti, a felszámoló ezt az összeget az értékesítési bevétel részeként számolja el. Az eredménytelen, illetve érvénytelen pályázat esetén a bánatpénz a pályázatok értékelését követõen 8 munkanapon belül kamatmentesen kerül visszafizetésre.<ujsor/>
-B) Vétel megfizetésének módja, határideje, szerzõdéskötés:<ujsor/>
-­ sikeres pályázat esetén a vételár megfizetésének módja történhet készpénzben, valamint átutalással is a fentiekben szereplõ, a felszámoló által megadott számlaszámra,<ujsor/>
-­ a vételár megfizetésének határideje a szerzõdéskötéstõl számított 30. nap,<ujsor/>
-­ szerzõdéskötés végsõ határideje a pályázati kiírás lejártát követõ 60. nap, eddig köteles a pályázó is az ajánlata benyújtásával kötöttséget vállalni,<ujsor/>
-­ a szerzõdéskötéssel kapcsolatos költségek a nyertes pályázót terhelik, a szerzõdést a felszámoló készítteti el.<ujsor/>
-C) A felszámoló az ajánlattevõt az alábbiakról tájékoztatja:<ujsor/>
-Az ajánlatok felbontása nem nyilvános úton, hanem a felszámolóbiztos és a közjegyzõ jelenlétében történik a pályázati határidõ lejártát követõen 15 napon belül. A beérkezett ajánlatokat a felszámoló a bontást követõ 15 napon belül értékeli és vevõkijelölés útján dönt az ajánlat elfogadásáról. Ezt követõ 15 napon belül köti meg a szerzõdést a vevõvel. A vagyontárgyak birtokba-, illetõleg tulajdonba adására a vételárnak a szerzõdés szerinti teljes kiegyenlítése esetén kerül sor.<ujsor/>
-Az ajánlatot tevõket a pályázat eredményérõl a bontástól számított 15 napon belül a felszámoló értesíti.<ujsor/>
-A felszámoló elõnyösebbnek minõsítheti azt az ajánlatot, amelyben magasabb vételárat jelölt meg az ajánlattevõ, illetõleg kedvezõbb elbírálást nyerhet az az ajánlat is, amely a vagyonelemek szélesebb körére vagy azok együttes megvásárlására vonatkozik.<ujsor/>
-A pályázati határidõt követõen érkezett ajánlat, valamint a tartalmi, illetõleg a formai követelményeknek meg nem felelõ pályázat érvénytelen, azokat a felszámoló elutasítja.<ujsor/>
-Amennyiben az egyes vagyontárgyak vonatkozásában több azonos értékû (a vételár vonatkozásában legfeljebb 10%-kal eltérõ) ajánlat érkezik, a felszámoló a pályázat nyertesének eldöntése érdekében ártárgyalást tûz ki, melynek feltételeirõl, idõpontjáról és helyérõl az érdekelteket értesíti.<ujsor/>
-A meghirdetett vagyontárgyak az általános forgalmi adó hatálya alá tartozó adóalanyok esetében az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 142. § alapján kerülnek értékesítésre.<ujsor/>
-A vagyontárgyak megtekintett állapotban kerülnek értékesítésre, a felszámoló a kellékszavatosságot kizárja.<ujsor/>
-A vagyontárgyakra önállóan, illetõleg együttesen is tehetõ ajánlat.<ujsor/>
-A felszámoló a vagyontárgyakat érintõen beszámításra vonatkozó ajánlatot nem fogad el.<ujsor/>
-A felszámoló felhívja az elõvásárlásra jogosultak figyelmét, hogy e jogukat ­ igazoltan ­ a nyilvános pályázat keretein belül gyakorolhatják és ezen szándékukat a pályázati határidõn belül írásban jelentsék be a felszámolónak. Amennyiben az elõvásárlásra jogosult a rendelkezésére álló határidõn belül nem nyilatkozik, illetõleg a vételi ajánlatot teljes körûen nem fogadja el, valamint az adásvételi szerzõdést nem köti meg, a felszámoló úgy tekinti, hogy elõvásárlási jogával nem kíván élni.<ujsor/>
-A felszámoló fenntartja a jogot, hogy a pályázatot megfelelõ ajánlat hiányában eredménytelennek nyilvánítsa.<ujsor/>
-A vagyontárgyak elõre egyeztetett idõpontban megtekinthetõek. A pályázattal kapcsolatosan további információ kérhetõ munkanapokon 8­16 óra között a felszámoló Csongrád megyei képviseletén dr. Pusztai Gábor felszámolóbiztostól a 06 (30) 983-1223-as mobilszámon, illetõleg a 06 (62) 543-260-as telefonszámon és bõvebb adatok, fényképek megtekinthetõk a www.felszamolas-eszkozok.hu oldalon.<ujsor/>
+<mezo id = "szoveg">A Budapest Holding ElsÅ‘ Hazai VagyonkezelÅ‘ Zrt. (Cg.: [01 10 041192]; szÃ©khely: 1062 Budapest, AndrÃ¡ssy Ãºt 91. I. 3.) CsongrÃ¡d Megyei KÃ©pviselete (6722 Szeged, JÃ³sika u. 41.) megbÃ­zÃ¡sÃ¡bÃ³l eljÃ¡rÃ³ dr. Pusztai GÃ¡bor mint a BiztonsÃ¡gi Ãœzem Kft. â€f. a.â€ (Cg.: [06 09 010781]; szÃ©khely: 6723 Szeged, RÃ³mai krt. 21.; adÃ³szÃ¡m: [11047739-2-06]) CsongrÃ¡d Megyei BÃ­rÃ³sÃ¡g 14. Fpk. 06-10-000475/8. szÃ¡mÃº vÃ©gzÃ©sÃ©ben kijelÃ¶lt felszÃ¡molÃ³ja<ujsor/>
+nyilvÃ¡nos pÃ¡lyÃ¡zat<ujsor/>
+ÃºtjÃ¡n Ã©rtÃ©kesÃ­teni kÃ­vÃ¡nja az adÃ³s gazdÃ¡lkodÃ³ szervezet tulajdonÃ¡t kÃ©pezÅ‘ alÃ¡bbi vagyonelemeket:<ujsor/>
+I. GÃ©pjÃ¡rmÅ±:<ujsor/>
+GyÃ¡rtmÃ¡ny: LIAZ.<ujsor/>
+TÃ­pus: 12.10 BOBR.<ujsor/>
+Kivitel: 3 szemÃ©lyes.<ujsor/>
+KarosszÃ©ria szÃ­ne: fehÃ©r.<ujsor/>
+GyÃ¡rtÃ¡si Ã©v: 1988.<ujsor/>
+HengerÅ±rtartalom: 11.940 cm3.<ujsor/>
+TeljesÃ­tmÃ©ny: 170 kW.<ujsor/>
+MegjegyzÃ©s: Ã¶nindÃ­tÃ³ hibÃ¡val.<ujsor/>
+IrÃ¡nyÃ¡r: 720 000 Ft (+ Ã¡fa), bruttÃ³ 900 000 Ft.<ujsor/>
+II. GÃ©pjÃ¡rmÅ±:<ujsor/>
+GyÃ¡rtmÃ¡ny: LIAZ.<ujsor/>
+TÃ­pus: 110.850.<ujsor/>
+Kivitel: 2 szemÃ©lyes.<ujsor/>
+KarosszÃ©ria szÃ­ne: narancs.<ujsor/>
+GyÃ¡rtÃ¡si Ã©v: 1987.<ujsor/>
+HengerÅ±rtartalom: 11.940 cm3.<ujsor/>
+TeljesÃ­tmÃ©ny: 162 kW.<ujsor/>
+MegjegyzÃ©s: Ã¼zemkÃ©ptelen Ã¡llapotÃº.<ujsor/>
+IrÃ¡nyÃ¡r: 720 000 Ft (+ Ã¡fa), bruttÃ³ 900 000 Ft.<ujsor/>
+III. GÃ©pjÃ¡rmÅ±:<ujsor/>
+GyÃ¡rtmÃ¡ny: LIAZ.<ujsor/>
+TÃ­pus: 110.073.<ujsor/>
+Kivitel: 2 szemÃ©lyes.<ujsor/>
+KarosszÃ©ria szÃ­ne: narancs.<ujsor/>
+GyÃ¡rtÃ¡si Ã©v: 1989.<ujsor/>
+HengerÅ±rtartalom: 11.940 cm3.<ujsor/>
+TeljesÃ­tmÃ©ny: 147 kW.<ujsor/>
+IrÃ¡nyÃ¡r: 960 000 Ft (+ Ã¡fa), bruttÃ³ 1 200 000 Ft.<ujsor/>
+IV. GÃ©pjÃ¡rmÅ±:<ujsor/>
+GyÃ¡rtmÃ¡ny: VOLVO.<ujsor/>
+TÃ­pus: FH 12 420.<ujsor/>
+Kivitel: 2 szemÃ©lyes.<ujsor/>
+KarosszÃ©ria szÃ­ne: fehÃ©r.<ujsor/>
+GyÃ¡rtÃ¡si Ã©v: 1997.<ujsor/>
+HengerÅ±rtartalom: 12.130 cm3.<ujsor/>
+TeljesÃ­tmÃ©ny: 309 kW.<ujsor/>
+MegjegyzÃ©s: esztÃ©tikai hibÃ¡kkal, motor porlasztÃ³ hiba.<ujsor/>
+IrÃ¡nyÃ¡r: 2 720 000 Ft (+ Ã¡fa), bruttÃ³ 3 400 000 Ft.<ujsor/>
+V. BillenÅ‘s pÃ³tkocsi:<ujsor/>
+GyÃ¡rtmÃ¡ny: CARNHEL.<ujsor/>
+TÃ­pus: CHKS/AL.<ujsor/>
+KarosszÃ©ria szÃ­ne: fekete.<ujsor/>
+IrÃ¡nyÃ¡r: 3 840 000 Ft (+ Ã¡fa), bruttÃ³ 4 800 000 Ft.<ujsor/>
+VI. PÃ³tkocsi:<ujsor/>
+GyÃ¡rtmÃ¡ny: SCHWARZMÃœLLER.<ujsor/>
+TÃ­pus: SPA 3/E.<ujsor/>
+KarosszÃ©ria szÃ­ne: fekete.<ujsor/>
+GyÃ¡rtÃ¡si Ã©v: 1998.<ujsor/>
+MegjegyzÃ©s: ponyva hiÃ¡nyzik.<ujsor/>
+IrÃ¡nyÃ¡r: 560 000 Ft (+ Ã¡fa), bruttÃ³ 700 000 Ft.<ujsor/>
+VII. KÃ¶vetelÃ©s<ujsor/>
+A nyilvÃ¡nos pÃ¡lyÃ¡zat sorÃ¡n a felszÃ¡molÃ³ Ã©rtÃ©kesÃ­teni kÃ­vÃ¡nja az adÃ³s gazdÃ¡lkodÃ³ szervezet kifejezetten bizonytalan vevÅ‘ kÃ¶vetelÃ©sÃ©t, mely a â€SZEVIÃ‰Pâ€ Szerkezet- Ã©s VÃ­zÃ©pÃ­tÅ‘ Kft. â€f. a.â€-val (6723 Szeged, RÃ³mai krt. 21.) szemben Ã¡ll fenn 65 602 436 Ft Ã©rtÃ©kben.<ujsor/>
+A â€SZEVIÃ‰Pâ€ Szerkezet- Ã©s VÃ­zÃ©pÃ­tÅ‘ Kft. â€f. a.â€ felszÃ¡molÃ³ja, a CASH &amp; LIMES VagyonkezelÅ‘ Ã©s FelszÃ¡molÃ³ Zrt. (1146 Budapest, ChÃ¡zÃ¡r AndrÃ¡s u. 9.) a BiztonsÃ¡gi Ãœzem Kft. â€f. a.â€ kÃ¶vetelÃ©sÃ©t a felszÃ¡molÃ³ elismerte Ã©s â€hâ€ kategÃ³riÃ¡ba sorolta be.<ujsor/>
+IrÃ¡nyÃ¡r: a kÃ¶vetelÃ©s Ã¶sszegÃ©nek 10%-a.<ujsor/>
+VIII. KÃ¶vetelÃ©s A nyilvÃ¡nos pÃ¡lyÃ¡zat sorÃ¡n a felszÃ¡molÃ³ Ã©rtÃ©kesÃ­teni kÃ­vÃ¡nja a BiztonsÃ¡gi Ãœzem Kft. â€f. a.â€ 108 555 000 Ft Ã¶sszegÅ± bizonytalan kÃ¶vetelÃ©sÃ©t, melyre vonatkozÃ³an a CsongrÃ¡d Megyei BÃ­rÃ³sÃ¡g rÃ©szÃ©rÅ‘l 11.G.40.035/2011/15/1. szÃ¡mÃº jogerÅ‘s vÃ©gzÃ©s szÃ¼letett.<ujsor/>
+IrÃ¡nyÃ¡r: a kÃ¶vetelÃ©s Ã¶sszegÃ©nek 10%-a.<ujsor/>
+A) A pÃ¡lyÃ¡zaton valÃ³ rÃ©szvÃ©tel feltÃ©telei:<ujsor/>
+Â­ Az ajÃ¡nlatokat legkÃ©sÅ‘bb a jelen hirdetmÃ©ny CÃ©gkÃ¶zlÃ¶nyben tÃ¶rtÃ©nÅ‘ megjelenÃ©sÃ©t kÃ¶vetÅ‘ 15 napon, amennyiben az munkaszÃ¼neti nap, akkor az azt kÃ¶vetÅ‘ munkanapon 12 Ã³rÃ¡ig szemÃ©lyesen a felszÃ¡molÃ³ (6722 Szeged, JÃ³sika u. 41.) irodÃ¡jÃ¡ban lehet leadni vagy tÃ©rtivevÃ©nyes kÃ¼ldemÃ©nykÃ©nt postÃ¡ra adni kettÅ‘s, zÃ¡rt borÃ­tÃ©kban, kÃ©t egyezÅ‘ pÃ©ldÃ¡nyban. A belsÅ‘ borÃ­tÃ©k a feladÃ³ra vonatkozÃ³ semminemÅ± utalÃ¡st nem tartalmazhat, azon kizÃ¡rÃ³lag csak a â€BiztonsÃ¡gi Ãœzem Kft. f. a.â€ megjelÃ¶lÃ©s szerepelhet.<ujsor/>
+Â­ Az ajÃ¡nlatnak tartalmaznia kell:<ujsor/>
+Â­ az ajÃ¡nlattevÅ‘ adatait (magÃ¡nszemÃ©ly esetÃ©n szemÃ©lyi adatait; gazdÃ¡lkodÃ³ szervezet esetÃ©n: cÃ©gnevet, szÃ©khelyet, adÃ³szÃ¡mot, bankszÃ¡mlaszÃ¡mot Ã©s a kÃ©pviseletre jogosult adatait),<ujsor/>
+Â­ a vagyontÃ¡rgy megjelÃ¶lÃ©sÃ©t, megajÃ¡nlott nettÃ³, illetÅ‘leg bruttÃ³ ajÃ¡nlati Ã¡rat,<ujsor/>
+Â­ a fizetÃ©s mÃ³djÃ¡t, feltÃ©teleit Ã©s a fizetÃ©si hatÃ¡ridÅ‘t,<ujsor/>
+Â­ tovÃ¡bbÃ¡ nyilatkozatot arra vonatkozÃ³an, hogy az ajÃ¡nlattevÅ‘ ajÃ¡nlata benyÃºjtÃ¡sÃ¡val 60 napig ajÃ¡nlati kÃ¶tÃ¶ttsÃ©get vÃ¡llal.<ujsor/>
+Â­ A benyÃºjtott pÃ¡lyÃ¡zathoz minden esetben csatolni kell a bÃ¡natpÃ©nz (ajÃ¡nlati biztosÃ­tÃ©k) letÃ©tbe helyezÃ©sÃ©t igazolÃ³ pÃ©nzintÃ©zeti igazolÃ¡st, vagy kÃ©szpÃ©nz esetÃ©n az arra vonatkozÃ³ bizonylatot, tovÃ¡bbÃ¡:<ujsor/>
+Â­ magÃ¡nszemÃ©ly esetÃ©n a szemÃ©lyi azonossÃ¡gÃ¡t igazolÃ³ hatÃ³sÃ¡gi igazolvÃ¡ny kÃ©t tanÃº Ã¡ltal hitelesÃ­tett mÃ¡solatÃ¡t,<ujsor/>
+Â­ gazdasÃ¡gi tÃ¡rsasÃ¡g esetÃ©n 30 napnÃ¡l nem rÃ©gebbi hiteles cÃ©gkivonatot, illetÅ‘leg alÃ¡Ã­rÃ¡si cÃ­mpÃ©ldÃ¡nyt vagy Ã¼gyvÃ©d Ã¡ltal ellenjegyzett alÃ¡Ã­rÃ¡si mintÃ¡t,<ujsor/>
+Â­ egyÃ©ni vÃ¡llalkozÃ³ esetÃ©n vagy a vÃ¡llalkozÃ³i igazolvÃ¡ny hitelesÃ­tett mÃ¡solatÃ¡t, vagy pedig az egyÃ©ni vÃ¡llalkozÃ³ e minÅ‘sÃ©gÃ©t mÃ¡s jogszabÃ¡lyi feltÃ©teleknek megfelelÅ‘ igazolÃ¡sÃ¡t.<ujsor/>
+A pÃ¡lyÃ¡zÃ³ kÃ¶teles az Ã¡ltala pÃ¡lyÃ¡zott vagyontÃ¡rgynak pÃ¡lyÃ¡zati hirdetmÃ©nyben megjelÃ¶lt 10 M Ft-nÃ¡l alacsonyabb Ã¶sszegÅ± irÃ¡nyÃ¡r esetÃ©n annak 5%-Ã¡t, mÃ­g a 10 M Ft vagy 10 M Ft-nÃ¡l magasabb Ã¶sszegÅ± irÃ¡nyÃ¡r esetÃ©n annak 3%-Ã¡t ajÃ¡nlati biztosÃ­tÃ©kkÃ©nt a felszÃ¡molÃ³ K&amp;H Bank Zrt.-nÃ©l vezetett 10402623-26211712-00000000 szÃ¡mÃº szÃ¡mlÃ¡jÃ¡ra Ã¡tutalni, illetve kÃ©szpÃ©nzben ajÃ¡nlati biztosÃ­tÃ©kkÃ©nt (bÃ¡natpÃ©nz) szemÃ©lyesen a felszÃ¡molÃ³ (6722 Szeged, JÃ³sika u. 41.) irodÃ¡jÃ¡ban befizetni (a befizetÃ©s igazolÃ¡sÃ¡t a pÃ¡lyÃ¡zathoz mellÃ©kelni kell).<ujsor/>
+Amennyiben a bÃ¡natpÃ©nz banki utalÃ¡ssal kerÃ¼l kifizetÃ©sre, annak legkÃ©sÅ‘bb az ajÃ¡nlat benyÃºjtÃ¡sÃ¡ra nyitva Ã¡llÃ³ hatÃ¡ridÅ‘ utolsÃ³ napjÃ¡t megelÅ‘zÅ‘en jÃ³vÃ¡Ã­rÃ¡sra kell kerÃ¼lnie a fenti szÃ¡mlÃ¡n. Az utalÃ¡son fel kell tÃ¼ntetni a â€BiztonsÃ¡gi Ãœzem Kft. f. a. bÃ¡natpÃ©nzâ€ megjelÃ¶lÃ©st. A bÃ¡natpÃ©nz eredmÃ©nyes pÃ¡lyÃ¡zat esetÃ©n a vÃ©telÃ¡rba beszÃ¡mÃ­t. Ha a szerzÅ‘dÃ©s a vevÅ‘ Ã©rdekkÃ¶rÃ©ben felmerÃ¼lÅ‘ okbÃ³l nem jÃ¶n lÃ©tre, a vevÅ‘ a pÃ¡lyÃ¡zati biztosÃ­tÃ©kot elveszÃ­ti, a felszÃ¡molÃ³ ezt az Ã¶sszeget az Ã©rtÃ©kesÃ­tÃ©si bevÃ©tel rÃ©szekÃ©nt szÃ¡molja el. Az eredmÃ©nytelen, illetve Ã©rvÃ©nytelen pÃ¡lyÃ¡zat esetÃ©n a bÃ¡natpÃ©nz a pÃ¡lyÃ¡zatok Ã©rtÃ©kelÃ©sÃ©t kÃ¶vetÅ‘en 8 munkanapon belÃ¼l kamatmentesen kerÃ¼l visszafizetÃ©sre.<ujsor/>
+B) VÃ©tel megfizetÃ©sÃ©nek mÃ³dja, hatÃ¡rideje, szerzÅ‘dÃ©skÃ¶tÃ©s:<ujsor/>
+Â­ sikeres pÃ¡lyÃ¡zat esetÃ©n a vÃ©telÃ¡r megfizetÃ©sÃ©nek mÃ³dja tÃ¶rtÃ©nhet kÃ©szpÃ©nzben, valamint Ã¡tutalÃ¡ssal is a fentiekben szereplÅ‘, a felszÃ¡molÃ³ Ã¡ltal megadott szÃ¡mlaszÃ¡mra,<ujsor/>
+Â­ a vÃ©telÃ¡r megfizetÃ©sÃ©nek hatÃ¡rideje a szerzÅ‘dÃ©skÃ¶tÃ©stÅ‘l szÃ¡mÃ­tott 30. nap,<ujsor/>
+Â­ szerzÅ‘dÃ©skÃ¶tÃ©s vÃ©gsÅ‘ hatÃ¡rideje a pÃ¡lyÃ¡zati kiÃ­rÃ¡s lejÃ¡rtÃ¡t kÃ¶vetÅ‘ 60. nap, eddig kÃ¶teles a pÃ¡lyÃ¡zÃ³ is az ajÃ¡nlata benyÃºjtÃ¡sÃ¡val kÃ¶tÃ¶ttsÃ©get vÃ¡llalni,<ujsor/>
+Â­ a szerzÅ‘dÃ©skÃ¶tÃ©ssel kapcsolatos kÃ¶ltsÃ©gek a nyertes pÃ¡lyÃ¡zÃ³t terhelik, a szerzÅ‘dÃ©st a felszÃ¡molÃ³ kÃ©szÃ­tteti el.<ujsor/>
+C) A felszÃ¡molÃ³ az ajÃ¡nlattevÅ‘t az alÃ¡bbiakrÃ³l tÃ¡jÃ©koztatja:<ujsor/>
+Az ajÃ¡nlatok felbontÃ¡sa nem nyilvÃ¡nos Ãºton, hanem a felszÃ¡molÃ³biztos Ã©s a kÃ¶zjegyzÅ‘ jelenlÃ©tÃ©ben tÃ¶rtÃ©nik a pÃ¡lyÃ¡zati hatÃ¡ridÅ‘ lejÃ¡rtÃ¡t kÃ¶vetÅ‘en 15 napon belÃ¼l. A beÃ©rkezett ajÃ¡nlatokat a felszÃ¡molÃ³ a bontÃ¡st kÃ¶vetÅ‘ 15 napon belÃ¼l Ã©rtÃ©keli Ã©s vevÅ‘kijelÃ¶lÃ©s ÃºtjÃ¡n dÃ¶nt az ajÃ¡nlat elfogadÃ¡sÃ¡rÃ³l. Ezt kÃ¶vetÅ‘ 15 napon belÃ¼l kÃ¶ti meg a szerzÅ‘dÃ©st a vevÅ‘vel. A vagyontÃ¡rgyak birtokba-, illetÅ‘leg tulajdonba adÃ¡sÃ¡ra a vÃ©telÃ¡rnak a szerzÅ‘dÃ©s szerinti teljes kiegyenlÃ­tÃ©se esetÃ©n kerÃ¼l sor.<ujsor/>
+Az ajÃ¡nlatot tevÅ‘ket a pÃ¡lyÃ¡zat eredmÃ©nyÃ©rÅ‘l a bontÃ¡stÃ³l szÃ¡mÃ­tott 15 napon belÃ¼l a felszÃ¡molÃ³ Ã©rtesÃ­ti.<ujsor/>
+A felszÃ¡molÃ³ elÅ‘nyÃ¶sebbnek minÅ‘sÃ­theti azt az ajÃ¡nlatot, amelyben magasabb vÃ©telÃ¡rat jelÃ¶lt meg az ajÃ¡nlattevÅ‘, illetÅ‘leg kedvezÅ‘bb elbÃ­rÃ¡lÃ¡st nyerhet az az ajÃ¡nlat is, amely a vagyonelemek szÃ©lesebb kÃ¶rÃ©re vagy azok egyÃ¼ttes megvÃ¡sÃ¡rlÃ¡sÃ¡ra vonatkozik.<ujsor/>
+A pÃ¡lyÃ¡zati hatÃ¡ridÅ‘t kÃ¶vetÅ‘en Ã©rkezett ajÃ¡nlat, valamint a tartalmi, illetÅ‘leg a formai kÃ¶vetelmÃ©nyeknek meg nem felelÅ‘ pÃ¡lyÃ¡zat Ã©rvÃ©nytelen, azokat a felszÃ¡molÃ³ elutasÃ­tja.<ujsor/>
+Amennyiben az egyes vagyontÃ¡rgyak vonatkozÃ¡sÃ¡ban tÃ¶bb azonos Ã©rtÃ©kÅ± (a vÃ©telÃ¡r vonatkozÃ¡sÃ¡ban legfeljebb 10%-kal eltÃ©rÅ‘) ajÃ¡nlat Ã©rkezik, a felszÃ¡molÃ³ a pÃ¡lyÃ¡zat nyertesÃ©nek eldÃ¶ntÃ©se Ã©rdekÃ©ben Ã¡rtÃ¡rgyalÃ¡st tÅ±z ki, melynek feltÃ©teleirÅ‘l, idÅ‘pontjÃ¡rÃ³l Ã©s helyÃ©rÅ‘l az Ã©rdekelteket Ã©rtesÃ­ti.<ujsor/>
+A meghirdetett vagyontÃ¡rgyak az Ã¡ltalÃ¡nos forgalmi adÃ³ hatÃ¡lya alÃ¡ tartozÃ³ adÃ³alanyok esetÃ©ben az Ã¡ltalÃ¡nos forgalmi adÃ³rÃ³l szÃ³lÃ³ 2007. Ã©vi CXXVII. tÃ¶rvÃ©ny 142. Â§ alapjÃ¡n kerÃ¼lnek Ã©rtÃ©kesÃ­tÃ©sre.<ujsor/>
+A vagyontÃ¡rgyak megtekintett Ã¡llapotban kerÃ¼lnek Ã©rtÃ©kesÃ­tÃ©sre, a felszÃ¡molÃ³ a kellÃ©kszavatossÃ¡got kizÃ¡rja.<ujsor/>
+A vagyontÃ¡rgyakra Ã¶nÃ¡llÃ³an, illetÅ‘leg egyÃ¼ttesen is tehetÅ‘ ajÃ¡nlat.<ujsor/>
+A felszÃ¡molÃ³ a vagyontÃ¡rgyakat Ã©rintÅ‘en beszÃ¡mÃ­tÃ¡sra vonatkozÃ³ ajÃ¡nlatot nem fogad el.<ujsor/>
+A felszÃ¡molÃ³ felhÃ­vja az elÅ‘vÃ¡sÃ¡rlÃ¡sra jogosultak figyelmÃ©t, hogy e jogukat Â­ igazoltan Â­ a nyilvÃ¡nos pÃ¡lyÃ¡zat keretein belÃ¼l gyakorolhatjÃ¡k Ã©s ezen szÃ¡ndÃ©kukat a pÃ¡lyÃ¡zati hatÃ¡ridÅ‘n belÃ¼l Ã­rÃ¡sban jelentsÃ©k be a felszÃ¡molÃ³nak. Amennyiben az elÅ‘vÃ¡sÃ¡rlÃ¡sra jogosult a rendelkezÃ©sÃ©re Ã¡llÃ³ hatÃ¡ridÅ‘n belÃ¼l nem nyilatkozik, illetÅ‘leg a vÃ©teli ajÃ¡nlatot teljes kÃ¶rÅ±en nem fogadja el, valamint az adÃ¡svÃ©teli szerzÅ‘dÃ©st nem kÃ¶ti meg, a felszÃ¡molÃ³ Ãºgy tekinti, hogy elÅ‘vÃ¡sÃ¡rlÃ¡si jogÃ¡val nem kÃ­vÃ¡n Ã©lni.<ujsor/>
+A felszÃ¡molÃ³ fenntartja a jogot, hogy a pÃ¡lyÃ¡zatot megfelelÅ‘ ajÃ¡nlat hiÃ¡nyÃ¡ban eredmÃ©nytelennek nyilvÃ¡nÃ­tsa.<ujsor/>
+A vagyontÃ¡rgyak elÅ‘re egyeztetett idÅ‘pontban megtekinthetÅ‘ek. A pÃ¡lyÃ¡zattal kapcsolatosan tovÃ¡bbi informÃ¡ciÃ³ kÃ©rhetÅ‘ munkanapokon 8Â­16 Ã³ra kÃ¶zÃ¶tt a felszÃ¡molÃ³ CsongrÃ¡d megyei kÃ©pviseletÃ©n dr. Pusztai GÃ¡bor felszÃ¡molÃ³biztostÃ³l a 06 (30) 983-1223-as mobilszÃ¡mon, illetÅ‘leg a 06 (62) 543-260-as telefonszÃ¡mon Ã©s bÅ‘vebb adatok, fÃ©nykÃ©pek megtekinthetÅ‘k a www.felszamolas-eszkozok.hu oldalon.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0609010781</mezo>
-<mezo id = "nev">Biztonsági Üzem Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">BiztonsÃ¡gi Ãœzem KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">6723 Szeged</mezo>
 </alrovat>
 </rovat>

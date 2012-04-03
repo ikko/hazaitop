@@ -6,7 +6,7 @@
 <mezo id = "szam">000474</mezo>
 <mezo id = "nevalrovat">1</mezo>
 <mezo id = "allapot">6</mezo>
-<mezo id = "cim">1032 Budapest, Vörösvári út 88-96. </mezo>
+<mezo id = "cim">1032 Budapest, VÃ¶rÃ¶svÃ¡ri Ãºt 88-96. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">21813278241</mezo>
 </alrovat>
@@ -14,7 +14,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20030919</mezo>
-<mezo id = "nev">Óbuda-Békásmegyer Egészségügyi Szolgáltató Közhasznú Társaság</mezo>
+<mezo id = "nev">Ã“buda-BÃ©kÃ¡smegyer EgÃ©szsÃ©gÃ¼gyi SzolgÃ¡ltatÃ³ KÃ¶zhasznÃº TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
@@ -22,7 +22,7 @@
 <mezo id = "hattol">20081126</mezo>
 <mezo id = "irsz">1032</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Vörösvári út 88-96.</mezo>
+<mezo id = "teru">VÃ¶rÃ¶svÃ¡ri Ãºt 88-96.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">20081126</mezo>
 <mezo id = "valtv">0</mezo>
@@ -664,10 +664,10 @@
 <rovat id = "13">
 <alrovat id = "3">
 <mezo id = "hattol">20081126</mezo>
-<mezo id = "pnev">dr. Várszegi József</mezo>
+<mezo id = "pnev">dr. VÃ¡rszegi JÃ³zsef</mezo>
 <mezo id = "panev">Linduska Anna</mezo>
 <mezo id = "pirsz">8900</mezo>
-<mezo id = "phely">Zalaegerszeg, Lépcsõsor utca 25.</mezo>
+<mezo id = "phely">Zalaegerszeg, LÃ©pcsÅ‘sor utca 25.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">d</mezo>
 <mezo id = "jogvk">20081201</mezo>
@@ -681,10 +681,10 @@
 <rovat id = "14">
 <alrovat id = "3">
 <mezo id = "hattol">20070815</mezo>
-<mezo id = "pnev">Pásti István</mezo>
-<mezo id = "panev">Horváth Mária</mezo>
+<mezo id = "pnev">PÃ¡sti IstvÃ¡n</mezo>
+<mezo id = "panev">HorvÃ¡th MÃ¡ria</mezo>
 <mezo id = "pirsz">9700</mezo>
-<mezo id = "phely">Szombathely, Rumi út 203.</mezo>
+<mezo id = "phely">Szombathely, Rumi Ãºt 203.</mezo>
 <mezo id = "jogvk">20070815</mezo>
 <mezo id = "jogvv">20120815</mezo>
 <mezo id = "valtk">20070815</mezo>
@@ -696,17 +696,17 @@
 <rovat id = "15">
 <alrovat id = "8">
 <mezo id = "hattol">20030919</mezo>
-<mezo id = "pnev">Dr. Weltner Klára</mezo>
-<mezo id = "panev">Steinitz Klára</mezo>
+<mezo id = "pnev">Dr. Weltner KlÃ¡ra</mezo>
+<mezo id = "panev">Steinitz KlÃ¡ra</mezo>
 <mezo id = "pirsz">1146</mezo>
 <mezo id = "phely">Budapest, Abonyi u. 19.</mezo>
 </alrovat>
 <alrovat id = "21">
 <mezo id = "hattol">20070627</mezo>
-<mezo id = "pnev">Kemény Krisztina</mezo>
-<mezo id = "panev">Sándor Margit</mezo>
+<mezo id = "pnev">KemÃ©ny Krisztina</mezo>
+<mezo id = "panev">SÃ¡ndor Margit</mezo>
 <mezo id = "pirsz">1033</mezo>
-<mezo id = "phely">Budapest, Harrer Pál u. 16. 9. em. 53.</mezo>
+<mezo id = "phely">Budapest, Harrer PÃ¡l u. 16. 9. em. 53.</mezo>
 <mezo id = "jogvk">20070627</mezo>
 <mezo id = "jogvv">20120627</mezo>
 <mezo id = "valtk">20070627</mezo>
@@ -716,10 +716,10 @@
 </alrovat>
 <alrovat id = "22">
 <mezo id = "hattol">20070627</mezo>
-<mezo id = "pnev">Debreczeny István</mezo>
+<mezo id = "pnev">Debreczeny IstvÃ¡n</mezo>
 <mezo id = "panev">Auffenberg Margit</mezo>
 <mezo id = "pirsz">1038</mezo>
-<mezo id = "phely">Budapest, Valéria u. 4-6.</mezo>
+<mezo id = "phely">Budapest, ValÃ©ria u. 4-6.</mezo>
 <mezo id = "jogvk">20070627</mezo>
 <mezo id = "jogvv">20120627</mezo>
 <mezo id = "valtk">20070627</mezo>
@@ -730,7 +730,7 @@
 <alrovat id = "23">
 <mezo id = "hattol">20070627</mezo>
 <mezo id = "pnev">dr. Badacsonyi Szabolcs</mezo>
-<mezo id = "panev">Kinorányi Enikõ</mezo>
+<mezo id = "panev">KinorÃ¡nyi EnikÅ‘</mezo>
 <mezo id = "pirsz">1039</mezo>
 <mezo id = "phely">Budapest, Czetz J. u. 67.</mezo>
 <mezo id = "jogvk">20070627</mezo>
@@ -745,7 +745,7 @@
 <mezo id = "pnev">Seres Gabriella</mezo>
 <mezo id = "panev">Gyurics Anna</mezo>
 <mezo id = "pirsz">1039</mezo>
-<mezo id = "phely">Budapest, József Attila u. 47.</mezo>
+<mezo id = "phely">Budapest, JÃ³zsef Attila u. 47.</mezo>
 <mezo id = "jogvk">20070627</mezo>
 <mezo id = "jogvv">20120627</mezo>
 <mezo id = "valtk">20070627</mezo>
@@ -755,10 +755,10 @@
 </alrovat>
 <alrovat id = "26">
 <mezo id = "hattol">20070627</mezo>
-<mezo id = "pnev">Mészáros György</mezo>
+<mezo id = "pnev">MÃ©szÃ¡ros GyÃ¶rgy</mezo>
 <mezo id = "panev">Dienes Ilona</mezo>
 <mezo id = "pirsz">1033</mezo>
-<mezo id = "phely">Budapest, Búza u. 16.</mezo>
+<mezo id = "phely">Budapest, BÃºza u. 16.</mezo>
 <mezo id = "jogvk">20070627</mezo>
 <mezo id = "jogvv">20120627</mezo>
 <mezo id = "valtk">20070627</mezo>
@@ -768,10 +768,10 @@
 </alrovat>
 <alrovat id = "27">
 <mezo id = "hattol">20080615</mezo>
-<mezo id = "pnev">Laczkó Szilvia</mezo>
-<mezo id = "panev">Volcsik Terézia</mezo>
+<mezo id = "pnev">LaczkÃ³ Szilvia</mezo>
+<mezo id = "panev">Volcsik TerÃ©zia</mezo>
 <mezo id = "pirsz">8622</mezo>
-<mezo id = "phely">Szántód, Csobánc utca 9.</mezo>
+<mezo id = "phely">SzÃ¡ntÃ³d, CsobÃ¡nc utca 9.</mezo>
 <mezo id = "jogvk">20080615</mezo>
 <mezo id = "jogvv">20130615</mezo>
 <mezo id = "valtk">20080615</mezo>
@@ -781,10 +781,10 @@
 </alrovat>
 <alrovat id = "28">
 <mezo id = "hattol">20080615</mezo>
-<mezo id = "pnev">Õri László</mezo>
+<mezo id = "pnev">Åri LÃ¡szlÃ³</mezo>
 <mezo id = "panev">Kassai Margit</mezo>
 <mezo id = "pirsz">9900</mezo>
-<mezo id = "phely">Körmend, Alkotás út 6.</mezo>
+<mezo id = "phely">KÃ¶rmend, AlkotÃ¡s Ãºt 6.</mezo>
 <mezo id = "jogvk">20080615</mezo>
 <mezo id = "jogvv">20130615</mezo>
 <mezo id = "valtk">20080615</mezo>
@@ -794,10 +794,10 @@
 </alrovat>
 <alrovat id = "29">
 <mezo id = "hattol">20080615</mezo>
-<mezo id = "pnev">dr. Újvári Adrienne</mezo>
+<mezo id = "pnev">dr. ÃšjvÃ¡ri Adrienne</mezo>
 <mezo id = "panev">Baghy Margit</mezo>
 <mezo id = "pirsz">2000</mezo>
-<mezo id = "phely">Szentendre, Barackos út 61.</mezo>
+<mezo id = "phely">Szentendre, Barackos Ãºt 61.</mezo>
 <mezo id = "jogvk">20080615</mezo>
 <mezo id = "jogvv">20130615</mezo>
 <mezo id = "valtk">20080615</mezo>
@@ -807,8 +807,8 @@
 </alrovat>
 <alrovat id = "30">
 <mezo id = "hattol">20080615</mezo>
-<mezo id = "pnev">dr. László Klára</mezo>
-<mezo id = "panev">Fehér Éva</mezo>
+<mezo id = "pnev">dr. LÃ¡szlÃ³ KlÃ¡ra</mezo>
+<mezo id = "panev">FehÃ©r Ã‰va</mezo>
 <mezo id = "pirsz">1016</mezo>
 <mezo id = "phely">Budapest, Naphegy utca 33.</mezo>
 <mezo id = "jogvk">20080615</mezo>
@@ -820,10 +820,10 @@
 </alrovat>
 <alrovat id = "31">
 <mezo id = "hattol">20080615</mezo>
-<mezo id = "pnev">dr. Endresz György</mezo>
+<mezo id = "pnev">dr. Endresz GyÃ¶rgy</mezo>
 <mezo id = "panev">Hajas Margit</mezo>
 <mezo id = "pirsz">1025</mezo>
-<mezo id = "phely">Budapest, Nagybányai utca 78/a.</mezo>
+<mezo id = "phely">Budapest, NagybÃ¡nyai utca 78/a.</mezo>
 <mezo id = "jogvk">20080615</mezo>
 <mezo id = "jogvv">20130615</mezo>
 <mezo id = "valtk">20080615</mezo>
@@ -855,11 +855,11 @@
 <rovat id = "0214">
 <alrovat id = "1">
 <mezo id = "hattol">20030919</mezo>
-<mezo id = "nev">Budapest Fõváros III. Kerület Óbuda-Békásmegyer Önkormányzat</mezo>
+<mezo id = "nev">Budapest FÅ‘vÃ¡ros III. KerÃ¼let Ã“buda-BÃ©kÃ¡smegyer Ã–nkormÃ¡nyzat</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1033</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Fõ tér</mezo>
+<mezo id = "teru">FÅ‘ tÃ©r</mezo>
 <mezo id = "hsz">03.</mezo>
 </alrovat>
 </rovat>
@@ -872,36 +872,36 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2003. 09. 19-én hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-15. Dr. Weltner Klára (an: Steinitz Klára)<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2003. 09. 19-Ã©n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+15. Dr. Weltner KlÃ¡ra (an: Steinitz KlÃ¡ra)<ujsor/>
 1146 Budapest, Abonyi u. 19.<ujsor/>
- A változás idõpontja (törlés): 2003. 09. 19.<ujsor/>
- Törölve: 2003. 09. 19.<ujsor/>
- dr. Weltner János (an: Steinitz Klára)<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2003. 09. 19.<ujsor/>
+ TÃ¶rÃ¶lve: 2003. 09. 19.<ujsor/>
+ dr. Weltner JÃ¡nos (an: Steinitz KlÃ¡ra)<ujsor/>
 1146 Budapest, Abonyi u. 19.<ujsor/>
  A jogviszony kezdete: 2003. 09. 19.<ujsor/>
- A jogviszony vége: 2006. 10. 26.<ujsor/>
- A változás idõpontja (törlés): 2006. 10. 26.<ujsor/>
+ A jogviszony vÃ©ge: 2006. 10. 26.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2006. 10. 26.<ujsor/>
  Bejegyezve: 2008. 05. 14.<ujsor/>
 2008. 05. 14.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0114000474</mezo>
-<mezo id = "nev">Óbuda-Békásmegyer Egészségügyi Szolgáltató Közhasznú Társaság</mezo>
-<mezo id = "cim">1032 Budapest, Vörösvári út 88-92.</mezo>
+<mezo id = "nev">Ã“buda-BÃ©kÃ¡smegyer EgÃ©szsÃ©gÃ¼gyi SzolgÃ¡ltatÃ³ KÃ¶zhasznÃº TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1032 Budapest, VÃ¶rÃ¶svÃ¡ri Ãºt 88-92.</mezo>
 <mezo id = "adosz">21813278241</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A cég átalakulás miatt a cégjegyzékbõl törölve.<ujsor/>
-A törlés kelte: 2009. 05. 25.<ujsor/>
-Jogutód(ok):<ujsor/>
- [01 09 917657] Szent Margit Rendelõintézet Nonprofit Korlátolt Felelõsségû Társaság.<ujsor/>
+<mezo id = "szoveg">A cÃ©g Ã¡talakulÃ¡s miatt a cÃ©gjegyzÃ©kbÅ‘l tÃ¶rÃ¶lve.<ujsor/>
+A tÃ¶rlÃ©s kelte: 2009. 05. 25.<ujsor/>
+JogutÃ³d(ok):<ujsor/>
+ [01 09 917657] Szent Margit RendelÅ‘intÃ©zet Nonprofit KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
 Bejegyezve: 2009. 05. 25.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0114000474</mezo>
-<mezo id = "nev">Óbuda-Békásmegyer Egészségügyi Szolgáltató Közhasznú Társaság</mezo>
-<mezo id = "cim">1032 Budapest, Vörösvári út 88-96.</mezo>
+<mezo id = "nev">Ã“buda-BÃ©kÃ¡smegyer EgÃ©szsÃ©gÃ¼gyi SzolgÃ¡ltatÃ³ KÃ¶zhasznÃº TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1032 Budapest, VÃ¶rÃ¶svÃ¡ri Ãºt 88-96.</mezo>
 <mezo id = "adosz">21813278241</mezo>
 </alrovat>
 </rovat>

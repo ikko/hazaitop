@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">000676</mezo>
 <mezo id = "nevalrovat">2</mezo>
-<mezo id = "cim">2890 Tata, Bacsó Béla ut. 37. </mezo>
+<mezo id = "cim">2890 Tata, BacsÃ³ BÃ©la ut. 37. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">10364093211</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">19920430</mezo>
-<mezo id = "nev">&quot;OMS-HUNGARIA&quot; Kommunális Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">&quot;OMS-HUNGARIA&quot; KommunÃ¡lis SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -33,7 +33,7 @@
 <mezo id = "hattol">19931101</mezo>
 <mezo id = "irsz">2890</mezo>
 <mezo id = "hely">Tata</mezo>
-<mezo id = "teru">Bacsó Béla ut. 37.</mezo>
+<mezo id = "teru">BacsÃ³ BÃ©la ut. 37.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "8">
@@ -237,7 +237,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090227</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Folyadék szállítására szolgáló közmû építése</mezo>
+<mezo id = "teaszov">FolyadÃ©k szÃ¡llÃ­tÃ¡sÃ¡ra szolgÃ¡lÃ³ kÃ¶zmÅ± Ã©pÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "111">
 <mezo id = "hattol">20080624</mezo>
@@ -255,7 +255,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090227</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb mûanyag termék gyártása</mezo>
+<mezo id = "teaszov">EgyÃ©b mÅ±anyag termÃ©k gyÃ¡rtÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "112">
 <mezo id = "hattol">20080624</mezo>
@@ -273,7 +273,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090227</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Fémszerkezet gyártása</mezo>
+<mezo id = "teaszov">FÃ©mszerkezet gyÃ¡rtÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "113">
 <mezo id = "hattol">20080624</mezo>
@@ -291,7 +291,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090227</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Fém épületelem gyártása</mezo>
+<mezo id = "teaszov">FÃ©m Ã©pÃ¼letelem gyÃ¡rtÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "114">
 <mezo id = "hattol">20080624</mezo>
@@ -309,7 +309,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090227</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Szerelvény gyártása</mezo>
+<mezo id = "teaszov">SzerelvÃ©ny gyÃ¡rtÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "115">
 <mezo id = "hattol">20080624</mezo>
@@ -327,7 +327,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090227</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Emelõ-, anyagmozgató gép gyártása</mezo>
+<mezo id = "teaszov">EmelÅ‘-, anyagmozgatÃ³ gÃ©p gyÃ¡rtÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "116">
 <mezo id = "hattol">20080624</mezo>
@@ -345,7 +345,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090227</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Mezõgazdasági, erdészeti gép gyártása</mezo>
+<mezo id = "teaszov">MezÅ‘gazdasÃ¡gi, erdÃ©szeti gÃ©p gyÃ¡rtÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "117">
 <mezo id = "hattol">20080624</mezo>
@@ -363,7 +363,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090227</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Élelmiszer-, dohányipari gép gyártása</mezo>
+<mezo id = "teaszov">Ã‰lelmiszer-, dohÃ¡nyipari gÃ©p gyÃ¡rtÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "118">
 <mezo id = "hattol">20080624</mezo>
@@ -381,7 +381,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090227</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Ipari gép, berendezés javítása</mezo>
+<mezo id = "teaszov">Ipari gÃ©p, berendezÃ©s javÃ­tÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "119">
 <mezo id = "hattol">20080624</mezo>
@@ -399,7 +399,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090227</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Ipari gép, berendezés üzembe helyezése</mezo>
+<mezo id = "teaszov">Ipari gÃ©p, berendezÃ©s Ã¼zembe helyezÃ©se</mezo>
 </alrovat>
 <alrovat id = "120">
 <mezo id = "hattol">20080624</mezo>
@@ -417,7 +417,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090227</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Nem veszélyes hulladék gyûjtése</mezo>
+<mezo id = "teaszov">Nem veszÃ©lyes hulladÃ©k gyÅ±jtÃ©se</mezo>
 </alrovat>
 <alrovat id = "121">
 <mezo id = "hattol">20080624</mezo>
@@ -435,7 +435,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090227</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Veszélyes hulladék gyûjtése</mezo>
+<mezo id = "teaszov">VeszÃ©lyes hulladÃ©k gyÅ±jtÃ©se</mezo>
 </alrovat>
 <alrovat id = "122">
 <mezo id = "hattol">20080624</mezo>
@@ -453,7 +453,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090227</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Nem veszélyes hulladék kezelése, ártalmatlanítása</mezo>
+<mezo id = "teaszov">Nem veszÃ©lyes hulladÃ©k kezelÃ©se, Ã¡rtalmatlanÃ­tÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "123">
 <mezo id = "hattol">20080624</mezo>
@@ -471,7 +471,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090227</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Veszélyes hulladék kezelése, ártalmatlanítása</mezo>
+<mezo id = "teaszov">VeszÃ©lyes hulladÃ©k kezelÃ©se, Ã¡rtalmatlanÃ­tÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "124">
 <mezo id = "hattol">20080624</mezo>
@@ -489,7 +489,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090227</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Hulladék újrahasznosítása</mezo>
+<mezo id = "teaszov">HulladÃ©k ÃºjrahasznosÃ­tÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "125">
 <mezo id = "hattol">20080624</mezo>
@@ -507,7 +507,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090227</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Szennyezõdésmentesítés, egyéb hulladékkezelés</mezo>
+<mezo id = "teaszov">SzennyezÅ‘dÃ©smentesÃ­tÃ©s, egyÃ©b hulladÃ©kkezelÃ©s</mezo>
 </alrovat>
 <alrovat id = "126">
 <mezo id = "hattol">20080624</mezo>
@@ -525,7 +525,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090227</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Lakó- és nem lakó épület építése</mezo>
+<mezo id = "teaszov">LakÃ³- Ã©s nem lakÃ³ Ã©pÃ¼let Ã©pÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "127">
 <mezo id = "hattol">20080624</mezo>
@@ -543,7 +543,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090227</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Út, autópálya építése</mezo>
+<mezo id = "teaszov">Ãšt, autÃ³pÃ¡lya Ã©pÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "128">
 <mezo id = "hattol">20080624</mezo>
@@ -561,7 +561,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090227</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Vasút építése</mezo>
+<mezo id = "teaszov">VasÃºt Ã©pÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "129">
 <mezo id = "hattol">20080624</mezo>
@@ -579,7 +579,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090227</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Híd, alagút építése</mezo>
+<mezo id = "teaszov">HÃ­d, alagÃºt Ã©pÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "130">
 <mezo id = "hattol">20080624</mezo>
@@ -597,7 +597,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090227</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Elektromos, híradás-technikai célú közmû építése</mezo>
+<mezo id = "teaszov">Elektromos, hÃ­radÃ¡s-technikai cÃ©lÃº kÃ¶zmÅ± Ã©pÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "131">
 <mezo id = "hattol">20080624</mezo>
@@ -615,7 +615,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090227</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Vízi létesítmény építése</mezo>
+<mezo id = "teaszov">VÃ­zi lÃ©tesÃ­tmÃ©ny Ã©pÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "132">
 <mezo id = "hattol">20080624</mezo>
@@ -633,7 +633,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090227</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb m.n.s. építés</mezo>
+<mezo id = "teaszov">EgyÃ©b m.n.s. Ã©pÃ­tÃ©s</mezo>
 </alrovat>
 <alrovat id = "133">
 <mezo id = "hattol">20080624</mezo>
@@ -651,7 +651,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090227</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Bontás</mezo>
+<mezo id = "teaszov">BontÃ¡s</mezo>
 </alrovat>
 <alrovat id = "134">
 <mezo id = "hattol">20080624</mezo>
@@ -669,7 +669,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090227</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Építési terület elõkészítése</mezo>
+<mezo id = "teaszov">Ã‰pÃ­tÃ©si terÃ¼let elÅ‘kÃ©szÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "135">
 <mezo id = "hattol">20080624</mezo>
@@ -687,7 +687,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090227</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Villanyszerelés</mezo>
+<mezo id = "teaszov">VillanyszerelÃ©s</mezo>
 </alrovat>
 <alrovat id = "136">
 <mezo id = "hattol">20080624</mezo>
@@ -705,7 +705,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090227</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb befejezõ építés m.n.s.</mezo>
+<mezo id = "teaszov">EgyÃ©b befejezÅ‘ Ã©pÃ­tÃ©s m.n.s.</mezo>
 </alrovat>
 <alrovat id = "137">
 <mezo id = "hattol">20080624</mezo>
@@ -723,7 +723,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090227</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Tetõfedés, tetõszerkezet-építés</mezo>
+<mezo id = "teaszov">TetÅ‘fedÃ©s, tetÅ‘szerkezet-Ã©pÃ­tÃ©s</mezo>
 </alrovat>
 <alrovat id = "138">
 <mezo id = "hattol">20080624</mezo>
@@ -741,7 +741,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090227</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb speciális szaképítés m.n.s.</mezo>
+<mezo id = "teaszov">EgyÃ©b speciÃ¡lis szakÃ©pÃ­tÃ©s m.n.s.</mezo>
 </alrovat>
 <alrovat id = "139">
 <mezo id = "hattol">20080624</mezo>
@@ -759,7 +759,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090227</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Közúti áruszállítás</mezo>
+<mezo id = "teaszov">KÃ¶zÃºti Ã¡ruszÃ¡llÃ­tÃ¡s</mezo>
 </alrovat>
 <alrovat id = "140">
 <mezo id = "hattol">20080624</mezo>
@@ -777,7 +777,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090227</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Mérnöki tevékenység, mûszaki tanácsadás</mezo>
+<mezo id = "teaszov">MÃ©rnÃ¶ki tevÃ©kenysÃ©g, mÅ±szaki tanÃ¡csadÃ¡s</mezo>
 </alrovat>
 <alrovat id = "141">
 <mezo id = "hattol">20080624</mezo>
@@ -795,7 +795,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090227</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Biotechnológiai kutatás, fejlesztés</mezo>
+<mezo id = "teaszov">BiotechnolÃ³giai kutatÃ¡s, fejlesztÃ©s</mezo>
 </alrovat>
 <alrovat id = "142">
 <mezo id = "hattol">20080624</mezo>
@@ -813,7 +813,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090227</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb természettudományi, mûszaki kutatás, fejlesztés</mezo>
+<mezo id = "teaszov">EgyÃ©b termÃ©szettudomÃ¡nyi, mÅ±szaki kutatÃ¡s, fejlesztÃ©s</mezo>
 </alrovat>
 <alrovat id = "143">
 <mezo id = "hattol">20080624</mezo>
@@ -831,7 +831,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090227</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">M.n.s. egyéb szakmai, tudományos, mûszaki tevékenység</mezo>
+<mezo id = "teaszov">M.n.s. egyÃ©b szakmai, tudomÃ¡nyos, mÅ±szaki tevÃ©kenysÃ©g</mezo>
 </alrovat>
 <alrovat id = "144">
 <mezo id = "hattol">20080624</mezo>
@@ -849,7 +849,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090227</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Építõipari gép kölcsönzése</mezo>
+<mezo id = "teaszov">Ã‰pÃ­tÅ‘ipari gÃ©p kÃ¶lcsÃ¶nzÃ©se</mezo>
 </alrovat>
 <alrovat id = "145">
 <mezo id = "hattol">20080624</mezo>
@@ -867,7 +867,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090227</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb takarítás</mezo>
+<mezo id = "teaszov">EgyÃ©b takarÃ­tÃ¡s</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -890,7 +890,7 @@
 <rovat id = "13">
 <alrovat id = "15">
 <mezo id = "hattol">20100507</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "pnev">Dipl. Ing. Klaus Einfalt</mezo>
 <mezo id = "panev">Thalhammer Heide</mezo>
 <mezo id = "kepve">x</mezo>
@@ -902,8 +902,8 @@
 </alrovat>
 <alrovat id = "18">
 <mezo id = "hattol">20100507</mezo>
-<mezo id = "tiszt">cégvezetõ</mezo>
-<mezo id = "pnev">Pelyhe István</mezo>
+<mezo id = "tiszt">cÃ©gvezetÅ‘</mezo>
+<mezo id = "pnev">Pelyhe IstvÃ¡n</mezo>
 <mezo id = "panev">Kakuk Aranka</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20070914</mezo>
@@ -913,12 +913,12 @@
 </alrovat>
 <alrovat id = "19">
 <mezo id = "hattol">20110429</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Sárossi András István</mezo>
-<mezo id = "panev">Nagy Ildikó</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">SÃ¡rossi AndrÃ¡s IstvÃ¡n</mezo>
+<mezo id = "panev">Nagy IldikÃ³</mezo>
 <mezo id = "pirsz">2896</mezo>
-<mezo id = "phely">Szomód</mezo>
-<mezo id = "pteru">Akácfa út 53.</mezo>
+<mezo id = "phely">SzomÃ³d</mezo>
+<mezo id = "pteru">AkÃ¡cfa Ãºt 53.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20110429</mezo>
 <mezo id = "valtk">20110429</mezo>
@@ -930,12 +930,12 @@
 <alrovat id = "7">
 <mezo id = "hattol">20100531</mezo>
 <mezo id = "cgjsz">1109005039</mezo>
-<mezo id = "nev">eNTeLL Könyvvizsgáló és Adótanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">eNTeLL KÃ¶nyvvizsgÃ¡lÃ³ Ã©s AdÃ³tanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2800</mezo>
-<mezo id = "hely">Tatabánya</mezo>
-<mezo id = "teru">Mártírok útja 81. A. ép.</mezo>
-<mezo id = "pnev">Luxné Tálas Ilona</mezo>
+<mezo id = "hely">TatabÃ¡nya</mezo>
+<mezo id = "teru">MÃ¡rtÃ­rok Ãºtja 81. A. Ã©p.</mezo>
+<mezo id = "pnev">LuxnÃ© TÃ¡las Ilona</mezo>
 <mezo id = "panev">Gottfried Ilona</mezo>
 <mezo id = "jogvk">20100531</mezo>
 <mezo id = "jogvv">20120531</mezo>
@@ -946,12 +946,12 @@
 <rovat id = "16">
 <alrovat id = "1">
 <mezo id = "hattol">19900201</mezo>
-<mezo id = "nev">&quot;UNISZER&quot; Viz-és Csatornaépitõ Gazdasági Munkaközösség</mezo>
+<mezo id = "nev">&quot;UNISZER&quot; Viz-Ã©s CsatornaÃ©pitÅ‘ GazdasÃ¡gi MunkakÃ¶zÃ¶ssÃ©g</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20100731</mezo>
 <mezo id = "cgjsz">1109005947</mezo>
-<mezo id = "nev">DOR. Közmûépítõ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">DOR. KÃ¶zmÅ±Ã©pÃ­tÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "atdat">20100731</mezo>
 <mezo id = "valtk">20100731</mezo>
 <mezo id = "bkelt">20100707</mezo>
@@ -959,7 +959,7 @@
 <alrovat id = "3">
 <mezo id = "hattol">20100731</mezo>
 <mezo id = "cgjsz">1109005890</mezo>
-<mezo id = "nev">DURAL Kommunális Építõ és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">DURAL KommunÃ¡lis Ã‰pÃ­tÅ‘ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "atdat">20100731</mezo>
 <mezo id = "valtk">20100731</mezo>
 <mezo id = "bkelt">20100707</mezo>
@@ -984,13 +984,13 @@
 <mezo id = "adosz">10364093211</mezo>
 <mezo id = "kadosz">HU10364093</mezo>
 <mezo id = "bkelt">20110915</mezo>
-<mezo id = "megj">Státusz kezdete: 1990/01/01</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 1990/01/01</mezo>
 </alrovat>
 </rovat>
 <rovat id = "22">
 <alrovat id = "1">
 <mezo id = "jccjsz">1109017755</mezo>
-<mezo id = "nev">OMS Környezetvédelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">OMS KÃ¶rnyezetvÃ©delmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "atdat">20101231</mezo>
 <mezo id = "bkelt">20101231</mezo>
 </alrovat>
@@ -999,10 +999,10 @@
 <alrovat id = "85">
 <mezo id = "hattol">20060329</mezo>
 <mezo id = "cgjsz">1109000676</mezo>
-<mezo id = "nev">&quot; OMS-HUNGARIA &quot; Kommunális és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">&quot; OMS-HUNGARIA &quot; KommunÃ¡lis Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "irsz">2890</mezo>
 <mezo id = "hely">Tata</mezo>
-<mezo id = "teru">Bacsó Béla út</mezo>
+<mezo id = "teru">BacsÃ³ BÃ©la Ãºt</mezo>
 <mezo id = "hsz">37.</mezo>
 <mezo id = "tagsk">0</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -1017,9 +1017,9 @@
 <mezo id = "hely">Klagenfurt</mezo>
 <mezo id = "teru">Bahnstrasse</mezo>
 <mezo id = "hsz">87-93.</mezo>
-<mezo id = "pmnev">Kiss Ildikó</mezo>
+<mezo id = "pmnev">Kiss IldikÃ³</mezo>
 <mezo id = "pmirsz">1182</mezo>
-<mezo id = "pmhely">Budapest, Flór F. u. 19.</mezo>
+<mezo id = "pmhely">Budapest, FlÃ³r F. u. 19.</mezo>
 <mezo id = "tagsk">19981126</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "sz1">x</mezo>
@@ -1031,11 +1031,11 @@
 <alrovat id = "89">
 <mezo id = "hattol">20081107</mezo>
 <mezo id = "cgjsz">1309111652</mezo>
-<mezo id = "nev">SW-Umwelttechnik Magyarország Kft</mezo>
+<mezo id = "nev">SW-Umwelttechnik MagyarorszÃ¡g Kft</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2339</mezo>
-<mezo id = "hely">Majosháza</mezo>
-<mezo id = "teru">Tóközi</mezo>
+<mezo id = "hely">MajoshÃ¡za</mezo>
+<mezo id = "teru">TÃ³kÃ¶zi</mezo>
 <mezo id = "hsz">10</mezo>
 <mezo id = "tagsk">20081107</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -1046,10 +1046,10 @@
 </alrovat>
 <alrovat id = "90">
 <mezo id = "hattol">20081107</mezo>
-<mezo id = "pnev">Pintér István</mezo>
-<mezo id = "panev">Ihász Terézia</mezo>
+<mezo id = "pnev">PintÃ©r IstvÃ¡n</mezo>
+<mezo id = "panev">IhÃ¡sz TerÃ©zia</mezo>
 <mezo id = "pirsz">2836</mezo>
-<mezo id = "phely">Baj, Kossuth Lajos út 34.</mezo>
+<mezo id = "phely">Baj, Kossuth Lajos Ãºt 34.</mezo>
 <mezo id = "tagsk">19970725</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20081107</mezo>
@@ -1059,10 +1059,10 @@
 </alrovat>
 <alrovat id = "91">
 <mezo id = "hattol">20081107</mezo>
-<mezo id = "pnev">Pintér Istvánné</mezo>
-<mezo id = "panev">Álland Mária</mezo>
+<mezo id = "pnev">PintÃ©r IstvÃ¡nnÃ©</mezo>
+<mezo id = "panev">Ãlland MÃ¡ria</mezo>
 <mezo id = "pirsz">2836</mezo>
-<mezo id = "phely">Baj, Kossuth Lajos út 34.</mezo>
+<mezo id = "phely">Baj, Kossuth Lajos Ãºt 34.</mezo>
 <mezo id = "tagsk">19970725</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20081107</mezo>
@@ -1072,10 +1072,10 @@
 </alrovat>
 <alrovat id = "96">
 <mezo id = "hattol">20081107</mezo>
-<mezo id = "pnev">Kiss János</mezo>
-<mezo id = "panev">Éberhardt Teréz</mezo>
+<mezo id = "pnev">Kiss JÃ¡nos</mezo>
+<mezo id = "panev">Ã‰berhardt TerÃ©z</mezo>
 <mezo id = "pirsz">2890</mezo>
-<mezo id = "phely">Tata, Bacsó Béla út 54. A. ép.</mezo>
+<mezo id = "phely">Tata, BacsÃ³ BÃ©la Ãºt 54. A. Ã©p.</mezo>
 <mezo id = "tagsk">20030910</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20081107</mezo>
@@ -1085,7 +1085,7 @@
 </alrovat>
 <alrovat id = "99">
 <mezo id = "hattol">20100507</mezo>
-<mezo id = "pnev">Fricska József</mezo>
+<mezo id = "pnev">Fricska JÃ³zsef</mezo>
 <mezo id = "panev">Dencs Lenke</mezo>
 <mezo id = "tagsk">19970725</mezo>
 <mezo id = "valtk">20100507</mezo>
@@ -1093,7 +1093,7 @@
 </alrovat>
 <alrovat id = "102">
 <mezo id = "hattol">20100507</mezo>
-<mezo id = "pnev">Pelyhe István</mezo>
+<mezo id = "pnev">Pelyhe IstvÃ¡n</mezo>
 <mezo id = "panev">Kakuk Aranka</mezo>
 <mezo id = "tagsk">20060807</mezo>
 <mezo id = "valtk">20100507</mezo>
@@ -1109,374 +1109,374 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 1999. 07. 01-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 1999. 07. 01-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
 17. HU-AT.<ujsor/>
- Hatályos: 1998. 06. 12-tõl.<ujsor/>
-1(09). OMS Kläranlagen GmbH.<ujsor/>
+ HatÃ¡lyos: 1998. 06. 12-tÅ‘l.<ujsor/>
+1(09). OMS KlÃ¤ranlagen GmbH.<ujsor/>
 DE Wiesbaden Am. Rebenhang 44.<ujsor/>
- Törölve: 1998. 06. 12-i hatállyal.<ujsor/>
+ TÃ¶rÃ¶lve: 1998. 06. 12-i hatÃ¡llyal.<ujsor/>
 Bejegyezve: 2000. 04. 17.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1109000676</mezo>
-<mezo id = "nev">&quot;OMS-HUNGARIA&quot; Kommunális Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">2890 Tata, Bacsó Béla út 37.</mezo>
+<mezo id = "nev">&quot;OMS-HUNGARIA&quot; KommunÃ¡lis SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2890 Tata, BacsÃ³ BÃ©la Ãºt 37.</mezo>
 <mezo id = "adosz">10364093211</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az OMS Hungária Kommunális Szolgáltató Korlátolt Felelõsségû Társaságban (Cg.: [11 09 000676]; 2890 Tata, Bacsó B. u. 37.) az SW Umwelttechnik Stoiser &amp; Wolschner AG (A 9021 Klagenfurt, Bahnstraüe 87-93.; kézbesítési megbízottja: Dpl Ing. Klaus Einfalt; 1121 Budapest, Arató u. 22/A) 1998. október 13-án többségi irányítást biztosító befolyást szerzett. Az SW Umwelttechnik Stoiser &amp; Wolschner AG az OMS Hungária Kft.-ben 51%-os befolyásolással, valamint 7650 szavazattal rendelkezik.<ujsor/>
+<mezo id = "szoveg">Az OMS HungÃ¡ria KommunÃ¡lis SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gban (Cg.: [11 09 000676]; 2890 Tata, BacsÃ³ B. u. 37.) az SW Umwelttechnik Stoiser &amp; Wolschner AG (A 9021 Klagenfurt, BahnstraÃ¼e 87-93.; kÃ©zbesÃ­tÃ©si megbÃ­zottja: Dpl Ing. Klaus Einfalt; 1121 Budapest, AratÃ³ u. 22/A) 1998. oktÃ³ber 13-Ã¡n tÃ¶bbsÃ©gi irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡st szerzett. Az SW Umwelttechnik Stoiser &amp; Wolschner AG az OMS HungÃ¡ria Kft.-ben 51%-os befolyÃ¡solÃ¡ssal, valamint 7650 szavazattal rendelkezik.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1109000676</mezo>
-<mezo id = "nev">&quot;OMS-HUNGARIA&quot; Kommunális Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">2890 Tata, Bacsó Béla ut. 37. </mezo>
+<mezo id = "nev">&quot;OMS-HUNGARIA&quot; KommunÃ¡lis SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2890 Tata, BacsÃ³ BÃ©la ut. 37. </mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az „OMS-HUNGARIA” Kommunális Szolgáltató Korlátolt Felelõsségû Társaság (Cg.: [11 09 000676]; székhelye: 2890 Tata, Bacsó Béla út 37.), a DOR. Közmûépítõ Korlátolt Felelõsségû Társaság (Cg.: [11 09 005947]; székhelye: 2890 Tata, Bacsó Béla út 37.) és a DURAL Kommunális Építõ és Szolgáltató Korlátolt Felelõsségû Társaság (Cg.: [11 09 005890]; székhelye: 2890 Tata, Bacsó Béla út 37.) a Gt. 81. § (1 bekezdésében foglaltak alapján elhatározták az átalakulásukat.<ujsor/>
-Az átalakulás módja: beolvadás.<ujsor/>
-Az átvevõ gazdasági társaság (záró) vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-A) Befektetett eszközök 68 039 D) Saját tõke 1 293 357<ujsor/>
-I. Immateriális javak 551 I. Jegyzett tõke 150 000<ujsor/>
-II. Tárgyi eszközök 65 683 III. Tõketartalék 813<ujsor/>
-III. Befektetett pénzügyi eszközök 1 805 IV. Eredménytartalék 1 126 284<ujsor/>
-B) Forgóeszközök 2 349 710 V. Lekötött tartalék 16 260<ujsor/>
-I. Készletek 278 238 VII. Mérleg szerinti eredmény 0<ujsor/>
-II. Követelések 1 647 271 E) Céltartalékok 123 911<ujsor/>
-III. Értékpapírok 0 F) Kötelezettségek 847 220<ujsor/>
-IV. Pénzeszközök 424 201 II. Hosszú lejáratú kötelezettségek 2 641<ujsor/>
-C) Aktív idõbeli elhatárolások 583 506 III. Rövid lejáratú kötelezettségek 844 579<ujsor/>
-G) Passzív idõbeli elhatárolások 736 767<ujsor/>
-ÖSSZESEN: 3 001 255 ÖSSZESEN: 3 001 255<ujsor/>
-A beolvadó DOR. Kft. (záró) vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-A) Befektetett eszközök 7 220 D) Saját tõke ­385 736<ujsor/>
-I. Immateriális javak 0 I. Jegyzett tõke 3 000<ujsor/>
-II. Tárgyi eszközök 7 220 III. Tõketartalék ­388 736<ujsor/>
-III. Befektetett pénzügyi eszközök 0 IV. Eredménytartalék 0<ujsor/>
-B) Forgóeszközök 34 460 V. Lekötött tartalék 0<ujsor/>
-I. Készletek 14 600 VII. Mérleg szerinti eredmény 0<ujsor/>
-II. Követelések 19 530 E) Céltartalékok 10 000<ujsor/>
-III. Értékpapírok 0 F) Kötelezettségek 417 188<ujsor/>
-IV. Pénzeszközök 330 II. Hosszú lejáratú kötelezettségek 0<ujsor/>
-C) Aktív idõbeli elhatárolások 0 III. Rövid lejáratú kötelezettségek 417 188<ujsor/>
-G) Passzív idõbeli elhatárolások 228<ujsor/>
-ÖSSZESEN: 41 680 ÖSSZESEN: 41 680<ujsor/>
-A beolvadó DURAL Kft. (záró) vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-A) Befektetett eszközök 5 659 D) Saját tõke ­25 024<ujsor/>
-I. Immateriális javak 0 I. Jegyzett tõke 3 000<ujsor/>
-II. Tárgyi eszközök 5 659 III. Tõketartalék 0<ujsor/>
-III. Befektetett pénzügyi eszközök 0 IV. Eredménytartalék ­28 024<ujsor/>
-B) Forgóeszközök 23 512 V. Lekötött tartalék 0<ujsor/>
-I. Készletek 0 VII. Mérleg szerinti eredmény 0<ujsor/>
-II. Követelések 20 894 E) Céltartalékok 0<ujsor/>
-III. Értékpapírok 0 F) Kötelezettségek 54 172<ujsor/>
-IV. Pénzeszközök 2 618 II. Hosszú lejáratú kötelezettségek 0<ujsor/>
-C) Aktív idõbeli elhatárolások 143 III. Rövid lejáratú kötelezettségek 54 172<ujsor/>
-G) Passzív idõbeli elhatárolások 166<ujsor/>
-ÖSSZESEN: 29 314 ÖSSZESEN: 29 314<ujsor/>
-A létrejövõ (átvevõ) gazdasági társaság fõbb adatai:<ujsor/>
-Formája: korlátolt felelõsségû társaság.<ujsor/>
-Cégneve: „OMS-HUNGARIA” Kommunális Szolgáltató Korlátolt Felelõsségû Társaság.<ujsor/>
-Rövidített elnevezése: „OMS-HUNGARIA” Kft.<ujsor/>
-Székhelye: 2890 Tata, Bacsó Béla út 37.<ujsor/>
-Fióktelepe: RO-Cluj-Napoca, Sanatoruluinr Str. 12.<ujsor/>
-Az átvevõ gazdasági társaság, az „OMS-HUNGARIA” Kft. társasági szerzõdése 2010. május 7-én került elfogadásra, a társasági szerzõdés az egyesüléssel összefüggésben nem került módosításra.<ujsor/>
-A létrejövõ gazdasági társaság fõ tevékenysége: 4221 Folyadék szállítására szolgáló közmû építése.<ujsor/>
-A létrejövõ gazdasági társaság (nyitó) vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-A) Befektetett eszközök 79 191 D) Saját tõke 880 870<ujsor/>
-I. Immateriális javak 551 I. Jegyzett tõke 150 000<ujsor/>
-II. Tárgyi eszközök 78 562 III. Tõketartalék 813<ujsor/>
-III. Befektetett pénzügyi eszközök 78 IV. Eredménytartalék 710 545<ujsor/>
-B) Forgóeszközök 1 984 029 V. Lekötött tartalék 19 512<ujsor/>
-I. Készletek 292 838 VII. Mérleg szerinti eredmény 0<ujsor/>
-II. Követelések 1 264 042 E) Céltartalékok 133 911<ujsor/>
-III. Értékpapírok 0 F) Kötelezettségek 894 927<ujsor/>
-IV. Pénzeszközök 427 149 II. Hosszú lejáratú kötelezettségek 2 641<ujsor/>
-C) Aktív idõbeli elhatárolások 583 649 III. Rövid lejáratú kötelezettségek 892 286<ujsor/>
-G) Passzív idõbeli elhatárolások 737 161<ujsor/>
-ÖSSZESEN: 2 646 869 ÖSSZESEN: 2 646 869<ujsor/>
-A létrejövõ (átvevõ) gazdasági társaság ügyvezetõi: Kiss János (a. n.: Éberhardt Teréz; 2890 Tata, Bacsó Béla út 54/A), Dipl. Ing. Klaus Einfalt (a. n.: Thalhammer Heide; 1121 Budapest, Arató u. 22/a).<ujsor/>
-A gazdasági társaságok felhívják a hitelezõiket, hogy a Gt. 76. § (2) bekezdésében foglaltak alapján jogaikat gyakorolhatják.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">Az â€OMS-HUNGARIAâ€ KommunÃ¡lis SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [11 09 000676]; szÃ©khelye: 2890 Tata, BacsÃ³ BÃ©la Ãºt 37.), a DOR. KÃ¶zmÅ±Ã©pÃ­tÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [11 09 005947]; szÃ©khelye: 2890 Tata, BacsÃ³ BÃ©la Ãºt 37.) Ã©s a DURAL KommunÃ¡lis Ã‰pÃ­tÅ‘ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [11 09 005890]; szÃ©khelye: 2890 Tata, BacsÃ³ BÃ©la Ãºt 37.) a Gt. 81. Â§ (1 bekezdÃ©sÃ©ben foglaltak alapjÃ¡n elhatÃ¡roztÃ¡k az Ã¡talakulÃ¡sukat.<ujsor/>
+Az Ã¡talakulÃ¡s mÃ³dja: beolvadÃ¡s.<ujsor/>
+Az Ã¡tvevÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g (zÃ¡rÃ³) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 68 039 D) SajÃ¡t tÅ‘ke 1 293 357<ujsor/>
+I. ImmateriÃ¡lis javak 551 I. Jegyzett tÅ‘ke 150 000<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 65 683 III. TÅ‘ketartalÃ©k 813<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 1 805 IV. EredmÃ©nytartalÃ©k 1 126 284<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 2 349 710 V. LekÃ¶tÃ¶tt tartalÃ©k 16 260<ujsor/>
+I. KÃ©szletek 278 238 VII. MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+II. KÃ¶vetelÃ©sek 1 647 271 E) CÃ©ltartalÃ©kok 123 911<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 F) KÃ¶telezettsÃ©gek 847 220<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 424 201 II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 2 641<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 583 506 III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 844 579<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 736 767<ujsor/>
+Ã–SSZESEN: 3 001 255 Ã–SSZESEN: 3 001 255<ujsor/>
+A beolvadÃ³ DOR. Kft. (zÃ¡rÃ³) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 7 220 D) SajÃ¡t tÅ‘ke Â­385 736<ujsor/>
+I. ImmateriÃ¡lis javak 0 I. Jegyzett tÅ‘ke 3 000<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 7 220 III. TÅ‘ketartalÃ©k Â­388 736<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 IV. EredmÃ©nytartalÃ©k 0<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 34 460 V. LekÃ¶tÃ¶tt tartalÃ©k 0<ujsor/>
+I. KÃ©szletek 14 600 VII. MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+II. KÃ¶vetelÃ©sek 19 530 E) CÃ©ltartalÃ©kok 10 000<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 F) KÃ¶telezettsÃ©gek 417 188<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 330 II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 0 III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 417 188<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 228<ujsor/>
+Ã–SSZESEN: 41 680 Ã–SSZESEN: 41 680<ujsor/>
+A beolvadÃ³ DURAL Kft. (zÃ¡rÃ³) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 5 659 D) SajÃ¡t tÅ‘ke Â­25 024<ujsor/>
+I. ImmateriÃ¡lis javak 0 I. Jegyzett tÅ‘ke 3 000<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 5 659 III. TÅ‘ketartalÃ©k 0<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 IV. EredmÃ©nytartalÃ©k Â­28 024<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 23 512 V. LekÃ¶tÃ¶tt tartalÃ©k 0<ujsor/>
+I. KÃ©szletek 0 VII. MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+II. KÃ¶vetelÃ©sek 20 894 E) CÃ©ltartalÃ©kok 0<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 F) KÃ¶telezettsÃ©gek 54 172<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 2 618 II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 143 III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 54 172<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 166<ujsor/>
+Ã–SSZESEN: 29 314 Ã–SSZESEN: 29 314<ujsor/>
+A lÃ©trejÃ¶vÅ‘ (Ã¡tvevÅ‘) gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘bb adatai:<ujsor/>
+FormÃ¡ja: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gneve: â€OMS-HUNGARIAâ€ KommunÃ¡lis SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+RÃ¶vidÃ­tett elnevezÃ©se: â€OMS-HUNGARIAâ€ Kft.<ujsor/>
+SzÃ©khelye: 2890 Tata, BacsÃ³ BÃ©la Ãºt 37.<ujsor/>
+FiÃ³ktelepe: RO-Cluj-Napoca, Sanatoruluinr Str. 12.<ujsor/>
+Az Ã¡tvevÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g, az â€OMS-HUNGARIAâ€ Kft. tÃ¡rsasÃ¡gi szerzÅ‘dÃ©se 2010. mÃ¡jus 7-Ã©n kerÃ¼lt elfogadÃ¡sra, a tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s az egyesÃ¼lÃ©ssel Ã¶sszefÃ¼ggÃ©sben nem kerÃ¼lt mÃ³dosÃ­tÃ¡sra.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©ge: 4221 FolyadÃ©k szÃ¡llÃ­tÃ¡sÃ¡ra szolgÃ¡lÃ³ kÃ¶zmÅ± Ã©pÃ­tÃ©se.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g (nyitÃ³) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 79 191 D) SajÃ¡t tÅ‘ke 880 870<ujsor/>
+I. ImmateriÃ¡lis javak 551 I. Jegyzett tÅ‘ke 150 000<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 78 562 III. TÅ‘ketartalÃ©k 813<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 78 IV. EredmÃ©nytartalÃ©k 710 545<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 1 984 029 V. LekÃ¶tÃ¶tt tartalÃ©k 19 512<ujsor/>
+I. KÃ©szletek 292 838 VII. MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+II. KÃ¶vetelÃ©sek 1 264 042 E) CÃ©ltartalÃ©kok 133 911<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 F) KÃ¶telezettsÃ©gek 894 927<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 427 149 II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 2 641<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 583 649 III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 892 286<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 737 161<ujsor/>
+Ã–SSZESEN: 2 646 869 Ã–SSZESEN: 2 646 869<ujsor/>
+A lÃ©trejÃ¶vÅ‘ (Ã¡tvevÅ‘) gazdasÃ¡gi tÃ¡rsasÃ¡g Ã¼gyvezetÅ‘i: Kiss JÃ¡nos (a. n.: Ã‰berhardt TerÃ©z; 2890 Tata, BacsÃ³ BÃ©la Ãºt 54/A), Dipl. Ing. Klaus Einfalt (a. n.: Thalhammer Heide; 1121 Budapest, AratÃ³ u. 22/a).<ujsor/>
+A gazdasÃ¡gi tÃ¡rsasÃ¡gok felhÃ­vjÃ¡k a hitelezÅ‘iket, hogy a Gt. 76. Â§ (2) bekezdÃ©sÃ©ben foglaltak alapjÃ¡n jogaikat gyakorolhatjÃ¡k.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">1109000676</mezo>
-<mezo id = "nev">&quot;OMS-HUNGARIA&quot; Kommunális Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">&quot;OMS-HUNGARIA&quot; KommunÃ¡lis SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">2890 Tata</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az „OMS-HUNGARIA” Kommunális Szolgáltató Korlátolt Felelõsségû Társaság (Cg.: [11 09 000676]; székhelye: 2890 Tata, Bacsó Béla út 37.), a DOR. Közmûépítõ Korlátolt Felelõsségû Társaság (Cg.: [11 09 005947]; székhelye: 2890 Tata, Bacsó Béla út 37.) és a DURAL Kommunális Építõ és Szolgáltató Korlátolt Felelõsségû Társaság (Cg.: [11 09 005890]; székhelye: 2890 Tata, Bacsó Béla út 37.) a Gt. 81. § (1 bekezdésében foglaltak alapján elhatározták az átalakulásukat.<ujsor/>
-Az átalakulás módja: beolvadás.<ujsor/>
-Az átvevõ gazdasági társaság (záró) vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-A) Befektetett eszközök 68 039 D) Saját tõke 1 293 357<ujsor/>
-I. Immateriális javak 551 I. Jegyzett tõke 150 000<ujsor/>
-II. Tárgyi eszközök 65 683 III. Tõketartalék 813<ujsor/>
-III. Befektetett pénzügyi eszközök 1 805 IV. Eredménytartalék 1 126 284<ujsor/>
-B) Forgóeszközök 2 349 710 V. Lekötött tartalék 16 260<ujsor/>
-I. Készletek 278 238 VII. Mérleg szerinti eredmény 0<ujsor/>
-II. Követelések 1 647 271 E) Céltartalékok 123 911<ujsor/>
-III. Értékpapírok 0 F) Kötelezettségek 847 220<ujsor/>
-IV. Pénzeszközök 424 201 II. Hosszú lejáratú kötelezettségek 2 641<ujsor/>
-C) Aktív idõbeli elhatárolások 583 506 III. Rövid lejáratú kötelezettségek 844 579<ujsor/>
-G) Passzív idõbeli elhatárolások 736 767<ujsor/>
-ÖSSZESEN: 3 001 255 ÖSSZESEN: 3 001 255<ujsor/>
-A beolvadó DOR. Kft. (záró) vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-A) Befektetett eszközök 7 220 D) Saját tõke ­385 736<ujsor/>
-I. Immateriális javak 0 I. Jegyzett tõke 3 000<ujsor/>
-II. Tárgyi eszközök 7 220 III. Tõketartalék ­388 736<ujsor/>
-III. Befektetett pénzügyi eszközök 0 IV. Eredménytartalék 0<ujsor/>
-B) Forgóeszközök 34 460 V. Lekötött tartalék 0<ujsor/>
-I. Készletek 14 600 VII. Mérleg szerinti eredmény 0<ujsor/>
-II. Követelések 19 530 E) Céltartalékok 10 000<ujsor/>
-III. Értékpapírok 0 F) Kötelezettségek 417 188<ujsor/>
-IV. Pénzeszközök 330 II. Hosszú lejáratú kötelezettségek 0<ujsor/>
-C) Aktív idõbeli elhatárolások 0 III. Rövid lejáratú kötelezettségek 417 188<ujsor/>
-G) Passzív idõbeli elhatárolások 228<ujsor/>
-ÖSSZESEN: 41 680 ÖSSZESEN: 41 680<ujsor/>
-A beolvadó DURAL Kft. (záró) vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-A) Befektetett eszközök 5 659 D) Saját tõke ­25 024<ujsor/>
-I. Immateriális javak 0 I. Jegyzett tõke 3 000<ujsor/>
-II. Tárgyi eszközök 5 659 III. Tõketartalék 0<ujsor/>
-III. Befektetett pénzügyi eszközök 0 IV. Eredménytartalék ­28 024<ujsor/>
-B) Forgóeszközök 23 512 V. Lekötött tartalék 0<ujsor/>
-I. Készletek 0 VII. Mérleg szerinti eredmény 0<ujsor/>
-II. Követelések 20 894 E) Céltartalékok 0<ujsor/>
-III. Értékpapírok 0 F) Kötelezettségek 54 172<ujsor/>
-IV. Pénzeszközök 2 618 II. Hosszú lejáratú kötelezettségek 0<ujsor/>
-C) Aktív idõbeli elhatárolások 143 III. Rövid lejáratú kötelezettségek 54 172<ujsor/>
-G) Passzív idõbeli elhatárolások 166<ujsor/>
-ÖSSZESEN: 29 314 ÖSSZESEN: 29 314<ujsor/>
-A létrejövõ (átvevõ) gazdasági társaság fõbb adatai:<ujsor/>
-Formája: korlátolt felelõsségû társaság.<ujsor/>
-Cégneve: „OMS-HUNGARIA” Kommunális Szolgáltató Korlátolt Felelõsségû Társaság.<ujsor/>
-Rövidített elnevezése: „OMS-HUNGARIA” Kft.<ujsor/>
-Székhelye: 2890 Tata, Bacsó Béla út 37.<ujsor/>
-Fióktelepe: RO-Cluj-Napoca, Sanatoruluinr Str. 12.<ujsor/>
-Az átvevõ gazdasági társaság, az „OMS-HUNGARIA” Kft. társasági szerzõdése 2010. május 7-én került elfogadásra, a társasági szerzõdés az egyesüléssel összefüggésben nem került módosításra.<ujsor/>
-A létrejövõ gazdasági társaság fõ tevékenysége: 4221 Folyadék szállítására szolgáló közmû építése.<ujsor/>
-A létrejövõ gazdasági társaság (nyitó) vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-A) Befektetett eszközök 79 191 D) Saját tõke 880 870<ujsor/>
-I. Immateriális javak 551 I. Jegyzett tõke 150 000<ujsor/>
-II. Tárgyi eszközök 78 562 III. Tõketartalék 813<ujsor/>
-III. Befektetett pénzügyi eszközök 78 IV. Eredménytartalék 710 545<ujsor/>
-B) Forgóeszközök 1 984 029 V. Lekötött tartalék 19 512<ujsor/>
-I. Készletek 292 838 VII. Mérleg szerinti eredmény 0<ujsor/>
-II. Követelések 1 264 042 E) Céltartalékok 133 911<ujsor/>
-III. Értékpapírok 0 F) Kötelezettségek 894 927<ujsor/>
-IV. Pénzeszközök 427 149 II. Hosszú lejáratú kötelezettségek 2 641<ujsor/>
-C) Aktív idõbeli elhatárolások 583 649 III. Rövid lejáratú kötelezettségek 892 286<ujsor/>
-G) Passzív idõbeli elhatárolások 737 161<ujsor/>
-ÖSSZESEN: 2 646 869 ÖSSZESEN: 2 646 869<ujsor/>
-A létrejövõ (átvevõ) gazdasági társaság ügyvezetõi: Kiss János (a. n.: Éberhardt Teréz; 2890 Tata, Bacsó Béla út 54/A), Dipl. Ing. Klaus Einfalt (a. n.: Thalhammer Heide; 1121 Budapest, Arató u. 22/a).<ujsor/>
-A gazdasági társaságok felhívják a hitelezõiket, hogy a Gt. 76. § (2) bekezdésében foglaltak alapján jogaikat gyakorolhatják.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">Az â€OMS-HUNGARIAâ€ KommunÃ¡lis SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [11 09 000676]; szÃ©khelye: 2890 Tata, BacsÃ³ BÃ©la Ãºt 37.), a DOR. KÃ¶zmÅ±Ã©pÃ­tÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [11 09 005947]; szÃ©khelye: 2890 Tata, BacsÃ³ BÃ©la Ãºt 37.) Ã©s a DURAL KommunÃ¡lis Ã‰pÃ­tÅ‘ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [11 09 005890]; szÃ©khelye: 2890 Tata, BacsÃ³ BÃ©la Ãºt 37.) a Gt. 81. Â§ (1 bekezdÃ©sÃ©ben foglaltak alapjÃ¡n elhatÃ¡roztÃ¡k az Ã¡talakulÃ¡sukat.<ujsor/>
+Az Ã¡talakulÃ¡s mÃ³dja: beolvadÃ¡s.<ujsor/>
+Az Ã¡tvevÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g (zÃ¡rÃ³) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 68 039 D) SajÃ¡t tÅ‘ke 1 293 357<ujsor/>
+I. ImmateriÃ¡lis javak 551 I. Jegyzett tÅ‘ke 150 000<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 65 683 III. TÅ‘ketartalÃ©k 813<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 1 805 IV. EredmÃ©nytartalÃ©k 1 126 284<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 2 349 710 V. LekÃ¶tÃ¶tt tartalÃ©k 16 260<ujsor/>
+I. KÃ©szletek 278 238 VII. MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+II. KÃ¶vetelÃ©sek 1 647 271 E) CÃ©ltartalÃ©kok 123 911<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 F) KÃ¶telezettsÃ©gek 847 220<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 424 201 II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 2 641<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 583 506 III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 844 579<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 736 767<ujsor/>
+Ã–SSZESEN: 3 001 255 Ã–SSZESEN: 3 001 255<ujsor/>
+A beolvadÃ³ DOR. Kft. (zÃ¡rÃ³) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 7 220 D) SajÃ¡t tÅ‘ke Â­385 736<ujsor/>
+I. ImmateriÃ¡lis javak 0 I. Jegyzett tÅ‘ke 3 000<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 7 220 III. TÅ‘ketartalÃ©k Â­388 736<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 IV. EredmÃ©nytartalÃ©k 0<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 34 460 V. LekÃ¶tÃ¶tt tartalÃ©k 0<ujsor/>
+I. KÃ©szletek 14 600 VII. MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+II. KÃ¶vetelÃ©sek 19 530 E) CÃ©ltartalÃ©kok 10 000<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 F) KÃ¶telezettsÃ©gek 417 188<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 330 II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 0 III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 417 188<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 228<ujsor/>
+Ã–SSZESEN: 41 680 Ã–SSZESEN: 41 680<ujsor/>
+A beolvadÃ³ DURAL Kft. (zÃ¡rÃ³) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 5 659 D) SajÃ¡t tÅ‘ke Â­25 024<ujsor/>
+I. ImmateriÃ¡lis javak 0 I. Jegyzett tÅ‘ke 3 000<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 5 659 III. TÅ‘ketartalÃ©k 0<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 IV. EredmÃ©nytartalÃ©k Â­28 024<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 23 512 V. LekÃ¶tÃ¶tt tartalÃ©k 0<ujsor/>
+I. KÃ©szletek 0 VII. MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+II. KÃ¶vetelÃ©sek 20 894 E) CÃ©ltartalÃ©kok 0<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 F) KÃ¶telezettsÃ©gek 54 172<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 2 618 II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 143 III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 54 172<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 166<ujsor/>
+Ã–SSZESEN: 29 314 Ã–SSZESEN: 29 314<ujsor/>
+A lÃ©trejÃ¶vÅ‘ (Ã¡tvevÅ‘) gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘bb adatai:<ujsor/>
+FormÃ¡ja: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gneve: â€OMS-HUNGARIAâ€ KommunÃ¡lis SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+RÃ¶vidÃ­tett elnevezÃ©se: â€OMS-HUNGARIAâ€ Kft.<ujsor/>
+SzÃ©khelye: 2890 Tata, BacsÃ³ BÃ©la Ãºt 37.<ujsor/>
+FiÃ³ktelepe: RO-Cluj-Napoca, Sanatoruluinr Str. 12.<ujsor/>
+Az Ã¡tvevÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g, az â€OMS-HUNGARIAâ€ Kft. tÃ¡rsasÃ¡gi szerzÅ‘dÃ©se 2010. mÃ¡jus 7-Ã©n kerÃ¼lt elfogadÃ¡sra, a tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s az egyesÃ¼lÃ©ssel Ã¶sszefÃ¼ggÃ©sben nem kerÃ¼lt mÃ³dosÃ­tÃ¡sra.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©ge: 4221 FolyadÃ©k szÃ¡llÃ­tÃ¡sÃ¡ra szolgÃ¡lÃ³ kÃ¶zmÅ± Ã©pÃ­tÃ©se.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g (nyitÃ³) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 79 191 D) SajÃ¡t tÅ‘ke 880 870<ujsor/>
+I. ImmateriÃ¡lis javak 551 I. Jegyzett tÅ‘ke 150 000<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 78 562 III. TÅ‘ketartalÃ©k 813<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 78 IV. EredmÃ©nytartalÃ©k 710 545<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 1 984 029 V. LekÃ¶tÃ¶tt tartalÃ©k 19 512<ujsor/>
+I. KÃ©szletek 292 838 VII. MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+II. KÃ¶vetelÃ©sek 1 264 042 E) CÃ©ltartalÃ©kok 133 911<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 F) KÃ¶telezettsÃ©gek 894 927<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 427 149 II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 2 641<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 583 649 III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 892 286<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 737 161<ujsor/>
+Ã–SSZESEN: 2 646 869 Ã–SSZESEN: 2 646 869<ujsor/>
+A lÃ©trejÃ¶vÅ‘ (Ã¡tvevÅ‘) gazdasÃ¡gi tÃ¡rsasÃ¡g Ã¼gyvezetÅ‘i: Kiss JÃ¡nos (a. n.: Ã‰berhardt TerÃ©z; 2890 Tata, BacsÃ³ BÃ©la Ãºt 54/A), Dipl. Ing. Klaus Einfalt (a. n.: Thalhammer Heide; 1121 Budapest, AratÃ³ u. 22/a).<ujsor/>
+A gazdasÃ¡gi tÃ¡rsasÃ¡gok felhÃ­vjÃ¡k a hitelezÅ‘iket, hogy a Gt. 76. Â§ (2) bekezdÃ©sÃ©ben foglaltak alapjÃ¡n jogaikat gyakorolhatjÃ¡k.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">1109000676</mezo>
-<mezo id = "nev">&quot;OMS-HUNGARIA&quot; Kommunális Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">&quot;OMS-HUNGARIA&quot; KommunÃ¡lis SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">2890 Tata</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az „OMS-HUNGARIA” Kommunális Szolgáltató Korlátolt Felelõsségû Társaság (Cg.: [11 09 000676]; 2890 Tata, Bacsó Béla u. 37.) tagjai a 2010. október 26-án megtartott taggyûlésen másodszor is döntöttek az „OMS-HUNGARIA” Kommunális Szolgáltató Korlátolt Felelõsségû Társaság szétválásáról oly módon, hogy a társaságból kiválik egy korlátolt felelõsségû társaság.<ujsor/>
-A létrejövõ gazdasági társaságok fõbb adatai:<ujsor/>
-A szétválás után fennmaradó gazdasági társaság neve: „OMS-HUNGARIA” Kommunális Szolgáltató Korlátolt Felelõsségû Társaság.<ujsor/>
-Cégjegyzékszáma: [11 09 000676].<ujsor/>
-Székhelye: 2890 Tata, Bacsó Béla u. 37.<ujsor/>
-A kiváló gazdasági társaság neve: OMS Környezetvédelmi Korlátolt Felelõsségû Társaság.<ujsor/>
-Formája: korlátolt felelõsségû társaság.<ujsor/>
-Székhelye: 2890 Tata, Bacsó Béla u. 37.<ujsor/>
-A kiváló gazdasági társaság társasági szerzõdése megkötésének napja: 2010. október 26.<ujsor/>
-Az átalakuláshoz fûzõdõ joghatások beálltának tervezett napja: 2010. december 31.<ujsor/>
-A szétválás módja:kiválás.<ujsor/>
-A szétváló és a létrejövõ (fennmaradó és kiváló) gazdasági társaságok záró, illetve nyitó vagyonmérleg-tervezeteinek legfontosabb adatai:<ujsor/>
+<mezo id = "szoveg">Az â€OMS-HUNGARIAâ€ KommunÃ¡lis SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [11 09 000676]; 2890 Tata, BacsÃ³ BÃ©la u. 37.) tagjai a 2010. oktÃ³ber 26-Ã¡n megtartott taggyÅ±lÃ©sen mÃ¡sodszor is dÃ¶ntÃ¶ttek az â€OMS-HUNGARIAâ€ KommunÃ¡lis SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g szÃ©tvÃ¡lÃ¡sÃ¡rÃ³l oly mÃ³don, hogy a tÃ¡rsasÃ¡gbÃ³l kivÃ¡lik egy korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡gok fÅ‘bb adatai:<ujsor/>
+A szÃ©tvÃ¡lÃ¡s utÃ¡n fennmaradÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g neve: â€OMS-HUNGARIAâ€ KommunÃ¡lis SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡ma: [11 09 000676].<ujsor/>
+SzÃ©khelye: 2890 Tata, BacsÃ³ BÃ©la u. 37.<ujsor/>
+A kivÃ¡lÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g neve: OMS KÃ¶rnyezetvÃ©delmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+FormÃ¡ja: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 2890 Tata, BacsÃ³ BÃ©la u. 37.<ujsor/>
+A kivÃ¡lÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g tÃ¡rsasÃ¡gi szerzÅ‘dÃ©se megkÃ¶tÃ©sÃ©nek napja: 2010. oktÃ³ber 26.<ujsor/>
+Az Ã¡talakulÃ¡shoz fÅ±zÅ‘dÅ‘ joghatÃ¡sok beÃ¡lltÃ¡nak tervezett napja: 2010. december 31.<ujsor/>
+A szÃ©tvÃ¡lÃ¡s mÃ³dja:kivÃ¡lÃ¡s.<ujsor/>
+A szÃ©tvÃ¡lÃ³ Ã©s a lÃ©trejÃ¶vÅ‘ (fennmaradÃ³ Ã©s kivÃ¡lÃ³) gazdasÃ¡gi tÃ¡rsasÃ¡gok zÃ¡rÃ³, illetve nyitÃ³ vagyonmÃ©rleg-tervezeteinek legfontosabb adatai:<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK Szétváló Változatlan formában Kiváló<ujsor/>
-gazdasági társaság tovább mûködõ társaság gazdasági társaság<ujsor/>
-A) Befektetett eszközök 67 072 657 66 415<ujsor/>
-I. Immateriális javak 374 374<ujsor/>
-Alapítás-átszervezés aktivált értéke 286 286<ujsor/>
-Szellemi termékek 88 88<ujsor/>
-II. Tárgyi eszközök 66 620 657 65 963<ujsor/>
-Ingatlanok és a kapcsolódó vagyoni értékû jogok 965 965<ujsor/>
-Mûszaki berendezések, gépek, jármûvek 31 977 510 31 467<ujsor/>
-Egyéb berendezések, felszerelések, jármûvek 33 678 147 33 531<ujsor/>
-III. Befektetett pénzügyi eszközök 78 78<ujsor/>
-Tartós részesedés kapcsolt vállalkozásban 78 78<ujsor/>
-Befektetett pénzügyi eszközök értékelési különbözete<ujsor/>
-B) Forgóeszközök 2 087 914 173 097 1 914 817<ujsor/>
-I. Készletek 377 181 14 600 362 581<ujsor/>
+ESZKÃ–ZÃ–K SzÃ©tvÃ¡lÃ³ VÃ¡ltozatlan formÃ¡ban KivÃ¡lÃ³<ujsor/>
+gazdasÃ¡gi tÃ¡rsasÃ¡g tovÃ¡bb mÅ±kÃ¶dÅ‘ tÃ¡rsasÃ¡g gazdasÃ¡gi tÃ¡rsasÃ¡g<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 67 072 657 66 415<ujsor/>
+I. ImmateriÃ¡lis javak 374 374<ujsor/>
+AlapÃ­tÃ¡s-Ã¡tszervezÃ©s aktivÃ¡lt Ã©rtÃ©ke 286 286<ujsor/>
+Szellemi termÃ©kek 88 88<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 66 620 657 65 963<ujsor/>
+Ingatlanok Ã©s a kapcsolÃ³dÃ³ vagyoni Ã©rtÃ©kÅ± jogok 965 965<ujsor/>
+MÅ±szaki berendezÃ©sek, gÃ©pek, jÃ¡rmÅ±vek 31 977 510 31 467<ujsor/>
+EgyÃ©b berendezÃ©sek, felszerelÃ©sek, jÃ¡rmÅ±vek 33 678 147 33 531<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 78 78<ujsor/>
+TartÃ³s rÃ©szesedÃ©s kapcsolt vÃ¡llalkozÃ¡sban 78 78<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k Ã©rtÃ©kelÃ©si kÃ¼lÃ¶nbÃ¶zete<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 2 087 914 173 097 1 914 817<ujsor/>
+I. KÃ©szletek 377 181 14 600 362 581<ujsor/>
 Anyagok 13 410 13 410<ujsor/>
-Befejezetlen termelés és félkész termékek 139 904 139 904<ujsor/>
-Áruk 28 28<ujsor/>
-Készletekre adott elõlegek 223 839 14 600 209 239<ujsor/>
-II. Követelések 1 318 015 133 868 1 184 147<ujsor/>
-Követelések áruszállításból és szolgáltatásból (vevõk) 754 298 124 104 630 194<ujsor/>
-Követelések kapcsolt vállalkozással szemben 334 482 334 482<ujsor/>
-Egyéb követelések 229 235 9 764 219 471<ujsor/>
-III. Értékpapírok<ujsor/>
-IV. Pénzeszközök 392 718 24 629 368 089<ujsor/>
-Pénztár, csekkek 784 50 734<ujsor/>
-Bankbetétek 391 934 24 579 367 355<ujsor/>
-C) Aktív idõbeli elhatárolások 1 114 705 1 114 705<ujsor/>
-Bevételek aktív idõbeli elhatárolása 1 113 964 1 113 964<ujsor/>
-Költségek, ráfordítások aktív idõbeli elhatárolása 741 741<ujsor/>
-ÖSSZESEN: 3 269 691 173 754 3 095 937<ujsor/>
+Befejezetlen termelÃ©s Ã©s fÃ©lkÃ©sz termÃ©kek 139 904 139 904<ujsor/>
+Ãruk 28 28<ujsor/>
+KÃ©szletekre adott elÅ‘legek 223 839 14 600 209 239<ujsor/>
+II. KÃ¶vetelÃ©sek 1 318 015 133 868 1 184 147<ujsor/>
+KÃ¶vetelÃ©sek Ã¡ruszÃ¡llÃ­tÃ¡sbÃ³l Ã©s szolgÃ¡ltatÃ¡sbÃ³l (vevÅ‘k) 754 298 124 104 630 194<ujsor/>
+KÃ¶vetelÃ©sek kapcsolt vÃ¡llalkozÃ¡ssal szemben 334 482 334 482<ujsor/>
+EgyÃ©b kÃ¶vetelÃ©sek 229 235 9 764 219 471<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 392 718 24 629 368 089<ujsor/>
+PÃ©nztÃ¡r, csekkek 784 50 734<ujsor/>
+BankbetÃ©tek 391 934 24 579 367 355<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 1 114 705 1 114 705<ujsor/>
+BevÃ©telek aktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sa 1 113 964 1 113 964<ujsor/>
+KÃ¶ltsÃ©gek, rÃ¡fordÃ­tÃ¡sok aktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sa 741 741<ujsor/>
+Ã–SSZESEN: 3 269 691 173 754 3 095 937<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK Szétváló Változatlan formában Kiváló<ujsor/>
-gazdasági társaság tovább mûködõ társaság gazdasági társaság<ujsor/>
-D) Saját tõke 688 678 157 309 531 369<ujsor/>
-I. Jegyzett tõke 150 000 15 000 135 000<ujsor/>
-II. Jegyzett, de még be nem fizetett tõke (­)<ujsor/>
-III. Tõketartalék 813 813<ujsor/>
-IV. Eredménytartalék 521 605 142 309 379 296<ujsor/>
-V. Lekötött tartalék 16 260 16 260<ujsor/>
-ebbõl: fejlesztési tartalék 12 875 12 875<ujsor/>
-VI. Értékelési tartalék<ujsor/>
-VII. Mérleg szerinti eredmény<ujsor/>
-E) Céltartalékok 176 211 5 324 170 887<ujsor/>
-Céltartalék a várható kötelezettségekre 176 211 5 324 170 887<ujsor/>
-F) Kötelezettségek 1 478 346 11 121 1 467 225<ujsor/>
-I. Hátra sorolt kötelezettségek<ujsor/>
-II. Hosszú lejáratú kötelezettségek 6 576 6 576<ujsor/>
-Beruházási és fejlesztési hitelek 4 060 4 060<ujsor/>
-Egyéb hosszú lejáratú kötelezettségek 2 516 2 516<ujsor/>
-III. Rövid lejáratú kötelezettségek 1 471 770 11 121 1 460 649<ujsor/>
-Rövid lejáratú kölcsönök 4 547 4 547<ujsor/>
-Rövid lejáratú hitelek 297 517 297 517<ujsor/>
-Vevõktõl kapott elõlegek 251 064 251 064<ujsor/>
-Kötelezetségek áruszállításból és szolgáltatásból (szállítók) 506 837 5 993 500 844<ujsor/>
-Rövid lejáratú kötelezettségek kapcsolt vállalkozással szemben 384 692 3 900 380 792<ujsor/>
-Egyéb rövid lejáratú kötelezettségek 27 113 1 228 25 885<ujsor/>
-G) Passzív idõbeli elhatárolások 926 456 926 456<ujsor/>
-Bevételek passzív idõbeli elhatárolása 44 008 44 008<ujsor/>
-Költségek, ráfordítások passzív idõbeli elhatárolása 882 448 882 448<ujsor/>
-ÖSSZESEN: 3 269 691 173 754 3 095 937<ujsor/>
-A fennmaradó „OMS-HUNGARIA” Kommunális Szolgáltató Korlátolt Felelõsségû Társaság fõ tevékenysége (TEÁOR ’08): 6820 Saját tulajdonú, bérelt ingatlan bérbeadása, üzemeltetése.<ujsor/>
-A kiváló OMS Környezetvédelmi Korlátolt Felelõsségû Társaság fõ tevékenysége (TEÁOR ’08): 4221 Folyadék szállítására szolgáló közmû építése.<ujsor/>
-A fennmaradó társaság vezetõ tisztségviselõi: Kiss János ügyvezetõ (a. n.: Éberhardt Teréz; 2890 Tata, Bacsó Béla út 54/A); Dipl. Ing. Klaus Einfalt (a. n.: Thalhammer Heide; 1121 Budapest, Arató u. 22/A).<ujsor/>
-A kiváló társaság vezetõ tisztségviselõi: Kiss János ügyvezetõ (a. n.: Éberhardt Teréz; 2890 Tata, Bacsó Béla út 54/A); Dipl. Ing. Klaus Einfalt (a. n.: Thalhammer Heide; 1121 Budapest, Arató u. 22/A).<ujsor/>
-A szétváló gazdasági társaságot megilletõ jogok és kötelezettségek megosztására vonatkozó megállapodás fontosabb rendelkezései:<ujsor/>
-A szétválás alapvetõ célja, hogy a szétváló „OMS-HUNGARIA” Kft. két fõ tevékenysége, az üzemeltetés és a kivitelezés, a szétválást követõen lehetõleg egymástól elkülönülten, ebbõl következõen hatékonyabban mûködhessen. Ennek megfelelõen az átalakulást követõen a vízközmû hálózatok üzemeltetési feladatainak ellátását elsõsorban ­ de nem kizárólagosan ­ a tovább mûködõ „OMS-HUNGARIA” Kft., míg a vízközmû-hálózatok, vízi létesítmények, víz- és szennyvíztisztító mûvek stb. tervezési, kivitelezési feladatainak ellátását elsõsorban ­ de nem kizárólagosan ­ a kiváló OMS Környezetvédelmi Kft. végzi.<ujsor/>
-A fenti cél érdekében a kivitelezési tevékenységgel összefüggû vagyonelemek (eszközök, készletállomny, követelésállomány és pénzeszközök stb.) a kiváló OMS Környezetvédelmi Kft.-hez kerülnek, illetve az ehhez kapcsolódó jogok és kötelezettségek is a kiváló OMS Környezetvédelmi Kft.-t illetik meg, illetve terhelik.<ujsor/>
-A szétváló társaság tagjai mind a fennmaradó „OMS-HUNGARIA” Kft.-ben, mind a kiválással létrejövõ OMS Környezetvédelmi Kft.-ben a jelenlegivel egyezõ mértékû részesedéssel vesznek részt.<ujsor/>
-A szétváló gazdasági társaság jegyzett tõkéjének 90%-a a kiváló OMS Környezetvédelmi Kft.-t, 10%-a a fennmaradó „OMS-HUNGARIA” Kft.-t illeti meg. A150 000 000 Ft jegyzett tõkébõl ennek alapján a kiváló OMS Környezetvédelmi Kft. jegyzett tõkéje 135 000 000 Ft, a fennmaradó „OMS-HUNGARIA” Kft. jegyzett tõkéje 15 000 000 Ft.<ujsor/>
-Azok a hitelezõk, akiknek a szétváló gazdasági társasággal szemben fennálló, le nem járt követelései az átalakulással hozott döntés elsõ közzétételét megelõzõen keletkeztek, követeléseik erejéig a szétváló gazdasági társaságtól a döntés második közzétételét követõ harmincnapos jogvesztõ határidõn belül biztosítékot követelhetnek.<ujsor/>
-A hitelezõk a követeléseiket érintõ vagyonmegosztási rendelkezésekrõl az alábbi elérhetõségeken kaphatnak tájékoztatást:<ujsor/>
-­ postai úton: 2890 Tata, Bacsó Béla u. 37.,<ujsor/>
-­ elektronikus levél útján: info@oms.hu,<ujsor/>
-­ telefonon: 06 (34) 487-869.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+FORRÃSOK SzÃ©tvÃ¡lÃ³ VÃ¡ltozatlan formÃ¡ban KivÃ¡lÃ³<ujsor/>
+gazdasÃ¡gi tÃ¡rsasÃ¡g tovÃ¡bb mÅ±kÃ¶dÅ‘ tÃ¡rsasÃ¡g gazdasÃ¡gi tÃ¡rsasÃ¡g<ujsor/>
+D) SajÃ¡t tÅ‘ke 688 678 157 309 531 369<ujsor/>
+I. Jegyzett tÅ‘ke 150 000 15 000 135 000<ujsor/>
+II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke (Â­)<ujsor/>
+III. TÅ‘ketartalÃ©k 813 813<ujsor/>
+IV. EredmÃ©nytartalÃ©k 521 605 142 309 379 296<ujsor/>
+V. LekÃ¶tÃ¶tt tartalÃ©k 16 260 16 260<ujsor/>
+ebbÅ‘l: fejlesztÃ©si tartalÃ©k 12 875 12 875<ujsor/>
+VI. Ã‰rtÃ©kelÃ©si tartalÃ©k<ujsor/>
+VII. MÃ©rleg szerinti eredmÃ©ny<ujsor/>
+E) CÃ©ltartalÃ©kok 176 211 5 324 170 887<ujsor/>
+CÃ©ltartalÃ©k a vÃ¡rhatÃ³ kÃ¶telezettsÃ©gekre 176 211 5 324 170 887<ujsor/>
+F) KÃ¶telezettsÃ©gek 1 478 346 11 121 1 467 225<ujsor/>
+I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek<ujsor/>
+II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 6 576 6 576<ujsor/>
+BeruhÃ¡zÃ¡si Ã©s fejlesztÃ©si hitelek 4 060 4 060<ujsor/>
+EgyÃ©b hosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 2 516 2 516<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 1 471 770 11 121 1 460 649<ujsor/>
+RÃ¶vid lejÃ¡ratÃº kÃ¶lcsÃ¶nÃ¶k 4 547 4 547<ujsor/>
+RÃ¶vid lejÃ¡ratÃº hitelek 297 517 297 517<ujsor/>
+VevÅ‘ktÅ‘l kapott elÅ‘legek 251 064 251 064<ujsor/>
+KÃ¶telezetsÃ©gek Ã¡ruszÃ¡llÃ­tÃ¡sbÃ³l Ã©s szolgÃ¡ltatÃ¡sbÃ³l (szÃ¡llÃ­tÃ³k) 506 837 5 993 500 844<ujsor/>
+RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek kapcsolt vÃ¡llalkozÃ¡ssal szemben 384 692 3 900 380 792<ujsor/>
+EgyÃ©b rÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 27 113 1 228 25 885<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 926 456 926 456<ujsor/>
+BevÃ©telek passzÃ­v idÅ‘beli elhatÃ¡rolÃ¡sa 44 008 44 008<ujsor/>
+KÃ¶ltsÃ©gek, rÃ¡fordÃ­tÃ¡sok passzÃ­v idÅ‘beli elhatÃ¡rolÃ¡sa 882 448 882 448<ujsor/>
+Ã–SSZESEN: 3 269 691 173 754 3 095 937<ujsor/>
+A fennmaradÃ³ â€OMS-HUNGARIAâ€ KommunÃ¡lis SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™08): 6820 SajÃ¡t tulajdonÃº, bÃ©relt ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se.<ujsor/>
+A kivÃ¡lÃ³ OMS KÃ¶rnyezetvÃ©delmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™08): 4221 FolyadÃ©k szÃ¡llÃ­tÃ¡sÃ¡ra szolgÃ¡lÃ³ kÃ¶zmÅ± Ã©pÃ­tÃ©se.<ujsor/>
+A fennmaradÃ³ tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘i: Kiss JÃ¡nos Ã¼gyvezetÅ‘ (a. n.: Ã‰berhardt TerÃ©z; 2890 Tata, BacsÃ³ BÃ©la Ãºt 54/A); Dipl. Ing. Klaus Einfalt (a. n.: Thalhammer Heide; 1121 Budapest, AratÃ³ u. 22/A).<ujsor/>
+A kivÃ¡lÃ³ tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘i: Kiss JÃ¡nos Ã¼gyvezetÅ‘ (a. n.: Ã‰berhardt TerÃ©z; 2890 Tata, BacsÃ³ BÃ©la Ãºt 54/A); Dipl. Ing. Klaus Einfalt (a. n.: Thalhammer Heide; 1121 Budapest, AratÃ³ u. 22/A).<ujsor/>
+A szÃ©tvÃ¡lÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡got megilletÅ‘ jogok Ã©s kÃ¶telezettsÃ©gek megosztÃ¡sÃ¡ra vonatkozÃ³ megÃ¡llapodÃ¡s fontosabb rendelkezÃ©sei:<ujsor/>
+A szÃ©tvÃ¡lÃ¡s alapvetÅ‘ cÃ©lja, hogy a szÃ©tvÃ¡lÃ³ â€OMS-HUNGARIAâ€ Kft. kÃ©t fÅ‘ tevÃ©kenysÃ©ge, az Ã¼zemeltetÃ©s Ã©s a kivitelezÃ©s, a szÃ©tvÃ¡lÃ¡st kÃ¶vetÅ‘en lehetÅ‘leg egymÃ¡stÃ³l elkÃ¼lÃ¶nÃ¼lten, ebbÅ‘l kÃ¶vetkezÅ‘en hatÃ©konyabban mÅ±kÃ¶dhessen. Ennek megfelelÅ‘en az Ã¡talakulÃ¡st kÃ¶vetÅ‘en a vÃ­zkÃ¶zmÅ± hÃ¡lÃ³zatok Ã¼zemeltetÃ©si feladatainak ellÃ¡tÃ¡sÃ¡t elsÅ‘sorban Â­ de nem kizÃ¡rÃ³lagosan Â­ a tovÃ¡bb mÅ±kÃ¶dÅ‘ â€OMS-HUNGARIAâ€ Kft., mÃ­g a vÃ­zkÃ¶zmÅ±-hÃ¡lÃ³zatok, vÃ­zi lÃ©tesÃ­tmÃ©nyek, vÃ­z- Ã©s szennyvÃ­ztisztÃ­tÃ³ mÅ±vek stb. tervezÃ©si, kivitelezÃ©si feladatainak ellÃ¡tÃ¡sÃ¡t elsÅ‘sorban Â­ de nem kizÃ¡rÃ³lagosan Â­ a kivÃ¡lÃ³ OMS KÃ¶rnyezetvÃ©delmi Kft. vÃ©gzi.<ujsor/>
+A fenti cÃ©l Ã©rdekÃ©ben a kivitelezÃ©si tevÃ©kenysÃ©ggel Ã¶sszefÃ¼ggÅ± vagyonelemek (eszkÃ¶zÃ¶k, kÃ©szletÃ¡llomny, kÃ¶vetelÃ©sÃ¡llomÃ¡ny Ã©s pÃ©nzeszkÃ¶zÃ¶k stb.) a kivÃ¡lÃ³ OMS KÃ¶rnyezetvÃ©delmi Kft.-hez kerÃ¼lnek, illetve az ehhez kapcsolÃ³dÃ³ jogok Ã©s kÃ¶telezettsÃ©gek is a kivÃ¡lÃ³ OMS KÃ¶rnyezetvÃ©delmi Kft.-t illetik meg, illetve terhelik.<ujsor/>
+A szÃ©tvÃ¡lÃ³ tÃ¡rsasÃ¡g tagjai mind a fennmaradÃ³ â€OMS-HUNGARIAâ€ Kft.-ben, mind a kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ OMS KÃ¶rnyezetvÃ©delmi Kft.-ben a jelenlegivel egyezÅ‘ mÃ©rtÃ©kÅ± rÃ©szesedÃ©ssel vesznek rÃ©szt.<ujsor/>
+A szÃ©tvÃ¡lÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g jegyzett tÅ‘kÃ©jÃ©nek 90%-a a kivÃ¡lÃ³ OMS KÃ¶rnyezetvÃ©delmi Kft.-t, 10%-a a fennmaradÃ³ â€OMS-HUNGARIAâ€ Kft.-t illeti meg. A150 000 000 Ft jegyzett tÅ‘kÃ©bÅ‘l ennek alapjÃ¡n a kivÃ¡lÃ³ OMS KÃ¶rnyezetvÃ©delmi Kft. jegyzett tÅ‘kÃ©je 135 000 000 Ft, a fennmaradÃ³ â€OMS-HUNGARIAâ€ Kft. jegyzett tÅ‘kÃ©je 15 000 000 Ft.<ujsor/>
+Azok a hitelezÅ‘k, akiknek a szÃ©tvÃ¡lÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei az Ã¡talakulÃ¡ssal hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig a szÃ©tvÃ¡lÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gtÃ³l a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+A hitelezÅ‘k a kÃ¶vetelÃ©seiket Ã©rintÅ‘ vagyonmegosztÃ¡si rendelkezÃ©sekrÅ‘l az alÃ¡bbi elÃ©rhetÅ‘sÃ©geken kaphatnak tÃ¡jÃ©koztatÃ¡st:<ujsor/>
+Â­ postai Ãºton: 2890 Tata, BacsÃ³ BÃ©la u. 37.,<ujsor/>
+Â­ elektronikus levÃ©l ÃºtjÃ¡n: info@oms.hu,<ujsor/>
+Â­ telefonon: 06 (34) 487-869.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">1109000676</mezo>
-<mezo id = "nev">&quot;OMS-HUNGARIA&quot; Kommunális Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">&quot;OMS-HUNGARIA&quot; KommunÃ¡lis SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">2890 Tata</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az „OMS-HUNGARIA” Kommunális Szolgáltató Korlátolt Felelõsségû Társaság (Cg.: [11 09 000676]; 2890 Tata, Bacsó Béla u. 37.) tagjai a 2010. október 26-án megtartott taggyûlésen másodszor is döntöttek az „OMS-HUNGARIA” Kommunális Szolgáltató Korlátolt Felelõsségû Társaság szétválásáról oly módon, hogy a társaságból kiválik egy korlátolt felelõsségû társaság.<ujsor/>
-A létrejövõ gazdasági társaságok fõbb adatai:<ujsor/>
-A szétválás után fennmaradó gazdasági társaság neve: „OMS-HUNGARIA” Kommunális Szolgáltató Korlátolt Felelõsségû Társaság.<ujsor/>
-Cégjegyzékszáma: [11 09 000676].<ujsor/>
-Székhelye: 2890 Tata, Bacsó Béla u. 37.<ujsor/>
-A kiváló gazdasági társaság neve: OMS Környezetvédelmi Korlátolt Felelõsségû Társaság.<ujsor/>
-Formája: korlátolt felelõsségû társaság.<ujsor/>
-Székhelye: 2890 Tata, Bacsó Béla u. 37.<ujsor/>
-A kiváló gazdasági társaság társasági szerzõdése megkötésének napja: 2010. október 26.<ujsor/>
-Az átalakuláshoz fûzõdõ joghatások beálltának tervezett napja: 2010. december 31.<ujsor/>
-A szétválás módja:kiválás.<ujsor/>
-A szétváló és a létrejövõ (fennmaradó és kiváló) gazdasági társaságok záró, illetve nyitó vagyonmérleg-tervezeteinek legfontosabb adatai:<ujsor/>
+<mezo id = "szoveg">Az â€OMS-HUNGARIAâ€ KommunÃ¡lis SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [11 09 000676]; 2890 Tata, BacsÃ³ BÃ©la u. 37.) tagjai a 2010. oktÃ³ber 26-Ã¡n megtartott taggyÅ±lÃ©sen mÃ¡sodszor is dÃ¶ntÃ¶ttek az â€OMS-HUNGARIAâ€ KommunÃ¡lis SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g szÃ©tvÃ¡lÃ¡sÃ¡rÃ³l oly mÃ³don, hogy a tÃ¡rsasÃ¡gbÃ³l kivÃ¡lik egy korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡gok fÅ‘bb adatai:<ujsor/>
+A szÃ©tvÃ¡lÃ¡s utÃ¡n fennmaradÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g neve: â€OMS-HUNGARIAâ€ KommunÃ¡lis SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡ma: [11 09 000676].<ujsor/>
+SzÃ©khelye: 2890 Tata, BacsÃ³ BÃ©la u. 37.<ujsor/>
+A kivÃ¡lÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g neve: OMS KÃ¶rnyezetvÃ©delmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+FormÃ¡ja: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 2890 Tata, BacsÃ³ BÃ©la u. 37.<ujsor/>
+A kivÃ¡lÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g tÃ¡rsasÃ¡gi szerzÅ‘dÃ©se megkÃ¶tÃ©sÃ©nek napja: 2010. oktÃ³ber 26.<ujsor/>
+Az Ã¡talakulÃ¡shoz fÅ±zÅ‘dÅ‘ joghatÃ¡sok beÃ¡lltÃ¡nak tervezett napja: 2010. december 31.<ujsor/>
+A szÃ©tvÃ¡lÃ¡s mÃ³dja:kivÃ¡lÃ¡s.<ujsor/>
+A szÃ©tvÃ¡lÃ³ Ã©s a lÃ©trejÃ¶vÅ‘ (fennmaradÃ³ Ã©s kivÃ¡lÃ³) gazdasÃ¡gi tÃ¡rsasÃ¡gok zÃ¡rÃ³, illetve nyitÃ³ vagyonmÃ©rleg-tervezeteinek legfontosabb adatai:<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK Szétváló Változatlan formában Kiváló<ujsor/>
-gazdasági társaság tovább mûködõ társaság gazdasági társaság<ujsor/>
-A) Befektetett eszközök 67 072 657 66 415<ujsor/>
-I. Immateriális javak 374 374<ujsor/>
-Alapítás-átszervezés aktivált értéke 286 286<ujsor/>
-Szellemi termékek 88 88<ujsor/>
-II. Tárgyi eszközök 66 620 657 65 963<ujsor/>
-Ingatlanok és a kapcsolódó vagyoni értékû jogok 965 965<ujsor/>
-Mûszaki berendezések, gépek, jármûvek 31 977 510 31 467<ujsor/>
-Egyéb berendezések, felszerelések, jármûvek 33 678 147 33 531<ujsor/>
-III. Befektetett pénzügyi eszközök 78 78<ujsor/>
-Tartós részesedés kapcsolt vállalkozásban 78 78<ujsor/>
-Befektetett pénzügyi eszközök értékelési különbözete<ujsor/>
-B) Forgóeszközök 2 087 914 173 097 1 914 817<ujsor/>
-I. Készletek 377 181 14 600 362 581<ujsor/>
+ESZKÃ–ZÃ–K SzÃ©tvÃ¡lÃ³ VÃ¡ltozatlan formÃ¡ban KivÃ¡lÃ³<ujsor/>
+gazdasÃ¡gi tÃ¡rsasÃ¡g tovÃ¡bb mÅ±kÃ¶dÅ‘ tÃ¡rsasÃ¡g gazdasÃ¡gi tÃ¡rsasÃ¡g<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 67 072 657 66 415<ujsor/>
+I. ImmateriÃ¡lis javak 374 374<ujsor/>
+AlapÃ­tÃ¡s-Ã¡tszervezÃ©s aktivÃ¡lt Ã©rtÃ©ke 286 286<ujsor/>
+Szellemi termÃ©kek 88 88<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 66 620 657 65 963<ujsor/>
+Ingatlanok Ã©s a kapcsolÃ³dÃ³ vagyoni Ã©rtÃ©kÅ± jogok 965 965<ujsor/>
+MÅ±szaki berendezÃ©sek, gÃ©pek, jÃ¡rmÅ±vek 31 977 510 31 467<ujsor/>
+EgyÃ©b berendezÃ©sek, felszerelÃ©sek, jÃ¡rmÅ±vek 33 678 147 33 531<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 78 78<ujsor/>
+TartÃ³s rÃ©szesedÃ©s kapcsolt vÃ¡llalkozÃ¡sban 78 78<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k Ã©rtÃ©kelÃ©si kÃ¼lÃ¶nbÃ¶zete<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 2 087 914 173 097 1 914 817<ujsor/>
+I. KÃ©szletek 377 181 14 600 362 581<ujsor/>
 Anyagok 13 410 13 410<ujsor/>
-Befejezetlen termelés és félkész termékek 139 904 139 904<ujsor/>
-Áruk 28 28<ujsor/>
-Készletekre adott elõlegek 223 839 14 600 209 239<ujsor/>
-II. Követelések 1 318 015 133 868 1 184 147<ujsor/>
-Követelések áruszállításból és szolgáltatásból (vevõk) 754 298 124 104 630 194<ujsor/>
-Követelések kapcsolt vállalkozással szemben 334 482 334 482<ujsor/>
-Egyéb követelések 229 235 9 764 219 471<ujsor/>
-III. Értékpapírok<ujsor/>
-IV. Pénzeszközök 392 718 24 629 368 089<ujsor/>
-Pénztár, csekkek 784 50 734<ujsor/>
-Bankbetétek 391 934 24 579 367 355<ujsor/>
-C) Aktív idõbeli elhatárolások 1 114 705 1 114 705<ujsor/>
-Bevételek aktív idõbeli elhatárolása 1 113 964 1 113 964<ujsor/>
-Költségek, ráfordítások aktív idõbeli elhatárolása 741 741<ujsor/>
-ÖSSZESEN: 3 269 691 173 754 3 095 937<ujsor/>
+Befejezetlen termelÃ©s Ã©s fÃ©lkÃ©sz termÃ©kek 139 904 139 904<ujsor/>
+Ãruk 28 28<ujsor/>
+KÃ©szletekre adott elÅ‘legek 223 839 14 600 209 239<ujsor/>
+II. KÃ¶vetelÃ©sek 1 318 015 133 868 1 184 147<ujsor/>
+KÃ¶vetelÃ©sek Ã¡ruszÃ¡llÃ­tÃ¡sbÃ³l Ã©s szolgÃ¡ltatÃ¡sbÃ³l (vevÅ‘k) 754 298 124 104 630 194<ujsor/>
+KÃ¶vetelÃ©sek kapcsolt vÃ¡llalkozÃ¡ssal szemben 334 482 334 482<ujsor/>
+EgyÃ©b kÃ¶vetelÃ©sek 229 235 9 764 219 471<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 392 718 24 629 368 089<ujsor/>
+PÃ©nztÃ¡r, csekkek 784 50 734<ujsor/>
+BankbetÃ©tek 391 934 24 579 367 355<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 1 114 705 1 114 705<ujsor/>
+BevÃ©telek aktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sa 1 113 964 1 113 964<ujsor/>
+KÃ¶ltsÃ©gek, rÃ¡fordÃ­tÃ¡sok aktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sa 741 741<ujsor/>
+Ã–SSZESEN: 3 269 691 173 754 3 095 937<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK Szétváló Változatlan formában Kiváló<ujsor/>
-gazdasági társaság tovább mûködõ társaság gazdasági társaság<ujsor/>
-D) Saját tõke 688 678 157 309 531 369<ujsor/>
-I. Jegyzett tõke 150 000 15 000 135 000<ujsor/>
-II. Jegyzett, de még be nem fizetett tõke (­)<ujsor/>
-III. Tõketartalék 813 813<ujsor/>
-IV. Eredménytartalék 521 605 142 309 379 296<ujsor/>
-V. Lekötött tartalék 16 260 16 260<ujsor/>
-ebbõl: fejlesztési tartalék 12 875 12 875<ujsor/>
-VI. Értékelési tartalék<ujsor/>
-VII. Mérleg szerinti eredmény<ujsor/>
-E) Céltartalékok 176 211 5 324 170 887<ujsor/>
-Céltartalék a várható kötelezettségekre 176 211 5 324 170 887<ujsor/>
-F) Kötelezettségek 1 478 346 11 121 1 467 225<ujsor/>
-I. Hátra sorolt kötelezettségek<ujsor/>
-II. Hosszú lejáratú kötelezettségek 6 576 6 576<ujsor/>
-Beruházási és fejlesztési hitelek 4 060 4 060<ujsor/>
-Egyéb hosszú lejáratú kötelezettségek 2 516 2 516<ujsor/>
-III. Rövid lejáratú kötelezettségek 1 471 770 11 121 1 460 649<ujsor/>
-Rövid lejáratú kölcsönök 4 547 4 547<ujsor/>
-Rövid lejáratú hitelek 297 517 297 517<ujsor/>
-Vevõktõl kapott elõlegek 251 064 251 064<ujsor/>
-Kötelezetségek áruszállításból és szolgáltatásból (szállítók) 506 837 5 993 500 844<ujsor/>
-Rövid lejáratú kötelezettségek kapcsolt vállalkozással szemben 384 692 3 900 380 792<ujsor/>
-Egyéb rövid lejáratú kötelezettségek 27 113 1 228 25 885<ujsor/>
-G) Passzív idõbeli elhatárolások 926 456 926 456<ujsor/>
-Bevételek passzív idõbeli elhatárolása 44 008 44 008<ujsor/>
-Költségek, ráfordítások passzív idõbeli elhatárolása 882 448 882 448<ujsor/>
-ÖSSZESEN: 3 269 691 173 754 3 095 937<ujsor/>
-A fennmaradó „OMS-HUNGARIA” Kommunális Szolgáltató Korlátolt Felelõsségû Társaság fõ tevékenysége (TEÁOR ’08): 6820 Saját tulajdonú, bérelt ingatlan bérbeadása, üzemeltetése.<ujsor/>
-A kiváló OMS Környezetvédelmi Korlátolt Felelõsségû Társaság fõ tevékenysége (TEÁOR ’08): 4221 Folyadék szállítására szolgáló közmû építése.<ujsor/>
-A fennmaradó társaság vezetõ tisztségviselõi: Kiss János ügyvezetõ (a. n.: Éberhardt Teréz; 2890 Tata, Bacsó Béla út 54/A); Dipl. Ing. Klaus Einfalt (a. n.: Thalhammer Heide; 1121 Budapest, Arató u. 22/A).<ujsor/>
-A kiváló társaság vezetõ tisztségviselõi: Kiss János ügyvezetõ (a. n.: Éberhardt Teréz; 2890 Tata, Bacsó Béla út 54/A); Dipl. Ing. Klaus Einfalt (a. n.: Thalhammer Heide; 1121 Budapest, Arató u. 22/A).<ujsor/>
-A szétváló gazdasági társaságot megilletõ jogok és kötelezettségek megosztására vonatkozó megállapodás fontosabb rendelkezései:<ujsor/>
-A szétválás alapvetõ célja, hogy a szétváló „OMS-HUNGARIA” Kft. két fõ tevékenysége, az üzemeltetés és a kivitelezés, a szétválást követõen lehetõleg egymástól elkülönülten, ebbõl következõen hatékonyabban mûködhessen. Ennek megfelelõen az átalakulást követõen a vízközmû hálózatok üzemeltetési feladatainak ellátását elsõsorban ­ de nem kizárólagosan ­ a tovább mûködõ „OMS-HUNGARIA” Kft., míg a vízközmû-hálózatok, vízi létesítmények, víz- és szennyvíztisztító mûvek stb. tervezési, kivitelezési feladatainak ellátását elsõsorban ­ de nem kizárólagosan ­ a kiváló OMS Környezetvédelmi Kft. végzi.<ujsor/>
-A fenti cél érdekében a kivitelezési tevékenységgel összefüggû vagyonelemek (eszközök, készletállomány, követelésállomány és pénzeszközök stb.) a kiváló OMS Környezetvédelmi Kft.-hez kerülnek, illetve az ehhez kapcsolódó jogok és kötelezettségek is a kiváló OMS Környezetvédelmi Kft.-t illetik meg, illetve terhelik.<ujsor/>
-A szétváló társaság tagjai mind a fennmaradó „OMS-HUNGARIA” Kft.-ben, mind a kiválással létrejövõ OMS Környezetvédelmi Kft.-ben a jelenlegivel egyezõ mértékû részesedéssel vesznek részt.<ujsor/>
-A szétváló gazdasági társaság jegyzett tõkéjének 90%-a a kiváló OMS Környezetvédelmi Kft.-t, 10%-a a fennmaradó „OMS-HUNGARIA” Kft.-t illeti meg. A 150 000 000 Ft jegyzett tõkébõl ennek alapján a kiváló OMS Környezetvédelmi Kft. jegyzett tõkéje 135 000 000 Ft, a fennmaradó „OMS-HUNGARIA” Kft. jegyzett tõkéje 15 000 000 Ft.<ujsor/>
-Azok a hitelezõk, akiknek a szétváló gazdasági társasággal szemben fennálló, le nem járt követelései az átalakulással hozott döntés elsõ közzétételét megelõzõen keletkeztek, követeléseik erejéig a szétváló gazdasági társaságtól a döntés második közzétételét követõ harmincnapos jogvesztõ határidõn belül biztosítékot követelhetnek.<ujsor/>
-A hitelezõk a követeléseiket érintõ vagyonmegosztási rendelkezésekrõl az alábbi elérhetõségeken kaphatnak tájékoztatást:<ujsor/>
-­ postai úton: 2890 Tata, Bacsó Béla u. 37.,<ujsor/>
-­ elektronikus levél útján: info@oms.hu,<ujsor/>
-­ telefonon: 06 (34) 487-869.<ujsor/>
-(Második közzététel.)<ujsor/>
+FORRÃSOK SzÃ©tvÃ¡lÃ³ VÃ¡ltozatlan formÃ¡ban KivÃ¡lÃ³<ujsor/>
+gazdasÃ¡gi tÃ¡rsasÃ¡g tovÃ¡bb mÅ±kÃ¶dÅ‘ tÃ¡rsasÃ¡g gazdasÃ¡gi tÃ¡rsasÃ¡g<ujsor/>
+D) SajÃ¡t tÅ‘ke 688 678 157 309 531 369<ujsor/>
+I. Jegyzett tÅ‘ke 150 000 15 000 135 000<ujsor/>
+II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke (Â­)<ujsor/>
+III. TÅ‘ketartalÃ©k 813 813<ujsor/>
+IV. EredmÃ©nytartalÃ©k 521 605 142 309 379 296<ujsor/>
+V. LekÃ¶tÃ¶tt tartalÃ©k 16 260 16 260<ujsor/>
+ebbÅ‘l: fejlesztÃ©si tartalÃ©k 12 875 12 875<ujsor/>
+VI. Ã‰rtÃ©kelÃ©si tartalÃ©k<ujsor/>
+VII. MÃ©rleg szerinti eredmÃ©ny<ujsor/>
+E) CÃ©ltartalÃ©kok 176 211 5 324 170 887<ujsor/>
+CÃ©ltartalÃ©k a vÃ¡rhatÃ³ kÃ¶telezettsÃ©gekre 176 211 5 324 170 887<ujsor/>
+F) KÃ¶telezettsÃ©gek 1 478 346 11 121 1 467 225<ujsor/>
+I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek<ujsor/>
+II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 6 576 6 576<ujsor/>
+BeruhÃ¡zÃ¡si Ã©s fejlesztÃ©si hitelek 4 060 4 060<ujsor/>
+EgyÃ©b hosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 2 516 2 516<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 1 471 770 11 121 1 460 649<ujsor/>
+RÃ¶vid lejÃ¡ratÃº kÃ¶lcsÃ¶nÃ¶k 4 547 4 547<ujsor/>
+RÃ¶vid lejÃ¡ratÃº hitelek 297 517 297 517<ujsor/>
+VevÅ‘ktÅ‘l kapott elÅ‘legek 251 064 251 064<ujsor/>
+KÃ¶telezetsÃ©gek Ã¡ruszÃ¡llÃ­tÃ¡sbÃ³l Ã©s szolgÃ¡ltatÃ¡sbÃ³l (szÃ¡llÃ­tÃ³k) 506 837 5 993 500 844<ujsor/>
+RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek kapcsolt vÃ¡llalkozÃ¡ssal szemben 384 692 3 900 380 792<ujsor/>
+EgyÃ©b rÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 27 113 1 228 25 885<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 926 456 926 456<ujsor/>
+BevÃ©telek passzÃ­v idÅ‘beli elhatÃ¡rolÃ¡sa 44 008 44 008<ujsor/>
+KÃ¶ltsÃ©gek, rÃ¡fordÃ­tÃ¡sok passzÃ­v idÅ‘beli elhatÃ¡rolÃ¡sa 882 448 882 448<ujsor/>
+Ã–SSZESEN: 3 269 691 173 754 3 095 937<ujsor/>
+A fennmaradÃ³ â€OMS-HUNGARIAâ€ KommunÃ¡lis SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™08): 6820 SajÃ¡t tulajdonÃº, bÃ©relt ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se.<ujsor/>
+A kivÃ¡lÃ³ OMS KÃ¶rnyezetvÃ©delmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™08): 4221 FolyadÃ©k szÃ¡llÃ­tÃ¡sÃ¡ra szolgÃ¡lÃ³ kÃ¶zmÅ± Ã©pÃ­tÃ©se.<ujsor/>
+A fennmaradÃ³ tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘i: Kiss JÃ¡nos Ã¼gyvezetÅ‘ (a. n.: Ã‰berhardt TerÃ©z; 2890 Tata, BacsÃ³ BÃ©la Ãºt 54/A); Dipl. Ing. Klaus Einfalt (a. n.: Thalhammer Heide; 1121 Budapest, AratÃ³ u. 22/A).<ujsor/>
+A kivÃ¡lÃ³ tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘i: Kiss JÃ¡nos Ã¼gyvezetÅ‘ (a. n.: Ã‰berhardt TerÃ©z; 2890 Tata, BacsÃ³ BÃ©la Ãºt 54/A); Dipl. Ing. Klaus Einfalt (a. n.: Thalhammer Heide; 1121 Budapest, AratÃ³ u. 22/A).<ujsor/>
+A szÃ©tvÃ¡lÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡got megilletÅ‘ jogok Ã©s kÃ¶telezettsÃ©gek megosztÃ¡sÃ¡ra vonatkozÃ³ megÃ¡llapodÃ¡s fontosabb rendelkezÃ©sei:<ujsor/>
+A szÃ©tvÃ¡lÃ¡s alapvetÅ‘ cÃ©lja, hogy a szÃ©tvÃ¡lÃ³ â€OMS-HUNGARIAâ€ Kft. kÃ©t fÅ‘ tevÃ©kenysÃ©ge, az Ã¼zemeltetÃ©s Ã©s a kivitelezÃ©s, a szÃ©tvÃ¡lÃ¡st kÃ¶vetÅ‘en lehetÅ‘leg egymÃ¡stÃ³l elkÃ¼lÃ¶nÃ¼lten, ebbÅ‘l kÃ¶vetkezÅ‘en hatÃ©konyabban mÅ±kÃ¶dhessen. Ennek megfelelÅ‘en az Ã¡talakulÃ¡st kÃ¶vetÅ‘en a vÃ­zkÃ¶zmÅ± hÃ¡lÃ³zatok Ã¼zemeltetÃ©si feladatainak ellÃ¡tÃ¡sÃ¡t elsÅ‘sorban Â­ de nem kizÃ¡rÃ³lagosan Â­ a tovÃ¡bb mÅ±kÃ¶dÅ‘ â€OMS-HUNGARIAâ€ Kft., mÃ­g a vÃ­zkÃ¶zmÅ±-hÃ¡lÃ³zatok, vÃ­zi lÃ©tesÃ­tmÃ©nyek, vÃ­z- Ã©s szennyvÃ­ztisztÃ­tÃ³ mÅ±vek stb. tervezÃ©si, kivitelezÃ©si feladatainak ellÃ¡tÃ¡sÃ¡t elsÅ‘sorban Â­ de nem kizÃ¡rÃ³lagosan Â­ a kivÃ¡lÃ³ OMS KÃ¶rnyezetvÃ©delmi Kft. vÃ©gzi.<ujsor/>
+A fenti cÃ©l Ã©rdekÃ©ben a kivitelezÃ©si tevÃ©kenysÃ©ggel Ã¶sszefÃ¼ggÅ± vagyonelemek (eszkÃ¶zÃ¶k, kÃ©szletÃ¡llomÃ¡ny, kÃ¶vetelÃ©sÃ¡llomÃ¡ny Ã©s pÃ©nzeszkÃ¶zÃ¶k stb.) a kivÃ¡lÃ³ OMS KÃ¶rnyezetvÃ©delmi Kft.-hez kerÃ¼lnek, illetve az ehhez kapcsolÃ³dÃ³ jogok Ã©s kÃ¶telezettsÃ©gek is a kivÃ¡lÃ³ OMS KÃ¶rnyezetvÃ©delmi Kft.-t illetik meg, illetve terhelik.<ujsor/>
+A szÃ©tvÃ¡lÃ³ tÃ¡rsasÃ¡g tagjai mind a fennmaradÃ³ â€OMS-HUNGARIAâ€ Kft.-ben, mind a kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ OMS KÃ¶rnyezetvÃ©delmi Kft.-ben a jelenlegivel egyezÅ‘ mÃ©rtÃ©kÅ± rÃ©szesedÃ©ssel vesznek rÃ©szt.<ujsor/>
+A szÃ©tvÃ¡lÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g jegyzett tÅ‘kÃ©jÃ©nek 90%-a a kivÃ¡lÃ³ OMS KÃ¶rnyezetvÃ©delmi Kft.-t, 10%-a a fennmaradÃ³ â€OMS-HUNGARIAâ€ Kft.-t illeti meg. A 150 000 000 Ft jegyzett tÅ‘kÃ©bÅ‘l ennek alapjÃ¡n a kivÃ¡lÃ³ OMS KÃ¶rnyezetvÃ©delmi Kft. jegyzett tÅ‘kÃ©je 135 000 000 Ft, a fennmaradÃ³ â€OMS-HUNGARIAâ€ Kft. jegyzett tÅ‘kÃ©je 15 000 000 Ft.<ujsor/>
+Azok a hitelezÅ‘k, akiknek a szÃ©tvÃ¡lÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei az Ã¡talakulÃ¡ssal hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig a szÃ©tvÃ¡lÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gtÃ³l a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+A hitelezÅ‘k a kÃ¶vetelÃ©seiket Ã©rintÅ‘ vagyonmegosztÃ¡si rendelkezÃ©sekrÅ‘l az alÃ¡bbi elÃ©rhetÅ‘sÃ©geken kaphatnak tÃ¡jÃ©koztatÃ¡st:<ujsor/>
+Â­ postai Ãºton: 2890 Tata, BacsÃ³ BÃ©la u. 37.,<ujsor/>
+Â­ elektronikus levÃ©l ÃºtjÃ¡n: info@oms.hu,<ujsor/>
+Â­ telefonon: 06 (34) 487-869.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">1109000676</mezo>
-<mezo id = "nev">&quot;OMS-HUNGARIA&quot; Kommunális Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">&quot;OMS-HUNGARIA&quot; KommunÃ¡lis SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">2890 Tata</mezo>
 </alrovat>
 </rovat>

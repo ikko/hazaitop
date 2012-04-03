@@ -27,6 +27,8 @@ class Contract < ActiveRecord::Base
 
   default_scope  :order => 'contracted_value DESC'
 
+  named_scope :info, lambda { |info_ids| info_ids.present? ? { :conditions => [ "information_source_id in (?)", info_ids ]} : {} }
+
   has_many :contract_type_rels
   has_many :contract_types, :through => :contract_type_rels
 

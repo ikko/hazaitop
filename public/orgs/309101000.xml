@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">101000</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">6050 Lajosmizse, Dózsa Gy. út 219. </mezo>
+<mezo id = "cim">6050 Lajosmizse, DÃ³zsa Gy. Ãºt 219. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">10660612203</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19911201</mezo>
-<mezo id = "nev">&quot;GOMÉP&quot; Ipari és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">&quot;GOMÃ‰P&quot; Ipari Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
@@ -21,7 +21,7 @@
 <mezo id = "hattol">20061218</mezo>
 <mezo id = "irsz">6050</mezo>
 <mezo id = "hely">Lajosmizse</mezo>
-<mezo id = "teru">Dózsa Gy. út 219.</mezo>
+<mezo id = "teru">DÃ³zsa Gy. Ãºt 219.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">20061113</mezo>
 <mezo id = "valtv">0</mezo>
@@ -36,14 +36,14 @@
 <alrovat id = "4">
 <mezo id = "hattol">19991013</mezo>
 <mezo id = "irsz">6050</mezo>
-<mezo id = "hely">Lajosmizse, Dózsa Gy. út 221.</mezo>
+<mezo id = "hely">Lajosmizse, DÃ³zsa Gy. Ãºt 221.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "7">
 <alrovat id = "1">
 <mezo id = "hattol">19991013</mezo>
 <mezo id = "irsz">2377</mezo>
-<mezo id = "hely">Örkény, Jókai u. 2.</mezo>
+<mezo id = "hely">Ã–rkÃ©ny, JÃ³kai u. 2.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "8">
@@ -686,8 +686,8 @@
 <rovat id = "13">
 <alrovat id = "4">
 <mezo id = "hattol">20100527</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Gombkötõ Márk Zoltán</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">GombkÃ¶tÅ‘ MÃ¡rk ZoltÃ¡n</mezo>
 <mezo id = "panev">Fekete Ilona</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20080610</mezo>
@@ -697,8 +697,8 @@
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">20100527</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Dr. Svébisné Gombkötõ Gizella</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Dr. SvÃ©bisnÃ© GombkÃ¶tÅ‘ Gizella</mezo>
 <mezo id = "panev">Fekete Ilona</mezo>
 <mezo id = "pirsz">6050</mezo>
 <mezo id = "phely">Lajosmizse</mezo>
@@ -711,12 +711,12 @@
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">20100527</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Horváth Károly</mezo>
-<mezo id = "panev">Jánosy Etelka</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">HorvÃ¡th KÃ¡roly</mezo>
+<mezo id = "panev">JÃ¡nosy Etelka</mezo>
 <mezo id = "pirsz">6050</mezo>
 <mezo id = "phely">Lajosmizse</mezo>
-<mezo id = "pteru">Városház tér 4.</mezo>
+<mezo id = "pteru">VÃ¡roshÃ¡z tÃ©r 4.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20100527</mezo>
 <mezo id = "valtk">20100527</mezo>
@@ -728,16 +728,16 @@
 <alrovat id = "3">
 <mezo id = "hattol">20080610</mezo>
 <mezo id = "cgjsz">309108351</mezo>
-<mezo id = "nev">EXTRA-AUDIT Könyvelõ és Könyvvizsgáló Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">EXTRA-AUDIT KÃ¶nyvelÅ‘ Ã©s KÃ¶nyvvizsgÃ¡lÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">6000</mezo>
-<mezo id = "hely">Kecskemét</mezo>
-<mezo id = "teru">Áfonya</mezo>
+<mezo id = "hely">KecskemÃ©t</mezo>
+<mezo id = "teru">Ãfonya</mezo>
 <mezo id = "hsz">27</mezo>
-<mezo id = "pnev">Balázsné Szabó Zsuzsanna</mezo>
+<mezo id = "pnev">BalÃ¡zsnÃ© SzabÃ³ Zsuzsanna</mezo>
 <mezo id = "panev">Durucz Piroska</mezo>
 <mezo id = "pirsz">6000</mezo>
-<mezo id = "phely">Kecskemét, Áfonya u. 27.</mezo>
+<mezo id = "phely">KecskemÃ©t, Ãfonya u. 27.</mezo>
 <mezo id = "jogvk">20080610</mezo>
 <mezo id = "jogvv">20130610</mezo>
 <mezo id = "valtk">20080610</mezo>
@@ -757,20 +757,20 @@
 <mezo id = "adosz">10660612203</mezo>
 <mezo id = "kadosz">HU10660612</mezo>
 <mezo id = "bkelt">20110908</mezo>
-<mezo id = "megj">Státusz kezdete: 1991/12/15</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 1991/12/15</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0109">
 <alrovat id = "4">
 <mezo id = "hattol">19970516</mezo>
-<mezo id = "nev">Gombkötõ Márk Zoltán</mezo>
+<mezo id = "nev">GombkÃ¶tÅ‘ MÃ¡rk ZoltÃ¡n</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">6050</mezo>
 <mezo id = "hely">Lajosmizse, Bem u. 67.</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">19970516</mezo>
-<mezo id = "nev">Gombkötõ Márk Zoltánné</mezo>
+<mezo id = "nev">GombkÃ¶tÅ‘ MÃ¡rk ZoltÃ¡nnÃ©</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">6050</mezo>
 <mezo id = "hely">Lajosmizse, Bem u. 67.</mezo>
@@ -780,11 +780,11 @@
 <mezo id = "nev">Muhari Gyula</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">6050</mezo>
-<mezo id = "hely">Lajosmizse, Dankó P. u. 5.</mezo>
+<mezo id = "hely">Lajosmizse, DankÃ³ P. u. 5.</mezo>
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">20061218</mezo>
-<mezo id = "pnev">Dr. Svébisné Gombkötõ Gizella</mezo>
+<mezo id = "pnev">Dr. SvÃ©bisnÃ© GombkÃ¶tÅ‘ Gizella</mezo>
 <mezo id = "panev">Fekete Ilona</mezo>
 <mezo id = "pirsz">6050</mezo>
 <mezo id = "phely">Lajosmizse, Bene u. 164.</mezo>
@@ -803,43 +803,43 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Bács-Kiskun Megyei Bíróság mint Cégbíróság a Cg.03-09-101000 cégjegyzékszámon bejegyzett &quot;GOMÉP&quot; Ipari és Kereskedelmi Korlátolt Felelõsségû Társaság (6050 Lajosmizse, Dózsa Gy. út 219.; adószáma: 10660612-2-03) kérelme alapján elrendeli az 2010. június 1. napján hozott Cg.03-09-101000 /58. számú végzésének kijavítását az alábbiak szerint:<ujsor/>
-13. A képviseletre jogosult(ak) adatai<ujsor/>
-A képviselet módja: önálló.<ujsor/>
-Adóazonosító jel: 8314115517<ujsor/>
-Dr. Svébisné Gombkötõ Gizella vezetõ tisztségviselõ (ügyvezetõ) (an.: Fekete Ilona)<ujsor/>
+<mezo id = "szoveg">A BÃ¡cs-Kiskun Megyei BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.03-09-101000 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett &quot;GOMÃ‰P&quot; Ipari Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (6050 Lajosmizse, DÃ³zsa Gy. Ãºt 219.; adÃ³szÃ¡ma: 10660612-2-03) kÃ©relme alapjÃ¡n elrendeli az 2010. jÃºnius 1. napjÃ¡n hozott Cg.03-09-101000 /58. szÃ¡mÃº vÃ©gzÃ©sÃ©nek kijavÃ­tÃ¡sÃ¡t az alÃ¡bbiak szerint:<ujsor/>
+13. A kÃ©pviseletre jogosult(ak) adatai<ujsor/>
+A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+AdÃ³azonosÃ­tÃ³ jel: 8314115517<ujsor/>
+Dr. SvÃ©bisnÃ© GombkÃ¶tÅ‘ Gizella vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘) (an.: Fekete Ilona)<ujsor/>
 6050 Lajosmizse, Bene tanya 164.<ujsor/>
 Jogv. kezdete: 2010.05.27.<ujsor/>
-Vált. vége: 2010.05.27.<ujsor/>
-Törölve (végzés kelte): 2011. szeptember 8.<ujsor/>
-A képviselet módja: önálló.<ujsor/>
-Adóazonosító jel: 8377141426<ujsor/>
-Horváth Károly vezetõ tisztségviselõ (ügyvezetõ) (an.: Jánosy Etelka)<ujsor/>
-6050 Lajosmizse, Városház tér 4.<ujsor/>
+VÃ¡lt. vÃ©ge: 2010.05.27.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2011. szeptember 8.<ujsor/>
+A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+AdÃ³azonosÃ­tÃ³ jel: 8377141426<ujsor/>
+HorvÃ¡th KÃ¡roly vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘) (an.: JÃ¡nosy Etelka)<ujsor/>
+6050 Lajosmizse, VÃ¡roshÃ¡z tÃ©r 4.<ujsor/>
 Jogv. kezdete: 2010.05.27.<ujsor/>
-Vált. vége: 2010.05.27.<ujsor/>
-Törölve (végzés kelte): 2011. szeptember 8.<ujsor/>
-A képviselet módja: együttes.<ujsor/>
-Adóazonosító jel: 8314115517<ujsor/>
-Dr. Svébisné Gombkötõ Gizella vezetõ tisztségviselõ (ügyvezetõ) (an.: Fekete Ilona)<ujsor/>
+VÃ¡lt. vÃ©ge: 2010.05.27.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2011. szeptember 8.<ujsor/>
+A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+AdÃ³azonosÃ­tÃ³ jel: 8314115517<ujsor/>
+Dr. SvÃ©bisnÃ© GombkÃ¶tÅ‘ Gizella vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘) (an.: Fekete Ilona)<ujsor/>
 6050 Lajosmizse, Bene tanya 164.<ujsor/>
 Jogv. kezdete: 2010.05.27.<ujsor/>
-Vált. kezdete: 2010.05.27.<ujsor/>
-Bejegyezve (végzés kelte): 2011. szeptember 8.<ujsor/>
-A képviselet módja: együttes.<ujsor/>
-Adóazonosító jel: 8377141426<ujsor/>
-Horváth Károly vezetõ tisztségviselõ (ügyvezetõ) (an.: Jánosy Etelka)<ujsor/>
-6050 Lajosmizse, Városház tér 4.<ujsor/>
+VÃ¡lt. kezdete: 2010.05.27.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2011. szeptember 8.<ujsor/>
+A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+AdÃ³azonosÃ­tÃ³ jel: 8377141426<ujsor/>
+HorvÃ¡th KÃ¡roly vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘) (an.: JÃ¡nosy Etelka)<ujsor/>
+6050 Lajosmizse, VÃ¡roshÃ¡z tÃ©r 4.<ujsor/>
 Jogv. kezdete: 2010.05.27.<ujsor/>
-Vált. kezdete: 2010.05.27.<ujsor/>
-Bejegyezve (végzés kelte): 2011. szeptember 8.<ujsor/>
-E végzés ellen fellebbezésnek nincs helye, azonban az ügyész, továbbá az, akire a végzés rendelkezést tartalmaz - a rendelkezés õt érintõ részére vonatkozóan - pert indíthat a cég ellen a cég székhelye szerint illetékes megyei bíróság elõtt a bejegyzõ végzés hatályon kívül helyezése iránt.<ujsor/>
-A per megindításának a bejegyzõ végzés Cégközlönyben való közzétételétõl, illetve - közzétételi kötelezettség hiányában - annak kézbesítésétõl számított 30 napon belül van helye. A határidõ elmulasztása jogvesztéssel jár.<ujsor/>
+VÃ¡lt. kezdete: 2010.05.27.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2011. szeptember 8.<ujsor/>
+E vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye, azonban az Ã¼gyÃ©sz, tovÃ¡bbÃ¡ az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s Å‘t Ã©rintÅ‘ rÃ©szÃ©re vonatkozÃ³an - pert indÃ­that a cÃ©g ellen a cÃ©g szÃ©khelye szerint illetÃ©kes megyei bÃ­rÃ³sÃ¡g elÅ‘tt a bejegyzÅ‘ vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt.<ujsor/>
+A per megindÃ­tÃ¡sÃ¡nak a bejegyzÅ‘ vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l, illetve - kÃ¶zzÃ©tÃ©teli kÃ¶telezettsÃ©g hiÃ¡nyÃ¡ban - annak kÃ©zbesÃ­tÃ©sÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l van helye. A hatÃ¡ridÅ‘ elmulasztÃ¡sa jogvesztÃ©ssel jÃ¡r.<ujsor/>
 2011. szeptember 8.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0309101000</mezo>
-<mezo id = "nev">&apos;GOMÉP&apos; Ipari és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">6050 Lajosmizse, Dózsa Gy. út 219.</mezo>
+<mezo id = "nev">&apos;GOMÃ‰P&apos; Ipari Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">6050 Lajosmizse, DÃ³zsa Gy. Ãºt 219.</mezo>
 <mezo id = "adosz">10660612203</mezo>
 </alrovat>
 </rovat>

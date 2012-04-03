@@ -6,14 +6,14 @@
 <mezo id = "szam">015361</mezo>
 <mezo id = "nevalrovat">1</mezo>
 <mezo id = "allapot">6</mezo>
-<mezo id = "cim">1046 Budapest, Hajló u. 29. 3. em. 6. </mezo>
+<mezo id = "cim">1046 Budapest, HajlÃ³ u. 29. 3. em. 6. </mezo>
 <mezo id = "adosz">28114934101</mezo>
 </alrovat>
 </rovat>
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19901128</mezo>
-<mezo id = "nev">PHOENIX Informatikai Oktató és Szolgáltató betéti társaság</mezo>
+<mezo id = "nev">PHOENIX Informatikai OktatÃ³ Ã©s SzolgÃ¡ltatÃ³ betÃ©ti tÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -27,7 +27,7 @@
 <mezo id = "hattol">19990120</mezo>
 <mezo id = "irsz">1046</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Hajló u. 29. 3. em. 6.</mezo>
+<mezo id = "teru">HajlÃ³ u. 29. 3. em. 6.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "8">
@@ -90,18 +90,18 @@
 <rovat id = "13">
 <alrovat id = "5">
 <mezo id = "hattol">19990120</mezo>
-<mezo id = "tiszt">üzletvezetõ</mezo>
-<mezo id = "pnev">Dr. Balláné Gál Hajnalka</mezo>
-<mezo id = "panev">Ködöböcz Jolán</mezo>
+<mezo id = "tiszt">Ã¼zletvezetÅ‘</mezo>
+<mezo id = "pnev">Dr. BallÃ¡nÃ© GÃ¡l Hajnalka</mezo>
+<mezo id = "panev">KÃ¶dÃ¶bÃ¶cz JolÃ¡n</mezo>
 <mezo id = "pirsz">1046</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Hajló u. 29.</mezo>
+<mezo id = "pteru">HajlÃ³ u. 29.</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">19990120</mezo>
-<mezo id = "tiszt">üzletvezetõ</mezo>
-<mezo id = "pnev">Szaniszló Tibor</mezo>
-<mezo id = "panev">Lõrincz Irén</mezo>
+<mezo id = "tiszt">Ã¼zletvezetÅ‘</mezo>
+<mezo id = "pnev">SzaniszlÃ³ Tibor</mezo>
+<mezo id = "panev">LÅ‘rincz IrÃ©n</mezo>
 <mezo id = "pirsz">1153</mezo>
 <mezo id = "phely">Budapest</mezo>
 <mezo id = "pteru">Kossuth u. 31.</mezo>
@@ -116,15 +116,15 @@
 <rovat id = "0106">
 <alrovat id = "6">
 <mezo id = "hattol">19990120</mezo>
-<mezo id = "pnev">Dr. Balláné Gál Hajnalka</mezo>
-<mezo id = "panev">Köröböcz Jolán</mezo>
+<mezo id = "pnev">Dr. BallÃ¡nÃ© GÃ¡l Hajnalka</mezo>
+<mezo id = "panev">KÃ¶rÃ¶bÃ¶cz JolÃ¡n</mezo>
 <mezo id = "pirsz">1046</mezo>
-<mezo id = "phely">Budapest, Hajló u. 29.</mezo>
+<mezo id = "phely">Budapest, HajlÃ³ u. 29.</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">19990120</mezo>
-<mezo id = "pnev">Szaniszló Tibor</mezo>
-<mezo id = "panev">Lõrincz Irén</mezo>
+<mezo id = "pnev">SzaniszlÃ³ Tibor</mezo>
+<mezo id = "panev">LÅ‘rincz IrÃ©n</mezo>
 <mezo id = "pirsz">1153</mezo>
 <mezo id = "phely">Budapest, Kossuth u. 31.</mezo>
 </alrovat>
@@ -132,11 +132,11 @@
 <rovat id = "0206">
 <alrovat id = "2">
 <mezo id = "hattol">19990120</mezo>
-<mezo id = "nev">Rendõrtiszti Fõiskola képviselõje: dr. Blaskó Béla fõigazgató</mezo>
+<mezo id = "nev">RendÅ‘rtiszti FÅ‘iskola kÃ©pviselÅ‘je: dr. BlaskÃ³ BÃ©la fÅ‘igazgatÃ³</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1121</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Farkasvölgyi út</mezo>
+<mezo id = "teru">FarkasvÃ¶lgyi Ãºt</mezo>
 <mezo id = "hsz">12.</mezo>
 </alrovat>
 </rovat>
@@ -149,62 +149,62 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság az 1999. 03. 02-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-09. 80.22 Szakmai középfokú oktatás (fõtevékenység).<ujsor/>
- 80.42 Felnõtt- és egyéb oktatás.<ujsor/>
- Törölve: 1999. 03. 02-i hatállyal.<ujsor/>
- 80.22 Szakmai középfokú oktatás.<ujsor/>
- 80.42 Felnõtt- és egyéb oktatás (fõtevékenység).<ujsor/>
- Hatályos: 1999. 03. 02-tól.<ujsor/>
-18. Budapesti Kereskedelmi és Iparkamara.<ujsor/>
- Törölve: 1999. 04. 12-i hatállyal.<ujsor/>
- Budapesti Kereskedelmi és Iparkamara.<ujsor/>
- Kamarai azonosítószám: 304112.<ujsor/>
- Hatályos: 1999. 04. 12-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g az 1999. 03. 02-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+09. 80.22 Szakmai kÃ¶zÃ©pfokÃº oktatÃ¡s (fÅ‘tevÃ©kenysÃ©g).<ujsor/>
+ 80.42 FelnÅ‘tt- Ã©s egyÃ©b oktatÃ¡s.<ujsor/>
+ TÃ¶rÃ¶lve: 1999. 03. 02-i hatÃ¡llyal.<ujsor/>
+ 80.22 Szakmai kÃ¶zÃ©pfokÃº oktatÃ¡s.<ujsor/>
+ 80.42 FelnÅ‘tt- Ã©s egyÃ©b oktatÃ¡s (fÅ‘tevÃ©kenysÃ©g).<ujsor/>
+ HatÃ¡lyos: 1999. 03. 02-tÃ³l.<ujsor/>
+18. Budapesti Kereskedelmi Ã©s Iparkamara.<ujsor/>
+ TÃ¶rÃ¶lve: 1999. 04. 12-i hatÃ¡llyal.<ujsor/>
+ Budapesti Kereskedelmi Ã©s Iparkamara.<ujsor/>
+ Kamarai azonosÃ­tÃ³szÃ¡m: 304112.<ujsor/>
+ HatÃ¡lyos: 1999. 04. 12-tÅ‘l.<ujsor/>
 19. 29411253.<ujsor/>
- Hatályos: 1999. 04. 12-tõl.<ujsor/>
+ HatÃ¡lyos: 1999. 04. 12-tÅ‘l.<ujsor/>
 20. 28114934-8042-212-01.<ujsor/>
- Hatályos: 1999. 04. 12-tõl.<ujsor/>
+ HatÃ¡lyos: 1999. 04. 12-tÅ‘l.<ujsor/>
 21. 28114934-1-01.<ujsor/>
- Törölve: 1999. 04. 12-i hatállyal.<ujsor/>
+ TÃ¶rÃ¶lve: 1999. 04. 12-i hatÃ¡llyal.<ujsor/>
  28114934-2-41.<ujsor/>
- Hatályos: 1999. 04. 12-tõl.<ujsor/>
+ HatÃ¡lyos: 1999. 04. 12-tÅ‘l.<ujsor/>
 Bejegyezve: 1999. 04. 12.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0106015361</mezo>
-<mezo id = "nev">PHOENIX Informatikai Oktató és Szolgáltató betéti társaság</mezo>
-<mezo id = "cim">1046 Budapest, Hajló u 29. 3. em. 6.</mezo>
+<mezo id = "nev">PHOENIX Informatikai OktatÃ³ Ã©s SzolgÃ¡ltatÃ³ betÃ©ti tÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1046 Budapest, HajlÃ³ u 29. 3. em. 6.</mezo>
 <mezo id = "adosz">28114934241</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A társaság egyszerûsített végelszámolás alapján a cégjegyzékbõl törölve.<ujsor/>
-A törlés hatálya: 2005. 11. 09.<ujsor/>
-A cég megszûnésérõl szóló határozat kelte: 2005. 10. 03.<ujsor/>
-A végelszámolás kezdete: 2005. 10. 03.<ujsor/>
-A végelszámolás befejezésének idõpontja: 2005. 10. 20.<ujsor/>
-Végelszámoló volt:<ujsor/>
- A képviselet módja: önálló.<ujsor/>
- Tisztsége: végelszámoló.<ujsor/>
- Dr. Lukács László (an: Viktor Margit)<ujsor/>
-1067 Budapest, Teréz krt. 23. III. 11.<ujsor/>
+<mezo id = "szoveg">A tÃ¡rsasÃ¡g egyszerÅ±sÃ­tett vÃ©gelszÃ¡molÃ¡s alapjÃ¡n a cÃ©gjegyzÃ©kbÅ‘l tÃ¶rÃ¶lve.<ujsor/>
+A tÃ¶rlÃ©s hatÃ¡lya: 2005. 11. 09.<ujsor/>
+A cÃ©g megszÅ±nÃ©sÃ©rÅ‘l szÃ³lÃ³ hatÃ¡rozat kelte: 2005. 10. 03.<ujsor/>
+A vÃ©gelszÃ¡molÃ¡s kezdete: 2005. 10. 03.<ujsor/>
+A vÃ©gelszÃ¡molÃ¡s befejezÃ©sÃ©nek idÅ‘pontja: 2005. 10. 20.<ujsor/>
+VÃ©gelszÃ¡molÃ³ volt:<ujsor/>
+ A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vÃ©gelszÃ¡molÃ³.<ujsor/>
+ Dr. LukÃ¡cs LÃ¡szlÃ³ (an: Viktor Margit)<ujsor/>
+1067 Budapest, TerÃ©z krt. 23. III. 11.<ujsor/>
  A jogviszony kezdete: 2005. 10. 03.<ujsor/>
- A jogviszony vége: 2005. 10. 20.<ujsor/>
-A fenti adat(ok) bejegyzése és közzététele<ujsor/>
-a következõ okirat(ok) alapján történt:<ujsor/>
-módosító társasági szerzõdés;<ujsor/>
-módosító társasági szerzõdés egységes szerkezetben;<ujsor/>
-módosító jegyzõkönyv;<ujsor/>
-címpéldány;<ujsor/>
-egyéb.<ujsor/>
-Az okirat(ok) a cég cégjegyzékét vezetõ<ujsor/>
-cégbíróságon megtekinthetõk.<ujsor/>
+ A jogviszony vÃ©ge: 2005. 10. 20.<ujsor/>
+A fenti adat(ok) bejegyzÃ©se Ã©s kÃ¶zzÃ©tÃ©tele<ujsor/>
+a kÃ¶vetkezÅ‘ okirat(ok) alapjÃ¡n tÃ¶rtÃ©nt:<ujsor/>
+mÃ³dosÃ­tÃ³ tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s;<ujsor/>
+mÃ³dosÃ­tÃ³ tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s egysÃ©ges szerkezetben;<ujsor/>
+mÃ³dosÃ­tÃ³ jegyzÅ‘kÃ¶nyv;<ujsor/>
+cÃ­mpÃ©ldÃ¡ny;<ujsor/>
+egyÃ©b.<ujsor/>
+Az okirat(ok) a cÃ©g cÃ©gjegyzÃ©kÃ©t vezetÅ‘<ujsor/>
+cÃ©gbÃ­rÃ³sÃ¡gon megtekinthetÅ‘k.<ujsor/>
 Bejegyezve: 2005. 11. 09.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0106015361</mezo>
-<mezo id = "nev">PHOENIX Informatikai Oktató és Szolgáltató betéti társaság &quot;végelszámolás alatt&quot;</mezo>
-<mezo id = "cim">1046 Budapest, Hajló u. 29. 3. em. 6.</mezo>
+<mezo id = "nev">PHOENIX Informatikai OktatÃ³ Ã©s SzolgÃ¡ltatÃ³ betÃ©ti tÃ¡rsasÃ¡g &quot;vÃ©gelszÃ¡molÃ¡s alatt&quot;</mezo>
+<mezo id = "cim">1046 Budapest, HajlÃ³ u. 29. 3. em. 6.</mezo>
 <mezo id = "adosz">28114934141</mezo>
 </alrovat>
 </rovat>

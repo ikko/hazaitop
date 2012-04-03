@@ -6,7 +6,7 @@
 <mezo id = "szam">015150</mezo>
 <mezo id = "nevalrovat">4</mezo>
 <mezo id = "allapot">2</mezo>
-<mezo id = "cim">8000 Székesfehérvár, Repülõtér 7609/3. hrsz. </mezo>
+<mezo id = "cim">8000 SzÃ©kesfehÃ©rvÃ¡r, RepÃ¼lÅ‘tÃ©r 7609/3. hrsz. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">14454316207</mezo>
 </alrovat>
@@ -14,7 +14,7 @@
 <rovat id = "2">
 <alrovat id = "4">
 <mezo id = "hattol">20100910</mezo>
-<mezo id = "nev">ALFA BUSZ 2002 Jármûgyártó Korlátolt Felelõsségû Társaság &quot;felszámolás alatt&quot;</mezo>
+<mezo id = "nev">ALFA BUSZ 2002 JÃ¡rmÅ±gyÃ¡rtÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g &quot;felszÃ¡molÃ¡s alatt&quot;</mezo>
 <mezo id = "valtk">20100910</mezo>
 <mezo id = "bkelt">20100914</mezo>
 </alrovat>
@@ -31,8 +31,8 @@
 <alrovat id = "1">
 <mezo id = "hattol">20081001</mezo>
 <mezo id = "irsz">8000</mezo>
-<mezo id = "hely">Székesfehérvár</mezo>
-<mezo id = "teru">Repülõtér 7609/3. hrsz.</mezo>
+<mezo id = "hely">SzÃ©kesfehÃ©rvÃ¡r</mezo>
+<mezo id = "teru">RepÃ¼lÅ‘tÃ©r 7609/3. hrsz.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">20081001</mezo>
 <mezo id = "valtv">0</mezo>
@@ -44,7 +44,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20081001</mezo>
 <mezo id = "irsz">1151</mezo>
-<mezo id = "hely">Budapest, Bogáncs utca 1-3.</mezo>
+<mezo id = "hely">Budapest, BogÃ¡ncs utca 1-3.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20081001</mezo>
 <mezo id = "valtv">0</mezo>
@@ -1069,14 +1069,14 @@
 <alrovat id = "3">
 <mezo id = "hattol">20081001</mezo>
 <mezo id = "pnev">Mogyorossy Tibor</mezo>
-<mezo id = "panev">Szekeres Erzsébet</mezo>
+<mezo id = "panev">Szekeres ErzsÃ©bet</mezo>
 <mezo id = "pkorsz">SE</mezo>
 <mezo id = "pkirsz">21619</mezo>
-<mezo id = "pkhely">ST Malmö, Göransgatlan 12. 21. 619.</mezo>
-<mezo id = "pmnev">Dr. Szabó Kálmán</mezo>
+<mezo id = "pkhely">ST MalmÃ¶, GÃ¶ransgatlan 12. 21. 619.</mezo>
+<mezo id = "pmnev">Dr. SzabÃ³ KÃ¡lmÃ¡n</mezo>
 <mezo id = "pmanev">Baranyay Ibolya</mezo>
 <mezo id = "pmirsz">8000</mezo>
-<mezo id = "pmhely">Székesfehérvár, Dr. Koch László utca 16. fszt. 1.</mezo>
+<mezo id = "pmhely">SzÃ©kesfehÃ©rvÃ¡r, Dr. Koch LÃ¡szlÃ³ utca 16. fszt. 1.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">d</mezo>
 <mezo id = "jogvk">20081001</mezo>
@@ -1088,7 +1088,7 @@
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20081001</mezo>
-<mezo id = "pnev">Donát Zoltán</mezo>
+<mezo id = "pnev">DonÃ¡t ZoltÃ¡n</mezo>
 <mezo id = "panev">Herter Zsuzsanna</mezo>
 <mezo id = "pirsz">1138</mezo>
 <mezo id = "phely">Budapest, Danubius utca 6. 6. em. 3.</mezo>
@@ -1103,13 +1103,13 @@
 <alrovat id = "11">
 <mezo id = "hattol">20100910</mezo>
 <mezo id = "cgjsz">0109871959</mezo>
-<mezo id = "nev">F1 Consulting Felszámoló és Pénzügyi Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">F1 Consulting FelszÃ¡molÃ³ Ã©s PÃ©nzÃ¼gyi TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1115</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Ildikó utca 21.</mezo>
-<mezo id = "tiszt">felszámoló</mezo>
-<mezo id = "pnev">Börcsök Sándor</mezo>
+<mezo id = "teru">IldikÃ³ utca 21.</mezo>
+<mezo id = "tiszt">felszÃ¡molÃ³</mezo>
+<mezo id = "pnev">BÃ¶rcsÃ¶k SÃ¡ndor</mezo>
 <mezo id = "panev">Gyulai Olga</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100910</mezo>
@@ -1121,16 +1121,16 @@
 <alrovat id = "1">
 <mezo id = "hattol">20081001</mezo>
 <mezo id = "cgjsz">109719386</mezo>
-<mezo id = "nev">ANGELI Könyvvizsgáló és Adótanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">ANGELI KÃ¶nyvvizsgÃ¡lÃ³ Ã©s AdÃ³tanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1157</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Zsókavár</mezo>
+<mezo id = "teru">ZsÃ³kavÃ¡r</mezo>
 <mezo id = "hsz">33</mezo>
-<mezo id = "pnev">Szentágotainé Angeli Ágnes</mezo>
-<mezo id = "panev">Schmidt Ágnes</mezo>
+<mezo id = "pnev">SzentÃ¡gotainÃ© Angeli Ãgnes</mezo>
+<mezo id = "panev">Schmidt Ãgnes</mezo>
 <mezo id = "pirsz">8000</mezo>
-<mezo id = "phely">Székesfehérvár, Marosi A . utca 3.</mezo>
+<mezo id = "phely">SzÃ©kesfehÃ©rvÃ¡r, Marosi A . utca 3.</mezo>
 <mezo id = "jogvk">20081001</mezo>
 <mezo id = "jogvv">20130626</mezo>
 <mezo id = "valtk">20081001</mezo>
@@ -1143,7 +1143,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20081001</mezo>
 <mezo id = "cgjsz">709009624</mezo>
-<mezo id = "nev">ALFA BUSZ Jármûgyártó, Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">ALFA BUSZ JÃ¡rmÅ±gyÃ¡rtÃ³, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "atdat">20081001</mezo>
 <mezo id = "valtk">20081001</mezo>
 <mezo id = "valtv">0</mezo>
@@ -1203,10 +1203,10 @@
 <rovat id = "0109">
 <alrovat id = "1">
 <mezo id = "hattol">20081001</mezo>
-<mezo id = "pnev">Illés Balázs</mezo>
-<mezo id = "panev">Mersits Mária</mezo>
+<mezo id = "pnev">IllÃ©s BalÃ¡zs</mezo>
+<mezo id = "panev">Mersits MÃ¡ria</mezo>
 <mezo id = "pirsz">8284</mezo>
-<mezo id = "phely">Nemesgulács, Tücsök tanya 534.</mezo>
+<mezo id = "phely">NemesgulÃ¡cs, TÃ¼csÃ¶k tanya 534.</mezo>
 <mezo id = "tagsk">20081001</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20081001</mezo>
@@ -1217,14 +1217,14 @@
 <alrovat id = "2">
 <mezo id = "hattol">20081001</mezo>
 <mezo id = "pnev">Mogyorossy Tibor</mezo>
-<mezo id = "panev">Szekeres Erzsébet</mezo>
+<mezo id = "panev">Szekeres ErzsÃ©bet</mezo>
 <mezo id = "pkorsz">SE</mezo>
 <mezo id = "pkirsz">21619</mezo>
-<mezo id = "pkhely">ST Malmö, Göransgatlan 12. 21. 619.</mezo>
-<mezo id = "pmnev">Dr. Szabó Kálmán</mezo>
+<mezo id = "pkhely">ST MalmÃ¶, GÃ¶ransgatlan 12. 21. 619.</mezo>
+<mezo id = "pmnev">Dr. SzabÃ³ KÃ¡lmÃ¡n</mezo>
 <mezo id = "pmanev">Baranyay Ibolya</mezo>
 <mezo id = "pmirsz">8000</mezo>
-<mezo id = "pmhely">Székesfehérvár, Dr. Koch László utca 16. fszt. 1.</mezo>
+<mezo id = "pmhely">SzÃ©kesfehÃ©rvÃ¡r, Dr. Koch LÃ¡szlÃ³ utca 16. fszt. 1.</mezo>
 <mezo id = "tagsk">20081001</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "sz1">x</mezo>
@@ -1243,281 +1243,281 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2008. 09. 23-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (ügyvezetõ).<ujsor/>
- Mogyorossy Tibor (an: Szekeres Erzsébet)<ujsor/>
-Külföldi cím: SE 21619 ST Malmö, Göransgatlan 12. 21. 619.<ujsor/>
- Kézbesítési megbízott: Dr. Szabó Kálmán (an: Baranyay Ibolya)<ujsor/>
-8000 Székesfehérvár, Dr. Koch László utca 16. fszt. 1.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2008. 09. 23-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘).<ujsor/>
+ Mogyorossy Tibor (an: Szekeres ErzsÃ©bet)<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: SE 21619 ST MalmÃ¶, GÃ¶ransgatlan 12. 21. 619.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott: Dr. SzabÃ³ KÃ¡lmÃ¡n (an: Baranyay Ibolya)<ujsor/>
+8000 SzÃ©kesfehÃ©rvÃ¡r, Dr. Koch LÃ¡szlÃ³ utca 16. fszt. 1.<ujsor/>
  A jogviszony kezdete: 2008. 10. 01.<ujsor/>
- A jogviszony vége: 2013. 06. 26.<ujsor/>
- A változás idõpontja: 2008. 10. 01.<ujsor/>
- A változás idõpontja (törlés): 2008. 10. 01.<ujsor/>
- A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (ügyvezetõ).<ujsor/>
- Donát Zoltán (an: Herter Zsuzsanna)<ujsor/>
+ A jogviszony vÃ©ge: 2013. 06. 26.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 10. 01.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2008. 10. 01.<ujsor/>
+ A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘).<ujsor/>
+ DonÃ¡t ZoltÃ¡n (an: Herter Zsuzsanna)<ujsor/>
 1138 Budapest, Danubius utca 6. 6. em. 3.<ujsor/>
  A jogviszony kezdete: 2008. 10. 01.<ujsor/>
- A változás idõpontja: 2008. 10. 01.<ujsor/>
- A változás idõpontja (törlés): 2008. 10. 01.<ujsor/>
- Törölve: 2008. 10. 01.<ujsor/>
- A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (ügyvezetõ).<ujsor/>
- Donáth Zoltán (an: Herter Zsuzsanna)<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 10. 01.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2008. 10. 01.<ujsor/>
+ TÃ¶rÃ¶lve: 2008. 10. 01.<ujsor/>
+ A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘).<ujsor/>
+ DonÃ¡th ZoltÃ¡n (an: Herter Zsuzsanna)<ujsor/>
 1138 Budapest, Danubius u. 6. 6. em. 3.<ujsor/>
  A jogviszony kezdete: 2008. 10. 01.<ujsor/>
- A változás idõpontja: 2008. 10. 01.<ujsor/>
- A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (ügyvezetõ).<ujsor/>
- Mogyorossy Tibor (an: Szekeres Erzsébet)<ujsor/>
-Külföldi cím: SE 21619 St Malmö, Göransgatan 12. 21. 619.<ujsor/>
- Kézbesítési megbízott: Dr. Szabó Kálmán (an: Baranyay Ibolya)<ujsor/>
-8000 Székesfehérvár, Dr. Koch László u. 16. fszt. 1.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 10. 01.<ujsor/>
+ A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘).<ujsor/>
+ Mogyorossy Tibor (an: Szekeres ErzsÃ©bet)<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: SE 21619 St MalmÃ¶, GÃ¶ransgatan 12. 21. 619.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott: Dr. SzabÃ³ KÃ¡lmÃ¡n (an: Baranyay Ibolya)<ujsor/>
+8000 SzÃ©kesfehÃ©rvÃ¡r, Dr. Koch LÃ¡szlÃ³ u. 16. fszt. 1.<ujsor/>
  A jogviszony kezdete: 2008. 10. 01.<ujsor/>
- A jogviszony vége: 2013. 06. 26.<ujsor/>
- A változás idõpontja: 2008. 10. 01.<ujsor/>
+ A jogviszony vÃ©ge: 2013. 06. 26.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 10. 01.<ujsor/>
  Bejegyezve: 2008. 10. 01.<ujsor/>
-1(09). Illés Balázs (an: Mersits Mária)<ujsor/>
-8284 Nemesgulács, Tücsök tanya 534.<ujsor/>
- A tagság kezdete: 2008. 10. 01.<ujsor/>
- A változás idõpontja: 2008. 10. 01.<ujsor/>
- A változás idõpontja (törlés): 2008. 10. 01.<ujsor/>
- A szavazati jog mértéke meghaladja az 50%-ot.<ujsor/>
- Mogyorossy Tibor (an: Szekeres Erzsébet)<ujsor/>
-Külföldi cím: SE 21619 ST Malmö, Göransgatlan 12. 21. 619.<ujsor/>
- Kézbesítési megbízott: Dr. Szabó Kálmán (an: Baranyay Ibolya)<ujsor/>
-8000 Székesfehérvár, Dr. Koch László utca 16. fszt. 1.<ujsor/>
- A tagság kezdete: 2008. 10. 01.<ujsor/>
- A változás idõpontja: 2008. 10. 01.<ujsor/>
- A változás idõpontja (törlés): 2008. 10. 01.<ujsor/>
- Törölve: 2008. 10. 01.<ujsor/>
- Illés Balázs István (an: Mersits Mária)<ujsor/>
-8284 Nemesgulács, Tücsök tanya 534.<ujsor/>
- A tagság kezdete: 2008. 10. 01.<ujsor/>
- A változás idõpontja: 2008. 10. 01.<ujsor/>
- A szavazati jog mértéke meghaladja az 50%-ot.<ujsor/>
- Mogyorossy Tibor (an: Szekeres Erzsébet)<ujsor/>
-Külföldi cím: SE 21619 St Malmö, Göransgatan 12. 21. 619.<ujsor/>
- Kézbesítési megbízott: Dr. Szabó Kálmán (an: Baranyay Ibolya)<ujsor/>
-8000 Székesfehérvár, Dr. Koch László u. 16. fszt. 1.<ujsor/>
- A tagság kezdete: 2008. 10. 01.<ujsor/>
- A változás idõpontja: 2008. 10. 01.<ujsor/>
+1(09). IllÃ©s BalÃ¡zs (an: Mersits MÃ¡ria)<ujsor/>
+8284 NemesgulÃ¡cs, TÃ¼csÃ¶k tanya 534.<ujsor/>
+ A tagsÃ¡g kezdete: 2008. 10. 01.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 10. 01.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2008. 10. 01.<ujsor/>
+ A szavazati jog mÃ©rtÃ©ke meghaladja az 50%-ot.<ujsor/>
+ Mogyorossy Tibor (an: Szekeres ErzsÃ©bet)<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: SE 21619 ST MalmÃ¶, GÃ¶ransgatlan 12. 21. 619.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott: Dr. SzabÃ³ KÃ¡lmÃ¡n (an: Baranyay Ibolya)<ujsor/>
+8000 SzÃ©kesfehÃ©rvÃ¡r, Dr. Koch LÃ¡szlÃ³ utca 16. fszt. 1.<ujsor/>
+ A tagsÃ¡g kezdete: 2008. 10. 01.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 10. 01.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2008. 10. 01.<ujsor/>
+ TÃ¶rÃ¶lve: 2008. 10. 01.<ujsor/>
+ IllÃ©s BalÃ¡zs IstvÃ¡n (an: Mersits MÃ¡ria)<ujsor/>
+8284 NemesgulÃ¡cs, TÃ¼csÃ¶k tanya 534.<ujsor/>
+ A tagsÃ¡g kezdete: 2008. 10. 01.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 10. 01.<ujsor/>
+ A szavazati jog mÃ©rtÃ©ke meghaladja az 50%-ot.<ujsor/>
+ Mogyorossy Tibor (an: Szekeres ErzsÃ©bet)<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: SE 21619 St MalmÃ¶, GÃ¶ransgatan 12. 21. 619.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott: Dr. SzabÃ³ KÃ¡lmÃ¡n (an: Baranyay Ibolya)<ujsor/>
+8000 SzÃ©kesfehÃ©rvÃ¡r, Dr. Koch LÃ¡szlÃ³ u. 16. fszt. 1.<ujsor/>
+ A tagsÃ¡g kezdete: 2008. 10. 01.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 10. 01.<ujsor/>
  Bejegyezve: 2008. 10. 01.<ujsor/>
 2008. 10. 21.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0709015150</mezo>
-<mezo id = "nev">ALFA BUSZ 2002 Jármûgyártó Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">8000 Székesfehérvár, Repülõtér 7609/3. hrsz.</mezo>
+<mezo id = "nev">ALFA BUSZ 2002 JÃ¡rmÅ±gyÃ¡rtÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">8000 SzÃ©kesfehÃ©rvÃ¡r, RepÃ¼lÅ‘tÃ©r 7609/3. hrsz.</mezo>
 <mezo id = "adosz">14454316207</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fejér Megyei Bíróság<ujsor/>
-7.Cspk.07-10-000001/4. sz. végzése<ujsor/>
-csõdeljárás elrendelésérõl<ujsor/>
-A bíróság elrendeli annak a Cégközlönyben való közzétételét, hogy a(z)<ujsor/>
-ALFA BUSZ 2002 Jármûgyártó Korlátolt Felelõsségû Társaság (8000<ujsor/>
-Székesfehérvár, Repülõtér 7609/3. hrsz.; cégjegyzékszáma: 07 09 015150;<ujsor/>
-adószáma: 14454316-2-07) gazdálkodó szervezet (adós) csõdeljárását<ujsor/>
+<mezo id = "szoveg">A FejÃ©r Megyei BÃ­rÃ³sÃ¡g<ujsor/>
+7.Cspk.07-10-000001/4. sz. vÃ©gzÃ©se<ujsor/>
+csÅ‘deljÃ¡rÃ¡s elrendelÃ©sÃ©rÅ‘l<ujsor/>
+A bÃ­rÃ³sÃ¡g elrendeli annak a CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©t, hogy a(z)<ujsor/>
+ALFA BUSZ 2002 JÃ¡rmÅ±gyÃ¡rtÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (8000<ujsor/>
+SzÃ©kesfehÃ©rvÃ¡r, RepÃ¼lÅ‘tÃ©r 7609/3. hrsz.; cÃ©gjegyzÃ©kszÃ¡ma: 07 09 015150;<ujsor/>
+adÃ³szÃ¡ma: 14454316-2-07) gazdÃ¡lkodÃ³ szervezet (adÃ³s) csÅ‘deljÃ¡rÃ¡sÃ¡t<ujsor/>
 elrendelte.<ujsor/>
-A csõdeljárás kezdõ idõpontja e végzés Cégközlönyben való közzétételének<ujsor/>
+A csÅ‘deljÃ¡rÃ¡s kezdÅ‘ idÅ‘pontja e vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©nek<ujsor/>
 napja.<ujsor/>
-A végzés közzétételétõl az adóst fizetési haladék illeti meg a vele<ujsor/>
-szemben a fizetési haladék kezdõ idõpontját megelõzõen, illetve azt<ujsor/>
-követõen esedékessé váló pénzkövetelések vonatkozásában (kivéve a Cstv.<ujsor/>
-11. $ (1) bekezdésében felsorolt követeléseket). A fizetési haladék e<ujsor/>
-közzétételtõl számított 90 nap elteltét követõ elsõ munkanapon 0 órakor<ujsor/>
-jár le.<ujsor/>
-A hitelezõk fennálló követeléseiket e végzés közzétételétõl számított 30<ujsor/>
-napon belül - e közzétételt követõen keletkezõ követeléseiket pedig<ujsor/>
-keletkezésüktõl számított 3 munkanapon belül - jelenthetik be az adósnak<ujsor/>
-és az alábbi vagyonfelügyelõnek.<ujsor/>
-A vagyonfelügyelõ neve és székhelye: Dr. FELSÕ Vállalkozásszervezõ és<ujsor/>
-Csõdtanácsadó Kft., Budapest, Dob u. 52. II/1.<ujsor/>
-Székesfehérvár, 2010. március 9.<ujsor/>
-A közzététel idõpontja: 2010. március 9.<ujsor/>
+A vÃ©gzÃ©s kÃ¶zzÃ©tÃ©telÃ©tÅ‘l az adÃ³st fizetÃ©si haladÃ©k illeti meg a vele<ujsor/>
+szemben a fizetÃ©si haladÃ©k kezdÅ‘ idÅ‘pontjÃ¡t megelÅ‘zÅ‘en, illetve azt<ujsor/>
+kÃ¶vetÅ‘en esedÃ©kessÃ© vÃ¡lÃ³ pÃ©nzkÃ¶vetelÃ©sek vonatkozÃ¡sÃ¡ban (kivÃ©ve a Cstv.<ujsor/>
+11. $ (1) bekezdÃ©sÃ©ben felsorolt kÃ¶vetelÃ©seket). A fizetÃ©si haladÃ©k e<ujsor/>
+kÃ¶zzÃ©tÃ©teltÅ‘l szÃ¡mÃ­tott 90 nap elteltÃ©t kÃ¶vetÅ‘ elsÅ‘ munkanapon 0 Ã³rakor<ujsor/>
+jÃ¡r le.<ujsor/>
+A hitelezÅ‘k fennÃ¡llÃ³ kÃ¶vetelÃ©seiket e vÃ©gzÃ©s kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott 30<ujsor/>
+napon belÃ¼l - e kÃ¶zzÃ©tÃ©telt kÃ¶vetÅ‘en keletkezÅ‘ kÃ¶vetelÃ©seiket pedig<ujsor/>
+keletkezÃ©sÃ¼ktÅ‘l szÃ¡mÃ­tott 3 munkanapon belÃ¼l - jelenthetik be az adÃ³snak<ujsor/>
+Ã©s az alÃ¡bbi vagyonfelÃ¼gyelÅ‘nek.<ujsor/>
+A vagyonfelÃ¼gyelÅ‘ neve Ã©s szÃ©khelye: Dr. FELSÅ VÃ¡llalkozÃ¡sszervezÅ‘ Ã©s<ujsor/>
+CsÅ‘dtanÃ¡csadÃ³ Kft., Budapest, Dob u. 52. II/1.<ujsor/>
+SzÃ©kesfehÃ©rvÃ¡r, 2010. mÃ¡rcius 9.<ujsor/>
+A kÃ¶zzÃ©tÃ©tel idÅ‘pontja: 2010. mÃ¡rcius 9.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0709015150</mezo>
-<mezo id = "nev">ALFA BUSZ 2002 Jármûgyártó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">ALFA BUSZ 2002 JÃ¡rmÅ±gyÃ¡rtÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "adosz">14454316207</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fejér Megyei Bíróság<ujsor/>
-7.Cspk.07-10-000001/40. sz. végzése<ujsor/>
-a csõdeljárás megszüntetésérõl<ujsor/>
-A bíróság elrendeli annak a Cégközlönyben való közzétételét, hogy a(z)<ujsor/>
-ALFA BUSZ 2002 Jármûgyártó Korlátolt Felelõsségû Társaság (8000<ujsor/>
-Székesfehérvár, Repülõtér 7609/3. hrsz.; cégjegyzékszáma: 07 09 015150;<ujsor/>
-adószáma: 14454316-2-07) gazdálkodó szervezet (adós) csõdeljárását<ujsor/>
-megszüntette.<ujsor/>
-Székesfehérvár, 2010. augusztus 4.<ujsor/>
-A közzététel idõpontja: 2010. augusztus 6.<ujsor/>
+<mezo id = "szoveg">A FejÃ©r Megyei BÃ­rÃ³sÃ¡g<ujsor/>
+7.Cspk.07-10-000001/40. sz. vÃ©gzÃ©se<ujsor/>
+a csÅ‘deljÃ¡rÃ¡s megszÃ¼ntetÃ©sÃ©rÅ‘l<ujsor/>
+A bÃ­rÃ³sÃ¡g elrendeli annak a CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©t, hogy a(z)<ujsor/>
+ALFA BUSZ 2002 JÃ¡rmÅ±gyÃ¡rtÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (8000<ujsor/>
+SzÃ©kesfehÃ©rvÃ¡r, RepÃ¼lÅ‘tÃ©r 7609/3. hrsz.; cÃ©gjegyzÃ©kszÃ¡ma: 07 09 015150;<ujsor/>
+adÃ³szÃ¡ma: 14454316-2-07) gazdÃ¡lkodÃ³ szervezet (adÃ³s) csÅ‘deljÃ¡rÃ¡sÃ¡t<ujsor/>
+megszÃ¼ntette.<ujsor/>
+SzÃ©kesfehÃ©rvÃ¡r, 2010. augusztus 4.<ujsor/>
+A kÃ¶zzÃ©tÃ©tel idÅ‘pontja: 2010. augusztus 6.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0709015150</mezo>
-<mezo id = "nev">ALFA BUSZ 2002 Jármûgyártó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">ALFA BUSZ 2002 JÃ¡rmÅ±gyÃ¡rtÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "adosz">14454316207</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fejér Megyei Bíróság<ujsor/>
-7.Fpk.07-10-000566/4. sz. végzése<ujsor/>
-felszámolás megindításának közzétételérõl<ujsor/>
-A bíróság elrendeli annak a Cégközlönyben való közzétételét, hogy a(z)<ujsor/>
-2010. augusztus 6. napján jogerõre emelkedett végzésével a(z) ALFA<ujsor/>
-BUSZ 2002 Jármûgyártó Korlátolt Felelõsségû Társaság (8000<ujsor/>
-Székesfehérvár, Repülõtér 7609/3. hrsz.; cégjegyzékszáma: 07 09 015150;<ujsor/>
-adószáma: 14454316-2-07) adós fizetésképtelenségét megállapította és a<ujsor/>
-felszámolását elrendelte.<ujsor/>
-Elõzõ elnevezése(i):<ujsor/>
-ALFA BUSZ 2002 Jármûgyártó Korlátolt Felelõsségû Társaság<ujsor/>
-Jogelõd(ök): ALFA BUSZ Jármûgyártó, Kereskedelmi és Szolgáltató Korlátolt<ujsor/>
-Felelõsségû Társaság<ujsor/>
-A bíróság által kijelölt felszámoló:<ujsor/>
-F1 Consulting Felszámoló és Pénzügyi Tanácsadó Korlátolt Felelõsségû<ujsor/>
-Társaság, 1115 Budapest, Ildikó u. 21. cégjegyzékszáma: 01 09 871959.<ujsor/>
-A felszámolóbiztos(ok):<ujsor/>
-Börcsök Sándor (an: Gyulai Olga) 1115 Budapet, Ildikó u. 21.<ujsor/>
-A felszámolási eljárás megindítására irányuló kérelem benyújtásának<ujsor/>
-idõpontja: 2010. augusztus 6.<ujsor/>
-A felszámolás kezdõ idõpontja e végzés Cégközlönyben való közzétételének<ujsor/>
+<mezo id = "szoveg">A FejÃ©r Megyei BÃ­rÃ³sÃ¡g<ujsor/>
+7.Fpk.07-10-000566/4. sz. vÃ©gzÃ©se<ujsor/>
+felszÃ¡molÃ¡s megindÃ­tÃ¡sÃ¡nak kÃ¶zzÃ©tÃ©telÃ©rÅ‘l<ujsor/>
+A bÃ­rÃ³sÃ¡g elrendeli annak a CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©t, hogy a(z)<ujsor/>
+2010. augusztus 6. napjÃ¡n jogerÅ‘re emelkedett vÃ©gzÃ©sÃ©vel a(z) ALFA<ujsor/>
+BUSZ 2002 JÃ¡rmÅ±gyÃ¡rtÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (8000<ujsor/>
+SzÃ©kesfehÃ©rvÃ¡r, RepÃ¼lÅ‘tÃ©r 7609/3. hrsz.; cÃ©gjegyzÃ©kszÃ¡ma: 07 09 015150;<ujsor/>
+adÃ³szÃ¡ma: 14454316-2-07) adÃ³s fizetÃ©skÃ©ptelensÃ©gÃ©t megÃ¡llapÃ­totta Ã©s a<ujsor/>
+felszÃ¡molÃ¡sÃ¡t elrendelte.<ujsor/>
+ElÅ‘zÅ‘ elnevezÃ©se(i):<ujsor/>
+ALFA BUSZ 2002 JÃ¡rmÅ±gyÃ¡rtÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g<ujsor/>
+JogelÅ‘d(Ã¶k): ALFA BUSZ JÃ¡rmÅ±gyÃ¡rtÃ³, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt<ujsor/>
+FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g<ujsor/>
+A bÃ­rÃ³sÃ¡g Ã¡ltal kijelÃ¶lt felszÃ¡molÃ³:<ujsor/>
+F1 Consulting FelszÃ¡molÃ³ Ã©s PÃ©nzÃ¼gyi TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ±<ujsor/>
+TÃ¡rsasÃ¡g, 1115 Budapest, IldikÃ³ u. 21. cÃ©gjegyzÃ©kszÃ¡ma: 01 09 871959.<ujsor/>
+A felszÃ¡molÃ³biztos(ok):<ujsor/>
+BÃ¶rcsÃ¶k SÃ¡ndor (an: Gyulai Olga) 1115 Budapet, IldikÃ³ u. 21.<ujsor/>
+A felszÃ¡molÃ¡si eljÃ¡rÃ¡s megindÃ­tÃ¡sÃ¡ra irÃ¡nyulÃ³ kÃ©relem benyÃºjtÃ¡sÃ¡nak<ujsor/>
+idÅ‘pontja: 2010. augusztus 6.<ujsor/>
+A felszÃ¡molÃ¡s kezdÅ‘ idÅ‘pontja e vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©nek<ujsor/>
 napja.<ujsor/>
-A Fejér Megyei Bíróság Gazdasági Hivatalánál kezelt elkülönített számla<ujsor/>
-száma: 10029008-01483161-24000004.<ujsor/>
-Mindazok [ideértve a zálogjogosultakat, és a 3. § (1) bekezdés c) pontja<ujsor/>
-szerinti függõ követelések jogosultjait is], akik az adóssal szemben<ujsor/>
-fennálló ismert követeléseiket - kivéve a felszámolási eljárást<ujsor/>
-közvetlenül megelõzõ csõdeljárásban [27. § (2) bekezdés e) pont] már<ujsor/>
-bejelentett és nyilvántartásba vett követeléseket - a felszámolás során<ujsor/>
-hitelezõként érvényesíteni kívánják, ismert követeléseiket e végzés<ujsor/>
-közzétételétõl számított 40 napon belül jelentsék be a felszámolónak.<ujsor/>
-A felszámoló - a módosított 1991. évi XLIX. tv. 57. § (1) bekezdés a) és<ujsor/>
-c) pontjában meghatározott követelések kivételével - csak azt a<ujsor/>
-bejelentést veszi nyilvántartásba, amely után az igénybejelentõ a<ujsor/>
-követelés 1 %-át, de legalább 5.000 Ft-ot, legfeljebb 200.000 Ft-ot az e<ujsor/>
-végzésben megjelölt számlára - a bírósági ügyszámra (végzés számra)<ujsor/>
-hivatkozással -  40 napon belül befizetett és ezt a felszámoló<ujsor/>
-részére igazolta.<ujsor/>
-Székesfehérvár, 2010. szeptember 7.<ujsor/>
-A közzététel idõpontja: 2010. szeptember 10.<ujsor/>
+A FejÃ©r Megyei BÃ­rÃ³sÃ¡g GazdasÃ¡gi HivatalÃ¡nÃ¡l kezelt elkÃ¼lÃ¶nÃ­tett szÃ¡mla<ujsor/>
+szÃ¡ma: 10029008-01483161-24000004.<ujsor/>
+Mindazok [ideÃ©rtve a zÃ¡logjogosultakat, Ã©s a 3. Â§ (1) bekezdÃ©s c) pontja<ujsor/>
+szerinti fÃ¼ggÅ‘ kÃ¶vetelÃ©sek jogosultjait is], akik az adÃ³ssal szemben<ujsor/>
+fennÃ¡llÃ³ ismert kÃ¶vetelÃ©seiket - kivÃ©ve a felszÃ¡molÃ¡si eljÃ¡rÃ¡st<ujsor/>
+kÃ¶zvetlenÃ¼l megelÅ‘zÅ‘ csÅ‘deljÃ¡rÃ¡sban [27. Â§ (2) bekezdÃ©s e) pont] mÃ¡r<ujsor/>
+bejelentett Ã©s nyilvÃ¡ntartÃ¡sba vett kÃ¶vetelÃ©seket - a felszÃ¡molÃ¡s sorÃ¡n<ujsor/>
+hitelezÅ‘kÃ©nt Ã©rvÃ©nyesÃ­teni kÃ­vÃ¡njÃ¡k, ismert kÃ¶vetelÃ©seiket e vÃ©gzÃ©s<ujsor/>
+kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott 40 napon belÃ¼l jelentsÃ©k be a felszÃ¡molÃ³nak.<ujsor/>
+A felszÃ¡molÃ³ - a mÃ³dosÃ­tott 1991. Ã©vi XLIX. tv. 57. Â§ (1) bekezdÃ©s a) Ã©s<ujsor/>
+c) pontjÃ¡ban meghatÃ¡rozott kÃ¶vetelÃ©sek kivÃ©telÃ©vel - csak azt a<ujsor/>
+bejelentÃ©st veszi nyilvÃ¡ntartÃ¡sba, amely utÃ¡n az igÃ©nybejelentÅ‘ a<ujsor/>
+kÃ¶vetelÃ©s 1 %-Ã¡t, de legalÃ¡bb 5.000 Ft-ot, legfeljebb 200.000 Ft-ot az e<ujsor/>
+vÃ©gzÃ©sben megjelÃ¶lt szÃ¡mlÃ¡ra - a bÃ­rÃ³sÃ¡gi Ã¼gyszÃ¡mra (vÃ©gzÃ©s szÃ¡mra)<ujsor/>
+hivatkozÃ¡ssal -  40 napon belÃ¼l befizetett Ã©s ezt a felszÃ¡molÃ³<ujsor/>
+rÃ©szÃ©re igazolta.<ujsor/>
+SzÃ©kesfehÃ©rvÃ¡r, 2010. szeptember 7.<ujsor/>
+A kÃ¶zzÃ©tÃ©tel idÅ‘pontja: 2010. szeptember 10.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0709015150</mezo>
-<mezo id = "nev">ALFA BUSZ 2002 Jármûgyártó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">ALFA BUSZ 2002 JÃ¡rmÅ±gyÃ¡rtÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "adosz">14454316207</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az F1 Consulting Felszámoló és Pénzügyi Tanácsadó Kft. (Cg.: [01 09 871959]; székhelye: 1115 Budapest, Ildikó u. 21.; postacím: 1519 Budapest, Pf. 353) mint az Alfa Busz 2002 Kft. „f. a.” (Cg.: [07 09 015150]; 8000 Székesfehérvár, Repülõtér 7609/3. hrsz.; adószáma: [14454316-2-07], Fejér Megyei Bíróság 7. Fpk. 07-10-000566/2. sz. végzésével kijelölt felszámolója<ujsor/>
-nyilvános pályázat<ujsor/>
-útján értékesítésre kínálja az adós cég Lokáló és B9 típusú jármûveinek alkatrészeit (szélvédõ, üléssor, ékszíj, üveg, egyéb alkatrészek), 4 600 000 Ft + áfa, gépi eszközeit 700 000 Ft + áfa irányáron.<ujsor/>
-Bánatpénz a nettó irányár 5%-a.<ujsor/>
-A vagyonelemek elõzetes telefonos idõpont-egyeztetés után megtekinthetõk.<ujsor/>
-A felsorolt vagyonelemek értékesítésekor az áfatörvény 142. §-a szerint a fordított adózás szabálya alkalmazandó. A pályázó köteles az ajánlatában nettó árat megjelölni.<ujsor/>
-A pályázat beadása legkésõbb a Cégközlönyben való megjelenést követõ 15. nap utáni elsõ munkanapon (déli) 12 óráig, a felszámoló részére történõ beérkezéssel kettõs, zárt borítékban lehetséges, melynél a belsõn csupán az „Alfa Busz 2002 ­ pályázat” szöveget szabad feltüntetni.<ujsor/>
-A pályázat beadható postai feladással (1519 Budapest, Pf. 353) vagy személyesen (1115 Budapest, Ballagi Mór u. 14.) hétfõtõl csütörtökig 9­16 óra között, pénteken 9­14 óráig.<ujsor/>
-Az ajánlati kötöttség a pályázati határidõ utolsó napjától számított 75 nap.<ujsor/>
-Bontás: a beadási határidõtõl számított 30 napon belül.<ujsor/>
-A pályázók a bontástól számított 15 napon belül értesítést kapnak az eredményrõl. A nem nyertes pályázók a döntést követõ 8 banki napon belül visszakapják bánatpénzüket. A bánatpénz-befizetést a felszámolóhoz kell teljesíteni „Alfa Busz 2002 pályázat ­ idegen pénz” megjegyzéssel a pályázat beadási határidejéig.<ujsor/>
-A felszámoló letéti számlája száma: 80800080-30031187-50700014.<ujsor/>
-A pályázatnak az ajánlaton túl tartalmaznia kell a pályázó nevét, címét, adószámát, bankszámlaszámát, egy hónapnál nem régebbi cégkivonatát, aláírási címpéldányát, a bánatpénz befizetését igazoló banki bizonylatát. Magánszemély pályázó esetén szükséges még személyi igazolvány másolat és a pályázat két tanúval történt hitelesítése. Meg kell jelölni a pályázatban a fizetés határidejét és az esetleges biztosítékokat.<ujsor/>
-A nyilvános értékesítésen tulajdonjogot szerzõ pályázó az adóssal szemben beszámítással nem élhet. A bánatpénz az ajánlattevõ javára nem kamatozik, a nyertes ajánlattevõ bánatpénze a vételárba beszámít. Nem jár vissza a bánatpénz, ha az ajánlattevõ ajánlatát az ajánlati kötöttség tartama alatt visszavonja. A nyertes pályázónak akkor sem jár vissza, ha visszalép, ha neki felróható okokból, illetve az érdekkörében felmerülõ okok miatt a szerzõdés meghiúsul, vagy mint vevõ, vállalt fizetési kötelezettségének nem tesz maradéktalanul eleget, vagy az ajánlati kötöttség tartama alatt a szerzõdést nem köti meg. A pályázat kiírója fenntartja a jogot, hogy ­ megfelelõ ajánlat hiányában ­ az adott vagyonelemre vonatkozó pályázatot eredménytelennek nyilvánítsa, és új pályázat kiírásáról döntsön. Amennyiben több megfelelõ vagy azonos értékû, vagy a vételár vonatkozásában legfeljebb 10%-kal eltérõ pályázat érkezik, a pályázat kiírója nyilvános ártárgyalást tarthat, melyrõl az érdekelteket értesíti.<ujsor/>
-Az elõvásárlásra jogosultak a pályázat beadásának kezdetéig írásban jelezzék a felszámolónak elõvásárlási szándékukat.<ujsor/>
-Érvénytelen az ajánlat, ha nem felel meg a jogszabályban, illetve a pályázati kiírásban meghatározottaknak, ha nem írásbeli, vagy beszámítást tartalmaz, vagy nem határidõben érkezett, vagy a pályázó a bánatpénzt nem helyezte letétbe határidõben, vagy nem jelöl meg konkrét vételárat, vagy az árat más pályázattól teszi függõvé.<ujsor/>
-A pályázat nyertese számára a szerzõdéskötési határidõ legkésõbb az értesítés kézhezvételétõl számított 30. nap, a vételárat átutalással köteles megfizetni a felszámoló letéti számlájára a szerzõdéskötéstõl számított 8 napon belül.<ujsor/>
-A pályázattal kapcsolatban további felvilágosítás a felszámoló titkárságán hétfõtõl csütörtökig 10­14 óráig a 06 (1) 371-0171/107 m telefonszámon kérhetõ, illetve megtekinthetõ a www.f1consulting.hu weboldalon.<ujsor/>
+<mezo id = "szoveg">Az F1 Consulting FelszÃ¡molÃ³ Ã©s PÃ©nzÃ¼gyi TanÃ¡csadÃ³ Kft. (Cg.: [01 09 871959]; szÃ©khelye: 1115 Budapest, IldikÃ³ u. 21.; postacÃ­m: 1519 Budapest, Pf. 353) mint az Alfa Busz 2002 Kft. â€f. a.â€ (Cg.: [07 09 015150]; 8000 SzÃ©kesfehÃ©rvÃ¡r, RepÃ¼lÅ‘tÃ©r 7609/3. hrsz.; adÃ³szÃ¡ma: [14454316-2-07], FejÃ©r Megyei BÃ­rÃ³sÃ¡g 7. Fpk. 07-10-000566/2. sz. vÃ©gzÃ©sÃ©vel kijelÃ¶lt felszÃ¡molÃ³ja<ujsor/>
+nyilvÃ¡nos pÃ¡lyÃ¡zat<ujsor/>
+ÃºtjÃ¡n Ã©rtÃ©kesÃ­tÃ©sre kÃ­nÃ¡lja az adÃ³s cÃ©g LokÃ¡lÃ³ Ã©s B9 tÃ­pusÃº jÃ¡rmÅ±veinek alkatrÃ©szeit (szÃ©lvÃ©dÅ‘, Ã¼lÃ©ssor, Ã©kszÃ­j, Ã¼veg, egyÃ©b alkatrÃ©szek), 4 600 000 Ft + Ã¡fa, gÃ©pi eszkÃ¶zeit 700 000 Ft + Ã¡fa irÃ¡nyÃ¡ron.<ujsor/>
+BÃ¡natpÃ©nz a nettÃ³ irÃ¡nyÃ¡r 5%-a.<ujsor/>
+A vagyonelemek elÅ‘zetes telefonos idÅ‘pont-egyeztetÃ©s utÃ¡n megtekinthetÅ‘k.<ujsor/>
+A felsorolt vagyonelemek Ã©rtÃ©kesÃ­tÃ©sekor az Ã¡fatÃ¶rvÃ©ny 142. Â§-a szerint a fordÃ­tott adÃ³zÃ¡s szabÃ¡lya alkalmazandÃ³. A pÃ¡lyÃ¡zÃ³ kÃ¶teles az ajÃ¡nlatÃ¡ban nettÃ³ Ã¡rat megjelÃ¶lni.<ujsor/>
+A pÃ¡lyÃ¡zat beadÃ¡sa legkÃ©sÅ‘bb a CÃ©gkÃ¶zlÃ¶nyben valÃ³ megjelenÃ©st kÃ¶vetÅ‘ 15. nap utÃ¡ni elsÅ‘ munkanapon (dÃ©li) 12 Ã³rÃ¡ig, a felszÃ¡molÃ³ rÃ©szÃ©re tÃ¶rtÃ©nÅ‘ beÃ©rkezÃ©ssel kettÅ‘s, zÃ¡rt borÃ­tÃ©kban lehetsÃ©ges, melynÃ©l a belsÅ‘n csupÃ¡n az â€Alfa Busz 2002 Â­ pÃ¡lyÃ¡zatâ€ szÃ¶veget szabad feltÃ¼ntetni.<ujsor/>
+A pÃ¡lyÃ¡zat beadhatÃ³ postai feladÃ¡ssal (1519 Budapest, Pf. 353) vagy szemÃ©lyesen (1115 Budapest, Ballagi MÃ³r u. 14.) hÃ©tfÅ‘tÅ‘l csÃ¼tÃ¶rtÃ¶kig 9Â­16 Ã³ra kÃ¶zÃ¶tt, pÃ©nteken 9Â­14 Ã³rÃ¡ig.<ujsor/>
+Az ajÃ¡nlati kÃ¶tÃ¶ttsÃ©g a pÃ¡lyÃ¡zati hatÃ¡ridÅ‘ utolsÃ³ napjÃ¡tÃ³l szÃ¡mÃ­tott 75 nap.<ujsor/>
+BontÃ¡s: a beadÃ¡si hatÃ¡ridÅ‘tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l.<ujsor/>
+A pÃ¡lyÃ¡zÃ³k a bontÃ¡stÃ³l szÃ¡mÃ­tott 15 napon belÃ¼l Ã©rtesÃ­tÃ©st kapnak az eredmÃ©nyrÅ‘l. A nem nyertes pÃ¡lyÃ¡zÃ³k a dÃ¶ntÃ©st kÃ¶vetÅ‘ 8 banki napon belÃ¼l visszakapjÃ¡k bÃ¡natpÃ©nzÃ¼ket. A bÃ¡natpÃ©nz-befizetÃ©st a felszÃ¡molÃ³hoz kell teljesÃ­teni â€Alfa Busz 2002 pÃ¡lyÃ¡zat Â­ idegen pÃ©nzâ€ megjegyzÃ©ssel a pÃ¡lyÃ¡zat beadÃ¡si hatÃ¡ridejÃ©ig.<ujsor/>
+A felszÃ¡molÃ³ letÃ©ti szÃ¡mlÃ¡ja szÃ¡ma: 80800080-30031187-50700014.<ujsor/>
+A pÃ¡lyÃ¡zatnak az ajÃ¡nlaton tÃºl tartalmaznia kell a pÃ¡lyÃ¡zÃ³ nevÃ©t, cÃ­mÃ©t, adÃ³szÃ¡mÃ¡t, bankszÃ¡mlaszÃ¡mÃ¡t, egy hÃ³napnÃ¡l nem rÃ©gebbi cÃ©gkivonatÃ¡t, alÃ¡Ã­rÃ¡si cÃ­mpÃ©ldÃ¡nyÃ¡t, a bÃ¡natpÃ©nz befizetÃ©sÃ©t igazolÃ³ banki bizonylatÃ¡t. MagÃ¡nszemÃ©ly pÃ¡lyÃ¡zÃ³ esetÃ©n szÃ¼ksÃ©ges mÃ©g szemÃ©lyi igazolvÃ¡ny mÃ¡solat Ã©s a pÃ¡lyÃ¡zat kÃ©t tanÃºval tÃ¶rtÃ©nt hitelesÃ­tÃ©se. Meg kell jelÃ¶lni a pÃ¡lyÃ¡zatban a fizetÃ©s hatÃ¡ridejÃ©t Ã©s az esetleges biztosÃ­tÃ©kokat.<ujsor/>
+A nyilvÃ¡nos Ã©rtÃ©kesÃ­tÃ©sen tulajdonjogot szerzÅ‘ pÃ¡lyÃ¡zÃ³ az adÃ³ssal szemben beszÃ¡mÃ­tÃ¡ssal nem Ã©lhet. A bÃ¡natpÃ©nz az ajÃ¡nlattevÅ‘ javÃ¡ra nem kamatozik, a nyertes ajÃ¡nlattevÅ‘ bÃ¡natpÃ©nze a vÃ©telÃ¡rba beszÃ¡mÃ­t. Nem jÃ¡r vissza a bÃ¡natpÃ©nz, ha az ajÃ¡nlattevÅ‘ ajÃ¡nlatÃ¡t az ajÃ¡nlati kÃ¶tÃ¶ttsÃ©g tartama alatt visszavonja. A nyertes pÃ¡lyÃ¡zÃ³nak akkor sem jÃ¡r vissza, ha visszalÃ©p, ha neki felrÃ³hatÃ³ okokbÃ³l, illetve az Ã©rdekkÃ¶rÃ©ben felmerÃ¼lÅ‘ okok miatt a szerzÅ‘dÃ©s meghiÃºsul, vagy mint vevÅ‘, vÃ¡llalt fizetÃ©si kÃ¶telezettsÃ©gÃ©nek nem tesz maradÃ©ktalanul eleget, vagy az ajÃ¡nlati kÃ¶tÃ¶ttsÃ©g tartama alatt a szerzÅ‘dÃ©st nem kÃ¶ti meg. A pÃ¡lyÃ¡zat kiÃ­rÃ³ja fenntartja a jogot, hogy Â­ megfelelÅ‘ ajÃ¡nlat hiÃ¡nyÃ¡ban Â­ az adott vagyonelemre vonatkozÃ³ pÃ¡lyÃ¡zatot eredmÃ©nytelennek nyilvÃ¡nÃ­tsa, Ã©s Ãºj pÃ¡lyÃ¡zat kiÃ­rÃ¡sÃ¡rÃ³l dÃ¶ntsÃ¶n. Amennyiben tÃ¶bb megfelelÅ‘ vagy azonos Ã©rtÃ©kÅ±, vagy a vÃ©telÃ¡r vonatkozÃ¡sÃ¡ban legfeljebb 10%-kal eltÃ©rÅ‘ pÃ¡lyÃ¡zat Ã©rkezik, a pÃ¡lyÃ¡zat kiÃ­rÃ³ja nyilvÃ¡nos Ã¡rtÃ¡rgyalÃ¡st tarthat, melyrÅ‘l az Ã©rdekelteket Ã©rtesÃ­ti.<ujsor/>
+Az elÅ‘vÃ¡sÃ¡rlÃ¡sra jogosultak a pÃ¡lyÃ¡zat beadÃ¡sÃ¡nak kezdetÃ©ig Ã­rÃ¡sban jelezzÃ©k a felszÃ¡molÃ³nak elÅ‘vÃ¡sÃ¡rlÃ¡si szÃ¡ndÃ©kukat.<ujsor/>
+Ã‰rvÃ©nytelen az ajÃ¡nlat, ha nem felel meg a jogszabÃ¡lyban, illetve a pÃ¡lyÃ¡zati kiÃ­rÃ¡sban meghatÃ¡rozottaknak, ha nem Ã­rÃ¡sbeli, vagy beszÃ¡mÃ­tÃ¡st tartalmaz, vagy nem hatÃ¡ridÅ‘ben Ã©rkezett, vagy a pÃ¡lyÃ¡zÃ³ a bÃ¡natpÃ©nzt nem helyezte letÃ©tbe hatÃ¡ridÅ‘ben, vagy nem jelÃ¶l meg konkrÃ©t vÃ©telÃ¡rat, vagy az Ã¡rat mÃ¡s pÃ¡lyÃ¡zattÃ³l teszi fÃ¼ggÅ‘vÃ©.<ujsor/>
+A pÃ¡lyÃ¡zat nyertese szÃ¡mÃ¡ra a szerzÅ‘dÃ©skÃ¶tÃ©si hatÃ¡ridÅ‘ legkÃ©sÅ‘bb az Ã©rtesÃ­tÃ©s kÃ©zhezvÃ©telÃ©tÅ‘l szÃ¡mÃ­tott 30. nap, a vÃ©telÃ¡rat Ã¡tutalÃ¡ssal kÃ¶teles megfizetni a felszÃ¡molÃ³ letÃ©ti szÃ¡mlÃ¡jÃ¡ra a szerzÅ‘dÃ©skÃ¶tÃ©stÅ‘l szÃ¡mÃ­tott 8 napon belÃ¼l.<ujsor/>
+A pÃ¡lyÃ¡zattal kapcsolatban tovÃ¡bbi felvilÃ¡gosÃ­tÃ¡s a felszÃ¡molÃ³ titkÃ¡rsÃ¡gÃ¡n hÃ©tfÅ‘tÅ‘l csÃ¼tÃ¶rtÃ¶kig 10Â­14 Ã³rÃ¡ig a 06 (1) 371-0171/107 m telefonszÃ¡mon kÃ©rhetÅ‘, illetve megtekinthetÅ‘ a www.f1consulting.hu weboldalon.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0709015150</mezo>
-<mezo id = "nev">ALFA BUSZ 2002 Jármûgyártó Korlátolt Felelõsségû Társaság &quot;csõdeljárás alatt&quot;</mezo>
-<mezo id = "cim">8000 Székesfehérvár</mezo>
+<mezo id = "nev">ALFA BUSZ 2002 JÃ¡rmÅ±gyÃ¡rtÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g &quot;csÅ‘deljÃ¡rÃ¡s alatt&quot;</mezo>
+<mezo id = "cim">8000 SzÃ©kesfehÃ©rvÃ¡r</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az F1 Consulting Felszámoló és Pénzügyi Tanácsadó Kft. (Cg.: [01 09 871959]; cím: 1115 Budapest, Ildikó u. 21.; postacím: 1519 Budapest, Pf. 353) mint az Alfa Busz 2002 Kft. „f. a” (Cg.: [07 09 015150]; 8000 Székesfehérvár, Repülõtér 7609/3. hrsz.; adószáma: [14454316-2-07]) Fejér Megyei Bíróság 7. Fpk. 07-10-000566/2. sz. végzésével kijelölt felszámolója,<ujsor/>
-nyilvános pályázat<ujsor/>
-útján értékesítésre kínálja az adós cég Lokáló és B9 típusú jármûveinek alkatrészeit (szélvédõ, üléssor, ékszíj, üveg, egyéb alkatrészek), 46 000 000 Ft + áfa, gépi eszközeit 7 000 000 Ft + áfa irányáron.<ujsor/>
-Bánatpénz a nettó irányár 3%-a.<ujsor/>
-A vagyonelemek elõzetes telefonos idõpont-egyeztetés után megtekinthetõk.<ujsor/>
-A felsorolt vagyonelemek értékesítésekor az áfatörvény 142. §-a szerint a fordított adózás szabálya alkalmazandó. A pályázó köteles az ajánlatában nettó árat megjelölni.<ujsor/>
-A pályázat beadása legkésõbb a Cégközlönyben való megjelenést követõ 15. nap utáni elsõ munkanapon déli 12 óráig, a felszámoló részére történõ beérkezéssel kettõs, zárt borítékban lehetséges, melynél a belsõn csupán az „Alfa Busz 2002 - pályázat” szöveget szabad feltüntetni.<ujsor/>
-A pályázat beadható postai feladással (1519 Budapest, Pf. 353), vagy személyesen (1115 Budapest, Ballagi Mór u. 14.) hétfõtõl csütörtökig 9-16 óra között, pénteken 9-14 óráig.<ujsor/>
-Az ajánlati kötöttség a pályázati határidõ utolsó napjától számított 75 nap.<ujsor/>
-Bontás: a beadási határidõtõl számított 30 napon belül.<ujsor/>
-A pályázók a bontástól számított 15 napon belül értesítést kapnak az eredményrõl. A nem nyertes pályázók a döntést követõ 8 banki napon belül visszakapják bánatpénzüket. A bánatpénz-befizetést a felszámolóhoz kell teljesíteni „Alfa Busz 2002 pályázat - idegen pénz” megjegyzéssel a pályázat beadási határidejéig.<ujsor/>
-A felszámoló letéti számlája száma: 80800080-30031187-50700014.<ujsor/>
-A pályázatnak az ajánlaton túl tartalmaznia kell a pályázó nevét, címét, adószámát, bankszámlaszámát, egy hónapnál nem régebbi cégkivonatát, aláírási címpéldányát, a bánatpénz befizetését igazoló banki bizonylatát. Magánszemély pályázó esetén szükséges még személyi igazolvány másolat és a pályázat két tanúval történt hitelesítése. Meg kell jelölni a pályázatban a fizetés határidejét és az esetleges biztosítékokat.<ujsor/>
-A nyilvános értékesítésen tulajdonjogot szerzõ pályázó az adóssal szemben beszámítással nem élhet. A bánatpénz az ajánlattevõ javára nem kamatozik, a nyertes ajánlattevõ bánatpénze a vételárba beszámít. Nem jár vissza a bánatpénz, ha az ajánlattevõ ajánlatát az ajánlati kötöttség tartama alatt visszavonja. A nyertes pályázónak akkor sem jár vissza, ha visszalép, ha neki felróható okokból, illetve az érdekkörében felmerülõ okok miatt a szerzõdés meghiúsul, vagy mint vevõ, vállalt fizetési kötelezettségének nem tesz maradéktalanul eleget, vagy az ajánlati kötöttség tartama alatt a szerzõdést nem köti meg. A pályázat kiírója fenntartja a jogot, hogy - megfelelõ ajánlat hiányában - az adott vagyonelemre vonatkozó pályázatot eredménytelennek nyilvánítsa, és új pályázat kiírásáról döntsön. Amennyiben több megfelelõ, vagy azonos értékû, vagy a vételár vonatkozásában legfeljebb 10%-kal eltérõ pályázat érkezik, a pályázat kiírója nyilvános ártárgyalást tarthat, melyrõl az érdekelteket értesíti.<ujsor/>
-Az elõvásárlásra jogosultak a pályázat beadásának kezdetéig írásban jelezzék a felszámolónak elõvásárlási szándékukat.<ujsor/>
-Érvénytelen az ajánlat, ha nem felel meg a jogszabályban, illetve a pályázati kiírásban meghatározottaknak, ha nem írásbeli, vagy beszámítást tartalmaz, vagy nem határidõben érkezett, vagy a pályázó a bánatpénzt nem helyezte letétbe határidõben, vagy nem jelöl meg konkrét vételárat, vagy az árat más pályázattól teszi függõvé.<ujsor/>
-A pályázat nyertese számára a szerzõdéskötési határidõ legkésõbb az értesítés kézhezvételétõl számított 30. nap, a vételárat átutalással köteles megfizetni a felszámoló letéti számlájára a szerzõdéskötéstõl számított 8 napon belül.<ujsor/>
-A pályázattal kapcsolatban további felvilágosítás a felszámoló titkárságán hétfõtõl csütörtökig 10-14 óráig a 06 (1) 371-0171/107-es telefonszámon kérhetõ, illetve megtekinthetõ a www.f1consulting.hu weboldalon.<ujsor/>
+<mezo id = "szoveg">Az F1 Consulting FelszÃ¡molÃ³ Ã©s PÃ©nzÃ¼gyi TanÃ¡csadÃ³ Kft. (Cg.: [01 09 871959]; cÃ­m: 1115 Budapest, IldikÃ³ u. 21.; postacÃ­m: 1519 Budapest, Pf. 353) mint az Alfa Busz 2002 Kft. â€f. aâ€ (Cg.: [07 09 015150]; 8000 SzÃ©kesfehÃ©rvÃ¡r, RepÃ¼lÅ‘tÃ©r 7609/3. hrsz.; adÃ³szÃ¡ma: [14454316-2-07]) FejÃ©r Megyei BÃ­rÃ³sÃ¡g 7. Fpk. 07-10-000566/2. sz. vÃ©gzÃ©sÃ©vel kijelÃ¶lt felszÃ¡molÃ³ja,<ujsor/>
+nyilvÃ¡nos pÃ¡lyÃ¡zat<ujsor/>
+ÃºtjÃ¡n Ã©rtÃ©kesÃ­tÃ©sre kÃ­nÃ¡lja az adÃ³s cÃ©g LokÃ¡lÃ³ Ã©s B9 tÃ­pusÃº jÃ¡rmÅ±veinek alkatrÃ©szeit (szÃ©lvÃ©dÅ‘, Ã¼lÃ©ssor, Ã©kszÃ­j, Ã¼veg, egyÃ©b alkatrÃ©szek), 46 000 000 Ft + Ã¡fa, gÃ©pi eszkÃ¶zeit 7 000 000 Ft + Ã¡fa irÃ¡nyÃ¡ron.<ujsor/>
+BÃ¡natpÃ©nz a nettÃ³ irÃ¡nyÃ¡r 3%-a.<ujsor/>
+A vagyonelemek elÅ‘zetes telefonos idÅ‘pont-egyeztetÃ©s utÃ¡n megtekinthetÅ‘k.<ujsor/>
+A felsorolt vagyonelemek Ã©rtÃ©kesÃ­tÃ©sekor az Ã¡fatÃ¶rvÃ©ny 142. Â§-a szerint a fordÃ­tott adÃ³zÃ¡s szabÃ¡lya alkalmazandÃ³. A pÃ¡lyÃ¡zÃ³ kÃ¶teles az ajÃ¡nlatÃ¡ban nettÃ³ Ã¡rat megjelÃ¶lni.<ujsor/>
+A pÃ¡lyÃ¡zat beadÃ¡sa legkÃ©sÅ‘bb a CÃ©gkÃ¶zlÃ¶nyben valÃ³ megjelenÃ©st kÃ¶vetÅ‘ 15. nap utÃ¡ni elsÅ‘ munkanapon dÃ©li 12 Ã³rÃ¡ig, a felszÃ¡molÃ³ rÃ©szÃ©re tÃ¶rtÃ©nÅ‘ beÃ©rkezÃ©ssel kettÅ‘s, zÃ¡rt borÃ­tÃ©kban lehetsÃ©ges, melynÃ©l a belsÅ‘n csupÃ¡n az â€Alfa Busz 2002 - pÃ¡lyÃ¡zatâ€ szÃ¶veget szabad feltÃ¼ntetni.<ujsor/>
+A pÃ¡lyÃ¡zat beadhatÃ³ postai feladÃ¡ssal (1519 Budapest, Pf. 353), vagy szemÃ©lyesen (1115 Budapest, Ballagi MÃ³r u. 14.) hÃ©tfÅ‘tÅ‘l csÃ¼tÃ¶rtÃ¶kig 9-16 Ã³ra kÃ¶zÃ¶tt, pÃ©nteken 9-14 Ã³rÃ¡ig.<ujsor/>
+Az ajÃ¡nlati kÃ¶tÃ¶ttsÃ©g a pÃ¡lyÃ¡zati hatÃ¡ridÅ‘ utolsÃ³ napjÃ¡tÃ³l szÃ¡mÃ­tott 75 nap.<ujsor/>
+BontÃ¡s: a beadÃ¡si hatÃ¡ridÅ‘tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l.<ujsor/>
+A pÃ¡lyÃ¡zÃ³k a bontÃ¡stÃ³l szÃ¡mÃ­tott 15 napon belÃ¼l Ã©rtesÃ­tÃ©st kapnak az eredmÃ©nyrÅ‘l. A nem nyertes pÃ¡lyÃ¡zÃ³k a dÃ¶ntÃ©st kÃ¶vetÅ‘ 8 banki napon belÃ¼l visszakapjÃ¡k bÃ¡natpÃ©nzÃ¼ket. A bÃ¡natpÃ©nz-befizetÃ©st a felszÃ¡molÃ³hoz kell teljesÃ­teni â€Alfa Busz 2002 pÃ¡lyÃ¡zat - idegen pÃ©nzâ€ megjegyzÃ©ssel a pÃ¡lyÃ¡zat beadÃ¡si hatÃ¡ridejÃ©ig.<ujsor/>
+A felszÃ¡molÃ³ letÃ©ti szÃ¡mlÃ¡ja szÃ¡ma: 80800080-30031187-50700014.<ujsor/>
+A pÃ¡lyÃ¡zatnak az ajÃ¡nlaton tÃºl tartalmaznia kell a pÃ¡lyÃ¡zÃ³ nevÃ©t, cÃ­mÃ©t, adÃ³szÃ¡mÃ¡t, bankszÃ¡mlaszÃ¡mÃ¡t, egy hÃ³napnÃ¡l nem rÃ©gebbi cÃ©gkivonatÃ¡t, alÃ¡Ã­rÃ¡si cÃ­mpÃ©ldÃ¡nyÃ¡t, a bÃ¡natpÃ©nz befizetÃ©sÃ©t igazolÃ³ banki bizonylatÃ¡t. MagÃ¡nszemÃ©ly pÃ¡lyÃ¡zÃ³ esetÃ©n szÃ¼ksÃ©ges mÃ©g szemÃ©lyi igazolvÃ¡ny mÃ¡solat Ã©s a pÃ¡lyÃ¡zat kÃ©t tanÃºval tÃ¶rtÃ©nt hitelesÃ­tÃ©se. Meg kell jelÃ¶lni a pÃ¡lyÃ¡zatban a fizetÃ©s hatÃ¡ridejÃ©t Ã©s az esetleges biztosÃ­tÃ©kokat.<ujsor/>
+A nyilvÃ¡nos Ã©rtÃ©kesÃ­tÃ©sen tulajdonjogot szerzÅ‘ pÃ¡lyÃ¡zÃ³ az adÃ³ssal szemben beszÃ¡mÃ­tÃ¡ssal nem Ã©lhet. A bÃ¡natpÃ©nz az ajÃ¡nlattevÅ‘ javÃ¡ra nem kamatozik, a nyertes ajÃ¡nlattevÅ‘ bÃ¡natpÃ©nze a vÃ©telÃ¡rba beszÃ¡mÃ­t. Nem jÃ¡r vissza a bÃ¡natpÃ©nz, ha az ajÃ¡nlattevÅ‘ ajÃ¡nlatÃ¡t az ajÃ¡nlati kÃ¶tÃ¶ttsÃ©g tartama alatt visszavonja. A nyertes pÃ¡lyÃ¡zÃ³nak akkor sem jÃ¡r vissza, ha visszalÃ©p, ha neki felrÃ³hatÃ³ okokbÃ³l, illetve az Ã©rdekkÃ¶rÃ©ben felmerÃ¼lÅ‘ okok miatt a szerzÅ‘dÃ©s meghiÃºsul, vagy mint vevÅ‘, vÃ¡llalt fizetÃ©si kÃ¶telezettsÃ©gÃ©nek nem tesz maradÃ©ktalanul eleget, vagy az ajÃ¡nlati kÃ¶tÃ¶ttsÃ©g tartama alatt a szerzÅ‘dÃ©st nem kÃ¶ti meg. A pÃ¡lyÃ¡zat kiÃ­rÃ³ja fenntartja a jogot, hogy - megfelelÅ‘ ajÃ¡nlat hiÃ¡nyÃ¡ban - az adott vagyonelemre vonatkozÃ³ pÃ¡lyÃ¡zatot eredmÃ©nytelennek nyilvÃ¡nÃ­tsa, Ã©s Ãºj pÃ¡lyÃ¡zat kiÃ­rÃ¡sÃ¡rÃ³l dÃ¶ntsÃ¶n. Amennyiben tÃ¶bb megfelelÅ‘, vagy azonos Ã©rtÃ©kÅ±, vagy a vÃ©telÃ¡r vonatkozÃ¡sÃ¡ban legfeljebb 10%-kal eltÃ©rÅ‘ pÃ¡lyÃ¡zat Ã©rkezik, a pÃ¡lyÃ¡zat kiÃ­rÃ³ja nyilvÃ¡nos Ã¡rtÃ¡rgyalÃ¡st tarthat, melyrÅ‘l az Ã©rdekelteket Ã©rtesÃ­ti.<ujsor/>
+Az elÅ‘vÃ¡sÃ¡rlÃ¡sra jogosultak a pÃ¡lyÃ¡zat beadÃ¡sÃ¡nak kezdetÃ©ig Ã­rÃ¡sban jelezzÃ©k a felszÃ¡molÃ³nak elÅ‘vÃ¡sÃ¡rlÃ¡si szÃ¡ndÃ©kukat.<ujsor/>
+Ã‰rvÃ©nytelen az ajÃ¡nlat, ha nem felel meg a jogszabÃ¡lyban, illetve a pÃ¡lyÃ¡zati kiÃ­rÃ¡sban meghatÃ¡rozottaknak, ha nem Ã­rÃ¡sbeli, vagy beszÃ¡mÃ­tÃ¡st tartalmaz, vagy nem hatÃ¡ridÅ‘ben Ã©rkezett, vagy a pÃ¡lyÃ¡zÃ³ a bÃ¡natpÃ©nzt nem helyezte letÃ©tbe hatÃ¡ridÅ‘ben, vagy nem jelÃ¶l meg konkrÃ©t vÃ©telÃ¡rat, vagy az Ã¡rat mÃ¡s pÃ¡lyÃ¡zattÃ³l teszi fÃ¼ggÅ‘vÃ©.<ujsor/>
+A pÃ¡lyÃ¡zat nyertese szÃ¡mÃ¡ra a szerzÅ‘dÃ©skÃ¶tÃ©si hatÃ¡ridÅ‘ legkÃ©sÅ‘bb az Ã©rtesÃ­tÃ©s kÃ©zhezvÃ©telÃ©tÅ‘l szÃ¡mÃ­tott 30. nap, a vÃ©telÃ¡rat Ã¡tutalÃ¡ssal kÃ¶teles megfizetni a felszÃ¡molÃ³ letÃ©ti szÃ¡mlÃ¡jÃ¡ra a szerzÅ‘dÃ©skÃ¶tÃ©stÅ‘l szÃ¡mÃ­tott 8 napon belÃ¼l.<ujsor/>
+A pÃ¡lyÃ¡zattal kapcsolatban tovÃ¡bbi felvilÃ¡gosÃ­tÃ¡s a felszÃ¡molÃ³ titkÃ¡rsÃ¡gÃ¡n hÃ©tfÅ‘tÅ‘l csÃ¼tÃ¶rtÃ¶kig 10-14 Ã³rÃ¡ig a 06 (1) 371-0171/107-es telefonszÃ¡mon kÃ©rhetÅ‘, illetve megtekinthetÅ‘ a www.f1consulting.hu weboldalon.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0709015150</mezo>
-<mezo id = "nev">ALFA BUSZ 2002 Jármûgyártó Korlátolt Felelõsségû Társaság &quot;csõdeljárás alatt&quot;</mezo>
-<mezo id = "cim">8000 Székesfehérvár</mezo>
+<mezo id = "nev">ALFA BUSZ 2002 JÃ¡rmÅ±gyÃ¡rtÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g &quot;csÅ‘deljÃ¡rÃ¡s alatt&quot;</mezo>
+<mezo id = "cim">8000 SzÃ©kesfehÃ©rvÃ¡r</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az F1 Consulting Felszámoló és Pénzügyi Tanácsadó Kft. (Cg.: [01 09 871959]; 1115 Budapest, Ildikó u. 21.; postacím: 1519 Budapest, Pf. 353) mint az Alfa Busz 2002 Kft. „f. a” (Cg.: [07 09 015150]; 8000 Székesfehérvár, Repülõtér 7609/3. hrsz.; adószáma: [14454316-2-07]) Fejér Megyei Bíróság 7. Fpk. 07-10-000566/2. sz. végzésével kijelölt felszámolója<ujsor/>
-nyilvános pályázat<ujsor/>
-útján értékesítésre kínálja a felszámolás alatt álló gazdasági társaság tulajdonát képezõ alábbi vagyonelemeket: Lokáló és B9 típusú jármûveinek alkatrészeit (szélvédõ, üléssor, ékszíj, üveg, egyéb alkatrészek) 23 000 000 Ft + áfa, gépi eszközeit 3 500 000 Ft + áfa irányáron.<ujsor/>
-Bánatpénz:<ujsor/>
-­ 10 000 000 Ft + áfa összeget meg nem haladó irányárú tételek esetén a nettó irányár 5%-a,<ujsor/>
-­ 10 000 000 Ft + áfa összeget meghaladó irányárú tételek esetén a nettó irányár 3%-a.<ujsor/>
-Több tételre vonatkozó ajánlat, vagy több pályázat esetén az egyes tételekre vonatkozóan a bánatpénzt külön-külön kell megfizetni.<ujsor/>
-A vagyonelemek ­ Vágány Zoltánnal a 06 (30) 290-0438-as telefonszámon történõ elõzetes idõpont-egyeztetés után ­ megtekinthetõk.<ujsor/>
-A felsorolt vagyonelemek értékesítésekor az áfatörvény 142. §-a szerint a fordított adózás szabálya alkalmazandó. A pályázó köteles az ajánlatában nettó árat megjelölni.<ujsor/>
-Az ajánlatokat a pályázati kiírásban szereplõ sorrendben köteles a pályázó a pályázatában megadni.<ujsor/>
-A pályázat beadása legkésõbb a Cégközlönyben való megjelenést követõ 15. nap utáni elsõ munkanapon (déli) 12 óráig, a felszámoló részére történõ beérkezéssel kettõs, zárt borítékban lehetséges, melynél a belsõn csupán az „Alfa Busz 2002 ­ pályázat” szöveget szabad feltüntetni. A pályázat beadható postai feladással (1519 Budapest, Pf. 353) vagy személyesen (1115 Budapest, Ballagi Mór u. 14.) hétfõtõl csütörtökig 9­16 óra között, pénteken 9­14 óráig.<ujsor/>
-Az ajánlati kötöttség a pályázati határidõ utolsó napjától számított 75 nap.<ujsor/>
-Bontás: a beadástól számított 30 napon belül.<ujsor/>
-A nem nyertes pályázók e döntést követõ 8 banki napon belül visszakapják bánatpénzüket, mely a pályázati ajánlatuk eredménytelenségérõl történõ tájékoztatásnak minõsül. A bánatpénz(ek) befizetését adós cég bankszámlájára kell teljesíteni „Alfa Busz 2002 ­ pályázat” megjegyzéssel a pályázat beadási határidejéig. Adós cég Széchenyi Hitelszövetkezetnél vezetett bankszámlája száma: 80800080-30031187-50700014.<ujsor/>
-A pályázatnak az ajánlaton túl tartalmaznia kell a pályázó nevét, címét, adószámát, bankszámlaszámát, egy hónapnál nem régebbi cégkivonatát, aláírási címpéldányát, a bánatpénz befizetését igazoló banki bizonylatát. Magánszemély pályázó esetén szükséges még személyiigazolvány-másolat és a pályázat két tanúval történt hitelesítése. Meg kell jelölni a pályázatban a fizetés határidejét és az esetleges biztosítékokat. A pályázat kiírója az ajánlattevõt felhívhatja teljesítõképessége igazolására, melyet köteles igazolni.<ujsor/>
-A nyilvános értékesítésen tulajdonjogot szerzõ pályázó az adóssal szemben beszámítással nem élhet. A bánatpénz az ajánlattevõ javára nem kamatozik, a nyertes ajánlattevõ bánatpénze a vételárba beszámít. Nem jár vissza a bánatpénz, ha az ajánlattevõ ajánlatát az ajánlati kötöttség tartama alatt visszavonja, vagy nem tesz eleget ajánlatában, illetve a pályázati felhívásban foglaltaknak. A nyertes pályázónak akkor sem jár vissza, ha visszalép, ha neki felróható okokból, illetve az érdekkörében felmerülõ okok miatt a szerzõdés meghiúsul, vagy mint vevõ, vállalt fizetési kötelezettségének nem tesz maradéktalanul eleget, vagy az ajánlati kötöttség tartama alatt a szerzõdést a kiíró felhívása ellenére nem köti meg.<ujsor/>
-A pályázat kiírója fenntartja a jogot, hogy ­ megfelelõ ajánlat hiányában ­ az adott vagyonelemre vonatkozó pályázatot eredménytelennek nyilvánítsa, és új pályázat kiírásáról döntsön. Amennyiben több megfelelõ, vagy azonos értékû, vagy a vételár vonatkozásában legfeljebb 10%-kal eltérõ pályázat érkezik, a pályázat kiírója nyilvános ártárgyalást tarthat, melyrõl az érdekelteket értesíti.<ujsor/>
-Az elõvásárlásra jogosultak a pályázat beadásának kezdetéig írásban jelezzék a felszámolónak elõvásárlási szándékukat.<ujsor/>
-Érvénytelen az ajánlat, ha nem felel meg a jogszabályban, illetve a pályázati kiírásban meghatározottaknak, ha nem írásbeli, vagy beszámítást tartalmaz, vagy nem határidõben érkezett, vagy a pályázó a bánatpénzt nem, vagy nem a pályázati kiírás szerint helyezte letétbe határidõben, vagy nem jelöl meg konkrét vételárat, vagy az árat más pályázattól teszi függõvé.<ujsor/>
-A pályázat nyertese számára a szerzõdéskötési határidõ legkésõbb az értesítés kézhezvételétõl számított 30. nap, a vételárat átutalással köteles megfizetni adós cég fent megjelölt számlájára a szerzõdéskötéstõl számított 8 napon belül. Ha az értesítéstõl számított 30. nap az ajánlati kötöttség idõpontját követõ idõpontra esik, úgy a kiíró jogosult felhívni az ajánlattevõt nyilatkozattételre, hogy ajánlati kötöttségét a kiíró által a szerzõdéskötésre megjelölt határidõig fenntartja-e, melyre ezen idõpontig ­ úgy, hogy arról a kiíró tudomást is szerezzen ­ köteles az ajánlattevõ nyilatkozni. Amennyiben az ajánlati kötöttség idõtartama alatt nyertes nem kerül értesítésre, úgy a kiíró jogosult felhívni az ajánlattevõ(ke)t nyilatkozattételre, hogy az ajánlati kötöttség(ük)et a kiíró által megjelölt határidõig fenntartja(ák)-e. Ha az ajánlattevõ e kiíró által megjelölt idõpontig nem nyilatkozik, úgy kell tekinteni, hogy ajánlatát nem tartja fenn.<ujsor/>
-A pályázattal kapcsolatban további részletek megtekinthetõek a www.f1consulting.hu weboldalon, valamint részletes tájékoztatás megtekintésre átvehetõ a felszámoló titkárságán hétfõtõl csütörtökig 10­14 óráig, illetve ugyanezen idõszakban a 06 (1) 371-0171/107 m. telefonszámon is kérhetõ felvilágosítás.<ujsor/>
+<mezo id = "szoveg">Az F1 Consulting FelszÃ¡molÃ³ Ã©s PÃ©nzÃ¼gyi TanÃ¡csadÃ³ Kft. (Cg.: [01 09 871959]; 1115 Budapest, IldikÃ³ u. 21.; postacÃ­m: 1519 Budapest, Pf. 353) mint az Alfa Busz 2002 Kft. â€f. aâ€ (Cg.: [07 09 015150]; 8000 SzÃ©kesfehÃ©rvÃ¡r, RepÃ¼lÅ‘tÃ©r 7609/3. hrsz.; adÃ³szÃ¡ma: [14454316-2-07]) FejÃ©r Megyei BÃ­rÃ³sÃ¡g 7. Fpk. 07-10-000566/2. sz. vÃ©gzÃ©sÃ©vel kijelÃ¶lt felszÃ¡molÃ³ja<ujsor/>
+nyilvÃ¡nos pÃ¡lyÃ¡zat<ujsor/>
+ÃºtjÃ¡n Ã©rtÃ©kesÃ­tÃ©sre kÃ­nÃ¡lja a felszÃ¡molÃ¡s alatt Ã¡llÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g tulajdonÃ¡t kÃ©pezÅ‘ alÃ¡bbi vagyonelemeket: LokÃ¡lÃ³ Ã©s B9 tÃ­pusÃº jÃ¡rmÅ±veinek alkatrÃ©szeit (szÃ©lvÃ©dÅ‘, Ã¼lÃ©ssor, Ã©kszÃ­j, Ã¼veg, egyÃ©b alkatrÃ©szek) 23 000 000 Ft + Ã¡fa, gÃ©pi eszkÃ¶zeit 3 500 000 Ft + Ã¡fa irÃ¡nyÃ¡ron.<ujsor/>
+BÃ¡natpÃ©nz:<ujsor/>
+Â­ 10 000 000 Ft + Ã¡fa Ã¶sszeget meg nem haladÃ³ irÃ¡nyÃ¡rÃº tÃ©telek esetÃ©n a nettÃ³ irÃ¡nyÃ¡r 5%-a,<ujsor/>
+Â­ 10 000 000 Ft + Ã¡fa Ã¶sszeget meghaladÃ³ irÃ¡nyÃ¡rÃº tÃ©telek esetÃ©n a nettÃ³ irÃ¡nyÃ¡r 3%-a.<ujsor/>
+TÃ¶bb tÃ©telre vonatkozÃ³ ajÃ¡nlat, vagy tÃ¶bb pÃ¡lyÃ¡zat esetÃ©n az egyes tÃ©telekre vonatkozÃ³an a bÃ¡natpÃ©nzt kÃ¼lÃ¶n-kÃ¼lÃ¶n kell megfizetni.<ujsor/>
+A vagyonelemek Â­ VÃ¡gÃ¡ny ZoltÃ¡nnal a 06 (30) 290-0438-as telefonszÃ¡mon tÃ¶rtÃ©nÅ‘ elÅ‘zetes idÅ‘pont-egyeztetÃ©s utÃ¡n Â­ megtekinthetÅ‘k.<ujsor/>
+A felsorolt vagyonelemek Ã©rtÃ©kesÃ­tÃ©sekor az Ã¡fatÃ¶rvÃ©ny 142. Â§-a szerint a fordÃ­tott adÃ³zÃ¡s szabÃ¡lya alkalmazandÃ³. A pÃ¡lyÃ¡zÃ³ kÃ¶teles az ajÃ¡nlatÃ¡ban nettÃ³ Ã¡rat megjelÃ¶lni.<ujsor/>
+Az ajÃ¡nlatokat a pÃ¡lyÃ¡zati kiÃ­rÃ¡sban szereplÅ‘ sorrendben kÃ¶teles a pÃ¡lyÃ¡zÃ³ a pÃ¡lyÃ¡zatÃ¡ban megadni.<ujsor/>
+A pÃ¡lyÃ¡zat beadÃ¡sa legkÃ©sÅ‘bb a CÃ©gkÃ¶zlÃ¶nyben valÃ³ megjelenÃ©st kÃ¶vetÅ‘ 15. nap utÃ¡ni elsÅ‘ munkanapon (dÃ©li) 12 Ã³rÃ¡ig, a felszÃ¡molÃ³ rÃ©szÃ©re tÃ¶rtÃ©nÅ‘ beÃ©rkezÃ©ssel kettÅ‘s, zÃ¡rt borÃ­tÃ©kban lehetsÃ©ges, melynÃ©l a belsÅ‘n csupÃ¡n az â€Alfa Busz 2002 Â­ pÃ¡lyÃ¡zatâ€ szÃ¶veget szabad feltÃ¼ntetni. A pÃ¡lyÃ¡zat beadhatÃ³ postai feladÃ¡ssal (1519 Budapest, Pf. 353) vagy szemÃ©lyesen (1115 Budapest, Ballagi MÃ³r u. 14.) hÃ©tfÅ‘tÅ‘l csÃ¼tÃ¶rtÃ¶kig 9Â­16 Ã³ra kÃ¶zÃ¶tt, pÃ©nteken 9Â­14 Ã³rÃ¡ig.<ujsor/>
+Az ajÃ¡nlati kÃ¶tÃ¶ttsÃ©g a pÃ¡lyÃ¡zati hatÃ¡ridÅ‘ utolsÃ³ napjÃ¡tÃ³l szÃ¡mÃ­tott 75 nap.<ujsor/>
+BontÃ¡s: a beadÃ¡stÃ³l szÃ¡mÃ­tott 30 napon belÃ¼l.<ujsor/>
+A nem nyertes pÃ¡lyÃ¡zÃ³k e dÃ¶ntÃ©st kÃ¶vetÅ‘ 8 banki napon belÃ¼l visszakapjÃ¡k bÃ¡natpÃ©nzÃ¼ket, mely a pÃ¡lyÃ¡zati ajÃ¡nlatuk eredmÃ©nytelensÃ©gÃ©rÅ‘l tÃ¶rtÃ©nÅ‘ tÃ¡jÃ©koztatÃ¡snak minÅ‘sÃ¼l. A bÃ¡natpÃ©nz(ek) befizetÃ©sÃ©t adÃ³s cÃ©g bankszÃ¡mlÃ¡jÃ¡ra kell teljesÃ­teni â€Alfa Busz 2002 Â­ pÃ¡lyÃ¡zatâ€ megjegyzÃ©ssel a pÃ¡lyÃ¡zat beadÃ¡si hatÃ¡ridejÃ©ig. AdÃ³s cÃ©g SzÃ©chenyi HitelszÃ¶vetkezetnÃ©l vezetett bankszÃ¡mlÃ¡ja szÃ¡ma: 80800080-30031187-50700014.<ujsor/>
+A pÃ¡lyÃ¡zatnak az ajÃ¡nlaton tÃºl tartalmaznia kell a pÃ¡lyÃ¡zÃ³ nevÃ©t, cÃ­mÃ©t, adÃ³szÃ¡mÃ¡t, bankszÃ¡mlaszÃ¡mÃ¡t, egy hÃ³napnÃ¡l nem rÃ©gebbi cÃ©gkivonatÃ¡t, alÃ¡Ã­rÃ¡si cÃ­mpÃ©ldÃ¡nyÃ¡t, a bÃ¡natpÃ©nz befizetÃ©sÃ©t igazolÃ³ banki bizonylatÃ¡t. MagÃ¡nszemÃ©ly pÃ¡lyÃ¡zÃ³ esetÃ©n szÃ¼ksÃ©ges mÃ©g szemÃ©lyiigazolvÃ¡ny-mÃ¡solat Ã©s a pÃ¡lyÃ¡zat kÃ©t tanÃºval tÃ¶rtÃ©nt hitelesÃ­tÃ©se. Meg kell jelÃ¶lni a pÃ¡lyÃ¡zatban a fizetÃ©s hatÃ¡ridejÃ©t Ã©s az esetleges biztosÃ­tÃ©kokat. A pÃ¡lyÃ¡zat kiÃ­rÃ³ja az ajÃ¡nlattevÅ‘t felhÃ­vhatja teljesÃ­tÅ‘kÃ©pessÃ©ge igazolÃ¡sÃ¡ra, melyet kÃ¶teles igazolni.<ujsor/>
+A nyilvÃ¡nos Ã©rtÃ©kesÃ­tÃ©sen tulajdonjogot szerzÅ‘ pÃ¡lyÃ¡zÃ³ az adÃ³ssal szemben beszÃ¡mÃ­tÃ¡ssal nem Ã©lhet. A bÃ¡natpÃ©nz az ajÃ¡nlattevÅ‘ javÃ¡ra nem kamatozik, a nyertes ajÃ¡nlattevÅ‘ bÃ¡natpÃ©nze a vÃ©telÃ¡rba beszÃ¡mÃ­t. Nem jÃ¡r vissza a bÃ¡natpÃ©nz, ha az ajÃ¡nlattevÅ‘ ajÃ¡nlatÃ¡t az ajÃ¡nlati kÃ¶tÃ¶ttsÃ©g tartama alatt visszavonja, vagy nem tesz eleget ajÃ¡nlatÃ¡ban, illetve a pÃ¡lyÃ¡zati felhÃ­vÃ¡sban foglaltaknak. A nyertes pÃ¡lyÃ¡zÃ³nak akkor sem jÃ¡r vissza, ha visszalÃ©p, ha neki felrÃ³hatÃ³ okokbÃ³l, illetve az Ã©rdekkÃ¶rÃ©ben felmerÃ¼lÅ‘ okok miatt a szerzÅ‘dÃ©s meghiÃºsul, vagy mint vevÅ‘, vÃ¡llalt fizetÃ©si kÃ¶telezettsÃ©gÃ©nek nem tesz maradÃ©ktalanul eleget, vagy az ajÃ¡nlati kÃ¶tÃ¶ttsÃ©g tartama alatt a szerzÅ‘dÃ©st a kiÃ­rÃ³ felhÃ­vÃ¡sa ellenÃ©re nem kÃ¶ti meg.<ujsor/>
+A pÃ¡lyÃ¡zat kiÃ­rÃ³ja fenntartja a jogot, hogy Â­ megfelelÅ‘ ajÃ¡nlat hiÃ¡nyÃ¡ban Â­ az adott vagyonelemre vonatkozÃ³ pÃ¡lyÃ¡zatot eredmÃ©nytelennek nyilvÃ¡nÃ­tsa, Ã©s Ãºj pÃ¡lyÃ¡zat kiÃ­rÃ¡sÃ¡rÃ³l dÃ¶ntsÃ¶n. Amennyiben tÃ¶bb megfelelÅ‘, vagy azonos Ã©rtÃ©kÅ±, vagy a vÃ©telÃ¡r vonatkozÃ¡sÃ¡ban legfeljebb 10%-kal eltÃ©rÅ‘ pÃ¡lyÃ¡zat Ã©rkezik, a pÃ¡lyÃ¡zat kiÃ­rÃ³ja nyilvÃ¡nos Ã¡rtÃ¡rgyalÃ¡st tarthat, melyrÅ‘l az Ã©rdekelteket Ã©rtesÃ­ti.<ujsor/>
+Az elÅ‘vÃ¡sÃ¡rlÃ¡sra jogosultak a pÃ¡lyÃ¡zat beadÃ¡sÃ¡nak kezdetÃ©ig Ã­rÃ¡sban jelezzÃ©k a felszÃ¡molÃ³nak elÅ‘vÃ¡sÃ¡rlÃ¡si szÃ¡ndÃ©kukat.<ujsor/>
+Ã‰rvÃ©nytelen az ajÃ¡nlat, ha nem felel meg a jogszabÃ¡lyban, illetve a pÃ¡lyÃ¡zati kiÃ­rÃ¡sban meghatÃ¡rozottaknak, ha nem Ã­rÃ¡sbeli, vagy beszÃ¡mÃ­tÃ¡st tartalmaz, vagy nem hatÃ¡ridÅ‘ben Ã©rkezett, vagy a pÃ¡lyÃ¡zÃ³ a bÃ¡natpÃ©nzt nem, vagy nem a pÃ¡lyÃ¡zati kiÃ­rÃ¡s szerint helyezte letÃ©tbe hatÃ¡ridÅ‘ben, vagy nem jelÃ¶l meg konkrÃ©t vÃ©telÃ¡rat, vagy az Ã¡rat mÃ¡s pÃ¡lyÃ¡zattÃ³l teszi fÃ¼ggÅ‘vÃ©.<ujsor/>
+A pÃ¡lyÃ¡zat nyertese szÃ¡mÃ¡ra a szerzÅ‘dÃ©skÃ¶tÃ©si hatÃ¡ridÅ‘ legkÃ©sÅ‘bb az Ã©rtesÃ­tÃ©s kÃ©zhezvÃ©telÃ©tÅ‘l szÃ¡mÃ­tott 30. nap, a vÃ©telÃ¡rat Ã¡tutalÃ¡ssal kÃ¶teles megfizetni adÃ³s cÃ©g fent megjelÃ¶lt szÃ¡mlÃ¡jÃ¡ra a szerzÅ‘dÃ©skÃ¶tÃ©stÅ‘l szÃ¡mÃ­tott 8 napon belÃ¼l. Ha az Ã©rtesÃ­tÃ©stÅ‘l szÃ¡mÃ­tott 30. nap az ajÃ¡nlati kÃ¶tÃ¶ttsÃ©g idÅ‘pontjÃ¡t kÃ¶vetÅ‘ idÅ‘pontra esik, Ãºgy a kiÃ­rÃ³ jogosult felhÃ­vni az ajÃ¡nlattevÅ‘t nyilatkozattÃ©telre, hogy ajÃ¡nlati kÃ¶tÃ¶ttsÃ©gÃ©t a kiÃ­rÃ³ Ã¡ltal a szerzÅ‘dÃ©skÃ¶tÃ©sre megjelÃ¶lt hatÃ¡ridÅ‘ig fenntartja-e, melyre ezen idÅ‘pontig Â­ Ãºgy, hogy arrÃ³l a kiÃ­rÃ³ tudomÃ¡st is szerezzen Â­ kÃ¶teles az ajÃ¡nlattevÅ‘ nyilatkozni. Amennyiben az ajÃ¡nlati kÃ¶tÃ¶ttsÃ©g idÅ‘tartama alatt nyertes nem kerÃ¼l Ã©rtesÃ­tÃ©sre, Ãºgy a kiÃ­rÃ³ jogosult felhÃ­vni az ajÃ¡nlattevÅ‘(ke)t nyilatkozattÃ©telre, hogy az ajÃ¡nlati kÃ¶tÃ¶ttsÃ©g(Ã¼k)et a kiÃ­rÃ³ Ã¡ltal megjelÃ¶lt hatÃ¡ridÅ‘ig fenntartja(Ã¡k)-e. Ha az ajÃ¡nlattevÅ‘ e kiÃ­rÃ³ Ã¡ltal megjelÃ¶lt idÅ‘pontig nem nyilatkozik, Ãºgy kell tekinteni, hogy ajÃ¡nlatÃ¡t nem tartja fenn.<ujsor/>
+A pÃ¡lyÃ¡zattal kapcsolatban tovÃ¡bbi rÃ©szletek megtekinthetÅ‘ek a www.f1consulting.hu weboldalon, valamint rÃ©szletes tÃ¡jÃ©koztatÃ¡s megtekintÃ©sre Ã¡tvehetÅ‘ a felszÃ¡molÃ³ titkÃ¡rsÃ¡gÃ¡n hÃ©tfÅ‘tÅ‘l csÃ¼tÃ¶rtÃ¶kig 10Â­14 Ã³rÃ¡ig, illetve ugyanezen idÅ‘szakban a 06 (1) 371-0171/107 m. telefonszÃ¡mon is kÃ©rhetÅ‘ felvilÃ¡gosÃ­tÃ¡s.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0709015150</mezo>
-<mezo id = "nev">ALFA BUSZ 2002 Jármûgyártó Korlátolt Felelõsségû Társaság &quot;csõdeljárás alatt&quot;</mezo>
-<mezo id = "cim">8000 Székesfehérvár</mezo>
+<mezo id = "nev">ALFA BUSZ 2002 JÃ¡rmÅ±gyÃ¡rtÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g &quot;csÅ‘deljÃ¡rÃ¡s alatt&quot;</mezo>
+<mezo id = "cim">8000 SzÃ©kesfehÃ©rvÃ¡r</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az F1 Consulting Felszámoló és Pénzügyi Tanácsadó Kft. (Cg.: [01 09 871959]; 1115 Budapest, Ildikó u. 21.; postacím: 1519 Budapest, Pf. 353) mint az Alfa Busz 2002 Kft. „f. a.” (Cg.: [07 09 015150]; 8000 Székesfehérvár, Repülõtér 7609/3. hrsz.; adószáma: [14454316-2-07]) Fejér Megyei Bíróság 7. Fpk. 07-10-000566/2. sz. végzésével kijelölt felszámolója<ujsor/>
-nyilvános pályázat<ujsor/>
-útján értékesítésre kínálja a felszámolás alatt álló gazdasági társaság tulajdonát képezõ alábbi vagyonelemeket a felsorolásban megjelölt pályázati irányárakon:<ujsor/>
-Lokáló és B9 típusú jármûveinek alkatrészeit (szélvédõ, üléssor, ékszíj, üveg, egyéb alkatrészek), 23 000 000 Ft + áfa, gépi eszközeit 3 500 000 Ft + áfa irányáron.<ujsor/>
-Bánatpénz:<ujsor/>
-­ 10 000 000 Ft + áfa összeget meg nem haladó irányárú tételek esetén a nettó irányár 5%-a,<ujsor/>
-­ 10 000 000 Ft + áfa összeget meghaladó irányárú tételek esetén a nettó irányár 3%-a.<ujsor/>
-Több tételre vonatkozó ajánlat, vagy több pályázat esetén az egyes tételekre vonatkozóan a bánatpénzt külön-külön kell megfizetni.<ujsor/>
-A vagyonelemek Vágány Zoltánnal a 06 (30) 290-0438-as telefonszámon történõ elõzetes idõpont-egyeztetés után megtekinthetõk.<ujsor/>
-A felsorolt vagyonelemek értékesítésekor az áfatörvény 142. §-a szerint a fordított adózás szabálya alkalmazandó. A pályázó köteles az ajánlatában nettó árat megjelölni.<ujsor/>
-Az ajánlatokat a pályázati kiírásban szereplõ sorrendben köteles a pályázó a pályázatában megadni.<ujsor/>
-A pályázat beadása legkésõbb a Cégközlönyben való megjelenést követõ 15. nap utáni elsõ munkanapon déli 12 óráig, a felszámoló részére történõ beérkezéssel kettõs, zárt borítékban lehetséges, melynél a belsõn csupán az „Alfa Busz 2002 ­ pályázat” szöveget szabad feltüntetni. A pályázat beadható postai feladással (1519 Budapest, Pf. 353) vagy személyesen (1115 Budapest, Ballagi Mór u. 14.), hétfõtõl csütörtökig 9­16 óra között, pénteken 9­14 óráig.<ujsor/>
-Az ajánlati kötöttség a pályázati határidõ utolsó napjától számított 75 nap.<ujsor/>
-Bontás: a beadástól számított 30 napon belül.<ujsor/>
-A nem nyertes pályázók e döntést követõ 8 banki napon belül visszakapják bánatpénzüket, mely a pályázati ajánlatuk eredménytelenségérõl történõ tájékoztatásnak minõsül. A bánatpénz(ek) befizetést az adós cég bankszámlájára kell teljesíteni „Alfa Busz 2002 ­ pályázat” megjegyzéssel a pályázat beadási határidejéig. Az adós cég Széchenyi Hitelszövetkezetnél vezetett bankszámlája száma: 80800080-30031187-50700014. A pályázatnak az ajánlaton túl tartalmaznia kell a pályázó nevét, címét, adószámát, bankszámlaszámát, egy hónapnál nem régebbi cégkivonatát, aláírási címpéldányát, a bánatpénz befizetését igazoló banki bizonylatát. Magánszemély pályázó esetén szükséges még személyi igazolvány másolat és a pályázat két tanúval történt hitelesítése. Meg kell jelölni a pályázatban a fizetés határidejét és az esetleges biztosítékokat. A pályázat kiírója az ajánlattevõt felhívhatja teljesítõképessége igazolására, melyet köteles igazolni.<ujsor/>
-A pályázók pályázatukban kötelesek nyilatkozni, hogy a pályázati kiírásban foglalt feltételeket elfogadják.<ujsor/>
-A nyilvános értékesítésen tulajdonjogot szerzõ pályázó az adóssal szemben beszámítással nem élhet. A bánatpénz az ajánlattevõ javára nem kamatozik, a nyertes ajánlattevõ bánatpénze a vételárba beszámít. Nem jár vissza a bánatpénz, ha az ajánlattevõ ajánlatát az ajánlati kötöttség tartama alatt visszavonja, vagy nem tesz eleget ajánlatában, illetve a pályázati felhívásban foglaltaknak. A nyertes pályázónak akkor sem jár vissza, ha visszalép, ha neki felróható okokból, illetve az érdekkörében felmerülõ okok miatt a szerzõdés meghiúsul, vagy mint vevõ, vállalt fizetési kötelezettségének nem tesz maradéktalanul eleget, vagy az ajánlati kötöttség tartama alatt a szerzõdést a kiíró felhívása ellenére nem köti meg. A pályázat kiírója fenntartja a jogot, hogy ­ megfelelõ ajánlat hiányában ­ az adott vagyonelemre vonatkozó pályázatot eredménytelennek nyilvánítsa, és új pályázat kiírásáról döntsön. Amennyiben több megfelelõ vagy azonos értékû, a vételár vonatkozásában legfeljebb 10%-kal eltérõ pályázat érkezik, a pályázat kiírója nyilvános ártárgyalást tarthat, melyrõl az érdekelteket értesíti.<ujsor/>
-Az elõvásárlásra jogosultak a pályázat beadásának kezdetéig írásban jelezzék a felszámolónak elõvásárlási szándékukat.<ujsor/>
-Érvénytelen az ajánlat, ha nem felel meg a jogszabályban, illetve a pályázati kiírásban meghatározottaknak, ha nem írásbeli, vagy beszámítást tartalmaz, vagy nem határidõben érkezett, vagy a pályázó a bánatpénzt nem, vagy nem a pályázati kiírás szerint helyezte letétbe határidõben, vagy nem jelöl meg konkrét vételárat, vagy az árat más pályázattól teszi függõvé.<ujsor/>
-A pályázat nyertese számára a szerzõdéskötési határidõ legkésõbb az értesítés kézhezvételétõl számított 30. nap, a vételárat átutalással köteles megfizetni az adós cég fent megjelölt számlájára a szerzõdéskötéstõl számított 8 napon belül. Ha az értesítéstõl számított 30. nap az ajánlati kötöttség idõpontját követõ idõpontra esik, úgy a kiíró jogosult felhívni az ajánlattevõt nyilatkozattételre, hogy ajánlati kötöttségét a kiíró által a szerzõdéskötésre megjelölt határidõig fenntartja-e, melyre ezen idõpontig ­ úgy, hogy arról a kiíró tudomást is szerezzen ­ köteles az ajánlattevõ nyilatkozni. Amennyiben az ajánlati kötöttség idõtartama alatt a nyertes nem kerül értesítésre, úgy a kiíró jogosult felhívni az ajánlattevõ(ke)t nyilatkozattételre, hogy az ajánlati kötöttség(ük)et a kiíró által megjelölt határidõig fenntartja(ák)-e. Ha az ajánlattevõ e kiíró által megjelölt idõpontig nem nyilatkozik, úgy kell tekinteni, hogy ajánlatát nem tartja fenn.<ujsor/>
-A pályázattal kapcsolatban további részletek megtekinthetõk a www.f1consulting.hu weboldalon, valamint részletes tájékoztatás (teljes pályázati dokumentáció) megtekintésre átvehetõ a felszámoló titkárságán hétfõtõl csütörtökig 10­14 óráig, illetve hétfõn, csütörtökön és pénteken ugyanebben az idõszakban a 06 (1) 371-0171/103 m. telefonszámon is kérhetõ felvilágosítás.<ujsor/>
+<mezo id = "szoveg">Az F1 Consulting FelszÃ¡molÃ³ Ã©s PÃ©nzÃ¼gyi TanÃ¡csadÃ³ Kft. (Cg.: [01 09 871959]; 1115 Budapest, IldikÃ³ u. 21.; postacÃ­m: 1519 Budapest, Pf. 353) mint az Alfa Busz 2002 Kft. â€f. a.â€ (Cg.: [07 09 015150]; 8000 SzÃ©kesfehÃ©rvÃ¡r, RepÃ¼lÅ‘tÃ©r 7609/3. hrsz.; adÃ³szÃ¡ma: [14454316-2-07]) FejÃ©r Megyei BÃ­rÃ³sÃ¡g 7. Fpk. 07-10-000566/2. sz. vÃ©gzÃ©sÃ©vel kijelÃ¶lt felszÃ¡molÃ³ja<ujsor/>
+nyilvÃ¡nos pÃ¡lyÃ¡zat<ujsor/>
+ÃºtjÃ¡n Ã©rtÃ©kesÃ­tÃ©sre kÃ­nÃ¡lja a felszÃ¡molÃ¡s alatt Ã¡llÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g tulajdonÃ¡t kÃ©pezÅ‘ alÃ¡bbi vagyonelemeket a felsorolÃ¡sban megjelÃ¶lt pÃ¡lyÃ¡zati irÃ¡nyÃ¡rakon:<ujsor/>
+LokÃ¡lÃ³ Ã©s B9 tÃ­pusÃº jÃ¡rmÅ±veinek alkatrÃ©szeit (szÃ©lvÃ©dÅ‘, Ã¼lÃ©ssor, Ã©kszÃ­j, Ã¼veg, egyÃ©b alkatrÃ©szek), 23 000 000 Ft + Ã¡fa, gÃ©pi eszkÃ¶zeit 3 500 000 Ft + Ã¡fa irÃ¡nyÃ¡ron.<ujsor/>
+BÃ¡natpÃ©nz:<ujsor/>
+Â­ 10 000 000 Ft + Ã¡fa Ã¶sszeget meg nem haladÃ³ irÃ¡nyÃ¡rÃº tÃ©telek esetÃ©n a nettÃ³ irÃ¡nyÃ¡r 5%-a,<ujsor/>
+Â­ 10 000 000 Ft + Ã¡fa Ã¶sszeget meghaladÃ³ irÃ¡nyÃ¡rÃº tÃ©telek esetÃ©n a nettÃ³ irÃ¡nyÃ¡r 3%-a.<ujsor/>
+TÃ¶bb tÃ©telre vonatkozÃ³ ajÃ¡nlat, vagy tÃ¶bb pÃ¡lyÃ¡zat esetÃ©n az egyes tÃ©telekre vonatkozÃ³an a bÃ¡natpÃ©nzt kÃ¼lÃ¶n-kÃ¼lÃ¶n kell megfizetni.<ujsor/>
+A vagyonelemek VÃ¡gÃ¡ny ZoltÃ¡nnal a 06 (30) 290-0438-as telefonszÃ¡mon tÃ¶rtÃ©nÅ‘ elÅ‘zetes idÅ‘pont-egyeztetÃ©s utÃ¡n megtekinthetÅ‘k.<ujsor/>
+A felsorolt vagyonelemek Ã©rtÃ©kesÃ­tÃ©sekor az Ã¡fatÃ¶rvÃ©ny 142. Â§-a szerint a fordÃ­tott adÃ³zÃ¡s szabÃ¡lya alkalmazandÃ³. A pÃ¡lyÃ¡zÃ³ kÃ¶teles az ajÃ¡nlatÃ¡ban nettÃ³ Ã¡rat megjelÃ¶lni.<ujsor/>
+Az ajÃ¡nlatokat a pÃ¡lyÃ¡zati kiÃ­rÃ¡sban szereplÅ‘ sorrendben kÃ¶teles a pÃ¡lyÃ¡zÃ³ a pÃ¡lyÃ¡zatÃ¡ban megadni.<ujsor/>
+A pÃ¡lyÃ¡zat beadÃ¡sa legkÃ©sÅ‘bb a CÃ©gkÃ¶zlÃ¶nyben valÃ³ megjelenÃ©st kÃ¶vetÅ‘ 15. nap utÃ¡ni elsÅ‘ munkanapon dÃ©li 12 Ã³rÃ¡ig, a felszÃ¡molÃ³ rÃ©szÃ©re tÃ¶rtÃ©nÅ‘ beÃ©rkezÃ©ssel kettÅ‘s, zÃ¡rt borÃ­tÃ©kban lehetsÃ©ges, melynÃ©l a belsÅ‘n csupÃ¡n az â€Alfa Busz 2002 Â­ pÃ¡lyÃ¡zatâ€ szÃ¶veget szabad feltÃ¼ntetni. A pÃ¡lyÃ¡zat beadhatÃ³ postai feladÃ¡ssal (1519 Budapest, Pf. 353) vagy szemÃ©lyesen (1115 Budapest, Ballagi MÃ³r u. 14.), hÃ©tfÅ‘tÅ‘l csÃ¼tÃ¶rtÃ¶kig 9Â­16 Ã³ra kÃ¶zÃ¶tt, pÃ©nteken 9Â­14 Ã³rÃ¡ig.<ujsor/>
+Az ajÃ¡nlati kÃ¶tÃ¶ttsÃ©g a pÃ¡lyÃ¡zati hatÃ¡ridÅ‘ utolsÃ³ napjÃ¡tÃ³l szÃ¡mÃ­tott 75 nap.<ujsor/>
+BontÃ¡s: a beadÃ¡stÃ³l szÃ¡mÃ­tott 30 napon belÃ¼l.<ujsor/>
+A nem nyertes pÃ¡lyÃ¡zÃ³k e dÃ¶ntÃ©st kÃ¶vetÅ‘ 8 banki napon belÃ¼l visszakapjÃ¡k bÃ¡natpÃ©nzÃ¼ket, mely a pÃ¡lyÃ¡zati ajÃ¡nlatuk eredmÃ©nytelensÃ©gÃ©rÅ‘l tÃ¶rtÃ©nÅ‘ tÃ¡jÃ©koztatÃ¡snak minÅ‘sÃ¼l. A bÃ¡natpÃ©nz(ek) befizetÃ©st az adÃ³s cÃ©g bankszÃ¡mlÃ¡jÃ¡ra kell teljesÃ­teni â€Alfa Busz 2002 Â­ pÃ¡lyÃ¡zatâ€ megjegyzÃ©ssel a pÃ¡lyÃ¡zat beadÃ¡si hatÃ¡ridejÃ©ig. Az adÃ³s cÃ©g SzÃ©chenyi HitelszÃ¶vetkezetnÃ©l vezetett bankszÃ¡mlÃ¡ja szÃ¡ma: 80800080-30031187-50700014. A pÃ¡lyÃ¡zatnak az ajÃ¡nlaton tÃºl tartalmaznia kell a pÃ¡lyÃ¡zÃ³ nevÃ©t, cÃ­mÃ©t, adÃ³szÃ¡mÃ¡t, bankszÃ¡mlaszÃ¡mÃ¡t, egy hÃ³napnÃ¡l nem rÃ©gebbi cÃ©gkivonatÃ¡t, alÃ¡Ã­rÃ¡si cÃ­mpÃ©ldÃ¡nyÃ¡t, a bÃ¡natpÃ©nz befizetÃ©sÃ©t igazolÃ³ banki bizonylatÃ¡t. MagÃ¡nszemÃ©ly pÃ¡lyÃ¡zÃ³ esetÃ©n szÃ¼ksÃ©ges mÃ©g szemÃ©lyi igazolvÃ¡ny mÃ¡solat Ã©s a pÃ¡lyÃ¡zat kÃ©t tanÃºval tÃ¶rtÃ©nt hitelesÃ­tÃ©se. Meg kell jelÃ¶lni a pÃ¡lyÃ¡zatban a fizetÃ©s hatÃ¡ridejÃ©t Ã©s az esetleges biztosÃ­tÃ©kokat. A pÃ¡lyÃ¡zat kiÃ­rÃ³ja az ajÃ¡nlattevÅ‘t felhÃ­vhatja teljesÃ­tÅ‘kÃ©pessÃ©ge igazolÃ¡sÃ¡ra, melyet kÃ¶teles igazolni.<ujsor/>
+A pÃ¡lyÃ¡zÃ³k pÃ¡lyÃ¡zatukban kÃ¶telesek nyilatkozni, hogy a pÃ¡lyÃ¡zati kiÃ­rÃ¡sban foglalt feltÃ©teleket elfogadjÃ¡k.<ujsor/>
+A nyilvÃ¡nos Ã©rtÃ©kesÃ­tÃ©sen tulajdonjogot szerzÅ‘ pÃ¡lyÃ¡zÃ³ az adÃ³ssal szemben beszÃ¡mÃ­tÃ¡ssal nem Ã©lhet. A bÃ¡natpÃ©nz az ajÃ¡nlattevÅ‘ javÃ¡ra nem kamatozik, a nyertes ajÃ¡nlattevÅ‘ bÃ¡natpÃ©nze a vÃ©telÃ¡rba beszÃ¡mÃ­t. Nem jÃ¡r vissza a bÃ¡natpÃ©nz, ha az ajÃ¡nlattevÅ‘ ajÃ¡nlatÃ¡t az ajÃ¡nlati kÃ¶tÃ¶ttsÃ©g tartama alatt visszavonja, vagy nem tesz eleget ajÃ¡nlatÃ¡ban, illetve a pÃ¡lyÃ¡zati felhÃ­vÃ¡sban foglaltaknak. A nyertes pÃ¡lyÃ¡zÃ³nak akkor sem jÃ¡r vissza, ha visszalÃ©p, ha neki felrÃ³hatÃ³ okokbÃ³l, illetve az Ã©rdekkÃ¶rÃ©ben felmerÃ¼lÅ‘ okok miatt a szerzÅ‘dÃ©s meghiÃºsul, vagy mint vevÅ‘, vÃ¡llalt fizetÃ©si kÃ¶telezettsÃ©gÃ©nek nem tesz maradÃ©ktalanul eleget, vagy az ajÃ¡nlati kÃ¶tÃ¶ttsÃ©g tartama alatt a szerzÅ‘dÃ©st a kiÃ­rÃ³ felhÃ­vÃ¡sa ellenÃ©re nem kÃ¶ti meg. A pÃ¡lyÃ¡zat kiÃ­rÃ³ja fenntartja a jogot, hogy Â­ megfelelÅ‘ ajÃ¡nlat hiÃ¡nyÃ¡ban Â­ az adott vagyonelemre vonatkozÃ³ pÃ¡lyÃ¡zatot eredmÃ©nytelennek nyilvÃ¡nÃ­tsa, Ã©s Ãºj pÃ¡lyÃ¡zat kiÃ­rÃ¡sÃ¡rÃ³l dÃ¶ntsÃ¶n. Amennyiben tÃ¶bb megfelelÅ‘ vagy azonos Ã©rtÃ©kÅ±, a vÃ©telÃ¡r vonatkozÃ¡sÃ¡ban legfeljebb 10%-kal eltÃ©rÅ‘ pÃ¡lyÃ¡zat Ã©rkezik, a pÃ¡lyÃ¡zat kiÃ­rÃ³ja nyilvÃ¡nos Ã¡rtÃ¡rgyalÃ¡st tarthat, melyrÅ‘l az Ã©rdekelteket Ã©rtesÃ­ti.<ujsor/>
+Az elÅ‘vÃ¡sÃ¡rlÃ¡sra jogosultak a pÃ¡lyÃ¡zat beadÃ¡sÃ¡nak kezdetÃ©ig Ã­rÃ¡sban jelezzÃ©k a felszÃ¡molÃ³nak elÅ‘vÃ¡sÃ¡rlÃ¡si szÃ¡ndÃ©kukat.<ujsor/>
+Ã‰rvÃ©nytelen az ajÃ¡nlat, ha nem felel meg a jogszabÃ¡lyban, illetve a pÃ¡lyÃ¡zati kiÃ­rÃ¡sban meghatÃ¡rozottaknak, ha nem Ã­rÃ¡sbeli, vagy beszÃ¡mÃ­tÃ¡st tartalmaz, vagy nem hatÃ¡ridÅ‘ben Ã©rkezett, vagy a pÃ¡lyÃ¡zÃ³ a bÃ¡natpÃ©nzt nem, vagy nem a pÃ¡lyÃ¡zati kiÃ­rÃ¡s szerint helyezte letÃ©tbe hatÃ¡ridÅ‘ben, vagy nem jelÃ¶l meg konkrÃ©t vÃ©telÃ¡rat, vagy az Ã¡rat mÃ¡s pÃ¡lyÃ¡zattÃ³l teszi fÃ¼ggÅ‘vÃ©.<ujsor/>
+A pÃ¡lyÃ¡zat nyertese szÃ¡mÃ¡ra a szerzÅ‘dÃ©skÃ¶tÃ©si hatÃ¡ridÅ‘ legkÃ©sÅ‘bb az Ã©rtesÃ­tÃ©s kÃ©zhezvÃ©telÃ©tÅ‘l szÃ¡mÃ­tott 30. nap, a vÃ©telÃ¡rat Ã¡tutalÃ¡ssal kÃ¶teles megfizetni az adÃ³s cÃ©g fent megjelÃ¶lt szÃ¡mlÃ¡jÃ¡ra a szerzÅ‘dÃ©skÃ¶tÃ©stÅ‘l szÃ¡mÃ­tott 8 napon belÃ¼l. Ha az Ã©rtesÃ­tÃ©stÅ‘l szÃ¡mÃ­tott 30. nap az ajÃ¡nlati kÃ¶tÃ¶ttsÃ©g idÅ‘pontjÃ¡t kÃ¶vetÅ‘ idÅ‘pontra esik, Ãºgy a kiÃ­rÃ³ jogosult felhÃ­vni az ajÃ¡nlattevÅ‘t nyilatkozattÃ©telre, hogy ajÃ¡nlati kÃ¶tÃ¶ttsÃ©gÃ©t a kiÃ­rÃ³ Ã¡ltal a szerzÅ‘dÃ©skÃ¶tÃ©sre megjelÃ¶lt hatÃ¡ridÅ‘ig fenntartja-e, melyre ezen idÅ‘pontig Â­ Ãºgy, hogy arrÃ³l a kiÃ­rÃ³ tudomÃ¡st is szerezzen Â­ kÃ¶teles az ajÃ¡nlattevÅ‘ nyilatkozni. Amennyiben az ajÃ¡nlati kÃ¶tÃ¶ttsÃ©g idÅ‘tartama alatt a nyertes nem kerÃ¼l Ã©rtesÃ­tÃ©sre, Ãºgy a kiÃ­rÃ³ jogosult felhÃ­vni az ajÃ¡nlattevÅ‘(ke)t nyilatkozattÃ©telre, hogy az ajÃ¡nlati kÃ¶tÃ¶ttsÃ©g(Ã¼k)et a kiÃ­rÃ³ Ã¡ltal megjelÃ¶lt hatÃ¡ridÅ‘ig fenntartja(Ã¡k)-e. Ha az ajÃ¡nlattevÅ‘ e kiÃ­rÃ³ Ã¡ltal megjelÃ¶lt idÅ‘pontig nem nyilatkozik, Ãºgy kell tekinteni, hogy ajÃ¡nlatÃ¡t nem tartja fenn.<ujsor/>
+A pÃ¡lyÃ¡zattal kapcsolatban tovÃ¡bbi rÃ©szletek megtekinthetÅ‘k a www.f1consulting.hu weboldalon, valamint rÃ©szletes tÃ¡jÃ©koztatÃ¡s (teljes pÃ¡lyÃ¡zati dokumentÃ¡ciÃ³) megtekintÃ©sre Ã¡tvehetÅ‘ a felszÃ¡molÃ³ titkÃ¡rsÃ¡gÃ¡n hÃ©tfÅ‘tÅ‘l csÃ¼tÃ¶rtÃ¶kig 10Â­14 Ã³rÃ¡ig, illetve hÃ©tfÅ‘n, csÃ¼tÃ¶rtÃ¶kÃ¶n Ã©s pÃ©nteken ugyanebben az idÅ‘szakban a 06 (1) 371-0171/103 m. telefonszÃ¡mon is kÃ©rhetÅ‘ felvilÃ¡gosÃ­tÃ¡s.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0709015150</mezo>
-<mezo id = "nev">ALFA BUSZ 2002 Jármûgyártó Korlátolt Felelõsségû Társaság &quot;csõdeljárás alatt&quot;</mezo>
-<mezo id = "cim">8000 Székesfehérvár</mezo>
+<mezo id = "nev">ALFA BUSZ 2002 JÃ¡rmÅ±gyÃ¡rtÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g &quot;csÅ‘deljÃ¡rÃ¡s alatt&quot;</mezo>
+<mezo id = "cim">8000 SzÃ©kesfehÃ©rvÃ¡r</mezo>
 </alrovat>
 </rovat>
 <rovat id = "99017">

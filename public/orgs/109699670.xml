@@ -6,7 +6,7 @@
 <mezo id = "szam">699670</mezo>
 <mezo id = "nevalrovat">3</mezo>
 <mezo id = "allapot">2</mezo>
-<mezo id = "cim">1037 Budapest, Seregély u. 9. </mezo>
+<mezo id = "cim">1037 Budapest, SeregÃ©ly u. 9. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">12710555241</mezo>
 </alrovat>
@@ -14,11 +14,11 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20010927</mezo>
-<mezo id = "nev">WIGO Ingatlanfejlesztõ és Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">WIGO IngatlanfejlesztÅ‘ Ã©s TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20080303</mezo>
-<mezo id = "nev">WIGO Ingatlanfejlesztõ és Tanácsadó Korlátolt Felelõsségû Társaság &quot;felszámolás alatt &quot;</mezo>
+<mezo id = "nev">WIGO IngatlanfejlesztÅ‘ Ã©s TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g &quot;felszÃ¡molÃ¡s alatt &quot;</mezo>
 <mezo id = "valtk">20080303</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20080305</mezo>
@@ -44,7 +44,7 @@
 <mezo id = "hattol">20070618</mezo>
 <mezo id = "irsz">1037</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Seregély u. 9.</mezo>
+<mezo id = "teru">SeregÃ©ly u. 9.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">20070618</mezo>
 <mezo id = "valtv">0</mezo>
@@ -211,8 +211,8 @@
 <rovat id = "13">
 <alrovat id = "4">
 <mezo id = "hattol">20070416</mezo>
-<mezo id = "pnev">Farkas András</mezo>
-<mezo id = "panev">Dienes Éva</mezo>
+<mezo id = "pnev">Farkas AndrÃ¡s</mezo>
+<mezo id = "panev">Dienes Ã‰va</mezo>
 <mezo id = "pirsz">1052</mezo>
 <mezo id = "phely">Budapest, Kossuth L. u. 12.</mezo>
 <mezo id = "kepvo">x</mezo>
@@ -223,13 +223,13 @@
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20080303</mezo>
-<mezo id = "nev">KERSZI Kereskedelmi és Pénzügyi Szervezési Tanácsadó Zrt.</mezo>
+<mezo id = "nev">KERSZI Kereskedelmi Ã©s PÃ©nzÃ¼gyi SzervezÃ©si TanÃ¡csadÃ³ Zrt.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1135</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Csata u. 11. levelezési cím: 1581 Bp. Pf : 108.</mezo>
-<mezo id = "pnev">Nagyné Ábri Katalin</mezo>
-<mezo id = "panev">Szabó Eszter</mezo>
+<mezo id = "teru">Csata u. 11. levelezÃ©si cÃ­m: 1581 Bp. Pf : 108.</mezo>
+<mezo id = "pnev">NagynÃ© Ãbri Katalin</mezo>
+<mezo id = "panev">SzabÃ³ Eszter</mezo>
 <mezo id = "pirsz">1135</mezo>
 <mezo id = "phely">Budapest, Csata u. 11.</mezo>
 <mezo id = "kepvo">x</mezo>
@@ -267,18 +267,18 @@
 <rovat id = "0109">
 <alrovat id = "2">
 <mezo id = "hattol">20010927</mezo>
-<mezo id = "pnev">Dr. Farkas András</mezo>
-<mezo id = "panev">Dr. Dienes Éva</mezo>
+<mezo id = "pnev">Dr. Farkas AndrÃ¡s</mezo>
+<mezo id = "panev">Dr. Dienes Ã‰va</mezo>
 <mezo id = "pirsz">1052</mezo>
 <mezo id = "phely">Budapest, Kossuth Lajos u. 12.</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20060223</mezo>
 <mezo id = "cgjsz">109866530</mezo>
-<mezo id = "nev">TJ INVEST Ingatlanforgalmazó és Vagyonkezelõ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">TJ INVEST IngatlanforgalmazÃ³ Ã©s VagyonkezelÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1021</mezo>
-<mezo id = "hely">Budapest, Hûvösvölgyi út 54. V. ép. 1. em. 104.</mezo>
+<mezo id = "hely">Budapest, HÅ±vÃ¶svÃ¶lgyi Ãºt 54. V. Ã©p. 1. em. 104.</mezo>
 <mezo id = "k">x</mezo>
 </alrovat>
 </rovat>
@@ -291,459 +291,459 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a Cégközlönyben közzéteszi a fenti gazdálkodó szervezet végelszámolási eljárásának megindítását.<ujsor/>
-A végelszámolást elrendelõ szerv neve: A tagok gyûlése.<ujsor/>
-A megszûnés elhatározásának idõpontja: 2007. 09. 27.<ujsor/>
-A végelszámolás kezdõ idõpontja: 2007. 10. 01.<ujsor/>
-Törölni rendelt cégjegyzésre jogosult(ak):<ujsor/>
- A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (ügyvezetõ).<ujsor/>
- Farkas András (an: Dienes Éva)<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a CÃ©gkÃ¶zlÃ¶nyben kÃ¶zzÃ©teszi a fenti gazdÃ¡lkodÃ³ szervezet vÃ©gelszÃ¡molÃ¡si eljÃ¡rÃ¡sÃ¡nak megindÃ­tÃ¡sÃ¡t.<ujsor/>
+A vÃ©gelszÃ¡molÃ¡st elrendelÅ‘ szerv neve: A tagok gyÅ±lÃ©se.<ujsor/>
+A megszÅ±nÃ©s elhatÃ¡rozÃ¡sÃ¡nak idÅ‘pontja: 2007. 09. 27.<ujsor/>
+A vÃ©gelszÃ¡molÃ¡s kezdÅ‘ idÅ‘pontja: 2007. 10. 01.<ujsor/>
+TÃ¶rÃ¶lni rendelt cÃ©gjegyzÃ©sre jogosult(ak):<ujsor/>
+ A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘).<ujsor/>
+ Farkas AndrÃ¡s (an: Dienes Ã‰va)<ujsor/>
 1052 Budapest, Kossuth L. u. 12.<ujsor/>
  A jogviszony kezdete: 2005. 05. 03.<ujsor/>
- A változás idõpontja: 2007. 10. 01.<ujsor/>
- Törölve: 2008. 01. 04.<ujsor/>
-Végelszámoló(k) és cégjegyzésre jogosult(ak):<ujsor/>
- A képviselet módja: önálló.<ujsor/>
- Tisztsége: végelszámoló.<ujsor/>
- Nagy Barnabás (an: Gálhidi Mária)<ujsor/>
-2092 Budakeszi, Barackvirág u. 40.<ujsor/>
- [01 10 041640] KERSZI Kereskedelmi és Pénzügyi Szervezési-Tanácsadó Zártkörûen Mûködõ Részvénytársaság<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2007. 10. 01.<ujsor/>
+ TÃ¶rÃ¶lve: 2008. 01. 04.<ujsor/>
+VÃ©gelszÃ¡molÃ³(k) Ã©s cÃ©gjegyzÃ©sre jogosult(ak):<ujsor/>
+ A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vÃ©gelszÃ¡molÃ³.<ujsor/>
+ Nagy BarnabÃ¡s (an: GÃ¡lhidi MÃ¡ria)<ujsor/>
+2092 Budakeszi, BarackvirÃ¡g u. 40.<ujsor/>
+ [01 10 041640] KERSZI Kereskedelmi Ã©s PÃ©nzÃ¼gyi SzervezÃ©si-TanÃ¡csadÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g<ujsor/>
 HU 1134 Budapest, Csata utca 11.<ujsor/>
  A jogviszony kezdete: 2007. 10. 01.<ujsor/>
- A változás idõpontja: 2007. 09. 27.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2007. 09. 27.<ujsor/>
  Bejegyezve: 2008. 01. 04.<ujsor/>
-A bíróság felhívja a végelszámolás alatt<ujsor/>
-álló cég hitelezõit, hogy ismert<ujsor/>
-követeléseiket a végelszámolás<ujsor/>
-megindítását tartalmazó végzés<ujsor/>
-közzétételétõl számított 40 napon belül<ujsor/>
-a végelszámolónak jelentsék be.<ujsor/>
+A bÃ­rÃ³sÃ¡g felhÃ­vja a vÃ©gelszÃ¡molÃ¡s alatt<ujsor/>
+Ã¡llÃ³ cÃ©g hitelezÅ‘it, hogy ismert<ujsor/>
+kÃ¶vetelÃ©seiket a vÃ©gelszÃ¡molÃ¡s<ujsor/>
+megindÃ­tÃ¡sÃ¡t tartalmazÃ³ vÃ©gzÃ©s<ujsor/>
+kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott 40 napon belÃ¼l<ujsor/>
+a vÃ©gelszÃ¡molÃ³nak jelentsÃ©k be.<ujsor/>
 2008. 01. 04.<ujsor/>
-A közzététel idõpontja: 2008. 01. 24.<ujsor/>
+A kÃ¶zzÃ©tÃ©tel idÅ‘pontja: 2008. 01. 24.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109699670</mezo>
-<mezo id = "nev">WIGO Ingatlanfejlesztõ és Tanácsadó Korlátolt Felelõsségû Társaság &quot;végelszámolás alatt&quot;</mezo>
-<mezo id = "cim">1037 Budapest, Seregély u. 9.</mezo>
+<mezo id = "nev">WIGO IngatlanfejlesztÅ‘ Ã©s TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g &quot;vÃ©gelszÃ¡molÃ¡s alatt&quot;</mezo>
+<mezo id = "cim">1037 Budapest, SeregÃ©ly u. 9.</mezo>
 <mezo id = "adosz">12710555241</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a 2007. 10. 03. napján indult változásbejegyzési eljárást megszünteti.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a 2007. 10. 03. napjÃ¡n indult vÃ¡ltozÃ¡sbejegyzÃ©si eljÃ¡rÃ¡st megszÃ¼nteti.<ujsor/>
 2008. 01. 07.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109699670</mezo>
-<mezo id = "nev">WIGO Ingatlanfejlesztõ és Tanácsadó Korlátolt Felelõsségû Társaság &quot;végelszámolás alatt&quot;</mezo>
-<mezo id = "cim">1037 Budapest, Seregély u. 9.</mezo>
+<mezo id = "nev">WIGO IngatlanfejlesztÅ‘ Ã©s TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g &quot;vÃ©gelszÃ¡molÃ¡s alatt&quot;</mezo>
+<mezo id = "cim">1037 Budapest, SeregÃ©ly u. 9.</mezo>
 <mezo id = "adosz">12710555241</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság<ujsor/>
-17.Fpk.01-08-000438/6. sz. végzése<ujsor/>
-felszámolás megindításának közzétételérõl<ujsor/>
-A bíróság elrendeli annak a Cégközlönyben való közzétételét, hogy a(z)<ujsor/>
-2008. február 16. napján jogerõre emelkedett végzésével a(z) WIGO<ujsor/>
-Ingatlanfejlesztõ és Tanácsadó Korlátolt Felelõsségû Társaság (1037<ujsor/>
-Budapest, Seregély u 9.; cégjegyzékszáma: 01 09 699670; adószáma:<ujsor/>
-12710555-2-41) adós felszámolását fõeljárásként elrendelte.<ujsor/>
-Elõzõ székhelyei(i):<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g<ujsor/>
+17.Fpk.01-08-000438/6. sz. vÃ©gzÃ©se<ujsor/>
+felszÃ¡molÃ¡s megindÃ­tÃ¡sÃ¡nak kÃ¶zzÃ©tÃ©telÃ©rÅ‘l<ujsor/>
+A bÃ­rÃ³sÃ¡g elrendeli annak a CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©t, hogy a(z)<ujsor/>
+2008. februÃ¡r 16. napjÃ¡n jogerÅ‘re emelkedett vÃ©gzÃ©sÃ©vel a(z) WIGO<ujsor/>
+IngatlanfejlesztÅ‘ Ã©s TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (1037<ujsor/>
+Budapest, SeregÃ©ly u 9.; cÃ©gjegyzÃ©kszÃ¡ma: 01 09 699670; adÃ³szÃ¡ma:<ujsor/>
+12710555-2-41) adÃ³s felszÃ¡molÃ¡sÃ¡t fÅ‘eljÃ¡rÃ¡skÃ©nt elrendelte.<ujsor/>
+ElÅ‘zÅ‘ szÃ©khelyei(i):<ujsor/>
 1027 Budapest, Feketesas u. 2.<ujsor/>
-A bíróság által kijelölt felszámoló:<ujsor/>
-KERSZI Kereskedelmi és Pénzügyi Szervezési Tanácsadó Zrt., 1135 Budapest,<ujsor/>
-Csata u. 11. levelezési cím: 1581 Bp. Pf: 108.<ujsor/>
-A felszámolóbiztos(ok):<ujsor/>
-Nagyné Ábri Katalin 1135 Budapest, Csata u. 11.<ujsor/>
-A felszámolási eljárás megindítására irányuló kérelem benyújtásának<ujsor/>
-idõpontja: 2008. január 17.<ujsor/>
-A felszámolás kezdõ idõpontja e végzés Cégközlönyben való közzétételének<ujsor/>
+A bÃ­rÃ³sÃ¡g Ã¡ltal kijelÃ¶lt felszÃ¡molÃ³:<ujsor/>
+KERSZI Kereskedelmi Ã©s PÃ©nzÃ¼gyi SzervezÃ©si TanÃ¡csadÃ³ Zrt., 1135 Budapest,<ujsor/>
+Csata u. 11. levelezÃ©si cÃ­m: 1581 Bp. Pf: 108.<ujsor/>
+A felszÃ¡molÃ³biztos(ok):<ujsor/>
+NagynÃ© Ãbri Katalin 1135 Budapest, Csata u. 11.<ujsor/>
+A felszÃ¡molÃ¡si eljÃ¡rÃ¡s megindÃ­tÃ¡sÃ¡ra irÃ¡nyulÃ³ kÃ©relem benyÃºjtÃ¡sÃ¡nak<ujsor/>
+idÅ‘pontja: 2008. januÃ¡r 17.<ujsor/>
+A felszÃ¡molÃ¡s kezdÅ‘ idÅ‘pontja e vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©nek<ujsor/>
 napja.<ujsor/>
-A Fõvárosi Bíróság Gazdasági Hivatalánál kezelt elkülönített számla száma:<ujsor/>
+A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g GazdasÃ¡gi HivatalÃ¡nÃ¡l kezelt elkÃ¼lÃ¶nÃ­tett szÃ¡mla szÃ¡ma:<ujsor/>
 10032000-01483013-24000004.<ujsor/>
-Mindazok, akik az adóssal szemben fennálló követeléseiket a felszámolás<ujsor/>
-során hitelezõként érvényesíteni kívánják, ismert követeléseiket e végzés<ujsor/>
-közzétételétõl számított 40 napon belül jelentsék be a felszámolónak.<ujsor/>
-A felszámoló - a módosított 1991. évi XLIX. tv. 57. § (1) bekezdés a) és c)<ujsor/>
-pontjában meghatározott követelések kivételével - csak azt a bejelentést<ujsor/>
-veszi nyilvántartásba, amely után az igénybejelentõ a követelés 1 %-át, de<ujsor/>
-legalább 1.000 Ft-ot, legfeljebb 100.000 Ft-ot az e végzésben megjelölt<ujsor/>
-számlára - a bírósági ügyszámra (végzés számra) hivatkozással - 40<ujsor/>
-napon belül befizetett és ezt a felszámoló részére igazolta.<ujsor/>
-Budapest, 2008. február 21.<ujsor/>
-A közzététel idõpontja: 2008. március 3.<ujsor/>
+Mindazok, akik az adÃ³ssal szemben fennÃ¡llÃ³ kÃ¶vetelÃ©seiket a felszÃ¡molÃ¡s<ujsor/>
+sorÃ¡n hitelezÅ‘kÃ©nt Ã©rvÃ©nyesÃ­teni kÃ­vÃ¡njÃ¡k, ismert kÃ¶vetelÃ©seiket e vÃ©gzÃ©s<ujsor/>
+kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott 40 napon belÃ¼l jelentsÃ©k be a felszÃ¡molÃ³nak.<ujsor/>
+A felszÃ¡molÃ³ - a mÃ³dosÃ­tott 1991. Ã©vi XLIX. tv. 57. Â§ (1) bekezdÃ©s a) Ã©s c)<ujsor/>
+pontjÃ¡ban meghatÃ¡rozott kÃ¶vetelÃ©sek kivÃ©telÃ©vel - csak azt a bejelentÃ©st<ujsor/>
+veszi nyilvÃ¡ntartÃ¡sba, amely utÃ¡n az igÃ©nybejelentÅ‘ a kÃ¶vetelÃ©s 1 %-Ã¡t, de<ujsor/>
+legalÃ¡bb 1.000 Ft-ot, legfeljebb 100.000 Ft-ot az e vÃ©gzÃ©sben megjelÃ¶lt<ujsor/>
+szÃ¡mlÃ¡ra - a bÃ­rÃ³sÃ¡gi Ã¼gyszÃ¡mra (vÃ©gzÃ©s szÃ¡mra) hivatkozÃ¡ssal - 40<ujsor/>
+napon belÃ¼l befizetett Ã©s ezt a felszÃ¡molÃ³ rÃ©szÃ©re igazolta.<ujsor/>
+Budapest, 2008. februÃ¡r 21.<ujsor/>
+A kÃ¶zzÃ©tÃ©tel idÅ‘pontja: 2008. mÃ¡rcius 3.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109699670</mezo>
-<mezo id = "nev">WIGO Ingatlanfejlesztõ és Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">WIGO IngatlanfejlesztÅ‘ Ã©s TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "adosz">12710555241</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A KERSZI Kereskedelmi és Pénzügyi Szervezési Tanácsadó Zrt. (Cg.: [01 10 041640]; székhely: 1135 Budapest, Csata u. 11.) mint a WIGO Kft. „f. a.” (Cg.: [01 09 699670]; székhely: 1037 Budapest, Seregély u. 9.) a Fõvárosi Bíróság 17. Fpk. 01-08-000438/6. sz.<ujsor/>
-végzésével kijelölt felszámolója<ujsor/>
-nyilvános pályázat<ujsor/>
-útján értékesíti az adós társaság alábbi két lakóingatlanát:<ujsor/>
-1. L11 jelû 81.58 m2 + 14.52 m2 loggia + 16.98 m2 terasz (3 és fél szoba) összkomfortos lakás.<ujsor/>
-Irányár: bruttó 25 500 000 Ft.<ujsor/>
-2. L22 jelû 82.12 m2 + 14.64 m2 terasz + 16.98 m2 terasz (3 szoba) összkomfortos lakás.<ujsor/>
-Irányár: bruttó 25 600 000 Ft.<ujsor/>
-A fenti két lakás Pécs, Király u. 66. sz. alatti épületben található.<ujsor/>
-Pályázati feltételek: pályázni csak külön-külön lehet a fent említett lakásokra, de egy pályázó akár mind a két lakásra is nyújthat be ajánlatot.<ujsor/>
-A pályázat benyújtásának határideje: 2008. június 27. 9­10 óra között.<ujsor/>
-A pályázat benyújtásának helye: KERSZI Zrt. titkársága (1135 Budapest, Csata u. 11. mfszt. 7.).<ujsor/>
-A pályázat bontásának helyszíne: KERSZI Zrt. (1135 Budapest, Csata u. 11. mfszt. 7.).<ujsor/>
-A pályázat bontásának ideje: 2008. június 27. 10 óra.<ujsor/>
-Az érvényes pályázatnak tartalmaznia kell:<ujsor/>
-­ a megvásárolni szándékozott lakás pontos megnevezését,<ujsor/>
-­ az egyértelmûen meghatározott vételárat és fizetési feltételeket,<ujsor/>
-­ az ajánlattevõ adatait (társaság esetében cégkivonat),<ujsor/>
-­ pályázói nyilatkozatot arról, hogy tudomásul veszi azt, hogy az eladó kellékszavatosságot, illetve garanciát nem vállal,<ujsor/>
-­ 60 napos ajánlati kötöttségre vonatkozó nyilatkozatot,<ujsor/>
-­ a bánatpénz megfizetésének igazolását.<ujsor/>
-Bánatpénz: az érvényes pályázat feltétele a nettó irányár 10%-ának befizetése a WIGO Kft. „f. a.” 10700024-25898105-51100005 számú számlájára „Pályázat” megjelöléssel. A bánatpénz ­ nyertes pályázó esetében ­ beszámításra, a többi pályázónak pedig visszautalásra kerül.<ujsor/>
-A pályázatokat a kiíró közjegyzõ jelenlétében bontja, amelyrõl jegyzõkönyv készül.<ujsor/>
-A pályázatok nyilvános eredményhirdetésére 2008. június 27-én 11 órakor kerül sor, amelynek helyszíne: KERSZI Zrt., 1135 Budapest, Csata u. 11. mfszt. 7.<ujsor/>
-Azonos értékû (a bruttó vételárkülönbség nem nagyobb 10%-nál) pályázatok esetén a felszámoló a pályázók között árversenyt tart, amelyre közvetlenül az eredményhirdetés után kerül sor a kiíró székhelyén (1135 Budapest, Csata u. 11. mfszt. 7.).<ujsor/>
-Az elõvásárlásra jogosultak kizárólag a nyilvános pályázat során élhetnek ezen jogukkal, amelyre vonatkozó igényüket kérjük elõzetesen írásban bejelenteni.<ujsor/>
-A vételárba hitelezõi igény beszámítására nincs lehetõség.<ujsor/>
-A kiíró fenntartja magának a jogot, hogy a pályázatot eredménytelennek nyilvánítsa.<ujsor/>
-A meghirdetett gépjármûvek megtekinthetõk (Pécs, Király u. 66.) az alábbi idõpontokban:<ujsor/>
-2008. június 16. 11­13 óra között.<ujsor/>
-2008. június 25. 11­13 óra között.<ujsor/>
-A pályázati dokumentáció telefonon [06 (1) 239-4940] egyeztetett idõpontban átvehetõ a Kerszi Zrt. székhhelyén (1135 Budapest, Csata u. 11. mfszt. 7.).<ujsor/>
-További információ kérhetõ Nagy Barnabástól, a felszámoló helyi megbízottjától a 06 (1) 964-7812-es telefonszámon.<ujsor/>
+<mezo id = "szoveg">A KERSZI Kereskedelmi Ã©s PÃ©nzÃ¼gyi SzervezÃ©si TanÃ¡csadÃ³ Zrt. (Cg.: [01 10 041640]; szÃ©khely: 1135 Budapest, Csata u. 11.) mint a WIGO Kft. â€f. a.â€ (Cg.: [01 09 699670]; szÃ©khely: 1037 Budapest, SeregÃ©ly u. 9.) a FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g 17. Fpk. 01-08-000438/6. sz.<ujsor/>
+vÃ©gzÃ©sÃ©vel kijelÃ¶lt felszÃ¡molÃ³ja<ujsor/>
+nyilvÃ¡nos pÃ¡lyÃ¡zat<ujsor/>
+ÃºtjÃ¡n Ã©rtÃ©kesÃ­ti az adÃ³s tÃ¡rsasÃ¡g alÃ¡bbi kÃ©t lakÃ³ingatlanÃ¡t:<ujsor/>
+1. L11 jelÅ± 81.58 m2 + 14.52 m2 loggia + 16.98 m2 terasz (3 Ã©s fÃ©l szoba) Ã¶sszkomfortos lakÃ¡s.<ujsor/>
+IrÃ¡nyÃ¡r: bruttÃ³ 25 500 000 Ft.<ujsor/>
+2. L22 jelÅ± 82.12 m2 + 14.64 m2 terasz + 16.98 m2 terasz (3 szoba) Ã¶sszkomfortos lakÃ¡s.<ujsor/>
+IrÃ¡nyÃ¡r: bruttÃ³ 25 600 000 Ft.<ujsor/>
+A fenti kÃ©t lakÃ¡s PÃ©cs, KirÃ¡ly u. 66. sz. alatti Ã©pÃ¼letben talÃ¡lhatÃ³.<ujsor/>
+PÃ¡lyÃ¡zati feltÃ©telek: pÃ¡lyÃ¡zni csak kÃ¼lÃ¶n-kÃ¼lÃ¶n lehet a fent emlÃ­tett lakÃ¡sokra, de egy pÃ¡lyÃ¡zÃ³ akÃ¡r mind a kÃ©t lakÃ¡sra is nyÃºjthat be ajÃ¡nlatot.<ujsor/>
+A pÃ¡lyÃ¡zat benyÃºjtÃ¡sÃ¡nak hatÃ¡rideje: 2008. jÃºnius 27. 9Â­10 Ã³ra kÃ¶zÃ¶tt.<ujsor/>
+A pÃ¡lyÃ¡zat benyÃºjtÃ¡sÃ¡nak helye: KERSZI Zrt. titkÃ¡rsÃ¡ga (1135 Budapest, Csata u. 11. mfszt. 7.).<ujsor/>
+A pÃ¡lyÃ¡zat bontÃ¡sÃ¡nak helyszÃ­ne: KERSZI Zrt. (1135 Budapest, Csata u. 11. mfszt. 7.).<ujsor/>
+A pÃ¡lyÃ¡zat bontÃ¡sÃ¡nak ideje: 2008. jÃºnius 27. 10 Ã³ra.<ujsor/>
+Az Ã©rvÃ©nyes pÃ¡lyÃ¡zatnak tartalmaznia kell:<ujsor/>
+Â­ a megvÃ¡sÃ¡rolni szÃ¡ndÃ©kozott lakÃ¡s pontos megnevezÃ©sÃ©t,<ujsor/>
+Â­ az egyÃ©rtelmÅ±en meghatÃ¡rozott vÃ©telÃ¡rat Ã©s fizetÃ©si feltÃ©teleket,<ujsor/>
+Â­ az ajÃ¡nlattevÅ‘ adatait (tÃ¡rsasÃ¡g esetÃ©ben cÃ©gkivonat),<ujsor/>
+Â­ pÃ¡lyÃ¡zÃ³i nyilatkozatot arrÃ³l, hogy tudomÃ¡sul veszi azt, hogy az eladÃ³ kellÃ©kszavatossÃ¡got, illetve garanciÃ¡t nem vÃ¡llal,<ujsor/>
+Â­ 60 napos ajÃ¡nlati kÃ¶tÃ¶ttsÃ©gre vonatkozÃ³ nyilatkozatot,<ujsor/>
+Â­ a bÃ¡natpÃ©nz megfizetÃ©sÃ©nek igazolÃ¡sÃ¡t.<ujsor/>
+BÃ¡natpÃ©nz: az Ã©rvÃ©nyes pÃ¡lyÃ¡zat feltÃ©tele a nettÃ³ irÃ¡nyÃ¡r 10%-Ã¡nak befizetÃ©se a WIGO Kft. â€f. a.â€ 10700024-25898105-51100005 szÃ¡mÃº szÃ¡mlÃ¡jÃ¡ra â€PÃ¡lyÃ¡zatâ€ megjelÃ¶lÃ©ssel. A bÃ¡natpÃ©nz Â­ nyertes pÃ¡lyÃ¡zÃ³ esetÃ©ben Â­ beszÃ¡mÃ­tÃ¡sra, a tÃ¶bbi pÃ¡lyÃ¡zÃ³nak pedig visszautalÃ¡sra kerÃ¼l.<ujsor/>
+A pÃ¡lyÃ¡zatokat a kiÃ­rÃ³ kÃ¶zjegyzÅ‘ jelenlÃ©tÃ©ben bontja, amelyrÅ‘l jegyzÅ‘kÃ¶nyv kÃ©szÃ¼l.<ujsor/>
+A pÃ¡lyÃ¡zatok nyilvÃ¡nos eredmÃ©nyhirdetÃ©sÃ©re 2008. jÃºnius 27-Ã©n 11 Ã³rakor kerÃ¼l sor, amelynek helyszÃ­ne: KERSZI Zrt., 1135 Budapest, Csata u. 11. mfszt. 7.<ujsor/>
+Azonos Ã©rtÃ©kÅ± (a bruttÃ³ vÃ©telÃ¡rkÃ¼lÃ¶nbsÃ©g nem nagyobb 10%-nÃ¡l) pÃ¡lyÃ¡zatok esetÃ©n a felszÃ¡molÃ³ a pÃ¡lyÃ¡zÃ³k kÃ¶zÃ¶tt Ã¡rversenyt tart, amelyre kÃ¶zvetlenÃ¼l az eredmÃ©nyhirdetÃ©s utÃ¡n kerÃ¼l sor a kiÃ­rÃ³ szÃ©khelyÃ©n (1135 Budapest, Csata u. 11. mfszt. 7.).<ujsor/>
+Az elÅ‘vÃ¡sÃ¡rlÃ¡sra jogosultak kizÃ¡rÃ³lag a nyilvÃ¡nos pÃ¡lyÃ¡zat sorÃ¡n Ã©lhetnek ezen jogukkal, amelyre vonatkozÃ³ igÃ©nyÃ¼ket kÃ©rjÃ¼k elÅ‘zetesen Ã­rÃ¡sban bejelenteni.<ujsor/>
+A vÃ©telÃ¡rba hitelezÅ‘i igÃ©ny beszÃ¡mÃ­tÃ¡sÃ¡ra nincs lehetÅ‘sÃ©g.<ujsor/>
+A kiÃ­rÃ³ fenntartja magÃ¡nak a jogot, hogy a pÃ¡lyÃ¡zatot eredmÃ©nytelennek nyilvÃ¡nÃ­tsa.<ujsor/>
+A meghirdetett gÃ©pjÃ¡rmÅ±vek megtekinthetÅ‘k (PÃ©cs, KirÃ¡ly u. 66.) az alÃ¡bbi idÅ‘pontokban:<ujsor/>
+2008. jÃºnius 16. 11Â­13 Ã³ra kÃ¶zÃ¶tt.<ujsor/>
+2008. jÃºnius 25. 11Â­13 Ã³ra kÃ¶zÃ¶tt.<ujsor/>
+A pÃ¡lyÃ¡zati dokumentÃ¡ciÃ³ telefonon [06 (1) 239-4940] egyeztetett idÅ‘pontban Ã¡tvehetÅ‘ a Kerszi Zrt. szÃ©khhelyÃ©n (1135 Budapest, Csata u. 11. mfszt. 7.).<ujsor/>
+TovÃ¡bbi informÃ¡ciÃ³ kÃ©rhetÅ‘ Nagy BarnabÃ¡stÃ³l, a felszÃ¡molÃ³ helyi megbÃ­zottjÃ¡tÃ³l a 06 (1) 964-7812-es telefonszÃ¡mon.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109699670</mezo>
-<mezo id = "nev">WIGO Ingatlanfejlesztõ és Tanácsadó Korlátolt Felelõsségû Társaság &quot;felszámolás alatt &quot;</mezo>
+<mezo id = "nev">WIGO IngatlanfejlesztÅ‘ Ã©s TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g &quot;felszÃ¡molÃ¡s alatt &quot;</mezo>
 <mezo id = "cim">1037 Budapest</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A KERSZI Kereskedelmi és Pénzügyi Szervezési Tanácsadó Zrt. (Cg.: [01 10 041640]; székhely: 1143 Budapest, Besnyõi u. 13. I. em.) mint a WIGO Kft. „f. a.” (Cg.: [01 09 699670]; székhely: 1037 Budapest, Seregély u. 9.) a Fõvárosi Bíróság 17. Fpk. 01-08-000438/6. sz. végzésével kijelölt felszámolója<ujsor/>
-nyilvános pályázat<ujsor/>
-útján értékesíti az adós társaság alábbi lakóingatlanait:<ujsor/>
-1. L6 (Hrsz.: 16573/9/A/33.) jelû, 56,94 m2 + 16,96 m2 terasz (2 szoba összkomfortos) lakás.<ujsor/>
-Irányár: bruttó 18 200 000 Ft.<ujsor/>
-2. L7 (Hrsz.: 16573/9/A/34.) jelû, 57,03 m2 + 16,67 m2 terasz (2 szoba összkomfortos) lakás.<ujsor/>
-Irányár: bruttó 18 200 000 Ft.<ujsor/>
-3. L16 (Hrsz.: 16573/)/A/42.) jelû, 88,23 m2 + 14,98 m2 terasz (3 és fél szoba összkomfortos) lakás.<ujsor/>
-Irányár: bruttó 25 000 000 Ft.<ujsor/>
-4. L28 (Hrsz.: 16573/9/A/54.) jelû, 89,1 m2 + 12,74 m2 terasz (3 és fél szoba összkomfortos lakás).<ujsor/>
-Irányár: bruttó 23 800 000 Ft.<ujsor/>
-5. L36 Hrsz.: 16573/9/A/62.) jelû a teljes terület 84,9 m2 (hasznos 77,92 m2 ) lakás.<ujsor/>
-Irányár: bruttó 20 400 000 Ft.<ujsor/>
-6. L48 (Hrsz.: 16573/9/A/74.) jelû, 89,14 m2 + 11,52 m2 terasz (3 és fél szoba összkomfortos lakás).<ujsor/>
-Irányár: bruttó 23 600 000 Ft,<ujsor/>
-valamint 11 db teremgarázs-beálló, egyenként (kb. 14 m2/db).<ujsor/>
-Irányár: bruttó 2 400 000 Ft/db.<ujsor/>
-A fenti lakások és teremgarázs-beállók Pécs, Király u. 66. sz. alatti épületben találhatók.<ujsor/>
-Pályázati feltételek: pályázni csak külön-külön lehet a fent említett lakásokra, illetve teremgarázs-beállókra, de egy pályázó akár minden lakásra és teremgarázs-beállóra is nyújthat be külön-külön ajánlatot.<ujsor/>
-A pályázat benyújtásának határideje: 2008. október 2. 9­10 óra között.<ujsor/>
-A pályázat benyújtásának helye: KERSZI Zrt. titkársága (1143 Budapest, Besnyõi u. 13. I. em.).<ujsor/>
-A pályázat bontásának helyszíne: KERSZI Zrt. (1143 Budapest, Besnyõi u. 13. I. em.).<ujsor/>
-A pályázat bontásának ideje: 2008. október 2. 10 óra.<ujsor/>
-Az érvényes pályázatnak tartalmaznia kell:<ujsor/>
-­ a megvásárolni szándékozott lakás vagy teremgarázs-beálló pontos megnevezését,<ujsor/>
-­ az egyértelmûen meghatározott vételárat és fizetési feltételeket,<ujsor/>
-­ az ajánlattevõ adatait (társaság esetében cégkivonat),<ujsor/>
-­ pályázói nyilatkozatot arról, hogy tudomásul veszi azt, hogy az eladó kellékszavatosságot, illetve garanciát nem vállal,<ujsor/>
-­ 60 napos ajánlati kötöttségre vonatkozó nyilatkozatot,<ujsor/>
-­ a bánatpénz megfizetésének igazolását.<ujsor/>
-Bánatpénz: az érvényes pályázat feltétele a nettó irányár 10%-ának befizetése a WIGO Kft. „f. a.” 10700024-25898105-51100005 számú számlájára „Pályázat” megjelöléssel. A bánatpénz ­ nyertes pályázó esetében ­ beszámításra, a többi pályázónak pedig visszautalásra kerül.<ujsor/>
-A pályázatokat a kiíró közjegyzõ jelenlétében bontja, amelyrõl jegyzõkönyv készül.<ujsor/>
-A pályázatok nyilvános eredményhirdetésére 2008. október 2-án 11 órakor kerül sor, amelynek helyszíne: KERSZI Zrt., 1143 Budapest, Besnyõi u. 13. I. em.).<ujsor/>
-Megfelelõ, azonos értékû (a bruttó vételárkülönbség nem nagyobb 10%-nál) pályázatok esetén a felszámoló a pályázók között nyilvános árversenyt tart, amelyre közvetlenül az eredményhirdetés után kerül sor a kiíró székhelyén (1143 Budapest, Besnyõi u. 13. I. em.).<ujsor/>
-Az elõvásárlásra jogosultak kizárólag a nyilvános pályázat során élhetnek ezen jogukkal, amelyre vonatkozó igényüket kérjük elõzetesen írásban bejelenteni.<ujsor/>
-A vételárba hitelezõi igény beszámítására nincs lehetõség.<ujsor/>
-A kiíró fenntartja magának a jogot, hogy a pályázatot megfelelõ ajánlat hiányában eredménytelennek nyilvánítsa.<ujsor/>
-A meghirdetett lakások, illetve teremgarázs-beállók megtekinthetõk (Pécs, Király u. 66.) az alábbi idõpontokban:<ujsor/>
-2008. szeptember 15. 11­13 óra között.<ujsor/>
-2008. szeptember 24. 11­13 óra között.<ujsor/>
-2008. szeptember 30. 11­13 óra között.<ujsor/>
-A pályázati dokumentáció telefonon [06 (1) 239-4940] egyeztetett idõpontban átvehetõ a KERSZI Zrt. székhhelyén (1143 Budapest, Besnyõi u. 13. I. em.).<ujsor/>
-További információ kérhetõ Nagy Barnabás felszámoló helyi megbízottjától a 06 (30) 964-7812-es telefonszámon.<ujsor/>
+<mezo id = "szoveg">A KERSZI Kereskedelmi Ã©s PÃ©nzÃ¼gyi SzervezÃ©si TanÃ¡csadÃ³ Zrt. (Cg.: [01 10 041640]; szÃ©khely: 1143 Budapest, BesnyÅ‘i u. 13. I. em.) mint a WIGO Kft. â€f. a.â€ (Cg.: [01 09 699670]; szÃ©khely: 1037 Budapest, SeregÃ©ly u. 9.) a FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g 17. Fpk. 01-08-000438/6. sz. vÃ©gzÃ©sÃ©vel kijelÃ¶lt felszÃ¡molÃ³ja<ujsor/>
+nyilvÃ¡nos pÃ¡lyÃ¡zat<ujsor/>
+ÃºtjÃ¡n Ã©rtÃ©kesÃ­ti az adÃ³s tÃ¡rsasÃ¡g alÃ¡bbi lakÃ³ingatlanait:<ujsor/>
+1. L6 (Hrsz.: 16573/9/A/33.) jelÅ±, 56,94 m2 + 16,96 m2 terasz (2 szoba Ã¶sszkomfortos) lakÃ¡s.<ujsor/>
+IrÃ¡nyÃ¡r: bruttÃ³ 18 200 000 Ft.<ujsor/>
+2. L7 (Hrsz.: 16573/9/A/34.) jelÅ±, 57,03 m2 + 16,67 m2 terasz (2 szoba Ã¶sszkomfortos) lakÃ¡s.<ujsor/>
+IrÃ¡nyÃ¡r: bruttÃ³ 18 200 000 Ft.<ujsor/>
+3. L16 (Hrsz.: 16573/)/A/42.) jelÅ±, 88,23 m2 + 14,98 m2 terasz (3 Ã©s fÃ©l szoba Ã¶sszkomfortos) lakÃ¡s.<ujsor/>
+IrÃ¡nyÃ¡r: bruttÃ³ 25 000 000 Ft.<ujsor/>
+4. L28 (Hrsz.: 16573/9/A/54.) jelÅ±, 89,1 m2 + 12,74 m2 terasz (3 Ã©s fÃ©l szoba Ã¶sszkomfortos lakÃ¡s).<ujsor/>
+IrÃ¡nyÃ¡r: bruttÃ³ 23 800 000 Ft.<ujsor/>
+5. L36 Hrsz.: 16573/9/A/62.) jelÅ± a teljes terÃ¼let 84,9 m2 (hasznos 77,92 m2 ) lakÃ¡s.<ujsor/>
+IrÃ¡nyÃ¡r: bruttÃ³ 20 400 000 Ft.<ujsor/>
+6. L48 (Hrsz.: 16573/9/A/74.) jelÅ±, 89,14 m2 + 11,52 m2 terasz (3 Ã©s fÃ©l szoba Ã¶sszkomfortos lakÃ¡s).<ujsor/>
+IrÃ¡nyÃ¡r: bruttÃ³ 23 600 000 Ft,<ujsor/>
+valamint 11 db teremgarÃ¡zs-beÃ¡llÃ³, egyenkÃ©nt (kb. 14 m2/db).<ujsor/>
+IrÃ¡nyÃ¡r: bruttÃ³ 2 400 000 Ft/db.<ujsor/>
+A fenti lakÃ¡sok Ã©s teremgarÃ¡zs-beÃ¡llÃ³k PÃ©cs, KirÃ¡ly u. 66. sz. alatti Ã©pÃ¼letben talÃ¡lhatÃ³k.<ujsor/>
+PÃ¡lyÃ¡zati feltÃ©telek: pÃ¡lyÃ¡zni csak kÃ¼lÃ¶n-kÃ¼lÃ¶n lehet a fent emlÃ­tett lakÃ¡sokra, illetve teremgarÃ¡zs-beÃ¡llÃ³kra, de egy pÃ¡lyÃ¡zÃ³ akÃ¡r minden lakÃ¡sra Ã©s teremgarÃ¡zs-beÃ¡llÃ³ra is nyÃºjthat be kÃ¼lÃ¶n-kÃ¼lÃ¶n ajÃ¡nlatot.<ujsor/>
+A pÃ¡lyÃ¡zat benyÃºjtÃ¡sÃ¡nak hatÃ¡rideje: 2008. oktÃ³ber 2. 9Â­10 Ã³ra kÃ¶zÃ¶tt.<ujsor/>
+A pÃ¡lyÃ¡zat benyÃºjtÃ¡sÃ¡nak helye: KERSZI Zrt. titkÃ¡rsÃ¡ga (1143 Budapest, BesnyÅ‘i u. 13. I. em.).<ujsor/>
+A pÃ¡lyÃ¡zat bontÃ¡sÃ¡nak helyszÃ­ne: KERSZI Zrt. (1143 Budapest, BesnyÅ‘i u. 13. I. em.).<ujsor/>
+A pÃ¡lyÃ¡zat bontÃ¡sÃ¡nak ideje: 2008. oktÃ³ber 2. 10 Ã³ra.<ujsor/>
+Az Ã©rvÃ©nyes pÃ¡lyÃ¡zatnak tartalmaznia kell:<ujsor/>
+Â­ a megvÃ¡sÃ¡rolni szÃ¡ndÃ©kozott lakÃ¡s vagy teremgarÃ¡zs-beÃ¡llÃ³ pontos megnevezÃ©sÃ©t,<ujsor/>
+Â­ az egyÃ©rtelmÅ±en meghatÃ¡rozott vÃ©telÃ¡rat Ã©s fizetÃ©si feltÃ©teleket,<ujsor/>
+Â­ az ajÃ¡nlattevÅ‘ adatait (tÃ¡rsasÃ¡g esetÃ©ben cÃ©gkivonat),<ujsor/>
+Â­ pÃ¡lyÃ¡zÃ³i nyilatkozatot arrÃ³l, hogy tudomÃ¡sul veszi azt, hogy az eladÃ³ kellÃ©kszavatossÃ¡got, illetve garanciÃ¡t nem vÃ¡llal,<ujsor/>
+Â­ 60 napos ajÃ¡nlati kÃ¶tÃ¶ttsÃ©gre vonatkozÃ³ nyilatkozatot,<ujsor/>
+Â­ a bÃ¡natpÃ©nz megfizetÃ©sÃ©nek igazolÃ¡sÃ¡t.<ujsor/>
+BÃ¡natpÃ©nz: az Ã©rvÃ©nyes pÃ¡lyÃ¡zat feltÃ©tele a nettÃ³ irÃ¡nyÃ¡r 10%-Ã¡nak befizetÃ©se a WIGO Kft. â€f. a.â€ 10700024-25898105-51100005 szÃ¡mÃº szÃ¡mlÃ¡jÃ¡ra â€PÃ¡lyÃ¡zatâ€ megjelÃ¶lÃ©ssel. A bÃ¡natpÃ©nz Â­ nyertes pÃ¡lyÃ¡zÃ³ esetÃ©ben Â­ beszÃ¡mÃ­tÃ¡sra, a tÃ¶bbi pÃ¡lyÃ¡zÃ³nak pedig visszautalÃ¡sra kerÃ¼l.<ujsor/>
+A pÃ¡lyÃ¡zatokat a kiÃ­rÃ³ kÃ¶zjegyzÅ‘ jelenlÃ©tÃ©ben bontja, amelyrÅ‘l jegyzÅ‘kÃ¶nyv kÃ©szÃ¼l.<ujsor/>
+A pÃ¡lyÃ¡zatok nyilvÃ¡nos eredmÃ©nyhirdetÃ©sÃ©re 2008. oktÃ³ber 2-Ã¡n 11 Ã³rakor kerÃ¼l sor, amelynek helyszÃ­ne: KERSZI Zrt., 1143 Budapest, BesnyÅ‘i u. 13. I. em.).<ujsor/>
+MegfelelÅ‘, azonos Ã©rtÃ©kÅ± (a bruttÃ³ vÃ©telÃ¡rkÃ¼lÃ¶nbsÃ©g nem nagyobb 10%-nÃ¡l) pÃ¡lyÃ¡zatok esetÃ©n a felszÃ¡molÃ³ a pÃ¡lyÃ¡zÃ³k kÃ¶zÃ¶tt nyilvÃ¡nos Ã¡rversenyt tart, amelyre kÃ¶zvetlenÃ¼l az eredmÃ©nyhirdetÃ©s utÃ¡n kerÃ¼l sor a kiÃ­rÃ³ szÃ©khelyÃ©n (1143 Budapest, BesnyÅ‘i u. 13. I. em.).<ujsor/>
+Az elÅ‘vÃ¡sÃ¡rlÃ¡sra jogosultak kizÃ¡rÃ³lag a nyilvÃ¡nos pÃ¡lyÃ¡zat sorÃ¡n Ã©lhetnek ezen jogukkal, amelyre vonatkozÃ³ igÃ©nyÃ¼ket kÃ©rjÃ¼k elÅ‘zetesen Ã­rÃ¡sban bejelenteni.<ujsor/>
+A vÃ©telÃ¡rba hitelezÅ‘i igÃ©ny beszÃ¡mÃ­tÃ¡sÃ¡ra nincs lehetÅ‘sÃ©g.<ujsor/>
+A kiÃ­rÃ³ fenntartja magÃ¡nak a jogot, hogy a pÃ¡lyÃ¡zatot megfelelÅ‘ ajÃ¡nlat hiÃ¡nyÃ¡ban eredmÃ©nytelennek nyilvÃ¡nÃ­tsa.<ujsor/>
+A meghirdetett lakÃ¡sok, illetve teremgarÃ¡zs-beÃ¡llÃ³k megtekinthetÅ‘k (PÃ©cs, KirÃ¡ly u. 66.) az alÃ¡bbi idÅ‘pontokban:<ujsor/>
+2008. szeptember 15. 11Â­13 Ã³ra kÃ¶zÃ¶tt.<ujsor/>
+2008. szeptember 24. 11Â­13 Ã³ra kÃ¶zÃ¶tt.<ujsor/>
+2008. szeptember 30. 11Â­13 Ã³ra kÃ¶zÃ¶tt.<ujsor/>
+A pÃ¡lyÃ¡zati dokumentÃ¡ciÃ³ telefonon [06 (1) 239-4940] egyeztetett idÅ‘pontban Ã¡tvehetÅ‘ a KERSZI Zrt. szÃ©khhelyÃ©n (1143 Budapest, BesnyÅ‘i u. 13. I. em.).<ujsor/>
+TovÃ¡bbi informÃ¡ciÃ³ kÃ©rhetÅ‘ Nagy BarnabÃ¡s felszÃ¡molÃ³ helyi megbÃ­zottjÃ¡tÃ³l a 06 (30) 964-7812-es telefonszÃ¡mon.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109699670</mezo>
-<mezo id = "nev">WIGO Ingatlanfejlesztõ és Tanácsadó Korlátolt Felelõsségû Társaság &quot;felszámolás alatt &quot;</mezo>
+<mezo id = "nev">WIGO IngatlanfejlesztÅ‘ Ã©s TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g &quot;felszÃ¡molÃ¡s alatt &quot;</mezo>
 <mezo id = "cim">1037 Budapest</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A KERSZI Kereskedelmi és Pénzügyi Szervezési Tanácsadó Zrt. (Cg.: [01 10 041640]; székhely: 1143 Budapest, Besnyõi u. 13. I. em.), mint a WIGO Kft. „f. a.” (Cg.: [01 09 699670]; székhely: 1037 Budapest, Seregély u. 9.) a Fõvárosi Bíróság 17. Fpk. 01-08-000438/6. sz. végzésével kijelölt felszámolója<ujsor/>
-nyilvános pályázat<ujsor/>
-útján értékesíti adós társaság alábbi lakói, illetve iroda ingatlanait:<ujsor/>
-1) L6 (Hrsz. 16573/9/A/33.) jelû 56,94 m2 + 16,96 m2 terasz (2 szoba összkomfortos) lakás<ujsor/>
-Irányár: bruttó 18 200 000 Ft.<ujsor/>
-2) L7 (Hrsz. 16573/9/A/34.) jelû 57,03 m2 + 16,67 m2 terasz (2 szoba összkomfortos) lakás<ujsor/>
-Irányár: bruttó 18 200 000 Ft.<ujsor/>
-3) L28 (Hrsz. 16573/9/A/54.) jelû 89,1 m2 + 12,74 m2 terasz (3 és fél szoba összkomfortos) lakás<ujsor/>
-Irányár: bruttó 23 800 000 Ft.<ujsor/>
-4) L48 (Hrsz. 16573/9/A/74.) jelû 89,14 m2 + 11,52 m2 terasz (3 és fél szoba összkomfortos) lakás<ujsor/>
-Irányár: bruttó 23 600 000 Ft.<ujsor/>
-5) I104 (Hrsz. 16573/9/A/16.) jelû 75,41 m2 iroda<ujsor/>
-Irányár: bruttó 20 600 000 Ft.<ujsor/>
-6) I105 (Hrsz. 16573/9/A/17.) jelû 79,36 m2 iroda<ujsor/>
-Irányár: bruttó 20 600 000 Ft.<ujsor/>
-7) I106/2. (Hrsz. 16573/9/A/20.) jelû 200,42 m2 iroda<ujsor/>
-Irányár: bruttó 54 800 000 Ft.<ujsor/>
-8) I108. (Hrsz. 16573/9/A/21.) jelû 38,32 m2 iroda<ujsor/>
-Irányár: bruttó 10 320 000 Ft,<ujsor/>
-továbbá<ujsor/>
-10 db teremgarázs beálló, egyenként (kb. 14 m2/db)<ujsor/>
-Irányár: bruttó 2 000 000 Ft/db.<ujsor/>
-A fenti lakások, irodák és teremgarázs beállók Pécs, Király u. 66. sz. alatti épületben találhatók.<ujsor/>
-9) AUDI A6 2.5TDI Quattro (2001. 02. hó)<ujsor/>
-Irányár: bruttó 2 655 000 Ft.<ujsor/>
-10) Ford Focus 1.6 Fresh (2004. 04. hó)<ujsor/>
-Irányár: bruttó 1 575 000 Ft.<ujsor/>
-A fenti személygépkocsik Budapest III. kerületében tekinthetõk meg.<ujsor/>
-Pályázati feltételek: pályázni csak külön-külön lehet a fent említett lakásokra, irodákra, teremgarázs beállókra, illetve személygépkocsikra, de egy pályázó akár minden lakásra, irodára, teremgarázs beállóra és személygépkocsira is nyújthat be külön-külön ajánlatot.<ujsor/>
-A pályázat benyújtásának határideje: 2009. február 18. 9­10 óra között.<ujsor/>
-A pályázat benyújtásának helye: KERSZI Zrt. titkársága (1143 Budapest, Besnyõi u. 13. I. em.).<ujsor/>
-A pályázat bontásának helye és ideje: KERSZI Zrt. titkársága, 2009. február 18. 10 óra.<ujsor/>
-Az érvényes pályázatnak tartalmaznia kell:<ujsor/>
-­ egyértelmûen meghatározott vételárat és fizetési feltételeket,<ujsor/>
-­ az ajánlattevõ adatait (társaság esetében cégkivonat),<ujsor/>
-­ pályázói nyilatkozat arról, hogy tudomásul veszi azt, hogy az eladó kellékszavatosságot, illetve garanciát nem vállal,<ujsor/>
-­ 60 napos ajánlati kötöttségre vonatkozó nyilatkozatot,<ujsor/>
-­ a bánatpénz megfizetésének igazolását.<ujsor/>
-Bánatpénz: az érvényes pályázat feltétele a bruttó irányár 10%-ának befizetése a WIGO Kft. „f. a.” 10700024-25898105-51100005 számú számlájára „Pályázat” megjelöléssel. A bánatpénz ­ nyertes pályázó esetében ­ beszámításra, a többi pályázónak pedig visszautalásra kerül.<ujsor/>
-A pályázatokat a kiíró közjegyzõ jelenlétében bontja, amelyrõl jegyzõkönyv készül.<ujsor/>
-A pályázatok nyilvános eredményhirdetésére 2009. február 18-án 11 órakor kerül sor, amelynek helyszíne: KERSZI Zrt. (1143 Budapest, Besnyõi u. 13. I. em.).<ujsor/>
-Megfelelõ, azonos értékû (a bruttó vételárkülönbség nem nagyobb 10%-nál) pályázatok esetén a felszámoló a pályázók között árversenyt tart, amelyre közvetlenül az eredményhirdetés után kerül sor a kiíró székhelyén. (1143 Budapest, Besnyõi u. 13. I. em.).<ujsor/>
-Az elõvásárlásra jogosultak kizárólag a nyilvános pályázat során élhetnek ezen jogukkal, amelyre vonatkozó igényüket kérjük elõzetesen írásban bejelenteni.<ujsor/>
-A vételárba hitelezõi igény beszámítására nincs lehetõség.<ujsor/>
-A kiíró fenntartja magának a jogot, hogy a pályázatot megfelelõ ajánlat hiányában eredménytelennek nyilvánítsa.<ujsor/>
-A meghirdetett ingatlanok és személygépkocsik a felszámolóval történõ elõzetes idõpont-egyeztetés alapján tekinthetõk meg.<ujsor/>
-A pályázati dokumentáció telefonon [06 (1) 239-4940] egyeztetett idõpontban átvehetõ a KERSZI Zrt. székhelyén (1143 Budapest, Besnyõi u. 13. I. em.).<ujsor/>
-További információ kérhetõ Nagy Barnabás felszámoló helyi megbízottjától a 06 (30) 964-7812-es telefonszámon.<ujsor/>
+<mezo id = "szoveg">A KERSZI Kereskedelmi Ã©s PÃ©nzÃ¼gyi SzervezÃ©si TanÃ¡csadÃ³ Zrt. (Cg.: [01 10 041640]; szÃ©khely: 1143 Budapest, BesnyÅ‘i u. 13. I. em.), mint a WIGO Kft. â€f. a.â€ (Cg.: [01 09 699670]; szÃ©khely: 1037 Budapest, SeregÃ©ly u. 9.) a FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g 17. Fpk. 01-08-000438/6. sz. vÃ©gzÃ©sÃ©vel kijelÃ¶lt felszÃ¡molÃ³ja<ujsor/>
+nyilvÃ¡nos pÃ¡lyÃ¡zat<ujsor/>
+ÃºtjÃ¡n Ã©rtÃ©kesÃ­ti adÃ³s tÃ¡rsasÃ¡g alÃ¡bbi lakÃ³i, illetve iroda ingatlanait:<ujsor/>
+1) L6 (Hrsz. 16573/9/A/33.) jelÅ± 56,94 m2 + 16,96 m2 terasz (2 szoba Ã¶sszkomfortos) lakÃ¡s<ujsor/>
+IrÃ¡nyÃ¡r: bruttÃ³ 18 200 000 Ft.<ujsor/>
+2) L7 (Hrsz. 16573/9/A/34.) jelÅ± 57,03 m2 + 16,67 m2 terasz (2 szoba Ã¶sszkomfortos) lakÃ¡s<ujsor/>
+IrÃ¡nyÃ¡r: bruttÃ³ 18 200 000 Ft.<ujsor/>
+3) L28 (Hrsz. 16573/9/A/54.) jelÅ± 89,1 m2 + 12,74 m2 terasz (3 Ã©s fÃ©l szoba Ã¶sszkomfortos) lakÃ¡s<ujsor/>
+IrÃ¡nyÃ¡r: bruttÃ³ 23 800 000 Ft.<ujsor/>
+4) L48 (Hrsz. 16573/9/A/74.) jelÅ± 89,14 m2 + 11,52 m2 terasz (3 Ã©s fÃ©l szoba Ã¶sszkomfortos) lakÃ¡s<ujsor/>
+IrÃ¡nyÃ¡r: bruttÃ³ 23 600 000 Ft.<ujsor/>
+5) I104 (Hrsz. 16573/9/A/16.) jelÅ± 75,41 m2 iroda<ujsor/>
+IrÃ¡nyÃ¡r: bruttÃ³ 20 600 000 Ft.<ujsor/>
+6) I105 (Hrsz. 16573/9/A/17.) jelÅ± 79,36 m2 iroda<ujsor/>
+IrÃ¡nyÃ¡r: bruttÃ³ 20 600 000 Ft.<ujsor/>
+7) I106/2. (Hrsz. 16573/9/A/20.) jelÅ± 200,42 m2 iroda<ujsor/>
+IrÃ¡nyÃ¡r: bruttÃ³ 54 800 000 Ft.<ujsor/>
+8) I108. (Hrsz. 16573/9/A/21.) jelÅ± 38,32 m2 iroda<ujsor/>
+IrÃ¡nyÃ¡r: bruttÃ³ 10 320 000 Ft,<ujsor/>
+tovÃ¡bbÃ¡<ujsor/>
+10 db teremgarÃ¡zs beÃ¡llÃ³, egyenkÃ©nt (kb. 14 m2/db)<ujsor/>
+IrÃ¡nyÃ¡r: bruttÃ³ 2 000 000 Ft/db.<ujsor/>
+A fenti lakÃ¡sok, irodÃ¡k Ã©s teremgarÃ¡zs beÃ¡llÃ³k PÃ©cs, KirÃ¡ly u. 66. sz. alatti Ã©pÃ¼letben talÃ¡lhatÃ³k.<ujsor/>
+9) AUDI A6 2.5TDI Quattro (2001. 02. hÃ³)<ujsor/>
+IrÃ¡nyÃ¡r: bruttÃ³ 2 655 000 Ft.<ujsor/>
+10) Ford Focus 1.6 Fresh (2004. 04. hÃ³)<ujsor/>
+IrÃ¡nyÃ¡r: bruttÃ³ 1 575 000 Ft.<ujsor/>
+A fenti szemÃ©lygÃ©pkocsik Budapest III. kerÃ¼letÃ©ben tekinthetÅ‘k meg.<ujsor/>
+PÃ¡lyÃ¡zati feltÃ©telek: pÃ¡lyÃ¡zni csak kÃ¼lÃ¶n-kÃ¼lÃ¶n lehet a fent emlÃ­tett lakÃ¡sokra, irodÃ¡kra, teremgarÃ¡zs beÃ¡llÃ³kra, illetve szemÃ©lygÃ©pkocsikra, de egy pÃ¡lyÃ¡zÃ³ akÃ¡r minden lakÃ¡sra, irodÃ¡ra, teremgarÃ¡zs beÃ¡llÃ³ra Ã©s szemÃ©lygÃ©pkocsira is nyÃºjthat be kÃ¼lÃ¶n-kÃ¼lÃ¶n ajÃ¡nlatot.<ujsor/>
+A pÃ¡lyÃ¡zat benyÃºjtÃ¡sÃ¡nak hatÃ¡rideje: 2009. februÃ¡r 18. 9Â­10 Ã³ra kÃ¶zÃ¶tt.<ujsor/>
+A pÃ¡lyÃ¡zat benyÃºjtÃ¡sÃ¡nak helye: KERSZI Zrt. titkÃ¡rsÃ¡ga (1143 Budapest, BesnyÅ‘i u. 13. I. em.).<ujsor/>
+A pÃ¡lyÃ¡zat bontÃ¡sÃ¡nak helye Ã©s ideje: KERSZI Zrt. titkÃ¡rsÃ¡ga, 2009. februÃ¡r 18. 10 Ã³ra.<ujsor/>
+Az Ã©rvÃ©nyes pÃ¡lyÃ¡zatnak tartalmaznia kell:<ujsor/>
+Â­ egyÃ©rtelmÅ±en meghatÃ¡rozott vÃ©telÃ¡rat Ã©s fizetÃ©si feltÃ©teleket,<ujsor/>
+Â­ az ajÃ¡nlattevÅ‘ adatait (tÃ¡rsasÃ¡g esetÃ©ben cÃ©gkivonat),<ujsor/>
+Â­ pÃ¡lyÃ¡zÃ³i nyilatkozat arrÃ³l, hogy tudomÃ¡sul veszi azt, hogy az eladÃ³ kellÃ©kszavatossÃ¡got, illetve garanciÃ¡t nem vÃ¡llal,<ujsor/>
+Â­ 60 napos ajÃ¡nlati kÃ¶tÃ¶ttsÃ©gre vonatkozÃ³ nyilatkozatot,<ujsor/>
+Â­ a bÃ¡natpÃ©nz megfizetÃ©sÃ©nek igazolÃ¡sÃ¡t.<ujsor/>
+BÃ¡natpÃ©nz: az Ã©rvÃ©nyes pÃ¡lyÃ¡zat feltÃ©tele a bruttÃ³ irÃ¡nyÃ¡r 10%-Ã¡nak befizetÃ©se a WIGO Kft. â€f. a.â€ 10700024-25898105-51100005 szÃ¡mÃº szÃ¡mlÃ¡jÃ¡ra â€PÃ¡lyÃ¡zatâ€ megjelÃ¶lÃ©ssel. A bÃ¡natpÃ©nz Â­ nyertes pÃ¡lyÃ¡zÃ³ esetÃ©ben Â­ beszÃ¡mÃ­tÃ¡sra, a tÃ¶bbi pÃ¡lyÃ¡zÃ³nak pedig visszautalÃ¡sra kerÃ¼l.<ujsor/>
+A pÃ¡lyÃ¡zatokat a kiÃ­rÃ³ kÃ¶zjegyzÅ‘ jelenlÃ©tÃ©ben bontja, amelyrÅ‘l jegyzÅ‘kÃ¶nyv kÃ©szÃ¼l.<ujsor/>
+A pÃ¡lyÃ¡zatok nyilvÃ¡nos eredmÃ©nyhirdetÃ©sÃ©re 2009. februÃ¡r 18-Ã¡n 11 Ã³rakor kerÃ¼l sor, amelynek helyszÃ­ne: KERSZI Zrt. (1143 Budapest, BesnyÅ‘i u. 13. I. em.).<ujsor/>
+MegfelelÅ‘, azonos Ã©rtÃ©kÅ± (a bruttÃ³ vÃ©telÃ¡rkÃ¼lÃ¶nbsÃ©g nem nagyobb 10%-nÃ¡l) pÃ¡lyÃ¡zatok esetÃ©n a felszÃ¡molÃ³ a pÃ¡lyÃ¡zÃ³k kÃ¶zÃ¶tt Ã¡rversenyt tart, amelyre kÃ¶zvetlenÃ¼l az eredmÃ©nyhirdetÃ©s utÃ¡n kerÃ¼l sor a kiÃ­rÃ³ szÃ©khelyÃ©n. (1143 Budapest, BesnyÅ‘i u. 13. I. em.).<ujsor/>
+Az elÅ‘vÃ¡sÃ¡rlÃ¡sra jogosultak kizÃ¡rÃ³lag a nyilvÃ¡nos pÃ¡lyÃ¡zat sorÃ¡n Ã©lhetnek ezen jogukkal, amelyre vonatkozÃ³ igÃ©nyÃ¼ket kÃ©rjÃ¼k elÅ‘zetesen Ã­rÃ¡sban bejelenteni.<ujsor/>
+A vÃ©telÃ¡rba hitelezÅ‘i igÃ©ny beszÃ¡mÃ­tÃ¡sÃ¡ra nincs lehetÅ‘sÃ©g.<ujsor/>
+A kiÃ­rÃ³ fenntartja magÃ¡nak a jogot, hogy a pÃ¡lyÃ¡zatot megfelelÅ‘ ajÃ¡nlat hiÃ¡nyÃ¡ban eredmÃ©nytelennek nyilvÃ¡nÃ­tsa.<ujsor/>
+A meghirdetett ingatlanok Ã©s szemÃ©lygÃ©pkocsik a felszÃ¡molÃ³val tÃ¶rtÃ©nÅ‘ elÅ‘zetes idÅ‘pont-egyeztetÃ©s alapjÃ¡n tekinthetÅ‘k meg.<ujsor/>
+A pÃ¡lyÃ¡zati dokumentÃ¡ciÃ³ telefonon [06 (1) 239-4940] egyeztetett idÅ‘pontban Ã¡tvehetÅ‘ a KERSZI Zrt. szÃ©khelyÃ©n (1143 Budapest, BesnyÅ‘i u. 13. I. em.).<ujsor/>
+TovÃ¡bbi informÃ¡ciÃ³ kÃ©rhetÅ‘ Nagy BarnabÃ¡s felszÃ¡molÃ³ helyi megbÃ­zottjÃ¡tÃ³l a 06 (30) 964-7812-es telefonszÃ¡mon.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109699670</mezo>
-<mezo id = "nev">WIGO Ingatlanfejlesztõ és Tanácsadó Korlátolt Felelõsségû Társaság &quot;felszámolás alatt &quot;</mezo>
+<mezo id = "nev">WIGO IngatlanfejlesztÅ‘ Ã©s TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g &quot;felszÃ¡molÃ¡s alatt &quot;</mezo>
 <mezo id = "cim">1037 Budapest</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A KERSZI Kereskedelmi és Pénzügyi Szervezési Tanácsadó Zrt. (Cg.: [01 10 041640]; székhely: 1143 Budapest, Besnyõi u. 13. I. em.), mint a WIGO Kft. „f. a.” (Cg.: [01 09 699670]; székhely: 1037 Budapest, Seregély u. 9.) a Fõvárosi Bíróság 17. Fpk. 01-08-000438/6. sz. végzésével kijelölt felszámolója<ujsor/>
-nyilvános pályázat<ujsor/>
-útján értékesíti adós társaság tulajdonában lévõ<ujsor/>
-10 db teremgarázs-beálló, egyenként (kb. 14 m2/db)<ujsor/>
-Irányár: bruttó 1 400 000 Ft/db.<ujsor/>
-A fenti teremgarázs-beállók Pécs, Király u. 66. sz. alatti épületben találhatók.<ujsor/>
-Pályázati feltételek: pályázni teremgarázs beállókra külön-külön is lehet, de elõnyt élvez az a pályázó, aki az összesre nyújt be ajánlatot.<ujsor/>
-A pályázat benyújtásának határideje: 2009. május 4. 9­10 óra között.<ujsor/>
-A pályázat benyújtásának helye: KERSZI Zrt. titkársága (1143 Budapest, Besnyõi u. 13. I. em.).<ujsor/>
-A pályázat bontásának helye és ideje: KERSZI Zrt. titkársága, 2009. május 4. 10 óra.<ujsor/>
-Az érvényes pályázatnak tartalmaznia kell:<ujsor/>
-­ egyértelmûen meghatározott vételárat és fizetési feltételeket,<ujsor/>
-­ az ajánlattevõ adatait (társaság esetében cégkivonat),<ujsor/>
-­ pályázói nyilatkozat arról, hogy tudomásul veszi azt, hogy az eladó kellékszavatosságot, illetve garanciát nem vállal,<ujsor/>
-­ 60 napos ajánlati kötöttségre vonatkozó nyilatkozatot,<ujsor/>
-­ a bánatpénz megfizetésének igazolását,<ujsor/>
-­ nyilatkozatot, hogy a garázsokat terhelõ közös költséget (55 000 Ft/db) a pályázó garázsbeálló tulajdonjogának megszerzését követõen a társasháznak megfizet.<ujsor/>
-Bánatpénz: az érvényes pályázat feltétele a bruttó irányár 10%-ának befizetése a WIGO Kft. „f. a.” 10700024-25898105-51100005 számú számlájára „Pályázat” megjelöléssel. A bánatpénz ­ nyertes pályázó esetében ­ beszámításra, a többi pályázónak pedig visszautalásra kerül.<ujsor/>
-A pályázatokat a kiíró közjegyzõ jelenlétében bontja, amelyrõl jegyzõkönyv készül.<ujsor/>
-A pályázatok nyilvános eredményhirdetésére 2009. május 4-én 11 órakor kerül sor, amelynek helyszíne: KERSZI Zrt. (1143 Budapest, Besnyõi u. 13. I. em.).<ujsor/>
-Több megfelelõ, azonos értékû ajánlat esetén (a bruttó vételárkülönbség nem nagyobb 10%-nál) pályázatok esetén a felszámoló a pályázók között nyilvános árversenyt tart, amelyre közvetlenül az eredményhirdetés után kerül sor a kiíró székhelyén (1143 Budapest, Besnyõi u. 13. I. em.).<ujsor/>
-Az elõvásárlásra jogosultak kizárólag a nyilvános pályázat során élhetnek ezen jogukkal, amelyre vonatkozó igényüket kérjük elõzetesen írásban bejelenteni.<ujsor/>
-A vételárba hitelezõi igény beszámítására nincs lehetõség.<ujsor/>
-A kiíró fenntartja magának a jogot, hogy a pályázatot megfelelõ ajánlat hiányában eredménytelennek nyilvánítsa.<ujsor/>
-A meghirdetett gépkocsi-beállók a felszámolóval történõ elõzetes idõpont-egyeztetés alapján tekinthetõk meg.<ujsor/>
-A pályázati dokumentáció telefonon [06 (1) 239-4940] egyeztetett idõpontban átvehetõ a KERSZI Zrt. székhelyén (1143 Budapest, Besnyõi u. 13. I. em.).<ujsor/>
-További információ kérhetõ Nagy Barnabástól, a felszámoló helyi megbízottjától a 06 (30) 964-7812-es telefonszámon.<ujsor/>
+<mezo id = "szoveg">A KERSZI Kereskedelmi Ã©s PÃ©nzÃ¼gyi SzervezÃ©si TanÃ¡csadÃ³ Zrt. (Cg.: [01 10 041640]; szÃ©khely: 1143 Budapest, BesnyÅ‘i u. 13. I. em.), mint a WIGO Kft. â€f. a.â€ (Cg.: [01 09 699670]; szÃ©khely: 1037 Budapest, SeregÃ©ly u. 9.) a FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g 17. Fpk. 01-08-000438/6. sz. vÃ©gzÃ©sÃ©vel kijelÃ¶lt felszÃ¡molÃ³ja<ujsor/>
+nyilvÃ¡nos pÃ¡lyÃ¡zat<ujsor/>
+ÃºtjÃ¡n Ã©rtÃ©kesÃ­ti adÃ³s tÃ¡rsasÃ¡g tulajdonÃ¡ban lÃ©vÅ‘<ujsor/>
+10 db teremgarÃ¡zs-beÃ¡llÃ³, egyenkÃ©nt (kb. 14 m2/db)<ujsor/>
+IrÃ¡nyÃ¡r: bruttÃ³ 1 400 000 Ft/db.<ujsor/>
+A fenti teremgarÃ¡zs-beÃ¡llÃ³k PÃ©cs, KirÃ¡ly u. 66. sz. alatti Ã©pÃ¼letben talÃ¡lhatÃ³k.<ujsor/>
+PÃ¡lyÃ¡zati feltÃ©telek: pÃ¡lyÃ¡zni teremgarÃ¡zs beÃ¡llÃ³kra kÃ¼lÃ¶n-kÃ¼lÃ¶n is lehet, de elÅ‘nyt Ã©lvez az a pÃ¡lyÃ¡zÃ³, aki az Ã¶sszesre nyÃºjt be ajÃ¡nlatot.<ujsor/>
+A pÃ¡lyÃ¡zat benyÃºjtÃ¡sÃ¡nak hatÃ¡rideje: 2009. mÃ¡jus 4. 9Â­10 Ã³ra kÃ¶zÃ¶tt.<ujsor/>
+A pÃ¡lyÃ¡zat benyÃºjtÃ¡sÃ¡nak helye: KERSZI Zrt. titkÃ¡rsÃ¡ga (1143 Budapest, BesnyÅ‘i u. 13. I. em.).<ujsor/>
+A pÃ¡lyÃ¡zat bontÃ¡sÃ¡nak helye Ã©s ideje: KERSZI Zrt. titkÃ¡rsÃ¡ga, 2009. mÃ¡jus 4. 10 Ã³ra.<ujsor/>
+Az Ã©rvÃ©nyes pÃ¡lyÃ¡zatnak tartalmaznia kell:<ujsor/>
+Â­ egyÃ©rtelmÅ±en meghatÃ¡rozott vÃ©telÃ¡rat Ã©s fizetÃ©si feltÃ©teleket,<ujsor/>
+Â­ az ajÃ¡nlattevÅ‘ adatait (tÃ¡rsasÃ¡g esetÃ©ben cÃ©gkivonat),<ujsor/>
+Â­ pÃ¡lyÃ¡zÃ³i nyilatkozat arrÃ³l, hogy tudomÃ¡sul veszi azt, hogy az eladÃ³ kellÃ©kszavatossÃ¡got, illetve garanciÃ¡t nem vÃ¡llal,<ujsor/>
+Â­ 60 napos ajÃ¡nlati kÃ¶tÃ¶ttsÃ©gre vonatkozÃ³ nyilatkozatot,<ujsor/>
+Â­ a bÃ¡natpÃ©nz megfizetÃ©sÃ©nek igazolÃ¡sÃ¡t,<ujsor/>
+Â­ nyilatkozatot, hogy a garÃ¡zsokat terhelÅ‘ kÃ¶zÃ¶s kÃ¶ltsÃ©get (55 000 Ft/db) a pÃ¡lyÃ¡zÃ³ garÃ¡zsbeÃ¡llÃ³ tulajdonjogÃ¡nak megszerzÃ©sÃ©t kÃ¶vetÅ‘en a tÃ¡rsashÃ¡znak megfizet.<ujsor/>
+BÃ¡natpÃ©nz: az Ã©rvÃ©nyes pÃ¡lyÃ¡zat feltÃ©tele a bruttÃ³ irÃ¡nyÃ¡r 10%-Ã¡nak befizetÃ©se a WIGO Kft. â€f. a.â€ 10700024-25898105-51100005 szÃ¡mÃº szÃ¡mlÃ¡jÃ¡ra â€PÃ¡lyÃ¡zatâ€ megjelÃ¶lÃ©ssel. A bÃ¡natpÃ©nz Â­ nyertes pÃ¡lyÃ¡zÃ³ esetÃ©ben Â­ beszÃ¡mÃ­tÃ¡sra, a tÃ¶bbi pÃ¡lyÃ¡zÃ³nak pedig visszautalÃ¡sra kerÃ¼l.<ujsor/>
+A pÃ¡lyÃ¡zatokat a kiÃ­rÃ³ kÃ¶zjegyzÅ‘ jelenlÃ©tÃ©ben bontja, amelyrÅ‘l jegyzÅ‘kÃ¶nyv kÃ©szÃ¼l.<ujsor/>
+A pÃ¡lyÃ¡zatok nyilvÃ¡nos eredmÃ©nyhirdetÃ©sÃ©re 2009. mÃ¡jus 4-Ã©n 11 Ã³rakor kerÃ¼l sor, amelynek helyszÃ­ne: KERSZI Zrt. (1143 Budapest, BesnyÅ‘i u. 13. I. em.).<ujsor/>
+TÃ¶bb megfelelÅ‘, azonos Ã©rtÃ©kÅ± ajÃ¡nlat esetÃ©n (a bruttÃ³ vÃ©telÃ¡rkÃ¼lÃ¶nbsÃ©g nem nagyobb 10%-nÃ¡l) pÃ¡lyÃ¡zatok esetÃ©n a felszÃ¡molÃ³ a pÃ¡lyÃ¡zÃ³k kÃ¶zÃ¶tt nyilvÃ¡nos Ã¡rversenyt tart, amelyre kÃ¶zvetlenÃ¼l az eredmÃ©nyhirdetÃ©s utÃ¡n kerÃ¼l sor a kiÃ­rÃ³ szÃ©khelyÃ©n (1143 Budapest, BesnyÅ‘i u. 13. I. em.).<ujsor/>
+Az elÅ‘vÃ¡sÃ¡rlÃ¡sra jogosultak kizÃ¡rÃ³lag a nyilvÃ¡nos pÃ¡lyÃ¡zat sorÃ¡n Ã©lhetnek ezen jogukkal, amelyre vonatkozÃ³ igÃ©nyÃ¼ket kÃ©rjÃ¼k elÅ‘zetesen Ã­rÃ¡sban bejelenteni.<ujsor/>
+A vÃ©telÃ¡rba hitelezÅ‘i igÃ©ny beszÃ¡mÃ­tÃ¡sÃ¡ra nincs lehetÅ‘sÃ©g.<ujsor/>
+A kiÃ­rÃ³ fenntartja magÃ¡nak a jogot, hogy a pÃ¡lyÃ¡zatot megfelelÅ‘ ajÃ¡nlat hiÃ¡nyÃ¡ban eredmÃ©nytelennek nyilvÃ¡nÃ­tsa.<ujsor/>
+A meghirdetett gÃ©pkocsi-beÃ¡llÃ³k a felszÃ¡molÃ³val tÃ¶rtÃ©nÅ‘ elÅ‘zetes idÅ‘pont-egyeztetÃ©s alapjÃ¡n tekinthetÅ‘k meg.<ujsor/>
+A pÃ¡lyÃ¡zati dokumentÃ¡ciÃ³ telefonon [06 (1) 239-4940] egyeztetett idÅ‘pontban Ã¡tvehetÅ‘ a KERSZI Zrt. szÃ©khelyÃ©n (1143 Budapest, BesnyÅ‘i u. 13. I. em.).<ujsor/>
+TovÃ¡bbi informÃ¡ciÃ³ kÃ©rhetÅ‘ Nagy BarnabÃ¡stÃ³l, a felszÃ¡molÃ³ helyi megbÃ­zottjÃ¡tÃ³l a 06 (30) 964-7812-es telefonszÃ¡mon.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109699670</mezo>
-<mezo id = "nev">WIGO Ingatlanfejlesztõ és Tanácsadó Korlátolt Felelõsségû Társaság &quot;felszámolás alatt &quot;</mezo>
+<mezo id = "nev">WIGO IngatlanfejlesztÅ‘ Ã©s TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g &quot;felszÃ¡molÃ¡s alatt &quot;</mezo>
 <mezo id = "cim">1037 Budapest</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A KERSZI Kereskedelmi és Pénzügyi Szervezési Tanácsadó Zrt. (Cg.: [01 10 041640]; székhely: 1143 Budapest, Besnyõi u. 13. I. em.) mint a WIGO Kft. „f. a.” (Cg.: [01 09 699670]; székhely: 1037 Budapest, Seregély u. 9.) a Fõvárosi Bíróság 17. Fpk. 01-08-000438/6. sz. végzésével kijelölt felszámolója<ujsor/>
-nyilvános pályázat<ujsor/>
-útján értékesíti az adós társaság alábbi lakó-, illetve iroda ingatlanait:<ujsor/>
-1. L6 (Hrsz.: 16573/9/A/33.) jelû, 56,94 m2 + 16,96 m2 terasz (2 szoba összkomfortos) lakás.<ujsor/>
-Irányár: 16 700 000 Ft.<ujsor/>
-2. L7 (Hrsz.: 16573/9/A/34.) jelû, 57,03 m2 + 16,67 m2 terasz (2 szoba összkomfortos) lakás.<ujsor/>
-Irányár: 16 700 000 Ft.<ujsor/>
-3. L28 (Hrsz.: 16573/9/A/54.) jelû, 89,1 m2 + 12,74 m2 terasz (3 és fél szoba összkomfortos lakás).<ujsor/>
-Irányár: 21 800 000 Ft.<ujsor/>
-4. L48 (Hrsz.: 16573/9/A/74.) jelû, 89,14 m2 + 11,52 m2 terasz (3 és fél szoba összkomfortos lakás).<ujsor/>
-Irányár: 21 800 000 Ft.<ujsor/>
-5. I104 (Hrsz.: 16573/9/A/16.) jelû 75,41 m2 iroda<ujsor/>
-Irányár: 17 200 000 Ft.<ujsor/>
-6. I105 (Hrsz.: 16573/9/A/17) jelû 79,36 m2<ujsor/>
-Irányár: 17 200 000 Ft.<ujsor/>
-7. I106/2. (Hrsz.: 16573/9/A/20) jelû 200,42 m2 iroda<ujsor/>
-Irányár: 45 700 000 Ft.<ujsor/>
-8. I108. (Hrsz.: 16573/9/A/21) jelû 38,32 m2 iroda<ujsor/>
-Irányár: 8 600 000 Ft.<ujsor/>
-Pályázati feltételek: pályázni csak külön-külön lehet a fent említett lakásokra, irodákra, de egy pályázó akár minden lakásra, irodára is nyújthat be külön-külön ajánlatot.<ujsor/>
-A pályázat benyújtásának határideje: 2009. július 7. 9­10 óra között.<ujsor/>
-A pályázat benyújtásának helye: KERSZI Zrt. titkársága (1143 Budapest, Besnyõi u. 13. I. em.).<ujsor/>
-A pályázat bontásának helye és ideje: KERSZI Zrt. titkársága, 2009. július 7. 10 óra.<ujsor/>
-Az érvényes pályázatnak tartalmaznia kell:<ujsor/>
-­ egyértelmûen meghatározott vételárat és fizetési feltételeket,<ujsor/>
-­ az ajánlattevõ adatait (társaság esetében cégkivonat),<ujsor/>
-­ pályázói nyilatkozatot arról, hogy tudomásul veszi azt, hogy az eladó kellékszavatosságot, illetve garanciát nem vállal,<ujsor/>
-­ 60 napos ajánlati kötöttségre vonatkozó nyilatkozatot,<ujsor/>
-­ a bánatpénz megfizetésének igazolását.<ujsor/>
-Bánatpénz: az érvényes pályázat feltétele az irányár 10%-ának befizetése a WIGO Kft. „f. a.” 10700024-25898105-51100005 számú számlájára „Pályázat” megjelöléssel. A bánatpénz ­ nyertes pályázó esetében ­ beszámításra, a többi pályázónak pedig visszautalásra kerül.<ujsor/>
-A pályázatokat a kiíró közjegyzõ jelenlétében bontja, amelyrõl jegyzõkönyv készül.<ujsor/>
-A pályázatok nyilvános eredményhirdetésére 2009. július 7-én 11 órakor kerül sor, amelynek helyszíne: KERSZI Zrt. (1143 Budapest, Besnyõi u. 13. I. em.).<ujsor/>
-Megfelelõ, azonos értékû (a vételárkülönbség nem nagyobb 10%-nál) pályázatok esetén a felszámoló a pályázók között nyilvános árversenyt tart, amelyre közvetlenül az eredményhirdetés után kerül sor a kiíró székhelyén (1143 Budapest, Besnyõi u. 13. I. em.).<ujsor/>
-Az elõvásárlásra jogosultak kizárólag a nyilvános pályázat során élhetnek ezen jogukkal, amelyre vonatkozó igényüket kérjük elõzetesen írásban bejelenteni.<ujsor/>
-A vételárba hitelezõi igény beszámítására nincs lehetõség.<ujsor/>
-A kiíró fenntartja magának a jogot, hogy a pályázatot eredménytelennek nyilvánítsa.<ujsor/>
-A meghirdetett ingatlanok a felszámolóval történõ elõzetes egyeztetés alapján tekinthetõk meg.<ujsor/>
-A pályázati dokumentáció telefonon [06 (1) 239-4940] egyeztetett idõpontban átvehetõ a KERSZI Zrt. székhelyén (1143 Budapest, Besnyõi u. 13. I. em.).<ujsor/>
-További információ kérhetõ Nagy Barnabás felszámoló helyi megbízottjától a 06 (30) 964-7812-es telefonszámon.<ujsor/>
+<mezo id = "szoveg">A KERSZI Kereskedelmi Ã©s PÃ©nzÃ¼gyi SzervezÃ©si TanÃ¡csadÃ³ Zrt. (Cg.: [01 10 041640]; szÃ©khely: 1143 Budapest, BesnyÅ‘i u. 13. I. em.) mint a WIGO Kft. â€f. a.â€ (Cg.: [01 09 699670]; szÃ©khely: 1037 Budapest, SeregÃ©ly u. 9.) a FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g 17. Fpk. 01-08-000438/6. sz. vÃ©gzÃ©sÃ©vel kijelÃ¶lt felszÃ¡molÃ³ja<ujsor/>
+nyilvÃ¡nos pÃ¡lyÃ¡zat<ujsor/>
+ÃºtjÃ¡n Ã©rtÃ©kesÃ­ti az adÃ³s tÃ¡rsasÃ¡g alÃ¡bbi lakÃ³-, illetve iroda ingatlanait:<ujsor/>
+1. L6 (Hrsz.: 16573/9/A/33.) jelÅ±, 56,94 m2 + 16,96 m2 terasz (2 szoba Ã¶sszkomfortos) lakÃ¡s.<ujsor/>
+IrÃ¡nyÃ¡r: 16 700 000 Ft.<ujsor/>
+2. L7 (Hrsz.: 16573/9/A/34.) jelÅ±, 57,03 m2 + 16,67 m2 terasz (2 szoba Ã¶sszkomfortos) lakÃ¡s.<ujsor/>
+IrÃ¡nyÃ¡r: 16 700 000 Ft.<ujsor/>
+3. L28 (Hrsz.: 16573/9/A/54.) jelÅ±, 89,1 m2 + 12,74 m2 terasz (3 Ã©s fÃ©l szoba Ã¶sszkomfortos lakÃ¡s).<ujsor/>
+IrÃ¡nyÃ¡r: 21 800 000 Ft.<ujsor/>
+4. L48 (Hrsz.: 16573/9/A/74.) jelÅ±, 89,14 m2 + 11,52 m2 terasz (3 Ã©s fÃ©l szoba Ã¶sszkomfortos lakÃ¡s).<ujsor/>
+IrÃ¡nyÃ¡r: 21 800 000 Ft.<ujsor/>
+5. I104 (Hrsz.: 16573/9/A/16.) jelÅ± 75,41 m2 iroda<ujsor/>
+IrÃ¡nyÃ¡r: 17 200 000 Ft.<ujsor/>
+6. I105 (Hrsz.: 16573/9/A/17) jelÅ± 79,36 m2<ujsor/>
+IrÃ¡nyÃ¡r: 17 200 000 Ft.<ujsor/>
+7. I106/2. (Hrsz.: 16573/9/A/20) jelÅ± 200,42 m2 iroda<ujsor/>
+IrÃ¡nyÃ¡r: 45 700 000 Ft.<ujsor/>
+8. I108. (Hrsz.: 16573/9/A/21) jelÅ± 38,32 m2 iroda<ujsor/>
+IrÃ¡nyÃ¡r: 8 600 000 Ft.<ujsor/>
+PÃ¡lyÃ¡zati feltÃ©telek: pÃ¡lyÃ¡zni csak kÃ¼lÃ¶n-kÃ¼lÃ¶n lehet a fent emlÃ­tett lakÃ¡sokra, irodÃ¡kra, de egy pÃ¡lyÃ¡zÃ³ akÃ¡r minden lakÃ¡sra, irodÃ¡ra is nyÃºjthat be kÃ¼lÃ¶n-kÃ¼lÃ¶n ajÃ¡nlatot.<ujsor/>
+A pÃ¡lyÃ¡zat benyÃºjtÃ¡sÃ¡nak hatÃ¡rideje: 2009. jÃºlius 7. 9Â­10 Ã³ra kÃ¶zÃ¶tt.<ujsor/>
+A pÃ¡lyÃ¡zat benyÃºjtÃ¡sÃ¡nak helye: KERSZI Zrt. titkÃ¡rsÃ¡ga (1143 Budapest, BesnyÅ‘i u. 13. I. em.).<ujsor/>
+A pÃ¡lyÃ¡zat bontÃ¡sÃ¡nak helye Ã©s ideje: KERSZI Zrt. titkÃ¡rsÃ¡ga, 2009. jÃºlius 7. 10 Ã³ra.<ujsor/>
+Az Ã©rvÃ©nyes pÃ¡lyÃ¡zatnak tartalmaznia kell:<ujsor/>
+Â­ egyÃ©rtelmÅ±en meghatÃ¡rozott vÃ©telÃ¡rat Ã©s fizetÃ©si feltÃ©teleket,<ujsor/>
+Â­ az ajÃ¡nlattevÅ‘ adatait (tÃ¡rsasÃ¡g esetÃ©ben cÃ©gkivonat),<ujsor/>
+Â­ pÃ¡lyÃ¡zÃ³i nyilatkozatot arrÃ³l, hogy tudomÃ¡sul veszi azt, hogy az eladÃ³ kellÃ©kszavatossÃ¡got, illetve garanciÃ¡t nem vÃ¡llal,<ujsor/>
+Â­ 60 napos ajÃ¡nlati kÃ¶tÃ¶ttsÃ©gre vonatkozÃ³ nyilatkozatot,<ujsor/>
+Â­ a bÃ¡natpÃ©nz megfizetÃ©sÃ©nek igazolÃ¡sÃ¡t.<ujsor/>
+BÃ¡natpÃ©nz: az Ã©rvÃ©nyes pÃ¡lyÃ¡zat feltÃ©tele az irÃ¡nyÃ¡r 10%-Ã¡nak befizetÃ©se a WIGO Kft. â€f. a.â€ 10700024-25898105-51100005 szÃ¡mÃº szÃ¡mlÃ¡jÃ¡ra â€PÃ¡lyÃ¡zatâ€ megjelÃ¶lÃ©ssel. A bÃ¡natpÃ©nz Â­ nyertes pÃ¡lyÃ¡zÃ³ esetÃ©ben Â­ beszÃ¡mÃ­tÃ¡sra, a tÃ¶bbi pÃ¡lyÃ¡zÃ³nak pedig visszautalÃ¡sra kerÃ¼l.<ujsor/>
+A pÃ¡lyÃ¡zatokat a kiÃ­rÃ³ kÃ¶zjegyzÅ‘ jelenlÃ©tÃ©ben bontja, amelyrÅ‘l jegyzÅ‘kÃ¶nyv kÃ©szÃ¼l.<ujsor/>
+A pÃ¡lyÃ¡zatok nyilvÃ¡nos eredmÃ©nyhirdetÃ©sÃ©re 2009. jÃºlius 7-Ã©n 11 Ã³rakor kerÃ¼l sor, amelynek helyszÃ­ne: KERSZI Zrt. (1143 Budapest, BesnyÅ‘i u. 13. I. em.).<ujsor/>
+MegfelelÅ‘, azonos Ã©rtÃ©kÅ± (a vÃ©telÃ¡rkÃ¼lÃ¶nbsÃ©g nem nagyobb 10%-nÃ¡l) pÃ¡lyÃ¡zatok esetÃ©n a felszÃ¡molÃ³ a pÃ¡lyÃ¡zÃ³k kÃ¶zÃ¶tt nyilvÃ¡nos Ã¡rversenyt tart, amelyre kÃ¶zvetlenÃ¼l az eredmÃ©nyhirdetÃ©s utÃ¡n kerÃ¼l sor a kiÃ­rÃ³ szÃ©khelyÃ©n (1143 Budapest, BesnyÅ‘i u. 13. I. em.).<ujsor/>
+Az elÅ‘vÃ¡sÃ¡rlÃ¡sra jogosultak kizÃ¡rÃ³lag a nyilvÃ¡nos pÃ¡lyÃ¡zat sorÃ¡n Ã©lhetnek ezen jogukkal, amelyre vonatkozÃ³ igÃ©nyÃ¼ket kÃ©rjÃ¼k elÅ‘zetesen Ã­rÃ¡sban bejelenteni.<ujsor/>
+A vÃ©telÃ¡rba hitelezÅ‘i igÃ©ny beszÃ¡mÃ­tÃ¡sÃ¡ra nincs lehetÅ‘sÃ©g.<ujsor/>
+A kiÃ­rÃ³ fenntartja magÃ¡nak a jogot, hogy a pÃ¡lyÃ¡zatot eredmÃ©nytelennek nyilvÃ¡nÃ­tsa.<ujsor/>
+A meghirdetett ingatlanok a felszÃ¡molÃ³val tÃ¶rtÃ©nÅ‘ elÅ‘zetes egyeztetÃ©s alapjÃ¡n tekinthetÅ‘k meg.<ujsor/>
+A pÃ¡lyÃ¡zati dokumentÃ¡ciÃ³ telefonon [06 (1) 239-4940] egyeztetett idÅ‘pontban Ã¡tvehetÅ‘ a KERSZI Zrt. szÃ©khelyÃ©n (1143 Budapest, BesnyÅ‘i u. 13. I. em.).<ujsor/>
+TovÃ¡bbi informÃ¡ciÃ³ kÃ©rhetÅ‘ Nagy BarnabÃ¡s felszÃ¡molÃ³ helyi megbÃ­zottjÃ¡tÃ³l a 06 (30) 964-7812-es telefonszÃ¡mon.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109699670</mezo>
-<mezo id = "nev">WIGO Ingatlanfejlesztõ és Tanácsadó Korlátolt Felelõsségû Társaság &quot;felszámolás alatt &quot;</mezo>
+<mezo id = "nev">WIGO IngatlanfejlesztÅ‘ Ã©s TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g &quot;felszÃ¡molÃ¡s alatt &quot;</mezo>
 <mezo id = "cim">1037 Budapest</mezo>
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A KERSZI Kereskedelmi és Pénzügyi Szervezési Tanácsadó Zrt. (Cg.: [01 10 041640]; székhely: 1143 Budapest, Besnyõi u. 13. I. em.) mint a WIGO Kft. „f. a.” (Cg.: [01 09 699670]; székhely: 1037 Budapest, Seregély u. 9.) a Fõvárosi Bíróság 17. Fpk. 01-08-000438/6. sz. végzésével kijelölt felszámolója<ujsor/>
-nyilvános pályázat<ujsor/>
-útján értékesíti adós társaság alábbi lakás, illetve iroda ingatlanait:<ujsor/>
-1. L6 (Hrsz.: 16573/9/A/33.) jelû 56,94 m2 + 16,96 m2 terasz (2 szoba összkomfortos) lakás<ujsor/>
-Irányár: 15 000 000 Ft<ujsor/>
-2. L7 (Hrsz.: 16573/9/A/34.) jelû 57,03 m2 + 16,76 m2 terasz (2 szoba összkomfortos) lakás<ujsor/>
-Irányár: 15 000 000 Ft<ujsor/>
-3. L28 (Hrsz.: 16573/9/A/54.) jelû 89,1 m2 + 12,74 m2 terasz (3 és fél szoba összkomfortos lakás)<ujsor/>
-Irányár: 19 600 000 Ft<ujsor/>
-4. L48 (Hrsz.: 16573/9/A/74.) jelû 89,14 m2 + 11,52 m2 + 11,52 m2 terasz (3 és fél szoba összkomfortos lakás)<ujsor/>
-Irányár: 19 600 000 Ft<ujsor/>
-5. 1104 (Hrsz.: 16573/9/A/16.) jelû 75,41 m2 iroda<ujsor/>
-Irányár: 15 500 000 Ft<ujsor/>
-6. 1105 (Hrsz.: 16573/9/A/17.) jelû 79,36 m2 iroda<ujsor/>
-Irányár: 15 500 000 Ft<ujsor/>
-7. 1106/2. (Hrsz.: 16573/9/A/20.) jelû 200,42 m2 iroda<ujsor/>
-Irányár: 41 150 000 Ft<ujsor/>
-8. 1108. (Hrsz.: 16573/9/A/21.) jelû 38,32 m2 iroda<ujsor/>
-Irányár: 7 750 000 Ft<ujsor/>
-A fenti lakások és irodák Pécs, Király u. 66. sz. alatti épületben találhatók.<ujsor/>
-Pályázati feltételek: pályázni csak külön-külön lehet a fent említett lakásokra, irodákra, de egy pályázó akár minden lakásra, irodára is nyújthat be külön-külön ajánlatot.<ujsor/>
-A pályázat benyújtásának határideje: 2009. szeptember 11. 9­10 óra között.<ujsor/>
-A pályázat benyújtásának helye: KERSZI Zrt. titkársága (1143 Budapest, Besnyõi u. 13. I. em.).<ujsor/>
-A pályázat bontásának helye és ideje: KERSZI Zrt. titkársága, 2009. szeptember 11. 10 óra.<ujsor/>
-Az érvényes pályázatnak tartalmaznia kell:<ujsor/>
-­ egyértelmûen meghatározott vételárat és fizetési feltételeket,<ujsor/>
-­ az ajánlattevõ adatait (társaság esetében cégkivonat),<ujsor/>
-­ pályázói nyilatkozat arról, hogy tudomásul veszi azt, hogy az eladó kellékszavatosságot, illetve garanciát nem vállal,<ujsor/>
-­ 60 napos ajánlati kötöttségre vonatkozó nyilatkozatot,<ujsor/>
-­ a bánatpénz megfizetésének igazolását.<ujsor/>
-Bánatpénz: az érvényes pályázat feltétele az irányára 10%-ának befizetése a WIGO Kft. „f. a.” 10700024-25898105-51100005 számú számlájára „Pályázat” megjelöléssel. A bánatpénz ­ nyertes pályázó esetében ­ beszámításra, a többi pályázónak pedig visszautalásra kerül.<ujsor/>
-A pályázatokat a kiíró közjegyzõ jelenlétében bontja, amelyrõl jegyzõkönyv készül.<ujsor/>
-A pályázatok nyilvános eredményhirdetésére 2009. szeptember 11-én 11 órakor kerül sor, amelynek helyszíne: KERSZI Zrt. (1143 Budapest, Besnyõi u. 13. I. em.).<ujsor/>
-Megfelelõ, azonos értékû (a vételárkülönbség nem nagyobb 10%-nál) pályázatok esetén a felszámoló a pályázók között nyilvános árverést tart, amelyre közvetlenül az eredményhirdetés után kerül sor a kiíró székhelyén (1143 Budapest, Besnyõi u. 13. I. em.).<ujsor/>
-Az elõvásárlásra jogosultak kizárólag a nyilvános pályázat során élhetnek ezen jogukkal, amelyre vonatkozó igényüket kérjük elõzetesen írásban bejelenteni.<ujsor/>
-A vételárba hitelezõi igény beszámítására nincs lehetõség.<ujsor/>
-A kiíró fenntartja magának a jogot, hogy a pályázatot megfelelõ ajánlat hiányában eredménytelennek nyilvánítsa.<ujsor/>
-A meghirdetett ingatlanok a felszámolóval történõ elõzetes idõpont-egyeztetés alapján tekinthetõk meg.<ujsor/>
-A pályázati dokumentáció telefonon (239-4940) egyeztetett idõpontban átvehetõ a KERSZI Zrt. székhelyén (1143 Budapest, Besnyõi u. 13. I. em.).<ujsor/>
-További információ kérhetõ Nagy Barnabás felszámoló helyi megbízottjától a 239-4940-as telefonszámon.<ujsor/>
+<mezo id = "szoveg">A KERSZI Kereskedelmi Ã©s PÃ©nzÃ¼gyi SzervezÃ©si TanÃ¡csadÃ³ Zrt. (Cg.: [01 10 041640]; szÃ©khely: 1143 Budapest, BesnyÅ‘i u. 13. I. em.) mint a WIGO Kft. â€f. a.â€ (Cg.: [01 09 699670]; szÃ©khely: 1037 Budapest, SeregÃ©ly u. 9.) a FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g 17. Fpk. 01-08-000438/6. sz. vÃ©gzÃ©sÃ©vel kijelÃ¶lt felszÃ¡molÃ³ja<ujsor/>
+nyilvÃ¡nos pÃ¡lyÃ¡zat<ujsor/>
+ÃºtjÃ¡n Ã©rtÃ©kesÃ­ti adÃ³s tÃ¡rsasÃ¡g alÃ¡bbi lakÃ¡s, illetve iroda ingatlanait:<ujsor/>
+1. L6 (Hrsz.: 16573/9/A/33.) jelÅ± 56,94 m2 + 16,96 m2 terasz (2 szoba Ã¶sszkomfortos) lakÃ¡s<ujsor/>
+IrÃ¡nyÃ¡r: 15 000 000 Ft<ujsor/>
+2. L7 (Hrsz.: 16573/9/A/34.) jelÅ± 57,03 m2 + 16,76 m2 terasz (2 szoba Ã¶sszkomfortos) lakÃ¡s<ujsor/>
+IrÃ¡nyÃ¡r: 15 000 000 Ft<ujsor/>
+3. L28 (Hrsz.: 16573/9/A/54.) jelÅ± 89,1 m2 + 12,74 m2 terasz (3 Ã©s fÃ©l szoba Ã¶sszkomfortos lakÃ¡s)<ujsor/>
+IrÃ¡nyÃ¡r: 19 600 000 Ft<ujsor/>
+4. L48 (Hrsz.: 16573/9/A/74.) jelÅ± 89,14 m2 + 11,52 m2 + 11,52 m2 terasz (3 Ã©s fÃ©l szoba Ã¶sszkomfortos lakÃ¡s)<ujsor/>
+IrÃ¡nyÃ¡r: 19 600 000 Ft<ujsor/>
+5. 1104 (Hrsz.: 16573/9/A/16.) jelÅ± 75,41 m2 iroda<ujsor/>
+IrÃ¡nyÃ¡r: 15 500 000 Ft<ujsor/>
+6. 1105 (Hrsz.: 16573/9/A/17.) jelÅ± 79,36 m2 iroda<ujsor/>
+IrÃ¡nyÃ¡r: 15 500 000 Ft<ujsor/>
+7. 1106/2. (Hrsz.: 16573/9/A/20.) jelÅ± 200,42 m2 iroda<ujsor/>
+IrÃ¡nyÃ¡r: 41 150 000 Ft<ujsor/>
+8. 1108. (Hrsz.: 16573/9/A/21.) jelÅ± 38,32 m2 iroda<ujsor/>
+IrÃ¡nyÃ¡r: 7 750 000 Ft<ujsor/>
+A fenti lakÃ¡sok Ã©s irodÃ¡k PÃ©cs, KirÃ¡ly u. 66. sz. alatti Ã©pÃ¼letben talÃ¡lhatÃ³k.<ujsor/>
+PÃ¡lyÃ¡zati feltÃ©telek: pÃ¡lyÃ¡zni csak kÃ¼lÃ¶n-kÃ¼lÃ¶n lehet a fent emlÃ­tett lakÃ¡sokra, irodÃ¡kra, de egy pÃ¡lyÃ¡zÃ³ akÃ¡r minden lakÃ¡sra, irodÃ¡ra is nyÃºjthat be kÃ¼lÃ¶n-kÃ¼lÃ¶n ajÃ¡nlatot.<ujsor/>
+A pÃ¡lyÃ¡zat benyÃºjtÃ¡sÃ¡nak hatÃ¡rideje: 2009. szeptember 11. 9Â­10 Ã³ra kÃ¶zÃ¶tt.<ujsor/>
+A pÃ¡lyÃ¡zat benyÃºjtÃ¡sÃ¡nak helye: KERSZI Zrt. titkÃ¡rsÃ¡ga (1143 Budapest, BesnyÅ‘i u. 13. I. em.).<ujsor/>
+A pÃ¡lyÃ¡zat bontÃ¡sÃ¡nak helye Ã©s ideje: KERSZI Zrt. titkÃ¡rsÃ¡ga, 2009. szeptember 11. 10 Ã³ra.<ujsor/>
+Az Ã©rvÃ©nyes pÃ¡lyÃ¡zatnak tartalmaznia kell:<ujsor/>
+Â­ egyÃ©rtelmÅ±en meghatÃ¡rozott vÃ©telÃ¡rat Ã©s fizetÃ©si feltÃ©teleket,<ujsor/>
+Â­ az ajÃ¡nlattevÅ‘ adatait (tÃ¡rsasÃ¡g esetÃ©ben cÃ©gkivonat),<ujsor/>
+Â­ pÃ¡lyÃ¡zÃ³i nyilatkozat arrÃ³l, hogy tudomÃ¡sul veszi azt, hogy az eladÃ³ kellÃ©kszavatossÃ¡got, illetve garanciÃ¡t nem vÃ¡llal,<ujsor/>
+Â­ 60 napos ajÃ¡nlati kÃ¶tÃ¶ttsÃ©gre vonatkozÃ³ nyilatkozatot,<ujsor/>
+Â­ a bÃ¡natpÃ©nz megfizetÃ©sÃ©nek igazolÃ¡sÃ¡t.<ujsor/>
+BÃ¡natpÃ©nz: az Ã©rvÃ©nyes pÃ¡lyÃ¡zat feltÃ©tele az irÃ¡nyÃ¡ra 10%-Ã¡nak befizetÃ©se a WIGO Kft. â€f. a.â€ 10700024-25898105-51100005 szÃ¡mÃº szÃ¡mlÃ¡jÃ¡ra â€PÃ¡lyÃ¡zatâ€ megjelÃ¶lÃ©ssel. A bÃ¡natpÃ©nz Â­ nyertes pÃ¡lyÃ¡zÃ³ esetÃ©ben Â­ beszÃ¡mÃ­tÃ¡sra, a tÃ¶bbi pÃ¡lyÃ¡zÃ³nak pedig visszautalÃ¡sra kerÃ¼l.<ujsor/>
+A pÃ¡lyÃ¡zatokat a kiÃ­rÃ³ kÃ¶zjegyzÅ‘ jelenlÃ©tÃ©ben bontja, amelyrÅ‘l jegyzÅ‘kÃ¶nyv kÃ©szÃ¼l.<ujsor/>
+A pÃ¡lyÃ¡zatok nyilvÃ¡nos eredmÃ©nyhirdetÃ©sÃ©re 2009. szeptember 11-Ã©n 11 Ã³rakor kerÃ¼l sor, amelynek helyszÃ­ne: KERSZI Zrt. (1143 Budapest, BesnyÅ‘i u. 13. I. em.).<ujsor/>
+MegfelelÅ‘, azonos Ã©rtÃ©kÅ± (a vÃ©telÃ¡rkÃ¼lÃ¶nbsÃ©g nem nagyobb 10%-nÃ¡l) pÃ¡lyÃ¡zatok esetÃ©n a felszÃ¡molÃ³ a pÃ¡lyÃ¡zÃ³k kÃ¶zÃ¶tt nyilvÃ¡nos Ã¡rverÃ©st tart, amelyre kÃ¶zvetlenÃ¼l az eredmÃ©nyhirdetÃ©s utÃ¡n kerÃ¼l sor a kiÃ­rÃ³ szÃ©khelyÃ©n (1143 Budapest, BesnyÅ‘i u. 13. I. em.).<ujsor/>
+Az elÅ‘vÃ¡sÃ¡rlÃ¡sra jogosultak kizÃ¡rÃ³lag a nyilvÃ¡nos pÃ¡lyÃ¡zat sorÃ¡n Ã©lhetnek ezen jogukkal, amelyre vonatkozÃ³ igÃ©nyÃ¼ket kÃ©rjÃ¼k elÅ‘zetesen Ã­rÃ¡sban bejelenteni.<ujsor/>
+A vÃ©telÃ¡rba hitelezÅ‘i igÃ©ny beszÃ¡mÃ­tÃ¡sÃ¡ra nincs lehetÅ‘sÃ©g.<ujsor/>
+A kiÃ­rÃ³ fenntartja magÃ¡nak a jogot, hogy a pÃ¡lyÃ¡zatot megfelelÅ‘ ajÃ¡nlat hiÃ¡nyÃ¡ban eredmÃ©nytelennek nyilvÃ¡nÃ­tsa.<ujsor/>
+A meghirdetett ingatlanok a felszÃ¡molÃ³val tÃ¶rtÃ©nÅ‘ elÅ‘zetes idÅ‘pont-egyeztetÃ©s alapjÃ¡n tekinthetÅ‘k meg.<ujsor/>
+A pÃ¡lyÃ¡zati dokumentÃ¡ciÃ³ telefonon (239-4940) egyeztetett idÅ‘pontban Ã¡tvehetÅ‘ a KERSZI Zrt. szÃ©khelyÃ©n (1143 Budapest, BesnyÅ‘i u. 13. I. em.).<ujsor/>
+TovÃ¡bbi informÃ¡ciÃ³ kÃ©rhetÅ‘ Nagy BarnabÃ¡s felszÃ¡molÃ³ helyi megbÃ­zottjÃ¡tÃ³l a 239-4940-as telefonszÃ¡mon.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109699670</mezo>
-<mezo id = "nev">WIGO Ingatlanfejlesztõ és Tanácsadó Korlátolt Felelõsségû Társaság &quot;felszámolás alatt &quot;</mezo>
+<mezo id = "nev">WIGO IngatlanfejlesztÅ‘ Ã©s TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g &quot;felszÃ¡molÃ¡s alatt &quot;</mezo>
 <mezo id = "cim">1037 Budapest</mezo>
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A KERSZI Kereskedelmi és Pénzügyi Szervezési Tanácsadó Zrt. (Cg.: [01 10 041640]; székhelye: 1143 Budapest, Besnyõi u. 13.) mint a Wigo Ingatlanfejlesztõ és Tanácsadó Kft. „f. a.” (Cg.: [01 09 699670]; székhelye: 1037 Budapest, Seregély u. 9.; adószám: [12710555-2-41]) a Fõvárosi Bíróság 17. Fpk. 01-08-000438/4. sz. végzésével kijelölt felszámolója<ujsor/>
-nyilvános pályázat<ujsor/>
-útján értékesíti adós társaság alábbi ingatlanát.<ujsor/>
-Az ingatlan fõbb adatai:<ujsor/>
-Címe: 8380 Hévíz, Fortuna u. 5. A/16.<ujsor/>
-Helyrajzi szám: 423/8/A/16.<ujsor/>
-Megnevezés: teremgarázshely.<ujsor/>
-Terület: 14 m2.<ujsor/>
-Az ingatlan irányára: 700 000 Ft.<ujsor/>
-Az ingatlan értékesítése áfamentes.<ujsor/>
-Pályázati feltételek:<ujsor/>
-Az ingatlan értékesítése a felszámolásokra vonatkozó, többször módosított 1991. évi XLIX. tv. szerint, pályázat benyújtásával és annak értékelésével történik. Az ajánlatot írásban kell benyújtani „Wigo Kft.” megjelöléssel.<ujsor/>
-A pályázat benyújtásának határideje: 2011. szeptember 20. 10 óra.<ujsor/>
-A pályázat benyújtásának helye: KERSZI Zrt. titkársága (1143 Budapest, Besnyõi u. 13. I. em.).<ujsor/>
-A pályázat bontásának helyszíne: KERSZI Zrt. titkársága (1143 Budapest, Besnyõi u. 13. I. em.).<ujsor/>
-A pályázat bontásának ideje: 2011. szeptember 20. 11 óra.<ujsor/>
-A pályázatnak tartalmaznia kell:<ujsor/>
-­ a megvásárolni szándékozott vagyontárgy pontos megnevezését,<ujsor/>
-­ az egyértelmûen meghatározott vételi árat és fizetési feltételt,<ujsor/>
-­ az ajánlattevõ adatait (társaság esetén cégkivonat, aláírási címpéldány),<ujsor/>
-­ az eladó kellékszavatossága, garanciája teljes körû kizárására vonatkozó írásbeli tudomásulvételének nyilatkozatát,<ujsor/>
-­ a tulajdonszerzési jogosultságra vonatkozó írásbeli nyilatkozatot,<ujsor/>
-­ 60 napos ajánlati kötöttségre vonatkozó nyilatkozatot,<ujsor/>
-­ a bánatpénz megfizetésének igazolását.<ujsor/>
-Bánatpénz:<ujsor/>
-Az érvényes pályázat feltétele az irányár 10%-ának befizetése a KERSZI Zrt. erre elkülönített 10200964-2021343100000000 számú számlájára „Wigo Pályázat” megjelöléssel, vagy a felszámolónál történõ letétbe helyezéssel kell megfizetni, legkésõbb a pályázat beadásáig.<ujsor/>
-A bánatpénz a vételárba beszámít, nyertes pályázó visszalépése esetén a bánatpénz nem jár vissza. Az elutasított pályázók által befizetett bánatpénzt a felszámoló 5 napon belül visszautalja.<ujsor/>
-Ezen túlmenõen a pályázaton részt vevõknek igazolniuk kell, hogy a bánatpénz feletti összeg a megajánlott vételár erejéig rendelkezésükre áll. Igazolásként erre a célra Magyarországon tevékenységi engedéllyel rendelkezõ pénzintézet által kiállított bankgarancia, vagy banki fedezetigazolás fogadható el, amelyet a pályázatba az eredeti okmányokban csatolni kell.<ujsor/>
-A bankgarancia lejárata és a fedezetigazolás érvényessége nem lehet korábbi, mint a pályázat benyújtását követõ 60 nap.<ujsor/>
-A pályázatokat a kiíró közjegyzõ jelenlétében bontja, amelyrõl jegyzõkönyv készül.<ujsor/>
-A pályázatok nyilvános eredményhirdetésére 2011. szeptember 20-án 11 óra 30 perckor kerül sor, amelynek helyszíne: KERSZI Zrt. 1143 Budapest, Besnyõi u. 13. I. em.<ujsor/>
-Több megfelelõ, azonos értékû (legfeljebb 10%-kal eltérõ) pályázatok esetén a felszámoló a pályázók között ártárgyalást tart, amelyre közvetlenül az eredményhirdetés után kerül sor a kiíró címén (1143 Budapest, Besnyõi u. 13. I. em.).<ujsor/>
-A nyertes pályázó köteles az eredményhirdetést követõ 15 napon belül az adásvételi szerzõdést megkötni és a vételár bánatpénzzel csökkentett összegét a szerzõdés aláírását követõ 45 napon belül átutalással vagy készpénzzel lehet kiegyenlíteni.<ujsor/>
-A vételárba hitelezõi igény beszámítására nincs lehetõség, az ingatlan tulajdonba adásának feltétele a teljes vételár megfizetése.<ujsor/>
-A kiíró fenntartja magának a jogot, hogy megfelelõ ajánlat hiányában a pályázatot eredménytelennek nyilvánítja.<ujsor/>
-Az ingatlan megtekinthetõ a Juhász Jánossal [06 (30) 255-6580] történt elõzetes egyeztetést követõen.<ujsor/>
-A nyilvános értékesítésre meghirdetett ingatlanról készített részletes pályázati tájékoztató megtekinthetõ a KERSZI Zrt. (1143 Budapest, Besnyõi u. 13.) irodájában.<ujsor/>
-További tájékoztatás kérhetõ Pintérné Fodor Gabriellától a 06 (1) 465-0950-es telefonszámon.<ujsor/>
+<mezo id = "szoveg">A KERSZI Kereskedelmi Ã©s PÃ©nzÃ¼gyi SzervezÃ©si TanÃ¡csadÃ³ Zrt. (Cg.: [01 10 041640]; szÃ©khelye: 1143 Budapest, BesnyÅ‘i u. 13.) mint a Wigo IngatlanfejlesztÅ‘ Ã©s TanÃ¡csadÃ³ Kft. â€f. a.â€ (Cg.: [01 09 699670]; szÃ©khelye: 1037 Budapest, SeregÃ©ly u. 9.; adÃ³szÃ¡m: [12710555-2-41]) a FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g 17. Fpk. 01-08-000438/4. sz. vÃ©gzÃ©sÃ©vel kijelÃ¶lt felszÃ¡molÃ³ja<ujsor/>
+nyilvÃ¡nos pÃ¡lyÃ¡zat<ujsor/>
+ÃºtjÃ¡n Ã©rtÃ©kesÃ­ti adÃ³s tÃ¡rsasÃ¡g alÃ¡bbi ingatlanÃ¡t.<ujsor/>
+Az ingatlan fÅ‘bb adatai:<ujsor/>
+CÃ­me: 8380 HÃ©vÃ­z, Fortuna u. 5. A/16.<ujsor/>
+Helyrajzi szÃ¡m: 423/8/A/16.<ujsor/>
+MegnevezÃ©s: teremgarÃ¡zshely.<ujsor/>
+TerÃ¼let: 14 m2.<ujsor/>
+Az ingatlan irÃ¡nyÃ¡ra: 700 000 Ft.<ujsor/>
+Az ingatlan Ã©rtÃ©kesÃ­tÃ©se Ã¡famentes.<ujsor/>
+PÃ¡lyÃ¡zati feltÃ©telek:<ujsor/>
+Az ingatlan Ã©rtÃ©kesÃ­tÃ©se a felszÃ¡molÃ¡sokra vonatkozÃ³, tÃ¶bbszÃ¶r mÃ³dosÃ­tott 1991. Ã©vi XLIX. tv. szerint, pÃ¡lyÃ¡zat benyÃºjtÃ¡sÃ¡val Ã©s annak Ã©rtÃ©kelÃ©sÃ©vel tÃ¶rtÃ©nik. Az ajÃ¡nlatot Ã­rÃ¡sban kell benyÃºjtani â€Wigo Kft.â€ megjelÃ¶lÃ©ssel.<ujsor/>
+A pÃ¡lyÃ¡zat benyÃºjtÃ¡sÃ¡nak hatÃ¡rideje: 2011. szeptember 20. 10 Ã³ra.<ujsor/>
+A pÃ¡lyÃ¡zat benyÃºjtÃ¡sÃ¡nak helye: KERSZI Zrt. titkÃ¡rsÃ¡ga (1143 Budapest, BesnyÅ‘i u. 13. I. em.).<ujsor/>
+A pÃ¡lyÃ¡zat bontÃ¡sÃ¡nak helyszÃ­ne: KERSZI Zrt. titkÃ¡rsÃ¡ga (1143 Budapest, BesnyÅ‘i u. 13. I. em.).<ujsor/>
+A pÃ¡lyÃ¡zat bontÃ¡sÃ¡nak ideje: 2011. szeptember 20. 11 Ã³ra.<ujsor/>
+A pÃ¡lyÃ¡zatnak tartalmaznia kell:<ujsor/>
+Â­ a megvÃ¡sÃ¡rolni szÃ¡ndÃ©kozott vagyontÃ¡rgy pontos megnevezÃ©sÃ©t,<ujsor/>
+Â­ az egyÃ©rtelmÅ±en meghatÃ¡rozott vÃ©teli Ã¡rat Ã©s fizetÃ©si feltÃ©telt,<ujsor/>
+Â­ az ajÃ¡nlattevÅ‘ adatait (tÃ¡rsasÃ¡g esetÃ©n cÃ©gkivonat, alÃ¡Ã­rÃ¡si cÃ­mpÃ©ldÃ¡ny),<ujsor/>
+Â­ az eladÃ³ kellÃ©kszavatossÃ¡ga, garanciÃ¡ja teljes kÃ¶rÅ± kizÃ¡rÃ¡sÃ¡ra vonatkozÃ³ Ã­rÃ¡sbeli tudomÃ¡sulvÃ©telÃ©nek nyilatkozatÃ¡t,<ujsor/>
+Â­ a tulajdonszerzÃ©si jogosultsÃ¡gra vonatkozÃ³ Ã­rÃ¡sbeli nyilatkozatot,<ujsor/>
+Â­ 60 napos ajÃ¡nlati kÃ¶tÃ¶ttsÃ©gre vonatkozÃ³ nyilatkozatot,<ujsor/>
+Â­ a bÃ¡natpÃ©nz megfizetÃ©sÃ©nek igazolÃ¡sÃ¡t.<ujsor/>
+BÃ¡natpÃ©nz:<ujsor/>
+Az Ã©rvÃ©nyes pÃ¡lyÃ¡zat feltÃ©tele az irÃ¡nyÃ¡r 10%-Ã¡nak befizetÃ©se a KERSZI Zrt. erre elkÃ¼lÃ¶nÃ­tett 10200964-2021343100000000 szÃ¡mÃº szÃ¡mlÃ¡jÃ¡ra â€Wigo PÃ¡lyÃ¡zatâ€ megjelÃ¶lÃ©ssel, vagy a felszÃ¡molÃ³nÃ¡l tÃ¶rtÃ©nÅ‘ letÃ©tbe helyezÃ©ssel kell megfizetni, legkÃ©sÅ‘bb a pÃ¡lyÃ¡zat beadÃ¡sÃ¡ig.<ujsor/>
+A bÃ¡natpÃ©nz a vÃ©telÃ¡rba beszÃ¡mÃ­t, nyertes pÃ¡lyÃ¡zÃ³ visszalÃ©pÃ©se esetÃ©n a bÃ¡natpÃ©nz nem jÃ¡r vissza. Az elutasÃ­tott pÃ¡lyÃ¡zÃ³k Ã¡ltal befizetett bÃ¡natpÃ©nzt a felszÃ¡molÃ³ 5 napon belÃ¼l visszautalja.<ujsor/>
+Ezen tÃºlmenÅ‘en a pÃ¡lyÃ¡zaton rÃ©szt vevÅ‘knek igazolniuk kell, hogy a bÃ¡natpÃ©nz feletti Ã¶sszeg a megajÃ¡nlott vÃ©telÃ¡r erejÃ©ig rendelkezÃ©sÃ¼kre Ã¡ll. IgazolÃ¡skÃ©nt erre a cÃ©lra MagyarorszÃ¡gon tevÃ©kenysÃ©gi engedÃ©llyel rendelkezÅ‘ pÃ©nzintÃ©zet Ã¡ltal kiÃ¡llÃ­tott bankgarancia, vagy banki fedezetigazolÃ¡s fogadhatÃ³ el, amelyet a pÃ¡lyÃ¡zatba az eredeti okmÃ¡nyokban csatolni kell.<ujsor/>
+A bankgarancia lejÃ¡rata Ã©s a fedezetigazolÃ¡s Ã©rvÃ©nyessÃ©ge nem lehet korÃ¡bbi, mint a pÃ¡lyÃ¡zat benyÃºjtÃ¡sÃ¡t kÃ¶vetÅ‘ 60 nap.<ujsor/>
+A pÃ¡lyÃ¡zatokat a kiÃ­rÃ³ kÃ¶zjegyzÅ‘ jelenlÃ©tÃ©ben bontja, amelyrÅ‘l jegyzÅ‘kÃ¶nyv kÃ©szÃ¼l.<ujsor/>
+A pÃ¡lyÃ¡zatok nyilvÃ¡nos eredmÃ©nyhirdetÃ©sÃ©re 2011. szeptember 20-Ã¡n 11 Ã³ra 30 perckor kerÃ¼l sor, amelynek helyszÃ­ne: KERSZI Zrt. 1143 Budapest, BesnyÅ‘i u. 13. I. em.<ujsor/>
+TÃ¶bb megfelelÅ‘, azonos Ã©rtÃ©kÅ± (legfeljebb 10%-kal eltÃ©rÅ‘) pÃ¡lyÃ¡zatok esetÃ©n a felszÃ¡molÃ³ a pÃ¡lyÃ¡zÃ³k kÃ¶zÃ¶tt Ã¡rtÃ¡rgyalÃ¡st tart, amelyre kÃ¶zvetlenÃ¼l az eredmÃ©nyhirdetÃ©s utÃ¡n kerÃ¼l sor a kiÃ­rÃ³ cÃ­mÃ©n (1143 Budapest, BesnyÅ‘i u. 13. I. em.).<ujsor/>
+A nyertes pÃ¡lyÃ¡zÃ³ kÃ¶teles az eredmÃ©nyhirdetÃ©st kÃ¶vetÅ‘ 15 napon belÃ¼l az adÃ¡svÃ©teli szerzÅ‘dÃ©st megkÃ¶tni Ã©s a vÃ©telÃ¡r bÃ¡natpÃ©nzzel csÃ¶kkentett Ã¶sszegÃ©t a szerzÅ‘dÃ©s alÃ¡Ã­rÃ¡sÃ¡t kÃ¶vetÅ‘ 45 napon belÃ¼l Ã¡tutalÃ¡ssal vagy kÃ©szpÃ©nzzel lehet kiegyenlÃ­teni.<ujsor/>
+A vÃ©telÃ¡rba hitelezÅ‘i igÃ©ny beszÃ¡mÃ­tÃ¡sÃ¡ra nincs lehetÅ‘sÃ©g, az ingatlan tulajdonba adÃ¡sÃ¡nak feltÃ©tele a teljes vÃ©telÃ¡r megfizetÃ©se.<ujsor/>
+A kiÃ­rÃ³ fenntartja magÃ¡nak a jogot, hogy megfelelÅ‘ ajÃ¡nlat hiÃ¡nyÃ¡ban a pÃ¡lyÃ¡zatot eredmÃ©nytelennek nyilvÃ¡nÃ­tja.<ujsor/>
+Az ingatlan megtekinthetÅ‘ a JuhÃ¡sz JÃ¡nossal [06 (30) 255-6580] tÃ¶rtÃ©nt elÅ‘zetes egyeztetÃ©st kÃ¶vetÅ‘en.<ujsor/>
+A nyilvÃ¡nos Ã©rtÃ©kesÃ­tÃ©sre meghirdetett ingatlanrÃ³l kÃ©szÃ­tett rÃ©szletes pÃ¡lyÃ¡zati tÃ¡jÃ©koztatÃ³ megtekinthetÅ‘ a KERSZI Zrt. (1143 Budapest, BesnyÅ‘i u. 13.) irodÃ¡jÃ¡ban.<ujsor/>
+TovÃ¡bbi tÃ¡jÃ©koztatÃ¡s kÃ©rhetÅ‘ PintÃ©rnÃ© Fodor GabriellÃ¡tÃ³l a 06 (1) 465-0950-es telefonszÃ¡mon.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109699670</mezo>
-<mezo id = "nev">WIGO Ingatlanfejlesztõ és Tanácsadó Korlátolt Felelõsségû Társaság &quot;felszámolás alatt &quot;</mezo>
+<mezo id = "nev">WIGO IngatlanfejlesztÅ‘ Ã©s TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g &quot;felszÃ¡molÃ¡s alatt &quot;</mezo>
 <mezo id = "cim">1037 Budapest</mezo>
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A KERSZI Kereskedelmi és Pénzügyi Szervezési Tanácsadó Zrt. (Cg.: [01 10 041640]; székhely: 1143 Budapest, Besnyõi u. 13.) mint a Wigo Ingatlanfejlesztõ és Tanácsadó Kft. „f. a.” (Cg.: [01 09 699670]; székhely: 1037 Budapest, Seregély u. 9.; adószám: 12710555-2-41]) Fõvárosi Bíróság 17. Fpk. 01-08-000438/4. sz. végzésével kijelölt felszámolója,<ujsor/>
-nyilvános pályázat útján<ujsor/>
-értékesíti az adós társaság alábbi ingatlanát.<ujsor/>
-Az ingatlan fõbb adatai:<ujsor/>
-Címe: 8380 Hévíz, Fortuna u. 5. A/16. sz.<ujsor/>
-Helyrajzi szám: 423/8/A/16.<ujsor/>
-Megnevezés: teremgarázshely.<ujsor/>
-Terület: 14 m2.<ujsor/>
-Az ingatlan irányára: 600 000 Ft.<ujsor/>
-Az ingatlan értékesítése áfamentes.<ujsor/>
-Pályázati feltételek:<ujsor/>
-Az ingatlan értékesítése a felszámolásokra vonatkozó, többször módosított 1991. évi XLIX. tv. szerint, pályázat benyújtásával és annak értékelésével történik. Az ajánlatot írásban kell benyújtani „Wigo Kft.” megjelöléssel.<ujsor/>
-A pályázat benyújtásának határideje: 2011. november 7. 10 óra.<ujsor/>
-A pályázat benyújtásának helye: KERSZI Zrt. titkársága (1143 Budapest, Besnyõi u. 13. I. emelet).<ujsor/>
-A pályázat bontásának helyszíne: KERSZI Zrt. (1143 Budapest, Besnyõi u. 13. I. emelet).<ujsor/>
-A pályázat bontásának ideje: 2011. november 8. 11 óra.<ujsor/>
-A pályázatnak tartalmaznia kell:<ujsor/>
-­ a megvásárolni szándékozott vagyontárgy pontos megnevezését,<ujsor/>
-­ az egyértelmûen meghatározott vételi árat és fizetési feltételt,<ujsor/>
-­ az ajánlattevõ adatait (társaság esetében cégkivonat, aláírási címpéldány),<ujsor/>
-­ az eladó kellékszavatossága, garanciája teljes körû kizárására vonatkozó írásbeli tudomásulvételének nyilatkozatát,<ujsor/>
-­ a tulajdonszerzési jogosultságra vonatkozó írásbeli nyilatkozatot,<ujsor/>
-­ 60 napos ajánlati kötöttségre vonatkozó nyilatkozatot,<ujsor/>
-­ a bánatpénz megfizetésének igazolását.<ujsor/>
-Bánatpénz:<ujsor/>
-A pályázati bánatpénz a 10 000 000 Ft-nál alacsonyabb összegû irányár esetén a becsérték 5%-a, 10 000 000 Ft vagy annál magasabb összegû becsérték esetén annak 3%-a, melyet a KERSZI Zrt. erre elkülönített 10200964-20213431-00000000 számú számlájára „Pályázat” megjelöléssel, vagy a felszámolónál történõ letétbe helyezéssel kell megfizetni, legkésõbb a pályázat beadásáig.<ujsor/>
-A bánatpénz a vételárba beszámít, nyertes pályázó visszalépése esetén a bánatpénz nem jár vissza. Az elutasított pályázók által befizetett bánatpénzt a felszámoló 5 napon belül visszautalja.<ujsor/>
-A pályázatokat a kiíró közjegyzõ jelenlétében bontja, amelyrõl jegyzõkönyv készül.<ujsor/>
-A pályázatok nyilvános eredményhirdetésére 2011. november 8-án 11 óra 30 perckor kerül sor, amelynek helyszíne: KERSZI Zrt., 1143 Budapest, Besnyõi u. 13. I. emelet.<ujsor/>
-Több megfelelõ, azonos értékû (legfeljebb 10%-kal eltérõ) pályázat esetén a felszámoló a pályázók között ártárgyalást tart, amelyre közvetlenül az eredményhirdetés után kerül sor a kiíró címén (1143 Budapest, Besnyõi u. 13. I. emelet).<ujsor/>
-A nyertes pályázó köteles az eredményhirdetést követõ 15 napon belül az adásvételi szerzõdést megkötni, és a vételár bánatpénzzel csökkentett összegét a szerzõdés aláírását követõ 45 napon belül átutalással vagy készpénzzel lehet kiegyenlíteni.<ujsor/>
-A vételárba hitelezõi igény beszámítására nincs lehetõség, az ingatlan tulajdonba adásának feltétele a teljes vételár megfizetése.<ujsor/>
-A kiíró fenntartja magának a jogot, hogy megfelelõ ajánlat hiányában a pályázatot eredménytelennek nyilvánítsa.<ujsor/>
-Az ingatlan megtekinthetõ Juhász Jánossal [06 (30) 255-6580] történõ elõzetes egyeztetést követõen.<ujsor/>
-A nyilvános értékesítésre meghirdetett ingatlanról készített részletes pályázati tájékoztató megtekinthetõ a KERSZI Zrt. 1143 Budapest, Besnyõi u. 13. szám alatti irodájában.<ujsor/>
-További tájékoztatás kérhetõ Pintérné Fodor Gabriellától a 06 (1) 465-0950-es telefonszámon.<ujsor/>
+<mezo id = "szoveg">A KERSZI Kereskedelmi Ã©s PÃ©nzÃ¼gyi SzervezÃ©si TanÃ¡csadÃ³ Zrt. (Cg.: [01 10 041640]; szÃ©khely: 1143 Budapest, BesnyÅ‘i u. 13.) mint a Wigo IngatlanfejlesztÅ‘ Ã©s TanÃ¡csadÃ³ Kft. â€f. a.â€ (Cg.: [01 09 699670]; szÃ©khely: 1037 Budapest, SeregÃ©ly u. 9.; adÃ³szÃ¡m: 12710555-2-41]) FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g 17. Fpk. 01-08-000438/4. sz. vÃ©gzÃ©sÃ©vel kijelÃ¶lt felszÃ¡molÃ³ja,<ujsor/>
+nyilvÃ¡nos pÃ¡lyÃ¡zat ÃºtjÃ¡n<ujsor/>
+Ã©rtÃ©kesÃ­ti az adÃ³s tÃ¡rsasÃ¡g alÃ¡bbi ingatlanÃ¡t.<ujsor/>
+Az ingatlan fÅ‘bb adatai:<ujsor/>
+CÃ­me: 8380 HÃ©vÃ­z, Fortuna u. 5. A/16. sz.<ujsor/>
+Helyrajzi szÃ¡m: 423/8/A/16.<ujsor/>
+MegnevezÃ©s: teremgarÃ¡zshely.<ujsor/>
+TerÃ¼let: 14 m2.<ujsor/>
+Az ingatlan irÃ¡nyÃ¡ra: 600 000 Ft.<ujsor/>
+Az ingatlan Ã©rtÃ©kesÃ­tÃ©se Ã¡famentes.<ujsor/>
+PÃ¡lyÃ¡zati feltÃ©telek:<ujsor/>
+Az ingatlan Ã©rtÃ©kesÃ­tÃ©se a felszÃ¡molÃ¡sokra vonatkozÃ³, tÃ¶bbszÃ¶r mÃ³dosÃ­tott 1991. Ã©vi XLIX. tv. szerint, pÃ¡lyÃ¡zat benyÃºjtÃ¡sÃ¡val Ã©s annak Ã©rtÃ©kelÃ©sÃ©vel tÃ¶rtÃ©nik. Az ajÃ¡nlatot Ã­rÃ¡sban kell benyÃºjtani â€Wigo Kft.â€ megjelÃ¶lÃ©ssel.<ujsor/>
+A pÃ¡lyÃ¡zat benyÃºjtÃ¡sÃ¡nak hatÃ¡rideje: 2011. november 7. 10 Ã³ra.<ujsor/>
+A pÃ¡lyÃ¡zat benyÃºjtÃ¡sÃ¡nak helye: KERSZI Zrt. titkÃ¡rsÃ¡ga (1143 Budapest, BesnyÅ‘i u. 13. I. emelet).<ujsor/>
+A pÃ¡lyÃ¡zat bontÃ¡sÃ¡nak helyszÃ­ne: KERSZI Zrt. (1143 Budapest, BesnyÅ‘i u. 13. I. emelet).<ujsor/>
+A pÃ¡lyÃ¡zat bontÃ¡sÃ¡nak ideje: 2011. november 8. 11 Ã³ra.<ujsor/>
+A pÃ¡lyÃ¡zatnak tartalmaznia kell:<ujsor/>
+Â­ a megvÃ¡sÃ¡rolni szÃ¡ndÃ©kozott vagyontÃ¡rgy pontos megnevezÃ©sÃ©t,<ujsor/>
+Â­ az egyÃ©rtelmÅ±en meghatÃ¡rozott vÃ©teli Ã¡rat Ã©s fizetÃ©si feltÃ©telt,<ujsor/>
+Â­ az ajÃ¡nlattevÅ‘ adatait (tÃ¡rsasÃ¡g esetÃ©ben cÃ©gkivonat, alÃ¡Ã­rÃ¡si cÃ­mpÃ©ldÃ¡ny),<ujsor/>
+Â­ az eladÃ³ kellÃ©kszavatossÃ¡ga, garanciÃ¡ja teljes kÃ¶rÅ± kizÃ¡rÃ¡sÃ¡ra vonatkozÃ³ Ã­rÃ¡sbeli tudomÃ¡sulvÃ©telÃ©nek nyilatkozatÃ¡t,<ujsor/>
+Â­ a tulajdonszerzÃ©si jogosultsÃ¡gra vonatkozÃ³ Ã­rÃ¡sbeli nyilatkozatot,<ujsor/>
+Â­ 60 napos ajÃ¡nlati kÃ¶tÃ¶ttsÃ©gre vonatkozÃ³ nyilatkozatot,<ujsor/>
+Â­ a bÃ¡natpÃ©nz megfizetÃ©sÃ©nek igazolÃ¡sÃ¡t.<ujsor/>
+BÃ¡natpÃ©nz:<ujsor/>
+A pÃ¡lyÃ¡zati bÃ¡natpÃ©nz a 10 000 000 Ft-nÃ¡l alacsonyabb Ã¶sszegÅ± irÃ¡nyÃ¡r esetÃ©n a becsÃ©rtÃ©k 5%-a, 10 000 000 Ft vagy annÃ¡l magasabb Ã¶sszegÅ± becsÃ©rtÃ©k esetÃ©n annak 3%-a, melyet a KERSZI Zrt. erre elkÃ¼lÃ¶nÃ­tett 10200964-20213431-00000000 szÃ¡mÃº szÃ¡mlÃ¡jÃ¡ra â€PÃ¡lyÃ¡zatâ€ megjelÃ¶lÃ©ssel, vagy a felszÃ¡molÃ³nÃ¡l tÃ¶rtÃ©nÅ‘ letÃ©tbe helyezÃ©ssel kell megfizetni, legkÃ©sÅ‘bb a pÃ¡lyÃ¡zat beadÃ¡sÃ¡ig.<ujsor/>
+A bÃ¡natpÃ©nz a vÃ©telÃ¡rba beszÃ¡mÃ­t, nyertes pÃ¡lyÃ¡zÃ³ visszalÃ©pÃ©se esetÃ©n a bÃ¡natpÃ©nz nem jÃ¡r vissza. Az elutasÃ­tott pÃ¡lyÃ¡zÃ³k Ã¡ltal befizetett bÃ¡natpÃ©nzt a felszÃ¡molÃ³ 5 napon belÃ¼l visszautalja.<ujsor/>
+A pÃ¡lyÃ¡zatokat a kiÃ­rÃ³ kÃ¶zjegyzÅ‘ jelenlÃ©tÃ©ben bontja, amelyrÅ‘l jegyzÅ‘kÃ¶nyv kÃ©szÃ¼l.<ujsor/>
+A pÃ¡lyÃ¡zatok nyilvÃ¡nos eredmÃ©nyhirdetÃ©sÃ©re 2011. november 8-Ã¡n 11 Ã³ra 30 perckor kerÃ¼l sor, amelynek helyszÃ­ne: KERSZI Zrt., 1143 Budapest, BesnyÅ‘i u. 13. I. emelet.<ujsor/>
+TÃ¶bb megfelelÅ‘, azonos Ã©rtÃ©kÅ± (legfeljebb 10%-kal eltÃ©rÅ‘) pÃ¡lyÃ¡zat esetÃ©n a felszÃ¡molÃ³ a pÃ¡lyÃ¡zÃ³k kÃ¶zÃ¶tt Ã¡rtÃ¡rgyalÃ¡st tart, amelyre kÃ¶zvetlenÃ¼l az eredmÃ©nyhirdetÃ©s utÃ¡n kerÃ¼l sor a kiÃ­rÃ³ cÃ­mÃ©n (1143 Budapest, BesnyÅ‘i u. 13. I. emelet).<ujsor/>
+A nyertes pÃ¡lyÃ¡zÃ³ kÃ¶teles az eredmÃ©nyhirdetÃ©st kÃ¶vetÅ‘ 15 napon belÃ¼l az adÃ¡svÃ©teli szerzÅ‘dÃ©st megkÃ¶tni, Ã©s a vÃ©telÃ¡r bÃ¡natpÃ©nzzel csÃ¶kkentett Ã¶sszegÃ©t a szerzÅ‘dÃ©s alÃ¡Ã­rÃ¡sÃ¡t kÃ¶vetÅ‘ 45 napon belÃ¼l Ã¡tutalÃ¡ssal vagy kÃ©szpÃ©nzzel lehet kiegyenlÃ­teni.<ujsor/>
+A vÃ©telÃ¡rba hitelezÅ‘i igÃ©ny beszÃ¡mÃ­tÃ¡sÃ¡ra nincs lehetÅ‘sÃ©g, az ingatlan tulajdonba adÃ¡sÃ¡nak feltÃ©tele a teljes vÃ©telÃ¡r megfizetÃ©se.<ujsor/>
+A kiÃ­rÃ³ fenntartja magÃ¡nak a jogot, hogy megfelelÅ‘ ajÃ¡nlat hiÃ¡nyÃ¡ban a pÃ¡lyÃ¡zatot eredmÃ©nytelennek nyilvÃ¡nÃ­tsa.<ujsor/>
+Az ingatlan megtekinthetÅ‘ JuhÃ¡sz JÃ¡nossal [06 (30) 255-6580] tÃ¶rtÃ©nÅ‘ elÅ‘zetes egyeztetÃ©st kÃ¶vetÅ‘en.<ujsor/>
+A nyilvÃ¡nos Ã©rtÃ©kesÃ­tÃ©sre meghirdetett ingatlanrÃ³l kÃ©szÃ­tett rÃ©szletes pÃ¡lyÃ¡zati tÃ¡jÃ©koztatÃ³ megtekinthetÅ‘ a KERSZI Zrt. 1143 Budapest, BesnyÅ‘i u. 13. szÃ¡m alatti irodÃ¡jÃ¡ban.<ujsor/>
+TovÃ¡bbi tÃ¡jÃ©koztatÃ¡s kÃ©rhetÅ‘ PintÃ©rnÃ© Fodor GabriellÃ¡tÃ³l a 06 (1) 465-0950-es telefonszÃ¡mon.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109699670</mezo>
-<mezo id = "nev">WIGO Ingatlanfejlesztõ és Tanácsadó Korlátolt Felelõsségû Társaság &quot;felszámolás alatt &quot;</mezo>
+<mezo id = "nev">WIGO IngatlanfejlesztÅ‘ Ã©s TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g &quot;felszÃ¡molÃ¡s alatt &quot;</mezo>
 <mezo id = "cim">1037 Budapest</mezo>
 </alrovat>
 </rovat>

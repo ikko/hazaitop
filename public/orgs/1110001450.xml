@@ -5,7 +5,7 @@
 <mezo id = "cf">10</mezo>
 <mezo id = "szam">001450</mezo>
 <mezo id = "nevalrovat">2</mezo>
-<mezo id = "cim">2800 Tatabánya, Sárberek l00. </mezo>
+<mezo id = "cim">2800 TatabÃ¡nya, SÃ¡rberek l00. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">11186748211</mezo>
 </alrovat>
@@ -13,29 +13,29 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20060606</mezo>
-<mezo id = "nev">Északdunántúli Vízmû Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">Ã‰szakdunÃ¡ntÃºli VÃ­zmÅ± ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "2">
 <mezo id = "hattol">20060606</mezo>
-<mezo id = "nev">ÉDV Zrt .</mezo>
+<mezo id = "nev">Ã‰DV Zrt .</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
 <alrovat id = "1">
 <mezo id = "hattol">19930401</mezo>
 <mezo id = "irsz">2800</mezo>
-<mezo id = "hely">Tatabánya</mezo>
-<mezo id = "teru">Sárberek l00.</mezo>
+<mezo id = "hely">TatabÃ¡nya</mezo>
+<mezo id = "teru">SÃ¡rberek l00.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "6">
 <alrovat id = "8">
 <mezo id = "hattol">20091210</mezo>
 <mezo id = "irsz">2800</mezo>
-<mezo id = "hely">Tatabánya Tatabánya-Tata-BIRV Vízmû Üzem</mezo>
-<mezo id = "teru">Táncsics Mihály utca 3.</mezo>
+<mezo id = "hely">TatabÃ¡nya TatabÃ¡nya-Tata-BIRV VÃ­zmÅ± Ãœzem</mezo>
+<mezo id = "teru">TÃ¡ncsics MihÃ¡ly utca 3.</mezo>
 <mezo id = "valtk">20091210</mezo>
 <mezo id = "bkelt">20100115</mezo>
 </alrovat>
@@ -44,7 +44,7 @@
 <alrovat id = "9">
 <mezo id = "hattol">20091210</mezo>
 <mezo id = "irsz">2510</mezo>
-<mezo id = "hely">Dorog Esztergom-Dorog Vízmû Üzem</mezo>
+<mezo id = "hely">Dorog Esztergom-Dorog VÃ­zmÅ± Ãœzem</mezo>
 <mezo id = "teru">Esztergomi utca 48.</mezo>
 <mezo id = "valtk">20091210</mezo>
 <mezo id = "bkelt">20100115</mezo>
@@ -52,8 +52,8 @@
 <alrovat id = "11">
 <mezo id = "hattol">20091210</mezo>
 <mezo id = "irsz">2840</mezo>
-<mezo id = "hely">Oroszlány Oroszlány-Kisbér Vízmû Üzem</mezo>
-<mezo id = "teru">Táncsics Mihály utca 103.</mezo>
+<mezo id = "hely">OroszlÃ¡ny OroszlÃ¡ny-KisbÃ©r VÃ­zmÅ± Ãœzem</mezo>
+<mezo id = "teru">TÃ¡ncsics MihÃ¡ly utca 103.</mezo>
 <mezo id = "valtk">20091210</mezo>
 <mezo id = "bkelt">20100115</mezo>
 </alrovat>
@@ -61,15 +61,15 @@
 <mezo id = "hattol">20100129</mezo>
 <mezo id = "irsz">2500</mezo>
 <mezo id = "hely">Esztergom</mezo>
-<mezo id = "teru">Táti utca 26.</mezo>
+<mezo id = "teru">TÃ¡ti utca 26.</mezo>
 <mezo id = "valtk">20100129</mezo>
 <mezo id = "bkelt">20100305</mezo>
 </alrovat>
 <alrovat id = "15">
 <mezo id = "hattol">20100129</mezo>
 <mezo id = "irsz">2870</mezo>
-<mezo id = "hely">Kisbér</mezo>
-<mezo id = "teru">Vásártér utca 47.</mezo>
+<mezo id = "hely">KisbÃ©r</mezo>
+<mezo id = "teru">VÃ¡sÃ¡rtÃ©r utca 47.</mezo>
 <mezo id = "valtk">20100129</mezo>
 <mezo id = "bkelt">20100305</mezo>
 </alrovat>
@@ -77,7 +77,7 @@
 <mezo id = "hattol">20100129</mezo>
 <mezo id = "irsz">2890</mezo>
 <mezo id = "hely">Tata</mezo>
-<mezo id = "teru">Dobroszláv utca 6.</mezo>
+<mezo id = "teru">DobroszlÃ¡v utca 6.</mezo>
 <mezo id = "valtk">20100129</mezo>
 <mezo id = "bkelt">20100305</mezo>
 </alrovat>
@@ -1454,10 +1454,10 @@
 <rovat id = "13">
 <alrovat id = "26">
 <mezo id = "hattol">20040624</mezo>
-<mezo id = "pnev">Móré János</mezo>
-<mezo id = "panev">Kovács Erzsébet</mezo>
+<mezo id = "pnev">MÃ³rÃ© JÃ¡nos</mezo>
+<mezo id = "panev">KovÃ¡cs ErzsÃ©bet</mezo>
 <mezo id = "pirsz">1133</mezo>
-<mezo id = "phely">Budapest, Kárpát u. 44.</mezo>
+<mezo id = "phely">Budapest, KÃ¡rpÃ¡t u. 44.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">2</mezo>
 <mezo id = "jogvk">20030425</mezo>
@@ -1465,50 +1465,50 @@
 </alrovat>
 <alrovat id = "29">
 <mezo id = "hattol">20040506</mezo>
-<mezo id = "pnev">Németh Eszter</mezo>
-<mezo id = "panev">Hornyák Ilona</mezo>
+<mezo id = "pnev">NÃ©meth Eszter</mezo>
+<mezo id = "panev">HornyÃ¡k Ilona</mezo>
 <mezo id = "pirsz">2800</mezo>
-<mezo id = "phely">Tatabánya, Hadsereg u. 101.</mezo>
+<mezo id = "phely">TatabÃ¡nya, Hadsereg u. 101.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">19980601</mezo>
 </alrovat>
 <alrovat id = "30">
 <mezo id = "hattol">20040506</mezo>
-<mezo id = "pnev">Dr. Szigligeti János</mezo>
-<mezo id = "panev">Nagy Márta</mezo>
+<mezo id = "pnev">Dr. Szigligeti JÃ¡nos</mezo>
+<mezo id = "panev">Nagy MÃ¡rta</mezo>
 <mezo id = "pirsz">2890</mezo>
-<mezo id = "phely">Tata, Hámán K. u. 20.</mezo>
+<mezo id = "phely">Tata, HÃ¡mÃ¡n K. u. 20.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">19930401</mezo>
 </alrovat>
 <alrovat id = "31">
 <mezo id = "hattol">20040217</mezo>
-<mezo id = "pnev">Molnár András</mezo>
-<mezo id = "panev">Léber Borbála</mezo>
+<mezo id = "pnev">MolnÃ¡r AndrÃ¡s</mezo>
+<mezo id = "panev">LÃ©ber BorbÃ¡la</mezo>
 <mezo id = "pirsz">2836</mezo>
-<mezo id = "phely">Baj, Jókai u. 72/a.</mezo>
+<mezo id = "phely">Baj, JÃ³kai u. 72/a.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20040217</mezo>
 </alrovat>
 <alrovat id = "32">
 <mezo id = "hattol">20040217</mezo>
-<mezo id = "pnev">Pathó Mónika</mezo>
+<mezo id = "pnev">PathÃ³ MÃ³nika</mezo>
 <mezo id = "panev">Szivok Vilma</mezo>
 <mezo id = "pirsz">2800</mezo>
-<mezo id = "phely">Tatabánya, Sárberki ltp. 324. 1/6.</mezo>
+<mezo id = "phely">TatabÃ¡nya, SÃ¡rberki ltp. 324. 1/6.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20040217</mezo>
 </alrovat>
 <alrovat id = "34">
 <mezo id = "hattol">20040217</mezo>
-<mezo id = "pnev">Pintér Imre István</mezo>
-<mezo id = "panev">Pénzes Mária</mezo>
+<mezo id = "pnev">PintÃ©r Imre IstvÃ¡n</mezo>
+<mezo id = "panev">PÃ©nzes MÃ¡ria</mezo>
 <mezo id = "pirsz">2890</mezo>
-<mezo id = "phely">Tata, Egység út 3. 6/2.</mezo>
+<mezo id = "phely">Tata, EgysÃ©g Ãºt 3. 6/2.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20040217</mezo>
@@ -1518,17 +1518,17 @@
 <mezo id = "pnev">Szerdahelyi Katalin</mezo>
 <mezo id = "panev">Hajder Edit</mezo>
 <mezo id = "pirsz">2800</mezo>
-<mezo id = "phely">Tatabánya, Gál I. ltp. 214. 4/3.</mezo>
+<mezo id = "phely">TatabÃ¡nya, GÃ¡l I. ltp. 214. 4/3.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20040217</mezo>
 </alrovat>
 <alrovat id = "38">
 <mezo id = "hattol">20040217</mezo>
-<mezo id = "pnev">Tóth Mária</mezo>
-<mezo id = "panev">Szabó Mária</mezo>
+<mezo id = "pnev">TÃ³th MÃ¡ria</mezo>
+<mezo id = "panev">SzabÃ³ MÃ¡ria</mezo>
 <mezo id = "pirsz">2890</mezo>
-<mezo id = "phely">Tata, Május 1. út 35/1. 1/6.</mezo>
+<mezo id = "phely">Tata, MÃ¡jus 1. Ãºt 35/1. 1/6.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20040217</mezo>
@@ -1536,7 +1536,7 @@
 <alrovat id = "39">
 <mezo id = "hattol">20040217</mezo>
 <mezo id = "pnev">Vasi Imre</mezo>
-<mezo id = "panev">Mészáros Erzsébet</mezo>
+<mezo id = "panev">MÃ©szÃ¡ros ErzsÃ©bet</mezo>
 <mezo id = "pirsz">2890</mezo>
 <mezo id = "phely">Tata, Tavasz u. 56.</mezo>
 <mezo id = "kepve">x</mezo>
@@ -1545,28 +1545,28 @@
 </alrovat>
 <alrovat id = "41">
 <mezo id = "hattol">20040217</mezo>
-<mezo id = "pnev">Botos Tamás</mezo>
-<mezo id = "panev">Cserba Vanda Klára</mezo>
+<mezo id = "pnev">Botos TamÃ¡s</mezo>
+<mezo id = "panev">Cserba Vanda KlÃ¡ra</mezo>
 <mezo id = "pirsz">2500</mezo>
-<mezo id = "phely">Esztergom, Kossuth út 2.</mezo>
+<mezo id = "phely">Esztergom, Kossuth Ãºt 2.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20040217</mezo>
 </alrovat>
 <alrovat id = "43">
 <mezo id = "hattol">20040217</mezo>
-<mezo id = "pnev">Kiss József</mezo>
-<mezo id = "panev">Luczi Mária</mezo>
+<mezo id = "pnev">Kiss JÃ³zsef</mezo>
+<mezo id = "panev">Luczi MÃ¡ria</mezo>
 <mezo id = "pirsz">2800</mezo>
-<mezo id = "phely">Tatabánya, Gál I. ltp. 704. 1/7.</mezo>
+<mezo id = "phely">TatabÃ¡nya, GÃ¡l I. ltp. 704. 1/7.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20040217</mezo>
 </alrovat>
 <alrovat id = "45">
 <mezo id = "hattol">20040217</mezo>
-<mezo id = "pnev">Szabó Lajos</mezo>
-<mezo id = "panev">Kovács Irma</mezo>
+<mezo id = "pnev">SzabÃ³ Lajos</mezo>
+<mezo id = "panev">KovÃ¡cs Irma</mezo>
 <mezo id = "pirsz">2884</mezo>
 <mezo id = "phely">Bakonyszombathely, Kossuth u. 43.</mezo>
 <mezo id = "kepve">x</mezo>
@@ -1575,20 +1575,20 @@
 </alrovat>
 <alrovat id = "48">
 <mezo id = "hattol">20040217</mezo>
-<mezo id = "pnev">Danics Tamás</mezo>
-<mezo id = "panev">Strigovics Mária</mezo>
+<mezo id = "pnev">Danics TamÃ¡s</mezo>
+<mezo id = "panev">Strigovics MÃ¡ria</mezo>
 <mezo id = "pirsz">2500</mezo>
-<mezo id = "phely">Esztergom, Szentkirály út 56/3.</mezo>
+<mezo id = "phely">Esztergom, SzentkirÃ¡ly Ãºt 56/3.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20040217</mezo>
 </alrovat>
 <alrovat id = "49">
 <mezo id = "hattol">20040217</mezo>
-<mezo id = "pnev">Gáldonyi Mihály</mezo>
+<mezo id = "pnev">GÃ¡ldonyi MihÃ¡ly</mezo>
 <mezo id = "panev">Zentai Katalin</mezo>
 <mezo id = "pirsz">2800</mezo>
-<mezo id = "phely">Tatabánya, Sárberki út 92.</mezo>
+<mezo id = "phely">TatabÃ¡nya, SÃ¡rberki Ãºt 92.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20040217</mezo>
@@ -1596,47 +1596,47 @@
 <alrovat id = "54">
 <mezo id = "hattol">20040217</mezo>
 <mezo id = "pnev">Rajos Ede</mezo>
-<mezo id = "panev">Putyera Mária</mezo>
+<mezo id = "panev">Putyera MÃ¡ria</mezo>
 <mezo id = "pirsz">2800</mezo>
-<mezo id = "phely">Tatabánya, Vadász u. 44. 2/3.</mezo>
+<mezo id = "phely">TatabÃ¡nya, VadÃ¡sz u. 44. 2/3.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20040217</mezo>
 </alrovat>
 <alrovat id = "57">
 <mezo id = "hattol">20040217</mezo>
-<mezo id = "pnev">Zalányiné Sárközi Lívia</mezo>
-<mezo id = "panev">Körmendi Lívia</mezo>
+<mezo id = "pnev">ZalÃ¡nyinÃ© SÃ¡rkÃ¶zi LÃ­via</mezo>
+<mezo id = "panev">KÃ¶rmendi LÃ­via</mezo>
 <mezo id = "pirsz">2890</mezo>
-<mezo id = "phely">Tata, Bláthy O. út 11. 2/7.</mezo>
+<mezo id = "phely">Tata, BlÃ¡thy O. Ãºt 11. 2/7.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20040217</mezo>
 </alrovat>
 <alrovat id = "58">
 <mezo id = "hattol">20040217</mezo>
-<mezo id = "pnev">Németh Julianna</mezo>
+<mezo id = "pnev">NÃ©meth Julianna</mezo>
 <mezo id = "panev">Czecz Julianna</mezo>
 <mezo id = "pirsz">2840</mezo>
-<mezo id = "phely">Oroszlány, Tópart u. 6. 4/1.</mezo>
+<mezo id = "phely">OroszlÃ¡ny, TÃ³part u. 6. 4/1.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20040217</mezo>
 </alrovat>
 <alrovat id = "59">
 <mezo id = "hattol">20040217</mezo>
-<mezo id = "pnev">Mogyorósi Judit</mezo>
-<mezo id = "panev">Rémai Klára</mezo>
+<mezo id = "pnev">MogyorÃ³si Judit</mezo>
+<mezo id = "panev">RÃ©mai KlÃ¡ra</mezo>
 <mezo id = "pirsz">2870</mezo>
-<mezo id = "phely">Kisbér, Deák F. u. 89.</mezo>
+<mezo id = "phely">KisbÃ©r, DeÃ¡k F. u. 89.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20040217</mezo>
 </alrovat>
 <alrovat id = "63">
 <mezo id = "hattol">20040217</mezo>
-<mezo id = "pnev">Sebõk József</mezo>
-<mezo id = "panev">Honvéd Anna</mezo>
+<mezo id = "pnev">SebÅ‘k JÃ³zsef</mezo>
+<mezo id = "panev">HonvÃ©d Anna</mezo>
 <mezo id = "pirsz">2890</mezo>
 <mezo id = "phely">Tata, Kiss E. u. 21.</mezo>
 <mezo id = "kepve">x</mezo>
@@ -1645,18 +1645,18 @@
 </alrovat>
 <alrovat id = "74">
 <mezo id = "hattol">20041116</mezo>
-<mezo id = "pnev">Makovi Péter</mezo>
-<mezo id = "panev">Bak Éva</mezo>
+<mezo id = "pnev">Makovi PÃ©ter</mezo>
+<mezo id = "panev">Bak Ã‰va</mezo>
 <mezo id = "pirsz">2840</mezo>
-<mezo id = "phely">Oroszlány, Erdész u. 24.</mezo>
+<mezo id = "phely">OroszlÃ¡ny, ErdÃ©sz u. 24.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20041116</mezo>
 </alrovat>
 <alrovat id = "77">
 <mezo id = "hattol">20050203</mezo>
-<mezo id = "pnev">Diószegi Eszter</mezo>
-<mezo id = "panev">Király Eszter</mezo>
+<mezo id = "pnev">DiÃ³szegi Eszter</mezo>
+<mezo id = "panev">KirÃ¡ly Eszter</mezo>
 <mezo id = "pirsz">2890</mezo>
 <mezo id = "phely">Tata, Sport u. 23.</mezo>
 <mezo id = "kepve">x</mezo>
@@ -1665,30 +1665,30 @@
 </alrovat>
 <alrovat id = "79">
 <mezo id = "hattol">20050203</mezo>
-<mezo id = "pnev">Hornyák Dávid</mezo>
+<mezo id = "pnev">HornyÃ¡k DÃ¡vid</mezo>
 <mezo id = "panev">Szileszki Katalin</mezo>
 <mezo id = "pirsz">2800</mezo>
-<mezo id = "phely">Tatabánya, Nyárfa u. 2.</mezo>
+<mezo id = "phely">TatabÃ¡nya, NyÃ¡rfa u. 2.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20050203</mezo>
 </alrovat>
 <alrovat id = "86">
 <mezo id = "hattol">20051122</mezo>
-<mezo id = "pnev">Gerencsér Károly</mezo>
-<mezo id = "panev">Szabó Mária</mezo>
+<mezo id = "pnev">GerencsÃ©r KÃ¡roly</mezo>
+<mezo id = "panev">SzabÃ³ MÃ¡ria</mezo>
 <mezo id = "pirsz">2890</mezo>
-<mezo id = "phely">Tata, Új út 24.</mezo>
+<mezo id = "phely">Tata, Ãšj Ãºt 24.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">2</mezo>
 <mezo id = "jogvk">20051122</mezo>
 </alrovat>
 <alrovat id = "87">
 <mezo id = "hattol">20051122</mezo>
-<mezo id = "pnev">Tóth Attila</mezo>
+<mezo id = "pnev">TÃ³th Attila</mezo>
 <mezo id = "panev">Veres Etelka</mezo>
 <mezo id = "pirsz">2800</mezo>
-<mezo id = "phely">Tatabánya, Köztársaság u. 12. 2/3.</mezo>
+<mezo id = "phely">TatabÃ¡nya, KÃ¶ztÃ¡rsasÃ¡g u. 12. 2/3.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">2</mezo>
 <mezo id = "jogvk">20051122</mezo>
@@ -1696,9 +1696,9 @@
 <alrovat id = "95">
 <mezo id = "hattol">20070123</mezo>
 <mezo id = "pnev">Rigla Andrea</mezo>
-<mezo id = "panev">Csukat Mária Magdolna</mezo>
+<mezo id = "panev">Csukat MÃ¡ria Magdolna</mezo>
 <mezo id = "pirsz">2890</mezo>
-<mezo id = "phely">Tata, Agostyáni u. 31/b.</mezo>
+<mezo id = "phely">Tata, AgostyÃ¡ni u. 31/b.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20061212</mezo>
@@ -1708,7 +1708,7 @@
 <alrovat id = "96">
 <mezo id = "hattol">20070123</mezo>
 <mezo id = "pnev">Rotbauer Zsolt</mezo>
-<mezo id = "panev">Gorzsázs Anna</mezo>
+<mezo id = "panev">GorzsÃ¡zs Anna</mezo>
 <mezo id = "pirsz">2510</mezo>
 <mezo id = "phely">Dorog, Baross G. ltp. 20. fszt. 28.</mezo>
 <mezo id = "kepve">x</mezo>
@@ -1719,10 +1719,10 @@
 </alrovat>
 <alrovat id = "97">
 <mezo id = "hattol">20070123</mezo>
-<mezo id = "pnev">Sinkovics László</mezo>
-<mezo id = "panev">Adorján Erzsébet</mezo>
+<mezo id = "pnev">Sinkovics LÃ¡szlÃ³</mezo>
+<mezo id = "panev">AdorjÃ¡n ErzsÃ©bet</mezo>
 <mezo id = "pirsz">2509</mezo>
-<mezo id = "phely">Esztergom-Kertváros, Nap út 3.</mezo>
+<mezo id = "phely">Esztergom-KertvÃ¡ros, Nap Ãºt 3.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20061212</mezo>
@@ -1731,10 +1731,10 @@
 </alrovat>
 <alrovat id = "100">
 <mezo id = "hattol">20070706</mezo>
-<mezo id = "pnev">Csoknyay György</mezo>
-<mezo id = "panev">Frost Mária</mezo>
+<mezo id = "pnev">Csoknyay GyÃ¶rgy</mezo>
+<mezo id = "panev">Frost MÃ¡ria</mezo>
 <mezo id = "pirsz">2500</mezo>
-<mezo id = "phely">Esztergom, Kis-Duna sétány 40.</mezo>
+<mezo id = "phely">Esztergom, Kis-Duna sÃ©tÃ¡ny 40.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">c</mezo>
 <mezo id = "jogvk">20070601</mezo>
@@ -1744,10 +1744,10 @@
 </alrovat>
 <alrovat id = "112">
 <mezo id = "hattol">20080101</mezo>
-<mezo id = "pnev">Kozma Bálint</mezo>
-<mezo id = "panev">Marton Mária</mezo>
+<mezo id = "pnev">Kozma BÃ¡lint</mezo>
+<mezo id = "panev">Marton MÃ¡ria</mezo>
 <mezo id = "pirsz">2800</mezo>
-<mezo id = "phely">Tatabánya, Moravcsik u. 39.</mezo>
+<mezo id = "phely">TatabÃ¡nya, Moravcsik u. 39.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20080101</mezo>
@@ -1758,10 +1758,10 @@
 </alrovat>
 <alrovat id = "113">
 <mezo id = "hattol">20080101</mezo>
-<mezo id = "pnev">Mátis István</mezo>
-<mezo id = "panev">Nagy Rozália</mezo>
+<mezo id = "pnev">MÃ¡tis IstvÃ¡n</mezo>
+<mezo id = "panev">Nagy RozÃ¡lia</mezo>
 <mezo id = "pirsz">2840</mezo>
-<mezo id = "phely">Oroszlány, Bányász krt. 37.</mezo>
+<mezo id = "phely">OroszlÃ¡ny, BÃ¡nyÃ¡sz krt. 37.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20080101</mezo>
@@ -1772,10 +1772,10 @@
 </alrovat>
 <alrovat id = "114">
 <mezo id = "hattol">20080101</mezo>
-<mezo id = "pnev">Dr. Varga György Péter</mezo>
-<mezo id = "panev">Józsa Éva</mezo>
+<mezo id = "pnev">Dr. Varga GyÃ¶rgy PÃ©ter</mezo>
+<mezo id = "panev">JÃ³zsa Ã‰va</mezo>
 <mezo id = "pirsz">2800</mezo>
-<mezo id = "phely">Tatabánya, Mártírok útja 39.</mezo>
+<mezo id = "phely">TatabÃ¡nya, MÃ¡rtÃ­rok Ãºtja 39.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20080101</mezo>
@@ -1786,10 +1786,10 @@
 </alrovat>
 <alrovat id = "117">
 <mezo id = "hattol">20080916</mezo>
-<mezo id = "pnev">Juhászné Csirke Magdolna</mezo>
-<mezo id = "panev">Bognár Mária</mezo>
+<mezo id = "pnev">JuhÃ¡sznÃ© Csirke Magdolna</mezo>
+<mezo id = "panev">BognÃ¡r MÃ¡ria</mezo>
 <mezo id = "pirsz">2890</mezo>
-<mezo id = "phely">Tata, Május 1. út 6/a. 1. em. 1.</mezo>
+<mezo id = "phely">Tata, MÃ¡jus 1. Ãºt 6/a. 1. em. 1.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20040217</mezo>
@@ -1800,10 +1800,10 @@
 </alrovat>
 <alrovat id = "118">
 <mezo id = "hattol">20080929</mezo>
-<mezo id = "pnev">Molnár Brigitta</mezo>
+<mezo id = "pnev">MolnÃ¡r Brigitta</mezo>
 <mezo id = "panev">Harmath Ilona</mezo>
 <mezo id = "pirsz">2800</mezo>
-<mezo id = "phely">Tatabánya, Béla király krt. 3. 3. em. 3.</mezo>
+<mezo id = "phely">TatabÃ¡nya, BÃ©la kirÃ¡ly krt. 3. 3. em. 3.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20081001</mezo>
@@ -1814,10 +1814,10 @@
 </alrovat>
 <alrovat id = "121">
 <mezo id = "hattol">20090401</mezo>
-<mezo id = "pnev">Dr. Sencz József</mezo>
-<mezo id = "panev">Vass Mária</mezo>
+<mezo id = "pnev">Dr. Sencz JÃ³zsef</mezo>
+<mezo id = "panev">Vass MÃ¡ria</mezo>
 <mezo id = "pirsz">1029</mezo>
-<mezo id = "phely">Budapest, Zrínyi Miklós út 9.</mezo>
+<mezo id = "phely">Budapest, ZrÃ­nyi MiklÃ³s Ãºt 9.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20090316</mezo>
@@ -1829,9 +1829,9 @@
 <alrovat id = "122">
 <mezo id = "hattol">20090415</mezo>
 <mezo id = "pnev">Dr. Szirtes-Csoknyay Zsuzsanna</mezo>
-<mezo id = "panev">Tatár Erzsébet</mezo>
+<mezo id = "panev">TatÃ¡r ErzsÃ©bet</mezo>
 <mezo id = "pirsz">2500</mezo>
-<mezo id = "phely">Esztergom, Kis-Duna sétány 40.</mezo>
+<mezo id = "phely">Esztergom, Kis-Duna sÃ©tÃ¡ny 40.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20090415</mezo>
@@ -1843,9 +1843,9 @@
 <alrovat id = "123">
 <mezo id = "hattol">20090415</mezo>
 <mezo id = "pnev">Kreitner Krisztina</mezo>
-<mezo id = "panev">Szabó Zsófia</mezo>
+<mezo id = "panev">SzabÃ³ ZsÃ³fia</mezo>
 <mezo id = "pirsz">2522</mezo>
-<mezo id = "phely">Dág, Deák Ferenc utca 105.</mezo>
+<mezo id = "phely">DÃ¡g, DeÃ¡k Ferenc utca 105.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20090415</mezo>
@@ -1856,12 +1856,12 @@
 </alrovat>
 <alrovat id = "125">
 <mezo id = "hattol">20090801</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Szabó Pál</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">SzabÃ³ PÃ¡l</mezo>
 <mezo id = "panev">Vincze Piroska</mezo>
 <mezo id = "pirsz">2890</mezo>
 <mezo id = "phely">Tata</mezo>
-<mezo id = "pteru">Új út 86.</mezo>
+<mezo id = "pteru">Ãšj Ãºt 86.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20090801</mezo>
 <mezo id = "valtk">20090801</mezo>
@@ -1869,12 +1869,12 @@
 </alrovat>
 <alrovat id = "126">
 <mezo id = "hattol">20090801</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Csiffáry Gabriella</mezo>
-<mezo id = "panev">Molnár Piroska</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">CsiffÃ¡ry Gabriella</mezo>
+<mezo id = "panev">MolnÃ¡r Piroska</mezo>
 <mezo id = "pirsz">2510</mezo>
 <mezo id = "phely">Dorog</mezo>
-<mezo id = "pteru">Fáy lakótelep 1. 2. em. 7.</mezo>
+<mezo id = "pteru">FÃ¡y lakÃ³telep 1. 2. em. 7.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20090801</mezo>
 <mezo id = "valtk">20090801</mezo>
@@ -1882,9 +1882,9 @@
 </alrovat>
 <alrovat id = "130">
 <mezo id = "hattol">20091209</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Kovácsné Esztári Judit</mezo>
-<mezo id = "panev">Hámori Erzsébet</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">KovÃ¡csnÃ© EsztÃ¡ri Judit</mezo>
+<mezo id = "panev">HÃ¡mori ErzsÃ©bet</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20100101</mezo>
 <mezo id = "valtk">20091209</mezo>
@@ -1892,9 +1892,9 @@
 </alrovat>
 <alrovat id = "131">
 <mezo id = "hattol">20100817</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (vezérigazgató)</mezo>
-<mezo id = "pnev">dr. Jelen Tamás</mezo>
-<mezo id = "panev">Baráth Éva</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (vezÃ©rigazgatÃ³)</mezo>
+<mezo id = "pnev">dr. Jelen TamÃ¡s</mezo>
+<mezo id = "panev">BarÃ¡th Ã‰va</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100819</mezo>
 <mezo id = "valtk">20100817</mezo>
@@ -1903,9 +1903,9 @@
 </alrovat>
 <alrovat id = "133">
 <mezo id = "hattol">20110502</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">dr. Nagy Zoltán</mezo>
-<mezo id = "panev">Cselényi Ágnes</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">dr. Nagy ZoltÃ¡n</mezo>
+<mezo id = "panev">CselÃ©nyi Ãgnes</mezo>
 <mezo id = "pirsz">2500</mezo>
 <mezo id = "phely">Esztergom</mezo>
 <mezo id = "pteru">Hajnal u. 20236.hrsz.</mezo>
@@ -1917,12 +1917,12 @@
 </alrovat>
 <alrovat id = "134">
 <mezo id = "hattol">20110524</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Simon Ferenc</mezo>
-<mezo id = "panev">Kovács Mária</mezo>
+<mezo id = "panev">KovÃ¡cs MÃ¡ria</mezo>
 <mezo id = "pirsz">1149</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Nagy Lajos király útja 126. 2. em. 39.</mezo>
+<mezo id = "pteru">Nagy Lajos kirÃ¡ly Ãºtja 126. 2. em. 39.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20110524</mezo>
 <mezo id = "valtk">20110524</mezo>
@@ -1931,12 +1931,12 @@
 </alrovat>
 <alrovat id = "135">
 <mezo id = "hattol">20110901</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Lollok Katalin</mezo>
 <mezo id = "panev">Gyaraki Eszter</mezo>
 <mezo id = "pirsz">2800</mezo>
-<mezo id = "phely">Tatabánya</mezo>
-<mezo id = "pteru">Sárberki ltp. 711. 2. em. 6.</mezo>
+<mezo id = "phely">TatabÃ¡nya</mezo>
+<mezo id = "pteru">SÃ¡rberki ltp. 711. 2. em. 6.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20110901</mezo>
 <mezo id = "valtk">20110901</mezo>
@@ -1948,14 +1948,14 @@
 <alrovat id = "4">
 <mezo id = "hattol">20040531</mezo>
 <mezo id = "cgjsz">109364944</mezo>
-<mezo id = "nev">C. C. Audit Könyvvizsgáló Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">C. C. Audit KÃ¶nyvvizsgÃ¡lÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1148</mezo>
 <mezo id = "hely">Budapest</mezo>
 <mezo id = "teru">Fogarasi u.</mezo>
 <mezo id = "hsz">58.</mezo>
-<mezo id = "pnev">Dr. Szebellédi István</mezo>
-<mezo id = "panev">Mikó Erzsébet</mezo>
+<mezo id = "pnev">Dr. SzebellÃ©di IstvÃ¡n</mezo>
+<mezo id = "panev">MikÃ³ ErzsÃ©bet</mezo>
 <mezo id = "pirsz">1148</mezo>
 <mezo id = "phely">Budapest, Fogarasi u. 58.</mezo>
 <mezo id = "jogvk">20040601</mezo>
@@ -1964,15 +1964,15 @@
 <alrovat id = "9">
 <mezo id = "hattol">20110601</mezo>
 <mezo id = "cgjsz">0109728938</mezo>
-<mezo id = "nev">BPO-AUDIT Könyvvizsgáló és Vezetési Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">BPO-AUDIT KÃ¶nyvvizsgÃ¡lÃ³ Ã©s VezetÃ©si TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "irsz">1146</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Zichy Géza utca 5. 3. em. 1-2.</mezo>
-<mezo id = "pnev">Miszori Ildikó</mezo>
+<mezo id = "teru">Zichy GÃ©za utca 5. 3. em. 1-2.</mezo>
+<mezo id = "pnev">Miszori IldikÃ³</mezo>
 <mezo id = "panev">Saly Anna</mezo>
 <mezo id = "pirsz">1165</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Mátyás király tér 6/a.</mezo>
+<mezo id = "pteru">MÃ¡tyÃ¡s kirÃ¡ly tÃ©r 6/a.</mezo>
 <mezo id = "jogvk">20110601</mezo>
 <mezo id = "jogvv">20140531</mezo>
 <mezo id = "valtk">20110601</mezo>
@@ -1982,10 +1982,10 @@
 <rovat id = "15">
 <alrovat id = "32">
 <mezo id = "hattol">20070706</mezo>
-<mezo id = "pnev">Geiszler János</mezo>
-<mezo id = "panev">Kovács Mária</mezo>
+<mezo id = "pnev">Geiszler JÃ¡nos</mezo>
+<mezo id = "panev">KovÃ¡cs MÃ¡ria</mezo>
 <mezo id = "pirsz">2509</mezo>
-<mezo id = "phely">Esztergom-Kertváros , Mikes Kelemen u. 18.</mezo>
+<mezo id = "phely">Esztergom-KertvÃ¡ros , Mikes Kelemen u. 18.</mezo>
 <mezo id = "jogvk">20070601</mezo>
 <mezo id = "jogvv">20071231</mezo>
 <mezo id = "valtk">0</mezo>
@@ -1993,8 +1993,8 @@
 </alrovat>
 <alrovat id = "45">
 <mezo id = "hattol">20100429</mezo>
-<mezo id = "pnev">Andrásik Sándorné</mezo>
-<mezo id = "panev">Kormanyák Mária</mezo>
+<mezo id = "pnev">AndrÃ¡sik SÃ¡ndornÃ©</mezo>
+<mezo id = "panev">KormanyÃ¡k MÃ¡ria</mezo>
 <mezo id = "jogvk">20100601</mezo>
 <mezo id = "jogvv">20120531</mezo>
 <mezo id = "valtk">20100429</mezo>
@@ -2002,8 +2002,8 @@
 </alrovat>
 <alrovat id = "50">
 <mezo id = "hattol">20100429</mezo>
-<mezo id = "pnev">Dr. Varga György Péter</mezo>
-<mezo id = "panev">Józsa Éva</mezo>
+<mezo id = "pnev">Dr. Varga GyÃ¶rgy PÃ©ter</mezo>
+<mezo id = "panev">JÃ³zsa Ã‰va</mezo>
 <mezo id = "jogvk">20100601</mezo>
 <mezo id = "jogvv">20120531</mezo>
 <mezo id = "valtk">20100429</mezo>
@@ -2011,8 +2011,8 @@
 </alrovat>
 <alrovat id = "51">
 <mezo id = "hattol">20100817</mezo>
-<mezo id = "pnev">dr. Mayer Balázs</mezo>
-<mezo id = "panev">Mátay Anna</mezo>
+<mezo id = "pnev">dr. Mayer BalÃ¡zs</mezo>
+<mezo id = "panev">MÃ¡tay Anna</mezo>
 <mezo id = "jogvk">20100818</mezo>
 <mezo id = "jogvv">20120531</mezo>
 <mezo id = "valtk">20100817</mezo>
@@ -2020,8 +2020,8 @@
 </alrovat>
 <alrovat id = "52">
 <mezo id = "hattol">20100817</mezo>
-<mezo id = "pnev">dr. Kóté Csaba</mezo>
-<mezo id = "panev">Vrábely Margit</mezo>
+<mezo id = "pnev">dr. KÃ³tÃ© Csaba</mezo>
+<mezo id = "panev">VrÃ¡bely Margit</mezo>
 <mezo id = "jogvk">20100818</mezo>
 <mezo id = "jogvv">20120531</mezo>
 <mezo id = "valtk">20100817</mezo>
@@ -2029,7 +2029,7 @@
 </alrovat>
 <alrovat id = "53">
 <mezo id = "hattol">20101209</mezo>
-<mezo id = "pnev">dr. Hidas János</mezo>
+<mezo id = "pnev">dr. Hidas JÃ¡nos</mezo>
 <mezo id = "panev">Drobni Marianna</mezo>
 <mezo id = "jogvk">20110101</mezo>
 <mezo id = "jogvv">20150531</mezo>
@@ -2038,11 +2038,11 @@
 </alrovat>
 <alrovat id = "54">
 <mezo id = "hattol">20110524</mezo>
-<mezo id = "pnev">Csiffáry Gabriella</mezo>
-<mezo id = "panev">Molnár Piroska</mezo>
+<mezo id = "pnev">CsiffÃ¡ry Gabriella</mezo>
+<mezo id = "panev">MolnÃ¡r Piroska</mezo>
 <mezo id = "pirsz">2510</mezo>
 <mezo id = "phely">Dorog</mezo>
-<mezo id = "pteru">Mária út 1. 3. em. 20.</mezo>
+<mezo id = "pteru">MÃ¡ria Ãºt 1. 3. em. 20.</mezo>
 <mezo id = "jogvk">20100601</mezo>
 <mezo id = "jogvv">20120531</mezo>
 <mezo id = "valtk">20110524</mezo>
@@ -2053,13 +2053,13 @@
 <alrovat id = "1">
 <mezo id = "hattol">19930401</mezo>
 <mezo id = "cgjsz">1101000853</mezo>
-<mezo id = "nev">Északdunántúli Regionális Vízmûvek</mezo>
-<mezo id = "mod">ÁV Rt.alapitása</mezo>
+<mezo id = "nev">Ã‰szakdunÃ¡ntÃºli RegionÃ¡lis VÃ­zmÅ±vek</mezo>
+<mezo id = "mod">ÃV Rt.alapitÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">19980601</mezo>
 <mezo id = "cgjsz">1109002972</mezo>
-<mezo id = "nev">KARSZTAQUA Vízbányászati Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">KARSZTAQUA VÃ­zbÃ¡nyÃ¡szati KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "20">
@@ -2072,25 +2072,25 @@
 <alrovat id = "3">
 <mezo id = "adosz">11186748211</mezo>
 <mezo id = "bkelt">20110919</mezo>
-<mezo id = "megj">Státusz kezdete: 1993/04/01</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 1993/04/01</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0110">
 <alrovat id = "5">
 <mezo id = "hattol">19990521</mezo>
-<mezo id = "nev">Tatabánya Megyei Jogú Város Önkormányzata (a tulajdonosi jogokat Tatabánya város mindenkori polgármestere gyakorolja)</mezo>
+<mezo id = "nev">TatabÃ¡nya Megyei JogÃº VÃ¡ros Ã–nkormÃ¡nyzata (a tulajdonosi jogokat TatabÃ¡nya vÃ¡ros mindenkori polgÃ¡rmestere gyakorolja)</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2800</mezo>
-<mezo id = "hely">Tatabánya</mezo>
-<mezo id = "teru">Fõ tér</mezo>
+<mezo id = "hely">TatabÃ¡nya</mezo>
+<mezo id = "teru">FÅ‘ tÃ©r</mezo>
 <mezo id = "hsz">6.</mezo>
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">20080101</mezo>
-<mezo id = "nev">Magyar Állam (A tulajdonosi jogokat a Magyar Nemzeti Vagyonkezelõ Zárkörûen Mûködõ Részvénytársaság útján a Nemzeti Vagyongazdálkodási Tanács gyakorolja.)</mezo>
+<mezo id = "nev">Magyar Ãllam (A tulajdonosi jogokat a Magyar Nemzeti VagyonkezelÅ‘ ZÃ¡rkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g ÃºtjÃ¡n a Nemzeti VagyongazdÃ¡lkodÃ¡si TanÃ¡cs gyakorolja.)</mezo>
 <mezo id = "irsz">1133</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Pozsonyi út</mezo>
+<mezo id = "teru">Pozsonyi Ãºt</mezo>
 <mezo id = "hsz">56.</mezo>
 <mezo id = "tagsk">19930401</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -2110,355 +2110,355 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Komárom-Esztergom Megyei Bíróságnál mint Cégbíróságnál Cg. [11 10 001450] cégjegyzékszám alatt nyilvántartott Észak-dunántúli Vízmû Részvénytársaság (2800 Tatabánya, Sárberek 100.) mint átvevõ társaság, valamint ugyancsak a Komárom-Esztergom Megyei Bíróságnál mint Cégbíróságnál Cg. [11 09 002972] cégjegyzékszám alatt nyilvántartott KARSZTAQUA Vízbányászati Korlátolt Felelõsségû Társaság (2800 Tatabánya IV., Síkvölgyi u. 0602/1. hrsz.) mint beolvadó társaság, 1998. június 1-jével<ujsor/>
-egyesül<ujsor/>
-olyképpen, hogy az Észak-dunántúli Vízmû Részvénytársaságba beolvad a KARSZTAQUA Kft.-be.<ujsor/>
-Az egyesüléssel érintett felek az egyesüléssel el kívánják érni, hogy Tatabánya és térsége távlati biztonságos vízellátásának mûszaki-gazdasági feltételei, ezáltal a vízbázistól a fogyasztóig egységes rendszerben történõ vízszolgáltatás biztosítható és ennek eredményeképpen a lakosság részére a vízdíj további növekedése megfékezhetõ legyen. A távlati igényeknek is megfelelõ regionális vízellátó rendszer kialakításához így biztosítható a központi pénzügyi források igénybevétele és optimális felhasználása.<ujsor/>
-A beolvadás után a KARSZTAQUA Kft. általános jogutódja az Észak-dunántúli Vízmû Részvénytársaság.<ujsor/>
-A beolvadó társaság adatai:<ujsor/>
-Név: KARSZTAQUA Vízbányászati Korlátolt Felelõsségû Társaság.<ujsor/>
-Cégjegyzékszám: Cg. [11 09 002972].<ujsor/>
-Adószám: [11186793-2-11].<ujsor/>
-A társaság törzstõkéje: 380 000 000 Ft (háromszáznyolcvanmillió forint).<ujsor/>
-Az átvevõ társaság adatai:<ujsor/>
-Név: Észak-dunántúli Vízmû Részvénytársaság.<ujsor/>
-Cégjegyzékszám: Cg. [11 10 001450].<ujsor/>
-Adószám: [11186748-2-11].<ujsor/>
-A társaság alaptõkéje: 1 000 000 000 Ft (egymilliárd forint).<ujsor/>
-Az Észak-dunántúli Vízmû Rt. mérlegadatai (1998. március 31.):<ujsor/>
-ESZKÖZÖK (aktívák) (E Ft) FORRÁSOK (passzívák) (E Ft)<ujsor/>
-Befektetett eszközök 14 559 369 Saját tõke 1 431 376<ujsor/>
-Immateriális javak 59 518 Céltartalékok 31 695<ujsor/>
-Tárgyi eszközök 14 471 516 Kötelezettségek 13 499 351<ujsor/>
-Befektetett pénzügyi eszközök 28 335 Hosszú lejáratú kötelezettségek 13 287 737<ujsor/>
-Forgóeszközök 770 189 Rövid lejáratú kötelezettségek 211 614<ujsor/>
-Készeltek 87 827 Passzív idõbeli elhatárolások 367 223<ujsor/>
-Követelések 660 842<ujsor/>
-Értékpapírok 0<ujsor/>
-Pénzeszközök 21 520<ujsor/>
-Aktív idõbeli elhatárolások 87<ujsor/>
-ÖSSZESEN: 15 329 645 ÖSSZESEN: 15 329 645<ujsor/>
-A KARSZTAQUA Kft. mérlegadatai (1998. március 31.):<ujsor/>
-ESZKÖZÖK (aktívák) (E Ft) FORRÁSOK (passzívák) (E Ft)<ujsor/>
-Befektetett eszközök 405 290 Saját tõke 400 771<ujsor/>
-Immateriális javak 1 247 Céltartalékok 780<ujsor/>
-Tárgyi eszközök 402 815 Kötelezettségek 68 266<ujsor/>
-Befektetett pénzügyi eszközök 1 228 Hosszú lejáratú kötelezettségek 0<ujsor/>
-Forgóeszközök 87 409 Rövid lejáratú kötelezettségek 68 266<ujsor/>
-Készeltek 5 118 Passzív idõbeli elhatárolások 23 584<ujsor/>
-Követelések 34 296<ujsor/>
-Értékpapírok 1 000<ujsor/>
-Pénzeszközök 46 995<ujsor/>
-Aktív idõbeli elhatárolások 642<ujsor/>
-ÖSSZESEN: 493 341 ÖSSZESEN: 493 341<ujsor/>
-Az Észak-dunántúli Vízmû Rt. tervezett vagyonmérleg-adatai az egyesülés után:<ujsor/>
-ESZKÖZÖK (aktívák) (E Ft) FORRÁSOK (passzívák) (E Ft)<ujsor/>
-Befektetett eszközök 14 964 659 Saját tõke 1 832 087<ujsor/>
-Immateriális javak 60 765 Céltartalékok 32 475<ujsor/>
-Tárgyi eszközök 14 874 331 Kötelezettségek 13 567 617<ujsor/>
-Befektetett pénzügyi eszközök 29 563 Hosszú lejáratú kötelezettségek 13 287 737<ujsor/>
-Forgóeszközök 857 598 Rövid lejáratú kötelezettségek 279 880<ujsor/>
-Készeltek 92 945 Passzív idõbeli elhatárolások 390 807<ujsor/>
-Követelések 695 138<ujsor/>
-Értékpapírok 1 000<ujsor/>
-Pénzeszközök 68 515<ujsor/>
-Aktív idõbeli elhatárolások 729<ujsor/>
-ÖSSZESEN: 15 822 986 ÖSSZESEN: 15 822 986<ujsor/>
-A létrejövõ társaság neve: Észak-dunántúli Vízmû Részvénytársaság.<ujsor/>
-Az átvevõ társaság alapító okiratában végrehajtott módosítások:<ujsor/>
-Az alapító okirat az egyesüléssel alapszabályi formává változik.<ujsor/>
-Az egyesüléssel létrejött társaság székhelye: 2800 Tatabánya, Sárberek 100.<ujsor/>
-A társaság új telephelye: Víztermelõ Bányaüzem, 2800 Tatabánya IV., Síkvölgyi u. 0602/1. hrsz.<ujsor/>
-Az alapító okirat 2. pontja olyképpen módosul, hogy a társaság a KARSZTAQUA Vízbányászati Korlátolt Felelõsségû Társaság általános jogutódja.<ujsor/>
-Az alapító okirat 3. pontja kiegészül az 1598 Üdítõital gyártása tevékenységgel.<ujsor/>
-Az alapító okirat 4.2. pontja az alábbiak szerint változik: a társaság alaptõkéje 1 380 000 000 Ft (egymilliárd-háromszáznyolcvanmillió forint), a társaság alaptõkéjébõl pénzbeli betét 20 000 000 Ft (húszmillió forint), a társaság alaptõkéjébõl nem pénzbeli betét 1 360 000 000 Ft (egymilliárd-háromszázhatvanmillió forint).<ujsor/>
-Az alapító okirat 4.3. pontja az alábbiak szerint módosul: a társaság kibocsát 1 db (egy darab) 266 000 000 Ft (kettõszázhatvanhatmillió forint) összevont címletû, valamint 1 db (egy darab) 114 000 000 Ft (egyszáztizennégymillió forint) összevont címletû részvényt, mely névre szóló típusú, 10 000 Ft (tízezer forint) névértékû, az alapszabályban meghatározott azonos tagsági jogokat megtestesítõ részvény.<ujsor/>
-Az alapító okirat 13.2. pont 1. bekezdése olyképpen változik, hogy az igazgatóság az egyesülés folytán 6 tagúra bõvül.<ujsor/>
-Az alapító okirat 14.2. pontja elsõ mondata olyképpen módosul, hogy a felügyelõbizottság az egyesülés folytán 6 tagúra bõvül.<ujsor/>
-A beolvadást követõen a KARSZTAQUA Kft. 1998. június 1-jei hatállyal, jogutóddal megszûnik.<ujsor/>
-A társaság ezúton felhívja t. hitelezõi figyelmét, hogy az 1988. évi VI. tv.-ben biztosított jogokkal az ott szabályozottak szerint élhetnek.<ujsor/>
-Az átalakulás folytán létrejövõ társaság a jogelõd társaság általános jogutódja.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">A KomÃ¡rom-Esztergom Megyei BÃ­rÃ³sÃ¡gnÃ¡l mint CÃ©gbÃ­rÃ³sÃ¡gnÃ¡l Cg. [11 10 001450] cÃ©gjegyzÃ©kszÃ¡m alatt nyilvÃ¡ntartott Ã‰szak-dunÃ¡ntÃºli VÃ­zmÅ± RÃ©szvÃ©nytÃ¡rsasÃ¡g (2800 TatabÃ¡nya, SÃ¡rberek 100.) mint Ã¡tvevÅ‘ tÃ¡rsasÃ¡g, valamint ugyancsak a KomÃ¡rom-Esztergom Megyei BÃ­rÃ³sÃ¡gnÃ¡l mint CÃ©gbÃ­rÃ³sÃ¡gnÃ¡l Cg. [11 09 002972] cÃ©gjegyzÃ©kszÃ¡m alatt nyilvÃ¡ntartott KARSZTAQUA VÃ­zbÃ¡nyÃ¡szati KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (2800 TatabÃ¡nya IV., SÃ­kvÃ¶lgyi u. 0602/1. hrsz.) mint beolvadÃ³ tÃ¡rsasÃ¡g, 1998. jÃºnius 1-jÃ©vel<ujsor/>
+egyesÃ¼l<ujsor/>
+olykÃ©ppen, hogy az Ã‰szak-dunÃ¡ntÃºli VÃ­zmÅ± RÃ©szvÃ©nytÃ¡rsasÃ¡gba beolvad a KARSZTAQUA Kft.-be.<ujsor/>
+Az egyesÃ¼lÃ©ssel Ã©rintett felek az egyesÃ¼lÃ©ssel el kÃ­vÃ¡njÃ¡k Ã©rni, hogy TatabÃ¡nya Ã©s tÃ©rsÃ©ge tÃ¡vlati biztonsÃ¡gos vÃ­zellÃ¡tÃ¡sÃ¡nak mÅ±szaki-gazdasÃ¡gi feltÃ©telei, ezÃ¡ltal a vÃ­zbÃ¡zistÃ³l a fogyasztÃ³ig egysÃ©ges rendszerben tÃ¶rtÃ©nÅ‘ vÃ­zszolgÃ¡ltatÃ¡s biztosÃ­thatÃ³ Ã©s ennek eredmÃ©nyekÃ©ppen a lakossÃ¡g rÃ©szÃ©re a vÃ­zdÃ­j tovÃ¡bbi nÃ¶vekedÃ©se megfÃ©kezhetÅ‘ legyen. A tÃ¡vlati igÃ©nyeknek is megfelelÅ‘ regionÃ¡lis vÃ­zellÃ¡tÃ³ rendszer kialakÃ­tÃ¡sÃ¡hoz Ã­gy biztosÃ­thatÃ³ a kÃ¶zponti pÃ©nzÃ¼gyi forrÃ¡sok igÃ©nybevÃ©tele Ã©s optimÃ¡lis felhasznÃ¡lÃ¡sa.<ujsor/>
+A beolvadÃ¡s utÃ¡n a KARSZTAQUA Kft. Ã¡ltalÃ¡nos jogutÃ³dja az Ã‰szak-dunÃ¡ntÃºli VÃ­zmÅ± RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+A beolvadÃ³ tÃ¡rsasÃ¡g adatai:<ujsor/>
+NÃ©v: KARSZTAQUA VÃ­zbÃ¡nyÃ¡szati KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡m: Cg. [11 09 002972].<ujsor/>
+AdÃ³szÃ¡m: [11186793-2-11].<ujsor/>
+A tÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©je: 380 000 000 Ft (hÃ¡romszÃ¡znyolcvanmilliÃ³ forint).<ujsor/>
+Az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g adatai:<ujsor/>
+NÃ©v: Ã‰szak-dunÃ¡ntÃºli VÃ­zmÅ± RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡m: Cg. [11 10 001450].<ujsor/>
+AdÃ³szÃ¡m: [11186748-2-11].<ujsor/>
+A tÃ¡rsasÃ¡g alaptÅ‘kÃ©je: 1 000 000 000 Ft (egymilliÃ¡rd forint).<ujsor/>
+Az Ã‰szak-dunÃ¡ntÃºli VÃ­zmÅ± Rt. mÃ©rlegadatai (1998. mÃ¡rcius 31.):<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) (E Ft) FORRÃSOK (passzÃ­vÃ¡k) (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 14 559 369 SajÃ¡t tÅ‘ke 1 431 376<ujsor/>
+ImmateriÃ¡lis javak 59 518 CÃ©ltartalÃ©kok 31 695<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 14 471 516 KÃ¶telezettsÃ©gek 13 499 351<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 28 335 HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 13 287 737<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 770 189 RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 211 614<ujsor/>
+KÃ©szeltek 87 827 PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 367 223<ujsor/>
+KÃ¶vetelÃ©sek 660 842<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 0<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 21 520<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 87<ujsor/>
+Ã–SSZESEN: 15 329 645 Ã–SSZESEN: 15 329 645<ujsor/>
+A KARSZTAQUA Kft. mÃ©rlegadatai (1998. mÃ¡rcius 31.):<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) (E Ft) FORRÃSOK (passzÃ­vÃ¡k) (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 405 290 SajÃ¡t tÅ‘ke 400 771<ujsor/>
+ImmateriÃ¡lis javak 1 247 CÃ©ltartalÃ©kok 780<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 402 815 KÃ¶telezettsÃ©gek 68 266<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 1 228 HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 87 409 RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 68 266<ujsor/>
+KÃ©szeltek 5 118 PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 23 584<ujsor/>
+KÃ¶vetelÃ©sek 34 296<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 1 000<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 46 995<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 642<ujsor/>
+Ã–SSZESEN: 493 341 Ã–SSZESEN: 493 341<ujsor/>
+Az Ã‰szak-dunÃ¡ntÃºli VÃ­zmÅ± Rt. tervezett vagyonmÃ©rleg-adatai az egyesÃ¼lÃ©s utÃ¡n:<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) (E Ft) FORRÃSOK (passzÃ­vÃ¡k) (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 14 964 659 SajÃ¡t tÅ‘ke 1 832 087<ujsor/>
+ImmateriÃ¡lis javak 60 765 CÃ©ltartalÃ©kok 32 475<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 14 874 331 KÃ¶telezettsÃ©gek 13 567 617<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 29 563 HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 13 287 737<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 857 598 RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 279 880<ujsor/>
+KÃ©szeltek 92 945 PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 390 807<ujsor/>
+KÃ¶vetelÃ©sek 695 138<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 1 000<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 68 515<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 729<ujsor/>
+Ã–SSZESEN: 15 822 986 Ã–SSZESEN: 15 822 986<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g neve: Ã‰szak-dunÃ¡ntÃºli VÃ­zmÅ± RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+Az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g alapÃ­tÃ³ okiratÃ¡ban vÃ©grehajtott mÃ³dosÃ­tÃ¡sok:<ujsor/>
+Az alapÃ­tÃ³ okirat az egyesÃ¼lÃ©ssel alapszabÃ¡lyi formÃ¡vÃ¡ vÃ¡ltozik.<ujsor/>
+Az egyesÃ¼lÃ©ssel lÃ©trejÃ¶tt tÃ¡rsasÃ¡g szÃ©khelye: 2800 TatabÃ¡nya, SÃ¡rberek 100.<ujsor/>
+A tÃ¡rsasÃ¡g Ãºj telephelye: VÃ­ztermelÅ‘ BÃ¡nyaÃ¼zem, 2800 TatabÃ¡nya IV., SÃ­kvÃ¶lgyi u. 0602/1. hrsz.<ujsor/>
+Az alapÃ­tÃ³ okirat 2. pontja olykÃ©ppen mÃ³dosul, hogy a tÃ¡rsasÃ¡g a KARSZTAQUA VÃ­zbÃ¡nyÃ¡szati KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g Ã¡ltalÃ¡nos jogutÃ³dja.<ujsor/>
+Az alapÃ­tÃ³ okirat 3. pontja kiegÃ©szÃ¼l az 1598 ÃœdÃ­tÅ‘ital gyÃ¡rtÃ¡sa tevÃ©kenysÃ©ggel.<ujsor/>
+Az alapÃ­tÃ³ okirat 4.2. pontja az alÃ¡bbiak szerint vÃ¡ltozik: a tÃ¡rsasÃ¡g alaptÅ‘kÃ©je 1 380 000 000 Ft (egymilliÃ¡rd-hÃ¡romszÃ¡znyolcvanmilliÃ³ forint), a tÃ¡rsasÃ¡g alaptÅ‘kÃ©jÃ©bÅ‘l pÃ©nzbeli betÃ©t 20 000 000 Ft (hÃºszmilliÃ³ forint), a tÃ¡rsasÃ¡g alaptÅ‘kÃ©jÃ©bÅ‘l nem pÃ©nzbeli betÃ©t 1 360 000 000 Ft (egymilliÃ¡rd-hÃ¡romszÃ¡zhatvanmilliÃ³ forint).<ujsor/>
+Az alapÃ­tÃ³ okirat 4.3. pontja az alÃ¡bbiak szerint mÃ³dosul: a tÃ¡rsasÃ¡g kibocsÃ¡t 1 db (egy darab) 266 000 000 Ft (kettÅ‘szÃ¡zhatvanhatmilliÃ³ forint) Ã¶sszevont cÃ­mletÅ±, valamint 1 db (egy darab) 114 000 000 Ft (egyszÃ¡ztizennÃ©gymilliÃ³ forint) Ã¶sszevont cÃ­mletÅ± rÃ©szvÃ©nyt, mely nÃ©vre szÃ³lÃ³ tÃ­pusÃº, 10 000 Ft (tÃ­zezer forint) nÃ©vÃ©rtÃ©kÅ±, az alapszabÃ¡lyban meghatÃ¡rozott azonos tagsÃ¡gi jogokat megtestesÃ­tÅ‘ rÃ©szvÃ©ny.<ujsor/>
+Az alapÃ­tÃ³ okirat 13.2. pont 1. bekezdÃ©se olykÃ©ppen vÃ¡ltozik, hogy az igazgatÃ³sÃ¡g az egyesÃ¼lÃ©s folytÃ¡n 6 tagÃºra bÅ‘vÃ¼l.<ujsor/>
+Az alapÃ­tÃ³ okirat 14.2. pontja elsÅ‘ mondata olykÃ©ppen mÃ³dosul, hogy a felÃ¼gyelÅ‘bizottsÃ¡g az egyesÃ¼lÃ©s folytÃ¡n 6 tagÃºra bÅ‘vÃ¼l.<ujsor/>
+A beolvadÃ¡st kÃ¶vetÅ‘en a KARSZTAQUA Kft. 1998. jÃºnius 1-jei hatÃ¡llyal, jogutÃ³ddal megszÅ±nik.<ujsor/>
+A tÃ¡rsasÃ¡g ezÃºton felhÃ­vja t. hitelezÅ‘i figyelmÃ©t, hogy az 1988. Ã©vi VI. tv.-ben biztosÃ­tott jogokkal az ott szabÃ¡lyozottak szerint Ã©lhetnek.<ujsor/>
+Az Ã¡talakulÃ¡s folytÃ¡n lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g a jogelÅ‘d tÃ¡rsasÃ¡g Ã¡ltalÃ¡nos jogutÃ³dja.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110001450</mezo>
-<mezo id = "nev">Északdunántúli Vízmû Részvénytársaság (2800 Tatabánya, Sárberek l00.)</mezo>
+<mezo id = "nev">Ã‰szakdunÃ¡ntÃºli VÃ­zmÅ± RÃ©szvÃ©nytÃ¡rsasÃ¡g (2800 TatabÃ¡nya, SÃ¡rberek l00.)</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Komárom-Esztergom Megyei Bíróságnál mint Cégbíróságnál Cg. [11 10 001450] cégjegyzékszám alatt nyilvántartott Észak-dunántúli Vízmû Részvénytársaság (2800 Tatabánya, Sárberek 100.) mint átvevõ társaság, valamint ugyancsak a Komárom-Esztergom Megyei Bíróságnál mint Cégbíróságnál Cg. [11 09 002972] cégjegyzékszám alatt nyilvántartott KARSZTAQUA Vízbányászati Korlátolt Felelõsségû Társaság (2800 Tatabánya IV., Síkvölgyi u. 0602/1. hrsz.) mint beolvadó társaság, 1998. június 1-jével<ujsor/>
-egyesül<ujsor/>
-olyképpen, hogy az Észak-dunántúli Vízmû Részvénytársaságba beolvad a KARSZTAQUA Kft.<ujsor/>
-Az egyesüléssel érintett felek az egyesüléssel el kívánják érni, hogy Tatabánya és térsége távlati biztonságos vízellátásának mûszaki-gazdasági feltételei, ezáltal a vízbázistól a fogyasztóig egységes rendszerben történõ vízszolgáltatás biztosítható és ennek eredményeképpen a lakosság részére a vízdíj további növekedése megfékezhetõ legyen. A távlati igényeknek is megfelelõ regionális vízellátó rendszer kialakításához így biztosítható a központi pénzügyi források igénybevétele és optimális felhasználása.<ujsor/>
-A beolvadás után a KARSZTAQUA Kft. általános jogutódja az Észak-dunántúli Vízmû Részvénytársaság.<ujsor/>
-A beolvadó társaság adatai:<ujsor/>
-Név: KARSZTAQUA Vízbányászati Korlátolt Felelõsségû Társaság.<ujsor/>
-Cégjegyzékszám: Cg. [11 09 002972].<ujsor/>
-Adószám: [11186793-2-11].<ujsor/>
-A társaság törzstõkéje: 380 000 000 Ft (háromszáznyolcvanmillió forint).<ujsor/>
-Az átvevõ társaság adatai:<ujsor/>
-Név: Észak-dunántúli Vízmû Részvénytársaság.<ujsor/>
-Cégjegyzékszám: Cg. [11 10 001450].<ujsor/>
-Adószám: [11186748-2-11].<ujsor/>
-A társaság alaptõkéje: 1 000 000 000 Ft (egymilliárd forint).<ujsor/>
-Az Észak-dunántúli Vízmû Rt. mérlegadatai (1998. március 31.):<ujsor/>
-ESZKÖZÖK (aktívák) (E Ft) FORRÁSOK (passzívák) (E Ft)<ujsor/>
-Befektetett eszközök 14 559 369 Saját tõke 1 431 376<ujsor/>
-Immateriális javak 59 518 Céltartalékok 31 695<ujsor/>
-Tárgyi eszközök 14 471 516 Kötelezettségek 13 499 351<ujsor/>
-Befektetett pénzügyi eszközök 28 335 Hosszú lejáratú kötelezettségek 13 287 737<ujsor/>
-Forgóeszközök 770 189 Rövid lejáratú kötelezettségek 211 614<ujsor/>
-Készeltek 87 827 Passzív idõbeli elhatárolások 367 223<ujsor/>
-Követelések 660 842<ujsor/>
-Értékpapírok 0<ujsor/>
-Pénzeszközök 21 520<ujsor/>
-Aktív idõbeli elhatárolások 87<ujsor/>
-ÖSSZESEN: 15 329 645 ÖSSZESEN: 15 329 645<ujsor/>
-A KARSZTAQUA Kft. mérlegadatai (1998. március 31.):<ujsor/>
-ESZKÖZÖK (aktívák) (E Ft) FORRÁSOK (passzívák) (E Ft)<ujsor/>
-Befektetett eszközök 405 290 Saját tõke 400 771<ujsor/>
-Immateriális javak 1 247 Céltartalékok 780<ujsor/>
-Tárgyi eszközök 402 815 Kötelezettségek 68 266<ujsor/>
-Befektetett pénzügyi eszközök 1 228 Hosszú lejáratú kötelezettségek 0<ujsor/>
-Forgóeszközök 87 409 Rövid lejáratú kötelezettségek 68 266<ujsor/>
-Készeltek 5 118 Passzív idõbeli elhatárolások 23 584<ujsor/>
-Követelések 34 296<ujsor/>
-Értékpapírok 1 000<ujsor/>
-Pénzeszközök 46 995<ujsor/>
-Aktív idõbeli elhatárolások 642<ujsor/>
-ÖSSZESEN: 493 341 ÖSSZESEN: 493 341<ujsor/>
-Az Észak-dunántúli Vízmû Rt. tervezett vagyonmérleg-adatai az egyesülés után:<ujsor/>
-ESZKÖZÖK (aktívák) (E Ft) FORRÁSOK (passzívák) (E Ft)<ujsor/>
-Befektetett eszközök 14 964 659 Saját tõke 1 832 087<ujsor/>
-Immateriális javak 60 765 Céltartalékok 32 475<ujsor/>
-Tárgyi eszközök 14 874 331 Kötelezettségek 13 567 617<ujsor/>
-Befektetett pénzügyi eszközök 29 563 Hosszú lejáratú kötelezettségek 13 287 737<ujsor/>
-Forgóeszközök 857 598 Rövid lejáratú kötelezettségek 279 880<ujsor/>
-Készeltek 92 945 Passzív idõbeli elhatárolások 390 807<ujsor/>
-Követelések 695 138<ujsor/>
-Értékpapírok 1 000<ujsor/>
-Pénzeszközök 68 515<ujsor/>
-Aktív idõbeli elhatárolások 729<ujsor/>
-ÖSSZESEN: 15 822 986 ÖSSZESEN: 15 822 986<ujsor/>
-A létrejövõ társaság neve: Észak-dunántúli Vízmû Részvénytársaság.<ujsor/>
-Az átvevõ társaság alapító okiratában végrehajtott módosítások:<ujsor/>
-Az alapító okirat az egyesüléssel alapszabályi formává változik.<ujsor/>
-Az egyesüléssel létrejött társaság székhelye: 2800 Tatabánya, Sárberek 100.<ujsor/>
-A társaság új telephelye: Víztermelõ Bányaüzem, 2800 Tatabánya IV., Síkvölgyi u. 0602/1. hrsz.<ujsor/>
-Az alapító okirat 2. pontja olyképpen módosul, hogy a társaság a KARSZTAQUA Vízbányászati Korlátolt Felelõsségû Társaság általános jogutódja.<ujsor/>
-Az alapító okirat 3. pontja kiegészül az 1598 Üdítõital gyártása tevékenységgel.<ujsor/>
-Az alapító okirat 4.2. pontja az alábbiak szerint változik: a társaság alaptõkéje 1 380 000 000 Ft (egymilliárd-háromszáznyolcvanmillió forint), a társaság alaptõkéjébõl pénzbeli betét 20 000 000 Ft (húszmillió forint), a társaság alaptõkéjébõl nem pénzbeli betét 1 360 000 000 Ft (egymilliárd-háromszázhatvanmillió forint).<ujsor/>
-Az alapító okirat 4.3. pontja az alábbiak szerint módosul: a társaság kibocsát 1 db (egy darab) 266 000 000 Ft (kettõszázhatvanhatmillió forint) összevont címletû, valamint 1 db (egy darab) 114 000 000 Ft (egyszáztizennégymillió forint) összevont címletû részvényt, mely névre szóló típusú, 10 000 Ft (tízezer forint) névértékû, az alapszabályban meghatározott azonos tagsági jogokat megtestesítõ részvény.<ujsor/>
-Az alapító okirat 13.2. pont 1. bekezdése olyképpen változik, hogy az igazgatóság az egyesülés folytán 6 tagúra bõvül.<ujsor/>
-Az alapító okirat 14.2. pontja elsõ mondata olyképpen módosul, hogy a felügyelõbizottság az egyesülés folytán 6 tagúra bõvül.<ujsor/>
-A beolvadást követõen a KARSZTAQUA Kft. 1998. június 1-jei hatállyal, jogutóddal megszûnik.<ujsor/>
-A társaság ezúton felhívja t. hitelezõi figyelmét, hogy az 1988. évi VI. tv.-ben biztosított jogokkal az ott szabályozottak szerint élhetnek.<ujsor/>
-Az átalakulás folytán létrejövõ társaság a jogelõd társaság általános jogutódja.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">A KomÃ¡rom-Esztergom Megyei BÃ­rÃ³sÃ¡gnÃ¡l mint CÃ©gbÃ­rÃ³sÃ¡gnÃ¡l Cg. [11 10 001450] cÃ©gjegyzÃ©kszÃ¡m alatt nyilvÃ¡ntartott Ã‰szak-dunÃ¡ntÃºli VÃ­zmÅ± RÃ©szvÃ©nytÃ¡rsasÃ¡g (2800 TatabÃ¡nya, SÃ¡rberek 100.) mint Ã¡tvevÅ‘ tÃ¡rsasÃ¡g, valamint ugyancsak a KomÃ¡rom-Esztergom Megyei BÃ­rÃ³sÃ¡gnÃ¡l mint CÃ©gbÃ­rÃ³sÃ¡gnÃ¡l Cg. [11 09 002972] cÃ©gjegyzÃ©kszÃ¡m alatt nyilvÃ¡ntartott KARSZTAQUA VÃ­zbÃ¡nyÃ¡szati KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (2800 TatabÃ¡nya IV., SÃ­kvÃ¶lgyi u. 0602/1. hrsz.) mint beolvadÃ³ tÃ¡rsasÃ¡g, 1998. jÃºnius 1-jÃ©vel<ujsor/>
+egyesÃ¼l<ujsor/>
+olykÃ©ppen, hogy az Ã‰szak-dunÃ¡ntÃºli VÃ­zmÅ± RÃ©szvÃ©nytÃ¡rsasÃ¡gba beolvad a KARSZTAQUA Kft.<ujsor/>
+Az egyesÃ¼lÃ©ssel Ã©rintett felek az egyesÃ¼lÃ©ssel el kÃ­vÃ¡njÃ¡k Ã©rni, hogy TatabÃ¡nya Ã©s tÃ©rsÃ©ge tÃ¡vlati biztonsÃ¡gos vÃ­zellÃ¡tÃ¡sÃ¡nak mÅ±szaki-gazdasÃ¡gi feltÃ©telei, ezÃ¡ltal a vÃ­zbÃ¡zistÃ³l a fogyasztÃ³ig egysÃ©ges rendszerben tÃ¶rtÃ©nÅ‘ vÃ­zszolgÃ¡ltatÃ¡s biztosÃ­thatÃ³ Ã©s ennek eredmÃ©nyekÃ©ppen a lakossÃ¡g rÃ©szÃ©re a vÃ­zdÃ­j tovÃ¡bbi nÃ¶vekedÃ©se megfÃ©kezhetÅ‘ legyen. A tÃ¡vlati igÃ©nyeknek is megfelelÅ‘ regionÃ¡lis vÃ­zellÃ¡tÃ³ rendszer kialakÃ­tÃ¡sÃ¡hoz Ã­gy biztosÃ­thatÃ³ a kÃ¶zponti pÃ©nzÃ¼gyi forrÃ¡sok igÃ©nybevÃ©tele Ã©s optimÃ¡lis felhasznÃ¡lÃ¡sa.<ujsor/>
+A beolvadÃ¡s utÃ¡n a KARSZTAQUA Kft. Ã¡ltalÃ¡nos jogutÃ³dja az Ã‰szak-dunÃ¡ntÃºli VÃ­zmÅ± RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+A beolvadÃ³ tÃ¡rsasÃ¡g adatai:<ujsor/>
+NÃ©v: KARSZTAQUA VÃ­zbÃ¡nyÃ¡szati KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡m: Cg. [11 09 002972].<ujsor/>
+AdÃ³szÃ¡m: [11186793-2-11].<ujsor/>
+A tÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©je: 380 000 000 Ft (hÃ¡romszÃ¡znyolcvanmilliÃ³ forint).<ujsor/>
+Az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g adatai:<ujsor/>
+NÃ©v: Ã‰szak-dunÃ¡ntÃºli VÃ­zmÅ± RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡m: Cg. [11 10 001450].<ujsor/>
+AdÃ³szÃ¡m: [11186748-2-11].<ujsor/>
+A tÃ¡rsasÃ¡g alaptÅ‘kÃ©je: 1 000 000 000 Ft (egymilliÃ¡rd forint).<ujsor/>
+Az Ã‰szak-dunÃ¡ntÃºli VÃ­zmÅ± Rt. mÃ©rlegadatai (1998. mÃ¡rcius 31.):<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) (E Ft) FORRÃSOK (passzÃ­vÃ¡k) (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 14 559 369 SajÃ¡t tÅ‘ke 1 431 376<ujsor/>
+ImmateriÃ¡lis javak 59 518 CÃ©ltartalÃ©kok 31 695<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 14 471 516 KÃ¶telezettsÃ©gek 13 499 351<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 28 335 HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 13 287 737<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 770 189 RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 211 614<ujsor/>
+KÃ©szeltek 87 827 PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 367 223<ujsor/>
+KÃ¶vetelÃ©sek 660 842<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 0<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 21 520<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 87<ujsor/>
+Ã–SSZESEN: 15 329 645 Ã–SSZESEN: 15 329 645<ujsor/>
+A KARSZTAQUA Kft. mÃ©rlegadatai (1998. mÃ¡rcius 31.):<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) (E Ft) FORRÃSOK (passzÃ­vÃ¡k) (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 405 290 SajÃ¡t tÅ‘ke 400 771<ujsor/>
+ImmateriÃ¡lis javak 1 247 CÃ©ltartalÃ©kok 780<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 402 815 KÃ¶telezettsÃ©gek 68 266<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 1 228 HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 87 409 RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 68 266<ujsor/>
+KÃ©szeltek 5 118 PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 23 584<ujsor/>
+KÃ¶vetelÃ©sek 34 296<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 1 000<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 46 995<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 642<ujsor/>
+Ã–SSZESEN: 493 341 Ã–SSZESEN: 493 341<ujsor/>
+Az Ã‰szak-dunÃ¡ntÃºli VÃ­zmÅ± Rt. tervezett vagyonmÃ©rleg-adatai az egyesÃ¼lÃ©s utÃ¡n:<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) (E Ft) FORRÃSOK (passzÃ­vÃ¡k) (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 14 964 659 SajÃ¡t tÅ‘ke 1 832 087<ujsor/>
+ImmateriÃ¡lis javak 60 765 CÃ©ltartalÃ©kok 32 475<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 14 874 331 KÃ¶telezettsÃ©gek 13 567 617<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 29 563 HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 13 287 737<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 857 598 RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 279 880<ujsor/>
+KÃ©szeltek 92 945 PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 390 807<ujsor/>
+KÃ¶vetelÃ©sek 695 138<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 1 000<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 68 515<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 729<ujsor/>
+Ã–SSZESEN: 15 822 986 Ã–SSZESEN: 15 822 986<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g neve: Ã‰szak-dunÃ¡ntÃºli VÃ­zmÅ± RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+Az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g alapÃ­tÃ³ okiratÃ¡ban vÃ©grehajtott mÃ³dosÃ­tÃ¡sok:<ujsor/>
+Az alapÃ­tÃ³ okirat az egyesÃ¼lÃ©ssel alapszabÃ¡lyi formÃ¡vÃ¡ vÃ¡ltozik.<ujsor/>
+Az egyesÃ¼lÃ©ssel lÃ©trejÃ¶tt tÃ¡rsasÃ¡g szÃ©khelye: 2800 TatabÃ¡nya, SÃ¡rberek 100.<ujsor/>
+A tÃ¡rsasÃ¡g Ãºj telephelye: VÃ­ztermelÅ‘ BÃ¡nyaÃ¼zem, 2800 TatabÃ¡nya IV., SÃ­kvÃ¶lgyi u. 0602/1. hrsz.<ujsor/>
+Az alapÃ­tÃ³ okirat 2. pontja olykÃ©ppen mÃ³dosul, hogy a tÃ¡rsasÃ¡g a KARSZTAQUA VÃ­zbÃ¡nyÃ¡szati KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g Ã¡ltalÃ¡nos jogutÃ³dja.<ujsor/>
+Az alapÃ­tÃ³ okirat 3. pontja kiegÃ©szÃ¼l az 1598 ÃœdÃ­tÅ‘ital gyÃ¡rtÃ¡sa tevÃ©kenysÃ©ggel.<ujsor/>
+Az alapÃ­tÃ³ okirat 4.2. pontja az alÃ¡bbiak szerint vÃ¡ltozik: a tÃ¡rsasÃ¡g alaptÅ‘kÃ©je 1 380 000 000 Ft (egymilliÃ¡rd-hÃ¡romszÃ¡znyolcvanmilliÃ³ forint), a tÃ¡rsasÃ¡g alaptÅ‘kÃ©jÃ©bÅ‘l pÃ©nzbeli betÃ©t 20 000 000 Ft (hÃºszmilliÃ³ forint), a tÃ¡rsasÃ¡g alaptÅ‘kÃ©jÃ©bÅ‘l nem pÃ©nzbeli betÃ©t 1 360 000 000 Ft (egymilliÃ¡rd-hÃ¡romszÃ¡zhatvanmilliÃ³ forint).<ujsor/>
+Az alapÃ­tÃ³ okirat 4.3. pontja az alÃ¡bbiak szerint mÃ³dosul: a tÃ¡rsasÃ¡g kibocsÃ¡t 1 db (egy darab) 266 000 000 Ft (kettÅ‘szÃ¡zhatvanhatmilliÃ³ forint) Ã¶sszevont cÃ­mletÅ±, valamint 1 db (egy darab) 114 000 000 Ft (egyszÃ¡ztizennÃ©gymilliÃ³ forint) Ã¶sszevont cÃ­mletÅ± rÃ©szvÃ©nyt, mely nÃ©vre szÃ³lÃ³ tÃ­pusÃº, 10 000 Ft (tÃ­zezer forint) nÃ©vÃ©rtÃ©kÅ±, az alapszabÃ¡lyban meghatÃ¡rozott azonos tagsÃ¡gi jogokat megtestesÃ­tÅ‘ rÃ©szvÃ©ny.<ujsor/>
+Az alapÃ­tÃ³ okirat 13.2. pont 1. bekezdÃ©se olykÃ©ppen vÃ¡ltozik, hogy az igazgatÃ³sÃ¡g az egyesÃ¼lÃ©s folytÃ¡n 6 tagÃºra bÅ‘vÃ¼l.<ujsor/>
+Az alapÃ­tÃ³ okirat 14.2. pontja elsÅ‘ mondata olykÃ©ppen mÃ³dosul, hogy a felÃ¼gyelÅ‘bizottsÃ¡g az egyesÃ¼lÃ©s folytÃ¡n 6 tagÃºra bÅ‘vÃ¼l.<ujsor/>
+A beolvadÃ¡st kÃ¶vetÅ‘en a KARSZTAQUA Kft. 1998. jÃºnius 1-jei hatÃ¡llyal, jogutÃ³ddal megszÅ±nik.<ujsor/>
+A tÃ¡rsasÃ¡g ezÃºton felhÃ­vja t. hitelezÅ‘i figyelmÃ©t, hogy az 1988. Ã©vi VI. tv.-ben biztosÃ­tott jogokkal az ott szabÃ¡lyozottak szerint Ã©lhetnek.<ujsor/>
+Az Ã¡talakulÃ¡s folytÃ¡n lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g a jogelÅ‘d tÃ¡rsasÃ¡g Ã¡ltalÃ¡nos jogutÃ³dja.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110001450</mezo>
-<mezo id = "nev">Északdunántúli Vízmû Részvénytársaság (2800 Tatabánya, Sárberek l00.)</mezo>
+<mezo id = "nev">Ã‰szakdunÃ¡ntÃºli VÃ­zmÅ± RÃ©szvÃ©nytÃ¡rsasÃ¡g (2800 TatabÃ¡nya, SÃ¡rberek l00.)</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság az 1998. 07. 22-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-5(10). Részvényfajta: összevont.<ujsor/>
- Egy darab tízezer Ft.<ujsor/>
- Részvényfajta: összevont.<ujsor/>
- Egy darab tízezer Ft.<ujsor/>
- Törölve: 1998. 06. 01-i hatállyal.<ujsor/>
- Részvényfajta: 266.000.000,-Ft összevont.<ujsor/>
- Egy darab tízezer Ft.<ujsor/>
- Részvényfajta: 114.000.000,-Ft összevont.<ujsor/>
- Egy darab tízezer Ft.<ujsor/>
- Hatályos: 1998. 06. 01-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g az 1998. 07. 22-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+5(10). RÃ©szvÃ©nyfajta: Ã¶sszevont.<ujsor/>
+ Egy darab tÃ­zezer Ft.<ujsor/>
+ RÃ©szvÃ©nyfajta: Ã¶sszevont.<ujsor/>
+ Egy darab tÃ­zezer Ft.<ujsor/>
+ TÃ¶rÃ¶lve: 1998. 06. 01-i hatÃ¡llyal.<ujsor/>
+ RÃ©szvÃ©nyfajta: 266.000.000,-Ft Ã¶sszevont.<ujsor/>
+ Egy darab tÃ­zezer Ft.<ujsor/>
+ RÃ©szvÃ©nyfajta: 114.000.000,-Ft Ã¶sszevont.<ujsor/>
+ Egy darab tÃ­zezer Ft.<ujsor/>
+ HatÃ¡lyos: 1998. 06. 01-tÅ‘l.<ujsor/>
 Bejegyezve: 1998. 08. 25.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110001450</mezo>
-<mezo id = "nev">Északdunántúli Vízmû Részvénytársaság</mezo>
-<mezo id = "cim">2800 Tatabánya Sárberek l00.</mezo>
+<mezo id = "nev">Ã‰szakdunÃ¡ntÃºli VÃ­zmÅ± RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2800 TatabÃ¡nya SÃ¡rberek l00.</mezo>
 <mezo id = "adosz">11186748211</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság az 1999. 08. 04-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-09. 45.31 Villanyszerelés.<ujsor/>
- Törölve: 1999. 10. 21-i hatállyal.<ujsor/>
- 45.21 Épület, híd, alagút, közmû, vezeték építése.<ujsor/>
- Hatályos: 1999. 10. 21-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g az 1999. 08. 04-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+09. 45.31 VillanyszerelÃ©s.<ujsor/>
+ TÃ¶rÃ¶lve: 1999. 10. 21-i hatÃ¡llyal.<ujsor/>
+ 45.21 Ã‰pÃ¼let, hÃ­d, alagÃºt, kÃ¶zmÅ±, vezetÃ©k Ã©pÃ­tÃ©se.<ujsor/>
+ HatÃ¡lyos: 1999. 10. 21-tÅ‘l.<ujsor/>
 Bejegyezve: 1999. 10. 21.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110001450</mezo>
-<mezo id = "nev">Északdunántúli Vízmû Részvénytársaság</mezo>
-<mezo id = "cim">2800 Tatabánya Sárberek 100.</mezo>
+<mezo id = "nev">Ã‰szakdunÃ¡ntÃºli VÃ­zmÅ± RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2800 TatabÃ¡nya SÃ¡rberek 100.</mezo>
 <mezo id = "adosz">11186748211</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2004. 06. 24-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. A képviselet módja: együttes.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (tisztségviselõ).<ujsor/>
- Móré János (an: Kovács Erzsébet)<ujsor/>
-1133 Budapest, Kárpát u. 44.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2004. 06. 24-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (tisztsÃ©gviselÅ‘).<ujsor/>
+ MÃ³rÃ© JÃ¡nos (an: KovÃ¡cs ErzsÃ©bet)<ujsor/>
+1133 Budapest, KÃ¡rpÃ¡t u. 44.<ujsor/>
  A jogviszony kezdete: 2003. 04. 25.<ujsor/>
- A jogviszony vége: 2005. 05. 31.<ujsor/>
- Törölve: 2004. 06. 24-i hatállyal.<ujsor/>
- A képviselet módja: önálló.<ujsor/>
- Tisztsége: más munkavállaló.<ujsor/>
- Németh Eszter (an: Hornyák Ilona)<ujsor/>
-2800 Tatabánya, Hadsereg u. 101.<ujsor/>
+ A jogviszony vÃ©ge: 2005. 05. 31.<ujsor/>
+ TÃ¶rÃ¶lve: 2004. 06. 24-i hatÃ¡llyal.<ujsor/>
+ A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: mÃ¡s munkavÃ¡llalÃ³.<ujsor/>
+ NÃ©meth Eszter (an: HornyÃ¡k Ilona)<ujsor/>
+2800 TatabÃ¡nya, Hadsereg u. 101.<ujsor/>
  A jogviszony kezdete: 1998. 06. 01.<ujsor/>
- A képviselet módja: önálló.<ujsor/>
- Tisztsége: más munkavállaló.<ujsor/>
- Dr. Szigligeti János (an: Nagy Márta)<ujsor/>
-2890 Tata, Hámán K. u. 20.<ujsor/>
+ A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: mÃ¡s munkavÃ¡llalÃ³.<ujsor/>
+ Dr. Szigligeti JÃ¡nos (an: Nagy MÃ¡rta)<ujsor/>
+2890 Tata, HÃ¡mÃ¡n K. u. 20.<ujsor/>
  A jogviszony kezdete: 1993. 04. 01.<ujsor/>
- Törölve: 2004. 05. 06-i hatállyal.<ujsor/>
- A képviselet módja: együttes.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (tisztségviselõ).<ujsor/>
- Móré László (an: Kovács Erzsébet)<ujsor/>
-1133 Budapest, Kárpát u. 44.<ujsor/>
+ TÃ¶rÃ¶lve: 2004. 05. 06-i hatÃ¡llyal.<ujsor/>
+ A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (tisztsÃ©gviselÅ‘).<ujsor/>
+ MÃ³rÃ© LÃ¡szlÃ³ (an: KovÃ¡cs ErzsÃ©bet)<ujsor/>
+1133 Budapest, KÃ¡rpÃ¡t u. 44.<ujsor/>
  A jogviszony kezdete: 2003. 04. 25.<ujsor/>
- A jogviszony vége: 2005. 05. 31.<ujsor/>
- Hatályos: 2004. 06. 24-tõl.<ujsor/>
- A képviselet módja: együttes.<ujsor/>
- Tisztsége: más munkavállaló.<ujsor/>
- Németh Eszter (an: Hornyák Olga)<ujsor/>
-2800 Tatabánya, Hadsereg u. 101.<ujsor/>
+ A jogviszony vÃ©ge: 2005. 05. 31.<ujsor/>
+ HatÃ¡lyos: 2004. 06. 24-tÅ‘l.<ujsor/>
+ A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: mÃ¡s munkavÃ¡llalÃ³.<ujsor/>
+ NÃ©meth Eszter (an: HornyÃ¡k Olga)<ujsor/>
+2800 TatabÃ¡nya, Hadsereg u. 101.<ujsor/>
  A jogviszony kezdete: 1998. 06. 01.<ujsor/>
- A képviselet módja: együttes.<ujsor/>
- Tisztsége: más munkavállaló.<ujsor/>
- Dr. Szigligeti János (an: Nagy Márta)<ujsor/>
-2890 Tata, Hámán K. u. 20.<ujsor/>
+ A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: mÃ¡s munkavÃ¡llalÃ³.<ujsor/>
+ Dr. Szigligeti JÃ¡nos (an: Nagy MÃ¡rta)<ujsor/>
+2890 Tata, HÃ¡mÃ¡n K. u. 20.<ujsor/>
  A jogviszony kezdete: 1993. 04. 01.<ujsor/>
- Hatályos: 2004. 05. 06-tól.<ujsor/>
+ HatÃ¡lyos: 2004. 05. 06-tÃ³l.<ujsor/>
 Bejegyezve: 2004. 07. 20.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110001450</mezo>
-<mezo id = "nev">Északdunántúli Vízmû Részvénytársaság</mezo>
-<mezo id = "cim">2800 Tatabánya, Sárberek 100.</mezo>
+<mezo id = "nev">Ã‰szakdunÃ¡ntÃºli VÃ­zmÅ± RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2800 TatabÃ¡nya, SÃ¡rberek 100.</mezo>
 <mezo id = "adosz">11186748211</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2004. 06. 24-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-14. [01 09 364944] C. C. Audit Könyvvizsgáló Korlátolt Felelõsségû Társaság<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2004. 06. 24-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+14. [01 09 364944] C. C. Audit KÃ¶nyvvizsgÃ¡lÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g<ujsor/>
 HU 1148 Budapest, Fogarasi u. 58.<ujsor/>
- Dr. Szebellédi István (an: Mikó Erzsébet)<ujsor/>
+ Dr. SzebellÃ©di IstvÃ¡n (an: MikÃ³ ErzsÃ©bet)<ujsor/>
 1148 Budapest, Fogarasi u. 58.<ujsor/>
  A jogviszony kezdete: 2004. 06. 01.<ujsor/>
- A jogviszony vége: 2005. 05. 31.<ujsor/>
- Törölve: 2004. 05. 31-i hatállyal.<ujsor/>
- [01 09 364944] C. C. Audit Könyvvizsgáló Korlátolt Felelõsségû Társaság<ujsor/>
+ A jogviszony vÃ©ge: 2005. 05. 31.<ujsor/>
+ TÃ¶rÃ¶lve: 2004. 05. 31-i hatÃ¡llyal.<ujsor/>
+ [01 09 364944] C. C. Audit KÃ¶nyvvizsgÃ¡lÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g<ujsor/>
 1148 Budapest, Fogarasi u. 58.<ujsor/>
- Dr. Szebellédi István (an: Mikó Erzsébet)<ujsor/>
+ Dr. SzebellÃ©di IstvÃ¡n (an: MikÃ³ ErzsÃ©bet)<ujsor/>
 1148 Budapest, Fogarasi u. 58.<ujsor/>
  A jogviszony kezdete: 2004. 06. 01.<ujsor/>
- A jogviszony vége: 2007. 05. 31.<ujsor/>
- Hatályos: 2004. 05. 31-tõl.<ujsor/>
+ A jogviszony vÃ©ge: 2007. 05. 31.<ujsor/>
+ HatÃ¡lyos: 2004. 05. 31-tÅ‘l.<ujsor/>
 Bejegyezve: 2005. 09. 15.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110001450</mezo>
-<mezo id = "nev">Északdunántúli Vízmû Részvénytársaság</mezo>
-<mezo id = "cim">2800 Tatabánya, Sárberek 100.</mezo>
+<mezo id = "nev">Ã‰szakdunÃ¡ntÃºli VÃ­zmÅ± RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2800 TatabÃ¡nya, SÃ¡rberek 100.</mezo>
 <mezo id = "adosz">11186748211</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2006. 01. 12-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. A képviselet módja: együttes.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (tisztségviselõ).<ujsor/>
- Gerencsér Károly (an: Szabó Mária)<ujsor/>
-2890 Tata, Új út 24.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2006. 01. 12-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (tisztsÃ©gviselÅ‘).<ujsor/>
+ GerencsÃ©r KÃ¡roly (an: SzabÃ³ MÃ¡ria)<ujsor/>
+2890 Tata, Ãšj Ãºt 24.<ujsor/>
  A jogviszony kezdete: 2005. 11. 22.<ujsor/>
- A képviselet módja: együttes.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (tisztségviselõ).<ujsor/>
- Tóth Attila (an: Veres Etelka)<ujsor/>
-2800 Tatabánya, Köztársaság u. 12. 2/3.<ujsor/>
+ A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (tisztsÃ©gviselÅ‘).<ujsor/>
+ TÃ³th Attila (an: Veres Etelka)<ujsor/>
+2800 TatabÃ¡nya, KÃ¶ztÃ¡rsasÃ¡g u. 12. 2/3.<ujsor/>
  A jogviszony kezdete: 2005. 11. 22.<ujsor/>
- Törölve: 2005. 11. 22-i hatállyal.<ujsor/>
- A képviselet módja: együttes.<ujsor/>
- Tisztsége: más munkavállaló.<ujsor/>
- Gerencsér Károly (an: Szabó Mária)<ujsor/>
-2890 Tata, Új út 24.<ujsor/>
+ TÃ¶rÃ¶lve: 2005. 11. 22-i hatÃ¡llyal.<ujsor/>
+ A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: mÃ¡s munkavÃ¡llalÃ³.<ujsor/>
+ GerencsÃ©r KÃ¡roly (an: SzabÃ³ MÃ¡ria)<ujsor/>
+2890 Tata, Ãšj Ãºt 24.<ujsor/>
  A jogviszony kezdete: 2005. 11. 22.<ujsor/>
- A képviselet módja: együttes.<ujsor/>
- Tisztsége: más munkavállaló.<ujsor/>
- Tóth Attila (an: Veres Etelka)<ujsor/>
-2800 Tatabánya, Köztársaság u. 12. 2/3.<ujsor/>
+ A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: mÃ¡s munkavÃ¡llalÃ³.<ujsor/>
+ TÃ³th Attila (an: Veres Etelka)<ujsor/>
+2800 TatabÃ¡nya, KÃ¶ztÃ¡rsasÃ¡g u. 12. 2/3.<ujsor/>
  A jogviszony kezdete: 2005. 11. 22.<ujsor/>
- Hatályos: 2005. 11. 22-tõl.<ujsor/>
+ HatÃ¡lyos: 2005. 11. 22-tÅ‘l.<ujsor/>
 Bejegyezve: 2006. 04. 20.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110001450</mezo>
-<mezo id = "nev">Északdunántúli Vízmû Részvénytársaság</mezo>
-<mezo id = "cim">2800 Tatabánya, Sárberek 100.</mezo>
+<mezo id = "nev">Ã‰szakdunÃ¡ntÃºli VÃ­zmÅ± RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2800 TatabÃ¡nya, SÃ¡rberek 100.</mezo>
 <mezo id = "adosz">11186748211</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2007. 07. 06-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. A képviselet módja: együttes.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (igazgatósági tag).<ujsor/>
- Csoknyay György (an: Frost Mária)<ujsor/>
-2500 Esztergom, Kis-Duna sétány 40.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2007. 07. 06-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag).<ujsor/>
+ Csoknyay GyÃ¶rgy (an: Frost MÃ¡ria)<ujsor/>
+2500 Esztergom, Kis-Duna sÃ©tÃ¡ny 40.<ujsor/>
  A jogviszony kezdete: 2007. 06. 01.<ujsor/>
- A jogviszony vége: 2007. 12. 31.<ujsor/>
- Törölve: 2007. 07. 06.<ujsor/>
- A képviselet módja: együttes.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (igazgatósági tag).<ujsor/>
- Csoknyay György (an: Forst Mária)<ujsor/>
-2500 Esztergom, Kis-Duna sétány 40.<ujsor/>
+ A jogviszony vÃ©ge: 2007. 12. 31.<ujsor/>
+ TÃ¶rÃ¶lve: 2007. 07. 06.<ujsor/>
+ A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag).<ujsor/>
+ Csoknyay GyÃ¶rgy (an: Forst MÃ¡ria)<ujsor/>
+2500 Esztergom, Kis-Duna sÃ©tÃ¡ny 40.<ujsor/>
  A jogviszony kezdete: 2007. 06. 01.<ujsor/>
- A jogviszony vége: 2007. 12. 31.<ujsor/>
+ A jogviszony vÃ©ge: 2007. 12. 31.<ujsor/>
  Bejegyezve: 2007. 07. 06.<ujsor/>
-15. Geiszler János (an: Kovács Mária)<ujsor/>
-2509 Esztergom-Kertváros, Mikes Kelemen u. 18.<ujsor/>
+15. Geiszler JÃ¡nos (an: KovÃ¡cs MÃ¡ria)<ujsor/>
+2509 Esztergom-KertvÃ¡ros, Mikes Kelemen u. 18.<ujsor/>
  A jogviszony kezdete: 2007. 06. 01.<ujsor/>
- A jogviszony vége: 2007. 12. 31.<ujsor/>
- Törölve: 2007. 07. 06.<ujsor/>
- Geiszler János (an: Kovács Mária)<ujsor/>
-2509 Esztergom-Kertváros, Mikes Kelemen u. 18.<ujsor/>
- A felügyelõbizottsági tag munkavállalói küldött.<ujsor/>
+ A jogviszony vÃ©ge: 2007. 12. 31.<ujsor/>
+ TÃ¶rÃ¶lve: 2007. 07. 06.<ujsor/>
+ Geiszler JÃ¡nos (an: KovÃ¡cs MÃ¡ria)<ujsor/>
+2509 Esztergom-KertvÃ¡ros, Mikes Kelemen u. 18.<ujsor/>
+ A felÃ¼gyelÅ‘bizottsÃ¡gi tag munkavÃ¡llalÃ³i kÃ¼ldÃ¶tt.<ujsor/>
  A jogviszony kezdete: 2007. 06. 01.<ujsor/>
- A jogviszony vége: 2007. 12. 31.<ujsor/>
+ A jogviszony vÃ©ge: 2007. 12. 31.<ujsor/>
  Bejegyezve: 2007. 07. 06.<ujsor/>
 2007. 07. 17.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110001450</mezo>
-<mezo id = "nev">Északdunántúli Vízmû Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">2800 Tatabánya, Sárberek 100.</mezo>
+<mezo id = "nev">Ã‰szakdunÃ¡ntÃºli VÃ­zmÅ± ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2800 TatabÃ¡nya, SÃ¡rberek 100.</mezo>
 <mezo id = "adosz">11186748211</mezo>
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2004. 06. 24-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. A képviselet módja: együttes.<ujsor/>
- Tisztsége: más munkavállaló.<ujsor/>
- Zalányiné Sárközi Lívia (an: Körmendi Lívia)<ujsor/>
-2890 Tata, Bláthy O. út 11. 2/7.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2004. 06. 24-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: mÃ¡s munkavÃ¡llalÃ³.<ujsor/>
+ ZalÃ¡nyinÃ© SÃ¡rkÃ¶zi LÃ­via (an: KÃ¶rmendi LÃ­via)<ujsor/>
+2890 Tata, BlÃ¡thy O. Ãºt 11. 2/7.<ujsor/>
  A jogviszony kezdete: 2004. 02. 17.<ujsor/>
- A változás idõpontja (törlés): 2004. 02. 17.<ujsor/>
- Törölve: 2004. 02. 17.<ujsor/>
- A képviselet módja: együttes.<ujsor/>
- Tisztsége: más munkavállaló.<ujsor/>
- Zalányiné Sárközy Lívia (an: Körmendi Lídia)<ujsor/>
-2890 Tata, Bláthy O. út 11. 2/7.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2004. 02. 17.<ujsor/>
+ TÃ¶rÃ¶lve: 2004. 02. 17.<ujsor/>
+ A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: mÃ¡s munkavÃ¡llalÃ³.<ujsor/>
+ ZalÃ¡nyinÃ© SÃ¡rkÃ¶zy LÃ­via (an: KÃ¶rmendi LÃ­dia)<ujsor/>
+2890 Tata, BlÃ¡thy O. Ãºt 11. 2/7.<ujsor/>
  A jogviszony kezdete: 2004. 02. 17.<ujsor/>
- A változás idõpontja: 2004. 02. 17.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2004. 02. 17.<ujsor/>
  Bejegyezve: 2004. 02. 17.<ujsor/>
 2008. 04. 17.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110001450</mezo>
-<mezo id = "nev">Északdunántúli Vízmû Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">2800 Tatabánya, Sárberek 100.</mezo>
+<mezo id = "nev">Ã‰szakdunÃ¡ntÃºli VÃ­zmÅ± ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2800 TatabÃ¡nya, SÃ¡rberek 100.</mezo>
 <mezo id = "adosz">11186748211</mezo>
 </alrovat>
 </rovat>

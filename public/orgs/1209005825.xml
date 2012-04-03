@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">005825</mezo>
 <mezo id = "nevalrovat">2</mezo>
-<mezo id = "cim">2651 Rétság, Rákóczi út 20. </mezo>
+<mezo id = "cim">2651 RÃ©tsÃ¡g, RÃ¡kÃ³czi Ãºt 20. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">14459191212</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20081001</mezo>
-<mezo id = "nev">Rétsági kistérségi Egészségfejlesztõ Központ Egészségügyi Szolgáltató Nonprofit Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">RÃ©tsÃ¡gi kistÃ©rsÃ©gi EgÃ©szsÃ©gfejlesztÅ‘ KÃ¶zpont EgÃ©szsÃ©gÃ¼gyi SzolgÃ¡ltatÃ³ Nonprofit KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">20081001</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20081021</mezo>
@@ -23,7 +23,7 @@
 <rovat id = "3">
 <alrovat id = "2">
 <mezo id = "hattol">20081001</mezo>
-<mezo id = "nev">Rétsági kistérségi Egészségfejlesztõ Központ Nonprofit Kft.</mezo>
+<mezo id = "nev">RÃ©tsÃ¡gi kistÃ©rsÃ©gi EgÃ©szsÃ©gfejlesztÅ‘ KÃ¶zpont Nonprofit Kft.</mezo>
 <mezo id = "valtk">20081001</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20081021</mezo>
@@ -34,8 +34,8 @@
 <alrovat id = "1">
 <mezo id = "hattol">20080910</mezo>
 <mezo id = "irsz">2651</mezo>
-<mezo id = "hely">Rétság</mezo>
-<mezo id = "teru">Rákóczi út 20.</mezo>
+<mezo id = "hely">RÃ©tsÃ¡g</mezo>
+<mezo id = "teru">RÃ¡kÃ³czi Ãºt 20.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
@@ -146,13 +146,13 @@
 <rovat id = "13">
 <alrovat id = "3">
 <mezo id = "hattol">20091118</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "email">ek@retsag.hu</mezo>
-<mezo id = "pnev">Balogh Péter</mezo>
+<mezo id = "pnev">Balogh PÃ©ter</mezo>
 <mezo id = "panev">Koblencz Lenke</mezo>
 <mezo id = "pirsz">1185</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Ungvár utca 35.</mezo>
+<mezo id = "pteru">UngvÃ¡r utca 35.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20090312</mezo>
 <mezo id = "valtk">20091118</mezo>
@@ -160,9 +160,9 @@
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20101029</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Bugarszki Miklós</mezo>
-<mezo id = "panev">Hóra Margit</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Bugarszki MiklÃ³s</mezo>
+<mezo id = "panev">HÃ³ra Margit</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20101101</mezo>
 <mezo id = "valtk">20101029</mezo>
@@ -173,10 +173,10 @@
 <rovat id = "14">
 <alrovat id = "1">
 <mezo id = "hattol">20080910</mezo>
-<mezo id = "pnev">Dr. Horváthné Balla Erzsébet</mezo>
-<mezo id = "panev">Hegedûs Mária</mezo>
+<mezo id = "pnev">Dr. HorvÃ¡thnÃ© Balla ErzsÃ©bet</mezo>
+<mezo id = "panev">HegedÅ±s MÃ¡ria</mezo>
 <mezo id = "pirsz">2651</mezo>
-<mezo id = "phely">Rétság, Körtefa utca 31.</mezo>
+<mezo id = "phely">RÃ©tsÃ¡g, KÃ¶rtefa utca 31.</mezo>
 <mezo id = "jogvk">20080904</mezo>
 <mezo id = "jogvv">20130904</mezo>
 <mezo id = "valtk">0</mezo>
@@ -188,33 +188,33 @@
 <rovat id = "15">
 <alrovat id = "6">
 <mezo id = "hattol">20091001</mezo>
-<mezo id = "pnev">Rompos Dezsõ</mezo>
-<mezo id = "panev">Mézes Erzsébet</mezo>
+<mezo id = "pnev">Rompos DezsÅ‘</mezo>
+<mezo id = "panev">MÃ©zes ErzsÃ©bet</mezo>
 <mezo id = "pirsz">2651</mezo>
-<mezo id = "phely">Rétság</mezo>
-<mezo id = "pteru">Korányi Frigyes utca 5.</mezo>
+<mezo id = "phely">RÃ©tsÃ¡g</mezo>
+<mezo id = "pteru">KorÃ¡nyi Frigyes utca 5.</mezo>
 <mezo id = "jogvk">20091001</mezo>
 <mezo id = "valtk">20091001</mezo>
 <mezo id = "bkelt">20091118</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">20091001</mezo>
-<mezo id = "pnev">dr. Márton Magdolna Anna</mezo>
+<mezo id = "pnev">dr. MÃ¡rton Magdolna Anna</mezo>
 <mezo id = "panev">Pap Gizella</mezo>
 <mezo id = "pirsz">2651</mezo>
-<mezo id = "phely">Rétság</mezo>
-<mezo id = "pteru">Börzsönyi út 27.</mezo>
+<mezo id = "phely">RÃ©tsÃ¡g</mezo>
+<mezo id = "pteru">BÃ¶rzsÃ¶nyi Ãºt 27.</mezo>
 <mezo id = "jogvk">20091001</mezo>
 <mezo id = "valtk">20091001</mezo>
 <mezo id = "bkelt">20091118</mezo>
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">20091001</mezo>
-<mezo id = "pnev">Fiam Pál</mezo>
-<mezo id = "panev">Majeszki Erzsébet</mezo>
+<mezo id = "pnev">Fiam PÃ¡l</mezo>
+<mezo id = "panev">Majeszki ErzsÃ©bet</mezo>
 <mezo id = "pirsz">2651</mezo>
-<mezo id = "phely">Rétság</mezo>
-<mezo id = "pteru">Takarék utca 53.</mezo>
+<mezo id = "phely">RÃ©tsÃ¡g</mezo>
+<mezo id = "pteru">TakarÃ©k utca 53.</mezo>
 <mezo id = "jogvk">20091001</mezo>
 <mezo id = "valtk">20091001</mezo>
 <mezo id = "bkelt">20091118</mezo>
@@ -236,17 +236,17 @@
 <alrovat id = "2">
 <mezo id = "adosz">14459191212</mezo>
 <mezo id = "bkelt">20111026</mezo>
-<mezo id = "megj">Státusz kezdete: 2008/09/10</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 2008/09/10</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0109">
 <alrovat id = "2">
 <mezo id = "hattol">20081001</mezo>
-<mezo id = "nev">Alsópetény Község Önkormányzata</mezo>
+<mezo id = "nev">AlsÃ³petÃ©ny KÃ¶zsÃ©g Ã–nkormÃ¡nyzata</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2617</mezo>
-<mezo id = "hely">Alsópetény</mezo>
-<mezo id = "teru">Petõfi</mezo>
+<mezo id = "hely">AlsÃ³petÃ©ny</mezo>
+<mezo id = "teru">PetÅ‘fi</mezo>
 <mezo id = "hsz">24.</mezo>
 <mezo id = "tagsk">20081001</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -257,11 +257,11 @@
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20081001</mezo>
-<mezo id = "nev">Bánk Község Önkormányzata</mezo>
+<mezo id = "nev">BÃ¡nk KÃ¶zsÃ©g Ã–nkormÃ¡nyzata</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2653</mezo>
-<mezo id = "hely">Bánk</mezo>
-<mezo id = "teru">Hõsök</mezo>
+<mezo id = "hely">BÃ¡nk</mezo>
+<mezo id = "teru">HÅ‘sÃ¶k</mezo>
 <mezo id = "hsz">11.</mezo>
 <mezo id = "tagsk">20081001</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -272,11 +272,11 @@
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20081001</mezo>
-<mezo id = "nev">Borsosberény Község Önkormányzata</mezo>
+<mezo id = "nev">BorsosberÃ©ny KÃ¶zsÃ©g Ã–nkormÃ¡nyzata</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2644</mezo>
-<mezo id = "hely">Borsosberény</mezo>
-<mezo id = "teru">Petõfi</mezo>
+<mezo id = "hely">BorsosberÃ©ny</mezo>
+<mezo id = "teru">PetÅ‘fi</mezo>
 <mezo id = "hsz">155.</mezo>
 <mezo id = "tagsk">20081001</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -287,11 +287,11 @@
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20081001</mezo>
-<mezo id = "nev">Diósjenõ Község Önkormányzata</mezo>
+<mezo id = "nev">DiÃ³sjenÅ‘ KÃ¶zsÃ©g Ã–nkormÃ¡nyzata</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2643</mezo>
-<mezo id = "hely">Diósjenõ</mezo>
-<mezo id = "teru">Szabadság</mezo>
+<mezo id = "hely">DiÃ³sjenÅ‘</mezo>
+<mezo id = "teru">SzabadsÃ¡g</mezo>
 <mezo id = "hsz">31.</mezo>
 <mezo id = "tagsk">20081001</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -302,11 +302,11 @@
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20081001</mezo>
-<mezo id = "nev">Felsõpetény Község Önkormányzata</mezo>
+<mezo id = "nev">FelsÅ‘petÃ©ny KÃ¶zsÃ©g Ã–nkormÃ¡nyzata</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2611</mezo>
-<mezo id = "hely">Felsõpetény</mezo>
-<mezo id = "teru">Szabadság</mezo>
+<mezo id = "hely">FelsÅ‘petÃ©ny</mezo>
+<mezo id = "teru">SzabadsÃ¡g</mezo>
 <mezo id = "hsz">1.</mezo>
 <mezo id = "tagsk">20081001</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -317,10 +317,10 @@
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">20081001</mezo>
-<mezo id = "nev">Horpács Község Önkormányzata</mezo>
+<mezo id = "nev">HorpÃ¡cs KÃ¶zsÃ©g Ã–nkormÃ¡nyzata</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2658</mezo>
-<mezo id = "hely">Horpács</mezo>
+<mezo id = "hely">HorpÃ¡cs</mezo>
 <mezo id = "teru">Kossuth L.</mezo>
 <mezo id = "hsz">12.</mezo>
 <mezo id = "tagsk">20081001</mezo>
@@ -332,11 +332,11 @@
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">20081001</mezo>
-<mezo id = "nev">Kétbodony Község Önkormányzata</mezo>
+<mezo id = "nev">KÃ©tbodony KÃ¶zsÃ©g Ã–nkormÃ¡nyzata</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2655</mezo>
-<mezo id = "hely">Kétbodony</mezo>
-<mezo id = "teru">Madách</mezo>
+<mezo id = "hely">KÃ©tbodony</mezo>
+<mezo id = "teru">MadÃ¡ch</mezo>
 <mezo id = "hsz">37.</mezo>
 <mezo id = "tagsk">20081001</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -347,7 +347,7 @@
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">20081001</mezo>
-<mezo id = "nev">Kisecset Község Önkormányzata</mezo>
+<mezo id = "nev">Kisecset KÃ¶zsÃ©g Ã–nkormÃ¡nyzata</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2655</mezo>
 <mezo id = "hely">Kisecset</mezo>
@@ -362,11 +362,11 @@
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">20081001</mezo>
-<mezo id = "nev">Legénd Község Önkormányzata</mezo>
+<mezo id = "nev">LegÃ©nd KÃ¶zsÃ©g Ã–nkormÃ¡nyzata</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2619</mezo>
-<mezo id = "hely">Legénd</mezo>
-<mezo id = "teru">Dózsa György</mezo>
+<mezo id = "hely">LegÃ©nd</mezo>
+<mezo id = "teru">DÃ³zsa GyÃ¶rgy</mezo>
 <mezo id = "hsz">75.</mezo>
 <mezo id = "tagsk">20081001</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -377,11 +377,11 @@
 </alrovat>
 <alrovat id = "11">
 <mezo id = "hattol">20081001</mezo>
-<mezo id = "nev">Nagyoroszi Község Önkormányzata</mezo>
+<mezo id = "nev">Nagyoroszi KÃ¶zsÃ©g Ã–nkormÃ¡nyzata</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2645</mezo>
 <mezo id = "hely">Nagyoroszi</mezo>
-<mezo id = "teru">Felszabadulás</mezo>
+<mezo id = "teru">FelszabadulÃ¡s</mezo>
 <mezo id = "hsz">1.</mezo>
 <mezo id = "tagsk">20081001</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -392,11 +392,11 @@
 </alrovat>
 <alrovat id = "12">
 <mezo id = "hattol">20081001</mezo>
-<mezo id = "nev">Nõtincs Község Önkormányzata</mezo>
+<mezo id = "nev">NÅ‘tincs KÃ¶zsÃ©g Ã–nkormÃ¡nyzata</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2610</mezo>
-<mezo id = "hely">Nõtincs</mezo>
-<mezo id = "teru">Szabadság</mezo>
+<mezo id = "hely">NÅ‘tincs</mezo>
+<mezo id = "teru">SzabadsÃ¡g</mezo>
 <mezo id = "hsz">50.</mezo>
 <mezo id = "tagsk">20081001</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -407,11 +407,11 @@
 </alrovat>
 <alrovat id = "13">
 <mezo id = "hattol">20081001</mezo>
-<mezo id = "nev">Õsagárd Község Önkormányzata</mezo>
+<mezo id = "nev">ÅsagÃ¡rd KÃ¶zsÃ©g Ã–nkormÃ¡nyzata</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2616</mezo>
-<mezo id = "hely">Õsagárd</mezo>
-<mezo id = "teru">Rákóczi</mezo>
+<mezo id = "hely">ÅsagÃ¡rd</mezo>
+<mezo id = "teru">RÃ¡kÃ³czi</mezo>
 <mezo id = "hsz">93.</mezo>
 <mezo id = "tagsk">20081001</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -422,7 +422,7 @@
 </alrovat>
 <alrovat id = "14">
 <mezo id = "hattol">20081001</mezo>
-<mezo id = "nev">Pusztaberki Község Önkormányzata</mezo>
+<mezo id = "nev">Pusztaberki KÃ¶zsÃ©g Ã–nkormÃ¡nyzata</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2658</mezo>
 <mezo id = "hely">Pusztaberki</mezo>
@@ -437,11 +437,11 @@
 </alrovat>
 <alrovat id = "15">
 <mezo id = "hattol">20081001</mezo>
-<mezo id = "nev">Szendehely Község Önkormányzata</mezo>
+<mezo id = "nev">Szendehely KÃ¶zsÃ©g Ã–nkormÃ¡nyzata</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2640</mezo>
 <mezo id = "hely">Szendehely</mezo>
-<mezo id = "teru">Petõfi</mezo>
+<mezo id = "teru">PetÅ‘fi</mezo>
 <mezo id = "hsz">2.</mezo>
 <mezo id = "tagsk">20081001</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -452,7 +452,7 @@
 </alrovat>
 <alrovat id = "16">
 <mezo id = "hattol">20081001</mezo>
-<mezo id = "nev">Szente Község Önkormányzata</mezo>
+<mezo id = "nev">Szente KÃ¶zsÃ©g Ã–nkormÃ¡nyzata</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2655</mezo>
 <mezo id = "hely">Szente</mezo>
@@ -467,7 +467,7 @@
 </alrovat>
 <alrovat id = "17">
 <mezo id = "hattol">20081001</mezo>
-<mezo id = "nev">Tereske Község Önkormányzata</mezo>
+<mezo id = "nev">Tereske KÃ¶zsÃ©g Ã–nkormÃ¡nyzata</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2652</mezo>
 <mezo id = "hely">Tereske</mezo>
@@ -482,10 +482,10 @@
 </alrovat>
 <alrovat id = "18">
 <mezo id = "hattol">20081001</mezo>
-<mezo id = "nev">Tolmács Község Önkormányzata</mezo>
+<mezo id = "nev">TolmÃ¡cs KÃ¶zsÃ©g Ã–nkormÃ¡nyzata</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2657</mezo>
-<mezo id = "hely">Tolmács</mezo>
+<mezo id = "hely">TolmÃ¡cs</mezo>
 <mezo id = "teru">Sport</mezo>
 <mezo id = "hsz">1.</mezo>
 <mezo id = "tagsk">20081001</mezo>
@@ -497,11 +497,11 @@
 </alrovat>
 <alrovat id = "19">
 <mezo id = "hattol">20081001</mezo>
-<mezo id = "nev">Rétság Város Önkormányzata</mezo>
+<mezo id = "nev">RÃ©tsÃ¡g VÃ¡ros Ã–nkormÃ¡nyzata</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2651</mezo>
-<mezo id = "hely">Rétság</mezo>
-<mezo id = "teru">Rákóczi</mezo>
+<mezo id = "hely">RÃ©tsÃ¡g</mezo>
+<mezo id = "teru">RÃ¡kÃ³czi</mezo>
 <mezo id = "hsz">20.</mezo>
 <mezo id = "tagsk">20080904</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -516,14 +516,14 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a cég 2011. június hó 6. napján benyújtott változás bejegyzése iránti kérelmét elutasítja.<ujsor/>
-A végzés ellen a kézbesítéstõl számított 15 (tizenöt) napon belül a Fõvárosi Ïtélõtáblához címzett, de a Nógrád Megyei Bíróságnál, mint Cégbíróságnál 1 (egy) példányban elektronikus úton benyújtható fellebbezésnek van helye. A fellebbezéshez csatolni kell a fellebbezési illeték (7.000.- Ft) elektronikus úton történõ megfizetését igazoló MÁK igazolást. A Fõvárosi Ïtélõtábla elõtti eljárásban a fellebbezõ fél részére a jogi képviselet kötelezõ.<ujsor/>
-Az elutasító végzés ellen a cég, továbbá az akire a végzés rendelkezést tartalmaz - a rendelkezés rá vonatkozó része ellen- a cég számára nyitva álló határidõn belül - élhet fellebbezéssel.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a cÃ©g 2011. jÃºnius hÃ³ 6. napjÃ¡n benyÃºjtott vÃ¡ltozÃ¡s bejegyzÃ©se irÃ¡nti kÃ©relmÃ©t elutasÃ­tja.<ujsor/>
+A vÃ©gzÃ©s ellen a kÃ©zbesÃ­tÃ©stÅ‘l szÃ¡mÃ­tott 15 (tizenÃ¶t) napon belÃ¼l a FÅ‘vÃ¡rosi ÄtÃ©lÅ‘tÃ¡blÃ¡hoz cÃ­mzett, de a NÃ³grÃ¡d Megyei BÃ­rÃ³sÃ¡gnÃ¡l, mint CÃ©gbÃ­rÃ³sÃ¡gnÃ¡l 1 (egy) pÃ©ldÃ¡nyban elektronikus Ãºton benyÃºjthatÃ³ fellebbezÃ©snek van helye. A fellebbezÃ©shez csatolni kell a fellebbezÃ©si illetÃ©k (7.000.- Ft) elektronikus Ãºton tÃ¶rtÃ©nÅ‘ megfizetÃ©sÃ©t igazolÃ³ MÃK igazolÃ¡st. A FÅ‘vÃ¡rosi ÄtÃ©lÅ‘tÃ¡bla elÅ‘tti eljÃ¡rÃ¡sban a fellebbezÅ‘ fÃ©l rÃ©szÃ©re a jogi kÃ©pviselet kÃ¶telezÅ‘.<ujsor/>
+Az elutasÃ­tÃ³ vÃ©gzÃ©s ellen a cÃ©g, tovÃ¡bbÃ¡ az akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s rÃ¡ vonatkozÃ³ rÃ©sze ellen- a cÃ©g szÃ¡mÃ¡ra nyitva Ã¡llÃ³ hatÃ¡ridÅ‘n belÃ¼l - Ã©lhet fellebbezÃ©ssel.<ujsor/>
 2011. augusztus 16.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1209005825</mezo>
-<mezo id = "nev">Rétsági kistérségi Egészségfejlesztõ Központ Egészségügyi Szolgáltató Nonprofit Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">2651 Rétság, Rákóczi út 20.</mezo>
+<mezo id = "nev">RÃ©tsÃ¡gi kistÃ©rsÃ©gi EgÃ©szsÃ©gfejlesztÅ‘ KÃ¶zpont EgÃ©szsÃ©gÃ¼gyi SzolgÃ¡ltatÃ³ Nonprofit KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2651 RÃ©tsÃ¡g, RÃ¡kÃ³czi Ãºt 20.</mezo>
 <mezo id = "adosz">14459191212</mezo>
 </alrovat>
 </rovat>

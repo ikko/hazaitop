@@ -8,7 +8,7 @@
 <mezo id = "regi_szh">0110045029</mezo>
 <mezo id = "uj_szh">0710001394</mezo>
 <mezo id = "allapot">6</mezo>
-<mezo id = "cim">2100 Gödöllõ, Kotlán Sándor utca 3. </mezo>
+<mezo id = "cim">2100 GÃ¶dÃ¶llÅ‘, KotlÃ¡n SÃ¡ndor utca 3. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">13215613213</mezo>
 </alrovat>
@@ -16,7 +16,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20060206</mezo>
-<mezo id = "nev">PIKOSYSTEM Kórházi Technológiai zrt.</mezo>
+<mezo id = "nev">PIKOSYSTEM KÃ³rhÃ¡zi TechnolÃ³giai zrt.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -29,8 +29,8 @@
 <alrovat id = "2">
 <mezo id = "hattol">20100215</mezo>
 <mezo id = "irsz">2100</mezo>
-<mezo id = "hely">Gödöllõ</mezo>
-<mezo id = "teru">Kotlán Sándor utca 3.</mezo>
+<mezo id = "hely">GÃ¶dÃ¶llÅ‘</mezo>
+<mezo id = "teru">KotlÃ¡n SÃ¡ndor utca 3.</mezo>
 <mezo id = "valtk">20100215</mezo>
 <mezo id = "bkelt">20100421</mezo>
 </alrovat>
@@ -309,7 +309,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090506</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb személyi használatú, háztartási cikk kölcsönzése</mezo>
+<mezo id = "teaszov">EgyÃ©b szemÃ©lyi hasznÃ¡latÃº, hÃ¡ztartÃ¡si cikk kÃ¶lcsÃ¶nzÃ©se</mezo>
 </alrovat>
 <alrovat id = "44">
 <mezo id = "hattol">20090429</mezo>
@@ -327,7 +327,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090506</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb gép, tárgyi eszköz kölcsönzése</mezo>
+<mezo id = "teaszov">EgyÃ©b gÃ©p, tÃ¡rgyi eszkÃ¶z kÃ¶lcsÃ¶nzÃ©se</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -346,10 +346,10 @@
 <rovat id = "13">
 <alrovat id = "1">
 <mezo id = "hattol">20040414</mezo>
-<mezo id = "pnev">dr. Pázmándi Péter</mezo>
-<mezo id = "panev">Kis Éva</mezo>
+<mezo id = "pnev">dr. PÃ¡zmÃ¡ndi PÃ©ter</mezo>
+<mezo id = "panev">Kis Ã‰va</mezo>
 <mezo id = "pirsz">2100</mezo>
-<mezo id = "phely">Gödöllõ, Kereszt u. 7.</mezo>
+<mezo id = "phely">GÃ¶dÃ¶llÅ‘, Kereszt u. 7.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">3</mezo>
 <mezo id = "jogvk">20031115</mezo>
@@ -360,7 +360,7 @@
 <mezo id = "pnev">Kamasz Imre</mezo>
 <mezo id = "panev">Kusztor Margit</mezo>
 <mezo id = "pirsz">1054</mezo>
-<mezo id = "phely">Budapest, Tüköry u. 5.</mezo>
+<mezo id = "phely">Budapest, TÃ¼kÃ¶ry u. 5.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">3</mezo>
 <mezo id = "jogvk">20031115</mezo>
@@ -368,10 +368,10 @@
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20040414</mezo>
-<mezo id = "pnev">Lászlóffy Miklós</mezo>
-<mezo id = "panev">Hegedûs Éva</mezo>
+<mezo id = "pnev">LÃ¡szlÃ³ffy MiklÃ³s</mezo>
+<mezo id = "panev">HegedÅ±s Ã‰va</mezo>
 <mezo id = "pirsz">2113</mezo>
-<mezo id = "phely">Erdõkertes, Ady Endre u. 24.</mezo>
+<mezo id = "phely">ErdÅ‘kertes, Ady Endre u. 24.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">3</mezo>
 <mezo id = "jogvk">20031115</mezo>
@@ -379,37 +379,37 @@
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">20090529</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatótanácsi tag)</mezo>
-<mezo id = "pnev">Pázmándi Bálint</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³tanÃ¡csi tag)</mezo>
+<mezo id = "pnev">PÃ¡zmÃ¡ndi BÃ¡lint</mezo>
 <mezo id = "panev">Albert Andrea</mezo>
 <mezo id = "pirsz">1141</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Szilágysomlyó utca 58.</mezo>
+<mezo id = "pteru">SzilÃ¡gysomlyÃ³ utca 58.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20090529</mezo>
-<mezo id = "mnev">Tóth Péterné Fecske Zsuzsanna</mezo>
+<mezo id = "mnev">TÃ³th PÃ©ternÃ© Fecske Zsuzsanna</mezo>
 <mezo id = "valtk">20090529</mezo>
 <mezo id = "bkelt">20091014</mezo>
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">20090529</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatótanácsi tag)</mezo>
-<mezo id = "pnev">Tóth Péterné Fecske Zsuzsanna</mezo>
-<mezo id = "panev">Bálint Márta</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³tanÃ¡csi tag)</mezo>
+<mezo id = "pnev">TÃ³th PÃ©ternÃ© Fecske Zsuzsanna</mezo>
+<mezo id = "panev">BÃ¡lint MÃ¡rta</mezo>
 <mezo id = "pirsz">2400</mezo>
-<mezo id = "phely">Dunaújváros</mezo>
-<mezo id = "pteru">Öreghegy utca 24.</mezo>
+<mezo id = "phely">DunaÃºjvÃ¡ros</mezo>
+<mezo id = "pteru">Ã–reghegy utca 24.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20090529</mezo>
-<mezo id = "mnev">Pázmándi Bálint</mezo>
+<mezo id = "mnev">PÃ¡zmÃ¡ndi BÃ¡lint</mezo>
 <mezo id = "valtk">20090529</mezo>
 <mezo id = "bkelt">20091014</mezo>
 </alrovat>
 <alrovat id = "11">
 <mezo id = "hattol">20100506</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatótanácsi tag)</mezo>
-<mezo id = "pnev">dr. Maróth Gáspár</mezo>
-<mezo id = "panev">dr. Jeremiás Éva</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³tanÃ¡csi tag)</mezo>
+<mezo id = "pnev">dr. MarÃ³th GÃ¡spÃ¡r</mezo>
+<mezo id = "panev">dr. JeremiÃ¡s Ã‰va</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100506</mezo>
 <mezo id = "valtk">20100506</mezo>
@@ -420,10 +420,10 @@
 <rovat id = "14">
 <alrovat id = "2">
 <mezo id = "hattol">20081002</mezo>
-<mezo id = "pnev">Fehér Tamás</mezo>
-<mezo id = "panev">Szûcs Klárla</mezo>
+<mezo id = "pnev">FehÃ©r TamÃ¡s</mezo>
+<mezo id = "panev">SzÅ±cs KlÃ¡rla</mezo>
 <mezo id = "pirsz">1161</mezo>
-<mezo id = "phely">Budapest, Pálya utca 141.</mezo>
+<mezo id = "phely">Budapest, PÃ¡lya utca 141.</mezo>
 <mezo id = "jogvk">20080801</mezo>
 <mezo id = "jogvv">20130801</mezo>
 <mezo id = "valtk">20081002</mezo>
@@ -436,7 +436,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20040414</mezo>
 <mezo id = "cgjsz">109682234</mezo>
-<mezo id = "nev">PIKOSYSTEM Egészségügyi Fõvállalkozási és Kórháztechnikai Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">PIKOSYSTEM EgÃ©szsÃ©gÃ¼gyi FÅ‘vÃ¡llalkozÃ¡si Ã©s KÃ³rhÃ¡ztechnikai KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "20">
@@ -473,11 +473,11 @@
 <alrovat id = "2">
 <mezo id = "hattol">20100506</mezo>
 <mezo id = "cgjsz">0710001296</mezo>
-<mezo id = "nev">EN-INVEST Kereskedelmi és Szolgáltató Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">EN-INVEST Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2400</mezo>
-<mezo id = "hely">Dunaújváros</mezo>
-<mezo id = "teru">Petõfi Sándor utca 63.</mezo>
+<mezo id = "hely">DunaÃºjvÃ¡ros</mezo>
+<mezo id = "teru">PetÅ‘fi SÃ¡ndor utca 63.</mezo>
 <mezo id = "tagsk">20100506</mezo>
 <mezo id = "sz3">x</mezo>
 <mezo id = "valtk">20100506</mezo>

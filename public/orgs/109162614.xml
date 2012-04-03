@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">162614</mezo>
 <mezo id = "nevalrovat">3</mezo>
-<mezo id = "cim">1158 Budapest, Körvasút sor 110. </mezo>
+<mezo id = "cim">1158 Budapest, KÃ¶rvasÃºt sor 110. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">10669769242</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "3">
 <mezo id = "hattol">20040316</mezo>
-<mezo id = "nev">ThyssenKrupp Lift Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">ThyssenKrupp Lift KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -25,7 +25,7 @@
 <rovat id = "4">
 <alrovat id = "3">
 <mezo id = "hattol">20040316</mezo>
-<mezo id = "nev">ThyssenKrupp Lift Gesellschaft mit beschränkter Haftung ThyssenKrupp Lift GmbH</mezo>
+<mezo id = "nev">ThyssenKrupp Lift Gesellschaft mit beschrÃ¤nkter Haftung ThyssenKrupp Lift GmbH</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
@@ -33,7 +33,7 @@
 <mezo id = "hattol">20051101</mezo>
 <mezo id = "irsz">1158</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Körvasút sor 110.</mezo>
+<mezo id = "teru">KÃ¶rvasÃºt sor 110.</mezo>
 <mezo id = "kirsz">0</mezo>
 </alrovat>
 </rovat>
@@ -41,8 +41,8 @@
 <alrovat id = "1">
 <mezo id = "hattol">20101210</mezo>
 <mezo id = "irsz">6000</mezo>
-<mezo id = "hely">Kecskemét</mezo>
-<mezo id = "teru">Katona József tér 18.</mezo>
+<mezo id = "hely">KecskemÃ©t</mezo>
+<mezo id = "teru">Katona JÃ³zsef tÃ©r 18.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20101210</mezo>
 <mezo id = "bkelt">20110107</mezo>
@@ -641,10 +641,10 @@
 <rovat id = "13">
 <alrovat id = "8">
 <mezo id = "hattol">20080228</mezo>
-<mezo id = "pnev">Déri László</mezo>
-<mezo id = "panev">Erdélyi Veronika</mezo>
+<mezo id = "pnev">DÃ©ri LÃ¡szlÃ³</mezo>
+<mezo id = "panev">ErdÃ©lyi Veronika</mezo>
 <mezo id = "pirsz">1038</mezo>
-<mezo id = "phely">Budapest, Határ út 19.</mezo>
+<mezo id = "phely">Budapest, HatÃ¡r Ãºt 19.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">4</mezo>
 <mezo id = "jogvk">20080301</mezo>
@@ -656,12 +656,12 @@
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">20110101</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Balás Gábor</mezo>
-<mezo id = "panev">Márton Elza</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">BalÃ¡s GÃ¡bor</mezo>
+<mezo id = "panev">MÃ¡rton Elza</mezo>
 <mezo id = "pirsz">1025</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Csalán utca 3.</mezo>
+<mezo id = "pteru">CsalÃ¡n utca 3.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20110101</mezo>
 <mezo id = "valtk">20110101</mezo>
@@ -673,16 +673,16 @@
 <alrovat id = "6">
 <mezo id = "hattol">20101210</mezo>
 <mezo id = "cgjsz">0109063183</mezo>
-<mezo id = "nev">KPMG Hungária Kft.15 A felügyelõbizottsági tagok adatai</mezo>
+<mezo id = "nev">KPMG HungÃ¡ria Kft.15 A felÃ¼gyelÅ‘bizottsÃ¡gi tagok adatai</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1139</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Váci út 99.</mezo>
+<mezo id = "teru">VÃ¡ci Ãºt 99.</mezo>
 <mezo id = "pnev">dr. Eperjesi Ferenc</mezo>
-<mezo id = "panev">Kiss Erzsébet</mezo>
+<mezo id = "panev">Kiss ErzsÃ©bet</mezo>
 <mezo id = "pirsz">1039</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Ady Endre út 20.</mezo>
+<mezo id = "pteru">Ady Endre Ãºt 20.</mezo>
 <mezo id = "jogvk">20101210</mezo>
 <mezo id = "jogvv">20151231</mezo>
 <mezo id = "valtk">20101210</mezo>
@@ -715,16 +715,16 @@
 <rovat id = "0109">
 <alrovat id = "11">
 <mezo id = "hattol">20071026</mezo>
-<mezo id = "nev">ThyssenKrupp Aufzüge GmbH</mezo>
+<mezo id = "nev">ThyssenKrupp AufzÃ¼ge GmbH</mezo>
 <mezo id = "orsz">AT</mezo>
 <mezo id = "irsz">1230</mezo>
 <mezo id = "hely">Wien</mezo>
 <mezo id = "teru">Slamastrasse</mezo>
 <mezo id = "hsz">29.</mezo>
-<mezo id = "pmnev">Gyánóné Müller Katalin</mezo>
-<mezo id = "pmanev">Kántor Erzsébet</mezo>
+<mezo id = "pmnev">GyÃ¡nÃ³nÃ© MÃ¼ller Katalin</mezo>
+<mezo id = "pmanev">KÃ¡ntor ErzsÃ©bet</mezo>
 <mezo id = "pmirsz">2134</mezo>
-<mezo id = "pmhely">Szõd, Bem J. u. 17.</mezo>
+<mezo id = "pmhely">SzÅ‘d, Bem J. u. 17.</mezo>
 <mezo id = "tagsk">20030929</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "sz2">x</mezo>
@@ -743,51 +743,51 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2000. 07. 25-én hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2000. 07. 25-Ã©n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
 19. 061775-02.<ujsor/>
- Hatályos: 2000. 07. 25-tõl.<ujsor/>
+ HatÃ¡lyos: 2000. 07. 25-tÅ‘l.<ujsor/>
 Bejegyezve: 2000. 08. 15.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109162614</mezo>
-<mezo id = "nev">Thyssen Lift Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1138 Budapest, Jakab József u. 17.</mezo>
+<mezo id = "nev">Thyssen Lift KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1138 Budapest, Jakab JÃ³zsef u. 17.</mezo>
 <mezo id = "adosz">10669769241</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2008. 03. 11-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-A Fõvárosi Bíróság, mint Cégbíróság megállapítja, hogy a Cg .01-09-162614 /74. számú végzésében a 1/010. rovat téves törlõ dátuma 2008. január 30., <ujsor/>
-helyes törlõ dátum <ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2008. 03. 11-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g, mint CÃ©gbÃ­rÃ³sÃ¡g megÃ¡llapÃ­tja, hogy a Cg .01-09-162614 /74. szÃ¡mÃº vÃ©gzÃ©sÃ©ben a 1/010. rovat tÃ©ves tÃ¶rlÅ‘ dÃ¡tuma 2008. januÃ¡r 30., <ujsor/>
+helyes tÃ¶rlÅ‘ dÃ¡tum <ujsor/>
 2007. december 20. <ujsor/>
 Bejegyezve: 2008. 04. 03.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109162614</mezo>
-<mezo id = "nev">ThyssenKrupp Lift Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1158 Budapest, Körvasút sor 110.</mezo>
+<mezo id = "nev">ThyssenKrupp Lift KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1158 Budapest, KÃ¶rvasÃºt sor 110.</mezo>
 <mezo id = "adosz">10669769242</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság a Cg.01-09-162614 cégjegyzékszámon bejegyzett ThyssenKrupp Lift Korlátolt Felelõsségû Társaság (1158 Budapest, Körvasút sor 110.; adószáma: 10669769-2-42) kérelme alapján elrendeli az 2011. január 7. napján hozott Cg.01-09-162614/86. számú végzésének kijavítását az alábbiak szerint:<ujsor/>
-15. A felügyelõbizottsági tagok adatai<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.01-09-162614 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett ThyssenKrupp Lift KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (1158 Budapest, KÃ¶rvasÃºt sor 110.; adÃ³szÃ¡ma: 10669769-2-42) kÃ©relme alapjÃ¡n elrendeli az 2011. januÃ¡r 7. napjÃ¡n hozott Cg.01-09-162614/86. szÃ¡mÃº vÃ©gzÃ©sÃ©nek kijavÃ­tÃ¡sÃ¡t az alÃ¡bbiak szerint:<ujsor/>
+15. A felÃ¼gyelÅ‘bizottsÃ¡gi tagok adatai<ujsor/>
 Ing.Markus Wartinger (an.: Margarethe Jauk)<ujsor/>
-Külföldi lakó,illetve tartózkodási helye:<ujsor/>
-AT 8114 Kleinstübing, Kleinstübing 181.<ujsor/>
-A kézbesítési megbízott:<ujsor/>
-Gyánóné Müller Katalin (an.: Kántor Erzsébet)<ujsor/>
-2134 Szõd, Bem J. u 17.<ujsor/>
-Jogv. kezdete: 2005.11.01. Jogv. vége: 2009.06.30.<ujsor/>
-Vált. vége: 2010.12.10.<ujsor/>
-Törölve (végzés kelte): 2011. január 31.<ujsor/>
-E végzés ellen fellebbezésnek nincs helye, azonban az ügyész, továbbá az, akire a végzés rendelkezést tartalmaz - a rendelkezés õt érintõ részére vonatkozóan - pert indíthat a cég ellen a cég székhelye szerint illetékes megyei bíróság elõtt a bejegyzõ végzés hatályon kívül helyezése iránt.<ujsor/>
-A per megindításának a bejegyzõ végzés Cégközlönyben való közzétételétõl, illetve - közzétételi kötelezettség hiányában - annak kézbesítésétõl számított 30 napon belül van helye. A határidõ elmulasztása jogvesztéssel jár.<ujsor/>
-2011. január 31.<ujsor/>
+KÃ¼lfÃ¶ldi lakÃ³,illetve tartÃ³zkodÃ¡si helye:<ujsor/>
+AT 8114 KleinstÃ¼bing, KleinstÃ¼bing 181.<ujsor/>
+A kÃ©zbesÃ­tÃ©si megbÃ­zott:<ujsor/>
+GyÃ¡nÃ³nÃ© MÃ¼ller Katalin (an.: KÃ¡ntor ErzsÃ©bet)<ujsor/>
+2134 SzÅ‘d, Bem J. u 17.<ujsor/>
+Jogv. kezdete: 2005.11.01. Jogv. vÃ©ge: 2009.06.30.<ujsor/>
+VÃ¡lt. vÃ©ge: 2010.12.10.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2011. januÃ¡r 31.<ujsor/>
+E vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye, azonban az Ã¼gyÃ©sz, tovÃ¡bbÃ¡ az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s Å‘t Ã©rintÅ‘ rÃ©szÃ©re vonatkozÃ³an - pert indÃ­that a cÃ©g ellen a cÃ©g szÃ©khelye szerint illetÃ©kes megyei bÃ­rÃ³sÃ¡g elÅ‘tt a bejegyzÅ‘ vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt.<ujsor/>
+A per megindÃ­tÃ¡sÃ¡nak a bejegyzÅ‘ vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l, illetve - kÃ¶zzÃ©tÃ©teli kÃ¶telezettsÃ©g hiÃ¡nyÃ¡ban - annak kÃ©zbesÃ­tÃ©sÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l van helye. A hatÃ¡ridÅ‘ elmulasztÃ¡sa jogvesztÃ©ssel jÃ¡r.<ujsor/>
+2011. januÃ¡r 31.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109162614</mezo>
-<mezo id = "nev">ThyssenKrupp Lift Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1158 Budapest, Körvasút sor 110.</mezo>
+<mezo id = "nev">ThyssenKrupp Lift KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1158 Budapest, KÃ¶rvasÃºt sor 110.</mezo>
 <mezo id = "adosz">10669769242</mezo>
 </alrovat>
 </rovat>

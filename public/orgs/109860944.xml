@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">860944</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">1051 Budapest, Nádor utca 9. </mezo>
+<mezo id = "cim">1051 Budapest, NÃ¡dor utca 9. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">13547871241</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20050822</mezo>
-<mezo id = "nev">CELTA-INVEST Ingatlanhasznosító Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">CELTA-INVEST IngatlanhasznosÃ­tÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -27,7 +27,7 @@
 <mezo id = "hattol">20100510</mezo>
 <mezo id = "irsz">1051</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Nádor utca 9.</mezo>
+<mezo id = "teru">NÃ¡dor utca 9.</mezo>
 <mezo id = "valtk">20100510</mezo>
 <mezo id = "bkelt">20100712</mezo>
 </alrovat>
@@ -36,7 +36,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20080910</mezo>
 <mezo id = "irsz">1051</mezo>
-<mezo id = "hely">Budapest, Nádor utca 13.</mezo>
+<mezo id = "hely">Budapest, NÃ¡dor utca 13.</mezo>
 <mezo id = "valtk">20080910</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20080917</mezo>
@@ -409,8 +409,8 @@
 <rovat id = "13">
 <alrovat id = "9">
 <mezo id = "hattol">20100510</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Kiss Márk</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Kiss MÃ¡rk</mezo>
 <mezo id = "panev">Feldhoffer Katalin</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100510</mezo>
@@ -436,7 +436,7 @@
 <mezo id = "adosz">13547871241</mezo>
 <mezo id = "kadosz">HU13547871</mezo>
 <mezo id = "bkelt">20110603</mezo>
-<mezo id = "megj">Adószám státusza: érvényes adószám</mezo>
+<mezo id = "megj">AdÃ³szÃ¡m stÃ¡tusza: Ã©rvÃ©nyes adÃ³szÃ¡m</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0109">
@@ -447,10 +447,10 @@
 <mezo id = "hely">DE199 01 Dover, Delaware</mezo>
 <mezo id = "teru">East-North Street</mezo>
 <mezo id = "hsz">15</mezo>
-<mezo id = "pmnev">dr. Bárdos Zsuzsanna</mezo>
-<mezo id = "pmanev">Radicsai Mária</mezo>
+<mezo id = "pmnev">dr. BÃ¡rdos Zsuzsanna</mezo>
+<mezo id = "pmanev">Radicsai MÃ¡ria</mezo>
 <mezo id = "pmirsz">1068</mezo>
-<mezo id = "pmhely">Budapest, Felsõ erdõsor u. 12-14.</mezo>
+<mezo id = "pmhely">Budapest, FelsÅ‘ erdÅ‘sor u. 12-14.</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20100510</mezo>
@@ -467,11 +467,11 @@
 <alrovat id = "8">
 <mezo id = "hattol">20110525</mezo>
 <mezo id = "cgjsz">0109913820</mezo>
-<mezo id = "nev">CEU Üzleti Kar Közhasznú Nonprofit Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">CEU Ãœzleti Kar KÃ¶zhasznÃº Nonprofit KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1023</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Frankel Leó u. 30-34.</mezo>
+<mezo id = "teru">Frankel LeÃ³ u. 30-34.</mezo>
 <mezo id = "tagsk">20110502</mezo>
 <mezo id = "sz1">x</mezo>
 <mezo id = "valtk">20110525</mezo>
@@ -482,59 +482,59 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2007. 12. 03-án hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-1(09). Kézbesítési megbízott: dr. Bárdos Zsuzsanna (an: Radicsai Mária)<ujsor/>
-1068 Budapest, Felsõerdõsor u. 12-14.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2007. 12. 03-Ã¡n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+1(09). KÃ©zbesÃ­tÃ©si megbÃ­zott: dr. BÃ¡rdos Zsuzsanna (an: Radicsai MÃ¡ria)<ujsor/>
+1068 Budapest, FelsÅ‘erdÅ‘sor u. 12-14.<ujsor/>
  MEDITON International Co .<ujsor/>
 US DE199 01 Dover, Delaware, East-North Street 15.<ujsor/>
- A változás idõpontja (törlés): 2007. 08. 31.<ujsor/>
- Törölve: 2007. 12. 03.<ujsor/>
- A szavazati jog mértéke minõsített többségû befolyást biztosít.<ujsor/>
- Kézbesítési megbízott: Gódor Glória (an: Pénzes Edit)<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2007. 08. 31.<ujsor/>
+ TÃ¶rÃ¶lve: 2007. 12. 03.<ujsor/>
+ A szavazati jog mÃ©rtÃ©ke minÅ‘sÃ­tett tÃ¶bbsÃ©gÅ± befolyÃ¡st biztosÃ­t.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott: GÃ³dor GlÃ³ria (an: PÃ©nzes Edit)<ujsor/>
 1084 Budapest, Nagyfuvaros u. 7.<ujsor/>
  International Immobilien Invest Anstalt<ujsor/>
 LI 9490 Vaduz, Josef Rheinberger strasse 29.<ujsor/>
- A tagság kezdete: 2007. 08. 31.<ujsor/>
- A változás idõpontja: 2007. 08. 31.<ujsor/>
+ A tagsÃ¡g kezdete: 2007. 08. 31.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2007. 08. 31.<ujsor/>
  Bejegyezve: 2007. 12. 03.<ujsor/>
 2007. 12. 03.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109860944</mezo>
-<mezo id = "nev">CELTA-INVEST Ingatlanhasznosító Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1077 Budapest, Baross tér 15. 3. em. 4.</mezo>
+<mezo id = "nev">CELTA-INVEST IngatlanhasznosÃ­tÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1077 Budapest, Baross tÃ©r 15. 3. em. 4.</mezo>
 <mezo id = "adosz">13547871242</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság a Cg.01-09-860944 cégjegyzékszámon bejegyzett CELTA-INVEST Ingatlanhasznosító Korlátolt Felelõsségû Társaság (1053 Budapest, Nádor utca 9.; adószáma: 13547871-2-41) kérelme alapján elrendeli az 2010. május 12. napján hozott Cg.01-09-860944 /42. számú végzésének kijavítását az alábbiak szerint:<ujsor/>
-5. A cég székhelye<ujsor/>
-1053 Budapest, Nádor utca 9.<ujsor/>
-Vált. vége: 2010.05.10.<ujsor/>
-Törölve (végzés kelte): 2010. július 12.<ujsor/>
-1051 Budapest, Nádor utca 9.<ujsor/>
-Vált. kezdete: 2010.05.10.<ujsor/>
-Bejegyezve (végzés kelte): 2010. július 12.<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.01-09-860944 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett CELTA-INVEST IngatlanhasznosÃ­tÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (1053 Budapest, NÃ¡dor utca 9.; adÃ³szÃ¡ma: 13547871-2-41) kÃ©relme alapjÃ¡n elrendeli az 2010. mÃ¡jus 12. napjÃ¡n hozott Cg.01-09-860944 /42. szÃ¡mÃº vÃ©gzÃ©sÃ©nek kijavÃ­tÃ¡sÃ¡t az alÃ¡bbiak szerint:<ujsor/>
+5. A cÃ©g szÃ©khelye<ujsor/>
+1053 Budapest, NÃ¡dor utca 9.<ujsor/>
+VÃ¡lt. vÃ©ge: 2010.05.10.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2010. jÃºlius 12.<ujsor/>
+1051 Budapest, NÃ¡dor utca 9.<ujsor/>
+VÃ¡lt. kezdete: 2010.05.10.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2010. jÃºlius 12.<ujsor/>
 1(09) A tag(ok) adatai<ujsor/>
-Társadalmi szervezet, alapítvány nyilvántartási száma: FI27861<ujsor/>
-Közép Európai Egyetem<ujsor/>
-HU 1053 Budapest, Nádor utca 9.<ujsor/>
+TÃ¡rsadalmi szervezet, alapÃ­tvÃ¡ny nyilvÃ¡ntartÃ¡si szÃ¡ma: FI27861<ujsor/>
+KÃ¶zÃ©p EurÃ³pai Egyetem<ujsor/>
+HU 1053 Budapest, NÃ¡dor utca 9.<ujsor/>
 Tags. kezdete: 2010.05.10.<ujsor/>
-Vált. vége: 2010.05.10.<ujsor/>
-Törölve (végzés kelte): 2010. július 12.<ujsor/>
-Társadalmi szervezet, alapítvány nyilvántartási száma: FI27861<ujsor/>
-Közép Európai Egyetem<ujsor/>
-HU 1051 Budapest, Nádor utca 9.<ujsor/>
+VÃ¡lt. vÃ©ge: 2010.05.10.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2010. jÃºlius 12.<ujsor/>
+TÃ¡rsadalmi szervezet, alapÃ­tvÃ¡ny nyilvÃ¡ntartÃ¡si szÃ¡ma: FI27861<ujsor/>
+KÃ¶zÃ©p EurÃ³pai Egyetem<ujsor/>
+HU 1051 Budapest, NÃ¡dor utca 9.<ujsor/>
 Tags. kezdete: 2010.05.10.<ujsor/>
-Vált. kezdete: 2010.05.10.<ujsor/>
-Bejegyezve (végzés kelte): 2010. július 12.<ujsor/>
-E végzés ellen fellebbezésnek nincs helye, azonban az ügyész, továbbá az, akire a végzés rendelkezést tartalmaz - a rendelkezés õt érintõ részére vonatkozóan - pert indíthat a cég ellen a cég székhelye szerint illetékes megyei bíróság elõtt a bejegyzõ végzés hatályon kívül helyezése iránt.<ujsor/>
-A per megindításának a bejegyzõ végzés Cégközlönyben való közzétételétõl, illetve - közzétételi kötelezettség hiányában - annak kézbesítésétõl számított 30 napon belül van helye. A határidõ elmulasztása jogvesztéssel jár.<ujsor/>
-2010. július 12.<ujsor/>
+VÃ¡lt. kezdete: 2010.05.10.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2010. jÃºlius 12.<ujsor/>
+E vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye, azonban az Ã¼gyÃ©sz, tovÃ¡bbÃ¡ az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s Å‘t Ã©rintÅ‘ rÃ©szÃ©re vonatkozÃ³an - pert indÃ­that a cÃ©g ellen a cÃ©g szÃ©khelye szerint illetÃ©kes megyei bÃ­rÃ³sÃ¡g elÅ‘tt a bejegyzÅ‘ vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt.<ujsor/>
+A per megindÃ­tÃ¡sÃ¡nak a bejegyzÅ‘ vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l, illetve - kÃ¶zzÃ©tÃ©teli kÃ¶telezettsÃ©g hiÃ¡nyÃ¡ban - annak kÃ©zbesÃ­tÃ©sÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l van helye. A hatÃ¡ridÅ‘ elmulasztÃ¡sa jogvesztÃ©ssel jÃ¡r.<ujsor/>
+2010. jÃºlius 12.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109860944</mezo>
-<mezo id = "nev">CELTA-INVEST Ingatlanhasznosító Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1053 Budapest, Nádor utca 9.</mezo>
+<mezo id = "nev">CELTA-INVEST IngatlanhasznosÃ­tÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1053 Budapest, NÃ¡dor utca 9.</mezo>
 <mezo id = "adosz">13547871241</mezo>
 </alrovat>
 </rovat>

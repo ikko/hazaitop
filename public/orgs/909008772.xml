@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">008772</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">4002 Debrecen, Balmazújvárosi út 10. </mezo>
+<mezo id = "cim">4002 Debrecen, BalmazÃºjvÃ¡rosi Ãºt 10. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">12830093209</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20020422</mezo>
-<mezo id = "nev">Baromfiudvar 2002 Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Baromfiudvar 2002 Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -27,14 +27,14 @@
 <mezo id = "hattol">20021029</mezo>
 <mezo id = "irsz">4002</mezo>
 <mezo id = "hely">Debrecen</mezo>
-<mezo id = "teru">Balmazújvárosi út 10.</mezo>
+<mezo id = "teru">BalmazÃºjvÃ¡rosi Ãºt 10.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "7">
 <alrovat id = "1">
 <mezo id = "hattol">20100201</mezo>
 <mezo id = "irsz">4400</mezo>
-<mezo id = "hely">Nyíregyháza</mezo>
+<mezo id = "hely">NyÃ­regyhÃ¡za</mezo>
 <mezo id = "teru">Debreceni utca 113.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20100201</mezo>
@@ -433,49 +433,49 @@
 <mezo id = "hattol">20091229</mezo>
 <mezo id = "valtk">20091229</mezo>
 <mezo id = "bkelt">20100204</mezo>
-<mezo id = "teaszov">Cukor, édesség nagykereskedelme</mezo>
+<mezo id = "teaszov">Cukor, Ã©dessÃ©g nagykereskedelme</mezo>
 </alrovat>
 <alrovat id = "68">
 <mezo id = "hattol">20091229</mezo>
 <mezo id = "valtk">20091229</mezo>
 <mezo id = "bkelt">20100204</mezo>
-<mezo id = "teaszov">Kávé-, tea-, kakaó-, fûszer-nagykereskedelem</mezo>
+<mezo id = "teaszov">KÃ¡vÃ©-, tea-, kakaÃ³-, fÅ±szer-nagykereskedelem</mezo>
 </alrovat>
 <alrovat id = "69">
 <mezo id = "hattol">20091229</mezo>
 <mezo id = "valtk">20091229</mezo>
 <mezo id = "bkelt">20100204</mezo>
-<mezo id = "teaszov">Élelmiszer, ital, dohányáru vegyes nagykereskedelme</mezo>
+<mezo id = "teaszov">Ã‰lelmiszer, ital, dohÃ¡nyÃ¡ru vegyes nagykereskedelme</mezo>
 </alrovat>
 <alrovat id = "70">
 <mezo id = "hattol">20091229</mezo>
 <mezo id = "valtk">20091229</mezo>
 <mezo id = "bkelt">20100204</mezo>
-<mezo id = "teaszov">Egyéb háztartási cikk nagykereskedelme m.n.s.</mezo>
+<mezo id = "teaszov">EgyÃ©b hÃ¡ztartÃ¡si cikk nagykereskedelme m.n.s.</mezo>
 </alrovat>
 <alrovat id = "71">
 <mezo id = "hattol">20091229</mezo>
 <mezo id = "valtk">20091229</mezo>
 <mezo id = "bkelt">20100204</mezo>
-<mezo id = "teaszov">Vegyi áru nagykereskedelme</mezo>
+<mezo id = "teaszov">Vegyi Ã¡ru nagykereskedelme</mezo>
 </alrovat>
 <alrovat id = "72">
 <mezo id = "hattol">20091229</mezo>
 <mezo id = "valtk">20091229</mezo>
 <mezo id = "bkelt">20100204</mezo>
-<mezo id = "teaszov">Egyéb szállítást kiegészítõ szolgáltatás</mezo>
+<mezo id = "teaszov">EgyÃ©b szÃ¡llÃ­tÃ¡st kiegÃ©szÃ­tÅ‘ szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "73">
 <mezo id = "hattol">20091229</mezo>
 <mezo id = "valtk">20091229</mezo>
 <mezo id = "bkelt">20100204</mezo>
-<mezo id = "teaszov">Reklámügynöki tevékenység</mezo>
+<mezo id = "teaszov">ReklÃ¡mÃ¼gynÃ¶ki tevÃ©kenysÃ©g</mezo>
 </alrovat>
 <alrovat id = "74">
 <mezo id = "hattol">20091229</mezo>
 <mezo id = "valtk">20091229</mezo>
 <mezo id = "bkelt">20100204</mezo>
-<mezo id = "teaszov">Médiareklám</mezo>
+<mezo id = "teaszov">MÃ©diareklÃ¡m</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -494,9 +494,9 @@
 <rovat id = "13">
 <alrovat id = "8">
 <mezo id = "hattol">20091229</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Czírbusz István</mezo>
-<mezo id = "panev">Böszörményi Erzsébet</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">CzÃ­rbusz IstvÃ¡n</mezo>
+<mezo id = "panev">BÃ¶szÃ¶rmÃ©nyi ErzsÃ©bet</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20070426</mezo>
 <mezo id = "valtk">20091229</mezo>
@@ -504,9 +504,9 @@
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">20091229</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Sipos Tamás</mezo>
-<mezo id = "panev">Nagy Mária</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Sipos TamÃ¡s</mezo>
+<mezo id = "panev">Nagy MÃ¡ria</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20070426</mezo>
 <mezo id = "valtk">20091229</mezo>
@@ -517,14 +517,14 @@
 <alrovat id = "2">
 <mezo id = "hattol">20070517</mezo>
 <mezo id = "cgjsz">909002781</mezo>
-<mezo id = "nev">FAIR-CONTROL Adótanácsadó és Könyvvizsgáló Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">FAIR-CONTROL AdÃ³tanÃ¡csadÃ³ Ã©s KÃ¶nyvvizsgÃ¡lÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">4032</mezo>
-<mezo id = "hely">Debrecen, Károli Gáspár u 45.</mezo>
-<mezo id = "pnev">Szabóné Csontos Éva Anna</mezo>
-<mezo id = "panev">Agócs Eszter</mezo>
+<mezo id = "hely">Debrecen, KÃ¡roli GÃ¡spÃ¡r u 45.</mezo>
+<mezo id = "pnev">SzabÃ³nÃ© Csontos Ã‰va Anna</mezo>
+<mezo id = "panev">AgÃ³cs Eszter</mezo>
 <mezo id = "pirsz">4031</mezo>
-<mezo id = "phely">Debrecen, Vág u. 15.</mezo>
+<mezo id = "phely">Debrecen, VÃ¡g u. 15.</mezo>
 <mezo id = "jogvk">20070426</mezo>
 <mezo id = "jogvv">20120426</mezo>
 <mezo id = "valtk">20070426</mezo>
@@ -548,10 +548,10 @@
 <rovat id = "0109">
 <alrovat id = "6">
 <mezo id = "hattol">20070517</mezo>
-<mezo id = "pnev">Czírbusz István</mezo>
-<mezo id = "panev">Böszörményi Erzsébet</mezo>
+<mezo id = "pnev">CzÃ­rbusz IstvÃ¡n</mezo>
+<mezo id = "panev">BÃ¶szÃ¶rmÃ©nyi ErzsÃ©bet</mezo>
 <mezo id = "pirsz">4032</mezo>
-<mezo id = "phely">Debrecen, Dóczy József u. 30. III/17.</mezo>
+<mezo id = "phely">Debrecen, DÃ³czy JÃ³zsef u. 30. III/17.</mezo>
 <mezo id = "tagsk">20021029</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20070426</mezo>
@@ -559,8 +559,8 @@
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">20091229</mezo>
-<mezo id = "pnev">Sipos Tamás</mezo>
-<mezo id = "panev">Nagy Mária</mezo>
+<mezo id = "pnev">Sipos TamÃ¡s</mezo>
+<mezo id = "panev">Nagy MÃ¡ria</mezo>
 <mezo id = "tagsk">20020422</mezo>
 <mezo id = "valtk">20091229</mezo>
 <mezo id = "bkelt">20100204</mezo>
@@ -568,11 +568,11 @@
 <alrovat id = "10">
 <mezo id = "hattol">20091229</mezo>
 <mezo id = "cgjsz">0909008772</mezo>
-<mezo id = "nev">Baromfiudvar 2002 Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Baromfiudvar 2002 Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">4002</mezo>
 <mezo id = "hely">Debrecen</mezo>
-<mezo id = "teru">Balmazújvárosi út 10.</mezo>
+<mezo id = "teru">BalmazÃºjvÃ¡rosi Ãºt 10.</mezo>
 <mezo id = "tagsk">20091229</mezo>
 <mezo id = "valtk">20091229</mezo>
 <mezo id = "bkelt">20100204</mezo>

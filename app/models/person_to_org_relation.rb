@@ -28,11 +28,15 @@ class PersonToOrgRelation < ActiveRecord::Base
     "#{person} és #{organization}"
   end
 
+  default_scope :include => :organization, :order => :"organizations.name"
+  named_scope :ordered, lambda { |order| { :include => order.to_sym, :order => (order.pluralize + '.name').to_sym } }
+  named_scope :info, lambda { |info_ids| info_ids.present? ? { :conditions => [ "person_to_org_relations.information_source_id in (?)", info_ids ]} : {} }
+
   has_many :article_relations, :as => :relationable, :accessible => true
   has_many :articles, :through => :article_relations, :accessible => true
 
-  belongs_to :p2o_relation_type
-  belongs_to :o2p_relation_type
+  belongs_to :p_to_o_relation_type
+  belongs_to :o_to_p_relation_type
   belongs_to :organization, :counter_cache => true
   belongs_to :person, :counter_cache => true
 
@@ -44,8 +48,8 @@ class PersonToOrgRelation < ActiveRecord::Base
   has_many :litigation_relations, :as => :litigable, :dependent => :destroy
   has_many :litigations, :through => :litigation_relations, :accessible => true
 #=begin
-  validates_presence_of :p2o_relation_type
-  # validates_presence_of :o2p_relation_type
+  validates_presence_of :p_to_o_relation_type
+  # validates_presence_of :o_to_p_relation_type
   validate :litigation_related
   validate :source_present
 
@@ -58,15 +62,15 @@ class PersonToOrgRelation < ActiveRecord::Base
 
   def litigation_related
     unless litigations.blank?
-      errors.add("Litigation allowed only if", "relation type has legal aspect.") unless p2o_relation_type.litig
+      errors.add("Litigation allowed only if", "relation type has legal aspect.") unless p_to_o_relation_type.litig
     end
   end
 
   before_validation do |r|
-    p2o_relation_type_id   = r.o2p_relation_type.pair_id if r.o2p_relation_type
-    o2p_relation_type_id   = r.p2o_relation_type.pair_id if r.p2o_relation_type
-    r.p2o_relation_type_id = p2o_relation_type_id        if p2o_relation_type_id
-    r.o2p_relation_type_id = o2p_relation_type_id        if o2p_relation_type_id
+    p_to_o_relation_type_id   = r.o_to_p_relation_type.pair_id if r.o_to_p_relation_type
+    o_to_p_relation_type_id   = r.p_to_o_relation_type.pair_id if r.p_to_o_relation_type
+    r.p_to_o_relation_type_id = p_to_o_relation_type_id        if p_to_o_relation_type_id
+    r.o_to_p_relation_type_id = o_to_p_relation_type_id        if o_to_p_relation_type_id
   end
 
   before_create do |r|
@@ -76,11 +80,11 @@ class PersonToOrgRelation < ActiveRecord::Base
   end
     
   before_save do |r|
-    r.visual = r.p2o_relation_type.visual
+    r.visual = r.p_to_o_relation_type.visual
     r.information_source_id = (r.info_id ? r.info_id : r.articles.first.try.information_source_id ) if r.information_source.blank?
     r.information_source_id = InformationSource.find_by_domain_name('ahalo.hu').id if r.information_source.blank?
     true
-    # r.weight = r.information_source.weight * r.p2o_relation_type.weight
+    # r.weight = r.information_source.weight * r.p_to_o_relation_type.weight
   end
 
   after_save do |r|
@@ -117,21 +121,21 @@ class PersonToOrgRelation < ActiveRecord::Base
             "organization_id = ? and ((start_time <= ? and (end_time >= ? or no_end_time = ?)) or (start_time <= ? and (end_time >= ? or no_end_time = ?))) and id != ?", organization_id, start_time, start_time, true, end_time, end_time, true, id ])
           end
         end
-        press_id = P2oRelationType.find_by_name("sajtó").id
-        if potential_relations and p2o_relation_type_id != press_id
+        press_id = PToORelationType.find_by_name("sajtó").id
+        if potential_relations and p_to_o_relation_type_id != press_id
           potential_relations.each do |pot|
-            unless pot.p2o_relation_type_id == press_id  # sajtós fetcheket nem birizgáljuk
+            unless pot.p_to_o_relation_type_id == press_id  # sajtós fetcheket nem birizgáljuk
               if person_id != pot.person_id # saját kapcsolatokat nem veszünk fel
                 weight = (information_source.weight + pot.information_source.weight) / 2.0
                 # nézzük meg, hogy a kalkulátorban rögzítve van-e a két kapcsolattipus (irányított!)
-                relation_type_id = InterpersonalRelationCalculator.find_by_p2o_relation_type_id(pot.p2o_relation_type_id)._?.p2p_relation_type_id
+                relation_type_id = InterpersonalRelationCalculator.find_by_p_to_o_relation_type_id(pot.p_to_o_relation_type_id)._?.p_to_p_relation_type_id
                 if !relation_type_id
-                  # ha megegyezik a két kapcsolat, akkor default-oljunk, a p2p kapcsolattipusukra
-                  if p2o_relation_type_id == pot.p2o_relation_type_id
-                    relation_type_id = p2o_relation_type.p2p_relation_type_id
+                  # ha megegyezik a két kapcsolat, akkor default-oljunk, a p_to_p kapcsolattipusukra
+                  if p_to_o_relation_type_id == pot.p_to_o_relation_type_id
+                    relation_type_id = p_to_o_relation_type.p_to_p_relation_type_id
                   else
                     # ha nincs info, akkor csak azt rögzítjük, hogy közös intézménynél szerepelnek
-                    relation_type_id = P2pRelationType.find(:first, :conditions => {:name => "közös intézményi kapcsolat", :internal => true }).id
+                    relation_type_id = PToPRelationType.find(:first, :conditions => {:name => "közös intézményi kapcsolat", :internal => true }).id
                   end
                 end
 
@@ -168,7 +172,7 @@ class PersonToOrgRelation < ActiveRecord::Base
                 end
                 info = InformationSource.find :first, :conditions => { :internal => true, :weight => weight }
                 info = InformationSource.create!(:internal => true, :weight => weight, :name => "system", :web => 'http://hazaitop.addig.hu' ) if !info
-                interpersonal = InterpersonalRelation.new(:p2p_relation_type_id => relation_type_id,
+                interpersonal = InterpersonalRelation.new(:p_to_p_relation_type_id => relation_type_id,
                                                           :person_id => person_id,
                                                           :related_person_id => pot.person_id,
                                                           :information_source_id => info.id,
@@ -179,7 +183,7 @@ class PersonToOrgRelation < ActiveRecord::Base
                                                           :end_time => calculated_end_time,
                                                           :no_end_time => calculated_no_end_time,
                                                           :no_start_time => calculated_no_start_time,
-                                                          :visual => p2o_relation_type.visual,
+                                                          :visual => p_to_o_relation_type.visual,
                                                           :internal => true)
                 interpersonal.articles = articles
                 interpersonal.litigations = self.litigations

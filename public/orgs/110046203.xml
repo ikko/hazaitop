@@ -5,7 +5,7 @@
 <mezo id = "cf">10</mezo>
 <mezo id = "szam">046203</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">1211 Budapest, Szállító u. 4. </mezo>
+<mezo id = "cim">1211 Budapest, SzÃ¡llÃ­tÃ³ u. 4. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">14489765244</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20081028</mezo>
-<mezo id = "nev">WABARD Biztosító Zártkörûen mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">WABARD BiztosÃ­tÃ³ ZÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20081028</mezo>
@@ -23,7 +23,7 @@
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">20081028</mezo>
-<mezo id = "nev">WABARD Biztosító Zrt.</mezo>
+<mezo id = "nev">WABARD BiztosÃ­tÃ³ Zrt.</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20081028</mezo>
@@ -53,7 +53,7 @@
 <mezo id = "hattol">20101007</mezo>
 <mezo id = "irsz">1211</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Szállító u. 4.</mezo>
+<mezo id = "teru">SzÃ¡llÃ­tÃ³ u. 4.</mezo>
 <mezo id = "valtk">20101007</mezo>
 <mezo id = "bkelt">20101020</mezo>
 </alrovat>
@@ -154,12 +154,12 @@
 <rovat id = "13">
 <alrovat id = "9">
 <mezo id = "hattol">20090917</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Wáberer György Péter</mezo>
-<mezo id = "panev">Páles Margit</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">WÃ¡berer GyÃ¶rgy PÃ©ter</mezo>
+<mezo id = "panev">PÃ¡les Margit</mezo>
 <mezo id = "pirsz">1039</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Királyok útja 303.</mezo>
+<mezo id = "pteru">KirÃ¡lyok Ãºtja 303.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20080909</mezo>
 <mezo id = "valtk">20090917</mezo>
@@ -167,12 +167,12 @@
 </alrovat>
 <alrovat id = "12">
 <mezo id = "hattol">20090917</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Dr. Békesi László</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">Dr. BÃ©kesi LÃ¡szlÃ³</mezo>
 <mezo id = "panev">Lenkey Sarolta</mezo>
 <mezo id = "pirsz">1025</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Szemlõhegy utca 36.</mezo>
+<mezo id = "pteru">SzemlÅ‘hegy utca 36.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20080909</mezo>
 <mezo id = "valtk">20090917</mezo>
@@ -180,9 +180,9 @@
 </alrovat>
 <alrovat id = "15">
 <mezo id = "hattol">20100216</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Czakóné Kovács Anna</mezo>
-<mezo id = "panev">Lõrincz Irén</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">CzakÃ³nÃ© KovÃ¡cs Anna</mezo>
+<mezo id = "panev">LÅ‘rincz IrÃ©n</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20100216</mezo>
 <mezo id = "valtk">20100216</mezo>
@@ -191,8 +191,8 @@
 </alrovat>
 <alrovat id = "17">
 <mezo id = "hattol">20101007</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Balássy László Miklós</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">BalÃ¡ssy LÃ¡szlÃ³ MiklÃ³s</mezo>
 <mezo id = "panev">Kovacsics Ilona</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20101007</mezo>
@@ -202,9 +202,9 @@
 </alrovat>
 <alrovat id = "18">
 <mezo id = "hattol">20101007</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Kádas Rudolf</mezo>
-<mezo id = "panev">Jadlóczki Margit</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">KÃ¡das Rudolf</mezo>
+<mezo id = "panev">JadlÃ³czki Margit</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20101007</mezo>
 <mezo id = "valtk">20101007</mezo>
@@ -213,12 +213,12 @@
 </alrovat>
 <alrovat id = "19">
 <mezo id = "hattol">20110307</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">dr. Nyilasy Bence Zoltán</mezo>
-<mezo id = "panev">Terdik Irén</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">dr. Nyilasy Bence ZoltÃ¡n</mezo>
+<mezo id = "panev">Terdik IrÃ©n</mezo>
 <mezo id = "pirsz">4028</mezo>
 <mezo id = "phely">Debrecen</mezo>
-<mezo id = "pteru">Hadházi út 37. 2. em. 4.</mezo>
+<mezo id = "pteru">HadhÃ¡zi Ãºt 37. 2. em. 4.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20110307</mezo>
 <mezo id = "valtk">20110307</mezo>
@@ -227,12 +227,12 @@
 </alrovat>
 <alrovat id = "20">
 <mezo id = "hattol">20110307</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Király Balázs László</mezo>
-<mezo id = "panev">Renneczéder Klára Teréz</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">KirÃ¡ly BalÃ¡zs LÃ¡szlÃ³</mezo>
+<mezo id = "panev">RenneczÃ©der KlÃ¡ra TerÃ©z</mezo>
 <mezo id = "pirsz">1093</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Lónyay utca 36. 2. em. 7.</mezo>
+<mezo id = "pteru">LÃ³nyay utca 36. 2. em. 7.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20110307</mezo>
 <mezo id = "valtk">20110307</mezo>
@@ -241,12 +241,12 @@
 </alrovat>
 <alrovat id = "21">
 <mezo id = "hattol">20110307</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">dr. Oláh György</mezo>
-<mezo id = "panev">Szikora Irén</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">dr. OlÃ¡h GyÃ¶rgy</mezo>
+<mezo id = "panev">Szikora IrÃ©n</mezo>
 <mezo id = "pirsz">1022</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Törökvész út 14/a. 2. em. 2.</mezo>
+<mezo id = "pteru">TÃ¶rÃ¶kvÃ©sz Ãºt 14/a. 2. em. 2.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20110307</mezo>
 <mezo id = "valtk">20110307</mezo>
@@ -258,16 +258,16 @@
 <alrovat id = "2">
 <mezo id = "hattol">20090921</mezo>
 <mezo id = "cgjsz">0109063183</mezo>
-<mezo id = "nev">KPMG Hungária Könyvvizsgáló, Adó- és Közgazdasági Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">KPMG HungÃ¡ria KÃ¶nyvvizsgÃ¡lÃ³, AdÃ³- Ã©s KÃ¶zgazdasÃ¡gi TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1139</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Váci út 99.</mezo>
+<mezo id = "teru">VÃ¡ci Ãºt 99.</mezo>
 <mezo id = "pnev">dr. Eperjesi Ferenc</mezo>
-<mezo id = "panev">Kiss Erzsébet</mezo>
+<mezo id = "panev">Kiss ErzsÃ©bet</mezo>
 <mezo id = "pirsz">1039</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Ady Endre út 20.</mezo>
+<mezo id = "pteru">Ady Endre Ãºt 20.</mezo>
 <mezo id = "jogvk">20080729</mezo>
 <mezo id = "jogvv">20130531</mezo>
 <mezo id = "valtk">20090921</mezo>
@@ -277,23 +277,23 @@
 <rovat id = "15">
 <alrovat id = "4">
 <mezo id = "hattol">20100216</mezo>
-<mezo id = "pnev">Bartha Ferenc András</mezo>
-<mezo id = "panev">Márton Ilona</mezo>
+<mezo id = "pnev">Bartha Ferenc AndrÃ¡s</mezo>
+<mezo id = "panev">MÃ¡rton Ilona</mezo>
 <mezo id = "jogvk">20100216</mezo>
 <mezo id = "valtk">20100216</mezo>
 <mezo id = "bkelt">20100301</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20101007</mezo>
-<mezo id = "pnev">dr. Illés Tibor</mezo>
-<mezo id = "panev">Németh Mária</mezo>
+<mezo id = "pnev">dr. IllÃ©s Tibor</mezo>
+<mezo id = "panev">NÃ©meth MÃ¡ria</mezo>
 <mezo id = "jogvk">20101007</mezo>
 <mezo id = "valtk">20101007</mezo>
 <mezo id = "bkelt">20101020</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20101007</mezo>
-<mezo id = "pnev">Marján Miklós</mezo>
+<mezo id = "pnev">MarjÃ¡n MiklÃ³s</mezo>
 <mezo id = "panev">Belme Margit</mezo>
 <mezo id = "jogvk">20101007</mezo>
 <mezo id = "valtk">20101007</mezo>
@@ -329,11 +329,11 @@
 <alrovat id = "2">
 <mezo id = "hattol">20101028</mezo>
 <mezo id = "cgjsz">0109930859</mezo>
-<mezo id = "nev">W-NEW Holding Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">W-NEW Holding KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1211</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Szállítók útja 4.</mezo>
+<mezo id = "teru">SzÃ¡llÃ­tÃ³k Ãºtja 4.</mezo>
 <mezo id = "sz1">x</mezo>
 <mezo id = "valtk">20101028</mezo>
 <mezo id = "bkelt">20101202</mezo>
@@ -343,58 +343,58 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A WABARD Biztosító Zártkörûen Mûködõ Részvénytársaság (Cg.: [01 10 046203]; 1211 Budapest, Szabadkikötõ út 5­7.) a Gazdasági társaságokról szóló 2006. évi IV. tv. (a továbbiakban: Gt.) 256. § (2) bekezdése alapján az alábbiak szerint elhatározta alaptõke-emelését.<ujsor/>
-A társaság részvényesei ­ figyelemmel arra is, hogy a korábban forgalomba hozott részvények névértékét a társaság rendelkezésére bocsátották ­ egyhangúlag úgy határoztak, hogy a társaság 920 000 000 Ft (kilencszázhúszmillió forint) összegû alaptõkéjét megemelik 46 000 000 Ft-tal (negyvenhatmillió forinttal) akként, hogy a tõkeemelés során összesen 46 db, egyenként 1 000 000 Ft (HUF) névértékû, dematerializált új törzsrészvény kerül ­ a Gt. 248. § (1) a) bekezdésének megfelelõen ­ zártkörû forgalomba hozatallal kibocsátásra, a jegyzésre jogosult által 2009. február 15-ig teljesítendõ pénzbeli hozzájárulás szolgáltatásával. Az újonnan kibocsátandó valamennyi részvény jegyzésére a társaság a Magyar Közúti Fuvarozók Egyesületét (székhelye: 1142 Budapest, Egressy út 77.) jogosítja fel, figyelemmel arra is, hogy elõzetes kötelezettségvállaló nyilatkozatot tett és nincs jegyzési elsõbbségre jogosult más személy.<ujsor/>
-A részvényesek akként rendelkeznek, hogy a jegyzésre jogosult a részvények átvételére kötelezõ nyilatkozatát legkésõbb 2009. február 15-ig köteles megtenni.<ujsor/>
-A kibocsátásra kerülõ új részvények együttes ellenértéke 46 000 000 Ft (HUF) (negyvenhatmillió magyar forint), ekként a részvények kibocsátási értéke részvényenként 1 000 000 Ft.<ujsor/>
-A társaság részvényesei megállapítják, hogy a tõkeemelés következtében ­ és a részvények átvételére vonatkozó kötelezettségvállalások eredményétõl függõen ­ a társaság alaptõkéje 966 000 000 Ft-ra (kilencszázhatvanhatmillió forintra) emelkedik.<ujsor/>
-A részvényesek egyhangúlag úgy határoznak, hogy a kibocsátott új részvények ellenértékének szolgáltatására a jegyzésre jogosult által történõ pénzbeli betétek szolgáltatás útján kerül sor, 2009. február 15-ig.<ujsor/>
-A részvényesek úgy határoztak, hogy az alaptõke felemelésével forgalomba hozott új részvény elsõ ízben az alaptõke-emelés bejegyzésének üzleti éve után járó osztalékra jogosít.<ujsor/>
+<mezo id = "szoveg">A WABARD BiztosÃ­tÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 046203]; 1211 Budapest, SzabadkikÃ¶tÅ‘ Ãºt 5Â­7.) a GazdasÃ¡gi tÃ¡rsasÃ¡gokrÃ³l szÃ³lÃ³ 2006. Ã©vi IV. tv. (a tovÃ¡bbiakban: Gt.) 256. Â§ (2) bekezdÃ©se alapjÃ¡n az alÃ¡bbiak szerint elhatÃ¡rozta alaptÅ‘ke-emelÃ©sÃ©t.<ujsor/>
+A tÃ¡rsasÃ¡g rÃ©szvÃ©nyesei Â­ figyelemmel arra is, hogy a korÃ¡bban forgalomba hozott rÃ©szvÃ©nyek nÃ©vÃ©rtÃ©kÃ©t a tÃ¡rsasÃ¡g rendelkezÃ©sÃ©re bocsÃ¡tottÃ¡k Â­ egyhangÃºlag Ãºgy hatÃ¡roztak, hogy a tÃ¡rsasÃ¡g 920 000 000 Ft (kilencszÃ¡zhÃºszmilliÃ³ forint) Ã¶sszegÅ± alaptÅ‘kÃ©jÃ©t megemelik 46 000 000 Ft-tal (negyvenhatmilliÃ³ forinttal) akkÃ©nt, hogy a tÅ‘keemelÃ©s sorÃ¡n Ã¶sszesen 46 db, egyenkÃ©nt 1 000 000 Ft (HUF) nÃ©vÃ©rtÃ©kÅ±, dematerializÃ¡lt Ãºj tÃ¶rzsrÃ©szvÃ©ny kerÃ¼l Â­ a Gt. 248. Â§ (1) a) bekezdÃ©sÃ©nek megfelelÅ‘en Â­ zÃ¡rtkÃ¶rÅ± forgalomba hozatallal kibocsÃ¡tÃ¡sra, a jegyzÃ©sre jogosult Ã¡ltal 2009. februÃ¡r 15-ig teljesÃ­tendÅ‘ pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s szolgÃ¡ltatÃ¡sÃ¡val. Az Ãºjonnan kibocsÃ¡tandÃ³ valamennyi rÃ©szvÃ©ny jegyzÃ©sÃ©re a tÃ¡rsasÃ¡g a Magyar KÃ¶zÃºti FuvarozÃ³k EgyesÃ¼letÃ©t (szÃ©khelye: 1142 Budapest, Egressy Ãºt 77.) jogosÃ­tja fel, figyelemmel arra is, hogy elÅ‘zetes kÃ¶telezettsÃ©gvÃ¡llalÃ³ nyilatkozatot tett Ã©s nincs jegyzÃ©si elsÅ‘bbsÃ©gre jogosult mÃ¡s szemÃ©ly.<ujsor/>
+A rÃ©szvÃ©nyesek akkÃ©nt rendelkeznek, hogy a jegyzÃ©sre jogosult a rÃ©szvÃ©nyek Ã¡tvÃ©telÃ©re kÃ¶telezÅ‘ nyilatkozatÃ¡t legkÃ©sÅ‘bb 2009. februÃ¡r 15-ig kÃ¶teles megtenni.<ujsor/>
+A kibocsÃ¡tÃ¡sra kerÃ¼lÅ‘ Ãºj rÃ©szvÃ©nyek egyÃ¼ttes ellenÃ©rtÃ©ke 46 000 000 Ft (HUF) (negyvenhatmilliÃ³ magyar forint), ekkÃ©nt a rÃ©szvÃ©nyek kibocsÃ¡tÃ¡si Ã©rtÃ©ke rÃ©szvÃ©nyenkÃ©nt 1 000 000 Ft.<ujsor/>
+A tÃ¡rsasÃ¡g rÃ©szvÃ©nyesei megÃ¡llapÃ­tjÃ¡k, hogy a tÅ‘keemelÃ©s kÃ¶vetkeztÃ©ben Â­ Ã©s a rÃ©szvÃ©nyek Ã¡tvÃ©telÃ©re vonatkozÃ³ kÃ¶telezettsÃ©gvÃ¡llalÃ¡sok eredmÃ©nyÃ©tÅ‘l fÃ¼ggÅ‘en Â­ a tÃ¡rsasÃ¡g alaptÅ‘kÃ©je 966 000 000 Ft-ra (kilencszÃ¡zhatvanhatmilliÃ³ forintra) emelkedik.<ujsor/>
+A rÃ©szvÃ©nyesek egyhangÃºlag Ãºgy hatÃ¡roznak, hogy a kibocsÃ¡tott Ãºj rÃ©szvÃ©nyek ellenÃ©rtÃ©kÃ©nek szolgÃ¡ltatÃ¡sÃ¡ra a jegyzÃ©sre jogosult Ã¡ltal tÃ¶rtÃ©nÅ‘ pÃ©nzbeli betÃ©tek szolgÃ¡ltatÃ¡s ÃºtjÃ¡n kerÃ¼l sor, 2009. februÃ¡r 15-ig.<ujsor/>
+A rÃ©szvÃ©nyesek Ãºgy hatÃ¡roztak, hogy az alaptÅ‘ke felemelÃ©sÃ©vel forgalomba hozott Ãºj rÃ©szvÃ©ny elsÅ‘ Ã­zben az alaptÅ‘ke-emelÃ©s bejegyzÃ©sÃ©nek Ã¼zleti Ã©ve utÃ¡n jÃ¡rÃ³ osztalÃ©kra jogosÃ­t.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110046203</mezo>
-<mezo id = "nev">WABARD Biztosító Zártkörûen mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">WABARD BiztosÃ­tÃ³ ZÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1211 Budapest</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A WABARD Biztosító Zártkörûen Mûködõ Részvénytársaság (Cg.: [01 10 046203]; székhelye: 1211 Budapest, Szabadkikötõ út 5­7.) részvényesei 2009. március 25-én tartott rendkívüli közgyûlésen ­ figyelemmel arra is, hogy a korábban forgalomba hozott részvények névértékét a társaság rendelkezésére bocsátották ­ egyhangúlag úgy határoznak, hogy a társaság 966 000 000 Ft (kilencszázhatvanhatmillió forint) összegû alaptõkéjét megemelik 500 000 000 Ft-tal (ötszázmillió forinttal) akként, hogy a tõkeemelés során összesen 500 db, egyenként 1 000 000 Ft (HUF) névértékû, dematerializált új törzsrészvény kerül ­ a Gt. 248. § (1) bekezdés a) pontjának megfelelõen ­ zártkörû forgalomba hozatallal kibocsátásra, a jegyzésre jogosultak által 2009. április 30-ig teljesítendõ pénzbeli hozzájárulás szolgáltatásával. Az újonnan kibocsátandó részvények közül 250 db részvény jegyzésére a társaság a VKH Kft. részvényest, 250 db részvény jegyzésére az ARDEN HOLDING Zrt. részvényest jogosítja fel, figyelemmel arra is, hogy elõzetes kötelezettségvállalók nyilatkozatot tettek és nincs jegyzési elsõbbségre jogosult más személy.<ujsor/>
-A részvényesek akként rendelkeznek, hogy a jegyzésre jogosultak a részvények átvételére kötelezõ nyilatkozatukat legkésõbb 2009. április 30-ig köteles megtenni.<ujsor/>
-A kibocsátásra kerülõ új részvények együttes ellenértéke 500 000 000 Ft (HUF) (ötszázmillió magyar forint), ekként a részvények kibocsátási értéke részvényenként 1 000 000 Ft.<ujsor/>
-A társaság részvényesei megállapítják, hogy a tõkeemelés következtében ­ és a részvények átvételére vonatkozó kötelezettségvállalások eredményétõl függõen ­ a társaság alaptõkéje 1 466 000 000 Ft-ra (egymilliárd-négyszázhatvanhatmillió forintra) emelkedik.<ujsor/>
-A részvényesek egyhangúlag úgy határoznak, hogy a kibocsátott új részvények ellenértékének szolgáltatására a jegyzésre jogosultak által történõ pénzbeli betétek szolgáltatás útján kerül sor, 2009. április 30-ig.<ujsor/>
-A részvényesek úgy határoznak, hogy az alaptõke felemelésével forgalomba hozott új részvények elsõ ízben az alaptõke-emelés bejegyzésének üzleti éve után járó osztalékra jogosítanak.<ujsor/>
+<mezo id = "szoveg">A WABARD BiztosÃ­tÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 046203]; szÃ©khelye: 1211 Budapest, SzabadkikÃ¶tÅ‘ Ãºt 5Â­7.) rÃ©szvÃ©nyesei 2009. mÃ¡rcius 25-Ã©n tartott rendkÃ­vÃ¼li kÃ¶zgyÅ±lÃ©sen Â­ figyelemmel arra is, hogy a korÃ¡bban forgalomba hozott rÃ©szvÃ©nyek nÃ©vÃ©rtÃ©kÃ©t a tÃ¡rsasÃ¡g rendelkezÃ©sÃ©re bocsÃ¡tottÃ¡k Â­ egyhangÃºlag Ãºgy hatÃ¡roznak, hogy a tÃ¡rsasÃ¡g 966 000 000 Ft (kilencszÃ¡zhatvanhatmilliÃ³ forint) Ã¶sszegÅ± alaptÅ‘kÃ©jÃ©t megemelik 500 000 000 Ft-tal (Ã¶tszÃ¡zmilliÃ³ forinttal) akkÃ©nt, hogy a tÅ‘keemelÃ©s sorÃ¡n Ã¶sszesen 500 db, egyenkÃ©nt 1 000 000 Ft (HUF) nÃ©vÃ©rtÃ©kÅ±, dematerializÃ¡lt Ãºj tÃ¶rzsrÃ©szvÃ©ny kerÃ¼l Â­ a Gt. 248. Â§ (1) bekezdÃ©s a) pontjÃ¡nak megfelelÅ‘en Â­ zÃ¡rtkÃ¶rÅ± forgalomba hozatallal kibocsÃ¡tÃ¡sra, a jegyzÃ©sre jogosultak Ã¡ltal 2009. Ã¡prilis 30-ig teljesÃ­tendÅ‘ pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s szolgÃ¡ltatÃ¡sÃ¡val. Az Ãºjonnan kibocsÃ¡tandÃ³ rÃ©szvÃ©nyek kÃ¶zÃ¼l 250 db rÃ©szvÃ©ny jegyzÃ©sÃ©re a tÃ¡rsasÃ¡g a VKH Kft. rÃ©szvÃ©nyest, 250 db rÃ©szvÃ©ny jegyzÃ©sÃ©re az ARDEN HOLDING Zrt. rÃ©szvÃ©nyest jogosÃ­tja fel, figyelemmel arra is, hogy elÅ‘zetes kÃ¶telezettsÃ©gvÃ¡llalÃ³k nyilatkozatot tettek Ã©s nincs jegyzÃ©si elsÅ‘bbsÃ©gre jogosult mÃ¡s szemÃ©ly.<ujsor/>
+A rÃ©szvÃ©nyesek akkÃ©nt rendelkeznek, hogy a jegyzÃ©sre jogosultak a rÃ©szvÃ©nyek Ã¡tvÃ©telÃ©re kÃ¶telezÅ‘ nyilatkozatukat legkÃ©sÅ‘bb 2009. Ã¡prilis 30-ig kÃ¶teles megtenni.<ujsor/>
+A kibocsÃ¡tÃ¡sra kerÃ¼lÅ‘ Ãºj rÃ©szvÃ©nyek egyÃ¼ttes ellenÃ©rtÃ©ke 500 000 000 Ft (HUF) (Ã¶tszÃ¡zmilliÃ³ magyar forint), ekkÃ©nt a rÃ©szvÃ©nyek kibocsÃ¡tÃ¡si Ã©rtÃ©ke rÃ©szvÃ©nyenkÃ©nt 1 000 000 Ft.<ujsor/>
+A tÃ¡rsasÃ¡g rÃ©szvÃ©nyesei megÃ¡llapÃ­tjÃ¡k, hogy a tÅ‘keemelÃ©s kÃ¶vetkeztÃ©ben Â­ Ã©s a rÃ©szvÃ©nyek Ã¡tvÃ©telÃ©re vonatkozÃ³ kÃ¶telezettsÃ©gvÃ¡llalÃ¡sok eredmÃ©nyÃ©tÅ‘l fÃ¼ggÅ‘en Â­ a tÃ¡rsasÃ¡g alaptÅ‘kÃ©je 1 466 000 000 Ft-ra (egymilliÃ¡rd-nÃ©gyszÃ¡zhatvanhatmilliÃ³ forintra) emelkedik.<ujsor/>
+A rÃ©szvÃ©nyesek egyhangÃºlag Ãºgy hatÃ¡roznak, hogy a kibocsÃ¡tott Ãºj rÃ©szvÃ©nyek ellenÃ©rtÃ©kÃ©nek szolgÃ¡ltatÃ¡sÃ¡ra a jegyzÃ©sre jogosultak Ã¡ltal tÃ¶rtÃ©nÅ‘ pÃ©nzbeli betÃ©tek szolgÃ¡ltatÃ¡s ÃºtjÃ¡n kerÃ¼l sor, 2009. Ã¡prilis 30-ig.<ujsor/>
+A rÃ©szvÃ©nyesek Ãºgy hatÃ¡roznak, hogy az alaptÅ‘ke felemelÃ©sÃ©vel forgalomba hozott Ãºj rÃ©szvÃ©nyek elsÅ‘ Ã­zben az alaptÅ‘ke-emelÃ©s bejegyzÃ©sÃ©nek Ã¼zleti Ã©ve utÃ¡n jÃ¡rÃ³ osztalÃ©kra jogosÃ­tanak.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110046203</mezo>
-<mezo id = "nev">WABARD Biztosító Zártkörûen mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">WABARD BiztosÃ­tÃ³ ZÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1211 Budapest</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A WABARD Biztosító Zártkörûen Mûködõ Részvénytársaság (Cg.: [01 10 046203]; székhelye: 1211 Budapest, Szabadkikötõ út 5­7.) ­ figyelemmel arra, hogy a korábban forgalomba hozott részvények névértékét a társaság rendelkezésére bocsátották ­ 2009. június 15-én közgyûlésen kívül hozott határozattal egyhangúlag úgy határoztak, hogy a társaság 1 466 000 000 Ft (egymilliárd-négyszázhatvanhatmillió forint) összegû alaptõkéjét megemelik 500 000 000 Ft-tal (ötszázmillió forinttal) akként, hogy a tõkeemelés során összesen 500 db, egyenként 1 000 000 Ft (HUF) névértékû, dematerializált új törzsrészvény kerül ­ a Gt. 248. § (1) a) bekezdésének megfelelõen ­ zártkörû forgalomba hozatallal kibocsátásra, a jegyzésre jogosultak által 2009. június 23-ig teljesítendõ pénzbeli hozzájárulás szolgáltatásával. Az újonnan kibocsátandó részvények közül 250 db részvény jegyzésére a részvényesek a VKH Vagyonkezelõ Korlátolt Felelõsségû Társaság (Cg.: [01 09 732911]; székhelye: 1211 Budapest, Szállítók útja 4.; képviseli: Wáberer Mária ügyvezetõ) részvényest, 250 db részvény jegyzésére az ARDEN HOLDING Befektetési és Vagyonkezelõ Zártkörûen Mûködõ Részvénytársaság (Cg.: [01 10 046063]; székhelye: 1211 Budapest, Szabadkikötõ u. 5­7.; képviseli: Nagy Imre Tamás vezérigazgató) részvényest jogosítják fel figyelemmel arra is, hogy elõzetes kötelezettségvállaló nyilatkozatot tettek és nincs jegyzési elsõbbségre jogosult más személy.<ujsor/>
-A részvényesek akként rendelkeznek, hogy a jegyzésre jogosultak a részvények átvételére kötelezõ nyilatkozatukat legkésõbb 2009. június 23-ig köteles megtenni.<ujsor/>
-A kibocsátásra kerülõ új részvények együttes ellenértéke: 500 000 000 Ft (HUF) (ötszázmillió magyar forint), ekként a részvények kibocsátási értéke részvényenként 1 000 000 Ft.<ujsor/>
-A társaság részvényesei megállapítják, hogy a tõkeemelés következtében ­ és a részvények átvételére vonatkozó kötelezettségvállalások eredményétõl függõen ­ a társaság alaptõkéje 1 966 000 000 Ft-ra (egymilliárd-kilencszázhatvanhatmillió forintra) emelkedik.<ujsor/>
-A részvényesek egyhangúlag úgy határoznak, hogy a kibocsátott új részvények ellenértékének szolgáltatására a jegyzésre jogosultak által történõ pénzbeli betétek szolgáltatás útján kerül sor, 2009. június 23-ig.<ujsor/>
-A részvényesek úgy határoznak, hogy az alaptõke felemelésével forgalomba hozott új részvények elsõ ízben az alaptõke-emelés bejegyzésének üzleti éve után járó osztalékra jogosítanak.<ujsor/>
+<mezo id = "szoveg">A WABARD BiztosÃ­tÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 046203]; szÃ©khelye: 1211 Budapest, SzabadkikÃ¶tÅ‘ Ãºt 5Â­7.) Â­ figyelemmel arra, hogy a korÃ¡bban forgalomba hozott rÃ©szvÃ©nyek nÃ©vÃ©rtÃ©kÃ©t a tÃ¡rsasÃ¡g rendelkezÃ©sÃ©re bocsÃ¡tottÃ¡k Â­ 2009. jÃºnius 15-Ã©n kÃ¶zgyÅ±lÃ©sen kÃ­vÃ¼l hozott hatÃ¡rozattal egyhangÃºlag Ãºgy hatÃ¡roztak, hogy a tÃ¡rsasÃ¡g 1 466 000 000 Ft (egymilliÃ¡rd-nÃ©gyszÃ¡zhatvanhatmilliÃ³ forint) Ã¶sszegÅ± alaptÅ‘kÃ©jÃ©t megemelik 500 000 000 Ft-tal (Ã¶tszÃ¡zmilliÃ³ forinttal) akkÃ©nt, hogy a tÅ‘keemelÃ©s sorÃ¡n Ã¶sszesen 500 db, egyenkÃ©nt 1 000 000 Ft (HUF) nÃ©vÃ©rtÃ©kÅ±, dematerializÃ¡lt Ãºj tÃ¶rzsrÃ©szvÃ©ny kerÃ¼l Â­ a Gt. 248. Â§ (1) a) bekezdÃ©sÃ©nek megfelelÅ‘en Â­ zÃ¡rtkÃ¶rÅ± forgalomba hozatallal kibocsÃ¡tÃ¡sra, a jegyzÃ©sre jogosultak Ã¡ltal 2009. jÃºnius 23-ig teljesÃ­tendÅ‘ pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s szolgÃ¡ltatÃ¡sÃ¡val. Az Ãºjonnan kibocsÃ¡tandÃ³ rÃ©szvÃ©nyek kÃ¶zÃ¼l 250 db rÃ©szvÃ©ny jegyzÃ©sÃ©re a rÃ©szvÃ©nyesek a VKH VagyonkezelÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [01 09 732911]; szÃ©khelye: 1211 Budapest, SzÃ¡llÃ­tÃ³k Ãºtja 4.; kÃ©pviseli: WÃ¡berer MÃ¡ria Ã¼gyvezetÅ‘) rÃ©szvÃ©nyest, 250 db rÃ©szvÃ©ny jegyzÃ©sÃ©re az ARDEN HOLDING BefektetÃ©si Ã©s VagyonkezelÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 046063]; szÃ©khelye: 1211 Budapest, SzabadkikÃ¶tÅ‘ u. 5Â­7.; kÃ©pviseli: Nagy Imre TamÃ¡s vezÃ©rigazgatÃ³) rÃ©szvÃ©nyest jogosÃ­tjÃ¡k fel figyelemmel arra is, hogy elÅ‘zetes kÃ¶telezettsÃ©gvÃ¡llalÃ³ nyilatkozatot tettek Ã©s nincs jegyzÃ©si elsÅ‘bbsÃ©gre jogosult mÃ¡s szemÃ©ly.<ujsor/>
+A rÃ©szvÃ©nyesek akkÃ©nt rendelkeznek, hogy a jegyzÃ©sre jogosultak a rÃ©szvÃ©nyek Ã¡tvÃ©telÃ©re kÃ¶telezÅ‘ nyilatkozatukat legkÃ©sÅ‘bb 2009. jÃºnius 23-ig kÃ¶teles megtenni.<ujsor/>
+A kibocsÃ¡tÃ¡sra kerÃ¼lÅ‘ Ãºj rÃ©szvÃ©nyek egyÃ¼ttes ellenÃ©rtÃ©ke: 500 000 000 Ft (HUF) (Ã¶tszÃ¡zmilliÃ³ magyar forint), ekkÃ©nt a rÃ©szvÃ©nyek kibocsÃ¡tÃ¡si Ã©rtÃ©ke rÃ©szvÃ©nyenkÃ©nt 1 000 000 Ft.<ujsor/>
+A tÃ¡rsasÃ¡g rÃ©szvÃ©nyesei megÃ¡llapÃ­tjÃ¡k, hogy a tÅ‘keemelÃ©s kÃ¶vetkeztÃ©ben Â­ Ã©s a rÃ©szvÃ©nyek Ã¡tvÃ©telÃ©re vonatkozÃ³ kÃ¶telezettsÃ©gvÃ¡llalÃ¡sok eredmÃ©nyÃ©tÅ‘l fÃ¼ggÅ‘en Â­ a tÃ¡rsasÃ¡g alaptÅ‘kÃ©je 1 966 000 000 Ft-ra (egymilliÃ¡rd-kilencszÃ¡zhatvanhatmilliÃ³ forintra) emelkedik.<ujsor/>
+A rÃ©szvÃ©nyesek egyhangÃºlag Ãºgy hatÃ¡roznak, hogy a kibocsÃ¡tott Ãºj rÃ©szvÃ©nyek ellenÃ©rtÃ©kÃ©nek szolgÃ¡ltatÃ¡sÃ¡ra a jegyzÃ©sre jogosultak Ã¡ltal tÃ¶rtÃ©nÅ‘ pÃ©nzbeli betÃ©tek szolgÃ¡ltatÃ¡s ÃºtjÃ¡n kerÃ¼l sor, 2009. jÃºnius 23-ig.<ujsor/>
+A rÃ©szvÃ©nyesek Ãºgy hatÃ¡roznak, hogy az alaptÅ‘ke felemelÃ©sÃ©vel forgalomba hozott Ãºj rÃ©szvÃ©nyek elsÅ‘ Ã­zben az alaptÅ‘ke-emelÃ©s bejegyzÃ©sÃ©nek Ã¼zleti Ã©ve utÃ¡n jÃ¡rÃ³ osztalÃ©kra jogosÃ­tanak.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110046203</mezo>
-<mezo id = "nev">WABARD Biztosító Zártkörûen mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">WABARD BiztosÃ­tÃ³ ZÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1211 Budapest</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A WABARD Biztosító Zártkörûen Mûködõ Részvénytársaság (Cg.: [01 10 046203]; székhelye: 1211 Budapest, Szabadkikötõ út 5­7.) részvényesei ­ figyelemmel arra is, hogy a korábban forgalomba hozott részvények névértékét a társaság rendelkezésére bocsátották ­ a 2009. szeptember 11-én tartott rendkívüli közgyûlésen egyhangúlag úgy határoztak, hogy a társaság 1 966 000 000 Ft, (egymilliárd-kilencszázhatvanhatmillió forint) összegû alaptõkéjét megemelik 1 000 000 000 Ft-tal (egymilliárd forinttal) akként, hogy a tõkeemelés során összesen 1000 db, egyenként 1 000 000 Ft (HUF) névértékû, dematerializált új törzsrészvény kerül ­ a Gt. 248. § (1) bekezdés a) pontjának megfelelõen ­ zártkörû forgalomba hozatallal kibocsátásra, a jegyzésre jogosultak által 2009. szeptember 17-ig teljesítendõ pénzbeli hozzájárulás szolgáltatásával. Az újonnan kibocsátandó részvények közül 500 db részvény jegyzésére a társaság a VKH Kft. részvényest, 500 db részvény jegyzésére az ARDEN HOLDING Zrt. részvényest jogosítja fel, figyelemmel arra is, hogy elõzetes kötelezettségvállalók nyilatkozatot tettek és nincs jegyzési elsõbbségre jogosult más személy.<ujsor/>
-A részvényesek akként rendelkeznek, hogy a jegyzésre jogosultak a részvények átvételére kötelezõ nyilatkozatukat legkésõbb 2009. szeptember 17-ig kötelesek megtenni.<ujsor/>
-A kibocsátásra kerülõ új részvények együttes ellenértéke 1 000 000 000 Ft (HUF) (egymilliárd magyar forint), ekként a részvények kibocsátási értéke részvényenként 1 000 000 Ft.<ujsor/>
-A társaság részvényesei megállapítják, hogy a tõkeemelés következtében ­ és a részvények átvételére vonatkozó kötelezettségvállalások eredményétõl függõen ­ a társaság alaptõkéje 2 966 000 000 Ft-ra (kettõmilliárd-kilencszázhatvanhatmillió forintra) emelkedik.<ujsor/>
-A részvényesek egyhangúlag úgy határoznak, hogy a kibocsátott új részvények ellenértékének szolgáltatására a jegyzésre jogosultak által történõ pénzbeli betétek szolgáltatás útján kerül sor, 2009. szeptember 17-ig.<ujsor/>
-A részvényesek úgy határoznak, hogy az alaptõke felemelésével forgalomba hozott új részvények elsõ ízben az alaptõke-emelés bejegyzésének üzleti éve után járó osztalékra jogosítanak.<ujsor/>
+<mezo id = "szoveg">A WABARD BiztosÃ­tÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 046203]; szÃ©khelye: 1211 Budapest, SzabadkikÃ¶tÅ‘ Ãºt 5Â­7.) rÃ©szvÃ©nyesei Â­ figyelemmel arra is, hogy a korÃ¡bban forgalomba hozott rÃ©szvÃ©nyek nÃ©vÃ©rtÃ©kÃ©t a tÃ¡rsasÃ¡g rendelkezÃ©sÃ©re bocsÃ¡tottÃ¡k Â­ a 2009. szeptember 11-Ã©n tartott rendkÃ­vÃ¼li kÃ¶zgyÅ±lÃ©sen egyhangÃºlag Ãºgy hatÃ¡roztak, hogy a tÃ¡rsasÃ¡g 1 966 000 000 Ft, (egymilliÃ¡rd-kilencszÃ¡zhatvanhatmilliÃ³ forint) Ã¶sszegÅ± alaptÅ‘kÃ©jÃ©t megemelik 1 000 000 000 Ft-tal (egymilliÃ¡rd forinttal) akkÃ©nt, hogy a tÅ‘keemelÃ©s sorÃ¡n Ã¶sszesen 1000 db, egyenkÃ©nt 1 000 000 Ft (HUF) nÃ©vÃ©rtÃ©kÅ±, dematerializÃ¡lt Ãºj tÃ¶rzsrÃ©szvÃ©ny kerÃ¼l Â­ a Gt. 248. Â§ (1) bekezdÃ©s a) pontjÃ¡nak megfelelÅ‘en Â­ zÃ¡rtkÃ¶rÅ± forgalomba hozatallal kibocsÃ¡tÃ¡sra, a jegyzÃ©sre jogosultak Ã¡ltal 2009. szeptember 17-ig teljesÃ­tendÅ‘ pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s szolgÃ¡ltatÃ¡sÃ¡val. Az Ãºjonnan kibocsÃ¡tandÃ³ rÃ©szvÃ©nyek kÃ¶zÃ¼l 500 db rÃ©szvÃ©ny jegyzÃ©sÃ©re a tÃ¡rsasÃ¡g a VKH Kft. rÃ©szvÃ©nyest, 500 db rÃ©szvÃ©ny jegyzÃ©sÃ©re az ARDEN HOLDING Zrt. rÃ©szvÃ©nyest jogosÃ­tja fel, figyelemmel arra is, hogy elÅ‘zetes kÃ¶telezettsÃ©gvÃ¡llalÃ³k nyilatkozatot tettek Ã©s nincs jegyzÃ©si elsÅ‘bbsÃ©gre jogosult mÃ¡s szemÃ©ly.<ujsor/>
+A rÃ©szvÃ©nyesek akkÃ©nt rendelkeznek, hogy a jegyzÃ©sre jogosultak a rÃ©szvÃ©nyek Ã¡tvÃ©telÃ©re kÃ¶telezÅ‘ nyilatkozatukat legkÃ©sÅ‘bb 2009. szeptember 17-ig kÃ¶telesek megtenni.<ujsor/>
+A kibocsÃ¡tÃ¡sra kerÃ¼lÅ‘ Ãºj rÃ©szvÃ©nyek egyÃ¼ttes ellenÃ©rtÃ©ke 1 000 000 000 Ft (HUF) (egymilliÃ¡rd magyar forint), ekkÃ©nt a rÃ©szvÃ©nyek kibocsÃ¡tÃ¡si Ã©rtÃ©ke rÃ©szvÃ©nyenkÃ©nt 1 000 000 Ft.<ujsor/>
+A tÃ¡rsasÃ¡g rÃ©szvÃ©nyesei megÃ¡llapÃ­tjÃ¡k, hogy a tÅ‘keemelÃ©s kÃ¶vetkeztÃ©ben Â­ Ã©s a rÃ©szvÃ©nyek Ã¡tvÃ©telÃ©re vonatkozÃ³ kÃ¶telezettsÃ©gvÃ¡llalÃ¡sok eredmÃ©nyÃ©tÅ‘l fÃ¼ggÅ‘en Â­ a tÃ¡rsasÃ¡g alaptÅ‘kÃ©je 2 966 000 000 Ft-ra (kettÅ‘milliÃ¡rd-kilencszÃ¡zhatvanhatmilliÃ³ forintra) emelkedik.<ujsor/>
+A rÃ©szvÃ©nyesek egyhangÃºlag Ãºgy hatÃ¡roznak, hogy a kibocsÃ¡tott Ãºj rÃ©szvÃ©nyek ellenÃ©rtÃ©kÃ©nek szolgÃ¡ltatÃ¡sÃ¡ra a jegyzÃ©sre jogosultak Ã¡ltal tÃ¶rtÃ©nÅ‘ pÃ©nzbeli betÃ©tek szolgÃ¡ltatÃ¡s ÃºtjÃ¡n kerÃ¼l sor, 2009. szeptember 17-ig.<ujsor/>
+A rÃ©szvÃ©nyesek Ãºgy hatÃ¡roznak, hogy az alaptÅ‘ke felemelÃ©sÃ©vel forgalomba hozott Ãºj rÃ©szvÃ©nyek elsÅ‘ Ã­zben az alaptÅ‘ke-emelÃ©s bejegyzÃ©sÃ©nek Ã¼zleti Ã©ve utÃ¡n jÃ¡rÃ³ osztalÃ©kra jogosÃ­tanak.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110046203</mezo>
-<mezo id = "nev">WABARD Biztosító Zártkörûen mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">WABARD BiztosÃ­tÃ³ ZÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1211 Budapest</mezo>
 </alrovat>
 </rovat>

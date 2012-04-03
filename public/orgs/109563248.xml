@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">563248</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">1038 Budapest, Papírgyár u. 58-59. </mezo>
+<mezo id = "cim">1038 Budapest, PapÃ­rgyÃ¡r u. 58-59. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">12185496241</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19960930</mezo>
-<mezo id = "nev">Olympus Hungary Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Olympus Hungary Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -33,7 +33,7 @@
 <mezo id = "hattol">20040629</mezo>
 <mezo id = "irsz">1038</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Papírgyár u. 58-59.</mezo>
+<mezo id = "teru">PapÃ­rgyÃ¡r u. 58-59.</mezo>
 <mezo id = "kirsz">0</mezo>
 </alrovat>
 </rovat>
@@ -1149,19 +1149,19 @@
 <mezo id = "hattol">20100430</mezo>
 <mezo id = "valtk">20100430</mezo>
 <mezo id = "bkelt">20100504</mezo>
-<mezo id = "teaszov">Számítógép-üzemeltetés</mezo>
+<mezo id = "teaszov">SzÃ¡mÃ­tÃ³gÃ©p-Ã¼zemeltetÃ©s</mezo>
 </alrovat>
 <alrovat id = "159">
 <mezo id = "hattol">20100430</mezo>
 <mezo id = "valtk">20100430</mezo>
 <mezo id = "bkelt">20100504</mezo>
-<mezo id = "teaszov">Adatfeldolgozás, web-hosting szolgáltatás</mezo>
+<mezo id = "teaszov">AdatfeldolgozÃ¡s, web-hosting szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "160">
 <mezo id = "hattol">20100430</mezo>
 <mezo id = "valtk">20100430</mezo>
 <mezo id = "bkelt">20100504</mezo>
-<mezo id = "teaszov">Számviteli, könyvvizsgálói, adószakértõi tevékenység</mezo>
+<mezo id = "teaszov">SzÃ¡mviteli, kÃ¶nyvvizsgÃ¡lÃ³i, adÃ³szakÃ©rtÅ‘i tevÃ©kenysÃ©g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -1178,7 +1178,7 @@
 <rovat id = "13">
 <alrovat id = "1">
 <mezo id = "hattol">19960930</mezo>
-<mezo id = "nev">Dr. Anton Gerald Ofner ügyvezetõ</mezo>
+<mezo id = "nev">Dr. Anton Gerald Ofner Ã¼gyvezetÅ‘</mezo>
 <mezo id = "orsz">AT</mezo>
 <mezo id = "irsz">1190</mezo>
 <mezo id = "hely">Wien</mezo>
@@ -1186,7 +1186,7 @@
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">19980202</mezo>
-<mezo id = "nev">Csiba Péter ügyvezetõ</mezo>
+<mezo id = "nev">Csiba PÃ©ter Ã¼gyvezetÅ‘</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2089</mezo>
 <mezo id = "hely">Telki</mezo>
@@ -1194,23 +1194,23 @@
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20001222</mezo>
-<mezo id = "tiszt">ügyvezetõ</mezo>
+<mezo id = "tiszt">Ã¼gyvezetÅ‘</mezo>
 <mezo id = "pnev">Werner Teuffel</mezo>
 <mezo id = "panev">Wernicke Wilma</mezo>
 <mezo id = "pkorsz">DE</mezo>
 <mezo id = "pkirsz">20149</mezo>
 <mezo id = "pkhely">Hamburg, Harverstehuder Weg 65/67.</mezo>
-<mezo id = "pmnev">Csiba Péter</mezo>
-<mezo id = "pmanev">Maár Katalin</mezo>
+<mezo id = "pmnev">Csiba PÃ©ter</mezo>
+<mezo id = "pmanev">MaÃ¡r Katalin</mezo>
 <mezo id = "pmirsz">2089</mezo>
 <mezo id = "pmhely">Telki, Anna-laki u. 29.</mezo>
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">20040528</mezo>
-<mezo id = "pnev">Végh József</mezo>
-<mezo id = "panev">Kovács Erzsébet</mezo>
+<mezo id = "pnev">VÃ©gh JÃ³zsef</mezo>
+<mezo id = "panev">KovÃ¡cs ErzsÃ©bet</mezo>
 <mezo id = "pirsz">2083</mezo>
-<mezo id = "phely">Solymár, Meredek u. 5.</mezo>
+<mezo id = "phely">SolymÃ¡r, Meredek u. 5.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">2</mezo>
 <mezo id = "jogvk">20040528</mezo>
@@ -1227,19 +1227,19 @@
 <mezo id = "tv">2</mezo>
 <mezo id = "jogvk">20060113</mezo>
 <mezo id = "jogvv">20101201</mezo>
-<mezo id = "pcnev">Bogsch és Társai Ügyvédi Iroda</mezo>
+<mezo id = "pcnev">Bogsch Ã©s TÃ¡rsai ÃœgyvÃ©di Iroda</mezo>
 <mezo id = "pcanev">0</mezo>
 <mezo id = "pcirsz">1051</mezo>
 <mezo id = "pchely">Budapest</mezo>
-<mezo id = "pcteru">Bajcsy-Zsilinszky út</mezo>
+<mezo id = "pcteru">Bajcsy-Zsilinszky Ãºt</mezo>
 <mezo id = "pchsz">16.</mezo>
 </alrovat>
 <alrovat id = "21">
 <mezo id = "hattol">20090126</mezo>
-<mezo id = "pnev">Bodolai Tamás</mezo>
-<mezo id = "panev">Ittes Márta</mezo>
+<mezo id = "pnev">Bodolai TamÃ¡s</mezo>
+<mezo id = "panev">Ittes MÃ¡rta</mezo>
 <mezo id = "pirsz">1181</mezo>
-<mezo id = "phely">Budapest, Vándor Sándor utca 20. III. em. 4.</mezo>
+<mezo id = "phely">Budapest, VÃ¡ndor SÃ¡ndor utca 20. III. em. 4.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20090126</mezo>
@@ -1250,9 +1250,9 @@
 </alrovat>
 <alrovat id = "27">
 <mezo id = "hattol">20091216</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Balog László Róbert</mezo>
-<mezo id = "panev">Tamás Mária</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Balog LÃ¡szlÃ³ RÃ³bert</mezo>
+<mezo id = "panev">TamÃ¡s MÃ¡ria</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20100101</mezo>
 <mezo id = "valtk">20091216</mezo>
@@ -1260,30 +1260,30 @@
 </alrovat>
 <alrovat id = "28">
 <mezo id = "hattol">20100201</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "pnev">Stefan Kaufmann</mezo>
 <mezo id = "panev">Ingeborg Gehrmann</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20100201</mezo>
-<mezo id = "pcnev">Bogsch és Társai Ügyvédi Iroda</mezo>
+<mezo id = "pcnev">Bogsch Ã©s TÃ¡rsai ÃœgyvÃ©di Iroda</mezo>
 <mezo id = "pcirsz">1126</mezo>
 <mezo id = "pchely">Budapest</mezo>
-<mezo id = "pcteru">Királyhágó tér 8-9.</mezo>
+<mezo id = "pcteru">KirÃ¡lyhÃ¡gÃ³ tÃ©r 8-9.</mezo>
 <mezo id = "valtk">20100201</mezo>
 <mezo id = "bkelt">20100310</mezo>
 <mezo id = "adoazon">8253480697</mezo>
 </alrovat>
 <alrovat id = "30">
 <mezo id = "hattol">20101207</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "pnev">Matthias Horst Jakob</mezo>
 <mezo id = "panev">Ingrid Gruner</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20101207</mezo>
-<mezo id = "pcnev">Bogsch és Társai Ügyvédi Iroda</mezo>
+<mezo id = "pcnev">Bogsch Ã©s TÃ¡rsai ÃœgyvÃ©di Iroda</mezo>
 <mezo id = "pcirsz">1126</mezo>
 <mezo id = "pchely">Budapest</mezo>
-<mezo id = "pcteru">Királyhágó tér 8-9.</mezo>
+<mezo id = "pcteru">KirÃ¡lyhÃ¡gÃ³ tÃ©r 8-9.</mezo>
 <mezo id = "valtk">20101207</mezo>
 <mezo id = "bkelt">20101229</mezo>
 <mezo id = "adoazon">8597703246</mezo>
@@ -1293,11 +1293,11 @@
 <alrovat id = "10">
 <mezo id = "hattol">20101021</mezo>
 <mezo id = "cgjsz">0109267553</mezo>
-<mezo id = "nev">Ernst &amp; Young Könyvvizsgáló Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Ernst &amp; Young KÃ¶nyvvizsgÃ¡lÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1132</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Váci út 20.</mezo>
+<mezo id = "teru">VÃ¡ci Ãºt 20.</mezo>
 <mezo id = "pnev">Szarvas Hajnalka</mezo>
 <mezo id = "panev">Csomor Katalin</mezo>
 <mezo id = "jogvk">20101021</mezo>
@@ -1310,7 +1310,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20040930</mezo>
 <mezo id = "cgjsz">109061930</mezo>
-<mezo id = "nev">Diatron Humánegészségügyi Diagnosztikai Elektronikus Mérõeszközöket Kutató-Fejlesztõ Kft.</mezo>
+<mezo id = "nev">Diatron HumÃ¡negÃ©szsÃ©gÃ¼gyi Diagnosztikai Elektronikus MÃ©rÅ‘eszkÃ¶zÃ¶ket KutatÃ³-FejlesztÅ‘ Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "20">
@@ -1337,7 +1337,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20091130</mezo>
 <mezo id = "jccjsz">0109928023</mezo>
-<mezo id = "nev">Olympus Diagnosztikai Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Olympus Diagnosztikai KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "atdat">20091130</mezo>
 <mezo id = "valtk">20091130</mezo>
 <mezo id = "bkelt">20091111</mezo>
@@ -1353,11 +1353,11 @@
 <mezo id = "teru">Wendenstrasse</mezo>
 <mezo id = "hsz">14-16.</mezo>
 <mezo id = "k">x</mezo>
-<mezo id = "pcnev">Bogsch és Társai Ügyvédi Iroda</mezo>
+<mezo id = "pcnev">Bogsch Ã©s TÃ¡rsai ÃœgyvÃ©di Iroda</mezo>
 <mezo id = "pcanev">0</mezo>
 <mezo id = "pcirsz">1051</mezo>
 <mezo id = "pchely">Budapest</mezo>
-<mezo id = "pcteru">Bajcsy-Zsilinszky út</mezo>
+<mezo id = "pcteru">Bajcsy-Zsilinszky Ãºt</mezo>
 <mezo id = "pchsz">16.</mezo>
 <mezo id = "pckirsz">0</mezo>
 </alrovat>
@@ -1371,386 +1371,386 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság az 1212. 12. 12-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g az 1212. 12. 12-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
 21. 12185446-2-42.<ujsor/>
- Törölve: 1998. 10. 08-i hatállyal.<ujsor/>
+ TÃ¶rÃ¶lve: 1998. 10. 08-i hatÃ¡llyal.<ujsor/>
  12185496-2-42.<ujsor/>
- Hatályos: 1998. 10. 08-tól.<ujsor/>
+ HatÃ¡lyos: 1998. 10. 08-tÃ³l.<ujsor/>
 Bejegyezve: 1998. 10. 08.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109563248</mezo>
-<mezo id = "nev">Olympus Hungary Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1089 Budapest, Rezsõ u. 5-7.</mezo>
+<mezo id = "nev">Olympus Hungary Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1089 Budapest, RezsÅ‘ u. 5-7.</mezo>
 <mezo id = "adosz">12185496242</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2004. 03. 11-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. Dr. Anton Gerald Ofner ügyvezetõ<ujsor/>
-Külföldi cím: AT 1190 Wien, Koschatgasse 58.<ujsor/>
- Csiba Péter ügyvezetõ<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2004. 03. 11-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. Dr. Anton Gerald Ofner Ã¼gyvezetÅ‘<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: AT 1190 Wien, Koschatgasse 58.<ujsor/>
+ Csiba PÃ©ter Ã¼gyvezetÅ‘<ujsor/>
 2089 Telki, Anna-laki u. 29.<ujsor/>
- Werner Teuffel (an: Wernicke Wilma) ügyvezetõ<ujsor/>
-Külföldi cím: DE 20149 Hamburg, Harverstehuder Weg 65/67.<ujsor/>
- Kézbesítési megbízott: Csiba Péter (an: Maár Katalin)<ujsor/>
+ Werner Teuffel (an: Wernicke Wilma) Ã¼gyvezetÅ‘<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: DE 20149 Hamburg, Harverstehuder Weg 65/67.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott: Csiba PÃ©ter (an: MaÃ¡r Katalin)<ujsor/>
 2089 Telki, Anna-laki u. 29.<ujsor/>
- Törölve: 2003. 10. 24-i hatállyal.<ujsor/>
- A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (tisztségviselõ).<ujsor/>
+ TÃ¶rÃ¶lve: 2003. 10. 24-i hatÃ¡llyal.<ujsor/>
+ A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (tisztsÃ©gviselÅ‘).<ujsor/>
  Werner Teuffel (an: Wilma Wernicke)<ujsor/>
-Külföldi cím: DE 20149 Hamburg, Harvestehuder Weg 65=67.<ujsor/>
- Kézbesítési megbízott: Csiba Péter (an: Maár Katalin)<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: DE 20149 Hamburg, Harvestehuder Weg 65=67.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott: Csiba PÃ©ter (an: MaÃ¡r Katalin)<ujsor/>
 2089 Telki, Anna-laki u. 29.<ujsor/>
  A jogviszony kezdete: 2002. 01. 31.<ujsor/>
- A jogviszony vége: 2007. 01. 31.<ujsor/>
- A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (tisztségviselõ).<ujsor/>
+ A jogviszony vÃ©ge: 2007. 01. 31.<ujsor/>
+ A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (tisztsÃ©gviselÅ‘).<ujsor/>
  Dr. Anton Gerald Ofner<ujsor/>
-Külföldi cím: AT 1190 Wien, Koschatgasse 58.<ujsor/>
- Kézbesítési megbízott: Csiba Péter (an: Maár Katalin)<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: AT 1190 Wien, Koschatgasse 58.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott: Csiba PÃ©ter (an: MaÃ¡r Katalin)<ujsor/>
 2089 Telki, Anna-laki u. 29.<ujsor/>
  A jogviszony kezdete: 2002. 01. 31.<ujsor/>
- A jogviszony vége: 2007. 01. 31.<ujsor/>
- A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (tisztségviselõ).<ujsor/>
- Csiba Péter (an: Maár Katalin)<ujsor/>
+ A jogviszony vÃ©ge: 2007. 01. 31.<ujsor/>
+ A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (tisztsÃ©gviselÅ‘).<ujsor/>
+ Csiba PÃ©ter (an: MaÃ¡r Katalin)<ujsor/>
 2089 Telki, Anna-laki u. 29.<ujsor/>
  A jogviszony kezdete: 2002. 01. 31.<ujsor/>
- A jogviszony vége: 2007. 01. 31.<ujsor/>
- Hatályos: 2003. 10. 24-tõl.<ujsor/>
+ A jogviszony vÃ©ge: 2007. 01. 31.<ujsor/>
+ HatÃ¡lyos: 2003. 10. 24-tÅ‘l.<ujsor/>
 Bejegyezve: 2004. 03. 29.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109563248</mezo>
-<mezo id = "nev">Olympus Hungary Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1117 Budapest, Budafoki út 60.</mezo>
+<mezo id = "nev">Olympus Hungary Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1117 Budapest, Budafoki Ãºt 60.</mezo>
 <mezo id = "adosz">12185496243</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az Olympus Hungary Kereskedelmi és Szolgáltató Kft. alapítója elhatározta a társaság<ujsor/>
-egyesüléssel<ujsor/>
-való átalakulását.<ujsor/>
-Az egyesülés adatai:<ujsor/>
-Átalakuló (egyesülõ) társaságok fõbb adatai:<ujsor/>
-1. Neve: Olympus Hungary Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság (átvevõ).<ujsor/>
-Cégjegyzékszáma: [01 09 563248].<ujsor/>
-Székhelye: 1039 Budapest, Papírgyár u. 59.; korábbi székhelye: 1117 Budapest, Budafoki út 60.; módosítás folyamatban.<ujsor/>
-2. Neve: Diatron Humánegészségügyi Diagnosztikai Elektronikus Mérõeszközöket Kutató-Fejlesztõ Korlátolt Felelõsségû Társaság (beolvadó).<ujsor/>
-Cégjegyzékszáma: [01 09 061930].<ujsor/>
-Székhelye: 1039 Budapest, Papírgyár u. 59.; korábbi székhelye: 1037 Budapest, Pomázi út 15.; módosítás folyamatban.<ujsor/>
-Létrejövõ társaság formája: korlátolt felelõsségû társaság.<ujsor/>
-Neve: Olympus Hungary Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság (átvevõ).<ujsor/>
-Székhelye: 1039 Budapest, Papírgyár u. 59.; korábbi székhelye: 1117 Budapest, Budafoki út 60.; módosítás folyamatban.<ujsor/>
-Az Olympus Hungary alapító okirata elfogadásának napja: 2004. június 29.<ujsor/>
-Az átalakuló Olympus Hungary és Diatron vagyonmérleg-tervezeteinek adatai:<ujsor/>
+<mezo id = "szoveg">Az Olympus Hungary Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ Kft. alapÃ­tÃ³ja elhatÃ¡rozta a tÃ¡rsasÃ¡g<ujsor/>
+egyesÃ¼lÃ©ssel<ujsor/>
+valÃ³ Ã¡talakulÃ¡sÃ¡t.<ujsor/>
+Az egyesÃ¼lÃ©s adatai:<ujsor/>
+ÃtalakulÃ³ (egyesÃ¼lÅ‘) tÃ¡rsasÃ¡gok fÅ‘bb adatai:<ujsor/>
+1. Neve: Olympus Hungary Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Ã¡tvevÅ‘).<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡ma: [01 09 563248].<ujsor/>
+SzÃ©khelye: 1039 Budapest, PapÃ­rgyÃ¡r u. 59.; korÃ¡bbi szÃ©khelye: 1117 Budapest, Budafoki Ãºt 60.; mÃ³dosÃ­tÃ¡s folyamatban.<ujsor/>
+2. Neve: Diatron HumÃ¡negÃ©szsÃ©gÃ¼gyi Diagnosztikai Elektronikus MÃ©rÅ‘eszkÃ¶zÃ¶ket KutatÃ³-FejlesztÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (beolvadÃ³).<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡ma: [01 09 061930].<ujsor/>
+SzÃ©khelye: 1039 Budapest, PapÃ­rgyÃ¡r u. 59.; korÃ¡bbi szÃ©khelye: 1037 Budapest, PomÃ¡zi Ãºt 15.; mÃ³dosÃ­tÃ¡s folyamatban.<ujsor/>
+LÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g formÃ¡ja: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+Neve: Olympus Hungary Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Ã¡tvevÅ‘).<ujsor/>
+SzÃ©khelye: 1039 Budapest, PapÃ­rgyÃ¡r u. 59.; korÃ¡bbi szÃ©khelye: 1117 Budapest, Budafoki Ãºt 60.; mÃ³dosÃ­tÃ¡s folyamatban.<ujsor/>
+Az Olympus Hungary alapÃ­tÃ³ okirata elfogadÃ¡sÃ¡nak napja: 2004. jÃºnius 29.<ujsor/>
+Az Ã¡talakulÃ³ Olympus Hungary Ã©s Diatron vagyonmÃ©rleg-tervezeteinek adatai:<ujsor/>
 Olympus Hungary:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 314 674 Saját tõke 141 493<ujsor/>
-Forgóeszközök 1 943 646 Jegyzett tõke 85 000<ujsor/>
-Aktív idõbeli elhatárolások 16 725  Pénzbeli hozzájárulás 85 000<ujsor/>
-Céltartalékok 12 200<ujsor/>
-Kötelezettségek 2 079 358<ujsor/>
-Passzív idõbeli elhatárolások 41 993<ujsor/>
-ÖSSZESEN: 2 275 044 ÖSSZESEN: 2 275 044<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 314 674 SajÃ¡t tÅ‘ke 141 493<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 1 943 646 Jegyzett tÅ‘ke 85 000<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 16 725  PÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s 85 000<ujsor/>
+CÃ©ltartalÃ©kok 12 200<ujsor/>
+KÃ¶telezettsÃ©gek 2 079 358<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 41 993<ujsor/>
+Ã–SSZESEN: 2 275 044 Ã–SSZESEN: 2 275 044<ujsor/>
 Diatron:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 43 989 Saját tõke 377 616<ujsor/>
-Forgóeszközök 640 989 Jegyzett tõke 5 000<ujsor/>
-Aktív idõbeli elhatárolások 28 245  Pénzbeli hozzájárulás 5 000<ujsor/>
-Céltartalékok 0<ujsor/>
-Kötelezettségek 322 766<ujsor/>
-Passzív idõbeli elhatárolások 12 841<ujsor/>
-ÖSSZESEN: 713 223 ÖSSZESEN: 713 223<ujsor/>
-A jogutód Olympus Hungary vagyonmérleg-tervezetének adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 358 663 Saját tõke 511 556<ujsor/>
-Forgóeszközök 2 584 635 Jegyzett tõke 85 000<ujsor/>
-Aktív idõbeli elhatárolások 44 970  Pénzbeli hozzájárulás 85 000<ujsor/>
-Céltartalékok 12 200<ujsor/>
-Kötelezettségek 2 409 676<ujsor/>
-Passzív idõbeli elhatárolások 54 834<ujsor/>
-ÖSSZESEN: 2 988 267 ÖSSZESEN: 2 988 267<ujsor/>
-A jogutód Olympus Hungary fõ tevékenysége: 5190 Egyéb nagykereskedelem.<ujsor/>
-A jogutód Olympus Hungary vezetõ tisztségviselõi: Végh József (a. n.: Kovács Erzsébet; 2083 Solymár, Meredek u. 5/B), Werner Teuffel (a. n.: Wernicke Wilma; Harverstehuder Weg 65/67, 20149 Hamburg), kézbesítési megbízottja: Bogsch és Társai Ügyvédi Iroda (1051 Budapest, Bajcsy-Zsilinszky út 16.) és Csiba Péter (a. n.: Maár Katalin; 2089 Telki, Anna-laki u. 29.).<ujsor/>
-Az egyesülés módja: a Diatron beolvad az átalakuló Olympus Hungary-be.<ujsor/>
-Felhívjuk az átalakuló Olympus Hungary és a Diatron hitelezõit a Gt. 66. §-ban foglalt jogaik érvényesítésére.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 43 989 SajÃ¡t tÅ‘ke 377 616<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 640 989 Jegyzett tÅ‘ke 5 000<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 28 245  PÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s 5 000<ujsor/>
+CÃ©ltartalÃ©kok 0<ujsor/>
+KÃ¶telezettsÃ©gek 322 766<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 12 841<ujsor/>
+Ã–SSZESEN: 713 223 Ã–SSZESEN: 713 223<ujsor/>
+A jogutÃ³d Olympus Hungary vagyonmÃ©rleg-tervezetÃ©nek adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 358 663 SajÃ¡t tÅ‘ke 511 556<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 2 584 635 Jegyzett tÅ‘ke 85 000<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 44 970  PÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s 85 000<ujsor/>
+CÃ©ltartalÃ©kok 12 200<ujsor/>
+KÃ¶telezettsÃ©gek 2 409 676<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 54 834<ujsor/>
+Ã–SSZESEN: 2 988 267 Ã–SSZESEN: 2 988 267<ujsor/>
+A jogutÃ³d Olympus Hungary fÅ‘ tevÃ©kenysÃ©ge: 5190 EgyÃ©b nagykereskedelem.<ujsor/>
+A jogutÃ³d Olympus Hungary vezetÅ‘ tisztsÃ©gviselÅ‘i: VÃ©gh JÃ³zsef (a. n.: KovÃ¡cs ErzsÃ©bet; 2083 SolymÃ¡r, Meredek u. 5/B), Werner Teuffel (a. n.: Wernicke Wilma; Harverstehuder Weg 65/67, 20149 Hamburg), kÃ©zbesÃ­tÃ©si megbÃ­zottja: Bogsch Ã©s TÃ¡rsai ÃœgyvÃ©di Iroda (1051 Budapest, Bajcsy-Zsilinszky Ãºt 16.) Ã©s Csiba PÃ©ter (a. n.: MaÃ¡r Katalin; 2089 Telki, Anna-laki u. 29.).<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: a Diatron beolvad az Ã¡talakulÃ³ Olympus Hungary-be.<ujsor/>
+FelhÃ­vjuk az Ã¡talakulÃ³ Olympus Hungary Ã©s a Diatron hitelezÅ‘it a Gt. 66. Â§-ban foglalt jogaik Ã©rvÃ©nyesÃ­tÃ©sÃ©re.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109563248</mezo>
-<mezo id = "nev">Olympus Hungary Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1117 Budapest, Budafoki út 60. </mezo>
+<mezo id = "nev">Olympus Hungary Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1117 Budapest, Budafoki Ãºt 60. </mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az Olympus Hungary Kereskedelmi és Szolgáltató Kft. alapítója elhatározta a társaság<ujsor/>
-egyesüléssel<ujsor/>
-való átalakulását.<ujsor/>
-Az egyesülés adatai:<ujsor/>
-Átalakuló (egyesülõ) társaságok fõbb adatai:<ujsor/>
-1. Neve: Olympus Hungary Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság (átvevõ).<ujsor/>
-Cégjegyzékszáma: [01 09 563248].<ujsor/>
-Székhelye: 1039 Budapest, Papírgyár u. 59.; korábbi székhelye: 1117 Budapest, Budafoki út 60.; módosítás folyamatban.<ujsor/>
-2. Neve: Diatron Humánegészségügyi Diagnosztikai Elektronikus Mérõeszközöket Kutató-Fejlesztõ Korlátolt Felelõsségû Társaság (beolvadó).<ujsor/>
-Cégjegyzékszáma: [01 09 061930].<ujsor/>
-Székhelye: 1039 Budapest, Papírgyár u. 59.; korábbi székhelye: 1037 Budapest, Pomázi út 15.; módosítás folyamatban.<ujsor/>
-Létrejövõ társaság formája: korlátolt felelõsségû társaság.<ujsor/>
-Neve: Olympus Hungary Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhelye: 1039 Budapest, Papírgyár u. 59.; korábbi székhelye: 1117 Budapest, Budafoki út 60.; módosítás folyamatban.<ujsor/>
-Az Olympus Hungary alapító okirata elfogadásának napja: 2004. június 29.<ujsor/>
-Az átalakuló Olympus Hungary és Diatron vagyonmérleg-tervezeteinek adatai:<ujsor/>
+<mezo id = "szoveg">Az Olympus Hungary Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ Kft. alapÃ­tÃ³ja elhatÃ¡rozta a tÃ¡rsasÃ¡g<ujsor/>
+egyesÃ¼lÃ©ssel<ujsor/>
+valÃ³ Ã¡talakulÃ¡sÃ¡t.<ujsor/>
+Az egyesÃ¼lÃ©s adatai:<ujsor/>
+ÃtalakulÃ³ (egyesÃ¼lÅ‘) tÃ¡rsasÃ¡gok fÅ‘bb adatai:<ujsor/>
+1. Neve: Olympus Hungary Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Ã¡tvevÅ‘).<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡ma: [01 09 563248].<ujsor/>
+SzÃ©khelye: 1039 Budapest, PapÃ­rgyÃ¡r u. 59.; korÃ¡bbi szÃ©khelye: 1117 Budapest, Budafoki Ãºt 60.; mÃ³dosÃ­tÃ¡s folyamatban.<ujsor/>
+2. Neve: Diatron HumÃ¡negÃ©szsÃ©gÃ¼gyi Diagnosztikai Elektronikus MÃ©rÅ‘eszkÃ¶zÃ¶ket KutatÃ³-FejlesztÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (beolvadÃ³).<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡ma: [01 09 061930].<ujsor/>
+SzÃ©khelye: 1039 Budapest, PapÃ­rgyÃ¡r u. 59.; korÃ¡bbi szÃ©khelye: 1037 Budapest, PomÃ¡zi Ãºt 15.; mÃ³dosÃ­tÃ¡s folyamatban.<ujsor/>
+LÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g formÃ¡ja: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+Neve: Olympus Hungary Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 1039 Budapest, PapÃ­rgyÃ¡r u. 59.; korÃ¡bbi szÃ©khelye: 1117 Budapest, Budafoki Ãºt 60.; mÃ³dosÃ­tÃ¡s folyamatban.<ujsor/>
+Az Olympus Hungary alapÃ­tÃ³ okirata elfogadÃ¡sÃ¡nak napja: 2004. jÃºnius 29.<ujsor/>
+Az Ã¡talakulÃ³ Olympus Hungary Ã©s Diatron vagyonmÃ©rleg-tervezeteinek adatai:<ujsor/>
 Olympus Hungary:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 314 674 Saját tõke 141 493<ujsor/>
-Forgóeszközök 1 943 646 Jegyzett tõke 85 000<ujsor/>
-Aktív idõbeli elhatárolások 16 725  Pénzbeli hozzájárulás 85 000<ujsor/>
-Céltartalékok 12 200<ujsor/>
-Kötelezettségek 2 079 358<ujsor/>
-Passzív idõbeli elhatárolások 41 993<ujsor/>
-ÖSSZESEN: 2 275 044 ÖSSZESEN: 2 275 044<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 314 674 SajÃ¡t tÅ‘ke 141 493<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 1 943 646 Jegyzett tÅ‘ke 85 000<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 16 725  PÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s 85 000<ujsor/>
+CÃ©ltartalÃ©kok 12 200<ujsor/>
+KÃ¶telezettsÃ©gek 2 079 358<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 41 993<ujsor/>
+Ã–SSZESEN: 2 275 044 Ã–SSZESEN: 2 275 044<ujsor/>
 Diatron:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 43 989 Saját tõke 377 616<ujsor/>
-Forgóeszközök 640 989 Jegyzett tõke 5 000<ujsor/>
-Aktív idõbeli elhatárolások 28 245  Pénzbeli hozzájárulás 5 000<ujsor/>
-Céltartalékok 0<ujsor/>
-Kötelezettségek 322 766<ujsor/>
-Passzív idõbeli elhatárolások 12 841<ujsor/>
-ÖSSZESEN: 713 223 ÖSSZESEN: 713 223<ujsor/>
-A jogutód Olympus Hungary vagyonmérleg-tervezetének adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 358 663 Saját tõke 511 556<ujsor/>
-Forgóeszközök 2 584 635 Jegyzett tõke 85 000<ujsor/>
-Aktív idõbeli elhatárolások 44 970  Pénzbeli hozzájárulás 85 000<ujsor/>
-Céltartalékok 12 200<ujsor/>
-Kötelezettségek 2 409 676<ujsor/>
-Passzív idõbeli elhatárolások 54 834<ujsor/>
-ÖSSZESEN: 2 988 267 ÖSSZESEN: 2 988 267<ujsor/>
-A jogutód Olympus Hungary fõ tevékenysége: 5190 Egyéb nagykereskedelem.<ujsor/>
-A jogutód Olympus Hungary vezetõ tisztségviselõi: Végh József (a. n.: Kovács Erzsébet; 2083 Solymár, Meredek u. 5/B), Werner Teuffel (a. n.: Wernicke Wilma; Harvestehuder Weg 65/67, 20149 Hamburg), kézbesítési megbízottja: Bogsch és Társai Ügyvédi Iroda (1051 Budapest, Bajcsy-Zsilinszky út 16.) és Csiba Péter (a. n.: Maár Katalin; 2089 Telki, Anna-laki u. 29.).<ujsor/>
-Az egyesülés módja: a Diatron beolvad az átalakuló Olympus Hungary-be.<ujsor/>
-Felhívjuk az átalakuló Olympus Hungary és a Diatron hitelezõit a Gt. 66. §-ban foglalt jogaik érvényesítésére.<ujsor/>
-(Második közzététel.)<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 43 989 SajÃ¡t tÅ‘ke 377 616<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 640 989 Jegyzett tÅ‘ke 5 000<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 28 245  PÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s 5 000<ujsor/>
+CÃ©ltartalÃ©kok 0<ujsor/>
+KÃ¶telezettsÃ©gek 322 766<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 12 841<ujsor/>
+Ã–SSZESEN: 713 223 Ã–SSZESEN: 713 223<ujsor/>
+A jogutÃ³d Olympus Hungary vagyonmÃ©rleg-tervezetÃ©nek adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 358 663 SajÃ¡t tÅ‘ke 511 556<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 2 584 635 Jegyzett tÅ‘ke 85 000<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 44 970  PÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s 85 000<ujsor/>
+CÃ©ltartalÃ©kok 12 200<ujsor/>
+KÃ¶telezettsÃ©gek 2 409 676<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 54 834<ujsor/>
+Ã–SSZESEN: 2 988 267 Ã–SSZESEN: 2 988 267<ujsor/>
+A jogutÃ³d Olympus Hungary fÅ‘ tevÃ©kenysÃ©ge: 5190 EgyÃ©b nagykereskedelem.<ujsor/>
+A jogutÃ³d Olympus Hungary vezetÅ‘ tisztsÃ©gviselÅ‘i: VÃ©gh JÃ³zsef (a. n.: KovÃ¡cs ErzsÃ©bet; 2083 SolymÃ¡r, Meredek u. 5/B), Werner Teuffel (a. n.: Wernicke Wilma; Harvestehuder Weg 65/67, 20149 Hamburg), kÃ©zbesÃ­tÃ©si megbÃ­zottja: Bogsch Ã©s TÃ¡rsai ÃœgyvÃ©di Iroda (1051 Budapest, Bajcsy-Zsilinszky Ãºt 16.) Ã©s Csiba PÃ©ter (a. n.: MaÃ¡r Katalin; 2089 Telki, Anna-laki u. 29.).<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: a Diatron beolvad az Ã¡talakulÃ³ Olympus Hungary-be.<ujsor/>
+FelhÃ­vjuk az Ã¡talakulÃ³ Olympus Hungary Ã©s a Diatron hitelezÅ‘it a Gt. 66. Â§-ban foglalt jogaik Ã©rvÃ©nyesÃ­tÃ©sÃ©re.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109563248</mezo>
-<mezo id = "nev">Olympus Hungary Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1117 Budapest, Budafoki út 60. </mezo>
+<mezo id = "nev">Olympus Hungary Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1117 Budapest, Budafoki Ãºt 60. </mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2008. 04. 07-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (tisztségviselõ).<ujsor/>
- Végh József (an: Kovács Erzsébet)<ujsor/>
-2083 Solymár, Meredek u. 5.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2008. 04. 07-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (tisztsÃ©gviselÅ‘).<ujsor/>
+ VÃ©gh JÃ³zsef (an: KovÃ¡cs ErzsÃ©bet)<ujsor/>
+2083 SolymÃ¡r, Meredek u. 5.<ujsor/>
  A jogviszony kezdete: 2004. 05. 28.<ujsor/>
- A jogviszony vége: 2009. 05. 28.<ujsor/>
- A változás idõpontja (törlés): 2008. 03. 28.<ujsor/>
- Törölve: 2008. 03. 28.<ujsor/>
- A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (tisztségviselõ).<ujsor/>
+ A jogviszony vÃ©ge: 2009. 05. 28.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2008. 03. 28.<ujsor/>
+ TÃ¶rÃ¶lve: 2008. 03. 28.<ujsor/>
+ A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (tisztsÃ©gviselÅ‘).<ujsor/>
  Stefan Kaufmann (an: Ingeborg Germann)<ujsor/>
-Külföldi cím: DE 21475 Wentorf , Haberlands Grund 11.<ujsor/>
- Kézbesítési megbízott szervezet: Bogsch és Társai Ügyvédi Iroda<ujsor/>
-1051 Budapest, Bajcsy-Zs . út 16.<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: DE 21475 Wentorf , Haberlands Grund 11.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott szervezet: Bogsch Ã©s TÃ¡rsai ÃœgyvÃ©di Iroda<ujsor/>
+1051 Budapest, Bajcsy-Zs . Ãºt 16.<ujsor/>
  A jogviszony kezdete: 2006. 01. 13.<ujsor/>
- A jogviszony vége: 2010. 12. 01.<ujsor/>
- A változás idõpontja (törlés): 2008. 04. 01.<ujsor/>
- Törölve: 2008. 04. 01.<ujsor/>
- A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (ügyvezetõ).<ujsor/>
- Végh József (an: Kovács Erzsébet)<ujsor/>
-2083 Solymár, Toldy u. 32/ A .<ujsor/>
+ A jogviszony vÃ©ge: 2010. 12. 01.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2008. 04. 01.<ujsor/>
+ TÃ¶rÃ¶lve: 2008. 04. 01.<ujsor/>
+ A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘).<ujsor/>
+ VÃ©gh JÃ³zsef (an: KovÃ¡cs ErzsÃ©bet)<ujsor/>
+2083 SolymÃ¡r, Toldy u. 32/ A .<ujsor/>
  A jogviszony kezdete: 2004. 05. 28.<ujsor/>
- A jogviszony vége: 2009. 05. 28.<ujsor/>
- A változás idõpontja: 2008. 03. 28.<ujsor/>
- A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (ügyvezetõ).<ujsor/>
+ A jogviszony vÃ©ge: 2009. 05. 28.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 03. 28.<ujsor/>
+ A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘).<ujsor/>
  Matthias Horst Jakob (an: Ingrid Gruner)<ujsor/>
-Külföldi cím: DE 21465 Wentorf , OstlandstraBe 18.<ujsor/>
- Kézbesítési megbízott szervezet: Bogsch és Társai Ügyvédi Iroda<ujsor/>
-1126 Budapest, Királyhágó tér 8-9.<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: DE 21465 Wentorf , OstlandstraBe 18.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott szervezet: Bogsch Ã©s TÃ¡rsai ÃœgyvÃ©di Iroda<ujsor/>
+1126 Budapest, KirÃ¡lyhÃ¡gÃ³ tÃ©r 8-9.<ujsor/>
  A jogviszony kezdete: 2008. 04. 01.<ujsor/>
- A jogviszony vége: 2010. 12. 01.<ujsor/>
- A változás idõpontja: 2008. 03. 28.<ujsor/>
+ A jogviszony vÃ©ge: 2010. 12. 01.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 03. 28.<ujsor/>
  Bejegyezve: 2008. 03. 28.<ujsor/>
-53. A cég üzleti évének mérlegfordulónapja: 03. 31.<ujsor/>
- A változás idõpontja: 2008. 03. 28.<ujsor/>
+53. A cÃ©g Ã¼zleti Ã©vÃ©nek mÃ©rlegfordulÃ³napja: 03. 31.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 03. 28.<ujsor/>
  Bejegyezve: 2008. 03. 28.<ujsor/>
-1(09). A társaság irányítását biztosító befolyásolás fajtája: közvetlen irányítást biztosító befolyás.<ujsor/>
- Kézbesítési megbízott szervezet: Bogsch és Társai Ügyvédi Iroda<ujsor/>
-1051 Budapest, Bajcsy-Zsilinszky út 16.<ujsor/>
+1(09). A tÃ¡rsasÃ¡g irÃ¡nyÃ­tÃ¡sÃ¡t biztosÃ­tÃ³ befolyÃ¡solÃ¡s fajtÃ¡ja: kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡s.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott szervezet: Bogsch Ã©s TÃ¡rsai ÃœgyvÃ©di Iroda<ujsor/>
+1051 Budapest, Bajcsy-Zsilinszky Ãºt 16.<ujsor/>
  OLYMPUS EUROPA GMBH<ujsor/>
 DE 20097 Hamburg, Wendenstrasse 14-16.<ujsor/>
- A változás idõpontja (törlés): 2008. 03. 28.<ujsor/>
- Törölve: 2008. 03. 28.<ujsor/>
- Kézbesítési megbízott szervezet: Bogsch és Társai Ügyvédi Iroda<ujsor/>
-1126 Budapest, Királyhágó tér 8-9.<ujsor/>
- Külföldi cég, szervezet nyilvántartási száma: HRB 10554<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2008. 03. 28.<ujsor/>
+ TÃ¶rÃ¶lve: 2008. 03. 28.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott szervezet: Bogsch Ã©s TÃ¡rsai ÃœgyvÃ©di Iroda<ujsor/>
+1126 Budapest, KirÃ¡lyhÃ¡gÃ³ tÃ©r 8-9.<ujsor/>
+ KÃ¼lfÃ¶ldi cÃ©g, szervezet nyilvÃ¡ntartÃ¡si szÃ¡ma: HRB 10554<ujsor/>
 OLYMPUS EUROPA HOLDING GMBH<ujsor/>
 DE 20097 Hamburg, WendenstraBe 14-16.<ujsor/>
- A tagság kezdete: 2008. 03. 28.<ujsor/>
- A változás idõpontja: 2008. 03. 28.<ujsor/>
+ A tagsÃ¡g kezdete: 2008. 03. 28.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 03. 28.<ujsor/>
  Bejegyezve: 2008. 03. 28.<ujsor/>
 2008. 05. 15.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109563248</mezo>
-<mezo id = "nev">Olympus Hungary Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1038 Budapest, Papírgyár u. 58-59.</mezo>
+<mezo id = "nev">Olympus Hungary Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1038 Budapest, PapÃ­rgyÃ¡r u. 58-59.</mezo>
 <mezo id = "adosz">12185496241</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az Olympus Hungary Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság (Cg.: [01 09 563248]; székhelye: 1038 Budapest, Papírgyár u. 58­59.) elhatározta szétválás útján történõ átalakulását.<ujsor/>
-A szétválás módja: kiválás.<ujsor/>
-A fennmaradó gazdasági társaság fõbb adatai:<ujsor/>
-Formája: korlátolt felelõsségû társaság.<ujsor/>
-Cégneve: Olympus Hungary Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság.<ujsor/>
-Cégjegyzékszáma: [01 09 563248].<ujsor/>
-Székhelye: 1038 Budapest, Papírgyár u. 58­59.<ujsor/>
-A kiválással létrejövõ gazdasági társaság fõbb adatai:<ujsor/>
-Formája: korlátolt felelõsségû társaság.<ujsor/>
-Cégneve: Olympus Diagnosztikai Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhelye: 1038 Budapest, Papírgyár u. 58­59.<ujsor/>
-A társasági szerzõdés megkötésének napja: 2009. szeptember 29.<ujsor/>
-Az átalakulás napja: 2009. november 30.<ujsor/>
-Az átalakuló és a kiválással létrejövõ gazdasági társaságok vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
+<mezo id = "szoveg">Az Olympus Hungary Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [01 09 563248]; szÃ©khelye: 1038 Budapest, PapÃ­rgyÃ¡r u. 58Â­59.) elhatÃ¡rozta szÃ©tvÃ¡lÃ¡s ÃºtjÃ¡n tÃ¶rtÃ©nÅ‘ Ã¡talakulÃ¡sÃ¡t.<ujsor/>
+A szÃ©tvÃ¡lÃ¡s mÃ³dja: kivÃ¡lÃ¡s.<ujsor/>
+A fennmaradÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘bb adatai:<ujsor/>
+FormÃ¡ja: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gneve: Olympus Hungary Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡ma: [01 09 563248].<ujsor/>
+SzÃ©khelye: 1038 Budapest, PapÃ­rgyÃ¡r u. 58Â­59.<ujsor/>
+A kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘bb adatai:<ujsor/>
+FormÃ¡ja: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gneve: Olympus Diagnosztikai KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 1038 Budapest, PapÃ­rgyÃ¡r u. 58Â­59.<ujsor/>
+A tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s megkÃ¶tÃ©sÃ©nek napja: 2009. szeptember 29.<ujsor/>
+Az Ã¡talakulÃ¡s napja: 2009. november 30.<ujsor/>
+Az Ã¡talakulÃ³ Ã©s a kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡gok vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK (aktívák) Szétváló Kiváló Változatlan formában<ujsor/>
-gazdasági társaság gazdasági társaság fennmaradó társaság<ujsor/>
-(záró) (nyitó) (nyitó)<ujsor/>
-A) Befektetett eszközök 302 737 269 379 33 358<ujsor/>
-I. Immateriális javak 3 643 1 586 2 057<ujsor/>
-II. Tárgyi eszközök 299 094 267 793 31 301<ujsor/>
-III. Befektetett pénzügyi eszközök 0 0 0<ujsor/>
-B) Forgóeszközök 1 824 729 594 559 1 230 170<ujsor/>
-I. Készletek 286 756 164 924 121 832<ujsor/>
-II. Követelések 1 350 726 429 135 921 591<ujsor/>
-III. Értékpapírok 0<ujsor/>
-IV. Pénzeszközök 187 247 500 186 747<ujsor/>
-C) Aktív idõbeli elhatárolások 32 525 32 231 294<ujsor/>
-ÖSSZESEN: 2 159 991 896 169 1 263 822<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) SzÃ©tvÃ¡lÃ³ KivÃ¡lÃ³ VÃ¡ltozatlan formÃ¡ban<ujsor/>
+gazdasÃ¡gi tÃ¡rsasÃ¡g gazdasÃ¡gi tÃ¡rsasÃ¡g fennmaradÃ³ tÃ¡rsasÃ¡g<ujsor/>
+(zÃ¡rÃ³) (nyitÃ³) (nyitÃ³)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 302 737 269 379 33 358<ujsor/>
+I. ImmateriÃ¡lis javak 3 643 1 586 2 057<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 299 094 267 793 31 301<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 0 0<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 1 824 729 594 559 1 230 170<ujsor/>
+I. KÃ©szletek 286 756 164 924 121 832<ujsor/>
+II. KÃ¶vetelÃ©sek 1 350 726 429 135 921 591<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 187 247 500 186 747<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 32 525 32 231 294<ujsor/>
+Ã–SSZESEN: 2 159 991 896 169 1 263 822<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK (passzívák) Szétváló Kiváló Változatlan formában<ujsor/>
-gazdasági társaság gazdasági társaság fennmaradó társaság<ujsor/>
-(záró) (nyitó) (nyitó)<ujsor/>
-D) Saját tõke 999 065 670 229 328 836<ujsor/>
-I. Jegyzett tõke 85 000 500 84 500<ujsor/>
-II. Jegyzett, de még be nem fizetett tõke 0<ujsor/>
-III. Tõketartalék 7 120 7 120<ujsor/>
-IV. Eredménytartalék 906 945 669 729 237 216<ujsor/>
-V. Lekötött tartalék 0<ujsor/>
-VI. Értékelési tartalék 0<ujsor/>
-VII. Mérleg szerinti eredmény 0<ujsor/>
-E) Céltartalékok 87 312 9 116 78 196<ujsor/>
-F) Kötelezettségek 967 189 196 182 771 007<ujsor/>
-I. Hátra sorolt kötelezettségek 0 0 0<ujsor/>
-II. Hosszú lejáratú kötelezettségek 18 555 17 815 740<ujsor/>
-III. Rövid lejáratú kötelezettségek 948 634 178 367 770 267<ujsor/>
-G) Passzív idõbeli elhatárolások 106 425 20 642 85 783<ujsor/>
-ÖSSZESEN: 2 159 991 896 169 1 263 822<ujsor/>
-Az átalakuló (fennmaradó) gazdasági társaság (Olympus Hungary Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság) fõ tevékenysége (TEÁOR ’08): 4690 Vegyestermékkörû nagykereskedelem.<ujsor/>
-A kiválással létrejövõ gazdasági társaság (Olympus Diagnosztikai Korlátolt Felelõsségû Társaság) fõ tevékenysége (TEÁOR ’08): 4690 Vegyestermékkörû nagykereskedelem.<ujsor/>
-Az átalakuló (fennmaradó) gazdasági társaság (Olympus Hungary Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság) ügyvezetõi: Matthias Horst Jakob (a. n.: Ingrid Gruner; D-21465 Wentorf, Ostlandstraße 18, Németország) és dr. Petr Hanzlik (a. n.: Alena Èeledová; Na Spitálce 2691/2, 6 Prága 160 00, Cseh Köztársaság). Az átalakuló (fennmaradó) gazdasági társaság (Olympus Hungary Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság) cégvezetõje: Dávid Scherhaufer (a. n.: Jana Valásková; 91101 Trenèín-Kubrá, Opatovská 651/33).<ujsor/>
-A kiválással létrejövõ gazdasági társaság (Olympus Diagnosztikai Korlátolt Felelõsségû Társaság) ügyvezetõi: Matthias Horst Jakob (a. n.: Ingrid Gruner; D-21465 Wentorf, Ostlandstraße 18, Németország) és Gerei Zoltán Balázs (a. n.: Schreiner Zsuzsanna; 1016 Budapest, Aladár u. 4/A). Cégvezetõje: Szlobodnyik Gábor Tibor (a. n.: Jakus Teréz; 2120 Dunakeszi, Madách u. 23/A).<ujsor/>
-A szétváló gazdasági társaságot megilletõ jogok és terhelõ kötelezettségek megosztására vonatkozó megállapodás legfontosabb rendelkezései, a megoszlás százalékos aránya:<ujsor/>
-A szétválás (kiválás) eredményeként minden, a Labordiagnosztikai Üzletág részét képezõ vagyontárgy átkerül a kiválással létrejövõ gazdasági társasághoz (Olympus Diagnosztikai Korlátolt Felelõsségû Társaság), és a kiválással létrejövõ gazdasági társaság (Olympus Diagnosztikai Korlátolt Felelõsségû Társaság) vagyonát képezi. A kiválással létrejövõ gazdasági társaság (Olympus Diagnosztikai Korlátolt Felelõsségû Társaság) a tulajdonába kerülõ vagyontárgyak költségeit az átalakulás (kiválás) napjától viseli az ezen vagyontárgyakat érintõ kárveszéllyel együtt, illetõleg szedi az érintett vagyontárgyak hasznait. A vagyonleltárban fel nem sorolt, de az átalakulás (kiválás) napját megelõzõen az átalakuló (fennmaradó) gazdasági társaság (Olympus Hungary Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság) által a Labordiagnosztikai Üzletág részeként megszerzett vagyontárgyak a kiválás eredményeként a kiválással létrejövõ gazdasági társaság (Olympus Diagnosztikai Korlátolt Felelõsségû Társaság) vagyonába tartoznak. kiválással létrejövõ gazdasági társaságot (Olympus Diagnosztikai Korlátolt Felelõsségû Társaság) illeti, illetve terheli valamennyi a Labordiagnosztikai Üzletághoz tartozó jog és kötelezettség, így különösen a Labordiagnosztikai Üzletághoz tartozó szerzõdésekbõl eredõ valamennyi jog gyakorlása és kötelezettség teljesítése, továbbá a Labordiagnosztikai Üzletággal kapcsolatos, illetve annak részeként fennálló valamennyi szerzõdéses, használati jog (hasznosítási jog),bérleti jog stb. gyakorlása és az ezekhez kapcsolódó kötelezettségek teljesítése, függetlenül attól, hogy ezek a kiválás elhatározását megelõzõen vagy azt követõen keletkeztek-e. A Labordiagnosztikai Üzletág részét képezik különösen a labordiagnosztikai célú közbeszerzési pályázatokon elnyert futó vagy jövõben induló szerzõdések; így ezen szerzõdések teljesítésének kötelezettsége és az ezekbõl eredõ hasznok szedése a kiválás eredményeként a kiválással létrejövõ gazdasági társaságot (Olympus Diagnosztikai Korlátolt Felelõsségû Társaság) illeti. A kiválással létrejövõ gazdasági társaságot (Olympus Diagnosztikai Korlátolt Felelõsségû Társaság) illeti a labordiagnosztikai célú közbeszerzési vagy egyéb pályázatokon elnyert, korábbi közbeszerzési vagy egyéb labordiagnosztikai tárgyú szerzõdések jövõbeli közbeszerzési és üzleti referenciaként való felhasználásának kizárólagos joga is. Az átalakulás (kiválás) napját követõen az átalakuló (fennmaradó) gazdasági társaságot (Olympus Hungary Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság) illeti, illetve terheli az egyéb, a Labordiagnosztikai Üzletághoz nem kapcsolható valamennyi kötelezettség teljesítése, így különösen a Labordiagnosztikai Üzletág részét nem képezõ szerzõdésekbõl eredõ valamennyi jog gyakorlása és kötelezettség teljesítése, beleértve a Labordiagnosztikai Üzletággal nem kapcsolatos, illetve annak részét nem képezõ valamennyi szerzõdéses, használati jog (hasznosítási jog),bérleti jog stb. gyakorlását és az ezekhez kapsolódó kötelezettségek teljesítését.<ujsor/>
-A megoszlás százalékos aránya:<ujsor/>
-Az átalakuló (fennmaradó) gazdasági társaság (Olympus Hungary Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság): 32,91%, a kiválással létrejövõ gazdasági társaság (Olympus Diagnosztikai Korlátolt Felelõsségû Társaság): 67,09%.<ujsor/>
-Azok a hitelezõk, akiknek az átalakuló gazdasági társasággal szemben fennálló, le nem járt követelései az átalakulással hozott döntés elsõ közzétételét megelõzõen keletkeztek, követeléseik erejéig az átalakuló gazdasági társaságtól a döntés második közzétételét követõ harmincnapos jogvesztõ határidõn belül biztosítékot követelhetnek.<ujsor/>
-A hitelezõk a hitelezõknek szóló felhívásban foglalt határidõ alatt az Olympus Hungary Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság székhelyén (1038 Budapest, Papírgyár u. 58­59.) kaphatnak tájékoztatást a követelésüket érintõ vagyonmegosztási rendelkezésekrõl.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+FORRÃSOK (passzÃ­vÃ¡k) SzÃ©tvÃ¡lÃ³ KivÃ¡lÃ³ VÃ¡ltozatlan formÃ¡ban<ujsor/>
+gazdasÃ¡gi tÃ¡rsasÃ¡g gazdasÃ¡gi tÃ¡rsasÃ¡g fennmaradÃ³ tÃ¡rsasÃ¡g<ujsor/>
+(zÃ¡rÃ³) (nyitÃ³) (nyitÃ³)<ujsor/>
+D) SajÃ¡t tÅ‘ke 999 065 670 229 328 836<ujsor/>
+I. Jegyzett tÅ‘ke 85 000 500 84 500<ujsor/>
+II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke 0<ujsor/>
+III. TÅ‘ketartalÃ©k 7 120 7 120<ujsor/>
+IV. EredmÃ©nytartalÃ©k 906 945 669 729 237 216<ujsor/>
+V. LekÃ¶tÃ¶tt tartalÃ©k 0<ujsor/>
+VI. Ã‰rtÃ©kelÃ©si tartalÃ©k 0<ujsor/>
+VII. MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+E) CÃ©ltartalÃ©kok 87 312 9 116 78 196<ujsor/>
+F) KÃ¶telezettsÃ©gek 967 189 196 182 771 007<ujsor/>
+I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0 0 0<ujsor/>
+II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 18 555 17 815 740<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 948 634 178 367 770 267<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 106 425 20 642 85 783<ujsor/>
+Ã–SSZESEN: 2 159 991 896 169 1 263 822<ujsor/>
+Az Ã¡talakulÃ³ (fennmaradÃ³) gazdasÃ¡gi tÃ¡rsasÃ¡g (Olympus Hungary Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g) fÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™08): 4690 VegyestermÃ©kkÃ¶rÅ± nagykereskedelem.<ujsor/>
+A kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g (Olympus Diagnosztikai KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g) fÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™08): 4690 VegyestermÃ©kkÃ¶rÅ± nagykereskedelem.<ujsor/>
+Az Ã¡talakulÃ³ (fennmaradÃ³) gazdasÃ¡gi tÃ¡rsasÃ¡g (Olympus Hungary Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g) Ã¼gyvezetÅ‘i: Matthias Horst Jakob (a. n.: Ingrid Gruner; D-21465 Wentorf, OstlandstraÃŸe 18, NÃ©metorszÃ¡g) Ã©s dr. Petr Hanzlik (a. n.: Alena ÄŒeledovÃ¡; Na SpitÃ¡lce 2691/2, 6 PrÃ¡ga 160 00, Cseh KÃ¶ztÃ¡rsasÃ¡g). Az Ã¡talakulÃ³ (fennmaradÃ³) gazdasÃ¡gi tÃ¡rsasÃ¡g (Olympus Hungary Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g) cÃ©gvezetÅ‘je: DÃ¡vid Scherhaufer (a. n.: Jana ValÃ¡skovÃ¡; 91101 TrenÄÃ­n-KubrÃ¡, OpatovskÃ¡ 651/33).<ujsor/>
+A kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g (Olympus Diagnosztikai KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g) Ã¼gyvezetÅ‘i: Matthias Horst Jakob (a. n.: Ingrid Gruner; D-21465 Wentorf, OstlandstraÃŸe 18, NÃ©metorszÃ¡g) Ã©s Gerei ZoltÃ¡n BalÃ¡zs (a. n.: Schreiner Zsuzsanna; 1016 Budapest, AladÃ¡r u. 4/A). CÃ©gvezetÅ‘je: Szlobodnyik GÃ¡bor Tibor (a. n.: Jakus TerÃ©z; 2120 Dunakeszi, MadÃ¡ch u. 23/A).<ujsor/>
+A szÃ©tvÃ¡lÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡got megilletÅ‘ jogok Ã©s terhelÅ‘ kÃ¶telezettsÃ©gek megosztÃ¡sÃ¡ra vonatkozÃ³ megÃ¡llapodÃ¡s legfontosabb rendelkezÃ©sei, a megoszlÃ¡s szÃ¡zalÃ©kos arÃ¡nya:<ujsor/>
+A szÃ©tvÃ¡lÃ¡s (kivÃ¡lÃ¡s) eredmÃ©nyekÃ©nt minden, a Labordiagnosztikai ÃœzletÃ¡g rÃ©szÃ©t kÃ©pezÅ‘ vagyontÃ¡rgy Ã¡tkerÃ¼l a kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡ghoz (Olympus Diagnosztikai KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g), Ã©s a kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g (Olympus Diagnosztikai KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g) vagyonÃ¡t kÃ©pezi. A kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g (Olympus Diagnosztikai KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g) a tulajdonÃ¡ba kerÃ¼lÅ‘ vagyontÃ¡rgyak kÃ¶ltsÃ©geit az Ã¡talakulÃ¡s (kivÃ¡lÃ¡s) napjÃ¡tÃ³l viseli az ezen vagyontÃ¡rgyakat Ã©rintÅ‘ kÃ¡rveszÃ©llyel egyÃ¼tt, illetÅ‘leg szedi az Ã©rintett vagyontÃ¡rgyak hasznait. A vagyonleltÃ¡rban fel nem sorolt, de az Ã¡talakulÃ¡s (kivÃ¡lÃ¡s) napjÃ¡t megelÅ‘zÅ‘en az Ã¡talakulÃ³ (fennmaradÃ³) gazdasÃ¡gi tÃ¡rsasÃ¡g (Olympus Hungary Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g) Ã¡ltal a Labordiagnosztikai ÃœzletÃ¡g rÃ©szekÃ©nt megszerzett vagyontÃ¡rgyak a kivÃ¡lÃ¡s eredmÃ©nyekÃ©nt a kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g (Olympus Diagnosztikai KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g) vagyonÃ¡ba tartoznak. kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡got (Olympus Diagnosztikai KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g) illeti, illetve terheli valamennyi a Labordiagnosztikai ÃœzletÃ¡ghoz tartozÃ³ jog Ã©s kÃ¶telezettsÃ©g, Ã­gy kÃ¼lÃ¶nÃ¶sen a Labordiagnosztikai ÃœzletÃ¡ghoz tartozÃ³ szerzÅ‘dÃ©sekbÅ‘l eredÅ‘ valamennyi jog gyakorlÃ¡sa Ã©s kÃ¶telezettsÃ©g teljesÃ­tÃ©se, tovÃ¡bbÃ¡ a Labordiagnosztikai ÃœzletÃ¡ggal kapcsolatos, illetve annak rÃ©szekÃ©nt fennÃ¡llÃ³ valamennyi szerzÅ‘dÃ©ses, hasznÃ¡lati jog (hasznosÃ­tÃ¡si jog),bÃ©rleti jog stb. gyakorlÃ¡sa Ã©s az ezekhez kapcsolÃ³dÃ³ kÃ¶telezettsÃ©gek teljesÃ­tÃ©se, fÃ¼ggetlenÃ¼l attÃ³l, hogy ezek a kivÃ¡lÃ¡s elhatÃ¡rozÃ¡sÃ¡t megelÅ‘zÅ‘en vagy azt kÃ¶vetÅ‘en keletkeztek-e. A Labordiagnosztikai ÃœzletÃ¡g rÃ©szÃ©t kÃ©pezik kÃ¼lÃ¶nÃ¶sen a labordiagnosztikai cÃ©lÃº kÃ¶zbeszerzÃ©si pÃ¡lyÃ¡zatokon elnyert futÃ³ vagy jÃ¶vÅ‘ben indulÃ³ szerzÅ‘dÃ©sek; Ã­gy ezen szerzÅ‘dÃ©sek teljesÃ­tÃ©sÃ©nek kÃ¶telezettsÃ©ge Ã©s az ezekbÅ‘l eredÅ‘ hasznok szedÃ©se a kivÃ¡lÃ¡s eredmÃ©nyekÃ©nt a kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡got (Olympus Diagnosztikai KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g) illeti. A kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡got (Olympus Diagnosztikai KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g) illeti a labordiagnosztikai cÃ©lÃº kÃ¶zbeszerzÃ©si vagy egyÃ©b pÃ¡lyÃ¡zatokon elnyert, korÃ¡bbi kÃ¶zbeszerzÃ©si vagy egyÃ©b labordiagnosztikai tÃ¡rgyÃº szerzÅ‘dÃ©sek jÃ¶vÅ‘beli kÃ¶zbeszerzÃ©si Ã©s Ã¼zleti referenciakÃ©nt valÃ³ felhasznÃ¡lÃ¡sÃ¡nak kizÃ¡rÃ³lagos joga is. Az Ã¡talakulÃ¡s (kivÃ¡lÃ¡s) napjÃ¡t kÃ¶vetÅ‘en az Ã¡talakulÃ³ (fennmaradÃ³) gazdasÃ¡gi tÃ¡rsasÃ¡got (Olympus Hungary Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g) illeti, illetve terheli az egyÃ©b, a Labordiagnosztikai ÃœzletÃ¡ghoz nem kapcsolhatÃ³ valamennyi kÃ¶telezettsÃ©g teljesÃ­tÃ©se, Ã­gy kÃ¼lÃ¶nÃ¶sen a Labordiagnosztikai ÃœzletÃ¡g rÃ©szÃ©t nem kÃ©pezÅ‘ szerzÅ‘dÃ©sekbÅ‘l eredÅ‘ valamennyi jog gyakorlÃ¡sa Ã©s kÃ¶telezettsÃ©g teljesÃ­tÃ©se, beleÃ©rtve a Labordiagnosztikai ÃœzletÃ¡ggal nem kapcsolatos, illetve annak rÃ©szÃ©t nem kÃ©pezÅ‘ valamennyi szerzÅ‘dÃ©ses, hasznÃ¡lati jog (hasznosÃ­tÃ¡si jog),bÃ©rleti jog stb. gyakorlÃ¡sÃ¡t Ã©s az ezekhez kapsolÃ³dÃ³ kÃ¶telezettsÃ©gek teljesÃ­tÃ©sÃ©t.<ujsor/>
+A megoszlÃ¡s szÃ¡zalÃ©kos arÃ¡nya:<ujsor/>
+Az Ã¡talakulÃ³ (fennmaradÃ³) gazdasÃ¡gi tÃ¡rsasÃ¡g (Olympus Hungary Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g): 32,91%, a kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g (Olympus Diagnosztikai KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g): 67,09%.<ujsor/>
+Azok a hitelezÅ‘k, akiknek az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei az Ã¡talakulÃ¡ssal hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gtÃ³l a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+A hitelezÅ‘k a hitelezÅ‘knek szÃ³lÃ³ felhÃ­vÃ¡sban foglalt hatÃ¡ridÅ‘ alatt az Olympus Hungary Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g szÃ©khelyÃ©n (1038 Budapest, PapÃ­rgyÃ¡r u. 58Â­59.) kaphatnak tÃ¡jÃ©koztatÃ¡st a kÃ¶vetelÃ©sÃ¼ket Ã©rintÅ‘ vagyonmegosztÃ¡si rendelkezÃ©sekrÅ‘l.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109563248</mezo>
-<mezo id = "nev">Olympus Hungary Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Olympus Hungary Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1038 Budapest</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az Olympus Hungary Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság (Cg.: [01 09 563248]; székhelye: 1038 Budapest, Papírgyár u. 58­59.) elhatározta szétválás útján történõ átalakulását.<ujsor/>
-A szétválás módja: kiválás.<ujsor/>
-A fennmaradó gazdasági társaság fõbb adatai:<ujsor/>
-Formája: korlátolt felelõsségû társaság.<ujsor/>
-Cégneve: Olympus Hungary Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság.<ujsor/>
-Cégjegyzékszáma: [01 09 563248].<ujsor/>
-Székhelye: 1038 Budapest, Papírgyár u. 58­59.<ujsor/>
-A kiválással létrejövõ gazdasági társaság fõbb adatai:<ujsor/>
-Formája: korlátolt felelõsségû társaság.<ujsor/>
-Cégneve: Olympus Diagnosztikai Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhelye: 1038 Budapest, Papírgyár u. 58­59.<ujsor/>
-A társasági szerzõdés megkötésének napja: 2009. szeptember 29.<ujsor/>
-Az átalakulás napja: 2009. november 30.<ujsor/>
-Az átalakuló és a kiválással létrejövõ gazdasági társaságok vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
+<mezo id = "szoveg">Az Olympus Hungary Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [01 09 563248]; szÃ©khelye: 1038 Budapest, PapÃ­rgyÃ¡r u. 58Â­59.) elhatÃ¡rozta szÃ©tvÃ¡lÃ¡s ÃºtjÃ¡n tÃ¶rtÃ©nÅ‘ Ã¡talakulÃ¡sÃ¡t.<ujsor/>
+A szÃ©tvÃ¡lÃ¡s mÃ³dja: kivÃ¡lÃ¡s.<ujsor/>
+A fennmaradÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘bb adatai:<ujsor/>
+FormÃ¡ja: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gneve: Olympus Hungary Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡ma: [01 09 563248].<ujsor/>
+SzÃ©khelye: 1038 Budapest, PapÃ­rgyÃ¡r u. 58Â­59.<ujsor/>
+A kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘bb adatai:<ujsor/>
+FormÃ¡ja: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gneve: Olympus Diagnosztikai KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 1038 Budapest, PapÃ­rgyÃ¡r u. 58Â­59.<ujsor/>
+A tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s megkÃ¶tÃ©sÃ©nek napja: 2009. szeptember 29.<ujsor/>
+Az Ã¡talakulÃ¡s napja: 2009. november 30.<ujsor/>
+Az Ã¡talakulÃ³ Ã©s a kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡gok vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK (aktívák) Szétváló Kiváló Változatlan formában<ujsor/>
-gazdasági társaság gazdasági társaság fennmaradó társaság<ujsor/>
-(záró) (nyitó) (nyitó)<ujsor/>
-A) Befektetett eszközök 302 737 269 379 33 358<ujsor/>
-I. Immateriális javak 3 643 1 586 2 057<ujsor/>
-II. Tárgyi eszközök 299 094 267 793 31 301<ujsor/>
-III. Befektetett pénzügyi eszközök 0 0 0<ujsor/>
-B) Forgóeszközök 1 824 729 594 559 1 230 170<ujsor/>
-I. Készletek 286 756 164 924 121 832<ujsor/>
-II. Követelések 1 350 726 429 135 921 591<ujsor/>
-III. Értékpapírok 0<ujsor/>
-IV. Pénzeszközök 187 247 500 186 747<ujsor/>
-C) Aktív idõbeli elhatárolások 32 525 32 231 294<ujsor/>
-ÖSSZESEN: 2 159 991 896 169 1 263 822<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) SzÃ©tvÃ¡lÃ³ KivÃ¡lÃ³ VÃ¡ltozatlan formÃ¡ban<ujsor/>
+gazdasÃ¡gi tÃ¡rsasÃ¡g gazdasÃ¡gi tÃ¡rsasÃ¡g fennmaradÃ³ tÃ¡rsasÃ¡g<ujsor/>
+(zÃ¡rÃ³) (nyitÃ³) (nyitÃ³)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 302 737 269 379 33 358<ujsor/>
+I. ImmateriÃ¡lis javak 3 643 1 586 2 057<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 299 094 267 793 31 301<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 0 0<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 1 824 729 594 559 1 230 170<ujsor/>
+I. KÃ©szletek 286 756 164 924 121 832<ujsor/>
+II. KÃ¶vetelÃ©sek 1 350 726 429 135 921 591<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 187 247 500 186 747<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 32 525 32 231 294<ujsor/>
+Ã–SSZESEN: 2 159 991 896 169 1 263 822<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK (passzívák) Szétváló Kiváló Változatlan formában<ujsor/>
-gazdasági társaság gazdasági társaság fennmaradó társaság<ujsor/>
-(záró) (nyitó) (nyitó)<ujsor/>
-D) Saját tõke 999 065 670 229 328 836<ujsor/>
-I. Jegyzett tõke 85 000 500 84 500<ujsor/>
-II. Jegyzett, de még be nem fizetett tõke 0<ujsor/>
-III. Tõketartalék 7 120 7 120<ujsor/>
-IV. Eredménytartalék 906 945 669 729 237 216<ujsor/>
-V. Lekötött tartalék 0<ujsor/>
-VI. Értékelési tartalék 0<ujsor/>
-VII. Mérleg szerinti eredmény 0<ujsor/>
-E) Céltartalékok 87 312 9 116 78 196<ujsor/>
-F) Kötelezettségek 967 189 196 182 771 007<ujsor/>
-I. Hátra sorolt kötelezettségek 0 0 0<ujsor/>
-II. Hosszú lejáratú kötelezettségek 18 555 17 815 740<ujsor/>
-III. Rövid lejáratú kötelezettségek 948 634 178 367 770 267<ujsor/>
-G) Passzív idõbeli elhatárolások 106 425 20 642 85 783<ujsor/>
-ÖSSZESEN: 2 159 991 896 169 1 263 822<ujsor/>
-Az átalakuló (fennmaradó) gazdasági társaság (Olympus Hungary Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság) fõ tevékenysége (TEÁOR ’08): 4690 Vegyes termékkörû nagykereskedelem.<ujsor/>
-A kiválással létrejövõ gazdasági társaság (Olympus Diagnosztikai Korlátolt Felelõsségû Társaság) fõ tevékenysége (TEÁOR ’08): 4690 Vegyes termékkörû nagykereskedelem.<ujsor/>
-Az átalakuló (fennmaradó) gazdasági társaság (Olympus Hungary Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság) ügyvezetõi: Matthias Horst Jakob (a. n.: Ingrid Gruner; D-21465 Wentorf, Ostlandstraße 18, Németország) és dr. Petr Hanzlik (a. n.: Alena Èeledová; Na Spitálce 2691/2, 6 Prága 160 00, Cseh Köztársaság). Az átalakuló (fennmaradó) gazdasági társaság (Olympus Hungary Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság) cégvezetõje: Dávid Scherhaufer (a. n.: Jana Valásková; 91101 Trenèín-Kubrá, Opatovská 651/33).<ujsor/>
-A kiválással létrejövõ gazdasági társaság (Olympus Diagnosztikai Korlátolt Felelõsségû Társaság) ügyvezetõi: Matthias Horst Jakob (a. n.: Ingrid Gruner; D-21465 Wentorf, Ostlandstraße 18, Németország) és Gerei Zoltán Balázs (a. n.: Schreiner Zsuzsanna; 1016 Budapest, Aladár u. 4/A). Cégvezetõje: Szlobodnyik Gábor Tibor (a. n.: Jakus Teréz; 2120 Dunakeszi, Madách u. 23/A).<ujsor/>
-A szétváló gazdasági társaságot megilletõ jogok és terhelõ kötelezettségek megosztására vonatkozó megállapodás legfontosabb rendelkezései, a megoszlás százalékos aránya:<ujsor/>
-A szétválás (kiválás) eredményeként minden, a Labordiagnosztikai Üzletág részét képezõ vagyontárgy átkerül a kiválással létrejövõ gazdasági társasághoz (Olympus Diagnosztikai Korlátolt Felelõsségû Társaság), és a kiválással létrejövõ gazdasági társaság (Olympus Diagnosztikai Korlátolt Felelõsségû Társaság) vagyonát képezi. A kiválással létrejövõ gazdasági társaság (Olympus Diagnosztikai Korlátolt Felelõsségû Társaság) a tulajdonába kerülõ vagyontárgyak költségeit az átalakulás (kiválás) napjától viseli az ezen vagyontárgyakat érintõ kárveszéllyel együtt, illetõleg szedi az érintett vagyontárgyak hasznait. A vagyonleltárban fel nem sorolt, de az átalakulás (kiválás) napját megelõzõen az átalakuló (fennmaradó) gazdasági társaság (Olympus Hungary Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság) által a Labordiagnosztikai Üzletág részeként megszerzett vagyontárgyak a kiválás eredményeként a kiválással létrejövõ gazdasági társaság (Olympus Diagnosztikai Korlátolt Felelõsségû Társaság) vagyonába tartoznak. A kiválással létrejövõ gazdasági társaságot (Olympus Diagnosztikai Korlátolt Felelõsségû Társaság) illeti, illetve terheli valamennyi a Labordiagnosztikai Üzletághoz tartozó jog és kötelezettség, így különösen a Labordiagnosztikai Üzletághoz tartozó szerzõdésekbõl eredõ valamennyi jog gyakorlása és kötelezettség teljesítése, továbbá a Labordiagnosztikai Üzletággal kapcsolatos, illetve annak részeként fennálló valamennyi szerzõdéses, használati jog (hasznosítási jog),bérleti jog stb. gyakorlása és az ezekhez kapcsolódó kötelezettségek teljesítése, függetlenül attól, hogy ezek a kiválás elhatározását megelõzõen vagy azt követõen keletkeztek-e. A Labordiagnosztikai Üzletág részét képezik különösen a labordiagnosztikai célú közbeszerzési pályázatokon elnyert futó vagy jövõben induló szerzõdések; így ezen szerzõdések teljesítésének kötelezettsége és az ezekbõl eredõ hasznok szedése a kiválás eredményeként a kiválással létrejövõ gazdasági társaságot (Olympus Diagnosztikai Korlátolt Felelõsségû Társaság) illeti. A kiválással létrejövõ gazdasági társaságot (Olympus Diagnosztikai Korlátolt Felelõsségû Társaság) illeti a labordiagnosztikai célú közbeszerzési vagy egyéb pályázatokon elnyert, korábbi közbeszerzési vagy egyéb labordiagnosztikai tárgyú szerzõdések jövõbeli közbeszerzési és üzleti referenciaként való felhasználásának kizárólagos joga is. Az átalakulás (kiválás) napját követõen az átalakuló (fennmaradó) gazdasági társaságot (Olympus Hungary Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság) illeti, illetve terheli az egyéb, a Labordiagnosztikai Üzletághoz nem kapcsolható valamennyi kötelezettség teljesítése, így különösen a Labordiagnosztikai Üzletág részét nem képezõ szerzõdésekbõl eredõ valamennyi jog gyakorlása és kötelezettség teljesítése, beleértve a Labordiagnosztikai Üzletággal nem kapcsolatos, illetve annak részét nem képezõ valamennyi szerzõdéses, használati jog (hasznosítási jog),bérleti jog stb. gyakorlását és az ezekhez kapsolódó kötelezettségek teljesítését.<ujsor/>
-A megoszlás százalékos aránya:<ujsor/>
-Az átalakuló (fennmaradó) gazdasági társaság (Olympus Hungary Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság): 32,91%, a kiválással létrejövõ gazdasági társaság (Olympus Diagnosztikai Korlátolt Felelõsségû Társaság): 67,09%.<ujsor/>
-Azok a hitelezõk, akiknek az átalakuló gazdasági társasággal szemben fennálló, le nem járt követelései az átalakulással hozott döntés elsõ közzétételét megelõzõen keletkeztek, követeléseik erejéig az átalakuló gazdasági társaságtól a döntés második közzétételét követõ harmincnapos jogvesztõ határidõn belül biztosítékot követelhetnek.<ujsor/>
-A hitelezõk a hitelezõknek szóló felhívásban foglalt határidõ alatt az Olympus Hungary Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság székhelyén (1038 Budapest, Papírgyár u. 58­59.) kaphatnak tájékoztatást a követelésüket érintõ vagyonmegosztási rendelkezésekrõl.<ujsor/>
-(Második közzététel.)<ujsor/>
+FORRÃSOK (passzÃ­vÃ¡k) SzÃ©tvÃ¡lÃ³ KivÃ¡lÃ³ VÃ¡ltozatlan formÃ¡ban<ujsor/>
+gazdasÃ¡gi tÃ¡rsasÃ¡g gazdasÃ¡gi tÃ¡rsasÃ¡g fennmaradÃ³ tÃ¡rsasÃ¡g<ujsor/>
+(zÃ¡rÃ³) (nyitÃ³) (nyitÃ³)<ujsor/>
+D) SajÃ¡t tÅ‘ke 999 065 670 229 328 836<ujsor/>
+I. Jegyzett tÅ‘ke 85 000 500 84 500<ujsor/>
+II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke 0<ujsor/>
+III. TÅ‘ketartalÃ©k 7 120 7 120<ujsor/>
+IV. EredmÃ©nytartalÃ©k 906 945 669 729 237 216<ujsor/>
+V. LekÃ¶tÃ¶tt tartalÃ©k 0<ujsor/>
+VI. Ã‰rtÃ©kelÃ©si tartalÃ©k 0<ujsor/>
+VII. MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+E) CÃ©ltartalÃ©kok 87 312 9 116 78 196<ujsor/>
+F) KÃ¶telezettsÃ©gek 967 189 196 182 771 007<ujsor/>
+I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0 0 0<ujsor/>
+II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 18 555 17 815 740<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 948 634 178 367 770 267<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 106 425 20 642 85 783<ujsor/>
+Ã–SSZESEN: 2 159 991 896 169 1 263 822<ujsor/>
+Az Ã¡talakulÃ³ (fennmaradÃ³) gazdasÃ¡gi tÃ¡rsasÃ¡g (Olympus Hungary Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g) fÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™08): 4690 Vegyes termÃ©kkÃ¶rÅ± nagykereskedelem.<ujsor/>
+A kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g (Olympus Diagnosztikai KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g) fÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™08): 4690 Vegyes termÃ©kkÃ¶rÅ± nagykereskedelem.<ujsor/>
+Az Ã¡talakulÃ³ (fennmaradÃ³) gazdasÃ¡gi tÃ¡rsasÃ¡g (Olympus Hungary Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g) Ã¼gyvezetÅ‘i: Matthias Horst Jakob (a. n.: Ingrid Gruner; D-21465 Wentorf, OstlandstraÃŸe 18, NÃ©metorszÃ¡g) Ã©s dr. Petr Hanzlik (a. n.: Alena ÄŒeledovÃ¡; Na SpitÃ¡lce 2691/2, 6 PrÃ¡ga 160 00, Cseh KÃ¶ztÃ¡rsasÃ¡g). Az Ã¡talakulÃ³ (fennmaradÃ³) gazdasÃ¡gi tÃ¡rsasÃ¡g (Olympus Hungary Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g) cÃ©gvezetÅ‘je: DÃ¡vid Scherhaufer (a. n.: Jana ValÃ¡skovÃ¡; 91101 TrenÄÃ­n-KubrÃ¡, OpatovskÃ¡ 651/33).<ujsor/>
+A kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g (Olympus Diagnosztikai KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g) Ã¼gyvezetÅ‘i: Matthias Horst Jakob (a. n.: Ingrid Gruner; D-21465 Wentorf, OstlandstraÃŸe 18, NÃ©metorszÃ¡g) Ã©s Gerei ZoltÃ¡n BalÃ¡zs (a. n.: Schreiner Zsuzsanna; 1016 Budapest, AladÃ¡r u. 4/A). CÃ©gvezetÅ‘je: Szlobodnyik GÃ¡bor Tibor (a. n.: Jakus TerÃ©z; 2120 Dunakeszi, MadÃ¡ch u. 23/A).<ujsor/>
+A szÃ©tvÃ¡lÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡got megilletÅ‘ jogok Ã©s terhelÅ‘ kÃ¶telezettsÃ©gek megosztÃ¡sÃ¡ra vonatkozÃ³ megÃ¡llapodÃ¡s legfontosabb rendelkezÃ©sei, a megoszlÃ¡s szÃ¡zalÃ©kos arÃ¡nya:<ujsor/>
+A szÃ©tvÃ¡lÃ¡s (kivÃ¡lÃ¡s) eredmÃ©nyekÃ©nt minden, a Labordiagnosztikai ÃœzletÃ¡g rÃ©szÃ©t kÃ©pezÅ‘ vagyontÃ¡rgy Ã¡tkerÃ¼l a kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡ghoz (Olympus Diagnosztikai KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g), Ã©s a kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g (Olympus Diagnosztikai KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g) vagyonÃ¡t kÃ©pezi. A kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g (Olympus Diagnosztikai KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g) a tulajdonÃ¡ba kerÃ¼lÅ‘ vagyontÃ¡rgyak kÃ¶ltsÃ©geit az Ã¡talakulÃ¡s (kivÃ¡lÃ¡s) napjÃ¡tÃ³l viseli az ezen vagyontÃ¡rgyakat Ã©rintÅ‘ kÃ¡rveszÃ©llyel egyÃ¼tt, illetÅ‘leg szedi az Ã©rintett vagyontÃ¡rgyak hasznait. A vagyonleltÃ¡rban fel nem sorolt, de az Ã¡talakulÃ¡s (kivÃ¡lÃ¡s) napjÃ¡t megelÅ‘zÅ‘en az Ã¡talakulÃ³ (fennmaradÃ³) gazdasÃ¡gi tÃ¡rsasÃ¡g (Olympus Hungary Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g) Ã¡ltal a Labordiagnosztikai ÃœzletÃ¡g rÃ©szekÃ©nt megszerzett vagyontÃ¡rgyak a kivÃ¡lÃ¡s eredmÃ©nyekÃ©nt a kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g (Olympus Diagnosztikai KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g) vagyonÃ¡ba tartoznak. A kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡got (Olympus Diagnosztikai KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g) illeti, illetve terheli valamennyi a Labordiagnosztikai ÃœzletÃ¡ghoz tartozÃ³ jog Ã©s kÃ¶telezettsÃ©g, Ã­gy kÃ¼lÃ¶nÃ¶sen a Labordiagnosztikai ÃœzletÃ¡ghoz tartozÃ³ szerzÅ‘dÃ©sekbÅ‘l eredÅ‘ valamennyi jog gyakorlÃ¡sa Ã©s kÃ¶telezettsÃ©g teljesÃ­tÃ©se, tovÃ¡bbÃ¡ a Labordiagnosztikai ÃœzletÃ¡ggal kapcsolatos, illetve annak rÃ©szekÃ©nt fennÃ¡llÃ³ valamennyi szerzÅ‘dÃ©ses, hasznÃ¡lati jog (hasznosÃ­tÃ¡si jog),bÃ©rleti jog stb. gyakorlÃ¡sa Ã©s az ezekhez kapcsolÃ³dÃ³ kÃ¶telezettsÃ©gek teljesÃ­tÃ©se, fÃ¼ggetlenÃ¼l attÃ³l, hogy ezek a kivÃ¡lÃ¡s elhatÃ¡rozÃ¡sÃ¡t megelÅ‘zÅ‘en vagy azt kÃ¶vetÅ‘en keletkeztek-e. A Labordiagnosztikai ÃœzletÃ¡g rÃ©szÃ©t kÃ©pezik kÃ¼lÃ¶nÃ¶sen a labordiagnosztikai cÃ©lÃº kÃ¶zbeszerzÃ©si pÃ¡lyÃ¡zatokon elnyert futÃ³ vagy jÃ¶vÅ‘ben indulÃ³ szerzÅ‘dÃ©sek; Ã­gy ezen szerzÅ‘dÃ©sek teljesÃ­tÃ©sÃ©nek kÃ¶telezettsÃ©ge Ã©s az ezekbÅ‘l eredÅ‘ hasznok szedÃ©se a kivÃ¡lÃ¡s eredmÃ©nyekÃ©nt a kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡got (Olympus Diagnosztikai KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g) illeti. A kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡got (Olympus Diagnosztikai KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g) illeti a labordiagnosztikai cÃ©lÃº kÃ¶zbeszerzÃ©si vagy egyÃ©b pÃ¡lyÃ¡zatokon elnyert, korÃ¡bbi kÃ¶zbeszerzÃ©si vagy egyÃ©b labordiagnosztikai tÃ¡rgyÃº szerzÅ‘dÃ©sek jÃ¶vÅ‘beli kÃ¶zbeszerzÃ©si Ã©s Ã¼zleti referenciakÃ©nt valÃ³ felhasznÃ¡lÃ¡sÃ¡nak kizÃ¡rÃ³lagos joga is. Az Ã¡talakulÃ¡s (kivÃ¡lÃ¡s) napjÃ¡t kÃ¶vetÅ‘en az Ã¡talakulÃ³ (fennmaradÃ³) gazdasÃ¡gi tÃ¡rsasÃ¡got (Olympus Hungary Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g) illeti, illetve terheli az egyÃ©b, a Labordiagnosztikai ÃœzletÃ¡ghoz nem kapcsolhatÃ³ valamennyi kÃ¶telezettsÃ©g teljesÃ­tÃ©se, Ã­gy kÃ¼lÃ¶nÃ¶sen a Labordiagnosztikai ÃœzletÃ¡g rÃ©szÃ©t nem kÃ©pezÅ‘ szerzÅ‘dÃ©sekbÅ‘l eredÅ‘ valamennyi jog gyakorlÃ¡sa Ã©s kÃ¶telezettsÃ©g teljesÃ­tÃ©se, beleÃ©rtve a Labordiagnosztikai ÃœzletÃ¡ggal nem kapcsolatos, illetve annak rÃ©szÃ©t nem kÃ©pezÅ‘ valamennyi szerzÅ‘dÃ©ses, hasznÃ¡lati jog (hasznosÃ­tÃ¡si jog),bÃ©rleti jog stb. gyakorlÃ¡sÃ¡t Ã©s az ezekhez kapsolÃ³dÃ³ kÃ¶telezettsÃ©gek teljesÃ­tÃ©sÃ©t.<ujsor/>
+A megoszlÃ¡s szÃ¡zalÃ©kos arÃ¡nya:<ujsor/>
+Az Ã¡talakulÃ³ (fennmaradÃ³) gazdasÃ¡gi tÃ¡rsasÃ¡g (Olympus Hungary Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g): 32,91%, a kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g (Olympus Diagnosztikai KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g): 67,09%.<ujsor/>
+Azok a hitelezÅ‘k, akiknek az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei az Ã¡talakulÃ¡ssal hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gtÃ³l a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+A hitelezÅ‘k a hitelezÅ‘knek szÃ³lÃ³ felhÃ­vÃ¡sban foglalt hatÃ¡ridÅ‘ alatt az Olympus Hungary Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g szÃ©khelyÃ©n (1038 Budapest, PapÃ­rgyÃ¡r u. 58Â­59.) kaphatnak tÃ¡jÃ©koztatÃ¡st a kÃ¶vetelÃ©sÃ¼ket Ã©rintÅ‘ vagyonmegosztÃ¡si rendelkezÃ©sekrÅ‘l.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109563248</mezo>
-<mezo id = "nev">Olympus Hungary Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Olympus Hungary Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1038 Budapest</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság a Cg.01-09-563248 cégjegyzékszámon bejegyzett Olympus Hungary Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság (1038 Budapest, Papírgyár u 58-59.; adószáma: 12185496-2-41) ügyében az 2010. január 18. napján hozott Cg.01-09-563248/117. számú végzését hivatalból kijavítani rendeli az alábbiak szerint:<ujsor/>
-8. A létesítõ okirat kelte<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.01-09-563248 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett Olympus Hungary Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (1038 Budapest, PapÃ­rgyÃ¡r u 58-59.; adÃ³szÃ¡ma: 12185496-2-41) Ã¼gyÃ©ben az 2010. januÃ¡r 18. napjÃ¡n hozott Cg.01-09-563248/117. szÃ¡mÃº vÃ©gzÃ©sÃ©t hivatalbÃ³l kijavÃ­tani rendeli az alÃ¡bbiak szerint:<ujsor/>
+8. A lÃ©tesÃ­tÅ‘ okirat kelte<ujsor/>
 2001.01.05<ujsor/>
-Vált. vége: 2010.01.18.<ujsor/>
-Törölve (végzés kelte): 2010. január 18.<ujsor/>
+VÃ¡lt. vÃ©ge: 2010.01.18.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2010. januÃ¡r 18.<ujsor/>
 2010.01.05<ujsor/>
-Bejegyezve (végzés kelte): 2010. január 18.<ujsor/>
-2010. január 18.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2010. januÃ¡r 18.<ujsor/>
+2010. januÃ¡r 18.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109563248</mezo>
-<mezo id = "nev">Olympus Hungary Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1038 Budapest, Papírgyár u 58-59.</mezo>
+<mezo id = "nev">Olympus Hungary Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1038 Budapest, PapÃ­rgyÃ¡r u 58-59.</mezo>
 <mezo id = "adosz">12185496241</mezo>
 </alrovat>
 </rovat>

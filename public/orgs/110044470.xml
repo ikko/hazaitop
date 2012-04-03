@@ -5,7 +5,7 @@
 <mezo id = "cf">10</mezo>
 <mezo id = "szam">044470</mezo>
 <mezo id = "nevalrovat">3</mezo>
-<mezo id = "cim">1031 Budapest, Anikó utca 4. </mezo>
+<mezo id = "cim">1031 Budapest, AnikÃ³ utca 4. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">12550753244</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "3">
 <mezo id = "hattol">20060323</mezo>
-<mezo id = "nev">MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">MAVIR Magyar Villamosenergia-ipari Ãtviteli RendszerirÃ¡nyÃ­tÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -33,13 +33,13 @@
 <mezo id = "hattol">20001108</mezo>
 <mezo id = "irsz">1014</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Petermann bíró u. 5-7.</mezo>
+<mezo id = "teru">Petermann bÃ­rÃ³ u. 5-7.</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20090601</mezo>
 <mezo id = "irsz">1031</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Anikó utca 4.</mezo>
+<mezo id = "teru">AnikÃ³ utca 4.</mezo>
 <mezo id = "valtk">20090601</mezo>
 <mezo id = "bkelt">20090615</mezo>
 </alrovat>
@@ -48,13 +48,13 @@
 <alrovat id = "4">
 <mezo id = "hattol">20060425</mezo>
 <mezo id = "irsz">1158</mezo>
-<mezo id = "hely">Budapest, Körvasútsor 106.</mezo>
+<mezo id = "hely">Budapest, KÃ¶rvasÃºtsor 106.</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20090601</mezo>
 <mezo id = "irsz">1087</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Asztalos Sándor utca 13.</mezo>
+<mezo id = "teru">Asztalos SÃ¡ndor utca 13.</mezo>
 <mezo id = "valtk">20090601</mezo>
 <mezo id = "bkelt">20090615</mezo>
 </alrovat>
@@ -63,25 +63,25 @@
 <alrovat id = "1">
 <mezo id = "hattol">20060425</mezo>
 <mezo id = "irsz">2730</mezo>
-<mezo id = "hely">Albertirsa, Dánosi út.</mezo>
+<mezo id = "hely">Albertirsa, DÃ¡nosi Ãºt.</mezo>
 <mezo id = "orsz">HU</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20060425</mezo>
 <mezo id = "irsz">9028</mezo>
-<mezo id = "hely">Gyõr, Banai út.</mezo>
+<mezo id = "hely">GyÅ‘r, Banai Ãºt.</mezo>
 <mezo id = "orsz">HU</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20060425</mezo>
 <mezo id = "irsz">3599</mezo>
-<mezo id = "hely">Sajószöged, Bábai út.</mezo>
+<mezo id = "hely">SajÃ³szÃ¶ged, BÃ¡bai Ãºt.</mezo>
 <mezo id = "orsz">HU</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20060425</mezo>
 <mezo id = "irsz">7401</mezo>
-<mezo id = "hely">Kaposvár, Toponár külterület.</mezo>
+<mezo id = "hely">KaposvÃ¡r, ToponÃ¡r kÃ¼lterÃ¼let.</mezo>
 <mezo id = "orsz">HU</mezo>
 </alrovat>
 </rovat>
@@ -289,19 +289,19 @@
 <rovat id = "13">
 <alrovat id = "40">
 <mezo id = "hattol">20020327</mezo>
-<mezo id = "tiszt">elnök-vezérigazgató</mezo>
+<mezo id = "tiszt">elnÃ¶k-vezÃ©rigazgatÃ³</mezo>
 <mezo id = "pnev">Dr. Tombor Antal</mezo>
-<mezo id = "panev">Regõs Magdolna</mezo>
+<mezo id = "panev">RegÅ‘s Magdolna</mezo>
 <mezo id = "pirsz">1124</mezo>
 <mezo id = "phely">Budapest</mezo>
 <mezo id = "pteru">Fodor utca 72.</mezo>
 </alrovat>
 <alrovat id = "114">
 <mezo id = "hattol">20080711</mezo>
-<mezo id = "pnev">Tari Gábor</mezo>
-<mezo id = "panev">Gyõri Magdolna</mezo>
+<mezo id = "pnev">Tari GÃ¡bor</mezo>
+<mezo id = "panev">GyÅ‘ri Magdolna</mezo>
 <mezo id = "pirsz">1039</mezo>
-<mezo id = "phely">Budapest, Batthyány utca 22.</mezo>
+<mezo id = "phely">Budapest, BatthyÃ¡ny utca 22.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">f</mezo>
 <mezo id = "jogvk">20080711</mezo>
@@ -312,8 +312,8 @@
 </alrovat>
 <alrovat id = "131">
 <mezo id = "hattol">20091201</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Handl Péter</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Handl PÃ©ter</mezo>
 <mezo id = "panev">Pandur Magdolna</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20091201</mezo>
@@ -322,9 +322,9 @@
 </alrovat>
 <alrovat id = "132">
 <mezo id = "hattol">20091201</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Oroszki Lajos</mezo>
-<mezo id = "panev">Gálik Anna</mezo>
+<mezo id = "panev">GÃ¡lik Anna</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20010109</mezo>
 <mezo id = "valtk">20091201</mezo>
@@ -332,9 +332,9 @@
 </alrovat>
 <alrovat id = "133">
 <mezo id = "hattol">20091201</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Tihanyi Zoltán</mezo>
-<mezo id = "panev">Dr.Szõke Katalin</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Tihanyi ZoltÃ¡n</mezo>
+<mezo id = "panev">Dr.SzÅ‘ke Katalin</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20010109</mezo>
 <mezo id = "valtk">20091201</mezo>
@@ -342,8 +342,8 @@
 </alrovat>
 <alrovat id = "134">
 <mezo id = "hattol">20091201</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Sulyok Zoltán</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Sulyok ZoltÃ¡n</mezo>
 <mezo id = "panev">Rosta Marianna</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20010109</mezo>
@@ -352,9 +352,9 @@
 </alrovat>
 <alrovat id = "135">
 <mezo id = "hattol">20091201</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Kapás Mihály</mezo>
-<mezo id = "panev">Menártovics Erzsébet</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">KapÃ¡s MihÃ¡ly</mezo>
+<mezo id = "panev">MenÃ¡rtovics ErzsÃ©bet</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20010109</mezo>
 <mezo id = "valtk">20091201</mezo>
@@ -362,9 +362,9 @@
 </alrovat>
 <alrovat id = "137">
 <mezo id = "hattol">20091201</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Galambos László</mezo>
-<mezo id = "panev">Kalamár Angyalka</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Galambos LÃ¡szlÃ³</mezo>
+<mezo id = "panev">KalamÃ¡r Angyalka</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20010525</mezo>
 <mezo id = "valtk">20091201</mezo>
@@ -372,9 +372,9 @@
 </alrovat>
 <alrovat id = "138">
 <mezo id = "hattol">20091201</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Krenyácz Béla</mezo>
-<mezo id = "panev">Sándor Lili</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">KrenyÃ¡cz BÃ©la</mezo>
+<mezo id = "panev">SÃ¡ndor Lili</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20020101</mezo>
 <mezo id = "valtk">20091201</mezo>
@@ -382,8 +382,8 @@
 </alrovat>
 <alrovat id = "139">
 <mezo id = "hattol">20091201</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Sztráda Gyula</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">SztrÃ¡da Gyula</mezo>
 <mezo id = "panev">Bagoly Margit</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20020327</mezo>
@@ -392,9 +392,9 @@
 </alrovat>
 <alrovat id = "141">
 <mezo id = "hattol">20091201</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Almási Kristóf</mezo>
-<mezo id = "panev">Csemez Klára</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">AlmÃ¡si KristÃ³f</mezo>
+<mezo id = "panev">Csemez KlÃ¡ra</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20020327</mezo>
 <mezo id = "valtk">20091201</mezo>
@@ -402,9 +402,9 @@
 </alrovat>
 <alrovat id = "142">
 <mezo id = "hattol">20091201</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">dr.Hoóz Tibor</mezo>
-<mezo id = "panev">Baán Erzsébet</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">dr.HoÃ³z Tibor</mezo>
+<mezo id = "panev">BaÃ¡n ErzsÃ©bet</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20020823</mezo>
 <mezo id = "valtk">20091201</mezo>
@@ -412,7 +412,7 @@
 </alrovat>
 <alrovat id = "143">
 <mezo id = "hattol">20091201</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Bertalan Zsolt</mezo>
 <mezo id = "panev">Bellay Katalin</mezo>
 <mezo id = "kepve">x</mezo>
@@ -422,9 +422,9 @@
 </alrovat>
 <alrovat id = "144">
 <mezo id = "hattol">20091201</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Cseh Zsolt</mezo>
-<mezo id = "panev">Velkei Mária</mezo>
+<mezo id = "panev">Velkei MÃ¡ria</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20030403</mezo>
 <mezo id = "valtk">20091201</mezo>
@@ -432,8 +432,8 @@
 </alrovat>
 <alrovat id = "145">
 <mezo id = "hattol">20091201</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Ádám Sándor</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">ÃdÃ¡m SÃ¡ndor</mezo>
 <mezo id = "panev">Weiss Hedvig</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20031001</mezo>
@@ -442,9 +442,9 @@
 </alrovat>
 <alrovat id = "146">
 <mezo id = "hattol">20091201</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Szaniszlóné Márkus Erika</mezo>
-<mezo id = "panev">Szabó Margit</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">SzaniszlÃ³nÃ© MÃ¡rkus Erika</mezo>
+<mezo id = "panev">SzabÃ³ Margit</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20040629</mezo>
 <mezo id = "valtk">20091201</mezo>
@@ -452,9 +452,9 @@
 </alrovat>
 <alrovat id = "147">
 <mezo id = "hattol">20091201</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Dr. Hódi Zsuzsanna Margit</mezo>
-<mezo id = "panev">Rabóczi Julianna</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Dr. HÃ³di Zsuzsanna Margit</mezo>
+<mezo id = "panev">RabÃ³czi Julianna</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20040629</mezo>
 <mezo id = "valtk">20091201</mezo>
@@ -462,9 +462,9 @@
 </alrovat>
 <alrovat id = "149">
 <mezo id = "hattol">20091201</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Kovács Gábor</mezo>
-<mezo id = "panev">Maknyik Ildikó</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">KovÃ¡cs GÃ¡bor</mezo>
+<mezo id = "panev">Maknyik IldikÃ³</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20060216</mezo>
 <mezo id = "valtk">20091201</mezo>
@@ -472,8 +472,8 @@
 </alrovat>
 <alrovat id = "150">
 <mezo id = "hattol">20091201</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Langó Nándor</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">LangÃ³ NÃ¡ndor</mezo>
 <mezo id = "panev">Miskolczi Margit</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20060216</mezo>
@@ -482,8 +482,8 @@
 </alrovat>
 <alrovat id = "151">
 <mezo id = "hattol">20091201</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Balogh László</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Balogh LÃ¡szlÃ³</mezo>
 <mezo id = "panev">Lakatos Julianna</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20060216</mezo>
@@ -492,8 +492,8 @@
 </alrovat>
 <alrovat id = "152">
 <mezo id = "hattol">20091201</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Hevesi Tóth Zsuzsanna</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Hevesi TÃ³th Zsuzsanna</mezo>
 <mezo id = "panev">Farkas Katalin</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20060316</mezo>
@@ -502,9 +502,9 @@
 </alrovat>
 <alrovat id = "153">
 <mezo id = "hattol">20091201</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Nagy Pál Attila</mezo>
-<mezo id = "panev">Imre Erzsébet</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Nagy PÃ¡l Attila</mezo>
+<mezo id = "panev">Imre ErzsÃ©bet</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20060316</mezo>
 <mezo id = "valtk">20091201</mezo>
@@ -512,8 +512,8 @@
 </alrovat>
 <alrovat id = "154">
 <mezo id = "hattol">20091201</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Erdõs István</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">ErdÅ‘s IstvÃ¡n</mezo>
 <mezo id = "panev">Pocsai Margit</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20060622</mezo>
@@ -522,7 +522,7 @@
 </alrovat>
 <alrovat id = "155">
 <mezo id = "hattol">20091201</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Mala Ferenc</mezo>
 <mezo id = "panev">Sziklai Margit</mezo>
 <mezo id = "kepve">x</mezo>
@@ -532,9 +532,9 @@
 </alrovat>
 <alrovat id = "156">
 <mezo id = "hattol">20091201</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Somogyi István</mezo>
-<mezo id = "panev">Szebellédi Klára</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Somogyi IstvÃ¡n</mezo>
+<mezo id = "panev">SzebellÃ©di KlÃ¡ra</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20060622</mezo>
 <mezo id = "valtk">20091201</mezo>
@@ -542,9 +542,9 @@
 </alrovat>
 <alrovat id = "157">
 <mezo id = "hattol">20091201</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Karch Róbert</mezo>
-<mezo id = "panev">Schmidt Borbála</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Karch RÃ³bert</mezo>
+<mezo id = "panev">Schmidt BorbÃ¡la</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20060622</mezo>
 <mezo id = "valtk">20091201</mezo>
@@ -552,9 +552,9 @@
 </alrovat>
 <alrovat id = "160">
 <mezo id = "hattol">20091201</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Nagyváradi István</mezo>
-<mezo id = "panev">Balázs Julianna</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">NagyvÃ¡radi IstvÃ¡n</mezo>
+<mezo id = "panev">BalÃ¡zs Julianna</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20060622</mezo>
 <mezo id = "valtk">20091201</mezo>
@@ -562,9 +562,9 @@
 </alrovat>
 <alrovat id = "161">
 <mezo id = "hattol">20091201</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Gaál Gábor József</mezo>
-<mezo id = "panev">Pozsegovics Klára</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">GaÃ¡l GÃ¡bor JÃ³zsef</mezo>
+<mezo id = "panev">Pozsegovics KlÃ¡ra</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20060622</mezo>
 <mezo id = "valtk">20091201</mezo>
@@ -572,8 +572,8 @@
 </alrovat>
 <alrovat id = "162">
 <mezo id = "hattol">20091201</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Szedlák Róbert</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">SzedlÃ¡k RÃ³bert</mezo>
 <mezo id = "panev">Dobos Magda</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20060622</mezo>
@@ -582,8 +582,8 @@
 </alrovat>
 <alrovat id = "164">
 <mezo id = "hattol">20091201</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Veréb Tamás</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">VerÃ©b TamÃ¡s</mezo>
 <mezo id = "panev">Szakszon Ilona</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20060622</mezo>
@@ -592,9 +592,9 @@
 </alrovat>
 <alrovat id = "165">
 <mezo id = "hattol">20091201</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Bencsik Tibor</mezo>
-<mezo id = "panev">Lieber Erzsébet</mezo>
+<mezo id = "panev">Lieber ErzsÃ©bet</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20060622</mezo>
 <mezo id = "valtk">20091201</mezo>
@@ -602,9 +602,9 @@
 </alrovat>
 <alrovat id = "166">
 <mezo id = "hattol">20091201</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Holló Hunya Eszter</mezo>
-<mezo id = "panev">Thavon Irén</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">HollÃ³ Hunya Eszter</mezo>
+<mezo id = "panev">Thavon IrÃ©n</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20060808</mezo>
 <mezo id = "valtk">20091201</mezo>
@@ -612,9 +612,9 @@
 </alrovat>
 <alrovat id = "168">
 <mezo id = "hattol">20091201</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Veszely Viktor Dániel</mezo>
-<mezo id = "panev">Ujfalvi Mária</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Veszely Viktor DÃ¡niel</mezo>
+<mezo id = "panev">Ujfalvi MÃ¡ria</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20070511</mezo>
 <mezo id = "valtk">20091201</mezo>
@@ -622,9 +622,9 @@
 </alrovat>
 <alrovat id = "169">
 <mezo id = "hattol">20091201</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Nyéki Mária</mezo>
-<mezo id = "panev">Kis Mária Rozália</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">NyÃ©ki MÃ¡ria</mezo>
+<mezo id = "panev">Kis MÃ¡ria RozÃ¡lia</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20070529</mezo>
 <mezo id = "valtk">20091201</mezo>
@@ -632,9 +632,9 @@
 </alrovat>
 <alrovat id = "170">
 <mezo id = "hattol">20091201</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Szlenicskó Sarolta</mezo>
-<mezo id = "panev">Szakál Éva</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">SzlenicskÃ³ Sarolta</mezo>
+<mezo id = "panev">SzakÃ¡l Ã‰va</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20070731</mezo>
 <mezo id = "valtk">20091201</mezo>
@@ -642,9 +642,9 @@
 </alrovat>
 <alrovat id = "171">
 <mezo id = "hattol">20091201</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Gyulay Zoltán Tamás</mezo>
-<mezo id = "panev">Sólyom Katalin Ilona</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Gyulay ZoltÃ¡n TamÃ¡s</mezo>
+<mezo id = "panev">SÃ³lyom Katalin Ilona</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20070924</mezo>
 <mezo id = "valtk">20091201</mezo>
@@ -652,9 +652,9 @@
 </alrovat>
 <alrovat id = "174">
 <mezo id = "hattol">20091201</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Máté Gábor</mezo>
-<mezo id = "panev">Zátrok Erzsébet Ilona</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">MÃ¡tÃ© GÃ¡bor</mezo>
+<mezo id = "panev">ZÃ¡trok ErzsÃ©bet Ilona</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20080204</mezo>
 <mezo id = "valtk">20091201</mezo>
@@ -662,9 +662,9 @@
 </alrovat>
 <alrovat id = "178">
 <mezo id = "hattol">20091201</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Timkóné Fodor Krisztina</mezo>
-<mezo id = "panev">Szilágyi Margit</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">TimkÃ³nÃ© Fodor Krisztina</mezo>
+<mezo id = "panev">SzilÃ¡gyi Margit</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20080527</mezo>
 <mezo id = "valtk">20091201</mezo>
@@ -672,9 +672,9 @@
 </alrovat>
 <alrovat id = "179">
 <mezo id = "hattol">20091201</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Kassanin Dusán</mezo>
-<mezo id = "panev">Vidák Olga</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Kassanin DusÃ¡n</mezo>
+<mezo id = "panev">VidÃ¡k Olga</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20080812</mezo>
 <mezo id = "valtk">20091201</mezo>
@@ -682,9 +682,9 @@
 </alrovat>
 <alrovat id = "180">
 <mezo id = "hattol">20091201</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Bable Zsuzsanna</mezo>
-<mezo id = "panev">Szuha Klára</mezo>
+<mezo id = "panev">Szuha KlÃ¡ra</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20080701</mezo>
 <mezo id = "valtk">20091201</mezo>
@@ -692,9 +692,9 @@
 </alrovat>
 <alrovat id = "181">
 <mezo id = "hattol">20091201</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Tóth Zoltán</mezo>
-<mezo id = "panev">Kéri Anna</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">TÃ³th ZoltÃ¡n</mezo>
+<mezo id = "panev">KÃ©ri Anna</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20080930</mezo>
 <mezo id = "valtk">20091201</mezo>
@@ -702,8 +702,8 @@
 </alrovat>
 <alrovat id = "182">
 <mezo id = "hattol">20091201</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Kovács Péter</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">KovÃ¡cs PÃ©ter</mezo>
 <mezo id = "panev">Koi Julianna</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20081029</mezo>
@@ -712,8 +712,8 @@
 </alrovat>
 <alrovat id = "183">
 <mezo id = "hattol">20091201</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Alföldi Gábor</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">AlfÃ¶ldi GÃ¡bor</mezo>
 <mezo id = "panev">Arnold Judit</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20081124</mezo>
@@ -722,9 +722,9 @@
 </alrovat>
 <alrovat id = "186">
 <mezo id = "hattol">20091201</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (vezérigazgató)</mezo>
-<mezo id = "pnev">Tari Gábor</mezo>
-<mezo id = "panev">Gyõri Magdolna</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (vezÃ©rigazgatÃ³)</mezo>
+<mezo id = "pnev">Tari GÃ¡bor</mezo>
+<mezo id = "panev">GyÅ‘ri Magdolna</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20090601</mezo>
 <mezo id = "valtk">20091201</mezo>
@@ -732,9 +732,9 @@
 </alrovat>
 <alrovat id = "189">
 <mezo id = "hattol">20091201</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Bakos Béla</mezo>
-<mezo id = "panev">Kónya Etelka</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Bakos BÃ©la</mezo>
+<mezo id = "panev">KÃ³nya Etelka</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20090707</mezo>
 <mezo id = "valtk">20091201</mezo>
@@ -742,8 +742,8 @@
 </alrovat>
 <alrovat id = "190">
 <mezo id = "hattol">20091201</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Kamarás Krisztina</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">KamarÃ¡s Krisztina</mezo>
 <mezo id = "panev">Szeleczky Zita</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20090707</mezo>
@@ -752,8 +752,8 @@
 </alrovat>
 <alrovat id = "192">
 <mezo id = "hattol">20100913</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Töröcskei István</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">TÃ¶rÃ¶cskei IstvÃ¡n</mezo>
 <mezo id = "panev">Jaeger Ilona</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20100914</mezo>
@@ -764,9 +764,9 @@
 </alrovat>
 <alrovat id = "193">
 <mezo id = "hattol">20100913</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Petykó Zoltán</mezo>
-<mezo id = "panev">Laczó Erzsébet</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">PetykÃ³ ZoltÃ¡n</mezo>
+<mezo id = "panev">LaczÃ³ ErzsÃ©bet</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20100914</mezo>
 <mezo id = "jogvv">20130914</mezo>
@@ -776,9 +776,9 @@
 </alrovat>
 <alrovat id = "195">
 <mezo id = "hattol">20100913</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Dr. Gelényi Csaba</mezo>
-<mezo id = "panev">Csíki Erzsébet</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">Dr. GelÃ©nyi Csaba</mezo>
+<mezo id = "panev">CsÃ­ki ErzsÃ©bet</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20100914</mezo>
 <mezo id = "jogvv">20130914</mezo>
@@ -788,9 +788,9 @@
 </alrovat>
 <alrovat id = "196">
 <mezo id = "hattol">20101026</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Iványi Krisztina</mezo>
-<mezo id = "panev">Csonka Erzsébet</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">IvÃ¡nyi Krisztina</mezo>
+<mezo id = "panev">Csonka ErzsÃ©bet</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20101026</mezo>
 <mezo id = "valtk">20101026</mezo>
@@ -799,9 +799,9 @@
 </alrovat>
 <alrovat id = "197">
 <mezo id = "hattol">20101026</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Rátkai Zoltán</mezo>
-<mezo id = "panev">Veszelovszki Mária Ibolya</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">RÃ¡tkai ZoltÃ¡n</mezo>
+<mezo id = "panev">Veszelovszki MÃ¡ria Ibolya</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20101026</mezo>
 <mezo id = "valtk">20101026</mezo>
@@ -810,12 +810,12 @@
 </alrovat>
 <alrovat id = "198">
 <mezo id = "hattol">20110201</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">dr. Czirbus Tamás</mezo>
-<mezo id = "panev">Berkes Valéria</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">dr. Czirbus TamÃ¡s</mezo>
+<mezo id = "panev">Berkes ValÃ©ria</mezo>
 <mezo id = "pirsz">1031</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Vizimolnár köz 5. 1. em. 5.</mezo>
+<mezo id = "pteru">VizimolnÃ¡r kÃ¶z 5. 1. em. 5.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20110201</mezo>
 <mezo id = "valtk">20110201</mezo>
@@ -824,12 +824,12 @@
 </alrovat>
 <alrovat id = "199">
 <mezo id = "hattol">20110307</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Károly Imre</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">KÃ¡roly Imre</mezo>
 <mezo id = "panev">Kele Ilona</mezo>
 <mezo id = "pirsz">2120</mezo>
 <mezo id = "phely">Dunakeszi</mezo>
-<mezo id = "pteru">Gárdonyi Géza utca 6.</mezo>
+<mezo id = "pteru">GÃ¡rdonyi GÃ©za utca 6.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20110307</mezo>
 <mezo id = "valtk">20110307</mezo>
@@ -838,9 +838,9 @@
 </alrovat>
 <alrovat id = "200">
 <mezo id = "hattol">20110307</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Tóth Péter</mezo>
-<mezo id = "panev">Jánka Zsuzsanna</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">TÃ³th PÃ©ter</mezo>
+<mezo id = "panev">JÃ¡nka Zsuzsanna</mezo>
 <mezo id = "pirsz">1065</mezo>
 <mezo id = "phely">Budapest</mezo>
 <mezo id = "pteru">Bajcsy-Zsilinszky utca 33.</mezo>
@@ -852,12 +852,12 @@
 </alrovat>
 <alrovat id = "201">
 <mezo id = "hattol">20110421</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Bács Zalán</mezo>
-<mezo id = "panev">Pallagi Irén</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">BÃ¡cs ZalÃ¡n</mezo>
+<mezo id = "panev">Pallagi IrÃ©n</mezo>
 <mezo id = "pirsz">2081</mezo>
 <mezo id = "phely">Piliscsaba</mezo>
-<mezo id = "pteru">Bérc köz 20/43.</mezo>
+<mezo id = "pteru">BÃ©rc kÃ¶z 20/43.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20110421</mezo>
 <mezo id = "jogvv">20140421</mezo>
@@ -870,16 +870,16 @@
 <alrovat id = "7">
 <mezo id = "hattol">20110421</mezo>
 <mezo id = "cgjsz">0109267553</mezo>
-<mezo id = "nev">Ernst &amp; Young Könyvvizsgáló Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Ernst &amp; Young KÃ¶nyvvizsgÃ¡lÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1132</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Váci út 20.</mezo>
-<mezo id = "pnev">Havas István</mezo>
-<mezo id = "panev">Faragó Anna</mezo>
+<mezo id = "teru">VÃ¡ci Ãºt 20.</mezo>
+<mezo id = "pnev">Havas IstvÃ¡n</mezo>
+<mezo id = "panev">FaragÃ³ Anna</mezo>
 <mezo id = "pirsz">1021</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Széher út 10.</mezo>
+<mezo id = "pteru">SzÃ©her Ãºt 10.</mezo>
 <mezo id = "jogvk">20110421</mezo>
 <mezo id = "jogvv">20120302</mezo>
 <mezo id = "valtk">20110421</mezo>
@@ -889,8 +889,8 @@
 <rovat id = "15">
 <alrovat id = "25">
 <mezo id = "hattol">20100913</mezo>
-<mezo id = "pnev">Dr. Stumpf János</mezo>
-<mezo id = "panev">Stumpf Mária</mezo>
+<mezo id = "pnev">Dr. Stumpf JÃ¡nos</mezo>
+<mezo id = "panev">Stumpf MÃ¡ria</mezo>
 <mezo id = "jogvk">20100914</mezo>
 <mezo id = "jogvv">20130914</mezo>
 <mezo id = "valtk">20100913</mezo>
@@ -898,8 +898,8 @@
 </alrovat>
 <alrovat id = "27">
 <mezo id = "hattol">20100913</mezo>
-<mezo id = "pnev">Dr. Vörös József</mezo>
-<mezo id = "panev">Varga Teréz Julianna</mezo>
+<mezo id = "pnev">Dr. VÃ¶rÃ¶s JÃ³zsef</mezo>
+<mezo id = "panev">Varga TerÃ©z Julianna</mezo>
 <mezo id = "jogvk">20100914</mezo>
 <mezo id = "jogvv">20130914</mezo>
 <mezo id = "valtk">20100913</mezo>
@@ -907,11 +907,11 @@
 </alrovat>
 <alrovat id = "28">
 <mezo id = "hattol">20110421</mezo>
-<mezo id = "pnev">Károly Imre</mezo>
+<mezo id = "pnev">KÃ¡roly Imre</mezo>
 <mezo id = "panev">Kele Ilona</mezo>
 <mezo id = "pirsz">2120</mezo>
 <mezo id = "phely">Dunakeszi</mezo>
-<mezo id = "pteru">Gárdonyi Géza utca 6.</mezo>
+<mezo id = "pteru">GÃ¡rdonyi GÃ©za utca 6.</mezo>
 <mezo id = "jogvk">20110421</mezo>
 <mezo id = "jogvv">20140420</mezo>
 <mezo id = "valtk">20110421</mezo>
@@ -919,11 +919,11 @@
 </alrovat>
 <alrovat id = "29">
 <mezo id = "hattol">20110421</mezo>
-<mezo id = "pnev">Dr. Juhász Albin</mezo>
-<mezo id = "panev">Gémesi Katalin</mezo>
+<mezo id = "pnev">Dr. JuhÃ¡sz Albin</mezo>
+<mezo id = "panev">GÃ©mesi Katalin</mezo>
 <mezo id = "pirsz">2500</mezo>
 <mezo id = "phely">Esztergom</mezo>
-<mezo id = "pteru">Pöltenberg utca 27.</mezo>
+<mezo id = "pteru">PÃ¶ltenberg utca 27.</mezo>
 <mezo id = "jogvk">20110421</mezo>
 <mezo id = "jogvv">20140421</mezo>
 <mezo id = "valtk">20110421</mezo>
@@ -965,17 +965,17 @@
 <mezo id = "adosz">12550753244</mezo>
 <mezo id = "kadosz">HU12550753</mezo>
 <mezo id = "bkelt">20110526</mezo>
-<mezo id = "megj">Adószám státusza: érvényes adószám</mezo>
+<mezo id = "megj">AdÃ³szÃ¡m stÃ¡tusza: Ã©rvÃ©nyes adÃ³szÃ¡m</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0110">
 <alrovat id = "4">
 <mezo id = "hattol">20050913</mezo>
 <mezo id = "cgjsz">110041828</mezo>
-<mezo id = "nev">Magyar Villamos Mûvek Részvénytársaság</mezo>
+<mezo id = "nev">Magyar Villamos MÅ±vek RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1011</mezo>
-<mezo id = "hely">Budapest I. Vám u. 5-7</mezo>
+<mezo id = "hely">Budapest I. VÃ¡m u. 5-7</mezo>
 <mezo id = "k">x</mezo>
 </alrovat>
 </rovat>
@@ -988,169 +988,169 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2000. 11. 08-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-05. 1014 Budapest, Petermenn bíró u. 5-7.<ujsor/>
- Törölve: 2000. 11. 08-i hatállyal.<ujsor/>
- 1014 Budapest, Petermann bíró u. 5-7.<ujsor/>
- Hatályos: 2000. 11. 08-tól.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2000. 11. 08-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+05. 1014 Budapest, Petermenn bÃ­rÃ³ u. 5-7.<ujsor/>
+ TÃ¶rÃ¶lve: 2000. 11. 08-i hatÃ¡llyal.<ujsor/>
+ 1014 Budapest, Petermann bÃ­rÃ³ u. 5-7.<ujsor/>
+ HatÃ¡lyos: 2000. 11. 08-tÃ³l.<ujsor/>
 Bejegyezve: 2001. 02. 01.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044470</mezo>
-<mezo id = "nev">MAVIR Magyar Villamosenergia-ipari Rendszerirányító Részvénytársaság</mezo>
-<mezo id = "cim">1014 Budapest, Petermann bíró u. 5-7.</mezo>
+<mezo id = "nev">MAVIR Magyar Villamosenergia-ipari RendszerirÃ¡nyÃ­tÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1014 Budapest, Petermann bÃ­rÃ³ u. 5-7.</mezo>
 <mezo id = "adosz">12550753241</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2002. 02. 14-én hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2002. 02. 14-Ã©n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
 08. 2002. 02. 06.<ujsor/>
- Hatályos: 2002. 02. 14-tõl.<ujsor/>
+ HatÃ¡lyos: 2002. 02. 14-tÅ‘l.<ujsor/>
 Bejegyezve: 2002. 02. 14.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044470</mezo>
-<mezo id = "nev">MAVIR Magyar Villamosenergia-ipari Rendszerirányító Részvénytársaság</mezo>
-<mezo id = "cim">1014 Budapest, Petermann bíró u. 5-7.</mezo>
+<mezo id = "nev">MAVIR Magyar Villamosenergia-ipari RendszerirÃ¡nyÃ­tÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1014 Budapest, Petermann bÃ­rÃ³ u. 5-7.</mezo>
 <mezo id = "adosz">12550753241</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2002. 07. 11-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-A 13. rovatba bejegyzett személyek téves törlõ dátuma 2002. március 27., helyesen: 2002. június 14.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2002. 07. 11-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+A 13. rovatba bejegyzett szemÃ©lyek tÃ©ves tÃ¶rlÅ‘ dÃ¡tuma 2002. mÃ¡rcius 27., helyesen: 2002. jÃºnius 14.<ujsor/>
 Bejegyezve: 2002. 08. 01.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044470</mezo>
-<mezo id = "nev">MAVIR Magyar Villamosenergia-ipari Rendszerirányító Részvénytársaság</mezo>
-<mezo id = "cim">1014 Budapest, Petermann bíró u. 5-7.</mezo>
+<mezo id = "nev">MAVIR Magyar Villamosenergia-ipari RendszerirÃ¡nyÃ­tÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1014 Budapest, Petermann bÃ­rÃ³ u. 5-7.</mezo>
 <mezo id = "adosz">12550753241</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2002. 07. 11-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. Dr. Tombor Antal (an: Regõs Magdolna) elnök-vezérigazgató<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2002. 07. 11-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. Dr. Tombor Antal (an: RegÅ‘s Magdolna) elnÃ¶k-vezÃ©rigazgatÃ³<ujsor/>
 1124 Budapest, Fodor utca 72.<ujsor/>
- Törölve: 2002. 03. 27-i hatállyal.<ujsor/>
- Dr. Tombor Antal (an: Regõs Magdolna) elnök-vezérigazgató<ujsor/>
+ TÃ¶rÃ¶lve: 2002. 03. 27-i hatÃ¡llyal.<ujsor/>
+ Dr. Tombor Antal (an: RegÅ‘s Magdolna) elnÃ¶k-vezÃ©rigazgatÃ³<ujsor/>
 1124 Budapest, Fodor utca 72.<ujsor/>
- Hatályos: 2002. 06. 14-tõl.<ujsor/>
+ HatÃ¡lyos: 2002. 06. 14-tÅ‘l.<ujsor/>
 Bejegyezve: 2002. 08. 01.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044470</mezo>
-<mezo id = "nev">MAVIR Magyar Villamosenergia-ipari Rendszerirányító Részvénytársaság</mezo>
-<mezo id = "cim">1014 Budapest, Petermann bíró u. 5-7.</mezo>
+<mezo id = "nev">MAVIR Magyar Villamosenergia-ipari RendszerirÃ¡nyÃ­tÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1014 Budapest, Petermann bÃ­rÃ³ u. 5-7.</mezo>
 <mezo id = "adosz">12550753241</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az Állami Privatizációs és Vagyonkezelõ Részvénytársaság (cégjegyzékszáma: [01 10 042051]; 1133 Budapest, Pozsonyi út 56.) a Gazdasági társaságokról szóló 1997. évi CXLIV. törvény 292. § (1) bekezdése alapján közzéteszi, hogy a MAVIR Magyar Villamosenergia-ipari Rendszerirányító Részvénytársaságban (cégjegyzékszáma: [01 10 044470]; székhelye: 1014 Budapest, Petermann bíró u. 5­7.) 2005. július 28-án 99,99%-os (kilencvenkilenc egész kilencvenkilenc század százalékos) közvetlen irányítást biztosító befolyást szerzett.<ujsor/>
-A hitelezõk a Gt. 296. § (2) bekezdésében foglalt jogaikat gyakorolhatják.<ujsor/>
+<mezo id = "szoveg">Az Ãllami PrivatizÃ¡ciÃ³s Ã©s VagyonkezelÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (cÃ©gjegyzÃ©kszÃ¡ma: [01 10 042051]; 1133 Budapest, Pozsonyi Ãºt 56.) a GazdasÃ¡gi tÃ¡rsasÃ¡gokrÃ³l szÃ³lÃ³ 1997. Ã©vi CXLIV. tÃ¶rvÃ©ny 292. Â§ (1) bekezdÃ©se alapjÃ¡n kÃ¶zzÃ©teszi, hogy a MAVIR Magyar Villamosenergia-ipari RendszerirÃ¡nyÃ­tÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡gban (cÃ©gjegyzÃ©kszÃ¡ma: [01 10 044470]; szÃ©khelye: 1014 Budapest, Petermann bÃ­rÃ³ u. 5Â­7.) 2005. jÃºlius 28-Ã¡n 99,99%-os (kilencvenkilenc egÃ©sz kilencvenkilenc szÃ¡zad szÃ¡zalÃ©kos) kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡st szerzett.<ujsor/>
+A hitelezÅ‘k a Gt. 296. Â§ (2) bekezdÃ©sÃ©ben foglalt jogaikat gyakorolhatjÃ¡k.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044470</mezo>
-<mezo id = "nev">MAVIR Magyar Villamosenergia-ipari Rendszerirányító Részvénytársaság</mezo>
+<mezo id = "nev">MAVIR Magyar Villamosenergia-ipari RendszerirÃ¡nyÃ­tÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1014 Budapest</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Magyar Villamos Mûvek Részvénytársaság (cégjegyzékszáma: [01 10 041828]; székhelye. 1011 Budapest, Vám u. 5­7.) a Gazdasági társaságokról szóló 1997. évi CXLIV. törvény 292. § (1) bekezdése alapján közzéteszi, hogy a MAVIR Magyar Villamosenergia-ipari Rendszerirányító Részvénytársaságban (cégjegyzékszáma: [01 10 044470]; székhelye: 1014 Budapest, Petermann bíró u. 5­7.) 2005. szeptember 7-én, 99,99%-os, közvetlen irányítást biztosító befolyást szerzett.<ujsor/>
-A hitelezõk a Gt. 296. § (2) bekezdésében foglalt jogaikat gyakorolhatják.<ujsor/>
+<mezo id = "szoveg">A Magyar Villamos MÅ±vek RÃ©szvÃ©nytÃ¡rsasÃ¡g (cÃ©gjegyzÃ©kszÃ¡ma: [01 10 041828]; szÃ©khelye. 1011 Budapest, VÃ¡m u. 5Â­7.) a GazdasÃ¡gi tÃ¡rsasÃ¡gokrÃ³l szÃ³lÃ³ 1997. Ã©vi CXLIV. tÃ¶rvÃ©ny 292. Â§ (1) bekezdÃ©se alapjÃ¡n kÃ¶zzÃ©teszi, hogy a MAVIR Magyar Villamosenergia-ipari RendszerirÃ¡nyÃ­tÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡gban (cÃ©gjegyzÃ©kszÃ¡ma: [01 10 044470]; szÃ©khelye: 1014 Budapest, Petermann bÃ­rÃ³ u. 5Â­7.) 2005. szeptember 7-Ã©n, 99,99%-os, kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡st szerzett.<ujsor/>
+A hitelezÅ‘k a Gt. 296. Â§ (2) bekezdÃ©sÃ©ben foglalt jogaikat gyakorolhatjÃ¡k.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044470</mezo>
-<mezo id = "nev">MAVIR Magyar Villamosenergia-ipari Rendszerirányító Részvénytársaság</mezo>
+<mezo id = "nev">MAVIR Magyar Villamosenergia-ipari RendszerirÃ¡nyÃ­tÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1014 Budapest</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Tanúsítvány a nem pénzbeli hozzájárulás (apport) értékérõl<ujsor/>
-A Magyar Villamos Mûvek Rt. (Cg.: [01 10 041828]; székhely: 1011 Budapest, Vám u. 5­7.; továbbiakban: „MVM Rt.”) és a Deloitte Könyvvizsgáló és Tanácsadó Kft. között 2005. augusztus 2-án létrejött megbízási szerzõdésnek megfelelõen elvégeztük a Magyar Villamosenergia-ipari Rendszerirányító ZRt. (Cg.: [01 10 044470]; székhely: 1014 Budapest, Petermann bíró u. 5­7.; továbbiakban: „MAVIR ZRt.”) részére apportálandó eszközök vagyonértékelését.<ujsor/>
-A MAVIR ZRt. alaptõkéjének nem pénzbeli hozzájárulással történõ felemelése során az apport tárgya: a villamosenergia átviteli hálózati rendszer elemei, vagyontárgyai, kapcsolódó eszközei. A részletes apportlista rendkívül terjedelmes, a Fõvárosi Bírósághoz mint Cégbírósághoz beadott kérelmünk részeként bárki számára szabadon megtekinthetõ.<ujsor/>
-Értelmezésünk szerint az MVM ZRt. ezen eszközök apportjával (továbbiakban: „apport”) tõkeemelést kíván végrehajtani a MAVIR ZRt.-nél. Az értékelés célja így a Gazdasági társaságokról szóló 1997. évi CXLIV. törvény 208. §-ának (1) bekezdésében foglaltaknak megfelelõen az ellentételezésként adandó MAVIR ZRt. részvények darabszáma és névértéke figyelembevételével az apport értéke megfelelõségének megállapítása.<ujsor/>
-Az elvégzett számítások, a felhasznált feltételezések és értékelési módszerek alapján ­ amelyekrõl 2005. december 16-i dátummal értékelési jelentést állítottunk ki ­ megállapítható, hogy az apport értéke 2005. december 16-án eléri a 140 673 500 000 forintot (egyszáznegyvenmilliárd-hatszázhetvenhárommillió-ötszázezer forintot), amely megegyezik az MVM ZRt. 2005. szeptember 23-i közgyûlése 58/2005. (X. 21.) határozattal elfogadott, a MAVIR ZRt. alaptõke-emelésére vonatkozó szándéknyilatkozat-tervezetben szereplõ, a MAVIR ZRt. 14 067 350 db, 10 000 forint névértékû, „A” sorozatú részvényének együttes névértékével.<ujsor/>
+<mezo id = "szoveg">TanÃºsÃ­tvÃ¡ny a nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s (apport) Ã©rtÃ©kÃ©rÅ‘l<ujsor/>
+A Magyar Villamos MÅ±vek Rt. (Cg.: [01 10 041828]; szÃ©khely: 1011 Budapest, VÃ¡m u. 5Â­7.; tovÃ¡bbiakban: â€MVM Rt.â€) Ã©s a Deloitte KÃ¶nyvvizsgÃ¡lÃ³ Ã©s TanÃ¡csadÃ³ Kft. kÃ¶zÃ¶tt 2005. augusztus 2-Ã¡n lÃ©trejÃ¶tt megbÃ­zÃ¡si szerzÅ‘dÃ©snek megfelelÅ‘en elvÃ©geztÃ¼k a Magyar Villamosenergia-ipari RendszerirÃ¡nyÃ­tÃ³ ZRt. (Cg.: [01 10 044470]; szÃ©khely: 1014 Budapest, Petermann bÃ­rÃ³ u. 5Â­7.; tovÃ¡bbiakban: â€MAVIR ZRt.â€) rÃ©szÃ©re apportÃ¡landÃ³ eszkÃ¶zÃ¶k vagyonÃ©rtÃ©kelÃ©sÃ©t.<ujsor/>
+A MAVIR ZRt. alaptÅ‘kÃ©jÃ©nek nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡ssal tÃ¶rtÃ©nÅ‘ felemelÃ©se sorÃ¡n az apport tÃ¡rgya: a villamosenergia Ã¡tviteli hÃ¡lÃ³zati rendszer elemei, vagyontÃ¡rgyai, kapcsolÃ³dÃ³ eszkÃ¶zei. A rÃ©szletes apportlista rendkÃ­vÃ¼l terjedelmes, a FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡ghoz mint CÃ©gbÃ­rÃ³sÃ¡ghoz beadott kÃ©relmÃ¼nk rÃ©szekÃ©nt bÃ¡rki szÃ¡mÃ¡ra szabadon megtekinthetÅ‘.<ujsor/>
+Ã‰rtelmezÃ©sÃ¼nk szerint az MVM ZRt. ezen eszkÃ¶zÃ¶k apportjÃ¡val (tovÃ¡bbiakban: â€apportâ€) tÅ‘keemelÃ©st kÃ­vÃ¡n vÃ©grehajtani a MAVIR ZRt.-nÃ©l. Az Ã©rtÃ©kelÃ©s cÃ©lja Ã­gy a GazdasÃ¡gi tÃ¡rsasÃ¡gokrÃ³l szÃ³lÃ³ 1997. Ã©vi CXLIV. tÃ¶rvÃ©ny 208. Â§-Ã¡nak (1) bekezdÃ©sÃ©ben foglaltaknak megfelelÅ‘en az ellentÃ©telezÃ©skÃ©nt adandÃ³ MAVIR ZRt. rÃ©szvÃ©nyek darabszÃ¡ma Ã©s nÃ©vÃ©rtÃ©ke figyelembevÃ©telÃ©vel az apport Ã©rtÃ©ke megfelelÅ‘sÃ©gÃ©nek megÃ¡llapÃ­tÃ¡sa.<ujsor/>
+Az elvÃ©gzett szÃ¡mÃ­tÃ¡sok, a felhasznÃ¡lt feltÃ©telezÃ©sek Ã©s Ã©rtÃ©kelÃ©si mÃ³dszerek alapjÃ¡n Â­ amelyekrÅ‘l 2005. december 16-i dÃ¡tummal Ã©rtÃ©kelÃ©si jelentÃ©st Ã¡llÃ­tottunk ki Â­ megÃ¡llapÃ­thatÃ³, hogy az apport Ã©rtÃ©ke 2005. december 16-Ã¡n elÃ©ri a 140 673 500 000 forintot (egyszÃ¡znegyvenmilliÃ¡rd-hatszÃ¡zhetvenhÃ¡rommilliÃ³-Ã¶tszÃ¡zezer forintot), amely megegyezik az MVM ZRt. 2005. szeptember 23-i kÃ¶zgyÅ±lÃ©se 58/2005. (X. 21.) hatÃ¡rozattal elfogadott, a MAVIR ZRt. alaptÅ‘ke-emelÃ©sÃ©re vonatkozÃ³ szÃ¡ndÃ©knyilatkozat-tervezetben szereplÅ‘, a MAVIR ZRt. 14 067 350 db, 10 000 forint nÃ©vÃ©rtÃ©kÅ±, â€Aâ€ sorozatÃº rÃ©szvÃ©nyÃ©nek egyÃ¼ttes nÃ©vÃ©rtÃ©kÃ©vel.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044470</mezo>
-<mezo id = "nev">MAVIR Magyar Villamosenergia-ipari Rendszerirányító Részvénytársaság</mezo>
+<mezo id = "nev">MAVIR Magyar Villamosenergia-ipari RendszerirÃ¡nyÃ­tÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1014 Budapest</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A MAVIR Magyar Villamosenergia-ipari Rendszerirányító Zártkörûen Mûködõ Részvénytársaság (cégjegyzékszám: [01 10 044470]; MAVIR ZRt.; székhely: 1014 Budapest, Petermann bíró u. 5­7.) 2005. október 28-án megtartott közgyûlése elhatározta, a MAVIR ZRt. alaptõkéjének 140 673 500 000 Ft-tal (egyszáznegyvenmilliárd-hatszázhetvenhárommillió-ötszázezer forinttal), nyomdai úton elõállítandó új részvények zártkörû kibocsátásával történõ megemelését.<ujsor/>
-Az alaptõke-emelés módja: a társaság közvetlen irányítását ellátó Magyar Villamos Mûvek Zrt. (cégjegyzékszáma: [01 10 041828]; székhely: 1011 Budapest, Vám u. 5­7.) által részvényesi apport rendelkezésre bocsátása.<ujsor/>
-Az alaptõke-emelés során 14 067 350 darab, 10 000 Ft (tízezer forint) névértékû ­ 1 db összevont címletû ­ új törzsrészvény kibocsátására kerül sor. A kibocsátásra kerülõ új részvények<ujsor/>
-fajtája: törzsrészvény,<ujsor/>
-típusa: névre szóló,<ujsor/>
-sorozata: „A”.<ujsor/>
-A részvények kibocsátási ára megegyezik a részvények névértékével. A kibocsátásra kerülõ új részvényeket lejegyzõ részvényes az általa átvenni kívánt részvények ellentételezéseként köteles az apportot a 2006. január 1-jével a társaság rendelkezésére bocsátani.<ujsor/>
-A közgyûlés feljogosította ­ a Magyar Villamos Mûvek Zrt. részvényest 14 067 350 darab 10 000 Ft-os névértékû, 1 db összevont címletû, névre szóló, „A” sorozatú, nyomdai úton elõállított törzsrészvény névértékkel azonos kibocsátási értéken történõ átvételére.<ujsor/>
-Az apport részletes leírását az apportlista tartalmazza. Az apport tárgya: a villamosenergia átviteli hálózati rendszer elemei, vagyontárgyai, kapcsolódó eszközei. Az apport értékének megállapítására a Gt. 208. § (1) bekezdés szerint az elõzetes értékelést végzõ könyvvizsgáló (Deloitte Könyvvizsgáló és Tanácsadó Kft.; a könyvvizsgálatért személyében felelõs: dr. Ladó Judit könyvvizsgáló; székhelye: 1068 Budapest, Dózsa György út 84/C) jelentése alapján került sor.<ujsor/>
-A MAVIR ZRt. közgyûlése felhatalmazta a társaság igazgatóságát, hogy az apport rendelkezésre bocsátását, az MVM Zrt. átvételre vonatkozó kötelezettségvállalásának hatálybalépését követõen és a vonatkozó közgyûlési határozat szerint a részvények nyomdai úton történõ elõállítása érdekében a szükséges intézkedéseket tegye meg.<ujsor/>
-A MAVIR ZRt. 2005. december 28-án megtartott közgyûlése az alaptõke emelésrõl hozott 2005. október 28-ai közgyûlési határozatokat 2005. december 28-án hatályba léptette.<ujsor/>
+<mezo id = "szoveg">A MAVIR Magyar Villamosenergia-ipari RendszerirÃ¡nyÃ­tÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (cÃ©gjegyzÃ©kszÃ¡m: [01 10 044470]; MAVIR ZRt.; szÃ©khely: 1014 Budapest, Petermann bÃ­rÃ³ u. 5Â­7.) 2005. oktÃ³ber 28-Ã¡n megtartott kÃ¶zgyÅ±lÃ©se elhatÃ¡rozta, a MAVIR ZRt. alaptÅ‘kÃ©jÃ©nek 140 673 500 000 Ft-tal (egyszÃ¡znegyvenmilliÃ¡rd-hatszÃ¡zhetvenhÃ¡rommilliÃ³-Ã¶tszÃ¡zezer forinttal), nyomdai Ãºton elÅ‘Ã¡llÃ­tandÃ³ Ãºj rÃ©szvÃ©nyek zÃ¡rtkÃ¶rÅ± kibocsÃ¡tÃ¡sÃ¡val tÃ¶rtÃ©nÅ‘ megemelÃ©sÃ©t.<ujsor/>
+Az alaptÅ‘ke-emelÃ©s mÃ³dja: a tÃ¡rsasÃ¡g kÃ¶zvetlen irÃ¡nyÃ­tÃ¡sÃ¡t ellÃ¡tÃ³ Magyar Villamos MÅ±vek Zrt. (cÃ©gjegyzÃ©kszÃ¡ma: [01 10 041828]; szÃ©khely: 1011 Budapest, VÃ¡m u. 5Â­7.) Ã¡ltal rÃ©szvÃ©nyesi apport rendelkezÃ©sre bocsÃ¡tÃ¡sa.<ujsor/>
+Az alaptÅ‘ke-emelÃ©s sorÃ¡n 14 067 350 darab, 10 000 Ft (tÃ­zezer forint) nÃ©vÃ©rtÃ©kÅ± Â­ 1 db Ã¶sszevont cÃ­mletÅ± Â­ Ãºj tÃ¶rzsrÃ©szvÃ©ny kibocsÃ¡tÃ¡sÃ¡ra kerÃ¼l sor. A kibocsÃ¡tÃ¡sra kerÃ¼lÅ‘ Ãºj rÃ©szvÃ©nyek<ujsor/>
+fajtÃ¡ja: tÃ¶rzsrÃ©szvÃ©ny,<ujsor/>
+tÃ­pusa: nÃ©vre szÃ³lÃ³,<ujsor/>
+sorozata: â€Aâ€.<ujsor/>
+A rÃ©szvÃ©nyek kibocsÃ¡tÃ¡si Ã¡ra megegyezik a rÃ©szvÃ©nyek nÃ©vÃ©rtÃ©kÃ©vel. A kibocsÃ¡tÃ¡sra kerÃ¼lÅ‘ Ãºj rÃ©szvÃ©nyeket lejegyzÅ‘ rÃ©szvÃ©nyes az Ã¡ltala Ã¡tvenni kÃ­vÃ¡nt rÃ©szvÃ©nyek ellentÃ©telezÃ©sekÃ©nt kÃ¶teles az apportot a 2006. januÃ¡r 1-jÃ©vel a tÃ¡rsasÃ¡g rendelkezÃ©sÃ©re bocsÃ¡tani.<ujsor/>
+A kÃ¶zgyÅ±lÃ©s feljogosÃ­totta Â­ a Magyar Villamos MÅ±vek Zrt. rÃ©szvÃ©nyest 14 067 350 darab 10 000 Ft-os nÃ©vÃ©rtÃ©kÅ±, 1 db Ã¶sszevont cÃ­mletÅ±, nÃ©vre szÃ³lÃ³, â€Aâ€ sorozatÃº, nyomdai Ãºton elÅ‘Ã¡llÃ­tott tÃ¶rzsrÃ©szvÃ©ny nÃ©vÃ©rtÃ©kkel azonos kibocsÃ¡tÃ¡si Ã©rtÃ©ken tÃ¶rtÃ©nÅ‘ Ã¡tvÃ©telÃ©re.<ujsor/>
+Az apport rÃ©szletes leÃ­rÃ¡sÃ¡t az apportlista tartalmazza. Az apport tÃ¡rgya: a villamosenergia Ã¡tviteli hÃ¡lÃ³zati rendszer elemei, vagyontÃ¡rgyai, kapcsolÃ³dÃ³ eszkÃ¶zei. Az apport Ã©rtÃ©kÃ©nek megÃ¡llapÃ­tÃ¡sÃ¡ra a Gt. 208. Â§ (1) bekezdÃ©s szerint az elÅ‘zetes Ã©rtÃ©kelÃ©st vÃ©gzÅ‘ kÃ¶nyvvizsgÃ¡lÃ³ (Deloitte KÃ¶nyvvizsgÃ¡lÃ³ Ã©s TanÃ¡csadÃ³ Kft.; a kÃ¶nyvvizsgÃ¡latÃ©rt szemÃ©lyÃ©ben felelÅ‘s: dr. LadÃ³ Judit kÃ¶nyvvizsgÃ¡lÃ³; szÃ©khelye: 1068 Budapest, DÃ³zsa GyÃ¶rgy Ãºt 84/C) jelentÃ©se alapjÃ¡n kerÃ¼lt sor.<ujsor/>
+A MAVIR ZRt. kÃ¶zgyÅ±lÃ©se felhatalmazta a tÃ¡rsasÃ¡g igazgatÃ³sÃ¡gÃ¡t, hogy az apport rendelkezÃ©sre bocsÃ¡tÃ¡sÃ¡t, az MVM Zrt. Ã¡tvÃ©telre vonatkozÃ³ kÃ¶telezettsÃ©gvÃ¡llalÃ¡sÃ¡nak hatÃ¡lybalÃ©pÃ©sÃ©t kÃ¶vetÅ‘en Ã©s a vonatkozÃ³ kÃ¶zgyÅ±lÃ©si hatÃ¡rozat szerint a rÃ©szvÃ©nyek nyomdai Ãºton tÃ¶rtÃ©nÅ‘ elÅ‘Ã¡llÃ­tÃ¡sa Ã©rdekÃ©ben a szÃ¼ksÃ©ges intÃ©zkedÃ©seket tegye meg.<ujsor/>
+A MAVIR ZRt. 2005. december 28-Ã¡n megtartott kÃ¶zgyÅ±lÃ©se az alaptÅ‘ke emelÃ©srÅ‘l hozott 2005. oktÃ³ber 28-ai kÃ¶zgyÅ±lÃ©si hatÃ¡rozatokat 2005. december 28-Ã¡n hatÃ¡lyba lÃ©ptette.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044470</mezo>
-<mezo id = "nev">MAVIR Magyar Villamosenergia-ipari Rendszerirányító Részvénytársaság</mezo>
+<mezo id = "nev">MAVIR Magyar Villamosenergia-ipari RendszerirÃ¡nyÃ­tÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1014 Budapest</mezo>
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2008. 09. 03-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (vezérigazgató).<ujsor/>
- Tari Gábor (an: Gyõri Magdolna)<ujsor/>
-1039 Budapest, Batthyány utca 22.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2008. 09. 03-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (vezÃ©rigazgatÃ³).<ujsor/>
+ Tari GÃ¡bor (an: GyÅ‘ri Magdolna)<ujsor/>
+1039 Budapest, BatthyÃ¡ny utca 22.<ujsor/>
  A jogviszony kezdete: 2008. 07. 11.<ujsor/>
- A változás idõpontja: 2008. 07. 11.<ujsor/>
- A változás idõpontja (törlés): 2008. 07. 11.<ujsor/>
- Törölve: 2008. 07. 11.<ujsor/>
- A képviselet módja: önálló.<ujsor/>
- Tari Gábor (an: Gyõri Magdolna) ig.tag vezérigazgatói címmel<ujsor/>
-1039 Budapest, Batthyány u. 22.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 07. 11.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2008. 07. 11.<ujsor/>
+ TÃ¶rÃ¶lve: 2008. 07. 11.<ujsor/>
+ A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ Tari GÃ¡bor (an: GyÅ‘ri Magdolna) ig.tag vezÃ©rigazgatÃ³i cÃ­mmel<ujsor/>
+1039 Budapest, BatthyÃ¡ny u. 22.<ujsor/>
  A jogviszony kezdete: 2008. 07. 11.<ujsor/>
- A változás idõpontja: 2008. 07. 11.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 07. 11.<ujsor/>
  Bejegyezve: 2008. 07. 11.<ujsor/>
 2008. 09. 03.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044470</mezo>
-<mezo id = "nev">MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">1014 Budapest, Petermann bíró u. 5-7.</mezo>
+<mezo id = "nev">MAVIR Magyar Villamosenergia-ipari Ãtviteli RendszerirÃ¡nyÃ­tÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1014 Budapest, Petermann bÃ­rÃ³ u. 5-7.</mezo>
 <mezo id = "adosz">12550753244</mezo>
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság a Cg.01-10-044470 cégjegyzékszámon bejegyzett MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörûen Mûködõ Részvénytársaság (1031 Budapest, Anikó utca 4.; adószáma: 12550753-2-44) ügyében az 2009. június 15. napján hozott Cg.01-10-044470/236. számú végzését hivatalból kiegészíteni rendeli az alábbiak szerint:<ujsor/>
-5. A cég székhelye<ujsor/>
-1014 Budapest, Petermann bíró u 5-7.<ujsor/>
-Vált. vége: 2009.06.01.<ujsor/>
-Törölve (végzés kelte): 2009. június 16.<ujsor/>
-A végzés ellen fellebbezésnek helye nincs.<ujsor/>
-2009. június 16.<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.01-10-044470 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett MAVIR Magyar Villamosenergia-ipari Ãtviteli RendszerirÃ¡nyÃ­tÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (1031 Budapest, AnikÃ³ utca 4.; adÃ³szÃ¡ma: 12550753-2-44) Ã¼gyÃ©ben az 2009. jÃºnius 15. napjÃ¡n hozott Cg.01-10-044470/236. szÃ¡mÃº vÃ©gzÃ©sÃ©t hivatalbÃ³l kiegÃ©szÃ­teni rendeli az alÃ¡bbiak szerint:<ujsor/>
+5. A cÃ©g szÃ©khelye<ujsor/>
+1014 Budapest, Petermann bÃ­rÃ³ u 5-7.<ujsor/>
+VÃ¡lt. vÃ©ge: 2009.06.01.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2009. jÃºnius 16.<ujsor/>
+A vÃ©gzÃ©s ellen fellebbezÃ©snek helye nincs.<ujsor/>
+2009. jÃºnius 16.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044470</mezo>
-<mezo id = "nev">MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">1031 Budapest, Anikó utca 4.</mezo>
+<mezo id = "nev">MAVIR Magyar Villamosenergia-ipari Ãtviteli RendszerirÃ¡nyÃ­tÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1031 Budapest, AnikÃ³ utca 4.</mezo>
 <mezo id = "adosz">12550753244</mezo>
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság a Cg.01-10-044470 cégjegyzékszámon bejegyzett MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörûen Mûködõ Részvénytársaság (1031 Budapest, Anikó utca 4.; adószáma: 12550753-2-44) ügyében az 2010. november 29. napján hozott Cg.01-10-044470/271. számú végzését hivatalból kiegészíteni rendeli az alábbiak szerint:<ujsor/>
-13. A képviseletre jogosult(ak) adatai<ujsor/>
-A képviselet módja: együttes.<ujsor/>
-Adóazonosító jel: 8291852227<ujsor/>
-dr. Várkonyi Péter más munkavállaló (an.: Szemethy Mária)<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.01-10-044470 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett MAVIR Magyar Villamosenergia-ipari Ãtviteli RendszerirÃ¡nyÃ­tÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (1031 Budapest, AnikÃ³ utca 4.; adÃ³szÃ¡ma: 12550753-2-44) Ã¼gyÃ©ben az 2010. november 29. napjÃ¡n hozott Cg.01-10-044470/271. szÃ¡mÃº vÃ©gzÃ©sÃ©t hivatalbÃ³l kiegÃ©szÃ­teni rendeli az alÃ¡bbiak szerint:<ujsor/>
+13. A kÃ©pviseletre jogosult(ak) adatai<ujsor/>
+A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+AdÃ³azonosÃ­tÃ³ jel: 8291852227<ujsor/>
+dr. VÃ¡rkonyi PÃ©ter mÃ¡s munkavÃ¡llalÃ³ (an.: Szemethy MÃ¡ria)<ujsor/>
 Jogv. kezdete: 2001.01.09.<ujsor/>
-Vált. vége: 2010.10.26.<ujsor/>
-Törölve (végzés kelte): 2010. november 30.<ujsor/>
+VÃ¡lt. vÃ©ge: 2010.10.26.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2010. november 30.<ujsor/>
 2010. november 30.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044470</mezo>
-<mezo id = "nev">MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">1031 Budapest, Anikó utca 4.</mezo>
+<mezo id = "nev">MAVIR Magyar Villamosenergia-ipari Ãtviteli RendszerirÃ¡nyÃ­tÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1031 Budapest, AnikÃ³ utca 4.</mezo>
 <mezo id = "adosz">12550753244</mezo>
 </alrovat>
 </rovat>

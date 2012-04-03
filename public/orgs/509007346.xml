@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">007346</mezo>
 <mezo id = "nevalrovat">2</mezo>
-<mezo id = "cim">3571 Alsózsolca, Gyár u. 3 </mezo>
+<mezo id = "cim">3571 AlsÃ³zsolca, GyÃ¡r u. 3 </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">11758219405</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20000711</mezo>
-<mezo id = "nev">MAIP Miskolc-Alsózsolca Ipari Park Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">MAIP Miskolc-AlsÃ³zsolca Ipari Park KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -26,8 +26,8 @@
 <alrovat id = "1">
 <mezo id = "hattol">19980903</mezo>
 <mezo id = "irsz">3571</mezo>
-<mezo id = "hely">Alsózsolca</mezo>
-<mezo id = "teru">Gyár</mezo>
+<mezo id = "hely">AlsÃ³zsolca</mezo>
+<mezo id = "teru">GyÃ¡r</mezo>
 <mezo id = "terj">u.</mezo>
 <mezo id = "hsz">3</mezo>
 </alrovat>
@@ -217,7 +217,7 @@
 <mezo id = "hattol">20110510</mezo>
 <mezo id = "valtk">20110510</mezo>
 <mezo id = "bkelt">20110616</mezo>
-<mezo id = "teaszov">Fémáru-, szerelvény, fûtési berendezés nagykereskedelme</mezo>
+<mezo id = "teaszov">FÃ©mÃ¡ru-, szerelvÃ©ny, fÅ±tÃ©si berendezÃ©s nagykereskedelme</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -232,10 +232,10 @@
 <rovat id = "13">
 <alrovat id = "4">
 <mezo id = "hattol">20070626</mezo>
-<mezo id = "pnev">Szalai József</mezo>
-<mezo id = "panev">Gergely Erzsébet</mezo>
+<mezo id = "pnev">Szalai JÃ³zsef</mezo>
+<mezo id = "panev">Gergely ErzsÃ©bet</mezo>
 <mezo id = "pirsz">3533</mezo>
-<mezo id = "phely">Miskolc, Baráthegyalja u. 44.</mezo>
+<mezo id = "phely">Miskolc, BarÃ¡thegyalja u. 44.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">d</mezo>
 <mezo id = "jogvk">20070525</mezo>
@@ -244,9 +244,9 @@
 <mezo id = "valtv">0</mezo>
 </alrovat>
 <alrovat id = "5">
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Szalai József</mezo>
-<mezo id = "panev">Molnár Erzsébet</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Szalai JÃ³zsef</mezo>
+<mezo id = "panev">MolnÃ¡r ErzsÃ©bet</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20070525</mezo>
 <mezo id = "jogvv">20120524</mezo>
@@ -254,17 +254,17 @@
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20080307</mezo>
-<mezo id = "tiszt">cégvezetõ</mezo>
+<mezo id = "tiszt">cÃ©gvezetÅ‘</mezo>
 <mezo id = "pnev">Szalai Zsuzsanna</mezo>
-<mezo id = "panev">Gergely Erzsébet</mezo>
+<mezo id = "panev">Gergely ErzsÃ©bet</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20080307</mezo>
 <mezo id = "tkelt">20100727</mezo>
 </alrovat>
 <alrovat id = "7">
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Szalai József</mezo>
-<mezo id = "panev">Molnár Erzsébet</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Szalai JÃ³zsef</mezo>
+<mezo id = "panev">MolnÃ¡r ErzsÃ©bet</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20070525</mezo>
 <mezo id = "jogvv">20120524</mezo>
@@ -272,9 +272,9 @@
 <mezo id = "adoazon">8284623269</mezo>
 </alrovat>
 <alrovat id = "8">
-<mezo id = "tiszt">cégvezetõ</mezo>
+<mezo id = "tiszt">cÃ©gvezetÅ‘</mezo>
 <mezo id = "pnev">Szalai Zsuzsanna</mezo>
-<mezo id = "panev">Gergely Erzsébet</mezo>
+<mezo id = "panev">Gergely ErzsÃ©bet</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20080307</mezo>
 <mezo id = "bkelt">20100727</mezo>
@@ -284,11 +284,11 @@
 <rovat id = "14">
 <alrovat id = "10">
 <mezo id = "hattol">20110601</mezo>
-<mezo id = "pnev">Molnár László</mezo>
-<mezo id = "panev">Németh Erzsébet</mezo>
+<mezo id = "pnev">MolnÃ¡r LÃ¡szlÃ³</mezo>
+<mezo id = "panev">NÃ©meth ErzsÃ©bet</mezo>
 <mezo id = "pirsz">1163</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Katóka utca 43.</mezo>
+<mezo id = "pteru">KatÃ³ka utca 43.</mezo>
 <mezo id = "jogvk">20110601</mezo>
 <mezo id = "jogvv">20120531</mezo>
 <mezo id = "valtk">20110601</mezo>
@@ -305,23 +305,23 @@
 <alrovat id = "4">
 <mezo id = "adosz">11758219405</mezo>
 <mezo id = "bkelt">20110616</mezo>
-<mezo id = "megj">Adószám státusza: érvényes adószám</mezo>
+<mezo id = "megj">AdÃ³szÃ¡m stÃ¡tusza: Ã©rvÃ©nyes adÃ³szÃ¡m</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0109">
 <alrovat id = "15">
 <mezo id = "hattol">20000620</mezo>
-<mezo id = "pnev">Dr. Perecz László által képv. tulajdonközösség</mezo>
-<mezo id = "panev">Dudás Ida</mezo>
+<mezo id = "pnev">Dr. Perecz LÃ¡szlÃ³ Ã¡ltal kÃ©pv. tulajdonkÃ¶zÃ¶ssÃ©g</mezo>
+<mezo id = "panev">DudÃ¡s Ida</mezo>
 <mezo id = "pirsz">3534</mezo>
-<mezo id = "phely">Miskolc, Márton bíró u. 3.</mezo>
+<mezo id = "phely">Miskolc, MÃ¡rton bÃ­rÃ³ u. 3.</mezo>
 </alrovat>
 <alrovat id = "21">
 <mezo id = "hattol">20070626</mezo>
-<mezo id = "pnev">Hunyadi István</mezo>
-<mezo id = "panev">Molnár Erzsébet</mezo>
+<mezo id = "pnev">Hunyadi IstvÃ¡n</mezo>
+<mezo id = "panev">MolnÃ¡r ErzsÃ©bet</mezo>
 <mezo id = "pirsz">3532</mezo>
-<mezo id = "phely">Miskolc, Fadrusz János u. 23.</mezo>
+<mezo id = "phely">Miskolc, Fadrusz JÃ¡nos u. 23.</mezo>
 <mezo id = "tagsk">19980903</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">0</mezo>
@@ -329,10 +329,10 @@
 </alrovat>
 <alrovat id = "22">
 <mezo id = "hattol">20070626</mezo>
-<mezo id = "pnev">Lövei Péter</mezo>
-<mezo id = "panev">Hegedûs Ilona</mezo>
+<mezo id = "pnev">LÃ¶vei PÃ©ter</mezo>
+<mezo id = "panev">HegedÅ±s Ilona</mezo>
 <mezo id = "pirsz">3529</mezo>
-<mezo id = "phely">Miskolc, Szabadságharc u. 9.</mezo>
+<mezo id = "phely">Miskolc, SzabadsÃ¡gharc u. 9.</mezo>
 <mezo id = "tagsk">19980903</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">0</mezo>
@@ -340,10 +340,10 @@
 </alrovat>
 <alrovat id = "23">
 <mezo id = "hattol">20070626</mezo>
-<mezo id = "pnev">Szalai József</mezo>
-<mezo id = "panev">Molnár Erzsébet</mezo>
+<mezo id = "pnev">Szalai JÃ³zsef</mezo>
+<mezo id = "panev">MolnÃ¡r ErzsÃ©bet</mezo>
 <mezo id = "pirsz">3535</mezo>
-<mezo id = "phely">Miskolc, Baráthegyalja u. 44.</mezo>
+<mezo id = "phely">Miskolc, BarÃ¡thegyalja u. 44.</mezo>
 <mezo id = "tagsk">19980903</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">0</mezo>
@@ -352,9 +352,9 @@
 <alrovat id = "24">
 <mezo id = "hattol">20070626</mezo>
 <mezo id = "pnev">Szalai Zsolt</mezo>
-<mezo id = "panev">Gergely Erzsébet</mezo>
+<mezo id = "panev">Gergely ErzsÃ©bet</mezo>
 <mezo id = "pirsz">3535</mezo>
-<mezo id = "phely">Miskolc, Baráthegyalja u. 42.</mezo>
+<mezo id = "phely">Miskolc, BarÃ¡thegyalja u. 42.</mezo>
 <mezo id = "tagsk">19980903</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">0</mezo>
@@ -362,10 +362,10 @@
 </alrovat>
 <alrovat id = "25">
 <mezo id = "hattol">20070626</mezo>
-<mezo id = "pnev">Tóth Margit</mezo>
+<mezo id = "pnev">TÃ³th Margit</mezo>
 <mezo id = "panev">Kuk Anna</mezo>
 <mezo id = "pirsz">3532</mezo>
-<mezo id = "phely">Miskolc, Bokréta u. 5. 3/1.</mezo>
+<mezo id = "phely">Miskolc, BokrÃ©ta u. 5. 3/1.</mezo>
 <mezo id = "tagsk">19980903</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">0</mezo>
@@ -373,10 +373,10 @@
 </alrovat>
 <alrovat id = "26">
 <mezo id = "hattol">20070626</mezo>
-<mezo id = "pnev">Ziegler Károlyné</mezo>
-<mezo id = "panev">Csanádi Margit</mezo>
+<mezo id = "pnev">Ziegler KÃ¡rolynÃ©</mezo>
+<mezo id = "panev">CsanÃ¡di Margit</mezo>
 <mezo id = "pirsz">3533</mezo>
-<mezo id = "phely">Miskolc, Komlóstetõ u. 39. 3/1.</mezo>
+<mezo id = "phely">Miskolc, KomlÃ³stetÅ‘ u. 39. 3/1.</mezo>
 <mezo id = "tagsk">19980903</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">0</mezo>
@@ -384,10 +384,10 @@
 </alrovat>
 <alrovat id = "27">
 <mezo id = "hattol">20070626</mezo>
-<mezo id = "pnev">Dr. Perecz László ált. képv. tulajdonközösség</mezo>
-<mezo id = "panev">Dudás Ida</mezo>
+<mezo id = "pnev">Dr. Perecz LÃ¡szlÃ³ Ã¡lt. kÃ©pv. tulajdonkÃ¶zÃ¶ssÃ©g</mezo>
+<mezo id = "panev">DudÃ¡s Ida</mezo>
 <mezo id = "pirsz">3534</mezo>
-<mezo id = "phely">Miskolc, Márton bíró u. 3. 3/1.</mezo>
+<mezo id = "phely">Miskolc, MÃ¡rton bÃ­rÃ³ u. 3. 3/1.</mezo>
 <mezo id = "tagsk">20000620</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">0</mezo>
@@ -395,10 +395,10 @@
 </alrovat>
 <alrovat id = "28">
 <mezo id = "hattol">20070626</mezo>
-<mezo id = "pnev">Vojtonovszkiné Vári Adél ált. képv. tulajdonközösség</mezo>
-<mezo id = "panev">Reitter Adél Mária</mezo>
+<mezo id = "pnev">VojtonovszkinÃ© VÃ¡ri AdÃ©l Ã¡lt. kÃ©pv. tulajdonkÃ¶zÃ¶ssÃ©g</mezo>
+<mezo id = "panev">Reitter AdÃ©l MÃ¡ria</mezo>
 <mezo id = "pirsz">3534</mezo>
-<mezo id = "phely">Miskolc, Mária u. 44. 3/1.</mezo>
+<mezo id = "phely">Miskolc, MÃ¡ria u. 44. 3/1.</mezo>
 <mezo id = "tagsk">20000620</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">0</mezo>
@@ -407,10 +407,10 @@
 <alrovat id = "31">
 <mezo id = "hattol">20070626</mezo>
 <mezo id = "cgjsz">510000010</mezo>
-<mezo id = "nev">Csavar-és Húzottáru Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">Csavar-Ã©s HÃºzottÃ¡ru ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "irsz">3571</mezo>
-<mezo id = "hely">Alsózsolca</mezo>
-<mezo id = "teru">Gyár u.</mezo>
+<mezo id = "hely">AlsÃ³zsolca</mezo>
+<mezo id = "teru">GyÃ¡r u.</mezo>
 <mezo id = "hsz">3.</mezo>
 <mezo id = "tagsk">20060523</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -420,32 +420,32 @@
 </alrovat>
 <alrovat id = "32">
 <mezo id = "hattol">20110510</mezo>
-<mezo id = "pnev">kk. Szalai-Bordás Gergõ</mezo>
+<mezo id = "pnev">kk. Szalai-BordÃ¡s GergÅ‘</mezo>
 <mezo id = "panev">Szalai Zsuzsanna</mezo>
 <mezo id = "pirsz">3535</mezo>
 <mezo id = "phely">Miskolc</mezo>
-<mezo id = "pteru">Baráthegyalja utca 46.</mezo>
+<mezo id = "pteru">BarÃ¡thegyalja utca 46.</mezo>
 <mezo id = "gnev">Szalai Zsuzsanna</mezo>
-<mezo id = "ganev">Gergely Erzsébet</mezo>
+<mezo id = "ganev">Gergely ErzsÃ©bet</mezo>
 <mezo id = "girsz">3535</mezo>
 <mezo id = "ghely">Miskolc</mezo>
-<mezo id = "gteru">Baráthegyalja utca 46.</mezo>
+<mezo id = "gteru">BarÃ¡thegyalja utca 46.</mezo>
 <mezo id = "tagsk">20031217</mezo>
 <mezo id = "valtk">20110510</mezo>
 <mezo id = "bkelt">20110616</mezo>
 </alrovat>
 <alrovat id = "33">
 <mezo id = "hattol">20110510</mezo>
-<mezo id = "pnev">kk. Szalai-Bordás Ádám</mezo>
+<mezo id = "pnev">kk. Szalai-BordÃ¡s ÃdÃ¡m</mezo>
 <mezo id = "panev">Szalai Zsuzsanna</mezo>
 <mezo id = "pirsz">3535</mezo>
 <mezo id = "phely">Miskolc</mezo>
-<mezo id = "pteru">Baráthegyalja utca 46.</mezo>
+<mezo id = "pteru">BarÃ¡thegyalja utca 46.</mezo>
 <mezo id = "gnev">Szalai Zsuzsanna</mezo>
-<mezo id = "ganev">Gergely Erzsébet</mezo>
+<mezo id = "ganev">Gergely ErzsÃ©bet</mezo>
 <mezo id = "girsz">3535</mezo>
 <mezo id = "ghely">Miskolc</mezo>
-<mezo id = "gteru">Baráthegyalja utca 46.</mezo>
+<mezo id = "gteru">BarÃ¡thegyalja utca 46.</mezo>
 <mezo id = "tagsk">20031217</mezo>
 <mezo id = "valtk">20110510</mezo>
 <mezo id = "bkelt">20110616</mezo>
@@ -460,49 +460,49 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2001. 05. 09-én hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2001. 05. 09-Ã©n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
 32. 10200139-27022371-00000000<ujsor/>
- Kereskedelmi Bank Miskolc (3501 Miskolc, Hõsök tere 3.; 01 10 041043)<ujsor/>
- Hatályos: 1998. 08. 11-tõl.<ujsor/>
-1(09). Dr. Perecz László által képv. tulajdonközösség (an: Dudás Ida)<ujsor/>
-3534 Miskolc, Márton bíró u. 3.<ujsor/>
- Törölve: 2001. 03. 29-i hatállyal.<ujsor/>
- Dr. Perecz László (an: Dudás Ida)<ujsor/>
-3534 Miskolc, Márton bíró u. 3.<ujsor/>
- Hatályos: 2001. 03. 29-tõl.<ujsor/>
+ Kereskedelmi Bank Miskolc (3501 Miskolc, HÅ‘sÃ¶k tere 3.; 01 10 041043)<ujsor/>
+ HatÃ¡lyos: 1998. 08. 11-tÅ‘l.<ujsor/>
+1(09). Dr. Perecz LÃ¡szlÃ³ Ã¡ltal kÃ©pv. tulajdonkÃ¶zÃ¶ssÃ©g (an: DudÃ¡s Ida)<ujsor/>
+3534 Miskolc, MÃ¡rton bÃ­rÃ³ u. 3.<ujsor/>
+ TÃ¶rÃ¶lve: 2001. 03. 29-i hatÃ¡llyal.<ujsor/>
+ Dr. Perecz LÃ¡szlÃ³ (an: DudÃ¡s Ida)<ujsor/>
+3534 Miskolc, MÃ¡rton bÃ­rÃ³ u. 3.<ujsor/>
+ HatÃ¡lyos: 2001. 03. 29-tÅ‘l.<ujsor/>
 Bejegyezve: 2002. 01. 10.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0509007346</mezo>
-<mezo id = "nev">MAIP Miskolc-Alsózsolca Ipari Park Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">3571 Alsózsolca, Gyár u. 3.</mezo>
+<mezo id = "nev">MAIP Miskolc-AlsÃ³zsolca Ipari Park KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">3571 AlsÃ³zsolca, GyÃ¡r u. 3.</mezo>
 <mezo id = "adosz">11758219205</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2007. 06. 26-án hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (ügyvezetõ).<ujsor/>
- Szalai József (an: Gergely Erzsébet)<ujsor/>
-3533 Miskolc, Baráthegyalja u. 44.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2007. 06. 26-Ã¡n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘).<ujsor/>
+ Szalai JÃ³zsef (an: Gergely ErzsÃ©bet)<ujsor/>
+3533 Miskolc, BarÃ¡thegyalja u. 44.<ujsor/>
  A jogviszony kezdete: 2007. 05. 25.<ujsor/>
- A jogviszony vége: 2012. 05. 24.<ujsor/>
- A változás idõpontja: 2007. 04. 12.<ujsor/>
- A változás idõpontja (törlés): 2007. 04. 12.<ujsor/>
- Törölve: 2008. 03. 17.<ujsor/>
- A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (ügyvezetõ).<ujsor/>
- Szalai József (an: Molnár Erzsébet)<ujsor/>
-3533 Miskolc, Baráthegyalja u. 44.<ujsor/>
+ A jogviszony vÃ©ge: 2012. 05. 24.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2007. 04. 12.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2007. 04. 12.<ujsor/>
+ TÃ¶rÃ¶lve: 2008. 03. 17.<ujsor/>
+ A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘).<ujsor/>
+ Szalai JÃ³zsef (an: MolnÃ¡r ErzsÃ©bet)<ujsor/>
+3533 Miskolc, BarÃ¡thegyalja u. 44.<ujsor/>
  A jogviszony kezdete: 2007. 05. 25.<ujsor/>
- A jogviszony vége: 2012. 05. 24.<ujsor/>
- A változás idõpontja: 2007. 04. 12.<ujsor/>
+ A jogviszony vÃ©ge: 2012. 05. 24.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2007. 04. 12.<ujsor/>
  Bejegyezve: 2008. 03. 17.<ujsor/>
 2008. 03. 17.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0509007346</mezo>
-<mezo id = "nev">MAIP Miskolc-Alsózsolca Ipari Park Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">3571 Alsózsolca , Gyár u. 3.</mezo>
+<mezo id = "nev">MAIP Miskolc-AlsÃ³zsolca Ipari Park KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">3571 AlsÃ³zsolca , GyÃ¡r u. 3.</mezo>
 <mezo id = "adosz">11758219205</mezo>
 </alrovat>
 </rovat>

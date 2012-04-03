@@ -5,7 +5,7 @@
 <mezo id = "cf">10</mezo>
 <mezo id = "szam">043269</mezo>
 <mezo id = "nevalrovat">2</mezo>
-<mezo id = "cim">1062 Budapest, Teréz körút 55-57. </mezo>
+<mezo id = "cim">1062 Budapest, TerÃ©z kÃ¶rÃºt 55-57. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">12201923444</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20060213</mezo>
-<mezo id = "nev">Magyar Cetelem Bank Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">Magyar Cetelem Bank ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -27,7 +27,7 @@
 <mezo id = "hattol">20110404</mezo>
 <mezo id = "irsz">1062</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Teréz körút 55-57.</mezo>
+<mezo id = "teru">TerÃ©z kÃ¶rÃºt 55-57.</mezo>
 <mezo id = "valtk">20110404</mezo>
 <mezo id = "bkelt">20110502</mezo>
 </alrovat>
@@ -36,7 +36,7 @@
 <alrovat id = "4">
 <mezo id = "hattol">20071219</mezo>
 <mezo id = "irsz">1132</mezo>
-<mezo id = "hely">Budapest, Váci út 30.</mezo>
+<mezo id = "hely">Budapest, VÃ¡ci Ãºt 30.</mezo>
 <mezo id = "valtk">20071219</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20080117</mezo>
@@ -287,15 +287,15 @@
 <rovat id = "13">
 <alrovat id = "12">
 <mezo id = "hattol">19980319</mezo>
-<mezo id = "pnev">Szepesi József Zoltán alkalmazott</mezo>
-<mezo id = "panev">Kis Juhász Aranka</mezo>
+<mezo id = "pnev">Szepesi JÃ³zsef ZoltÃ¡n alkalmazott</mezo>
+<mezo id = "panev">Kis JuhÃ¡sz Aranka</mezo>
 <mezo id = "pirsz">1063</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Szív u. 18.</mezo>
+<mezo id = "pteru">SzÃ­v u. 18.</mezo>
 </alrovat>
 <alrovat id = "17">
 <mezo id = "hattol">19981124</mezo>
-<mezo id = "tiszt">külsõ igazgatósági tag</mezo>
+<mezo id = "tiszt">kÃ¼lsÅ‘ igazgatÃ³sÃ¡gi tag</mezo>
 <mezo id = "pnev">Carlo Fioravanti</mezo>
 <mezo id = "panev">Adele Corsi</mezo>
 <mezo id = "pkorsz">IT</mezo>
@@ -303,16 +303,16 @@
 <mezo id = "pkhely">Sesto Fiorentino (Firenze)</mezo>
 <mezo id = "pkteru">Via Genova</mezo>
 <mezo id = "pkhsz">39.</mezo>
-<mezo id = "pmnev">Dr. Bocskói Adrienn</mezo>
-<mezo id = "pmanev">Tenczer Éva</mezo>
+<mezo id = "pmnev">Dr. BocskÃ³i Adrienn</mezo>
+<mezo id = "pmanev">Tenczer Ã‰va</mezo>
 <mezo id = "pmirsz">1024</mezo>
 <mezo id = "pmhely">Budapest,</mezo>
-<mezo id = "pmteru">Csalogány utca</mezo>
+<mezo id = "pmteru">CsalogÃ¡ny utca</mezo>
 <mezo id = "pmhsz">47-49.</mezo>
 </alrovat>
 <alrovat id = "18">
 <mezo id = "hattol">19981124</mezo>
-<mezo id = "tiszt">külsõ igazgatósági tag</mezo>
+<mezo id = "tiszt">kÃ¼lsÅ‘ igazgatÃ³sÃ¡gi tag</mezo>
 <mezo id = "pnev">Jean-Paul Doumeng</mezo>
 <mezo id = "panev">Evelyn Cherri</mezo>
 <mezo id = "pkorsz">FR</mezo>
@@ -320,16 +320,16 @@
 <mezo id = "pkhely">Puteaux</mezo>
 <mezo id = "pkteru">Rue Godefroy</mezo>
 <mezo id = "pkhsz">31.</mezo>
-<mezo id = "pmnev">Dr. Bocskói Adrienn</mezo>
-<mezo id = "pmanev">Tenczer Éva</mezo>
+<mezo id = "pmnev">Dr. BocskÃ³i Adrienn</mezo>
+<mezo id = "pmanev">Tenczer Ã‰va</mezo>
 <mezo id = "pmirsz">1024</mezo>
 <mezo id = "pmhely">Budapest,</mezo>
-<mezo id = "pmteru">Csalogány utca</mezo>
+<mezo id = "pmteru">CsalogÃ¡ny utca</mezo>
 <mezo id = "pmhsz">47-49.</mezo>
 </alrovat>
 <alrovat id = "19">
 <mezo id = "hattol">19981124</mezo>
-<mezo id = "tiszt">külsõ igazgatósági tag</mezo>
+<mezo id = "tiszt">kÃ¼lsÅ‘ igazgatÃ³sÃ¡gi tag</mezo>
 <mezo id = "pnev">Henri-Paul Fruchaud</mezo>
 <mezo id = "panev">Francine Foucault</mezo>
 <mezo id = "pkorsz">FR</mezo>
@@ -337,28 +337,28 @@
 <mezo id = "pkhely">Boulogne</mezo>
 <mezo id = "pkteru">Rue de Sevres</mezo>
 <mezo id = "pkhsz">41.</mezo>
-<mezo id = "pmnev">Dr. Bocskói Adrienn</mezo>
-<mezo id = "pmanev">Tenczer Éva</mezo>
+<mezo id = "pmnev">Dr. BocskÃ³i Adrienn</mezo>
+<mezo id = "pmanev">Tenczer Ã‰va</mezo>
 <mezo id = "pmirsz">1024</mezo>
 <mezo id = "pmhely">Budapest,</mezo>
-<mezo id = "pmteru">Csalogány utca</mezo>
+<mezo id = "pmteru">CsalogÃ¡ny utca</mezo>
 <mezo id = "pmhsz">47-49.</mezo>
 </alrovat>
 <alrovat id = "30">
 <mezo id = "hattol">19990413</mezo>
 <mezo id = "tiszt">alkalmazott</mezo>
-<mezo id = "pnev">Hoffmanné Csanádi Szilvia</mezo>
-<mezo id = "panev">Szabó Margit</mezo>
+<mezo id = "pnev">HoffmannÃ© CsanÃ¡di Szilvia</mezo>
+<mezo id = "panev">SzabÃ³ Margit</mezo>
 <mezo id = "pirsz">2310</mezo>
-<mezo id = "phely">Szigetszentmiklós</mezo>
+<mezo id = "phely">SzigetszentmiklÃ³s</mezo>
 <mezo id = "pteru">Tebe sor 12.</mezo>
 </alrovat>
 <alrovat id = "107">
 <mezo id = "hattol">20040520</mezo>
-<mezo id = "pnev">Dr. Lendvai János</mezo>
+<mezo id = "pnev">Dr. Lendvai JÃ¡nos</mezo>
 <mezo id = "panev">Hajnal Piroska</mezo>
 <mezo id = "pirsz">1055</mezo>
-<mezo id = "phely">Budapest, Honvéd u. 22.</mezo>
+<mezo id = "phely">Budapest, HonvÃ©d u. 22.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">3</mezo>
 <mezo id = "jogvk">20020523</mezo>
@@ -371,10 +371,10 @@
 <mezo id = "pkorsz">IT</mezo>
 <mezo id = "pkirsz">50019</mezo>
 <mezo id = "pkhely">Sesto Fiorentino Firenze, Via Genova 39.</mezo>
-<mezo id = "pmnev">Dr. Bocskói Adrienn</mezo>
-<mezo id = "pmanev">Tenczer Éva</mezo>
+<mezo id = "pmnev">Dr. BocskÃ³i Adrienn</mezo>
+<mezo id = "pmanev">Tenczer Ã‰va</mezo>
 <mezo id = "pmirsz">1024</mezo>
-<mezo id = "pmhely">Budapest, Csalogány u. 47-49.</mezo>
+<mezo id = "pmhely">Budapest, CsalogÃ¡ny u. 47-49.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">3</mezo>
 <mezo id = "jogvk">20020523</mezo>
@@ -382,8 +382,8 @@
 </alrovat>
 <alrovat id = "109">
 <mezo id = "hattol">20040520</mezo>
-<mezo id = "pnev">Márkus Mária</mezo>
-<mezo id = "panev">Kondor Mária</mezo>
+<mezo id = "pnev">MÃ¡rkus MÃ¡ria</mezo>
+<mezo id = "panev">Kondor MÃ¡ria</mezo>
 <mezo id = "pirsz">1126</mezo>
 <mezo id = "phely">Budapest, Kakukk u. 10/B.</mezo>
 <mezo id = "kepve">x</mezo>
@@ -398,10 +398,10 @@
 <mezo id = "pkorsz">FR</mezo>
 <mezo id = "pkirsz">78400</mezo>
 <mezo id = "pkhely">Chatou , Rue Des Ecoles 42.</mezo>
-<mezo id = "pmnev">Dr. Bocskói Adrienn</mezo>
-<mezo id = "pmanev">Tenczer Éva</mezo>
+<mezo id = "pmnev">Dr. BocskÃ³i Adrienn</mezo>
+<mezo id = "pmanev">Tenczer Ã‰va</mezo>
 <mezo id = "pmirsz">1024</mezo>
-<mezo id = "pmhely">Budapest, Csalogány u. 47-49.</mezo>
+<mezo id = "pmhely">Budapest, CsalogÃ¡ny u. 47-49.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">3</mezo>
 <mezo id = "jogvk">20020905</mezo>
@@ -414,10 +414,10 @@
 <mezo id = "pkorsz">FR</mezo>
 <mezo id = "pkirsz">92100</mezo>
 <mezo id = "pkhely">Boulogne , rue de Serves 41.</mezo>
-<mezo id = "pmnev">Dr. Szendrei Árpád</mezo>
+<mezo id = "pmnev">Dr. Szendrei ÃrpÃ¡d</mezo>
 <mezo id = "pmanev">Moka Ibolya</mezo>
 <mezo id = "pmirsz">1024</mezo>
-<mezo id = "pmhely">Budapest, Csalogány u. 47-49.</mezo>
+<mezo id = "pmhely">Budapest, CsalogÃ¡ny u. 47-49.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">3</mezo>
 <mezo id = "jogvk">20030527</mezo>
@@ -425,12 +425,12 @@
 </alrovat>
 <alrovat id = "197">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">FEKETÉNÉ BENEDEK HENRIETT</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">FEKETÃ‰NÃ‰ BENEDEK HENRIETT</mezo>
 <mezo id = "panev">FARKAS KATALIN</mezo>
 <mezo id = "pirsz">2143</mezo>
 <mezo id = "phely">KISTARCSA</mezo>
-<mezo id = "pteru">ARANY JÁNOS UTCA 11.</mezo>
+<mezo id = "pteru">ARANY JÃNOS UTCA 11.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20090922</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -438,12 +438,12 @@
 </alrovat>
 <alrovat id = "198">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">BENCZE ERZSÉBET</mezo>
-<mezo id = "panev">BANYA ERZSÉBET</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">BENCZE ERZSÃ‰BET</mezo>
+<mezo id = "panev">BANYA ERZSÃ‰BET</mezo>
 <mezo id = "pirsz">1196</mezo>
 <mezo id = "phely">BUDAPEST</mezo>
-<mezo id = "pteru">ESZE TAMÁS UTCA 95.</mezo>
+<mezo id = "pteru">ESZE TAMÃS UTCA 95.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20090922</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -451,12 +451,12 @@
 </alrovat>
 <alrovat id = "199">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">GUROVITSNÉ NEMES JUDIT ÁGNES</mezo>
-<mezo id = "panev">MEZÕS ERZSÉBET</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">GUROVITSNÃ‰ NEMES JUDIT ÃGNES</mezo>
+<mezo id = "panev">MEZÅS ERZSÃ‰BET</mezo>
 <mezo id = "pirsz">1144</mezo>
 <mezo id = "phely">BUDAPEST</mezo>
-<mezo id = "pteru">GVADÁNYI ÚT 13. 3/B. ép. 2. em. 2.</mezo>
+<mezo id = "pteru">GVADÃNYI ÃšT 13. 3/B. Ã©p. 2. em. 2.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20090922</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -464,9 +464,9 @@
 </alrovat>
 <alrovat id = "200">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Brányi Sarolta</mezo>
-<mezo id = "panev">Gaál Ágnes</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">BrÃ¡nyi Sarolta</mezo>
+<mezo id = "panev">GaÃ¡l Ãgnes</mezo>
 <mezo id = "pirsz">1221</mezo>
 <mezo id = "phely">Budapest</mezo>
 <mezo id = "pteru">Ady Endre u 163/A.</mezo>
@@ -477,12 +477,12 @@
 </alrovat>
 <alrovat id = "201">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Bakos Erzsébet</mezo>
-<mezo id = "panev">Erdélyi Erzsébet</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Bakos ErzsÃ©bet</mezo>
+<mezo id = "panev">ErdÃ©lyi ErzsÃ©bet</mezo>
 <mezo id = "pirsz">3200</mezo>
-<mezo id = "phely">Gyöngyös</mezo>
-<mezo id = "pteru">Csárda u 13.</mezo>
+<mezo id = "phely">GyÃ¶ngyÃ¶s</mezo>
+<mezo id = "pteru">CsÃ¡rda u 13.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">19990302</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -490,12 +490,12 @@
 </alrovat>
 <alrovat id = "202">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Dr. Szendrei Árpád Attila</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Dr. Szendrei ÃrpÃ¡d Attila</mezo>
 <mezo id = "panev">Moka Ibolya</mezo>
 <mezo id = "pirsz">2162</mezo>
-<mezo id = "phely">Õrbottyán</mezo>
-<mezo id = "pteru">Fõ utca 97.</mezo>
+<mezo id = "phely">ÅrbottyÃ¡n</mezo>
+<mezo id = "pteru">FÅ‘ utca 97.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">19990302</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -503,9 +503,9 @@
 </alrovat>
 <alrovat id = "203">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Nagyné Monori Éva</mezo>
-<mezo id = "panev">Isoó Mária</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">NagynÃ© Monori Ã‰va</mezo>
+<mezo id = "panev">IsoÃ³ MÃ¡ria</mezo>
 <mezo id = "pirsz">1036</mezo>
 <mezo id = "phely">Budapest</mezo>
 <mezo id = "pteru">Lajos u. 111 VIII/44.</mezo>
@@ -516,12 +516,12 @@
 </alrovat>
 <alrovat id = "205">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Csanádi Szilvia</mezo>
-<mezo id = "panev">Szabó Margit</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">CsanÃ¡di Szilvia</mezo>
+<mezo id = "panev">SzabÃ³ Margit</mezo>
 <mezo id = "pirsz">2310</mezo>
-<mezo id = "phely">Szigetszentmiklós</mezo>
-<mezo id = "pteru">Szent Miklós u 14/B. II/8.</mezo>
+<mezo id = "phely">SzigetszentmiklÃ³s</mezo>
+<mezo id = "pteru">Szent MiklÃ³s u 14/B. II/8.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20000906</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -529,12 +529,12 @@
 </alrovat>
 <alrovat id = "207">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Pelhõs Lívia</mezo>
-<mezo id = "panev">Molnár Klára</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">PelhÅ‘s LÃ­via</mezo>
+<mezo id = "panev">MolnÃ¡r KlÃ¡ra</mezo>
 <mezo id = "pirsz">1045</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Nyár u 77.</mezo>
+<mezo id = "pteru">NyÃ¡r u 77.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20000906</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -542,12 +542,12 @@
 </alrovat>
 <alrovat id = "208">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Szetei Tibor</mezo>
 <mezo id = "panev">Nagy Ilona</mezo>
 <mezo id = "pirsz">1174</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Szilágyi Dezsõ u 28.</mezo>
+<mezo id = "pteru">SzilÃ¡gyi DezsÅ‘ u 28.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20000906</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -555,12 +555,12 @@
 </alrovat>
 <alrovat id = "209">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Halácsi Annamária</mezo>
-<mezo id = "panev">Dudás Anna</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">HalÃ¡csi AnnamÃ¡ria</mezo>
+<mezo id = "panev">DudÃ¡s Anna</mezo>
 <mezo id = "pirsz">1223</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Nyél u 25/b.</mezo>
+<mezo id = "pteru">NyÃ©l u 25/b.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20010831</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -568,9 +568,9 @@
 </alrovat>
 <alrovat id = "210">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Kálmán Gyula</mezo>
-<mezo id = "panev">Cseke Erzsébet</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">KÃ¡lmÃ¡n Gyula</mezo>
+<mezo id = "panev">Cseke ErzsÃ©bet</mezo>
 <mezo id = "pirsz">1122</mezo>
 <mezo id = "phely">Budapest</mezo>
 <mezo id = "pteru">Maros u 23.</mezo>
@@ -581,8 +581,8 @@
 </alrovat>
 <alrovat id = "211">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Polgár Zoltán</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">PolgÃ¡r ZoltÃ¡n</mezo>
 <mezo id = "panev">Czettner Ilona</mezo>
 <mezo id = "pirsz">1221</mezo>
 <mezo id = "phely">Budapest</mezo>
@@ -594,12 +594,12 @@
 </alrovat>
 <alrovat id = "212">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Szabó Péter</mezo>
-<mezo id = "panev">Horváth Emõke</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">SzabÃ³ PÃ©ter</mezo>
+<mezo id = "panev">HorvÃ¡th EmÅ‘ke</mezo>
 <mezo id = "pirsz">1172</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Mátka u 23.</mezo>
+<mezo id = "pteru">MÃ¡tka u 23.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20011116</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -607,11 +607,11 @@
 </alrovat>
 <alrovat id = "213">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Bíró János</mezo>
-<mezo id = "panev">Orosz Mária</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">BÃ­rÃ³ JÃ¡nos</mezo>
+<mezo id = "panev">Orosz MÃ¡ria</mezo>
 <mezo id = "pirsz">2700</mezo>
-<mezo id = "phely">Cegléd</mezo>
+<mezo id = "phely">CeglÃ©d</mezo>
 <mezo id = "pteru">Teleki u 11.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20020502</mezo>
@@ -620,12 +620,12 @@
 </alrovat>
 <alrovat id = "215">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Rajta Réka</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Rajta RÃ©ka</mezo>
 <mezo id = "panev">Pagonyi Katalin</mezo>
 <mezo id = "pirsz">1045</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Virág u 18.</mezo>
+<mezo id = "pteru">VirÃ¡g u 18.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20020627</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -633,12 +633,12 @@
 </alrovat>
 <alrovat id = "216">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Szántai Mariann Éva</mezo>
-<mezo id = "panev">Deák Mária Terézia</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">SzÃ¡ntai Mariann Ã‰va</mezo>
+<mezo id = "panev">DeÃ¡k MÃ¡ria TerÃ©zia</mezo>
 <mezo id = "pirsz">1097</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Gyáli u 15/B.</mezo>
+<mezo id = "pteru">GyÃ¡li u 15/B.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20020627</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -646,12 +646,12 @@
 </alrovat>
 <alrovat id = "217">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Gulyás Zsófia</mezo>
-<mezo id = "panev">Péter Margit</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">GulyÃ¡s ZsÃ³fia</mezo>
+<mezo id = "panev">PÃ©ter Margit</mezo>
 <mezo id = "pirsz">1011</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Szilágyi Dezsõ tér 3.</mezo>
+<mezo id = "pteru">SzilÃ¡gyi DezsÅ‘ tÃ©r 3.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20030311</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -659,12 +659,12 @@
 </alrovat>
 <alrovat id = "218">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Senglerné Cseh Viktória</mezo>
-<mezo id = "panev">Lázár Mária</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">SenglernÃ© Cseh ViktÃ³ria</mezo>
+<mezo id = "panev">LÃ¡zÃ¡r MÃ¡ria</mezo>
 <mezo id = "pirsz">1088</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">József krt 46.</mezo>
+<mezo id = "pteru">JÃ³zsef krt 46.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20030311</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -672,12 +672,12 @@
 </alrovat>
 <alrovat id = "219">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Vigh Attila</mezo>
-<mezo id = "panev">Tõzsér Ilona Mária</mezo>
+<mezo id = "panev">TÅ‘zsÃ©r Ilona MÃ¡ria</mezo>
 <mezo id = "pirsz">2700</mezo>
-<mezo id = "phely">Cegléd</mezo>
-<mezo id = "pteru">Vécsei út 14.</mezo>
+<mezo id = "phely">CeglÃ©d</mezo>
+<mezo id = "pteru">VÃ©csei Ãºt 14.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20030311</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -685,9 +685,9 @@
 </alrovat>
 <alrovat id = "220">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Orosz Helga Rita</mezo>
-<mezo id = "panev">Kárpáti Helga</mezo>
+<mezo id = "panev">KÃ¡rpÃ¡ti Helga</mezo>
 <mezo id = "pirsz">1053</mezo>
 <mezo id = "phely">Budapest</mezo>
 <mezo id = "pteru">Magyar utca 27.</mezo>
@@ -698,12 +698,12 @@
 </alrovat>
 <alrovat id = "221">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Bogdán Lajos</mezo>
-<mezo id = "panev">Kalányos Margit</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">BogdÃ¡n Lajos</mezo>
+<mezo id = "panev">KalÃ¡nyos Margit</mezo>
 <mezo id = "pirsz">9023</mezo>
-<mezo id = "phely">Gyõr</mezo>
-<mezo id = "pteru">Török István utca 34.</mezo>
+<mezo id = "phely">GyÅ‘r</mezo>
+<mezo id = "pteru">TÃ¶rÃ¶k IstvÃ¡n utca 34.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20030311</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -711,12 +711,12 @@
 </alrovat>
 <alrovat id = "222">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Molnár József</mezo>
-<mezo id = "panev">Gubényi Mária</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">MolnÃ¡r JÃ³zsef</mezo>
+<mezo id = "panev">GubÃ©nyi MÃ¡ria</mezo>
 <mezo id = "pirsz">1045</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Berda József utca 32.</mezo>
+<mezo id = "pteru">Berda JÃ³zsef utca 32.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20030311</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -724,12 +724,12 @@
 </alrovat>
 <alrovat id = "223">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Tóthné Lantos Brigitta</mezo>
-<mezo id = "panev">Híves Anna Magdolna</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">TÃ³thnÃ© Lantos Brigitta</mezo>
+<mezo id = "panev">HÃ­ves Anna Magdolna</mezo>
 <mezo id = "pirsz">1214</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Nyuszi sétány 51.</mezo>
+<mezo id = "pteru">Nyuszi sÃ©tÃ¡ny 51.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20030311</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -737,9 +737,9 @@
 </alrovat>
 <alrovat id = "224">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Bálint Gabriella</mezo>
-<mezo id = "panev">Dékán Katalin</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">BÃ¡lint Gabriella</mezo>
+<mezo id = "panev">DÃ©kÃ¡n Katalin</mezo>
 <mezo id = "pirsz">1212</mezo>
 <mezo id = "phely">Budapest</mezo>
 <mezo id = "pteru">Kossuth Lajos u 142.</mezo>
@@ -750,12 +750,12 @@
 </alrovat>
 <alrovat id = "225">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Peics Antal Zsolt</mezo>
-<mezo id = "panev">Turai Éva Etelka</mezo>
+<mezo id = "panev">Turai Ã‰va Etelka</mezo>
 <mezo id = "pirsz">1116</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Fehérvári út 233.</mezo>
+<mezo id = "pteru">FehÃ©rvÃ¡ri Ãºt 233.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20030506</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -763,12 +763,12 @@
 </alrovat>
 <alrovat id = "226">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Pálmai Zoltánné</mezo>
-<mezo id = "panev">Horváth Erzsébet</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">PÃ¡lmai ZoltÃ¡nnÃ©</mezo>
+<mezo id = "panev">HorvÃ¡th ErzsÃ©bet</mezo>
 <mezo id = "pirsz">1118</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Nagyszeben tér 1.</mezo>
+<mezo id = "pteru">Nagyszeben tÃ©r 1.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20030506</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -776,12 +776,12 @@
 </alrovat>
 <alrovat id = "227">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Molnár Emese</mezo>
-<mezo id = "panev">Marosvári Zsuzsanna</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">MolnÃ¡r Emese</mezo>
+<mezo id = "panev">MarosvÃ¡ri Zsuzsanna</mezo>
 <mezo id = "pirsz">1149</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Várna u 22/3.</mezo>
+<mezo id = "pteru">VÃ¡rna u 22/3.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20030401</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -789,12 +789,12 @@
 </alrovat>
 <alrovat id = "228">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Boros Mónika</mezo>
-<mezo id = "panev">Kellermajer Erzsébet</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Boros MÃ³nika</mezo>
+<mezo id = "panev">Kellermajer ErzsÃ©bet</mezo>
 <mezo id = "pirsz">8229</mezo>
 <mezo id = "phely">Csopak</mezo>
-<mezo id = "pteru">Füredi út 37.</mezo>
+<mezo id = "pteru">FÃ¼redi Ãºt 37.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20021216</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -802,12 +802,12 @@
 </alrovat>
 <alrovat id = "229">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Kemecsei Zita</mezo>
-<mezo id = "panev">Alexa Erzsébet</mezo>
+<mezo id = "panev">Alexa ErzsÃ©bet</mezo>
 <mezo id = "pirsz">4033</mezo>
 <mezo id = "phely">Debrecen</mezo>
-<mezo id = "pteru">Simon István u 15/B.</mezo>
+<mezo id = "pteru">Simon IstvÃ¡n u 15/B.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20040527</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -815,12 +815,12 @@
 </alrovat>
 <alrovat id = "230">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Meggyesi Gábor</mezo>
-<mezo id = "panev">János Éva</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Meggyesi GÃ¡bor</mezo>
+<mezo id = "panev">JÃ¡nos Ã‰va</mezo>
 <mezo id = "pirsz">1137</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Kresz Géza u 37/A.</mezo>
+<mezo id = "pteru">Kresz GÃ©za u 37/A.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20040527</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -828,12 +828,12 @@
 </alrovat>
 <alrovat id = "231">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Barta Annamária</mezo>
-<mezo id = "panev">Szabó Ilona</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Barta AnnamÃ¡ria</mezo>
+<mezo id = "panev">SzabÃ³ Ilona</mezo>
 <mezo id = "pirsz">2465</mezo>
-<mezo id = "phely">Ráckeresztúr</mezo>
-<mezo id = "pteru">Korniss István u 31.</mezo>
+<mezo id = "phely">RÃ¡ckeresztÃºr</mezo>
+<mezo id = "pteru">Korniss IstvÃ¡n u 31.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">19991007</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -841,12 +841,12 @@
 </alrovat>
 <alrovat id = "232">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Dr. Pék Ildikó</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Dr. PÃ©k IldikÃ³</mezo>
 <mezo id = "panev">Kekk Olga</mezo>
 <mezo id = "pirsz">2015</mezo>
 <mezo id = "phely">Szigetmonostor</mezo>
-<mezo id = "pteru">Mártírok u 30.</mezo>
+<mezo id = "pteru">MÃ¡rtÃ­rok u 30.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20010831</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -854,9 +854,9 @@
 </alrovat>
 <alrovat id = "233">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Pincési Krisztina</mezo>
-<mezo id = "panev">Pázmán Éva</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">PincÃ©si Krisztina</mezo>
+<mezo id = "panev">PÃ¡zmÃ¡n Ã‰va</mezo>
 <mezo id = "pirsz">1181</mezo>
 <mezo id = "phely">Budapest</mezo>
 <mezo id = "pteru">Kele u 7. II/1.</mezo>
@@ -867,12 +867,12 @@
 </alrovat>
 <alrovat id = "234">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Hollóné Gereben Judit</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">HollÃ³nÃ© Gereben Judit</mezo>
 <mezo id = "panev">Kiss Edit</mezo>
 <mezo id = "pirsz">2360</mezo>
-<mezo id = "phely">Gyál</mezo>
-<mezo id = "pteru">Bacsó Béla u 31.</mezo>
+<mezo id = "phely">GyÃ¡l</mezo>
+<mezo id = "pteru">BacsÃ³ BÃ©la u 31.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20040902</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -880,12 +880,12 @@
 </alrovat>
 <alrovat id = "235">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Ullmann Katalin</mezo>
 <mezo id = "panev">Kozma Katalin</mezo>
 <mezo id = "pirsz">2310</mezo>
-<mezo id = "phely">Szigetszentmiklós</mezo>
-<mezo id = "pteru">Deák Ferenc u 3/b.</mezo>
+<mezo id = "phely">SzigetszentmiklÃ³s</mezo>
+<mezo id = "pteru">DeÃ¡k Ferenc u 3/b.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20040902</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -893,12 +893,12 @@
 </alrovat>
 <alrovat id = "236">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Bánó Péterné Hegedûs Vivien</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">BÃ¡nÃ³ PÃ©ternÃ© HegedÅ±s Vivien</mezo>
 <mezo id = "panev">Dr. Vajda Judit</mezo>
 <mezo id = "pirsz">1026</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Tövis u 31.</mezo>
+<mezo id = "pteru">TÃ¶vis u 31.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20041125</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -906,12 +906,12 @@
 </alrovat>
 <alrovat id = "237">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Urbán László</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">UrbÃ¡n LÃ¡szlÃ³</mezo>
 <mezo id = "panev">Varga Judit</mezo>
 <mezo id = "pirsz">1089</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Orczy út 29. 2/22.</mezo>
+<mezo id = "pteru">Orczy Ãºt 29. 2/22.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20041125</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -919,12 +919,12 @@
 </alrovat>
 <alrovat id = "238">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Nagyné Novák Anita</mezo>
-<mezo id = "panev">Málnay Ildikó</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">NagynÃ© NovÃ¡k Anita</mezo>
+<mezo id = "panev">MÃ¡lnay IldikÃ³</mezo>
 <mezo id = "pirsz">1036</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Evezõ u 8.</mezo>
+<mezo id = "pteru">EvezÅ‘ u 8.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">19990615</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -932,11 +932,11 @@
 </alrovat>
 <alrovat id = "240">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Hozó Csilla</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">HozÃ³ Csilla</mezo>
 <mezo id = "panev">Cserepes Ilona</mezo>
 <mezo id = "pirsz">2045</mezo>
-<mezo id = "phely">Törökbálint</mezo>
+<mezo id = "phely">TÃ¶rÃ¶kbÃ¡lint</mezo>
 <mezo id = "pteru">Kisfaludy u 64.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20050922</mezo>
@@ -945,12 +945,12 @@
 </alrovat>
 <alrovat id = "241">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Soós Tamás</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">SoÃ³s TamÃ¡s</mezo>
 <mezo id = "panev">Csizmadia Magdolna</mezo>
 <mezo id = "pirsz">1203</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Bíró Mihály u 14. I/5.</mezo>
+<mezo id = "pteru">BÃ­rÃ³ MihÃ¡ly u 14. I/5.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20051125</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -958,12 +958,12 @@
 </alrovat>
 <alrovat id = "242">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Borók Róbert</mezo>
-<mezo id = "panev">Tóth Edit</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">BorÃ³k RÃ³bert</mezo>
+<mezo id = "panev">TÃ³th Edit</mezo>
 <mezo id = "pirsz">1035</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Szentendrei út 13.</mezo>
+<mezo id = "pteru">Szentendrei Ãºt 13.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20060303</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -971,12 +971,12 @@
 </alrovat>
 <alrovat id = "243">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Szalai Csilla</mezo>
-<mezo id = "panev">Papp Erzsébet</mezo>
+<mezo id = "panev">Papp ErzsÃ©bet</mezo>
 <mezo id = "pirsz">1139</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Pap Károly u 18/B.</mezo>
+<mezo id = "pteru">Pap KÃ¡roly u 18/B.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20010425</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -984,12 +984,12 @@
 </alrovat>
 <alrovat id = "244">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Balázs Péter</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">BalÃ¡zs PÃ©ter</mezo>
 <mezo id = "panev">Varga Ibolya</mezo>
 <mezo id = "pirsz">2600</mezo>
-<mezo id = "phely">Vác</mezo>
-<mezo id = "pteru">Alsó u 57.</mezo>
+<mezo id = "phely">VÃ¡c</mezo>
+<mezo id = "pteru">AlsÃ³ u 57.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20060704</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -997,12 +997,12 @@
 </alrovat>
 <alrovat id = "245">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Arató Erika</mezo>
-<mezo id = "panev">Zsidai Ágnes</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">AratÃ³ Erika</mezo>
+<mezo id = "panev">Zsidai Ãgnes</mezo>
 <mezo id = "pirsz">1048</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Jármûtelep u 8/4.</mezo>
+<mezo id = "pteru">JÃ¡rmÅ±telep u 8/4.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20060608</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -1010,12 +1010,12 @@
 </alrovat>
 <alrovat id = "246">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Lélek Krisztina</mezo>
-<mezo id = "panev">Halasi Jolán Katalin</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">LÃ©lek Krisztina</mezo>
+<mezo id = "panev">Halasi JolÃ¡n Katalin</mezo>
 <mezo id = "pirsz">1132</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Visegrádi u 21.</mezo>
+<mezo id = "pteru">VisegrÃ¡di u 21.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20060608</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -1023,12 +1023,12 @@
 </alrovat>
 <alrovat id = "247">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Vincze Ágnes</mezo>
-<mezo id = "panev">Szurmai Ágnes</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Vincze Ãgnes</mezo>
+<mezo id = "panev">Szurmai Ãgnes</mezo>
 <mezo id = "pirsz">1094</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Ferenc tér 1. VI/4.</mezo>
+<mezo id = "pteru">Ferenc tÃ©r 1. VI/4.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20060922</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -1036,12 +1036,12 @@
 </alrovat>
 <alrovat id = "248">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Sármay Bence Ádám</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">SÃ¡rmay Bence ÃdÃ¡m</mezo>
 <mezo id = "panev">Zimmermann Katalin</mezo>
 <mezo id = "pirsz">2463</mezo>
 <mezo id = "phely">Tordas</mezo>
-<mezo id = "pteru">Dózsa György u 10.</mezo>
+<mezo id = "pteru">DÃ³zsa GyÃ¶rgy u 10.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20060922</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -1049,12 +1049,12 @@
 </alrovat>
 <alrovat id = "249">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Magyar Georgina</mezo>
-<mezo id = "panev">Fekete Erzsébet</mezo>
+<mezo id = "panev">Fekete ErzsÃ©bet</mezo>
 <mezo id = "pirsz">2144</mezo>
 <mezo id = "phely">Kerepes</mezo>
-<mezo id = "pteru">Szabadság u 74.</mezo>
+<mezo id = "pteru">SzabadsÃ¡g u 74.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20060922</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -1062,12 +1062,12 @@
 </alrovat>
 <alrovat id = "251">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Kinder Tímea</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Kinder TÃ­mea</mezo>
 <mezo id = "panev">Kreka Jozefa</mezo>
 <mezo id = "pirsz">1084</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Németh u 10. I/11.a.</mezo>
+<mezo id = "pteru">NÃ©meth u 10. I/11.a.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20060922</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -1075,12 +1075,12 @@
 </alrovat>
 <alrovat id = "252">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Kiss Kinga</mezo>
-<mezo id = "panev">Horváth Ágnes</mezo>
+<mezo id = "panev">HorvÃ¡th Ãgnes</mezo>
 <mezo id = "pirsz">1102</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Kõrösi Csoma Sándor út 1. 3/12.</mezo>
+<mezo id = "pteru">KÅ‘rÃ¶si Csoma SÃ¡ndor Ãºt 1. 3/12.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20070501</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -1088,9 +1088,9 @@
 </alrovat>
 <alrovat id = "253">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Papp Szabolcs</mezo>
-<mezo id = "panev">Gugyerás Zsuzsanna</mezo>
+<mezo id = "panev">GugyerÃ¡s Zsuzsanna</mezo>
 <mezo id = "pirsz">1174</mezo>
 <mezo id = "phely">Budapest</mezo>
 <mezo id = "pteru">Csokonai u 66.</mezo>
@@ -1101,12 +1101,12 @@
 </alrovat>
 <alrovat id = "254">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Hamvas Zsanett</mezo>
 <mezo id = "panev">Palotai Piroska</mezo>
 <mezo id = "pirsz">2251</mezo>
-<mezo id = "phely">Tápiószecsõ</mezo>
-<mezo id = "pteru">Gárdonyi Géza u 8.</mezo>
+<mezo id = "phely">TÃ¡piÃ³szecsÅ‘</mezo>
+<mezo id = "pteru">GÃ¡rdonyi GÃ©za u 8.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20070615</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -1114,12 +1114,12 @@
 </alrovat>
 <alrovat id = "255">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Balog Gábor</mezo>
-<mezo id = "panev">Balázs Ilona Éva</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Balog GÃ¡bor</mezo>
+<mezo id = "panev">BalÃ¡zs Ilona Ã‰va</mezo>
 <mezo id = "pirsz">1131</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Madarász Viktor u 13. 2/2/128.</mezo>
+<mezo id = "pteru">MadarÃ¡sz Viktor u 13. 2/2/128.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20070615</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -1127,12 +1127,12 @@
 </alrovat>
 <alrovat id = "257">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Kanyaró Iván</mezo>
-<mezo id = "panev">Magyari Gyöngyvér Zsófia</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">KanyarÃ³ IvÃ¡n</mezo>
+<mezo id = "panev">Magyari GyÃ¶ngyvÃ©r ZsÃ³fia</mezo>
 <mezo id = "pirsz">2330</mezo>
 <mezo id = "phely">Dunaharaszti</mezo>
-<mezo id = "pteru">Széchenyi köz 3.</mezo>
+<mezo id = "pteru">SzÃ©chenyi kÃ¶z 3.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20071024</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -1140,12 +1140,12 @@
 </alrovat>
 <alrovat id = "258">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Sántha Andrea</mezo>
-<mezo id = "panev">Szónák Mária</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">SÃ¡ntha Andrea</mezo>
+<mezo id = "panev">SzÃ³nÃ¡k MÃ¡ria</mezo>
 <mezo id = "pirsz">1046</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Szent László tér 2. fszt.16.</mezo>
+<mezo id = "pteru">Szent LÃ¡szlÃ³ tÃ©r 2. fszt.16.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20071024</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -1153,12 +1153,12 @@
 </alrovat>
 <alrovat id = "259">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Takács Tímea</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">TakÃ¡cs TÃ­mea</mezo>
 <mezo id = "panev">Varga Judit</mezo>
 <mezo id = "pirsz">1215</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Temesvári u 4. 1/4.</mezo>
+<mezo id = "pteru">TemesvÃ¡ri u 4. 1/4.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20071024</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -1166,9 +1166,9 @@
 </alrovat>
 <alrovat id = "262">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Bacsányi Dorottya</mezo>
-<mezo id = "panev">Tóth Anna</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">BacsÃ¡nyi Dorottya</mezo>
+<mezo id = "panev">TÃ³th Anna</mezo>
 <mezo id = "pirsz">1202</mezo>
 <mezo id = "phely">Budapest</mezo>
 <mezo id = "pteru">Klapka u 102.</mezo>
@@ -1179,12 +1179,12 @@
 </alrovat>
 <alrovat id = "263">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Székely Ágoston</mezo>
-<mezo id = "panev">Mudris Mária</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">SzÃ©kely Ãgoston</mezo>
+<mezo id = "panev">Mudris MÃ¡ria</mezo>
 <mezo id = "pirsz">1038</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Gulácsi Lajos u 12. 3/15.</mezo>
+<mezo id = "pteru">GulÃ¡csi Lajos u 12. 3/15.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20071122</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -1192,9 +1192,9 @@
 </alrovat>
 <alrovat id = "264">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Gabnay Ágnes</mezo>
-<mezo id = "panev">Magda Ágnes</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Gabnay Ãgnes</mezo>
+<mezo id = "panev">Magda Ãgnes</mezo>
 <mezo id = "pirsz">1133</mezo>
 <mezo id = "phely">Budapest</mezo>
 <mezo id = "pteru">Gogol u 15/A 4/1.</mezo>
@@ -1205,9 +1205,9 @@
 </alrovat>
 <alrovat id = "265">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Ternai Csanád</mezo>
-<mezo id = "panev">Földvári Zsuzsanna</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Ternai CsanÃ¡d</mezo>
+<mezo id = "panev">FÃ¶ldvÃ¡ri Zsuzsanna</mezo>
 <mezo id = "pirsz">1027</mezo>
 <mezo id = "phely">Budapest</mezo>
 <mezo id = "pteru">Margit krt 12. 3/20.</mezo>
@@ -1218,11 +1218,11 @@
 </alrovat>
 <alrovat id = "266">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Futó Kinga</mezo>
-<mezo id = "panev">Lovas Teréz</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">FutÃ³ Kinga</mezo>
+<mezo id = "panev">Lovas TerÃ©z</mezo>
 <mezo id = "pirsz">2337</mezo>
-<mezo id = "phely">Délegyháza</mezo>
+<mezo id = "phely">DÃ©legyhÃ¡za</mezo>
 <mezo id = "pteru">Berzsenyi u 3.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20080318</mezo>
@@ -1231,12 +1231,12 @@
 </alrovat>
 <alrovat id = "267">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Kiss Ferencné</mezo>
-<mezo id = "panev">Tóth Matild</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Kiss FerencnÃ©</mezo>
+<mezo id = "panev">TÃ³th Matild</mezo>
 <mezo id = "pirsz">2527</mezo>
-<mezo id = "phely">Máriahalom</mezo>
-<mezo id = "pteru">Petõfi út 15.</mezo>
+<mezo id = "phely">MÃ¡riahalom</mezo>
+<mezo id = "pteru">PetÅ‘fi Ãºt 15.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20080318</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -1244,12 +1244,12 @@
 </alrovat>
 <alrovat id = "268">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Grõger Petra</mezo>
-<mezo id = "panev">Gelencsér Rozália</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">GrÅ‘ger Petra</mezo>
+<mezo id = "panev">GelencsÃ©r RozÃ¡lia</mezo>
 <mezo id = "pirsz">2030</mezo>
-<mezo id = "phely">Érd</mezo>
-<mezo id = "pteru">Faragó u. 51.</mezo>
+<mezo id = "phely">Ã‰rd</mezo>
+<mezo id = "pteru">FaragÃ³ u. 51.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20080528</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -1257,12 +1257,12 @@
 </alrovat>
 <alrovat id = "271">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Koller Renáta</mezo>
-<mezo id = "panev">Váncsa Aranka</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Koller RenÃ¡ta</mezo>
+<mezo id = "panev">VÃ¡ncsa Aranka</mezo>
 <mezo id = "pirsz">2092</mezo>
 <mezo id = "phely">Budakeszi</mezo>
-<mezo id = "pteru">Fõ út 249.</mezo>
+<mezo id = "pteru">FÅ‘ Ãºt 249.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20081201</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -1270,12 +1270,12 @@
 </alrovat>
 <alrovat id = "272">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Burián Gábor</mezo>
-<mezo id = "panev">Szabó Emese</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">BuriÃ¡n GÃ¡bor</mezo>
+<mezo id = "panev">SzabÃ³ Emese</mezo>
 <mezo id = "pirsz">8000</mezo>
-<mezo id = "phely">Székesfehérvár</mezo>
-<mezo id = "pteru">Kodolányi út 8. 2. em. 7.</mezo>
+<mezo id = "phely">SzÃ©kesfehÃ©rvÃ¡r</mezo>
+<mezo id = "pteru">KodolÃ¡nyi Ãºt 8. 2. em. 7.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20081201</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -1283,11 +1283,11 @@
 </alrovat>
 <alrovat id = "273">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Breuer Gábor Béláné</mezo>
-<mezo id = "panev">Domonkos Éva</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Breuer GÃ¡bor BÃ©lÃ¡nÃ©</mezo>
+<mezo id = "panev">Domonkos Ã‰va</mezo>
 <mezo id = "pirsz">2360</mezo>
-<mezo id = "phely">Gyál</mezo>
+<mezo id = "phely">GyÃ¡l</mezo>
 <mezo id = "pteru">Ady utca 70/b.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20090320</mezo>
@@ -1296,12 +1296,12 @@
 </alrovat>
 <alrovat id = "274">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Szigetiné Szolnoki Krisztina</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">SzigetinÃ© Szolnoki Krisztina</mezo>
 <mezo id = "panev">Buga Anna</mezo>
 <mezo id = "pirsz">2234</mezo>
-<mezo id = "phely">Maglód</mezo>
-<mezo id = "pteru">Beregszász u. 4.</mezo>
+<mezo id = "phely">MaglÃ³d</mezo>
+<mezo id = "pteru">BeregszÃ¡sz u. 4.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20090320</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -1309,11 +1309,11 @@
 </alrovat>
 <alrovat id = "278">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Dr. Bocskói Adrienn</mezo>
-<mezo id = "panev">Tenczer Éva</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Dr. BocskÃ³i Adrienn</mezo>
+<mezo id = "panev">Tenczer Ã‰va</mezo>
 <mezo id = "pirsz">2134</mezo>
-<mezo id = "phely">Szõd</mezo>
+<mezo id = "phely">SzÅ‘d</mezo>
 <mezo id = "pteru">Duna u 5.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">19970418</mezo>
@@ -1322,12 +1322,12 @@
 </alrovat>
 <alrovat id = "279">
 <mezo id = "hattol">20090922</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Koponyás Szilvia</mezo>
-<mezo id = "panev">Marczell Mária</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">KoponyÃ¡s Szilvia</mezo>
+<mezo id = "panev">Marczell MÃ¡ria</mezo>
 <mezo id = "pirsz">2360</mezo>
-<mezo id = "phely">Gyál</mezo>
-<mezo id = "pteru">Munkácsy M. u. 2.</mezo>
+<mezo id = "phely">GyÃ¡l</mezo>
+<mezo id = "pteru">MunkÃ¡csy M. u. 2.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">19980319</mezo>
 <mezo id = "valtk">20090922</mezo>
@@ -1335,9 +1335,9 @@
 </alrovat>
 <alrovat id = "281">
 <mezo id = "hattol">20091202</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Tarcsai Bálint Ádám</mezo>
-<mezo id = "panev">Lengyel Márta</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Tarcsai BÃ¡lint ÃdÃ¡m</mezo>
+<mezo id = "panev">Lengyel MÃ¡rta</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20091202</mezo>
 <mezo id = "valtk">20091202</mezo>
@@ -1345,9 +1345,9 @@
 </alrovat>
 <alrovat id = "285">
 <mezo id = "hattol">20100412</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Kovácsovics Éva Katalin</mezo>
-<mezo id = "panev">Vágó Ilona</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">KovÃ¡csovics Ã‰va Katalin</mezo>
+<mezo id = "panev">VÃ¡gÃ³ Ilona</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20100501</mezo>
 <mezo id = "valtk">20100412</mezo>
@@ -1356,9 +1356,9 @@
 </alrovat>
 <alrovat id = "286">
 <mezo id = "hattol">20100412</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Puskás Veronika</mezo>
-<mezo id = "panev">Faragó Yvette Szilvia</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">PuskÃ¡s Veronika</mezo>
+<mezo id = "panev">FaragÃ³ Yvette Szilvia</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20100501</mezo>
 <mezo id = "valtk">20100412</mezo>
@@ -1367,7 +1367,7 @@
 </alrovat>
 <alrovat id = "287">
 <mezo id = "hattol">20100412</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Olkowna Nikolett</mezo>
 <mezo id = "panev">Fazekas Ilona Zsuzsanna</mezo>
 <mezo id = "kepve">x</mezo>
@@ -1378,8 +1378,8 @@
 </alrovat>
 <alrovat id = "288">
 <mezo id = "hattol">20100915</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Bakonyi András</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Bakonyi AndrÃ¡s</mezo>
 <mezo id = "panev">Barta Erika</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20100915</mezo>
@@ -1389,9 +1389,9 @@
 </alrovat>
 <alrovat id = "289">
 <mezo id = "hattol">20100915</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Isztl-Fodor Péter</mezo>
-<mezo id = "panev">Kovács Nóra Szilvia</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Isztl-Fodor PÃ©ter</mezo>
+<mezo id = "panev">KovÃ¡cs NÃ³ra Szilvia</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20100915</mezo>
 <mezo id = "valtk">20100915</mezo>
@@ -1400,9 +1400,9 @@
 </alrovat>
 <alrovat id = "290">
 <mezo id = "hattol">20101122</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">TÓTH ZITA</mezo>
-<mezo id = "panev">SISA ÁGNES</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">TÃ“TH ZITA</mezo>
+<mezo id = "panev">SISA ÃGNES</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20101122</mezo>
 <mezo id = "valtk">20101122</mezo>
@@ -1411,9 +1411,9 @@
 </alrovat>
 <alrovat id = "293">
 <mezo id = "hattol">20101122</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">KÓCZÉ ZSOLT</mezo>
-<mezo id = "panev">CZIRMES ILDIKÓ</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">KÃ“CZÃ‰ ZSOLT</mezo>
+<mezo id = "panev">CZIRMES ILDIKÃ“</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20101122</mezo>
 <mezo id = "valtk">20101122</mezo>
@@ -1422,8 +1422,8 @@
 </alrovat>
 <alrovat id = "294">
 <mezo id = "hattol">20101122</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">PÓTH ILDIKÓ</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">PÃ“TH ILDIKÃ“</mezo>
 <mezo id = "panev">KISS IBOLYA</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20101122</mezo>
@@ -1433,8 +1433,8 @@
 </alrovat>
 <alrovat id = "295">
 <mezo id = "hattol">20101122</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">ROMHÁNYINÉ ZORKÓ ZSUZSANNA</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">ROMHÃNYINÃ‰ ZORKÃ“ ZSUZSANNA</mezo>
 <mezo id = "panev">MARSCHALL ILONA</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20101122</mezo>
@@ -1444,7 +1444,7 @@
 </alrovat>
 <alrovat id = "296">
 <mezo id = "hattol">20101122</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">SZTANYKOVSZKY VANDA KATALIN</mezo>
 <mezo id = "panev">KLEIN ILONA</mezo>
 <mezo id = "kepve">x</mezo>
@@ -1455,9 +1455,9 @@
 </alrovat>
 <alrovat id = "297">
 <mezo id = "hattol">20101122</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">LUKÁCSI ZOLTÁN</mezo>
-<mezo id = "panev">MÉSZÁROS IRMA</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">LUKÃCSI ZOLTÃN</mezo>
+<mezo id = "panev">MÃ‰SZÃROS IRMA</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20101122</mezo>
 <mezo id = "valtk">20101122</mezo>
@@ -1466,12 +1466,12 @@
 </alrovat>
 <alrovat id = "299">
 <mezo id = "hattol">20110310</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Pászthory Tiborné</mezo>
-<mezo id = "panev">Kovács Sarolta</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">PÃ¡szthory TibornÃ©</mezo>
+<mezo id = "panev">KovÃ¡cs Sarolta</mezo>
 <mezo id = "pirsz">1194</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Endresz György utca 24. fszt. 4.</mezo>
+<mezo id = "pteru">Endresz GyÃ¶rgy utca 24. fszt. 4.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20110310</mezo>
 <mezo id = "valtk">20110310</mezo>
@@ -1480,8 +1480,8 @@
 </alrovat>
 <alrovat id = "300">
 <mezo id = "hattol">20110310</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Marton Anna Klára</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Marton Anna KlÃ¡ra</mezo>
 <mezo id = "panev">Tandi Krisztina</mezo>
 <mezo id = "pirsz">1089</mezo>
 <mezo id = "phely">Budapest</mezo>
@@ -1494,18 +1494,18 @@
 </alrovat>
 <alrovat id = "302">
 <mezo id = "hattol">20110329</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
 <mezo id = "pnev">Emmanuel Bourg</mezo>
 <mezo id = "panev">Jenny Demondt</mezo>
 <mezo id = "pkorsz">FR</mezo>
 <mezo id = "pkirsz">43350</mezo>
 <mezo id = "pkhely">Bellevue la Montagne</mezo>
 <mezo id = "pkteru">C.Genardini Aubignac</mezo>
-<mezo id = "pmnev">DR.BOCSKÓI ADRIENN</mezo>
-<mezo id = "pmanev">TENCZER ÉVA</mezo>
+<mezo id = "pmnev">DR.BOCSKÃ“I ADRIENN</mezo>
+<mezo id = "pmanev">TENCZER Ã‰VA</mezo>
 <mezo id = "pmirsz">1062</mezo>
 <mezo id = "pmhely">BUDAPEST</mezo>
-<mezo id = "pmteru">TERÉZ KÖRÚT 55-57.</mezo>
+<mezo id = "pmteru">TERÃ‰Z KÃ–RÃšT 55-57.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20110329</mezo>
 <mezo id = "jogvv">20140531</mezo>
@@ -1515,12 +1515,12 @@
 </alrovat>
 <alrovat id = "303">
 <mezo id = "hattol">20110329</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Gyõri Csaba</mezo>
-<mezo id = "panev">Zsóri Etelka</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">GyÅ‘ri Csaba</mezo>
+<mezo id = "panev">ZsÃ³ri Etelka</mezo>
 <mezo id = "pirsz">1155</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Lehel út 30.</mezo>
+<mezo id = "pteru">Lehel Ãºt 30.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20110329</mezo>
 <mezo id = "jogvv">20140531</mezo>
@@ -1530,12 +1530,12 @@
 </alrovat>
 <alrovat id = "304">
 <mezo id = "hattol">20110329</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Magapatona Péter</mezo>
-<mezo id = "panev">Szlávik Mária</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">Magapatona PÃ©ter</mezo>
+<mezo id = "panev">SzlÃ¡vik MÃ¡ria</mezo>
 <mezo id = "pirsz">1163</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Mátrafüred utca 5.</mezo>
+<mezo id = "pteru">MÃ¡trafÃ¼red utca 5.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20110329</mezo>
 <mezo id = "jogvv">20140531</mezo>
@@ -1545,12 +1545,12 @@
 </alrovat>
 <alrovat id = "305">
 <mezo id = "hattol">20110329</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Berta György</mezo>
-<mezo id = "panev">Vidéki Mária</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">Berta GyÃ¶rgy</mezo>
+<mezo id = "panev">VidÃ©ki MÃ¡ria</mezo>
 <mezo id = "pirsz">2111</mezo>
 <mezo id = "phely">Szada</mezo>
-<mezo id = "pteru">Arany János utca 2/A.</mezo>
+<mezo id = "pteru">Arany JÃ¡nos utca 2/A.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20110329</mezo>
 <mezo id = "jogvv">20140531</mezo>
@@ -1560,12 +1560,12 @@
 </alrovat>
 <alrovat id = "306">
 <mezo id = "hattol">20110622</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Koltai Alexandra</mezo>
-<mezo id = "panev">Horváth Piroska Györgyi</mezo>
+<mezo id = "panev">HorvÃ¡th Piroska GyÃ¶rgyi</mezo>
 <mezo id = "pirsz">1157</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Páskom Park 4.</mezo>
+<mezo id = "pteru">PÃ¡skom Park 4.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20110622</mezo>
 <mezo id = "valtk">20110622</mezo>
@@ -1577,16 +1577,16 @@
 <alrovat id = "17">
 <mezo id = "hattol">20110329</mezo>
 <mezo id = "cgjsz">0109078412</mezo>
-<mezo id = "nev">MAZARS Könyvszakértõ és Tanácsadói Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">MAZARS KÃ¶nyvszakÃ©rtÅ‘ Ã©s TanÃ¡csadÃ³i KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1074</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Rákóczi út 70-72.</mezo>
-<mezo id = "pnev">Bíróné Zeller Judit</mezo>
-<mezo id = "panev">Vacula Irén</mezo>
+<mezo id = "teru">RÃ¡kÃ³czi Ãºt 70-72.</mezo>
+<mezo id = "pnev">BÃ­rÃ³nÃ© Zeller Judit</mezo>
+<mezo id = "panev">Vacula IrÃ©n</mezo>
 <mezo id = "pirsz">1074</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Rákóczi út 70-72.</mezo>
+<mezo id = "pteru">RÃ¡kÃ³czi Ãºt 70-72.</mezo>
 <mezo id = "jogvk">20110329</mezo>
 <mezo id = "jogvv">20120531</mezo>
 <mezo id = "valtk">20110329</mezo>
@@ -1597,16 +1597,16 @@
 <alrovat id = "40">
 <mezo id = "hattol">20110329</mezo>
 <mezo id = "pnev">Louis-Michel Duray</mezo>
-<mezo id = "panev">JOSÉPHINE BERNARD</mezo>
+<mezo id = "panev">JOSÃ‰PHINE BERNARD</mezo>
 <mezo id = "pkorsz">FR</mezo>
 <mezo id = "pkirsz">92380</mezo>
 <mezo id = "pkhely">Garches</mezo>
 <mezo id = "pkteru">RUE DES QUATRE VENTS 12.</mezo>
-<mezo id = "pmneve">DR BOCSKÓI ADRIENN</mezo>
-<mezo id = "pmanev">TENCZER ÉVA</mezo>
+<mezo id = "pmneve">DR BOCSKÃ“I ADRIENN</mezo>
+<mezo id = "pmanev">TENCZER Ã‰VA</mezo>
 <mezo id = "pmirsz">1062</mezo>
 <mezo id = "pmhely">BUDAPEST</mezo>
-<mezo id = "pmteru">TERÉZ KÖRÚT 55-57.</mezo>
+<mezo id = "pmteru">TERÃ‰Z KÃ–RÃšT 55-57.</mezo>
 <mezo id = "jogvk">20110329</mezo>
 <mezo id = "jogvv">20140531</mezo>
 <mezo id = "valtk">20110329</mezo>
@@ -1618,13 +1618,13 @@
 <mezo id = "panev">NICOLE AMELOT</mezo>
 <mezo id = "pkorsz">FR</mezo>
 <mezo id = "pkirsz">75015</mezo>
-<mezo id = "pkhely">Párizs</mezo>
+<mezo id = "pkhely">PÃ¡rizs</mezo>
 <mezo id = "pkteru">VILLA CROIX NIVERT 27.</mezo>
-<mezo id = "pmneve">DR BOCSKÓI ADRIENN</mezo>
-<mezo id = "pmanev">TENCZER ÉVA</mezo>
+<mezo id = "pmneve">DR BOCSKÃ“I ADRIENN</mezo>
+<mezo id = "pmanev">TENCZER Ã‰VA</mezo>
 <mezo id = "pmirsz">1062</mezo>
 <mezo id = "pmhely">BUDAPEST</mezo>
-<mezo id = "pmteru">TERÉZ KÖRÚT 55-57.</mezo>
+<mezo id = "pmteru">TERÃ‰Z KÃ–RÃšT 55-57.</mezo>
 <mezo id = "jogvk">20110329</mezo>
 <mezo id = "jogvv">20140531</mezo>
 <mezo id = "valtk">20110329</mezo>
@@ -1636,13 +1636,13 @@
 <mezo id = "panev">GISELE KINON</mezo>
 <mezo id = "pkorsz">FR</mezo>
 <mezo id = "pkirsz">75017</mezo>
-<mezo id = "pkhely">Párizs</mezo>
+<mezo id = "pkhely">PÃ¡rizs</mezo>
 <mezo id = "pkteru">BOULEVARD DES BATIGNOLLES 30.</mezo>
-<mezo id = "pmneve">DR BOCSKÓI ADRIENN</mezo>
-<mezo id = "pmanev">TENCZER ÉVA</mezo>
+<mezo id = "pmneve">DR BOCSKÃ“I ADRIENN</mezo>
+<mezo id = "pmanev">TENCZER Ã‰VA</mezo>
 <mezo id = "pmirsz">1062</mezo>
 <mezo id = "pmhely">BUDAPEST</mezo>
-<mezo id = "pmteru">TERÉZ KÖRÚT 55-57.</mezo>
+<mezo id = "pmteru">TERÃ‰Z KÃ–RÃšT 55-57.</mezo>
 <mezo id = "jogvk">20110329</mezo>
 <mezo id = "jogvv">20140531</mezo>
 <mezo id = "valtk">20110329</mezo>
@@ -1671,7 +1671,7 @@
 <alrovat id = "5">
 <mezo id = "adosz">12201923444</mezo>
 <mezo id = "bkelt">20110720</mezo>
-<mezo id = "megj">Státusz kezdete: 1996/11/28</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 1996/11/28</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0110">
@@ -1681,13 +1681,13 @@
 <mezo id = "nev">Le Cetelem S. A.</mezo>
 <mezo id = "orsz">FR</mezo>
 <mezo id = "irsz">75116</mezo>
-<mezo id = "hely">Párizs</mezo>
-<mezo id = "teru">Avenue Kléber</mezo>
+<mezo id = "hely">PÃ¡rizs</mezo>
+<mezo id = "teru">Avenue KlÃ©ber</mezo>
 <mezo id = "hsz">5.</mezo>
-<mezo id = "pmnev">Dr. Bocskói Adrienn</mezo>
-<mezo id = "pmanev">Tenczer Éva</mezo>
+<mezo id = "pmnev">Dr. BocskÃ³i Adrienn</mezo>
+<mezo id = "pmanev">Tenczer Ã‰va</mezo>
 <mezo id = "pmirsz">2134</mezo>
-<mezo id = "pmhely">Szõd, Duna u. 5.</mezo>
+<mezo id = "pmhely">SzÅ‘d, Duna u. 5.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "93">
@@ -1699,386 +1699,386 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság az 1997. 06. 24-én hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g az 1997. 06. 24-Ã©n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
 03. MCB Magyar Cetelem Rt.<ujsor/>
- Törölve: 1996. 11. 28-i hatállyal.<ujsor/>
+ TÃ¶rÃ¶lve: 1996. 11. 28-i hatÃ¡llyal.<ujsor/>
  Magyar Cetelem Rt.<ujsor/>
- Hatályos: 1996. 11. 28-tól.<ujsor/>
+ HatÃ¡lyos: 1996. 11. 28-tÃ³l.<ujsor/>
 Bejegyezve: 1997. 06. 26.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110043269</mezo>
-<mezo id = "nev">Magyar Cetelem Bank Részvénytársaság</mezo>
-<mezo id = "cim">1024 Budapest, Csalogány u. 47-49.</mezo>
+<mezo id = "nev">Magyar Cetelem Bank RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1024 Budapest, CsalogÃ¡ny u. 47-49.</mezo>
 <mezo id = "adosz">12201923241</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság az 1997. 06. 24-én hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g az 1997. 06. 24-Ã©n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
 04. Magyar Cetelem Bank Limited<ujsor/>
 MCB Magyar Cetelem Ltd.<ujsor/>
-Magyar Cetelem Bank Société Anonyme<ujsor/>
+Magyar Cetelem Bank SociÃ©tÃ© Anonyme<ujsor/>
 MCB Magyar Cetelem S. A.<ujsor/>
- Törölve: 1996. 11. 28-i hatállyal.<ujsor/>
+ TÃ¶rÃ¶lve: 1996. 11. 28-i hatÃ¡llyal.<ujsor/>
  Magyar Cetelem Bank Limited<ujsor/>
 Magyar Cetelem Ltd.<ujsor/>
-Magyar Cetelem Bank Société Anonyme<ujsor/>
+Magyar Cetelem Bank SociÃ©tÃ© Anonyme<ujsor/>
 Magyar Cetelem S. A.<ujsor/>
- Hatályos: 1996. 11. 28-tól.<ujsor/>
+ HatÃ¡lyos: 1996. 11. 28-tÃ³l.<ujsor/>
 Bejegyezve: 1997. 06. 30.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110043269</mezo>
-<mezo id = "nev">Magyar Cetelem Bank Részvénytársaság</mezo>
-<mezo id = "cim">1024 Budapest, Csalogány u. 47-49.</mezo>
+<mezo id = "nev">Magyar Cetelem Bank RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1024 Budapest, CsalogÃ¡ny u. 47-49.</mezo>
 <mezo id = "adosz">12201923241</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Le Cetelem S.A. (székhelye: 5 avenue Kléber F-75116 Párizs) az 1998. június 23-án kötött részvény-adásvételi szerzõdések értelmében megvásárolta a Konzumbank Kereskedelmi Bank Részvénytársaságtól (székhelye: 1054 Budapest, Tüköry u. 4.; cégjegyzékszáma: Cg. [01 10 041062]) a Magyar Cetelem Bank Részvénytársaság (székhelye: 1024 Budapest, Csalogány u. 47-49.; cégjegyzékszáma: Cg. [01 10 043269]) 000466-000615 sorszámú, 150 db, egyenként 1 000 000 Ft (egymillió forint) névértékû, azonos jogokat biztosító, névre szóló törzsrészvényét, és megvásárolta a Magyar Fejlesztési Bank Részvénytársaságtól (székhelye: 1051 Budapest, Nádor u. 31.; cégjegyzékszáma: Cg. [01 10 041712]) a Magyar Cetelem Bank Részvénytársaság 000311-000460 sorszámú, 150 db, egyenként 1 000 000 Ft (egymillió forint) névértékû, azonos jogokat biztosító, névre szóló törzsrészvényét.<ujsor/>
-A Le Cetelem S.A. tulajdoni részesedése ezen ügyletek folytán a Magyar Cetelem Bank Részvénytársaságban 74,6%-ra növekedett, és ezáltal a Gt. 290. §-a alapján e társaságban többségi irányítást biztosító befolyást szerzett.<ujsor/>
+<mezo id = "szoveg">A Le Cetelem S.A. (szÃ©khelye: 5 avenue KlÃ©ber F-75116 PÃ¡rizs) az 1998. jÃºnius 23-Ã¡n kÃ¶tÃ¶tt rÃ©szvÃ©ny-adÃ¡svÃ©teli szerzÅ‘dÃ©sek Ã©rtelmÃ©ben megvÃ¡sÃ¡rolta a Konzumbank Kereskedelmi Bank RÃ©szvÃ©nytÃ¡rsasÃ¡gtÃ³l (szÃ©khelye: 1054 Budapest, TÃ¼kÃ¶ry u. 4.; cÃ©gjegyzÃ©kszÃ¡ma: Cg. [01 10 041062]) a Magyar Cetelem Bank RÃ©szvÃ©nytÃ¡rsasÃ¡g (szÃ©khelye: 1024 Budapest, CsalogÃ¡ny u. 47-49.; cÃ©gjegyzÃ©kszÃ¡ma: Cg. [01 10 043269]) 000466-000615 sorszÃ¡mÃº, 150 db, egyenkÃ©nt 1 000 000 Ft (egymilliÃ³ forint) nÃ©vÃ©rtÃ©kÅ±, azonos jogokat biztosÃ­tÃ³, nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©nyÃ©t, Ã©s megvÃ¡sÃ¡rolta a Magyar FejlesztÃ©si Bank RÃ©szvÃ©nytÃ¡rsasÃ¡gtÃ³l (szÃ©khelye: 1051 Budapest, NÃ¡dor u. 31.; cÃ©gjegyzÃ©kszÃ¡ma: Cg. [01 10 041712]) a Magyar Cetelem Bank RÃ©szvÃ©nytÃ¡rsasÃ¡g 000311-000460 sorszÃ¡mÃº, 150 db, egyenkÃ©nt 1 000 000 Ft (egymilliÃ³ forint) nÃ©vÃ©rtÃ©kÅ±, azonos jogokat biztosÃ­tÃ³, nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©nyÃ©t.<ujsor/>
+A Le Cetelem S.A. tulajdoni rÃ©szesedÃ©se ezen Ã¼gyletek folytÃ¡n a Magyar Cetelem Bank RÃ©szvÃ©nytÃ¡rsasÃ¡gban 74,6%-ra nÃ¶vekedett, Ã©s ezÃ¡ltal a Gt. 290. Â§-a alapjÃ¡n e tÃ¡rsasÃ¡gban tÃ¶bbsÃ©gi irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡st szerzett.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110043269</mezo>
-<mezo id = "nev">Magyar Cetelem Bank Részvénytársaság</mezo>
+<mezo id = "nev">Magyar Cetelem Bank RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság az 1998. 07. 23-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-12. Egy külsõ igazgatósági tag egy belsõ igazgatósági taggal, vagy két belsõ igazgatósági tag, vagy két ügyvezetõ együttesen.<ujsor/>
- Törölve: 1998. 04. 24-i hatállyal.<ujsor/>
- A két belsõ igazgatósági tag, illetve a két ügyvezetõ együttes aláírási jogosultsága - az Igazgatóság által jóváhagyott belsõ szabályzatban rögzitett eljárási rend szerint - együttes aláirási jogosultságként átruházható.<ujsor/>
- Hatályos: 1998. 04. 24-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g az 1998. 07. 23-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+12. Egy kÃ¼lsÅ‘ igazgatÃ³sÃ¡gi tag egy belsÅ‘ igazgatÃ³sÃ¡gi taggal, vagy kÃ©t belsÅ‘ igazgatÃ³sÃ¡gi tag, vagy kÃ©t Ã¼gyvezetÅ‘ egyÃ¼ttesen.<ujsor/>
+ TÃ¶rÃ¶lve: 1998. 04. 24-i hatÃ¡llyal.<ujsor/>
+ A kÃ©t belsÅ‘ igazgatÃ³sÃ¡gi tag, illetve a kÃ©t Ã¼gyvezetÅ‘ egyÃ¼ttes alÃ¡Ã­rÃ¡si jogosultsÃ¡ga - az IgazgatÃ³sÃ¡g Ã¡ltal jÃ³vÃ¡hagyott belsÅ‘ szabÃ¡lyzatban rÃ¶gzitett eljÃ¡rÃ¡si rend szerint - egyÃ¼ttes alÃ¡irÃ¡si jogosultsÃ¡gkÃ©nt Ã¡truhÃ¡zhatÃ³.<ujsor/>
+ HatÃ¡lyos: 1998. 04. 24-tÅ‘l.<ujsor/>
 Bejegyezve: 1998. 08. 04.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110043269</mezo>
-<mezo id = "nev">Magyar Cetelem Bank Részvénytársaság</mezo>
-<mezo id = "cim">1024 Budapest, Csalogány u. 47-49.</mezo>
+<mezo id = "nev">Magyar Cetelem Bank RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1024 Budapest, CsalogÃ¡ny u. 47-49.</mezo>
 <mezo id = "adosz">12201923144</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság az 1998. 08. 04-én hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-12. Egy külsõ igazgatósági tag egy belsõ igazgatósági taggal, vagy két belsõ igazgatósági tag, vagy két ügyvezetõ együttesen.<ujsor/>
- Hatályos: 1998. 04. 24-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g az 1998. 08. 04-Ã©n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+12. Egy kÃ¼lsÅ‘ igazgatÃ³sÃ¡gi tag egy belsÅ‘ igazgatÃ³sÃ¡gi taggal, vagy kÃ©t belsÅ‘ igazgatÃ³sÃ¡gi tag, vagy kÃ©t Ã¼gyvezetÅ‘ egyÃ¼ttesen.<ujsor/>
+ HatÃ¡lyos: 1998. 04. 24-tÅ‘l.<ujsor/>
 Bejegyezve: 1998. 09. 02.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110043269</mezo>
-<mezo id = "nev">Magyar Cetelem Bank Részvénytársaság</mezo>
-<mezo id = "cim">1024 Budapest, Csalogány u. 47-49.</mezo>
+<mezo id = "nev">Magyar Cetelem Bank RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1024 Budapest, CsalogÃ¡ny u. 47-49.</mezo>
 <mezo id = "adosz">12201923144</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság az 1998. 03. 23-án hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-12. A két belsõ igazgatósági tag, illetve a két ügyvezetõ együttes aláírási jogosultsága - az Igazgatóság által jóváhagyott belsõ szabályzatban rögzitett eljárási rend szerint - együttes aláirási jogosultságként átruházható.<ujsor/>
- Egy külsõ igazgatósági tag egy belsõ igazgatósági taggal, vagy két belsõ igazgatósági tag, vagy két ügyvezetõ együttesen.<ujsor/>
- Törölve: 1998. 04. 24-i hatállyal.<ujsor/>
- Egy külsõ igazgatósági tag egy belsõ igazgatósági taggal, vagy két belsõ igazgatósági tag, vagy két ügyvezetõ együttesen, a két belsõ igazgatósági tag, illetve a két ügyvezetõ együttes aláírási jogosultsága - az igazgatóság által jóváhagyott belsõ szabályzatban rögzitett eljárási rend szerint- együttes aláírási jogosultságként átruházható.<ujsor/>
- Hatályos: 1998. 04. 24-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g az 1998. 03. 23-Ã¡n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+12. A kÃ©t belsÅ‘ igazgatÃ³sÃ¡gi tag, illetve a kÃ©t Ã¼gyvezetÅ‘ egyÃ¼ttes alÃ¡Ã­rÃ¡si jogosultsÃ¡ga - az IgazgatÃ³sÃ¡g Ã¡ltal jÃ³vÃ¡hagyott belsÅ‘ szabÃ¡lyzatban rÃ¶gzitett eljÃ¡rÃ¡si rend szerint - egyÃ¼ttes alÃ¡irÃ¡si jogosultsÃ¡gkÃ©nt Ã¡truhÃ¡zhatÃ³.<ujsor/>
+ Egy kÃ¼lsÅ‘ igazgatÃ³sÃ¡gi tag egy belsÅ‘ igazgatÃ³sÃ¡gi taggal, vagy kÃ©t belsÅ‘ igazgatÃ³sÃ¡gi tag, vagy kÃ©t Ã¼gyvezetÅ‘ egyÃ¼ttesen.<ujsor/>
+ TÃ¶rÃ¶lve: 1998. 04. 24-i hatÃ¡llyal.<ujsor/>
+ Egy kÃ¼lsÅ‘ igazgatÃ³sÃ¡gi tag egy belsÅ‘ igazgatÃ³sÃ¡gi taggal, vagy kÃ©t belsÅ‘ igazgatÃ³sÃ¡gi tag, vagy kÃ©t Ã¼gyvezetÅ‘ egyÃ¼ttesen, a kÃ©t belsÅ‘ igazgatÃ³sÃ¡gi tag, illetve a kÃ©t Ã¼gyvezetÅ‘ egyÃ¼ttes alÃ¡Ã­rÃ¡si jogosultsÃ¡ga - az igazgatÃ³sÃ¡g Ã¡ltal jÃ³vÃ¡hagyott belsÅ‘ szabÃ¡lyzatban rÃ¶gzitett eljÃ¡rÃ¡si rend szerint- egyÃ¼ttes alÃ¡Ã­rÃ¡si jogosultsÃ¡gkÃ©nt Ã¡truhÃ¡zhatÃ³.<ujsor/>
+ HatÃ¡lyos: 1998. 04. 24-tÅ‘l.<ujsor/>
 Bejegyezve: 1998. 09. 21.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110043269</mezo>
-<mezo id = "nev">Magyar Cetelem Bank Részvénytársaság</mezo>
-<mezo id = "cim">1024 Budapest, Csalogány u. 47-49.</mezo>
+<mezo id = "nev">Magyar Cetelem Bank RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1024 Budapest, CsalogÃ¡ny u. 47-49.</mezo>
 <mezo id = "adosz">12201923144</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság az 1998. 12. 02-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. Carlo Fioravanti (an: Adele Corsi) külsõ igazgatósági tag<ujsor/>
-Külföldi cím: IT 50019 Sesto Fiorentino (Firenze) Via Genova 39.<ujsor/>
- Kézbesítési megbízott: Dr. Bocskói Adrienn (an: Tenczer Éva)<ujsor/>
-1024 Budapest, Csalogány utca 47-49.<ujsor/>
- Jean-Paul Doumeng (an: Evelyn Cherri) külsõ igazgatósági tag<ujsor/>
-Külföldi cím: FR 92800 Puteaux Rue Godefroy 31.<ujsor/>
- Kézbesítési megbízott: Dr. Bocskói Adrienn (an: Tenczer Éva)<ujsor/>
-1024 Budapest, Csalogány utca 47-49.<ujsor/>
- Henri-Paul Fruchaud (an: Francine Foucault) külsõ igazgatósági tag<ujsor/>
-Külföldi cím: FR 92100 Boulogne Rue de Sevres 41.<ujsor/>
- Kézbesítési megbízott: Dr. Bocskói Adrienn (an: Tenczer Éva)<ujsor/>
-1024 Budapest, Csalogány utca 47-49.<ujsor/>
- Törölve: 1998. 11. 24-i hatállyal.<ujsor/>
- Carlo Fioravanti (an: Adele Corsi) külsõ igazgatósági tag<ujsor/>
-Külföldi cím: IT 50019 Sesto Fiorentino (Firenze).<ujsor/>
- Kézbesítési megbízott: Dr. Bocskói Adrienn (an: Tenczer Éva)<ujsor/>
-1024 Budapest, Csalogány utca 47-49.<ujsor/>
- Jean-Paul Doumeng (an: Evelyn Cherri) külsõ igazgatósági tag<ujsor/>
-Külföldi cím: FR 92800 Puteaux Rue Godefroy 31.<ujsor/>
- Kézbesítési megbízott: Dr. Bocskói Adrienn (an: Tenczer Éva)<ujsor/>
-1024 Budapest, Csalogány utca 47-49.<ujsor/>
- Henri-Paul Fruchaud (an: Francine Foucault) külsõ igazgatósági tag<ujsor/>
-Külföldi cím: FR 92100 Boulogne Rue de Sevres 41.<ujsor/>
- Kézbesítési megbízott: Dr. Bocskói Adrienn (an: Tenczer Éva)<ujsor/>
-1024 Budapest, Csalogány utca 47-49.<ujsor/>
- Hatályos: 1998. 10. 08-tól.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g az 1998. 12. 02-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. Carlo Fioravanti (an: Adele Corsi) kÃ¼lsÅ‘ igazgatÃ³sÃ¡gi tag<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: IT 50019 Sesto Fiorentino (Firenze) Via Genova 39.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott: Dr. BocskÃ³i Adrienn (an: Tenczer Ã‰va)<ujsor/>
+1024 Budapest, CsalogÃ¡ny utca 47-49.<ujsor/>
+ Jean-Paul Doumeng (an: Evelyn Cherri) kÃ¼lsÅ‘ igazgatÃ³sÃ¡gi tag<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: FR 92800 Puteaux Rue Godefroy 31.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott: Dr. BocskÃ³i Adrienn (an: Tenczer Ã‰va)<ujsor/>
+1024 Budapest, CsalogÃ¡ny utca 47-49.<ujsor/>
+ Henri-Paul Fruchaud (an: Francine Foucault) kÃ¼lsÅ‘ igazgatÃ³sÃ¡gi tag<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: FR 92100 Boulogne Rue de Sevres 41.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott: Dr. BocskÃ³i Adrienn (an: Tenczer Ã‰va)<ujsor/>
+1024 Budapest, CsalogÃ¡ny utca 47-49.<ujsor/>
+ TÃ¶rÃ¶lve: 1998. 11. 24-i hatÃ¡llyal.<ujsor/>
+ Carlo Fioravanti (an: Adele Corsi) kÃ¼lsÅ‘ igazgatÃ³sÃ¡gi tag<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: IT 50019 Sesto Fiorentino (Firenze).<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott: Dr. BocskÃ³i Adrienn (an: Tenczer Ã‰va)<ujsor/>
+1024 Budapest, CsalogÃ¡ny utca 47-49.<ujsor/>
+ Jean-Paul Doumeng (an: Evelyn Cherri) kÃ¼lsÅ‘ igazgatÃ³sÃ¡gi tag<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: FR 92800 Puteaux Rue Godefroy 31.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott: Dr. BocskÃ³i Adrienn (an: Tenczer Ã‰va)<ujsor/>
+1024 Budapest, CsalogÃ¡ny utca 47-49.<ujsor/>
+ Henri-Paul Fruchaud (an: Francine Foucault) kÃ¼lsÅ‘ igazgatÃ³sÃ¡gi tag<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: FR 92100 Boulogne Rue de Sevres 41.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott: Dr. BocskÃ³i Adrienn (an: Tenczer Ã‰va)<ujsor/>
+1024 Budapest, CsalogÃ¡ny utca 47-49.<ujsor/>
+ HatÃ¡lyos: 1998. 10. 08-tÃ³l.<ujsor/>
 Bejegyezve: 1998. 12. 29.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110043269</mezo>
-<mezo id = "nev">Magyar Cetelem Bank Részvénytársaság</mezo>
-<mezo id = "cim">1024 Budapest, Csalogány u. 47-49.</mezo>
+<mezo id = "nev">Magyar Cetelem Bank RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1024 Budapest, CsalogÃ¡ny u. 47-49.</mezo>
 <mezo id = "adosz">12201923144</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság az 1999. 06. 15-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. Jean-Paul Doumeng (an: Evelyn Cherri) külsõ igazgatósági tag<ujsor/>
-Külföldi cím: FR 92800 Puteaux, Rue Godefroy 31.<ujsor/>
- Kézbesítési megbízott: Dr. Bocskói Adrienn (an: Tenczer Éva)<ujsor/>
-1024 Budapest, Csalogány utca 47-49.<ujsor/>
- Törölve: 1999. 04. 29-i hatállyal.<ujsor/>
- Jean-Paul Doumeng (an: Evelyn Cherri) külsõ igazgatósági tag<ujsor/>
-Külföldi cím: FR 92800 Puteaux, Rue Godefroy 31.<ujsor/>
- Kézbesítési megbízott: dr. Bocskói Adrienn (an: Tenczer Éva)<ujsor/>
-1024 Budapest, Csalogány u. 47-49.<ujsor/>
- Hatályos: 1999. 04. 29-tõl.<ujsor/>
-15. Márkus Mária (an: Kondor Mária)<ujsor/>
-1124 Budapest, Thomán István u. 18.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g az 1999. 06. 15-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. Jean-Paul Doumeng (an: Evelyn Cherri) kÃ¼lsÅ‘ igazgatÃ³sÃ¡gi tag<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: FR 92800 Puteaux, Rue Godefroy 31.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott: Dr. BocskÃ³i Adrienn (an: Tenczer Ã‰va)<ujsor/>
+1024 Budapest, CsalogÃ¡ny utca 47-49.<ujsor/>
+ TÃ¶rÃ¶lve: 1999. 04. 29-i hatÃ¡llyal.<ujsor/>
+ Jean-Paul Doumeng (an: Evelyn Cherri) kÃ¼lsÅ‘ igazgatÃ³sÃ¡gi tag<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: FR 92800 Puteaux, Rue Godefroy 31.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott: dr. BocskÃ³i Adrienn (an: Tenczer Ã‰va)<ujsor/>
+1024 Budapest, CsalogÃ¡ny u. 47-49.<ujsor/>
+ HatÃ¡lyos: 1999. 04. 29-tÅ‘l.<ujsor/>
+15. MÃ¡rkus MÃ¡ria (an: Kondor MÃ¡ria)<ujsor/>
+1124 Budapest, ThomÃ¡n IstvÃ¡n u. 18.<ujsor/>
  Anne Chamoux (an: Marie-Francoise Vidonne)<ujsor/>
-Külföldi cím: FR 78100 St. Germain-En-Laye, Rue d&apos; Alsace 23. ter.<ujsor/>
- Kézbesítési megbízott: Dr. Bocskói Adrienn (an: Tenczer Éva)<ujsor/>
-1024 Budapest, Csalogány utca 47-49.<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: FR 78100 St. Germain-En-Laye, Rue d&apos; Alsace 23. ter.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott: Dr. BocskÃ³i Adrienn (an: Tenczer Ã‰va)<ujsor/>
+1024 Budapest, CsalogÃ¡ny utca 47-49.<ujsor/>
  Francois Julien-Labruyere (an: Marcelle Berriot)<ujsor/>
-Külföldi cím: FR 78000 Versailles, Rue Gallieni 3.<ujsor/>
- Kézbesítési megbízott: Dr. Bocskói Adrienn (an: Tenczer Éva)<ujsor/>
-1024 Budapest, Csalogány utca 47-49.<ujsor/>
- Törölve: 1999. 04. 29-i hatállyal.<ujsor/>
- Márkus Mária (an: Kondor Mária)<ujsor/>
-1124 Budapest, Thomán István u. 18.<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: FR 78000 Versailles, Rue Gallieni 3.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott: Dr. BocskÃ³i Adrienn (an: Tenczer Ã‰va)<ujsor/>
+1024 Budapest, CsalogÃ¡ny utca 47-49.<ujsor/>
+ TÃ¶rÃ¶lve: 1999. 04. 29-i hatÃ¡llyal.<ujsor/>
+ MÃ¡rkus MÃ¡ria (an: Kondor MÃ¡ria)<ujsor/>
+1124 Budapest, ThomÃ¡n IstvÃ¡n u. 18.<ujsor/>
  Francois Julien-Labruyere (an: Marcelle Berriot)<ujsor/>
-Külföldi cím: FR 78000 Versailles, Rue Gallieni 3.<ujsor/>
- Kézbesítési megbízott: dr. Bocskói Adrienn (an: Tenczer Éva)<ujsor/>
-1024 Budapest, Csalogány u. 47-49.<ujsor/>
- Hatályos: 1999. 04. 29-tõl.<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: FR 78000 Versailles, Rue Gallieni 3.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott: dr. BocskÃ³i Adrienn (an: Tenczer Ã‰va)<ujsor/>
+1024 Budapest, CsalogÃ¡ny u. 47-49.<ujsor/>
+ HatÃ¡lyos: 1999. 04. 29-tÅ‘l.<ujsor/>
 Bejegyezve: 1999. 07. 20.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110043269</mezo>
-<mezo id = "nev">Magyar Cetelem Bank Részvénytársaság</mezo>
-<mezo id = "cim">1024 Budapest, Csalogány u. 47-49.</mezo>
+<mezo id = "nev">Magyar Cetelem Bank RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1024 Budapest, CsalogÃ¡ny u. 47-49.</mezo>
 <mezo id = "adosz">12201923144</mezo>
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Le Cetelem S. A. (székhelye: 5 avenue Kléber F-75116 Párizs, Franciaország), az 1997. évi CXLIV. tv. 292. § (1) bekezdésében elõírt kötelezettségének eleget téve, bejelenti, hogy a Magyar Cetelem Bank Részvénytársaság (székhelye: 1024 Budapest, Csalogány u. 47-49.; cégjegyzékszáma: Cg. [01 10 043269]) alaptõkéjének 1 220 000 000 Ft-ról (egymilliárd-kettõszázhúszmillió forintról) 1 320 000 000 Ft-ra (egymilliárd-háromszázhúszmillió forintra) történõ zártkörû felemelése során kibocsátott 100 db (egyszáz darab) törzsrészvény megszerzése következtében, tulajdoni részesedése 1999. október 29-én a Magyar Cetelem Bank Részvénytársaságban 74,6%-ról 76,5%-ra növekedett. Ezzel a Le Cetelem S. A. a Magyar Cetelem Bank Rt.-ben közvetlen irányítást biztosító befolyást szerzett.<ujsor/>
-A hitelezõk a Gt. 296. § (2) bekezdése szerinti jogaikkal élhetnek.<ujsor/>
+<mezo id = "szoveg">A Le Cetelem S. A. (szÃ©khelye: 5 avenue KlÃ©ber F-75116 PÃ¡rizs, FranciaorszÃ¡g), az 1997. Ã©vi CXLIV. tv. 292. Â§ (1) bekezdÃ©sÃ©ben elÅ‘Ã­rt kÃ¶telezettsÃ©gÃ©nek eleget tÃ©ve, bejelenti, hogy a Magyar Cetelem Bank RÃ©szvÃ©nytÃ¡rsasÃ¡g (szÃ©khelye: 1024 Budapest, CsalogÃ¡ny u. 47-49.; cÃ©gjegyzÃ©kszÃ¡ma: Cg. [01 10 043269]) alaptÅ‘kÃ©jÃ©nek 1 220 000 000 Ft-rÃ³l (egymilliÃ¡rd-kettÅ‘szÃ¡zhÃºszmilliÃ³ forintrÃ³l) 1 320 000 000 Ft-ra (egymilliÃ¡rd-hÃ¡romszÃ¡zhÃºszmilliÃ³ forintra) tÃ¶rtÃ©nÅ‘ zÃ¡rtkÃ¶rÅ± felemelÃ©se sorÃ¡n kibocsÃ¡tott 100 db (egyszÃ¡z darab) tÃ¶rzsrÃ©szvÃ©ny megszerzÃ©se kÃ¶vetkeztÃ©ben, tulajdoni rÃ©szesedÃ©se 1999. oktÃ³ber 29-Ã©n a Magyar Cetelem Bank RÃ©szvÃ©nytÃ¡rsasÃ¡gban 74,6%-rÃ³l 76,5%-ra nÃ¶vekedett. Ezzel a Le Cetelem S. A. a Magyar Cetelem Bank Rt.-ben kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡st szerzett.<ujsor/>
+A hitelezÅ‘k a Gt. 296. Â§ (2) bekezdÃ©se szerinti jogaikkal Ã©lhetnek.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110043269</mezo>
-<mezo id = "nev">Magyar Cetelem Bank Részvénytársaság</mezo>
+<mezo id = "nev">Magyar Cetelem Bank RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Le Cetelem S.A. (székhelye: 5 avenue Kléber F-75116 Párizs, Franciaország) bejelenti, hogy a Magyar Cetelem Bank Részvénytársaságban (székhelye: H-1024 Budapest, Csalogány u. 47-49.; cégjegyzékszáma: [Cg. [01 10 043269]) fennálló, közvetlen irányítást biztosító befolyásoló részesedése, a 2000. február 8-án fennálló állapot szerint, 76,5%-ról 99,92%-ra növekedett.*<ujsor/>
-* A közleményt az IM figyelmeztetése ellenére jelentették meg, tekintettel arra, hogy a közvetlen irányítást biztosító befolyás kategórián belüli változást nem kell közvetlenül közzétenni.<ujsor/>
+<mezo id = "szoveg">A Le Cetelem S.A. (szÃ©khelye: 5 avenue KlÃ©ber F-75116 PÃ¡rizs, FranciaorszÃ¡g) bejelenti, hogy a Magyar Cetelem Bank RÃ©szvÃ©nytÃ¡rsasÃ¡gban (szÃ©khelye: H-1024 Budapest, CsalogÃ¡ny u. 47-49.; cÃ©gjegyzÃ©kszÃ¡ma: [Cg. [01 10 043269]) fennÃ¡llÃ³, kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡solÃ³ rÃ©szesedÃ©se, a 2000. februÃ¡r 8-Ã¡n fennÃ¡llÃ³ Ã¡llapot szerint, 76,5%-rÃ³l 99,92%-ra nÃ¶vekedett.*<ujsor/>
+* A kÃ¶zlemÃ©nyt az IM figyelmeztetÃ©se ellenÃ©re jelentettÃ©k meg, tekintettel arra, hogy a kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡s kategÃ³riÃ¡n belÃ¼li vÃ¡ltozÃ¡st nem kell kÃ¶zvetlenÃ¼l kÃ¶zzÃ©tenni.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110043269</mezo>
-<mezo id = "nev">Magyar Cetelem Bank Részvénytársaság</mezo>
+<mezo id = "nev">Magyar Cetelem Bank RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2001. 06. 29-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-12. Két igazgatósági tag együttesen, együttes aláírási jogosultságként a társaság alkalmazottjára átruházható.<ujsor/>
- Törölve: 2001. 06. 29-i hatállyal.<ujsor/>
- Két igazgatósági tag vagy két ügyvezetõ együttesen. Az aláírási jogosultság a belsõ szabályzati eljárási rend szerint az alkalmazottra átruházható.<ujsor/>
- Hatályos: 2001. 06. 29-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2001. 06. 29-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+12. KÃ©t igazgatÃ³sÃ¡gi tag egyÃ¼ttesen, egyÃ¼ttes alÃ¡Ã­rÃ¡si jogosultsÃ¡gkÃ©nt a tÃ¡rsasÃ¡g alkalmazottjÃ¡ra Ã¡truhÃ¡zhatÃ³.<ujsor/>
+ TÃ¶rÃ¶lve: 2001. 06. 29-i hatÃ¡llyal.<ujsor/>
+ KÃ©t igazgatÃ³sÃ¡gi tag vagy kÃ©t Ã¼gyvezetÅ‘ egyÃ¼ttesen. Az alÃ¡Ã­rÃ¡si jogosultsÃ¡g a belsÅ‘ szabÃ¡lyzati eljÃ¡rÃ¡si rend szerint az alkalmazottra Ã¡truhÃ¡zhatÃ³.<ujsor/>
+ HatÃ¡lyos: 2001. 06. 29-tÅ‘l.<ujsor/>
 Bejegyezve: 2001. 08. 22.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110043269</mezo>
-<mezo id = "nev">Magyar Cetelem Bank Részvénytársaság</mezo>
-<mezo id = "cim">1024 Budapest, Csalogány u. 47-49.</mezo>
+<mezo id = "nev">Magyar Cetelem Bank RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1024 Budapest, CsalogÃ¡ny u. 47-49.</mezo>
 <mezo id = "adosz">12201923144</mezo>
 </alrovat>
 <alrovat id = "11">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Magyar Cetelem Bank Részvénytársaság (cégjegyzékszám: [01 10 043269]; 1024 Budapest, Csalogány u. 47–49.) igazgatósága az alapító okirat 6.5. (xxx) pontjában foglalt felhatalmazás alapján 2004. május 24-én hozott, 16/2004. (V. 24.) számú határozatával a Magyar Cetelem Bank Részvénytársaság alaptõkéjének felemelését határozta el, új részvények zárt körben történõ forgalomba hozatalával, az alaptõke felemelése a cégjegyzékbe történõ bejegyzéssel válik hatályossá.<ujsor/>
-Tekintettel arra, hogy a Gt. 246/A § (1) bekezdésének megfelelõ felhívásra más részvényes a részvények átvételére vonatkozó elsõbbségi jogával nem kívánt élni, a társaság igazgatósága a névértéken kibocsátandó 750 db, egyenként egymillió forint névértékû, névre szóló, nyomdai úton elõállításra kerülõ, törzsrészvény átvételére szóló kötelezettségvállalásra, vételi szándéknyilatkozata alapján, a Cetelem S.A. (Franciaország, 75116 Párizs Avenue Kléber 5., cégjegyzékszám: Párizs B542097902) részvényest jogosította fel.<ujsor/>
-Az alaptõke-emelés eredményeként a Magyar Cetelem Bank Rt. alaptõkéje 3053 millió forintról 3803 millió forintra (hárommilliárd-nyolcszázhárommillió forintra) emelkedik.<ujsor/>
-Az igazgatóság az alaptõke felemelésére tekintettel módosította a társaság alapító okiratának 1.7.1. és 2.1.1. pontjait.<ujsor/>
+<mezo id = "szoveg">A Magyar Cetelem Bank RÃ©szvÃ©nytÃ¡rsasÃ¡g (cÃ©gjegyzÃ©kszÃ¡m: [01 10 043269]; 1024 Budapest, CsalogÃ¡ny u. 47â€“49.) igazgatÃ³sÃ¡ga az alapÃ­tÃ³ okirat 6.5. (xxx) pontjÃ¡ban foglalt felhatalmazÃ¡s alapjÃ¡n 2004. mÃ¡jus 24-Ã©n hozott, 16/2004. (V. 24.) szÃ¡mÃº hatÃ¡rozatÃ¡val a Magyar Cetelem Bank RÃ©szvÃ©nytÃ¡rsasÃ¡g alaptÅ‘kÃ©jÃ©nek felemelÃ©sÃ©t hatÃ¡rozta el, Ãºj rÃ©szvÃ©nyek zÃ¡rt kÃ¶rben tÃ¶rtÃ©nÅ‘ forgalomba hozatalÃ¡val, az alaptÅ‘ke felemelÃ©se a cÃ©gjegyzÃ©kbe tÃ¶rtÃ©nÅ‘ bejegyzÃ©ssel vÃ¡lik hatÃ¡lyossÃ¡.<ujsor/>
+Tekintettel arra, hogy a Gt. 246/A Â§ (1) bekezdÃ©sÃ©nek megfelelÅ‘ felhÃ­vÃ¡sra mÃ¡s rÃ©szvÃ©nyes a rÃ©szvÃ©nyek Ã¡tvÃ©telÃ©re vonatkozÃ³ elsÅ‘bbsÃ©gi jogÃ¡val nem kÃ­vÃ¡nt Ã©lni, a tÃ¡rsasÃ¡g igazgatÃ³sÃ¡ga a nÃ©vÃ©rtÃ©ken kibocsÃ¡tandÃ³ 750 db, egyenkÃ©nt egymilliÃ³ forint nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³, nyomdai Ãºton elÅ‘Ã¡llÃ­tÃ¡sra kerÃ¼lÅ‘, tÃ¶rzsrÃ©szvÃ©ny Ã¡tvÃ©telÃ©re szÃ³lÃ³ kÃ¶telezettsÃ©gvÃ¡llalÃ¡sra, vÃ©teli szÃ¡ndÃ©knyilatkozata alapjÃ¡n, a Cetelem S.A. (FranciaorszÃ¡g, 75116 PÃ¡rizs Avenue KlÃ©ber 5., cÃ©gjegyzÃ©kszÃ¡m: PÃ¡rizs B542097902) rÃ©szvÃ©nyest jogosÃ­totta fel.<ujsor/>
+Az alaptÅ‘ke-emelÃ©s eredmÃ©nyekÃ©nt a Magyar Cetelem Bank Rt. alaptÅ‘kÃ©je 3053 milliÃ³ forintrÃ³l 3803 milliÃ³ forintra (hÃ¡rommilliÃ¡rd-nyolcszÃ¡zhÃ¡rommilliÃ³ forintra) emelkedik.<ujsor/>
+Az igazgatÃ³sÃ¡g az alaptÅ‘ke felemelÃ©sÃ©re tekintettel mÃ³dosÃ­totta a tÃ¡rsasÃ¡g alapÃ­tÃ³ okiratÃ¡nak 1.7.1. Ã©s 2.1.1. pontjait.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110043269</mezo>
-<mezo id = "nev">Magyar Cetelem Bank Részvénytársaság</mezo>
-<mezo id = "cim">1024 Budapest, Csalogány u. 47-49. </mezo>
+<mezo id = "nev">Magyar Cetelem Bank RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1024 Budapest, CsalogÃ¡ny u. 47-49. </mezo>
 </alrovat>
 <alrovat id = "12">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2004. 05. 20-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. A képviselet módja: együttes.<ujsor/>
- Tisztsége: igazgató (vezérigazgató).<ujsor/>
- Dr. Lendvai János (an: Hajnal Piroska)<ujsor/>
-1055 Budapest, Honvéd u. 22.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2004. 05. 20-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: igazgatÃ³ (vezÃ©rigazgatÃ³).<ujsor/>
+ Dr. Lendvai JÃ¡nos (an: Hajnal Piroska)<ujsor/>
+1055 Budapest, HonvÃ©d u. 22.<ujsor/>
  A jogviszony kezdete: 2002. 05. 23.<ujsor/>
- A jogviszony vége: 2005. 05. 31.<ujsor/>
- A képviselet módja: együttes.<ujsor/>
- Tisztsége: igazgató (vezérigazgató).<ujsor/>
+ A jogviszony vÃ©ge: 2005. 05. 31.<ujsor/>
+ A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: igazgatÃ³ (vezÃ©rigazgatÃ³).<ujsor/>
  Dr. Carlo Fioravanti (an: Adele Corsi)<ujsor/>
-Külföldi cím: IT 50019 Sesto Fiorentino Firenze, Via Genova 39.<ujsor/>
- Kézbesítési megbízott: Dr. Bocskói Adrienn (an: Tenczer Éva)<ujsor/>
-1024 Budapest, Csalogány u. 47-49.<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: IT 50019 Sesto Fiorentino Firenze, Via Genova 39.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott: Dr. BocskÃ³i Adrienn (an: Tenczer Ã‰va)<ujsor/>
+1024 Budapest, CsalogÃ¡ny u. 47-49.<ujsor/>
  A jogviszony kezdete: 2002. 05. 23.<ujsor/>
- A jogviszony vége: 2005. 05. 31.<ujsor/>
- A képviselet módja: együttes.<ujsor/>
- Tisztsége: igazgató (vezérigazgató).<ujsor/>
- Márkus Mária (an: Kondor Mária)<ujsor/>
+ A jogviszony vÃ©ge: 2005. 05. 31.<ujsor/>
+ A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: igazgatÃ³ (vezÃ©rigazgatÃ³).<ujsor/>
+ MÃ¡rkus MÃ¡ria (an: Kondor MÃ¡ria)<ujsor/>
 1126 Budapest, Kakukk u. 10/B.<ujsor/>
  A jogviszony kezdete: 2002. 05. 23.<ujsor/>
- A jogviszony vége: 2005. 05. 31.<ujsor/>
- A képviselet módja: együttes.<ujsor/>
- Tisztsége: igazgató (vezérigazgató).<ujsor/>
+ A jogviszony vÃ©ge: 2005. 05. 31.<ujsor/>
+ A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: igazgatÃ³ (vezÃ©rigazgatÃ³).<ujsor/>
  Marc Feltesse (an: Janine Lecat)<ujsor/>
-Külföldi cím: FR 78400 Chatou, Rue Des Ecoles 42.<ujsor/>
- Kézbesítési megbízott: Dr. Bocskói Adrienn (an: Tenczer Éva)<ujsor/>
-1024 Budapest, Csalogány u. 47-49.<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: FR 78400 Chatou, Rue Des Ecoles 42.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott: Dr. BocskÃ³i Adrienn (an: Tenczer Ã‰va)<ujsor/>
+1024 Budapest, CsalogÃ¡ny u. 47-49.<ujsor/>
  A jogviszony kezdete: 2002. 09. 05.<ujsor/>
- A jogviszony vége: 2005. 05. 31.<ujsor/>
- A képviselet módja: együttes.<ujsor/>
- Tisztsége: igazgató (vezérigazgató).<ujsor/>
+ A jogviszony vÃ©ge: 2005. 05. 31.<ujsor/>
+ A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: igazgatÃ³ (vezÃ©rigazgatÃ³).<ujsor/>
  Henri-Paul Fruchaud (an: Francine Foucault)<ujsor/>
-Külföldi cím: FR 92100 Boulogne, rue de Serves 41.<ujsor/>
- Kézbesítési megbízott: Dr. Szendrei Árpád (an: Moka Ibolya)<ujsor/>
-1024 Budapest, Csalogány u. 47-49.<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: FR 92100 Boulogne, rue de Serves 41.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott: Dr. Szendrei ÃrpÃ¡d (an: Moka Ibolya)<ujsor/>
+1024 Budapest, CsalogÃ¡ny u. 47-49.<ujsor/>
  A jogviszony kezdete: 2003. 05. 27.<ujsor/>
- A jogviszony vége: 2005. 05. 31.<ujsor/>
- Törölve: 2004. 05. 20-i hatállyal.<ujsor/>
- A képviselet módja: együttes.<ujsor/>
- Dr. Lendvai János (an: Hajnal Piroska) belsõ igazgatósági tag<ujsor/>
-1055 Budapest, Honvéd u. 22.<ujsor/>
+ A jogviszony vÃ©ge: 2005. 05. 31.<ujsor/>
+ TÃ¶rÃ¶lve: 2004. 05. 20-i hatÃ¡llyal.<ujsor/>
+ A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ Dr. Lendvai JÃ¡nos (an: Hajnal Piroska) belsÅ‘ igazgatÃ³sÃ¡gi tag<ujsor/>
+1055 Budapest, HonvÃ©d u. 22.<ujsor/>
  A jogviszony kezdete: 2002. 05. 23.<ujsor/>
- A jogviszony vége: 2005. 05. 31.<ujsor/>
- A képviselet módja: együttes.<ujsor/>
- Dr. Carlo Fioravanti (an: Adele Corsi) külsõ igazgatósági tag<ujsor/>
-Külföldi cím: IT 50019 Sesto Fiorentino Firenze, Via Genova 39.<ujsor/>
- Kézbesítési megbízott: Dr. Bocskói Adrienn (an: Tenczer Éva)<ujsor/>
-1024 Budapest, Csalogány u. 47-49.<ujsor/>
+ A jogviszony vÃ©ge: 2005. 05. 31.<ujsor/>
+ A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ Dr. Carlo Fioravanti (an: Adele Corsi) kÃ¼lsÅ‘ igazgatÃ³sÃ¡gi tag<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: IT 50019 Sesto Fiorentino Firenze, Via Genova 39.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott: Dr. BocskÃ³i Adrienn (an: Tenczer Ã‰va)<ujsor/>
+1024 Budapest, CsalogÃ¡ny u. 47-49.<ujsor/>
  A jogviszony kezdete: 2002. 05. 23.<ujsor/>
- A jogviszony vége: 2005. 05. 31.<ujsor/>
- A képviselet módja: együttes.<ujsor/>
- Márkus Mária (an: Kondor Mária) belsõ igazgatósági tag<ujsor/>
+ A jogviszony vÃ©ge: 2005. 05. 31.<ujsor/>
+ A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ MÃ¡rkus MÃ¡ria (an: Kondor MÃ¡ria) belsÅ‘ igazgatÃ³sÃ¡gi tag<ujsor/>
 1126 Budapest, Kakukk u. 10.<ujsor/>
  A jogviszony kezdete: 2002. 05. 23.<ujsor/>
- A jogviszony vége: 2005. 05. 31.<ujsor/>
- A képviselet módja: együttes.<ujsor/>
- Marc Feltesse (an: Janine Lecat) külsõ igazgatósági tag<ujsor/>
-Külföldi cím: FR 78400 Chatou, Rue Des Ecoles 42.<ujsor/>
- Kézbesítési megbízott: Dr. Bocskói Adrienn (an: Tenczer Éva)<ujsor/>
-1024 Budapest, Csalogány u. 47-49.<ujsor/>
+ A jogviszony vÃ©ge: 2005. 05. 31.<ujsor/>
+ A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ Marc Feltesse (an: Janine Lecat) kÃ¼lsÅ‘ igazgatÃ³sÃ¡gi tag<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: FR 78400 Chatou, Rue Des Ecoles 42.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott: Dr. BocskÃ³i Adrienn (an: Tenczer Ã‰va)<ujsor/>
+1024 Budapest, CsalogÃ¡ny u. 47-49.<ujsor/>
  A jogviszony kezdete: 2002. 09. 05.<ujsor/>
- A jogviszony vége: 2005. 05. 31.<ujsor/>
- A képviselet módja: együttes.<ujsor/>
- Henri-Paul Fruchaud (an: Francine Foucault) külsõ igazgatósági tag<ujsor/>
-Külföldi cím: FR 92100 Boulogne, rue de Serves 41.<ujsor/>
- Kézbesítési megbízott: Dr. Szendrei Árpád (an: Moka Ibolya)<ujsor/>
-1024 Budapest, Csalogány u. 47-49.<ujsor/>
+ A jogviszony vÃ©ge: 2005. 05. 31.<ujsor/>
+ A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ Henri-Paul Fruchaud (an: Francine Foucault) kÃ¼lsÅ‘ igazgatÃ³sÃ¡gi tag<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: FR 92100 Boulogne, rue de Serves 41.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott: Dr. Szendrei ÃrpÃ¡d (an: Moka Ibolya)<ujsor/>
+1024 Budapest, CsalogÃ¡ny u. 47-49.<ujsor/>
  A jogviszony kezdete: 2003. 05. 27.<ujsor/>
- A jogviszony vége: 2005. 05. 31.<ujsor/>
- Hatályos: 2004. 05. 20-tól.<ujsor/>
+ A jogviszony vÃ©ge: 2005. 05. 31.<ujsor/>
+ HatÃ¡lyos: 2004. 05. 20-tÃ³l.<ujsor/>
 Bejegyezve: 2004. 07. 05.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110043269</mezo>
-<mezo id = "nev">Magyar Cetelem Bank Részvénytársaság</mezo>
-<mezo id = "cim">1024 Budapest, Csalogány u. 47-49.</mezo>
+<mezo id = "nev">Magyar Cetelem Bank RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1024 Budapest, CsalogÃ¡ny u. 47-49.</mezo>
 <mezo id = "adosz">12201923144</mezo>
 </alrovat>
 <alrovat id = "13">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Magyar Cetelem Bank Zártkörûen Mûködõ Részvénytársaság (Cg.: [01 10 043269]; 1024 Budapest, Csalogány u. 47­49.) rendes közgyûlése, az alapító okirat 5.2. (ii) és 11.2. pontjai alapján 2006. május 26-án hozott 19/2006. (V. 26.) számú határozatával a Magyar Cetelem Bank Zártkörûen Mûködõ Részvénytársaság alaptõkéjének felemelését határozta el, új részvények zárt körben történõ forgalomba hozatalával; az alaptõke felemelése a cégjegyzékbe történõ bejegyzéssel válik hatályossá.<ujsor/>
-Tekintettel arra, hogy a Gt. 246/A. § (1) bekezdésének megfelelõ felhívásra más részvényes a részvények átvételére vonatkozó elsõbbségi jogával nem kívánt élni, a társaság rendes közgyûlése a névérték 800%-ának megfelelõ kibocsátási értéken kibocsátandó 100 db, egyenként egymillió forint névértékû, névre szóló, nyomdai úton elõállításra kerülõ törzsrészvény átvételére szóló kötelezettségvállalásra, vételi szándéknyilatkozata alapján a Le Cetelem S.A. (cégjegyzékszám: Párizs, B542097902; Franciaország, 75116 Párizs, Avenue Kléber 5.) részvényest jogosította fel.<ujsor/>
-Az alaptõke-emelés eredményeként a Magyar Cetelem Bank Zrt. alaptõkéje 3 803 000 000 Ft-ról 3 903 000 000 Ft-ra (hárommilliárd-kilencszázhárommillió forintra) emelkedik.<ujsor/>
-A rendes közgyûlés az alaptõke felemelésére tekintettel 2006. május 26-i hatállyal módosította a társaság alapító okiratának 1.7.1. és 2.1.1. pontjait.<ujsor/>
+<mezo id = "szoveg">A Magyar Cetelem Bank ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 043269]; 1024 Budapest, CsalogÃ¡ny u. 47Â­49.) rendes kÃ¶zgyÅ±lÃ©se, az alapÃ­tÃ³ okirat 5.2. (ii) Ã©s 11.2. pontjai alapjÃ¡n 2006. mÃ¡jus 26-Ã¡n hozott 19/2006. (V. 26.) szÃ¡mÃº hatÃ¡rozatÃ¡val a Magyar Cetelem Bank ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g alaptÅ‘kÃ©jÃ©nek felemelÃ©sÃ©t hatÃ¡rozta el, Ãºj rÃ©szvÃ©nyek zÃ¡rt kÃ¶rben tÃ¶rtÃ©nÅ‘ forgalomba hozatalÃ¡val; az alaptÅ‘ke felemelÃ©se a cÃ©gjegyzÃ©kbe tÃ¶rtÃ©nÅ‘ bejegyzÃ©ssel vÃ¡lik hatÃ¡lyossÃ¡.<ujsor/>
+Tekintettel arra, hogy a Gt. 246/A. Â§ (1) bekezdÃ©sÃ©nek megfelelÅ‘ felhÃ­vÃ¡sra mÃ¡s rÃ©szvÃ©nyes a rÃ©szvÃ©nyek Ã¡tvÃ©telÃ©re vonatkozÃ³ elsÅ‘bbsÃ©gi jogÃ¡val nem kÃ­vÃ¡nt Ã©lni, a tÃ¡rsasÃ¡g rendes kÃ¶zgyÅ±lÃ©se a nÃ©vÃ©rtÃ©k 800%-Ã¡nak megfelelÅ‘ kibocsÃ¡tÃ¡si Ã©rtÃ©ken kibocsÃ¡tandÃ³ 100 db, egyenkÃ©nt egymilliÃ³ forint nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³, nyomdai Ãºton elÅ‘Ã¡llÃ­tÃ¡sra kerÃ¼lÅ‘ tÃ¶rzsrÃ©szvÃ©ny Ã¡tvÃ©telÃ©re szÃ³lÃ³ kÃ¶telezettsÃ©gvÃ¡llalÃ¡sra, vÃ©teli szÃ¡ndÃ©knyilatkozata alapjÃ¡n a Le Cetelem S.A. (cÃ©gjegyzÃ©kszÃ¡m: PÃ¡rizs, B542097902; FranciaorszÃ¡g, 75116 PÃ¡rizs, Avenue KlÃ©ber 5.) rÃ©szvÃ©nyest jogosÃ­totta fel.<ujsor/>
+Az alaptÅ‘ke-emelÃ©s eredmÃ©nyekÃ©nt a Magyar Cetelem Bank Zrt. alaptÅ‘kÃ©je 3 803 000 000 Ft-rÃ³l 3 903 000 000 Ft-ra (hÃ¡rommilliÃ¡rd-kilencszÃ¡zhÃ¡rommilliÃ³ forintra) emelkedik.<ujsor/>
+A rendes kÃ¶zgyÅ±lÃ©s az alaptÅ‘ke felemelÃ©sÃ©re tekintettel 2006. mÃ¡jus 26-i hatÃ¡llyal mÃ³dosÃ­totta a tÃ¡rsasÃ¡g alapÃ­tÃ³ okiratÃ¡nak 1.7.1. Ã©s 2.1.1. pontjait.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110043269</mezo>
-<mezo id = "nev">Magyar Cetelem Bank Részvénytársaság</mezo>
+<mezo id = "nev">Magyar Cetelem Bank RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1024 Budapest</mezo>
 </alrovat>
 <alrovat id = "14">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2005. 05. 19-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-A bíróság 2005 .05 .19-én kelt 01-10-043269/192. számú végzésében a 8/034. számú rovat téves bejegyzés. <ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2005. 05. 19-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+A bÃ­rÃ³sÃ¡g 2005 .05 .19-Ã©n kelt 01-10-043269/192. szÃ¡mÃº vÃ©gzÃ©sÃ©ben a 8/034. szÃ¡mÃº rovat tÃ©ves bejegyzÃ©s. <ujsor/>
 Bejegyezve: 2006. 05. 30.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110043269</mezo>
-<mezo id = "nev">Magyar Cetelem Bank Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">1024 Budapest, Csalogány u. 47-49.</mezo>
+<mezo id = "nev">Magyar Cetelem Bank ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1024 Budapest, CsalogÃ¡ny u. 47-49.</mezo>
 <mezo id = "adosz">12201923144</mezo>
 </alrovat>
 <alrovat id = "15">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Magyar Cetelem Bank Zártkörûen Mûködõ Részvénytársaság (Cg.: [01 10 043269]; székhelye: 1027 Budapest, Tölgyfa u. 1­3.) rendkívüli közgyûlése a Gazdasági társaságokról szóló 2006. évi IV. törvény 252. § alapján, 10/2009. (XI. 30.) számú határozatával 2014. december 31-ig felhatalmazta a Magyar Cetelem Bank Zártkörûen Mûködõ Részvénytársaság Igazgatóságát a társaság alaptõkéjének felemelésérõl szóló határozathozatalra ­ a vételi szándéknyilatkozatra figyelemmel a részvények átvételére szóló kötelezettségvállalásra feljogosított személyre és a részvények részvényszerzõk közötti megoszlására vonatkozó döntéssel ­ üzleti évenként összesen az alaptõke 25 (huszonöt) százalékát meg nem haladó összegben. A rendkívüli közgyûlés határozata alapján az igazgatóság jogosult, illetve köteles erre tekintettel a társaság alapszabályát módosítani.<ujsor/>
+<mezo id = "szoveg">A Magyar Cetelem Bank ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 043269]; szÃ©khelye: 1027 Budapest, TÃ¶lgyfa u. 1Â­3.) rendkÃ­vÃ¼li kÃ¶zgyÅ±lÃ©se a GazdasÃ¡gi tÃ¡rsasÃ¡gokrÃ³l szÃ³lÃ³ 2006. Ã©vi IV. tÃ¶rvÃ©ny 252. Â§ alapjÃ¡n, 10/2009. (XI. 30.) szÃ¡mÃº hatÃ¡rozatÃ¡val 2014. december 31-ig felhatalmazta a Magyar Cetelem Bank ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g IgazgatÃ³sÃ¡gÃ¡t a tÃ¡rsasÃ¡g alaptÅ‘kÃ©jÃ©nek felemelÃ©sÃ©rÅ‘l szÃ³lÃ³ hatÃ¡rozathozatalra Â­ a vÃ©teli szÃ¡ndÃ©knyilatkozatra figyelemmel a rÃ©szvÃ©nyek Ã¡tvÃ©telÃ©re szÃ³lÃ³ kÃ¶telezettsÃ©gvÃ¡llalÃ¡sra feljogosÃ­tott szemÃ©lyre Ã©s a rÃ©szvÃ©nyek rÃ©szvÃ©nyszerzÅ‘k kÃ¶zÃ¶tti megoszlÃ¡sÃ¡ra vonatkozÃ³ dÃ¶ntÃ©ssel Â­ Ã¼zleti Ã©venkÃ©nt Ã¶sszesen az alaptÅ‘ke 25 (huszonÃ¶t) szÃ¡zalÃ©kÃ¡t meg nem haladÃ³ Ã¶sszegben. A rendkÃ­vÃ¼li kÃ¶zgyÅ±lÃ©s hatÃ¡rozata alapjÃ¡n az igazgatÃ³sÃ¡g jogosult, illetve kÃ¶teles erre tekintettel a tÃ¡rsasÃ¡g alapszabÃ¡lyÃ¡t mÃ³dosÃ­tani.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110043269</mezo>
-<mezo id = "nev">Magyar Cetelem Bank Részvénytársaság</mezo>
+<mezo id = "nev">Magyar Cetelem Bank RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1027 Budapest</mezo>
 </alrovat>
 <alrovat id = "16">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság a Cg.01-10-043269 cégjegyzékszámon bejegyzett Magyar Cetelem Bank Zártkörûen Mûködõ Részvénytársaság (1027 Budapest, Tölgyfa utca 1-3.; adószáma: 12201923-4-44) kérelme alapján elrendeli az 2006. június 28. napján hozott Cg.01-10-043269 /211 számú végzésének kijavítását az alábbiak szerint:<ujsor/>
-5(10) Névre szóló részvények<ujsor/>
-Részvényfajta: törzsrészvény 3803 db 1000000.- Ft, azaz egymillió Ft névértékû részvény.<ujsor/>
-Vált. vége: 2006.06.28.<ujsor/>
-Törölve (végzés kelte): 2011. április 6.<ujsor/>
-Részvényfajta: törzsrészvény 3903 db 1000000.- Ft, azaz egymillió Ft névértékû részvény.<ujsor/>
-Vált. kezdete: 2006.06.28.<ujsor/>
-Bejegyezve (végzés kelte): 2011. április 6.<ujsor/>
-E végzés ellen fellebbezésnek nincs helye, azonban az ügyész, továbbá az, akire a végzés rendelkezést tartalmaz - a rendelkezés õt érintõ részére vonatkozóan - pert indíthat a cég ellen a cég székhelye szerint illetékes megyei bíróság elõtt a bejegyzõ végzés hatályon kívül helyezése iránt.<ujsor/>
-A per megindításának a bejegyzõ végzés Cégközlönyben való közzétételétõl, illetve - közzétételi kötelezettség hiányában - annak kézbesítésétõl számított 30 napon belül van helye. A határidõ elmulasztása jogvesztéssel jár.<ujsor/>
-2011. április 6.<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.01-10-043269 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett Magyar Cetelem Bank ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (1027 Budapest, TÃ¶lgyfa utca 1-3.; adÃ³szÃ¡ma: 12201923-4-44) kÃ©relme alapjÃ¡n elrendeli az 2006. jÃºnius 28. napjÃ¡n hozott Cg.01-10-043269 /211 szÃ¡mÃº vÃ©gzÃ©sÃ©nek kijavÃ­tÃ¡sÃ¡t az alÃ¡bbiak szerint:<ujsor/>
+5(10) NÃ©vre szÃ³lÃ³ rÃ©szvÃ©nyek<ujsor/>
+RÃ©szvÃ©nyfajta: tÃ¶rzsrÃ©szvÃ©ny 3803 db 1000000.- Ft, azaz egymilliÃ³ Ft nÃ©vÃ©rtÃ©kÅ± rÃ©szvÃ©ny.<ujsor/>
+VÃ¡lt. vÃ©ge: 2006.06.28.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2011. Ã¡prilis 6.<ujsor/>
+RÃ©szvÃ©nyfajta: tÃ¶rzsrÃ©szvÃ©ny 3903 db 1000000.- Ft, azaz egymilliÃ³ Ft nÃ©vÃ©rtÃ©kÅ± rÃ©szvÃ©ny.<ujsor/>
+VÃ¡lt. kezdete: 2006.06.28.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2011. Ã¡prilis 6.<ujsor/>
+E vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye, azonban az Ã¼gyÃ©sz, tovÃ¡bbÃ¡ az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s Å‘t Ã©rintÅ‘ rÃ©szÃ©re vonatkozÃ³an - pert indÃ­that a cÃ©g ellen a cÃ©g szÃ©khelye szerint illetÃ©kes megyei bÃ­rÃ³sÃ¡g elÅ‘tt a bejegyzÅ‘ vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt.<ujsor/>
+A per megindÃ­tÃ¡sÃ¡nak a bejegyzÅ‘ vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l, illetve - kÃ¶zzÃ©tÃ©teli kÃ¶telezettsÃ©g hiÃ¡nyÃ¡ban - annak kÃ©zbesÃ­tÃ©sÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l van helye. A hatÃ¡ridÅ‘ elmulasztÃ¡sa jogvesztÃ©ssel jÃ¡r.<ujsor/>
+2011. Ã¡prilis 6.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110043269</mezo>
-<mezo id = "nev">Magyar Cetelem Bank Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">1027 Budapest, Tölgyfa utca 1-3.</mezo>
+<mezo id = "nev">Magyar Cetelem Bank ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1027 Budapest, TÃ¶lgyfa utca 1-3.</mezo>
 <mezo id = "adosz">12201923444</mezo>
 </alrovat>
 <alrovat id = "17">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság a Cg.01-10-043269 cégjegyzékszámon bejegyzett Magyar Cetelem Bank Zártkörûen Mûködõ Részvénytársaság (1062 Budapest, Teréz körút 55-57.; adószáma: 12201923-4-44) kérelme alapján elrendeli az 2009. december 10. napján hozott Cg.01-10-043269 /277 számú végzésének kiegészítését az alábbiak szerint:<ujsor/>
-13. A képviseletre jogosult(ak) adatai<ujsor/>
-Baloghné Balogh Margit alkalmazott (an.: Tigyi Piroska)<ujsor/>
-1125 Budapest, Szilágyi Erzsébet fasor 38.<ujsor/>
-Vált. vége: 2009.09.22.<ujsor/>
-Törölve (végzés kelte): 2011. június 29.<ujsor/>
-dr. Trencsényiné Bulla Orsolya alkalmazott (an.: Zavetz Gizella)<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.01-10-043269 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett Magyar Cetelem Bank ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (1062 Budapest, TerÃ©z kÃ¶rÃºt 55-57.; adÃ³szÃ¡ma: 12201923-4-44) kÃ©relme alapjÃ¡n elrendeli az 2009. december 10. napjÃ¡n hozott Cg.01-10-043269 /277 szÃ¡mÃº vÃ©gzÃ©sÃ©nek kiegÃ©szÃ­tÃ©sÃ©t az alÃ¡bbiak szerint:<ujsor/>
+13. A kÃ©pviseletre jogosult(ak) adatai<ujsor/>
+BaloghnÃ© Balogh Margit alkalmazott (an.: Tigyi Piroska)<ujsor/>
+1125 Budapest, SzilÃ¡gyi ErzsÃ©bet fasor 38.<ujsor/>
+VÃ¡lt. vÃ©ge: 2009.09.22.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2011. jÃºnius 29.<ujsor/>
+dr. TrencsÃ©nyinÃ© Bulla Orsolya alkalmazott (an.: Zavetz Gizella)<ujsor/>
 1045 Budapest, Pozsonyi u 4/b.<ujsor/>
-Vált. vége: 2009.09.22.<ujsor/>
-Törölve (végzés kelte): 2011. június 29.<ujsor/>
+VÃ¡lt. vÃ©ge: 2009.09.22.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2011. jÃºnius 29.<ujsor/>
 Patrick Henry alkalmazott (an.: Josette Dunouhaud)<ujsor/>
-Külföldi lakó,illetve tartózkodási helye:<ujsor/>
+KÃ¼lfÃ¶ldi lakÃ³,illetve tartÃ³zkodÃ¡si helye:<ujsor/>
 FR 33138 Cassy, Rue Albert Samain 2.<ujsor/>
-A kézbesítési megbízott:<ujsor/>
-Dr. Bocskói Adrienn (an.: Tenczer Éva)<ujsor/>
-1024 Budapest, Csalogány u 47-49.<ujsor/>
-Vált. vége: 2009.09.22.<ujsor/>
-Törölve (végzés kelte): 2011. június 29.<ujsor/>
-A képviselet módja: együttes.<ujsor/>
-Szabó Szilvia más munkavállaló (an.: Ács Margit)<ujsor/>
-2000 Szentendre, Barackos út 32.<ujsor/>
+A kÃ©zbesÃ­tÃ©si megbÃ­zott:<ujsor/>
+Dr. BocskÃ³i Adrienn (an.: Tenczer Ã‰va)<ujsor/>
+1024 Budapest, CsalogÃ¡ny u 47-49.<ujsor/>
+VÃ¡lt. vÃ©ge: 2009.09.22.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2011. jÃºnius 29.<ujsor/>
+A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+SzabÃ³ Szilvia mÃ¡s munkavÃ¡llalÃ³ (an.: Ãcs Margit)<ujsor/>
+2000 Szentendre, Barackos Ãºt 32.<ujsor/>
 Jogv. kezdete: 1999.10.07.<ujsor/>
-Vált. vége: 2009.09.22.<ujsor/>
-Törölve (végzés kelte): 2011. június 29.<ujsor/>
-A képviselet módja: együttes.<ujsor/>
-Simák Péter Pál más munkavállaló (an.: Lõrincz Katalin)<ujsor/>
-1027 Budapest, Fazekas út 29-31.<ujsor/>
+VÃ¡lt. vÃ©ge: 2009.09.22.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2011. jÃºnius 29.<ujsor/>
+A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+SimÃ¡k PÃ©ter PÃ¡l mÃ¡s munkavÃ¡llalÃ³ (an.: LÅ‘rincz Katalin)<ujsor/>
+1027 Budapest, Fazekas Ãºt 29-31.<ujsor/>
 Jogv. kezdete: 2008.12.01.<ujsor/>
-Vált. vége: 2009.09.22.<ujsor/>
-Törölve (végzés kelte): 2011. június 29.<ujsor/>
-E végzés ellen fellebbezésnek nincs helye, azonban az ügyész, továbbá az, akire a végzés rendelkezést tartalmaz - a rendelkezés õt érintõ részére vonatkozóan - pert indíthat a cég ellen a cég székhelye szerint illetékes megyei bíróság elõtt a bejegyzõ végzés hatályon kívül helyezése iránt.<ujsor/>
-A per megindításának a bejegyzõ végzés Cégközlönyben való közzétételétõl, illetve - közzétételi kötelezettség hiányában - annak kézbesítésétõl számított 30 napon belül van helye. A határidõ elmulasztása jogvesztéssel jár.<ujsor/>
-2011. június 29.<ujsor/>
+VÃ¡lt. vÃ©ge: 2009.09.22.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2011. jÃºnius 29.<ujsor/>
+E vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye, azonban az Ã¼gyÃ©sz, tovÃ¡bbÃ¡ az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s Å‘t Ã©rintÅ‘ rÃ©szÃ©re vonatkozÃ³an - pert indÃ­that a cÃ©g ellen a cÃ©g szÃ©khelye szerint illetÃ©kes megyei bÃ­rÃ³sÃ¡g elÅ‘tt a bejegyzÅ‘ vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt.<ujsor/>
+A per megindÃ­tÃ¡sÃ¡nak a bejegyzÅ‘ vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l, illetve - kÃ¶zzÃ©tÃ©teli kÃ¶telezettsÃ©g hiÃ¡nyÃ¡ban - annak kÃ©zbesÃ­tÃ©sÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l van helye. A hatÃ¡ridÅ‘ elmulasztÃ¡sa jogvesztÃ©ssel jÃ¡r.<ujsor/>
+2011. jÃºnius 29.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110043269</mezo>
-<mezo id = "nev">Magyar Cetelem Bank Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">1062 Budapest, Teréz körút 55-57.</mezo>
+<mezo id = "nev">Magyar Cetelem Bank ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1062 Budapest, TerÃ©z kÃ¶rÃºt 55-57.</mezo>
 <mezo id = "adosz">12201923444</mezo>
 </alrovat>
 </rovat>

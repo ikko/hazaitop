@@ -6,7 +6,7 @@
 <mezo id = "szam">120885</mezo>
 <mezo id = "nevalrovat">2</mezo>
 <mezo id = "regi_szh">0109864467</mezo>
-<mezo id = "cim">2100 Gödöllõ, Dózsa György út 65. </mezo>
+<mezo id = "cim">2100 GÃ¶dÃ¶llÅ‘, DÃ³zsa GyÃ¶rgy Ãºt 65. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">13615611213</mezo>
 </alrovat>
@@ -14,7 +14,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20060807</mezo>
-<mezo id = "nev">Neobusz Magyarország Közlekedési Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Neobusz MagyarorszÃ¡g KÃ¶zlekedÃ©si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -22,7 +22,7 @@
 <rovat id = "3">
 <alrovat id = "2">
 <mezo id = "hattol">20060807</mezo>
-<mezo id = "nev">Neobusz Magyarország Kft.</mezo>
+<mezo id = "nev">Neobusz MagyarorszÃ¡g Kft.</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -30,13 +30,13 @@
 <rovat id = "4">
 <alrovat id = "3">
 <mezo id = "hattol">20060807</mezo>
-<mezo id = "nev">Neobusz Hungary Transportation Limited Liability Company ; rövidítve: Neobusz Hungary Ltd.</mezo>
+<mezo id = "nev">Neobusz Hungary Transportation Limited Liability Company ; rÃ¶vidÃ­tve: Neobusz Hungary Ltd.</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20060807</mezo>
-<mezo id = "nev">Neobusz Ungarn Gesellschaft mit beschränkter Haftung für Transport ; rövidítve: Neobusz Ungarn GmbH</mezo>
+<mezo id = "nev">Neobusz Ungarn Gesellschaft mit beschrÃ¤nkter Haftung fÃ¼r Transport ; rÃ¶vidÃ­tve: Neobusz Ungarn GmbH</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -45,8 +45,8 @@
 <alrovat id = "3">
 <mezo id = "hattol">20100708</mezo>
 <mezo id = "irsz">2100</mezo>
-<mezo id = "hely">Gödöllõ</mezo>
-<mezo id = "teru">Dózsa György út 65.</mezo>
+<mezo id = "hely">GÃ¶dÃ¶llÅ‘</mezo>
+<mezo id = "teru">DÃ³zsa GyÃ¶rgy Ãºt 65.</mezo>
 <mezo id = "valtk">20100708</mezo>
 <mezo id = "bkelt">20100716</mezo>
 </alrovat>
@@ -556,9 +556,9 @@
 <rovat id = "13">
 <alrovat id = "5">
 <mezo id = "hattol">20100916</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Ipacs András</mezo>
-<mezo id = "panev">Nagy Mária</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Ipacs AndrÃ¡s</mezo>
+<mezo id = "panev">Nagy MÃ¡ria</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100916</mezo>
 <mezo id = "valtk">20100916</mezo>
@@ -569,8 +569,8 @@
 <rovat id = "14">
 <alrovat id = "1">
 <mezo id = "hattol">20100708</mezo>
-<mezo id = "pnev">Beller Józsefné</mezo>
-<mezo id = "panev">László Ilona</mezo>
+<mezo id = "pnev">Beller JÃ³zsefnÃ©</mezo>
+<mezo id = "panev">LÃ¡szlÃ³ Ilona</mezo>
 <mezo id = "jogvk">20100708</mezo>
 <mezo id = "valtk">20100708</mezo>
 <mezo id = "bkelt">20100716</mezo>
@@ -610,8 +610,8 @@
 <rovat id = "0109">
 <alrovat id = "7">
 <mezo id = "hattol">20100916</mezo>
-<mezo id = "pnev">Ipacs László</mezo>
-<mezo id = "panev">Nagy Mária</mezo>
+<mezo id = "pnev">Ipacs LÃ¡szlÃ³</mezo>
+<mezo id = "panev">Nagy MÃ¡ria</mezo>
 <mezo id = "tagsk">20100916</mezo>
 <mezo id = "valtk">20100916</mezo>
 <mezo id = "bkelt">20100930</mezo>
@@ -621,19 +621,19 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2008. 09. 17-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-09. 4519&apos;08 Egyéb gépjármû-kereskedelem.<ujsor/>
- A változás idõpontja: 2008. 01. 17.<ujsor/>
- A változás idõpontja (törlés): 2008. 01. 17.<ujsor/>
- Törölve: 2008. 01. 17.<ujsor/>
- 4519&apos;08 Egyéb gépjármû-kereskedelem (fõtevékenység).<ujsor/>
- A változás idõpontja: 2008. 01. 17.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2008. 09. 17-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+09. 4519&apos;08 EgyÃ©b gÃ©pjÃ¡rmÅ±-kereskedelem.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 01. 17.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2008. 01. 17.<ujsor/>
+ TÃ¶rÃ¶lve: 2008. 01. 17.<ujsor/>
+ 4519&apos;08 EgyÃ©b gÃ©pjÃ¡rmÅ±-kereskedelem (fÅ‘tevÃ©kenysÃ©g).<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 01. 17.<ujsor/>
  Bejegyezve: 2008. 01. 17.<ujsor/>
 2009. 02. 25.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1309120885</mezo>
-<mezo id = "nev">Neobusz Magyarország Közlekedési Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">2100 Gödöllõ Ipari Park, Pattantyús Ábrahám körút 3.</mezo>
+<mezo id = "nev">Neobusz MagyarorszÃ¡g KÃ¶zlekedÃ©si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2100 GÃ¶dÃ¶llÅ‘ Ipari Park, PattantyÃºs ÃbrahÃ¡m kÃ¶rÃºt 3.</mezo>
 <mezo id = "adosz">13615611213</mezo>
 </alrovat>
 </rovat>

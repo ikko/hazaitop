@@ -5,7 +5,7 @@
 <mezo id = "cf">06</mezo>
 <mezo id = "szam">003958</mezo>
 <mezo id = "nevalrovat">2</mezo>
-<mezo id = "cim">9081 Gyõrújbarát, Ibolya u. 2. </mezo>
+<mezo id = "cim">9081 GyÅ‘rÃºjbarÃ¡t, Ibolya u. 2. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">22462772208</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">19961218</mezo>
-<mezo id = "nev">ARAMED Kereskedelmi és Szolgáltató Betéti Társaság</mezo>
+<mezo id = "nev">ARAMED Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ BetÃ©ti TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -26,7 +26,7 @@
 <alrovat id = "2">
 <mezo id = "hattol">19970118</mezo>
 <mezo id = "irsz">9081</mezo>
-<mezo id = "hely">Gyõrújbarát</mezo>
+<mezo id = "hely">GyÅ‘rÃºjbarÃ¡t</mezo>
 <mezo id = "teru">Ibolya u. 2.</mezo>
 </alrovat>
 </rovat>
@@ -34,8 +34,8 @@
 <alrovat id = "2">
 <mezo id = "hattol">20110310</mezo>
 <mezo id = "irsz">8313</mezo>
-<mezo id = "hely">Balatongyörök</mezo>
-<mezo id = "teru">Petõfi Sándor utca 4-8.</mezo>
+<mezo id = "hely">BalatongyÃ¶rÃ¶k</mezo>
+<mezo id = "teru">PetÅ‘fi SÃ¡ndor utca 4-8.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20110310</mezo>
 <mezo id = "bkelt">20110406</mezo>
@@ -125,19 +125,19 @@
 <mezo id = "hattol">20110310</mezo>
 <mezo id = "valtk">20110310</mezo>
 <mezo id = "bkelt">20110406</mezo>
-<mezo id = "teaszov">Elektronikus, optikai eszköz javítása</mezo>
+<mezo id = "teaszov">Elektronikus, optikai eszkÃ¶z javÃ­tÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "19">
 <mezo id = "hattol">20110310</mezo>
 <mezo id = "valtk">20110310</mezo>
 <mezo id = "bkelt">20110406</mezo>
-<mezo id = "teaszov">Ipari gép, berendezés javítása</mezo>
+<mezo id = "teaszov">Ipari gÃ©p, berendezÃ©s javÃ­tÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "20">
 <mezo id = "hattol">20110310</mezo>
 <mezo id = "valtk">20110310</mezo>
 <mezo id = "bkelt">20110406</mezo>
-<mezo id = "teaszov">M.n.s. egyéb kiegészítõ üzleti szolgáltatás</mezo>
+<mezo id = "teaszov">M.n.s. egyÃ©b kiegÃ©szÃ­tÅ‘ Ã¼zleti szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -152,11 +152,11 @@
 <rovat id = "13">
 <alrovat id = "3">
 <mezo id = "hattol">20070226</mezo>
-<mezo id = "tiszt">üzletvezetõ</mezo>
-<mezo id = "pnev">Horváth Lászlóné sz.: Németh Zsuzsanna</mezo>
-<mezo id = "panev">Zsajnovics Erzsébet</mezo>
+<mezo id = "tiszt">Ã¼zletvezetÅ‘</mezo>
+<mezo id = "pnev">HorvÃ¡th LÃ¡szlÃ³nÃ© sz.: NÃ©meth Zsuzsanna</mezo>
+<mezo id = "panev">Zsajnovics ErzsÃ©bet</mezo>
 <mezo id = "pirsz">9021</mezo>
-<mezo id = "phely">Gyõr</mezo>
+<mezo id = "phely">GyÅ‘r</mezo>
 <mezo id = "pteru">Bajcsy-Zsilinszky utca 13. III/3.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20061201</mezo>
@@ -164,22 +164,22 @@
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20071201</mezo>
-<mezo id = "tiszt">üzletvezetõ</mezo>
-<mezo id = "pnev">Birkmayer György</mezo>
-<mezo id = "panev">Gruidl Mária</mezo>
+<mezo id = "tiszt">Ã¼zletvezetÅ‘</mezo>
+<mezo id = "pnev">Birkmayer GyÃ¶rgy</mezo>
+<mezo id = "panev">Gruidl MÃ¡ria</mezo>
 <mezo id = "pirsz">9081</mezo>
-<mezo id = "phely">Gyõrújbarát</mezo>
+<mezo id = "phely">GyÅ‘rÃºjbarÃ¡t</mezo>
 <mezo id = "pteru">Ibolya u 2.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20071201</mezo>
 <mezo id = "tkelt">20110406</mezo>
 </alrovat>
 <alrovat id = "5">
-<mezo id = "tiszt">vezetõ tisztségviselõ (üzletvezetésre jogosult tag)</mezo>
-<mezo id = "pnev">Horváth Lászlóné sz.: Németh Zsuzsanna</mezo>
-<mezo id = "panev">Zsajnovics Erzsébet</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼zletvezetÃ©sre jogosult tag)</mezo>
+<mezo id = "pnev">HorvÃ¡th LÃ¡szlÃ³nÃ© sz.: NÃ©meth Zsuzsanna</mezo>
+<mezo id = "panev">Zsajnovics ErzsÃ©bet</mezo>
 <mezo id = "pirsz">9021</mezo>
-<mezo id = "phely">Gyõr</mezo>
+<mezo id = "phely">GyÅ‘r</mezo>
 <mezo id = "pteru">Bajcsy-Zsilinszky utca 13. 3. em. 3.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20061201</mezo>
@@ -187,11 +187,11 @@
 <mezo id = "adoazon">8315743872</mezo>
 </alrovat>
 <alrovat id = "6">
-<mezo id = "tiszt">vezetõ tisztségviselõ (üzletvezetésre jogosult tag)</mezo>
-<mezo id = "pnev">Birkmayer György</mezo>
-<mezo id = "panev">Gruidl Mária</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼zletvezetÃ©sre jogosult tag)</mezo>
+<mezo id = "pnev">Birkmayer GyÃ¶rgy</mezo>
+<mezo id = "panev">Gruidl MÃ¡ria</mezo>
 <mezo id = "pirsz">9081</mezo>
-<mezo id = "phely">Gyõrújbarát</mezo>
+<mezo id = "phely">GyÅ‘rÃºjbarÃ¡t</mezo>
 <mezo id = "pteru">Ibolya utca 2.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20071201</mezo>
@@ -218,10 +218,10 @@
 <rovat id = "0106">
 <alrovat id = "3">
 <mezo id = "hattol">20070226</mezo>
-<mezo id = "pnev">Birkmayer György</mezo>
-<mezo id = "panev">Gruidl Mária</mezo>
+<mezo id = "pnev">Birkmayer GyÃ¶rgy</mezo>
+<mezo id = "panev">Gruidl MÃ¡ria</mezo>
 <mezo id = "pirsz">9081</mezo>
-<mezo id = "phely">Gyõrújbarát, Ibolya u. 2.</mezo>
+<mezo id = "phely">GyÅ‘rÃºjbarÃ¡t, Ibolya u. 2.</mezo>
 <mezo id = "tagsk">19940210</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">0</mezo>
@@ -231,10 +231,10 @@
 <rovat id = "0206">
 <alrovat id = "3">
 <mezo id = "hattol">20070226</mezo>
-<mezo id = "pnev">Horváth Lászlóné</mezo>
-<mezo id = "panev">Zsajnovits Erzsébet</mezo>
+<mezo id = "pnev">HorvÃ¡th LÃ¡szlÃ³nÃ©</mezo>
+<mezo id = "panev">Zsajnovits ErzsÃ©bet</mezo>
 <mezo id = "pirsz">9021</mezo>
-<mezo id = "phely">Gyõr, Bajcsy-Zsilinszky u. 13. III/3.</mezo>
+<mezo id = "phely">GyÅ‘r, Bajcsy-Zsilinszky u. 13. III/3.</mezo>
 <mezo id = "tagsk">20000815</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">0</mezo>

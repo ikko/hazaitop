@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">710984</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">1133 Budapest, Kárpát utca 21. </mezo>
+<mezo id = "cim">1133 Budapest, KÃ¡rpÃ¡t utca 21. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">12938713241</mezo>
 </alrovat>
@@ -13,13 +13,13 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20030107</mezo>
-<mezo id = "nev">EvoBus Hungária Kereskedelmi Kft.</mezo>
+<mezo id = "nev">EvoBus HungÃ¡ria Kereskedelmi Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">20030107</mezo>
-<mezo id = "nev">EvoBus Hungária Kft.</mezo>
+<mezo id = "nev">EvoBus HungÃ¡ria Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
@@ -27,14 +27,14 @@
 <mezo id = "hattol">20030107</mezo>
 <mezo id = "irsz">1133</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Kárpát utca 21.</mezo>
+<mezo id = "teru">KÃ¡rpÃ¡t utca 21.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "6">
 <alrovat id = "1">
 <mezo id = "hattol">20030930</mezo>
 <mezo id = "irsz">1117</mezo>
-<mezo id = "hely">Budapest, Hunyadi János u. 6.</mezo>
+<mezo id = "hely">Budapest, Hunyadi JÃ¡nos u. 6.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "8">
@@ -503,8 +503,8 @@
 <rovat id = "13">
 <alrovat id = "9">
 <mezo id = "hattol">20091221</mezo>
-<mezo id = "pnev">Kövérné Gömöri Krisztina egyéb</mezo>
-<mezo id = "panev">Fazekas Rózsa</mezo>
+<mezo id = "pnev">KÃ¶vÃ©rnÃ© GÃ¶mÃ¶ri Krisztina egyÃ©b</mezo>
+<mezo id = "panev">Fazekas RÃ³zsa</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20070115</mezo>
 <mezo id = "valtk">20091221</mezo>
@@ -512,9 +512,9 @@
 </alrovat>
 <alrovat id = "11">
 <mezo id = "hattol">20091221</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Uray Dóra</mezo>
-<mezo id = "panev">Buzás Ágnes</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Uray DÃ³ra</mezo>
+<mezo id = "panev">BuzÃ¡s Ãgnes</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20080229</mezo>
 <mezo id = "valtk">20091221</mezo>
@@ -522,12 +522,12 @@
 </alrovat>
 <alrovat id = "12">
 <mezo id = "hattol">20110302</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Ingo Sven Fröhlich</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Ingo Sven FrÃ¶hlich</mezo>
 <mezo id = "panev">Monika Gisela Hegener</mezo>
 <mezo id = "pirsz">1025</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Selyemakác utca 18. 9. ép.</mezo>
+<mezo id = "pteru">SelyemakÃ¡c utca 18. 9. Ã©p.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20110315</mezo>
 <mezo id = "jogvv">20151231</mezo>
@@ -540,13 +540,13 @@
 <alrovat id = "4">
 <mezo id = "hattol">20091113</mezo>
 <mezo id = "cgjsz">0109068660</mezo>
-<mezo id = "nev">ALPINE - Gazdasági Tanácsadó és Könyvvizsgáló Kft.</mezo>
+<mezo id = "nev">ALPINE - GazdasÃ¡gi TanÃ¡csadÃ³ Ã©s KÃ¶nyvvizsgÃ¡lÃ³ Kft.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1026</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Pasaréti út 59.</mezo>
-<mezo id = "pnev">Forgács Gabriella</mezo>
-<mezo id = "panev">Dezsõ Margit</mezo>
+<mezo id = "teru">PasarÃ©ti Ãºt 59.</mezo>
+<mezo id = "pnev">ForgÃ¡cs Gabriella</mezo>
+<mezo id = "panev">DezsÅ‘ Margit</mezo>
 <mezo id = "jogvk">20091113</mezo>
 <mezo id = "jogvv">20121130</mezo>
 <mezo id = "valtk">20091113</mezo>
@@ -560,11 +560,11 @@
 <mezo id = "panev">Doris Battenschlag</mezo>
 <mezo id = "pkorsz">AT</mezo>
 <mezo id = "pkirsz">1070</mezo>
-<mezo id = "pkhely">Bécs, Neubaugürtel 30. 251. ép.</mezo>
+<mezo id = "pkhely">BÃ©cs, NeubaugÃ¼rtel 30. 251. Ã©p.</mezo>
 <mezo id = "pmneve">Bacsi Jani</mezo>
-<mezo id = "pmanev">Gönc Magdolna</mezo>
+<mezo id = "pmanev">GÃ¶nc Magdolna</mezo>
 <mezo id = "pmirsz">2096</mezo>
-<mezo id = "pmhely">Üröm, Gábor Áron sétány 37.</mezo>
+<mezo id = "pmhely">ÃœrÃ¶m, GÃ¡bor Ãron sÃ©tÃ¡ny 37.</mezo>
 <mezo id = "jogvk">20080331</mezo>
 <mezo id = "jogvv">20130331</mezo>
 <mezo id = "valtk">20080401</mezo>
@@ -578,11 +578,11 @@
 <mezo id = "panev">Hildegard Oberbauer</mezo>
 <mezo id = "pkorsz">AT</mezo>
 <mezo id = "pkirsz">5020</mezo>
-<mezo id = "pkhely">Salzburg, Parkstrasse 6. a. ép .</mezo>
+<mezo id = "pkhely">Salzburg, Parkstrasse 6. a. Ã©p .</mezo>
 <mezo id = "pmneve">Bacsi Jani</mezo>
-<mezo id = "pmanev">Gönc Magdolna</mezo>
+<mezo id = "pmanev">GÃ¶nc Magdolna</mezo>
 <mezo id = "pmirsz">2096</mezo>
-<mezo id = "pmhely">Üröm, Gábor Áron sétány 37.</mezo>
+<mezo id = "pmhely">ÃœrÃ¶m, GÃ¡bor Ãron sÃ©tÃ¡ny 37.</mezo>
 <mezo id = "jogvk">20080331</mezo>
 <mezo id = "jogvv">20130331</mezo>
 <mezo id = "valtk">20080401</mezo>
@@ -596,7 +596,7 @@
 <mezo id = "panev">Erna Brigitta Metz</mezo>
 <mezo id = "pkorsz">AT</mezo>
 <mezo id = "pkirsz">5084</mezo>
-<mezo id = "pkhely">Grossgmain, Reiterweg 487. a. ép.</mezo>
+<mezo id = "pkhely">Grossgmain, Reiterweg 487. a. Ã©p.</mezo>
 <mezo id = "jogvk">20090131</mezo>
 <mezo id = "jogvv">20140131</mezo>
 <mezo id = "valtk">20090130</mezo>
@@ -637,9 +637,9 @@
 <mezo id = "teru">Innsbrucker Bundesstrasse</mezo>
 <mezo id = "hsz">111.</mezo>
 <mezo id = "pmnev">Bacsi Jani</mezo>
-<mezo id = "pmanev">Gönc Magdolna</mezo>
+<mezo id = "pmanev">GÃ¶nc Magdolna</mezo>
 <mezo id = "pmirsz">2096</mezo>
-<mezo id = "pmhely">Üröm, Gábor Áron sétány 37.</mezo>
+<mezo id = "pmhely">ÃœrÃ¶m, GÃ¡bor Ãron sÃ©tÃ¡ny 37.</mezo>
 <mezo id = "tagsk">20040510</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20080514</mezo>
@@ -656,9 +656,9 @@
 <mezo id = "teru">Vaihinger Str.</mezo>
 <mezo id = "hsz">131.</mezo>
 <mezo id = "pmnev">Bacsi Jani</mezo>
-<mezo id = "pmanev">Gönc Magdolna</mezo>
+<mezo id = "pmanev">GÃ¶nc Magdolna</mezo>
 <mezo id = "pmirsz">2096</mezo>
-<mezo id = "pmhely">Üröm, Gábor Áron sétány 37.</mezo>
+<mezo id = "pmhely">ÃœrÃ¶m, GÃ¡bor Ãron sÃ©tÃ¡ny 37.</mezo>
 <mezo id = "tagsk">20040510</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20080411</mezo>

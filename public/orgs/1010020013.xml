@@ -5,7 +5,7 @@
 <mezo id = "cf">10</mezo>
 <mezo id = "szam">020013</mezo>
 <mezo id = "nevalrovat">2</mezo>
-<mezo id = "cim">3200 Gyöngyös, Kenyérgyár u. 17. </mezo>
+<mezo id = "cim">3200 GyÃ¶ngyÃ¶s, KenyÃ©rgyÃ¡r u. 17. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">10571763210</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20060713</mezo>
-<mezo id = "nev">Városgondozási Zártkörû Részvénytársaság</mezo>
+<mezo id = "nev">VÃ¡rosgondozÃ¡si ZÃ¡rtkÃ¶rÅ± RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -21,7 +21,7 @@
 <rovat id = "3">
 <alrovat id = "2">
 <mezo id = "hattol">20060713</mezo>
-<mezo id = "nev">Városgondozási Zrt.</mezo>
+<mezo id = "nev">VÃ¡rosgondozÃ¡si Zrt.</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -30,34 +30,34 @@
 <alrovat id = "2">
 <mezo id = "hattol">19950413</mezo>
 <mezo id = "irsz">3200</mezo>
-<mezo id = "hely">Gyöngyös</mezo>
-<mezo id = "teru">Kenyérgyár u. 17.</mezo>
+<mezo id = "hely">GyÃ¶ngyÃ¶s</mezo>
+<mezo id = "teru">KenyÃ©rgyÃ¡r u. 17.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "6">
 <alrovat id = "2">
 <mezo id = "hattol">20050630</mezo>
 <mezo id = "irsz">3200</mezo>
-<mezo id = "hely">Gyöngyös, Egri u. 30.</mezo>
+<mezo id = "hely">GyÃ¶ngyÃ¶s, Egri u. 30.</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20060526</mezo>
 <mezo id = "irsz">3200</mezo>
-<mezo id = "hely">Gyöngyös, Madách út 16.</mezo>
+<mezo id = "hely">GyÃ¶ngyÃ¶s, MadÃ¡ch Ãºt 16.</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20060526</mezo>
 <mezo id = "irsz">3200</mezo>
-<mezo id = "hely">Gyöngyös, Olimpia út 8.</mezo>
+<mezo id = "hely">GyÃ¶ngyÃ¶s, Olimpia Ãºt 8.</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20060526</mezo>
 <mezo id = "irsz">3200</mezo>
-<mezo id = "hely">Gyöngyös, Bugát Pál tér 4.</mezo>
+<mezo id = "hely">GyÃ¶ngyÃ¶s, BugÃ¡t PÃ¡l tÃ©r 4.</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -720,10 +720,10 @@
 <rovat id = "13">
 <alrovat id = "34">
 <mezo id = "hattol">20081215</mezo>
-<mezo id = "pnev">Melicher Lászlóné</mezo>
-<mezo id = "panev">Magyar Jolán</mezo>
+<mezo id = "pnev">Melicher LÃ¡szlÃ³nÃ©</mezo>
+<mezo id = "panev">Magyar JolÃ¡n</mezo>
 <mezo id = "pirsz">3200</mezo>
-<mezo id = "phely">Gyöngyös, Laktanya u. 10.</mezo>
+<mezo id = "phely">GyÃ¶ngyÃ¶s, Laktanya u. 10.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20081215</mezo>
@@ -734,9 +734,9 @@
 </alrovat>
 <alrovat id = "36">
 <mezo id = "hattol">20100427</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Nagyné Tómács Ildikó</mezo>
-<mezo id = "panev">Dudás Rozália</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">NagynÃ© TÃ³mÃ¡cs IldikÃ³</mezo>
+<mezo id = "panev">DudÃ¡s RozÃ¡lia</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20100427</mezo>
 <mezo id = "valtk">20100427</mezo>
@@ -745,12 +745,12 @@
 </alrovat>
 <alrovat id = "39">
 <mezo id = "hattol">20110501</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (vezérigazgató)</mezo>
-<mezo id = "pnev">Dorsánszki Zsolt</mezo>
-<mezo id = "panev">Bércesi Borbála</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (vezÃ©rigazgatÃ³)</mezo>
+<mezo id = "pnev">DorsÃ¡nszki Zsolt</mezo>
+<mezo id = "panev">BÃ©rcesi BorbÃ¡la</mezo>
 <mezo id = "pirsz">3200</mezo>
-<mezo id = "phely">Gyöngyös</mezo>
-<mezo id = "pteru">Berze Nagy János u. 25.</mezo>
+<mezo id = "phely">GyÃ¶ngyÃ¶s</mezo>
+<mezo id = "pteru">Berze Nagy JÃ¡nos u. 25.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20110501</mezo>
 <mezo id = "jogvv">20160430</mezo>
@@ -762,11 +762,11 @@
 <rovat id = "14">
 <alrovat id = "7">
 <mezo id = "hattol">20110601</mezo>
-<mezo id = "pnev">Koncz Sándorné dr.</mezo>
+<mezo id = "pnev">Koncz SÃ¡ndornÃ© dr.</mezo>
 <mezo id = "panev">Terenyei Julianna</mezo>
 <mezo id = "pirsz">3300</mezo>
 <mezo id = "phely">Eger</mezo>
-<mezo id = "pteru">Rajner Károly u. 51.</mezo>
+<mezo id = "pteru">Rajner KÃ¡roly u. 51.</mezo>
 <mezo id = "jogvk">20110601</mezo>
 <mezo id = "jogvv">20160531</mezo>
 <mezo id = "valtk">20110601</mezo>
@@ -776,11 +776,11 @@
 <rovat id = "15">
 <alrovat id = "37">
 <mezo id = "hattol">20110601</mezo>
-<mezo id = "pnev">Dr. Végh Attila</mezo>
-<mezo id = "panev">Borosi Mária</mezo>
+<mezo id = "pnev">Dr. VÃ©gh Attila</mezo>
+<mezo id = "panev">Borosi MÃ¡ria</mezo>
 <mezo id = "pirsz">3200</mezo>
-<mezo id = "phely">Gyöngyös</mezo>
-<mezo id = "pteru">Belváros tér 4.</mezo>
+<mezo id = "phely">GyÃ¶ngyÃ¶s</mezo>
+<mezo id = "pteru">BelvÃ¡ros tÃ©r 4.</mezo>
 <mezo id = "jogvk">20110601</mezo>
 <mezo id = "jogvv">20160531</mezo>
 <mezo id = "valtk">20110601</mezo>
@@ -788,10 +788,10 @@
 </alrovat>
 <alrovat id = "38">
 <mezo id = "hattol">20110601</mezo>
-<mezo id = "pnev">Székely Zoltán</mezo>
-<mezo id = "panev">Borosi Irén</mezo>
+<mezo id = "pnev">SzÃ©kely ZoltÃ¡n</mezo>
+<mezo id = "panev">Borosi IrÃ©n</mezo>
 <mezo id = "pirsz">3036</mezo>
-<mezo id = "phely">Gyöngyöstarján</mezo>
+<mezo id = "phely">GyÃ¶ngyÃ¶starjÃ¡n</mezo>
 <mezo id = "pteru">Fajzati utca 4/C.</mezo>
 <mezo id = "jogvk">20110601</mezo>
 <mezo id = "jogvv">20160531</mezo>
@@ -800,11 +800,11 @@
 </alrovat>
 <alrovat id = "39">
 <mezo id = "hattol">20110601</mezo>
-<mezo id = "pnev">Kévés Tamás</mezo>
-<mezo id = "panev">Kudich Mária</mezo>
+<mezo id = "pnev">KÃ©vÃ©s TamÃ¡s</mezo>
+<mezo id = "panev">Kudich MÃ¡ria</mezo>
 <mezo id = "pirsz">3200</mezo>
-<mezo id = "phely">Gyöngyös</mezo>
-<mezo id = "pteru">Eötvös tér 11.</mezo>
+<mezo id = "phely">GyÃ¶ngyÃ¶s</mezo>
+<mezo id = "pteru">EÃ¶tvÃ¶s tÃ©r 11.</mezo>
 <mezo id = "jogvk">20110601</mezo>
 <mezo id = "jogvv">20160531</mezo>
 <mezo id = "valtk">20110601</mezo>
@@ -815,12 +815,12 @@
 <alrovat id = "1">
 <mezo id = "hattol">19910601</mezo>
 <mezo id = "cgjsz">1001020048</mezo>
-<mezo id = "nev">Városgondozási Vállalat</mezo>
+<mezo id = "nev">VÃ¡rosgondozÃ¡si VÃ¡llalat</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20050630</mezo>
 <mezo id = "cgjsz">1010020012</mezo>
-<mezo id = "nev">&quot;PATINA&quot; Közszolgáltató és Vagyonkezelõ Részvénytársaság</mezo>
+<mezo id = "nev">&quot;PATINA&quot; KÃ¶zszolgÃ¡ltatÃ³ Ã©s VagyonkezelÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "20">
@@ -846,14 +846,14 @@
 <mezo id = "adosz">10571763210</mezo>
 <mezo id = "kadosz">HU10571763</mezo>
 <mezo id = "bkelt">20110725</mezo>
-<mezo id = "megj">Státusz kezdete: 1991/06/01</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 1991/06/01</mezo>
 </alrovat>
 </rovat>
 <rovat id = "22">
 <alrovat id = "1">
 <mezo id = "hattol">20080102</mezo>
 <mezo id = "jccjsz">1009027887</mezo>
-<mezo id = "nev">ÚJ PATINA Társasházkezelõ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">ÃšJ PATINA TÃ¡rsashÃ¡zkezelÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "atdat">20080102</mezo>
 <mezo id = "valtk">20080102</mezo>
 <mezo id = "valtv">0</mezo>
@@ -863,7 +863,7 @@
 <alrovat id = "2">
 <mezo id = "hattol">20081031</mezo>
 <mezo id = "jccjsz">1009028768</mezo>
-<mezo id = "nev">Gyöngyösi Hulladékkezelõ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">GyÃ¶ngyÃ¶si HulladÃ©kkezelÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "atdat">20081031</mezo>
 <mezo id = "valtk">20081031</mezo>
 <mezo id = "valtv">0</mezo>
@@ -875,10 +875,10 @@
 <alrovat id = "3">
 <mezo id = "hattol">20080102</mezo>
 <mezo id = "befmert">80</mezo>
-<mezo id = "nev">Gyöngyös Város Önkormányzata</mezo>
+<mezo id = "nev">GyÃ¶ngyÃ¶s VÃ¡ros Ã–nkormÃ¡nyzata</mezo>
 <mezo id = "irsz">3200</mezo>
-<mezo id = "hely">Gyöngyös</mezo>
-<mezo id = "teru">Fõ tér</mezo>
+<mezo id = "hely">GyÃ¶ngyÃ¶s</mezo>
+<mezo id = "teru">FÅ‘ tÃ©r</mezo>
 <mezo id = "hsz">13</mezo>
 <mezo id = "tagsk">0</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -898,525 +898,525 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Városgondozási Részvénytársaság (3200 Gyöngyös, Kenyérgyár u. 17.) tisztelettel ezúton is értesíti részvényeseit, hogy évi rendes közgyûlést tart 1996. május 13-án 9 órakor az rt. Gyöngyös, Kenyérgyár u. 17. alatti hivatalos helyiségében.<ujsor/>
-A közgyûlés napirendi pontjai:<ujsor/>
-1. Az igazgatóság beszámolója az 1995. évi gazdasági munkáról, az éves beszámoló elõterjesztése, javaslat az eredmény felosztására.<ujsor/>
-2. A könyvvizsgáló jelentése az 1995. év mérleg- és eredményadatairól.<ujsor/>
-3. A felügyelõbizottság jelentése az 1995. évi gazdálkodásról és éves beszámolóról.<ujsor/>
-4. Az 1996. évi üzleti terv ismertetése és elfogadása.<ujsor/>
+<mezo id = "szoveg">A VÃ¡rosgondozÃ¡si RÃ©szvÃ©nytÃ¡rsasÃ¡g (3200 GyÃ¶ngyÃ¶s, KenyÃ©rgyÃ¡r u. 17.) tisztelettel ezÃºton is Ã©rtesÃ­ti rÃ©szvÃ©nyeseit, hogy Ã©vi rendes kÃ¶zgyÅ±lÃ©st tart 1996. mÃ¡jus 13-Ã¡n 9 Ã³rakor az rt. GyÃ¶ngyÃ¶s, KenyÃ©rgyÃ¡r u. 17. alatti hivatalos helyisÃ©gÃ©ben.<ujsor/>
+A kÃ¶zgyÅ±lÃ©s napirendi pontjai:<ujsor/>
+1. Az igazgatÃ³sÃ¡g beszÃ¡molÃ³ja az 1995. Ã©vi gazdasÃ¡gi munkÃ¡rÃ³l, az Ã©ves beszÃ¡molÃ³ elÅ‘terjesztÃ©se, javaslat az eredmÃ©ny felosztÃ¡sÃ¡ra.<ujsor/>
+2. A kÃ¶nyvvizsgÃ¡lÃ³ jelentÃ©se az 1995. Ã©v mÃ©rleg- Ã©s eredmÃ©nyadatairÃ³l.<ujsor/>
+3. A felÃ¼gyelÅ‘bizottsÃ¡g jelentÃ©se az 1995. Ã©vi gazdÃ¡lkodÃ¡srÃ³l Ã©s Ã©ves beszÃ¡molÃ³rÃ³l.<ujsor/>
+4. Az 1996. Ã©vi Ã¼zleti terv ismertetÃ©se Ã©s elfogadÃ¡sa.<ujsor/>
 5. Egyebek.<ujsor/>
-Kérjük tisztelt részvényeseinket, hogy a közgyûlésen megjelenni szíveskedjenek!<ujsor/>
+KÃ©rjÃ¼k tisztelt rÃ©szvÃ©nyeseinket, hogy a kÃ¶zgyÅ±lÃ©sen megjelenni szÃ­veskedjenek!<ujsor/>
 </mezo>
 <mezo id = "cjsz">1010020013</mezo>
-<mezo id = "nev">Városgondozási Részvénytársaság</mezo>
+<mezo id = "nev">VÃ¡rosgondozÃ¡si RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Városgondozási Részvénytársaság (3200 Gyöngyös, Kenyérgyár u. 17.) tisztelettel ezúton is értesíti részvényeseit, hogy rendkívüli közgyûlést tart 1996. október 2-án 9 órakor, az rt. 3200 Gyöngyös, Kenyérgyár u. 17. szám alatti hivatalos helyiségében.<ujsor/>
-A közgyûlés napirendi pontjai:<ujsor/>
-1. Az igazgatóság beszámolója az 1996. I. félévi gazdasági munkáról, valamint eredményrõl.<ujsor/>
-2. Az 1996. évi fejlesztési terv ismertetése.<ujsor/>
+<mezo id = "szoveg">A VÃ¡rosgondozÃ¡si RÃ©szvÃ©nytÃ¡rsasÃ¡g (3200 GyÃ¶ngyÃ¶s, KenyÃ©rgyÃ¡r u. 17.) tisztelettel ezÃºton is Ã©rtesÃ­ti rÃ©szvÃ©nyeseit, hogy rendkÃ­vÃ¼li kÃ¶zgyÅ±lÃ©st tart 1996. oktÃ³ber 2-Ã¡n 9 Ã³rakor, az rt. 3200 GyÃ¶ngyÃ¶s, KenyÃ©rgyÃ¡r u. 17. szÃ¡m alatti hivatalos helyisÃ©gÃ©ben.<ujsor/>
+A kÃ¶zgyÅ±lÃ©s napirendi pontjai:<ujsor/>
+1. Az igazgatÃ³sÃ¡g beszÃ¡molÃ³ja az 1996. I. fÃ©lÃ©vi gazdasÃ¡gi munkÃ¡rÃ³l, valamint eredmÃ©nyrÅ‘l.<ujsor/>
+2. Az 1996. Ã©vi fejlesztÃ©si terv ismertetÃ©se.<ujsor/>
 3. Egyebek.<ujsor/>
-Kérjük tisztelt részvényeseinket, hogy a közgyûlésen megjelenni szíveskedjenek!<ujsor/>
+KÃ©rjÃ¼k tisztelt rÃ©szvÃ©nyeseinket, hogy a kÃ¶zgyÅ±lÃ©sen megjelenni szÃ­veskedjenek!<ujsor/>
 </mezo>
 <mezo id = "cjsz">1010020013</mezo>
-<mezo id = "nev">Városgondozási Részvénytársaság</mezo>
+<mezo id = "nev">VÃ¡rosgondozÃ¡si RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Városgondozási Részvénytársaság (3200 Gyöngyös, Kenyérgyár u. 17.) tisztelettel ezúton is értesíti 80%-os részvényesét - Gyöngyös Város Polgármesteri Hivatalát -, valamint 20%-os részvényesét - a Gondoskodás Alapítványt -, hogy rendkívüli közgyûlést tart 1996. december 9-én 9 órakor, az rt. 3200 Gyöngyös, Kenyérgyár u. 17. alatti hivatalos helyiségében.<ujsor/>
-A közgyûlés napirendi pontjai:<ujsor/>
-1. Az igazgatóság beszámolója az 1996. I-III. negyedévi gazdasági munkáról, valamint eredményrõl.<ujsor/>
-2. Az 1997. évi üzleti terv elõterjesztése.<ujsor/>
+<mezo id = "szoveg">A VÃ¡rosgondozÃ¡si RÃ©szvÃ©nytÃ¡rsasÃ¡g (3200 GyÃ¶ngyÃ¶s, KenyÃ©rgyÃ¡r u. 17.) tisztelettel ezÃºton is Ã©rtesÃ­ti 80%-os rÃ©szvÃ©nyesÃ©t - GyÃ¶ngyÃ¶s VÃ¡ros PolgÃ¡rmesteri HivatalÃ¡t -, valamint 20%-os rÃ©szvÃ©nyesÃ©t - a GondoskodÃ¡s AlapÃ­tvÃ¡nyt -, hogy rendkÃ­vÃ¼li kÃ¶zgyÅ±lÃ©st tart 1996. december 9-Ã©n 9 Ã³rakor, az rt. 3200 GyÃ¶ngyÃ¶s, KenyÃ©rgyÃ¡r u. 17. alatti hivatalos helyisÃ©gÃ©ben.<ujsor/>
+A kÃ¶zgyÅ±lÃ©s napirendi pontjai:<ujsor/>
+1. Az igazgatÃ³sÃ¡g beszÃ¡molÃ³ja az 1996. I-III. negyedÃ©vi gazdasÃ¡gi munkÃ¡rÃ³l, valamint eredmÃ©nyrÅ‘l.<ujsor/>
+2. Az 1997. Ã©vi Ã¼zleti terv elÅ‘terjesztÃ©se.<ujsor/>
 3. Egyebek.<ujsor/>
-Kérjük tisztelt részvényeseinket, hogy a közgyûlésen megjelenni szíveskedjenek!<ujsor/>
+KÃ©rjÃ¼k tisztelt rÃ©szvÃ©nyeseinket, hogy a kÃ¶zgyÅ±lÃ©sen megjelenni szÃ­veskedjenek!<ujsor/>
 </mezo>
 <mezo id = "cjsz">1010020013</mezo>
-<mezo id = "nev">Városgondozási Részvénytársaság</mezo>
+<mezo id = "nev">VÃ¡rosgondozÃ¡si RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Városgondozási Részvénytársaság (3200 Gyöngyös, Kenyérgyár u. 17.) tisztelettel ezúton is értesíti részvényeseit, hogy évi rendes közgyûlést tart 1997. május 15-én délután 13 órakor, az rt. Gyöngyös, Kenyérgyár u. 17. alatti hivatalos helyiségében.<ujsor/>
-A közgyûlés napirendi pontjai:<ujsor/>
-1. Az igazgatóság beszámolója az 1996. évi gazdasági munkáról, az éves beszámoló elõterjesztése, javaslat az eredmény felosztására.<ujsor/>
-2. A könyvvizsgáló jelentése az 1996. évi mérleg és eredmény adatairól.<ujsor/>
-3. A felügyelõbizottság jelentése az 1996. évi gazdálkodásról és éves beszámolóról.<ujsor/>
-4. Az 1997. évi üzleti terv ismertetése és elfogadása.<ujsor/>
+<mezo id = "szoveg">A VÃ¡rosgondozÃ¡si RÃ©szvÃ©nytÃ¡rsasÃ¡g (3200 GyÃ¶ngyÃ¶s, KenyÃ©rgyÃ¡r u. 17.) tisztelettel ezÃºton is Ã©rtesÃ­ti rÃ©szvÃ©nyeseit, hogy Ã©vi rendes kÃ¶zgyÅ±lÃ©st tart 1997. mÃ¡jus 15-Ã©n dÃ©lutÃ¡n 13 Ã³rakor, az rt. GyÃ¶ngyÃ¶s, KenyÃ©rgyÃ¡r u. 17. alatti hivatalos helyisÃ©gÃ©ben.<ujsor/>
+A kÃ¶zgyÅ±lÃ©s napirendi pontjai:<ujsor/>
+1. Az igazgatÃ³sÃ¡g beszÃ¡molÃ³ja az 1996. Ã©vi gazdasÃ¡gi munkÃ¡rÃ³l, az Ã©ves beszÃ¡molÃ³ elÅ‘terjesztÃ©se, javaslat az eredmÃ©ny felosztÃ¡sÃ¡ra.<ujsor/>
+2. A kÃ¶nyvvizsgÃ¡lÃ³ jelentÃ©se az 1996. Ã©vi mÃ©rleg Ã©s eredmÃ©ny adatairÃ³l.<ujsor/>
+3. A felÃ¼gyelÅ‘bizottsÃ¡g jelentÃ©se az 1996. Ã©vi gazdÃ¡lkodÃ¡srÃ³l Ã©s Ã©ves beszÃ¡molÃ³rÃ³l.<ujsor/>
+4. Az 1997. Ã©vi Ã¼zleti terv ismertetÃ©se Ã©s elfogadÃ¡sa.<ujsor/>
 5. Egyebek.<ujsor/>
-Kérjük tisztelt részvényeseinket, hogy a közgyûlésen megjelenni szíveskedjenek!<ujsor/>
+KÃ©rjÃ¼k tisztelt rÃ©szvÃ©nyeseinket, hogy a kÃ¶zgyÅ±lÃ©sen megjelenni szÃ­veskedjenek!<ujsor/>
 </mezo>
 <mezo id = "cjsz">1010020013</mezo>
-<mezo id = "nev">Városgondozási Részvénytársaság</mezo>
+<mezo id = "nev">VÃ¡rosgondozÃ¡si RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A VÁROSGONDOZÁSI Részvénytársaság (3200 Gyöngyös, Kenyérgyár u. 17.) tisztelettel ezúton is értesíti részvényeseit, hogy évi rendes közgyûlést tart 1998. május 26-án 10 órakor az rt. Gyöngyös, Kenyérgyár u. 17. alatti hivatalos helyiségében.<ujsor/>
-A közgyûlés napirendi pontjai:<ujsor/>
-1. Az igazgatóság beszámolója az 1997. évi gazdasági munkáról, az éves beszámoló elõterjesztése, javaslata az eredmény felosztására.<ujsor/>
-2. A könyvvizsgáló jelentése az 1997. évi mérleg és eredmény adatairól.<ujsor/>
-3. A felügyelõbizottság jelentése az 1997. évi gazdálkodásról és az éves beszámolóról.<ujsor/>
-4. Az 1998. évi üzleti terv ismertetése és elfogadása.<ujsor/>
+<mezo id = "szoveg">A VÃROSGONDOZÃSI RÃ©szvÃ©nytÃ¡rsasÃ¡g (3200 GyÃ¶ngyÃ¶s, KenyÃ©rgyÃ¡r u. 17.) tisztelettel ezÃºton is Ã©rtesÃ­ti rÃ©szvÃ©nyeseit, hogy Ã©vi rendes kÃ¶zgyÅ±lÃ©st tart 1998. mÃ¡jus 26-Ã¡n 10 Ã³rakor az rt. GyÃ¶ngyÃ¶s, KenyÃ©rgyÃ¡r u. 17. alatti hivatalos helyisÃ©gÃ©ben.<ujsor/>
+A kÃ¶zgyÅ±lÃ©s napirendi pontjai:<ujsor/>
+1. Az igazgatÃ³sÃ¡g beszÃ¡molÃ³ja az 1997. Ã©vi gazdasÃ¡gi munkÃ¡rÃ³l, az Ã©ves beszÃ¡molÃ³ elÅ‘terjesztÃ©se, javaslata az eredmÃ©ny felosztÃ¡sÃ¡ra.<ujsor/>
+2. A kÃ¶nyvvizsgÃ¡lÃ³ jelentÃ©se az 1997. Ã©vi mÃ©rleg Ã©s eredmÃ©ny adatairÃ³l.<ujsor/>
+3. A felÃ¼gyelÅ‘bizottsÃ¡g jelentÃ©se az 1997. Ã©vi gazdÃ¡lkodÃ¡srÃ³l Ã©s az Ã©ves beszÃ¡molÃ³rÃ³l.<ujsor/>
+4. Az 1998. Ã©vi Ã¼zleti terv ismertetÃ©se Ã©s elfogadÃ¡sa.<ujsor/>
 5. Egyebek.<ujsor/>
-Kérjük tisztelt részvényeseinket, hogy a közgyûlésen megjelenni szíveskedjenek.<ujsor/>
+KÃ©rjÃ¼k tisztelt rÃ©szvÃ©nyeseinket, hogy a kÃ¶zgyÅ±lÃ©sen megjelenni szÃ­veskedjenek.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1010020013</mezo>
-<mezo id = "nev">Városgondozási Részvénytársaság</mezo>
+<mezo id = "nev">VÃ¡rosgondozÃ¡si RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Városgondozási Részvénytársaság (3200 Gyöngyös, Kenyérgyár u. 17.) tisztelettel ezúton is értesíti részvényeseit, hogy rendkívüli közgyûlést tart 1999. március 19-én 9 órakor az rt. Gyöngyös, Kenyérgyár u. 17. alatti hivatalos helyiségében.<ujsor/>
-A közgyûlés napirendi pontjai:<ujsor/>
-1. 1999. évi üzleti terv elõterjesztése és elfogadása.<ujsor/>
-2. Az rt. alapszabályának módosítása az új Gt. törvény szabályozása szerint.<ujsor/>
+<mezo id = "szoveg">A VÃ¡rosgondozÃ¡si RÃ©szvÃ©nytÃ¡rsasÃ¡g (3200 GyÃ¶ngyÃ¶s, KenyÃ©rgyÃ¡r u. 17.) tisztelettel ezÃºton is Ã©rtesÃ­ti rÃ©szvÃ©nyeseit, hogy rendkÃ­vÃ¼li kÃ¶zgyÅ±lÃ©st tart 1999. mÃ¡rcius 19-Ã©n 9 Ã³rakor az rt. GyÃ¶ngyÃ¶s, KenyÃ©rgyÃ¡r u. 17. alatti hivatalos helyisÃ©gÃ©ben.<ujsor/>
+A kÃ¶zgyÅ±lÃ©s napirendi pontjai:<ujsor/>
+1. 1999. Ã©vi Ã¼zleti terv elÅ‘terjesztÃ©se Ã©s elfogadÃ¡sa.<ujsor/>
+2. Az rt. alapszabÃ¡lyÃ¡nak mÃ³dosÃ­tÃ¡sa az Ãºj Gt. tÃ¶rvÃ©ny szabÃ¡lyozÃ¡sa szerint.<ujsor/>
 3. Egyebek.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1010020013</mezo>
-<mezo id = "nev">Városgondozási Részvénytársaság</mezo>
+<mezo id = "nev">VÃ¡rosgondozÃ¡si RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Heves Megyei Cégbíróságon nyilvántartásba vett Városgondozási Részvénytársaság és a „PATINA” Közszolgáltató és Vagyonkezelõ Részvénytársaság, az 1997. évi CXLIV. tv. 72. § (1) bekezdés alapján elhatározta a gazdasági társaságok<ujsor/>
-egyesülését.<ujsor/>
-Az egyesüléssel érintett átvevõ gazdasági társaság neve: Városgondozási Részvénytársaság.<ujsor/>
-Cégjegyzékszáma: [10 10 020013].<ujsor/>
-Székhelye: 3200 Gyöngyös, Kenyérgyár u. 17.<ujsor/>
-Rövidített cégneve: Városgondozási Rt.<ujsor/>
-Az egyesüléssel érintett beolvadó gazdasági társaság neve: „PATINA” Közszolgáltató és Vagyonkezelõ Részvénytársaság.<ujsor/>
-Cégjegyzékszáma: [10 10 020012].<ujsor/>
-Székhelye: 3200 Gyöngyös, Katona J. u. 1.<ujsor/>
-Rövidített cégneve: „PATINA” Rt.<ujsor/>
-A létrejövõ gazdasági társaság formája: részvénytársaság.<ujsor/>
-Cégneve: Városgondozási Részvénytársaság.<ujsor/>
-Rövidített cégneve: Városgondozási Rt.<ujsor/>
-Székhelye: 3200 Gyöngyös, Kenyérgyár u. 17.<ujsor/>
-Az egyesülési szerzõdés és az átvevõ társaság alapító okirat módosítása elfogadásának napja: 2005. április 7.<ujsor/>
-Az egyesülés módja: beolvadás.<ujsor/>
-A „PATINA” Közszolgáltató és Vagyonkezelõ Részvénytársaság beolvad a Városgondozási Részvénytársaságba.<ujsor/>
-Az egyesülõ gazdasági társaságok vagyonmérleg-tervezeteinek legfontosabb adatai (fordulónap: 2004. december 31.):<ujsor/>
-Városgondozási Rt.:<ujsor/>
+<mezo id = "szoveg">A Heves Megyei CÃ©gbÃ­rÃ³sÃ¡gon nyilvÃ¡ntartÃ¡sba vett VÃ¡rosgondozÃ¡si RÃ©szvÃ©nytÃ¡rsasÃ¡g Ã©s a â€PATINAâ€ KÃ¶zszolgÃ¡ltatÃ³ Ã©s VagyonkezelÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g, az 1997. Ã©vi CXLIV. tv. 72. Â§ (1) bekezdÃ©s alapjÃ¡n elhatÃ¡rozta a gazdasÃ¡gi tÃ¡rsasÃ¡gok<ujsor/>
+egyesÃ¼lÃ©sÃ©t.<ujsor/>
+Az egyesÃ¼lÃ©ssel Ã©rintett Ã¡tvevÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g neve: VÃ¡rosgondozÃ¡si RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡ma: [10 10 020013].<ujsor/>
+SzÃ©khelye: 3200 GyÃ¶ngyÃ¶s, KenyÃ©rgyÃ¡r u. 17.<ujsor/>
+RÃ¶vidÃ­tett cÃ©gneve: VÃ¡rosgondozÃ¡si Rt.<ujsor/>
+Az egyesÃ¼lÃ©ssel Ã©rintett beolvadÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g neve: â€PATINAâ€ KÃ¶zszolgÃ¡ltatÃ³ Ã©s VagyonkezelÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡ma: [10 10 020012].<ujsor/>
+SzÃ©khelye: 3200 GyÃ¶ngyÃ¶s, Katona J. u. 1.<ujsor/>
+RÃ¶vidÃ­tett cÃ©gneve: â€PATINAâ€ Rt.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g formÃ¡ja: rÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gneve: VÃ¡rosgondozÃ¡si RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+RÃ¶vidÃ­tett cÃ©gneve: VÃ¡rosgondozÃ¡si Rt.<ujsor/>
+SzÃ©khelye: 3200 GyÃ¶ngyÃ¶s, KenyÃ©rgyÃ¡r u. 17.<ujsor/>
+Az egyesÃ¼lÃ©si szerzÅ‘dÃ©s Ã©s az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g alapÃ­tÃ³ okirat mÃ³dosÃ­tÃ¡sa elfogadÃ¡sÃ¡nak napja: 2005. Ã¡prilis 7.<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: beolvadÃ¡s.<ujsor/>
+A â€PATINAâ€ KÃ¶zszolgÃ¡ltatÃ³ Ã©s VagyonkezelÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g beolvad a VÃ¡rosgondozÃ¡si RÃ©szvÃ©nytÃ¡rsasÃ¡gba.<ujsor/>
+Az egyesÃ¼lÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡gok vagyonmÃ©rleg-tervezeteinek legfontosabb adatai (fordulÃ³nap: 2004. december 31.):<ujsor/>
+VÃ¡rosgondozÃ¡si Rt.:<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK (aktívák) Könyv szerinti érték Vagyonértékelés szerinti érték<ujsor/>
-A) Befektetett eszközök 168 913 168 913<ujsor/>
-I. Immateriális javak 1 105 1 105<ujsor/>
- Vagyoni értékû jogok 18 18<ujsor/>
- Szellemi termékek 1 087 1 087<ujsor/>
-II. Tárgyi eszközök 152 480 152 480<ujsor/>
- Ingatlanok és a kapcs. v.é. jogok 24 870 24 870<ujsor/>
- Mûszaki berend., gépek, jármûvek 111 432 111 432<ujsor/>
- Egyéb berend., felszerelések, jármûvek 15 900 15 900<ujsor/>
- Beruházások, felújítások 278 278<ujsor/>
-III. Befektetett pénzügyi eszközök 15 328 15 328<ujsor/>
- Egyéb tartós részesedés 20 20<ujsor/>
- Egyéb tartósan adott kölcsön 320 320<ujsor/>
- Tartós hitelvisz. megt. értékpapír 14 988 14 988<ujsor/>
-B) Forgóeszközök 180 475 180 475<ujsor/>
-I. Készletek 16 358 16 358<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) KÃ¶nyv szerinti Ã©rtÃ©k VagyonÃ©rtÃ©kelÃ©s szerinti Ã©rtÃ©k<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 168 913 168 913<ujsor/>
+I. ImmateriÃ¡lis javak 1 105 1 105<ujsor/>
+ Vagyoni Ã©rtÃ©kÅ± jogok 18 18<ujsor/>
+ Szellemi termÃ©kek 1 087 1 087<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 152 480 152 480<ujsor/>
+ Ingatlanok Ã©s a kapcs. v.Ã©. jogok 24 870 24 870<ujsor/>
+ MÅ±szaki berend., gÃ©pek, jÃ¡rmÅ±vek 111 432 111 432<ujsor/>
+ EgyÃ©b berend., felszerelÃ©sek, jÃ¡rmÅ±vek 15 900 15 900<ujsor/>
+ BeruhÃ¡zÃ¡sok, felÃºjÃ­tÃ¡sok 278 278<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 15 328 15 328<ujsor/>
+ EgyÃ©b tartÃ³s rÃ©szesedÃ©s 20 20<ujsor/>
+ EgyÃ©b tartÃ³san adott kÃ¶lcsÃ¶n 320 320<ujsor/>
+ TartÃ³s hitelvisz. megt. Ã©rtÃ©kpapÃ­r 14 988 14 988<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 180 475 180 475<ujsor/>
+I. KÃ©szletek 16 358 16 358<ujsor/>
  Anyagok 16 358 16 358<ujsor/>
-II. Követelések 106 524 106 524<ujsor/>
- Követelések áruszáll. és szolg. (vevõk) 82 553 82 553<ujsor/>
- Egyéb követelések 23 971 23 971<ujsor/>
-III. Értékpapírok<ujsor/>
-IV. Pénzeszközök 57 593 57 593<ujsor/>
- Pénztár, csekkek 159 159<ujsor/>
- Bankbetétek 57 434 57 434<ujsor/>
-C) Aktív idõbeli elhatárolások 21 121 21 121<ujsor/>
- Bevételek aktív idõbeli elhatárolása 5 5<ujsor/>
- Költségek, ráfordítások, akt. id. elhat. 21 116 21 116<ujsor/>
-ÖSSZESEN: 370 509 370 509<ujsor/>
+II. KÃ¶vetelÃ©sek 106 524 106 524<ujsor/>
+ KÃ¶vetelÃ©sek Ã¡ruszÃ¡ll. Ã©s szolg. (vevÅ‘k) 82 553 82 553<ujsor/>
+ EgyÃ©b kÃ¶vetelÃ©sek 23 971 23 971<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 57 593 57 593<ujsor/>
+ PÃ©nztÃ¡r, csekkek 159 159<ujsor/>
+ BankbetÃ©tek 57 434 57 434<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 21 121 21 121<ujsor/>
+ BevÃ©telek aktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sa 5 5<ujsor/>
+ KÃ¶ltsÃ©gek, rÃ¡fordÃ­tÃ¡sok, akt. id. elhat. 21 116 21 116<ujsor/>
+Ã–SSZESEN: 370 509 370 509<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK (passzívák) Könyv szerinti érték Vagyonértékelés szerinti érték<ujsor/>
-D) Saját tõke 115 468 115 468<ujsor/>
-I. Jegyzett tõke 70 150 70 150<ujsor/>
-II. Jegyzett, de még be nem fizetett tõke<ujsor/>
-III. Tõketartalék 5 100 5 100<ujsor/>
-IV. Eredménytartalék 40 218 40 218<ujsor/>
-V. Lekötött tartalék<ujsor/>
-VI. Értékelési tartalék<ujsor/>
-VII. Mérleg szerinti eredmény<ujsor/>
-E) Céltartalék 40 308 40 308<ujsor/>
-Céltartalék a jövõbeni költségekre 40 308 40 308<ujsor/>
-F) Kötelezettségek 182 921 182 921<ujsor/>
-I. Hátra sorolt kötelezettségek<ujsor/>
-II. Hosszú lejáratú kötelezettségek 29 136 29 136<ujsor/>
- Egyéb hosszú lejáratú kötelezettségek 29 136 29 136<ujsor/>
-III. Rövid lejáratú kötelezettségek 153 785 153 785<ujsor/>
- Kötelezettségek árusz., szolg. (szállítók) 74 781 74 781<ujsor/>
- Egyéb rövid lejáratú kötelezettségek 79 004 79 004<ujsor/>
-G) Passzív idõbeli elhatárolások 31 812 31 812<ujsor/>
- Költségek, ráf. passzív idõbeli elhat. 3 272 3 272<ujsor/>
- Halasztott bevételek 28 540 28 540<ujsor/>
-ÖSSZESEN: 370 509 370 509<ujsor/>
-„PATINA” Rt. (beolvadó):<ujsor/>
+FORRÃSOK (passzÃ­vÃ¡k) KÃ¶nyv szerinti Ã©rtÃ©k VagyonÃ©rtÃ©kelÃ©s szerinti Ã©rtÃ©k<ujsor/>
+D) SajÃ¡t tÅ‘ke 115 468 115 468<ujsor/>
+I. Jegyzett tÅ‘ke 70 150 70 150<ujsor/>
+II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke<ujsor/>
+III. TÅ‘ketartalÃ©k 5 100 5 100<ujsor/>
+IV. EredmÃ©nytartalÃ©k 40 218 40 218<ujsor/>
+V. LekÃ¶tÃ¶tt tartalÃ©k<ujsor/>
+VI. Ã‰rtÃ©kelÃ©si tartalÃ©k<ujsor/>
+VII. MÃ©rleg szerinti eredmÃ©ny<ujsor/>
+E) CÃ©ltartalÃ©k 40 308 40 308<ujsor/>
+CÃ©ltartalÃ©k a jÃ¶vÅ‘beni kÃ¶ltsÃ©gekre 40 308 40 308<ujsor/>
+F) KÃ¶telezettsÃ©gek 182 921 182 921<ujsor/>
+I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek<ujsor/>
+II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 29 136 29 136<ujsor/>
+ EgyÃ©b hosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 29 136 29 136<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 153 785 153 785<ujsor/>
+ KÃ¶telezettsÃ©gek Ã¡rusz., szolg. (szÃ¡llÃ­tÃ³k) 74 781 74 781<ujsor/>
+ EgyÃ©b rÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 79 004 79 004<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 31 812 31 812<ujsor/>
+ KÃ¶ltsÃ©gek, rÃ¡f. passzÃ­v idÅ‘beli elhat. 3 272 3 272<ujsor/>
+ Halasztott bevÃ©telek 28 540 28 540<ujsor/>
+Ã–SSZESEN: 370 509 370 509<ujsor/>
+â€PATINAâ€ Rt. (beolvadÃ³):<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK (aktívák) Könyv szerinti érték Vagyonértékelés szerinti érték<ujsor/>
-A) Befektetett eszközök 228 305 228 305<ujsor/>
-I. Immateriális javak 375 375<ujsor/>
-Vagyoni értékû jogok<ujsor/>
-Szellemi termékek 375 375<ujsor/>
-II. Tárgyi eszközök 227 506 227 506<ujsor/>
- Ingatlanok és a kapcs. v.é. jogok 135 229 135 229<ujsor/>
- Mûszaki berend., gépek, jármûvek 85 108 85 108<ujsor/>
- Egyéb berend., felszerelések, jármûvek 698 698<ujsor/>
- Beruházások, felújítások 6 471 6 471<ujsor/>
-III. Befektetett pénzügyi eszközök 424 424<ujsor/>
- Egyéb tartós részesedés 10 10<ujsor/>
- Egyéb tartósan adott kölcsön 414 414<ujsor/>
-B) Forgóeszközök 98 904 98 904<ujsor/>
-I. Készletek 9 756 9 756<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) KÃ¶nyv szerinti Ã©rtÃ©k VagyonÃ©rtÃ©kelÃ©s szerinti Ã©rtÃ©k<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 228 305 228 305<ujsor/>
+I. ImmateriÃ¡lis javak 375 375<ujsor/>
+Vagyoni Ã©rtÃ©kÅ± jogok<ujsor/>
+Szellemi termÃ©kek 375 375<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 227 506 227 506<ujsor/>
+ Ingatlanok Ã©s a kapcs. v.Ã©. jogok 135 229 135 229<ujsor/>
+ MÅ±szaki berend., gÃ©pek, jÃ¡rmÅ±vek 85 108 85 108<ujsor/>
+ EgyÃ©b berend., felszerelÃ©sek, jÃ¡rmÅ±vek 698 698<ujsor/>
+ BeruhÃ¡zÃ¡sok, felÃºjÃ­tÃ¡sok 6 471 6 471<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 424 424<ujsor/>
+ EgyÃ©b tartÃ³s rÃ©szesedÃ©s 10 10<ujsor/>
+ EgyÃ©b tartÃ³san adott kÃ¶lcsÃ¶n 414 414<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 98 904 98 904<ujsor/>
+I. KÃ©szletek 9 756 9 756<ujsor/>
  Anyagok 9 030 9 030<ujsor/>
- Bef.len termelés és félkész termékek 175 175<ujsor/>
- Növendék-, hízó- és egyéb állatok 2 2<ujsor/>
- Áruk 4 4<ujsor/>
- Készletekre adott elõlegek 545 545<ujsor/>
-II. Követelések 86 157 86 157<ujsor/>
- Követelések áruszáll. és szolg. (vevõk) 49 983 49 983<ujsor/>
- Követelések kapcsolt v. szemben 26 638 26 638<ujsor/>
- Egyéb követelések 9 536 9 536<ujsor/>
-IV. Pénzeszközök 2 991 2 991<ujsor/>
- Pénztár, csekkek 45 45<ujsor/>
- Bankbetétek 2 946 2 946<ujsor/>
-C) Aktív idõbeli elhatárolások 12 646 12 646<ujsor/>
- Bevételek aktív idõbeli elhatárolása 12 106 12 106<ujsor/>
- Költségek, ráfordítások, akt. id. elhat. 540 540<ujsor/>
-ÖSSZESEN: 339 855 339 855<ujsor/>
+ Bef.len termelÃ©s Ã©s fÃ©lkÃ©sz termÃ©kek 175 175<ujsor/>
+ NÃ¶vendÃ©k-, hÃ­zÃ³- Ã©s egyÃ©b Ã¡llatok 2 2<ujsor/>
+ Ãruk 4 4<ujsor/>
+ KÃ©szletekre adott elÅ‘legek 545 545<ujsor/>
+II. KÃ¶vetelÃ©sek 86 157 86 157<ujsor/>
+ KÃ¶vetelÃ©sek Ã¡ruszÃ¡ll. Ã©s szolg. (vevÅ‘k) 49 983 49 983<ujsor/>
+ KÃ¶vetelÃ©sek kapcsolt v. szemben 26 638 26 638<ujsor/>
+ EgyÃ©b kÃ¶vetelÃ©sek 9 536 9 536<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 2 991 2 991<ujsor/>
+ PÃ©nztÃ¡r, csekkek 45 45<ujsor/>
+ BankbetÃ©tek 2 946 2 946<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 12 646 12 646<ujsor/>
+ BevÃ©telek aktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sa 12 106 12 106<ujsor/>
+ KÃ¶ltsÃ©gek, rÃ¡fordÃ­tÃ¡sok, akt. id. elhat. 540 540<ujsor/>
+Ã–SSZESEN: 339 855 339 855<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK (passzívák) Könyv szerinti érték Vagyonértékelés szerinti érték<ujsor/>
-D) Saját tõke 211 289 211 289<ujsor/>
-I. Jegyzett tõke 121 510 121 510<ujsor/>
-II. Jegyzett, de még be nem fizetett tõke<ujsor/>
-III. Tõketartalék 24 819 24 819<ujsor/>
-IV. Eredménytartalék 64 960 64 960<ujsor/>
-V. Lekötött tartalék<ujsor/>
-VI. Értékelési tartalék<ujsor/>
-VII. Mérleg szerinti eredmény<ujsor/>
-E) Céltartalék<ujsor/>
-F) Kötelezettségek 118 448 118 448<ujsor/>
-I. Hátra sorolt kötelezettségek<ujsor/>
-II. Hosszú lejáratú kötelezettségek 14 000 14 000<ujsor/>
- Beruházási és fejlesztési hitelek 14 000 14 000<ujsor/>
-III. Rövid lejáratú kötelezettségek 104 448 104 448<ujsor/>
- Rövid lejáratú hitelek 25 127 25 127<ujsor/>
- Kötelezettségek árusz., szolg. (szállítók) 10 465 10 465<ujsor/>
- Röv. lej. köt. kapcsolt váll. szemben 44 332 44 332<ujsor/>
- Egyéb rövid lejáratú kötelezettségek 24 524 24 524<ujsor/>
-G) Passzív idõbeli elhatárolások 10 118 10 118<ujsor/>
- Bevételek passzív idõbeli elhatárolása 2 464 2 464<ujsor/>
- Költségek, ráf. passzív idõbeli elhat. 3 982 3 982<ujsor/>
- Halasztott bevételek 3 672 3 672<ujsor/>
-ÖSSZESEN: 339 855 339 855<ujsor/>
-Városgondozási Rt. (jogutód):<ujsor/>
+FORRÃSOK (passzÃ­vÃ¡k) KÃ¶nyv szerinti Ã©rtÃ©k VagyonÃ©rtÃ©kelÃ©s szerinti Ã©rtÃ©k<ujsor/>
+D) SajÃ¡t tÅ‘ke 211 289 211 289<ujsor/>
+I. Jegyzett tÅ‘ke 121 510 121 510<ujsor/>
+II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke<ujsor/>
+III. TÅ‘ketartalÃ©k 24 819 24 819<ujsor/>
+IV. EredmÃ©nytartalÃ©k 64 960 64 960<ujsor/>
+V. LekÃ¶tÃ¶tt tartalÃ©k<ujsor/>
+VI. Ã‰rtÃ©kelÃ©si tartalÃ©k<ujsor/>
+VII. MÃ©rleg szerinti eredmÃ©ny<ujsor/>
+E) CÃ©ltartalÃ©k<ujsor/>
+F) KÃ¶telezettsÃ©gek 118 448 118 448<ujsor/>
+I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek<ujsor/>
+II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 14 000 14 000<ujsor/>
+ BeruhÃ¡zÃ¡si Ã©s fejlesztÃ©si hitelek 14 000 14 000<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 104 448 104 448<ujsor/>
+ RÃ¶vid lejÃ¡ratÃº hitelek 25 127 25 127<ujsor/>
+ KÃ¶telezettsÃ©gek Ã¡rusz., szolg. (szÃ¡llÃ­tÃ³k) 10 465 10 465<ujsor/>
+ RÃ¶v. lej. kÃ¶t. kapcsolt vÃ¡ll. szemben 44 332 44 332<ujsor/>
+ EgyÃ©b rÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 24 524 24 524<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 10 118 10 118<ujsor/>
+ BevÃ©telek passzÃ­v idÅ‘beli elhatÃ¡rolÃ¡sa 2 464 2 464<ujsor/>
+ KÃ¶ltsÃ©gek, rÃ¡f. passzÃ­v idÅ‘beli elhat. 3 982 3 982<ujsor/>
+ Halasztott bevÃ©telek 3 672 3 672<ujsor/>
+Ã–SSZESEN: 339 855 339 855<ujsor/>
+VÃ¡rosgondozÃ¡si Rt. (jogutÃ³d):<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK (aktívák) Könyv szerinti érték Jogutód nyitómérlege<ujsor/>
-A) Befektetett eszközök 397 218 397 218<ujsor/>
-I. Immateriális javak 1 480 1 480<ujsor/>
- Vagyoni értékû jogok 18 18<ujsor/>
- Szellemi termékek 1 462 1 462<ujsor/>
-II. Tárgyi eszközök 379 986 379 986<ujsor/>
- Ingatlanok és a kapcs. v.é. jogok 160 099 160 099<ujsor/>
- Mûszaki berend., gépek, jármûvek 196 540 196 540<ujsor/>
- Egyéb berend., felszerelések, jármûvek 16 598 16 598<ujsor/>
- Beruházások, felújítások 6 749 6 749<ujsor/>
-III. Befektetett pénzügyi eszközök 15 752 15 752<ujsor/>
-Egyéb tartós részesedés 30 30<ujsor/>
- Egyéb tartósan adott kölcsön 734 734<ujsor/>
- Tartós hitelvisz. megt. értékpapír 14 988 14 988<ujsor/>
-B) Forgóeszközök 279 379 279 379<ujsor/>
-I. Készletek 26 114 26 114<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) KÃ¶nyv szerinti Ã©rtÃ©k JogutÃ³d nyitÃ³mÃ©rlege<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 397 218 397 218<ujsor/>
+I. ImmateriÃ¡lis javak 1 480 1 480<ujsor/>
+ Vagyoni Ã©rtÃ©kÅ± jogok 18 18<ujsor/>
+ Szellemi termÃ©kek 1 462 1 462<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 379 986 379 986<ujsor/>
+ Ingatlanok Ã©s a kapcs. v.Ã©. jogok 160 099 160 099<ujsor/>
+ MÅ±szaki berend., gÃ©pek, jÃ¡rmÅ±vek 196 540 196 540<ujsor/>
+ EgyÃ©b berend., felszerelÃ©sek, jÃ¡rmÅ±vek 16 598 16 598<ujsor/>
+ BeruhÃ¡zÃ¡sok, felÃºjÃ­tÃ¡sok 6 749 6 749<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 15 752 15 752<ujsor/>
+EgyÃ©b tartÃ³s rÃ©szesedÃ©s 30 30<ujsor/>
+ EgyÃ©b tartÃ³san adott kÃ¶lcsÃ¶n 734 734<ujsor/>
+ TartÃ³s hitelvisz. megt. Ã©rtÃ©kpapÃ­r 14 988 14 988<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 279 379 279 379<ujsor/>
+I. KÃ©szletek 26 114 26 114<ujsor/>
  Anyagok 25 388 25 388<ujsor/>
- Bef.len termelés és félkész termékek 175 175<ujsor/>
- Növendék-, hízó- és egyéb állatok 2 2<ujsor/>
- Áruk 4 4<ujsor/>
- Készletekre adott elõlegek 545 545<ujsor/>
-II. Követelések 192 681 192 681<ujsor/>
- Követelések áruszáll. és szolg. (vevõk) 132 536 132 536<ujsor/>
- Követelések kapcsoltv. szemben 26 638 26 638<ujsor/>
- Egyéb követelések 33 507 33 507<ujsor/>
-III. Értékpapírok<ujsor/>
-IV. Pénzeszközök 60 584 60 584<ujsor/>
- Pénztár, csekkek 204 204<ujsor/>
- Bankbetétek 60 380 60 380<ujsor/>
-C) Aktív idõbeli elhatárolások 33 767 33 767<ujsor/>
- Bevételek aktív idõbeli elhatárolása 12 111 12 111<ujsor/>
- Költségek, ráfordítások, akt. id. elhat. 21 656 21 656<ujsor/>
-ÖSSZESEN: 710 364 710 364<ujsor/>
+ Bef.len termelÃ©s Ã©s fÃ©lkÃ©sz termÃ©kek 175 175<ujsor/>
+ NÃ¶vendÃ©k-, hÃ­zÃ³- Ã©s egyÃ©b Ã¡llatok 2 2<ujsor/>
+ Ãruk 4 4<ujsor/>
+ KÃ©szletekre adott elÅ‘legek 545 545<ujsor/>
+II. KÃ¶vetelÃ©sek 192 681 192 681<ujsor/>
+ KÃ¶vetelÃ©sek Ã¡ruszÃ¡ll. Ã©s szolg. (vevÅ‘k) 132 536 132 536<ujsor/>
+ KÃ¶vetelÃ©sek kapcsoltv. szemben 26 638 26 638<ujsor/>
+ EgyÃ©b kÃ¶vetelÃ©sek 33 507 33 507<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 60 584 60 584<ujsor/>
+ PÃ©nztÃ¡r, csekkek 204 204<ujsor/>
+ BankbetÃ©tek 60 380 60 380<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 33 767 33 767<ujsor/>
+ BevÃ©telek aktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sa 12 111 12 111<ujsor/>
+ KÃ¶ltsÃ©gek, rÃ¡fordÃ­tÃ¡sok, akt. id. elhat. 21 656 21 656<ujsor/>
+Ã–SSZESEN: 710 364 710 364<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK (passzívák) Könyv szerinti érték Jogutód nyitómérlege<ujsor/>
-D) Saját tõke 326 754 326 757<ujsor/>
-I. Jegyzett tõke 191 660 191 660<ujsor/>
-II. Jegyzett, de be nem fizetett tõke<ujsor/>
-III. Tõketartalék 29 919 29 919<ujsor/>
-IV. Eredménytartalék 105 178 105 178<ujsor/>
-V. Lekötött tartalék<ujsor/>
-VI. Értékelési tartalék<ujsor/>
-VII. Mérleg szerinti eredmény<ujsor/>
-E) Céltartalék 40 308 40 308<ujsor/>
- Céltartalék a jövõbeni költségekre 40 308 40 308<ujsor/>
-F) Kötelezettségek 301 369 301 369<ujsor/>
-I. Hátra sorolt kötelezettségek<ujsor/>
-II. Hosszú lejáratú kötelezettségek 43 136 43 136<ujsor/>
- Beruházási és fejlesztési hitelek 14 000 14 000<ujsor/>
- Egyéb hosszú lejáratú kötelezettségek 29 136 29 136<ujsor/>
-III. Rövid lejáratú kötelezettségek 258 233 258 233<ujsor/>
- Rövid lejáratú hitelek 25 127 25 127<ujsor/>
- Kötelezettségek árusz., szolg. (szállítók) 85 246 85 246<ujsor/>
- Röv. lej. köt. kapcsolt váll. szemben 44 332 44 332<ujsor/>
- Egyéb rövid lejáratú kötelezettségek 103 528 103 528<ujsor/>
-G) Passzív idõbeli elhatárolások 41 930 41 930<ujsor/>
- Bevételek passzív idõbeli elhatárolása 2 464 2 464<ujsor/>
- Költségek, ráf. passzív idõbeli elhat. 7 254 7 254<ujsor/>
- Halasztott bevételek 32 212 32 212<ujsor/>
-ÖSSZESEN: 710 364 710 364<ujsor/>
-A jogutód társaság alaptõkéje a beolvadáskor 191 660 000 Ft (egyszázkilencvenegymillió-hatszázhatvanezer forint).<ujsor/>
-Az alaptõke nyomdai úton elõállított 19 166 db, egyenként 10 000 Ft névértékû, „A” sorozatú, névre szóló korlátozás nélküli részvényesi jogokat biztosító törzsrészvénybõl áll.<ujsor/>
-A létrejövõ gazdasági társaság tevékenysége (TEÁOR ’03): 2010 Fûrészárugyártás; 2020 Falemezgyártás; 2030 Épületasztalos-ipari termék gyártása; 2040 Tároló fatermék gyártása; 2051 Fatömegcikk gyártása; 2621 Háztartási kerámia gyártása; 2661 Építési betontermék gyártása; 2666 Egyéb beton-, gipsz-, cementtermék gyártása; 2670 Építõkõ, díszítõkõ megmunkálása; 2811 Fémszerkezet gyártása; 2812 Fémépületelem gyártása; 2851 Fém felületkezelése; 2852 Fémmegmunkálás; 2875 Máshová nem sorolt, egyéb fémfeldolgozási termék gyártása; 2924 Máshova nem sorolt, egyéb általános gép gyártása; 3614 Egyéb bútor gyártása; 3663 Egyéb, máshova nem sorolt feldolgozóipar; 4011 Villamosenergia-termelés; 4012 Villamosenergia-ellátás; 4013 Villamosenergie-elosztás, -kereskedelem; 4030 Gõz-, melegvízellátás; 4100 Víztermelés, -kezelés, -elosztás; 4511 Épületbontás, földmunka; 4512 Talajmintavétel, próbafúrás; 4521 Épület, híd, alagút, közmû, vezeték építése; 4522 Tetõszerkezet-építés, tetõfedés, vízszigetelés; 4523 Autópálya, út, repülõtér, sport játéktér építése; 4524 Vízi létesítmény építése; 4525 Egyéb speciális szaképítés; 4531 Villanyszerelés; 4532 Szigetelés; 4533 Víz-, gáz-, fûtésszerelés; 4534 Egyéb épületgépészeti szerelés; 4541 Vakolás; 4542 Épületasztalos-szerkezet szerelése; 4543 Padló-, falburkolás; 4544 Festés, üvegezés; 4545 Egyéb befejezõ építés; 4550 Építési, bontási eszköz kölcsönzése személyzettel; 5020 Gépjármûjavítás; 5521 Ifjúsági-, turistaszállás-szolgáltatás; 5523 Egyéb szálláshely-szolgáltatás; 6024 Közúti teherszállítás; 6311 Rakománykezelés; 6312 Tárolás, raktározás; 6321 Egyéb, szárazföldi szállítást segítõ tevékenység; 7011 Ingatlanberuházás, -eladás; 7012 Ingatlanforgalmazás; 7020 Ingatlan bérbeadása, üzemeltetése; 7031 Ingatlanügynöki tevékenység; 7032 Ingatlankezelés; 7110 Gépkocsikölcsönzés; 7121 Egyéb szárazföldi jármû kölcsönzése; 7132 Építõipari gép kölcsönzése; 7134 Máshova nem sorolt, egyéb gép kölcsönzése; 7415 Vagyonkezelés; 7420 Mérnöki tevékenység, tanácsadás; 7430 Mûszaki vizsgálat, elemzés; 7440 Hirdetés; 7487 Máshová nem sorolt, egyéb gazdasági szolgáltatás; 9001 Szennyvíz gyûjtése, kezelése; 9002 Hulladékgyûjtés, -kezelés (fõ tevékenység); 9003 Szennyezõdésmentesítés; 9261 Sportlétesítmény mûködtetése; 9262 Egyéb sporttevékenység; 9272 Máshova nem sorolható egyéb szabadidõs tevékenység; 9303 Temetkezés; 9304 Fizikai közérzetet javító szolgáltatás.<ujsor/>
-A létrejövõ gazdasági társaság vezetõ tisztségviselõi:<ujsor/>
-Az átvevõ társaság beolvadást követõ igazgatósági tagjai: Csuzdi Tibor (a. n.: Bene Anna; 3200 Gyöngyös, Bethlen G. u. 17/2.), Juhász József (a. n.: Csépány Mária; 3200 Gyöngyös, Batsányi u. 5.), Nagy András (a. n.: Papp Ilona; 3200 Gyöngyös, Bajcsy-Zsilinszky krt. 11.).<ujsor/>
-Az átvevõ társaság beolvadást követõ felügyelõbizottsági tagjai: Lados Tibor (a. n.: Köteles Terézia; 3231 Gyöngyössolymos, Virág u. 83.), Boári István (a. n.: Dutka Margit; 3200 Gyöngyös, Jószerencsét u. 16.), Tõkés László (a. n.: Dózsa Jolán; 3200 Gyöngyös, Városkert u. 9.), Dér Ferenc (a. n.: Szabó Erzsébet; 3261 Abasár, Radnóti u. 4.), Füleki János (a. n.: Õzse Mária; 3231 Gyöngyössolymos, Jókai u. 126.), Sári Péter (a. n.: Rejlik Ágnes; 3200 Gyöngyös, Aranysas u. 52.).<ujsor/>
-Felhívjuk a hitelezõink figyelmét, hogy az átalakulással kapcsolatban a Gt. 66. §-ban meghatározott jogaikkal élhetnek a társaság székhelyén.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+FORRÃSOK (passzÃ­vÃ¡k) KÃ¶nyv szerinti Ã©rtÃ©k JogutÃ³d nyitÃ³mÃ©rlege<ujsor/>
+D) SajÃ¡t tÅ‘ke 326 754 326 757<ujsor/>
+I. Jegyzett tÅ‘ke 191 660 191 660<ujsor/>
+II. Jegyzett, de be nem fizetett tÅ‘ke<ujsor/>
+III. TÅ‘ketartalÃ©k 29 919 29 919<ujsor/>
+IV. EredmÃ©nytartalÃ©k 105 178 105 178<ujsor/>
+V. LekÃ¶tÃ¶tt tartalÃ©k<ujsor/>
+VI. Ã‰rtÃ©kelÃ©si tartalÃ©k<ujsor/>
+VII. MÃ©rleg szerinti eredmÃ©ny<ujsor/>
+E) CÃ©ltartalÃ©k 40 308 40 308<ujsor/>
+ CÃ©ltartalÃ©k a jÃ¶vÅ‘beni kÃ¶ltsÃ©gekre 40 308 40 308<ujsor/>
+F) KÃ¶telezettsÃ©gek 301 369 301 369<ujsor/>
+I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek<ujsor/>
+II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 43 136 43 136<ujsor/>
+ BeruhÃ¡zÃ¡si Ã©s fejlesztÃ©si hitelek 14 000 14 000<ujsor/>
+ EgyÃ©b hosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 29 136 29 136<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 258 233 258 233<ujsor/>
+ RÃ¶vid lejÃ¡ratÃº hitelek 25 127 25 127<ujsor/>
+ KÃ¶telezettsÃ©gek Ã¡rusz., szolg. (szÃ¡llÃ­tÃ³k) 85 246 85 246<ujsor/>
+ RÃ¶v. lej. kÃ¶t. kapcsolt vÃ¡ll. szemben 44 332 44 332<ujsor/>
+ EgyÃ©b rÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 103 528 103 528<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 41 930 41 930<ujsor/>
+ BevÃ©telek passzÃ­v idÅ‘beli elhatÃ¡rolÃ¡sa 2 464 2 464<ujsor/>
+ KÃ¶ltsÃ©gek, rÃ¡f. passzÃ­v idÅ‘beli elhat. 7 254 7 254<ujsor/>
+ Halasztott bevÃ©telek 32 212 32 212<ujsor/>
+Ã–SSZESEN: 710 364 710 364<ujsor/>
+A jogutÃ³d tÃ¡rsasÃ¡g alaptÅ‘kÃ©je a beolvadÃ¡skor 191 660 000 Ft (egyszÃ¡zkilencvenegymilliÃ³-hatszÃ¡zhatvanezer forint).<ujsor/>
+Az alaptÅ‘ke nyomdai Ãºton elÅ‘Ã¡llÃ­tott 19 166 db, egyenkÃ©nt 10 000 Ft nÃ©vÃ©rtÃ©kÅ±, â€Aâ€ sorozatÃº, nÃ©vre szÃ³lÃ³ korlÃ¡tozÃ¡s nÃ©lkÃ¼li rÃ©szvÃ©nyesi jogokat biztosÃ­tÃ³ tÃ¶rzsrÃ©szvÃ©nybÅ‘l Ã¡ll.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g tevÃ©kenysÃ©ge (TEÃOR â€™03): 2010 FÅ±rÃ©szÃ¡rugyÃ¡rtÃ¡s; 2020 FalemezgyÃ¡rtÃ¡s; 2030 Ã‰pÃ¼letasztalos-ipari termÃ©k gyÃ¡rtÃ¡sa; 2040 TÃ¡rolÃ³ fatermÃ©k gyÃ¡rtÃ¡sa; 2051 FatÃ¶megcikk gyÃ¡rtÃ¡sa; 2621 HÃ¡ztartÃ¡si kerÃ¡mia gyÃ¡rtÃ¡sa; 2661 Ã‰pÃ­tÃ©si betontermÃ©k gyÃ¡rtÃ¡sa; 2666 EgyÃ©b beton-, gipsz-, cementtermÃ©k gyÃ¡rtÃ¡sa; 2670 Ã‰pÃ­tÅ‘kÅ‘, dÃ­szÃ­tÅ‘kÅ‘ megmunkÃ¡lÃ¡sa; 2811 FÃ©mszerkezet gyÃ¡rtÃ¡sa; 2812 FÃ©mÃ©pÃ¼letelem gyÃ¡rtÃ¡sa; 2851 FÃ©m felÃ¼letkezelÃ©se; 2852 FÃ©mmegmunkÃ¡lÃ¡s; 2875 MÃ¡shovÃ¡ nem sorolt, egyÃ©b fÃ©mfeldolgozÃ¡si termÃ©k gyÃ¡rtÃ¡sa; 2924 MÃ¡shova nem sorolt, egyÃ©b Ã¡ltalÃ¡nos gÃ©p gyÃ¡rtÃ¡sa; 3614 EgyÃ©b bÃºtor gyÃ¡rtÃ¡sa; 3663 EgyÃ©b, mÃ¡shova nem sorolt feldolgozÃ³ipar; 4011 Villamosenergia-termelÃ©s; 4012 Villamosenergia-ellÃ¡tÃ¡s; 4013 Villamosenergie-elosztÃ¡s, -kereskedelem; 4030 GÅ‘z-, melegvÃ­zellÃ¡tÃ¡s; 4100 VÃ­ztermelÃ©s, -kezelÃ©s, -elosztÃ¡s; 4511 Ã‰pÃ¼letbontÃ¡s, fÃ¶ldmunka; 4512 TalajmintavÃ©tel, prÃ³bafÃºrÃ¡s; 4521 Ã‰pÃ¼let, hÃ­d, alagÃºt, kÃ¶zmÅ±, vezetÃ©k Ã©pÃ­tÃ©se; 4522 TetÅ‘szerkezet-Ã©pÃ­tÃ©s, tetÅ‘fedÃ©s, vÃ­zszigetelÃ©s; 4523 AutÃ³pÃ¡lya, Ãºt, repÃ¼lÅ‘tÃ©r, sport jÃ¡tÃ©ktÃ©r Ã©pÃ­tÃ©se; 4524 VÃ­zi lÃ©tesÃ­tmÃ©ny Ã©pÃ­tÃ©se; 4525 EgyÃ©b speciÃ¡lis szakÃ©pÃ­tÃ©s; 4531 VillanyszerelÃ©s; 4532 SzigetelÃ©s; 4533 VÃ­z-, gÃ¡z-, fÅ±tÃ©sszerelÃ©s; 4534 EgyÃ©b Ã©pÃ¼letgÃ©pÃ©szeti szerelÃ©s; 4541 VakolÃ¡s; 4542 Ã‰pÃ¼letasztalos-szerkezet szerelÃ©se; 4543 PadlÃ³-, falburkolÃ¡s; 4544 FestÃ©s, Ã¼vegezÃ©s; 4545 EgyÃ©b befejezÅ‘ Ã©pÃ­tÃ©s; 4550 Ã‰pÃ­tÃ©si, bontÃ¡si eszkÃ¶z kÃ¶lcsÃ¶nzÃ©se szemÃ©lyzettel; 5020 GÃ©pjÃ¡rmÅ±javÃ­tÃ¡s; 5521 IfjÃºsÃ¡gi-, turistaszÃ¡llÃ¡s-szolgÃ¡ltatÃ¡s; 5523 EgyÃ©b szÃ¡llÃ¡shely-szolgÃ¡ltatÃ¡s; 6024 KÃ¶zÃºti teherszÃ¡llÃ­tÃ¡s; 6311 RakomÃ¡nykezelÃ©s; 6312 TÃ¡rolÃ¡s, raktÃ¡rozÃ¡s; 6321 EgyÃ©b, szÃ¡razfÃ¶ldi szÃ¡llÃ­tÃ¡st segÃ­tÅ‘ tevÃ©kenysÃ©g; 7011 IngatlanberuhÃ¡zÃ¡s, -eladÃ¡s; 7012 IngatlanforgalmazÃ¡s; 7020 Ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se; 7031 IngatlanÃ¼gynÃ¶ki tevÃ©kenysÃ©g; 7032 IngatlankezelÃ©s; 7110 GÃ©pkocsikÃ¶lcsÃ¶nzÃ©s; 7121 EgyÃ©b szÃ¡razfÃ¶ldi jÃ¡rmÅ± kÃ¶lcsÃ¶nzÃ©se; 7132 Ã‰pÃ­tÅ‘ipari gÃ©p kÃ¶lcsÃ¶nzÃ©se; 7134 MÃ¡shova nem sorolt, egyÃ©b gÃ©p kÃ¶lcsÃ¶nzÃ©se; 7415 VagyonkezelÃ©s; 7420 MÃ©rnÃ¶ki tevÃ©kenysÃ©g, tanÃ¡csadÃ¡s; 7430 MÅ±szaki vizsgÃ¡lat, elemzÃ©s; 7440 HirdetÃ©s; 7487 MÃ¡shovÃ¡ nem sorolt, egyÃ©b gazdasÃ¡gi szolgÃ¡ltatÃ¡s; 9001 SzennyvÃ­z gyÅ±jtÃ©se, kezelÃ©se; 9002 HulladÃ©kgyÅ±jtÃ©s, -kezelÃ©s (fÅ‘ tevÃ©kenysÃ©g); 9003 SzennyezÅ‘dÃ©smentesÃ­tÃ©s; 9261 SportlÃ©tesÃ­tmÃ©ny mÅ±kÃ¶dtetÃ©se; 9262 EgyÃ©b sporttevÃ©kenysÃ©g; 9272 MÃ¡shova nem sorolhatÃ³ egyÃ©b szabadidÅ‘s tevÃ©kenysÃ©g; 9303 TemetkezÃ©s; 9304 Fizikai kÃ¶zÃ©rzetet javÃ­tÃ³ szolgÃ¡ltatÃ¡s.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘i:<ujsor/>
+Az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g beolvadÃ¡st kÃ¶vetÅ‘ igazgatÃ³sÃ¡gi tagjai: Csuzdi Tibor (a. n.: Bene Anna; 3200 GyÃ¶ngyÃ¶s, Bethlen G. u. 17/2.), JuhÃ¡sz JÃ³zsef (a. n.: CsÃ©pÃ¡ny MÃ¡ria; 3200 GyÃ¶ngyÃ¶s, BatsÃ¡nyi u. 5.), Nagy AndrÃ¡s (a. n.: Papp Ilona; 3200 GyÃ¶ngyÃ¶s, Bajcsy-Zsilinszky krt. 11.).<ujsor/>
+Az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g beolvadÃ¡st kÃ¶vetÅ‘ felÃ¼gyelÅ‘bizottsÃ¡gi tagjai: Lados Tibor (a. n.: KÃ¶teles TerÃ©zia; 3231 GyÃ¶ngyÃ¶ssolymos, VirÃ¡g u. 83.), BoÃ¡ri IstvÃ¡n (a. n.: Dutka Margit; 3200 GyÃ¶ngyÃ¶s, JÃ³szerencsÃ©t u. 16.), TÅ‘kÃ©s LÃ¡szlÃ³ (a. n.: DÃ³zsa JolÃ¡n; 3200 GyÃ¶ngyÃ¶s, VÃ¡roskert u. 9.), DÃ©r Ferenc (a. n.: SzabÃ³ ErzsÃ©bet; 3261 AbasÃ¡r, RadnÃ³ti u. 4.), FÃ¼leki JÃ¡nos (a. n.: Åzse MÃ¡ria; 3231 GyÃ¶ngyÃ¶ssolymos, JÃ³kai u. 126.), SÃ¡ri PÃ©ter (a. n.: Rejlik Ãgnes; 3200 GyÃ¶ngyÃ¶s, Aranysas u. 52.).<ujsor/>
+FelhÃ­vjuk a hitelezÅ‘ink figyelmÃ©t, hogy az Ã¡talakulÃ¡ssal kapcsolatban a Gt. 66. Â§-ban meghatÃ¡rozott jogaikkal Ã©lhetnek a tÃ¡rsasÃ¡g szÃ©khelyÃ©n.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">1010020013</mezo>
-<mezo id = "nev">Városgondozási Részvénytársaság</mezo>
-<mezo id = "cim">3200 Gyöngyös</mezo>
+<mezo id = "nev">VÃ¡rosgondozÃ¡si RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">3200 GyÃ¶ngyÃ¶s</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Heves Megyei Cégbíróságon nyilvántartásba vett Városgondozási Részvénytársaság és a „PATINA” Közszolgáltató és Vagyonkezelõ Részvénytársaság, az 1997. évi CXLIV. tv. 72. § (1) bekezdés alapján elhatározta a gazdasági társaságok<ujsor/>
-egyesülését.<ujsor/>
-Az egyesüléssel érintett átvevõ gazdasági társaság neve: Városgondozási Részvénytársaság.<ujsor/>
-Cégjegyzékszáma: [10 10 020013].<ujsor/>
-Székhelye: 3200 Gyöngyös, Kenyérgyár u. 17.<ujsor/>
-Rövidített cégneve: Városgondozási Rt.<ujsor/>
-Az egyesüléssel érintett beolvadó gazdasági társaság neve: „PATINA” Közszolgáltató és Vagyonkezelõ Részvénytársaság.<ujsor/>
-Cégjegyzékszáma: [10 10 020012].<ujsor/>
-Székhelye: 3200 Gyöngyös, Katona J. u. 1.<ujsor/>
-Rövidített cégneve: „PATINA” Rt.<ujsor/>
-A létrejövõ gazdasági társaság formája: részvénytársaság.<ujsor/>
-Cégneve: Városgondozási Részvénytársaság.<ujsor/>
-Rövidített cégneve: Városgondozási Rt.<ujsor/>
-Székhelye: 3200 Gyöngyös, Kenyérgyár u. 17.<ujsor/>
-Az egyesülési szerzõdés és az átvevõ társaság alapító okirat módosítása elfogadásának napja: 2005. április 7.<ujsor/>
-Az egyesülés módja: beolvadás.<ujsor/>
-A „PATINA” Közszolgáltató és Vagyonkezelõ Részvénytársaság beolvad a Városgondozási Részvénytársaságba.<ujsor/>
-Az egyesülõ gazdasági társaságok vagyonmérleg-tervezeteinek legfontosabb adatai (fordulónap: 2004. december 31.):<ujsor/>
-Városgondozási Rt.:<ujsor/>
+<mezo id = "szoveg">A Heves Megyei CÃ©gbÃ­rÃ³sÃ¡gon nyilvÃ¡ntartÃ¡sba vett VÃ¡rosgondozÃ¡si RÃ©szvÃ©nytÃ¡rsasÃ¡g Ã©s a â€PATINAâ€ KÃ¶zszolgÃ¡ltatÃ³ Ã©s VagyonkezelÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g, az 1997. Ã©vi CXLIV. tv. 72. Â§ (1) bekezdÃ©s alapjÃ¡n elhatÃ¡rozta a gazdasÃ¡gi tÃ¡rsasÃ¡gok<ujsor/>
+egyesÃ¼lÃ©sÃ©t.<ujsor/>
+Az egyesÃ¼lÃ©ssel Ã©rintett Ã¡tvevÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g neve: VÃ¡rosgondozÃ¡si RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡ma: [10 10 020013].<ujsor/>
+SzÃ©khelye: 3200 GyÃ¶ngyÃ¶s, KenyÃ©rgyÃ¡r u. 17.<ujsor/>
+RÃ¶vidÃ­tett cÃ©gneve: VÃ¡rosgondozÃ¡si Rt.<ujsor/>
+Az egyesÃ¼lÃ©ssel Ã©rintett beolvadÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g neve: â€PATINAâ€ KÃ¶zszolgÃ¡ltatÃ³ Ã©s VagyonkezelÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡ma: [10 10 020012].<ujsor/>
+SzÃ©khelye: 3200 GyÃ¶ngyÃ¶s, Katona J. u. 1.<ujsor/>
+RÃ¶vidÃ­tett cÃ©gneve: â€PATINAâ€ Rt.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g formÃ¡ja: rÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gneve: VÃ¡rosgondozÃ¡si RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+RÃ¶vidÃ­tett cÃ©gneve: VÃ¡rosgondozÃ¡si Rt.<ujsor/>
+SzÃ©khelye: 3200 GyÃ¶ngyÃ¶s, KenyÃ©rgyÃ¡r u. 17.<ujsor/>
+Az egyesÃ¼lÃ©si szerzÅ‘dÃ©s Ã©s az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g alapÃ­tÃ³ okirat mÃ³dosÃ­tÃ¡sa elfogadÃ¡sÃ¡nak napja: 2005. Ã¡prilis 7.<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: beolvadÃ¡s.<ujsor/>
+A â€PATINAâ€ KÃ¶zszolgÃ¡ltatÃ³ Ã©s VagyonkezelÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g beolvad a VÃ¡rosgondozÃ¡si RÃ©szvÃ©nytÃ¡rsasÃ¡gba.<ujsor/>
+Az egyesÃ¼lÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡gok vagyonmÃ©rleg-tervezeteinek legfontosabb adatai (fordulÃ³nap: 2004. december 31.):<ujsor/>
+VÃ¡rosgondozÃ¡si Rt.:<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK (aktívák) Könyv szerinti érték Vagyonértékelés szerinti érték<ujsor/>
-A) Befektetett eszközök 168 913 168 913<ujsor/>
-I. Immateriális javak 1 105 1 105<ujsor/>
- Vagyoni értékû jogok 18 18<ujsor/>
- Szellemi termékek 1 087 1 087<ujsor/>
-II. Tárgyi eszközök 152 480 152 480<ujsor/>
- Ingatlanok és a kapcs. v.é. jogok 24 870 24 870<ujsor/>
- Mûszaki berend., gépek, jármûvek 111 432 111 432<ujsor/>
- Egyéb berend., felszerelések, jármûvek 15 900 15 900<ujsor/>
- Beruházások, felújítások 278 278<ujsor/>
-III. Befektetett pénzügyi eszközök 15 328 15 328<ujsor/>
- Egyéb tartós részesedés 20 20<ujsor/>
- Egyéb tartósan adott kölcsön 320 320<ujsor/>
- Tartós hitelvisz. megt. értékpapír 14 988 14 988<ujsor/>
-B) Forgóeszközök 180 475 180 475<ujsor/>
-I. Készletek 16 358 16 358<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) KÃ¶nyv szerinti Ã©rtÃ©k VagyonÃ©rtÃ©kelÃ©s szerinti Ã©rtÃ©k<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 168 913 168 913<ujsor/>
+I. ImmateriÃ¡lis javak 1 105 1 105<ujsor/>
+ Vagyoni Ã©rtÃ©kÅ± jogok 18 18<ujsor/>
+ Szellemi termÃ©kek 1 087 1 087<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 152 480 152 480<ujsor/>
+ Ingatlanok Ã©s a kapcs. v.Ã©. jogok 24 870 24 870<ujsor/>
+ MÅ±szaki berend., gÃ©pek, jÃ¡rmÅ±vek 111 432 111 432<ujsor/>
+ EgyÃ©b berend., felszerelÃ©sek, jÃ¡rmÅ±vek 15 900 15 900<ujsor/>
+ BeruhÃ¡zÃ¡sok, felÃºjÃ­tÃ¡sok 278 278<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 15 328 15 328<ujsor/>
+ EgyÃ©b tartÃ³s rÃ©szesedÃ©s 20 20<ujsor/>
+ EgyÃ©b tartÃ³san adott kÃ¶lcsÃ¶n 320 320<ujsor/>
+ TartÃ³s hitelvisz. megt. Ã©rtÃ©kpapÃ­r 14 988 14 988<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 180 475 180 475<ujsor/>
+I. KÃ©szletek 16 358 16 358<ujsor/>
  Anyagok 16 358 16 358<ujsor/>
-II. Követelések 106 524 106 524<ujsor/>
- Követelések áruszáll. és szolg. (vevõk) 82 553 82 553<ujsor/>
- Egyéb követelések 23 971 23 971<ujsor/>
-III. Értékpapírok<ujsor/>
-IV. Pénzeszközök 57 593 57 593<ujsor/>
- Pénztár, csekkek 159 159<ujsor/>
- Bankbetétek 57 434 57 434<ujsor/>
-C) Aktív idõbeli elhatárolások 21 121 21 121<ujsor/>
- Bevételek aktív idõbeli elhatárolása 5 5<ujsor/>
- Költségek, ráfordítások, akt. id. elhat. 21 116 21 116<ujsor/>
-ÖSSZESEN: 370 509 370 509<ujsor/>
+II. KÃ¶vetelÃ©sek 106 524 106 524<ujsor/>
+ KÃ¶vetelÃ©sek Ã¡ruszÃ¡ll. Ã©s szolg. (vevÅ‘k) 82 553 82 553<ujsor/>
+ EgyÃ©b kÃ¶vetelÃ©sek 23 971 23 971<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 57 593 57 593<ujsor/>
+ PÃ©nztÃ¡r, csekkek 159 159<ujsor/>
+ BankbetÃ©tek 57 434 57 434<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 21 121 21 121<ujsor/>
+ BevÃ©telek aktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sa 5 5<ujsor/>
+ KÃ¶ltsÃ©gek, rÃ¡fordÃ­tÃ¡sok, akt. id. elhat. 21 116 21 116<ujsor/>
+Ã–SSZESEN: 370 509 370 509<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK (passzívák) Könyv szerinti érték Vagyonértékelés szerinti érték<ujsor/>
-D) Saját tõke 115 468 115 468<ujsor/>
-I. Jegyzett tõke 70 150 70 150<ujsor/>
-II. Jegyzett, de még be nem fizetett tõke<ujsor/>
-III. Tõketartalék 5 100 5 100<ujsor/>
-IV. Eredménytartalék 40 218 40 218<ujsor/>
-V. Lekötött tartalék<ujsor/>
-VI. Értékelési tartalék<ujsor/>
-VII. Mérleg szerinti eredmény<ujsor/>
-E) Céltartalék 40 308 40 308<ujsor/>
- Céltartalék a jövõbeni költségekre 40 308 40 308<ujsor/>
-F) Kötelezettségek 182 921 182 921<ujsor/>
-I. Hátra sorolt kötelezettségek<ujsor/>
-II. Hosszú lejáratú kötelezettségek 29 136 29 136<ujsor/>
-Egyéb hosszú lejáratú kötelezettségek 29 136 29 136<ujsor/>
-III. Rövid lejáratú kötelezettségek 153 785 153 785<ujsor/>
- Kötelezettségek árusz., szolg. (szállítók) 74 781 74 781<ujsor/>
- Egyéb rövid lejáratú kötelezettségek 79 004 79 004<ujsor/>
-G) Passzív idõbeli elhatárolások 31 812 31 812<ujsor/>
- Költségek, ráf. passzív idõbeli elhat. 3 272 3 272<ujsor/>
- Halasztott bevételek 28 540 28 540<ujsor/>
-ÖSSZESEN: 370 509 370 509<ujsor/>
-„PATINA” Rt. (beolvadó):<ujsor/>
+FORRÃSOK (passzÃ­vÃ¡k) KÃ¶nyv szerinti Ã©rtÃ©k VagyonÃ©rtÃ©kelÃ©s szerinti Ã©rtÃ©k<ujsor/>
+D) SajÃ¡t tÅ‘ke 115 468 115 468<ujsor/>
+I. Jegyzett tÅ‘ke 70 150 70 150<ujsor/>
+II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke<ujsor/>
+III. TÅ‘ketartalÃ©k 5 100 5 100<ujsor/>
+IV. EredmÃ©nytartalÃ©k 40 218 40 218<ujsor/>
+V. LekÃ¶tÃ¶tt tartalÃ©k<ujsor/>
+VI. Ã‰rtÃ©kelÃ©si tartalÃ©k<ujsor/>
+VII. MÃ©rleg szerinti eredmÃ©ny<ujsor/>
+E) CÃ©ltartalÃ©k 40 308 40 308<ujsor/>
+ CÃ©ltartalÃ©k a jÃ¶vÅ‘beni kÃ¶ltsÃ©gekre 40 308 40 308<ujsor/>
+F) KÃ¶telezettsÃ©gek 182 921 182 921<ujsor/>
+I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek<ujsor/>
+II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 29 136 29 136<ujsor/>
+EgyÃ©b hosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 29 136 29 136<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 153 785 153 785<ujsor/>
+ KÃ¶telezettsÃ©gek Ã¡rusz., szolg. (szÃ¡llÃ­tÃ³k) 74 781 74 781<ujsor/>
+ EgyÃ©b rÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 79 004 79 004<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 31 812 31 812<ujsor/>
+ KÃ¶ltsÃ©gek, rÃ¡f. passzÃ­v idÅ‘beli elhat. 3 272 3 272<ujsor/>
+ Halasztott bevÃ©telek 28 540 28 540<ujsor/>
+Ã–SSZESEN: 370 509 370 509<ujsor/>
+â€PATINAâ€ Rt. (beolvadÃ³):<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK (aktívák) Könyv szerinti érték Vagyonértékelés szerinti érték<ujsor/>
-A) Befektetett eszközök 228 305 228 305<ujsor/>
-I. Immateriális javak 375 375<ujsor/>
-Vagyoni értékû jogok<ujsor/>
-Szellemi termékek 375 375<ujsor/>
-II. Tárgyi eszközök 227 506 227 506<ujsor/>
- Ingatlanok és a kapcs. v.é. jogok 135 229 135 229<ujsor/>
- Mûszaki berend., gépek, jármûvek 85 108 85 108<ujsor/>
- Egyéb berend., felszerelések, jármûvek 698 698<ujsor/>
- Beruházások, felújítások 6 471 6 471<ujsor/>
-III. Befektetett pénzügyi eszközök 424 424<ujsor/>
- Egyéb tartós részesedés 10 10<ujsor/>
- Egyéb tartósan adott kölcsön 414 414<ujsor/>
-B) Forgóeszközök 98 904 98 904<ujsor/>
-I. Készletek 9 756 9 756<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) KÃ¶nyv szerinti Ã©rtÃ©k VagyonÃ©rtÃ©kelÃ©s szerinti Ã©rtÃ©k<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 228 305 228 305<ujsor/>
+I. ImmateriÃ¡lis javak 375 375<ujsor/>
+Vagyoni Ã©rtÃ©kÅ± jogok<ujsor/>
+Szellemi termÃ©kek 375 375<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 227 506 227 506<ujsor/>
+ Ingatlanok Ã©s a kapcs. v.Ã©. jogok 135 229 135 229<ujsor/>
+ MÅ±szaki berend., gÃ©pek, jÃ¡rmÅ±vek 85 108 85 108<ujsor/>
+ EgyÃ©b berend., felszerelÃ©sek, jÃ¡rmÅ±vek 698 698<ujsor/>
+ BeruhÃ¡zÃ¡sok, felÃºjÃ­tÃ¡sok 6 471 6 471<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 424 424<ujsor/>
+ EgyÃ©b tartÃ³s rÃ©szesedÃ©s 10 10<ujsor/>
+ EgyÃ©b tartÃ³san adott kÃ¶lcsÃ¶n 414 414<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 98 904 98 904<ujsor/>
+I. KÃ©szletek 9 756 9 756<ujsor/>
  Anyagok 9 030 9 030<ujsor/>
- Bef.len termelés és félkész termékek 175 175<ujsor/>
- Növendék-, hízó- és egyéb állatok 2 2<ujsor/>
- Áruk 4 4<ujsor/>
- Készletekre adott elõlegek 545 545<ujsor/>
-II. Követelések 86 157 86 157<ujsor/>
- Követelések áruszáll. és szolg. (vevõk) 49 983 49 983<ujsor/>
- Követelések kapcsolt v. szemben 26 638 26 638<ujsor/>
- Egyéb követelések 9 536 9 536<ujsor/>
-IV. Pénzeszközök 2 991 2 991<ujsor/>
- Pénztár, csekkek 45 45<ujsor/>
- Bankbetétek 2 946 2 946<ujsor/>
-C) Aktív idõbeli elhatárolások 12 646 12 646<ujsor/>
- Bevételek aktív idõbeli elhatárolása 12 106 12 106<ujsor/>
- Költségek, ráfordítások, akt. id. elhat. 540 540<ujsor/>
-ÖSSZESEN: 339 855 339 855<ujsor/>
+ Bef.len termelÃ©s Ã©s fÃ©lkÃ©sz termÃ©kek 175 175<ujsor/>
+ NÃ¶vendÃ©k-, hÃ­zÃ³- Ã©s egyÃ©b Ã¡llatok 2 2<ujsor/>
+ Ãruk 4 4<ujsor/>
+ KÃ©szletekre adott elÅ‘legek 545 545<ujsor/>
+II. KÃ¶vetelÃ©sek 86 157 86 157<ujsor/>
+ KÃ¶vetelÃ©sek Ã¡ruszÃ¡ll. Ã©s szolg. (vevÅ‘k) 49 983 49 983<ujsor/>
+ KÃ¶vetelÃ©sek kapcsolt v. szemben 26 638 26 638<ujsor/>
+ EgyÃ©b kÃ¶vetelÃ©sek 9 536 9 536<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 2 991 2 991<ujsor/>
+ PÃ©nztÃ¡r, csekkek 45 45<ujsor/>
+ BankbetÃ©tek 2 946 2 946<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 12 646 12 646<ujsor/>
+ BevÃ©telek aktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sa 12 106 12 106<ujsor/>
+ KÃ¶ltsÃ©gek, rÃ¡fordÃ­tÃ¡sok, akt. id. elhat. 540 540<ujsor/>
+Ã–SSZESEN: 339 855 339 855<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK (passzívák) Könyv szerinti érték Vagyonértékelés szerinti érték<ujsor/>
-D) Saját tõke 211 289 211 289<ujsor/>
-I. Jegyzett tõke 121 510 121 510<ujsor/>
-II. Jegyzett, de még be nem fizetett tõke<ujsor/>
-III. Tõketartalék 24 819 24 819<ujsor/>
-IV. Eredménytartalék 64 960 64 960<ujsor/>
-V. Lekötött tartalék<ujsor/>
-VI. Értékelési tartalék<ujsor/>
-VII. Mérleg szerinti eredmény<ujsor/>
-E) Céltartalék<ujsor/>
-F) Kötelezettségek 118 448 118 448<ujsor/>
-I. Hátra sorolt kötelezettségek<ujsor/>
-II. Hosszú lejáratú kötelezettségek 14 000 14 000<ujsor/>
- Beruházási és fejlesztési hitelek 14 000 14 000<ujsor/>
-III. Rövid lejáratú kötelezettségek 104 448 104 448<ujsor/>
- Rövid lejáratú hitelek 25 127 25 127<ujsor/>
- Kötelezettségek árusz., szolg. (szállítók) 10 465 10 465<ujsor/>
- Röv. lej. köt. kapcsolt váll. szemben 44 332 44 332<ujsor/>
- Egyéb rövid lejáratú kötelezettségek 24 524 24 524<ujsor/>
-G) Passzív idõbeli elhatárolások 10 118 10 118<ujsor/>
- Bevételek passzív idõbeli elhatárolása 2 464 2 464<ujsor/>
- Költségek, ráf. passzív idõbeli elhat. 3 982 3 982<ujsor/>
- Halasztott bevételek 3 672 3 672<ujsor/>
-ÖSSZESEN: 339 855 339 855<ujsor/>
-Városgondozási Rt. (jogutód):<ujsor/>
+FORRÃSOK (passzÃ­vÃ¡k) KÃ¶nyv szerinti Ã©rtÃ©k VagyonÃ©rtÃ©kelÃ©s szerinti Ã©rtÃ©k<ujsor/>
+D) SajÃ¡t tÅ‘ke 211 289 211 289<ujsor/>
+I. Jegyzett tÅ‘ke 121 510 121 510<ujsor/>
+II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke<ujsor/>
+III. TÅ‘ketartalÃ©k 24 819 24 819<ujsor/>
+IV. EredmÃ©nytartalÃ©k 64 960 64 960<ujsor/>
+V. LekÃ¶tÃ¶tt tartalÃ©k<ujsor/>
+VI. Ã‰rtÃ©kelÃ©si tartalÃ©k<ujsor/>
+VII. MÃ©rleg szerinti eredmÃ©ny<ujsor/>
+E) CÃ©ltartalÃ©k<ujsor/>
+F) KÃ¶telezettsÃ©gek 118 448 118 448<ujsor/>
+I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek<ujsor/>
+II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 14 000 14 000<ujsor/>
+ BeruhÃ¡zÃ¡si Ã©s fejlesztÃ©si hitelek 14 000 14 000<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 104 448 104 448<ujsor/>
+ RÃ¶vid lejÃ¡ratÃº hitelek 25 127 25 127<ujsor/>
+ KÃ¶telezettsÃ©gek Ã¡rusz., szolg. (szÃ¡llÃ­tÃ³k) 10 465 10 465<ujsor/>
+ RÃ¶v. lej. kÃ¶t. kapcsolt vÃ¡ll. szemben 44 332 44 332<ujsor/>
+ EgyÃ©b rÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 24 524 24 524<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 10 118 10 118<ujsor/>
+ BevÃ©telek passzÃ­v idÅ‘beli elhatÃ¡rolÃ¡sa 2 464 2 464<ujsor/>
+ KÃ¶ltsÃ©gek, rÃ¡f. passzÃ­v idÅ‘beli elhat. 3 982 3 982<ujsor/>
+ Halasztott bevÃ©telek 3 672 3 672<ujsor/>
+Ã–SSZESEN: 339 855 339 855<ujsor/>
+VÃ¡rosgondozÃ¡si Rt. (jogutÃ³d):<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK (aktívák) Könyv szerinti érték Jogutód nyitó mérlege<ujsor/>
-A) Befektetett eszközök 397 218 397 218<ujsor/>
-I. Immateriális javak 1 480 1 480<ujsor/>
- Vagyoni értékû jogok 18 18<ujsor/>
- Szellemi termékek 1 462 1 462<ujsor/>
-II. Tárgyi eszközök 379 986 379 986<ujsor/>
- Ingatlanok és a kapcs. v.é. jogok 160 099 160 099<ujsor/>
- Mûszaki berend., gépek, jármûvek 196 540 196 540<ujsor/>
- Egyéb berend., felszerelések, jármûvek 16 598 16 598<ujsor/>
- Beruházások, felújítások 6 749 6 749<ujsor/>
-III. Befektetett pénzügyi eszközök 15 752 15 752<ujsor/>
- Egyéb tartós részesedés 30 30<ujsor/>
- Egyéb tartósan adott kölcsön 734 734<ujsor/>
- Tartós hitelvisz. megt. értékpapír 14 988 14 988<ujsor/>
-B) Forgóeszközök 279 379 279 379<ujsor/>
-I. Készletek 26 114 26 114<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) KÃ¶nyv szerinti Ã©rtÃ©k JogutÃ³d nyitÃ³ mÃ©rlege<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 397 218 397 218<ujsor/>
+I. ImmateriÃ¡lis javak 1 480 1 480<ujsor/>
+ Vagyoni Ã©rtÃ©kÅ± jogok 18 18<ujsor/>
+ Szellemi termÃ©kek 1 462 1 462<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 379 986 379 986<ujsor/>
+ Ingatlanok Ã©s a kapcs. v.Ã©. jogok 160 099 160 099<ujsor/>
+ MÅ±szaki berend., gÃ©pek, jÃ¡rmÅ±vek 196 540 196 540<ujsor/>
+ EgyÃ©b berend., felszerelÃ©sek, jÃ¡rmÅ±vek 16 598 16 598<ujsor/>
+ BeruhÃ¡zÃ¡sok, felÃºjÃ­tÃ¡sok 6 749 6 749<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 15 752 15 752<ujsor/>
+ EgyÃ©b tartÃ³s rÃ©szesedÃ©s 30 30<ujsor/>
+ EgyÃ©b tartÃ³san adott kÃ¶lcsÃ¶n 734 734<ujsor/>
+ TartÃ³s hitelvisz. megt. Ã©rtÃ©kpapÃ­r 14 988 14 988<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 279 379 279 379<ujsor/>
+I. KÃ©szletek 26 114 26 114<ujsor/>
  Anyagok 25 388 25 388<ujsor/>
- Bef.len termelés és félkész termékek 175 175<ujsor/>
- Növendék-, hízó- és egyéb állatok 2 2<ujsor/>
- Áruk 4 4<ujsor/>
- Készletekre adott elõlegek 545 545<ujsor/>
-II. Követelések 192 681 192 681<ujsor/>
- Követelések áruszáll. és szolg. (vevõk) 132 536 132 536<ujsor/>
- Követelések kapcsolt v. szemben 26 638 26 638<ujsor/>
- Egyéb követelések 33 507 33 507<ujsor/>
-III. Értékpapírok<ujsor/>
-IV. Pénzeszközök 60 584 60 584<ujsor/>
- Pénztár, csekkek 204 204<ujsor/>
- Bankbetétek 60 380 60 380<ujsor/>
-C) Aktív idõbeli elhatárolások 33 767 33 767<ujsor/>
- Bevételek aktív idõbeli elhatárolása 12 111 12 111<ujsor/>
- Költségek, ráfordítások, akt. id. elhat. 21 656 21 656<ujsor/>
-ÖSSZESEN: 710 364 710 364<ujsor/>
+ Bef.len termelÃ©s Ã©s fÃ©lkÃ©sz termÃ©kek 175 175<ujsor/>
+ NÃ¶vendÃ©k-, hÃ­zÃ³- Ã©s egyÃ©b Ã¡llatok 2 2<ujsor/>
+ Ãruk 4 4<ujsor/>
+ KÃ©szletekre adott elÅ‘legek 545 545<ujsor/>
+II. KÃ¶vetelÃ©sek 192 681 192 681<ujsor/>
+ KÃ¶vetelÃ©sek Ã¡ruszÃ¡ll. Ã©s szolg. (vevÅ‘k) 132 536 132 536<ujsor/>
+ KÃ¶vetelÃ©sek kapcsolt v. szemben 26 638 26 638<ujsor/>
+ EgyÃ©b kÃ¶vetelÃ©sek 33 507 33 507<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 60 584 60 584<ujsor/>
+ PÃ©nztÃ¡r, csekkek 204 204<ujsor/>
+ BankbetÃ©tek 60 380 60 380<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 33 767 33 767<ujsor/>
+ BevÃ©telek aktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sa 12 111 12 111<ujsor/>
+ KÃ¶ltsÃ©gek, rÃ¡fordÃ­tÃ¡sok, akt. id. elhat. 21 656 21 656<ujsor/>
+Ã–SSZESEN: 710 364 710 364<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK (passzívák) Könyv szerinti érték Jogutód nyitó mérlege<ujsor/>
-D) Saját tõke 326 754 326 757<ujsor/>
-I. Jegyzett tõke 191 660 191 660<ujsor/>
-II. Jegyzett, de be nem fizetett tõke<ujsor/>
-III. Tõketartalék 29 919 29 919<ujsor/>
-IV. Eredménytartalék 105 178 105 178<ujsor/>
-V. Lekötött tartalék<ujsor/>
-VI. Értékelési tartalék<ujsor/>
-VII. Mérleg szerinti eredmény<ujsor/>
-E) Céltartalék 40 308 40 308<ujsor/>
- Céltartalék a jövõbeni költségekre 40 308 40 308<ujsor/>
-F) Kötelezettségek 301 369 301 369<ujsor/>
-I. Hátra sorolt kötelezettségek<ujsor/>
-II. Hosszú lejáratú kötelezettségek 43 136 43 136<ujsor/>
- Beruházási és fejlesztési hitelek 14 000 14 000<ujsor/>
- Egyéb hosszú lejáratú kötelezettségek 29 136 29 136<ujsor/>
-III. Rövid lejáratú kötelezettségek 258 233 258 233<ujsor/>
- Rövid lejáratú hitelek 25 127 25 127<ujsor/>
- Kötelezettségek árusz., szolg. (szállítók) 85 246 85 246<ujsor/>
- Röv. lej. köt. kapcsolt váll. szemben 44 332 44 332<ujsor/>
- Egyéb rövid lejáratú kötelezettségek 103 528 103 528<ujsor/>
-G) Passzív idõbeli elhatárolások 41 930 41 930<ujsor/>
- Bevételek passzív idõbeli elhatárolása 2 464 2 464<ujsor/>
- Költségek, ráf. passzív idõbeli elhat. 7 254 7 254<ujsor/>
- Halasztott bevételek 32 212 32 212<ujsor/>
-ÖSSZESEN: 710 364 710 364<ujsor/>
-A jogutód társaság alaptõkéje a beolvadáskor 191 660 000 Ft (egyszázkilencvenegymillió-hatszázhatvanezer forint).<ujsor/>
-Az alaptõke nyomdai úton elõállított 19 166 db, egyenként 10 000 Ft névértékû, „A” sorozatú, névre szóló korlátozás nélküli részvényesi jogokat biztosító törzsrészvénybõl áll.<ujsor/>
-A létrejövõ gazdasági társaság tevékenysége (TEÁOR ‘03): 2010 Fûrészárugyártás; 2020 Falemezgyártás; 2030 Épületasztalos-ipari termék gyártása; 2040 Tároló fatermék gyártása; 2051 Fatömegcikk gyártása; 2621 Háztartási kerámia gyártása; 2661 Építési betontermék gyártása; 2666 Egyéb beton-, gipsz-, cementtermék gyártása; 2670 Építõkõ, díszítõkõ megmunkálása; 2811 Fémszerkezet gyártása; 2812 Fémépületelem gyártása; 2851 Fém felületkezelése; 2852 Fémmegmunkálás; 2875 Máshová nem sorolt, egyéb fémfeldolgozási termék gyártása; 2924 Máshova nem sorolt, egyéb általános gép gyártása; 3614 Egyéb bútor gyártása; 3663 Egyéb, máshova nem sorolt feldolgozóipar; 4011 Villamosenergia-termelés; 4012 Villamosenergia-ellátás; 4013 Villamosenergie-elosztás, -kereskedelem; 4030 Gõz-, melegvízellátás; 4100 Víztermelés, -kezelés, -elosztás; 4511 Épületbontás, földmunka; 4512 Talajmintavétel, próbafúrás; 4521 Épület, híd, alagút, közmû, vezeték építése; 4522 Tetõszerkezet-építés, tetõfedés, vízszigetelés; 4523 Autópálya, út, repülõtér, sport játéktér építése; 4524 Vízi létesítmény építése; 4525 Egyéb speciális szaképítés; 4531 Villanyszerelés; 4532 Szigetelés; 4533 Víz-, gáz-, fûtésszerelés; 4534 Egyéb épületgépészeti szerelés; 4541 Vakolás; 4542 Épületasztalos-szerkezet szerelése; 4543 Padló-, falburkolás; 4544 Festés, üvegezés; 4545 Egyéb befejezõ építés; 4550 Építési, bontási eszköz kölcsönzése személyzettel; 5020 Gépjármûjavítás; 5521 Ifjúsági-, turistaszállás-szolgáltatás; 5523 Egyéb szálláshely-szolgáltatás; 6024 Közúti teherszállítás; 6311 Rakománykezelés; 6312 Tárolás, raktározás; 6321 Egyéb, szárazföldi szállítást segítõ tevékenység; 7011 Ingatlanberuházás, -eladás; 7012 Ingatlanforgalmazás; 7020 Ingatlan bérbeadása, üzemeltetése; 7031 Ingatlanügynöki tevékenység; 7032 Ingatlankezelés; 7110 Gépkocsikölcsönzés; 7121 Egyéb szárazföldi jármû kölcsönzése; 7132 Építõipari gép kölcsönzése; 7134 Máshova nem sorolt, egyéb gép kölcsönzése; 7415 Vagyonkezelés; 7420 Mérnöki tevékenység, tanácsadás; 7430 Mûszaki vizsgálat, elemzés; 7440 Hirdetés; 7487 Máshová nem sorolt, egyéb gazdasági szolgáltatás; 9001 Szennyvíz gyûjtése, kezelése; 9002 Hulladékgyûjtés, -kezelés (fõ tevékenység); 9003 Szennyezõdésmentesítés; 9261 Sportlétesítmény mûködtetése; 9262 Egyéb sporttevékenység; 9272 Máshova nem sorolható egyéb szabadidõs tevékenység; 9303 Temetkezés; 9304 Fizikai közérzetet javító szolgáltatás.<ujsor/>
-A létrejövõ gazdasági társaság vezetõ tisztségviselõi:<ujsor/>
-Az átvevõ társaság beolvadást követõ igazgatósági tagjai: Csuzdi Tibor (a. n.: Bene Anna; 3200 Gyöngyös, Bethlen G. u. 17/2.), Juhász József (a. n.: Csépány Mária; 3200 Gyöngyös, Batsányi u. 5.), NagyAndrás (a. n.: Papp Ilona; 3200 Gyöngyös, Bajcsy-Zsilinszky krt. 11.).<ujsor/>
-Az átvevõ társaság beolvadást követõ felügyelõbizottsági tagjai: Lados Tibor (a. n.: Köteles Terézia; 3231 Gyöngyössolymos, Virág u. 83.), Boári István (a. n.: Dutka Margit; 3200 Gyöngyös, Jószerencsét u. 16.), Tõkés László (a. n.: Dózsa Jolán; 3200 Gyöngyös, Városkert u. 9.), Dér Ferenc (a. n.: Szabó Erzsébet; 3261 Abasár, Radnóti u. 4.), Füleki János (a. n.: Õzse Mária; 3231 Gyöngyössolymos, Jókai u. 126.), Sári Péter (a. n.: Rejlik Ágnes; 3200 Gyöngyös, Aranysas u. 52.).<ujsor/>
-Felhívjuk a hitelezõink figyelmét, hogy az átalakulással kapcsolatban a Gt. 66. §-ban meghatározott jogaikkal élhetnek a társaság székhelyén.<ujsor/>
-(Második közzététel.)<ujsor/>
+FORRÃSOK (passzÃ­vÃ¡k) KÃ¶nyv szerinti Ã©rtÃ©k JogutÃ³d nyitÃ³ mÃ©rlege<ujsor/>
+D) SajÃ¡t tÅ‘ke 326 754 326 757<ujsor/>
+I. Jegyzett tÅ‘ke 191 660 191 660<ujsor/>
+II. Jegyzett, de be nem fizetett tÅ‘ke<ujsor/>
+III. TÅ‘ketartalÃ©k 29 919 29 919<ujsor/>
+IV. EredmÃ©nytartalÃ©k 105 178 105 178<ujsor/>
+V. LekÃ¶tÃ¶tt tartalÃ©k<ujsor/>
+VI. Ã‰rtÃ©kelÃ©si tartalÃ©k<ujsor/>
+VII. MÃ©rleg szerinti eredmÃ©ny<ujsor/>
+E) CÃ©ltartalÃ©k 40 308 40 308<ujsor/>
+ CÃ©ltartalÃ©k a jÃ¶vÅ‘beni kÃ¶ltsÃ©gekre 40 308 40 308<ujsor/>
+F) KÃ¶telezettsÃ©gek 301 369 301 369<ujsor/>
+I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek<ujsor/>
+II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 43 136 43 136<ujsor/>
+ BeruhÃ¡zÃ¡si Ã©s fejlesztÃ©si hitelek 14 000 14 000<ujsor/>
+ EgyÃ©b hosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 29 136 29 136<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 258 233 258 233<ujsor/>
+ RÃ¶vid lejÃ¡ratÃº hitelek 25 127 25 127<ujsor/>
+ KÃ¶telezettsÃ©gek Ã¡rusz., szolg. (szÃ¡llÃ­tÃ³k) 85 246 85 246<ujsor/>
+ RÃ¶v. lej. kÃ¶t. kapcsolt vÃ¡ll. szemben 44 332 44 332<ujsor/>
+ EgyÃ©b rÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 103 528 103 528<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 41 930 41 930<ujsor/>
+ BevÃ©telek passzÃ­v idÅ‘beli elhatÃ¡rolÃ¡sa 2 464 2 464<ujsor/>
+ KÃ¶ltsÃ©gek, rÃ¡f. passzÃ­v idÅ‘beli elhat. 7 254 7 254<ujsor/>
+ Halasztott bevÃ©telek 32 212 32 212<ujsor/>
+Ã–SSZESEN: 710 364 710 364<ujsor/>
+A jogutÃ³d tÃ¡rsasÃ¡g alaptÅ‘kÃ©je a beolvadÃ¡skor 191 660 000 Ft (egyszÃ¡zkilencvenegymilliÃ³-hatszÃ¡zhatvanezer forint).<ujsor/>
+Az alaptÅ‘ke nyomdai Ãºton elÅ‘Ã¡llÃ­tott 19 166 db, egyenkÃ©nt 10 000 Ft nÃ©vÃ©rtÃ©kÅ±, â€Aâ€ sorozatÃº, nÃ©vre szÃ³lÃ³ korlÃ¡tozÃ¡s nÃ©lkÃ¼li rÃ©szvÃ©nyesi jogokat biztosÃ­tÃ³ tÃ¶rzsrÃ©szvÃ©nybÅ‘l Ã¡ll.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g tevÃ©kenysÃ©ge (TEÃOR â€˜03): 2010 FÅ±rÃ©szÃ¡rugyÃ¡rtÃ¡s; 2020 FalemezgyÃ¡rtÃ¡s; 2030 Ã‰pÃ¼letasztalos-ipari termÃ©k gyÃ¡rtÃ¡sa; 2040 TÃ¡rolÃ³ fatermÃ©k gyÃ¡rtÃ¡sa; 2051 FatÃ¶megcikk gyÃ¡rtÃ¡sa; 2621 HÃ¡ztartÃ¡si kerÃ¡mia gyÃ¡rtÃ¡sa; 2661 Ã‰pÃ­tÃ©si betontermÃ©k gyÃ¡rtÃ¡sa; 2666 EgyÃ©b beton-, gipsz-, cementtermÃ©k gyÃ¡rtÃ¡sa; 2670 Ã‰pÃ­tÅ‘kÅ‘, dÃ­szÃ­tÅ‘kÅ‘ megmunkÃ¡lÃ¡sa; 2811 FÃ©mszerkezet gyÃ¡rtÃ¡sa; 2812 FÃ©mÃ©pÃ¼letelem gyÃ¡rtÃ¡sa; 2851 FÃ©m felÃ¼letkezelÃ©se; 2852 FÃ©mmegmunkÃ¡lÃ¡s; 2875 MÃ¡shovÃ¡ nem sorolt, egyÃ©b fÃ©mfeldolgozÃ¡si termÃ©k gyÃ¡rtÃ¡sa; 2924 MÃ¡shova nem sorolt, egyÃ©b Ã¡ltalÃ¡nos gÃ©p gyÃ¡rtÃ¡sa; 3614 EgyÃ©b bÃºtor gyÃ¡rtÃ¡sa; 3663 EgyÃ©b, mÃ¡shova nem sorolt feldolgozÃ³ipar; 4011 Villamosenergia-termelÃ©s; 4012 Villamosenergia-ellÃ¡tÃ¡s; 4013 Villamosenergie-elosztÃ¡s, -kereskedelem; 4030 GÅ‘z-, melegvÃ­zellÃ¡tÃ¡s; 4100 VÃ­ztermelÃ©s, -kezelÃ©s, -elosztÃ¡s; 4511 Ã‰pÃ¼letbontÃ¡s, fÃ¶ldmunka; 4512 TalajmintavÃ©tel, prÃ³bafÃºrÃ¡s; 4521 Ã‰pÃ¼let, hÃ­d, alagÃºt, kÃ¶zmÅ±, vezetÃ©k Ã©pÃ­tÃ©se; 4522 TetÅ‘szerkezet-Ã©pÃ­tÃ©s, tetÅ‘fedÃ©s, vÃ­zszigetelÃ©s; 4523 AutÃ³pÃ¡lya, Ãºt, repÃ¼lÅ‘tÃ©r, sport jÃ¡tÃ©ktÃ©r Ã©pÃ­tÃ©se; 4524 VÃ­zi lÃ©tesÃ­tmÃ©ny Ã©pÃ­tÃ©se; 4525 EgyÃ©b speciÃ¡lis szakÃ©pÃ­tÃ©s; 4531 VillanyszerelÃ©s; 4532 SzigetelÃ©s; 4533 VÃ­z-, gÃ¡z-, fÅ±tÃ©sszerelÃ©s; 4534 EgyÃ©b Ã©pÃ¼letgÃ©pÃ©szeti szerelÃ©s; 4541 VakolÃ¡s; 4542 Ã‰pÃ¼letasztalos-szerkezet szerelÃ©se; 4543 PadlÃ³-, falburkolÃ¡s; 4544 FestÃ©s, Ã¼vegezÃ©s; 4545 EgyÃ©b befejezÅ‘ Ã©pÃ­tÃ©s; 4550 Ã‰pÃ­tÃ©si, bontÃ¡si eszkÃ¶z kÃ¶lcsÃ¶nzÃ©se szemÃ©lyzettel; 5020 GÃ©pjÃ¡rmÅ±javÃ­tÃ¡s; 5521 IfjÃºsÃ¡gi-, turistaszÃ¡llÃ¡s-szolgÃ¡ltatÃ¡s; 5523 EgyÃ©b szÃ¡llÃ¡shely-szolgÃ¡ltatÃ¡s; 6024 KÃ¶zÃºti teherszÃ¡llÃ­tÃ¡s; 6311 RakomÃ¡nykezelÃ©s; 6312 TÃ¡rolÃ¡s, raktÃ¡rozÃ¡s; 6321 EgyÃ©b, szÃ¡razfÃ¶ldi szÃ¡llÃ­tÃ¡st segÃ­tÅ‘ tevÃ©kenysÃ©g; 7011 IngatlanberuhÃ¡zÃ¡s, -eladÃ¡s; 7012 IngatlanforgalmazÃ¡s; 7020 Ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se; 7031 IngatlanÃ¼gynÃ¶ki tevÃ©kenysÃ©g; 7032 IngatlankezelÃ©s; 7110 GÃ©pkocsikÃ¶lcsÃ¶nzÃ©s; 7121 EgyÃ©b szÃ¡razfÃ¶ldi jÃ¡rmÅ± kÃ¶lcsÃ¶nzÃ©se; 7132 Ã‰pÃ­tÅ‘ipari gÃ©p kÃ¶lcsÃ¶nzÃ©se; 7134 MÃ¡shova nem sorolt, egyÃ©b gÃ©p kÃ¶lcsÃ¶nzÃ©se; 7415 VagyonkezelÃ©s; 7420 MÃ©rnÃ¶ki tevÃ©kenysÃ©g, tanÃ¡csadÃ¡s; 7430 MÅ±szaki vizsgÃ¡lat, elemzÃ©s; 7440 HirdetÃ©s; 7487 MÃ¡shovÃ¡ nem sorolt, egyÃ©b gazdasÃ¡gi szolgÃ¡ltatÃ¡s; 9001 SzennyvÃ­z gyÅ±jtÃ©se, kezelÃ©se; 9002 HulladÃ©kgyÅ±jtÃ©s, -kezelÃ©s (fÅ‘ tevÃ©kenysÃ©g); 9003 SzennyezÅ‘dÃ©smentesÃ­tÃ©s; 9261 SportlÃ©tesÃ­tmÃ©ny mÅ±kÃ¶dtetÃ©se; 9262 EgyÃ©b sporttevÃ©kenysÃ©g; 9272 MÃ¡shova nem sorolhatÃ³ egyÃ©b szabadidÅ‘s tevÃ©kenysÃ©g; 9303 TemetkezÃ©s; 9304 Fizikai kÃ¶zÃ©rzetet javÃ­tÃ³ szolgÃ¡ltatÃ¡s.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘i:<ujsor/>
+Az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g beolvadÃ¡st kÃ¶vetÅ‘ igazgatÃ³sÃ¡gi tagjai: Csuzdi Tibor (a. n.: Bene Anna; 3200 GyÃ¶ngyÃ¶s, Bethlen G. u. 17/2.), JuhÃ¡sz JÃ³zsef (a. n.: CsÃ©pÃ¡ny MÃ¡ria; 3200 GyÃ¶ngyÃ¶s, BatsÃ¡nyi u. 5.), NagyAndrÃ¡s (a. n.: Papp Ilona; 3200 GyÃ¶ngyÃ¶s, Bajcsy-Zsilinszky krt. 11.).<ujsor/>
+Az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g beolvadÃ¡st kÃ¶vetÅ‘ felÃ¼gyelÅ‘bizottsÃ¡gi tagjai: Lados Tibor (a. n.: KÃ¶teles TerÃ©zia; 3231 GyÃ¶ngyÃ¶ssolymos, VirÃ¡g u. 83.), BoÃ¡ri IstvÃ¡n (a. n.: Dutka Margit; 3200 GyÃ¶ngyÃ¶s, JÃ³szerencsÃ©t u. 16.), TÅ‘kÃ©s LÃ¡szlÃ³ (a. n.: DÃ³zsa JolÃ¡n; 3200 GyÃ¶ngyÃ¶s, VÃ¡roskert u. 9.), DÃ©r Ferenc (a. n.: SzabÃ³ ErzsÃ©bet; 3261 AbasÃ¡r, RadnÃ³ti u. 4.), FÃ¼leki JÃ¡nos (a. n.: Åzse MÃ¡ria; 3231 GyÃ¶ngyÃ¶ssolymos, JÃ³kai u. 126.), SÃ¡ri PÃ©ter (a. n.: Rejlik Ãgnes; 3200 GyÃ¶ngyÃ¶s, Aranysas u. 52.).<ujsor/>
+FelhÃ­vjuk a hitelezÅ‘ink figyelmÃ©t, hogy az Ã¡talakulÃ¡ssal kapcsolatban a Gt. 66. Â§-ban meghatÃ¡rozott jogaikkal Ã©lhetnek a tÃ¡rsasÃ¡g szÃ©khelyÃ©n.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">1010020013</mezo>
-<mezo id = "nev">Városgondozási Részvénytársaság</mezo>
-<mezo id = "cim">3200 Gyöngyös</mezo>
+<mezo id = "nev">VÃ¡rosgondozÃ¡si RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">3200 GyÃ¶ngyÃ¶s</mezo>
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Heves Megyei Bíróság mint Cégbíróság a Cg.10-10-020013 cégjegyzékszámon bejegyzett Városgondozási Zártkörû Részvénytársaság (3200 Gyöngyös, Kenyérgyár u 17.; adószáma: 10571763-2-10) kérelme alapján elrendeli az 2011. január 4. napján hozott Cg.10-10-020013/160. számú végzésének kijavítását az alábbiak szerint:<ujsor/>
-13. A képviseletre jogosult(ak) adatai<ujsor/>
-A képviselet módja: önálló.<ujsor/>
-Adóazonosító jel: 8354652645<ujsor/>
-Dorsánszki Zsolt vezetõ tisztségviselõ (vezérigazgató) (an.: Bércesi Borbála)<ujsor/>
-3200 Gyöngyös, Berze Nagy János u. 25.<ujsor/>
-Jogv. kezdete: 2011.01.01. Jogv. vége: 2011.04.30.<ujsor/>
-Vált. vége: 2012.12.16.<ujsor/>
-Törölve (végzés kelte): 2011. január 31.<ujsor/>
-A képviselet módja: önálló.<ujsor/>
-Adóazonosító jel: 8354652645<ujsor/>
-Dorsánszki Zsolt vezetõ tisztségviselõ (vezérigazgató) (an.: Bércesi Borbála)<ujsor/>
-3200 Gyöngyös, Berze Nagy János u. 25.<ujsor/>
-Jogv. kezdete: 2011.01.01. Jogv. vége: 2011.04.30.<ujsor/>
-Vált. kezdete: 2010.12.16.<ujsor/>
-Bejegyezve (végzés kelte): 2011. január 31.<ujsor/>
-A végzés ellen fellebbezésnek nincs helye.<ujsor/>
-2011. január 31.<ujsor/>
+<mezo id = "szoveg">A Heves Megyei BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.10-10-020013 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett VÃ¡rosgondozÃ¡si ZÃ¡rtkÃ¶rÅ± RÃ©szvÃ©nytÃ¡rsasÃ¡g (3200 GyÃ¶ngyÃ¶s, KenyÃ©rgyÃ¡r u 17.; adÃ³szÃ¡ma: 10571763-2-10) kÃ©relme alapjÃ¡n elrendeli az 2011. januÃ¡r 4. napjÃ¡n hozott Cg.10-10-020013/160. szÃ¡mÃº vÃ©gzÃ©sÃ©nek kijavÃ­tÃ¡sÃ¡t az alÃ¡bbiak szerint:<ujsor/>
+13. A kÃ©pviseletre jogosult(ak) adatai<ujsor/>
+A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+AdÃ³azonosÃ­tÃ³ jel: 8354652645<ujsor/>
+DorsÃ¡nszki Zsolt vezetÅ‘ tisztsÃ©gviselÅ‘ (vezÃ©rigazgatÃ³) (an.: BÃ©rcesi BorbÃ¡la)<ujsor/>
+3200 GyÃ¶ngyÃ¶s, Berze Nagy JÃ¡nos u. 25.<ujsor/>
+Jogv. kezdete: 2011.01.01. Jogv. vÃ©ge: 2011.04.30.<ujsor/>
+VÃ¡lt. vÃ©ge: 2012.12.16.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2011. januÃ¡r 31.<ujsor/>
+A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+AdÃ³azonosÃ­tÃ³ jel: 8354652645<ujsor/>
+DorsÃ¡nszki Zsolt vezetÅ‘ tisztsÃ©gviselÅ‘ (vezÃ©rigazgatÃ³) (an.: BÃ©rcesi BorbÃ¡la)<ujsor/>
+3200 GyÃ¶ngyÃ¶s, Berze Nagy JÃ¡nos u. 25.<ujsor/>
+Jogv. kezdete: 2011.01.01. Jogv. vÃ©ge: 2011.04.30.<ujsor/>
+VÃ¡lt. kezdete: 2010.12.16.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2011. januÃ¡r 31.<ujsor/>
+A vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye.<ujsor/>
+2011. januÃ¡r 31.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1010020013</mezo>
-<mezo id = "nev">Városgondozási Zártkörû Részvénytársaság</mezo>
-<mezo id = "cim">3200 Gyöngyös, Kenyérgyár u 17.</mezo>
+<mezo id = "nev">VÃ¡rosgondozÃ¡si ZÃ¡rtkÃ¶rÅ± RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">3200 GyÃ¶ngyÃ¶s, KenyÃ©rgyÃ¡r u 17.</mezo>
 <mezo id = "adosz">10571763210</mezo>
 </alrovat>
 </rovat>

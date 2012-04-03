@@ -97,19 +97,26 @@ class OrganizationsController < ApplicationController
     end
   end
 
+  def first_page
+    redirect_to "/organizations/#{params[:id]}?sort=#{params[:sort]}"
+  end
+
   index_action :person_to_org_pagination do
     @this = find_instance
+    first_page and return unless params[:page]
     return unless @this
     @person_to_orgs = @this.person_to_org_relations.paginate(:per_page=>10, :page=>params[:page])
   end
 
   index_action :interorg_pagination do
+    first_page and return unless params[:page]
     @this = find_instance
     return unless @this
     @interorgs = @this.interorg_relations.paginate(:per_page=>10, :page=>params[:page])
   end
 
   index_action :financial_pagination do
+    first_page and return unless params[:page]
     @this = find_instance
     return unless @this
     @financials = @this.org_histories.paginate(:per_page=>10, :page=>params[:page])
@@ -127,6 +134,34 @@ class OrganizationsController < ApplicationController
   def show
     @this               = find_instance
     data = []
+    @sort = params[:sort]
+    params[:sort] ||= "related_person"
+    @this = find_instance
+
+    if InterorgRelation.field_specs[params[:sort].to_sym]
+      sorter = params[:sort]
+    else
+      sorter = "related_organization"
+    end
+    if sorter[-4..-1] == 'time' # ha időre rendeznek és nem kapcsolótáblára
+      @orgs = InterorgRelation.apply_scopes(:order_by => sorter, :organization_id_is => @this.id).paginate(:per_page=>10, :page=>params[:page])
+    else
+      @orgs = InterorgRelation.ordered(sorter).apply_scopes(:organization_id_is => @this.id).paginate(:per_page=>10, :page=>params[:page])
+    end
+
+    if PersonToOrgRelation.field_specs[params[:sort].to_sym]
+      sorter = params[:sort]
+    else
+      sorter = "person"
+    end
+    if sorter[-4..-1] == 'time' # ha időre rendeznek és nem kapcsolótáblára
+      @people = PersonToOrgRelation.apply_scopes(:order_by => sorter, :organization_id_is => @this.id).paginate(:per_page=>10, :page=>params[:page])
+    else
+      puts "lofa1"
+      @people = PersonToOrgRelation.ordered(sorter).apply_scopes(:organization_id_is => @this.id).paginate(:per_page=>10, :page=>params[:page])
+      puts "lofa2"
+    end
+
     @this.interorg_relations.value_is_not(0).limit(20).each do |rel|
       data << { :name =>  (rel.related_organization.name.scan(/./)[0..42].join('')+'...'), :y =>rel.value }
     end

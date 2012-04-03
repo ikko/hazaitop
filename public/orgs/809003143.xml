@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">003143</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">9400 Sopron, Faraktár u. 5. </mezo>
+<mezo id = "cim">9400 Sopron, FaraktÃ¡r u. 5. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">11124728208</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19921229</mezo>
-<mezo id = "nev">KISS BVM Ipari, Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">KISS BVM Ipari, SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -27,7 +27,7 @@
 <mezo id = "hattol">19980212</mezo>
 <mezo id = "irsz">9400</mezo>
 <mezo id = "hely">Sopron</mezo>
-<mezo id = "teru">Faraktár u. 5.</mezo>
+<mezo id = "teru">FaraktÃ¡r u. 5.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "6">
@@ -469,7 +469,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090409</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Elektronikus háztartási cikk nagykereskedelme</mezo>
+<mezo id = "teaszov">Elektronikus hÃ¡ztartÃ¡si cikk nagykereskedelme</mezo>
 </alrovat>
 <alrovat id = "75">
 <mezo id = "hattol">20090313</mezo>
@@ -487,7 +487,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090409</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Villamos háztartási cikk kiskereskedelme</mezo>
+<mezo id = "teaszov">Villamos hÃ¡ztartÃ¡si cikk kiskereskedelme</mezo>
 </alrovat>
 <alrovat id = "76">
 <mezo id = "hattol">20090313</mezo>
@@ -505,7 +505,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090409</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Bútor, világítási eszköz, egyéb háztartási cikk kiskereskedelme</mezo>
+<mezo id = "teaszov">BÃºtor, vilÃ¡gÃ­tÃ¡si eszkÃ¶z, egyÃ©b hÃ¡ztartÃ¡si cikk kiskereskedelme</mezo>
 </alrovat>
 <alrovat id = "77">
 <mezo id = "hattol">20090409</mezo>
@@ -523,7 +523,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090409</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Mûszaki vizsgálat, elemzés</mezo>
+<mezo id = "teaszov">MÅ±szaki vizsgÃ¡lat, elemzÃ©s</mezo>
 </alrovat>
 <alrovat id = "78">
 <mezo id = "hattol">20090409</mezo>
@@ -541,7 +541,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090409</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Konferencia, kereskedelmi bemutató szervezése</mezo>
+<mezo id = "teaszov">Konferencia, kereskedelmi bemutatÃ³ szervezÃ©se</mezo>
 </alrovat>
 <alrovat id = "79">
 <mezo id = "hattol">20090313</mezo>
@@ -559,7 +559,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090409</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Máshová nem sorolt új áru kiskereskedelme</mezo>
+<mezo id = "teaszov">MÃ¡shovÃ¡ nem sorolt Ãºj Ã¡ru kiskereskedelme</mezo>
 </alrovat>
 <alrovat id = "80">
 <mezo id = "hattol">20090313</mezo>
@@ -577,7 +577,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090409</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb tárgyi ezsköz kölcsönzése</mezo>
+<mezo id = "teaszov">EgyÃ©b tÃ¡rgyi ezskÃ¶z kÃ¶lcsÃ¶nzÃ©se</mezo>
 </alrovat>
 <alrovat id = "81">
 <mezo id = "hattol">20090313</mezo>
@@ -595,7 +595,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090409</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Biztonsági rendszer szolgáltatás</mezo>
+<mezo id = "teaszov">BiztonsÃ¡gi rendszer szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -610,9 +610,9 @@
 <rovat id = "13">
 <alrovat id = "6">
 <mezo id = "hattol">20100712</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Kiss István</mezo>
-<mezo id = "panev">Dénes Rozália</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Kiss IstvÃ¡n</mezo>
+<mezo id = "panev">DÃ©nes RozÃ¡lia</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20061106</mezo>
 <mezo id = "valtk">20100712</mezo>
@@ -621,9 +621,9 @@
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">20100712</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "pnev">Kiss Veronika</mezo>
-<mezo id = "panev">Taschner Mária</mezo>
+<mezo id = "panev">Taschner MÃ¡ria</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100712</mezo>
 <mezo id = "valtk">20100712</mezo>
@@ -635,13 +635,13 @@
 <alrovat id = "1">
 <mezo id = "hattol">20100712</mezo>
 <mezo id = "cgjsz">0806005605</mezo>
-<mezo id = "nev">L és B Könyvvizsgáló, Adótanácsadó és Könyvvezetõ Betéti Társaság</mezo>
+<mezo id = "nev">L Ã©s B KÃ¶nyvvizsgÃ¡lÃ³, AdÃ³tanÃ¡csadÃ³ Ã©s KÃ¶nyvvezetÅ‘ BetÃ©ti TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">9451</mezo>
-<mezo id = "hely">Röjtökmuzsaj</mezo>
-<mezo id = "teru">Muzsaji út 15.</mezo>
-<mezo id = "pnev">Lehoai Sándorné</mezo>
-<mezo id = "panev">Jónás Terézia</mezo>
+<mezo id = "hely">RÃ¶jtÃ¶kmuzsaj</mezo>
+<mezo id = "teru">Muzsaji Ãºt 15.</mezo>
+<mezo id = "pnev">Lehoai SÃ¡ndornÃ©</mezo>
+<mezo id = "panev">JÃ³nÃ¡s TerÃ©zia</mezo>
 <mezo id = "jogvk">20100712</mezo>
 <mezo id = "jogvv">20140531</mezo>
 <mezo id = "valtk">20100712</mezo>
@@ -665,45 +665,45 @@
 <rovat id = "0109">
 <alrovat id = "7">
 <mezo id = "hattol">19980212</mezo>
-<mezo id = "pnev">Kiss Balázs</mezo>
-<mezo id = "panev">Taschner Mária</mezo>
+<mezo id = "pnev">Kiss BalÃ¡zs</mezo>
+<mezo id = "panev">Taschner MÃ¡ria</mezo>
 <mezo id = "pirsz">9400</mezo>
 <mezo id = "phely">Sopron</mezo>
-<mezo id = "pteru">Höflányi u. 3.</mezo>
+<mezo id = "pteru">HÃ¶flÃ¡nyi u. 3.</mezo>
 <mezo id = "tkelt">20100713</mezo>
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">20020902</mezo>
 <mezo id = "t">x</mezo>
-<mezo id = "pnev">Kiss István</mezo>
-<mezo id = "panev">Dénes rozália</mezo>
+<mezo id = "pnev">Kiss IstvÃ¡n</mezo>
+<mezo id = "panev">DÃ©nes rozÃ¡lia</mezo>
 <mezo id = "tkelt">20100713</mezo>
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">20020902</mezo>
 <mezo id = "j">x</mezo>
-<mezo id = "pnev">Kiss Istvánnné</mezo>
-<mezo id = "panev">Gludovátz Jusztina</mezo>
+<mezo id = "pnev">Kiss IstvÃ¡nnnÃ©</mezo>
+<mezo id = "panev">GludovÃ¡tz Jusztina</mezo>
 <mezo id = "tkelt">20100713</mezo>
 </alrovat>
 <alrovat id = "11">
 <mezo id = "hattol">20020902</mezo>
 <mezo id = "pnev">Kiss Veronika</mezo>
-<mezo id = "panev">Taschner Mária</mezo>
+<mezo id = "panev">Taschner MÃ¡ria</mezo>
 <mezo id = "tkelt">20100713</mezo>
 </alrovat>
 <alrovat id = "12">
 <mezo id = "hattol">20100712</mezo>
-<mezo id = "pnev">Kiss Balázs</mezo>
-<mezo id = "panev">Taschner Mária</mezo>
+<mezo id = "pnev">Kiss BalÃ¡zs</mezo>
+<mezo id = "panev">Taschner MÃ¡ria</mezo>
 <mezo id = "tagsk">19980212</mezo>
 <mezo id = "valtk">20100712</mezo>
 <mezo id = "bkelt">20100713</mezo>
 </alrovat>
 <alrovat id = "13">
 <mezo id = "hattol">20100712</mezo>
-<mezo id = "pnev">Kiss István</mezo>
-<mezo id = "panev">Dénes Rozália</mezo>
+<mezo id = "pnev">Kiss IstvÃ¡n</mezo>
+<mezo id = "panev">DÃ©nes RozÃ¡lia</mezo>
 <mezo id = "tagsk">19921229</mezo>
 <mezo id = "sz1">x</mezo>
 <mezo id = "valtk">20100712</mezo>
@@ -711,8 +711,8 @@
 </alrovat>
 <alrovat id = "14">
 <mezo id = "hattol">20100712</mezo>
-<mezo id = "pnev">Kiss Istvánné szül.: Taschner Mária</mezo>
-<mezo id = "panev">Gludovátz Jusztina</mezo>
+<mezo id = "pnev">Kiss IstvÃ¡nnÃ© szÃ¼l.: Taschner MÃ¡ria</mezo>
+<mezo id = "panev">GludovÃ¡tz Jusztina</mezo>
 <mezo id = "tagsk">19921229</mezo>
 <mezo id = "valtk">20100712</mezo>
 <mezo id = "bkelt">20100713</mezo>
@@ -720,7 +720,7 @@
 <alrovat id = "15">
 <mezo id = "hattol">20100712</mezo>
 <mezo id = "pnev">Kiss Veronika</mezo>
-<mezo id = "panev">Taschner Mária</mezo>
+<mezo id = "panev">Taschner MÃ¡ria</mezo>
 <mezo id = "tagsk">19980212</mezo>
 <mezo id = "valtk">20100712</mezo>
 <mezo id = "bkelt">20100713</mezo>
@@ -735,59 +735,59 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a 2006. 10. 10. napján indult változásbejegyzési eljárást megszünteti.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a 2006. 10. 10. napjÃ¡n indult vÃ¡ltozÃ¡sbejegyzÃ©si eljÃ¡rÃ¡st megszÃ¼nteti.<ujsor/>
 2006. 10. 11.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0809003143</mezo>
-<mezo id = "nev">KISS BVM Ipari, Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">9400 Sopron, Faraktár u. 5.</mezo>
+<mezo id = "nev">KISS BVM Ipari, SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">9400 Sopron, FaraktÃ¡r u. 5.</mezo>
 <mezo id = "adosz">11124728208</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a 2010. május 20. napján CG. 0809003143/61. sorszámon elõterjesztett változás bejegyzése iránti kérelmet elutasítja.<ujsor/>
-A végzés ellen a cég a kézbesítéstõl számított 15 (tizenöt) napon belül, továbbá az, akire a végzés rendelkezést tartalmaz - a rendelkezés rá vonatkozó része ellen, a cég számára nyitva álló határidõn belül - a Fõvárosi Ítélõtáblához címzett, de a Gyõr-Moson-Sopron Megyei Bíróságnál, mint Cégbíróságnál 3 (három) példányban benyújtható fellebbezésnek van helye. A fellebbezés elsõ példányára 7.000.-Ft (hétezer forint) eljárási illetéket kell leróni. A Fõvárosi Ítélõtábla elõtti eljárásban a fellebbezést elõterjesztõ fél részére a jogi képviselet kötelezõ.<ujsor/>
-Ha a kérelmet elutasító végzés közlését követõ nyolc napon belül ugyanazon eljárás keretében ismételten kérik a változás bejegyzését, az elutasításhoz fûzõdõ jogkövetkezmények nem alkalmazhatók, és a korábbi eljárás során benyújtott okiratok - ideértve a korábbi eljárásban az illeték megfizetésérõl szóló igazolás is - ismételten felhasználhatók az új változásbejegyzési kérelemhez. Ismételt benyújtásnak egy alkalommal van helye.<ujsor/>
-- a változásbejegyzési kérelem kitöltése nem felel meg a jogszabályoknak:<ujsor/>
-a) nem kérte a korábbi ügyvezetõ adóazonosító jelének bejegyzését.(2009. évi LI. tv. 51. § (10) bek., Ctv. 24. § (1) bek. h) pont)<ujsor/>
-b) nem kérte átvezetni a tagokat jogviszony kezdetük feltüntetésével.(2007. évi LXI. tv. 28. § (7) bek., Ctv. 27. § (3) bek. b) pont)<ujsor/>
-c) nem kérte a könyvvizsgáló megbízatásának végét bejegyezni.(Gt. 42. § (1) bek.) Szükséges a szerzõdés 17. pontját kiegészíteni a jogviszony kezdetének és végének feltüntetésével és a felelõs személy adatainak kiegészítésével. Továbbá megjegyzi a bíróság, hogy a beküldött elfogadó nyilatkozat kelte nem egyezik meg a kérelemnyomtatványon bejegyezni kért dátummal, szükséges az ellentmondás feloldása.<ujsor/>
-- a változásbejegyzést kérõ elmulasztotta a 3. számú melléklet I. részében felsorolt alábbi irat(o)k becsatolását :<ujsor/>
-a) a jogszabályban meghatározott mértékû illeték és közzétételi költségtérítés megfizetésének igazolása vagy nyilatkozat;<ujsor/>
-b) a vezetõ tisztségviselõ és a cégvezetõ nyilatkozata arról, hogy nem áll a Gt. 23. §-ában foglalt eltiltás hatálya alatt;<ujsor/>
-2010. május 20.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a 2010. mÃ¡jus 20. napjÃ¡n CG. 0809003143/61. sorszÃ¡mon elÅ‘terjesztett vÃ¡ltozÃ¡s bejegyzÃ©se irÃ¡nti kÃ©relmet elutasÃ­tja.<ujsor/>
+A vÃ©gzÃ©s ellen a cÃ©g a kÃ©zbesÃ­tÃ©stÅ‘l szÃ¡mÃ­tott 15 (tizenÃ¶t) napon belÃ¼l, tovÃ¡bbÃ¡ az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s rÃ¡ vonatkozÃ³ rÃ©sze ellen, a cÃ©g szÃ¡mÃ¡ra nyitva Ã¡llÃ³ hatÃ¡ridÅ‘n belÃ¼l - a FÅ‘vÃ¡rosi ÃtÃ©lÅ‘tÃ¡blÃ¡hoz cÃ­mzett, de a GyÅ‘r-Moson-Sopron Megyei BÃ­rÃ³sÃ¡gnÃ¡l, mint CÃ©gbÃ­rÃ³sÃ¡gnÃ¡l 3 (hÃ¡rom) pÃ©ldÃ¡nyban benyÃºjthatÃ³ fellebbezÃ©snek van helye. A fellebbezÃ©s elsÅ‘ pÃ©ldÃ¡nyÃ¡ra 7.000.-Ft (hÃ©tezer forint) eljÃ¡rÃ¡si illetÃ©ket kell lerÃ³ni. A FÅ‘vÃ¡rosi ÃtÃ©lÅ‘tÃ¡bla elÅ‘tti eljÃ¡rÃ¡sban a fellebbezÃ©st elÅ‘terjesztÅ‘ fÃ©l rÃ©szÃ©re a jogi kÃ©pviselet kÃ¶telezÅ‘.<ujsor/>
+Ha a kÃ©relmet elutasÃ­tÃ³ vÃ©gzÃ©s kÃ¶zlÃ©sÃ©t kÃ¶vetÅ‘ nyolc napon belÃ¼l ugyanazon eljÃ¡rÃ¡s keretÃ©ben ismÃ©telten kÃ©rik a vÃ¡ltozÃ¡s bejegyzÃ©sÃ©t, az elutasÃ­tÃ¡shoz fÅ±zÅ‘dÅ‘ jogkÃ¶vetkezmÃ©nyek nem alkalmazhatÃ³k, Ã©s a korÃ¡bbi eljÃ¡rÃ¡s sorÃ¡n benyÃºjtott okiratok - ideÃ©rtve a korÃ¡bbi eljÃ¡rÃ¡sban az illetÃ©k megfizetÃ©sÃ©rÅ‘l szÃ³lÃ³ igazolÃ¡s is - ismÃ©telten felhasznÃ¡lhatÃ³k az Ãºj vÃ¡ltozÃ¡sbejegyzÃ©si kÃ©relemhez. IsmÃ©telt benyÃºjtÃ¡snak egy alkalommal van helye.<ujsor/>
+- a vÃ¡ltozÃ¡sbejegyzÃ©si kÃ©relem kitÃ¶ltÃ©se nem felel meg a jogszabÃ¡lyoknak:<ujsor/>
+a) nem kÃ©rte a korÃ¡bbi Ã¼gyvezetÅ‘ adÃ³azonosÃ­tÃ³ jelÃ©nek bejegyzÃ©sÃ©t.(2009. Ã©vi LI. tv. 51. Â§ (10) bek., Ctv. 24. Â§ (1) bek. h) pont)<ujsor/>
+b) nem kÃ©rte Ã¡tvezetni a tagokat jogviszony kezdetÃ¼k feltÃ¼ntetÃ©sÃ©vel.(2007. Ã©vi LXI. tv. 28. Â§ (7) bek., Ctv. 27. Â§ (3) bek. b) pont)<ujsor/>
+c) nem kÃ©rte a kÃ¶nyvvizsgÃ¡lÃ³ megbÃ­zatÃ¡sÃ¡nak vÃ©gÃ©t bejegyezni.(Gt. 42. Â§ (1) bek.) SzÃ¼ksÃ©ges a szerzÅ‘dÃ©s 17. pontjÃ¡t kiegÃ©szÃ­teni a jogviszony kezdetÃ©nek Ã©s vÃ©gÃ©nek feltÃ¼ntetÃ©sÃ©vel Ã©s a felelÅ‘s szemÃ©ly adatainak kiegÃ©szÃ­tÃ©sÃ©vel. TovÃ¡bbÃ¡ megjegyzi a bÃ­rÃ³sÃ¡g, hogy a bekÃ¼ldÃ¶tt elfogadÃ³ nyilatkozat kelte nem egyezik meg a kÃ©relemnyomtatvÃ¡nyon bejegyezni kÃ©rt dÃ¡tummal, szÃ¼ksÃ©ges az ellentmondÃ¡s feloldÃ¡sa.<ujsor/>
+- a vÃ¡ltozÃ¡sbejegyzÃ©st kÃ©rÅ‘ elmulasztotta a 3. szÃ¡mÃº mellÃ©klet I. rÃ©szÃ©ben felsorolt alÃ¡bbi irat(o)k becsatolÃ¡sÃ¡t :<ujsor/>
+a) a jogszabÃ¡lyban meghatÃ¡rozott mÃ©rtÃ©kÅ± illetÃ©k Ã©s kÃ¶zzÃ©tÃ©teli kÃ¶ltsÃ©gtÃ©rÃ­tÃ©s megfizetÃ©sÃ©nek igazolÃ¡sa vagy nyilatkozat;<ujsor/>
+b) a vezetÅ‘ tisztsÃ©gviselÅ‘ Ã©s a cÃ©gvezetÅ‘ nyilatkozata arrÃ³l, hogy nem Ã¡ll a Gt. 23. Â§-Ã¡ban foglalt eltiltÃ¡s hatÃ¡lya alatt;<ujsor/>
+2010. mÃ¡jus 20.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0809003143</mezo>
-<mezo id = "nev">KISS BVM Ipari, Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">9400 Sopron, Faraktár u. 5</mezo>
+<mezo id = "nev">KISS BVM Ipari, SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">9400 Sopron, FaraktÃ¡r u. 5</mezo>
 <mezo id = "adosz">11124728208</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a 2010. június 10. napján CG. 0809003143/69. sorszámon elõterjesztett változás bejegyzése iránti kérelmet elutasítja.<ujsor/>
-A végzés ellen a cég a kézbesítéstõl számított 15 (tizenöt) napon belül, továbbá az, akire a végzés rendelkezést tartalmaz - a rendelkezés rá vonatkozó része ellen, a cég számára nyitva álló határidõn belül - a Fõvárosi Ítélõtáblához címzett, de a Gyõr-Moson-Sopron Megyei Bíróságnál, mint Cégbíróságnál 3 (három) példányban benyújtható fellebbezésnek van helye. A fellebbezés elsõ példányára 7.000.-Ft (hétezer forint) eljárási illetéket kell leróni. A Fõvárosi Ítélõtábla elõtti eljárásban a fellebbezést elõterjesztõ fél részére a jogi képviselet kötelezõ.<ujsor/>
-Ha a kérelmet elutasító végzés közlését követõ nyolc napon belül ugyanazon eljárás keretében ismételten kérik a változás bejegyzését, az elutasításhoz fûzõdõ jogkövetkezmények nem alkalmazhatók, és a korábbi eljárás során benyújtott okiratok - ideértve a korábbi eljárásban az illeték megfizetésérõl szóló igazolás is - ismételten felhasználhatók az új változásbejegyzési kérelemhez. Ismételt benyújtásnak egy alkalommal van helye.<ujsor/>
-- a változásbejegyzést kérõ elmulasztotta a 3. számú melléklet I. részében felsorolt alábbi irat(o)k becsatolását : a jogszabályban meghatározott mértékû illeték és közzétételi költségtérítés megfizetésének igazolása vagy nyilatkozata. A megküldött igazolások már felhasználásra kerültek a Cg. 0809003143/65. sorszámon.<ujsor/>
-- A változásbejegyzési kérelem beküldése idõ elõtti, a Cg. 0809003143/68. sorszámú végzés jogerõre emelkedése elõtt ugyanazon cég változásbejegyzésére irányuló kérelem ismételten nem nyújtható be. (Ctv. 37. § (6) bek.)<ujsor/>
-2010. június 10.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a 2010. jÃºnius 10. napjÃ¡n CG. 0809003143/69. sorszÃ¡mon elÅ‘terjesztett vÃ¡ltozÃ¡s bejegyzÃ©se irÃ¡nti kÃ©relmet elutasÃ­tja.<ujsor/>
+A vÃ©gzÃ©s ellen a cÃ©g a kÃ©zbesÃ­tÃ©stÅ‘l szÃ¡mÃ­tott 15 (tizenÃ¶t) napon belÃ¼l, tovÃ¡bbÃ¡ az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s rÃ¡ vonatkozÃ³ rÃ©sze ellen, a cÃ©g szÃ¡mÃ¡ra nyitva Ã¡llÃ³ hatÃ¡ridÅ‘n belÃ¼l - a FÅ‘vÃ¡rosi ÃtÃ©lÅ‘tÃ¡blÃ¡hoz cÃ­mzett, de a GyÅ‘r-Moson-Sopron Megyei BÃ­rÃ³sÃ¡gnÃ¡l, mint CÃ©gbÃ­rÃ³sÃ¡gnÃ¡l 3 (hÃ¡rom) pÃ©ldÃ¡nyban benyÃºjthatÃ³ fellebbezÃ©snek van helye. A fellebbezÃ©s elsÅ‘ pÃ©ldÃ¡nyÃ¡ra 7.000.-Ft (hÃ©tezer forint) eljÃ¡rÃ¡si illetÃ©ket kell lerÃ³ni. A FÅ‘vÃ¡rosi ÃtÃ©lÅ‘tÃ¡bla elÅ‘tti eljÃ¡rÃ¡sban a fellebbezÃ©st elÅ‘terjesztÅ‘ fÃ©l rÃ©szÃ©re a jogi kÃ©pviselet kÃ¶telezÅ‘.<ujsor/>
+Ha a kÃ©relmet elutasÃ­tÃ³ vÃ©gzÃ©s kÃ¶zlÃ©sÃ©t kÃ¶vetÅ‘ nyolc napon belÃ¼l ugyanazon eljÃ¡rÃ¡s keretÃ©ben ismÃ©telten kÃ©rik a vÃ¡ltozÃ¡s bejegyzÃ©sÃ©t, az elutasÃ­tÃ¡shoz fÅ±zÅ‘dÅ‘ jogkÃ¶vetkezmÃ©nyek nem alkalmazhatÃ³k, Ã©s a korÃ¡bbi eljÃ¡rÃ¡s sorÃ¡n benyÃºjtott okiratok - ideÃ©rtve a korÃ¡bbi eljÃ¡rÃ¡sban az illetÃ©k megfizetÃ©sÃ©rÅ‘l szÃ³lÃ³ igazolÃ¡s is - ismÃ©telten felhasznÃ¡lhatÃ³k az Ãºj vÃ¡ltozÃ¡sbejegyzÃ©si kÃ©relemhez. IsmÃ©telt benyÃºjtÃ¡snak egy alkalommal van helye.<ujsor/>
+- a vÃ¡ltozÃ¡sbejegyzÃ©st kÃ©rÅ‘ elmulasztotta a 3. szÃ¡mÃº mellÃ©klet I. rÃ©szÃ©ben felsorolt alÃ¡bbi irat(o)k becsatolÃ¡sÃ¡t : a jogszabÃ¡lyban meghatÃ¡rozott mÃ©rtÃ©kÅ± illetÃ©k Ã©s kÃ¶zzÃ©tÃ©teli kÃ¶ltsÃ©gtÃ©rÃ­tÃ©s megfizetÃ©sÃ©nek igazolÃ¡sa vagy nyilatkozata. A megkÃ¼ldÃ¶tt igazolÃ¡sok mÃ¡r felhasznÃ¡lÃ¡sra kerÃ¼ltek a Cg. 0809003143/65. sorszÃ¡mon.<ujsor/>
+- A vÃ¡ltozÃ¡sbejegyzÃ©si kÃ©relem bekÃ¼ldÃ©se idÅ‘ elÅ‘tti, a Cg. 0809003143/68. sorszÃ¡mÃº vÃ©gzÃ©s jogerÅ‘re emelkedÃ©se elÅ‘tt ugyanazon cÃ©g vÃ¡ltozÃ¡sbejegyzÃ©sÃ©re irÃ¡nyulÃ³ kÃ©relem ismÃ©telten nem nyÃºjthatÃ³ be. (Ctv. 37. Â§ (6) bek.)<ujsor/>
+2010. jÃºnius 10.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0809003143</mezo>
-<mezo id = "nev">KISS BVM Ipari, Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">9400 Sopron, Faraktár u. 5</mezo>
+<mezo id = "nev">KISS BVM Ipari, SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">9400 Sopron, FaraktÃ¡r u. 5</mezo>
 <mezo id = "adosz">11124728208</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a 2010. június 1. napján indult változásbejegyzési eljárást megszünteti.<ujsor/>
-A végzés ellen a kézbesítéstõl számított 15 (tizenöt) napon belül a Gyõri Ïtélõtáblához címzett, de a Gyõr-Moson-Sopron Megyei Bíróságnál, mint Cégbíróságnál 3 (három) példányban benyújtható fellebbezésnek van helye. A fellebbezés elsõ példányára 7.000.-Ft (hétezer forint) eljárási illetéket kell leróni. A Gyõri Ïtélõtábla elõtti eljárásban a fellebbezõ fél részére a jogi képviselet kötelezõ.<ujsor/>
-2010. június 1.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a 2010. jÃºnius 1. napjÃ¡n indult vÃ¡ltozÃ¡sbejegyzÃ©si eljÃ¡rÃ¡st megszÃ¼nteti.<ujsor/>
+A vÃ©gzÃ©s ellen a kÃ©zbesÃ­tÃ©stÅ‘l szÃ¡mÃ­tott 15 (tizenÃ¶t) napon belÃ¼l a GyÅ‘ri ÄtÃ©lÅ‘tÃ¡blÃ¡hoz cÃ­mzett, de a GyÅ‘r-Moson-Sopron Megyei BÃ­rÃ³sÃ¡gnÃ¡l, mint CÃ©gbÃ­rÃ³sÃ¡gnÃ¡l 3 (hÃ¡rom) pÃ©ldÃ¡nyban benyÃºjthatÃ³ fellebbezÃ©snek van helye. A fellebbezÃ©s elsÅ‘ pÃ©ldÃ¡nyÃ¡ra 7.000.-Ft (hÃ©tezer forint) eljÃ¡rÃ¡si illetÃ©ket kell lerÃ³ni. A GyÅ‘ri ÄtÃ©lÅ‘tÃ¡bla elÅ‘tti eljÃ¡rÃ¡sban a fellebbezÅ‘ fÃ©l rÃ©szÃ©re a jogi kÃ©pviselet kÃ¶telezÅ‘.<ujsor/>
+2010. jÃºnius 1.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0809003143</mezo>
-<mezo id = "nev">KISS BVM Ipari, Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">9400 Sopron, Faraktár u. 5</mezo>
+<mezo id = "nev">KISS BVM Ipari, SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">9400 Sopron, FaraktÃ¡r u. 5</mezo>
 <mezo id = "adosz">11124728208</mezo>
 </alrovat>
 </rovat>

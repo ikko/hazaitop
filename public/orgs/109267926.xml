@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">267926</mezo>
 <mezo id = "nevalrovat">2</mezo>
-<mezo id = "cim">1095 Budapest, Lechner Ödön fasor 7. </mezo>
+<mezo id = "cim">1095 Budapest, Lechner Ã–dÃ¶n fasor 7. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">10571086244</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">19920806</mezo>
-<mezo id = "nev">Nestlé Hungária Kft</mezo>
+<mezo id = "nev">NestlÃ© HungÃ¡ria Kft</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
@@ -21,7 +21,7 @@
 <mezo id = "hattol">20090501</mezo>
 <mezo id = "irsz">1095</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Lechner Ödön fasor 7.</mezo>
+<mezo id = "teru">Lechner Ã–dÃ¶n fasor 7.</mezo>
 <mezo id = "valtk">20090501</mezo>
 <mezo id = "bkelt">20090609</mezo>
 </alrovat>
@@ -30,7 +30,7 @@
 <alrovat id = "5">
 <mezo id = "hattol">20051101</mezo>
 <mezo id = "irsz">1061</mezo>
-<mezo id = "hely">Budapest, Andrássy út 27.</mezo>
+<mezo id = "hely">Budapest, AndrÃ¡ssy Ãºt 27.</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20090202</mezo>
@@ -44,7 +44,7 @@
 <alrovat id = "8">
 <mezo id = "hattol">20090501</mezo>
 <mezo id = "irsz">1013</mezo>
-<mezo id = "hely">Budapest, Ybl Miklós tér 8.</mezo>
+<mezo id = "hely">Budapest, Ybl MiklÃ³s tÃ©r 8.</mezo>
 <mezo id = "valtk">20090501</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090527</mezo>
@@ -55,22 +55,22 @@
 <alrovat id = "1">
 <mezo id = "hattol">19921209</mezo>
 <mezo id = "irsz">3900</mezo>
-<mezo id = "hely">Szerencs, Rákóczi u. 124. (Szerencsi Csokoládégyár)</mezo>
+<mezo id = "hely">Szerencs, RÃ¡kÃ³czi u. 124. (Szerencsi CsokolÃ¡dÃ©gyÃ¡r)</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">19921209</mezo>
 <mezo id = "irsz">3533</mezo>
-<mezo id = "hely">Miskolc, Fürdõ u. 4. (Diósgyõri Édesipari Gyár)</mezo>
+<mezo id = "hely">Miskolc, FÃ¼rdÅ‘ u. 4. (DiÃ³sgyÅ‘ri Ã‰desipari GyÃ¡r)</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20000225</mezo>
 <mezo id = "irsz">9737</mezo>
-<mezo id = "hely">Bük, Darling utca 1.</mezo>
+<mezo id = "hely">BÃ¼k, Darling utca 1.</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20060823</mezo>
 <mezo id = "irsz">2045</mezo>
-<mezo id = "hely">Törökbálint, Tó u. 4.</mezo>
+<mezo id = "hely">TÃ¶rÃ¶kbÃ¡lint, TÃ³ u. 4.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20060401</mezo>
 <mezo id = "valtv">0</mezo>
@@ -1019,7 +1019,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090527</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">M.n.s. egyéb oktatás</mezo>
+<mezo id = "teaszov">M.n.s. egyÃ©b oktatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "126">
 <mezo id = "hattol">20090414</mezo>
@@ -1037,7 +1037,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090527</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Reklámügynöki tevékenység</mezo>
+<mezo id = "teaszov">ReklÃ¡mÃ¼gynÃ¶ki tevÃ©kenysÃ©g</mezo>
 </alrovat>
 <alrovat id = "127">
 <mezo id = "hattol">20090414</mezo>
@@ -1055,7 +1055,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090527</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Médiareklám</mezo>
+<mezo id = "teaszov">MÃ©diareklÃ¡m</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -1070,116 +1070,116 @@
 <rovat id = "13">
 <alrovat id = "9">
 <mezo id = "hattol">20020415</mezo>
-<mezo id = "tiszt">igazgató</mezo>
-<mezo id = "pnev">Tranker László értékesítési</mezo>
-<mezo id = "panev">Fülöp Róza</mezo>
+<mezo id = "tiszt">igazgatÃ³</mezo>
+<mezo id = "pnev">Tranker LÃ¡szlÃ³ Ã©rtÃ©kesÃ­tÃ©si</mezo>
+<mezo id = "panev">FÃ¼lÃ¶p RÃ³za</mezo>
 <mezo id = "tkelt">20100416</mezo>
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">20020415</mezo>
-<mezo id = "pnev">Kapus István személyzeti vezetõ</mezo>
-<mezo id = "panev">Mangold Klára</mezo>
+<mezo id = "pnev">Kapus IstvÃ¡n szemÃ©lyzeti vezetÅ‘</mezo>
+<mezo id = "panev">Mangold KlÃ¡ra</mezo>
 <mezo id = "tkelt">20100416</mezo>
 </alrovat>
 <alrovat id = "16">
 <mezo id = "hattol">20020415</mezo>
-<mezo id = "pnev">Szûcs Marianna kontroller</mezo>
-<mezo id = "panev">Szigeti Rozália</mezo>
+<mezo id = "pnev">SzÅ±cs Marianna kontroller</mezo>
+<mezo id = "panev">Szigeti RozÃ¡lia</mezo>
 <mezo id = "tkelt">20100416</mezo>
 </alrovat>
 <alrovat id = "23">
 <mezo id = "hattol">20020415</mezo>
-<mezo id = "pnev">Fistroviczi Katalin személyzeti vezetõ</mezo>
-<mezo id = "panev">Pataki Zsófia</mezo>
+<mezo id = "pnev">Fistroviczi Katalin szemÃ©lyzeti vezetÅ‘</mezo>
+<mezo id = "panev">Pataki ZsÃ³fia</mezo>
 <mezo id = "tkelt">20100416</mezo>
 </alrovat>
 <alrovat id = "26">
 <mezo id = "hattol">20020415</mezo>
-<mezo id = "tiszt">állateledel üzletágban személyzeti vezetõ</mezo>
-<mezo id = "pnev">Markács Ágnes</mezo>
-<mezo id = "panev">Dr. Szakály Blanka</mezo>
+<mezo id = "tiszt">Ã¡llateledel Ã¼zletÃ¡gban szemÃ©lyzeti vezetÅ‘</mezo>
+<mezo id = "pnev">MarkÃ¡cs Ãgnes</mezo>
+<mezo id = "panev">Dr. SzakÃ¡ly Blanka</mezo>
 <mezo id = "pirsz">9700</mezo>
 <mezo id = "phely">Szombathely</mezo>
-<mezo id = "pteru">Mátyás király u. 24.</mezo>
+<mezo id = "pteru">MÃ¡tyÃ¡s kirÃ¡ly u. 24.</mezo>
 </alrovat>
 <alrovat id = "28">
 <mezo id = "hattol">20020507</mezo>
-<mezo id = "pnev">Pálffy Levente logisztikai vezetõ</mezo>
-<mezo id = "panev">Gál Viktória</mezo>
+<mezo id = "pnev">PÃ¡lffy Levente logisztikai vezetÅ‘</mezo>
+<mezo id = "panev">GÃ¡l ViktÃ³ria</mezo>
 <mezo id = "tkelt">20100416</mezo>
 </alrovat>
 <alrovat id = "29">
 <mezo id = "hattol">20020507</mezo>
-<mezo id = "pnev">Nagy András beszerzési vezetõ</mezo>
+<mezo id = "pnev">Nagy AndrÃ¡s beszerzÃ©si vezetÅ‘</mezo>
 <mezo id = "panev">Gyimesi Judit</mezo>
 <mezo id = "tkelt">20100416</mezo>
 </alrovat>
 <alrovat id = "30">
 <mezo id = "hattol">20020507</mezo>
-<mezo id = "tiszt">bérelszámoló csoport vezetõje</mezo>
-<mezo id = "pnev">Valentics Lászlóné</mezo>
-<mezo id = "panev">Kovács Jolán</mezo>
+<mezo id = "tiszt">bÃ©relszÃ¡molÃ³ csoport vezetÅ‘je</mezo>
+<mezo id = "pnev">Valentics LÃ¡szlÃ³nÃ©</mezo>
+<mezo id = "panev">KovÃ¡cs JolÃ¡n</mezo>
 <mezo id = "pirsz">2146</mezo>
-<mezo id = "phely">Mogyoród</mezo>
-<mezo id = "pteru">Veresegyházi út 14.</mezo>
+<mezo id = "phely">MogyorÃ³d</mezo>
+<mezo id = "pteru">VeresegyhÃ¡zi Ãºt 14.</mezo>
 </alrovat>
 <alrovat id = "33">
 <mezo id = "hattol">20020507</mezo>
-<mezo id = "pnev">Szabó Gábor állateledel üzletágban beszerzési vezetõ</mezo>
-<mezo id = "panev">Gregorits Erzsébet</mezo>
+<mezo id = "pnev">SzabÃ³ GÃ¡bor Ã¡llateledel Ã¼zletÃ¡gban beszerzÃ©si vezetÅ‘</mezo>
+<mezo id = "panev">Gregorits ErzsÃ©bet</mezo>
 <mezo id = "tkelt">20100416</mezo>
 </alrovat>
 <alrovat id = "38">
 <mezo id = "hattol">20020813</mezo>
-<mezo id = "pnev">dr. Cholnoky Judit Mária gyermektápszer osztály vezetõje</mezo>
-<mezo id = "panev">dr. László Zsófia</mezo>
+<mezo id = "pnev">dr. Cholnoky Judit MÃ¡ria gyermektÃ¡pszer osztÃ¡ly vezetÅ‘je</mezo>
+<mezo id = "panev">dr. LÃ¡szlÃ³ ZsÃ³fia</mezo>
 <mezo id = "tkelt">20100416</mezo>
 </alrovat>
 <alrovat id = "41">
 <mezo id = "hattol">20021118</mezo>
-<mezo id = "pnev">Zahuczki Zsolt állateledel üzletág logisztikai vezetõ</mezo>
-<mezo id = "panev">Rozmán Mária</mezo>
+<mezo id = "pnev">Zahuczki Zsolt Ã¡llateledel Ã¼zletÃ¡g logisztikai vezetÅ‘</mezo>
+<mezo id = "panev">RozmÃ¡n MÃ¡ria</mezo>
 <mezo id = "tkelt">20100416</mezo>
 </alrovat>
 <alrovat id = "42">
 <mezo id = "hattol">20030401</mezo>
-<mezo id = "tiszt">ügyvezetõ</mezo>
+<mezo id = "tiszt">Ã¼gyvezetÅ‘</mezo>
 <mezo id = "pnev">Laurent Henri Bruno Frsixe</mezo>
 <mezo id = "panev">Maryse Tagger</mezo>
 <mezo id = "pkorsz">FR</mezo>
 <mezo id = "pkirsz">75012</mezo>
 <mezo id = "pkhely">Paris, 20 rue Sibuet.</mezo>
 <mezo id = "pmnev">Madari Mariann</mezo>
-<mezo id = "pmanev">Sztupjánszky Margit</mezo>
+<mezo id = "pmanev">SztupjÃ¡nszky Margit</mezo>
 <mezo id = "pmirsz">1013</mezo>
-<mezo id = "pmhely">Budapest, Ybl Miklós tér 8.</mezo>
+<mezo id = "pmhely">Budapest, Ybl MiklÃ³s tÃ©r 8.</mezo>
 </alrovat>
 <alrovat id = "44">
 <mezo id = "hattol">20030327</mezo>
-<mezo id = "tiszt">személyzeti igazgató a szerencsi gyárban</mezo>
-<mezo id = "pnev">Takács Miklósné</mezo>
-<mezo id = "panev">Csákó Mária</mezo>
+<mezo id = "tiszt">szemÃ©lyzeti igazgatÃ³ a szerencsi gyÃ¡rban</mezo>
+<mezo id = "pnev">TakÃ¡cs MiklÃ³snÃ©</mezo>
+<mezo id = "panev">CsÃ¡kÃ³ MÃ¡ria</mezo>
 <mezo id = "pirsz">3532</mezo>
-<mezo id = "phely">Miskolc, Testvériség u. 28.</mezo>
+<mezo id = "phely">Miskolc, TestvÃ©risÃ©g u. 28.</mezo>
 </alrovat>
 <alrovat id = "45">
 <mezo id = "hattol">20030327</mezo>
-<mezo id = "pnev">Dráviczki Ferenc mûszaki vezetõ</mezo>
-<mezo id = "panev">Varga Erzsébet</mezo>
+<mezo id = "pnev">DrÃ¡viczki Ferenc mÅ±szaki vezetÅ‘</mezo>
+<mezo id = "panev">Varga ErzsÃ©bet</mezo>
 <mezo id = "tkelt">20100416</mezo>
 </alrovat>
 <alrovat id = "46">
 <mezo id = "hattol">20020415</mezo>
-<mezo id = "pnev">Markócs Ágnes állateledel üzletágban személyzeti vezetõ</mezo>
-<mezo id = "panev">Dr. Szakály Blanka</mezo>
+<mezo id = "pnev">MarkÃ³cs Ãgnes Ã¡llateledel Ã¼zletÃ¡gban szemÃ©lyzeti vezetÅ‘</mezo>
+<mezo id = "panev">Dr. SzakÃ¡ly Blanka</mezo>
 <mezo id = "tkelt">20100416</mezo>
 </alrovat>
 <alrovat id = "50">
 <mezo id = "hattol">20040127</mezo>
-<mezo id = "pnev">Sidi Péter</mezo>
-<mezo id = "panev">Takács Ildikó</mezo>
+<mezo id = "pnev">Sidi PÃ©ter</mezo>
+<mezo id = "panev">TakÃ¡cs IldikÃ³</mezo>
 <mezo id = "pirsz">4025</mezo>
-<mezo id = "phely">Debrecen, Széchenyi u. 11. I/4.</mezo>
+<mezo id = "phely">Debrecen, SzÃ©chenyi u. 11. I/4.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20040127</mezo>
@@ -1187,9 +1187,9 @@
 <alrovat id = "53">
 <mezo id = "hattol">20040127</mezo>
 <mezo id = "pnev">Papp Szilvia</mezo>
-<mezo id = "panev">Donner Mária Rozália</mezo>
+<mezo id = "panev">Donner MÃ¡ria RozÃ¡lia</mezo>
 <mezo id = "pirsz">9700</mezo>
-<mezo id = "phely">Szombathely, Szent László király u. 4. B. IV/8.</mezo>
+<mezo id = "phely">Szombathely, Szent LÃ¡szlÃ³ kirÃ¡ly u. 4. B. IV/8.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20040127</mezo>
@@ -1202,9 +1202,9 @@
 <mezo id = "pkirsz">75012</mezo>
 <mezo id = "pkhely">Paris, 20 rue Sibuet.</mezo>
 <mezo id = "pmnev">Madari Mariann</mezo>
-<mezo id = "pmanev">Sztupjánszky Margit</mezo>
+<mezo id = "pmanev">SztupjÃ¡nszky Margit</mezo>
 <mezo id = "pmirsz">1013</mezo>
-<mezo id = "pmhely">Budapest, Ybl Miklós tér 8.</mezo>
+<mezo id = "pmhely">Budapest, Ybl MiklÃ³s tÃ©r 8.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">2</mezo>
 <mezo id = "jogvk">20030401</mezo>
@@ -1212,90 +1212,90 @@
 </alrovat>
 <alrovat id = "62">
 <mezo id = "hattol">20050906</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Pribula László</mezo>
-<mezo id = "panev">Virág Éva</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Pribula LÃ¡szlÃ³</mezo>
+<mezo id = "panev">VirÃ¡g Ã‰va</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20050906</mezo>
 <mezo id = "tkelt">20100416</mezo>
 </alrovat>
 <alrovat id = "64">
 <mezo id = "hattol">20051104</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Csizmár Ottó</mezo>
-<mezo id = "panev">Tóth Borbála</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">CsizmÃ¡r OttÃ³</mezo>
+<mezo id = "panev">TÃ³th BorbÃ¡la</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20051104</mezo>
 <mezo id = "tkelt">20100416</mezo>
 </alrovat>
 <alrovat id = "67">
 <mezo id = "hattol">20051020</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Dúl Mária</mezo>
-<mezo id = "panev">Lankovics Mária</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">DÃºl MÃ¡ria</mezo>
+<mezo id = "panev">Lankovics MÃ¡ria</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20051020</mezo>
 <mezo id = "tkelt">20100416</mezo>
 </alrovat>
 <alrovat id = "70">
 <mezo id = "hattol">20061116</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Thibault, Emmanuel, Henri Mourgues</mezo>
 <mezo id = "panev">Francoise Brouillard</mezo>
 <mezo id = "pmnev">Madari Mariann</mezo>
-<mezo id = "pmanev">Sztupjánszky Margit</mezo>
+<mezo id = "pmanev">SztupjÃ¡nszky Margit</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20061018</mezo>
 <mezo id = "tkelt">20100416</mezo>
 </alrovat>
 <alrovat id = "72">
 <mezo id = "hattol">20070305</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Bálintné Vass Anna Mária</mezo>
-<mezo id = "panev">Bodnár Anna</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">BÃ¡lintnÃ© Vass Anna MÃ¡ria</mezo>
+<mezo id = "panev">BodnÃ¡r Anna</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20070216</mezo>
 <mezo id = "tkelt">20100416</mezo>
 </alrovat>
 <alrovat id = "73">
 <mezo id = "hattol">20070713</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Papp Edit</mezo>
-<mezo id = "panev">Sarkadi Mária</mezo>
+<mezo id = "panev">Sarkadi MÃ¡ria</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20051021</mezo>
 <mezo id = "tkelt">20100416</mezo>
 </alrovat>
 <alrovat id = "75">
 <mezo id = "hattol">20071105</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Flesch Gábor</mezo>
-<mezo id = "panev">Vékony Gabriella</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Flesch GÃ¡bor</mezo>
+<mezo id = "panev">VÃ©kony Gabriella</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20071105</mezo>
 <mezo id = "tkelt">20100416</mezo>
 </alrovat>
 <alrovat id = "78">
 <mezo id = "hattol">20071024</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Dombovári Zsolt</mezo>
-<mezo id = "panev">Góth Ildikó</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">DombovÃ¡ri Zsolt</mezo>
+<mezo id = "panev">GÃ³th IldikÃ³</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20071024</mezo>
 <mezo id = "tkelt">20100416</mezo>
 </alrovat>
 <alrovat id = "79">
 <mezo id = "hattol">20080129</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Róka Gergely Gábor</mezo>
-<mezo id = "panev">Dinnyés Klára Anna</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">RÃ³ka Gergely GÃ¡bor</mezo>
+<mezo id = "panev">DinnyÃ©s KlÃ¡ra Anna</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20080129</mezo>
 <mezo id = "tkelt">20100416</mezo>
 </alrovat>
 <alrovat id = "81">
 <mezo id = "hattol">20080301</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Ethell Andrew Gordon</mezo>
 <mezo id = "panev">Hughes Linda</mezo>
 <mezo id = "kepve">x</mezo>
@@ -1304,16 +1304,16 @@
 </alrovat>
 <alrovat id = "82">
 <mezo id = "hattol">20080213</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Bauer Ildikó</mezo>
-<mezo id = "panev">Fixl Mária</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Bauer IldikÃ³</mezo>
+<mezo id = "panev">Fixl MÃ¡ria</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20080213</mezo>
 <mezo id = "tkelt">20100416</mezo>
 </alrovat>
 <alrovat id = "83">
 <mezo id = "hattol">20080602</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Richard Martin Scott</mezo>
 <mezo id = "panev">Irene May McVicar</mezo>
 <mezo id = "kepve">x</mezo>
@@ -1322,16 +1322,16 @@
 </alrovat>
 <alrovat id = "85">
 <mezo id = "hattol">20090202</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Szilva Mónika</mezo>
-<mezo id = "panev">Hinkó Marianna</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Szilva MÃ³nika</mezo>
+<mezo id = "panev">HinkÃ³ Marianna</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20090202</mezo>
 <mezo id = "tkelt">20100416</mezo>
 </alrovat>
 <alrovat id = "86">
 <mezo id = "hattol">20090202</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Bernhard Roelof Stapel</mezo>
 <mezo id = "panev">Dirkje Klaziena Chardon</mezo>
 <mezo id = "kepve">x</mezo>
@@ -1340,52 +1340,52 @@
 </alrovat>
 <alrovat id = "87">
 <mezo id = "hattol">20090202</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Martonicz Roland</mezo>
-<mezo id = "panev">Horváth Erzsébet</mezo>
+<mezo id = "panev">HorvÃ¡th ErzsÃ©bet</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20090202</mezo>
 <mezo id = "tkelt">20100416</mezo>
 </alrovat>
 <alrovat id = "88">
 <mezo id = "hattol">20090202</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Bruzsa István</mezo>
-<mezo id = "panev">Horváth Erzsébet</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Bruzsa IstvÃ¡n</mezo>
+<mezo id = "panev">HorvÃ¡th ErzsÃ©bet</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20090202</mezo>
 <mezo id = "tkelt">20100416</mezo>
 </alrovat>
 <alrovat id = "91">
 <mezo id = "hattol">20090406</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Jan Raza</mezo>
-<mezo id = "panev">Julie Nagyová</mezo>
+<mezo id = "panev">Julie NagyovÃ¡</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20090406</mezo>
 <mezo id = "tkelt">20100416</mezo>
 </alrovat>
 <alrovat id = "92">
 <mezo id = "hattol">20090406</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Mári József</mezo>
-<mezo id = "panev">Herbály Irén Teréz</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">MÃ¡ri JÃ³zsef</mezo>
+<mezo id = "panev">HerbÃ¡ly IrÃ©n TerÃ©z</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20090406</mezo>
 <mezo id = "tkelt">20100416</mezo>
 </alrovat>
 <alrovat id = "93">
 <mezo id = "hattol">20090406</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Kaulics Emõke</mezo>
-<mezo id = "panev">Kiss Mária Ibolya</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Kaulics EmÅ‘ke</mezo>
+<mezo id = "panev">Kiss MÃ¡ria Ibolya</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20090406</mezo>
 <mezo id = "tkelt">20100416</mezo>
 </alrovat>
 <alrovat id = "95">
 <mezo id = "hattol">20090616</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Frank Niclaas Baumgartner</mezo>
 <mezo id = "panev">Barbara Landau</mezo>
 <mezo id = "kepve">x</mezo>
@@ -1394,16 +1394,16 @@
 </alrovat>
 <alrovat id = "96">
 <mezo id = "hattol">20090624</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Huszár Rózsa</mezo>
-<mezo id = "panev">Chilkó Klára</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">HuszÃ¡r RÃ³zsa</mezo>
+<mezo id = "panev">ChilkÃ³ KlÃ¡ra</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20090624</mezo>
 <mezo id = "tkelt">20100416</mezo>
 </alrovat>
 <alrovat id = "97">
 <mezo id = "hattol">20090901</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "pnev">Andrea Zambelli</mezo>
 <mezo id = "panev">Clementina Serra</mezo>
 <mezo id = "kepvo">x</mezo>
@@ -1411,80 +1411,80 @@
 <mezo id = "tkelt">20100416</mezo>
 </alrovat>
 <alrovat id = "99">
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Kapus István</mezo>
-<mezo id = "panev">Mangold Klára</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Kapus IstvÃ¡n</mezo>
+<mezo id = "panev">Mangold KlÃ¡ra</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20020415</mezo>
 <mezo id = "bkelt">20100416</mezo>
 <mezo id = "adoazon">8318293266</mezo>
 </alrovat>
 <alrovat id = "100">
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Szûcs Marianna</mezo>
-<mezo id = "panev">Szigeti Rozália</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">SzÅ±cs Marianna</mezo>
+<mezo id = "panev">Szigeti RozÃ¡lia</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20020415</mezo>
 <mezo id = "bkelt">20100416</mezo>
 <mezo id = "adoazon">8370181678</mezo>
 </alrovat>
 <alrovat id = "101">
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Fistorovicz Katalin</mezo>
-<mezo id = "panev">Pataki Zsófia</mezo>
+<mezo id = "panev">Pataki ZsÃ³fia</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20020415</mezo>
 <mezo id = "bkelt">20100416</mezo>
 <mezo id = "adoazon">8340541714</mezo>
 </alrovat>
 <alrovat id = "102">
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Pálffy Levente</mezo>
-<mezo id = "panev">Gál Viktória</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">PÃ¡lffy Levente</mezo>
+<mezo id = "panev">GÃ¡l ViktÃ³ria</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20020527</mezo>
 <mezo id = "bkelt">20100416</mezo>
 <mezo id = "adoazon">8357152309</mezo>
 </alrovat>
 <alrovat id = "103">
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Szabó Gábor</mezo>
-<mezo id = "panev">Gregorits Erzsébet</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">SzabÃ³ GÃ¡bor</mezo>
+<mezo id = "panev">Gregorits ErzsÃ©bet</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20020527</mezo>
 <mezo id = "bkelt">20100416</mezo>
 <mezo id = "adoazon">8360722323</mezo>
 </alrovat>
 <alrovat id = "104">
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">dr. Cholnoky Judit Mária</mezo>
-<mezo id = "panev">dr. László Zsófia</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">dr. Cholnoky Judit MÃ¡ria</mezo>
+<mezo id = "panev">dr. LÃ¡szlÃ³ ZsÃ³fia</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20020813</mezo>
 <mezo id = "bkelt">20100416</mezo>
 <mezo id = "adoazon">8348413294</mezo>
 </alrovat>
 <alrovat id = "106">
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Zahuczki Zsolt</mezo>
-<mezo id = "panev">Rozmán Mária</mezo>
+<mezo id = "panev">RozmÃ¡n MÃ¡ria</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20021118</mezo>
 <mezo id = "bkelt">20100416</mezo>
 <mezo id = "adoazon">8367930916</mezo>
 </alrovat>
 <alrovat id = "107">
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Dráviczki Ferenc</mezo>
-<mezo id = "panev">Varga Erzsébet</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">DrÃ¡viczki Ferenc</mezo>
+<mezo id = "panev">Varga ErzsÃ©bet</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20030327</mezo>
 <mezo id = "bkelt">20100416</mezo>
 <mezo id = "adoazon">8351652377</mezo>
 </alrovat>
 <alrovat id = "108">
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Markócs Ágnes</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">MarkÃ³cs Ãgnes</mezo>
 <mezo id = "panev">dr. Szalay Blanka</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20020415</mezo>
@@ -1492,70 +1492,70 @@
 <mezo id = "adoazon">8385920374</mezo>
 </alrovat>
 <alrovat id = "109">
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Pribula László</mezo>
-<mezo id = "panev">Virág Éva</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Pribula LÃ¡szlÃ³</mezo>
+<mezo id = "panev">VirÃ¡g Ã‰va</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20050906</mezo>
 <mezo id = "bkelt">20100416</mezo>
 <mezo id = "adoazon">8364482114</mezo>
 </alrovat>
 <alrovat id = "110">
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Csizmár Ottó</mezo>
-<mezo id = "panev">Tóth Borbála</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">CsizmÃ¡r OttÃ³</mezo>
+<mezo id = "panev">TÃ³th BorbÃ¡la</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20051104</mezo>
 <mezo id = "bkelt">20100416</mezo>
 <mezo id = "adoazon">8368820235</mezo>
 </alrovat>
 <alrovat id = "111">
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Dúl Mária</mezo>
-<mezo id = "panev">Lankovics Mária</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">DÃºl MÃ¡ria</mezo>
+<mezo id = "panev">Lankovics MÃ¡ria</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20051020</mezo>
 <mezo id = "bkelt">20100416</mezo>
 <mezo id = "adoazon">8347803765</mezo>
 </alrovat>
 <alrovat id = "114">
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Papp Edit</mezo>
-<mezo id = "panev">Sarkadi Mária</mezo>
+<mezo id = "panev">Sarkadi MÃ¡ria</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20051021</mezo>
 <mezo id = "bkelt">20100416</mezo>
 <mezo id = "adoazon">8366732282</mezo>
 </alrovat>
 <alrovat id = "115">
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Flesch Gábor</mezo>
-<mezo id = "panev">Vékony Gabriella</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Flesch GÃ¡bor</mezo>
+<mezo id = "panev">VÃ©kony Gabriella</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20071105</mezo>
 <mezo id = "bkelt">20100416</mezo>
 <mezo id = "adoazon">8381071291</mezo>
 </alrovat>
 <alrovat id = "116">
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Dombovári Zsolt</mezo>
-<mezo id = "panev">Góth Ildikó</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">DombovÃ¡ri Zsolt</mezo>
+<mezo id = "panev">GÃ³th IldikÃ³</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20071024</mezo>
 <mezo id = "bkelt">20100416</mezo>
 <mezo id = "adoazon">8374000279</mezo>
 </alrovat>
 <alrovat id = "117">
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Róka Gergely</mezo>
-<mezo id = "panev">Dinnyés Klára Anna</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">RÃ³ka Gergely</mezo>
+<mezo id = "panev">DinnyÃ©s KlÃ¡ra Anna</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20080129</mezo>
 <mezo id = "bkelt">20100416</mezo>
 <mezo id = "adoazon">8386140208</mezo>
 </alrovat>
 <alrovat id = "118">
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Andrew Ethell Gordon</mezo>
 <mezo id = "panev">Linda Hughes</mezo>
 <mezo id = "kepve">x</mezo>
@@ -1564,25 +1564,25 @@
 <mezo id = "adoazon">8365864401</mezo>
 </alrovat>
 <alrovat id = "119">
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Bauer Ildikó</mezo>
-<mezo id = "panev">Fixl Mária</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Bauer IldikÃ³</mezo>
+<mezo id = "panev">Fixl MÃ¡ria</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20080213</mezo>
 <mezo id = "bkelt">20100416</mezo>
 <mezo id = "adoazon">8381513516</mezo>
 </alrovat>
 <alrovat id = "121">
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Szilva Mónika</mezo>
-<mezo id = "panev">Hinkó Marianna</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Szilva MÃ³nika</mezo>
+<mezo id = "panev">HinkÃ³ Marianna</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20090202</mezo>
 <mezo id = "bkelt">20100416</mezo>
 <mezo id = "adoazon">8371613946</mezo>
 </alrovat>
 <alrovat id = "122">
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Bernhard Roelof Stapel</mezo>
 <mezo id = "panev">Dirkje Klaziena Chardon</mezo>
 <mezo id = "kepve">x</mezo>
@@ -1591,25 +1591,25 @@
 <mezo id = "adoazon">8348684034</mezo>
 </alrovat>
 <alrovat id = "124">
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Bruzsa István</mezo>
-<mezo id = "panev">Horváth Erzsébet</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Bruzsa IstvÃ¡n</mezo>
+<mezo id = "panev">HorvÃ¡th ErzsÃ©bet</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20090202</mezo>
 <mezo id = "bkelt">20100416</mezo>
 <mezo id = "adoazon">8376993372</mezo>
 </alrovat>
 <alrovat id = "126">
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Mári József</mezo>
-<mezo id = "panev">Herbály Irén Teréz</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">MÃ¡ri JÃ³zsef</mezo>
+<mezo id = "panev">HerbÃ¡ly IrÃ©n TerÃ©z</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20090406</mezo>
 <mezo id = "bkelt">20100416</mezo>
 <mezo id = "adoazon">8374200952</mezo>
 </alrovat>
 <alrovat id = "128">
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Frank Niclaas Baumgartner</mezo>
 <mezo id = "panev">Barbara Landau</mezo>
 <mezo id = "kepve">x</mezo>
@@ -1618,25 +1618,25 @@
 <mezo id = "adoazon">8386904720</mezo>
 </alrovat>
 <alrovat id = "129">
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Huszár Rózsa</mezo>
-<mezo id = "panev">Chilkó Klára</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">HuszÃ¡r RÃ³zsa</mezo>
+<mezo id = "panev">ChilkÃ³ KlÃ¡ra</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20090616</mezo>
 <mezo id = "bkelt">20100416</mezo>
 <mezo id = "adoazon">8332932416</mezo>
 </alrovat>
 <alrovat id = "131">
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Gerõ Imre Béla</mezo>
-<mezo id = "panev">Pólyik Erzsébet</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">GerÅ‘ Imre BÃ©la</mezo>
+<mezo id = "panev">PÃ³lyik ErzsÃ©bet</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20090928</mezo>
 <mezo id = "bkelt">20100416</mezo>
 <mezo id = "adoazon">838131023</mezo>
 </alrovat>
 <alrovat id = "132">
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Konrad Dominik Krynski</mezo>
 <mezo id = "panev">Alicja Ciolkowska</mezo>
 <mezo id = "kepve">x</mezo>
@@ -1645,7 +1645,7 @@
 <mezo id = "adoazon">8410985071</mezo>
 </alrovat>
 <alrovat id = "133">
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Grant William McKenzie</mezo>
 <mezo id = "panev">Margaret Brown</mezo>
 <mezo id = "kepve">x</mezo>
@@ -1654,7 +1654,7 @@
 <mezo id = "adoazon">8392936981</mezo>
 </alrovat>
 <alrovat id = "134">
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">dr. Sahouli Boubeker</mezo>
 <mezo id = "panev">Fizazi Halima</mezo>
 <mezo id = "kepve">x</mezo>
@@ -1663,18 +1663,18 @@
 <mezo id = "adoazon">8315035347</mezo>
 </alrovat>
 <alrovat id = "135">
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Murányi Ildikó</mezo>
-<mezo id = "panev">Nagy Ildikó Margit</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">MurÃ¡nyi IldikÃ³</mezo>
+<mezo id = "panev">Nagy IldikÃ³ Margit</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20100201</mezo>
 <mezo id = "bkelt">20100416</mezo>
 <mezo id = "adoazon">8402263399</mezo>
 </alrovat>
 <alrovat id = "136">
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Beliczáné Szilágyi Edit</mezo>
-<mezo id = "panev">Juhász Julianna</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">BeliczÃ¡nÃ© SzilÃ¡gyi Edit</mezo>
+<mezo id = "panev">JuhÃ¡sz Julianna</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20100201</mezo>
 <mezo id = "bkelt">20100416</mezo>
@@ -1682,7 +1682,7 @@
 </alrovat>
 <alrovat id = "138">
 <mezo id = "hattol">20100416</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "pnev">Andrea Zambelli</mezo>
 <mezo id = "panev">Clementina Serra</mezo>
 <mezo id = "kepvo">x</mezo>
@@ -1693,8 +1693,8 @@
 </alrovat>
 <alrovat id = "140">
 <mezo id = "hattol">20100601</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Sóskuti György Zoltán</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">SÃ³skuti GyÃ¶rgy ZoltÃ¡n</mezo>
 <mezo id = "panev">Demeter Ilona</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20100204</mezo>
@@ -1704,8 +1704,8 @@
 </alrovat>
 <alrovat id = "142">
 <mezo id = "hattol">20100601</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Erdész Attila</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">ErdÃ©sz Attila</mezo>
 <mezo id = "panev">Nikolics Ilona</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20100420</mezo>
@@ -1715,9 +1715,9 @@
 </alrovat>
 <alrovat id = "143">
 <mezo id = "hattol">20100601</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Mika Róbert Csaba</mezo>
-<mezo id = "panev">Sárkány Gizella</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Mika RÃ³bert Csaba</mezo>
+<mezo id = "panev">SÃ¡rkÃ¡ny Gizella</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20100420</mezo>
 <mezo id = "valtk">20100601</mezo>
@@ -1726,9 +1726,9 @@
 </alrovat>
 <alrovat id = "144">
 <mezo id = "hattol">20100601</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Bódi László</mezo>
-<mezo id = "panev">Pálffy Ildikó</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">BÃ³di LÃ¡szlÃ³</mezo>
+<mezo id = "panev">PÃ¡lffy IldikÃ³</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20100420</mezo>
 <mezo id = "valtk">20100601</mezo>
@@ -1737,7 +1737,7 @@
 </alrovat>
 <alrovat id = "145">
 <mezo id = "hattol">20100601</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Nagy Zsolt</mezo>
 <mezo id = "panev">Balla Gizella</mezo>
 <mezo id = "kepve">x</mezo>
@@ -1748,12 +1748,12 @@
 </alrovat>
 <alrovat id = "146">
 <mezo id = "hattol">20101229</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Balogh Péter Pál</mezo>
-<mezo id = "panev">Fekete Éva</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Balogh PÃ©ter PÃ¡l</mezo>
+<mezo id = "panev">Fekete Ã‰va</mezo>
 <mezo id = "pirsz">1132</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Csanády utca 24.</mezo>
+<mezo id = "pteru">CsanÃ¡dy utca 24.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20101229</mezo>
 <mezo id = "valtk">20101229</mezo>
@@ -1762,12 +1762,12 @@
 </alrovat>
 <alrovat id = "147">
 <mezo id = "hattol">20101223</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Leiszt György</mezo>
-<mezo id = "panev">Radnóti Mária Terézia</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Leiszt GyÃ¶rgy</mezo>
+<mezo id = "panev">RadnÃ³ti MÃ¡ria TerÃ©zia</mezo>
 <mezo id = "pirsz">5742</mezo>
 <mezo id = "phely">Elek</mezo>
-<mezo id = "pteru">Kígyó utca 2/a.</mezo>
+<mezo id = "pteru">KÃ­gyÃ³ utca 2/a.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20101223</mezo>
 <mezo id = "valtk">20101223</mezo>
@@ -1776,12 +1776,12 @@
 </alrovat>
 <alrovat id = "148">
 <mezo id = "hattol">20110207</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Gerencsér Nóra</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">GerencsÃ©r NÃ³ra</mezo>
 <mezo id = "panev">Mrva Magdolna Etelka</mezo>
 <mezo id = "pirsz">8900</mezo>
 <mezo id = "phely">Zalaegerszeg</mezo>
-<mezo id = "pteru">Püspöki Grácián utca 37. ép.</mezo>
+<mezo id = "pteru">PÃ¼spÃ¶ki GrÃ¡ciÃ¡n utca 37. Ã©p.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20110207</mezo>
 <mezo id = "valtk">20110207</mezo>
@@ -1790,12 +1790,12 @@
 </alrovat>
 <alrovat id = "149">
 <mezo id = "hattol">20110207</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Jean Pierre Hugo Polanen</mezo>
 <mezo id = "panev">Theresia Maria Busropan</mezo>
 <mezo id = "pirsz">3525</mezo>
 <mezo id = "phely">Miskolc</mezo>
-<mezo id = "pteru">Cserhát utca 45.</mezo>
+<mezo id = "pteru">CserhÃ¡t utca 45.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20110207</mezo>
 <mezo id = "valtk">20110207</mezo>
@@ -1804,12 +1804,12 @@
 </alrovat>
 <alrovat id = "150">
 <mezo id = "hattol">20110512</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Verõ Barbara</mezo>
-<mezo id = "panev">Balogh Éva</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">VerÅ‘ Barbara</mezo>
+<mezo id = "panev">Balogh Ã‰va</mezo>
 <mezo id = "pirsz">1163</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">András utca 25.</mezo>
+<mezo id = "pteru">AndrÃ¡s utca 25.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20110512</mezo>
 <mezo id = "valtk">20110512</mezo>
@@ -1818,12 +1818,12 @@
 </alrovat>
 <alrovat id = "151">
 <mezo id = "hattol">20110512</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Jakab Zoltán</mezo>
-<mezo id = "panev">László Erzsébet</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Jakab ZoltÃ¡n</mezo>
+<mezo id = "panev">LÃ¡szlÃ³ ErzsÃ©bet</mezo>
 <mezo id = "pirsz">1163</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Sasvár utca 11.</mezo>
+<mezo id = "pteru">SasvÃ¡r utca 11.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20110512</mezo>
 <mezo id = "valtk">20110512</mezo>
@@ -1835,16 +1835,16 @@
 <alrovat id = "8">
 <mezo id = "hattol">20090804</mezo>
 <mezo id = "cgjsz">0109063183</mezo>
-<mezo id = "nev">KPMG Hungária Könyvvizsgáló, Adó-és Közgazdasági Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">KPMG HungÃ¡ria KÃ¶nyvvizsgÃ¡lÃ³, AdÃ³-Ã©s KÃ¶zgazdasÃ¡gi TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1139</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Váci út 99.</mezo>
-<mezo id = "pnev">Henye István</mezo>
-<mezo id = "panev">Dr. Áder Mária</mezo>
+<mezo id = "teru">VÃ¡ci Ãºt 99.</mezo>
+<mezo id = "pnev">Henye IstvÃ¡n</mezo>
+<mezo id = "panev">Dr. Ãder MÃ¡ria</mezo>
 <mezo id = "pirsz">1037</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Zúzmara utca 8.</mezo>
+<mezo id = "pteru">ZÃºzmara utca 8.</mezo>
 <mezo id = "jogvk">20041124</mezo>
 <mezo id = "jogvv">20141124</mezo>
 <mezo id = "valtk">20090804</mezo>
@@ -1854,8 +1854,8 @@
 <rovat id = "15">
 <alrovat id = "81">
 <mezo id = "hattol">20100601</mezo>
-<mezo id = "pnev">Kopáné Tóth Melinda</mezo>
-<mezo id = "panev">Éliás Ilona</mezo>
+<mezo id = "pnev">KopÃ¡nÃ© TÃ³th Melinda</mezo>
+<mezo id = "panev">Ã‰liÃ¡s Ilona</mezo>
 <mezo id = "jogvk">20100601</mezo>
 <mezo id = "jogvv">20130531</mezo>
 <mezo id = "valtk">20100601</mezo>
@@ -1863,8 +1863,8 @@
 </alrovat>
 <alrovat id = "82">
 <mezo id = "hattol">20100601</mezo>
-<mezo id = "pnev">Erdõs Gábor</mezo>
-<mezo id = "panev">László Ágnes</mezo>
+<mezo id = "pnev">ErdÅ‘s GÃ¡bor</mezo>
+<mezo id = "panev">LÃ¡szlÃ³ Ãgnes</mezo>
 <mezo id = "jogvk">20100601</mezo>
 <mezo id = "jogvv">20130531</mezo>
 <mezo id = "valtk">20100601</mezo>
@@ -1900,7 +1900,7 @@
 <alrovat id = "87">
 <mezo id = "hattol">20101102</mezo>
 <mezo id = "pnev">Torben Emborg</mezo>
-<mezo id = "panev">Christa Gallé</mezo>
+<mezo id = "panev">Christa GallÃ©</mezo>
 <mezo id = "jogvk">20101102</mezo>
 <mezo id = "jogvv">20130531</mezo>
 <mezo id = "valtk">20101102</mezo>
@@ -1911,12 +1911,12 @@
 <alrovat id = "1">
 <mezo id = "hattol">19910101</mezo>
 <mezo id = "cgjsz">501000099</mezo>
-<mezo id = "nev">Szerencsi Édesipari Vállalat</mezo>
+<mezo id = "nev">Szerencsi Ã‰desipari VÃ¡llalat</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20000630</mezo>
 <mezo id = "cgjsz">109687808</mezo>
-<mezo id = "nev">JUPITER Állatieledelgyártó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">JUPITER ÃllatieledelgyÃ¡rtÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "20">
@@ -1930,21 +1930,21 @@
 <mezo id = "adosz">10571086244</mezo>
 <mezo id = "kadosz">HU10571086</mezo>
 <mezo id = "bkelt">20110831</mezo>
-<mezo id = "megj">Státusz kezdete: 1991/01/01</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 1991/01/01</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0109">
 <alrovat id = "22">
 <mezo id = "hattol">20090618</mezo>
-<mezo id = "nev">NESTLÉ S.A</mezo>
+<mezo id = "nev">NESTLÃ‰ S.A</mezo>
 <mezo id = "orsz">CH</mezo>
 <mezo id = "irsz">1800</mezo>
 <mezo id = "hely">Vevey</mezo>
-<mezo id = "teru">Avenue Nestlé 55.</mezo>
+<mezo id = "teru">Avenue NestlÃ© 55.</mezo>
 <mezo id = "tagsk">20090618</mezo>
 <mezo id = "sz2">x</mezo>
 <mezo id = "valtk">20090618</mezo>
-<mezo id = "knyh">Vaud Kanton Kereskedelmi Nyilvántartási Hivatala</mezo>
+<mezo id = "knyh">Vaud Kanton Kereskedelmi NyilvÃ¡ntartÃ¡si Hivatala</mezo>
 <mezo id = "bkelt">20090708</mezo>
 </alrovat>
 </rovat>
@@ -1957,271 +1957,271 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság által Cg.: [01 09 267926] cégjegyzékszám alatt nyilvántartásba vett, 1013 Budapest, Ybl Miklós tér 8. sz. alatti székhelyû Nestlé Hungária Kft. és a Vas Megyei Bíróság mint Cégbíróság által Cg. [18 09 000021] cégjegyzékszám alatt nyilvántartásba vett, 9737 Bök, Darling u. 1. sz. alatti székhelyû Jupiter Állatieledelgyártó Kft.<ujsor/>
-egyesül.<ujsor/>
-Az egyesülés módja: beolvadás.<ujsor/>
-A Jupiter Állatieledelgyártó Kft. mint beolvadó társaság beolvad a Nestlé Hungária Kft.-be mint átvevõ társaságba.<ujsor/>
-Az átvevõ társaság alapító okirata módosításának napja: 2000. február 25.<ujsor/>
-Az egyesülõ társaságok vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-ESZKÖZÖK Nestlé Jupiter Nestlé<ujsor/>
- Hungária Kft. Állatieledelgyártó Kft. Hungária Kft.<ujsor/>
- (záró) (záró) (nyitó)<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g Ã¡ltal Cg.: [01 09 267926] cÃ©gjegyzÃ©kszÃ¡m alatt nyilvÃ¡ntartÃ¡sba vett, 1013 Budapest, Ybl MiklÃ³s tÃ©r 8. sz. alatti szÃ©khelyÅ± NestlÃ© HungÃ¡ria Kft. Ã©s a Vas Megyei BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g Ã¡ltal Cg. [18 09 000021] cÃ©gjegyzÃ©kszÃ¡m alatt nyilvÃ¡ntartÃ¡sba vett, 9737 BÃ¶k, Darling u. 1. sz. alatti szÃ©khelyÅ± Jupiter ÃllatieledelgyÃ¡rtÃ³ Kft.<ujsor/>
+egyesÃ¼l.<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: beolvadÃ¡s.<ujsor/>
+A Jupiter ÃllatieledelgyÃ¡rtÃ³ Kft. mint beolvadÃ³ tÃ¡rsasÃ¡g beolvad a NestlÃ© HungÃ¡ria Kft.-be mint Ã¡tvevÅ‘ tÃ¡rsasÃ¡gba.<ujsor/>
+Az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g alapÃ­tÃ³ okirata mÃ³dosÃ­tÃ¡sÃ¡nak napja: 2000. februÃ¡r 25.<ujsor/>
+Az egyesÃ¼lÅ‘ tÃ¡rsasÃ¡gok vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K NestlÃ© Jupiter NestlÃ©<ujsor/>
+ HungÃ¡ria Kft. ÃllatieledelgyÃ¡rtÃ³ Kft. HungÃ¡ria Kft.<ujsor/>
+ (zÃ¡rÃ³) (zÃ¡rÃ³) (nyitÃ³)<ujsor/>
  (E Ft) (E Ft) (E Ft)<ujsor/>
-A) Befektetett eszközök 11 609 843 4 858 371 10 260 312<ujsor/>
-I. Immateriális javak 93 917 67 545 161 462<ujsor/>
-II. Tárgyi eszközök 5 219 745 4 789 276 10 009 021<ujsor/>
-III. Befektetett pénzügyi eszközök 6 296 181 1 550 89 829<ujsor/>
-B) Forgóeszközök 6 321 933 2 909 126 9 120 686<ujsor/>
-I. Készletek 2 041 524 1 086 251 3 127 775<ujsor/>
-II. Követelések 4 121 124 1 797 222 5 807 973<ujsor/>
-III. Pénzeszközök 159 285 25 653 184 938<ujsor/>
-C) Aktív idõbeli elhatárolások 158 429 312 146 445 959<ujsor/>
-ÖSSZESEN: 18 090 205 8 079 643 19 826 957<ujsor/>
-FORRÁSOK Nestlé Jupiter Nestlé<ujsor/>
- Hungária Kft. Állatieledelgyártó Kft. Hungária Kft.<ujsor/>
- (záró) (záró) (nyitó)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 11 609 843 4 858 371 10 260 312<ujsor/>
+I. ImmateriÃ¡lis javak 93 917 67 545 161 462<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 5 219 745 4 789 276 10 009 021<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 6 296 181 1 550 89 829<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 6 321 933 2 909 126 9 120 686<ujsor/>
+I. KÃ©szletek 2 041 524 1 086 251 3 127 775<ujsor/>
+II. KÃ¶vetelÃ©sek 4 121 124 1 797 222 5 807 973<ujsor/>
+III. PÃ©nzeszkÃ¶zÃ¶k 159 285 25 653 184 938<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 158 429 312 146 445 959<ujsor/>
+Ã–SSZESEN: 18 090 205 8 079 643 19 826 957<ujsor/>
+FORRÃSOK NestlÃ© Jupiter NestlÃ©<ujsor/>
+ HungÃ¡ria Kft. ÃllatieledelgyÃ¡rtÃ³ Kft. HungÃ¡ria Kft.<ujsor/>
+ (zÃ¡rÃ³) (zÃ¡rÃ³) (nyitÃ³)<ujsor/>
  (E Ft) (E Ft) (E Ft)<ujsor/>
-D) Saját tõke 12 143 404 673 997 6 609 499<ujsor/>
-I. Jegyzett tõke 12 722 600 520 000 6 000 000<ujsor/>
-III. Tõketartalék 545 956 9 380 545 956<ujsor/>
-IV. Eredménytartalék -1 125 152 144 617 63 543<ujsor/>
-E) Céltartalékok 253 651 13 624 267 275<ujsor/>
-F) Kötelezettségek 5 100 274 7 054 129 12 044 030<ujsor/>
-I. Hosszú lejáratú kötelezettségek 41 808 3 066 138 3 107 946<ujsor/>
-II. Rövid lejáratú kötelezettségek 5 058 466 3 987 991 8 936 084<ujsor/>
-G) Passzív idõbeli elhatárolások 592 876 337 893 906 153<ujsor/>
-ÖSSZESEN: 18 090 205 8 079 643 19 826 957<ujsor/>
-A törzstõke összegén belül a pénzbeli és nem pénzbeli hozzájárulás aránya:<ujsor/>
-Pénzbeli hozzájárulás: 3 000 000 Ft.<ujsor/>
-Nem pénzbeli hozzájárulás: 5 997 000 000 Ft.<ujsor/>
-Az átvevõ Nestlé Hungária Kft. tevékenységi köre (TEÁOR): 1584 Édesség gyártása; 1586 Tea, kávé feldolgozása; 5136 Cukor-, édesség-nagykereskedelem; 5137 Kávé-, tea-, kakaó-, fûszer-nagykereskedelem; 5138 Egyéb élelmiszer nagykereskedelme; 5170 Egyéb nagykereskedelem; 7412 Számviteli, könyvvizsgálói, adószakértõi tevékenység; 7484 Máshova nem sorolt, egyéb gazdasági tevékenységet segítõ szolgáltatás; 1511 Húsfeldolgozás, -tartósítás; 1520 Halfeldolgozás; 1571 Haszonállat-eledel gyártása; 1572 Hobbiállat-eledel gyártása; 5132 Hús-, húskészítmény-nagykereskedelem; 7020 Ingatlan bérbeadása, üzemeltetése; 7413 Piac- és közvélemény-kutatás; 7414 Üzletviteli tanácsadás; 7420 Mérnöki tevékenység, tanácsadás; 7210 Hardver-szaktanácsadás; 7220 Szoftverkészítés, -szaktanácsadás.<ujsor/>
-Az átvevõ Nestlé Hungária Kft. vezetõ tisztségviselõjének neve és címe: Victor M. Espirito-Santo, 1013 Budapest, Ybl Miklós tér 8. (anyja leánykori neve: Elvira de Jesus de Almeida).<ujsor/>
-Az átvevõ Nestlé Hungária Kft. felügyelõbizottsági tagjainak neve és címe:<ujsor/>
-- Peter Vogt, 3 H. Spoerrystrasse - 9436 Balgach, Switzerland (anyja leánykori neve: Margrit Gygax),<ujsor/>
-- Trevor-Douglas Brown, 32 Chemin de Bellevue, 1005 Lausanne, Switzerland (anyja leánykori neve: Margaret Joyce Smeeth),<ujsor/>
-- Armin R. Frey, CH 1800 Vevey, avenue Nestlé 55. (anyja leánykori neve: Elisabeth Pfizenmaier),<ujsor/>
-- Didier R. Focking, A-1010 Wien, Riemergasse 1-3/18. (anyja leánykori neve: Evoléne Brieger),<ujsor/>
-- Béres Mária, 3900 Szerencs, Kossuth tér 2. I. 4. (anyja leánykori neve: Fekete Apollónia),<ujsor/>
-- Erdõs Gábor, 2093 Budajenõ, Ady E. u. 71. (anyja leánykori neve: László Ágnes).<ujsor/>
-Az átvevõ Nestlé Hungária Kft. könyvvizsgálójának neve és címe: KPMG Hungária Kft., 1139 Budapest, Váci út 99., Könyvvizsgálói kamarai bejegyzésének száma: 000202.<ujsor/>
-A könyvvizsgálatért személyében is felelõs: dr. Cselõtei Istvánné, 2016 Leányfalu, Rigó u. 1/B (anyja leánykori neve: Takács Piroska), könyvvizsgálói igazolvány száma: 001136.<ujsor/>
-Bíróné Zeller Judit, 1047 Budapest, Liszt Ferenc u. 6/B (anyja leánykori neve: Vacula Irén), könyvvizsgálói igazolvány száma: 002994.<ujsor/>
-Cselõteiné tartós akadályoztatása esetén annak helyettese.<ujsor/>
-Felhívjuk a Jupiter Állatieledelgyártó Kft. mint beolvadó társaság hitelezõit, hogy követeléseiket a Gt. 66. §-a alapján a Nestlé Hungária Kft.-nek mint átvevõ társaságnak jelentsék be.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+D) SajÃ¡t tÅ‘ke 12 143 404 673 997 6 609 499<ujsor/>
+I. Jegyzett tÅ‘ke 12 722 600 520 000 6 000 000<ujsor/>
+III. TÅ‘ketartalÃ©k 545 956 9 380 545 956<ujsor/>
+IV. EredmÃ©nytartalÃ©k -1 125 152 144 617 63 543<ujsor/>
+E) CÃ©ltartalÃ©kok 253 651 13 624 267 275<ujsor/>
+F) KÃ¶telezettsÃ©gek 5 100 274 7 054 129 12 044 030<ujsor/>
+I. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 41 808 3 066 138 3 107 946<ujsor/>
+II. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 5 058 466 3 987 991 8 936 084<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 592 876 337 893 906 153<ujsor/>
+Ã–SSZESEN: 18 090 205 8 079 643 19 826 957<ujsor/>
+A tÃ¶rzstÅ‘ke Ã¶sszegÃ©n belÃ¼l a pÃ©nzbeli Ã©s nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s arÃ¡nya:<ujsor/>
+PÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s: 3 000 000 Ft.<ujsor/>
+Nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s: 5 997 000 000 Ft.<ujsor/>
+Az Ã¡tvevÅ‘ NestlÃ© HungÃ¡ria Kft. tevÃ©kenysÃ©gi kÃ¶re (TEÃOR): 1584 Ã‰dessÃ©g gyÃ¡rtÃ¡sa; 1586 Tea, kÃ¡vÃ© feldolgozÃ¡sa; 5136 Cukor-, Ã©dessÃ©g-nagykereskedelem; 5137 KÃ¡vÃ©-, tea-, kakaÃ³-, fÅ±szer-nagykereskedelem; 5138 EgyÃ©b Ã©lelmiszer nagykereskedelme; 5170 EgyÃ©b nagykereskedelem; 7412 SzÃ¡mviteli, kÃ¶nyvvizsgÃ¡lÃ³i, adÃ³szakÃ©rtÅ‘i tevÃ©kenysÃ©g; 7484 MÃ¡shova nem sorolt, egyÃ©b gazdasÃ¡gi tevÃ©kenysÃ©get segÃ­tÅ‘ szolgÃ¡ltatÃ¡s; 1511 HÃºsfeldolgozÃ¡s, -tartÃ³sÃ­tÃ¡s; 1520 HalfeldolgozÃ¡s; 1571 HaszonÃ¡llat-eledel gyÃ¡rtÃ¡sa; 1572 HobbiÃ¡llat-eledel gyÃ¡rtÃ¡sa; 5132 HÃºs-, hÃºskÃ©szÃ­tmÃ©ny-nagykereskedelem; 7020 Ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se; 7413 Piac- Ã©s kÃ¶zvÃ©lemÃ©ny-kutatÃ¡s; 7414 Ãœzletviteli tanÃ¡csadÃ¡s; 7420 MÃ©rnÃ¶ki tevÃ©kenysÃ©g, tanÃ¡csadÃ¡s; 7210 Hardver-szaktanÃ¡csadÃ¡s; 7220 SzoftverkÃ©szÃ­tÃ©s, -szaktanÃ¡csadÃ¡s.<ujsor/>
+Az Ã¡tvevÅ‘ NestlÃ© HungÃ¡ria Kft. vezetÅ‘ tisztsÃ©gviselÅ‘jÃ©nek neve Ã©s cÃ­me: Victor M. Espirito-Santo, 1013 Budapest, Ybl MiklÃ³s tÃ©r 8. (anyja leÃ¡nykori neve: Elvira de Jesus de Almeida).<ujsor/>
+Az Ã¡tvevÅ‘ NestlÃ© HungÃ¡ria Kft. felÃ¼gyelÅ‘bizottsÃ¡gi tagjainak neve Ã©s cÃ­me:<ujsor/>
+- Peter Vogt, 3 H. Spoerrystrasse - 9436 Balgach, Switzerland (anyja leÃ¡nykori neve: Margrit Gygax),<ujsor/>
+- Trevor-Douglas Brown, 32 Chemin de Bellevue, 1005 Lausanne, Switzerland (anyja leÃ¡nykori neve: Margaret Joyce Smeeth),<ujsor/>
+- Armin R. Frey, CH 1800 Vevey, avenue NestlÃ© 55. (anyja leÃ¡nykori neve: Elisabeth Pfizenmaier),<ujsor/>
+- Didier R. Focking, A-1010 Wien, Riemergasse 1-3/18. (anyja leÃ¡nykori neve: EvolÃ©ne Brieger),<ujsor/>
+- BÃ©res MÃ¡ria, 3900 Szerencs, Kossuth tÃ©r 2. I. 4. (anyja leÃ¡nykori neve: Fekete ApollÃ³nia),<ujsor/>
+- ErdÅ‘s GÃ¡bor, 2093 BudajenÅ‘, Ady E. u. 71. (anyja leÃ¡nykori neve: LÃ¡szlÃ³ Ãgnes).<ujsor/>
+Az Ã¡tvevÅ‘ NestlÃ© HungÃ¡ria Kft. kÃ¶nyvvizsgÃ¡lÃ³jÃ¡nak neve Ã©s cÃ­me: KPMG HungÃ¡ria Kft., 1139 Budapest, VÃ¡ci Ãºt 99., KÃ¶nyvvizsgÃ¡lÃ³i kamarai bejegyzÃ©sÃ©nek szÃ¡ma: 000202.<ujsor/>
+A kÃ¶nyvvizsgÃ¡latÃ©rt szemÃ©lyÃ©ben is felelÅ‘s: dr. CselÅ‘tei IstvÃ¡nnÃ©, 2016 LeÃ¡nyfalu, RigÃ³ u. 1/B (anyja leÃ¡nykori neve: TakÃ¡cs Piroska), kÃ¶nyvvizsgÃ¡lÃ³i igazolvÃ¡ny szÃ¡ma: 001136.<ujsor/>
+BÃ­rÃ³nÃ© Zeller Judit, 1047 Budapest, Liszt Ferenc u. 6/B (anyja leÃ¡nykori neve: Vacula IrÃ©n), kÃ¶nyvvizsgÃ¡lÃ³i igazolvÃ¡ny szÃ¡ma: 002994.<ujsor/>
+CselÅ‘teinÃ© tartÃ³s akadÃ¡lyoztatÃ¡sa esetÃ©n annak helyettese.<ujsor/>
+FelhÃ­vjuk a Jupiter ÃllatieledelgyÃ¡rtÃ³ Kft. mint beolvadÃ³ tÃ¡rsasÃ¡g hitelezÅ‘it, hogy kÃ¶vetelÃ©seiket a Gt. 66. Â§-a alapjÃ¡n a NestlÃ© HungÃ¡ria Kft.-nek mint Ã¡tvevÅ‘ tÃ¡rsasÃ¡gnak jelentsÃ©k be.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109267926</mezo>
-<mezo id = "nev">Nestlé Hungária Kft</mezo>
+<mezo id = "nev">NestlÃ© HungÃ¡ria Kft</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság által Cg. [01 09 267926] cégjegyzékszám alatt nyilvántartásba vett, 1013 Budapest, Ybl Miklós tér 8. sz. alatti székhelyû Nestlé Hungária Kft. és a Vas Megyei Bíróság mint Cégbíróság által Cg. [18 09 000021] cégjegyzékszám alatt nyilvántartásba vett, 9737 Bük, Darling u. 1. sz. alatti székhelyû Jupiter Állatieledelgyártó Kft.<ujsor/>
-egyesül.<ujsor/>
-Az egyesülés módja: beolvadás.<ujsor/>
-A Jupiter Állatieledelgyártó Kft. mint beolvadó társaság beolvad a Nestlé Hungária Kft.-be mint átvevõ társaságba.<ujsor/>
-Az átvevõ társaság alapító okirata módosításának napja: 2000. február 25.<ujsor/>
-Az egyesülõ társaságok vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-ESZKÖZÖK Nestlé Jupiter Nestlé<ujsor/>
- Hungária Kft. Állatieledelgyártó Kft. Hungária Kft.<ujsor/>
- (záró) (záró) (nyitó)<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g Ã¡ltal Cg. [01 09 267926] cÃ©gjegyzÃ©kszÃ¡m alatt nyilvÃ¡ntartÃ¡sba vett, 1013 Budapest, Ybl MiklÃ³s tÃ©r 8. sz. alatti szÃ©khelyÅ± NestlÃ© HungÃ¡ria Kft. Ã©s a Vas Megyei BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g Ã¡ltal Cg. [18 09 000021] cÃ©gjegyzÃ©kszÃ¡m alatt nyilvÃ¡ntartÃ¡sba vett, 9737 BÃ¼k, Darling u. 1. sz. alatti szÃ©khelyÅ± Jupiter ÃllatieledelgyÃ¡rtÃ³ Kft.<ujsor/>
+egyesÃ¼l.<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: beolvadÃ¡s.<ujsor/>
+A Jupiter ÃllatieledelgyÃ¡rtÃ³ Kft. mint beolvadÃ³ tÃ¡rsasÃ¡g beolvad a NestlÃ© HungÃ¡ria Kft.-be mint Ã¡tvevÅ‘ tÃ¡rsasÃ¡gba.<ujsor/>
+Az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g alapÃ­tÃ³ okirata mÃ³dosÃ­tÃ¡sÃ¡nak napja: 2000. februÃ¡r 25.<ujsor/>
+Az egyesÃ¼lÅ‘ tÃ¡rsasÃ¡gok vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K NestlÃ© Jupiter NestlÃ©<ujsor/>
+ HungÃ¡ria Kft. ÃllatieledelgyÃ¡rtÃ³ Kft. HungÃ¡ria Kft.<ujsor/>
+ (zÃ¡rÃ³) (zÃ¡rÃ³) (nyitÃ³)<ujsor/>
  (E Ft) (E Ft) (E Ft)<ujsor/>
-A) Befektetett eszközök 11 609 843 4 858 371 10 260 312<ujsor/>
-I. Immateriális javak 93 917 67 545 161 462<ujsor/>
-II. Tárgyi eszközök 5 219 745 4 789 276 10 009 021<ujsor/>
-III. Befektetett pénzügyi eszközök 6 296 181 1 550 89 829<ujsor/>
-B) Forgóeszközök 6 321 933 2 909 126 9 120 686<ujsor/>
-I. Készletek 2 041 524 1 086 251 3 127 775<ujsor/>
-II. Követelések 4 121 124 1 797 222 5 807 973<ujsor/>
-III. Pénzeszközök 159 285 25 653 184 938<ujsor/>
-C) Aktív idõbeli elhatárolások 158 429 312 146 445 959<ujsor/>
-ÖSSZESEN: 18 090 205 8 079 643 19 826 957<ujsor/>
-FORRÁSOK Nestlé Jupiter Nestlé<ujsor/>
- Hungária Kft. Állatieledelgyártó Kft. Hungária Kft.<ujsor/>
- (záró) (záró) (nyitó)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 11 609 843 4 858 371 10 260 312<ujsor/>
+I. ImmateriÃ¡lis javak 93 917 67 545 161 462<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 5 219 745 4 789 276 10 009 021<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 6 296 181 1 550 89 829<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 6 321 933 2 909 126 9 120 686<ujsor/>
+I. KÃ©szletek 2 041 524 1 086 251 3 127 775<ujsor/>
+II. KÃ¶vetelÃ©sek 4 121 124 1 797 222 5 807 973<ujsor/>
+III. PÃ©nzeszkÃ¶zÃ¶k 159 285 25 653 184 938<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 158 429 312 146 445 959<ujsor/>
+Ã–SSZESEN: 18 090 205 8 079 643 19 826 957<ujsor/>
+FORRÃSOK NestlÃ© Jupiter NestlÃ©<ujsor/>
+ HungÃ¡ria Kft. ÃllatieledelgyÃ¡rtÃ³ Kft. HungÃ¡ria Kft.<ujsor/>
+ (zÃ¡rÃ³) (zÃ¡rÃ³) (nyitÃ³)<ujsor/>
  (E Ft) (E Ft) (E Ft)<ujsor/>
-D) Saját tõke 12 143 404 673 997 6 609 499<ujsor/>
-I. Jegyzett tõke 12 722 600 520 000 6 000 000<ujsor/>
-III. Tõketartalék 545 956 9 380 545 956<ujsor/>
-IV. Eredménytartalék -1 125 152 144 617 63 543<ujsor/>
-E) Céltartalékok 253 651 13 624 267 275<ujsor/>
-F) Kötelezettségek 5 100 274 7 054 129 12 044 030<ujsor/>
-I. Hosszú lejáratú kötelezettségek 41 808 3 066 138 3 107 946<ujsor/>
-II. Rövid lejáratú kötelezettségek 5 058 466 3 987 991 8 936 084<ujsor/>
-G) Passzív idõbeli elhatárolások 592 876 337 893 906 153<ujsor/>
-ÖSSZESEN: 18 090 205 8 079 643 19 826 957<ujsor/>
-A törzstõke összegén belül a pénzbeli és nem pénzbeli hozzájárulás aránya:<ujsor/>
-Pénzbeli hozzájárulás: 3 000 000 Ft.<ujsor/>
-Nem pénzbeli hozzájárulás: 5 997 000 000 Ft.<ujsor/>
-Az átvevõ Nestlé Hungária Kft. tevékenységi köre (TEÁOR): 1584 Édesség gyártása; 1586 Tea, kávé feldolgozása; 5136 Cukor-, édesség-nagykereskedelem; 5137 Kávé-, tea-, kakaó-, fûszer-nagykereskedelem; 5138 Egyéb élelmiszer nagykereskedelme; 5170 Egyéb nagykereskedelem; 7412 Számviteli, könyvvizsgálói, adószakértõi tevékenység; 7484 Máshova nem sorolt, egyéb gazdasági tevékenységet segítõ szolgáltatás; 1511 Húsfeldolgozás, -tartósítás; 1520 Halfeldolgozás; 1571 Haszonállat-eledel gyártása; 1572 Hobbiállat-eledel gyártása; 5132 Hús-, húskészítmény-nagykereskedelem; 7020 Ingatlan bérbeadása, üzemeltetése; 7413 Piac- és közvélemény-kutatás; 7414 Üzletviteli tanácsadás; 7420 Mérnöki tevékenység, tanácsadás; 7210 Hardver-szaktanácsadás; 7220 Szoftverkészítés, -szaktanácsadás.<ujsor/>
-Az átvevõ Nestlé Hungária Kft. vezetõ tisztségviselõjének neve és címe: Victor M. Espirito-Santo, 1013 Budapest, Ybl Miklós tér 8. (anyja leánykori neve: Elvira de Jesus de Almeida).<ujsor/>
-Az átvevõ Nestlé Hungária Kft. felügyelõbizottsági tagjainak neve és címe:<ujsor/>
-- Peter Vogt, 3 H. Spoerrystrasse - 9436 Balgach, Switzerland (anyja leánykori neve: Margrit Gygax),<ujsor/>
-- Trevor-Douglas Brown, 32 Chemin de Bellevue, 1005 Lausanne, Switzerland (anyja leánykori neve: Margaret Joyce Smeeth),<ujsor/>
-- Armin R. Frey, CH 1800 Vevey, avenue Nestlé 55. (anyja leánykori neve: Elisabeth Pfizenmaier),<ujsor/>
-- Didier R. Focking, A-1010 Wien, Riemergasse 1-3/18. (anyja leánykori neve: Evoléne Brieger),<ujsor/>
-- Béres Mária, 3900 Szerencs, Kossuth tér 2. I. 4. (anyja leánykori neve: Fekete Apollónia),<ujsor/>
-- Erdõs Gábor, 2093 Budajenõ, Ady E. u. 71. (anyja leánykori neve: László Ágnes).<ujsor/>
-Az átvevõ Nestlé Hungária Kft. könyvvizsgálójának neve és címe: KPMG Hungária Kft., 1139 Budapest, Váci út 99., Könyvvizsgálói kamarai bejegyzésének száma: 000202.<ujsor/>
-A könyvvizsgálatért személyében is felelõs: dr. Cselõtei Istvánné, 2016 Leányfalu, Rigó u. 1/B (anyja leánykori neve: Takács Piroska), könyvvizsgálói igazolványának száma: 001136.<ujsor/>
-Bíróné Zeller Judit, 1047 Budapest, Liszt Ferenc u. 6/B (anyja leánykori neve: Vacula Irén), könyvvizsgálói igazolványának száma: 002994.<ujsor/>
-Cselõteiné tartós akadályoztatása esetén annak helyettese.<ujsor/>
-Felhívjuk a Jupiter Állatieledelgyártó Kft. mint beolvadó társaság hitelezõit, hogy követeléseiket a Gt. 66. §-a alapján a Nestlé Hungária Kft.-nek mint átvevõ társaságnak jelentsék be.<ujsor/>
-(Második közzététel.)<ujsor/>
+D) SajÃ¡t tÅ‘ke 12 143 404 673 997 6 609 499<ujsor/>
+I. Jegyzett tÅ‘ke 12 722 600 520 000 6 000 000<ujsor/>
+III. TÅ‘ketartalÃ©k 545 956 9 380 545 956<ujsor/>
+IV. EredmÃ©nytartalÃ©k -1 125 152 144 617 63 543<ujsor/>
+E) CÃ©ltartalÃ©kok 253 651 13 624 267 275<ujsor/>
+F) KÃ¶telezettsÃ©gek 5 100 274 7 054 129 12 044 030<ujsor/>
+I. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 41 808 3 066 138 3 107 946<ujsor/>
+II. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 5 058 466 3 987 991 8 936 084<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 592 876 337 893 906 153<ujsor/>
+Ã–SSZESEN: 18 090 205 8 079 643 19 826 957<ujsor/>
+A tÃ¶rzstÅ‘ke Ã¶sszegÃ©n belÃ¼l a pÃ©nzbeli Ã©s nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s arÃ¡nya:<ujsor/>
+PÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s: 3 000 000 Ft.<ujsor/>
+Nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s: 5 997 000 000 Ft.<ujsor/>
+Az Ã¡tvevÅ‘ NestlÃ© HungÃ¡ria Kft. tevÃ©kenysÃ©gi kÃ¶re (TEÃOR): 1584 Ã‰dessÃ©g gyÃ¡rtÃ¡sa; 1586 Tea, kÃ¡vÃ© feldolgozÃ¡sa; 5136 Cukor-, Ã©dessÃ©g-nagykereskedelem; 5137 KÃ¡vÃ©-, tea-, kakaÃ³-, fÅ±szer-nagykereskedelem; 5138 EgyÃ©b Ã©lelmiszer nagykereskedelme; 5170 EgyÃ©b nagykereskedelem; 7412 SzÃ¡mviteli, kÃ¶nyvvizsgÃ¡lÃ³i, adÃ³szakÃ©rtÅ‘i tevÃ©kenysÃ©g; 7484 MÃ¡shova nem sorolt, egyÃ©b gazdasÃ¡gi tevÃ©kenysÃ©get segÃ­tÅ‘ szolgÃ¡ltatÃ¡s; 1511 HÃºsfeldolgozÃ¡s, -tartÃ³sÃ­tÃ¡s; 1520 HalfeldolgozÃ¡s; 1571 HaszonÃ¡llat-eledel gyÃ¡rtÃ¡sa; 1572 HobbiÃ¡llat-eledel gyÃ¡rtÃ¡sa; 5132 HÃºs-, hÃºskÃ©szÃ­tmÃ©ny-nagykereskedelem; 7020 Ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se; 7413 Piac- Ã©s kÃ¶zvÃ©lemÃ©ny-kutatÃ¡s; 7414 Ãœzletviteli tanÃ¡csadÃ¡s; 7420 MÃ©rnÃ¶ki tevÃ©kenysÃ©g, tanÃ¡csadÃ¡s; 7210 Hardver-szaktanÃ¡csadÃ¡s; 7220 SzoftverkÃ©szÃ­tÃ©s, -szaktanÃ¡csadÃ¡s.<ujsor/>
+Az Ã¡tvevÅ‘ NestlÃ© HungÃ¡ria Kft. vezetÅ‘ tisztsÃ©gviselÅ‘jÃ©nek neve Ã©s cÃ­me: Victor M. Espirito-Santo, 1013 Budapest, Ybl MiklÃ³s tÃ©r 8. (anyja leÃ¡nykori neve: Elvira de Jesus de Almeida).<ujsor/>
+Az Ã¡tvevÅ‘ NestlÃ© HungÃ¡ria Kft. felÃ¼gyelÅ‘bizottsÃ¡gi tagjainak neve Ã©s cÃ­me:<ujsor/>
+- Peter Vogt, 3 H. Spoerrystrasse - 9436 Balgach, Switzerland (anyja leÃ¡nykori neve: Margrit Gygax),<ujsor/>
+- Trevor-Douglas Brown, 32 Chemin de Bellevue, 1005 Lausanne, Switzerland (anyja leÃ¡nykori neve: Margaret Joyce Smeeth),<ujsor/>
+- Armin R. Frey, CH 1800 Vevey, avenue NestlÃ© 55. (anyja leÃ¡nykori neve: Elisabeth Pfizenmaier),<ujsor/>
+- Didier R. Focking, A-1010 Wien, Riemergasse 1-3/18. (anyja leÃ¡nykori neve: EvolÃ©ne Brieger),<ujsor/>
+- BÃ©res MÃ¡ria, 3900 Szerencs, Kossuth tÃ©r 2. I. 4. (anyja leÃ¡nykori neve: Fekete ApollÃ³nia),<ujsor/>
+- ErdÅ‘s GÃ¡bor, 2093 BudajenÅ‘, Ady E. u. 71. (anyja leÃ¡nykori neve: LÃ¡szlÃ³ Ãgnes).<ujsor/>
+Az Ã¡tvevÅ‘ NestlÃ© HungÃ¡ria Kft. kÃ¶nyvvizsgÃ¡lÃ³jÃ¡nak neve Ã©s cÃ­me: KPMG HungÃ¡ria Kft., 1139 Budapest, VÃ¡ci Ãºt 99., KÃ¶nyvvizsgÃ¡lÃ³i kamarai bejegyzÃ©sÃ©nek szÃ¡ma: 000202.<ujsor/>
+A kÃ¶nyvvizsgÃ¡latÃ©rt szemÃ©lyÃ©ben is felelÅ‘s: dr. CselÅ‘tei IstvÃ¡nnÃ©, 2016 LeÃ¡nyfalu, RigÃ³ u. 1/B (anyja leÃ¡nykori neve: TakÃ¡cs Piroska), kÃ¶nyvvizsgÃ¡lÃ³i igazolvÃ¡nyÃ¡nak szÃ¡ma: 001136.<ujsor/>
+BÃ­rÃ³nÃ© Zeller Judit, 1047 Budapest, Liszt Ferenc u. 6/B (anyja leÃ¡nykori neve: Vacula IrÃ©n), kÃ¶nyvvizsgÃ¡lÃ³i igazolvÃ¡nyÃ¡nak szÃ¡ma: 002994.<ujsor/>
+CselÅ‘teinÃ© tartÃ³s akadÃ¡lyoztatÃ¡sa esetÃ©n annak helyettese.<ujsor/>
+FelhÃ­vjuk a Jupiter ÃllatieledelgyÃ¡rtÃ³ Kft. mint beolvadÃ³ tÃ¡rsasÃ¡g hitelezÅ‘it, hogy kÃ¶vetelÃ©seiket a Gt. 66. Â§-a alapjÃ¡n a NestlÃ© HungÃ¡ria Kft.-nek mint Ã¡tvevÅ‘ tÃ¡rsasÃ¡gnak jelentsÃ©k be.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109267926</mezo>
-<mezo id = "nev">Nestlé Hungária Kft</mezo>
+<mezo id = "nev">NestlÃ© HungÃ¡ria Kft</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Nestlé Nederland B.V. [székhelye: Diemermere 1, NL-1112 TA Diemen, Hollandia; képviseli: J. C. M. Krielen elnök; cégjegyzékszáma: 33.129.581 (Chamber of Commerce and Industries for Amsterdam)] tájékoztatásul közzéteszi, hogy a Nestlé Hungária Kft. (1013 Budapest, Ybl Miklós tér 8.; Cg.: [01 09 267926]) üzletrészeinek 100%-át - 2001. december 10-én - megszerezte, ami, a Gt. 291. §-a alapján, közvetlen irányítást biztosító befolyásnak minõsül.<ujsor/>
-A hitelezõk a mai naptól élhetnek a Gt. 296. § (2) bekezdésében biztosított jogaikkal.<ujsor/>
+<mezo id = "szoveg">A NestlÃ© Nederland B.V. [szÃ©khelye: Diemermere 1, NL-1112 TA Diemen, Hollandia; kÃ©pviseli: J. C. M. Krielen elnÃ¶k; cÃ©gjegyzÃ©kszÃ¡ma: 33.129.581 (Chamber of Commerce and Industries for Amsterdam)] tÃ¡jÃ©koztatÃ¡sul kÃ¶zzÃ©teszi, hogy a NestlÃ© HungÃ¡ria Kft. (1013 Budapest, Ybl MiklÃ³s tÃ©r 8.; Cg.: [01 09 267926]) Ã¼zletrÃ©szeinek 100%-Ã¡t - 2001. december 10-Ã©n - megszerezte, ami, a Gt. 291. Â§-a alapjÃ¡n, kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡snak minÅ‘sÃ¼l.<ujsor/>
+A hitelezÅ‘k a mai naptÃ³l Ã©lhetnek a Gt. 296. Â§ (2) bekezdÃ©sÃ©ben biztosÃ­tott jogaikkal.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109267926</mezo>
-<mezo id = "nev">Nestlé Hungária Kft</mezo>
+<mezo id = "nev">NestlÃ© HungÃ¡ria Kft</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2003. 04. 28-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. Markács Ágnes (an: Dr. Szakály Blanka) állateledel üzletágban személyzeti vezetõ<ujsor/>
-9700 Szombathely, Mátyás király u. 24.<ujsor/>
- Törölve: 2002. 04. 15-i hatállyal.<ujsor/>
- Valentics Lászlóné (an: Kovács Jolán) bérelszámoló csoport vezetõje<ujsor/>
-2146 Mogyoród, Veresegyházi út 14.<ujsor/>
- Törölve: 2002. 05. 07-i hatállyal.<ujsor/>
- Laurent Henri Bruno Frsixe (an: Maryse Tagger) ügyvezetõ<ujsor/>
-Külföldi cím: FR 75012 Paris, 20 rue Sibuet.<ujsor/>
- Kézbesítési megbízott: Madari Mariann (an: Sztupjánszky Margit)<ujsor/>
-1013 Budapest, Ybl Miklós tér 8.<ujsor/>
- Törölve: 2003. 04. 01-i hatállyal.<ujsor/>
- Takács Miklósné (an: Csákó Mária) személyzeti igazgató a szerencsi gyárban<ujsor/>
-3532 Miskolc, Testvériség u. 28.<ujsor/>
- Törölve: 2003. 03. 27-i hatállyal.<ujsor/>
- Markócs Ágnes (an: Dr. Szakály Blanka) állateledel üzletágban személyzeti vezetõ<ujsor/>
-9700 Szombathely, Mátyás király u. 24.<ujsor/>
- Hatályos: 2002. 04. 15-tõl.<ujsor/>
- Volentics Lászlóné (an: Kovács Jolán) bérelszámoló csoport vezetõje<ujsor/>
-2146 Mogyoród, Veresegyházi út 14.<ujsor/>
- Hatályos: 2002. 05. 07-tõl.<ujsor/>
- Laurent Henri Bruno Freixe (an: Maryse Tagger) ügyvezetõ<ujsor/>
-Külföldi cím: FR 75012 Paris, rue Sibuet 20.<ujsor/>
- Kézbesítési megbízott: Madari Mariann (an: Sztupjánszky Margit)<ujsor/>
-1013 Budapest, Ybl Miklós tér 8.<ujsor/>
- Hatályos: 2003. 04. 01-tõl.<ujsor/>
- Takács Miklósné (an: Csákó Mária) személyzeti vezetõ a szerencsi gyárban<ujsor/>
-3532 Miskolc, Testvériség u. 28.<ujsor/>
- Hatályos: 2003. 03. 27-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2003. 04. 28-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. MarkÃ¡cs Ãgnes (an: Dr. SzakÃ¡ly Blanka) Ã¡llateledel Ã¼zletÃ¡gban szemÃ©lyzeti vezetÅ‘<ujsor/>
+9700 Szombathely, MÃ¡tyÃ¡s kirÃ¡ly u. 24.<ujsor/>
+ TÃ¶rÃ¶lve: 2002. 04. 15-i hatÃ¡llyal.<ujsor/>
+ Valentics LÃ¡szlÃ³nÃ© (an: KovÃ¡cs JolÃ¡n) bÃ©relszÃ¡molÃ³ csoport vezetÅ‘je<ujsor/>
+2146 MogyorÃ³d, VeresegyhÃ¡zi Ãºt 14.<ujsor/>
+ TÃ¶rÃ¶lve: 2002. 05. 07-i hatÃ¡llyal.<ujsor/>
+ Laurent Henri Bruno Frsixe (an: Maryse Tagger) Ã¼gyvezetÅ‘<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: FR 75012 Paris, 20 rue Sibuet.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott: Madari Mariann (an: SztupjÃ¡nszky Margit)<ujsor/>
+1013 Budapest, Ybl MiklÃ³s tÃ©r 8.<ujsor/>
+ TÃ¶rÃ¶lve: 2003. 04. 01-i hatÃ¡llyal.<ujsor/>
+ TakÃ¡cs MiklÃ³snÃ© (an: CsÃ¡kÃ³ MÃ¡ria) szemÃ©lyzeti igazgatÃ³ a szerencsi gyÃ¡rban<ujsor/>
+3532 Miskolc, TestvÃ©risÃ©g u. 28.<ujsor/>
+ TÃ¶rÃ¶lve: 2003. 03. 27-i hatÃ¡llyal.<ujsor/>
+ MarkÃ³cs Ãgnes (an: Dr. SzakÃ¡ly Blanka) Ã¡llateledel Ã¼zletÃ¡gban szemÃ©lyzeti vezetÅ‘<ujsor/>
+9700 Szombathely, MÃ¡tyÃ¡s kirÃ¡ly u. 24.<ujsor/>
+ HatÃ¡lyos: 2002. 04. 15-tÅ‘l.<ujsor/>
+ Volentics LÃ¡szlÃ³nÃ© (an: KovÃ¡cs JolÃ¡n) bÃ©relszÃ¡molÃ³ csoport vezetÅ‘je<ujsor/>
+2146 MogyorÃ³d, VeresegyhÃ¡zi Ãºt 14.<ujsor/>
+ HatÃ¡lyos: 2002. 05. 07-tÅ‘l.<ujsor/>
+ Laurent Henri Bruno Freixe (an: Maryse Tagger) Ã¼gyvezetÅ‘<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: FR 75012 Paris, rue Sibuet 20.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott: Madari Mariann (an: SztupjÃ¡nszky Margit)<ujsor/>
+1013 Budapest, Ybl MiklÃ³s tÃ©r 8.<ujsor/>
+ HatÃ¡lyos: 2003. 04. 01-tÅ‘l.<ujsor/>
+ TakÃ¡cs MiklÃ³snÃ© (an: CsÃ¡kÃ³ MÃ¡ria) szemÃ©lyzeti vezetÅ‘ a szerencsi gyÃ¡rban<ujsor/>
+3532 Miskolc, TestvÃ©risÃ©g u. 28.<ujsor/>
+ HatÃ¡lyos: 2003. 03. 27-tÅ‘l.<ujsor/>
 Bejegyezve: 2003. 09. 16.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109267926</mezo>
-<mezo id = "nev">Nestlé Hungária Kft.</mezo>
-<mezo id = "cim">1013 Budapest, Ybl Miklós tér 8.</mezo>
+<mezo id = "nev">NestlÃ© HungÃ¡ria Kft.</mezo>
+<mezo id = "cim">1013 Budapest, Ybl MiklÃ³s tÃ©r 8.</mezo>
 <mezo id = "adosz">10571086244</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2004. 03. 26-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. A képviselet módja: együttes.<ujsor/>
- Tisztsége: más munkavállaló.<ujsor/>
- Sidi Péter (an: Takács Ildikó)<ujsor/>
-4025 Debrecen, Széchenyi u. 11. I/4.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2004. 03. 26-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: mÃ¡s munkavÃ¡llalÃ³.<ujsor/>
+ Sidi PÃ©ter (an: TakÃ¡cs IldikÃ³)<ujsor/>
+4025 Debrecen, SzÃ©chenyi u. 11. I/4.<ujsor/>
  A jogviszony kezdete: 2004. 01. 27.<ujsor/>
- A képviselet módja: együttes.<ujsor/>
- Tisztsége: más munkavállaló.<ujsor/>
- Papp Szilvia (an: Donner Mária Rozália)<ujsor/>
-9700 Szombathely, Szent László király u. 4. B. IV/8.<ujsor/>
+ A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: mÃ¡s munkavÃ¡llalÃ³.<ujsor/>
+ Papp Szilvia (an: Donner MÃ¡ria RozÃ¡lia)<ujsor/>
+9700 Szombathely, Szent LÃ¡szlÃ³ kirÃ¡ly u. 4. B. IV/8.<ujsor/>
  A jogviszony kezdete: 2004. 01. 27.<ujsor/>
- Törölve: 2004. 01. 27-i hatállyal.<ujsor/>
- A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (tisztségviselõ).<ujsor/>
+ TÃ¶rÃ¶lve: 2004. 01. 27-i hatÃ¡llyal.<ujsor/>
+ A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (tisztsÃ©gviselÅ‘).<ujsor/>
  Laurent Henri Bruno Frsixe (an: Maryse Tagger)<ujsor/>
-Külföldi cím: FR 75012 Paris, 20 rue Sibuet.<ujsor/>
- Kézbesítési megbízott: Madari Mariann (an: Sztupjánszky Margit)<ujsor/>
-1013 Budapest, Ybl Miklós tér 8.<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: FR 75012 Paris, 20 rue Sibuet.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott: Madari Mariann (an: SztupjÃ¡nszky Margit)<ujsor/>
+1013 Budapest, Ybl MiklÃ³s tÃ©r 8.<ujsor/>
  A jogviszony kezdete: 2003. 04. 01.<ujsor/>
- A jogviszony vége: 2008. 04. 01.<ujsor/>
- Törölve: 2003. 04. 01-i hatállyal.<ujsor/>
- A képviselet módja: együttes.<ujsor/>
- Tisztsége: más munkavállaló.<ujsor/>
- Sidó Péter (an: Takács Ildikó)<ujsor/>
-4025 Debrecen, Széchenyi u. 11. I/4.<ujsor/>
+ A jogviszony vÃ©ge: 2008. 04. 01.<ujsor/>
+ TÃ¶rÃ¶lve: 2003. 04. 01-i hatÃ¡llyal.<ujsor/>
+ A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: mÃ¡s munkavÃ¡llalÃ³.<ujsor/>
+ SidÃ³ PÃ©ter (an: TakÃ¡cs IldikÃ³)<ujsor/>
+4025 Debrecen, SzÃ©chenyi u. 11. I/4.<ujsor/>
  A jogviszony kezdete: 2004. 01. 27.<ujsor/>
- A képviselet módja: együttes.<ujsor/>
- Tisztsége: más munkavállaló.<ujsor/>
- Pupp Szilvia (an: Donner Mária Rozália)<ujsor/>
-9700 Szombathely, Szent László király u. 4. B. IV/8.<ujsor/>
+ A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: mÃ¡s munkavÃ¡llalÃ³.<ujsor/>
+ Pupp Szilvia (an: Donner MÃ¡ria RozÃ¡lia)<ujsor/>
+9700 Szombathely, Szent LÃ¡szlÃ³ kirÃ¡ly u. 4. B. IV/8.<ujsor/>
  A jogviszony kezdete: 2004. 01. 27.<ujsor/>
- Hatályos: 2004. 01. 27-tõl.<ujsor/>
- A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (tisztségviselõ).<ujsor/>
+ HatÃ¡lyos: 2004. 01. 27-tÅ‘l.<ujsor/>
+ A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (tisztsÃ©gviselÅ‘).<ujsor/>
  Laurent Henri Bruno Freixe (an: Maryse Tagger)<ujsor/>
-Külföldi cím: FR 75012 Paris, 20 rue Sibuet.<ujsor/>
- Kézbesítési megbízott: Madari Mariann (an: Sztupjánszky Margit)<ujsor/>
-1013 Budapest, Ybl Miklós tér 8.<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: FR 75012 Paris, 20 rue Sibuet.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott: Madari Mariann (an: SztupjÃ¡nszky Margit)<ujsor/>
+1013 Budapest, Ybl MiklÃ³s tÃ©r 8.<ujsor/>
  A jogviszony kezdete: 2003. 04. 01.<ujsor/>
- A jogviszony vége: 2008. 04. 01.<ujsor/>
- Hatályos: 2004. 05. 01-tõl.<ujsor/>
+ A jogviszony vÃ©ge: 2008. 04. 01.<ujsor/>
+ HatÃ¡lyos: 2004. 05. 01-tÅ‘l.<ujsor/>
 Bejegyezve: 2004. 05. 21.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109267926</mezo>
-<mezo id = "nev">Nestlé Hungária Kft.</mezo>
-<mezo id = "cim">1013 Budapest, Ybl Miklós tér 8.</mezo>
+<mezo id = "nev">NestlÃ© HungÃ¡ria Kft.</mezo>
+<mezo id = "cim">1013 Budapest, Ybl MiklÃ³s tÃ©r 8.</mezo>
 <mezo id = "adosz">10571086244</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság a Cg.01-09-267926 cégjegyzékszámon bejegyzett Nestlé Hungária Kft (1095 Budapest, Lechner Ödön fasor 7.; adószáma: 10571086-2-44) kérelme alapján elrendeli az 2009. május 27. napján hozott Cg.01-09-267926 /182. számú végzésének kijavítását az alábbiak szerint:<ujsor/>
-5. A cég székhelye<ujsor/>
-1095 Budapest, Lechner Ödön fasor 7.<ujsor/>
-Vált. vége: 2009.05.15.<ujsor/>
-Törölve (végzés kelte): 2009. június 9.<ujsor/>
-1095 Budapest, Lechner Ödön fasor 7.<ujsor/>
-Vált. kezdete: 2009.05.01.<ujsor/>
-Bejegyezve (végzés kelte): 2009. június 9.<ujsor/>
-13. A képviseletre jogosult(ak) adatai<ujsor/>
-A képviselet módja: együttes.<ujsor/>
-Kaulics Emõke más munkavállaló (an.: Kiss Mária Ibolya)<ujsor/>
-3529 Miskolc, Gesztenyés út 21. III. em. 2.<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.01-09-267926 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett NestlÃ© HungÃ¡ria Kft (1095 Budapest, Lechner Ã–dÃ¶n fasor 7.; adÃ³szÃ¡ma: 10571086-2-44) kÃ©relme alapjÃ¡n elrendeli az 2009. mÃ¡jus 27. napjÃ¡n hozott Cg.01-09-267926 /182. szÃ¡mÃº vÃ©gzÃ©sÃ©nek kijavÃ­tÃ¡sÃ¡t az alÃ¡bbiak szerint:<ujsor/>
+5. A cÃ©g szÃ©khelye<ujsor/>
+1095 Budapest, Lechner Ã–dÃ¶n fasor 7.<ujsor/>
+VÃ¡lt. vÃ©ge: 2009.05.15.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2009. jÃºnius 9.<ujsor/>
+1095 Budapest, Lechner Ã–dÃ¶n fasor 7.<ujsor/>
+VÃ¡lt. kezdete: 2009.05.01.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2009. jÃºnius 9.<ujsor/>
+13. A kÃ©pviseletre jogosult(ak) adatai<ujsor/>
+A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+Kaulics EmÅ‘ke mÃ¡s munkavÃ¡llalÃ³ (an.: Kiss MÃ¡ria Ibolya)<ujsor/>
+3529 Miskolc, GesztenyÃ©s Ãºt 21. III. em. 2.<ujsor/>
 Jogv. kezdete: 2009.04.06.<ujsor/>
-Vált. vége: 2009.05.01.<ujsor/>
-Törölve (végzés kelte): 2009. június 9.<ujsor/>
-A képviselet módja: együttes.<ujsor/>
-Kaulics Emõke más munkavállaló (an.: Kiss Mária Ibolya)<ujsor/>
-3529 Miskolc, Gesztenyés út 21. III. em. 2.<ujsor/>
+VÃ¡lt. vÃ©ge: 2009.05.01.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2009. jÃºnius 9.<ujsor/>
+A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+Kaulics EmÅ‘ke mÃ¡s munkavÃ¡llalÃ³ (an.: Kiss MÃ¡ria Ibolya)<ujsor/>
+3529 Miskolc, GesztenyÃ©s Ãºt 21. III. em. 2.<ujsor/>
 Jogv. kezdete: 2009.04.06.<ujsor/>
-Vált. kezdete: 2009.04.06.<ujsor/>
-Bejegyezve (végzés kelte): 2009. június 9.<ujsor/>
-E végzés ellen fellebbezésnek nincs helye, azonban az ügyész, továbbá az, akire a végzés rendelkezést tartalmaz - a rendelkezés õt érintõ részére vonatkozóan - pert indíthat a cég ellen a cég székhelye szerint illetékes megyei bíróság elõtt a bejegyzõ végzés hatályon kívül helyezése iránt.<ujsor/>
-A per megindításának a bejegyzõ végzés Cégközlönyben való közzétételétõl, illetve - közzétételi kötelezettség hiányában - annak kézbesítésétõl számított 30 napon belül van helye. A határidõ elmulasztása jogvesztéssel jár.<ujsor/>
-2009. június 9.<ujsor/>
+VÃ¡lt. kezdete: 2009.04.06.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2009. jÃºnius 9.<ujsor/>
+E vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye, azonban az Ã¼gyÃ©sz, tovÃ¡bbÃ¡ az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s Å‘t Ã©rintÅ‘ rÃ©szÃ©re vonatkozÃ³an - pert indÃ­that a cÃ©g ellen a cÃ©g szÃ©khelye szerint illetÃ©kes megyei bÃ­rÃ³sÃ¡g elÅ‘tt a bejegyzÅ‘ vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt.<ujsor/>
+A per megindÃ­tÃ¡sÃ¡nak a bejegyzÅ‘ vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l, illetve - kÃ¶zzÃ©tÃ©teli kÃ¶telezettsÃ©g hiÃ¡nyÃ¡ban - annak kÃ©zbesÃ­tÃ©sÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l van helye. A hatÃ¡ridÅ‘ elmulasztÃ¡sa jogvesztÃ©ssel jÃ¡r.<ujsor/>
+2009. jÃºnius 9.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109267926</mezo>
-<mezo id = "nev">Nestlé Hungária Kft</mezo>
-<mezo id = "cim">1095 Budapest, Lechner Ödön fasor 7.</mezo>
+<mezo id = "nev">NestlÃ© HungÃ¡ria Kft</mezo>
+<mezo id = "cim">1095 Budapest, Lechner Ã–dÃ¶n fasor 7.</mezo>
 <mezo id = "adosz">10571086244</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság a Cg.01-09-267926 cégjegyzékszámon bejegyzett Nestlé Hungária Kft (1095 Budapest, Lechner Ödön fasor 7.; adószáma: 10571086-2-44) hivatalból elrendeli az 2010. április 16. napján hozott Cg.01-09-267926 /199. számú végzésének kiegészítését az alábbiak szerint:<ujsor/>
-13. A képviseletre jogosult(ak) adatai<ujsor/>
-A képviselet módja: önálló.<ujsor/>
-Adóazonosító jel: 8346753691<ujsor/>
-Andrea Zambelli vezetõ tisztségviselõ (ügyvezetõ) (an.: Clementina Serra)<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.01-09-267926 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett NestlÃ© HungÃ¡ria Kft (1095 Budapest, Lechner Ã–dÃ¶n fasor 7.; adÃ³szÃ¡ma: 10571086-2-44) hivatalbÃ³l elrendeli az 2010. Ã¡prilis 16. napjÃ¡n hozott Cg.01-09-267926 /199. szÃ¡mÃº vÃ©gzÃ©sÃ©nek kiegÃ©szÃ­tÃ©sÃ©t az alÃ¡bbiak szerint:<ujsor/>
+13. A kÃ©pviseletre jogosult(ak) adatai<ujsor/>
+A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+AdÃ³azonosÃ­tÃ³ jel: 8346753691<ujsor/>
+Andrea Zambelli vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘) (an.: Clementina Serra)<ujsor/>
 Jogv. kezdete: 2009.09.01.<ujsor/>
-Vált. kezdete: 2010.04.16.<ujsor/>
-Bejegyezve (végzés kelte): 2010. április 16.<ujsor/>
-E végzés ellen fellebbezésnek nincs helye, azonban az ügyész, továbbá az, akire a végzés rendelkezést tartalmaz - a rendelkezés õt érintõ részére vonatkozóan - pert indíthat a cég ellen a cég székhelye szerint illetékes megyei bíróság elõtt a bejegyzõ végzés hatályon kívül helyezése iránt.<ujsor/>
-A per megindításának a bejegyzõ végzés Cégközlönyben való közzétételétõl, illetve - közzétételi kötelezettség hiányában - annak kézbesítésétõl számított 30 napon belül van helye. A határidõ elmulasztása jogvesztéssel jár.<ujsor/>
-2010. április 16.<ujsor/>
+VÃ¡lt. kezdete: 2010.04.16.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2010. Ã¡prilis 16.<ujsor/>
+E vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye, azonban az Ã¼gyÃ©sz, tovÃ¡bbÃ¡ az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s Å‘t Ã©rintÅ‘ rÃ©szÃ©re vonatkozÃ³an - pert indÃ­that a cÃ©g ellen a cÃ©g szÃ©khelye szerint illetÃ©kes megyei bÃ­rÃ³sÃ¡g elÅ‘tt a bejegyzÅ‘ vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt.<ujsor/>
+A per megindÃ­tÃ¡sÃ¡nak a bejegyzÅ‘ vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l, illetve - kÃ¶zzÃ©tÃ©teli kÃ¶telezettsÃ©g hiÃ¡nyÃ¡ban - annak kÃ©zbesÃ­tÃ©sÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l van helye. A hatÃ¡ridÅ‘ elmulasztÃ¡sa jogvesztÃ©ssel jÃ¡r.<ujsor/>
+2010. Ã¡prilis 16.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109267926</mezo>
-<mezo id = "nev">Nestlé Hungária Kft</mezo>
-<mezo id = "cim">1095 Budapest, Lechner Ödön fasor 7.</mezo>
+<mezo id = "nev">NestlÃ© HungÃ¡ria Kft</mezo>
+<mezo id = "cim">1095 Budapest, Lechner Ã–dÃ¶n fasor 7.</mezo>
 <mezo id = "adosz">10571086244</mezo>
 </alrovat>
 </rovat>

@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">063179</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">1118 Budapest, Elõpatak utca 34. </mezo>
+<mezo id = "cim">1118 Budapest, ElÅ‘patak utca 34. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">10257911243</mezo>
 </alrovat>
@@ -13,13 +13,13 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19890822</mezo>
-<mezo id = "nev">OBJECT Mérnök-Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">OBJECT MÃ©rnÃ¶k-TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">19890822</mezo>
-<mezo id = "nev">OBJECT Mérnök-Tanácsadó Kft.</mezo>
+<mezo id = "nev">OBJECT MÃ©rnÃ¶k-TanÃ¡csadÃ³ Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
@@ -27,7 +27,7 @@
 <mezo id = "hattol">20110301</mezo>
 <mezo id = "irsz">1118</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Elõpatak utca 34.</mezo>
+<mezo id = "teru">ElÅ‘patak utca 34.</mezo>
 <mezo id = "valtk">20110301</mezo>
 <mezo id = "bkelt">20110405</mezo>
 </alrovat>
@@ -197,20 +197,20 @@
 <rovat id = "13">
 <alrovat id = "2">
 <mezo id = "hattol">19970201</mezo>
-<mezo id = "nev">Sánta Lajos ügyvezetõ</mezo>
+<mezo id = "nev">SÃ¡nta Lajos Ã¼gyvezetÅ‘</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1118</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Elõpatak u. 29.</mezo>
+<mezo id = "teru">ElÅ‘patak u. 29.</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20110301</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Sántha Lajos</mezo>
-<mezo id = "panev">Kozák Ilona</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">SÃ¡ntha Lajos</mezo>
+<mezo id = "panev">KozÃ¡k Ilona</mezo>
 <mezo id = "pirsz">1118</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Elõpatak utca 29.</mezo>
+<mezo id = "pteru">ElÅ‘patak utca 29.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20110301</mezo>
 <mezo id = "valtk">20110301</mezo>
@@ -242,14 +242,14 @@
 <rovat id = "0109">
 <alrovat id = "14">
 <mezo id = "hattol">19980331</mezo>
-<mezo id = "nev">Sántha Lajos</mezo>
+<mezo id = "nev">SÃ¡ntha Lajos</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1118</mezo>
-<mezo id = "hely">Budapest, Elõpatak u. 29.</mezo>
+<mezo id = "hely">Budapest, ElÅ‘patak u. 29.</mezo>
 </alrovat>
 <alrovat id = "16">
 <mezo id = "hattol">19980331</mezo>
-<mezo id = "nev">Katona Kiss Tamás</mezo>
+<mezo id = "nev">Katona Kiss TamÃ¡s</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1116</mezo>
 <mezo id = "hely">Budapest, Karcag u. 23.</mezo>
@@ -257,7 +257,7 @@
 <alrovat id = "19">
 <mezo id = "hattol">20061129</mezo>
 <mezo id = "cgjsz">109063179</mezo>
-<mezo id = "nev">OBJECT Mérnök-Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">OBJECT MÃ©rnÃ¶k-TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1027</mezo>
 <mezo id = "hely">Budapest, Margit krt. 64/B fszt. 8</mezo>
@@ -276,21 +276,21 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság az 1997. 04. 14-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. Sánta Lajos ügyvezetõ (an: Kozák Ilona)<ujsor/>
-1118 Budapest, Elõpatak u. 29.<ujsor/>
- Törölve: 1997. 02. 01-i hatállyal.<ujsor/>
- Sántha Lajos (an: Kozák Ilona) ügyvezetõ<ujsor/>
-1118 Budapest, Elõpatak u. 29.<ujsor/>
- Hatályos: 1997. 02. 01-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g az 1997. 04. 14-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. SÃ¡nta Lajos Ã¼gyvezetÅ‘ (an: KozÃ¡k Ilona)<ujsor/>
+1118 Budapest, ElÅ‘patak u. 29.<ujsor/>
+ TÃ¶rÃ¶lve: 1997. 02. 01-i hatÃ¡llyal.<ujsor/>
+ SÃ¡ntha Lajos (an: KozÃ¡k Ilona) Ã¼gyvezetÅ‘<ujsor/>
+1118 Budapest, ElÅ‘patak u. 29.<ujsor/>
+ HatÃ¡lyos: 1997. 02. 01-tÅ‘l.<ujsor/>
 21. 10257911-2-01.<ujsor/>
- Törölve: 1999. 12. 13-i hatállyal.<ujsor/>
+ TÃ¶rÃ¶lve: 1999. 12. 13-i hatÃ¡llyal.<ujsor/>
  10257911-2-41.<ujsor/>
- Hatályos: 1999. 12. 13-tól.<ujsor/>
+ HatÃ¡lyos: 1999. 12. 13-tÃ³l.<ujsor/>
 Bejegyezve: 1999. 12. 13.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109063179</mezo>
-<mezo id = "nev">OBJECT Mérnök-Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">OBJECT MÃ©rnÃ¶k-TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1027 Budapest, Margit krt. 64/B. fszt. 8.</mezo>
 <mezo id = "adosz">10257911241</mezo>
 </alrovat>

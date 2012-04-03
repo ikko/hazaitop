@@ -6,14 +6,14 @@
 <mezo id = "szam">000002</mezo>
 <mezo id = "nevalrovat">1</mezo>
 <mezo id = "allapot">6</mezo>
-<mezo id = "cim">6000 Kecskemét, Ipar u. 2. </mezo>
+<mezo id = "cim">6000 KecskemÃ©t, Ipar u. 2. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">18345564203</mezo>
 </alrovat>
 </rovat>
 <rovat id = "2">
 <alrovat id = "1">
-<mezo id = "nev">FILANTROP Környezetvédelmi és Fûtéstechnikai Közhasznú Társaság</mezo>
+<mezo id = "nev">FILANTROP KÃ¶rnyezetvÃ©delmi Ã©s FÅ±tÃ©stechnikai KÃ¶zhasznÃº TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -25,7 +25,7 @@
 <alrovat id = "3">
 <mezo id = "hattol">20040628</mezo>
 <mezo id = "irsz">6000</mezo>
-<mezo id = "hely">Kecskemét</mezo>
+<mezo id = "hely">KecskemÃ©t</mezo>
 <mezo id = "teru">Ipar u. 2.</mezo>
 <mezo id = "kirsz">0</mezo>
 </alrovat>
@@ -34,12 +34,12 @@
 <alrovat id = "4">
 <mezo id = "hattol">20040628</mezo>
 <mezo id = "irsz">6000</mezo>
-<mezo id = "hely">Kecskemét, Ipar u. 2.</mezo>
+<mezo id = "hely">KecskemÃ©t, Ipar u. 2.</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20080423</mezo>
 <mezo id = "irsz">6000</mezo>
-<mezo id = "hely">Kecskemét, Katona J. tér 8.</mezo>
+<mezo id = "hely">KecskemÃ©t, Katona J. tÃ©r 8.</mezo>
 <mezo id = "valtk">20080423</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20080516</mezo>
@@ -49,20 +49,20 @@
 <rovat id = "7">
 <alrovat id = "2">
 <mezo id = "irsz">6300</mezo>
-<mezo id = "hely">Kalocsa, Mócsy J. u. 3.</mezo>
+<mezo id = "hely">Kalocsa, MÃ³csy J. u. 3.</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "irsz">6500</mezo>
-<mezo id = "hely">Baja, Dózsa Gy. u. 112.</mezo>
+<mezo id = "hely">Baja, DÃ³zsa Gy. u. 112.</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "irsz">6100</mezo>
-<mezo id = "hely">Kiskunfélegyháza, Kossuth u. 15.</mezo>
+<mezo id = "hely">KiskunfÃ©legyhÃ¡za, Kossuth u. 15.</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20020104</mezo>
 <mezo id = "irsz">6326</mezo>
-<mezo id = "hely">Harta, Széchenyi u. 9.</mezo>
+<mezo id = "hely">Harta, SzÃ©chenyi u. 9.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "8">
@@ -661,10 +661,10 @@
 <rovat id = "13">
 <alrovat id = "7">
 <mezo id = "hattol">20080423</mezo>
-<mezo id = "pnev">Lõrincz Tibor</mezo>
+<mezo id = "pnev">LÅ‘rincz Tibor</mezo>
 <mezo id = "panev">Pallagi Ilona</mezo>
 <mezo id = "pirsz">6100</mezo>
-<mezo id = "phely">Kiskunfélegyháza, Ady E. u. 1-3.</mezo>
+<mezo id = "phely">KiskunfÃ©legyhÃ¡za, Ady E. u. 1-3.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">d</mezo>
 <mezo id = "jogvk">20080430</mezo>
@@ -678,10 +678,10 @@
 <rovat id = "14">
 <alrovat id = "4">
 <mezo id = "hattol">20070802</mezo>
-<mezo id = "pnev">Gyöngyösi Imre</mezo>
-<mezo id = "panev">Borsi Róza</mezo>
+<mezo id = "pnev">GyÃ¶ngyÃ¶si Imre</mezo>
+<mezo id = "panev">Borsi RÃ³za</mezo>
 <mezo id = "pirsz">6300</mezo>
-<mezo id = "phely">Kalocsa, Árendás u. 50.</mezo>
+<mezo id = "phely">Kalocsa, ÃrendÃ¡s u. 50.</mezo>
 <mezo id = "jogvk">20070601</mezo>
 <mezo id = "jogvv">20110531</mezo>
 <mezo id = "valtk">20070524</mezo>
@@ -691,10 +691,10 @@
 <rovat id = "15">
 <alrovat id = "14">
 <mezo id = "hattol">20070802</mezo>
-<mezo id = "pnev">Kovács Antal</mezo>
+<mezo id = "pnev">KovÃ¡cs Antal</mezo>
 <mezo id = "panev">Nagy Sarolta</mezo>
 <mezo id = "pirsz">6523</mezo>
-<mezo id = "phely">Csátalja, Erzsébet u. 4.</mezo>
+<mezo id = "phely">CsÃ¡talja, ErzsÃ©bet u. 4.</mezo>
 <mezo id = "jogvk">20070601</mezo>
 <mezo id = "jogvv">20110531</mezo>
 <mezo id = "valtk">20070524</mezo>
@@ -702,10 +702,10 @@
 </alrovat>
 <alrovat id = "15">
 <mezo id = "hattol">20070802</mezo>
-<mezo id = "pnev">Vörösmarty Attila</mezo>
+<mezo id = "pnev">VÃ¶rÃ¶smarty Attila</mezo>
 <mezo id = "panev">Matyus Margit Piroska</mezo>
 <mezo id = "pirsz">6000</mezo>
-<mezo id = "phely">Kecskemét, Tinódi u. 14/b.</mezo>
+<mezo id = "phely">KecskemÃ©t, TinÃ³di u. 14/b.</mezo>
 <mezo id = "jogvk">20070601</mezo>
 <mezo id = "jogvv">20110531</mezo>
 <mezo id = "valtk">20070524</mezo>
@@ -713,10 +713,10 @@
 </alrovat>
 <alrovat id = "17">
 <mezo id = "hattol">20070829</mezo>
-<mezo id = "pnev">Kohajda László</mezo>
+<mezo id = "pnev">Kohajda LÃ¡szlÃ³</mezo>
 <mezo id = "panev">Seres Ilona</mezo>
 <mezo id = "pirsz">6000</mezo>
-<mezo id = "phely">Kecskemét, Ág u. 36.</mezo>
+<mezo id = "phely">KecskemÃ©t, Ãg u. 36.</mezo>
 <mezo id = "jogvk">20070809</mezo>
 <mezo id = "jogvv">20110531</mezo>
 <mezo id = "valtk">20070829</mezo>
@@ -729,7 +729,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">19950101</mezo>
 <mezo id = "cgjsz">309103488</mezo>
-<mezo id = "nev">FILANTRÓP Környezetvédelmi és Fûtéstechnikai Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">FILANTRÃ“P KÃ¶rnyezetvÃ©delmi Ã©s FÅ±tÃ©stechnikai KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "20">
@@ -754,207 +754,207 @@
 <rovat id = "0214">
 <alrovat id = "6">
 <mezo id = "hattol">19950101</mezo>
-<mezo id = "nev">Jánoshalma Város Önkormányzat Képviselõ: Kiss György</mezo>
+<mezo id = "nev">JÃ¡noshalma VÃ¡ros Ã–nkormÃ¡nyzat KÃ©pviselÅ‘: Kiss GyÃ¶rgy</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">6440</mezo>
-<mezo id = "hely">Jánoshalma, Béke tér 1.</mezo>
+<mezo id = "hely">JÃ¡noshalma, BÃ©ke tÃ©r 1.</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">19950101</mezo>
-<mezo id = "nev">Mélykút Önkormányzat Képviselõ: Kiss Csepregi Ákos</mezo>
+<mezo id = "nev">MÃ©lykÃºt Ã–nkormÃ¡nyzat KÃ©pviselÅ‘: Kiss Csepregi Ãkos</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">6449</mezo>
-<mezo id = "hely">Mélykút, Petõfi tér 1.</mezo>
+<mezo id = "hely">MÃ©lykÃºt, PetÅ‘fi tÃ©r 1.</mezo>
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">19950101</mezo>
-<mezo id = "nev">Foktõ Önkormányzat Képviselõ: Gombos János</mezo>
+<mezo id = "nev">FoktÅ‘ Ã–nkormÃ¡nyzat KÃ©pviselÅ‘: Gombos JÃ¡nos</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">6331</mezo>
-<mezo id = "hely">Foktõ, Kossuth u. 2.</mezo>
+<mezo id = "hely">FoktÅ‘, Kossuth u. 2.</mezo>
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">19950101</mezo>
-<mezo id = "nev">Dusnok Önkormányzat Képviselõ: Szegedi Ágnes</mezo>
+<mezo id = "nev">Dusnok Ã–nkormÃ¡nyzat KÃ©pviselÅ‘: Szegedi Ãgnes</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">6353</mezo>
-<mezo id = "hely">Dusnok, István kir. u. 9.</mezo>
+<mezo id = "hely">Dusnok, IstvÃ¡n kir. u. 9.</mezo>
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">19950101</mezo>
-<mezo id = "nev">Bátya Önkormányzat Képviselõ: Sáfrán József</mezo>
+<mezo id = "nev">BÃ¡tya Ã–nkormÃ¡nyzat KÃ©pviselÅ‘: SÃ¡frÃ¡n JÃ³zsef</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">6351</mezo>
-<mezo id = "hely">Bátya, Kossuth u. 14.</mezo>
+<mezo id = "hely">BÃ¡tya, Kossuth u. 14.</mezo>
 </alrovat>
 <alrovat id = "11">
 <mezo id = "hattol">19950101</mezo>
-<mezo id = "nev">Nemesnádudvar Önkormányzat Képviselõ: Hidasi Antal</mezo>
+<mezo id = "nev">NemesnÃ¡dudvar Ã–nkormÃ¡nyzat KÃ©pviselÅ‘: Hidasi Antal</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">6345</mezo>
-<mezo id = "hely">Nemesnádudvar, Dózsa tér 1.</mezo>
+<mezo id = "hely">NemesnÃ¡dudvar, DÃ³zsa tÃ©r 1.</mezo>
 </alrovat>
 <alrovat id = "13">
 <mezo id = "hattol">19950101</mezo>
-<mezo id = "nev">Hajós Önkormányzat Képviselõ: Schön Ferenc</mezo>
+<mezo id = "nev">HajÃ³s Ã–nkormÃ¡nyzat KÃ©pviselÅ‘: SchÃ¶n Ferenc</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">6344</mezo>
-<mezo id = "hely">Hajós, Rákóczi u. 12.</mezo>
+<mezo id = "hely">HajÃ³s, RÃ¡kÃ³czi u. 12.</mezo>
 </alrovat>
 <alrovat id = "14">
 <mezo id = "hattol">19950101</mezo>
-<mezo id = "nev">Homokmégy Önkormányzat Képviselõ: Matos Attila</mezo>
+<mezo id = "nev">HomokmÃ©gy Ã–nkormÃ¡nyzat KÃ©pviselÅ‘: Matos Attila</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">6341</mezo>
-<mezo id = "hely">Homokmégy, Kossuth u. 16.</mezo>
+<mezo id = "hely">HomokmÃ©gy, Kossuth u. 16.</mezo>
 </alrovat>
 <alrovat id = "15">
 <mezo id = "hattol">19950101</mezo>
-<mezo id = "nev">Madaras Önkomrányzat Képviselõ: Szente Károly</mezo>
+<mezo id = "nev">Madaras Ã–nkomrÃ¡nyzat KÃ©pviselÅ‘: Szente KÃ¡roly</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">6456</mezo>
-<mezo id = "hely">Madaras, Báthory u. 1.</mezo>
+<mezo id = "hely">Madaras, BÃ¡thory u. 1.</mezo>
 </alrovat>
 <alrovat id = "16">
 <mezo id = "hattol">19950101</mezo>
-<mezo id = "nev">Fajsz Önkormányzat Képviselõ: Illés József</mezo>
+<mezo id = "nev">Fajsz Ã–nkormÃ¡nyzat KÃ©pviselÅ‘: IllÃ©s JÃ³zsef</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">6352</mezo>
-<mezo id = "hely">Fajsz, Szt. István u. 20.</mezo>
+<mezo id = "hely">Fajsz, Szt. IstvÃ¡n u. 20.</mezo>
 </alrovat>
 <alrovat id = "19">
 <mezo id = "hattol">19950101</mezo>
-<mezo id = "nev">Bácsbokod Önkormányzat Képviselõ: Mészáros István</mezo>
+<mezo id = "nev">BÃ¡csbokod Ã–nkormÃ¡nyzat KÃ©pviselÅ‘: MÃ©szÃ¡ros IstvÃ¡n</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">6453</mezo>
-<mezo id = "hely">Bácsbokod, Tolbuchin u. 80.</mezo>
+<mezo id = "hely">BÃ¡csbokod, Tolbuchin u. 80.</mezo>
 </alrovat>
 <alrovat id = "20">
 <mezo id = "hattol">19950101</mezo>
-<mezo id = "nev">Szakmár Önkormányzat Képviselõ: Tóth Jenõ</mezo>
+<mezo id = "nev">SzakmÃ¡r Ã–nkormÃ¡nyzat KÃ©pviselÅ‘: TÃ³th JenÅ‘</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">6336</mezo>
-<mezo id = "hely">Szakmár, Bajcsy-Zs. u. 24.</mezo>
+<mezo id = "hely">SzakmÃ¡r, Bajcsy-Zs. u. 24.</mezo>
 </alrovat>
 <alrovat id = "22">
 <mezo id = "hattol">19950101</mezo>
-<mezo id = "nev">Lajosmizse Város Önkormányzat tulajdonközösség Képviselõ: Zsigó Viktor (Lajosmizse Önkormányzat)</mezo>
+<mezo id = "nev">Lajosmizse VÃ¡ros Ã–nkormÃ¡nyzat tulajdonkÃ¶zÃ¶ssÃ©g KÃ©pviselÅ‘: ZsigÃ³ Viktor (Lajosmizse Ã–nkormÃ¡nyzat)</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">6050</mezo>
 <mezo id = "hely">Lajosmizse, Attila u. 7.</mezo>
 </alrovat>
 <alrovat id = "24">
 <mezo id = "hattol">19950101</mezo>
-<mezo id = "nev">Apostag Önkormányzat tulajdonközösség Képviselõ: Kovács Péter (Dunavecse Önkormányzat)</mezo>
+<mezo id = "nev">Apostag Ã–nkormÃ¡nyzat tulajdonkÃ¶zÃ¶ssÃ©g KÃ©pviselÅ‘: KovÃ¡cs PÃ©ter (Dunavecse Ã–nkormÃ¡nyzat)</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">6088</mezo>
 <mezo id = "hely">Apostag, Kossuth u. 3.</mezo>
 </alrovat>
 <alrovat id = "25">
 <mezo id = "hattol">19950101</mezo>
-<mezo id = "nev">Felsõszentiván Önkormányzat tulajdonközösség Képviselõ: Nagy Vencel (Rém Önkormányzat)</mezo>
+<mezo id = "nev">FelsÅ‘szentivÃ¡n Ã–nkormÃ¡nyzat tulajdonkÃ¶zÃ¶ssÃ©g KÃ©pviselÅ‘: Nagy Vencel (RÃ©m Ã–nkormÃ¡nyzat)</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">6447</mezo>
-<mezo id = "hely">Felsõszentiván, Rákóczi u. 60.</mezo>
+<mezo id = "hely">FelsÅ‘szentivÃ¡n, RÃ¡kÃ³czi u. 60.</mezo>
 </alrovat>
 <alrovat id = "26">
 <mezo id = "hattol">19950101</mezo>
-<mezo id = "nev">Borota Önkormányzat tulajdonközösség Képviselõ: Dr. Geiger Ferenc (Borota Önkormányzat)</mezo>
+<mezo id = "nev">Borota Ã–nkormÃ¡nyzat tulajdonkÃ¶zÃ¶ssÃ©g KÃ©pviselÅ‘: Dr. Geiger Ferenc (Borota Ã–nkormÃ¡nyzat)</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">6445</mezo>
-<mezo id = "hely">Borota, Felszabadulás u. 43.</mezo>
+<mezo id = "hely">Borota, FelszabadulÃ¡s u. 43.</mezo>
 </alrovat>
 <alrovat id = "28">
 <mezo id = "hattol">19950101</mezo>
-<mezo id = "nev">Érsekcsanád Önkormányzat tulajdonközösség Képviselõ: Felsõ István (Érsekcsanád Önkormányzat)</mezo>
+<mezo id = "nev">Ã‰rsekcsanÃ¡d Ã–nkormÃ¡nyzat tulajdonkÃ¶zÃ¶ssÃ©g KÃ©pviselÅ‘: FelsÅ‘ IstvÃ¡n (Ã‰rsekcsanÃ¡d Ã–nkormÃ¡nyzat)</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">6347</mezo>
-<mezo id = "hely">Érsekcsanád, Dózsa Gy. u. 77.</mezo>
+<mezo id = "hely">Ã‰rsekcsanÃ¡d, DÃ³zsa Gy. u. 77.</mezo>
 </alrovat>
 <alrovat id = "29">
 <mezo id = "hattol">19950101</mezo>
-<mezo id = "nev">Katymár Önkormányzat tulajdonközösség Képviselõ: Csomor László (Bácsborsod Önkormányzat)</mezo>
+<mezo id = "nev">KatymÃ¡r Ã–nkormÃ¡nyzat tulajdonkÃ¶zÃ¶ssÃ©g KÃ©pviselÅ‘: Csomor LÃ¡szlÃ³ (BÃ¡csborsod Ã–nkormÃ¡nyzat)</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">6455</mezo>
-<mezo id = "hely">Katymár, Szt. István u. 27.</mezo>
+<mezo id = "hely">KatymÃ¡r, Szt. IstvÃ¡n u. 27.</mezo>
 </alrovat>
 <alrovat id = "30">
 <mezo id = "hattol">19950101</mezo>
-<mezo id = "nev">Dunatetétlen Önkormányzat tulajdonközösség Képviselõ: Pálfi Mihályné (Dunatetétlen Önkormányzat)</mezo>
+<mezo id = "nev">DunatetÃ©tlen Ã–nkormÃ¡nyzat tulajdonkÃ¶zÃ¶ssÃ©g KÃ©pviselÅ‘: PÃ¡lfi MihÃ¡lynÃ© (DunatetÃ©tlen Ã–nkormÃ¡nyzat)</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">6325</mezo>
-<mezo id = "hely">Dunatetétlen, Rákóczi u. 1.</mezo>
+<mezo id = "hely">DunatetÃ©tlen, RÃ¡kÃ³czi u. 1.</mezo>
 </alrovat>
 <alrovat id = "31">
 <mezo id = "hattol">19990719</mezo>
-<mezo id = "nev">Bács-Kiskun Megyei Önkormányzat Képviselõ: Endre Sándor</mezo>
+<mezo id = "nev">BÃ¡cs-Kiskun Megyei Ã–nkormÃ¡nyzat KÃ©pviselÅ‘: Endre SÃ¡ndor</mezo>
 <mezo id = "irsz">6000</mezo>
-<mezo id = "hely">Kecskemét</mezo>
-<mezo id = "teru">Deák F. tér</mezo>
+<mezo id = "hely">KecskemÃ©t</mezo>
+<mezo id = "teru">DeÃ¡k F. tÃ©r</mezo>
 <mezo id = "hsz">3.</mezo>
 </alrovat>
 <alrovat id = "32">
 <mezo id = "hattol">19990719</mezo>
-<mezo id = "nev">Kecskemét Megyei Jogú Város Önkormányzat Képviselõ: Dr. Szécsi Gábor</mezo>
+<mezo id = "nev">KecskemÃ©t Megyei JogÃº VÃ¡ros Ã–nkormÃ¡nyzat KÃ©pviselÅ‘: Dr. SzÃ©csi GÃ¡bor</mezo>
 <mezo id = "irsz">6000</mezo>
-<mezo id = "hely">Kecskemét</mezo>
-<mezo id = "teru">Kossuth tér</mezo>
+<mezo id = "hely">KecskemÃ©t</mezo>
+<mezo id = "teru">Kossuth tÃ©r</mezo>
 <mezo id = "hsz">1.</mezo>
 </alrovat>
 <alrovat id = "33">
 <mezo id = "hattol">19990719</mezo>
-<mezo id = "nev">Kalocsa Város Önkormányzat Képviselõ: Huszár Mihály</mezo>
+<mezo id = "nev">Kalocsa VÃ¡ros Ã–nkormÃ¡nyzat KÃ©pviselÅ‘: HuszÃ¡r MihÃ¡ly</mezo>
 <mezo id = "irsz">6300</mezo>
 <mezo id = "hely">Kalocsa</mezo>
-<mezo id = "teru">Szent István király u.</mezo>
+<mezo id = "teru">Szent IstvÃ¡n kirÃ¡ly u.</mezo>
 <mezo id = "hsz">35.</mezo>
 </alrovat>
 <alrovat id = "34">
 <mezo id = "hattol">19990719</mezo>
-<mezo id = "nev">Baja Város Önkormányzat Képviselõ: Kalászi László</mezo>
+<mezo id = "nev">Baja VÃ¡ros Ã–nkormÃ¡nyzat KÃ©pviselÅ‘: KalÃ¡szi LÃ¡szlÃ³</mezo>
 <mezo id = "irsz">6500</mezo>
 <mezo id = "hely">Baja</mezo>
-<mezo id = "teru">Szentháromság tér</mezo>
+<mezo id = "teru">SzenthÃ¡romsÃ¡g tÃ©r</mezo>
 <mezo id = "hsz">1.</mezo>
 </alrovat>
 <alrovat id = "35">
 <mezo id = "hattol">19990719</mezo>
-<mezo id = "nev">Öregcsertõ Önkormányzat Képviselõ: Kis Vén László</mezo>
+<mezo id = "nev">Ã–regcsertÅ‘ Ã–nkormÃ¡nyzat KÃ©pviselÅ‘: Kis VÃ©n LÃ¡szlÃ³</mezo>
 <mezo id = "irsz">6311</mezo>
-<mezo id = "hely">Öregcsertõ</mezo>
+<mezo id = "hely">Ã–regcsertÅ‘</mezo>
 <mezo id = "teru">Kossuth L. u.</mezo>
 <mezo id = "hsz">141.</mezo>
 </alrovat>
 <alrovat id = "36">
 <mezo id = "hattol">19990719</mezo>
-<mezo id = "nev">Fülöpszállás Önkormányzat Képviselõ: Varga István</mezo>
+<mezo id = "nev">FÃ¼lÃ¶pszÃ¡llÃ¡s Ã–nkormÃ¡nyzat KÃ©pviselÅ‘: Varga IstvÃ¡n</mezo>
 <mezo id = "irsz">6085</mezo>
-<mezo id = "hely">Fülöpszállás</mezo>
+<mezo id = "hely">FÃ¼lÃ¶pszÃ¡llÃ¡s</mezo>
 <mezo id = "teru">Kossuth u.</mezo>
 <mezo id = "hsz">2.</mezo>
 </alrovat>
 <alrovat id = "37">
 <mezo id = "hattol">19990719</mezo>
-<mezo id = "nev">Császártöltés Önkormányzat Képviselõ: Frick József</mezo>
+<mezo id = "nev">CsÃ¡szÃ¡rtÃ¶ltÃ©s Ã–nkormÃ¡nyzat KÃ©pviselÅ‘: Frick JÃ³zsef</mezo>
 <mezo id = "irsz">6239</mezo>
-<mezo id = "hely">Császártöltés</mezo>
+<mezo id = "hely">CsÃ¡szÃ¡rtÃ¶ltÃ©s</mezo>
 <mezo id = "teru">Keceli u.</mezo>
 <mezo id = "hsz">107.</mezo>
 </alrovat>
 <alrovat id = "38">
 <mezo id = "hattol">19990719</mezo>
-<mezo id = "nev">Miske Önkormányzat tulajdonközösség Képviselõ: Illés Attila (Miske Önkormányzat)</mezo>
+<mezo id = "nev">Miske Ã–nkormÃ¡nyzat tulajdonkÃ¶zÃ¶ssÃ©g KÃ©pviselÅ‘: IllÃ©s Attila (Miske Ã–nkormÃ¡nyzat)</mezo>
 <mezo id = "irsz">6343</mezo>
 <mezo id = "hely">Miske</mezo>
-<mezo id = "teru">Fõ u.</mezo>
+<mezo id = "teru">FÅ‘ u.</mezo>
 <mezo id = "hsz">18.</mezo>
 </alrovat>
 <alrovat id = "39">
 <mezo id = "hattol">19990719</mezo>
-<mezo id = "nev">Jászszentlászló Önkormányzat tulajdonközösség Képviselõ: Csitári Tibor (Bugac Önkormányzat)</mezo>
+<mezo id = "nev">JÃ¡szszentlÃ¡szlÃ³ Ã–nkormÃ¡nyzat tulajdonkÃ¶zÃ¶ssÃ©g KÃ©pviselÅ‘: CsitÃ¡ri Tibor (Bugac Ã–nkormÃ¡nyzat)</mezo>
 <mezo id = "irsz">6133</mezo>
-<mezo id = "hely">Jászszentlászló</mezo>
-<mezo id = "teru">Dózsa Gy. u.</mezo>
+<mezo id = "hely">JÃ¡szszentlÃ¡szlÃ³</mezo>
+<mezo id = "teru">DÃ³zsa Gy. u.</mezo>
 <mezo id = "hsz">8.</mezo>
 </alrovat>
 </rovat>
@@ -967,31 +967,31 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A cég átalakulás miatt a cégjegyzékbõl törölve.<ujsor/>
-A törlés kelte: 2008. 12. 31.<ujsor/>
-Jogutód(ok):<ujsor/>
- [03 09 117258] FILANTROP Környezetvédelmi és Fûtéstechnikai Nonprofit Korlátolt Felelõsségû Társaság.<ujsor/>
- Az átalakulás cég által meghat. idõpontja: 2009. 01. 01.<ujsor/>
-A fenti adat(ok) bejegyzése és közzététele<ujsor/>
-a következõ okirat(ok) alapján történt:<ujsor/>
-létesítõ okirat módosítása;<ujsor/>
-társasági szerzõdés;<ujsor/>
-tagjegyzék;<ujsor/>
-legfõbb szerv jegyzõkönyve;<ujsor/>
-létesítõ okirat módosítása;<ujsor/>
-aláírásminta;<ujsor/>
-társasági szerzõdés;<ujsor/>
-tagjegyzék;<ujsor/>
-legfõbb szerv jegyzõkönyve;<ujsor/>
-létesítõ okirat módosítása;<ujsor/>
-aláírásminta.<ujsor/>
-Az okirat(ok) a cég cégjegyzékét vezetõ<ujsor/>
-cégbíróságon megtekinthetõk.<ujsor/>
+<mezo id = "szoveg">A cÃ©g Ã¡talakulÃ¡s miatt a cÃ©gjegyzÃ©kbÅ‘l tÃ¶rÃ¶lve.<ujsor/>
+A tÃ¶rlÃ©s kelte: 2008. 12. 31.<ujsor/>
+JogutÃ³d(ok):<ujsor/>
+ [03 09 117258] FILANTROP KÃ¶rnyezetvÃ©delmi Ã©s FÅ±tÃ©stechnikai Nonprofit KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+ Az Ã¡talakulÃ¡s cÃ©g Ã¡ltal meghat. idÅ‘pontja: 2009. 01. 01.<ujsor/>
+A fenti adat(ok) bejegyzÃ©se Ã©s kÃ¶zzÃ©tÃ©tele<ujsor/>
+a kÃ¶vetkezÅ‘ okirat(ok) alapjÃ¡n tÃ¶rtÃ©nt:<ujsor/>
+lÃ©tesÃ­tÅ‘ okirat mÃ³dosÃ­tÃ¡sa;<ujsor/>
+tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s;<ujsor/>
+tagjegyzÃ©k;<ujsor/>
+legfÅ‘bb szerv jegyzÅ‘kÃ¶nyve;<ujsor/>
+lÃ©tesÃ­tÅ‘ okirat mÃ³dosÃ­tÃ¡sa;<ujsor/>
+alÃ¡Ã­rÃ¡sminta;<ujsor/>
+tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s;<ujsor/>
+tagjegyzÃ©k;<ujsor/>
+legfÅ‘bb szerv jegyzÅ‘kÃ¶nyve;<ujsor/>
+lÃ©tesÃ­tÅ‘ okirat mÃ³dosÃ­tÃ¡sa;<ujsor/>
+alÃ¡Ã­rÃ¡sminta.<ujsor/>
+Az okirat(ok) a cÃ©g cÃ©gjegyzÃ©kÃ©t vezetÅ‘<ujsor/>
+cÃ©gbÃ­rÃ³sÃ¡gon megtekinthetÅ‘k.<ujsor/>
 Bejegyezve: 2008. 12. 31.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0314000002</mezo>
-<mezo id = "nev">FILANTROP Környezetvédelmi és Fûtéstechnikai Közhasznú Társaság</mezo>
-<mezo id = "cim">6000 Kecskemét, Ipar u. 2.</mezo>
+<mezo id = "nev">FILANTROP KÃ¶rnyezetvÃ©delmi Ã©s FÅ±tÃ©stechnikai KÃ¶zhasznÃº TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">6000 KecskemÃ©t, Ipar u. 2.</mezo>
 <mezo id = "adosz">18345564203</mezo>
 </alrovat>
 </rovat>

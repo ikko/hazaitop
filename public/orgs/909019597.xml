@@ -8,7 +8,7 @@
 <mezo id = "regi_szh">1309109261</mezo>
 <mezo id = "uj_szh">1309148482</mezo>
 <mezo id = "allapot">6</mezo>
-<mezo id = "cim">4287 Vámospércs, Nyírábrányi út 14/a. </mezo>
+<mezo id = "cim">4287 VÃ¡mospÃ©rcs, NyÃ­rÃ¡brÃ¡nyi Ãºt 14/a. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">13787417209</mezo>
 </alrovat>
@@ -16,7 +16,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20060807</mezo>
-<mezo id = "nev">Nagymarosi Autó Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Nagymarosi AutÃ³ Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -24,7 +24,7 @@
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">20060807</mezo>
-<mezo id = "nev">Nagymarosi Autó Kft.</mezo>
+<mezo id = "nev">Nagymarosi AutÃ³ Kft.</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -33,8 +33,8 @@
 <alrovat id = "2">
 <mezo id = "hattol">20100805</mezo>
 <mezo id = "irsz">4287</mezo>
-<mezo id = "hely">Vámospércs</mezo>
-<mezo id = "teru">Nyírábrányi út 14/a.</mezo>
+<mezo id = "hely">VÃ¡mospÃ©rcs</mezo>
+<mezo id = "teru">NyÃ­rÃ¡brÃ¡nyi Ãºt 14/a.</mezo>
 <mezo id = "valtk">20100805</mezo>
 <mezo id = "bkelt">20100909</mezo>
 </alrovat>
@@ -207,7 +207,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090505</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Személygépjármû-, könnyûgépjármû-kereskedelem</mezo>
+<mezo id = "teaszov">SzemÃ©lygÃ©pjÃ¡rmÅ±-, kÃ¶nnyÅ±gÃ©pjÃ¡rmÅ±-kereskedelem</mezo>
 </alrovat>
 <alrovat id = "21">
 <mezo id = "hattol">20090427</mezo>
@@ -225,7 +225,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090505</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Gépjármû javítás, -karbantartás</mezo>
+<mezo id = "teaszov">GÃ©pjÃ¡rmÅ± javÃ­tÃ¡s, -karbantartÃ¡s</mezo>
 </alrovat>
 <alrovat id = "26">
 <mezo id = "hattol">20090427</mezo>
@@ -243,7 +243,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090505</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Belvízi személyszállítás</mezo>
+<mezo id = "teaszov">BelvÃ­zi szemÃ©lyszÃ¡llÃ­tÃ¡s</mezo>
 </alrovat>
 <alrovat id = "27">
 <mezo id = "hattol">20090427</mezo>
@@ -261,43 +261,43 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090505</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Vízi szállítást kiegészítõ szolgáltatás</mezo>
+<mezo id = "teaszov">VÃ­zi szÃ¡llÃ­tÃ¡st kiegÃ©szÃ­tÅ‘ szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "29">
 <mezo id = "hattol">20090527</mezo>
 <mezo id = "valtk">20090527</mezo>
 <mezo id = "bkelt">20090924</mezo>
-<mezo id = "teaszov">Belvízi áruszállítás</mezo>
+<mezo id = "teaszov">BelvÃ­zi Ã¡ruszÃ¡llÃ­tÃ¡s</mezo>
 </alrovat>
 <alrovat id = "30">
 <mezo id = "hattol">20090527</mezo>
 <mezo id = "valtk">20090527</mezo>
 <mezo id = "bkelt">20090924</mezo>
-<mezo id = "teaszov">Egyéb információs technológiai szolgáltatás</mezo>
+<mezo id = "teaszov">EgyÃ©b informÃ¡ciÃ³s technolÃ³giai szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "31">
 <mezo id = "hattol">20090527</mezo>
 <mezo id = "valtk">20090527</mezo>
 <mezo id = "bkelt">20090924</mezo>
-<mezo id = "teaszov">Egyéb gépjármû kereskedelem</mezo>
+<mezo id = "teaszov">EgyÃ©b gÃ©pjÃ¡rmÅ± kereskedelem</mezo>
 </alrovat>
 <alrovat id = "32">
 <mezo id = "hattol">20090527</mezo>
 <mezo id = "valtk">20090527</mezo>
 <mezo id = "bkelt">20090924</mezo>
-<mezo id = "teaszov">Szárazföldi szállítást kiegészítõ szolgáltatás</mezo>
+<mezo id = "teaszov">SzÃ¡razfÃ¶ldi szÃ¡llÃ­tÃ¡st kiegÃ©szÃ­tÅ‘ szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "33">
 <mezo id = "hattol">20090527</mezo>
 <mezo id = "valtk">20090527</mezo>
 <mezo id = "bkelt">20090924</mezo>
-<mezo id = "teaszov">Reklámügynöki tevékenység</mezo>
+<mezo id = "teaszov">ReklÃ¡mÃ¼gynÃ¶ki tevÃ©kenysÃ©g</mezo>
 </alrovat>
 <alrovat id = "34">
 <mezo id = "hattol">20090527</mezo>
 <mezo id = "valtk">20090527</mezo>
 <mezo id = "bkelt">20090924</mezo>
-<mezo id = "teaszov">Médiareklám</mezo>
+<mezo id = "teaszov">MÃ©diareklÃ¡m</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -314,9 +314,9 @@
 <rovat id = "13">
 <alrovat id = "4">
 <mezo id = "hattol">20100805</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Kiss István Attila</mezo>
-<mezo id = "panev">Zomborka Mária</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Kiss IstvÃ¡n Attila</mezo>
+<mezo id = "panev">Zomborka MÃ¡ria</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100805</mezo>
 <mezo id = "valtk">20100805</mezo>
@@ -367,15 +367,15 @@
 <rovat id = "22">
 <alrovat id = "1">
 <mezo id = "jccjsz">1309131272</mezo>
-<mezo id = "nev">Nagymarosi Autójavító és Hajózási Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Nagymarosi AutÃ³javÃ­tÃ³ Ã©s HajÃ³zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "bkelt">20090924</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0109">
 <alrovat id = "4">
 <mezo id = "hattol">20100805</mezo>
-<mezo id = "pnev">Kiss István Attila</mezo>
-<mezo id = "panev">Zomborka Mária</mezo>
+<mezo id = "pnev">Kiss IstvÃ¡n Attila</mezo>
+<mezo id = "panev">Zomborka MÃ¡ria</mezo>
 <mezo id = "tagsk">20100805</mezo>
 <mezo id = "valtk">20100805</mezo>
 <mezo id = "bkelt">20100909</mezo>

@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">062651</mezo>
 <mezo id = "nevalrovat">2</mezo>
-<mezo id = "cim">1097 Budapest, Gyáli út 3/b. </mezo>
+<mezo id = "cim">1097 Budapest, GyÃ¡li Ãºt 3/b. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">10249622243</mezo>
 </alrovat>
@@ -13,13 +13,13 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">19921030</mezo>
-<mezo id = "nev">&quot;KÖZÉPSZOLG&quot; Ipari Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">&quot;KÃ–ZÃ‰PSZOLG&quot; Ipari Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">19890619</mezo>
-<mezo id = "nev">&quot;KÕZÉPSZOLG&quot; Kft.</mezo>
+<mezo id = "nev">&quot;KÅZÃ‰PSZOLG&quot; Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
@@ -27,7 +27,7 @@
 <mezo id = "hattol">20050929</mezo>
 <mezo id = "irsz">1097</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Gyáli út 3/b.</mezo>
+<mezo id = "teru">GyÃ¡li Ãºt 3/b.</mezo>
 <mezo id = "kirsz">0</mezo>
 </alrovat>
 </rovat>
@@ -238,9 +238,9 @@
 <rovat id = "13">
 <alrovat id = "15">
 <mezo id = "hattol">20100527</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "pnev">Bocs Csaba</mezo>
-<mezo id = "panev">Virágh Ilona</mezo>
+<mezo id = "panev">VirÃ¡gh Ilona</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100929</mezo>
 <mezo id = "jogvv">20150929</mezo>
@@ -250,9 +250,9 @@
 </alrovat>
 <alrovat id = "16">
 <mezo id = "hattol">20100527</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "pnev">Szalay Zsolt</mezo>
-<mezo id = "panev">Mészáros Margit</mezo>
+<mezo id = "panev">MÃ©szÃ¡ros Margit</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100929</mezo>
 <mezo id = "jogvv">20150929</mezo>
@@ -279,17 +279,17 @@
 <alrovat id = "24">
 <mezo id = "hattol">19990104</mezo>
 <mezo id = "pnev">Bocs Csaba</mezo>
-<mezo id = "panev">Virágh Ilona</mezo>
+<mezo id = "panev">VirÃ¡gh Ilona</mezo>
 <mezo id = "pirsz">1194</mezo>
-<mezo id = "phely">Budapest, Temesvár u. 145.</mezo>
+<mezo id = "phely">Budapest, TemesvÃ¡r u. 145.</mezo>
 </alrovat>
 <alrovat id = "29">
 <mezo id = "hattol">20050929</mezo>
 <mezo id = "t">x</mezo>
 <mezo id = "pnev">Szalay Zsolt</mezo>
-<mezo id = "panev">Mészáros Margit</mezo>
+<mezo id = "panev">MÃ©szÃ¡ros Margit</mezo>
 <mezo id = "pirsz">1194</mezo>
-<mezo id = "phely">Budapest, Temesvár utca 149.</mezo>
+<mezo id = "phely">Budapest, TemesvÃ¡r utca 149.</mezo>
 </alrovat>
 <alrovat id = "31">
 <mezo id = "hattol">20091015</mezo>
@@ -300,7 +300,7 @@
 <mezo id = "teru">Buresova 938/17, PSC: 66002</mezo>
 <mezo id = "tagsk">20051215</mezo>
 <mezo id = "valtk">20091015</mezo>
-<mezo id = "knyh">Brno-i Kerületi Bíróság</mezo>
+<mezo id = "knyh">Brno-i KerÃ¼leti BÃ­rÃ³sÃ¡g</mezo>
 <mezo id = "bkelt">20100216</mezo>
 </alrovat>
 </rovat>
@@ -313,36 +313,36 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság az 1999. 02. 18-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-18. Budapesti Kereskedelmi és Iparkamara.<ujsor/>
- Kamarai azonosítószám: 123454.<ujsor/>
- Hatályos: 1999. 03. 10-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g az 1999. 02. 18-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+18. Budapesti Kereskedelmi Ã©s Iparkamara.<ujsor/>
+ Kamarai azonosÃ­tÃ³szÃ¡m: 123454.<ujsor/>
+ HatÃ¡lyos: 1999. 03. 10-tÅ‘l.<ujsor/>
 19. 1054725.<ujsor/>
- Hatályos: 1999. 03. 10-tõl.<ujsor/>
+ HatÃ¡lyos: 1999. 03. 10-tÅ‘l.<ujsor/>
 20. 10249622-4525-113-01.<ujsor/>
- Hatályos: 1999. 03. 10-tõl.<ujsor/>
+ HatÃ¡lyos: 1999. 03. 10-tÅ‘l.<ujsor/>
 21. 10249622-2-01.<ujsor/>
- Törölve: 1999. 03. 10-i hatállyal.<ujsor/>
+ TÃ¶rÃ¶lve: 1999. 03. 10-i hatÃ¡llyal.<ujsor/>
  10249622-2-43.<ujsor/>
- Hatályos: 1999. 03. 10-tõl.<ujsor/>
+ HatÃ¡lyos: 1999. 03. 10-tÅ‘l.<ujsor/>
 Bejegyezve: 1999. 03. 10.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109062651</mezo>
-<mezo id = "nev">&quot;KÖZÉPSZOLG&quot; Ipari Kerskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1186 Budapest, XVIII. Sina Simony sétány 8.</mezo>
+<mezo id = "nev">&quot;KÃ–ZÃ‰PSZOLG&quot; Ipari Kerskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1186 Budapest, XVIII. Sina Simony sÃ©tÃ¡ny 8.</mezo>
 <mezo id = "adosz">10249622243</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2000. 02. 18-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-09. 45.21 Épület, híd, alagút, közmû, vezeték építése (fõtevékenység).<ujsor/>
- Hatályos: 1999. 02. 18-tól.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2000. 02. 18-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+09. 45.21 Ã‰pÃ¼let, hÃ­d, alagÃºt, kÃ¶zmÅ±, vezetÃ©k Ã©pÃ­tÃ©se (fÅ‘tevÃ©kenysÃ©g).<ujsor/>
+ HatÃ¡lyos: 1999. 02. 18-tÃ³l.<ujsor/>
 Bejegyezve: 2000. 03. 22.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109062651</mezo>
-<mezo id = "nev">&quot;KÖZÉPSZOLG&quot; Ipari Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1186 Budapest XVIII., Sina Simon sétány 8.</mezo>
+<mezo id = "nev">&quot;KÃ–ZÃ‰PSZOLG&quot; Ipari Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1186 Budapest XVIII., Sina Simon sÃ©tÃ¡ny 8.</mezo>
 <mezo id = "adosz">10249622243</mezo>
 </alrovat>
 </rovat>

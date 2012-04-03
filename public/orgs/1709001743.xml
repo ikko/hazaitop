@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">001743</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">7144 Decs, Pilisi Elemér u. 8. </mezo>
+<mezo id = "cim">7144 Decs, Pilisi ElemÃ©r u. 8. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">11282370217</mezo>
 </alrovat>
@@ -13,13 +13,13 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19930301</mezo>
-<mezo id = "nev">Decsi Pék Sütõipari Kft</mezo>
+<mezo id = "nev">Decsi PÃ©k SÃ¼tÅ‘ipari Kft</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">19930301</mezo>
-<mezo id = "nev">Decsi Pék Kft</mezo>
+<mezo id = "nev">Decsi PÃ©k Kft</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
@@ -27,14 +27,14 @@
 <mezo id = "hattol">19930301</mezo>
 <mezo id = "irsz">7144</mezo>
 <mezo id = "hely">Decs</mezo>
-<mezo id = "teru">Pilisi Elemér u. 8.</mezo>
+<mezo id = "teru">Pilisi ElemÃ©r u. 8.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "6">
 <alrovat id = "1">
 <mezo id = "hattol">20030513</mezo>
 <mezo id = "irsz">7144</mezo>
-<mezo id = "hely">Decs, Szõlõhegyi u. 37.</mezo>
+<mezo id = "hely">Decs, SzÅ‘lÅ‘hegyi u. 37.</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20030513</mezo>
@@ -44,7 +44,7 @@
 <alrovat id = "3">
 <mezo id = "hattol">20060621</mezo>
 <mezo id = "irsz">7144</mezo>
-<mezo id = "hely">Decs , Fõ utca 28.</mezo>
+<mezo id = "hely">Decs , FÅ‘ utca 28.</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -553,7 +553,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090604</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Saját tulajdonú, bérelt ingatlan bérbeadása, üzemeltetése</mezo>
+<mezo id = "teaszov">SajÃ¡t tulajdonÃº, bÃ©relt ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -568,15 +568,15 @@
 <rovat id = "13">
 <alrovat id = "3">
 <mezo id = "hattol">20080506</mezo>
-<mezo id = "pnev">Vogronics Csabáné</mezo>
-<mezo id = "panev">Gál Mária</mezo>
+<mezo id = "pnev">Vogronics CsabÃ¡nÃ©</mezo>
+<mezo id = "panev">GÃ¡l MÃ¡ria</mezo>
 <mezo id = "pirsz">7144</mezo>
-<mezo id = "phely">Decs, Váci ltp. 49.</mezo>
+<mezo id = "phely">Decs, VÃ¡ci ltp. 49.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20080506</mezo>
 <mezo id = "mindig">x</mezo>
-<mezo id = "mnev">Gál Miklós</mezo>
+<mezo id = "mnev">GÃ¡l MiklÃ³s</mezo>
 <mezo id = "valtk">20080506</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20080702</mezo>
@@ -584,15 +584,15 @@
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20080506</mezo>
-<mezo id = "pnev">Gál Miklós</mezo>
+<mezo id = "pnev">GÃ¡l MiklÃ³s</mezo>
 <mezo id = "panev">Kun Zsuzsanna</mezo>
 <mezo id = "pirsz">7144</mezo>
-<mezo id = "phely">Decs, Rákóczi utca 26.</mezo>
+<mezo id = "phely">Decs, RÃ¡kÃ³czi utca 26.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20080506</mezo>
 <mezo id = "mindig">x</mezo>
-<mezo id = "mnev">Vogronics Csabáné</mezo>
+<mezo id = "mnev">Vogronics CsabÃ¡nÃ©</mezo>
 <mezo id = "valtk">20080506</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20080702</mezo>
@@ -600,9 +600,9 @@
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20100427</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Gál Miklós</mezo>
-<mezo id = "panev">Balázs Terézia</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">GÃ¡l MiklÃ³s</mezo>
+<mezo id = "panev">BalÃ¡zs TerÃ©zia</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20040702</mezo>
 <mezo id = "valtk">20100427</mezo>
@@ -614,13 +614,13 @@
 <alrovat id = "2">
 <mezo id = "hattol">20100427</mezo>
 <mezo id = "cgjsz">1709004882</mezo>
-<mezo id = "nev">Vlajt és Társa Könyvvizsgáló Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Vlajt Ã©s TÃ¡rsa KÃ¶nyvvizsgÃ¡lÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">7020</mezo>
-<mezo id = "hely">Dunaföldvár</mezo>
+<mezo id = "hely">DunafÃ¶ldvÃ¡r</mezo>
 <mezo id = "teru">Derecskei utca 14.</mezo>
-<mezo id = "pnev">Jákliné Vlajt Zsuzsanna</mezo>
-<mezo id = "panev">Kövics Mária</mezo>
+<mezo id = "pnev">JÃ¡klinÃ© Vlajt Zsuzsanna</mezo>
+<mezo id = "panev">KÃ¶vics MÃ¡ria</mezo>
 <mezo id = "jogvk">20100427</mezo>
 <mezo id = "jogvv">20150531</mezo>
 <mezo id = "valtk">20100427</mezo>
@@ -650,94 +650,94 @@
 <rovat id = "0109">
 <alrovat id = "3">
 <mezo id = "hattol">19980318</mezo>
-<mezo id = "nev">&quot;A&quot; jelû törzsbetét</mezo>
+<mezo id = "nev">&quot;A&quot; jelÅ± tÃ¶rzsbetÃ©t</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">20010827</mezo>
-<mezo id = "nev">Takács Zoltánné és Társai közös tulajdonú törzsbetét</mezo>
-<mezo id = "pnev">képviseli: Takács Zoltánné</mezo>
-<mezo id = "panev">Hunyadi Erzsébet</mezo>
+<mezo id = "nev">TakÃ¡cs ZoltÃ¡nnÃ© Ã©s TÃ¡rsai kÃ¶zÃ¶s tulajdonÃº tÃ¶rzsbetÃ©t</mezo>
+<mezo id = "pnev">kÃ©pviseli: TakÃ¡cs ZoltÃ¡nnÃ©</mezo>
+<mezo id = "panev">Hunyadi ErzsÃ©bet</mezo>
 <mezo id = "pirsz">7144</mezo>
-<mezo id = "phely">Decs, Alkotmány u. 2/A.</mezo>
+<mezo id = "phely">Decs, AlkotmÃ¡ny u. 2/A.</mezo>
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">20010827</mezo>
-<mezo id = "pnev">Gál Miklós</mezo>
-<mezo id = "panev">Balázs Terézia</mezo>
+<mezo id = "pnev">GÃ¡l MiklÃ³s</mezo>
+<mezo id = "panev">BalÃ¡zs TerÃ©zia</mezo>
 <mezo id = "pirsz">7144</mezo>
-<mezo id = "phely">Decs, Váci ltp. 17.</mezo>
+<mezo id = "phely">Decs, VÃ¡ci ltp. 17.</mezo>
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">20010827</mezo>
-<mezo id = "pnev">ifj. Gál Miklós</mezo>
+<mezo id = "pnev">ifj. GÃ¡l MiklÃ³s</mezo>
 <mezo id = "panev">Kun Zsuzsanna</mezo>
 <mezo id = "pirsz">7144</mezo>
-<mezo id = "phely">Decs, Váci ltp. 17.</mezo>
+<mezo id = "phely">Decs, VÃ¡ci ltp. 17.</mezo>
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">20010827</mezo>
 <mezo id = "pnev">Koczka Krisztina</mezo>
 <mezo id = "panev">Kasza Veronika Katalin</mezo>
 <mezo id = "pirsz">7144</mezo>
-<mezo id = "phely">Decs, Váci ltp. 1/B. fszt. 2.</mezo>
+<mezo id = "phely">Decs, VÃ¡ci ltp. 1/B. fszt. 2.</mezo>
 </alrovat>
 <alrovat id = "11">
 <mezo id = "hattol">20010827</mezo>
-<mezo id = "pnev">Majer György</mezo>
+<mezo id = "pnev">Majer GyÃ¶rgy</mezo>
 <mezo id = "panev">Bali Ilona</mezo>
 <mezo id = "pirsz">7144</mezo>
-<mezo id = "phely">Decs, Rákóczi u. 20.</mezo>
+<mezo id = "phely">Decs, RÃ¡kÃ³czi u. 20.</mezo>
 </alrovat>
 <alrovat id = "14">
 <mezo id = "hattol">20010827</mezo>
-<mezo id = "pnev">Nagy János</mezo>
-<mezo id = "panev">Henckirály Erzsébet</mezo>
+<mezo id = "pnev">Nagy JÃ¡nos</mezo>
+<mezo id = "panev">HenckirÃ¡ly ErzsÃ©bet</mezo>
 <mezo id = "pirsz">7144</mezo>
-<mezo id = "phely">Decs, Váci ltp. 45.</mezo>
+<mezo id = "phely">Decs, VÃ¡ci ltp. 45.</mezo>
 </alrovat>
 <alrovat id = "15">
 <mezo id = "hattol">20010827</mezo>
-<mezo id = "pnev">Ringeisen Józsefné</mezo>
-<mezo id = "panev">Márki Aranka</mezo>
+<mezo id = "pnev">Ringeisen JÃ³zsefnÃ©</mezo>
+<mezo id = "panev">MÃ¡rki Aranka</mezo>
 <mezo id = "pirsz">7144</mezo>
-<mezo id = "phely">Decs, Hársfa u. 7.</mezo>
+<mezo id = "phely">Decs, HÃ¡rsfa u. 7.</mezo>
 </alrovat>
 <alrovat id = "16">
 <mezo id = "hattol">20010827</mezo>
-<mezo id = "pnev">Sörfõzõ Istvánné</mezo>
-<mezo id = "panev">Schneidler Éva</mezo>
+<mezo id = "pnev">SÃ¶rfÅ‘zÅ‘ IstvÃ¡nnÃ©</mezo>
+<mezo id = "panev">Schneidler Ã‰va</mezo>
 <mezo id = "pirsz">7144</mezo>
-<mezo id = "phely">Decs, Kölcsey u. 11/a.</mezo>
+<mezo id = "phely">Decs, KÃ¶lcsey u. 11/a.</mezo>
 </alrovat>
 <alrovat id = "17">
 <mezo id = "hattol">20010827</mezo>
-<mezo id = "pnev">Tillmann Rudolfné</mezo>
-<mezo id = "panev">Csákvári Borbála</mezo>
+<mezo id = "pnev">Tillmann RudolfnÃ©</mezo>
+<mezo id = "panev">CsÃ¡kvÃ¡ri BorbÃ¡la</mezo>
 <mezo id = "pirsz">7144</mezo>
-<mezo id = "phely">Decs, Váci ltp. 1/B.</mezo>
+<mezo id = "phely">Decs, VÃ¡ci ltp. 1/B.</mezo>
 </alrovat>
 <alrovat id = "18">
 <mezo id = "hattol">20010827</mezo>
-<mezo id = "pnev">Vasadi Jánosné</mezo>
-<mezo id = "panev">Ábrahám Anna</mezo>
+<mezo id = "pnev">Vasadi JÃ¡nosnÃ©</mezo>
+<mezo id = "panev">ÃbrahÃ¡m Anna</mezo>
 <mezo id = "pirsz">7144</mezo>
-<mezo id = "phely">Decs, Deák F. u. 3.</mezo>
+<mezo id = "phely">Decs, DeÃ¡k F. u. 3.</mezo>
 </alrovat>
 <alrovat id = "19">
 <mezo id = "hattol">20010827</mezo>
-<mezo id = "pnev">Vogronics Csabáné</mezo>
-<mezo id = "panev">Gál Mária</mezo>
+<mezo id = "pnev">Vogronics CsabÃ¡nÃ©</mezo>
+<mezo id = "panev">GÃ¡l MÃ¡ria</mezo>
 <mezo id = "pirsz">7144</mezo>
-<mezo id = "phely">Decs, Váci ltp. 49.</mezo>
+<mezo id = "phely">Decs, VÃ¡ci ltp. 49.</mezo>
 </alrovat>
 <alrovat id = "22">
 <mezo id = "hattol">20060728</mezo>
-<mezo id = "pnev">Nagy Erzsébet Mária</mezo>
-<mezo id = "panev">Gécseg Erzsébet</mezo>
+<mezo id = "pnev">Nagy ErzsÃ©bet MÃ¡ria</mezo>
+<mezo id = "panev">GÃ©cseg ErzsÃ©bet</mezo>
 <mezo id = "pirsz">7144</mezo>
-<mezo id = "phely">Decs , Szövetkezeti utca 26/ A .</mezo>
-<mezo id = "pmnev">Tar István</mezo>
-<mezo id = "pmanev">Fábián Eszter</mezo>
+<mezo id = "phely">Decs , SzÃ¶vetkezeti utca 26/ A .</mezo>
+<mezo id = "pmnev">Tar IstvÃ¡n</mezo>
+<mezo id = "pmanev">FÃ¡biÃ¡n Eszter</mezo>
 <mezo id = "pmirsz">1116</mezo>
 <mezo id = "pmhely">Budapest.</mezo>
 <mezo id = "tagsk">20060630</mezo>
@@ -755,11 +755,11 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Decsi Egyetértés Mezõgazdasági Termelõ és Értékesítõ Szövetkezet (Cg. [17 02 000 605]; 7144 Decs, Dózsa Gy. u. 28.; képviseli: Nagy János elnök) mint a Decsi Pék Sütõipari Korlátolt Felelõsségû Társaság &quot;B&quot; jelû közös tulajdonú üzletrészének képviselõje közzéteszi, hogy a Decsi Pék Kft.-ben (7144 Decs, Pilisi Elemér u. 8., Cg.: [17 09 001743]) 2000. november 27-én kelt üzletrész-átruházási szerzõdés alapján a &quot;B&quot; jelû üzletrész tagjai közvetlen irányítást biztosító befolyást szereztek. A társaság törzstõkéje alapján a leadható szavazatok száma 1800, amelybõl a &quot;B&quot; jelû üzletrész tagjai 1455 szavazatot szereztek meg, ami az összes szavazat 80,33%-a fölött biztosít rendelkezést.<ujsor/>
-A hitelezõk a Gt. 296. § (2) bekezdésben foglalt jogaikat gyakorolhatják.<ujsor/>
+<mezo id = "szoveg">A Decsi EgyetÃ©rtÃ©s MezÅ‘gazdasÃ¡gi TermelÅ‘ Ã©s Ã‰rtÃ©kesÃ­tÅ‘ SzÃ¶vetkezet (Cg. [17 02 000 605]; 7144 Decs, DÃ³zsa Gy. u. 28.; kÃ©pviseli: Nagy JÃ¡nos elnÃ¶k) mint a Decsi PÃ©k SÃ¼tÅ‘ipari KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g &quot;B&quot; jelÅ± kÃ¶zÃ¶s tulajdonÃº Ã¼zletrÃ©szÃ©nek kÃ©pviselÅ‘je kÃ¶zzÃ©teszi, hogy a Decsi PÃ©k Kft.-ben (7144 Decs, Pilisi ElemÃ©r u. 8., Cg.: [17 09 001743]) 2000. november 27-Ã©n kelt Ã¼zletrÃ©sz-Ã¡truhÃ¡zÃ¡si szerzÅ‘dÃ©s alapjÃ¡n a &quot;B&quot; jelÅ± Ã¼zletrÃ©sz tagjai kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡st szereztek. A tÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©je alapjÃ¡n a leadhatÃ³ szavazatok szÃ¡ma 1800, amelybÅ‘l a &quot;B&quot; jelÅ± Ã¼zletrÃ©sz tagjai 1455 szavazatot szereztek meg, ami az Ã¶sszes szavazat 80,33%-a fÃ¶lÃ¶tt biztosÃ­t rendelkezÃ©st.<ujsor/>
+A hitelezÅ‘k a Gt. 296. Â§ (2) bekezdÃ©sben foglalt jogaikat gyakorolhatjÃ¡k.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1709001743</mezo>
-<mezo id = "nev">Decsi Pék Sütõipari Kft</mezo>
+<mezo id = "nev">Decsi PÃ©k SÃ¼tÅ‘ipari Kft</mezo>
 </alrovat>
 </rovat>
 <rovat id = "99017">

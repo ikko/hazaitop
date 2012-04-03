@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">369660</mezo>
 <mezo id = "nevalrovat">2</mezo>
-<mezo id = "cim">1072 Budapest, Rákóczi út 40. IV. em. 20. </mezo>
+<mezo id = "cim">1072 Budapest, RÃ¡kÃ³czi Ãºt 40. IV. em. 20. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">12036172242</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">19950410</mezo>
-<mezo id = "nev">MECH-VILL System Gépészeti, Villamos Tervezõ és Kivitelezõ Kft.</mezo>
+<mezo id = "nev">MECH-VILL System GÃ©pÃ©szeti, Villamos TervezÅ‘ Ã©s KivitelezÅ‘ Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -27,7 +27,7 @@
 <mezo id = "hattol">20091020</mezo>
 <mezo id = "irsz">1072</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Rákóczi út 40. IV. em. 20.</mezo>
+<mezo id = "teru">RÃ¡kÃ³czi Ãºt 40. IV. em. 20.</mezo>
 <mezo id = "valtk">20091020</mezo>
 <mezo id = "bkelt">20091110</mezo>
 </alrovat>
@@ -36,12 +36,12 @@
 <alrovat id = "2">
 <mezo id = "hattol">19990915</mezo>
 <mezo id = "irsz">2094</mezo>
-<mezo id = "hely">Nagykovácsi, Szegfû utca 15.</mezo>
+<mezo id = "hely">NagykovÃ¡csi, SzegfÅ± utca 15.</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20030410</mezo>
 <mezo id = "irsz">2090</mezo>
-<mezo id = "hely">Remeteszõlõs, Uránzsz köz 3.</mezo>
+<mezo id = "hely">RemeteszÅ‘lÅ‘s, UrÃ¡nzsz kÃ¶z 3.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "8">
@@ -820,12 +820,12 @@
 <rovat id = "13">
 <alrovat id = "8">
 <mezo id = "hattol">20091020</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (tisztségviselõ)</mezo>
-<mezo id = "pnev">Jánki Viktor</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (tisztsÃ©gviselÅ‘)</mezo>
+<mezo id = "pnev">JÃ¡nki Viktor</mezo>
 <mezo id = "panev">Varga Judit</mezo>
 <mezo id = "pirsz">2094</mezo>
-<mezo id = "phely">Nagykovácsi</mezo>
-<mezo id = "pteru">Rácski telep 110/36.</mezo>
+<mezo id = "phely">NagykovÃ¡csi</mezo>
+<mezo id = "pteru">RÃ¡cski telep 110/36.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20091020</mezo>
 <mezo id = "jogvv">20111121</mezo>
@@ -834,12 +834,12 @@
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">20091020</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (tisztségviselõ)</mezo>
-<mezo id = "pnev">Gódor Mariann</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (tisztsÃ©gviselÅ‘)</mezo>
+<mezo id = "pnev">GÃ³dor Mariann</mezo>
 <mezo id = "panev">Boglyas Margit</mezo>
 <mezo id = "pirsz">2094</mezo>
-<mezo id = "phely">Nagykovácsi</mezo>
-<mezo id = "pteru">Rácski telep 0110/36.</mezo>
+<mezo id = "phely">NagykovÃ¡csi</mezo>
+<mezo id = "pteru">RÃ¡cski telep 0110/36.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20091020</mezo>
 <mezo id = "valtk">20091020</mezo>
@@ -849,10 +849,10 @@
 <rovat id = "14">
 <alrovat id = "1">
 <mezo id = "hattol">20060517</mezo>
-<mezo id = "pnev">Csiszár Mária</mezo>
-<mezo id = "panev">Kormos Teréz</mezo>
+<mezo id = "pnev">CsiszÃ¡r MÃ¡ria</mezo>
+<mezo id = "panev">Kormos TerÃ©z</mezo>
 <mezo id = "pirsz">1078</mezo>
-<mezo id = "phely">Budapest, Hernád u. 43.</mezo>
+<mezo id = "phely">Budapest, HernÃ¡d u. 43.</mezo>
 <mezo id = "jogvk">20060517</mezo>
 <mezo id = "jogvv">20110517</mezo>
 </alrovat>
@@ -883,17 +883,17 @@
 <alrovat id = "4">
 <mezo id = "hattol">20011029</mezo>
 <mezo id = "k">x</mezo>
-<mezo id = "pnev">Jánki Viktor</mezo>
+<mezo id = "pnev">JÃ¡nki Viktor</mezo>
 <mezo id = "panev">Varga Judit</mezo>
 <mezo id = "pirsz">2094</mezo>
-<mezo id = "phely">Nagykovácsi, Rácski-telep 110/36.</mezo>
+<mezo id = "phely">NagykovÃ¡csi, RÃ¡cski-telep 110/36.</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20030307</mezo>
-<mezo id = "pnev">Gódor Mariann</mezo>
+<mezo id = "pnev">GÃ³dor Mariann</mezo>
 <mezo id = "panev">Boglyas Margit</mezo>
 <mezo id = "pirsz">2094</mezo>
-<mezo id = "phely">Nagykovácsi, Rácski telep 0110/36.</mezo>
+<mezo id = "phely">NagykovÃ¡csi, RÃ¡cski telep 0110/36.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "93">
@@ -905,75 +905,75 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság az 1996. 06. 11-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-02. MECH-VILL Systems Gépészeti, Villamos Tervezõ és<ujsor/>
-Kivitelezõ Kft.<ujsor/>
- Törölve: 1995. 04. 10-i hatállyal.<ujsor/>
- MECH-VILL System Gépészeti, Villamos Tervezõ és<ujsor/>
-Kivitelezõ Kft.<ujsor/>
- Hatályos: 1995. 04. 10-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g az 1996. 06. 11-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+02. MECH-VILL Systems GÃ©pÃ©szeti, Villamos TervezÅ‘ Ã©s<ujsor/>
+KivitelezÅ‘ Kft.<ujsor/>
+ TÃ¶rÃ¶lve: 1995. 04. 10-i hatÃ¡llyal.<ujsor/>
+ MECH-VILL System GÃ©pÃ©szeti, Villamos TervezÅ‘ Ã©s<ujsor/>
+KivitelezÅ‘ Kft.<ujsor/>
+ HatÃ¡lyos: 1995. 04. 10-tÅ‘l.<ujsor/>
 03. MECH-VILL Systems Kft.<ujsor/>
- Törölve: 1995. 04. 10-i hatállyal.<ujsor/>
+ TÃ¶rÃ¶lve: 1995. 04. 10-i hatÃ¡llyal.<ujsor/>
  MECH-VILL System Kft.<ujsor/>
- Hatályos: 1995. 04. 10-tõl.<ujsor/>
+ HatÃ¡lyos: 1995. 04. 10-tÅ‘l.<ujsor/>
 Bejegyezve: 1996. 10. 01.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109369660</mezo>
-<mezo id = "nev">MECH-VILL System Gépészeti, Villamos Tervezõ és Kivitelezõ Kft.</mezo>
-<mezo id = "cim">1133 Budapest, Kárpát u. 46. sz.</mezo>
+<mezo id = "nev">MECH-VILL System GÃ©pÃ©szeti, Villamos TervezÅ‘ Ã©s KivitelezÅ‘ Kft.</mezo>
+<mezo id = "cim">1133 Budapest, KÃ¡rpÃ¡t u. 46. sz.</mezo>
 <mezo id = "adosz">12036172201</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2003. 06. 10-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-07. 2090 Remeteszõlõs, Uránzsz köz 3.<ujsor/>
- Törölve: 2003. 04. 10-i hatállyal.<ujsor/>
- 2090 Remeteszõlõs, Uránusz köz 3.<ujsor/>
- Hatályos: 2003. 04. 10-tõl.<ujsor/>
-1(09). Gódor Mariann (an: Boglyas Margit)<ujsor/>
-2094 Nagykovácsi, Rácski telep 0110/36.<ujsor/>
- Törölve: 2003. 03. 07-i hatállyal.<ujsor/>
- Gódor Mariann (an: Baglyas Margit)<ujsor/>
-2094 Nagykovácsi, Rácski telep 0110/36.<ujsor/>
- Hatályos: 2003. 03. 07-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2003. 06. 10-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+07. 2090 RemeteszÅ‘lÅ‘s, UrÃ¡nzsz kÃ¶z 3.<ujsor/>
+ TÃ¶rÃ¶lve: 2003. 04. 10-i hatÃ¡llyal.<ujsor/>
+ 2090 RemeteszÅ‘lÅ‘s, UrÃ¡nusz kÃ¶z 3.<ujsor/>
+ HatÃ¡lyos: 2003. 04. 10-tÅ‘l.<ujsor/>
+1(09). GÃ³dor Mariann (an: Boglyas Margit)<ujsor/>
+2094 NagykovÃ¡csi, RÃ¡cski telep 0110/36.<ujsor/>
+ TÃ¶rÃ¶lve: 2003. 03. 07-i hatÃ¡llyal.<ujsor/>
+ GÃ³dor Mariann (an: Baglyas Margit)<ujsor/>
+2094 NagykovÃ¡csi, RÃ¡cski telep 0110/36.<ujsor/>
+ HatÃ¡lyos: 2003. 03. 07-tÅ‘l.<ujsor/>
 Bejegyezve: 2003. 08. 11.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109369660</mezo>
-<mezo id = "nev">MECH-VILL System Gépészeti, Villamos Tervezõ és Kivitelezõ Kft.</mezo>
-<mezo id = "cim">1133 Budapest, Kárpát u. 46. sz.</mezo>
+<mezo id = "nev">MECH-VILL System GÃ©pÃ©szeti, Villamos TervezÅ‘ Ã©s KivitelezÅ‘ Kft.</mezo>
+<mezo id = "cim">1133 Budapest, KÃ¡rpÃ¡t u. 46. sz.</mezo>
 <mezo id = "adosz">12036172241</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a cég 2006. 11. 22. napján<ujsor/>
-benyújtott változás bejegyzése iránti kérelmét elutasítja.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a cÃ©g 2006. 11. 22. napjÃ¡n<ujsor/>
+benyÃºjtott vÃ¡ltozÃ¡s bejegyzÃ©se irÃ¡nti kÃ©relmÃ©t elutasÃ­tja.<ujsor/>
 2007. 01. 16.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109369660</mezo>
-<mezo id = "nev">MECH-VILL System Gépészeti, Villamos Tervezõ és Kivitelezõ Kft.</mezo>
-<mezo id = "cim">1133 Budapest, Kárpát u. 46. sz.</mezo>
+<mezo id = "nev">MECH-VILL System GÃ©pÃ©szeti, Villamos TervezÅ‘ Ã©s KivitelezÅ‘ Kft.</mezo>
+<mezo id = "cim">1133 Budapest, KÃ¡rpÃ¡t u. 46. sz.</mezo>
 <mezo id = "adosz">12036172241</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság a Cg.01-09-369660 cégjegyzékszámon bejegyzett MECH-VILL System Gépészeti, Villamos Tervezõ és Kivitelezõ Kft. (1072 Budapest, Rákóczi út 40. IV. em. 20.; adószáma: 12036172-2-42) ügyében az 2011. augusztus 17. napján hozott Cg.01-09-369660/82. számú végzését hivatalból kiegészíteni rendeli az alábbiak szerint:<ujsor/>
-33. A cég elleni végrehajtás adatai<ujsor/>
-A végrehajtás elrendelésének idõpontja: 2011.07.06.<ujsor/>
-A végrehajtás megszüntetésének idõpontja: 2011.08.12.<ujsor/>
-A végrehajtás ügyszáma: 42019/Ü/70247/2011/2<ujsor/>
-A végrehajtást elrendelõ (foganatosító) megnevezése: dr. Kele Ibolya közjegyzõ 2400 Dunaújváros, Erkel Ferenc kert 7.<ujsor/>
-A végrehajtás megszüntetésérõl szóló értesítés kiállításának idõpontja: 2011.08.12.<ujsor/>
-Vált. vége: 2011.08.12.<ujsor/>
-Törölve (végzés kelte): 2011. szeptember 19.<ujsor/>
-A végzés ellen fellebbezésnek nincs helye.<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.01-09-369660 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett MECH-VILL System GÃ©pÃ©szeti, Villamos TervezÅ‘ Ã©s KivitelezÅ‘ Kft. (1072 Budapest, RÃ¡kÃ³czi Ãºt 40. IV. em. 20.; adÃ³szÃ¡ma: 12036172-2-42) Ã¼gyÃ©ben az 2011. augusztus 17. napjÃ¡n hozott Cg.01-09-369660/82. szÃ¡mÃº vÃ©gzÃ©sÃ©t hivatalbÃ³l kiegÃ©szÃ­teni rendeli az alÃ¡bbiak szerint:<ujsor/>
+33. A cÃ©g elleni vÃ©grehajtÃ¡s adatai<ujsor/>
+A vÃ©grehajtÃ¡s elrendelÃ©sÃ©nek idÅ‘pontja: 2011.07.06.<ujsor/>
+A vÃ©grehajtÃ¡s megszÃ¼ntetÃ©sÃ©nek idÅ‘pontja: 2011.08.12.<ujsor/>
+A vÃ©grehajtÃ¡s Ã¼gyszÃ¡ma: 42019/Ãœ/70247/2011/2<ujsor/>
+A vÃ©grehajtÃ¡st elrendelÅ‘ (foganatosÃ­tÃ³) megnevezÃ©se: dr. Kele Ibolya kÃ¶zjegyzÅ‘ 2400 DunaÃºjvÃ¡ros, Erkel Ferenc kert 7.<ujsor/>
+A vÃ©grehajtÃ¡s megszÃ¼ntetÃ©sÃ©rÅ‘l szÃ³lÃ³ Ã©rtesÃ­tÃ©s kiÃ¡llÃ­tÃ¡sÃ¡nak idÅ‘pontja: 2011.08.12.<ujsor/>
+VÃ¡lt. vÃ©ge: 2011.08.12.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2011. szeptember 19.<ujsor/>
+A vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye.<ujsor/>
 2011. szeptember 19.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109369660</mezo>
-<mezo id = "nev">MECH-VILL System Gépészeti, Villamos Tervezõ és Kivitelezõ Kft.</mezo>
-<mezo id = "cim">1072 Budapest, Rákóczi út 40. IV. em. 20.</mezo>
+<mezo id = "nev">MECH-VILL System GÃ©pÃ©szeti, Villamos TervezÅ‘ Ã©s KivitelezÅ‘ Kft.</mezo>
+<mezo id = "cim">1072 Budapest, RÃ¡kÃ³czi Ãºt 40. IV. em. 20.</mezo>
 <mezo id = "adosz">12036172242</mezo>
 </alrovat>
 </rovat>

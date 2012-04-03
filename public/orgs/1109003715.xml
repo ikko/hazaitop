@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">003715</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">2541 Lábatlan, Rákóczi utca 5. </mezo>
+<mezo id = "cim">2541 LÃ¡batlan, RÃ¡kÃ³czi utca 5. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">11194082211</mezo>
 </alrovat>
@@ -13,21 +13,21 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19950525</mezo>
-<mezo id = "nev">Hétforrás Kistérségi Vízmû Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">HÃ©tforrÃ¡s KistÃ©rsÃ©gi VÃ­zmÅ± KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">19950525</mezo>
-<mezo id = "nev">Hétforrás KFT</mezo>
+<mezo id = "nev">HÃ©tforrÃ¡s KFT</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
 <alrovat id = "2">
 <mezo id = "hattol">20101203</mezo>
 <mezo id = "irsz">2541</mezo>
-<mezo id = "hely">Lábatlan</mezo>
-<mezo id = "teru">Rákóczi utca 5.</mezo>
+<mezo id = "hely">LÃ¡batlan</mezo>
+<mezo id = "teru">RÃ¡kÃ³czi utca 5.</mezo>
 <mezo id = "valtk">20101203</mezo>
 <mezo id = "bkelt">20110124</mezo>
 </alrovat>
@@ -387,18 +387,18 @@
 <rovat id = "13">
 <alrovat id = "3">
 <mezo id = "hattol">19981222</mezo>
-<mezo id = "tiszt">ügyvezetõ igazgató</mezo>
-<mezo id = "pnev">Papp László</mezo>
-<mezo id = "panev">Zelenák Mária</mezo>
+<mezo id = "tiszt">Ã¼gyvezetÅ‘ igazgatÃ³</mezo>
+<mezo id = "pnev">Papp LÃ¡szlÃ³</mezo>
+<mezo id = "panev">ZelenÃ¡k MÃ¡ria</mezo>
 <mezo id = "pirsz">2903</mezo>
-<mezo id = "phely">Komárom</mezo>
+<mezo id = "phely">KomÃ¡rom</mezo>
 <mezo id = "pteru">Fenyves u. 83.</mezo>
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">20100422</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Sütõ Péter</mezo>
-<mezo id = "panev">Dobos Angéla Zsuzsanna</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">SÃ¼tÅ‘ PÃ©ter</mezo>
+<mezo id = "panev">Dobos AngÃ©la Zsuzsanna</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100501</mezo>
 <mezo id = "jogvv">20150430</mezo>
@@ -411,13 +411,13 @@
 <alrovat id = "3">
 <mezo id = "hattol">20100507</mezo>
 <mezo id = "cgjsz">1109006342</mezo>
-<mezo id = "nev">BaraMA Könyvvizsgáló és Könyvelõ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">BaraMA KÃ¶nyvvizsgÃ¡lÃ³ Ã©s KÃ¶nyvelÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2943</mezo>
-<mezo id = "hely">Bábolna</mezo>
-<mezo id = "teru">Kisfaludy ltp. C. ép. 1. em. 4.</mezo>
+<mezo id = "hely">BÃ¡bolna</mezo>
+<mezo id = "teru">Kisfaludy ltp. C. Ã©p. 1. em. 4.</mezo>
 <mezo id = "pnev">Baranyai Magdolna</mezo>
-<mezo id = "panev">Szerencse Mária</mezo>
+<mezo id = "panev">Szerencse MÃ¡ria</mezo>
 <mezo id = "jogvk">20100518</mezo>
 <mezo id = "jogvv">20150517</mezo>
 <mezo id = "valtk">20100507</mezo>
@@ -427,7 +427,7 @@
 <rovat id = "15">
 <alrovat id = "10">
 <mezo id = "hattol">20100507</mezo>
-<mezo id = "pnev">Csicsatka Lászlóné</mezo>
+<mezo id = "pnev">Csicsatka LÃ¡szlÃ³nÃ©</mezo>
 <mezo id = "panev">Kondorosi Emma</mezo>
 <mezo id = "jogvk">20100518</mezo>
 <mezo id = "jogvv">20150517</mezo>
@@ -436,8 +436,8 @@
 </alrovat>
 <alrovat id = "11">
 <mezo id = "hattol">20100507</mezo>
-<mezo id = "pnev">Rácz István</mezo>
-<mezo id = "panev">Juhász Erzsébet</mezo>
+<mezo id = "pnev">RÃ¡cz IstvÃ¡n</mezo>
+<mezo id = "panev">JuhÃ¡sz ErzsÃ©bet</mezo>
 <mezo id = "jogvk">20100518</mezo>
 <mezo id = "jogvv">20150517</mezo>
 <mezo id = "valtk">20100507</mezo>
@@ -445,7 +445,7 @@
 </alrovat>
 <alrovat id = "12">
 <mezo id = "hattol">20100507</mezo>
-<mezo id = "pnev">Naszákné Németh Hilda</mezo>
+<mezo id = "pnev">NaszÃ¡knÃ© NÃ©meth Hilda</mezo>
 <mezo id = "panev">Fekete Hilda</mezo>
 <mezo id = "jogvk">20100518</mezo>
 <mezo id = "jogvv">20150517</mezo>
@@ -469,10 +469,10 @@
 <alrovat id = "29">
 <mezo id = "hattol">20080819</mezo>
 <mezo id = "cgjsz">1110001450</mezo>
-<mezo id = "nev">Északdunántúli Vízmû Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">Ã‰szakdunÃ¡ntÃºli VÃ­zmÅ± ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "irsz">2800</mezo>
-<mezo id = "hely">Tatabánya</mezo>
-<mezo id = "teru">Sárberek</mezo>
+<mezo id = "hely">TatabÃ¡nya</mezo>
+<mezo id = "teru">SÃ¡rberek</mezo>
 <mezo id = "hsz">100</mezo>
 <mezo id = "tagsk">19950525</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -483,10 +483,10 @@
 </alrovat>
 <alrovat id = "30">
 <mezo id = "hattol">20080819</mezo>
-<mezo id = "nev">Lábatlan Város Önkormányzata</mezo>
+<mezo id = "nev">LÃ¡batlan VÃ¡ros Ã–nkormÃ¡nyzata</mezo>
 <mezo id = "irsz">2541</mezo>
-<mezo id = "hely">Lábatlan</mezo>
-<mezo id = "teru">József Attila</mezo>
+<mezo id = "hely">LÃ¡batlan</mezo>
+<mezo id = "teru">JÃ³zsef Attila</mezo>
 <mezo id = "hsz">50.</mezo>
 <mezo id = "tagsk">19950525</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -497,11 +497,11 @@
 </alrovat>
 <alrovat id = "31">
 <mezo id = "hattol">20080819</mezo>
-<mezo id = "nev">Nagysáp Község Önkormányzata</mezo>
+<mezo id = "nev">NagysÃ¡p KÃ¶zsÃ©g Ã–nkormÃ¡nyzata</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2524</mezo>
-<mezo id = "hely">Nagysáp</mezo>
-<mezo id = "teru">Köztársaság</mezo>
+<mezo id = "hely">NagysÃ¡p</mezo>
+<mezo id = "teru">KÃ¶ztÃ¡rsasÃ¡g</mezo>
 <mezo id = "hsz">1</mezo>
 <mezo id = "tagsk">19950525</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -512,10 +512,10 @@
 </alrovat>
 <alrovat id = "33">
 <mezo id = "hattol">20080819</mezo>
-<mezo id = "nev">Süttõ Község Önkormányzata</mezo>
+<mezo id = "nev">SÃ¼ttÅ‘ KÃ¶zsÃ©g Ã–nkormÃ¡nyzata</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2543</mezo>
-<mezo id = "hely">Süttõ</mezo>
+<mezo id = "hely">SÃ¼ttÅ‘</mezo>
 <mezo id = "teru">Templom</mezo>
 <mezo id = "hsz">9</mezo>
 <mezo id = "tagsk">19950525</mezo>
@@ -527,10 +527,10 @@
 </alrovat>
 <alrovat id = "34">
 <mezo id = "hattol">20080819</mezo>
-<mezo id = "nev">Bajót Község Önkormányzata</mezo>
+<mezo id = "nev">BajÃ³t KÃ¶zsÃ©g Ã–nkormÃ¡nyzata</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2533</mezo>
-<mezo id = "hely">Bajót</mezo>
+<mezo id = "hely">BajÃ³t</mezo>
 <mezo id = "teru">Kossuth Lajos</mezo>
 <mezo id = "hsz">69</mezo>
 <mezo id = "tagsk">19950525</mezo>
@@ -542,7 +542,7 @@
 </alrovat>
 <alrovat id = "35">
 <mezo id = "hattol">20080819</mezo>
-<mezo id = "nev">Bajna Község Önkormányzata</mezo>
+<mezo id = "nev">Bajna KÃ¶zsÃ©g Ã–nkormÃ¡nyzata</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2525</mezo>
 <mezo id = "hely">Bajna</mezo>
@@ -557,10 +557,10 @@
 </alrovat>
 <alrovat id = "36">
 <mezo id = "hattol">20080819</mezo>
-<mezo id = "nev">Epöl Község Önkormányzata</mezo>
+<mezo id = "nev">EpÃ¶l KÃ¶zsÃ©g Ã–nkormÃ¡nyzata</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2526</mezo>
-<mezo id = "hely">Epöl</mezo>
+<mezo id = "hely">EpÃ¶l</mezo>
 <mezo id = "teru">Kossuth Lajos</mezo>
 <mezo id = "hsz">8</mezo>
 <mezo id = "tagsk">19950525</mezo>
@@ -573,21 +573,21 @@
 <alrovat id = "37">
 <mezo id = "hattol">20101203</mezo>
 <mezo id = "cgjsz">1110001447</mezo>
-<mezo id = "nev">ZOLTEK Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">ZOLTEK ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2536</mezo>
-<mezo id = "hely">Nyergesújfalu</mezo>
-<mezo id = "teru">Varga J tér 1.</mezo>
+<mezo id = "hely">NyergesÃºjfalu</mezo>
+<mezo id = "teru">Varga J tÃ©r 1.</mezo>
 <mezo id = "tagsk">19950525</mezo>
 <mezo id = "valtk">20101203</mezo>
 <mezo id = "bkelt">20110124</mezo>
 </alrovat>
 <alrovat id = "38">
 <mezo id = "hattol">20101203</mezo>
-<mezo id = "nev">Nyergesújfalu Város Önkormányzata</mezo>
+<mezo id = "nev">NyergesÃºjfalu VÃ¡ros Ã–nkormÃ¡nyzata</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2536</mezo>
-<mezo id = "hely">Nyergesújfalu</mezo>
+<mezo id = "hely">NyergesÃºjfalu</mezo>
 <mezo id = "teru">Kossuth L utca 104-106.</mezo>
 <mezo id = "tagsk">19950525</mezo>
 <mezo id = "valtk">20101203</mezo>

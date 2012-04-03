@@ -5,7 +5,7 @@
 <mezo id = "cf">10</mezo>
 <mezo id = "szam">040189</mezo>
 <mezo id = "nevalrovat">3</mezo>
-<mezo id = "cim">2600 Vác, Kodály Zoltán út 3. </mezo>
+<mezo id = "cim">2600 VÃ¡c, KodÃ¡ly ZoltÃ¡n Ãºt 3. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">10863877244</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "3">
 <mezo id = "hattol">20070821</mezo>
-<mezo id = "nev">DMRV Duna Menti Regionális Vízmû Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">DMRV Duna Menti RegionÃ¡lis VÃ­zmÅ± ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">20070518</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -28,14 +28,14 @@
 <alrovat id = "1">
 <mezo id = "hattol">19930401</mezo>
 <mezo id = "irsz">2600</mezo>
-<mezo id = "hely">Vác</mezo>
-<mezo id = "teru">Hiradó u.3.</mezo>
+<mezo id = "hely">VÃ¡c</mezo>
+<mezo id = "teru">HiradÃ³ u.3.</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20051205</mezo>
 <mezo id = "irsz">2600</mezo>
-<mezo id = "hely">Vác</mezo>
-<mezo id = "teru">Kodály Zoltán út 3.</mezo>
+<mezo id = "hely">VÃ¡c</mezo>
+<mezo id = "teru">KodÃ¡ly ZoltÃ¡n Ãºt 3.</mezo>
 <mezo id = "kirsz">0</mezo>
 </alrovat>
 </rovat>
@@ -43,25 +43,25 @@
 <alrovat id = "1">
 <mezo id = "hattol">19930401</mezo>
 <mezo id = "irsz">2600</mezo>
-<mezo id = "hely">Vác, Derecske dûlõ 4/a. Duna-balparti Üzemigazgatóság</mezo>
+<mezo id = "hely">VÃ¡c, Derecske dÅ±lÅ‘ 4/a. Duna-balparti ÃœzemigazgatÃ³sÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "7">
 <alrovat id = "2">
 <mezo id = "hattol">19990331</mezo>
 <mezo id = "irsz">2000</mezo>
-<mezo id = "hely">Szentendre, Kalászi u. 2.</mezo>
+<mezo id = "hely">Szentendre, KalÃ¡szi u. 2.</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20050512</mezo>
 <mezo id = "irsz">2100</mezo>
-<mezo id = "hely">Gödöllõ, Sík Sándor út 4-7.</mezo>
+<mezo id = "hely">GÃ¶dÃ¶llÅ‘, SÃ­k SÃ¡ndor Ãºt 4-7.</mezo>
 <mezo id = "orsz">HU</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20050512</mezo>
 <mezo id = "irsz">2132</mezo>
-<mezo id = "hely">Göd, Délibáb u. 3.</mezo>
+<mezo id = "hely">GÃ¶d, DÃ©libÃ¡b u. 3.</mezo>
 <mezo id = "orsz">HU</mezo>
 </alrovat>
 <alrovat id = "5">
@@ -74,7 +74,7 @@
 <mezo id = "hattol">20110408</mezo>
 <mezo id = "irsz">2660</mezo>
 <mezo id = "hely">Balassagyarmat</mezo>
-<mezo id = "teru">Rákóczi utca 134.</mezo>
+<mezo id = "teru">RÃ¡kÃ³czi utca 134.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20110408</mezo>
 <mezo id = "bkelt">20110516</mezo>
@@ -931,7 +931,7 @@
 <rovat id = "13">
 <alrovat id = "7">
 <mezo id = "hattol">19950519</mezo>
-<mezo id = "nev">Dr. Kóti László igazgatósági tag</mezo>
+<mezo id = "nev">Dr. KÃ³ti LÃ¡szlÃ³ igazgatÃ³sÃ¡gi tag</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1088</mezo>
 <mezo id = "hely">Budapest</mezo>
@@ -939,15 +939,15 @@
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">19980521</mezo>
-<mezo id = "tiszt">igazgatósági tag</mezo>
-<mezo id = "pnev">dr. Lányi Péter</mezo>
+<mezo id = "tiszt">igazgatÃ³sÃ¡gi tag</mezo>
+<mezo id = "pnev">dr. LÃ¡nyi PÃ©ter</mezo>
 <mezo id = "pirsz">1022</mezo>
 <mezo id = "phely">Budapest</mezo>
 <mezo id = "pteru">Hermann O. u. 2/D.</mezo>
 </alrovat>
 <alrovat id = "54">
 <mezo id = "hattol">20100818</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (vezérigazgató)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (vezÃ©rigazgatÃ³)</mezo>
 <mezo id = "email">dmrvzrt@dmrvzrt.hu</mezo>
 <mezo id = "pnev">Vogel Csaba</mezo>
 <mezo id = "panev">Still Anna</mezo>
@@ -959,32 +959,32 @@
 </alrovat>
 <alrovat id = "55">
 <mezo id = "hattol">20110217</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "email">dmrvzrt@dmrvzrt.hu</mezo>
-<mezo id = "pnev">Szûcsné Ibrányi Judit</mezo>
-<mezo id = "panev">Bajnóczi Ilona</mezo>
+<mezo id = "pnev">SzÅ±csnÃ© IbrÃ¡nyi Judit</mezo>
+<mezo id = "panev">BajnÃ³czi Ilona</mezo>
 <mezo id = "pirsz">2600</mezo>
-<mezo id = "phely">Vác</mezo>
-<mezo id = "pteru">Munkácsy utca 52.</mezo>
+<mezo id = "phely">VÃ¡c</mezo>
+<mezo id = "pteru">MunkÃ¡csy utca 52.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20110217</mezo>
-<mezo id = "mnev">Tóth István</mezo>
+<mezo id = "mnev">TÃ³th IstvÃ¡n</mezo>
 <mezo id = "valtk">20110217</mezo>
 <mezo id = "bkelt">20110310</mezo>
 <mezo id = "adoazon">8328931699</mezo>
 </alrovat>
 <alrovat id = "56">
 <mezo id = "hattol">20110217</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "email">dmrvzrt@dmrvzrt.hu</mezo>
-<mezo id = "pnev">Tóth István</mezo>
+<mezo id = "pnev">TÃ³th IstvÃ¡n</mezo>
 <mezo id = "panev">Hodosi Ilona</mezo>
 <mezo id = "pirsz">2120</mezo>
 <mezo id = "phely">Dunakeszi</mezo>
 <mezo id = "pteru">Magyar utca 33/a.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20110217</mezo>
-<mezo id = "mnev">Szûcsné Ibrányi Judit</mezo>
+<mezo id = "mnev">SzÅ±csnÃ© IbrÃ¡nyi Judit</mezo>
 <mezo id = "valtk">20110217</mezo>
 <mezo id = "bkelt">20110310</mezo>
 <mezo id = "adoazon">8352632760</mezo>
@@ -994,16 +994,16 @@
 <alrovat id = "6">
 <mezo id = "hattol">20110526</mezo>
 <mezo id = "cgjsz">0109681313</mezo>
-<mezo id = "nev">K-E-S AUDIT Könyvvizsgáló, Könyvvezetõ és Adószakértõ Kft.</mezo>
+<mezo id = "nev">K-E-S AUDIT KÃ¶nyvvizsgÃ¡lÃ³, KÃ¶nyvvezetÅ‘ Ã©s AdÃ³szakÃ©rtÅ‘ Kft.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1054</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Báthori utca 20. III. em. 1.</mezo>
-<mezo id = "pnev">Dr. Sugár Dezsõ</mezo>
-<mezo id = "panev">Seres Mária</mezo>
+<mezo id = "teru">BÃ¡thori utca 20. III. em. 1.</mezo>
+<mezo id = "pnev">Dr. SugÃ¡r DezsÅ‘</mezo>
+<mezo id = "panev">Seres MÃ¡ria</mezo>
 <mezo id = "pirsz">1125</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Diósárok utca 56.</mezo>
+<mezo id = "pteru">DiÃ³sÃ¡rok utca 56.</mezo>
 <mezo id = "jogvk">20110601</mezo>
 <mezo id = "jogvv">20140531</mezo>
 <mezo id = "valtk">20110526</mezo>
@@ -1013,10 +1013,10 @@
 <rovat id = "15">
 <alrovat id = "46">
 <mezo id = "hattol">20110526</mezo>
-<mezo id = "pnev">Kramlik Mihály</mezo>
-<mezo id = "panev">Gonda Mária</mezo>
+<mezo id = "pnev">Kramlik MihÃ¡ly</mezo>
+<mezo id = "panev">Gonda MÃ¡ria</mezo>
 <mezo id = "pirsz">2132</mezo>
-<mezo id = "phely">Göd</mezo>
+<mezo id = "phely">GÃ¶d</mezo>
 <mezo id = "pteru">Sport utca 8.</mezo>
 <mezo id = "jogvk">20110601</mezo>
 <mezo id = "jogvv">20140531</mezo>
@@ -1025,10 +1025,10 @@
 </alrovat>
 <alrovat id = "47">
 <mezo id = "hattol">20110526</mezo>
-<mezo id = "pnev">Petõ Sándor</mezo>
-<mezo id = "panev">Petõ Mária</mezo>
+<mezo id = "pnev">PetÅ‘ SÃ¡ndor</mezo>
+<mezo id = "panev">PetÅ‘ MÃ¡ria</mezo>
 <mezo id = "pirsz">2613</mezo>
-<mezo id = "phely">Rád</mezo>
+<mezo id = "phely">RÃ¡d</mezo>
 <mezo id = "pteru">Nefelejcs utca 1.</mezo>
 <mezo id = "jogvk">20110601</mezo>
 <mezo id = "jogvv">20140531</mezo>
@@ -1037,10 +1037,10 @@
 </alrovat>
 <alrovat id = "48">
 <mezo id = "hattol">20110526</mezo>
-<mezo id = "pnev">Barna János Béla</mezo>
-<mezo id = "panev">Urbán Mária</mezo>
+<mezo id = "pnev">Barna JÃ¡nos BÃ©la</mezo>
+<mezo id = "panev">UrbÃ¡n MÃ¡ria</mezo>
 <mezo id = "pirsz">2699</mezo>
-<mezo id = "phely">Szügy</mezo>
+<mezo id = "phely">SzÃ¼gy</mezo>
 <mezo id = "pteru">Arany J utca 21.</mezo>
 <mezo id = "jogvk">20100819</mezo>
 <mezo id = "jogvv">20140531</mezo>
@@ -1052,7 +1052,7 @@
 <mezo id = "pnev">Berecz Julianna</mezo>
 <mezo id = "panev">Szarvas Julianna</mezo>
 <mezo id = "pirsz">2360</mezo>
-<mezo id = "phely">Gyál</mezo>
+<mezo id = "phely">GyÃ¡l</mezo>
 <mezo id = "pteru">Kossuth utca 57.</mezo>
 <mezo id = "jogvk">20100819</mezo>
 <mezo id = "jogvv">20140531</mezo>
@@ -1061,11 +1061,11 @@
 </alrovat>
 <alrovat id = "50">
 <mezo id = "hattol">20110526</mezo>
-<mezo id = "pnev">Halasi János</mezo>
-<mezo id = "panev">Nyizsnyik Jolán</mezo>
+<mezo id = "pnev">Halasi JÃ¡nos</mezo>
+<mezo id = "panev">Nyizsnyik JolÃ¡n</mezo>
 <mezo id = "pirsz">1181</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Üllõi út 365. III. em. 8.</mezo>
+<mezo id = "pteru">ÃœllÅ‘i Ãºt 365. III. em. 8.</mezo>
 <mezo id = "jogvk">20100819</mezo>
 <mezo id = "jogvv">20140531</mezo>
 <mezo id = "valtk">20110526</mezo>
@@ -1073,8 +1073,8 @@
 </alrovat>
 <alrovat id = "51">
 <mezo id = "hattol">20110526</mezo>
-<mezo id = "pnev">Jakab László</mezo>
-<mezo id = "panev">Kiss Irén</mezo>
+<mezo id = "pnev">Jakab LÃ¡szlÃ³</mezo>
+<mezo id = "panev">Kiss IrÃ©n</mezo>
 <mezo id = "pirsz">2060</mezo>
 <mezo id = "phely">Bicske</mezo>
 <mezo id = "pteru">Jakab utca 11.</mezo>
@@ -1088,8 +1088,8 @@
 <alrovat id = "1">
 <mezo id = "hattol">19930401</mezo>
 <mezo id = "cgjsz">1301007230</mezo>
-<mezo id = "nev">Duna Menti Regionális Vizmûvek</mezo>
-<mezo id = "mod">1992.évi LIII.tv.30.30.§/1/</mezo>
+<mezo id = "nev">Duna Menti RegionÃ¡lis VizmÅ±vek</mezo>
+<mezo id = "mod">1992.Ã©vi LIII.tv.30.30.Â§/1/</mezo>
 </alrovat>
 </rovat>
 <rovat id = "20">
@@ -1120,27 +1120,27 @@
 <mezo id = "adosz">10863877244</mezo>
 <mezo id = "kadosz">HU10863877</mezo>
 <mezo id = "bkelt">20110715</mezo>
-<mezo id = "megj">Státusz kezdete: 1993/04/01</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 1993/04/01</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0110">
 <alrovat id = "12">
 <mezo id = "hattol">20040510</mezo>
 <mezo id = "cgjsz">1310040189</mezo>
-<mezo id = "nev">Duna Menti Regionális Vízmû Rt.</mezo>
+<mezo id = "nev">Duna Menti RegionÃ¡lis VÃ­zmÅ± Rt.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2600</mezo>
-<mezo id = "hely">Vác</mezo>
-<mezo id = "teru">Hóman Bálint út</mezo>
+<mezo id = "hely">VÃ¡c</mezo>
+<mezo id = "teru">HÃ³man BÃ¡lint Ãºt</mezo>
 <mezo id = "hsz">3.</mezo>
 </alrovat>
 <alrovat id = "13">
 <mezo id = "hattol">20070313</mezo>
-<mezo id = "nev">Magyar Állam Környezetvédelmi és Vízügyi miniszter</mezo>
+<mezo id = "nev">Magyar Ãllam KÃ¶rnyezetvÃ©delmi Ã©s VÃ­zÃ¼gyi miniszter</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1011</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Fõ utca 44-50</mezo>
+<mezo id = "teru">FÅ‘ utca 44-50</mezo>
 <mezo id = "tagsk">0</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "sz2">x</mezo>
@@ -1157,204 +1157,204 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 1999. 06. 22-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-5(10). Részvényfajta: Törzsrészvény.<ujsor/>
- Kettõ darab kettõszázmillió Ft.<ujsor/>
- Részvényfajta: Törzsrészvény.<ujsor/>
- Huszonhárom darab tízmillió Ft.<ujsor/>
- Részvényfajta: Törzsrészvény.<ujsor/>
- Egyszáz darab egymillió Ft.<ujsor/>
- Részvényfajta: Törzsrészvény.<ujsor/>
- Hatszáz darab egyszázezer Ft.<ujsor/>
- Részvényfajta: Törzsrészvény.<ujsor/>
- Kilencszázkilencvenkilenc darab tízezer Ft.<ujsor/>
- Törölve: 1999. 03. 31-i hatállyal.<ujsor/>
- Részvényfajta: törzsrészvény.<ujsor/>
- Kettõ darab összevont, kettõszázmillió Ft.<ujsor/>
- Részvényfajta: törzsrészvény.<ujsor/>
- Huszonhárom darab összevont, tízmillió Ft.<ujsor/>
- Részvényfajta: törzsrészvény.<ujsor/>
- Egyszáz darab összevont, egymillió Ft.<ujsor/>
- Részvényfajta: törzsrészvény.<ujsor/>
- Hatszáz darab összevont, egyszázezer Ft.<ujsor/>
- Részvényfajta: törzsrészvény.<ujsor/>
- Kilencszázkilencvenkilenc darab összevont, tízezer Ft.<ujsor/>
- Hatályos: 1999. 03. 31-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 1999. 06. 22-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+5(10). RÃ©szvÃ©nyfajta: TÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+ KettÅ‘ darab kettÅ‘szÃ¡zmilliÃ³ Ft.<ujsor/>
+ RÃ©szvÃ©nyfajta: TÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+ HuszonhÃ¡rom darab tÃ­zmilliÃ³ Ft.<ujsor/>
+ RÃ©szvÃ©nyfajta: TÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+ EgyszÃ¡z darab egymilliÃ³ Ft.<ujsor/>
+ RÃ©szvÃ©nyfajta: TÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+ HatszÃ¡z darab egyszÃ¡zezer Ft.<ujsor/>
+ RÃ©szvÃ©nyfajta: TÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+ KilencszÃ¡zkilencvenkilenc darab tÃ­zezer Ft.<ujsor/>
+ TÃ¶rÃ¶lve: 1999. 03. 31-i hatÃ¡llyal.<ujsor/>
+ RÃ©szvÃ©nyfajta: tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+ KettÅ‘ darab Ã¶sszevont, kettÅ‘szÃ¡zmilliÃ³ Ft.<ujsor/>
+ RÃ©szvÃ©nyfajta: tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+ HuszonhÃ¡rom darab Ã¶sszevont, tÃ­zmilliÃ³ Ft.<ujsor/>
+ RÃ©szvÃ©nyfajta: tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+ EgyszÃ¡z darab Ã¶sszevont, egymilliÃ³ Ft.<ujsor/>
+ RÃ©szvÃ©nyfajta: tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+ HatszÃ¡z darab Ã¶sszevont, egyszÃ¡zezer Ft.<ujsor/>
+ RÃ©szvÃ©nyfajta: tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+ KilencszÃ¡zkilencvenkilenc darab Ã¶sszevont, tÃ­zezer Ft.<ujsor/>
+ HatÃ¡lyos: 1999. 03. 31-tÅ‘l.<ujsor/>
 Bejegyezve: 2000. 10. 13.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1310040189</mezo>
-<mezo id = "nev">Duna Menti Regionális Vízmû Részvénytársaság</mezo>
-<mezo id = "cim">2600 Vác, Híradó u. 3.</mezo>
+<mezo id = "nev">Duna Menti RegionÃ¡lis VÃ­zmÅ± RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2600 VÃ¡c, HÃ­radÃ³ u. 3.</mezo>
 <mezo id = "adosz">10863877213</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Duna Menti Regionális Vízmû ZRt. (Cg.: [13 10 040189]; székhely: 2600 Vác, Kodály Zoltán u. 3.; továbbiakban: DMRV ZRt.) közleménye a társaság által kibocsátott részvények dematerializált értékpapírokká történõ átalakításáról.<ujsor/>
-A DMRV ZRt. 2006. április 27 -én megtartott éves rendes közgyûlése döntött a DMRV ZRt. által kibocsátott 81 923 db, egyenként 11 000 Ft névértékû törzsrészvény, 1 db 11 000 Ft névértékû szavazatelsõbbségi részvény, valamint 6876 db, egyenként 11 000 Ft névértékû dolgozói részvény dematerializált értékpapírrá történõ átalakításáról.<ujsor/>
-Felhívás a részvények benyújtására:<ujsor/>
-A DMRV ZRt. igazgatósága a közgyûlés felhatalmazása alapján, a Tõkepiacról szóló 2001. évi CXX. tv. 10. § (1) bekezdésében foglaltak szerint, jelen hirdetmény útján felhívja a részvényeseit, hogy a fent meghatározott, nyomdai úton elõállított részvényeiket dematerializált formába történõ átalakítás céljából 2006. június 15-e és 2006. augusztus 15-e között nyújtsák be a jelen hirdetményben foglaltaknak megfelelõen. A részvények dematerializált formában történõ átalakításának napja 2006. augusztus 16. A részvények átalakítása a részvényekhez fûzõdõ jogokat nem érinti.<ujsor/>
-A benyújtás teljesülése:<ujsor/>
-A részvényes tulajdonában lévõ, nyomdai úton elõállított részvények abban az esetben minõsülnek benyújtottnak ha:<ujsor/>
-­ a részvényest igazoló részvény 2006. augusztus 15-ig ­ munkanapokon 8­14 óra között ­ a DMRV ZRt. alábbi székhelyén, illetve telephelyein elhelyezésre kerül:<ujsor/>
-DMRV ZRt. Központ (székhely), 2600 Vác, Kodály Zoltán u 3.,<ujsor/>
-DMRV ZRt. Balparti Üzemigazgatóság, 2600 Vác, Derecske u. 4/A,<ujsor/>
-DMRV ZRt. Jobbparti Üzemigazgatóság, 2000 Szentendre, Kalászi u 2.,<ujsor/>
-DMRV ZRt. Gödöllõi Üzemigazgatóság, 2100 Gödöllõ, Sík Sándor u. 4­7.,<ujsor/>
-DMRV ZRt. Fõépítésvezetõség, 2600 Vác, Szent László u 6/A.<ujsor/>
-­ A részvényes befektetési szolgáltatónál (továbbiakban: számlavezetõnél) 2006. augusztus 15-én rendelkezik értékpapírszámla-szerzõdéssel.<ujsor/>
-Ezen feltételek együttes teljesülésének hiányában az adott részvény be nem nyújtott részvénynek tekintendõ.<ujsor/>
-A részvények benyújtásának módja, értékpapírszámla-szerzõdés:<ujsor/>
-A részvényeket a fent megjelölt helyen és idõben lehet benyújtani. A részvények benyújtásával egyidejûleg a részvényes köteles bemutatni az értékpapírszámla-szerzõdést. A részvényes az értékpapírszámla-szerzõdés megkötése érdekében megkeresheti bármelyik befektetési szolgáltatót (számlavezetõt), azonban felhívjuk a figyelmét az alábbi részvényes általi ellenõrzésre:<ujsor/>
-­ Gyõzõdjenek meg arról, hogy az adott társaság rendelkezik-e értékpapírszámla-vezetési jogosultsággal.<ujsor/>
-­ Ellenõrizzék, hogy az adott társasággal kötött vagy kötendõ, számlavezetésrõl szóló szerzõdés alapján megnyitott vagy megnyitandó számla alkalmas-e dematerializált értékpapírok nyilvántartására.<ujsor/>
-Javasoljuk a részvényeseknek, hogy az értékpapírszámla-szerzõdés megkötéshez jelen postai úton is kézhez vett közleményt mutassák be a befektetési szolgáltatónak (számlavezetõnek).<ujsor/>
-A részvény-átalakítás folyamata:<ujsor/>
-A nyomdai úton elõállított részvények benyújtására rendelkezésre álló idõtartam 2006. június 15-tõl 2006. augusztus 15-ig tart. A társaság a benyújtási idõtartamot idõ elõtt is lezárhatja, ha a teljes részvénymennyiség benyújtásra került, és az alapszabály-módosítást a cégbíróság bejegyezte.<ujsor/>
-Az átalakítás idõpontja (az a nap, mely a dematerializált értékpapír keletkezik) a nyomdai úton elõállított részvények benyújtására nyitva álló határidõ lezárását követõ elsõ munkanap, azaz 2006. augusztus 16.<ujsor/>
-A részvényesek minden nyomdai úton elõállított és a fenti feltételeknek megfelelõen benyújtott, egyenként 11 000 Ft névértékû, névre szóló törzs-, szavazatelsõbbségi és dolgozói részvény után egy db 11 000 Ft névértékû, névre szóló dematerializált törzs-, szavazatelsõbbségi, illetve dolgozói részvény jóváírására jogosultak.<ujsor/>
-A nyomdai úton elõállított részvényeket a DMRV ZRt. 2006. augusztus 16-ával érvénytelenné nyilvánítja, és errõl a Magyar Tõkepiac honlapján hirdetményt tesz közzé.<ujsor/>
-Be nem nyújtott részvények:<ujsor/>
-Az érvényesen be nem nyújtott részvények sorszámait a társaság nyilvántartásba veszi, és az ezen részvények helyébe lépõ dematerializált részvényeket ­ az átalakítástól számított hat hónapon belül ­ befektetési szolgáltató közremûködésével értékesíti.<ujsor/>
-Az érvénytelenné nyilvánított értékpapír forgalom tárgya nem lehet, azonban annak átadásával tulajdonosa követelheti részére a dematerializált értékpapír jóváírását, vagy ha a részvény teljes mennyiségének értékesítése megtörtént, az értékesített dematerializált részvény ellenértékét. A DMRV ZRt. az értékesített dematerializált értékpapírok ellenértékét az értékesítésig felmerült költségekkel csökkentve fizeti ki az érvénytelenített részvény átadása esetén a részvény utolsó igazolt tulajdonosának, az értékpapírban megtestesített követelés elévülésére irányadó szabályok figyelembevételével.<ujsor/>
-Az értékesített részvények ellenértékét a társaság hitelintézetnél nyitott letéti számlán tartja. Az ellenérték összegérõl, kifizetésének helyérõl és kezdõ idõpontjáról a társaság hirdetményt tesz közzé. Kifizetésre a 6 hónapos határidõ leteltét vagy az összes be nem nyújtott nyomdai részvény értékesítését követõen kerül sor.<ujsor/>
-Sérült, megrongált, közjegyzõ által letiltott vagy megsemmisített részvények:<ujsor/>
-A sérült, megrongálódott részvény elfogadása abban az esetben lehetséges, ha az értékpapír mint adott sorszámú részvény egyértelmûen azonosítható. Az átalakítás idõpontjában közjegyzõ által letiltott vagy megsemmisített részvényeket a társaság a be nem nyújtott részvényekkel megegyezõen fogja kezelni.<ujsor/>
-A részvénykönyvi bejegyzés:<ujsor/>
-Az átalakítás napján a DMRV ZRt. részvénykönyvében a részvénysorszámmal ellátott hatályos bejegyzések megszûnnek. Ebben az idõpontban az egyes részvényesek tekintetében az általuk benyújtottnak minõsülõ részvénymennyiség kerül feltüntetésre, a DMRV ZRt. alapító okiratában foglalt rendelkezések szerint.<ujsor/>
+<mezo id = "szoveg">A Duna Menti RegionÃ¡lis VÃ­zmÅ± ZRt. (Cg.: [13 10 040189]; szÃ©khely: 2600 VÃ¡c, KodÃ¡ly ZoltÃ¡n u. 3.; tovÃ¡bbiakban: DMRV ZRt.) kÃ¶zlemÃ©nye a tÃ¡rsasÃ¡g Ã¡ltal kibocsÃ¡tott rÃ©szvÃ©nyek dematerializÃ¡lt Ã©rtÃ©kpapÃ­rokkÃ¡ tÃ¶rtÃ©nÅ‘ Ã¡talakÃ­tÃ¡sÃ¡rÃ³l.<ujsor/>
+A DMRV ZRt. 2006. Ã¡prilis 27 -Ã©n megtartott Ã©ves rendes kÃ¶zgyÅ±lÃ©se dÃ¶ntÃ¶tt a DMRV ZRt. Ã¡ltal kibocsÃ¡tott 81 923 db, egyenkÃ©nt 11 000 Ft nÃ©vÃ©rtÃ©kÅ± tÃ¶rzsrÃ©szvÃ©ny, 1 db 11 000 Ft nÃ©vÃ©rtÃ©kÅ± szavazatelsÅ‘bbsÃ©gi rÃ©szvÃ©ny, valamint 6876 db, egyenkÃ©nt 11 000 Ft nÃ©vÃ©rtÃ©kÅ± dolgozÃ³i rÃ©szvÃ©ny dematerializÃ¡lt Ã©rtÃ©kpapÃ­rrÃ¡ tÃ¶rtÃ©nÅ‘ Ã¡talakÃ­tÃ¡sÃ¡rÃ³l.<ujsor/>
+FelhÃ­vÃ¡s a rÃ©szvÃ©nyek benyÃºjtÃ¡sÃ¡ra:<ujsor/>
+A DMRV ZRt. igazgatÃ³sÃ¡ga a kÃ¶zgyÅ±lÃ©s felhatalmazÃ¡sa alapjÃ¡n, a TÅ‘kepiacrÃ³l szÃ³lÃ³ 2001. Ã©vi CXX. tv. 10. Â§ (1) bekezdÃ©sÃ©ben foglaltak szerint, jelen hirdetmÃ©ny ÃºtjÃ¡n felhÃ­vja a rÃ©szvÃ©nyeseit, hogy a fent meghatÃ¡rozott, nyomdai Ãºton elÅ‘Ã¡llÃ­tott rÃ©szvÃ©nyeiket dematerializÃ¡lt formÃ¡ba tÃ¶rtÃ©nÅ‘ Ã¡talakÃ­tÃ¡s cÃ©ljÃ¡bÃ³l 2006. jÃºnius 15-e Ã©s 2006. augusztus 15-e kÃ¶zÃ¶tt nyÃºjtsÃ¡k be a jelen hirdetmÃ©nyben foglaltaknak megfelelÅ‘en. A rÃ©szvÃ©nyek dematerializÃ¡lt formÃ¡ban tÃ¶rtÃ©nÅ‘ Ã¡talakÃ­tÃ¡sÃ¡nak napja 2006. augusztus 16. A rÃ©szvÃ©nyek Ã¡talakÃ­tÃ¡sa a rÃ©szvÃ©nyekhez fÅ±zÅ‘dÅ‘ jogokat nem Ã©rinti.<ujsor/>
+A benyÃºjtÃ¡s teljesÃ¼lÃ©se:<ujsor/>
+A rÃ©szvÃ©nyes tulajdonÃ¡ban lÃ©vÅ‘, nyomdai Ãºton elÅ‘Ã¡llÃ­tott rÃ©szvÃ©nyek abban az esetben minÅ‘sÃ¼lnek benyÃºjtottnak ha:<ujsor/>
+Â­ a rÃ©szvÃ©nyest igazolÃ³ rÃ©szvÃ©ny 2006. augusztus 15-ig Â­ munkanapokon 8Â­14 Ã³ra kÃ¶zÃ¶tt Â­ a DMRV ZRt. alÃ¡bbi szÃ©khelyÃ©n, illetve telephelyein elhelyezÃ©sre kerÃ¼l:<ujsor/>
+DMRV ZRt. KÃ¶zpont (szÃ©khely), 2600 VÃ¡c, KodÃ¡ly ZoltÃ¡n u 3.,<ujsor/>
+DMRV ZRt. Balparti ÃœzemigazgatÃ³sÃ¡g, 2600 VÃ¡c, Derecske u. 4/A,<ujsor/>
+DMRV ZRt. Jobbparti ÃœzemigazgatÃ³sÃ¡g, 2000 Szentendre, KalÃ¡szi u 2.,<ujsor/>
+DMRV ZRt. GÃ¶dÃ¶llÅ‘i ÃœzemigazgatÃ³sÃ¡g, 2100 GÃ¶dÃ¶llÅ‘, SÃ­k SÃ¡ndor u. 4Â­7.,<ujsor/>
+DMRV ZRt. FÅ‘Ã©pÃ­tÃ©svezetÅ‘sÃ©g, 2600 VÃ¡c, Szent LÃ¡szlÃ³ u 6/A.<ujsor/>
+Â­ A rÃ©szvÃ©nyes befektetÃ©si szolgÃ¡ltatÃ³nÃ¡l (tovÃ¡bbiakban: szÃ¡mlavezetÅ‘nÃ©l) 2006. augusztus 15-Ã©n rendelkezik Ã©rtÃ©kpapÃ­rszÃ¡mla-szerzÅ‘dÃ©ssel.<ujsor/>
+Ezen feltÃ©telek egyÃ¼ttes teljesÃ¼lÃ©sÃ©nek hiÃ¡nyÃ¡ban az adott rÃ©szvÃ©ny be nem nyÃºjtott rÃ©szvÃ©nynek tekintendÅ‘.<ujsor/>
+A rÃ©szvÃ©nyek benyÃºjtÃ¡sÃ¡nak mÃ³dja, Ã©rtÃ©kpapÃ­rszÃ¡mla-szerzÅ‘dÃ©s:<ujsor/>
+A rÃ©szvÃ©nyeket a fent megjelÃ¶lt helyen Ã©s idÅ‘ben lehet benyÃºjtani. A rÃ©szvÃ©nyek benyÃºjtÃ¡sÃ¡val egyidejÅ±leg a rÃ©szvÃ©nyes kÃ¶teles bemutatni az Ã©rtÃ©kpapÃ­rszÃ¡mla-szerzÅ‘dÃ©st. A rÃ©szvÃ©nyes az Ã©rtÃ©kpapÃ­rszÃ¡mla-szerzÅ‘dÃ©s megkÃ¶tÃ©se Ã©rdekÃ©ben megkeresheti bÃ¡rmelyik befektetÃ©si szolgÃ¡ltatÃ³t (szÃ¡mlavezetÅ‘t), azonban felhÃ­vjuk a figyelmÃ©t az alÃ¡bbi rÃ©szvÃ©nyes Ã¡ltali ellenÅ‘rzÃ©sre:<ujsor/>
+Â­ GyÅ‘zÅ‘djenek meg arrÃ³l, hogy az adott tÃ¡rsasÃ¡g rendelkezik-e Ã©rtÃ©kpapÃ­rszÃ¡mla-vezetÃ©si jogosultsÃ¡ggal.<ujsor/>
+Â­ EllenÅ‘rizzÃ©k, hogy az adott tÃ¡rsasÃ¡ggal kÃ¶tÃ¶tt vagy kÃ¶tendÅ‘, szÃ¡mlavezetÃ©srÅ‘l szÃ³lÃ³ szerzÅ‘dÃ©s alapjÃ¡n megnyitott vagy megnyitandÃ³ szÃ¡mla alkalmas-e dematerializÃ¡lt Ã©rtÃ©kpapÃ­rok nyilvÃ¡ntartÃ¡sÃ¡ra.<ujsor/>
+Javasoljuk a rÃ©szvÃ©nyeseknek, hogy az Ã©rtÃ©kpapÃ­rszÃ¡mla-szerzÅ‘dÃ©s megkÃ¶tÃ©shez jelen postai Ãºton is kÃ©zhez vett kÃ¶zlemÃ©nyt mutassÃ¡k be a befektetÃ©si szolgÃ¡ltatÃ³nak (szÃ¡mlavezetÅ‘nek).<ujsor/>
+A rÃ©szvÃ©ny-Ã¡talakÃ­tÃ¡s folyamata:<ujsor/>
+A nyomdai Ãºton elÅ‘Ã¡llÃ­tott rÃ©szvÃ©nyek benyÃºjtÃ¡sÃ¡ra rendelkezÃ©sre Ã¡llÃ³ idÅ‘tartam 2006. jÃºnius 15-tÅ‘l 2006. augusztus 15-ig tart. A tÃ¡rsasÃ¡g a benyÃºjtÃ¡si idÅ‘tartamot idÅ‘ elÅ‘tt is lezÃ¡rhatja, ha a teljes rÃ©szvÃ©nymennyisÃ©g benyÃºjtÃ¡sra kerÃ¼lt, Ã©s az alapszabÃ¡ly-mÃ³dosÃ­tÃ¡st a cÃ©gbÃ­rÃ³sÃ¡g bejegyezte.<ujsor/>
+Az Ã¡talakÃ­tÃ¡s idÅ‘pontja (az a nap, mely a dematerializÃ¡lt Ã©rtÃ©kpapÃ­r keletkezik) a nyomdai Ãºton elÅ‘Ã¡llÃ­tott rÃ©szvÃ©nyek benyÃºjtÃ¡sÃ¡ra nyitva Ã¡llÃ³ hatÃ¡ridÅ‘ lezÃ¡rÃ¡sÃ¡t kÃ¶vetÅ‘ elsÅ‘ munkanap, azaz 2006. augusztus 16.<ujsor/>
+A rÃ©szvÃ©nyesek minden nyomdai Ãºton elÅ‘Ã¡llÃ­tott Ã©s a fenti feltÃ©teleknek megfelelÅ‘en benyÃºjtott, egyenkÃ©nt 11 000 Ft nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³ tÃ¶rzs-, szavazatelsÅ‘bbsÃ©gi Ã©s dolgozÃ³i rÃ©szvÃ©ny utÃ¡n egy db 11 000 Ft nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³ dematerializÃ¡lt tÃ¶rzs-, szavazatelsÅ‘bbsÃ©gi, illetve dolgozÃ³i rÃ©szvÃ©ny jÃ³vÃ¡Ã­rÃ¡sÃ¡ra jogosultak.<ujsor/>
+A nyomdai Ãºton elÅ‘Ã¡llÃ­tott rÃ©szvÃ©nyeket a DMRV ZRt. 2006. augusztus 16-Ã¡val Ã©rvÃ©nytelennÃ© nyilvÃ¡nÃ­tja, Ã©s errÅ‘l a Magyar TÅ‘kepiac honlapjÃ¡n hirdetmÃ©nyt tesz kÃ¶zzÃ©.<ujsor/>
+Be nem nyÃºjtott rÃ©szvÃ©nyek:<ujsor/>
+Az Ã©rvÃ©nyesen be nem nyÃºjtott rÃ©szvÃ©nyek sorszÃ¡mait a tÃ¡rsasÃ¡g nyilvÃ¡ntartÃ¡sba veszi, Ã©s az ezen rÃ©szvÃ©nyek helyÃ©be lÃ©pÅ‘ dematerializÃ¡lt rÃ©szvÃ©nyeket Â­ az Ã¡talakÃ­tÃ¡stÃ³l szÃ¡mÃ­tott hat hÃ³napon belÃ¼l Â­ befektetÃ©si szolgÃ¡ltatÃ³ kÃ¶zremÅ±kÃ¶dÃ©sÃ©vel Ã©rtÃ©kesÃ­ti.<ujsor/>
+Az Ã©rvÃ©nytelennÃ© nyilvÃ¡nÃ­tott Ã©rtÃ©kpapÃ­r forgalom tÃ¡rgya nem lehet, azonban annak Ã¡tadÃ¡sÃ¡val tulajdonosa kÃ¶vetelheti rÃ©szÃ©re a dematerializÃ¡lt Ã©rtÃ©kpapÃ­r jÃ³vÃ¡Ã­rÃ¡sÃ¡t, vagy ha a rÃ©szvÃ©ny teljes mennyisÃ©gÃ©nek Ã©rtÃ©kesÃ­tÃ©se megtÃ¶rtÃ©nt, az Ã©rtÃ©kesÃ­tett dematerializÃ¡lt rÃ©szvÃ©ny ellenÃ©rtÃ©kÃ©t. A DMRV ZRt. az Ã©rtÃ©kesÃ­tett dematerializÃ¡lt Ã©rtÃ©kpapÃ­rok ellenÃ©rtÃ©kÃ©t az Ã©rtÃ©kesÃ­tÃ©sig felmerÃ¼lt kÃ¶ltsÃ©gekkel csÃ¶kkentve fizeti ki az Ã©rvÃ©nytelenÃ­tett rÃ©szvÃ©ny Ã¡tadÃ¡sa esetÃ©n a rÃ©szvÃ©ny utolsÃ³ igazolt tulajdonosÃ¡nak, az Ã©rtÃ©kpapÃ­rban megtestesÃ­tett kÃ¶vetelÃ©s elÃ©vÃ¼lÃ©sÃ©re irÃ¡nyadÃ³ szabÃ¡lyok figyelembevÃ©telÃ©vel.<ujsor/>
+Az Ã©rtÃ©kesÃ­tett rÃ©szvÃ©nyek ellenÃ©rtÃ©kÃ©t a tÃ¡rsasÃ¡g hitelintÃ©zetnÃ©l nyitott letÃ©ti szÃ¡mlÃ¡n tartja. Az ellenÃ©rtÃ©k Ã¶sszegÃ©rÅ‘l, kifizetÃ©sÃ©nek helyÃ©rÅ‘l Ã©s kezdÅ‘ idÅ‘pontjÃ¡rÃ³l a tÃ¡rsasÃ¡g hirdetmÃ©nyt tesz kÃ¶zzÃ©. KifizetÃ©sre a 6 hÃ³napos hatÃ¡ridÅ‘ leteltÃ©t vagy az Ã¶sszes be nem nyÃºjtott nyomdai rÃ©szvÃ©ny Ã©rtÃ©kesÃ­tÃ©sÃ©t kÃ¶vetÅ‘en kerÃ¼l sor.<ujsor/>
+SÃ©rÃ¼lt, megrongÃ¡lt, kÃ¶zjegyzÅ‘ Ã¡ltal letiltott vagy megsemmisÃ­tett rÃ©szvÃ©nyek:<ujsor/>
+A sÃ©rÃ¼lt, megrongÃ¡lÃ³dott rÃ©szvÃ©ny elfogadÃ¡sa abban az esetben lehetsÃ©ges, ha az Ã©rtÃ©kpapÃ­r mint adott sorszÃ¡mÃº rÃ©szvÃ©ny egyÃ©rtelmÅ±en azonosÃ­thatÃ³. Az Ã¡talakÃ­tÃ¡s idÅ‘pontjÃ¡ban kÃ¶zjegyzÅ‘ Ã¡ltal letiltott vagy megsemmisÃ­tett rÃ©szvÃ©nyeket a tÃ¡rsasÃ¡g a be nem nyÃºjtott rÃ©szvÃ©nyekkel megegyezÅ‘en fogja kezelni.<ujsor/>
+A rÃ©szvÃ©nykÃ¶nyvi bejegyzÃ©s:<ujsor/>
+Az Ã¡talakÃ­tÃ¡s napjÃ¡n a DMRV ZRt. rÃ©szvÃ©nykÃ¶nyvÃ©ben a rÃ©szvÃ©nysorszÃ¡mmal ellÃ¡tott hatÃ¡lyos bejegyzÃ©sek megszÅ±nnek. Ebben az idÅ‘pontban az egyes rÃ©szvÃ©nyesek tekintetÃ©ben az Ã¡ltaluk benyÃºjtottnak minÅ‘sÃ¼lÅ‘ rÃ©szvÃ©nymennyisÃ©g kerÃ¼l feltÃ¼ntetÃ©sre, a DMRV ZRt. alapÃ­tÃ³ okiratÃ¡ban foglalt rendelkezÃ©sek szerint.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1310040189</mezo>
-<mezo id = "nev">Duna Menti Regionális Vizmû Részvénytársaság</mezo>
-<mezo id = "cim">2600 Vác</mezo>
+<mezo id = "nev">Duna Menti RegionÃ¡lis VizmÅ± RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2600 VÃ¡c</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2006. 06. 20-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-11. 976 800 000 azaz kilencszázhetvenhatmillió-nyolcszázezer Ft készpénz.<ujsor/>
- Törölve: 2006. 06. 20.<ujsor/>
- 976 800 000 azaz kilencszázhetvenhatmillió-nyolcszázezer Ft.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2006. 06. 20-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+11. 976 800 000 azaz kilencszÃ¡zhetvenhatmilliÃ³-nyolcszÃ¡zezer Ft kÃ©szpÃ©nz.<ujsor/>
+ TÃ¶rÃ¶lve: 2006. 06. 20.<ujsor/>
+ 976 800 000 azaz kilencszÃ¡zhetvenhatmilliÃ³-nyolcszÃ¡zezer Ft.<ujsor/>
  Bejegyezve: 2006. 06. 20.<ujsor/>
 2006. 07. 19.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1310040189</mezo>
-<mezo id = "nev">Duna Menti Regionális Vízmû Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">2600 Vác, Kodály Zoltán út 3.</mezo>
+<mezo id = "nev">Duna Menti RegionÃ¡lis VÃ­zmÅ± ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2600 VÃ¡c, KodÃ¡ly ZoltÃ¡n Ãºt 3.</mezo>
 <mezo id = "adosz">10863877244</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Duna Menti Regionális Vízmû Zrt. (Cg.: [13 10 040189]; székhely: 2600 Vác, Kodály Zoltán út 3.; továbbiakban DMRV Zrt.) közleménye a társaság által kibocsátott összes nyomdai úton elõállított részvény érvénytelenítésérõl.<ujsor/>
-A DMRV Zrt. 2006. április 27-én megtartott éves rendes közgyûlése döntött a DMRV Zrt. által kibocsátott 81 923 db, egyenként 11 000 Ft névértékû törzsrészvény, 1 db 11 000 Ft névértékû szavazatelsõbbségi részvény, valamint 6876 db, egyenként 11 000 Ft névértékû dolgozói részvény dematerializált értékpapírrá történõ átalakításáról.<ujsor/>
-A hirdetmény alapján a nyomdai úton elõállított részvények benyújtására vonatkozó idõtartam 2006. július 15-tõl 2006. augusztus 15-ig terjedt.<ujsor/>
-Errõl a társaság a részvénytulajdonosokat személyre szóló értesítésben, illetve a Cégközlönyben és a Magyar Nemzetben közzétett hirdetmény útján tájékoztatta.<ujsor/>
-A dematerializált részvények keletkeztetésének idõpontja: 2006. augusztus 16. Ettõl az idõponttól a nyomdai úton elõállított részvények alapján a társaságban tagsági jog nem gyakorolható (ettõl az idõponttól kezdõdõen a nyomdai úton elõállított részvények nem minõsülnek értékpapírnak).<ujsor/>
-A társaság valamennyi nyomdai úton elõállított részvényére vonatkozik a hirdetmény, melyek a következõk:<ujsor/>
-Szavazatelsõbbségi részvény:<ujsor/>
-1 db 11 000 Ft nem összevont címletû szavazatelsõbbségi részvény, sorozat- és sorszám: B 000 001<ujsor/>
-Törzsrészvények:<ujsor/>
-2 db 220 000 000 Ft összevont címletû törzsrészvény, sorozat- és sorszám: A 000 001­040 000<ujsor/>
-23 db 11 000 000 Ft összevont címletû törzsrészvény, sorozat- és sorszám: A 040 001­063 000<ujsor/>
-100 db 1 100 000 Ft összevont címletû törzsrészvény, sorozat- és sorszám: A 063 001­073 000<ujsor/>
-600 db 110 000 Ft összevont címletû törzsrészvény, sorozat- és sorszám: A 073 001­079 000<ujsor/>
-999 db 11 000 Ft összevont címletû törzsrészvény, sorozat- és sorszám: A 079 001­079 999<ujsor/>
-1924 db 11 000 Ft nem összevont címletû törzsrészvény, sorozat- és sorszám: A 080 000­081 923<ujsor/>
-Dolgozói részvények:<ujsor/>
-6876 db 11 000 Ft nem összevont címletû dolgozói részvény.<ujsor/>
-Valamennyi részvény a társaság székhelyén benyújtásra került.<ujsor/>
+<mezo id = "szoveg">A Duna Menti RegionÃ¡lis VÃ­zmÅ± Zrt. (Cg.: [13 10 040189]; szÃ©khely: 2600 VÃ¡c, KodÃ¡ly ZoltÃ¡n Ãºt 3.; tovÃ¡bbiakban DMRV Zrt.) kÃ¶zlemÃ©nye a tÃ¡rsasÃ¡g Ã¡ltal kibocsÃ¡tott Ã¶sszes nyomdai Ãºton elÅ‘Ã¡llÃ­tott rÃ©szvÃ©ny Ã©rvÃ©nytelenÃ­tÃ©sÃ©rÅ‘l.<ujsor/>
+A DMRV Zrt. 2006. Ã¡prilis 27-Ã©n megtartott Ã©ves rendes kÃ¶zgyÅ±lÃ©se dÃ¶ntÃ¶tt a DMRV Zrt. Ã¡ltal kibocsÃ¡tott 81 923 db, egyenkÃ©nt 11 000 Ft nÃ©vÃ©rtÃ©kÅ± tÃ¶rzsrÃ©szvÃ©ny, 1 db 11 000 Ft nÃ©vÃ©rtÃ©kÅ± szavazatelsÅ‘bbsÃ©gi rÃ©szvÃ©ny, valamint 6876 db, egyenkÃ©nt 11 000 Ft nÃ©vÃ©rtÃ©kÅ± dolgozÃ³i rÃ©szvÃ©ny dematerializÃ¡lt Ã©rtÃ©kpapÃ­rrÃ¡ tÃ¶rtÃ©nÅ‘ Ã¡talakÃ­tÃ¡sÃ¡rÃ³l.<ujsor/>
+A hirdetmÃ©ny alapjÃ¡n a nyomdai Ãºton elÅ‘Ã¡llÃ­tott rÃ©szvÃ©nyek benyÃºjtÃ¡sÃ¡ra vonatkozÃ³ idÅ‘tartam 2006. jÃºlius 15-tÅ‘l 2006. augusztus 15-ig terjedt.<ujsor/>
+ErrÅ‘l a tÃ¡rsasÃ¡g a rÃ©szvÃ©nytulajdonosokat szemÃ©lyre szÃ³lÃ³ Ã©rtesÃ­tÃ©sben, illetve a CÃ©gkÃ¶zlÃ¶nyben Ã©s a Magyar Nemzetben kÃ¶zzÃ©tett hirdetmÃ©ny ÃºtjÃ¡n tÃ¡jÃ©koztatta.<ujsor/>
+A dematerializÃ¡lt rÃ©szvÃ©nyek keletkeztetÃ©sÃ©nek idÅ‘pontja: 2006. augusztus 16. EttÅ‘l az idÅ‘ponttÃ³l a nyomdai Ãºton elÅ‘Ã¡llÃ­tott rÃ©szvÃ©nyek alapjÃ¡n a tÃ¡rsasÃ¡gban tagsÃ¡gi jog nem gyakorolhatÃ³ (ettÅ‘l az idÅ‘ponttÃ³l kezdÅ‘dÅ‘en a nyomdai Ãºton elÅ‘Ã¡llÃ­tott rÃ©szvÃ©nyek nem minÅ‘sÃ¼lnek Ã©rtÃ©kpapÃ­rnak).<ujsor/>
+A tÃ¡rsasÃ¡g valamennyi nyomdai Ãºton elÅ‘Ã¡llÃ­tott rÃ©szvÃ©nyÃ©re vonatkozik a hirdetmÃ©ny, melyek a kÃ¶vetkezÅ‘k:<ujsor/>
+SzavazatelsÅ‘bbsÃ©gi rÃ©szvÃ©ny:<ujsor/>
+1 db 11 000 Ft nem Ã¶sszevont cÃ­mletÅ± szavazatelsÅ‘bbsÃ©gi rÃ©szvÃ©ny, sorozat- Ã©s sorszÃ¡m: B 000Â 001<ujsor/>
+TÃ¶rzsrÃ©szvÃ©nyek:<ujsor/>
+2 db 220 000 000 Ft Ã¶sszevont cÃ­mletÅ± tÃ¶rzsrÃ©szvÃ©ny, sorozat- Ã©s sorszÃ¡m: A 000 001Â­040Â 000<ujsor/>
+23 db 11 000 000 Ft Ã¶sszevont cÃ­mletÅ± tÃ¶rzsrÃ©szvÃ©ny, sorozat- Ã©s sorszÃ¡m: A 040 001Â­063Â 000<ujsor/>
+100 db 1 100 000 Ft Ã¶sszevont cÃ­mletÅ± tÃ¶rzsrÃ©szvÃ©ny, sorozat- Ã©s sorszÃ¡m: A 063 001Â­073Â 000<ujsor/>
+600 db 110 000 Ft Ã¶sszevont cÃ­mletÅ± tÃ¶rzsrÃ©szvÃ©ny, sorozat- Ã©s sorszÃ¡m: A 073 001Â­079Â 000<ujsor/>
+999 db 11 000 Ft Ã¶sszevont cÃ­mletÅ± tÃ¶rzsrÃ©szvÃ©ny, sorozat- Ã©s sorszÃ¡m: A 079 001Â­079Â 999<ujsor/>
+1924 db 11 000 Ft nem Ã¶sszevont cÃ­mletÅ± tÃ¶rzsrÃ©szvÃ©ny, sorozat- Ã©s sorszÃ¡m: A 080 000Â­081Â 923<ujsor/>
+DolgozÃ³i rÃ©szvÃ©nyek:<ujsor/>
+6876 db 11 000 Ft nem Ã¶sszevont cÃ­mletÅ± dolgozÃ³i rÃ©szvÃ©ny.<ujsor/>
+Valamennyi rÃ©szvÃ©ny a tÃ¡rsasÃ¡g szÃ©khelyÃ©n benyÃºjtÃ¡sra kerÃ¼lt.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1310040189</mezo>
-<mezo id = "nev">Duna Menti Regionális Vízmû Részvénytársaság</mezo>
-<mezo id = "cim">2600 Vác</mezo>
+<mezo id = "nev">Duna Menti RegionÃ¡lis VÃ­zmÅ± RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2600 VÃ¡c</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2008. 11. 24-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-54. [01 10 042051] Állami Privatizációs és Vagyonkezelõ Zártkörûen mûködõ Részvénytársaság<ujsor/>
-HU 1133 Budapest, Pozsonyi út 56.<ujsor/>
- A változás idõpontja: 2008. 01. 01.<ujsor/>
- A változás idõpontja (törlés): 2008. 01. 01.<ujsor/>
- Törölve: 2008. 01. 01.<ujsor/>
- [01 10 045784] Magyar Nemzeti Vagyonkezelõ Zártkörûen mûködõ Részvénytársaság<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2008. 11. 24-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+54. [01 10 042051] Ãllami PrivatizÃ¡ciÃ³s Ã©s VagyonkezelÅ‘ ZÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g<ujsor/>
+HU 1133 Budapest, Pozsonyi Ãºt 56.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 01. 01.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2008. 01. 01.<ujsor/>
+ TÃ¶rÃ¶lve: 2008. 01. 01.<ujsor/>
+ [01 10 045784] Magyar Nemzeti VagyonkezelÅ‘ ZÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g<ujsor/>
 HU 1133 Budapest, Pozsonyi 56.<ujsor/>
- A változás idõpontja: 2008. 01. 01.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 01. 01.<ujsor/>
  Bejegyezve: 2008. 01. 01.<ujsor/>
-1(10). A szavazati jog mértéke minõsített többségû befolyást biztosít.<ujsor/>
- Magyar Állam Környezetvédelmi és Vízügyi miniszter<ujsor/>
-HU 1011 Budapest, Fõ utca 44-50<ujsor/>
- A változás idõpontja: 2002. 04. 19.<ujsor/>
- A változás idõpontja (törlés): 2008. 01. 01.<ujsor/>
- Törölve: 2008. 01. 01.<ujsor/>
- A szavazati jog mértéke minõsített többségû befolyást biztosít.<ujsor/>
- Magyar Állam<ujsor/>
+1(10). A szavazati jog mÃ©rtÃ©ke minÅ‘sÃ­tett tÃ¶bbsÃ©gÅ± befolyÃ¡st biztosÃ­t.<ujsor/>
+ Magyar Ãllam KÃ¶rnyezetvÃ©delmi Ã©s VÃ­zÃ¼gyi miniszter<ujsor/>
+HU 1011 Budapest, FÅ‘ utca 44-50<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2002. 04. 19.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2008. 01. 01.<ujsor/>
+ TÃ¶rÃ¶lve: 2008. 01. 01.<ujsor/>
+ A szavazati jog mÃ©rtÃ©ke minÅ‘sÃ­tett tÃ¶bbsÃ©gÅ± befolyÃ¡st biztosÃ­t.<ujsor/>
+ Magyar Ãllam<ujsor/>
  Bejegyezve: 2008. 12. 12.<ujsor/>
 2008. 12. 12.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1310040189</mezo>
-<mezo id = "nev">DMRV Duna Menti Regionális Vízmû Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">2600 Vác, Kodály Zoltán út 3.</mezo>
+<mezo id = "nev">DMRV Duna Menti RegionÃ¡lis VÃ­zmÅ± ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2600 VÃ¡c, KodÃ¡ly ZoltÃ¡n Ãºt 3.</mezo>
 <mezo id = "adosz">10863877213</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Pest Megyei Bíróság mint Cégbíróság a Cg.13-10-040189 cégjegyzékszámon bejegyzett DMRV Duna Menti Regionális Vízmû Zártkörûen Mûködõ Részvénytársaság (2600 Vác, Kodály Zoltán út 3.; adószáma: 10863877-2-13) ügyében az 2009. május 22. napján hozott Cg.13-10-040189/136. számú végzését hivatalból kijavítani rendeli az alábbiak szerint:<ujsor/>
-14. A könyvvizsgáló(k) adatai<ujsor/>
-Cégjegyzékszám: Cg.01-09-681731<ujsor/>
-NC &amp; C Könyvszakértõ, Vállalkozásszervezõ és Kereskedelmi Korlátolt Felelõsségû Társaság<ujsor/>
-HU 1025 Budapest, Vihorlát utca 14.<ujsor/>
-Czibulkáné dr. Németh Emília (an.: Sztankovits Emília)<ujsor/>
-1025 Budapest, Vihorlát u. 14.<ujsor/>
-Jogv. kezdete: 2007.06.01. Jogv. vége: 2009.05.31.<ujsor/>
-Vált. vége: 2009.05.31.<ujsor/>
-Törölve (végzés kelte): 2009. augusztus 4.<ujsor/>
-A végzés ellen a kézbesítéstõl számított 15 (tizenöt) napon belül a Fõvárosi Ítélõtáblához címzett, de a Pest Megyei Bíróságnál, mint Cégbíróságnál 3 (három) példányban benyújtható fellebbezésnek van helye. A fellebbezés elsõ példányára 7.000.-Ft (hétezer forint) eljárási illetéket kell leróni. A Fõvárosi Ítélõtábla elõtti eljárásban a fellebbezõ fél részére a jogi képviselet kötelezõ.<ujsor/>
+<mezo id = "szoveg">A Pest Megyei BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.13-10-040189 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett DMRV Duna Menti RegionÃ¡lis VÃ­zmÅ± ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (2600 VÃ¡c, KodÃ¡ly ZoltÃ¡n Ãºt 3.; adÃ³szÃ¡ma: 10863877-2-13) Ã¼gyÃ©ben az 2009. mÃ¡jus 22. napjÃ¡n hozott Cg.13-10-040189/136. szÃ¡mÃº vÃ©gzÃ©sÃ©t hivatalbÃ³l kijavÃ­tani rendeli az alÃ¡bbiak szerint:<ujsor/>
+14. A kÃ¶nyvvizsgÃ¡lÃ³(k) adatai<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡m: Cg.01-09-681731<ujsor/>
+NC &amp; C KÃ¶nyvszakÃ©rtÅ‘, VÃ¡llalkozÃ¡sszervezÅ‘ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g<ujsor/>
+HU 1025 Budapest, VihorlÃ¡t utca 14.<ujsor/>
+CzibulkÃ¡nÃ© dr. NÃ©meth EmÃ­lia (an.: Sztankovits EmÃ­lia)<ujsor/>
+1025 Budapest, VihorlÃ¡t u. 14.<ujsor/>
+Jogv. kezdete: 2007.06.01. Jogv. vÃ©ge: 2009.05.31.<ujsor/>
+VÃ¡lt. vÃ©ge: 2009.05.31.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2009. augusztus 4.<ujsor/>
+A vÃ©gzÃ©s ellen a kÃ©zbesÃ­tÃ©stÅ‘l szÃ¡mÃ­tott 15 (tizenÃ¶t) napon belÃ¼l a FÅ‘vÃ¡rosi ÃtÃ©lÅ‘tÃ¡blÃ¡hoz cÃ­mzett, de a Pest Megyei BÃ­rÃ³sÃ¡gnÃ¡l, mint CÃ©gbÃ­rÃ³sÃ¡gnÃ¡l 3 (hÃ¡rom) pÃ©ldÃ¡nyban benyÃºjthatÃ³ fellebbezÃ©snek van helye. A fellebbezÃ©s elsÅ‘ pÃ©ldÃ¡nyÃ¡ra 7.000.-Ft (hÃ©tezer forint) eljÃ¡rÃ¡si illetÃ©ket kell lerÃ³ni. A FÅ‘vÃ¡rosi ÃtÃ©lÅ‘tÃ¡bla elÅ‘tti eljÃ¡rÃ¡sban a fellebbezÅ‘ fÃ©l rÃ©szÃ©re a jogi kÃ©pviselet kÃ¶telezÅ‘.<ujsor/>
 2009. augusztus 4.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1310040189</mezo>
-<mezo id = "nev">DMRV Duna Menti Regionális Vízmû Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">2600 Vác, Kodály Zoltán út 3.</mezo>
+<mezo id = "nev">DMRV Duna Menti RegionÃ¡lis VÃ­zmÅ± ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2600 VÃ¡c, KodÃ¡ly ZoltÃ¡n Ãºt 3.</mezo>
 <mezo id = "adosz">10863877213</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Pest Megyei Bíróság mint Cégbíróság a Cg.13-10-040189 cégjegyzékszámon bejegyzett DMRV Duna Menti Regionális Vízmû Zártkörûen Mûködõ Részvénytársaság (2600 Vác, Kodály Zoltán út 3.; adószáma: 10863877-2-44) kérelme alapján elrendeli az 2009. december 14. napján hozott Cg.13-10-040189 /145. számú végzésének kiegészítését az alábbiak szerint:<ujsor/>
-8. A létesítõ okirat kelte<ujsor/>
+<mezo id = "szoveg">A Pest Megyei BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.13-10-040189 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett DMRV Duna Menti RegionÃ¡lis VÃ­zmÅ± ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (2600 VÃ¡c, KodÃ¡ly ZoltÃ¡n Ãºt 3.; adÃ³szÃ¡ma: 10863877-2-44) kÃ©relme alapjÃ¡n elrendeli az 2009. december 14. napjÃ¡n hozott Cg.13-10-040189 /145. szÃ¡mÃº vÃ©gzÃ©sÃ©nek kiegÃ©szÃ­tÃ©sÃ©t az alÃ¡bbiak szerint:<ujsor/>
+8. A lÃ©tesÃ­tÅ‘ okirat kelte<ujsor/>
 2009.07.31<ujsor/>
-Bejegyezve (végzés kelte): 2010. január 5.<ujsor/>
-E végzés ellen fellebbezésnek nincs helye.<ujsor/>
-A cég 15.000.-Ft illetéket és 3.000.-Ft költségtéritést megfizetett.<ujsor/>
-2010. január 5.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2010. januÃ¡r 5.<ujsor/>
+E vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye.<ujsor/>
+A cÃ©g 15.000.-Ft illetÃ©ket Ã©s 3.000.-Ft kÃ¶ltsÃ©gtÃ©ritÃ©st megfizetett.<ujsor/>
+2010. januÃ¡r 5.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1310040189</mezo>
-<mezo id = "nev">DMRV Duna Menti Regionális Vízmû Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">2600 Vác, Kodály Zoltán út 3.</mezo>
+<mezo id = "nev">DMRV Duna Menti RegionÃ¡lis VÃ­zmÅ± ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2600 VÃ¡c, KodÃ¡ly ZoltÃ¡n Ãºt 3.</mezo>
 <mezo id = "adosz">10863877244</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Pest Megyei Bíróság mint Cégbíróság a Cg.13-10-040189 cégjegyzékszámon bejegyzett DMRV Duna Menti Regionális Vízmû Zártkörûen Mûködõ Részvénytársaság (2600 Vác, Kodály Zoltán út 3.; adószáma: 10863877-2-44) kérelme alapján elrendeli az 2011. március 10. napján hozott Cg.13-10-040189 /163. számú végzésének kiegészítését az alábbiak szerint:<ujsor/>
-13. A képviseletre jogosult(ak) adatai<ujsor/>
-A képviselet módja: együttes.<ujsor/>
-Együttes képviselet esetén ez a személy mindig aláíró.<ujsor/>
-Együttes képviselet esetén a másik aláíró neve: Szûcsné Ibrányi Judit<ujsor/>
+<mezo id = "szoveg">A Pest Megyei BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.13-10-040189 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett DMRV Duna Menti RegionÃ¡lis VÃ­zmÅ± ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (2600 VÃ¡c, KodÃ¡ly ZoltÃ¡n Ãºt 3.; adÃ³szÃ¡ma: 10863877-2-44) kÃ©relme alapjÃ¡n elrendeli az 2011. mÃ¡rcius 10. napjÃ¡n hozott Cg.13-10-040189 /163. szÃ¡mÃº vÃ©gzÃ©sÃ©nek kiegÃ©szÃ­tÃ©sÃ©t az alÃ¡bbiak szerint:<ujsor/>
+13. A kÃ©pviseletre jogosult(ak) adatai<ujsor/>
+A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+EgyÃ¼ttes kÃ©pviselet esetÃ©n ez a szemÃ©ly mindig alÃ¡Ã­rÃ³.<ujsor/>
+EgyÃ¼ttes kÃ©pviselet esetÃ©n a mÃ¡sik alÃ¡Ã­rÃ³ neve: SzÅ±csnÃ© IbrÃ¡nyi Judit<ujsor/>
 E-mail: dmrvzrt@dmrvzrt.hu<ujsor/>
-Adóazonosító jel: 8295863762<ujsor/>
-Dr. Pécsi Kálmán más munkavállaló (an.: Lengyel Mária)<ujsor/>
+AdÃ³azonosÃ­tÃ³ jel: 8295863762<ujsor/>
+Dr. PÃ©csi KÃ¡lmÃ¡n mÃ¡s munkavÃ¡llalÃ³ (an.: Lengyel MÃ¡ria)<ujsor/>
 2612 Kosd, Kossuth utca 4.<ujsor/>
 Jogv. kezdete: 2009.12.10.<ujsor/>
-Vált. vége: 2011.02.17.<ujsor/>
-Törölve (végzés kelte): 2011. május 4.<ujsor/>
-E végzés ellen fellebbezésnek nincs helye.<ujsor/>
-2011. május 4.<ujsor/>
+VÃ¡lt. vÃ©ge: 2011.02.17.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2011. mÃ¡jus 4.<ujsor/>
+E vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye.<ujsor/>
+2011. mÃ¡jus 4.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1310040189</mezo>
-<mezo id = "nev">DMRV Duna Menti Regionális Vízmû Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">2600 Vác, Kodály Zoltán út 3.</mezo>
+<mezo id = "nev">DMRV Duna Menti RegionÃ¡lis VÃ­zmÅ± ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2600 VÃ¡c, KodÃ¡ly ZoltÃ¡n Ãºt 3.</mezo>
 <mezo id = "adosz">10863877244</mezo>
 </alrovat>
 </rovat>

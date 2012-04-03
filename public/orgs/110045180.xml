@@ -6,7 +6,7 @@
 <mezo id = "szam">045180</mezo>
 <mezo id = "nevalrovat">4</mezo>
 <mezo id = "regi_szh">1310040612</mezo>
-<mezo id = "cim">1015 Budapest, Batthyány u. 54. 5. em. 9. </mezo>
+<mezo id = "cim">1015 Budapest, BatthyÃ¡ny u. 54. 5. em. 9. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">12309887241</mezo>
 </alrovat>
@@ -14,13 +14,13 @@
 <rovat id = "2">
 <alrovat id = "4">
 <mezo id = "hattol">20060302</mezo>
-<mezo id = "nev">BMZ Ingatlanforgalmazó és Befektetõ Zártkörûen mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">BMZ IngatlanforgalmazÃ³ Ã©s BefektetÅ‘ ZÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "4">
 <mezo id = "hattol">20060302</mezo>
-<mezo id = "nev">BMZ Ingatlanforgalmazó Zrt.</mezo>
+<mezo id = "nev">BMZ IngatlanforgalmazÃ³ Zrt.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
@@ -28,7 +28,7 @@
 <mezo id = "hattol">20041001</mezo>
 <mezo id = "irsz">1015</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Batthyány u. 54. 5. em. 9.</mezo>
+<mezo id = "teru">BatthyÃ¡ny u. 54. 5. em. 9.</mezo>
 <mezo id = "kirsz">0</mezo>
 </alrovat>
 </rovat>
@@ -185,12 +185,12 @@
 <rovat id = "13">
 <alrovat id = "8">
 <mezo id = "hattol">20090928</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (vezérigazgató)</mezo>
-<mezo id = "pnev">Bessenyei Zoltán</mezo>
-<mezo id = "panev">Vidolmán Latina</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (vezÃ©rigazgatÃ³)</mezo>
+<mezo id = "pnev">Bessenyei ZoltÃ¡n</mezo>
+<mezo id = "panev">VidolmÃ¡n Latina</mezo>
 <mezo id = "pirsz">1025</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Madár utca 11.</mezo>
+<mezo id = "pteru">MadÃ¡r utca 11.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20091001</mezo>
 <mezo id = "valtk">20090928</mezo>
@@ -201,22 +201,22 @@
 <alrovat id = "1">
 <mezo id = "hattol">20000510</mezo>
 <mezo id = "cgjsz">1309081910</mezo>
-<mezo id = "nev">BMZ Ingatlanforgalmazó és Kereskedelmi Kft.</mezo>
+<mezo id = "nev">BMZ IngatlanforgalmazÃ³ Ã©s Kereskedelmi Kft.</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20000510</mezo>
 <mezo id = "cgjsz">1309083396</mezo>
-<mezo id = "nev">MAGAS &quot;C&quot; Ingatlanforgalmazó- és Hasznosító Kft.</mezo>
+<mezo id = "nev">MAGAS &quot;C&quot; IngatlanforgalmazÃ³- Ã©s HasznosÃ­tÃ³ Kft.</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20000510</mezo>
 <mezo id = "cgjsz">1309070147</mezo>
-<mezo id = "nev">PRO LEGITIMUS Üzletszervezõ és Beruházó Kft.</mezo>
+<mezo id = "nev">PRO LEGITIMUS ÃœzletszervezÅ‘ Ã©s BeruhÃ¡zÃ³ Kft.</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20081001</mezo>
 <mezo id = "cgjsz">109862655</mezo>
-<mezo id = "nev">ZIVATAR-LAK 73 Ingatlanforgalmazó és Hasznosító Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">ZIVATAR-LAK 73 IngatlanforgalmazÃ³ Ã©s HasznosÃ­tÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "atdat">0</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
@@ -251,225 +251,225 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A BMZ Ingatlanforgalmazó és Befektetõ Részvénytársaság (Cg.: [01 10 045180]; 1015 Budapest, Batthyány u. 54.) 2005. május 23-án tartott közgyûlése elhatározta a társaság 10 000 000 Ft névértékû saját részvényének bevonását, amelyet az alaptõke-leszállítás szabályainak alkalmazásával hajt végre.<ujsor/>
-Ezáltal a társaság alaptõkéje 100 000 000 Ft-ról 90 000 000 Ft-ra csökken.<ujsor/>
-A társaság alaptõkéje 90 000 db (kilencvenezer darab), egyenként 1000 Ft (egyezer forint) névértékû, nyomdai úton elõállított, azonos részvényesi jogokat megtestesítõ névre szóló törzsrészvénybõl áll.<ujsor/>
-Az alaptõke-leszállítás oka: saját részvények bevonása.<ujsor/>
-Végrehajtásának módja: részvények lebélyegzése.<ujsor/>
-Célja: tõkekivonás.<ujsor/>
-A részvények benyújtásának határideje: az alaptõke-leszállítás cégbíróság általi bejegyzését követõ 60 nap.<ujsor/>
-A társaság felhívja hitelezõit, hogy követeléseiket jelen hirdetmény közzétételétõl számított 30 napon belül jelentsék be.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">A BMZ IngatlanforgalmazÃ³ Ã©s BefektetÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 045180]; 1015 Budapest, BatthyÃ¡ny u. 54.) 2005. mÃ¡jus 23-Ã¡n tartott kÃ¶zgyÅ±lÃ©se elhatÃ¡rozta a tÃ¡rsasÃ¡g 10 000 000 Ft nÃ©vÃ©rtÃ©kÅ± sajÃ¡t rÃ©szvÃ©nyÃ©nek bevonÃ¡sÃ¡t, amelyet az alaptÅ‘ke-leszÃ¡llÃ­tÃ¡s szabÃ¡lyainak alkalmazÃ¡sÃ¡val hajt vÃ©gre.<ujsor/>
+EzÃ¡ltal a tÃ¡rsasÃ¡g alaptÅ‘kÃ©je 100 000 000 Ft-rÃ³l 90 000 000 Ft-ra csÃ¶kken.<ujsor/>
+A tÃ¡rsasÃ¡g alaptÅ‘kÃ©je 90 000 db (kilencvenezer darab), egyenkÃ©nt 1000 Ft (egyezer forint) nÃ©vÃ©rtÃ©kÅ±, nyomdai Ãºton elÅ‘Ã¡llÃ­tott, azonos rÃ©szvÃ©nyesi jogokat megtestesÃ­tÅ‘ nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©nybÅ‘l Ã¡ll.<ujsor/>
+Az alaptÅ‘ke-leszÃ¡llÃ­tÃ¡s oka: sajÃ¡t rÃ©szvÃ©nyek bevonÃ¡sa.<ujsor/>
+VÃ©grehajtÃ¡sÃ¡nak mÃ³dja: rÃ©szvÃ©nyek lebÃ©lyegzÃ©se.<ujsor/>
+CÃ©lja: tÅ‘kekivonÃ¡s.<ujsor/>
+A rÃ©szvÃ©nyek benyÃºjtÃ¡sÃ¡nak hatÃ¡rideje: az alaptÅ‘ke-leszÃ¡llÃ­tÃ¡s cÃ©gbÃ­rÃ³sÃ¡g Ã¡ltali bejegyzÃ©sÃ©t kÃ¶vetÅ‘ 60 nap.<ujsor/>
+A tÃ¡rsasÃ¡g felhÃ­vja hitelezÅ‘it, hogy kÃ¶vetelÃ©seiket jelen hirdetmÃ©ny kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l jelentsÃ©k be.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110045180</mezo>
-<mezo id = "nev">BMZ Ingatlanforgalmazó és Befektetõ Részvénytársaság</mezo>
+<mezo id = "nev">BMZ IngatlanforgalmazÃ³ Ã©s BefektetÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1015 Budapest</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A BMZ Ingatlanforgalmazó és Befektetõ Részvénytársaság (Cg.: [01 10 045180]; 1015 Budapest, Batthyány u. 54.) 2005. május 23-án tartott közgyûlése elhatározta a társaság 10 000 000 Ft névértékû saját részvényének bevonását, amelyet az alaptõke-leszállítás szabályainak alkalmazásával hajt végre.<ujsor/>
-Ezáltal a társaság alaptõkéje 100 000 000 Ft-ról 90 000 000 Ft-ra csökken.<ujsor/>
-A társaság alaptõkéje 90 000 db (kilencvenezer darab), egyenként 1000 Ft (egyezer forint) névértékû, nyomdai úton elõállított, azonos részvényesi jogokat megtestesítõ névre szóló törzsrészvénybõl áll.<ujsor/>
-Az alaptõke-leszállítás oka: saját részvények bevonása.<ujsor/>
-Végrehajtásának módja: részvények lebélyegzése.<ujsor/>
-Célja: tõkekivonás.<ujsor/>
-A részvények benyújtásának határideje: az alaptõke-leszállítás cégbíróság általi bejegyzését követõ 60 nap.<ujsor/>
-A társaság felhívja hitelezõit, hogy követeléseiket jelen hirdetmény közzétételétõl számított 30 napon belül jelentsék be.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">A BMZ IngatlanforgalmazÃ³ Ã©s BefektetÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 045180]; 1015 Budapest, BatthyÃ¡ny u. 54.) 2005. mÃ¡jus 23-Ã¡n tartott kÃ¶zgyÅ±lÃ©se elhatÃ¡rozta a tÃ¡rsasÃ¡g 10 000 000 Ft nÃ©vÃ©rtÃ©kÅ± sajÃ¡t rÃ©szvÃ©nyÃ©nek bevonÃ¡sÃ¡t, amelyet az alaptÅ‘ke-leszÃ¡llÃ­tÃ¡s szabÃ¡lyainak alkalmazÃ¡sÃ¡val hajt vÃ©gre.<ujsor/>
+EzÃ¡ltal a tÃ¡rsasÃ¡g alaptÅ‘kÃ©je 100 000 000 Ft-rÃ³l 90 000 000 Ft-ra csÃ¶kken.<ujsor/>
+A tÃ¡rsasÃ¡g alaptÅ‘kÃ©je 90 000 db (kilencvenezer darab), egyenkÃ©nt 1000 Ft (egyezer forint) nÃ©vÃ©rtÃ©kÅ±, nyomdai Ãºton elÅ‘Ã¡llÃ­tott, azonos rÃ©szvÃ©nyesi jogokat megtestesÃ­tÅ‘ nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©nybÅ‘l Ã¡ll.<ujsor/>
+Az alaptÅ‘ke-leszÃ¡llÃ­tÃ¡s oka: sajÃ¡t rÃ©szvÃ©nyek bevonÃ¡sa.<ujsor/>
+VÃ©grehajtÃ¡sÃ¡nak mÃ³dja: rÃ©szvÃ©nyek lebÃ©lyegzÃ©se.<ujsor/>
+CÃ©lja: tÅ‘kekivonÃ¡s.<ujsor/>
+A rÃ©szvÃ©nyek benyÃºjtÃ¡sÃ¡nak hatÃ¡rideje: az alaptÅ‘ke-leszÃ¡llÃ­tÃ¡s cÃ©gbÃ­rÃ³sÃ¡g Ã¡ltali bejegyzÃ©sÃ©t kÃ¶vetÅ‘ 60 nap.<ujsor/>
+A tÃ¡rsasÃ¡g felhÃ­vja hitelezÅ‘it, hogy kÃ¶vetelÃ©seiket jelen hirdetmÃ©ny kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l jelentsÃ©k be.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110045180</mezo>
-<mezo id = "nev">BMZ Ingatlanforgalmazó és Befektetõ Részvénytársaság</mezo>
+<mezo id = "nev">BMZ IngatlanforgalmazÃ³ Ã©s BefektetÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1015 Budapest</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2000. 05. 10-én hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-5(10). Húszezer darab névre szóló, azonos tagsági jogokat biztosító törzsrészvény, egyezer Ft.<ujsor/>
- Törölve: 2000. 05. 10-i hatállyal.<ujsor/>
- Részvényfajta: törzsrészvény.<ujsor/>
- Egyszázezer darab egyezer Ft.<ujsor/>
- Hatályos: 2000. 05. 10-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2000. 05. 10-Ã©n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+5(10). HÃºszezer darab nÃ©vre szÃ³lÃ³, azonos tagsÃ¡gi jogokat biztosÃ­tÃ³ tÃ¶rzsrÃ©szvÃ©ny, egyezer Ft.<ujsor/>
+ TÃ¶rÃ¶lve: 2000. 05. 10-i hatÃ¡llyal.<ujsor/>
+ RÃ©szvÃ©nyfajta: tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+ EgyszÃ¡zezer darab egyezer Ft.<ujsor/>
+ HatÃ¡lyos: 2000. 05. 10-tÅ‘l.<ujsor/>
 Bejegyezve: 2005. 09. 28.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110045180</mezo>
-<mezo id = "nev">BMZ Ingatlanforgalmazó és Befektetõ Részvénytársaság</mezo>
-<mezo id = "cim">1015 Budapest, Batthyány u. 54. 5. em. 9.</mezo>
+<mezo id = "nev">BMZ IngatlanforgalmazÃ³ Ã©s BefektetÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1015 Budapest, BatthyÃ¡ny u. 54. 5. em. 9.</mezo>
 <mezo id = "adosz">12309887241</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A BMZ Ingatlanforgalmazó és Befektetõ Részvénytársaság (Cg.: [01 10 045180]; 1015 Budapest, Batthyány u. 54.) 2005. november 25-én tartott közgyûlése elhatározta a társaság 10 000 000 Ft névértékû saját részvényének bevonását, amelyet az alaptõke-leszállítás szabályainak alkalmazásával hajt végre.<ujsor/>
-Ezáltal a társaság alaptõkéje 90 000 000 Ft-ról 80 000 000 Ft-ra csökken.<ujsor/>
-A társaság alaptõkéje 80 000 db (nyolcvanezer darab), egyenként 1000 Ft (egyezer forint) névértékû, nyomdai úton elõállított, azonos részvényesi jogokat megtestesítõ, névre szóló törzsrészvénybõl áll.<ujsor/>
-Az alaptõke-leszállítás oka: részvények bevonása.<ujsor/>
-Végrehajtásának módja: részvények lebélyegzése.<ujsor/>
-Célja: saját részvények bevonása.<ujsor/>
-A részvények benyújtásának határideje: az alaptõke-leszállítás cégbíróság általi bejegyzését követõ 60 nap.<ujsor/>
-A társaság felhívja a hitelezõit, hogy jelen hirdetmény második közzétételétõl számított 30 napon belül követeléseiket jelentsék be.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">A BMZ IngatlanforgalmazÃ³ Ã©s BefektetÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 045180]; 1015 Budapest, BatthyÃ¡ny u. 54.) 2005. november 25-Ã©n tartott kÃ¶zgyÅ±lÃ©se elhatÃ¡rozta a tÃ¡rsasÃ¡g 10 000 000 Ft nÃ©vÃ©rtÃ©kÅ± sajÃ¡t rÃ©szvÃ©nyÃ©nek bevonÃ¡sÃ¡t, amelyet az alaptÅ‘ke-leszÃ¡llÃ­tÃ¡s szabÃ¡lyainak alkalmazÃ¡sÃ¡val hajt vÃ©gre.<ujsor/>
+EzÃ¡ltal a tÃ¡rsasÃ¡g alaptÅ‘kÃ©je 90 000 000 Ft-rÃ³l 80 000 000 Ft-ra csÃ¶kken.<ujsor/>
+A tÃ¡rsasÃ¡g alaptÅ‘kÃ©je 80 000 db (nyolcvanezer darab), egyenkÃ©nt 1000 Ft (egyezer forint) nÃ©vÃ©rtÃ©kÅ±, nyomdai Ãºton elÅ‘Ã¡llÃ­tott, azonos rÃ©szvÃ©nyesi jogokat megtestesÃ­tÅ‘, nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©nybÅ‘l Ã¡ll.<ujsor/>
+Az alaptÅ‘ke-leszÃ¡llÃ­tÃ¡s oka: rÃ©szvÃ©nyek bevonÃ¡sa.<ujsor/>
+VÃ©grehajtÃ¡sÃ¡nak mÃ³dja: rÃ©szvÃ©nyek lebÃ©lyegzÃ©se.<ujsor/>
+CÃ©lja: sajÃ¡t rÃ©szvÃ©nyek bevonÃ¡sa.<ujsor/>
+A rÃ©szvÃ©nyek benyÃºjtÃ¡sÃ¡nak hatÃ¡rideje: az alaptÅ‘ke-leszÃ¡llÃ­tÃ¡s cÃ©gbÃ­rÃ³sÃ¡g Ã¡ltali bejegyzÃ©sÃ©t kÃ¶vetÅ‘ 60 nap.<ujsor/>
+A tÃ¡rsasÃ¡g felhÃ­vja a hitelezÅ‘it, hogy jelen hirdetmÃ©ny mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l kÃ¶vetelÃ©seiket jelentsÃ©k be.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110045180</mezo>
-<mezo id = "nev">BMZ Ingatlanforgalmazó és Befektetõ Részvénytársaság</mezo>
+<mezo id = "nev">BMZ IngatlanforgalmazÃ³ Ã©s BefektetÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1015 Budapest</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A BMZ Ingatlanforgalmazó és Befektetõ Részvénytársaság (Cg.: [01 10 045180]; 1015 Budapest, Batthyány u. 54.) 2005. november 25-én tartott közgyûlése elhatározta a társaság 10 000 000 Ft névértékû saját részvényének bevonását, amelyet az alaptõke leszállítás szabályainak alkalmazásával hajt végre.<ujsor/>
-Ezáltal a társaság alaptõkéje 90 000 000 Ft-ról 80 000 000 Ft-ra csökken.<ujsor/>
-A társaság alaptõkéje 80 000 db (nyolcvanezer darab), egyenként 1000 Ft (egyezer forint) névértékû, nyomdai úton elõállított, azonos részvényesi jogokat megtestesítõ, névre szóló törzsrészvénybõl áll.<ujsor/>
-Az alaptõke-leszállítás oka: tõkekivonás.<ujsor/>
-Végrehajtásának módja: részvények lebélyegzése.<ujsor/>
-Célja: saját részvények bevonása.<ujsor/>
-A részvények benyújtásának határideje: az alaptõke-leszállítás cégbíróság általi bejegyzését követõ 60 nap.<ujsor/>
-A társaság felhívja hitelezõit, hogy követeléseiket a hirdetmény utolsó közzétételétõl számított 30 napon belül jelentsék be.<ujsor/>
-(A BMZ Ingatlanforgalmazó és Befektetõ Rt. 2005. december 15-én megjelent alaptõke-leszállítással kapcsolatos hirdetményében az alaptõke-leszállítás oka tévesen (részvények bevonása) került közzétételre.<ujsor/>
-Az ok helyesen: tõkekivonás.)<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">A BMZ IngatlanforgalmazÃ³ Ã©s BefektetÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 045180]; 1015 Budapest, BatthyÃ¡ny u. 54.) 2005. november 25-Ã©n tartott kÃ¶zgyÅ±lÃ©se elhatÃ¡rozta a tÃ¡rsasÃ¡g 10 000 000 Ft nÃ©vÃ©rtÃ©kÅ± sajÃ¡t rÃ©szvÃ©nyÃ©nek bevonÃ¡sÃ¡t, amelyet az alaptÅ‘ke leszÃ¡llÃ­tÃ¡s szabÃ¡lyainak alkalmazÃ¡sÃ¡val hajt vÃ©gre.<ujsor/>
+EzÃ¡ltal a tÃ¡rsasÃ¡g alaptÅ‘kÃ©je 90 000 000 Ft-rÃ³l 80 000 000 Ft-ra csÃ¶kken.<ujsor/>
+A tÃ¡rsasÃ¡g alaptÅ‘kÃ©je 80 000 db (nyolcvanezer darab), egyenkÃ©nt 1000 Ft (egyezer forint) nÃ©vÃ©rtÃ©kÅ±, nyomdai Ãºton elÅ‘Ã¡llÃ­tott, azonos rÃ©szvÃ©nyesi jogokat megtestesÃ­tÅ‘, nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©nybÅ‘l Ã¡ll.<ujsor/>
+Az alaptÅ‘ke-leszÃ¡llÃ­tÃ¡s oka: tÅ‘kekivonÃ¡s.<ujsor/>
+VÃ©grehajtÃ¡sÃ¡nak mÃ³dja: rÃ©szvÃ©nyek lebÃ©lyegzÃ©se.<ujsor/>
+CÃ©lja: sajÃ¡t rÃ©szvÃ©nyek bevonÃ¡sa.<ujsor/>
+A rÃ©szvÃ©nyek benyÃºjtÃ¡sÃ¡nak hatÃ¡rideje: az alaptÅ‘ke-leszÃ¡llÃ­tÃ¡s cÃ©gbÃ­rÃ³sÃ¡g Ã¡ltali bejegyzÃ©sÃ©t kÃ¶vetÅ‘ 60 nap.<ujsor/>
+A tÃ¡rsasÃ¡g felhÃ­vja hitelezÅ‘it, hogy kÃ¶vetelÃ©seiket a hirdetmÃ©ny utolsÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l jelentsÃ©k be.<ujsor/>
+(A BMZ IngatlanforgalmazÃ³ Ã©s BefektetÅ‘ Rt. 2005. december 15-Ã©n megjelent alaptÅ‘ke-leszÃ¡llÃ­tÃ¡ssal kapcsolatos hirdetmÃ©nyÃ©ben az alaptÅ‘ke-leszÃ¡llÃ­tÃ¡s oka tÃ©vesen (rÃ©szvÃ©nyek bevonÃ¡sa) kerÃ¼lt kÃ¶zzÃ©tÃ©telre.<ujsor/>
+Az ok helyesen: tÅ‘kekivonÃ¡s.)<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110045180</mezo>
-<mezo id = "nev">BMZ Ingatlanforgalmazó és Befektetõ Részvénytársaság</mezo>
+<mezo id = "nev">BMZ IngatlanforgalmazÃ³ Ã©s BefektetÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1015 Budapest</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A ZIVATAR-LAK 73 Ingatlanforgalmazó és Hasznosító Korlátolt Felelõsségû Társaság (Cg.: [01 09 862655]; székhelye: 1024 Budapest, Zivatar u. 14­1. I. 8.) és a BMZ Ingatlanforgalmazó és Befektetõ Zártkörûen Mûködõ Részvénytársaság (Cg.: [01 10 045180]; székhelye: 1015 Budapest, Batthyány u. 54. V. 9.) gazdasági társaságok elhatározták ­ beolvadás útján történõ ­ egyesülésüket.<ujsor/>
-A beolvadás során a ZIVATAR-LAK 73 Ingatlanforgalmazó és Hasznosító Korlátolt Felelõsségû Társaság beolvad a MBZ Ingatlanforgalmazó és Befektetõ Zártkörûen Mûködõ Részvénytársaságba.<ujsor/>
-A jogutód gazdasági társaság adatai:<ujsor/>
-Cégnév: BMZ Ingatlanforgalmazó és Befektetõ Zártkörûen Mûködõ Részvénytársaság.<ujsor/>
-Székhelye: 1015 Budapest, Batthyány u. 54. V. 9.<ujsor/>
-Fõ tevékenysége (TEÁOR ’08): 6810 Saját tulajdonú ingatlan adásvétele.<ujsor/>
-Vezérigazgató: Bessenyei Zoltán (a. n.: Vidolmán Latina; 1025 Budapest, Madár u. 11. ).<ujsor/>
-Felügyelõbizottsági tagok: Patyi Mária (1055 Budapest, Kossuth L. u. 1/A IV. 5.; a. n.: Csire Mária), Molnár Zsuzsanna (a. n.: Gombos Ilona; 2092 Budakeszi, Rákóczi u. 126.), Jakó Imre (a. n.: Varga Ilona; 2162 Õrbottyán, Erkel F. u. hrsz. 3373.).<ujsor/>
-A társasági szerzõdés elfogadásának napja: 2008. június 29.<ujsor/>
-A ZIVATAR-LAK 73 Ingatlanforgalmazó és Hasznosító Korlátolt Felelõsségû Társaság saját tõkéje: 1084 ezer forint; jegyzett tõkéje: 3000 ezer forint; mérlegfõösszege: 42 713 ezer forint.<ujsor/>
-A BMZ Ingatlanforgalmazó és Befektetõ Zártkörûen Mûködõ Részvénytársaság saját tõkéje: 522 355 ezer forint; jegyzett tõkéje: 80 000 ezer forint; mérlegfõösszege: 645 180 ezer forint.<ujsor/>
-A jogutód BMZ Ingatlanforgalmazó és Befektetõ Zártkörûen Mûködõ Részvénytársaság saját tõkéje: 520 439 ezer forint; jegyzett tõkéje: 80 000 ezer forint; mérlegfõösszege: 643 693 ezer forint. A társaság alaptõkéje 80 000 db (nyolcvanezer darab), egyenként 1000 Ft (egyezer forint) névértékû, nyomdai úton elõállított azonos részvényesi jogokat megtestesítõ, névre szóló törzsrészvénybõl áll.<ujsor/>
-Az átvevõ társaság a beolvadó társaság jogutódja.<ujsor/>
-A beolvadó ZIVATAR-LAK 73 Ingatlanforgalmazó és Hasznosító Kft. beolvadás elõtti záró vagyonmérleg-tervezete (2007. december 31-i fordulónap):<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 41 014 Saját tõke 1 084<ujsor/>
-Immateriális javak 188 Jegyzett tõke 3 000<ujsor/>
-Tárgyi eszközök 40 826 Tõketartalék 0<ujsor/>
-Befektetett pénzügyi eszközök 0 Eredménytartalék ­1 916<ujsor/>
-Forgóeszközök 1 691 Lekötött tartalék 0<ujsor/>
-Készletek 0 Mérleg szerinti eredmény 0<ujsor/>
-Követelések 388 Céltartalékok 0<ujsor/>
-Értékpapírok 0 Kötelezettségek 41 628<ujsor/>
-Pénzeszközök 1 303 Hátra sorolt kötelezettségek 0<ujsor/>
-Aktív idõbeli elhatárolások 8 Hosszú lejáratú kötelezettségek 0<ujsor/>
-Rövid lejáratú kötelezettségek 41 628<ujsor/>
-Passzív idõbeli elhatárolások 1<ujsor/>
-ÖSSZESEN: 42 713 ÖSSZESEN: 42 713<ujsor/>
-Az átvevõ BMZ Ingatlanforgalmazó és Befektetõ Zrt. beolvadás elõtti záró vagyonmérleg-tervezete (2007. decembe 31-i fordulónap):<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 120 294 Saját tõke 522 355<ujsor/>
-Immateriális javak 0 Jegyzett tõke 80 000<ujsor/>
-Tárgyi eszközök 108 344 Tõketartalék 0<ujsor/>
-Befektetett pénzügyi eszközök 11 950 Eredménytartalék 442 355<ujsor/>
-Forgóeszközök 523 003 Lekötött tartalék 0<ujsor/>
-Készletek 22 946 Mérleg szerinti eredmény 0<ujsor/>
-Követelések 393 494 Céltartalékok 0<ujsor/>
-Értékpapírok 0 Kötelezettségek 121 049<ujsor/>
-Pénzeszközök 106 563 Hátra sorolt kötelezettségek 0<ujsor/>
-Aktív idõbeli elhatárolások 1 883 Hosszú lejáratú kötelezettségek 0<ujsor/>
-Rövid lejáratú kötelezettségek 121 049<ujsor/>
-Passzív idõbeli elhatárolások 1 776<ujsor/>
-ÖSSZESEN: 645 180 ÖSSZESEN: 645 180<ujsor/>
-A jogutód BMZ Ingatlanforgalmazó és Befektetõ Zrt. beolvadás utáni nyitó vagyonmérleg-tervezete (2007. decembe 31-i fordulónap):<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 158 408 Saját tõke 520 439<ujsor/>
-Immateriális javak 188 Jegyzett tõke 80 000<ujsor/>
-Tárgyi eszközök 149 170 Tõketartalék 0<ujsor/>
-Befektetett pénzügyi eszközök 9 050 Eredménytartalék 440 439<ujsor/>
-Forgóeszközök 483 394 Lekötött tartalék 0<ujsor/>
-Készletek 22 946 Mérleg szerinti eredmény 0<ujsor/>
-Követelések 352 582 Céltartalékok 0<ujsor/>
-Értékpapírok 0 Kötelezettségek 121 477<ujsor/>
-Pénzeszközök 107 866 Hátra sorolt kötelezettségek 0<ujsor/>
-Aktív idõbeli elhatárolások 1 891 Hosszú lejáratú kötelezettségek 0<ujsor/>
-Rövid lejáratú kötelezettségek 121 477<ujsor/>
-Passzív idõbeli elhatárolások 1 776<ujsor/>
-ÖSSZESEN: 643 693 ÖSSZESEN: 643 693<ujsor/>
-Felhívjuk a hitelezõk figyelmét arra, hogy jogaikat a 2006. évi IV. tv. 76. §-a alapján gyakorolhatják.<ujsor/>
-Az átalakuló gazdasági társaságok tájékoztatják a hitelezõiket, hogy akiknek az átalakuló gazdasági társasággal szemben fennálló, le nem járt követelései az átalakulásról hozott döntés elsõ közzétételét megelõzõen keletkeztek, követeléseik erejéig az átalakuló gazdasági társaságtól a döntés második közzétételét követõ harmincnapos jogvesztõ határidõn belül biztosítékot követelhetnek.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">A ZIVATAR-LAK 73 IngatlanforgalmazÃ³ Ã©s HasznosÃ­tÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [01 09 862655]; szÃ©khelye: 1024 Budapest, Zivatar u. 14Â­1. I. 8.) Ã©s a BMZ IngatlanforgalmazÃ³ Ã©s BefektetÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 045180]; szÃ©khelye: 1015 Budapest, BatthyÃ¡ny u. 54. V. 9.) gazdasÃ¡gi tÃ¡rsasÃ¡gok elhatÃ¡roztÃ¡k Â­ beolvadÃ¡s ÃºtjÃ¡n tÃ¶rtÃ©nÅ‘ Â­ egyesÃ¼lÃ©sÃ¼ket.<ujsor/>
+A beolvadÃ¡s sorÃ¡n a ZIVATAR-LAK 73 IngatlanforgalmazÃ³ Ã©s HasznosÃ­tÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g beolvad a MBZ IngatlanforgalmazÃ³ Ã©s BefektetÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡gba.<ujsor/>
+A jogutÃ³d gazdasÃ¡gi tÃ¡rsasÃ¡g adatai:<ujsor/>
+CÃ©gnÃ©v: BMZ IngatlanforgalmazÃ³ Ã©s BefektetÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 1015 Budapest, BatthyÃ¡ny u. 54. V. 9.<ujsor/>
+FÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™08): 6810 SajÃ¡t tulajdonÃº ingatlan adÃ¡svÃ©tele.<ujsor/>
+VezÃ©rigazgatÃ³: Bessenyei ZoltÃ¡n (a. n.: VidolmÃ¡n Latina; 1025 Budapest, MadÃ¡r u. 11. ).<ujsor/>
+FelÃ¼gyelÅ‘bizottsÃ¡gi tagok: Patyi MÃ¡ria (1055 Budapest, Kossuth L. u. 1/A IV. 5.; a. n.: Csire MÃ¡ria), MolnÃ¡r Zsuzsanna (a. n.: Gombos Ilona; 2092 Budakeszi, RÃ¡kÃ³czi u. 126.), JakÃ³ Imre (a. n.: Varga Ilona; 2162 ÅrbottyÃ¡n, Erkel F. u. hrsz. 3373.).<ujsor/>
+A tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s elfogadÃ¡sÃ¡nak napja: 2008. jÃºnius 29.<ujsor/>
+A ZIVATAR-LAK 73 IngatlanforgalmazÃ³ Ã©s HasznosÃ­tÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g sajÃ¡t tÅ‘kÃ©je: 1084 ezer forint; jegyzett tÅ‘kÃ©je: 3000 ezer forint; mÃ©rlegfÅ‘Ã¶sszege: 42 713 ezer forint.<ujsor/>
+A BMZ IngatlanforgalmazÃ³ Ã©s BefektetÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g sajÃ¡t tÅ‘kÃ©je: 522 355 ezer forint; jegyzett tÅ‘kÃ©je: 80 000 ezer forint; mÃ©rlegfÅ‘Ã¶sszege: 645 180 ezer forint.<ujsor/>
+A jogutÃ³d BMZ IngatlanforgalmazÃ³ Ã©s BefektetÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g sajÃ¡t tÅ‘kÃ©je: 520 439 ezer forint; jegyzett tÅ‘kÃ©je: 80 000 ezer forint; mÃ©rlegfÅ‘Ã¶sszege: 643 693 ezer forint. A tÃ¡rsasÃ¡g alaptÅ‘kÃ©je 80 000 db (nyolcvanezer darab), egyenkÃ©nt 1000 Ft (egyezer forint) nÃ©vÃ©rtÃ©kÅ±, nyomdai Ãºton elÅ‘Ã¡llÃ­tott azonos rÃ©szvÃ©nyesi jogokat megtestesÃ­tÅ‘, nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©nybÅ‘l Ã¡ll.<ujsor/>
+Az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g a beolvadÃ³ tÃ¡rsasÃ¡g jogutÃ³dja.<ujsor/>
+A beolvadÃ³ ZIVATAR-LAK 73 IngatlanforgalmazÃ³ Ã©s HasznosÃ­tÃ³ Kft. beolvadÃ¡s elÅ‘tti zÃ¡rÃ³ vagyonmÃ©rleg-tervezete (2007. december 31-i fordulÃ³nap):<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 41 014 SajÃ¡t tÅ‘ke 1 084<ujsor/>
+ImmateriÃ¡lis javak 188 Jegyzett tÅ‘ke 3 000<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 40 826 TÅ‘ketartalÃ©k 0<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 EredmÃ©nytartalÃ©k Â­1 916<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 1 691 LekÃ¶tÃ¶tt tartalÃ©k 0<ujsor/>
+KÃ©szletek 0 MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+KÃ¶vetelÃ©sek 388 CÃ©ltartalÃ©kok 0<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 0 KÃ¶telezettsÃ©gek 41 628<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 1 303 HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 8 HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0<ujsor/>
+RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 41 628<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 1<ujsor/>
+Ã–SSZESEN: 42 713 Ã–SSZESEN: 42 713<ujsor/>
+Az Ã¡tvevÅ‘ BMZ IngatlanforgalmazÃ³ Ã©s BefektetÅ‘ Zrt. beolvadÃ¡s elÅ‘tti zÃ¡rÃ³ vagyonmÃ©rleg-tervezete (2007. decembe 31-i fordulÃ³nap):<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 120 294 SajÃ¡t tÅ‘ke 522 355<ujsor/>
+ImmateriÃ¡lis javak 0 Jegyzett tÅ‘ke 80 000<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 108 344 TÅ‘ketartalÃ©k 0<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 11 950 EredmÃ©nytartalÃ©k 442 355<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 523 003 LekÃ¶tÃ¶tt tartalÃ©k 0<ujsor/>
+KÃ©szletek 22 946 MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+KÃ¶vetelÃ©sek 393 494 CÃ©ltartalÃ©kok 0<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 0 KÃ¶telezettsÃ©gek 121 049<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 106 563 HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 1 883 HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0<ujsor/>
+RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 121 049<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 1 776<ujsor/>
+Ã–SSZESEN: 645 180 Ã–SSZESEN: 645 180<ujsor/>
+A jogutÃ³d BMZ IngatlanforgalmazÃ³ Ã©s BefektetÅ‘ Zrt. beolvadÃ¡s utÃ¡ni nyitÃ³ vagyonmÃ©rleg-tervezete (2007. decembe 31-i fordulÃ³nap):<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 158 408 SajÃ¡t tÅ‘ke 520 439<ujsor/>
+ImmateriÃ¡lis javak 188 Jegyzett tÅ‘ke 80 000<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 149 170 TÅ‘ketartalÃ©k 0<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 9 050 EredmÃ©nytartalÃ©k 440 439<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 483 394 LekÃ¶tÃ¶tt tartalÃ©k 0<ujsor/>
+KÃ©szletek 22 946 MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+KÃ¶vetelÃ©sek 352 582 CÃ©ltartalÃ©kok 0<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 0 KÃ¶telezettsÃ©gek 121 477<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 107 866 HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 1 891 HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0<ujsor/>
+RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 121 477<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 1 776<ujsor/>
+Ã–SSZESEN: 643 693 Ã–SSZESEN: 643 693<ujsor/>
+FelhÃ­vjuk a hitelezÅ‘k figyelmÃ©t arra, hogy jogaikat a 2006. Ã©vi IV. tv. 76. Â§-a alapjÃ¡n gyakorolhatjÃ¡k.<ujsor/>
+Az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gok tÃ¡jÃ©koztatjÃ¡k a hitelezÅ‘iket, hogy akiknek az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei az Ã¡talakulÃ¡srÃ³l hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gtÃ³l a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110045180</mezo>
-<mezo id = "nev">BMZ Ingatlanforgalmazó és Befektetõ Részvénytársaság</mezo>
+<mezo id = "nev">BMZ IngatlanforgalmazÃ³ Ã©s BefektetÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1015 Budapest</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A ZIVATAR-LAK 73 Ingatlanforgalmazó és Hasznosító Korlátolt Felelõsségû Társaság (Cg.: [01 09 862655]; székhelye: 1024 Budapest, Zivatar u. 14­1. I. 8.) és a BMZ Ingatlanforgalmazó és Befektetõ Zártkörûen Mûködõ Részvénytársaság (Cg.: [01 10 045180]; székhelye: 1015 Budapest, Batthyány u. 54. V. 9.) gazdasági társaságok elhatározták ­ beolvadás útján történõ ­ egyesülésüket.<ujsor/>
-A beolvadás során a ZIVATAR-LAK 73 Ingatlanforgalmazó és Hasznosító Korlátolt Felelõsségû Társaság beolvad a MBZ Ingatlanforgalmazó és Befektetõ Zártkörûen Mûködõ Részvénytársaságba.<ujsor/>
-A jogutód gazdasági társaság adatai:<ujsor/>
-Cégnév: BMZ Ingatlanforgalmazó és Befektetõ Zártkörûen Mûködõ Részvénytársaság.<ujsor/>
-Székhelye: 1015 Budapest, Batthyány u. 54. V. 9.<ujsor/>
-Fõ tevékenysége (TEÁOR ’08): 6810 Saját tulajdonú ingatlan adásvétele.<ujsor/>
-Vezérigazgató: Bessenyei Zoltán (a. n.: Vidolmán Latina; 1025 Budapest, Madár u. 11. ).<ujsor/>
-Felügyelõbizottsági tagok: Patyi Mária (1055 Budapest, Kossuth L. u. 1/A IV. 5.; a. n.: Csire Mária), Molnár Zsuzsanna (a. n.: Gombos Ilona; 2092 Budakeszi, Rákóczi u. 126.), Jakó Imre (a. n.: Varga Ilona; 2162 Õrbottyán, Erkel F. u. hrsz. 3373.).<ujsor/>
-A társasági szerzõdés elfogadásának napja: 2008. június 29.<ujsor/>
-A ZIVATAR-LAK 73 Ingatlanforgalmazó és Hasznosító Korlátolt Felelõsségû Társaság saját tõkéje: 1084 ezer forint; jegyzett tõkéje: 3000 ezer forint; mérlegfõösszege: 42 713 ezer forint.<ujsor/>
-A BMZ Ingatlanforgalmazó és Befektetõ Zártkörûen Mûködõ Részvénytársaság saját tõkéje: 522 355 ezer forint; jegyzett tõkéje: 80 000 ezer forint; mérlegfõösszege: 645 180 ezer forint.<ujsor/>
-A jogutód BMZ Ingatlanforgalmazó és Befektetõ Zártkörûen Mûködõ Részvénytársaság saját tõkéje: 520 439 ezer forint; jegyzett tõkéje: 80 000 ezer forint; mérlegfõösszege: 643 693 ezer forint. A társaság alaptõkéje 80 000 db (nyolcvanezer darab), egyenként 1000 Ft (egyezer forint) névértékû, nyomdai úton elõállított azonos részvényesi jogokat megtestesítõ, névre szóló törzsrészvénybõl áll.<ujsor/>
-Az átvevõ társaság a beolvadó társaság jogutódja.<ujsor/>
-A beolvadó ZIVATAR-LAK 73 Ingatlanforgalmazó és Hasznosító Kft. beolvadás elõtti záró vagyonmérleg-tervezete (2007. december 31-i fordulónap):<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 41 014 Saját tõke 1 084<ujsor/>
-Immateriális javak 188 Jegyzett tõke 3 000<ujsor/>
-Tárgyi eszközök 40 826 Tõketartalék 0<ujsor/>
-Befektetett pénzügyi eszközök 0 Eredménytartalék ­1 916<ujsor/>
-Forgóeszközök 1 691 Lekötött tartalék 0<ujsor/>
-Készletek 0 Mérleg szerinti eredmény 0<ujsor/>
-Követelések 388 Céltartalékok 0<ujsor/>
-Értékpapírok 0 Kötelezettségek 41 628<ujsor/>
-Pénzeszközök 1 303 Hátra sorolt kötelezettségek 0<ujsor/>
-Aktív idõbeli elhatárolások 8 Hosszú lejáratú kötelezettségek 0<ujsor/>
-Rövid lejáratú kötelezettségek 41 628<ujsor/>
-Passzív idõbeli elhatárolások 1<ujsor/>
-ÖSSZESEN: 42 713 ÖSSZESEN: 42 713<ujsor/>
-Az átvevõ BMZ Ingatlanforgalmazó és Befektetõ Zrt. beolvadás elõtti záró vagyonmérleg-tervezete (2007. decembe 31-i fordulónap):<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 120 294 Saját tõke 522 355<ujsor/>
-Immateriális javak 0 Jegyzett tõke 80 000<ujsor/>
-Tárgyi eszközök 108 344 Tõketartalék 0<ujsor/>
-Befektetett pénzügyi eszközök 11 950 Eredménytartalék 442 355<ujsor/>
-Forgóeszközök 523 003 Lekötött tartalék 0<ujsor/>
-Készletek 22 946 Mérleg szerinti eredmény 0<ujsor/>
-Követelések 393 494 Céltartalékok 0<ujsor/>
-Értékpapírok 0 Kötelezettségek 121 049<ujsor/>
-Pénzeszközök 106 563 Hátra sorolt kötelezettségek 0<ujsor/>
-Aktív idõbeli elhatárolások 1 883 Hosszú lejáratú kötelezettségek 0<ujsor/>
-Rövid lejáratú kötelezettségek 121 049<ujsor/>
-Passzív idõbeli elhatárolások 1 776<ujsor/>
-ÖSSZESEN: 645 180 ÖSSZESEN: 645 180<ujsor/>
-A jogutód BMZ Ingatlanforgalmazó és Befektetõ Zrt. beolvadás utáni nyitó vagyonmérleg-tervezete (2007. decembe 31-i fordulónap):<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 158 408 Saját tõke 520 439<ujsor/>
-Immateriális javak 188 Jegyzett tõke 80 000<ujsor/>
-Tárgyi eszközök 149 170 Tõketartalék 0<ujsor/>
-Befektetett pénzügyi eszközök 9 050 Eredménytartalék 440 439<ujsor/>
-Forgóeszközök 483 394 Lekötött tartalék 0<ujsor/>
-Készletek 22 946 Mérleg szerinti eredmény 0<ujsor/>
-Követelések 352 582 Céltartalékok 0<ujsor/>
-Értékpapírok 0 Kötelezettségek 121 477<ujsor/>
-Pénzeszközök 107 866 Hátra sorolt kötelezettségek 0<ujsor/>
-Aktív idõbeli elhatárolások 1 891 Hosszú lejáratú kötelezettségek 0<ujsor/>
-Rövid lejáratú kötelezettségek 121 477<ujsor/>
-Passzív idõbeli elhatárolások 1 776<ujsor/>
-ÖSSZESEN: 643 693 ÖSSZESEN: 643 693<ujsor/>
-Felhívjuk a hitelezõk figyelmét arra, hogy jogaikat a 2006. évi IV. tv. 76. §-a alapján gyakorolhatják.<ujsor/>
-Az átalakuló gazdasági társaságok tájékoztatják a hitelezõiket, hogy akiknek az átalakuló gazdasági társasággal szemben fennálló, le nem járt követelései az átalakulásról hozott döntés elsõ közzétételét megelõzõen keletkeztek, követeléseik erejéig az átalakuló gazdasági társaságtól a döntés második közzétételét követõ harmincnapos jogvesztõ határidõn belül biztosítékot követelhetnek.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">A ZIVATAR-LAK 73 IngatlanforgalmazÃ³ Ã©s HasznosÃ­tÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [01 09 862655]; szÃ©khelye: 1024 Budapest, Zivatar u. 14Â­1. I. 8.) Ã©s a BMZ IngatlanforgalmazÃ³ Ã©s BefektetÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 045180]; szÃ©khelye: 1015 Budapest, BatthyÃ¡ny u. 54. V. 9.) gazdasÃ¡gi tÃ¡rsasÃ¡gok elhatÃ¡roztÃ¡k Â­ beolvadÃ¡s ÃºtjÃ¡n tÃ¶rtÃ©nÅ‘ Â­ egyesÃ¼lÃ©sÃ¼ket.<ujsor/>
+A beolvadÃ¡s sorÃ¡n a ZIVATAR-LAK 73 IngatlanforgalmazÃ³ Ã©s HasznosÃ­tÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g beolvad a MBZ IngatlanforgalmazÃ³ Ã©s BefektetÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡gba.<ujsor/>
+A jogutÃ³d gazdasÃ¡gi tÃ¡rsasÃ¡g adatai:<ujsor/>
+CÃ©gnÃ©v: BMZ IngatlanforgalmazÃ³ Ã©s BefektetÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 1015 Budapest, BatthyÃ¡ny u. 54. V. 9.<ujsor/>
+FÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™08): 6810 SajÃ¡t tulajdonÃº ingatlan adÃ¡svÃ©tele.<ujsor/>
+VezÃ©rigazgatÃ³: Bessenyei ZoltÃ¡n (a. n.: VidolmÃ¡n Latina; 1025 Budapest, MadÃ¡r u. 11. ).<ujsor/>
+FelÃ¼gyelÅ‘bizottsÃ¡gi tagok: Patyi MÃ¡ria (1055 Budapest, Kossuth L. u. 1/A IV. 5.; a. n.: Csire MÃ¡ria), MolnÃ¡r Zsuzsanna (a. n.: Gombos Ilona; 2092 Budakeszi, RÃ¡kÃ³czi u. 126.), JakÃ³ Imre (a. n.: Varga Ilona; 2162 ÅrbottyÃ¡n, Erkel F. u. hrsz. 3373.).<ujsor/>
+A tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s elfogadÃ¡sÃ¡nak napja: 2008. jÃºnius 29.<ujsor/>
+A ZIVATAR-LAK 73 IngatlanforgalmazÃ³ Ã©s HasznosÃ­tÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g sajÃ¡t tÅ‘kÃ©je: 1084 ezer forint; jegyzett tÅ‘kÃ©je: 3000 ezer forint; mÃ©rlegfÅ‘Ã¶sszege: 42 713 ezer forint.<ujsor/>
+A BMZ IngatlanforgalmazÃ³ Ã©s BefektetÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g sajÃ¡t tÅ‘kÃ©je: 522 355 ezer forint; jegyzett tÅ‘kÃ©je: 80 000 ezer forint; mÃ©rlegfÅ‘Ã¶sszege: 645 180 ezer forint.<ujsor/>
+A jogutÃ³d BMZ IngatlanforgalmazÃ³ Ã©s BefektetÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g sajÃ¡t tÅ‘kÃ©je: 520 439 ezer forint; jegyzett tÅ‘kÃ©je: 80 000 ezer forint; mÃ©rlegfÅ‘Ã¶sszege: 643 693 ezer forint. A tÃ¡rsasÃ¡g alaptÅ‘kÃ©je 80 000 db (nyolcvanezer darab), egyenkÃ©nt 1000 Ft (egyezer forint) nÃ©vÃ©rtÃ©kÅ±, nyomdai Ãºton elÅ‘Ã¡llÃ­tott azonos rÃ©szvÃ©nyesi jogokat megtestesÃ­tÅ‘, nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©nybÅ‘l Ã¡ll.<ujsor/>
+Az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g a beolvadÃ³ tÃ¡rsasÃ¡g jogutÃ³dja.<ujsor/>
+A beolvadÃ³ ZIVATAR-LAK 73 IngatlanforgalmazÃ³ Ã©s HasznosÃ­tÃ³ Kft. beolvadÃ¡s elÅ‘tti zÃ¡rÃ³ vagyonmÃ©rleg-tervezete (2007. december 31-i fordulÃ³nap):<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 41 014 SajÃ¡t tÅ‘ke 1 084<ujsor/>
+ImmateriÃ¡lis javak 188 Jegyzett tÅ‘ke 3 000<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 40 826 TÅ‘ketartalÃ©k 0<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 EredmÃ©nytartalÃ©k Â­1 916<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 1 691 LekÃ¶tÃ¶tt tartalÃ©k 0<ujsor/>
+KÃ©szletek 0 MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+KÃ¶vetelÃ©sek 388 CÃ©ltartalÃ©kok 0<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 0 KÃ¶telezettsÃ©gek 41 628<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 1 303 HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 8 HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0<ujsor/>
+RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 41 628<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 1<ujsor/>
+Ã–SSZESEN: 42 713 Ã–SSZESEN: 42 713<ujsor/>
+Az Ã¡tvevÅ‘ BMZ IngatlanforgalmazÃ³ Ã©s BefektetÅ‘ Zrt. beolvadÃ¡s elÅ‘tti zÃ¡rÃ³ vagyonmÃ©rleg-tervezete (2007. decembe 31-i fordulÃ³nap):<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 120 294 SajÃ¡t tÅ‘ke 522 355<ujsor/>
+ImmateriÃ¡lis javak 0 Jegyzett tÅ‘ke 80 000<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 108 344 TÅ‘ketartalÃ©k 0<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 11 950 EredmÃ©nytartalÃ©k 442 355<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 523 003 LekÃ¶tÃ¶tt tartalÃ©k 0<ujsor/>
+KÃ©szletek 22 946 MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+KÃ¶vetelÃ©sek 393 494 CÃ©ltartalÃ©kok 0<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 0 KÃ¶telezettsÃ©gek 121 049<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 106 563 HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 1 883 HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0<ujsor/>
+RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 121 049<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 1 776<ujsor/>
+Ã–SSZESEN: 645 180 Ã–SSZESEN: 645 180<ujsor/>
+A jogutÃ³d BMZ IngatlanforgalmazÃ³ Ã©s BefektetÅ‘ Zrt. beolvadÃ¡s utÃ¡ni nyitÃ³ vagyonmÃ©rleg-tervezete (2007. decembe 31-i fordulÃ³nap):<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 158 408 SajÃ¡t tÅ‘ke 520 439<ujsor/>
+ImmateriÃ¡lis javak 188 Jegyzett tÅ‘ke 80 000<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 149 170 TÅ‘ketartalÃ©k 0<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 9 050 EredmÃ©nytartalÃ©k 440 439<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 483 394 LekÃ¶tÃ¶tt tartalÃ©k 0<ujsor/>
+KÃ©szletek 22 946 MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+KÃ¶vetelÃ©sek 352 582 CÃ©ltartalÃ©kok 0<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 0 KÃ¶telezettsÃ©gek 121 477<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 107 866 HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 1 891 HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0<ujsor/>
+RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 121 477<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 1 776<ujsor/>
+Ã–SSZESEN: 643 693 Ã–SSZESEN: 643 693<ujsor/>
+FelhÃ­vjuk a hitelezÅ‘k figyelmÃ©t arra, hogy jogaikat a 2006. Ã©vi IV. tv. 76. Â§-a alapjÃ¡n gyakorolhatjÃ¡k.<ujsor/>
+Az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gok tÃ¡jÃ©koztatjÃ¡k a hitelezÅ‘iket, hogy akiknek az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei az Ã¡talakulÃ¡srÃ³l hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gtÃ³l a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110045180</mezo>
-<mezo id = "nev">BMZ Ingatlanforgalmazó és Befektetõ Részvénytársaság</mezo>
+<mezo id = "nev">BMZ IngatlanforgalmazÃ³ Ã©s BefektetÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1015 Budapest</mezo>
 </alrovat>
 </rovat>

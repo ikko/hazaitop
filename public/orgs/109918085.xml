@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">918085</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">1027 Budapest, Horvát utca 14-24. </mezo>
+<mezo id = "cim">1027 Budapest, HorvÃ¡t utca 14-24. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">22102227241</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20090528</mezo>
-<mezo id = "nev">ELECTRO-COORD Magyarország Háztartási Gép- és Elektronikai Hulladék Hasznosítást Koordináló Nonprofit Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">ELECTRO-COORD MagyarorszÃ¡g HÃ¡ztartÃ¡si GÃ©p- Ã©s Elektronikai HulladÃ©k HasznosÃ­tÃ¡st KoordinÃ¡lÃ³ Nonprofit KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090528</mezo>
@@ -23,7 +23,7 @@
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">20090528</mezo>
-<mezo id = "nev">ELECTRO-COORD Magyarország Kft.</mezo>
+<mezo id = "nev">ELECTRO-COORD MagyarorszÃ¡g Kft.</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090528</mezo>
@@ -53,7 +53,7 @@
 <mezo id = "hattol">20090528</mezo>
 <mezo id = "irsz">1027</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Horvát utca 14-24.</mezo>
+<mezo id = "teru">HorvÃ¡t utca 14-24.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
@@ -65,7 +65,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20090327</mezo>
 <mezo id = "irsz">5940</mezo>
-<mezo id = "hely">Tótkomlós</mezo>
+<mezo id = "hely">TÃ³tkomlÃ³s</mezo>
 <mezo id = "teru">Tanya 437.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20090327</mezo>
@@ -74,8 +74,8 @@
 <alrovat id = "2">
 <mezo id = "hattol">20110527</mezo>
 <mezo id = "irsz">5801</mezo>
-<mezo id = "hely">Mezõkovácsháza</mezo>
-<mezo id = "teru">Végegyházi út 3.</mezo>
+<mezo id = "hely">MezÅ‘kovÃ¡cshÃ¡za</mezo>
+<mezo id = "teru">VÃ©gegyhÃ¡zi Ãºt 3.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20110527</mezo>
 <mezo id = "bkelt">20110630</mezo>
@@ -123,7 +123,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090528</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Szennyvíz gyûjtése, kezelése</mezo>
+<mezo id = "teaszov">SzennyvÃ­z gyÅ±jtÃ©se, kezelÃ©se</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20090528</mezo>
@@ -142,7 +142,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090528</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Veszélyes hulladék gyûjtése</mezo>
+<mezo id = "teaszov">VeszÃ©lyes hulladÃ©k gyÅ±jtÃ©se</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20090528</mezo>
@@ -161,7 +161,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090528</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Nem veszélyes hulladék kezelése, ártalmatlanítása</mezo>
+<mezo id = "teaszov">Nem veszÃ©lyes hulladÃ©k kezelÃ©se, Ã¡rtalmatlanÃ­tÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20090528</mezo>
@@ -180,7 +180,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090528</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Használt eszköz bontása</mezo>
+<mezo id = "teaszov">HasznÃ¡lt eszkÃ¶z bontÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20090528</mezo>
@@ -199,7 +199,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090528</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Hulladék újrahasznosítása</mezo>
+<mezo id = "teaszov">HulladÃ©k ÃºjrahasznosÃ­tÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20090528</mezo>
@@ -218,7 +218,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090528</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Szennyezõdésmentesítés, egyéb hulladékkezelés</mezo>
+<mezo id = "teaszov">SzennyezÅ‘dÃ©smentesÃ­tÃ©s, egyÃ©b hulladÃ©kkezelÃ©s</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">20090528</mezo>
@@ -237,7 +237,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090528</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">M.ns. egyéb közösségi, társadalmi tevékenység</mezo>
+<mezo id = "teaszov">M.ns. egyÃ©b kÃ¶zÃ¶ssÃ©gi, tÃ¡rsadalmi tevÃ©kenysÃ©g</mezo>
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">20090528</mezo>
@@ -257,7 +257,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090528</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Üzletviteli, egyéb vezetési tanácsadás</mezo>
+<mezo id = "teaszov">Ãœzletviteli, egyÃ©b vezetÃ©si tanÃ¡csadÃ¡s</mezo>
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">20090528</mezo>
@@ -275,7 +275,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090528</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Könyvkiadás</mezo>
+<mezo id = "teaszov">KÃ¶nyvkiadÃ¡s</mezo>
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">20090528</mezo>
@@ -293,7 +293,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090528</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Címtárak, levezõjegyzékek kiadása</mezo>
+<mezo id = "teaszov">CÃ­mtÃ¡rak, levezÅ‘jegyzÃ©kek kiadÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "11">
 <mezo id = "hattol">20090528</mezo>
@@ -311,7 +311,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090528</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Napilapkiadás Folyóirat, idõszaki kiadvány kiadása</mezo>
+<mezo id = "teaszov">NapilapkiadÃ¡s FolyÃ³irat, idÅ‘szaki kiadvÃ¡ny kiadÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "12">
 <mezo id = "hattol">20090528</mezo>
@@ -329,7 +329,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090528</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb kiadói tevékenység</mezo>
+<mezo id = "teaszov">EgyÃ©b kiadÃ³i tevÃ©kenysÃ©g</mezo>
 </alrovat>
 <alrovat id = "13">
 <mezo id = "hattol">20090528</mezo>
@@ -347,7 +347,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090528</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Számítógépes játék kiadása</mezo>
+<mezo id = "teaszov">SzÃ¡mÃ­tÃ³gÃ©pes jÃ¡tÃ©k kiadÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "14">
 <mezo id = "hattol">20090528</mezo>
@@ -365,7 +365,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090528</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb szofverkiadás</mezo>
+<mezo id = "teaszov">EgyÃ©b szofverkiadÃ¡s</mezo>
 </alrovat>
 <alrovat id = "15">
 <mezo id = "hattol">20090528</mezo>
@@ -383,7 +383,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090528</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Hangfelvétel készítése, kiadása</mezo>
+<mezo id = "teaszov">HangfelvÃ©tel kÃ©szÃ­tÃ©se, kiadÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "16">
 <mezo id = "hattol">20090528</mezo>
@@ -401,7 +401,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090528</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Rádiómûsor-szolgáltatás</mezo>
+<mezo id = "teaszov">RÃ¡diÃ³mÅ±sor-szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "17">
 <mezo id = "hattol">20090528</mezo>
@@ -419,7 +419,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090528</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Számítógépes programozás</mezo>
+<mezo id = "teaszov">SzÃ¡mÃ­tÃ³gÃ©pes programozÃ¡s</mezo>
 </alrovat>
 <alrovat id = "18">
 <mezo id = "hattol">20090528</mezo>
@@ -437,7 +437,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090528</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Számítógép-üzemeltetés</mezo>
+<mezo id = "teaszov">SzÃ¡mÃ­tÃ³gÃ©p-Ã¼zemeltetÃ©s</mezo>
 </alrovat>
 <alrovat id = "19">
 <mezo id = "hattol">20090528</mezo>
@@ -455,7 +455,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090528</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Adatfeldolgozás, web-hoszting szolgáltatás</mezo>
+<mezo id = "teaszov">AdatfeldolgozÃ¡s, web-hoszting szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "20">
 <mezo id = "hattol">20090528</mezo>
@@ -473,7 +473,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090528</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Világháló-portál szolgáltatás</mezo>
+<mezo id = "teaszov">VilÃ¡ghÃ¡lÃ³-portÃ¡l szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "21">
 <mezo id = "hattol">20090528</mezo>
@@ -491,7 +491,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090528</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">M.n.s. egyéb információs szolgáltatás</mezo>
+<mezo id = "teaszov">M.n.s. egyÃ©b informÃ¡ciÃ³s szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "22">
 <mezo id = "hattol">20090528</mezo>
@@ -509,7 +509,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090528</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Építészmérnöki tevékenység</mezo>
+<mezo id = "teaszov">Ã‰pÃ­tÃ©szmÃ©rnÃ¶ki tevÃ©kenysÃ©g</mezo>
 </alrovat>
 <alrovat id = "23">
 <mezo id = "hattol">20090528</mezo>
@@ -527,7 +527,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090528</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Mérnöki tvékenység, mûszaki tanácsadás</mezo>
+<mezo id = "teaszov">MÃ©rnÃ¶ki tvÃ©kenysÃ©g, mÅ±szaki tanÃ¡csadÃ¡s</mezo>
 </alrovat>
 <alrovat id = "24">
 <mezo id = "hattol">20090528</mezo>
@@ -545,7 +545,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090528</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Mûszaki vizsgálat, elemzés</mezo>
+<mezo id = "teaszov">MÅ±szaki vizsgÃ¡lat, elemzÃ©s</mezo>
 </alrovat>
 <alrovat id = "25">
 <mezo id = "hattol">20090528</mezo>
@@ -563,7 +563,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090528</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Divat-, formatervezés</mezo>
+<mezo id = "teaszov">Divat-, formatervezÃ©s</mezo>
 </alrovat>
 <alrovat id = "26">
 <mezo id = "hattol">20090528</mezo>
@@ -581,7 +581,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090528</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Fényképéeszet</mezo>
+<mezo id = "teaszov">FÃ©nykÃ©pÃ©eszet</mezo>
 </alrovat>
 <alrovat id = "27">
 <mezo id = "hattol">20090528</mezo>
@@ -599,7 +599,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090528</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">M.n.s. egyéb szakmai, tudományos, mûszaki tevékenység</mezo>
+<mezo id = "teaszov">M.n.s. egyÃ©b szakmai, tudomÃ¡nyos, mÅ±szaki tevÃ©kenysÃ©g</mezo>
 </alrovat>
 <alrovat id = "28">
 <mezo id = "hattol">20090528</mezo>
@@ -617,7 +617,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090528</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Immateriális javak kölcsönzése</mezo>
+<mezo id = "teaszov">ImmateriÃ¡lis javak kÃ¶lcsÃ¶nzÃ©se</mezo>
 </alrovat>
 <alrovat id = "29">
 <mezo id = "hattol">20090528</mezo>
@@ -635,7 +635,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090528</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Konferencia, kereskedelmi bemutató szervezése</mezo>
+<mezo id = "teaszov">Konferencia, kereskedelmi bemutatÃ³ szervezÃ©se</mezo>
 </alrovat>
 <alrovat id = "30">
 <mezo id = "hattol">20090528</mezo>
@@ -653,7 +653,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090528</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Követelésbehajtás</mezo>
+<mezo id = "teaszov">KÃ¶vetelÃ©sbehajtÃ¡s</mezo>
 </alrovat>
 <alrovat id = "31">
 <mezo id = "hattol">20090528</mezo>
@@ -671,7 +671,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090528</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">M.n.s. egyéb kiegészítõ üzleti szolgáltatás</mezo>
+<mezo id = "teaszov">M.n.s. egyÃ©b kiegÃ©szÃ­tÅ‘ Ã¼zleti szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "32">
 <mezo id = "hattol">20090528</mezo>
@@ -689,7 +689,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090528</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Erdészeti szolgáltatás</mezo>
+<mezo id = "teaszov">ErdÃ©szeti szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "33">
 <mezo id = "hattol">20090528</mezo>
@@ -707,7 +707,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090528</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">PR, kommunikáció</mezo>
+<mezo id = "teaszov">PR, kommunikÃ¡ciÃ³</mezo>
 </alrovat>
 <alrovat id = "34">
 <mezo id = "hattol">20090528</mezo>
@@ -725,7 +725,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090528</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb takarítás</mezo>
+<mezo id = "teaszov">EgyÃ©b takarÃ­tÃ¡s</mezo>
 </alrovat>
 <alrovat id = "35">
 <mezo id = "hattol">20090528</mezo>
@@ -743,7 +743,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090528</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Oktatást kiegészítõ tevékenység</mezo>
+<mezo id = "teaszov">OktatÃ¡st kiegÃ©szÃ­tÅ‘ tevÃ©kenysÃ©g</mezo>
 </alrovat>
 <alrovat id = "36">
 <mezo id = "hattol">20090528</mezo>
@@ -761,7 +761,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090528</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Raktározás, tárolás</mezo>
+<mezo id = "teaszov">RaktÃ¡rozÃ¡s, tÃ¡rolÃ¡s</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -780,12 +780,12 @@
 <rovat id = "13">
 <alrovat id = "3">
 <mezo id = "hattol">20110106</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Tóth Zoltán</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">TÃ³th ZoltÃ¡n</mezo>
 <mezo id = "panev">Balogh Julianna</mezo>
 <mezo id = "pirsz">8630</mezo>
-<mezo id = "phely">Balatonboglár</mezo>
-<mezo id = "pteru">Napsugár utca 7.</mezo>
+<mezo id = "phely">BalatonboglÃ¡r</mezo>
+<mezo id = "pteru">NapsugÃ¡r utca 7.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20090328</mezo>
 <mezo id = "valtk">20110106</mezo>
@@ -797,16 +797,16 @@
 <alrovat id = "3">
 <mezo id = "hattol">20110527</mezo>
 <mezo id = "cgjsz">0109465571</mezo>
-<mezo id = "nev">Greenstar Könyvszakértõ és Vezetési Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Greenstar KÃ¶nyvszakÃ©rtÅ‘ Ã©s VezetÃ©si TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1149</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Róna utca 81.</mezo>
-<mezo id = "pnev">Bóka Béla</mezo>
+<mezo id = "teru">RÃ³na utca 81.</mezo>
+<mezo id = "pnev">BÃ³ka BÃ©la</mezo>
 <mezo id = "panev">Bihari Ilona</mezo>
 <mezo id = "pirsz">1149</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Róna utca 81.</mezo>
+<mezo id = "pteru">RÃ³na utca 81.</mezo>
 <mezo id = "jogvk">20110527</mezo>
 <mezo id = "jogvv">20120531</mezo>
 <mezo id = "valtk">20110527</mezo>
@@ -816,11 +816,11 @@
 <rovat id = "15">
 <alrovat id = "9">
 <mezo id = "hattol">20110106</mezo>
-<mezo id = "pnev">Bittera Miklós</mezo>
-<mezo id = "panev">Szelecsényi Mária</mezo>
+<mezo id = "pnev">Bittera MiklÃ³s</mezo>
+<mezo id = "panev">SzelecsÃ©nyi MÃ¡ria</mezo>
 <mezo id = "pirsz">2040</mezo>
-<mezo id = "phely">Budaörs</mezo>
-<mezo id = "pteru">Kertész utca 8.</mezo>
+<mezo id = "phely">BudaÃ¶rs</mezo>
+<mezo id = "pteru">KertÃ©sz utca 8.</mezo>
 <mezo id = "jogvk">20110112</mezo>
 <mezo id = "jogvv">20120112</mezo>
 <mezo id = "valtk">20110106</mezo>
@@ -828,7 +828,7 @@
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">20110106</mezo>
-<mezo id = "pnev">Schöffer Jenõ</mezo>
+<mezo id = "pnev">SchÃ¶ffer JenÅ‘</mezo>
 <mezo id = "panev">Lajos Anna</mezo>
 <mezo id = "pirsz">1147</mezo>
 <mezo id = "phely">Budapest</mezo>
@@ -840,11 +840,11 @@
 </alrovat>
 <alrovat id = "11">
 <mezo id = "hattol">20110106</mezo>
-<mezo id = "pnev">Varga Zoltán</mezo>
-<mezo id = "panev">Kollár Éva</mezo>
+<mezo id = "pnev">Varga ZoltÃ¡n</mezo>
+<mezo id = "panev">KollÃ¡r Ã‰va</mezo>
 <mezo id = "pirsz">1145</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Emília utca 30.</mezo>
+<mezo id = "pteru">EmÃ­lia utca 30.</mezo>
 <mezo id = "jogvk">20110112</mezo>
 <mezo id = "jogvv">20120112</mezo>
 <mezo id = "valtk">20110106</mezo>
@@ -855,7 +855,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20090528</mezo>
 <mezo id = "cgjsz">114000568</mezo>
-<mezo id = "nev">ELECTRO-COORD Magyarország Háztartási Gép-és Elektronikai Hulladék Hasznosítást Koordináló Közhasznú Társaság</mezo>
+<mezo id = "nev">ELECTRO-COORD MagyarorszÃ¡g HÃ¡ztartÃ¡si GÃ©p-Ã©s Elektronikai HulladÃ©k HasznosÃ­tÃ¡st KoordinÃ¡lÃ³ KÃ¶zhasznÃº TÃ¡rsasÃ¡g</mezo>
 <mezo id = "atdat">0</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
@@ -886,11 +886,11 @@
 <alrovat id = "1">
 <mezo id = "hattol">20090528</mezo>
 <mezo id = "cgjsz">1609001602</mezo>
-<mezo id = "nev">Electrolux Lehel Hûtõgépgyár Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Electrolux Lehel HÅ±tÅ‘gÃ©pgyÃ¡r KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">5100</mezo>
-<mezo id = "hely">Jászberény</mezo>
-<mezo id = "teru">Fémnyomó</mezo>
+<mezo id = "hely">JÃ¡szberÃ©ny</mezo>
+<mezo id = "teru">FÃ©mnyomÃ³</mezo>
 <mezo id = "hsz">1</mezo>
 <mezo id = "tagsk">20090528</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -902,11 +902,11 @@
 <alrovat id = "2">
 <mezo id = "hattol">20090528</mezo>
 <mezo id = "cgjsz">109077935</mezo>
-<mezo id = "nev">GORENJE Budapest Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">GORENJE Budapest Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1077</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Dohány</mezo>
+<mezo id = "teru">DohÃ¡ny</mezo>
 <mezo id = "hsz">20</mezo>
 <mezo id = "tagsk">20090528</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -918,11 +918,11 @@
 <alrovat id = "3">
 <mezo id = "hattol">20090528</mezo>
 <mezo id = "cgjsz">1309081091</mezo>
-<mezo id = "nev">Groupe SEB Central-Europe Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Groupe SEB Central-Europe Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2040</mezo>
-<mezo id = "hely">Budaörs</mezo>
-<mezo id = "teru">Távíró</mezo>
+<mezo id = "hely">BudaÃ¶rs</mezo>
+<mezo id = "teru">TÃ¡vÃ­rÃ³</mezo>
 <mezo id = "hsz">4</mezo>
 <mezo id = "tagsk">20090528</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -934,7 +934,7 @@
 <alrovat id = "4">
 <mezo id = "hattol">20090528</mezo>
 <mezo id = "cgjsz">109569108</mezo>
-<mezo id = "nev">FAGOR HUNGÁRIA Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">FAGOR HUNGÃRIA Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1071</mezo>
 <mezo id = "hely">Budapest</mezo>
@@ -950,11 +950,11 @@
 <alrovat id = "5">
 <mezo id = "hattol">20090528</mezo>
 <mezo id = "cgjsz">109269033</mezo>
-<mezo id = "nev">BSH háztartási készülék kerekedelmi korlátolt felelõsségû társaság</mezo>
+<mezo id = "nev">BSH hÃ¡ztartÃ¡si kÃ©szÃ¼lÃ©k kerekedelmi korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1126</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Királyhágó</mezo>
+<mezo id = "teru">KirÃ¡lyhÃ¡gÃ³</mezo>
 <mezo id = "hsz">8-9</mezo>
 <mezo id = "tagsk">20090528</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -966,11 +966,11 @@
 <alrovat id = "6">
 <mezo id = "hattol">20090528</mezo>
 <mezo id = "cgjsz">109162408</mezo>
-<mezo id = "nev">HTM Nemzetközi Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">HTM NemzetkÃ¶zi Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1046</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Kiss Ernõ</mezo>
+<mezo id = "teru">Kiss ErnÅ‘</mezo>
 <mezo id = "hsz">1-3</mezo>
 <mezo id = "tagsk">20090528</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -982,11 +982,11 @@
 <alrovat id = "7">
 <mezo id = "hattol">20090528</mezo>
 <mezo id = "cgjsz">1610001727</mezo>
-<mezo id = "nev">Dometic Hûtõgépgyártó és Kereskedelmi Zrt.</mezo>
+<mezo id = "nev">Dometic HÅ±tÅ‘gÃ©pgyÃ¡rtÃ³ Ã©s Kereskedelmi Zrt.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">5100</mezo>
-<mezo id = "hely">Jászberény</mezo>
-<mezo id = "teru">Fémnyomó</mezo>
+<mezo id = "hely">JÃ¡szberÃ©ny</mezo>
+<mezo id = "teru">FÃ©mnyomÃ³</mezo>
 <mezo id = "hsz">1</mezo>
 <mezo id = "tagsk">20090528</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -998,11 +998,11 @@
 <alrovat id = "8">
 <mezo id = "hattol">20090528</mezo>
 <mezo id = "cgjsz">109168242</mezo>
-<mezo id = "nev">Indesit Company Magyarország Háztartástechnikai Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Indesit Company MagyarorszÃ¡g HÃ¡ztartÃ¡stechnikai KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1139</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Pap Károly</mezo>
+<mezo id = "teru">Pap KÃ¡roly</mezo>
 <mezo id = "hsz">4-6</mezo>
 <mezo id = "tagsk">20090528</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -1014,11 +1014,11 @@
 <alrovat id = "10">
 <mezo id = "hattol">20090528</mezo>
 <mezo id = "cgjsz">109064255</mezo>
-<mezo id = "nev">PHILIPS Magyarország Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">PHILIPS MagyarorszÃ¡g Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1117</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Alíz</mezo>
+<mezo id = "teru">AlÃ­z</mezo>
 <mezo id = "hsz">1.</mezo>
 <mezo id = "tagsk">20090528</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -1030,7 +1030,7 @@
 <alrovat id = "12">
 <mezo id = "hattol">20090528</mezo>
 <mezo id = "cgjsz">109165880</mezo>
-<mezo id = "nev">Whirlpool Magyarország Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Whirlpool MagyarorszÃ¡g Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1117</mezo>
 <mezo id = "hely">Budapest</mezo>
@@ -1046,11 +1046,11 @@
 <alrovat id = "13">
 <mezo id = "hattol">20090528</mezo>
 <mezo id = "cgjsz">109165465</mezo>
-<mezo id = "nev">Miele Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Miele Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1022</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Alsótörökvész</mezo>
+<mezo id = "teru">AlsÃ³tÃ¶rÃ¶kvÃ©sz</mezo>
 <mezo id = "hsz">2</mezo>
 <mezo id = "tagsk">20090528</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -1062,11 +1062,11 @@
 <alrovat id = "14">
 <mezo id = "hattol">20110527</mezo>
 <mezo id = "cgjsz">0109719347</mezo>
-<mezo id = "nev">GE Hungary Ipari és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">GE Hungary Ipari Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1044</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Váci út 77.</mezo>
+<mezo id = "teru">VÃ¡ci Ãºt 77.</mezo>
 <mezo id = "tagsk">20100627</mezo>
 <mezo id = "valtk">20110527</mezo>
 <mezo id = "bkelt">20110630</mezo>
@@ -1077,8 +1077,8 @@
 <mezo id = "nev">OSRAM a.s.</mezo>
 <mezo id = "orsz">SL</mezo>
 <mezo id = "irsz">94093</mezo>
-<mezo id = "hely">Érsekújvár</mezo>
-<mezo id = "teru">Komarnanská cesta 7.</mezo>
+<mezo id = "hely">Ã‰rsekÃºjvÃ¡r</mezo>
+<mezo id = "teru">KomarnanskÃ¡ cesta 7.</mezo>
 <mezo id = "tagsk">20110501</mezo>
 <mezo id = "valtk">20110527</mezo>
 <mezo id = "bkelt">20110630</mezo>
@@ -1088,35 +1088,35 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2009. 05. 28-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-03. ELECTRO-COORD Magyarország Kft.<ujsor/>
- A változás idõpontja (törlés): 2008. 05. 28.<ujsor/>
- Törölve: 2008. 05. 28.<ujsor/>
- ELECTRO-COORD Magyarország Nonprofit Kft.<ujsor/>
- A változás idõpontja: 2008. 05. 28.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2009. 05. 28-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+03. ELECTRO-COORD MagyarorszÃ¡g Kft.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2008. 05. 28.<ujsor/>
+ TÃ¶rÃ¶lve: 2008. 05. 28.<ujsor/>
+ ELECTRO-COORD MagyarorszÃ¡g Nonprofit Kft.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 05. 28.<ujsor/>
  Bejegyezve: 2008. 05. 28.<ujsor/>
 2009. 06. 03.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109918085</mezo>
-<mezo id = "nev">ELECTRO-COORD Magyarország Háztartási Gép- és Elektronikai Hulladék Hasznosítást Koordináló Nonprofit Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1027 Budapest, Horvát utca 14-24.</mezo>
+<mezo id = "nev">ELECTRO-COORD MagyarorszÃ¡g HÃ¡ztartÃ¡si GÃ©p- Ã©s Elektronikai HulladÃ©k HasznosÃ­tÃ¡st KoordinÃ¡lÃ³ Nonprofit KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1027 Budapest, HorvÃ¡t utca 14-24.</mezo>
 <mezo id = "adosz">22102227241</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság a Cg.01-09-918085 cégjegyzékszámon bejegyzett ELECTRO-COORD Magyarország Háztartási Gép- és Elektronikai Hulladék Hasznosítást Koordináló Nonprofit Korlátolt Felelõsségû Társaság (1027 Budapest, Horvát utca 14-24.; adószáma: 22102227-2-41) kérelme alapján elrendeli az 2009. május 28. napján hozott Cg.01-09-918085 /5. számú végzésének kiegészítését az alábbiak szerint:<ujsor/>
-7. A cég fióktelepe(i)<ujsor/>
-HU 5940 Tótkomlós, Tanya 437.<ujsor/>
-Vált. kezdete: 2009.03.27.<ujsor/>
-Bejegyezve (végzés kelte): 2009. szeptember 17.<ujsor/>
-E végzés ellen fellebbezésnek nincs helye, azonban az ügyész, továbbá az, akire a végzés rendelkezést tartalmaz - a rendelkezés õt érintõ részére vonatkozóan - pert indíthat a cég ellen a cég székhelye szerint illetékes megyei bíróság elõtt a bejegyzõ végzés hatályon kívül helyezése iránt.<ujsor/>
-A per megindításának a bejegyzõ végzés Cégközlönyben való közzétételétõl, illetve - közzétételi kötelezettség hiányában - annak kézbesítésétõl számított 30 napon belül van helye. A határidõ elmulasztása jogvesztéssel jár.<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.01-09-918085 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett ELECTRO-COORD MagyarorszÃ¡g HÃ¡ztartÃ¡si GÃ©p- Ã©s Elektronikai HulladÃ©k HasznosÃ­tÃ¡st KoordinÃ¡lÃ³ Nonprofit KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (1027 Budapest, HorvÃ¡t utca 14-24.; adÃ³szÃ¡ma: 22102227-2-41) kÃ©relme alapjÃ¡n elrendeli az 2009. mÃ¡jus 28. napjÃ¡n hozott Cg.01-09-918085 /5. szÃ¡mÃº vÃ©gzÃ©sÃ©nek kiegÃ©szÃ­tÃ©sÃ©t az alÃ¡bbiak szerint:<ujsor/>
+7. A cÃ©g fiÃ³ktelepe(i)<ujsor/>
+HU 5940 TÃ³tkomlÃ³s, Tanya 437.<ujsor/>
+VÃ¡lt. kezdete: 2009.03.27.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2009. szeptember 17.<ujsor/>
+E vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye, azonban az Ã¼gyÃ©sz, tovÃ¡bbÃ¡ az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s Å‘t Ã©rintÅ‘ rÃ©szÃ©re vonatkozÃ³an - pert indÃ­that a cÃ©g ellen a cÃ©g szÃ©khelye szerint illetÃ©kes megyei bÃ­rÃ³sÃ¡g elÅ‘tt a bejegyzÅ‘ vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt.<ujsor/>
+A per megindÃ­tÃ¡sÃ¡nak a bejegyzÅ‘ vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l, illetve - kÃ¶zzÃ©tÃ©teli kÃ¶telezettsÃ©g hiÃ¡nyÃ¡ban - annak kÃ©zbesÃ­tÃ©sÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l van helye. A hatÃ¡ridÅ‘ elmulasztÃ¡sa jogvesztÃ©ssel jÃ¡r.<ujsor/>
 2009. szeptember 17.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109918085</mezo>
-<mezo id = "nev">ELECTRO-COORD Magyarország Háztartási Gép- és Elektronikai Hulladék Hasznosítást Koordináló Nonprofit Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1027 Budapest, Horvát utca 14-24.</mezo>
+<mezo id = "nev">ELECTRO-COORD MagyarorszÃ¡g HÃ¡ztartÃ¡si GÃ©p- Ã©s Elektronikai HulladÃ©k HasznosÃ­tÃ¡st KoordinÃ¡lÃ³ Nonprofit KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1027 Budapest, HorvÃ¡t utca 14-24.</mezo>
 <mezo id = "adosz">22102227241</mezo>
 </alrovat>
 </rovat>

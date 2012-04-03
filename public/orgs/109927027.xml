@@ -7,20 +7,20 @@
 <mezo id = "nevalrovat">1</mezo>
 <mezo id = "regi_szh">1309108551</mezo>
 <mezo id = "allapot">2</mezo>
-<mezo id = "cim">1051 Budapest, Múzeum körút 13. 1. em. 3. </mezo>
+<mezo id = "cim">1051 Budapest, MÃºzeum kÃ¶rÃºt 13. 1. em. 3. </mezo>
 <mezo id = "adosz">11986122241</mezo>
 </alrovat>
 </rovat>
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20000414</mezo>
-<mezo id = "nev">DELTA Magyar Pékség Sütõipari és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">DELTA Magyar PÃ©ksÃ©g SÃ¼tÅ‘ipari Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">20000414</mezo>
-<mezo id = "nev">DELTA Magyar Pékség Kft.</mezo>
+<mezo id = "nev">DELTA Magyar PÃ©ksÃ©g Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "4">
@@ -34,7 +34,7 @@
 <mezo id = "hattol">20090826</mezo>
 <mezo id = "irsz">1051</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Múzeum körút 13. 1. em. 3.</mezo>
+<mezo id = "teru">MÃºzeum kÃ¶rÃºt 13. 1. em. 3.</mezo>
 <mezo id = "valtk">20090826</mezo>
 <mezo id = "bkelt">20091022</mezo>
 </alrovat>
@@ -378,7 +378,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090602</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Vagyonkezelés (holding)</mezo>
+<mezo id = "teaszov">VagyonkezelÃ©s (holding)</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -397,18 +397,18 @@
 <rovat id = "13">
 <alrovat id = "18">
 <mezo id = "hattol">20091031</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "pnev">Jan Jedlicka</mezo>
 <mezo id = "panev">Jana Jedlickova</mezo>
 <mezo id = "pkorsz">CZ</mezo>
 <mezo id = "pkirsz">11000</mezo>
-<mezo id = "pkhely">Prága</mezo>
-<mezo id = "pkteru">Masarykovo nábrezi 22.</mezo>
-<mezo id = "pmnev">dr. Gyurácz Andrea</mezo>
-<mezo id = "pmanev">Pete Mária Magdolna</mezo>
+<mezo id = "pkhely">PrÃ¡ga</mezo>
+<mezo id = "pkteru">Masarykovo nÃ¡brezi 22.</mezo>
+<mezo id = "pmnev">dr. GyurÃ¡cz Andrea</mezo>
+<mezo id = "pmanev">Pete MÃ¡ria Magdolna</mezo>
 <mezo id = "pmirsz">1078</mezo>
 <mezo id = "pmhely">Budapest</mezo>
-<mezo id = "pmteru">Marek József utca 31. 2. em. 1.</mezo>
+<mezo id = "pmteru">Marek JÃ³zsef utca 31. 2. em. 1.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20091031</mezo>
 <mezo id = "valtk">20091031</mezo>
@@ -419,16 +419,16 @@
 <alrovat id = "6">
 <mezo id = "hattol">20090430</mezo>
 <mezo id = "cgjsz">109160334</mezo>
-<mezo id = "nev">PKF Könyvvizsgáló Kft.</mezo>
+<mezo id = "nev">PKF KÃ¶nyvvizsgÃ¡lÃ³ Kft.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1021</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Bölöni György</mezo>
+<mezo id = "teru">BÃ¶lÃ¶ni GyÃ¶rgy</mezo>
 <mezo id = "hsz">22.</mezo>
-<mezo id = "pnev">Selényi Zsolt</mezo>
-<mezo id = "panev">Kirschner Viktória</mezo>
+<mezo id = "pnev">SelÃ©nyi Zsolt</mezo>
+<mezo id = "panev">Kirschner ViktÃ³ria</mezo>
 <mezo id = "pirsz">3243</mezo>
-<mezo id = "phely">Bodony, Árpád utca 72. út 100.</mezo>
+<mezo id = "phely">Bodony, ÃrpÃ¡d utca 72. Ãºt 100.</mezo>
 <mezo id = "jogvk">20061223</mezo>
 <mezo id = "jogvv">20140531</mezo>
 <mezo id = "valtk">20090430</mezo>
@@ -472,11 +472,11 @@
 <alrovat id = "7">
 <mezo id = "hattol">20091031</mezo>
 <mezo id = "cgjsz">0109926454</mezo>
-<mezo id = "nev">Interback Group Sütõipari, Kereskedelmi és Vagyonkezelõ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Interback Group SÃ¼tÅ‘ipari, Kereskedelmi Ã©s VagyonkezelÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1051</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Múzeum körút 13. 1. em. 3.</mezo>
+<mezo id = "teru">MÃºzeum kÃ¶rÃºt 13. 1. em. 3.</mezo>
 <mezo id = "tagsk">20070814</mezo>
 <mezo id = "valtk">20091031</mezo>
 <mezo id = "bkelt">20091201</mezo>
@@ -491,67 +491,67 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság<ujsor/>
-21.Fpk.01-09-010578/8. sz. végzése<ujsor/>
-felszámolás megindításának közzétételérõl<ujsor/>
-A bíróság elrendeli annak a Cégközlönyben való közzétételét, hogy a(z)<ujsor/>
-2010. április 17. napján jogerõre emelkedett végzésével a(z) DELTA<ujsor/>
-Magyar Pékség Sütõipari és Kereskedelmi Korlátolt Felelõsségû Társaság<ujsor/>
-(1051 Budapest, Múzeum körút 13. 1. em. 3.; cégjegyzékszáma: 01 09<ujsor/>
-927027; adószáma: 11986122-2-41) adós felszámolását fõeljárásként<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g<ujsor/>
+21.Fpk.01-09-010578/8. sz. vÃ©gzÃ©se<ujsor/>
+felszÃ¡molÃ¡s megindÃ­tÃ¡sÃ¡nak kÃ¶zzÃ©tÃ©telÃ©rÅ‘l<ujsor/>
+A bÃ­rÃ³sÃ¡g elrendeli annak a CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©t, hogy a(z)<ujsor/>
+2010. Ã¡prilis 17. napjÃ¡n jogerÅ‘re emelkedett vÃ©gzÃ©sÃ©vel a(z) DELTA<ujsor/>
+Magyar PÃ©ksÃ©g SÃ¼tÅ‘ipari Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g<ujsor/>
+(1051 Budapest, MÃºzeum kÃ¶rÃºt 13. 1. em. 3.; cÃ©gjegyzÃ©kszÃ¡ma: 01 09<ujsor/>
+927027; adÃ³szÃ¡ma: 11986122-2-41) adÃ³s felszÃ¡molÃ¡sÃ¡t fÅ‘eljÃ¡rÃ¡skÃ©nt<ujsor/>
 elrendelte.<ujsor/>
-Elõzõ székhelyei(i):<ujsor/>
-1055 Budapest, Szent István krt 1. 2900 Komárom, Igmándi út 41/E. 2313<ujsor/>
-Szigetszentmiklós, ÁTI-Sziget Ipari Park 41.<ujsor/>
-A bíróság által kijelölt felszámoló:<ujsor/>
-Vadász &amp; Partners Felszámoló, Vagyonfelügyelõ és Tanácsadó Kft., 1112<ujsor/>
-Budapest, Neszmélyi u. 44.<ujsor/>
-A felszámolási eljárás megindítására irányuló kérelem benyújtásának<ujsor/>
-idõpontja: 2009. december 22.<ujsor/>
-A felszámolás kezdõ idõpontja e végzés Cégközlönyben való közzétételének<ujsor/>
+ElÅ‘zÅ‘ szÃ©khelyei(i):<ujsor/>
+1055 Budapest, Szent IstvÃ¡n krt 1. 2900 KomÃ¡rom, IgmÃ¡ndi Ãºt 41/E. 2313<ujsor/>
+SzigetszentmiklÃ³s, ÃTI-Sziget Ipari Park 41.<ujsor/>
+A bÃ­rÃ³sÃ¡g Ã¡ltal kijelÃ¶lt felszÃ¡molÃ³:<ujsor/>
+VadÃ¡sz &amp; Partners FelszÃ¡molÃ³, VagyonfelÃ¼gyelÅ‘ Ã©s TanÃ¡csadÃ³ Kft., 1112<ujsor/>
+Budapest, NeszmÃ©lyi u. 44.<ujsor/>
+A felszÃ¡molÃ¡si eljÃ¡rÃ¡s megindÃ­tÃ¡sÃ¡ra irÃ¡nyulÃ³ kÃ©relem benyÃºjtÃ¡sÃ¡nak<ujsor/>
+idÅ‘pontja: 2009. december 22.<ujsor/>
+A felszÃ¡molÃ¡s kezdÅ‘ idÅ‘pontja e vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©nek<ujsor/>
 napja.<ujsor/>
-A Fõvárosi Bíróság Gazdasági Hivatalánál kezelt elkülönített számla száma:<ujsor/>
+A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g GazdasÃ¡gi HivatalÃ¡nÃ¡l kezelt elkÃ¼lÃ¶nÃ­tett szÃ¡mla szÃ¡ma:<ujsor/>
 10032000-01483013-24000004.<ujsor/>
-Mindazok [ideértve a zálogjogosultakat, és a 3. § (1) bekezdés c) pontja<ujsor/>
-szerinti függõ követelések jogosultjait is], akik az adóssal szemben<ujsor/>
-fennálló ismert követeléseiket - kivéve a felszámolási eljárást<ujsor/>
-közvetlenül megelõzõ csõdeljárásban [27. § (2) bekezdés e) pont] már<ujsor/>
-bejelentett és nyilvántartásba vett követeléseket - a felszámolás során<ujsor/>
-hitelezõként érvényesíteni kívánják, ismert követeléseiket e végzés<ujsor/>
-közzétételétõl számított 40 napon belül jelentsék be a felszámolónak.<ujsor/>
-A felszámoló - a módosított 1991. évi XLIX. tv. 57. § (1) bekezdés a) és<ujsor/>
-c) pontjában meghatározott követelések kivételével - csak azt a<ujsor/>
-bejelentést veszi nyilvántartásba, amely után az igénybejelentõ a<ujsor/>
-követelés 1 %-át, de legalább 5.000 Ft-ot, legfeljebb 200.000 Ft-ot az e<ujsor/>
-végzésben megjelölt számlára - a bírósági ügyszámra (végzés számra)<ujsor/>
-hivatkozással -  40 napon belül befizetett és ezt a felszámoló<ujsor/>
-részére igazolta.<ujsor/>
-Budapest, 2010. május 3.<ujsor/>
-A közzététel idõpontja: 2010. május 5.<ujsor/>
+Mindazok [ideÃ©rtve a zÃ¡logjogosultakat, Ã©s a 3. Â§ (1) bekezdÃ©s c) pontja<ujsor/>
+szerinti fÃ¼ggÅ‘ kÃ¶vetelÃ©sek jogosultjait is], akik az adÃ³ssal szemben<ujsor/>
+fennÃ¡llÃ³ ismert kÃ¶vetelÃ©seiket - kivÃ©ve a felszÃ¡molÃ¡si eljÃ¡rÃ¡st<ujsor/>
+kÃ¶zvetlenÃ¼l megelÅ‘zÅ‘ csÅ‘deljÃ¡rÃ¡sban [27. Â§ (2) bekezdÃ©s e) pont] mÃ¡r<ujsor/>
+bejelentett Ã©s nyilvÃ¡ntartÃ¡sba vett kÃ¶vetelÃ©seket - a felszÃ¡molÃ¡s sorÃ¡n<ujsor/>
+hitelezÅ‘kÃ©nt Ã©rvÃ©nyesÃ­teni kÃ­vÃ¡njÃ¡k, ismert kÃ¶vetelÃ©seiket e vÃ©gzÃ©s<ujsor/>
+kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott 40 napon belÃ¼l jelentsÃ©k be a felszÃ¡molÃ³nak.<ujsor/>
+A felszÃ¡molÃ³ - a mÃ³dosÃ­tott 1991. Ã©vi XLIX. tv. 57. Â§ (1) bekezdÃ©s a) Ã©s<ujsor/>
+c) pontjÃ¡ban meghatÃ¡rozott kÃ¶vetelÃ©sek kivÃ©telÃ©vel - csak azt a<ujsor/>
+bejelentÃ©st veszi nyilvÃ¡ntartÃ¡sba, amely utÃ¡n az igÃ©nybejelentÅ‘ a<ujsor/>
+kÃ¶vetelÃ©s 1 %-Ã¡t, de legalÃ¡bb 5.000 Ft-ot, legfeljebb 200.000 Ft-ot az e<ujsor/>
+vÃ©gzÃ©sben megjelÃ¶lt szÃ¡mlÃ¡ra - a bÃ­rÃ³sÃ¡gi Ã¼gyszÃ¡mra (vÃ©gzÃ©s szÃ¡mra)<ujsor/>
+hivatkozÃ¡ssal -  40 napon belÃ¼l befizetett Ã©s ezt a felszÃ¡molÃ³<ujsor/>
+rÃ©szÃ©re igazolta.<ujsor/>
+Budapest, 2010. mÃ¡jus 3.<ujsor/>
+A kÃ¶zzÃ©tÃ©tel idÅ‘pontja: 2010. mÃ¡jus 5.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109927027</mezo>
-<mezo id = "nev">DELTA Magyar Pékség Sütõipari és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">DELTA Magyar PÃ©ksÃ©g SÃ¼tÅ‘ipari Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "adosz">11986122241</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság<ujsor/>
-21.Fpk.01-09-010578/10. sz. végzése<ujsor/>
-felszámolás közzétételére vonatkozó végzés kiegészítésérõl<ujsor/>
-A bíróság a(z) DELTA Magyar Pékség Sütõipari és Kereskedelmi Korlátolt<ujsor/>
-Felelõsségû Társaság (1051 Budapest, Múzeum körút 13. 1. em. 3.;<ujsor/>
-cégjegyzékszáma: 01 09 927027; adószáma: 11986122-2-41) adós elleni<ujsor/>
-felszámolási eljárásában a(z) 21.Fpk.01-09-010578/8. számú végzését az<ujsor/>
-alábbiakkal egészíti ki:<ujsor/>
-A felszámolóbiztos(ok):<ujsor/>
-Baran Tímea (an.: Kancsár Klára) 1136 Budapest, Tátra u. 23/A.<ujsor/>
-A felszámolás megindítása közzétételének idõpontja: 2010. május 5.<ujsor/>
-Budapest, 2010. május 6.<ujsor/>
-A közzététel idõpontja: 2010. május 6.<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g<ujsor/>
+21.Fpk.01-09-010578/10. sz. vÃ©gzÃ©se<ujsor/>
+felszÃ¡molÃ¡s kÃ¶zzÃ©tÃ©telÃ©re vonatkozÃ³ vÃ©gzÃ©s kiegÃ©szÃ­tÃ©sÃ©rÅ‘l<ujsor/>
+A bÃ­rÃ³sÃ¡g a(z) DELTA Magyar PÃ©ksÃ©g SÃ¼tÅ‘ipari Ã©s Kereskedelmi KorlÃ¡tolt<ujsor/>
+FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (1051 Budapest, MÃºzeum kÃ¶rÃºt 13. 1. em. 3.;<ujsor/>
+cÃ©gjegyzÃ©kszÃ¡ma: 01 09 927027; adÃ³szÃ¡ma: 11986122-2-41) adÃ³s elleni<ujsor/>
+felszÃ¡molÃ¡si eljÃ¡rÃ¡sÃ¡ban a(z) 21.Fpk.01-09-010578/8. szÃ¡mÃº vÃ©gzÃ©sÃ©t az<ujsor/>
+alÃ¡bbiakkal egÃ©szÃ­ti ki:<ujsor/>
+A felszÃ¡molÃ³biztos(ok):<ujsor/>
+Baran TÃ­mea (an.: KancsÃ¡r KlÃ¡ra) 1136 Budapest, TÃ¡tra u. 23/A.<ujsor/>
+A felszÃ¡molÃ¡s megindÃ­tÃ¡sa kÃ¶zzÃ©tÃ©telÃ©nek idÅ‘pontja: 2010. mÃ¡jus 5.<ujsor/>
+Budapest, 2010. mÃ¡jus 6.<ujsor/>
+A kÃ¶zzÃ©tÃ©tel idÅ‘pontja: 2010. mÃ¡jus 6.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109927027</mezo>
-<mezo id = "nev">DELTA Magyar Pékség Sütõipari és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">DELTA Magyar PÃ©ksÃ©g SÃ¼tÅ‘ipari Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "adosz">11986122241</mezo>
 </alrovat>
 </rovat>

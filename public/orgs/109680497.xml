@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">680497</mezo>
 <mezo id = "nevalrovat">2</mezo>
-<mezo id = "cim">1061 Budapest, Székely Mihály utca 16. </mezo>
+<mezo id = "cim">1061 Budapest, SzÃ©kely MihÃ¡ly utca 16. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">11868002242</mezo>
 </alrovat>
@@ -13,19 +13,19 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20040701</mezo>
-<mezo id = "nev">Ház a Szinyei Merse utcában Épületfejlesztõ- és forgalmazó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">HÃ¡z a Szinyei Merse utcÃ¡ban Ã‰pÃ¼letfejlesztÅ‘- Ã©s forgalmazÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "2">
 <mezo id = "hattol">20040701</mezo>
-<mezo id = "nev">Ház a Szinyei Merse utcában Kft.</mezo>
+<mezo id = "nev">HÃ¡z a Szinyei Merse utcÃ¡ban Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "4">
 <alrovat id = "2">
 <mezo id = "hattol">20040701</mezo>
-<mezo id = "nev">Ház a Szinyei Merse utcában Constuction Development and Trading Company Limited Ház a Szinyei Merse utcában Co. Ltd.</mezo>
+<mezo id = "nev">HÃ¡z a Szinyei Merse utcÃ¡ban Constuction Development and Trading Company Limited HÃ¡z a Szinyei Merse utcÃ¡ban Co. Ltd.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
@@ -33,7 +33,7 @@
 <mezo id = "hattol">20081211</mezo>
 <mezo id = "irsz">1061</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Székely Mihály utca 16.</mezo>
+<mezo id = "teru">SzÃ©kely MihÃ¡ly utca 16.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">20081211</mezo>
 <mezo id = "valtv">0</mezo>
@@ -188,7 +188,7 @@
 <mezo id = "bkelt">20090126</mezo>
 <mezo id = "tkelt">0</mezo>
 <mezo id = "tea08">4222</mezo>
-<mezo id = "teaszov">ése</mezo>
+<mezo id = "teaszov">Ã©se</mezo>
 </alrovat>
 <alrovat id = "29">
 <mezo id = "hattol">20081211</mezo>
@@ -369,7 +369,7 @@
 <mezo id = "bkelt">20090126</mezo>
 <mezo id = "tkelt">0</mezo>
 <mezo id = "tea08">7490</mezo>
-<mezo id = "teaszov">ékenység</mezo>
+<mezo id = "teaszov">Ã©kenysÃ©g</mezo>
 </alrovat>
 <alrovat id = "39">
 <mezo id = "hattol">20081211</mezo>
@@ -781,7 +781,7 @@
 <rovat id = "13">
 <alrovat id = "9">
 <mezo id = "hattol">20100504</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "pnev">Ronen Hayon</mezo>
 <mezo id = "panev">Aliza Mizrachi</mezo>
 <mezo id = "kepve">x</mezo>
@@ -793,23 +793,23 @@
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">20100504</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "pnev">Amir Keshev</mezo>
 <mezo id = "panev">Shifra Gertner</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20081211</mezo>
 <mezo id = "jogvv">20131211</mezo>
-<mezo id = "pcnev">Szabó, Kelemen és Társai Ügyvédi Iroda</mezo>
+<mezo id = "pcnev">SzabÃ³, Kelemen Ã©s TÃ¡rsai ÃœgyvÃ©di Iroda</mezo>
 <mezo id = "pcirsz">1132</mezo>
 <mezo id = "pchely">Budapest</mezo>
-<mezo id = "pcteru">Váci út 20.</mezo>
+<mezo id = "pcteru">VÃ¡ci Ãºt 20.</mezo>
 <mezo id = "valtk">20100504</mezo>
 <mezo id = "bkelt">20100510</mezo>
 <mezo id = "adoazon">2446576</mezo>
 </alrovat>
 <alrovat id = "11">
 <mezo id = "hattol">20110221</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "email">shlomizac@gmail.com</mezo>
 <mezo id = "pnev">Shlomi Zac</mezo>
 <mezo id = "panev">Fani Hakin</mezo>
@@ -820,7 +820,7 @@
 <mezo id = "pmanev">Mond Marta Miriam</mezo>
 <mezo id = "pmirsz">1138</mezo>
 <mezo id = "pmhely">Budapest</mezo>
-<mezo id = "pmteru">Danubius utca 14. B. ép. 903.</mezo>
+<mezo id = "pmteru">Danubius utca 14. B. Ã©p. 903.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20110221</mezo>
 <mezo id = "jogvv">20160221</mezo>
@@ -830,7 +830,7 @@
 </alrovat>
 <alrovat id = "12">
 <mezo id = "hattol">20110715</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "pnev">Ehud Amir</mezo>
 <mezo id = "panev">Rener Marta</mezo>
 <mezo id = "pirsz">1138</mezo>
@@ -847,11 +847,11 @@
 <rovat id = "14">
 <alrovat id = "5">
 <mezo id = "hattol">20110527</mezo>
-<mezo id = "pnev">Baráth Terézia</mezo>
+<mezo id = "pnev">BarÃ¡th TerÃ©zia</mezo>
 <mezo id = "panev">Baumgartner Anna</mezo>
 <mezo id = "pirsz">1222</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Gádor utca 124.</mezo>
+<mezo id = "pteru">GÃ¡dor utca 124.</mezo>
 <mezo id = "jogvk">20110527</mezo>
 <mezo id = "jogvv">20160527</mezo>
 <mezo id = "valtk">20110527</mezo>
@@ -884,7 +884,7 @@
 <mezo id = "adosz">11868002242</mezo>
 <mezo id = "kadosz">HU11868002</mezo>
 <mezo id = "bkelt">20110726</mezo>
-<mezo id = "megj">Státusz kezdete: 1999/06/02</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 1999/06/02</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0109">
@@ -902,27 +902,27 @@
 <alrovat id = "9">
 <mezo id = "hattol">20060302</mezo>
 <mezo id = "cgjsz">110041656</mezo>
-<mezo id = "nev">AUTÓKER HOLDING zártkörûen mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">AUTÃ“KER HOLDING zÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1133</mezo>
-<mezo id = "hely">Budapest, Visegrádi u 78.</mezo>
+<mezo id = "hely">Budapest, VisegrÃ¡di u 78.</mezo>
 <mezo id = "j">x</mezo>
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">20060302</mezo>
 <mezo id = "cgjsz">109680448</mezo>
-<mezo id = "nev">Amir Holdings Ingatlanfejlesztõ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Amir Holdings IngatlanfejlesztÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1133</mezo>
-<mezo id = "hely">Budapest, Visegrádi u 78.</mezo>
+<mezo id = "hely">Budapest, VisegrÃ¡di u 78.</mezo>
 </alrovat>
 <alrovat id = "12">
 <mezo id = "hattol">20100504</mezo>
 <mezo id = "cgjsz">0109920954</mezo>
-<mezo id = "nev">ROR Holding Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">ROR Holding KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "irsz">1132</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Visegrádi utca 80. B. ép. 6. em. 3.</mezo>
+<mezo id = "teru">VisegrÃ¡di utca 80. B. Ã©p. 6. em. 3.</mezo>
 <mezo id = "tagsk">20100504</mezo>
 <mezo id = "valtk">20100504</mezo>
 <mezo id = "bkelt">20100510</mezo>
@@ -937,51 +937,51 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A HOLLYWORLD ENTERPRISES LIMITED (székhely: Limassol, Arch. Makarios III Avenue, Meliza Court, 4th Floor, Cyprus) bejelenti, hogy a Cg. [01 09 680497] cégjegyzékszámon nyilvántartott CONTRATTIC Épületfejlesztõ és -forgalmazó Korlátolt Felelõsségû Társaság (székhely: 1036 Budapest, Seregély u. 9.) felett - 2000. augusztus 5-én - közvetlen irányítást biztosító befolyást szerzett.<ujsor/>
-A befolyás mértéke: 100%.<ujsor/>
-A hitelezõk a Gt. 296. § (2) bekezdésében foglalt jogaikat gyakorolhatják.<ujsor/>
+<mezo id = "szoveg">A HOLLYWORLD ENTERPRISES LIMITED (szÃ©khely: Limassol, Arch. Makarios III Avenue, Meliza Court, 4th Floor, Cyprus) bejelenti, hogy a Cg. [01 09 680497] cÃ©gjegyzÃ©kszÃ¡mon nyilvÃ¡ntartott CONTRATTIC Ã‰pÃ¼letfejlesztÅ‘ Ã©s -forgalmazÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (szÃ©khely: 1036 Budapest, SeregÃ©ly u. 9.) felett - 2000. augusztus 5-Ã©n - kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡st szerzett.<ujsor/>
+A befolyÃ¡s mÃ©rtÃ©ke: 100%.<ujsor/>
+A hitelezÅ‘k a Gt. 296. Â§ (2) bekezdÃ©sÃ©ben foglalt jogaikat gyakorolhatjÃ¡k.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109680497</mezo>
-<mezo id = "nev">CONSTRATTIC Épületfejlesztõ és -forgalmazó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">CONSTRATTIC Ã‰pÃ¼letfejlesztÅ‘ Ã©s -forgalmazÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A CONSTRATTIC Épületfejlesztõ és -forgalmazó Korlátolt Felelõsségû Társaság (Cg.: [01 09 680497]; 1034 Budapest, Seregély u. 9.) 2003. július 2-i hatállyal közvetlen irányítást biztosító befolyás alá került.<ujsor/>
-Befolyásszerzõ: TRIGROUP Kft. (cégjegyzékszám: [01 09 713353]; székhely: 1132 Budapest, Tutaj u. 6/B). <ujsor/>
-A befolyás mértéke: 90%.<ujsor/>
-A hitelezõk a Gt. 296. § (2) bekezdésében foglalt jogaikat gyakorolhatják.<ujsor/>
+<mezo id = "szoveg">A CONSTRATTIC Ã‰pÃ¼letfejlesztÅ‘ Ã©s -forgalmazÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [01 09 680497]; 1034 Budapest, SeregÃ©ly u. 9.) 2003. jÃºlius 2-i hatÃ¡llyal kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡s alÃ¡ kerÃ¼lt.<ujsor/>
+BefolyÃ¡sszerzÅ‘: TRIGROUP Kft. (cÃ©gjegyzÃ©kszÃ¡m: [01 09 713353]; szÃ©khely: 1132 Budapest, Tutaj u. 6/B). <ujsor/>
+A befolyÃ¡s mÃ©rtÃ©ke: 90%.<ujsor/>
+A hitelezÅ‘k a Gt. 296. Â§ (2) bekezdÃ©sÃ©ben foglalt jogaikat gyakorolhatjÃ¡k.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109680497</mezo>
-<mezo id = "nev">CONSTRATTIC Épületfejlesztõ és -forgalmazó Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1034 Budapest, Seregély u. 9. </mezo>
+<mezo id = "nev">CONSTRATTIC Ã‰pÃ¼letfejlesztÅ‘ Ã©s -forgalmazÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1034 Budapest, SeregÃ©ly u. 9. </mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A CONSTRATTIC Épületfejlesztõ és -forgalmazó Korlátolt Felelõsségû Társaság (Cg.: [01 09 680497]; 1034 Budapest, Seregély u. 9.) - 2003. augusztus 1-jei hatállyal - jelentõs befolyás alá került.<ujsor/>
-Befolyásszerzõ: AUTÓKER Holding Rt. (cégjegyzékszám: [01 10 041656]; székhely: 1133 Budapest, Visegrádi u. 78.).<ujsor/>
-A befolyás mértéke: 40%.<ujsor/>
+<mezo id = "szoveg">A CONSTRATTIC Ã‰pÃ¼letfejlesztÅ‘ Ã©s -forgalmazÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [01 09 680497]; 1034 Budapest, SeregÃ©ly u. 9.) - 2003. augusztus 1-jei hatÃ¡llyal - jelentÅ‘s befolyÃ¡s alÃ¡ kerÃ¼lt.<ujsor/>
+BefolyÃ¡sszerzÅ‘: AUTÃ“KER Holding Rt. (cÃ©gjegyzÃ©kszÃ¡m: [01 10 041656]; szÃ©khely: 1133 Budapest, VisegrÃ¡di u. 78.).<ujsor/>
+A befolyÃ¡s mÃ©rtÃ©ke: 40%.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109680497</mezo>
-<mezo id = "nev">CONSTRATTIC Épületfejlesztõ és -forgalmazó Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1034 Budapest, Seregély u. 9. </mezo>
+<mezo id = "nev">CONSTRATTIC Ã‰pÃ¼letfejlesztÅ‘ Ã©s -forgalmazÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1034 Budapest, SeregÃ©ly u. 9. </mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2003. 08. 21-én hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. Amir Keshev (an: Shifra Gertner) ügyvezetõ<ujsor/>
-Külföldi cím: IL Netania, Bar Ilan 35.<ujsor/>
- Kézbesítési megbízott: Ehud Amir (an: Marta Renner)<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2003. 08. 21-Ã©n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. Amir Keshev (an: Shifra Gertner) Ã¼gyvezetÅ‘<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: IL Netania, Bar Ilan 35.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott: Ehud Amir (an: Marta Renner)<ujsor/>
 1053 Budapest, Henszlman Imre u. 7.<ujsor/>
-Külföldi cím: IL 50672 Israel, Savion, Haregev Street 1.<ujsor/>
- Hatályos: 2003. 07. 02-tól.<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: IL 50672 Israel, Savion, Haregev Street 1.<ujsor/>
+ HatÃ¡lyos: 2003. 07. 02-tÃ³l.<ujsor/>
 Bejegyezve: 2003. 10. 29.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109680497</mezo>
-<mezo id = "nev">CONSTRATTIC Épületfejlesztõ és -forgalmazó Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1034 Budapest, Seregély u. 9.</mezo>
+<mezo id = "nev">CONSTRATTIC Ã‰pÃ¼letfejlesztÅ‘ Ã©s -forgalmazÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1034 Budapest, SeregÃ©ly u. 9.</mezo>
 <mezo id = "adosz">11868002241</mezo>
 </alrovat>
 </rovat>

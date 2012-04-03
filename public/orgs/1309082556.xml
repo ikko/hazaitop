@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">082556</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">2318 Szigetszentmárton, Ráckevei út 1. </mezo>
+<mezo id = "cim">2318 SzigetszentmÃ¡rton, RÃ¡ckevei Ãºt 1. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">11864802213</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19990601</mezo>
-<mezo id = "nev">SCHNEIDER Investment Ipari Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">SCHNEIDER Investment Ipari SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -26,23 +26,23 @@
 <alrovat id = "1">
 <mezo id = "hattol">19990601</mezo>
 <mezo id = "irsz">2318</mezo>
-<mezo id = "hely">Szigetszentmárton</mezo>
-<mezo id = "teru">Ráckevei út 1.</mezo>
+<mezo id = "hely">SzigetszentmÃ¡rton</mezo>
+<mezo id = "teru">RÃ¡ckevei Ãºt 1.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "6">
 <alrovat id = "2">
 <mezo id = "hattol">20010721</mezo>
 <mezo id = "irsz">2318</mezo>
-<mezo id = "hely">Szigetszentmárton, Ráckevei út 2304.</mezo>
+<mezo id = "hely">SzigetszentmÃ¡rton, RÃ¡ckevei Ãºt 2304.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "7">
 <alrovat id = "1">
 <mezo id = "hattol">20100903</mezo>
 <mezo id = "irsz">3070</mezo>
-<mezo id = "hely">Bátonyterenye</mezo>
-<mezo id = "teru">Ózdi út 11.</mezo>
+<mezo id = "hely">BÃ¡tonyterenye</mezo>
+<mezo id = "teru">Ã“zdi Ãºt 11.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20100903</mezo>
 <mezo id = "bkelt">20100908</mezo>
@@ -1569,12 +1569,12 @@
 <rovat id = "13">
 <alrovat id = "5">
 <mezo id = "hattol">20110224</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "pnev">Schneider Zsolt</mezo>
-<mezo id = "panev">Földessi Julianna</mezo>
+<mezo id = "panev">FÃ¶ldessi Julianna</mezo>
 <mezo id = "pirsz">2318</mezo>
-<mezo id = "phely">Szigetszentmárton</mezo>
-<mezo id = "pteru">Vasút út 9.</mezo>
+<mezo id = "phely">SzigetszentmÃ¡rton</mezo>
+<mezo id = "pteru">VasÃºt Ãºt 9.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20110224</mezo>
 <mezo id = "jogvv">20120301</mezo>
@@ -1591,9 +1591,9 @@
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1132</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Váci út 34. III. em. 2.</mezo>
-<mezo id = "pnev">Kócs István</mezo>
-<mezo id = "panev">Driszkó Mária</mezo>
+<mezo id = "teru">VÃ¡ci Ãºt 34. III. em. 2.</mezo>
+<mezo id = "pnev">KÃ³cs IstvÃ¡n</mezo>
+<mezo id = "panev">DriszkÃ³ MÃ¡ria</mezo>
 <mezo id = "jogvk">20100428</mezo>
 <mezo id = "jogvv">20150428</mezo>
 <mezo id = "valtk">20100428</mezo>
@@ -1617,23 +1617,23 @@
 <alrovat id = "4">
 <mezo id = "hattol">20100428</mezo>
 <mezo id = "pnev">Schneider Zsolt</mezo>
-<mezo id = "panev">Földesi Julianna</mezo>
+<mezo id = "panev">FÃ¶ldesi Julianna</mezo>
 <mezo id = "tagsk">19990514</mezo>
 <mezo id = "valtk">20100428</mezo>
 <mezo id = "bkelt">20100510</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20100428</mezo>
-<mezo id = "pnev">Schneider István</mezo>
-<mezo id = "panev">Vörös Ilona</mezo>
+<mezo id = "pnev">Schneider IstvÃ¡n</mezo>
+<mezo id = "panev">VÃ¶rÃ¶s Ilona</mezo>
 <mezo id = "tagsk">19990514</mezo>
 <mezo id = "valtk">20100428</mezo>
 <mezo id = "bkelt">20100510</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20100428</mezo>
-<mezo id = "pnev">Schneider Tamás</mezo>
-<mezo id = "panev">Földesi Julianna</mezo>
+<mezo id = "pnev">Schneider TamÃ¡s</mezo>
+<mezo id = "panev">FÃ¶ldesi Julianna</mezo>
 <mezo id = "tagsk">19990514</mezo>
 <mezo id = "valtk">20100428</mezo>
 <mezo id = "bkelt">20100510</mezo>

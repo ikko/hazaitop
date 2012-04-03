@@ -5,7 +5,7 @@
 <mezo id = "cf">10</mezo>
 <mezo id = "szam">000349</mezo>
 <mezo id = "nevalrovat">4</mezo>
-<mezo id = "cim">2500 Esztergom, Deák Ferenc utca 4. </mezo>
+<mezo id = "cim">2500 Esztergom, DeÃ¡k Ferenc utca 4. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">10266562211</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "4">
 <mezo id = "hattol">20060621</mezo>
-<mezo id = "nev">Strigonium Számviteli és Gazdasági Tanácsadó Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">Strigonium SzÃ¡mviteli Ã©s GazdasÃ¡gi TanÃ¡csadÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -27,14 +27,14 @@
 <mezo id = "hattol">20000131</mezo>
 <mezo id = "irsz">2500</mezo>
 <mezo id = "hely">Esztergom</mezo>
-<mezo id = "teru">Deák Ferenc utca 4.</mezo>
+<mezo id = "teru">DeÃ¡k Ferenc utca 4.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "6">
 <alrovat id = "1">
 <mezo id = "hattol">20070402</mezo>
 <mezo id = "irsz">2500</mezo>
-<mezo id = "hely">Esztergom, Bottyán J. utca 5.</mezo>
+<mezo id = "hely">Esztergom, BottyÃ¡n J. utca 5.</mezo>
 <mezo id = "valtk">20070103</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -1153,8 +1153,8 @@
 <rovat id = "13">
 <alrovat id = "60">
 <mezo id = "hattol">20101101</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (vezérigazgató)</mezo>
-<mezo id = "pnev">Arany László Tamás</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (vezÃ©rigazgatÃ³)</mezo>
+<mezo id = "pnev">Arany LÃ¡szlÃ³ TamÃ¡s</mezo>
 <mezo id = "panev">Digruber Gizella</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20101101</mezo>
@@ -1168,14 +1168,14 @@
 <alrovat id = "7">
 <mezo id = "hattol">20080530</mezo>
 <mezo id = "cgjsz">609005506</mezo>
-<mezo id = "nev">Regálé Account Könyvvizsgáló, Adószakértõ és Könyvelõ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">RegÃ¡lÃ© Account KÃ¶nyvvizsgÃ¡lÃ³, AdÃ³szakÃ©rtÅ‘ Ã©s KÃ¶nyvelÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">6726</mezo>
 <mezo id = "hely">Szeged</mezo>
 <mezo id = "teru">Fogarasi</mezo>
 <mezo id = "hsz">6/B/2</mezo>
-<mezo id = "pnev">Csécsei Judit Eszter</mezo>
-<mezo id = "panev">Szénási Klára</mezo>
+<mezo id = "pnev">CsÃ©csei Judit Eszter</mezo>
+<mezo id = "panev">SzÃ©nÃ¡si KlÃ¡ra</mezo>
 <mezo id = "pirsz">6726</mezo>
 <mezo id = "phely">Szeged, Fogarasi utca 6/B/2.</mezo>
 <mezo id = "jogvk">20080531</mezo>
@@ -1189,11 +1189,11 @@
 <rovat id = "15">
 <alrovat id = "45">
 <mezo id = "hattol">20110502</mezo>
-<mezo id = "pnev">Meggyes Tamás</mezo>
-<mezo id = "panev">Sigmond Ildikó</mezo>
+<mezo id = "pnev">Meggyes TamÃ¡s</mezo>
+<mezo id = "panev">Sigmond IldikÃ³</mezo>
 <mezo id = "pirsz">2500</mezo>
 <mezo id = "phely">Esztergom</mezo>
-<mezo id = "pteru">Fárikúti út 11143 hrsz.</mezo>
+<mezo id = "pteru">FÃ¡rikÃºti Ãºt 11143 hrsz.</mezo>
 <mezo id = "jogvk">20110303</mezo>
 <mezo id = "jogvv">20120531</mezo>
 <mezo id = "valtk">20110502</mezo>
@@ -1201,11 +1201,11 @@
 </alrovat>
 <alrovat id = "46">
 <mezo id = "hattol">20110502</mezo>
-<mezo id = "pnev">Steindl Balázs</mezo>
-<mezo id = "panev">Zink Mária</mezo>
+<mezo id = "pnev">Steindl BalÃ¡zs</mezo>
+<mezo id = "panev">Zink MÃ¡ria</mezo>
 <mezo id = "pirsz">2500</mezo>
 <mezo id = "phely">Esztergom</mezo>
-<mezo id = "pteru">Meggyfás utca 3.</mezo>
+<mezo id = "pteru">MeggyfÃ¡s utca 3.</mezo>
 <mezo id = "jogvk">20110303</mezo>
 <mezo id = "jogvv">20120531</mezo>
 <mezo id = "valtk">20110502</mezo>
@@ -1213,11 +1213,11 @@
 </alrovat>
 <alrovat id = "47">
 <mezo id = "hattol">20110502</mezo>
-<mezo id = "pnev">Jávorfi Szilvia</mezo>
+<mezo id = "pnev">JÃ¡vorfi Szilvia</mezo>
 <mezo id = "panev">Lencse Julianna</mezo>
 <mezo id = "pirsz">2500</mezo>
 <mezo id = "phely">Esztergom</mezo>
-<mezo id = "pteru">Siszler út 37/b.</mezo>
+<mezo id = "pteru">Siszler Ãºt 37/b.</mezo>
 <mezo id = "jogvk">20110303</mezo>
 <mezo id = "jogvv">20120531</mezo>
 <mezo id = "valtk">20110502</mezo>
@@ -1243,26 +1243,26 @@
 <mezo id = "adosz">10266562211</mezo>
 <mezo id = "kadosz">HU10266562</mezo>
 <mezo id = "bkelt">20110906</mezo>
-<mezo id = "megj">Státusz kezdete: 1989/08/10</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 1989/08/10</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0110">
 <alrovat id = "2">
 <mezo id = "hattol">19890810</mezo>
-<mezo id = "nev">Magyar Takarékszövetkezeti Bank</mezo>
+<mezo id = "nev">Magyar TakarÃ©kszÃ¶vetkezeti Bank</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1122</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Pethényi köz</mezo>
+<mezo id = "teru">PethÃ©nyi kÃ¶z</mezo>
 <mezo id = "hsz">10.</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20091125</mezo>
-<mezo id = "nev">Esztergom Város Önkormányzata</mezo>
+<mezo id = "nev">Esztergom VÃ¡ros Ã–nkormÃ¡nyzata</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2500</mezo>
 <mezo id = "hely">Esztergom</mezo>
-<mezo id = "teru">Széchenyi tér 1.</mezo>
+<mezo id = "teru">SzÃ©chenyi tÃ©r 1.</mezo>
 <mezo id = "tagsk">19890810</mezo>
 <mezo id = "sz3">x</mezo>
 <mezo id = "valtk">20091125</mezo>
@@ -1278,254 +1278,254 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Komárom-Esztergom Megyei Bíróság 11 10 000349<ujsor/>
-STRIGONIUM Idegenforgalmi Befektetõ Részvénytársaság<ujsor/>
-Az elhatározott alaptõke-emelés részvényjegyzésének ideje: 1990. 09. 17. 9-17 óra.<ujsor/>
-Az elhatározott részvénykibocsátás: 63 db (hatvanhárom darab), egyenként 500 000 Ft (ötszázezer forint) névértékû, névre szóló részvény.<ujsor/>
-A társaság elhatározott új alaptõkéje: 183 000 000 Ft (egyszáznyolcvanhárommillió forint).<ujsor/>
-Részvényjegyzés helye: 2500 Esztergom, Béke tér 4. (a cég székhelye).<ujsor/>
+<mezo id = "szoveg">KomÃ¡rom-Esztergom Megyei BÃ­rÃ³sÃ¡g 11 10 000349<ujsor/>
+STRIGONIUM Idegenforgalmi BefektetÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g<ujsor/>
+Az elhatÃ¡rozott alaptÅ‘ke-emelÃ©s rÃ©szvÃ©nyjegyzÃ©sÃ©nek ideje: 1990. 09. 17. 9-17 Ã³ra.<ujsor/>
+Az elhatÃ¡rozott rÃ©szvÃ©nykibocsÃ¡tÃ¡s: 63 db (hatvanhÃ¡rom darab), egyenkÃ©nt 500 000 Ft (Ã¶tszÃ¡zezer forint) nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³ rÃ©szvÃ©ny.<ujsor/>
+A tÃ¡rsasÃ¡g elhatÃ¡rozott Ãºj alaptÅ‘kÃ©je: 183 000 000 Ft (egyszÃ¡znyolcvanhÃ¡rommilliÃ³ forint).<ujsor/>
+RÃ©szvÃ©nyjegyzÃ©s helye: 2500 Esztergom, BÃ©ke tÃ©r 4. (a cÃ©g szÃ©khelye).<ujsor/>
 1990. 08. 31.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110000349</mezo>
-<mezo id = "nev">Strigonium Ingatlankezelõ és Üzemeltetõ Részvénytársaság</mezo>
+<mezo id = "nev">Strigonium IngatlankezelÅ‘ Ã©s ÃœzemeltetÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Strigonium Idegenforgalmi Befektetõ Rt. (2500 Esztergom, Prímás-sziget, Hotel Esztergom; cégjegyzékszáma: [11 10 000349]) évi rendes közgyûlése 1997. május 28-án kelt, 4/1997. sz. határozatával elhatározta a részvénytársaság alaptõkéjének leszállítását. Az alaptõke-leszállítás következtében a részvénytársaság alaptõkéje 183 500 000 Ft-ról (egyszáznyolcvanhárommillió-ötszázezer forintról) 55 050 000 Ft-ra (ötvenötmillió-ötvenezer forintra) csökken.<ujsor/>
-Az elõzõeknek megfelelõen a 367 db (háromszázhatvanhét darab) 500 000 Ft (ötszázezer forint) névértékû részvény névértéke az alaptõke-leszállítással 150 000 Ft (egyszázötvenezer forint) lesz.<ujsor/>
-Az alaptõke-leszállítás módja a részvények lebélyegzése.<ujsor/>
-A részvényesek kötelesek részvényeiket a közgyûlést követõ 90 napon belül az igazgatóságnak, a társaság székhelyére eljuttatni lebélyegzésre.<ujsor/>
-Az igazgatóság névre szóló levélben és a társaság hirdetményi lapjában közzétett felhívással is felhívja a részvényeseket részvényeik benyújtására.<ujsor/>
-A felszólítás ellenére be nem nyújtott részvényeket a társaság érvénytelennek nyilvánítja.<ujsor/>
-Az alaptõke-leszállítás oka a veszteséges gazdálkodás és alaptõkehiány.<ujsor/>
-Az igazgatóság ezúton felhívja hitelezõit a Gt. 312. § (1) bekezdésében foglaltak szerint követeléseik bejelentésére.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">A Strigonium Idegenforgalmi BefektetÅ‘ Rt. (2500 Esztergom, PrÃ­mÃ¡s-sziget, Hotel Esztergom; cÃ©gjegyzÃ©kszÃ¡ma: [11 10 000349]) Ã©vi rendes kÃ¶zgyÅ±lÃ©se 1997. mÃ¡jus 28-Ã¡n kelt, 4/1997. sz. hatÃ¡rozatÃ¡val elhatÃ¡rozta a rÃ©szvÃ©nytÃ¡rsasÃ¡g alaptÅ‘kÃ©jÃ©nek leszÃ¡llÃ­tÃ¡sÃ¡t. Az alaptÅ‘ke-leszÃ¡llÃ­tÃ¡s kÃ¶vetkeztÃ©ben a rÃ©szvÃ©nytÃ¡rsasÃ¡g alaptÅ‘kÃ©je 183 500 000 Ft-rÃ³l (egyszÃ¡znyolcvanhÃ¡rommilliÃ³-Ã¶tszÃ¡zezer forintrÃ³l) 55 050 000 Ft-ra (Ã¶tvenÃ¶tmilliÃ³-Ã¶tvenezer forintra) csÃ¶kken.<ujsor/>
+Az elÅ‘zÅ‘eknek megfelelÅ‘en a 367 db (hÃ¡romszÃ¡zhatvanhÃ©t darab) 500 000 Ft (Ã¶tszÃ¡zezer forint) nÃ©vÃ©rtÃ©kÅ± rÃ©szvÃ©ny nÃ©vÃ©rtÃ©ke az alaptÅ‘ke-leszÃ¡llÃ­tÃ¡ssal 150 000 Ft (egyszÃ¡zÃ¶tvenezer forint) lesz.<ujsor/>
+Az alaptÅ‘ke-leszÃ¡llÃ­tÃ¡s mÃ³dja a rÃ©szvÃ©nyek lebÃ©lyegzÃ©se.<ujsor/>
+A rÃ©szvÃ©nyesek kÃ¶telesek rÃ©szvÃ©nyeiket a kÃ¶zgyÅ±lÃ©st kÃ¶vetÅ‘ 90 napon belÃ¼l az igazgatÃ³sÃ¡gnak, a tÃ¡rsasÃ¡g szÃ©khelyÃ©re eljuttatni lebÃ©lyegzÃ©sre.<ujsor/>
+Az igazgatÃ³sÃ¡g nÃ©vre szÃ³lÃ³ levÃ©lben Ã©s a tÃ¡rsasÃ¡g hirdetmÃ©nyi lapjÃ¡ban kÃ¶zzÃ©tett felhÃ­vÃ¡ssal is felhÃ­vja a rÃ©szvÃ©nyeseket rÃ©szvÃ©nyeik benyÃºjtÃ¡sÃ¡ra.<ujsor/>
+A felszÃ³lÃ­tÃ¡s ellenÃ©re be nem nyÃºjtott rÃ©szvÃ©nyeket a tÃ¡rsasÃ¡g Ã©rvÃ©nytelennek nyilvÃ¡nÃ­tja.<ujsor/>
+Az alaptÅ‘ke-leszÃ¡llÃ­tÃ¡s oka a vesztesÃ©ges gazdÃ¡lkodÃ¡s Ã©s alaptÅ‘kehiÃ¡ny.<ujsor/>
+Az igazgatÃ³sÃ¡g ezÃºton felhÃ­vja hitelezÅ‘it a Gt. 312. Â§ (1) bekezdÃ©sÃ©ben foglaltak szerint kÃ¶vetelÃ©seik bejelentÃ©sÃ©re.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110000349</mezo>
-<mezo id = "nev">Strigonium Ingatlankezelõ és Üzemeltetõ Részvénytársaság</mezo>
+<mezo id = "nev">Strigonium IngatlankezelÅ‘ Ã©s ÃœzemeltetÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Strigonium Idegenforgalmi Befektetõ Rt. (2500 Esztergom, Prímás-sziget, Hotel Esztergom; cégjegyzékszáma: [11 10 000349]) évi rendes közgyûlése 1997. május 28-án kelt, 4/1997. sz. határozatával elhatározta a részvénytársaság alaptõkéjének leszállítását. Az alaptõke-leszállítás következtében a részvénytársaság alaptõkéje 183 500 000 Ft-ról (egyszáznyolcvanhárommillió-ötszázezer forintról) 55 050 000 Ft-ra (ötvenötmillió-ötvenezer forintra) csökken.<ujsor/>
-Az elõzõeknek megfelelõen a 367 db (háromszázhatvanhét darab) 500 000 Ft (ötszázezer forint) névértékû részvény névértéke az alaptõke-leszállítással 150 000 Ft (egyszázötvenezer forint) lesz.<ujsor/>
-Az alaptõke-leszállítás módja a részvények lebélyegzése.<ujsor/>
-A részvényesek kötelesek részvényeiket a közgyûlést követõ 90 napon belül az igazgatóságnak, a társaság székhelyére eljuttatni lebélyegzésre.<ujsor/>
-Az igazgatóság névre szóló levélben és a társaság hirdetményi lapjában közzétett felhívással is felhívja a részvényeseket részvényeik benyújtására.<ujsor/>
-A felszólítás ellenére be nem nyújtott részvényeket a társaság érvénytelennek nyilvánítja.<ujsor/>
-Az alaptõke-leszállítás oka a veszteséges gazdálkodás és alaptõkehiány.<ujsor/>
-Az igazgatóság ezúton felhívja hitelezõit a Gt. 312. § (1) bekezdésében foglaltak szerint követeléseik bejelentésére.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">A Strigonium Idegenforgalmi BefektetÅ‘ Rt. (2500 Esztergom, PrÃ­mÃ¡s-sziget, Hotel Esztergom; cÃ©gjegyzÃ©kszÃ¡ma: [11 10 000349]) Ã©vi rendes kÃ¶zgyÅ±lÃ©se 1997. mÃ¡jus 28-Ã¡n kelt, 4/1997. sz. hatÃ¡rozatÃ¡val elhatÃ¡rozta a rÃ©szvÃ©nytÃ¡rsasÃ¡g alaptÅ‘kÃ©jÃ©nek leszÃ¡llÃ­tÃ¡sÃ¡t. Az alaptÅ‘ke-leszÃ¡llÃ­tÃ¡s kÃ¶vetkeztÃ©ben a rÃ©szvÃ©nytÃ¡rsasÃ¡g alaptÅ‘kÃ©je 183 500 000 Ft-rÃ³l (egyszÃ¡znyolcvanhÃ¡rommilliÃ³-Ã¶tszÃ¡zezer forintrÃ³l) 55 050 000 Ft-ra (Ã¶tvenÃ¶tmilliÃ³-Ã¶tvenezer forintra) csÃ¶kken.<ujsor/>
+Az elÅ‘zÅ‘eknek megfelelÅ‘en a 367 db (hÃ¡romszÃ¡zhatvanhÃ©t darab) 500 000 Ft (Ã¶tszÃ¡zezer forint) nÃ©vÃ©rtÃ©kÅ± rÃ©szvÃ©ny nÃ©vÃ©rtÃ©ke az alaptÅ‘ke-leszÃ¡llÃ­tÃ¡ssal 150 000 Ft (egyszÃ¡zÃ¶tvenezer forint) lesz.<ujsor/>
+Az alaptÅ‘ke-leszÃ¡llÃ­tÃ¡s mÃ³dja a rÃ©szvÃ©nyek lebÃ©lyegzÃ©se.<ujsor/>
+A rÃ©szvÃ©nyesek kÃ¶telesek rÃ©szvÃ©nyeiket a kÃ¶zgyÅ±lÃ©st kÃ¶vetÅ‘ 90 napon belÃ¼l az igazgatÃ³sÃ¡gnak, a tÃ¡rsasÃ¡g szÃ©khelyÃ©re eljuttatni lebÃ©lyegzÃ©sre.<ujsor/>
+Az igazgatÃ³sÃ¡g nÃ©vre szÃ³lÃ³ levÃ©lben Ã©s a tÃ¡rsasÃ¡g hirdetmÃ©nyi lapjÃ¡ban kÃ¶zzÃ©tett felhÃ­vÃ¡ssal is felhÃ­vja a rÃ©szvÃ©nyeseket rÃ©szvÃ©nyeik benyÃºjtÃ¡sÃ¡ra.<ujsor/>
+A felszÃ³lÃ­tÃ¡s ellenÃ©re be nem nyÃºjtott rÃ©szvÃ©nyeket a tÃ¡rsasÃ¡g Ã©rvÃ©nytelennek nyilvÃ¡nÃ­tja.<ujsor/>
+Az alaptÅ‘ke-leszÃ¡llÃ­tÃ¡s oka a vesztesÃ©ges gazdÃ¡lkodÃ¡s Ã©s alaptÅ‘kehiÃ¡ny.<ujsor/>
+Az igazgatÃ³sÃ¡g ezÃºton felhÃ­vja hitelezÅ‘it a Gt. 312. Â§ (1) bekezdÃ©sÃ©ben foglaltak szerint kÃ¶vetelÃ©seik bejelentÃ©sÃ©re.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110000349</mezo>
-<mezo id = "nev">Strigonium Ingatlankezelõ és Üzemeltetõ Részvénytársaság</mezo>
+<mezo id = "nev">Strigonium IngatlankezelÅ‘ Ã©s ÃœzemeltetÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Strigonium Rt. (Cg.: [11 10 000349]; székhelye: 2500 Esztergom, Deák F. u. 4.) zártkörû mûködési formájú részvénytársaság 2005. május 30-án megtartott közgyûlésén alaptõkéjének 34 050 000 Ft-ra (harmincnégymillió-ötvenezer forintra) történõ leszállítását határozta el.<ujsor/>
-A tõkeleszállítás indoka: a társaság veszteségeinek rendezése, nevezetesen az, hogy a társaság alaptõkéje tükrözze a társaság tényleges vagyoni helyzetét.<ujsor/>
-Az alaptõke-leszállítás végrehajtásának módja: a tõkeleszállítással érintett részvények bevonása.<ujsor/>
-A tõkeleszállítás összege: 48 600 000 Ft (negyvennyolcmillió-hatszázezer forint).<ujsor/>
-A társaság részvényese részvényeit a bevonás foganatosítása céljából a társasághoz 2005. december 31-ig nyújthatja be. (A benyújtás részleteirõl a vezérigazgató a részvényest külön hirdetmény útján fogja tájékoztatni.)<ujsor/>
-A társaság felhívja hitelezõi figyelmét, hogy az alaptõke leszállításához hozzá nem járuló hitelezõk esetleges követeléseiket ezen hirdetmény második közzétételétõl számított harminc napon belül jelenthetik be a társaság fent meghatározott székhelyén.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">A Strigonium Rt. (Cg.: [11 10 000349]; szÃ©khelye: 2500 Esztergom, DeÃ¡k F. u. 4.) zÃ¡rtkÃ¶rÅ± mÅ±kÃ¶dÃ©si formÃ¡jÃº rÃ©szvÃ©nytÃ¡rsasÃ¡g 2005. mÃ¡jus 30-Ã¡n megtartott kÃ¶zgyÅ±lÃ©sÃ©n alaptÅ‘kÃ©jÃ©nek 34 050 000 Ft-ra (harmincnÃ©gymilliÃ³-Ã¶tvenezer forintra) tÃ¶rtÃ©nÅ‘ leszÃ¡llÃ­tÃ¡sÃ¡t hatÃ¡rozta el.<ujsor/>
+A tÅ‘keleszÃ¡llÃ­tÃ¡s indoka: a tÃ¡rsasÃ¡g vesztesÃ©geinek rendezÃ©se, nevezetesen az, hogy a tÃ¡rsasÃ¡g alaptÅ‘kÃ©je tÃ¼krÃ¶zze a tÃ¡rsasÃ¡g tÃ©nyleges vagyoni helyzetÃ©t.<ujsor/>
+Az alaptÅ‘ke-leszÃ¡llÃ­tÃ¡s vÃ©grehajtÃ¡sÃ¡nak mÃ³dja: a tÅ‘keleszÃ¡llÃ­tÃ¡ssal Ã©rintett rÃ©szvÃ©nyek bevonÃ¡sa.<ujsor/>
+A tÅ‘keleszÃ¡llÃ­tÃ¡s Ã¶sszege: 48 600 000 Ft (negyvennyolcmilliÃ³-hatszÃ¡zezer forint).<ujsor/>
+A tÃ¡rsasÃ¡g rÃ©szvÃ©nyese rÃ©szvÃ©nyeit a bevonÃ¡s foganatosÃ­tÃ¡sa cÃ©ljÃ¡bÃ³l a tÃ¡rsasÃ¡ghoz 2005. december 31-ig nyÃºjthatja be. (A benyÃºjtÃ¡s rÃ©szleteirÅ‘l a vezÃ©rigazgatÃ³ a rÃ©szvÃ©nyest kÃ¼lÃ¶n hirdetmÃ©ny ÃºtjÃ¡n fogja tÃ¡jÃ©koztatni.)<ujsor/>
+A tÃ¡rsasÃ¡g felhÃ­vja hitelezÅ‘i figyelmÃ©t, hogy az alaptÅ‘ke leszÃ¡llÃ­tÃ¡sÃ¡hoz hozzÃ¡ nem jÃ¡rulÃ³ hitelezÅ‘k esetleges kÃ¶vetelÃ©seiket ezen hirdetmÃ©ny mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott harminc napon belÃ¼l jelenthetik be a tÃ¡rsasÃ¡g fent meghatÃ¡rozott szÃ©khelyÃ©n.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110000349</mezo>
-<mezo id = "nev">STRIGONIUM IDEGENFORGALMI BEFEKTETÕ Részvénytársaság</mezo>
+<mezo id = "nev">STRIGONIUM IDEGENFORGALMI BEFEKTETÅ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">2500 Esztergom</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Strigonium Rt. (Cg.: [11 10 000349]; székhelye: 2500 Esztergom, Deák F. u. 4.) zártkörû mûködési formájú részvénytársaság 2005. május 30-án megtartott közgyûlésén alaptõkéjének 34 050 000 Ft-ra (harmincnégymillió-ötvenezer forintra) történõ leszállítását határozta el.<ujsor/>
-A tõkeleszállítás indoka: a társaság veszteségeinek rendezése, nevezetesen az, hogy a társaság alaptõkéje tükrözze a társaság tényleges vagyoni helyzetét.<ujsor/>
-Az alaptõke-leszállítás végrehajtásának módja: a tõkeleszállítással érintett részvények bevonása.<ujsor/>
-A tõkeleszállítás összege: 48 600 000 Ft (negyvennyolcmillió-hatszázezer forint).<ujsor/>
-A társaság a részvényese részvényeit a bevonás foganatosítása céljából a társasághoz 2005. december 31-ig nyújthatja be. (A benyújtás részleteirõl a vezérigazgató a részvényest külön hirdetmény útján fogja tájékoztatni.)<ujsor/>
-A társaság felhívja hitelezõi figyelmét, hogy az alaptõke leszállításához hozzá nem járuló hitelezõk esetleges követeléseiket ezen hirdetmény második közzétételétõl számított harminc napon belül jelenthetik be a társaság fent meghatározott székhelyén.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">A Strigonium Rt. (Cg.: [11 10 000349]; szÃ©khelye: 2500 Esztergom, DeÃ¡k F. u. 4.) zÃ¡rtkÃ¶rÅ± mÅ±kÃ¶dÃ©si formÃ¡jÃº rÃ©szvÃ©nytÃ¡rsasÃ¡g 2005. mÃ¡jus 30-Ã¡n megtartott kÃ¶zgyÅ±lÃ©sÃ©n alaptÅ‘kÃ©jÃ©nek 34 050 000 Ft-ra (harmincnÃ©gymilliÃ³-Ã¶tvenezer forintra) tÃ¶rtÃ©nÅ‘ leszÃ¡llÃ­tÃ¡sÃ¡t hatÃ¡rozta el.<ujsor/>
+A tÅ‘keleszÃ¡llÃ­tÃ¡s indoka: a tÃ¡rsasÃ¡g vesztesÃ©geinek rendezÃ©se, nevezetesen az, hogy a tÃ¡rsasÃ¡g alaptÅ‘kÃ©je tÃ¼krÃ¶zze a tÃ¡rsasÃ¡g tÃ©nyleges vagyoni helyzetÃ©t.<ujsor/>
+Az alaptÅ‘ke-leszÃ¡llÃ­tÃ¡s vÃ©grehajtÃ¡sÃ¡nak mÃ³dja: a tÅ‘keleszÃ¡llÃ­tÃ¡ssal Ã©rintett rÃ©szvÃ©nyek bevonÃ¡sa.<ujsor/>
+A tÅ‘keleszÃ¡llÃ­tÃ¡s Ã¶sszege: 48 600 000 Ft (negyvennyolcmilliÃ³-hatszÃ¡zezer forint).<ujsor/>
+A tÃ¡rsasÃ¡g a rÃ©szvÃ©nyese rÃ©szvÃ©nyeit a bevonÃ¡s foganatosÃ­tÃ¡sa cÃ©ljÃ¡bÃ³l a tÃ¡rsasÃ¡ghoz 2005. december 31-ig nyÃºjthatja be. (A benyÃºjtÃ¡s rÃ©szleteirÅ‘l a vezÃ©rigazgatÃ³ a rÃ©szvÃ©nyest kÃ¼lÃ¶n hirdetmÃ©ny ÃºtjÃ¡n fogja tÃ¡jÃ©koztatni.)<ujsor/>
+A tÃ¡rsasÃ¡g felhÃ­vja hitelezÅ‘i figyelmÃ©t, hogy az alaptÅ‘ke leszÃ¡llÃ­tÃ¡sÃ¡hoz hozzÃ¡ nem jÃ¡rulÃ³ hitelezÅ‘k esetleges kÃ¶vetelÃ©seiket ezen hirdetmÃ©ny mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott harminc napon belÃ¼l jelenthetik be a tÃ¡rsasÃ¡g fent meghatÃ¡rozott szÃ©khelyÃ©n.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110000349</mezo>
-<mezo id = "nev">STRIGONIUM IDEGENFORGALMI BEFEKTETÕ Részvénytársaság</mezo>
+<mezo id = "nev">STRIGONIUM IDEGENFORGALMI BEFEKTETÅ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">2500 Esztergom</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Strigonium Számviteli és Gazdasági Tanácsadó Zártkörûen Mûködõ Részvénytársaság a Gt. 256. § (2) bekezdése alapján az alábbi közleményt teszi közzé:<ujsor/>
-A Komárom-Esztergom Megyei Bíróság mint Cégbíróság által nyilvántartásba vett, 2500 Esztergom, Deák Ferenc u. 4. szám alatti székhelyû Strigonium Számviteli és Gazdasági Tanácsadó Zártkörûen Mûködõ Részvénytársaság (Cg.: [11 10 000349]) a 2007. március 21-én megtartott közgyûlésén határozatot hozott a társaság alaptõkéjének megemelésérõl 144 000 000 Ft-ról 183 900 000 Ft-ra, dematerializált úton elõállított, új részvények zártkörû forgalomba hozatalával, 39 900 000 Ft (harminckilencmillió-kilencszázezer forint) összeggel, amely összeg egyben a jegyzési minimum, túljegyzést nem fogad el. A részvények kibocsátási értéke azonos azok névértékével.<ujsor/>
-A társaság alaptõkéjét új részvények forgalomba hozatalával, zárt körben, dematerializált formában elõállított 266 db, egyenként 150 000 Ft névértékû egyenlõ jogokat biztosító törzsrészvénnyel, összesen 39 900 000 Ft-tal (harminckilencmillió-kilencszázezer forinttal) ­ amely összeg egyben a jegyzési minimum, túljegyzést nem fogad el ­ emeli meg. A részvények kibocsátási értéke azonos azok névértékével. A közgyûlés a társaság részvényesét, Esztergom Város Önkormányzatát jogosítja fel arra, hogy a részvények átvételére vonatkozó szándéknyilatkozatot tegyen. A részvényes az elõterjesztésben meghatározottak szerint 266 db törzsrészvénynek a részvény névértékén történõ átvételére jogosult. A közgyûlés egyidejûleg felhívja a kijelölt személyt, hogy húsz napon belül tegye meg nyilatkozatát, hogy a részvényeket át kívánja-e venni.<ujsor/>
+<mezo id = "szoveg">A Strigonium SzÃ¡mviteli Ã©s GazdasÃ¡gi TanÃ¡csadÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g a Gt. 256. Â§ (2) bekezdÃ©se alapjÃ¡n az alÃ¡bbi kÃ¶zlemÃ©nyt teszi kÃ¶zzÃ©:<ujsor/>
+A KomÃ¡rom-Esztergom Megyei BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g Ã¡ltal nyilvÃ¡ntartÃ¡sba vett, 2500 Esztergom, DeÃ¡k Ferenc u. 4. szÃ¡m alatti szÃ©khelyÅ± Strigonium SzÃ¡mviteli Ã©s GazdasÃ¡gi TanÃ¡csadÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [11 10 000349]) a 2007. mÃ¡rcius 21-Ã©n megtartott kÃ¶zgyÅ±lÃ©sÃ©n hatÃ¡rozatot hozott a tÃ¡rsasÃ¡g alaptÅ‘kÃ©jÃ©nek megemelÃ©sÃ©rÅ‘l 144 000 000 Ft-rÃ³l 183 900 000 Ft-ra, dematerializÃ¡lt Ãºton elÅ‘Ã¡llÃ­tott, Ãºj rÃ©szvÃ©nyek zÃ¡rtkÃ¶rÅ± forgalomba hozatalÃ¡val, 39 900 000 Ft (harminckilencmilliÃ³-kilencszÃ¡zezer forint) Ã¶sszeggel, amely Ã¶sszeg egyben a jegyzÃ©si minimum, tÃºljegyzÃ©st nem fogad el. A rÃ©szvÃ©nyek kibocsÃ¡tÃ¡si Ã©rtÃ©ke azonos azok nÃ©vÃ©rtÃ©kÃ©vel.<ujsor/>
+A tÃ¡rsasÃ¡g alaptÅ‘kÃ©jÃ©t Ãºj rÃ©szvÃ©nyek forgalomba hozatalÃ¡val, zÃ¡rt kÃ¶rben, dematerializÃ¡lt formÃ¡ban elÅ‘Ã¡llÃ­tott 266 db, egyenkÃ©nt 150 000 Ft nÃ©vÃ©rtÃ©kÅ± egyenlÅ‘ jogokat biztosÃ­tÃ³ tÃ¶rzsrÃ©szvÃ©nnyel, Ã¶sszesen 39 900 000 Ft-tal (harminckilencmilliÃ³-kilencszÃ¡zezer forinttal) Â­ amely Ã¶sszeg egyben a jegyzÃ©si minimum, tÃºljegyzÃ©st nem fogad el Â­ emeli meg. A rÃ©szvÃ©nyek kibocsÃ¡tÃ¡si Ã©rtÃ©ke azonos azok nÃ©vÃ©rtÃ©kÃ©vel. A kÃ¶zgyÅ±lÃ©s a tÃ¡rsasÃ¡g rÃ©szvÃ©nyesÃ©t, Esztergom VÃ¡ros Ã–nkormÃ¡nyzatÃ¡t jogosÃ­tja fel arra, hogy a rÃ©szvÃ©nyek Ã¡tvÃ©telÃ©re vonatkozÃ³ szÃ¡ndÃ©knyilatkozatot tegyen. A rÃ©szvÃ©nyes az elÅ‘terjesztÃ©sben meghatÃ¡rozottak szerint 266 db tÃ¶rzsrÃ©szvÃ©nynek a rÃ©szvÃ©ny nÃ©vÃ©rtÃ©kÃ©n tÃ¶rtÃ©nÅ‘ Ã¡tvÃ©telÃ©re jogosult. A kÃ¶zgyÅ±lÃ©s egyidejÅ±leg felhÃ­vja a kijelÃ¶lt szemÃ©lyt, hogy hÃºsz napon belÃ¼l tegye meg nyilatkozatÃ¡t, hogy a rÃ©szvÃ©nyeket Ã¡t kÃ­vÃ¡nja-e venni.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110000349</mezo>
-<mezo id = "nev">STRIGONIUM IDEGENFORGALMI BEFEKTETÕ Részvénytársaság</mezo>
+<mezo id = "nev">STRIGONIUM IDEGENFORGALMI BEFEKTETÅ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">2500 Esztergom</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Könyvvizsgálói jelentések<ujsor/>
-Elvégeztük az Esztergom Város Önkormányzatának Képviselõ-testülete (továbbiakban: „önkormányzat”) által a Strigonium Számviteli és Gazdasági Tanácsadó Zrt.-be (Cg.: [11 10 000349]; 2500 Esztergom, Deák Ferenc u. 4.; továbbiakban: „Strigonium Zrt.”) nem pénzbeli hozzájárulás (apport) formájában végrehajtandó tõkeemelés könyvvizsgálatát. Az önkormányzat úgy döntött, hogy a Strigonium Zrt.-be ­ melynek 99,3%-os tulajdonát birtokolja 1217 db, egyenként 150 000 Ft névértékû, névre szóló törzsrészvény formájában ­ tõkeemelést hajt végre részben pénzbeli, részben nem pénzbeli (apport) hozzájárulásként. A nem pénzbeli hozzájárulás (apport) jegyzék összeállítása az önkormányzat felelõssége volt. A mi felelõsségünk a nem pénzbeli hozzájárulás (apport) értékelésének véleményezése könyvvizsgálatunk alapján.<ujsor/>
-A könyvvizsgálatot a magyar nemzeti könyvvizsgálati standardok (800 standard) és a Magyarországon a könyvvizsgálatra vonatkozó érvényes törvények és egyéb jogszabályok alapján hajtottuk végre. A fenti szabályok értelmében a könyvvizsgálat tervezése és elvégzése révén kellõ bizonyosságot kell szereznünk arról, hogy a nem pénzbeli hozzájárulásnak (apport) az alapítók által elõzetesen megállapított értéke egyensúlyban van-e az ellenében adandó részvények számával, névértékével.<ujsor/>
-A könyvvizsgálat során a nem pénzbeli hozzájárulásként (apport) a Strigonium Zrt. rendelkezésére bocsátandó ingatlanok értékelését az alábbi szempontok alapján véleményezzük:<ujsor/>
-Az ingatlanok tulajdonjogát az önkormányzat a könyvvizsgálat befejezésének napjára vonatkozó hiteles tulajdoni lap másolatának rendelkezésre bocsátásával bizonyította. A tulajdoni lap másolatok tanúsága szerint, a nem pénzbeli hozzájárulásként (apport) szolgáltatandó ingatlanok tehermentesek, az önkormányzat jogos tulajdonában állnak és forgalomképesek.<ujsor/>
-Az ingatlanok nem pénzbeli hozzájárulásként (apport) való szolgáltatásáról az önkormányzat határozatot hozott.<ujsor/>
-A könyvvizsgálat során megállapítottuk, hogy az önkormányzat a Strigonium Zrt.-be nem pénzbeli hozzájárulásként (apport) szolgáltatandó vagyontárgyak értékét összességében 537 648 000 Ft-ban (ötszázharminchétmillió-hatszáznegyvennyolcezer forintban) határozta meg.<ujsor/>
-A Strigonium Zrt. tõkeemelés elõtti jegyzett tõkéje 183 900 db, egyenként 1000 Ft (egyezer forint) névértékû, névre szóló, egyenlõ jogokat biztosító törzsrészvényekbõl áll, melybõl az önkormányzat 182 550 db részvényt birtokol.<ujsor/>
-Az önkormányzat által végrehajtandó tõkeemelés 5000 Ft (ötezer forint) pénzbeli és 537 648 000 Ft (ötszázharminchétmillió-hatszáznegyvennyolcezer forint) nem pénzbeli (apport) szolgáltatásból tevõdik össze, a teljes tõkeemelés 537 653 000 Ft (ötszázharminchétmillió-hatszázötvenháromezer forint).<ujsor/>
-A tõkeemelés ellenében a Strigonium Zrt. által az önkormányzatnak adandó részvények száma 537 653 db (ötszázharminchétezer-hatszázötvenhárom darab), egyenként 1000 Ft (egyezer forint) névértékû, névre szóló, egyenlõ jogokat biztosító törzsrészvény.<ujsor/>
+<mezo id = "szoveg">KÃ¶nyvvizsgÃ¡lÃ³i jelentÃ©sek<ujsor/>
+ElvÃ©geztÃ¼k az Esztergom VÃ¡ros Ã–nkormÃ¡nyzatÃ¡nak KÃ©pviselÅ‘-testÃ¼lete (tovÃ¡bbiakban: â€Ã¶nkormÃ¡nyzatâ€) Ã¡ltal a Strigonium SzÃ¡mviteli Ã©s GazdasÃ¡gi TanÃ¡csadÃ³ Zrt.-be (Cg.: [11 10 000349]; 2500 Esztergom, DeÃ¡k Ferenc u. 4.; tovÃ¡bbiakban: â€Strigonium Zrt.â€) nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s (apport) formÃ¡jÃ¡ban vÃ©grehajtandÃ³ tÅ‘keemelÃ©s kÃ¶nyvvizsgÃ¡latÃ¡t. Az Ã¶nkormÃ¡nyzat Ãºgy dÃ¶ntÃ¶tt, hogy a Strigonium Zrt.-be Â­ melynek 99,3%-os tulajdonÃ¡t birtokolja 1217 db, egyenkÃ©nt 150 000 Ft nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©ny formÃ¡jÃ¡ban Â­ tÅ‘keemelÃ©st hajt vÃ©gre rÃ©szben pÃ©nzbeli, rÃ©szben nem pÃ©nzbeli (apport) hozzÃ¡jÃ¡rulÃ¡skÃ©nt. A nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s (apport) jegyzÃ©k Ã¶sszeÃ¡llÃ­tÃ¡sa az Ã¶nkormÃ¡nyzat felelÅ‘ssÃ©ge volt. A mi felelÅ‘ssÃ©gÃ¼nk a nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s (apport) Ã©rtÃ©kelÃ©sÃ©nek vÃ©lemÃ©nyezÃ©se kÃ¶nyvvizsgÃ¡latunk alapjÃ¡n.<ujsor/>
+A kÃ¶nyvvizsgÃ¡latot a magyar nemzeti kÃ¶nyvvizsgÃ¡lati standardok (800 standard) Ã©s a MagyarorszÃ¡gon a kÃ¶nyvvizsgÃ¡latra vonatkozÃ³ Ã©rvÃ©nyes tÃ¶rvÃ©nyek Ã©s egyÃ©b jogszabÃ¡lyok alapjÃ¡n hajtottuk vÃ©gre. A fenti szabÃ¡lyok Ã©rtelmÃ©ben a kÃ¶nyvvizsgÃ¡lat tervezÃ©se Ã©s elvÃ©gzÃ©se rÃ©vÃ©n kellÅ‘ bizonyossÃ¡got kell szereznÃ¼nk arrÃ³l, hogy a nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡snak (apport) az alapÃ­tÃ³k Ã¡ltal elÅ‘zetesen megÃ¡llapÃ­tott Ã©rtÃ©ke egyensÃºlyban van-e az ellenÃ©ben adandÃ³ rÃ©szvÃ©nyek szÃ¡mÃ¡val, nÃ©vÃ©rtÃ©kÃ©vel.<ujsor/>
+A kÃ¶nyvvizsgÃ¡lat sorÃ¡n a nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡skÃ©nt (apport) a Strigonium Zrt. rendelkezÃ©sÃ©re bocsÃ¡tandÃ³ ingatlanok Ã©rtÃ©kelÃ©sÃ©t az alÃ¡bbi szempontok alapjÃ¡n vÃ©lemÃ©nyezzÃ¼k:<ujsor/>
+Az ingatlanok tulajdonjogÃ¡t az Ã¶nkormÃ¡nyzat a kÃ¶nyvvizsgÃ¡lat befejezÃ©sÃ©nek napjÃ¡ra vonatkozÃ³ hiteles tulajdoni lap mÃ¡solatÃ¡nak rendelkezÃ©sre bocsÃ¡tÃ¡sÃ¡val bizonyÃ­totta. A tulajdoni lap mÃ¡solatok tanÃºsÃ¡ga szerint, a nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡skÃ©nt (apport) szolgÃ¡ltatandÃ³ ingatlanok tehermentesek, az Ã¶nkormÃ¡nyzat jogos tulajdonÃ¡ban Ã¡llnak Ã©s forgalomkÃ©pesek.<ujsor/>
+Az ingatlanok nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡skÃ©nt (apport) valÃ³ szolgÃ¡ltatÃ¡sÃ¡rÃ³l az Ã¶nkormÃ¡nyzat hatÃ¡rozatot hozott.<ujsor/>
+A kÃ¶nyvvizsgÃ¡lat sorÃ¡n megÃ¡llapÃ­tottuk, hogy az Ã¶nkormÃ¡nyzat a Strigonium Zrt.-be nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡skÃ©nt (apport) szolgÃ¡ltatandÃ³ vagyontÃ¡rgyak Ã©rtÃ©kÃ©t Ã¶sszessÃ©gÃ©ben 537 648 000 Ft-ban (Ã¶tszÃ¡zharminchÃ©tmilliÃ³-hatszÃ¡znegyvennyolcezer forintban) hatÃ¡rozta meg.<ujsor/>
+A Strigonium Zrt. tÅ‘keemelÃ©s elÅ‘tti jegyzett tÅ‘kÃ©je 183 900 db, egyenkÃ©nt 1000 Ft (egyezer forint) nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³, egyenlÅ‘ jogokat biztosÃ­tÃ³ tÃ¶rzsrÃ©szvÃ©nyekbÅ‘l Ã¡ll, melybÅ‘l az Ã¶nkormÃ¡nyzat 182 550 db rÃ©szvÃ©nyt birtokol.<ujsor/>
+Az Ã¶nkormÃ¡nyzat Ã¡ltal vÃ©grehajtandÃ³ tÅ‘keemelÃ©s 5000 Ft (Ã¶tezer forint) pÃ©nzbeli Ã©s 537 648 000 Ft (Ã¶tszÃ¡zharminchÃ©tmilliÃ³-hatszÃ¡znegyvennyolcezer forint) nem pÃ©nzbeli (apport) szolgÃ¡ltatÃ¡sbÃ³l tevÅ‘dik Ã¶ssze, a teljes tÅ‘keemelÃ©s 537 653 000 Ft (Ã¶tszÃ¡zharminchÃ©tmilliÃ³-hatszÃ¡zÃ¶tvenhÃ¡romezer forint).<ujsor/>
+A tÅ‘keemelÃ©s ellenÃ©ben a Strigonium Zrt. Ã¡ltal az Ã¶nkormÃ¡nyzatnak adandÃ³ rÃ©szvÃ©nyek szÃ¡ma 537 653 db (Ã¶tszÃ¡zharminchÃ©tezer-hatszÃ¡zÃ¶tvenhÃ¡rom darab), egyenkÃ©nt 1000 Ft (egyezer forint) nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³, egyenlÅ‘ jogokat biztosÃ­tÃ³ tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
 (537 653 000 Ft/1000 Ft/db = 537 653 db).<ujsor/>
-A tõkeemelést követõen a Strigonium Zrt. jegyzett tõkéje 721 553 db (hétszázhuszonegyezer-ötszázötvenhárom darab), egyenként 1000 Ft (egyezer forint) névértékû, névre szóló, egyenlõ jogokat biztosító törzsrészvény, melybõl az önkormányzat 720 203 db (hétszázhúszezer-kettõszázhárom darab) 1000 Ft (egyezer forint) névértékû, névre szóló, egyenlõ jogokat biztosító törzsrészvényt birtokol 720 203 000 Ft (hétszázhúszmillió-kettõszázháromezer forint) értékben. A kisebbségi tulajdonos birtokában lévõ részvények száma nem változik.<ujsor/>
-A könyvvizsgálat során az önkormányzat által elkészített nem pénzbeli hozzájárulás (apport) jegyzék szerinti vagyontárgyak tulajdonjogának, értékelésének jogszerûségét és bizonylati alátámasztását, tõkeemelésre való felhasználásának korlátjait az érvényes magyar nemzeti könyvvizsgálati standardok (800 standard) szerint felülvizsgáltuk és ennek alapján elegendõ és megfelelõ bizonyosságot szereztünk arról, hogy az önkormányzat által a Strigonium Zrt. tõkeemeléséhez szolgáltatott nem pénzbeli hozzájárulás minden korlátozástól mentes. Az önkormányzat által a Strigonium Zrt. tõkeemeléséhez szolgáltatott nem pénzbeli hozzájárulás megállapított értéke egyensúlyban van az ellenében adandó részvények számával, névértékével.<ujsor/>
-Oláh Sándor<ujsor/>
-bejegyzett könyvvizsgáló<ujsor/>
+A tÅ‘keemelÃ©st kÃ¶vetÅ‘en a Strigonium Zrt. jegyzett tÅ‘kÃ©je 721 553 db (hÃ©tszÃ¡zhuszonegyezer-Ã¶tszÃ¡zÃ¶tvenhÃ¡rom darab), egyenkÃ©nt 1000 Ft (egyezer forint) nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³, egyenlÅ‘ jogokat biztosÃ­tÃ³ tÃ¶rzsrÃ©szvÃ©ny, melybÅ‘l az Ã¶nkormÃ¡nyzat 720 203 db (hÃ©tszÃ¡zhÃºszezer-kettÅ‘szÃ¡zhÃ¡rom darab) 1000 Ft (egyezer forint) nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³, egyenlÅ‘ jogokat biztosÃ­tÃ³ tÃ¶rzsrÃ©szvÃ©nyt birtokol 720 203 000 Ft (hÃ©tszÃ¡zhÃºszmilliÃ³-kettÅ‘szÃ¡zhÃ¡romezer forint) Ã©rtÃ©kben. A kisebbsÃ©gi tulajdonos birtokÃ¡ban lÃ©vÅ‘ rÃ©szvÃ©nyek szÃ¡ma nem vÃ¡ltozik.<ujsor/>
+A kÃ¶nyvvizsgÃ¡lat sorÃ¡n az Ã¶nkormÃ¡nyzat Ã¡ltal elkÃ©szÃ­tett nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s (apport) jegyzÃ©k szerinti vagyontÃ¡rgyak tulajdonjogÃ¡nak, Ã©rtÃ©kelÃ©sÃ©nek jogszerÅ±sÃ©gÃ©t Ã©s bizonylati alÃ¡tÃ¡masztÃ¡sÃ¡t, tÅ‘keemelÃ©sre valÃ³ felhasznÃ¡lÃ¡sÃ¡nak korlÃ¡tjait az Ã©rvÃ©nyes magyar nemzeti kÃ¶nyvvizsgÃ¡lati standardok (800 standard) szerint felÃ¼lvizsgÃ¡ltuk Ã©s ennek alapjÃ¡n elegendÅ‘ Ã©s megfelelÅ‘ bizonyossÃ¡got szereztÃ¼nk arrÃ³l, hogy az Ã¶nkormÃ¡nyzat Ã¡ltal a Strigonium Zrt. tÅ‘keemelÃ©sÃ©hez szolgÃ¡ltatott nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s minden korlÃ¡tozÃ¡stÃ³l mentes. Az Ã¶nkormÃ¡nyzat Ã¡ltal a Strigonium Zrt. tÅ‘keemelÃ©sÃ©hez szolgÃ¡ltatott nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s megÃ¡llapÃ­tott Ã©rtÃ©ke egyensÃºlyban van az ellenÃ©ben adandÃ³ rÃ©szvÃ©nyek szÃ¡mÃ¡val, nÃ©vÃ©rtÃ©kÃ©vel.<ujsor/>
+OlÃ¡h SÃ¡ndor<ujsor/>
+bejegyzett kÃ¶nyvvizsgÃ¡lÃ³<ujsor/>
 MKVK reg. sz. 003065<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110000349</mezo>
-<mezo id = "nev">STRIGONIUM IDEGENFORGALMI BEFEKTETÕ Részvénytársaság</mezo>
+<mezo id = "nev">STRIGONIUM IDEGENFORGALMI BEFEKTETÅ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">2500 Esztergom</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Komárom-Esztergom Megyei Bíróság mint Cégbíróság által nyilvántartásba vett Strigonium Számviteli és Gazdasági Tanácsadó Zártkörûen Mûködõ Részvénytársaság (Cg.: [11 10 000349]; székhely: 2500 Esztergom, Deák Ferenc u. 4. sz.) a 2008. március 19-én megtartott közgyûlésén határozatot hozott a társaság alaptõkéjének megemelésérõl.<ujsor/>
-Az alaptõke emelés elõtti összege: 183 900 000 Ft.<ujsor/>
-Az alaptõke emelés utáni összege: 721 548 000 Ft.<ujsor/>
-A társaság által végrehajtandó alaptõke-emelés 537 648 000 Ft (ötszázharminchétmillió-hatszáznegyvennyolcezer forint) nem pénzbeli hozzájárulás (apport) szolgáltatásából történik, a teljes alaptõke-emelés 537 648 000 Ft (ötszázharminchétmillió-hatszáznegyvennyolcezer forint).<ujsor/>
-A nem pénzbeli hozzájárulásként (apport) szolgáltatandó ingatlanok és azok értéke:<ujsor/>
-Határozat száma Hrsz.: Ingatlan címe Apport értéke (Ft)<ujsor/>
-1. 409/2007. (VI. 14.) esztergomi öh. 16264/A/1.  Esztergom, Mindszenty tér 4. fszt. 1. 13 900 000 Ft<ujsor/>
-módosítva 610/2007. (VIII. 31.) esztergomi öh.<ujsor/>
-2. 409/2007. (VI. 14.) esztergomi öh. 16264/A/2.  Esztergom, Mindszenty tér 4. fszt. 2. 9 200 000 Ft<ujsor/>
-módosítva 610/2007. (VIII. 31.) esztergomi öh.<ujsor/>
-3. 409/2007. (VI. 14.) esztergomi öh. 16264/A/3.  Esztergom, Mindszenty tér 4. fszt. 3. 7 400 000 Ft<ujsor/>
-módosítva 610/2007. (VIII. 31.) esztergomi öh.<ujsor/>
-4. 409/2007. (VI. 14.) esztergomi öh. 16264/A/5.  Esztergom, Mindszenty térI. 2. 15 200 000 Ft<ujsor/>
-módosítva 610/2007. (VIII. 31.) esztergomi öh.<ujsor/>
-5. 409/2007. (VI. 14.) esztergomi öh. 16264/A/7.  Esztergom, Mindszenty tér 4. fszt. 1. 4 500 000 Ft<ujsor/>
-módosítva 610/2007. (VIII. 31.) esztergomi öh.<ujsor/>
-6. 84/2007. (III. 8.) esztergomi öh. 17358.  Esztergom, Bottyán János u. 5. 64 400 000 Ft<ujsor/>
-7. 86/2007. (III. 8.) esztergomi öh. 17352.  Esztergom, Széchenyi tér 25. 56 600 000 Ft<ujsor/>
-8. 400/2007. (VI. 14.) esztergomi öh. 18174/2.  Esztergom belterület telephely 24 738 m2 128 670 600 Ft<ujsor/>
-módosítva 528/2007. (VIII. 9.) esztergomi öh.<ujsor/>
-9. 403/2007. (VI. 14.) esztergomi öh. 18197/2.  Esztergom belterület beépítetlen terület 87 614 400 Ft<ujsor/>
-módosítva 18 253 m2<ujsor/>
-528/2007. (VIII. 9.) esztergomi öh.<ujsor/>
-10. 403/2007. (VI. 14.) esztergomi öh. 18201/2.  Esztergom, Dobogókõ út 31., 57 096 000 Ft<ujsor/>
-módosítva belterületi beépítetlen terület 11 895 m2<ujsor/>
-528/2007. (VIII. 9.) esztergomi öh.<ujsor/>
-11. 409/2007. (VI. 14.) esztergomi öh. 19781/A/1.  Esztergom Bajcsy-Zs. u. 24. fszt. 1. 5 100 000 Ft<ujsor/>
-módosítva 610/2007. (VIII. 31.) esztergomi öh.<ujsor/>
-12. 409/2007. (VI. 14.) esztergomi öh. 19781/A/2.  Esztergom Bajcsy-Zs. u. 24. fszt. 2. 5 300 000 Ft<ujsor/>
-módosítva 610/2007. (VIII. 31.) esztergomi öh.<ujsor/>
-13. 409/2007. (VI. 14.) esztergomi öh. 19781/A/3.  Esztergom Bajcsy-Zs. u. 24. fszt. 3. 9 800 000 Ft<ujsor/>
-módosítva 610/2007. (VIII. 31.) esztergomi öh.<ujsor/>
-14. 409/2007. (VI. 14.) esztergomi öh. 19781/A/4.  Esztergom Bajcsy-Zs. u. 24. fszt. 4. 9 900 000 Ft<ujsor/>
-módosítva 610/2007. (VIII. 31.) esztergomi öh.<ujsor/>
-15. 409/2007. (VI. 14.) esztergomi öh. 19781/A/6.  Esztergom Bajcsy-Zs. u. 24. I. 2. 6 300 000 Ft<ujsor/>
-módosítva 610/2007. (VIII. 31.) esztergomi öh.<ujsor/>
-16. 409/2007. (VI. 14.) esztergomi öh. 19781/A/7.  Esztergom Bajcsy-Zs. u. 24. I. 3. 11 400 000 Ft<ujsor/>
-módosítva 610/2007. (VIII. 31.) esztergomi öh.<ujsor/>
-17. 409/2007. (VI. 14.) esztergomi öh. 19782/A/1.  Esztergom Bajcsy-Zs. u. 22. fszt. 1. 5 200 000 Ft<ujsor/>
-módosítva 610/2007. (VIII. 31.) esztergomi öh.<ujsor/>
-18. 409/2007. (VI. 14.) esztergomi öh. 19782/A/4.  Esztergom Bajcsy-Zs. u. 22. fszt. 4. 10 300 000 Ft<ujsor/>
-módosítva 610/2007. (VIII. 31.) esztergomi öh.<ujsor/>
-19. 409/2007. (VI. 14.) esztergomi öh. 19782/A/2.  Esztergom Bajcsy-Zs. u. 20. fszt. 3. 4 700 000 Ft<ujsor/>
-módosítva 610/2007. (VIII. 31.) esztergomi öh.<ujsor/>
-20. 409/2007. (VI. 14.) esztergomi öh. 19782/A/3.  Esztergom Bajcsy-Zs. u. 20. fszt. 4. 5 300 000 Ft<ujsor/>
-módosítva 610/2007. (VIII. 31.) esztergomi öh.<ujsor/>
-21. 409/2007. (VI. 14.) esztergomi öh. 19782/A/4.  Esztergom Bajcsy-Zs. u. 20. fszt. 5. 7 300 000 Ft<ujsor/>
-módosítva 610/2007. (VIII. 31.) esztergomi öh.<ujsor/>
-22. 409/2007. (VI. 14.) esztergomi öh. 19784/A/5.  Esztergom Bajcsy-Zs. u. 20. fszt. 6. 4 500 000 Ft<ujsor/>
-módosítva 610/2007. (VIII. 31.) esztergomi öh.<ujsor/>
-23. 409/2007. (VI. 14.) esztergomi öh. 19782/A/6.  Esztergom Bajcsy-Zs. u. 22. fszt. 7. 8 000 000 Ft<ujsor/>
-módosítva 610/2007. (VIII. 31.) esztergomi öh.<ujsor/>
-A hozzájárulást nyújtó részvényes neve, székhelye: Esztergom Város Önkormányzata (2500 Esztergom, Széchenyi tér 1.).<ujsor/>
-Az elõzetes értékelést végzõ könyvvizsgáló neve, székhelye: Fullmix Kft. (1031 Budapest, Tóga u. 5. III. 9.) Oláh Sándor bejegyzett könyvvizsgáló.<ujsor/>
-Az apport szolgáltatásának idõpontja: a közgyûlési határozat meghozatalától számított 15 napon belül.<ujsor/>
-A fentiek alapján megállapítható, hogy az önkormányzat a Strigonium Zrt.-be nem pénzbeli hozzájárulásként (apport) szolgáltató vagyontárgyak értékét összesen 537 648 000 Ft (ötszázharminchétmillió-hatszáznegyvennyolcezer forint) összegben határozta meg.<ujsor/>
-A nem pénzbeli hozzájárulás ellenében adandó részvények száma és egyéb jellemzõi: a tõkeemelés ellenében a Strigonium Zrt. által az önkormányzatnak adandó részvények száma 537 648 db [ötszázharminchétezer-hatszáznegyvennyolc darab, egyenként 1000 Ft (egyezer forint) névértékû, névre szóló, egyenlõ jogokat biztosító törzsrészvény (537 648 000 Ft/1000 Ft/db = 537 648 db].<ujsor/>
-A társaság alaptõkéjét új részvények forgalomba hozatalával, zárt körben, dematerializált formában elõállított 537 648 darab, egyenként 1000 Ft névértékû egyenlõ jogokat biztosító törzsrészvénnyel, összesen 537 648 000 Ft-tal (ötszázharminchétmillió-hatszáznegyvennyolcezer forinttal) ­ amely összeg egyben a jegyzési minimum, túljegyzést nem fogad el ­ emeli meg. A részvények kibocsátási értéke azonos azok névértékével.<ujsor/>
-A közgyûlés a társaság részvényesét, Esztergom Város Önkormányzatát jogosítja fel arra, hogy a részvények átvételére vonatkozó szándéknyilatkozatot tegyen. A részvényes az elõterjesztésben meghatározottak szerint 537 648 db törzsrészvénynek a részvény névértékén történõ átvételére jogosult. A közgyûlés egyidejûleg felhívja a kijelölt személyt, hogy 15 napon belül tegye meg nyilatkozatát, hogy a részvényeket át kívánja-e venni.<ujsor/>
+<mezo id = "szoveg">A KomÃ¡rom-Esztergom Megyei BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g Ã¡ltal nyilvÃ¡ntartÃ¡sba vett Strigonium SzÃ¡mviteli Ã©s GazdasÃ¡gi TanÃ¡csadÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [11 10 000349]; szÃ©khely: 2500 Esztergom, DeÃ¡k Ferenc u. 4. sz.) a 2008. mÃ¡rcius 19-Ã©n megtartott kÃ¶zgyÅ±lÃ©sÃ©n hatÃ¡rozatot hozott a tÃ¡rsasÃ¡g alaptÅ‘kÃ©jÃ©nek megemelÃ©sÃ©rÅ‘l.<ujsor/>
+Az alaptÅ‘ke emelÃ©s elÅ‘tti Ã¶sszege: 183 900 000 Ft.<ujsor/>
+Az alaptÅ‘ke emelÃ©s utÃ¡ni Ã¶sszege: 721 548 000 Ft.<ujsor/>
+A tÃ¡rsasÃ¡g Ã¡ltal vÃ©grehajtandÃ³ alaptÅ‘ke-emelÃ©s 537 648 000 Ft (Ã¶tszÃ¡zharminchÃ©tmilliÃ³-hatszÃ¡znegyvennyolcezer forint) nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s (apport) szolgÃ¡ltatÃ¡sÃ¡bÃ³l tÃ¶rtÃ©nik, a teljes alaptÅ‘ke-emelÃ©s 537 648 000 Ft (Ã¶tszÃ¡zharminchÃ©tmilliÃ³-hatszÃ¡znegyvennyolcezer forint).<ujsor/>
+A nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡skÃ©nt (apport) szolgÃ¡ltatandÃ³ ingatlanok Ã©s azok Ã©rtÃ©ke:<ujsor/>
+HatÃ¡rozat szÃ¡ma Hrsz.: Ingatlan cÃ­me Apport Ã©rtÃ©ke (Ft)<ujsor/>
+1. 409/2007. (VI. 14.) esztergomi Ã¶h. 16264/A/1.  Esztergom, Mindszenty tÃ©r 4. fszt. 1. 13 900 000 Ft<ujsor/>
+mÃ³dosÃ­tva 610/2007. (VIII. 31.) esztergomi Ã¶h.<ujsor/>
+2. 409/2007. (VI. 14.) esztergomi Ã¶h. 16264/A/2.  Esztergom, Mindszenty tÃ©r 4. fszt. 2. 9 200 000 Ft<ujsor/>
+mÃ³dosÃ­tva 610/2007. (VIII. 31.) esztergomi Ã¶h.<ujsor/>
+3. 409/2007. (VI. 14.) esztergomi Ã¶h. 16264/A/3.  Esztergom, Mindszenty tÃ©r 4. fszt. 3. 7 400 000 Ft<ujsor/>
+mÃ³dosÃ­tva 610/2007. (VIII. 31.) esztergomi Ã¶h.<ujsor/>
+4. 409/2007. (VI. 14.) esztergomi Ã¶h. 16264/A/5.  Esztergom, Mindszenty tÃ©rI. 2. 15 200 000 Ft<ujsor/>
+mÃ³dosÃ­tva 610/2007. (VIII. 31.) esztergomi Ã¶h.<ujsor/>
+5. 409/2007. (VI. 14.) esztergomi Ã¶h. 16264/A/7.  Esztergom, Mindszenty tÃ©r 4. fszt. 1. 4 500 000 Ft<ujsor/>
+mÃ³dosÃ­tva 610/2007. (VIII. 31.) esztergomi Ã¶h.<ujsor/>
+6. 84/2007. (III. 8.) esztergomi Ã¶h. 17358.  Esztergom, BottyÃ¡n JÃ¡nos u. 5. 64 400 000 Ft<ujsor/>
+7. 86/2007. (III. 8.) esztergomi Ã¶h. 17352.  Esztergom, SzÃ©chenyi tÃ©r 25. 56 600 000 Ft<ujsor/>
+8. 400/2007. (VI. 14.) esztergomi Ã¶h. 18174/2.  Esztergom belterÃ¼let telephely 24 738 m2 128 670 600 Ft<ujsor/>
+mÃ³dosÃ­tva 528/2007. (VIII. 9.) esztergomi Ã¶h.<ujsor/>
+9. 403/2007. (VI. 14.) esztergomi Ã¶h. 18197/2.  Esztergom belterÃ¼let beÃ©pÃ­tetlen terÃ¼let 87 614 400 Ft<ujsor/>
+mÃ³dosÃ­tva 18 253 m2<ujsor/>
+528/2007. (VIII. 9.) esztergomi Ã¶h.<ujsor/>
+10. 403/2007. (VI. 14.) esztergomi Ã¶h. 18201/2.  Esztergom, DobogÃ³kÅ‘ Ãºt 31., 57 096 000 Ft<ujsor/>
+mÃ³dosÃ­tva belterÃ¼leti beÃ©pÃ­tetlen terÃ¼let 11 895 m2<ujsor/>
+528/2007. (VIII. 9.) esztergomi Ã¶h.<ujsor/>
+11. 409/2007. (VI. 14.) esztergomi Ã¶h. 19781/A/1.  Esztergom Bajcsy-Zs. u. 24. fszt. 1. 5 100 000 Ft<ujsor/>
+mÃ³dosÃ­tva 610/2007. (VIII. 31.) esztergomi Ã¶h.<ujsor/>
+12. 409/2007. (VI. 14.) esztergomi Ã¶h. 19781/A/2.  Esztergom Bajcsy-Zs. u. 24. fszt. 2. 5 300 000 Ft<ujsor/>
+mÃ³dosÃ­tva 610/2007. (VIII. 31.) esztergomi Ã¶h.<ujsor/>
+13. 409/2007. (VI. 14.) esztergomi Ã¶h. 19781/A/3.  Esztergom Bajcsy-Zs. u. 24. fszt. 3. 9 800 000 Ft<ujsor/>
+mÃ³dosÃ­tva 610/2007. (VIII. 31.) esztergomi Ã¶h.<ujsor/>
+14. 409/2007. (VI. 14.) esztergomi Ã¶h. 19781/A/4.  Esztergom Bajcsy-Zs. u. 24. fszt. 4. 9 900 000 Ft<ujsor/>
+mÃ³dosÃ­tva 610/2007. (VIII. 31.) esztergomi Ã¶h.<ujsor/>
+15. 409/2007. (VI. 14.) esztergomi Ã¶h. 19781/A/6.  Esztergom Bajcsy-Zs. u. 24. I. 2. 6 300 000 Ft<ujsor/>
+mÃ³dosÃ­tva 610/2007. (VIII. 31.) esztergomi Ã¶h.<ujsor/>
+16. 409/2007. (VI. 14.) esztergomi Ã¶h. 19781/A/7.  Esztergom Bajcsy-Zs. u. 24. I. 3. 11 400 000 Ft<ujsor/>
+mÃ³dosÃ­tva 610/2007. (VIII. 31.) esztergomi Ã¶h.<ujsor/>
+17. 409/2007. (VI. 14.) esztergomi Ã¶h. 19782/A/1.  Esztergom Bajcsy-Zs. u. 22. fszt. 1. 5 200 000 Ft<ujsor/>
+mÃ³dosÃ­tva 610/2007. (VIII. 31.) esztergomi Ã¶h.<ujsor/>
+18. 409/2007. (VI. 14.) esztergomi Ã¶h. 19782/A/4.  Esztergom Bajcsy-Zs. u. 22. fszt. 4. 10 300 000 Ft<ujsor/>
+mÃ³dosÃ­tva 610/2007. (VIII. 31.) esztergomi Ã¶h.<ujsor/>
+19. 409/2007. (VI. 14.) esztergomi Ã¶h. 19782/A/2.  Esztergom Bajcsy-Zs. u. 20. fszt. 3. 4 700 000 Ft<ujsor/>
+mÃ³dosÃ­tva 610/2007. (VIII. 31.) esztergomi Ã¶h.<ujsor/>
+20. 409/2007. (VI. 14.) esztergomi Ã¶h. 19782/A/3.  Esztergom Bajcsy-Zs. u. 20. fszt. 4. 5 300 000 Ft<ujsor/>
+mÃ³dosÃ­tva 610/2007. (VIII. 31.) esztergomi Ã¶h.<ujsor/>
+21. 409/2007. (VI. 14.) esztergomi Ã¶h. 19782/A/4.  Esztergom Bajcsy-Zs. u. 20. fszt. 5. 7 300 000 Ft<ujsor/>
+mÃ³dosÃ­tva 610/2007. (VIII. 31.) esztergomi Ã¶h.<ujsor/>
+22. 409/2007. (VI. 14.) esztergomi Ã¶h. 19784/A/5.  Esztergom Bajcsy-Zs. u. 20. fszt. 6. 4 500 000 Ft<ujsor/>
+mÃ³dosÃ­tva 610/2007. (VIII. 31.) esztergomi Ã¶h.<ujsor/>
+23. 409/2007. (VI. 14.) esztergomi Ã¶h. 19782/A/6.  Esztergom Bajcsy-Zs. u. 22. fszt. 7. 8 000 000 Ft<ujsor/>
+mÃ³dosÃ­tva 610/2007. (VIII. 31.) esztergomi Ã¶h.<ujsor/>
+A hozzÃ¡jÃ¡rulÃ¡st nyÃºjtÃ³ rÃ©szvÃ©nyes neve, szÃ©khelye: Esztergom VÃ¡ros Ã–nkormÃ¡nyzata (2500 Esztergom, SzÃ©chenyi tÃ©r 1.).<ujsor/>
+Az elÅ‘zetes Ã©rtÃ©kelÃ©st vÃ©gzÅ‘ kÃ¶nyvvizsgÃ¡lÃ³ neve, szÃ©khelye: Fullmix Kft. (1031 Budapest, TÃ³ga u. 5. III. 9.) OlÃ¡h SÃ¡ndor bejegyzett kÃ¶nyvvizsgÃ¡lÃ³.<ujsor/>
+Az apport szolgÃ¡ltatÃ¡sÃ¡nak idÅ‘pontja: a kÃ¶zgyÅ±lÃ©si hatÃ¡rozat meghozatalÃ¡tÃ³l szÃ¡mÃ­tott 15 napon belÃ¼l.<ujsor/>
+A fentiek alapjÃ¡n megÃ¡llapÃ­thatÃ³, hogy az Ã¶nkormÃ¡nyzat a Strigonium Zrt.-be nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡skÃ©nt (apport) szolgÃ¡ltatÃ³ vagyontÃ¡rgyak Ã©rtÃ©kÃ©t Ã¶sszesen 537 648 000 Ft (Ã¶tszÃ¡zharminchÃ©tmilliÃ³-hatszÃ¡znegyvennyolcezer forint) Ã¶sszegben hatÃ¡rozta meg.<ujsor/>
+A nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s ellenÃ©ben adandÃ³ rÃ©szvÃ©nyek szÃ¡ma Ã©s egyÃ©b jellemzÅ‘i: a tÅ‘keemelÃ©s ellenÃ©ben a Strigonium Zrt. Ã¡ltal az Ã¶nkormÃ¡nyzatnak adandÃ³ rÃ©szvÃ©nyek szÃ¡ma 537 648 db [Ã¶tszÃ¡zharminchÃ©tezer-hatszÃ¡znegyvennyolc darab, egyenkÃ©nt 1000 Ft (egyezer forint) nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³, egyenlÅ‘ jogokat biztosÃ­tÃ³ tÃ¶rzsrÃ©szvÃ©ny (537 648 000 Ft/1000 Ft/db = 537 648 db].<ujsor/>
+A tÃ¡rsasÃ¡g alaptÅ‘kÃ©jÃ©t Ãºj rÃ©szvÃ©nyek forgalomba hozatalÃ¡val, zÃ¡rt kÃ¶rben, dematerializÃ¡lt formÃ¡ban elÅ‘Ã¡llÃ­tott 537 648 darab, egyenkÃ©nt 1000 Ft nÃ©vÃ©rtÃ©kÅ± egyenlÅ‘ jogokat biztosÃ­tÃ³ tÃ¶rzsrÃ©szvÃ©nnyel, Ã¶sszesen 537 648 000 Ft-tal (Ã¶tszÃ¡zharminchÃ©tmilliÃ³-hatszÃ¡znegyvennyolcezer forinttal) Â­ amely Ã¶sszeg egyben a jegyzÃ©si minimum, tÃºljegyzÃ©st nem fogad el Â­ emeli meg. A rÃ©szvÃ©nyek kibocsÃ¡tÃ¡si Ã©rtÃ©ke azonos azok nÃ©vÃ©rtÃ©kÃ©vel.<ujsor/>
+A kÃ¶zgyÅ±lÃ©s a tÃ¡rsasÃ¡g rÃ©szvÃ©nyesÃ©t, Esztergom VÃ¡ros Ã–nkormÃ¡nyzatÃ¡t jogosÃ­tja fel arra, hogy a rÃ©szvÃ©nyek Ã¡tvÃ©telÃ©re vonatkozÃ³ szÃ¡ndÃ©knyilatkozatot tegyen. A rÃ©szvÃ©nyes az elÅ‘terjesztÃ©sben meghatÃ¡rozottak szerint 537 648 db tÃ¶rzsrÃ©szvÃ©nynek a rÃ©szvÃ©ny nÃ©vÃ©rtÃ©kÃ©n tÃ¶rtÃ©nÅ‘ Ã¡tvÃ©telÃ©re jogosult. A kÃ¶zgyÅ±lÃ©s egyidejÅ±leg felhÃ­vja a kijelÃ¶lt szemÃ©lyt, hogy 15 napon belÃ¼l tegye meg nyilatkozatÃ¡t, hogy a rÃ©szvÃ©nyeket Ã¡t kÃ­vÃ¡nja-e venni.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110000349</mezo>
-<mezo id = "nev">STRIGONIUM IDEGENFORGALMI BEFEKTETÕ Részvénytársaság</mezo>
+<mezo id = "nev">STRIGONIUM IDEGENFORGALMI BEFEKTETÅ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">2500 Esztergom</mezo>
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2008. 05. 08-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-10(10). Részvényfajta: törzsrészvény.<ujsor/>
- Egyszáznyolcvanhárommilliárd kilencszázmillió darab egyezer Ft.<ujsor/>
- A változás idõpontja: 2008. 02. 06.<ujsor/>
- A változás idõpontja (törlés): 2008. 02. 06.<ujsor/>
- Törölve: 2008. 02. 06.<ujsor/>
- Részvényfajta: törzsrészvény.<ujsor/>
- Egyszáznyolcvanháromezer-kilencszáz darab egyezer Ft.<ujsor/>
- A változás idõpontja: 2008. 02. 06.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2008. 05. 08-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+10(10). RÃ©szvÃ©nyfajta: tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+ EgyszÃ¡znyolcvanhÃ¡rommilliÃ¡rd kilencszÃ¡zmilliÃ³ darab egyezer Ft.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 02. 06.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2008. 02. 06.<ujsor/>
+ TÃ¶rÃ¶lve: 2008. 02. 06.<ujsor/>
+ RÃ©szvÃ©nyfajta: tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+ EgyszÃ¡znyolcvanhÃ¡romezer-kilencszÃ¡z darab egyezer Ft.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 02. 06.<ujsor/>
  Bejegyezve: 2008. 02. 06.<ujsor/>
 2008. 05. 20.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110000349</mezo>
-<mezo id = "nev">Strigonium Számviteli és Gazdasági Tanácsadó Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">2500 Esztergom, Deák Ferenc utca 4.</mezo>
+<mezo id = "nev">Strigonium SzÃ¡mviteli Ã©s GazdasÃ¡gi TanÃ¡csadÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2500 Esztergom, DeÃ¡k Ferenc utca 4.</mezo>
 <mezo id = "adosz">10266562211</mezo>
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Strigonium Számviteli és Gazdasági Tanácsadó Zártkörûen Mûködõ Részvénytársaság (Cg.: [11 10 000349]; székhelye: 2500 Esztergom, Deák Ferenc u. 4.; képviseli: Balogh Zoltán, az igazgatóság elnöke) a Gt. 256. § (2) bekezdése alapján közzéteszi, hogy a Komárom-Esztergom Megyei Bíróság mint Cégbíróság által nyilvántartásba vett társaság, a 2008. május 19-én megtartott közgyûlésén határozatot hozott a társaság alaptõkéjének megemelésérõl 721 548 000 Ft-ról 734 548 000 Ft-ra, dematerializált úton elõállított, új részvények zártkörû forgalomba hozatalával, 13 000 000 Ft (tizenhárommillió forint) összeggel, amely összeg egyben a jegyzési minimum, túljegyzést nem fogad el. A részvények kibocsátási értéke azonos azok névértékével.<ujsor/>
-A társaság alaptõkéjét új részvények forgalomba hozatalával, zárt körben, dematerializált formában elõállított 13 000 darab, egyenként 1000 Ft névértékû, egyenlõ jogokat biztosító törzsrészvénnyel, összesen 13 000 000 Ft (tizenhárommillió forinttal) ­ amely összeg egyben a jegyzési minimum, túljegyzést nem fogad el ­ emeli meg.<ujsor/>
-A részvények kibocsátási értéke azonos azok névértékével.<ujsor/>
-A közgyûlés a társaság részvényesét, Esztergom Város Önkormányzatát jogosítja fel arra, hogy a részvények átvételére vonatkozó szándéknyilatkozatot tegyen. A részvényes az elõterjesztésben meghatározottak szerint 13 000 db törzsrészvénynek, a részvény névértékén történõ átvételére jogosult. A közgyûlés egyidejûleg felhívja a kijelölt személyt, hogy húsz napon belül tegye meg nyilatkozatát, hogy a részvényeket át kívánja-e venni.<ujsor/>
+<mezo id = "szoveg">A Strigonium SzÃ¡mviteli Ã©s GazdasÃ¡gi TanÃ¡csadÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [11 10 000349]; szÃ©khelye: 2500 Esztergom, DeÃ¡k Ferenc u. 4.; kÃ©pviseli: Balogh ZoltÃ¡n, az igazgatÃ³sÃ¡g elnÃ¶ke) a Gt. 256. Â§ (2) bekezdÃ©se alapjÃ¡n kÃ¶zzÃ©teszi, hogy a KomÃ¡rom-Esztergom Megyei BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g Ã¡ltal nyilvÃ¡ntartÃ¡sba vett tÃ¡rsasÃ¡g, a 2008. mÃ¡jus 19-Ã©n megtartott kÃ¶zgyÅ±lÃ©sÃ©n hatÃ¡rozatot hozott a tÃ¡rsasÃ¡g alaptÅ‘kÃ©jÃ©nek megemelÃ©sÃ©rÅ‘l 721 548 000 Ft-rÃ³l 734 548 000 Ft-ra, dematerializÃ¡lt Ãºton elÅ‘Ã¡llÃ­tott, Ãºj rÃ©szvÃ©nyek zÃ¡rtkÃ¶rÅ± forgalomba hozatalÃ¡val, 13 000 000 Ft (tizenhÃ¡rommilliÃ³ forint) Ã¶sszeggel, amely Ã¶sszeg egyben a jegyzÃ©si minimum, tÃºljegyzÃ©st nem fogad el. A rÃ©szvÃ©nyek kibocsÃ¡tÃ¡si Ã©rtÃ©ke azonos azok nÃ©vÃ©rtÃ©kÃ©vel.<ujsor/>
+A tÃ¡rsasÃ¡g alaptÅ‘kÃ©jÃ©t Ãºj rÃ©szvÃ©nyek forgalomba hozatalÃ¡val, zÃ¡rt kÃ¶rben, dematerializÃ¡lt formÃ¡ban elÅ‘Ã¡llÃ­tott 13 000 darab, egyenkÃ©nt 1000 Ft nÃ©vÃ©rtÃ©kÅ±, egyenlÅ‘ jogokat biztosÃ­tÃ³ tÃ¶rzsrÃ©szvÃ©nnyel, Ã¶sszesen 13 000 000 Ft (tizenhÃ¡rommilliÃ³ forinttal) Â­ amely Ã¶sszeg egyben a jegyzÃ©si minimum, tÃºljegyzÃ©st nem fogad el Â­ emeli meg.<ujsor/>
+A rÃ©szvÃ©nyek kibocsÃ¡tÃ¡si Ã©rtÃ©ke azonos azok nÃ©vÃ©rtÃ©kÃ©vel.<ujsor/>
+A kÃ¶zgyÅ±lÃ©s a tÃ¡rsasÃ¡g rÃ©szvÃ©nyesÃ©t, Esztergom VÃ¡ros Ã–nkormÃ¡nyzatÃ¡t jogosÃ­tja fel arra, hogy a rÃ©szvÃ©nyek Ã¡tvÃ©telÃ©re vonatkozÃ³ szÃ¡ndÃ©knyilatkozatot tegyen. A rÃ©szvÃ©nyes az elÅ‘terjesztÃ©sben meghatÃ¡rozottak szerint 13 000 db tÃ¶rzsrÃ©szvÃ©nynek, a rÃ©szvÃ©ny nÃ©vÃ©rtÃ©kÃ©n tÃ¶rtÃ©nÅ‘ Ã¡tvÃ©telÃ©re jogosult. A kÃ¶zgyÅ±lÃ©s egyidejÅ±leg felhÃ­vja a kijelÃ¶lt szemÃ©lyt, hogy hÃºsz napon belÃ¼l tegye meg nyilatkozatÃ¡t, hogy a rÃ©szvÃ©nyeket Ã¡t kÃ­vÃ¡nja-e venni.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110000349</mezo>
-<mezo id = "nev">STRIGONIUM IDEGENFORGALMI BEFEKTETÕ Részvénytársaság</mezo>
+<mezo id = "nev">STRIGONIUM IDEGENFORGALMI BEFEKTETÅ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">2500 Esztergom</mezo>
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Komárom-Esztergom Megyei Bíróság mint Cégbíróság által nyilvántartásba vett, 2500 Esztergom, Deák Ferenc u. 4. szám alatti székhelyû Strigonium Számviteli és Gazdasági Tanácsadó Zártkörûen Mûködõ Részvénytársaság (Cg.: [11 10 000349]) a 2008. július 18-án megtartott közgyûlésén határozatot hozott a társaság alaptõkéjének felemelésérõl.<ujsor/>
-Az alaptõke-emelés elõtti alaptõke összege: 734 548 000 Ft.<ujsor/>
-Az alaptõke-emelés utáni alaptõke összege: 784 563 000 Ft.<ujsor/>
-A társaság által végrehajtandó alaptõke-emelés 50 015 000 Ft (ötvenmillió-tizenötezer forint) nem pénzbeli hozzájárulás (apport) szolgáltatásával történik.<ujsor/>
-A nem pénzbeli hozzájárulásként (apport) szolgáltatandó részesedés (üzletrész) leírása:<ujsor/>
-Cég neve, székhelye, üzletrész mértéke Apport értéke (Ft)<ujsor/>
-Esztergom Port Kikötõ Üzemeltetõ Korlátolt Felelõsségû Társaság 42 330 000<ujsor/>
-(Cg.: 11 09 011172; 2500 Esztergom, Deák F. u. 4.) 51%-os üzletrész<ujsor/>
+<mezo id = "szoveg">A KomÃ¡rom-Esztergom Megyei BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g Ã¡ltal nyilvÃ¡ntartÃ¡sba vett, 2500 Esztergom, DeÃ¡k Ferenc u. 4. szÃ¡m alatti szÃ©khelyÅ± Strigonium SzÃ¡mviteli Ã©s GazdasÃ¡gi TanÃ¡csadÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [11 10 000349]) a 2008. jÃºlius 18-Ã¡n megtartott kÃ¶zgyÅ±lÃ©sÃ©n hatÃ¡rozatot hozott a tÃ¡rsasÃ¡g alaptÅ‘kÃ©jÃ©nek felemelÃ©sÃ©rÅ‘l.<ujsor/>
+Az alaptÅ‘ke-emelÃ©s elÅ‘tti alaptÅ‘ke Ã¶sszege: 734 548 000 Ft.<ujsor/>
+Az alaptÅ‘ke-emelÃ©s utÃ¡ni alaptÅ‘ke Ã¶sszege: 784 563 000 Ft.<ujsor/>
+A tÃ¡rsasÃ¡g Ã¡ltal vÃ©grehajtandÃ³ alaptÅ‘ke-emelÃ©s 50 015 000 Ft (Ã¶tvenmilliÃ³-tizenÃ¶tezer forint) nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s (apport) szolgÃ¡ltatÃ¡sÃ¡val tÃ¶rtÃ©nik.<ujsor/>
+A nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡skÃ©nt (apport) szolgÃ¡ltatandÃ³ rÃ©szesedÃ©s (Ã¼zletrÃ©sz) leÃ­rÃ¡sa:<ujsor/>
+CÃ©g neve, szÃ©khelye, Ã¼zletrÃ©sz mÃ©rtÃ©ke Apport Ã©rtÃ©ke (Ft)<ujsor/>
+Esztergom Port KikÃ¶tÅ‘ ÃœzemeltetÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g 42 330 000<ujsor/>
+(Cg.: 11 09 011172; 2500 Esztergom, DeÃ¡k F. u. 4.) 51%-os Ã¼zletrÃ©sz<ujsor/>
 Esztergom S.R.L. (Kft.) 7 685 000<ujsor/>
-(J14/341/19.07.2005.; Vargya, Fõ út 205., Kovászna megye) 100%-os üzletrész<ujsor/>
-Összesen: 50 015 000<ujsor/>
-A hozzájárulást nyújtó részvényes neve, székhelye: Esztergom Város Önkormányzata (2500 Esztergom, Széchenyi tér 1.)<ujsor/>
-Az apport szolgáltatásának idõpontja:<ujsor/>
-A közgyûlési határozat meghozatalától számított 15 napon belül.<ujsor/>
-A fentiek alapján megállapítható, hogy az önkormányzat a Strigonium Zrt.-be nem pénzbeli hozzájárulásként (apport) szolgáltatandó vagyontárgyak értékét összesen 50 015 000 Ft (ötvenmillió-tizenötezer forint) összegben határozta meg.<ujsor/>
-A nem pénzbeli hozzájárulás ellenében adandó részvények száma és egyéb jellemzõi:<ujsor/>
-A tõkeemelés ellenében a Strigonium Zrt. által az önkormányzatnak adandó részvények száma 50 015 db (ötvenezer-tizenöt darab), egyenként 1000 Ft (egyezer forint) névértékû, névre szóló, egyenlõ jogokat biztosító törzsrészvény (50 015 000 Ft/1000 Ft/db = 50 015 db).<ujsor/>
-A társaság alaptõkéjét új részvények forgalomba hozatalával, zárt körben, dematerializált formában elõállított 50 015 darab, egyenként 1000 Ft névértékû, egyenlõ jogokat biztosító törzsrészvénnyel, összesen 50 015 000 Ft-tal (ötvenmillió-tizenötezer forinttal), amely összeg egyben a jegyzési minimum, túljegyzést nem fogad el ­ emeli meg. A részvények kibocsátási értéke azonos azok névértékével.<ujsor/>
-A közgyûlés a társaság részvényesét, Esztergom Város Önkormányzatát jogosítja fel arra, hogy a részvények átvételére vonatkozó szándéknyilatkozatot tegyen. A részvényes az elõterjesztésben meghatározottak szerint 50 015 db törzsrészvénynek a részvény névértékén történõ átvételére jogosult. A közgyûlés egyidejûleg felhívja a kijelölt személyt, hogy 15 napon belül tegye meg nyilatkozatát, hogy a részvényeket át kívánja-e venni.<ujsor/>
+(J14/341/19.07.2005.; Vargya, FÅ‘ Ãºt 205., KovÃ¡szna megye) 100%-os Ã¼zletrÃ©sz<ujsor/>
+Ã–sszesen: 50 015 000<ujsor/>
+A hozzÃ¡jÃ¡rulÃ¡st nyÃºjtÃ³ rÃ©szvÃ©nyes neve, szÃ©khelye: Esztergom VÃ¡ros Ã–nkormÃ¡nyzata (2500 Esztergom, SzÃ©chenyi tÃ©r 1.)<ujsor/>
+Az apport szolgÃ¡ltatÃ¡sÃ¡nak idÅ‘pontja:<ujsor/>
+A kÃ¶zgyÅ±lÃ©si hatÃ¡rozat meghozatalÃ¡tÃ³l szÃ¡mÃ­tott 15 napon belÃ¼l.<ujsor/>
+A fentiek alapjÃ¡n megÃ¡llapÃ­thatÃ³, hogy az Ã¶nkormÃ¡nyzat a Strigonium Zrt.-be nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡skÃ©nt (apport) szolgÃ¡ltatandÃ³ vagyontÃ¡rgyak Ã©rtÃ©kÃ©t Ã¶sszesen 50 015 000 Ft (Ã¶tvenmilliÃ³-tizenÃ¶tezer forint) Ã¶sszegben hatÃ¡rozta meg.<ujsor/>
+A nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s ellenÃ©ben adandÃ³ rÃ©szvÃ©nyek szÃ¡ma Ã©s egyÃ©b jellemzÅ‘i:<ujsor/>
+A tÅ‘keemelÃ©s ellenÃ©ben a Strigonium Zrt. Ã¡ltal az Ã¶nkormÃ¡nyzatnak adandÃ³ rÃ©szvÃ©nyek szÃ¡ma 50 015 db (Ã¶tvenezer-tizenÃ¶t darab), egyenkÃ©nt 1000 Ft (egyezer forint) nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³, egyenlÅ‘ jogokat biztosÃ­tÃ³ tÃ¶rzsrÃ©szvÃ©ny (50 015 000 Ft/1000 Ft/db = 50 015 db).<ujsor/>
+A tÃ¡rsasÃ¡g alaptÅ‘kÃ©jÃ©t Ãºj rÃ©szvÃ©nyek forgalomba hozatalÃ¡val, zÃ¡rt kÃ¶rben, dematerializÃ¡lt formÃ¡ban elÅ‘Ã¡llÃ­tott 50 015 darab, egyenkÃ©nt 1000 Ft nÃ©vÃ©rtÃ©kÅ±, egyenlÅ‘ jogokat biztosÃ­tÃ³ tÃ¶rzsrÃ©szvÃ©nnyel, Ã¶sszesen 50 015 000 Ft-tal (Ã¶tvenmilliÃ³-tizenÃ¶tezer forinttal), amely Ã¶sszeg egyben a jegyzÃ©si minimum, tÃºljegyzÃ©st nem fogad el Â­ emeli meg. A rÃ©szvÃ©nyek kibocsÃ¡tÃ¡si Ã©rtÃ©ke azonos azok nÃ©vÃ©rtÃ©kÃ©vel.<ujsor/>
+A kÃ¶zgyÅ±lÃ©s a tÃ¡rsasÃ¡g rÃ©szvÃ©nyesÃ©t, Esztergom VÃ¡ros Ã–nkormÃ¡nyzatÃ¡t jogosÃ­tja fel arra, hogy a rÃ©szvÃ©nyek Ã¡tvÃ©telÃ©re vonatkozÃ³ szÃ¡ndÃ©knyilatkozatot tegyen. A rÃ©szvÃ©nyes az elÅ‘terjesztÃ©sben meghatÃ¡rozottak szerint 50 015 db tÃ¶rzsrÃ©szvÃ©nynek a rÃ©szvÃ©ny nÃ©vÃ©rtÃ©kÃ©n tÃ¶rtÃ©nÅ‘ Ã¡tvÃ©telÃ©re jogosult. A kÃ¶zgyÅ±lÃ©s egyidejÅ±leg felhÃ­vja a kijelÃ¶lt szemÃ©lyt, hogy 15 napon belÃ¼l tegye meg nyilatkozatÃ¡t, hogy a rÃ©szvÃ©nyeket Ã¡t kÃ­vÃ¡nja-e venni.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110000349</mezo>
-<mezo id = "nev">STRIGONIUM IDEGENFORGALMI BEFEKTETÕ Részvénytársaság</mezo>
+<mezo id = "nev">STRIGONIUM IDEGENFORGALMI BEFEKTETÅ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">2500 Esztergom</mezo>
 </alrovat>
 <alrovat id = "11">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Komárom-Esztergom Megyei Bíróság mint Cégbíróság által nyilvántartásba vett, 2500 Esztergom, Deák Ferenc u. 4. szám alatti székhelyû Strigonium Számviteli és Gazdasági Tanácsadó Zártkörûen Mûködõ Részvénytársaság (Cg.: [11 10 000349]) a 2008. október 29-én megtartott közgyûlésén határozatot hozott a társaság alaptõkéjének megemelésérõl.<ujsor/>
-Az alaptõke emelés elõtti összege: 784 563 000 Ft.<ujsor/>
-Az alaptõke emelés utáni összege: 1 784 563 000 Ft.<ujsor/>
-A társaság által végrehajtandó alaptõke-emelés 1 000 000 000 Ft (egymilliárd forint) pénzbeli hozzájárulás szolgáltatásával történik, amely egyben a jegyzési minimum is, túljegyzést nem fogad el. A részvények kibocsátása azok névértékén történik.<ujsor/>
-A tervezett alaptõke-emelésre pénzbeli hozzájárulás ellenében két részletben kerül sor akként, hogy a pénzbeli hozzájárulás elsõ részletének (felének) pénzügyi teljesítésére a döntést követõ 90 napon belül, a második részlet pénzügyi teljesítésére 2009. május 31-ig kerül sor.<ujsor/>
-A társaság alaptõkéjét új részvények forgalomba hozatalával, zárt körben, dematerializált formában elõállított 1 000 000 darab, egyenként 1000 Ft névértékû, egyenlõ jogokat biztosító törzsrészvénnyel, összesen 1 000 000 000 Ft-tal (egymilliárd forinttal) ­ amely összeg egyben a jegyzési minimum, túljegyzést nem fogad el ­ emeli meg. A részvények kibocsátási értéke azonos névértékével.<ujsor/>
-A közgyûlés a társaság részvényesét, Esztergom Város Önkormányzatát jogosítja fel arra, hogy a részvények átvételére vonatkozó szándéknyilatkozatot tegyen.<ujsor/>
-A részvényes 1 000 000 db törzsrészvénynek a részvény névértékén történõ átvételére jogosult. A közgyûlés felhívja a kijelölt személyt, hogy 90 napon belül tegye meg nyilatkozatát, hogy a részvényeket át kívánja-e venni, illetve a pénzügyi teljesítésnek a közgyûlési határozatban foglalt határidõkben tegyen eleget.<ujsor/>
+<mezo id = "szoveg">A KomÃ¡rom-Esztergom Megyei BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g Ã¡ltal nyilvÃ¡ntartÃ¡sba vett, 2500 Esztergom, DeÃ¡k Ferenc u. 4. szÃ¡m alatti szÃ©khelyÅ± Strigonium SzÃ¡mviteli Ã©s GazdasÃ¡gi TanÃ¡csadÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [11 10 000349]) a 2008. oktÃ³ber 29-Ã©n megtartott kÃ¶zgyÅ±lÃ©sÃ©n hatÃ¡rozatot hozott a tÃ¡rsasÃ¡g alaptÅ‘kÃ©jÃ©nek megemelÃ©sÃ©rÅ‘l.<ujsor/>
+Az alaptÅ‘ke emelÃ©s elÅ‘tti Ã¶sszege: 784 563 000 Ft.<ujsor/>
+Az alaptÅ‘ke emelÃ©s utÃ¡ni Ã¶sszege: 1 784 563 000 Ft.<ujsor/>
+A tÃ¡rsasÃ¡g Ã¡ltal vÃ©grehajtandÃ³ alaptÅ‘ke-emelÃ©s 1 000 000 000 Ft (egymilliÃ¡rd forint) pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s szolgÃ¡ltatÃ¡sÃ¡val tÃ¶rtÃ©nik, amely egyben a jegyzÃ©si minimum is, tÃºljegyzÃ©st nem fogad el. A rÃ©szvÃ©nyek kibocsÃ¡tÃ¡sa azok nÃ©vÃ©rtÃ©kÃ©n tÃ¶rtÃ©nik.<ujsor/>
+A tervezett alaptÅ‘ke-emelÃ©sre pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s ellenÃ©ben kÃ©t rÃ©szletben kerÃ¼l sor akkÃ©nt, hogy a pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s elsÅ‘ rÃ©szletÃ©nek (felÃ©nek) pÃ©nzÃ¼gyi teljesÃ­tÃ©sÃ©re a dÃ¶ntÃ©st kÃ¶vetÅ‘ 90 napon belÃ¼l, a mÃ¡sodik rÃ©szlet pÃ©nzÃ¼gyi teljesÃ­tÃ©sÃ©re 2009. mÃ¡jus 31-ig kerÃ¼l sor.<ujsor/>
+A tÃ¡rsasÃ¡g alaptÅ‘kÃ©jÃ©t Ãºj rÃ©szvÃ©nyek forgalomba hozatalÃ¡val, zÃ¡rt kÃ¶rben, dematerializÃ¡lt formÃ¡ban elÅ‘Ã¡llÃ­tott 1 000 000 darab, egyenkÃ©nt 1000 Ft nÃ©vÃ©rtÃ©kÅ±, egyenlÅ‘ jogokat biztosÃ­tÃ³ tÃ¶rzsrÃ©szvÃ©nnyel, Ã¶sszesen 1 000 000 000 Ft-tal (egymilliÃ¡rd forinttal) Â­ amely Ã¶sszeg egyben a jegyzÃ©si minimum, tÃºljegyzÃ©st nem fogad el Â­ emeli meg. A rÃ©szvÃ©nyek kibocsÃ¡tÃ¡si Ã©rtÃ©ke azonos nÃ©vÃ©rtÃ©kÃ©vel.<ujsor/>
+A kÃ¶zgyÅ±lÃ©s a tÃ¡rsasÃ¡g rÃ©szvÃ©nyesÃ©t, Esztergom VÃ¡ros Ã–nkormÃ¡nyzatÃ¡t jogosÃ­tja fel arra, hogy a rÃ©szvÃ©nyek Ã¡tvÃ©telÃ©re vonatkozÃ³ szÃ¡ndÃ©knyilatkozatot tegyen.<ujsor/>
+A rÃ©szvÃ©nyes 1 000 000 db tÃ¶rzsrÃ©szvÃ©nynek a rÃ©szvÃ©ny nÃ©vÃ©rtÃ©kÃ©n tÃ¶rtÃ©nÅ‘ Ã¡tvÃ©telÃ©re jogosult. A kÃ¶zgyÅ±lÃ©s felhÃ­vja a kijelÃ¶lt szemÃ©lyt, hogy 90 napon belÃ¼l tegye meg nyilatkozatÃ¡t, hogy a rÃ©szvÃ©nyeket Ã¡t kÃ­vÃ¡nja-e venni, illetve a pÃ©nzÃ¼gyi teljesÃ­tÃ©snek a kÃ¶zgyÅ±lÃ©si hatÃ¡rozatban foglalt hatÃ¡ridÅ‘kben tegyen eleget.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110000349</mezo>
-<mezo id = "nev">STRIGONIUM IDEGENFORGALMI BEFEKTETÕ Részvénytársaság</mezo>
+<mezo id = "nev">STRIGONIUM IDEGENFORGALMI BEFEKTETÅ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">2500 Esztergom</mezo>
 </alrovat>
 </rovat>

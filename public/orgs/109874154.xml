@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">874154</mezo>
 <mezo id = "nevalrovat">2</mezo>
-<mezo id = "cim">1132 Budapest, Váci út 72-74. </mezo>
+<mezo id = "cim">1132 Budapest, VÃ¡ci Ãºt 72-74. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">13805214244</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20070326</mezo>
-<mezo id = "nev">ELMÜ-ÉMÁSZ Hálózati Szolgáltató és Szerelõ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">ELMÃœ-Ã‰MÃSZ HÃ¡lÃ³zati SzolgÃ¡ltatÃ³ Ã©s SzerelÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">20061220</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -21,7 +21,7 @@
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">20070326</mezo>
-<mezo id = "nev">ELMÛ-ÉMÁSZ Hálózati Kft.</mezo>
+<mezo id = "nev">ELMÅ°-Ã‰MÃSZ HÃ¡lÃ³zati Kft.</mezo>
 <mezo id = "valtk">20061220</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -29,13 +29,13 @@
 <rovat id = "4">
 <alrovat id = "1">
 <mezo id = "hattol">20070326</mezo>
-<mezo id = "nev">ELMÛ-ÉMÁSZ Netzsevice Gesellschaft mit beschrankter Haftung ELMÛ-ÉMÁSZ Netservice GmbH</mezo>
+<mezo id = "nev">ELMÅ°-Ã‰MÃSZ Netzsevice Gesellschaft mit beschrankter Haftung ELMÅ°-Ã‰MÃSZ Netservice GmbH</mezo>
 <mezo id = "valtk">20061220</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20070326</mezo>
-<mezo id = "nev">ELMÛ-ÉMÁSZ Limited Company ELMÛ-ÉMÁSZ Netservice Ltd</mezo>
+<mezo id = "nev">ELMÅ°-Ã‰MÃSZ Limited Company ELMÅ°-Ã‰MÃSZ Netservice Ltd</mezo>
 <mezo id = "valtk">20061220</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -45,7 +45,7 @@
 <mezo id = "hattol">20061010</mezo>
 <mezo id = "irsz">1132</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Váci út 72-74.</mezo>
+<mezo id = "teru">VÃ¡ci Ãºt 72-74.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
@@ -55,7 +55,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20061010</mezo>
 <mezo id = "irsz">3525</mezo>
-<mezo id = "hely">Miskolc, Dózsa György út 13.</mezo>
+<mezo id = "hely">Miskolc, DÃ³zsa GyÃ¶rgy Ãºt 13.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
@@ -453,9 +453,9 @@
 <rovat id = "13">
 <alrovat id = "27">
 <mezo id = "hattol">20090831</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Molnár József</mezo>
-<mezo id = "panev">Bernáth Ilona</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">MolnÃ¡r JÃ³zsef</mezo>
+<mezo id = "panev">BernÃ¡th Ilona</mezo>
 <mezo id = "pirsz">1031</mezo>
 <mezo id = "phely">Budapest</mezo>
 <mezo id = "pteru">Monostori utca 32.</mezo>
@@ -467,12 +467,12 @@
 </alrovat>
 <alrovat id = "29">
 <mezo id = "hattol">20090831</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Bakonyi Péter</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Bakonyi PÃ©ter</mezo>
 <mezo id = "panev">Harter Magdolna</mezo>
 <mezo id = "pirsz">1118</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Sasadi út 25. I. em. 3.</mezo>
+<mezo id = "pteru">Sasadi Ãºt 25. I. em. 3.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20071112</mezo>
 <mezo id = "valtk">20090831</mezo>
@@ -480,12 +480,12 @@
 </alrovat>
 <alrovat id = "30">
 <mezo id = "hattol">20090831</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Borszukovszky Zoltán</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Borszukovszky ZoltÃ¡n</mezo>
 <mezo id = "panev">Nagy Edit</mezo>
 <mezo id = "pirsz">1031</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Örlõ utca 17. IV. em. 16.</mezo>
+<mezo id = "pteru">Ã–rlÅ‘ utca 17. IV. em. 16.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20071112</mezo>
 <mezo id = "valtk">20090831</mezo>
@@ -493,12 +493,12 @@
 </alrovat>
 <alrovat id = "31">
 <mezo id = "hattol">20090831</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Paveszka László</mezo>
-<mezo id = "panev">Jakabcsics Mária</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Paveszka LÃ¡szlÃ³</mezo>
+<mezo id = "panev">Jakabcsics MÃ¡ria</mezo>
 <mezo id = "pirsz">1141</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Mogyoródi utca 112. IV. em. 8.</mezo>
+<mezo id = "pteru">MogyorÃ³di utca 112. IV. em. 8.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20071112</mezo>
 <mezo id = "valtk">20090831</mezo>
@@ -506,12 +506,12 @@
 </alrovat>
 <alrovat id = "32">
 <mezo id = "hattol">20090831</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Czanik Zsolt</mezo>
-<mezo id = "panev">Szaváthy Magdolna</mezo>
+<mezo id = "panev">SzavÃ¡thy Magdolna</mezo>
 <mezo id = "pirsz">2119</mezo>
-<mezo id = "phely">Pécel</mezo>
-<mezo id = "pteru">Ond vezér utca 5. B. ép.</mezo>
+<mezo id = "phely">PÃ©cel</mezo>
+<mezo id = "pteru">Ond vezÃ©r utca 5. B. Ã©p.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20071112</mezo>
 <mezo id = "valtk">20090831</mezo>
@@ -519,12 +519,12 @@
 </alrovat>
 <alrovat id = "33">
 <mezo id = "hattol">20090831</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Ozsvárth Gyula</mezo>
-<mezo id = "panev">Dósa Regina</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">OzsvÃ¡rth Gyula</mezo>
+<mezo id = "panev">DÃ³sa Regina</mezo>
 <mezo id = "pirsz">2151</mezo>
-<mezo id = "phely">Fót</mezo>
-<mezo id = "pteru">Honfoglalás sétány 15.</mezo>
+<mezo id = "phely">FÃ³t</mezo>
+<mezo id = "pteru">HonfoglalÃ¡s sÃ©tÃ¡ny 15.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20071112</mezo>
 <mezo id = "valtk">20090831</mezo>
@@ -532,12 +532,12 @@
 </alrovat>
 <alrovat id = "34">
 <mezo id = "hattol">20090831</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Fekete István Géza</mezo>
-<mezo id = "panev">Mészáros Julianna</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Fekete IstvÃ¡n GÃ©za</mezo>
+<mezo id = "panev">MÃ©szÃ¡ros Julianna</mezo>
 <mezo id = "pirsz">1183</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Kálti Márk utca 10. A. ép.</mezo>
+<mezo id = "pteru">KÃ¡lti MÃ¡rk utca 10. A. Ã©p.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20071112</mezo>
 <mezo id = "valtk">20090831</mezo>
@@ -545,12 +545,12 @@
 </alrovat>
 <alrovat id = "35">
 <mezo id = "hattol">20090831</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Bartos Csaba</mezo>
 <mezo id = "panev">Ferencz Magdolna</mezo>
 <mezo id = "pirsz">2686</mezo>
 <mezo id = "phely">Galgaguta</mezo>
-<mezo id = "pteru">Dózsa György út 6.</mezo>
+<mezo id = "pteru">DÃ³zsa GyÃ¶rgy Ãºt 6.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20071112</mezo>
 <mezo id = "valtk">20090831</mezo>
@@ -558,12 +558,12 @@
 </alrovat>
 <alrovat id = "37">
 <mezo id = "hattol">20090831</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Bartoss Attila Károly</mezo>
-<mezo id = "panev">Péterfi Éva Mária</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Bartoss Attila KÃ¡roly</mezo>
+<mezo id = "panev">PÃ©terfi Ã‰va MÃ¡ria</mezo>
 <mezo id = "pirsz">2030</mezo>
-<mezo id = "phely">Érd</mezo>
-<mezo id = "pteru">Csóka utca 15.</mezo>
+<mezo id = "phely">Ã‰rd</mezo>
+<mezo id = "pteru">CsÃ³ka utca 15.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20071112</mezo>
 <mezo id = "valtk">20090831</mezo>
@@ -571,12 +571,12 @@
 </alrovat>
 <alrovat id = "38">
 <mezo id = "hattol">20090831</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Palicska Zoltán</mezo>
-<mezo id = "panev">Csollán Margit</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Palicska ZoltÃ¡n</mezo>
+<mezo id = "panev">CsollÃ¡n Margit</mezo>
 <mezo id = "pirsz">1106</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Juhász utca 40.</mezo>
+<mezo id = "pteru">JuhÃ¡sz utca 40.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20071112</mezo>
 <mezo id = "valtk">20090831</mezo>
@@ -584,12 +584,12 @@
 </alrovat>
 <alrovat id = "39">
 <mezo id = "hattol">20090831</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Szabó László</mezo>
-<mezo id = "panev">Nagy Mária</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">SzabÃ³ LÃ¡szlÃ³</mezo>
+<mezo id = "panev">Nagy MÃ¡ria</mezo>
 <mezo id = "pirsz">3300</mezo>
 <mezo id = "phely">Eger</mezo>
-<mezo id = "pteru">Nagy László utca 3.</mezo>
+<mezo id = "pteru">Nagy LÃ¡szlÃ³ utca 3.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20071112</mezo>
 <mezo id = "valtk">20090831</mezo>
@@ -597,9 +597,9 @@
 </alrovat>
 <alrovat id = "40">
 <mezo id = "hattol">20090831</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Szepesi István</mezo>
-<mezo id = "panev">Galicza Mária</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Szepesi IstvÃ¡n</mezo>
+<mezo id = "panev">Galicza MÃ¡ria</mezo>
 <mezo id = "pirsz">3529</mezo>
 <mezo id = "phely">Miskolc</mezo>
 <mezo id = "pteru">Derkovits Gyula utca 50. II. em. 6.</mezo>
@@ -610,12 +610,12 @@
 </alrovat>
 <alrovat id = "41">
 <mezo id = "hattol">20090831</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Kegye Attila János</mezo>
-<mezo id = "panev">Rápolti Terézia</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Kegye Attila JÃ¡nos</mezo>
+<mezo id = "panev">RÃ¡polti TerÃ©zia</mezo>
 <mezo id = "pirsz">3300</mezo>
 <mezo id = "phely">Eger</mezo>
-<mezo id = "pteru">Kisdelelõ utca 5.</mezo>
+<mezo id = "pteru">KisdelelÅ‘ utca 5.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20071112</mezo>
 <mezo id = "valtk">20090831</mezo>
@@ -623,12 +623,12 @@
 </alrovat>
 <alrovat id = "42">
 <mezo id = "hattol">20090831</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Lakatos Zoltán László</mezo>
-<mezo id = "panev">Dudás Ilona</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Lakatos ZoltÃ¡n LÃ¡szlÃ³</mezo>
+<mezo id = "panev">DudÃ¡s Ilona</mezo>
 <mezo id = "pirsz">3100</mezo>
-<mezo id = "phely">Salgótarján</mezo>
-<mezo id = "pteru">Rákóczi utca 54. I. em. 2.</mezo>
+<mezo id = "phely">SalgÃ³tarjÃ¡n</mezo>
+<mezo id = "pteru">RÃ¡kÃ³czi utca 54. I. em. 2.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20071112</mezo>
 <mezo id = "valtk">20090831</mezo>
@@ -636,12 +636,12 @@
 </alrovat>
 <alrovat id = "43">
 <mezo id = "hattol">20090831</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Kovács Gábor</mezo>
-<mezo id = "panev">Bánkuti Erzsébet</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">KovÃ¡cs GÃ¡bor</mezo>
+<mezo id = "panev">BÃ¡nkuti ErzsÃ©bet</mezo>
 <mezo id = "pirsz">3950</mezo>
-<mezo id = "phely">Sárospatak</mezo>
-<mezo id = "pteru">Pécsi Sándor utca 14.</mezo>
+<mezo id = "phely">SÃ¡rospatak</mezo>
+<mezo id = "pteru">PÃ©csi SÃ¡ndor utca 14.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20071112</mezo>
 <mezo id = "valtk">20090831</mezo>
@@ -649,12 +649,12 @@
 </alrovat>
 <alrovat id = "44">
 <mezo id = "hattol">20090831</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Döme Lászlóné</mezo>
-<mezo id = "panev">Fuszonecker Erzsébet</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">DÃ¶me LÃ¡szlÃ³nÃ©</mezo>
+<mezo id = "panev">Fuszonecker ErzsÃ©bet</mezo>
 <mezo id = "pirsz">1087</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Osztály utca 12-14. D. ép. I. em. 1.</mezo>
+<mezo id = "pteru">OsztÃ¡ly utca 12-14. D. Ã©p. I. em. 1.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20071112</mezo>
 <mezo id = "valtk">20090831</mezo>
@@ -662,11 +662,11 @@
 </alrovat>
 <alrovat id = "46">
 <mezo id = "hattol">20090831</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Lázár István</mezo>
-<mezo id = "panev">Jagasics Terézia</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">LÃ¡zÃ¡r IstvÃ¡n</mezo>
+<mezo id = "panev">Jagasics TerÃ©zia</mezo>
 <mezo id = "pirsz">2083</mezo>
-<mezo id = "phely">Solymár</mezo>
+<mezo id = "phely">SolymÃ¡r</mezo>
 <mezo id = "pteru">Toldi utca 17.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20081015</mezo>
@@ -675,11 +675,11 @@
 </alrovat>
 <alrovat id = "47">
 <mezo id = "hattol">20090831</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Dobor Béla László</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Dobor BÃ©la LÃ¡szlÃ³</mezo>
 <mezo id = "panev">Puczola Gizella</mezo>
 <mezo id = "pirsz">2340</mezo>
-<mezo id = "phely">Kiskunlacháza</mezo>
+<mezo id = "phely">KiskunlachÃ¡za</mezo>
 <mezo id = "pteru">Harcsa utca 6.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20081015</mezo>
@@ -688,12 +688,12 @@
 </alrovat>
 <alrovat id = "48">
 <mezo id = "hattol">20090831</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Viszoki Zsolt János</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Viszoki Zsolt JÃ¡nos</mezo>
 <mezo id = "panev">Kosik Piroska</mezo>
 <mezo id = "pirsz">1138</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Tomori utca 27. A. ép. VI. em. 12.</mezo>
+<mezo id = "pteru">Tomori utca 27. A. Ã©p. VI. em. 12.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20090515</mezo>
 <mezo id = "valtk">20090831</mezo>
@@ -701,8 +701,8 @@
 </alrovat>
 <alrovat id = "49">
 <mezo id = "hattol">20090831</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Kiss József</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Kiss JÃ³zsef</mezo>
 <mezo id = "panev">Kaupert Magda</mezo>
 <mezo id = "pirsz">1162</mezo>
 <mezo id = "phely">Budapest</mezo>
@@ -714,12 +714,12 @@
 </alrovat>
 <alrovat id = "50">
 <mezo id = "hattol">20091014</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Bakos János Jenõ</mezo>
-<mezo id = "panev">Bencs Mária</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Bakos JÃ¡nos JenÅ‘</mezo>
+<mezo id = "panev">Bencs MÃ¡ria</mezo>
 <mezo id = "pirsz">3661</mezo>
-<mezo id = "phely">Ózd</mezo>
-<mezo id = "pteru">Zrínyi Miklós út 110.</mezo>
+<mezo id = "phely">Ã“zd</mezo>
+<mezo id = "pteru">ZrÃ­nyi MiklÃ³s Ãºt 110.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20091014</mezo>
 <mezo id = "valtk">20091014</mezo>
@@ -727,9 +727,9 @@
 </alrovat>
 <alrovat id = "51">
 <mezo id = "hattol">20091014</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Huba Zsolt</mezo>
-<mezo id = "panev">Kovács Katalin</mezo>
+<mezo id = "panev">KovÃ¡cs Katalin</mezo>
 <mezo id = "pirsz">5700</mezo>
 <mezo id = "phely">Gyula</mezo>
 <mezo id = "pteru">Dombi Lajos utca 38.</mezo>
@@ -740,12 +740,12 @@
 </alrovat>
 <alrovat id = "52">
 <mezo id = "hattol">20091014</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Tokár Béla János</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">TokÃ¡r BÃ©la JÃ¡nos</mezo>
 <mezo id = "panev">Balogh Veronika</mezo>
 <mezo id = "pirsz">3950</mezo>
-<mezo id = "phely">Sárospatak</mezo>
-<mezo id = "pteru">Balassi Bálint utca 37.</mezo>
+<mezo id = "phely">SÃ¡rospatak</mezo>
+<mezo id = "pteru">Balassi BÃ¡lint utca 37.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20091014</mezo>
 <mezo id = "valtk">20091014</mezo>
@@ -753,12 +753,12 @@
 </alrovat>
 <alrovat id = "53">
 <mezo id = "hattol">20091014</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Kalla Ferenc</mezo>
-<mezo id = "panev">Bába Mária</mezo>
+<mezo id = "panev">BÃ¡ba MÃ¡ria</mezo>
 <mezo id = "pirsz">1212</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Komáromi utca 98.</mezo>
+<mezo id = "pteru">KomÃ¡romi utca 98.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20091014</mezo>
 <mezo id = "valtk">20091014</mezo>
@@ -766,12 +766,12 @@
 </alrovat>
 <alrovat id = "54">
 <mezo id = "hattol">20091014</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Bidóné Valaska Márta</mezo>
-<mezo id = "panev">Schimetsek Márta</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">BidÃ³nÃ© Valaska MÃ¡rta</mezo>
+<mezo id = "panev">Schimetsek MÃ¡rta</mezo>
 <mezo id = "pirsz">1031</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Nánási út 38. II. em. 3.</mezo>
+<mezo id = "pteru">NÃ¡nÃ¡si Ãºt 38. II. em. 3.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20091014</mezo>
 <mezo id = "valtk">20091014</mezo>
@@ -779,12 +779,12 @@
 </alrovat>
 <alrovat id = "55">
 <mezo id = "hattol">20091014</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Kling Krisztián</mezo>
-<mezo id = "panev">Hencz Ildikó</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Kling KrisztiÃ¡n</mezo>
+<mezo id = "panev">Hencz IldikÃ³</mezo>
 <mezo id = "pirsz">1115</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Bánk bán utca 9. fszt. 5.</mezo>
+<mezo id = "pteru">BÃ¡nk bÃ¡n utca 9. fszt. 5.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20091014</mezo>
 <mezo id = "valtk">20091014</mezo>
@@ -792,12 +792,12 @@
 </alrovat>
 <alrovat id = "56">
 <mezo id = "hattol">20091014</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Pásztor István</mezo>
-<mezo id = "panev">Horváth Gizella</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">PÃ¡sztor IstvÃ¡n</mezo>
+<mezo id = "panev">HorvÃ¡th Gizella</mezo>
 <mezo id = "pirsz">3528</mezo>
 <mezo id = "phely">Miskolc</mezo>
-<mezo id = "pteru">Zsedényi Béla utca 9.</mezo>
+<mezo id = "pteru">ZsedÃ©nyi BÃ©la utca 9.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20091014</mezo>
 <mezo id = "valtk">20091014</mezo>
@@ -805,12 +805,12 @@
 </alrovat>
 <alrovat id = "57">
 <mezo id = "hattol">20091014</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Nádudvari László</mezo>
-<mezo id = "panev">Szabó Anna</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">NÃ¡dudvari LÃ¡szlÃ³</mezo>
+<mezo id = "panev">SzabÃ³ Anna</mezo>
 <mezo id = "pirsz">3000</mezo>
 <mezo id = "phely">Hatvan</mezo>
-<mezo id = "pteru">Vár utca 17. B. ép.</mezo>
+<mezo id = "pteru">VÃ¡r utca 17. B. Ã©p.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20091014</mezo>
 <mezo id = "valtk">20091014</mezo>
@@ -818,12 +818,12 @@
 </alrovat>
 <alrovat id = "58">
 <mezo id = "hattol">20091014</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Venczel Gábor</mezo>
-<mezo id = "panev">Böhm Mária</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Venczel GÃ¡bor</mezo>
+<mezo id = "panev">BÃ¶hm MÃ¡ria</mezo>
 <mezo id = "pirsz">1043</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Virág utca 23. II. em. 11.</mezo>
+<mezo id = "pteru">VirÃ¡g utca 23. II. em. 11.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20091014</mezo>
 <mezo id = "valtk">20091014</mezo>
@@ -831,12 +831,12 @@
 </alrovat>
 <alrovat id = "59">
 <mezo id = "hattol">20091014</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Szilágyi Richárd Sándor</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">SzilÃ¡gyi RichÃ¡rd SÃ¡ndor</mezo>
 <mezo id = "panev">Csuti Piroska</mezo>
 <mezo id = "pirsz">8174</mezo>
 <mezo id = "phely">Balatonkenese</mezo>
-<mezo id = "pteru">Csokonai Vitéz Mihály utca 4.</mezo>
+<mezo id = "pteru">Csokonai VitÃ©z MihÃ¡ly utca 4.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20091014</mezo>
 <mezo id = "valtk">20091014</mezo>
@@ -844,9 +844,9 @@
 </alrovat>
 <alrovat id = "60">
 <mezo id = "hattol">20100323</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Rigó Péter</mezo>
-<mezo id = "panev">Tóth Ibolya</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">RigÃ³ PÃ©ter</mezo>
+<mezo id = "panev">TÃ³th Ibolya</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20100323</mezo>
 <mezo id = "valtk">20100323</mezo>
@@ -855,12 +855,12 @@
 </alrovat>
 <alrovat id = "61">
 <mezo id = "hattol">20110401</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Nagy László</mezo>
-<mezo id = "panev">Szõdi Margit</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Nagy LÃ¡szlÃ³</mezo>
+<mezo id = "panev">SzÅ‘di Margit</mezo>
 <mezo id = "pirsz">1165</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Futórózsa utca 85. III. em. 3.</mezo>
+<mezo id = "pteru">FutÃ³rÃ³zsa utca 85. III. em. 3.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20091221</mezo>
 <mezo id = "valtk">20110401</mezo>
@@ -872,11 +872,11 @@
 <alrovat id = "1">
 <mezo id = "hattol">20070625</mezo>
 <mezo id = "cgjsz">109063022</mezo>
-<mezo id = "nev">PricewaterhouseCoopers Könyvvizsgáló és Gazdasági Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">PricewaterhouseCoopers KÃ¶nyvvizsgÃ¡lÃ³ Ã©s GazdasÃ¡gi TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1077</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Wesselényi u.</mezo>
+<mezo id = "teru">WesselÃ©nyi u.</mezo>
 <mezo id = "hsz">16.</mezo>
 <mezo id = "jogvk">20070625</mezo>
 <mezo id = "jogvv">20100625</mezo>
@@ -888,12 +888,12 @@
 <alrovat id = "3">
 <mezo id = "hattol">20100626</mezo>
 <mezo id = "cgjsz">0109063022</mezo>
-<mezo id = "nev">PricewaterhouseCoopers Könyvvizsgáló és Gazdasági Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">PricewaterhouseCoopers KÃ¶nyvvizsgÃ¡lÃ³ Ã©s GazdasÃ¡gi TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1077</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Wesselényi utca 16.</mezo>
-<mezo id = "pnev">Biczó Péter</mezo>
+<mezo id = "teru">WesselÃ©nyi utca 16.</mezo>
+<mezo id = "pnev">BiczÃ³ PÃ©ter</mezo>
 <mezo id = "panev">Silber Judit Veronika</mezo>
 <mezo id = "jogvk">20100626</mezo>
 <mezo id = "jogvv">20130626</mezo>
@@ -935,8 +935,8 @@
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">20100626</mezo>
-<mezo id = "pnev">Dr. Kövesdi Zoltán</mezo>
-<mezo id = "panev">Gály Kamilla</mezo>
+<mezo id = "pnev">Dr. KÃ¶vesdi ZoltÃ¡n</mezo>
+<mezo id = "panev">GÃ¡ly Kamilla</mezo>
 <mezo id = "jogvk">20100626</mezo>
 <mezo id = "jogvv">20130626</mezo>
 <mezo id = "valtk">20100626</mezo>
@@ -945,7 +945,7 @@
 <alrovat id = "11">
 <mezo id = "hattol">20100626</mezo>
 <mezo id = "pnev">Bartos Attila</mezo>
-<mezo id = "panev">Péterfi Éva</mezo>
+<mezo id = "panev">PÃ©terfi Ã‰va</mezo>
 <mezo id = "jogvk">20100626</mezo>
 <mezo id = "jogvv">20130626</mezo>
 <mezo id = "valtk">20100626</mezo>
@@ -953,8 +953,8 @@
 </alrovat>
 <alrovat id = "12">
 <mezo id = "hattol">20100626</mezo>
-<mezo id = "pnev">Gyuris Árpád Tamás</mezo>
-<mezo id = "panev">Márta Klára</mezo>
+<mezo id = "pnev">Gyuris ÃrpÃ¡d TamÃ¡s</mezo>
+<mezo id = "panev">MÃ¡rta KlÃ¡ra</mezo>
 <mezo id = "jogvk">20100626</mezo>
 <mezo id = "jogvv">20130626</mezo>
 <mezo id = "valtk">20100626</mezo>
@@ -962,11 +962,11 @@
 </alrovat>
 <alrovat id = "13">
 <mezo id = "hattol">20110701</mezo>
-<mezo id = "pnev">Hans-Günter Hogg</mezo>
+<mezo id = "pnev">Hans-GÃ¼nter Hogg</mezo>
 <mezo id = "panev">Maria Helene Elsasser</mezo>
 <mezo id = "pirsz">1124</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Kútvölgyi út 15. C. ép. 2. lház.</mezo>
+<mezo id = "pteru">KÃºtvÃ¶lgyi Ãºt 15. C. Ã©p. 2. lhÃ¡z.</mezo>
 <mezo id = "pkorsz">DE</mezo>
 <mezo id = "pkirsz">74889</mezo>
 <mezo id = "pkhely">Sinsheim</mezo>
@@ -988,18 +988,18 @@
 <mezo id = "adosz">13805214244</mezo>
 <mezo id = "kadosz">HU13805214</mezo>
 <mezo id = "bkelt">20110719</mezo>
-<mezo id = "megj">Státusz kezdete: 2006/09/07</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 2006/09/07</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0109">
 <alrovat id = "1">
 <mezo id = "hattol">20061010</mezo>
 <mezo id = "cgjsz">110041827</mezo>
-<mezo id = "nev">Budapesti Elektromos Mûvek Nyilvánosan Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">Budapesti Elektromos MÅ±vek NyilvÃ¡nosan MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1132</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Váci út</mezo>
+<mezo id = "teru">VÃ¡ci Ãºt</mezo>
 <mezo id = "hsz">72-74.</mezo>
 <mezo id = "tagsk">20060830</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -1009,11 +1009,11 @@
 <alrovat id = "2">
 <mezo id = "hattol">20061010</mezo>
 <mezo id = "cgjsz">510000067</mezo>
-<mezo id = "nev">Észak-magyarországi Áramszolgáltató Nyilvánosan Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">Ã‰szak-magyarorszÃ¡gi ÃramszolgÃ¡ltatÃ³ NyilvÃ¡nosan MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">3525</mezo>
 <mezo id = "hely">Miskolc</mezo>
-<mezo id = "teru">Dózsa Gy. utca</mezo>
+<mezo id = "teru">DÃ³zsa Gy. utca</mezo>
 <mezo id = "hsz">13.</mezo>
 <mezo id = "tagsk">20060830</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -1025,122 +1025,122 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2007. 03. 26-án hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-02. ELMÜ-ÉMÁSZ Hálózati Szolgáltató és Szerelõ Korlátolt Felelõsségû Társaság<ujsor/>
- A változás idõpontja: 2006. 12. 20.<ujsor/>
- A változás idõpontja (törlés): 2006. 12. 20.<ujsor/>
- Törölve: 2007. 04. 02.<ujsor/>
- ELMÛ-ÉMÁSZ Hálózati Szolgáltató Korlátolt Felelõsségû Társaság<ujsor/>
- A változás idõpontja: 2006. 12. 20.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2007. 03. 26-Ã¡n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+02. ELMÃœ-Ã‰MÃSZ HÃ¡lÃ³zati SzolgÃ¡ltatÃ³ Ã©s SzerelÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2006. 12. 20.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2006. 12. 20.<ujsor/>
+ TÃ¶rÃ¶lve: 2007. 04. 02.<ujsor/>
+ ELMÅ°-Ã‰MÃSZ HÃ¡lÃ³zati SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2006. 12. 20.<ujsor/>
  Bejegyezve: 2007. 04. 02.<ujsor/>
 2007. 04. 02.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109874154</mezo>
-<mezo id = "nev">ELMÛ-ÉMÁSZ Hálózati Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1132 Budapest, Váci út 72-74.</mezo>
+<mezo id = "nev">ELMÅ°-Ã‰MÃSZ HÃ¡lÃ³zati SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1132 Budapest, VÃ¡ci Ãºt 72-74.</mezo>
 <mezo id = "adosz">13805214241</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2007. 03. 26-án hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-04. ELMÛ-ÉMÁSZ Netzsevice Gesellschaft mit beschrankter Haftung ELMÛ-ÉMÁSZ Netservice GmbH.<ujsor/>
- A változás idõpontja: 2006. 12. 20.<ujsor/>
- A változás idõpontja (törlés): 2006. 12. 20.<ujsor/>
- ELMÛ-ÉMÁSZ Limited Company ELMÛ-ÉMÁSZ Netservice Ltd.<ujsor/>
- A változás idõpontja: 2006. 12. 20.<ujsor/>
- A változás idõpontja (törlés): 2006. 12. 20.<ujsor/>
- Törölve: 2007. 04. 06.<ujsor/>
- ELMÛ-ÉMÁSZ Limited Liability Company ELMÛ-ÉMÁSZ Ltd.<ujsor/>
- A változás idõpontja: 2006. 12. 20.<ujsor/>
- ELMÛ-ÉMÁSZ Netzservice Gesselschaft mit beschrankter Haftung ELMÛ-ÉMÁSZ Netzservice GmbH.<ujsor/>
- A változás idõpontja: 2006. 12. 20.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2007. 03. 26-Ã¡n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+04. ELMÅ°-Ã‰MÃSZ Netzsevice Gesellschaft mit beschrankter Haftung ELMÅ°-Ã‰MÃSZ Netservice GmbH.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2006. 12. 20.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2006. 12. 20.<ujsor/>
+ ELMÅ°-Ã‰MÃSZ Limited Company ELMÅ°-Ã‰MÃSZ Netservice Ltd.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2006. 12. 20.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2006. 12. 20.<ujsor/>
+ TÃ¶rÃ¶lve: 2007. 04. 06.<ujsor/>
+ ELMÅ°-Ã‰MÃSZ Limited Liability Company ELMÅ°-Ã‰MÃSZ Ltd.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2006. 12. 20.<ujsor/>
+ ELMÅ°-Ã‰MÃSZ Netzservice Gesselschaft mit beschrankter Haftung ELMÅ°-Ã‰MÃSZ Netzservice GmbH.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2006. 12. 20.<ujsor/>
  Bejegyezve: 2007. 04. 06.<ujsor/>
 2007. 04. 06.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109874154</mezo>
-<mezo id = "nev">ELMÛ-ÉMÁSZ Hálózati Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1132 Budapest, Váci út 72-74.</mezo>
+<mezo id = "nev">ELMÅ°-Ã‰MÃSZ HÃ¡lÃ³zati SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1132 Budapest, VÃ¡ci Ãºt 72-74.</mezo>
 <mezo id = "adosz">13805214241</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2007. 08. 30-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-14. [01 09 063022] PricewaterhouseCoopers Könyvvizsgáló és Gazdasági Tanácsadó Korlátolt Felelõsségû Társaság<ujsor/>
-HU 1077 Budapest, Wesselényi u. 16.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2007. 08. 30-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+14. [01 09 063022] PricewaterhouseCoopers KÃ¶nyvvizsgÃ¡lÃ³ Ã©s GazdasÃ¡gi TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g<ujsor/>
+HU 1077 Budapest, WesselÃ©nyi u. 16.<ujsor/>
  A jogviszony kezdete: 2007. 06. 25.<ujsor/>
- A jogviszony vége: 2010. 06. 25.<ujsor/>
- A változás idõpontja: 2007. 06. 25.<ujsor/>
- A változás idõpontja (törlés): 2007. 06. 25.<ujsor/>
- Törölve: 2007. 09. 17.<ujsor/>
- [01 09 063022] PricewaterhouseCoopers Könyvvizsgáló és Gazdasági Tanácsadó Korlátolt Felelõsségû Társaság<ujsor/>
-HU 1077 Budapest, Wesselényi u. 16.<ujsor/>
- Biczó Péter (an: Silber Judit Veronika)<ujsor/>
-1058 Budapest, Klebelsberg Kunó u. 84.<ujsor/>
+ A jogviszony vÃ©ge: 2010. 06. 25.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2007. 06. 25.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2007. 06. 25.<ujsor/>
+ TÃ¶rÃ¶lve: 2007. 09. 17.<ujsor/>
+ [01 09 063022] PricewaterhouseCoopers KÃ¶nyvvizsgÃ¡lÃ³ Ã©s GazdasÃ¡gi TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g<ujsor/>
+HU 1077 Budapest, WesselÃ©nyi u. 16.<ujsor/>
+ BiczÃ³ PÃ©ter (an: Silber Judit Veronika)<ujsor/>
+1058 Budapest, Klebelsberg KunÃ³ u. 84.<ujsor/>
  A jogviszony kezdete: 2007. 06. 25.<ujsor/>
- A jogviszony vége: 2010. 06. 25.<ujsor/>
- A változás idõpontja: 2007. 06. 25.<ujsor/>
+ A jogviszony vÃ©ge: 2010. 06. 25.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2007. 06. 25.<ujsor/>
  Bejegyezve: 2007. 09. 17.<ujsor/>
 2007. 09. 17.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109874154</mezo>
-<mezo id = "nev">ELMÛ-ÉMÁSZ Hálózati Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1132 Budapest, Váci út 72-74.</mezo>
+<mezo id = "nev">ELMÅ°-Ã‰MÃSZ HÃ¡lÃ³zati SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1132 Budapest, VÃ¡ci Ãºt 72-74.</mezo>
 <mezo id = "adosz">13805214241</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2007. 03. 26-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-04. ELMÛ-ÉMÁSZ Netzservice Gesselschaft mit beschrankter Haftung ELMÛ-ÉMÁSZ Netzservice GmbH.<ujsor/>
- A változás idõpontja: 2006. 12. 20.<ujsor/>
- A változás idõpontja (törlés): 2006. 12. 20.<ujsor/>
- Törölve: 2006. 12. 20.<ujsor/>
- ELMÛ-ÉMÁSZ Netzservice Gesellschaft mit beschrankter Haftung ELMÛ-ÉMÁSZ Netzservice GmbH.<ujsor/>
- A változás idõpontja: 2006. 12. 20.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2007. 03. 26-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+04. ELMÅ°-Ã‰MÃSZ Netzservice Gesselschaft mit beschrankter Haftung ELMÅ°-Ã‰MÃSZ Netzservice GmbH.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2006. 12. 20.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2006. 12. 20.<ujsor/>
+ TÃ¶rÃ¶lve: 2006. 12. 20.<ujsor/>
+ ELMÅ°-Ã‰MÃSZ Netzservice Gesellschaft mit beschrankter Haftung ELMÅ°-Ã‰MÃSZ Netzservice GmbH.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2006. 12. 20.<ujsor/>
  Bejegyezve: 2006. 12. 20.<ujsor/>
 2008. 08. 22.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109874154</mezo>
-<mezo id = "nev">ELMÛ-ÉMÁSZ Hálózati Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1132 Budapest, Váci út 72-74.</mezo>
+<mezo id = "nev">ELMÅ°-Ã‰MÃSZ HÃ¡lÃ³zati SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1132 Budapest, VÃ¡ci Ãºt 72-74.</mezo>
 <mezo id = "adosz">13805214241</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2008. 08. 22-án hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2008. 08. 22-Ã¡n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
 15. Dr. Konrad Mussenbrock (an: Maria Schoer)<ujsor/>
 1126 Budapest, Tarpatak u. 5.<ujsor/>
  A jogviszony kezdete: 2007. 06. 25.<ujsor/>
- A jogviszony vége: 2010. 06. 25.<ujsor/>
- A változás idõpontja: 2007. 06. 25.<ujsor/>
- A változás idõpontja (törlés): 2008. 06. 30.<ujsor/>
- Törölve: 2008. 06. 30.<ujsor/>
+ A jogviszony vÃ©ge: 2010. 06. 25.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2007. 06. 25.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2008. 06. 30.<ujsor/>
+ TÃ¶rÃ¶lve: 2008. 06. 30.<ujsor/>
 2008. 09. 16.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109874154</mezo>
-<mezo id = "nev">ELMÛ-ÉMÁSZ Hálózati Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1132 Budapest, Váci út 72-74.</mezo>
+<mezo id = "nev">ELMÅ°-Ã‰MÃSZ HÃ¡lÃ³zati SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1132 Budapest, VÃ¡ci Ãºt 72-74.</mezo>
 <mezo id = "adosz">13805214241</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság a Cg.01-09-874154 cégjegyzékszámon bejegyzett ELMÛ-ÉMÁSZ Hálózati Szolgáltató Korlátolt Felelõsségû Társaság (1132 Budapest, Váci út 72-74.; adószáma: 13805214-2-44) kérelme alapján elrendeli az 2010. július 13. napján hozott Cg.01-09-874154 /59. számú végzésének kiegészítését az alábbiak szerint:<ujsor/>
-15. A felügyelõ bizottsági tagok adatai<ujsor/>
-Gyuris Árpád Tamás (an.: Márta Klára)<ujsor/>
-Jogv. kezdete: 2007.06.25. Jogv. vége: 2010.06.25.<ujsor/>
-Vált. vége: 2010.06.26.<ujsor/>
-Törölve (végzés kelte): 2010. augusztus 18.<ujsor/>
-E végzés ellen fellebbezésnek nincs helye, azonban az ügyész, továbbá az, akire a végzés rendelkezést tartalmaz - a rendelkezés õt érintõ részére vonatkozóan - pert indíthat a cég ellen a cég székhelye szerint illetékes megyei bíróság elõtt a bejegyzõ végzés hatályon kívül helyezése iránt.<ujsor/>
-A per megindításának a bejegyzõ végzés Cégközlönyben való közzétételétõl, illetve - közzétételi kötelezettség hiányában - annak kézbesítésétõl számított 30 napon belül van helye. A határidõ elmulasztása jogvesztéssel jár.<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.01-09-874154 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett ELMÅ°-Ã‰MÃSZ HÃ¡lÃ³zati SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (1132 Budapest, VÃ¡ci Ãºt 72-74.; adÃ³szÃ¡ma: 13805214-2-44) kÃ©relme alapjÃ¡n elrendeli az 2010. jÃºlius 13. napjÃ¡n hozott Cg.01-09-874154 /59. szÃ¡mÃº vÃ©gzÃ©sÃ©nek kiegÃ©szÃ­tÃ©sÃ©t az alÃ¡bbiak szerint:<ujsor/>
+15. A felÃ¼gyelÅ‘ bizottsÃ¡gi tagok adatai<ujsor/>
+Gyuris ÃrpÃ¡d TamÃ¡s (an.: MÃ¡rta KlÃ¡ra)<ujsor/>
+Jogv. kezdete: 2007.06.25. Jogv. vÃ©ge: 2010.06.25.<ujsor/>
+VÃ¡lt. vÃ©ge: 2010.06.26.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2010. augusztus 18.<ujsor/>
+E vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye, azonban az Ã¼gyÃ©sz, tovÃ¡bbÃ¡ az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s Å‘t Ã©rintÅ‘ rÃ©szÃ©re vonatkozÃ³an - pert indÃ­that a cÃ©g ellen a cÃ©g szÃ©khelye szerint illetÃ©kes megyei bÃ­rÃ³sÃ¡g elÅ‘tt a bejegyzÅ‘ vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt.<ujsor/>
+A per megindÃ­tÃ¡sÃ¡nak a bejegyzÅ‘ vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l, illetve - kÃ¶zzÃ©tÃ©teli kÃ¶telezettsÃ©g hiÃ¡nyÃ¡ban - annak kÃ©zbesÃ­tÃ©sÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l van helye. A hatÃ¡ridÅ‘ elmulasztÃ¡sa jogvesztÃ©ssel jÃ¡r.<ujsor/>
 2010. augusztus 18.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109874154</mezo>
-<mezo id = "nev">ELMÛ-ÉMÁSZ Hálózati Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1132 Budapest, Váci út 72-74.</mezo>
+<mezo id = "nev">ELMÅ°-Ã‰MÃSZ HÃ¡lÃ³zati SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1132 Budapest, VÃ¡ci Ãºt 72-74.</mezo>
 <mezo id = "adosz">13805214244</mezo>
 </alrovat>
 </rovat>

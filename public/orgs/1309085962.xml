@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">085962</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">2045 Törökbálint, 0152/12. </mezo>
+<mezo id = "cim">2045 TÃ¶rÃ¶kbÃ¡lint, 0152/12. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">12525122213</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20000927</mezo>
-<mezo id = "nev">DIBU Építõipari, Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">DIBU Ã‰pÃ­tÅ‘ipari, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -26,7 +26,7 @@
 <alrovat id = "2">
 <mezo id = "hattol">20100113</mezo>
 <mezo id = "irsz">2045</mezo>
-<mezo id = "hely">Törökbálint</mezo>
+<mezo id = "hely">TÃ¶rÃ¶kbÃ¡lint</mezo>
 <mezo id = "teru">0152/12.</mezo>
 <mezo id = "valtk">20100113</mezo>
 <mezo id = "bkelt">20100125</mezo>
@@ -36,7 +36,7 @@
 <alrovat id = "2">
 <mezo id = "hattol">20080903</mezo>
 <mezo id = "irsz">2045</mezo>
-<mezo id = "hely">Törökbálint, külterület 0152/12.</mezo>
+<mezo id = "hely">TÃ¶rÃ¶kbÃ¡lint, kÃ¼lterÃ¼let 0152/12.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20080903</mezo>
 <mezo id = "valtv">0</mezo>
@@ -46,8 +46,8 @@
 <alrovat id = "4">
 <mezo id = "hattol">20100318</mezo>
 <mezo id = "irsz">7147</mezo>
-<mezo id = "hely">Alsónána</mezo>
-<mezo id = "teru">Rákóczi F utca 2/a.</mezo>
+<mezo id = "hely">AlsÃ³nÃ¡na</mezo>
+<mezo id = "teru">RÃ¡kÃ³czi F utca 2/a.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20100318</mezo>
 <mezo id = "bkelt">20100326</mezo>
@@ -810,31 +810,31 @@
 <mezo id = "hattol">20100113</mezo>
 <mezo id = "valtk">20100113</mezo>
 <mezo id = "bkelt">20100125</mezo>
-<mezo id = "teaszov">Fémszerkezet gyártása</mezo>
+<mezo id = "teaszov">FÃ©mszerkezet gyÃ¡rtÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "111">
 <mezo id = "hattol">20100113</mezo>
 <mezo id = "valtk">20100113</mezo>
 <mezo id = "bkelt">20100125</mezo>
-<mezo id = "teaszov">Fém épületelem gyártása</mezo>
+<mezo id = "teaszov">FÃ©m Ã©pÃ¼letelem gyÃ¡rtÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "112">
 <mezo id = "hattol">20100113</mezo>
 <mezo id = "valtk">20100113</mezo>
 <mezo id = "bkelt">20100125</mezo>
-<mezo id = "teaszov">Fémmegmunkálás</mezo>
+<mezo id = "teaszov">FÃ©mmegmunkÃ¡lÃ¡s</mezo>
 </alrovat>
 <alrovat id = "113">
 <mezo id = "hattol">20100113</mezo>
 <mezo id = "valtk">20100113</mezo>
 <mezo id = "bkelt">20100125</mezo>
-<mezo id = "teaszov">Fémfelület-kezelés</mezo>
+<mezo id = "teaszov">FÃ©mfelÃ¼let-kezelÃ©s</mezo>
 </alrovat>
 <alrovat id = "114">
 <mezo id = "hattol">20100113</mezo>
 <mezo id = "valtk">20100113</mezo>
 <mezo id = "bkelt">20100125</mezo>
-<mezo id = "teaszov">Saját tulajdonú, bérelt ingatlan bérbeadása, üzemeltetése</mezo>
+<mezo id = "teaszov">SajÃ¡t tulajdonÃº, bÃ©relt ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -849,10 +849,10 @@
 <rovat id = "13">
 <alrovat id = "9">
 <mezo id = "hattol">20100113</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "email">info@dibu.hu</mezo>
-<mezo id = "pnev">Szivér Péter</mezo>
-<mezo id = "panev">Cseke Anna Mária</mezo>
+<mezo id = "pnev">SzivÃ©r PÃ©ter</mezo>
+<mezo id = "panev">Cseke Anna MÃ¡ria</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100113</mezo>
 <mezo id = "valtk">20100113</mezo>
@@ -860,9 +860,9 @@
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">20100113</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "email">info@dibu.hu</mezo>
-<mezo id = "pnev">Szivér László</mezo>
+<mezo id = "pnev">SzivÃ©r LÃ¡szlÃ³</mezo>
 <mezo id = "panev">Bodzai Margit</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100113</mezo>
@@ -886,7 +886,7 @@
 <rovat id = "0109">
 <alrovat id = "5">
 <mezo id = "hattol">20100113</mezo>
-<mezo id = "pnev">Szivér László</mezo>
+<mezo id = "pnev">SzivÃ©r LÃ¡szlÃ³</mezo>
 <mezo id = "panev">Bodzai Margit</mezo>
 <mezo id = "tagsk">20100113</mezo>
 <mezo id = "valtk">20100113</mezo>
@@ -894,8 +894,8 @@
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20100527</mezo>
-<mezo id = "pnev">Szivér Péter</mezo>
-<mezo id = "panev">Cseke Anna Mária</mezo>
+<mezo id = "pnev">SzivÃ©r PÃ©ter</mezo>
+<mezo id = "panev">Cseke Anna MÃ¡ria</mezo>
 <mezo id = "tagsk">20000927</mezo>
 <mezo id = "sz1">x</mezo>
 <mezo id = "valtk">20100527</mezo>

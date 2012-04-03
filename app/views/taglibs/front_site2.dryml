@@ -224,10 +224,10 @@
       <interorg-relations-view:>
         <hjq-input-many>
           <item:>
-            <field-list fields="organization, o2o_relation_type, related_organization, litigations">
-              <o2o-relation-type-view:>
-                <select-one options="&@o2o_types"/>
-              </o2o-relation-type-view:>
+            <field-list fields="organization, o_to_o_relation_type, related_organization, litigations">
+              <o_to_o-relation-type-view:>
+                <select-one options="&@o_to_o_types"/>
+              </o_to_o-relation-type-view:>
               <organization-view:>
                 <name-one /> 
               </organization-view:>
@@ -241,12 +241,12 @@
       <interpersonal-relations-view:>
         <hjq-input-many>
           <item:>
-            <field-list fields="person, p2p_relation_type, related_person, litigations, article_relations">
-              <p2p-relation-type-view:>
-                <select-one options="&@p2p_types"/>
+            <field-list fields="person, p_to_p_relation_type, related_person, litigations, article_relations">
+              <p_to_p-relation-type-view:>
+                <select-one options="&@p_to_p_types"/>
                 <input type="text" name="article[interpersonal_relations][#{ this_parent.new_record? ? 0 : this_parent.id }][information_source_id]" value="&@this.information_source_id" style="display:none" />
                 <input type="text" name="interpersonal_relations[#{ this_parent.new_record? ? 0 : this_parent.id }][article_relations][0][relationable_type]" value="InterpersonalRelation" style="display:none" />
-              </p2p-relation-type-view:>
+              </p_to_p-relation-type-view:>
               <person-view:>
                 <name-one />
               </person-view:>
@@ -260,10 +260,10 @@
       <person-to-org-relations-view:>
         <hjq-input-many>
           <item:>
-            <field-list fields="person, p2o_relation_type, organization, litigations">
-              <p2o-relation-type-view:>
-                <select-one options="&@p2o_types"/>
-              </p2o-relation-type-view:>
+            <field-list fields="person, p_to_o_relation_type, organization, litigations">
+              <p_to_o-relation-type-view:>
+                <select-one options="&@p_to_o_types"/>
+              </p_to_o-relation-type-view:>
               <person-view:>
                 <name-one />
               </person-view:>
@@ -302,7 +302,7 @@
       <manual-person-to-org-relations-view:>
         <hjq-input-many>
           <item:>
-            <field-list fields="organization, p2o_relation_type, article_relations, start_time, end_time, no_end_time, litigations, information_source">
+            <field-list fields="organization, p_to_o_relation_type, article_relations, start_time, end_time, no_end_time, litigations, information_source">
               <article-relations-view:>
                 <input-many>
                   <a:article default="_blank"><view:id/></a>
@@ -331,10 +331,10 @@
       <manual-interpersonal-relations-view:>
         <hjq-input-many>
           <item:>
-            <field-list fields="related_person, p2p_relation_type, article_relations, litigations, information_source">
-              <p2p-relation-type-view:>
-                <select-one options="&@p2p_types"/>
-              </p2p-relation-type-view:>
+            <field-list fields="related_person, p_to_p_relation_type, article_relations, litigations, information_source">
+              <p_to_p-relation-type-view:>
+                <select-one options="&@p_to_p_types"/>
+              </p_to_p-relation-type-view:>
               <related-person-view:>
                 <name-one/>
               </related-person-view:>
@@ -372,7 +372,7 @@
       <manual-person-to-org-relations-view:>
         <hjq-input-many>
           <item:>
-            <field-list fields="person, o2p_relation_type, article_relations, start_time, end_time, no_end_time, litigations, information_source">
+            <field-list fields="person, o_to_p_relation_type, article_relations, start_time, end_time, no_end_time, litigations, information_source">
               <article-relations-view:>
                 <input-many>
                   <a:article target="_blank"><view:id/></a>
@@ -398,7 +398,7 @@
       <manual-interorg-relations-view:>
         <hjq-input-many>
           <item:>
-            <field-list fields="related_organization, o2o_relation_type, article_relations, litigations, information_source">
+            <field-list fields="related_organization, o_to_o_relation_type, article_relations, litigations, information_source">
               <related-organization-view:>
                 <name-one/>
               </related-organization-view:>
@@ -542,14 +542,14 @@
     <div class="separator left">|</div>
     <a href="&url_for :controller => 'front', :action => 'trans_pagination', :sort=>'-issued_at'" class="left #{params[:sort] && params[:sort]=='-issued_at' ? 'active' : ''}">Legfrissebb</a>
   </div>
-  <table-plus fields="name, issued_at, value, organization, o2o_relation_type.name, related_organization, o2o_relation_type.pair.name, information_source" without-search-form merge>
+  <table-plus fields="name, issued_at, value, organization, o_to_o_relation_type.name, related_organization, o_to_o_relation_type.pair.name, information_source" without-search-form merge>
     <name-heading:><span>Név</span></name-heading:>
     <issued-at-heading:><span>Dátum</span></issued-at-heading:>
     <value-heading:><span>Összeg</span></value-heading:>
     <organization-heading:><span>Szervezet</span></organization-heading:>
-    <o2o-relation-type-name-heading:><span>Kapcsolat</span></o2o-relation-type-name-heading:>
+    <o_to_o-relation-type-name-heading:><span>Kapcsolat</span></o_to_o-relation-type-name-heading:>
     <related-organization-heading:><span>Szervezet</span></related-organization-heading:>
-    <o2o-relation-type-pair-name-heading:><span>Kapcsolat</span></o2o-relation-type-pair-name-heading:>
+    <o_to_o-relation-type-pair-name-heading:><span>Kapcsolat</span></o_to_o-relation-type-pair-name-heading:>
     <name-view:><a href="#{url_for(this_parent.tender_id ? this_parent.tender : this_parent.contract)}"><%= this.scan(/./mu)[0..50] << (this.scan(/./mu).length > 50 ? '...' : '') %></a> <a href="/site_search/?type=t&id=#{this_parent.id}"><img src="/images/plusz.png"/></a> </name-view:>
     <value-view:><a href="#{url_for(this_parent.tender_id ? this_parent.tender : this_parent.contract)}"><%= commify(this) %></a></value-view:>
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'trans_pagination', :sort=>params[:sort]}"/>
@@ -622,21 +622,21 @@
 </def>
 
 <def tag="table-plus-article-interpersonal">
-  <table-plus fields="person, related_person, p2p_relation_type, information_source" without-search-form merge>
+  <table-plus fields="person, related_person, p_to_p_relation_type, information_source" without-search-form merge>
     <!--controls:><delete-button/>/controls:-->
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'interpersonal_pagination', :id => @this.id}"/>
   </table-plus>
 </def>
 
 <def tag="table-plus-article-interorg">
-  <table-plus fields="organization, related_organization, o2o_relation_type, information_source" without-search-form>
+  <table-plus fields="organization, related_organization, o_to_o_relation_type, information_source" without-search-form>
     <!--controls:><delete-button/>/controls:-->
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'interorg_pagination', :id => @this.id}"/>
   </table-plus>
 </def>
 
 <def tag="table-plus-article-person-to-org">
-  <table-plus fields="person, organization, p2o_relation_type, start_time, end_time, information_source" without-search-form>
+  <table-plus fields="person, organization, p_to_o_relation_type, start_time, end_time, information_source" without-search-form>
     <!--controls:><delete-button/>/controls:-->
     <end-time-view:>
       <view format="%B %d, %Y" if="&!this_parent.no_end_time"/>
@@ -648,25 +648,25 @@
 </def>
 
 <def tag="table-plus-litigation-interpersonal">
-  <table-plus fields="person, p2p_relation_type, related_person, organization, information_source" without-search-form>
+  <table-plus fields="person, p_to_p_relation_type, related_person, organization, information_source" without-search-form>
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'interpersonal_pagination', :id => @this.id}"/>
   </table-plus>
 </def>
 
 <def tag="table-plus-litigation-interorg">
-  <table-plus fields="organization, o2o_relation_type, related_organization, information_source" without-search-form>
+  <table-plus fields="organization, o_to_o_relation_type, related_organization, information_source" without-search-form>
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'interorg_pagination', :id => @this.id}"/>
   </table-plus>
 </def>
 
 <def tag="table-plus-litigation-person-to-org">
-  <table-plus fields="person, p2o_relation_type, organization, start_time, end_time, information_source" without-search-form>
+  <table-plus fields="person, p_to_o_relation_type, organization, start_time, end_time, information_source" without-search-form>
     <page-nav: previous-label="&laquo;" next-label="&raquo;" params="&{:action=>'person_to_org_pagination', :id => @this.id}"/>
   </table-plus>
 </def>
 
 <def tag="table-plus-organization-person-to-org">
-  <table-plus fields="person, o2p_relation_type, start_time, end_time, information_source" without-search-form>
+  <table-plus fields="person, o_to_p_relation_type, start_time, end_time, information_source" without-search-form>
     <!--controls:><delete-button/>/controls:-->
     <article-relations-view:>
       <% this.each do |r| %>
@@ -686,7 +686,7 @@
 </def>
 
 <def tag="table-plus-organization-interorg">
-  <table-plus fields="related_organization, o2o_relation_type, value, currency, vat_incl, contract, tender, information_source" without-search-form>
+  <table-plus fields="related_organization, o_to_o_relation_type, value, currency, vat_incl, contract, tender, information_source" without-search-form>
     <!--controls:><delete-button/>/controls:-->
     <value-view:>
       <view with="&commify(this)"/>
@@ -712,7 +712,7 @@
 </def>
 
 <def tag="table-plus-person-interperson">
-  <table-plus fields="related_person, p2p_relation_type, organization, information_source" without-search-form>
+  <table-plus fields="related_person, p_to_p_relation_type, organization, information_source" without-search-form>
     <!--controls:><delete-button/>/controls:-->
     <article-relations-view:>
       <% this.each do |r| %>
@@ -728,7 +728,7 @@
 </def>
 
 <def tag="table-plus-person-person-to-org">
-  <table-plus fields="organization, p2o_relation_type, start_time, end_time, information_source" without-search-form>
+  <table-plus fields="organization, p_to_o_relation_type, start_time, end_time, information_source" without-search-form>
     <!--controls:><delete-button/>/controls:-->
     <article-relations-view:>
       <% this.each do |r| %>
@@ -993,7 +993,7 @@
       </ul>
     </do>
   </div>
-  <div id="o2o_edge" class="node_attributes" style="#{this.kind_of?(InterorgRelation) ? 'display: block' : 'display:none'}">
+  <div id="o_to_o_edge" class="node_attributes" style="#{this.kind_of?(InterorgRelation) ? 'display: block' : 'display:none'}">
     <do with="&this.kind_of?(InterorgRelation) ? this : InterorgRelation.new">
       <ul>
         <li>Kapcsolat megnevezése: <span class="name"><view:name if-blank="Nincs adat" no-wrapper/></span></li>
@@ -1012,7 +1012,7 @@
 
 
 <def tag="card" for="InformationSource">
-  <card class="o2o-relation-type" param="default" merge>
+  <card class="o_to_o-relation-type" param="default" merge>
     <header: param>
       <h4 param="heading"><a><name/></a></h4>
       internal: <editor:internal/>
@@ -1020,8 +1020,8 @@
   </card>
 </def>
 
-<def tag="card" for="O2oRelationType">
-  <card class="o2o-relation-type" param="default" merge>
+<def tag="card" for="OToORelationType">
+  <card class="o_to_o-relation-type" param="default" merge>
     <header: param>
       <h4 param="heading"><a><name/></a> <span if="&this.pair"> (<view:pair/>)</span></h4>
       parsed: <editor:parsed/>
@@ -1029,8 +1029,8 @@
   </card>
 </def>
 
-<def tag="card" for="O2pRelationType">
-  <card class="o2p-relation-type" param="default" merge>
+<def tag="card" for="OToPRelationType">
+  <card class="o_to_p-relation-type" param="default" merge>
     <header: param>
       <h4 param="heading"><a><name/></a> <span if="&this.pair"> (<view:pair/>)</span></h4>
       parsed: <editor:parsed/>
@@ -1038,8 +1038,8 @@
   </card>
 </def>
 
-<def tag="card" for="P2oRelationType">
-  <card class="p2o-relation-type" param="default" merge>
+<def tag="card" for="PToORelationType">
+  <card class="p_to_o-relation-type" param="default" merge>
     <header: param>
       <h4 param="heading"><a><name/></a> <span if="&this.pair"> (<view:pair/>)</span></h4>
       parsed: <editor:parsed/>
@@ -1047,8 +1047,8 @@
   </card>
 </def>
 
-<def tag="card" for="P2pRelationType">
-  <card class="p2p-relation-type" param="default" merge>
+<def tag="card" for="PToPRelationType">
+  <card class="p_to_p-relation-type" param="default" merge>
     <header: param>
       <h4 param="heading"><a><name/></a> <span if="&this.pair"> (<view:pair/>)</span></h4>
       parsed: <editor:parsed/>

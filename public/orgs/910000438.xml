@@ -5,7 +5,7 @@
 <mezo id = "cf">10</mezo>
 <mezo id = "szam">000438</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">4028 Debrecen, Jánosi utca 11-15. </mezo>
+<mezo id = "cim">4028 Debrecen, JÃ¡nosi utca 11-15. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">14621808209</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20090115</mezo>
-<mezo id = "nev">COMTEX GREEN Elektromos Jármûtechnikai Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">COMTEX GREEN Elektromos JÃ¡rmÅ±technikai ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090115</mezo>
@@ -35,7 +35,7 @@
 <mezo id = "hattol">20090115</mezo>
 <mezo id = "irsz">4028</mezo>
 <mezo id = "hely">Debrecen</mezo>
-<mezo id = "teru">Jánosi utca 11-15.</mezo>
+<mezo id = "teru">JÃ¡nosi utca 11-15.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
@@ -79,7 +79,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090115</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Személygépjármû-, könnyûgépjármû-kereskedelem</mezo>
+<mezo id = "teaszov">SzemÃ©lygÃ©pjÃ¡rmÅ±-, kÃ¶nnyÅ±gÃ©pjÃ¡rmÅ±-kereskedelem</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20090115</mezo>
@@ -97,7 +97,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090115</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb gépjármû-kereskedelem</mezo>
+<mezo id = "teaszov">EgyÃ©b gÃ©pjÃ¡rmÅ±-kereskedelem</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20090115</mezo>
@@ -115,7 +115,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090115</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Gépjármûjavítás, - karbantartás</mezo>
+<mezo id = "teaszov">GÃ©pjÃ¡rmÅ±javÃ­tÃ¡s, - karbantartÃ¡s</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20090115</mezo>
@@ -133,7 +133,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090115</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Gépjármûalkatrész-nagykereskedelem</mezo>
+<mezo id = "teaszov">GÃ©pjÃ¡rmÅ±alkatrÃ©sz-nagykereskedelem</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20090115</mezo>
@@ -151,7 +151,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090115</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Gépjármûalkatrész-kiskereskedelem</mezo>
+<mezo id = "teaszov">GÃ©pjÃ¡rmÅ±alkatrÃ©sz-kiskereskedelem</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -170,8 +170,8 @@
 <rovat id = "13">
 <alrovat id = "2">
 <mezo id = "hattol">20091125</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (vezérigazgató)</mezo>
-<mezo id = "pnev">Szabó János</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (vezÃ©rigazgatÃ³)</mezo>
+<mezo id = "pnev">SzabÃ³ JÃ¡nos</mezo>
 <mezo id = "panev">Haja Ibolya</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20090110</mezo>
@@ -183,15 +183,15 @@
 <alrovat id = "1">
 <mezo id = "hattol">20090115</mezo>
 <mezo id = "cgjsz">1509063890</mezo>
-<mezo id = "nev">OZ Audit Könyvszakértõ Gazdasági Tanácsadó Kft.</mezo>
+<mezo id = "nev">OZ Audit KÃ¶nyvszakÃ©rtÅ‘ GazdasÃ¡gi TanÃ¡csadÃ³ Kft.</mezo>
 <mezo id = "irsz">4400</mezo>
-<mezo id = "hely">Nyíregyháza</mezo>
-<mezo id = "teru">Mártítok</mezo>
+<mezo id = "hely">NyÃ­regyhÃ¡za</mezo>
+<mezo id = "teru">MÃ¡rtÃ­tok</mezo>
 <mezo id = "hsz">9.</mezo>
-<mezo id = "pnev">Orosz Zoltán</mezo>
+<mezo id = "pnev">Orosz ZoltÃ¡n</mezo>
 <mezo id = "panev">Trizner Magdolna</mezo>
 <mezo id = "pirsz">4400</mezo>
-<mezo id = "phely">Nyíregyháza, Vattay altábornagy utca 14.</mezo>
+<mezo id = "phely">NyÃ­regyhÃ¡za, Vattay altÃ¡bornagy utca 14.</mezo>
 <mezo id = "jogvk">20090110</mezo>
 <mezo id = "jogvv">20130531</mezo>
 <mezo id = "valtk">0</mezo>
@@ -215,7 +215,7 @@
 <mezo id = "adosz">14621808209</mezo>
 <mezo id = "kadosz">HU14621808</mezo>
 <mezo id = "bkelt">20110720</mezo>
-<mezo id = "megj">Státusz kezdete: 2009/01/14</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 2009/01/14</mezo>
 </alrovat>
 </rovat>
 <rovat id = "99017">

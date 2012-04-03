@@ -5,7 +5,7 @@
 <mezo id = "cf">10</mezo>
 <mezo id = "szam">001527</mezo>
 <mezo id = "nevalrovat">2</mezo>
-<mezo id = "cim">5500 Gyomaendrõd, Kossuth u. 10-12. </mezo>
+<mezo id = "cim">5500 GyomaendrÅ‘d, Kossuth u. 10-12. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">11048572204</mezo>
 </alrovat>
@@ -20,7 +20,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">19980401</mezo>
 <mezo id = "irsz">5500</mezo>
-<mezo id = "hely">Gyomaendrõd</mezo>
+<mezo id = "hely">GyomaendrÅ‘d</mezo>
 <mezo id = "teru">Kossuth u. 10-12.</mezo>
 </alrovat>
 </rovat>
@@ -28,7 +28,7 @@
 <alrovat id = "2">
 <mezo id = "hattol">20050225</mezo>
 <mezo id = "irsz">1055</mezo>
-<mezo id = "hely">Budapest, Balassi Bálint u. 7.</mezo>
+<mezo id = "hely">Budapest, Balassi BÃ¡lint u. 7.</mezo>
 <mezo id = "orsz">HU</mezo>
 </alrovat>
 </rovat>
@@ -222,20 +222,20 @@
 <rovat id = "13">
 <alrovat id = "10">
 <mezo id = "hattol">20040617</mezo>
-<mezo id = "tiszt">igazgatósági tag</mezo>
+<mezo id = "tiszt">igazgatÃ³sÃ¡gi tag</mezo>
 <mezo id = "pnev">Papp Lajos</mezo>
-<mezo id = "panev">Soltész Erzsébet</mezo>
+<mezo id = "panev">SoltÃ©sz ErzsÃ©bet</mezo>
 <mezo id = "pirsz">5500</mezo>
-<mezo id = "phely">Gyomaendrõd, Berzsenyi u. 6/1.</mezo>
+<mezo id = "phely">GyomaendrÅ‘d, Berzsenyi u. 6/1.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20030331</mezo>
 <mezo id = "jogvv">20080331</mezo>
 </alrovat>
 <alrovat id = "16">
 <mezo id = "hattol">20100409</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (vezérigazgató)</mezo>
-<mezo id = "pnev">Fazekas Péter</mezo>
-<mezo id = "panev">Nyéki Mária</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (vezÃ©rigazgatÃ³)</mezo>
+<mezo id = "pnev">Fazekas PÃ©ter</mezo>
+<mezo id = "panev">NyÃ©ki MÃ¡ria</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20090516</mezo>
 <mezo id = "valtk">20100409</mezo>
@@ -247,16 +247,16 @@
 <alrovat id = "9">
 <mezo id = "hattol">20110401</mezo>
 <mezo id = "cgjsz">0109071057</mezo>
-<mezo id = "nev">Deloitte Könyvvizsgáló és Tanácsadó Kft.</mezo>
+<mezo id = "nev">Deloitte KÃ¶nyvvizsgÃ¡lÃ³ Ã©s TanÃ¡csadÃ³ Kft.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1068</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Dózsa György út 84. C. ép.</mezo>
-<mezo id = "pnev">Nagy Zoltán</mezo>
-<mezo id = "panev">Szilágyi Erzsébet</mezo>
+<mezo id = "teru">DÃ³zsa GyÃ¶rgy Ãºt 84. C. Ã©p.</mezo>
+<mezo id = "pnev">Nagy ZoltÃ¡n</mezo>
+<mezo id = "panev">SzilÃ¡gyi ErzsÃ©bet</mezo>
 <mezo id = "pirsz">3000</mezo>
 <mezo id = "phely">Hatvan</mezo>
-<mezo id = "pteru">Görgey u. 32.</mezo>
+<mezo id = "pteru">GÃ¶rgey u. 32.</mezo>
 <mezo id = "jogvk">20110401</mezo>
 <mezo id = "jogvv">20120331</mezo>
 <mezo id = "valtk">20110401</mezo>
@@ -266,8 +266,8 @@
 <rovat id = "15">
 <alrovat id = "16">
 <mezo id = "hattol">20100401</mezo>
-<mezo id = "pnev">Zsámboki Gábor</mezo>
-<mezo id = "panev">Német Mária</mezo>
+<mezo id = "pnev">ZsÃ¡mboki GÃ¡bor</mezo>
+<mezo id = "panev">NÃ©met MÃ¡ria</mezo>
 <mezo id = "jogvk">20100401</mezo>
 <mezo id = "jogvv">20150331</mezo>
 <mezo id = "valtk">20100401</mezo>
@@ -275,7 +275,7 @@
 </alrovat>
 <alrovat id = "17">
 <mezo id = "hattol">20100401</mezo>
-<mezo id = "pnev">Gyergyák György</mezo>
+<mezo id = "pnev">GyergyÃ¡k GyÃ¶rgy</mezo>
 <mezo id = "panev">Budai Eszter</mezo>
 <mezo id = "jogvk">20100401</mezo>
 <mezo id = "jogvv">20150331</mezo>
@@ -284,8 +284,8 @@
 </alrovat>
 <alrovat id = "18">
 <mezo id = "hattol">20100401</mezo>
-<mezo id = "pnev">Bojtor Tamás</mezo>
-<mezo id = "panev">Vajna Ágnes</mezo>
+<mezo id = "pnev">Bojtor TamÃ¡s</mezo>
+<mezo id = "panev">Vajna Ãgnes</mezo>
 <mezo id = "jogvk">20100401</mezo>
 <mezo id = "jogvv">20150331</mezo>
 <mezo id = "valtk">20100401</mezo>
@@ -293,7 +293,7 @@
 </alrovat>
 <alrovat id = "19">
 <mezo id = "hattol">20100401</mezo>
-<mezo id = "pnev">Zsilinszky Mihály</mezo>
+<mezo id = "pnev">Zsilinszky MihÃ¡ly</mezo>
 <mezo id = "panev">Pipis Zsuzsanna</mezo>
 <mezo id = "jogvk">20100401</mezo>
 <mezo id = "jogvv">20150331</mezo>
@@ -305,7 +305,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">19980401</mezo>
 <mezo id = "cgjsz">409001162</mezo>
-<mezo id = "nev">Gyomai Kner Nyomda Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Gyomai Kner Nyomda KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "20">
@@ -326,7 +326,7 @@
 <alrovat id = "10">
 <mezo id = "hattol">20070621</mezo>
 <mezo id = "cgjsz">110042030</mezo>
-<mezo id = "nev">Állami Nyomda Nyilvánosan Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">Ãllami Nyomda NyilvÃ¡nosan MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1102</mezo>
 <mezo id = "hely">Budapest</mezo>
@@ -348,10 +348,10 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Békés Megyei Bíróság mint Cégbíróság elõtt a [04 10 001527] cégjegyzékszámon bejegyzett Gyomai Kner Nyomda Rt.-ben (5500 Gyomaendrõd, Kossuth u. 10-12.) az Állami Nyomda Rt. részvényes (1102 Budapest, Halom u. 5.; cégjegyzékszáma: [01 10 042030]) - az 1999. október 4-i részvény-adásvételi szerzõdéssel - további 7643 db 10 000 Ft névértékû, névre szóló részvényt vásárolt.<ujsor/>
-A részvény-adásvételi szerzõdés eredményeként az Állami Nyomda Rt. 15 643 db részvénnyel és szavazattal rendelkezik a Gyomai Kner Nyomda Rt. által kibocsátott 18 000 db részvénybõl és szavazatból.<ujsor/>
-Az Állami Nyomda Rt. 1999. október 4-e óta a Gyomai Kner Nyomda Rt.-ben közvetlen irányítást biztosító befolyást szerzett, mert a szavazatok több mint 3/4 részével rendelkezik (18 000 szavazatból 15 643 szavazattal, 87%).<ujsor/>
-A hitelezõk a Gt. 296. § (2) bekezdésében foglalt jogaikat gyakorolhatják.<ujsor/>
+<mezo id = "szoveg">A BÃ©kÃ©s Megyei BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g elÅ‘tt a [04 10 001527] cÃ©gjegyzÃ©kszÃ¡mon bejegyzett Gyomai Kner Nyomda Rt.-ben (5500 GyomaendrÅ‘d, Kossuth u. 10-12.) az Ãllami Nyomda Rt. rÃ©szvÃ©nyes (1102 Budapest, Halom u. 5.; cÃ©gjegyzÃ©kszÃ¡ma: [01 10 042030]) - az 1999. oktÃ³ber 4-i rÃ©szvÃ©ny-adÃ¡svÃ©teli szerzÅ‘dÃ©ssel - tovÃ¡bbi 7643 db 10 000 Ft nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³ rÃ©szvÃ©nyt vÃ¡sÃ¡rolt.<ujsor/>
+A rÃ©szvÃ©ny-adÃ¡svÃ©teli szerzÅ‘dÃ©s eredmÃ©nyekÃ©nt az Ãllami Nyomda Rt. 15 643 db rÃ©szvÃ©nnyel Ã©s szavazattal rendelkezik a Gyomai Kner Nyomda Rt. Ã¡ltal kibocsÃ¡tott 18 000 db rÃ©szvÃ©nybÅ‘l Ã©s szavazatbÃ³l.<ujsor/>
+Az Ãllami Nyomda Rt. 1999. oktÃ³ber 4-e Ã³ta a Gyomai Kner Nyomda Rt.-ben kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡st szerzett, mert a szavazatok tÃ¶bb mint 3/4 rÃ©szÃ©vel rendelkezik (18 000 szavazatbÃ³l 15 643 szavazattal, 87%).<ujsor/>
+A hitelezÅ‘k a Gt. 296. Â§ (2) bekezdÃ©sÃ©ben foglalt jogaikat gyakorolhatjÃ¡k.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0410001527</mezo>
 <mezo id = "nev">Gyomai Kner Nyomda Rt.</mezo>
@@ -359,24 +359,24 @@ A hitelezõk a Gt. 296. § (2) bekezdésében foglalt jogaikat gyakorolhatják.<ujsor
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2004. 06. 17-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. A képviselet módja: önálló.<ujsor/>
- Papp Lajos (an: Soltész Erzsébet) igazgatósági tag<ujsor/>
-5500 Gyomaendrõd, Berzsenyi u. 6/1.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2004. 06. 17-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ Papp Lajos (an: SoltÃ©sz ErzsÃ©bet) igazgatÃ³sÃ¡gi tag<ujsor/>
+5500 GyomaendrÅ‘d, Berzsenyi u. 6/1.<ujsor/>
  A jogviszony kezdete: 2003. 03. 31.<ujsor/>
- A jogviszony vége: 2008. 03. 31.<ujsor/>
- Törölve: 2004. 06. 17-i hatállyal.<ujsor/>
- A képviselet módja: önálló.<ujsor/>
- Papp Lajos (an: Tóth Eszter) igazgatósági tag<ujsor/>
-5500 Gyomaendrõd, Berzsenyi u. 6/1.<ujsor/>
+ A jogviszony vÃ©ge: 2008. 03. 31.<ujsor/>
+ TÃ¶rÃ¶lve: 2004. 06. 17-i hatÃ¡llyal.<ujsor/>
+ A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ Papp Lajos (an: TÃ³th Eszter) igazgatÃ³sÃ¡gi tag<ujsor/>
+5500 GyomaendrÅ‘d, Berzsenyi u. 6/1.<ujsor/>
  A jogviszony kezdete: 2003. 03. 31.<ujsor/>
- A jogviszony vége: 2008. 03. 31.<ujsor/>
- Hatályos: 2004. 06. 17-tõl.<ujsor/>
+ A jogviszony vÃ©ge: 2008. 03. 31.<ujsor/>
+ HatÃ¡lyos: 2004. 06. 17-tÅ‘l.<ujsor/>
 Bejegyezve: 2004. 12. 28.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0410001527</mezo>
 <mezo id = "nev">Gyomai Kner Nyomda Rt.</mezo>
-<mezo id = "cim">5500 Gyomaendrõd, Kossuth u. 10-12.</mezo>
+<mezo id = "cim">5500 GyomaendrÅ‘d, Kossuth u. 10-12.</mezo>
 <mezo id = "adosz">11048572204</mezo>
 </alrovat>
 </rovat>

@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">071639</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">7720 Pécsvárad, Erzsébeti utca 5. </mezo>
+<mezo id = "cim">7720 PÃ©csvÃ¡rad, ErzsÃ©beti utca 5. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">14022498202</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20071031</mezo>
-<mezo id = "nev">Kelet-Mecsek Mezõgazdasági Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Kelet-Mecsek MezÅ‘gazdasÃ¡gi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">20071031</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20071005</mezo>
@@ -34,8 +34,8 @@
 <alrovat id = "2">
 <mezo id = "hattol">20091217</mezo>
 <mezo id = "irsz">7720</mezo>
-<mezo id = "hely">Pécsvárad</mezo>
-<mezo id = "teru">Erzsébeti utca 5.</mezo>
+<mezo id = "hely">PÃ©csvÃ¡rad</mezo>
+<mezo id = "teru">ErzsÃ©beti utca 5.</mezo>
 <mezo id = "valtk">20091217</mezo>
 <mezo id = "bkelt">20100302</mezo>
 </alrovat>
@@ -44,7 +44,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20071031</mezo>
 <mezo id = "irsz">7720</mezo>
-<mezo id = "hely">Pécsvárad, Pécsvárad tehenészeti telep 0193/7.</mezo>
+<mezo id = "hely">PÃ©csvÃ¡rad, PÃ©csvÃ¡rad tehenÃ©szeti telep 0193/7.</mezo>
 <mezo id = "valtk">20071031</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20071005</mezo>
@@ -53,7 +53,7 @@
 <alrovat id = "2">
 <mezo id = "hattol">20071031</mezo>
 <mezo id = "irsz">7720</mezo>
-<mezo id = "hely">Pécsvárad, Pécsvárad gépmûhely 193/8.</mezo>
+<mezo id = "hely">PÃ©csvÃ¡rad, PÃ©csvÃ¡rad gÃ©pmÅ±hely 193/8.</mezo>
 <mezo id = "valtk">20071031</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20071005</mezo>
@@ -62,7 +62,7 @@
 <alrovat id = "3">
 <mezo id = "hattol">20071031</mezo>
 <mezo id = "irsz">7720</mezo>
-<mezo id = "hely">Pécsvárad, Pécsvárad szárító üzem 193/6.</mezo>
+<mezo id = "hely">PÃ©csvÃ¡rad, PÃ©csvÃ¡rad szÃ¡rÃ­tÃ³ Ã¼zem 193/6.</mezo>
 <mezo id = "valtk">20071031</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20071005</mezo>
@@ -71,7 +71,7 @@
 <alrovat id = "4">
 <mezo id = "hattol">20071031</mezo>
 <mezo id = "irsz">7720</mezo>
-<mezo id = "hely">Pécsvárad, Pécsvárad terménytároló 193/5.</mezo>
+<mezo id = "hely">PÃ©csvÃ¡rad, PÃ©csvÃ¡rad termÃ©nytÃ¡rolÃ³ 193/5.</mezo>
 <mezo id = "valtk">20071031</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20071005</mezo>
@@ -1707,13 +1707,13 @@
 <mezo id = "hattol">20091217</mezo>
 <mezo id = "valtk">20091217</mezo>
 <mezo id = "bkelt">20100302</mezo>
-<mezo id = "teaszov">Gabonaféle (kivéve: rizs), hüvelyes növény, olajos mag termesztése</mezo>
+<mezo id = "teaszov">GabonafÃ©le (kivÃ©ve: rizs), hÃ¼velyes nÃ¶vÃ©ny, olajos mag termesztÃ©se</mezo>
 </alrovat>
 <alrovat id = "200">
 <mezo id = "hattol">20110331</mezo>
 <mezo id = "valtk">20110331</mezo>
 <mezo id = "bkelt">20110712</mezo>
-<mezo id = "teaszov">Tejtermék gyártása</mezo>
+<mezo id = "teaszov">TejtermÃ©k gyÃ¡rtÃ¡sa</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -1732,9 +1732,9 @@
 <rovat id = "13">
 <alrovat id = "4">
 <mezo id = "hattol">20091217</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Faragó László</mezo>
-<mezo id = "panev">Gálos Irén</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">FaragÃ³ LÃ¡szlÃ³</mezo>
+<mezo id = "panev">GÃ¡los IrÃ©n</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20080401</mezo>
 <mezo id = "valtk">20091217</mezo>
@@ -1746,16 +1746,16 @@
 <alrovat id = "2">
 <mezo id = "hattol">20110401</mezo>
 <mezo id = "cgjsz">0209060044</mezo>
-<mezo id = "nev">COTINENTAL DANUBIA Könyvvizsgáló és Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">COTINENTAL DANUBIA KÃ¶nyvvizsgÃ¡lÃ³ Ã©s TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">7624</mezo>
-<mezo id = "hely">Pécs</mezo>
-<mezo id = "teru">Alkotmány utca 42.</mezo>
-<mezo id = "pnev">Gyurka László József</mezo>
-<mezo id = "panev">Avar Ágnes Piroska</mezo>
+<mezo id = "hely">PÃ©cs</mezo>
+<mezo id = "teru">AlkotmÃ¡ny utca 42.</mezo>
+<mezo id = "pnev">Gyurka LÃ¡szlÃ³ JÃ³zsef</mezo>
+<mezo id = "panev">Avar Ãgnes Piroska</mezo>
 <mezo id = "pirsz">7635</mezo>
-<mezo id = "phely">Pécs</mezo>
-<mezo id = "pteru">Csoronika dûlõ 16.</mezo>
+<mezo id = "phely">PÃ©cs</mezo>
+<mezo id = "pteru">Csoronika dÅ±lÅ‘ 16.</mezo>
 <mezo id = "jogvk">20110401</mezo>
 <mezo id = "jogvv">20120531</mezo>
 <mezo id = "valtk">20110401</mezo>
@@ -1765,10 +1765,10 @@
 <rovat id = "15">
 <alrovat id = "8">
 <mezo id = "hattol">20110407</mezo>
-<mezo id = "pnev">Szaxon József Attila</mezo>
-<mezo id = "panev">Belme Márta</mezo>
+<mezo id = "pnev">Szaxon JÃ³zsef Attila</mezo>
+<mezo id = "panev">Belme MÃ¡rta</mezo>
 <mezo id = "pirsz">2943</mezo>
-<mezo id = "phely">Bábolna</mezo>
+<mezo id = "phely">BÃ¡bolna</mezo>
 <mezo id = "pteru">IKR Park</mezo>
 <mezo id = "jogvk">20110407</mezo>
 <mezo id = "valtk">20110407</mezo>
@@ -1776,22 +1776,22 @@
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">20110407</mezo>
-<mezo id = "pnev">Német Zsolt</mezo>
-<mezo id = "panev">Barta Irén</mezo>
+<mezo id = "pnev">NÃ©met Zsolt</mezo>
+<mezo id = "panev">Barta IrÃ©n</mezo>
 <mezo id = "pirsz">2890</mezo>
 <mezo id = "phely">Tata</mezo>
-<mezo id = "pteru">Aradi Vértanúk útja 11.</mezo>
+<mezo id = "pteru">Aradi VÃ©rtanÃºk Ãºtja 11.</mezo>
 <mezo id = "jogvk">20110407</mezo>
 <mezo id = "valtk">20110407</mezo>
 <mezo id = "bkelt">20110712</mezo>
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">20110407</mezo>
-<mezo id = "pnev">Földvári János</mezo>
-<mezo id = "panev">Nyúl Erzsébet</mezo>
+<mezo id = "pnev">FÃ¶ldvÃ¡ri JÃ¡nos</mezo>
+<mezo id = "panev">NyÃºl ErzsÃ©bet</mezo>
 <mezo id = "pirsz">7940</mezo>
-<mezo id = "phely">Szentlõrinc</mezo>
-<mezo id = "pteru">Szent István utca 18.</mezo>
+<mezo id = "phely">SzentlÅ‘rinc</mezo>
+<mezo id = "pteru">Szent IstvÃ¡n utca 18.</mezo>
 <mezo id = "jogvk">20110407</mezo>
 <mezo id = "valtk">20110407</mezo>
 <mezo id = "bkelt">20110712</mezo>
@@ -1801,7 +1801,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20071031</mezo>
 <mezo id = "cgjsz">210060176</mezo>
-<mezo id = "nev">Kelet-Mecsek Mezõgazdasági Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">Kelet-Mecsek MezÅ‘gazdasÃ¡gi ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "atdat">20071031</mezo>
 <mezo id = "valtk">20071031</mezo>
 <mezo id = "valtv">0</mezo>
@@ -1824,17 +1824,17 @@
 <mezo id = "adosz">14022498202</mezo>
 <mezo id = "kadosz">HU14022498</mezo>
 <mezo id = "bkelt">20110715</mezo>
-<mezo id = "megj">Státusz kezdete: 2007/08/23</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 2007/08/23</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0109">
 <alrovat id = "1">
 <mezo id = "hattol">20071031</mezo>
 <mezo id = "cgjsz">1110000083</mezo>
-<mezo id = "nev">IKR Termelésfejlesztési és Kereskedelmi Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">IKR TermelÃ©sfejlesztÃ©si Ã©s Kereskedelmi ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2943</mezo>
-<mezo id = "hely">Bábolna</mezo>
+<mezo id = "hely">BÃ¡bolna</mezo>
 <mezo id = "teru">IKR Park</mezo>
 <mezo id = "tagsk">20071031</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -1846,10 +1846,10 @@
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20071031</mezo>
-<mezo id = "pnev">Gyõrfi Ödön</mezo>
-<mezo id = "panev">Nagy Erzsébet</mezo>
+<mezo id = "pnev">GyÅ‘rfi Ã–dÃ¶n</mezo>
+<mezo id = "panev">Nagy ErzsÃ©bet</mezo>
 <mezo id = "pirsz">7696</mezo>
-<mezo id = "phely">Hidas, Vörösmarty u. 29.</mezo>
+<mezo id = "phely">Hidas, VÃ¶rÃ¶smarty u. 29.</mezo>
 <mezo id = "tagsk">20071031</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20071031</mezo>
@@ -1859,10 +1859,10 @@
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20071031</mezo>
-<mezo id = "pnev">Panta Dezsõné született Beczõ Anna</mezo>
+<mezo id = "pnev">Panta DezsÅ‘nÃ© szÃ¼letett BeczÅ‘ Anna</mezo>
 <mezo id = "panev">Pap Anna</mezo>
 <mezo id = "pirsz">7632</mezo>
-<mezo id = "phely">Pécs, Bimbó u. 18.</mezo>
+<mezo id = "phely">PÃ©cs, BimbÃ³ u. 18.</mezo>
 <mezo id = "tagsk">20071031</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20071031</mezo>
@@ -1873,9 +1873,9 @@
 <alrovat id = "5">
 <mezo id = "hattol">20071031</mezo>
 <mezo id = "pnev">Walter Tivadar</mezo>
-<mezo id = "panev">Drinóczi Jolán</mezo>
+<mezo id = "panev">DrinÃ³czi JolÃ¡n</mezo>
 <mezo id = "pirsz">7720</mezo>
-<mezo id = "phely">Pécsvárad, Szentháromság tér 7/B.</mezo>
+<mezo id = "phely">PÃ©csvÃ¡rad, SzenthÃ¡romsÃ¡g tÃ©r 7/B.</mezo>
 <mezo id = "tagsk">20071031</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20071031</mezo>
@@ -1885,10 +1885,10 @@
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20071031</mezo>
-<mezo id = "pnev">Dr. Rózsa Éva született Rózsa Éva</mezo>
-<mezo id = "panev">Reiter Éva</mezo>
+<mezo id = "pnev">Dr. RÃ³zsa Ã‰va szÃ¼letett RÃ³zsa Ã‰va</mezo>
+<mezo id = "panev">Reiter Ã‰va</mezo>
 <mezo id = "pirsz">7626</mezo>
-<mezo id = "phely">Pécs, Felsõvámház u. 49.</mezo>
+<mezo id = "phely">PÃ©cs, FelsÅ‘vÃ¡mhÃ¡z u. 49.</mezo>
 <mezo id = "tagsk">20071031</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20071031</mezo>
@@ -1898,10 +1898,10 @@
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">20071031</mezo>
-<mezo id = "pnev">Kiss Sándorné született Bölöcskei Etelka</mezo>
-<mezo id = "panev">Dózsa Etelka</mezo>
+<mezo id = "pnev">Kiss SÃ¡ndornÃ© szÃ¼letett BÃ¶lÃ¶cskei Etelka</mezo>
+<mezo id = "panev">DÃ³zsa Etelka</mezo>
 <mezo id = "pirsz">7720</mezo>
-<mezo id = "phely">Pécsvárad, Kossuth u. 45.</mezo>
+<mezo id = "phely">PÃ©csvÃ¡rad, Kossuth u. 45.</mezo>
 <mezo id = "tagsk">20071031</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20071031</mezo>
@@ -1911,10 +1911,10 @@
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">20110331</mezo>
-<mezo id = "pnev">Faragó László</mezo>
-<mezo id = "panev">Gálos Irén</mezo>
+<mezo id = "pnev">FaragÃ³ LÃ¡szlÃ³</mezo>
+<mezo id = "panev">GÃ¡los IrÃ©n</mezo>
 <mezo id = "pirsz">7624</mezo>
-<mezo id = "phely">Pécs</mezo>
+<mezo id = "phely">PÃ©cs</mezo>
 <mezo id = "pteru">Damjanich u. 41/A.</mezo>
 <mezo id = "tagsk">20110331</mezo>
 <mezo id = "valtk">20110331</mezo>

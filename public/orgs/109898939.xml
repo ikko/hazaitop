@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">898939</mezo>
 <mezo id = "nevalrovat">2</mezo>
-<mezo id = "cim">1037 Budapest, Perényi út 8. b. ép. </mezo>
+<mezo id = "cim">1037 Budapest, PerÃ©nyi Ãºt 8. b. Ã©p. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">14327339241</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20080620</mezo>
-<mezo id = "nev">MED-PRO HUNGARY Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">MED-PRO HUNGARY SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">20080620</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20080711</mezo>
@@ -25,7 +25,7 @@
 <mezo id = "hattol">20100701</mezo>
 <mezo id = "irsz">1037</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Perényi út 8. b. ép.</mezo>
+<mezo id = "teru">PerÃ©nyi Ãºt 8. b. Ã©p.</mezo>
 <mezo id = "valtk">20100701</mezo>
 <mezo id = "bkelt">20100713</mezo>
 </alrovat>
@@ -1239,9 +1239,9 @@
 <rovat id = "13">
 <alrovat id = "4">
 <mezo id = "hattol">20100701</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Raffainé Filkorn Gabriella Ilona</mezo>
-<mezo id = "panev">Szabó Róza</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">RaffainÃ© Filkorn Gabriella Ilona</mezo>
+<mezo id = "panev">SzabÃ³ RÃ³za</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100701</mezo>
 <mezo id = "valtk">20100701</mezo>
@@ -1250,8 +1250,8 @@
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20100701</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Raffai András</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Raffai AndrÃ¡s</mezo>
 <mezo id = "panev">Filkorn Gabriella</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100701</mezo>
@@ -1261,9 +1261,9 @@
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20100701</mezo>
-<mezo id = "tiszt">cégvezetõ</mezo>
-<mezo id = "pnev">Czuk Miklós</mezo>
-<mezo id = "panev">Kálmán Mária</mezo>
+<mezo id = "tiszt">cÃ©gvezetÅ‘</mezo>
+<mezo id = "pnev">Czuk MiklÃ³s</mezo>
+<mezo id = "panev">KÃ¡lmÃ¡n MÃ¡ria</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20080620</mezo>
 <mezo id = "valtk">20100701</mezo>
@@ -1303,8 +1303,8 @@
 <rovat id = "0109">
 <alrovat id = "3">
 <mezo id = "hattol">20100701</mezo>
-<mezo id = "pnev">Raffainé Filkorn Gabriella Ilona</mezo>
-<mezo id = "panev">Szabó Róza</mezo>
+<mezo id = "pnev">RaffainÃ© Filkorn Gabriella Ilona</mezo>
+<mezo id = "panev">SzabÃ³ RÃ³za</mezo>
 <mezo id = "tagsk">20100701</mezo>
 <mezo id = "sz1">x</mezo>
 <mezo id = "valtk">20100701</mezo>
@@ -1320,7 +1320,7 @@
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20100701</mezo>
-<mezo id = "pnev">Raffai András</mezo>
+<mezo id = "pnev">Raffai AndrÃ¡s</mezo>
 <mezo id = "panev">Filkorn Gabriella</mezo>
 <mezo id = "tagsk">20100701</mezo>
 <mezo id = "valtk">20100701</mezo>
@@ -1331,36 +1331,36 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a változásbejegyzés iránt 2008. 07. 03. napján elõterjesztett kérelmet<ujsor/>
-hiánypótlási eljárás lefolytatása nélkül elutasítja.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a vÃ¡ltozÃ¡sbejegyzÃ©s irÃ¡nt 2008. 07. 03. napjÃ¡n elÅ‘terjesztett kÃ©relmet<ujsor/>
+hiÃ¡nypÃ³tlÃ¡si eljÃ¡rÃ¡s lefolytatÃ¡sa nÃ©lkÃ¼l elutasÃ­tja.<ujsor/>
 2008. 07. 04.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109898939</mezo>
-<mezo id = "nev">MED-PRO HUNGARY Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">MED-PRO HUNGARY SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1171 Budapest, Lemberg utca 147.</mezo>
 <mezo id = "adosz">14327339242</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2008. 07. 11-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2008. 07. 11-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
 03. MED-PRO Hungary Kft.<ujsor/>
- A változás idõpontja: 2008. 06. 20.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 06. 20.<ujsor/>
  Bejegyezve: 2008. 06. 20.<ujsor/>
-11. 6 000 000 azaz hatmillió Ft.<ujsor/>
- A változás idõpontja: 2008. 06. 20.<ujsor/>
+11. 6 000 000 azaz hatmilliÃ³ Ft.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 06. 20.<ujsor/>
  Bejegyezve: 2008. 06. 20.<ujsor/>
-13. A képviselet módja: önálló.<ujsor/>
- Tisztsége: cégvezetõ.<ujsor/>
- Czuk Miklós (an: Kálmán Mária)<ujsor/>
-8881 Sormás, Béke utca 11.<ujsor/>
+13. A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: cÃ©gvezetÅ‘.<ujsor/>
+ Czuk MiklÃ³s (an: KÃ¡lmÃ¡n MÃ¡ria)<ujsor/>
+8881 SormÃ¡s, BÃ©ke utca 11.<ujsor/>
  A jogviszony kezdete: 2008. 06. 20.<ujsor/>
- A változás idõpontja: 2008. 06. 20.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 06. 20.<ujsor/>
  Bejegyezve: 2008. 06. 20.<ujsor/>
 2008. 09. 15.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109898939</mezo>
-<mezo id = "nev">MED-PRO HUNGARY Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">MED-PRO HUNGARY SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1171 Budapest, Lemberg utca 147.</mezo>
 <mezo id = "adosz">14327339242</mezo>
 </alrovat>

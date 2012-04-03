@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">085692</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">2310 Szigetszentmiklós, Dr. Lengyel Lajos utca 31. </mezo>
+<mezo id = "cim">2310 SzigetszentmiklÃ³s, Dr. Lengyel Lajos utca 31. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">12510733213</mezo>
 </alrovat>
@@ -13,20 +13,20 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20000925</mezo>
-<mezo id = "nev">Gere István Sütõdéje Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Gere IstvÃ¡n SÃ¼tÅ‘dÃ©je KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">20000925</mezo>
-<mezo id = "nev">Gere István Sütödéje Kft.</mezo>
+<mezo id = "nev">Gere IstvÃ¡n SÃ¼tÃ¶dÃ©je Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
 <alrovat id = "1">
 <mezo id = "hattol">20000925</mezo>
 <mezo id = "irsz">2310</mezo>
-<mezo id = "hely">Szigetszentmiklós</mezo>
+<mezo id = "hely">SzigetszentmiklÃ³s</mezo>
 <mezo id = "teru">Dr. Lengyel Lajos utca 31.</mezo>
 </alrovat>
 </rovat>
@@ -34,12 +34,12 @@
 <alrovat id = "1">
 <mezo id = "hattol">20040324</mezo>
 <mezo id = "irsz">2310</mezo>
-<mezo id = "hely">Szigetszentmiklós, Bajcsy-Zsilinszky u. 109.</mezo>
+<mezo id = "hely">SzigetszentmiklÃ³s, Bajcsy-Zsilinszky u. 109.</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20080915</mezo>
 <mezo id = "irsz">2310</mezo>
-<mezo id = "hely">Szigetszentmiklós, Szent Miklós útja 3.</mezo>
+<mezo id = "hely">SzigetszentmiklÃ³s, Szent MiklÃ³s Ãºtja 3.</mezo>
 <mezo id = "valtk">20080915</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20081217</mezo>
@@ -50,13 +50,13 @@
 <alrovat id = "1">
 <mezo id = "hattol">20020701</mezo>
 <mezo id = "irsz">2315</mezo>
-<mezo id = "hely">Szigethalom, Fiumei út 88.</mezo>
+<mezo id = "hely">Szigethalom, Fiumei Ãºt 88.</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20090731</mezo>
 <mezo id = "irsz">1117</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Kõrösi J. (Fehérvár úti Vásárcsarnok) 7-9. II/9. üzlet</mezo>
+<mezo id = "teru">KÅ‘rÃ¶si J. (FehÃ©rvÃ¡r Ãºti VÃ¡sÃ¡rcsarnok) 7-9. II/9. Ã¼zlet</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20090731</mezo>
 <mezo id = "bkelt">20090805</mezo>
@@ -65,7 +65,7 @@
 <mezo id = "hattol">20090914</mezo>
 <mezo id = "irsz">2335</mezo>
 <mezo id = "hely">Taksony</mezo>
-<mezo id = "teru">Fõ út 47.</mezo>
+<mezo id = "teru">FÅ‘ Ãºt 47.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20090914</mezo>
 <mezo id = "bkelt">20090922</mezo>
@@ -1046,10 +1046,10 @@
 <rovat id = "13">
 <alrovat id = "2">
 <mezo id = "hattol">20040324</mezo>
-<mezo id = "pnev">Gere István</mezo>
+<mezo id = "pnev">Gere IstvÃ¡n</mezo>
 <mezo id = "panev">Varga Eszter</mezo>
 <mezo id = "pirsz">2310</mezo>
-<mezo id = "phely">Szigetszentmiklós, Bem József u. 6.</mezo>
+<mezo id = "phely">SzigetszentmiklÃ³s, Bem JÃ³zsef u. 6.</mezo>
 <mezo id = "kepvo">X</mezo>
 <mezo id = "tv">2</mezo>
 <mezo id = "jogvk">20060628</mezo>
@@ -1057,8 +1057,8 @@
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20100920</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Gere István</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Gere IstvÃ¡n</mezo>
 <mezo id = "panev">Varga Eszter</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100920</mezo>
@@ -1068,9 +1068,9 @@
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20100920</mezo>
-<mezo id = "tiszt">cégvezetõ</mezo>
-<mezo id = "pnev">Gere István Gergely</mezo>
-<mezo id = "panev">Garzó Márta Terézia</mezo>
+<mezo id = "tiszt">cÃ©gvezetÅ‘</mezo>
+<mezo id = "pnev">Gere IstvÃ¡n Gergely</mezo>
+<mezo id = "panev">GarzÃ³ MÃ¡rta TerÃ©zia</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100920</mezo>
 <mezo id = "jogvv">20150920</mezo>
@@ -1080,9 +1080,9 @@
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">20100920</mezo>
-<mezo id = "tiszt">cégvezetõ</mezo>
-<mezo id = "pnev">Gere Márta Georgina</mezo>
-<mezo id = "panev">Garzó Márta Terézia</mezo>
+<mezo id = "tiszt">cÃ©gvezetÅ‘</mezo>
+<mezo id = "pnev">Gere MÃ¡rta Georgina</mezo>
+<mezo id = "panev">GarzÃ³ MÃ¡rta TerÃ©zia</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100920</mezo>
 <mezo id = "jogvv">20150920</mezo>
@@ -1095,13 +1095,13 @@
 <alrovat id = "4">
 <mezo id = "hattol">20100920</mezo>
 <mezo id = "cgjsz">1309076089</mezo>
-<mezo id = "nev">AUDIT MENTOR Könyvelõ, Könyvvizsgáló és Adótanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">AUDIT MENTOR KÃ¶nyvelÅ‘, KÃ¶nyvvizsgÃ¡lÃ³ Ã©s AdÃ³tanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2360</mezo>
-<mezo id = "hely">Gyál</mezo>
+<mezo id = "hely">GyÃ¡l</mezo>
 <mezo id = "teru">Ady Endre utca 47.</mezo>
-<mezo id = "pnev">Molnár Ágnes</mezo>
-<mezo id = "panev">Rausz Ágnes</mezo>
+<mezo id = "pnev">MolnÃ¡r Ãgnes</mezo>
+<mezo id = "panev">Rausz Ãgnes</mezo>
 <mezo id = "jogvk">20100920</mezo>
 <mezo id = "jogvv">20150530</mezo>
 <mezo id = "valtk">20100920</mezo>
@@ -1112,12 +1112,12 @@
 <alrovat id = "1">
 <mezo id = "hattol">20000925</mezo>
 <mezo id = "cgjsz">1311090529</mezo>
-<mezo id = "nev">Gere István Sütödéje Egyéni Cég</mezo>
+<mezo id = "nev">Gere IstvÃ¡n SÃ¼tÃ¶dÃ©je EgyÃ©ni CÃ©g</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20030619</mezo>
 <mezo id = "cgjsz">1309074417</mezo>
-<mezo id = "nev">GERE PÉKSÉG Sütõipari Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">GERE PÃ‰KSÃ‰G SÃ¼tÅ‘ipari KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "20">
@@ -1136,10 +1136,10 @@
 <rovat id = "0109">
 <alrovat id = "4">
 <mezo id = "hattol">20080306</mezo>
-<mezo id = "pnev">Gere István</mezo>
+<mezo id = "pnev">Gere IstvÃ¡n</mezo>
 <mezo id = "panev">Varga Eszter</mezo>
 <mezo id = "pirsz">2310</mezo>
-<mezo id = "phely">Szigetszentmiklós, Bem József u. 6.</mezo>
+<mezo id = "phely">SzigetszentmiklÃ³s, Bem JÃ³zsef u. 6.</mezo>
 <mezo id = "tagsk">20000628</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "sz2">x</mezo>
@@ -1150,10 +1150,10 @@
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20080306</mezo>
-<mezo id = "pnev">Geréné Garzó Márta</mezo>
-<mezo id = "panev">Kalló Eszter Terézia</mezo>
+<mezo id = "pnev">GerÃ©nÃ© GarzÃ³ MÃ¡rta</mezo>
+<mezo id = "panev">KallÃ³ Eszter TerÃ©zia</mezo>
 <mezo id = "pirsz">2310</mezo>
-<mezo id = "phely">Szigetszentmiklós, Bem József u. 6.</mezo>
+<mezo id = "phely">SzigetszentmiklÃ³s, Bem JÃ³zsef u. 6.</mezo>
 <mezo id = "tagsk">20030330</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20080306</mezo>
@@ -1171,138 +1171,138 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Gere István Sütödéje Korlátolt Felelõsségû Társaság (cégjegyzékszám: [13 09 085692]; székhely: 2310 Szigetszentmiklós, Dr. Lengyel Lajos u. 31.) mint átvevõ társaság és a GERE PÉKSÉG Sütõipari Korlátolt Felelõsségû Társaság (cégjegyzékszám: [13 09 074417]; székhely: 2310 Szigetszentmiklós, Dr. Lengyel Lajos u. 31.) mint beolvadó társaság elhatározták, hogy<ujsor/>
-egyesülnek.<ujsor/>
-Az egyesülés módja beolvadás, mellyel a Gere István Sütõdéje Korlátolt Felelõsségû Társaság a GERE PÉKSÉG Sütõipari Korlátolt Felelõsségû Társaság általános jogutódja lesz, a GERE PÉKSÉG Sütõipari Korlátolt Felelõsségû Társaság pedig megszûnik.<ujsor/>
-Az egyesüléssel elérni kívánt cél: a társaság gazdaságosabb mûködtetése.<ujsor/>
-Az egyesülési szerzõdés megkötésének napja: 2003. március 30.<ujsor/>
-A társasági szerzõdés megkötésének napja: 2003. március 30.<ujsor/>
-Az átvevõ társaság neve az egesülés után változatlanul: Gere István Sütödéje Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhely változatlanul: 2310 Szigetszentmiklós, Dr. Lengyel Lajos u. 31.<ujsor/>
-Mûködésének idõtartama: határozatlan.<ujsor/>
-Az átvevõ társaság vagyonmérleg-tervezetének fõbb adatai:<ujsor/>
-ESZKÖZÖK (aktívák) (E Ft) FORRÁSOK (passzívák) (E Ft)<ujsor/>
-Befektetett eszközök 136 350 Saját tõke 42 811<ujsor/>
-Immateriális javak 0 Jegyzett tõke 3 000<ujsor/>
-Tárgyi eszközök 136 350 Tõketartalék 13 856<ujsor/>
-Befektetett pénzügyi eszközök 0 Eredménytartalék 24 155<ujsor/>
-Forgóeszközök 25 980 Mérleg szerinti eredmény 0<ujsor/>
-Készletek 1 336 Kötelezettségek 117 549<ujsor/>
-Követelések 13 132 Rövid lejáratú kötelezettségek 68 049<ujsor/>
-Értékpapírok 0<ujsor/>
-Pénzeszközök 11 512  <ujsor/>
-ÖSSZESEN: 162 815 ÖSSZESEN: 162 815<ujsor/>
-A beolvadó társaság vagyonmérleg-tervezetének fõbb adatai:<ujsor/>
-ESZKÖZÖK (aktívák) (E Ft) FORRÁSOK (passzívák) (E Ft)<ujsor/>
-Befektetett eszközök 15 789 Saját tõke 30 947<ujsor/>
-Immateriális javak 114 Jegyzett tõke 3 000<ujsor/>
-Tárgyi eszközök 15 675 Tõketartalék 0<ujsor/>
-Befektetett pénzügyi eszközök 0 Eredménytartalék 27 947<ujsor/>
-Forgóeszközök 16 448 Mérleg szerinti eredmény 0<ujsor/>
-Készletek 622 Kötelezettségek 1 191<ujsor/>
-Követelések 14 783 Rövid lejáratú kötelezettségek 1 191<ujsor/>
-Pénzeszközök   <ujsor/>
-ÖSSZESEN: 32 237 ÖSSZESEN: 32 237<ujsor/>
-Az átvevõ társaság vagyonmérleg-tervezetének fõbb adatai az egyesülés után:<ujsor/>
-ESZKÖZÖK (aktívák) (E Ft) FORRÁSOK (passzívák) (E Ft)<ujsor/>
-Befektetett eszközök 152 139 Saját tõke 73 758<ujsor/>
-Immateriális javak 114 Jegyzett tõke 6 000<ujsor/>
-Tárgyi eszközök 152 025 Tõketartalék 13 856<ujsor/>
-Befektetett pénzügyi eszközök 0 Eredménytartalék 41 124<ujsor/>
-Forgóeszközök 31 428 Mérleg szerinti eredmény 0<ujsor/>
-Készletek 1 958 Kötelezettségek 107 740<ujsor/>
-Követelések 16 915 Rövid lejáratú kötelezettségek 58 240<ujsor/>
-Pénzeszközök 12 555  <ujsor/>
-ÖSSZESEN: 184 052 ÖSSZESEN: 184 052<ujsor/>
-A létrejövõ társaság törzstõkéje összesen: 6 000 000 Ft (hatmillió forint), amelybõl 3 035 644 Ft készpénz és 2 964 356 Ft nem pénzbeli hozzájárulás.<ujsor/>
-A létrejövõ társaság tevékenységi köre az átvevõ társaság eddigi tevékenységi körei: 1581 Kenyér, friss tésztaféle gyártása (fõ tevékenység); 5138 Egyéb élelmiszer-nagykereskedelem; 5224 Pékáru-, édesség-kiskereskedelem; 5227 Egyéb élelmiszer-kiskereskedelem; 7020 Ingatlan bérbeadása, üzemeltetése; 7110 Gépkocsikölcsönzés; 7134 Máshova nem sorolt, egyéb gép kölcsönzése; amelyek kiegészülnek a beolvadó társaság alábbi tevékenységi köreivel: 1582 Tartósított lisztes áru gyártása; 5225 Ital-kiskereskedelem; 5523 Egyéb szálláshely-szolgáltatás; továbbá az alábbi tevékenységi körökkel: 7414 Üzletviteli tanácsadás; 7487 Máshová nem sorolt, egyéb gazdasági szolgáltatás.<ujsor/>
-A létrejövõ társaság ügyvezetõje megegyezik az átvevõ társaság korábbi ügyvezetõjével: Gere István (2310 Szigetszentmiklós, Bem József u. 6.).<ujsor/>
-Az egyesülõ társaságok felhívják a hitelezõk figyelmét, hogy a Gt. 66. §-a alapján hitelezõi igényeiket a társaságnak jelentsék be.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">A Gere IstvÃ¡n SÃ¼tÃ¶dÃ©je KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (cÃ©gjegyzÃ©kszÃ¡m: [13 09 085692]; szÃ©khely: 2310 SzigetszentmiklÃ³s, Dr. Lengyel Lajos u. 31.) mint Ã¡tvevÅ‘ tÃ¡rsasÃ¡g Ã©s a GERE PÃ‰KSÃ‰G SÃ¼tÅ‘ipari KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (cÃ©gjegyzÃ©kszÃ¡m: [13 09 074417]; szÃ©khely: 2310 SzigetszentmiklÃ³s, Dr. Lengyel Lajos u. 31.) mint beolvadÃ³ tÃ¡rsasÃ¡g elhatÃ¡roztÃ¡k, hogy<ujsor/>
+egyesÃ¼lnek.<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja beolvadÃ¡s, mellyel a Gere IstvÃ¡n SÃ¼tÅ‘dÃ©je KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g a GERE PÃ‰KSÃ‰G SÃ¼tÅ‘ipari KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g Ã¡ltalÃ¡nos jogutÃ³dja lesz, a GERE PÃ‰KSÃ‰G SÃ¼tÅ‘ipari KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g pedig megszÅ±nik.<ujsor/>
+Az egyesÃ¼lÃ©ssel elÃ©rni kÃ­vÃ¡nt cÃ©l: a tÃ¡rsasÃ¡g gazdasÃ¡gosabb mÅ±kÃ¶dtetÃ©se.<ujsor/>
+Az egyesÃ¼lÃ©si szerzÅ‘dÃ©s megkÃ¶tÃ©sÃ©nek napja: 2003. mÃ¡rcius 30.<ujsor/>
+A tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s megkÃ¶tÃ©sÃ©nek napja: 2003. mÃ¡rcius 30.<ujsor/>
+Az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g neve az egesÃ¼lÃ©s utÃ¡n vÃ¡ltozatlanul: Gere IstvÃ¡n SÃ¼tÃ¶dÃ©je KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khely vÃ¡ltozatlanul: 2310 SzigetszentmiklÃ³s, Dr. Lengyel Lajos u. 31.<ujsor/>
+MÅ±kÃ¶dÃ©sÃ©nek idÅ‘tartama: hatÃ¡rozatlan.<ujsor/>
+Az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) (E Ft) FORRÃSOK (passzÃ­vÃ¡k) (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 136 350 SajÃ¡t tÅ‘ke 42 811<ujsor/>
+ImmateriÃ¡lis javak 0 Jegyzett tÅ‘ke 3 000<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 136 350 TÅ‘ketartalÃ©k 13 856<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 EredmÃ©nytartalÃ©k 24 155<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 25 980 MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+KÃ©szletek 1 336 KÃ¶telezettsÃ©gek 117 549<ujsor/>
+KÃ¶vetelÃ©sek 13 132 RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 68 049<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 0<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 11 512  <ujsor/>
+Ã–SSZESEN: 162 815 Ã–SSZESEN: 162 815<ujsor/>
+A beolvadÃ³ tÃ¡rsasÃ¡g vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) (E Ft) FORRÃSOK (passzÃ­vÃ¡k) (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 15 789 SajÃ¡t tÅ‘ke 30 947<ujsor/>
+ImmateriÃ¡lis javak 114 Jegyzett tÅ‘ke 3 000<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 15 675 TÅ‘ketartalÃ©k 0<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 EredmÃ©nytartalÃ©k 27 947<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 16 448 MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+KÃ©szletek 622 KÃ¶telezettsÃ©gek 1 191<ujsor/>
+KÃ¶vetelÃ©sek 14 783 RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 1 191<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k   <ujsor/>
+Ã–SSZESEN: 32 237 Ã–SSZESEN: 32 237<ujsor/>
+Az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai az egyesÃ¼lÃ©s utÃ¡n:<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) (E Ft) FORRÃSOK (passzÃ­vÃ¡k) (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 152 139 SajÃ¡t tÅ‘ke 73 758<ujsor/>
+ImmateriÃ¡lis javak 114 Jegyzett tÅ‘ke 6 000<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 152 025 TÅ‘ketartalÃ©k 13 856<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 EredmÃ©nytartalÃ©k 41 124<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 31 428 MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+KÃ©szletek 1 958 KÃ¶telezettsÃ©gek 107 740<ujsor/>
+KÃ¶vetelÃ©sek 16 915 RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 58 240<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 12 555  <ujsor/>
+Ã–SSZESEN: 184 052 Ã–SSZESEN: 184 052<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©je Ã¶sszesen: 6 000 000 Ft (hatmilliÃ³ forint), amelybÅ‘l 3 035 644 Ft kÃ©szpÃ©nz Ã©s 2 964 356 Ft nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g tevÃ©kenysÃ©gi kÃ¶re az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g eddigi tevÃ©kenysÃ©gi kÃ¶rei: 1581 KenyÃ©r, friss tÃ©sztafÃ©le gyÃ¡rtÃ¡sa (fÅ‘ tevÃ©kenysÃ©g); 5138 EgyÃ©b Ã©lelmiszer-nagykereskedelem; 5224 PÃ©kÃ¡ru-, Ã©dessÃ©g-kiskereskedelem; 5227 EgyÃ©b Ã©lelmiszer-kiskereskedelem; 7020 Ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se; 7110 GÃ©pkocsikÃ¶lcsÃ¶nzÃ©s; 7134 MÃ¡shova nem sorolt, egyÃ©b gÃ©p kÃ¶lcsÃ¶nzÃ©se; amelyek kiegÃ©szÃ¼lnek a beolvadÃ³ tÃ¡rsasÃ¡g alÃ¡bbi tevÃ©kenysÃ©gi kÃ¶reivel: 1582 TartÃ³sÃ­tott lisztes Ã¡ru gyÃ¡rtÃ¡sa; 5225 Ital-kiskereskedelem; 5523 EgyÃ©b szÃ¡llÃ¡shely-szolgÃ¡ltatÃ¡s; tovÃ¡bbÃ¡ az alÃ¡bbi tevÃ©kenysÃ©gi kÃ¶rÃ¶kkel: 7414 Ãœzletviteli tanÃ¡csadÃ¡s; 7487 MÃ¡shovÃ¡ nem sorolt, egyÃ©b gazdasÃ¡gi szolgÃ¡ltatÃ¡s.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g Ã¼gyvezetÅ‘je megegyezik az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g korÃ¡bbi Ã¼gyvezetÅ‘jÃ©vel: Gere IstvÃ¡n (2310 SzigetszentmiklÃ³s, Bem JÃ³zsef u. 6.).<ujsor/>
+Az egyesÃ¼lÅ‘ tÃ¡rsasÃ¡gok felhÃ­vjÃ¡k a hitelezÅ‘k figyelmÃ©t, hogy a Gt. 66. Â§-a alapjÃ¡n hitelezÅ‘i igÃ©nyeiket a tÃ¡rsasÃ¡gnak jelentsÃ©k be.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">1309085692</mezo>
-<mezo id = "nev">Gere István Sütõdéje Korlátolt Felelõsségü Társaság</mezo>
-<mezo id = "cim">2310 Szigetszentmiklós, Dr. Lengyel Lajos utca 31. </mezo>
+<mezo id = "nev">Gere IstvÃ¡n SÃ¼tÅ‘dÃ©je KorlÃ¡tolt FelelÅ‘ssÃ©gÃ¼ TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2310 SzigetszentmiklÃ³s, Dr. Lengyel Lajos utca 31. </mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Gere István Sütödéje Korlátolt Felelõsségû Társaság (cégjegyzékszám: [13 09 085692]; székhely: 2310 Szigetszentmiklós, Dr. Lengyel Lajos u. 31.) mint átvevõ társaság és a GERE PÉKSÉG Sütõipari Korlátolt Felelõsségû Társaság (cégjegyzékszám: [13 09 074417]; székhely: 2310 Szigetszentmiklós, Dr. Lengyel Lajos u. 31.) mint beolvadó társaság elhatározták, hogy<ujsor/>
-egyesülnek.<ujsor/>
-Az egyesülés módja beolvadás, mellyel a Gere István Sütõdéje Korlátolt Felelõsségû Társaság a GERE PÉKSÉG Sütõipari Korlátolt Felelõsségû Társaság általános jogutódja lesz, a GERE PÉKSÉG Sütõipari Korlátolt Felelõsségû Társaság pedig megszûnik.<ujsor/>
-Az egyesüléssel elérni kívánt cél: a társaság gazdaságosabb mûködtetése.<ujsor/>
-Az egyesülési szerzõdés megkötésének napja: 2003. március 30.<ujsor/>
-A társasági szerzõdés megkötésének napja: 2003. március 30.<ujsor/>
-Az átvevõ társaság neve az egyesülés után változatlanul: Gere István Sütödéje Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhely változatlanul: 2310 Szigetszentmiklós, Dr. Lengyel Lajos u. 31.<ujsor/>
-Mûködésének idõtartama: határozatlan.<ujsor/>
-Az átvevõ társaság vagyonmérleg-tervezetének fõbb adatai:<ujsor/>
-ESZKÖZÖK (aktívák) (E Ft) FORRÁSOK (passzívák) (E Ft)<ujsor/>
-Befektetett eszközök 136 350 Saját tõke 42 811<ujsor/>
-Immateriális javak 0 Jegyzett tõke 3 000<ujsor/>
-Tárgyi eszközök 136 350 Tõketartalék 13 856<ujsor/>
-Befektetett pénzügyi eszközök 0 Eredménytartalék 24 155<ujsor/>
-Forgóeszközök 25 980 Mérleg szerinti eredmény 0<ujsor/>
-Készletek 1 336 Kötelezettségek 117 549<ujsor/>
-Követelések 13 132 Rövid lejáratú kötelezettségek 68 049<ujsor/>
-Értékpapírok 0<ujsor/>
-Pénzeszközök 11 512  <ujsor/>
-ÖSSZESEN: 162 815 ÖSSZESEN: 162 815<ujsor/>
-A beolvadó társaság vagyonmérleg-tervezetének fõbb adatai:<ujsor/>
-ESZKÖZÖK (aktívák) (E Ft) FORRÁSOK (passzívák) (E Ft)<ujsor/>
-Befektetett eszközök 15 789 Saját tõke 30 947<ujsor/>
-Immateriális javak 114 Jegyzett tõke 3 000<ujsor/>
-Tárgyi eszközök 15 675 Tõketartalék 0<ujsor/>
-Befektetett pénzügyi eszközök 0 Eredménytartalék 27 947<ujsor/>
-Forgóeszközök 16 448 Mérleg szerinti eredmény 0<ujsor/>
-Készletek 622 Kötelezettségek 1 191<ujsor/>
-Követelések 14 783 Rövid lejáratú kötelezettségek 1 191<ujsor/>
-Pénzeszközök   <ujsor/>
-ÖSSZESEN: 32 237 ÖSSZESEN: 32 237<ujsor/>
-Az átvevõ társaság vagyonmérleg-tervezetének fõbb adatai az egyesülés után:<ujsor/>
-ESZKÖZÖK (aktívák) (E Ft) FORRÁSOK (passzívák) (E Ft)<ujsor/>
-Befektetett eszközök 152 139 Saját tõke 73 758<ujsor/>
-Immateriális javak 114 Jegyzett tõke 6 000<ujsor/>
-Tárgyi eszközök 152 025 Tõketartalék 13 856<ujsor/>
-Befektetett pénzügyi eszközök 0 Eredménytartalék 41 124<ujsor/>
-Forgóeszközök 31 428 Mérleg szerinti eredmény 0<ujsor/>
-Készletek 1 958 Kötelezettségek 107 740<ujsor/>
-Követelések 16 915 Rövid lejáratú kötelezettségek 58 240<ujsor/>
-Pénzeszközök 12 555  <ujsor/>
-ÖSSZESEN: 184 052 ÖSSZESEN: 184 052<ujsor/>
-A létrejövõ társaság törzstõkéje összesen: 6 000 000 Ft (hatmillió forint), amelybõl 3 035 644 Ft készpénz és 2 964 356 Ft nem pénzbeli hozzájárulás.<ujsor/>
-A létrejövõ társaság tevékenységi köre az átvevõ társaság eddigi tevékenységi körei: 1581 Kenyér, friss tésztaféle gyártása (fõ tevékenység); 5138 Egyéb élelmiszer-nagykereskedelem; 5224 Pékáru-, édesség-kiskereskedelem; 5227 Egyéb élelmiszer-kiskereskedelem; 7020 Ingatlan bérbeadása, üzemeltetése; 7110 Gépkocsikölcsönzés; 7134 Máshova nem sorolt, egyéb gép kölcsönzése; amelyek kiegészülnek a beolvadó társaság alábbi tevékenységi köreivel: 1582 Tartósított lisztes áru gyártása; 5225 Ital-kiskereskedelem; 5523 Egyéb szálláshely-szolgáltatás; továbbá az alábbi tevékenységi körökkel: 7414 Üzletviteli tanácsadás; 7487 Máshová nem sorolt, egyéb gazdasági szolgáltatás.<ujsor/>
-A létrejövõ társaság ügyvezetõje megegyezik az átvevõ társaság korábbi ügyvezetõjével: Gere István (2310 Szigetszentmiklós, Bem József u. 6.).<ujsor/>
-Az egyesülõ társaságok felhívják a hitelezõk figyelmét, hogy a Gt. 66. §-a alapján hitelezõi igényeiket a társaságnak jelentsék be.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">A Gere IstvÃ¡n SÃ¼tÃ¶dÃ©je KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (cÃ©gjegyzÃ©kszÃ¡m: [13 09 085692]; szÃ©khely: 2310 SzigetszentmiklÃ³s, Dr. Lengyel Lajos u. 31.) mint Ã¡tvevÅ‘ tÃ¡rsasÃ¡g Ã©s a GERE PÃ‰KSÃ‰G SÃ¼tÅ‘ipari KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (cÃ©gjegyzÃ©kszÃ¡m: [13 09 074417]; szÃ©khely: 2310 SzigetszentmiklÃ³s, Dr. Lengyel Lajos u. 31.) mint beolvadÃ³ tÃ¡rsasÃ¡g elhatÃ¡roztÃ¡k, hogy<ujsor/>
+egyesÃ¼lnek.<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja beolvadÃ¡s, mellyel a Gere IstvÃ¡n SÃ¼tÅ‘dÃ©je KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g a GERE PÃ‰KSÃ‰G SÃ¼tÅ‘ipari KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g Ã¡ltalÃ¡nos jogutÃ³dja lesz, a GERE PÃ‰KSÃ‰G SÃ¼tÅ‘ipari KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g pedig megszÅ±nik.<ujsor/>
+Az egyesÃ¼lÃ©ssel elÃ©rni kÃ­vÃ¡nt cÃ©l: a tÃ¡rsasÃ¡g gazdasÃ¡gosabb mÅ±kÃ¶dtetÃ©se.<ujsor/>
+Az egyesÃ¼lÃ©si szerzÅ‘dÃ©s megkÃ¶tÃ©sÃ©nek napja: 2003. mÃ¡rcius 30.<ujsor/>
+A tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s megkÃ¶tÃ©sÃ©nek napja: 2003. mÃ¡rcius 30.<ujsor/>
+Az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g neve az egyesÃ¼lÃ©s utÃ¡n vÃ¡ltozatlanul: Gere IstvÃ¡n SÃ¼tÃ¶dÃ©je KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khely vÃ¡ltozatlanul: 2310 SzigetszentmiklÃ³s, Dr. Lengyel Lajos u. 31.<ujsor/>
+MÅ±kÃ¶dÃ©sÃ©nek idÅ‘tartama: hatÃ¡rozatlan.<ujsor/>
+Az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) (E Ft) FORRÃSOK (passzÃ­vÃ¡k) (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 136 350 SajÃ¡t tÅ‘ke 42 811<ujsor/>
+ImmateriÃ¡lis javak 0 Jegyzett tÅ‘ke 3 000<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 136 350 TÅ‘ketartalÃ©k 13 856<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 EredmÃ©nytartalÃ©k 24 155<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 25 980 MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+KÃ©szletek 1 336 KÃ¶telezettsÃ©gek 117 549<ujsor/>
+KÃ¶vetelÃ©sek 13 132 RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 68 049<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 0<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 11 512  <ujsor/>
+Ã–SSZESEN: 162 815 Ã–SSZESEN: 162 815<ujsor/>
+A beolvadÃ³ tÃ¡rsasÃ¡g vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) (E Ft) FORRÃSOK (passzÃ­vÃ¡k) (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 15 789 SajÃ¡t tÅ‘ke 30 947<ujsor/>
+ImmateriÃ¡lis javak 114 Jegyzett tÅ‘ke 3 000<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 15 675 TÅ‘ketartalÃ©k 0<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 EredmÃ©nytartalÃ©k 27 947<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 16 448 MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+KÃ©szletek 622 KÃ¶telezettsÃ©gek 1 191<ujsor/>
+KÃ¶vetelÃ©sek 14 783 RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 1 191<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k   <ujsor/>
+Ã–SSZESEN: 32 237 Ã–SSZESEN: 32 237<ujsor/>
+Az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai az egyesÃ¼lÃ©s utÃ¡n:<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) (E Ft) FORRÃSOK (passzÃ­vÃ¡k) (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 152 139 SajÃ¡t tÅ‘ke 73 758<ujsor/>
+ImmateriÃ¡lis javak 114 Jegyzett tÅ‘ke 6 000<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 152 025 TÅ‘ketartalÃ©k 13 856<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 EredmÃ©nytartalÃ©k 41 124<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 31 428 MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+KÃ©szletek 1 958 KÃ¶telezettsÃ©gek 107 740<ujsor/>
+KÃ¶vetelÃ©sek 16 915 RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 58 240<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 12 555  <ujsor/>
+Ã–SSZESEN: 184 052 Ã–SSZESEN: 184 052<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©je Ã¶sszesen: 6 000 000 Ft (hatmilliÃ³ forint), amelybÅ‘l 3 035 644 Ft kÃ©szpÃ©nz Ã©s 2 964 356 Ft nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g tevÃ©kenysÃ©gi kÃ¶re az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g eddigi tevÃ©kenysÃ©gi kÃ¶rei: 1581 KenyÃ©r, friss tÃ©sztafÃ©le gyÃ¡rtÃ¡sa (fÅ‘ tevÃ©kenysÃ©g); 5138 EgyÃ©b Ã©lelmiszer-nagykereskedelem; 5224 PÃ©kÃ¡ru-, Ã©dessÃ©g-kiskereskedelem; 5227 EgyÃ©b Ã©lelmiszer-kiskereskedelem; 7020 Ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se; 7110 GÃ©pkocsikÃ¶lcsÃ¶nzÃ©s; 7134 MÃ¡shova nem sorolt, egyÃ©b gÃ©p kÃ¶lcsÃ¶nzÃ©se; amelyek kiegÃ©szÃ¼lnek a beolvadÃ³ tÃ¡rsasÃ¡g alÃ¡bbi tevÃ©kenysÃ©gi kÃ¶reivel: 1582 TartÃ³sÃ­tott lisztes Ã¡ru gyÃ¡rtÃ¡sa; 5225 Ital-kiskereskedelem; 5523 EgyÃ©b szÃ¡llÃ¡shely-szolgÃ¡ltatÃ¡s; tovÃ¡bbÃ¡ az alÃ¡bbi tevÃ©kenysÃ©gi kÃ¶rÃ¶kkel: 7414 Ãœzletviteli tanÃ¡csadÃ¡s; 7487 MÃ¡shovÃ¡ nem sorolt, egyÃ©b gazdasÃ¡gi szolgÃ¡ltatÃ¡s.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g Ã¼gyvezetÅ‘je megegyezik az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g korÃ¡bbi Ã¼gyvezetÅ‘jÃ©vel: Gere IstvÃ¡n (2310 SzigetszentmiklÃ³s, Bem JÃ³zsef u. 6.).<ujsor/>
+Az egyesÃ¼lÅ‘ tÃ¡rsasÃ¡gok felhÃ­vjÃ¡k a hitelezÅ‘k figyelmÃ©t, hogy a Gt. 66. Â§-a alapjÃ¡n hitelezÅ‘i igÃ©nyeiket a tÃ¡rsasÃ¡gnak jelentsÃ©k be.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">1309085692</mezo>
-<mezo id = "nev">Gere István Sütõdéje Korlátolt Felelõsségü Társaság</mezo>
-<mezo id = "cim">2310 Szigetszentmiklós, Dr. Lengyel Lajos utca 31. </mezo>
+<mezo id = "nev">Gere IstvÃ¡n SÃ¼tÅ‘dÃ©je KorlÃ¡tolt FelelÅ‘ssÃ©gÃ¼ TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2310 SzigetszentmiklÃ³s, Dr. Lengyel Lajos utca 31. </mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2004. 03. 24-én hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (tisztségviselõ).<ujsor/>
- Gere István (an: Varga Eszter)<ujsor/>
-2310 Szigetszentmiklós, Bem József u. 6.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2004. 03. 24-Ã©n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (tisztsÃ©gviselÅ‘).<ujsor/>
+ Gere IstvÃ¡n (an: Varga Eszter)<ujsor/>
+2310 SzigetszentmiklÃ³s, Bem JÃ³zsef u. 6.<ujsor/>
  A jogviszony kezdete: 2006. 06. 28.<ujsor/>
- A jogviszony vége: 2005. 06. 27.<ujsor/>
- Törölve: 2004. 03. 24-i hatállyal.<ujsor/>
- A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (tisztségviselõ).<ujsor/>
- Gere István (an: Varga Eszter)<ujsor/>
-2310 Szigetszentmiklós, Bem József u. 6.<ujsor/>
+ A jogviszony vÃ©ge: 2005. 06. 27.<ujsor/>
+ TÃ¶rÃ¶lve: 2004. 03. 24-i hatÃ¡llyal.<ujsor/>
+ A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (tisztsÃ©gviselÅ‘).<ujsor/>
+ Gere IstvÃ¡n (an: Varga Eszter)<ujsor/>
+2310 SzigetszentmiklÃ³s, Bem JÃ³zsef u. 6.<ujsor/>
  A jogviszony kezdete: 2000. 09. 25.<ujsor/>
- A jogviszony vége: 2005. 09. 25.<ujsor/>
- Hatályos: 2004. 03. 24-tõl.<ujsor/>
+ A jogviszony vÃ©ge: 2005. 09. 25.<ujsor/>
+ HatÃ¡lyos: 2004. 03. 24-tÅ‘l.<ujsor/>
 Bejegyezve: 2004. 06. 22.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1309085692</mezo>
-<mezo id = "nev">Gere István Sütödéje Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">2310 Szigetszentmiklós, Dr. Lengyel Lajos utca 31.</mezo>
+<mezo id = "nev">Gere IstvÃ¡n SÃ¼tÃ¶dÃ©je KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2310 SzigetszentmiklÃ³s, Dr. Lengyel Lajos utca 31.</mezo>
 <mezo id = "adosz">12510733213</mezo>
 </alrovat>
 </rovat>

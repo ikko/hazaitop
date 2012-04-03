@@ -6,7 +6,7 @@
 <mezo id = "szam">000341</mezo>
 <mezo id = "nevalrovat">1</mezo>
 <mezo id = "allapot">6</mezo>
-<mezo id = "cim">1016 Budapest, Krisztina körút 99. IV/403-404. </mezo>
+<mezo id = "cim">1016 Budapest, Krisztina kÃ¶rÃºt 99. IV/403-404. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">21099256241</mezo>
 </alrovat>
@@ -14,12 +14,12 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20010927</mezo>
-<mezo id = "nev">Magyar Építõipar Közhasznú Társaság</mezo>
+<mezo id = "nev">Magyar Ã‰pÃ­tÅ‘ipar KÃ¶zhasznÃº TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "1">
-<mezo id = "nev">Magyar Építóipar Kht.</mezo>
+<mezo id = "nev">Magyar Ã‰pÃ­tÃ³ipar Kht.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
@@ -34,7 +34,7 @@
 <mezo id = "irsz">1016</mezo>
 <mezo id = "hely">Budapest</mezo>
 <mezo id = "teru">Krisztina</mezo>
-<mezo id = "terj">körút 99.</mezo>
+<mezo id = "terj">kÃ¶rÃºt 99.</mezo>
 <mezo id = "hsz">IV/403-404.</mezo>
 <mezo id = "kirsz">0</mezo>
 </alrovat>
@@ -139,10 +139,10 @@
 <rovat id = "13">
 <alrovat id = "5">
 <mezo id = "hattol">20070430</mezo>
-<mezo id = "pnev">Bacsárszki Pál</mezo>
-<mezo id = "panev">Csordás Irén</mezo>
+<mezo id = "pnev">BacsÃ¡rszki PÃ¡l</mezo>
+<mezo id = "panev">CsordÃ¡s IrÃ©n</mezo>
 <mezo id = "pirsz">4266</mezo>
-<mezo id = "phely">Fülöp, Penészleki u. 7. II./4.</mezo>
+<mezo id = "phely">FÃ¼lÃ¶p, PenÃ©szleki u. 7. II./4.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">d</mezo>
 <mezo id = "jogvk">20070430</mezo>
@@ -157,16 +157,16 @@
 <alrovat id = "3">
 <mezo id = "hattol">20080619</mezo>
 <mezo id = "cgjsz">109568769</mezo>
-<mezo id = "nev">BALANSZ - AUDIT Gazdasági Tanácsadó és Könyvvizsgáló Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">BALANSZ - AUDIT GazdasÃ¡gi TanÃ¡csadÃ³ Ã©s KÃ¶nyvvizsgÃ¡lÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1162</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Csömöri</mezo>
+<mezo id = "teru">CsÃ¶mÃ¶ri</mezo>
 <mezo id = "hsz">346</mezo>
-<mezo id = "pnev">Bironyi József</mezo>
+<mezo id = "pnev">Bironyi JÃ³zsef</mezo>
 <mezo id = "panev">Sereg Dominika</mezo>
 <mezo id = "pirsz">1062</mezo>
-<mezo id = "phely">Budapest, Andrássy út 81. 1. em. 1.</mezo>
+<mezo id = "phely">Budapest, AndrÃ¡ssy Ãºt 81. 1. em. 1.</mezo>
 <mezo id = "jogvk">20060619</mezo>
 <mezo id = "jogvv">20100630</mezo>
 <mezo id = "valtk">20080619</mezo>
@@ -178,10 +178,10 @@
 <rovat id = "15">
 <alrovat id = "8">
 <mezo id = "hattol">20080530</mezo>
-<mezo id = "pnev">Szabó Zoltán</mezo>
-<mezo id = "panev">Koncz Zsófia</mezo>
+<mezo id = "pnev">SzabÃ³ ZoltÃ¡n</mezo>
+<mezo id = "panev">Koncz ZsÃ³fia</mezo>
 <mezo id = "pirsz">2083</mezo>
-<mezo id = "phely">Solymár, Kökörcsin utca 31.</mezo>
+<mezo id = "phely">SolymÃ¡r, KÃ¶kÃ¶rcsin utca 31.</mezo>
 <mezo id = "jogvk">20070213</mezo>
 <mezo id = "jogvv">20100630</mezo>
 <mezo id = "valtk">20080530</mezo>
@@ -192,7 +192,7 @@
 <alrovat id = "9">
 <mezo id = "hattol">20080530</mezo>
 <mezo id = "pnev">Lakatos Ervin</mezo>
-<mezo id = "panev">Steiner Rozália</mezo>
+<mezo id = "panev">Steiner RozÃ¡lia</mezo>
 <mezo id = "pirsz">1023</mezo>
 <mezo id = "phely">Budapest, Mecset utca 9.</mezo>
 <mezo id = "jogvk">20060619</mezo>
@@ -204,10 +204,10 @@
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">20080530</mezo>
-<mezo id = "pnev">Skultéti Vilmos</mezo>
-<mezo id = "panev">Jenei Terézia</mezo>
+<mezo id = "pnev">SkultÃ©ti Vilmos</mezo>
+<mezo id = "panev">Jenei TerÃ©zia</mezo>
 <mezo id = "pirsz">8000</mezo>
-<mezo id = "phely">Székesfehérvár, Galántai utca 5.</mezo>
+<mezo id = "phely">SzÃ©kesfehÃ©rvÃ¡r, GalÃ¡ntai utca 5.</mezo>
 <mezo id = "jogvk">20060619</mezo>
 <mezo id = "jogvv">20100630</mezo>
 <mezo id = "valtk">20080530</mezo>
@@ -231,24 +231,24 @@
 <rovat id = "22">
 <alrovat id = "1">
 <mezo id = "jccjsz">0109920628</mezo>
-<mezo id = "nev">Magyar Építõipar Nonprofit Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Magyar Ã‰pÃ­tÅ‘ipar Nonprofit KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0214">
 <alrovat id = "5">
 <mezo id = "hattol">20010927</mezo>
 <mezo id = "cgjsz">110042273</mezo>
-<mezo id = "nev">Vegyimûveket Építõ és Szerelõ Részvénytársaság</mezo>
+<mezo id = "nev">VegyimÅ±veket Ã‰pÃ­tÅ‘ Ã©s SzerelÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1151</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Mogyoród útja</mezo>
+<mezo id = "teru">MogyorÃ³d Ãºtja</mezo>
 <mezo id = "hsz">42.</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">20020212</mezo>
 <mezo id = "cgjsz">110042273</mezo>
-<mezo id = "nev">Vegyépszer Építõ és Szerelõ Részvénytársaság</mezo>
+<mezo id = "nev">VegyÃ©pszer Ã‰pÃ­tÅ‘ Ã©s SzerelÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">8900</mezo>
 <mezo id = "hely">Zalaegerszeg</mezo>
@@ -258,11 +258,11 @@
 <alrovat id = "12">
 <mezo id = "hattol">20070509</mezo>
 <mezo id = "cgjsz">909012824</mezo>
-<mezo id = "nev">REGIO-BAU Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">REGIO-BAU SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">4266</mezo>
-<mezo id = "hely">Fülöp</mezo>
-<mezo id = "teru">Penészleki út</mezo>
+<mezo id = "hely">FÃ¼lÃ¶p</mezo>
+<mezo id = "teru">PenÃ©szleki Ãºt</mezo>
 <mezo id = "hsz">7.</mezo>
 <mezo id = "tagsk">20070215</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -272,11 +272,11 @@
 <alrovat id = "13">
 <mezo id = "hattol">20070430</mezo>
 <mezo id = "cgjsz">310100376</mezo>
-<mezo id = "nev">KÉSZ Holding Vállalkozásfejlesztõ és Vagyonkezelõ Zártkörû Részvénytársaság</mezo>
+<mezo id = "nev">KÃ‰SZ Holding VÃ¡llalkozÃ¡sfejlesztÅ‘ Ã©s VagyonkezelÅ‘ ZÃ¡rtkÃ¶rÅ± RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">6000</mezo>
-<mezo id = "hely">Kecskemét</mezo>
-<mezo id = "teru">Izsáki út</mezo>
+<mezo id = "hely">KecskemÃ©t</mezo>
+<mezo id = "teru">IzsÃ¡ki Ãºt</mezo>
 <mezo id = "hsz">6.</mezo>
 <mezo id = "tagsk">20070430</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -295,46 +295,46 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2002. 04. 04-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2002. 04. 04-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
 05. 1016 Budapest, Krisztina krt. 99. 4. em. 403-.<ujsor/>
- Törölve: 2002. 02. 12-i hatállyal.<ujsor/>
- 1016 Budapest, Krisztina körút 99. IV/403-404.<ujsor/>
- Hatályos: 2002. 02. 12-tõl.<ujsor/>
-2(14). [01 10 042273] Vegyépszer Építõ és Szerelõ Részvénytársaság<ujsor/>
+ TÃ¶rÃ¶lve: 2002. 02. 12-i hatÃ¡llyal.<ujsor/>
+ 1016 Budapest, Krisztina kÃ¶rÃºt 99. IV/403-404.<ujsor/>
+ HatÃ¡lyos: 2002. 02. 12-tÅ‘l.<ujsor/>
+2(14). [01 10 042273] VegyÃ©pszer Ã‰pÃ­tÅ‘ Ã©s SzerelÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g<ujsor/>
 HU 8900 Zalaegerszeg, Kossuth Lajos u. 9-11.<ujsor/>
- Törölve: 2002. 02. 12-i hatállyal.<ujsor/>
- [01 10 042273] Vegyépszer Építõ és Szerelõ Részvénytársaság<ujsor/>
-HU 1151 Budapest, Mogyoród útja 42.<ujsor/>
- Hatályos: 2002. 02. 12-tõl.<ujsor/>
+ TÃ¶rÃ¶lve: 2002. 02. 12-i hatÃ¡llyal.<ujsor/>
+ [01 10 042273] VegyÃ©pszer Ã‰pÃ­tÅ‘ Ã©s SzerelÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g<ujsor/>
+HU 1151 Budapest, MogyorÃ³d Ãºtja 42.<ujsor/>
+ HatÃ¡lyos: 2002. 02. 12-tÅ‘l.<ujsor/>
 Bejegyezve: 2002. 04. 28.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0114000341</mezo>
-<mezo id = "nev">Magyar Építõipar Közhasznú Társaság</mezo>
-<mezo id = "cim">1016 Budapest, Krisztina körút 99. IV/403-404.</mezo>
+<mezo id = "nev">Magyar Ã‰pÃ­tÅ‘ipar KÃ¶zhasznÃº TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1016 Budapest, Krisztina kÃ¶rÃºt 99. IV/403-404.</mezo>
 <mezo id = "adosz">21099256241</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Magyar Építõipar Közhasznú Társaság (Cg.: 01 04 000341]; székhely: 1016 Budapest, Krisztina krt. 99. IV. 403-404.) tagjai a 2008. június 19-én tartott taggyûlésén elhatározták a társaság törzstõkéjének 3 200 000 Ft-ról (hárommillió-kettõszázezer forintról) 500 000 Ft-ra (ötszázezer forintra) történõ leszállítását, a társaság veszteségeinek rendezése érdekében.<ujsor/>
-A törzstõke leszállítását követõen a társaság tagjai törzsbetétjeinek összege 500 000 Ft (ötszázezer forint), amelybõl a REGIOBAU Kft. (Cg.: [09 09 012824]; székhely: 4266 Fülöp, Penészleki út 7.) és a KÉSZ HOLDING Zrt. (Cg.: [03 10 100376]; székhely: 6000 Kecskemét, Izsáki út 6.) törzsbetéte egyaránt 250 000 Ft­250 000 Ft (50­50%).<ujsor/>
-Felhívjuk a társaság hitelezõit, hogy a hirdetmény elsõ alkalommal történõ közzétételét megelõzõen keletkezett és ezen idõpontig esedékessé nem vált követeléseik után ­ a Gt. 162. § (3) bekezdés szerinti kivételekkel ­ a döntés második közzétételét követõ harmincnapos jogvesztõ határidõn belül biztosítékra tarthatnak igényt.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">A Magyar Ã‰pÃ­tÅ‘ipar KÃ¶zhasznÃº TÃ¡rsasÃ¡g (Cg.: 01 04 000341]; szÃ©khely: 1016 Budapest, Krisztina krt. 99. IV. 403-404.) tagjai a 2008. jÃºnius 19-Ã©n tartott taggyÅ±lÃ©sÃ©n elhatÃ¡roztÃ¡k a tÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©jÃ©nek 3 200 000 Ft-rÃ³l (hÃ¡rommilliÃ³-kettÅ‘szÃ¡zezer forintrÃ³l) 500 000 Ft-ra (Ã¶tszÃ¡zezer forintra) tÃ¶rtÃ©nÅ‘ leszÃ¡llÃ­tÃ¡sÃ¡t, a tÃ¡rsasÃ¡g vesztesÃ©geinek rendezÃ©se Ã©rdekÃ©ben.<ujsor/>
+A tÃ¶rzstÅ‘ke leszÃ¡llÃ­tÃ¡sÃ¡t kÃ¶vetÅ‘en a tÃ¡rsasÃ¡g tagjai tÃ¶rzsbetÃ©tjeinek Ã¶sszege 500 000 Ft (Ã¶tszÃ¡zezer forint), amelybÅ‘l a REGIOBAU Kft. (Cg.: [09 09 012824]; szÃ©khely: 4266 FÃ¼lÃ¶p, PenÃ©szleki Ãºt 7.) Ã©s a KÃ‰SZ HOLDING Zrt. (Cg.: [03 10 100376]; szÃ©khely: 6000 KecskemÃ©t, IzsÃ¡ki Ãºt 6.) tÃ¶rzsbetÃ©te egyarÃ¡nt 250 000 FtÂ­250 000 Ft (50Â­50%).<ujsor/>
+FelhÃ­vjuk a tÃ¡rsasÃ¡g hitelezÅ‘it, hogy a hirdetmÃ©ny elsÅ‘ alkalommal tÃ¶rtÃ©nÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkezett Ã©s ezen idÅ‘pontig esedÃ©kessÃ© nem vÃ¡lt kÃ¶vetelÃ©seik utÃ¡n Â­ a Gt. 162. Â§ (3) bekezdÃ©s szerinti kivÃ©telekkel Â­ a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kra tarthatnak igÃ©nyt.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0114000341</mezo>
-<mezo id = "nev">Magyar Építõipar Közhasznú Társaság</mezo>
+<mezo id = "nev">Magyar Ã‰pÃ­tÅ‘ipar KÃ¶zhasznÃº TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1016 Budapest</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Magyar Építõipar Közhasznú Társaság (Cg.: 01 04 000341]; székhely: 1016 Budapest, Krisztina krt. 99. IV. 403­404.) tagjai a 2008. június 19-én tartott taggyûlésén elhatározták a társaság törzstõkéjének 3 200 000 Ft-ról (hárommillió-kettõszázezer forintról) 500 000 Ft-ra (ötszázezer forintra) történõ leszállítását, a társaság veszteségeinek rendezése érdekében.<ujsor/>
-A törzstõke leszállítását követõen a társaság tagjai törzsbetétjeinek összege 500 000 Ft (ötszázezer forint), amelybõl a REGIOBAU Kft. (Cg.: [09 09 012824]; székhely: 4266 Fülöp, Penészleki út 7.) és a KÉSZ HOLDING Zrt. (Cg.: [03 10 100376]; székhely: 6000 Kecskemét, Izsáki út 6.) törzsbetéte egyaránt 250 000 Ft­250 000 Ft (50­50%).<ujsor/>
-Felhívjuk a társaság hitelezõit, hogy a hirdetmény elsõ alkalommal történõ közzétételét megelõzõen keletkezett és ezen idõpontig esedékessé nem vált követeléseik után ­ a Gt. 162. § (3) bekezdés szerinti kivételekkel ­ a döntés második közzétételét követõ harmincnapos jogvesztõ határidõn belül biztosítékra tarthatnak igényt.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">A Magyar Ã‰pÃ­tÅ‘ipar KÃ¶zhasznÃº TÃ¡rsasÃ¡g (Cg.: 01 04 000341]; szÃ©khely: 1016 Budapest, Krisztina krt. 99. IV. 403Â­404.) tagjai a 2008. jÃºnius 19-Ã©n tartott taggyÅ±lÃ©sÃ©n elhatÃ¡roztÃ¡k a tÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©jÃ©nek 3 200 000 Ft-rÃ³l (hÃ¡rommilliÃ³-kettÅ‘szÃ¡zezer forintrÃ³l) 500 000 Ft-ra (Ã¶tszÃ¡zezer forintra) tÃ¶rtÃ©nÅ‘ leszÃ¡llÃ­tÃ¡sÃ¡t, a tÃ¡rsasÃ¡g vesztesÃ©geinek rendezÃ©se Ã©rdekÃ©ben.<ujsor/>
+A tÃ¶rzstÅ‘ke leszÃ¡llÃ­tÃ¡sÃ¡t kÃ¶vetÅ‘en a tÃ¡rsasÃ¡g tagjai tÃ¶rzsbetÃ©tjeinek Ã¶sszege 500 000 Ft (Ã¶tszÃ¡zezer forint), amelybÅ‘l a REGIOBAU Kft. (Cg.: [09 09 012824]; szÃ©khely: 4266 FÃ¼lÃ¶p, PenÃ©szleki Ãºt 7.) Ã©s a KÃ‰SZ HOLDING Zrt. (Cg.: [03 10 100376]; szÃ©khely: 6000 KecskemÃ©t, IzsÃ¡ki Ãºt 6.) tÃ¶rzsbetÃ©te egyarÃ¡nt 250 000 FtÂ­250 000 Ft (50Â­50%).<ujsor/>
+FelhÃ­vjuk a tÃ¡rsasÃ¡g hitelezÅ‘it, hogy a hirdetmÃ©ny elsÅ‘ alkalommal tÃ¶rtÃ©nÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkezett Ã©s ezen idÅ‘pontig esedÃ©kessÃ© nem vÃ¡lt kÃ¶vetelÃ©seik utÃ¡n Â­ a Gt. 162. Â§ (3) bekezdÃ©s szerinti kivÃ©telekkel Â­ a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kra tarthatnak igÃ©nyt.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0114000341</mezo>
-<mezo id = "nev">Magyar Építõipar Közhasznú Társaság</mezo>
+<mezo id = "nev">Magyar Ã‰pÃ­tÅ‘ipar KÃ¶zhasznÃº TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1016 Budapest</mezo>
 </alrovat>
 </rovat>

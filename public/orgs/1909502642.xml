@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">502642</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">8300 Tapolca, Vasút út 2-4. </mezo>
+<mezo id = "cim">8300 Tapolca, VasÃºt Ãºt 2-4. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">11338976219</mezo>
 </alrovat>
@@ -13,13 +13,13 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19960220</mezo>
-<mezo id = "nev">&quot;GÁZ-COOP&quot; Közmû-, Épületgépészeti, Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">&quot;GÃZ-COOP&quot; KÃ¶zmÅ±-, Ã‰pÃ¼letgÃ©pÃ©szeti, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">19960220</mezo>
-<mezo id = "nev">&quot;GÁZ-COOP&quot; Kft.</mezo>
+<mezo id = "nev">&quot;GÃZ-COOP&quot; Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
@@ -27,14 +27,14 @@
 <mezo id = "hattol">20000420</mezo>
 <mezo id = "irsz">8300</mezo>
 <mezo id = "hely">Tapolca</mezo>
-<mezo id = "teru">Vasút út 2-4.</mezo>
+<mezo id = "teru">VasÃºt Ãºt 2-4.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "7">
 <alrovat id = "1">
 <mezo id = "hattol">20060828</mezo>
 <mezo id = "irsz">8344</mezo>
-<mezo id = "hely">Zalaerdõd, Belterület hrsz. 275/1.</mezo>
+<mezo id = "hely">ZalaerdÅ‘d, BelterÃ¼let hrsz. 275/1.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20060816</mezo>
 <mezo id = "valtv">0</mezo>
@@ -42,7 +42,7 @@
 <alrovat id = "2">
 <mezo id = "hattol">20060828</mezo>
 <mezo id = "irsz">8344</mezo>
-<mezo id = "hely">Zalaerdõd, Belterület hrsz. 275/2.</mezo>
+<mezo id = "hely">ZalaerdÅ‘d, BelterÃ¼let hrsz. 275/2.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20060816</mezo>
 <mezo id = "valtv">0</mezo>
@@ -445,10 +445,10 @@
 <rovat id = "13">
 <alrovat id = "6">
 <mezo id = "hattol">20080530</mezo>
-<mezo id = "pnev">Szabó Béla</mezo>
+<mezo id = "pnev">SzabÃ³ BÃ©la</mezo>
 <mezo id = "panev">Elek Zsuzsanna</mezo>
 <mezo id = "pirsz">8300</mezo>
-<mezo id = "phely">Tapolca, Glázer Sándor u. 3.</mezo>
+<mezo id = "phely">Tapolca, GlÃ¡zer SÃ¡ndor u. 3.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">d</mezo>
 <mezo id = "jogvk">20080530</mezo>
@@ -461,10 +461,10 @@
 <rovat id = "14">
 <alrovat id = "3">
 <mezo id = "hattol">20080530</mezo>
-<mezo id = "pnev">Gróf Erzsébet</mezo>
+<mezo id = "pnev">GrÃ³f ErzsÃ©bet</mezo>
 <mezo id = "panev">Torsa Anna</mezo>
 <mezo id = "pirsz">8319</mezo>
-<mezo id = "phely">Lesenceistvánd, Kossuth L. utca 146.</mezo>
+<mezo id = "phely">LesenceistvÃ¡nd, Kossuth L. utca 146.</mezo>
 <mezo id = "jogvk">20080530</mezo>
 <mezo id = "jogvv">20130531</mezo>
 <mezo id = "valtk">20080530</mezo>
@@ -500,10 +500,10 @@
 <alrovat id = "7">
 <mezo id = "hattol">20031110</mezo>
 <mezo id = "k">x</mezo>
-<mezo id = "pnev">Szabó Béla</mezo>
+<mezo id = "pnev">SzabÃ³ BÃ©la</mezo>
 <mezo id = "panev">Elek Zsuzsanna</mezo>
 <mezo id = "pirsz">8300</mezo>
-<mezo id = "phely">Tapolca, Glázer S. u. 3.</mezo>
+<mezo id = "phely">Tapolca, GlÃ¡zer S. u. 3.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "93">
@@ -515,26 +515,26 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2003. 01. 06-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-1(09). Fábián Gábor (an: Dénes Ágnes)<ujsor/>
-8300 Tapolca, Kandó Kálmán u. 2/B.<ujsor/>
- Hatályos: 2002. 12. 12-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2003. 01. 06-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+1(09). FÃ¡biÃ¡n GÃ¡bor (an: DÃ©nes Ãgnes)<ujsor/>
+8300 Tapolca, KandÃ³ KÃ¡lmÃ¡n u. 2/B.<ujsor/>
+ HatÃ¡lyos: 2002. 12. 12-tÅ‘l.<ujsor/>
 Bejegyezve: 2003. 01. 24.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1909502642</mezo>
-<mezo id = "nev">&quot;GÁZ-COOP&quot; Közmû-, Épületgépészeti, Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">8300 Tapolca, Vasút út 2-4.</mezo>
+<mezo id = "nev">&quot;GÃZ-COOP&quot; KÃ¶zmÅ±-, Ã‰pÃ¼letgÃ©pÃ©szeti, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">8300 Tapolca, VasÃºt Ãºt 2-4.</mezo>
 <mezo id = "adosz">11338976219</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Szabó Béla (a. n.: Elek Zsuzsanna), 8300 Tapolca, Glázer S. u. 3. szám alatti lakos közzéteszi, hogy 2003. november 10-én a &quot;GÁZ-COOP&quot; Közmû-, Épületgépészeti, Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaságban (Cg.: [19 09 502642]; székhely: 8300 Tapolca, Vasút u. 2-4.) az üzletrészek 100%-ának megszerzésével közvetlen irányítást biztosító befolyást szerzett.<ujsor/>
-A hitelezõk a Gt. 296. § (2) bekezdése szerinti jogaikat gyakorolhatják.<ujsor/>
+<mezo id = "szoveg">SzabÃ³ BÃ©la (a. n.: Elek Zsuzsanna), 8300 Tapolca, GlÃ¡zer S. u. 3. szÃ¡m alatti lakos kÃ¶zzÃ©teszi, hogy 2003. november 10-Ã©n a &quot;GÃZ-COOP&quot; KÃ¶zmÅ±-, Ã‰pÃ¼letgÃ©pÃ©szeti, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gban (Cg.: [19 09 502642]; szÃ©khely: 8300 Tapolca, VasÃºt u. 2-4.) az Ã¼zletrÃ©szek 100%-Ã¡nak megszerzÃ©sÃ©vel kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡st szerzett.<ujsor/>
+A hitelezÅ‘k a Gt. 296. Â§ (2) bekezdÃ©se szerinti jogaikat gyakorolhatjÃ¡k.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1909502642</mezo>
-<mezo id = "nev">&quot;GÁZ-COOP&quot; Közmû-, Épületgépészeti, Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">8300 Tapolca, Vasút út 2-4. </mezo>
+<mezo id = "nev">&quot;GÃZ-COOP&quot; KÃ¶zmÅ±-, Ã‰pÃ¼letgÃ©pÃ©szeti, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">8300 Tapolca, VasÃºt Ãºt 2-4. </mezo>
 </alrovat>
 </rovat>
 <rovat id = "99017">

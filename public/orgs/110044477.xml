@@ -5,7 +5,7 @@
 <mezo id = "cf">10</mezo>
 <mezo id = "szam">044477</mezo>
 <mezo id = "nevalrovat">5</mezo>
-<mezo id = "cim">1023 Budapest, Zsigmond tér 10. </mezo>
+<mezo id = "cim">1023 Budapest, Zsigmond tÃ©r 10. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">12553828241</mezo>
 </alrovat>
@@ -13,11 +13,11 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20050509</mezo>
-<mezo id = "nev">EDUWEB MULTIMÉDIA Technológia és Távoktatási Részvénytársaság</mezo>
+<mezo id = "nev">EDUWEB MULTIMÃ‰DIA TechnolÃ³gia Ã©s TÃ¡voktatÃ¡si RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20100419</mezo>
-<mezo id = "nev">EDUWEB MULTIMÉDIA Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">EDUWEB MULTIMÃ‰DIA ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">20100419</mezo>
 <mezo id = "bkelt">20100525</mezo>
 </alrovat>
@@ -25,11 +25,11 @@
 <rovat id = "3">
 <alrovat id = "2">
 <mezo id = "hattol">20050509</mezo>
-<mezo id = "nev">EDUWEB MULTIMÉDIA Rt.</mezo>
+<mezo id = "nev">EDUWEB MULTIMÃ‰DIA Rt.</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20060823</mezo>
-<mezo id = "nev">EDUWEB MULTIMÉDIA ZRt .</mezo>
+<mezo id = "nev">EDUWEB MULTIMÃ‰DIA ZRt .</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -51,7 +51,7 @@
 <mezo id = "hattol">20100419</mezo>
 <mezo id = "irsz">1023</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Zsigmond tér 10.</mezo>
+<mezo id = "teru">Zsigmond tÃ©r 10.</mezo>
 <mezo id = "valtk">20100419</mezo>
 <mezo id = "bkelt">20100525</mezo>
 </alrovat>
@@ -839,10 +839,10 @@
 <rovat id = "13">
 <alrovat id = "11">
 <mezo id = "hattol">20041222</mezo>
-<mezo id = "pnev">Halász Mihály</mezo>
+<mezo id = "pnev">HalÃ¡sz MihÃ¡ly</mezo>
 <mezo id = "panev">Rokolya Magdolna Anna</mezo>
 <mezo id = "pirsz">2096</mezo>
-<mezo id = "phely">Üröm, Alkonyat sétány 6.</mezo>
+<mezo id = "phely">ÃœrÃ¶m, Alkonyat sÃ©tÃ¡ny 6.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">2</mezo>
 <mezo id = "jogvk">20041222</mezo>
@@ -850,8 +850,8 @@
 </alrovat>
 <alrovat id = "12">
 <mezo id = "hattol">20041222</mezo>
-<mezo id = "pnev">Hegedûs Sándor Imre</mezo>
-<mezo id = "panev">Czike Mária</mezo>
+<mezo id = "pnev">HegedÅ±s SÃ¡ndor Imre</mezo>
+<mezo id = "panev">Czike MÃ¡ria</mezo>
 <mezo id = "pirsz">1161</mezo>
 <mezo id = "phely">Budapest, Baross utca 107.</mezo>
 <mezo id = "kepve">x</mezo>
@@ -864,7 +864,7 @@
 <mezo id = "pnev">Papi Attila</mezo>
 <mezo id = "panev">Leczki Eszter</mezo>
 <mezo id = "pirsz">1037</mezo>
-<mezo id = "phely">Budapest, Vízmosás lejtõ 10.</mezo>
+<mezo id = "phely">Budapest, VÃ­zmosÃ¡s lejtÅ‘ 10.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">2</mezo>
 <mezo id = "jogvk">20041222</mezo>
@@ -872,10 +872,10 @@
 </alrovat>
 <alrovat id = "14">
 <mezo id = "hattol">20041222</mezo>
-<mezo id = "pnev">Weninger László Pál</mezo>
+<mezo id = "pnev">Weninger LÃ¡szlÃ³ PÃ¡l</mezo>
 <mezo id = "panev">Kelemen Margit</mezo>
 <mezo id = "pirsz">1213</mezo>
-<mezo id = "phely">Budapest, Sügér utca 9.</mezo>
+<mezo id = "phely">Budapest, SÃ¼gÃ©r utca 9.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">2</mezo>
 <mezo id = "jogvk">20041222</mezo>
@@ -883,8 +883,8 @@
 </alrovat>
 <alrovat id = "24">
 <mezo id = "hattol">20100419</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (vezérigazgató)</mezo>
-<mezo id = "pnev">Weninger László Pál</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (vezÃ©rigazgatÃ³)</mezo>
+<mezo id = "pnev">Weninger LÃ¡szlÃ³ PÃ¡l</mezo>
 <mezo id = "panev">Kelemen Margit</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20070201</mezo>
@@ -898,12 +898,12 @@
 <alrovat id = "3">
 <mezo id = "hattol">20041222</mezo>
 <mezo id = "cgjsz">109267553</mezo>
-<mezo id = "nev">Ernst &amp; Young Könyvvizsgáló Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Ernst &amp; Young KÃ¶nyvvizsgÃ¡lÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1132</mezo>
-<mezo id = "hely">Budapest, Váci út 20.</mezo>
-<mezo id = "pnev">Ispánovity Mártonné</mezo>
-<mezo id = "panev">Komanovics Éva</mezo>
+<mezo id = "hely">Budapest, VÃ¡ci Ãºt 20.</mezo>
+<mezo id = "pnev">IspÃ¡novity MÃ¡rtonnÃ©</mezo>
+<mezo id = "panev">Komanovics Ã‰va</mezo>
 <mezo id = "pirsz">1103</mezo>
 <mezo id = "phely">Budapest, Csombor u. 4,/1.</mezo>
 <mezo id = "jogvk">20041222</mezo>
@@ -912,13 +912,13 @@
 <alrovat id = "7">
 <mezo id = "hattol">20100419</mezo>
 <mezo id = "cgjsz">1309082513</mezo>
-<mezo id = "nev">SZÁ-BA Consulting Kft.</mezo>
+<mezo id = "nev">SZÃ-BA Consulting Kft.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2014</mezo>
-<mezo id = "hely">Csobánka</mezo>
-<mezo id = "teru">Szõlõ utca 4.</mezo>
-<mezo id = "pnev">Szántó Katalin</mezo>
-<mezo id = "panev">Császár Ilona</mezo>
+<mezo id = "hely">CsobÃ¡nka</mezo>
+<mezo id = "teru">SzÅ‘lÅ‘ utca 4.</mezo>
+<mezo id = "pnev">SzÃ¡ntÃ³ Katalin</mezo>
+<mezo id = "panev">CsÃ¡szÃ¡r Ilona</mezo>
 <mezo id = "jogvk">20100419</mezo>
 <mezo id = "jogvv">20130531</mezo>
 <mezo id = "valtk">20100419</mezo>
@@ -928,17 +928,17 @@
 <rovat id = "15">
 <alrovat id = "12">
 <mezo id = "hattol">20041222</mezo>
-<mezo id = "pnev">Szántó Anett</mezo>
-<mezo id = "panev">Dósai Edit</mezo>
+<mezo id = "pnev">SzÃ¡ntÃ³ Anett</mezo>
+<mezo id = "panev">DÃ³sai Edit</mezo>
 <mezo id = "pirsz">1032</mezo>
-<mezo id = "phely">Budapest, Teszársz K. u. 3.</mezo>
+<mezo id = "phely">Budapest, TeszÃ¡rsz K. u. 3.</mezo>
 <mezo id = "jogvk">20041222</mezo>
 <mezo id = "jogvv">20080531</mezo>
 </alrovat>
 <alrovat id = "13">
 <mezo id = "hattol">20041222</mezo>
-<mezo id = "pnev">dr. Szûcs Brigitta</mezo>
-<mezo id = "panev">Szász Éva Mária</mezo>
+<mezo id = "pnev">dr. SzÅ±cs Brigitta</mezo>
+<mezo id = "panev">SzÃ¡sz Ã‰va MÃ¡ria</mezo>
 <mezo id = "pirsz">5000</mezo>
 <mezo id = "phely">Szolnok, Nagy Imre krt. 9. fszt. 3.</mezo>
 <mezo id = "jogvk">20041222</mezo>
@@ -946,8 +946,8 @@
 </alrovat>
 <alrovat id = "14">
 <mezo id = "hattol">20041222</mezo>
-<mezo id = "pnev">Boksayné dr. Zsuffa Katalin</mezo>
-<mezo id = "panev">Rácz Erzsébet</mezo>
+<mezo id = "pnev">BoksaynÃ© dr. Zsuffa Katalin</mezo>
+<mezo id = "panev">RÃ¡cz ErzsÃ©bet</mezo>
 <mezo id = "pirsz">1171</mezo>
 <mezo id = "phely">Budapest, Czimra Gyula utca 13.</mezo>
 <mezo id = "jogvk">20041222</mezo>
@@ -955,8 +955,8 @@
 </alrovat>
 <alrovat id = "15">
 <mezo id = "hattol">20041222</mezo>
-<mezo id = "pnev">Szepessy Kornél</mezo>
-<mezo id = "panev">Tóth Mária</mezo>
+<mezo id = "pnev">Szepessy KornÃ©l</mezo>
+<mezo id = "panev">TÃ³th MÃ¡ria</mezo>
 <mezo id = "pirsz">1025</mezo>
 <mezo id = "phely">Budapest, Ali u. 13.</mezo>
 <mezo id = "jogvk">20041222</mezo>
@@ -967,7 +967,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20050509</mezo>
 <mezo id = "cgjsz">110044752</mezo>
-<mezo id = "nev">Antenna Multimédia Technológia és Tartalomszolgáltató Részvénytársaság</mezo>
+<mezo id = "nev">Antenna MultimÃ©dia TechnolÃ³gia Ã©s TartalomszolgÃ¡ltatÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "20">
@@ -996,16 +996,16 @@
 <alrovat id = "3">
 <mezo id = "hattol">20041222</mezo>
 <mezo id = "cgjsz">110044304</mezo>
-<mezo id = "nev">AVENIDA Pénzügyi Szolgáltató Részvénytársaság</mezo>
+<mezo id = "nev">AVENIDA PÃ©nzÃ¼gyi SzolgÃ¡ltatÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1137</mezo>
-<mezo id = "hely">Budapest, Pozsonyi út 14.</mezo>
+<mezo id = "hely">Budapest, Pozsonyi Ãºt 14.</mezo>
 <mezo id = "j">x</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20070521</mezo>
 <mezo id = "cgjsz">110044304</mezo>
-<mezo id = "nev">AVENIDA Pénzügyi Szolgáltató Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">AVENIDA PÃ©nzÃ¼gyi SzolgÃ¡ltatÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1036</mezo>
 <mezo id = "hely">Budapest</mezo>
@@ -1027,397 +1027,397 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az AVENIDA Pénzügyi Szolgáltató Részvénytársaság (cégjegyzékszám: Cg. [01 10 044304]; székhely: 1137 Budapest, Pozsonyi út 14.) az 1997. évi CXLIV. tv. 292. § (1) bekezdés alapján bejelenti, hogy az EDUWEB Távoktatási Részvénytársaságban (cégjegyzékszám: Cg. [01 10 044477]; 1117 Budapest, Hauszmann Alajos u. 2.) többségi irányítást biztosító befolyással rendelkezik, mivel 2003. június 20-tól a társaság részvényeinek 50,07%-ával (3340 szavazat) rendelkezik.<ujsor/>
+<mezo id = "szoveg">Az AVENIDA PÃ©nzÃ¼gyi SzolgÃ¡ltatÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g (cÃ©gjegyzÃ©kszÃ¡m: Cg. [01 10 044304]; szÃ©khely: 1137 Budapest, Pozsonyi Ãºt 14.) az 1997. Ã©vi CXLIV. tv. 292. Â§ (1) bekezdÃ©s alapjÃ¡n bejelenti, hogy az EDUWEB TÃ¡voktatÃ¡si RÃ©szvÃ©nytÃ¡rsasÃ¡gban (cÃ©gjegyzÃ©kszÃ¡m: Cg. [01 10 044477]; 1117 Budapest, Hauszmann Alajos u. 2.) tÃ¶bbsÃ©gi irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡ssal rendelkezik, mivel 2003. jÃºnius 20-tÃ³l a tÃ¡rsasÃ¡g rÃ©szvÃ©nyeinek 50,07%-Ã¡val (3340 szavazat) rendelkezik.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044477</mezo>
-<mezo id = "nev">EDUWEB Távoktatási Részvénytársaság</mezo>
+<mezo id = "nev">EDUWEB TÃ¡voktatÃ¡si RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1117 Budapest, Hauszmann Alajos u. 2. </mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az EDUWEB Távoktatási Részvénytársaság (Cg.: [01 10 044477]; székhelye: 1117 Budapest, Hauszmann A. u. 2.) a 2004. október 6-án meghozott elsõ, és a 2004. december 22-én meghozott második közgyûlési határozat alapján, az Antenna Multimédia Technológia és Tartalomszolgáltató Részvénytársaság (Cg.: [01 10 044752]; székhelye: 1119 Budapest, Kocsis u. 1.) a 2004. október 6-án meghozott elsõ, és a 2004. december 22-én meghozott második közgyûlési határozat alapján, a 2004. december 22-én megkötött egyesülési szerzõdésben foglaltak szerint<ujsor/>
-egyesül.<ujsor/>
-Az egyesülés módja: az Antenna Multimédia Technológia és Tartalomszolgáltató Részvénytársaság az EDUWEB Távoktatási Részvénytársaságba beolvad, melynek során az EDUWEB MULTIMÉDIA Technológia és Távoktatási Részvénytársaság lesz az átvevõ társaság, míg az Antenna Multimédia Technológia és Tartalomszolgáltató Részvénytársaság lesz a beolvadó társaság.<ujsor/>
-A beolvadással továbbmûködõ gazdasági társaság adatai:<ujsor/>
-Cégnév: EDUWEB MULTIMÉDIA Technológia és Távoktatási Rt.<ujsor/>
-Rövidített cégnév: EDUWEB MULTIMÉDIA Rt.<ujsor/>
-Angol nyelvû cégnév: EDUWEB MULTIMEDIA Co.<ujsor/>
-Székhely: 1119 Budapest, Kocsis u. 1.<ujsor/>
+<mezo id = "szoveg">Az EDUWEB TÃ¡voktatÃ¡si RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 044477]; szÃ©khelye: 1117 Budapest, Hauszmann A. u. 2.) a 2004. oktÃ³ber 6-Ã¡n meghozott elsÅ‘, Ã©s a 2004. december 22-Ã©n meghozott mÃ¡sodik kÃ¶zgyÅ±lÃ©si hatÃ¡rozat alapjÃ¡n, az Antenna MultimÃ©dia TechnolÃ³gia Ã©s TartalomszolgÃ¡ltatÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 044752]; szÃ©khelye: 1119 Budapest, Kocsis u. 1.) a 2004. oktÃ³ber 6-Ã¡n meghozott elsÅ‘, Ã©s a 2004. december 22-Ã©n meghozott mÃ¡sodik kÃ¶zgyÅ±lÃ©si hatÃ¡rozat alapjÃ¡n, a 2004. december 22-Ã©n megkÃ¶tÃ¶tt egyesÃ¼lÃ©si szerzÅ‘dÃ©sben foglaltak szerint<ujsor/>
+egyesÃ¼l.<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: az Antenna MultimÃ©dia TechnolÃ³gia Ã©s TartalomszolgÃ¡ltatÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g az EDUWEB TÃ¡voktatÃ¡si RÃ©szvÃ©nytÃ¡rsasÃ¡gba beolvad, melynek sorÃ¡n az EDUWEB MULTIMÃ‰DIA TechnolÃ³gia Ã©s TÃ¡voktatÃ¡si RÃ©szvÃ©nytÃ¡rsasÃ¡g lesz az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g, mÃ­g az Antenna MultimÃ©dia TechnolÃ³gia Ã©s TartalomszolgÃ¡ltatÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g lesz a beolvadÃ³ tÃ¡rsasÃ¡g.<ujsor/>
+A beolvadÃ¡ssal tovÃ¡bbmÅ±kÃ¶dÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g adatai:<ujsor/>
+CÃ©gnÃ©v: EDUWEB MULTIMÃ‰DIA TechnolÃ³gia Ã©s TÃ¡voktatÃ¡si Rt.<ujsor/>
+RÃ¶vidÃ­tett cÃ©gnÃ©v: EDUWEB MULTIMÃ‰DIA Rt.<ujsor/>
+Angol nyelvÅ± cÃ©gnÃ©v: EDUWEB MULTIMEDIA Co.<ujsor/>
+SzÃ©khely: 1119 Budapest, Kocsis u. 1.<ujsor/>
 Telephely: 1117 Budapest, Hauszmann A. u. 2.<ujsor/>
-Az EDUWEB Távoktatási Rt. alapító okirata 2004. december 22-i módosítása (az egyesüléssel létrejövõ EDUWEB MULTIMÉDIA Technológia és Távoktatási Rt. alapító okirata) szerint:<ujsor/>
-Az EDUWEB MULTIMÉDIA Technológia és Távoktatási Rt. tevékenységi köre: 7260 Egyéb számítástechnikai tevékenység (fõ tevékenység); 2211 Könyvkiadás; 2213 Idõszaki kiadvány kiadása; 2214 Hangfelvétel-kiadás; 2215 Egyéb kiadás; 2225 Kisegítõ nyomdai tevékenység; 2231 Hangfelvétel-sokszorosítás; 2232 Videofelvétel-sokszorosítás; 2233 Számítógépes adathordozó sokszorosítása; 2811 Fémszerkezet gyártása; 3220 Ipari híradás-technikai termék gyártása; 5118 Máshova nem sorolt termék ügynöki nagykereskedelme; 5143 Elektromos háztartási cikk nagykereskedelme; 5184 Számítógép, szoftver nagykereskedelme; 5186 Egyéb elektronikus alkatrész nagykereskedelme; 5245 Elektromos háztartási cikk kiskereskedelme; 5247 Könyv-, újság-, papíráru-kiskereskedelem; 5261 Csomagküldõ kiskereskedelem; 5263 Egyéb, nem bolti kiskereskedelem; 5274 Egyéb fogyasztási cikk javítása; 6024 Közúti teherszállítás; 6312 Tárolás, raktározás; 6340 Szállítmányozás; 6420 Távközlés (kivéve: engedélyhez kötött); 7011 Ingatlanberuházás, -eladás; 7020 Ingatlan bérbeadása, üzemeltetése; 7032 Ingatlankezelés; 7140 Fogyasztási cikk kölcsönzése; 7210 Hardver-szaktanácsadás; 7222 Egyéb szoftver-szaktanácsadás, -ellátás; 7230 Adatfeldolgozás; 7240 Adatbázis-tevékenység, on-line-kiadás; 7250 Iroda-, számítógép-javítás; 7260 Egyéb számítástechnikai tevékenység; 7310 Mûszaki kutatás, fejlesztés; 7413 Piac-, közvélemény-kutatás; 7414 Üzletviteli tanácsadás; 7420 Mérnöki tevékenység, tanácsadás; 7430 Mûszaki vizsgálat, elemzés; 7440 Hirdetés; 7450 Munkaerõ-közvetítés; 7481 Fényképészet; 7485 Titkári, fordítói tevékenység; 7486 Telefoninformáció; 7487 Máshová nem sorolt, egyéb gazdasági szolgáltatás; 8042 Máshova nem sorolt felnõtt- és egyéb oktatás; 9002 Hulladékgyûjtés, -kezelés; 9211 Film-, videogyártás; 9212 Film-, videoterjesztés; 9213 Mozgóképvetítés; 9220 Rádió-televízió mûsorszolgáltatás; 9232 Mûvészeti kiegészítõ tevékenység; 9234 Máshova nem sorolható egyéb szórakoztatás; 9251 Könyvtári, levéltári tevékenység.<ujsor/>
-A társaság hatósági engedélyhez kötött tevékenységet csak engedély birtokában folytat.<ujsor/>
-Az EDUWEB MULTIMÉDIA Rt. alaptõkéje: 150 000 000 Ft (egyszázötvenmillió forint), amely teljes egészében nem pénzbeli betétbõl áll.<ujsor/>
-Az alaptõke 15 000 db (tizenötezer darab), egyenként 10 000 Ft (tízezer forint) névértékû, névre szóló, dematerializált törzsrészvénybõl áll.<ujsor/>
-Az EDUWEB MULTIMÉDIA Rt. igazgatóságának tagjai: Papi Attila (a. n.: Leczki Eszter; 1037 Budapest, Vízmosás lejtõ 10.), Weninger László (a. n.: Kelemen Margit; 1213 Budapest, Sügér u. 9.), Hegedûs Sándor (a. n.: Czike Mária; 1161 Budapest, Baross u. 107.), Halász Mihály (a. n.: Rokolya Magdolna Anna; 2096 Üröm, Alkonyat sétány 6.).<ujsor/>
-Az EDUWEB MULTIMÉDIA Rt. felügyelõbizottságának tagjai: Szepessy Kornél (a. n.: Tóth Mária; 1025 Budapest, Ali u. 13.), dr. Szûcs Brigitta (a. n.: Szász Éva Mária; 5000 Szolnok, Nagy Imre krt. 9. fszt. 3.), Boksayné dr. Zsuffa Katalin (a. n.: Rácz Erzsébet; 1171 Budapest, Czimra Gyula u. 13.), Szántó Anett (a. n.: Dósai Edit; 1032 Budapest, Teszársz K. u. 3.).<ujsor/>
-Az EDUWEB MULTIMÉDIA Rt. vezérigazgatója: Kövesdy Gábor (a. n.: Varga Teréz; Budapest, Klebesberg Kunó u. 11.).<ujsor/>
-Az átalakulási vagyonmérleg-tervezetek fõbb adatai:<ujsor/>
+Az EDUWEB TÃ¡voktatÃ¡si Rt. alapÃ­tÃ³ okirata 2004. december 22-i mÃ³dosÃ­tÃ¡sa (az egyesÃ¼lÃ©ssel lÃ©trejÃ¶vÅ‘ EDUWEB MULTIMÃ‰DIA TechnolÃ³gia Ã©s TÃ¡voktatÃ¡si Rt. alapÃ­tÃ³ okirata) szerint:<ujsor/>
+Az EDUWEB MULTIMÃ‰DIA TechnolÃ³gia Ã©s TÃ¡voktatÃ¡si Rt. tevÃ©kenysÃ©gi kÃ¶re: 7260 EgyÃ©b szÃ¡mÃ­tÃ¡stechnikai tevÃ©kenysÃ©g (fÅ‘ tevÃ©kenysÃ©g); 2211 KÃ¶nyvkiadÃ¡s; 2213 IdÅ‘szaki kiadvÃ¡ny kiadÃ¡sa; 2214 HangfelvÃ©tel-kiadÃ¡s; 2215 EgyÃ©b kiadÃ¡s; 2225 KisegÃ­tÅ‘ nyomdai tevÃ©kenysÃ©g; 2231 HangfelvÃ©tel-sokszorosÃ­tÃ¡s; 2232 VideofelvÃ©tel-sokszorosÃ­tÃ¡s; 2233 SzÃ¡mÃ­tÃ³gÃ©pes adathordozÃ³ sokszorosÃ­tÃ¡sa; 2811 FÃ©mszerkezet gyÃ¡rtÃ¡sa; 3220 Ipari hÃ­radÃ¡s-technikai termÃ©k gyÃ¡rtÃ¡sa; 5118 MÃ¡shova nem sorolt termÃ©k Ã¼gynÃ¶ki nagykereskedelme; 5143 Elektromos hÃ¡ztartÃ¡si cikk nagykereskedelme; 5184 SzÃ¡mÃ­tÃ³gÃ©p, szoftver nagykereskedelme; 5186 EgyÃ©b elektronikus alkatrÃ©sz nagykereskedelme; 5245 Elektromos hÃ¡ztartÃ¡si cikk kiskereskedelme; 5247 KÃ¶nyv-, ÃºjsÃ¡g-, papÃ­rÃ¡ru-kiskereskedelem; 5261 CsomagkÃ¼ldÅ‘ kiskereskedelem; 5263 EgyÃ©b, nem bolti kiskereskedelem; 5274 EgyÃ©b fogyasztÃ¡si cikk javÃ­tÃ¡sa; 6024 KÃ¶zÃºti teherszÃ¡llÃ­tÃ¡s; 6312 TÃ¡rolÃ¡s, raktÃ¡rozÃ¡s; 6340 SzÃ¡llÃ­tmÃ¡nyozÃ¡s; 6420 TÃ¡vkÃ¶zlÃ©s (kivÃ©ve: engedÃ©lyhez kÃ¶tÃ¶tt); 7011 IngatlanberuhÃ¡zÃ¡s, -eladÃ¡s; 7020 Ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se; 7032 IngatlankezelÃ©s; 7140 FogyasztÃ¡si cikk kÃ¶lcsÃ¶nzÃ©se; 7210 Hardver-szaktanÃ¡csadÃ¡s; 7222 EgyÃ©b szoftver-szaktanÃ¡csadÃ¡s, -ellÃ¡tÃ¡s; 7230 AdatfeldolgozÃ¡s; 7240 AdatbÃ¡zis-tevÃ©kenysÃ©g, on-line-kiadÃ¡s; 7250 Iroda-, szÃ¡mÃ­tÃ³gÃ©p-javÃ­tÃ¡s; 7260 EgyÃ©b szÃ¡mÃ­tÃ¡stechnikai tevÃ©kenysÃ©g; 7310 MÅ±szaki kutatÃ¡s, fejlesztÃ©s; 7413 Piac-, kÃ¶zvÃ©lemÃ©ny-kutatÃ¡s; 7414 Ãœzletviteli tanÃ¡csadÃ¡s; 7420 MÃ©rnÃ¶ki tevÃ©kenysÃ©g, tanÃ¡csadÃ¡s; 7430 MÅ±szaki vizsgÃ¡lat, elemzÃ©s; 7440 HirdetÃ©s; 7450 MunkaerÅ‘-kÃ¶zvetÃ­tÃ©s; 7481 FÃ©nykÃ©pÃ©szet; 7485 TitkÃ¡ri, fordÃ­tÃ³i tevÃ©kenysÃ©g; 7486 TelefoninformÃ¡ciÃ³; 7487 MÃ¡shovÃ¡ nem sorolt, egyÃ©b gazdasÃ¡gi szolgÃ¡ltatÃ¡s; 8042 MÃ¡shova nem sorolt felnÅ‘tt- Ã©s egyÃ©b oktatÃ¡s; 9002 HulladÃ©kgyÅ±jtÃ©s, -kezelÃ©s; 9211 Film-, videogyÃ¡rtÃ¡s; 9212 Film-, videoterjesztÃ©s; 9213 MozgÃ³kÃ©pvetÃ­tÃ©s; 9220 RÃ¡diÃ³-televÃ­ziÃ³ mÅ±sorszolgÃ¡ltatÃ¡s; 9232 MÅ±vÃ©szeti kiegÃ©szÃ­tÅ‘ tevÃ©kenysÃ©g; 9234 MÃ¡shova nem sorolhatÃ³ egyÃ©b szÃ³rakoztatÃ¡s; 9251 KÃ¶nyvtÃ¡ri, levÃ©ltÃ¡ri tevÃ©kenysÃ©g.<ujsor/>
+A tÃ¡rsasÃ¡g hatÃ³sÃ¡gi engedÃ©lyhez kÃ¶tÃ¶tt tevÃ©kenysÃ©get csak engedÃ©ly birtokÃ¡ban folytat.<ujsor/>
+Az EDUWEB MULTIMÃ‰DIA Rt. alaptÅ‘kÃ©je: 150 000 000 Ft (egyszÃ¡zÃ¶tvenmilliÃ³ forint), amely teljes egÃ©szÃ©ben nem pÃ©nzbeli betÃ©tbÅ‘l Ã¡ll.<ujsor/>
+Az alaptÅ‘ke 15 000 db (tizenÃ¶tezer darab), egyenkÃ©nt 10 000 Ft (tÃ­zezer forint) nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³, dematerializÃ¡lt tÃ¶rzsrÃ©szvÃ©nybÅ‘l Ã¡ll.<ujsor/>
+Az EDUWEB MULTIMÃ‰DIA Rt. igazgatÃ³sÃ¡gÃ¡nak tagjai: Papi Attila (a. n.: Leczki Eszter; 1037 Budapest, VÃ­zmosÃ¡s lejtÅ‘ 10.), Weninger LÃ¡szlÃ³ (a. n.: Kelemen Margit; 1213 Budapest, SÃ¼gÃ©r u. 9.), HegedÅ±s SÃ¡ndor (a. n.: Czike MÃ¡ria; 1161 Budapest, Baross u. 107.), HalÃ¡sz MihÃ¡ly (a. n.: Rokolya Magdolna Anna; 2096 ÃœrÃ¶m, Alkonyat sÃ©tÃ¡ny 6.).<ujsor/>
+Az EDUWEB MULTIMÃ‰DIA Rt. felÃ¼gyelÅ‘bizottsÃ¡gÃ¡nak tagjai: Szepessy KornÃ©l (a. n.: TÃ³th MÃ¡ria; 1025 Budapest, Ali u. 13.), dr. SzÅ±cs Brigitta (a. n.: SzÃ¡sz Ã‰va MÃ¡ria; 5000 Szolnok, Nagy Imre krt. 9. fszt. 3.), BoksaynÃ© dr. Zsuffa Katalin (a. n.: RÃ¡cz ErzsÃ©bet; 1171 Budapest, Czimra Gyula u. 13.), SzÃ¡ntÃ³ Anett (a. n.: DÃ³sai Edit; 1032 Budapest, TeszÃ¡rsz K. u. 3.).<ujsor/>
+Az EDUWEB MULTIMÃ‰DIA Rt. vezÃ©rigazgatÃ³ja: KÃ¶vesdy GÃ¡bor (a. n.: Varga TerÃ©z; Budapest, Klebesberg KunÃ³ u. 11.).<ujsor/>
+Az Ã¡talakulÃ¡si vagyonmÃ©rleg-tervezetek fÅ‘bb adatai:<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK EDUWEB Rt. (záró) AMTT Rt. (záró) EDUWEB Rt. (nyitó)<ujsor/>
-A) Befektetett eszközök 91 205 30 654 121 859<ujsor/>
-I. Immateriális javak 88 616 950 89 566<ujsor/>
-II. Tárgyi eszközök 2 589 29 704 32 293<ujsor/>
-III. Befektetett pénzügyi eszközök 0 0 0<ujsor/>
-B) Forgóeszközök 13 517 244 861 254 611<ujsor/>
-I. Készletek 4 570 16 206 20 776<ujsor/>
-II. Követelések 5 894 227 936 230 063<ujsor/>
-III. Értékpapírok 0 0 0<ujsor/>
-IV. Pénzeszközök 3 053 719 3 772<ujsor/>
-C) Aktív idõbeli elhatárolások 1 186 27 725 28 911<ujsor/>
-ÖSSZESEN: 105 908 303 240 405 381<ujsor/>
+ESZKÃ–ZÃ–K EDUWEB Rt. (zÃ¡rÃ³) AMTT Rt. (zÃ¡rÃ³) EDUWEB Rt. (nyitÃ³)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 91 205 30 654 121 859<ujsor/>
+I. ImmateriÃ¡lis javak 88 616 950 89 566<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 2 589 29 704 32 293<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 0 0<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 13 517 244 861 254 611<ujsor/>
+I. KÃ©szletek 4 570 16 206 20 776<ujsor/>
+II. KÃ¶vetelÃ©sek 5 894 227 936 230 063<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 0 0<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 3 053 719 3 772<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 1 186 27 725 28 911<ujsor/>
+Ã–SSZESEN: 105 908 303 240 405 381<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK EDUWEB Rt. (záró) AMTT Rt. (záró) EDUWEB Rt. (nyitó)<ujsor/>
-D) Saját tõke 41 056 168 907 209 963<ujsor/>
-I. Jegyzett tõke 66 700 134 000 150 000<ujsor/>
-II. Jegyzett, de be nem fizetett tõke 0 0 0<ujsor/>
-III. Tõketartalék 20 040 0 0<ujsor/>
-IV. Eredménytartalék ­45 754 34 907 15 381<ujsor/>
-V. Lekötött tartalék 70 0 44 582<ujsor/>
-VI. Értékelési tartalék 0 0 0<ujsor/>
-VII. Mérleg szerinti eredmény 0 0 0<ujsor/>
-E) Céltartalék 0 0 0<ujsor/>
-F) Kötelezettségek 58 614 84 291 139 138<ujsor/>
-I. Hátra sorolt kötelezettségek 0 0 0<ujsor/>
-II. Hosszú lejáratú kötelezettségek 0 0 0<ujsor/>
-III. Rövid lejáratú kötelezettségek 58 614 84 291 139 138<ujsor/>
-G) Passzív idõbeli elhatárolások 6 238 50 042 56 280<ujsor/>
-ÖSSZESEN: 105 908 303 240 405 381<ujsor/>
-Az egyesülõ társaságok felhívják a hitelezõk figyelmét, hogy a jelen hirdetmény második közzétételét követõ harminc napon belül élhetnek a Gazdasági társaságokról szóló 1997. évi CXLIV. tv. 66. § (2) bekezdésében biztosított jogaikkal.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+FORRÃSOK EDUWEB Rt. (zÃ¡rÃ³) AMTT Rt. (zÃ¡rÃ³) EDUWEB Rt. (nyitÃ³)<ujsor/>
+D) SajÃ¡t tÅ‘ke 41 056 168 907 209 963<ujsor/>
+I. Jegyzett tÅ‘ke 66 700 134 000 150 000<ujsor/>
+II. Jegyzett, de be nem fizetett tÅ‘ke 0 0 0<ujsor/>
+III. TÅ‘ketartalÃ©k 20 040 0 0<ujsor/>
+IV. EredmÃ©nytartalÃ©k Â­45 754 34 907 15 381<ujsor/>
+V. LekÃ¶tÃ¶tt tartalÃ©k 70 0 44 582<ujsor/>
+VI. Ã‰rtÃ©kelÃ©si tartalÃ©k 0 0 0<ujsor/>
+VII. MÃ©rleg szerinti eredmÃ©ny 0 0 0<ujsor/>
+E) CÃ©ltartalÃ©k 0 0 0<ujsor/>
+F) KÃ¶telezettsÃ©gek 58 614 84 291 139 138<ujsor/>
+I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0 0 0<ujsor/>
+II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0 0 0<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 58 614 84 291 139 138<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 6 238 50 042 56 280<ujsor/>
+Ã–SSZESEN: 105 908 303 240 405 381<ujsor/>
+Az egyesÃ¼lÅ‘ tÃ¡rsasÃ¡gok felhÃ­vjÃ¡k a hitelezÅ‘k figyelmÃ©t, hogy a jelen hirdetmÃ©ny mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harminc napon belÃ¼l Ã©lhetnek a GazdasÃ¡gi tÃ¡rsasÃ¡gokrÃ³l szÃ³lÃ³ 1997. Ã©vi CXLIV. tv. 66. Â§ (2) bekezdÃ©sÃ©ben biztosÃ­tott jogaikkal.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044477</mezo>
-<mezo id = "nev">EDUWEB Távoktatási Részvénytársaság</mezo>
+<mezo id = "nev">EDUWEB TÃ¡voktatÃ¡si RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1117 Budapest</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az EDUWEB Távoktatási Részvénytársaság (Cg.: [01 10 044477]; székhelye: 1117 Budapest, Hauszmann A. u. 2.) a 2004. október 6-án meghozott elsõ, és a 2004. december 22-én meghozott második közgyûlési határozat alapján, az Antenna Multimédia Technológia és Tartalomszolgáltató Részvénytársaság (Cg.: [01 10 044752]; székhelye: 1119 Budapest, Kocsis u. 1.) a 2004. október 6-án meghozott elsõ, és a 2004. december 22-én meghozott második közgyûlési határozat alapján, a 2004. december 22-én megkötött egyesülési szerzõdésben foglaltak szerint<ujsor/>
-egyesül.<ujsor/>
-Az egyesülés módja: az Antenna Multimédia Technológia és Tartalomszolgáltató Részvénytársaság az EDUWEB Távoktatási Részvénytársaságba beolvad, melynek során az EDUWEB MULTIMÉDIA Technológia és Távoktatási Részvénytársaság lesz az átvevõ társaság, míg az Antenna Multimédia Technológia és Tartalomszolgáltató Részvénytársaság lesz a beolvadó társaság.<ujsor/>
-A beolvadással továbbmûködõ gazdasági társaság adatai:<ujsor/>
-Cégnév: EDUWEB MULTIMÉDIA Technológia és Távoktatási Rt.<ujsor/>
-Rövidített cégnév: EDUWEB MULTIMÉDIA Rt.<ujsor/>
-Angol nyelvû cégnév: EDUWEB MULTIMEDIA Co.<ujsor/>
-Székhely: 1119 Budapest, Kocsis u. 1.<ujsor/>
+<mezo id = "szoveg">Az EDUWEB TÃ¡voktatÃ¡si RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 044477]; szÃ©khelye: 1117 Budapest, Hauszmann A. u. 2.) a 2004. oktÃ³ber 6-Ã¡n meghozott elsÅ‘, Ã©s a 2004. december 22-Ã©n meghozott mÃ¡sodik kÃ¶zgyÅ±lÃ©si hatÃ¡rozat alapjÃ¡n, az Antenna MultimÃ©dia TechnolÃ³gia Ã©s TartalomszolgÃ¡ltatÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 044752]; szÃ©khelye: 1119 Budapest, Kocsis u. 1.) a 2004. oktÃ³ber 6-Ã¡n meghozott elsÅ‘, Ã©s a 2004. december 22-Ã©n meghozott mÃ¡sodik kÃ¶zgyÅ±lÃ©si hatÃ¡rozat alapjÃ¡n, a 2004. december 22-Ã©n megkÃ¶tÃ¶tt egyesÃ¼lÃ©si szerzÅ‘dÃ©sben foglaltak szerint<ujsor/>
+egyesÃ¼l.<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: az Antenna MultimÃ©dia TechnolÃ³gia Ã©s TartalomszolgÃ¡ltatÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g az EDUWEB TÃ¡voktatÃ¡si RÃ©szvÃ©nytÃ¡rsasÃ¡gba beolvad, melynek sorÃ¡n az EDUWEB MULTIMÃ‰DIA TechnolÃ³gia Ã©s TÃ¡voktatÃ¡si RÃ©szvÃ©nytÃ¡rsasÃ¡g lesz az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g, mÃ­g az Antenna MultimÃ©dia TechnolÃ³gia Ã©s TartalomszolgÃ¡ltatÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g lesz a beolvadÃ³ tÃ¡rsasÃ¡g.<ujsor/>
+A beolvadÃ¡ssal tovÃ¡bbmÅ±kÃ¶dÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g adatai:<ujsor/>
+CÃ©gnÃ©v: EDUWEB MULTIMÃ‰DIA TechnolÃ³gia Ã©s TÃ¡voktatÃ¡si Rt.<ujsor/>
+RÃ¶vidÃ­tett cÃ©gnÃ©v: EDUWEB MULTIMÃ‰DIA Rt.<ujsor/>
+Angol nyelvÅ± cÃ©gnÃ©v: EDUWEB MULTIMEDIA Co.<ujsor/>
+SzÃ©khely: 1119 Budapest, Kocsis u. 1.<ujsor/>
 Telephely: 1117 Budapest, Hauszmann A. u. 2.<ujsor/>
-Az EDUWEB Távoktatási Rt. alapító okirata 2004. december 22-i módosítása (az egyesüléssel létrejövõ EDUWEB MULTIMÉDIA Technológia és Távoktatási Rt. alapító okirata) szerint:<ujsor/>
-Az EDUWEB MULTIMÉDIA Technológia és Távoktatási Rt. tevékenységi köre: 7260 Egyéb számítástechnikai tevékenység (fõ tevékenység); 2211 Könyvkiadás; 2213 Idõszaki kiadvány kiadása; 2214 Hangfelvétel-kiadás; 2215 Egyéb kiadás; 2225 Kisegítõ nyomdai tevékenység; 2231 Hangfelvétel-sokszorosítás; 2232 Videofelvétel-sokszorosítás; 2233 Számítógépes adathordozó sokszorosítása; 2811 Fémszerkezet gyártása; 3220 Ipari híradás-technikai termék gyártása; 5118 Máshova nem sorolt termék ügynöki nagykereskedelme; 5143 Elektromos háztartási cikk nagykereskedelme; 5184 Számítógép, szoftver nagykereskedelme; 5186 Egyéb elektronikus alkatrész nagykereskedelme; 5245 Elektromos háztartási cikk kiskereskedelme; 5247 Könyv-, újság-, papíráru-kiskereskedelem; 5261 Csomagküldõ kiskereskedelem; 5263 Egyéb, nem bolti kiskereskedelem; 5274 Egyéb fogyasztási cikk javítása; 6024 Közúti teherszállítás; 6312 Tárolás, raktározás; 6340 Szállítmányozás; 6420 Távközlés (kivéve: engedélyhez kötött); 7011 Ingatlanberuházás, -eladás; 7020 Ingatlan bérbeadása, üzemeltetése; 7032 Ingatlankezelés; 7140 Fogyasztási cikk kölcsönzése; 7210 Hardver-szaktanácsadás; 7222 Egyéb szoftver-szaktanácsadás, -ellátás; 7230 Adatfeldolgozás; 7240 Adatbázis-tevékenység, on-line-kiadás; 7250 Iroda-, számítógép-javítás; 7260 Egyéb számítástechnikai tevékenység; 7310 Mûszaki kutatás, fejlesztés; 7413 Piac-, közvélemény-kutatás; 7414 Üzletviteli tanácsadás; 7420 Mérnöki tevékenység, tanácsadás; 7430 Mûszaki vizsgálat, elemzés; 7440 Hirdetés; 7450 Munkaerõ-közvetítés; 7481 Fényképészet; 7485 Titkári, fordítói tevékenység; 7486 Telefoninformáció; 7487 Máshová nem sorolt, egyéb gazdasági szolgáltatás; 8042 Máshova nem sorolt felnõtt- és egyéb oktatás; 9002 Hulladékgyûjtés, -kezelés; 9211 Film-, videogyártás; 9212 Film-, videoterjesztés; 9213 Mozgóképvetítés; 9220 Rádió-televízió mûsorszolgáltatás; 9232 Mûvészeti kiegészítõ tevékenység; 9234 Máshova nem sorolható egyéb szórakoztatás; 9251 Könyvtári, levéltári tevékenység.<ujsor/>
-A társaság hatósági engedélyhez kötött tevékenységet csak engedély birtokában folytat.<ujsor/>
-Az EDUWEB MULTIMÉDIA Rt. alaptõkéje: 150 000 000 Ft (egyszázötvenmillió forint), amely teljes egészében nem pénzbeli betétbõl áll.<ujsor/>
-Az alaptõke 15 000 db (tizenötezer darab), egyenként 10 000 Ft (tízezer forint) névértékû, névre szóló, dematerializált törzsrészvénybõl áll.<ujsor/>
-Az EDUWEB MULTIMÉDIA Rt. igazgatóságának tagjai: Papi Attila (a. n.: Leczki Eszter; 1037 Budapest, Vízmosás lejtõ 10.), Weninger László (a. n.: Kelemen Margit; 1213 Budapest, Sügér u. 9.), Hegedûs Sándor (a. n.: Czike Mária; 1161 Budapest, Baross u. 107.), Halász Mihály (a. n.: Rokolya Magdolna Anna; 2096 Üröm, Alkonyat sétány 6.).<ujsor/>
-Az EDUWEB MULTIMÉDIA Rt. felügyelõbizottságának tagjai: Szepessy Kornél (a. n.: Tóth Mária; 1025 Budapest, Ali u. 13.), dr. Szûcs Brigitta (a. n.: Szász Éva Mária; 5000 Szolnok, Nagy Imre krt. 9. fszt. 3.), Boksayné dr. Zsuffa Katalin (a. n.: Rácz Erzsébet; 1171 Budapest, Czimra Gyula u. 13.), Szántó Anett (a. n.: Dósai Edit; 1032 Budapest, Teszársz K. u. 3.).<ujsor/>
-Az EDUWEB MULTIMÉDIA Rt. vezérigazgatója: Kövesdy Gábor (a. n.: Varga Teréz; Budapest, Klebesberg Kunó u. 11.).<ujsor/>
-Az átalakulási vagyonmérleg-tervezetek fõbb adatai:<ujsor/>
+Az EDUWEB TÃ¡voktatÃ¡si Rt. alapÃ­tÃ³ okirata 2004. december 22-i mÃ³dosÃ­tÃ¡sa (az egyesÃ¼lÃ©ssel lÃ©trejÃ¶vÅ‘ EDUWEB MULTIMÃ‰DIA TechnolÃ³gia Ã©s TÃ¡voktatÃ¡si Rt. alapÃ­tÃ³ okirata) szerint:<ujsor/>
+Az EDUWEB MULTIMÃ‰DIA TechnolÃ³gia Ã©s TÃ¡voktatÃ¡si Rt. tevÃ©kenysÃ©gi kÃ¶re: 7260 EgyÃ©b szÃ¡mÃ­tÃ¡stechnikai tevÃ©kenysÃ©g (fÅ‘ tevÃ©kenysÃ©g); 2211 KÃ¶nyvkiadÃ¡s; 2213 IdÅ‘szaki kiadvÃ¡ny kiadÃ¡sa; 2214 HangfelvÃ©tel-kiadÃ¡s; 2215 EgyÃ©b kiadÃ¡s; 2225 KisegÃ­tÅ‘ nyomdai tevÃ©kenysÃ©g; 2231 HangfelvÃ©tel-sokszorosÃ­tÃ¡s; 2232 VideofelvÃ©tel-sokszorosÃ­tÃ¡s; 2233 SzÃ¡mÃ­tÃ³gÃ©pes adathordozÃ³ sokszorosÃ­tÃ¡sa; 2811 FÃ©mszerkezet gyÃ¡rtÃ¡sa; 3220 Ipari hÃ­radÃ¡s-technikai termÃ©k gyÃ¡rtÃ¡sa; 5118 MÃ¡shova nem sorolt termÃ©k Ã¼gynÃ¶ki nagykereskedelme; 5143 Elektromos hÃ¡ztartÃ¡si cikk nagykereskedelme; 5184 SzÃ¡mÃ­tÃ³gÃ©p, szoftver nagykereskedelme; 5186 EgyÃ©b elektronikus alkatrÃ©sz nagykereskedelme; 5245 Elektromos hÃ¡ztartÃ¡si cikk kiskereskedelme; 5247 KÃ¶nyv-, ÃºjsÃ¡g-, papÃ­rÃ¡ru-kiskereskedelem; 5261 CsomagkÃ¼ldÅ‘ kiskereskedelem; 5263 EgyÃ©b, nem bolti kiskereskedelem; 5274 EgyÃ©b fogyasztÃ¡si cikk javÃ­tÃ¡sa; 6024 KÃ¶zÃºti teherszÃ¡llÃ­tÃ¡s; 6312 TÃ¡rolÃ¡s, raktÃ¡rozÃ¡s; 6340 SzÃ¡llÃ­tmÃ¡nyozÃ¡s; 6420 TÃ¡vkÃ¶zlÃ©s (kivÃ©ve: engedÃ©lyhez kÃ¶tÃ¶tt); 7011 IngatlanberuhÃ¡zÃ¡s, -eladÃ¡s; 7020 Ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se; 7032 IngatlankezelÃ©s; 7140 FogyasztÃ¡si cikk kÃ¶lcsÃ¶nzÃ©se; 7210 Hardver-szaktanÃ¡csadÃ¡s; 7222 EgyÃ©b szoftver-szaktanÃ¡csadÃ¡s, -ellÃ¡tÃ¡s; 7230 AdatfeldolgozÃ¡s; 7240 AdatbÃ¡zis-tevÃ©kenysÃ©g, on-line-kiadÃ¡s; 7250 Iroda-, szÃ¡mÃ­tÃ³gÃ©p-javÃ­tÃ¡s; 7260 EgyÃ©b szÃ¡mÃ­tÃ¡stechnikai tevÃ©kenysÃ©g; 7310 MÅ±szaki kutatÃ¡s, fejlesztÃ©s; 7413 Piac-, kÃ¶zvÃ©lemÃ©ny-kutatÃ¡s; 7414 Ãœzletviteli tanÃ¡csadÃ¡s; 7420 MÃ©rnÃ¶ki tevÃ©kenysÃ©g, tanÃ¡csadÃ¡s; 7430 MÅ±szaki vizsgÃ¡lat, elemzÃ©s; 7440 HirdetÃ©s; 7450 MunkaerÅ‘-kÃ¶zvetÃ­tÃ©s; 7481 FÃ©nykÃ©pÃ©szet; 7485 TitkÃ¡ri, fordÃ­tÃ³i tevÃ©kenysÃ©g; 7486 TelefoninformÃ¡ciÃ³; 7487 MÃ¡shovÃ¡ nem sorolt, egyÃ©b gazdasÃ¡gi szolgÃ¡ltatÃ¡s; 8042 MÃ¡shova nem sorolt felnÅ‘tt- Ã©s egyÃ©b oktatÃ¡s; 9002 HulladÃ©kgyÅ±jtÃ©s, -kezelÃ©s; 9211 Film-, videogyÃ¡rtÃ¡s; 9212 Film-, videoterjesztÃ©s; 9213 MozgÃ³kÃ©pvetÃ­tÃ©s; 9220 RÃ¡diÃ³-televÃ­ziÃ³ mÅ±sorszolgÃ¡ltatÃ¡s; 9232 MÅ±vÃ©szeti kiegÃ©szÃ­tÅ‘ tevÃ©kenysÃ©g; 9234 MÃ¡shova nem sorolhatÃ³ egyÃ©b szÃ³rakoztatÃ¡s; 9251 KÃ¶nyvtÃ¡ri, levÃ©ltÃ¡ri tevÃ©kenysÃ©g.<ujsor/>
+A tÃ¡rsasÃ¡g hatÃ³sÃ¡gi engedÃ©lyhez kÃ¶tÃ¶tt tevÃ©kenysÃ©get csak engedÃ©ly birtokÃ¡ban folytat.<ujsor/>
+Az EDUWEB MULTIMÃ‰DIA Rt. alaptÅ‘kÃ©je: 150 000 000 Ft (egyszÃ¡zÃ¶tvenmilliÃ³ forint), amely teljes egÃ©szÃ©ben nem pÃ©nzbeli betÃ©tbÅ‘l Ã¡ll.<ujsor/>
+Az alaptÅ‘ke 15 000 db (tizenÃ¶tezer darab), egyenkÃ©nt 10 000 Ft (tÃ­zezer forint) nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³, dematerializÃ¡lt tÃ¶rzsrÃ©szvÃ©nybÅ‘l Ã¡ll.<ujsor/>
+Az EDUWEB MULTIMÃ‰DIA Rt. igazgatÃ³sÃ¡gÃ¡nak tagjai: Papi Attila (a. n.: Leczki Eszter; 1037 Budapest, VÃ­zmosÃ¡s lejtÅ‘ 10.), Weninger LÃ¡szlÃ³ (a. n.: Kelemen Margit; 1213 Budapest, SÃ¼gÃ©r u. 9.), HegedÅ±s SÃ¡ndor (a. n.: Czike MÃ¡ria; 1161 Budapest, Baross u. 107.), HalÃ¡sz MihÃ¡ly (a. n.: Rokolya Magdolna Anna; 2096 ÃœrÃ¶m, Alkonyat sÃ©tÃ¡ny 6.).<ujsor/>
+Az EDUWEB MULTIMÃ‰DIA Rt. felÃ¼gyelÅ‘bizottsÃ¡gÃ¡nak tagjai: Szepessy KornÃ©l (a. n.: TÃ³th MÃ¡ria; 1025 Budapest, Ali u. 13.), dr. SzÅ±cs Brigitta (a. n.: SzÃ¡sz Ã‰va MÃ¡ria; 5000 Szolnok, Nagy Imre krt. 9. fszt. 3.), BoksaynÃ© dr. Zsuffa Katalin (a. n.: RÃ¡cz ErzsÃ©bet; 1171 Budapest, Czimra Gyula u. 13.), SzÃ¡ntÃ³ Anett (a. n.: DÃ³sai Edit; 1032 Budapest, TeszÃ¡rsz K. u. 3.).<ujsor/>
+Az EDUWEB MULTIMÃ‰DIA Rt. vezÃ©rigazgatÃ³ja: KÃ¶vesdy GÃ¡bor (a. n.: Varga TerÃ©z; Budapest, Klebesberg KunÃ³ u. 11.).<ujsor/>
+Az Ã¡talakulÃ¡si vagyonmÃ©rleg-tervezetek fÅ‘bb adatai:<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK EDUWEB Rt. (záró) AMTT Rt. (záró) EDUWEB Rt. (nyitó)<ujsor/>
-A) Befektetett eszközök 91 205 30 654 121 859<ujsor/>
-I. Immateriális javak 88 616 950 89 566<ujsor/>
-II. Tárgyi eszközök 2 589 29 704 32 293<ujsor/>
-III. Befektetett pénzügyi eszközök 0 0 0<ujsor/>
-B) Forgóeszközök 13 517 244 861 254 611<ujsor/>
-I. Készletek 4 570 16 206 20 776<ujsor/>
-II. Követelések 5 894 227 936 230 063<ujsor/>
-III. Értékpapírok 0 0 0<ujsor/>
-IV. Pénzeszközök 3 053 719 3 772<ujsor/>
-C) Aktív idõbeli elhatárolások 1 186 27 725 28 911<ujsor/>
-ÖSSZESEN: 105 908 303 240 405 381<ujsor/>
+ESZKÃ–ZÃ–K EDUWEB Rt. (zÃ¡rÃ³) AMTT Rt. (zÃ¡rÃ³) EDUWEB Rt. (nyitÃ³)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 91 205 30 654 121 859<ujsor/>
+I. ImmateriÃ¡lis javak 88 616 950 89 566<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 2 589 29 704 32 293<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 0 0<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 13 517 244 861 254 611<ujsor/>
+I. KÃ©szletek 4 570 16 206 20 776<ujsor/>
+II. KÃ¶vetelÃ©sek 5 894 227 936 230 063<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 0 0<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 3 053 719 3 772<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 1 186 27 725 28 911<ujsor/>
+Ã–SSZESEN: 105 908 303 240 405 381<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK EDUWEB Rt. (záró) AMTT Rt. (záró) EDUWEB Rt. (nyitó)<ujsor/>
-D) Saját tõke 41 056 168 907 209 963<ujsor/>
-I. Jegyzett tõke 66 700 134 000 150 000<ujsor/>
-II. Jegyzett, de be nem fizetett tõke 0 0 0<ujsor/>
-III. Tõketartalék 20 040 0 0<ujsor/>
-IV. Eredménytartalék ­45 754 34 907 15 381<ujsor/>
-V. Lekötött tartalék 70 0 44 582<ujsor/>
-VI. Értékelési tartalék 0 0 0<ujsor/>
-VII. Mérleg szerinti eredmény 0 0 0<ujsor/>
-E) Céltartalék 0 0 0<ujsor/>
-F) Kötelezettségek 58 614 84 291 139 138<ujsor/>
-I. Hátra sorolt kötelezettségek 0 0 0<ujsor/>
-II. Hosszú lejáratú kötelezettségek 0 0 0<ujsor/>
-III. Rövid lejáratú kötelezettségek 58 614 84 291 139 138<ujsor/>
-G) Passzív idõbeli elhatárolások 6 238 50 042 56 280<ujsor/>
-ÖSSZESEN: 105 908 303 240 405 381<ujsor/>
-Az egyesülõ társaságok felhívják a hitelezõk figyelmét, hogy a jelen hirdetmény második közzétételét követõ harminc napon belül élhetnek a Gazdasági társaságokról szóló 1997. évi CXLIV. tv. 66. § (2) bekezdésében biztosított jogaikkal.<ujsor/>
-(Második közzététel.)<ujsor/>
+FORRÃSOK EDUWEB Rt. (zÃ¡rÃ³) AMTT Rt. (zÃ¡rÃ³) EDUWEB Rt. (nyitÃ³)<ujsor/>
+D) SajÃ¡t tÅ‘ke 41 056 168 907 209 963<ujsor/>
+I. Jegyzett tÅ‘ke 66 700 134 000 150 000<ujsor/>
+II. Jegyzett, de be nem fizetett tÅ‘ke 0 0 0<ujsor/>
+III. TÅ‘ketartalÃ©k 20 040 0 0<ujsor/>
+IV. EredmÃ©nytartalÃ©k Â­45 754 34 907 15 381<ujsor/>
+V. LekÃ¶tÃ¶tt tartalÃ©k 70 0 44 582<ujsor/>
+VI. Ã‰rtÃ©kelÃ©si tartalÃ©k 0 0 0<ujsor/>
+VII. MÃ©rleg szerinti eredmÃ©ny 0 0 0<ujsor/>
+E) CÃ©ltartalÃ©k 0 0 0<ujsor/>
+F) KÃ¶telezettsÃ©gek 58 614 84 291 139 138<ujsor/>
+I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0 0 0<ujsor/>
+II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0 0 0<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 58 614 84 291 139 138<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 6 238 50 042 56 280<ujsor/>
+Ã–SSZESEN: 105 908 303 240 405 381<ujsor/>
+Az egyesÃ¼lÅ‘ tÃ¡rsasÃ¡gok felhÃ­vjÃ¡k a hitelezÅ‘k figyelmÃ©t, hogy a jelen hirdetmÃ©ny mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harminc napon belÃ¼l Ã©lhetnek a GazdasÃ¡gi tÃ¡rsasÃ¡gokrÃ³l szÃ³lÃ³ 1997. Ã©vi CXLIV. tv. 66. Â§ (2) bekezdÃ©sÃ©ben biztosÃ­tott jogaikkal.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044477</mezo>
-<mezo id = "nev">EDUWEB Távoktatási Részvénytársaság</mezo>
+<mezo id = "nev">EDUWEB TÃ¡voktatÃ¡si RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1117 Budapest</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">KÖNYVVIZSGÁLÓI JELENTÉS<ujsor/>
-nem pénzbeli hozzájárulás értékelése céljából<ujsor/>
-Az Antenna Multimédia Technológia és Tartalomszolgáltató Részvénytársaság (Cg.: [01 10 044752]; székhelye: 1119 Budapest, Kocsis u. 1.; továbbiakban: Antenna Multimédia Rt.) és az EDUWEB Távoktatási Részvénytársaság (Cg.: [01 10 044477]; székhelye: 1117 Budapest, Hauszmann A. u. 2.; továbbiakban: EDUWEB Rt.) részvényesei a Gazdasági társaságokról szóló többször módosított 1997. évi CXLIV. tv. alapján elhatározták, hogy az Antenna Multimédia Rt. egyesül az EDUWEB Rt.-vel. Az egyesülés formája beolvadás, melynek során az Antenna Multimédia Rt. beolvad az EDUWEB Rt.-be, és a beolvadás következtében az Antenna Multimédia Rt. jogutódlással megszûnik, és a beolvadást követõen EDUWEB MULTIMÉDIA Rt. néven mûködik tovább. Az egyesülési szerzõdés szerint az átalakulás után tovább mûködõ gazdasági társaság, azaz az EDUWEB MULTIMÉDIA Rt. jegyzett tõkéje 150 000 000 Ft (egyszázötvenmillió forint), melyet az átalakulással létrejövõ társaság, azaz a jogutódként tovább mûködõ EDUWEB MULTIMÉDIA Rt. részvényesei ­ Antenna Multimédia Vagyonkezelõ Holding Részvénytársaság (Cg.: [01 10 044498]; székhelye: 1119 Budapest, Petzval József u. 31­33.) és az AVENIDA Rt. (Cg.: [01 10 044304]; székhelye: 1137 Budapest, Pozsonyi út 14.) ­ teljes egészében nem pénzbeli hozzájárulásként bocsátanak rendelkezésre.<ujsor/>
-Mint az átalakulást ellenõrzõ független könyvvizsgáló kijelentem, hogy elvégeztük az átalakulással tovább mûködõ EDUWEB MULTIMÉDIA Rt. jegyzett tõkéjének fedezetére elkülönített eszközök (nem pénzbeli hozzájárulások), melyek az átalakulással továbbmûködõ társaság vagyonleltár-tervezetében elkülönítetten kerültek bemutatásra, ellenõrzését.<ujsor/>
-Az ellenõrzés alapján tanúsítjuk, hogy az EDUWEB Rt. és az Antenna Multimédia Rt. egyesülési szerzõdésének részét képezõ vagyonleltár-tervezetben 2 tételben szereplõ, összesen 150 000 000 Ft (egyszázötvenmillió forint) összegû nem pénzbeli hozzájárulás értéke nem került magasabb értéken megállapításra, mint ahogy az az érvényben lévõ értékelési elõírások és eljárások, valamint hasznosítási lehetõségük figyelembevételével elfogadható. Továbbá tanúsítjuk, hogy a nem pénzbeli hozzájárulások értéke összhangban van az ellenében adandó részvények számával és névértékével.<ujsor/>
-Az átalakulással létrejövõ EDUWEB MULTIMÉDIA Rt. részvényesei a két átalakulásban részt vevõ társaság meglévõ eszközei közül a következõ nem pénzbeli vagyoni hozzájárulásokat határozták meg mint az átalakulással létrejövõ EDUWEB MULTIMÉDIA Rt. jegyzett tõkéjének fedezete:<ujsor/>
-­ az Antenna Multimédia Rt.-nek az Antenna Hungária Rt.-vel (Cg.: [01 10 042190]; székhely: 1119 Budapest, Petzval J. u. 31­33.) szembeni vevõkövetelését;<ujsor/>
-­ az Antenna Multimédia Rt.-nek az Antenna Hungária Rt.-vel mint az Antenna Hungária csoport Cash-pool vezetõjével szemben fennálló Cash-pool elszámolásból eredõ követelését.<ujsor/>
-A fenti követelések könyv szerinti értéken kerültek értékelésre, és mindkét, a jegyzett tõke fedezetét képezõ nem lejárt követelést a vagyonmérleg-tervezet fordulónapjával az Antenna Hungária Rt. írásban is elismerte. Kijelentjük, hogy a vizsgálat során nem jutott olyan információ a tudomásunkra, amely arra enged következtetni, hogy a fenti követelések kielégítését bármi is veszélyeztetné, továbbá az adós fizetõképességével kapcsolatban semmifajta kétely nem merült fel. Továbbá vizsgálatunk során ellenõriztük, hogy a fent említett követelések piaci értékeit, illetve a várhatóan megtérülõ összegeit a könyv szerinti értékük hûen tükrözi.<ujsor/>
+<mezo id = "szoveg">KÃ–NYVVIZSGÃLÃ“I JELENTÃ‰S<ujsor/>
+nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s Ã©rtÃ©kelÃ©se cÃ©ljÃ¡bÃ³l<ujsor/>
+Az Antenna MultimÃ©dia TechnolÃ³gia Ã©s TartalomszolgÃ¡ltatÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 044752]; szÃ©khelye: 1119 Budapest, Kocsis u. 1.; tovÃ¡bbiakban: Antenna MultimÃ©dia Rt.) Ã©s az EDUWEB TÃ¡voktatÃ¡si RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 044477]; szÃ©khelye: 1117 Budapest, Hauszmann A. u. 2.; tovÃ¡bbiakban: EDUWEB Rt.) rÃ©szvÃ©nyesei a GazdasÃ¡gi tÃ¡rsasÃ¡gokrÃ³l szÃ³lÃ³ tÃ¶bbszÃ¶r mÃ³dosÃ­tott 1997. Ã©vi CXLIV. tv. alapjÃ¡n elhatÃ¡roztÃ¡k, hogy az Antenna MultimÃ©dia Rt. egyesÃ¼l az EDUWEB Rt.-vel. Az egyesÃ¼lÃ©s formÃ¡ja beolvadÃ¡s, melynek sorÃ¡n az Antenna MultimÃ©dia Rt. beolvad az EDUWEB Rt.-be, Ã©s a beolvadÃ¡s kÃ¶vetkeztÃ©ben az Antenna MultimÃ©dia Rt. jogutÃ³dlÃ¡ssal megszÅ±nik, Ã©s a beolvadÃ¡st kÃ¶vetÅ‘en EDUWEB MULTIMÃ‰DIA Rt. nÃ©ven mÅ±kÃ¶dik tovÃ¡bb. Az egyesÃ¼lÃ©si szerzÅ‘dÃ©s szerint az Ã¡talakulÃ¡s utÃ¡n tovÃ¡bb mÅ±kÃ¶dÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g, azaz az EDUWEB MULTIMÃ‰DIA Rt. jegyzett tÅ‘kÃ©je 150 000 000 Ft (egyszÃ¡zÃ¶tvenmilliÃ³ forint), melyet az Ã¡talakulÃ¡ssal lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g, azaz a jogutÃ³dkÃ©nt tovÃ¡bb mÅ±kÃ¶dÅ‘ EDUWEB MULTIMÃ‰DIA Rt. rÃ©szvÃ©nyesei Â­ Antenna MultimÃ©dia VagyonkezelÅ‘ Holding RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 044498]; szÃ©khelye: 1119 Budapest, Petzval JÃ³zsef u. 31Â­33.) Ã©s az AVENIDA Rt. (Cg.: [01 10 044304]; szÃ©khelye: 1137 Budapest, Pozsonyi Ãºt 14.) Â­ teljes egÃ©szÃ©ben nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡skÃ©nt bocsÃ¡tanak rendelkezÃ©sre.<ujsor/>
+Mint az Ã¡talakulÃ¡st ellenÅ‘rzÅ‘ fÃ¼ggetlen kÃ¶nyvvizsgÃ¡lÃ³ kijelentem, hogy elvÃ©geztÃ¼k az Ã¡talakulÃ¡ssal tovÃ¡bb mÅ±kÃ¶dÅ‘ EDUWEB MULTIMÃ‰DIA Rt. jegyzett tÅ‘kÃ©jÃ©nek fedezetÃ©re elkÃ¼lÃ¶nÃ­tett eszkÃ¶zÃ¶k (nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡sok), melyek az Ã¡talakulÃ¡ssal tovÃ¡bbmÅ±kÃ¶dÅ‘ tÃ¡rsasÃ¡g vagyonleltÃ¡r-tervezetÃ©ben elkÃ¼lÃ¶nÃ­tetten kerÃ¼ltek bemutatÃ¡sra, ellenÅ‘rzÃ©sÃ©t.<ujsor/>
+Az ellenÅ‘rzÃ©s alapjÃ¡n tanÃºsÃ­tjuk, hogy az EDUWEB Rt. Ã©s az Antenna MultimÃ©dia Rt. egyesÃ¼lÃ©si szerzÅ‘dÃ©sÃ©nek rÃ©szÃ©t kÃ©pezÅ‘ vagyonleltÃ¡r-tervezetben 2 tÃ©telben szereplÅ‘, Ã¶sszesen 150 000 000 Ft (egyszÃ¡zÃ¶tvenmilliÃ³ forint) Ã¶sszegÅ± nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s Ã©rtÃ©ke nem kerÃ¼lt magasabb Ã©rtÃ©ken megÃ¡llapÃ­tÃ¡sra, mint ahogy az az Ã©rvÃ©nyben lÃ©vÅ‘ Ã©rtÃ©kelÃ©si elÅ‘Ã­rÃ¡sok Ã©s eljÃ¡rÃ¡sok, valamint hasznosÃ­tÃ¡si lehetÅ‘sÃ©gÃ¼k figyelembevÃ©telÃ©vel elfogadhatÃ³. TovÃ¡bbÃ¡ tanÃºsÃ­tjuk, hogy a nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡sok Ã©rtÃ©ke Ã¶sszhangban van az ellenÃ©ben adandÃ³ rÃ©szvÃ©nyek szÃ¡mÃ¡val Ã©s nÃ©vÃ©rtÃ©kÃ©vel.<ujsor/>
+Az Ã¡talakulÃ¡ssal lÃ©trejÃ¶vÅ‘ EDUWEB MULTIMÃ‰DIA Rt. rÃ©szvÃ©nyesei a kÃ©t Ã¡talakulÃ¡sban rÃ©szt vevÅ‘ tÃ¡rsasÃ¡g meglÃ©vÅ‘ eszkÃ¶zei kÃ¶zÃ¼l a kÃ¶vetkezÅ‘ nem pÃ©nzbeli vagyoni hozzÃ¡jÃ¡rulÃ¡sokat hatÃ¡roztÃ¡k meg mint az Ã¡talakulÃ¡ssal lÃ©trejÃ¶vÅ‘ EDUWEB MULTIMÃ‰DIA Rt. jegyzett tÅ‘kÃ©jÃ©nek fedezete:<ujsor/>
+Â­ az Antenna MultimÃ©dia Rt.-nek az Antenna HungÃ¡ria Rt.-vel (Cg.: [01 10 042190]; szÃ©khely: 1119 Budapest, Petzval J. u. 31Â­33.) szembeni vevÅ‘kÃ¶vetelÃ©sÃ©t;<ujsor/>
+Â­ az Antenna MultimÃ©dia Rt.-nek az Antenna HungÃ¡ria Rt.-vel mint az Antenna HungÃ¡ria csoport Cash-pool vezetÅ‘jÃ©vel szemben fennÃ¡llÃ³ Cash-pool elszÃ¡molÃ¡sbÃ³l eredÅ‘ kÃ¶vetelÃ©sÃ©t.<ujsor/>
+A fenti kÃ¶vetelÃ©sek kÃ¶nyv szerinti Ã©rtÃ©ken kerÃ¼ltek Ã©rtÃ©kelÃ©sre, Ã©s mindkÃ©t, a jegyzett tÅ‘ke fedezetÃ©t kÃ©pezÅ‘ nem lejÃ¡rt kÃ¶vetelÃ©st a vagyonmÃ©rleg-tervezet fordulÃ³napjÃ¡val az Antenna HungÃ¡ria Rt. Ã­rÃ¡sban is elismerte. KijelentjÃ¼k, hogy a vizsgÃ¡lat sorÃ¡n nem jutott olyan informÃ¡ciÃ³ a tudomÃ¡sunkra, amely arra enged kÃ¶vetkeztetni, hogy a fenti kÃ¶vetelÃ©sek kielÃ©gÃ­tÃ©sÃ©t bÃ¡rmi is veszÃ©lyeztetnÃ©, tovÃ¡bbÃ¡ az adÃ³s fizetÅ‘kÃ©pessÃ©gÃ©vel kapcsolatban semmifajta kÃ©tely nem merÃ¼lt fel. TovÃ¡bbÃ¡ vizsgÃ¡latunk sorÃ¡n ellenÅ‘riztÃ¼k, hogy a fent emlÃ­tett kÃ¶vetelÃ©sek piaci Ã©rtÃ©keit, illetve a vÃ¡rhatÃ³an megtÃ©rÃ¼lÅ‘ Ã¶sszegeit a kÃ¶nyv szerinti Ã©rtÃ©kÃ¼k hÅ±en tÃ¼krÃ¶zi.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044477</mezo>
-<mezo id = "nev">EDUWEB Távoktatási Részvénytársaság</mezo>
+<mezo id = "nev">EDUWEB TÃ¡voktatÃ¡si RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1117 Budapest</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2005. 05. 09-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-Az alábbi rovatok törlõ dátuma helytelenül lett feltüntetve, helyesen: 2005 .05 .10.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2005. 05. 09-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+Az alÃ¡bbi rovatok tÃ¶rlÅ‘ dÃ¡tuma helytelenÃ¼l lett feltÃ¼ntetve, helyesen: 2005 .05 .10.<ujsor/>
 2/001, 3/001, 5/002, 9/001-9/028, 11/002, 12/002, 13/006, 13/007, 13/008, 13/009, 13/010, 14/002, <ujsor/>
 15/008, 15/009, 15/010, 15/011, 16/001, 20/001, 1/002, 5/002. <ujsor/>
-A 49-es számú végzés dátuma helyesen: 2005 .05 .10. <ujsor/>
+A 49-es szÃ¡mÃº vÃ©gzÃ©s dÃ¡tuma helyesen: 2005 .05 .10. <ujsor/>
 Bejegyezve: 2006. 01. 23.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044477</mezo>
-<mezo id = "nev">EDUWEB MULTIMÉDIA Technológia és Távoktatási Részvénytársaság</mezo>
+<mezo id = "nev">EDUWEB MULTIMÃ‰DIA TechnolÃ³gia Ã©s TÃ¡voktatÃ¡si RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1117 Budapest, Kocsis utca 1.</mezo>
 <mezo id = "adosz">12553828243</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2005. 05. 09-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-02. EDUWEB MULTIMÉDIA Technológia és Távoktatási Részvénytársaság<ujsor/>
- Törölve: 2005. 05. 09-i hatállyal.<ujsor/>
- EDUWEB MULTIMÉDIA Technológia és Távoktatási Részvénytársaság<ujsor/>
- Hatályos: 2005. 05. 10-tõl.<ujsor/>
-03. EDUWEB MULTIMÉDIA Rt.<ujsor/>
- Törölve: 2005. 05. 09-i hatállyal.<ujsor/>
- EDUWEB MULTIMÉDIA Rt.<ujsor/>
- Hatályos: 2005. 05. 10-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2005. 05. 09-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+02. EDUWEB MULTIMÃ‰DIA TechnolÃ³gia Ã©s TÃ¡voktatÃ¡si RÃ©szvÃ©nytÃ¡rsasÃ¡g<ujsor/>
+ TÃ¶rÃ¶lve: 2005. 05. 09-i hatÃ¡llyal.<ujsor/>
+ EDUWEB MULTIMÃ‰DIA TechnolÃ³gia Ã©s TÃ¡voktatÃ¡si RÃ©szvÃ©nytÃ¡rsasÃ¡g<ujsor/>
+ HatÃ¡lyos: 2005. 05. 10-tÅ‘l.<ujsor/>
+03. EDUWEB MULTIMÃ‰DIA Rt.<ujsor/>
+ TÃ¶rÃ¶lve: 2005. 05. 09-i hatÃ¡llyal.<ujsor/>
+ EDUWEB MULTIMÃ‰DIA Rt.<ujsor/>
+ HatÃ¡lyos: 2005. 05. 10-tÅ‘l.<ujsor/>
 04. EDUWEB MULTIMEDIA Co.<ujsor/>
- Törölve: 2005. 05. 09-i hatállyal.<ujsor/>
+ TÃ¶rÃ¶lve: 2005. 05. 09-i hatÃ¡llyal.<ujsor/>
  EDUWEB MULTIMEDIA Co.<ujsor/>
- Hatályos: 2005. 05. 10-tõl.<ujsor/>
-09. 7260&apos;03 Egyéb számítástechnikai tevékenység (fõtevékenység).<ujsor/>
- 2215&apos;03 Egyéb kiadás.<ujsor/>
- 2811&apos;03 Fémszerkezet gyártása.<ujsor/>
- 3220&apos;03 Ipari híradástechnikai termék gyártása.<ujsor/>
- 5118&apos;03 Máshova nem sorolt termék ügynöki nagykereskedelme.<ujsor/>
- 5143&apos;03 Elektromos háztartási cikk nagykereskedelme.<ujsor/>
- 5184&apos;03 Számítógép, szoftver nagykereskedelme.<ujsor/>
- 5186&apos;03 Egyéb elektronikus alkatrész nagykereskedelme.<ujsor/>
- 5245&apos;03 Elektromos háztartási cikk kiskereskedelme.<ujsor/>
- 5247&apos;03 Könyv-, újság-, papíráru-kiskereskedelem.<ujsor/>
- 5274&apos;03 Egyéb fogyasztási cikk javítása.<ujsor/>
- 6024&apos;03 Közúti teherszállítás.<ujsor/>
- 6312&apos;03 Tárolás, raktározás.<ujsor/>
- 7140&apos;03 Fogyasztási cikk kölcsönzése.<ujsor/>
- 7250&apos;03 Iroda-, számítógép-javítás.<ujsor/>
- 7310&apos;03 Mûszaki kutatás, fejlesztés.<ujsor/>
- 7420&apos;03 Mérnöki tevékenység, tanácsadás.<ujsor/>
- 7430&apos;03 Mûszaki vizsgálat, elemzés.<ujsor/>
- 7486&apos;03 Telefoninformáció.<ujsor/>
- 9002&apos;03 Hulladékgyûjtés, -kezelés.<ujsor/>
- 9213&apos;03 Mozgóképvetítés.<ujsor/>
- 9220&apos;03 Rádió-televízió mûsorszolgáltatás.<ujsor/>
- 9232&apos;03 Mûvészeti kiegészítõ tevékenység.<ujsor/>
- 9251&apos;03 Könyvtári, levéltári tevékenység.<ujsor/>
- 8042&apos;03 Máshova nem sorolt felnõtt- és egyéb oktatás.<ujsor/>
- Törölve: 2005. 05. 09-i hatállyal.<ujsor/>
- 7260&apos;03 Egyéb számítástechnikai tevékenység (fõtevékenység).<ujsor/>
- 2215&apos;03 Egyéb kiadás.<ujsor/>
- 2811&apos;03 Fémszerkezet gyártása.<ujsor/>
- 3220&apos;03 Ipari híradástechnikai termék gyártása.<ujsor/>
- 5118&apos;03 Máshova nem sorolt termék ügynöki nagykereskedelme.<ujsor/>
- 5143&apos;03 Elektromos háztartási cikk nagykereskedelme.<ujsor/>
- 5184&apos;03 Számítógép, szoftver nagykereskedelme.<ujsor/>
- 5186&apos;03 Egyéb elektronikus alkatrész nagykereskedelme.<ujsor/>
- 5245&apos;03 Elektromos háztartási cikk kiskereskedelme.<ujsor/>
- 5247&apos;03 Könyv-, újság-, papíráru-kiskereskedelem.<ujsor/>
- 5274&apos;03 Egyéb fogyasztási cikk javítása.<ujsor/>
- 6024&apos;03 Közúti teherszállítás.<ujsor/>
- 6312&apos;03 Tárolás, raktározás.<ujsor/>
- 7140&apos;03 Fogyasztási cikk kölcsönzése.<ujsor/>
- 7250&apos;03 Iroda-, számítógép-javítás.<ujsor/>
- 7310&apos;03 Mûszaki kutatás, fejlesztés.<ujsor/>
- 7420&apos;03 Mérnöki tevékenység, tanácsadás.<ujsor/>
- 7430&apos;03 Mûszaki vizsgálat, elemzés.<ujsor/>
- 7486&apos;03 Telefoninformáció.<ujsor/>
- 9002&apos;03 Hulladékgyûjtés, -kezelés.<ujsor/>
- 9213&apos;03 Mozgóképvetítés.<ujsor/>
- 9220&apos;03 Rádió-televízió mûsorszolgáltatás.<ujsor/>
- 9232&apos;03 Mûvészeti kiegészítõ tevékenység.<ujsor/>
- 9251&apos;03 Könyvtári, levéltári tevékenység.<ujsor/>
- 8042&apos;03 Máshova nem sorolt felnõtt- és egyéb oktatás.<ujsor/>
- Hatályos: 2005. 05. 10-tõl.<ujsor/>
-11. 150 000 000 azaz egyszázötvenmillió Ft apport.<ujsor/>
- Törölve: 2005. 05. 09-i hatállyal.<ujsor/>
- 150 000 000 azaz egyszázötvenmillió Ft készpénz.<ujsor/>
- Hatályos: 2005. 05. 10-tõl.<ujsor/>
-12. A vezérigazgató önállóan, az igazgatóság bármely két tagja együttesen, az igazgatóság bármely tagja egy az igazgatóság által cégjegyzésre felhatalmazott alkalmazottal (a vezérigazgató kivételével), a felhatalmazásban foglalt esetek körében együttesen: az igazgatóság által cégjegyzésre felhatalmazott két alkalmazott (a vezérigazgató kivételével) a felhatalmazásban foglalt esetek körében egymással együttesen.<ujsor/>
- Törölve: 2004. 12. 22-i hatállyal.<ujsor/>
- A vezérigazgató önállóan, az igazgatóság bármely két tagja együttesen, az igazgatóság bármely tagja egy, az igazgatóság által cégjegyzésre felhatalmazott alkalmazottal ( a vezérigazgató kivételével), a felhatalmazásban foglalt esetek körében együttesen; az igazgatóság által cégjegyzésre felhatalmazott két alkalmazott ( a vezérigazgató kivételével) a felhatalmazásban foglalt esetek körében egymással együttesen.<ujsor/>
- Hatályos: 2005. 05. 10-tõl.<ujsor/>
-13. A képviselet módja: együttes.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (tisztségviselõ).<ujsor/>
- Halász Mihály (an: Rokolya Magdolna Anna)<ujsor/>
-2096 Üröm, Alkonyat sétány 6.<ujsor/>
+ HatÃ¡lyos: 2005. 05. 10-tÅ‘l.<ujsor/>
+09. 7260&apos;03 EgyÃ©b szÃ¡mÃ­tÃ¡stechnikai tevÃ©kenysÃ©g (fÅ‘tevÃ©kenysÃ©g).<ujsor/>
+ 2215&apos;03 EgyÃ©b kiadÃ¡s.<ujsor/>
+ 2811&apos;03 FÃ©mszerkezet gyÃ¡rtÃ¡sa.<ujsor/>
+ 3220&apos;03 Ipari hÃ­radÃ¡stechnikai termÃ©k gyÃ¡rtÃ¡sa.<ujsor/>
+ 5118&apos;03 MÃ¡shova nem sorolt termÃ©k Ã¼gynÃ¶ki nagykereskedelme.<ujsor/>
+ 5143&apos;03 Elektromos hÃ¡ztartÃ¡si cikk nagykereskedelme.<ujsor/>
+ 5184&apos;03 SzÃ¡mÃ­tÃ³gÃ©p, szoftver nagykereskedelme.<ujsor/>
+ 5186&apos;03 EgyÃ©b elektronikus alkatrÃ©sz nagykereskedelme.<ujsor/>
+ 5245&apos;03 Elektromos hÃ¡ztartÃ¡si cikk kiskereskedelme.<ujsor/>
+ 5247&apos;03 KÃ¶nyv-, ÃºjsÃ¡g-, papÃ­rÃ¡ru-kiskereskedelem.<ujsor/>
+ 5274&apos;03 EgyÃ©b fogyasztÃ¡si cikk javÃ­tÃ¡sa.<ujsor/>
+ 6024&apos;03 KÃ¶zÃºti teherszÃ¡llÃ­tÃ¡s.<ujsor/>
+ 6312&apos;03 TÃ¡rolÃ¡s, raktÃ¡rozÃ¡s.<ujsor/>
+ 7140&apos;03 FogyasztÃ¡si cikk kÃ¶lcsÃ¶nzÃ©se.<ujsor/>
+ 7250&apos;03 Iroda-, szÃ¡mÃ­tÃ³gÃ©p-javÃ­tÃ¡s.<ujsor/>
+ 7310&apos;03 MÅ±szaki kutatÃ¡s, fejlesztÃ©s.<ujsor/>
+ 7420&apos;03 MÃ©rnÃ¶ki tevÃ©kenysÃ©g, tanÃ¡csadÃ¡s.<ujsor/>
+ 7430&apos;03 MÅ±szaki vizsgÃ¡lat, elemzÃ©s.<ujsor/>
+ 7486&apos;03 TelefoninformÃ¡ciÃ³.<ujsor/>
+ 9002&apos;03 HulladÃ©kgyÅ±jtÃ©s, -kezelÃ©s.<ujsor/>
+ 9213&apos;03 MozgÃ³kÃ©pvetÃ­tÃ©s.<ujsor/>
+ 9220&apos;03 RÃ¡diÃ³-televÃ­ziÃ³ mÅ±sorszolgÃ¡ltatÃ¡s.<ujsor/>
+ 9232&apos;03 MÅ±vÃ©szeti kiegÃ©szÃ­tÅ‘ tevÃ©kenysÃ©g.<ujsor/>
+ 9251&apos;03 KÃ¶nyvtÃ¡ri, levÃ©ltÃ¡ri tevÃ©kenysÃ©g.<ujsor/>
+ 8042&apos;03 MÃ¡shova nem sorolt felnÅ‘tt- Ã©s egyÃ©b oktatÃ¡s.<ujsor/>
+ TÃ¶rÃ¶lve: 2005. 05. 09-i hatÃ¡llyal.<ujsor/>
+ 7260&apos;03 EgyÃ©b szÃ¡mÃ­tÃ¡stechnikai tevÃ©kenysÃ©g (fÅ‘tevÃ©kenysÃ©g).<ujsor/>
+ 2215&apos;03 EgyÃ©b kiadÃ¡s.<ujsor/>
+ 2811&apos;03 FÃ©mszerkezet gyÃ¡rtÃ¡sa.<ujsor/>
+ 3220&apos;03 Ipari hÃ­radÃ¡stechnikai termÃ©k gyÃ¡rtÃ¡sa.<ujsor/>
+ 5118&apos;03 MÃ¡shova nem sorolt termÃ©k Ã¼gynÃ¶ki nagykereskedelme.<ujsor/>
+ 5143&apos;03 Elektromos hÃ¡ztartÃ¡si cikk nagykereskedelme.<ujsor/>
+ 5184&apos;03 SzÃ¡mÃ­tÃ³gÃ©p, szoftver nagykereskedelme.<ujsor/>
+ 5186&apos;03 EgyÃ©b elektronikus alkatrÃ©sz nagykereskedelme.<ujsor/>
+ 5245&apos;03 Elektromos hÃ¡ztartÃ¡si cikk kiskereskedelme.<ujsor/>
+ 5247&apos;03 KÃ¶nyv-, ÃºjsÃ¡g-, papÃ­rÃ¡ru-kiskereskedelem.<ujsor/>
+ 5274&apos;03 EgyÃ©b fogyasztÃ¡si cikk javÃ­tÃ¡sa.<ujsor/>
+ 6024&apos;03 KÃ¶zÃºti teherszÃ¡llÃ­tÃ¡s.<ujsor/>
+ 6312&apos;03 TÃ¡rolÃ¡s, raktÃ¡rozÃ¡s.<ujsor/>
+ 7140&apos;03 FogyasztÃ¡si cikk kÃ¶lcsÃ¶nzÃ©se.<ujsor/>
+ 7250&apos;03 Iroda-, szÃ¡mÃ­tÃ³gÃ©p-javÃ­tÃ¡s.<ujsor/>
+ 7310&apos;03 MÅ±szaki kutatÃ¡s, fejlesztÃ©s.<ujsor/>
+ 7420&apos;03 MÃ©rnÃ¶ki tevÃ©kenysÃ©g, tanÃ¡csadÃ¡s.<ujsor/>
+ 7430&apos;03 MÅ±szaki vizsgÃ¡lat, elemzÃ©s.<ujsor/>
+ 7486&apos;03 TelefoninformÃ¡ciÃ³.<ujsor/>
+ 9002&apos;03 HulladÃ©kgyÅ±jtÃ©s, -kezelÃ©s.<ujsor/>
+ 9213&apos;03 MozgÃ³kÃ©pvetÃ­tÃ©s.<ujsor/>
+ 9220&apos;03 RÃ¡diÃ³-televÃ­ziÃ³ mÅ±sorszolgÃ¡ltatÃ¡s.<ujsor/>
+ 9232&apos;03 MÅ±vÃ©szeti kiegÃ©szÃ­tÅ‘ tevÃ©kenysÃ©g.<ujsor/>
+ 9251&apos;03 KÃ¶nyvtÃ¡ri, levÃ©ltÃ¡ri tevÃ©kenysÃ©g.<ujsor/>
+ 8042&apos;03 MÃ¡shova nem sorolt felnÅ‘tt- Ã©s egyÃ©b oktatÃ¡s.<ujsor/>
+ HatÃ¡lyos: 2005. 05. 10-tÅ‘l.<ujsor/>
+11. 150 000 000 azaz egyszÃ¡zÃ¶tvenmilliÃ³ Ft apport.<ujsor/>
+ TÃ¶rÃ¶lve: 2005. 05. 09-i hatÃ¡llyal.<ujsor/>
+ 150 000 000 azaz egyszÃ¡zÃ¶tvenmilliÃ³ Ft kÃ©szpÃ©nz.<ujsor/>
+ HatÃ¡lyos: 2005. 05. 10-tÅ‘l.<ujsor/>
+12. A vezÃ©rigazgatÃ³ Ã¶nÃ¡llÃ³an, az igazgatÃ³sÃ¡g bÃ¡rmely kÃ©t tagja egyÃ¼ttesen, az igazgatÃ³sÃ¡g bÃ¡rmely tagja egy az igazgatÃ³sÃ¡g Ã¡ltal cÃ©gjegyzÃ©sre felhatalmazott alkalmazottal (a vezÃ©rigazgatÃ³ kivÃ©telÃ©vel), a felhatalmazÃ¡sban foglalt esetek kÃ¶rÃ©ben egyÃ¼ttesen: az igazgatÃ³sÃ¡g Ã¡ltal cÃ©gjegyzÃ©sre felhatalmazott kÃ©t alkalmazott (a vezÃ©rigazgatÃ³ kivÃ©telÃ©vel) a felhatalmazÃ¡sban foglalt esetek kÃ¶rÃ©ben egymÃ¡ssal egyÃ¼ttesen.<ujsor/>
+ TÃ¶rÃ¶lve: 2004. 12. 22-i hatÃ¡llyal.<ujsor/>
+ A vezÃ©rigazgatÃ³ Ã¶nÃ¡llÃ³an, az igazgatÃ³sÃ¡g bÃ¡rmely kÃ©t tagja egyÃ¼ttesen, az igazgatÃ³sÃ¡g bÃ¡rmely tagja egy, az igazgatÃ³sÃ¡g Ã¡ltal cÃ©gjegyzÃ©sre felhatalmazott alkalmazottal ( a vezÃ©rigazgatÃ³ kivÃ©telÃ©vel), a felhatalmazÃ¡sban foglalt esetek kÃ¶rÃ©ben egyÃ¼ttesen; az igazgatÃ³sÃ¡g Ã¡ltal cÃ©gjegyzÃ©sre felhatalmazott kÃ©t alkalmazott ( a vezÃ©rigazgatÃ³ kivÃ©telÃ©vel) a felhatalmazÃ¡sban foglalt esetek kÃ¶rÃ©ben egymÃ¡ssal egyÃ¼ttesen.<ujsor/>
+ HatÃ¡lyos: 2005. 05. 10-tÅ‘l.<ujsor/>
+13. A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (tisztsÃ©gviselÅ‘).<ujsor/>
+ HalÃ¡sz MihÃ¡ly (an: Rokolya Magdolna Anna)<ujsor/>
+2096 ÃœrÃ¶m, Alkonyat sÃ©tÃ¡ny 6.<ujsor/>
  A jogviszony kezdete: 2004. 12. 22.<ujsor/>
- A jogviszony vége: 2008. 05. 31.<ujsor/>
- A képviselet módja: együttes.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (tisztségviselõ).<ujsor/>
- Hegedûs Sándor Imre (an: Czike Mária)<ujsor/>
+ A jogviszony vÃ©ge: 2008. 05. 31.<ujsor/>
+ A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (tisztsÃ©gviselÅ‘).<ujsor/>
+ HegedÅ±s SÃ¡ndor Imre (an: Czike MÃ¡ria)<ujsor/>
 1161 Budapest, Baross utca 107.<ujsor/>
  A jogviszony kezdete: 2004. 12. 22.<ujsor/>
- A jogviszony vége: 2009. 05. 31.<ujsor/>
- A képviselet módja: együttes.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (tisztségviselõ).<ujsor/>
+ A jogviszony vÃ©ge: 2009. 05. 31.<ujsor/>
+ A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (tisztsÃ©gviselÅ‘).<ujsor/>
  Papi Attila (an: Leczki Eszter)<ujsor/>
-1037 Budapest, Vízmosás lejtõ 10.<ujsor/>
+1037 Budapest, VÃ­zmosÃ¡s lejtÅ‘ 10.<ujsor/>
  A jogviszony kezdete: 2004. 12. 22.<ujsor/>
- A jogviszony vége: 2008. 05. 31.<ujsor/>
- A képviselet módja: együttes.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (tisztségviselõ).<ujsor/>
- Weninger László Pál (an: Kelemen Margit)<ujsor/>
-1213 Budapest, Sügér utca 9.<ujsor/>
+ A jogviszony vÃ©ge: 2008. 05. 31.<ujsor/>
+ A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (tisztsÃ©gviselÅ‘).<ujsor/>
+ Weninger LÃ¡szlÃ³ PÃ¡l (an: Kelemen Margit)<ujsor/>
+1213 Budapest, SÃ¼gÃ©r utca 9.<ujsor/>
  A jogviszony kezdete: 2004. 12. 22.<ujsor/>
- A jogviszony vége: 2008. 05. 31.<ujsor/>
- Törölve: 2004. 12. 22-i hatállyal.<ujsor/>
- A képviselet módja: együttes.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (tisztségviselõ).<ujsor/>
- Halász Mihály (an: Rokolya Magdolna Anna)<ujsor/>
-2096 Üröm, Alkonyat sétány 6.<ujsor/>
+ A jogviszony vÃ©ge: 2008. 05. 31.<ujsor/>
+ TÃ¶rÃ¶lve: 2004. 12. 22-i hatÃ¡llyal.<ujsor/>
+ A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (tisztsÃ©gviselÅ‘).<ujsor/>
+ HalÃ¡sz MihÃ¡ly (an: Rokolya Magdolna Anna)<ujsor/>
+2096 ÃœrÃ¶m, Alkonyat sÃ©tÃ¡ny 6.<ujsor/>
  A jogviszony kezdete: 2005. 05. 10.<ujsor/>
- A jogviszony vége: 2008. 05. 10.<ujsor/>
- A képviselet módja: együttes.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (tisztségviselõ).<ujsor/>
- Hegedûs Sándor Imre (an: Czike Mária)<ujsor/>
+ A jogviszony vÃ©ge: 2008. 05. 10.<ujsor/>
+ A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (tisztsÃ©gviselÅ‘).<ujsor/>
+ HegedÅ±s SÃ¡ndor Imre (an: Czike MÃ¡ria)<ujsor/>
 1161 Budapest, Baross utca 107.<ujsor/>
  A jogviszony kezdete: 2005. 05. 10.<ujsor/>
- A jogviszony vége: 2008. 05. 10.<ujsor/>
- A képviselet módja: együttes.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (tisztségviselõ).<ujsor/>
+ A jogviszony vÃ©ge: 2008. 05. 10.<ujsor/>
+ A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (tisztsÃ©gviselÅ‘).<ujsor/>
  Papi Attila (an: Leczki Eszter)<ujsor/>
-1037 Budapest, Vízmosás lejtõ 10.<ujsor/>
+1037 Budapest, VÃ­zmosÃ¡s lejtÅ‘ 10.<ujsor/>
  A jogviszony kezdete: 2005. 05. 10.<ujsor/>
- A jogviszony vége: 2008. 05. 10.<ujsor/>
- A képviselet módja: együttes.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (tisztségviselõ).<ujsor/>
- Weninger László Pál (an: Kelemen Margit)<ujsor/>
-1213 Budapest, Sügér utca 9.<ujsor/>
+ A jogviszony vÃ©ge: 2008. 05. 10.<ujsor/>
+ A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (tisztsÃ©gviselÅ‘).<ujsor/>
+ Weninger LÃ¡szlÃ³ PÃ¡l (an: Kelemen Margit)<ujsor/>
+1213 Budapest, SÃ¼gÃ©r utca 9.<ujsor/>
  A jogviszony kezdete: 2005. 05. 10.<ujsor/>
- A jogviszony vége: 2008. 05. 10.<ujsor/>
- A képviselet módja: önálló.<ujsor/>
- Tisztsége: igazgató (vezérigazgató).<ujsor/>
- Kövesdy Gábor (an: Varga Terézia)<ujsor/>
-1158 Budapest, Klebelsberg Kúnó u. 11.<ujsor/>
+ A jogviszony vÃ©ge: 2008. 05. 10.<ujsor/>
+ A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: igazgatÃ³ (vezÃ©rigazgatÃ³).<ujsor/>
+ KÃ¶vesdy GÃ¡bor (an: Varga TerÃ©zia)<ujsor/>
+1158 Budapest, Klebelsberg KÃºnÃ³ u. 11.<ujsor/>
  A jogviszony kezdete: 2005. 05. 10.<ujsor/>
- A jogviszony vége: 2010. 05. 10.<ujsor/>
- Hatályos: 2005. 05. 10-tõl.<ujsor/>
-14. [01 09 267553] Ernst &amp; Young Könyvvizsgáló Korlátolt Felelõsségû Társaság<ujsor/>
-HU 1132 Budapest, Váci út 20.<ujsor/>
- Ispánovity Mártonné (an: Komanovics Éva)<ujsor/>
+ A jogviszony vÃ©ge: 2010. 05. 10.<ujsor/>
+ HatÃ¡lyos: 2005. 05. 10-tÅ‘l.<ujsor/>
+14. [01 09 267553] Ernst &amp; Young KÃ¶nyvvizsgÃ¡lÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g<ujsor/>
+HU 1132 Budapest, VÃ¡ci Ãºt 20.<ujsor/>
+ IspÃ¡novity MÃ¡rtonnÃ© (an: Komanovics Ã‰va)<ujsor/>
 1103 Budapest, Csombor u. 4/1.<ujsor/>
  A jogviszony kezdete: 2004. 12. 22.<ujsor/>
- A jogviszony vége: 2005. 12. 22.<ujsor/>
- Törölve: 2004. 12. 22-i hatállyal.<ujsor/>
- [01 09 267553] Ernst &amp; Young Könyvvizsgáló Korlátolt Felelõsségû Társaság<ujsor/>
-HU 1132 Budapest, Váci út 20.<ujsor/>
- Ispánovity Mártonné (an: Komanovics Éva)<ujsor/>
+ A jogviszony vÃ©ge: 2005. 12. 22.<ujsor/>
+ TÃ¶rÃ¶lve: 2004. 12. 22-i hatÃ¡llyal.<ujsor/>
+ [01 09 267553] Ernst &amp; Young KÃ¶nyvvizsgÃ¡lÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g<ujsor/>
+HU 1132 Budapest, VÃ¡ci Ãºt 20.<ujsor/>
+ IspÃ¡novity MÃ¡rtonnÃ© (an: Komanovics Ã‰va)<ujsor/>
 1103 Budapest, Csombor u. 4/1.<ujsor/>
  A jogviszony kezdete: 2005. 05. 10.<ujsor/>
- A jogviszony vége: 2006. 05. 10.<ujsor/>
- Hatályos: 2005. 05. 10-tõl.<ujsor/>
-15. Szántó Anett (an: Dósai Edit)<ujsor/>
-1032 Budapest, Teszársz K. u. 3.<ujsor/>
+ A jogviszony vÃ©ge: 2006. 05. 10.<ujsor/>
+ HatÃ¡lyos: 2005. 05. 10-tÅ‘l.<ujsor/>
+15. SzÃ¡ntÃ³ Anett (an: DÃ³sai Edit)<ujsor/>
+1032 Budapest, TeszÃ¡rsz K. u. 3.<ujsor/>
  A jogviszony kezdete: 2004. 12. 22.<ujsor/>
- A jogviszony vége: 2008. 05. 31.<ujsor/>
- dr. Szûcs Brigitta (an: Szász Éva Mária)<ujsor/>
+ A jogviszony vÃ©ge: 2008. 05. 31.<ujsor/>
+ dr. SzÅ±cs Brigitta (an: SzÃ¡sz Ã‰va MÃ¡ria)<ujsor/>
 5000 Szolnok, Nagy Imre krt. 9. fszt. 3.<ujsor/>
  A jogviszony kezdete: 2004. 12. 22.<ujsor/>
- A jogviszony vége: 2008. 05. 31.<ujsor/>
- Boksayné dr. Zsuffa Katalin (an: Rácz Erzsébet)<ujsor/>
+ A jogviszony vÃ©ge: 2008. 05. 31.<ujsor/>
+ BoksaynÃ© dr. Zsuffa Katalin (an: RÃ¡cz ErzsÃ©bet)<ujsor/>
 1171 Budapest, Czimra Gyula utca 13.<ujsor/>
  A jogviszony kezdete: 2004. 12. 22.<ujsor/>
- A jogviszony vége: 2008. 05. 31.<ujsor/>
- Szepessy Kornél (an: Tóth Mária)<ujsor/>
+ A jogviszony vÃ©ge: 2008. 05. 31.<ujsor/>
+ Szepessy KornÃ©l (an: TÃ³th MÃ¡ria)<ujsor/>
 1025 Budapest, Ali u. 13.<ujsor/>
  A jogviszony kezdete: 2004. 12. 22.<ujsor/>
- A jogviszony vége: 2008. 05. 31.<ujsor/>
- Törölve: 2004. 12. 22-i hatállyal.<ujsor/>
- Szántó Anett (an: Dósai Edit)<ujsor/>
-1032 Budapest, Teszársz K. u. 3.<ujsor/>
+ A jogviszony vÃ©ge: 2008. 05. 31.<ujsor/>
+ TÃ¶rÃ¶lve: 2004. 12. 22-i hatÃ¡llyal.<ujsor/>
+ SzÃ¡ntÃ³ Anett (an: DÃ³sai Edit)<ujsor/>
+1032 Budapest, TeszÃ¡rsz K. u. 3.<ujsor/>
  A jogviszony kezdete: 2005. 05. 10.<ujsor/>
- A jogviszony vége: 2008. 05. 31.<ujsor/>
- Dr. Szûcs Brigitta (an: Szász Éva Mária)<ujsor/>
+ A jogviszony vÃ©ge: 2008. 05. 31.<ujsor/>
+ Dr. SzÅ±cs Brigitta (an: SzÃ¡sz Ã‰va MÃ¡ria)<ujsor/>
 5000 Szolnok, Nagy Imre krt. 9.<ujsor/>
  A jogviszony kezdete: 2005. 05. 10.<ujsor/>
- A jogviszony vége: 2008. 05. 31.<ujsor/>
- Boksayné dr. Zsuffa Katalin (an: Rácz Erzsébet)<ujsor/>
+ A jogviszony vÃ©ge: 2008. 05. 31.<ujsor/>
+ BoksaynÃ© dr. Zsuffa Katalin (an: RÃ¡cz ErzsÃ©bet)<ujsor/>
 1171 Budapest, Czimra Gyula u. 13.<ujsor/>
  A jogviszony kezdete: 2005. 05. 10.<ujsor/>
- A jogviszony vége: 2008. 05. 31.<ujsor/>
- Szepessy Kornél (an: Tóth Mária)<ujsor/>
+ A jogviszony vÃ©ge: 2008. 05. 31.<ujsor/>
+ Szepessy KornÃ©l (an: TÃ³th MÃ¡ria)<ujsor/>
 1025 Budapest, Ali u. 13.<ujsor/>
  A jogviszony kezdete: 2005. 05. 10.<ujsor/>
- A jogviszony vége: 2008. 05. 31.<ujsor/>
- Hatályos: 2005. 05. 10-tõl.<ujsor/>
-16. [01 10 044752] Antenna Multimédia Technológia és Tartalomszolgáltató Részvénytársaság.<ujsor/>
- Törölve: 2005. 05. 09-i hatállyal.<ujsor/>
- [01 10 044752] Antenna Multimédia Technológia és Tartalomszolgáltató Részvénytársaság.<ujsor/>
- Hatályos: 2005. 05. 10-tõl.<ujsor/>
+ A jogviszony vÃ©ge: 2008. 05. 31.<ujsor/>
+ HatÃ¡lyos: 2005. 05. 10-tÅ‘l.<ujsor/>
+16. [01 10 044752] Antenna MultimÃ©dia TechnolÃ³gia Ã©s TartalomszolgÃ¡ltatÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+ TÃ¶rÃ¶lve: 2005. 05. 09-i hatÃ¡llyal.<ujsor/>
+ [01 10 044752] Antenna MultimÃ©dia TechnolÃ³gia Ã©s TartalomszolgÃ¡ltatÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+ HatÃ¡lyos: 2005. 05. 10-tÅ‘l.<ujsor/>
 20. 12553828-7260-114-01.<ujsor/>
- Törölve: 2005. 05. 09-i hatállyal.<ujsor/>
+ TÃ¶rÃ¶lve: 2005. 05. 09-i hatÃ¡llyal.<ujsor/>
  12553828-7260-114-01.<ujsor/>
- Hatályos: 2005. 05. 10-tõl.<ujsor/>
-1(10). A társaság irányítását biztosító befolyásolás fajtája: jelentõs befolyás.<ujsor/>
- [01 10 044304] AVENIDA Pénzügyi Szolgáltató Részvénytársaság<ujsor/>
-HU 1137 Budapest, Pozsonyi út 14.<ujsor/>
- Törölve: 2004. 12. 22-i hatállyal.<ujsor/>
- A társaság irányítását biztosító befolyásolás fajtája: jelentõs befolyás.<ujsor/>
- [01 10 044304] AVENIDA Pénzügyi Szolgáltató Részvénytársaság<ujsor/>
-HU 1137 Budapest, Pozsonyi út 14. 1. em. 6.<ujsor/>
- Hatályos: 2004. 09. 29-tõl.<ujsor/>
-5(10). Részvényfajta: törzsrészvény.<ujsor/>
- Tizenötezer darab tízezer Ft.<ujsor/>
- Törölve: 2005. 05. 09-i hatállyal.<ujsor/>
- Részvényfajta: Törzsrészvény.<ujsor/>
- Tizenötezer darab tízezer Ft.<ujsor/>
- Hatályos: 2005. 05. 10-tõl.<ujsor/>
+ HatÃ¡lyos: 2005. 05. 10-tÅ‘l.<ujsor/>
+1(10). A tÃ¡rsasÃ¡g irÃ¡nyÃ­tÃ¡sÃ¡t biztosÃ­tÃ³ befolyÃ¡solÃ¡s fajtÃ¡ja: jelentÅ‘s befolyÃ¡s.<ujsor/>
+ [01 10 044304] AVENIDA PÃ©nzÃ¼gyi SzolgÃ¡ltatÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g<ujsor/>
+HU 1137 Budapest, Pozsonyi Ãºt 14.<ujsor/>
+ TÃ¶rÃ¶lve: 2004. 12. 22-i hatÃ¡llyal.<ujsor/>
+ A tÃ¡rsasÃ¡g irÃ¡nyÃ­tÃ¡sÃ¡t biztosÃ­tÃ³ befolyÃ¡solÃ¡s fajtÃ¡ja: jelentÅ‘s befolyÃ¡s.<ujsor/>
+ [01 10 044304] AVENIDA PÃ©nzÃ¼gyi SzolgÃ¡ltatÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g<ujsor/>
+HU 1137 Budapest, Pozsonyi Ãºt 14. 1. em. 6.<ujsor/>
+ HatÃ¡lyos: 2004. 09. 29-tÅ‘l.<ujsor/>
+5(10). RÃ©szvÃ©nyfajta: tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+ TizenÃ¶tezer darab tÃ­zezer Ft.<ujsor/>
+ TÃ¶rÃ¶lve: 2005. 05. 09-i hatÃ¡llyal.<ujsor/>
+ RÃ©szvÃ©nyfajta: TÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+ TizenÃ¶tezer darab tÃ­zezer Ft.<ujsor/>
+ HatÃ¡lyos: 2005. 05. 10-tÅ‘l.<ujsor/>
 Bejegyezve: 2006. 01. 23.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044477</mezo>
-<mezo id = "nev">EDUWEB MULTIMÉDIA Technológia és Távoktatási Részvénytársaság</mezo>
+<mezo id = "nev">EDUWEB MULTIMÃ‰DIA TechnolÃ³gia Ã©s TÃ¡voktatÃ¡si RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1117 Budapest, Kocsis utca 1.</mezo>
 <mezo id = "adosz">12553828243</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a cég 2006. 10. 16. napján<ujsor/>
-benyújtott változás bejegyzése iránti kérelmét elutasítja.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a cÃ©g 2006. 10. 16. napjÃ¡n<ujsor/>
+benyÃºjtott vÃ¡ltozÃ¡s bejegyzÃ©se irÃ¡nti kÃ©relmÃ©t elutasÃ­tja.<ujsor/>
 2007. 01. 11.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044477</mezo>
-<mezo id = "nev">EDUWEB MULTIMÉDIA Technológia és Távoktatási Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">EDUWEB MULTIMÃ‰DIA TechnolÃ³gia Ã©s TÃ¡voktatÃ¡si ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1119 Budapest, Kocsis u. 1.</mezo>
 <mezo id = "adosz">12553828243</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2006. 01. 23-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. A képviselet módja: önálló.<ujsor/>
- Tisztsége: igazgató (vezérigazgató).<ujsor/>
- Kövesdy Gábor (an: Varga Terézia)<ujsor/>
-1158 Budapest, Klebelsberg Kúnó u. 11.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2006. 01. 23-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: igazgatÃ³ (vezÃ©rigazgatÃ³).<ujsor/>
+ KÃ¶vesdy GÃ¡bor (an: Varga TerÃ©zia)<ujsor/>
+1158 Budapest, Klebelsberg KÃºnÃ³ u. 11.<ujsor/>
  A jogviszony kezdete: 2005. 05. 10.<ujsor/>
- A jogviszony vége: 2010. 05. 10.<ujsor/>
- Törölve: 2007. 08. 06.<ujsor/>
+ A jogviszony vÃ©ge: 2010. 05. 10.<ujsor/>
+ TÃ¶rÃ¶lve: 2007. 08. 06.<ujsor/>
 2007. 08. 06.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044477</mezo>
-<mezo id = "nev">EDUWEB MULTIMÉDIA Technológia és Távoktatási Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">1089 Budapest, Gaál Mózes utca 5-7.</mezo>
+<mezo id = "nev">EDUWEB MULTIMÃ‰DIA TechnolÃ³gia Ã©s TÃ¡voktatÃ¡si ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1089 Budapest, GaÃ¡l MÃ³zes utca 5-7.</mezo>
 <mezo id = "adosz">12553828242</mezo>
 </alrovat>
 </rovat>

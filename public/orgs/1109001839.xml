@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">001839</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">2800 Tatabánya, Táncsics Mihály u. 1/e. </mezo>
+<mezo id = "cim">2800 TatabÃ¡nya, TÃ¡ncsics MihÃ¡ly u. 1/e. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">10605376211</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19910725</mezo>
-<mezo id = "nev">THERMIN Vízgazdálkodási és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">THERMIN VÃ­zgazdÃ¡lkodÃ¡si Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -26,8 +26,8 @@
 <alrovat id = "3">
 <mezo id = "hattol">20050701</mezo>
 <mezo id = "irsz">2800</mezo>
-<mezo id = "hely">Tatabánya</mezo>
-<mezo id = "teru">Táncsics Mihály u. 1/e.</mezo>
+<mezo id = "hely">TatabÃ¡nya</mezo>
+<mezo id = "teru">TÃ¡ncsics MihÃ¡ly u. 1/e.</mezo>
 <mezo id = "kirsz">0</mezo>
 </alrovat>
 </rovat>
@@ -35,12 +35,12 @@
 <alrovat id = "1">
 <mezo id = "hattol">19910812</mezo>
 <mezo id = "irsz">9025</mezo>
-<mezo id = "hely">Gyõr Somos u.1.</mezo>
+<mezo id = "hely">GyÅ‘r Somos u.1.</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20040305</mezo>
 <mezo id = "irsz">9081</mezo>
-<mezo id = "hely">Gyõrújbarát, Fõ u. 180.</mezo>
+<mezo id = "hely">GyÅ‘rÃºjbarÃ¡t, FÅ‘ u. 180.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "8">
@@ -758,9 +758,9 @@
 <rovat id = "13">
 <alrovat id = "8">
 <mezo id = "hattol">20100401</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Ignácz József</mezo>
-<mezo id = "panev">Bakó Mária</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">IgnÃ¡cz JÃ³zsef</mezo>
+<mezo id = "panev">BakÃ³ MÃ¡ria</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100401</mezo>
 <mezo id = "jogvv">20150401</mezo>
@@ -773,7 +773,7 @@
 <alrovat id = "4">
 <mezo id = "hattol">20100401</mezo>
 <mezo id = "pnev">Baranyai Krisztina</mezo>
-<mezo id = "panev">Csordás Erzsébet</mezo>
+<mezo id = "panev">CsordÃ¡s ErzsÃ©bet</mezo>
 <mezo id = "jogvk">20100401</mezo>
 <mezo id = "jogvv">20121231</mezo>
 <mezo id = "valtk">20100401</mezo>
@@ -803,10 +803,10 @@
 <rovat id = "0109">
 <alrovat id = "52">
 <mezo id = "hattol">20080630</mezo>
-<mezo id = "pnev">Kovács Attila</mezo>
+<mezo id = "pnev">KovÃ¡cs Attila</mezo>
 <mezo id = "panev">Egressy Margit</mezo>
 <mezo id = "pirsz">9081</mezo>
-<mezo id = "phely">Gyõrújbarát, Komlóvölgy utca 2.</mezo>
+<mezo id = "phely">GyÅ‘rÃºjbarÃ¡t, KomlÃ³vÃ¶lgy utca 2.</mezo>
 <mezo id = "tagsk">20001228</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20080630</mezo>
@@ -816,10 +816,10 @@
 </alrovat>
 <alrovat id = "53">
 <mezo id = "hattol">20080630</mezo>
-<mezo id = "pnev">Ignácz József</mezo>
-<mezo id = "panev">Bakó Mária</mezo>
+<mezo id = "pnev">IgnÃ¡cz JÃ³zsef</mezo>
+<mezo id = "panev">BakÃ³ MÃ¡ria</mezo>
 <mezo id = "pirsz">9081</mezo>
-<mezo id = "phely">Gyõrújbarát, Tölgyfa utca 6.</mezo>
+<mezo id = "phely">GyÅ‘rÃºjbarÃ¡t, TÃ¶lgyfa utca 6.</mezo>
 <mezo id = "tagsk">19910725</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "sz1">x</mezo>
@@ -838,65 +838,65 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A [11 09 001839] cégjegyzékszámú THERMIN Vízgazdálkodási és Szolgáltató Korlátolt Felelõsségû Társaság (2800 Tatabánya, Sárberek 100.) az 1993. szeptember 27-én megtartott taggyûlésén elhatározta törzstõkéjének 15 300 000 Ft-ról (tizenötmillió-háromszázezer forintról) 10 000 000 Ft-ra (tízmillió forintra) történõ leszállítását.<ujsor/>
-A törzstõke leszállítása törzsbetét visszafizetése útján történik.<ujsor/>
-A gazdasági társaság felhívja hitelezõit, hogy követeléseiket a hirdetmény utolsó közzétételétõl számított 3 hónapon belül a társaság ügyvezetõjénél, Kõhalmi Andrásnál, a társaság fióktelepén (9025 Gyõr, Somos u. 1.) - bizonyítékaikat is csatolva - jelentsék be.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">A [11 09 001839] cÃ©gjegyzÃ©kszÃ¡mÃº THERMIN VÃ­zgazdÃ¡lkodÃ¡si Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (2800 TatabÃ¡nya, SÃ¡rberek 100.) az 1993. szeptember 27-Ã©n megtartott taggyÅ±lÃ©sÃ©n elhatÃ¡rozta tÃ¶rzstÅ‘kÃ©jÃ©nek 15 300 000 Ft-rÃ³l (tizenÃ¶tmilliÃ³-hÃ¡romszÃ¡zezer forintrÃ³l) 10 000 000 Ft-ra (tÃ­zmilliÃ³ forintra) tÃ¶rtÃ©nÅ‘ leszÃ¡llÃ­tÃ¡sÃ¡t.<ujsor/>
+A tÃ¶rzstÅ‘ke leszÃ¡llÃ­tÃ¡sa tÃ¶rzsbetÃ©t visszafizetÃ©se ÃºtjÃ¡n tÃ¶rtÃ©nik.<ujsor/>
+A gazdasÃ¡gi tÃ¡rsasÃ¡g felhÃ­vja hitelezÅ‘it, hogy kÃ¶vetelÃ©seiket a hirdetmÃ©ny utolsÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott 3 hÃ³napon belÃ¼l a tÃ¡rsasÃ¡g Ã¼gyvezetÅ‘jÃ©nÃ©l, KÅ‘halmi AndrÃ¡snÃ¡l, a tÃ¡rsasÃ¡g fiÃ³ktelepÃ©n (9025 GyÅ‘r, Somos u. 1.) - bizonyÃ­tÃ©kaikat is csatolva - jelentsÃ©k be.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">1109001839</mezo>
-<mezo id = "nev">THERMIN Vízgazdálkodási és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">THERMIN VÃ­zgazdÃ¡lkodÃ¡si Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A [11 09 001839] cégjegyzékszámú THERMIN Vízgazdálkodási és Szolgáltató Korlátolt Felelõsségû Társaság (2800 Tatabánya, Sárberek 100.) az 1993. szeptember 27-én megtartott taggyûlésén elhatározta törzstõkéjének 15 300 000 Ft-ról (tizenötmillió-háromszázezer forintról) 10 000 000 Ft-ra (tízmillió forintra) történõ leszállítását.<ujsor/>
-A törzstõke leszállítása törzsbetét visszafizetése útján történik.<ujsor/>
-A gazdasági társaság felhívja hitelezõit, hogy követeléseiket a hirdetmény utolsó közzétételétõl számított 3 hónapon belül a társaság ügyvezetõjénél, Kõhalmi Andrásnál, a társaság fióktelepén (9025 Gyõr, Somos u. 1.) - bizonyítékaikat is csatolva - jelentsék be.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">A [11 09 001839] cÃ©gjegyzÃ©kszÃ¡mÃº THERMIN VÃ­zgazdÃ¡lkodÃ¡si Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (2800 TatabÃ¡nya, SÃ¡rberek 100.) az 1993. szeptember 27-Ã©n megtartott taggyÅ±lÃ©sÃ©n elhatÃ¡rozta tÃ¶rzstÅ‘kÃ©jÃ©nek 15 300 000 Ft-rÃ³l (tizenÃ¶tmilliÃ³-hÃ¡romszÃ¡zezer forintrÃ³l) 10 000 000 Ft-ra (tÃ­zmilliÃ³ forintra) tÃ¶rtÃ©nÅ‘ leszÃ¡llÃ­tÃ¡sÃ¡t.<ujsor/>
+A tÃ¶rzstÅ‘ke leszÃ¡llÃ­tÃ¡sa tÃ¶rzsbetÃ©t visszafizetÃ©se ÃºtjÃ¡n tÃ¶rtÃ©nik.<ujsor/>
+A gazdasÃ¡gi tÃ¡rsasÃ¡g felhÃ­vja hitelezÅ‘it, hogy kÃ¶vetelÃ©seiket a hirdetmÃ©ny utolsÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott 3 hÃ³napon belÃ¼l a tÃ¡rsasÃ¡g Ã¼gyvezetÅ‘jÃ©nÃ©l, KÅ‘halmi AndrÃ¡snÃ¡l, a tÃ¡rsasÃ¡g fiÃ³ktelepÃ©n (9025 GyÅ‘r, Somos u. 1.) - bizonyÃ­tÃ©kaikat is csatolva - jelentsÃ©k be.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">1109001839</mezo>
-<mezo id = "nev">THERMIN Vízgazdálkodási és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">THERMIN VÃ­zgazdÃ¡lkodÃ¡si Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Ignácz József, 9024 Gyõr, Ikva u. 58. szám alatti lakos, a Gt. 292. § (1) bekezdése alapján közzéteszi, hogy a THERMIN Vízgazdálkodási és Szolgáltató Korlátolt Felelõsségû Társaságban (2800 Tatabánya, Sárberek 100.; Cg.: [11 09 001839]), az 1999. július 9-én történt üzletrész-átruházás következtében, a Gt. 290. §-a alapján többségi irányítást biztosító befolyással rendelkezik, tekintettel arra, hogy a társaságnál a szavazatok 50,8%-ával rendelkezik.<ujsor/>
+<mezo id = "szoveg">IgnÃ¡cz JÃ³zsef, 9024 GyÅ‘r, Ikva u. 58. szÃ¡m alatti lakos, a Gt. 292. Â§ (1) bekezdÃ©se alapjÃ¡n kÃ¶zzÃ©teszi, hogy a THERMIN VÃ­zgazdÃ¡lkodÃ¡si Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gban (2800 TatabÃ¡nya, SÃ¡rberek 100.; Cg.: [11 09 001839]), az 1999. jÃºlius 9-Ã©n tÃ¶rtÃ©nt Ã¼zletrÃ©sz-Ã¡truhÃ¡zÃ¡s kÃ¶vetkeztÃ©ben, a Gt. 290. Â§-a alapjÃ¡n tÃ¶bbsÃ©gi irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡ssal rendelkezik, tekintettel arra, hogy a tÃ¡rsasÃ¡gnÃ¡l a szavazatok 50,8%-Ã¡val rendelkezik.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1109001839</mezo>
-<mezo id = "nev">THERMIN Vízgazdálkodási és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">THERMIN VÃ­zgazdÃ¡lkodÃ¡si Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság az 1999. 09. 23-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g az 1999. 09. 23-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
 1(09). Babics Tibor (an: Csizmazia Magdolna)<ujsor/>
-9024 Gyõr, Szent Imre u. 24.<ujsor/>
- Hatályos: 1997. 11. 28-tól.<ujsor/>
+9024 GyÅ‘r, Szent Imre u. 24.<ujsor/>
+ HatÃ¡lyos: 1997. 11. 28-tÃ³l.<ujsor/>
 Bejegyezve: 1999. 10. 19.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1109001839</mezo>
-<mezo id = "nev">THERMIN Vízgazdálkodási és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">2800 Tatabánya, Sárberek 100.</mezo>
+<mezo id = "nev">THERMIN VÃ­zgazdÃ¡lkodÃ¡si Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2800 TatabÃ¡nya, SÃ¡rberek 100.</mezo>
 <mezo id = "adosz">10600537211</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Kismõdi Nándor (1119 Budapest, Tétényi út 113.) bejelenti, hogy a THERMIN Vízgazdálkodási és Szolgáltató Korlátolt Felelõsségû Társaságban (2800 Tatabánya, Sárberek 100.; Cg.: [11 09 001839]) 2000. november 16-ával 36,50%-os üzletrészt szerzett.<ujsor/>
-Üzletrésze alapján a társaságban jelentõs befolyással rendelkezik. Szavazatainak száma: 460 db.<ujsor/>
+<mezo id = "szoveg">KismÅ‘di NÃ¡ndor (1119 Budapest, TÃ©tÃ©nyi Ãºt 113.) bejelenti, hogy a THERMIN VÃ­zgazdÃ¡lkodÃ¡si Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gban (2800 TatabÃ¡nya, SÃ¡rberek 100.; Cg.: [11 09 001839]) 2000. november 16-Ã¡val 36,50%-os Ã¼zletrÃ©szt szerzett.<ujsor/>
+ÃœzletrÃ©sze alapjÃ¡n a tÃ¡rsasÃ¡gban jelentÅ‘s befolyÃ¡ssal rendelkezik. Szavazatainak szÃ¡ma: 460 db.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1109001839</mezo>
-<mezo id = "nev">THERMIN Vízgazdálkodási és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">THERMIN VÃ­zgazdÃ¡lkodÃ¡si Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Kovács Attila, 9028 Gyõr, Lovas u. 1. szám alatti lakos bejelenti, hogy a THERMIN Vízgazdálkodási és Szolgáltató Korlátolt Felelõsségû Társaságban (2800 Tatabánya, Sárberek 100.; Cg.: [11 09 001839]) 2000. december 5-ével 36,50%-os üzletrészt szerzett.<ujsor/>
-Üzletrésze alapján a társaságban jelentõs befolyással rendelkezik.<ujsor/>
-Szavazatai száma: 460 db.<ujsor/>
+<mezo id = "szoveg">KovÃ¡cs Attila, 9028 GyÅ‘r, Lovas u. 1. szÃ¡m alatti lakos bejelenti, hogy a THERMIN VÃ­zgazdÃ¡lkodÃ¡si Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gban (2800 TatabÃ¡nya, SÃ¡rberek 100.; Cg.: [11 09 001839]) 2000. december 5-Ã©vel 36,50%-os Ã¼zletrÃ©szt szerzett.<ujsor/>
+ÃœzletrÃ©sze alapjÃ¡n a tÃ¡rsasÃ¡gban jelentÅ‘s befolyÃ¡ssal rendelkezik.<ujsor/>
+Szavazatai szÃ¡ma: 460 db.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1109001839</mezo>
-<mezo id = "nev">THERMIN Vízgazdálkodási és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">THERMIN VÃ­zgazdÃ¡lkodÃ¡si Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "99017">

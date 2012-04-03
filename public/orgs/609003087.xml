@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">003087</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">6725 Szeged, Kenyérgyári út 5. </mezo>
+<mezo id = "cim">6725 Szeged, KenyÃ©rgyÃ¡ri Ãºt 5. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">11093046206</mezo>
 </alrovat>
@@ -13,13 +13,13 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19940701</mezo>
-<mezo id = "nev">&quot;ULTRA-MÉDIA&quot; Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">&quot;ULTRA-MÃ‰DIA&quot; Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">19940701</mezo>
-<mezo id = "nev">&quot;ULTRA-MÉDIA&quot; Kft.</mezo>
+<mezo id = "nev">&quot;ULTRA-MÃ‰DIA&quot; Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
@@ -27,7 +27,7 @@
 <mezo id = "hattol">20101020</mezo>
 <mezo id = "irsz">6725</mezo>
 <mezo id = "hely">Szeged</mezo>
-<mezo id = "teru">Kenyérgyári út 5.</mezo>
+<mezo id = "teru">KenyÃ©rgyÃ¡ri Ãºt 5.</mezo>
 <mezo id = "valtk">20101020</mezo>
 <mezo id = "bkelt">20101102</mezo>
 </alrovat>
@@ -37,7 +37,7 @@
 <mezo id = "hattol">20101020</mezo>
 <mezo id = "irsz">6725</mezo>
 <mezo id = "hely">Szeged</mezo>
-<mezo id = "teru">Kenyérgyári út 5.</mezo>
+<mezo id = "teru">KenyÃ©rgyÃ¡ri Ãºt 5.</mezo>
 <mezo id = "valtk">20101020</mezo>
 <mezo id = "bkelt">20101102</mezo>
 </alrovat>
@@ -278,9 +278,9 @@
 <rovat id = "13">
 <alrovat id = "7">
 <mezo id = "hattol">20110104</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Pintérné Stephanik Bernadett</mezo>
-<mezo id = "panev">Házi Mária</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">PintÃ©rnÃ© Stephanik Bernadett</mezo>
+<mezo id = "panev">HÃ¡zi MÃ¡ria</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20110104</mezo>
 <mezo id = "valtk">20110104</mezo>
@@ -303,7 +303,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20100915</mezo>
 <mezo id = "jccjsz">0609015921</mezo>
-<mezo id = "nev">SZOLVEUS Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">SZOLVEUS SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">20100915</mezo>
 <mezo id = "bkelt">20100915</mezo>
 </alrovat>
@@ -311,16 +311,16 @@
 <rovat id = "0109">
 <alrovat id = "5">
 <mezo id = "hattol">20101020</mezo>
-<mezo id = "pnev">Pintérné Stephanik Bernadett</mezo>
-<mezo id = "panev">Házi Mária</mezo>
+<mezo id = "pnev">PintÃ©rnÃ© Stephanik Bernadett</mezo>
+<mezo id = "panev">HÃ¡zi MÃ¡ria</mezo>
 <mezo id = "tagsk">20101020</mezo>
 <mezo id = "valtk">20101020</mezo>
 <mezo id = "bkelt">20101102</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20101020</mezo>
-<mezo id = "pnev">Pintér Gábor Ferenc</mezo>
-<mezo id = "panev">Harangozó Mária Magdolna</mezo>
+<mezo id = "pnev">PintÃ©r GÃ¡bor Ferenc</mezo>
+<mezo id = "panev">HarangozÃ³ MÃ¡ria Magdolna</mezo>
 <mezo id = "tagsk">20101020</mezo>
 <mezo id = "valtk">20101020</mezo>
 <mezo id = "bkelt">20101102</mezo>
@@ -335,135 +335,135 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Csikós Péter (6725 Szeged, Világos u. 15/A) a Gt. 292. § (1) bekezdése alapján közzéteszi, hogy az ,,ULTRA-MÉDIA&apos;&apos; Kereskedelmi és Szolgáltató Kft.-ben (6725 Szeged, Világos u. 15/A; cégjegyzékszám: Cg. [06 09 003087]) 1998. december 20-ával törzstõke felemelése következtében többségi irányítást biztosító befolyással rendelkezik a törzstõke, szavazatok 70%-ának megszerzésével.<ujsor/>
+<mezo id = "szoveg">CsikÃ³s PÃ©ter (6725 Szeged, VilÃ¡gos u. 15/A) a Gt. 292. Â§ (1) bekezdÃ©se alapjÃ¡n kÃ¶zzÃ©teszi, hogy az ,,ULTRA-MÃ‰DIA&apos;&apos; Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ Kft.-ben (6725 Szeged, VilÃ¡gos u. 15/A; cÃ©gjegyzÃ©kszÃ¡m: Cg. [06 09 003087]) 1998. december 20-Ã¡val tÃ¶rzstÅ‘ke felemelÃ©se kÃ¶vetkeztÃ©ben tÃ¶bbsÃ©gi irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡ssal rendelkezik a tÃ¶rzstÅ‘ke, szavazatok 70%-Ã¡nak megszerzÃ©sÃ©vel.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0609003087</mezo>
-<mezo id = "nev">&quot;ULTRA-MÉDIA&quot; Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság (6725 Szeged, Világos u. 15/A)</mezo>
+<mezo id = "nev">&quot;ULTRA-MÃ‰DIA&quot; Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (6725 Szeged, VilÃ¡gos u. 15/A)</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az „ULTRA-MÉDIA” Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság (Cg.: [06 09 003087]; 6724 Szeged, Bakay Nándor u. 23. II. 6.) kiválással átalakul.<ujsor/>
-A kiválás után fennmaradó gazdasági társaság fõbb adatai:<ujsor/>
-Neve: „ULTRA-MÉDIA” Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhelye: 6724 Szeged, Bakay Nándor u. 23. II. 6.<ujsor/>
-A társasági szerzõdés módosítás aláírásának napja: 2010. június 30.<ujsor/>
-A kiválással létrejövõ új gazdasági társaság fõbb adatai:<ujsor/>
-Neve: SZOLVEUS Szolgáltató Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhelye: 6724 Szeged, Bakay Nándor u. 23. II. 6.<ujsor/>
-A társasági szerzõdés aláírásának napja: 2010. június 30.<ujsor/>
-Az átalakuló „ULTRA-MÉDIA” Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság (záró) vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 13 828 Saját tõke 64 391<ujsor/>
-Immateriális javak 0 Jegyzett tõke 3 000<ujsor/>
-Tárgyi eszközök 13 828 Tõketartalék 0<ujsor/>
-Befektetett pénzügyi eszközök 0 Eredménytartalék 57 260<ujsor/>
-Forgóeszközök 65 844 Lekötött tartalék 4 131<ujsor/>
-Készletek 145 Mérleg szerinti eredmény 0<ujsor/>
-Követelések 24 835 Céltartalékok 0<ujsor/>
-Értékpapírok 19 407 Kötelezettségek 15 177<ujsor/>
-Pénzeszközök 21 457 Rövid lejáratú kötelezettségek 15 177<ujsor/>
-Aktív idõbeli elhatárolások 135 Passzív idõbeli elhatárolások 239<ujsor/>
-ÖSSZESEN: 79 807 ÖSSZESEN: 79 807<ujsor/>
-A kiválás után fennmaradó „ULTRA-MÉDIA” Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság (nyitó) vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 4278 Saját tõke 500<ujsor/>
-Immateriális javak 0 Jegyzett tõke 500<ujsor/>
-Tárgyi eszközök 4 278 Tõketartalék 0<ujsor/>
-Forgóeszközök 1261 Eredménytartalék 0<ujsor/>
-Készletek 145 Lekötött tartalék 0<ujsor/>
-Követelések 1116 Céltartalékok 0<ujsor/>
-Értékpapírok 0 Kötelezettségek 4935<ujsor/>
-Pénzeszközök 0 Rövid lejáratú kötelezettségek 4935<ujsor/>
-Aktív idõbeli elhatárolások 135 Passzív idõbeli elhatárolások 239<ujsor/>
-ÖSSZESEN: 5674 ÖSSZESEN: 5674<ujsor/>
-A kiválással létrejövõ SZOLVEUS Szolgáltató Korlátolt Felelõsségû Társaság (nyitó) vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 9 550 Saját tõke 63 891<ujsor/>
-Tárgyi eszközök 9 550 Jegyzett tõke 2 500<ujsor/>
-Forgóeszközök 64 583 Eredménytartalék 57 260<ujsor/>
-Követelések 23 719 Lekötött tartalék 4 131<ujsor/>
-Értékpapírok 19 407 Céltartalék 0<ujsor/>
-Pénzeszközök 21 457 Kötelezettségek 10 242<ujsor/>
-Aktív idõbeli elhatárolások 0 Passzív idõbeli elhatárolások 0<ujsor/>
-ÖSSZESEN: 74 133 ÖSSZESEN: 74 133<ujsor/>
-A kiválás után fennmaradó gazdasági társaság fõ tevékenysége: Személybiztonsági tevékenység.<ujsor/>
-A létrejövõ új gazdasági társaság fõ tevékenysége: Fodrászat, szépségápolás.<ujsor/>
-A kiválás után fennmaradó gazdasági társaság vezetõ tisztségviselõje: Csikós Péter ügyvezetõ (a. n.: Csamangó Ilona; 6725 Szeged, Világos u. 15/A).<ujsor/>
-A létrejövõ új gazdasági társaság vezetõ tisztségviselõi: Csikós Péter 1. ügyvezetõ (a. n.: Csamangó Ilona; 6725 Szeged, Világos u. 15/A); Csikós Péterné Sz. Kovács Olga 2. ügyvezetõ (a. n.: Farkas Aranka; 6725 Szeged, Világos u. 15/A).<ujsor/>
-A szétválás módja: kiválás.<ujsor/>
-A szétváló gazdasági társaságot megilletõ és terhelõ kötelezettségek megosztására vonatkozó megállapodás legfontosabb rendelkezései, különösen a vagyonmegosztás aránya:<ujsor/>
-A fennmaradó és a létrejövõ társaság a szétváló társaság jogutódai. A jogutód társaság között a szétváló társaságot megilletõ, illetve terhelõ jogok és kötelezettségek a szétválási szerzõdésben foglaltak alapján és mértékben oszlanak meg, azaz a tevékenységhez kapcsolódó jogok és kötelezettségek a kiválás után fennmaradó „ULTRA-MÉDIA” Kft. társaságban maradnak 100%-ban, a kiváló SZOLVEUS Kft. társaság nem visz magával semmit. A vagyonmegosztás elveit, valamint a társasági vagyon felosztásának részletes szabályait a független könyvvizsgáló által záradékolt vagyonmérleg- és vagyonleltár-tervezetek tartalmazzák.<ujsor/>
-A létrejövõ SZOLVEUS Szolgáltató Korlátolt Felelõsségû Társaság, a fennmaradó „ULTRA-MÉDIA” Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság a szétváló „ULTRA-MÉDIA” Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság jogutódai. A szétváló gazdasági társaságot megilletõ jogok és kötelességek 100%-os arányban a fennmaradó „ULTRA-MÉDIA” Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaságban maradnak, azaz a megoszlás százalékos aránya: 100% „ULTRAMÉDIA” Kft. ­ 0% SZOLVEUS Kft.<ujsor/>
-A társaság felhívja a hitelezõk figyelmét, hogy a céggel szemben fennálló követeléseiket a Gt. 75. § (3) bekezdés h) pontja alapján jelentsék be. Azok a hitelezõk, akiknek az átalakuló gazdasági társasággal szemben fennálló, le nem járt követelései az átalakulással hozott döntés elsõ közzétételét megelõzõen keletkeztek, követeléseik erejéig az átalakuló cégtõl a döntés második közzétételét követõ harmincnapos jogvesztõ határidõn belül biztosítékot követelhetnek.<ujsor/>
-A társaság tájékoztatja a hitelezõket, hogy a hirdetményi határidõ alatt a követelésüket érintõ vagyonmegosztási rendelkezésekrõl az átalakuló „ULTRA-MÉDIA” Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság (6724 Szeged, Bakay Nándor u. 23. II. 6.) székhelyén kaphatnak közvetlen tájékoztatást. A tájékoztatás nyújtásáért Csikós Péter ügyvezetõ tartozik felelõsséggel.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">Az â€ULTRA-MÃ‰DIAâ€ Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [06 09 003087]; 6724 Szeged, Bakay NÃ¡ndor u. 23. II. 6.) kivÃ¡lÃ¡ssal Ã¡talakul.<ujsor/>
+A kivÃ¡lÃ¡s utÃ¡n fennmaradÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘bb adatai:<ujsor/>
+Neve: â€ULTRA-MÃ‰DIAâ€ Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 6724 Szeged, Bakay NÃ¡ndor u. 23. II. 6.<ujsor/>
+A tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s mÃ³dosÃ­tÃ¡s alÃ¡Ã­rÃ¡sÃ¡nak napja: 2010. jÃºnius 30.<ujsor/>
+A kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ Ãºj gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘bb adatai:<ujsor/>
+Neve: SZOLVEUS SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 6724 Szeged, Bakay NÃ¡ndor u. 23. II. 6.<ujsor/>
+A tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s alÃ¡Ã­rÃ¡sÃ¡nak napja: 2010. jÃºnius 30.<ujsor/>
+Az Ã¡talakulÃ³ â€ULTRA-MÃ‰DIAâ€ Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (zÃ¡rÃ³) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 13 828 SajÃ¡t tÅ‘ke 64 391<ujsor/>
+ImmateriÃ¡lis javak 0 Jegyzett tÅ‘ke 3 000<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 13 828 TÅ‘ketartalÃ©k 0<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 EredmÃ©nytartalÃ©k 57 260<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 65 844 LekÃ¶tÃ¶tt tartalÃ©k 4 131<ujsor/>
+KÃ©szletek 145 MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+KÃ¶vetelÃ©sek 24 835 CÃ©ltartalÃ©kok 0<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 19 407 KÃ¶telezettsÃ©gek 15 177<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 21 457 RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 15 177<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 135 PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 239<ujsor/>
+Ã–SSZESEN: 79 807 Ã–SSZESEN: 79 807<ujsor/>
+A kivÃ¡lÃ¡s utÃ¡n fennmaradÃ³ â€ULTRA-MÃ‰DIAâ€ Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (nyitÃ³) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 4278 SajÃ¡t tÅ‘ke 500<ujsor/>
+ImmateriÃ¡lis javak 0 Jegyzett tÅ‘ke 500<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 4 278 TÅ‘ketartalÃ©k 0<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 1261 EredmÃ©nytartalÃ©k 0<ujsor/>
+KÃ©szletek 145 LekÃ¶tÃ¶tt tartalÃ©k 0<ujsor/>
+KÃ¶vetelÃ©sek 1116 CÃ©ltartalÃ©kok 0<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 0 KÃ¶telezettsÃ©gek 4935<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 0 RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 4935<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 135 PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 239<ujsor/>
+Ã–SSZESEN: 5674 Ã–SSZESEN: 5674<ujsor/>
+A kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ SZOLVEUS SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (nyitÃ³) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 9 550 SajÃ¡t tÅ‘ke 63 891<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 9 550 Jegyzett tÅ‘ke 2 500<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 64 583 EredmÃ©nytartalÃ©k 57 260<ujsor/>
+KÃ¶vetelÃ©sek 23 719 LekÃ¶tÃ¶tt tartalÃ©k 4 131<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 19 407 CÃ©ltartalÃ©k 0<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 21 457 KÃ¶telezettsÃ©gek 10 242<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 0 PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 0<ujsor/>
+Ã–SSZESEN: 74 133 Ã–SSZESEN: 74 133<ujsor/>
+A kivÃ¡lÃ¡s utÃ¡n fennmaradÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©ge: SzemÃ©lybiztonsÃ¡gi tevÃ©kenysÃ©g.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ Ãºj gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©ge: FodrÃ¡szat, szÃ©psÃ©gÃ¡polÃ¡s.<ujsor/>
+A kivÃ¡lÃ¡s utÃ¡n fennmaradÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘je: CsikÃ³s PÃ©ter Ã¼gyvezetÅ‘ (a. n.: CsamangÃ³ Ilona; 6725 Szeged, VilÃ¡gos u. 15/A).<ujsor/>
+A lÃ©trejÃ¶vÅ‘ Ãºj gazdasÃ¡gi tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘i: CsikÃ³s PÃ©ter 1. Ã¼gyvezetÅ‘ (a. n.: CsamangÃ³ Ilona; 6725 Szeged, VilÃ¡gos u. 15/A); CsikÃ³s PÃ©ternÃ© Sz. KovÃ¡cs Olga 2. Ã¼gyvezetÅ‘ (a. n.: Farkas Aranka; 6725 Szeged, VilÃ¡gos u. 15/A).<ujsor/>
+A szÃ©tvÃ¡lÃ¡s mÃ³dja: kivÃ¡lÃ¡s.<ujsor/>
+A szÃ©tvÃ¡lÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡got megilletÅ‘ Ã©s terhelÅ‘ kÃ¶telezettsÃ©gek megosztÃ¡sÃ¡ra vonatkozÃ³ megÃ¡llapodÃ¡s legfontosabb rendelkezÃ©sei, kÃ¼lÃ¶nÃ¶sen a vagyonmegosztÃ¡s arÃ¡nya:<ujsor/>
+A fennmaradÃ³ Ã©s a lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g a szÃ©tvÃ¡lÃ³ tÃ¡rsasÃ¡g jogutÃ³dai. A jogutÃ³d tÃ¡rsasÃ¡g kÃ¶zÃ¶tt a szÃ©tvÃ¡lÃ³ tÃ¡rsasÃ¡got megilletÅ‘, illetve terhelÅ‘ jogok Ã©s kÃ¶telezettsÃ©gek a szÃ©tvÃ¡lÃ¡si szerzÅ‘dÃ©sben foglaltak alapjÃ¡n Ã©s mÃ©rtÃ©kben oszlanak meg, azaz a tevÃ©kenysÃ©ghez kapcsolÃ³dÃ³ jogok Ã©s kÃ¶telezettsÃ©gek a kivÃ¡lÃ¡s utÃ¡n fennmaradÃ³ â€ULTRA-MÃ‰DIAâ€ Kft. tÃ¡rsasÃ¡gban maradnak 100%-ban, a kivÃ¡lÃ³ SZOLVEUS Kft. tÃ¡rsasÃ¡g nem visz magÃ¡val semmit. A vagyonmegosztÃ¡s elveit, valamint a tÃ¡rsasÃ¡gi vagyon felosztÃ¡sÃ¡nak rÃ©szletes szabÃ¡lyait a fÃ¼ggetlen kÃ¶nyvvizsgÃ¡lÃ³ Ã¡ltal zÃ¡radÃ©kolt vagyonmÃ©rleg- Ã©s vagyonleltÃ¡r-tervezetek tartalmazzÃ¡k.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ SZOLVEUS SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g, a fennmaradÃ³ â€ULTRA-MÃ‰DIAâ€ Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g a szÃ©tvÃ¡lÃ³ â€ULTRA-MÃ‰DIAâ€ Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g jogutÃ³dai. A szÃ©tvÃ¡lÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡got megilletÅ‘ jogok Ã©s kÃ¶telessÃ©gek 100%-os arÃ¡nyban a fennmaradÃ³ â€ULTRA-MÃ‰DIAâ€ Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gban maradnak, azaz a megoszlÃ¡s szÃ¡zalÃ©kos arÃ¡nya: 100% â€ULTRAMÃ‰DIAâ€ Kft. Â­ 0% SZOLVEUS Kft.<ujsor/>
+A tÃ¡rsasÃ¡g felhÃ­vja a hitelezÅ‘k figyelmÃ©t, hogy a cÃ©ggel szemben fennÃ¡llÃ³ kÃ¶vetelÃ©seiket a Gt. 75. Â§ (3) bekezdÃ©s h) pontja alapjÃ¡n jelentsÃ©k be. Azok a hitelezÅ‘k, akiknek az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei az Ã¡talakulÃ¡ssal hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig az Ã¡talakulÃ³ cÃ©gtÅ‘l a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+A tÃ¡rsasÃ¡g tÃ¡jÃ©koztatja a hitelezÅ‘ket, hogy a hirdetmÃ©nyi hatÃ¡ridÅ‘ alatt a kÃ¶vetelÃ©sÃ¼ket Ã©rintÅ‘ vagyonmegosztÃ¡si rendelkezÃ©sekrÅ‘l az Ã¡talakulÃ³ â€ULTRA-MÃ‰DIAâ€ Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (6724 Szeged, Bakay NÃ¡ndor u. 23. II. 6.) szÃ©khelyÃ©n kaphatnak kÃ¶zvetlen tÃ¡jÃ©koztatÃ¡st. A tÃ¡jÃ©koztatÃ¡s nyÃºjtÃ¡sÃ¡Ã©rt CsikÃ³s PÃ©ter Ã¼gyvezetÅ‘ tartozik felelÅ‘ssÃ©ggel.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0609003087</mezo>
-<mezo id = "nev">&quot;ULTRA-MÉDIA&quot; Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">&quot;ULTRA-MÃ‰DIA&quot; Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">6724 Szeged</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az „ULTRA-MÉDIA” Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság (Cg.: [06 09 003087]; 6724 Szeged, Bakay Nándor u. 23. II. 6.) kiválással átalakul.<ujsor/>
-A kiválás után fennmaradó gazdasági társaság fõbb adatai:<ujsor/>
-Neve: „ULTRA-MÉDIA” Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhelye: 6724 Szeged, Bakay Nándor u. 23. II. 6.<ujsor/>
-A társasági szerzõdés módosítás aláírásának napja: 2010. június 30.<ujsor/>
-A kiválással létrejövõ új gazdasági társaság fõbb adatai:<ujsor/>
-Neve: SZOLVEUS Szolgáltató Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhelye: 6724 Szeged, Bakay Nándor u. 23. II. 6.<ujsor/>
-A társasági szerzõdés aláírásának napja: 2010. június 30.<ujsor/>
-Az átalakuló „ULTRA-MÉDIA” Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság (záró) vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 13 828 Saját tõke 64 391<ujsor/>
-Immateriális javak 0 Jegyzett tõke 3 000<ujsor/>
-Tárgyi eszközök 13 828 Tõketartalék 0<ujsor/>
-Befektetett pénzügyi eszközök 0 Eredménytartalék 57 260<ujsor/>
-Forgóeszközök 65 844 Lekötött tartalék 4 131<ujsor/>
-Készletek 145 Mérleg szerinti eredmény 0<ujsor/>
-Követelések 24 835 Céltartalékok 0<ujsor/>
-Értékpapírok 19 407 Kötelezettségek 15 177<ujsor/>
-Pénzeszközök 21 457 Rövid lejáratú kötelezettségek 15 177<ujsor/>
-Aktív idõbeli elhatárolások 135 Passzív idõbeli elhatárolások 239<ujsor/>
-ÖSSZESEN: 79 807 ÖSSZESEN: 79 807<ujsor/>
-A kiválás után fennmaradó „ULTRA-MÉDIA” Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság (nyitó) vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 4278 Saját tõke 500<ujsor/>
-Immateriális javak 0 Jegyzett tõke 500<ujsor/>
-Tárgyi eszközök 4 278 Tõketartalék 0<ujsor/>
-Forgóeszközök 1261 Eredménytartalék 0<ujsor/>
-Készletek 145 Lekötött tartalék 0<ujsor/>
-Követelések 1116 Céltartalékok 0<ujsor/>
-Értékpapírok 0 Kötelezettségek 4935<ujsor/>
-Pénzeszközök 0 Rövid lejáratú kötelezettségek 4935<ujsor/>
-Aktív idõbeli elhatárolások 135 Passzív idõbeli elhatárolások 239<ujsor/>
-ÖSSZESEN: 5674 ÖSSZESEN: 5674<ujsor/>
-A kiválással létrejövõ SZOLVEUS Szolgáltató Korlátolt Felelõsségû Társaság (nyitó) vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 9 550 Saját tõke 63 891<ujsor/>
-Tárgyi eszközök 9 550 Jegyzett tõke 2 500<ujsor/>
-Forgóeszközök 64 583 Eredménytartalék 57 260<ujsor/>
-Követelések 23 719 Lekötött tartalék 4 131<ujsor/>
-Értékpapírok 19 407 Céltartalék 0<ujsor/>
-Pénzeszközök 21 457 Kötelezettségek 10 242<ujsor/>
-Aktív idõbeli elhatárolások 0 Passzív idõbeli elhatárolások 0<ujsor/>
-ÖSSZESEN: 74 133 ÖSSZESEN: 74 133<ujsor/>
-A kiválás után fennmaradó gazdasági társaság fõ tevékenysége: Személybiztonsági tevékenység.<ujsor/>
-A létrejövõ új gazdasági társaság fõ tevékenysége: Fodrászat, szépségápolás.<ujsor/>
-A kiválás után fennmaradó gazdasági társaság vezetõ tisztségviselõje: Csikós Péter ügyvezetõ (a. n.: Csamangó Ilona; 6725 Szeged, Világos u. 15/A).<ujsor/>
-A létrejövõ új gazdasági társaság vezetõ tisztségviselõi: Csikós Péter 1. ügyvezetõ (a. n.: Csamangó Ilona; 6725 Szeged, Világos u. 15/A); Csikós Péterné Sz. Kovács Olga 2. ügyvezetõ (a. n.: Farkas Aranka; 6725 Szeged, Világos u. 15/A).<ujsor/>
-A szétválás módja: kiválás.<ujsor/>
-A szétváló gazdasági társaságot megilletõ és terhelõ kötelezettségek megosztására vonatkozó megállapodás legfontosabb rendelkezései, különösen a vagyonmegosztás aránya:<ujsor/>
-A fennmaradó és a létrejövõ társaság a szétváló társaság jogutódai. A jogutód társaság között a szétváló társaságot megilletõ, illetve terhelõ jogok és kötelezettségek a szétválási szerzõdésben foglaltak alapján és mértékben oszlanak meg, azaz a tevékenységhez kapcsolódó jogok és kötelezettségek a kiválás után fennmaradó „ULTRA-MÉDIA” Kft. társaságban maradnak 100%-ban, a kiváló SZOLVEUS Kft. társaság nem visz magával semmit. A vagyonmegosztás elveit, valamint a társasági vagyon felosztásának részletes szabályait a független könyvvizsgáló által záradékolt vagyonmérleg- és vagyonleltár-tervezetek tartalmazzák.<ujsor/>
-A létrejövõ SZOLVEUS Szolgáltató Korlátolt Felelõsségû Társaság, a fennmaradó „ULTRA-MÉDIA” Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság a szétváló „ULTRA-MÉDIA” Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság jogutódai. A szétváló gazdasági társaságot megilletõ jogok és kötelességek 100%-os arányban a fennmaradó „ULTRA-MÉDIA” Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaságban maradnak, azaz a megoszlás százalékos aránya: 100% „ULTRAMÉDIA” Kft. ­ 0% SZOLVEUS Kft.<ujsor/>
-A társaság felhívja a hitelezõk figyelmét, hogy a céggel szemben fennálló követeléseiket a Gt. 75. § (3) bekezdés h) pontja alapján jelentsék be. Azok a hitelezõk, akiknek az átalakuló gazdasági társasággal szemben fennálló, le nem járt követelései az átalakulással hozott döntés elsõ közzétételét megelõzõen keletkeztek, követeléseik erejéig az átalakuló cégtõl a döntés második közzétételét követõ harmincnapos jogvesztõ határidõn belül biztosítékot követelhetnek.<ujsor/>
-A társaság tájékoztatja a hitelezõket, hogy a hirdetményi határidõ alatt a követelésüket érintõ vagyonmegosztási rendelkezésekrõl az átalakuló „ULTRA-MÉDIA” Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság (6724 Szeged, Bakay Nándor u. 23. II. 6.) székhelyén kaphatnak közvetlen tájékoztatást. A tájékoztatás nyújtásáért Csikós Péter ügyvezetõ tartozik felelõsséggel.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">Az â€ULTRA-MÃ‰DIAâ€ Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [06 09 003087]; 6724 Szeged, Bakay NÃ¡ndor u. 23. II. 6.) kivÃ¡lÃ¡ssal Ã¡talakul.<ujsor/>
+A kivÃ¡lÃ¡s utÃ¡n fennmaradÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘bb adatai:<ujsor/>
+Neve: â€ULTRA-MÃ‰DIAâ€ Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 6724 Szeged, Bakay NÃ¡ndor u. 23. II. 6.<ujsor/>
+A tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s mÃ³dosÃ­tÃ¡s alÃ¡Ã­rÃ¡sÃ¡nak napja: 2010. jÃºnius 30.<ujsor/>
+A kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ Ãºj gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘bb adatai:<ujsor/>
+Neve: SZOLVEUS SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 6724 Szeged, Bakay NÃ¡ndor u. 23. II. 6.<ujsor/>
+A tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s alÃ¡Ã­rÃ¡sÃ¡nak napja: 2010. jÃºnius 30.<ujsor/>
+Az Ã¡talakulÃ³ â€ULTRA-MÃ‰DIAâ€ Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (zÃ¡rÃ³) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 13 828 SajÃ¡t tÅ‘ke 64 391<ujsor/>
+ImmateriÃ¡lis javak 0 Jegyzett tÅ‘ke 3 000<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 13 828 TÅ‘ketartalÃ©k 0<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 EredmÃ©nytartalÃ©k 57 260<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 65 844 LekÃ¶tÃ¶tt tartalÃ©k 4 131<ujsor/>
+KÃ©szletek 145 MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+KÃ¶vetelÃ©sek 24 835 CÃ©ltartalÃ©kok 0<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 19 407 KÃ¶telezettsÃ©gek 15 177<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 21 457 RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 15 177<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 135 PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 239<ujsor/>
+Ã–SSZESEN: 79 807 Ã–SSZESEN: 79 807<ujsor/>
+A kivÃ¡lÃ¡s utÃ¡n fennmaradÃ³ â€ULTRA-MÃ‰DIAâ€ Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (nyitÃ³) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 4278 SajÃ¡t tÅ‘ke 500<ujsor/>
+ImmateriÃ¡lis javak 0 Jegyzett tÅ‘ke 500<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 4 278 TÅ‘ketartalÃ©k 0<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 1261 EredmÃ©nytartalÃ©k 0<ujsor/>
+KÃ©szletek 145 LekÃ¶tÃ¶tt tartalÃ©k 0<ujsor/>
+KÃ¶vetelÃ©sek 1116 CÃ©ltartalÃ©kok 0<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 0 KÃ¶telezettsÃ©gek 4935<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 0 RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 4935<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 135 PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 239<ujsor/>
+Ã–SSZESEN: 5674 Ã–SSZESEN: 5674<ujsor/>
+A kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ SZOLVEUS SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (nyitÃ³) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 9 550 SajÃ¡t tÅ‘ke 63 891<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 9 550 Jegyzett tÅ‘ke 2 500<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 64 583 EredmÃ©nytartalÃ©k 57 260<ujsor/>
+KÃ¶vetelÃ©sek 23 719 LekÃ¶tÃ¶tt tartalÃ©k 4 131<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 19 407 CÃ©ltartalÃ©k 0<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 21 457 KÃ¶telezettsÃ©gek 10 242<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 0 PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 0<ujsor/>
+Ã–SSZESEN: 74 133 Ã–SSZESEN: 74 133<ujsor/>
+A kivÃ¡lÃ¡s utÃ¡n fennmaradÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©ge: SzemÃ©lybiztonsÃ¡gi tevÃ©kenysÃ©g.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ Ãºj gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©ge: FodrÃ¡szat, szÃ©psÃ©gÃ¡polÃ¡s.<ujsor/>
+A kivÃ¡lÃ¡s utÃ¡n fennmaradÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘je: CsikÃ³s PÃ©ter Ã¼gyvezetÅ‘ (a. n.: CsamangÃ³ Ilona; 6725 Szeged, VilÃ¡gos u. 15/A).<ujsor/>
+A lÃ©trejÃ¶vÅ‘ Ãºj gazdasÃ¡gi tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘i: CsikÃ³s PÃ©ter 1. Ã¼gyvezetÅ‘ (a. n.: CsamangÃ³ Ilona; 6725 Szeged, VilÃ¡gos u. 15/A); CsikÃ³s PÃ©ternÃ© Sz. KovÃ¡cs Olga 2. Ã¼gyvezetÅ‘ (a. n.: Farkas Aranka; 6725 Szeged, VilÃ¡gos u. 15/A).<ujsor/>
+A szÃ©tvÃ¡lÃ¡s mÃ³dja: kivÃ¡lÃ¡s.<ujsor/>
+A szÃ©tvÃ¡lÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡got megilletÅ‘ Ã©s terhelÅ‘ kÃ¶telezettsÃ©gek megosztÃ¡sÃ¡ra vonatkozÃ³ megÃ¡llapodÃ¡s legfontosabb rendelkezÃ©sei, kÃ¼lÃ¶nÃ¶sen a vagyonmegosztÃ¡s arÃ¡nya:<ujsor/>
+A fennmaradÃ³ Ã©s a lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g a szÃ©tvÃ¡lÃ³ tÃ¡rsasÃ¡g jogutÃ³dai. A jogutÃ³d tÃ¡rsasÃ¡g kÃ¶zÃ¶tt a szÃ©tvÃ¡lÃ³ tÃ¡rsasÃ¡got megilletÅ‘, illetve terhelÅ‘ jogok Ã©s kÃ¶telezettsÃ©gek a szÃ©tvÃ¡lÃ¡si szerzÅ‘dÃ©sben foglaltak alapjÃ¡n Ã©s mÃ©rtÃ©kben oszlanak meg, azaz a tevÃ©kenysÃ©ghez kapcsolÃ³dÃ³ jogok Ã©s kÃ¶telezettsÃ©gek a kivÃ¡lÃ¡s utÃ¡n fennmaradÃ³ â€ULTRA-MÃ‰DIAâ€ Kft. tÃ¡rsasÃ¡gban maradnak 100%-ban, a kivÃ¡lÃ³ SZOLVEUS Kft. tÃ¡rsasÃ¡g nem visz magÃ¡val semmit. A vagyonmegosztÃ¡s elveit, valamint a tÃ¡rsasÃ¡gi vagyon felosztÃ¡sÃ¡nak rÃ©szletes szabÃ¡lyait a fÃ¼ggetlen kÃ¶nyvvizsgÃ¡lÃ³ Ã¡ltal zÃ¡radÃ©kolt vagyonmÃ©rleg- Ã©s vagyonleltÃ¡r-tervezetek tartalmazzÃ¡k.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ SZOLVEUS SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g, a fennmaradÃ³ â€ULTRA-MÃ‰DIAâ€ Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g a szÃ©tvÃ¡lÃ³ â€ULTRA-MÃ‰DIAâ€ Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g jogutÃ³dai. A szÃ©tvÃ¡lÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡got megilletÅ‘ jogok Ã©s kÃ¶telessÃ©gek 100%-os arÃ¡nyban a fennmaradÃ³ â€ULTRA-MÃ‰DIAâ€ Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gban maradnak, azaz a megoszlÃ¡s szÃ¡zalÃ©kos arÃ¡nya: 100% â€ULTRAMÃ‰DIAâ€ Kft. Â­ 0% SZOLVEUS Kft.<ujsor/>
+A tÃ¡rsasÃ¡g felhÃ­vja a hitelezÅ‘k figyelmÃ©t, hogy a cÃ©ggel szemben fennÃ¡llÃ³ kÃ¶vetelÃ©seiket a Gt. 75. Â§ (3) bekezdÃ©s h) pontja alapjÃ¡n jelentsÃ©k be. Azok a hitelezÅ‘k, akiknek az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei az Ã¡talakulÃ¡ssal hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig az Ã¡talakulÃ³ cÃ©gtÅ‘l a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+A tÃ¡rsasÃ¡g tÃ¡jÃ©koztatja a hitelezÅ‘ket, hogy a hirdetmÃ©nyi hatÃ¡ridÅ‘ alatt a kÃ¶vetelÃ©sÃ¼ket Ã©rintÅ‘ vagyonmegosztÃ¡si rendelkezÃ©sekrÅ‘l az Ã¡talakulÃ³ â€ULTRA-MÃ‰DIAâ€ Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (6724 Szeged, Bakay NÃ¡ndor u. 23. II. 6.) szÃ©khelyÃ©n kaphatnak kÃ¶zvetlen tÃ¡jÃ©koztatÃ¡st. A tÃ¡jÃ©koztatÃ¡s nyÃºjtÃ¡sÃ¡Ã©rt CsikÃ³s PÃ©ter Ã¼gyvezetÅ‘ tartozik felelÅ‘ssÃ©ggel.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0609003087</mezo>
-<mezo id = "nev">&quot;ULTRA-MÉDIA&quot; Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">&quot;ULTRA-MÃ‰DIA&quot; Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">6724 Szeged</mezo>
 </alrovat>
 </rovat>

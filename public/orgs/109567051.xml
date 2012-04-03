@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">567051</mezo>
 <mezo id = "nevalrovat">2</mezo>
-<mezo id = "cim">1025 Budapest, Szeréna út 17 </mezo>
+<mezo id = "cim">1025 Budapest, SzerÃ©na Ãºt 17 </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">12231779241</mezo>
 </alrovat>
@@ -13,13 +13,13 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">19970818</mezo>
-<mezo id = "nev">BANKHÍD Ingatlanhasznosító és Pénzügyi Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">BANKHÃD IngatlanhasznosÃ­tÃ³ Ã©s PÃ©nzÃ¼gyi TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">19961231</mezo>
-<mezo id = "nev">BANKHÍD Kft.</mezo>
+<mezo id = "nev">BANKHÃD Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
@@ -27,7 +27,7 @@
 <mezo id = "hattol">19981028</mezo>
 <mezo id = "irsz">1025</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Szeréna út</mezo>
+<mezo id = "teru">SzerÃ©na Ãºt</mezo>
 <mezo id = "terj">17</mezo>
 </alrovat>
 </rovat>
@@ -35,7 +35,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">19991029</mezo>
 <mezo id = "irsz">1025</mezo>
-<mezo id = "hely">Budapest, Szeréna út 25.</mezo>
+<mezo id = "hely">Budapest, SzerÃ©na Ãºt 25.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "8">
@@ -157,13 +157,13 @@
 <rovat id = "13">
 <alrovat id = "7">
 <mezo id = "hattol">20091110</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "email">pinkegy@t-online .hu</mezo>
-<mezo id = "pnev">Dr. Pinke Görgy</mezo>
-<mezo id = "panev">Eitner Mária</mezo>
+<mezo id = "pnev">Dr. Pinke GÃ¶rgy</mezo>
+<mezo id = "panev">Eitner MÃ¡ria</mezo>
 <mezo id = "pirsz">1025</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Szeréna út 17.</mezo>
+<mezo id = "pteru">SzerÃ©na Ãºt 17.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20080530</mezo>
 <mezo id = "jogvv">20130530</mezo>
@@ -172,13 +172,13 @@
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">20091110</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "email">pinkegy@t-online .hu</mezo>
 <mezo id = "pnev">Pinke Zsuzsanna</mezo>
-<mezo id = "panev">Kertész Magdolna</mezo>
+<mezo id = "panev">KertÃ©sz Magdolna</mezo>
 <mezo id = "pirsz">1025</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Szeréna út 17.</mezo>
+<mezo id = "pteru">SzerÃ©na Ãºt 17.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20080530</mezo>
 <mezo id = "jogvv">20130530</mezo>
@@ -218,20 +218,20 @@
 <rovat id = "0109">
 <alrovat id = "4">
 <mezo id = "hattol">19981028</mezo>
-<mezo id = "pnev">dr. Pinke György</mezo>
-<mezo id = "panev">Eitner Mária</mezo>
+<mezo id = "pnev">dr. Pinke GyÃ¶rgy</mezo>
+<mezo id = "panev">Eitner MÃ¡ria</mezo>
 <mezo id = "pirsz">1025</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Szeréna u.</mezo>
+<mezo id = "pteru">SzerÃ©na u.</mezo>
 <mezo id = "phsz">17</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">19981028</mezo>
 <mezo id = "pnev">Pinke Zsuzsanna</mezo>
-<mezo id = "panev">Kertész Magdolna</mezo>
+<mezo id = "panev">KertÃ©sz Magdolna</mezo>
 <mezo id = "pirsz">1025</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Szeréna u.</mezo>
+<mezo id = "pteru">SzerÃ©na u.</mezo>
 <mezo id = "phsz">17</mezo>
 </alrovat>
 </rovat>
@@ -239,74 +239,74 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2008. 07. 09-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (ügyvezetõ).<ujsor/>
- dr. Pinke György (an: Eitner Mária)<ujsor/>
-1025 Budapest, Szeréna út 17.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2008. 07. 09-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘).<ujsor/>
+ dr. Pinke GyÃ¶rgy (an: Eitner MÃ¡ria)<ujsor/>
+1025 Budapest, SzerÃ©na Ãºt 17.<ujsor/>
  A jogviszony kezdete: 2008. 05. 30.<ujsor/>
- A jogviszony vége: 2013. 05. 30.<ujsor/>
- A változás idõpontja: 2008. 05. 30.<ujsor/>
+ A jogviszony vÃ©ge: 2013. 05. 30.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 05. 30.<ujsor/>
  Bejegyezve: 2008. 05. 30.<ujsor/>
 2008. 11. 03.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109567051</mezo>
-<mezo id = "nev">BANKHÍD Ingatlanhasznosító és Pénzügyi Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1025 Budapest, Szeréna út 17.</mezo>
+<mezo id = "nev">BANKHÃD IngatlanhasznosÃ­tÃ³ Ã©s PÃ©nzÃ¼gyi TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1025 Budapest, SzerÃ©na Ãºt 17.</mezo>
 <mezo id = "adosz">12231779341</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A BANKHÍD Ingatlanhasznosító és Pénzügyi Tanácsadó Korlátolt Felelõsségû Társaság (Cg.: [01 09 567051]; székhelye: 1025 Budapest, Szeréna út 17.) tagjai a 2006. évi IV. tv. 159. § alapján elhatározták a törzstõke leszállítását, tõkekivonás érdekében.<ujsor/>
-A társaság törzstõkéje a tõkekivonás elõtt: 5 000 000 Ft (ötmillió forint) készpénz.<ujsor/>
-A társaság törzstõkéje a tõkekivonást követõen: 500 000 Ft (ötszázezer forint) készpénz.<ujsor/>
-A tagok törzsbetéte és szavazati mértéke a tõkekivonást követõen:<ujsor/>
+<mezo id = "szoveg">A BANKHÃD IngatlanhasznosÃ­tÃ³ Ã©s PÃ©nzÃ¼gyi TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [01 09 567051]; szÃ©khelye: 1025 Budapest, SzerÃ©na Ãºt 17.) tagjai a 2006. Ã©vi IV. tv. 159. Â§ alapjÃ¡n elhatÃ¡roztÃ¡k a tÃ¶rzstÅ‘ke leszÃ¡llÃ­tÃ¡sÃ¡t, tÅ‘kekivonÃ¡s Ã©rdekÃ©ben.<ujsor/>
+A tÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©je a tÅ‘kekivonÃ¡s elÅ‘tt: 5 000 000 Ft (Ã¶tmilliÃ³ forint) kÃ©szpÃ©nz.<ujsor/>
+A tÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©je a tÅ‘kekivonÃ¡st kÃ¶vetÅ‘en: 500 000 Ft (Ã¶tszÃ¡zezer forint) kÃ©szpÃ©nz.<ujsor/>
+A tagok tÃ¶rzsbetÃ©te Ã©s szavazati mÃ©rtÃ©ke a tÅ‘kekivonÃ¡st kÃ¶vetÅ‘en:<ujsor/>
 Tag: Szavazat:<ujsor/>
-dr. Pinke György<ujsor/>
-Törzsbetét összege: 250 000 Ft (kettõszázötvenezer forint). 25<ujsor/>
-Törzsbetét összetétele:<ujsor/>
-a) Készpénz 250 000 Ft<ujsor/>
-b) Nem pénzbeli hozzájárulás:<ujsor/>
+dr. Pinke GyÃ¶rgy<ujsor/>
+TÃ¶rzsbetÃ©t Ã¶sszege: 250 000 Ft (kettÅ‘szÃ¡zÃ¶tvenezer forint). 25<ujsor/>
+TÃ¶rzsbetÃ©t Ã¶sszetÃ©tele:<ujsor/>
+a) KÃ©szpÃ©nz 250 000 Ft<ujsor/>
+b) Nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s:<ujsor/>
 Pinke Zsuzsanna<ujsor/>
-Törzsbetét összege: 250 000 Ft (kettõszázötvenezer forint). 25<ujsor/>
-Törzsbetét összetétele:<ujsor/>
-a) Készpénz 250 000 Ft<ujsor/>
-b) Nem pénzbeli hozzájárulás:<ujsor/>
-Összesen: 500 000 Ft 50<ujsor/>
-A törzstõke-leszállítás elhatározásának napja: 2009. augusztus 24.<ujsor/>
-A társaság a 2006. évi IV. tv. 162. § (1) bekezdése alapján felhívja azon hitelezõit, akiknek a gazdasági társasággal szemben fennálló, le nem járt követelései az átalakulásról hozott döntés elsõ közzétételét megelõzõen keletkeztek, követeléseik erejéig a gazdasági társaságtól a döntés második közzétételét követõ harmincnapos jogvesztõ határidõn belül biztosítékot követelhetnek.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+TÃ¶rzsbetÃ©t Ã¶sszege: 250 000 Ft (kettÅ‘szÃ¡zÃ¶tvenezer forint). 25<ujsor/>
+TÃ¶rzsbetÃ©t Ã¶sszetÃ©tele:<ujsor/>
+a) KÃ©szpÃ©nz 250 000 Ft<ujsor/>
+b) Nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s:<ujsor/>
+Ã–sszesen: 500 000 Ft 50<ujsor/>
+A tÃ¶rzstÅ‘ke-leszÃ¡llÃ­tÃ¡s elhatÃ¡rozÃ¡sÃ¡nak napja: 2009. augusztus 24.<ujsor/>
+A tÃ¡rsasÃ¡g a 2006. Ã©vi IV. tv. 162. Â§ (1) bekezdÃ©se alapjÃ¡n felhÃ­vja azon hitelezÅ‘it, akiknek a gazdasÃ¡gi tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei az Ã¡talakulÃ¡srÃ³l hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig a gazdasÃ¡gi tÃ¡rsasÃ¡gtÃ³l a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109567051</mezo>
-<mezo id = "nev">BANKHÍD Ingatlanhasznosító és Pénzügyi Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">BANKHÃD IngatlanhasznosÃ­tÃ³ Ã©s PÃ©nzÃ¼gyi TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1025 Budapest</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A BANKHÍD Ingatlanhasznosító és Pénzügyi Tanácsadó Korlátolt Felelõsségû Társaság (Cg.: [01 09 567051]; székhelye: 1025 Budapest, Szeréna út 17.) tagjai a 2006. évi IV. tv. 159. § alapján elhatározták a törzstõke leszállítását, tõkekivonás érdekében.<ujsor/>
-A társaság törzstõkéje a tõkekivonás elõtt: 5 000 000 Ft (ötmillió forint) készpénz.<ujsor/>
-A társaság törzstõkéje a tõkekivonást követõen: 500 000 Ft (ötszázezer forint) készpénz.<ujsor/>
-A tagok törzsbetéte és szavazati mértéke a tõkekivonást követõen:<ujsor/>
+<mezo id = "szoveg">A BANKHÃD IngatlanhasznosÃ­tÃ³ Ã©s PÃ©nzÃ¼gyi TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [01 09 567051]; szÃ©khelye: 1025 Budapest, SzerÃ©na Ãºt 17.) tagjai a 2006. Ã©vi IV. tv. 159. Â§ alapjÃ¡n elhatÃ¡roztÃ¡k a tÃ¶rzstÅ‘ke leszÃ¡llÃ­tÃ¡sÃ¡t, tÅ‘kekivonÃ¡s Ã©rdekÃ©ben.<ujsor/>
+A tÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©je a tÅ‘kekivonÃ¡s elÅ‘tt: 5 000 000 Ft (Ã¶tmilliÃ³ forint) kÃ©szpÃ©nz.<ujsor/>
+A tÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©je a tÅ‘kekivonÃ¡st kÃ¶vetÅ‘en: 500 000 Ft (Ã¶tszÃ¡zezer forint) kÃ©szpÃ©nz.<ujsor/>
+A tagok tÃ¶rzsbetÃ©te Ã©s szavazati mÃ©rtÃ©ke a tÅ‘kekivonÃ¡st kÃ¶vetÅ‘en:<ujsor/>
 Tag: Szavazat:<ujsor/>
-dr. Pinke György<ujsor/>
-Törzsbetét összege: 250 000 Ft (kettõszázötvenezer forint). 25<ujsor/>
-Törzsbetét összetétele:<ujsor/>
-a) Készpénz 250 000 Ft<ujsor/>
-b) Nem pénzbeli hozzájárulás:<ujsor/>
+dr. Pinke GyÃ¶rgy<ujsor/>
+TÃ¶rzsbetÃ©t Ã¶sszege: 250 000 Ft (kettÅ‘szÃ¡zÃ¶tvenezer forint). 25<ujsor/>
+TÃ¶rzsbetÃ©t Ã¶sszetÃ©tele:<ujsor/>
+a) KÃ©szpÃ©nz 250 000 Ft<ujsor/>
+b) Nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s:<ujsor/>
 Pinke Zsuzsanna<ujsor/>
-Törzsbetét összege: 250 000 Ft (kettõszázötvenezer forint). 25<ujsor/>
-Törzsbetét összetétele:<ujsor/>
-a) Készpénz 250 000 Ft<ujsor/>
-b) Nem pénzbeli hozzájárulás:<ujsor/>
-Összesen: 500 000 Ft 50<ujsor/>
-A törzstõke-leszállítás elhatározásának napja: 2009. augusztus 24.<ujsor/>
-A társaság a 2006. évi IV. tv. 162. § (1) bekezdése alapján felhívja azon hitelezõit, akiknek a gazdasági társasággal szemben fennálló, le nem járt követelései az átalakulásról hozott döntés elsõ közzétételét megelõzõen keletkeztek, követeléseik erejéig a gazdasági társaságtól a döntés második közzétételét követõ harmincnapos jogvesztõ határidõn belül biztosítékot követelhetnek.<ujsor/>
-(Második közzététel.)<ujsor/>
+TÃ¶rzsbetÃ©t Ã¶sszege: 250 000 Ft (kettÅ‘szÃ¡zÃ¶tvenezer forint). 25<ujsor/>
+TÃ¶rzsbetÃ©t Ã¶sszetÃ©tele:<ujsor/>
+a) KÃ©szpÃ©nz 250 000 Ft<ujsor/>
+b) Nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s:<ujsor/>
+Ã–sszesen: 500 000 Ft 50<ujsor/>
+A tÃ¶rzstÅ‘ke-leszÃ¡llÃ­tÃ¡s elhatÃ¡rozÃ¡sÃ¡nak napja: 2009. augusztus 24.<ujsor/>
+A tÃ¡rsasÃ¡g a 2006. Ã©vi IV. tv. 162. Â§ (1) bekezdÃ©se alapjÃ¡n felhÃ­vja azon hitelezÅ‘it, akiknek a gazdasÃ¡gi tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei az Ã¡talakulÃ¡srÃ³l hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig a gazdasÃ¡gi tÃ¡rsasÃ¡gtÃ³l a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109567051</mezo>
-<mezo id = "nev">BANKHÍD Ingatlanhasznosító és Pénzügyi Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">BANKHÃD IngatlanhasznosÃ­tÃ³ Ã©s PÃ©nzÃ¼gyi TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1025 Budapest</mezo>
 </alrovat>
 </rovat>

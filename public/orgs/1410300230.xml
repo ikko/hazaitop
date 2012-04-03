@@ -6,7 +6,7 @@
 <mezo id = "szam">300230</mezo>
 <mezo id = "nevalrovat">3</mezo>
 <mezo id = "regi_szh">1610001720</mezo>
-<mezo id = "cim">8600 Siófok, Tanácsház út 5. </mezo>
+<mezo id = "cim">8600 SiÃ³fok, TanÃ¡cshÃ¡z Ãºt 5. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">12543331244</mezo>
 </alrovat>
@@ -14,7 +14,7 @@
 <rovat id = "2">
 <alrovat id = "3">
 <mezo id = "hattol">20080101</mezo>
-<mezo id = "nev">FGSZ Földgázszállító Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">FGSZ FÃ¶ldgÃ¡zszÃ¡llÃ­tÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">20080101</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20080129</mezo>
@@ -35,8 +35,8 @@
 <alrovat id = "2">
 <mezo id = "hattol">20040101</mezo>
 <mezo id = "irsz">8600</mezo>
-<mezo id = "hely">Siófok</mezo>
-<mezo id = "teru">Tanácsház út 5.</mezo>
+<mezo id = "hely">SiÃ³fok</mezo>
+<mezo id = "teru">TanÃ¡cshÃ¡z Ãºt 5.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "8">
@@ -542,17 +542,17 @@
 <rovat id = "13">
 <alrovat id = "3">
 <mezo id = "hattol">20011228</mezo>
-<mezo id = "tiszt">vezérigazgató</mezo>
-<mezo id = "pnev">Vörös László</mezo>
-<mezo id = "panev">Somogyvári Erzsébet</mezo>
+<mezo id = "tiszt">vezÃ©rigazgatÃ³</mezo>
+<mezo id = "pnev">VÃ¶rÃ¶s LÃ¡szlÃ³</mezo>
+<mezo id = "panev">SomogyvÃ¡ri ErzsÃ©bet</mezo>
 <mezo id = "pirsz">8651</mezo>
 <mezo id = "phely">Balatonszabadi</mezo>
 <mezo id = "pteru">Nefelejcs u. 3.</mezo>
 </alrovat>
 <alrovat id = "23">
 <mezo id = "hattol">20100105</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">dr. Zsuga János</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">dr. Zsuga JÃ¡nos</mezo>
 <mezo id = "panev">Csuka Katalin</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20031201</mezo>
@@ -562,12 +562,12 @@
 </alrovat>
 <alrovat id = "27">
 <mezo id = "hattol">20110324</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Juhász Csaba</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">JuhÃ¡sz Csaba</mezo>
 <mezo id = "panev">Bende Erika</mezo>
 <mezo id = "pirsz">2483</mezo>
-<mezo id = "phely">Gárdony</mezo>
-<mezo id = "pteru">Oszkár utca 11.</mezo>
+<mezo id = "phely">GÃ¡rdony</mezo>
+<mezo id = "pteru">OszkÃ¡r utca 11.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20071101</mezo>
 <mezo id = "jogvv">20111231</mezo>
@@ -577,12 +577,12 @@
 </alrovat>
 <alrovat id = "28">
 <mezo id = "hattol">20110324</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Sándor Balázs Benedek</mezo>
-<mezo id = "panev">Hódi Zsuzsanna</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">SÃ¡ndor BalÃ¡zs Benedek</mezo>
+<mezo id = "panev">HÃ³di Zsuzsanna</mezo>
 <mezo id = "pirsz">8600</mezo>
-<mezo id = "phely">Siófok</mezo>
-<mezo id = "pteru">Bláthy O utca 73.</mezo>
+<mezo id = "phely">SiÃ³fok</mezo>
+<mezo id = "pteru">BlÃ¡thy O utca 73.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20110324</mezo>
 <mezo id = "jogvv">20111231</mezo>
@@ -592,11 +592,11 @@
 </alrovat>
 <alrovat id = "29">
 <mezo id = "hattol">20110324</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Buday Pál</mezo>
-<mezo id = "panev">Gürtler Mária</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Buday PÃ¡l</mezo>
+<mezo id = "panev">GÃ¼rtler MÃ¡ria</mezo>
 <mezo id = "pirsz">8600</mezo>
-<mezo id = "phely">Siófok</mezo>
+<mezo id = "phely">SiÃ³fok</mezo>
 <mezo id = "pteru">Jegenye sor 16.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20110324</mezo>
@@ -606,11 +606,11 @@
 </alrovat>
 <alrovat id = "30">
 <mezo id = "hattol">20110905</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Rétfalvi Ákos</mezo>
-<mezo id = "panev">Záránd Klára</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">RÃ©tfalvi Ãkos</mezo>
+<mezo id = "panev">ZÃ¡rÃ¡nd KlÃ¡ra</mezo>
 <mezo id = "pirsz">2083</mezo>
-<mezo id = "phely">Solymár</mezo>
+<mezo id = "phely">SolymÃ¡r</mezo>
 <mezo id = "pteru">Magas utca 5.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20110905</mezo>
@@ -623,16 +623,16 @@
 <alrovat id = "13">
 <mezo id = "hattol">20110513</mezo>
 <mezo id = "cgjsz">0109267553</mezo>
-<mezo id = "nev">Ernst &amp; Young Könyvvizsgáló Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Ernst &amp; Young KÃ¶nyvvizsgÃ¡lÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1132</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Váci út 20.</mezo>
-<mezo id = "pnev">Hajbin Tímea</mezo>
-<mezo id = "panev">Pintér Erzsébet</mezo>
+<mezo id = "teru">VÃ¡ci Ãºt 20.</mezo>
+<mezo id = "pnev">Hajbin TÃ­mea</mezo>
+<mezo id = "panev">PintÃ©r ErzsÃ©bet</mezo>
 <mezo id = "pirsz">2463</mezo>
 <mezo id = "phely">Tordas</mezo>
-<mezo id = "pteru">Vörösmarty utca 1.</mezo>
+<mezo id = "pteru">VÃ¶rÃ¶smarty utca 1.</mezo>
 <mezo id = "jogvk">20110513</mezo>
 <mezo id = "jogvv">20120303</mezo>
 <mezo id = "valtk">20110513</mezo>
@@ -642,17 +642,17 @@
 <rovat id = "15">
 <alrovat id = "4">
 <mezo id = "hattol">20010501</mezo>
-<mezo id = "pnev">Szemmelveisz Zoltán</mezo>
+<mezo id = "pnev">Szemmelveisz ZoltÃ¡n</mezo>
 <mezo id = "panev">Keglovich Magdolna</mezo>
 <mezo id = "pirsz">1125</mezo>
-<mezo id = "phely">Budapest, Lóránt u. 18/a.</mezo>
+<mezo id = "phely">Budapest, LÃ³rÃ¡nt u. 18/a.</mezo>
 </alrovat>
 <alrovat id = "33">
 <mezo id = "hattol">20081231</mezo>
-<mezo id = "pnev">Fett Gábor</mezo>
-<mezo id = "panev">Wittmann Anna Stefánia</mezo>
+<mezo id = "pnev">Fett GÃ¡bor</mezo>
+<mezo id = "panev">Wittmann Anna StefÃ¡nia</mezo>
 <mezo id = "pirsz">2483</mezo>
-<mezo id = "phely">Gárdony, Paál László u. 9.</mezo>
+<mezo id = "phely">GÃ¡rdony, PaÃ¡l LÃ¡szlÃ³ u. 9.</mezo>
 <mezo id = "jogvk">20040101</mezo>
 <mezo id = "jogvv">20111231</mezo>
 <mezo id = "valtk">20081231</mezo>
@@ -663,10 +663,10 @@
 </alrovat>
 <alrovat id = "34">
 <mezo id = "hattol">20081231</mezo>
-<mezo id = "pnev">Zsíros István</mezo>
-<mezo id = "panev">Madácsi Magdolna</mezo>
+<mezo id = "pnev">ZsÃ­ros IstvÃ¡n</mezo>
+<mezo id = "panev">MadÃ¡csi Magdolna</mezo>
 <mezo id = "pirsz">3531</mezo>
-<mezo id = "phely">Miskolc, Bársony J. u. 37. fsz 1.</mezo>
+<mezo id = "phely">Miskolc, BÃ¡rsony J. u. 37. fsz 1.</mezo>
 <mezo id = "jogvk">20040101</mezo>
 <mezo id = "jogvv">20111231</mezo>
 <mezo id = "valtk">20081231</mezo>
@@ -677,7 +677,7 @@
 </alrovat>
 <alrovat id = "35">
 <mezo id = "hattol">20100105</mezo>
-<mezo id = "pnev">Szabó Gabriel</mezo>
+<mezo id = "pnev">SzabÃ³ Gabriel</mezo>
 <mezo id = "panev">Germanova Viera</mezo>
 <mezo id = "jogvk">20100105</mezo>
 <mezo id = "jogvv">20111231</mezo>
@@ -686,8 +686,8 @@
 </alrovat>
 <alrovat id = "36">
 <mezo id = "hattol">20110501</mezo>
-<mezo id = "pnev">dr. Kara Pál</mezo>
-<mezo id = "panev">Pótor Imola Juliánna</mezo>
+<mezo id = "pnev">dr. Kara PÃ¡l</mezo>
+<mezo id = "panev">PÃ³tor Imola JuliÃ¡nna</mezo>
 <mezo id = "pirsz">1039</mezo>
 <mezo id = "phely">Budapest</mezo>
 <mezo id = "pteru">Csaba utca 19.</mezo>
@@ -698,11 +698,11 @@
 </alrovat>
 <alrovat id = "37">
 <mezo id = "hattol">20110501</mezo>
-<mezo id = "pnev">Molnár József</mezo>
+<mezo id = "pnev">MolnÃ¡r JÃ³zsef</mezo>
 <mezo id = "panev">Andrejcsik Margit</mezo>
 <mezo id = "pirsz">3700</mezo>
 <mezo id = "phely">Kazincbarcika</mezo>
-<mezo id = "pteru">Akácfa utca 39.</mezo>
+<mezo id = "pteru">AkÃ¡cfa utca 39.</mezo>
 <mezo id = "jogvk">20110501</mezo>
 <mezo id = "jogvv">20160430</mezo>
 <mezo id = "valtk">20110501</mezo>
@@ -710,11 +710,11 @@
 </alrovat>
 <alrovat id = "38">
 <mezo id = "hattol">20110501</mezo>
-<mezo id = "pnev">Ratatics Péter</mezo>
+<mezo id = "pnev">Ratatics PÃ©ter</mezo>
 <mezo id = "panev">Herczku Zsuzsanna</mezo>
 <mezo id = "pirsz">1136</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Pannónia utca 10.</mezo>
+<mezo id = "pteru">PannÃ³nia utca 10.</mezo>
 <mezo id = "jogvk">20110501</mezo>
 <mezo id = "jogvv">20160430</mezo>
 <mezo id = "valtk">20110501</mezo>
@@ -735,18 +735,18 @@
 <mezo id = "adosz">12543331244</mezo>
 <mezo id = "kadosz">HU12543331</mezo>
 <mezo id = "bkelt">20110916</mezo>
-<mezo id = "megj">Státusz kezdete: 2000/10/18</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 2000/10/18</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0110">
 <alrovat id = "2">
 <mezo id = "hattol">20071101</mezo>
 <mezo id = "cgjsz">110041683</mezo>
-<mezo id = "nev">MOL Magyar Olaj- és Gázipari Nyilvánosan Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">MOL Magyar Olaj- Ã©s GÃ¡zipari NyilvÃ¡nosan MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1117</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Október huszonharmadika u.</mezo>
+<mezo id = "teru">OktÃ³ber huszonharmadika u.</mezo>
 <mezo id = "hsz">18.</mezo>
 <mezo id = "tagsk">20001016</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -766,84 +766,84 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A MOL Földgázszállító Zártkörûen Mûködõ Részvénytársaság (Cg.: [14 10 300230]; székhelye: 8600 Siófok, Tanácsház út 5.; a továbbiakban: társaság) alapítója és egyedüli részvényese a MOL Magyar Olaj- és Gázipari Nyilvánosan Mûködõ Részvénytársaság (Cg.: [01 10 041683]; székhelye: 1117 Budapest, Október huszonharmadika u. 18.; a továbbiakban: alapító) 1/2008. (I. 1.) sz. határozatával elhatározta a MOL Földgázszállító Zrt. alaptõke-emelését.<ujsor/>
-Az alapító a Gazdasági társaságokról szóló 2006. évi IV. törvény 248. § (1) bekezdésének a) pontjában és 254­255. §-ában foglaltak alapján a társaság alaptõkéjét 2008. január 1-jei hatállyal új részvények zártkörû forgalomba hozatalával 13 209 000 000 Ft-ról (tizenhárommilliárd-kettõszázkilencmillió forintról) 2 236 000 000 Ft-tal 15 445 000 000 Ft-ra felemeli az alábbiak szerint:<ujsor/>
-Az alaptõke-emelés módja: új részvények zártkörû forgalomba hozatala.<ujsor/>
-Az alaptõke-emelés mértéke: 2 236 000 000 Ft (kettõmilliárd-kettõszázharminchatmillió forint).<ujsor/>
-A kibocsátandó részvények: 2236 darab, egyenként 1 000 000 Ft (egymillió forint) névértékû, névre szóló törzsrészvény.<ujsor/>
-A részvények elõállítási módja: dematerializált.<ujsor/>
-Kibocsátási ár: részvényenként 1 173 971 Ft (egymillió-egyszázhetvenháromezer-kilencszázhetvenegy forint), amelyet a jegyzésre jogosult teljes egészében nem pénzbeli hozzájárulás formájában teljesít a társaság részére.<ujsor/>
-A nem pénzbeli hozzájárulás tárgya, értéke: a nem pénzbeli hozzájárulást képezõ, összesen 2 624 999 156 Ft értékû vagyonának tételes felsorolását az apportlista tartalmazza.<ujsor/>
-A nem pénzbeli hozzájárulást szolgáló, illetve a kibocsátandó részvények átvételére jogosult személy: MOL Magyar Olaj- és Gázipari Nyilvánosan Mûködõ Részvénytársaság (székhely: 1117 Budapest, Október huszonharmadika u. 18.).<ujsor/>
-A nem pénzbeli hozzájárulás elõzetes értékelését végzõ könyvvizsgáló: Magyar Szakértõi Holding Kft. (székhely: 1115 Budapest, Ozorai u. 4.) dr. Matukovics Gábor bejegyzett könyvvizsgáló.<ujsor/>
-A részvények átvételére vonatkozó nyilatkozat megtételének idõpontja: 2008. január 1.<ujsor/>
-A kibocsátandó részvények ellenértéke (a nem pénzbeli hozzájárulás) szolgáltatásának idõpontja: 2008. január 1.<ujsor/>
-Az alapító kötelezettséget vállal arra, hogy az alaptõke-emelés során kibocsátásra kerülõ 2236 db (kettõezer-kettõszázharminchat darab), egyenként 1 000 000 Ft (egymillió forint) névértékû, névre szóló új törzsrészvényt átveszi, valamint a részvények kibocsátási értékének megfelelõ, összesen 2 624 999 156 Ft értékû, az apportlista szerinti nem pénzbeli hozzájárulást 2008. január 1-jén a társaság rendelkezésére bocsátja.<ujsor/>
-A rendelkezésre bocsátott nem pénzbeli hozzájárulás értéke és az alaptõke-emelés összege (azaz a jelen alaptõke-emeléssel kibocsátásra kerülõ részvények kibocsátási értéke) és a névértéke közötti különbözet a társaság tõketartalékát képezi.<ujsor/>
-Az alaptõke-emelést követõen a társaság alaptõkéjének (jegyzett tõkéjének) az összege: 15 445 000 000 Ft.<ujsor/>
-A fentiekre tekintettel a részvénytársaság alaptõkéje 13 209 000 000 Ft-ról 15 445 000 000 Ft-ra (tizenötmilliárd-négyszáznegyvenötmillió forintra) emelkedik, amely törzstõke 20 000 000 Ft (húszmillió forint) pénzbeli betétbõl és 15 425 000 000 Ft (tizenötmilliárd-négyszázhuszonötmillió forint) nem pénzbeli betétbõl áll.<ujsor/>
-Az egyszemély részvénytársaság alaptõkéjének pénzbeli betétét az alapító teljes egészében befizette, míg a nem pénzbeli betétet rendelkezésre bocsátotta.<ujsor/>
-A részvénytársaság 15 445 000 000 Ft összegû alaptõke 15 445 db (tizenötezer-négyszáznegyvenöt darab), egyenként 1 000 000 Ft (egymillió forint) névértékû, névre szóló törzsrészvénybõl áll.<ujsor/>
+<mezo id = "szoveg">A MOL FÃ¶ldgÃ¡zszÃ¡llÃ­tÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [14 10 300230]; szÃ©khelye: 8600 SiÃ³fok, TanÃ¡cshÃ¡z Ãºt 5.; a tovÃ¡bbiakban: tÃ¡rsasÃ¡g) alapÃ­tÃ³ja Ã©s egyedÃ¼li rÃ©szvÃ©nyese a MOL Magyar Olaj- Ã©s GÃ¡zipari NyilvÃ¡nosan MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 041683]; szÃ©khelye: 1117 Budapest, OktÃ³ber huszonharmadika u. 18.; a tovÃ¡bbiakban: alapÃ­tÃ³) 1/2008. (I. 1.) sz. hatÃ¡rozatÃ¡val elhatÃ¡rozta a MOL FÃ¶ldgÃ¡zszÃ¡llÃ­tÃ³ Zrt. alaptÅ‘ke-emelÃ©sÃ©t.<ujsor/>
+Az alapÃ­tÃ³ a GazdasÃ¡gi tÃ¡rsasÃ¡gokrÃ³l szÃ³lÃ³ 2006. Ã©vi IV. tÃ¶rvÃ©ny 248. Â§ (1) bekezdÃ©sÃ©nek a) pontjÃ¡ban Ã©s 254Â­255. Â§-Ã¡ban foglaltak alapjÃ¡n a tÃ¡rsasÃ¡g alaptÅ‘kÃ©jÃ©t 2008. januÃ¡r 1-jei hatÃ¡llyal Ãºj rÃ©szvÃ©nyek zÃ¡rtkÃ¶rÅ± forgalomba hozatalÃ¡val 13 209 000 000 Ft-rÃ³l (tizenhÃ¡rommilliÃ¡rd-kettÅ‘szÃ¡zkilencmilliÃ³ forintrÃ³l) 2 236 000 000 Ft-tal 15 445 000 000 Ft-ra felemeli az alÃ¡bbiak szerint:<ujsor/>
+Az alaptÅ‘ke-emelÃ©s mÃ³dja: Ãºj rÃ©szvÃ©nyek zÃ¡rtkÃ¶rÅ± forgalomba hozatala.<ujsor/>
+Az alaptÅ‘ke-emelÃ©s mÃ©rtÃ©ke: 2 236 000 000 Ft (kettÅ‘milliÃ¡rd-kettÅ‘szÃ¡zharminchatmilliÃ³ forint).<ujsor/>
+A kibocsÃ¡tandÃ³ rÃ©szvÃ©nyek: 2236 darab, egyenkÃ©nt 1 000 000 Ft (egymilliÃ³ forint) nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+A rÃ©szvÃ©nyek elÅ‘Ã¡llÃ­tÃ¡si mÃ³dja: dematerializÃ¡lt.<ujsor/>
+KibocsÃ¡tÃ¡si Ã¡r: rÃ©szvÃ©nyenkÃ©nt 1 173 971 Ft (egymilliÃ³-egyszÃ¡zhetvenhÃ¡romezer-kilencszÃ¡zhetvenegy forint), amelyet a jegyzÃ©sre jogosult teljes egÃ©szÃ©ben nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s formÃ¡jÃ¡ban teljesÃ­t a tÃ¡rsasÃ¡g rÃ©szÃ©re.<ujsor/>
+A nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s tÃ¡rgya, Ã©rtÃ©ke: a nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡st kÃ©pezÅ‘, Ã¶sszesen 2 624 999 156 Ft Ã©rtÃ©kÅ± vagyonÃ¡nak tÃ©teles felsorolÃ¡sÃ¡t az apportlista tartalmazza.<ujsor/>
+A nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡st szolgÃ¡lÃ³, illetve a kibocsÃ¡tandÃ³ rÃ©szvÃ©nyek Ã¡tvÃ©telÃ©re jogosult szemÃ©ly: MOL Magyar Olaj- Ã©s GÃ¡zipari NyilvÃ¡nosan MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (szÃ©khely: 1117 Budapest, OktÃ³ber huszonharmadika u. 18.).<ujsor/>
+A nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s elÅ‘zetes Ã©rtÃ©kelÃ©sÃ©t vÃ©gzÅ‘ kÃ¶nyvvizsgÃ¡lÃ³: Magyar SzakÃ©rtÅ‘i Holding Kft. (szÃ©khely: 1115 Budapest, Ozorai u. 4.) dr. Matukovics GÃ¡bor bejegyzett kÃ¶nyvvizsgÃ¡lÃ³.<ujsor/>
+A rÃ©szvÃ©nyek Ã¡tvÃ©telÃ©re vonatkozÃ³ nyilatkozat megtÃ©telÃ©nek idÅ‘pontja: 2008. januÃ¡r 1.<ujsor/>
+A kibocsÃ¡tandÃ³ rÃ©szvÃ©nyek ellenÃ©rtÃ©ke (a nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s) szolgÃ¡ltatÃ¡sÃ¡nak idÅ‘pontja: 2008. januÃ¡r 1.<ujsor/>
+Az alapÃ­tÃ³ kÃ¶telezettsÃ©get vÃ¡llal arra, hogy az alaptÅ‘ke-emelÃ©s sorÃ¡n kibocsÃ¡tÃ¡sra kerÃ¼lÅ‘ 2236 db (kettÅ‘ezer-kettÅ‘szÃ¡zharminchat darab), egyenkÃ©nt 1 000 000 Ft (egymilliÃ³ forint) nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³ Ãºj tÃ¶rzsrÃ©szvÃ©nyt Ã¡tveszi, valamint a rÃ©szvÃ©nyek kibocsÃ¡tÃ¡si Ã©rtÃ©kÃ©nek megfelelÅ‘, Ã¶sszesen 2 624 999 156 Ft Ã©rtÃ©kÅ±, az apportlista szerinti nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡st 2008. januÃ¡r 1-jÃ©n a tÃ¡rsasÃ¡g rendelkezÃ©sÃ©re bocsÃ¡tja.<ujsor/>
+A rendelkezÃ©sre bocsÃ¡tott nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s Ã©rtÃ©ke Ã©s az alaptÅ‘ke-emelÃ©s Ã¶sszege (azaz a jelen alaptÅ‘ke-emelÃ©ssel kibocsÃ¡tÃ¡sra kerÃ¼lÅ‘ rÃ©szvÃ©nyek kibocsÃ¡tÃ¡si Ã©rtÃ©ke) Ã©s a nÃ©vÃ©rtÃ©ke kÃ¶zÃ¶tti kÃ¼lÃ¶nbÃ¶zet a tÃ¡rsasÃ¡g tÅ‘ketartalÃ©kÃ¡t kÃ©pezi.<ujsor/>
+Az alaptÅ‘ke-emelÃ©st kÃ¶vetÅ‘en a tÃ¡rsasÃ¡g alaptÅ‘kÃ©jÃ©nek (jegyzett tÅ‘kÃ©jÃ©nek) az Ã¶sszege: 15 445 000 000 Ft.<ujsor/>
+A fentiekre tekintettel a rÃ©szvÃ©nytÃ¡rsasÃ¡g alaptÅ‘kÃ©je 13 209 000 000 Ft-rÃ³l 15 445 000 000 Ft-ra (tizenÃ¶tmilliÃ¡rd-nÃ©gyszÃ¡znegyvenÃ¶tmilliÃ³ forintra) emelkedik, amely tÃ¶rzstÅ‘ke 20 000 000 Ft (hÃºszmilliÃ³ forint) pÃ©nzbeli betÃ©tbÅ‘l Ã©s 15 425 000 000 Ft (tizenÃ¶tmilliÃ¡rd-nÃ©gyszÃ¡zhuszonÃ¶tmilliÃ³ forint) nem pÃ©nzbeli betÃ©tbÅ‘l Ã¡ll.<ujsor/>
+Az egyszemÃ©ly rÃ©szvÃ©nytÃ¡rsasÃ¡g alaptÅ‘kÃ©jÃ©nek pÃ©nzbeli betÃ©tÃ©t az alapÃ­tÃ³ teljes egÃ©szÃ©ben befizette, mÃ­g a nem pÃ©nzbeli betÃ©tet rendelkezÃ©sre bocsÃ¡totta.<ujsor/>
+A rÃ©szvÃ©nytÃ¡rsasÃ¡g 15 445 000 000 Ft Ã¶sszegÅ± alaptÅ‘ke 15 445 db (tizenÃ¶tezer-nÃ©gyszÃ¡znegyvenÃ¶t darab), egyenkÃ©nt 1 000 000 Ft (egymilliÃ³ forint) nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©nybÅ‘l Ã¡ll.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1410300230</mezo>
-<mezo id = "nev">MOL Földgázszállító Részvénytársaság</mezo>
-<mezo id = "cim">8600 Siófok</mezo>
+<mezo id = "nev">MOL FÃ¶ldgÃ¡zszÃ¡llÃ­tÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">8600 SiÃ³fok</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Könyvvizsgálói jelentés<ujsor/>
-A MOL Földgázszállító Zártkörûen Mûködõ Részvénytársaság (Cg.: [14 10 300230]; székhelye: 8600 Siófok, Tanácsház út 5.; cégbírósági bejegyzés alatt álló, új név: FGSZ Földgázszállító Zártkörûen Mûködõ Részvénytársaság) a Gazdasági társaságokról szóló, 2006. évi IV. tv. 209. § (3) bekezdésében foglaltaknak eleget téve, az alábbiakban teszi közzé a 2008. január 1-jén meghozott 1/2008. (I. 1.) sz. tulajdonosi-alapítói határozattal elhatározott, teljes egészében nem pénzbeli hozzájárulással teljesítendõ tõkeemelés kapcsán a társaságtól független könyvvizsgáló által készített könyvvizsgálói jelentés szövegét:<ujsor/>
-A MOL Magyar Olaj- és Gázipari Nyilvánosan Mûködõ Részvénytársaság (székhely: 1117 Budapest, Október huszonharmadika u. 18., továbbiakban „társaság”) felkérte a Magyar Szakértõi Holding Kft.-t, személyében dr. Matukovics Gábor bejegyzett könyvvizsgálót (továbbiakban „könyvvizsgáló”), hogy a Gazdasági társaságokról szóló, 2006. évi IV. törvény 209. § (1) bekezdése szerint minõsítse a társaság által az FGSZ Földgázszállító Zártkörûen Mûködõ Részvénytársaság (régi név: MOL Földgázszállító Zártkörûen Mûködõ Részvénytársaság, székhelye: 8600 Siófok, Tanácsház út 5.) részére apportként átadni kívánt, a társaság által kijelölt vagyontárgyak törvényi megfelelõségét, figyelembe véve a nem pénzbeli hozzájárulás leírását, értékelését, illetve az alkalmazott értékelési szempontok megfelelõségét.<ujsor/>
-Elvégeztük a MOL Magyar Olaj- és Gázipari Nyilvánosan Mûködõ Részvénytársaság által rendelkezésünkre bocsátott nem pénzbeli hozzájárulás kimutatás (továbbiakban; „apportlista”) vizsgálatát. Az apportlista összeállítása a társaság vezetésének feladata. A mi felelõsségünk az apportlista leírásának, értékelésének és a választott értékelési szempontoknak véleményezése könyvvizsgálatunk alapján. Könyvvizsgálatunkat a speciális területekre vonatkozó 8-as sorszámú könyvvizsgálati standardokra alkalmazható érvényes nemzeti standardok, illetve módszerek alapján végeztük el. Fenti standardok értelmében a könyvvizsgálat tervezése és elvégzése révén kellõ bizonyosságot kell szereznünk arról, hogy az apportjegyzék teljesíti-e a beazonosíthatóság, megfelelõ és megbízható értékelés kritériumát, valamint, hogy a választott értékelési módszerek a szakmai elvárások szerintiek-e. A könyvvizsgálat magában foglalja az apportjegyzékben szereplõ összegek és eszközök szúrópróbaszerû vizsgálatát, a vezetés által készített számviteli becslések megítélését, valamint az apport átfogó értékelését is. A könyvvizsgálat az értékelések helyességénél a 620. könyvvizsgálati standard szerint az American Appraisal Kft. által kiadott szakértõi vélemény eredményeit elfogadta. A könyvvizsgálat nem tartalmazza az apportlista egyes vagyonelemeinek jogi megfelelõségi, illetve per- és egyéb tehermentességének vizsgálatát. A vezetés nyilatkozata szerint az apportlistában szerepeltetett eszközök vagyoni értékkel rendelkezõ dolgok. A véleménynyilvánításunkhoz felhasznált, a vezetés által átadott dokumentumokat minden további bizonyítás nélkül, teljességi nyilatkozatuk figyelembevételével elfogadtuk és feltételeztük, hogy azok hitelesek, és az adatok megfelelõen kerültek kigyûjtésre. Meggyõzõdésünk, hogy munkánk megfelelõ alapot nyújt a könyvvizsgálói véleményünkhöz.<ujsor/>
-Véleményünk szerint 2008. január 1-jével az apportlista 2 624 999 156 Ft-os valós piaci értéke az egyes eszközök leírását és értékelését az általánosan elfogadott számviteli elvek szerint tartalmazza. Az értékelésnél felhasznált elvek és módszerek a nemzetközileg is elfogadott értékelési standardoknak (IVS) megfelelõen kerültek bemutatásra. Véleményünk szerint a meghatározott valós piaci értékek nem magasabbak, mint azt a szokványos piaci körülmények indokolják. A valós piaci értékre vonatkozó véleményünket 90 napig tartjuk hatályban az apportlistában rögzített állományra, ha új szempontok nem merülnek fel.<ujsor/>
-A MOL Nyrt.-nek szándékában áll átvenni az FGSZ Földgázszállító Zártkörûen Mûködõ Részvénytársaság által zártkörû alaptõke-emelés keretében kibocsátandó, 2236 darab, egyenként 1 000 000 Ft névértékû és részvényenként 1 173 971 Ft kibocsátási értékû, névre szóló törzsrészvényt, mindösszesen 2 624 999 156 Ft értékben, amely részvények ellenértékeként az apportlistában meghatározott eszközöket bocsátja nem vagyoni hozzájárulásként az FGSZ Földgázszállító Zártkörûen Mûködõ Részvénytársaság rendelkezésére.<ujsor/>
-A nem pénzbeli hozzájárulásnak az alapító MOL Nyrt. által elõzetesen megállapított értéke egyensúlyban van az ellenében adandó részvények darabszámával és névértékével, figyelembe véve a MOL Nyrt. ­ amely az FGSZ Földgázszállító Zártkörûen Mûködõ Részvénytársaság egyedüli részvényese ­ szándékát, miszerint a kibocsátandó részvények részvényenként 173 971 Ft ázsióval kerülnek kibocsátásra.<ujsor/>
+<mezo id = "szoveg">KÃ¶nyvvizsgÃ¡lÃ³i jelentÃ©s<ujsor/>
+A MOL FÃ¶ldgÃ¡zszÃ¡llÃ­tÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [14 10 300230]; szÃ©khelye: 8600 SiÃ³fok, TanÃ¡cshÃ¡z Ãºt 5.; cÃ©gbÃ­rÃ³sÃ¡gi bejegyzÃ©s alatt Ã¡llÃ³, Ãºj nÃ©v: FGSZ FÃ¶ldgÃ¡zszÃ¡llÃ­tÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g) a GazdasÃ¡gi tÃ¡rsasÃ¡gokrÃ³l szÃ³lÃ³, 2006. Ã©vi IV. tv. 209. Â§ (3) bekezdÃ©sÃ©ben foglaltaknak eleget tÃ©ve, az alÃ¡bbiakban teszi kÃ¶zzÃ© a 2008. januÃ¡r 1-jÃ©n meghozott 1/2008. (I. 1.) sz. tulajdonosi-alapÃ­tÃ³i hatÃ¡rozattal elhatÃ¡rozott, teljes egÃ©szÃ©ben nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡ssal teljesÃ­tendÅ‘ tÅ‘keemelÃ©s kapcsÃ¡n a tÃ¡rsasÃ¡gtÃ³l fÃ¼ggetlen kÃ¶nyvvizsgÃ¡lÃ³ Ã¡ltal kÃ©szÃ­tett kÃ¶nyvvizsgÃ¡lÃ³i jelentÃ©s szÃ¶vegÃ©t:<ujsor/>
+A MOL Magyar Olaj- Ã©s GÃ¡zipari NyilvÃ¡nosan MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (szÃ©khely: 1117 Budapest, OktÃ³ber huszonharmadika u. 18., tovÃ¡bbiakban â€tÃ¡rsasÃ¡gâ€) felkÃ©rte a Magyar SzakÃ©rtÅ‘i Holding Kft.-t, szemÃ©lyÃ©ben dr. Matukovics GÃ¡bor bejegyzett kÃ¶nyvvizsgÃ¡lÃ³t (tovÃ¡bbiakban â€kÃ¶nyvvizsgÃ¡lÃ³â€), hogy a GazdasÃ¡gi tÃ¡rsasÃ¡gokrÃ³l szÃ³lÃ³, 2006. Ã©vi IV. tÃ¶rvÃ©ny 209. Â§ (1) bekezdÃ©se szerint minÅ‘sÃ­tse a tÃ¡rsasÃ¡g Ã¡ltal az FGSZ FÃ¶ldgÃ¡zszÃ¡llÃ­tÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (rÃ©gi nÃ©v: MOL FÃ¶ldgÃ¡zszÃ¡llÃ­tÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g, szÃ©khelye: 8600 SiÃ³fok, TanÃ¡cshÃ¡z Ãºt 5.) rÃ©szÃ©re apportkÃ©nt Ã¡tadni kÃ­vÃ¡nt, a tÃ¡rsasÃ¡g Ã¡ltal kijelÃ¶lt vagyontÃ¡rgyak tÃ¶rvÃ©nyi megfelelÅ‘sÃ©gÃ©t, figyelembe vÃ©ve a nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s leÃ­rÃ¡sÃ¡t, Ã©rtÃ©kelÃ©sÃ©t, illetve az alkalmazott Ã©rtÃ©kelÃ©si szempontok megfelelÅ‘sÃ©gÃ©t.<ujsor/>
+ElvÃ©geztÃ¼k a MOL Magyar Olaj- Ã©s GÃ¡zipari NyilvÃ¡nosan MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g Ã¡ltal rendelkezÃ©sÃ¼nkre bocsÃ¡tott nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s kimutatÃ¡s (tovÃ¡bbiakban; â€apportlistaâ€) vizsgÃ¡latÃ¡t. Az apportlista Ã¶sszeÃ¡llÃ­tÃ¡sa a tÃ¡rsasÃ¡g vezetÃ©sÃ©nek feladata. A mi felelÅ‘ssÃ©gÃ¼nk az apportlista leÃ­rÃ¡sÃ¡nak, Ã©rtÃ©kelÃ©sÃ©nek Ã©s a vÃ¡lasztott Ã©rtÃ©kelÃ©si szempontoknak vÃ©lemÃ©nyezÃ©se kÃ¶nyvvizsgÃ¡latunk alapjÃ¡n. KÃ¶nyvvizsgÃ¡latunkat a speciÃ¡lis terÃ¼letekre vonatkozÃ³ 8-as sorszÃ¡mÃº kÃ¶nyvvizsgÃ¡lati standardokra alkalmazhatÃ³ Ã©rvÃ©nyes nemzeti standardok, illetve mÃ³dszerek alapjÃ¡n vÃ©geztÃ¼k el. Fenti standardok Ã©rtelmÃ©ben a kÃ¶nyvvizsgÃ¡lat tervezÃ©se Ã©s elvÃ©gzÃ©se rÃ©vÃ©n kellÅ‘ bizonyossÃ¡got kell szereznÃ¼nk arrÃ³l, hogy az apportjegyzÃ©k teljesÃ­ti-e a beazonosÃ­thatÃ³sÃ¡g, megfelelÅ‘ Ã©s megbÃ­zhatÃ³ Ã©rtÃ©kelÃ©s kritÃ©riumÃ¡t, valamint, hogy a vÃ¡lasztott Ã©rtÃ©kelÃ©si mÃ³dszerek a szakmai elvÃ¡rÃ¡sok szerintiek-e. A kÃ¶nyvvizsgÃ¡lat magÃ¡ban foglalja az apportjegyzÃ©kben szereplÅ‘ Ã¶sszegek Ã©s eszkÃ¶zÃ¶k szÃºrÃ³prÃ³baszerÅ± vizsgÃ¡latÃ¡t, a vezetÃ©s Ã¡ltal kÃ©szÃ­tett szÃ¡mviteli becslÃ©sek megÃ­tÃ©lÃ©sÃ©t, valamint az apport Ã¡tfogÃ³ Ã©rtÃ©kelÃ©sÃ©t is. A kÃ¶nyvvizsgÃ¡lat az Ã©rtÃ©kelÃ©sek helyessÃ©gÃ©nÃ©l a 620. kÃ¶nyvvizsgÃ¡lati standard szerint az American Appraisal Kft. Ã¡ltal kiadott szakÃ©rtÅ‘i vÃ©lemÃ©ny eredmÃ©nyeit elfogadta. A kÃ¶nyvvizsgÃ¡lat nem tartalmazza az apportlista egyes vagyonelemeinek jogi megfelelÅ‘sÃ©gi, illetve per- Ã©s egyÃ©b tehermentessÃ©gÃ©nek vizsgÃ¡latÃ¡t. A vezetÃ©s nyilatkozata szerint az apportlistÃ¡ban szerepeltetett eszkÃ¶zÃ¶k vagyoni Ã©rtÃ©kkel rendelkezÅ‘ dolgok. A vÃ©lemÃ©nynyilvÃ¡nÃ­tÃ¡sunkhoz felhasznÃ¡lt, a vezetÃ©s Ã¡ltal Ã¡tadott dokumentumokat minden tovÃ¡bbi bizonyÃ­tÃ¡s nÃ©lkÃ¼l, teljessÃ©gi nyilatkozatuk figyelembevÃ©telÃ©vel elfogadtuk Ã©s feltÃ©teleztÃ¼k, hogy azok hitelesek, Ã©s az adatok megfelelÅ‘en kerÃ¼ltek kigyÅ±jtÃ©sre. MeggyÅ‘zÅ‘dÃ©sÃ¼nk, hogy munkÃ¡nk megfelelÅ‘ alapot nyÃºjt a kÃ¶nyvvizsgÃ¡lÃ³i vÃ©lemÃ©nyÃ¼nkhÃ¶z.<ujsor/>
+VÃ©lemÃ©nyÃ¼nk szerint 2008. januÃ¡r 1-jÃ©vel az apportlista 2 624 999 156 Ft-os valÃ³s piaci Ã©rtÃ©ke az egyes eszkÃ¶zÃ¶k leÃ­rÃ¡sÃ¡t Ã©s Ã©rtÃ©kelÃ©sÃ©t az Ã¡ltalÃ¡nosan elfogadott szÃ¡mviteli elvek szerint tartalmazza. Az Ã©rtÃ©kelÃ©snÃ©l felhasznÃ¡lt elvek Ã©s mÃ³dszerek a nemzetkÃ¶zileg is elfogadott Ã©rtÃ©kelÃ©si standardoknak (IVS) megfelelÅ‘en kerÃ¼ltek bemutatÃ¡sra. VÃ©lemÃ©nyÃ¼nk szerint a meghatÃ¡rozott valÃ³s piaci Ã©rtÃ©kek nem magasabbak, mint azt a szokvÃ¡nyos piaci kÃ¶rÃ¼lmÃ©nyek indokoljÃ¡k. A valÃ³s piaci Ã©rtÃ©kre vonatkozÃ³ vÃ©lemÃ©nyÃ¼nket 90 napig tartjuk hatÃ¡lyban az apportlistÃ¡ban rÃ¶gzÃ­tett Ã¡llomÃ¡nyra, ha Ãºj szempontok nem merÃ¼lnek fel.<ujsor/>
+A MOL Nyrt.-nek szÃ¡ndÃ©kÃ¡ban Ã¡ll Ã¡tvenni az FGSZ FÃ¶ldgÃ¡zszÃ¡llÃ­tÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g Ã¡ltal zÃ¡rtkÃ¶rÅ± alaptÅ‘ke-emelÃ©s keretÃ©ben kibocsÃ¡tandÃ³, 2236 darab, egyenkÃ©nt 1 000 000 Ft nÃ©vÃ©rtÃ©kÅ± Ã©s rÃ©szvÃ©nyenkÃ©nt 1 173 971 Ft kibocsÃ¡tÃ¡si Ã©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©nyt, mindÃ¶sszesen 2 624 999 156 Ft Ã©rtÃ©kben, amely rÃ©szvÃ©nyek ellenÃ©rtÃ©kekÃ©nt az apportlistÃ¡ban meghatÃ¡rozott eszkÃ¶zÃ¶ket bocsÃ¡tja nem vagyoni hozzÃ¡jÃ¡rulÃ¡skÃ©nt az FGSZ FÃ¶ldgÃ¡zszÃ¡llÃ­tÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g rendelkezÃ©sÃ©re.<ujsor/>
+A nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡snak az alapÃ­tÃ³ MOL Nyrt. Ã¡ltal elÅ‘zetesen megÃ¡llapÃ­tott Ã©rtÃ©ke egyensÃºlyban van az ellenÃ©ben adandÃ³ rÃ©szvÃ©nyek darabszÃ¡mÃ¡val Ã©s nÃ©vÃ©rtÃ©kÃ©vel, figyelembe vÃ©ve a MOL Nyrt. Â­ amely az FGSZ FÃ¶ldgÃ¡zszÃ¡llÃ­tÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g egyedÃ¼li rÃ©szvÃ©nyese Â­ szÃ¡ndÃ©kÃ¡t, miszerint a kibocsÃ¡tandÃ³ rÃ©szvÃ©nyek rÃ©szvÃ©nyenkÃ©nt 173 971 Ft Ã¡zsiÃ³val kerÃ¼lnek kibocsÃ¡tÃ¡sra.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1410300230</mezo>
-<mezo id = "nev">MOL Földgázszállító Részvénytársaság</mezo>
-<mezo id = "cim">8600 Siófok</mezo>
+<mezo id = "nev">MOL FÃ¶ldgÃ¡zszÃ¡llÃ­tÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">8600 SiÃ³fok</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az FGSZ Földgázszállító Zártkörûen Mûködõ Részvénytársaság (Cg.: [14 10 300230]; székhelye: 8600 Siófok, Tanácsház út 5.; a továbbiakban: társaság) alapítója és egyedüli részvényese, a MOL Magyar Olaj- és Gázipari Nyilvánosan Mûködõ Részvénytársaság (Cg.: [01 10 041683]; székhelye: 1117 Budapest, Október huszonharmadika u. 18.; a továbbiakban: alapító) 2008. szeptember 1-jén kelt határozatával elhatározta a társaság alaptõke-emelését.<ujsor/>
-Az alapító a Gazdasági társaságokról szóló 2006. évi IV. törvény 248. § (1) bekezdésének a) pontjában és 254­255. §-aiban foglaltak alapján a társaság alaptõkéjét 2008. szeptember 1-jei hatállyal, új részvények zártkörû forgalomba hozatalával 15 445 000 000 Ft-ról 3 378 000 000 Ft-tal 18 823 000 000 Ft-ra felemeli az alábbiak szerint:<ujsor/>
-Az alaptõke-emelés módja: új részvények zártkörû forgalomba hozatala.<ujsor/>
-Az alaptõke-emelés mértéke: 3 378 000 000 Ft (hárommilliárd-háromszázhetvennyolcmillió forint).<ujsor/>
-A kibocsátandó részvények: 3378 darab, egyenként 1 000 000 Ft (egymillió forint) névértékû, névre szóló törzsrészvény.<ujsor/>
-A részvények elõállítási módja: dematerializált részvények.<ujsor/>
-Kibocsátási ár: részvényenként 4 440 497 Ft (négymillió-négyszáznegyvenezer-négyszázkilencvenhét forint), amelyet a jegyzésre jogosult teljes egészében pénzbeli hozzájárulás formájában teljesít a társaság részére.<ujsor/>
-A pénzbeli hozzájárulást szolgáltató, illetve a kibocsátandó részvények átvételére jogosult személy: MOL Magyar Olaj- és Gázipari Nyilvánosan Mûködõ Részvénytársaság (székhely: 1117 Budapest, Október huszonharmadika u. 18.).<ujsor/>
-A részvények átvételére vonatkozó nyilatkozat megtételének idõpontja: 2008. szeptember 1.<ujsor/>
-A kibocsátandó részvények ellenértéke (a pénzbeli hozzájárulás) megfizetésének feltételei:<ujsor/>
-A pénzbeli hozzájárulás legkésõbb 2008. szeptember 3-áig kerül befizetésre banki átutalásal a társaság bankszámlájára.<ujsor/>
-Az alapító kötelezettséget vállal arra, hogy az alaptõke-emelés során kibocsátásra kerülõ 3378 db (háromezer-háromszázhetvennyolc darab), egyenként 1 000 000 Ft (egymillió forint) névértékû, névre szóló új törzsrészvényt átveszi, valamint a részvények kibocsátási értékének megfelelõ, összesen 14 999 998 866 Ft pénzbeli hozzájárulást 2008. szeptember 3-áig befizeti a társaság bankszámlájára történõ átutalással.<ujsor/>
-A pénzbeli hozzájárulás értéke és az alaptõke-emelés összege (azaz a jelen alaptõke-emeléssel kibocsátásra kerülõ részvények kibocsátási értéke és a névértéke) közötti különbözet ­ 11 621 998 866 Ft ­ a társaság tõketartalékát képezi.<ujsor/>
-Az alaptõke-emelést követõen a társaság alaptõkéjének (jegyzett tõkéjének) az összege: 18 823 000 000 Ft.<ujsor/>
-A fentiekre tekintettel a társaság alaptõkéje 15 445 000 000 Ft-ról 18 823 000 000 Ft-ra (tizennyolcmilliárd-nyolcszázhuszonhárommillió forintra), amely 3 398 000 000 Ft (hárommilliárd-háromszázkilencvennyolcmillió forint) pénzbeli betétbõl és 15 425 000 000 Ft (tizenötmilliárd-négyszázhuszonötmillió forint) nem pénzbeli betétbõl áll.<ujsor/>
-A társaság 18 823 000 000 Ft összegû alaptõkéje 18 823 db (tizennyolcezer-nyolcszázhuszonhárom darab), egyenként 1 000 000 Ft (egymillió forint) névértékû, névre szóló törzsrészvénybõl áll.<ujsor/>
+<mezo id = "szoveg">Az FGSZ FÃ¶ldgÃ¡zszÃ¡llÃ­tÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [14 10 300230]; szÃ©khelye: 8600 SiÃ³fok, TanÃ¡cshÃ¡z Ãºt 5.; a tovÃ¡bbiakban: tÃ¡rsasÃ¡g) alapÃ­tÃ³ja Ã©s egyedÃ¼li rÃ©szvÃ©nyese, a MOL Magyar Olaj- Ã©s GÃ¡zipari NyilvÃ¡nosan MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 041683]; szÃ©khelye: 1117 Budapest, OktÃ³ber huszonharmadika u. 18.; a tovÃ¡bbiakban: alapÃ­tÃ³) 2008. szeptember 1-jÃ©n kelt hatÃ¡rozatÃ¡val elhatÃ¡rozta a tÃ¡rsasÃ¡g alaptÅ‘ke-emelÃ©sÃ©t.<ujsor/>
+Az alapÃ­tÃ³ a GazdasÃ¡gi tÃ¡rsasÃ¡gokrÃ³l szÃ³lÃ³ 2006. Ã©vi IV. tÃ¶rvÃ©ny 248. Â§ (1) bekezdÃ©sÃ©nek a) pontjÃ¡ban Ã©s 254Â­255. Â§-aiban foglaltak alapjÃ¡n a tÃ¡rsasÃ¡g alaptÅ‘kÃ©jÃ©t 2008. szeptember 1-jei hatÃ¡llyal, Ãºj rÃ©szvÃ©nyek zÃ¡rtkÃ¶rÅ± forgalomba hozatalÃ¡val 15 445 000 000 Ft-rÃ³l 3 378 000 000 Ft-tal 18 823 000 000 Ft-ra felemeli az alÃ¡bbiak szerint:<ujsor/>
+Az alaptÅ‘ke-emelÃ©s mÃ³dja: Ãºj rÃ©szvÃ©nyek zÃ¡rtkÃ¶rÅ± forgalomba hozatala.<ujsor/>
+Az alaptÅ‘ke-emelÃ©s mÃ©rtÃ©ke: 3 378 000 000 Ft (hÃ¡rommilliÃ¡rd-hÃ¡romszÃ¡zhetvennyolcmilliÃ³ forint).<ujsor/>
+A kibocsÃ¡tandÃ³ rÃ©szvÃ©nyek: 3378 darab, egyenkÃ©nt 1 000 000 Ft (egymilliÃ³ forint) nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+A rÃ©szvÃ©nyek elÅ‘Ã¡llÃ­tÃ¡si mÃ³dja: dematerializÃ¡lt rÃ©szvÃ©nyek.<ujsor/>
+KibocsÃ¡tÃ¡si Ã¡r: rÃ©szvÃ©nyenkÃ©nt 4 440 497 Ft (nÃ©gymilliÃ³-nÃ©gyszÃ¡znegyvenezer-nÃ©gyszÃ¡zkilencvenhÃ©t forint), amelyet a jegyzÃ©sre jogosult teljes egÃ©szÃ©ben pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s formÃ¡jÃ¡ban teljesÃ­t a tÃ¡rsasÃ¡g rÃ©szÃ©re.<ujsor/>
+A pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡st szolgÃ¡ltatÃ³, illetve a kibocsÃ¡tandÃ³ rÃ©szvÃ©nyek Ã¡tvÃ©telÃ©re jogosult szemÃ©ly: MOL Magyar Olaj- Ã©s GÃ¡zipari NyilvÃ¡nosan MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (szÃ©khely: 1117 Budapest, OktÃ³ber huszonharmadika u. 18.).<ujsor/>
+A rÃ©szvÃ©nyek Ã¡tvÃ©telÃ©re vonatkozÃ³ nyilatkozat megtÃ©telÃ©nek idÅ‘pontja: 2008. szeptember 1.<ujsor/>
+A kibocsÃ¡tandÃ³ rÃ©szvÃ©nyek ellenÃ©rtÃ©ke (a pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s) megfizetÃ©sÃ©nek feltÃ©telei:<ujsor/>
+A pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s legkÃ©sÅ‘bb 2008. szeptember 3-Ã¡ig kerÃ¼l befizetÃ©sre banki Ã¡tutalÃ¡sal a tÃ¡rsasÃ¡g bankszÃ¡mlÃ¡jÃ¡ra.<ujsor/>
+Az alapÃ­tÃ³ kÃ¶telezettsÃ©get vÃ¡llal arra, hogy az alaptÅ‘ke-emelÃ©s sorÃ¡n kibocsÃ¡tÃ¡sra kerÃ¼lÅ‘ 3378 db (hÃ¡romezer-hÃ¡romszÃ¡zhetvennyolc darab), egyenkÃ©nt 1 000 000 Ft (egymilliÃ³ forint) nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³ Ãºj tÃ¶rzsrÃ©szvÃ©nyt Ã¡tveszi, valamint a rÃ©szvÃ©nyek kibocsÃ¡tÃ¡si Ã©rtÃ©kÃ©nek megfelelÅ‘, Ã¶sszesen 14 999 998 866 Ft pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡st 2008. szeptember 3-Ã¡ig befizeti a tÃ¡rsasÃ¡g bankszÃ¡mlÃ¡jÃ¡ra tÃ¶rtÃ©nÅ‘ Ã¡tutalÃ¡ssal.<ujsor/>
+A pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s Ã©rtÃ©ke Ã©s az alaptÅ‘ke-emelÃ©s Ã¶sszege (azaz a jelen alaptÅ‘ke-emelÃ©ssel kibocsÃ¡tÃ¡sra kerÃ¼lÅ‘ rÃ©szvÃ©nyek kibocsÃ¡tÃ¡si Ã©rtÃ©ke Ã©s a nÃ©vÃ©rtÃ©ke) kÃ¶zÃ¶tti kÃ¼lÃ¶nbÃ¶zet Â­ 11 621 998 866 Ft Â­ a tÃ¡rsasÃ¡g tÅ‘ketartalÃ©kÃ¡t kÃ©pezi.<ujsor/>
+Az alaptÅ‘ke-emelÃ©st kÃ¶vetÅ‘en a tÃ¡rsasÃ¡g alaptÅ‘kÃ©jÃ©nek (jegyzett tÅ‘kÃ©jÃ©nek) az Ã¶sszege: 18 823 000 000 Ft.<ujsor/>
+A fentiekre tekintettel a tÃ¡rsasÃ¡g alaptÅ‘kÃ©je 15 445 000 000 Ft-rÃ³l 18 823 000 000 Ft-ra (tizennyolcmilliÃ¡rd-nyolcszÃ¡zhuszonhÃ¡rommilliÃ³ forintra), amely 3 398 000 000 Ft (hÃ¡rommilliÃ¡rd-hÃ¡romszÃ¡zkilencvennyolcmilliÃ³ forint) pÃ©nzbeli betÃ©tbÅ‘l Ã©s 15 425 000 000 Ft (tizenÃ¶tmilliÃ¡rd-nÃ©gyszÃ¡zhuszonÃ¶tmilliÃ³ forint) nem pÃ©nzbeli betÃ©tbÅ‘l Ã¡ll.<ujsor/>
+A tÃ¡rsasÃ¡g 18 823 000 000 Ft Ã¶sszegÅ± alaptÅ‘kÃ©je 18 823 db (tizennyolcezer-nyolcszÃ¡zhuszonhÃ¡rom darab), egyenkÃ©nt 1 000 000 Ft (egymilliÃ³ forint) nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©nybÅ‘l Ã¡ll.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1410300230</mezo>
-<mezo id = "nev">FGSZ Földgázszállító Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">8600 Siófok</mezo>
+<mezo id = "nev">FGSZ FÃ¶ldgÃ¡zszÃ¡llÃ­tÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">8600 SiÃ³fok</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Somogy Megyei Bíróság mint Cégbíróság a Cg.14-10-300230 cégjegyzékszámon bejegyzett FGSZ Földgázszállító Zártkörûen Mûködõ Részvénytársaság (8600 Siófok, Tanácsház út 5.; adószáma: 12543331-2-44) kérelme alapján elrendeli az 2008. szeptember 29. napján hozott Cg.14-10-300230 /54 számú végzésének kijavítását az alábbiak szerint:<ujsor/>
-5(10) Névre szóló részvények<ujsor/>
-Részvényfajta: törzsrészvény<ujsor/>
-Sorozatszám: A<ujsor/>
-1823 db 1000000.-Ft, azaz egymillió Ft névértékû részvény.<ujsor/>
-Vált. vége: 2008.09.01.<ujsor/>
-Törölve (végzés kelte): 2009. október 29.<ujsor/>
-A végzés ellen fellebbezésnek nincs helye.<ujsor/>
-2009. október 29.<ujsor/>
+<mezo id = "szoveg">A Somogy Megyei BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.14-10-300230 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett FGSZ FÃ¶ldgÃ¡zszÃ¡llÃ­tÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (8600 SiÃ³fok, TanÃ¡cshÃ¡z Ãºt 5.; adÃ³szÃ¡ma: 12543331-2-44) kÃ©relme alapjÃ¡n elrendeli az 2008. szeptember 29. napjÃ¡n hozott Cg.14-10-300230 /54 szÃ¡mÃº vÃ©gzÃ©sÃ©nek kijavÃ­tÃ¡sÃ¡t az alÃ¡bbiak szerint:<ujsor/>
+5(10) NÃ©vre szÃ³lÃ³ rÃ©szvÃ©nyek<ujsor/>
+RÃ©szvÃ©nyfajta: tÃ¶rzsrÃ©szvÃ©ny<ujsor/>
+SorozatszÃ¡m: A<ujsor/>
+1823 db 1000000.-Ft, azaz egymilliÃ³ Ft nÃ©vÃ©rtÃ©kÅ± rÃ©szvÃ©ny.<ujsor/>
+VÃ¡lt. vÃ©ge: 2008.09.01.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2009. oktÃ³ber 29.<ujsor/>
+A vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye.<ujsor/>
+2009. oktÃ³ber 29.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1410300230</mezo>
-<mezo id = "nev">FGSZ Földgázszállító Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">8600 Siófok, Tanácsház út 5.</mezo>
+<mezo id = "nev">FGSZ FÃ¶ldgÃ¡zszÃ¡llÃ­tÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">8600 SiÃ³fok, TanÃ¡cshÃ¡z Ãºt 5.</mezo>
 <mezo id = "adosz">12543331244</mezo>
 </alrovat>
 </rovat>

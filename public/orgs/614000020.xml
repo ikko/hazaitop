@@ -6,7 +6,7 @@
 <mezo id = "szam">000020</mezo>
 <mezo id = "nevalrovat">2</mezo>
 <mezo id = "allapot">6</mezo>
-<mezo id = "cim">6722 Szeged, Ady tér 10. </mezo>
+<mezo id = "cim">6722 Szeged, Ady tÃ©r 10. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">18457782206</mezo>
 </alrovat>
@@ -14,7 +14,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">19960801</mezo>
-<mezo id = "nev">UNIVERSITAS-SZEGED Diák-Szolgáltató Központ Közhasznú Társaság</mezo>
+<mezo id = "nev">UNIVERSITAS-SZEGED DiÃ¡k-SzolgÃ¡ltatÃ³ KÃ¶zpont KÃ¶zhasznÃº TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -28,7 +28,7 @@
 <mezo id = "hattol">20050411</mezo>
 <mezo id = "irsz">6722</mezo>
 <mezo id = "hely">Szeged</mezo>
-<mezo id = "teru">Ady tér 10.</mezo>
+<mezo id = "teru">Ady tÃ©r 10.</mezo>
 <mezo id = "kirsz">0</mezo>
 </alrovat>
 </rovat>
@@ -46,17 +46,17 @@
 <alrovat id = "6">
 <mezo id = "hattol">20050617</mezo>
 <mezo id = "irsz">6722</mezo>
-<mezo id = "hely">Szeged, Dugonics tér 13.</mezo>
+<mezo id = "hely">Szeged, Dugonics tÃ©r 13.</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">20050617</mezo>
 <mezo id = "irsz">6726</mezo>
-<mezo id = "hely">Szeged, Népkert sor 237.</mezo>
+<mezo id = "hely">Szeged, NÃ©pkert sor 237.</mezo>
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">20070829</mezo>
 <mezo id = "irsz">6724</mezo>
-<mezo id = "hely">Szeged, Mars tér 7.</mezo>
+<mezo id = "hely">Szeged, Mars tÃ©r 7.</mezo>
 <mezo id = "valtk">20070615</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -1309,7 +1309,7 @@
 <rovat id = "13">
 <alrovat id = "11">
 <mezo id = "hattol">20080630</mezo>
-<mezo id = "pnev">Bolgár Zsolt</mezo>
+<mezo id = "pnev">BolgÃ¡r Zsolt</mezo>
 <mezo id = "panev">Csala Etelka Anna</mezo>
 <mezo id = "pirsz">6724</mezo>
 <mezo id = "phely">Szeged, Gelei J. utca 11. fszt. 6.</mezo>
@@ -1327,16 +1327,16 @@
 <alrovat id = "9">
 <mezo id = "hattol">20080630</mezo>
 <mezo id = "cgjsz">609004382</mezo>
-<mezo id = "nev">Reál Controll 2000 Könyvvizsgáló és Adótanácsadó Kft.</mezo>
+<mezo id = "nev">ReÃ¡l Controll 2000 KÃ¶nyvvizsgÃ¡lÃ³ Ã©s AdÃ³tanÃ¡csadÃ³ Kft.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">6723</mezo>
 <mezo id = "hely">Szeged</mezo>
 <mezo id = "teru">Retek</mezo>
 <mezo id = "hsz">16.</mezo>
-<mezo id = "pnev">Bakó Anikó</mezo>
-<mezo id = "panev">Szabó Erzsébet</mezo>
+<mezo id = "pnev">BakÃ³ AnikÃ³</mezo>
+<mezo id = "panev">SzabÃ³ ErzsÃ©bet</mezo>
 <mezo id = "pirsz">6792</mezo>
-<mezo id = "phely">Zsombó, Dózsa dûlõ 115/2.</mezo>
+<mezo id = "phely">ZsombÃ³, DÃ³zsa dÅ±lÅ‘ 115/2.</mezo>
 <mezo id = "jogvk">20080701</mezo>
 <mezo id = "jogvv">20090630</mezo>
 <mezo id = "valtk">20080630</mezo>
@@ -1348,10 +1348,10 @@
 <rovat id = "15">
 <alrovat id = "40">
 <mezo id = "hattol">20080630</mezo>
-<mezo id = "pnev">Dr. Kasza Péter Ferenc</mezo>
-<mezo id = "panev">Szécsi Edit</mezo>
+<mezo id = "pnev">Dr. Kasza PÃ©ter Ferenc</mezo>
+<mezo id = "panev">SzÃ©csi Edit</mezo>
 <mezo id = "pirsz">6721</mezo>
-<mezo id = "phely">Szeged, Juhász Gyula utca 32.</mezo>
+<mezo id = "phely">Szeged, JuhÃ¡sz Gyula utca 32.</mezo>
 <mezo id = "jogvk">20080701</mezo>
 <mezo id = "jogvv">20090630</mezo>
 <mezo id = "valtk">20080630</mezo>
@@ -1361,10 +1361,10 @@
 </alrovat>
 <alrovat id = "41">
 <mezo id = "hattol">20080630</mezo>
-<mezo id = "pnev">Dr. Fekete Zoltán</mezo>
-<mezo id = "panev">Kovács Ildikó Edit</mezo>
+<mezo id = "pnev">Dr. Fekete ZoltÃ¡n</mezo>
+<mezo id = "panev">KovÃ¡cs IldikÃ³ Edit</mezo>
 <mezo id = "pirsz">6722</mezo>
-<mezo id = "phely">Szeged, Batthyány utca 34. II. em. 9.</mezo>
+<mezo id = "phely">Szeged, BatthyÃ¡ny utca 34. II. em. 9.</mezo>
 <mezo id = "jogvk">20080701</mezo>
 <mezo id = "jogvv">20090630</mezo>
 <mezo id = "valtk">20080630</mezo>
@@ -1374,10 +1374,10 @@
 </alrovat>
 <alrovat id = "42">
 <mezo id = "hattol">20080630</mezo>
-<mezo id = "pnev">Dr. Koszta László</mezo>
-<mezo id = "panev">Polyák Teréz</mezo>
+<mezo id = "pnev">Dr. Koszta LÃ¡szlÃ³</mezo>
+<mezo id = "panev">PolyÃ¡k TerÃ©z</mezo>
 <mezo id = "pirsz">6726</mezo>
-<mezo id = "phely">Szeged, Lövölde utca 17.</mezo>
+<mezo id = "phely">Szeged, LÃ¶vÃ¶lde utca 17.</mezo>
 <mezo id = "jogvk">20080701</mezo>
 <mezo id = "jogvv">20090630</mezo>
 <mezo id = "valtk">20080630</mezo>
@@ -1412,17 +1412,17 @@
 <rovat id = "22">
 <alrovat id = "1">
 <mezo id = "jccjsz">0609014183</mezo>
-<mezo id = "nev">UNIVERSITAS-SZEGED Szolgáltató Nonprofit Közhasznú Kft.</mezo>
+<mezo id = "nev">UNIVERSITAS-SZEGED SzolgÃ¡ltatÃ³ Nonprofit KÃ¶zhasznÃº Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0214">
 <alrovat id = "6">
 <mezo id = "hattol">20070829</mezo>
-<mezo id = "nev">Szegedi Tudományegyetem Hallgatóiért Közhasznú Alapítvány</mezo>
+<mezo id = "nev">Szegedi TudomÃ¡nyegyetem HallgatÃ³iÃ©rt KÃ¶zhasznÃº AlapÃ­tvÃ¡ny</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">6722</mezo>
 <mezo id = "hely">Szeged</mezo>
-<mezo id = "teru">Ady tér</mezo>
+<mezo id = "teru">Ady tÃ©r</mezo>
 <mezo id = "hsz">10.</mezo>
 <mezo id = "tagsk">20050305</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -1431,11 +1431,11 @@
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">20070829</mezo>
-<mezo id = "nev">Szegedi Tudományegyetem (Költségvetési törzsszám: 8. 815/3/2001.)</mezo>
+<mezo id = "nev">Szegedi TudomÃ¡nyegyetem (KÃ¶ltsÃ©gvetÃ©si tÃ¶rzsszÃ¡m: 8. 815/3/2001.)</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">6720</mezo>
 <mezo id = "hely">Szeged</mezo>
-<mezo id = "teru">Dugonics tér</mezo>
+<mezo id = "teru">Dugonics tÃ©r</mezo>
 <mezo id = "hsz">13.</mezo>
 <mezo id = "tagsk">20070615</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -1453,20 +1453,20 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A PRUDENTIA Hallgatói Jóléti és Vállalkozásfejlesztési Alapítvány (Csongrád Megyei Bíróság által Pk. 60.244/1991 nyilvántartási számon bejegyzett; adószám: [19083209-2-06]; 6725 Szeged, Boldogasszony sgt. 4.) bejelenti, hogy a Csongrád Megyei Bíróságon mint Cégbíróságon nyilvántartott UNIVERSITAS-SZEGED Diák-Szolgáltató Központ Közhasznú Társaságban (Cg.: [06 14 000020]; 6725 Szeged, Boldogasszony sgt. 4.) 2004. június 17-én törzsbetét szerzése alapján többségi irányítást biztosító befolyást (70%) szerzett.<ujsor/>
+<mezo id = "szoveg">A PRUDENTIA HallgatÃ³i JÃ³lÃ©ti Ã©s VÃ¡llalkozÃ¡sfejlesztÃ©si AlapÃ­tvÃ¡ny (CsongrÃ¡d Megyei BÃ­rÃ³sÃ¡g Ã¡ltal Pk. 60.244/1991 nyilvÃ¡ntartÃ¡si szÃ¡mon bejegyzett; adÃ³szÃ¡m: [19083209-2-06]; 6725 Szeged, Boldogasszony sgt. 4.) bejelenti, hogy a CsongrÃ¡d Megyei BÃ­rÃ³sÃ¡gon mint CÃ©gbÃ­rÃ³sÃ¡gon nyilvÃ¡ntartott UNIVERSITAS-SZEGED DiÃ¡k-SzolgÃ¡ltatÃ³ KÃ¶zpont KÃ¶zhasznÃº TÃ¡rsasÃ¡gban (Cg.: [06 14 000020]; 6725 Szeged, Boldogasszony sgt. 4.) 2004. jÃºnius 17-Ã©n tÃ¶rzsbetÃ©t szerzÃ©se alapjÃ¡n tÃ¶bbsÃ©gi irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡st (70%) szerzett.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0614000020</mezo>
-<mezo id = "nev">UNIVERSITAS-SZEGED Diák-Szolgáltató Központ Közhasznú Társaság</mezo>
+<mezo id = "nev">UNIVERSITAS-SZEGED DiÃ¡k-SzolgÃ¡ltatÃ³ KÃ¶zpont KÃ¶zhasznÃº TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">6722 Szeged, Boldogasszony sgt. 4. </mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Szegedi Tudományegyetem Hallgatóiért Közhasznú Alapítvány (nyilv. szám: Csongrád Megyei Bíróság által Pk. 60.201/2004/1.; 6722 Szeged, Ady tér 10.) képviseletében Telegdy Gergely elnök bejelenti, hogy a Csongrád Megyei Bíróságon mint Cégbíróságon nyilvántartott UNIVERSITAS-SZEGED Diák-Szolgáltató Központ Közhasznú Társaságban (Cg.: [06 14 000020]; 6725 Szeged, Boldogasszony sgt. 4.) 2005. június 17-én törzsbetét szerzése alapján közvetlen irányítást biztosító befolyást (100,00%) szerzett.<ujsor/>
-A hitelezõk a Gt. 296. § (2) bekezdésében foglalt jogaikat gyakorolhatják.<ujsor/>
+<mezo id = "szoveg">A Szegedi TudomÃ¡nyegyetem HallgatÃ³iÃ©rt KÃ¶zhasznÃº AlapÃ­tvÃ¡ny (nyilv. szÃ¡m: CsongrÃ¡d Megyei BÃ­rÃ³sÃ¡g Ã¡ltal Pk. 60.201/2004/1.; 6722 Szeged, Ady tÃ©r 10.) kÃ©pviseletÃ©ben Telegdy Gergely elnÃ¶k bejelenti, hogy a CsongrÃ¡d Megyei BÃ­rÃ³sÃ¡gon mint CÃ©gbÃ­rÃ³sÃ¡gon nyilvÃ¡ntartott UNIVERSITAS-SZEGED DiÃ¡k-SzolgÃ¡ltatÃ³ KÃ¶zpont KÃ¶zhasznÃº TÃ¡rsasÃ¡gban (Cg.: [06 14 000020]; 6725 Szeged, Boldogasszony sgt. 4.) 2005. jÃºnius 17-Ã©n tÃ¶rzsbetÃ©t szerzÃ©se alapjÃ¡n kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡st (100,00%) szerzett.<ujsor/>
+A hitelezÅ‘k a Gt. 296. Â§ (2) bekezdÃ©sÃ©ben foglalt jogaikat gyakorolhatjÃ¡k.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0614000020</mezo>
-<mezo id = "nev">UNIVERSITAS-SZEGED Diák-Szolgáltató Központ Közhasznú Társaság</mezo>
+<mezo id = "nev">UNIVERSITAS-SZEGED DiÃ¡k-SzolgÃ¡ltatÃ³ KÃ¶zpont KÃ¶zhasznÃº TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">6722 Szeged</mezo>
 </alrovat>
 </rovat>

@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">062632</mezo>
 <mezo id = "nevalrovat">4</mezo>
-<mezo id = "cim">4337 Jármi, Kölcsey Ferenc utca 4. </mezo>
+<mezo id = "cim">4337 JÃ¡rmi, KÃ¶lcsey Ferenc utca 4. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">11250962215</mezo>
 </alrovat>
@@ -13,17 +13,17 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19940706</mezo>
-<mezo id = "nev">&quot;SZATMÁRHÚS&quot; Sertéstenyésztõ és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">&quot;SZATMÃRHÃšS&quot; SertÃ©stenyÃ©sztÅ‘ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20030314</mezo>
-<mezo id = "nev">SZALKA-PIG Termelõ és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">SZALKA-PIG TermelÅ‘ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">19940706</mezo>
-<mezo id = "nev">&quot;SZATMÁRHÚS&quot; KFT.</mezo>
+<mezo id = "nev">&quot;SZATMÃRHÃšS&quot; KFT.</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20030314</mezo>
@@ -33,8 +33,8 @@
 <rovat id = "5">
 <alrovat id = "3">
 <mezo id = "irsz">4337</mezo>
-<mezo id = "hely">Jármi</mezo>
-<mezo id = "teru">Kölcsey Ferenc utca 4.</mezo>
+<mezo id = "hely">JÃ¡rmi</mezo>
+<mezo id = "teru">KÃ¶lcsey Ferenc utca 4.</mezo>
 <mezo id = "bkelt">20101208</mezo>
 </alrovat>
 </rovat>
@@ -42,8 +42,8 @@
 <alrovat id = "1">
 <mezo id = "hattol">20101206</mezo>
 <mezo id = "irsz">4700</mezo>
-<mezo id = "hely">Mátészalka</mezo>
-<mezo id = "teru">Meggyesi út 0119/5.</mezo>
+<mezo id = "hely">MÃ¡tÃ©szalka</mezo>
+<mezo id = "teru">Meggyesi Ãºt 0119/5.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20101206</mezo>
 <mezo id = "bkelt">20101208</mezo>
@@ -247,187 +247,187 @@
 <mezo id = "hattol">20101206</mezo>
 <mezo id = "valtk">20101206</mezo>
 <mezo id = "bkelt">20101208</mezo>
-<mezo id = "teaszov">gabonaféle( kivéve: rizs) , hüvelyes növény, olajos mag termesztése</mezo>
+<mezo id = "teaszov">gabonafÃ©le( kivÃ©ve: rizs) , hÃ¼velyes nÃ¶vÃ©ny, olajos mag termesztÃ©se</mezo>
 </alrovat>
 <alrovat id = "96">
 <mezo id = "hattol">20101206</mezo>
 <mezo id = "valtk">20101206</mezo>
 <mezo id = "bkelt">20101208</mezo>
-<mezo id = "teaszov">zöldségféle, dinnye, gyökér-, gumósnövény termesztése</mezo>
+<mezo id = "teaszov">zÃ¶ldsÃ©gfÃ©le, dinnye, gyÃ¶kÃ©r-, gumÃ³snÃ¶vÃ©ny termesztÃ©se</mezo>
 </alrovat>
 <alrovat id = "97">
 <mezo id = "hattol">20101206</mezo>
 <mezo id = "valtk">20101206</mezo>
 <mezo id = "bkelt">20101208</mezo>
-<mezo id = "teaszov">rostnövénytermesztés</mezo>
+<mezo id = "teaszov">rostnÃ¶vÃ©nytermesztÃ©s</mezo>
 </alrovat>
 <alrovat id = "98">
 <mezo id = "hattol">20101206</mezo>
 <mezo id = "valtk">20101206</mezo>
 <mezo id = "bkelt">20101208</mezo>
-<mezo id = "teaszov">egyéb, nem évelõ növény termesztése</mezo>
+<mezo id = "teaszov">egyÃ©b, nem Ã©velÅ‘ nÃ¶vÃ©ny termesztÃ©se</mezo>
 </alrovat>
 <alrovat id = "99">
 <mezo id = "hattol">20101206</mezo>
 <mezo id = "valtk">20101206</mezo>
 <mezo id = "bkelt">20101208</mezo>
-<mezo id = "teaszov">egyéb évelõ növény termesztése</mezo>
+<mezo id = "teaszov">egyÃ©b Ã©velÅ‘ nÃ¶vÃ©ny termesztÃ©se</mezo>
 </alrovat>
 <alrovat id = "100">
 <mezo id = "hattol">20101206</mezo>
 <mezo id = "valtk">20101206</mezo>
 <mezo id = "bkelt">20101208</mezo>
-<mezo id = "teaszov">olajtartamú gyümölcs, héjastermésû termesztése</mezo>
+<mezo id = "teaszov">olajtartamÃº gyÃ¼mÃ¶lcs, hÃ©jastermÃ©sÅ± termesztÃ©se</mezo>
 </alrovat>
 <alrovat id = "101">
 <mezo id = "hattol">20101206</mezo>
 <mezo id = "valtk">20101206</mezo>
 <mezo id = "bkelt">20101208</mezo>
-<mezo id = "teaszov">fûszer-, aroma-, narkotikus-, gyógynövény termesztése</mezo>
+<mezo id = "teaszov">fÅ±szer-, aroma-, narkotikus-, gyÃ³gynÃ¶vÃ©ny termesztÃ©se</mezo>
 </alrovat>
 <alrovat id = "102">
 <mezo id = "hattol">20101206</mezo>
 <mezo id = "valtk">20101206</mezo>
 <mezo id = "bkelt">20101208</mezo>
-<mezo id = "teaszov">növényi szaporítóanyag termesztése</mezo>
+<mezo id = "teaszov">nÃ¶vÃ©nyi szaporÃ­tÃ³anyag termesztÃ©se</mezo>
 </alrovat>
 <alrovat id = "103">
 <mezo id = "hattol">20101206</mezo>
 <mezo id = "valtk">20101206</mezo>
 <mezo id = "bkelt">20101208</mezo>
-<mezo id = "teaszov">tejhasznú szarvasmarha tenyésztése</mezo>
+<mezo id = "teaszov">tejhasznÃº szarvasmarha tenyÃ©sztÃ©se</mezo>
 </alrovat>
 <alrovat id = "104">
 <mezo id = "hattol">20101206</mezo>
 <mezo id = "valtk">20101206</mezo>
 <mezo id = "bkelt">20101208</mezo>
-<mezo id = "teaszov">egyéb állat tenyésztése</mezo>
+<mezo id = "teaszov">egyÃ©b Ã¡llat tenyÃ©sztÃ©se</mezo>
 </alrovat>
 <alrovat id = "105">
 <mezo id = "hattol">20101206</mezo>
 <mezo id = "valtk">20101206</mezo>
 <mezo id = "bkelt">20101208</mezo>
-<mezo id = "teaszov">vegyes gazdálkodás</mezo>
+<mezo id = "teaszov">vegyes gazdÃ¡lkodÃ¡s</mezo>
 </alrovat>
 <alrovat id = "106">
 <mezo id = "hattol">20101206</mezo>
 <mezo id = "valtk">20101206</mezo>
 <mezo id = "bkelt">20101208</mezo>
-<mezo id = "teaszov">betakarítást követõ szolgáltatás</mezo>
+<mezo id = "teaszov">betakarÃ­tÃ¡st kÃ¶vetÅ‘ szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "107">
 <mezo id = "hattol">20101206</mezo>
 <mezo id = "valtk">20101206</mezo>
 <mezo id = "bkelt">20101208</mezo>
-<mezo id = "teaszov">vetési célú mag-feldolgozás</mezo>
+<mezo id = "teaszov">vetÃ©si cÃ©lÃº mag-feldolgozÃ¡s</mezo>
 </alrovat>
 <alrovat id = "108">
 <mezo id = "hattol">20101206</mezo>
 <mezo id = "valtk">20101206</mezo>
 <mezo id = "bkelt">20101208</mezo>
-<mezo id = "teaszov">erdészeti, egyéb erdõgazdálkodási tevékenység</mezo>
+<mezo id = "teaszov">erdÃ©szeti, egyÃ©b erdÅ‘gazdÃ¡lkodÃ¡si tevÃ©kenysÃ©g</mezo>
 </alrovat>
 <alrovat id = "109">
 <mezo id = "hattol">20101206</mezo>
 <mezo id = "valtk">20101206</mezo>
 <mezo id = "bkelt">20101208</mezo>
-<mezo id = "teaszov">vadon termõ egyéb erdei termék gyûjtése</mezo>
+<mezo id = "teaszov">vadon termÅ‘ egyÃ©b erdei termÃ©k gyÅ±jtÃ©se</mezo>
 </alrovat>
 <alrovat id = "110">
 <mezo id = "hattol">20101206</mezo>
 <mezo id = "valtk">20101206</mezo>
 <mezo id = "bkelt">20101208</mezo>
-<mezo id = "teaszov">készétel gyártása</mezo>
+<mezo id = "teaszov">kÃ©szÃ©tel gyÃ¡rtÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "111">
 <mezo id = "hattol">20101206</mezo>
 <mezo id = "valtk">20101206</mezo>
 <mezo id = "bkelt">20101208</mezo>
-<mezo id = "teaszov">máshova nem sorolt egyéb élelmiszer gyártása</mezo>
+<mezo id = "teaszov">mÃ¡shova nem sorolt egyÃ©b Ã©lelmiszer gyÃ¡rtÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "112">
 <mezo id = "hattol">20101206</mezo>
 <mezo id = "valtk">20101206</mezo>
 <mezo id = "bkelt">20101208</mezo>
-<mezo id = "teaszov">haszonállat-eledel gyártása</mezo>
+<mezo id = "teaszov">haszonÃ¡llat-eledel gyÃ¡rtÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "113">
 <mezo id = "hattol">20101206</mezo>
 <mezo id = "valtk">20101206</mezo>
 <mezo id = "bkelt">20101208</mezo>
-<mezo id = "teaszov">épületépítési projekt szervezése</mezo>
+<mezo id = "teaszov">Ã©pÃ¼letÃ©pÃ­tÃ©si projekt szervezÃ©se</mezo>
 </alrovat>
 <alrovat id = "114">
 <mezo id = "hattol">20101206</mezo>
 <mezo id = "valtk">20101206</mezo>
 <mezo id = "bkelt">20101208</mezo>
-<mezo id = "teaszov">lakó és nem lakó épület építése</mezo>
+<mezo id = "teaszov">lakÃ³ Ã©s nem lakÃ³ Ã©pÃ¼let Ã©pÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "115">
 <mezo id = "hattol">20101206</mezo>
 <mezo id = "valtk">20101206</mezo>
 <mezo id = "bkelt">20101208</mezo>
-<mezo id = "teaszov">elektromos-, híradástechnikai célú közmû építése</mezo>
+<mezo id = "teaszov">elektromos-, hÃ­radÃ¡stechnikai cÃ©lÃº kÃ¶zmÅ± Ã©pÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "116">
 <mezo id = "hattol">20101206</mezo>
 <mezo id = "valtk">20101206</mezo>
 <mezo id = "bkelt">20101208</mezo>
-<mezo id = "teaszov">egyéb máshova nem sorolt építmény építése</mezo>
+<mezo id = "teaszov">egyÃ©b mÃ¡shova nem sorolt Ã©pÃ­tmÃ©ny Ã©pÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "117">
 <mezo id = "hattol">20101206</mezo>
 <mezo id = "valtk">20101206</mezo>
 <mezo id = "bkelt">20101208</mezo>
-<mezo id = "teaszov">bontás</mezo>
+<mezo id = "teaszov">bontÃ¡s</mezo>
 </alrovat>
 <alrovat id = "118">
 <mezo id = "hattol">20101206</mezo>
 <mezo id = "valtk">20101206</mezo>
 <mezo id = "bkelt">20101208</mezo>
-<mezo id = "teaszov">építési terület elõkészítése</mezo>
+<mezo id = "teaszov">Ã©pÃ­tÃ©si terÃ¼let elÅ‘kÃ©szÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "119">
 <mezo id = "hattol">20101206</mezo>
 <mezo id = "valtk">20101206</mezo>
 <mezo id = "bkelt">20101208</mezo>
-<mezo id = "teaszov">tetõfedés, tetõszerkezet-építés</mezo>
+<mezo id = "teaszov">tetÅ‘fedÃ©s, tetÅ‘szerkezet-Ã©pÃ­tÃ©s</mezo>
 </alrovat>
 <alrovat id = "120">
 <mezo id = "hattol">20101206</mezo>
 <mezo id = "valtk">20101206</mezo>
 <mezo id = "bkelt">20101208</mezo>
-<mezo id = "teaszov">máshova nem sorolt spciális szaképítés</mezo>
+<mezo id = "teaszov">mÃ¡shova nem sorolt spciÃ¡lis szakÃ©pÃ­tÃ©s</mezo>
 </alrovat>
 <alrovat id = "121">
 <mezo id = "hattol">20101206</mezo>
 <mezo id = "valtk">20101206</mezo>
 <mezo id = "bkelt">20101208</mezo>
-<mezo id = "teaszov">zöldség-gyümölcs nagykereskedelm</mezo>
+<mezo id = "teaszov">zÃ¶ldsÃ©g-gyÃ¼mÃ¶lcs nagykereskedelm</mezo>
 </alrovat>
 <alrovat id = "122">
 <mezo id = "hattol">20101206</mezo>
 <mezo id = "valtk">20101206</mezo>
 <mezo id = "bkelt">20101208</mezo>
-<mezo id = "teaszov">cukor, édesség nagykereskedelme</mezo>
+<mezo id = "teaszov">cukor, Ã©dessÃ©g nagykereskedelme</mezo>
 </alrovat>
 <alrovat id = "123">
 <mezo id = "hattol">20101206</mezo>
 <mezo id = "valtk">20101206</mezo>
 <mezo id = "bkelt">20101208</mezo>
-<mezo id = "teaszov">zöldség, gyümölcs kiskereskedelme</mezo>
+<mezo id = "teaszov">zÃ¶ldsÃ©g, gyÃ¼mÃ¶lcs kiskereskedelme</mezo>
 </alrovat>
 <alrovat id = "124">
 <mezo id = "hattol">20101206</mezo>
 <mezo id = "valtk">20101206</mezo>
 <mezo id = "bkelt">20101208</mezo>
-<mezo id = "teaszov">hús-, húsáru kiskereskedelme</mezo>
+<mezo id = "teaszov">hÃºs-, hÃºsÃ¡ru kiskereskedelme</mezo>
 </alrovat>
 <alrovat id = "125">
 <mezo id = "hattol">20101206</mezo>
 <mezo id = "valtk">20101206</mezo>
 <mezo id = "bkelt">20101208</mezo>
-<mezo id = "teaszov">kenyér-, pékáru-, édesség-kiskereskedelem</mezo>
+<mezo id = "teaszov">kenyÃ©r-, pÃ©kÃ¡ru-, Ã©dessÃ©g-kiskereskedelem</mezo>
 </alrovat>
 <alrovat id = "126">
 <mezo id = "hattol">20101206</mezo>
@@ -439,55 +439,55 @@
 <mezo id = "hattol">20101206</mezo>
 <mezo id = "valtk">20101206</mezo>
 <mezo id = "bkelt">20101208</mezo>
-<mezo id = "teaszov">dohányáru-kiskereskedelem</mezo>
+<mezo id = "teaszov">dohÃ¡nyÃ¡ru-kiskereskedelem</mezo>
 </alrovat>
 <alrovat id = "128">
 <mezo id = "hattol">20101206</mezo>
 <mezo id = "valtk">20101206</mezo>
 <mezo id = "bkelt">20101208</mezo>
-<mezo id = "teaszov">közúti áruszállítás</mezo>
+<mezo id = "teaszov">kÃ¶zÃºti Ã¡ruszÃ¡llÃ­tÃ¡s</mezo>
 </alrovat>
 <alrovat id = "129">
 <mezo id = "hattol">20101206</mezo>
 <mezo id = "valtk">20101206</mezo>
 <mezo id = "bkelt">20101208</mezo>
-<mezo id = "teaszov">egyéb szállítást kiegészítõ szolgáltatás</mezo>
+<mezo id = "teaszov">egyÃ©b szÃ¡llÃ­tÃ¡st kiegÃ©szÃ­tÅ‘ szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "130">
 <mezo id = "hattol">20101206</mezo>
 <mezo id = "valtk">20101206</mezo>
 <mezo id = "bkelt">20101208</mezo>
-<mezo id = "teaszov">PR kommunikáció</mezo>
+<mezo id = "teaszov">PR kommunikÃ¡ciÃ³</mezo>
 </alrovat>
 <alrovat id = "131">
 <mezo id = "hattol">20101206</mezo>
 <mezo id = "valtk">20101206</mezo>
 <mezo id = "bkelt">20101208</mezo>
-<mezo id = "teaszov">üzletviteli, egyéb vezetési tanácsadás</mezo>
+<mezo id = "teaszov">Ã¼zletviteli, egyÃ©b vezetÃ©si tanÃ¡csadÃ¡s</mezo>
 </alrovat>
 <alrovat id = "132">
 <mezo id = "hattol">20101206</mezo>
 <mezo id = "valtk">20101206</mezo>
 <mezo id = "bkelt">20101208</mezo>
-<mezo id = "teaszov">egyéb máshova nem sorolt szakmai, tudományos, mûszaki tevékenység</mezo>
+<mezo id = "teaszov">egyÃ©b mÃ¡shova nem sorolt szakmai, tudomÃ¡nyos, mÅ±szaki tevÃ©kenysÃ©g</mezo>
 </alrovat>
 <alrovat id = "133">
 <mezo id = "hattol">20101206</mezo>
 <mezo id = "valtk">20101206</mezo>
 <mezo id = "bkelt">20101208</mezo>
-<mezo id = "teaszov">máshova nem sorolt egyéb kiegészítõ üzleti szolgáltatás</mezo>
+<mezo id = "teaszov">mÃ¡shova nem sorolt egyÃ©b kiegÃ©szÃ­tÅ‘ Ã¼zleti szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "134">
 <mezo id = "hattol">20101206</mezo>
 <mezo id = "valtk">20101206</mezo>
 <mezo id = "bkelt">20101208</mezo>
-<mezo id = "teaszov">oktatást kiegészítõ tevékenység</mezo>
+<mezo id = "teaszov">oktatÃ¡st kiegÃ©szÃ­tÅ‘ tevÃ©kenysÃ©g</mezo>
 </alrovat>
 <alrovat id = "135">
 <mezo id = "hattol">20101206</mezo>
 <mezo id = "valtk">20101206</mezo>
 <mezo id = "bkelt">20101208</mezo>
-<mezo id = "teaszov">zöldterület -kezelés</mezo>
+<mezo id = "teaszov">zÃ¶ldterÃ¼let -kezelÃ©s</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -502,9 +502,9 @@
 <rovat id = "13">
 <alrovat id = "6">
 <mezo id = "hattol">20101206</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Szilágyi János</mezo>
-<mezo id = "panev">Puskás Erzsébet</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">SzilÃ¡gyi JÃ¡nos</mezo>
+<mezo id = "panev">PuskÃ¡s ErzsÃ©bet</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20101206</mezo>
 <mezo id = "valtk">20101206</mezo>
@@ -515,8 +515,8 @@
 <rovat id = "14">
 <alrovat id = "2">
 <mezo id = "hattol">20101206</mezo>
-<mezo id = "pnev">Erdei Béla</mezo>
-<mezo id = "panev">Kerezsi Irén</mezo>
+<mezo id = "pnev">Erdei BÃ©la</mezo>
+<mezo id = "panev">Kerezsi IrÃ©n</mezo>
 <mezo id = "jogvk">20100106</mezo>
 <mezo id = "jogvv">20110630</mezo>
 <mezo id = "valtk">20101206</mezo>
@@ -552,8 +552,8 @@
 <rovat id = "0109">
 <alrovat id = "8">
 <mezo id = "hattol">20101206</mezo>
-<mezo id = "pnev">Szilágyi János</mezo>
-<mezo id = "panev">Puskás Erzsébet</mezo>
+<mezo id = "pnev">SzilÃ¡gyi JÃ¡nos</mezo>
+<mezo id = "panev">PuskÃ¡s ErzsÃ©bet</mezo>
 <mezo id = "tagsk">19940706</mezo>
 <mezo id = "sz2">x</mezo>
 <mezo id = "valtk">20101206</mezo>
@@ -561,8 +561,8 @@
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">20101206</mezo>
-<mezo id = "pnev">Szilágyi Balázs</mezo>
-<mezo id = "panev">Dr Borbás Pálma</mezo>
+<mezo id = "pnev">SzilÃ¡gyi BalÃ¡zs</mezo>
+<mezo id = "panev">Dr BorbÃ¡s PÃ¡lma</mezo>
 <mezo id = "tagsk">20050218</mezo>
 <mezo id = "valtk">20101206</mezo>
 <mezo id = "bkelt">20101208</mezo>
@@ -577,75 +577,75 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Szabolcs-Szatmár-Bereg Megyei Bíróság<ujsor/>
-6.Fpk.15-00-000646/4. sz. határozata (2001. január 10.)<ujsor/>
-felszámolási eljárás megindításának közzétételérõl<ujsor/>
-A bíróság elrendeli annak a Cégközlönyben való közzétételét, hogy a(z) 2000. december 20. napján jogerõre emelkedett végzésével<ujsor/>
+<mezo id = "szoveg">A Szabolcs-SzatmÃ¡r-Bereg Megyei BÃ­rÃ³sÃ¡g<ujsor/>
+6.Fpk.15-00-000646/4. sz. hatÃ¡rozata (2001. januÃ¡r 10.)<ujsor/>
+felszÃ¡molÃ¡si eljÃ¡rÃ¡s megindÃ­tÃ¡sÃ¡nak kÃ¶zzÃ©tÃ©telÃ©rÅ‘l<ujsor/>
+A bÃ­rÃ³sÃ¡g elrendeli annak a CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©t, hogy a(z) 2000. december 20. napjÃ¡n jogerÅ‘re emelkedett vÃ©gzÃ©sÃ©vel<ujsor/>
 a(z)<ujsor/>
-&quot;SZATMÁRHÚS&quot; Sertéstenyésztõ és Kereskedelmi Korlátolt Felelõsségû Társaság<ujsor/>
-(4700 Mátészalka, Jármi u. 1/a.; cégjegyzékszáma: 15 09 062632; adószáma: 11250962-2-15)<ujsor/>
-adós fizetésképtelenségét megállapította és a felszámolását elrendelte.<ujsor/>
-A bíróság által kijelölt felszámoló:<ujsor/>
-KVANTÁL Gazdasági Tanácsadó és Szolgáltató Kft.,<ujsor/>
-1089 Budapest, Bláthy O. u. 6-8.<ujsor/>
-A felszámolási eljárás megindítására irányuló kérelem benyújtásának<ujsor/>
-idõpontja:<ujsor/>
+&quot;SZATMÃRHÃšS&quot; SertÃ©stenyÃ©sztÅ‘ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g<ujsor/>
+(4700 MÃ¡tÃ©szalka, JÃ¡rmi u. 1/a.; cÃ©gjegyzÃ©kszÃ¡ma: 15 09 062632; adÃ³szÃ¡ma: 11250962-2-15)<ujsor/>
+adÃ³s fizetÃ©skÃ©ptelensÃ©gÃ©t megÃ¡llapÃ­totta Ã©s a felszÃ¡molÃ¡sÃ¡t elrendelte.<ujsor/>
+A bÃ­rÃ³sÃ¡g Ã¡ltal kijelÃ¶lt felszÃ¡molÃ³:<ujsor/>
+KVANTÃL GazdasÃ¡gi TanÃ¡csadÃ³ Ã©s SzolgÃ¡ltatÃ³ Kft.,<ujsor/>
+1089 Budapest, BlÃ¡thy O. u. 6-8.<ujsor/>
+A felszÃ¡molÃ¡si eljÃ¡rÃ¡s megindÃ­tÃ¡sÃ¡ra irÃ¡nyulÃ³ kÃ©relem benyÃºjtÃ¡sÃ¡nak<ujsor/>
+idÅ‘pontja:<ujsor/>
 2000. november 27.<ujsor/>
-A felszámolás kezdõ idõpontja: 2000. december 20.<ujsor/>
-A Szabolcs-Szatmár-Bereg Megyei Bíróság Gazdasági Hivatalánál kezelt elkülönített<ujsor/>
-számla száma:<ujsor/>
+A felszÃ¡molÃ¡s kezdÅ‘ idÅ‘pontja: 2000. december 20.<ujsor/>
+A Szabolcs-SzatmÃ¡r-Bereg Megyei BÃ­rÃ³sÃ¡g GazdasÃ¡gi HivatalÃ¡nÃ¡l kezelt elkÃ¼lÃ¶nÃ­tett<ujsor/>
+szÃ¡mla szÃ¡ma:<ujsor/>
 10044001-01483123-24000004.<ujsor/>
-Mindazok, akik az adóssal szemben fennálló követeléseiket a felszámolás során<ujsor/>
-hitelezõként érvényesíteni kívánják, ismert követeléseiket e végzés <ujsor/>
-közzétételétõl számított 40 napon belül jelentsék be a felszámolónak.<ujsor/>
-A felszámoló - a módosított 1991. évi IL. tv. 57. § (1) bekezdés a) és c)<ujsor/>
-pontjában meghatározott követelések kivételével - csak azt a bejelentést veszi<ujsor/>
-nyilvántartásba, amely után az igénybejelentõ a követelés 1 %-át, de legalább<ujsor/>
-1.000 Ft-ot, legfeljebb 100.000 Ft-ot az e végzésben megjelölt számlára -<ujsor/>
-a bírósági ügyszámra (határozat számra) hivatkozással<ujsor/>
+Mindazok, akik az adÃ³ssal szemben fennÃ¡llÃ³ kÃ¶vetelÃ©seiket a felszÃ¡molÃ¡s sorÃ¡n<ujsor/>
+hitelezÅ‘kÃ©nt Ã©rvÃ©nyesÃ­teni kÃ­vÃ¡njÃ¡k, ismert kÃ¶vetelÃ©seiket e vÃ©gzÃ©s <ujsor/>
+kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott 40 napon belÃ¼l jelentsÃ©k be a felszÃ¡molÃ³nak.<ujsor/>
+A felszÃ¡molÃ³ - a mÃ³dosÃ­tott 1991. Ã©vi IL. tv. 57. Â§ (1) bekezdÃ©s a) Ã©s c)<ujsor/>
+pontjÃ¡ban meghatÃ¡rozott kÃ¶vetelÃ©sek kivÃ©telÃ©vel - csak azt a bejelentÃ©st veszi<ujsor/>
+nyilvÃ¡ntartÃ¡sba, amely utÃ¡n az igÃ©nybejelentÅ‘ a kÃ¶vetelÃ©s 1 %-Ã¡t, de legalÃ¡bb<ujsor/>
+1.000 Ft-ot, legfeljebb 100.000 Ft-ot az e vÃ©gzÃ©sben megjelÃ¶lt szÃ¡mlÃ¡ra -<ujsor/>
+a bÃ­rÃ³sÃ¡gi Ã¼gyszÃ¡mra (hatÃ¡rozat szÃ¡mra) hivatkozÃ¡ssal<ujsor/>
 - 40 napon<ujsor/>
-belül befizetett és ezt a felszámoló részére igazolta.<ujsor/>
-A közzététel idõpontja: 2001. február 22.<ujsor/>
+belÃ¼l befizetett Ã©s ezt a felszÃ¡molÃ³ rÃ©szÃ©re igazolta.<ujsor/>
+A kÃ¶zzÃ©tÃ©tel idÅ‘pontja: 2001. februÃ¡r 22.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1509062632</mezo>
-<mezo id = "nev">&quot;SZATMÁRHÚS&quot; Sertéstenyésztõ és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">4700 Mátészalka, Jármi u. 1/a.</mezo>
+<mezo id = "nev">&quot;SZATMÃRHÃšS&quot; SertÃ©stenyÃ©sztÅ‘ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">4700 MÃ¡tÃ©szalka, JÃ¡rmi u. 1/a.</mezo>
 <mezo id = "adosz">11250962215</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Szabolcs-Szatmár-Bereg Megyei Bíróság<ujsor/>
-6.Fpk.15-00-000646/32. sz. határozata (2001. október 30.)<ujsor/>
-felszámolási eljárás befejezésének közzétételérõl<ujsor/>
-A bíróság elrendeli annak a Cégközlönyben való közzétételét, hogy a(z)<ujsor/>
-&quot;SZATMÁRHÚS&quot; Sertéstenyésztõ és Kereskedelmi Korlátolt Felelõsségû Társaság<ujsor/>
-(4700 Mátészalka, Jármi u. 1/a.; cégjegyzékszáma: 15 09 062632; adószáma: 11250962-2-15)<ujsor/>
-gazdálkodó szervezet elleni felszámolási eljárás a(z)<ujsor/>
+<mezo id = "szoveg">A Szabolcs-SzatmÃ¡r-Bereg Megyei BÃ­rÃ³sÃ¡g<ujsor/>
+6.Fpk.15-00-000646/32. sz. hatÃ¡rozata (2001. oktÃ³ber 30.)<ujsor/>
+felszÃ¡molÃ¡si eljÃ¡rÃ¡s befejezÃ©sÃ©nek kÃ¶zzÃ©tÃ©telÃ©rÅ‘l<ujsor/>
+A bÃ­rÃ³sÃ¡g elrendeli annak a CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©t, hogy a(z)<ujsor/>
+&quot;SZATMÃRHÃšS&quot; SertÃ©stenyÃ©sztÅ‘ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g<ujsor/>
+(4700 MÃ¡tÃ©szalka, JÃ¡rmi u. 1/a.; cÃ©gjegyzÃ©kszÃ¡ma: 15 09 062632; adÃ³szÃ¡ma: 11250962-2-15)<ujsor/>
+gazdÃ¡lkodÃ³ szervezet elleni felszÃ¡molÃ¡si eljÃ¡rÃ¡s a(z)<ujsor/>
 2001. szeptember 25.<ujsor/>
-napján kelt és<ujsor/>
-2001. október 29.<ujsor/>
-napján jogerõre emelkedett határozata alapján - egyezségre való tekintettel - befejezõdött,<ujsor/>
-az adós gazdálkodó szervezet megszüntetése nélkül.<ujsor/>
-A felszámolási<ujsor/>
-eljárás megindítása közzétételének idõpontja:<ujsor/>
-2001. február 22.<ujsor/>
-A közzététel idõpontja: 2001. november 15.<ujsor/>
+napjÃ¡n kelt Ã©s<ujsor/>
+2001. oktÃ³ber 29.<ujsor/>
+napjÃ¡n jogerÅ‘re emelkedett hatÃ¡rozata alapjÃ¡n - egyezsÃ©gre valÃ³ tekintettel - befejezÅ‘dÃ¶tt,<ujsor/>
+az adÃ³s gazdÃ¡lkodÃ³ szervezet megszÃ¼ntetÃ©se nÃ©lkÃ¼l.<ujsor/>
+A felszÃ¡molÃ¡si<ujsor/>
+eljÃ¡rÃ¡s megindÃ­tÃ¡sa kÃ¶zzÃ©tÃ©telÃ©nek idÅ‘pontja:<ujsor/>
+2001. februÃ¡r 22.<ujsor/>
+A kÃ¶zzÃ©tÃ©tel idÅ‘pontja: 2001. november 15.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1509062632</mezo>
-<mezo id = "nev">&quot;SZATMÁRHÚS&quot; Sertéstenyésztõ és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">4700 Mátészalka, Jármi u. 1/a.</mezo>
+<mezo id = "nev">&quot;SZATMÃRHÃšS&quot; SertÃ©stenyÃ©sztÅ‘ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">4700 MÃ¡tÃ©szalka, JÃ¡rmi u. 1/a.</mezo>
 <mezo id = "adosz">11250962215</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A &quot;SZATMÁRHÚS&quot; Sertéstenyésztõ és Kereskedelmi Korlátolt Felelõsségû Társaság (Cg.: [15 09 062632]; székhelye: 4700 Mátészalka, Jármi u. 1/A) tagja, Szilágyi János (a. n.: Puskás Erzsébet), 4700 Mátészalka, Ady E. u. 13. sz. alatti lakos a Gazdasági társaságokról szóló 1997. évi CXLIV. törvény 292. § (1) bekezdésében foglalt kötelezettségének eleget téve bejelenti, hogy a társaságban 2002. október 31-tõl 99,25%-ban tulajdonos, mely mérték a Gt. 291. §-a szerint közvetlen irányítást biztosító befolyást jelent.<ujsor/>
-A Gt. 296. § (2) bekezdésében foglaltak alapján azok a hitelezõk, akiknek a fent jelölt társasággal szemben le nem járt követelései a befolyás közzétételét megelõzõen keletkeztek, jelen hirdetmény közzététele után kilencvennapos jogvesztõ határidõn belül követeléseik erejéig biztosítékot követelhetnek az uralkodó tagtól.<ujsor/>
+<mezo id = "szoveg">A &quot;SZATMÃRHÃšS&quot; SertÃ©stenyÃ©sztÅ‘ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [15 09 062632]; szÃ©khelye: 4700 MÃ¡tÃ©szalka, JÃ¡rmi u. 1/A) tagja, SzilÃ¡gyi JÃ¡nos (a. n.: PuskÃ¡s ErzsÃ©bet), 4700 MÃ¡tÃ©szalka, Ady E. u. 13. sz. alatti lakos a GazdasÃ¡gi tÃ¡rsasÃ¡gokrÃ³l szÃ³lÃ³ 1997. Ã©vi CXLIV. tÃ¶rvÃ©ny 292. Â§ (1) bekezdÃ©sÃ©ben foglalt kÃ¶telezettsÃ©gÃ©nek eleget tÃ©ve bejelenti, hogy a tÃ¡rsasÃ¡gban 2002. oktÃ³ber 31-tÅ‘l 99,25%-ban tulajdonos, mely mÃ©rtÃ©k a Gt. 291. Â§-a szerint kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡st jelent.<ujsor/>
+A Gt. 296. Â§ (2) bekezdÃ©sÃ©ben foglaltak alapjÃ¡n azok a hitelezÅ‘k, akiknek a fent jelÃ¶lt tÃ¡rsasÃ¡ggal szemben le nem jÃ¡rt kÃ¶vetelÃ©sei a befolyÃ¡s kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, jelen hirdetmÃ©ny kÃ¶zzÃ©tÃ©tele utÃ¡n kilencvennapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l kÃ¶vetelÃ©seik erejÃ©ig biztosÃ­tÃ©kot kÃ¶vetelhetnek az uralkodÃ³ tagtÃ³l.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1509062632</mezo>
-<mezo id = "nev">&quot;SZATMÁRHÚS&quot; Sertéstenyésztõ és Kereskedelmi Korlátolt Felelõsségû Társaság &quot;felszámolás alatt&quot;</mezo>
-<mezo id = "cim">4700 Mátészalka, Jármi u. 1/a. </mezo>
+<mezo id = "nev">&quot;SZATMÃRHÃšS&quot; SertÃ©stenyÃ©sztÅ‘ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g &quot;felszÃ¡molÃ¡s alatt&quot;</mezo>
+<mezo id = "cim">4700 MÃ¡tÃ©szalka, JÃ¡rmi u. 1/a. </mezo>
 </alrovat>
 </rovat>
 <rovat id = "99017">

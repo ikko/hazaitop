@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">061972</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">8800 Nagykanizsa, Erzsébet tér 17. </mezo>
+<mezo id = "cim">8800 Nagykanizsa, ErzsÃ©bet tÃ©r 17. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">11349749220</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19941025</mezo>
-<mezo id = "nev">SZEMAFOR-CLEAN Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">SZEMAFOR-CLEAN SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -27,14 +27,14 @@
 <mezo id = "hattol">20000615</mezo>
 <mezo id = "irsz">8800</mezo>
 <mezo id = "hely">Nagykanizsa</mezo>
-<mezo id = "teru">Erzsébet tér 17.</mezo>
+<mezo id = "teru">ErzsÃ©bet tÃ©r 17.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "6">
 <alrovat id = "1">
 <mezo id = "hattol">19941025</mezo>
 <mezo id = "irsz">8900</mezo>
-<mezo id = "hely">Nagykanizsa, Vasútállomás</mezo>
+<mezo id = "hely">Nagykanizsa, VasÃºtÃ¡llomÃ¡s</mezo>
 </alrovat>
 </rovat>
 <rovat id = "8">
@@ -278,7 +278,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090331</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Üdülési, egyéb átmeneti szálláshely-szolgáltatás</mezo>
+<mezo id = "teaszov">ÃœdÃ¼lÃ©si, egyÃ©b Ã¡tmeneti szÃ¡llÃ¡shely-szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "74">
 <mezo id = "hattol">20090210</mezo>
@@ -296,7 +296,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090331</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb szálláshely-szolgáltatás</mezo>
+<mezo id = "teaszov">EgyÃ©b szÃ¡llÃ¡shely-szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "75">
 <mezo id = "hattol">20090210</mezo>
@@ -314,7 +314,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090331</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Rendezvényi étkeztetés</mezo>
+<mezo id = "teaszov">RendezvÃ©nyi Ã©tkeztetÃ©s</mezo>
 </alrovat>
 <alrovat id = "76">
 <mezo id = "hattol">20090210</mezo>
@@ -332,7 +332,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090331</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Ingatlankezelés</mezo>
+<mezo id = "teaszov">IngatlankezelÃ©s</mezo>
 </alrovat>
 <alrovat id = "77">
 <mezo id = "hattol">20090210</mezo>
@@ -350,7 +350,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090331</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Építményüzemeltetés</mezo>
+<mezo id = "teaszov">Ã‰pÃ­tmÃ©nyÃ¼zemeltetÃ©s</mezo>
 </alrovat>
 <alrovat id = "79">
 <mezo id = "hattol">20090210</mezo>
@@ -368,7 +368,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090331</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb épület-, ipari takarítás</mezo>
+<mezo id = "teaszov">EgyÃ©b Ã©pÃ¼let-, ipari takarÃ­tÃ¡s</mezo>
 </alrovat>
 <alrovat id = "80">
 <mezo id = "hattol">20090210</mezo>
@@ -386,13 +386,13 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090331</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb takarítás</mezo>
+<mezo id = "teaszov">EgyÃ©b takarÃ­tÃ¡s</mezo>
 </alrovat>
 <alrovat id = "107">
 <mezo id = "hattol">20110317</mezo>
 <mezo id = "valtk">20110317</mezo>
 <mezo id = "bkelt">20110413</mezo>
-<mezo id = "teaszov">Általános épület takarítás</mezo>
+<mezo id = "teaszov">ÃltalÃ¡nos Ã©pÃ¼let takarÃ­tÃ¡s</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -407,12 +407,12 @@
 <rovat id = "13">
 <alrovat id = "3">
 <mezo id = "hattol">20110317</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Papp Gyõzõné (szül.név: Berkes Mária)</mezo>
-<mezo id = "panev">Henézi Erzsébet</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Papp GyÅ‘zÅ‘nÃ© (szÃ¼l.nÃ©v: Berkes MÃ¡ria)</mezo>
+<mezo id = "panev">HenÃ©zi ErzsÃ©bet</mezo>
 <mezo id = "pirsz">8800</mezo>
 <mezo id = "phely">Nagykanizsa</mezo>
-<mezo id = "pteru">Tavasz utca 23. A. ép.</mezo>
+<mezo id = "pteru">Tavasz utca 23. A. Ã©p.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20110317</mezo>
 <mezo id = "valtk">20110317</mezo>
@@ -434,11 +434,11 @@
 <rovat id = "0109">
 <alrovat id = "9">
 <mezo id = "hattol">20110317</mezo>
-<mezo id = "pnev">Böröcz Zoltán</mezo>
-<mezo id = "panev">Pátri Teréz</mezo>
+<mezo id = "pnev">BÃ¶rÃ¶cz ZoltÃ¡n</mezo>
+<mezo id = "panev">PÃ¡tri TerÃ©z</mezo>
 <mezo id = "pirsz">8800</mezo>
 <mezo id = "phely">Nagykanizsa</mezo>
-<mezo id = "pteru">Garay utca 3. A. ép.</mezo>
+<mezo id = "pteru">Garay utca 3. A. Ã©p.</mezo>
 <mezo id = "tagsk">19980901</mezo>
 <mezo id = "sz1">x</mezo>
 <mezo id = "valtk">20110317</mezo>
@@ -446,11 +446,11 @@
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">20110317</mezo>
-<mezo id = "pnev">Papp Gyõzõné (szülnév: Berkes Mária)</mezo>
-<mezo id = "panev">Henézi Erzsébet</mezo>
+<mezo id = "pnev">Papp GyÅ‘zÅ‘nÃ© (szÃ¼lnÃ©v: Berkes MÃ¡ria)</mezo>
+<mezo id = "panev">HenÃ©zi ErzsÃ©bet</mezo>
 <mezo id = "pirsz">8800</mezo>
 <mezo id = "phely">Nagykanizsa</mezo>
-<mezo id = "pteru">Tavasz utca 23. A. ép.</mezo>
+<mezo id = "pteru">Tavasz utca 23. A. Ã©p.</mezo>
 <mezo id = "tagsk">19980901</mezo>
 <mezo id = "valtk">20110317</mezo>
 <mezo id = "bkelt">20110413</mezo>

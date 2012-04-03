@@ -5,7 +5,7 @@
 <mezo id = "cf">10</mezo>
 <mezo id = "szam">060324</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">7800 Siklós, Sziklai utca 7. </mezo>
+<mezo id = "cim">7800 SiklÃ³s, Sziklai utca 7. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">13842516202</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20061201</mezo>
-<mezo id = "nev">BERN Építõ Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">BERN Ã‰pÃ­tÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -30,7 +30,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20061201</mezo>
 <mezo id = "irsz">7800</mezo>
-<mezo id = "hely">Siklós</mezo>
+<mezo id = "hely">SiklÃ³s</mezo>
 <mezo id = "teru">Sziklai utca 7.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">0</mezo>
@@ -41,7 +41,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20080909</mezo>
 <mezo id = "irsz">7800</mezo>
-<mezo id = "hely">Siklós, külterület 015/19.</mezo>
+<mezo id = "hely">SiklÃ³s, kÃ¼lterÃ¼let 015/19.</mezo>
 <mezo id = "valtk">20080909</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20081001</mezo>
@@ -52,7 +52,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20061201</mezo>
 <mezo id = "irsz">7815</mezo>
-<mezo id = "hely">Harkány, Kossuth Lajos utca 61-63.</mezo>
+<mezo id = "hely">HarkÃ¡ny, Kossuth Lajos utca 61-63.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
@@ -60,7 +60,7 @@
 <alrovat id = "2">
 <mezo id = "hattol">20090211</mezo>
 <mezo id = "irsz">7838</mezo>
-<mezo id = "hely">Vajszló, Kossuth L. utca 13.</mezo>
+<mezo id = "hely">VajszlÃ³, Kossuth L. utca 13.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20090211</mezo>
 <mezo id = "valtv">0</mezo>
@@ -1562,10 +1562,10 @@
 <rovat id = "13">
 <alrovat id = "1">
 <mezo id = "hattol">20061201</mezo>
-<mezo id = "pnev">Bernáth László</mezo>
-<mezo id = "panev">Oszlár Erzsébet</mezo>
+<mezo id = "pnev">BernÃ¡th LÃ¡szlÃ³</mezo>
+<mezo id = "panev">OszlÃ¡r ErzsÃ©bet</mezo>
 <mezo id = "pirsz">7800</mezo>
-<mezo id = "phely">Siklós, Sziklai utca 7.</mezo>
+<mezo id = "phely">SiklÃ³s, Sziklai utca 7.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">c</mezo>
 <mezo id = "jogvk">20061010</mezo>
@@ -1574,10 +1574,10 @@
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20061201</mezo>
-<mezo id = "pnev">Bernáth László</mezo>
+<mezo id = "pnev">BernÃ¡th LÃ¡szlÃ³</mezo>
 <mezo id = "panev">Szentesi Ilona</mezo>
 <mezo id = "pirsz">7815</mezo>
-<mezo id = "phely">Harkány, Kossuth Lajos utca 61-63. 1/6.</mezo>
+<mezo id = "phely">HarkÃ¡ny, Kossuth Lajos utca 61-63. 1/6.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">c</mezo>
 <mezo id = "jogvk">20061010</mezo>
@@ -1586,10 +1586,10 @@
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20080909</mezo>
-<mezo id = "pnev">Bernáth Lászlóné</mezo>
+<mezo id = "pnev">BernÃ¡th LÃ¡szlÃ³nÃ©</mezo>
 <mezo id = "panev">Kurucz Julianna</mezo>
 <mezo id = "pirsz">7800</mezo>
-<mezo id = "phely">Siklós, Sziklai utca 7.</mezo>
+<mezo id = "phely">SiklÃ³s, Sziklai utca 7.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">c</mezo>
 <mezo id = "jogvk">20080909</mezo>
@@ -1603,16 +1603,16 @@
 <alrovat id = "1">
 <mezo id = "hattol">20061201</mezo>
 <mezo id = "cgjsz">109726242</mezo>
-<mezo id = "nev">AD-MÛ Könyvvizsgáló és Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">AD-MÅ° KÃ¶nyvvizsgÃ¡lÃ³ Ã©s TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1092</mezo>
-<mezo id = "hely">Budapest 09. kerület</mezo>
-<mezo id = "teru">Ferenc körút</mezo>
+<mezo id = "hely">Budapest 09. kerÃ¼let</mezo>
+<mezo id = "teru">Ferenc kÃ¶rÃºt</mezo>
 <mezo id = "hsz">2-4.</mezo>
-<mezo id = "pnev">Orbán Irén</mezo>
-<mezo id = "panev">Székely Anna</mezo>
+<mezo id = "pnev">OrbÃ¡n IrÃ©n</mezo>
+<mezo id = "panev">SzÃ©kely Anna</mezo>
 <mezo id = "pirsz">2481</mezo>
-<mezo id = "phely">Velence, Tulipán utca 35/B.</mezo>
+<mezo id = "phely">Velence, TulipÃ¡n utca 35/B.</mezo>
 <mezo id = "jogvk">20061010</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
@@ -1622,13 +1622,13 @@
 <alrovat id = "1">
 <mezo id = "hattol">20061201</mezo>
 <mezo id = "cgjsz">209069414</mezo>
-<mezo id = "nev">BERN Építõ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">BERN Ã‰pÃ­tÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "atdat">20070101</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20061201</mezo>
 <mezo id = "cgjsz">209061678</mezo>
-<mezo id = "nev">&quot;MÉLY-VÍZ&quot; Építõ és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">&quot;MÃ‰LY-VÃZ&quot; Ã‰pÃ­tÅ‘ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "atdat">20070101</mezo>
 </alrovat>
 </rovat>
@@ -1651,10 +1651,10 @@
 <rovat id = "0110">
 <alrovat id = "1">
 <mezo id = "hattol">20061201</mezo>
-<mezo id = "pnev">Bernáth László</mezo>
-<mezo id = "panev">Oszlár Erzsébet</mezo>
+<mezo id = "pnev">BernÃ¡th LÃ¡szlÃ³</mezo>
+<mezo id = "panev">OszlÃ¡r ErzsÃ©bet</mezo>
 <mezo id = "pirsz">7800</mezo>
-<mezo id = "phely">Siklós, Sziklai utca 7.</mezo>
+<mezo id = "phely">SiklÃ³s, Sziklai utca 7.</mezo>
 <mezo id = "tagsk">20061010</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">0</mezo>
@@ -1662,10 +1662,10 @@
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20061201</mezo>
-<mezo id = "pnev">Bernáth Lászlóné</mezo>
+<mezo id = "pnev">BernÃ¡th LÃ¡szlÃ³nÃ©</mezo>
 <mezo id = "panev">Kurucz Julianna</mezo>
 <mezo id = "pirsz">7800</mezo>
-<mezo id = "phely">Siklós, Sziklai utca 7.</mezo>
+<mezo id = "phely">SiklÃ³s, Sziklai utca 7.</mezo>
 <mezo id = "tagsk">20061010</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">0</mezo>
@@ -1673,10 +1673,10 @@
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20061201</mezo>
-<mezo id = "pnev">Bernáth László</mezo>
+<mezo id = "pnev">BernÃ¡th LÃ¡szlÃ³</mezo>
 <mezo id = "panev">Szentesi Ilona</mezo>
 <mezo id = "pirsz">7815</mezo>
-<mezo id = "phely">Harkány, Kossuth Lajos utca 61-63. 1/6.</mezo>
+<mezo id = "phely">HarkÃ¡ny, Kossuth Lajos utca 61-63. 1/6.</mezo>
 <mezo id = "tagsk">20061010</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">0</mezo>

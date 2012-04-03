@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">363281</mezo>
 <mezo id = "nevalrovat">5</mezo>
-<mezo id = "cim">1183 Budapest, Tóth Árpád utca 1. B. ép. </mezo>
+<mezo id = "cim">1183 Budapest, TÃ³th ÃrpÃ¡d utca 1. B. Ã©p. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">10955743243</mezo>
 </alrovat>
@@ -29,7 +29,7 @@
 <mezo id = "hattol">20050801</mezo>
 <mezo id = "irsz">1183</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Tóth Árpád utca 1. B. ép.</mezo>
+<mezo id = "teru">TÃ³th ÃrpÃ¡d utca 1. B. Ã©p.</mezo>
 <mezo id = "kirsz">0</mezo>
 </alrovat>
 </rovat>
@@ -1153,18 +1153,18 @@
 <rovat id = "13">
 <alrovat id = "30">
 <mezo id = "hattol">20110912</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "pnev">Thomas Smolne</mezo>
 <mezo id = "panev">Gudrun Karl</mezo>
 <mezo id = "pkorsz">DE</mezo>
 <mezo id = "pkirsz">77963</mezo>
 <mezo id = "pkhely">Schwanau</mezo>
-<mezo id = "pkteru">Mühlenstrasse 39.</mezo>
-<mezo id = "pmnev">Wagner Róbert</mezo>
+<mezo id = "pkteru">MÃ¼hlenstrasse 39.</mezo>
+<mezo id = "pmnev">Wagner RÃ³bert</mezo>
 <mezo id = "pmanev">Simon Judit</mezo>
 <mezo id = "pmirsz">2030</mezo>
-<mezo id = "pmhely">Érd</mezo>
-<mezo id = "pmteru">Festõ utca 20/B.</mezo>
+<mezo id = "pmhely">Ã‰rd</mezo>
+<mezo id = "pmteru">FestÅ‘ utca 20/B.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20070701</mezo>
 <mezo id = "valtk">20110912</mezo>
@@ -1173,18 +1173,18 @@
 </alrovat>
 <alrovat id = "31">
 <mezo id = "hattol">20110912</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "pnev">Matthias Siegel</mezo>
 <mezo id = "panev">Frieda Gretz</mezo>
 <mezo id = "pkorsz">DE</mezo>
 <mezo id = "pkirsz">76473</mezo>
 <mezo id = "pkhely">Iffezheim</mezo>
-<mezo id = "pkteru">Oertbühlring 20. B. ép.</mezo>
-<mezo id = "pmnev">Wagner Róbert</mezo>
+<mezo id = "pkteru">OertbÃ¼hlring 20. B. Ã©p.</mezo>
+<mezo id = "pmnev">Wagner RÃ³bert</mezo>
 <mezo id = "pmanev">Simon Judit</mezo>
 <mezo id = "pmirsz">2030</mezo>
-<mezo id = "pmhely">Érd</mezo>
-<mezo id = "pmteru">Festõ utca 20/B.</mezo>
+<mezo id = "pmhely">Ã‰rd</mezo>
+<mezo id = "pmteru">FestÅ‘ utca 20/B.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100312</mezo>
 <mezo id = "jogvv">20130312</mezo>
@@ -1197,16 +1197,16 @@
 <alrovat id = "8">
 <mezo id = "hattol">20110912</mezo>
 <mezo id = "cgjsz">0109079430</mezo>
-<mezo id = "nev">RÖDL &amp; PARTNER KÖNYVVIZSGÁLÓ ÉS ADÓTANÁCSADÓ KORLÁTOLT FELELÕSSÉGÛ TÁRSASÁG</mezo>
+<mezo id = "nev">RÃ–DL &amp; PARTNER KÃ–NYVVIZSGÃLÃ“ Ã‰S ADÃ“TANÃCSADÃ“ KORLÃTOLT FELELÅSSÃ‰GÅ° TÃRSASÃG</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1062</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Andrássy út 121.</mezo>
+<mezo id = "teru">AndrÃ¡ssy Ãºt 121.</mezo>
 <mezo id = "pnev">Hohner Judit</mezo>
-<mezo id = "panev">Varga Mária</mezo>
+<mezo id = "panev">Varga MÃ¡ria</mezo>
 <mezo id = "pirsz">1148</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Nagy Lajos Király útja 94/A.</mezo>
+<mezo id = "pteru">Nagy Lajos KirÃ¡ly Ãºtja 94/A.</mezo>
 <mezo id = "jogvk">20111001</mezo>
 <mezo id = "jogvv">20120531</mezo>
 <mezo id = "valtk">20110912</mezo>
@@ -1224,7 +1224,7 @@
 <mezo id = "adosz">10955743243</mezo>
 <mezo id = "kadosz">HU10955743</mezo>
 <mezo id = "bkelt">20111011</mezo>
-<mezo id = "megj">Státusz kezdete: 1994/06/30</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 1994/06/30</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0109">
@@ -1235,11 +1235,11 @@
 <mezo id = "irsz">76316</mezo>
 <mezo id = "hely">Malsch</mezo>
 <mezo id = "teru">Stephanstrasse 4-8.</mezo>
-<mezo id = "pmnev">Wagner Róbert</mezo>
+<mezo id = "pmnev">Wagner RÃ³bert</mezo>
 <mezo id = "pmanev">Simon Judit</mezo>
 <mezo id = "pmirsz">2030</mezo>
-<mezo id = "pmhely">Érd</mezo>
-<mezo id = "pmteru">Festõ utca 20/B.</mezo>
+<mezo id = "pmhely">Ã‰rd</mezo>
+<mezo id = "pmteru">FestÅ‘ utca 20/B.</mezo>
 <mezo id = "tagsk">20030903</mezo>
 <mezo id = "valtk">20110912</mezo>
 <mezo id = "knyh">Amtsgericht Mannheim</mezo>
@@ -1255,30 +1255,30 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A CTDI Nethouse Services GmbH (Németországban, a karlsruhei cégnyilvántartásban HRB 2406 E számon nyilvántartott gazdasági társaság; székhelye: Stephan Str. 4-8, 76316-Malsch, Németország; képviselõi: Dieter Hollenbach és dr. Peter Erdmann ügyvezetõk) bejelenti, hogy a DeTeLine Budapest Deutsche Telekom Távközlési Hálózatok Korlátolt Felelõsségû Társaságban (cégjegyzékszáma: [01 09 363281]; székhelye: 1033 Budapest, Kórház u. 6-12.) - a 2003. október 1-jén kelt üzletrész-átruházás folytán - közvetlen irányítást biztosító befolyást szerzett, mivel a szavazatok 100%-ával rendelkezik.<ujsor/>
-A hitelezõk a Gt. 296. § (2) bekezdésében foglalt jogaikat gyakorolhatják.<ujsor/>
+<mezo id = "szoveg">A CTDI Nethouse Services GmbH (NÃ©metorszÃ¡gban, a karlsruhei cÃ©gnyilvÃ¡ntartÃ¡sban HRB 2406 E szÃ¡mon nyilvÃ¡ntartott gazdasÃ¡gi tÃ¡rsasÃ¡g; szÃ©khelye: Stephan Str. 4-8, 76316-Malsch, NÃ©metorszÃ¡g; kÃ©pviselÅ‘i: Dieter Hollenbach Ã©s dr. Peter Erdmann Ã¼gyvezetÅ‘k) bejelenti, hogy a DeTeLine Budapest Deutsche Telekom TÃ¡vkÃ¶zlÃ©si HÃ¡lÃ³zatok KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gban (cÃ©gjegyzÃ©kszÃ¡ma: [01 09 363281]; szÃ©khelye: 1033 Budapest, KÃ³rhÃ¡z u. 6-12.) - a 2003. oktÃ³ber 1-jÃ©n kelt Ã¼zletrÃ©sz-Ã¡truhÃ¡zÃ¡s folytÃ¡n - kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡st szerzett, mivel a szavazatok 100%-Ã¡val rendelkezik.<ujsor/>
+A hitelezÅ‘k a Gt. 296. Â§ (2) bekezdÃ©sÃ©ben foglalt jogaikat gyakorolhatjÃ¡k.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109363281</mezo>
-<mezo id = "nev">DeTeLine Budapest Deutsche Telekom Távközlési Hálózatok Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1033 Budapest, Kórház u. 6-12. </mezo>
+<mezo id = "nev">DeTeLine Budapest Deutsche Telekom TÃ¡vkÃ¶zlÃ©si HÃ¡lÃ³zatok KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1033 Budapest, KÃ³rhÃ¡z u. 6-12. </mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2003. 12. 01-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2003. 12. 01-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
 03. CTDI Kft.<ujsor/>
- Törölve: 2003. 12. 01-i hatállyal.<ujsor/>
+ TÃ¶rÃ¶lve: 2003. 12. 01-i hatÃ¡llyal.<ujsor/>
  CTDI Nethouse Services Kft.<ujsor/>
- Hatályos: 2003. 12. 01-tõl.<ujsor/>
-09. 3220&apos;03 Ipari híradástechnikai termék gyártása.<ujsor/>
- Törölve: 2003. 12. 01-i hatállyal.<ujsor/>
- 3320&apos;03 Mérõmûszer gyártása.<ujsor/>
- Hatályos: 2003. 12. 01-tõl.<ujsor/>
+ HatÃ¡lyos: 2003. 12. 01-tÅ‘l.<ujsor/>
+09. 3220&apos;03 Ipari hÃ­radÃ¡stechnikai termÃ©k gyÃ¡rtÃ¡sa.<ujsor/>
+ TÃ¶rÃ¶lve: 2003. 12. 01-i hatÃ¡llyal.<ujsor/>
+ 3320&apos;03 MÃ©rÅ‘mÅ±szer gyÃ¡rtÃ¡sa.<ujsor/>
+ HatÃ¡lyos: 2003. 12. 01-tÅ‘l.<ujsor/>
 Bejegyezve: 2003. 12. 11.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109363281</mezo>
-<mezo id = "nev">CTDI Nethouse Services Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1155 Budapest, Mézeskalács tér 18.</mezo>
+<mezo id = "nev">CTDI Nethouse Services SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1155 Budapest, MÃ©zeskalÃ¡cs tÃ©r 18.</mezo>
 <mezo id = "adosz">10955743242</mezo>
 </alrovat>
 </rovat>

@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">884255</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">1222 Budapest, Nagytétényi út 112. </mezo>
+<mezo id = "cim">1222 Budapest, NagytÃ©tÃ©nyi Ãºt 112. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">14004643243</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20070815</mezo>
-<mezo id = "nev">VEKTOR Munkavédelmi, Mûszaki Fejlesztõ és Gyártó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">VEKTOR MunkavÃ©delmi, MÅ±szaki FejlesztÅ‘ Ã©s GyÃ¡rtÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -21,7 +21,7 @@
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">20100125</mezo>
-<mezo id = "nev">VEKTOR Munkavédelmi Kft.</mezo>
+<mezo id = "nev">VEKTOR MunkavÃ©delmi Kft.</mezo>
 <mezo id = "valtk">20100125</mezo>
 <mezo id = "bkelt">20100215</mezo>
 </alrovat>
@@ -31,7 +31,7 @@
 <mezo id = "hattol">20100601</mezo>
 <mezo id = "irsz">1222</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Nagytétényi út 112.</mezo>
+<mezo id = "teru">NagytÃ©tÃ©nyi Ãºt 112.</mezo>
 <mezo id = "valtk">20100601</mezo>
 <mezo id = "bkelt">20100609</mezo>
 </alrovat>
@@ -48,7 +48,7 @@
 <mezo id = "hattol">20100601</mezo>
 <mezo id = "irsz">1095</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Soroksári út 164.</mezo>
+<mezo id = "teru">SoroksÃ¡ri Ãºt 164.</mezo>
 <mezo id = "valtk">20100601</mezo>
 <mezo id = "bkelt">20100706</mezo>
 </alrovat>
@@ -58,7 +58,7 @@
 <mezo id = "hattol">20090415</mezo>
 <mezo id = "irsz">6753</mezo>
 <mezo id = "hely">Szeged</mezo>
-<mezo id = "teru">Honfoglalás u. 71., 17004.</mezo>
+<mezo id = "teru">HonfoglalÃ¡s u. 71., 17004.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20090415</mezo>
 <mezo id = "bkelt">20090617</mezo>
@@ -1184,49 +1184,49 @@
 <mezo id = "hattol">20100610</mezo>
 <mezo id = "valtk">20100610</mezo>
 <mezo id = "bkelt">20100901</mezo>
-<mezo id = "teaszov">Raktározás, tárolás</mezo>
+<mezo id = "teaszov">RaktÃ¡rozÃ¡s, tÃ¡rolÃ¡s</mezo>
 </alrovat>
 <alrovat id = "142">
 <mezo id = "hattol">20100610</mezo>
 <mezo id = "valtk">20100610</mezo>
 <mezo id = "bkelt">20100901</mezo>
-<mezo id = "teaszov">Szárazföldi szállítást kiegészítõ szolgáltatás</mezo>
+<mezo id = "teaszov">SzÃ¡razfÃ¶ldi szÃ¡llÃ­tÃ¡st kiegÃ©szÃ­tÅ‘ szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "143">
 <mezo id = "hattol">20100610</mezo>
 <mezo id = "valtk">20100610</mezo>
 <mezo id = "bkelt">20100901</mezo>
-<mezo id = "teaszov">Rakománykezelés</mezo>
+<mezo id = "teaszov">RakomÃ¡nykezelÃ©s</mezo>
 </alrovat>
 <alrovat id = "144">
 <mezo id = "hattol">20100610</mezo>
 <mezo id = "valtk">20100610</mezo>
 <mezo id = "bkelt">20100901</mezo>
-<mezo id = "teaszov">Egyéb szállítást kiegészítõ szolgáltatás</mezo>
+<mezo id = "teaszov">EgyÃ©b szÃ¡llÃ­tÃ¡st kiegÃ©szÃ­tÅ‘ szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "145">
 <mezo id = "hattol">20100610</mezo>
 <mezo id = "valtk">20100610</mezo>
 <mezo id = "bkelt">20100901</mezo>
-<mezo id = "teaszov">Saját tulajdonú, bérelt ingatlan bérbeadása, üzemeltetése</mezo>
+<mezo id = "teaszov">SajÃ¡t tulajdonÃº, bÃ©relt ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se</mezo>
 </alrovat>
 <alrovat id = "146">
 <mezo id = "hattol">20100610</mezo>
 <mezo id = "valtk">20100610</mezo>
 <mezo id = "bkelt">20100901</mezo>
-<mezo id = "teaszov">Üzletviteli, egyéb vezetési tanácsadás</mezo>
+<mezo id = "teaszov">Ãœzletviteli, egyÃ©b vezetÃ©si tanÃ¡csadÃ¡s</mezo>
 </alrovat>
 <alrovat id = "147">
 <mezo id = "hattol">20100610</mezo>
 <mezo id = "valtk">20100610</mezo>
 <mezo id = "bkelt">20100901</mezo>
-<mezo id = "teaszov">Fénymásolás, egyéb irodai szolgáltatás</mezo>
+<mezo id = "teaszov">FÃ©nymÃ¡solÃ¡s, egyÃ©b irodai szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "148">
 <mezo id = "hattol">20100610</mezo>
 <mezo id = "valtk">20100610</mezo>
 <mezo id = "bkelt">20100901</mezo>
-<mezo id = "teaszov">Csomagolás</mezo>
+<mezo id = "teaszov">CsomagolÃ¡s</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -1243,9 +1243,9 @@
 <rovat id = "13">
 <alrovat id = "12">
 <mezo id = "hattol">20100125</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Walter Elvira</mezo>
-<mezo id = "panev">Mederna Mária</mezo>
+<mezo id = "panev">Mederna MÃ¡ria</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20070926</mezo>
 <mezo id = "valtk">20100125</mezo>
@@ -1254,9 +1254,9 @@
 </alrovat>
 <alrovat id = "13">
 <mezo id = "hattol">20100125</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Kis Sándorné sz. Vass Magdolna</mezo>
-<mezo id = "panev">Birta Márta</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Kis SÃ¡ndornÃ© sz. Vass Magdolna</mezo>
+<mezo id = "panev">Birta MÃ¡rta</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20070926</mezo>
 <mezo id = "valtk">20100125</mezo>
@@ -1265,7 +1265,7 @@
 </alrovat>
 <alrovat id = "16">
 <mezo id = "hattol">20100125</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Suhajda Szilvia</mezo>
 <mezo id = "panev">Farkas Etelka</mezo>
 <mezo id = "kepve">x</mezo>
@@ -1276,12 +1276,12 @@
 </alrovat>
 <alrovat id = "18">
 <mezo id = "hattol">20110201</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Sipos Zoltánné</mezo>
-<mezo id = "panev">Paluska Márta</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Sipos ZoltÃ¡nnÃ©</mezo>
+<mezo id = "panev">Paluska MÃ¡rta</mezo>
 <mezo id = "pirsz">1161</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Béla utca 28.</mezo>
+<mezo id = "pteru">BÃ©la utca 28.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20110201</mezo>
 <mezo id = "valtk">20110201</mezo>
@@ -1290,9 +1290,9 @@
 </alrovat>
 <alrovat id = "19">
 <mezo id = "hattol">20110201</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Kálnay Krisztina</mezo>
-<mezo id = "panev">Szabó Irén Éva</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">KÃ¡lnay Krisztina</mezo>
+<mezo id = "panev">SzabÃ³ IrÃ©n Ã‰va</mezo>
 <mezo id = "pirsz">1161</mezo>
 <mezo id = "phely">Budapest</mezo>
 <mezo id = "pteru">Kossuth L utca 74.</mezo>
@@ -1304,13 +1304,13 @@
 </alrovat>
 <alrovat id = "20">
 <mezo id = "hattol">20110401</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "pnev">Albert Gilyaev</mezo>
 <mezo id = "panev">Raisa Sitdikova</mezo>
 <mezo id = "pkorsz">RU</mezo>
 <mezo id = "pkirsz">111024</mezo>
 <mezo id = "pkhely">Moszkva</mezo>
-<mezo id = "pkteru">Sosé Entuziastov Nr.22/18-13.</mezo>
+<mezo id = "pkteru">SosÃ© Entuziastov Nr.22/18-13.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20110401</mezo>
 <mezo id = "valtk">20110401</mezo>
@@ -1319,12 +1319,12 @@
 </alrovat>
 <alrovat id = "21">
 <mezo id = "hattol">20110401</mezo>
-<mezo id = "tiszt">cégvezetõ</mezo>
-<mezo id = "pnev">Csibi Éva</mezo>
-<mezo id = "panev">Nagy Mária</mezo>
+<mezo id = "tiszt">cÃ©gvezetÅ‘</mezo>
+<mezo id = "pnev">Csibi Ã‰va</mezo>
+<mezo id = "panev">Nagy MÃ¡ria</mezo>
 <mezo id = "pirsz">2800</mezo>
-<mezo id = "phely">Tatabánya</mezo>
-<mezo id = "pteru">Petõfi utca 1.</mezo>
+<mezo id = "phely">TatabÃ¡nya</mezo>
+<mezo id = "pteru">PetÅ‘fi utca 1.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20110401</mezo>
 <mezo id = "valtk">20110401</mezo>
@@ -1333,9 +1333,9 @@
 </alrovat>
 <alrovat id = "22">
 <mezo id = "hattol">20110401</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Kérdõ Sarolta</mezo>
-<mezo id = "panev">Takács Ida</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">KÃ©rdÅ‘ Sarolta</mezo>
+<mezo id = "panev">TakÃ¡cs Ida</mezo>
 <mezo id = "pirsz">8172</mezo>
 <mezo id = "phely">Balatonakarattya</mezo>
 <mezo id = "pteru">Orgona utca 65.</mezo>
@@ -1347,11 +1347,11 @@
 </alrovat>
 <alrovat id = "23">
 <mezo id = "hattol">20110408</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Balogné Markovics - Horváth Beáta Margit</mezo>
-<mezo id = "panev">Junászka Margit</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">BalognÃ© Markovics - HorvÃ¡th BeÃ¡ta Margit</mezo>
+<mezo id = "panev">JunÃ¡szka Margit</mezo>
 <mezo id = "pirsz">6800</mezo>
-<mezo id = "phely">Hódmezõvásárhely</mezo>
+<mezo id = "phely">HÃ³dmezÅ‘vÃ¡sÃ¡rhely</mezo>
 <mezo id = "pteru">Szent Antal utca 13. I. em. 2.a.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20110408</mezo>
@@ -1364,16 +1364,16 @@
 <alrovat id = "2">
 <mezo id = "hattol">20110601</mezo>
 <mezo id = "cgjsz">0109267553</mezo>
-<mezo id = "nev">Ernst &amp; Young Könyvvizsgáló Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Ernst &amp; Young KÃ¶nyvvizsgÃ¡lÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1132</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Váci út 20.</mezo>
-<mezo id = "pnev">Szabó Gergely</mezo>
+<mezo id = "teru">VÃ¡ci Ãºt 20.</mezo>
+<mezo id = "pnev">SzabÃ³ Gergely</mezo>
 <mezo id = "panev">Kiss Zsuzsanna</mezo>
 <mezo id = "pirsz">1202</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Mézes utca 35.</mezo>
+<mezo id = "pteru">MÃ©zes utca 35.</mezo>
 <mezo id = "jogvk">20110601</mezo>
 <mezo id = "jogvv">20120531</mezo>
 <mezo id = "valtk">20110601</mezo>
@@ -1384,7 +1384,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20070815</mezo>
 <mezo id = "cgjsz">102051585</mezo>
-<mezo id = "nev">VEKTOR Munkavédelmi, Müszaki Fejlesztõ és Gyártó Szövetkezet</mezo>
+<mezo id = "nev">VEKTOR MunkavÃ©delmi, MÃ¼szaki FejlesztÅ‘ Ã©s GyÃ¡rtÃ³ SzÃ¶vetkezet</mezo>
 <mezo id = "atdat">0</mezo>
 </alrovat>
 </rovat>
@@ -1399,7 +1399,7 @@
 <mezo id = "adosz">14004643243</mezo>
 <mezo id = "kadosz">HU14004643</mezo>
 <mezo id = "bkelt">20110715</mezo>
-<mezo id = "megj">Státusz kezdete: 2007/07/19</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 2007/07/19</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0109">
@@ -1411,11 +1411,11 @@
 <mezo id = "hely">Praha 5 - Zlicin</mezo>
 <mezo id = "teru">Na Radosti</mezo>
 <mezo id = "hsz">419.</mezo>
-<mezo id = "pcnev">Bnt Consulting Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "pcnev">Bnt Consulting SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "pcanev">109715676</mezo>
 <mezo id = "pcirsz">1074</mezo>
 <mezo id = "pchely">Budapest</mezo>
-<mezo id = "pcteru">Rákóczi</mezo>
+<mezo id = "pcteru">RÃ¡kÃ³czi</mezo>
 <mezo id = "pchsz">70-72.</mezo>
 <mezo id = "pckirsz">0</mezo>
 <mezo id = "tagsk">20080904</mezo>
@@ -1433,62 +1433,62 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2008. 12. 08-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-2(09). Az üzletrész tulajdonosának (zálogkötelezett)<ujsor/>
-adatait tartalmazó rovat száma: 1/6.<ujsor/>
- A zálogjogosult adatai:<ujsor/>
- Külföldi cég, szervezet nyilvántartási száma: 132781<ujsor/>
-Külföldi cég, szervezet nyilvántartó hatósága: Register of Companies in the Republic of Irelend<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2008. 12. 08-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+2(09). Az Ã¼zletrÃ©sz tulajdonosÃ¡nak (zÃ¡logkÃ¶telezett)<ujsor/>
+adatait tartalmazÃ³ rovat szÃ¡ma: 1/6.<ujsor/>
+ A zÃ¡logjogosult adatai:<ujsor/>
+ KÃ¼lfÃ¶ldi cÃ©g, szervezet nyilvÃ¡ntartÃ¡si szÃ¡ma: 132781<ujsor/>
+KÃ¼lfÃ¶ldi cÃ©g, szervezet nyilvÃ¡ntartÃ³ hatÃ³sÃ¡ga: Register of Companies in the Republic of Irelend<ujsor/>
 Citibak Europe plc.<ujsor/>
 IE D1 Dublin, North Wall Quay 1.<ujsor/>
- A változás idõpontja: 2008. 10. 15.<ujsor/>
- A változás idõpontja (törlés): 2008. 10. 15.<ujsor/>
- Törölve: 2008. 10. 15.<ujsor/>
- Az üzletrész tulajdonosának (zálogkötelezett)<ujsor/>
-adatait tartalmazó rovat száma: 1/6.<ujsor/>
- A zálogjogosult adatai:<ujsor/>
- Külföldi cég, szervezet nyilvántartási száma: 132781<ujsor/>
-Külföldi cég, szervezet nyilvántartó hatósága: Register of Companies in the Republic of Ireland<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 10. 15.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2008. 10. 15.<ujsor/>
+ TÃ¶rÃ¶lve: 2008. 10. 15.<ujsor/>
+ Az Ã¼zletrÃ©sz tulajdonosÃ¡nak (zÃ¡logkÃ¶telezett)<ujsor/>
+adatait tartalmazÃ³ rovat szÃ¡ma: 1/6.<ujsor/>
+ A zÃ¡logjogosult adatai:<ujsor/>
+ KÃ¼lfÃ¶ldi cÃ©g, szervezet nyilvÃ¡ntartÃ¡si szÃ¡ma: 132781<ujsor/>
+KÃ¼lfÃ¶ldi cÃ©g, szervezet nyilvÃ¡ntartÃ³ hatÃ³sÃ¡ga: Register of Companies in the Republic of Ireland<ujsor/>
 Citibank Europe plc.<ujsor/>
 IE D1 Dublin, North Wall Quay 1.<ujsor/>
- A változás idõpontja: 2008. 10. 15.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 10. 15.<ujsor/>
  Bejegyezve: 2008. 10. 15.<ujsor/>
 2009. 01. 05.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109884255</mezo>
-<mezo id = "nev">VEKTOR Munkavédelmi, Mûszaki Fejlesztõ és Gyártó Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1095 Budapest, Soroksári út 164.</mezo>
+<mezo id = "nev">VEKTOR MunkavÃ©delmi, MÅ±szaki FejlesztÅ‘ Ã©s GyÃ¡rtÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1095 Budapest, SoroksÃ¡ri Ãºt 164.</mezo>
 <mezo id = "adosz">14004643243</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2008. 11. 20-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-2(09). Az üzletrész tulajdonosának (zálogkötelezett)<ujsor/>
-adatait tartalmazó rovat száma: 1/6.<ujsor/>
- A zálogjogosult adatai:<ujsor/>
- Külföldi cég, szervezet nyilvántartási száma: 132781<ujsor/>
-Külföldi cég, szervezet nyilvántartó hatósága: Register of Companies in the Republic of Ireland<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2008. 11. 20-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+2(09). Az Ã¼zletrÃ©sz tulajdonosÃ¡nak (zÃ¡logkÃ¶telezett)<ujsor/>
+adatait tartalmazÃ³ rovat szÃ¡ma: 1/6.<ujsor/>
+ A zÃ¡logjogosult adatai:<ujsor/>
+ KÃ¼lfÃ¶ldi cÃ©g, szervezet nyilvÃ¡ntartÃ¡si szÃ¡ma: 132781<ujsor/>
+KÃ¼lfÃ¶ldi cÃ©g, szervezet nyilvÃ¡ntartÃ³ hatÃ³sÃ¡ga: Register of Companies in the Republic of Ireland<ujsor/>
 CERVA EXPORT IMPORT a. s.<ujsor/>
 IE 1 Dublin, North Wall Quay 1<ujsor/>
- A változás idõpontja: 2008. 10. 15.<ujsor/>
- A változás idõpontja (törlés): 2008. 10. 15.<ujsor/>
- Törölve: 2008. 10. 15.<ujsor/>
- Az üzletrész tulajdonosának (zálogkötelezett)<ujsor/>
-adatait tartalmazó rovat száma: 1/6.<ujsor/>
- A zálogjogosult adatai:<ujsor/>
- Külföldi cég, szervezet nyilvántartási száma: 132781<ujsor/>
-Külföldi cég, szervezet nyilvántartó hatósága: Register of Companies in the Republic of Irelend<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 10. 15.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2008. 10. 15.<ujsor/>
+ TÃ¶rÃ¶lve: 2008. 10. 15.<ujsor/>
+ Az Ã¼zletrÃ©sz tulajdonosÃ¡nak (zÃ¡logkÃ¶telezett)<ujsor/>
+adatait tartalmazÃ³ rovat szÃ¡ma: 1/6.<ujsor/>
+ A zÃ¡logjogosult adatai:<ujsor/>
+ KÃ¼lfÃ¶ldi cÃ©g, szervezet nyilvÃ¡ntartÃ¡si szÃ¡ma: 132781<ujsor/>
+KÃ¼lfÃ¶ldi cÃ©g, szervezet nyilvÃ¡ntartÃ³ hatÃ³sÃ¡ga: Register of Companies in the Republic of Irelend<ujsor/>
 Citibak Europe plc.<ujsor/>
 IE D1 Dublin, North Wall Quay 1.<ujsor/>
- A változás idõpontja: 2008. 10. 15.<ujsor/>
- A változás idõpontja (törlés): 2008. 10. 15.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 10. 15.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2008. 10. 15.<ujsor/>
  Bejegyezve: 2008. 10. 15.<ujsor/>
 2008. 12. 08.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109884255</mezo>
-<mezo id = "nev">VEKTOR Munkavédelmi, Mûszaki Fejlesztõ és Gyártó Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1095 Budapest, Soroksári út 164.</mezo>
+<mezo id = "nev">VEKTOR MunkavÃ©delmi, MÅ±szaki FejlesztÅ‘ Ã©s GyÃ¡rtÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1095 Budapest, SoroksÃ¡ri Ãºt 164.</mezo>
 <mezo id = "adosz">14004643243</mezo>
 </alrovat>
 </rovat>

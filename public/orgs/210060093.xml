@@ -5,7 +5,7 @@
 <mezo id = "cf">10</mezo>
 <mezo id = "szam">060093</mezo>
 <mezo id = "nevalrovat">3</mezo>
-<mezo id = "cim">7623 Pécs, Rét u. 8. </mezo>
+<mezo id = "cim">7623 PÃ©cs, RÃ©t u. 8. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">11009429202</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "3">
 <mezo id = "hattol">20110407</mezo>
-<mezo id = "nev">Mecsekerdõ Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">MecsekerdÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">20110407</mezo>
 <mezo id = "bkelt">20110601</mezo>
 </alrovat>
@@ -21,7 +21,7 @@
 <rovat id = "3">
 <alrovat id = "3">
 <mezo id = "hattol">20110407</mezo>
-<mezo id = "nev">Mecsekerdõ Zrt.</mezo>
+<mezo id = "nev">MecsekerdÅ‘ Zrt.</mezo>
 <mezo id = "valtk">20110407</mezo>
 <mezo id = "bkelt">20110601</mezo>
 </alrovat>
@@ -30,16 +30,16 @@
 <alrovat id = "1">
 <mezo id = "hattol">19930630</mezo>
 <mezo id = "irsz">7623</mezo>
-<mezo id = "hely">Pécs</mezo>
-<mezo id = "teru">Rét u. 8.</mezo>
+<mezo id = "hely">PÃ©cs</mezo>
+<mezo id = "teru">RÃ©t u. 8.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "6">
 <alrovat id = "11">
 <mezo id = "hattol">19990528</mezo>
 <mezo id = "irsz">7628</mezo>
-<mezo id = "hely">Pécs</mezo>
-<mezo id = "teru">Árpádtetõ</mezo>
+<mezo id = "hely">PÃ©cs</mezo>
+<mezo id = "teru">ÃrpÃ¡dtetÅ‘</mezo>
 <mezo id = "hsz">3</mezo>
 </alrovat>
 </rovat>
@@ -47,12 +47,12 @@
 <alrovat id = "5">
 <mezo id = "hattol">19990528</mezo>
 <mezo id = "irsz">7370</mezo>
-<mezo id = "hely">Sásd, Rákóczi u. 49.</mezo>
+<mezo id = "hely">SÃ¡sd, RÃ¡kÃ³czi u. 49.</mezo>
 </alrovat>
 <alrovat id = "10">
 <mezo id = "irsz">7900</mezo>
-<mezo id = "hely">Szigetvár</mezo>
-<mezo id = "teru">Istvánffy utca 10.</mezo>
+<mezo id = "hely">SzigetvÃ¡r</mezo>
+<mezo id = "teru">IstvÃ¡nffy utca 10.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "bkelt">20090701</mezo>
 </alrovat>
@@ -60,7 +60,7 @@
 <mezo id = "hattol">20110407</mezo>
 <mezo id = "irsz">7960</mezo>
 <mezo id = "hely">Sellye</mezo>
-<mezo id = "teru">Mátyás király út 87.</mezo>
+<mezo id = "teru">MÃ¡tyÃ¡s kirÃ¡ly Ãºt 87.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20110407</mezo>
 <mezo id = "bkelt">20110712</mezo>
@@ -68,8 +68,8 @@
 <alrovat id = "12">
 <mezo id = "hattol">20110407</mezo>
 <mezo id = "irsz">7720</mezo>
-<mezo id = "hely">Pécsvárad</mezo>
-<mezo id = "teru">Fáy A utca 2.</mezo>
+<mezo id = "hely">PÃ©csvÃ¡rad</mezo>
+<mezo id = "teru">FÃ¡y A utca 2.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20110407</mezo>
 <mezo id = "bkelt">20110712</mezo>
@@ -451,7 +451,7 @@
 <mezo id = "hattol">20091216</mezo>
 <mezo id = "valtk">20091216</mezo>
 <mezo id = "bkelt">20100120</mezo>
-<mezo id = "teaszov">Erdészeti, egyéb erdõgazdálkodási tevékenység</mezo>
+<mezo id = "teaszov">ErdÃ©szeti, egyÃ©b erdÅ‘gazdÃ¡lkodÃ¡si tevÃ©kenysÃ©g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -468,9 +468,9 @@
 <rovat id = "13">
 <alrovat id = "70">
 <mezo id = "hattol">20100713</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (vezérigazgató)</mezo>
-<mezo id = "pnev">Keszi László</mezo>
-<mezo id = "panev">Hajósy Mária</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (vezÃ©rigazgatÃ³)</mezo>
+<mezo id = "pnev">Keszi LÃ¡szlÃ³</mezo>
+<mezo id = "panev">HajÃ³sy MÃ¡ria</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100713</mezo>
 <mezo id = "valtk">20100713</mezo>
@@ -479,30 +479,30 @@
 </alrovat>
 <alrovat id = "71">
 <mezo id = "hattol">20110516</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Váradi József András</mezo>
-<mezo id = "panev">Szente Mária</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">VÃ¡radi JÃ³zsef AndrÃ¡s</mezo>
+<mezo id = "panev">Szente MÃ¡ria</mezo>
 <mezo id = "pirsz">7370</mezo>
-<mezo id = "phely">Sásd</mezo>
-<mezo id = "pteru">Rákóczi utca 49.</mezo>
+<mezo id = "phely">SÃ¡sd</mezo>
+<mezo id = "pteru">RÃ¡kÃ³czi utca 49.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20110516</mezo>
-<mezo id = "mnev">Hölbling Sándor</mezo>
+<mezo id = "mnev">HÃ¶lbling SÃ¡ndor</mezo>
 <mezo id = "valtk">20110516</mezo>
 <mezo id = "bkelt">20110601</mezo>
 <mezo id = "adoazon">8366731367</mezo>
 </alrovat>
 <alrovat id = "72">
 <mezo id = "hattol">20110516</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Hölbling Sándor</mezo>
-<mezo id = "panev">Höbling Ilona Borbála</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">HÃ¶lbling SÃ¡ndor</mezo>
+<mezo id = "panev">HÃ¶bling Ilona BorbÃ¡la</mezo>
 <mezo id = "pirsz">7630</mezo>
-<mezo id = "phely">Pécs</mezo>
-<mezo id = "pteru">Nyáros utca 24.</mezo>
+<mezo id = "phely">PÃ©cs</mezo>
+<mezo id = "pteru">NyÃ¡ros utca 24.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20110516</mezo>
-<mezo id = "mnev">Váradi József András</mezo>
+<mezo id = "mnev">VÃ¡radi JÃ³zsef AndrÃ¡s</mezo>
 <mezo id = "valtk">20110516</mezo>
 <mezo id = "bkelt">20110601</mezo>
 <mezo id = "adoazon">8351520357</mezo>
@@ -511,11 +511,11 @@
 <rovat id = "14">
 <alrovat id = "10">
 <mezo id = "hattol">20110601</mezo>
-<mezo id = "pnev">Szálinger Ferenc</mezo>
-<mezo id = "panev">Büki Irén</mezo>
+<mezo id = "pnev">SzÃ¡linger Ferenc</mezo>
+<mezo id = "panev">BÃ¼ki IrÃ©n</mezo>
 <mezo id = "pirsz">7400</mezo>
-<mezo id = "phely">Kaposvár</mezo>
-<mezo id = "pteru">Panoráma utca 13.</mezo>
+<mezo id = "phely">KaposvÃ¡r</mezo>
+<mezo id = "pteru">PanorÃ¡ma utca 13.</mezo>
 <mezo id = "jogvk">20110601</mezo>
 <mezo id = "jogvv">20120531</mezo>
 <mezo id = "valtk">20110601</mezo>
@@ -525,8 +525,8 @@
 <rovat id = "15">
 <alrovat id = "40">
 <mezo id = "hattol">20100713</mezo>
-<mezo id = "pnev">Tilhóf Magdolna</mezo>
-<mezo id = "panev">Ottinger Gertrúd</mezo>
+<mezo id = "pnev">TilhÃ³f Magdolna</mezo>
+<mezo id = "panev">Ottinger GertrÃºd</mezo>
 <mezo id = "jogvk">20100713</mezo>
 <mezo id = "jogvv">20130713</mezo>
 <mezo id = "valtk">20100713</mezo>
@@ -534,8 +534,8 @@
 </alrovat>
 <alrovat id = "41">
 <mezo id = "hattol">20100713</mezo>
-<mezo id = "pnev">Borák Péter</mezo>
-<mezo id = "panev">Ozsvárt Irén</mezo>
+<mezo id = "pnev">BorÃ¡k PÃ©ter</mezo>
+<mezo id = "panev">OzsvÃ¡rt IrÃ©n</mezo>
 <mezo id = "jogvk">20100713</mezo>
 <mezo id = "jogvv">20130713</mezo>
 <mezo id = "valtk">20100713</mezo>
@@ -543,8 +543,8 @@
 </alrovat>
 <alrovat id = "42">
 <mezo id = "hattol">20100713</mezo>
-<mezo id = "pnev">Farkas Mária</mezo>
-<mezo id = "panev">Kovács Mária</mezo>
+<mezo id = "pnev">Farkas MÃ¡ria</mezo>
+<mezo id = "panev">KovÃ¡cs MÃ¡ria</mezo>
 <mezo id = "jogvk">20100713</mezo>
 <mezo id = "jogvv">20130713</mezo>
 <mezo id = "valtk">20100713</mezo>
@@ -552,11 +552,11 @@
 </alrovat>
 <alrovat id = "43">
 <mezo id = "hattol">20110302</mezo>
-<mezo id = "pnev">Ripszám István</mezo>
-<mezo id = "panev">Trábert Katalin</mezo>
+<mezo id = "pnev">RipszÃ¡m IstvÃ¡n</mezo>
+<mezo id = "panev">TrÃ¡bert Katalin</mezo>
 <mezo id = "pirsz">7741</mezo>
-<mezo id = "phely">Nagykozár</mezo>
-<mezo id = "pteru">Petõfi Sándor utca 35.</mezo>
+<mezo id = "phely">NagykozÃ¡r</mezo>
+<mezo id = "pteru">PetÅ‘fi SÃ¡ndor utca 35.</mezo>
 <mezo id = "jogvk">20110302</mezo>
 <mezo id = "jogvv">20140531</mezo>
 <mezo id = "valtk">20110302</mezo>
@@ -565,11 +565,11 @@
 </alrovat>
 <alrovat id = "44">
 <mezo id = "hattol">20110302</mezo>
-<mezo id = "pnev">Lázár Tamás</mezo>
+<mezo id = "pnev">LÃ¡zÃ¡r TamÃ¡s</mezo>
 <mezo id = "panev">Rapp Anna</mezo>
 <mezo id = "pirsz">7940</mezo>
-<mezo id = "phely">Szentlõrinc</mezo>
-<mezo id = "pteru">Törökföld utca 5.</mezo>
+<mezo id = "phely">SzentlÅ‘rinc</mezo>
+<mezo id = "pteru">TÃ¶rÃ¶kfÃ¶ld utca 5.</mezo>
 <mezo id = "jogvk">20110302</mezo>
 <mezo id = "jogvv">20140531</mezo>
 <mezo id = "valtk">20110302</mezo>
@@ -581,8 +581,8 @@
 <alrovat id = "1">
 <mezo id = "hattol">19930630</mezo>
 <mezo id = "cgjsz">201000083</mezo>
-<mezo id = "nev">Mecseki Erdõ és Fafeldolgozó Gazdaság</mezo>
-<mezo id = "mod">privatizácio</mezo>
+<mezo id = "nev">Mecseki ErdÅ‘ Ã©s FafeldolgozÃ³ GazdasÃ¡g</mezo>
+<mezo id = "mod">privatizÃ¡cio</mezo>
 </alrovat>
 </rovat>
 <rovat id = "20">
@@ -596,18 +596,18 @@
 <mezo id = "adosz">11009429202</mezo>
 <mezo id = "kadosz">HU11009429</mezo>
 <mezo id = "bkelt">20110715</mezo>
-<mezo id = "megj">Státusz kezdete: 1993/06/30</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 1993/06/30</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0110">
 <alrovat id = "4">
 <mezo id = "hattol">20100617</mezo>
 <mezo id = "cgjsz">0110041712</mezo>
-<mezo id = "nev">MFB Magyar Fejlesztési Bank Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">MFB Magyar FejlesztÃ©si Bank ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1051</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Nádor utca 31.</mezo>
+<mezo id = "teru">NÃ¡dor utca 31.</mezo>
 <mezo id = "tagsk">20100617</mezo>
 <mezo id = "sz3">x</mezo>
 <mezo id = "valtk">20100617</mezo>
@@ -623,130 +623,130 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2000. 08. 08-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. Róna István (an: Mátyás Jolán) ig. tag.<ujsor/>
-7627 Pécs, Kanyar u. 3.<ujsor/>
- Hatályos: 2000. 05. 30-tól.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2000. 08. 08-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. RÃ³na IstvÃ¡n (an: MÃ¡tyÃ¡s JolÃ¡n) ig. tag.<ujsor/>
+7627 PÃ©cs, Kanyar u. 3.<ujsor/>
+ HatÃ¡lyos: 2000. 05. 30-tÃ³l.<ujsor/>
 Bejegyezve: 2000. 08. 23.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0210060093</mezo>
-<mezo id = "nev">Mecseki Erdészeti Részvénytársaság</mezo>
-<mezo id = "cim">7623 Pécs, Rét u. 8.</mezo>
+<mezo id = "nev">Mecseki ErdÃ©szeti RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">7623 PÃ©cs, RÃ©t u. 8.</mezo>
 <mezo id = "adosz">11009429202</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 1999. 07. 26-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-06. 7628 Pécs, Árpádtetõ 3.<ujsor/>
- Hatályos: 1999. 05. 28-tól.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 1999. 07. 26-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+06. 7628 PÃ©cs, ÃrpÃ¡dtetÅ‘ 3.<ujsor/>
+ HatÃ¡lyos: 1999. 05. 28-tÃ³l.<ujsor/>
 Bejegyezve: 2001. 08. 01.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0210060093</mezo>
-<mezo id = "nev">Mecseki Erdészeti Részvénytársaság</mezo>
-<mezo id = "cim">7623 Pécs, Rét u. 8.</mezo>
+<mezo id = "nev">Mecseki ErdÃ©szeti RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">7623 PÃ©cs, RÃ©t u. 8.</mezo>
 <mezo id = "adosz">11009429202</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Mecseki Erdészeti Zártkörûen Mûködõ Részvénytársaság (cégjegyzékszám: [02 10 060093]; székhely: 7623 Pécs, Rét u. 8.) a Gt. 256. § (2) bekezdése alapján közzéteszi a Mecseki Erdészeti Zrt. egyedüli részvényesének az alaptõke felemelésével kapcsolatos döntését:<ujsor/>
-189/2006. (XI. 16.) sz. alapítói határozat:<ujsor/>
-Az ÁPV Zrt. mint alapító, a társaságnál az alapítói határozat kiadása napjával 250 000 000 Ft (kettõszázötvenmillió forint) zártkörû tõkeemelést hajt végre, amelyet egy összegben, készpénzben teljesít, az ÁPV Zrt. üzleti tervének K.4. üzleti célú befektetések keret terhére. Az alaptõke felemelése 25 000 db, egyenként 10 000 Ft névértékû törzsrészvény forgalomba hozatalával zártkörûen történik. Az alapító jelen határozat elválaszthatatlan mellékletét képezõ nyilatkozata a részvények átvételére vonatkozó kötelezettség vállalásról az alapítói határozat kiadása napján lép hatályba. A 250 M Ft tõkeemelésnek megfelelõen módosítani kell a társaság alapító okiratának 4.2. és 4.3. pontját. Az ÁPV Zrt. igazgatósága felkéri a társaság igazgatóságát, hogy a tõkeemelés cégbírósági bejegyzésérõl, a PSZÁF felé történõ bejelentésrõl és az összevont címletû 25 000 db, 10 000 Ft névértékû részvény elõállításáról gondoskodjon, valamint a 2007. évi üzleti tervben és az éves beszámolóban kerüljön külön bemutatásra a tõkeemelés gazdálkodásra gyakorolt hatása.<ujsor/>
-Az alaptõke felemelés elõtti összege: 1 263 870 000 Ft (egymilliárd-kettõszázhatvanhárommillió-nyolcszázhetvenezer forint), felemelés utáni összege: 1 513 870 000 Ft (egymilliárd-ötszáztizenhárommillió-nyolcszázhetvenezer forint).<ujsor/>
+<mezo id = "szoveg">A Mecseki ErdÃ©szeti ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (cÃ©gjegyzÃ©kszÃ¡m: [02 10 060093]; szÃ©khely: 7623 PÃ©cs, RÃ©t u. 8.) a Gt. 256. Â§ (2) bekezdÃ©se alapjÃ¡n kÃ¶zzÃ©teszi a Mecseki ErdÃ©szeti Zrt. egyedÃ¼li rÃ©szvÃ©nyesÃ©nek az alaptÅ‘ke felemelÃ©sÃ©vel kapcsolatos dÃ¶ntÃ©sÃ©t:<ujsor/>
+189/2006. (XI. 16.) sz. alapÃ­tÃ³i hatÃ¡rozat:<ujsor/>
+Az ÃPV Zrt. mint alapÃ­tÃ³, a tÃ¡rsasÃ¡gnÃ¡l az alapÃ­tÃ³i hatÃ¡rozat kiadÃ¡sa napjÃ¡val 250 000 000 Ft (kettÅ‘szÃ¡zÃ¶tvenmilliÃ³ forint) zÃ¡rtkÃ¶rÅ± tÅ‘keemelÃ©st hajt vÃ©gre, amelyet egy Ã¶sszegben, kÃ©szpÃ©nzben teljesÃ­t, az ÃPV Zrt. Ã¼zleti tervÃ©nek K.4. Ã¼zleti cÃ©lÃº befektetÃ©sek keret terhÃ©re. Az alaptÅ‘ke felemelÃ©se 25 000 db, egyenkÃ©nt 10 000 Ft nÃ©vÃ©rtÃ©kÅ± tÃ¶rzsrÃ©szvÃ©ny forgalomba hozatalÃ¡val zÃ¡rtkÃ¶rÅ±en tÃ¶rtÃ©nik. Az alapÃ­tÃ³ jelen hatÃ¡rozat elvÃ¡laszthatatlan mellÃ©kletÃ©t kÃ©pezÅ‘ nyilatkozata a rÃ©szvÃ©nyek Ã¡tvÃ©telÃ©re vonatkozÃ³ kÃ¶telezettsÃ©g vÃ¡llalÃ¡srÃ³l az alapÃ­tÃ³i hatÃ¡rozat kiadÃ¡sa napjÃ¡n lÃ©p hatÃ¡lyba. A 250 M Ft tÅ‘keemelÃ©snek megfelelÅ‘en mÃ³dosÃ­tani kell a tÃ¡rsasÃ¡g alapÃ­tÃ³ okiratÃ¡nak 4.2. Ã©s 4.3. pontjÃ¡t. Az ÃPV Zrt. igazgatÃ³sÃ¡ga felkÃ©ri a tÃ¡rsasÃ¡g igazgatÃ³sÃ¡gÃ¡t, hogy a tÅ‘keemelÃ©s cÃ©gbÃ­rÃ³sÃ¡gi bejegyzÃ©sÃ©rÅ‘l, a PSZÃF felÃ© tÃ¶rtÃ©nÅ‘ bejelentÃ©srÅ‘l Ã©s az Ã¶sszevont cÃ­mletÅ± 25 000 db, 10 000 Ft nÃ©vÃ©rtÃ©kÅ± rÃ©szvÃ©ny elÅ‘Ã¡llÃ­tÃ¡sÃ¡rÃ³l gondoskodjon, valamint a 2007. Ã©vi Ã¼zleti tervben Ã©s az Ã©ves beszÃ¡molÃ³ban kerÃ¼ljÃ¶n kÃ¼lÃ¶n bemutatÃ¡sra a tÅ‘keemelÃ©s gazdÃ¡lkodÃ¡sra gyakorolt hatÃ¡sa.<ujsor/>
+Az alaptÅ‘ke felemelÃ©s elÅ‘tti Ã¶sszege: 1 263 870 000 Ft (egymilliÃ¡rd-kettÅ‘szÃ¡zhatvanhÃ¡rommilliÃ³-nyolcszÃ¡zhetvenezer forint), felemelÃ©s utÃ¡ni Ã¶sszege: 1 513 870 000 Ft (egymilliÃ¡rd-Ã¶tszÃ¡ztizenhÃ¡rommilliÃ³-nyolcszÃ¡zhetvenezer forint).<ujsor/>
 </mezo>
 <mezo id = "cjsz">0210060093</mezo>
-<mezo id = "nev">Mecseki Erdészeti Részvénytársaság</mezo>
-<mezo id = "cim">7623 Pécs</mezo>
+<mezo id = "nev">Mecseki ErdÃ©szeti RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">7623 PÃ©cs</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Mecseki Erdészeti Zártkörûen Mûködõ Részvénytársaság (Cg.: [02 10 060093]; székhely: 7623 Pécs, Rét u. 8.) a Gt. 256. § (2) bekezdése alapján közzéteszi a Mecseki Erdészeti Zrt. egyedüli részvényesének alaptõke felemelésével kapcsolatos döntését.<ujsor/>
-138/2007. (VIII. 03.) sz. Alapítói Határozat 1/b.<ujsor/>
-Az ÁPV Zrt. mint alapító a társaságnál 2007. augusztus 3-ával 108 000 000 Ft (egyszáznyolcmillió forint) zártkörû tõkeemelést hajt végre, amelyet egy összegben, készpénzben teljesít, az ÁPV Zrt. Üzleti tervének K.4. üzleti célú befektetések keret terhére. Az alaptõke felemelése 10 800 db, egyenként 10 000 Ft névértékû törzsrészvény forgalomba hozatalával zártkörûen történik. Az alapító jelen határozat elválaszthatatlan mellékletét képezõ nyilatkozata a részvények átvételére vonatkozó kötelezettség vállalásáról 2007. augusztus 3-án lép hatályba. A 108 M Ft tõkeemelésnek megfelelõen módosítani kell a társaság alapító okiratának 4.2. és 4.3. pontját. Az ÁPV Zrt. igazgatósága felkéri a társaság igazgatóságát, hogy a tõkeemelés cégbírósági bejegyzésérõl, a PSZÁF felé történõ bejelentésérõl és az összevont címletû 10 800 db, 10 000 Ft névértékû részvény elõállításáról gondoskodjon, valamint az éves beszámolóban és a 2008. évi üzleti tervben kerüljön külön bemutatásra a tõkeemelés gazdálkodásra gyakorolt hatása.<ujsor/>
-Az alaptõke-felemelés elõtti összege: 1 513 870 000 Ft (egymilliárd-ötszáztizenhárommillió-nyolcszázhetvenezer forint), felemelés utáni összege: 1 621 870 000 Ft (egymilliárd-hatszázhuszonegymillió-nyolcszázhetvenezer forint).<ujsor/>
-A tõkeemelés 10 800 db, 10 000 Ft névértékû, „A” sorozatú, összevont címletû, névre szóló törzsrészvény kibocsátásával zártkörûen történik. A részvényeket az értékpapírokra vonatkozó elõírások betartásával, nyomdai úton kell elõállítani, összevont értékû részvény kiállításával.<ujsor/>
-A részvények kezdõ és befejezõ sorszáma: 000151388­000062187. A részvények mindegyikéhez teljes körû részvényesi jogok fûzõdnek. A részvények névértékét az alapító 2007. augusztus 6-án a társaság bankszámláján egy összegben elhelyezte.<ujsor/>
+<mezo id = "szoveg">A Mecseki ErdÃ©szeti ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [02 10 060093]; szÃ©khely: 7623 PÃ©cs, RÃ©t u. 8.) a Gt. 256. Â§ (2) bekezdÃ©se alapjÃ¡n kÃ¶zzÃ©teszi a Mecseki ErdÃ©szeti Zrt. egyedÃ¼li rÃ©szvÃ©nyesÃ©nek alaptÅ‘ke felemelÃ©sÃ©vel kapcsolatos dÃ¶ntÃ©sÃ©t.<ujsor/>
+138/2007. (VIII. 03.) sz. AlapÃ­tÃ³i HatÃ¡rozat 1/b.<ujsor/>
+Az ÃPV Zrt. mint alapÃ­tÃ³ a tÃ¡rsasÃ¡gnÃ¡l 2007. augusztus 3-Ã¡val 108 000 000 Ft (egyszÃ¡znyolcmilliÃ³ forint) zÃ¡rtkÃ¶rÅ± tÅ‘keemelÃ©st hajt vÃ©gre, amelyet egy Ã¶sszegben, kÃ©szpÃ©nzben teljesÃ­t, az ÃPV Zrt. Ãœzleti tervÃ©nek K.4. Ã¼zleti cÃ©lÃº befektetÃ©sek keret terhÃ©re. Az alaptÅ‘ke felemelÃ©se 10 800 db, egyenkÃ©nt 10 000 Ft nÃ©vÃ©rtÃ©kÅ± tÃ¶rzsrÃ©szvÃ©ny forgalomba hozatalÃ¡val zÃ¡rtkÃ¶rÅ±en tÃ¶rtÃ©nik. Az alapÃ­tÃ³ jelen hatÃ¡rozat elvÃ¡laszthatatlan mellÃ©kletÃ©t kÃ©pezÅ‘ nyilatkozata a rÃ©szvÃ©nyek Ã¡tvÃ©telÃ©re vonatkozÃ³ kÃ¶telezettsÃ©g vÃ¡llalÃ¡sÃ¡rÃ³l 2007. augusztus 3-Ã¡n lÃ©p hatÃ¡lyba. A 108 M Ft tÅ‘keemelÃ©snek megfelelÅ‘en mÃ³dosÃ­tani kell a tÃ¡rsasÃ¡g alapÃ­tÃ³ okiratÃ¡nak 4.2. Ã©s 4.3. pontjÃ¡t. Az ÃPV Zrt. igazgatÃ³sÃ¡ga felkÃ©ri a tÃ¡rsasÃ¡g igazgatÃ³sÃ¡gÃ¡t, hogy a tÅ‘keemelÃ©s cÃ©gbÃ­rÃ³sÃ¡gi bejegyzÃ©sÃ©rÅ‘l, a PSZÃF felÃ© tÃ¶rtÃ©nÅ‘ bejelentÃ©sÃ©rÅ‘l Ã©s az Ã¶sszevont cÃ­mletÅ± 10 800 db, 10 000 Ft nÃ©vÃ©rtÃ©kÅ± rÃ©szvÃ©ny elÅ‘Ã¡llÃ­tÃ¡sÃ¡rÃ³l gondoskodjon, valamint az Ã©ves beszÃ¡molÃ³ban Ã©s a 2008. Ã©vi Ã¼zleti tervben kerÃ¼ljÃ¶n kÃ¼lÃ¶n bemutatÃ¡sra a tÅ‘keemelÃ©s gazdÃ¡lkodÃ¡sra gyakorolt hatÃ¡sa.<ujsor/>
+Az alaptÅ‘ke-felemelÃ©s elÅ‘tti Ã¶sszege: 1 513 870 000 Ft (egymilliÃ¡rd-Ã¶tszÃ¡ztizenhÃ¡rommilliÃ³-nyolcszÃ¡zhetvenezer forint), felemelÃ©s utÃ¡ni Ã¶sszege: 1 621 870 000 Ft (egymilliÃ¡rd-hatszÃ¡zhuszonegymilliÃ³-nyolcszÃ¡zhetvenezer forint).<ujsor/>
+A tÅ‘keemelÃ©s 10 800 db, 10 000 Ft nÃ©vÃ©rtÃ©kÅ±, â€Aâ€ sorozatÃº, Ã¶sszevont cÃ­mletÅ±, nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©ny kibocsÃ¡tÃ¡sÃ¡val zÃ¡rtkÃ¶rÅ±en tÃ¶rtÃ©nik. A rÃ©szvÃ©nyeket az Ã©rtÃ©kpapÃ­rokra vonatkozÃ³ elÅ‘Ã­rÃ¡sok betartÃ¡sÃ¡val, nyomdai Ãºton kell elÅ‘Ã¡llÃ­tani, Ã¶sszevont Ã©rtÃ©kÅ± rÃ©szvÃ©ny kiÃ¡llÃ­tÃ¡sÃ¡val.<ujsor/>
+A rÃ©szvÃ©nyek kezdÅ‘ Ã©s befejezÅ‘ sorszÃ¡ma: 000151388Â­000062187. A rÃ©szvÃ©nyek mindegyikÃ©hez teljes kÃ¶rÅ± rÃ©szvÃ©nyesi jogok fÅ±zÅ‘dnek. A rÃ©szvÃ©nyek nÃ©vÃ©rtÃ©kÃ©t az alapÃ­tÃ³ 2007. augusztus 6-Ã¡n a tÃ¡rsasÃ¡g bankszÃ¡mlÃ¡jÃ¡n egy Ã¶sszegben elhelyezte.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0210060093</mezo>
-<mezo id = "nev">Mecseki Erdészeti Részvénytársaság</mezo>
-<mezo id = "cim">7623 Pécs</mezo>
+<mezo id = "nev">Mecseki ErdÃ©szeti RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">7623 PÃ©cs</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Mecseki Erdészeti Zártkörûen Mûködõ Részvénytársaság (Cg.: [02 10 060093]; székhely: 7623 Pécs, Rét u. 8.) a Gt. 256. § (2) bekezdése alapján közzéteszi a Mecseki Erdészeti Zrt. egyedüli részvényese, a Nemzeti Vagyongazdálkodási Tanács alaptõke felemelésével kapcsolatos döntését.<ujsor/>
-579/2008. (XII. 20.) sz. Alapítói Határozat 1.<ujsor/>
-A tanács, mint egyedüli részvényes a Mecseki Erdészeti Zrt.-nél az Alapítói Határozat kiadása napjával 106 120 000 Ft (egyszázhatmillió-egyszázhúszezer forint) zártkörû tõkeemelést hajt végre, amelyet egy összegben, készpénzben teljesít az MNV Zrt. Üzleti tervének K.2.1.4. „Tõkeemelés állami tulajdonú társaságokban” keret terhére. Az alaptõke felemelése 10 612 db, egyenként 10 000 Ft névértékû törzsrészvény forgalomba hozatalával zártkörûen történik. Az Alapító jelen határozat elválaszthatatlan mellékletét képezõ nyilatkozata a részvények átvételére vonatkozó kötelezettség vállalásáról az Alapítói Határozat kiadásának napján lép hatályba. A 106,12 M Ft tõkeemelésnek megfelelõen módosítani kell a társaság Alapító Okiratának 4.2. és 4.3. pontját. A tanács felkéri a társaság igazgatóságát, hogy a tõkeemelés cégbírósági bejegyzésérõl a PSZÁF felé történõ bejelentésrõl és az összevont címletû 10 612 db 10 000 Ft névértékû részvény elõállításáról gondoskodjon, valamint az éves beszámolóban és a 2009. évi üzleti tervben kerüljön külön bemutatásra a tõkeemelés gazdálkodásra gyakorolt hatása.<ujsor/>
-Az alaptõke felemelés elõtti összege: 1 621 870 000 Ft (egymilliárd-hatszázhuszonegymillió-nyolcszázhetvenezer forint), felemelés utáni összege: 1 727 990 000 Ft (egymilliárd-hétszázhuszonhétmillió-kilencszázkilencvenezer forint).<ujsor/>
-A tõkeemelés 10 612 db, 10 000 Ft névértékû „A” sorozatú címletû, névre szóló törzsrészvény kibocsátásával zártkörûen történik. A részvényeket az értékpapírokra vonatkozó elõírások betartásával, nyomdai úton kell elõállítani, összevont értékû részvény kiállításával. A részvények kezdõ és befejezõ sorszáma: 000162188-000172799. A részvények mindegyikéhez teljes körû részvényesi jogok fûzõdnek. A részvények névértékét az alapító 2008. december 22-én a társaság bankszámláján egy összegben elhelyezte.<ujsor/>
+<mezo id = "szoveg">A Mecseki ErdÃ©szeti ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [02 10 060093]; szÃ©khely: 7623 PÃ©cs, RÃ©t u. 8.) a Gt. 256. Â§ (2) bekezdÃ©se alapjÃ¡n kÃ¶zzÃ©teszi a Mecseki ErdÃ©szeti Zrt. egyedÃ¼li rÃ©szvÃ©nyese, a Nemzeti VagyongazdÃ¡lkodÃ¡si TanÃ¡cs alaptÅ‘ke felemelÃ©sÃ©vel kapcsolatos dÃ¶ntÃ©sÃ©t.<ujsor/>
+579/2008. (XII. 20.) sz. AlapÃ­tÃ³i HatÃ¡rozat 1.<ujsor/>
+A tanÃ¡cs, mint egyedÃ¼li rÃ©szvÃ©nyes a Mecseki ErdÃ©szeti Zrt.-nÃ©l az AlapÃ­tÃ³i HatÃ¡rozat kiadÃ¡sa napjÃ¡val 106 120 000 Ft (egyszÃ¡zhatmilliÃ³-egyszÃ¡zhÃºszezer forint) zÃ¡rtkÃ¶rÅ± tÅ‘keemelÃ©st hajt vÃ©gre, amelyet egy Ã¶sszegben, kÃ©szpÃ©nzben teljesÃ­t az MNV Zrt. Ãœzleti tervÃ©nek K.2.1.4. â€TÅ‘keemelÃ©s Ã¡llami tulajdonÃº tÃ¡rsasÃ¡gokbanâ€ keret terhÃ©re. Az alaptÅ‘ke felemelÃ©se 10 612 db, egyenkÃ©nt 10 000 Ft nÃ©vÃ©rtÃ©kÅ± tÃ¶rzsrÃ©szvÃ©ny forgalomba hozatalÃ¡val zÃ¡rtkÃ¶rÅ±en tÃ¶rtÃ©nik. Az AlapÃ­tÃ³ jelen hatÃ¡rozat elvÃ¡laszthatatlan mellÃ©kletÃ©t kÃ©pezÅ‘ nyilatkozata a rÃ©szvÃ©nyek Ã¡tvÃ©telÃ©re vonatkozÃ³ kÃ¶telezettsÃ©g vÃ¡llalÃ¡sÃ¡rÃ³l az AlapÃ­tÃ³i HatÃ¡rozat kiadÃ¡sÃ¡nak napjÃ¡n lÃ©p hatÃ¡lyba. A 106,12 M Ft tÅ‘keemelÃ©snek megfelelÅ‘en mÃ³dosÃ­tani kell a tÃ¡rsasÃ¡g AlapÃ­tÃ³ OkiratÃ¡nak 4.2. Ã©s 4.3. pontjÃ¡t. A tanÃ¡cs felkÃ©ri a tÃ¡rsasÃ¡g igazgatÃ³sÃ¡gÃ¡t, hogy a tÅ‘keemelÃ©s cÃ©gbÃ­rÃ³sÃ¡gi bejegyzÃ©sÃ©rÅ‘l a PSZÃF felÃ© tÃ¶rtÃ©nÅ‘ bejelentÃ©srÅ‘l Ã©s az Ã¶sszevont cÃ­mletÅ± 10 612 db 10 000 Ft nÃ©vÃ©rtÃ©kÅ± rÃ©szvÃ©ny elÅ‘Ã¡llÃ­tÃ¡sÃ¡rÃ³l gondoskodjon, valamint az Ã©ves beszÃ¡molÃ³ban Ã©s a 2009. Ã©vi Ã¼zleti tervben kerÃ¼ljÃ¶n kÃ¼lÃ¶n bemutatÃ¡sra a tÅ‘keemelÃ©s gazdÃ¡lkodÃ¡sra gyakorolt hatÃ¡sa.<ujsor/>
+Az alaptÅ‘ke felemelÃ©s elÅ‘tti Ã¶sszege: 1 621 870 000 Ft (egymilliÃ¡rd-hatszÃ¡zhuszonegymilliÃ³-nyolcszÃ¡zhetvenezer forint), felemelÃ©s utÃ¡ni Ã¶sszege: 1 727 990 000 Ft (egymilliÃ¡rd-hÃ©tszÃ¡zhuszonhÃ©tmilliÃ³-kilencszÃ¡zkilencvenezer forint).<ujsor/>
+A tÅ‘keemelÃ©s 10 612 db, 10 000 Ft nÃ©vÃ©rtÃ©kÅ± â€Aâ€ sorozatÃº cÃ­mletÅ±, nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©ny kibocsÃ¡tÃ¡sÃ¡val zÃ¡rtkÃ¶rÅ±en tÃ¶rtÃ©nik. A rÃ©szvÃ©nyeket az Ã©rtÃ©kpapÃ­rokra vonatkozÃ³ elÅ‘Ã­rÃ¡sok betartÃ¡sÃ¡val, nyomdai Ãºton kell elÅ‘Ã¡llÃ­tani, Ã¶sszevont Ã©rtÃ©kÅ± rÃ©szvÃ©ny kiÃ¡llÃ­tÃ¡sÃ¡val. A rÃ©szvÃ©nyek kezdÅ‘ Ã©s befejezÅ‘ sorszÃ¡ma: 000162188-000172799. A rÃ©szvÃ©nyek mindegyikÃ©hez teljes kÃ¶rÅ± rÃ©szvÃ©nyesi jogok fÅ±zÅ‘dnek. A rÃ©szvÃ©nyek nÃ©vÃ©rtÃ©kÃ©t az alapÃ­tÃ³ 2008. december 22-Ã©n a tÃ¡rsasÃ¡g bankszÃ¡mlÃ¡jÃ¡n egy Ã¶sszegben elhelyezte.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0210060093</mezo>
-<mezo id = "nev">Mecseki Erdészeti Részvénytársaság</mezo>
-<mezo id = "cim">7623 Pécs</mezo>
+<mezo id = "nev">Mecseki ErdÃ©szeti RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">7623 PÃ©cs</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Mecseki Erdészeti Zártkörûen Mûködõ Részvénytársaság (Cg.: [02 10 060093]; székhelye: 7623 Pécs, Rét u. 8.) egyedüli részvényese, a Nemzeti Vagyongazdálkodási Tanács a 609/2009. (XII. 16.) sz. alapítói határozat alapján alaptõkéjének felemelését határozta el.<ujsor/>
-A tanács mint egyedüli részvényes a Mecseki Erdészeti Zrt.-nél az alapítói határozat kiadása napjával 40 000 000 Ft (negyvenmillió forint) zártkörû tõkeemelést hajt végre, amelyet egy összegben, készpénzben teljesít az MNV Zrt. 2009. évi vagyonkezelési tervének K.1.4.2. „ESA semleges tõkeemelések ­ Erdõgazdasági társaságok megtérülõ beruházásaira” keret terhére.<ujsor/>
-Az alaptõke felemelése 4 000 db, egyenként 10 000 Ft névértékû törzsrészvény forgalomba hozatalával, zártkörûen történik.<ujsor/>
-Az alapító jelen határozat elválaszthatatlan mellékletét képezõ nyilatkozata a részvények átvételére vonatkozó kötelezettségvállalásról az alapítói határozat kiadásának napján lép hatályba. A 40,0 M Ft tõkeemelésnek megfelelõen módosítani kell a társaság alapító okiratának 4.2. és 4.3. pontját.<ujsor/>
-A tanács felkéri a társaság igazgatóságát, hogy a tõkeemelés cégbírósági bejegyzésérõl, a PSZÁF felé történõ bejelentésrõl és az összevont címletû 4 000 db, 10 000 Ft névértékû részvény elõállításáról gondoskodjon, valamint az éves beszámolóban és a 2011. évi üzleti tervben kerüljön külön bemutatásra a tõkeemelés gazdálkodásra gyakorolt hatása.<ujsor/>
-Az alaptõke felemelés elõtti összege: 1 727 990 000 Ft (egymilliárd-hétszázhuszonhétezer-kilencszázkilencvenezer), felemelés utáni összege: 1 767 990 000 Ft (egymilliárd-hétszázhatvanhétmillió-kilencszázkilencvenezer forint).<ujsor/>
-A tõkeemelés 4 000 db, 10 000 Ft névértékû, „A” sorozatú, összevont címletû, névre szóló törzsrészvény kibocsátásával, zártkörûen történik. A részvényeket az értékpapírokra vonatkozó elõírások betartásával, nyomdai úton kell elõállítani, összevont értékû részvény kiállításával. A részvények kezdõ és befejezõ sorszáma: 000172800-000176799.<ujsor/>
-A részvények mindegyikéhez teljes körû részvényesi jogok fûzõdnek. A részvények névértékét az alapító 2009. december 22-én a társaság bankszámláján egy összegben elhelyezte.<ujsor/>
+<mezo id = "szoveg">A Mecseki ErdÃ©szeti ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [02 10 060093]; szÃ©khelye: 7623 PÃ©cs, RÃ©t u. 8.) egyedÃ¼li rÃ©szvÃ©nyese, a Nemzeti VagyongazdÃ¡lkodÃ¡si TanÃ¡cs a 609/2009. (XII. 16.) sz. alapÃ­tÃ³i hatÃ¡rozat alapjÃ¡n alaptÅ‘kÃ©jÃ©nek felemelÃ©sÃ©t hatÃ¡rozta el.<ujsor/>
+A tanÃ¡cs mint egyedÃ¼li rÃ©szvÃ©nyes a Mecseki ErdÃ©szeti Zrt.-nÃ©l az alapÃ­tÃ³i hatÃ¡rozat kiadÃ¡sa napjÃ¡val 40 000 000 Ft (negyvenmilliÃ³ forint) zÃ¡rtkÃ¶rÅ± tÅ‘keemelÃ©st hajt vÃ©gre, amelyet egy Ã¶sszegben, kÃ©szpÃ©nzben teljesÃ­t az MNV Zrt. 2009. Ã©vi vagyonkezelÃ©si tervÃ©nek K.1.4.2. â€ESA semleges tÅ‘keemelÃ©sek Â­ ErdÅ‘gazdasÃ¡gi tÃ¡rsasÃ¡gok megtÃ©rÃ¼lÅ‘ beruhÃ¡zÃ¡sairaâ€ keret terhÃ©re.<ujsor/>
+Az alaptÅ‘ke felemelÃ©se 4 000 db, egyenkÃ©nt 10 000 Ft nÃ©vÃ©rtÃ©kÅ± tÃ¶rzsrÃ©szvÃ©ny forgalomba hozatalÃ¡val, zÃ¡rtkÃ¶rÅ±en tÃ¶rtÃ©nik.<ujsor/>
+Az alapÃ­tÃ³ jelen hatÃ¡rozat elvÃ¡laszthatatlan mellÃ©kletÃ©t kÃ©pezÅ‘ nyilatkozata a rÃ©szvÃ©nyek Ã¡tvÃ©telÃ©re vonatkozÃ³ kÃ¶telezettsÃ©gvÃ¡llalÃ¡srÃ³l az alapÃ­tÃ³i hatÃ¡rozat kiadÃ¡sÃ¡nak napjÃ¡n lÃ©p hatÃ¡lyba. A 40,0 M Ft tÅ‘keemelÃ©snek megfelelÅ‘en mÃ³dosÃ­tani kell a tÃ¡rsasÃ¡g alapÃ­tÃ³ okiratÃ¡nak 4.2. Ã©s 4.3. pontjÃ¡t.<ujsor/>
+A tanÃ¡cs felkÃ©ri a tÃ¡rsasÃ¡g igazgatÃ³sÃ¡gÃ¡t, hogy a tÅ‘keemelÃ©s cÃ©gbÃ­rÃ³sÃ¡gi bejegyzÃ©sÃ©rÅ‘l, a PSZÃF felÃ© tÃ¶rtÃ©nÅ‘ bejelentÃ©srÅ‘l Ã©s az Ã¶sszevont cÃ­mletÅ± 4 000 db, 10 000 Ft nÃ©vÃ©rtÃ©kÅ± rÃ©szvÃ©ny elÅ‘Ã¡llÃ­tÃ¡sÃ¡rÃ³l gondoskodjon, valamint az Ã©ves beszÃ¡molÃ³ban Ã©s a 2011. Ã©vi Ã¼zleti tervben kerÃ¼ljÃ¶n kÃ¼lÃ¶n bemutatÃ¡sra a tÅ‘keemelÃ©s gazdÃ¡lkodÃ¡sra gyakorolt hatÃ¡sa.<ujsor/>
+Az alaptÅ‘ke felemelÃ©s elÅ‘tti Ã¶sszege: 1 727 990 000 Ft (egymilliÃ¡rd-hÃ©tszÃ¡zhuszonhÃ©tezer-kilencszÃ¡zkilencvenezer), felemelÃ©s utÃ¡ni Ã¶sszege: 1 767 990 000 Ft (egymilliÃ¡rd-hÃ©tszÃ¡zhatvanhÃ©tmilliÃ³-kilencszÃ¡zkilencvenezer forint).<ujsor/>
+A tÅ‘keemelÃ©s 4 000 db, 10 000 Ft nÃ©vÃ©rtÃ©kÅ±, â€Aâ€ sorozatÃº, Ã¶sszevont cÃ­mletÅ±, nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©ny kibocsÃ¡tÃ¡sÃ¡val, zÃ¡rtkÃ¶rÅ±en tÃ¶rtÃ©nik. A rÃ©szvÃ©nyeket az Ã©rtÃ©kpapÃ­rokra vonatkozÃ³ elÅ‘Ã­rÃ¡sok betartÃ¡sÃ¡val, nyomdai Ãºton kell elÅ‘Ã¡llÃ­tani, Ã¶sszevont Ã©rtÃ©kÅ± rÃ©szvÃ©ny kiÃ¡llÃ­tÃ¡sÃ¡val. A rÃ©szvÃ©nyek kezdÅ‘ Ã©s befejezÅ‘ sorszÃ¡ma: 000172800-000176799.<ujsor/>
+A rÃ©szvÃ©nyek mindegyikÃ©hez teljes kÃ¶rÅ± rÃ©szvÃ©nyesi jogok fÅ±zÅ‘dnek. A rÃ©szvÃ©nyek nÃ©vÃ©rtÃ©kÃ©t az alapÃ­tÃ³ 2009. december 22-Ã©n a tÃ¡rsasÃ¡g bankszÃ¡mlÃ¡jÃ¡n egy Ã¶sszegben elhelyezte.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0210060093</mezo>
-<mezo id = "nev">Mecseki Erdészeti Részvénytársaság</mezo>
-<mezo id = "cim">7623 Pécs</mezo>
+<mezo id = "nev">Mecseki ErdÃ©szeti RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">7623 PÃ©cs</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Mecseki Erdészeti Zártkörûen Mûködõ Részvénytársaság (Cg.: [02 10 060093]; székhelye: 7623 Pécs, Rét u. 8.; adószám: [11009429-2-02]; bankszámlaszám: CIB Bank Zrt. 10700055-25066007-53400002; képviseli: Keszi László vezérigazgató) ­ az egyszemélyi tulajdonosi joggyakorló MFB Magyar Fejlesztési Bank Zártkörûen Mûködõ Részvénytársaság (Cg.: [01 10 041712]; székhelye: 1051 Budapest, Nádor u. 31.; a továbbiakban: részvényes) az 1/2010(XII.2.) sz. alapítói határozatban foglaltak szerint ­ a Gazdasági társaságokról szóló 2006. évi IV. törvény (Gt.), illetve a tõkepiacról szóló 2001. évi CXX. törvény (Tpt.) rendelkezéseivel összhangban az alábbi hirdetményt teszi közzé:<ujsor/>
-A részvényes az 1/2010(XII.2.) sz. alapítói határozatban rendelkezett arról, hogy a társaság teljes alaptõkéjét megtestesítõ 1 767 990 E Ft (egymilliárd-hétszázhatvanhétmillió-kilencszázkilencvenezer forint) össznévértékû részvényét dematerializált formában bocsátja ki.<ujsor/>
-A társaság tájékoztatja a részvényest az alábbiakról:<ujsor/>
-Az átalakítás megkezdésének idõpontja: 2011. január 31.<ujsor/>
-Az átalakítás idõtartama: a megkezdéstõl számított 60 nap, amely 2011. március 31-ig (ez a nap a benyújtásra megjelölt utolsó nap) tart.<ujsor/>
-Az átalakítás lezárásának idõpontja: 2011. március 31., azzal, hogy amennyiben a nyomdai úton elõállított részvények 2011. március 31-ét megelõzõen hiánytalanul és érvényesen benyújtásra kerülnek, az átalakítás folyamata hamarabb is lezárható. Ebben az esetben az átalakítás idõpontja a hiánytalan és érvényes benyújtás napját követõ elsõ munkanap lesz.<ujsor/>
-Az átalakítás napja: 2011. április 1., amely a részvények benyújtására megjelölt utolsó napot követõ munkanap. Az átalakítás napjával a társaság az átalakított értékpapír-sorozatot érvénytelennek nyilvánítja, és dematerializált értékpapírrá alakítja.<ujsor/>
-A társaság felszólítja a részvényest arra, hogy a nyomdai úton elõállított részvényeit 2011. január 31. és 2011. március 31-e között nyújtsa be az üzleti órákban, a társaság (kibocsátó) 7623 Pécs, Rét u. 8. szám alatti székhelyén.<ujsor/>
-A részvényes kötelezettséget vállal arra, hogy a részvényátalakítás cégjegyzékbe történt változásbejegyzését követõen a dematerializált részvényeket a KELER Zrt.-nél vezetett számlája mellett a társaság nevén megnyitott alszámlán helyezi el. A részvényes az értékpapírszámla számának és elnevezésének megjelölésével a társaságot haladéktalanul értesíti.<ujsor/>
-A társaság figyelmezteti a részvényest, hogy<ujsor/>
-­ a részvényes a benyújtással egyidejûleg köteles megjelölni azt a befektetési szolgáltatót, amellyel értékpapírszámla-szerzõdést kötött, ennek hiányában úgy tekintik, mint aki a benyújtást elmulasztotta,<ujsor/>
-­ a központi értéktárnál letétként elhelyezett értékpapírok benyújtottnak tekintendõk, ha az értékpapír tulajdonosa értékpapírszámlával rendelkezik,<ujsor/>
-­ a be nem nyújtott, nyomdai úton elõállított értékpapír helyébe lépõ dematerializált értékpapírok tulajdonjoga a nyomdai úton elõállított értékpapír utolsó tulajdonosát illeti meg.<ujsor/>
-Az érvénytelenné nyilvánított értékpapír tulajdonosa követelheti a dematerializált értékpapír kiadását, vagy ha az értékesítés már megtörtént, a dematerializált értékpapír ellenértékét.<ujsor/>
-A részvényes az 1/2010(XII.2.) sz. alapítói határozatának meghozatalával egyidejûleg és annak tartalma szerint módosította a társaság alapító okiratát, és a módosítással egységes szerkezetben külön okiratba foglalta.<ujsor/>
+<mezo id = "szoveg">A Mecseki ErdÃ©szeti ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [02 10 060093]; szÃ©khelye: 7623 PÃ©cs, RÃ©t u. 8.; adÃ³szÃ¡m: [11009429-2-02]; bankszÃ¡mlaszÃ¡m: CIB Bank Zrt. 10700055-25066007-53400002; kÃ©pviseli: Keszi LÃ¡szlÃ³ vezÃ©rigazgatÃ³) Â­ az egyszemÃ©lyi tulajdonosi joggyakorlÃ³ MFB Magyar FejlesztÃ©si Bank ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 041712]; szÃ©khelye: 1051 Budapest, NÃ¡dor u. 31.; a tovÃ¡bbiakban: rÃ©szvÃ©nyes) az 1/2010(XII.2.) sz. alapÃ­tÃ³i hatÃ¡rozatban foglaltak szerint Â­ a GazdasÃ¡gi tÃ¡rsasÃ¡gokrÃ³l szÃ³lÃ³ 2006. Ã©vi IV. tÃ¶rvÃ©ny (Gt.), illetve a tÅ‘kepiacrÃ³l szÃ³lÃ³ 2001. Ã©vi CXX. tÃ¶rvÃ©ny (Tpt.) rendelkezÃ©seivel Ã¶sszhangban az alÃ¡bbi hirdetmÃ©nyt teszi kÃ¶zzÃ©:<ujsor/>
+A rÃ©szvÃ©nyes az 1/2010(XII.2.) sz. alapÃ­tÃ³i hatÃ¡rozatban rendelkezett arrÃ³l, hogy a tÃ¡rsasÃ¡g teljes alaptÅ‘kÃ©jÃ©t megtestesÃ­tÅ‘ 1 767 990 E Ft (egymilliÃ¡rd-hÃ©tszÃ¡zhatvanhÃ©tmilliÃ³-kilencszÃ¡zkilencvenezer forint) Ã¶ssznÃ©vÃ©rtÃ©kÅ± rÃ©szvÃ©nyÃ©t dematerializÃ¡lt formÃ¡ban bocsÃ¡tja ki.<ujsor/>
+A tÃ¡rsasÃ¡g tÃ¡jÃ©koztatja a rÃ©szvÃ©nyest az alÃ¡bbiakrÃ³l:<ujsor/>
+Az Ã¡talakÃ­tÃ¡s megkezdÃ©sÃ©nek idÅ‘pontja: 2011. januÃ¡r 31.<ujsor/>
+Az Ã¡talakÃ­tÃ¡s idÅ‘tartama: a megkezdÃ©stÅ‘l szÃ¡mÃ­tott 60 nap, amely 2011. mÃ¡rcius 31-ig (ez a nap a benyÃºjtÃ¡sra megjelÃ¶lt utolsÃ³ nap) tart.<ujsor/>
+Az Ã¡talakÃ­tÃ¡s lezÃ¡rÃ¡sÃ¡nak idÅ‘pontja: 2011. mÃ¡rcius 31., azzal, hogy amennyiben a nyomdai Ãºton elÅ‘Ã¡llÃ­tott rÃ©szvÃ©nyek 2011. mÃ¡rcius 31-Ã©t megelÅ‘zÅ‘en hiÃ¡nytalanul Ã©s Ã©rvÃ©nyesen benyÃºjtÃ¡sra kerÃ¼lnek, az Ã¡talakÃ­tÃ¡s folyamata hamarabb is lezÃ¡rhatÃ³. Ebben az esetben az Ã¡talakÃ­tÃ¡s idÅ‘pontja a hiÃ¡nytalan Ã©s Ã©rvÃ©nyes benyÃºjtÃ¡s napjÃ¡t kÃ¶vetÅ‘ elsÅ‘ munkanap lesz.<ujsor/>
+Az Ã¡talakÃ­tÃ¡s napja: 2011. Ã¡prilis 1., amely a rÃ©szvÃ©nyek benyÃºjtÃ¡sÃ¡ra megjelÃ¶lt utolsÃ³ napot kÃ¶vetÅ‘ munkanap. Az Ã¡talakÃ­tÃ¡s napjÃ¡val a tÃ¡rsasÃ¡g az Ã¡talakÃ­tott Ã©rtÃ©kpapÃ­r-sorozatot Ã©rvÃ©nytelennek nyilvÃ¡nÃ­tja, Ã©s dematerializÃ¡lt Ã©rtÃ©kpapÃ­rrÃ¡ alakÃ­tja.<ujsor/>
+A tÃ¡rsasÃ¡g felszÃ³lÃ­tja a rÃ©szvÃ©nyest arra, hogy a nyomdai Ãºton elÅ‘Ã¡llÃ­tott rÃ©szvÃ©nyeit 2011. januÃ¡r 31. Ã©s 2011. mÃ¡rcius 31-e kÃ¶zÃ¶tt nyÃºjtsa be az Ã¼zleti Ã³rÃ¡kban, a tÃ¡rsasÃ¡g (kibocsÃ¡tÃ³) 7623 PÃ©cs, RÃ©t u. 8. szÃ¡m alatti szÃ©khelyÃ©n.<ujsor/>
+A rÃ©szvÃ©nyes kÃ¶telezettsÃ©get vÃ¡llal arra, hogy a rÃ©szvÃ©nyÃ¡talakÃ­tÃ¡s cÃ©gjegyzÃ©kbe tÃ¶rtÃ©nt vÃ¡ltozÃ¡sbejegyzÃ©sÃ©t kÃ¶vetÅ‘en a dematerializÃ¡lt rÃ©szvÃ©nyeket a KELER Zrt.-nÃ©l vezetett szÃ¡mlÃ¡ja mellett a tÃ¡rsasÃ¡g nevÃ©n megnyitott alszÃ¡mlÃ¡n helyezi el. A rÃ©szvÃ©nyes az Ã©rtÃ©kpapÃ­rszÃ¡mla szÃ¡mÃ¡nak Ã©s elnevezÃ©sÃ©nek megjelÃ¶lÃ©sÃ©vel a tÃ¡rsasÃ¡got haladÃ©ktalanul Ã©rtesÃ­ti.<ujsor/>
+A tÃ¡rsasÃ¡g figyelmezteti a rÃ©szvÃ©nyest, hogy<ujsor/>
+Â­ a rÃ©szvÃ©nyes a benyÃºjtÃ¡ssal egyidejÅ±leg kÃ¶teles megjelÃ¶lni azt a befektetÃ©si szolgÃ¡ltatÃ³t, amellyel Ã©rtÃ©kpapÃ­rszÃ¡mla-szerzÅ‘dÃ©st kÃ¶tÃ¶tt, ennek hiÃ¡nyÃ¡ban Ãºgy tekintik, mint aki a benyÃºjtÃ¡st elmulasztotta,<ujsor/>
+Â­ a kÃ¶zponti Ã©rtÃ©ktÃ¡rnÃ¡l letÃ©tkÃ©nt elhelyezett Ã©rtÃ©kpapÃ­rok benyÃºjtottnak tekintendÅ‘k, ha az Ã©rtÃ©kpapÃ­r tulajdonosa Ã©rtÃ©kpapÃ­rszÃ¡mlÃ¡val rendelkezik,<ujsor/>
+Â­ a be nem nyÃºjtott, nyomdai Ãºton elÅ‘Ã¡llÃ­tott Ã©rtÃ©kpapÃ­r helyÃ©be lÃ©pÅ‘ dematerializÃ¡lt Ã©rtÃ©kpapÃ­rok tulajdonjoga a nyomdai Ãºton elÅ‘Ã¡llÃ­tott Ã©rtÃ©kpapÃ­r utolsÃ³ tulajdonosÃ¡t illeti meg.<ujsor/>
+Az Ã©rvÃ©nytelennÃ© nyilvÃ¡nÃ­tott Ã©rtÃ©kpapÃ­r tulajdonosa kÃ¶vetelheti a dematerializÃ¡lt Ã©rtÃ©kpapÃ­r kiadÃ¡sÃ¡t, vagy ha az Ã©rtÃ©kesÃ­tÃ©s mÃ¡r megtÃ¶rtÃ©nt, a dematerializÃ¡lt Ã©rtÃ©kpapÃ­r ellenÃ©rtÃ©kÃ©t.<ujsor/>
+A rÃ©szvÃ©nyes az 1/2010(XII.2.) sz. alapÃ­tÃ³i hatÃ¡rozatÃ¡nak meghozatalÃ¡val egyidejÅ±leg Ã©s annak tartalma szerint mÃ³dosÃ­totta a tÃ¡rsasÃ¡g alapÃ­tÃ³ okiratÃ¡t, Ã©s a mÃ³dosÃ­tÃ¡ssal egysÃ©ges szerkezetben kÃ¼lÃ¶n okiratba foglalta.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0210060093</mezo>
-<mezo id = "nev">Mecseki Erdészeti Részvénytársaság</mezo>
-<mezo id = "cim">7623 Pécs</mezo>
+<mezo id = "nev">Mecseki ErdÃ©szeti RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">7623 PÃ©cs</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Mecseki Erdészeti Zártkörûen Mûködõ Részvénytársaság (Cg.: [02 10 060093]; székhely: 7623 Pécs, Rét u. 8.; adószám: [11009429-2-02]; bankszámlaszám: CIB Bank Zrt. 10700055-25066007-53400002; képviseli: Keszi László vezérigazgató) ­ az egyszemélyi tulajdonosi joggyakorló MFB Magyar Fejlesztési Bank Zártkörûen Mûködõ Részvénytársaság (Cg.: 01 10 041712]; székhely: 1051 Budapest, Nádor u. 31.; a továbbiakban: részvényes) az 1/2010(XII.2.) sz. alapítói határozatban foglaltak szerint ­ a Gazdasági társaságokról szóló 2006. évi IV. törvény (Gt.), illetve a Tõkepiacról szóló 2001. évi CXX. törvény (Tpt.) rendelkezéseivel összhangban közzéteszi, hogy a részvényes az 1/2010(XII.2.) sz. alapítói határozatban rendelkezett arról, hogy a társaság teljes alaptõkéjét megtestesítõ 1 767 990 000 Ft (egymilliárd-hétszázhatvanhétmillió-kilencszázkilencvenezer forint) össznévértékû részvényét dematerializált formában bocsátja ki.<ujsor/>
-A társaság ezúton tájékoztatja a részvényest az alábbiakról:<ujsor/>
-Az átalakítás megkezdésének idõpontja: 2011. január 31.<ujsor/>
-Az átalakítás idõtartama: a megkezdéstõl számított 60 nap, amely 2011. március 31-ig (ez a nap a benyújtásra megjelölt utolsó nap) tart.<ujsor/>
-Az átalakítás lezárásának idõpontja: 2011. március 31., azzal, hogy amennyiben a nyomdai úton elõállított részvények 2011. március 31-ét megelõzõen hiánytalanul és érvényesen benyújtásra kerülnek, az átalakítás folyamata hamarabb is lezárható. Ebben az esetben az átalakítás idõpontja a hiánytalan és érvényes benyújtás napját követõ elsõ munkanap lesz.<ujsor/>
-Az átalakítás napja: 2011. április 1., amely a részvények benyújtására megjelölt utolsó napot követõ munkanap. Az átalakítás napjával a társaság az átalakított értékpapír-sorozatot érvénytelennek nyilvánítja és dematerializált értékpapírrá alakítja.<ujsor/>
-A társaság felszólítja a részvényest arra, hogy a nyomdai úton elõállított részvényeit 2011. január 31. és 2011. március 31. között nyújtsa be az üzleti órákban a társaság (kibocsátó) 7623 Pécs, Rét u. 8. szám alatti székhelyén.<ujsor/>
-A részvényes kötelezettséget vállal arra, hogy a részvényátalakítás cégjegyzékbe történt változásbejegyzését követõen a dematerializált részvényeket a KELER Zrt.-nél vezetett számlája mellett a társaság nevén megnyitott alszámlán helyezi el.<ujsor/>
-A részvényes az értékpapírszámla számának és elnevezésének megjelölésével a társaságot haladéktalanul értesíti.<ujsor/>
-A társaság figyelmezteti a részvényest, hogy<ujsor/>
-­ a részvényes a benyújtással egyidejûleg köteles megjelölni azt a befektetési szolgáltatót, amellyel értékpapírszámla-szerzõdést kötött, ennek hiányában úgy tekintik, mint aki a benyújtást elmulasztotta,<ujsor/>
-­ a központi értéktárnál letétként elhelyezett értékpapírok benyújtottnak tekintendõk, ha az értékpapír tulajdonosa értékpapírszámlával rendelkezik,<ujsor/>
-­ a be nem nyújtott, nyomdai úton elõállított értékpapír helyébe lépõ dematerializált értékpapírok tulajdonjoga a nyomdai úton elõállított értékpapír utolsó tulajdonosát illeti meg.<ujsor/>
-Az érvénytelenné nyilvánított értékpapír tulajdonosa követelheti a dematerializált értékpapír kiadását, vagy ha az értékesítés már megtörtént, a dematerializált értékpapír ellenértékét.<ujsor/>
-A részvényes az 1/2010(XII.2.) sz. alapítói határozatának meghozatalával egyidejûleg és annak tartalma szerint módosította a társaság alapító okiratát és a módosítással egységes szerkezetben külön okiratba foglalta.<ujsor/>
+<mezo id = "szoveg">A Mecseki ErdÃ©szeti ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [02 10 060093]; szÃ©khely: 7623 PÃ©cs, RÃ©t u. 8.; adÃ³szÃ¡m: [11009429-2-02]; bankszÃ¡mlaszÃ¡m: CIB Bank Zrt. 10700055-25066007-53400002; kÃ©pviseli: Keszi LÃ¡szlÃ³ vezÃ©rigazgatÃ³) Â­ az egyszemÃ©lyi tulajdonosi joggyakorlÃ³ MFB Magyar FejlesztÃ©si Bank ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: 01 10 041712]; szÃ©khely: 1051 Budapest, NÃ¡dor u. 31.; a tovÃ¡bbiakban: rÃ©szvÃ©nyes) az 1/2010(XII.2.) sz. alapÃ­tÃ³i hatÃ¡rozatban foglaltak szerint Â­ a GazdasÃ¡gi tÃ¡rsasÃ¡gokrÃ³l szÃ³lÃ³ 2006. Ã©vi IV. tÃ¶rvÃ©ny (Gt.), illetve a TÅ‘kepiacrÃ³l szÃ³lÃ³ 2001. Ã©vi CXX. tÃ¶rvÃ©ny (Tpt.) rendelkezÃ©seivel Ã¶sszhangban kÃ¶zzÃ©teszi, hogy a rÃ©szvÃ©nyes az 1/2010(XII.2.) sz. alapÃ­tÃ³i hatÃ¡rozatban rendelkezett arrÃ³l, hogy a tÃ¡rsasÃ¡g teljes alaptÅ‘kÃ©jÃ©t megtestesÃ­tÅ‘ 1 767 990 000 Ft (egymilliÃ¡rd-hÃ©tszÃ¡zhatvanhÃ©tmilliÃ³-kilencszÃ¡zkilencvenezer forint) Ã¶ssznÃ©vÃ©rtÃ©kÅ± rÃ©szvÃ©nyÃ©t dematerializÃ¡lt formÃ¡ban bocsÃ¡tja ki.<ujsor/>
+A tÃ¡rsasÃ¡g ezÃºton tÃ¡jÃ©koztatja a rÃ©szvÃ©nyest az alÃ¡bbiakrÃ³l:<ujsor/>
+Az Ã¡talakÃ­tÃ¡s megkezdÃ©sÃ©nek idÅ‘pontja: 2011. januÃ¡r 31.<ujsor/>
+Az Ã¡talakÃ­tÃ¡s idÅ‘tartama: a megkezdÃ©stÅ‘l szÃ¡mÃ­tott 60 nap, amely 2011. mÃ¡rcius 31-ig (ez a nap a benyÃºjtÃ¡sra megjelÃ¶lt utolsÃ³ nap) tart.<ujsor/>
+Az Ã¡talakÃ­tÃ¡s lezÃ¡rÃ¡sÃ¡nak idÅ‘pontja: 2011. mÃ¡rcius 31., azzal, hogy amennyiben a nyomdai Ãºton elÅ‘Ã¡llÃ­tott rÃ©szvÃ©nyek 2011. mÃ¡rcius 31-Ã©t megelÅ‘zÅ‘en hiÃ¡nytalanul Ã©s Ã©rvÃ©nyesen benyÃºjtÃ¡sra kerÃ¼lnek, az Ã¡talakÃ­tÃ¡s folyamata hamarabb is lezÃ¡rhatÃ³. Ebben az esetben az Ã¡talakÃ­tÃ¡s idÅ‘pontja a hiÃ¡nytalan Ã©s Ã©rvÃ©nyes benyÃºjtÃ¡s napjÃ¡t kÃ¶vetÅ‘ elsÅ‘ munkanap lesz.<ujsor/>
+Az Ã¡talakÃ­tÃ¡s napja: 2011. Ã¡prilis 1., amely a rÃ©szvÃ©nyek benyÃºjtÃ¡sÃ¡ra megjelÃ¶lt utolsÃ³ napot kÃ¶vetÅ‘ munkanap. Az Ã¡talakÃ­tÃ¡s napjÃ¡val a tÃ¡rsasÃ¡g az Ã¡talakÃ­tott Ã©rtÃ©kpapÃ­r-sorozatot Ã©rvÃ©nytelennek nyilvÃ¡nÃ­tja Ã©s dematerializÃ¡lt Ã©rtÃ©kpapÃ­rrÃ¡ alakÃ­tja.<ujsor/>
+A tÃ¡rsasÃ¡g felszÃ³lÃ­tja a rÃ©szvÃ©nyest arra, hogy a nyomdai Ãºton elÅ‘Ã¡llÃ­tott rÃ©szvÃ©nyeit 2011. januÃ¡r 31. Ã©s 2011. mÃ¡rcius 31. kÃ¶zÃ¶tt nyÃºjtsa be az Ã¼zleti Ã³rÃ¡kban a tÃ¡rsasÃ¡g (kibocsÃ¡tÃ³) 7623 PÃ©cs, RÃ©t u. 8. szÃ¡m alatti szÃ©khelyÃ©n.<ujsor/>
+A rÃ©szvÃ©nyes kÃ¶telezettsÃ©get vÃ¡llal arra, hogy a rÃ©szvÃ©nyÃ¡talakÃ­tÃ¡s cÃ©gjegyzÃ©kbe tÃ¶rtÃ©nt vÃ¡ltozÃ¡sbejegyzÃ©sÃ©t kÃ¶vetÅ‘en a dematerializÃ¡lt rÃ©szvÃ©nyeket a KELER Zrt.-nÃ©l vezetett szÃ¡mlÃ¡ja mellett a tÃ¡rsasÃ¡g nevÃ©n megnyitott alszÃ¡mlÃ¡n helyezi el.<ujsor/>
+A rÃ©szvÃ©nyes az Ã©rtÃ©kpapÃ­rszÃ¡mla szÃ¡mÃ¡nak Ã©s elnevezÃ©sÃ©nek megjelÃ¶lÃ©sÃ©vel a tÃ¡rsasÃ¡got haladÃ©ktalanul Ã©rtesÃ­ti.<ujsor/>
+A tÃ¡rsasÃ¡g figyelmezteti a rÃ©szvÃ©nyest, hogy<ujsor/>
+Â­ a rÃ©szvÃ©nyes a benyÃºjtÃ¡ssal egyidejÅ±leg kÃ¶teles megjelÃ¶lni azt a befektetÃ©si szolgÃ¡ltatÃ³t, amellyel Ã©rtÃ©kpapÃ­rszÃ¡mla-szerzÅ‘dÃ©st kÃ¶tÃ¶tt, ennek hiÃ¡nyÃ¡ban Ãºgy tekintik, mint aki a benyÃºjtÃ¡st elmulasztotta,<ujsor/>
+Â­ a kÃ¶zponti Ã©rtÃ©ktÃ¡rnÃ¡l letÃ©tkÃ©nt elhelyezett Ã©rtÃ©kpapÃ­rok benyÃºjtottnak tekintendÅ‘k, ha az Ã©rtÃ©kpapÃ­r tulajdonosa Ã©rtÃ©kpapÃ­rszÃ¡mlÃ¡val rendelkezik,<ujsor/>
+Â­ a be nem nyÃºjtott, nyomdai Ãºton elÅ‘Ã¡llÃ­tott Ã©rtÃ©kpapÃ­r helyÃ©be lÃ©pÅ‘ dematerializÃ¡lt Ã©rtÃ©kpapÃ­rok tulajdonjoga a nyomdai Ãºton elÅ‘Ã¡llÃ­tott Ã©rtÃ©kpapÃ­r utolsÃ³ tulajdonosÃ¡t illeti meg.<ujsor/>
+Az Ã©rvÃ©nytelennÃ© nyilvÃ¡nÃ­tott Ã©rtÃ©kpapÃ­r tulajdonosa kÃ¶vetelheti a dematerializÃ¡lt Ã©rtÃ©kpapÃ­r kiadÃ¡sÃ¡t, vagy ha az Ã©rtÃ©kesÃ­tÃ©s mÃ¡r megtÃ¶rtÃ©nt, a dematerializÃ¡lt Ã©rtÃ©kpapÃ­r ellenÃ©rtÃ©kÃ©t.<ujsor/>
+A rÃ©szvÃ©nyes az 1/2010(XII.2.) sz. alapÃ­tÃ³i hatÃ¡rozatÃ¡nak meghozatalÃ¡val egyidejÅ±leg Ã©s annak tartalma szerint mÃ³dosÃ­totta a tÃ¡rsasÃ¡g alapÃ­tÃ³ okiratÃ¡t Ã©s a mÃ³dosÃ­tÃ¡ssal egysÃ©ges szerkezetben kÃ¼lÃ¶n okiratba foglalta.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0210060093</mezo>
-<mezo id = "nev">Mecseki Erdészeti Részvénytársaság</mezo>
-<mezo id = "cim">7623 Pécs</mezo>
+<mezo id = "nev">Mecseki ErdÃ©szeti RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">7623 PÃ©cs</mezo>
 </alrovat>
 </rovat>
 <rovat id = "99017">

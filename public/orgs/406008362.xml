@@ -6,7 +6,7 @@
 <mezo id = "szam">008362</mezo>
 <mezo id = "nevalrovat">3</mezo>
 <mezo id = "allapot">3</mezo>
-<mezo id = "cim">5820 Mezõhegyes, Kórház u. 5. </mezo>
+<mezo id = "cim">5820 MezÅ‘hegyes, KÃ³rhÃ¡z u. 5. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">22285975204</mezo>
 </alrovat>
@@ -14,7 +14,7 @@
 <rovat id = "2">
 <alrovat id = "3">
 <mezo id = "hattol">20110302</mezo>
-<mezo id = "nev">FP-SPORTS Kereskedelmi és Szolgáltató Betéti Társaság &quot;végelszámolás alatt&quot;</mezo>
+<mezo id = "nev">FP-SPORTS Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ BetÃ©ti TÃ¡rsasÃ¡g &quot;vÃ©gelszÃ¡molÃ¡s alatt&quot;</mezo>
 <mezo id = "valtk">20110302</mezo>
 <mezo id = "bkelt">20110316</mezo>
 </alrovat>
@@ -31,8 +31,8 @@
 <alrovat id = "1">
 <mezo id = "hattol">20060428</mezo>
 <mezo id = "irsz">5820</mezo>
-<mezo id = "hely">Mezõhegyes</mezo>
-<mezo id = "teru">Kórház u. 5.</mezo>
+<mezo id = "hely">MezÅ‘hegyes</mezo>
+<mezo id = "teru">KÃ³rhÃ¡z u. 5.</mezo>
 <mezo id = "kirsz">0</mezo>
 </alrovat>
 </rovat>
@@ -40,19 +40,19 @@
 <alrovat id = "1">
 <mezo id = "hattol">20060627</mezo>
 <mezo id = "irsz">5900</mezo>
-<mezo id = "hely">Orosháza, Szentesi út 78.</mezo>
+<mezo id = "hely">OroshÃ¡za, Szentesi Ãºt 78.</mezo>
 <mezo id = "orsz">HU</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20060627</mezo>
 <mezo id = "irsz">5919</mezo>
-<mezo id = "hely">Pusztaföldvár, Hunyadi u. 4.</mezo>
+<mezo id = "hely">PusztafÃ¶ldvÃ¡r, Hunyadi u. 4.</mezo>
 <mezo id = "orsz">HU</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20060627</mezo>
 <mezo id = "irsz">5540</mezo>
-<mezo id = "hely">Szarvas , Rózsa u. 2.</mezo>
+<mezo id = "hely">Szarvas , RÃ³zsa u. 2.</mezo>
 <mezo id = "orsz">HU</mezo>
 </alrovat>
 </rovat>
@@ -233,12 +233,12 @@
 <rovat id = "13">
 <alrovat id = "4">
 <mezo id = "hattol">20110302</mezo>
-<mezo id = "tiszt">végelszámoló</mezo>
-<mezo id = "pnev">Kassai Béláné</mezo>
+<mezo id = "tiszt">vÃ©gelszÃ¡molÃ³</mezo>
+<mezo id = "pnev">Kassai BÃ©lÃ¡nÃ©</mezo>
 <mezo id = "panev">Ramasz Piroska</mezo>
 <mezo id = "pirsz">5820</mezo>
-<mezo id = "phely">Mezõhegyes</mezo>
-<mezo id = "pteru">Kórház u. 5.</mezo>
+<mezo id = "phely">MezÅ‘hegyes</mezo>
+<mezo id = "pteru">KÃ³rhÃ¡z u. 5.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20110302</mezo>
 <mezo id = "valtk">20110302</mezo>
@@ -270,10 +270,10 @@
 <rovat id = "0106">
 <alrovat id = "1">
 <mezo id = "hattol">20060428</mezo>
-<mezo id = "pnev">Kassai Béláné</mezo>
+<mezo id = "pnev">Kassai BÃ©lÃ¡nÃ©</mezo>
 <mezo id = "panev">Ramasz Piroska</mezo>
 <mezo id = "pirsz">5820</mezo>
-<mezo id = "phely">Mezõhegyes, Kórház u. 5.</mezo>
+<mezo id = "phely">MezÅ‘hegyes, KÃ³rhÃ¡z u. 5.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0206">
@@ -282,7 +282,7 @@
 <mezo id = "pnev">Kassai Zsolt Tibor</mezo>
 <mezo id = "panev">Pethes Piroska</mezo>
 <mezo id = "pirsz">5820</mezo>
-<mezo id = "phely">Mezõhegyes, Kórház u. 3.</mezo>
+<mezo id = "phely">MezÅ‘hegyes, KÃ³rhÃ¡z u. 3.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "93">
@@ -294,42 +294,42 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az FP-SPORTS Kereskedelmi és Szolgáltató Betéti Társaság (Cg.: [04 06 008363]; székhelye: 5820 Mezõhegyes, Kórház u. 5.; adószáma: [22285975-2-04]) 2008. december 15-én megtartott közgyûlésén meghozott 1/2008. (XII. 15.) tgy. határozattal elhatározta<ujsor/>
-egyszerûsített végelszámolás<ujsor/>
-útján való, jogutód nélküli megszûnését 2008. december 15-i kezdõ idõponttal.<ujsor/>
-A társaság végelszámolója: Kassai Béláné Ramasz Piroska (a. n.: Pethes Piroska; 5820 Mezõhegyes, Kórház u. 5.).<ujsor/>
-A korábbi vezetõ tisztségviselõ jogviszonya megszûnt.<ujsor/>
-A korábbi társaság felhívja az esetleges hitelezõit, hogy igényüket a közzétételtõl számított 40 napon belül a társaság végelszámolójánál jelentsék be.<ujsor/>
+<mezo id = "szoveg">Az FP-SPORTS Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ BetÃ©ti TÃ¡rsasÃ¡g (Cg.: [04 06 008363]; szÃ©khelye: 5820 MezÅ‘hegyes, KÃ³rhÃ¡z u. 5.; adÃ³szÃ¡ma: [22285975-2-04]) 2008. december 15-Ã©n megtartott kÃ¶zgyÅ±lÃ©sÃ©n meghozott 1/2008. (XII. 15.) tgy. hatÃ¡rozattal elhatÃ¡rozta<ujsor/>
+egyszerÅ±sÃ­tett vÃ©gelszÃ¡molÃ¡s<ujsor/>
+ÃºtjÃ¡n valÃ³, jogutÃ³d nÃ©lkÃ¼li megszÅ±nÃ©sÃ©t 2008. december 15-i kezdÅ‘ idÅ‘ponttal.<ujsor/>
+A tÃ¡rsasÃ¡g vÃ©gelszÃ¡molÃ³ja: Kassai BÃ©lÃ¡nÃ© Ramasz Piroska (a. n.: Pethes Piroska; 5820 MezÅ‘hegyes, KÃ³rhÃ¡z u. 5.).<ujsor/>
+A korÃ¡bbi vezetÅ‘ tisztsÃ©gviselÅ‘ jogviszonya megszÅ±nt.<ujsor/>
+A korÃ¡bbi tÃ¡rsasÃ¡g felhÃ­vja az esetleges hitelezÅ‘it, hogy igÃ©nyÃ¼ket a kÃ¶zzÃ©tÃ©teltÅ‘l szÃ¡mÃ­tott 40 napon belÃ¼l a tÃ¡rsasÃ¡g vÃ©gelszÃ¡molÃ³jÃ¡nÃ¡l jelentsÃ©k be.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0406008362</mezo>
-<mezo id = "nev">FP-SPORTS Kereskedelmi és Szolgáltató Betéti Társaság</mezo>
-<mezo id = "cim">5820 Mezõhegyes</mezo>
+<mezo id = "nev">FP-SPORTS Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ BetÃ©ti TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">5820 MezÅ‘hegyes</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a változásbejegyzés iránt 2010. május 26. napján elõterjesztett kérelmet hiánypótlási eljárás lefolytatása nélkül elutasítja.<ujsor/>
-A végzés ellen a kézbesítéstõl számított 15 (tizenöt) napon belül a Fõvárosi Ítélõtáblához címzett, de a Békés Megyei Bíróságnál, mint Cégbíróságnál 3 (három) példányban benyújtható fellebbezésnek van helye. A fellebbezés elsõ példányára 7.000.-Ft (hétezer forint) eljárási illetéket kell leróni. A Fõvárosi Ítélõtábla elõtti eljárásban a fellebbezést elõterjesztõ fél részére a jogi képviselet kötelezõ.<ujsor/>
-Ha a végzés közlését követõen nyolc napon belül ismételten kérik a változás bejegyzését, az elutasításhoz fûzõdõ jogkövetkezmények nem alkalmazhatók, és a korábban benyújtott okiratok ismételten felhasználhatók az új bejegyzési kérelemhez.<ujsor/>
-- nyugdíj-biztosítási igazgatási szerv igazolását a cég biztosítottjai adatainak átadásáról (Ctv. 1. számú melléklet V.1.e., pontja). A változásbejegyzést kérõ ugyanis a fenti elnevezés alatt a kérelem elbírálásához nem szükséges Dél-alföldi Regionális Egészségbiztosítási Pénztár hatósági bizonyítványát csatolta.<ujsor/>
-2010. május 27.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a vÃ¡ltozÃ¡sbejegyzÃ©s irÃ¡nt 2010. mÃ¡jus 26. napjÃ¡n elÅ‘terjesztett kÃ©relmet hiÃ¡nypÃ³tlÃ¡si eljÃ¡rÃ¡s lefolytatÃ¡sa nÃ©lkÃ¼l elutasÃ­tja.<ujsor/>
+A vÃ©gzÃ©s ellen a kÃ©zbesÃ­tÃ©stÅ‘l szÃ¡mÃ­tott 15 (tizenÃ¶t) napon belÃ¼l a FÅ‘vÃ¡rosi ÃtÃ©lÅ‘tÃ¡blÃ¡hoz cÃ­mzett, de a BÃ©kÃ©s Megyei BÃ­rÃ³sÃ¡gnÃ¡l, mint CÃ©gbÃ­rÃ³sÃ¡gnÃ¡l 3 (hÃ¡rom) pÃ©ldÃ¡nyban benyÃºjthatÃ³ fellebbezÃ©snek van helye. A fellebbezÃ©s elsÅ‘ pÃ©ldÃ¡nyÃ¡ra 7.000.-Ft (hÃ©tezer forint) eljÃ¡rÃ¡si illetÃ©ket kell lerÃ³ni. A FÅ‘vÃ¡rosi ÃtÃ©lÅ‘tÃ¡bla elÅ‘tti eljÃ¡rÃ¡sban a fellebbezÃ©st elÅ‘terjesztÅ‘ fÃ©l rÃ©szÃ©re a jogi kÃ©pviselet kÃ¶telezÅ‘.<ujsor/>
+Ha a vÃ©gzÃ©s kÃ¶zlÃ©sÃ©t kÃ¶vetÅ‘en nyolc napon belÃ¼l ismÃ©telten kÃ©rik a vÃ¡ltozÃ¡s bejegyzÃ©sÃ©t, az elutasÃ­tÃ¡shoz fÅ±zÅ‘dÅ‘ jogkÃ¶vetkezmÃ©nyek nem alkalmazhatÃ³k, Ã©s a korÃ¡bban benyÃºjtott okiratok ismÃ©telten felhasznÃ¡lhatÃ³k az Ãºj bejegyzÃ©si kÃ©relemhez.<ujsor/>
+- nyugdÃ­j-biztosÃ­tÃ¡si igazgatÃ¡si szerv igazolÃ¡sÃ¡t a cÃ©g biztosÃ­tottjai adatainak Ã¡tadÃ¡sÃ¡rÃ³l (Ctv. 1. szÃ¡mÃº mellÃ©klet V.1.e., pontja). A vÃ¡ltozÃ¡sbejegyzÃ©st kÃ©rÅ‘ ugyanis a fenti elnevezÃ©s alatt a kÃ©relem elbÃ­rÃ¡lÃ¡sÃ¡hoz nem szÃ¼ksÃ©ges DÃ©l-alfÃ¶ldi RegionÃ¡lis EgÃ©szsÃ©gbiztosÃ­tÃ¡si PÃ©nztÃ¡r hatÃ³sÃ¡gi bizonyÃ­tvÃ¡nyÃ¡t csatolta.<ujsor/>
+2010. mÃ¡jus 27.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0406008362</mezo>
-<mezo id = "nev">FP-SPORTS Kereskedelmi és Szolgáltató Betéti Társaság</mezo>
-<mezo id = "cim">5820 Mezõhegyes, Kórház u 5.</mezo>
+<mezo id = "nev">FP-SPORTS Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ BetÃ©ti TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">5820 MezÅ‘hegyes, KÃ³rhÃ¡z u 5.</mezo>
 <mezo id = "adosz">22285975204</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a cég 2010. június 30. napján benyújtott változás bejegyzése iránti kérelmét elutasítja.<ujsor/>
-A végzés ellen a kézbesítéstõl számított 15 (tizenöt) napon belül a Fõvárosi Ïtélõtáblához címzett, de a Békés Megyei Bíróságnál, mint Cégbíróságnál 3 (három) példányban benyújtható fellebbezésnek van helye. A fellebbezés elsõ példányára 7.000.-Ft (hétezer forint) eljárási illetéket kell leróni. A Fõvárosi Ïtélõtábla elõtti eljárásban a fellebbezõ fél részére a jogi képviselet kötelezõ.<ujsor/>
-Az elutasító végzés ellen a cég, továbbá az akire a végzés rendelkezést tartalmaz - a rendelkezés rá vonatkozó része ellen- a cég számára nyitva álló határidõn belül - élhet fellebbezéssel.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a cÃ©g 2010. jÃºnius 30. napjÃ¡n benyÃºjtott vÃ¡ltozÃ¡s bejegyzÃ©se irÃ¡nti kÃ©relmÃ©t elutasÃ­tja.<ujsor/>
+A vÃ©gzÃ©s ellen a kÃ©zbesÃ­tÃ©stÅ‘l szÃ¡mÃ­tott 15 (tizenÃ¶t) napon belÃ¼l a FÅ‘vÃ¡rosi ÄtÃ©lÅ‘tÃ¡blÃ¡hoz cÃ­mzett, de a BÃ©kÃ©s Megyei BÃ­rÃ³sÃ¡gnÃ¡l, mint CÃ©gbÃ­rÃ³sÃ¡gnÃ¡l 3 (hÃ¡rom) pÃ©ldÃ¡nyban benyÃºjthatÃ³ fellebbezÃ©snek van helye. A fellebbezÃ©s elsÅ‘ pÃ©ldÃ¡nyÃ¡ra 7.000.-Ft (hÃ©tezer forint) eljÃ¡rÃ¡si illetÃ©ket kell lerÃ³ni. A FÅ‘vÃ¡rosi ÄtÃ©lÅ‘tÃ¡bla elÅ‘tti eljÃ¡rÃ¡sban a fellebbezÅ‘ fÃ©l rÃ©szÃ©re a jogi kÃ©pviselet kÃ¶telezÅ‘.<ujsor/>
+Az elutasÃ­tÃ³ vÃ©gzÃ©s ellen a cÃ©g, tovÃ¡bbÃ¡ az akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s rÃ¡ vonatkozÃ³ rÃ©sze ellen- a cÃ©g szÃ¡mÃ¡ra nyitva Ã¡llÃ³ hatÃ¡ridÅ‘n belÃ¼l - Ã©lhet fellebbezÃ©ssel.<ujsor/>
 2010. szeptember 22.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0406008362</mezo>
-<mezo id = "nev">FP-SPORTS Kereskedelmi és Szolgáltató Betéti Társaság</mezo>
-<mezo id = "cim">5820 Mezõhegyes, Kórház u 5.</mezo>
+<mezo id = "nev">FP-SPORTS Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ BetÃ©ti TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">5820 MezÅ‘hegyes, KÃ³rhÃ¡z u 5.</mezo>
 <mezo id = "adosz">22285975204</mezo>
 </alrovat>
 </rovat>

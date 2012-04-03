@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">011983</mezo>
 <mezo id = "nevalrovat">2</mezo>
-<mezo id = "cim">6720 Szeged, Dugonics tér 13. </mezo>
+<mezo id = "cim">6720 Szeged, Dugonics tÃ©r 13. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">14165009206</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20090707</mezo>
-<mezo id = "nev">InnoGeo Kutató és Szolgáltató Nonprofit Közhasznú Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">InnoGeo KutatÃ³ Ã©s SzolgÃ¡ltatÃ³ Nonprofit KÃ¶zhasznÃº KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">20090707</mezo>
 <mezo id = "bkelt">20090723</mezo>
 </alrovat>
@@ -21,7 +21,7 @@
 <rovat id = "3">
 <alrovat id = "2">
 <mezo id = "hattol">20090707</mezo>
-<mezo id = "nev">InnoGeo Nonprofit Közhasznú Kft.</mezo>
+<mezo id = "nev">InnoGeo Nonprofit KÃ¶zhasznÃº Kft.</mezo>
 <mezo id = "valtk">20090707</mezo>
 <mezo id = "bkelt">20090723</mezo>
 </alrovat>
@@ -29,7 +29,7 @@
 <rovat id = "4">
 <alrovat id = "2">
 <mezo id = "hattol">20090707</mezo>
-<mezo id = "nev">InnoGeo Nonprofit Public Benefit Rescarch Limited rövid elnevezése: InnoGeo Nonprofit Public Benefit Ltd.</mezo>
+<mezo id = "nev">InnoGeo Nonprofit Public Benefit Rescarch Limited rÃ¶vid elnevezÃ©se: InnoGeo Nonprofit Public Benefit Ltd.</mezo>
 <mezo id = "valtk">20090707</mezo>
 <mezo id = "bkelt">20090723</mezo>
 </alrovat>
@@ -39,7 +39,7 @@
 <mezo id = "hattol">20080111</mezo>
 <mezo id = "irsz">6720</mezo>
 <mezo id = "hely">Szeged</mezo>
-<mezo id = "teru">Dugonics tér 13.</mezo>
+<mezo id = "teru">Dugonics tÃ©r 13.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
@@ -51,7 +51,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20080111</mezo>
 <mezo id = "irsz">6782</mezo>
-<mezo id = "hely">Mórahalom, Röszkei út 49.</mezo>
+<mezo id = "hely">MÃ³rahalom, RÃ¶szkei Ãºt 49.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
@@ -381,9 +381,9 @@
 <rovat id = "13">
 <alrovat id = "2">
 <mezo id = "hattol">20101111</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Dr. Kóbor Balázs</mezo>
-<mezo id = "panev">Etényi Zsuzsanna</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Dr. KÃ³bor BalÃ¡zs</mezo>
+<mezo id = "panev">EtÃ©nyi Zsuzsanna</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20101111</mezo>
 <mezo id = "valtk">20101111</mezo>
@@ -394,8 +394,8 @@
 <rovat id = "14">
 <alrovat id = "2">
 <mezo id = "hattol">20101111</mezo>
-<mezo id = "pnev">Horváth Ildikó</mezo>
-<mezo id = "panev">Tóth Erzsébet</mezo>
+<mezo id = "pnev">HorvÃ¡th IldikÃ³</mezo>
+<mezo id = "panev">TÃ³th ErzsÃ©bet</mezo>
 <mezo id = "jogvk">20101111</mezo>
 <mezo id = "jogvv">20140531</mezo>
 <mezo id = "valtk">20101111</mezo>
@@ -405,8 +405,8 @@
 <rovat id = "15">
 <alrovat id = "4">
 <mezo id = "hattol">20101111</mezo>
-<mezo id = "pnev">Csányi László</mezo>
-<mezo id = "panev">Nagy Mária</mezo>
+<mezo id = "pnev">CsÃ¡nyi LÃ¡szlÃ³</mezo>
+<mezo id = "panev">Nagy MÃ¡ria</mezo>
 <mezo id = "jogvk">20101111</mezo>
 <mezo id = "jogvv">20140531</mezo>
 <mezo id = "valtk">20101111</mezo>
@@ -415,7 +415,7 @@
 <alrovat id = "5">
 <mezo id = "hattol">20101111</mezo>
 <mezo id = "pnev">Fodor Csaba</mezo>
-<mezo id = "panev">K. Tóth Aranka</mezo>
+<mezo id = "panev">K. TÃ³th Aranka</mezo>
 <mezo id = "jogvk">20101111</mezo>
 <mezo id = "jogvv">20140531</mezo>
 <mezo id = "valtk">20101111</mezo>
@@ -423,8 +423,8 @@
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20101111</mezo>
-<mezo id = "pnev">Dr. Medgyes Tamás</mezo>
-<mezo id = "panev">Kováts Erzsébet</mezo>
+<mezo id = "pnev">Dr. Medgyes TamÃ¡s</mezo>
+<mezo id = "panev">KovÃ¡ts ErzsÃ©bet</mezo>
 <mezo id = "jogvk">20101111</mezo>
 <mezo id = "jogvv">20140531</mezo>
 <mezo id = "valtk">20101111</mezo>
@@ -462,11 +462,11 @@
 <alrovat id = "1">
 <mezo id = "hattol">20080111</mezo>
 <mezo id = "cgjsz">609000110</mezo>
-<mezo id = "nev">AQUAPLUS Kútfúró, Kútjavító és Vízépítõ Kft.</mezo>
+<mezo id = "nev">AQUAPLUS KÃºtfÃºrÃ³, KÃºtjavÃ­tÃ³ Ã©s VÃ­zÃ©pÃ­tÅ‘ Kft.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">6762</mezo>
-<mezo id = "hely">Sándorfalva</mezo>
-<mezo id = "teru">Sövényházi út</mezo>
+<mezo id = "hely">SÃ¡ndorfalva</mezo>
+<mezo id = "teru">SÃ¶vÃ©nyhÃ¡zi Ãºt</mezo>
 <mezo id = "hsz">1.</mezo>
 <mezo id = "tagsk">20071220</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -478,11 +478,11 @@
 <alrovat id = "2">
 <mezo id = "hattol">20080111</mezo>
 <mezo id = "cgjsz">610000272</mezo>
-<mezo id = "nev">Árpád Agrár Zrt.</mezo>
+<mezo id = "nev">ÃrpÃ¡d AgrÃ¡r Zrt.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">6600</mezo>
 <mezo id = "hely">Szentes</mezo>
-<mezo id = "teru">Apponyi tér</mezo>
+<mezo id = "teru">Apponyi tÃ©r</mezo>
 <mezo id = "hsz">12.</mezo>
 <mezo id = "tagsk">20071220</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -493,11 +493,11 @@
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20080111</mezo>
-<mezo id = "nev">Geotermikus Koordinációs és Innovációs Alapítvány</mezo>
+<mezo id = "nev">Geotermikus KoordinÃ¡ciÃ³s Ã©s InnovÃ¡ciÃ³s AlapÃ­tvÃ¡ny</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">6720</mezo>
 <mezo id = "hely">Szeged</mezo>
-<mezo id = "teru">Dugonics tér</mezo>
+<mezo id = "teru">Dugonics tÃ©r</mezo>
 <mezo id = "hsz">13.</mezo>
 <mezo id = "tagsk">20071220</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -509,11 +509,11 @@
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20080111</mezo>
-<mezo id = "nev">Szegedi Tudományegyetem</mezo>
+<mezo id = "nev">Szegedi TudomÃ¡nyegyetem</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">6720</mezo>
 <mezo id = "hely">Szeged</mezo>
-<mezo id = "teru">Dugonics tér</mezo>
+<mezo id = "teru">Dugonics tÃ©r</mezo>
 <mezo id = "hsz">13.</mezo>
 <mezo id = "tagsk">20071220</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -526,22 +526,22 @@
 <alrovat id = "7">
 <mezo id = "hattol">20090707</mezo>
 <mezo id = "cgjsz">0609014117</mezo>
-<mezo id = "nev">Homokkert Kistérségi Integrációs Nonprofit Közhasznú Kft</mezo>
+<mezo id = "nev">Homokkert KistÃ©rsÃ©gi IntegrÃ¡ciÃ³s Nonprofit KÃ¶zhasznÃº Kft</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">6782</mezo>
-<mezo id = "hely">Mórahalom</mezo>
-<mezo id = "teru">Fesztivál köz 1.</mezo>
+<mezo id = "hely">MÃ³rahalom</mezo>
+<mezo id = "teru">FesztivÃ¡l kÃ¶z 1.</mezo>
 <mezo id = "tagsk">20071220</mezo>
 <mezo id = "valtk">20090707</mezo>
 <mezo id = "bkelt">20090723</mezo>
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">20101111</mezo>
-<mezo id = "nev">Mórahalom Város Önkormányzata</mezo>
+<mezo id = "nev">MÃ³rahalom VÃ¡ros Ã–nkormÃ¡nyzata</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">6782</mezo>
-<mezo id = "hely">Mórahalom</mezo>
-<mezo id = "teru">Millenniumi sétány 2.</mezo>
+<mezo id = "hely">MÃ³rahalom</mezo>
+<mezo id = "teru">Millenniumi sÃ©tÃ¡ny 2.</mezo>
 <mezo id = "tagsk">20101111</mezo>
 <mezo id = "valtk">20101111</mezo>
 <mezo id = "bkelt">20101125</mezo>
@@ -549,11 +549,11 @@
 <alrovat id = "9">
 <mezo id = "hattol">20101111</mezo>
 <mezo id = "cgjsz">0609014117</mezo>
-<mezo id = "nev">Homokkert Kistérségi Integáricós Nonprofit Közhasznú Kft.</mezo>
+<mezo id = "nev">Homokkert KistÃ©rsÃ©gi IntegÃ¡ricÃ³s Nonprofit KÃ¶zhasznÃº Kft.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">6782</mezo>
-<mezo id = "hely">Mórahalom</mezo>
-<mezo id = "teru">Fesztivál köz 1.</mezo>
+<mezo id = "hely">MÃ³rahalom</mezo>
+<mezo id = "teru">FesztivÃ¡l kÃ¶z 1.</mezo>
 <mezo id = "tagsk">20071220</mezo>
 <mezo id = "valtk">20101111</mezo>
 <mezo id = "bkelt">20101125</mezo>

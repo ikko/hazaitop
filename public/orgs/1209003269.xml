@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">003269</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">3123 Cered, Jókai út 4. </mezo>
+<mezo id = "cim">3123 Cered, JÃ³kai Ãºt 4. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">11852540212</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19990507</mezo>
-<mezo id = "nev">MEDVES 99 Vendéglátó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">MEDVES 99 VendÃ©glÃ¡tÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -27,7 +27,7 @@
 <mezo id = "hattol">20081124</mezo>
 <mezo id = "irsz">3123</mezo>
 <mezo id = "hely">Cered</mezo>
-<mezo id = "teru">Jókai út 4.</mezo>
+<mezo id = "teru">JÃ³kai Ãºt 4.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">20081124</mezo>
 <mezo id = "valtv">0</mezo>
@@ -39,7 +39,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20071220</mezo>
 <mezo id = "irsz">3300</mezo>
-<mezo id = "hely">Eger, Eszterházy tér 2.</mezo>
+<mezo id = "hely">Eger, EszterhÃ¡zy tÃ©r 2.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20071220</mezo>
 <mezo id = "valtv">0</mezo>
@@ -392,10 +392,10 @@
 <rovat id = "13">
 <alrovat id = "3">
 <mezo id = "hattol">20070815</mezo>
-<mezo id = "pnev">Simon László</mezo>
+<mezo id = "pnev">Simon LÃ¡szlÃ³</mezo>
 <mezo id = "panev">Mag Hajnalka</mezo>
 <mezo id = "pirsz">3300</mezo>
-<mezo id = "phely">Eger, Servita út 42.</mezo>
+<mezo id = "phely">Eger, Servita Ãºt 42.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">d</mezo>
 <mezo id = "jogvk">20070815</mezo>
@@ -421,37 +421,37 @@
 <mezo id = "adosz">11852540212</mezo>
 <mezo id = "kadosz">HU11852540</mezo>
 <mezo id = "bkelt">20111027</mezo>
-<mezo id = "megj">Státusz kezdete: 1999/04/22</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 1999/04/22</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0109">
 <alrovat id = "2">
 <mezo id = "hattol">19990507</mezo>
-<mezo id = "pnev">Fülöp Zsolt</mezo>
+<mezo id = "pnev">FÃ¼lÃ¶p Zsolt</mezo>
 <mezo id = "panev">Simon Sarolta</mezo>
 <mezo id = "pirsz">3123</mezo>
-<mezo id = "phely">Cered, Petõfi út 66.</mezo>
+<mezo id = "phely">Cered, PetÅ‘fi Ãºt 66.</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">19990507</mezo>
-<mezo id = "pnev">Jakab Pál</mezo>
+<mezo id = "pnev">Jakab PÃ¡l</mezo>
 <mezo id = "panev">Cene Anna</mezo>
 <mezo id = "pirsz">3123</mezo>
-<mezo id = "phely">Cered, Rózsafa út 50.</mezo>
+<mezo id = "phely">Cered, RÃ³zsafa Ãºt 50.</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">19990507</mezo>
 <mezo id = "pnev">Czene Ferenc</mezo>
 <mezo id = "panev">Nagy Katalin</mezo>
 <mezo id = "pirsz">3123</mezo>
-<mezo id = "phely">Cered, Petõfi út 43.</mezo>
+<mezo id = "phely">Cered, PetÅ‘fi Ãºt 43.</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20070815</mezo>
-<mezo id = "pnev">Simon László</mezo>
+<mezo id = "pnev">Simon LÃ¡szlÃ³</mezo>
 <mezo id = "panev">Mag Hajnalka</mezo>
 <mezo id = "pirsz">3300</mezo>
-<mezo id = "phely">Eger, Servita út 42.</mezo>
+<mezo id = "phely">Eger, Servita Ãºt 42.</mezo>
 <mezo id = "tagsk">19990421</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20070815</mezo>
@@ -469,13 +469,13 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a cég 2006. 12. 18. napján<ujsor/>
-benyújtott változás bejegyzése iránti kérelmét elutasítja.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a cÃ©g 2006. 12. 18. napjÃ¡n<ujsor/>
+benyÃºjtott vÃ¡ltozÃ¡s bejegyzÃ©se irÃ¡nti kÃ©relmÃ©t elutasÃ­tja.<ujsor/>
 2007. 03. 19.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1209003269</mezo>
-<mezo id = "nev">MEDVES 99 Vendéglátó Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">3123 Cered, Jókai út 10.</mezo>
+<mezo id = "nev">MEDVES 99 VendÃ©glÃ¡tÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">3123 Cered, JÃ³kai Ãºt 10.</mezo>
 <mezo id = "adosz">11852540212</mezo>
 </alrovat>
 </rovat>

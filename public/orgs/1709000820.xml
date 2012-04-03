@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">000820</mezo>
 <mezo id = "nevalrovat">2</mezo>
-<mezo id = "cim">7100 Szekszárd, Kadarka u. 18. </mezo>
+<mezo id = "cim">7100 SzekszÃ¡rd, Kadarka u. 18. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">10431739217</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">19990302</mezo>
-<mezo id = "nev">&quot;ALTA-RIPA&quot; Kábeltévé Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">&quot;ALTA-RIPA&quot; KÃ¡beltÃ©vÃ© KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -29,7 +29,7 @@
 <alrovat id = "4">
 <mezo id = "hattol">20110502</mezo>
 <mezo id = "irsz">7100</mezo>
-<mezo id = "hely">Szekszárd</mezo>
+<mezo id = "hely">SzekszÃ¡rd</mezo>
 <mezo id = "teru">Kadarka u. 18.</mezo>
 <mezo id = "valtk">20110502</mezo>
 <mezo id = "bkelt">20110803</mezo>
@@ -357,12 +357,12 @@
 <rovat id = "13">
 <alrovat id = "5">
 <mezo id = "hattol">20110502</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Vass József</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Vass JÃ³zsef</mezo>
 <mezo id = "panev">Klemm Anna</mezo>
 <mezo id = "pirsz">7130</mezo>
 <mezo id = "phely">Tolna</mezo>
-<mezo id = "pteru">Deák F u. 75/2. C. ép. II. em. 12.</mezo>
+<mezo id = "pteru">DeÃ¡k F u. 75/2. C. Ã©p. II. em. 12.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20110502</mezo>
 <mezo id = "jogvv">20110730</mezo>
@@ -372,12 +372,12 @@
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20110502</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Tarr János</mezo>
-<mezo id = "panev">Regõs Klára</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Tarr JÃ¡nos</mezo>
+<mezo id = "panev">RegÅ‘s KlÃ¡ra</mezo>
 <mezo id = "pirsz">1117</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Nádorliget u. 7/D. II. em. 211.</mezo>
+<mezo id = "pteru">NÃ¡dorliget u. 7/D. II. em. 211.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20110502</mezo>
 <mezo id = "valtk">20110502</mezo>
@@ -388,29 +388,29 @@
 <rovat id = "14">
 <alrovat id = "1">
 <mezo id = "hattol">19900901</mezo>
-<mezo id = "nev">Városi Tanács VB. Költségvetési Üzeme</mezo>
+<mezo id = "nev">VÃ¡rosi TanÃ¡cs VB. KÃ¶ltsÃ©gvetÃ©si Ãœzeme</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">7130</mezo>
 <mezo id = "hely">Tolna, Bajcsy Zs. u. 7.</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">19900901</mezo>
-<mezo id = "nev">Wiedemann Részvénytársaság</mezo>
+<mezo id = "nev">Wiedemann RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">7130</mezo>
 <mezo id = "hely">Tolna</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">19900901</mezo>
-<mezo id = "nev">Elektromos Ipari Kisszövetkezet</mezo>
+<mezo id = "nev">Elektromos Ipari KisszÃ¶vetkezet</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">7130</mezo>
 <mezo id = "hely">Tolna, Marx u. 2.</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20091208</mezo>
-<mezo id = "pnev">Filep Irén</mezo>
-<mezo id = "panev">Bozóki Irén</mezo>
+<mezo id = "pnev">Filep IrÃ©n</mezo>
+<mezo id = "panev">BozÃ³ki IrÃ©n</mezo>
 <mezo id = "pirsz">6772</mezo>
 <mezo id = "phely">Deszk</mezo>
 <mezo id = "pteru">Kossuth L u. 22.</mezo>
@@ -438,24 +438,24 @@
 <alrovat id = "2">
 <mezo id = "adosz">10431739217</mezo>
 <mezo id = "bkelt">20110803</mezo>
-<mezo id = "megj">Státusz kezdete: 1990/10/01</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 1990/10/01</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0109">
 <alrovat id = "8">
 <mezo id = "hattol">19951229</mezo>
 <mezo id = "cgjsz">1709000720</mezo>
-<mezo id = "nev">&quot;Tarr&quot; Építõ, Szolgáltató és Kereskedeli Kft.</mezo>
+<mezo id = "nev">&quot;Tarr&quot; Ã‰pÃ­tÅ‘, SzolgÃ¡ltatÃ³ Ã©s Kereskedeli Kft.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">7100</mezo>
-<mezo id = "hely">Szekszárd, Kadarka u. 18.</mezo>
+<mezo id = "hely">SzekszÃ¡rd, Kadarka u. 18.</mezo>
 </alrovat>
 <alrovat id = "15">
 <mezo id = "hattol">20080625</mezo>
-<mezo id = "pnev">Tarr Jánosné</mezo>
+<mezo id = "pnev">Tarr JÃ¡nosnÃ©</mezo>
 <mezo id = "panev">Melcher Katalin</mezo>
 <mezo id = "pirsz">7100</mezo>
-<mezo id = "phely">Szekszárd, Kadarka u. 18.</mezo>
+<mezo id = "phely">SzekszÃ¡rd, Kadarka u. 18.</mezo>
 <mezo id = "tagsk">19990131</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20080625</mezo>
@@ -465,10 +465,10 @@
 </alrovat>
 <alrovat id = "16">
 <mezo id = "hattol">20080625</mezo>
-<mezo id = "pnev">Cselovszkyné Dr. Tarr Klára</mezo>
-<mezo id = "panev">Regõs Klára</mezo>
+<mezo id = "pnev">CselovszkynÃ© Dr. Tarr KlÃ¡ra</mezo>
+<mezo id = "panev">RegÅ‘s KlÃ¡ra</mezo>
 <mezo id = "pirsz">1052</mezo>
-<mezo id = "phely">Budapest, Deák tér 4.</mezo>
+<mezo id = "phely">Budapest, DeÃ¡k tÃ©r 4.</mezo>
 <mezo id = "tagsk">19990131</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20080625</mezo>
@@ -478,11 +478,11 @@
 </alrovat>
 <alrovat id = "17">
 <mezo id = "hattol">20110502</mezo>
-<mezo id = "pnev">Tarr János</mezo>
-<mezo id = "panev">Regõs Klára</mezo>
+<mezo id = "pnev">Tarr JÃ¡nos</mezo>
+<mezo id = "panev">RegÅ‘s KlÃ¡ra</mezo>
 <mezo id = "pirsz">1117</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Nádorliget u. 7/D. II. em. 211.</mezo>
+<mezo id = "pteru">NÃ¡dorliget u. 7/D. II. em. 211.</mezo>
 <mezo id = "tagsk">19990131</mezo>
 <mezo id = "valtk">20110502</mezo>
 <mezo id = "bkelt">20110803</mezo>
@@ -497,11 +497,11 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Kárpáti Ferenc (a. n.: Róhr Teréz; 7100 Szekszárd, Kadarka u. 18.) bejelenti, hogy a Tolna Megyei Bíróságon mint Cégbíróságon a Cg. [17 09 000820] szám alatt bejegyzett, 7130 Tolna, Festetich L. u. 2. sz. alatti székhelyû &quot;ALTA-RIPA&quot; Kábeltévé Korlátolt Felelõsségû Társaságban 1999. szeptember 27-én - 80%-os, 240 szavazatos - közvetlen irányítást biztosító befolyást szerzett.<ujsor/>
-Felhívjuk azon hitelezõket, akiknek az ellenõrzött társasággal szembeni le nem járt követelései a befolyás közzétételét megelõzõen keletkeztek, hogy a közzététel utáni 90 napos jogvesztõ határidõn belül követeléseik erejéig biztosítékot követelhetnek az uralkodó tagtól.<ujsor/>
+<mezo id = "szoveg">KÃ¡rpÃ¡ti Ferenc (a. n.: RÃ³hr TerÃ©z; 7100 SzekszÃ¡rd, Kadarka u. 18.) bejelenti, hogy a Tolna Megyei BÃ­rÃ³sÃ¡gon mint CÃ©gbÃ­rÃ³sÃ¡gon a Cg. [17 09 000820] szÃ¡m alatt bejegyzett, 7130 Tolna, Festetich L. u. 2. sz. alatti szÃ©khelyÅ± &quot;ALTA-RIPA&quot; KÃ¡beltÃ©vÃ© KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gban 1999. szeptember 27-Ã©n - 80%-os, 240 szavazatos - kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡st szerzett.<ujsor/>
+FelhÃ­vjuk azon hitelezÅ‘ket, akiknek az ellenÅ‘rzÃ¶tt tÃ¡rsasÃ¡ggal szembeni le nem jÃ¡rt kÃ¶vetelÃ©sei a befolyÃ¡s kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, hogy a kÃ¶zzÃ©tÃ©tel utÃ¡ni 90 napos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l kÃ¶vetelÃ©seik erejÃ©ig biztosÃ­tÃ©kot kÃ¶vetelhetnek az uralkodÃ³ tagtÃ³l.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1709000820</mezo>
-<mezo id = "nev">&quot;ALTA-RIPA&quot; Kábeltévé Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">&quot;ALTA-RIPA&quot; KÃ¡beltÃ©vÃ© KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "99017">

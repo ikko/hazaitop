@@ -5,7 +5,7 @@
 <mezo id = "cf">10</mezo>
 <mezo id = "szam">043537</mezo>
 <mezo id = "nevalrovat">2</mezo>
-<mezo id = "cim">1087 Budapest, Könyves Kálmán krt. 54-60. </mezo>
+<mezo id = "cim">1087 Budapest, KÃ¶nyves KÃ¡lmÃ¡n krt. 54-60. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">12287079242</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20060912</mezo>
-<mezo id = "nev">MÁV Vagyonkezelõ Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">MÃV VagyonkezelÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -21,7 +21,7 @@
 <rovat id = "3">
 <alrovat id = "2">
 <mezo id = "hattol">20101006</mezo>
-<mezo id = "nev">MÁV Vagyonkezelõ Zrt.</mezo>
+<mezo id = "nev">MÃV VagyonkezelÅ‘ Zrt.</mezo>
 <mezo id = "valtk">20101006</mezo>
 <mezo id = "bkelt">20101025</mezo>
 </alrovat>
@@ -31,7 +31,7 @@
 <mezo id = "hattol">20110713</mezo>
 <mezo id = "irsz">1087</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Könyves Kálmán krt. 54-60.</mezo>
+<mezo id = "teru">KÃ¶nyves KÃ¡lmÃ¡n krt. 54-60.</mezo>
 <mezo id = "valtk">20110713</mezo>
 <mezo id = "bkelt">20110802</mezo>
 </alrovat>
@@ -71,7 +71,7 @@
 <alrovat id = "3">
 <mezo id = "hattol">20070731</mezo>
 <mezo id = "irsz">7623</mezo>
-<mezo id = "hely">Pécs, Szabadság u. 39.</mezo>
+<mezo id = "hely">PÃ©cs, SzabadsÃ¡g u. 39.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20070731</mezo>
 <mezo id = "valtv">0</mezo>
@@ -91,7 +91,7 @@
 <alrovat id = "5">
 <mezo id = "hattol">20070731</mezo>
 <mezo id = "irsz">9700</mezo>
-<mezo id = "hely">Szombathely, Széll Kálmán u. 2.</mezo>
+<mezo id = "hely">Szombathely, SzÃ©ll KÃ¡lmÃ¡n u. 2.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20070731</mezo>
 <mezo id = "valtv">0</mezo>
@@ -380,7 +380,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090202</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Saját tulajdonú, bérelt ingatlan bérbeadása, üzemeltetése</mezo>
+<mezo id = "teaszov">SajÃ¡t tulajdonÃº, bÃ©relt ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se</mezo>
 </alrovat>
 <alrovat id = "24">
 <mezo id = "hattol">20080429</mezo>
@@ -398,7 +398,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090202</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Piac-, közvélemény-kutatás</mezo>
+<mezo id = "teaszov">Piac-, kÃ¶zvÃ©lemÃ©ny-kutatÃ¡s</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -415,34 +415,34 @@
 <rovat id = "13">
 <alrovat id = "5">
 <mezo id = "hattol">19980215</mezo>
-<mezo id = "tiszt">vezérigazgató</mezo>
-<mezo id = "pnev">Szabó Tivadar</mezo>
+<mezo id = "tiszt">vezÃ©rigazgatÃ³</mezo>
+<mezo id = "pnev">SzabÃ³ Tivadar</mezo>
 <mezo id = "panev">Ljubl gizella</mezo>
 <mezo id = "pirsz">9700</mezo>
 <mezo id = "phely">Szombathely</mezo>
-<mezo id = "pteru">Apáczai Cs. J. sétány 14. II/8.</mezo>
+<mezo id = "pteru">ApÃ¡czai Cs. J. sÃ©tÃ¡ny 14. II/8.</mezo>
 </alrovat>
 <alrovat id = "13">
 <mezo id = "hattol">20011201</mezo>
-<mezo id = "tiszt">igazgatósági tag</mezo>
-<mezo id = "pnev">Deák András</mezo>
-<mezo id = "panev">Schlötzer Klára</mezo>
+<mezo id = "tiszt">igazgatÃ³sÃ¡gi tag</mezo>
+<mezo id = "pnev">DeÃ¡k AndrÃ¡s</mezo>
+<mezo id = "panev">SchlÃ¶tzer KlÃ¡ra</mezo>
 <mezo id = "pirsz">1054</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Báthory u. 8.</mezo>
+<mezo id = "pteru">BÃ¡thory u. 8.</mezo>
 </alrovat>
 <alrovat id = "21">
 <mezo id = "hattol">20010601</mezo>
-<mezo id = "tiszt">igazgatósági tag</mezo>
-<mezo id = "pnev">Dr. Gál Csaba</mezo>
-<mezo id = "panev">Szabó Gabriella</mezo>
+<mezo id = "tiszt">igazgatÃ³sÃ¡gi tag</mezo>
+<mezo id = "pnev">Dr. GÃ¡l Csaba</mezo>
+<mezo id = "panev">SzabÃ³ Gabriella</mezo>
 <mezo id = "pirsz">1192</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Zboró köz 7/b.</mezo>
+<mezo id = "pteru">ZborÃ³ kÃ¶z 7/b.</mezo>
 </alrovat>
 <alrovat id = "30">
 <mezo id = "hattol">20040630</mezo>
-<mezo id = "pnev">Berényi Györgyi</mezo>
+<mezo id = "pnev">BerÃ©nyi GyÃ¶rgyi</mezo>
 <mezo id = "panev">Kriszte Ilona</mezo>
 <mezo id = "pirsz">1194</mezo>
 <mezo id = "phely">Budapest, Udvarhely u. 7.</mezo>
@@ -453,7 +453,7 @@
 </alrovat>
 <alrovat id = "40">
 <mezo id = "hattol">20060420</mezo>
-<mezo id = "pnev">Berényi György</mezo>
+<mezo id = "pnev">BerÃ©nyi GyÃ¶rgy</mezo>
 <mezo id = "panev">Kriszte Ilona</mezo>
 <mezo id = "pirsz">1194</mezo>
 <mezo id = "phely">Budapest, Udvarhelyi utca 7.</mezo>
@@ -466,9 +466,9 @@
 </alrovat>
 <alrovat id = "55">
 <mezo id = "hattol">20100901</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (vezérigazgató)</mezo>
-<mezo id = "pnev">Buzinkay Tamás</mezo>
-<mezo id = "panev">Bíró Enikõ</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (vezÃ©rigazgatÃ³)</mezo>
+<mezo id = "pnev">Buzinkay TamÃ¡s</mezo>
+<mezo id = "panev">BÃ­rÃ³ EnikÅ‘</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100901</mezo>
 <mezo id = "valtk">20100901</mezo>
@@ -480,13 +480,13 @@
 <alrovat id = "11">
 <mezo id = "hattol">20100715</mezo>
 <mezo id = "cgjsz">0109267553</mezo>
-<mezo id = "nev">Ernst &amp; Young Könyvvizsgáló Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Ernst &amp; Young KÃ¶nyvvizsgÃ¡lÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1132</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Váci út 20.</mezo>
-<mezo id = "pnev">Ispánovity Mártonné</mezo>
-<mezo id = "panev">Komanovics Éva</mezo>
+<mezo id = "teru">VÃ¡ci Ãºt 20.</mezo>
+<mezo id = "pnev">IspÃ¡novity MÃ¡rtonnÃ©</mezo>
+<mezo id = "panev">Komanovics Ã‰va</mezo>
 <mezo id = "jogvk">20100715</mezo>
 <mezo id = "jogvv">20130531</mezo>
 <mezo id = "valtk">20100715</mezo>
@@ -495,13 +495,13 @@
 <alrovat id = "12">
 <mezo id = "hattol">20100715</mezo>
 <mezo id = "cgjsz">0109267553</mezo>
-<mezo id = "nev">Ernst &amp; Young Könyvvizsgáló Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Ernst &amp; Young KÃ¶nyvvizsgÃ¡lÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1132</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Váci út 20.</mezo>
-<mezo id = "pnev">Szabóné Lückl Judit</mezo>
-<mezo id = "panev">Horváth Ilona</mezo>
+<mezo id = "teru">VÃ¡ci Ãºt 20.</mezo>
+<mezo id = "pnev">SzabÃ³nÃ© LÃ¼ckl Judit</mezo>
+<mezo id = "panev">HorvÃ¡th Ilona</mezo>
 <mezo id = "jogvk">20100715</mezo>
 <mezo id = "jogvv">20130531</mezo>
 <mezo id = "valtk">20100715</mezo>
@@ -511,22 +511,22 @@
 <rovat id = "15">
 <alrovat id = "14">
 <mezo id = "hattol">20020701</mezo>
-<mezo id = "pnev">Both Zoltán</mezo>
-<mezo id = "panev">Kalmár Györgyike</mezo>
+<mezo id = "pnev">Both ZoltÃ¡n</mezo>
+<mezo id = "panev">KalmÃ¡r GyÃ¶rgyike</mezo>
 <mezo id = "pirsz">1118</mezo>
-<mezo id = "phely">Budapest, Beregszász út 62.</mezo>
+<mezo id = "phely">Budapest, BeregszÃ¡sz Ãºt 62.</mezo>
 </alrovat>
 <alrovat id = "15">
 <mezo id = "hattol">20021201</mezo>
-<mezo id = "pnev">Both Zoltán</mezo>
-<mezo id = "panev">Kalmár Györgyike</mezo>
+<mezo id = "pnev">Both ZoltÃ¡n</mezo>
+<mezo id = "panev">KalmÃ¡r GyÃ¶rgyike</mezo>
 <mezo id = "pirsz">1118</mezo>
-<mezo id = "phely">Budapest, Beregszász út 62.</mezo>
+<mezo id = "phely">Budapest, BeregszÃ¡sz Ãºt 62.</mezo>
 </alrovat>
 <alrovat id = "36">
 <mezo id = "hattol">20100801</mezo>
 <mezo id = "pnev">Gondos Judit</mezo>
-<mezo id = "panev">Gyuricskó Klára</mezo>
+<mezo id = "panev">GyuricskÃ³ KlÃ¡ra</mezo>
 <mezo id = "jogvk">20100801</mezo>
 <mezo id = "jogvv">20150731</mezo>
 <mezo id = "valtk">20100801</mezo>
@@ -534,8 +534,8 @@
 </alrovat>
 <alrovat id = "38">
 <mezo id = "hattol">20100801</mezo>
-<mezo id = "pnev">Kõvári Zsolt</mezo>
-<mezo id = "panev">Schmidt Klára</mezo>
+<mezo id = "pnev">KÅ‘vÃ¡ri Zsolt</mezo>
+<mezo id = "panev">Schmidt KlÃ¡ra</mezo>
 <mezo id = "jogvk">20100801</mezo>
 <mezo id = "jogvv">20150731</mezo>
 <mezo id = "valtk">20100801</mezo>
@@ -543,11 +543,11 @@
 </alrovat>
 <alrovat id = "39">
 <mezo id = "hattol">20110416</mezo>
-<mezo id = "pnev">Erdélyi Rudolf Zalán</mezo>
-<mezo id = "panev">Cserta Ida Cecília</mezo>
+<mezo id = "pnev">ErdÃ©lyi Rudolf ZalÃ¡n</mezo>
+<mezo id = "panev">Cserta Ida CecÃ­lia</mezo>
 <mezo id = "pirsz">1038</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Észak utca 14.</mezo>
+<mezo id = "pteru">Ã‰szak utca 14.</mezo>
 <mezo id = "jogvk">20110416</mezo>
 <mezo id = "jogvv">20150731</mezo>
 <mezo id = "valtk">20110416</mezo>
@@ -573,18 +573,18 @@
 <mezo id = "adosz">12287079242</mezo>
 <mezo id = "kadosz">HU12287079</mezo>
 <mezo id = "bkelt">20110802</mezo>
-<mezo id = "megj">Státusz kezdete: 1997/07/18</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 1997/07/18</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0110">
 <alrovat id = "5">
 <mezo id = "hattol">20090801</mezo>
 <mezo id = "cgjsz">0110042272</mezo>
-<mezo id = "nev">MÁV Magyar Államvasutak Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">MÃV Magyar Ãllamvasutak ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1087</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Könyves Kálmán körút 54-60.</mezo>
+<mezo id = "teru">KÃ¶nyves KÃ¡lmÃ¡n kÃ¶rÃºt 54-60.</mezo>
 <mezo id = "tagsk">19970718</mezo>
 <mezo id = "sz3">x</mezo>
 <mezo id = "valtk">20090801</mezo>
@@ -600,263 +600,263 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2001. 01. 09-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. Szabó Tivadar (an: Ljubl Gizella) igazgatósági tag<ujsor/>
-9700 Szombathely, Apáczai Csere János sétány 14. II/8.<ujsor/>
- Hatályos: 2000. 11. 30-tól.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2001. 01. 09-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. SzabÃ³ Tivadar (an: Ljubl Gizella) igazgatÃ³sÃ¡gi tag<ujsor/>
+9700 Szombathely, ApÃ¡czai Csere JÃ¡nos sÃ©tÃ¡ny 14. II/8.<ujsor/>
+ HatÃ¡lyos: 2000. 11. 30-tÃ³l.<ujsor/>
 Bejegyezve: 2001. 02. 19.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110043537</mezo>
-<mezo id = "nev">MÁV Vagyonkezelõ Részvénytársaság</mezo>
-<mezo id = "cim">1066 Budapest, Teréz krt. 62.</mezo>
+<mezo id = "nev">MÃV VagyonkezelÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1066 Budapest, TerÃ©z krt. 62.</mezo>
 <mezo id = "adosz">12287079242</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2001. 01. 09-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. Deák András (an: Schlötzer Klára) igazgatósági tag<ujsor/>
-1054 Budapest, Báthory u. 8.<ujsor/>
- Törölve: 2001. 12. 01-i hatállyal.<ujsor/>
- Deák András (an: Schlötzer Klára) igazgatósági tag<ujsor/>
-1054 Budapest, Báthory u. 8.<ujsor/>
- Hatályos: 2000. 12. 01-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2001. 01. 09-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. DeÃ¡k AndrÃ¡s (an: SchlÃ¶tzer KlÃ¡ra) igazgatÃ³sÃ¡gi tag<ujsor/>
+1054 Budapest, BÃ¡thory u. 8.<ujsor/>
+ TÃ¶rÃ¶lve: 2001. 12. 01-i hatÃ¡llyal.<ujsor/>
+ DeÃ¡k AndrÃ¡s (an: SchlÃ¶tzer KlÃ¡ra) igazgatÃ³sÃ¡gi tag<ujsor/>
+1054 Budapest, BÃ¡thory u. 8.<ujsor/>
+ HatÃ¡lyos: 2000. 12. 01-tÅ‘l.<ujsor/>
 Bejegyezve: 2001. 02. 19.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110043537</mezo>
-<mezo id = "nev">MÁV Vagyonkezelõ Részvénytársaság</mezo>
-<mezo id = "cim">1066 Budapest, Teréz krt. 62.</mezo>
+<mezo id = "nev">MÃV VagyonkezelÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1066 Budapest, TerÃ©z krt. 62.</mezo>
 <mezo id = "adosz">12287079242</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2001. 09. 18-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. Dr. Gál Csaba (an: Szabó Gabriella) igazgatósági tag<ujsor/>
-1192 Budapest, Zboró köz 7/b.<ujsor/>
- Törölve: 2001. 06. 01-i hatállyal.<ujsor/>
- Dr. Gál Csaba (an: Szabó Gabriella) vezérigazgató, igazgatósági tag<ujsor/>
-1192 Budapest, Zboró köz 7/b.<ujsor/>
- Hatályos: 2001. 06. 01-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2001. 09. 18-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. Dr. GÃ¡l Csaba (an: SzabÃ³ Gabriella) igazgatÃ³sÃ¡gi tag<ujsor/>
+1192 Budapest, ZborÃ³ kÃ¶z 7/b.<ujsor/>
+ TÃ¶rÃ¶lve: 2001. 06. 01-i hatÃ¡llyal.<ujsor/>
+ Dr. GÃ¡l Csaba (an: SzabÃ³ Gabriella) vezÃ©rigazgatÃ³, igazgatÃ³sÃ¡gi tag<ujsor/>
+1192 Budapest, ZborÃ³ kÃ¶z 7/b.<ujsor/>
+ HatÃ¡lyos: 2001. 06. 01-tÅ‘l.<ujsor/>
 Bejegyezve: 2001. 10. 16.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110043537</mezo>
-<mezo id = "nev">MÁV Vagyonkezelõ Részvénytársaság</mezo>
-<mezo id = "cim">1066 Budapest, Teréz krt. 62.</mezo>
+<mezo id = "nev">MÃV VagyonkezelÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1066 Budapest, TerÃ©z krt. 62.</mezo>
 <mezo id = "adosz">12287079242</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2004. 03. 22-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-15. Both Zoltán (an: Kalmár Györgyike)<ujsor/>
-1118 Budapest, Beregszász út 62.<ujsor/>
- Törölve: 2002. 12. 31-i hatállyal.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2004. 03. 22-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+15. Both ZoltÃ¡n (an: KalmÃ¡r GyÃ¶rgyike)<ujsor/>
+1118 Budapest, BeregszÃ¡sz Ãºt 62.<ujsor/>
+ TÃ¶rÃ¶lve: 2002. 12. 31-i hatÃ¡llyal.<ujsor/>
 Bejegyezve: 2004. 05. 13.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110043537</mezo>
-<mezo id = "nev">MÁV Vagyonkezelõ Részvénytársaság</mezo>
-<mezo id = "cim">1066 Budapest, Teréz krt. 62.</mezo>
+<mezo id = "nev">MÃV VagyonkezelÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1066 Budapest, TerÃ©z krt. 62.</mezo>
 <mezo id = "adosz">12287079242</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2004. 05. 13-án hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-15. Both Zoltán (an: Kalmár Györgyike)<ujsor/>
-1118 Budapest, Beregszász út 62.<ujsor/>
- Törölve: 2002. 12. 31-i hatállyal.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2004. 05. 13-Ã¡n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+15. Both ZoltÃ¡n (an: KalmÃ¡r GyÃ¶rgyike)<ujsor/>
+1118 Budapest, BeregszÃ¡sz Ãºt 62.<ujsor/>
+ TÃ¶rÃ¶lve: 2002. 12. 31-i hatÃ¡llyal.<ujsor/>
 Bejegyezve: 2004. 05. 13.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110043537</mezo>
-<mezo id = "nev">MÁV Vagyonkezelõ Részvénytársaság</mezo>
-<mezo id = "cim">1066 Budapest, Teréz krt. 62.</mezo>
+<mezo id = "nev">MÃV VagyonkezelÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1066 Budapest, TerÃ©z krt. 62.</mezo>
 <mezo id = "adosz">12287079242</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2004. 12. 15-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. A képviselet módja: együttes.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (tisztségviselõ).<ujsor/>
- Berényi Györgyi (an: Kriszte Ilona)<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2004. 12. 15-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (tisztsÃ©gviselÅ‘).<ujsor/>
+ BerÃ©nyi GyÃ¶rgyi (an: Kriszte Ilona)<ujsor/>
 1194 Budapest, Udvarhely u. 7.<ujsor/>
  A jogviszony kezdete: 2004. 07. 01.<ujsor/>
- A jogviszony vége: 2006. 05. 31.<ujsor/>
- Törölve: 2004. 06. 30-i hatállyal.<ujsor/>
- A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (tisztségviselõ).<ujsor/>
- Berényi Györgyi (an: Kriszte Ilona)<ujsor/>
+ A jogviszony vÃ©ge: 2006. 05. 31.<ujsor/>
+ TÃ¶rÃ¶lve: 2004. 06. 30-i hatÃ¡llyal.<ujsor/>
+ A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (tisztsÃ©gviselÅ‘).<ujsor/>
+ BerÃ©nyi GyÃ¶rgyi (an: Kriszte Ilona)<ujsor/>
 1194 Budapest, Udvarhely u. 7.<ujsor/>
  A jogviszony kezdete: 2004. 07. 01.<ujsor/>
- A jogviszony vége: 2006. 05. 31.<ujsor/>
- Hatályos: 2004. 06. 30-tól.<ujsor/>
+ A jogviszony vÃ©ge: 2006. 05. 31.<ujsor/>
+ HatÃ¡lyos: 2004. 06. 30-tÃ³l.<ujsor/>
 Bejegyezve: 2005. 02. 21.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110043537</mezo>
-<mezo id = "nev">MÁV Vagyonkezelõ Részvénytársaság</mezo>
-<mezo id = "cim">1066 Budapest, Teréz krt. 62.</mezo>
+<mezo id = "nev">MÃV VagyonkezelÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1066 Budapest, TerÃ©z krt. 62.</mezo>
 <mezo id = "adosz">12287079242</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2006. 09. 12-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. A képviselet módja: együttes.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (tisztségviselõ).<ujsor/>
- Berényi György (an: Kriszte Ilona)<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2006. 09. 12-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (tisztsÃ©gviselÅ‘).<ujsor/>
+ BerÃ©nyi GyÃ¶rgy (an: Kriszte Ilona)<ujsor/>
 1194 Budapest, Udvarhelyi utca 7.<ujsor/>
  A jogviszony kezdete: 2006. 04. 19.<ujsor/>
- A jogviszony vége: 2009. 05. 31.<ujsor/>
- Törölve: 2007. 05. 08.<ujsor/>
- A képviselet módja: együttes.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (tisztségviselõ).<ujsor/>
- Berényi Györgyi (an: Kriszte Ilona)<ujsor/>
+ A jogviszony vÃ©ge: 2009. 05. 31.<ujsor/>
+ TÃ¶rÃ¶lve: 2007. 05. 08.<ujsor/>
+ A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (tisztsÃ©gviselÅ‘).<ujsor/>
+ BerÃ©nyi GyÃ¶rgyi (an: Kriszte Ilona)<ujsor/>
 1194 Budapest, Udvarhegyi utca 7.<ujsor/>
  A jogviszony kezdete: 2006. 04. 19.<ujsor/>
- A jogviszony vége: 2009. 05. 31.<ujsor/>
+ A jogviszony vÃ©ge: 2009. 05. 31.<ujsor/>
  Bejegyezve: 2007. 05. 08.<ujsor/>
 2007. 05. 08.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110043537</mezo>
-<mezo id = "nev">MÁV Vagyonkezelõ Zárkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">1066 Budapest, Teréz krt. 62.</mezo>
+<mezo id = "nev">MÃV VagyonkezelÅ‘ ZÃ¡rkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1066 Budapest, TerÃ©z krt. 62.</mezo>
 <mezo id = "adosz">12287079242</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2006. 12. 21-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (vezérigazgató).<ujsor/>
- Dr. Sarlós Miklós (an: Örödögh Olga)<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2006. 12. 21-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (vezÃ©rigazgatÃ³).<ujsor/>
+ Dr. SarlÃ³s MiklÃ³s (an: Ã–rÃ¶dÃ¶gh Olga)<ujsor/>
 1034 Budapest, Selmeci utca 29. III. 7.<ujsor/>
  A jogviszony kezdete: 2006. 08. 22.<ujsor/>
- A jogviszony vége: 2006. 12. 31.<ujsor/>
- A változás idõpontja: 2006. 08. 22.<ujsor/>
+ A jogviszony vÃ©ge: 2006. 12. 31.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2006. 08. 22.<ujsor/>
  Bejegyezve: 2007. 05. 08.<ujsor/>
 2007. 05. 08.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110043537</mezo>
-<mezo id = "nev">MÁV Vagyonkezelõ Zárkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">1066 Budapest, Teréz krt. 62.</mezo>
+<mezo id = "nev">MÃV VagyonkezelÅ‘ ZÃ¡rkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1066 Budapest, TerÃ©z krt. 62.</mezo>
 <mezo id = "adosz">12287079242</mezo>
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2007. 05. 08-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (igazgatósági tag).<ujsor/>
- Nagy István (an: Sófalvi Gabriella)<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2007. 05. 08-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag).<ujsor/>
+ Nagy IstvÃ¡n (an: SÃ³falvi Gabriella)<ujsor/>
 1124 Budapest, Fodor utca 48/B.<ujsor/>
  A jogviszony kezdete: 2007. 01. 01.<ujsor/>
- A jogviszony vége: 2009. 05. 31.<ujsor/>
+ A jogviszony vÃ©ge: 2009. 05. 31.<ujsor/>
  Bejegyezve: 2007. 06. 07.<ujsor/>
 2007. 06. 07.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110043537</mezo>
-<mezo id = "nev">MÁV Vagyonkezelõ Zárkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">1066 Budapest, Teréz krt. 62.</mezo>
+<mezo id = "nev">MÃV VagyonkezelÅ‘ ZÃ¡rkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1066 Budapest, TerÃ©z krt. 62.</mezo>
 <mezo id = "adosz">12287079242</mezo>
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság a Cg.01-10-043537 cégjegyzékszámon bejegyzett MÁV Vagyonkezelõ Zárkörûen Mûködõ Részvénytársaság (1136 Budapest, Pannónia u 11.; adószáma: 12287079-2-41) kérelme alapján elrendeli az 2009. augusztus 25. napján hozott Cg.01-10-043537 /162. számú végzésének kijavítását az alábbiak szerint:<ujsor/>
-13. A képviseletre jogosult(ak) adatai<ujsor/>
-A képviselet módja: önálló.<ujsor/>
-Nagy István vezetõ tisztségviselõ (vezérigazgató) (an.: Sófalvi Gabriella)<ujsor/>
-Jogv. kezdete: 2009.08.01. Jogv. vége: 2010.05.31.<ujsor/>
-Vált. vége: 2009.08.01.<ujsor/>
-Törölve (végzés kelte): 2010. február 8.<ujsor/>
-A képviselet módja: önálló.<ujsor/>
-Nagy István vezetõ tisztségviselõ (vezérigazgató) (an.: Sófalvi Gabriella)<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.01-10-043537 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett MÃV VagyonkezelÅ‘ ZÃ¡rkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (1136 Budapest, PannÃ³nia u 11.; adÃ³szÃ¡ma: 12287079-2-41) kÃ©relme alapjÃ¡n elrendeli az 2009. augusztus 25. napjÃ¡n hozott Cg.01-10-043537 /162. szÃ¡mÃº vÃ©gzÃ©sÃ©nek kijavÃ­tÃ¡sÃ¡t az alÃ¡bbiak szerint:<ujsor/>
+13. A kÃ©pviseletre jogosult(ak) adatai<ujsor/>
+A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+Nagy IstvÃ¡n vezetÅ‘ tisztsÃ©gviselÅ‘ (vezÃ©rigazgatÃ³) (an.: SÃ³falvi Gabriella)<ujsor/>
+Jogv. kezdete: 2009.08.01. Jogv. vÃ©ge: 2010.05.31.<ujsor/>
+VÃ¡lt. vÃ©ge: 2009.08.01.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2010. februÃ¡r 8.<ujsor/>
+A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+Nagy IstvÃ¡n vezetÅ‘ tisztsÃ©gviselÅ‘ (vezÃ©rigazgatÃ³) (an.: SÃ³falvi Gabriella)<ujsor/>
 Jogv. kezdete: 2009.08.01.<ujsor/>
-Vált. kezdete: 2009.08.01.<ujsor/>
-Bejegyezve (végzés kelte): 2010. február 8.<ujsor/>
-E végzés ellen fellebbezésnek nincs helye, azonban az ügyész, továbbá az, akire a végzés rendelkezést tartalmaz - a rendelkezés õt érintõ részére vonatkozóan - pert indíthat a cég ellen a cég székhelye szerint illetékes megyei bíróság elõtt a bejegyzõ végzés hatályon kívül helyezése iránt.<ujsor/>
-A per megindításának a bejegyzõ végzés Cégközlönyben való közzétételétõl, illetve - közzétételi kötelezettség hiányában - annak kézbesítésétõl számított 30 napon belül van helye. A határidõ elmulasztása jogvesztéssel jár.<ujsor/>
-2010. február 8.<ujsor/>
+VÃ¡lt. kezdete: 2009.08.01.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2010. februÃ¡r 8.<ujsor/>
+E vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye, azonban az Ã¼gyÃ©sz, tovÃ¡bbÃ¡ az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s Å‘t Ã©rintÅ‘ rÃ©szÃ©re vonatkozÃ³an - pert indÃ­that a cÃ©g ellen a cÃ©g szÃ©khelye szerint illetÃ©kes megyei bÃ­rÃ³sÃ¡g elÅ‘tt a bejegyzÅ‘ vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt.<ujsor/>
+A per megindÃ­tÃ¡sÃ¡nak a bejegyzÅ‘ vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l, illetve - kÃ¶zzÃ©tÃ©teli kÃ¶telezettsÃ©g hiÃ¡nyÃ¡ban - annak kÃ©zbesÃ­tÃ©sÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l van helye. A hatÃ¡ridÅ‘ elmulasztÃ¡sa jogvesztÃ©ssel jÃ¡r.<ujsor/>
+2010. februÃ¡r 8.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110043537</mezo>
-<mezo id = "nev">MÁV Vagyonkezelõ Zárkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">1136 Budapest, Pannónia u 11.</mezo>
+<mezo id = "nev">MÃV VagyonkezelÅ‘ ZÃ¡rkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1136 Budapest, PannÃ³nia u 11.</mezo>
 <mezo id = "adosz">12287079241</mezo>
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság a Cg.01-10-043537 cégjegyzékszámon bejegyzett MÁV Vagyonkezelõ Zárkörûen Mûködõ Részvénytársaság (1136 Budapest, Pannónia u 11.; adószáma: 12287079-2-41) kérelme alapján elrendeli az 2009. augusztus 25. napján hozott Cg.01-10-043537 /162. számú végzésének kijavítását az alábbiak szerint:<ujsor/>
-13. A képviseletre jogosult(ak) adatai<ujsor/>
-A képviselet módja: önálló.<ujsor/>
-Nagy István vezetõ tisztségviselõ (vezérigazgató) (an.: Sófalvi Gabriella)<ujsor/>
-Jogv. kezdete: 2009.08.01. Jogv. vége: 2010.05.31.<ujsor/>
-Vált. vége: 2009.08.01.<ujsor/>
-Törölve (végzés kelte): 2010. február 8.<ujsor/>
-A képviselet módja: önálló.<ujsor/>
-Nagy István vezetõ tisztségviselõ (vezérigazgató) (an.: Sófalvi Gabriella)<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.01-10-043537 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett MÃV VagyonkezelÅ‘ ZÃ¡rkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (1136 Budapest, PannÃ³nia u 11.; adÃ³szÃ¡ma: 12287079-2-41) kÃ©relme alapjÃ¡n elrendeli az 2009. augusztus 25. napjÃ¡n hozott Cg.01-10-043537 /162. szÃ¡mÃº vÃ©gzÃ©sÃ©nek kijavÃ­tÃ¡sÃ¡t az alÃ¡bbiak szerint:<ujsor/>
+13. A kÃ©pviseletre jogosult(ak) adatai<ujsor/>
+A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+Nagy IstvÃ¡n vezetÅ‘ tisztsÃ©gviselÅ‘ (vezÃ©rigazgatÃ³) (an.: SÃ³falvi Gabriella)<ujsor/>
+Jogv. kezdete: 2009.08.01. Jogv. vÃ©ge: 2010.05.31.<ujsor/>
+VÃ¡lt. vÃ©ge: 2009.08.01.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2010. februÃ¡r 8.<ujsor/>
+A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+Nagy IstvÃ¡n vezetÅ‘ tisztsÃ©gviselÅ‘ (vezÃ©rigazgatÃ³) (an.: SÃ³falvi Gabriella)<ujsor/>
 Jogv. kezdete: 2009.08.01.<ujsor/>
-Vált. kezdete: 2009.08.01.<ujsor/>
-Bejegyezve (végzés kelte): 2010. február 8.<ujsor/>
-E végzés ellen fellebbezésnek nincs helye, azonban az ügyész, továbbá az, akire a végzés rendelkezést tartalmaz - a rendelkezés õt érintõ részére vonatkozóan - pert indíthat a cég ellen a cég székhelye szerint illetékes megyei bíróság elõtt a bejegyzõ végzés hatályon kívül helyezése iránt.<ujsor/>
-A per megindításának a bejegyzõ végzés Cégközlönyben való közzétételétõl, illetve - közzétételi kötelezettség hiányában - annak kézbesítésétõl számított 30 napon belül van helye. A határidõ elmulasztása jogvesztéssel jár.<ujsor/>
-2010. február 8.<ujsor/>
+VÃ¡lt. kezdete: 2009.08.01.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2010. februÃ¡r 8.<ujsor/>
+E vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye, azonban az Ã¼gyÃ©sz, tovÃ¡bbÃ¡ az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s Å‘t Ã©rintÅ‘ rÃ©szÃ©re vonatkozÃ³an - pert indÃ­that a cÃ©g ellen a cÃ©g szÃ©khelye szerint illetÃ©kes megyei bÃ­rÃ³sÃ¡g elÅ‘tt a bejegyzÅ‘ vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt.<ujsor/>
+A per megindÃ­tÃ¡sÃ¡nak a bejegyzÅ‘ vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l, illetve - kÃ¶zzÃ©tÃ©teli kÃ¶telezettsÃ©g hiÃ¡nyÃ¡ban - annak kÃ©zbesÃ­tÃ©sÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l van helye. A hatÃ¡ridÅ‘ elmulasztÃ¡sa jogvesztÃ©ssel jÃ¡r.<ujsor/>
+2010. februÃ¡r 8.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110043537</mezo>
-<mezo id = "nev">MÁV Vagyonkezelõ Zárkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">1136 Budapest, Pannónia u 11.</mezo>
+<mezo id = "nev">MÃV VagyonkezelÅ‘ ZÃ¡rkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1136 Budapest, PannÃ³nia u 11.</mezo>
 <mezo id = "adosz">12287079241</mezo>
 </alrovat>
 <alrovat id = "11">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A MÁV Vagyonkezelõ Zártkörûen Mûködõ Részvénytársaság (Cg.: [01 10 043537]; székhely: 1136 Budapest, Pannónia u. 11.; továbbiakban: társaság) egyszemélyes tulajdonosa, a MÁV Zrt. (Cg.: 01 10 042272]; székhely: 1087 Budapest, Könyves Kálmán krt. 54­60.) 11/149/2010. számon 2010. május 27-én meghozott alapítói határozatával döntött a társaság alaptõkéjének leszállításáról az alábbiak szerint:<ujsor/>
-A MÁV Zrt. a társaság 175 000 000 Ft pénzbeli és 374 328 000 Ft nem pénzbeli hozzájárulásból álló 549 328 000 Ft összegû alaptõkéjének önkéntes tõkekivonás céljából történõ leszállítását határozta el. Tekintettel azonban arra, hogy a társaság 2009. évi éves beszámolója szerint a saját tõke nem éri el a jegyzett tõke összegét, a Gazdasági társaságokról szóló 2006. évi IV. törvény 268. § (3) bekezdésének megfelelõen az alapító a társaság alaptõkéjének leszállításáról az alább részletezettek szerint, két ütemben határoz:<ujsor/>
+<mezo id = "szoveg">A MÃV VagyonkezelÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 043537]; szÃ©khely: 1136 Budapest, PannÃ³nia u. 11.; tovÃ¡bbiakban: tÃ¡rsasÃ¡g) egyszemÃ©lyes tulajdonosa, a MÃV Zrt. (Cg.: 01 10 042272]; szÃ©khely: 1087 Budapest, KÃ¶nyves KÃ¡lmÃ¡n krt. 54Â­60.) 11/149/2010. szÃ¡mon 2010. mÃ¡jus 27-Ã©n meghozott alapÃ­tÃ³i hatÃ¡rozatÃ¡val dÃ¶ntÃ¶tt a tÃ¡rsasÃ¡g alaptÅ‘kÃ©jÃ©nek leszÃ¡llÃ­tÃ¡sÃ¡rÃ³l az alÃ¡bbiak szerint:<ujsor/>
+A MÃV Zrt. a tÃ¡rsasÃ¡g 175 000 000 Ft pÃ©nzbeli Ã©s 374 328 000 Ft nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡sbÃ³l Ã¡llÃ³ 549 328 000 Ft Ã¶sszegÅ± alaptÅ‘kÃ©jÃ©nek Ã¶nkÃ©ntes tÅ‘kekivonÃ¡s cÃ©ljÃ¡bÃ³l tÃ¶rtÃ©nÅ‘ leszÃ¡llÃ­tÃ¡sÃ¡t hatÃ¡rozta el. Tekintettel azonban arra, hogy a tÃ¡rsasÃ¡g 2009. Ã©vi Ã©ves beszÃ¡molÃ³ja szerint a sajÃ¡t tÅ‘ke nem Ã©ri el a jegyzett tÅ‘ke Ã¶sszegÃ©t, a GazdasÃ¡gi tÃ¡rsasÃ¡gokrÃ³l szÃ³lÃ³ 2006. Ã©vi IV. tÃ¶rvÃ©ny 268. Â§ (3) bekezdÃ©sÃ©nek megfelelÅ‘en az alapÃ­tÃ³ a tÃ¡rsasÃ¡g alaptÅ‘kÃ©jÃ©nek leszÃ¡llÃ­tÃ¡sÃ¡rÃ³l az alÃ¡bb rÃ©szletezettek szerint, kÃ©t Ã¼temben hatÃ¡roz:<ujsor/>
 I.<ujsor/>
-Az alapító a társaság 549 328 000 Ft összegû alaptõkéjét leszállítja a negatív eredménytartalék megszüntetése érdekében 36 426 000 Ft összeggel, 512 902 000 Ft összegre.<ujsor/>
+Az alapÃ­tÃ³ a tÃ¡rsasÃ¡g 549 328 000 Ft Ã¶sszegÅ± alaptÅ‘kÃ©jÃ©t leszÃ¡llÃ­tja a negatÃ­v eredmÃ©nytartalÃ©k megszÃ¼ntetÃ©se Ã©rdekÃ©ben 36 426 000 Ft Ã¶sszeggel, 512 902 000 Ft Ã¶sszegre.<ujsor/>
 II.<ujsor/>
-Az alapító a társaság jelen határozat I. pontja szerinti, 512 902 000 Ft összegû alaptõkéjét önkéntes tõkekivonással 269 000 000 Ft összeggel leszállítja és a társaság alaptõkéjét 243 902 000 Ft-ban állapítja meg. Az alaptõke-leszállítás végrehajtása készpénzes tõkekivonással történik.<ujsor/>
-Az alaptõke leszállítása miatt ­ a veszteség rendezése érdekében történõ leszállítást és az önkéntes tõkekivonással megvalósuló leszállítást együttesen kezelve ­ az alapító elrendeli az alábbi részvények bevonását, és utasítja a társaság vezérigazgatóját, hogy az alaptõke leszállításának cégbírósági bejegyzését követõen 30 napon belül intézkedjen a következõ részvények bevonásáról: 1 darab 50 000 000 Ft névértékû, névre szóló törzsrészvény 50 000 000 Ft értékben, 5 darab 10 000 000 Ft névértékû, névre szóló törzsrészvény 50 000 000 Ft értékben, 1 darab 328 000 Ft névértékû, névre szóló törzsrészvény 328 000 Ft értékben.<ujsor/>
-Az alaptõke leszállítása miatt az alapító elrendeli a társaság 1 darab 449 000 000 Ft névértékû részvényének felülbélyegzését, és utasítja a társaság vezérigazgatóját, hogy a tõkeleszállítás cégbírósági bejegyzését követõen 30 napon belül intézkedjen a részvény felülbélyegzésérõl az alábbiak szerint.<ujsor/>
-A jelenleg meglévõ részvény felülbélyegzés elõtt: 1 darab 449 000 000 Ft névértékû, névre szóló törzsrészvény 449 000 000 Ft értékben.<ujsor/>
-Felülbélyegzést követõen: 1 darab 243 902 000 Ft névértékû, névre szóló törzsrészvény 243 902 000 Ft értékben.<ujsor/>
-A társaság felhívja egyedüli részvényesét, hogy részvényeit az alaptõke leszállításának bejegyzését követõ harminc napon belül a társaság vezérigazgatójának, a társaság székhelyén nyújtsa be.<ujsor/>
-A társaság felhívja hitelezõit, hogy jelen hirdetmény elsõ alkalommal történt közzétételét megelõzõen keletkezett és ezen idõpontig esedékessé nem vált követeléseik után biztosítékra tarthatnak igényt.<ujsor/>
-A társaság tájékoztatja hitelezõit, hogy a hirdetmény utolsó közzétételétõl számított harmincnapos jogvesztõ határidõn belül jogosultak bejelenteni, ha a részvénytársaság alaptõkéjének leszállításával összefüggésben biztosítékra tartanak igényt.<ujsor/>
-Nem jogosult biztosítékra a hitelezõ, ha az alaptõke-leszállításhoz kapcsolódó kockázattal arányos biztosítékkal ­ jogszabály vagy szerzõdés alapján ­ már rendelkezik, vagy ha a részvénytársaság pénzügyi, vagyoni helyzetére figyelemmel a biztosítékadás indokolatlan.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+Az alapÃ­tÃ³ a tÃ¡rsasÃ¡g jelen hatÃ¡rozat I. pontja szerinti, 512 902 000 Ft Ã¶sszegÅ± alaptÅ‘kÃ©jÃ©t Ã¶nkÃ©ntes tÅ‘kekivonÃ¡ssal 269 000 000 Ft Ã¶sszeggel leszÃ¡llÃ­tja Ã©s a tÃ¡rsasÃ¡g alaptÅ‘kÃ©jÃ©t 243 902 000 Ft-ban Ã¡llapÃ­tja meg. Az alaptÅ‘ke-leszÃ¡llÃ­tÃ¡s vÃ©grehajtÃ¡sa kÃ©szpÃ©nzes tÅ‘kekivonÃ¡ssal tÃ¶rtÃ©nik.<ujsor/>
+Az alaptÅ‘ke leszÃ¡llÃ­tÃ¡sa miatt Â­ a vesztesÃ©g rendezÃ©se Ã©rdekÃ©ben tÃ¶rtÃ©nÅ‘ leszÃ¡llÃ­tÃ¡st Ã©s az Ã¶nkÃ©ntes tÅ‘kekivonÃ¡ssal megvalÃ³sulÃ³ leszÃ¡llÃ­tÃ¡st egyÃ¼ttesen kezelve Â­ az alapÃ­tÃ³ elrendeli az alÃ¡bbi rÃ©szvÃ©nyek bevonÃ¡sÃ¡t, Ã©s utasÃ­tja a tÃ¡rsasÃ¡g vezÃ©rigazgatÃ³jÃ¡t, hogy az alaptÅ‘ke leszÃ¡llÃ­tÃ¡sÃ¡nak cÃ©gbÃ­rÃ³sÃ¡gi bejegyzÃ©sÃ©t kÃ¶vetÅ‘en 30 napon belÃ¼l intÃ©zkedjen a kÃ¶vetkezÅ‘ rÃ©szvÃ©nyek bevonÃ¡sÃ¡rÃ³l: 1 darab 50 000 000 Ft nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©ny 50 000 000 Ft Ã©rtÃ©kben, 5 darab 10 000 000 Ft nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©ny 50 000 000 Ft Ã©rtÃ©kben, 1 darab 328 000 Ft nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©ny 328 000 Ft Ã©rtÃ©kben.<ujsor/>
+Az alaptÅ‘ke leszÃ¡llÃ­tÃ¡sa miatt az alapÃ­tÃ³ elrendeli a tÃ¡rsasÃ¡g 1 darab 449 000 000 Ft nÃ©vÃ©rtÃ©kÅ± rÃ©szvÃ©nyÃ©nek felÃ¼lbÃ©lyegzÃ©sÃ©t, Ã©s utasÃ­tja a tÃ¡rsasÃ¡g vezÃ©rigazgatÃ³jÃ¡t, hogy a tÅ‘keleszÃ¡llÃ­tÃ¡s cÃ©gbÃ­rÃ³sÃ¡gi bejegyzÃ©sÃ©t kÃ¶vetÅ‘en 30 napon belÃ¼l intÃ©zkedjen a rÃ©szvÃ©ny felÃ¼lbÃ©lyegzÃ©sÃ©rÅ‘l az alÃ¡bbiak szerint.<ujsor/>
+A jelenleg meglÃ©vÅ‘ rÃ©szvÃ©ny felÃ¼lbÃ©lyegzÃ©s elÅ‘tt: 1 darab 449 000 000 Ft nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©ny 449 000 000 Ft Ã©rtÃ©kben.<ujsor/>
+FelÃ¼lbÃ©lyegzÃ©st kÃ¶vetÅ‘en: 1 darab 243 902 000 Ft nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©ny 243 902 000 Ft Ã©rtÃ©kben.<ujsor/>
+A tÃ¡rsasÃ¡g felhÃ­vja egyedÃ¼li rÃ©szvÃ©nyesÃ©t, hogy rÃ©szvÃ©nyeit az alaptÅ‘ke leszÃ¡llÃ­tÃ¡sÃ¡nak bejegyzÃ©sÃ©t kÃ¶vetÅ‘ harminc napon belÃ¼l a tÃ¡rsasÃ¡g vezÃ©rigazgatÃ³jÃ¡nak, a tÃ¡rsasÃ¡g szÃ©khelyÃ©n nyÃºjtsa be.<ujsor/>
+A tÃ¡rsasÃ¡g felhÃ­vja hitelezÅ‘it, hogy jelen hirdetmÃ©ny elsÅ‘ alkalommal tÃ¶rtÃ©nt kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkezett Ã©s ezen idÅ‘pontig esedÃ©kessÃ© nem vÃ¡lt kÃ¶vetelÃ©seik utÃ¡n biztosÃ­tÃ©kra tarthatnak igÃ©nyt.<ujsor/>
+A tÃ¡rsasÃ¡g tÃ¡jÃ©koztatja hitelezÅ‘it, hogy a hirdetmÃ©ny utolsÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l jogosultak bejelenteni, ha a rÃ©szvÃ©nytÃ¡rsasÃ¡g alaptÅ‘kÃ©jÃ©nek leszÃ¡llÃ­tÃ¡sÃ¡val Ã¶sszefÃ¼ggÃ©sben biztosÃ­tÃ©kra tartanak igÃ©nyt.<ujsor/>
+Nem jogosult biztosÃ­tÃ©kra a hitelezÅ‘, ha az alaptÅ‘ke-leszÃ¡llÃ­tÃ¡shoz kapcsolÃ³dÃ³ kockÃ¡zattal arÃ¡nyos biztosÃ­tÃ©kkal Â­ jogszabÃ¡ly vagy szerzÅ‘dÃ©s alapjÃ¡n Â­ mÃ¡r rendelkezik, vagy ha a rÃ©szvÃ©nytÃ¡rsasÃ¡g pÃ©nzÃ¼gyi, vagyoni helyzetÃ©re figyelemmel a biztosÃ­tÃ©kadÃ¡s indokolatlan.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110043537</mezo>
-<mezo id = "nev">MÁV Vagyonkezelõ Részvénytársaság</mezo>
+<mezo id = "nev">MÃV VagyonkezelÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1136 Budapest</mezo>
 </alrovat>
 <alrovat id = "12">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A MÁV Vagyonkezelõ Zártkörûen Mûködõ Részvénytársaság (Cg.: [01 10 043537]; székhely: 1136 Budapest, Pannónia u. 11.; továbbiakban: társaság) egyszemélyes tulajdonosa, a MÁV Zrt. (Cg.: 01 10 042272]; székhely: 1087 Budapest, Könyves Kálmán krt. 54­60.) 11/149/2010. számon 2010. május 27-én meghozott alapítói határozatával döntött a társaság alaptõkéjének leszállításáról az alábbiak szerint:<ujsor/>
-A MÁV Zrt. a társaság 175 000 000 Ft pénzbeli és 374 328 000 Ft nem pénzbeli hozzájárulásból álló 549 328 000 Ft összegû alaptõkéjének önkéntes tõkekivonás céljából történõ leszállítását határozta el. Tekintettel azonban arra, hogy a társaság 2009. évi éves beszámolója szerint a saját tõke nem éri el a jegyzett tõke összegét, a Gazdasági társaságokról szóló 2006. évi IV. törvény 268. § (3) bekezdésének megfelelõen az alapító a társaság alaptõkéjének leszállításáról az alább részletezettek szerint, két ütemben határoz:<ujsor/>
+<mezo id = "szoveg">A MÃV VagyonkezelÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 043537]; szÃ©khely: 1136 Budapest, PannÃ³nia u. 11.; tovÃ¡bbiakban: tÃ¡rsasÃ¡g) egyszemÃ©lyes tulajdonosa, a MÃV Zrt. (Cg.: 01 10 042272]; szÃ©khely: 1087 Budapest, KÃ¶nyves KÃ¡lmÃ¡n krt. 54Â­60.) 11/149/2010. szÃ¡mon 2010. mÃ¡jus 27-Ã©n meghozott alapÃ­tÃ³i hatÃ¡rozatÃ¡val dÃ¶ntÃ¶tt a tÃ¡rsasÃ¡g alaptÅ‘kÃ©jÃ©nek leszÃ¡llÃ­tÃ¡sÃ¡rÃ³l az alÃ¡bbiak szerint:<ujsor/>
+A MÃV Zrt. a tÃ¡rsasÃ¡g 175 000 000 Ft pÃ©nzbeli Ã©s 374 328 000 Ft nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡sbÃ³l Ã¡llÃ³ 549 328 000 Ft Ã¶sszegÅ± alaptÅ‘kÃ©jÃ©nek Ã¶nkÃ©ntes tÅ‘kekivonÃ¡s cÃ©ljÃ¡bÃ³l tÃ¶rtÃ©nÅ‘ leszÃ¡llÃ­tÃ¡sÃ¡t hatÃ¡rozta el. Tekintettel azonban arra, hogy a tÃ¡rsasÃ¡g 2009. Ã©vi Ã©ves beszÃ¡molÃ³ja szerint a sajÃ¡t tÅ‘ke nem Ã©ri el a jegyzett tÅ‘ke Ã¶sszegÃ©t, a GazdasÃ¡gi tÃ¡rsasÃ¡gokrÃ³l szÃ³lÃ³ 2006. Ã©vi IV. tÃ¶rvÃ©ny 268. Â§ (3) bekezdÃ©sÃ©nek megfelelÅ‘en az alapÃ­tÃ³ a tÃ¡rsasÃ¡g alaptÅ‘kÃ©jÃ©nek leszÃ¡llÃ­tÃ¡sÃ¡rÃ³l az alÃ¡bb rÃ©szletezettek szerint, kÃ©t Ã¼temben hatÃ¡roz:<ujsor/>
 I.<ujsor/>
-Az alapító a társaság 549 328 000 Ft összegû alaptõkéjét leszállítja a negatív eredménytartalék megszüntetése érdekében 36 426 000 Ft összeggel, 512 902 000 Ft összegre.<ujsor/>
+Az alapÃ­tÃ³ a tÃ¡rsasÃ¡g 549 328 000 Ft Ã¶sszegÅ± alaptÅ‘kÃ©jÃ©t leszÃ¡llÃ­tja a negatÃ­v eredmÃ©nytartalÃ©k megszÃ¼ntetÃ©se Ã©rdekÃ©ben 36 426 000 Ft Ã¶sszeggel, 512 902 000 Ft Ã¶sszegre.<ujsor/>
 II.<ujsor/>
-Az alapító a társaság jelen határozat I. pontja szerinti, 512 902 000 Ft összegû alaptõkéjét önkéntes tõkekivonással 269 000 000 Ft összeggel leszállítja és a társaság alaptõkéjét 243 902 000 Ft-ban állapítja meg. Az alaptõke-leszállítás végrehajtása készpénzes tõkekivonással történik.<ujsor/>
-Az alaptõke leszállítása miatt ­ a veszteség rendezése érdekében történõ leszállítást és az önkéntes tõkekivonással megvalósuló leszállítást együttesen kezelve ­ az alapító elrendeli az alábbi részvények bevonását, és utasítja a társaság vezérigazgatóját, hogy az alaptõke leszállításának cégbírósági bejegyzését követõen 30 napon belül intézkedjen a következõ részvények bevonásáról:<ujsor/>
-1 darab 50 000 000 Ft névértékû névre szóló törzsrészvény 50 000 000 Ft értékben,<ujsor/>
-5 darab 10 000 000 Ft névértékû névre szóló törzsrészvény 50 000 000 Ft értékben,<ujsor/>
-1 darab 328 000 Ft névértékû névre szóló törzsrészvény 328 000 Ft értékben.<ujsor/>
-Az alaptõke leszállítása miatt az alapító elrendeli a társaság 1 darab 449 000 000 Ft névértékû részvényének felülbélyegzését, és utasítja a társaság vezérigazgatóját, hogy a tõkeleszállítás cégbírósági bejegyzését követõen 30 napon belül intézkedjen a részvény felülbélyegzésérõl az alábbiak szerint.<ujsor/>
-A jelenleg meglévõ részvény felülbélyegzés elõtt:<ujsor/>
-1 darab 449 000 000 Ft névértékû névre szóló törzsrészvény 449 000 000 Ft értékben.<ujsor/>
-Felülbélyegzést követõen:<ujsor/>
-1 darab 243 902 000 Ft névértékû névre szóló törzsrészvény 243 902 000 Ft értékben.<ujsor/>
-A társaság felhívja egyedüli részvényesét, hogy részvényeit az alaptõke leszállításának bejegyzését követõ harminc napon belül a társaság vezérigazgatójának, a társaság székhelyén nyújtsa be.<ujsor/>
-A társaság felhívja hitelezõit, hogy jelen hirdetmény elsõ alkalommal történt közzétételét megelõzõen keletkezett és ezen idõpontig esedékessé nem vált követeléseik után biztosítékra tarthatnak igényt.<ujsor/>
-A társaság tájékoztatja hitelezõit, hogy a hirdetmény utolsó közzétételétõl számított harmincnapos jogvesztõ határidõn belül jogosultak bejelenteni, ha a részvénytársaság alaptõkéjének leszállításával összefüggésben biztosítékra tartanak igényt.<ujsor/>
-Nem jogosult biztosítékra a hitelezõ, ha az alaptõke-leszállításhoz kapcsolódó kockázattal arányos biztosítékkal ­ jogszabály vagy szerzõdés alapján ­ már rendelkezik, vagy ha a részvénytársaság pénzügyi, vagyoni helyzetére figyelemmel a biztosítékadás indokolatlan.<ujsor/>
-(Második közzététel.)<ujsor/>
+Az alapÃ­tÃ³ a tÃ¡rsasÃ¡g jelen hatÃ¡rozat I. pontja szerinti, 512 902 000 Ft Ã¶sszegÅ± alaptÅ‘kÃ©jÃ©t Ã¶nkÃ©ntes tÅ‘kekivonÃ¡ssal 269 000 000 Ft Ã¶sszeggel leszÃ¡llÃ­tja Ã©s a tÃ¡rsasÃ¡g alaptÅ‘kÃ©jÃ©t 243 902 000 Ft-ban Ã¡llapÃ­tja meg. Az alaptÅ‘ke-leszÃ¡llÃ­tÃ¡s vÃ©grehajtÃ¡sa kÃ©szpÃ©nzes tÅ‘kekivonÃ¡ssal tÃ¶rtÃ©nik.<ujsor/>
+Az alaptÅ‘ke leszÃ¡llÃ­tÃ¡sa miatt Â­ a vesztesÃ©g rendezÃ©se Ã©rdekÃ©ben tÃ¶rtÃ©nÅ‘ leszÃ¡llÃ­tÃ¡st Ã©s az Ã¶nkÃ©ntes tÅ‘kekivonÃ¡ssal megvalÃ³sulÃ³ leszÃ¡llÃ­tÃ¡st egyÃ¼ttesen kezelve Â­ az alapÃ­tÃ³ elrendeli az alÃ¡bbi rÃ©szvÃ©nyek bevonÃ¡sÃ¡t, Ã©s utasÃ­tja a tÃ¡rsasÃ¡g vezÃ©rigazgatÃ³jÃ¡t, hogy az alaptÅ‘ke leszÃ¡llÃ­tÃ¡sÃ¡nak cÃ©gbÃ­rÃ³sÃ¡gi bejegyzÃ©sÃ©t kÃ¶vetÅ‘en 30 napon belÃ¼l intÃ©zkedjen a kÃ¶vetkezÅ‘ rÃ©szvÃ©nyek bevonÃ¡sÃ¡rÃ³l:<ujsor/>
+1 darab 50 000 000 Ft nÃ©vÃ©rtÃ©kÅ± nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©ny 50 000 000 Ft Ã©rtÃ©kben,<ujsor/>
+5 darab 10 000 000 Ft nÃ©vÃ©rtÃ©kÅ± nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©ny 50 000 000 Ft Ã©rtÃ©kben,<ujsor/>
+1 darab 328 000 Ft nÃ©vÃ©rtÃ©kÅ± nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©ny 328 000 Ft Ã©rtÃ©kben.<ujsor/>
+Az alaptÅ‘ke leszÃ¡llÃ­tÃ¡sa miatt az alapÃ­tÃ³ elrendeli a tÃ¡rsasÃ¡g 1 darab 449 000 000 Ft nÃ©vÃ©rtÃ©kÅ± rÃ©szvÃ©nyÃ©nek felÃ¼lbÃ©lyegzÃ©sÃ©t, Ã©s utasÃ­tja a tÃ¡rsasÃ¡g vezÃ©rigazgatÃ³jÃ¡t, hogy a tÅ‘keleszÃ¡llÃ­tÃ¡s cÃ©gbÃ­rÃ³sÃ¡gi bejegyzÃ©sÃ©t kÃ¶vetÅ‘en 30 napon belÃ¼l intÃ©zkedjen a rÃ©szvÃ©ny felÃ¼lbÃ©lyegzÃ©sÃ©rÅ‘l az alÃ¡bbiak szerint.<ujsor/>
+A jelenleg meglÃ©vÅ‘ rÃ©szvÃ©ny felÃ¼lbÃ©lyegzÃ©s elÅ‘tt:<ujsor/>
+1 darab 449 000 000 Ft nÃ©vÃ©rtÃ©kÅ± nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©ny 449 000 000 Ft Ã©rtÃ©kben.<ujsor/>
+FelÃ¼lbÃ©lyegzÃ©st kÃ¶vetÅ‘en:<ujsor/>
+1 darab 243 902 000 Ft nÃ©vÃ©rtÃ©kÅ± nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©ny 243 902 000 Ft Ã©rtÃ©kben.<ujsor/>
+A tÃ¡rsasÃ¡g felhÃ­vja egyedÃ¼li rÃ©szvÃ©nyesÃ©t, hogy rÃ©szvÃ©nyeit az alaptÅ‘ke leszÃ¡llÃ­tÃ¡sÃ¡nak bejegyzÃ©sÃ©t kÃ¶vetÅ‘ harminc napon belÃ¼l a tÃ¡rsasÃ¡g vezÃ©rigazgatÃ³jÃ¡nak, a tÃ¡rsasÃ¡g szÃ©khelyÃ©n nyÃºjtsa be.<ujsor/>
+A tÃ¡rsasÃ¡g felhÃ­vja hitelezÅ‘it, hogy jelen hirdetmÃ©ny elsÅ‘ alkalommal tÃ¶rtÃ©nt kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkezett Ã©s ezen idÅ‘pontig esedÃ©kessÃ© nem vÃ¡lt kÃ¶vetelÃ©seik utÃ¡n biztosÃ­tÃ©kra tarthatnak igÃ©nyt.<ujsor/>
+A tÃ¡rsasÃ¡g tÃ¡jÃ©koztatja hitelezÅ‘it, hogy a hirdetmÃ©ny utolsÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l jogosultak bejelenteni, ha a rÃ©szvÃ©nytÃ¡rsasÃ¡g alaptÅ‘kÃ©jÃ©nek leszÃ¡llÃ­tÃ¡sÃ¡val Ã¶sszefÃ¼ggÃ©sben biztosÃ­tÃ©kra tartanak igÃ©nyt.<ujsor/>
+Nem jogosult biztosÃ­tÃ©kra a hitelezÅ‘, ha az alaptÅ‘ke-leszÃ¡llÃ­tÃ¡shoz kapcsolÃ³dÃ³ kockÃ¡zattal arÃ¡nyos biztosÃ­tÃ©kkal Â­ jogszabÃ¡ly vagy szerzÅ‘dÃ©s alapjÃ¡n Â­ mÃ¡r rendelkezik, vagy ha a rÃ©szvÃ©nytÃ¡rsasÃ¡g pÃ©nzÃ¼gyi, vagyoni helyzetÃ©re figyelemmel a biztosÃ­tÃ©kadÃ¡s indokolatlan.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110043537</mezo>
-<mezo id = "nev">MÁV Vagyonkezelõ Részvénytársaság</mezo>
+<mezo id = "nev">MÃV VagyonkezelÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1136 Budapest</mezo>
 </alrovat>
 </rovat>

@@ -5,7 +5,7 @@
 <mezo id = "cf">10</mezo>
 <mezo id = "szam">040685</mezo>
 <mezo id = "nevalrovat">2</mezo>
-<mezo id = "cim">2440 Százhalombatta, Arany János utca 7. földszint 1. </mezo>
+<mezo id = "cim">2440 SzÃ¡zhalombatta, Arany JÃ¡nos utca 7. fÃ¶ldszint 1. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">12632596213</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20060705</mezo>
-<mezo id = "nev">Aranyponty Halászati Zártkörû Részvénytársaság</mezo>
+<mezo id = "nev">Aranyponty HalÃ¡szati ZÃ¡rtkÃ¶rÅ± RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -30,8 +30,8 @@
 <alrovat id = "3">
 <mezo id = "hattol">20080701</mezo>
 <mezo id = "irsz">2440</mezo>
-<mezo id = "hely">Százhalombatta</mezo>
-<mezo id = "teru">Arany János utca 7. földszint 1.</mezo>
+<mezo id = "hely">SzÃ¡zhalombatta</mezo>
+<mezo id = "teru">Arany JÃ¡nos utca 7. fÃ¶ldszint 1.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">20080701</mezo>
 <mezo id = "valtv">0</mezo>
@@ -43,12 +43,12 @@
 <alrovat id = "1">
 <mezo id = "hattol">20010626</mezo>
 <mezo id = "irsz">7014</mezo>
-<mezo id = "hely">Sáregres, Rétimajor 0138 hrsz.</mezo>
+<mezo id = "hely">SÃ¡regres, RÃ©timajor 0138 hrsz.</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20010626</mezo>
 <mezo id = "irsz">2100</mezo>
-<mezo id = "hely">Gödöllõ, Isaszegi út 0152/2.</mezo>
+<mezo id = "hely">GÃ¶dÃ¶llÅ‘, Isaszegi Ãºt 0152/2.</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20010626</mezo>
@@ -63,12 +63,12 @@
 <alrovat id = "6">
 <mezo id = "hattol">20030306</mezo>
 <mezo id = "irsz">4071</mezo>
-<mezo id = "hely">Hortobágy, 01463 hrsz.</mezo>
+<mezo id = "hely">HortobÃ¡gy, 01463 hrsz.</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">20030306</mezo>
 <mezo id = "irsz">4071</mezo>
-<mezo id = "hely">Hortobágy, 01464/1 hrsz.</mezo>
+<mezo id = "hely">HortobÃ¡gy, 01464/1 hrsz.</mezo>
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">20050526</mezo>
@@ -2130,9 +2130,9 @@
 <rovat id = "13">
 <alrovat id = "9">
 <mezo id = "hattol">20100401</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (vezérigazgató)</mezo>
-<mezo id = "pnev">Lévai Ferenc</mezo>
-<mezo id = "panev">Serák Katalin</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (vezÃ©rigazgatÃ³)</mezo>
+<mezo id = "pnev">LÃ©vai Ferenc</mezo>
+<mezo id = "panev">SerÃ¡k Katalin</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20010401</mezo>
 <mezo id = "valtk">20100401</mezo>
@@ -2141,9 +2141,9 @@
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">20100401</mezo>
-<mezo id = "tiszt">cégvezetõ</mezo>
-<mezo id = "pnev">Jászné Kürtösi Izabella</mezo>
-<mezo id = "panev">Rontó Izabella</mezo>
+<mezo id = "tiszt">cÃ©gvezetÅ‘</mezo>
+<mezo id = "pnev">JÃ¡sznÃ© KÃ¼rtÃ¶si Izabella</mezo>
+<mezo id = "panev">RontÃ³ Izabella</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100401</mezo>
 <mezo id = "valtk">20100401</mezo>
@@ -2159,12 +2159,12 @@
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1072</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Nagydiófa utca 26-28.</mezo>
-<mezo id = "pnev">László Sándor</mezo>
+<mezo id = "teru">NagydiÃ³fa utca 26-28.</mezo>
+<mezo id = "pnev">LÃ¡szlÃ³ SÃ¡ndor</mezo>
 <mezo id = "panev">Telegdi Ilona</mezo>
 <mezo id = "pirsz">1072</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Nagydiófa utca 26-28.</mezo>
+<mezo id = "pteru">NagydiÃ³fa utca 26-28.</mezo>
 <mezo id = "jogvk">20110908</mezo>
 <mezo id = "jogvv">20160531</mezo>
 <mezo id = "valtk">20110908</mezo>
@@ -2174,19 +2174,19 @@
 <rovat id = "15">
 <alrovat id = "9">
 <mezo id = "hattol">20050526</mezo>
-<mezo id = "pnev">iovásznai Szász Béla</mezo>
-<mezo id = "panev">Kovásznai Katalin</mezo>
+<mezo id = "pnev">iovÃ¡sznai SzÃ¡sz BÃ©la</mezo>
+<mezo id = "panev">KovÃ¡sznai Katalin</mezo>
 <mezo id = "pirsz">2100</mezo>
-<mezo id = "phely">Gödöllõ, Õsz u. 20.</mezo>
+<mezo id = "phely">GÃ¶dÃ¶llÅ‘, Åsz u. 20.</mezo>
 <mezo id = "jogvk">20040223</mezo>
 <mezo id = "jogvv">20090228</mezo>
 </alrovat>
 <alrovat id = "12">
 <mezo id = "hattol">20080701</mezo>
-<mezo id = "pnev">Fent Gyõzõ</mezo>
-<mezo id = "panev">Láng Ibolya Margit</mezo>
+<mezo id = "pnev">Fent GyÅ‘zÅ‘</mezo>
+<mezo id = "panev">LÃ¡ng Ibolya Margit</mezo>
 <mezo id = "pirsz">7000</mezo>
-<mezo id = "phely">Sárbogárd, Berzsenyi D. u. 8.</mezo>
+<mezo id = "phely">SÃ¡rbogÃ¡rd, Berzsenyi D. u. 8.</mezo>
 <mezo id = "jogvk">20080701</mezo>
 <mezo id = "jogvv">20130630</mezo>
 <mezo id = "valtk">20080701</mezo>
@@ -2196,10 +2196,10 @@
 </alrovat>
 <alrovat id = "13">
 <mezo id = "hattol">20080701</mezo>
-<mezo id = "pnev">Kovásznai Szász Béla</mezo>
-<mezo id = "panev">Kovásznai Katalin</mezo>
+<mezo id = "pnev">KovÃ¡sznai SzÃ¡sz BÃ©la</mezo>
+<mezo id = "panev">KovÃ¡sznai Katalin</mezo>
 <mezo id = "pirsz">2100</mezo>
-<mezo id = "phely">Gödöllõ, Õsz u. 20.</mezo>
+<mezo id = "phely">GÃ¶dÃ¶llÅ‘, Åsz u. 20.</mezo>
 <mezo id = "jogvk">20080701</mezo>
 <mezo id = "jogvv">20130630</mezo>
 <mezo id = "valtk">20080701</mezo>
@@ -2209,10 +2209,10 @@
 </alrovat>
 <alrovat id = "14">
 <mezo id = "hattol">20080701</mezo>
-<mezo id = "pnev">Török Henrietta</mezo>
-<mezo id = "panev">Rontó Erzsébet</mezo>
+<mezo id = "pnev">TÃ¶rÃ¶k Henrietta</mezo>
+<mezo id = "panev">RontÃ³ ErzsÃ©bet</mezo>
 <mezo id = "pirsz">2440</mezo>
-<mezo id = "phely">Százhalombatta, Csokonai u. 27. a. ép .</mezo>
+<mezo id = "phely">SzÃ¡zhalombatta, Csokonai u. 27. a. Ã©p .</mezo>
 <mezo id = "jogvk">20080701</mezo>
 <mezo id = "jogvv">20130630</mezo>
 <mezo id = "valtk">20080701</mezo>
@@ -2225,7 +2225,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20010626</mezo>
 <mezo id = "cgjsz">1302050382</mezo>
-<mezo id = "nev">Aranyponty Kistermelõk Szövetkezete</mezo>
+<mezo id = "nev">Aranyponty KistermelÅ‘k SzÃ¶vetkezete</mezo>
 </alrovat>
 </rovat>
 <rovat id = "20">
@@ -2238,17 +2238,17 @@
 <mezo id = "adosz">12632596213</mezo>
 <mezo id = "kadosz">HU12632596</mezo>
 <mezo id = "bkelt">20111019</mezo>
-<mezo id = "megj">Státusz kezdete: 2001/03/29</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 2001/03/29</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0110">
 <alrovat id = "1">
 <mezo id = "hattol">20010626</mezo>
 <mezo id = "befmert">94</mezo>
-<mezo id = "pnev">Lévai Ferenc</mezo>
-<mezo id = "panev">Serák Katalin</mezo>
+<mezo id = "pnev">LÃ©vai Ferenc</mezo>
+<mezo id = "panev">SerÃ¡k Katalin</mezo>
 <mezo id = "pirsz">7014</mezo>
-<mezo id = "phely">Sáregres, Rétimajor 0138.</mezo>
+<mezo id = "phely">SÃ¡regres, RÃ©timajor 0138.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "93">
@@ -2260,78 +2260,78 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Lévai Ferenc (a. n.: Serák Katalin), 7014 Sáregres-Rétimajor, 0138. hrsz. alatti lakos közzéteszi, hogy az Aranyponty Halászati Részvénytársaságban (Cg.: [13 10 040685]; 2440 Százhalombatta, Szent István tér 1-3.) 2001. június 26-án a részvények 94%-ának megszerzésével, 1081 szavazattal közvetlen irányítást biztosító befolyást szerzett.<ujsor/>
-A Gt. 296. § (2) bekezdése alapján felhívjuk a társaság hitelezõit, hogy akinek le nem járt követelése van társaságunkkal szemben a közzétételt követõ 90 napos jogvesztõ határidõn belül biztosítékot követelhetnek az uralkodó tagtól.<ujsor/>
+<mezo id = "szoveg">LÃ©vai Ferenc (a. n.: SerÃ¡k Katalin), 7014 SÃ¡regres-RÃ©timajor, 0138. hrsz. alatti lakos kÃ¶zzÃ©teszi, hogy az Aranyponty HalÃ¡szati RÃ©szvÃ©nytÃ¡rsasÃ¡gban (Cg.: [13 10 040685]; 2440 SzÃ¡zhalombatta, Szent IstvÃ¡n tÃ©r 1-3.) 2001. jÃºnius 26-Ã¡n a rÃ©szvÃ©nyek 94%-Ã¡nak megszerzÃ©sÃ©vel, 1081 szavazattal kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡st szerzett.<ujsor/>
+A Gt. 296. Â§ (2) bekezdÃ©se alapjÃ¡n felhÃ­vjuk a tÃ¡rsasÃ¡g hitelezÅ‘it, hogy akinek le nem jÃ¡rt kÃ¶vetelÃ©se van tÃ¡rsasÃ¡gunkkal szemben a kÃ¶zzÃ©tÃ©telt kÃ¶vetÅ‘ 90 napos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek az uralkodÃ³ tagtÃ³l.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1310040685</mezo>
-<mezo id = "nev">Aranyponty Halászati Részvénytársaság</mezo>
-<mezo id = "cim">2440 Százhalombatta, Szent István tér 1-3. </mezo>
+<mezo id = "nev">Aranyponty HalÃ¡szati RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2440 SzÃ¡zhalombatta, Szent IstvÃ¡n tÃ©r 1-3. </mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2005. 08. 24-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-5(10). Részvényfajta: törzsrészvény.<ujsor/>
- ötszáznyolcvan darab egyszázezer Ft.<ujsor/>
- Törölve: 2005. 09. 26-i hatállyal.<ujsor/>
- Részvényfajta: névre szóló elsõbbségi részvény.<ujsor/>
- ötszáznyolcvan darab egyszázezer Ft.<ujsor/>
- Hatályos: 2005. 09. 26-tól.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2005. 08. 24-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+5(10). RÃ©szvÃ©nyfajta: tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+ Ã¶tszÃ¡znyolcvan darab egyszÃ¡zezer Ft.<ujsor/>
+ TÃ¶rÃ¶lve: 2005. 09. 26-i hatÃ¡llyal.<ujsor/>
+ RÃ©szvÃ©nyfajta: nÃ©vre szÃ³lÃ³ elsÅ‘bbsÃ©gi rÃ©szvÃ©ny.<ujsor/>
+ Ã¶tszÃ¡znyolcvan darab egyszÃ¡zezer Ft.<ujsor/>
+ HatÃ¡lyos: 2005. 09. 26-tÃ³l.<ujsor/>
 Bejegyezve: 2005. 09. 26.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1310040685</mezo>
-<mezo id = "nev">Aranyponty Halászati Részvénytársaság</mezo>
-<mezo id = "cim">2440 Százhalombatta, Vörösmarty u. 16/B.</mezo>
+<mezo id = "nev">Aranyponty HalÃ¡szati RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2440 SzÃ¡zhalombatta, VÃ¶rÃ¶smarty u. 16/B.</mezo>
 <mezo id = "adosz">12632596213</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2005. 08. 24-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-A 15/010 rovat jogviszony vége: 2009 .02 .28. helyesen. /rontott: 2005 .02 .28./ <ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2005. 08. 24-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+A 15/010 rovat jogviszony vÃ©ge: 2009 .02 .28. helyesen. /rontott: 2005 .02 .28./ <ujsor/>
 Bejegyezve: 2005. 10. 05.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1310040685</mezo>
-<mezo id = "nev">Aranyponty Halászati Részvénytársaság</mezo>
-<mezo id = "cim">2440 Százhalombatta, Vörösmarty u. 16/B.</mezo>
+<mezo id = "nev">Aranyponty HalÃ¡szati RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2440 SzÃ¡zhalombatta, VÃ¶rÃ¶smarty u. 16/B.</mezo>
 <mezo id = "adosz">12632596213</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2005. 09. 13-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-15. iovásznai Szász Béla (an: Kovásznai Katalin)<ujsor/>
-2100 Gödöllõ, Õsz u. 20.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2005. 09. 13-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+15. iovÃ¡sznai SzÃ¡sz BÃ©la (an: KovÃ¡sznai Katalin)<ujsor/>
+2100 GÃ¶dÃ¶llÅ‘, Åsz u. 20.<ujsor/>
  A jogviszony kezdete: 2004. 02. 23.<ujsor/>
- A jogviszony vége: 2009. 02. 28.<ujsor/>
- Törölve: 2005. 05. 26-i hatállyal.<ujsor/>
- Kovásznai Szász Béla (an: Kovásznai Katalin)<ujsor/>
-2100 Gödöllõ, Õsz utca 20.<ujsor/>
+ A jogviszony vÃ©ge: 2009. 02. 28.<ujsor/>
+ TÃ¶rÃ¶lve: 2005. 05. 26-i hatÃ¡llyal.<ujsor/>
+ KovÃ¡sznai SzÃ¡sz BÃ©la (an: KovÃ¡sznai Katalin)<ujsor/>
+2100 GÃ¶dÃ¶llÅ‘, Åsz utca 20.<ujsor/>
  A jogviszony kezdete: 2004. 02. 23.<ujsor/>
- A jogviszony vége: 2009. 02. 28.<ujsor/>
- Hatályos: 2005. 05. 26-tól.<ujsor/>
+ A jogviszony vÃ©ge: 2009. 02. 28.<ujsor/>
+ HatÃ¡lyos: 2005. 05. 26-tÃ³l.<ujsor/>
 Bejegyezve: 2005. 09. 13.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1310040685</mezo>
-<mezo id = "nev">Aranyponty Halászati Részvénytársaság</mezo>
-<mezo id = "cim">2440 Százhalombatta, Vörösmarty u. 16/B.</mezo>
+<mezo id = "nev">Aranyponty HalÃ¡szati RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2440 SzÃ¡zhalombatta, VÃ¶rÃ¶smarty u. 16/B.</mezo>
 <mezo id = "adosz">12632596213</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2005. 10. 20-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-5(10). Részvényfajta: névre szóló elsõbbségi részvény.<ujsor/>
- ötszáznyolcvan darab egyszázezer Ft.<ujsor/>
- Törölve: 2005. 10. 20-i hatállyal.<ujsor/>
- Részvényfajta: szavazati joggal nem járó elsõbbségi részvény.<ujsor/>
- Hétszáz darab egyszázezer Ft.<ujsor/>
- Hatályos: 2005. 10. 20-tól.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2005. 10. 20-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+5(10). RÃ©szvÃ©nyfajta: nÃ©vre szÃ³lÃ³ elsÅ‘bbsÃ©gi rÃ©szvÃ©ny.<ujsor/>
+ Ã¶tszÃ¡znyolcvan darab egyszÃ¡zezer Ft.<ujsor/>
+ TÃ¶rÃ¶lve: 2005. 10. 20-i hatÃ¡llyal.<ujsor/>
+ RÃ©szvÃ©nyfajta: szavazati joggal nem jÃ¡rÃ³ elsÅ‘bbsÃ©gi rÃ©szvÃ©ny.<ujsor/>
+ HÃ©tszÃ¡z darab egyszÃ¡zezer Ft.<ujsor/>
+ HatÃ¡lyos: 2005. 10. 20-tÃ³l.<ujsor/>
 Bejegyezve: 2006. 02. 15.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1310040685</mezo>
-<mezo id = "nev">Aranyponty Halászati Részvénytársaság</mezo>
-<mezo id = "cim">2440 Százhalombatta, Vörösmarty u. 16/B.</mezo>
+<mezo id = "nev">Aranyponty HalÃ¡szati RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2440 SzÃ¡zhalombatta, VÃ¶rÃ¶smarty u. 16/B.</mezo>
 <mezo id = "adosz">12632596213</mezo>
 </alrovat>
 </rovat>

@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">070862</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">7634 Pécs, Cserkúti út 32. </mezo>
+<mezo id = "cim">7634 PÃ©cs, CserkÃºti Ãºt 32. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">13757001202</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20060629</mezo>
-<mezo id = "nev">UNI-KOM-TECH Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">UNI-KOM-TECH Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -30,8 +30,8 @@
 <alrovat id = "3">
 <mezo id = "hattol">20101011</mezo>
 <mezo id = "irsz">7634</mezo>
-<mezo id = "hely">Pécs</mezo>
-<mezo id = "teru">Cserkúti út 32.</mezo>
+<mezo id = "hely">PÃ©cs</mezo>
+<mezo id = "teru">CserkÃºti Ãºt 32.</mezo>
 <mezo id = "valtk">20101011</mezo>
 <mezo id = "bkelt">20101119</mezo>
 </alrovat>
@@ -40,7 +40,7 @@
 <alrovat id = "2">
 <mezo id = "hattol">20101111</mezo>
 <mezo id = "irsz">7630</mezo>
-<mezo id = "hely">Pécs</mezo>
+<mezo id = "hely">PÃ©cs</mezo>
 <mezo id = "teru">Finn u. 2.</mezo>
 <mezo id = "valtk">20101111</mezo>
 <mezo id = "bkelt">20101119</mezo>
@@ -609,7 +609,7 @@
 <mezo id = "hattol">20100601</mezo>
 <mezo id = "valtk">20100601</mezo>
 <mezo id = "bkelt">20100614</mezo>
-<mezo id = "teaszov">Egyéb gépjármû kereskedelem</mezo>
+<mezo id = "teaszov">EgyÃ©b gÃ©pjÃ¡rmÅ± kereskedelem</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -626,10 +626,10 @@
 <rovat id = "13">
 <alrovat id = "4">
 <mezo id = "hattol">20100601</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "email">bucsuhazy@sereskft.hu</mezo>
-<mezo id = "pnev">Bucsuházy Csaba</mezo>
-<mezo id = "panev">Marczi Teréz</mezo>
+<mezo id = "pnev">BucsuhÃ¡zy Csaba</mezo>
+<mezo id = "panev">Marczi TerÃ©z</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100601</mezo>
 <mezo id = "valtk">20100601</mezo>
@@ -662,10 +662,10 @@
 <rovat id = "0109">
 <alrovat id = "5">
 <mezo id = "hattol">20070405</mezo>
-<mezo id = "pnev">Bucsuházy Csaba</mezo>
-<mezo id = "panev">Marczi Teréz</mezo>
+<mezo id = "pnev">BucsuhÃ¡zy Csaba</mezo>
+<mezo id = "panev">Marczi TerÃ©z</mezo>
 <mezo id = "pirsz">7634</mezo>
-<mezo id = "phely">Pécs, Cserkúti út 32.</mezo>
+<mezo id = "phely">PÃ©cs, CserkÃºti Ãºt 32.</mezo>
 <mezo id = "tagsk">20060605</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">0</mezo>
@@ -673,10 +673,10 @@
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">20080531</mezo>
-<mezo id = "pnev">Máté Ferenc</mezo>
-<mezo id = "panev">Bíró Anna</mezo>
+<mezo id = "pnev">MÃ¡tÃ© Ferenc</mezo>
+<mezo id = "panev">BÃ­rÃ³ Anna</mezo>
 <mezo id = "pirsz">9700</mezo>
-<mezo id = "phely">Szombathely, Álmos vezér utca 8.</mezo>
+<mezo id = "phely">Szombathely, Ãlmos vezÃ©r utca 8.</mezo>
 <mezo id = "tagsk">20080531</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20080531</mezo>
@@ -686,8 +686,8 @@
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">20100601</mezo>
-<mezo id = "pnev">Seres László</mezo>
-<mezo id = "panev">Schäffer Margit</mezo>
+<mezo id = "pnev">Seres LÃ¡szlÃ³</mezo>
+<mezo id = "panev">SchÃ¤ffer Margit</mezo>
 <mezo id = "tagsk">20060629</mezo>
 <mezo id = "valtk">20100601</mezo>
 <mezo id = "bkelt">20100614</mezo>
@@ -697,12 +697,12 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a Pécsett, 2007 .11 .27-én kelt Cg.02-09-070862 /16. számú végzését hatályon kívül helyezi. <ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a PÃ©csett, 2007 .11 .27-Ã©n kelt Cg.02-09-070862 /16. szÃ¡mÃº vÃ©gzÃ©sÃ©t hatÃ¡lyon kÃ­vÃ¼l helyezi. <ujsor/>
 2007. 12. 13.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0209070862</mezo>
-<mezo id = "nev">UNI-KOM-TECH Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">7630 Pécs, Bajor utca 2/1.</mezo>
+<mezo id = "nev">UNI-KOM-TECH Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">7630 PÃ©cs, Bajor utca 2/1.</mezo>
 <mezo id = "adosz">13757001202</mezo>
 </alrovat>
 </rovat>

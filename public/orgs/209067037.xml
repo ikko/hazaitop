@@ -6,7 +6,7 @@
 <mezo id = "szam">067037</mezo>
 <mezo id = "nevalrovat">2</mezo>
 <mezo id = "regi_szh">0609004996</mezo>
-<mezo id = "cim">7632 Pécs, Kertváros utca 2. </mezo>
+<mezo id = "cim">7632 PÃ©cs, KertvÃ¡ros utca 2. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">11399830202</mezo>
 </alrovat>
@@ -14,7 +14,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20000831</mezo>
-<mezo id = "nev">EKOFUTUR Környezettechnológiai Termelõ és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">EKOFUTUR KÃ¶rnyezettechnolÃ³giai TermelÅ‘ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -26,8 +26,8 @@
 <alrovat id = "4">
 <mezo id = "hattol">20090803</mezo>
 <mezo id = "irsz">7632</mezo>
-<mezo id = "hely">Pécs</mezo>
-<mezo id = "teru">Kertváros utca 2.</mezo>
+<mezo id = "hely">PÃ©cs</mezo>
+<mezo id = "teru">KertvÃ¡ros utca 2.</mezo>
 <mezo id = "valtk">20090803</mezo>
 <mezo id = "bkelt">20090909</mezo>
 </alrovat>
@@ -36,19 +36,19 @@
 <alrovat id = "5">
 <mezo id = "hattol">20050701</mezo>
 <mezo id = "irsz">7761</mezo>
-<mezo id = "hely">Kozármisleny, Rózsa utca 3.</mezo>
+<mezo id = "hely">KozÃ¡rmisleny, RÃ³zsa utca 3.</mezo>
 <mezo id = "orsz">HU</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20050701</mezo>
 <mezo id = "irsz">2220</mezo>
-<mezo id = "hely">Vecsés, Széchenyi utca 87.</mezo>
+<mezo id = "hely">VecsÃ©s, SzÃ©chenyi utca 87.</mezo>
 <mezo id = "orsz">HU</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">20080417</mezo>
 <mezo id = "irsz">2421</mezo>
-<mezo id = "hely">Nagyvenyim-Mélykút 0216.</mezo>
+<mezo id = "hely">Nagyvenyim-MÃ©lykÃºt 0216.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20080417</mezo>
 <mezo id = "valtv">0</mezo>
@@ -58,7 +58,7 @@
 <alrovat id = "8">
 <mezo id = "hattol">20080417</mezo>
 <mezo id = "irsz">2407</mezo>
-<mezo id = "hely">Dunaújváros-Pálhalma 078/27.</mezo>
+<mezo id = "hely">DunaÃºjvÃ¡ros-PÃ¡lhalma 078/27.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20080417</mezo>
 <mezo id = "valtv">0</mezo>
@@ -68,7 +68,7 @@
 <alrovat id = "9">
 <mezo id = "hattol">20080417</mezo>
 <mezo id = "irsz">9700</mezo>
-<mezo id = "hely">Szombathely, Söptei út 0203/3.</mezo>
+<mezo id = "hely">Szombathely, SÃ¶ptei Ãºt 0203/3.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20080417</mezo>
 <mezo id = "valtv">0</mezo>
@@ -1456,10 +1456,10 @@
 <rovat id = "13">
 <alrovat id = "7">
 <mezo id = "hattol">20070712</mezo>
-<mezo id = "pnev">Kovács Árpád Lászlóné</mezo>
-<mezo id = "panev">Werner Erzsébet</mezo>
+<mezo id = "pnev">KovÃ¡cs ÃrpÃ¡d LÃ¡szlÃ³nÃ©</mezo>
+<mezo id = "panev">Werner ErzsÃ©bet</mezo>
 <mezo id = "pirsz">7626</mezo>
-<mezo id = "phely">Pécs, Rippl-Rónai utca 26. I/3.</mezo>
+<mezo id = "phely">PÃ©cs, Rippl-RÃ³nai utca 26. I/3.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">d</mezo>
 <mezo id = "jogvk">20070521</mezo>
@@ -1469,12 +1469,12 @@
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">20090803</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Kovács Zsolt</mezo>
-<mezo id = "panev">Lantos Erzsébet</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">KovÃ¡cs Zsolt</mezo>
+<mezo id = "panev">Lantos ErzsÃ©bet</mezo>
 <mezo id = "pirsz">7761</mezo>
-<mezo id = "phely">Kozármisleny</mezo>
-<mezo id = "pteru">Rózsa utca 3.</mezo>
+<mezo id = "phely">KozÃ¡rmisleny</mezo>
+<mezo id = "pteru">RÃ³zsa utca 3.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20090803</mezo>
 <mezo id = "jogvv">20120518</mezo>
@@ -1486,16 +1486,16 @@
 <alrovat id = "2">
 <mezo id = "hattol">20090803</mezo>
 <mezo id = "cgjsz">0109366208</mezo>
-<mezo id = "nev">D-F-M Audit Könyvvizsgáló Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">D-F-M Audit KÃ¶nyvvizsgÃ¡lÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1016</mezo>
 <mezo id = "hely">Budapest</mezo>
 <mezo id = "teru">Zsolt utca 6/c. I. em. 4.</mezo>
-<mezo id = "pnev">Pintér Zsuzsanna</mezo>
-<mezo id = "panev">Farkas Irén</mezo>
+<mezo id = "pnev">PintÃ©r Zsuzsanna</mezo>
+<mezo id = "panev">Farkas IrÃ©n</mezo>
 <mezo id = "pirsz">1112</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">XI. kerület, Oltvány árok 13/a.</mezo>
+<mezo id = "pteru">XI. kerÃ¼let, OltvÃ¡ny Ã¡rok 13/a.</mezo>
 <mezo id = "jogvk">20090803</mezo>
 <mezo id = "jogvv">20120531</mezo>
 <mezo id = "valtk">20090803</mezo>
@@ -1529,17 +1529,17 @@
 <rovat id = "22">
 <alrovat id = "1">
 <mezo id = "jccjsz">0210060363</mezo>
-<mezo id = "nev">ENVIROINVEST Környezetvédelmi és Biotechnológiai Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">ENVIROINVEST KÃ¶rnyezetvÃ©delmi Ã©s BiotechnolÃ³giai ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "atdat">20100831</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0109">
 <alrovat id = "12">
 <mezo id = "hattol">20070712</mezo>
-<mezo id = "pnev">Kovács Zsolt</mezo>
-<mezo id = "panev">Lantos Erzsébet</mezo>
+<mezo id = "pnev">KovÃ¡cs Zsolt</mezo>
+<mezo id = "panev">Lantos ErzsÃ©bet</mezo>
 <mezo id = "pirsz">7761</mezo>
-<mezo id = "phely">Kozármisleny, Rózsa utca 3.</mezo>
+<mezo id = "phely">KozÃ¡rmisleny, RÃ³zsa utca 3.</mezo>
 <mezo id = "tagsk">19990201</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20070521</mezo>
@@ -1547,10 +1547,10 @@
 </alrovat>
 <alrovat id = "14">
 <mezo id = "hattol">20070712</mezo>
-<mezo id = "pnev">Kovács Árpád Lászlóné</mezo>
-<mezo id = "panev">Werner Erzsébet</mezo>
+<mezo id = "pnev">KovÃ¡cs ÃrpÃ¡d LÃ¡szlÃ³nÃ©</mezo>
+<mezo id = "panev">Werner ErzsÃ©bet</mezo>
 <mezo id = "pirsz">7626</mezo>
-<mezo id = "phely">Pécs, Rippl-Rónai utca 26. I/3.</mezo>
+<mezo id = "phely">PÃ©cs, Rippl-RÃ³nai utca 26. I/3.</mezo>
 <mezo id = "tagsk">20000430</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "sz1">x</mezo>
@@ -1559,11 +1559,11 @@
 </alrovat>
 <alrovat id = "15">
 <mezo id = "hattol">20090803</mezo>
-<mezo id = "pnev">dr. Kovács Tamás</mezo>
-<mezo id = "panev">Lantos Erzsébet</mezo>
+<mezo id = "pnev">dr. KovÃ¡cs TamÃ¡s</mezo>
+<mezo id = "panev">Lantos ErzsÃ©bet</mezo>
 <mezo id = "pirsz">2071</mezo>
-<mezo id = "phely">Páty</mezo>
-<mezo id = "pteru">Tulipán utca 61.</mezo>
+<mezo id = "phely">PÃ¡ty</mezo>
+<mezo id = "pteru">TulipÃ¡n utca 61.</mezo>
 <mezo id = "tagsk">20050701</mezo>
 <mezo id = "valtk">20090803</mezo>
 <mezo id = "bkelt">20090909</mezo>
@@ -1578,161 +1578,161 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2003. 02. 25-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-1(09). A társaság irányítását biztosító befolyásolás fajtája: többségi irányítást biztosító befolyás.<ujsor/>
- Kovács Árpádné (an: Werner Erzsébet)<ujsor/>
-7626 Pécs, Rippl-Rónai u. 26.<ujsor/>
- Hatályos: 2000. 04. 30-tól.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2003. 02. 25-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+1(09). A tÃ¡rsasÃ¡g irÃ¡nyÃ­tÃ¡sÃ¡t biztosÃ­tÃ³ befolyÃ¡solÃ¡s fajtÃ¡ja: tÃ¶bbsÃ©gi irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡s.<ujsor/>
+ KovÃ¡cs ÃrpÃ¡dnÃ© (an: Werner ErzsÃ©bet)<ujsor/>
+7626 PÃ©cs, Rippl-RÃ³nai u. 26.<ujsor/>
+ HatÃ¡lyos: 2000. 04. 30-tÃ³l.<ujsor/>
 Bejegyezve: 2003. 03. 13.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0209067037</mezo>
-<mezo id = "nev">EKOFUTUR Környezettechnológiai Termelõ és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">7634 Pécs, Pálma u. 10.</mezo>
+<mezo id = "nev">EKOFUTUR KÃ¶rnyezettechnolÃ³giai TermelÅ‘ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">7634 PÃ©cs, PÃ¡lma u. 10.</mezo>
 <mezo id = "adosz">11399830202</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az ENVIROINVEST Kft. (Cg.: [01 09 676105]; 1055 Budapest, Szalay u. 4.), az ENVIROINVEST-WASTE Kft. (Cg.: [01 09 711860]; 1055 Budapest, Szalay u. 4.) és az EKOFUTUR Kft. (Cg.: [02 09 067037]; 7632 Pécs, Kertváros u. 2.) egyesülnek.<ujsor/>
-Az egyesülés módja: összeolvadás.<ujsor/>
-Az összeolvadással a Gt. 80. § (1) bekezdés alapján az egyesülõ gazdasági társaságok megszûnnek, és vagyonuk az átalakulással létrejövõ új gazdasági társaságra [(ENVIROINVEST Környezetvédelmi és Biotechnológiai Zártkörûen Mûködõ Részvénytársaság (rövidített cégnév: ENVIROINVEST Zrt.)], mint jogutódra száll át.<ujsor/>
-Az összeolvadás fordulónapja (átalakulásához fûzõdõ joghatások beállásának a napja) 2010. augusztus 31. [Gt. 74. § (6) bekezdés, Ctv. 57. § (2) bekezdés].<ujsor/>
-A jogutód gazdasági társaság „alapító okirat”, valamint az „egyesülési szerzõdés” aláírásának napja: 2010. június 10.<ujsor/>
-Az ENVIROINVEST Kft. (záró) vagyonmérleg-tervezetének legfontosabb adatai (2009. december 31.)<ujsor/>
-ESZKÖZÖK (aktívák) (E Ft) FORRÁSOK (passzívák) (E Ft)<ujsor/>
-Befektetett eszközök 21 469 Saját tõke 56 403<ujsor/>
-Forgóeszközök 88 839 Jegyzett tõke 5 000<ujsor/>
-Készletek Tõketartalék<ujsor/>
-Követelések 56 328 Eredménytartalék 48 190<ujsor/>
-Értékpapírok Lekötött tartalék<ujsor/>
-Pénzeszközök 32 511 Céltartalékok<ujsor/>
-Aktív idõbeli elhatárolások 3 201 Kötelezettségek 44 978<ujsor/>
-Passzív idõbeli elhatárolások 12 488<ujsor/>
-ÖSSZESEN: 113 509 ÖSSZESEN: 113 509<ujsor/>
-Az ENVIROINVEST-WASTE Kft. (záró) vagyonmérleg-tervezetének legfontosabb adatai (2009. december 31.)<ujsor/>
-ESZKÖZÖK (aktívák) (E Ft) FORRÁSOK (passzívák) (E Ft)<ujsor/>
-Befektetett eszközök 29 747 Saját tõke 14 604<ujsor/>
-Forgóeszközök 16 248 Jegyzett tõke 3 000<ujsor/>
-Készletek 170 Tõketartalék<ujsor/>
-Követelések 15 415 Eredménytartalék 8 880<ujsor/>
-Értékpapírok Lekötött tartalék<ujsor/>
-Pénzeszközök 663 Céltartalékok<ujsor/>
-Aktív idõbeli elhatárolások 7 360 Kötelezettségek 26 387<ujsor/>
-Passzív idõbeli elhatárolások 12 364<ujsor/>
-ÖSSZESEN: 53 355 ÖSSZESEN: 53 355<ujsor/>
-Az EKOFUTUR Kft. (záró) vagyonmérleg-tervezetének legfontosabb adatai (2009. december 31.)<ujsor/>
-ESZKÖZÖK (aktívák) (E Ft) FORRÁSOK (passzívák) (E Ft)<ujsor/>
-Befektetett eszközök 103 684 Saját tõke 23 990<ujsor/>
-Forgóeszközök 34 131 Jegyzett tõke 3 000<ujsor/>
-Készletek 4 350 Tõketartalék<ujsor/>
-Követelések 20 890 Eredménytartalék 19 485<ujsor/>
-Értékpapírok Lekötött tartalék<ujsor/>
-Pénzeszközök 8 891 Céltartalékok<ujsor/>
-Aktív idõbeli elhatárolások 38 695 Kötelezettségek 94 422<ujsor/>
-Passzív idõbeli elhatárolások 58 098<ujsor/>
-ÖSSZESEN: 176 510 ÖSSZESEN: 176 510<ujsor/>
-A létrejövõ gazdasági társaság fõbb adatai:<ujsor/>
-Formája: zártkörûen mûködõ részvénytársaság.<ujsor/>
-Cégneve: ENVIROINVEST Környezetvédelmi és Biotechnológiai Zártkörûen Mûködõ Részvénytársaság.<ujsor/>
-Névrövidítésre használt címszó: ENVIROINVEST Zrt.<ujsor/>
-Székhelye: 7632 Pécs, Kertváros u. 2.<ujsor/>
-Fõ tevékenysége (TEÁOR’08): 7490 M.n.s. egyéb szakmai, tudományos, mûszaki tevékenység.<ujsor/>
-Jegyzett tõkéje: 5 000 000 Ft (ötmillió forint).<ujsor/>
-A részvények fajtája (Gt. 282. §): névre szóló törzsrészvények.<ujsor/>
-Részvények névértéke összesen: 5 000 000 Ft (ötmillió forint), mely áll 49 db (negyvenkilenc darab) egyenként 100 000 Ft névértékû, valamint 20 db (húsz darab) egyenként 5000 Ft névértékû névre szóló törzsrészvénybõl.<ujsor/>
-Jogutód Zrt. (összeolvadás) mûködése megkezdésének idõpontja: 2010. augusztus 31. [Gt. 74. § (6) bekezdés, Ctv. 57. § (2) bekezdés].<ujsor/>
-Vezetõ tisztségviselõ (vezérigazgató): Kovács Árpád László (7626 Pécs, Rippl-Rónai u. 26.)<ujsor/>
-A Gt. 247. § alapján igazgatóság választására nem kerül sor.<ujsor/>
-A jogutód ENVIROINVEST Zrt. (nyitó) vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (aktívák) (E Ft) FORRÁSOK (passzívák) (E Ft)<ujsor/>
-Befektetett eszközök 151 900 Saját tõke 87 575<ujsor/>
-Forgóeszközök 118 398 Jegyzett tõke 5 000<ujsor/>
-Készletek 4 520 Tõketartalék 0<ujsor/>
-Követelések 71 813 Eredménytartalék 82 575<ujsor/>
-Értékpapírok 0 Lekötött tartalék 0<ujsor/>
-Pénzeszközök 42 065 Céltartalékok 0<ujsor/>
-Aktív idõbeli elhatárolások 42 442 Kötelezettségek 144 830<ujsor/>
-Passzív idõbeli elhatárolások 80 335<ujsor/>
-ÖSSZESEN: 312 740 ÖSSZESEN: 312 740<ujsor/>
-Az átalakulással érintett gazdasági társaságok az átértékelés lehetõségével nem éltek.<ujsor/>
-A társaság felhívja hitelezõit, hogy követeléseiket a Gt. 76. § (2) bekezdés alapján az összeolvadással érintett társaságoknak jelentsék be.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">Az ENVIROINVEST Kft. (Cg.: [01 09 676105]; 1055 Budapest, Szalay u. 4.), az ENVIROINVEST-WASTE Kft. (Cg.: [01 09 711860]; 1055 Budapest, Szalay u. 4.) Ã©s az EKOFUTUR Kft. (Cg.: [02 09 067037]; 7632 PÃ©cs, KertvÃ¡ros u. 2.) egyesÃ¼lnek.<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: Ã¶sszeolvadÃ¡s.<ujsor/>
+Az Ã¶sszeolvadÃ¡ssal a Gt. 80. Â§ (1) bekezdÃ©s alapjÃ¡n az egyesÃ¼lÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡gok megszÅ±nnek, Ã©s vagyonuk az Ã¡talakulÃ¡ssal lÃ©trejÃ¶vÅ‘ Ãºj gazdasÃ¡gi tÃ¡rsasÃ¡gra [(ENVIROINVEST KÃ¶rnyezetvÃ©delmi Ã©s BiotechnolÃ³giai ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (rÃ¶vidÃ­tett cÃ©gnÃ©v: ENVIROINVEST Zrt.)], mint jogutÃ³dra szÃ¡ll Ã¡t.<ujsor/>
+Az Ã¶sszeolvadÃ¡s fordulÃ³napja (Ã¡talakulÃ¡sÃ¡hoz fÅ±zÅ‘dÅ‘ joghatÃ¡sok beÃ¡llÃ¡sÃ¡nak a napja) 2010. augusztus 31. [Gt. 74. Â§ (6) bekezdÃ©s, Ctv. 57. Â§ (2) bekezdÃ©s].<ujsor/>
+A jogutÃ³d gazdasÃ¡gi tÃ¡rsasÃ¡g â€alapÃ­tÃ³ okiratâ€, valamint az â€egyesÃ¼lÃ©si szerzÅ‘dÃ©sâ€ alÃ¡Ã­rÃ¡sÃ¡nak napja: 2010. jÃºnius 10.<ujsor/>
+Az ENVIROINVEST Kft. (zÃ¡rÃ³) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai (2009. december 31.)<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) (E Ft) FORRÃSOK (passzÃ­vÃ¡k) (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 21 469 SajÃ¡t tÅ‘ke 56 403<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 88 839 Jegyzett tÅ‘ke 5 000<ujsor/>
+KÃ©szletek TÅ‘ketartalÃ©k<ujsor/>
+KÃ¶vetelÃ©sek 56 328 EredmÃ©nytartalÃ©k 48 190<ujsor/>
+Ã‰rtÃ©kpapÃ­rok LekÃ¶tÃ¶tt tartalÃ©k<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 32 511 CÃ©ltartalÃ©kok<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 3 201 KÃ¶telezettsÃ©gek 44 978<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 12 488<ujsor/>
+Ã–SSZESEN: 113 509 Ã–SSZESEN: 113 509<ujsor/>
+Az ENVIROINVEST-WASTE Kft. (zÃ¡rÃ³) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai (2009. december 31.)<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) (E Ft) FORRÃSOK (passzÃ­vÃ¡k) (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 29 747 SajÃ¡t tÅ‘ke 14 604<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 16 248 Jegyzett tÅ‘ke 3 000<ujsor/>
+KÃ©szletek 170 TÅ‘ketartalÃ©k<ujsor/>
+KÃ¶vetelÃ©sek 15 415 EredmÃ©nytartalÃ©k 8 880<ujsor/>
+Ã‰rtÃ©kpapÃ­rok LekÃ¶tÃ¶tt tartalÃ©k<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 663 CÃ©ltartalÃ©kok<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 7 360 KÃ¶telezettsÃ©gek 26 387<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 12 364<ujsor/>
+Ã–SSZESEN: 53 355 Ã–SSZESEN: 53 355<ujsor/>
+Az EKOFUTUR Kft. (zÃ¡rÃ³) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai (2009. december 31.)<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) (E Ft) FORRÃSOK (passzÃ­vÃ¡k) (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 103 684 SajÃ¡t tÅ‘ke 23 990<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 34 131 Jegyzett tÅ‘ke 3 000<ujsor/>
+KÃ©szletek 4 350 TÅ‘ketartalÃ©k<ujsor/>
+KÃ¶vetelÃ©sek 20 890 EredmÃ©nytartalÃ©k 19 485<ujsor/>
+Ã‰rtÃ©kpapÃ­rok LekÃ¶tÃ¶tt tartalÃ©k<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 8 891 CÃ©ltartalÃ©kok<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 38 695 KÃ¶telezettsÃ©gek 94 422<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 58 098<ujsor/>
+Ã–SSZESEN: 176 510 Ã–SSZESEN: 176 510<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘bb adatai:<ujsor/>
+FormÃ¡ja: zÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ rÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gneve: ENVIROINVEST KÃ¶rnyezetvÃ©delmi Ã©s BiotechnolÃ³giai ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+NÃ©vrÃ¶vidÃ­tÃ©sre hasznÃ¡lt cÃ­mszÃ³: ENVIROINVEST Zrt.<ujsor/>
+SzÃ©khelye: 7632 PÃ©cs, KertvÃ¡ros u. 2.<ujsor/>
+FÅ‘ tevÃ©kenysÃ©ge (TEÃORâ€™08): 7490 M.n.s. egyÃ©b szakmai, tudomÃ¡nyos, mÅ±szaki tevÃ©kenysÃ©g.<ujsor/>
+Jegyzett tÅ‘kÃ©je: 5 000 000 Ft (Ã¶tmilliÃ³ forint).<ujsor/>
+A rÃ©szvÃ©nyek fajtÃ¡ja (Gt. 282. Â§): nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©nyek.<ujsor/>
+RÃ©szvÃ©nyek nÃ©vÃ©rtÃ©ke Ã¶sszesen: 5 000 000 Ft (Ã¶tmilliÃ³ forint), mely Ã¡ll 49 db (negyvenkilenc darab) egyenkÃ©nt 100 000 Ft nÃ©vÃ©rtÃ©kÅ±, valamint 20 db (hÃºsz darab) egyenkÃ©nt 5000 Ft nÃ©vÃ©rtÃ©kÅ± nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©nybÅ‘l.<ujsor/>
+JogutÃ³d Zrt. (Ã¶sszeolvadÃ¡s) mÅ±kÃ¶dÃ©se megkezdÃ©sÃ©nek idÅ‘pontja: 2010. augusztus 31. [Gt. 74. Â§ (6) bekezdÃ©s, Ctv. 57. Â§ (2) bekezdÃ©s].<ujsor/>
+VezetÅ‘ tisztsÃ©gviselÅ‘ (vezÃ©rigazgatÃ³): KovÃ¡cs ÃrpÃ¡d LÃ¡szlÃ³ (7626 PÃ©cs, Rippl-RÃ³nai u. 26.)<ujsor/>
+A Gt. 247. Â§ alapjÃ¡n igazgatÃ³sÃ¡g vÃ¡lasztÃ¡sÃ¡ra nem kerÃ¼l sor.<ujsor/>
+A jogutÃ³d ENVIROINVEST Zrt. (nyitÃ³) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) (E Ft) FORRÃSOK (passzÃ­vÃ¡k) (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 151 900 SajÃ¡t tÅ‘ke 87 575<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 118 398 Jegyzett tÅ‘ke 5 000<ujsor/>
+KÃ©szletek 4 520 TÅ‘ketartalÃ©k 0<ujsor/>
+KÃ¶vetelÃ©sek 71 813 EredmÃ©nytartalÃ©k 82 575<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 0 LekÃ¶tÃ¶tt tartalÃ©k 0<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 42 065 CÃ©ltartalÃ©kok 0<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 42 442 KÃ¶telezettsÃ©gek 144 830<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 80 335<ujsor/>
+Ã–SSZESEN: 312 740 Ã–SSZESEN: 312 740<ujsor/>
+Az Ã¡talakulÃ¡ssal Ã©rintett gazdasÃ¡gi tÃ¡rsasÃ¡gok az Ã¡tÃ©rtÃ©kelÃ©s lehetÅ‘sÃ©gÃ©vel nem Ã©ltek.<ujsor/>
+A tÃ¡rsasÃ¡g felhÃ­vja hitelezÅ‘it, hogy kÃ¶vetelÃ©seiket a Gt. 76. Â§ (2) bekezdÃ©s alapjÃ¡n az Ã¶sszeolvadÃ¡ssal Ã©rintett tÃ¡rsasÃ¡goknak jelentsÃ©k be.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0209067037</mezo>
-<mezo id = "nev">EKOFUTUR Környezet Technológiai Termelõ és Szolgáltató Kft.</mezo>
-<mezo id = "cim">7632 Pécs</mezo>
+<mezo id = "nev">EKOFUTUR KÃ¶rnyezet TechnolÃ³giai TermelÅ‘ Ã©s SzolgÃ¡ltatÃ³ Kft.</mezo>
+<mezo id = "cim">7632 PÃ©cs</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az ENVIROINVEST Kft. (Cg.: [01 09 676105]; 1055 Budapest, Szalay u. 4.), az ENVIROINVEST-WASTE Kft. (Cg.: [01 09 711860]; 1055 Budapest, Szalay u. 4.) és az EKOFUTUR Kft. (Cg.: [02 09 067037]; 7632 Pécs, Kertváros u. 2.) egyesülnek.<ujsor/>
-Az egyesülés módja: összeolvadás.<ujsor/>
-Az összeolvadással a Gt. 80. § (1) bekezdés alapján az egyesülõ gazdasági társaságok megszûnnek, és vagyonuk az átalakulással létrejövõ új gazdasági társaságra [(ENVIROINVEST Környezetvédelmi és Biotechnológiai Zártkörûen Mûködõ Részvénytársaság (rövidített cégnév: ENVIROINVEST Zrt.)], mint jogutódra száll át.<ujsor/>
-Az összeolvadás fordulónapja (átalakulásához fûzõdõ joghatások beállásának a napja) 2010. augusztus 31. [Gt. 74. § (6) bekezdés, Ctv. 57. § (2) bekezdés].<ujsor/>
-A jogutód gazdasági társaság „alapító okirat”, valamint az „egyesülési szerzõdés” aláírásának napja: 2010. június 10.<ujsor/>
-Az ENVIROINVEST Kft. (záró) vagyonmérleg-tervezetének legfontosabb adatai (2009. december 31.)<ujsor/>
-ESZKÖZÖK (aktívák) (E Ft) FORRÁSOK (passzívák) (E Ft)<ujsor/>
-Befektetett eszközök 21 469 Saját tõke 56 403<ujsor/>
-Forgóeszközök 88 839 Jegyzett tõke 5 000<ujsor/>
-Készletek Tõketartalék<ujsor/>
-Követelések 56 328 Eredménytartalék 48 190<ujsor/>
-Értékpapírok Lekötött tartalék<ujsor/>
-Pénzeszközök 32 511 Céltartalékok<ujsor/>
-Aktív idõbeli elhatárolások 3 201 Kötelezettségek 44 978<ujsor/>
-Passzív idõbeli elhatárolások 12 488<ujsor/>
-ÖSSZESEN: 113 509 ÖSSZESEN: 113 509<ujsor/>
-Az ENVIROINVEST-WASTE Kft. (záró) vagyonmérleg-tervezetének legfontosabb adatai (2009. december 31.)<ujsor/>
-ESZKÖZÖK (aktívák) (E Ft) FORRÁSOK (passzívák) (E Ft)<ujsor/>
-Befektetett eszközök 29 747 Saját tõke 14 604<ujsor/>
-Forgóeszközök 16 248 Jegyzett tõke 3 000<ujsor/>
-Készletek 170 Tõketartalék<ujsor/>
-Követelések 15 415 Eredménytartalék 8 880<ujsor/>
-Értékpapírok Lekötött tartalék<ujsor/>
-Pénzeszközök 663 Céltartalékok<ujsor/>
-Aktív idõbeli elhatárolások 7 360 Kötelezettségek 26 387<ujsor/>
-Passzív idõbeli elhatárolások 12 364<ujsor/>
-ÖSSZESEN: 53 355 ÖSSZESEN: 53 355<ujsor/>
-Az EKOFUTUR Kft. (záró) vagyonmérleg-tervezetének legfontosabb adatai (2009. december 31.)<ujsor/>
-ESZKÖZÖK (aktívák) (E Ft) FORRÁSOK (passzívák) (E Ft)<ujsor/>
-Befektetett eszközök 103 684 Saját tõke 23 990<ujsor/>
-Forgóeszközök 34 131 Jegyzett tõke 3 000<ujsor/>
-Készletek 4 350 Tõketartalék<ujsor/>
-Követelések 20 890 Eredménytartalék 19 485<ujsor/>
-Értékpapírok Lekötött tartalék<ujsor/>
-Pénzeszközök 8 891 Céltartalékok<ujsor/>
-Aktív idõbeli elhatárolások 38 695 Kötelezettségek 94 422<ujsor/>
-Passzív idõbeli elhatárolások 58 098<ujsor/>
-ÖSSZESEN: 176 510 ÖSSZESEN: 176 510<ujsor/>
-A létrejövõ gazdasági társaság fõbb adatai:<ujsor/>
-Formája: zártkörûen mûködõ részvénytársaság.<ujsor/>
-Cégneve: ENVIROINVEST Környezetvédelmi és Biotechnológiai Zártkörûen Mûködõ Részvénytársaság.<ujsor/>
-Névrövidítésre használt címszó: ENVIROINVEST Zrt.<ujsor/>
-Székhelye: 7632 Pécs, Kertváros u. 2.<ujsor/>
-Fõ tevékenysége (TEÁOR’08): 7490 M.n.s. egyéb szakmai, tudományos, mûszaki tevékenység.<ujsor/>
-Jegyzett tõkéje: 5 000 000 Ft (ötmillió forint).<ujsor/>
-A részvények fajtája (Gt. 282. §): névre szóló törzsrészvények.<ujsor/>
-Részvények névértéke összesen: 5 000 000 Ft (ötmillió forint), mely áll 49 db (negyvenkilenc darab) egyenként 100 000 Ft névértékû, valamint 20 db (húsz darab), egyenként 5000 Ft névértékû, névre szóló törzsrészvénybõl.<ujsor/>
-Jogutód Zrt. (összeolvadás) mûködése megkezdésének idõpontja: 2010. augusztus 31. [Gt. 74. § (6) bekezdés, Ctv. 57. § (2) bekezdés].<ujsor/>
-Vezetõ tisztségviselõ (vezérigazgató): Kovács Árpád László (7626 Pécs, Rippl-Rónai u. 26.)<ujsor/>
-A Gt. 247. § alapján igazgatóság választására nem kerül sor.<ujsor/>
-A jogutód ENVIROINVEST Zrt. (nyitó) vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (aktívák) (E Ft) FORRÁSOK (passzívák) (E Ft)<ujsor/>
-Befektetett eszközök 151 900 Saját tõke 87 575<ujsor/>
-Forgóeszközök 118 398 Jegyzett tõke 5 000<ujsor/>
-Készletek 4 520 Tõketartalék 0<ujsor/>
-Követelések 71 813 Eredménytartalék 82 575<ujsor/>
-Értékpapírok 0 Lekötött tartalék 0<ujsor/>
-Pénzeszközök 42 065 Céltartalékok 0<ujsor/>
-Aktív idõbeli elhatárolások 42 442 Kötelezettségek 144 830<ujsor/>
-Passzív idõbeli elhatárolások 80 335<ujsor/>
-ÖSSZESEN: 312 740 ÖSSZESEN: 312 740<ujsor/>
-Az átalakulással érintett gazdasági társaságok az átértékelés lehetõségével nem éltek.<ujsor/>
-A társaság felhívja hitelezõit, hogy követeléseiket a Gt. 76. § (2) bekezdés alapján az összeolvadással érintett társaságoknak jelentsék be.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">Az ENVIROINVEST Kft. (Cg.: [01 09 676105]; 1055 Budapest, Szalay u. 4.), az ENVIROINVEST-WASTE Kft. (Cg.: [01 09 711860]; 1055 Budapest, Szalay u. 4.) Ã©s az EKOFUTUR Kft. (Cg.: [02 09 067037]; 7632 PÃ©cs, KertvÃ¡ros u. 2.) egyesÃ¼lnek.<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: Ã¶sszeolvadÃ¡s.<ujsor/>
+Az Ã¶sszeolvadÃ¡ssal a Gt. 80. Â§ (1) bekezdÃ©s alapjÃ¡n az egyesÃ¼lÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡gok megszÅ±nnek, Ã©s vagyonuk az Ã¡talakulÃ¡ssal lÃ©trejÃ¶vÅ‘ Ãºj gazdasÃ¡gi tÃ¡rsasÃ¡gra [(ENVIROINVEST KÃ¶rnyezetvÃ©delmi Ã©s BiotechnolÃ³giai ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (rÃ¶vidÃ­tett cÃ©gnÃ©v: ENVIROINVEST Zrt.)], mint jogutÃ³dra szÃ¡ll Ã¡t.<ujsor/>
+Az Ã¶sszeolvadÃ¡s fordulÃ³napja (Ã¡talakulÃ¡sÃ¡hoz fÅ±zÅ‘dÅ‘ joghatÃ¡sok beÃ¡llÃ¡sÃ¡nak a napja) 2010. augusztus 31. [Gt. 74. Â§ (6) bekezdÃ©s, Ctv. 57. Â§ (2) bekezdÃ©s].<ujsor/>
+A jogutÃ³d gazdasÃ¡gi tÃ¡rsasÃ¡g â€alapÃ­tÃ³ okiratâ€, valamint az â€egyesÃ¼lÃ©si szerzÅ‘dÃ©sâ€ alÃ¡Ã­rÃ¡sÃ¡nak napja: 2010. jÃºnius 10.<ujsor/>
+Az ENVIROINVEST Kft. (zÃ¡rÃ³) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai (2009. december 31.)<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) (E Ft) FORRÃSOK (passzÃ­vÃ¡k) (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 21 469 SajÃ¡t tÅ‘ke 56 403<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 88 839 Jegyzett tÅ‘ke 5 000<ujsor/>
+KÃ©szletek TÅ‘ketartalÃ©k<ujsor/>
+KÃ¶vetelÃ©sek 56 328 EredmÃ©nytartalÃ©k 48 190<ujsor/>
+Ã‰rtÃ©kpapÃ­rok LekÃ¶tÃ¶tt tartalÃ©k<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 32 511 CÃ©ltartalÃ©kok<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 3 201 KÃ¶telezettsÃ©gek 44 978<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 12 488<ujsor/>
+Ã–SSZESEN: 113 509 Ã–SSZESEN: 113 509<ujsor/>
+Az ENVIROINVEST-WASTE Kft. (zÃ¡rÃ³) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai (2009. december 31.)<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) (E Ft) FORRÃSOK (passzÃ­vÃ¡k) (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 29 747 SajÃ¡t tÅ‘ke 14 604<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 16 248 Jegyzett tÅ‘ke 3 000<ujsor/>
+KÃ©szletek 170 TÅ‘ketartalÃ©k<ujsor/>
+KÃ¶vetelÃ©sek 15 415 EredmÃ©nytartalÃ©k 8 880<ujsor/>
+Ã‰rtÃ©kpapÃ­rok LekÃ¶tÃ¶tt tartalÃ©k<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 663 CÃ©ltartalÃ©kok<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 7 360 KÃ¶telezettsÃ©gek 26 387<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 12 364<ujsor/>
+Ã–SSZESEN: 53 355 Ã–SSZESEN: 53 355<ujsor/>
+Az EKOFUTUR Kft. (zÃ¡rÃ³) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai (2009. december 31.)<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) (E Ft) FORRÃSOK (passzÃ­vÃ¡k) (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 103 684 SajÃ¡t tÅ‘ke 23 990<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 34 131 Jegyzett tÅ‘ke 3 000<ujsor/>
+KÃ©szletek 4 350 TÅ‘ketartalÃ©k<ujsor/>
+KÃ¶vetelÃ©sek 20 890 EredmÃ©nytartalÃ©k 19 485<ujsor/>
+Ã‰rtÃ©kpapÃ­rok LekÃ¶tÃ¶tt tartalÃ©k<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 8 891 CÃ©ltartalÃ©kok<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 38 695 KÃ¶telezettsÃ©gek 94 422<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 58 098<ujsor/>
+Ã–SSZESEN: 176 510 Ã–SSZESEN: 176 510<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘bb adatai:<ujsor/>
+FormÃ¡ja: zÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ rÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gneve: ENVIROINVEST KÃ¶rnyezetvÃ©delmi Ã©s BiotechnolÃ³giai ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+NÃ©vrÃ¶vidÃ­tÃ©sre hasznÃ¡lt cÃ­mszÃ³: ENVIROINVEST Zrt.<ujsor/>
+SzÃ©khelye: 7632 PÃ©cs, KertvÃ¡ros u. 2.<ujsor/>
+FÅ‘ tevÃ©kenysÃ©ge (TEÃORâ€™08): 7490 M.n.s. egyÃ©b szakmai, tudomÃ¡nyos, mÅ±szaki tevÃ©kenysÃ©g.<ujsor/>
+Jegyzett tÅ‘kÃ©je: 5 000 000 Ft (Ã¶tmilliÃ³ forint).<ujsor/>
+A rÃ©szvÃ©nyek fajtÃ¡ja (Gt. 282. Â§): nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©nyek.<ujsor/>
+RÃ©szvÃ©nyek nÃ©vÃ©rtÃ©ke Ã¶sszesen: 5 000 000 Ft (Ã¶tmilliÃ³ forint), mely Ã¡ll 49 db (negyvenkilenc darab) egyenkÃ©nt 100 000 Ft nÃ©vÃ©rtÃ©kÅ±, valamint 20 db (hÃºsz darab), egyenkÃ©nt 5000 Ft nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©nybÅ‘l.<ujsor/>
+JogutÃ³d Zrt. (Ã¶sszeolvadÃ¡s) mÅ±kÃ¶dÃ©se megkezdÃ©sÃ©nek idÅ‘pontja: 2010. augusztus 31. [Gt. 74. Â§ (6) bekezdÃ©s, Ctv. 57. Â§ (2) bekezdÃ©s].<ujsor/>
+VezetÅ‘ tisztsÃ©gviselÅ‘ (vezÃ©rigazgatÃ³): KovÃ¡cs ÃrpÃ¡d LÃ¡szlÃ³ (7626 PÃ©cs, Rippl-RÃ³nai u. 26.)<ujsor/>
+A Gt. 247. Â§ alapjÃ¡n igazgatÃ³sÃ¡g vÃ¡lasztÃ¡sÃ¡ra nem kerÃ¼l sor.<ujsor/>
+A jogutÃ³d ENVIROINVEST Zrt. (nyitÃ³) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) (E Ft) FORRÃSOK (passzÃ­vÃ¡k) (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 151 900 SajÃ¡t tÅ‘ke 87 575<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 118 398 Jegyzett tÅ‘ke 5 000<ujsor/>
+KÃ©szletek 4 520 TÅ‘ketartalÃ©k 0<ujsor/>
+KÃ¶vetelÃ©sek 71 813 EredmÃ©nytartalÃ©k 82 575<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 0 LekÃ¶tÃ¶tt tartalÃ©k 0<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 42 065 CÃ©ltartalÃ©kok 0<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 42 442 KÃ¶telezettsÃ©gek 144 830<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 80 335<ujsor/>
+Ã–SSZESEN: 312 740 Ã–SSZESEN: 312 740<ujsor/>
+Az Ã¡talakulÃ¡ssal Ã©rintett gazdasÃ¡gi tÃ¡rsasÃ¡gok az Ã¡tÃ©rtÃ©kelÃ©s lehetÅ‘sÃ©gÃ©vel nem Ã©ltek.<ujsor/>
+A tÃ¡rsasÃ¡g felhÃ­vja hitelezÅ‘it, hogy kÃ¶vetelÃ©seiket a Gt. 76. Â§ (2) bekezdÃ©s alapjÃ¡n az Ã¶sszeolvadÃ¡ssal Ã©rintett tÃ¡rsasÃ¡goknak jelentsÃ©k be.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0209067037</mezo>
-<mezo id = "nev">EKOFUTUR Környezet Technológiai Termelõ és Szolgáltató Kft.</mezo>
-<mezo id = "cim">7632 Pécs</mezo>
+<mezo id = "nev">EKOFUTUR KÃ¶rnyezet TechnolÃ³giai TermelÅ‘ Ã©s SzolgÃ¡ltatÃ³ Kft.</mezo>
+<mezo id = "cim">7632 PÃ©cs</mezo>
 </alrovat>
 </rovat>
 <rovat id = "99017">

@@ -6,7 +6,7 @@
 <mezo id = "szam">680116</mezo>
 <mezo id = "nevalrovat">2</mezo>
 <mezo id = "allapot">2</mezo>
-<mezo id = "cim">1093 Budapest, Lónyai utca 54. 2. em. 9. </mezo>
+<mezo id = "cim">1093 Budapest, LÃ³nyai utca 54. 2. em. 9. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">11859822243</mezo>
 </alrovat>
@@ -14,7 +14,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20080430</mezo>
-<mezo id = "nev">KEVI ÚT PLUSZ Fuvarozó és Építõ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">KEVI ÃšT PLUSZ FuvarozÃ³ Ã©s Ã‰pÃ­tÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">20080430</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20080604</mezo>
@@ -24,7 +24,7 @@
 <rovat id = "3">
 <alrovat id = "2">
 <mezo id = "hattol">20080430</mezo>
-<mezo id = "nev">KEVI ÚT PLUSZ Kft.</mezo>
+<mezo id = "nev">KEVI ÃšT PLUSZ Kft.</mezo>
 <mezo id = "valtk">20080430</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20080604</mezo>
@@ -36,13 +36,13 @@
 <mezo id = "hattol">20011010</mezo>
 <mezo id = "irsz">1138</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Tatai út 95.</mezo>
+<mezo id = "teru">Tatai Ãºt 95.</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20080430</mezo>
 <mezo id = "irsz">1093</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Lónyai utca 54. 2. em. 9.</mezo>
+<mezo id = "teru">LÃ³nyai utca 54. 2. em. 9.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">20080430</mezo>
 <mezo id = "valtv">0</mezo>
@@ -1002,7 +1002,7 @@
 <rovat id = "13">
 <alrovat id = "6">
 <mezo id = "hattol">20100630</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "pnev">Stantic Marija</mezo>
 <mezo id = "panev">Tot Ilona</mezo>
 <mezo id = "kepvo">x</mezo>
@@ -1016,16 +1016,16 @@
 <alrovat id = "1">
 <mezo id = "hattol">20060214</mezo>
 <mezo id = "cgjsz">109567131</mezo>
-<mezo id = "nev">FAGARAS Könyvvizsgáló és Könyvelõ Kft</mezo>
+<mezo id = "nev">FAGARAS KÃ¶nyvvizsgÃ¡lÃ³ Ã©s KÃ¶nyvelÅ‘ Kft</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1021</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Tárogató utca</mezo>
+<mezo id = "teru">TÃ¡rogatÃ³ utca</mezo>
 <mezo id = "hsz">108.</mezo>
-<mezo id = "pnev">Varga Márta</mezo>
+<mezo id = "pnev">Varga MÃ¡rta</mezo>
 <mezo id = "panev">Bugyinszky Magdolna</mezo>
 <mezo id = "pirsz">1021</mezo>
-<mezo id = "phely">Budapest, Tárogató utca 108.</mezo>
+<mezo id = "phely">Budapest, TÃ¡rogatÃ³ utca 108.</mezo>
 <mezo id = "jogvk">20060214</mezo>
 <mezo id = "jogvv">20080214</mezo>
 </alrovat>
@@ -1073,17 +1073,17 @@
 <rovat id = "0109">
 <alrovat id = "3">
 <mezo id = "hattol">19990608</mezo>
-<mezo id = "pnev">Oláh Attila</mezo>
-<mezo id = "panev">Tulkán Magdolna</mezo>
+<mezo id = "pnev">OlÃ¡h Attila</mezo>
+<mezo id = "panev">TulkÃ¡n Magdolna</mezo>
 <mezo id = "pirsz">1203</mezo>
 <mezo id = "phely">Budapest, Helsinki u. 1.</mezo>
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">20080430</mezo>
-<mezo id = "pnev">Kamondi József</mezo>
-<mezo id = "panev">Bencsik Mária</mezo>
+<mezo id = "pnev">Kamondi JÃ³zsef</mezo>
+<mezo id = "panev">Bencsik MÃ¡ria</mezo>
 <mezo id = "pirsz">1157</mezo>
-<mezo id = "phely">Budapest, Zsókavár utca 54. 2/9.</mezo>
+<mezo id = "phely">Budapest, ZsÃ³kavÃ¡r utca 54. 2/9.</mezo>
 <mezo id = "tagsk">20080430</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20080430</mezo>
@@ -1094,9 +1094,9 @@
 <alrovat id = "10">
 <mezo id = "hattol">20080919</mezo>
 <mezo id = "pnev">Muhi Endre</mezo>
-<mezo id = "panev">Gulyás Mária</mezo>
+<mezo id = "panev">GulyÃ¡s MÃ¡ria</mezo>
 <mezo id = "pirsz">5000</mezo>
-<mezo id = "phely">Szolnok, Botár Imre út 4. 1. em. 11.</mezo>
+<mezo id = "phely">Szolnok, BotÃ¡r Imre Ãºt 4. 1. em. 11.</mezo>
 <mezo id = "tagsk">20080430</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "sz2">x</mezo>
@@ -1115,44 +1115,44 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2001. 12. 21-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-05. 1138 Budapest, Tatai út 95.<ujsor/>
- Törölve: 2001. 10. 10-i hatállyal.<ujsor/>
- 1142 Budapest, Tatai út 95.<ujsor/>
- Hatályos: 2001. 10. 10-tõl.<ujsor/>
-1(09). Oláh Attila (an: Tulkán Magdolna)<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2001. 12. 21-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+05. 1138 Budapest, Tatai Ãºt 95.<ujsor/>
+ TÃ¶rÃ¶lve: 2001. 10. 10-i hatÃ¡llyal.<ujsor/>
+ 1142 Budapest, Tatai Ãºt 95.<ujsor/>
+ HatÃ¡lyos: 2001. 10. 10-tÅ‘l.<ujsor/>
+1(09). OlÃ¡h Attila (an: TulkÃ¡n Magdolna)<ujsor/>
 1203 Budapest, Helsinki u. 1.<ujsor/>
- Törölve: 1999. 06. 08-i hatállyal.<ujsor/>
- Oláh Anita (an: Tulkán Magdolna)<ujsor/>
+ TÃ¶rÃ¶lve: 1999. 06. 08-i hatÃ¡llyal.<ujsor/>
+ OlÃ¡h Anita (an: TulkÃ¡n Magdolna)<ujsor/>
 1203 Budapest, Helsinki u. 1.<ujsor/>
- Hatályos: 1999. 06. 08-tól.<ujsor/>
+ HatÃ¡lyos: 1999. 06. 08-tÃ³l.<ujsor/>
 Bejegyezve: 2002. 09. 10.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109680116</mezo>
-<mezo id = "nev">CONTIBUS 2001 Utaztatási és Szállítási Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1142 Budapest, Tatai út 95.</mezo>
+<mezo id = "nev">CONTIBUS 2001 UtaztatÃ¡si Ã©s SzÃ¡llÃ­tÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1142 Budapest, Tatai Ãºt 95.</mezo>
 <mezo id = "adosz">11859822242</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság 5.Fpk.01-09-007892/19. sz. végzése felszámolás megindításának közzétételérõl<ujsor/>
-A bíróság elrendeli annak a Cégközlönyben való közzétételét, hogy a(z) 2011. január 12. napján jogerõre emelkedett végzésével a(z)  KEVI ÚT PLUSZ Fuvarozó és Építõ Korlátolt Felelõsségû Társaság (1093 Budapest, Lónyai utca 54. 2. em. 9.; cégjegyzékszáma: 01 09 680116; adószáma: 11859822-2-43) adós felszámolását fõeljárásként elrendelte.<ujsor/>
-Elõzõ elnevezése(i): CONTIBUS 2001 Utaztatási és Szállítási Korlátolt Felelõsségû Társaság<ujsor/>
-Elõzõ székhelyei(i): 1138 Budapest, Váci u 135-139. 1138 Budapest, Tatai út 95. 1142 Budapest, Tatai út 95. 1088 Budapest, Szentkirályi utca 5.<ujsor/>
-A bíróság által kijelölt felszámoló: ADVOCAT Szolgáltató és Kereskedelmi Kft., 1042 Budapest, Árpád út 57-59. I. em. 7.<ujsor/>
-A felszámolóbiztos(ok): Szarka Norbert lev. cím. 1042 Bp. Árpád út 57-59.<ujsor/>
-A felszámolási eljárás megindítására irányuló kérelem benyújtásának idõpontja: 2009. október 6.<ujsor/>
-A felszámolás kezdõ idõpontja e végzés Cégközlönyben való közzétételének napja.<ujsor/>
-A Fõvárosi Bíróság Gazdasági Hivatalánál kezelt elkülönített számla száma: 10032000-01483013-24000004.<ujsor/>
-Mindazok [ideértve a zálogjogosultakat, és a 3. § (1) bekezdés c) pontja szerinti függõ követelések jogosultjait is], akik az adóssal szemben fennálló ismert követeléseiket - kivéve a felszámolási eljárást közvetlenül megelõzõ csõdeljárásban [27. § (2) bekezdés e) pont] már bejelentett és nyilvántartásba vett követeléseket - a felszámolás során hitelezõként érvényesíteni kívánják, ismert követeléseiket e végzés közzétételétõl számított 40 napon belül jelentsék be a felszámolónak.<ujsor/>
-A felszámoló - a módosított 1991. évi XLIX. tv. 57. § (1) bekezdés a) és c) pontjában meghatározott követelések kivételével - csak azt a bejelentést veszi nyilvántartásba, amely után az igénybejelentõ a követelés 1 %-át, de legalább 5.000 Ft-ot, legfeljebb 200.000 Ft-ot az e végzésben megjelölt számlára - a bírósági ügyszámra (végzés számra) hivatkozással - 40 napon belül befizetett és ezt a felszámoló részére igazolta.<ujsor/>
-Budapest, 2011. január 24.<ujsor/>
-A közzététel idõpontja: 2011. február 4.<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g 5.Fpk.01-09-007892/19. sz. vÃ©gzÃ©se felszÃ¡molÃ¡s megindÃ­tÃ¡sÃ¡nak kÃ¶zzÃ©tÃ©telÃ©rÅ‘l<ujsor/>
+A bÃ­rÃ³sÃ¡g elrendeli annak a CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©t, hogy a(z) 2011. januÃ¡r 12. napjÃ¡n jogerÅ‘re emelkedett vÃ©gzÃ©sÃ©vel a(z)  KEVI ÃšT PLUSZ FuvarozÃ³ Ã©s Ã‰pÃ­tÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (1093 Budapest, LÃ³nyai utca 54. 2. em. 9.; cÃ©gjegyzÃ©kszÃ¡ma: 01 09 680116; adÃ³szÃ¡ma: 11859822-2-43) adÃ³s felszÃ¡molÃ¡sÃ¡t fÅ‘eljÃ¡rÃ¡skÃ©nt elrendelte.<ujsor/>
+ElÅ‘zÅ‘ elnevezÃ©se(i): CONTIBUS 2001 UtaztatÃ¡si Ã©s SzÃ¡llÃ­tÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g<ujsor/>
+ElÅ‘zÅ‘ szÃ©khelyei(i): 1138 Budapest, VÃ¡ci u 135-139. 1138 Budapest, Tatai Ãºt 95. 1142 Budapest, Tatai Ãºt 95. 1088 Budapest, SzentkirÃ¡lyi utca 5.<ujsor/>
+A bÃ­rÃ³sÃ¡g Ã¡ltal kijelÃ¶lt felszÃ¡molÃ³: ADVOCAT SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi Kft., 1042 Budapest, ÃrpÃ¡d Ãºt 57-59. I. em. 7.<ujsor/>
+A felszÃ¡molÃ³biztos(ok): Szarka Norbert lev. cÃ­m. 1042 Bp. ÃrpÃ¡d Ãºt 57-59.<ujsor/>
+A felszÃ¡molÃ¡si eljÃ¡rÃ¡s megindÃ­tÃ¡sÃ¡ra irÃ¡nyulÃ³ kÃ©relem benyÃºjtÃ¡sÃ¡nak idÅ‘pontja: 2009. oktÃ³ber 6.<ujsor/>
+A felszÃ¡molÃ¡s kezdÅ‘ idÅ‘pontja e vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©nek napja.<ujsor/>
+A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g GazdasÃ¡gi HivatalÃ¡nÃ¡l kezelt elkÃ¼lÃ¶nÃ­tett szÃ¡mla szÃ¡ma: 10032000-01483013-24000004.<ujsor/>
+Mindazok [ideÃ©rtve a zÃ¡logjogosultakat, Ã©s a 3. Â§ (1) bekezdÃ©s c) pontja szerinti fÃ¼ggÅ‘ kÃ¶vetelÃ©sek jogosultjait is], akik az adÃ³ssal szemben fennÃ¡llÃ³ ismert kÃ¶vetelÃ©seiket - kivÃ©ve a felszÃ¡molÃ¡si eljÃ¡rÃ¡st kÃ¶zvetlenÃ¼l megelÅ‘zÅ‘ csÅ‘deljÃ¡rÃ¡sban [27. Â§ (2) bekezdÃ©s e) pont] mÃ¡r bejelentett Ã©s nyilvÃ¡ntartÃ¡sba vett kÃ¶vetelÃ©seket - a felszÃ¡molÃ¡s sorÃ¡n hitelezÅ‘kÃ©nt Ã©rvÃ©nyesÃ­teni kÃ­vÃ¡njÃ¡k, ismert kÃ¶vetelÃ©seiket e vÃ©gzÃ©s kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott 40 napon belÃ¼l jelentsÃ©k be a felszÃ¡molÃ³nak.<ujsor/>
+A felszÃ¡molÃ³ - a mÃ³dosÃ­tott 1991. Ã©vi XLIX. tv. 57. Â§ (1) bekezdÃ©s a) Ã©s c) pontjÃ¡ban meghatÃ¡rozott kÃ¶vetelÃ©sek kivÃ©telÃ©vel - csak azt a bejelentÃ©st veszi nyilvÃ¡ntartÃ¡sba, amely utÃ¡n az igÃ©nybejelentÅ‘ a kÃ¶vetelÃ©s 1 %-Ã¡t, de legalÃ¡bb 5.000 Ft-ot, legfeljebb 200.000 Ft-ot az e vÃ©gzÃ©sben megjelÃ¶lt szÃ¡mlÃ¡ra - a bÃ­rÃ³sÃ¡gi Ã¼gyszÃ¡mra (vÃ©gzÃ©s szÃ¡mra) hivatkozÃ¡ssal - 40 napon belÃ¼l befizetett Ã©s ezt a felszÃ¡molÃ³ rÃ©szÃ©re igazolta.<ujsor/>
+Budapest, 2011. januÃ¡r 24.<ujsor/>
+A kÃ¶zzÃ©tÃ©tel idÅ‘pontja: 2011. februÃ¡r 4.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109680116</mezo>
-<mezo id = "nev">KEVI ÚT PLUSZ Fuvarozó és Építõ Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1093 Budapest, Lónyai utca 54. 2. em. 9.</mezo>
+<mezo id = "nev">KEVI ÃšT PLUSZ FuvarozÃ³ Ã©s Ã‰pÃ­tÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1093 Budapest, LÃ³nyai utca 54. 2. em. 9.</mezo>
 <mezo id = "adosz">11859822243</mezo>
 </alrovat>
 </rovat>

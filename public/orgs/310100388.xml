@@ -7,7 +7,7 @@
 <mezo id = "nevalrovat">1</mezo>
 <mezo id = "uj_szh">0810001835</mezo>
 <mezo id = "allapot">6</mezo>
-<mezo id = "cim">6000 Kecskemét, Szent László körút 70. </mezo>
+<mezo id = "cim">6000 KecskemÃ©t, Szent LÃ¡szlÃ³ kÃ¶rÃºt 70. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">14291896203</mezo>
 </alrovat>
@@ -15,7 +15,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20080528</mezo>
-<mezo id = "nev">EuroFleet Gépjármû Flottakezelõ Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">EuroFleet GÃ©pjÃ¡rmÅ± FlottakezelÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20080528</mezo>
@@ -36,8 +36,8 @@
 <alrovat id = "1">
 <mezo id = "hattol">20080528</mezo>
 <mezo id = "irsz">6000</mezo>
-<mezo id = "hely">Kecskemét</mezo>
-<mezo id = "teru">Szent László körút 70.</mezo>
+<mezo id = "hely">KecskemÃ©t</mezo>
+<mezo id = "teru">Szent LÃ¡szlÃ³ kÃ¶rÃºt 70.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
@@ -49,7 +49,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20080528</mezo>
 <mezo id = "irsz">9024</mezo>
-<mezo id = "hely">Gyõr, Dugonics utca 16.</mezo>
+<mezo id = "hely">GyÅ‘r, Dugonics utca 16.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
@@ -60,7 +60,7 @@
 <mezo id = "hattol">20091228</mezo>
 <mezo id = "irsz">1112</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Budaõrsi út 153. 2. em.</mezo>
+<mezo id = "teru">BudaÅ‘rsi Ãºt 153. 2. em.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20091228</mezo>
 <mezo id = "bkelt">20100208</mezo>
@@ -680,10 +680,10 @@
 <rovat id = "13">
 <alrovat id = "4">
 <mezo id = "hattol">20091228</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
 <mezo id = "email">csore.tamas@eurofleet.hu</mezo>
-<mezo id = "pnev">Csõre Tamás</mezo>
-<mezo id = "panev">Csukárdi Ágnes</mezo>
+<mezo id = "pnev">CsÅ‘re TamÃ¡s</mezo>
+<mezo id = "panev">CsukÃ¡rdi Ãgnes</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20091228</mezo>
 <mezo id = "jogvv">20101231</mezo>
@@ -692,10 +692,10 @@
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20091228</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
 <mezo id = "email">hovany.marton@hovany.dealernet.hu</mezo>
-<mezo id = "pnev">Hovány Márton</mezo>
-<mezo id = "panev">Túróczi Erzsébet</mezo>
+<mezo id = "pnev">HovÃ¡ny MÃ¡rton</mezo>
+<mezo id = "panev">TÃºrÃ³czi ErzsÃ©bet</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20091228</mezo>
 <mezo id = "jogvv">20101231</mezo>
@@ -704,9 +704,9 @@
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20091228</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
 <mezo id = "email">sandor.peter@eurofleet.hu</mezo>
-<mezo id = "pnev">Sándor Péter</mezo>
+<mezo id = "pnev">SÃ¡ndor PÃ©ter</mezo>
 <mezo id = "panev">Lehotkai Marianna</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20091228</mezo>
@@ -718,7 +718,7 @@
 <rovat id = "14">
 <alrovat id = "2">
 <mezo id = "hattol">20091228</mezo>
-<mezo id = "pnev">Badacsonyi Endréné</mezo>
+<mezo id = "pnev">Badacsonyi EndrÃ©nÃ©</mezo>
 <mezo id = "panev">Lichi Margit</mezo>
 <mezo id = "jogvk">20091228</mezo>
 <mezo id = "jogvv">20130531</mezo>
@@ -755,11 +755,11 @@
 <alrovat id = "1">
 <mezo id = "hattol">20091228</mezo>
 <mezo id = "cgjsz">0309109288</mezo>
-<mezo id = "nev">Hovány Szeged Kereskedelmi és Szolgáltató korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">HovÃ¡ny Szeged Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ korlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">6000</mezo>
-<mezo id = "hely">Kecskemét</mezo>
-<mezo id = "teru">Szent László Körút 20.</mezo>
+<mezo id = "hely">KecskemÃ©t</mezo>
+<mezo id = "teru">Szent LÃ¡szlÃ³ KÃ¶rÃºt 20.</mezo>
 <mezo id = "sz1">x</mezo>
 <mezo id = "valtk">20091228</mezo>
 <mezo id = "bkelt">20100208</mezo>

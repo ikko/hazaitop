@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">011422</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">6723 Szeged, Vajda utca 3. a. ép. II. em. 9. </mezo>
+<mezo id = "cim">6723 Szeged, Vajda utca 3. a. Ã©p. II. em. 9. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">13993739206</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20070717</mezo>
-<mezo id = "nev">Mindentudás Innovációs Szolgáltató Kft.</mezo>
+<mezo id = "nev">MindentudÃ¡s InnovÃ¡ciÃ³s SzolgÃ¡ltatÃ³ Kft.</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -21,7 +21,7 @@
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">20070717</mezo>
-<mezo id = "nev">Mindentudás Innovációs Kft.</mezo>
+<mezo id = "nev">MindentudÃ¡s InnovÃ¡ciÃ³s Kft.</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -31,7 +31,7 @@
 <mezo id = "hattol">20100714</mezo>
 <mezo id = "irsz">6723</mezo>
 <mezo id = "hely">Szeged</mezo>
-<mezo id = "teru">Vajda utca 3. a. ép. II. em. 9.</mezo>
+<mezo id = "teru">Vajda utca 3. a. Ã©p. II. em. 9.</mezo>
 <mezo id = "valtk">20100714</mezo>
 <mezo id = "bkelt">20100721</mezo>
 </alrovat>
@@ -613,49 +613,49 @@
 <mezo id = "hattol">20100714</mezo>
 <mezo id = "valtk">20100714</mezo>
 <mezo id = "bkelt">20100721</mezo>
-<mezo id = "teaszov">Egyéb szoftverkiadás fõtevékenység</mezo>
+<mezo id = "teaszov">EgyÃ©b szoftverkiadÃ¡s fÅ‘tevÃ©kenysÃ©g</mezo>
 </alrovat>
 <alrovat id = "72">
 <mezo id = "hattol">20100714</mezo>
 <mezo id = "valtk">20100714</mezo>
 <mezo id = "bkelt">20100721</mezo>
-<mezo id = "teaszov">Számítógépes programozás</mezo>
+<mezo id = "teaszov">SzÃ¡mÃ­tÃ³gÃ©pes programozÃ¡s</mezo>
 </alrovat>
 <alrovat id = "73">
 <mezo id = "hattol">20100714</mezo>
 <mezo id = "valtk">20100714</mezo>
 <mezo id = "bkelt">20100721</mezo>
-<mezo id = "teaszov">Számítógép üzemeltetés</mezo>
+<mezo id = "teaszov">SzÃ¡mÃ­tÃ³gÃ©p Ã¼zemeltetÃ©s</mezo>
 </alrovat>
 <alrovat id = "74">
 <mezo id = "hattol">20100714</mezo>
 <mezo id = "valtk">20100714</mezo>
 <mezo id = "bkelt">20100721</mezo>
-<mezo id = "teaszov">Egyéb információ- technológiai szaktanácsadás</mezo>
+<mezo id = "teaszov">EgyÃ©b informÃ¡ciÃ³- technolÃ³giai szaktanÃ¡csadÃ¡s</mezo>
 </alrovat>
 <alrovat id = "75">
 <mezo id = "hattol">20100714</mezo>
 <mezo id = "valtk">20100714</mezo>
 <mezo id = "bkelt">20100721</mezo>
-<mezo id = "teaszov">Adatfeldolgozás, web- hoszting szolgáltatás</mezo>
+<mezo id = "teaszov">AdatfeldolgozÃ¡s, web- hoszting szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "76">
 <mezo id = "hattol">20100714</mezo>
 <mezo id = "valtk">20100714</mezo>
 <mezo id = "bkelt">20100721</mezo>
-<mezo id = "teaszov">Irodabútor gyártása</mezo>
+<mezo id = "teaszov">IrodabÃºtor gyÃ¡rtÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "77">
 <mezo id = "hattol">20100714</mezo>
 <mezo id = "valtk">20100714</mezo>
 <mezo id = "bkelt">20100721</mezo>
-<mezo id = "teaszov">Konyhabútor gyártása</mezo>
+<mezo id = "teaszov">KonyhabÃºtor gyÃ¡rtÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "78">
 <mezo id = "hattol">20100714</mezo>
 <mezo id = "valtk">20100714</mezo>
 <mezo id = "bkelt">20100721</mezo>
-<mezo id = "teaszov">Egyéb bútor gyártása</mezo>
+<mezo id = "teaszov">EgyÃ©b bÃºtor gyÃ¡rtÃ¡sa</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -672,12 +672,12 @@
 <rovat id = "13">
 <alrovat id = "3">
 <mezo id = "hattol">20110614</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Császár Róbert</mezo>
-<mezo id = "panev">Ocskó Ilona Katalin</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">CsÃ¡szÃ¡r RÃ³bert</mezo>
+<mezo id = "panev">OcskÃ³ Ilona Katalin</mezo>
 <mezo id = "pirsz">6795</mezo>
-<mezo id = "phely">Bordány</mezo>
-<mezo id = "pteru">Dudás utca 68.</mezo>
+<mezo id = "phely">BordÃ¡ny</mezo>
+<mezo id = "pteru">DudÃ¡s utca 68.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20110614</mezo>
 <mezo id = "valtk">20110614</mezo>
@@ -700,22 +700,22 @@
 <rovat id = "0109">
 <alrovat id = "5">
 <mezo id = "hattol">20110614</mezo>
-<mezo id = "pnev">Császár Róbert</mezo>
-<mezo id = "panev">Ocskó Ilona Katalin</mezo>
+<mezo id = "pnev">CsÃ¡szÃ¡r RÃ³bert</mezo>
+<mezo id = "panev">OcskÃ³ Ilona Katalin</mezo>
 <mezo id = "pirsz">6795</mezo>
-<mezo id = "phely">Bordány</mezo>
-<mezo id = "pteru">Dudás utca 68.</mezo>
+<mezo id = "phely">BordÃ¡ny</mezo>
+<mezo id = "pteru">DudÃ¡s utca 68.</mezo>
 <mezo id = "tagsk">20110614</mezo>
 <mezo id = "valtk">20110614</mezo>
 <mezo id = "bkelt">20110622</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20110614</mezo>
-<mezo id = "pnev">Ménesi Tamara</mezo>
-<mezo id = "panev">Zsedényi Mária</mezo>
+<mezo id = "pnev">MÃ©nesi Tamara</mezo>
+<mezo id = "panev">ZsedÃ©nyi MÃ¡ria</mezo>
 <mezo id = "pirsz">6795</mezo>
-<mezo id = "phely">Bordány</mezo>
-<mezo id = "pteru">Dudás utca 68.</mezo>
+<mezo id = "phely">BordÃ¡ny</mezo>
+<mezo id = "pteru">DudÃ¡s utca 68.</mezo>
 <mezo id = "tagsk">20110614</mezo>
 <mezo id = "valtk">20110614</mezo>
 <mezo id = "bkelt">20110622</mezo>
@@ -725,30 +725,30 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2007. 07. 17-én hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-A Csongrád Megyei Bíróság, mint Cégbíróság a(z) Mindentudás Innovációs Szolgáltató Kft. kérelmére elrendeli a cég bejegyzését a Cg.06-09-010422 számú cégjegyzékbe az alábbi adatokkal:<ujsor/>
-1 Általános adatok<ujsor/>
-Bejegyezve : 2007. július 17.<ujsor/>
-Cégforma: Korlátolt felelõsségû társaság<ujsor/>
-E végzés ellen fellebbezésnek nincs helye. A végzés vagy az annak meghozatala alapjául szolgáló iratok jogszabályba ütközése miatt<ujsor/>
-az ügyész, valamint az, akire a végzés rendelkezést tartalmaz - a rendelkezés õt érintõ részére vonatkozóan - pert indíthat a cég ellen a végzés hatályon kívül helyezése iránt a cég székhelye szerint<ujsor/>
-illetéket megyei bíróság elõtt. (2006. évi V. tv. 65. § (1) bekezdés.). A per megindításának a végzés Cégközlönyben való közzétételétõl számított harminc napon belül van helye.<ujsor/>
-A határidõ elmulasztása jogvesztéssel jár.<ujsor/>
-A cég a gazdasági tevékenység folytatásához szükséges hatósági engedélyét - legkésõbb a tevékenység megkezdésével egyidejûleg - választása szerint a Cégközlönyben,<ujsor/>
-vagy a cég<ujsor/>
-honlapján köteles közzétenni. A cég székhelye a cég bejegyzett irodája. A bejegyzett iroda a cég levelezési címe, az a hely, ahol a cég üzleti és hivatalos iratainak átvétele, érkeztetése, õrzése,<ujsor/>
-rendelkezésre tartása, valamint ahol a külön jogszabályban meghatározott, a székhellyel összefüggõ kötelezettségek teljesítése történik. A cégnek a székhelyét cégtáblával kell megjelölnie.<ujsor/>
-A cég létesítõ okirata úgy is rendelkezhet, hogy a cég székhelye egyben a központi ügyintézés (döntéshozatal) helye. Amennyiben a cég székhelye nem azonos a központi ügyintézés helyével, a központi ügyintézés<ujsor/>
-helyét a létesítõ okiratban és a cégjegyzékben fel kell tüntetni. Figyelmezteti a bíróság a társaságot arra, hogy a társaság a 2006. évi V. tv. 7. §. (1) bekezdése szerint a székhelyét cégtáblával köteles<ujsor/>
-megjelölni. A korlátolt felelõsségû társaság és a részvénytársaság a bejegyzését követõen írásbeli képviselete, illetve hivatalos levelezése során - ideértve az elektronikus levelezést is -, valamint<ujsor/>
-a honlapján köteles feltüntetni a céget nyilvántartó cégbíróság nevét, a cég nevét és székhelyét, a cég cégjegyzékszámát, továbbá szükség szerint a cég felszámolására,<ujsor/>
-illetve végelszámolására utaló toldatot. A cég - választása szerint - feltüntetheti a jegyzett tõkéjét is. Ebben az esetben azonban a cégjegyzékbe szereplõ jegyzett tõke feltüntetése mellett meg kell jelölni annak ténylegesen<ujsor/>
-rendelkezésre bocsátott összegét is. (2006. évi V. tv. 63. § (2) bekezdés. ) <ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2007. 07. 17-Ã©n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+A CsongrÃ¡d Megyei BÃ­rÃ³sÃ¡g, mint CÃ©gbÃ­rÃ³sÃ¡g a(z) MindentudÃ¡s InnovÃ¡ciÃ³s SzolgÃ¡ltatÃ³ Kft. kÃ©relmÃ©re elrendeli a cÃ©g bejegyzÃ©sÃ©t a Cg.06-09-010422 szÃ¡mÃº cÃ©gjegyzÃ©kbe az alÃ¡bbi adatokkal:<ujsor/>
+1 ÃltalÃ¡nos adatok<ujsor/>
+Bejegyezve : 2007. jÃºlius 17.<ujsor/>
+CÃ©gforma: KorlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g<ujsor/>
+E vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye. A vÃ©gzÃ©s vagy az annak meghozatala alapjÃ¡ul szolgÃ¡lÃ³ iratok jogszabÃ¡lyba Ã¼tkÃ¶zÃ©se miatt<ujsor/>
+az Ã¼gyÃ©sz, valamint az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s Å‘t Ã©rintÅ‘ rÃ©szÃ©re vonatkozÃ³an - pert indÃ­that a cÃ©g ellen a vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt a cÃ©g szÃ©khelye szerint<ujsor/>
+illetÃ©ket megyei bÃ­rÃ³sÃ¡g elÅ‘tt. (2006. Ã©vi V. tv. 65. Â§ (1) bekezdÃ©s.). A per megindÃ­tÃ¡sÃ¡nak a vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott harminc napon belÃ¼l van helye.<ujsor/>
+A hatÃ¡ridÅ‘ elmulasztÃ¡sa jogvesztÃ©ssel jÃ¡r.<ujsor/>
+A cÃ©g a gazdasÃ¡gi tevÃ©kenysÃ©g folytatÃ¡sÃ¡hoz szÃ¼ksÃ©ges hatÃ³sÃ¡gi engedÃ©lyÃ©t - legkÃ©sÅ‘bb a tevÃ©kenysÃ©g megkezdÃ©sÃ©vel egyidejÅ±leg - vÃ¡lasztÃ¡sa szerint a CÃ©gkÃ¶zlÃ¶nyben,<ujsor/>
+vagy a cÃ©g<ujsor/>
+honlapjÃ¡n kÃ¶teles kÃ¶zzÃ©tenni. A cÃ©g szÃ©khelye a cÃ©g bejegyzett irodÃ¡ja. A bejegyzett iroda a cÃ©g levelezÃ©si cÃ­me, az a hely, ahol a cÃ©g Ã¼zleti Ã©s hivatalos iratainak Ã¡tvÃ©tele, Ã©rkeztetÃ©se, Å‘rzÃ©se,<ujsor/>
+rendelkezÃ©sre tartÃ¡sa, valamint ahol a kÃ¼lÃ¶n jogszabÃ¡lyban meghatÃ¡rozott, a szÃ©khellyel Ã¶sszefÃ¼ggÅ‘ kÃ¶telezettsÃ©gek teljesÃ­tÃ©se tÃ¶rtÃ©nik. A cÃ©gnek a szÃ©khelyÃ©t cÃ©gtÃ¡blÃ¡val kell megjelÃ¶lnie.<ujsor/>
+A cÃ©g lÃ©tesÃ­tÅ‘ okirata Ãºgy is rendelkezhet, hogy a cÃ©g szÃ©khelye egyben a kÃ¶zponti Ã¼gyintÃ©zÃ©s (dÃ¶ntÃ©shozatal) helye. Amennyiben a cÃ©g szÃ©khelye nem azonos a kÃ¶zponti Ã¼gyintÃ©zÃ©s helyÃ©vel, a kÃ¶zponti Ã¼gyintÃ©zÃ©s<ujsor/>
+helyÃ©t a lÃ©tesÃ­tÅ‘ okiratban Ã©s a cÃ©gjegyzÃ©kben fel kell tÃ¼ntetni. Figyelmezteti a bÃ­rÃ³sÃ¡g a tÃ¡rsasÃ¡got arra, hogy a tÃ¡rsasÃ¡g a 2006. Ã©vi V. tv. 7. Â§. (1) bekezdÃ©se szerint a szÃ©khelyÃ©t cÃ©gtÃ¡blÃ¡val kÃ¶teles<ujsor/>
+megjelÃ¶lni. A korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g Ã©s a rÃ©szvÃ©nytÃ¡rsasÃ¡g a bejegyzÃ©sÃ©t kÃ¶vetÅ‘en Ã­rÃ¡sbeli kÃ©pviselete, illetve hivatalos levelezÃ©se sorÃ¡n - ideÃ©rtve az elektronikus levelezÃ©st is -, valamint<ujsor/>
+a honlapjÃ¡n kÃ¶teles feltÃ¼ntetni a cÃ©get nyilvÃ¡ntartÃ³ cÃ©gbÃ­rÃ³sÃ¡g nevÃ©t, a cÃ©g nevÃ©t Ã©s szÃ©khelyÃ©t, a cÃ©g cÃ©gjegyzÃ©kszÃ¡mÃ¡t, tovÃ¡bbÃ¡ szÃ¼ksÃ©g szerint a cÃ©g felszÃ¡molÃ¡sÃ¡ra,<ujsor/>
+illetve vÃ©gelszÃ¡molÃ¡sÃ¡ra utalÃ³ toldatot. A cÃ©g - vÃ¡lasztÃ¡sa szerint - feltÃ¼ntetheti a jegyzett tÅ‘kÃ©jÃ©t is. Ebben az esetben azonban a cÃ©gjegyzÃ©kbe szereplÅ‘ jegyzett tÅ‘ke feltÃ¼ntetÃ©se mellett meg kell jelÃ¶lni annak tÃ©nylegesen<ujsor/>
+rendelkezÃ©sre bocsÃ¡tott Ã¶sszegÃ©t is. (2006. Ã©vi V. tv. 63. Â§ (2) bekezdÃ©s. ) <ujsor/>
 Bejegyezve: 2007. 10. 20.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0609011422</mezo>
-<mezo id = "nev">Mindentudás Innovációs Szolgáltató Kft.</mezo>
-<mezo id = "cim">6795 Bordány, Dudás u. 68.</mezo>
+<mezo id = "nev">MindentudÃ¡s InnovÃ¡ciÃ³s SzolgÃ¡ltatÃ³ Kft.</mezo>
+<mezo id = "cim">6795 BordÃ¡ny, DudÃ¡s u. 68.</mezo>
 <mezo id = "adosz">13993739206</mezo>
 </alrovat>
 </rovat>

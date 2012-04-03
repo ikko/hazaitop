@@ -6,7 +6,7 @@
 <mezo id = "szam">009624</mezo>
 <mezo id = "nevalrovat">1</mezo>
 <mezo id = "regi_szh">0109561871</mezo>
-<mezo id = "cim">3554 Bükkaranyos, Báthori utca 103. </mezo>
+<mezo id = "cim">3554 BÃ¼kkaranyos, BÃ¡thori utca 103. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">10822375205</mezo>
 </alrovat>
@@ -14,7 +14,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19930225</mezo>
-<mezo id = "nev">BAUMESTER Kereskedelmi Korlátolt Felelõsségû Társasság</mezo>
+<mezo id = "nev">BAUMESTER Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsassÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -27,8 +27,8 @@
 <alrovat id = "7">
 <mezo id = "hattol">20090227</mezo>
 <mezo id = "irsz">3554</mezo>
-<mezo id = "hely">Bükkaranyos</mezo>
-<mezo id = "teru">Báthori utca 103.</mezo>
+<mezo id = "hely">BÃ¼kkaranyos</mezo>
+<mezo id = "teru">BÃ¡thori utca 103.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">20090227</mezo>
 <mezo id = "valtv">0</mezo>
@@ -40,7 +40,7 @@
 <alrovat id = "8">
 <mezo id = "hattol">20090227</mezo>
 <mezo id = "irsz">3508</mezo>
-<mezo id = "hely">Miskolc, Csaba vezér utca 115.</mezo>
+<mezo id = "hely">Miskolc, Csaba vezÃ©r utca 115.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20090227</mezo>
 <mezo id = "valtv">0</mezo>
@@ -349,7 +349,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090306</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Sport, szabadidõs képzés</mezo>
+<mezo id = "teaszov">Sport, szabadidÅ‘s kÃ©pzÃ©s</mezo>
 </alrovat>
 <alrovat id = "96">
 <mezo id = "hattol">20090227</mezo>
@@ -367,7 +367,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090306</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb sporttevékenység</mezo>
+<mezo id = "teaszov">EgyÃ©b sporttevÃ©kenysÃ©g</mezo>
 </alrovat>
 <alrovat id = "97">
 <mezo id = "hattol">20090227</mezo>
@@ -385,7 +385,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090306</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Mn.s. egyéb oktatás</mezo>
+<mezo id = "teaszov">Mn.s. egyÃ©b oktatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "98">
 <mezo id = "hattol">20090227</mezo>
@@ -403,7 +403,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090306</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Oktatást kiegészítõ tevékenység</mezo>
+<mezo id = "teaszov">OktatÃ¡st kiegÃ©szÃ­tÅ‘ tevÃ©kenysÃ©g</mezo>
 </alrovat>
 <alrovat id = "99">
 <mezo id = "hattol">20090227</mezo>
@@ -421,7 +421,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090306</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">M.n.s. egyéb szórakoztatás, szabadidõs tevékenység</mezo>
+<mezo id = "teaszov">M.n.s. egyÃ©b szÃ³rakoztatÃ¡s, szabadidÅ‘s tevÃ©kenysÃ©g</mezo>
 </alrovat>
 <alrovat id = "100">
 <mezo id = "hattol">20090227</mezo>
@@ -439,7 +439,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090306</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Üdülési, egyéb átmeneti szálláshely-szolgáltatás</mezo>
+<mezo id = "teaszov">ÃœdÃ¼lÃ©si, egyÃ©b Ã¡tmeneti szÃ¡llÃ¡shely-szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "101">
 <mezo id = "hattol">20090227</mezo>
@@ -457,7 +457,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090306</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Kempingszolgáltatás</mezo>
+<mezo id = "teaszov">KempingszolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "102">
 <mezo id = "hattol">20090227</mezo>
@@ -475,7 +475,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090306</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb szálláshely szolgáltatás</mezo>
+<mezo id = "teaszov">EgyÃ©b szÃ¡llÃ¡shely szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "103">
 <mezo id = "hattol">20090227</mezo>
@@ -493,7 +493,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090306</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb foglalás</mezo>
+<mezo id = "teaszov">EgyÃ©b foglalÃ¡s</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -512,10 +512,10 @@
 <rovat id = "13">
 <alrovat id = "5">
 <mezo id = "hattol">20040301</mezo>
-<mezo id = "pnev">Fábiánné Varga Mária</mezo>
-<mezo id = "panev">Hollósi Mária</mezo>
+<mezo id = "pnev">FÃ¡biÃ¡nnÃ© Varga MÃ¡ria</mezo>
+<mezo id = "panev">HollÃ³si MÃ¡ria</mezo>
 <mezo id = "pirsz">3519</mezo>
-<mezo id = "phely">Tapolcafürdõ , Sirály u. 15.</mezo>
+<mezo id = "phely">TapolcafÃ¼rdÅ‘ , SirÃ¡ly u. 15.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">2</mezo>
 <mezo id = "jogvk">20020507</mezo>
@@ -523,12 +523,12 @@
 </alrovat>
 <alrovat id = "12">
 <mezo id = "hattol">20110105</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Fábián Ferenc</mezo>
-<mezo id = "panev">Kalmár Anna</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">FÃ¡biÃ¡n Ferenc</mezo>
+<mezo id = "panev">KalmÃ¡r Anna</mezo>
 <mezo id = "pirsz">3554</mezo>
-<mezo id = "phely">Bükkaranyos</mezo>
-<mezo id = "pteru">Báthori u. 103.</mezo>
+<mezo id = "phely">BÃ¼kkaranyos</mezo>
+<mezo id = "pteru">BÃ¡thori u. 103.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20110105</mezo>
 <mezo id = "valtk">20110105</mezo>
@@ -563,7 +563,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20071218</mezo>
 <mezo id = "jccjsz">509014958</mezo>
-<mezo id = "nev">GERDA SD Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">GERDA SD Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "atdat">0</mezo>
 <mezo id = "valtk">20071218</mezo>
 <mezo id = "valtv">0</mezo>
@@ -574,10 +574,10 @@
 <rovat id = "0109">
 <alrovat id = "20">
 <mezo id = "hattol">20090227</mezo>
-<mezo id = "pnev">Fábiánné Varga Mária</mezo>
-<mezo id = "panev">Hollosi Mária</mezo>
+<mezo id = "pnev">FÃ¡biÃ¡nnÃ© Varga MÃ¡ria</mezo>
+<mezo id = "panev">Hollosi MÃ¡ria</mezo>
 <mezo id = "pirsz">2141</mezo>
-<mezo id = "phely">Csömör, Nap utca 9.</mezo>
+<mezo id = "phely">CsÃ¶mÃ¶r, Nap utca 9.</mezo>
 <mezo id = "tagsk">20050909</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20090227</mezo>
@@ -587,10 +587,10 @@
 </alrovat>
 <alrovat id = "21">
 <mezo id = "hattol">20090227</mezo>
-<mezo id = "pnev">Fábián Ferenc</mezo>
-<mezo id = "panev">Kalmár Anna</mezo>
+<mezo id = "pnev">FÃ¡biÃ¡n Ferenc</mezo>
+<mezo id = "panev">KalmÃ¡r Anna</mezo>
 <mezo id = "pirsz">3554</mezo>
-<mezo id = "phely">Bükkaranyos, Báthori utca 103.</mezo>
+<mezo id = "phely">BÃ¼kkaranyos, BÃ¡thori utca 103.</mezo>
 <mezo id = "tagsk">20090227</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20090227</mezo>
@@ -608,201 +608,201 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2002. 05. 07-én hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2002. 05. 07-Ã©n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
 21. 10822375-2-42.<ujsor/>
- Törölve: 2002. 05. 07-i hatállyal.<ujsor/>
+ TÃ¶rÃ¶lve: 2002. 05. 07-i hatÃ¡llyal.<ujsor/>
  10822375-2-05.<ujsor/>
- Hatályos: 2002. 05. 07-tõl.<ujsor/>
+ HatÃ¡lyos: 2002. 05. 07-tÅ‘l.<ujsor/>
 Bejegyezve: 2002. 05. 21.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0509009624</mezo>
-<mezo id = "nev">BAUMESTER Kereskedelmi Korlátolt Felelõsségû Társasság</mezo>
-<mezo id = "cim">3516 Miskolc, Pesti út 3-5.</mezo>
+<mezo id = "nev">BAUMESTER Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsassÃ¡g</mezo>
+<mezo id = "cim">3516 Miskolc, Pesti Ãºt 3-5.</mezo>
 <mezo id = "adosz">10822375205</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2004. 04. 13-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (tisztségviselõ).<ujsor/>
- Fábiánné Varga Mária (an: Hollósi Mária)<ujsor/>
-3519 Tapolcafürdõ, Sirály u. 15.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2004. 04. 13-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (tisztsÃ©gviselÅ‘).<ujsor/>
+ FÃ¡biÃ¡nnÃ© Varga MÃ¡ria (an: HollÃ³si MÃ¡ria)<ujsor/>
+3519 TapolcafÃ¼rdÅ‘, SirÃ¡ly u. 15.<ujsor/>
  A jogviszony kezdete: 2002. 05. 07.<ujsor/>
- A jogviszony vége: 2007. 05. 07.<ujsor/>
- Törölve: 2004. 03. 01-i hatállyal.<ujsor/>
- A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (tisztségviselõ).<ujsor/>
- Fábiánné Varga Mária (an: Hollósi Mária)<ujsor/>
-3519 Miskolc, Sirály u. 15.<ujsor/>
+ A jogviszony vÃ©ge: 2007. 05. 07.<ujsor/>
+ TÃ¶rÃ¶lve: 2004. 03. 01-i hatÃ¡llyal.<ujsor/>
+ A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (tisztsÃ©gviselÅ‘).<ujsor/>
+ FÃ¡biÃ¡nnÃ© Varga MÃ¡ria (an: HollÃ³si MÃ¡ria)<ujsor/>
+3519 Miskolc, SirÃ¡ly u. 15.<ujsor/>
  A jogviszony kezdete: 2002. 05. 07.<ujsor/>
- A jogviszony vége: 2007. 05. 07.<ujsor/>
- Hatályos: 2004. 03. 01-tõl.<ujsor/>
+ A jogviszony vÃ©ge: 2007. 05. 07.<ujsor/>
+ HatÃ¡lyos: 2004. 03. 01-tÅ‘l.<ujsor/>
 Bejegyezve: 2004. 05. 03.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0509009624</mezo>
-<mezo id = "nev">BAUMESTER Kereskedelmi Korlátolt Felelõsségû Társasság</mezo>
-<mezo id = "cim">3516 Miskolc, Pesti út 3-5.</mezo>
+<mezo id = "nev">BAUMESTER Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsassÃ¡g</mezo>
+<mezo id = "cim">3516 Miskolc, Pesti Ãºt 3-5.</mezo>
 <mezo id = "adosz">10822375205</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Borsod-Abaúj-Zemplén Megyei Bíróságon bejegyzett BAUMESTER Kereskedelmi Korlátolt Felelõsségû Társaság (Cg.: [05 09 009624]; székhelye: 3516 Miskolc, Pesti út 3.) tagjai elhatározták a társaság szétválással történõ átalakulását.<ujsor/>
-A szétválás módja: kiválás.<ujsor/>
-Az átalakulás során a BAUMESTER Kereskedelmi Korlátolt Felelõsségû Társaságból a társasági vagyon 45%-ának a felhasználásával kiválik egy új korlátolt felelõsségû társaság.<ujsor/>
-A BAUMESTER Kereskedelmi Korlátolt Felelõsségû Társaság a maradó 55% vagyon felhasználásával, a társasági szerzõdés módosítását követõen korlátolt felelõsségû társaságként mûködik tovább.<ujsor/>
-A fennmaradó társaság formája: korlátolt felelõsségû társaság.<ujsor/>
-Név: BAUMESTER Kereskedelmi Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhely: 3508 Miskolc, Csaba vezér u. 127.<ujsor/>
-A fennmaradó társaság társasági szerzõdés módosításának napja: 2007. november 7.<ujsor/>
-A fennmaradó társaság fõ tevékenysége (TEÁOR ’03): 5153 Fa-, építõanyag-, szaniteráru-nagykereskedelem.<ujsor/>
-Vezetõ tisztségviselõje: Fábiánné Varga Mária (2141 Csömör, Nap u. 9.).<ujsor/>
-Az átalakulás során kiváló társaság formája: korlátolt felelõsségû társaság.<ujsor/>
-Név: GERDA SD Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhely: 3516 Miskolc, Pesti út 3.<ujsor/>
-A kiválással létrejövõ korlátolt felelõsségû társaság társasági szerzõdése elfogadásának napja: 2007. november 7.<ujsor/>
-A kiválással létrejövõ korlátolt felelõsségû társaság fõ tevékenysége (TEÁOR ’03): 5153 Fa-, építõanyag-, szaniteráru-nagykereskedelem.<ujsor/>
-Vezetõ tisztségviselõje: Germán László (3713 Arnót, Alkotmány u. 22.).<ujsor/>
-Az átalakuló BAUMESTER Kereskedelmi Korlátolt Felelõsségû Társaság átalakulási (záró) vagyonmérleg-tervezetének fõbb adatai (2007. szeptember 30.):<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 58 321 Saját tõke 92 374<ujsor/>
-Immateriális javak 5 Jegyzett tõke 92 000<ujsor/>
-Tárgyi eszközök 58 316 Kötelezettségek 24 085<ujsor/>
-Befektetett pénzügyi eszközök ­ Hosszú lejáratú kötelezettség ­<ujsor/>
-Forgóeszközök 54 984 Rövid lejáratú kötelezettségek 24 085<ujsor/>
-Készletek 15 211 Passzív idõbeli elhatárolások ­<ujsor/>
-Követelések 34 533<ujsor/>
-Értékpapírok ­<ujsor/>
-Pénzeszközök 5 240<ujsor/>
-Aktív idõbeli elhatárolások 3 154<ujsor/>
-ÖSSZESEN: 116 459 ÖSSZESEN: 116 459<ujsor/>
-A kiválással létrejövõ GERDA SD Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság nyitó vagyonmérleg-tervezetének fõbb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 53 134 Saját tõke 53 134<ujsor/>
-Immateriális javak ­ Jegyzett tõke 50 000<ujsor/>
-Tárgyi eszközök 53 134 Kötelezettségek ­<ujsor/>
-Befektetett pénzügyi eszközök ­ Hosszú lejáratú kötelezettség ­<ujsor/>
-Forgóeszközök ­ Rövid lejáratú kötelezettségek ­<ujsor/>
-Készletek ­ Passzív idõbeli elhatárolások ­<ujsor/>
-Követelések ­<ujsor/>
-Értékpapírok ­<ujsor/>
-Pénzeszközök ­<ujsor/>
-Aktív idõbeli elhatárolások ­<ujsor/>
-ÖSSZESEN: 53 134 ÖSSZESEN: 53 134<ujsor/>
-A kiválása utáni BAUMESTER Kft. átalakulási (nyitó) vagyonmérleg-tervezetének fõbb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 5 187 Saját tõke 39 240<ujsor/>
-Immateriális javak 5 Jegyzett tõke 6 000<ujsor/>
-Tárgyi eszközök 5 182 Tõketartalék<ujsor/>
-Befektetett pénzügyi eszközök ­ Eredménytartalék 33 240<ujsor/>
-Forgóeszközök 54 984 Lekötött tartalék<ujsor/>
-Készletek 15 211 Kötelezettségek 24 085<ujsor/>
-Követelések 34 533 Hosszú lejáratú kötelezettségek ­<ujsor/>
-Értékpapírok ­ Rövid lejáratú kötelezettségek 24 085<ujsor/>
-Pénzeszközök 5 240 Passzív idõbeli elhatárolások ­<ujsor/>
-Aktív idõbeli elhatárolások 3 154<ujsor/>
-ÖSSZESEN: 63 325 ÖSSZESEN: 63 325<ujsor/>
-A fennmaradó BAUMESTER Kft.-t megilletõ jog:<ujsor/>
-Peres eljárások az alábbiak szerint vannak folyamatban, melyek jogosultja az átalakulást követõen a fennmaradó BAUMESTER Kft.:<ujsor/>
-­ Miskolci Városi Bíróság 4.P.21.759/2006. (felperes: BAUMESTER Kft.: alperes: Bertalan és Társa Bt.),<ujsor/>
-­ Miskolci Városi Bíróság 5.P.21.305/2006. (felperes: BAUMESTER Kft.: alperes: Kiss Ernõ; 3587 Tiszapalkonya, Mátyás u. 45.).<ujsor/>
-A kiváló GERDA SD Kft. vagyonát fogja képezni tehermentesen a MISKOLC II. kerületi 47384. hrsz. alatt felvett „kivett épület és udvar” megjelölésû, 4548 m2 alapterületû belterületû ingatlan.<ujsor/>
-A jogutód kiváló GERDA SD Kft. válik jogosultjává az alábbi érvényes és hatályos szerzõdéseknek:<ujsor/>
-­ Szállítási keretszerzõdés (szerzõdésszám: 102558 RIGIPS HUNGÁRIA GIPSZKARTON Kft. ­ mint szállítóval ­ (1181 Budapest, Zádor u. 4.), a továbbiakban megrendelõ a GERDA SD Kft.<ujsor/>
-­ Kereskedelmi szerzõdés Tondach Magyarország Zrt. (9300 Csorna, Soproni út 66.) ­ mint eladóval ­, a továbbiakban kereskedõ a GERDA SD Kft.<ujsor/>
-­ Szállítási szerzõdés (szerzõdésszám: M/42/2007) Sakret-Hungária Bt. (9241 Jánossomorja, Új Ipartelep) ­ mint gyártóval ­, továbbiakban megrendelõ a GERDA SD Kft.<ujsor/>
-­ Viszonteladói megállapodás a RUUKKI HUNGARY Kft. (1023 Budapest, Árpád fejedelem útja 26­28.) vezérképviselõvel, a továbbiakban viszonteladó a GERDA SD Kft.<ujsor/>
-­ Szállítási szerzõdés a Bauchemie Kft. Botament Üzletág (1117 Budapest, Hengermalom u. 47/A) ­ mint forgalmazóval ­, a továbbiakban szakkereskedõ a GERDA SD Kft.<ujsor/>
-­ Szerzõdés (szerzõdésszám: 7009793/060101) a HOLCIM White Ltd. (Thurgauerstrasse 40., CH-8050 Zürich Switzerland) ­ mint szállítóval ­, a továbbiakban kliens a GERDA SD Kft.<ujsor/>
-­ WIENERBERGER Téglaipari Zrt. (1119 Budapest, Bártfai u. 34.) ­ mint gyártóval ­, a továbbiakban partner a GERDA SD Kft.<ujsor/>
-­ Viszonteladói szerzõdés az ALTEK Tégla és Cserépipari Kft. (Mezõtúr, Földvári út 6.) ­ mint gyártóval ­, a továbbiakban viszonteladó a GERDA SD Kft.<ujsor/>
-­ Forgalmazási szerzõdés az AUSTROTHERM Hõszigetelõanyag Gyártó Kft. (9028 Gyõr, Fehérvár u. 75.) mint gyártóval ­, a továbbiakban: forgalmazó a GERDA SD Kft.<ujsor/>
-Felhívjuk azokat a hitelezõket, akiknek az átalakuló társasággal szemben fennálló, le nem járt követelései az átalakulásról hozott döntés elsõ közzétételét megelõzõen keletkeztek, követeléseik erejéig az átalakuló társaságtól a döntés második közzétételét követõ 30 napos jogvesztõ határidõn belül biztosítékot követelhetnek. A hitelezõk a hirdetményi határidõ alatt a BAUMESTER Kft. jelenlegi székhelyén (3516 Miskolc, Pesti út 3.) kaphatnak tájékoztatást a követelésüket érintõ vagyonmegosztási rendelkezésekrõl.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">A Borsod-AbaÃºj-ZemplÃ©n Megyei BÃ­rÃ³sÃ¡gon bejegyzett BAUMESTER Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [05 09 009624]; szÃ©khelye: 3516 Miskolc, Pesti Ãºt 3.) tagjai elhatÃ¡roztÃ¡k a tÃ¡rsasÃ¡g szÃ©tvÃ¡lÃ¡ssal tÃ¶rtÃ©nÅ‘ Ã¡talakulÃ¡sÃ¡t.<ujsor/>
+A szÃ©tvÃ¡lÃ¡s mÃ³dja: kivÃ¡lÃ¡s.<ujsor/>
+Az Ã¡talakulÃ¡s sorÃ¡n a BAUMESTER Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gbÃ³l a tÃ¡rsasÃ¡gi vagyon 45%-Ã¡nak a felhasznÃ¡lÃ¡sÃ¡val kivÃ¡lik egy Ãºj korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+A BAUMESTER Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g a maradÃ³ 55% vagyon felhasznÃ¡lÃ¡sÃ¡val, a tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s mÃ³dosÃ­tÃ¡sÃ¡t kÃ¶vetÅ‘en korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡gkÃ©nt mÅ±kÃ¶dik tovÃ¡bb.<ujsor/>
+A fennmaradÃ³ tÃ¡rsasÃ¡g formÃ¡ja: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+NÃ©v: BAUMESTER Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khely: 3508 Miskolc, Csaba vezÃ©r u. 127.<ujsor/>
+A fennmaradÃ³ tÃ¡rsasÃ¡g tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s mÃ³dosÃ­tÃ¡sÃ¡nak napja: 2007. november 7.<ujsor/>
+A fennmaradÃ³ tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™03): 5153 Fa-, Ã©pÃ­tÅ‘anyag-, szaniterÃ¡ru-nagykereskedelem.<ujsor/>
+VezetÅ‘ tisztsÃ©gviselÅ‘je: FÃ¡biÃ¡nnÃ© Varga MÃ¡ria (2141 CsÃ¶mÃ¶r, Nap u. 9.).<ujsor/>
+Az Ã¡talakulÃ¡s sorÃ¡n kivÃ¡lÃ³ tÃ¡rsasÃ¡g formÃ¡ja: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+NÃ©v: GERDA SD Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khely: 3516 Miskolc, Pesti Ãºt 3.<ujsor/>
+A kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g tÃ¡rsasÃ¡gi szerzÅ‘dÃ©se elfogadÃ¡sÃ¡nak napja: 2007. november 7.<ujsor/>
+A kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™03): 5153 Fa-, Ã©pÃ­tÅ‘anyag-, szaniterÃ¡ru-nagykereskedelem.<ujsor/>
+VezetÅ‘ tisztsÃ©gviselÅ‘je: GermÃ¡n LÃ¡szlÃ³ (3713 ArnÃ³t, AlkotmÃ¡ny u. 22.).<ujsor/>
+Az Ã¡talakulÃ³ BAUMESTER Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g Ã¡talakulÃ¡si (zÃ¡rÃ³) vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai (2007. szeptember 30.):<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 58 321 SajÃ¡t tÅ‘ke 92 374<ujsor/>
+ImmateriÃ¡lis javak 5 Jegyzett tÅ‘ke 92 000<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 58 316 KÃ¶telezettsÃ©gek 24 085<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k Â­ HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©g Â­<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 54 984 RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 24 085<ujsor/>
+KÃ©szletek 15 211 PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok Â­<ujsor/>
+KÃ¶vetelÃ©sek 34 533<ujsor/>
+Ã‰rtÃ©kpapÃ­rok Â­<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 5 240<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 3 154<ujsor/>
+Ã–SSZESEN: 116 459 Ã–SSZESEN: 116 459<ujsor/>
+A kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ GERDA SD Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g nyitÃ³ vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 53 134 SajÃ¡t tÅ‘ke 53 134<ujsor/>
+ImmateriÃ¡lis javak Â­ Jegyzett tÅ‘ke 50 000<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 53 134 KÃ¶telezettsÃ©gek Â­<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k Â­ HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©g Â­<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k Â­ RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek Â­<ujsor/>
+KÃ©szletek Â­ PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok Â­<ujsor/>
+KÃ¶vetelÃ©sek Â­<ujsor/>
+Ã‰rtÃ©kpapÃ­rok Â­<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k Â­<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok Â­<ujsor/>
+Ã–SSZESEN: 53 134 Ã–SSZESEN: 53 134<ujsor/>
+A kivÃ¡lÃ¡sa utÃ¡ni BAUMESTER Kft. Ã¡talakulÃ¡si (nyitÃ³) vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 5 187 SajÃ¡t tÅ‘ke 39 240<ujsor/>
+ImmateriÃ¡lis javak 5 Jegyzett tÅ‘ke 6 000<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 5 182 TÅ‘ketartalÃ©k<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k Â­ EredmÃ©nytartalÃ©k 33 240<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 54 984 LekÃ¶tÃ¶tt tartalÃ©k<ujsor/>
+KÃ©szletek 15 211 KÃ¶telezettsÃ©gek 24 085<ujsor/>
+KÃ¶vetelÃ©sek 34 533 HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek Â­<ujsor/>
+Ã‰rtÃ©kpapÃ­rok Â­ RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 24 085<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 5 240 PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok Â­<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 3 154<ujsor/>
+Ã–SSZESEN: 63 325 Ã–SSZESEN: 63 325<ujsor/>
+A fennmaradÃ³ BAUMESTER Kft.-t megilletÅ‘ jog:<ujsor/>
+Peres eljÃ¡rÃ¡sok az alÃ¡bbiak szerint vannak folyamatban, melyek jogosultja az Ã¡talakulÃ¡st kÃ¶vetÅ‘en a fennmaradÃ³ BAUMESTER Kft.:<ujsor/>
+Â­ Miskolci VÃ¡rosi BÃ­rÃ³sÃ¡g 4.P.21.759/2006. (felperes: BAUMESTER Kft.: alperes: Bertalan Ã©s TÃ¡rsa Bt.),<ujsor/>
+Â­ Miskolci VÃ¡rosi BÃ­rÃ³sÃ¡g 5.P.21.305/2006. (felperes: BAUMESTER Kft.: alperes: Kiss ErnÅ‘; 3587 Tiszapalkonya, MÃ¡tyÃ¡s u. 45.).<ujsor/>
+A kivÃ¡lÃ³ GERDA SD Kft. vagyonÃ¡t fogja kÃ©pezni tehermentesen a MISKOLC II. kerÃ¼leti 47384. hrsz. alatt felvett â€kivett Ã©pÃ¼let Ã©s udvarâ€ megjelÃ¶lÃ©sÅ±, 4548 m2 alapterÃ¼letÅ± belterÃ¼letÅ± ingatlan.<ujsor/>
+A jogutÃ³d kivÃ¡lÃ³ GERDA SD Kft. vÃ¡lik jogosultjÃ¡vÃ¡ az alÃ¡bbi Ã©rvÃ©nyes Ã©s hatÃ¡lyos szerzÅ‘dÃ©seknek:<ujsor/>
+Â­ SzÃ¡llÃ­tÃ¡si keretszerzÅ‘dÃ©s (szerzÅ‘dÃ©sszÃ¡m: 102558 RIGIPS HUNGÃRIA GIPSZKARTON Kft. Â­ mint szÃ¡llÃ­tÃ³val Â­ (1181 Budapest, ZÃ¡dor u. 4.), a tovÃ¡bbiakban megrendelÅ‘ a GERDA SD Kft.<ujsor/>
+Â­ Kereskedelmi szerzÅ‘dÃ©s Tondach MagyarorszÃ¡g Zrt. (9300 Csorna, Soproni Ãºt 66.) Â­ mint eladÃ³val Â­, a tovÃ¡bbiakban kereskedÅ‘ a GERDA SD Kft.<ujsor/>
+Â­ SzÃ¡llÃ­tÃ¡si szerzÅ‘dÃ©s (szerzÅ‘dÃ©sszÃ¡m: M/42/2007) Sakret-HungÃ¡ria Bt. (9241 JÃ¡nossomorja, Ãšj Ipartelep) Â­ mint gyÃ¡rtÃ³val Â­, tovÃ¡bbiakban megrendelÅ‘ a GERDA SD Kft.<ujsor/>
+Â­ ViszonteladÃ³i megÃ¡llapodÃ¡s a RUUKKI HUNGARY Kft. (1023 Budapest, ÃrpÃ¡d fejedelem Ãºtja 26Â­28.) vezÃ©rkÃ©pviselÅ‘vel, a tovÃ¡bbiakban viszonteladÃ³ a GERDA SD Kft.<ujsor/>
+Â­ SzÃ¡llÃ­tÃ¡si szerzÅ‘dÃ©s a Bauchemie Kft. Botament ÃœzletÃ¡g (1117 Budapest, Hengermalom u. 47/A) Â­ mint forgalmazÃ³val Â­, a tovÃ¡bbiakban szakkereskedÅ‘ a GERDA SD Kft.<ujsor/>
+Â­ SzerzÅ‘dÃ©s (szerzÅ‘dÃ©sszÃ¡m: 7009793/060101) a HOLCIM White Ltd. (Thurgauerstrasse 40., CH-8050 ZÃ¼rich Switzerland) Â­ mint szÃ¡llÃ­tÃ³val Â­, a tovÃ¡bbiakban kliens a GERDA SD Kft.<ujsor/>
+Â­ WIENERBERGER TÃ©glaipari Zrt. (1119 Budapest, BÃ¡rtfai u. 34.) Â­ mint gyÃ¡rtÃ³val Â­, a tovÃ¡bbiakban partner a GERDA SD Kft.<ujsor/>
+Â­ ViszonteladÃ³i szerzÅ‘dÃ©s az ALTEK TÃ©gla Ã©s CserÃ©pipari Kft. (MezÅ‘tÃºr, FÃ¶ldvÃ¡ri Ãºt 6.) Â­ mint gyÃ¡rtÃ³val Â­, a tovÃ¡bbiakban viszonteladÃ³ a GERDA SD Kft.<ujsor/>
+Â­ ForgalmazÃ¡si szerzÅ‘dÃ©s az AUSTROTHERM HÅ‘szigetelÅ‘anyag GyÃ¡rtÃ³ Kft. (9028 GyÅ‘r, FehÃ©rvÃ¡r u. 75.) mint gyÃ¡rtÃ³val Â­, a tovÃ¡bbiakban: forgalmazÃ³ a GERDA SD Kft.<ujsor/>
+FelhÃ­vjuk azokat a hitelezÅ‘ket, akiknek az Ã¡talakulÃ³ tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei az Ã¡talakulÃ¡srÃ³l hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig az Ã¡talakulÃ³ tÃ¡rsasÃ¡gtÃ³l a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ 30 napos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek. A hitelezÅ‘k a hirdetmÃ©nyi hatÃ¡ridÅ‘ alatt a BAUMESTER Kft. jelenlegi szÃ©khelyÃ©n (3516 Miskolc, Pesti Ãºt 3.) kaphatnak tÃ¡jÃ©koztatÃ¡st a kÃ¶vetelÃ©sÃ¼ket Ã©rintÅ‘ vagyonmegosztÃ¡si rendelkezÃ©sekrÅ‘l.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0509009624</mezo>
-<mezo id = "nev">BAUMESTER Kereskedelmi Korlátolt Felelõsségü Társasság</mezo>
+<mezo id = "nev">BAUMESTER Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÃ¼ TÃ¡rsassÃ¡g</mezo>
 <mezo id = "cim">3516 Miskolc</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Borsod-Abaúj-Zemplén Megyei Bíróságon bejegyzett BAUMESTER Kereskedelmi Korlátolt Felelõsségû Társaság (Cg.: [05 09 009624]; székhelye: 3516 Miskolc, Pesti út 3.) tagjai elhatározták a társaság szétválással történõ átalakulását.<ujsor/>
-A szétválás módja: kiválás.<ujsor/>
-Az átalakulás során a BAUMESTER Kereskedelmi Korlátolt Felelõsségû Társaságból a társasági vagyon 45%-ának a felhasználásával kiválik egy új korlátolt felelõsségû társaság.<ujsor/>
-A BAUMESTER Kereskedelmi Korlátolt Felelõsségû Társaság a maradó 55% vagyon felhasználásával, a társasági szerzõdés módosítását követõen korlátolt felelõsségû társaságként mûködik tovább.<ujsor/>
-A fennmaradó társaság formája: korlátolt felelõsségû társaság.<ujsor/>
-Név: BAUMESTER Kereskedelmi Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhely: 3508 Miskolc, Csaba vezér u. 127.<ujsor/>
-A fennmaradó társaság társasági szerzõdés módosításának napja: 2007. november 7.<ujsor/>
-A fennmaradó társaság fõ tevékenysége (TEÁOR ’03): 5153 Fa-, építõanyag-, szaniteráru-nagykereskedelem.<ujsor/>
-Vezetõ tisztségviselõje: Fábiánné Varga Mária (2141 Csömör, Nap u. 9.).<ujsor/>
-Az átalakulás során kiváló társaság formája: korlátolt felelõsségû társaság.<ujsor/>
-Név: GERDA SD Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhely: 3516 Miskolc, Pesti út 3.<ujsor/>
-A kiválással létrejövõ korlátolt felelõsségû társaság társasági szerzõdése elfogadásának napja: 2007. november 7.<ujsor/>
-A kiválással létrejövõ korlátolt felelõsségû társaság fõ tevékenysége (TEÁOR ’03): 5153 Fa-, építõanyag-, szaniteráru-nagykereskedelem.<ujsor/>
-Vezetõ tisztségviselõje: Germán László (3713 Arnót, Alkotmány u. 22.).<ujsor/>
-Az átalakuló BAUMESTER Kereskedelmi Korlátolt Felelõsségû Társaság átalakulási (záró) vagyonmérleg-tervezetének fõbb adatai (2007. szeptember 30.):<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 58 321 Saját tõke 92 374<ujsor/>
-Immateriális javak 5 Jegyzett tõke 92 000<ujsor/>
-Tárgyi eszközök 58 316 Kötelezettségek 24 085<ujsor/>
-Befektetett pénzügyi eszközök ­ Hosszú lejáratú kötelezettség ­<ujsor/>
-Forgóeszközök 54 984 Rövid lejáratú kötelezettségek 24 085<ujsor/>
-Készletek 15 211 Passzív idõbeli elhatárolások ­<ujsor/>
-Követelések 34 533<ujsor/>
-Értékpapírok ­<ujsor/>
-Pénzeszközök 5 240<ujsor/>
-Aktív idõbeli elhatárolások 3 154<ujsor/>
-ÖSSZESEN: 116 459 ÖSSZESEN: 116 459<ujsor/>
-A kiválással létrejövõ GERDA SD Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság nyitó vagyonmérleg-tervezetének fõbb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 53 134 Saját tõke 53 134<ujsor/>
-Immateriális javak ­ Jegyzett tõke 50 000<ujsor/>
-Tárgyi eszközök 53 134 Kötelezettségek ­<ujsor/>
-Befektetett pénzügyi eszközök ­ Hosszú lejáratú kötelezettség ­<ujsor/>
-Forgóeszközök ­ Rövid lejáratú kötelezettségek ­<ujsor/>
-Készletek ­ Passzív idõbeli elhatárolások ­<ujsor/>
-Követelések ­<ujsor/>
-Értékpapírok ­<ujsor/>
-Pénzeszközök ­<ujsor/>
-Aktív idõbeli elhatárolások ­<ujsor/>
-ÖSSZESEN: 53 134 ÖSSZESEN: 53 134<ujsor/>
-A kiválása utáni BAUMESTER Kft. átalakulási (nyitó) vagyonmérleg-tervezetének fõbb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 5 187 Saját tõke 39 240<ujsor/>
-Immateriális javak 5 Jegyzett tõke 6 000<ujsor/>
-Tárgyi eszközök 5 182 Tõketartalék<ujsor/>
-Befektetett pénzügyi eszközök ­ Eredménytartalék 33 240<ujsor/>
-Forgóeszközök 54 984 Lekötött tartalék<ujsor/>
-Készletek 15 211 Kötelezettségek 24 085<ujsor/>
-Követelések 34 533 Hosszú lejáratú kötelezettségek ­<ujsor/>
-Értékpapírok ­ Rövid lejáratú kötelezettségek 24 085<ujsor/>
-Pénzeszközök 5 240 Passzív idõbeli elhatárolások ­<ujsor/>
-Aktív idõbeli elhatárolások 3 154<ujsor/>
-ÖSSZESEN: 63 325 ÖSSZESEN: 63 325<ujsor/>
-A fennmaradó BAUMESTER Kft.-t megilletõ jog:<ujsor/>
-Peres eljárások az alábbiak szerint vannak folyamatban, melyek jogosultja az átalakulást követõen a fennmaradó BAUMESTER Kft.:<ujsor/>
-­ Miskolci Városi Bíróság 4.P.21.759/2006. (felperes: BAUMESTER Kft.: alperes: Bertalan és Társa Bt.),<ujsor/>
-­ Miskolci Városi Bíróság 5.P.21.305/2006. (felperes: BAUMESTER Kft.: alperes: Kiss Ernõ; 3587 Tiszapalkonya, Mátyás u. 45.).<ujsor/>
-A kiváló GERDA SD Kft. vagyonát fogja képezni tehermentesen a MISKOLC II. kerületi 47384. hrsz. alatt felvett „kivett épület és udvar” megjelölésû, 4548 m2 alapterületû belterületû ingatlan.<ujsor/>
-A jogutód kiváló GERDA SD Kft. válik jogosultjává az alábbi érvényes és hatályos szerzõdéseknek:<ujsor/>
-­ Szállítási keretszerzõdés (szerzõdésszám: 102558 RIGIPS HUNGÁRIA GIPSZKARTON Kft. ­ mint szállítóval ­ (1181 Budapest, Zádor u. 4.), a továbbiakban megrendelõ a GERDA SD Kft.<ujsor/>
-­ Kereskedelmi szerzõdés Tondach Magyarország Zrt. (9300 Csorna, Soproni út 66.) ­ mint eladóval ­, a továbbiakban kereskedõ a GERDA SD Kft.<ujsor/>
-­ Szállítási szerzõdés (szerzõdésszám: M/42/2007) Sakret-Hungária Bt. (9241 Jánossomorja, Új Ipartelep) ­ mint gyártóval ­, továbbiakban megrendelõ a GERDA SD Kft.<ujsor/>
-­ Viszonteladói megállapodás a RUUKKI HUNGARY Kft. (1023 Budapest, Árpád fejedelem útja 26­28.) vezérképviselõvel, a továbbiakban viszonteladó a GERDA SD Kft.<ujsor/>
-­ Szállítási szerzõdés a Bauchemie Kft. Botament Üzletág (1117 Budapest, Hengermalom u. 47/A) ­ mint forgalmazóval ­, a továbbiakban szakkereskedõ a GERDA SD Kft.<ujsor/>
-­ Szerzõdés (szerzõdésszám: 7009793/060101) a HOLCIM White Ltd. (Thurgauerstrasse 40., CH-8050 Zürich Switzerland) ­ mint szállítóval ­, a továbbiakban kliens a GERDA SD Kft.<ujsor/>
-­ WIENERBERGER Téglaipari Zrt. (1119 Budapest, Bártfai u. 34.) ­ mint gyártóval ­, a továbbiakban partner a GERDA SD Kft.<ujsor/>
-­ Viszonteladói szerzõdés az ALTEK Tégla és Cserépipari Kft. (Mezõtúr, Földvári út 6.) ­ mint gyártóval ­, a továbbiakban viszonteladó a GERDA SD Kft.<ujsor/>
-­ Forgalmazási szerzõdés az AUSTROTHERM Hõszigetelõanyag Gyártó Kft. (9028 Gyõr, Fehérvár u. 75.) mint gyártóval ­, a továbbiakban: forgalmazó a GERDA SD Kft.<ujsor/>
-Felhívjuk azokat a hitelezõket, akiknek az átalakuló társasággal szemben fennálló, le nem járt követelései az átalakulásról hozott döntés elsõ közzétételét megelõzõen keletkeztek, követeléseik erejéig az átalakuló társaságtól a döntés második közzétételét követõ 30 napos jogvesztõ határidõn belül biztosítékot követelhetnek. A hitelezõk a hirdetményi határidõ alatt a BAUMESTER Kft. jelenlegi székhelyén (3516 Miskolc, Pesti út 3.) kaphatnak tájékoztatást a követelésüket érintõ vagyonmegosztási rendelkezésekrõl.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">A Borsod-AbaÃºj-ZemplÃ©n Megyei BÃ­rÃ³sÃ¡gon bejegyzett BAUMESTER Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [05 09 009624]; szÃ©khelye: 3516 Miskolc, Pesti Ãºt 3.) tagjai elhatÃ¡roztÃ¡k a tÃ¡rsasÃ¡g szÃ©tvÃ¡lÃ¡ssal tÃ¶rtÃ©nÅ‘ Ã¡talakulÃ¡sÃ¡t.<ujsor/>
+A szÃ©tvÃ¡lÃ¡s mÃ³dja: kivÃ¡lÃ¡s.<ujsor/>
+Az Ã¡talakulÃ¡s sorÃ¡n a BAUMESTER Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gbÃ³l a tÃ¡rsasÃ¡gi vagyon 45%-Ã¡nak a felhasznÃ¡lÃ¡sÃ¡val kivÃ¡lik egy Ãºj korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+A BAUMESTER Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g a maradÃ³ 55% vagyon felhasznÃ¡lÃ¡sÃ¡val, a tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s mÃ³dosÃ­tÃ¡sÃ¡t kÃ¶vetÅ‘en korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡gkÃ©nt mÅ±kÃ¶dik tovÃ¡bb.<ujsor/>
+A fennmaradÃ³ tÃ¡rsasÃ¡g formÃ¡ja: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+NÃ©v: BAUMESTER Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khely: 3508 Miskolc, Csaba vezÃ©r u. 127.<ujsor/>
+A fennmaradÃ³ tÃ¡rsasÃ¡g tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s mÃ³dosÃ­tÃ¡sÃ¡nak napja: 2007. november 7.<ujsor/>
+A fennmaradÃ³ tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™03): 5153 Fa-, Ã©pÃ­tÅ‘anyag-, szaniterÃ¡ru-nagykereskedelem.<ujsor/>
+VezetÅ‘ tisztsÃ©gviselÅ‘je: FÃ¡biÃ¡nnÃ© Varga MÃ¡ria (2141 CsÃ¶mÃ¶r, Nap u. 9.).<ujsor/>
+Az Ã¡talakulÃ¡s sorÃ¡n kivÃ¡lÃ³ tÃ¡rsasÃ¡g formÃ¡ja: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+NÃ©v: GERDA SD Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khely: 3516 Miskolc, Pesti Ãºt 3.<ujsor/>
+A kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g tÃ¡rsasÃ¡gi szerzÅ‘dÃ©se elfogadÃ¡sÃ¡nak napja: 2007. november 7.<ujsor/>
+A kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™03): 5153 Fa-, Ã©pÃ­tÅ‘anyag-, szaniterÃ¡ru-nagykereskedelem.<ujsor/>
+VezetÅ‘ tisztsÃ©gviselÅ‘je: GermÃ¡n LÃ¡szlÃ³ (3713 ArnÃ³t, AlkotmÃ¡ny u. 22.).<ujsor/>
+Az Ã¡talakulÃ³ BAUMESTER Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g Ã¡talakulÃ¡si (zÃ¡rÃ³) vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai (2007. szeptember 30.):<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 58 321 SajÃ¡t tÅ‘ke 92 374<ujsor/>
+ImmateriÃ¡lis javak 5 Jegyzett tÅ‘ke 92 000<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 58 316 KÃ¶telezettsÃ©gek 24 085<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k Â­ HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©g Â­<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 54 984 RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 24 085<ujsor/>
+KÃ©szletek 15 211 PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok Â­<ujsor/>
+KÃ¶vetelÃ©sek 34 533<ujsor/>
+Ã‰rtÃ©kpapÃ­rok Â­<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 5 240<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 3 154<ujsor/>
+Ã–SSZESEN: 116 459 Ã–SSZESEN: 116 459<ujsor/>
+A kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ GERDA SD Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g nyitÃ³ vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 53 134 SajÃ¡t tÅ‘ke 53 134<ujsor/>
+ImmateriÃ¡lis javak Â­ Jegyzett tÅ‘ke 50 000<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 53 134 KÃ¶telezettsÃ©gek Â­<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k Â­ HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©g Â­<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k Â­ RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek Â­<ujsor/>
+KÃ©szletek Â­ PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok Â­<ujsor/>
+KÃ¶vetelÃ©sek Â­<ujsor/>
+Ã‰rtÃ©kpapÃ­rok Â­<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k Â­<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok Â­<ujsor/>
+Ã–SSZESEN: 53 134 Ã–SSZESEN: 53 134<ujsor/>
+A kivÃ¡lÃ¡sa utÃ¡ni BAUMESTER Kft. Ã¡talakulÃ¡si (nyitÃ³) vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 5 187 SajÃ¡t tÅ‘ke 39 240<ujsor/>
+ImmateriÃ¡lis javak 5 Jegyzett tÅ‘ke 6 000<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 5 182 TÅ‘ketartalÃ©k<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k Â­ EredmÃ©nytartalÃ©k 33 240<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 54 984 LekÃ¶tÃ¶tt tartalÃ©k<ujsor/>
+KÃ©szletek 15 211 KÃ¶telezettsÃ©gek 24 085<ujsor/>
+KÃ¶vetelÃ©sek 34 533 HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek Â­<ujsor/>
+Ã‰rtÃ©kpapÃ­rok Â­ RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 24 085<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 5 240 PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok Â­<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 3 154<ujsor/>
+Ã–SSZESEN: 63 325 Ã–SSZESEN: 63 325<ujsor/>
+A fennmaradÃ³ BAUMESTER Kft.-t megilletÅ‘ jog:<ujsor/>
+Peres eljÃ¡rÃ¡sok az alÃ¡bbiak szerint vannak folyamatban, melyek jogosultja az Ã¡talakulÃ¡st kÃ¶vetÅ‘en a fennmaradÃ³ BAUMESTER Kft.:<ujsor/>
+Â­ Miskolci VÃ¡rosi BÃ­rÃ³sÃ¡g 4.P.21.759/2006. (felperes: BAUMESTER Kft.: alperes: Bertalan Ã©s TÃ¡rsa Bt.),<ujsor/>
+Â­ Miskolci VÃ¡rosi BÃ­rÃ³sÃ¡g 5.P.21.305/2006. (felperes: BAUMESTER Kft.: alperes: Kiss ErnÅ‘; 3587 Tiszapalkonya, MÃ¡tyÃ¡s u. 45.).<ujsor/>
+A kivÃ¡lÃ³ GERDA SD Kft. vagyonÃ¡t fogja kÃ©pezni tehermentesen a MISKOLC II. kerÃ¼leti 47384. hrsz. alatt felvett â€kivett Ã©pÃ¼let Ã©s udvarâ€ megjelÃ¶lÃ©sÅ±, 4548 m2 alapterÃ¼letÅ± belterÃ¼letÅ± ingatlan.<ujsor/>
+A jogutÃ³d kivÃ¡lÃ³ GERDA SD Kft. vÃ¡lik jogosultjÃ¡vÃ¡ az alÃ¡bbi Ã©rvÃ©nyes Ã©s hatÃ¡lyos szerzÅ‘dÃ©seknek:<ujsor/>
+Â­ SzÃ¡llÃ­tÃ¡si keretszerzÅ‘dÃ©s (szerzÅ‘dÃ©sszÃ¡m: 102558 RIGIPS HUNGÃRIA GIPSZKARTON Kft. Â­ mint szÃ¡llÃ­tÃ³val Â­ (1181 Budapest, ZÃ¡dor u. 4.), a tovÃ¡bbiakban megrendelÅ‘ a GERDA SD Kft.<ujsor/>
+Â­ Kereskedelmi szerzÅ‘dÃ©s Tondach MagyarorszÃ¡g Zrt. (9300 Csorna, Soproni Ãºt 66.) Â­ mint eladÃ³val Â­, a tovÃ¡bbiakban kereskedÅ‘ a GERDA SD Kft.<ujsor/>
+Â­ SzÃ¡llÃ­tÃ¡si szerzÅ‘dÃ©s (szerzÅ‘dÃ©sszÃ¡m: M/42/2007) Sakret-HungÃ¡ria Bt. (9241 JÃ¡nossomorja, Ãšj Ipartelep) Â­ mint gyÃ¡rtÃ³val Â­, tovÃ¡bbiakban megrendelÅ‘ a GERDA SD Kft.<ujsor/>
+Â­ ViszonteladÃ³i megÃ¡llapodÃ¡s a RUUKKI HUNGARY Kft. (1023 Budapest, ÃrpÃ¡d fejedelem Ãºtja 26Â­28.) vezÃ©rkÃ©pviselÅ‘vel, a tovÃ¡bbiakban viszonteladÃ³ a GERDA SD Kft.<ujsor/>
+Â­ SzÃ¡llÃ­tÃ¡si szerzÅ‘dÃ©s a Bauchemie Kft. Botament ÃœzletÃ¡g (1117 Budapest, Hengermalom u. 47/A) Â­ mint forgalmazÃ³val Â­, a tovÃ¡bbiakban szakkereskedÅ‘ a GERDA SD Kft.<ujsor/>
+Â­ SzerzÅ‘dÃ©s (szerzÅ‘dÃ©sszÃ¡m: 7009793/060101) a HOLCIM White Ltd. (Thurgauerstrasse 40., CH-8050 ZÃ¼rich Switzerland) Â­ mint szÃ¡llÃ­tÃ³val Â­, a tovÃ¡bbiakban kliens a GERDA SD Kft.<ujsor/>
+Â­ WIENERBERGER TÃ©glaipari Zrt. (1119 Budapest, BÃ¡rtfai u. 34.) Â­ mint gyÃ¡rtÃ³val Â­, a tovÃ¡bbiakban partner a GERDA SD Kft.<ujsor/>
+Â­ ViszonteladÃ³i szerzÅ‘dÃ©s az ALTEK TÃ©gla Ã©s CserÃ©pipari Kft. (MezÅ‘tÃºr, FÃ¶ldvÃ¡ri Ãºt 6.) Â­ mint gyÃ¡rtÃ³val Â­, a tovÃ¡bbiakban viszonteladÃ³ a GERDA SD Kft.<ujsor/>
+Â­ ForgalmazÃ¡si szerzÅ‘dÃ©s az AUSTROTHERM HÅ‘szigetelÅ‘anyag GyÃ¡rtÃ³ Kft. (9028 GyÅ‘r, FehÃ©rvÃ¡r u. 75.) mint gyÃ¡rtÃ³val Â­, a tovÃ¡bbiakban: forgalmazÃ³ a GERDA SD Kft.<ujsor/>
+FelhÃ­vjuk azokat a hitelezÅ‘ket, akiknek az Ã¡talakulÃ³ tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei az Ã¡talakulÃ¡srÃ³l hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig az Ã¡talakulÃ³ tÃ¡rsasÃ¡gtÃ³l a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ 30 napos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek. A hitelezÅ‘k a hirdetmÃ©nyi hatÃ¡ridÅ‘ alatt a BAUMESTER Kft. jelenlegi szÃ©khelyÃ©n (3516 Miskolc, Pesti Ãºt 3.) kaphatnak tÃ¡jÃ©koztatÃ¡st a kÃ¶vetelÃ©sÃ¼ket Ã©rintÅ‘ vagyonmegosztÃ¡si rendelkezÃ©sekrÅ‘l.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0509009624</mezo>
-<mezo id = "nev">BAUMESTER Kereskedelmi Korlátolt Felelõsségü Társasság</mezo>
+<mezo id = "nev">BAUMESTER Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÃ¼ TÃ¡rsassÃ¡g</mezo>
 <mezo id = "cim">3516 Miskolc</mezo>
 </alrovat>
 </rovat>

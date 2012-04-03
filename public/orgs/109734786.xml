@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">734786</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">1125 Budapest, Virányos út 4. A. ép. </mezo>
+<mezo id = "cim">1125 Budapest, VirÃ¡nyos Ãºt 4. A. Ã©p. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">13430548243</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20050203</mezo>
-<mezo id = "nev">C-Vision Vizuálkommunikációs Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">C-Vision VizuÃ¡lkommunikÃ¡ciÃ³s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -27,7 +27,7 @@
 <mezo id = "hattol">20101012</mezo>
 <mezo id = "irsz">1125</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Virányos út 4. A. ép.</mezo>
+<mezo id = "teru">VirÃ¡nyos Ãºt 4. A. Ã©p.</mezo>
 <mezo id = "valtk">20101012</mezo>
 <mezo id = "bkelt">20101125</mezo>
 </alrovat>
@@ -356,9 +356,9 @@
 <rovat id = "13">
 <alrovat id = "4">
 <mezo id = "hattol">20101012</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "pnev">Scsaurszki Rita</mezo>
-<mezo id = "panev">Kropielnicka Stefánia</mezo>
+<mezo id = "panev">Kropielnicka StefÃ¡nia</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20071107</mezo>
 <mezo id = "jogvv">20121107</mezo>
@@ -368,8 +368,8 @@
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20101012</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Csovelyák Mihály</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">CsovelyÃ¡k MihÃ¡ly</mezo>
 <mezo id = "panev">Pap Katalin</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20071107</mezo>
@@ -404,7 +404,7 @@
 <alrovat id = "3">
 <mezo id = "hattol">20071107</mezo>
 <mezo id = "pnev">Scsaurszki Rita</mezo>
-<mezo id = "panev">Kropielnicka Stefánia</mezo>
+<mezo id = "panev">Kropielnicka StefÃ¡nia</mezo>
 <mezo id = "pirsz">1085</mezo>
 <mezo id = "phely">Budapest, Csepreghy utca 2. 1/6.</mezo>
 <mezo id = "tagsk">20050110</mezo>
@@ -416,10 +416,10 @@
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20071107</mezo>
-<mezo id = "pnev">Czigány Gábor</mezo>
-<mezo id = "panev">Gáspár Katalin</mezo>
+<mezo id = "pnev">CzigÃ¡ny GÃ¡bor</mezo>
+<mezo id = "panev">GÃ¡spÃ¡r Katalin</mezo>
 <mezo id = "pirsz">1025</mezo>
-<mezo id = "phely">Budapest, Zöldkert u. 19.</mezo>
+<mezo id = "phely">Budapest, ZÃ¶ldkert u. 19.</mezo>
 <mezo id = "tagsk">20050110</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20071107</mezo>
@@ -429,10 +429,10 @@
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20071107</mezo>
-<mezo id = "pnev">Csovelyák Mihály</mezo>
+<mezo id = "pnev">CsovelyÃ¡k MihÃ¡ly</mezo>
 <mezo id = "panev">Pap Katalin</mezo>
 <mezo id = "pirsz">2161</mezo>
-<mezo id = "phely">Csomád, Napsugár u. 18.</mezo>
+<mezo id = "phely">CsomÃ¡d, NapsugÃ¡r u. 18.</mezo>
 <mezo id = "tagsk">20071107</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20071107</mezo>
@@ -450,16 +450,16 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2005. 02. 03-án hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2005. 02. 03-Ã¡n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
 03. C-VISION Kft.<ujsor/>
- Törölve: 2005. 02. 03-i hatállyal.<ujsor/>
+ TÃ¶rÃ¶lve: 2005. 02. 03-i hatÃ¡llyal.<ujsor/>
  C-Vision Kft.<ujsor/>
- Hatályos: 2005. 02. 03-tól.<ujsor/>
+ HatÃ¡lyos: 2005. 02. 03-tÃ³l.<ujsor/>
 Bejegyezve: 2005. 02. 23.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109734786</mezo>
-<mezo id = "nev">C-Vision Vizuálkommunikációs Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1037 Budapest, Bécsi út 250.</mezo>
+<mezo id = "nev">C-Vision VizuÃ¡lkommunikÃ¡ciÃ³s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1037 Budapest, BÃ©csi Ãºt 250.</mezo>
 <mezo id = "adosz">13430548241</mezo>
 </alrovat>
 </rovat>

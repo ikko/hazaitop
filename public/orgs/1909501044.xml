@@ -6,7 +6,7 @@
 <mezo id = "szam">501044</mezo>
 <mezo id = "nevalrovat">1</mezo>
 <mezo id = "allapot">6</mezo>
-<mezo id = "cim">8200 Veszprém, Kórház utca 1 </mezo>
+<mezo id = "cim">8200 VeszprÃ©m, KÃ³rhÃ¡z utca 1 </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">11326470119</mezo>
 </alrovat>
@@ -14,21 +14,21 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19921222</mezo>
-<mezo id = "nev">Medicína Egészségügyi Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">MedicÃ­na EgÃ©szsÃ©gÃ¼gyi Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">19921222</mezo>
-<mezo id = "nev">Medicína Kft.</mezo>
+<mezo id = "nev">MedicÃ­na Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
 <alrovat id = "3">
 <mezo id = "hattol">19981001</mezo>
 <mezo id = "irsz">8200</mezo>
-<mezo id = "hely">Veszprém</mezo>
-<mezo id = "teru">Kórház</mezo>
+<mezo id = "hely">VeszprÃ©m</mezo>
+<mezo id = "teru">KÃ³rhÃ¡z</mezo>
 <mezo id = "terj">utca</mezo>
 <mezo id = "hsz">1</mezo>
 </alrovat>
@@ -165,11 +165,11 @@
 <rovat id = "13">
 <alrovat id = "5">
 <mezo id = "hattol">20090522</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Erõs Imre</mezo>
-<mezo id = "panev">Kovács Matild</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">ErÅ‘s Imre</mezo>
+<mezo id = "panev">KovÃ¡cs Matild</mezo>
 <mezo id = "pirsz">8182</mezo>
-<mezo id = "phely">Peremartongyártelep</mezo>
+<mezo id = "phely">PeremartongyÃ¡rtelep</mezo>
 <mezo id = "pteru">Ibolya utca 11.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20090522</mezo>
@@ -199,48 +199,48 @@
 <rovat id = "0109">
 <alrovat id = "5">
 <mezo id = "hattol">19921222</mezo>
-<mezo id = "nev">Zirc Városi Erzsébet Kórház-Rendelõintézet</mezo>
+<mezo id = "nev">Zirc VÃ¡rosi ErzsÃ©bet KÃ³rhÃ¡z-RendelÅ‘intÃ©zet</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">8420</mezo>
-<mezo id = "hely">Zirc, József Attila u. 17.</mezo>
+<mezo id = "hely">Zirc, JÃ³zsef Attila u. 17.</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20000419</mezo>
-<mezo id = "nev">Állami Szívkórház Balatonfüred</mezo>
+<mezo id = "nev">Ãllami SzÃ­vkÃ³rhÃ¡z BalatonfÃ¼red</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">8230</mezo>
-<mezo id = "hely">Balatonfüred</mezo>
-<mezo id = "teru">Gyógy tér</mezo>
+<mezo id = "hely">BalatonfÃ¼red</mezo>
+<mezo id = "teru">GyÃ³gy tÃ©r</mezo>
 <mezo id = "hsz">2.</mezo>
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">20040526</mezo>
-<mezo id = "nev">Gróf Esterházy Kórház Rendelõintézet Szakrendelõ</mezo>
+<mezo id = "nev">GrÃ³f EsterhÃ¡zy KÃ³rhÃ¡z RendelÅ‘intÃ©zet SzakrendelÅ‘</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">8500</mezo>
-<mezo id = "hely">Pápa</mezo>
-<mezo id = "teru">Jókai u.</mezo>
+<mezo id = "hely">PÃ¡pa</mezo>
+<mezo id = "teru">JÃ³kai u.</mezo>
 <mezo id = "hsz">5-9.</mezo>
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">20090522</mezo>
 <mezo id = "cgjsz">1910500254</mezo>
-<mezo id = "nev">Veszprém Megyei Csolnoky Ferenc Kórház Nonprofit Zárkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">VeszprÃ©m Megyei Csolnoky Ferenc KÃ³rhÃ¡z Nonprofit ZÃ¡rkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">8200</mezo>
-<mezo id = "hely">Veszprém</mezo>
-<mezo id = "teru">Kórház utca 1.</mezo>
+<mezo id = "hely">VeszprÃ©m</mezo>
+<mezo id = "teru">KÃ³rhÃ¡z utca 1.</mezo>
 <mezo id = "tagsk">20090522</mezo>
 <mezo id = "valtk">20090522</mezo>
 <mezo id = "bkelt">20090707</mezo>
 </alrovat>
 <alrovat id = "11">
 <mezo id = "hattol">20090522</mezo>
-<mezo id = "nev">Várpalota Város Önkormányzata</mezo>
+<mezo id = "nev">VÃ¡rpalota VÃ¡ros Ã–nkormÃ¡nyzata</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">8100</mezo>
-<mezo id = "hely">Várpalota</mezo>
-<mezo id = "teru">Gárdonyi G utca 39.</mezo>
+<mezo id = "hely">VÃ¡rpalota</mezo>
+<mezo id = "teru">GÃ¡rdonyi G utca 39.</mezo>
 <mezo id = "tagsk">20090522</mezo>
 <mezo id = "valtk">20090522</mezo>
 <mezo id = "bkelt">20090707</mezo>
@@ -248,7 +248,7 @@
 <alrovat id = "12">
 <mezo id = "hattol">20090522</mezo>
 <mezo id = "cgjsz">1914500073</mezo>
-<mezo id = "nev">Dr.Deák Jenõ Kórház-Rendelõintézet és Gyógybarlang, Egészségügyi Szolgáltató Kiemelten Közhasznú Társaság &quot;végelszámolás alatt&quot;</mezo>
+<mezo id = "nev">Dr.DeÃ¡k JenÅ‘ KÃ³rhÃ¡z-RendelÅ‘intÃ©zet Ã©s GyÃ³gybarlang, EgÃ©szsÃ©gÃ¼gyi SzolgÃ¡ltatÃ³ Kiemelten KÃ¶zhasznÃº TÃ¡rsasÃ¡g &quot;vÃ©gelszÃ¡molÃ¡s alatt&quot;</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">8300</mezo>
 <mezo id = "hely">Tapolca</mezo>
@@ -267,30 +267,30 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Veszprém Megyei ,,Csolnoky Ferenc” Kórház-Rendelõintézet (8200 Veszprém, Kórház u. 1.) az 1997. évi CXLIV. törvény 292. § (1) bekezdésében foglalt kötelezettségének eleget téve bejelenti, hogy a Medicina Egészségügyi Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaságban (Cg.: [19 09 501044]; székhelye: 8200 Veszprém, Kórház u. 1.) a törvény 289. §-a szerinti jelentõs befolyást szerzett azzal, hogy jogutódlás folytán 2004. január 1-jével megszerezte a társaságnál a szavazatok 47,67%-át.<ujsor/>
+<mezo id = "szoveg">A VeszprÃ©m Megyei ,,Csolnoky Ferencâ€ KÃ³rhÃ¡z-RendelÅ‘intÃ©zet (8200 VeszprÃ©m, KÃ³rhÃ¡z u. 1.) az 1997. Ã©vi CXLIV. tÃ¶rvÃ©ny 292. Â§ (1) bekezdÃ©sÃ©ben foglalt kÃ¶telezettsÃ©gÃ©nek eleget tÃ©ve bejelenti, hogy a Medicina EgÃ©szsÃ©gÃ¼gyi Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gban (Cg.: [19 09 501044]; szÃ©khelye: 8200 VeszprÃ©m, KÃ³rhÃ¡z u. 1.) a tÃ¶rvÃ©ny 289. Â§-a szerinti jelentÅ‘s befolyÃ¡st szerzett azzal, hogy jogutÃ³dlÃ¡s folytÃ¡n 2004. januÃ¡r 1-jÃ©vel megszerezte a tÃ¡rsasÃ¡gnÃ¡l a szavazatok 47,67%-Ã¡t.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1909501044</mezo>
-<mezo id = "nev">Medicína Egészségügyi Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">8200 Veszprém, Kórház utca 1 </mezo>
+<mezo id = "nev">MedicÃ­na EgÃ©szsÃ©gÃ¼gyi Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">8200 VeszprÃ©m, KÃ³rhÃ¡z utca 1 </mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Veszprém Megyei Bíróság mint Cégbíróságnál Cg.19-09-501044 cégjegyzékszámon bejegyzett Medicína Egészségügyi Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság &quot;végelszámolás alatt&quot; (8200 Veszprém, Kórház utca 1.; adószáma: 11326470-1-19) ügyében a bíróság a cég megszünésére tekintettel elrendeli a cég cégjegyzékbõl való törlését.<ujsor/>
-26. A végelszámolás kezdete és befejezése<ujsor/>
-Befejezése: 2009.09.15.<ujsor/>
-Bejegyezve (végzés kelte): 2010. április 12.<ujsor/>
-A törlõ végzés ellen fellebbezésnek nincs helye. A végzés vagy az annak meghozatala alapjául szolgáló iratok jogszabályba ütközése miatt az ügyész, valamint az, akire a végzés rendelkezést tartalmaz - a rendelkezés õt érintõ részére vonatkozóan - pert indíthat a cég ellen a végzés hatályon kívül helyezése iránt a cég székhelye szerint illetékes megyei bíróság elõtt.<ujsor/>
-A cég törlését elrendelõ végzés ellen a pert a bíróság által kirendelt ügygondnok ellen kell megindítani.<ujsor/>
-A per megindításának a végzés Cégközlönyben való közzétételétõl számított 30 napon belül van helye. A határidõ elmulasztása jogvesztéssel jár.<ujsor/>
-A bíróság a kérelmezõnek megküldi a megszûnést kimondó záradékolt társasági szerzõdés (taggyûlési jegyzõkönyv stb.) 0 példányát.<ujsor/>
-A fenti adat(ok) bejegyzése és közzététele a következõ okirat(ok) alapján történt: a legfõbb szervnek a végelszámolás befejezésével kapcsolatos határozatai, ideértve a felügyelõbizottság (ellenõrzõ bizottság), illetve a cég könyvvizsgálójának jelentését is; az elfogadott zárójelentés, az utolsó üzleti év számviteli törvény szerinti beszámolója, a vagyonfelosztási határozat; az elfogadott zárójelentés, az utolsó üzleti év számviteli törvény szerinti beszámolója, a vagyonfelosztási határozat; az elfogadott zárójelentés, az utolsó üzleti év számviteli törvény szerinti beszámolója, a vagyonfelosztási határozat; az elfogadott zárójelentés, az utolsó üzleti év számviteli törvény szerinti beszámolója, a vagyonfelosztási határozat.<ujsor/>
-Az okirat(ok) a cég cégjegyzékét vezetõ cégbíróságon megtekinthetõk.<ujsor/>
-2010. április 12.<ujsor/>
+<mezo id = "szoveg">A VeszprÃ©m Megyei BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡gnÃ¡l Cg.19-09-501044 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett MedicÃ­na EgÃ©szsÃ©gÃ¼gyi Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g &quot;vÃ©gelszÃ¡molÃ¡s alatt&quot; (8200 VeszprÃ©m, KÃ³rhÃ¡z utca 1.; adÃ³szÃ¡ma: 11326470-1-19) Ã¼gyÃ©ben a bÃ­rÃ³sÃ¡g a cÃ©g megszÃ¼nÃ©sÃ©re tekintettel elrendeli a cÃ©g cÃ©gjegyzÃ©kbÅ‘l valÃ³ tÃ¶rlÃ©sÃ©t.<ujsor/>
+26. A vÃ©gelszÃ¡molÃ¡s kezdete Ã©s befejezÃ©se<ujsor/>
+BefejezÃ©se: 2009.09.15.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2010. Ã¡prilis 12.<ujsor/>
+A tÃ¶rlÅ‘ vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye. A vÃ©gzÃ©s vagy az annak meghozatala alapjÃ¡ul szolgÃ¡lÃ³ iratok jogszabÃ¡lyba Ã¼tkÃ¶zÃ©se miatt az Ã¼gyÃ©sz, valamint az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s Å‘t Ã©rintÅ‘ rÃ©szÃ©re vonatkozÃ³an - pert indÃ­that a cÃ©g ellen a vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt a cÃ©g szÃ©khelye szerint illetÃ©kes megyei bÃ­rÃ³sÃ¡g elÅ‘tt.<ujsor/>
+A cÃ©g tÃ¶rlÃ©sÃ©t elrendelÅ‘ vÃ©gzÃ©s ellen a pert a bÃ­rÃ³sÃ¡g Ã¡ltal kirendelt Ã¼gygondnok ellen kell megindÃ­tani.<ujsor/>
+A per megindÃ­tÃ¡sÃ¡nak a vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l van helye. A hatÃ¡ridÅ‘ elmulasztÃ¡sa jogvesztÃ©ssel jÃ¡r.<ujsor/>
+A bÃ­rÃ³sÃ¡g a kÃ©relmezÅ‘nek megkÃ¼ldi a megszÅ±nÃ©st kimondÃ³ zÃ¡radÃ©kolt tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s (taggyÅ±lÃ©si jegyzÅ‘kÃ¶nyv stb.) 0 pÃ©ldÃ¡nyÃ¡t.<ujsor/>
+A fenti adat(ok) bejegyzÃ©se Ã©s kÃ¶zzÃ©tÃ©tele a kÃ¶vetkezÅ‘ okirat(ok) alapjÃ¡n tÃ¶rtÃ©nt: a legfÅ‘bb szervnek a vÃ©gelszÃ¡molÃ¡s befejezÃ©sÃ©vel kapcsolatos hatÃ¡rozatai, ideÃ©rtve a felÃ¼gyelÅ‘bizottsÃ¡g (ellenÅ‘rzÅ‘ bizottsÃ¡g), illetve a cÃ©g kÃ¶nyvvizsgÃ¡lÃ³jÃ¡nak jelentÃ©sÃ©t is; az elfogadott zÃ¡rÃ³jelentÃ©s, az utolsÃ³ Ã¼zleti Ã©v szÃ¡mviteli tÃ¶rvÃ©ny szerinti beszÃ¡molÃ³ja, a vagyonfelosztÃ¡si hatÃ¡rozat; az elfogadott zÃ¡rÃ³jelentÃ©s, az utolsÃ³ Ã¼zleti Ã©v szÃ¡mviteli tÃ¶rvÃ©ny szerinti beszÃ¡molÃ³ja, a vagyonfelosztÃ¡si hatÃ¡rozat; az elfogadott zÃ¡rÃ³jelentÃ©s, az utolsÃ³ Ã¼zleti Ã©v szÃ¡mviteli tÃ¶rvÃ©ny szerinti beszÃ¡molÃ³ja, a vagyonfelosztÃ¡si hatÃ¡rozat; az elfogadott zÃ¡rÃ³jelentÃ©s, az utolsÃ³ Ã¼zleti Ã©v szÃ¡mviteli tÃ¶rvÃ©ny szerinti beszÃ¡molÃ³ja, a vagyonfelosztÃ¡si hatÃ¡rozat.<ujsor/>
+Az okirat(ok) a cÃ©g cÃ©gjegyzÃ©kÃ©t vezetÅ‘ cÃ©gbÃ­rÃ³sÃ¡gon megtekinthetÅ‘k.<ujsor/>
+2010. Ã¡prilis 12.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1909501044</mezo>
-<mezo id = "nev">Medicína Egészségügyi Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság &apos;végelszámolás alatt&apos;</mezo>
-<mezo id = "cim">8200 Veszprém, Kórház utca 1.</mezo>
+<mezo id = "nev">MedicÃ­na EgÃ©szsÃ©gÃ¼gyi Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g &apos;vÃ©gelszÃ¡molÃ¡s alatt&apos;</mezo>
+<mezo id = "cim">8200 VeszprÃ©m, KÃ³rhÃ¡z utca 1.</mezo>
 <mezo id = "adosz">11326470119</mezo>
 </alrovat>
 </rovat>

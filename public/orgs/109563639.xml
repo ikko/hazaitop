@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">563639</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">1097 Budapest, Vaskapu u. 10-04. C. ép. I. em. 110. </mezo>
+<mezo id = "cim">1097 Budapest, Vaskapu u. 10-04. C. Ã©p. I. em. 110. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">12193448243</mezo>
 </alrovat>
@@ -13,13 +13,13 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19961028</mezo>
-<mezo id = "nev">BÁNÁTI + HARTVIG Építész Iroda Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">BÃNÃTI + HARTVIG Ã‰pÃ­tÃ©sz Iroda KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">19961028</mezo>
-<mezo id = "nev">BÁNÁTI + HARTVIG Kft.</mezo>
+<mezo id = "nev">BÃNÃTI + HARTVIG Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
@@ -27,7 +27,7 @@
 <mezo id = "hattol">20080901</mezo>
 <mezo id = "irsz">1097</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Vaskapu u. 10-04. C. ép. I. em. 110.</mezo>
+<mezo id = "teru">Vaskapu u. 10-04. C. Ã©p. I. em. 110.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">20080901</mezo>
 <mezo id = "valtv">0</mezo>
@@ -39,7 +39,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">19961028</mezo>
 <mezo id = "irsz">1141</mezo>
-<mezo id = "hely">Budapest, Bazsarózsa u. 40.</mezo>
+<mezo id = "hely">Budapest, BazsarÃ³zsa u. 40.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "8">
@@ -377,10 +377,10 @@
 <rovat id = "13">
 <alrovat id = "6">
 <mezo id = "hattol">20080625</mezo>
-<mezo id = "pnev">Bánáti Béla</mezo>
+<mezo id = "pnev">BÃ¡nÃ¡ti BÃ©la</mezo>
 <mezo id = "panev">Belovai Ilona</mezo>
 <mezo id = "pirsz">1215</mezo>
-<mezo id = "phely">Budapest, Katona József utca 22.</mezo>
+<mezo id = "phely">Budapest, Katona JÃ³zsef utca 22.</mezo>
 <mezo id = "kepvo">X</mezo>
 <mezo id = "tv">d</mezo>
 <mezo id = "jogvk">20080625</mezo>
@@ -408,16 +408,16 @@
 <alrovat id = "1">
 <mezo id = "hattol">20060531</mezo>
 <mezo id = "cgjsz">109696132</mezo>
-<mezo id = "nev">Ferencz és Partner Audit Könyvvizsgáló Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Ferencz Ã©s Partner Audit KÃ¶nyvvizsgÃ¡lÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1022</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Hermann Ottó u</mezo>
+<mezo id = "teru">Hermann OttÃ³ u</mezo>
 <mezo id = "hsz">33. 1 .em. 3.</mezo>
-<mezo id = "pnev">Ferencz Gyöngyi</mezo>
+<mezo id = "pnev">Ferencz GyÃ¶ngyi</mezo>
 <mezo id = "panev">Ulicznik Margit</mezo>
 <mezo id = "pirsz">1148</mezo>
-<mezo id = "phely">Budapest, Bolgárkertész u. 15/e. IV/1.</mezo>
+<mezo id = "phely">Budapest, BolgÃ¡rkertÃ©sz u. 15/e. IV/1.</mezo>
 <mezo id = "jogvk">20060531</mezo>
 <mezo id = "jogvv">20110531</mezo>
 <mezo id = "valtk">0</mezo>
@@ -461,10 +461,10 @@
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20060531</mezo>
-<mezo id = "pnev">Bánáti Béla</mezo>
+<mezo id = "pnev">BÃ¡nÃ¡ti BÃ©la</mezo>
 <mezo id = "panev">Belovai Ilona</mezo>
 <mezo id = "pirsz">1215</mezo>
-<mezo id = "phely">Budapest, Katona József utca 22.</mezo>
+<mezo id = "phely">Budapest, Katona JÃ³zsef utca 22.</mezo>
 <mezo id = "tagsk">0</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">0</mezo>
@@ -480,33 +480,33 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2008. 09. 22-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-05. 1097 Budapest, Vaskapu u. 10-04. C. ép. I. em. 110.<ujsor/>
- A változás idõpontja: 2008. 09. 01.<ujsor/>
- A változás idõpontja (törlés): 2007. 09. 01.<ujsor/>
- Törölve: 2007. 09. 01.<ujsor/>
- 1097 Budapest, Vaskapu u. 10-14. C. ép. I. em. 110.<ujsor/>
- A változás idõpontja: 2008. 09. 01.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2008. 09. 22-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+05. 1097 Budapest, Vaskapu u. 10-04. C. Ã©p. I. em. 110.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 09. 01.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2007. 09. 01.<ujsor/>
+ TÃ¶rÃ¶lve: 2007. 09. 01.<ujsor/>
+ 1097 Budapest, Vaskapu u. 10-14. C. Ã©p. I. em. 110.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 09. 01.<ujsor/>
  Bejegyezve: 2008. 09. 01.<ujsor/>
 2008. 10. 18.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109563639</mezo>
-<mezo id = "nev">BÁNÁTI + HARTVIG Építész Iroda Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1097 Budapest, Vaskapu u. 10-14. C. ép. I. em. 110.</mezo>
+<mezo id = "nev">BÃNÃTI + HARTVIG Ã‰pÃ­tÃ©sz Iroda KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1097 Budapest, Vaskapu u. 10-14. C. Ã©p. I. em. 110.</mezo>
 <mezo id = "adosz">12193448243</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 1997. 06. 05-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-06. 1141 Budapest, Bazsarózsa u. 40.<ujsor/>
- A változás idõpontja (törlés): 1996. 10. 28.<ujsor/>
- Törölve: 1996. 10. 28.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 1997. 06. 05-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+06. 1141 Budapest, BazsarÃ³zsa u. 40.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 1996. 10. 28.<ujsor/>
+ TÃ¶rÃ¶lve: 1996. 10. 28.<ujsor/>
 2009. 05. 18.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109563639</mezo>
-<mezo id = "nev">BÁNÁTI + HARTVIG Építész Iroda Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1097 Budapest, Vaskapu u. 10-14. C. ép. I. em. 110.</mezo>
+<mezo id = "nev">BÃNÃTI + HARTVIG Ã‰pÃ­tÃ©sz Iroda KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1097 Budapest, Vaskapu u. 10-14. C. Ã©p. I. em. 110.</mezo>
 <mezo id = "adosz">12193448243</mezo>
 </alrovat>
 </rovat>

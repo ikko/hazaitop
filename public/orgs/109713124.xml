@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">713124</mezo>
 <mezo id = "nevalrovat">2</mezo>
-<mezo id = "cim">1023 Budapest, Gülbaba u. 2. </mezo>
+<mezo id = "cim">1023 Budapest, GÃ¼lbaba u. 2. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">12981900241</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20030515</mezo>
-<mezo id = "nev">TETT-Consult Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">TETT-Consult SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -27,7 +27,7 @@
 <mezo id = "hattol">20030515</mezo>
 <mezo id = "irsz">1023</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Gülbaba u. 2.</mezo>
+<mezo id = "teru">GÃ¼lbaba u. 2.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "6">
@@ -35,7 +35,7 @@
 <mezo id = "hattol">20100328</mezo>
 <mezo id = "irsz">1023</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Gülbaba u. 7.</mezo>
+<mezo id = "teru">GÃ¼lbaba u. 7.</mezo>
 <mezo id = "valtk">20100328</mezo>
 <mezo id = "bkelt">20100421</mezo>
 </alrovat>
@@ -807,7 +807,7 @@
 <mezo id = "hattol">20100328</mezo>
 <mezo id = "valtk">20100328</mezo>
 <mezo id = "bkelt">20100421</mezo>
-<mezo id = "teaszov">Üzletviteli, egyéb vezetési tanácsadás</mezo>
+<mezo id = "teaszov">Ãœzletviteli, egyÃ©b vezetÃ©si tanÃ¡csadÃ¡s</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -822,9 +822,9 @@
 <rovat id = "13">
 <alrovat id = "6">
 <mezo id = "hattol">20100328</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Letenyei László</mezo>
-<mezo id = "panev">Simon Mária Krisztina</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Letenyei LÃ¡szlÃ³</mezo>
+<mezo id = "panev">Simon MÃ¡ria Krisztina</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100328</mezo>
 <mezo id = "valtk">20100328</mezo>
@@ -833,9 +833,9 @@
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">20100328</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Berczeli Péter</mezo>
-<mezo id = "panev">Ormándy Julianna</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Berczeli PÃ©ter</mezo>
+<mezo id = "panev">OrmÃ¡ndy Julianna</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20071128</mezo>
 <mezo id = "valtk">20100328</mezo>
@@ -871,17 +871,17 @@
 <alrovat id = "1">
 <mezo id = "hattol">20030515</mezo>
 <mezo id = "k">x</mezo>
-<mezo id = "pnev">Letenyei László</mezo>
-<mezo id = "panev">Simon Mária Krisztina</mezo>
+<mezo id = "pnev">Letenyei LÃ¡szlÃ³</mezo>
+<mezo id = "panev">Simon MÃ¡ria Krisztina</mezo>
 <mezo id = "pirsz">1076</mezo>
 <mezo id = "phely">Budapest, Szinva u. 4.</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20071128</mezo>
-<mezo id = "pnev">Berceli László</mezo>
-<mezo id = "panev">Ormándy Julianna</mezo>
+<mezo id = "pnev">Berceli LÃ¡szlÃ³</mezo>
+<mezo id = "panev">OrmÃ¡ndy Julianna</mezo>
 <mezo id = "pirsz">2627</mezo>
-<mezo id = "phely">Zebegény, Kós K. u. 5.</mezo>
+<mezo id = "phely">ZebegÃ©ny, KÃ³s K. u. 5.</mezo>
 <mezo id = "tagsk">20071128</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20071128</mezo>
@@ -899,82 +899,82 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2003. 05. 15-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-02. TETT-Consult Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság<ujsor/>
- Törölve: 2003. 05. 15-i hatállyal.<ujsor/>
- TETT Consult Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság<ujsor/>
- Hatályos: 2003. 05. 15-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2003. 05. 15-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+02. TETT-Consult SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g<ujsor/>
+ TÃ¶rÃ¶lve: 2003. 05. 15-i hatÃ¡llyal.<ujsor/>
+ TETT Consult SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g<ujsor/>
+ HatÃ¡lyos: 2003. 05. 15-tÅ‘l.<ujsor/>
 03. TETT-Consult Kft.<ujsor/>
- Törölve: 2003. 05. 15-i hatállyal.<ujsor/>
+ TÃ¶rÃ¶lve: 2003. 05. 15-i hatÃ¡llyal.<ujsor/>
  TETT Consult Kft.<ujsor/>
- Hatályos: 2003. 05. 15-tõl.<ujsor/>
+ HatÃ¡lyos: 2003. 05. 15-tÅ‘l.<ujsor/>
 Bejegyezve: 2003. 06. 24.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109713124</mezo>
-<mezo id = "nev">TETT Consult Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1023 Budapest, Gülbaba u. 2.</mezo>
+<mezo id = "nev">TETT Consult SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1023 Budapest, GÃ¼lbaba u. 2.</mezo>
 <mezo id = "adosz">12981900241</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2008. 01. 04-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-1(09). Berceli László (an: Ormándy Julianna)<ujsor/>
-2627 Zebegény , Kós K. u. 5.<ujsor/>
- A tagság kezdete: 2007. 11. 28.<ujsor/>
- A változás idõpontja: 2007. 11. 28.<ujsor/>
- A változás idõpontja (törlés): 2007. 11. 28.<ujsor/>
- Törölve: 2008. 03. 03.<ujsor/>
- Berczeli László (an: Ormándy Julianna)<ujsor/>
-2627 Zebegény , Kós K. utca 5.<ujsor/>
- A tagság kezdete: 2007. 11. 28.<ujsor/>
- A változás idõpontja: 2007. 11. 28.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2008. 01. 04-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+1(09). Berceli LÃ¡szlÃ³ (an: OrmÃ¡ndy Julianna)<ujsor/>
+2627 ZebegÃ©ny , KÃ³s K. u. 5.<ujsor/>
+ A tagsÃ¡g kezdete: 2007. 11. 28.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2007. 11. 28.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2007. 11. 28.<ujsor/>
+ TÃ¶rÃ¶lve: 2008. 03. 03.<ujsor/>
+ Berczeli LÃ¡szlÃ³ (an: OrmÃ¡ndy Julianna)<ujsor/>
+2627 ZebegÃ©ny , KÃ³s K. utca 5.<ujsor/>
+ A tagsÃ¡g kezdete: 2007. 11. 28.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2007. 11. 28.<ujsor/>
  Bejegyezve: 2008. 03. 03.<ujsor/>
 2008. 03. 03.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109713124</mezo>
-<mezo id = "nev">TETT Consult Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1023 Budapest, Gülbaba u. 2.</mezo>
+<mezo id = "nev">TETT Consult SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1023 Budapest, GÃ¼lbaba u. 2.</mezo>
 <mezo id = "adosz">12981900241</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2008. 03. 03-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-1(09). Berczeli László (an: Ormándy Julianna)<ujsor/>
-2627 Zebegény , Kós K. utca 5.<ujsor/>
- A tagság kezdete: 2007. 11. 28.<ujsor/>
- A változás idõpontja: 2007. 11. 28.<ujsor/>
- A változás idõpontja (törlés): 2007. 11. 28.<ujsor/>
- Törölve: 2007. 11. 28.<ujsor/>
- Berczeli Péter (an: Ormándy Julianna)<ujsor/>
-2627 Zebegény , Kós K. utca 5.<ujsor/>
- A tagság kezdete: 2007. 11. 28.<ujsor/>
- A változás idõpontja: 2007. 11. 28.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2008. 03. 03-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+1(09). Berczeli LÃ¡szlÃ³ (an: OrmÃ¡ndy Julianna)<ujsor/>
+2627 ZebegÃ©ny , KÃ³s K. utca 5.<ujsor/>
+ A tagsÃ¡g kezdete: 2007. 11. 28.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2007. 11. 28.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2007. 11. 28.<ujsor/>
+ TÃ¶rÃ¶lve: 2007. 11. 28.<ujsor/>
+ Berczeli PÃ©ter (an: OrmÃ¡ndy Julianna)<ujsor/>
+2627 ZebegÃ©ny , KÃ³s K. utca 5.<ujsor/>
+ A tagsÃ¡g kezdete: 2007. 11. 28.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2007. 11. 28.<ujsor/>
  Bejegyezve: 2007. 11. 28.<ujsor/>
 2008. 03. 18.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109713124</mezo>
-<mezo id = "nev">TETT Consult Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1023 Budapest, Gülbaba u. 2.</mezo>
+<mezo id = "nev">TETT Consult SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1023 Budapest, GÃ¼lbaba u. 2.</mezo>
 <mezo id = "adosz">12981900241</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2008. 03. 18-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (ügyvezetõ).<ujsor/>
- Berczeli Péter (an: Ormándy Julianna)<ujsor/>
-2627 Zebegény, Kós Károly u. 5.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2008. 03. 18-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘).<ujsor/>
+ Berczeli PÃ©ter (an: OrmÃ¡ndy Julianna)<ujsor/>
+2627 ZebegÃ©ny, KÃ³s KÃ¡roly u. 5.<ujsor/>
  A jogviszony kezdete: 2007. 11. 28.<ujsor/>
- A változás idõpontja: 2007. 11. 28.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2007. 11. 28.<ujsor/>
  Bejegyezve: 2007. 11. 28.<ujsor/>
 2009. 03. 27.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109713124</mezo>
-<mezo id = "nev">TETT Consult Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1023 Budapest, Gülbaba u. 2.</mezo>
+<mezo id = "nev">TETT Consult SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1023 Budapest, GÃ¼lbaba u. 2.</mezo>
 <mezo id = "adosz">12981900241</mezo>
 </alrovat>
 </rovat>

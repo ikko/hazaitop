@@ -7,14 +7,14 @@
 <mezo id = "nevalrovat">1</mezo>
 <mezo id = "regi_szh">2009060726</mezo>
 <mezo id = "allapot">2</mezo>
-<mezo id = "cim">9700 Szombathely, Szent Flórián krt. 2. </mezo>
+<mezo id = "cim">9700 Szombathely, Szent FlÃ³riÃ¡n krt. 2. </mezo>
 <mezo id = "adosz">10621693218</mezo>
 </alrovat>
 </rovat>
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19911017</mezo>
-<mezo id = "nev">FOOD AND PACK Termelési, Kereskedelmi és Mûszaki Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">FOOD AND PACK TermelÃ©si, Kereskedelmi Ã©s MÅ±szaki TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -28,7 +28,7 @@
 <mezo id = "hattol">20060508</mezo>
 <mezo id = "irsz">9700</mezo>
 <mezo id = "hely">Szombathely</mezo>
-<mezo id = "teru">Szent Flórián krt. 2.</mezo>
+<mezo id = "teru">Szent FlÃ³riÃ¡n krt. 2.</mezo>
 <mezo id = "kirsz">0</mezo>
 </alrovat>
 </rovat>
@@ -36,7 +36,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20060508</mezo>
 <mezo id = "irsz">8900</mezo>
-<mezo id = "hely">Zalaegerszeg, Kosztolányi u. 12-14.</mezo>
+<mezo id = "hely">Zalaegerszeg, KosztolÃ¡nyi u. 12-14.</mezo>
 <mezo id = "orsz">HU</mezo>
 </alrovat>
 <alrovat id = "2">
@@ -195,7 +195,7 @@
 <alrovat id = "7">
 <mezo id = "hattol">20041001</mezo>
 <mezo id = "pnev">Varga Ilona</mezo>
-<mezo id = "panev">Horváth Ilona</mezo>
+<mezo id = "panev">HorvÃ¡th Ilona</mezo>
 <mezo id = "pirsz">8900</mezo>
 <mezo id = "phely">Zalaegerszeg, Ola u. 12/B/3.</mezo>
 <mezo id = "kepvo">x</mezo>
@@ -221,31 +221,31 @@
 <rovat id = "0109">
 <alrovat id = "14">
 <mezo id = "hattol">19951012</mezo>
-<mezo id = "nev">Karlóczy Ferenc</mezo>
+<mezo id = "nev">KarlÃ³czy Ferenc</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">8900</mezo>
-<mezo id = "hely">Zalaegerszeg, Táncsics u. 4/a.</mezo>
+<mezo id = "hely">Zalaegerszeg, TÃ¡ncsics u. 4/a.</mezo>
 </alrovat>
 <alrovat id = "22">
 <mezo id = "hattol">20041001</mezo>
-<mezo id = "pnev">Dr. Incze Kálmánné</mezo>
+<mezo id = "pnev">Dr. Incze KÃ¡lmÃ¡nnÃ©</mezo>
 <mezo id = "panev">Teleki Ida</mezo>
 <mezo id = "pirsz">1125</mezo>
-<mezo id = "phely">Budapest, Rézsû u. 125.</mezo>
+<mezo id = "phely">Budapest, RÃ©zsÅ± u. 125.</mezo>
 </alrovat>
 <alrovat id = "23">
 <mezo id = "hattol">20041001</mezo>
-<mezo id = "pnev">Szent-Iványi Kristóf</mezo>
-<mezo id = "panev">Széll Mária</mezo>
+<mezo id = "pnev">Szent-IvÃ¡nyi KristÃ³f</mezo>
+<mezo id = "panev">SzÃ©ll MÃ¡ria</mezo>
 <mezo id = "pirsz">2040</mezo>
-<mezo id = "phely">Budaörs, Fátyol u. 3.</mezo>
+<mezo id = "phely">BudaÃ¶rs, FÃ¡tyol u. 3.</mezo>
 </alrovat>
 <alrovat id = "24">
 <mezo id = "hattol">20060220</mezo>
 <mezo id = "pnev">Fal Imre</mezo>
-<mezo id = "panev">Lõrincz Jolán</mezo>
+<mezo id = "panev">LÅ‘rincz JolÃ¡n</mezo>
 <mezo id = "pirsz">8900</mezo>
-<mezo id = "phely">Zalaegerszeg, Batthyány u. 3-7. I/2.</mezo>
+<mezo id = "phely">Zalaegerszeg, BatthyÃ¡ny u. 3-7. I/2.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "93">
@@ -257,437 +257,437 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Vas Megyei Bíróság<ujsor/>
-5.Fpk.18-06-000082/6. sz. határozata (2006. június 7.)<ujsor/>
-felszámolási eljárás megindításának közzétételérõl<ujsor/>
-A bíróság elrendeli annak a Cégközlönyben való közzétételét, hogy a(z) 2006. június 7. napján jogerõre emelkedett végzésével<ujsor/>
+<mezo id = "szoveg">A Vas Megyei BÃ­rÃ³sÃ¡g<ujsor/>
+5.Fpk.18-06-000082/6. sz. hatÃ¡rozata (2006. jÃºnius 7.)<ujsor/>
+felszÃ¡molÃ¡si eljÃ¡rÃ¡s megindÃ­tÃ¡sÃ¡nak kÃ¶zzÃ©tÃ©telÃ©rÅ‘l<ujsor/>
+A bÃ­rÃ³sÃ¡g elrendeli annak a CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©t, hogy a(z) 2006. jÃºnius 7. napjÃ¡n jogerÅ‘re emelkedett vÃ©gzÃ©sÃ©vel<ujsor/>
 a(z)<ujsor/>
-FOOD AND PACK Termelési, Kereskedelmi és Mûszaki Tanácsadó Korlátolt Felelõsségû Társaság<ujsor/>
-(9700 Szombathely, Szent Flórián krt. 2.; cégjegyzékszáma: 18 09 106800; adószáma: 10621693-2-18)<ujsor/>
-adós fizetésképtelenségét megállapította és a felszámolását elrendelte.<ujsor/>
-Elõzõ székhelyei(i):<ujsor/>
-8900 Zalaegerszeg, Kosztolányi u. 12-14.<ujsor/>
-A bíróság által kijelölt felszámoló:<ujsor/>
-HELP Kereskedelmi, Szolgáltató és Tanácsadó Kft.,<ujsor/>
+FOOD AND PACK TermelÃ©si, Kereskedelmi Ã©s MÅ±szaki TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g<ujsor/>
+(9700 Szombathely, Szent FlÃ³riÃ¡n krt. 2.; cÃ©gjegyzÃ©kszÃ¡ma: 18 09 106800; adÃ³szÃ¡ma: 10621693-2-18)<ujsor/>
+adÃ³s fizetÃ©skÃ©ptelensÃ©gÃ©t megÃ¡llapÃ­totta Ã©s a felszÃ¡molÃ¡sÃ¡t elrendelte.<ujsor/>
+ElÅ‘zÅ‘ szÃ©khelyei(i):<ujsor/>
+8900 Zalaegerszeg, KosztolÃ¡nyi u. 12-14.<ujsor/>
+A bÃ­rÃ³sÃ¡g Ã¡ltal kijelÃ¶lt felszÃ¡molÃ³:<ujsor/>
+HELP Kereskedelmi, SzolgÃ¡ltatÃ³ Ã©s TanÃ¡csadÃ³ Kft.,<ujsor/>
 9700 Szombathely, Kiskar u. 1.<ujsor/>
-cégjegyzékszáma: 18 09 000505.<ujsor/>
-A felszámolóbiztos(ok):<ujsor/>
-dr. Szabó Ernõ (an: Düh Anna) 8900 Zalaegerszeg, Békeligeti u. 1.<ujsor/>
-A felszámolási eljárás megindítására irányuló kérelem benyújtásának<ujsor/>
-idõpontja:<ujsor/>
-2006. május 24.<ujsor/>
-A felszámolás kezdõ idõpontja: 2006. június 7.<ujsor/>
-A Vas Megyei Bíróság Gazdasági Hivatalánál kezelt elkülönített<ujsor/>
-számla száma:<ujsor/>
+cÃ©gjegyzÃ©kszÃ¡ma: 18 09 000505.<ujsor/>
+A felszÃ¡molÃ³biztos(ok):<ujsor/>
+dr. SzabÃ³ ErnÅ‘ (an: DÃ¼h Anna) 8900 Zalaegerszeg, BÃ©keligeti u. 1.<ujsor/>
+A felszÃ¡molÃ¡si eljÃ¡rÃ¡s megindÃ­tÃ¡sÃ¡ra irÃ¡nyulÃ³ kÃ©relem benyÃºjtÃ¡sÃ¡nak<ujsor/>
+idÅ‘pontja:<ujsor/>
+2006. mÃ¡jus 24.<ujsor/>
+A felszÃ¡molÃ¡s kezdÅ‘ idÅ‘pontja: 2006. jÃºnius 7.<ujsor/>
+A Vas Megyei BÃ­rÃ³sÃ¡g GazdasÃ¡gi HivatalÃ¡nÃ¡l kezelt elkÃ¼lÃ¶nÃ­tett<ujsor/>
+szÃ¡mla szÃ¡ma:<ujsor/>
 10047004-01483185-24000004.<ujsor/>
-Mindazok, akik az adóssal szemben fennálló követeléseiket a felszámolás során<ujsor/>
-hitelezõként érvényesíteni kívánják, ismert követeléseiket e végzés<ujsor/>
-közzétételétõl számított 40 napon belül jelentsék be a felszámolónak.<ujsor/>
-A felszámoló - a módosított 1991. évi IL. tv. 57. § (1) bekezdés a) és c)<ujsor/>
-pontjában meghatározott követelések kivételével - csak azt a bejelentést veszi<ujsor/>
-nyilvántartásba, amely után az igénybejelentõ a követelés 1 %-át, de legalább<ujsor/>
-1.000 Ft-ot, legfeljebb 100.000 Ft-ot az e végzésben megjelölt számlára -<ujsor/>
-a bírósági ügyszámra (határozat számra) hivatkozással<ujsor/>
-- 40 napon belül befizetett és ezt a felszámoló részére<ujsor/>
+Mindazok, akik az adÃ³ssal szemben fennÃ¡llÃ³ kÃ¶vetelÃ©seiket a felszÃ¡molÃ¡s sorÃ¡n<ujsor/>
+hitelezÅ‘kÃ©nt Ã©rvÃ©nyesÃ­teni kÃ­vÃ¡njÃ¡k, ismert kÃ¶vetelÃ©seiket e vÃ©gzÃ©s<ujsor/>
+kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott 40 napon belÃ¼l jelentsÃ©k be a felszÃ¡molÃ³nak.<ujsor/>
+A felszÃ¡molÃ³ - a mÃ³dosÃ­tott 1991. Ã©vi IL. tv. 57. Â§ (1) bekezdÃ©s a) Ã©s c)<ujsor/>
+pontjÃ¡ban meghatÃ¡rozott kÃ¶vetelÃ©sek kivÃ©telÃ©vel - csak azt a bejelentÃ©st veszi<ujsor/>
+nyilvÃ¡ntartÃ¡sba, amely utÃ¡n az igÃ©nybejelentÅ‘ a kÃ¶vetelÃ©s 1 %-Ã¡t, de legalÃ¡bb<ujsor/>
+1.000 Ft-ot, legfeljebb 100.000 Ft-ot az e vÃ©gzÃ©sben megjelÃ¶lt szÃ¡mlÃ¡ra -<ujsor/>
+a bÃ­rÃ³sÃ¡gi Ã¼gyszÃ¡mra (hatÃ¡rozat szÃ¡mra) hivatkozÃ¡ssal<ujsor/>
+- 40 napon belÃ¼l befizetett Ã©s ezt a felszÃ¡molÃ³ rÃ©szÃ©re<ujsor/>
 igazolta.<ujsor/>
-A közzététel idõpontja: 2006. június 29.<ujsor/>
+A kÃ¶zzÃ©tÃ©tel idÅ‘pontja: 2006. jÃºnius 29.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1809106800</mezo>
-<mezo id = "nev">FOOD AND PACK Termelési, Kereskedelmi és Mûszaki Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">9700 Szombathely, Szent Flórián krt. 2.</mezo>
+<mezo id = "nev">FOOD AND PACK TermelÃ©si, Kereskedelmi Ã©s MÅ±szaki TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">9700 Szombathely, Szent FlÃ³riÃ¡n krt. 2.</mezo>
 <mezo id = "adosz">10621693218</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A HELP Kereskedelmi Szolgáltató és Tanácsadó Kft. (cégjegyzékszáma: [18 09 000505]; 9700 Szombathely, Kiskar u. 1.) mint a FOOD AND PACK Termelési, Kereskedelmi és Mûszaki Tanácsadó Kft. „f. a.” (Cg.: [18 09 106800]; 9700 Szombathely, Szent Flórián krt. 2.; adószáma: [10621693-2-18]) a Vas Megyei Bíróság 5. Fpk. 18-06-000082/4. számú végzésével kijelölt felszámolója<ujsor/>
-nyilvános pályázat<ujsor/>
-útján értékesíteni kívánja a felszámolás alatt álló társaság tulajdonát képezõ, a felszámolónál lévõ listában szereplõ ingóságokat (élelmiszer-ipari csomagoló és adalékanyagok stb.).<ujsor/>
-Irányár: 2 600 000 Ft + áfa (kettõmillió-hatszázezer forint + áfa). Bánatpénz: 300 000 Ft (háromszázezer forint).<ujsor/>
-A pályázatnak tartalmaznia kell a pályázó nevét, pontos címét, a beígért vételárat (nettó ár Ft + áfa). A pályázathoz mellékelni kell, ha a pályázó vállalkozó, a vállalkozói igazolvány másolatát, gazdasági társaságnál a cégkivonatot, illetve másolatát, minden esetben a pályázó adószámát, statisztikai és pénzforgalmi jelzõszámát, valamint a bánatpénz befizetését (átutalását) bizonyító banki igazolást.<ujsor/>
-A pályázatban való részvétel feltétele a bánatpénz befizetése, legkésõbb a pályázat benyújtásának idõpontjáig a felszámoló által az érdeklõdõknek megadott bankszámlára.<ujsor/>
-A vételárba a hitelezõi követelések beszámítására nincs lehetõség, ezt a felszámoló kizárja.<ujsor/>
-Az értékesítésre kerülõ vagyontárgyakért, illetve azoknak egyes részeiért a felszámoló kellékszavatosságot nem vállal, azokat a pályázó megtekintett és megvizsgált állapotban veszi meg azzal, hogy a tulajdonjog változásával kapcsolatos valamennyi költség a pályázót (a vevõt) terheli.<ujsor/>
-A teljes vételár kiegyenlítése az egyes adásvételi szerzõdések létrejöttének és a birtokbalépésnek is elõfeltétele.<ujsor/>
-Pályázatokat legkésõbb ­ az ajánlott vételár és fizetési mód megjelölésével ­ a Cégkölönyben való megjelenéstõl számított 15. napon, délelõtt 10 óráig kérjük írásban, személyesen vagy postai úton benyújtani a felszámoló irodájába: 9700 Szombathely, Kiskar u. 1. szám (postacím: HELP Kft. 9700 Szombathely, Pf. 67), vagy a zalaegerszegi irodájába: 8900 Zalaegerszeg, Békeligeti u. 1. (postacíme: HELP Kft., 8901 Zalaegerszeg, Pf. 19).<ujsor/>
-A zárt borítékra kérjük ráírni: „FOOD AND PACK Kft. f. a. pályázat”.<ujsor/>
-A pályázatok bontása és elbírálása a benyújtási határidõ lejárta után számított 20 munkanapon belül megtörténik.<ujsor/>
-A felszámoló értesíti az elõvásárlásra jogosultakat, hogy elõvásárlási jogukat ezen nyilvános pályázaton (nyilvános értékesítésen) gyakorolhatják. Az elõvásárlási jog gyakorlása érdekében a felszámoló felhívja az érdekeltek figyelmét arra, hogy a jog gyakorlására irányuló szándékukat a pályázatok benyújtási határidejéig írásban bejelenteni szíveskedjenek.<ujsor/>
-A felszámoló a pályázatot megfelelõ ajánlat hiányában eredménytelennek nyilváníthatja, és új pályázatot írhat ki. Megfelelõ, azonos értékû pályázatok esetén az ajánlattevõk között nyilvános ártárgyalás megtartására kerül sor, melynek feltételeit az ártárgyalás megkezdését megelõzõen a résztvevõkkel a felszámolóbiztos ismerteti.<ujsor/>
-Bõvebb felvilágosítás kapható dr. Szabó Ernõ felszámolóbiztostól, a 06 (92) 510-466, 06 (92) 321-236-os telefonszámokon. [Telefax: 06 (92) 510-426].<ujsor/>
+<mezo id = "szoveg">A HELP Kereskedelmi SzolgÃ¡ltatÃ³ Ã©s TanÃ¡csadÃ³ Kft. (cÃ©gjegyzÃ©kszÃ¡ma: [18 09 000505]; 9700 Szombathely, Kiskar u. 1.) mint a FOOD AND PACK TermelÃ©si, Kereskedelmi Ã©s MÅ±szaki TanÃ¡csadÃ³ Kft. â€f. a.â€ (Cg.: [18 09 106800]; 9700 Szombathely, Szent FlÃ³riÃ¡n krt. 2.; adÃ³szÃ¡ma: [10621693-2-18]) a Vas Megyei BÃ­rÃ³sÃ¡g 5. Fpk. 18-06-000082/4. szÃ¡mÃº vÃ©gzÃ©sÃ©vel kijelÃ¶lt felszÃ¡molÃ³ja<ujsor/>
+nyilvÃ¡nos pÃ¡lyÃ¡zat<ujsor/>
+ÃºtjÃ¡n Ã©rtÃ©kesÃ­teni kÃ­vÃ¡nja a felszÃ¡molÃ¡s alatt Ã¡llÃ³ tÃ¡rsasÃ¡g tulajdonÃ¡t kÃ©pezÅ‘, a felszÃ¡molÃ³nÃ¡l lÃ©vÅ‘ listÃ¡ban szereplÅ‘ ingÃ³sÃ¡gokat (Ã©lelmiszer-ipari csomagolÃ³ Ã©s adalÃ©kanyagok stb.).<ujsor/>
+IrÃ¡nyÃ¡r: 2 600 000 Ft + Ã¡fa (kettÅ‘milliÃ³-hatszÃ¡zezer forint + Ã¡fa). BÃ¡natpÃ©nz: 300 000 Ft (hÃ¡romszÃ¡zezer forint).<ujsor/>
+A pÃ¡lyÃ¡zatnak tartalmaznia kell a pÃ¡lyÃ¡zÃ³ nevÃ©t, pontos cÃ­mÃ©t, a beÃ­gÃ©rt vÃ©telÃ¡rat (nettÃ³ Ã¡r Ft + Ã¡fa). A pÃ¡lyÃ¡zathoz mellÃ©kelni kell, ha a pÃ¡lyÃ¡zÃ³ vÃ¡llalkozÃ³, a vÃ¡llalkozÃ³i igazolvÃ¡ny mÃ¡solatÃ¡t, gazdasÃ¡gi tÃ¡rsasÃ¡gnÃ¡l a cÃ©gkivonatot, illetve mÃ¡solatÃ¡t, minden esetben a pÃ¡lyÃ¡zÃ³ adÃ³szÃ¡mÃ¡t, statisztikai Ã©s pÃ©nzforgalmi jelzÅ‘szÃ¡mÃ¡t, valamint a bÃ¡natpÃ©nz befizetÃ©sÃ©t (Ã¡tutalÃ¡sÃ¡t) bizonyÃ­tÃ³ banki igazolÃ¡st.<ujsor/>
+A pÃ¡lyÃ¡zatban valÃ³ rÃ©szvÃ©tel feltÃ©tele a bÃ¡natpÃ©nz befizetÃ©se, legkÃ©sÅ‘bb a pÃ¡lyÃ¡zat benyÃºjtÃ¡sÃ¡nak idÅ‘pontjÃ¡ig a felszÃ¡molÃ³ Ã¡ltal az Ã©rdeklÅ‘dÅ‘knek megadott bankszÃ¡mlÃ¡ra.<ujsor/>
+A vÃ©telÃ¡rba a hitelezÅ‘i kÃ¶vetelÃ©sek beszÃ¡mÃ­tÃ¡sÃ¡ra nincs lehetÅ‘sÃ©g, ezt a felszÃ¡molÃ³ kizÃ¡rja.<ujsor/>
+Az Ã©rtÃ©kesÃ­tÃ©sre kerÃ¼lÅ‘ vagyontÃ¡rgyakÃ©rt, illetve azoknak egyes rÃ©szeiÃ©rt a felszÃ¡molÃ³ kellÃ©kszavatossÃ¡got nem vÃ¡llal, azokat a pÃ¡lyÃ¡zÃ³ megtekintett Ã©s megvizsgÃ¡lt Ã¡llapotban veszi meg azzal, hogy a tulajdonjog vÃ¡ltozÃ¡sÃ¡val kapcsolatos valamennyi kÃ¶ltsÃ©g a pÃ¡lyÃ¡zÃ³t (a vevÅ‘t) terheli.<ujsor/>
+A teljes vÃ©telÃ¡r kiegyenlÃ­tÃ©se az egyes adÃ¡svÃ©teli szerzÅ‘dÃ©sek lÃ©trejÃ¶ttÃ©nek Ã©s a birtokbalÃ©pÃ©snek is elÅ‘feltÃ©tele.<ujsor/>
+PÃ¡lyÃ¡zatokat legkÃ©sÅ‘bb Â­ az ajÃ¡nlott vÃ©telÃ¡r Ã©s fizetÃ©si mÃ³d megjelÃ¶lÃ©sÃ©vel Â­ a CÃ©gkÃ¶lÃ¶nyben valÃ³ megjelenÃ©stÅ‘l szÃ¡mÃ­tott 15. napon, dÃ©lelÅ‘tt 10 Ã³rÃ¡ig kÃ©rjÃ¼k Ã­rÃ¡sban, szemÃ©lyesen vagy postai Ãºton benyÃºjtani a felszÃ¡molÃ³ irodÃ¡jÃ¡ba: 9700 Szombathely, Kiskar u. 1. szÃ¡m (postacÃ­m: HELP Kft. 9700 Szombathely, Pf. 67), vagy a zalaegerszegi irodÃ¡jÃ¡ba: 8900 Zalaegerszeg, BÃ©keligeti u. 1. (postacÃ­me: HELP Kft., 8901 Zalaegerszeg, Pf. 19).<ujsor/>
+A zÃ¡rt borÃ­tÃ©kra kÃ©rjÃ¼k rÃ¡Ã­rni: â€FOOD AND PACK Kft. f. a. pÃ¡lyÃ¡zatâ€.<ujsor/>
+A pÃ¡lyÃ¡zatok bontÃ¡sa Ã©s elbÃ­rÃ¡lÃ¡sa a benyÃºjtÃ¡si hatÃ¡ridÅ‘ lejÃ¡rta utÃ¡n szÃ¡mÃ­tott 20 munkanapon belÃ¼l megtÃ¶rtÃ©nik.<ujsor/>
+A felszÃ¡molÃ³ Ã©rtesÃ­ti az elÅ‘vÃ¡sÃ¡rlÃ¡sra jogosultakat, hogy elÅ‘vÃ¡sÃ¡rlÃ¡si jogukat ezen nyilvÃ¡nos pÃ¡lyÃ¡zaton (nyilvÃ¡nos Ã©rtÃ©kesÃ­tÃ©sen) gyakorolhatjÃ¡k. Az elÅ‘vÃ¡sÃ¡rlÃ¡si jog gyakorlÃ¡sa Ã©rdekÃ©ben a felszÃ¡molÃ³ felhÃ­vja az Ã©rdekeltek figyelmÃ©t arra, hogy a jog gyakorlÃ¡sÃ¡ra irÃ¡nyulÃ³ szÃ¡ndÃ©kukat a pÃ¡lyÃ¡zatok benyÃºjtÃ¡si hatÃ¡ridejÃ©ig Ã­rÃ¡sban bejelenteni szÃ­veskedjenek.<ujsor/>
+A felszÃ¡molÃ³ a pÃ¡lyÃ¡zatot megfelelÅ‘ ajÃ¡nlat hiÃ¡nyÃ¡ban eredmÃ©nytelennek nyilvÃ¡nÃ­thatja, Ã©s Ãºj pÃ¡lyÃ¡zatot Ã­rhat ki. MegfelelÅ‘, azonos Ã©rtÃ©kÅ± pÃ¡lyÃ¡zatok esetÃ©n az ajÃ¡nlattevÅ‘k kÃ¶zÃ¶tt nyilvÃ¡nos Ã¡rtÃ¡rgyalÃ¡s megtartÃ¡sÃ¡ra kerÃ¼l sor, melynek feltÃ©teleit az Ã¡rtÃ¡rgyalÃ¡s megkezdÃ©sÃ©t megelÅ‘zÅ‘en a rÃ©sztvevÅ‘kkel a felszÃ¡molÃ³biztos ismerteti.<ujsor/>
+BÅ‘vebb felvilÃ¡gosÃ­tÃ¡s kaphatÃ³ dr. SzabÃ³ ErnÅ‘ felszÃ¡molÃ³biztostÃ³l, a 06 (92) 510-466, 06 (92) 321-236-os telefonszÃ¡mokon. [Telefax: 06 (92) 510-426].<ujsor/>
 </mezo>
 <mezo id = "cjsz">1809106800</mezo>
-<mezo id = "nev">FOOD AND PACK Termelési, Kereskedelmi és Mûszaki Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">FOOD AND PACK TermelÃ©si, Kereskedelmi Ã©s MÅ±szaki TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">9700 Szombathely</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A HELP Kereskedelmi Szolgáltató és Tanácsadó Rt. (cégjegyzékszáma: [18 09 000505]; 9700 Szombathely, Kiskar u. 1.) mint a FOOD AND PACK Termelési, Kereskedelmi és Mûszaki Tanácsadó Kft. „f. a.” (cégjegyzékszáma: [18 09 106800]; 9700 Szombathely, Szent Flórián krt. 2.; adószáma: [10621693-2-18]) Vas Megyei Bíróság 5. Fpk. 18-06-000082/4. számú végzésével kijelölt felszámolója<ujsor/>
-nyilvános pályázat<ujsor/>
-útján értékesíteni kívánja a felszámolás alatt álló társaság tulajdonát képezõ, becsehelyi 0201. hrsz.-ú, külterületen lévõ, kivett mûvelési ágú szarvasmarhatelep elnevezésû, 29 527 m2 nagyságú ingatlant és a rajta lévõ három darab, egyenként 300 férõhelyes, összesen 900 férõhelyes, szarvasmarhatartásra, illetve hizlalásra alkalmas istállókat és a szarvasmarhatelep mûködését biztosító kiszolgáló létesítményeket.<ujsor/>
-Irányár: 80 000 000 Ft + áfa (nyolcvanmillió forint + áfa). Bánatpénz: 10 000 000 Ft (tízmillió forint).<ujsor/>
-A pályázatnak tartalmaznia kell a pályázó nevét, pontos címét, a beígért vételárat (nettó ár Ft + áfa). A pályázathoz mellékelni kell, ha a pályázó vállalkozó, a vállalkozói igazolvány másolatát, gazdasági társaságnál a cégkivonatot, illetve másolatát, minden esetben a pályázó adószámát, statisztikai és pénzforgalmi jelzõszámát, valamint a bánatpénz befizetését (átutalását) bizonyító banki igazolást.<ujsor/>
-A pályázatban való részvétel feltétele bánatpénz befizetése, legkésõbb a pályázat benyújtásának idõpontjáig a felszámoló által az érdeklõdõknek megadott, bankszámlára.<ujsor/>
-A vételárba a hitelezõi követelések beszámítására nincs lehetõség, ezt a felszámoló kizárja.<ujsor/>
-Az értékesítésre kerülõ ingatlanért és annak egyes részeiért a felszámoló kellékszavatosságot nem vállal, azokat a pályázó megtekintett és megvizsgált állapotban veszi meg azzal, hogy a tulajdonjog változásával kapcsolatos vagyonátruházási illeték vagy valamennyi más költség a pályázót (a vevõt) terheli, továbbá az eset legkésõbb felmerülõ és az adásvétel idõpontjában nem ismert környezeti terhet is a vevõ viseli.<ujsor/>
-A teljes vételár kiegyenlítése az egyes adásvételi szerzõdések létrejöttének és a birtokbalépésnek is elõfeltétele.<ujsor/>
-Pályázatokat legkésõbb ­ az ajánlott vételár és fizetési mód megjelölésével ­ a Cégközlönyben való megjelenéstõl számított 30. napon, délelõtt 10 óráig kérjük írásban, személyesen vagy postai úton benyújtani a felszámoló irodájába: 9700 Szombathely, Kiskar u. 1. (postacím: HELP Kft., 9700 Szombathely, Pf. 67), vagy a zalaegerszegi irodájába: 8900 Zalaegerszeg, Békeligeti u. 1. (postacíme: HELP Kft., 8901 Zalaegerszeg, Pf. 19).<ujsor/>
-A zárt borítékra kérjük ráírni: „FOOD AND PACK Kft. f. a. pályázat”.<ujsor/>
-A pályázatok bontása és elbírálása a benyújtási határidõ lejárta után számított 20 munkanapon belül megtörténik.<ujsor/>
-A felszámoló értesíti az elõvásárlásra jogosultakat, hogy elõvásárlási jogukat ezen nyilvános pályázaton (nyilvános értékesítésen) gyakorolhatják.<ujsor/>
-Az elõvásárlási jog gyakorlása érdekében a felszámoló felhívja az érdekeltek figyelmét arra, hogy a jog gyakorlására irányuló szándékukat a pályázatok benyújtási határidejéig írásban bejelenteni szíveskedjenek.<ujsor/>
-A felszámoló a pályázatot megfelelõ ajánlat hiányában eredménytelennek nyilváníthatja, és új pályázatot írhat ki. Megfelelõ, azonos értékû pályázatok esetén az ajánlattevõk között nyilvános ártárgyalás megtartására kerül sor, melynek feltételeit az ártárgyalás megkezdését megelõzõen a résztvevõkkel a felszámolóbiztos ismerteti.<ujsor/>
-Bõvebb felvilágosítás kapható dr. Szabó Ernõ felszámolóbiztostól, a 06 (92) 510-466, 06 (92) 321-236-os telefonszámokon [telefax: 06 (92) 510-426].<ujsor/>
+<mezo id = "szoveg">A HELP Kereskedelmi SzolgÃ¡ltatÃ³ Ã©s TanÃ¡csadÃ³ Rt. (cÃ©gjegyzÃ©kszÃ¡ma: [18 09 000505]; 9700 Szombathely, Kiskar u. 1.) mint a FOOD AND PACK TermelÃ©si, Kereskedelmi Ã©s MÅ±szaki TanÃ¡csadÃ³ Kft. â€f. a.â€ (cÃ©gjegyzÃ©kszÃ¡ma: [18 09 106800]; 9700 Szombathely, Szent FlÃ³riÃ¡n krt. 2.; adÃ³szÃ¡ma: [10621693-2-18]) Vas Megyei BÃ­rÃ³sÃ¡g 5. Fpk. 18-06-000082/4. szÃ¡mÃº vÃ©gzÃ©sÃ©vel kijelÃ¶lt felszÃ¡molÃ³ja<ujsor/>
+nyilvÃ¡nos pÃ¡lyÃ¡zat<ujsor/>
+ÃºtjÃ¡n Ã©rtÃ©kesÃ­teni kÃ­vÃ¡nja a felszÃ¡molÃ¡s alatt Ã¡llÃ³ tÃ¡rsasÃ¡g tulajdonÃ¡t kÃ©pezÅ‘, becsehelyi 0201. hrsz.-Ãº, kÃ¼lterÃ¼leten lÃ©vÅ‘, kivett mÅ±velÃ©si Ã¡gÃº szarvasmarhatelep elnevezÃ©sÅ±, 29 527 m2 nagysÃ¡gÃº ingatlant Ã©s a rajta lÃ©vÅ‘ hÃ¡rom darab, egyenkÃ©nt 300 fÃ©rÅ‘helyes, Ã¶sszesen 900 fÃ©rÅ‘helyes, szarvasmarhatartÃ¡sra, illetve hizlalÃ¡sra alkalmas istÃ¡llÃ³kat Ã©s a szarvasmarhatelep mÅ±kÃ¶dÃ©sÃ©t biztosÃ­tÃ³ kiszolgÃ¡lÃ³ lÃ©tesÃ­tmÃ©nyeket.<ujsor/>
+IrÃ¡nyÃ¡r: 80 000 000 Ft + Ã¡fa (nyolcvanmilliÃ³ forint + Ã¡fa). BÃ¡natpÃ©nz: 10 000 000 Ft (tÃ­zmilliÃ³ forint).<ujsor/>
+A pÃ¡lyÃ¡zatnak tartalmaznia kell a pÃ¡lyÃ¡zÃ³ nevÃ©t, pontos cÃ­mÃ©t, a beÃ­gÃ©rt vÃ©telÃ¡rat (nettÃ³ Ã¡r Ft + Ã¡fa). A pÃ¡lyÃ¡zathoz mellÃ©kelni kell, ha a pÃ¡lyÃ¡zÃ³ vÃ¡llalkozÃ³, a vÃ¡llalkozÃ³i igazolvÃ¡ny mÃ¡solatÃ¡t, gazdasÃ¡gi tÃ¡rsasÃ¡gnÃ¡l a cÃ©gkivonatot, illetve mÃ¡solatÃ¡t, minden esetben a pÃ¡lyÃ¡zÃ³ adÃ³szÃ¡mÃ¡t, statisztikai Ã©s pÃ©nzforgalmi jelzÅ‘szÃ¡mÃ¡t, valamint a bÃ¡natpÃ©nz befizetÃ©sÃ©t (Ã¡tutalÃ¡sÃ¡t) bizonyÃ­tÃ³ banki igazolÃ¡st.<ujsor/>
+A pÃ¡lyÃ¡zatban valÃ³ rÃ©szvÃ©tel feltÃ©tele bÃ¡natpÃ©nz befizetÃ©se, legkÃ©sÅ‘bb a pÃ¡lyÃ¡zat benyÃºjtÃ¡sÃ¡nak idÅ‘pontjÃ¡ig a felszÃ¡molÃ³ Ã¡ltal az Ã©rdeklÅ‘dÅ‘knek megadott, bankszÃ¡mlÃ¡ra.<ujsor/>
+A vÃ©telÃ¡rba a hitelezÅ‘i kÃ¶vetelÃ©sek beszÃ¡mÃ­tÃ¡sÃ¡ra nincs lehetÅ‘sÃ©g, ezt a felszÃ¡molÃ³ kizÃ¡rja.<ujsor/>
+Az Ã©rtÃ©kesÃ­tÃ©sre kerÃ¼lÅ‘ ingatlanÃ©rt Ã©s annak egyes rÃ©szeiÃ©rt a felszÃ¡molÃ³ kellÃ©kszavatossÃ¡got nem vÃ¡llal, azokat a pÃ¡lyÃ¡zÃ³ megtekintett Ã©s megvizsgÃ¡lt Ã¡llapotban veszi meg azzal, hogy a tulajdonjog vÃ¡ltozÃ¡sÃ¡val kapcsolatos vagyonÃ¡truhÃ¡zÃ¡si illetÃ©k vagy valamennyi mÃ¡s kÃ¶ltsÃ©g a pÃ¡lyÃ¡zÃ³t (a vevÅ‘t) terheli, tovÃ¡bbÃ¡ az eset legkÃ©sÅ‘bb felmerÃ¼lÅ‘ Ã©s az adÃ¡svÃ©tel idÅ‘pontjÃ¡ban nem ismert kÃ¶rnyezeti terhet is a vevÅ‘ viseli.<ujsor/>
+A teljes vÃ©telÃ¡r kiegyenlÃ­tÃ©se az egyes adÃ¡svÃ©teli szerzÅ‘dÃ©sek lÃ©trejÃ¶ttÃ©nek Ã©s a birtokbalÃ©pÃ©snek is elÅ‘feltÃ©tele.<ujsor/>
+PÃ¡lyÃ¡zatokat legkÃ©sÅ‘bb Â­ az ajÃ¡nlott vÃ©telÃ¡r Ã©s fizetÃ©si mÃ³d megjelÃ¶lÃ©sÃ©vel Â­ a CÃ©gkÃ¶zlÃ¶nyben valÃ³ megjelenÃ©stÅ‘l szÃ¡mÃ­tott 30. napon, dÃ©lelÅ‘tt 10 Ã³rÃ¡ig kÃ©rjÃ¼k Ã­rÃ¡sban, szemÃ©lyesen vagy postai Ãºton benyÃºjtani a felszÃ¡molÃ³ irodÃ¡jÃ¡ba: 9700 Szombathely, Kiskar u. 1. (postacÃ­m: HELP Kft., 9700 Szombathely, Pf. 67), vagy a zalaegerszegi irodÃ¡jÃ¡ba: 8900 Zalaegerszeg, BÃ©keligeti u. 1. (postacÃ­me: HELP Kft., 8901 Zalaegerszeg, Pf. 19).<ujsor/>
+A zÃ¡rt borÃ­tÃ©kra kÃ©rjÃ¼k rÃ¡Ã­rni: â€FOOD AND PACK Kft. f. a. pÃ¡lyÃ¡zatâ€.<ujsor/>
+A pÃ¡lyÃ¡zatok bontÃ¡sa Ã©s elbÃ­rÃ¡lÃ¡sa a benyÃºjtÃ¡si hatÃ¡ridÅ‘ lejÃ¡rta utÃ¡n szÃ¡mÃ­tott 20 munkanapon belÃ¼l megtÃ¶rtÃ©nik.<ujsor/>
+A felszÃ¡molÃ³ Ã©rtesÃ­ti az elÅ‘vÃ¡sÃ¡rlÃ¡sra jogosultakat, hogy elÅ‘vÃ¡sÃ¡rlÃ¡si jogukat ezen nyilvÃ¡nos pÃ¡lyÃ¡zaton (nyilvÃ¡nos Ã©rtÃ©kesÃ­tÃ©sen) gyakorolhatjÃ¡k.<ujsor/>
+Az elÅ‘vÃ¡sÃ¡rlÃ¡si jog gyakorlÃ¡sa Ã©rdekÃ©ben a felszÃ¡molÃ³ felhÃ­vja az Ã©rdekeltek figyelmÃ©t arra, hogy a jog gyakorlÃ¡sÃ¡ra irÃ¡nyulÃ³ szÃ¡ndÃ©kukat a pÃ¡lyÃ¡zatok benyÃºjtÃ¡si hatÃ¡ridejÃ©ig Ã­rÃ¡sban bejelenteni szÃ­veskedjenek.<ujsor/>
+A felszÃ¡molÃ³ a pÃ¡lyÃ¡zatot megfelelÅ‘ ajÃ¡nlat hiÃ¡nyÃ¡ban eredmÃ©nytelennek nyilvÃ¡nÃ­thatja, Ã©s Ãºj pÃ¡lyÃ¡zatot Ã­rhat ki. MegfelelÅ‘, azonos Ã©rtÃ©kÅ± pÃ¡lyÃ¡zatok esetÃ©n az ajÃ¡nlattevÅ‘k kÃ¶zÃ¶tt nyilvÃ¡nos Ã¡rtÃ¡rgyalÃ¡s megtartÃ¡sÃ¡ra kerÃ¼l sor, melynek feltÃ©teleit az Ã¡rtÃ¡rgyalÃ¡s megkezdÃ©sÃ©t megelÅ‘zÅ‘en a rÃ©sztvevÅ‘kkel a felszÃ¡molÃ³biztos ismerteti.<ujsor/>
+BÅ‘vebb felvilÃ¡gosÃ­tÃ¡s kaphatÃ³ dr. SzabÃ³ ErnÅ‘ felszÃ¡molÃ³biztostÃ³l, a 06 (92) 510-466, 06 (92) 321-236-os telefonszÃ¡mokon [telefax: 06 (92) 510-426].<ujsor/>
 </mezo>
 <mezo id = "cjsz">1809106800</mezo>
-<mezo id = "nev">FOOD AND PACK Termelési, Kereskedelmi és Mûszaki Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">FOOD AND PACK TermelÃ©si, Kereskedelmi Ã©s MÅ±szaki TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">9700 Szombathely</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A HELP Kereskedelmi Szolgáltató és Tanácsadó Kft. (cégjegyzékszáma: [18 09 000505]; 9700 Szombathely, Kiskar u. 1.) mint a FOOD AND PACK Termelési, Kereskedelmi és Mûszaki Tanácsadó Kft. „f. a.” (cégjegyzékszáma: [18 09 106800]; 9700 Szombathely, Szent Flórián krt. 2.; adószáma: [10621693-2-18]) Vas Megyei Bíróság 5. Fpk. 18-06-000082/4. számú végzésével kijelölt felszámolója<ujsor/>
-nyilvános pályázat<ujsor/>
-útján értékesíteni kívánja a felszámolás alatt álló társaság tulajdonát képezõ, becsehelyi 0201. hrsz.-ú, külterületen lévõ, kivett mûvelési ágú szarvasmarhatelep elnevezésû, 29 527 m2 nagyságú ingatlant és a rajta lévõ három darab, egyenként 300 férõhelyes, összesen 900 férõhelyes, szarvasmarhatartásra, illetve hizlalásra alkalmas istállókat és a szarvasmarhatelep mûködését biztosító kiszolgáló létesítményeket.<ujsor/>
-Irányár: 80 000 000 Ft + áfa (nyolcvanmillió forint + áfa). Bánatpénz: 10 000 000 Ft (tízmillió forint).<ujsor/>
-A pályázatnak tartalmaznia kell a pályázó nevét, pontos címét, a beígért vételárat (nettó ár Ft + áfa). A pályázathoz mellékelni kell, ha a pályázó vállalkozó, a vállalkozói igazolvány másolatát, gazdasági társaságnál a cégkivonatot, illetve másolatát, minden esetben a pályázó adószámát, statisztikai és pénzforgalmi jelzõszámát, valamint a bánatpénz befizetését (átutalását) bizonyító banki igazolást.<ujsor/>
-A pályázatban való részvétel feltétele a bánatpénz befizetése, legkésõbb a pályázat benyújtásának idõpontjáig a felszámoló által az érdeklõdõknek megadott bankszámlára.<ujsor/>
-A vételárba a hitelezõi követelések beszámítására nincs lehetõség, ezt a felszámoló kizárja.<ujsor/>
-Az értékesítésre kerülõ ingatlanért és annak egyes részeiért a felszámoló kellékszavatosságot nem vállal, azokat a pályázó megtekintett és megvizsgált állapotban veszi meg azzal, hogy a tulajdonjog változásával kapcsolatos vagyonátruházási illeték vagy valamennyi más költség a pályázót (a vevõt) terheli, továbbá az eset legkésõbb felmerülõ és az adásvétel idõpontjában nem ismert környezeti terhet is a vevõ viseli.<ujsor/>
-A teljes vételár kiegyenlítése az egyes adásvételi szerzõdések létrejöttének és a birtokbalépésnek is elõfeltétele.<ujsor/>
-Pályázatokat legkésõbb ­ az ajánlott vételár és fizetési mód megjelölésével ­ a Cégközlönyben való megjelenéstõl számított 30. napon délelõtt 10 óráig kérjük írásban, személyesen vagy postai úton benyújtani a felszámoló irodájába: 9700 Szombathely, Kiskar u. 1. (postacím: HELP Kft., 9700 Szombathely, Pf. 67), vagy a zalaegerszegi irodájába: 8900 Zalaegerszeg, Békeligeti u. 1. (postacím: HELP Kft., 8901 Zalaegerszeg, Pf. 19).<ujsor/>
-A zárt borítékra kérjük ráírni: „FOOD AND PACK Kft. f. a. pályázat”.<ujsor/>
-A pályázatok bontása és elbírálása a benyújtási határidõ lejárta után számított 20 munkanapon belül megtörténik.<ujsor/>
-A felszámoló értesíti az elõvásárlásra jogosultakat, hogy elõvásárlási jogukat ezen nyilvános pályázaton (nyilvános értékesítésen) gyakorolhatják.<ujsor/>
-Az elõvásárlási jog gyakorlása érdekében a felszámoló felhívja az érdekeltek figyelmét arra, hogy a jog gyakorlására irányuló szándékukat a pályázatok benyújtási határidejéig írásban bejelenteni szíveskedjenek.<ujsor/>
-A felszámoló a pályázatot megfelelõ ajánlat hiányában eredménytelennek nyilváníthatja, és új pályázatot írhat ki. Megfelelõ, azonos értékû pályázatok esetén az ajánlattevõk között nyilvános ártárgyalás megtartására kerül sor, melynek feltételeit az ártárgyalás megkezdését megelõzõen a résztvevõkkel a felszámolóbiztos ismerteti.<ujsor/>
-Bõvebb felvilágosítás kapható dr. Szabó Ernõ felszámolóbiztostól, a 06 (92) 510-466, 06 (92) 321-236-os telefonszámokon [telefax: 06 (92) 510-426].<ujsor/>
+<mezo id = "szoveg">A HELP Kereskedelmi SzolgÃ¡ltatÃ³ Ã©s TanÃ¡csadÃ³ Kft. (cÃ©gjegyzÃ©kszÃ¡ma: [18 09 000505]; 9700 Szombathely, Kiskar u. 1.) mint a FOOD AND PACK TermelÃ©si, Kereskedelmi Ã©s MÅ±szaki TanÃ¡csadÃ³ Kft. â€f. a.â€ (cÃ©gjegyzÃ©kszÃ¡ma: [18 09 106800]; 9700 Szombathely, Szent FlÃ³riÃ¡n krt. 2.; adÃ³szÃ¡ma: [10621693-2-18]) Vas Megyei BÃ­rÃ³sÃ¡g 5. Fpk. 18-06-000082/4. szÃ¡mÃº vÃ©gzÃ©sÃ©vel kijelÃ¶lt felszÃ¡molÃ³ja<ujsor/>
+nyilvÃ¡nos pÃ¡lyÃ¡zat<ujsor/>
+ÃºtjÃ¡n Ã©rtÃ©kesÃ­teni kÃ­vÃ¡nja a felszÃ¡molÃ¡s alatt Ã¡llÃ³ tÃ¡rsasÃ¡g tulajdonÃ¡t kÃ©pezÅ‘, becsehelyi 0201. hrsz.-Ãº, kÃ¼lterÃ¼leten lÃ©vÅ‘, kivett mÅ±velÃ©si Ã¡gÃº szarvasmarhatelep elnevezÃ©sÅ±, 29 527 m2 nagysÃ¡gÃº ingatlant Ã©s a rajta lÃ©vÅ‘ hÃ¡rom darab, egyenkÃ©nt 300 fÃ©rÅ‘helyes, Ã¶sszesen 900 fÃ©rÅ‘helyes, szarvasmarhatartÃ¡sra, illetve hizlalÃ¡sra alkalmas istÃ¡llÃ³kat Ã©s a szarvasmarhatelep mÅ±kÃ¶dÃ©sÃ©t biztosÃ­tÃ³ kiszolgÃ¡lÃ³ lÃ©tesÃ­tmÃ©nyeket.<ujsor/>
+IrÃ¡nyÃ¡r: 80 000 000 Ft + Ã¡fa (nyolcvanmilliÃ³ forint + Ã¡fa). BÃ¡natpÃ©nz: 10 000 000 Ft (tÃ­zmilliÃ³ forint).<ujsor/>
+A pÃ¡lyÃ¡zatnak tartalmaznia kell a pÃ¡lyÃ¡zÃ³ nevÃ©t, pontos cÃ­mÃ©t, a beÃ­gÃ©rt vÃ©telÃ¡rat (nettÃ³ Ã¡r Ft + Ã¡fa). A pÃ¡lyÃ¡zathoz mellÃ©kelni kell, ha a pÃ¡lyÃ¡zÃ³ vÃ¡llalkozÃ³, a vÃ¡llalkozÃ³i igazolvÃ¡ny mÃ¡solatÃ¡t, gazdasÃ¡gi tÃ¡rsasÃ¡gnÃ¡l a cÃ©gkivonatot, illetve mÃ¡solatÃ¡t, minden esetben a pÃ¡lyÃ¡zÃ³ adÃ³szÃ¡mÃ¡t, statisztikai Ã©s pÃ©nzforgalmi jelzÅ‘szÃ¡mÃ¡t, valamint a bÃ¡natpÃ©nz befizetÃ©sÃ©t (Ã¡tutalÃ¡sÃ¡t) bizonyÃ­tÃ³ banki igazolÃ¡st.<ujsor/>
+A pÃ¡lyÃ¡zatban valÃ³ rÃ©szvÃ©tel feltÃ©tele a bÃ¡natpÃ©nz befizetÃ©se, legkÃ©sÅ‘bb a pÃ¡lyÃ¡zat benyÃºjtÃ¡sÃ¡nak idÅ‘pontjÃ¡ig a felszÃ¡molÃ³ Ã¡ltal az Ã©rdeklÅ‘dÅ‘knek megadott bankszÃ¡mlÃ¡ra.<ujsor/>
+A vÃ©telÃ¡rba a hitelezÅ‘i kÃ¶vetelÃ©sek beszÃ¡mÃ­tÃ¡sÃ¡ra nincs lehetÅ‘sÃ©g, ezt a felszÃ¡molÃ³ kizÃ¡rja.<ujsor/>
+Az Ã©rtÃ©kesÃ­tÃ©sre kerÃ¼lÅ‘ ingatlanÃ©rt Ã©s annak egyes rÃ©szeiÃ©rt a felszÃ¡molÃ³ kellÃ©kszavatossÃ¡got nem vÃ¡llal, azokat a pÃ¡lyÃ¡zÃ³ megtekintett Ã©s megvizsgÃ¡lt Ã¡llapotban veszi meg azzal, hogy a tulajdonjog vÃ¡ltozÃ¡sÃ¡val kapcsolatos vagyonÃ¡truhÃ¡zÃ¡si illetÃ©k vagy valamennyi mÃ¡s kÃ¶ltsÃ©g a pÃ¡lyÃ¡zÃ³t (a vevÅ‘t) terheli, tovÃ¡bbÃ¡ az eset legkÃ©sÅ‘bb felmerÃ¼lÅ‘ Ã©s az adÃ¡svÃ©tel idÅ‘pontjÃ¡ban nem ismert kÃ¶rnyezeti terhet is a vevÅ‘ viseli.<ujsor/>
+A teljes vÃ©telÃ¡r kiegyenlÃ­tÃ©se az egyes adÃ¡svÃ©teli szerzÅ‘dÃ©sek lÃ©trejÃ¶ttÃ©nek Ã©s a birtokbalÃ©pÃ©snek is elÅ‘feltÃ©tele.<ujsor/>
+PÃ¡lyÃ¡zatokat legkÃ©sÅ‘bb Â­ az ajÃ¡nlott vÃ©telÃ¡r Ã©s fizetÃ©si mÃ³d megjelÃ¶lÃ©sÃ©vel Â­ a CÃ©gkÃ¶zlÃ¶nyben valÃ³ megjelenÃ©stÅ‘l szÃ¡mÃ­tott 30. napon dÃ©lelÅ‘tt 10 Ã³rÃ¡ig kÃ©rjÃ¼k Ã­rÃ¡sban, szemÃ©lyesen vagy postai Ãºton benyÃºjtani a felszÃ¡molÃ³ irodÃ¡jÃ¡ba: 9700 Szombathely, Kiskar u. 1. (postacÃ­m: HELP Kft., 9700 Szombathely, Pf. 67), vagy a zalaegerszegi irodÃ¡jÃ¡ba: 8900 Zalaegerszeg, BÃ©keligeti u. 1. (postacÃ­m: HELP Kft., 8901 Zalaegerszeg, Pf. 19).<ujsor/>
+A zÃ¡rt borÃ­tÃ©kra kÃ©rjÃ¼k rÃ¡Ã­rni: â€FOOD AND PACK Kft. f. a. pÃ¡lyÃ¡zatâ€.<ujsor/>
+A pÃ¡lyÃ¡zatok bontÃ¡sa Ã©s elbÃ­rÃ¡lÃ¡sa a benyÃºjtÃ¡si hatÃ¡ridÅ‘ lejÃ¡rta utÃ¡n szÃ¡mÃ­tott 20 munkanapon belÃ¼l megtÃ¶rtÃ©nik.<ujsor/>
+A felszÃ¡molÃ³ Ã©rtesÃ­ti az elÅ‘vÃ¡sÃ¡rlÃ¡sra jogosultakat, hogy elÅ‘vÃ¡sÃ¡rlÃ¡si jogukat ezen nyilvÃ¡nos pÃ¡lyÃ¡zaton (nyilvÃ¡nos Ã©rtÃ©kesÃ­tÃ©sen) gyakorolhatjÃ¡k.<ujsor/>
+Az elÅ‘vÃ¡sÃ¡rlÃ¡si jog gyakorlÃ¡sa Ã©rdekÃ©ben a felszÃ¡molÃ³ felhÃ­vja az Ã©rdekeltek figyelmÃ©t arra, hogy a jog gyakorlÃ¡sÃ¡ra irÃ¡nyulÃ³ szÃ¡ndÃ©kukat a pÃ¡lyÃ¡zatok benyÃºjtÃ¡si hatÃ¡ridejÃ©ig Ã­rÃ¡sban bejelenteni szÃ­veskedjenek.<ujsor/>
+A felszÃ¡molÃ³ a pÃ¡lyÃ¡zatot megfelelÅ‘ ajÃ¡nlat hiÃ¡nyÃ¡ban eredmÃ©nytelennek nyilvÃ¡nÃ­thatja, Ã©s Ãºj pÃ¡lyÃ¡zatot Ã­rhat ki. MegfelelÅ‘, azonos Ã©rtÃ©kÅ± pÃ¡lyÃ¡zatok esetÃ©n az ajÃ¡nlattevÅ‘k kÃ¶zÃ¶tt nyilvÃ¡nos Ã¡rtÃ¡rgyalÃ¡s megtartÃ¡sÃ¡ra kerÃ¼l sor, melynek feltÃ©teleit az Ã¡rtÃ¡rgyalÃ¡s megkezdÃ©sÃ©t megelÅ‘zÅ‘en a rÃ©sztvevÅ‘kkel a felszÃ¡molÃ³biztos ismerteti.<ujsor/>
+BÅ‘vebb felvilÃ¡gosÃ­tÃ¡s kaphatÃ³ dr. SzabÃ³ ErnÅ‘ felszÃ¡molÃ³biztostÃ³l, a 06 (92) 510-466, 06 (92) 321-236-os telefonszÃ¡mokon [telefax: 06 (92) 510-426].<ujsor/>
 </mezo>
 <mezo id = "cjsz">1809106800</mezo>
-<mezo id = "nev">FOOD AND PACK Termelési, Kereskedelmi és Mûszaki Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">FOOD AND PACK TermelÃ©si, Kereskedelmi Ã©s MÅ±szaki TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">9700 Szombathely</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A HELP Kereskedelmi Szolgáltató és Tanácsadó Zrt. (cégjegyzékszáma: [18 09 000505]; 9700 Szombathely, Kiskar u. 1.) mint a FOOD AND PACK Termelési, Kereskedelmi és Mûszaki Tanácsadó Kft. „f. a.” (cégjegyzékszáma: [18 09 106800]; 9700 Szombathely, Szent Flórián krt. 2.; adószáma: [10621693-2-18]) Vas Megyei Bíróság 5. Fpk. 18-06-000082/4. számú végzésével kijelölt felszámolója<ujsor/>
-nyilvános pályázat<ujsor/>
-útján értékesíteni kívánja a felszámolás alatt álló társaság tulajdonát képezõ, becsehelyi 0201. hrsz.-ú, külterületen lévõ, kivett mûvelési ágú, szarvasmarhatelep elnevezésû, 29 527 m2 nagyságú ingatlant és a rajta lévõ három darab, egyenként 300 férõhelyes, összesen 900 férõhelyes, szarvasmarhatartásra, illetve hizlalásra alkalmas istállókat és a szarvasmarhatelep mûködését biztosító kiszolgáló létesítményeket.<ujsor/>
-Irányár: 80 000 000 Ft + áfa (nyolcvanmillió forint + áfa).<ujsor/>
-Bánatpénz: 10 000 000 Ft (tízmillió forint).<ujsor/>
-A pályázatnak tartalmaznia kell a pályázó nevét, pontos címét, a beígért vételárat (nettó ár Ft + áfa). A pályázathoz mellékelni kell, ha a pályázó vállalkozó, a vállalkozói igazolvány másolatát, gazdasági társaságnál a cégkivonatot, illetve másolatát, minden esetben a pályázó adószámát, statisztikai és pénzforgalmi jelzõszámát, valamint a bánatpénz befizetését (átutalását) bizonyító banki igazolást.<ujsor/>
-A pályázatban való részvétel feltétele a bánatpénz befizetése, legkésõbb a pályázat benyújtásának idõpontjáig a felszámoló által az érdeklõdõknek megadott bankszámlára.<ujsor/>
-A vételárba a hitelezõi követelések beszámítására nincs lehetõség, ezt a felszámoló kizárja.<ujsor/>
-Az értékesítésre kerülõ ingatlanért és annak egyes részeiért a felszámoló kellékszavatosságot nem vállal, azokat a pályázó megtekintett és megvizsgált állapotban veszi meg azzal, hogy a tulajdonjog változásával kapcsolatos vagyonátruházási illeték vagy valamennyi más költség a pályázót (vevõt) terheli, továbbá az eset legkésõbb felmerülõ és az adásvétel idõpontjában nem ismert környezeti terhet is a vevõ viseli.<ujsor/>
-A teljes vételár kiegyenlítése az egyes adásvételi szerzõdések létrejöttének és a birtokbalépésnek is elõfeltétele.<ujsor/>
-Pályázatokat legkésõbb ­ az ajánlott vételár és fizetési mód megjelölésével ­ a Cégközlönyben való megjelenéstõl számított 30. napon délelõtt 10 óráig kérjük írásban, személyesen vagy postai úton benyújtani a felszámoló irodájába: 9700 Szombathely, Kiskar u. 1. (postacím: HELP Kft., 9700 Szombathely, Pf. 67), vagy a zalaegerszegi irodájába: 8900 Zalaegerszeg, Békeligeti u. 1. (postacíme: HELP Kft., 8901 Zalaegerszeg, Pf. 19).<ujsor/>
-A zárt borítékra kérjük ráírni: „FOOD AND PACK Kft. f. a. Pályázat”.<ujsor/>
-A pályázatok bontása és elbírálása a benyújtási határidõ lejárta után számított 20 munkanapon belül megtörténik.<ujsor/>
-A felszámoló értesíti az elõvásárlásra jogosultakat, hogy elõvásárlási jogukat ezen nyilvános pályázaton (nyilvános értékesítésen) gyakorolhatják.<ujsor/>
-Az elõvásárlási jog gyakorlása érdekében a felszámoló felhívja az érdekeltek figyelmét arra, hogy a jog gyakorlására irányuló szándékukat a pályázatok benyújtási határidejéig írásban bejelenteni szíveskedjenek.<ujsor/>
-A felszámoló a pályázatot megfelelõ ajánlat hiányában eredménytelennek nyilváníthatja, és új pályázatot írhat ki. Megfelelõ, azonos értékû pályázatok esetén az ajánlattevõk között nyilvános ártárgyalás megtartására kerül sor, melynek feltételeit az ártárgyalás megkezdését megelõzõen a résztvevõkkel a felszámolóbiztos ismerteti.<ujsor/>
-Bõvebb felvilágosítás kapható dr. Szabó Ernõ felszámolóbiztostól a 06 (92) 510-466, 06 (92) 321-236-os telefonszámokon [telefax: 06 (92) 510-426].<ujsor/>
+<mezo id = "szoveg">A HELP Kereskedelmi SzolgÃ¡ltatÃ³ Ã©s TanÃ¡csadÃ³ Zrt. (cÃ©gjegyzÃ©kszÃ¡ma: [18 09 000505]; 9700 Szombathely, Kiskar u. 1.) mint a FOOD AND PACK TermelÃ©si, Kereskedelmi Ã©s MÅ±szaki TanÃ¡csadÃ³ Kft. â€f. a.â€ (cÃ©gjegyzÃ©kszÃ¡ma: [18 09 106800]; 9700 Szombathely, Szent FlÃ³riÃ¡n krt. 2.; adÃ³szÃ¡ma: [10621693-2-18]) Vas Megyei BÃ­rÃ³sÃ¡g 5. Fpk. 18-06-000082/4. szÃ¡mÃº vÃ©gzÃ©sÃ©vel kijelÃ¶lt felszÃ¡molÃ³ja<ujsor/>
+nyilvÃ¡nos pÃ¡lyÃ¡zat<ujsor/>
+ÃºtjÃ¡n Ã©rtÃ©kesÃ­teni kÃ­vÃ¡nja a felszÃ¡molÃ¡s alatt Ã¡llÃ³ tÃ¡rsasÃ¡g tulajdonÃ¡t kÃ©pezÅ‘, becsehelyi 0201. hrsz.-Ãº, kÃ¼lterÃ¼leten lÃ©vÅ‘, kivett mÅ±velÃ©si Ã¡gÃº, szarvasmarhatelep elnevezÃ©sÅ±, 29 527 m2 nagysÃ¡gÃº ingatlant Ã©s a rajta lÃ©vÅ‘ hÃ¡rom darab, egyenkÃ©nt 300 fÃ©rÅ‘helyes, Ã¶sszesen 900 fÃ©rÅ‘helyes, szarvasmarhatartÃ¡sra, illetve hizlalÃ¡sra alkalmas istÃ¡llÃ³kat Ã©s a szarvasmarhatelep mÅ±kÃ¶dÃ©sÃ©t biztosÃ­tÃ³ kiszolgÃ¡lÃ³ lÃ©tesÃ­tmÃ©nyeket.<ujsor/>
+IrÃ¡nyÃ¡r: 80 000 000 Ft + Ã¡fa (nyolcvanmilliÃ³ forint + Ã¡fa).<ujsor/>
+BÃ¡natpÃ©nz: 10 000 000 Ft (tÃ­zmilliÃ³ forint).<ujsor/>
+A pÃ¡lyÃ¡zatnak tartalmaznia kell a pÃ¡lyÃ¡zÃ³ nevÃ©t, pontos cÃ­mÃ©t, a beÃ­gÃ©rt vÃ©telÃ¡rat (nettÃ³ Ã¡r Ft + Ã¡fa). A pÃ¡lyÃ¡zathoz mellÃ©kelni kell, ha a pÃ¡lyÃ¡zÃ³ vÃ¡llalkozÃ³, a vÃ¡llalkozÃ³i igazolvÃ¡ny mÃ¡solatÃ¡t, gazdasÃ¡gi tÃ¡rsasÃ¡gnÃ¡l a cÃ©gkivonatot, illetve mÃ¡solatÃ¡t, minden esetben a pÃ¡lyÃ¡zÃ³ adÃ³szÃ¡mÃ¡t, statisztikai Ã©s pÃ©nzforgalmi jelzÅ‘szÃ¡mÃ¡t, valamint a bÃ¡natpÃ©nz befizetÃ©sÃ©t (Ã¡tutalÃ¡sÃ¡t) bizonyÃ­tÃ³ banki igazolÃ¡st.<ujsor/>
+A pÃ¡lyÃ¡zatban valÃ³ rÃ©szvÃ©tel feltÃ©tele a bÃ¡natpÃ©nz befizetÃ©se, legkÃ©sÅ‘bb a pÃ¡lyÃ¡zat benyÃºjtÃ¡sÃ¡nak idÅ‘pontjÃ¡ig a felszÃ¡molÃ³ Ã¡ltal az Ã©rdeklÅ‘dÅ‘knek megadott bankszÃ¡mlÃ¡ra.<ujsor/>
+A vÃ©telÃ¡rba a hitelezÅ‘i kÃ¶vetelÃ©sek beszÃ¡mÃ­tÃ¡sÃ¡ra nincs lehetÅ‘sÃ©g, ezt a felszÃ¡molÃ³ kizÃ¡rja.<ujsor/>
+Az Ã©rtÃ©kesÃ­tÃ©sre kerÃ¼lÅ‘ ingatlanÃ©rt Ã©s annak egyes rÃ©szeiÃ©rt a felszÃ¡molÃ³ kellÃ©kszavatossÃ¡got nem vÃ¡llal, azokat a pÃ¡lyÃ¡zÃ³ megtekintett Ã©s megvizsgÃ¡lt Ã¡llapotban veszi meg azzal, hogy a tulajdonjog vÃ¡ltozÃ¡sÃ¡val kapcsolatos vagyonÃ¡truhÃ¡zÃ¡si illetÃ©k vagy valamennyi mÃ¡s kÃ¶ltsÃ©g a pÃ¡lyÃ¡zÃ³t (vevÅ‘t) terheli, tovÃ¡bbÃ¡ az eset legkÃ©sÅ‘bb felmerÃ¼lÅ‘ Ã©s az adÃ¡svÃ©tel idÅ‘pontjÃ¡ban nem ismert kÃ¶rnyezeti terhet is a vevÅ‘ viseli.<ujsor/>
+A teljes vÃ©telÃ¡r kiegyenlÃ­tÃ©se az egyes adÃ¡svÃ©teli szerzÅ‘dÃ©sek lÃ©trejÃ¶ttÃ©nek Ã©s a birtokbalÃ©pÃ©snek is elÅ‘feltÃ©tele.<ujsor/>
+PÃ¡lyÃ¡zatokat legkÃ©sÅ‘bb Â­ az ajÃ¡nlott vÃ©telÃ¡r Ã©s fizetÃ©si mÃ³d megjelÃ¶lÃ©sÃ©vel Â­ a CÃ©gkÃ¶zlÃ¶nyben valÃ³ megjelenÃ©stÅ‘l szÃ¡mÃ­tott 30. napon dÃ©lelÅ‘tt 10 Ã³rÃ¡ig kÃ©rjÃ¼k Ã­rÃ¡sban, szemÃ©lyesen vagy postai Ãºton benyÃºjtani a felszÃ¡molÃ³ irodÃ¡jÃ¡ba: 9700 Szombathely, Kiskar u. 1. (postacÃ­m: HELP Kft., 9700 Szombathely, Pf. 67), vagy a zalaegerszegi irodÃ¡jÃ¡ba: 8900 Zalaegerszeg, BÃ©keligeti u. 1. (postacÃ­me: HELP Kft., 8901 Zalaegerszeg, Pf. 19).<ujsor/>
+A zÃ¡rt borÃ­tÃ©kra kÃ©rjÃ¼k rÃ¡Ã­rni: â€FOOD AND PACK Kft. f. a. PÃ¡lyÃ¡zatâ€.<ujsor/>
+A pÃ¡lyÃ¡zatok bontÃ¡sa Ã©s elbÃ­rÃ¡lÃ¡sa a benyÃºjtÃ¡si hatÃ¡ridÅ‘ lejÃ¡rta utÃ¡n szÃ¡mÃ­tott 20 munkanapon belÃ¼l megtÃ¶rtÃ©nik.<ujsor/>
+A felszÃ¡molÃ³ Ã©rtesÃ­ti az elÅ‘vÃ¡sÃ¡rlÃ¡sra jogosultakat, hogy elÅ‘vÃ¡sÃ¡rlÃ¡si jogukat ezen nyilvÃ¡nos pÃ¡lyÃ¡zaton (nyilvÃ¡nos Ã©rtÃ©kesÃ­tÃ©sen) gyakorolhatjÃ¡k.<ujsor/>
+Az elÅ‘vÃ¡sÃ¡rlÃ¡si jog gyakorlÃ¡sa Ã©rdekÃ©ben a felszÃ¡molÃ³ felhÃ­vja az Ã©rdekeltek figyelmÃ©t arra, hogy a jog gyakorlÃ¡sÃ¡ra irÃ¡nyulÃ³ szÃ¡ndÃ©kukat a pÃ¡lyÃ¡zatok benyÃºjtÃ¡si hatÃ¡ridejÃ©ig Ã­rÃ¡sban bejelenteni szÃ­veskedjenek.<ujsor/>
+A felszÃ¡molÃ³ a pÃ¡lyÃ¡zatot megfelelÅ‘ ajÃ¡nlat hiÃ¡nyÃ¡ban eredmÃ©nytelennek nyilvÃ¡nÃ­thatja, Ã©s Ãºj pÃ¡lyÃ¡zatot Ã­rhat ki. MegfelelÅ‘, azonos Ã©rtÃ©kÅ± pÃ¡lyÃ¡zatok esetÃ©n az ajÃ¡nlattevÅ‘k kÃ¶zÃ¶tt nyilvÃ¡nos Ã¡rtÃ¡rgyalÃ¡s megtartÃ¡sÃ¡ra kerÃ¼l sor, melynek feltÃ©teleit az Ã¡rtÃ¡rgyalÃ¡s megkezdÃ©sÃ©t megelÅ‘zÅ‘en a rÃ©sztvevÅ‘kkel a felszÃ¡molÃ³biztos ismerteti.<ujsor/>
+BÅ‘vebb felvilÃ¡gosÃ­tÃ¡s kaphatÃ³ dr. SzabÃ³ ErnÅ‘ felszÃ¡molÃ³biztostÃ³l a 06 (92) 510-466, 06 (92) 321-236-os telefonszÃ¡mokon [telefax: 06 (92) 510-426].<ujsor/>
 </mezo>
 <mezo id = "cjsz">1809106800</mezo>
-<mezo id = "nev">FOOD AND PACK Termelési, Kereskedelmi és Mûszaki Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">FOOD AND PACK TermelÃ©si, Kereskedelmi Ã©s MÅ±szaki TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">9700 Szombathely</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A HELP Kereskedelmi Szolgáltató és Tanácsadó Zrt. (cégjegyzékszáma: [18 09 000505]; 9700 Szombathely, Kiskar u. 1.) mint a FOOD AND PACK Termelési, Kereskedelmi és Mûszaki Tanácsadó Kft. „f. a.” (cégjegyzékszáma: [18 09 106800]; 9700 Szombathely, Szent Flórián krt. 2.; adószáma: [10621693-2-18]), a Vas Megyei Bíróság 5. Fpk. 18-06-000082/4. számú végzésével kijelölt felszámolója<ujsor/>
-nyilvános pályázat<ujsor/>
-útján értékesíteni kívánja a felszámolás alatt álló társaság tulajdonát képezõ, becsehelyi 0201. hrsz.-ú, külterületen lévõ, kivett mûvelési ágú, szarvasmarhatelep elnevezésû, 29 527 m2 nagyságú ingatlant és a rajta lévõ három darab, egyenként 300 férõhelyes, összesen 900 férõhelyes, szarvasmarhatartásra, illetve hizlalásra alkalmas istállókat és a szarvasmarhatelep mûködését biztosító kiszolgáló létesítményeket.<ujsor/>
-Irányár: 80 000 000 Ft + áfa (nyolcvanmillió forint + áfa). Bánatpénz: 10 000 000 Ft (tízmillió forint).<ujsor/>
-A pályázatnak tartalmaznia kell a pályázó nevét, pontos címét, a beígért vételárat (nettó ár Ft + áfa). A pályázathoz mellékelni kell, ha a pályázó vállalkozó, a vállalkozói igazolvány másolatát, gazdasági társaságnál a cégkivonatot, illetve másolatát, minden esetben a pályázó adószámát, statisztikai és pénzforgalmi jelzõszámát, valamint a bánatpénz befizetését (átutalását) bizonyító banki igazolást.<ujsor/>
-A pályázatban való részvétel feltétele a bánatpénz befizetése, legkésõbb a pályázat benyújtásának idõpontjáig a felszámoló által az érdeklõdõknek megadott bankszámlára.<ujsor/>
-A vételárba a hitelezõi követelések beszámítására nincs lehetõség, ezt a felszámoló kizárja.<ujsor/>
-Az értékesítésre kerülõ ingatlanért és annak egyes részeiért a felszámoló kellékszavatosságot nem vállal, azokat a pályázó megtekintett és megvizsgált állapotban veszi meg azzal, hogy a tulajdonjog változásával kapcsolatos vagyonátruházási illeték, vagy valamennyi más költség a pályázót (vevõt) terheli, továbbá az esetleg késõbb felmerülõ és az adásvétel idõpontjában nem ismert környezeti terhet is a vevõ viseli.<ujsor/>
-A teljes vételár kiegyenlítése az egyes adásvételi szerzõdések létrejöttének és a birtokbalépésnek is elõfeltétele.<ujsor/>
-A pályázatokat legkésõbb ­ az ajánlott vételár és fizetési mód megjelölésével ­ a Cégközlönyben való megjelenéstõl számított 45. napon, délelõtt 10 óráig kérjük írásban, személyesen vagy postai úton benyújtani a felszámoló irodájába: 9700 Szombathely, Kiskar u. 1. (postacím: HELP Kft., 9700 Szombathely, Pf. 67), vagy a zalaegerszegi irodájába: 8900 Zalaegerszeg, Békeligeti u. 1. (postacíme: HELP Kft., 8901 Zalaegerszeg, Pf. 19).<ujsor/>
-A zárt borítékra kérjük ráírni: „FOOD AND PACK Kft. f. a. Pályázat”.<ujsor/>
-A pályázatok bontása és elbírálása a benyújtási határidõ lejárta után számított 20 munkanapon belül megtörténik.<ujsor/>
-A felszámoló értesíti az elõvásárlásra jogosultakat, hogy elõvásárlási jogukat ezen nyilvános pályázaton (nyilvános értékesítésen) gyakorolhatják.<ujsor/>
-Az elõvásárlási jog gyakorlása érdekében a felszámoló felhívja az érdekeltek figyelmét arra, hogy a jog gyakorlására irányuló szándékukat a pályázatok benyújtási határidejéig írásban bejelenteni szíveskedjenek.<ujsor/>
-A felszámoló a pályázatot megfelelõ ajánlat hiányában eredménytelennek nyilváníthatja, és új pályázatot írhat ki. Megfelelõ, azonos értékû pályázatok esetén az ajánlattevõk között nyilvános ártárgyalás megtartására kerül sor, melynek feltételeit az ártárgyalás megkezdését megelõzõen a résztvevõkkel a felszámolóbiztos ismerteti.<ujsor/>
-Bõvebb felvilágosítás kapható dr. Szabó Ernõ felszámolóbiztostól, a 06 (92) 510-466, 06 (92) 321-236-os telefonszámokon [telefax: 06 (92) 510-426].<ujsor/>
+<mezo id = "szoveg">A HELP Kereskedelmi SzolgÃ¡ltatÃ³ Ã©s TanÃ¡csadÃ³ Zrt. (cÃ©gjegyzÃ©kszÃ¡ma: [18 09 000505]; 9700 Szombathely, Kiskar u. 1.) mint a FOOD AND PACK TermelÃ©si, Kereskedelmi Ã©s MÅ±szaki TanÃ¡csadÃ³ Kft. â€f. a.â€ (cÃ©gjegyzÃ©kszÃ¡ma: [18 09 106800]; 9700 Szombathely, Szent FlÃ³riÃ¡n krt. 2.; adÃ³szÃ¡ma: [10621693-2-18]), a Vas Megyei BÃ­rÃ³sÃ¡g 5. Fpk. 18-06-000082/4. szÃ¡mÃº vÃ©gzÃ©sÃ©vel kijelÃ¶lt felszÃ¡molÃ³ja<ujsor/>
+nyilvÃ¡nos pÃ¡lyÃ¡zat<ujsor/>
+ÃºtjÃ¡n Ã©rtÃ©kesÃ­teni kÃ­vÃ¡nja a felszÃ¡molÃ¡s alatt Ã¡llÃ³ tÃ¡rsasÃ¡g tulajdonÃ¡t kÃ©pezÅ‘, becsehelyi 0201. hrsz.-Ãº, kÃ¼lterÃ¼leten lÃ©vÅ‘, kivett mÅ±velÃ©si Ã¡gÃº, szarvasmarhatelep elnevezÃ©sÅ±, 29 527 m2 nagysÃ¡gÃº ingatlant Ã©s a rajta lÃ©vÅ‘ hÃ¡rom darab, egyenkÃ©nt 300 fÃ©rÅ‘helyes, Ã¶sszesen 900 fÃ©rÅ‘helyes, szarvasmarhatartÃ¡sra, illetve hizlalÃ¡sra alkalmas istÃ¡llÃ³kat Ã©s a szarvasmarhatelep mÅ±kÃ¶dÃ©sÃ©t biztosÃ­tÃ³ kiszolgÃ¡lÃ³ lÃ©tesÃ­tmÃ©nyeket.<ujsor/>
+IrÃ¡nyÃ¡r: 80 000 000 Ft + Ã¡fa (nyolcvanmilliÃ³ forint + Ã¡fa). BÃ¡natpÃ©nz: 10 000 000 Ft (tÃ­zmilliÃ³ forint).<ujsor/>
+A pÃ¡lyÃ¡zatnak tartalmaznia kell a pÃ¡lyÃ¡zÃ³ nevÃ©t, pontos cÃ­mÃ©t, a beÃ­gÃ©rt vÃ©telÃ¡rat (nettÃ³ Ã¡r Ft + Ã¡fa). A pÃ¡lyÃ¡zathoz mellÃ©kelni kell, ha a pÃ¡lyÃ¡zÃ³ vÃ¡llalkozÃ³, a vÃ¡llalkozÃ³i igazolvÃ¡ny mÃ¡solatÃ¡t, gazdasÃ¡gi tÃ¡rsasÃ¡gnÃ¡l a cÃ©gkivonatot, illetve mÃ¡solatÃ¡t, minden esetben a pÃ¡lyÃ¡zÃ³ adÃ³szÃ¡mÃ¡t, statisztikai Ã©s pÃ©nzforgalmi jelzÅ‘szÃ¡mÃ¡t, valamint a bÃ¡natpÃ©nz befizetÃ©sÃ©t (Ã¡tutalÃ¡sÃ¡t) bizonyÃ­tÃ³ banki igazolÃ¡st.<ujsor/>
+A pÃ¡lyÃ¡zatban valÃ³ rÃ©szvÃ©tel feltÃ©tele a bÃ¡natpÃ©nz befizetÃ©se, legkÃ©sÅ‘bb a pÃ¡lyÃ¡zat benyÃºjtÃ¡sÃ¡nak idÅ‘pontjÃ¡ig a felszÃ¡molÃ³ Ã¡ltal az Ã©rdeklÅ‘dÅ‘knek megadott bankszÃ¡mlÃ¡ra.<ujsor/>
+A vÃ©telÃ¡rba a hitelezÅ‘i kÃ¶vetelÃ©sek beszÃ¡mÃ­tÃ¡sÃ¡ra nincs lehetÅ‘sÃ©g, ezt a felszÃ¡molÃ³ kizÃ¡rja.<ujsor/>
+Az Ã©rtÃ©kesÃ­tÃ©sre kerÃ¼lÅ‘ ingatlanÃ©rt Ã©s annak egyes rÃ©szeiÃ©rt a felszÃ¡molÃ³ kellÃ©kszavatossÃ¡got nem vÃ¡llal, azokat a pÃ¡lyÃ¡zÃ³ megtekintett Ã©s megvizsgÃ¡lt Ã¡llapotban veszi meg azzal, hogy a tulajdonjog vÃ¡ltozÃ¡sÃ¡val kapcsolatos vagyonÃ¡truhÃ¡zÃ¡si illetÃ©k, vagy valamennyi mÃ¡s kÃ¶ltsÃ©g a pÃ¡lyÃ¡zÃ³t (vevÅ‘t) terheli, tovÃ¡bbÃ¡ az esetleg kÃ©sÅ‘bb felmerÃ¼lÅ‘ Ã©s az adÃ¡svÃ©tel idÅ‘pontjÃ¡ban nem ismert kÃ¶rnyezeti terhet is a vevÅ‘ viseli.<ujsor/>
+A teljes vÃ©telÃ¡r kiegyenlÃ­tÃ©se az egyes adÃ¡svÃ©teli szerzÅ‘dÃ©sek lÃ©trejÃ¶ttÃ©nek Ã©s a birtokbalÃ©pÃ©snek is elÅ‘feltÃ©tele.<ujsor/>
+A pÃ¡lyÃ¡zatokat legkÃ©sÅ‘bb Â­ az ajÃ¡nlott vÃ©telÃ¡r Ã©s fizetÃ©si mÃ³d megjelÃ¶lÃ©sÃ©vel Â­ a CÃ©gkÃ¶zlÃ¶nyben valÃ³ megjelenÃ©stÅ‘l szÃ¡mÃ­tott 45. napon, dÃ©lelÅ‘tt 10 Ã³rÃ¡ig kÃ©rjÃ¼k Ã­rÃ¡sban, szemÃ©lyesen vagy postai Ãºton benyÃºjtani a felszÃ¡molÃ³ irodÃ¡jÃ¡ba: 9700 Szombathely, Kiskar u. 1. (postacÃ­m: HELP Kft., 9700 Szombathely, Pf. 67), vagy a zalaegerszegi irodÃ¡jÃ¡ba: 8900 Zalaegerszeg, BÃ©keligeti u. 1. (postacÃ­me: HELP Kft., 8901 Zalaegerszeg, Pf. 19).<ujsor/>
+A zÃ¡rt borÃ­tÃ©kra kÃ©rjÃ¼k rÃ¡Ã­rni: â€FOOD AND PACK Kft. f. a. PÃ¡lyÃ¡zatâ€.<ujsor/>
+A pÃ¡lyÃ¡zatok bontÃ¡sa Ã©s elbÃ­rÃ¡lÃ¡sa a benyÃºjtÃ¡si hatÃ¡ridÅ‘ lejÃ¡rta utÃ¡n szÃ¡mÃ­tott 20 munkanapon belÃ¼l megtÃ¶rtÃ©nik.<ujsor/>
+A felszÃ¡molÃ³ Ã©rtesÃ­ti az elÅ‘vÃ¡sÃ¡rlÃ¡sra jogosultakat, hogy elÅ‘vÃ¡sÃ¡rlÃ¡si jogukat ezen nyilvÃ¡nos pÃ¡lyÃ¡zaton (nyilvÃ¡nos Ã©rtÃ©kesÃ­tÃ©sen) gyakorolhatjÃ¡k.<ujsor/>
+Az elÅ‘vÃ¡sÃ¡rlÃ¡si jog gyakorlÃ¡sa Ã©rdekÃ©ben a felszÃ¡molÃ³ felhÃ­vja az Ã©rdekeltek figyelmÃ©t arra, hogy a jog gyakorlÃ¡sÃ¡ra irÃ¡nyulÃ³ szÃ¡ndÃ©kukat a pÃ¡lyÃ¡zatok benyÃºjtÃ¡si hatÃ¡ridejÃ©ig Ã­rÃ¡sban bejelenteni szÃ­veskedjenek.<ujsor/>
+A felszÃ¡molÃ³ a pÃ¡lyÃ¡zatot megfelelÅ‘ ajÃ¡nlat hiÃ¡nyÃ¡ban eredmÃ©nytelennek nyilvÃ¡nÃ­thatja, Ã©s Ãºj pÃ¡lyÃ¡zatot Ã­rhat ki. MegfelelÅ‘, azonos Ã©rtÃ©kÅ± pÃ¡lyÃ¡zatok esetÃ©n az ajÃ¡nlattevÅ‘k kÃ¶zÃ¶tt nyilvÃ¡nos Ã¡rtÃ¡rgyalÃ¡s megtartÃ¡sÃ¡ra kerÃ¼l sor, melynek feltÃ©teleit az Ã¡rtÃ¡rgyalÃ¡s megkezdÃ©sÃ©t megelÅ‘zÅ‘en a rÃ©sztvevÅ‘kkel a felszÃ¡molÃ³biztos ismerteti.<ujsor/>
+BÅ‘vebb felvilÃ¡gosÃ­tÃ¡s kaphatÃ³ dr. SzabÃ³ ErnÅ‘ felszÃ¡molÃ³biztostÃ³l, a 06 (92) 510-466, 06 (92) 321-236-os telefonszÃ¡mokon [telefax: 06 (92) 510-426].<ujsor/>
 </mezo>
 <mezo id = "cjsz">1809106800</mezo>
-<mezo id = "nev">FOOD AND PACK Termelési, Kereskedelmi és Mûszaki Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">FOOD AND PACK TermelÃ©si, Kereskedelmi Ã©s MÅ±szaki TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">9700 Szombathely</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A HELP Kereskedelmi Szolgáltató és Tanácsadó Kft. (cégjegyzékszáma: [18 09 000505]; 9700 Szombathely, Kiskar u. 1.) mint a FOOD AND PACK Termelési, Kereskedelmi és Mûszaki Tanácsadó Kft. „f. a.” (cégjegyzékszáma: [18 09 106800]; 9700 Szombathely, Szent Flórián krt. 2.; adószáma: [10621693-2-18]), a Vas Megyei Bíróság 5. Fpk. 18-06-000082/4. számú végzésével kijelölt felszámolója<ujsor/>
-nyilvános pályázat<ujsor/>
-útján értékesíteni kívánja a felszámolás alatt álló társaság tulajdonát képezõ, becsehelyi 0201. hrsz.-ú, külterületen lévõ, kivett mûvelési ágú, szarvasmarhatelep elnevezésû, 29 527 m2 nagyságú ingatlant és a rajta lévõ három darab, egyenként 300 férõhelyes, összesen 900 férõhelyes, szarvasmarhatartásra, illetve hizlalásra alkalmas istállókat és a szarvasmarhatelep mûködését biztosító kiszolgáló létesítményeket.<ujsor/>
-Irányár: 80 000 000 Ft + áfa (nyolcvanmillió forint + áfa).<ujsor/>
-Bánatpénz: 10 000 000 Ft (tízmillió forint).<ujsor/>
-A pályázatnak tartalmaznia kell a pályázó nevét, pontos címét, a beígért vételárat (nettó ár Ft + áfa). A pályázathoz mellékelni kell, ha a pályázó vállalkozó, a vállalkozói igazolvány másolatát, gazdasági társaságnál a cégkivonatot, illetve másolatát, minden esetben a pályázó adószámát, statisztikai és pénzforgalmi jelzõszámát, valamint a bánatpénz befizetését (átutalását) bizonyító banki igazolást.<ujsor/>
-A pályázatban való részvétel feltétele a bánatpénz befizetése, legkésõbb a pályázat benyújtásának idõpontjáig a felszámoló által az érdeklõdõknek megadott bankszámlára.<ujsor/>
-A vételárba a hitelezõi követelések beszámítására nincs lehetõség, ezt a felszámoló kizárja.<ujsor/>
-Az értékesítésre kerülõ ingatlanért és annak egyes részeiért a felszámoló kellékszavatosságot nem vállal, azokat a pályázó megtekintett és megvizsgált állapotban veszi meg azzal, hogy a tulajdonjog változásával kapcsolatos vagyonátruházási illeték, vagy valamennyi más költség a pályázót (vevõt) terheli, továbbá az esetleg késõbb felmerülõ és az adásvétel idõpontjában nem ismert környezeti terhet is a vevõ viseli.<ujsor/>
-A teljes vételár kiegyenlítése az egyes adásvételi szerzõdések létrejöttének és a birtokbalépésnek is elõfeltétele.<ujsor/>
-A pályázatokat legkésõbb ­ az ajánlott vételár és fizetési mód megjelölésével ­ a Cégközlönyben való megjelenéstõl számított 45. napon, délelõtt 10 óráig kérjük írásban, személyesen vagy postai úton benyújtani a felszámoló irodájába: 9700 Szombathely, Kiskar u. 1. (postacím: HELP Kft., 9700 Szombathely, Pf. 67), vagy a zalaegerszegi irodájába: 8900 Zalaegerszeg, Békeligeti u. 1. (postacíme: HELP Kft., 8901 Zalaegerszeg, Pf. 19).<ujsor/>
-A zárt borítékra kérjük ráírni: „FOOD AND PACK Kft. f. a. Pályázat”.<ujsor/>
-A pályázatok bontása és elbírálása a benyújtási határidõ lejárta után számított 20 munkanapon belül megtörténik.<ujsor/>
-A felszámoló értesíti az elõvásárlásra jogosultakat, hogy elõvásárlási jogukat ezen nyilvános pályázaton (nyilvános értékesítésen) gyakorolhatják.<ujsor/>
-Az elõvásárlási jog gyakorlása érdekében a felszámoló felhívja az érdekeltek figyelmét arra, hogy a jog gyakorlására irányuló szándékukat a pályázatok benyújtási határidejéig írásban bejelenteni szíveskedjenek.<ujsor/>
-A felszámoló a pályázatot megfelelõ ajánlat hiányában eredménytelennek nyilváníthatja, és új pályázatot írhat ki. Megfelelõ, azonos értékû pályázatok esetén az ajánlattevõk között nyilvános ártárgyalás megtartására kerül sor, melynek feltételeit az ártárgyalás megkezdését megelõzõen a résztvevõkkel a felszámolóbiztos ismerteti.<ujsor/>
-Bõvebb felvilágosítás kapható dr. Szabó Ernõ felszámolóbiztostól a 06 (92) 510-466, 06 (92) 321-236-os telefonszámokon [telefax: 06 (92) 510-426].<ujsor/>
+<mezo id = "szoveg">A HELP Kereskedelmi SzolgÃ¡ltatÃ³ Ã©s TanÃ¡csadÃ³ Kft. (cÃ©gjegyzÃ©kszÃ¡ma: [18 09 000505]; 9700 Szombathely, Kiskar u. 1.) mint a FOOD AND PACK TermelÃ©si, Kereskedelmi Ã©s MÅ±szaki TanÃ¡csadÃ³ Kft. â€f. a.â€ (cÃ©gjegyzÃ©kszÃ¡ma: [18 09 106800]; 9700 Szombathely, Szent FlÃ³riÃ¡n krt. 2.; adÃ³szÃ¡ma: [10621693-2-18]), a Vas Megyei BÃ­rÃ³sÃ¡g 5. Fpk. 18-06-000082/4. szÃ¡mÃº vÃ©gzÃ©sÃ©vel kijelÃ¶lt felszÃ¡molÃ³ja<ujsor/>
+nyilvÃ¡nos pÃ¡lyÃ¡zat<ujsor/>
+ÃºtjÃ¡n Ã©rtÃ©kesÃ­teni kÃ­vÃ¡nja a felszÃ¡molÃ¡s alatt Ã¡llÃ³ tÃ¡rsasÃ¡g tulajdonÃ¡t kÃ©pezÅ‘, becsehelyi 0201. hrsz.-Ãº, kÃ¼lterÃ¼leten lÃ©vÅ‘, kivett mÅ±velÃ©si Ã¡gÃº, szarvasmarhatelep elnevezÃ©sÅ±, 29 527 m2 nagysÃ¡gÃº ingatlant Ã©s a rajta lÃ©vÅ‘ hÃ¡rom darab, egyenkÃ©nt 300 fÃ©rÅ‘helyes, Ã¶sszesen 900 fÃ©rÅ‘helyes, szarvasmarhatartÃ¡sra, illetve hizlalÃ¡sra alkalmas istÃ¡llÃ³kat Ã©s a szarvasmarhatelep mÅ±kÃ¶dÃ©sÃ©t biztosÃ­tÃ³ kiszolgÃ¡lÃ³ lÃ©tesÃ­tmÃ©nyeket.<ujsor/>
+IrÃ¡nyÃ¡r: 80 000 000 Ft + Ã¡fa (nyolcvanmilliÃ³ forint + Ã¡fa).<ujsor/>
+BÃ¡natpÃ©nz: 10 000 000 Ft (tÃ­zmilliÃ³ forint).<ujsor/>
+A pÃ¡lyÃ¡zatnak tartalmaznia kell a pÃ¡lyÃ¡zÃ³ nevÃ©t, pontos cÃ­mÃ©t, a beÃ­gÃ©rt vÃ©telÃ¡rat (nettÃ³ Ã¡r Ft + Ã¡fa). A pÃ¡lyÃ¡zathoz mellÃ©kelni kell, ha a pÃ¡lyÃ¡zÃ³ vÃ¡llalkozÃ³, a vÃ¡llalkozÃ³i igazolvÃ¡ny mÃ¡solatÃ¡t, gazdasÃ¡gi tÃ¡rsasÃ¡gnÃ¡l a cÃ©gkivonatot, illetve mÃ¡solatÃ¡t, minden esetben a pÃ¡lyÃ¡zÃ³ adÃ³szÃ¡mÃ¡t, statisztikai Ã©s pÃ©nzforgalmi jelzÅ‘szÃ¡mÃ¡t, valamint a bÃ¡natpÃ©nz befizetÃ©sÃ©t (Ã¡tutalÃ¡sÃ¡t) bizonyÃ­tÃ³ banki igazolÃ¡st.<ujsor/>
+A pÃ¡lyÃ¡zatban valÃ³ rÃ©szvÃ©tel feltÃ©tele a bÃ¡natpÃ©nz befizetÃ©se, legkÃ©sÅ‘bb a pÃ¡lyÃ¡zat benyÃºjtÃ¡sÃ¡nak idÅ‘pontjÃ¡ig a felszÃ¡molÃ³ Ã¡ltal az Ã©rdeklÅ‘dÅ‘knek megadott bankszÃ¡mlÃ¡ra.<ujsor/>
+A vÃ©telÃ¡rba a hitelezÅ‘i kÃ¶vetelÃ©sek beszÃ¡mÃ­tÃ¡sÃ¡ra nincs lehetÅ‘sÃ©g, ezt a felszÃ¡molÃ³ kizÃ¡rja.<ujsor/>
+Az Ã©rtÃ©kesÃ­tÃ©sre kerÃ¼lÅ‘ ingatlanÃ©rt Ã©s annak egyes rÃ©szeiÃ©rt a felszÃ¡molÃ³ kellÃ©kszavatossÃ¡got nem vÃ¡llal, azokat a pÃ¡lyÃ¡zÃ³ megtekintett Ã©s megvizsgÃ¡lt Ã¡llapotban veszi meg azzal, hogy a tulajdonjog vÃ¡ltozÃ¡sÃ¡val kapcsolatos vagyonÃ¡truhÃ¡zÃ¡si illetÃ©k, vagy valamennyi mÃ¡s kÃ¶ltsÃ©g a pÃ¡lyÃ¡zÃ³t (vevÅ‘t) terheli, tovÃ¡bbÃ¡ az esetleg kÃ©sÅ‘bb felmerÃ¼lÅ‘ Ã©s az adÃ¡svÃ©tel idÅ‘pontjÃ¡ban nem ismert kÃ¶rnyezeti terhet is a vevÅ‘ viseli.<ujsor/>
+A teljes vÃ©telÃ¡r kiegyenlÃ­tÃ©se az egyes adÃ¡svÃ©teli szerzÅ‘dÃ©sek lÃ©trejÃ¶ttÃ©nek Ã©s a birtokbalÃ©pÃ©snek is elÅ‘feltÃ©tele.<ujsor/>
+A pÃ¡lyÃ¡zatokat legkÃ©sÅ‘bb Â­ az ajÃ¡nlott vÃ©telÃ¡r Ã©s fizetÃ©si mÃ³d megjelÃ¶lÃ©sÃ©vel Â­ a CÃ©gkÃ¶zlÃ¶nyben valÃ³ megjelenÃ©stÅ‘l szÃ¡mÃ­tott 45. napon, dÃ©lelÅ‘tt 10 Ã³rÃ¡ig kÃ©rjÃ¼k Ã­rÃ¡sban, szemÃ©lyesen vagy postai Ãºton benyÃºjtani a felszÃ¡molÃ³ irodÃ¡jÃ¡ba: 9700 Szombathely, Kiskar u. 1. (postacÃ­m: HELP Kft., 9700 Szombathely, Pf. 67), vagy a zalaegerszegi irodÃ¡jÃ¡ba: 8900 Zalaegerszeg, BÃ©keligeti u. 1. (postacÃ­me: HELP Kft., 8901 Zalaegerszeg, Pf. 19).<ujsor/>
+A zÃ¡rt borÃ­tÃ©kra kÃ©rjÃ¼k rÃ¡Ã­rni: â€FOOD AND PACK Kft. f. a. PÃ¡lyÃ¡zatâ€.<ujsor/>
+A pÃ¡lyÃ¡zatok bontÃ¡sa Ã©s elbÃ­rÃ¡lÃ¡sa a benyÃºjtÃ¡si hatÃ¡ridÅ‘ lejÃ¡rta utÃ¡n szÃ¡mÃ­tott 20 munkanapon belÃ¼l megtÃ¶rtÃ©nik.<ujsor/>
+A felszÃ¡molÃ³ Ã©rtesÃ­ti az elÅ‘vÃ¡sÃ¡rlÃ¡sra jogosultakat, hogy elÅ‘vÃ¡sÃ¡rlÃ¡si jogukat ezen nyilvÃ¡nos pÃ¡lyÃ¡zaton (nyilvÃ¡nos Ã©rtÃ©kesÃ­tÃ©sen) gyakorolhatjÃ¡k.<ujsor/>
+Az elÅ‘vÃ¡sÃ¡rlÃ¡si jog gyakorlÃ¡sa Ã©rdekÃ©ben a felszÃ¡molÃ³ felhÃ­vja az Ã©rdekeltek figyelmÃ©t arra, hogy a jog gyakorlÃ¡sÃ¡ra irÃ¡nyulÃ³ szÃ¡ndÃ©kukat a pÃ¡lyÃ¡zatok benyÃºjtÃ¡si hatÃ¡ridejÃ©ig Ã­rÃ¡sban bejelenteni szÃ­veskedjenek.<ujsor/>
+A felszÃ¡molÃ³ a pÃ¡lyÃ¡zatot megfelelÅ‘ ajÃ¡nlat hiÃ¡nyÃ¡ban eredmÃ©nytelennek nyilvÃ¡nÃ­thatja, Ã©s Ãºj pÃ¡lyÃ¡zatot Ã­rhat ki. MegfelelÅ‘, azonos Ã©rtÃ©kÅ± pÃ¡lyÃ¡zatok esetÃ©n az ajÃ¡nlattevÅ‘k kÃ¶zÃ¶tt nyilvÃ¡nos Ã¡rtÃ¡rgyalÃ¡s megtartÃ¡sÃ¡ra kerÃ¼l sor, melynek feltÃ©teleit az Ã¡rtÃ¡rgyalÃ¡s megkezdÃ©sÃ©t megelÅ‘zÅ‘en a rÃ©sztvevÅ‘kkel a felszÃ¡molÃ³biztos ismerteti.<ujsor/>
+BÅ‘vebb felvilÃ¡gosÃ­tÃ¡s kaphatÃ³ dr. SzabÃ³ ErnÅ‘ felszÃ¡molÃ³biztostÃ³l a 06 (92) 510-466, 06 (92) 321-236-os telefonszÃ¡mokon [telefax: 06 (92) 510-426].<ujsor/>
 </mezo>
 <mezo id = "cjsz">1809106800</mezo>
-<mezo id = "nev">FOOD AND PACK Termelési, Kereskedelmi és Mûszaki Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">FOOD AND PACK TermelÃ©si, Kereskedelmi Ã©s MÅ±szaki TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">9700 Szombathely</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A HELP Kereskedelmi Szolgáltató és Tanácsadó Kft. (cégjegyzékszáma: [18 09 000505]; 9700 Szombathely, Kiskar u. 1.) mint a FOOD AND PACK Termelési, Kereskedelmi és Mûszaki Tanácsadó Kft. „f. a.” (cégjegyzékszáma: [18 09 106800]; 9700 Szombathely, Szent Flórián krt. 2.; adószáma: [10621693-2-18]), a Vas Megyei Bíróság 5. Fpk. 18-06-000082/4. számú végzésével kijelölt felszámolója<ujsor/>
-nyilvános pályázat<ujsor/>
-útján értékesíteni kívánja a felszámolás alatt álló társaság tulajdonát képezõ, becsehelyi 0201. hrsz.-ú, külterületen lévõ, kivett mûvelési ágú, szarvasmarhatelep elnevezésû, 29 527 m2 nagyságú ingatlant és a rajta lévõ három darab, egyenként 300 férõhelyes, összesen 900 férõhelyes, szarvasmarhatartásra, illetve -hizlalásra alkalmas istállókat és a szarvasmarhatelep mûködését biztosító kiszolgáló létesítményeket.<ujsor/>
-Irányár: 80 000 000 Ft + áfa (nyolcvanmillió forint + áfa). Bánatpénz: 10 000 000 Ft (tízmillió forint).<ujsor/>
-A pályázatnak tartalmaznia kell a pályázó nevét, pontos címét, a beígért vételárat (nettó ár Ft + áfa). A pályázathoz mellékelni kell, ha a pályázó vállalkozó, a vállalkozói igazolvány másolatát, gazdasági társaságnál a cégkivonatot, illetve másolatát, minden esetben a pályázó adószámát, statisztikai és pénzforgalmi jelzõszámát, valamint a bánatpénz befizetését (átutalását) bizonyító banki igazolást.<ujsor/>
-A pályázatban való részvétel feltétele a bánatpénz befizetése, legkésõbb a pályázat benyújtásának idõpontjáig a felszámoló által az érdeklõdõknek megadott bankszámlára.<ujsor/>
-A vételárba a hitelezõi követelések beszámítására nincs lehetõség, ezt a felszámoló kizárja.<ujsor/>
-Az értékesítésre kerülõ ingatlanért és annak egyes részeiért a felszámoló kellékszavatosságot nem vállal, azokat a pályázó megtekintett és megvizsgált állapotban veszi meg azzal, hogy a tulajdonjog változásával kapcsolatos vagyonátruházási illeték, vagy valamennyi más költség a pályázót (vevõt) terheli, továbbá az eset legkésõbb felmerülõ, és az adásvétel idõpontjában nem ismert környezeti terhet is a vevõ viseli.<ujsor/>
-A teljes vételár kiegyenlítése az egyes adásvételi szerzõdések létrejöttének és a birtokbalépésnek is elõfeltétele.<ujsor/>
-A pályázatokat legkésõbb ­ az ajánlott vételár és fizetési mód megjelölésével ­ a Cégközlönyben való megjelenéstõl számított 45. napon, délelõtt 10 óráig kérjük írásban, személyesen vagy postai úton benyújtani a felszámoló irodájába: 9700 Szombathely, Kiskar u. 1. (postacím: HELP Kft., 9700 Szombathely, Pf. 67), vagy a zalaegerszegi irodájába: 8900 Zalaegerszeg, Békeligeti u. 1. (postacíme: HELP Kft., 8901 Zalaegerszeg, Pf. 19).<ujsor/>
-A zárt borítékra kérjük ráírni: „FOOD AND PACK Kft. f. a. Pályázat”.<ujsor/>
-A pályázatok bontása és elbírálása a benyújtási határidõ lejárta után számított 20 munkanapon belül megtörténik.<ujsor/>
-A felszámoló értesíti az elõvásárlásra jogosultakat, hogy elõvásárlási jogukat ezen nyilvános pályázaton (nyilvános értékesítésen) gyakorolhatják.<ujsor/>
-Az elõvásárlási jog gyakorlása érdekében a felszámoló felhívja az érdekeltek figyelmét arra, hogy a jog gyakorlására irányuló szándékukat a pályázatok benyújtási határidejéig írásban bejelenteni szíveskedjenek.<ujsor/>
-A felszámoló a pályázatot megfelelõ ajánlat hiányában eredménytelennek nyilváníthatja, és új pályázatot írhat ki. Megfelelõ, azonos értékû pályázatok esetén az ajánlattevõk között nyilvános ártárgyalás megtartására kerül sor, melynek feltételeit az ártárgyalás megkezdését megelõzõen a résztvevõkkel a felszámolóbiztos ismerteti.<ujsor/>
-Bõvebb felvilágosítás kapható dr. Szabó Ernõ felszámolóbiztostól a 06 (92) 510-466, 06 (92) 321-236-os telefonszámokon [telefax: 06 (92) 510-426].<ujsor/>
+<mezo id = "szoveg">A HELP Kereskedelmi SzolgÃ¡ltatÃ³ Ã©s TanÃ¡csadÃ³ Kft. (cÃ©gjegyzÃ©kszÃ¡ma: [18 09 000505]; 9700 Szombathely, Kiskar u. 1.) mint a FOOD AND PACK TermelÃ©si, Kereskedelmi Ã©s MÅ±szaki TanÃ¡csadÃ³ Kft. â€f. a.â€ (cÃ©gjegyzÃ©kszÃ¡ma: [18 09 106800]; 9700 Szombathely, Szent FlÃ³riÃ¡n krt. 2.; adÃ³szÃ¡ma: [10621693-2-18]), a Vas Megyei BÃ­rÃ³sÃ¡g 5. Fpk. 18-06-000082/4. szÃ¡mÃº vÃ©gzÃ©sÃ©vel kijelÃ¶lt felszÃ¡molÃ³ja<ujsor/>
+nyilvÃ¡nos pÃ¡lyÃ¡zat<ujsor/>
+ÃºtjÃ¡n Ã©rtÃ©kesÃ­teni kÃ­vÃ¡nja a felszÃ¡molÃ¡s alatt Ã¡llÃ³ tÃ¡rsasÃ¡g tulajdonÃ¡t kÃ©pezÅ‘, becsehelyi 0201. hrsz.-Ãº, kÃ¼lterÃ¼leten lÃ©vÅ‘, kivett mÅ±velÃ©si Ã¡gÃº, szarvasmarhatelep elnevezÃ©sÅ±, 29 527 m2 nagysÃ¡gÃº ingatlant Ã©s a rajta lÃ©vÅ‘ hÃ¡rom darab, egyenkÃ©nt 300 fÃ©rÅ‘helyes, Ã¶sszesen 900 fÃ©rÅ‘helyes, szarvasmarhatartÃ¡sra, illetve -hizlalÃ¡sra alkalmas istÃ¡llÃ³kat Ã©s a szarvasmarhatelep mÅ±kÃ¶dÃ©sÃ©t biztosÃ­tÃ³ kiszolgÃ¡lÃ³ lÃ©tesÃ­tmÃ©nyeket.<ujsor/>
+IrÃ¡nyÃ¡r: 80 000 000 Ft + Ã¡fa (nyolcvanmilliÃ³ forint + Ã¡fa). BÃ¡natpÃ©nz: 10 000 000 Ft (tÃ­zmilliÃ³ forint).<ujsor/>
+A pÃ¡lyÃ¡zatnak tartalmaznia kell a pÃ¡lyÃ¡zÃ³ nevÃ©t, pontos cÃ­mÃ©t, a beÃ­gÃ©rt vÃ©telÃ¡rat (nettÃ³ Ã¡r Ft + Ã¡fa). A pÃ¡lyÃ¡zathoz mellÃ©kelni kell, ha a pÃ¡lyÃ¡zÃ³ vÃ¡llalkozÃ³, a vÃ¡llalkozÃ³i igazolvÃ¡ny mÃ¡solatÃ¡t, gazdasÃ¡gi tÃ¡rsasÃ¡gnÃ¡l a cÃ©gkivonatot, illetve mÃ¡solatÃ¡t, minden esetben a pÃ¡lyÃ¡zÃ³ adÃ³szÃ¡mÃ¡t, statisztikai Ã©s pÃ©nzforgalmi jelzÅ‘szÃ¡mÃ¡t, valamint a bÃ¡natpÃ©nz befizetÃ©sÃ©t (Ã¡tutalÃ¡sÃ¡t) bizonyÃ­tÃ³ banki igazolÃ¡st.<ujsor/>
+A pÃ¡lyÃ¡zatban valÃ³ rÃ©szvÃ©tel feltÃ©tele a bÃ¡natpÃ©nz befizetÃ©se, legkÃ©sÅ‘bb a pÃ¡lyÃ¡zat benyÃºjtÃ¡sÃ¡nak idÅ‘pontjÃ¡ig a felszÃ¡molÃ³ Ã¡ltal az Ã©rdeklÅ‘dÅ‘knek megadott bankszÃ¡mlÃ¡ra.<ujsor/>
+A vÃ©telÃ¡rba a hitelezÅ‘i kÃ¶vetelÃ©sek beszÃ¡mÃ­tÃ¡sÃ¡ra nincs lehetÅ‘sÃ©g, ezt a felszÃ¡molÃ³ kizÃ¡rja.<ujsor/>
+Az Ã©rtÃ©kesÃ­tÃ©sre kerÃ¼lÅ‘ ingatlanÃ©rt Ã©s annak egyes rÃ©szeiÃ©rt a felszÃ¡molÃ³ kellÃ©kszavatossÃ¡got nem vÃ¡llal, azokat a pÃ¡lyÃ¡zÃ³ megtekintett Ã©s megvizsgÃ¡lt Ã¡llapotban veszi meg azzal, hogy a tulajdonjog vÃ¡ltozÃ¡sÃ¡val kapcsolatos vagyonÃ¡truhÃ¡zÃ¡si illetÃ©k, vagy valamennyi mÃ¡s kÃ¶ltsÃ©g a pÃ¡lyÃ¡zÃ³t (vevÅ‘t) terheli, tovÃ¡bbÃ¡ az eset legkÃ©sÅ‘bb felmerÃ¼lÅ‘, Ã©s az adÃ¡svÃ©tel idÅ‘pontjÃ¡ban nem ismert kÃ¶rnyezeti terhet is a vevÅ‘ viseli.<ujsor/>
+A teljes vÃ©telÃ¡r kiegyenlÃ­tÃ©se az egyes adÃ¡svÃ©teli szerzÅ‘dÃ©sek lÃ©trejÃ¶ttÃ©nek Ã©s a birtokbalÃ©pÃ©snek is elÅ‘feltÃ©tele.<ujsor/>
+A pÃ¡lyÃ¡zatokat legkÃ©sÅ‘bb Â­ az ajÃ¡nlott vÃ©telÃ¡r Ã©s fizetÃ©si mÃ³d megjelÃ¶lÃ©sÃ©vel Â­ a CÃ©gkÃ¶zlÃ¶nyben valÃ³ megjelenÃ©stÅ‘l szÃ¡mÃ­tott 45. napon, dÃ©lelÅ‘tt 10 Ã³rÃ¡ig kÃ©rjÃ¼k Ã­rÃ¡sban, szemÃ©lyesen vagy postai Ãºton benyÃºjtani a felszÃ¡molÃ³ irodÃ¡jÃ¡ba: 9700 Szombathely, Kiskar u. 1. (postacÃ­m: HELP Kft., 9700 Szombathely, Pf. 67), vagy a zalaegerszegi irodÃ¡jÃ¡ba: 8900 Zalaegerszeg, BÃ©keligeti u. 1. (postacÃ­me: HELP Kft., 8901 Zalaegerszeg, Pf. 19).<ujsor/>
+A zÃ¡rt borÃ­tÃ©kra kÃ©rjÃ¼k rÃ¡Ã­rni: â€FOOD AND PACK Kft. f. a. PÃ¡lyÃ¡zatâ€.<ujsor/>
+A pÃ¡lyÃ¡zatok bontÃ¡sa Ã©s elbÃ­rÃ¡lÃ¡sa a benyÃºjtÃ¡si hatÃ¡ridÅ‘ lejÃ¡rta utÃ¡n szÃ¡mÃ­tott 20 munkanapon belÃ¼l megtÃ¶rtÃ©nik.<ujsor/>
+A felszÃ¡molÃ³ Ã©rtesÃ­ti az elÅ‘vÃ¡sÃ¡rlÃ¡sra jogosultakat, hogy elÅ‘vÃ¡sÃ¡rlÃ¡si jogukat ezen nyilvÃ¡nos pÃ¡lyÃ¡zaton (nyilvÃ¡nos Ã©rtÃ©kesÃ­tÃ©sen) gyakorolhatjÃ¡k.<ujsor/>
+Az elÅ‘vÃ¡sÃ¡rlÃ¡si jog gyakorlÃ¡sa Ã©rdekÃ©ben a felszÃ¡molÃ³ felhÃ­vja az Ã©rdekeltek figyelmÃ©t arra, hogy a jog gyakorlÃ¡sÃ¡ra irÃ¡nyulÃ³ szÃ¡ndÃ©kukat a pÃ¡lyÃ¡zatok benyÃºjtÃ¡si hatÃ¡ridejÃ©ig Ã­rÃ¡sban bejelenteni szÃ­veskedjenek.<ujsor/>
+A felszÃ¡molÃ³ a pÃ¡lyÃ¡zatot megfelelÅ‘ ajÃ¡nlat hiÃ¡nyÃ¡ban eredmÃ©nytelennek nyilvÃ¡nÃ­thatja, Ã©s Ãºj pÃ¡lyÃ¡zatot Ã­rhat ki. MegfelelÅ‘, azonos Ã©rtÃ©kÅ± pÃ¡lyÃ¡zatok esetÃ©n az ajÃ¡nlattevÅ‘k kÃ¶zÃ¶tt nyilvÃ¡nos Ã¡rtÃ¡rgyalÃ¡s megtartÃ¡sÃ¡ra kerÃ¼l sor, melynek feltÃ©teleit az Ã¡rtÃ¡rgyalÃ¡s megkezdÃ©sÃ©t megelÅ‘zÅ‘en a rÃ©sztvevÅ‘kkel a felszÃ¡molÃ³biztos ismerteti.<ujsor/>
+BÅ‘vebb felvilÃ¡gosÃ­tÃ¡s kaphatÃ³ dr. SzabÃ³ ErnÅ‘ felszÃ¡molÃ³biztostÃ³l a 06 (92) 510-466, 06 (92) 321-236-os telefonszÃ¡mokon [telefax: 06 (92) 510-426].<ujsor/>
 </mezo>
 <mezo id = "cjsz">1809106800</mezo>
-<mezo id = "nev">FOOD AND PACK Termelési, Kereskedelmi és Mûszaki Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">FOOD AND PACK TermelÃ©si, Kereskedelmi Ã©s MÅ±szaki TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">9700 Szombathely</mezo>
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A HELP Kereskedelmi Szolgáltató és Tanácsadó Kft. (cégjegyzékszáma: [18 09 000505]; 9700 Szombathely, Kiskar u. 1.) mint a FOOD AND PACK Termelési, Kereskedelmi és Mûszaki Tanácsadó Kft. „f. a.” (cégjegyzékszáma: [18 09 106800]; 9700 Szombathely, Szent Flórián krt. 2.; adószáma: [10621693-2-18]), a Vas Megyei Bíróság 5. Fpk. 18-06-000082/4. számú végzésével kijelölt felszámolója<ujsor/>
-nyilvános pályázat<ujsor/>
-útján értékesíteni kívánja a felszámolás alatt álló társaság tulajdonát képezõ, becsehelyi 0201. hrsz.-ú, külterületen lévõ, kivett mûvelési ágú, szarvasmarhatelep elnevezésû, 29 527 m2 nagyságú ingatlant és a rajta lévõ három darab, egyenként 300 férõhelyes, összesen 900 férõhelyes, szarvasmarhatartásra, illetve -hizlalásra alkalmas istállókat és a szarvasmarhatelep mûködését biztosító kiszolgáló létesítményeket.<ujsor/>
-Irányár: 80 000 000 Ft + áfa (nyolcvanmillió forint + áfa). Bánatpénz: 10 000 000 Ft (tízmillió forint).<ujsor/>
-A pályázatnak tartalmaznia kell a pályázó nevét, pontos címét, a beígért vételárat (nettó ár Ft + áfa). A pályázathoz mellékelni kell, ha a pályázó vállalkozó, a vállalkozói igazolvány másolatát, gazdasági társaságnál a cégkivonatot, illetve másolatát, minden esetben a pályázó adószámát, statisztikai és pénzforgalmi jelzõszámát, valamint a bánatpénz befizetését (átutalását) bizonyító banki igazolást.<ujsor/>
-A pályázatban való részvétel feltétele a bánatpénz befizetése, legkésõbb a pályázat benyújtásának idõpontjáig a felszámoló által az érdeklõdõknek megadott bankszámlára.<ujsor/>
-A vételárba a hitelezõi követelések beszámítására nincs lehetõség, ezt a felszámoló kizárja.<ujsor/>
-Az értékesítésre kerülõ ingatlanért és annak egyes részeiért a felszámoló kellékszavatosságot nem vállal, azokat a pályázó megtekintett és megvizsgált állapotban veszi meg azzal, hogy a tulajdonjog változásával kapcsolatos vagyonátruházási illeték, vagy valamennyi más költség a pályázót (vevõt) terheli, továbbá az eset legkésõbb felmerülõ és az adásvétel idõpontjában nem ismert környezeti terhet is a vevõ viseli.<ujsor/>
-A teljes vételár kiegyenlítése az egyes adásvételi szerzõdések létrejöttének és a birtokbalépésnek is elõfeltétele.<ujsor/>
-A pályázatokat legkésõbb ­ az ajánlott vételár és fizetési mód megjelölésével ­ a Cégközlönyben való megjelenéstõl számított 45. napon, délelõtt 10 óráig kérjük írásban, személyesen, vagy postai úton benyújtani a felszámoló irodájába: 9700 Szombathely, Kiskar u. 1. (postacím: HELP Kft., 9700 Szombathely, Pf. 67), vagy a zalaegerszegi irodájába: 8900 Zalaegerszeg, Békeligeti u. 1. (postacíme: HELP Kft., 8901 Zalaegerszeg, Pf. 19).<ujsor/>
-A zárt borítékra kérjük ráírni: „FOOD AND PACK Kft. f. a. Pályázat”.<ujsor/>
-A pályázatok bontása és elbírálása a benyújtási határidõ lejárta után számított 20 munkanapon belül megtörténik.<ujsor/>
-A felszámoló értesíti az elõvásárlásra jogosultakat, hogy elõvásárlási jogukat ezen nyilvános pályázaton (nyilvános értékesítésen) gyakorolhatják.<ujsor/>
-Az elõvásárlási jog gyakorlása érdekében a felszámoló felhívja az érdekeltek figyelmét arra, hogy a jog gyakorlására irányuló szándékukat a pályázatok benyújtási határidejéig írásban jelentsék be.<ujsor/>
-A felszámoló a pályázatot megfelelõ ajánlat hiányában eredménytelennek nyilváníthatja, és új pályázatot írhat ki. Megfelelõ, azonos értékû pályázatok esetén az ajánlattevõk között nyilvános ártárgyalás megtartására kerül sor, melynek feltételeit az ártárgyalás megkezdését megelõzõen a részt vevõkkel a felszámolóbiztos ismerteti.<ujsor/>
-Bõvebb felvilágosítás kapható dr. Szabó Ernõ felszámolóbiztostól, a 06 (92) 510-466, 06 (92) 321-236-os telefonszámokon [telefax: 06 (92) 510-426].<ujsor/>
+<mezo id = "szoveg">A HELP Kereskedelmi SzolgÃ¡ltatÃ³ Ã©s TanÃ¡csadÃ³ Kft. (cÃ©gjegyzÃ©kszÃ¡ma: [18 09 000505]; 9700 Szombathely, Kiskar u. 1.) mint a FOOD AND PACK TermelÃ©si, Kereskedelmi Ã©s MÅ±szaki TanÃ¡csadÃ³ Kft. â€f. a.â€ (cÃ©gjegyzÃ©kszÃ¡ma: [18 09 106800]; 9700 Szombathely, Szent FlÃ³riÃ¡n krt. 2.; adÃ³szÃ¡ma: [10621693-2-18]), a Vas Megyei BÃ­rÃ³sÃ¡g 5. Fpk. 18-06-000082/4. szÃ¡mÃº vÃ©gzÃ©sÃ©vel kijelÃ¶lt felszÃ¡molÃ³ja<ujsor/>
+nyilvÃ¡nos pÃ¡lyÃ¡zat<ujsor/>
+ÃºtjÃ¡n Ã©rtÃ©kesÃ­teni kÃ­vÃ¡nja a felszÃ¡molÃ¡s alatt Ã¡llÃ³ tÃ¡rsasÃ¡g tulajdonÃ¡t kÃ©pezÅ‘, becsehelyi 0201. hrsz.-Ãº, kÃ¼lterÃ¼leten lÃ©vÅ‘, kivett mÅ±velÃ©si Ã¡gÃº, szarvasmarhatelep elnevezÃ©sÅ±, 29 527 m2 nagysÃ¡gÃº ingatlant Ã©s a rajta lÃ©vÅ‘ hÃ¡rom darab, egyenkÃ©nt 300 fÃ©rÅ‘helyes, Ã¶sszesen 900 fÃ©rÅ‘helyes, szarvasmarhatartÃ¡sra, illetve -hizlalÃ¡sra alkalmas istÃ¡llÃ³kat Ã©s a szarvasmarhatelep mÅ±kÃ¶dÃ©sÃ©t biztosÃ­tÃ³ kiszolgÃ¡lÃ³ lÃ©tesÃ­tmÃ©nyeket.<ujsor/>
+IrÃ¡nyÃ¡r: 80 000 000 Ft + Ã¡fa (nyolcvanmilliÃ³ forint + Ã¡fa). BÃ¡natpÃ©nz: 10 000 000 Ft (tÃ­zmilliÃ³ forint).<ujsor/>
+A pÃ¡lyÃ¡zatnak tartalmaznia kell a pÃ¡lyÃ¡zÃ³ nevÃ©t, pontos cÃ­mÃ©t, a beÃ­gÃ©rt vÃ©telÃ¡rat (nettÃ³ Ã¡r Ft + Ã¡fa). A pÃ¡lyÃ¡zathoz mellÃ©kelni kell, ha a pÃ¡lyÃ¡zÃ³ vÃ¡llalkozÃ³, a vÃ¡llalkozÃ³i igazolvÃ¡ny mÃ¡solatÃ¡t, gazdasÃ¡gi tÃ¡rsasÃ¡gnÃ¡l a cÃ©gkivonatot, illetve mÃ¡solatÃ¡t, minden esetben a pÃ¡lyÃ¡zÃ³ adÃ³szÃ¡mÃ¡t, statisztikai Ã©s pÃ©nzforgalmi jelzÅ‘szÃ¡mÃ¡t, valamint a bÃ¡natpÃ©nz befizetÃ©sÃ©t (Ã¡tutalÃ¡sÃ¡t) bizonyÃ­tÃ³ banki igazolÃ¡st.<ujsor/>
+A pÃ¡lyÃ¡zatban valÃ³ rÃ©szvÃ©tel feltÃ©tele a bÃ¡natpÃ©nz befizetÃ©se, legkÃ©sÅ‘bb a pÃ¡lyÃ¡zat benyÃºjtÃ¡sÃ¡nak idÅ‘pontjÃ¡ig a felszÃ¡molÃ³ Ã¡ltal az Ã©rdeklÅ‘dÅ‘knek megadott bankszÃ¡mlÃ¡ra.<ujsor/>
+A vÃ©telÃ¡rba a hitelezÅ‘i kÃ¶vetelÃ©sek beszÃ¡mÃ­tÃ¡sÃ¡ra nincs lehetÅ‘sÃ©g, ezt a felszÃ¡molÃ³ kizÃ¡rja.<ujsor/>
+Az Ã©rtÃ©kesÃ­tÃ©sre kerÃ¼lÅ‘ ingatlanÃ©rt Ã©s annak egyes rÃ©szeiÃ©rt a felszÃ¡molÃ³ kellÃ©kszavatossÃ¡got nem vÃ¡llal, azokat a pÃ¡lyÃ¡zÃ³ megtekintett Ã©s megvizsgÃ¡lt Ã¡llapotban veszi meg azzal, hogy a tulajdonjog vÃ¡ltozÃ¡sÃ¡val kapcsolatos vagyonÃ¡truhÃ¡zÃ¡si illetÃ©k, vagy valamennyi mÃ¡s kÃ¶ltsÃ©g a pÃ¡lyÃ¡zÃ³t (vevÅ‘t) terheli, tovÃ¡bbÃ¡ az eset legkÃ©sÅ‘bb felmerÃ¼lÅ‘ Ã©s az adÃ¡svÃ©tel idÅ‘pontjÃ¡ban nem ismert kÃ¶rnyezeti terhet is a vevÅ‘ viseli.<ujsor/>
+A teljes vÃ©telÃ¡r kiegyenlÃ­tÃ©se az egyes adÃ¡svÃ©teli szerzÅ‘dÃ©sek lÃ©trejÃ¶ttÃ©nek Ã©s a birtokbalÃ©pÃ©snek is elÅ‘feltÃ©tele.<ujsor/>
+A pÃ¡lyÃ¡zatokat legkÃ©sÅ‘bb Â­ az ajÃ¡nlott vÃ©telÃ¡r Ã©s fizetÃ©si mÃ³d megjelÃ¶lÃ©sÃ©vel Â­ a CÃ©gkÃ¶zlÃ¶nyben valÃ³ megjelenÃ©stÅ‘l szÃ¡mÃ­tott 45. napon, dÃ©lelÅ‘tt 10 Ã³rÃ¡ig kÃ©rjÃ¼k Ã­rÃ¡sban, szemÃ©lyesen, vagy postai Ãºton benyÃºjtani a felszÃ¡molÃ³ irodÃ¡jÃ¡ba: 9700 Szombathely, Kiskar u. 1. (postacÃ­m: HELP Kft., 9700 Szombathely, Pf. 67), vagy a zalaegerszegi irodÃ¡jÃ¡ba: 8900 Zalaegerszeg, BÃ©keligeti u. 1. (postacÃ­me: HELP Kft., 8901 Zalaegerszeg, Pf. 19).<ujsor/>
+A zÃ¡rt borÃ­tÃ©kra kÃ©rjÃ¼k rÃ¡Ã­rni: â€FOOD AND PACK Kft. f. a. PÃ¡lyÃ¡zatâ€.<ujsor/>
+A pÃ¡lyÃ¡zatok bontÃ¡sa Ã©s elbÃ­rÃ¡lÃ¡sa a benyÃºjtÃ¡si hatÃ¡ridÅ‘ lejÃ¡rta utÃ¡n szÃ¡mÃ­tott 20 munkanapon belÃ¼l megtÃ¶rtÃ©nik.<ujsor/>
+A felszÃ¡molÃ³ Ã©rtesÃ­ti az elÅ‘vÃ¡sÃ¡rlÃ¡sra jogosultakat, hogy elÅ‘vÃ¡sÃ¡rlÃ¡si jogukat ezen nyilvÃ¡nos pÃ¡lyÃ¡zaton (nyilvÃ¡nos Ã©rtÃ©kesÃ­tÃ©sen) gyakorolhatjÃ¡k.<ujsor/>
+Az elÅ‘vÃ¡sÃ¡rlÃ¡si jog gyakorlÃ¡sa Ã©rdekÃ©ben a felszÃ¡molÃ³ felhÃ­vja az Ã©rdekeltek figyelmÃ©t arra, hogy a jog gyakorlÃ¡sÃ¡ra irÃ¡nyulÃ³ szÃ¡ndÃ©kukat a pÃ¡lyÃ¡zatok benyÃºjtÃ¡si hatÃ¡ridejÃ©ig Ã­rÃ¡sban jelentsÃ©k be.<ujsor/>
+A felszÃ¡molÃ³ a pÃ¡lyÃ¡zatot megfelelÅ‘ ajÃ¡nlat hiÃ¡nyÃ¡ban eredmÃ©nytelennek nyilvÃ¡nÃ­thatja, Ã©s Ãºj pÃ¡lyÃ¡zatot Ã­rhat ki. MegfelelÅ‘, azonos Ã©rtÃ©kÅ± pÃ¡lyÃ¡zatok esetÃ©n az ajÃ¡nlattevÅ‘k kÃ¶zÃ¶tt nyilvÃ¡nos Ã¡rtÃ¡rgyalÃ¡s megtartÃ¡sÃ¡ra kerÃ¼l sor, melynek feltÃ©teleit az Ã¡rtÃ¡rgyalÃ¡s megkezdÃ©sÃ©t megelÅ‘zÅ‘en a rÃ©szt vevÅ‘kkel a felszÃ¡molÃ³biztos ismerteti.<ujsor/>
+BÅ‘vebb felvilÃ¡gosÃ­tÃ¡s kaphatÃ³ dr. SzabÃ³ ErnÅ‘ felszÃ¡molÃ³biztostÃ³l, a 06 (92) 510-466, 06 (92) 321-236-os telefonszÃ¡mokon [telefax: 06 (92) 510-426].<ujsor/>
 </mezo>
 <mezo id = "cjsz">1809106800</mezo>
-<mezo id = "nev">FOOD AND PACK Termelési, Kereskedelmi és Mûszaki Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">FOOD AND PACK TermelÃ©si, Kereskedelmi Ã©s MÅ±szaki TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">9700 Szombathely</mezo>
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A HELP Kereskedelmi Szolgáltató és Tanácsadó Kft. (cégjegyzékszáma: [18 09 000505]; 9700 Szombathely, Kiskar u. 1.) mint a FOOD AND PACK Termelési, Kereskedelmi és Mûszaki Tanácsadó Kft. „f. a.” (cégjegyzékszáma: [18 09 106800]; 9700 Szombathely, Szent Flórián krt. 2.; adószáma: [10621693-2-18]), Vas Megyei Bíróság 5. Fpk. 18-06-000082/4. szánú végzésével kijelölt felszámolója<ujsor/>
-nyilvános pályázat<ujsor/>
-útján értékesíteni kívánja a felszámolás alatt álló társaság tulajdonát képezõ, becsehelyi 0201. hrsz.-ú, külterületen lévõ, kivett mûvelési ágú, szarvasmarhatelep elnevezésû, 29 527 m2 nagyságú ingatlant és a rajta lévõ három darab, egyenként 300 férõhelyes, összesen 900 férõhelyes, szarvasmarhatartásra, illetve -hizlalásra alkalmas istállókat és a szarvasmarhatelep mûködését biztosító kiszolgáló létesítményeket.<ujsor/>
-Irányár: 80 000 000 Ft + áfa (nyolcvanmillió forint + áfa).<ujsor/>
-Bánatpénz: 10 000 000 Ft (tízmillió forint).<ujsor/>
-A pályázatnak tartalmaznia kell a pályázó nevét, pontos címét, a beígért vételárat (nettó ár Ft + áfa). A pályázathoz mellékelni kell, ha a pályázó vállalkozó, a vállalkozói igazolvány másolatát, gazdasági társaságnál a cégkivonatot, illetve másolatát, minden esetben a pályázó adószámát, statisztikai és pénzforgalmi jelzõszámát, valamint a bánatpénz befizetését (átutalását) bizonyító banki igazolást.<ujsor/>
-A pályázatban való részvétel feltétele a bánatpénz befizetése, legkésõbb a pályázat benyújtásának idõpontjáig a felszámoló által az érdeklõdõknek megadott bankszámlára.<ujsor/>
-A vételárba a hitelezõi követelések beszámítására nincs lehetõség, ezt a felszámoló kizárja.<ujsor/>
-Az értékesítésre kerülõ ingatlanért és annak egyes részeiért a felszámoló kellékszavatosságot nem vállal, azokat a pályázó megtekintett és megvizsgált állapotban veszi meg azzal, hogy a tulajdonjog változásával kapcsolatos vagyonátruházási illeték, vagy valamennyi más költség a pályázót (vevõt) terheli, továbbá az esetleg késõbb felmerülõ és az adásvétel idõpontjában nem ismert környezeti terhet is a vevõ viseli.<ujsor/>
-A teljes vételár kiegyenlítése az egyes adásvételi szerzõdések létrejöttének és a birtokbalépésnek is elõfeltétele.<ujsor/>
-A pályázatokat legkésõbb ­ az ajánlott vételár és fizetési mód megjelölésével ­ a Cégközlönyben való megjelenéstõl számított 30. napon, délelõtt 10 óráig kérjük írásban, személyesen, vagy postai úton benyújtani a felszámoló irodájába: 9700 Szombathely, Kiskar u. 1. (postacím: HELP Kft., 9700 Szombathely, Pf. 67), vagy a zalaegerszegi irodájába: 8900 Zalaegerszeg, Békeligeti u. 1. (postacíme: HELP Kft., 8901 Zalaegerszeg, Pf. 19).<ujsor/>
-A zárt borítékra kérjük ráírni: „FOOD AND PACK Kft. f. a. Pályázat”.<ujsor/>
-A pályázatok bontása és elbírálása a benyújtási határidõ lejárta után számított 20 munkanapon belül megtörténik.<ujsor/>
-A felszámoló értesíti az elõvásárlásra jogosultakat, hogy elõvásárlási jogukat ezen nyilvános pályázaton (nyilvános értékesítésen) gyakorolhatják.<ujsor/>
-Az elõvásárlási jog gyakorlása érdekében a felszámoló felhívja az érdekeltek figyelmét arra, hogy a jog gyakorlására irányuló szándékukat a pályázatok benyújtási határidejéig írásban bejelenteni szíveskedjenek.<ujsor/>
-A felszámoló a pályázatot megfelelõ ajánlat hiányában eredménytelennek nyilváníthatja, és új pályázatot írhat ki. Megfelelõ, azonos értékû pályázatok esetén az ajánlattevõk között nyilvános ártárgyalás megtartására kerül sor, melynek feltételeit az ártárgyalás megkezdését megelõzõen a résztvevõkkel a felszámolóbiztos ismerteti.<ujsor/>
-Bõvebb felvilágosítás kapható dr. Szabó Ernõ felszámolóbiztostól, a 06 (92) 510-466, 06 (92) 321-236-os telefonszámokon [telefax: 06 (92) 510-426].<ujsor/>
+<mezo id = "szoveg">A HELP Kereskedelmi SzolgÃ¡ltatÃ³ Ã©s TanÃ¡csadÃ³ Kft. (cÃ©gjegyzÃ©kszÃ¡ma: [18 09 000505]; 9700 Szombathely, Kiskar u. 1.) mint a FOOD AND PACK TermelÃ©si, Kereskedelmi Ã©s MÅ±szaki TanÃ¡csadÃ³ Kft. â€f. a.â€ (cÃ©gjegyzÃ©kszÃ¡ma: [18 09 106800]; 9700 Szombathely, Szent FlÃ³riÃ¡n krt. 2.; adÃ³szÃ¡ma: [10621693-2-18]), Vas Megyei BÃ­rÃ³sÃ¡g 5. Fpk. 18-06-000082/4. szÃ¡nÃº vÃ©gzÃ©sÃ©vel kijelÃ¶lt felszÃ¡molÃ³ja<ujsor/>
+nyilvÃ¡nos pÃ¡lyÃ¡zat<ujsor/>
+ÃºtjÃ¡n Ã©rtÃ©kesÃ­teni kÃ­vÃ¡nja a felszÃ¡molÃ¡s alatt Ã¡llÃ³ tÃ¡rsasÃ¡g tulajdonÃ¡t kÃ©pezÅ‘, becsehelyi 0201. hrsz.-Ãº, kÃ¼lterÃ¼leten lÃ©vÅ‘, kivett mÅ±velÃ©si Ã¡gÃº, szarvasmarhatelep elnevezÃ©sÅ±, 29 527 m2 nagysÃ¡gÃº ingatlant Ã©s a rajta lÃ©vÅ‘ hÃ¡rom darab, egyenkÃ©nt 300 fÃ©rÅ‘helyes, Ã¶sszesen 900 fÃ©rÅ‘helyes, szarvasmarhatartÃ¡sra, illetve -hizlalÃ¡sra alkalmas istÃ¡llÃ³kat Ã©s a szarvasmarhatelep mÅ±kÃ¶dÃ©sÃ©t biztosÃ­tÃ³ kiszolgÃ¡lÃ³ lÃ©tesÃ­tmÃ©nyeket.<ujsor/>
+IrÃ¡nyÃ¡r: 80 000 000 Ft + Ã¡fa (nyolcvanmilliÃ³ forint + Ã¡fa).<ujsor/>
+BÃ¡natpÃ©nz: 10 000 000 Ft (tÃ­zmilliÃ³ forint).<ujsor/>
+A pÃ¡lyÃ¡zatnak tartalmaznia kell a pÃ¡lyÃ¡zÃ³ nevÃ©t, pontos cÃ­mÃ©t, a beÃ­gÃ©rt vÃ©telÃ¡rat (nettÃ³ Ã¡r Ft + Ã¡fa). A pÃ¡lyÃ¡zathoz mellÃ©kelni kell, ha a pÃ¡lyÃ¡zÃ³ vÃ¡llalkozÃ³, a vÃ¡llalkozÃ³i igazolvÃ¡ny mÃ¡solatÃ¡t, gazdasÃ¡gi tÃ¡rsasÃ¡gnÃ¡l a cÃ©gkivonatot, illetve mÃ¡solatÃ¡t, minden esetben a pÃ¡lyÃ¡zÃ³ adÃ³szÃ¡mÃ¡t, statisztikai Ã©s pÃ©nzforgalmi jelzÅ‘szÃ¡mÃ¡t, valamint a bÃ¡natpÃ©nz befizetÃ©sÃ©t (Ã¡tutalÃ¡sÃ¡t) bizonyÃ­tÃ³ banki igazolÃ¡st.<ujsor/>
+A pÃ¡lyÃ¡zatban valÃ³ rÃ©szvÃ©tel feltÃ©tele a bÃ¡natpÃ©nz befizetÃ©se, legkÃ©sÅ‘bb a pÃ¡lyÃ¡zat benyÃºjtÃ¡sÃ¡nak idÅ‘pontjÃ¡ig a felszÃ¡molÃ³ Ã¡ltal az Ã©rdeklÅ‘dÅ‘knek megadott bankszÃ¡mlÃ¡ra.<ujsor/>
+A vÃ©telÃ¡rba a hitelezÅ‘i kÃ¶vetelÃ©sek beszÃ¡mÃ­tÃ¡sÃ¡ra nincs lehetÅ‘sÃ©g, ezt a felszÃ¡molÃ³ kizÃ¡rja.<ujsor/>
+Az Ã©rtÃ©kesÃ­tÃ©sre kerÃ¼lÅ‘ ingatlanÃ©rt Ã©s annak egyes rÃ©szeiÃ©rt a felszÃ¡molÃ³ kellÃ©kszavatossÃ¡got nem vÃ¡llal, azokat a pÃ¡lyÃ¡zÃ³ megtekintett Ã©s megvizsgÃ¡lt Ã¡llapotban veszi meg azzal, hogy a tulajdonjog vÃ¡ltozÃ¡sÃ¡val kapcsolatos vagyonÃ¡truhÃ¡zÃ¡si illetÃ©k, vagy valamennyi mÃ¡s kÃ¶ltsÃ©g a pÃ¡lyÃ¡zÃ³t (vevÅ‘t) terheli, tovÃ¡bbÃ¡ az esetleg kÃ©sÅ‘bb felmerÃ¼lÅ‘ Ã©s az adÃ¡svÃ©tel idÅ‘pontjÃ¡ban nem ismert kÃ¶rnyezeti terhet is a vevÅ‘ viseli.<ujsor/>
+A teljes vÃ©telÃ¡r kiegyenlÃ­tÃ©se az egyes adÃ¡svÃ©teli szerzÅ‘dÃ©sek lÃ©trejÃ¶ttÃ©nek Ã©s a birtokbalÃ©pÃ©snek is elÅ‘feltÃ©tele.<ujsor/>
+A pÃ¡lyÃ¡zatokat legkÃ©sÅ‘bb Â­ az ajÃ¡nlott vÃ©telÃ¡r Ã©s fizetÃ©si mÃ³d megjelÃ¶lÃ©sÃ©vel Â­ a CÃ©gkÃ¶zlÃ¶nyben valÃ³ megjelenÃ©stÅ‘l szÃ¡mÃ­tott 30. napon, dÃ©lelÅ‘tt 10 Ã³rÃ¡ig kÃ©rjÃ¼k Ã­rÃ¡sban, szemÃ©lyesen, vagy postai Ãºton benyÃºjtani a felszÃ¡molÃ³ irodÃ¡jÃ¡ba: 9700 Szombathely, Kiskar u. 1. (postacÃ­m: HELP Kft., 9700 Szombathely, Pf. 67), vagy a zalaegerszegi irodÃ¡jÃ¡ba: 8900 Zalaegerszeg, BÃ©keligeti u. 1. (postacÃ­me: HELP Kft., 8901 Zalaegerszeg, Pf. 19).<ujsor/>
+A zÃ¡rt borÃ­tÃ©kra kÃ©rjÃ¼k rÃ¡Ã­rni: â€FOOD AND PACK Kft. f. a. PÃ¡lyÃ¡zatâ€.<ujsor/>
+A pÃ¡lyÃ¡zatok bontÃ¡sa Ã©s elbÃ­rÃ¡lÃ¡sa a benyÃºjtÃ¡si hatÃ¡ridÅ‘ lejÃ¡rta utÃ¡n szÃ¡mÃ­tott 20 munkanapon belÃ¼l megtÃ¶rtÃ©nik.<ujsor/>
+A felszÃ¡molÃ³ Ã©rtesÃ­ti az elÅ‘vÃ¡sÃ¡rlÃ¡sra jogosultakat, hogy elÅ‘vÃ¡sÃ¡rlÃ¡si jogukat ezen nyilvÃ¡nos pÃ¡lyÃ¡zaton (nyilvÃ¡nos Ã©rtÃ©kesÃ­tÃ©sen) gyakorolhatjÃ¡k.<ujsor/>
+Az elÅ‘vÃ¡sÃ¡rlÃ¡si jog gyakorlÃ¡sa Ã©rdekÃ©ben a felszÃ¡molÃ³ felhÃ­vja az Ã©rdekeltek figyelmÃ©t arra, hogy a jog gyakorlÃ¡sÃ¡ra irÃ¡nyulÃ³ szÃ¡ndÃ©kukat a pÃ¡lyÃ¡zatok benyÃºjtÃ¡si hatÃ¡ridejÃ©ig Ã­rÃ¡sban bejelenteni szÃ­veskedjenek.<ujsor/>
+A felszÃ¡molÃ³ a pÃ¡lyÃ¡zatot megfelelÅ‘ ajÃ¡nlat hiÃ¡nyÃ¡ban eredmÃ©nytelennek nyilvÃ¡nÃ­thatja, Ã©s Ãºj pÃ¡lyÃ¡zatot Ã­rhat ki. MegfelelÅ‘, azonos Ã©rtÃ©kÅ± pÃ¡lyÃ¡zatok esetÃ©n az ajÃ¡nlattevÅ‘k kÃ¶zÃ¶tt nyilvÃ¡nos Ã¡rtÃ¡rgyalÃ¡s megtartÃ¡sÃ¡ra kerÃ¼l sor, melynek feltÃ©teleit az Ã¡rtÃ¡rgyalÃ¡s megkezdÃ©sÃ©t megelÅ‘zÅ‘en a rÃ©sztvevÅ‘kkel a felszÃ¡molÃ³biztos ismerteti.<ujsor/>
+BÅ‘vebb felvilÃ¡gosÃ­tÃ¡s kaphatÃ³ dr. SzabÃ³ ErnÅ‘ felszÃ¡molÃ³biztostÃ³l, a 06 (92) 510-466, 06 (92) 321-236-os telefonszÃ¡mokon [telefax: 06 (92) 510-426].<ujsor/>
 </mezo>
 <mezo id = "cjsz">1809106800</mezo>
-<mezo id = "nev">FOOD AND PACK Termelési, Kereskedelmi és Mûszaki Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">FOOD AND PACK TermelÃ©si, Kereskedelmi Ã©s MÅ±szaki TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">9700 Szombathely</mezo>
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A HELP Kereskedelmi Szolgáltató és Tanácsadó Kft. (cégjegyzékszáma: [18 09 000505]; 9700 Szombathely, Kiskar u. 1.) mint a FOOD AND PACK Termelési, Kereskedelmi és Mûszaki Tanácsadó Kft. „f. a.” (cégjegyzékszáma: [18 09 106800]; 9700 Szombathely, Szent Flórián krt. 2.; adószáma: [10621693-2-18]), Vas Megyei Bíróság 5. Fpk. 18-06-000082/4. számú végzésével kijelölt felszámolója<ujsor/>
-nyilvános pályázat<ujsor/>
-útján értékesíteni kívánja a felszámolás alatt álló társaság tulajdonát képezõ, becsehelyi 0201. hrsz.-ú, külterületen lévõ, kivett mûvelési ágú, szarvasmarhatelep elnevezésû, 29 527 m2 nagyságú ingatlant és a rajta lévõ három darab, egyenként 300 férõhelyes, összesen 900 férõhelyes, szarvasmarhatartásra, illetve -hizlalásra alkalmas istállókat és a szarvasmarhatelep mûködését biztosító kiszolgáló létesítményeket.<ujsor/>
-Irányár: 80 000 000 Ft + áfa (nyolcvanmillió forint + áfa).<ujsor/>
-Bánatpénz: 10 000 000 Ft (tízmillió forint).<ujsor/>
-A pályázatnak tartalmaznia kell a pályázó nevét, pontos címét, a beígért vételárat (nettó ár Ft + áfa). A pályázathoz mellékelni kell, ha a pályázó vállalkozó, a vállalkozói igazolvány másolatát, gazdasági társaságnál a cégkivonatot, illetve másolatát, minden esetben a pályázó adószámát, statisztikai és pénzforgalmi jelzõszámát, valamint a bánatpénz befizetését (átutalását) bizonyító banki igazolást.<ujsor/>
-A pályázatban való részvétel feltétele a bánatpénz befizetése, legkésõbb a pályázat benyújtásának idõpontjáig a felszámoló által az érdeklõdõknek megadott bankszámlára.<ujsor/>
-A vételárba a hitelezõi követelések beszámítására nincs lehetõség, ezt a felszámoló kizárja.<ujsor/>
-Az értékesítésre kerülõ ingatlanért és annak egyes részeiért a felszámoló kellékszavatosságot nem vállal, azokat a pályázó megtekintett és megvizsgált állapotban veszi meg azzal, hogy a tulajdonjog változásával kapcsolatos vagyonátruházási illeték, vagy valamennyi más költség a pályázót (vevõt) terheli, továbbá az esetleg késõbb felmerülõ és az adásvétel idõpontjában nem ismert környezeti terhet is a vevõ viseli.<ujsor/>
-A teljes vételár kiegyenlítése az egyes adásvételi szerzõdések létrejöttének és a birtokbalépésnek is elõfeltétele.<ujsor/>
-A pályázatokat legkésõbb ­ az ajánlott vételár és fizetési mód megjelölésével ­ a Cégközlönyben való megjelenéstõl számított 30. napon, délelõtt 10 óráig kérjük írásban, személyesen, vagy postai úton benyújtani a felszámoló irodájába: 9700 Szombathely, Kiskar u. 1. (postacím: HELP Kft., 9700 Szombathely, Pf. 67), vagy a zalaegerszegi irodájába: 8900 Zalaegerszeg, Békeligeti u. 1. (postacím: HELP Kft., 8901 Zalaegerszeg, Pf. 19).<ujsor/>
-A zárt borítékra kérjük ráírni: „FOOD AND PACK Kft. f. a. Pályázat”.<ujsor/>
-A pályázatok bontása és elbírálása a benyújtási határidõ lejárta után számított 20 munkanapon belül megtörténik.<ujsor/>
-A felszámoló értesíti az elõvásárlásra jogosultakat, hogy elõvásárlási jogukat ezen nyilvános pályázaton (nyilvános értékesítésen) gyakorolhatják.<ujsor/>
-Az elõvásárlási jog gyakorlása érdekében a felszámoló felhívja az érdekeltek figyelmét arra, hogy a jog gyakorlására irányuló szándékukat a pályázatok benyújtási határidejéig írásban jelentsék be.<ujsor/>
-A felszámoló a pályázatot megfelelõ ajánlat hiányában eredménytelennek nyilváníthatja, és új pályázatot írhat ki. Megfelelõ, azonos értékû pályázatok esetén az ajánlattevõk között nyilvános ártárgyalás megtartására kerül sor, melynek feltételeit az ártárgyalás megkezdését megelõzõen a résztvevõkkel a felszámolóbiztos ismerteti.<ujsor/>
-Bõvebb felvilágosítás kapható dr. Szabó Ernõ felszámolóbiztostól, a 06 (92) 510-466, 06 (92) 321-236-os telefonszámokon [telefax: 06 (92) 510-426].<ujsor/>
+<mezo id = "szoveg">A HELP Kereskedelmi SzolgÃ¡ltatÃ³ Ã©s TanÃ¡csadÃ³ Kft. (cÃ©gjegyzÃ©kszÃ¡ma: [18 09 000505]; 9700 Szombathely, Kiskar u. 1.) mint a FOOD AND PACK TermelÃ©si, Kereskedelmi Ã©s MÅ±szaki TanÃ¡csadÃ³ Kft. â€f. a.â€ (cÃ©gjegyzÃ©kszÃ¡ma: [18 09 106800]; 9700 Szombathely, Szent FlÃ³riÃ¡n krt. 2.; adÃ³szÃ¡ma: [10621693-2-18]), Vas Megyei BÃ­rÃ³sÃ¡g 5. Fpk. 18-06-000082/4. szÃ¡mÃº vÃ©gzÃ©sÃ©vel kijelÃ¶lt felszÃ¡molÃ³ja<ujsor/>
+nyilvÃ¡nos pÃ¡lyÃ¡zat<ujsor/>
+ÃºtjÃ¡n Ã©rtÃ©kesÃ­teni kÃ­vÃ¡nja a felszÃ¡molÃ¡s alatt Ã¡llÃ³ tÃ¡rsasÃ¡g tulajdonÃ¡t kÃ©pezÅ‘, becsehelyi 0201. hrsz.-Ãº, kÃ¼lterÃ¼leten lÃ©vÅ‘, kivett mÅ±velÃ©si Ã¡gÃº, szarvasmarhatelep elnevezÃ©sÅ±, 29 527 m2 nagysÃ¡gÃº ingatlant Ã©s a rajta lÃ©vÅ‘ hÃ¡rom darab, egyenkÃ©nt 300 fÃ©rÅ‘helyes, Ã¶sszesen 900 fÃ©rÅ‘helyes, szarvasmarhatartÃ¡sra, illetve -hizlalÃ¡sra alkalmas istÃ¡llÃ³kat Ã©s a szarvasmarhatelep mÅ±kÃ¶dÃ©sÃ©t biztosÃ­tÃ³ kiszolgÃ¡lÃ³ lÃ©tesÃ­tmÃ©nyeket.<ujsor/>
+IrÃ¡nyÃ¡r: 80 000 000 Ft + Ã¡fa (nyolcvanmilliÃ³ forint + Ã¡fa).<ujsor/>
+BÃ¡natpÃ©nz: 10 000 000 Ft (tÃ­zmilliÃ³ forint).<ujsor/>
+A pÃ¡lyÃ¡zatnak tartalmaznia kell a pÃ¡lyÃ¡zÃ³ nevÃ©t, pontos cÃ­mÃ©t, a beÃ­gÃ©rt vÃ©telÃ¡rat (nettÃ³ Ã¡r Ft + Ã¡fa). A pÃ¡lyÃ¡zathoz mellÃ©kelni kell, ha a pÃ¡lyÃ¡zÃ³ vÃ¡llalkozÃ³, a vÃ¡llalkozÃ³i igazolvÃ¡ny mÃ¡solatÃ¡t, gazdasÃ¡gi tÃ¡rsasÃ¡gnÃ¡l a cÃ©gkivonatot, illetve mÃ¡solatÃ¡t, minden esetben a pÃ¡lyÃ¡zÃ³ adÃ³szÃ¡mÃ¡t, statisztikai Ã©s pÃ©nzforgalmi jelzÅ‘szÃ¡mÃ¡t, valamint a bÃ¡natpÃ©nz befizetÃ©sÃ©t (Ã¡tutalÃ¡sÃ¡t) bizonyÃ­tÃ³ banki igazolÃ¡st.<ujsor/>
+A pÃ¡lyÃ¡zatban valÃ³ rÃ©szvÃ©tel feltÃ©tele a bÃ¡natpÃ©nz befizetÃ©se, legkÃ©sÅ‘bb a pÃ¡lyÃ¡zat benyÃºjtÃ¡sÃ¡nak idÅ‘pontjÃ¡ig a felszÃ¡molÃ³ Ã¡ltal az Ã©rdeklÅ‘dÅ‘knek megadott bankszÃ¡mlÃ¡ra.<ujsor/>
+A vÃ©telÃ¡rba a hitelezÅ‘i kÃ¶vetelÃ©sek beszÃ¡mÃ­tÃ¡sÃ¡ra nincs lehetÅ‘sÃ©g, ezt a felszÃ¡molÃ³ kizÃ¡rja.<ujsor/>
+Az Ã©rtÃ©kesÃ­tÃ©sre kerÃ¼lÅ‘ ingatlanÃ©rt Ã©s annak egyes rÃ©szeiÃ©rt a felszÃ¡molÃ³ kellÃ©kszavatossÃ¡got nem vÃ¡llal, azokat a pÃ¡lyÃ¡zÃ³ megtekintett Ã©s megvizsgÃ¡lt Ã¡llapotban veszi meg azzal, hogy a tulajdonjog vÃ¡ltozÃ¡sÃ¡val kapcsolatos vagyonÃ¡truhÃ¡zÃ¡si illetÃ©k, vagy valamennyi mÃ¡s kÃ¶ltsÃ©g a pÃ¡lyÃ¡zÃ³t (vevÅ‘t) terheli, tovÃ¡bbÃ¡ az esetleg kÃ©sÅ‘bb felmerÃ¼lÅ‘ Ã©s az adÃ¡svÃ©tel idÅ‘pontjÃ¡ban nem ismert kÃ¶rnyezeti terhet is a vevÅ‘ viseli.<ujsor/>
+A teljes vÃ©telÃ¡r kiegyenlÃ­tÃ©se az egyes adÃ¡svÃ©teli szerzÅ‘dÃ©sek lÃ©trejÃ¶ttÃ©nek Ã©s a birtokbalÃ©pÃ©snek is elÅ‘feltÃ©tele.<ujsor/>
+A pÃ¡lyÃ¡zatokat legkÃ©sÅ‘bb Â­ az ajÃ¡nlott vÃ©telÃ¡r Ã©s fizetÃ©si mÃ³d megjelÃ¶lÃ©sÃ©vel Â­ a CÃ©gkÃ¶zlÃ¶nyben valÃ³ megjelenÃ©stÅ‘l szÃ¡mÃ­tott 30. napon, dÃ©lelÅ‘tt 10 Ã³rÃ¡ig kÃ©rjÃ¼k Ã­rÃ¡sban, szemÃ©lyesen, vagy postai Ãºton benyÃºjtani a felszÃ¡molÃ³ irodÃ¡jÃ¡ba: 9700 Szombathely, Kiskar u. 1. (postacÃ­m: HELP Kft., 9700 Szombathely, Pf. 67), vagy a zalaegerszegi irodÃ¡jÃ¡ba: 8900 Zalaegerszeg, BÃ©keligeti u. 1. (postacÃ­m: HELP Kft., 8901 Zalaegerszeg, Pf. 19).<ujsor/>
+A zÃ¡rt borÃ­tÃ©kra kÃ©rjÃ¼k rÃ¡Ã­rni: â€FOOD AND PACK Kft. f. a. PÃ¡lyÃ¡zatâ€.<ujsor/>
+A pÃ¡lyÃ¡zatok bontÃ¡sa Ã©s elbÃ­rÃ¡lÃ¡sa a benyÃºjtÃ¡si hatÃ¡ridÅ‘ lejÃ¡rta utÃ¡n szÃ¡mÃ­tott 20 munkanapon belÃ¼l megtÃ¶rtÃ©nik.<ujsor/>
+A felszÃ¡molÃ³ Ã©rtesÃ­ti az elÅ‘vÃ¡sÃ¡rlÃ¡sra jogosultakat, hogy elÅ‘vÃ¡sÃ¡rlÃ¡si jogukat ezen nyilvÃ¡nos pÃ¡lyÃ¡zaton (nyilvÃ¡nos Ã©rtÃ©kesÃ­tÃ©sen) gyakorolhatjÃ¡k.<ujsor/>
+Az elÅ‘vÃ¡sÃ¡rlÃ¡si jog gyakorlÃ¡sa Ã©rdekÃ©ben a felszÃ¡molÃ³ felhÃ­vja az Ã©rdekeltek figyelmÃ©t arra, hogy a jog gyakorlÃ¡sÃ¡ra irÃ¡nyulÃ³ szÃ¡ndÃ©kukat a pÃ¡lyÃ¡zatok benyÃºjtÃ¡si hatÃ¡ridejÃ©ig Ã­rÃ¡sban jelentsÃ©k be.<ujsor/>
+A felszÃ¡molÃ³ a pÃ¡lyÃ¡zatot megfelelÅ‘ ajÃ¡nlat hiÃ¡nyÃ¡ban eredmÃ©nytelennek nyilvÃ¡nÃ­thatja, Ã©s Ãºj pÃ¡lyÃ¡zatot Ã­rhat ki. MegfelelÅ‘, azonos Ã©rtÃ©kÅ± pÃ¡lyÃ¡zatok esetÃ©n az ajÃ¡nlattevÅ‘k kÃ¶zÃ¶tt nyilvÃ¡nos Ã¡rtÃ¡rgyalÃ¡s megtartÃ¡sÃ¡ra kerÃ¼l sor, melynek feltÃ©teleit az Ã¡rtÃ¡rgyalÃ¡s megkezdÃ©sÃ©t megelÅ‘zÅ‘en a rÃ©sztvevÅ‘kkel a felszÃ¡molÃ³biztos ismerteti.<ujsor/>
+BÅ‘vebb felvilÃ¡gosÃ­tÃ¡s kaphatÃ³ dr. SzabÃ³ ErnÅ‘ felszÃ¡molÃ³biztostÃ³l, a 06 (92) 510-466, 06 (92) 321-236-os telefonszÃ¡mokon [telefax: 06 (92) 510-426].<ujsor/>
 </mezo>
 <mezo id = "cjsz">1809106800</mezo>
-<mezo id = "nev">FOOD AND PACK Termelési, Kereskedelmi és Mûszaki Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">FOOD AND PACK TermelÃ©si, Kereskedelmi Ã©s MÅ±szaki TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">9700 Szombathely</mezo>
 </alrovat>
 <alrovat id = "11">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A HELP Kereskedelmi Szolgáltató és Tanácsadó Kft. (cégjegyzékszáma: [18 09 000505]; 9700 Szombathely, Kiskar u. 1.) mint a FOOD AND PACK Termelési, Kereskedelmi és Mûszaki Tanácsadó Kft. „f. a.” (cégjegyzékszáma: [18 09 106800]; 9700 Szombathely, Szent Flórián krt. 2.; adószáma: [10621693-2-18]), Vas Megyei Bíróság 5. Fpk. 18-06-000082/4. számú végzésével kijelölt felszámolója<ujsor/>
-nyilvános pályázat<ujsor/>
-útján értékesíteni kívánja a felszámolás alatt álló társaság tulajdonát képezõ, becsehelyi 0201. hrsz.-ú, külterületen lévõ, kivett mûvelési ágú, szarvasmarhatelep elnevezésû, 29 527 m2 nagyságú ingatlant és a rajta lévõ három darab, egyenként 300 férõhelyes, összesen 900 férõhelyes, szarvasmarhatartásra, illetve -hizlalásra alkalmas istállókat és a szarvasmarhatelep mûködését biztosító kiszolgáló létesítményeket.<ujsor/>
-Irányár: 60 000 000 Ft + áfa (hatvanmillió forint + áfa).<ujsor/>
-Bánatpénz: 8 000 000 Ft (nyolcmillió forint).<ujsor/>
-A pályázatnak tartalmaznia kell a pályázó nevét, pontos címét, a beígért vételárat (nettó ár Ft + áfa). A pályázathoz mellékelni kell, ha a pályázó vállalkozó, a vállalkozói igazolvány másolatát, gazdasági társaságnál a cégkivonatot, illetve másolatát, minden esetben a pályázó adószámát, statisztikai és pénzforgalmi jelzõszámát, valamint a bánatpénz befizetését (átutalását) bizonyító banki igazolást.<ujsor/>
-A pályázatban való részvétel feltétele a bánatpénz befizetése, legkésõbb a pályázat benyújtásának idõpontjáig a felszámoló által az érdeklõdõknek megadott bankszámlára.<ujsor/>
-A vételárba a hitelezõi követelések beszámítására nincs lehetõség, ezt a felszámoló kizárja.<ujsor/>
-Az értékesítésre kerülõ ingatlanért és annak egyes részeiért a felszámoló kellékszavatosságot nem vállal, azokat a pályázó megtekintett és megvizsgált állapotban veszi meg azzal, hogy a tulajdonjog változásával kapcsolatos vagyonátruházási illeték, vagy valamennyi más költség a pályázót (vevõt) terheli, továbbá az esetleg késõbb felmerülõ és az adásvétel idõpontjában nem ismert környezeti terhet is a vevõ viseli.<ujsor/>
-A teljes vételár kiegyenlítése az egyes adásvételi szerzõdések létrejöttének és a birtokbalépésnek is elõfeltétele.<ujsor/>
-A pályázatokat legkésõbb ­ az ajánlott vételár és fizetési mód megjelölésével ­ a Cégközlönyben való megjelenéstõl számított 20. napon, délelõtt 10 óráig kérjük írásban, személyesen vagy postai úton benyújtani a felszámoló irodájába: 9700 Szombathely, Kiskar u. 1. (postacím: HELP Kft., 9700 Szombathely, Pf. 67), vagy a zalaegerszegi irodájába: 8900 Zalaegerszeg, Békeligeti u. 1. (postacím: HELP Kft., 8901 Zalaegerszeg, Pf. 19).<ujsor/>
-A zárt borítékra kérjük ráírni: „FOOD AND PACK Kft. f. a. Pályázat”.<ujsor/>
-A pályázatok bontása és elbírálása a benyújtási határidõ lejárta után számított 20 munkanapon belül megtörténik.<ujsor/>
-A felszámoló értesíti az elõvásárlásra jogosultakat, hogy elõvásárlási jogukat ezen nyilvános pályázaton (nyilvános értékesítésen) gyakorolhatják.<ujsor/>
-Az elõvásárlási jog gyakorlása érdekében a felszámoló felhívja az érdekeltek figyelmét arra, hogy a jog gyakorlására irányuló szándékukat a pályázatok benyújtási határidejéig írásban jelentsék be.<ujsor/>
-A felszámoló a pályázatot megfelelõ ajánlat hiányában eredménytelennek nyilváníthatja, és új pályázatot írhat ki. Megfelelõ, azonos értékû pályázatok esetén az ajánlattevõk között nyilvános ártárgyalás megtartására kerül sor, melynek feltételeit az ártárgyalás megkezdését megelõzõen a résztvevõkkel a felszámolóbiztos ismerteti.<ujsor/>
-Bõvebb felvilágosítás kapható dr. Szabó Ernõ felszámolóbiztostól, a 06 (92) 510-466, 06 (92) 321-236-os telefonszámokon [telefax: 06 (92) 510-426].<ujsor/>
+<mezo id = "szoveg">A HELP Kereskedelmi SzolgÃ¡ltatÃ³ Ã©s TanÃ¡csadÃ³ Kft. (cÃ©gjegyzÃ©kszÃ¡ma: [18 09 000505]; 9700 Szombathely, Kiskar u. 1.) mint a FOOD AND PACK TermelÃ©si, Kereskedelmi Ã©s MÅ±szaki TanÃ¡csadÃ³ Kft. â€f. a.â€ (cÃ©gjegyzÃ©kszÃ¡ma: [18 09 106800]; 9700 Szombathely, Szent FlÃ³riÃ¡n krt. 2.; adÃ³szÃ¡ma: [10621693-2-18]), Vas Megyei BÃ­rÃ³sÃ¡g 5. Fpk. 18-06-000082/4. szÃ¡mÃº vÃ©gzÃ©sÃ©vel kijelÃ¶lt felszÃ¡molÃ³ja<ujsor/>
+nyilvÃ¡nos pÃ¡lyÃ¡zat<ujsor/>
+ÃºtjÃ¡n Ã©rtÃ©kesÃ­teni kÃ­vÃ¡nja a felszÃ¡molÃ¡s alatt Ã¡llÃ³ tÃ¡rsasÃ¡g tulajdonÃ¡t kÃ©pezÅ‘, becsehelyi 0201. hrsz.-Ãº, kÃ¼lterÃ¼leten lÃ©vÅ‘, kivett mÅ±velÃ©si Ã¡gÃº, szarvasmarhatelep elnevezÃ©sÅ±, 29 527 m2 nagysÃ¡gÃº ingatlant Ã©s a rajta lÃ©vÅ‘ hÃ¡rom darab, egyenkÃ©nt 300 fÃ©rÅ‘helyes, Ã¶sszesen 900 fÃ©rÅ‘helyes, szarvasmarhatartÃ¡sra, illetve -hizlalÃ¡sra alkalmas istÃ¡llÃ³kat Ã©s a szarvasmarhatelep mÅ±kÃ¶dÃ©sÃ©t biztosÃ­tÃ³ kiszolgÃ¡lÃ³ lÃ©tesÃ­tmÃ©nyeket.<ujsor/>
+IrÃ¡nyÃ¡r: 60 000 000 Ft + Ã¡fa (hatvanmilliÃ³ forint + Ã¡fa).<ujsor/>
+BÃ¡natpÃ©nz: 8 000 000 Ft (nyolcmilliÃ³ forint).<ujsor/>
+A pÃ¡lyÃ¡zatnak tartalmaznia kell a pÃ¡lyÃ¡zÃ³ nevÃ©t, pontos cÃ­mÃ©t, a beÃ­gÃ©rt vÃ©telÃ¡rat (nettÃ³ Ã¡r Ft + Ã¡fa). A pÃ¡lyÃ¡zathoz mellÃ©kelni kell, ha a pÃ¡lyÃ¡zÃ³ vÃ¡llalkozÃ³, a vÃ¡llalkozÃ³i igazolvÃ¡ny mÃ¡solatÃ¡t, gazdasÃ¡gi tÃ¡rsasÃ¡gnÃ¡l a cÃ©gkivonatot, illetve mÃ¡solatÃ¡t, minden esetben a pÃ¡lyÃ¡zÃ³ adÃ³szÃ¡mÃ¡t, statisztikai Ã©s pÃ©nzforgalmi jelzÅ‘szÃ¡mÃ¡t, valamint a bÃ¡natpÃ©nz befizetÃ©sÃ©t (Ã¡tutalÃ¡sÃ¡t) bizonyÃ­tÃ³ banki igazolÃ¡st.<ujsor/>
+A pÃ¡lyÃ¡zatban valÃ³ rÃ©szvÃ©tel feltÃ©tele a bÃ¡natpÃ©nz befizetÃ©se, legkÃ©sÅ‘bb a pÃ¡lyÃ¡zat benyÃºjtÃ¡sÃ¡nak idÅ‘pontjÃ¡ig a felszÃ¡molÃ³ Ã¡ltal az Ã©rdeklÅ‘dÅ‘knek megadott bankszÃ¡mlÃ¡ra.<ujsor/>
+A vÃ©telÃ¡rba a hitelezÅ‘i kÃ¶vetelÃ©sek beszÃ¡mÃ­tÃ¡sÃ¡ra nincs lehetÅ‘sÃ©g, ezt a felszÃ¡molÃ³ kizÃ¡rja.<ujsor/>
+Az Ã©rtÃ©kesÃ­tÃ©sre kerÃ¼lÅ‘ ingatlanÃ©rt Ã©s annak egyes rÃ©szeiÃ©rt a felszÃ¡molÃ³ kellÃ©kszavatossÃ¡got nem vÃ¡llal, azokat a pÃ¡lyÃ¡zÃ³ megtekintett Ã©s megvizsgÃ¡lt Ã¡llapotban veszi meg azzal, hogy a tulajdonjog vÃ¡ltozÃ¡sÃ¡val kapcsolatos vagyonÃ¡truhÃ¡zÃ¡si illetÃ©k, vagy valamennyi mÃ¡s kÃ¶ltsÃ©g a pÃ¡lyÃ¡zÃ³t (vevÅ‘t) terheli, tovÃ¡bbÃ¡ az esetleg kÃ©sÅ‘bb felmerÃ¼lÅ‘ Ã©s az adÃ¡svÃ©tel idÅ‘pontjÃ¡ban nem ismert kÃ¶rnyezeti terhet is a vevÅ‘ viseli.<ujsor/>
+A teljes vÃ©telÃ¡r kiegyenlÃ­tÃ©se az egyes adÃ¡svÃ©teli szerzÅ‘dÃ©sek lÃ©trejÃ¶ttÃ©nek Ã©s a birtokbalÃ©pÃ©snek is elÅ‘feltÃ©tele.<ujsor/>
+A pÃ¡lyÃ¡zatokat legkÃ©sÅ‘bb Â­ az ajÃ¡nlott vÃ©telÃ¡r Ã©s fizetÃ©si mÃ³d megjelÃ¶lÃ©sÃ©vel Â­ a CÃ©gkÃ¶zlÃ¶nyben valÃ³ megjelenÃ©stÅ‘l szÃ¡mÃ­tott 20. napon, dÃ©lelÅ‘tt 10 Ã³rÃ¡ig kÃ©rjÃ¼k Ã­rÃ¡sban, szemÃ©lyesen vagy postai Ãºton benyÃºjtani a felszÃ¡molÃ³ irodÃ¡jÃ¡ba: 9700 Szombathely, Kiskar u. 1. (postacÃ­m: HELP Kft., 9700 Szombathely, Pf. 67), vagy a zalaegerszegi irodÃ¡jÃ¡ba: 8900 Zalaegerszeg, BÃ©keligeti u. 1. (postacÃ­m: HELP Kft., 8901 Zalaegerszeg, Pf. 19).<ujsor/>
+A zÃ¡rt borÃ­tÃ©kra kÃ©rjÃ¼k rÃ¡Ã­rni: â€FOOD AND PACK Kft. f. a. PÃ¡lyÃ¡zatâ€.<ujsor/>
+A pÃ¡lyÃ¡zatok bontÃ¡sa Ã©s elbÃ­rÃ¡lÃ¡sa a benyÃºjtÃ¡si hatÃ¡ridÅ‘ lejÃ¡rta utÃ¡n szÃ¡mÃ­tott 20 munkanapon belÃ¼l megtÃ¶rtÃ©nik.<ujsor/>
+A felszÃ¡molÃ³ Ã©rtesÃ­ti az elÅ‘vÃ¡sÃ¡rlÃ¡sra jogosultakat, hogy elÅ‘vÃ¡sÃ¡rlÃ¡si jogukat ezen nyilvÃ¡nos pÃ¡lyÃ¡zaton (nyilvÃ¡nos Ã©rtÃ©kesÃ­tÃ©sen) gyakorolhatjÃ¡k.<ujsor/>
+Az elÅ‘vÃ¡sÃ¡rlÃ¡si jog gyakorlÃ¡sa Ã©rdekÃ©ben a felszÃ¡molÃ³ felhÃ­vja az Ã©rdekeltek figyelmÃ©t arra, hogy a jog gyakorlÃ¡sÃ¡ra irÃ¡nyulÃ³ szÃ¡ndÃ©kukat a pÃ¡lyÃ¡zatok benyÃºjtÃ¡si hatÃ¡ridejÃ©ig Ã­rÃ¡sban jelentsÃ©k be.<ujsor/>
+A felszÃ¡molÃ³ a pÃ¡lyÃ¡zatot megfelelÅ‘ ajÃ¡nlat hiÃ¡nyÃ¡ban eredmÃ©nytelennek nyilvÃ¡nÃ­thatja, Ã©s Ãºj pÃ¡lyÃ¡zatot Ã­rhat ki. MegfelelÅ‘, azonos Ã©rtÃ©kÅ± pÃ¡lyÃ¡zatok esetÃ©n az ajÃ¡nlattevÅ‘k kÃ¶zÃ¶tt nyilvÃ¡nos Ã¡rtÃ¡rgyalÃ¡s megtartÃ¡sÃ¡ra kerÃ¼l sor, melynek feltÃ©teleit az Ã¡rtÃ¡rgyalÃ¡s megkezdÃ©sÃ©t megelÅ‘zÅ‘en a rÃ©sztvevÅ‘kkel a felszÃ¡molÃ³biztos ismerteti.<ujsor/>
+BÅ‘vebb felvilÃ¡gosÃ­tÃ¡s kaphatÃ³ dr. SzabÃ³ ErnÅ‘ felszÃ¡molÃ³biztostÃ³l, a 06 (92) 510-466, 06 (92) 321-236-os telefonszÃ¡mokon [telefax: 06 (92) 510-426].<ujsor/>
 </mezo>
 <mezo id = "cjsz">1809106800</mezo>
-<mezo id = "nev">FOOD AND PACK Termelési, Kereskedelmi és Mûszaki Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">FOOD AND PACK TermelÃ©si, Kereskedelmi Ã©s MÅ±szaki TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">9700 Szombathely</mezo>
 </alrovat>
 <alrovat id = "12">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A HELP Kereskedelmi Szolgáltató és Tanácsadó Kft. (cégjegyzékszáma: [18 09 000505]; 9700 Szombathely, Kiskar u. 1.) mint a FOOD AND PACK Termelési, Kereskedelmi és Mûszaki Tanácsadó Kft. „f. a.” (cégjegyzékszáma: [18 09 106800]; 9700 Szombathely, Szent Flórián krt. 2.; adószáma: [10621693-2-18]), Vas Megyei Bíróság 5. Fpk. 18-06-000082/4. számú végzésével kijelölt felszámolója<ujsor/>
-nyilvános pályázat<ujsor/>
-útján értékesíteni kívánja a felszámolás alatt álló társaság tulajdonát képezõ, becsehelyi 0201. hrsz.-ú, külterületen lévõ, kivett mûvelési ágú, szarvasmarhatelep elnevezésû, 29 527 m2 nagyságú ingatlant és a rajta lévõ három darab, egyenként 300 férõhelyes, összesen 900 férõhelyes, szarvasmarhatartásra, illetve -hizlalásra alkalmas istállókat és a szarvasmarhatelep mûködését biztosító kiszolgáló létesítményeket.<ujsor/>
-Irányár: 60 000 000 Ft + áfa (hatvanmillió forint + áfa).<ujsor/>
-Bánatpénz: 6 000 000 Ft (hatmillió forint).<ujsor/>
-A pályázatnak tartalmaznia kell a pályázó nevét, pontos címét, a beígért vételárat (nettó ár Ft + áfa). A pályázathoz mellékelni kell, ha a pályázó vállalkozó, a vállalkozói igazolvány másolatát, gazdasági társaságnál a cégkivonatot, illetve másolatát, minden esetben a pályázó adószámát, statisztikai és pénzforgalmi jelzõszámát, valamint a bánatpénz befizetését (átutalását) bizonyító banki igazolást.<ujsor/>
-A pályázatban való részvétel feltétele a bánatpénz befizetése, legkésõbb a pályázat benyújtásának idõpontjáig a felszámoló által az érdeklõdõknek megadott bankszámlára.<ujsor/>
-A vételárba a hitelezõi követelések beszámítására nincs lehetõség, ezt a felszámoló kizárja.<ujsor/>
-Az értékesítésre kerülõ ingatlanért és annak egyes részeiért a felszámoló kellékszavatosságot nem vállal, azokat a pályázó megtekintett és megvizsgált állapotban veszi meg azzal, hogy a tulajdonjog változásával kapcsolatos vagyonátruházási illeték, vagy valamennyi más költség a pályázót (vevõt) terheli, továbbá az esetleg késõbb felmerülõ és az adásvétel idõpontjában nem ismert környezeti terhet is a vevõ viseli.<ujsor/>
-A teljes vételár kiegyenlítése az egyes adásvételi szerzõdések létrejöttének és a birtokbalépésnek is elõfeltétele.<ujsor/>
-A pályázatokat legkésõbb ­ az ajánlott vételár és fizetési mód megjelölésével ­ a Cégközlönyben való megjelenéstõl számított 20. napon, délelõtt 10 óráig kérjük írásban, személyesen, vagy postai úton benyújtani a felszámoló irodájába: 9700 Szombathely, Kiskar u. 1. (postacím: HELP Kft., 9700 Szombathely, Pf. 67), vagy a zalaegerszegi irodájába: 8900 Zalaegerszeg, Békeligeti u. 1.<ujsor/>
-(postacím: HELP Kft., 8901 Zalaegerszeg, Pf. 19).<ujsor/>
-A zárt borítékra kérjük ráírni: „FOOD AND PACK Kft. f. a. Pályázat”.<ujsor/>
-A pályázatok bontása és elbírálása a benyújtási határidõ lejárta után számított 20 munkanapon belül megtörténik.<ujsor/>
-A felszámoló értesíti az elõvásárlásra jogosultakat, hogy elõvásárlási jogukat ezen nyilvános pályázaton (nyilvános értékesítésen) gyakorolhatják.<ujsor/>
-Az elõvásárlási jog gyakorlása érdekében a felszámoló felhívja az érdekeltek figyelmét arra, hogy a jog gyakorlására irányuló szándékukat a pályázatok benyújtási határidejéig írásban jelentsék be.<ujsor/>
-A felszámoló a pályázatot megfelelõ ajánlat hiányában eredménytelennek nyilváníthatja, és új pályázatot írhat ki. Megfelelõ, azonos értékû pályázatok esetén az ajánlattevõk között nyilvános ártárgyalás megtartására kerül sor, melynek feltételeit az ártárgyalás megkezdését megelõzõen a résztvevõkkel a felszámolóbiztos ismerteti.<ujsor/>
-Bõvebb felvilágosítás kapható dr. Szabó Ernõ felszámolóbiztostól, a 06 (92) 510-466, 06 (92) 321-236-os telefonszámokon [telefax: 06 (92) 510-426].<ujsor/>
+<mezo id = "szoveg">A HELP Kereskedelmi SzolgÃ¡ltatÃ³ Ã©s TanÃ¡csadÃ³ Kft. (cÃ©gjegyzÃ©kszÃ¡ma: [18 09 000505]; 9700 Szombathely, Kiskar u. 1.) mint a FOOD AND PACK TermelÃ©si, Kereskedelmi Ã©s MÅ±szaki TanÃ¡csadÃ³ Kft. â€f. a.â€ (cÃ©gjegyzÃ©kszÃ¡ma: [18 09 106800]; 9700 Szombathely, Szent FlÃ³riÃ¡n krt. 2.; adÃ³szÃ¡ma: [10621693-2-18]), Vas Megyei BÃ­rÃ³sÃ¡g 5. Fpk. 18-06-000082/4. szÃ¡mÃº vÃ©gzÃ©sÃ©vel kijelÃ¶lt felszÃ¡molÃ³ja<ujsor/>
+nyilvÃ¡nos pÃ¡lyÃ¡zat<ujsor/>
+ÃºtjÃ¡n Ã©rtÃ©kesÃ­teni kÃ­vÃ¡nja a felszÃ¡molÃ¡s alatt Ã¡llÃ³ tÃ¡rsasÃ¡g tulajdonÃ¡t kÃ©pezÅ‘, becsehelyi 0201. hrsz.-Ãº, kÃ¼lterÃ¼leten lÃ©vÅ‘, kivett mÅ±velÃ©si Ã¡gÃº, szarvasmarhatelep elnevezÃ©sÅ±, 29 527 m2 nagysÃ¡gÃº ingatlant Ã©s a rajta lÃ©vÅ‘ hÃ¡rom darab, egyenkÃ©nt 300 fÃ©rÅ‘helyes, Ã¶sszesen 900 fÃ©rÅ‘helyes, szarvasmarhatartÃ¡sra, illetve -hizlalÃ¡sra alkalmas istÃ¡llÃ³kat Ã©s a szarvasmarhatelep mÅ±kÃ¶dÃ©sÃ©t biztosÃ­tÃ³ kiszolgÃ¡lÃ³ lÃ©tesÃ­tmÃ©nyeket.<ujsor/>
+IrÃ¡nyÃ¡r: 60 000 000 Ft + Ã¡fa (hatvanmilliÃ³ forint + Ã¡fa).<ujsor/>
+BÃ¡natpÃ©nz: 6 000 000 Ft (hatmilliÃ³ forint).<ujsor/>
+A pÃ¡lyÃ¡zatnak tartalmaznia kell a pÃ¡lyÃ¡zÃ³ nevÃ©t, pontos cÃ­mÃ©t, a beÃ­gÃ©rt vÃ©telÃ¡rat (nettÃ³ Ã¡r Ft + Ã¡fa). A pÃ¡lyÃ¡zathoz mellÃ©kelni kell, ha a pÃ¡lyÃ¡zÃ³ vÃ¡llalkozÃ³, a vÃ¡llalkozÃ³i igazolvÃ¡ny mÃ¡solatÃ¡t, gazdasÃ¡gi tÃ¡rsasÃ¡gnÃ¡l a cÃ©gkivonatot, illetve mÃ¡solatÃ¡t, minden esetben a pÃ¡lyÃ¡zÃ³ adÃ³szÃ¡mÃ¡t, statisztikai Ã©s pÃ©nzforgalmi jelzÅ‘szÃ¡mÃ¡t, valamint a bÃ¡natpÃ©nz befizetÃ©sÃ©t (Ã¡tutalÃ¡sÃ¡t) bizonyÃ­tÃ³ banki igazolÃ¡st.<ujsor/>
+A pÃ¡lyÃ¡zatban valÃ³ rÃ©szvÃ©tel feltÃ©tele a bÃ¡natpÃ©nz befizetÃ©se, legkÃ©sÅ‘bb a pÃ¡lyÃ¡zat benyÃºjtÃ¡sÃ¡nak idÅ‘pontjÃ¡ig a felszÃ¡molÃ³ Ã¡ltal az Ã©rdeklÅ‘dÅ‘knek megadott bankszÃ¡mlÃ¡ra.<ujsor/>
+A vÃ©telÃ¡rba a hitelezÅ‘i kÃ¶vetelÃ©sek beszÃ¡mÃ­tÃ¡sÃ¡ra nincs lehetÅ‘sÃ©g, ezt a felszÃ¡molÃ³ kizÃ¡rja.<ujsor/>
+Az Ã©rtÃ©kesÃ­tÃ©sre kerÃ¼lÅ‘ ingatlanÃ©rt Ã©s annak egyes rÃ©szeiÃ©rt a felszÃ¡molÃ³ kellÃ©kszavatossÃ¡got nem vÃ¡llal, azokat a pÃ¡lyÃ¡zÃ³ megtekintett Ã©s megvizsgÃ¡lt Ã¡llapotban veszi meg azzal, hogy a tulajdonjog vÃ¡ltozÃ¡sÃ¡val kapcsolatos vagyonÃ¡truhÃ¡zÃ¡si illetÃ©k, vagy valamennyi mÃ¡s kÃ¶ltsÃ©g a pÃ¡lyÃ¡zÃ³t (vevÅ‘t) terheli, tovÃ¡bbÃ¡ az esetleg kÃ©sÅ‘bb felmerÃ¼lÅ‘ Ã©s az adÃ¡svÃ©tel idÅ‘pontjÃ¡ban nem ismert kÃ¶rnyezeti terhet is a vevÅ‘ viseli.<ujsor/>
+A teljes vÃ©telÃ¡r kiegyenlÃ­tÃ©se az egyes adÃ¡svÃ©teli szerzÅ‘dÃ©sek lÃ©trejÃ¶ttÃ©nek Ã©s a birtokbalÃ©pÃ©snek is elÅ‘feltÃ©tele.<ujsor/>
+A pÃ¡lyÃ¡zatokat legkÃ©sÅ‘bb Â­ az ajÃ¡nlott vÃ©telÃ¡r Ã©s fizetÃ©si mÃ³d megjelÃ¶lÃ©sÃ©vel Â­ a CÃ©gkÃ¶zlÃ¶nyben valÃ³ megjelenÃ©stÅ‘l szÃ¡mÃ­tott 20. napon, dÃ©lelÅ‘tt 10 Ã³rÃ¡ig kÃ©rjÃ¼k Ã­rÃ¡sban, szemÃ©lyesen, vagy postai Ãºton benyÃºjtani a felszÃ¡molÃ³ irodÃ¡jÃ¡ba: 9700 Szombathely, Kiskar u. 1. (postacÃ­m: HELP Kft., 9700 Szombathely, Pf. 67), vagy a zalaegerszegi irodÃ¡jÃ¡ba: 8900 Zalaegerszeg, BÃ©keligeti u. 1.<ujsor/>
+(postacÃ­m: HELP Kft., 8901 Zalaegerszeg, Pf. 19).<ujsor/>
+A zÃ¡rt borÃ­tÃ©kra kÃ©rjÃ¼k rÃ¡Ã­rni: â€FOOD AND PACK Kft. f. a. PÃ¡lyÃ¡zatâ€.<ujsor/>
+A pÃ¡lyÃ¡zatok bontÃ¡sa Ã©s elbÃ­rÃ¡lÃ¡sa a benyÃºjtÃ¡si hatÃ¡ridÅ‘ lejÃ¡rta utÃ¡n szÃ¡mÃ­tott 20 munkanapon belÃ¼l megtÃ¶rtÃ©nik.<ujsor/>
+A felszÃ¡molÃ³ Ã©rtesÃ­ti az elÅ‘vÃ¡sÃ¡rlÃ¡sra jogosultakat, hogy elÅ‘vÃ¡sÃ¡rlÃ¡si jogukat ezen nyilvÃ¡nos pÃ¡lyÃ¡zaton (nyilvÃ¡nos Ã©rtÃ©kesÃ­tÃ©sen) gyakorolhatjÃ¡k.<ujsor/>
+Az elÅ‘vÃ¡sÃ¡rlÃ¡si jog gyakorlÃ¡sa Ã©rdekÃ©ben a felszÃ¡molÃ³ felhÃ­vja az Ã©rdekeltek figyelmÃ©t arra, hogy a jog gyakorlÃ¡sÃ¡ra irÃ¡nyulÃ³ szÃ¡ndÃ©kukat a pÃ¡lyÃ¡zatok benyÃºjtÃ¡si hatÃ¡ridejÃ©ig Ã­rÃ¡sban jelentsÃ©k be.<ujsor/>
+A felszÃ¡molÃ³ a pÃ¡lyÃ¡zatot megfelelÅ‘ ajÃ¡nlat hiÃ¡nyÃ¡ban eredmÃ©nytelennek nyilvÃ¡nÃ­thatja, Ã©s Ãºj pÃ¡lyÃ¡zatot Ã­rhat ki. MegfelelÅ‘, azonos Ã©rtÃ©kÅ± pÃ¡lyÃ¡zatok esetÃ©n az ajÃ¡nlattevÅ‘k kÃ¶zÃ¶tt nyilvÃ¡nos Ã¡rtÃ¡rgyalÃ¡s megtartÃ¡sÃ¡ra kerÃ¼l sor, melynek feltÃ©teleit az Ã¡rtÃ¡rgyalÃ¡s megkezdÃ©sÃ©t megelÅ‘zÅ‘en a rÃ©sztvevÅ‘kkel a felszÃ¡molÃ³biztos ismerteti.<ujsor/>
+BÅ‘vebb felvilÃ¡gosÃ­tÃ¡s kaphatÃ³ dr. SzabÃ³ ErnÅ‘ felszÃ¡molÃ³biztostÃ³l, a 06 (92) 510-466, 06 (92) 321-236-os telefonszÃ¡mokon [telefax: 06 (92) 510-426].<ujsor/>
 </mezo>
 <mezo id = "cjsz">1809106800</mezo>
-<mezo id = "nev">FOOD AND PACK Termelési, Kereskedelmi és Mûszaki Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">FOOD AND PACK TermelÃ©si, Kereskedelmi Ã©s MÅ±szaki TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">9700 Szombathely</mezo>
 </alrovat>
 <alrovat id = "13">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A HELP Kereskedelmi Szolgáltató és Tanácsadó Kft. (Cg.: [18 09 000505]; 9700 Szombathely, Kiskar u. 1.) mint a FOOD AND PACK Termelési, Kereskedelmi és Mûszaki Tanácsadó Kft. „f. a.” (Cg.: [18 09 106800]; 9700 Szombathely, Szent Flórián krt. 2.; adószáma: [10621693-2-18]) a Vas Megyei Bíróság 5. Fpk. 18-06-000082/4. számú végzésével kijelölt felszámolója<ujsor/>
-nyilvános pályázat<ujsor/>
-útján értékesíteni kívánja a felszámolás alatt álló társaság tulajdonát képezõ, becsehelyi 0201. hrsz.-ú külterületen lévõ kivett mûvelési ágú szarvasmarhatelep elnevezésû, 29 527 m2 nagyságú ingatlant és a rajta lévõ három darab, egyenként 300 férõhelyes, összesen 900 férõhelyes szarvasmarha tartására, illetve hizlalására alkalmas istállókat és a szarvasmarhatelep mûködését biztosító kiszolgáló létesítményeket.<ujsor/>
-Irányár: 60 000 000 Ft + áfa (hatvanmillió forint + áfa).<ujsor/>
-Bánatpénz: 6 000 000 Ft (hatmillió forint).<ujsor/>
-A pályázatnak tartalmaznia kell a pályázó nevét, pontos címét, a beígért vételárat (nettó ár Ft + áfa). A pályázathoz mellékelni kell, ha a pályázó vállalkozó, a vállalkozói igazolvány másolatát, gazdasági társaságnál a cégkivonatot, illetve másolatát, minden esetben a pályázó adószámát, statisztikai és pénzforgalmi jelzõszámát, valamint a bánatpénz befizetését (átutalását) bizonyító banki igazolást.<ujsor/>
-A pályázatban való részvétel feltétele bánatpénz befizetése, legkésõbb a pályázat benyújtásának idõpontjáig a felszámoló által az érdeklõdõknek megadott bankszámlára.<ujsor/>
-A vételárba a hitelezõi követelések beszámítására nincs lehetõség, ezt a felszámoló kizárja.<ujsor/>
-Az értékesítésre kerülõ ingatlanért és annak egyes részeiért a felszámoló kellékszavatosságot nem vállal, azokat a pályázó megtekintett és megvizsgált állapotban veszi meg azzal, hogy a tulajdonjog változásával kapcsolatos vagyonátruházási illeték, vagy valamennyi más költség a pályázót (vevõt) terheli, továbbá az esetleg késõbb felmerülõ és az adásvétel idõpontjában nem ismert környezeti terhet is a vevõ viseli.<ujsor/>
-A teljes vételár kiegyenlítése az egyes adásvételi szerzõdések létrejöttének és a birtokbalépésnek is elõfeltétele.<ujsor/>
-A pályázatokat legkésõbb ­ az ajánlott vételár és fizetési mód megjelölésével ­ a Cégközlönyben való megjelenéstõl számított 20. napon, délelõtt 10 óráig kérjük írásban, személyesen vagy postai úton benyújtani a felszámoló irodájába: 9700 Szombathely, Kiskar u. 1. (postacím: HELP Kft., 9700 Szombathely, Pf. 67), vagy a zalaegerszegi irodájába: 8900 Zalaegerszeg, Békeligeti u. 1. (postacíme: HELP Kft., 8901 Zalaegerszeg, Pf. 19). A zárt borítékra kérjük ráírni: „FOOD AND PACK Kft. f. a. pályázat”.<ujsor/>
-A pályázatok bontása és elbírálása a benyújtási határidõ lejárta után számított 20 munkanapon belül megtörténik.<ujsor/>
-A felszámoló értesíti az elõvásárlásra jogosultakat, hogy elõvásárlási jogukat ezen nyilvános pályázaton (nyilvános értékesítésen) gyakorolhatják.<ujsor/>
-Az elõvásárlási jog gyakorlása érdekében a felszámoló felhívja az érdekeltek figyelmét arra, hogy a jog gyakorlására irányuló szándékukat a pályázatok benyújtási határidejéig írásban jelentsék be.<ujsor/>
-A felszámoló a pályázatot megfelelõ ajánlat hiányában eredménytelennek nyilváníthatja, és új pályázatot írhat ki. Megfelelõ, azonos értékû pályázatok esetén az ajánlattevõk között nyilvános ártárgyalás megtartására kerül sor, melynek feltételeit az ártárgyalás megkezdését megelõzõen a résztvevõkkel a felszámolóbiztos ismerteti.<ujsor/>
-Bõvebb felvilágosítás kapható dr. Szabó Ernõ felszámolóbiztostól, a 06 (92) 510-466, 06 (92) 321-236-os telefonszámokon [telefax: 06 (92) 510-426].<ujsor/>
+<mezo id = "szoveg">A HELP Kereskedelmi SzolgÃ¡ltatÃ³ Ã©s TanÃ¡csadÃ³ Kft. (Cg.: [18 09 000505]; 9700 Szombathely, Kiskar u. 1.) mint a FOOD AND PACK TermelÃ©si, Kereskedelmi Ã©s MÅ±szaki TanÃ¡csadÃ³ Kft. â€f. a.â€ (Cg.: [18 09 106800]; 9700 Szombathely, Szent FlÃ³riÃ¡n krt. 2.; adÃ³szÃ¡ma: [10621693-2-18]) a Vas Megyei BÃ­rÃ³sÃ¡g 5. Fpk. 18-06-000082/4. szÃ¡mÃº vÃ©gzÃ©sÃ©vel kijelÃ¶lt felszÃ¡molÃ³ja<ujsor/>
+nyilvÃ¡nos pÃ¡lyÃ¡zat<ujsor/>
+ÃºtjÃ¡n Ã©rtÃ©kesÃ­teni kÃ­vÃ¡nja a felszÃ¡molÃ¡s alatt Ã¡llÃ³ tÃ¡rsasÃ¡g tulajdonÃ¡t kÃ©pezÅ‘, becsehelyi 0201. hrsz.-Ãº kÃ¼lterÃ¼leten lÃ©vÅ‘ kivett mÅ±velÃ©si Ã¡gÃº szarvasmarhatelep elnevezÃ©sÅ±, 29 527 m2 nagysÃ¡gÃº ingatlant Ã©s a rajta lÃ©vÅ‘ hÃ¡rom darab, egyenkÃ©nt 300 fÃ©rÅ‘helyes, Ã¶sszesen 900 fÃ©rÅ‘helyes szarvasmarha tartÃ¡sÃ¡ra, illetve hizlalÃ¡sÃ¡ra alkalmas istÃ¡llÃ³kat Ã©s a szarvasmarhatelep mÅ±kÃ¶dÃ©sÃ©t biztosÃ­tÃ³ kiszolgÃ¡lÃ³ lÃ©tesÃ­tmÃ©nyeket.<ujsor/>
+IrÃ¡nyÃ¡r: 60 000 000 Ft + Ã¡fa (hatvanmilliÃ³ forint + Ã¡fa).<ujsor/>
+BÃ¡natpÃ©nz: 6 000 000 Ft (hatmilliÃ³ forint).<ujsor/>
+A pÃ¡lyÃ¡zatnak tartalmaznia kell a pÃ¡lyÃ¡zÃ³ nevÃ©t, pontos cÃ­mÃ©t, a beÃ­gÃ©rt vÃ©telÃ¡rat (nettÃ³ Ã¡r Ft + Ã¡fa). A pÃ¡lyÃ¡zathoz mellÃ©kelni kell, ha a pÃ¡lyÃ¡zÃ³ vÃ¡llalkozÃ³, a vÃ¡llalkozÃ³i igazolvÃ¡ny mÃ¡solatÃ¡t, gazdasÃ¡gi tÃ¡rsasÃ¡gnÃ¡l a cÃ©gkivonatot, illetve mÃ¡solatÃ¡t, minden esetben a pÃ¡lyÃ¡zÃ³ adÃ³szÃ¡mÃ¡t, statisztikai Ã©s pÃ©nzforgalmi jelzÅ‘szÃ¡mÃ¡t, valamint a bÃ¡natpÃ©nz befizetÃ©sÃ©t (Ã¡tutalÃ¡sÃ¡t) bizonyÃ­tÃ³ banki igazolÃ¡st.<ujsor/>
+A pÃ¡lyÃ¡zatban valÃ³ rÃ©szvÃ©tel feltÃ©tele bÃ¡natpÃ©nz befizetÃ©se, legkÃ©sÅ‘bb a pÃ¡lyÃ¡zat benyÃºjtÃ¡sÃ¡nak idÅ‘pontjÃ¡ig a felszÃ¡molÃ³ Ã¡ltal az Ã©rdeklÅ‘dÅ‘knek megadott bankszÃ¡mlÃ¡ra.<ujsor/>
+A vÃ©telÃ¡rba a hitelezÅ‘i kÃ¶vetelÃ©sek beszÃ¡mÃ­tÃ¡sÃ¡ra nincs lehetÅ‘sÃ©g, ezt a felszÃ¡molÃ³ kizÃ¡rja.<ujsor/>
+Az Ã©rtÃ©kesÃ­tÃ©sre kerÃ¼lÅ‘ ingatlanÃ©rt Ã©s annak egyes rÃ©szeiÃ©rt a felszÃ¡molÃ³ kellÃ©kszavatossÃ¡got nem vÃ¡llal, azokat a pÃ¡lyÃ¡zÃ³ megtekintett Ã©s megvizsgÃ¡lt Ã¡llapotban veszi meg azzal, hogy a tulajdonjog vÃ¡ltozÃ¡sÃ¡val kapcsolatos vagyonÃ¡truhÃ¡zÃ¡si illetÃ©k, vagy valamennyi mÃ¡s kÃ¶ltsÃ©g a pÃ¡lyÃ¡zÃ³t (vevÅ‘t) terheli, tovÃ¡bbÃ¡ az esetleg kÃ©sÅ‘bb felmerÃ¼lÅ‘ Ã©s az adÃ¡svÃ©tel idÅ‘pontjÃ¡ban nem ismert kÃ¶rnyezeti terhet is a vevÅ‘ viseli.<ujsor/>
+A teljes vÃ©telÃ¡r kiegyenlÃ­tÃ©se az egyes adÃ¡svÃ©teli szerzÅ‘dÃ©sek lÃ©trejÃ¶ttÃ©nek Ã©s a birtokbalÃ©pÃ©snek is elÅ‘feltÃ©tele.<ujsor/>
+A pÃ¡lyÃ¡zatokat legkÃ©sÅ‘bb Â­ az ajÃ¡nlott vÃ©telÃ¡r Ã©s fizetÃ©si mÃ³d megjelÃ¶lÃ©sÃ©vel Â­ a CÃ©gkÃ¶zlÃ¶nyben valÃ³ megjelenÃ©stÅ‘l szÃ¡mÃ­tott 20. napon, dÃ©lelÅ‘tt 10 Ã³rÃ¡ig kÃ©rjÃ¼k Ã­rÃ¡sban, szemÃ©lyesen vagy postai Ãºton benyÃºjtani a felszÃ¡molÃ³ irodÃ¡jÃ¡ba: 9700 Szombathely, Kiskar u. 1. (postacÃ­m: HELP Kft., 9700 Szombathely, Pf. 67), vagy a zalaegerszegi irodÃ¡jÃ¡ba: 8900 Zalaegerszeg, BÃ©keligeti u. 1. (postacÃ­me: HELP Kft., 8901 Zalaegerszeg, Pf. 19). A zÃ¡rt borÃ­tÃ©kra kÃ©rjÃ¼k rÃ¡Ã­rni: â€FOOD AND PACK Kft. f. a. pÃ¡lyÃ¡zatâ€.<ujsor/>
+A pÃ¡lyÃ¡zatok bontÃ¡sa Ã©s elbÃ­rÃ¡lÃ¡sa a benyÃºjtÃ¡si hatÃ¡ridÅ‘ lejÃ¡rta utÃ¡n szÃ¡mÃ­tott 20 munkanapon belÃ¼l megtÃ¶rtÃ©nik.<ujsor/>
+A felszÃ¡molÃ³ Ã©rtesÃ­ti az elÅ‘vÃ¡sÃ¡rlÃ¡sra jogosultakat, hogy elÅ‘vÃ¡sÃ¡rlÃ¡si jogukat ezen nyilvÃ¡nos pÃ¡lyÃ¡zaton (nyilvÃ¡nos Ã©rtÃ©kesÃ­tÃ©sen) gyakorolhatjÃ¡k.<ujsor/>
+Az elÅ‘vÃ¡sÃ¡rlÃ¡si jog gyakorlÃ¡sa Ã©rdekÃ©ben a felszÃ¡molÃ³ felhÃ­vja az Ã©rdekeltek figyelmÃ©t arra, hogy a jog gyakorlÃ¡sÃ¡ra irÃ¡nyulÃ³ szÃ¡ndÃ©kukat a pÃ¡lyÃ¡zatok benyÃºjtÃ¡si hatÃ¡ridejÃ©ig Ã­rÃ¡sban jelentsÃ©k be.<ujsor/>
+A felszÃ¡molÃ³ a pÃ¡lyÃ¡zatot megfelelÅ‘ ajÃ¡nlat hiÃ¡nyÃ¡ban eredmÃ©nytelennek nyilvÃ¡nÃ­thatja, Ã©s Ãºj pÃ¡lyÃ¡zatot Ã­rhat ki. MegfelelÅ‘, azonos Ã©rtÃ©kÅ± pÃ¡lyÃ¡zatok esetÃ©n az ajÃ¡nlattevÅ‘k kÃ¶zÃ¶tt nyilvÃ¡nos Ã¡rtÃ¡rgyalÃ¡s megtartÃ¡sÃ¡ra kerÃ¼l sor, melynek feltÃ©teleit az Ã¡rtÃ¡rgyalÃ¡s megkezdÃ©sÃ©t megelÅ‘zÅ‘en a rÃ©sztvevÅ‘kkel a felszÃ¡molÃ³biztos ismerteti.<ujsor/>
+BÅ‘vebb felvilÃ¡gosÃ­tÃ¡s kaphatÃ³ dr. SzabÃ³ ErnÅ‘ felszÃ¡molÃ³biztostÃ³l, a 06 (92) 510-466, 06 (92) 321-236-os telefonszÃ¡mokon [telefax: 06 (92) 510-426].<ujsor/>
 </mezo>
 <mezo id = "cjsz">1809106800</mezo>
-<mezo id = "nev">FOOD AND PACK Termelési, Kereskedelmi és Mûszaki Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">FOOD AND PACK TermelÃ©si, Kereskedelmi Ã©s MÅ±szaki TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">9700 Szombathely</mezo>
 </alrovat>
 <alrovat id = "14">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A HELP Kereskedelmi Szolgáltató és Tanácsadó Kft. (Cg.: [18 09 000505]; 9700 Szombathely, Kiskar u. 1.) mint a FOOD AND PACK Termelési, Kereskedelmi és Mûszaki Tanácsadó Kft. „f. a.” (Cg.: [18 09 106800]; 9700 Szombathely, Szent Flórián krt. 2.; adószáma: [10621693-2-18]) a Vas Megyei Bíróság 5. Fpk. 18-06-000082/4. számú végzésével kijelölt felszámolója<ujsor/>
-nyilvános pályázat<ujsor/>
-útján értékesíteni kívánja a felszámolás alatt álló társaság tulajdonát képezõ, becsehelyi 0201. hrsz.-ú külterületen lévõ kivett mûvelési ágú szarvasmarhatelep elnevezésû, 29 527 m2 nagyságú ingatlant és a rajta lévõ három darab, egyenként 300 férõhelyes, összesen 900 férõhelyes szarvasmarha tartására, illetve hizlalására alkalmas istállókat és a szarvasmarhatelep mûködését biztosító kiszolgáló létesítményeket.<ujsor/>
-Irányár: 60 000 000 Ft + áfa (hatvanmillió forint + áfa).<ujsor/>
-Bánatpénz: 6 000 000 Ft (hatmillió forint).<ujsor/>
-A pályázatnak tartalmaznia kell a pályázó nevét, pontos címét, a beígért vételárat (nettó ár Ft + áfa). A pályázathoz mellékelni kell, ha a pályázó vállalkozó, a vállalkozói igazolvány másolatát, gazdasági társaságnál a cégkivonatot, illetve másolatát, minden esetben a pályázó adószámát, statisztikai és pénzforgalmi jelzõszámát, valamint a bánatpénz befizetését (átutalását) bizonyító banki igazolást.<ujsor/>
-A pályázatban való részvétel feltétele a bánatpénz befizetése, legkésõbb a pályázat benyújtásának idõpontjáig a felszámoló által az érdeklõdõknek megadott bankszámlára.<ujsor/>
-A vételárba a hitelezõi követelések beszámítására nincs lehetõség, ezt a felszámoló kizárja.<ujsor/>
-Az értékesítésre kerülõ ingatlanért és annak egyes részeiért a felszámoló kellékszavatosságot nem vállal, azokat a pályázó megtekintett és megvizsgált állapotban veszi meg azzal, hogy a tulajdonjog változásával kapcsolatos vagyonátruházási illeték, vagy valamennyi más költség a pályázót (vevõt) terheli, továbbá az esetleg késõbb felmerülõ és az adásvétel idõpontjában nem ismert környezeti terhet is a vevõ viseli.<ujsor/>
-A teljes vételár kiegyenlítése az egyes adásvételi szerzõdések létrejöttének és a birtokbalépésnek is elõfeltétele.<ujsor/>
-A pályázatokat legkésõbb ­ az ajánlott vételár és fizetési mód megjelölésével ­ a Cégközlönyben való megjelenéstõl számított 20. napon, délelõtt 10 óráig kérjük írásban, személyesen vagy postai úton benyújtani a felszámoló irodájába: 9700 Szombathely, Kiskar u. 1. (postacím: HELP Kft., 9700 Szombathely, Pf. 67), vagy a zalaegerszegi irodájába: 8900 Zalaegerszeg, Békeligeti u. 1. (postacíme: HELP Kft., 8901 Zalaegerszeg, Pf. 19).<ujsor/>
-A zárt borítékra kérjük ráírni: „FOOD AND PACK Kft. f. a. pályázat”.<ujsor/>
-A pályázatok bontása és elbírálása a benyújtási határidõ lejárta után számított 20 munkanapon belül megtörténik.<ujsor/>
-A felszámoló értesíti az elõvásárlásra jogosultakat, hogy elõvásárlási jogukat ezen nyilvános pályázaton (nyilvános értékesítésen) gyakorolhatják.<ujsor/>
-Az elõvásárlási jog gyakorlása érdekében a felszámoló felhívja az érdekeltek figyelmét arra, hogy a jog gyakorlására irányuló szándékukat a pályázatok benyújtási határidejéig írásban jelentsék be.<ujsor/>
-A felszámoló a pályázatot megfelelõ ajánlat hiányában eredménytelennek nyilváníthatja, és új pályázatot írhat ki. Megfelelõ, azonos értékû pályázatok esetén az ajánlattevõk között nyilvános ártárgyalás megtartására kerül sor, melynek feltételeit az ártárgyalás megkezdését megelõzõen a résztvevõkkel a felszámolóbiztos ismerteti.<ujsor/>
-Bõvebb felvilágosítás kapható dr. Szabó Ernõ felszámolóbiztostól, a 06 (92) 510-466, 06 (92) 321-236-os telefonszámokon [telefax: 06 (92) 510-426].<ujsor/>
+<mezo id = "szoveg">A HELP Kereskedelmi SzolgÃ¡ltatÃ³ Ã©s TanÃ¡csadÃ³ Kft. (Cg.: [18 09 000505]; 9700 Szombathely, Kiskar u. 1.) mint a FOOD AND PACK TermelÃ©si, Kereskedelmi Ã©s MÅ±szaki TanÃ¡csadÃ³ Kft. â€f. a.â€ (Cg.: [18 09 106800]; 9700 Szombathely, Szent FlÃ³riÃ¡n krt. 2.; adÃ³szÃ¡ma: [10621693-2-18]) a Vas Megyei BÃ­rÃ³sÃ¡g 5. Fpk. 18-06-000082/4. szÃ¡mÃº vÃ©gzÃ©sÃ©vel kijelÃ¶lt felszÃ¡molÃ³ja<ujsor/>
+nyilvÃ¡nos pÃ¡lyÃ¡zat<ujsor/>
+ÃºtjÃ¡n Ã©rtÃ©kesÃ­teni kÃ­vÃ¡nja a felszÃ¡molÃ¡s alatt Ã¡llÃ³ tÃ¡rsasÃ¡g tulajdonÃ¡t kÃ©pezÅ‘, becsehelyi 0201. hrsz.-Ãº kÃ¼lterÃ¼leten lÃ©vÅ‘ kivett mÅ±velÃ©si Ã¡gÃº szarvasmarhatelep elnevezÃ©sÅ±, 29 527 m2 nagysÃ¡gÃº ingatlant Ã©s a rajta lÃ©vÅ‘ hÃ¡rom darab, egyenkÃ©nt 300 fÃ©rÅ‘helyes, Ã¶sszesen 900 fÃ©rÅ‘helyes szarvasmarha tartÃ¡sÃ¡ra, illetve hizlalÃ¡sÃ¡ra alkalmas istÃ¡llÃ³kat Ã©s a szarvasmarhatelep mÅ±kÃ¶dÃ©sÃ©t biztosÃ­tÃ³ kiszolgÃ¡lÃ³ lÃ©tesÃ­tmÃ©nyeket.<ujsor/>
+IrÃ¡nyÃ¡r: 60 000 000 Ft + Ã¡fa (hatvanmilliÃ³ forint + Ã¡fa).<ujsor/>
+BÃ¡natpÃ©nz: 6 000 000 Ft (hatmilliÃ³ forint).<ujsor/>
+A pÃ¡lyÃ¡zatnak tartalmaznia kell a pÃ¡lyÃ¡zÃ³ nevÃ©t, pontos cÃ­mÃ©t, a beÃ­gÃ©rt vÃ©telÃ¡rat (nettÃ³ Ã¡r Ft + Ã¡fa). A pÃ¡lyÃ¡zathoz mellÃ©kelni kell, ha a pÃ¡lyÃ¡zÃ³ vÃ¡llalkozÃ³, a vÃ¡llalkozÃ³i igazolvÃ¡ny mÃ¡solatÃ¡t, gazdasÃ¡gi tÃ¡rsasÃ¡gnÃ¡l a cÃ©gkivonatot, illetve mÃ¡solatÃ¡t, minden esetben a pÃ¡lyÃ¡zÃ³ adÃ³szÃ¡mÃ¡t, statisztikai Ã©s pÃ©nzforgalmi jelzÅ‘szÃ¡mÃ¡t, valamint a bÃ¡natpÃ©nz befizetÃ©sÃ©t (Ã¡tutalÃ¡sÃ¡t) bizonyÃ­tÃ³ banki igazolÃ¡st.<ujsor/>
+A pÃ¡lyÃ¡zatban valÃ³ rÃ©szvÃ©tel feltÃ©tele a bÃ¡natpÃ©nz befizetÃ©se, legkÃ©sÅ‘bb a pÃ¡lyÃ¡zat benyÃºjtÃ¡sÃ¡nak idÅ‘pontjÃ¡ig a felszÃ¡molÃ³ Ã¡ltal az Ã©rdeklÅ‘dÅ‘knek megadott bankszÃ¡mlÃ¡ra.<ujsor/>
+A vÃ©telÃ¡rba a hitelezÅ‘i kÃ¶vetelÃ©sek beszÃ¡mÃ­tÃ¡sÃ¡ra nincs lehetÅ‘sÃ©g, ezt a felszÃ¡molÃ³ kizÃ¡rja.<ujsor/>
+Az Ã©rtÃ©kesÃ­tÃ©sre kerÃ¼lÅ‘ ingatlanÃ©rt Ã©s annak egyes rÃ©szeiÃ©rt a felszÃ¡molÃ³ kellÃ©kszavatossÃ¡got nem vÃ¡llal, azokat a pÃ¡lyÃ¡zÃ³ megtekintett Ã©s megvizsgÃ¡lt Ã¡llapotban veszi meg azzal, hogy a tulajdonjog vÃ¡ltozÃ¡sÃ¡val kapcsolatos vagyonÃ¡truhÃ¡zÃ¡si illetÃ©k, vagy valamennyi mÃ¡s kÃ¶ltsÃ©g a pÃ¡lyÃ¡zÃ³t (vevÅ‘t) terheli, tovÃ¡bbÃ¡ az esetleg kÃ©sÅ‘bb felmerÃ¼lÅ‘ Ã©s az adÃ¡svÃ©tel idÅ‘pontjÃ¡ban nem ismert kÃ¶rnyezeti terhet is a vevÅ‘ viseli.<ujsor/>
+A teljes vÃ©telÃ¡r kiegyenlÃ­tÃ©se az egyes adÃ¡svÃ©teli szerzÅ‘dÃ©sek lÃ©trejÃ¶ttÃ©nek Ã©s a birtokbalÃ©pÃ©snek is elÅ‘feltÃ©tele.<ujsor/>
+A pÃ¡lyÃ¡zatokat legkÃ©sÅ‘bb Â­ az ajÃ¡nlott vÃ©telÃ¡r Ã©s fizetÃ©si mÃ³d megjelÃ¶lÃ©sÃ©vel Â­ a CÃ©gkÃ¶zlÃ¶nyben valÃ³ megjelenÃ©stÅ‘l szÃ¡mÃ­tott 20. napon, dÃ©lelÅ‘tt 10 Ã³rÃ¡ig kÃ©rjÃ¼k Ã­rÃ¡sban, szemÃ©lyesen vagy postai Ãºton benyÃºjtani a felszÃ¡molÃ³ irodÃ¡jÃ¡ba: 9700 Szombathely, Kiskar u. 1. (postacÃ­m: HELP Kft., 9700 Szombathely, Pf. 67), vagy a zalaegerszegi irodÃ¡jÃ¡ba: 8900 Zalaegerszeg, BÃ©keligeti u. 1. (postacÃ­me: HELP Kft., 8901 Zalaegerszeg, Pf. 19).<ujsor/>
+A zÃ¡rt borÃ­tÃ©kra kÃ©rjÃ¼k rÃ¡Ã­rni: â€FOOD AND PACK Kft. f. a. pÃ¡lyÃ¡zatâ€.<ujsor/>
+A pÃ¡lyÃ¡zatok bontÃ¡sa Ã©s elbÃ­rÃ¡lÃ¡sa a benyÃºjtÃ¡si hatÃ¡ridÅ‘ lejÃ¡rta utÃ¡n szÃ¡mÃ­tott 20 munkanapon belÃ¼l megtÃ¶rtÃ©nik.<ujsor/>
+A felszÃ¡molÃ³ Ã©rtesÃ­ti az elÅ‘vÃ¡sÃ¡rlÃ¡sra jogosultakat, hogy elÅ‘vÃ¡sÃ¡rlÃ¡si jogukat ezen nyilvÃ¡nos pÃ¡lyÃ¡zaton (nyilvÃ¡nos Ã©rtÃ©kesÃ­tÃ©sen) gyakorolhatjÃ¡k.<ujsor/>
+Az elÅ‘vÃ¡sÃ¡rlÃ¡si jog gyakorlÃ¡sa Ã©rdekÃ©ben a felszÃ¡molÃ³ felhÃ­vja az Ã©rdekeltek figyelmÃ©t arra, hogy a jog gyakorlÃ¡sÃ¡ra irÃ¡nyulÃ³ szÃ¡ndÃ©kukat a pÃ¡lyÃ¡zatok benyÃºjtÃ¡si hatÃ¡ridejÃ©ig Ã­rÃ¡sban jelentsÃ©k be.<ujsor/>
+A felszÃ¡molÃ³ a pÃ¡lyÃ¡zatot megfelelÅ‘ ajÃ¡nlat hiÃ¡nyÃ¡ban eredmÃ©nytelennek nyilvÃ¡nÃ­thatja, Ã©s Ãºj pÃ¡lyÃ¡zatot Ã­rhat ki. MegfelelÅ‘, azonos Ã©rtÃ©kÅ± pÃ¡lyÃ¡zatok esetÃ©n az ajÃ¡nlattevÅ‘k kÃ¶zÃ¶tt nyilvÃ¡nos Ã¡rtÃ¡rgyalÃ¡s megtartÃ¡sÃ¡ra kerÃ¼l sor, melynek feltÃ©teleit az Ã¡rtÃ¡rgyalÃ¡s megkezdÃ©sÃ©t megelÅ‘zÅ‘en a rÃ©sztvevÅ‘kkel a felszÃ¡molÃ³biztos ismerteti.<ujsor/>
+BÅ‘vebb felvilÃ¡gosÃ­tÃ¡s kaphatÃ³ dr. SzabÃ³ ErnÅ‘ felszÃ¡molÃ³biztostÃ³l, a 06 (92) 510-466, 06 (92) 321-236-os telefonszÃ¡mokon [telefax: 06 (92) 510-426].<ujsor/>
 </mezo>
 <mezo id = "cjsz">1809106800</mezo>
-<mezo id = "nev">FOOD AND PACK Termelési, Kereskedelmi és Mûszaki Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">FOOD AND PACK TermelÃ©si, Kereskedelmi Ã©s MÅ±szaki TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">9700 Szombathely</mezo>
 </alrovat>
 <alrovat id = "15">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A HELP Kereskedelmi és Szolgáltató Tanácsadó Kft. (Cg.: [18 09 000505]; 9700 Szombathely, Kiskar u. 1.) mint a FOOD AND PACK Termelési, Kereskedelmi és Mûszaki Tanácsadó Kft. „f. a.” (Cg.: [18 09 106800]; 9700 Szombathely, Szent Flórián krt. 2.; adószáma: [10621693-2-18]) a Vas Megyei Bíróság 5. Fpk. 18-06-000082/4. számú végzésével kijelölt felszámolója<ujsor/>
-nyilvános pályázat<ujsor/>
-útján értékesíteni kívánja a felszámolás alatt álló társaság tulajdonát képezõ, becsehelyi 0201. hrsz.-ú, külterületen lévõ, kivett mûvelési ágú, szarvasmarhatelep elnevezésû, 29 527 m2 nagyságú ingatlant, és a rajta lévõ három darab, egyenként 300 férõhelyes, összesen 900 férõhelyes szarvasmarhatartásra, illetve hízlalásra alkalmas istállókat és a szarvasmarhatelep mûködését biztosító kiszolgáló létesítményeket.<ujsor/>
-Irányár: 50 000 000 Ft + áfa (ötvenmillió forint + áfa).<ujsor/>
-Bánatpénz: 6 000 000 Ft (hatmillió forint).<ujsor/>
-A pályázatnak tartalmaznia kell a pályázó nevét, pontos címét, a beígért vételárat (nettó ár Ft + áfa). A pályázathoz mellékelni kell, ha a pályázó vállalkozó, a vállalkozói igazolvány másolatát, gazdasági társaságnál a cégkivonatot, illetve másolatát, minden esetben a pályázó adószámát, statisztikai és pénzforgalmi jelzõszámát, valamint a bánatpénz befizetését (átutalását) bizonyító banki igazolást.<ujsor/>
-A pályázatban való részvétel feltétele bánatpénz befizetése, legkésõbb a pályázat benyújtásának idõpontjáig a felszámoló által az érdeklõdõknek megadott bankszámlára.<ujsor/>
-A vételárba a hitelezõi követeléseik beszámítására nincs lehetõség, ezt a felszámoló kizárja.<ujsor/>
-Az értékesítésre kerülõ ingatlanért és annak egyes részeiért a felszámoló kellékszavatosságot nem vállal, azt a pályázó megtekintett és megvizsgált állapotban veszi meg azzal, hogy a tulajdonjog változásával kapcsolatos vagyonátruházási illeték, vagy valamennyi más költség a pályázót (vevõt) terheli, továbbá az esetleg késõbb felmerülõ és az adásvétel idõpontjában nem ismert környezeti terhet is a vevõ terheli.<ujsor/>
-A teljes vételár kiegyenlítése az egyes adásvételi szerzõdések létrejöttének és a birtokba lépésnek is elõfeltétele.<ujsor/>
-Pályázatokat legkésõbb ­ az ajánlott vételár és fizetési mód megjelölésével ­ a Cégközlönyben való megjelenéstõl számított 30. napon, délelõtt 10 óráig kérjük írásban, személyesen vagy postai úton benyújtani a felszámoló irodájába: 9700 Szombathely, Kiskar u. 1. (postacím: HELP Kft., 9700 Szombathely, Pf. 67), vagy a zalaegerszegi irodájába: 8900 Zalaegerszeg, Békeligeti u. 1. (postacím: HELP Kft., 8901 Zalaegerszeg, Pf. 19).<ujsor/>
-A zárt borítékra kérjük ráírni. „FOOD AND PACK Kft. f. a. Pályázat”.<ujsor/>
-A pályázatok bontása és elbírálása a benyújtási határidõ lejárta után számított 20 munkanapon belül megtörténik.<ujsor/>
-A felszámoló értesíti az elõvásárlásra jogosultakat, hogy elõvásárlási jogukat ezen nyilvános pályázaton (nyilvános értékesítésen) gyakorolhatják.<ujsor/>
-Az elõvásárlási jog gyakorlása érdekében a felszámoló felhívja az érdekeltek figyelmét arra, hogy a jog gyakorlására irányuló szándékukat a pályázatok benyújtási határidejéig írásban jelentsék be.<ujsor/>
-A felszámoló a pályázatot megfelelõ ajánlat hiányában eredménytelennek nyilváníthatja, és új pályázatot írhat ki. Megfelelõ, azonos értékû pályázatok esetén az ajánlattevõk között nyilvános ártárgyalás megtartására kerül sor, melynek feltételeit az ártárgyalás megkezdését megelõzõen a résztvevõkkel a felszámolóbiztos ismerteti.<ujsor/>
-Bõvebb felvilágosítás kapható dr. Szabó Ernõ felszámolóbiztostól a 06 (92) 510-466, 06 (92) 321-236-os telefonszámokon [telefax: 06 (92) 510-426].<ujsor/>
+<mezo id = "szoveg">A HELP Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ TanÃ¡csadÃ³ Kft. (Cg.: [18 09 000505]; 9700 Szombathely, Kiskar u. 1.) mint a FOOD AND PACK TermelÃ©si, Kereskedelmi Ã©s MÅ±szaki TanÃ¡csadÃ³ Kft. â€f. a.â€ (Cg.: [18 09 106800]; 9700 Szombathely, Szent FlÃ³riÃ¡n krt. 2.; adÃ³szÃ¡ma: [10621693-2-18]) a Vas Megyei BÃ­rÃ³sÃ¡g 5. Fpk. 18-06-000082/4. szÃ¡mÃº vÃ©gzÃ©sÃ©vel kijelÃ¶lt felszÃ¡molÃ³ja<ujsor/>
+nyilvÃ¡nos pÃ¡lyÃ¡zat<ujsor/>
+ÃºtjÃ¡n Ã©rtÃ©kesÃ­teni kÃ­vÃ¡nja a felszÃ¡molÃ¡s alatt Ã¡llÃ³ tÃ¡rsasÃ¡g tulajdonÃ¡t kÃ©pezÅ‘, becsehelyi 0201. hrsz.-Ãº, kÃ¼lterÃ¼leten lÃ©vÅ‘, kivett mÅ±velÃ©si Ã¡gÃº, szarvasmarhatelep elnevezÃ©sÅ±, 29 527 m2 nagysÃ¡gÃº ingatlant, Ã©s a rajta lÃ©vÅ‘ hÃ¡rom darab, egyenkÃ©nt 300 fÃ©rÅ‘helyes, Ã¶sszesen 900 fÃ©rÅ‘helyes szarvasmarhatartÃ¡sra, illetve hÃ­zlalÃ¡sra alkalmas istÃ¡llÃ³kat Ã©s a szarvasmarhatelep mÅ±kÃ¶dÃ©sÃ©t biztosÃ­tÃ³ kiszolgÃ¡lÃ³ lÃ©tesÃ­tmÃ©nyeket.<ujsor/>
+IrÃ¡nyÃ¡r: 50 000 000 Ft + Ã¡fa (Ã¶tvenmilliÃ³ forint + Ã¡fa).<ujsor/>
+BÃ¡natpÃ©nz: 6 000 000 Ft (hatmilliÃ³ forint).<ujsor/>
+A pÃ¡lyÃ¡zatnak tartalmaznia kell a pÃ¡lyÃ¡zÃ³ nevÃ©t, pontos cÃ­mÃ©t, a beÃ­gÃ©rt vÃ©telÃ¡rat (nettÃ³ Ã¡r Ft + Ã¡fa). A pÃ¡lyÃ¡zathoz mellÃ©kelni kell, ha a pÃ¡lyÃ¡zÃ³ vÃ¡llalkozÃ³, a vÃ¡llalkozÃ³i igazolvÃ¡ny mÃ¡solatÃ¡t, gazdasÃ¡gi tÃ¡rsasÃ¡gnÃ¡l a cÃ©gkivonatot, illetve mÃ¡solatÃ¡t, minden esetben a pÃ¡lyÃ¡zÃ³ adÃ³szÃ¡mÃ¡t, statisztikai Ã©s pÃ©nzforgalmi jelzÅ‘szÃ¡mÃ¡t, valamint a bÃ¡natpÃ©nz befizetÃ©sÃ©t (Ã¡tutalÃ¡sÃ¡t) bizonyÃ­tÃ³ banki igazolÃ¡st.<ujsor/>
+A pÃ¡lyÃ¡zatban valÃ³ rÃ©szvÃ©tel feltÃ©tele bÃ¡natpÃ©nz befizetÃ©se, legkÃ©sÅ‘bb a pÃ¡lyÃ¡zat benyÃºjtÃ¡sÃ¡nak idÅ‘pontjÃ¡ig a felszÃ¡molÃ³ Ã¡ltal az Ã©rdeklÅ‘dÅ‘knek megadott bankszÃ¡mlÃ¡ra.<ujsor/>
+A vÃ©telÃ¡rba a hitelezÅ‘i kÃ¶vetelÃ©seik beszÃ¡mÃ­tÃ¡sÃ¡ra nincs lehetÅ‘sÃ©g, ezt a felszÃ¡molÃ³ kizÃ¡rja.<ujsor/>
+Az Ã©rtÃ©kesÃ­tÃ©sre kerÃ¼lÅ‘ ingatlanÃ©rt Ã©s annak egyes rÃ©szeiÃ©rt a felszÃ¡molÃ³ kellÃ©kszavatossÃ¡got nem vÃ¡llal, azt a pÃ¡lyÃ¡zÃ³ megtekintett Ã©s megvizsgÃ¡lt Ã¡llapotban veszi meg azzal, hogy a tulajdonjog vÃ¡ltozÃ¡sÃ¡val kapcsolatos vagyonÃ¡truhÃ¡zÃ¡si illetÃ©k, vagy valamennyi mÃ¡s kÃ¶ltsÃ©g a pÃ¡lyÃ¡zÃ³t (vevÅ‘t) terheli, tovÃ¡bbÃ¡ az esetleg kÃ©sÅ‘bb felmerÃ¼lÅ‘ Ã©s az adÃ¡svÃ©tel idÅ‘pontjÃ¡ban nem ismert kÃ¶rnyezeti terhet is a vevÅ‘ terheli.<ujsor/>
+A teljes vÃ©telÃ¡r kiegyenlÃ­tÃ©se az egyes adÃ¡svÃ©teli szerzÅ‘dÃ©sek lÃ©trejÃ¶ttÃ©nek Ã©s a birtokba lÃ©pÃ©snek is elÅ‘feltÃ©tele.<ujsor/>
+PÃ¡lyÃ¡zatokat legkÃ©sÅ‘bb Â­ az ajÃ¡nlott vÃ©telÃ¡r Ã©s fizetÃ©si mÃ³d megjelÃ¶lÃ©sÃ©vel Â­ a CÃ©gkÃ¶zlÃ¶nyben valÃ³ megjelenÃ©stÅ‘l szÃ¡mÃ­tott 30. napon, dÃ©lelÅ‘tt 10 Ã³rÃ¡ig kÃ©rjÃ¼k Ã­rÃ¡sban, szemÃ©lyesen vagy postai Ãºton benyÃºjtani a felszÃ¡molÃ³ irodÃ¡jÃ¡ba: 9700 Szombathely, Kiskar u. 1. (postacÃ­m: HELP Kft., 9700 Szombathely, Pf. 67), vagy a zalaegerszegi irodÃ¡jÃ¡ba: 8900 Zalaegerszeg, BÃ©keligeti u. 1. (postacÃ­m: HELP Kft., 8901 Zalaegerszeg, Pf. 19).<ujsor/>
+A zÃ¡rt borÃ­tÃ©kra kÃ©rjÃ¼k rÃ¡Ã­rni. â€FOOD AND PACK Kft. f. a. PÃ¡lyÃ¡zatâ€.<ujsor/>
+A pÃ¡lyÃ¡zatok bontÃ¡sa Ã©s elbÃ­rÃ¡lÃ¡sa a benyÃºjtÃ¡si hatÃ¡ridÅ‘ lejÃ¡rta utÃ¡n szÃ¡mÃ­tott 20 munkanapon belÃ¼l megtÃ¶rtÃ©nik.<ujsor/>
+A felszÃ¡molÃ³ Ã©rtesÃ­ti az elÅ‘vÃ¡sÃ¡rlÃ¡sra jogosultakat, hogy elÅ‘vÃ¡sÃ¡rlÃ¡si jogukat ezen nyilvÃ¡nos pÃ¡lyÃ¡zaton (nyilvÃ¡nos Ã©rtÃ©kesÃ­tÃ©sen) gyakorolhatjÃ¡k.<ujsor/>
+Az elÅ‘vÃ¡sÃ¡rlÃ¡si jog gyakorlÃ¡sa Ã©rdekÃ©ben a felszÃ¡molÃ³ felhÃ­vja az Ã©rdekeltek figyelmÃ©t arra, hogy a jog gyakorlÃ¡sÃ¡ra irÃ¡nyulÃ³ szÃ¡ndÃ©kukat a pÃ¡lyÃ¡zatok benyÃºjtÃ¡si hatÃ¡ridejÃ©ig Ã­rÃ¡sban jelentsÃ©k be.<ujsor/>
+A felszÃ¡molÃ³ a pÃ¡lyÃ¡zatot megfelelÅ‘ ajÃ¡nlat hiÃ¡nyÃ¡ban eredmÃ©nytelennek nyilvÃ¡nÃ­thatja, Ã©s Ãºj pÃ¡lyÃ¡zatot Ã­rhat ki. MegfelelÅ‘, azonos Ã©rtÃ©kÅ± pÃ¡lyÃ¡zatok esetÃ©n az ajÃ¡nlattevÅ‘k kÃ¶zÃ¶tt nyilvÃ¡nos Ã¡rtÃ¡rgyalÃ¡s megtartÃ¡sÃ¡ra kerÃ¼l sor, melynek feltÃ©teleit az Ã¡rtÃ¡rgyalÃ¡s megkezdÃ©sÃ©t megelÅ‘zÅ‘en a rÃ©sztvevÅ‘kkel a felszÃ¡molÃ³biztos ismerteti.<ujsor/>
+BÅ‘vebb felvilÃ¡gosÃ­tÃ¡s kaphatÃ³ dr. SzabÃ³ ErnÅ‘ felszÃ¡molÃ³biztostÃ³l a 06 (92) 510-466, 06 (92) 321-236-os telefonszÃ¡mokon [telefax: 06 (92) 510-426].<ujsor/>
 </mezo>
 <mezo id = "cjsz">1809106800</mezo>
-<mezo id = "nev">FOOD AND PACK Termelési, Kereskedelmi és Mûszaki Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">FOOD AND PACK TermelÃ©si, Kereskedelmi Ã©s MÅ±szaki TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">9700 Szombathely</mezo>
 </alrovat>
 <alrovat id = "16">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A HELP Kereskedelmi és Szolgáltató Tanácsadó Kft. (Cg.: [18 09 000505]; 9700 Szombathely, Kiskar u. 1.) mint a FOOD AND PACK Termelési, Kereskedelmi és Mûszaki Tanácsadó Kft. „f. a.” (Cg.: [18 09 106800]; 9700 Szombathely, Szent Flórián krt. 2.; adószáma: [10621693-2-18]) Vas Megyei Bíróság 5. Fpk. 18-06-000082/4. számú végzésével kijelölt felszámolója<ujsor/>
-nyilvános pályázat<ujsor/>
-útján értékesíteni kívánja a felszámolás alatt álló társaság tulajdonát képezõ, becsehelyi 0201. hrsz.-ú, külterületen lévõ, kivett mûvelési ágú, szarvasmarhatelep elnevezésû, 29 527 m2 nagyságú ingatlant, és a rajta lévõ három darab, egyenként 300 férõhelyes, összesen 900 férõhelyes szarvasmarhatartásra, illetve hizlalásra alkalmas istállókat és a szarvasmarhatelep mûködését biztosító kiszolgáló létesítményeket.<ujsor/>
-Irányár: 50 000 000 Ft + áfa (ötvenmillió forint + áfa).<ujsor/>
-Bánatpénz: 6 000 000 Ft (hatmillió forint).<ujsor/>
-A pályázatnak tartalmaznia kell a pályázó nevét, pontos címét, a beígért vételárat (nettó ár Ft + áfa). A pályázathoz mellékelni kell, ha a pályázó vállalkozó, a vállalkozói igazolvány másolatát, gazdasági társaságnál a cégkivonatot, illetve másolatát, minden esetben a pályázó adószámát, statisztikai és pénzforgalmi jelzõszámát, valamint a bánatpénz befizetését (átutalását) bizonyító banki igazolást.<ujsor/>
-A pályázatban való részvétel feltétele bánatpénz befizetése, legkésõbb a pályázat benyújtásának idõpontjáig a felszámoló által az érdeklõdõknek megadott bankszámlára.<ujsor/>
-A vételárba a hitelezõi követeléseik beszámítására nincs lehetõség, ezt a felszámoló kizárja.<ujsor/>
-Az értékesítésre kerülõ ingatlanért és annak egyes részeiért a felszámoló kellékszavatosságot nem vállal, azt a pályázó megtekintett és megvizsgált állapotban veszi meg azzal, hogy a tulajdonjog változásával kapcsolatos vagyonátruházási illeték, vagy valamennyi más költség a pályázót (vevõt) terheli, továbbá az esetleg késõbb felmerülõ és az adásvétel idõpontjában nem ismert környezeti terhet is a vevõ viseli.<ujsor/>
-A teljes vételár kiegyenlítése az egyes adásvételi szerzõdések létrejöttének és a birtokba lépésnek is elõfeltétele.<ujsor/>
-Pályázatokat legkésõbb ­ az ajánlott vételár és fizetési mód megjelöléséve ­ a Cégközlönyben való megjelenéstõl számított 30. napon, délelõtt 10 óráig kérjük írásban, személyesen vagy postai úton benyújtani a felszámoló irodájába: 9700 Szombathely, Kiskar u. 1. (postacím: HELP Kft., 9700 Szombathely, Pf. 67), vagy a zalaegerszegi irodájába: 8900 Zalaegerszeg, Békeligeti u. 1. (postacím: HELP Kft., 8901 Zalaegerszeg, Pf. 19).<ujsor/>
-A zárt borítékra kérjük ráírni. „FOOD AND PACK Kft. f. a. Pályázat”.<ujsor/>
-A pályázatok bontása és elbírálása a benyújtási határidõ lejárta után számított 20 munkanapon belül megtörténik.<ujsor/>
-A felszámoló értesíti az elõvásárlásra jogosultakat, hogy elõvásárlási jogukat ezen nyilvános pályázaton (nyilvános értékesítésen) gyakorolhatják.<ujsor/>
-Az elõvásárlási jog gyakorlása érdekében a felszámoló felhívja az érdekeltek figyelmét arra, hogy a jog gyakorlására irányuló szándékukat a pályázatok benyújtási határidejéig írásban jelentsék be.<ujsor/>
-A felszámoló a pályázatot megfelelõ ajánlat hiányában eredménytelennek nyilváníthatja, és új pályázatot írhat ki. Megfelelõ, azonos értékû pályázatok esetén az ajánlattevõk között nyilvános ártárgyalás megtartására kerül sor, melynek feltételeit az ártárgyalás megkezdését megelõzõen a résztvevõkkel a felszámolóbiztos ismerteti.<ujsor/>
-Bõvebb felvilágosítás kapható dr. Szabó Ernõ felszámolóbiztostól a 06 (92) 510-466, 06 (92) 321-236-os telefonszámokon [telefax: 06 (92) 510-426].<ujsor/>
+<mezo id = "szoveg">A HELP Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ TanÃ¡csadÃ³ Kft. (Cg.: [18 09 000505]; 9700 Szombathely, Kiskar u. 1.) mint a FOOD AND PACK TermelÃ©si, Kereskedelmi Ã©s MÅ±szaki TanÃ¡csadÃ³ Kft. â€f. a.â€ (Cg.: [18 09 106800]; 9700 Szombathely, Szent FlÃ³riÃ¡n krt. 2.; adÃ³szÃ¡ma: [10621693-2-18]) Vas Megyei BÃ­rÃ³sÃ¡g 5. Fpk. 18-06-000082/4. szÃ¡mÃº vÃ©gzÃ©sÃ©vel kijelÃ¶lt felszÃ¡molÃ³ja<ujsor/>
+nyilvÃ¡nos pÃ¡lyÃ¡zat<ujsor/>
+ÃºtjÃ¡n Ã©rtÃ©kesÃ­teni kÃ­vÃ¡nja a felszÃ¡molÃ¡s alatt Ã¡llÃ³ tÃ¡rsasÃ¡g tulajdonÃ¡t kÃ©pezÅ‘, becsehelyi 0201. hrsz.-Ãº, kÃ¼lterÃ¼leten lÃ©vÅ‘, kivett mÅ±velÃ©si Ã¡gÃº, szarvasmarhatelep elnevezÃ©sÅ±, 29 527 m2 nagysÃ¡gÃº ingatlant, Ã©s a rajta lÃ©vÅ‘ hÃ¡rom darab, egyenkÃ©nt 300 fÃ©rÅ‘helyes, Ã¶sszesen 900 fÃ©rÅ‘helyes szarvasmarhatartÃ¡sra, illetve hizlalÃ¡sra alkalmas istÃ¡llÃ³kat Ã©s a szarvasmarhatelep mÅ±kÃ¶dÃ©sÃ©t biztosÃ­tÃ³ kiszolgÃ¡lÃ³ lÃ©tesÃ­tmÃ©nyeket.<ujsor/>
+IrÃ¡nyÃ¡r: 50 000 000 Ft + Ã¡fa (Ã¶tvenmilliÃ³ forint + Ã¡fa).<ujsor/>
+BÃ¡natpÃ©nz: 6 000 000 Ft (hatmilliÃ³ forint).<ujsor/>
+A pÃ¡lyÃ¡zatnak tartalmaznia kell a pÃ¡lyÃ¡zÃ³ nevÃ©t, pontos cÃ­mÃ©t, a beÃ­gÃ©rt vÃ©telÃ¡rat (nettÃ³ Ã¡r Ft + Ã¡fa). A pÃ¡lyÃ¡zathoz mellÃ©kelni kell, ha a pÃ¡lyÃ¡zÃ³ vÃ¡llalkozÃ³, a vÃ¡llalkozÃ³i igazolvÃ¡ny mÃ¡solatÃ¡t, gazdasÃ¡gi tÃ¡rsasÃ¡gnÃ¡l a cÃ©gkivonatot, illetve mÃ¡solatÃ¡t, minden esetben a pÃ¡lyÃ¡zÃ³ adÃ³szÃ¡mÃ¡t, statisztikai Ã©s pÃ©nzforgalmi jelzÅ‘szÃ¡mÃ¡t, valamint a bÃ¡natpÃ©nz befizetÃ©sÃ©t (Ã¡tutalÃ¡sÃ¡t) bizonyÃ­tÃ³ banki igazolÃ¡st.<ujsor/>
+A pÃ¡lyÃ¡zatban valÃ³ rÃ©szvÃ©tel feltÃ©tele bÃ¡natpÃ©nz befizetÃ©se, legkÃ©sÅ‘bb a pÃ¡lyÃ¡zat benyÃºjtÃ¡sÃ¡nak idÅ‘pontjÃ¡ig a felszÃ¡molÃ³ Ã¡ltal az Ã©rdeklÅ‘dÅ‘knek megadott bankszÃ¡mlÃ¡ra.<ujsor/>
+A vÃ©telÃ¡rba a hitelezÅ‘i kÃ¶vetelÃ©seik beszÃ¡mÃ­tÃ¡sÃ¡ra nincs lehetÅ‘sÃ©g, ezt a felszÃ¡molÃ³ kizÃ¡rja.<ujsor/>
+Az Ã©rtÃ©kesÃ­tÃ©sre kerÃ¼lÅ‘ ingatlanÃ©rt Ã©s annak egyes rÃ©szeiÃ©rt a felszÃ¡molÃ³ kellÃ©kszavatossÃ¡got nem vÃ¡llal, azt a pÃ¡lyÃ¡zÃ³ megtekintett Ã©s megvizsgÃ¡lt Ã¡llapotban veszi meg azzal, hogy a tulajdonjog vÃ¡ltozÃ¡sÃ¡val kapcsolatos vagyonÃ¡truhÃ¡zÃ¡si illetÃ©k, vagy valamennyi mÃ¡s kÃ¶ltsÃ©g a pÃ¡lyÃ¡zÃ³t (vevÅ‘t) terheli, tovÃ¡bbÃ¡ az esetleg kÃ©sÅ‘bb felmerÃ¼lÅ‘ Ã©s az adÃ¡svÃ©tel idÅ‘pontjÃ¡ban nem ismert kÃ¶rnyezeti terhet is a vevÅ‘ viseli.<ujsor/>
+A teljes vÃ©telÃ¡r kiegyenlÃ­tÃ©se az egyes adÃ¡svÃ©teli szerzÅ‘dÃ©sek lÃ©trejÃ¶ttÃ©nek Ã©s a birtokba lÃ©pÃ©snek is elÅ‘feltÃ©tele.<ujsor/>
+PÃ¡lyÃ¡zatokat legkÃ©sÅ‘bb Â­ az ajÃ¡nlott vÃ©telÃ¡r Ã©s fizetÃ©si mÃ³d megjelÃ¶lÃ©sÃ©ve Â­ a CÃ©gkÃ¶zlÃ¶nyben valÃ³ megjelenÃ©stÅ‘l szÃ¡mÃ­tott 30. napon, dÃ©lelÅ‘tt 10 Ã³rÃ¡ig kÃ©rjÃ¼k Ã­rÃ¡sban, szemÃ©lyesen vagy postai Ãºton benyÃºjtani a felszÃ¡molÃ³ irodÃ¡jÃ¡ba: 9700 Szombathely, Kiskar u. 1. (postacÃ­m: HELP Kft., 9700 Szombathely, Pf. 67), vagy a zalaegerszegi irodÃ¡jÃ¡ba: 8900 Zalaegerszeg, BÃ©keligeti u. 1. (postacÃ­m: HELP Kft., 8901 Zalaegerszeg, Pf. 19).<ujsor/>
+A zÃ¡rt borÃ­tÃ©kra kÃ©rjÃ¼k rÃ¡Ã­rni. â€FOOD AND PACK Kft. f. a. PÃ¡lyÃ¡zatâ€.<ujsor/>
+A pÃ¡lyÃ¡zatok bontÃ¡sa Ã©s elbÃ­rÃ¡lÃ¡sa a benyÃºjtÃ¡si hatÃ¡ridÅ‘ lejÃ¡rta utÃ¡n szÃ¡mÃ­tott 20 munkanapon belÃ¼l megtÃ¶rtÃ©nik.<ujsor/>
+A felszÃ¡molÃ³ Ã©rtesÃ­ti az elÅ‘vÃ¡sÃ¡rlÃ¡sra jogosultakat, hogy elÅ‘vÃ¡sÃ¡rlÃ¡si jogukat ezen nyilvÃ¡nos pÃ¡lyÃ¡zaton (nyilvÃ¡nos Ã©rtÃ©kesÃ­tÃ©sen) gyakorolhatjÃ¡k.<ujsor/>
+Az elÅ‘vÃ¡sÃ¡rlÃ¡si jog gyakorlÃ¡sa Ã©rdekÃ©ben a felszÃ¡molÃ³ felhÃ­vja az Ã©rdekeltek figyelmÃ©t arra, hogy a jog gyakorlÃ¡sÃ¡ra irÃ¡nyulÃ³ szÃ¡ndÃ©kukat a pÃ¡lyÃ¡zatok benyÃºjtÃ¡si hatÃ¡ridejÃ©ig Ã­rÃ¡sban jelentsÃ©k be.<ujsor/>
+A felszÃ¡molÃ³ a pÃ¡lyÃ¡zatot megfelelÅ‘ ajÃ¡nlat hiÃ¡nyÃ¡ban eredmÃ©nytelennek nyilvÃ¡nÃ­thatja, Ã©s Ãºj pÃ¡lyÃ¡zatot Ã­rhat ki. MegfelelÅ‘, azonos Ã©rtÃ©kÅ± pÃ¡lyÃ¡zatok esetÃ©n az ajÃ¡nlattevÅ‘k kÃ¶zÃ¶tt nyilvÃ¡nos Ã¡rtÃ¡rgyalÃ¡s megtartÃ¡sÃ¡ra kerÃ¼l sor, melynek feltÃ©teleit az Ã¡rtÃ¡rgyalÃ¡s megkezdÃ©sÃ©t megelÅ‘zÅ‘en a rÃ©sztvevÅ‘kkel a felszÃ¡molÃ³biztos ismerteti.<ujsor/>
+BÅ‘vebb felvilÃ¡gosÃ­tÃ¡s kaphatÃ³ dr. SzabÃ³ ErnÅ‘ felszÃ¡molÃ³biztostÃ³l a 06 (92) 510-466, 06 (92) 321-236-os telefonszÃ¡mokon [telefax: 06 (92) 510-426].<ujsor/>
 </mezo>
 <mezo id = "cjsz">1809106800</mezo>
-<mezo id = "nev">FOOD AND PACK Termelési, Kereskedelmi és Mûszaki Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">FOOD AND PACK TermelÃ©si, Kereskedelmi Ã©s MÅ±szaki TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">9700 Szombathely</mezo>
 </alrovat>
 </rovat>

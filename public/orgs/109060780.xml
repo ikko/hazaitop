@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">060780</mezo>
 <mezo id = "nevalrovat">2</mezo>
-<mezo id = "cim">1067 Budapest, Teréz krt. 31. </mezo>
+<mezo id = "cim">1067 Budapest, TerÃ©z krt. 31. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">10219199242</mezo>
 </alrovat>
@@ -13,13 +13,13 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">19931231</mezo>
-<mezo id = "nev">INFORMATÉKA Mûszaki Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">INFORMATÃ‰KA MÅ±szaki SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">19901001</mezo>
-<mezo id = "nev">InformaTéka Kft.</mezo>
+<mezo id = "nev">InformaTÃ©ka Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
@@ -27,7 +27,7 @@
 <mezo id = "hattol">20020821</mezo>
 <mezo id = "irsz">1067</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Teréz krt. 31.</mezo>
+<mezo id = "teru">TerÃ©z krt. 31.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "6">
@@ -43,7 +43,7 @@
 <mezo id = "hattol">20090630</mezo>
 <mezo id = "irsz">1067</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Teréz krt 41.</mezo>
+<mezo id = "teru">TerÃ©z krt 41.</mezo>
 <mezo id = "valtk">20090630</mezo>
 <mezo id = "bkelt">20091001</mezo>
 </alrovat>
@@ -885,10 +885,10 @@
 <rovat id = "13">
 <alrovat id = "5">
 <mezo id = "hattol">20070730</mezo>
-<mezo id = "pnev">Csáki Béla</mezo>
-<mezo id = "panev">Bodnár Mária</mezo>
+<mezo id = "pnev">CsÃ¡ki BÃ©la</mezo>
+<mezo id = "panev">BodnÃ¡r MÃ¡ria</mezo>
 <mezo id = "pirsz">1221</mezo>
-<mezo id = "phely">Budapest, Vöröskúti határsor 24.</mezo>
+<mezo id = "phely">Budapest, VÃ¶rÃ¶skÃºti hatÃ¡rsor 24.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">d</mezo>
 <mezo id = "jogvk">20070416</mezo>
@@ -900,10 +900,10 @@
 <rovat id = "14">
 <alrovat id = "1">
 <mezo id = "hattol">20070730</mezo>
-<mezo id = "pnev">Szahulcsik Éva</mezo>
-<mezo id = "panev">Farádi Szabó Éva</mezo>
+<mezo id = "pnev">Szahulcsik Ã‰va</mezo>
+<mezo id = "panev">FarÃ¡di SzabÃ³ Ã‰va</mezo>
 <mezo id = "pirsz">1133</mezo>
-<mezo id = "phely">Budapest, Dráva u. 5/B 3/7.</mezo>
+<mezo id = "phely">Budapest, DrÃ¡va u. 5/B 3/7.</mezo>
 <mezo id = "jogvk">20061218</mezo>
 <mezo id = "jogvv">20110531</mezo>
 <mezo id = "valtk">0</mezo>
@@ -914,17 +914,17 @@
 <alrovat id = "1">
 <mezo id = "hattol">19931231</mezo>
 <mezo id = "cgjsz">109067796</mezo>
-<mezo id = "nev">INFOTEC Szolgáltató és Kereskedelmi Kft.</mezo>
-<mezo id = "mod">beolvadás</mezo>
+<mezo id = "nev">INFOTEC SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi Kft.</mezo>
+<mezo id = "mod">beolvadÃ¡s</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "cgjsz">0109078251</mezo>
-<mezo id = "nev">InfoVox Kereskedelmi Kft (beolvadó)</mezo>
+<mezo id = "nev">InfoVox Kereskedelmi Kft (beolvadÃ³)</mezo>
 <mezo id = "bkelt">20091001</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "cgjsz">0103023610</mezo>
-<mezo id = "nev">Metál Bunker Kereskedelmi és Szolgáltató Kkt (beolvadó)</mezo>
+<mezo id = "nev">MetÃ¡l Bunker Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ Kkt (beolvadÃ³)</mezo>
 <mezo id = "bkelt">20091001</mezo>
 </alrovat>
 </rovat>
@@ -948,8 +948,8 @@
 <rovat id = "0109">
 <alrovat id = "24">
 <mezo id = "hattol">20080430</mezo>
-<mezo id = "pnev">Bíróné Varga Mónika</mezo>
-<mezo id = "panev">Béli Erzsébet</mezo>
+<mezo id = "pnev">BÃ­rÃ³nÃ© Varga MÃ³nika</mezo>
+<mezo id = "panev">BÃ©li ErzsÃ©bet</mezo>
 <mezo id = "pirsz">1044</mezo>
 <mezo id = "phely">Budapest, Szilaspatak sor 26.</mezo>
 <mezo id = "tagsk">19881220</mezo>
@@ -961,8 +961,8 @@
 </alrovat>
 <alrovat id = "25">
 <mezo id = "hattol">20080430</mezo>
-<mezo id = "pnev">Bíró László</mezo>
-<mezo id = "panev">Pályi Katalin</mezo>
+<mezo id = "pnev">BÃ­rÃ³ LÃ¡szlÃ³</mezo>
+<mezo id = "panev">PÃ¡lyi Katalin</mezo>
 <mezo id = "pirsz">1044</mezo>
 <mezo id = "phely">Budapest, Szilaspatak sor 26.</mezo>
 <mezo id = "tagsk">19881220</mezo>
@@ -974,10 +974,10 @@
 </alrovat>
 <alrovat id = "26">
 <mezo id = "hattol">20080430</mezo>
-<mezo id = "pnev">Csáki Béla</mezo>
-<mezo id = "panev">Bodnár Mária</mezo>
+<mezo id = "pnev">CsÃ¡ki BÃ©la</mezo>
+<mezo id = "panev">BodnÃ¡r MÃ¡ria</mezo>
 <mezo id = "pirsz">1221</mezo>
-<mezo id = "phely">Budapest, Vöröskúti határsor 24.</mezo>
+<mezo id = "phely">Budapest, VÃ¶rÃ¶skÃºti hatÃ¡rsor 24.</mezo>
 <mezo id = "tagsk">19881220</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20080430</mezo>
@@ -995,156 +995,156 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A társaság neve: InformaTéka Mûszaki Szolgáltató és Kereskedelmi Kft.<ujsor/>
-Székhelye: 1067 Budapest, Teréz krt. 31.<ujsor/>
-Cégjegyzékszám: [01 09 060780].<ujsor/>
-A társaságban jelentõs befolyással rendelkezõ tagok.<ujsor/>
-- Csáki Béla (a. n.: Bodnár Mária) 1221 Budapest, Vöröskúti határsor 24. sz. alatti lakos.<ujsor/>
-Megszerzett részesedés a társaság törzstõkéjére vetítetten: 25,1%.<ujsor/>
-A jelentõs befolyás megszerzésének idõpontja: 1999. május 27.<ujsor/>
-- Albacomp Rt. (cégjegyzékszám: [07 10 001069]; székhely: 8000 Székesfehérvár, Mártírok útja 9.).<ujsor/>
-Megszerzett részesedés a társaság törzstõkéjére vetítetten: 49,8%.<ujsor/>
-A jelentõs befolyás megszerzésének idõpontja: 1999. május 27.<ujsor/>
+<mezo id = "szoveg">A tÃ¡rsasÃ¡g neve: InformaTÃ©ka MÅ±szaki SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi Kft.<ujsor/>
+SzÃ©khelye: 1067 Budapest, TerÃ©z krt. 31.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡m: [01 09 060780].<ujsor/>
+A tÃ¡rsasÃ¡gban jelentÅ‘s befolyÃ¡ssal rendelkezÅ‘ tagok.<ujsor/>
+- CsÃ¡ki BÃ©la (a. n.: BodnÃ¡r MÃ¡ria) 1221 Budapest, VÃ¶rÃ¶skÃºti hatÃ¡rsor 24. sz. alatti lakos.<ujsor/>
+Megszerzett rÃ©szesedÃ©s a tÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©jÃ©re vetÃ­tetten: 25,1%.<ujsor/>
+A jelentÅ‘s befolyÃ¡s megszerzÃ©sÃ©nek idÅ‘pontja: 1999. mÃ¡jus 27.<ujsor/>
+- Albacomp Rt. (cÃ©gjegyzÃ©kszÃ¡m: [07 10 001069]; szÃ©khely: 8000 SzÃ©kesfehÃ©rvÃ¡r, MÃ¡rtÃ­rok Ãºtja 9.).<ujsor/>
+Megszerzett rÃ©szesedÃ©s a tÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©jÃ©re vetÃ­tetten: 49,8%.<ujsor/>
+A jelentÅ‘s befolyÃ¡s megszerzÃ©sÃ©nek idÅ‘pontja: 1999. mÃ¡jus 27.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109060780</mezo>
-<mezo id = "nev">INFORMATÉKA Mûszaki Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">INFORMATÃ‰KA MÅ±szaki SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az InformaTéka Mûszaki Szolgáltató és Kereskedelmi Kft. (Cg.: [01 09 060780]; székhelye: 1067 Budapest, Teréz krt. 31.) a 2008. április 30-án meghozott 2/2008. (04. 30.) sz. határozatával akként döntött, hogy a korábban tagjától visszavásárolt 7 580 000 Ft névértékû, a társaságban 49,8%-os részesedést biztosító üzletrészt ­ az alaptõke-leszállítás szabályai szerint ­ be kívánja vonni.<ujsor/>
-A döntés következtében a társaság törzstõkéje 15 220 000 Ft-ról 7 640 000 Ft-ra csökkenne.<ujsor/>
-A törzstõke leszállítását követõen tagok részesedése a társaság törzstõkéjében a következõképpen alakul:<ujsor/>
-Bíróné Varga Mónika 2 440 000 Ft, amely a társaság alaptõkéjében 32%-ot képvisel.<ujsor/>
-Bíró László 1 380 000 Ft, amely a társaság alaptõkéjében 18%-ot képvisel.<ujsor/>
-Csáki Béla 3 820 000 Ft, amely a társaság alaptõkéjében 50%-ot képvisel.<ujsor/>
-A társaság az alaptõke leszállításának szándékáról tájékoztatta a Fõvárosi Bíróság Cégbíróságát is.<ujsor/>
-A társaság felhívja hitelezõit, a 2006. évi V. tv. (Gt.) 162­163. §-aiban foglalt jogaiknak, a közlemény második közzétételét követõ 30 napon belül történõ gyakorlásának lehetõségére.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">Az InformaTÃ©ka MÅ±szaki SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi Kft. (Cg.: [01 09 060780]; szÃ©khelye: 1067 Budapest, TerÃ©z krt. 31.) a 2008. Ã¡prilis 30-Ã¡n meghozott 2/2008. (04. 30.) sz. hatÃ¡rozatÃ¡val akkÃ©nt dÃ¶ntÃ¶tt, hogy a korÃ¡bban tagjÃ¡tÃ³l visszavÃ¡sÃ¡rolt 7 580 000 Ft nÃ©vÃ©rtÃ©kÅ±, a tÃ¡rsasÃ¡gban 49,8%-os rÃ©szesedÃ©st biztosÃ­tÃ³ Ã¼zletrÃ©szt Â­ az alaptÅ‘ke-leszÃ¡llÃ­tÃ¡s szabÃ¡lyai szerint Â­ be kÃ­vÃ¡nja vonni.<ujsor/>
+A dÃ¶ntÃ©s kÃ¶vetkeztÃ©ben a tÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©je 15 220 000 Ft-rÃ³l 7 640 000 Ft-ra csÃ¶kkenne.<ujsor/>
+A tÃ¶rzstÅ‘ke leszÃ¡llÃ­tÃ¡sÃ¡t kÃ¶vetÅ‘en tagok rÃ©szesedÃ©se a tÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©jÃ©ben a kÃ¶vetkezÅ‘kÃ©ppen alakul:<ujsor/>
+BÃ­rÃ³nÃ© Varga MÃ³nika 2 440 000 Ft, amely a tÃ¡rsasÃ¡g alaptÅ‘kÃ©jÃ©ben 32%-ot kÃ©pvisel.<ujsor/>
+BÃ­rÃ³ LÃ¡szlÃ³ 1 380 000 Ft, amely a tÃ¡rsasÃ¡g alaptÅ‘kÃ©jÃ©ben 18%-ot kÃ©pvisel.<ujsor/>
+CsÃ¡ki BÃ©la 3 820 000 Ft, amely a tÃ¡rsasÃ¡g alaptÅ‘kÃ©jÃ©ben 50%-ot kÃ©pvisel.<ujsor/>
+A tÃ¡rsasÃ¡g az alaptÅ‘ke leszÃ¡llÃ­tÃ¡sÃ¡nak szÃ¡ndÃ©kÃ¡rÃ³l tÃ¡jÃ©koztatta a FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g CÃ©gbÃ­rÃ³sÃ¡gÃ¡t is.<ujsor/>
+A tÃ¡rsasÃ¡g felhÃ­vja hitelezÅ‘it, a 2006. Ã©vi V. tv. (Gt.) 162Â­163. Â§-aiban foglalt jogaiknak, a kÃ¶zlemÃ©ny mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ 30 napon belÃ¼l tÃ¶rtÃ©nÅ‘ gyakorlÃ¡sÃ¡nak lehetÅ‘sÃ©gÃ©re.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109060780</mezo>
-<mezo id = "nev">INFORMATÉKA Mûszaki Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">INFORMATÃ‰KA MÅ±szaki SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1067 Budapest</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az Informa Téka Mûszaki Szolgáltató és Kereskedelmi Kft. (Cg.: [01 09 060780]; székhelye: 1067 Budapest, Teréz krt. 31.) a 2008. április 30-án meghozott 2/2008. (04. 30.) sz. határozatával akként döntött, hogy a korábban tagjától visszavásárolt 7 580 000 Ft névértékû, a társaságban 49,8%-os részesedést biztosító üzletrészt ­ az alaptõke-leszállítás szabályai szerint ­ be kívánja vonni.<ujsor/>
-A döntés következtében a társaság törzstõkéje 15 220 000 Ft-ról 7 640 000 Ft-ra csökkenne.<ujsor/>
-A törzstõke leszállítását követõen tagok részesedése a társaság törzstõkéjében a következõképpen alakul:<ujsor/>
-Bíróné Varga Mónika 2 440 000 Ft, amely a társaság alaptõkéjében 32%-ot képvisel.<ujsor/>
-Bíró László 1 380 000 Ft, amely a társaság alaptõkéjében 18%-ot képvisel.<ujsor/>
-Csáki Béla 3 820 000 Ft, amely a társaság alaptõkéjében 50%-ot képvisel.<ujsor/>
-A társaság az alaptõke leszállításának szándékáról tájékoztatta a Fõvárosi Bíróság Cégbíróságát is.<ujsor/>
-A társaság felhívja hitelezõit, a 2006. évi V. tv. (Gt.) 162­163. §-aiban foglalt jogaiknak, a közlemény második közzétételét követõ 30 napon belül történõ gyakorlásának lehetõségére.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">Az Informa TÃ©ka MÅ±szaki SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi Kft. (Cg.: [01 09 060780]; szÃ©khelye: 1067 Budapest, TerÃ©z krt. 31.) a 2008. Ã¡prilis 30-Ã¡n meghozott 2/2008. (04. 30.) sz. hatÃ¡rozatÃ¡val akkÃ©nt dÃ¶ntÃ¶tt, hogy a korÃ¡bban tagjÃ¡tÃ³l visszavÃ¡sÃ¡rolt 7 580 000 Ft nÃ©vÃ©rtÃ©kÅ±, a tÃ¡rsasÃ¡gban 49,8%-os rÃ©szesedÃ©st biztosÃ­tÃ³ Ã¼zletrÃ©szt Â­ az alaptÅ‘ke-leszÃ¡llÃ­tÃ¡s szabÃ¡lyai szerint Â­ be kÃ­vÃ¡nja vonni.<ujsor/>
+A dÃ¶ntÃ©s kÃ¶vetkeztÃ©ben a tÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©je 15 220 000 Ft-rÃ³l 7 640 000 Ft-ra csÃ¶kkenne.<ujsor/>
+A tÃ¶rzstÅ‘ke leszÃ¡llÃ­tÃ¡sÃ¡t kÃ¶vetÅ‘en tagok rÃ©szesedÃ©se a tÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©jÃ©ben a kÃ¶vetkezÅ‘kÃ©ppen alakul:<ujsor/>
+BÃ­rÃ³nÃ© Varga MÃ³nika 2 440 000 Ft, amely a tÃ¡rsasÃ¡g alaptÅ‘kÃ©jÃ©ben 32%-ot kÃ©pvisel.<ujsor/>
+BÃ­rÃ³ LÃ¡szlÃ³ 1 380 000 Ft, amely a tÃ¡rsasÃ¡g alaptÅ‘kÃ©jÃ©ben 18%-ot kÃ©pvisel.<ujsor/>
+CsÃ¡ki BÃ©la 3 820 000 Ft, amely a tÃ¡rsasÃ¡g alaptÅ‘kÃ©jÃ©ben 50%-ot kÃ©pvisel.<ujsor/>
+A tÃ¡rsasÃ¡g az alaptÅ‘ke leszÃ¡llÃ­tÃ¡sÃ¡nak szÃ¡ndÃ©kÃ¡rÃ³l tÃ¡jÃ©koztatta a FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g CÃ©gbÃ­rÃ³sÃ¡gÃ¡t is.<ujsor/>
+A tÃ¡rsasÃ¡g felhÃ­vja hitelezÅ‘it, a 2006. Ã©vi V. tv. (Gt.) 162Â­163. Â§-aiban foglalt jogaiknak, a kÃ¶zlemÃ©ny mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ 30 napon belÃ¼l tÃ¶rtÃ©nÅ‘ gyakorlÃ¡sÃ¡nak lehetÅ‘sÃ©gÃ©re.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109060780</mezo>
-<mezo id = "nev">INFORMATÉKA Mûszaki Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">INFORMATÃ‰KA MÅ±szaki SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1067 Budapest</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az INFOVOX Kereskedelmi Korlátolt Felelõsségû Társaság (Cg.: [01 09 078251]; rövidített neve: INFOVOX Kft.; székhelye: 1067 Budapest, Teréz krt. 31.), valamint a Metál Bunker Kereskedelmi és Szolgáltató Közkereseti Társaság (Cg.: [01 03 023610]; rövidített neve: Metál Bunker Kkt.; székhelye: 1067 Budapest, Teréz krt. 41.) elhatározta egyesülését az InformaTéka Mûszaki Szolgáltató és kereskedelmi Korlátolt Felelõsségû Társasággal (Cg.: [01 09 060780]; rövidített neve: InformaTéka Kft.; székhelye: 1067 Budapest, Teréz krt. 31.)<ujsor/>
-beolvadás<ujsor/>
-útján.<ujsor/>
-A beolvadást követõen az átvevõ társaság formája, cégneve: InformaTéka Mûszaki Szolgáltató és kereskedelmi Korlátolt Felelõsségû Társaság.<ujsor/>
-Rövidített neve: InformaTéka Kft.<ujsor/>
-Székhelye: 1067 Budapest, Teréz krt. 31.<ujsor/>
-Társasági szerzõdés megkötésének napja: 2009. június 30.<ujsor/>
-A gazdasági társaság fõ tevékenysége (TEÁOR ’08): 4743 Audió-, videoberendezés kiskereskedelme.<ujsor/>
-Vezetõ tisztségviselõje: Csáki Béla, 1221 Budapest, Vöröskúti határsor 24. sz. alatti lakos.<ujsor/>
-A vagyonmérleg-tervezetek fõbb adatai:<ujsor/>
+<mezo id = "szoveg">Az INFOVOX Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [01 09 078251]; rÃ¶vidÃ­tett neve: INFOVOX Kft.; szÃ©khelye: 1067 Budapest, TerÃ©z krt. 31.), valamint a MetÃ¡l Bunker Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KÃ¶zkereseti TÃ¡rsasÃ¡g (Cg.: [01 03 023610]; rÃ¶vidÃ­tett neve: MetÃ¡l Bunker Kkt.; szÃ©khelye: 1067 Budapest, TerÃ©z krt. 41.) elhatÃ¡rozta egyesÃ¼lÃ©sÃ©t az InformaTÃ©ka MÅ±szaki SzolgÃ¡ltatÃ³ Ã©s kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡ggal (Cg.: [01 09 060780]; rÃ¶vidÃ­tett neve: InformaTÃ©ka Kft.; szÃ©khelye: 1067 Budapest, TerÃ©z krt. 31.)<ujsor/>
+beolvadÃ¡s<ujsor/>
+ÃºtjÃ¡n.<ujsor/>
+A beolvadÃ¡st kÃ¶vetÅ‘en az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g formÃ¡ja, cÃ©gneve: InformaTÃ©ka MÅ±szaki SzolgÃ¡ltatÃ³ Ã©s kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+RÃ¶vidÃ­tett neve: InformaTÃ©ka Kft.<ujsor/>
+SzÃ©khelye: 1067 Budapest, TerÃ©z krt. 31.<ujsor/>
+TÃ¡rsasÃ¡gi szerzÅ‘dÃ©s megkÃ¶tÃ©sÃ©nek napja: 2009. jÃºnius 30.<ujsor/>
+A gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™08): 4743 AudiÃ³-, videoberendezÃ©s kiskereskedelme.<ujsor/>
+VezetÅ‘ tisztsÃ©gviselÅ‘je: CsÃ¡ki BÃ©la, 1221 Budapest, VÃ¶rÃ¶skÃºti hatÃ¡rsor 24. sz. alatti lakos.<ujsor/>
+A vagyonmÃ©rleg-tervezetek fÅ‘bb adatai:<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK InformaTéka Kft. Metál Bunker InfoVox Kft. Végleges<ujsor/>
-(záró) Kkt. (záró) (záró) (nyitó)<ujsor/>
-A) Befektetett eszközök 76 780 11 331 549 73 992<ujsor/>
-I. Immateriális javak 1 0 1 2<ujsor/>
-II. Tárgyi eszközök 50 101 11 331 548 61 980<ujsor/>
-III. Befektetett pénzügyi eszközök 26 678 0 0 12 010<ujsor/>
-B) Forgóeszközök 161 614 142 30 738 189 021<ujsor/>
-I. Készletek 82 029 0 26 753 108 782<ujsor/>
-II. Követelések 42 657 139 3 953 43 276<ujsor/>
-III. Értékpapírok 0 0 0 0<ujsor/>
-IV. Pénzeszközök 36 928 3 32 36 963<ujsor/>
-C) Aktív idõbeli elhatárolások 6 407 0 0 6 407<ujsor/>
-ÖSSZESEN: 244 801 11 473 31 287 269 420<ujsor/>
+ESZKÃ–ZÃ–K InformaTÃ©ka Kft. MetÃ¡l Bunker InfoVox Kft. VÃ©gleges<ujsor/>
+(zÃ¡rÃ³) Kkt. (zÃ¡rÃ³) (zÃ¡rÃ³) (nyitÃ³)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 76 780 11 331 549 73 992<ujsor/>
+I. ImmateriÃ¡lis javak 1 0 1 2<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 50 101 11 331 548 61 980<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 26 678 0 0 12 010<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 161 614 142 30 738 189 021<ujsor/>
+I. KÃ©szletek 82 029 0 26 753 108 782<ujsor/>
+II. KÃ¶vetelÃ©sek 42 657 139 3 953 43 276<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 0 0 0<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 36 928 3 32 36 963<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 6 407 0 0 6 407<ujsor/>
+Ã–SSZESEN: 244 801 11 473 31 287 269 420<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK InformaTéka Kft. Metál Bunker InfoVox Kft. Végleges<ujsor/>
-(záró) Kkt. (záró) (záró) (nyitó)<ujsor/>
-D) Saját tõke 177 081 ­1 330 24 267 196 918<ujsor/>
-I. Jegyzett tõke 7 640 20 3 100 7 660<ujsor/>
-II. Jegyzett, de még be nem fiz. tõke 0 0 0 0<ujsor/>
-III. Tõketartalék 0 0 0 0<ujsor/>
-IV. Eredménytartalék 169 441 ­1 350 21 167 189 258<ujsor/>
-V. Lekötött tartalék 0 0 0 0<ujsor/>
-VI. Értékelési tartalék 0 0 0 0<ujsor/>
-VII. Mérleg szerinti eredmény 0<ujsor/>
-E) Céltartalékok 0 0 0 0<ujsor/>
-F) Kötelezettségek 67 028 12 803 7 020 71 810<ujsor/>
-I. Hátra sorolt kötelezettségek 0 0 0 0<ujsor/>
-II. Hosszú lejáratú kötelezettségek 0 12 733 3 000 4 165<ujsor/>
-III. Rövid lejáratú kötelezettségek 67 028 70 4 020 67 645<ujsor/>
-G) Passzív idõbeli elhatárolások 692 0 692<ujsor/>
-ÖSSZESEN: 244 801 11 473 31 287 269 420<ujsor/>
-A társaság felhívja hitelezõi figyelmét a Gt. (1996. évi IV. tv.) 76. § (2) bekezdésében foglalt jogaik gyakorlásának lehetõségére, követeléseiknek e közlemény második közzétételét követõ 30 napos jogvesztõ határidõn belül történõ bejelentésére.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+FORRÃSOK InformaTÃ©ka Kft. MetÃ¡l Bunker InfoVox Kft. VÃ©gleges<ujsor/>
+(zÃ¡rÃ³) Kkt. (zÃ¡rÃ³) (zÃ¡rÃ³) (nyitÃ³)<ujsor/>
+D) SajÃ¡t tÅ‘ke 177 081 Â­1 330 24 267 196 918<ujsor/>
+I. Jegyzett tÅ‘ke 7 640 20 3 100 7 660<ujsor/>
+II. Jegyzett, de mÃ©g be nem fiz. tÅ‘ke 0 0 0 0<ujsor/>
+III. TÅ‘ketartalÃ©k 0 0 0 0<ujsor/>
+IV. EredmÃ©nytartalÃ©k 169 441 Â­1 350 21 167 189 258<ujsor/>
+V. LekÃ¶tÃ¶tt tartalÃ©k 0 0 0 0<ujsor/>
+VI. Ã‰rtÃ©kelÃ©si tartalÃ©k 0 0 0 0<ujsor/>
+VII. MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+E) CÃ©ltartalÃ©kok 0 0 0 0<ujsor/>
+F) KÃ¶telezettsÃ©gek 67 028 12 803 7 020 71 810<ujsor/>
+I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0 0 0 0<ujsor/>
+II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0 12 733 3 000 4 165<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 67 028 70 4 020 67 645<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 692 0 692<ujsor/>
+Ã–SSZESEN: 244 801 11 473 31 287 269 420<ujsor/>
+A tÃ¡rsasÃ¡g felhÃ­vja hitelezÅ‘i figyelmÃ©t a Gt. (1996. Ã©vi IV. tv.) 76. Â§ (2) bekezdÃ©sÃ©ben foglalt jogaik gyakorlÃ¡sÃ¡nak lehetÅ‘sÃ©gÃ©re, kÃ¶vetelÃ©seiknek e kÃ¶zlemÃ©ny mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ 30 napos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l tÃ¶rtÃ©nÅ‘ bejelentÃ©sÃ©re.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109060780</mezo>
-<mezo id = "nev">INFORMATÉKA Mûszaki Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">INFORMATÃ‰KA MÅ±szaki SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1067 Budapest</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az INFOVOX Kereskedelmi Korlátolt Felelõsségû Társaság (Cg.: [01 09 078251]; rövidített neve: INFOVOX Kft.; székhelye: 1067 Budapest, Teréz krt. 31.), valamint a Metál Bunker Kereskedelmi és Szolgáltató Közkereseti Társaság (Cg.: [01 03 023610]; rövidített neve: Metál Bunker Kkt.; székhelye: 1067 Budapest, Teréz krt. 41.) elhatározta egyesülését az InformaTéka Mûszaki Szolgáltató és kereskedelmi Korlátolt Felelõsségû Társasággal (Cg.: [01 09 060780]; rövidített neve: InformaTéka Kft.; székhelye: 1067 Budapest, Teréz krt. 31.)<ujsor/>
-beolvadás<ujsor/>
-útján.<ujsor/>
-A beolvadást követõen az átvevõ társaság formája, cégneve: InformaTéka Mûszaki Szolgáltató és kereskedelmi Korlátolt Felelõsségû Társaság.<ujsor/>
-Rövidített neve: InformaTéka Kft.<ujsor/>
-Székhelye: 1067 Budapest, Teréz krt. 31.<ujsor/>
-Társasági szerzõdés megkötésének napja: 2009. június 30.<ujsor/>
-A gazdasági társaság fõ tevékenysége (TEÁOR ’08): 4743 Audió-, videoberendezés kiskereskedelme.<ujsor/>
-Vezetõ tisztségviselõje: Csáki Béla, 1221 Budapest, Vöröskúti határsor 24. sz. alatti lakos.<ujsor/>
-A vagyonmérleg-tervezetek fõbb adatai:<ujsor/>
+<mezo id = "szoveg">Az INFOVOX Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [01 09 078251]; rÃ¶vidÃ­tett neve: INFOVOX Kft.; szÃ©khelye: 1067 Budapest, TerÃ©z krt. 31.), valamint a MetÃ¡l Bunker Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KÃ¶zkereseti TÃ¡rsasÃ¡g (Cg.: [01 03 023610]; rÃ¶vidÃ­tett neve: MetÃ¡l Bunker Kkt.; szÃ©khelye: 1067 Budapest, TerÃ©z krt. 41.) elhatÃ¡rozta egyesÃ¼lÃ©sÃ©t az InformaTÃ©ka MÅ±szaki SzolgÃ¡ltatÃ³ Ã©s kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡ggal (Cg.: [01 09 060780]; rÃ¶vidÃ­tett neve: InformaTÃ©ka Kft.; szÃ©khelye: 1067 Budapest, TerÃ©z krt. 31.)<ujsor/>
+beolvadÃ¡s<ujsor/>
+ÃºtjÃ¡n.<ujsor/>
+A beolvadÃ¡st kÃ¶vetÅ‘en az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g formÃ¡ja, cÃ©gneve: InformaTÃ©ka MÅ±szaki SzolgÃ¡ltatÃ³ Ã©s kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+RÃ¶vidÃ­tett neve: InformaTÃ©ka Kft.<ujsor/>
+SzÃ©khelye: 1067 Budapest, TerÃ©z krt. 31.<ujsor/>
+TÃ¡rsasÃ¡gi szerzÅ‘dÃ©s megkÃ¶tÃ©sÃ©nek napja: 2009. jÃºnius 30.<ujsor/>
+A gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™08): 4743 AudiÃ³-, videoberendezÃ©s kiskereskedelme.<ujsor/>
+VezetÅ‘ tisztsÃ©gviselÅ‘je: CsÃ¡ki BÃ©la, 1221 Budapest, VÃ¶rÃ¶skÃºti hatÃ¡rsor 24. sz. alatti lakos.<ujsor/>
+A vagyonmÃ©rleg-tervezetek fÅ‘bb adatai:<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK InformaTéka Kft. Metál Bunker InfoVox Kft. Végleges<ujsor/>
-(záró) Kkt. (záró) (záró) (nyitó)<ujsor/>
-A) Befektetett eszközök 76 780 11 331 549 73 992<ujsor/>
-I. Immateriális javak 1 0 1 2<ujsor/>
-II. Tárgyi eszközök 50 101 11 331 548 61 980<ujsor/>
-III. Befektetett pénzügyi eszközök 26 678 0 0 12 010<ujsor/>
-B) Forgóeszközök 161 614 142 30 738 189 021<ujsor/>
-I. Készletek 82 029 0 26 753 108 782<ujsor/>
-II. Követelések 42 657 139 3 953 43 276<ujsor/>
-III. Értékpapírok 0 0 0 0<ujsor/>
-IV. Pénzeszközök 36 928 3 32 36 963<ujsor/>
-C) Aktív idõbeli elhatárolások 6 407 0 0 6 407<ujsor/>
-ÖSSZESEN: 244 801 11 473 31 287 269 420<ujsor/>
+ESZKÃ–ZÃ–K InformaTÃ©ka Kft. MetÃ¡l Bunker InfoVox Kft. VÃ©gleges<ujsor/>
+(zÃ¡rÃ³) Kkt. (zÃ¡rÃ³) (zÃ¡rÃ³) (nyitÃ³)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 76 780 11 331 549 73 992<ujsor/>
+I. ImmateriÃ¡lis javak 1 0 1 2<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 50 101 11 331 548 61 980<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 26 678 0 0 12 010<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 161 614 142 30 738 189 021<ujsor/>
+I. KÃ©szletek 82 029 0 26 753 108 782<ujsor/>
+II. KÃ¶vetelÃ©sek 42 657 139 3 953 43 276<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 0 0 0<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 36 928 3 32 36 963<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 6 407 0 0 6 407<ujsor/>
+Ã–SSZESEN: 244 801 11 473 31 287 269 420<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK InformaTéka Kft. Metál Bunker InfoVox Kft. Végleges<ujsor/>
-(záró) Kkt. (záró) (záró) (nyitó)<ujsor/>
-D) Saját tõke 177 081 ­1 330 24 267 196 918<ujsor/>
-I. Jegyzett tõke 7 640 20 3 100 7 660<ujsor/>
-II. Jegyzett, de még be nem fiz. tõke 0 0 0 0<ujsor/>
-III. Tõketartalék 0 0 0 0<ujsor/>
-IV. Eredménytartalék 169 441 ­1 350 21 167 189 258<ujsor/>
-V. Lekötött tartalék 0 0 0 0<ujsor/>
-VI. Értékelési tartalék 0 0 0 0<ujsor/>
-VII. Mérleg szerinti eredmény 0<ujsor/>
-E) Céltartalékok 0 0 0 0<ujsor/>
-F) Kötelezettségek 67 028 12 803 7 020 71 810<ujsor/>
-I. Hátra sorolt kötelezettségek 0 0 0 0<ujsor/>
-II. Hosszú lejáratú kötelezettségek 0 12 733 3 000 4 165<ujsor/>
-III. Rövid lejáratú kötelezettségek 67 028 70 4 020 67 645<ujsor/>
-G) Passzív idõbeli elhatárolások 692 0 692<ujsor/>
-ÖSSZESEN: 244 801 11 473 31 287 269 420<ujsor/>
-A társaság felhívja hitelezõi figyelmét a Gt. (1996. évi IV. tv.) 76. § (2) bekezdésében foglalt jogaik gyakorlásának lehetõségére, követeléseiknek e közlemény második közzétételét követõ 30 napos jogvesztõ határidõn belül történõ bejelentésére.<ujsor/>
-(Második közzététel.)<ujsor/>
+FORRÃSOK InformaTÃ©ka Kft. MetÃ¡l Bunker InfoVox Kft. VÃ©gleges<ujsor/>
+(zÃ¡rÃ³) Kkt. (zÃ¡rÃ³) (zÃ¡rÃ³) (nyitÃ³)<ujsor/>
+D) SajÃ¡t tÅ‘ke 177 081 Â­1 330 24 267 196 918<ujsor/>
+I. Jegyzett tÅ‘ke 7 640 20 3 100 7 660<ujsor/>
+II. Jegyzett, de mÃ©g be nem fiz. tÅ‘ke 0 0 0 0<ujsor/>
+III. TÅ‘ketartalÃ©k 0 0 0 0<ujsor/>
+IV. EredmÃ©nytartalÃ©k 169 441 Â­1 350 21 167 189 258<ujsor/>
+V. LekÃ¶tÃ¶tt tartalÃ©k 0 0 0 0<ujsor/>
+VI. Ã‰rtÃ©kelÃ©si tartalÃ©k 0 0 0 0<ujsor/>
+VII. MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+E) CÃ©ltartalÃ©kok 0 0 0 0<ujsor/>
+F) KÃ¶telezettsÃ©gek 67 028 12 803 7 020 71 810<ujsor/>
+I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0 0 0 0<ujsor/>
+II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0 12 733 3 000 4 165<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 67 028 70 4 020 67 645<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 692 0 692<ujsor/>
+Ã–SSZESEN: 244 801 11 473 31 287 269 420<ujsor/>
+A tÃ¡rsasÃ¡g felhÃ­vja hitelezÅ‘i figyelmÃ©t a Gt. (1996. Ã©vi IV. tv.) 76. Â§ (2) bekezdÃ©sÃ©ben foglalt jogaik gyakorlÃ¡sÃ¡nak lehetÅ‘sÃ©gÃ©re, kÃ¶vetelÃ©seiknek e kÃ¶zlemÃ©ny mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ 30 napos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l tÃ¶rtÃ©nÅ‘ bejelentÃ©sÃ©re.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109060780</mezo>
-<mezo id = "nev">INFORMATÉKA Mûszaki Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">INFORMATÃ‰KA MÅ±szaki SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1067 Budapest</mezo>
 </alrovat>
 </rovat>

@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">668626</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">1051 Budapest, Erzsébet tér 9-10. </mezo>
+<mezo id = "cim">1051 Budapest, ErzsÃ©bet tÃ©r 9-10. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">12342958241</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19971222</mezo>
-<mezo id = "nev">ADRIA-PALACE Ingatlanhasznosító Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">ADRIA-PALACE IngatlanhasznosÃ­tÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -27,7 +27,7 @@
 <mezo id = "hattol">20000728</mezo>
 <mezo id = "irsz">1051</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Erzsébet tér 9-10.</mezo>
+<mezo id = "teru">ErzsÃ©bet tÃ©r 9-10.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "8">
@@ -337,7 +337,7 @@
 <rovat id = "13">
 <alrovat id = "10">
 <mezo id = "hattol">20090807</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "pnev">Zoran Kapor</mezo>
 <mezo id = "panev">Vesna Benovic</mezo>
 <mezo id = "pirsz">1064</mezo>
@@ -350,7 +350,7 @@
 </alrovat>
 <alrovat id = "11">
 <mezo id = "hattol">20110321</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "pnev">Nimrod Rinot</mezo>
 <mezo id = "panev">Yael Steiner</mezo>
 <mezo id = "pirsz">1025</mezo>
@@ -367,16 +367,16 @@
 <alrovat id = "6">
 <mezo id = "hattol">20110331</mezo>
 <mezo id = "cgjsz">0109063183</mezo>
-<mezo id = "nev">KPMG Hungária Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">KPMG HungÃ¡ria KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1139</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Váci út 99.</mezo>
-<mezo id = "pnev">Henye István</mezo>
-<mezo id = "panev">Dr. Áder Mária</mezo>
+<mezo id = "teru">VÃ¡ci Ãºt 99.</mezo>
+<mezo id = "pnev">Henye IstvÃ¡n</mezo>
+<mezo id = "panev">Dr. Ãder MÃ¡ria</mezo>
 <mezo id = "pirsz">1037</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Zúzmara u. 8.</mezo>
+<mezo id = "pteru">ZÃºzmara u. 8.</mezo>
 <mezo id = "jogvk">20110331</mezo>
 <mezo id = "jogvv">20150429</mezo>
 <mezo id = "valtk">20110331</mezo>
@@ -387,7 +387,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20070310</mezo>
 <mezo id = "cgjsz">109864281</mezo>
-<mezo id = "nev">Y. R. Hungary Ingatlanforgalmazó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Y. R. Hungary IngatlanforgalmazÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "atdat">0</mezo>
 </alrovat>
 </rovat>
@@ -402,7 +402,7 @@
 <mezo id = "adosz">12342958241</mezo>
 <mezo id = "kadosz">HU12342958</mezo>
 <mezo id = "bkelt">20110930</mezo>
-<mezo id = "megj">Státusz kezdete: 1997/12/22</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 1997/12/22</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0109">
@@ -412,10 +412,10 @@
 <mezo id = "panev">Lea Yeheros</mezo>
 <mezo id = "pkorsz">IL</mezo>
 <mezo id = "pkhely">Ramat Gan , Havazalet Str. 8.</mezo>
-<mezo id = "pmnev">dr. Pákay András</mezo>
-<mezo id = "pmanev">Szilvássy Edit</mezo>
+<mezo id = "pmnev">dr. PÃ¡kay AndrÃ¡s</mezo>
+<mezo id = "pmanev">SzilvÃ¡ssy Edit</mezo>
 <mezo id = "pmirsz">1052</mezo>
-<mezo id = "pmhely">Budapest, Váci u. 12.</mezo>
+<mezo id = "pmhely">Budapest, VÃ¡ci u. 12.</mezo>
 <mezo id = "tagsk">20060930</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20060930</mezo>
@@ -448,151 +448,151 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az ADRIA-PALACE Ingatlanhasznosító Korlátolt Felelõsségû Társaság (1052 Budapest, Deák Ferenc u. 16-18.; Cg.: [01 09 668626]), az 1999. május 12-i alapítói határozattal, törzstõkéjét leszállítja.<ujsor/>
-A társaság korábbi törzstõkéje: 3 556 500 000 Ft.<ujsor/>
-A társaság törzstõke-leszállítás utáni törzstõkéje: 3 500 000 Ft.<ujsor/>
-A törzstõke-leszállítás tõkekivonás céljából történik. A törzstõke-leszállítás a Gazdasági társaságokról szóló 1997. évi CXLIV. tv. 167. §-ában foglaltaknak megfelelõen történik.<ujsor/>
-A társaság ezennel felhívja hitelezõit, hogy a törzstõke-leszállításhoz hozzá nem járuló hitelezõk követeléseiket a hirdetmény második közzétételétõl számított 30 napon belül jelentsék be.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">Az ADRIA-PALACE IngatlanhasznosÃ­tÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (1052 Budapest, DeÃ¡k Ferenc u. 16-18.; Cg.: [01 09 668626]), az 1999. mÃ¡jus 12-i alapÃ­tÃ³i hatÃ¡rozattal, tÃ¶rzstÅ‘kÃ©jÃ©t leszÃ¡llÃ­tja.<ujsor/>
+A tÃ¡rsasÃ¡g korÃ¡bbi tÃ¶rzstÅ‘kÃ©je: 3 556 500 000 Ft.<ujsor/>
+A tÃ¡rsasÃ¡g tÃ¶rzstÅ‘ke-leszÃ¡llÃ­tÃ¡s utÃ¡ni tÃ¶rzstÅ‘kÃ©je: 3 500 000 Ft.<ujsor/>
+A tÃ¶rzstÅ‘ke-leszÃ¡llÃ­tÃ¡s tÅ‘kekivonÃ¡s cÃ©ljÃ¡bÃ³l tÃ¶rtÃ©nik. A tÃ¶rzstÅ‘ke-leszÃ¡llÃ­tÃ¡s a GazdasÃ¡gi tÃ¡rsasÃ¡gokrÃ³l szÃ³lÃ³ 1997. Ã©vi CXLIV. tv. 167. Â§-Ã¡ban foglaltaknak megfelelÅ‘en tÃ¶rtÃ©nik.<ujsor/>
+A tÃ¡rsasÃ¡g ezennel felhÃ­vja hitelezÅ‘it, hogy a tÃ¶rzstÅ‘ke-leszÃ¡llÃ­tÃ¡shoz hozzÃ¡ nem jÃ¡rulÃ³ hitelezÅ‘k kÃ¶vetelÃ©seiket a hirdetmÃ©ny mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l jelentsÃ©k be.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109668626</mezo>
-<mezo id = "nev">ADRIA-PALACE Ingatlanhasznosító Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">ADRIA-PALACE IngatlanhasznosÃ­tÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az ADRIA-PALACE Ingatlanhasznosító Korlátolt Felelõsségû Társaság (1052 Budapest, Deák Ferenc u. 16-18.; Cg.: [01 09 668626]), az 1999. május 12-i alapítói határozattal, törzstõkéjét leszállítja.<ujsor/>
-A társaság korábbi törzstõkéje: 3 556 500 000 Ft.<ujsor/>
-A társaság törzstõke-leszállítás utáni törzstõkéje: 3 500 000 Ft.<ujsor/>
-A törzstõke-leszállítás tõkekivonás céljából történik. A törzstõke-leszállítás a Gazdasági társaságokról szóló 1997. évi CXLIV. tv. 167. §-ában foglaltaknak megfelelõen történik.<ujsor/>
-A társaság ezennel felhívja hitelezõit, hogy a törzstõkeleszállításhoz hozzá nem járuló hitelezõk követeléseiket a hirdetmény második közzétételétõl számított 30 napon belül jelentsék be.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">Az ADRIA-PALACE IngatlanhasznosÃ­tÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (1052 Budapest, DeÃ¡k Ferenc u. 16-18.; Cg.: [01 09 668626]), az 1999. mÃ¡jus 12-i alapÃ­tÃ³i hatÃ¡rozattal, tÃ¶rzstÅ‘kÃ©jÃ©t leszÃ¡llÃ­tja.<ujsor/>
+A tÃ¡rsasÃ¡g korÃ¡bbi tÃ¶rzstÅ‘kÃ©je: 3 556 500 000 Ft.<ujsor/>
+A tÃ¡rsasÃ¡g tÃ¶rzstÅ‘ke-leszÃ¡llÃ­tÃ¡s utÃ¡ni tÃ¶rzstÅ‘kÃ©je: 3 500 000 Ft.<ujsor/>
+A tÃ¶rzstÅ‘ke-leszÃ¡llÃ­tÃ¡s tÅ‘kekivonÃ¡s cÃ©ljÃ¡bÃ³l tÃ¶rtÃ©nik. A tÃ¶rzstÅ‘ke-leszÃ¡llÃ­tÃ¡s a GazdasÃ¡gi tÃ¡rsasÃ¡gokrÃ³l szÃ³lÃ³ 1997. Ã©vi CXLIV. tv. 167. Â§-Ã¡ban foglaltaknak megfelelÅ‘en tÃ¶rtÃ©nik.<ujsor/>
+A tÃ¡rsasÃ¡g ezennel felhÃ­vja hitelezÅ‘it, hogy a tÃ¶rzstÅ‘keleszÃ¡llÃ­tÃ¡shoz hozzÃ¡ nem jÃ¡rulÃ³ hitelezÅ‘k kÃ¶vetelÃ©seiket a hirdetmÃ©ny mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l jelentsÃ©k be.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109668626</mezo>
-<mezo id = "nev">ADRIA-PALACE Ingatlanhasznosító Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">ADRIA-PALACE IngatlanhasznosÃ­tÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az Y.R. Hungary Ingatlanforgalmazó Korlátolt Felelõsségû Társaság (Cg.: [01 09 864281]; székhely: 1051 Budapest, Zrínyi u. 3.) és az ADRIA-PALACE Ingatlanhasznosító Korlátolt Felelõsségû Társaság (cégjegyzékszám: [01 09 668626]; székhely: 1051 Budapest, Erzsébet tér 9­10.) tagjai határozatot hoztak arról, hogy a társaságok<ujsor/>
-egyesülnek.<ujsor/>
-Az egyesülés módja: beolvadás.<ujsor/>
-Az Y.R. Hungary Kft. mint beolvadó társaság beolvad az ADRIA-PALACE Kft.-be mint átvevõ társaságba.<ujsor/>
-Az egyesülés (beolvadás) alapját képezõ vagyonmérlegek fordulónapja: 2006. június 30.<ujsor/>
-Az átvevõ ADRIA-PALACE Kft. módosított létesítõ okirata elfogadásának napja: 2006. szeptember 30.<ujsor/>
-Az átvevõ ADRIA-PALACE Kft. beolvadás utáni adatai: <ujsor/>
-A társaság cégneve: ADRIA-PALACE Ingatlanhasznosító Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhelye: 1051 Budapest, Erzsébet tér 9­10.<ujsor/>
-A társaság jegyzett tõkéje: 8 000 000 Ft.<ujsor/>
-A társaság tevékenységi köre (TEÁOR ‘03): 7012 Ingatlanforgalmazás (fõ tevékenység).<ujsor/>
-A társaság vezetõ tisztségviselõi: Margalit Tishby (a. n.: Ester Yakubson; B Burlast. 39.; 1052 Tel-Aviv, Izrael), Nimrod Rinot (a. n.: Yael Steiner; Ranaana, Zarein St.7., Izrael).<ujsor/>
-Az átalakuló gazdasági társaságok és a létrejövõ gazdasági társaság vagyonmérleg-tervezetének legfontosabb adatai (2006. június 30.):<ujsor/>
+<mezo id = "szoveg">Az Y.R. Hungary IngatlanforgalmazÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [01 09 864281]; szÃ©khely: 1051 Budapest, ZrÃ­nyi u. 3.) Ã©s az ADRIA-PALACE IngatlanhasznosÃ­tÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (cÃ©gjegyzÃ©kszÃ¡m: [01 09 668626]; szÃ©khely: 1051 Budapest, ErzsÃ©bet tÃ©r 9Â­10.) tagjai hatÃ¡rozatot hoztak arrÃ³l, hogy a tÃ¡rsasÃ¡gok<ujsor/>
+egyesÃ¼lnek.<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: beolvadÃ¡s.<ujsor/>
+Az Y.R. Hungary Kft. mint beolvadÃ³ tÃ¡rsasÃ¡g beolvad az ADRIA-PALACE Kft.-be mint Ã¡tvevÅ‘ tÃ¡rsasÃ¡gba.<ujsor/>
+Az egyesÃ¼lÃ©s (beolvadÃ¡s) alapjÃ¡t kÃ©pezÅ‘ vagyonmÃ©rlegek fordulÃ³napja: 2006. jÃºnius 30.<ujsor/>
+Az Ã¡tvevÅ‘ ADRIA-PALACE Kft. mÃ³dosÃ­tott lÃ©tesÃ­tÅ‘ okirata elfogadÃ¡sÃ¡nak napja: 2006. szeptember 30.<ujsor/>
+Az Ã¡tvevÅ‘ ADRIA-PALACE Kft. beolvadÃ¡s utÃ¡ni adatai: <ujsor/>
+A tÃ¡rsasÃ¡g cÃ©gneve: ADRIA-PALACE IngatlanhasznosÃ­tÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 1051 Budapest, ErzsÃ©bet tÃ©r 9Â­10.<ujsor/>
+A tÃ¡rsasÃ¡g jegyzett tÅ‘kÃ©je: 8 000 000 Ft.<ujsor/>
+A tÃ¡rsasÃ¡g tevÃ©kenysÃ©gi kÃ¶re (TEÃOR â€˜03): 7012 IngatlanforgalmazÃ¡s (fÅ‘ tevÃ©kenysÃ©g).<ujsor/>
+A tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘i: Margalit Tishby (a. n.: Ester Yakubson; B Burlast. 39.; 1052 Tel-Aviv, Izrael), Nimrod Rinot (a. n.: Yael Steiner; Ranaana, Zarein St.7., Izrael).<ujsor/>
+Az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gok Ã©s a lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai (2006. jÃºnius 30.):<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK (aktívák)<ujsor/>
-Y.R. Hungary Kft. ADRIA-PALACE Beolvadó és ADRIA-PALACE Kft.<ujsor/>
-(beolvadó, záró) Kft. (átvevõ, záró) átvevõ összesen (nyitó)<ujsor/>
-A) Befektetett eszközök 971 290 15 643 922 16 615 212 15 643 921<ujsor/>
-I. Immateriális javak 966 290 298 966 588 298<ujsor/>
-II. Tárgyi eszközök 15 643 624 15 643 624 15 643 624<ujsor/>
-III. Befektetett pénzügyi eszközök 5 000 5 000 0<ujsor/>
-B) Forgóeszközök 1 458 981 940 999 2 399 980 2 135 090<ujsor/>
-I. Készletek 16 070 16 070 16 070<ujsor/>
-II. Követelések 1 452 891 407 293 1 860 184 1 595 294<ujsor/>
-III. Értékpapírok<ujsor/>
-IV. Pénzeszközök 6 090 517 636 523 726 523 726<ujsor/>
-C) Aktív idõbeli elhatárolások 228 16 953 17 181 17 181<ujsor/>
-ÖSSZESEN: 2 430 498 16 601 874 19 032 372 17 796 192<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k)<ujsor/>
+Y.R. Hungary Kft. ADRIA-PALACE BeolvadÃ³ Ã©s ADRIA-PALACE Kft.<ujsor/>
+(beolvadÃ³, zÃ¡rÃ³) Kft. (Ã¡tvevÅ‘, zÃ¡rÃ³) Ã¡tvevÅ‘ Ã¶sszesen (nyitÃ³)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 971 290 15 643 922 16 615 212 15 643 921<ujsor/>
+I. ImmateriÃ¡lis javak 966 290 298 966 588 298<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 15 643 624 15 643 624 15 643 624<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 5 000 5 000 0<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 1 458 981 940 999 2 399 980 2 135 090<ujsor/>
+I. KÃ©szletek 16 070 16 070 16 070<ujsor/>
+II. KÃ¶vetelÃ©sek 1 452 891 407 293 1 860 184 1 595 294<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 6 090 517 636 523 726 523 726<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 228 16 953 17 181 17 181<ujsor/>
+Ã–SSZESEN: 2 430 498 16 601 874 19 032 372 17 796 192<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK (passzívák)<ujsor/>
-Y.R. Hungary Kft. ADRIA-PALACE Beolvadó és ADRIA-PALACE Kft.<ujsor/>
-(beolvadó, záró) Kft. (átvevõ, záró) átvevõ összesen (nyitó)<ujsor/>
-D) Saját tõke ­320 489 3 347 357 3 026 868 2 055 578<ujsor/>
-I. Jegyzett tõke 3 000 5 000 8 000 8 000<ujsor/>
-II. Jegyzett, de még be nem fiz. tõke 0 0<ujsor/>
-III. Tõketartalék 0 0<ujsor/>
-IV. Eredménytartalék ­323 489 3 342 357 3 018 868 2 047 578<ujsor/>
-V. Lekötött tartalék 0 0<ujsor/>
-VI. Értékelési tartalék 0 0 0 0<ujsor/>
-VII. Mérleg szerinti eredmény 0 0 0 0<ujsor/>
-E) Céltartalékok 0 0<ujsor/>
-F) Kötelezettségek 2 732 735 12 914 162 15 646 897 15 382 007<ujsor/>
-I. Hosszú lejáratú kötelezettségek 2 636 953 12 674 898 15 311 851 15 048 701<ujsor/>
-II. Rövid lejáratú kötelezettségek 95 782 239 264 335 046 333 306<ujsor/>
-G) Passzív idõbeli elhatárolások 18 253 340 355 358 608 358 608<ujsor/>
-ÖSSZESEN: 2 430 498 16 601 874 19 032 372 17 796 192<ujsor/>
-Felhívjuk a társaság hitelezõit, hogy követeléseiket a Gt. 76. § (2) bekezdése alapján, a második közzétételt követõ 30 napos jogvesztõ határidõn belül jelentsék be.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+FORRÃSOK (passzÃ­vÃ¡k)<ujsor/>
+Y.R. Hungary Kft. ADRIA-PALACE BeolvadÃ³ Ã©s ADRIA-PALACE Kft.<ujsor/>
+(beolvadÃ³, zÃ¡rÃ³) Kft. (Ã¡tvevÅ‘, zÃ¡rÃ³) Ã¡tvevÅ‘ Ã¶sszesen (nyitÃ³)<ujsor/>
+D) SajÃ¡t tÅ‘ke Â­320 489 3 347 357 3 026 868 2 055 578<ujsor/>
+I. Jegyzett tÅ‘ke 3 000 5 000 8 000 8 000<ujsor/>
+II. Jegyzett, de mÃ©g be nem fiz. tÅ‘ke 0 0<ujsor/>
+III. TÅ‘ketartalÃ©k 0 0<ujsor/>
+IV. EredmÃ©nytartalÃ©k Â­323 489 3 342 357 3 018 868 2 047 578<ujsor/>
+V. LekÃ¶tÃ¶tt tartalÃ©k 0 0<ujsor/>
+VI. Ã‰rtÃ©kelÃ©si tartalÃ©k 0 0 0 0<ujsor/>
+VII. MÃ©rleg szerinti eredmÃ©ny 0 0 0 0<ujsor/>
+E) CÃ©ltartalÃ©kok 0 0<ujsor/>
+F) KÃ¶telezettsÃ©gek 2 732 735 12 914 162 15 646 897 15 382 007<ujsor/>
+I. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 2 636 953 12 674 898 15 311 851 15 048 701<ujsor/>
+II. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 95 782 239 264 335 046 333 306<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 18 253 340 355 358 608 358 608<ujsor/>
+Ã–SSZESEN: 2 430 498 16 601 874 19 032 372 17 796 192<ujsor/>
+FelhÃ­vjuk a tÃ¡rsasÃ¡g hitelezÅ‘it, hogy kÃ¶vetelÃ©seiket a Gt. 76. Â§ (2) bekezdÃ©se alapjÃ¡n, a mÃ¡sodik kÃ¶zzÃ©tÃ©telt kÃ¶vetÅ‘ 30 napos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l jelentsÃ©k be.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109668626</mezo>
-<mezo id = "nev">ADRIA-PALACE Ingatlanhasznosító Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">ADRIA-PALACE IngatlanhasznosÃ­tÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1051 Budapest</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az Y.R. Hungary Ingatlanforgalmazó Korlátolt Felelõsségû Társaság (Cg.: [01 09 864281]; székhely: 1051 Budapest, Zrínyi u. 3.) és az ADRIA-PALACE Ingatlanhasznosító Korlátolt Felelõsségû Társaság (cégjegyzékszám: [01 09 668626]; székhely: 1051 Budapest, Erzsébet tér 9­10.) tagjai határozatot hoztak arról, hogy a társaságok<ujsor/>
-egyesülnek.<ujsor/>
-Az egyesülés módja: beolvadás.<ujsor/>
-Az Y.R. Hungary Kft. mint beolvadó társaság beolvad az ADRIA-PALACE Kft.-be mint átvevõ társaságba.<ujsor/>
-Az egyesülés (beolvadás) alapját képezõ vagyonmérlegek fordulónapja: 2006. június 30.<ujsor/>
-Az átvevõ ADRIA-PALACE Kft. módosított létesítõ okirata elfogadásának napja: 2006. szeptember 30.<ujsor/>
-Az átvevõ ADRIA-PALACE Kft. beolvadás utáni adatai: <ujsor/>
-A társaság cégneve: ADRIA-PALACE Ingatlanhasznosító Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhelye: 1051 Budapest, Erzsébet tér 9­10.<ujsor/>
-A társaság jegyzett tõkéje: 8 000 000 Ft.<ujsor/>
-A társaság tevékenységi köre (TEÁOR ‘03): 7012 Ingatlanforgalmazás (fõ tevékenység).<ujsor/>
-A társaság vezetõ tisztségviselõi: Margalit Tishby (a. n.: Ester Yakubson; B Burlast. 39.; 1052 Tel-Aviv, Izrael), Nimrod Rinot (a. n.: Yael Steiner; Ranaana, Zarein St.7., Izrael).<ujsor/>
-Az átalakuló gazdasági társaságok és a létrejövõ gazdasági társaság vagyonmérleg-tervezetének legfontosabb adatai (2006. június 30.):<ujsor/>
+<mezo id = "szoveg">Az Y.R. Hungary IngatlanforgalmazÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [01 09 864281]; szÃ©khely: 1051 Budapest, ZrÃ­nyi u. 3.) Ã©s az ADRIA-PALACE IngatlanhasznosÃ­tÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (cÃ©gjegyzÃ©kszÃ¡m: [01 09 668626]; szÃ©khely: 1051 Budapest, ErzsÃ©bet tÃ©r 9Â­10.) tagjai hatÃ¡rozatot hoztak arrÃ³l, hogy a tÃ¡rsasÃ¡gok<ujsor/>
+egyesÃ¼lnek.<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: beolvadÃ¡s.<ujsor/>
+Az Y.R. Hungary Kft. mint beolvadÃ³ tÃ¡rsasÃ¡g beolvad az ADRIA-PALACE Kft.-be mint Ã¡tvevÅ‘ tÃ¡rsasÃ¡gba.<ujsor/>
+Az egyesÃ¼lÃ©s (beolvadÃ¡s) alapjÃ¡t kÃ©pezÅ‘ vagyonmÃ©rlegek fordulÃ³napja: 2006. jÃºnius 30.<ujsor/>
+Az Ã¡tvevÅ‘ ADRIA-PALACE Kft. mÃ³dosÃ­tott lÃ©tesÃ­tÅ‘ okirata elfogadÃ¡sÃ¡nak napja: 2006. szeptember 30.<ujsor/>
+Az Ã¡tvevÅ‘ ADRIA-PALACE Kft. beolvadÃ¡s utÃ¡ni adatai: <ujsor/>
+A tÃ¡rsasÃ¡g cÃ©gneve: ADRIA-PALACE IngatlanhasznosÃ­tÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 1051 Budapest, ErzsÃ©bet tÃ©r 9Â­10.<ujsor/>
+A tÃ¡rsasÃ¡g jegyzett tÅ‘kÃ©je: 8 000 000 Ft.<ujsor/>
+A tÃ¡rsasÃ¡g tevÃ©kenysÃ©gi kÃ¶re (TEÃOR â€˜03): 7012 IngatlanforgalmazÃ¡s (fÅ‘ tevÃ©kenysÃ©g).<ujsor/>
+A tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘i: Margalit Tishby (a. n.: Ester Yakubson; B Burlast. 39.; 1052 Tel-Aviv, Izrael), Nimrod Rinot (a. n.: Yael Steiner; Ranaana, Zarein St.7., Izrael).<ujsor/>
+Az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gok Ã©s a lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai (2006. jÃºnius 30.):<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK (aktívák)<ujsor/>
-Y.R. Hungary Kft. ADRIA-PALACE Beolvadó és ADRIA-PALACE Kft.<ujsor/>
-(beolvadó, záró) Kft. (átvevõ, záró) átvevõ összesen (nyitó)<ujsor/>
-A) Befektetett eszközök 971 290 15 643 922 16 615 212 15 643 921<ujsor/>
-I. Immateriális javak 966 290 298 966 588 298<ujsor/>
-II. Tárgyi eszközök 15 643 624 15 643 624 15 643 624<ujsor/>
-III. Befektetett pénzügyi eszközök 5 000 5 000 0<ujsor/>
-B) Forgóeszközök 1 458 981 940 999 2 399 980 2 135 090<ujsor/>
-I. Készletek 16 070 16 070 16 070<ujsor/>
-II. Követelések 1 452 891 407 293 1 860 184 1 595 294<ujsor/>
-III. Értékpapírok<ujsor/>
-IV. Pénzeszközök 6 090 517 636 523 726 523 726<ujsor/>
-C) Aktív idõbeli elhatárolások 228 16 953 17 181 17 181<ujsor/>
-ÖSSZESEN: 2 430 498 16 601 874 19 032 372 17 796 192<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k)<ujsor/>
+Y.R. Hungary Kft. ADRIA-PALACE BeolvadÃ³ Ã©s ADRIA-PALACE Kft.<ujsor/>
+(beolvadÃ³, zÃ¡rÃ³) Kft. (Ã¡tvevÅ‘, zÃ¡rÃ³) Ã¡tvevÅ‘ Ã¶sszesen (nyitÃ³)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 971 290 15 643 922 16 615 212 15 643 921<ujsor/>
+I. ImmateriÃ¡lis javak 966 290 298 966 588 298<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 15 643 624 15 643 624 15 643 624<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 5 000 5 000 0<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 1 458 981 940 999 2 399 980 2 135 090<ujsor/>
+I. KÃ©szletek 16 070 16 070 16 070<ujsor/>
+II. KÃ¶vetelÃ©sek 1 452 891 407 293 1 860 184 1 595 294<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 6 090 517 636 523 726 523 726<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 228 16 953 17 181 17 181<ujsor/>
+Ã–SSZESEN: 2 430 498 16 601 874 19 032 372 17 796 192<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK (passzívák)<ujsor/>
-Y.R. Hungary Kft. ADRIA-PALACE Beolvadó és ADRIA-PALACE Kft.<ujsor/>
-(beolvadó, záró) Kft. (átvevõ, záró) átvevõ összesen (nyitó)<ujsor/>
-D) Saját tõke ­320 489 3 347 357 3 026 868 2 055 578<ujsor/>
-I. Jegyzett tõke 3 000 5 000 8 000 8 000<ujsor/>
-II. Jegyzett, de még be nem fiz. tõke 0 0<ujsor/>
-III. Tõketartalék 0 0<ujsor/>
-IV. Eredménytartalék ­323 489 3 342 357 3 018 868 2 047 578<ujsor/>
-V. Lekötött tartalék 0 0<ujsor/>
-VI. Értékelési tartalék 0 0 0 0<ujsor/>
-VII. Mérleg szerinti eredmény 0 0 0 0<ujsor/>
-E) Céltartalékok 0 0<ujsor/>
-F) Kötelezettségek 2 732 735 12 914 162 15 646 897 15 382 007<ujsor/>
-I. Hosszú lejáratú kötelezettségek 2 636 953 12 674 898 15 311 851 15 048 701<ujsor/>
-II. Rövid lejáratú kötelezettségek 95 782 239 264 335 046 333 306<ujsor/>
-G) Passzív idõbeli elhatárolások 18 253 340 355 358 608 358 608<ujsor/>
-ÖSSZESEN: 2 430 498 16 601 874 19 032 372 17 796 192<ujsor/>
-Felhívjuk a társaság hitelezõit, hogy követeléseiket a Gt. 76. § (2) bekezdése alapján, a második közzétételt követõ 30 napos jogvesztõ határidõn belül jelentsék be.<ujsor/>
-(Második közzététel.)<ujsor/>
+FORRÃSOK (passzÃ­vÃ¡k)<ujsor/>
+Y.R. Hungary Kft. ADRIA-PALACE BeolvadÃ³ Ã©s ADRIA-PALACE Kft.<ujsor/>
+(beolvadÃ³, zÃ¡rÃ³) Kft. (Ã¡tvevÅ‘, zÃ¡rÃ³) Ã¡tvevÅ‘ Ã¶sszesen (nyitÃ³)<ujsor/>
+D) SajÃ¡t tÅ‘ke Â­320 489 3 347 357 3 026 868 2 055 578<ujsor/>
+I. Jegyzett tÅ‘ke 3 000 5 000 8 000 8 000<ujsor/>
+II. Jegyzett, de mÃ©g be nem fiz. tÅ‘ke 0 0<ujsor/>
+III. TÅ‘ketartalÃ©k 0 0<ujsor/>
+IV. EredmÃ©nytartalÃ©k Â­323 489 3 342 357 3 018 868 2 047 578<ujsor/>
+V. LekÃ¶tÃ¶tt tartalÃ©k 0 0<ujsor/>
+VI. Ã‰rtÃ©kelÃ©si tartalÃ©k 0 0 0 0<ujsor/>
+VII. MÃ©rleg szerinti eredmÃ©ny 0 0 0 0<ujsor/>
+E) CÃ©ltartalÃ©kok 0 0<ujsor/>
+F) KÃ¶telezettsÃ©gek 2 732 735 12 914 162 15 646 897 15 382 007<ujsor/>
+I. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 2 636 953 12 674 898 15 311 851 15 048 701<ujsor/>
+II. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 95 782 239 264 335 046 333 306<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 18 253 340 355 358 608 358 608<ujsor/>
+Ã–SSZESEN: 2 430 498 16 601 874 19 032 372 17 796 192<ujsor/>
+FelhÃ­vjuk a tÃ¡rsasÃ¡g hitelezÅ‘it, hogy kÃ¶vetelÃ©seiket a Gt. 76. Â§ (2) bekezdÃ©se alapjÃ¡n, a mÃ¡sodik kÃ¶zzÃ©tÃ©telt kÃ¶vetÅ‘ 30 napos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l jelentsÃ©k be.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109668626</mezo>
-<mezo id = "nev">ADRIA-PALACE Ingatlanhasznosító Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">ADRIA-PALACE IngatlanhasznosÃ­tÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1051 Budapest</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a változásbejegyzés iránt 2008. 04. 22. napján elõterjesztett kérelmet<ujsor/>
-hiánypótlási eljárás lefolytatása nélkül elutasítja.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a vÃ¡ltozÃ¡sbejegyzÃ©s irÃ¡nt 2008. 04. 22. napjÃ¡n elÅ‘terjesztett kÃ©relmet<ujsor/>
+hiÃ¡nypÃ³tlÃ¡si eljÃ¡rÃ¡s lefolytatÃ¡sa nÃ©lkÃ¼l elutasÃ­tja.<ujsor/>
 2008. 04. 22.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109668626</mezo>
-<mezo id = "nev">ADRIA-PALACE Ingatlanhasznosító Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1051 Budapest, Erzsébet tér 9-10.</mezo>
+<mezo id = "nev">ADRIA-PALACE IngatlanhasznosÃ­tÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1051 Budapest, ErzsÃ©bet tÃ©r 9-10.</mezo>
 <mezo id = "adosz">12342958241</mezo>
 </alrovat>
 </rovat>

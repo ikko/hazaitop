@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">269834</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">1162 Budapest, Szlovák út 134. </mezo>
+<mezo id = "cim">1162 Budapest, SzlovÃ¡k Ãºt 134. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">10906835242</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19940201</mezo>
-<mezo id = "nev">&quot;Biztos Pontok&quot; Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">&quot;Biztos Pontok&quot; Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -27,7 +27,7 @@
 <mezo id = "hattol">19980330</mezo>
 <mezo id = "irsz">1162</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Szlovák út 134.</mezo>
+<mezo id = "teru">SzlovÃ¡k Ãºt 134.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "8">
@@ -465,8 +465,8 @@
 <rovat id = "13">
 <alrovat id = "8">
 <mezo id = "hattol">20110411</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Bödök Katalin</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">BÃ¶dÃ¶k Katalin</mezo>
 <mezo id = "panev">Ferenc Katalin</mezo>
 <mezo id = "pirsz">1162</mezo>
 <mezo id = "phely">Budapest</mezo>
@@ -479,9 +479,9 @@
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">20110411</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Bödök Sándor</mezo>
-<mezo id = "panev">Pikli Mária</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">BÃ¶dÃ¶k SÃ¡ndor</mezo>
+<mezo id = "panev">Pikli MÃ¡ria</mezo>
 <mezo id = "pirsz">1162</mezo>
 <mezo id = "phely">Budapest</mezo>
 <mezo id = "pteru">Legenda u. 9.</mezo>
@@ -496,16 +496,16 @@
 <alrovat id = "3">
 <mezo id = "hattol">20110411</mezo>
 <mezo id = "cgjsz">0109269331</mezo>
-<mezo id = "nev">EGYENLEG Adó- és Könyvszakértõ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">EGYENLEG AdÃ³- Ã©s KÃ¶nyvszakÃ©rtÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1163</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Tiszakömlõ u. 45.</mezo>
-<mezo id = "pnev">Kovács Istvánné</mezo>
-<mezo id = "panev">Baksay Mária</mezo>
+<mezo id = "teru">TiszakÃ¶mlÅ‘ u. 45.</mezo>
+<mezo id = "pnev">KovÃ¡cs IstvÃ¡nnÃ©</mezo>
+<mezo id = "panev">Baksay MÃ¡ria</mezo>
 <mezo id = "pirsz">1163</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Magyarvár u. 32.</mezo>
+<mezo id = "pteru">MagyarvÃ¡r u. 32.</mezo>
 <mezo id = "jogvk">20110601</mezo>
 <mezo id = "jogvv">20160530</mezo>
 <mezo id = "valtk">20110411</mezo>
@@ -516,7 +516,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20090420</mezo>
 <mezo id = "cgjsz">109715793</mezo>
-<mezo id = "nev">ARBOR Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">ARBOR Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "atdat">0</mezo>
 <mezo id = "valtk">20090420</mezo>
 <mezo id = "valtv">0</mezo>
@@ -539,7 +539,7 @@
 <rovat id = "0109">
 <alrovat id = "8">
 <mezo id = "hattol">20080409</mezo>
-<mezo id = "pnev">Bödök Katalin</mezo>
+<mezo id = "pnev">BÃ¶dÃ¶k Katalin</mezo>
 <mezo id = "panev">Ferenc Katalin</mezo>
 <mezo id = "pirsz">1162</mezo>
 <mezo id = "phely">Budapest, Legenda u. 9.</mezo>
@@ -552,8 +552,8 @@
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">20080409</mezo>
-<mezo id = "pnev">Bödök Sándor</mezo>
-<mezo id = "panev">Pikli Mária</mezo>
+<mezo id = "pnev">BÃ¶dÃ¶k SÃ¡ndor</mezo>
+<mezo id = "panev">Pikli MÃ¡ria</mezo>
 <mezo id = "pirsz">1162</mezo>
 <mezo id = "phely">Budapest, Legenda u. 9.</mezo>
 <mezo id = "tagsk">20010226</mezo>
@@ -573,196 +573,196 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A &quot;Biztos Pontok&quot; Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaságban (székhely: 1162 Budapest, Szlovák út 134.; cégjegyzékszám: [01 09 269834]) a 2000. március 17-én kelt társasági szerzõdés alapján (törzstõkeemelés) Rácz Zoltán Károly (1171 Budapest, Gázló u. 14.) 50%-os, Erdõs István Jánosné (1162 Budapest, Legenda u. 9.) 50%-os, azaz jelentõs befolyást szereztek.<ujsor/>
+<mezo id = "szoveg">A &quot;Biztos Pontok&quot; Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gban (szÃ©khely: 1162 Budapest, SzlovÃ¡k Ãºt 134.; cÃ©gjegyzÃ©kszÃ¡m: [01 09 269834]) a 2000. mÃ¡rcius 17-Ã©n kelt tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s alapjÃ¡n (tÃ¶rzstÅ‘keemelÃ©s) RÃ¡cz ZoltÃ¡n KÃ¡roly (1171 Budapest, GÃ¡zlÃ³ u. 14.) 50%-os, ErdÅ‘s IstvÃ¡n JÃ¡nosnÃ© (1162 Budapest, Legenda u. 9.) 50%-os, azaz jelentÅ‘s befolyÃ¡st szereztek.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109269834</mezo>
-<mezo id = "nev">&quot;Biztos Pontok&quot; Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">&quot;Biztos Pontok&quot; Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2000. 05. 04-én hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2000. 05. 04-Ã©n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
 20. 10906835-7012-113-01.<ujsor/>
- Hatályos: 2000. 05. 04-tõl.<ujsor/>
+ HatÃ¡lyos: 2000. 05. 04-tÅ‘l.<ujsor/>
 Bejegyezve: 2000. 05. 04.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109269834</mezo>
-<mezo id = "nev">&quot;Biztos Pontok&quot; Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1162 Budapest, Szlovák út 134.</mezo>
+<mezo id = "nev">&quot;Biztos Pontok&quot; Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1162 Budapest, SzlovÃ¡k Ãºt 134.</mezo>
 <mezo id = "adosz">10906835242</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2000. 05. 04-én hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-11. 300 000 azaz háromszázezer Ft készpénz.<ujsor/>
- Törölve: 2000. 05. 04-i hatállyal.<ujsor/>
- 3 000 000 azaz hárommillió Ft készpénz.<ujsor/>
- Hatályos: 2000. 05. 04-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2000. 05. 04-Ã©n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+11. 300 000 azaz hÃ¡romszÃ¡zezer Ft kÃ©szpÃ©nz.<ujsor/>
+ TÃ¶rÃ¶lve: 2000. 05. 04-i hatÃ¡llyal.<ujsor/>
+ 3 000 000 azaz hÃ¡rommilliÃ³ Ft kÃ©szpÃ©nz.<ujsor/>
+ HatÃ¡lyos: 2000. 05. 04-tÅ‘l.<ujsor/>
 Bejegyezve: 2000. 11. 07.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109269834</mezo>
-<mezo id = "nev">&quot;Biztos Pontok&quot; Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1162 Budapest, Szlovák út 134.</mezo>
+<mezo id = "nev">&quot;Biztos Pontok&quot; Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1162 Budapest, SzlovÃ¡k Ãºt 134.</mezo>
 <mezo id = "adosz">10906835242</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A &quot;Biztos Pontok&quot; Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaságban (székhely: 1162 Budapest, Szlovák út 134.; cégjegyzékszám: [01 09 269834]) - a 2001. február 26-án kelt üzletrész-adásvételi szerzõdéssel - Bödök Katalin (1162 Budapest, Legenda u. 9.) 80%-os, azaz közvetlen irányítást biztosító befolyást szerzett.<ujsor/>
-A hitelezõk a Gt. 296. § (2) bekezdésében foglalt jogaikat gyakorolhatják.<ujsor/>
+<mezo id = "szoveg">A &quot;Biztos Pontok&quot; Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gban (szÃ©khely: 1162 Budapest, SzlovÃ¡k Ãºt 134.; cÃ©gjegyzÃ©kszÃ¡m: [01 09 269834]) - a 2001. februÃ¡r 26-Ã¡n kelt Ã¼zletrÃ©sz-adÃ¡svÃ©teli szerzÅ‘dÃ©ssel - BÃ¶dÃ¶k Katalin (1162 Budapest, Legenda u. 9.) 80%-os, azaz kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡st szerzett.<ujsor/>
+A hitelezÅ‘k a Gt. 296. Â§ (2) bekezdÃ©sÃ©ben foglalt jogaikat gyakorolhatjÃ¡k.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109269834</mezo>
-<mezo id = "nev">&quot;Biztos Pontok&quot; Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">&quot;Biztos Pontok&quot; Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság által vezetett cégjegyzékbe 1994. év február 1-jén bejegyzett „Biztos Pontok” Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság (cégjegyzékszám: [01 09 269834]; székhely: 1162 Budapest, Szlovák út 134.) 2008. október 22-én megtartott taggyûlése a társaság törzstõkéjének leszállításáról hozott határozatot.<ujsor/>
-Az eredeti törzstõke mértéke: 18 000 000 Ft (tizennyolcmillió forint).<ujsor/>
-A leszállított törzstõke mértéke: 3 600 000 Ft (hárommillió-hatszázezer forint).<ujsor/>
-A leszállítást követõen Bödök Katalin tag törzsbetéte: 2 880 000 Ft (80%-os mértékû), Bödök Sándor tag törzsbetéte 720 000 Ft (20%-os mértékû).<ujsor/>
-A leszállítás oka: tõkekivonás.<ujsor/>
-A leszállítás módja: a törzsbetétek hányadának visszafizetése.<ujsor/>
-A társaság egyidejûleg felhívja a hitelezõit, hogy a hirdetmény elsõ alkalommal történt közzétételét megelõzõen keletkezett és ezen idõpontig esedékessé nem vált követeléseik után biztosítékra tarthatnak igényt.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g Ã¡ltal vezetett cÃ©gjegyzÃ©kbe 1994. Ã©v februÃ¡r 1-jÃ©n bejegyzett â€Biztos Pontokâ€ Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (cÃ©gjegyzÃ©kszÃ¡m: [01 09 269834]; szÃ©khely: 1162 Budapest, SzlovÃ¡k Ãºt 134.) 2008. oktÃ³ber 22-Ã©n megtartott taggyÅ±lÃ©se a tÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©jÃ©nek leszÃ¡llÃ­tÃ¡sÃ¡rÃ³l hozott hatÃ¡rozatot.<ujsor/>
+Az eredeti tÃ¶rzstÅ‘ke mÃ©rtÃ©ke: 18 000 000 Ft (tizennyolcmilliÃ³ forint).<ujsor/>
+A leszÃ¡llÃ­tott tÃ¶rzstÅ‘ke mÃ©rtÃ©ke: 3 600 000 Ft (hÃ¡rommilliÃ³-hatszÃ¡zezer forint).<ujsor/>
+A leszÃ¡llÃ­tÃ¡st kÃ¶vetÅ‘en BÃ¶dÃ¶k Katalin tag tÃ¶rzsbetÃ©te: 2 880 000 Ft (80%-os mÃ©rtÃ©kÅ±), BÃ¶dÃ¶k SÃ¡ndor tag tÃ¶rzsbetÃ©te 720 000 Ft (20%-os mÃ©rtÃ©kÅ±).<ujsor/>
+A leszÃ¡llÃ­tÃ¡s oka: tÅ‘kekivonÃ¡s.<ujsor/>
+A leszÃ¡llÃ­tÃ¡s mÃ³dja: a tÃ¶rzsbetÃ©tek hÃ¡nyadÃ¡nak visszafizetÃ©se.<ujsor/>
+A tÃ¡rsasÃ¡g egyidejÅ±leg felhÃ­vja a hitelezÅ‘it, hogy a hirdetmÃ©ny elsÅ‘ alkalommal tÃ¶rtÃ©nt kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkezett Ã©s ezen idÅ‘pontig esedÃ©kessÃ© nem vÃ¡lt kÃ¶vetelÃ©seik utÃ¡n biztosÃ­tÃ©kra tarthatnak igÃ©nyt.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109269834</mezo>
-<mezo id = "nev">&quot;Biztos Pontok&quot; Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">&quot;Biztos Pontok&quot; Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1162 Budapest</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság által vezetett cégjegyzékbe 1994. év február 1-jén bejegyzett „Biztos Pontok” Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság (cégjegyzékszám: [01 09 269834]; székhely: 1162 Budapest, Szlovák út 134.) 2008. október 22-én megtartott taggyûlése a társaság törzstõkéjének leszállításáról hozott határozatot.<ujsor/>
-Az eredeti törzstõke mértéke: 18 000 000 Ft (tizennyolcmillió forint).<ujsor/>
-A leszállított törzstõke mértéke: 3 600 000 Ft (hárommillió-hatszázezer forint).<ujsor/>
-A leszállítást követõen Bödök Katalin tag törzsbetéte: 2 880 000 Ft (80%-os mértékû), Bödök Sándor tag törzsbetéte 720 000 Ft (20%-os mértékû).<ujsor/>
-A leszállítás oka: tõkekivonás.<ujsor/>
-A leszállítás módja: a törzsbetétek hányadának visszafizetése.<ujsor/>
-A társaság egyidejûleg felhívja a hitelezõit, hogy a hirdetmény elsõ alkalommal történt közzétételét megelõzõen keletkezett és ezen idõpontig esedékessé nem vált követeléseik után biztosítékra tarthatnak igényt.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g Ã¡ltal vezetett cÃ©gjegyzÃ©kbe 1994. Ã©v februÃ¡r 1-jÃ©n bejegyzett â€Biztos Pontokâ€ Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (cÃ©gjegyzÃ©kszÃ¡m: [01 09 269834]; szÃ©khely: 1162 Budapest, SzlovÃ¡k Ãºt 134.) 2008. oktÃ³ber 22-Ã©n megtartott taggyÅ±lÃ©se a tÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©jÃ©nek leszÃ¡llÃ­tÃ¡sÃ¡rÃ³l hozott hatÃ¡rozatot.<ujsor/>
+Az eredeti tÃ¶rzstÅ‘ke mÃ©rtÃ©ke: 18 000 000 Ft (tizennyolcmilliÃ³ forint).<ujsor/>
+A leszÃ¡llÃ­tott tÃ¶rzstÅ‘ke mÃ©rtÃ©ke: 3 600 000 Ft (hÃ¡rommilliÃ³-hatszÃ¡zezer forint).<ujsor/>
+A leszÃ¡llÃ­tÃ¡st kÃ¶vetÅ‘en BÃ¶dÃ¶k Katalin tag tÃ¶rzsbetÃ©te: 2 880 000 Ft (80%-os mÃ©rtÃ©kÅ±), BÃ¶dÃ¶k SÃ¡ndor tag tÃ¶rzsbetÃ©te 720 000 Ft (20%-os mÃ©rtÃ©kÅ±).<ujsor/>
+A leszÃ¡llÃ­tÃ¡s oka: tÅ‘kekivonÃ¡s.<ujsor/>
+A leszÃ¡llÃ­tÃ¡s mÃ³dja: a tÃ¶rzsbetÃ©tek hÃ¡nyadÃ¡nak visszafizetÃ©se.<ujsor/>
+A tÃ¡rsasÃ¡g egyidejÅ±leg felhÃ­vja a hitelezÅ‘it, hogy a hirdetmÃ©ny elsÅ‘ alkalommal tÃ¶rtÃ©nt kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkezett Ã©s ezen idÅ‘pontig esedÃ©kessÃ© nem vÃ¡lt kÃ¶vetelÃ©seik utÃ¡n biztosÃ­tÃ©kra tarthatnak igÃ©nyt.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109269834</mezo>
-<mezo id = "nev">&quot;Biztos Pontok&quot; Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">&quot;Biztos Pontok&quot; Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1162 Budapest</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A „Biztos Pontok” Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság (Cg.: [01 09 269834]; székhely: 1162 Budapest, Szlovák út 134.) és az ARBOR Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság (Cg.: [01 09 715793]; székhely: 1162 Budapest, Legenda u. 9.) 2008. december 19-én és 2009. február 5-én megtarttott taggyûlése a két társaság átalakulásáról hozott határozatot, oly módon, hogy az ARBOR Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság beolvad a „Biztos Pontok” Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaságba.<ujsor/>
-Az ARBOR Kft. (beolvadó) záró vagyonmérleg-tervezetének fõbb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 4 660 Saját tõke 10 583<ujsor/>
-Immateriális javak ­ Jegyzett tõke 5 000<ujsor/>
-Tárgyi eszközök 4 660 Tõketartalék 0<ujsor/>
-Befektetett pénzügyi eszközök ­ Eredménytartalék 5 300<ujsor/>
-Forgóeszközök 8 428 Lekötött tartalék 283<ujsor/>
-Készletek ­ Mérleg szerinti eredmény 0<ujsor/>
-Követelések 6 000 Céltartalékok 0<ujsor/>
-Pénzeszközök 2 428 Kötelezettségek 2 522<ujsor/>
-Aktív idõbeli elhatárolások 17 Passzív idõbeli elhatárolások 0<ujsor/>
-ÖSSZESEN: 13 105 ÖSSZESEN: 13 105<ujsor/>
-A beolvadó gazdasági társaság záró vagyonmérleg-tervezetének mérlegfõösszege 13 105 000 Ft (tizenhárommillió-egyszázötezer forint).<ujsor/>
-A „Biztos Pontok” Kft. (befogadó) záró vagyonmérleg-tervezetének fõbb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 26 246 Saját tõke 46 580<ujsor/>
-Immateriális javak ­ Jegyzett tõke 18 000<ujsor/>
-Tárgyi eszközök 26 246 Tõketartalék 0<ujsor/>
-Befektetett pénzügyi eszközök ­ Eredménytartalék 26 080<ujsor/>
-Forgóeszközök 32 626 Lekötött tartalék 2 500<ujsor/>
-Készletek 19 981 Mérleg szerinti eredmény 0<ujsor/>
-Követelések 3 678 Céltartalékok 0<ujsor/>
-Pénzeszközök 8 967 Kötelezettségek 15 307<ujsor/>
-Aktív idõbeli elhatárolások 3 060 Passzív idõbeli elhatárolások 45<ujsor/>
-ÖSSZESEN: 61 932 ÖSSZESEN: 61 932<ujsor/>
-Az átvevõ gazdasági társaság záró vagyonmérleg-tervezetének mérlegfõösszege 61 932 000 Ft (hatvanegymillió-kilencszázharminckettõezer forint).<ujsor/>
-A létrejövõ gazdasági társaság formája: korlátolt felelõsségû társaság.<ujsor/>
-Cégneve: „Biztos Pontok” Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhelye: 1162 Budapest, Szlovák út 134.<ujsor/>
-Társasági szerzõdése megkötésének napja: 2009. február 5.<ujsor/>
-Fõ tevékenysége: 4752 Vasáru-, festék-, üveg-kiskereskedelem.<ujsor/>
-Vezetõ tisztségviselõje: Bödök Katalin (1162 Budapest, Legenda u. 9.) és Bödök Sándor (1162 Budapest, Legenda u. 9.).<ujsor/>
-A képviselet módja önálló.<ujsor/>
-A létrejövõ „Biztos Pontok” Kft. (jogutód) nyitó vagyonmérleg-tervezetének fõbb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 30 906 Saját tõke 57 163<ujsor/>
-Immateriális javak ­ Jegyzett tõke 3 600<ujsor/>
-Tárgyi eszközök 30 906 Tõketartalék 0<ujsor/>
-Befektetett pénzügyi eszközök ­ Eredménytartalék 50 780<ujsor/>
-Forgóeszközök 41 054 Lekötött tartalék 2 783<ujsor/>
-Készletek 19 981 Mérleg szerinti eredmény 0<ujsor/>
-Követelések 9 678 Céltartalékok 0<ujsor/>
-Pénzeszközök 11 395 Kötelezettségek 17 829<ujsor/>
-Aktív idõbeli elhatárolások 3 077 Passzív idõbeli elhatárolások 45<ujsor/>
-ÖSSZESEN: 75 037 ÖSSZESEN: 75 037<ujsor/>
-A létrejövõ gazdasági társaság záró vagyonmérleg-tervezetének mérlegfõösszege 75 037 000 Ft.<ujsor/>
-Az átalakulás napja: 2009. február 5.<ujsor/>
-Az átalakuló társaságok egyidejûleg felhívják a hitelezõiket, hogy a hirdetmény elsõ alkalommal történt közzétételét megelõzõen keletkezett és ezen idõpontig esedékessé nem vált követeléseik után biztosítékra tarthatnak igényt, követeléseiket a közlemény második közzétételét követõ 30 napon belül jelenthetik be.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">A â€Biztos Pontokâ€ Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [01 09 269834]; szÃ©khely: 1162 Budapest, SzlovÃ¡k Ãºt 134.) Ã©s az ARBOR Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [01 09 715793]; szÃ©khely: 1162 Budapest, Legenda u. 9.) 2008. december 19-Ã©n Ã©s 2009. februÃ¡r 5-Ã©n megtarttott taggyÅ±lÃ©se a kÃ©t tÃ¡rsasÃ¡g Ã¡talakulÃ¡sÃ¡rÃ³l hozott hatÃ¡rozatot, oly mÃ³don, hogy az ARBOR Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g beolvad a â€Biztos Pontokâ€ Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gba.<ujsor/>
+Az ARBOR Kft. (beolvadÃ³) zÃ¡rÃ³ vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 4 660 SajÃ¡t tÅ‘ke 10 583<ujsor/>
+ImmateriÃ¡lis javak Â­ Jegyzett tÅ‘ke 5 000<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 4 660 TÅ‘ketartalÃ©k 0<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k Â­ EredmÃ©nytartalÃ©k 5 300<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 8 428 LekÃ¶tÃ¶tt tartalÃ©k 283<ujsor/>
+KÃ©szletek Â­ MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+KÃ¶vetelÃ©sek 6 000 CÃ©ltartalÃ©kok 0<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 2 428 KÃ¶telezettsÃ©gek 2 522<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 17 PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 0<ujsor/>
+Ã–SSZESEN: 13 105 Ã–SSZESEN: 13 105<ujsor/>
+A beolvadÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g zÃ¡rÃ³ vagyonmÃ©rleg-tervezetÃ©nek mÃ©rlegfÅ‘Ã¶sszege 13 105 000 Ft (tizenhÃ¡rommilliÃ³-egyszÃ¡zÃ¶tezer forint).<ujsor/>
+A â€Biztos Pontokâ€ Kft. (befogadÃ³) zÃ¡rÃ³ vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 26 246 SajÃ¡t tÅ‘ke 46 580<ujsor/>
+ImmateriÃ¡lis javak Â­ Jegyzett tÅ‘ke 18 000<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 26 246 TÅ‘ketartalÃ©k 0<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k Â­ EredmÃ©nytartalÃ©k 26 080<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 32 626 LekÃ¶tÃ¶tt tartalÃ©k 2 500<ujsor/>
+KÃ©szletek 19 981 MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+KÃ¶vetelÃ©sek 3 678 CÃ©ltartalÃ©kok 0<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 8 967 KÃ¶telezettsÃ©gek 15 307<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 3 060 PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 45<ujsor/>
+Ã–SSZESEN: 61 932 Ã–SSZESEN: 61 932<ujsor/>
+Az Ã¡tvevÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g zÃ¡rÃ³ vagyonmÃ©rleg-tervezetÃ©nek mÃ©rlegfÅ‘Ã¶sszege 61 932 000 Ft (hatvanegymilliÃ³-kilencszÃ¡zharminckettÅ‘ezer forint).<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g formÃ¡ja: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gneve: â€Biztos Pontokâ€ Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 1162 Budapest, SzlovÃ¡k Ãºt 134.<ujsor/>
+TÃ¡rsasÃ¡gi szerzÅ‘dÃ©se megkÃ¶tÃ©sÃ©nek napja: 2009. februÃ¡r 5.<ujsor/>
+FÅ‘ tevÃ©kenysÃ©ge: 4752 VasÃ¡ru-, festÃ©k-, Ã¼veg-kiskereskedelem.<ujsor/>
+VezetÅ‘ tisztsÃ©gviselÅ‘je: BÃ¶dÃ¶k Katalin (1162 Budapest, Legenda u. 9.) Ã©s BÃ¶dÃ¶k SÃ¡ndor (1162 Budapest, Legenda u. 9.).<ujsor/>
+A kÃ©pviselet mÃ³dja Ã¶nÃ¡llÃ³.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ â€Biztos Pontokâ€ Kft. (jogutÃ³d) nyitÃ³ vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 30 906 SajÃ¡t tÅ‘ke 57 163<ujsor/>
+ImmateriÃ¡lis javak Â­ Jegyzett tÅ‘ke 3 600<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 30 906 TÅ‘ketartalÃ©k 0<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k Â­ EredmÃ©nytartalÃ©k 50 780<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 41 054 LekÃ¶tÃ¶tt tartalÃ©k 2 783<ujsor/>
+KÃ©szletek 19 981 MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+KÃ¶vetelÃ©sek 9 678 CÃ©ltartalÃ©kok 0<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 11 395 KÃ¶telezettsÃ©gek 17 829<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 3 077 PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 45<ujsor/>
+Ã–SSZESEN: 75 037 Ã–SSZESEN: 75 037<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g zÃ¡rÃ³ vagyonmÃ©rleg-tervezetÃ©nek mÃ©rlegfÅ‘Ã¶sszege 75 037 000 Ft.<ujsor/>
+Az Ã¡talakulÃ¡s napja: 2009. februÃ¡r 5.<ujsor/>
+Az Ã¡talakulÃ³ tÃ¡rsasÃ¡gok egyidejÅ±leg felhÃ­vjÃ¡k a hitelezÅ‘iket, hogy a hirdetmÃ©ny elsÅ‘ alkalommal tÃ¶rtÃ©nt kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkezett Ã©s ezen idÅ‘pontig esedÃ©kessÃ© nem vÃ¡lt kÃ¶vetelÃ©seik utÃ¡n biztosÃ­tÃ©kra tarthatnak igÃ©nyt, kÃ¶vetelÃ©seiket a kÃ¶zlemÃ©ny mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ 30 napon belÃ¼l jelenthetik be.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109269834</mezo>
-<mezo id = "nev">&quot;Biztos Pontok&quot; Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">&quot;Biztos Pontok&quot; Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1162 Budapest</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A „Biztos Pontok” Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság (Cg.: [01 09 269834]; székhely: 1162 Budapest, Szlovák út 134.) és az ARBOR Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság (Cg.: [01 09 715793]; székhely: 1162 Budapest, Legenda u. 9.) 2008. december 19-én és 2009. február 5-én megtartott taggyûlése a két társaság átalakulásáról hozott határozatot, oly módon, hogy az ARBOR Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság<ujsor/>
+<mezo id = "szoveg">A â€Biztos Pontokâ€ Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [01 09 269834]; szÃ©khely: 1162 Budapest, SzlovÃ¡k Ãºt 134.) Ã©s az ARBOR Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [01 09 715793]; szÃ©khely: 1162 Budapest, Legenda u. 9.) 2008. december 19-Ã©n Ã©s 2009. februÃ¡r 5-Ã©n megtartott taggyÅ±lÃ©se a kÃ©t tÃ¡rsasÃ¡g Ã¡talakulÃ¡sÃ¡rÃ³l hozott hatÃ¡rozatot, oly mÃ³don, hogy az ARBOR Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g<ujsor/>
 beolvad<ujsor/>
-a „Biztos Pontok” Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaságba.<ujsor/>
-Az ARBOR Kft. (beolvadó) záró vagyonmérleg-tervezetének fõbb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 4 660 Saját tõke 10 583<ujsor/>
-Immateriális javak ­ Jegyzett tõke 5 000<ujsor/>
-Tárgyi eszközök 4 660 Tõketartalék 0<ujsor/>
-Befektetett pénzügyi eszközök ­ Eredménytartalék 5 300<ujsor/>
-Forgóeszközök 8 428 Lekötött tartalék 283<ujsor/>
-Készletek ­ Mérleg szerinti eredmény 0<ujsor/>
-Követelések 6 000 Céltartalékok 0<ujsor/>
-Pénzeszközök 2 428 Kötelezettségek 2 522<ujsor/>
-Aktív idõbeli elhatárolások 17 Passzív idõbeli elhatárolások 0<ujsor/>
-ÖSSZESEN: 13 105 ÖSSZESEN: 13 105<ujsor/>
-A beolvadó gazdasági társaság záró vagyonmérleg-tervezetének mérlegfõösszege 13 105 000 Ft (tizenhárommillió-egyszázötezer forint).<ujsor/>
-A „Biztos Pontok” Kft. (befogadó) záró vagyonmérleg-tervezetének fõbb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 26 246 Saját tõke 46 580<ujsor/>
-Immateriális javak ­ Jegyzett tõke 18 000<ujsor/>
-Tárgyi eszközök 26 246 Tõketartalék 0<ujsor/>
-Befektetett pénzügyi eszközök ­ Eredménytartalék 26 080<ujsor/>
-Forgóeszközök 32 626 Lekötött tartalék 2 500<ujsor/>
-Készletek 19 981 Mérleg szerinti eredmény 0<ujsor/>
-Követelések 3 678 Céltartalékok 0<ujsor/>
-Pénzeszközök 8 967 Kötelezettségek 15 307<ujsor/>
-Aktív idõbeli elhatárolások 3 060 Passzív idõbeli elhatárolások 45<ujsor/>
-ÖSSZESEN: 61 932 ÖSSZESEN: 61 932<ujsor/>
-Az átvevõ gazdasági társaság záró vagyonmérleg-tervezetének mérlegfõösszege 61 932 000 Ft (hatvanegymillió-kilencszázharminckettõezer forint).<ujsor/>
-A létrejövõ gazdasági társaság formája: korlátolt felelõsségû társaság.<ujsor/>
-Cégneve: „Biztos Pontok” Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhelye: 1162 Budapest, Szlovák út 134.<ujsor/>
-Társasági szerzõdése megkötésének napja: 2009. február 5.<ujsor/>
-Fõ tevékenysége: 4752 Vasáru-, festék-, üveg-kiskereskedelem.<ujsor/>
-Vezetõ tisztségviselõje: Bödök Katalin (1162 Budapest, Legenda u. 9.) és Bödök Sándor (1162 Budapest, Legenda u. 9.).<ujsor/>
-A képviselet módja önálló.<ujsor/>
-A létrejövõ „Biztos Pontok” Kft. (jogutód) nyitó vagyonmérleg-tervezetének fõbb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 30 906 Saját tõke 57 163<ujsor/>
-Immateriális javak ­ Jegyzett tõke 3 600<ujsor/>
-Tárgyi eszközök 30 906 Tõketartalék 0<ujsor/>
-Befektetett pénzügyi eszközök ­ Eredménytartalék 50 780<ujsor/>
-Forgóeszközök 41 054 Lekötött tartalék 2 783<ujsor/>
-Készletek 19 981 Mérleg szerinti eredmény 0<ujsor/>
-Követelések 9 678 Céltartalékok 0<ujsor/>
-Pénzeszközök 11 395 Kötelezettségek 17 829<ujsor/>
-Aktív idõbeli elhatárolások 3 077 Passzív idõbeli elhatárolások 45<ujsor/>
-ÖSSZESEN: 75 037 ÖSSZESEN: 75 037<ujsor/>
-A létrejövõ gazdasági társaság záró vagyonmérleg-tervezetének mérlegfõösszege 75 037 000 Ft.<ujsor/>
-Az átalakulás napja: 2009. február 5.<ujsor/>
-Az átalakuló társaságok egyidejûleg felhívják a hitelezõiket, hogy a hirdetmény elsõ alkalommal történt közzétételét megelõzõen keletkezett és ezen idõpontig esedékessé nem vált követeléseik után biztosítékra tarthatnak igényt, követeléseiket a közlemény második közzétételét követõ 30 napon belül jelenthetik be.<ujsor/>
-(Második közzététel.)<ujsor/>
+a â€Biztos Pontokâ€ Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gba.<ujsor/>
+Az ARBOR Kft. (beolvadÃ³) zÃ¡rÃ³ vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 4 660 SajÃ¡t tÅ‘ke 10 583<ujsor/>
+ImmateriÃ¡lis javak Â­ Jegyzett tÅ‘ke 5 000<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 4 660 TÅ‘ketartalÃ©k 0<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k Â­ EredmÃ©nytartalÃ©k 5 300<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 8 428 LekÃ¶tÃ¶tt tartalÃ©k 283<ujsor/>
+KÃ©szletek Â­ MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+KÃ¶vetelÃ©sek 6 000 CÃ©ltartalÃ©kok 0<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 2 428 KÃ¶telezettsÃ©gek 2 522<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 17 PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 0<ujsor/>
+Ã–SSZESEN: 13 105 Ã–SSZESEN: 13 105<ujsor/>
+A beolvadÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g zÃ¡rÃ³ vagyonmÃ©rleg-tervezetÃ©nek mÃ©rlegfÅ‘Ã¶sszege 13 105 000 Ft (tizenhÃ¡rommilliÃ³-egyszÃ¡zÃ¶tezer forint).<ujsor/>
+A â€Biztos Pontokâ€ Kft. (befogadÃ³) zÃ¡rÃ³ vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 26 246 SajÃ¡t tÅ‘ke 46 580<ujsor/>
+ImmateriÃ¡lis javak Â­ Jegyzett tÅ‘ke 18 000<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 26 246 TÅ‘ketartalÃ©k 0<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k Â­ EredmÃ©nytartalÃ©k 26 080<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 32 626 LekÃ¶tÃ¶tt tartalÃ©k 2 500<ujsor/>
+KÃ©szletek 19 981 MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+KÃ¶vetelÃ©sek 3 678 CÃ©ltartalÃ©kok 0<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 8 967 KÃ¶telezettsÃ©gek 15 307<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 3 060 PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 45<ujsor/>
+Ã–SSZESEN: 61 932 Ã–SSZESEN: 61 932<ujsor/>
+Az Ã¡tvevÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g zÃ¡rÃ³ vagyonmÃ©rleg-tervezetÃ©nek mÃ©rlegfÅ‘Ã¶sszege 61 932 000 Ft (hatvanegymilliÃ³-kilencszÃ¡zharminckettÅ‘ezer forint).<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g formÃ¡ja: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gneve: â€Biztos Pontokâ€ Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 1162 Budapest, SzlovÃ¡k Ãºt 134.<ujsor/>
+TÃ¡rsasÃ¡gi szerzÅ‘dÃ©se megkÃ¶tÃ©sÃ©nek napja: 2009. februÃ¡r 5.<ujsor/>
+FÅ‘ tevÃ©kenysÃ©ge: 4752 VasÃ¡ru-, festÃ©k-, Ã¼veg-kiskereskedelem.<ujsor/>
+VezetÅ‘ tisztsÃ©gviselÅ‘je: BÃ¶dÃ¶k Katalin (1162 Budapest, Legenda u. 9.) Ã©s BÃ¶dÃ¶k SÃ¡ndor (1162 Budapest, Legenda u. 9.).<ujsor/>
+A kÃ©pviselet mÃ³dja Ã¶nÃ¡llÃ³.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ â€Biztos Pontokâ€ Kft. (jogutÃ³d) nyitÃ³ vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 30 906 SajÃ¡t tÅ‘ke 57 163<ujsor/>
+ImmateriÃ¡lis javak Â­ Jegyzett tÅ‘ke 3 600<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 30 906 TÅ‘ketartalÃ©k 0<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k Â­ EredmÃ©nytartalÃ©k 50 780<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 41 054 LekÃ¶tÃ¶tt tartalÃ©k 2 783<ujsor/>
+KÃ©szletek 19 981 MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+KÃ¶vetelÃ©sek 9 678 CÃ©ltartalÃ©kok 0<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 11 395 KÃ¶telezettsÃ©gek 17 829<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 3 077 PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 45<ujsor/>
+Ã–SSZESEN: 75 037 Ã–SSZESEN: 75 037<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g zÃ¡rÃ³ vagyonmÃ©rleg-tervezetÃ©nek mÃ©rlegfÅ‘Ã¶sszege 75 037 000 Ft.<ujsor/>
+Az Ã¡talakulÃ¡s napja: 2009. februÃ¡r 5.<ujsor/>
+Az Ã¡talakulÃ³ tÃ¡rsasÃ¡gok egyidejÅ±leg felhÃ­vjÃ¡k a hitelezÅ‘iket, hogy a hirdetmÃ©ny elsÅ‘ alkalommal tÃ¶rtÃ©nt kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkezett Ã©s ezen idÅ‘pontig esedÃ©kessÃ© nem vÃ¡lt kÃ¶vetelÃ©seik utÃ¡n biztosÃ­tÃ©kra tarthatnak igÃ©nyt, kÃ¶vetelÃ©seiket a kÃ¶zlemÃ©ny mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ 30 napon belÃ¼l jelenthetik be.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109269834</mezo>
-<mezo id = "nev">&quot;Biztos Pontok&quot; Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">&quot;Biztos Pontok&quot; Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1162 Budapest</mezo>
 </alrovat>
 </rovat>

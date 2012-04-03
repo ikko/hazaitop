@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">704849</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">1061 Budapest, Andrássy út 12. </mezo>
+<mezo id = "cim">1061 Budapest, AndrÃ¡ssy Ãºt 12. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">12817009242</mezo>
 </alrovat>
@@ -13,13 +13,13 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20020404</mezo>
-<mezo id = "nev">euroscript MAGYARORSZÁG Fordító Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">euroscript MAGYARORSZÃG FordÃ­tÃ³ SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">20020404</mezo>
-<mezo id = "nev">euroscript MAGYARORSZÁG Kft.</mezo>
+<mezo id = "nev">euroscript MAGYARORSZÃG Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "4">
@@ -33,7 +33,7 @@
 <mezo id = "hattol">20040115</mezo>
 <mezo id = "irsz">1061</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Andrássy út 12.</mezo>
+<mezo id = "teru">AndrÃ¡ssy Ãºt 12.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "8">
@@ -110,9 +110,9 @@
 <rovat id = "13">
 <alrovat id = "4">
 <mezo id = "hattol">20100506</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Dr. Muth János</mezo>
-<mezo id = "panev">Lázár Margit</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Dr. Muth JÃ¡nos</mezo>
+<mezo id = "panev">LÃ¡zÃ¡r Margit</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20070530</mezo>
 <mezo id = "valtk">20100506</mezo>
@@ -124,13 +124,13 @@
 <alrovat id = "5">
 <mezo id = "hattol">20110523</mezo>
 <mezo id = "cgjsz">0109078412</mezo>
-<mezo id = "nev">MAZARS Könyvszakértõ és Tanácsadói Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">MAZARS KÃ¶nyvszakÃ©rtÅ‘ Ã©s TanÃ¡csadÃ³i KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1074</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Rákóczi út 70-72.</mezo>
-<mezo id = "pnev">Bíróné Zeller Judit</mezo>
-<mezo id = "panev">Vacula Irén</mezo>
+<mezo id = "teru">RÃ¡kÃ³czi Ãºt 70-72.</mezo>
+<mezo id = "pnev">BÃ­rÃ³nÃ© Zeller Judit</mezo>
+<mezo id = "panev">Vacula IrÃ©n</mezo>
 <mezo id = "pirsz">1047</mezo>
 <mezo id = "phely">Budapest</mezo>
 <mezo id = "pteru">Liszt Ferenc utca 6/b.</mezo>
@@ -165,23 +165,23 @@
 <mezo id = "pkorsz">LU</mezo>
 <mezo id = "pkirsz">6996</mezo>
 <mezo id = "pkhely">Rameldange, Rue du Scheid 27.</mezo>
-<mezo id = "pmnev">Riskóné Dr. Géczy Edit</mezo>
-<mezo id = "pmanev">Novák Julianna</mezo>
+<mezo id = "pmnev">RiskÃ³nÃ© Dr. GÃ©czy Edit</mezo>
+<mezo id = "pmanev">NovÃ¡k Julianna</mezo>
 <mezo id = "pmirsz">1024</mezo>
 <mezo id = "pmhely">Budapest, Keleti K. u. 20/b.</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20070801</mezo>
-<mezo id = "nev">euroscript Luxembourg Gesellschaft mit beschränkter Haftung</mezo>
+<mezo id = "nev">euroscript Luxembourg Gesellschaft mit beschrÃ¤nkter Haftung</mezo>
 <mezo id = "orsz">LU</mezo>
 <mezo id = "irsz">8077</mezo>
 <mezo id = "hely">Bertrange</mezo>
 <mezo id = "teru">rue de Luxembourg</mezo>
 <mezo id = "hsz">55.</mezo>
-<mezo id = "pmnev">Riskóné Dr. Géczy Edit</mezo>
-<mezo id = "pmanev">Novák Julianna</mezo>
+<mezo id = "pmnev">RiskÃ³nÃ© Dr. GÃ©czy Edit</mezo>
+<mezo id = "pmanev">NovÃ¡k Julianna</mezo>
 <mezo id = "pmirsz">1024</mezo>
-<mezo id = "pmhely">Budapest, Keleti Károly u. 20/b.</mezo>
+<mezo id = "pmhely">Budapest, Keleti KÃ¡roly u. 20/b.</mezo>
 <mezo id = "tagsk">20070530</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">0</mezo>
@@ -197,29 +197,29 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2003. 01. 17-én hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-A 13/001 rovat téves törlési hatálya: 2003. 12. 31. A 13/001 rovat helyes törlési hatálya 2002. 12. 31.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2003. 01. 17-Ã©n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+A 13/001 rovat tÃ©ves tÃ¶rlÃ©si hatÃ¡lya: 2003. 12. 31. A 13/001 rovat helyes tÃ¶rlÃ©si hatÃ¡lya 2002. 12. 31.<ujsor/>
 Bejegyezve: 2003. 03. 17.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109704849</mezo>
-<mezo id = "nev">euroscript MAGYARORSZÁG Fordító Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1055 Budapest, Stollár B. utca 3/a. 3. em. 3.</mezo>
+<mezo id = "nev">euroscript MAGYARORSZÃG FordÃ­tÃ³ SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1055 Budapest, StollÃ¡r B. utca 3/a. 3. em. 3.</mezo>
 <mezo id = "adosz">12817009241</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2008. 12. 19-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-09. Egyéb információ-technológiai szolgáltatás.<ujsor/>
- A változás idõpontja (törlés): 2008. 11. 19.<ujsor/>
- Üzletvezetés.<ujsor/>
- A változás idõpontja (törlés): 2008. 11. 19.<ujsor/>
- Törölve: 2008. 11. 19.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2008. 12. 19-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+09. EgyÃ©b informÃ¡ciÃ³-technolÃ³giai szolgÃ¡ltatÃ¡s.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2008. 11. 19.<ujsor/>
+ ÃœzletvezetÃ©s.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2008. 11. 19.<ujsor/>
+ TÃ¶rÃ¶lve: 2008. 11. 19.<ujsor/>
 2009. 03. 02.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109704849</mezo>
-<mezo id = "nev">euroscript MAGYARORSZÁG Fordító Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1061 Budapest, Andrássy út 12.</mezo>
+<mezo id = "nev">euroscript MAGYARORSZÃG FordÃ­tÃ³ SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1061 Budapest, AndrÃ¡ssy Ãºt 12.</mezo>
 <mezo id = "adosz">12817009242</mezo>
 </alrovat>
 </rovat>

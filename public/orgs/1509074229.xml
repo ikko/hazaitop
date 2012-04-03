@@ -7,7 +7,7 @@
 <mezo id = "nevalrovat">1</mezo>
 <mezo id = "regi_szh">0109885310</mezo>
 <mezo id = "allapot">2</mezo>
-<mezo id = "cim">4400 Nyíregyháza, Anyag utca 10. </mezo>
+<mezo id = "cim">4400 NyÃ­regyhÃ¡za, Anyag utca 10. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">12763876215</mezo>
 </alrovat>
@@ -15,20 +15,20 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20020111</mezo>
-<mezo id = "nev">&quot;AUTÓ-NAGY NYÍREGYHÁZA&quot; Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">&quot;AUTÃ“-NAGY NYÃREGYHÃZA&quot; Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">20020111</mezo>
-<mezo id = "nev">&quot;AUTÓ-NAGY NYÍREGYHÁZA&quot; Kft.</mezo>
+<mezo id = "nev">&quot;AUTÃ“-NAGY NYÃREGYHÃZA&quot; Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
 <alrovat id = "3">
 <mezo id = "hattol">20090310</mezo>
 <mezo id = "irsz">4400</mezo>
-<mezo id = "hely">Nyíregyháza</mezo>
+<mezo id = "hely">NyÃ­regyhÃ¡za</mezo>
 <mezo id = "teru">Anyag utca 10.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">20090310</mezo>
@@ -425,7 +425,7 @@
 </alrovat>
 <alrovat id = "42">
 <mezo id = "hattol">20080422</mezo>
-<mezo id = "sznev">(pénzügyi szolgáltatás közvetítése, pénzfeldolgozási tevékenység)</mezo>
+<mezo id = "sznev">(pÃ©nzÃ¼gyi szolgÃ¡ltatÃ¡s kÃ¶zvetÃ­tÃ©se, pÃ©nzfeldolgozÃ¡si tevÃ©kenysÃ©g)</mezo>
 <mezo id = "hengk1">0</mezo>
 <mezo id = "hengv1">0</mezo>
 <mezo id = "hengk2">0</mezo>
@@ -444,7 +444,7 @@
 </alrovat>
 <alrovat id = "43">
 <mezo id = "hattol">20080422</mezo>
-<mezo id = "sznev">(pénzügyi szolgáltatás közvetítése, pénzfeldolgozási tevékenység)</mezo>
+<mezo id = "sznev">(pÃ©nzÃ¼gyi szolgÃ¡ltatÃ¡s kÃ¶zvetÃ­tÃ©se, pÃ©nzfeldolgozÃ¡si tevÃ©kenysÃ©g)</mezo>
 <mezo id = "hengk1">0</mezo>
 <mezo id = "hengv1">0</mezo>
 <mezo id = "hengk2">0</mezo>
@@ -637,10 +637,10 @@
 <rovat id = "13">
 <alrovat id = "5">
 <mezo id = "hattol">20081201</mezo>
-<mezo id = "pnev">Nagy István Béla</mezo>
-<mezo id = "panev">Botos Rozália</mezo>
+<mezo id = "pnev">Nagy IstvÃ¡n BÃ©la</mezo>
+<mezo id = "panev">Botos RozÃ¡lia</mezo>
 <mezo id = "pirsz">4400</mezo>
-<mezo id = "phely">Nyíregyháza, Debreceni utca 201.</mezo>
+<mezo id = "phely">NyÃ­regyhÃ¡za, Debreceni utca 201.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">d</mezo>
 <mezo id = "jogvk">20081201</mezo>
@@ -652,7 +652,7 @@
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20090213</mezo>
-<mezo id = "pnev">Fried Péter</mezo>
+<mezo id = "pnev">Fried PÃ©ter</mezo>
 <mezo id = "panev">Lefkovits Anna</mezo>
 <mezo id = "pirsz">2089</mezo>
 <mezo id = "phely">Telki, Berkenye utca 38.</mezo>
@@ -670,16 +670,16 @@
 <alrovat id = "2">
 <mezo id = "hattol">20081201</mezo>
 <mezo id = "cgjsz">1509063446</mezo>
-<mezo id = "nev">BADEN Könyvvizsgáló, Könyvelõ és Szolgáltató Kft</mezo>
+<mezo id = "nev">BADEN KÃ¶nyvvizsgÃ¡lÃ³, KÃ¶nyvelÅ‘ Ã©s SzolgÃ¡ltatÃ³ Kft</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">4481</mezo>
-<mezo id = "hely">Nyíregyháza</mezo>
+<mezo id = "hely">NyÃ­regyhÃ¡za</mezo>
 <mezo id = "teru">Lepke</mezo>
 <mezo id = "hsz">7.</mezo>
-<mezo id = "pnev">Hárságyi Klára</mezo>
-<mezo id = "panev">Edenhoffer Klára</mezo>
+<mezo id = "pnev">HÃ¡rsÃ¡gyi KlÃ¡ra</mezo>
+<mezo id = "panev">Edenhoffer KlÃ¡ra</mezo>
 <mezo id = "pirsz">4481</mezo>
-<mezo id = "phely">Nyíregyháza (Sóstóhegy), Lepke utca 7.</mezo>
+<mezo id = "phely">NyÃ­regyhÃ¡za (SÃ³stÃ³hegy), Lepke utca 7.</mezo>
 <mezo id = "jogvk">20081201</mezo>
 <mezo id = "jogvv">20131201</mezo>
 <mezo id = "valtk">20081201</mezo>
@@ -692,7 +692,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20040302</mezo>
 <mezo id = "cgjsz">1506084391</mezo>
-<mezo id = "nev">&quot;AUTÓ-KERT&quot; Kereskedelmi és Szolgáltató Bt.</mezo>
+<mezo id = "nev">&quot;AUTÃ“-KERT&quot; Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ Bt.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "20">
@@ -733,10 +733,10 @@
 <rovat id = "0109">
 <alrovat id = "4">
 <mezo id = "hattol">20070618</mezo>
-<mezo id = "pnev">Nagy István Béláné</mezo>
-<mezo id = "panev">Gajdos Éva</mezo>
+<mezo id = "pnev">Nagy IstvÃ¡n BÃ©lÃ¡nÃ©</mezo>
+<mezo id = "panev">Gajdos Ã‰va</mezo>
 <mezo id = "pirsz">4400</mezo>
-<mezo id = "phely">Nyíregyháza, Kossuth Lajos utca 55.</mezo>
+<mezo id = "phely">NyÃ­regyhÃ¡za, Kossuth Lajos utca 55.</mezo>
 <mezo id = "tagsk">20011218</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20070618</mezo>
@@ -746,10 +746,10 @@
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20090310</mezo>
-<mezo id = "pnev">Nagy István Béla</mezo>
-<mezo id = "panev">Botos Rozália</mezo>
+<mezo id = "pnev">Nagy IstvÃ¡n BÃ©la</mezo>
+<mezo id = "panev">Botos RozÃ¡lia</mezo>
 <mezo id = "pirsz">1065</mezo>
-<mezo id = "phely">Budapest, Bajcsy-Zsilinszky út 31. I. em. 6.</mezo>
+<mezo id = "phely">Budapest, Bajcsy-Zsilinszky Ãºt 31. I. em. 6.</mezo>
 <mezo id = "tagsk">20011218</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20090310</mezo>
@@ -767,126 +767,126 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Szabolcs-Szatmár-Bereg Megyei Bíróság<ujsor/>
-13.Fpk.15-09-001086/16. sz. végzése<ujsor/>
-felszámolás megindításának közzétételérõl<ujsor/>
-A bíróság elrendeli annak a Cégközlönyben való közzétételét, hogy a(z)<ujsor/>
-2010. szeptember 21. napján jogerõre emelkedett végzésével a(z)<ujsor/>
-&quot;AUTÓ-NAGY NYÍREGYHÁZA&quot; Kereskedelmi és Szolgáltató Korlátolt<ujsor/>
-Felelõsségû Társaság (4400 Nyíregyháza, Anyag utca 10.;<ujsor/>
-cégjegyzékszáma: 15 09 074229; adószáma: 12763876-2-15) adós<ujsor/>
-fizetésképtelenségét megállapította és a felszámolását elrendelte.<ujsor/>
-Elõzõ székhelyei(i):<ujsor/>
-4400 Nyíregyháza, Debreceni u 201. 1065 Budapest, Bajcsy-Zsilinszky út 31.<ujsor/>
-Jogelõd(ök): &quot;AUTÓ-KERT&quot; Kereskedelmi és Szolgáltató Bt.<ujsor/>
-A bíróság által kijelölt felszámoló:<ujsor/>
-KERSZI Kereskedelmi és Pénzügyi Szervezési-Tanácsadó Zártkörûen Mûködõ<ujsor/>
-Részvénytársaság, 1143 Budapest, Besnyõi u. 13. I. em. cégjegyzékszáma:<ujsor/>
-01 10 041640. (A helyi kirendeltség címe: 4400 Nyíregyháza, Jókai tér 3.)<ujsor/>
-A felszámolóbiztos(ok):<ujsor/>
-Eszenyi Attila (an: Horváth Julianna) 1581 Budapest Pf.: 108.<ujsor/>
-A felszámolási eljárás megindítására irányuló kérelem benyújtásának<ujsor/>
-idõpontja: 2009. augusztus 12.<ujsor/>
-A felszámolás kezdõ idõpontja e végzés Cégközlönyben való közzétételének<ujsor/>
+<mezo id = "szoveg">A Szabolcs-SzatmÃ¡r-Bereg Megyei BÃ­rÃ³sÃ¡g<ujsor/>
+13.Fpk.15-09-001086/16. sz. vÃ©gzÃ©se<ujsor/>
+felszÃ¡molÃ¡s megindÃ­tÃ¡sÃ¡nak kÃ¶zzÃ©tÃ©telÃ©rÅ‘l<ujsor/>
+A bÃ­rÃ³sÃ¡g elrendeli annak a CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©t, hogy a(z)<ujsor/>
+2010. szeptember 21. napjÃ¡n jogerÅ‘re emelkedett vÃ©gzÃ©sÃ©vel a(z)<ujsor/>
+&quot;AUTÃ“-NAGY NYÃREGYHÃZA&quot; Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt<ujsor/>
+FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (4400 NyÃ­regyhÃ¡za, Anyag utca 10.;<ujsor/>
+cÃ©gjegyzÃ©kszÃ¡ma: 15 09 074229; adÃ³szÃ¡ma: 12763876-2-15) adÃ³s<ujsor/>
+fizetÃ©skÃ©ptelensÃ©gÃ©t megÃ¡llapÃ­totta Ã©s a felszÃ¡molÃ¡sÃ¡t elrendelte.<ujsor/>
+ElÅ‘zÅ‘ szÃ©khelyei(i):<ujsor/>
+4400 NyÃ­regyhÃ¡za, Debreceni u 201. 1065 Budapest, Bajcsy-Zsilinszky Ãºt 31.<ujsor/>
+JogelÅ‘d(Ã¶k): &quot;AUTÃ“-KERT&quot; Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ Bt.<ujsor/>
+A bÃ­rÃ³sÃ¡g Ã¡ltal kijelÃ¶lt felszÃ¡molÃ³:<ujsor/>
+KERSZI Kereskedelmi Ã©s PÃ©nzÃ¼gyi SzervezÃ©si-TanÃ¡csadÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘<ujsor/>
+RÃ©szvÃ©nytÃ¡rsasÃ¡g, 1143 Budapest, BesnyÅ‘i u. 13. I. em. cÃ©gjegyzÃ©kszÃ¡ma:<ujsor/>
+01 10 041640. (A helyi kirendeltsÃ©g cÃ­me: 4400 NyÃ­regyhÃ¡za, JÃ³kai tÃ©r 3.)<ujsor/>
+A felszÃ¡molÃ³biztos(ok):<ujsor/>
+Eszenyi Attila (an: HorvÃ¡th Julianna) 1581 Budapest Pf.: 108.<ujsor/>
+A felszÃ¡molÃ¡si eljÃ¡rÃ¡s megindÃ­tÃ¡sÃ¡ra irÃ¡nyulÃ³ kÃ©relem benyÃºjtÃ¡sÃ¡nak<ujsor/>
+idÅ‘pontja: 2009. augusztus 12.<ujsor/>
+A felszÃ¡molÃ¡s kezdÅ‘ idÅ‘pontja e vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©nek<ujsor/>
 napja.<ujsor/>
-A Szabolcs-Szatmár-Bereg Megyei Bíróság Gazdasági Hivatalánál kezelt<ujsor/>
-elkülönített számla száma: 10044001-01483123-24000004.<ujsor/>
-Mindazok, akik az adóssal szemben fennálló követeléseiket a felszámolás<ujsor/>
-során hitelezõként érvényesíteni kívánják, ismert követeléseiket e<ujsor/>
-végzés közzétételétõl számított 40 napon belül jelentsék be a<ujsor/>
-felszámolónak.<ujsor/>
-A felszámoló - a módosított 1991. évi XLIX. tv. 57. § (1) bekezdés a) és<ujsor/>
-c) pontjában meghatározott követelések kivételével - csak azt a<ujsor/>
-bejelentést veszi nyilvántartásba, amely után az igénybejelentõ a<ujsor/>
-követelés 1 %-át, de legalább 1.000 Ft-ot, legfeljebb 100.000 Ft-ot az e<ujsor/>
-végzésben megjelölt számlára - a bírósági ügyszámra (végzés számra)<ujsor/>
-hivatkozással -  40 napon belül befizetett és ezt a felszámoló<ujsor/>
-részére igazolta.<ujsor/>
-Nyíregyháza, 2010. október 11.<ujsor/>
-A közzététel idõpontja: 2010. október 19.<ujsor/>
+A Szabolcs-SzatmÃ¡r-Bereg Megyei BÃ­rÃ³sÃ¡g GazdasÃ¡gi HivatalÃ¡nÃ¡l kezelt<ujsor/>
+elkÃ¼lÃ¶nÃ­tett szÃ¡mla szÃ¡ma: 10044001-01483123-24000004.<ujsor/>
+Mindazok, akik az adÃ³ssal szemben fennÃ¡llÃ³ kÃ¶vetelÃ©seiket a felszÃ¡molÃ¡s<ujsor/>
+sorÃ¡n hitelezÅ‘kÃ©nt Ã©rvÃ©nyesÃ­teni kÃ­vÃ¡njÃ¡k, ismert kÃ¶vetelÃ©seiket e<ujsor/>
+vÃ©gzÃ©s kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott 40 napon belÃ¼l jelentsÃ©k be a<ujsor/>
+felszÃ¡molÃ³nak.<ujsor/>
+A felszÃ¡molÃ³ - a mÃ³dosÃ­tott 1991. Ã©vi XLIX. tv. 57. Â§ (1) bekezdÃ©s a) Ã©s<ujsor/>
+c) pontjÃ¡ban meghatÃ¡rozott kÃ¶vetelÃ©sek kivÃ©telÃ©vel - csak azt a<ujsor/>
+bejelentÃ©st veszi nyilvÃ¡ntartÃ¡sba, amely utÃ¡n az igÃ©nybejelentÅ‘ a<ujsor/>
+kÃ¶vetelÃ©s 1 %-Ã¡t, de legalÃ¡bb 1.000 Ft-ot, legfeljebb 100.000 Ft-ot az e<ujsor/>
+vÃ©gzÃ©sben megjelÃ¶lt szÃ¡mlÃ¡ra - a bÃ­rÃ³sÃ¡gi Ã¼gyszÃ¡mra (vÃ©gzÃ©s szÃ¡mra)<ujsor/>
+hivatkozÃ¡ssal -  40 napon belÃ¼l befizetett Ã©s ezt a felszÃ¡molÃ³<ujsor/>
+rÃ©szÃ©re igazolta.<ujsor/>
+NyÃ­regyhÃ¡za, 2010. oktÃ³ber 11.<ujsor/>
+A kÃ¶zzÃ©tÃ©tel idÅ‘pontja: 2010. oktÃ³ber 19.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1509074229</mezo>
-<mezo id = "nev">&quot;AUTÓ-NAGY NYÍREGYHÁZA&quot; Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">&quot;AUTÃ“-NAGY NYÃREGYHÃZA&quot; Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "adosz">12763876215</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A KERSZI Kereskedelmi és Pénzügyi Szervezési Tanácsadó Zrt. (Cg.: [01 10 041640]; 1143 Budapest, Besnyõ u. 13. I. em.; e-mail cím: k.szer-va-ker@chello.hu) mint az „AUTÓ-NAGY Nyíregyháza” Kft. „f. a.” (Cg.: [15 09 074229]; 4400 Nyíregyháza, Anyag u. 10.) bíróság által kijelölt felszámolója<ujsor/>
-nyilvános pályázat<ujsor/>
-útján értékesíti a társaság alábbi ingatlanait:<ujsor/>
+<mezo id = "szoveg">A KERSZI Kereskedelmi Ã©s PÃ©nzÃ¼gyi SzervezÃ©si TanÃ¡csadÃ³ Zrt. (Cg.: [01 10 041640]; 1143 Budapest, BesnyÅ‘ u. 13. I. em.; e-mail cÃ­m: k.szer-va-ker@chello.hu) mint az â€AUTÃ“-NAGY NyÃ­regyhÃ¡zaâ€ Kft. â€f. a.â€ (Cg.: [15 09 074229]; 4400 NyÃ­regyhÃ¡za, Anyag u. 10.) bÃ­rÃ³sÃ¡g Ã¡ltal kijelÃ¶lt felszÃ¡molÃ³ja<ujsor/>
+nyilvÃ¡nos pÃ¡lyÃ¡zat<ujsor/>
+ÃºtjÃ¡n Ã©rtÃ©kesÃ­ti a tÃ¡rsasÃ¡g alÃ¡bbi ingatlanait:<ujsor/>
 I. Ingatlanok<ujsor/>
-1. A nyíregyházi 28480/3. hrsz.-ú „kivett, gazdasági épület” megnevezésû 2232 m2 alapterületû ingatlant, továbbá a nyíregyházi 28480/4. hrsz.-ú „kivett, magánút” megnevezésû 292 m2 alapterületû ingatlant, amelyek a valóságban Nyíregyháza, Orosi u. 44. szám alatt találhatók. Az ingatlanokon 223 m2 területû félkész állapotban lévõ autószalonnak épült felülépítmény található, amely használatba vételi engedéllyel nem rendelkezik. A terület összközmûves. Az ingatlanok egy ingatlantestet képviselnek, így kizárólag együttesen kerülnek értékesítésre.<ujsor/>
-Irányár: 44 000 000 Ft (nettó).<ujsor/>
-Bánatpénz: 1 320 000 Ft.<ujsor/>
-2. A nyíregyházi 25837. hrsz.-ú „kivett, gazdasági épület, lakóház, udvar” megnevezésû 1339 m2 alapterületû ingatlant, amely a valóságban Nyíregyháza, Debreceni u. 201. szám alatt található. Az ingatlanon 220 m2 területû kereskedelmi egységnek használt felülépítmény található. Az ingatlan nem összközmûves.<ujsor/>
-Irányár: 31 000 000 Ft (nettó).<ujsor/>
-Bánatpénz: 930 000 Ft.<ujsor/>
-3. A budapesti 29151/0/A/7. hrsz.-ú „lakás” megnevezésû 72 m2 alapterületû ingatlant, amely a valóságban Budapest, Bajcsy-Zsilinszky u. 31. szám alatt található. Az ingatlant bérleti jog terheli, 2013. december 31-ig.<ujsor/>
-Irányár: 22 800 000 Ft (nettó).<ujsor/>
-Bánatpénz: 684 000 Ft.<ujsor/>
-II. Gépjármû<ujsor/>
-1 db OPEL X83 VIVARO típusú 2008. évben gyártott, 528 000 km-t futott gépkocsi.<ujsor/>
-Irányár: 2 500 000 Ft (nettó).<ujsor/>
-Bánatpénz: 125 000 Ft.<ujsor/>
-III. Egyéb készletek<ujsor/>
-Használt irodabútorok (polcok, asztalok, szekrények), összesen 19 tétel.<ujsor/>
-Irányár: 240 000 Ft (nettó).<ujsor/>
-Bánatpénz: 12 000 Ft.<ujsor/>
-IV. A pályázaton való részvétel feltétele<ujsor/>
-­ A pályázatot postai úton, kettõs borítékban kell benyújtani a pályázatot kiíró KERSZI Zrt. (4400 Nyíregyháza, Jókai tér 3. II. 7.) címére, a borítékon tüntessék fel, hogy „Pályázat az AUTÓ-NAGY NYÍREGYHÁZA Kft. f. a. vagyontárgyaira”. A pályázat beérkezésének határideje: legkésõbb a jelen pályázati felhívásnak a Cégközlönyben történõ közzétételét követõ 18. nap 12 óra.<ujsor/>
-­ Az ajánlatokat tartalmazó borítékok felbontására és a pályázat elbírálására közjegyzõ jelenlétében kerül sor, a beküldési határidõt követõ 8 napon belül.<ujsor/>
-­ A felszámoló fenntartja magának a jogot, hogy megfelelõ ajánlat hiányában bármely pályázatot indoklás nélkül eredménytelennek nyilvánítson.<ujsor/>
-­ Amennyiben egyazon vagyontárgyra több ­ a vételár vonatkozásában legfeljebb 10%-kal eltérõ ­ árajánlat érkezik, a felszámoló ártárgyalást tûz ki, melynek idõpontjáról és helyérõl az érintett feleket írásban értesíti.<ujsor/>
-­ Az ártárgyalás során az ajánlatok az ajánlati ár emelésével módosíthatóak.<ujsor/>
-­ A pályázattal kapcsolatos további felvilágosítás Kovács Lászlótól kérhetõ a 06 (30) 466-8665-ös telefonszámon.<ujsor/>
-­ A pályázatnak tartalmaznia kell a pályázó adatait (társaság esetén 30 napnál nem régebbi cégkivonatot, aláírási címpéldányt).<ujsor/>
-A pályázat során eljárásra jogosult személy meghatalmazását, az ajánlott vételárat, amelyen felül vevõ köteles fizetni a szerzõdéskötés költségeit.<ujsor/>
-­ A nyertes pályázóval az adásvételi szerzõdést a pályázatbontást követõ 8 napon belül megkötjük. A bánatpénz a vételárba beszámít, eredménytelen pályázat esetén 8 napon belül visszafizetésre kerül. A teljes vételárat a szerzõdéskötést követõ 30 napon belül kell megfizetni átutalással az „AUTÓ-NAGY NYÍREGYHÁZA” Kft. „f. a.” cégnek a Szabolcs Takarékszövetkezetnél vezetett 68800109-11087838 számú bankszámlára.<ujsor/>
-­ A felszámoló felhívja az elõvásárlási joggal rendelkezõk figyelmét, hogy az elõvásárlási jog gyakorlására irányuló szándékukat a pályázat benyújtásának idõpontjáig írásban jelentsék be a felszámoló szervezet felé.<ujsor/>
-­ A pályázat érvényességének feltétele, hogy a megjelölt bánatpénz a pályázat benyújtásának idõpontjáig kerüljön befizetésre az „AUTÓ-NAGY NYÍREGYHÁZA” Kft. „f. a.” Szabolcs Takarékszövetkezetnél vezetett 68800109-11087838 számú bankszámlára.<ujsor/>
-­ A meghirdetett ingatlanok elõzetesen egyeztetett idõpontban megtekinthetõk.<ujsor/>
+1. A nyÃ­regyhÃ¡zi 28480/3. hrsz.-Ãº â€kivett, gazdasÃ¡gi Ã©pÃ¼letâ€ megnevezÃ©sÅ± 2232 m2 alapterÃ¼letÅ± ingatlant, tovÃ¡bbÃ¡ a nyÃ­regyhÃ¡zi 28480/4. hrsz.-Ãº â€kivett, magÃ¡nÃºtâ€ megnevezÃ©sÅ± 292 m2 alapterÃ¼letÅ± ingatlant, amelyek a valÃ³sÃ¡gban NyÃ­regyhÃ¡za, Orosi u. 44. szÃ¡m alatt talÃ¡lhatÃ³k. Az ingatlanokon 223 m2 terÃ¼letÅ± fÃ©lkÃ©sz Ã¡llapotban lÃ©vÅ‘ autÃ³szalonnak Ã©pÃ¼lt felÃ¼lÃ©pÃ­tmÃ©ny talÃ¡lhatÃ³, amely hasznÃ¡latba vÃ©teli engedÃ©llyel nem rendelkezik. A terÃ¼let Ã¶sszkÃ¶zmÅ±ves. Az ingatlanok egy ingatlantestet kÃ©pviselnek, Ã­gy kizÃ¡rÃ³lag egyÃ¼ttesen kerÃ¼lnek Ã©rtÃ©kesÃ­tÃ©sre.<ujsor/>
+IrÃ¡nyÃ¡r: 44 000 000 Ft (nettÃ³).<ujsor/>
+BÃ¡natpÃ©nz: 1 320 000 Ft.<ujsor/>
+2. A nyÃ­regyhÃ¡zi 25837. hrsz.-Ãº â€kivett, gazdasÃ¡gi Ã©pÃ¼let, lakÃ³hÃ¡z, udvarâ€ megnevezÃ©sÅ± 1339 m2 alapterÃ¼letÅ± ingatlant, amely a valÃ³sÃ¡gban NyÃ­regyhÃ¡za, Debreceni u. 201. szÃ¡m alatt talÃ¡lhatÃ³. Az ingatlanon 220 m2 terÃ¼letÅ± kereskedelmi egysÃ©gnek hasznÃ¡lt felÃ¼lÃ©pÃ­tmÃ©ny talÃ¡lhatÃ³. Az ingatlan nem Ã¶sszkÃ¶zmÅ±ves.<ujsor/>
+IrÃ¡nyÃ¡r: 31 000 000 Ft (nettÃ³).<ujsor/>
+BÃ¡natpÃ©nz: 930 000 Ft.<ujsor/>
+3. A budapesti 29151/0/A/7. hrsz.-Ãº â€lakÃ¡sâ€ megnevezÃ©sÅ± 72 m2 alapterÃ¼letÅ± ingatlant, amely a valÃ³sÃ¡gban Budapest, Bajcsy-Zsilinszky u. 31. szÃ¡m alatt talÃ¡lhatÃ³. Az ingatlant bÃ©rleti jog terheli, 2013. december 31-ig.<ujsor/>
+IrÃ¡nyÃ¡r: 22 800 000 Ft (nettÃ³).<ujsor/>
+BÃ¡natpÃ©nz: 684 000 Ft.<ujsor/>
+II. GÃ©pjÃ¡rmÅ±<ujsor/>
+1 db OPEL X83 VIVARO tÃ­pusÃº 2008. Ã©vben gyÃ¡rtott, 528 000 km-t futott gÃ©pkocsi.<ujsor/>
+IrÃ¡nyÃ¡r: 2 500 000 Ft (nettÃ³).<ujsor/>
+BÃ¡natpÃ©nz: 125 000 Ft.<ujsor/>
+III. EgyÃ©b kÃ©szletek<ujsor/>
+HasznÃ¡lt irodabÃºtorok (polcok, asztalok, szekrÃ©nyek), Ã¶sszesen 19 tÃ©tel.<ujsor/>
+IrÃ¡nyÃ¡r: 240 000 Ft (nettÃ³).<ujsor/>
+BÃ¡natpÃ©nz: 12 000 Ft.<ujsor/>
+IV. A pÃ¡lyÃ¡zaton valÃ³ rÃ©szvÃ©tel feltÃ©tele<ujsor/>
+Â­ A pÃ¡lyÃ¡zatot postai Ãºton, kettÅ‘s borÃ­tÃ©kban kell benyÃºjtani a pÃ¡lyÃ¡zatot kiÃ­rÃ³ KERSZI Zrt. (4400 NyÃ­regyhÃ¡za, JÃ³kai tÃ©r 3. II. 7.) cÃ­mÃ©re, a borÃ­tÃ©kon tÃ¼ntessÃ©k fel, hogy â€PÃ¡lyÃ¡zat az AUTÃ“-NAGY NYÃREGYHÃZA Kft. f. a. vagyontÃ¡rgyairaâ€. A pÃ¡lyÃ¡zat beÃ©rkezÃ©sÃ©nek hatÃ¡rideje: legkÃ©sÅ‘bb a jelen pÃ¡lyÃ¡zati felhÃ­vÃ¡snak a CÃ©gkÃ¶zlÃ¶nyben tÃ¶rtÃ©nÅ‘ kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ 18. nap 12 Ã³ra.<ujsor/>
+Â­ Az ajÃ¡nlatokat tartalmazÃ³ borÃ­tÃ©kok felbontÃ¡sÃ¡ra Ã©s a pÃ¡lyÃ¡zat elbÃ­rÃ¡lÃ¡sÃ¡ra kÃ¶zjegyzÅ‘ jelenlÃ©tÃ©ben kerÃ¼l sor, a bekÃ¼ldÃ©si hatÃ¡ridÅ‘t kÃ¶vetÅ‘ 8 napon belÃ¼l.<ujsor/>
+Â­ A felszÃ¡molÃ³ fenntartja magÃ¡nak a jogot, hogy megfelelÅ‘ ajÃ¡nlat hiÃ¡nyÃ¡ban bÃ¡rmely pÃ¡lyÃ¡zatot indoklÃ¡s nÃ©lkÃ¼l eredmÃ©nytelennek nyilvÃ¡nÃ­tson.<ujsor/>
+Â­ Amennyiben egyazon vagyontÃ¡rgyra tÃ¶bb Â­ a vÃ©telÃ¡r vonatkozÃ¡sÃ¡ban legfeljebb 10%-kal eltÃ©rÅ‘ Â­ Ã¡rajÃ¡nlat Ã©rkezik, a felszÃ¡molÃ³ Ã¡rtÃ¡rgyalÃ¡st tÅ±z ki, melynek idÅ‘pontjÃ¡rÃ³l Ã©s helyÃ©rÅ‘l az Ã©rintett feleket Ã­rÃ¡sban Ã©rtesÃ­ti.<ujsor/>
+Â­ Az Ã¡rtÃ¡rgyalÃ¡s sorÃ¡n az ajÃ¡nlatok az ajÃ¡nlati Ã¡r emelÃ©sÃ©vel mÃ³dosÃ­thatÃ³ak.<ujsor/>
+Â­ A pÃ¡lyÃ¡zattal kapcsolatos tovÃ¡bbi felvilÃ¡gosÃ­tÃ¡s KovÃ¡cs LÃ¡szlÃ³tÃ³l kÃ©rhetÅ‘ a 06 (30) 466-8665-Ã¶s telefonszÃ¡mon.<ujsor/>
+Â­ A pÃ¡lyÃ¡zatnak tartalmaznia kell a pÃ¡lyÃ¡zÃ³ adatait (tÃ¡rsasÃ¡g esetÃ©n 30 napnÃ¡l nem rÃ©gebbi cÃ©gkivonatot, alÃ¡Ã­rÃ¡si cÃ­mpÃ©ldÃ¡nyt).<ujsor/>
+A pÃ¡lyÃ¡zat sorÃ¡n eljÃ¡rÃ¡sra jogosult szemÃ©ly meghatalmazÃ¡sÃ¡t, az ajÃ¡nlott vÃ©telÃ¡rat, amelyen felÃ¼l vevÅ‘ kÃ¶teles fizetni a szerzÅ‘dÃ©skÃ¶tÃ©s kÃ¶ltsÃ©geit.<ujsor/>
+Â­ A nyertes pÃ¡lyÃ¡zÃ³val az adÃ¡svÃ©teli szerzÅ‘dÃ©st a pÃ¡lyÃ¡zatbontÃ¡st kÃ¶vetÅ‘ 8 napon belÃ¼l megkÃ¶tjÃ¼k. A bÃ¡natpÃ©nz a vÃ©telÃ¡rba beszÃ¡mÃ­t, eredmÃ©nytelen pÃ¡lyÃ¡zat esetÃ©n 8 napon belÃ¼l visszafizetÃ©sre kerÃ¼l. A teljes vÃ©telÃ¡rat a szerzÅ‘dÃ©skÃ¶tÃ©st kÃ¶vetÅ‘ 30 napon belÃ¼l kell megfizetni Ã¡tutalÃ¡ssal az â€AUTÃ“-NAGY NYÃREGYHÃZAâ€ Kft. â€f. a.â€ cÃ©gnek a Szabolcs TakarÃ©kszÃ¶vetkezetnÃ©l vezetett 68800109-11087838 szÃ¡mÃº bankszÃ¡mlÃ¡ra.<ujsor/>
+Â­ A felszÃ¡molÃ³ felhÃ­vja az elÅ‘vÃ¡sÃ¡rlÃ¡si joggal rendelkezÅ‘k figyelmÃ©t, hogy az elÅ‘vÃ¡sÃ¡rlÃ¡si jog gyakorlÃ¡sÃ¡ra irÃ¡nyulÃ³ szÃ¡ndÃ©kukat a pÃ¡lyÃ¡zat benyÃºjtÃ¡sÃ¡nak idÅ‘pontjÃ¡ig Ã­rÃ¡sban jelentsÃ©k be a felszÃ¡molÃ³ szervezet felÃ©.<ujsor/>
+Â­ A pÃ¡lyÃ¡zat Ã©rvÃ©nyessÃ©gÃ©nek feltÃ©tele, hogy a megjelÃ¶lt bÃ¡natpÃ©nz a pÃ¡lyÃ¡zat benyÃºjtÃ¡sÃ¡nak idÅ‘pontjÃ¡ig kerÃ¼ljÃ¶n befizetÃ©sre az â€AUTÃ“-NAGY NYÃREGYHÃZAâ€ Kft. â€f. a.â€ Szabolcs TakarÃ©kszÃ¶vetkezetnÃ©l vezetett 68800109-11087838 szÃ¡mÃº bankszÃ¡mlÃ¡ra.<ujsor/>
+Â­ A meghirdetett ingatlanok elÅ‘zetesen egyeztetett idÅ‘pontban megtekinthetÅ‘k.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1509074229</mezo>
-<mezo id = "nev">&quot;AUTÓ-NAGY NYÍREGYHÁZA&quot; Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">4400 Nyíregyháza</mezo>
+<mezo id = "nev">&quot;AUTÃ“-NAGY NYÃREGYHÃZA&quot; Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">4400 NyÃ­regyhÃ¡za</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A KERSZI Kereskedelmi és Pénzügyi Szervezési Tanácsadó Zrt. (Cg.: [01 10 041640]; 1143 Budapest, Besnyõi u. 13. I. em.; e-mail cím: k.szer-va-ker@chello.hu) mint az „AUTÓ-NAGY Nyíregyháza” Kft. „f. a.” (Cg.: [15 09 074229]; 4400 Nyíregyháza, Anyag u. 10.) bíróság által kijelölt felszámolója,<ujsor/>
-nyilvános pályázat<ujsor/>
-útján értékesíti a társaság alábbi ingatlanait: <ujsor/>
+<mezo id = "szoveg">A KERSZI Kereskedelmi Ã©s PÃ©nzÃ¼gyi SzervezÃ©si TanÃ¡csadÃ³ Zrt. (Cg.: [01 10 041640]; 1143 Budapest, BesnyÅ‘i u. 13. I. em.; e-mail cÃ­m: k.szer-va-ker@chello.hu) mint az â€AUTÃ“-NAGY NyÃ­regyhÃ¡zaâ€ Kft. â€f. a.â€ (Cg.: [15 09 074229]; 4400 NyÃ­regyhÃ¡za, Anyag u. 10.) bÃ­rÃ³sÃ¡g Ã¡ltal kijelÃ¶lt felszÃ¡molÃ³ja,<ujsor/>
+nyilvÃ¡nos pÃ¡lyÃ¡zat<ujsor/>
+ÃºtjÃ¡n Ã©rtÃ©kesÃ­ti a tÃ¡rsasÃ¡g alÃ¡bbi ingatlanait: <ujsor/>
 I. Ingatlanok <ujsor/>
-1. A nyíregyházi 28480/3. hrsz.-ú „kivett, gazdasági épület” megnevezésû, 2232 m2 alapterületû ingatlant, továbbá a nyíregyházi 28480/4. hrsz.-ú „kivett, magánút” megnevezésû, 292 m2 alapterületû ingatlant, amelyek a valóságban Nyíregyháza, Orosi u. 44. szám alatt találhatók. Az ingatlanokon 223 m2 területû félkész állapotban lévõ autószalonnak épült felülépítmény található, amely használatbavételi engedéllyel nem rendelkezik. A terület összközmûves. Az ingatlanok egy ingatlantestet képviselnek, így kizárólag együttesen kerülnek értékesítésre.<ujsor/>
-Irányár: 40 000 000 Ft (nettó).<ujsor/>
-Bánatpénz: 1 200 000 Ft.<ujsor/>
-2. A nyíregyházi 25837. hrsz.-ú „kivett, gazdasági épület, lakóház, udvar” megnevezésû, 1339 m2 alapterületû ingatlant, amely a valóságban Nyíregyháza, Debreceni u. 201. szám alatt található. Az ingatlanon 220 m2 területû kereskedelmi egységnek használt felülépítmény található. Az ingatlan nem összközmûves.<ujsor/>
-Irányár: 28 000 000 Ft (nettó).<ujsor/>
-Bánatpénz: 540 000 Ft.<ujsor/>
-3. A budapesti 29151/0/A/7. hrsz.-ú „lakás” megnevezésû, 72 m2 alapterületû ingatlant, amely a valóságban Budapest, BajcsyZsilinszky u. 31. szám alatt található. Az ingatlant bérleti jog terheli 2013. december 31-éig.<ujsor/>
-Irányár: 20 000 000 Ft (nettó).<ujsor/>
-Bánatpénz: 600 000 Ft.<ujsor/>
-II. Egyéb készletek <ujsor/>
-Használt irodabútorok (polcok, asztalok, szekrények), összesen 19 tétel.<ujsor/>
-Irányár: 200 000 Ft (nettó).<ujsor/>
-Bánatpénz: 10 000 Ft.<ujsor/>
-III. A pályázaton való részvétel feltételei <ujsor/>
-A pályázatot postai úton, kettõs borítékban kell benyújtani a pályázatot kiíró KERSZI Zrt. (4400 Nyíregyháza, Jókai tér 3. II. 7.) címére, a borítékon tüntessék fel, hogy Pályázat az AUTÓ-NAGY NYÍREGYHÁZA Kft. „f. a.” vagyontárgyaira. A pályázat beérkezésének határideje: legkésõbb a jelen pályázati felhívásnak a Cégközlönyben történõ közzétételét követõ 18. nap 12 óra.<ujsor/>
-Az ajánlatokat tartalmazó borítékok felbontására és a pályázat elbírálására közjegyzõ jelenlétében kerül sor, a beküldési határidõt követõ 8 napon belül.<ujsor/>
-A felszámoló fenntartja magának a jogot, hogy megfelelõ ajánlat hiányában bármely pályázatot indoklás nélkül eredménytelennek nyilvánítson.<ujsor/>
-Amennyiben egyazon vagyontárgyra több - a vételár vonatkozásában legfeljebb 10%-kal eltérõ - árajánlat érkezik, a felszámoló ártárgyalást tûz ki, melynek idõpontjáról és helyérõl az érintett feleket írásban értesíti.<ujsor/>
-Az ártárgyalás során az ajánlatok az ajánlati ár emelésével módosíthatóak.<ujsor/>
-A pályázattal kapcsolatos további felvilágosítás Kovács Lászlótól kérhetõ a 06 (30) 466-8665-ös telefonszámon.<ujsor/>
-A pályázatnak tartalmazni kell a pályázó adatait (társaság esetén 30 napnál nem régebbi cégkivonatot, aláírási címpéldányt). A pályázat során eljárásra jogosult személy meghatalmazását, az ajánlott vételárat, amelyen felül a vevõ köteles fizetni a szerzõdéskötés költségeit.<ujsor/>
-A nyertes pályázóval az adásvételi szerzõdést a pályázatbontást követõ 8 napon belül megkötjük. A bánatpénz a vételárba beszámít, eredménytelen pályázat esetén 8 napon belül visszafizetésre kerül. A teljes vételárat a szerzõdéskötést követõ 30 napon belül kell megfizetni átutalással az „AUTÓ-NAGY NYÍREGYHÁZA” Kft. „f. a.” cégnek a Szabolcs Takarékszövetkezetnél vezetett 68800109-11087838 számú bankszámlára.<ujsor/>
-A felszámoló felhívja az elõvásárlási joggal rendelkezõk figyelmét, hogy az elõvásárlási jog gyakorlására irányuló szándékukat a pályázat benyújtásának idõpontjáig írásban jelentsék be a felszámoló szervezet felé.<ujsor/>
-A pályázat érvényességének feltétele, hogy a megjelölt bánatpénz a pályázat benyújtásának idõpontjáig befizetésre kerüljön az „AUTÓ-NAGY NYÍREGYHÁZA” Kft. „f. a.” Szabolcs Takarékszövetkezetnél vezetett 68800109-11087838 számú bankszámlára.<ujsor/>
-A meghirdetett ingatlanok és egyéb készletek elõzetesen egyeztetett idõpontban megtekinthetõk.<ujsor/>
+1. A nyÃ­regyhÃ¡zi 28480/3. hrsz.-Ãº â€kivett, gazdasÃ¡gi Ã©pÃ¼letâ€ megnevezÃ©sÅ±, 2232 m2 alapterÃ¼letÅ± ingatlant, tovÃ¡bbÃ¡ a nyÃ­regyhÃ¡zi 28480/4. hrsz.-Ãº â€kivett, magÃ¡nÃºtâ€ megnevezÃ©sÅ±, 292 m2 alapterÃ¼letÅ± ingatlant, amelyek a valÃ³sÃ¡gban NyÃ­regyhÃ¡za, Orosi u. 44. szÃ¡m alatt talÃ¡lhatÃ³k. Az ingatlanokon 223 m2 terÃ¼letÅ± fÃ©lkÃ©sz Ã¡llapotban lÃ©vÅ‘ autÃ³szalonnak Ã©pÃ¼lt felÃ¼lÃ©pÃ­tmÃ©ny talÃ¡lhatÃ³, amely hasznÃ¡latbavÃ©teli engedÃ©llyel nem rendelkezik. A terÃ¼let Ã¶sszkÃ¶zmÅ±ves. Az ingatlanok egy ingatlantestet kÃ©pviselnek, Ã­gy kizÃ¡rÃ³lag egyÃ¼ttesen kerÃ¼lnek Ã©rtÃ©kesÃ­tÃ©sre.<ujsor/>
+IrÃ¡nyÃ¡r: 40 000 000 Ft (nettÃ³).<ujsor/>
+BÃ¡natpÃ©nz: 1 200 000 Ft.<ujsor/>
+2. A nyÃ­regyhÃ¡zi 25837. hrsz.-Ãº â€kivett, gazdasÃ¡gi Ã©pÃ¼let, lakÃ³hÃ¡z, udvarâ€ megnevezÃ©sÅ±, 1339 m2 alapterÃ¼letÅ± ingatlant, amely a valÃ³sÃ¡gban NyÃ­regyhÃ¡za, Debreceni u. 201. szÃ¡m alatt talÃ¡lhatÃ³. Az ingatlanon 220 m2 terÃ¼letÅ± kereskedelmi egysÃ©gnek hasznÃ¡lt felÃ¼lÃ©pÃ­tmÃ©ny talÃ¡lhatÃ³. Az ingatlan nem Ã¶sszkÃ¶zmÅ±ves.<ujsor/>
+IrÃ¡nyÃ¡r: 28 000 000 Ft (nettÃ³).<ujsor/>
+BÃ¡natpÃ©nz: 540 000 Ft.<ujsor/>
+3. A budapesti 29151/0/A/7. hrsz.-Ãº â€lakÃ¡sâ€ megnevezÃ©sÅ±, 72 m2 alapterÃ¼letÅ± ingatlant, amely a valÃ³sÃ¡gban Budapest, BajcsyZsilinszky u. 31. szÃ¡m alatt talÃ¡lhatÃ³. Az ingatlant bÃ©rleti jog terheli 2013. december 31-Ã©ig.<ujsor/>
+IrÃ¡nyÃ¡r: 20 000 000 Ft (nettÃ³).<ujsor/>
+BÃ¡natpÃ©nz: 600 000 Ft.<ujsor/>
+II. EgyÃ©b kÃ©szletek <ujsor/>
+HasznÃ¡lt irodabÃºtorok (polcok, asztalok, szekrÃ©nyek), Ã¶sszesen 19 tÃ©tel.<ujsor/>
+IrÃ¡nyÃ¡r: 200 000 Ft (nettÃ³).<ujsor/>
+BÃ¡natpÃ©nz: 10 000 Ft.<ujsor/>
+III. A pÃ¡lyÃ¡zaton valÃ³ rÃ©szvÃ©tel feltÃ©telei <ujsor/>
+A pÃ¡lyÃ¡zatot postai Ãºton, kettÅ‘s borÃ­tÃ©kban kell benyÃºjtani a pÃ¡lyÃ¡zatot kiÃ­rÃ³ KERSZI Zrt. (4400 NyÃ­regyhÃ¡za, JÃ³kai tÃ©r 3. II. 7.) cÃ­mÃ©re, a borÃ­tÃ©kon tÃ¼ntessÃ©k fel, hogy PÃ¡lyÃ¡zat az AUTÃ“-NAGY NYÃREGYHÃZA Kft. â€f. a.â€ vagyontÃ¡rgyaira. A pÃ¡lyÃ¡zat beÃ©rkezÃ©sÃ©nek hatÃ¡rideje: legkÃ©sÅ‘bb a jelen pÃ¡lyÃ¡zati felhÃ­vÃ¡snak a CÃ©gkÃ¶zlÃ¶nyben tÃ¶rtÃ©nÅ‘ kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ 18. nap 12 Ã³ra.<ujsor/>
+Az ajÃ¡nlatokat tartalmazÃ³ borÃ­tÃ©kok felbontÃ¡sÃ¡ra Ã©s a pÃ¡lyÃ¡zat elbÃ­rÃ¡lÃ¡sÃ¡ra kÃ¶zjegyzÅ‘ jelenlÃ©tÃ©ben kerÃ¼l sor, a bekÃ¼ldÃ©si hatÃ¡ridÅ‘t kÃ¶vetÅ‘ 8 napon belÃ¼l.<ujsor/>
+A felszÃ¡molÃ³ fenntartja magÃ¡nak a jogot, hogy megfelelÅ‘ ajÃ¡nlat hiÃ¡nyÃ¡ban bÃ¡rmely pÃ¡lyÃ¡zatot indoklÃ¡s nÃ©lkÃ¼l eredmÃ©nytelennek nyilvÃ¡nÃ­tson.<ujsor/>
+Amennyiben egyazon vagyontÃ¡rgyra tÃ¶bb - a vÃ©telÃ¡r vonatkozÃ¡sÃ¡ban legfeljebb 10%-kal eltÃ©rÅ‘ - Ã¡rajÃ¡nlat Ã©rkezik, a felszÃ¡molÃ³ Ã¡rtÃ¡rgyalÃ¡st tÅ±z ki, melynek idÅ‘pontjÃ¡rÃ³l Ã©s helyÃ©rÅ‘l az Ã©rintett feleket Ã­rÃ¡sban Ã©rtesÃ­ti.<ujsor/>
+Az Ã¡rtÃ¡rgyalÃ¡s sorÃ¡n az ajÃ¡nlatok az ajÃ¡nlati Ã¡r emelÃ©sÃ©vel mÃ³dosÃ­thatÃ³ak.<ujsor/>
+A pÃ¡lyÃ¡zattal kapcsolatos tovÃ¡bbi felvilÃ¡gosÃ­tÃ¡s KovÃ¡cs LÃ¡szlÃ³tÃ³l kÃ©rhetÅ‘ a 06 (30) 466-8665-Ã¶s telefonszÃ¡mon.<ujsor/>
+A pÃ¡lyÃ¡zatnak tartalmazni kell a pÃ¡lyÃ¡zÃ³ adatait (tÃ¡rsasÃ¡g esetÃ©n 30 napnÃ¡l nem rÃ©gebbi cÃ©gkivonatot, alÃ¡Ã­rÃ¡si cÃ­mpÃ©ldÃ¡nyt). A pÃ¡lyÃ¡zat sorÃ¡n eljÃ¡rÃ¡sra jogosult szemÃ©ly meghatalmazÃ¡sÃ¡t, az ajÃ¡nlott vÃ©telÃ¡rat, amelyen felÃ¼l a vevÅ‘ kÃ¶teles fizetni a szerzÅ‘dÃ©skÃ¶tÃ©s kÃ¶ltsÃ©geit.<ujsor/>
+A nyertes pÃ¡lyÃ¡zÃ³val az adÃ¡svÃ©teli szerzÅ‘dÃ©st a pÃ¡lyÃ¡zatbontÃ¡st kÃ¶vetÅ‘ 8 napon belÃ¼l megkÃ¶tjÃ¼k. A bÃ¡natpÃ©nz a vÃ©telÃ¡rba beszÃ¡mÃ­t, eredmÃ©nytelen pÃ¡lyÃ¡zat esetÃ©n 8 napon belÃ¼l visszafizetÃ©sre kerÃ¼l. A teljes vÃ©telÃ¡rat a szerzÅ‘dÃ©skÃ¶tÃ©st kÃ¶vetÅ‘ 30 napon belÃ¼l kell megfizetni Ã¡tutalÃ¡ssal az â€AUTÃ“-NAGY NYÃREGYHÃZAâ€ Kft. â€f. a.â€ cÃ©gnek a Szabolcs TakarÃ©kszÃ¶vetkezetnÃ©l vezetett 68800109-11087838 szÃ¡mÃº bankszÃ¡mlÃ¡ra.<ujsor/>
+A felszÃ¡molÃ³ felhÃ­vja az elÅ‘vÃ¡sÃ¡rlÃ¡si joggal rendelkezÅ‘k figyelmÃ©t, hogy az elÅ‘vÃ¡sÃ¡rlÃ¡si jog gyakorlÃ¡sÃ¡ra irÃ¡nyulÃ³ szÃ¡ndÃ©kukat a pÃ¡lyÃ¡zat benyÃºjtÃ¡sÃ¡nak idÅ‘pontjÃ¡ig Ã­rÃ¡sban jelentsÃ©k be a felszÃ¡molÃ³ szervezet felÃ©.<ujsor/>
+A pÃ¡lyÃ¡zat Ã©rvÃ©nyessÃ©gÃ©nek feltÃ©tele, hogy a megjelÃ¶lt bÃ¡natpÃ©nz a pÃ¡lyÃ¡zat benyÃºjtÃ¡sÃ¡nak idÅ‘pontjÃ¡ig befizetÃ©sre kerÃ¼ljÃ¶n az â€AUTÃ“-NAGY NYÃREGYHÃZAâ€ Kft. â€f. a.â€ Szabolcs TakarÃ©kszÃ¶vetkezetnÃ©l vezetett 68800109-11087838 szÃ¡mÃº bankszÃ¡mlÃ¡ra.<ujsor/>
+A meghirdetett ingatlanok Ã©s egyÃ©b kÃ©szletek elÅ‘zetesen egyeztetett idÅ‘pontban megtekinthetÅ‘k.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1509074229</mezo>
-<mezo id = "nev">&quot;AUTÓ-NAGY NYÍREGYHÁZA&quot; Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">4400 Nyíregyháza</mezo>
+<mezo id = "nev">&quot;AUTÃ“-NAGY NYÃREGYHÃZA&quot; Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">4400 NyÃ­regyhÃ¡za</mezo>
 </alrovat>
 </rovat>
 <rovat id = "99017">

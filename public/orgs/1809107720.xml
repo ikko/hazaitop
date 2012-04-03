@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">107720</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">9700 Szombathely, Kõszegi utca 23. </mezo>
+<mezo id = "cim">9700 Szombathely, KÅ‘szegi utca 23. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">14197280218</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20080204</mezo>
-<mezo id = "nev">Pannon Novum Nyugat-dunántúli Regionális Innovációs Nonprofit Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Pannon Novum Nyugat-dunÃ¡ntÃºli RegionÃ¡lis InnovÃ¡ciÃ³s Nonprofit KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20080204</mezo>
@@ -35,7 +35,7 @@
 <mezo id = "hattol">20080204</mezo>
 <mezo id = "irsz">9700</mezo>
 <mezo id = "hely">Szombathely</mezo>
-<mezo id = "teru">Kõszegi utca 23.</mezo>
+<mezo id = "teru">KÅ‘szegi utca 23.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
@@ -47,7 +47,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20090521</mezo>
 <mezo id = "irsz">9027</mezo>
-<mezo id = "hely">Gyõr</mezo>
+<mezo id = "hely">GyÅ‘r</mezo>
 <mezo id = "teru">Gesztenyefa utca 4.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20090521</mezo>
@@ -57,7 +57,7 @@
 <mezo id = "hattol">20090521</mezo>
 <mezo id = "irsz">8900</mezo>
 <mezo id = "hely">Zalaegerszeg</mezo>
-<mezo id = "teru">Köztársaság útja 17.</mezo>
+<mezo id = "teru">KÃ¶ztÃ¡rsasÃ¡g Ãºtja 17.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20090521</mezo>
 <mezo id = "bkelt">20090828</mezo>
@@ -439,12 +439,12 @@
 <rovat id = "13">
 <alrovat id = "2">
 <mezo id = "hattol">20110221</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Magyar Dániel</mezo>
-<mezo id = "panev">Balázs Anna</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Magyar DÃ¡niel</mezo>
+<mezo id = "panev">BalÃ¡zs Anna</mezo>
 <mezo id = "pirsz">9700</mezo>
 <mezo id = "phely">Szombathely</mezo>
-<mezo id = "pteru">Vízöntõ utca 9. C. ép.</mezo>
+<mezo id = "pteru">VÃ­zÃ¶ntÅ‘ utca 9. C. Ã©p.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20080124</mezo>
 <mezo id = "jogvv">20130124</mezo>
@@ -483,7 +483,7 @@
 <rovat id = "0109">
 <alrovat id = "1">
 <mezo id = "hattol">20080204</mezo>
-<mezo id = "nev">Nyugat-Dunántúli Regionális Fejlesztési Tanács</mezo>
+<mezo id = "nev">Nyugat-DunÃ¡ntÃºli RegionÃ¡lis FejlesztÃ©si TanÃ¡cs</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">9400</mezo>
 <mezo id = "hely">Sopron</mezo>
@@ -493,17 +493,17 @@
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
-<mezo id = "tnytsz">MÁK törzsk.sz. 579603</mezo>
+<mezo id = "tnytsz">MÃK tÃ¶rzsk.sz. 579603</mezo>
 <mezo id = "bkelt">20080204</mezo>
 <mezo id = "tkelt">0</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20080204</mezo>
 <mezo id = "cgjsz">814001512</mezo>
-<mezo id = "nev">Innonet Innovációs és Technológiai Központ Közhasznú Társaság</mezo>
+<mezo id = "nev">Innonet InnovÃ¡ciÃ³s Ã©s TechnolÃ³giai KÃ¶zpont KÃ¶zhasznÃº TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">9027</mezo>
-<mezo id = "hely">Gyõr</mezo>
+<mezo id = "hely">GyÅ‘r</mezo>
 <mezo id = "teru">Gesztenyefa u.</mezo>
 <mezo id = "hsz">4.</mezo>
 <mezo id = "tagsk">20080124</mezo>
@@ -516,11 +516,11 @@
 <alrovat id = "3">
 <mezo id = "hattol">20080204</mezo>
 <mezo id = "cgjsz">809015303</mezo>
-<mezo id = "nev">UNIVERSITAS-Gyõr Szolgáltató Nonprofit Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">UNIVERSITAS-GyÅ‘r SzolgÃ¡ltatÃ³ Nonprofit KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">9026</mezo>
-<mezo id = "hely">Gyõr</mezo>
-<mezo id = "teru">Egyetem tér</mezo>
+<mezo id = "hely">GyÅ‘r</mezo>
+<mezo id = "teru">Egyetem tÃ©r</mezo>
 <mezo id = "hsz">1.</mezo>
 <mezo id = "tagsk">20080124</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -531,11 +531,11 @@
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20080204</mezo>
-<mezo id = "nev">Zala megyei Vállalkozásfejlesztési Alapítvány</mezo>
+<mezo id = "nev">Zala megyei VÃ¡llalkozÃ¡sfejlesztÃ©si AlapÃ­tvÃ¡ny</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">8900</mezo>
 <mezo id = "hely">Zalaegerszeg</mezo>
-<mezo id = "teru">Köztársaság tér</mezo>
+<mezo id = "teru">KÃ¶ztÃ¡rsasÃ¡g tÃ©r</mezo>
 <mezo id = "hsz">17.</mezo>
 <mezo id = "tagsk">20080124</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -547,11 +547,11 @@
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20080204</mezo>
-<mezo id = "nev">Vas Megyei Kereskedelmi és Iparkamara</mezo>
+<mezo id = "nev">Vas Megyei Kereskedelmi Ã©s Iparkamara</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">9700</mezo>
 <mezo id = "hely">Szombathely</mezo>
-<mezo id = "teru">Honvéd tér</mezo>
+<mezo id = "teru">HonvÃ©d tÃ©r</mezo>
 <mezo id = "hsz">2.</mezo>
 <mezo id = "tagsk">20080124</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -564,11 +564,11 @@
 <alrovat id = "6">
 <mezo id = "hattol">20080204</mezo>
 <mezo id = "cgjsz">1810100628</mezo>
-<mezo id = "nev">Nyugat-Pannon Regionális Fejlesztési Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">Nyugat-Pannon RegionÃ¡lis FejlesztÃ©si ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">9700</mezo>
 <mezo id = "hely">Szombathely</mezo>
-<mezo id = "teru">Kõszegi u.</mezo>
+<mezo id = "teru">KÅ‘szegi u.</mezo>
 <mezo id = "hsz">23.</mezo>
 <mezo id = "tagsk">20080124</mezo>
 <mezo id = "tagsv">0</mezo>

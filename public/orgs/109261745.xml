@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">261745</mezo>
 <mezo id = "nevalrovat">4</mezo>
-<mezo id = "cim">1102 Budapest, Szent László tér 20. </mezo>
+<mezo id = "cim">1102 Budapest, Szent LÃ¡szlÃ³ tÃ©r 20. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">10813944242</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "4">
 <mezo id = "hattol">20110223</mezo>
-<mezo id = "nev">Hivatalos Biztonsági Okmány- és Jegynyomda Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Hivatalos BiztonsÃ¡gi OkmÃ¡ny- Ã©s Jegynyomda KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">20110223</mezo>
 <mezo id = "bkelt">20110427</mezo>
 </alrovat>
@@ -23,7 +23,7 @@
 <mezo id = "hattol">20110816</mezo>
 <mezo id = "irsz">1102</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Szent László tér 20.</mezo>
+<mezo id = "teru">Szent LÃ¡szlÃ³ tÃ©r 20.</mezo>
 <mezo id = "valtk">20110816</mezo>
 <mezo id = "bkelt">20110921</mezo>
 </alrovat>
@@ -360,12 +360,12 @@
 <rovat id = "13">
 <alrovat id = "12">
 <mezo id = "hattol">20101231</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Kratochwillné Gaál Szilvia</mezo>
-<mezo id = "panev">Kecskeméti Magdolna</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">KratochwillnÃ© GaÃ¡l Szilvia</mezo>
+<mezo id = "panev">KecskemÃ©ti Magdolna</mezo>
 <mezo id = "pirsz">1196</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Vécsey utca 59.</mezo>
+<mezo id = "pteru">VÃ©csey utca 59.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20110101</mezo>
 <mezo id = "jogvv">20151231</mezo>
@@ -377,18 +377,18 @@
 <rovat id = "14">
 <alrovat id = "1">
 <mezo id = "hattol">19921231</mezo>
-<mezo id = "nev">Reviczy István</mezo>
+<mezo id = "nev">Reviczy IstvÃ¡n</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1036</mezo>
 <mezo id = "hely">Budapest, Lajos u. 47/B.</mezo>
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">20110816</mezo>
-<mezo id = "pnev">Baksa Beáta</mezo>
-<mezo id = "panev">Szabó Rozália</mezo>
+<mezo id = "pnev">Baksa BeÃ¡ta</mezo>
+<mezo id = "panev">SzabÃ³ RozÃ¡lia</mezo>
 <mezo id = "pirsz">2310</mezo>
-<mezo id = "phely">Szigetszentmiklós</mezo>
-<mezo id = "pteru">Bajcsy-Zsilinszky út 21/A.</mezo>
+<mezo id = "phely">SzigetszentmiklÃ³s</mezo>
+<mezo id = "pteru">Bajcsy-Zsilinszky Ãºt 21/A.</mezo>
 <mezo id = "jogvk">20110816</mezo>
 <mezo id = "jogvv">20120531</mezo>
 <mezo id = "valtk">20110816</mezo>
@@ -417,18 +417,18 @@
 <mezo id = "adosz">10813944242</mezo>
 <mezo id = "kadosz">HU10813944</mezo>
 <mezo id = "bkelt">20110926</mezo>
-<mezo id = "megj">Státusz kezdete: 2011/04/11</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 2011/04/11</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0109">
 <alrovat id = "9">
 <mezo id = "hattol">20110810</mezo>
 <mezo id = "cgjsz">0110046347</mezo>
-<mezo id = "nev">Magyar Nyomdaipari Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">Magyar Nyomdaipari ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1102</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Szent László tér 20.</mezo>
+<mezo id = "teru">Szent LÃ¡szlÃ³ tÃ©r 20.</mezo>
 <mezo id = "tagsk">20100128</mezo>
 <mezo id = "valtk">20110810</mezo>
 <mezo id = "bkelt">20110921</mezo>
@@ -443,36 +443,36 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság az 1998. 04. 23-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-09. 2221 Nyomdaipari termékek gyártása.<ujsor/>
- 2222 Nyomdaipari szolgáltatás.<ujsor/>
- Törölve: 1998. 04. 01-i hatállyal.<ujsor/>
- 22.13 Idõszaki kiadvány kiadása.<ujsor/>
- 22.15 Egyéb kiadás.<ujsor/>
- 22.22 Máshova nem sorolt nyomás.<ujsor/>
- 22.23 Könyvkötés, befejezõ mûveletek.<ujsor/>
- 22.24 Betûszedés, nyomólemez-készítés.<ujsor/>
- Hatályos: 1998. 04. 01-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g az 1998. 04. 23-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+09. 2221 Nyomdaipari termÃ©kek gyÃ¡rtÃ¡sa.<ujsor/>
+ 2222 Nyomdaipari szolgÃ¡ltatÃ¡s.<ujsor/>
+ TÃ¶rÃ¶lve: 1998. 04. 01-i hatÃ¡llyal.<ujsor/>
+ 22.13 IdÅ‘szaki kiadvÃ¡ny kiadÃ¡sa.<ujsor/>
+ 22.15 EgyÃ©b kiadÃ¡s.<ujsor/>
+ 22.22 MÃ¡shova nem sorolt nyomÃ¡s.<ujsor/>
+ 22.23 KÃ¶nyvkÃ¶tÃ©s, befejezÅ‘ mÅ±veletek.<ujsor/>
+ 22.24 BetÅ±szedÃ©s, nyomÃ³lemez-kÃ©szÃ­tÃ©s.<ujsor/>
+ HatÃ¡lyos: 1998. 04. 01-tÅ‘l.<ujsor/>
 Bejegyezve: 1998. 08. 04.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109261745</mezo>
-<mezo id = "nev">MÁV Jegynyomda Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">MÃV Jegynyomda KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1062 Budapest, Podmaniczky u 32.</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság az 1993. 08. 25-én hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-14. Reviczy István<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g az 1993. 08. 25-Ã©n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+14. Reviczy IstvÃ¡n<ujsor/>
 HU 1036 Budapest, Lajos u. 47/B.<ujsor/>
- Törölve: 1992. 12. 31-i hatállyal.<ujsor/>
- Reviczky István (an: Rozsnyai Sarolta)<ujsor/>
+ TÃ¶rÃ¶lve: 1992. 12. 31-i hatÃ¡llyal.<ujsor/>
+ Reviczky IstvÃ¡n (an: Rozsnyai Sarolta)<ujsor/>
 1036 Budapest, Lajos u. 47/B.<ujsor/>
- Hatályos: 1992. 12. 31-tõl.<ujsor/>
+ HatÃ¡lyos: 1992. 12. 31-tÅ‘l.<ujsor/>
 Bejegyezve: 1999. 02. 24.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109261745</mezo>
-<mezo id = "nev">MÁV Jegynyomda Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">MÃV Jegynyomda KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1062 Budapest, Podmaniczky u 32.</mezo>
 </alrovat>
 </rovat>

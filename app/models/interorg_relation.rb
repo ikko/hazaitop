@@ -35,6 +35,11 @@ class InterorgRelation < ActiveRecord::Base
 
   default_scope :order => "value DESC, information_source_id DESC"
 
+  named_scope :ordered, lambda { |order| 
+    { :include => order.to_sym, :order => ( (order == "related_organization" ? "organization" : order).pluralize + '.name').to_sym } 
+  }
+  named_scope :info, lambda { |info_ids| info_ids.present? ? { :conditions => [ "interorg_relations.information_source_id in (?)", info_ids ]} : {} }
+
   belongs_to :notification
   belongs_to :contract
   belongs_to :tender
@@ -42,7 +47,7 @@ class InterorgRelation < ActiveRecord::Base
   has_many :article_relations, :as => :relationable, :accessible => true
   has_many :articles, :through => :article_relations, :accessible => true
 
-  belongs_to :o2o_relation_type
+  belongs_to :o_to_o_relation_type
   belongs_to :organization, :counter_cache => true
 
   belongs_to :related_organization, :class_name => "Organization"
@@ -54,7 +59,7 @@ class InterorgRelation < ActiveRecord::Base
   has_many :litigations, :through => :litigation_relations, :accessible => true
 
   validates_presence_of :related_organization
-  validates_presence_of :o2o_relation_type
+  validates_presence_of :o_to_o_relation_type
   validate :litigation_related
   validate :source_present
 
@@ -77,32 +82,32 @@ class InterorgRelation < ActiveRecord::Base
 
   def litigation_related
     unless litigations.blank?
-      errors.add("Litigation allowed only if", "relation type has legal aspect.") unless o2o_relation_type.litig
+      errors.add("Litigation allowed only if", "relation type has legal aspect.") unless o_to_o_relation_type.litig
     end
   end
 
   before_save do |r|
     r.information_source_id = (r.info_id ? r.info_id : r.articles.first.try.information_source_id ) if r.information_source.blank?
     r.information_source_id = InformationSource.find_by_domain_name('ahalo.hu').id if r.information_source.blank?
-    r.parsed = r.o2o_relation_type.parsed if r.o2o_relation_type
-    # r.weight = r.information_source.weight * r.o2o_relation_type.weight
+    r.parsed = r.o_to_o_relation_type.parsed if r.o_to_o_relation_type
+    # r.weight = r.information_source.weight * r.o_to_o_relation_type.weight
     true
   end
 
   after_create do |r|
     r.organization.try.increment! :relations_counter
     unless r.mirrored
-      if r.o2o_relation_type.pair
-        relation_type_id = r.o2o_relation_type.pair.id
+      if r.o_to_o_relation_type.pair
+        relation_type_id = r.o_to_o_relation_type.pair.id
       else
-        relation_type_id = r.o2o_relation_type_id
+        relation_type_id = r.o_to_o_relation_type_id
       end
-      visual = r.o2o_relation_type.visual
+      visual = r.o_to_o_relation_type.visual
       interorg = InterorgRelation.create!(:interorg_relation_id => r.id,
                                           :organization_id => r.related_organization_id,
                                           :related_organization_id => r.organization_id,
                                           :interorg_relation_id => r.id,
-                                          :o2o_relation_type_id => relation_type_id,
+                                          :o_to_o_relation_type_id => relation_type_id,
                                           :information_source_id => r.information_source_id,
                                           :parsed => r.parsed,
                                           :visual => visual,
@@ -128,13 +133,13 @@ class InterorgRelation < ActiveRecord::Base
       if o.related_organization_id != r.organization_id
         o.update_attribute :related_organization_id, r.organization_id
       end
-      if o.o2o_relation_type_id != r.o2o_relation_type_id
-        if o.o2o_relation_type and o.o2o_relation_type.pair
-          if o.o2o_relation_type.pair_id != r.o2o_relation_type_id
-            o.update_attributes :o2o_relation_type_id => r.o2o_relation_type.pair.id, :visual => r.o2o_relation_type.visual
+      if o.o_to_o_relation_type_id != r.o_to_o_relation_type_id
+        if o.o_to_o_relation_type and o.o_to_o_relation_type.pair
+          if o.o_to_o_relation_type.pair_id != r.o_to_o_relation_type_id
+            o.update_attributes :o_to_o_relation_type_id => r.o_to_o_relation_type.pair.id, :visual => r.o_to_o_relation_type.visual
           end
         else
-          o.update_attribute :o2o_relation_type_id, r.o2o_relation_type_id
+          o.update_attribute :o_to_o_relation_type_id, r.o_to_o_relation_type_id
         end
       end
       if o.information_source_id != r.information_source_id

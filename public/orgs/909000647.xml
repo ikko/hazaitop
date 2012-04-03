@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">000647</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">4080 Hajdúnánás, Dorogi út 01125/69. </mezo>
+<mezo id = "cim">4080 HajdÃºnÃ¡nÃ¡s, Dorogi Ãºt 01125/69. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">10490165209</mezo>
 </alrovat>
@@ -13,21 +13,21 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19901221</mezo>
-<mezo id = "nev">NYAK-ÉP Épitõipari Szolgáltató Korlátolt Felelõs- ségû Társaság</mezo>
+<mezo id = "nev">NYAK-Ã‰P Ã‰pitÅ‘ipari SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘s- sÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">19901221</mezo>
-<mezo id = "nev">&quot;NYAK-ÉP&quot; Kft.</mezo>
+<mezo id = "nev">&quot;NYAK-Ã‰P&quot; Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
 <alrovat id = "3">
 <mezo id = "hattol">20080627</mezo>
 <mezo id = "irsz">4080</mezo>
-<mezo id = "hely">Hajdúnánás</mezo>
-<mezo id = "teru">Dorogi út 01125/69.</mezo>
+<mezo id = "hely">HajdÃºnÃ¡nÃ¡s</mezo>
+<mezo id = "teru">Dorogi Ãºt 01125/69.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">20080627</mezo>
 <mezo id = "valtv">0</mezo>
@@ -39,7 +39,7 @@
 <alrovat id = "5">
 <mezo id = "hattol">20080627</mezo>
 <mezo id = "irsz">4080</mezo>
-<mezo id = "hely">Hajdúnánás, Dorogi út 2.</mezo>
+<mezo id = "hely">HajdÃºnÃ¡nÃ¡s, Dorogi Ãºt 2.</mezo>
 <mezo id = "valtk">20080627</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20080730</mezo>
@@ -491,13 +491,13 @@
 <mezo id = "hattol">20110912</mezo>
 <mezo id = "valtk">20110912</mezo>
 <mezo id = "bkelt">20111010</mezo>
-<mezo id = "teaszov">Üzem-, tüzelõanyag nagykereskedelme</mezo>
+<mezo id = "teaszov">Ãœzem-, tÃ¼zelÅ‘anyag nagykereskedelme</mezo>
 </alrovat>
 <alrovat id = "101">
 <mezo id = "hattol">20110912</mezo>
 <mezo id = "valtk">20110912</mezo>
 <mezo id = "bkelt">20111010</mezo>
-<mezo id = "teaszov">Saját tulajdonú, bérelt ingatlan bérbeadása, üzemeltetése</mezo>
+<mezo id = "teaszov">SajÃ¡t tulajdonÃº, bÃ©relt ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -516,9 +516,9 @@
 <rovat id = "13">
 <alrovat id = "11">
 <mezo id = "hattol">20091217</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Nyakas Gábor</mezo>
-<mezo id = "panev">Varga Erzsébet</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Nyakas GÃ¡bor</mezo>
+<mezo id = "panev">Varga ErzsÃ©bet</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20080627</mezo>
 <mezo id = "valtk">20091217</mezo>
@@ -526,9 +526,9 @@
 </alrovat>
 <alrovat id = "12">
 <mezo id = "hattol">20091217</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Nyakasné Berencsi Magdolna</mezo>
-<mezo id = "panev">Pálóczi Margit</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">NyakasnÃ© Berencsi Magdolna</mezo>
+<mezo id = "panev">PÃ¡lÃ³czi Margit</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20080627</mezo>
 <mezo id = "valtk">20091217</mezo>
@@ -538,8 +538,8 @@
 <rovat id = "14">
 <alrovat id = "2">
 <mezo id = "hattol">20091117</mezo>
-<mezo id = "pnev">Bariz István</mezo>
-<mezo id = "panev">Gyõrfi Róza</mezo>
+<mezo id = "pnev">Bariz IstvÃ¡n</mezo>
+<mezo id = "panev">GyÅ‘rfi RÃ³za</mezo>
 <mezo id = "jogvk">20091117</mezo>
 <mezo id = "jogvv">20131117</mezo>
 <mezo id = "valtk">20091117</mezo>
@@ -557,16 +557,16 @@
 <mezo id = "adosz">10490165209</mezo>
 <mezo id = "kadosz">HU10490165</mezo>
 <mezo id = "bkelt">20111010</mezo>
-<mezo id = "megj">Státusz kezdete: 1991/01/01</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 1991/01/01</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0109">
 <alrovat id = "9">
 <mezo id = "hattol">20080627</mezo>
-<mezo id = "pnev">Nyakasné Berencsi Magdolna</mezo>
-<mezo id = "panev">Pálóczi Margit</mezo>
+<mezo id = "pnev">NyakasnÃ© Berencsi Magdolna</mezo>
+<mezo id = "panev">PÃ¡lÃ³czi Margit</mezo>
 <mezo id = "pirsz">4080</mezo>
-<mezo id = "phely">Hajdúnánás, Kálvin utca 4.</mezo>
+<mezo id = "phely">HajdÃºnÃ¡nÃ¡s, KÃ¡lvin utca 4.</mezo>
 <mezo id = "tagsk">19901221</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20080627</mezo>
@@ -576,8 +576,8 @@
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">20091217</mezo>
-<mezo id = "pnev">Nyakas Gábor</mezo>
-<mezo id = "panev">Varga Erzsébet</mezo>
+<mezo id = "pnev">Nyakas GÃ¡bor</mezo>
+<mezo id = "panev">Varga ErzsÃ©bet</mezo>
 <mezo id = "tagsk">19901221</mezo>
 <mezo id = "valtk">20091217</mezo>
 <mezo id = "bkelt">20100129</mezo>
@@ -592,52 +592,52 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Hajdú-Bihar Megyei Bíróság mint Cégbíróság a Cg.09-09-000647 cégjegyzékszámon bejegyzett NYAK-ÉP Épitõipari Szolgáltató Korlátolt Felelõsségû Társaság (4080 Hajdúnánás, Dorogi út 01125/69.; adószáma: 10490165-2-09) ügyében az 2008. július 30. napján hozott Cg.09-09-000647/46 számú végzését hivatalból kijavítani rendeli az alábbiak szerint:<ujsor/>
-13. A képviseletre jogosult(ak) adatai<ujsor/>
-A képviselet módja: önálló.<ujsor/>
-Nyakas Gábor vezetõ tisztségviselõ (ügyvezetõ) (an.: Varga Erzsébet)<ujsor/>
+<mezo id = "szoveg">A HajdÃº-Bihar Megyei BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.09-09-000647 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett NYAK-Ã‰P Ã‰pitÅ‘ipari SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (4080 HajdÃºnÃ¡nÃ¡s, Dorogi Ãºt 01125/69.; adÃ³szÃ¡ma: 10490165-2-09) Ã¼gyÃ©ben az 2008. jÃºlius 30. napjÃ¡n hozott Cg.09-09-000647/46 szÃ¡mÃº vÃ©gzÃ©sÃ©t hivatalbÃ³l kijavÃ­tani rendeli az alÃ¡bbiak szerint:<ujsor/>
+13. A kÃ©pviseletre jogosult(ak) adatai<ujsor/>
+A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+Nyakas GÃ¡bor vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘) (an.: Varga ErzsÃ©bet)<ujsor/>
 Jogv. kezdete: 2004.03.18.<ujsor/>
-Vált. vége: 2008.06.27.<ujsor/>
-Törölve (végzés kelte): 2010. január 29.<ujsor/>
-A képviselet módja: önálló.<ujsor/>
-Nyakasné Berencsi Magdolna vezetõ tisztségviselõ (ügyvezetõ) (an.: Pálóczi Margit)<ujsor/>
+VÃ¡lt. vÃ©ge: 2008.06.27.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2010. januÃ¡r 29.<ujsor/>
+A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+NyakasnÃ© Berencsi Magdolna vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘) (an.: PÃ¡lÃ³czi Margit)<ujsor/>
 Jogv. kezdete: 2004.03.18.<ujsor/>
-Vált. vége: 2008.06.27.<ujsor/>
-Törölve (végzés kelte): 2010. január 29.<ujsor/>
-A képviselet módja: önálló.<ujsor/>
-Nyakas Gábor vezetõ tisztségviselõ (ügyvezetõ) (an.: Varga Erzsébet)<ujsor/>
+VÃ¡lt. vÃ©ge: 2008.06.27.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2010. januÃ¡r 29.<ujsor/>
+A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+Nyakas GÃ¡bor vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘) (an.: Varga ErzsÃ©bet)<ujsor/>
 Jogv. kezdete: 2008.06.27.<ujsor/>
-Vált. kezdete: 2008.06.27.<ujsor/>
-Bejegyezve (végzés kelte): 2010. január 29.<ujsor/>
-A képviselet módja: önálló.<ujsor/>
-Nyakasné Berencsi Magdolna vezetõ tisztségviselõ (ügyvezetõ) (an.: Pálóczi Margit)<ujsor/>
+VÃ¡lt. kezdete: 2008.06.27.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2010. januÃ¡r 29.<ujsor/>
+A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+NyakasnÃ© Berencsi Magdolna vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘) (an.: PÃ¡lÃ³czi Margit)<ujsor/>
 Jogv. kezdete: 2008.06.27.<ujsor/>
-Vált. kezdete: 2008.06.27.<ujsor/>
-Bejegyezve (végzés kelte): 2010. január 29.<ujsor/>
-E végzés ellen fellebbezésnek nincs helye, azonban az ügyész, továbbá az, akire a végzés rendelkezést tartalmaz - a rendelkezés õt érintõ részére vonatkozóan - pert indíthat a cég ellen a cég székhelye szerint illetékes megyei bíróság elõtt a bejegyzõ végzés hatályon kívül helyezése iránt.<ujsor/>
-A per megindításának a bejegyzõ végzés Cégközlönyben való közzétételétõl, illetve - közzétételi kötelezettség hiányában - annak kézbesítésétõl számított 30 napon belül van helye. A határidõ elmulasztása jogvesztéssel jár.<ujsor/>
-2010. január 29.<ujsor/>
+VÃ¡lt. kezdete: 2008.06.27.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2010. januÃ¡r 29.<ujsor/>
+E vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye, azonban az Ã¼gyÃ©sz, tovÃ¡bbÃ¡ az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s Å‘t Ã©rintÅ‘ rÃ©szÃ©re vonatkozÃ³an - pert indÃ­that a cÃ©g ellen a cÃ©g szÃ©khelye szerint illetÃ©kes megyei bÃ­rÃ³sÃ¡g elÅ‘tt a bejegyzÅ‘ vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt.<ujsor/>
+A per megindÃ­tÃ¡sÃ¡nak a bejegyzÅ‘ vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l, illetve - kÃ¶zzÃ©tÃ©teli kÃ¶telezettsÃ©g hiÃ¡nyÃ¡ban - annak kÃ©zbesÃ­tÃ©sÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l van helye. A hatÃ¡ridÅ‘ elmulasztÃ¡sa jogvesztÃ©ssel jÃ¡r.<ujsor/>
+2010. januÃ¡r 29.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0909000647</mezo>
-<mezo id = "nev">NYAK-ÉP Épitõipari Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">4080 Hajdúnánás, Dorogi út 01125/69.</mezo>
+<mezo id = "nev">NYAK-Ã‰P Ã‰pitÅ‘ipari SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">4080 HajdÃºnÃ¡nÃ¡s, Dorogi Ãºt 01125/69.</mezo>
 <mezo id = "adosz">10490165209</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Hajdú-Bihar Megyei Bíróság mint Cégbíróság a Cg.09-09-000647 cégjegyzékszámon bejegyzett NYAK-ÉP Épitõipari Szolgáltató Korlátolt Felelõsségû Társaság (4080 Hajdúnánás, Dorogi út 01125/69.; adószáma: 10490165-2-09) ügyében az 2008. július 30. napján hozott Cg.09-09-000647/60. számú végzését hivatalból kiegészíteni rendeli az alábbiak szerint:<ujsor/>
-7. A cég fióktelepe(i)<ujsor/>
-HU 4087 Hajdúdorog, Böszörményi út 18.<ujsor/>
-Vált. vége: 2008.06.27.<ujsor/>
-Törölve (végzés kelte): 2011. október 10.<ujsor/>
-E végzés ellen fellebbezésnek nincs helye, azonban az ügyész, továbbá az, akire a végzés rendelkezést tartalmaz - a rendelkezés õt érintõ részére vonatkozóan - pert indíthat a cég ellen a cég székhelye szerint illetékes megyei bíróság elõtt a bejegyzõ végzés hatályon kívül helyezése iránt.<ujsor/>
-A per megindításának a bejegyzõ végzés Cégközlönyben való közzétételétõl, illetve - közzétételi kötelezettség hiányában - annak kézbesítésétõl számított 30 napon belül van helye. A határidõ elmulasztása jogvesztéssel jár.<ujsor/>
-2011. október 10.<ujsor/>
+<mezo id = "szoveg">A HajdÃº-Bihar Megyei BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.09-09-000647 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett NYAK-Ã‰P Ã‰pitÅ‘ipari SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (4080 HajdÃºnÃ¡nÃ¡s, Dorogi Ãºt 01125/69.; adÃ³szÃ¡ma: 10490165-2-09) Ã¼gyÃ©ben az 2008. jÃºlius 30. napjÃ¡n hozott Cg.09-09-000647/60. szÃ¡mÃº vÃ©gzÃ©sÃ©t hivatalbÃ³l kiegÃ©szÃ­teni rendeli az alÃ¡bbiak szerint:<ujsor/>
+7. A cÃ©g fiÃ³ktelepe(i)<ujsor/>
+HU 4087 HajdÃºdorog, BÃ¶szÃ¶rmÃ©nyi Ãºt 18.<ujsor/>
+VÃ¡lt. vÃ©ge: 2008.06.27.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2011. oktÃ³ber 10.<ujsor/>
+E vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye, azonban az Ã¼gyÃ©sz, tovÃ¡bbÃ¡ az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s Å‘t Ã©rintÅ‘ rÃ©szÃ©re vonatkozÃ³an - pert indÃ­that a cÃ©g ellen a cÃ©g szÃ©khelye szerint illetÃ©kes megyei bÃ­rÃ³sÃ¡g elÅ‘tt a bejegyzÅ‘ vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt.<ujsor/>
+A per megindÃ­tÃ¡sÃ¡nak a bejegyzÅ‘ vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l, illetve - kÃ¶zzÃ©tÃ©teli kÃ¶telezettsÃ©g hiÃ¡nyÃ¡ban - annak kÃ©zbesÃ­tÃ©sÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l van helye. A hatÃ¡ridÅ‘ elmulasztÃ¡sa jogvesztÃ©ssel jÃ¡r.<ujsor/>
+2011. oktÃ³ber 10.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0909000647</mezo>
-<mezo id = "nev">NYAK-ÉP Épitõipari Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">4080 Hajdúnánás, Dorogi út 01125/69.</mezo>
+<mezo id = "nev">NYAK-Ã‰P Ã‰pitÅ‘ipari SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">4080 HajdÃºnÃ¡nÃ¡s, Dorogi Ãºt 01125/69.</mezo>
 <mezo id = "adosz">10490165209</mezo>
 </alrovat>
 </rovat>

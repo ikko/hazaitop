@@ -6,7 +6,7 @@
 <mezo id = "szam">044120</mezo>
 <mezo id = "nevalrovat">2</mezo>
 <mezo id = "regi_szh">1110001547</mezo>
-<mezo id = "cim">1126 Budapest, Királyhágó tér 8-9. </mezo>
+<mezo id = "cim">1126 Budapest, KirÃ¡lyhÃ¡gÃ³ tÃ©r 8-9. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">11478175243</mezo>
 </alrovat>
@@ -14,7 +14,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20061004</mezo>
-<mezo id = "nev">Budapest Mikroelektronika Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">Budapest Mikroelektronika ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -38,14 +38,14 @@
 <mezo id = "hattol">20020815</mezo>
 <mezo id = "irsz">1126</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Királyhágó tér 8-9.</mezo>
+<mezo id = "teru">KirÃ¡lyhÃ¡gÃ³ tÃ©r 8-9.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "7">
 <alrovat id = "2">
 <mezo id = "hattol">20090429</mezo>
 <mezo id = "irsz">2074</mezo>
-<mezo id = "hely">Perbál, Belterület 1113/1 hrsz.</mezo>
+<mezo id = "hely">PerbÃ¡l, BelterÃ¼let 1113/1 hrsz.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20090429</mezo>
 <mezo id = "valtv">0</mezo>
@@ -534,21 +534,21 @@
 <rovat id = "13">
 <alrovat id = "6">
 <mezo id = "hattol">20000529</mezo>
-<mezo id = "tiszt">vezérigazgató</mezo>
-<mezo id = "pnev">Czakó György</mezo>
-<mezo id = "panev">Béli Terézia</mezo>
+<mezo id = "tiszt">vezÃ©rigazgatÃ³</mezo>
+<mezo id = "pnev">CzakÃ³ GyÃ¶rgy</mezo>
+<mezo id = "panev">BÃ©li TerÃ©zia</mezo>
 <mezo id = "pirsz">2251</mezo>
-<mezo id = "phely">Tápiószecsõ</mezo>
-<mezo id = "pteru">Sági út 37.</mezo>
+<mezo id = "phely">TÃ¡piÃ³szecsÅ‘</mezo>
+<mezo id = "pteru">SÃ¡gi Ãºt 37.</mezo>
 </alrovat>
 <alrovat id = "13">
 <mezo id = "hattol">20110603</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (vezérigazgató)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (vezÃ©rigazgatÃ³)</mezo>
 <mezo id = "pnev">Dr. Lendvay Lajos</mezo>
 <mezo id = "panev">Osztroviczky Gizella</mezo>
 <mezo id = "pirsz">1141</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Fogarasi út 212.</mezo>
+<mezo id = "pteru">Fogarasi Ãºt 212.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20110603</mezo>
 <mezo id = "valtk">20110603</mezo>
@@ -559,11 +559,11 @@
 <rovat id = "14">
 <alrovat id = "6">
 <mezo id = "hattol">20110530</mezo>
-<mezo id = "pnev">Dr. Balla István</mezo>
+<mezo id = "pnev">Dr. Balla IstvÃ¡n</mezo>
 <mezo id = "panev">Benedek Veronika</mezo>
 <mezo id = "pirsz">1038</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Rózsadomb köz 64754.</mezo>
+<mezo id = "pteru">RÃ³zsadomb kÃ¶z 64754.</mezo>
 <mezo id = "jogvk">20110530</mezo>
 <mezo id = "jogvv">20130531</mezo>
 <mezo id = "valtk">20110530</mezo>
@@ -589,7 +589,7 @@
 <mezo id = "adosz">11478175243</mezo>
 <mezo id = "kadosz">HU11478175</mezo>
 <mezo id = "bkelt">20110715</mezo>
-<mezo id = "megj">Státusz kezdete: 1997/11/05</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 1997/11/05</mezo>
 </alrovat>
 </rovat>
 <rovat id = "93">
@@ -601,33 +601,33 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2000. 06. 30-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. Czakó György (an: Béli Terézia) vezérigazgató<ujsor/>
-2251 Tápiószecsõ, Sági út 37.<ujsor/>
- Törölve: 2000. 05. 29-i hatállyal.<ujsor/>
- Czikó György (an: Béli Terézia) vezérigazgató<ujsor/>
-2251 Tápiószecsõ, Sági út 37.<ujsor/>
- Hatályos: 2000. 05. 29-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2000. 06. 30-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. CzakÃ³ GyÃ¶rgy (an: BÃ©li TerÃ©zia) vezÃ©rigazgatÃ³<ujsor/>
+2251 TÃ¡piÃ³szecsÅ‘, SÃ¡gi Ãºt 37.<ujsor/>
+ TÃ¶rÃ¶lve: 2000. 05. 29-i hatÃ¡llyal.<ujsor/>
+ CzikÃ³ GyÃ¶rgy (an: BÃ©li TerÃ©zia) vezÃ©rigazgatÃ³<ujsor/>
+2251 TÃ¡piÃ³szecsÅ‘, SÃ¡gi Ãºt 37.<ujsor/>
+ HatÃ¡lyos: 2000. 05. 29-tÅ‘l.<ujsor/>
 Bejegyezve: 2000. 09. 05.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044120</mezo>
-<mezo id = "nev">Budapest Mikroelektronika Részvénytársaság</mezo>
-<mezo id = "cim">1142 Budapest, Ungvár u. 64-66.</mezo>
+<mezo id = "nev">Budapest Mikroelektronika RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1142 Budapest, UngvÃ¡r u. 64-66.</mezo>
 <mezo id = "adosz">11478175242</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2000. 06. 30-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2000. 06. 30-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
 20. 11478175-7220-114-01.<ujsor/>
- Törölve: 2000. 09. 05-i hatállyal.<ujsor/>
+ TÃ¶rÃ¶lve: 2000. 09. 05-i hatÃ¡llyal.<ujsor/>
  11478175-7260-114-01.<ujsor/>
- Hatályos: 2000. 09. 05-tõl.<ujsor/>
+ HatÃ¡lyos: 2000. 09. 05-tÅ‘l.<ujsor/>
 Bejegyezve: 2000. 09. 05.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044120</mezo>
-<mezo id = "nev">Budapest Mikroelektronika Részvénytársaság</mezo>
-<mezo id = "cim">1142 Budapest, Ungvár u. 64-66.</mezo>
+<mezo id = "nev">Budapest Mikroelektronika RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1142 Budapest, UngvÃ¡r u. 64-66.</mezo>
 <mezo id = "adosz">11478175242</mezo>
 </alrovat>
 </rovat>

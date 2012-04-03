@@ -5,7 +5,7 @@
 <mezo id = "cf">06</mezo>
 <mezo id = "szam">009815</mezo>
 <mezo id = "nevalrovat">2</mezo>
-<mezo id = "cim">6723 Szeged, Rózsa utca 6. </mezo>
+<mezo id = "cim">6723 Szeged, RÃ³zsa utca 6. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">21765041206</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20110201</mezo>
-<mezo id = "nev">CSÜLÖK 98. Kereskedelmi Betéti Társaság &quot;va&quot;</mezo>
+<mezo id = "nev">CSÃœLÃ–K 98. Kereskedelmi BetÃ©ti TÃ¡rsasÃ¡g &quot;va&quot;</mezo>
 <mezo id = "valtk">20110201</mezo>
 <mezo id = "bkelt">20110811</mezo>
 </alrovat>
@@ -21,7 +21,7 @@
 <rovat id = "3">
 <alrovat id = "2">
 <mezo id = "hattol">20110201</mezo>
-<mezo id = "nev">CSÜLÖK 98 Bt. &quot;v.a.&quot;</mezo>
+<mezo id = "nev">CSÃœLÃ–K 98 Bt. &quot;v.a.&quot;</mezo>
 <mezo id = "valtk">20110201</mezo>
 <mezo id = "bkelt">20110811</mezo>
 </alrovat>
@@ -31,7 +31,7 @@
 <mezo id = "hattol">20091009</mezo>
 <mezo id = "irsz">6723</mezo>
 <mezo id = "hely">Szeged</mezo>
-<mezo id = "teru">Rózsa utca 6.</mezo>
+<mezo id = "teru">RÃ³zsa utca 6.</mezo>
 <mezo id = "valtk">20091009</mezo>
 <mezo id = "bkelt">20091210</mezo>
 </alrovat>
@@ -41,7 +41,7 @@
 <mezo id = "hattol">20091009</mezo>
 <mezo id = "irsz">6726</mezo>
 <mezo id = "hely">Szeged</mezo>
-<mezo id = "teru">Fõ fasor 105.</mezo>
+<mezo id = "teru">FÅ‘ fasor 105.</mezo>
 <mezo id = "valtk">20091009</mezo>
 <mezo id = "bkelt">20091210</mezo>
 </alrovat>
@@ -312,19 +312,19 @@
 <mezo id = "hattol">20091009</mezo>
 <mezo id = "valtk">20091009</mezo>
 <mezo id = "bkelt">20091210</mezo>
-<mezo id = "teaszov">Taxis személyszállítás</mezo>
+<mezo id = "teaszov">Taxis szemÃ©lyszÃ¡llÃ­tÃ¡s</mezo>
 </alrovat>
 <alrovat id = "56">
 <mezo id = "hattol">20091009</mezo>
 <mezo id = "valtk">20091009</mezo>
 <mezo id = "bkelt">20091210</mezo>
-<mezo id = "teaszov">Személygépjármû kölcsönzése</mezo>
+<mezo id = "teaszov">SzemÃ©lygÃ©pjÃ¡rmÅ± kÃ¶lcsÃ¶nzÃ©se</mezo>
 </alrovat>
 <alrovat id = "57">
 <mezo id = "hattol">20091009</mezo>
 <mezo id = "valtk">20091009</mezo>
 <mezo id = "bkelt">20091210</mezo>
-<mezo id = "teaszov">Gépjármûkölcsönzés (3,5 tonna fölött)</mezo>
+<mezo id = "teaszov">GÃ©pjÃ¡rmÅ±kÃ¶lcsÃ¶nzÃ©s (3,5 tonna fÃ¶lÃ¶tt)</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -339,12 +339,12 @@
 <rovat id = "13">
 <alrovat id = "6">
 <mezo id = "hattol">20110201</mezo>
-<mezo id = "tiszt">végelszámoló</mezo>
-<mezo id = "pnev">Gargács András</mezo>
+<mezo id = "tiszt">vÃ©gelszÃ¡molÃ³</mezo>
+<mezo id = "pnev">GargÃ¡cs AndrÃ¡s</mezo>
 <mezo id = "panev">Borsos Margit</mezo>
 <mezo id = "pirsz">6750</mezo>
-<mezo id = "phely">Algyõ</mezo>
-<mezo id = "pteru">Lõrinc utca 44.</mezo>
+<mezo id = "phely">AlgyÅ‘</mezo>
+<mezo id = "pteru">LÅ‘rinc utca 44.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20110201</mezo>
 <mezo id = "jogvv">20110530</mezo>
@@ -370,7 +370,7 @@
 <alrovat id = "4">
 <mezo id = "adosz">21765041206</mezo>
 <mezo id = "bkelt">20110601</mezo>
-<mezo id = "megj">Adószám státusza: érvényes adószám</mezo>
+<mezo id = "megj">AdÃ³szÃ¡m stÃ¡tusza: Ã©rvÃ©nyes adÃ³szÃ¡m</mezo>
 </alrovat>
 </rovat>
 <rovat id = "26">
@@ -386,10 +386,10 @@
 <rovat id = "0106">
 <alrovat id = "3">
 <mezo id = "hattol">20080515</mezo>
-<mezo id = "pnev">Gargács-Acsai Anikó</mezo>
+<mezo id = "pnev">GargÃ¡cs-Acsai AnikÃ³</mezo>
 <mezo id = "panev">Novodonszky Krisztina</mezo>
 <mezo id = "pirsz">6750</mezo>
-<mezo id = "phely">Algyõ, Lõrinc u. 44.</mezo>
+<mezo id = "phely">AlgyÅ‘, LÅ‘rinc u. 44.</mezo>
 <mezo id = "tagsk">19980316</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20080515</mezo>
@@ -399,10 +399,10 @@
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20080515</mezo>
-<mezo id = "pnev">Gargács András</mezo>
+<mezo id = "pnev">GargÃ¡cs AndrÃ¡s</mezo>
 <mezo id = "panev">Borsos Margit</mezo>
 <mezo id = "pirsz">6750</mezo>
-<mezo id = "phely">Algyõ, Lõrinc u. 44.</mezo>
+<mezo id = "phely">AlgyÅ‘, LÅ‘rinc u. 44.</mezo>
 <mezo id = "tagsk">20080515</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20080515</mezo>
@@ -433,16 +433,16 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Csongrád Megyei Bíróságnál mint Cégbíróságnál bejegyzett CSÜLÖK 98. Kereskedelmi Betéti Társaság (Cg.: [06 06 009815]; 6723 Szeged, Rózsa u. 6.; adószám: [21765041-2-06]) a cégnyilvánosságról, bírósági eljárásról és végelszámolásról szóló 2006. évi V. törvény 98. § (1) bekezdése alapján elhatározta jogutód nélküli megszûnését<ujsor/>
-egyszerûsített végelszámolással.<ujsor/>
-A végelszámolás megindítását elrendelõ határozat kelte: 2011. január 31.<ujsor/>
-A végelszámolás kezdõ idõpontja: 2011. február 1.<ujsor/>
-Végelszámoló: Gargács András (a. n.: Borsos Margit; 6750 Algyõ, Lõrinc u. 44.).<ujsor/>
-A korábbi vezetõ tisztségviselõ (képviselõ) jogviszonya: 2011. január 31-én megszûnt.<ujsor/>
-A végelszámoló felhívja a hitelezõk figyelmét, hogy követeléseiket a 2006. évi V. törvény 102. § (2) bekezdésében foglaltak szerint a közzétételtõl számított 40 napon belül jelentsék be.<ujsor/>
+<mezo id = "szoveg">A CsongrÃ¡d Megyei BÃ­rÃ³sÃ¡gnÃ¡l mint CÃ©gbÃ­rÃ³sÃ¡gnÃ¡l bejegyzett CSÃœLÃ–K 98. Kereskedelmi BetÃ©ti TÃ¡rsasÃ¡g (Cg.: [06 06 009815]; 6723 Szeged, RÃ³zsa u. 6.; adÃ³szÃ¡m: [21765041-2-06]) a cÃ©gnyilvÃ¡nossÃ¡grÃ³l, bÃ­rÃ³sÃ¡gi eljÃ¡rÃ¡srÃ³l Ã©s vÃ©gelszÃ¡molÃ¡srÃ³l szÃ³lÃ³ 2006. Ã©vi V. tÃ¶rvÃ©ny 98. Â§ (1) bekezdÃ©se alapjÃ¡n elhatÃ¡rozta jogutÃ³d nÃ©lkÃ¼li megszÅ±nÃ©sÃ©t<ujsor/>
+egyszerÅ±sÃ­tett vÃ©gelszÃ¡molÃ¡ssal.<ujsor/>
+A vÃ©gelszÃ¡molÃ¡s megindÃ­tÃ¡sÃ¡t elrendelÅ‘ hatÃ¡rozat kelte: 2011. januÃ¡r 31.<ujsor/>
+A vÃ©gelszÃ¡molÃ¡s kezdÅ‘ idÅ‘pontja: 2011. februÃ¡r 1.<ujsor/>
+VÃ©gelszÃ¡molÃ³: GargÃ¡cs AndrÃ¡s (a. n.: Borsos Margit; 6750 AlgyÅ‘, LÅ‘rinc u. 44.).<ujsor/>
+A korÃ¡bbi vezetÅ‘ tisztsÃ©gviselÅ‘ (kÃ©pviselÅ‘) jogviszonya: 2011. januÃ¡r 31-Ã©n megszÅ±nt.<ujsor/>
+A vÃ©gelszÃ¡molÃ³ felhÃ­vja a hitelezÅ‘k figyelmÃ©t, hogy kÃ¶vetelÃ©seiket a 2006. Ã©vi V. tÃ¶rvÃ©ny 102. Â§ (2) bekezdÃ©sÃ©ben foglaltak szerint a kÃ¶zzÃ©tÃ©teltÅ‘l szÃ¡mÃ­tott 40 napon belÃ¼l jelentsÃ©k be.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0606009815</mezo>
-<mezo id = "nev">CSÜLÖK 98. Kereskedelmi Betéti Társaság</mezo>
+<mezo id = "nev">CSÃœLÃ–K 98. Kereskedelmi BetÃ©ti TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">6723 Szeged</mezo>
 </alrovat>
 </rovat>

@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">860542</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">1027 Budapest, Frankel Leó út 6. fsz 3. </mezo>
+<mezo id = "cim">1027 Budapest, Frankel LeÃ³ Ãºt 6. fsz 3. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">13540056241</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20050802</mezo>
-<mezo id = "nev">MAIEUTIKA Gazdasági Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">MAIEUTIKA GazdasÃ¡gi TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -27,7 +27,7 @@
 <mezo id = "hattol">20090515</mezo>
 <mezo id = "irsz">1027</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Frankel Leó út 6. fsz 3.</mezo>
+<mezo id = "teru">Frankel LeÃ³ Ãºt 6. fsz 3.</mezo>
 <mezo id = "valtk">20090515</mezo>
 <mezo id = "bkelt">20090526</mezo>
 </alrovat>
@@ -36,7 +36,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20050802</mezo>
 <mezo id = "irsz">5561</mezo>
-<mezo id = "hely">Békésszentandrás, III. ker 13.</mezo>
+<mezo id = "hely">BÃ©kÃ©sszentandrÃ¡s, III. ker 13.</mezo>
 <mezo id = "orsz">HU</mezo>
 </alrovat>
 </rovat>
@@ -837,12 +837,12 @@
 <rovat id = "13">
 <alrovat id = "6">
 <mezo id = "hattol">20101104</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Pribela Tamás</mezo>
-<mezo id = "panev">Bertalan Gyöngyi</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Pribela TamÃ¡s</mezo>
+<mezo id = "panev">Bertalan GyÃ¶ngyi</mezo>
 <mezo id = "pirsz">1192</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Dobó Katica utca 72.</mezo>
+<mezo id = "pteru">DobÃ³ Katica utca 72.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20101104</mezo>
 <mezo id = "valtk">20101104</mezo>
@@ -851,12 +851,12 @@
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">20110422</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (üzletvezetésre jogosult tag)</mezo>
-<mezo id = "pnev">Kovács Anna Teréz</mezo>
-<mezo id = "panev">Török Ilona</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼zletvezetÃ©sre jogosult tag)</mezo>
+<mezo id = "pnev">KovÃ¡cs Anna TerÃ©z</mezo>
+<mezo id = "panev">TÃ¶rÃ¶k Ilona</mezo>
 <mezo id = "pirsz">1095</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Tinódi utca 12. 6. em. 3.</mezo>
+<mezo id = "pteru">TinÃ³di utca 12. 6. em. 3.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20110422</mezo>
 <mezo id = "valtk">20110422</mezo>
@@ -875,17 +875,17 @@
 <mezo id = "adosz">13540056241</mezo>
 <mezo id = "kadosz">HU13540056</mezo>
 <mezo id = "bkelt">20110726</mezo>
-<mezo id = "megj">Státusz kezdete: 2005/07/13</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 2005/07/13</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0109">
 <alrovat id = "7">
 <mezo id = "hattol">20101104</mezo>
-<mezo id = "pnev">Pribela Tamás</mezo>
-<mezo id = "panev">Bertalan Gyöngyi</mezo>
+<mezo id = "pnev">Pribela TamÃ¡s</mezo>
+<mezo id = "panev">Bertalan GyÃ¶ngyi</mezo>
 <mezo id = "pirsz">1192</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Dobó Katica utca 72.</mezo>
+<mezo id = "pteru">DobÃ³ Katica utca 72.</mezo>
 <mezo id = "tagsk">20050629</mezo>
 <mezo id = "sz1">x</mezo>
 <mezo id = "valtk">20101104</mezo>
@@ -893,11 +893,11 @@
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">20110422</mezo>
-<mezo id = "pnev">Kovács Anna Teréz</mezo>
-<mezo id = "panev">Török Ilona</mezo>
+<mezo id = "pnev">KovÃ¡cs Anna TerÃ©z</mezo>
+<mezo id = "panev">TÃ¶rÃ¶k Ilona</mezo>
 <mezo id = "pirsz">1095</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Tinódi utca 12. 6. em. 3.</mezo>
+<mezo id = "pteru">TinÃ³di utca 12. 6. em. 3.</mezo>
 <mezo id = "tagsk">20110422</mezo>
 <mezo id = "valtk">20110422</mezo>
 <mezo id = "bkelt">20110603</mezo>
@@ -907,46 +907,46 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság a Cg.01-09-860542 cégjegyzékszámon bejegyzett MAIEUTIKA Gazdasági Tanácsadó Korlátolt Felelõsségû Társaság (1027 Budapest, Frankel Leó út 6. fsz 3.; adószáma: 13540056-2-41) kérelme alapján elrendeli az 2011. január 3. napján hozott Cg.01-09-860542 /33. számú végzésének kijavítását az alábbiak szerint:<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.01-09-860542 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett MAIEUTIKA GazdasÃ¡gi TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (1027 Budapest, Frankel LeÃ³ Ãºt 6. fsz 3.; adÃ³szÃ¡ma: 13540056-2-41) kÃ©relme alapjÃ¡n elrendeli az 2011. januÃ¡r 3. napjÃ¡n hozott Cg.01-09-860542 /33. szÃ¡mÃº vÃ©gzÃ©sÃ©nek kijavÃ­tÃ¡sÃ¡t az alÃ¡bbiak szerint:<ujsor/>
 1(09) A tag(ok) adatai<ujsor/>
-A szavazati jog mértéke meghaladja az 50%-ot.<ujsor/>
-Pribela Tamás (an.: Bertalan Gyöngyi)<ujsor/>
-1192 Budapest, Dobó Katica utca 72.<ujsor/>
+A szavazati jog mÃ©rtÃ©ke meghaladja az 50%-ot.<ujsor/>
+Pribela TamÃ¡s (an.: Bertalan GyÃ¶ngyi)<ujsor/>
+1192 Budapest, DobÃ³ Katica utca 72.<ujsor/>
 Tags. kezdete: 2005.06.29.<ujsor/>
-Vált. vége: 2011.11.04.<ujsor/>
-Törölve (végzés kelte): 2011. január 10.<ujsor/>
-A szavazati jog mértéke meghaladja az 50%-ot.<ujsor/>
-Pribela Tamás (an.: Bertalan Gyöngyi)<ujsor/>
-1192 Budapest, Dobó Katica utca 72.<ujsor/>
+VÃ¡lt. vÃ©ge: 2011.11.04.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2011. januÃ¡r 10.<ujsor/>
+A szavazati jog mÃ©rtÃ©ke meghaladja az 50%-ot.<ujsor/>
+Pribela TamÃ¡s (an.: Bertalan GyÃ¶ngyi)<ujsor/>
+1192 Budapest, DobÃ³ Katica utca 72.<ujsor/>
 Tags. kezdete: 2005.06.29.<ujsor/>
-Vált. kezdete: 2010.11.04.<ujsor/>
-Bejegyezve (végzés kelte): 2011. január 10.<ujsor/>
-E végzés ellen fellebbezésnek nincs helye, azonban az ügyész, továbbá az, akire a végzés rendelkezést tartalmaz - a rendelkezés õt érintõ részére vonatkozóan - pert indíthat a cég ellen a cég székhelye szerint illetékes megyei bíróság elõtt a bejegyzõ végzés hatályon kívül helyezése iránt.<ujsor/>
-A per megindításának a bejegyzõ végzés Cégközlönyben való közzétételétõl, illetve - közzétételi kötelezettség hiányában - annak kézbesítésétõl számított 30 napon belül van helye. A határidõ elmulasztása jogvesztéssel jár.<ujsor/>
-2011. január 10.<ujsor/>
+VÃ¡lt. kezdete: 2010.11.04.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2011. januÃ¡r 10.<ujsor/>
+E vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye, azonban az Ã¼gyÃ©sz, tovÃ¡bbÃ¡ az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s Å‘t Ã©rintÅ‘ rÃ©szÃ©re vonatkozÃ³an - pert indÃ­that a cÃ©g ellen a cÃ©g szÃ©khelye szerint illetÃ©kes megyei bÃ­rÃ³sÃ¡g elÅ‘tt a bejegyzÅ‘ vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt.<ujsor/>
+A per megindÃ­tÃ¡sÃ¡nak a bejegyzÅ‘ vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l, illetve - kÃ¶zzÃ©tÃ©teli kÃ¶telezettsÃ©g hiÃ¡nyÃ¡ban - annak kÃ©zbesÃ­tÃ©sÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l van helye. A hatÃ¡ridÅ‘ elmulasztÃ¡sa jogvesztÃ©ssel jÃ¡r.<ujsor/>
+2011. januÃ¡r 10.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109860542</mezo>
-<mezo id = "nev">MAIEUTIKA Gazdasági Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1027 Budapest, Frankel Leó út 6. fsz 3.</mezo>
+<mezo id = "nev">MAIEUTIKA GazdasÃ¡gi TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1027 Budapest, Frankel LeÃ³ Ãºt 6. fsz 3.</mezo>
 <mezo id = "adosz">13540056241</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság a Cg.01-09-860542 cégjegyzékszámon bejegyzett MAIEUTIKA Gazdasági Tanácsadó Korlátolt Felelõsségû Társaság (1027 Budapest, Frankel Leó út 6. fsz 3.; adószáma: 13540056-2-41) kérelme alapján elrendeli az 2011. június 3. napján hozott Cg.01-09-860542 /43. számú végzésének kiegészítését az alábbiak szerint:<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.01-09-860542 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett MAIEUTIKA GazdasÃ¡gi TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (1027 Budapest, Frankel LeÃ³ Ãºt 6. fsz 3.; adÃ³szÃ¡ma: 13540056-2-41) kÃ©relme alapjÃ¡n elrendeli az 2011. jÃºnius 3. napjÃ¡n hozott Cg.01-09-860542 /43. szÃ¡mÃº vÃ©gzÃ©sÃ©nek kiegÃ©szÃ­tÃ©sÃ©t az alÃ¡bbiak szerint:<ujsor/>
 1(09) A tag(ok) adatai<ujsor/>
-Dr. Szõke Sándor (an.: Sztricsek Teréz)<ujsor/>
-6200 Kiskõrös, Kisfaludy utca 4.<ujsor/>
+Dr. SzÅ‘ke SÃ¡ndor (an.: Sztricsek TerÃ©z)<ujsor/>
+6200 KiskÅ‘rÃ¶s, Kisfaludy utca 4.<ujsor/>
 Tags. kezdete: 2011.03.11.<ujsor/>
-Vált. vége: 2011.04.22.<ujsor/>
-Törölve (végzés kelte): 2011. július 21.<ujsor/>
-E végzés ellen fellebbezésnek nincs helye, azonban az ügyész, továbbá az, akire a végzés rendelkezést tartalmaz - a rendelkezés õt érintõ részére vonatkozóan - pert indíthat a cég ellen a cég székhelye szerint illetékes megyei bíróság elõtt a bejegyzõ végzés hatályon kívül helyezése iránt.<ujsor/>
-A per megindításának a bejegyzõ végzés Cégközlönyben való közzétételétõl, illetve - közzétételi kötelezettség hiányában - annak kézbesítésétõl számított 30 napon belül van helye. A határidõ elmulasztása jogvesztéssel jár.<ujsor/>
-2011. július 21.<ujsor/>
+VÃ¡lt. vÃ©ge: 2011.04.22.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2011. jÃºlius 21.<ujsor/>
+E vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye, azonban az Ã¼gyÃ©sz, tovÃ¡bbÃ¡ az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s Å‘t Ã©rintÅ‘ rÃ©szÃ©re vonatkozÃ³an - pert indÃ­that a cÃ©g ellen a cÃ©g szÃ©khelye szerint illetÃ©kes megyei bÃ­rÃ³sÃ¡g elÅ‘tt a bejegyzÅ‘ vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt.<ujsor/>
+A per megindÃ­tÃ¡sÃ¡nak a bejegyzÅ‘ vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l, illetve - kÃ¶zzÃ©tÃ©teli kÃ¶telezettsÃ©g hiÃ¡nyÃ¡ban - annak kÃ©zbesÃ­tÃ©sÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l van helye. A hatÃ¡ridÅ‘ elmulasztÃ¡sa jogvesztÃ©ssel jÃ¡r.<ujsor/>
+2011. jÃºlius 21.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109860542</mezo>
-<mezo id = "nev">MAIEUTIKA Gazdasági Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1027 Budapest, Frankel Leó út 6. fsz 3.</mezo>
+<mezo id = "nev">MAIEUTIKA GazdasÃ¡gi TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1027 Budapest, Frankel LeÃ³ Ãºt 6. fsz 3.</mezo>
 <mezo id = "adosz">13540056241</mezo>
 </alrovat>
 </rovat>

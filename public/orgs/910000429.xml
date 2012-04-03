@@ -5,7 +5,7 @@
 <mezo id = "cf">10</mezo>
 <mezo id = "szam">000429</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">4220 Hajdúböszörmény, Petõfi u 17. fszt 3. </mezo>
+<mezo id = "cim">4220 HajdÃºbÃ¶szÃ¶rmÃ©ny, PetÅ‘fi u 17. fszt 3. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">14370155209</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20080710</mezo>
-<mezo id = "nev">HUNVAL Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">HUNVAL ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20080710</mezo>
@@ -34,8 +34,8 @@
 <alrovat id = "3">
 <mezo id = "hattol">20090831</mezo>
 <mezo id = "irsz">4220</mezo>
-<mezo id = "hely">Hajdúböszörmény</mezo>
-<mezo id = "teru">Petõfi u 17. fszt 3.</mezo>
+<mezo id = "hely">HajdÃºbÃ¶szÃ¶rmÃ©ny</mezo>
+<mezo id = "teru">PetÅ‘fi u 17. fszt 3.</mezo>
 <mezo id = "valtk">20090831</mezo>
 <mezo id = "bkelt">20090917</mezo>
 </alrovat>
@@ -45,7 +45,7 @@
 <mezo id = "hattol">20110606</mezo>
 <mezo id = "irsz">4032</mezo>
 <mezo id = "hely">Debrecen</mezo>
-<mezo id = "teru">Egyetem sugárút 60. II. em. 10.</mezo>
+<mezo id = "teru">Egyetem sugÃ¡rÃºt 60. II. em. 10.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20110606</mezo>
 <mezo id = "bkelt">20110610</mezo>
@@ -54,7 +54,7 @@
 <mezo id = "hattol">20110606</mezo>
 <mezo id = "irsz">4024</mezo>
 <mezo id = "hely">Debrecen</mezo>
-<mezo id = "teru">Rákóczi u 42.</mezo>
+<mezo id = "teru">RÃ¡kÃ³czi u 42.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20110606</mezo>
 <mezo id = "bkelt">20110610</mezo>
@@ -427,7 +427,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090515</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Elektronikus háztartási cikk nagykereskedelme</mezo>
+<mezo id = "teaszov">Elektronikus hÃ¡ztartÃ¡si cikk nagykereskedelme</mezo>
 </alrovat>
 <alrovat id = "38">
 <mezo id = "hattol">20090416</mezo>
@@ -445,7 +445,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090515</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Számítógép, periféria, szoftver nagykereskedelme</mezo>
+<mezo id = "teaszov">SzÃ¡mÃ­tÃ³gÃ©p, perifÃ©ria, szoftver nagykereskedelme</mezo>
 </alrovat>
 <alrovat id = "39">
 <mezo id = "hattol">20090416</mezo>
@@ -463,7 +463,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090515</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Elektronikus, híradástechnikai berendezés és alkatrészei nagykereskedelme</mezo>
+<mezo id = "teaszov">Elektronikus, hÃ­radÃ¡stechnikai berendezÃ©s Ã©s alkatrÃ©szei nagykereskedelme</mezo>
 </alrovat>
 <alrovat id = "40">
 <mezo id = "hattol">20090416</mezo>
@@ -481,7 +481,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090515</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb irodagép, -berendezés nagykereskedelme</mezo>
+<mezo id = "teaszov">EgyÃ©b irodagÃ©p, -berendezÃ©s nagykereskedelme</mezo>
 </alrovat>
 <alrovat id = "41">
 <mezo id = "hattol">20090416</mezo>
@@ -499,7 +499,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090515</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb m.n.s. gép, berendezés nagykereskedelme</mezo>
+<mezo id = "teaszov">EgyÃ©b m.n.s. gÃ©p, berendezÃ©s nagykereskedelme</mezo>
 </alrovat>
 <alrovat id = "42">
 <mezo id = "hattol">20090416</mezo>
@@ -517,7 +517,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090515</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Számítógép, periféria, szoftver kiskereskedelme</mezo>
+<mezo id = "teaszov">SzÃ¡mÃ­tÃ³gÃ©p, perifÃ©ria, szoftver kiskereskedelme</mezo>
 </alrovat>
 <alrovat id = "43">
 <mezo id = "hattol">20090416</mezo>
@@ -535,7 +535,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090515</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Telekommunikációs termék kiskereskedelme</mezo>
+<mezo id = "teaszov">TelekommunikÃ¡ciÃ³s termÃ©k kiskereskedelme</mezo>
 </alrovat>
 <alrovat id = "44">
 <mezo id = "hattol">20090416</mezo>
@@ -553,7 +553,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090515</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Audio-, videoberendezés kiskereskedelme</mezo>
+<mezo id = "teaszov">Audio-, videoberendezÃ©s kiskereskedelme</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -572,9 +572,9 @@
 <rovat id = "13">
 <alrovat id = "10">
 <mezo id = "hattol">20100909</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (vezérigazgató)</mezo>
-<mezo id = "pnev">Stercel Károly</mezo>
-<mezo id = "panev">Bai Róza</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (vezÃ©rigazgatÃ³)</mezo>
+<mezo id = "pnev">Stercel KÃ¡roly</mezo>
+<mezo id = "panev">Bai RÃ³za</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100909</mezo>
 <mezo id = "valtk">20100909</mezo>
@@ -596,14 +596,14 @@
 <alrovat id = "2">
 <mezo id = "adosz">14370155209</mezo>
 <mezo id = "bkelt">20110614</mezo>
-<mezo id = "megj">Adószám státusza: érvényes adószám</mezo>
+<mezo id = "megj">AdÃ³szÃ¡m stÃ¡tusza: Ã©rvÃ©nyes adÃ³szÃ¡m</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0110">
 <alrovat id = "10">
 <mezo id = "hattol">20100909</mezo>
-<mezo id = "pnev">Stercel Károly</mezo>
-<mezo id = "panev">Bai Róza</mezo>
+<mezo id = "pnev">Stercel KÃ¡roly</mezo>
+<mezo id = "panev">Bai RÃ³za</mezo>
 <mezo id = "tagsk">20100909</mezo>
 <mezo id = "sz2">x</mezo>
 <mezo id = "valtk">20100909</mezo>

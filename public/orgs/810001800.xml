@@ -5,7 +5,7 @@
 <mezo id = "cf">10</mezo>
 <mezo id = "szam">001800</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">9027 Gyõr (Ipari park 5387/138.hrsz.), Juharfa utca 24. </mezo>
+<mezo id = "cim">9027 GyÅ‘r (Ipari park 5387/138.hrsz.), Juharfa utca 24. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">13769167208</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20060822</mezo>
-<mezo id = "nev">STS GROUP Mérnöki Iroda Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">STS GROUP MÃ©rnÃ¶ki Iroda ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -30,7 +30,7 @@
 <alrovat id = "2">
 <mezo id = "hattol">20091005</mezo>
 <mezo id = "irsz">9027</mezo>
-<mezo id = "hely">Gyõr (Ipari park 5387/138.hrsz.)</mezo>
+<mezo id = "hely">GyÅ‘r (Ipari park 5387/138.hrsz.)</mezo>
 <mezo id = "teru">Juharfa utca 24.</mezo>
 <mezo id = "valtk">20091005</mezo>
 <mezo id = "bkelt">20091113</mezo>
@@ -40,7 +40,7 @@
 <alrovat id = "2">
 <mezo id = "hattol">20060822</mezo>
 <mezo id = "irsz">9024</mezo>
-<mezo id = "hely">Gyõr, Babits M. u. 17/A.</mezo>
+<mezo id = "hely">GyÅ‘r, Babits M. u. 17/A.</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -49,7 +49,7 @@
 <alrovat id = "2">
 <mezo id = "hattol">20070814</mezo>
 <mezo id = "irsz">9330</mezo>
-<mezo id = "hely">Kapuvár, Gyõri u. 33.</mezo>
+<mezo id = "hely">KapuvÃ¡r, GyÅ‘ri u. 33.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20070524</mezo>
 <mezo id = "valtv">0</mezo>
@@ -58,7 +58,7 @@
 <mezo id = "hattol">20091005</mezo>
 <mezo id = "irsz">9091</mezo>
 <mezo id = "hely">Ravazd</mezo>
-<mezo id = "teru">Pannonhalmi út 1.</mezo>
+<mezo id = "teru">Pannonhalmi Ãºt 1.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20091005</mezo>
 <mezo id = "bkelt">20091113</mezo>
@@ -67,7 +67,7 @@
 <mezo id = "hattol">20100805</mezo>
 <mezo id = "irsz">1021</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Hûvösvölgyi út 54.</mezo>
+<mezo id = "teru">HÅ±vÃ¶svÃ¶lgyi Ãºt 54.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20100805</mezo>
 <mezo id = "bkelt">20100920</mezo>
@@ -231,7 +231,7 @@
 </alrovat>
 <alrovat id = "16">
 <mezo id = "hattol">20060822</mezo>
-<mezo id = "sznev">(adószakértés és könyvvizsgálat nem)</mezo>
+<mezo id = "sznev">(adÃ³szakÃ©rtÃ©s Ã©s kÃ¶nyvvizsgÃ¡lat nem)</mezo>
 <mezo id = "hengk1">0</mezo>
 <mezo id = "hengv1">0</mezo>
 <mezo id = "hengk2">0</mezo>
@@ -636,12 +636,12 @@
 <rovat id = "13">
 <alrovat id = "9">
 <mezo id = "hattol">20091005</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Gyepes Tamás</mezo>
-<mezo id = "panev">Glázer Mária</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">Gyepes TamÃ¡s</mezo>
+<mezo id = "panev">GlÃ¡zer MÃ¡ria</mezo>
 <mezo id = "pirsz">9011</mezo>
-<mezo id = "phely">Gyõr</mezo>
-<mezo id = "pteru">Gólyarét utca 18.</mezo>
+<mezo id = "phely">GyÅ‘r</mezo>
+<mezo id = "pteru">GÃ³lyarÃ©t utca 18.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20090201</mezo>
 <mezo id = "jogvv">20140201</mezo>
@@ -650,8 +650,8 @@
 </alrovat>
 <alrovat id = "12">
 <mezo id = "hattol">20100603</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Csobán Pál</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">CsobÃ¡n PÃ¡l</mezo>
 <mezo id = "panev">Szikora Judit</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20100603</mezo>
@@ -662,7 +662,7 @@
 </alrovat>
 <alrovat id = "13">
 <mezo id = "hattol">20100603</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
 <mezo id = "pnev">Badacsonyi Gyula</mezo>
 <mezo id = "panev">Margit Piroska</mezo>
 <mezo id = "kepve">x</mezo>
@@ -677,16 +677,16 @@
 <alrovat id = "3">
 <mezo id = "hattol">20110601</mezo>
 <mezo id = "cgjsz">0109867785</mezo>
-<mezo id = "nev">BDO Magyarország Könyvvizsgáló Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">BDO MagyarorszÃ¡g KÃ¶nyvvizsgÃ¡lÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1126</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Nagy Jenõ utca 10.</mezo>
+<mezo id = "teru">Nagy JenÅ‘ utca 10.</mezo>
 <mezo id = "pnev">Baumgartner Ferenc</mezo>
 <mezo id = "panev">Szajki Margit</mezo>
 <mezo id = "pirsz">1037</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Kunigunda útja 22.</mezo>
+<mezo id = "pteru">Kunigunda Ãºtja 22.</mezo>
 <mezo id = "jogvk">20110601</mezo>
 <mezo id = "jogvv">20120531</mezo>
 <mezo id = "valtk">20110601</mezo>
@@ -697,7 +697,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20060822</mezo>
 <mezo id = "cgjsz">809010506</mezo>
-<mezo id = "nev">STS GROUP Mérnöki Iroda Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">STS GROUP MÃ©rnÃ¶ki Iroda KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "20">
@@ -711,18 +711,18 @@
 <mezo id = "adosz">13769167208</mezo>
 <mezo id = "kadosz">HU13769167</mezo>
 <mezo id = "bkelt">20110726</mezo>
-<mezo id = "megj">Státusz kezdete: 2006/06/29</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 2006/06/29</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0110">
 <alrovat id = "5">
 <mezo id = "hattol">20100621</mezo>
 <mezo id = "cgjsz">0710001107</mezo>
-<mezo id = "nev">VIDEOTON HOLDING Zártkörûen mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">VIDEOTON HOLDING ZÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">8000</mezo>
-<mezo id = "hely">Székesfehérvár</mezo>
-<mezo id = "teru">Berényi u. 72-100.</mezo>
+<mezo id = "hely">SzÃ©kesfehÃ©rvÃ¡r</mezo>
+<mezo id = "teru">BerÃ©nyi u. 72-100.</mezo>
 <mezo id = "tagsk">20100621</mezo>
 <mezo id = "sz1">x</mezo>
 <mezo id = "valtk">20100621</mezo>
@@ -733,51 +733,51 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Gyõr-Moson-Sopron Megyei Bíróság mint Cégbíróság a Cg.08-10-001800 cégjegyzékszámon bejegyzett STS GROUP Mérnöki Iroda Zártkörûen Mûködõ Részvénytársaság (9011 Gyõr, Gólyarét utca 18.; adószáma: 13769167-2-08) kérelme alapján elrendeli az 2009. május 22. napján hozott Cg.08-10-001800 /30. számú végzésének kiegészítését az alábbiak szerint:<ujsor/>
-13. A képviseletre jogosult(ak) adatai<ujsor/>
-A képviselet módja: önálló.<ujsor/>
-Szalay Zsolt vezetõ tisztségviselõ (igazgatósági tag) (an.: Kiss Katalin)<ujsor/>
-9024 Gyõr, Dankó P tér 3-5. C. ép.<ujsor/>
-Jogv. kezdete: 2009.02.01. Jogv. vége: 2014.02.01.<ujsor/>
-Vált. kezdete: 2009.02.01.<ujsor/>
-Bejegyezve (végzés kelte): 2009. június 17.<ujsor/>
-E végzés ellen fellebbezésnek nincs helye, azonban az ügyész, továbbá az, akire a végzés rendelkezést tartalmaz - a rendelkezés õt érintõ részére vonatkozóan - pert indíthat a cég ellen a cég székhelye szerint illetékes megyei bíróság elõtt a bejegyzõ végzés hatályon kívül helyezése iránt.<ujsor/>
-A per megindításának a bejegyzõ végzés Cégközlönyben való közzétételétõl, illetve - közzétételi kötelezettség hiányában - annak kézbesítésétõl számított 30 napon belül van helye. A határidõ elmulasztása jogvesztéssel jár.<ujsor/>
-2009. június 17.<ujsor/>
+<mezo id = "szoveg">A GyÅ‘r-Moson-Sopron Megyei BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.08-10-001800 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett STS GROUP MÃ©rnÃ¶ki Iroda ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (9011 GyÅ‘r, GÃ³lyarÃ©t utca 18.; adÃ³szÃ¡ma: 13769167-2-08) kÃ©relme alapjÃ¡n elrendeli az 2009. mÃ¡jus 22. napjÃ¡n hozott Cg.08-10-001800 /30. szÃ¡mÃº vÃ©gzÃ©sÃ©nek kiegÃ©szÃ­tÃ©sÃ©t az alÃ¡bbiak szerint:<ujsor/>
+13. A kÃ©pviseletre jogosult(ak) adatai<ujsor/>
+A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+Szalay Zsolt vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag) (an.: Kiss Katalin)<ujsor/>
+9024 GyÅ‘r, DankÃ³ P tÃ©r 3-5. C. Ã©p.<ujsor/>
+Jogv. kezdete: 2009.02.01. Jogv. vÃ©ge: 2014.02.01.<ujsor/>
+VÃ¡lt. kezdete: 2009.02.01.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2009. jÃºnius 17.<ujsor/>
+E vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye, azonban az Ã¼gyÃ©sz, tovÃ¡bbÃ¡ az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s Å‘t Ã©rintÅ‘ rÃ©szÃ©re vonatkozÃ³an - pert indÃ­that a cÃ©g ellen a cÃ©g szÃ©khelye szerint illetÃ©kes megyei bÃ­rÃ³sÃ¡g elÅ‘tt a bejegyzÅ‘ vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt.<ujsor/>
+A per megindÃ­tÃ¡sÃ¡nak a bejegyzÅ‘ vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l, illetve - kÃ¶zzÃ©tÃ©teli kÃ¶telezettsÃ©g hiÃ¡nyÃ¡ban - annak kÃ©zbesÃ­tÃ©sÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l van helye. A hatÃ¡ridÅ‘ elmulasztÃ¡sa jogvesztÃ©ssel jÃ¡r.<ujsor/>
+2009. jÃºnius 17.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0810001800</mezo>
-<mezo id = "nev">STS GROUP Mérnöki Iroda Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">9011 Gyõr, Gólyarét utca 18.</mezo>
+<mezo id = "nev">STS GROUP MÃ©rnÃ¶ki Iroda ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">9011 GyÅ‘r, GÃ³lyarÃ©t utca 18.</mezo>
 <mezo id = "adosz">13769167208</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Gyõr-Moson-Sopron Megyei Bíróság mint Cégbíróság a Cg.08-10-001800 cégjegyzékszámon bejegyzett STS GROUP Mérnöki Iroda Zártkörûen Mûködõ Részvénytársaság (9011 Gyõr, Gólyarét utca 18.; adószáma: 13769167-2-08) ügyében az 2009. május 22. napján hozott Cg.08-10-001800/30. számú végzését hivatalból kijavítani rendeli az alábbiak szerint:<ujsor/>
-13. A képviseletre jogosult(ak) adatai<ujsor/>
-A képviselet módja: önálló.<ujsor/>
-Szabó István vezetõ tisztségviselõ (igazgatósági tag) (an.: Németh Etelka)<ujsor/>
-9024 Gyõr, Ikva utca 2. 4. em. 19.<ujsor/>
-Jogv. kezdete: 2009.02.01. Jogv. vége: 2014.02.01.<ujsor/>
-Vált. vége: 2009.02.01.<ujsor/>
-Törölve (végzés kelte): 2009. június 4.<ujsor/>
-A végzés ellen a kézbesítéstõl számított 15 (tizenöt) napon belül a Gyõri Ítélõtáblához címzett, de a Gyõr-Moson-Sopron Megyei Bíróságnál, mint Cégbíróságnál 3 (három) példányban benyújtható fellebbezésnek van helye. A fellebbezés elsõ példányára 7.000.-Ft (hétezer forint) eljárási illetéket kell leróni. A Gyõri Ítélõtábla elõtti eljárásban a fellebbezõ fél részére a jogi képviselet kötelezõ.<ujsor/>
-2009. június 4.<ujsor/>
+<mezo id = "szoveg">A GyÅ‘r-Moson-Sopron Megyei BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.08-10-001800 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett STS GROUP MÃ©rnÃ¶ki Iroda ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (9011 GyÅ‘r, GÃ³lyarÃ©t utca 18.; adÃ³szÃ¡ma: 13769167-2-08) Ã¼gyÃ©ben az 2009. mÃ¡jus 22. napjÃ¡n hozott Cg.08-10-001800/30. szÃ¡mÃº vÃ©gzÃ©sÃ©t hivatalbÃ³l kijavÃ­tani rendeli az alÃ¡bbiak szerint:<ujsor/>
+13. A kÃ©pviseletre jogosult(ak) adatai<ujsor/>
+A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+SzabÃ³ IstvÃ¡n vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag) (an.: NÃ©meth Etelka)<ujsor/>
+9024 GyÅ‘r, Ikva utca 2. 4. em. 19.<ujsor/>
+Jogv. kezdete: 2009.02.01. Jogv. vÃ©ge: 2014.02.01.<ujsor/>
+VÃ¡lt. vÃ©ge: 2009.02.01.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2009. jÃºnius 4.<ujsor/>
+A vÃ©gzÃ©s ellen a kÃ©zbesÃ­tÃ©stÅ‘l szÃ¡mÃ­tott 15 (tizenÃ¶t) napon belÃ¼l a GyÅ‘ri ÃtÃ©lÅ‘tÃ¡blÃ¡hoz cÃ­mzett, de a GyÅ‘r-Moson-Sopron Megyei BÃ­rÃ³sÃ¡gnÃ¡l, mint CÃ©gbÃ­rÃ³sÃ¡gnÃ¡l 3 (hÃ¡rom) pÃ©ldÃ¡nyban benyÃºjthatÃ³ fellebbezÃ©snek van helye. A fellebbezÃ©s elsÅ‘ pÃ©ldÃ¡nyÃ¡ra 7.000.-Ft (hÃ©tezer forint) eljÃ¡rÃ¡si illetÃ©ket kell lerÃ³ni. A GyÅ‘ri ÃtÃ©lÅ‘tÃ¡bla elÅ‘tti eljÃ¡rÃ¡sban a fellebbezÅ‘ fÃ©l rÃ©szÃ©re a jogi kÃ©pviselet kÃ¶telezÅ‘.<ujsor/>
+2009. jÃºnius 4.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0810001800</mezo>
-<mezo id = "nev">STS GROUP Mérnöki Iroda Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">9011 Gyõr, Gólyarét utca 18.</mezo>
+<mezo id = "nev">STS GROUP MÃ©rnÃ¶ki Iroda ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">9011 GyÅ‘r, GÃ³lyarÃ©t utca 18.</mezo>
 <mezo id = "adosz">13769167208</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az STS GROUP Zrt. (Cg.: [08 10 001800]; székhelye: 9027 Gyõr, Juharfa u. 24.) tájékoztatja részvényesét és a tõkepiac további szereplõit, hogy a zrt. részvénykönyvének vezetését a Központi Elszámolóház és Értéktár (Budapest) Zártkörûen Mûködõ Részvénytársaság (Cg.: [01 10 042346]; székhelye: 1075 Budapest, Asbóth u. 9­11.) látja el.<ujsor/>
-A részvénykönyv vezetésére vonatkozó megbízás napja, a részvénykönyvre vonatkozó szerzõdés megkötésének idõpontja: 2010. május 31.<ujsor/>
+<mezo id = "szoveg">Az STS GROUP Zrt. (Cg.: [08 10 001800]; szÃ©khelye: 9027 GyÅ‘r, Juharfa u. 24.) tÃ¡jÃ©koztatja rÃ©szvÃ©nyesÃ©t Ã©s a tÅ‘kepiac tovÃ¡bbi szereplÅ‘it, hogy a zrt. rÃ©szvÃ©nykÃ¶nyvÃ©nek vezetÃ©sÃ©t a KÃ¶zponti ElszÃ¡molÃ³hÃ¡z Ã©s Ã‰rtÃ©ktÃ¡r (Budapest) ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 042346]; szÃ©khelye: 1075 Budapest, AsbÃ³th u. 9Â­11.) lÃ¡tja el.<ujsor/>
+A rÃ©szvÃ©nykÃ¶nyv vezetÃ©sÃ©re vonatkozÃ³ megbÃ­zÃ¡s napja, a rÃ©szvÃ©nykÃ¶nyvre vonatkozÃ³ szerzÅ‘dÃ©s megkÃ¶tÃ©sÃ©nek idÅ‘pontja: 2010. mÃ¡jus 31.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0810001800</mezo>
-<mezo id = "nev">STS GROUP Mérnöki Iroda Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">9027 Gyõr</mezo>
+<mezo id = "nev">STS GROUP MÃ©rnÃ¶ki Iroda ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">9027 GyÅ‘r</mezo>
 </alrovat>
 </rovat>
 <rovat id = "99017">

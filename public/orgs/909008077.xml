@@ -6,14 +6,14 @@
 <mezo id = "szam">008077</mezo>
 <mezo id = "nevalrovat">2</mezo>
 <mezo id = "allapot">6</mezo>
-<mezo id = "cim">4032 Debrecen, Károly Gáspár utca 100. </mezo>
+<mezo id = "cim">4032 Debrecen, KÃ¡roly GÃ¡spÃ¡r utca 100. </mezo>
 <mezo id = "adosz">12673744209</mezo>
 </alrovat>
 </rovat>
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20061020</mezo>
-<mezo id = "nev">DATA-PORT Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság &quot;felszámolás alatt &quot;</mezo>
+<mezo id = "nev">DATA-PORT Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g &quot;felszÃ¡molÃ¡s alatt &quot;</mezo>
 <mezo id = "valtk">20060929</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -31,14 +31,14 @@
 <mezo id = "hattol">20021114</mezo>
 <mezo id = "irsz">4032</mezo>
 <mezo id = "hely">Debrecen</mezo>
-<mezo id = "teru">Károly Gáspár utca 100.</mezo>
+<mezo id = "teru">KÃ¡roly GÃ¡spÃ¡r utca 100.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "6">
 <alrovat id = "1">
 <mezo id = "hattol">20021114</mezo>
 <mezo id = "irsz">4029</mezo>
-<mezo id = "hely">Debrecen, Bercsényi utca 9.</mezo>
+<mezo id = "hely">Debrecen, BercsÃ©nyi utca 9.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "8">
@@ -169,15 +169,15 @@
 <alrovat id = "2">
 <mezo id = "hattol">20061020</mezo>
 <mezo id = "cgjsz">909005219</mezo>
-<mezo id = "nev">198. sz. &quot; Juris-Invest &quot; Tanácsadó, Befektetõ és Szolgáltató Kft.</mezo>
+<mezo id = "nev">198. sz. &quot; Juris-Invest &quot; TanÃ¡csadÃ³, BefektetÅ‘ Ã©s SzolgÃ¡ltatÃ³ Kft.</mezo>
 <mezo id = "irsz">4100</mezo>
-<mezo id = "hely">Berettyóújfalu</mezo>
+<mezo id = "hely">BerettyÃ³Ãºjfalu</mezo>
 <mezo id = "teru">Tardy u. 1.</mezo>
-<mezo id = "tiszt">felszámolóbiztos</mezo>
-<mezo id = "pnev">Dr. Kökényesiné Butt Irén</mezo>
-<mezo id = "panev">Magyari Irén</mezo>
+<mezo id = "tiszt">felszÃ¡molÃ³biztos</mezo>
+<mezo id = "pnev">Dr. KÃ¶kÃ©nyesinÃ© Butt IrÃ©n</mezo>
+<mezo id = "panev">Magyari IrÃ©n</mezo>
 <mezo id = "pirsz">4100</mezo>
-<mezo id = "phely">Berettyóújfalu, Kréta köz 7.</mezo>
+<mezo id = "phely">BerettyÃ³Ãºjfalu, KrÃ©ta kÃ¶z 7.</mezo>
 <mezo id = "valtk">20060929</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -211,15 +211,15 @@
 <alrovat id = "1">
 <mezo id = "hattol">20010723</mezo>
 <mezo id = "befmert">90</mezo>
-<mezo id = "pnev">Dr. Felföldi Erzsébet</mezo>
-<mezo id = "panev">Csukrán Erzsébet</mezo>
+<mezo id = "pnev">Dr. FelfÃ¶ldi ErzsÃ©bet</mezo>
+<mezo id = "panev">CsukrÃ¡n ErzsÃ©bet</mezo>
 <mezo id = "pirsz">4033</mezo>
-<mezo id = "phely">Debrecen, Acsádi út 28/C.</mezo>
+<mezo id = "phely">Debrecen, AcsÃ¡di Ãºt 28/C.</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20010723</mezo>
-<mezo id = "pnev">Pók Tibor</mezo>
-<mezo id = "panev">Dr. Felföldi Erzsébet</mezo>
+<mezo id = "pnev">PÃ³k Tibor</mezo>
+<mezo id = "panev">Dr. FelfÃ¶ldi ErzsÃ©bet</mezo>
 <mezo id = "pirsz">4028</mezo>
 <mezo id = "phely">Debrecen, Laktanya utca 39. III/8.</mezo>
 </alrovat>
@@ -233,84 +233,84 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Hajdú-Bihar Megyei Bíróság<ujsor/>
-7.Fpk.09-06-000334/10. sz. végzése<ujsor/>
-felszámolás megindításának közzétételérõl<ujsor/>
-A bíróság elrendeli annak a Cégközlönyben való közzétételét, hogy a(z) 2006. szeptember 29. napján jogerõre emelkedett végzésével<ujsor/>
+<mezo id = "szoveg">A HajdÃº-Bihar Megyei BÃ­rÃ³sÃ¡g<ujsor/>
+7.Fpk.09-06-000334/10. sz. vÃ©gzÃ©se<ujsor/>
+felszÃ¡molÃ¡s megindÃ­tÃ¡sÃ¡nak kÃ¶zzÃ©tÃ©telÃ©rÅ‘l<ujsor/>
+A bÃ­rÃ³sÃ¡g elrendeli annak a CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©t, hogy a(z) 2006. szeptember 29. napjÃ¡n jogerÅ‘re emelkedett vÃ©gzÃ©sÃ©vel<ujsor/>
 a(z)<ujsor/>
-DATA-PORT Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság<ujsor/>
-(4032 Debrecen, Károly Gáspár utca 100.; cégjegyzékszáma: 09 09 008077; adószáma: 12673744-2-09)<ujsor/>
-adós felszámolását fõeljárásként elrendelte.<ujsor/>
-Elõzõ székhelyei(i):<ujsor/>
+DATA-PORT Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g<ujsor/>
+(4032 Debrecen, KÃ¡roly GÃ¡spÃ¡r utca 100.; cÃ©gjegyzÃ©kszÃ¡ma: 09 09 008077; adÃ³szÃ¡ma: 12673744-2-09)<ujsor/>
+adÃ³s felszÃ¡molÃ¡sÃ¡t fÅ‘eljÃ¡rÃ¡skÃ©nt elrendelte.<ujsor/>
+ElÅ‘zÅ‘ szÃ©khelyei(i):<ujsor/>
 4028 Debrecen, Laktanya utca 39. 3. em. 8.<ujsor/>
-A bíróság által kijelölt felszámoló:<ujsor/>
-198. sz. &quot; Juris-Invest &quot; Tanácsadó, Befektetõ és Szolgáltató Kft.,<ujsor/>
-4100 Berettyóújfalu, Tardy u. 1.<ujsor/>
-cégjegyzékszáma: 09 09 005219.<ujsor/>
-A felszámolóbiztos(ok):<ujsor/>
-Dr. Kökényesiné Butt Irén (an: Magyari Irén) 4100 Berettyóújfalu, Kréta köz 7.<ujsor/>
-A felszámolási eljárás megindítására irányuló kérelem benyújtásának<ujsor/>
-idõpontja:<ujsor/>
-2006. május 4.<ujsor/>
-A felszámolás kezdõ idõpontja: 2006. szeptember 29.<ujsor/>
-A Hajdú-Bihar Megyei Bíróság Gazdasági Hivatalánál kezelt elkülönített<ujsor/>
-számla száma:<ujsor/>
+A bÃ­rÃ³sÃ¡g Ã¡ltal kijelÃ¶lt felszÃ¡molÃ³:<ujsor/>
+198. sz. &quot; Juris-Invest &quot; TanÃ¡csadÃ³, BefektetÅ‘ Ã©s SzolgÃ¡ltatÃ³ Kft.,<ujsor/>
+4100 BerettyÃ³Ãºjfalu, Tardy u. 1.<ujsor/>
+cÃ©gjegyzÃ©kszÃ¡ma: 09 09 005219.<ujsor/>
+A felszÃ¡molÃ³biztos(ok):<ujsor/>
+Dr. KÃ¶kÃ©nyesinÃ© Butt IrÃ©n (an: Magyari IrÃ©n) 4100 BerettyÃ³Ãºjfalu, KrÃ©ta kÃ¶z 7.<ujsor/>
+A felszÃ¡molÃ¡si eljÃ¡rÃ¡s megindÃ­tÃ¡sÃ¡ra irÃ¡nyulÃ³ kÃ©relem benyÃºjtÃ¡sÃ¡nak<ujsor/>
+idÅ‘pontja:<ujsor/>
+2006. mÃ¡jus 4.<ujsor/>
+A felszÃ¡molÃ¡s kezdÅ‘ idÅ‘pontja: 2006. szeptember 29.<ujsor/>
+A HajdÃº-Bihar Megyei BÃ­rÃ³sÃ¡g GazdasÃ¡gi HivatalÃ¡nÃ¡l kezelt elkÃ¼lÃ¶nÃ­tett<ujsor/>
+szÃ¡mla szÃ¡ma:<ujsor/>
 10034002-01483044-24000004.<ujsor/>
-Mindazok, akik az adóssal szemben fennálló követeléseiket a felszámolás során<ujsor/>
-hitelezõként érvényesíteni kívánják, ismert követeléseiket e végzés<ujsor/>
-közzétételétõl számított 40 napon belül jelentsék be a felszámolónak.<ujsor/>
-A felszámoló - a módosított 1991. évi IL. tv. 57. § (1) bekezdés a) és c)<ujsor/>
-pontjában meghatározott követelések kivételével - csak azt a bejelentést veszi<ujsor/>
-nyilvántartásba, amely után az igénybejelentõ a követelés 1 %-át, de legalább<ujsor/>
-1.000 Ft-ot, legfeljebb 100.000 Ft-ot az e végzésben megjelölt számlára -<ujsor/>
-a bírósági ügyszámra (végzés számra) hivatkozással<ujsor/>
-- 40 napon belül befizetett és ezt a felszámoló részére igazolta.<ujsor/>
+Mindazok, akik az adÃ³ssal szemben fennÃ¡llÃ³ kÃ¶vetelÃ©seiket a felszÃ¡molÃ¡s sorÃ¡n<ujsor/>
+hitelezÅ‘kÃ©nt Ã©rvÃ©nyesÃ­teni kÃ­vÃ¡njÃ¡k, ismert kÃ¶vetelÃ©seiket e vÃ©gzÃ©s<ujsor/>
+kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott 40 napon belÃ¼l jelentsÃ©k be a felszÃ¡molÃ³nak.<ujsor/>
+A felszÃ¡molÃ³ - a mÃ³dosÃ­tott 1991. Ã©vi IL. tv. 57. Â§ (1) bekezdÃ©s a) Ã©s c)<ujsor/>
+pontjÃ¡ban meghatÃ¡rozott kÃ¶vetelÃ©sek kivÃ©telÃ©vel - csak azt a bejelentÃ©st veszi<ujsor/>
+nyilvÃ¡ntartÃ¡sba, amely utÃ¡n az igÃ©nybejelentÅ‘ a kÃ¶vetelÃ©s 1 %-Ã¡t, de legalÃ¡bb<ujsor/>
+1.000 Ft-ot, legfeljebb 100.000 Ft-ot az e vÃ©gzÃ©sben megjelÃ¶lt szÃ¡mlÃ¡ra -<ujsor/>
+a bÃ­rÃ³sÃ¡gi Ã¼gyszÃ¡mra (vÃ©gzÃ©s szÃ¡mra) hivatkozÃ¡ssal<ujsor/>
+- 40 napon belÃ¼l befizetett Ã©s ezt a felszÃ¡molÃ³ rÃ©szÃ©re igazolta.<ujsor/>
 Debrecen,<ujsor/>
-2006. október 3.<ujsor/>
-A közzététel idõpontja: 2006. október 19.<ujsor/>
+2006. oktÃ³ber 3.<ujsor/>
+A kÃ¶zzÃ©tÃ©tel idÅ‘pontja: 2006. oktÃ³ber 19.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0909008077</mezo>
-<mezo id = "nev">DATA-PORT Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">4032 Debrecen, Károly Gáspár utca 100.</mezo>
+<mezo id = "nev">DATA-PORT Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">4032 Debrecen, KÃ¡roly GÃ¡spÃ¡r utca 100.</mezo>
 <mezo id = "adosz">12673744209</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Hajdú-Bihar Megyei Bíróság<ujsor/>
-7.Fpk.09-06-000334/46. sz. végzése<ujsor/>
-felszámolási eljárás befejezésének közzétételérõl<ujsor/>
-A bíróság elrendeli annak a Cégközlönyben való közzétételét, hogy a(z)<ujsor/>
-2009. október 3. napján jogerõre emelkedett végzésével a(z) DATA-PORT<ujsor/>
-Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság (4032<ujsor/>
-Debrecen, Károly Gáspár utca 100.; cégjegyzékszáma: 09 09 008077;<ujsor/>
-adószáma: 12673744-2-09) adós elleni - 2006. október 19. napján<ujsor/>
-közzétett - felszámolási eljárást befejezte és a(z) DATA-PORT<ujsor/>
-Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság<ujsor/>
-gazdálkodó szervezetet megszüntette.<ujsor/>
+<mezo id = "szoveg">A HajdÃº-Bihar Megyei BÃ­rÃ³sÃ¡g<ujsor/>
+7.Fpk.09-06-000334/46. sz. vÃ©gzÃ©se<ujsor/>
+felszÃ¡molÃ¡si eljÃ¡rÃ¡s befejezÃ©sÃ©nek kÃ¶zzÃ©tÃ©telÃ©rÅ‘l<ujsor/>
+A bÃ­rÃ³sÃ¡g elrendeli annak a CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©t, hogy a(z)<ujsor/>
+2009. oktÃ³ber 3. napjÃ¡n jogerÅ‘re emelkedett vÃ©gzÃ©sÃ©vel a(z) DATA-PORT<ujsor/>
+Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (4032<ujsor/>
+Debrecen, KÃ¡roly GÃ¡spÃ¡r utca 100.; cÃ©gjegyzÃ©kszÃ¡ma: 09 09 008077;<ujsor/>
+adÃ³szÃ¡ma: 12673744-2-09) adÃ³s elleni - 2006. oktÃ³ber 19. napjÃ¡n<ujsor/>
+kÃ¶zzÃ©tett - felszÃ¡molÃ¡si eljÃ¡rÃ¡st befejezte Ã©s a(z) DATA-PORT<ujsor/>
+Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g<ujsor/>
+gazdÃ¡lkodÃ³ szervezetet megszÃ¼ntette.<ujsor/>
 Debrecen, 2009. november 11.<ujsor/>
-A közzététel idõpontja: 2009. november 11.<ujsor/>
+A kÃ¶zzÃ©tÃ©tel idÅ‘pontja: 2009. november 11.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0909008077</mezo>
-<mezo id = "nev">DATA-PORT Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">DATA-PORT Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "adosz">12673744209</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A(z) DATA-PORT Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság &quot;felszámolás alatt&quot; (4032 Debrecen, Károly Gáspár utca 100.; adószáma: 12673744-2-09) cégügyében a Hajdú-Bihar Megyei Bíróság Gazdasági Kollégiuma Felszámolási Csoportja 7.Fpk.09-06-000334/44. számú végzésével a felszámolási eljárást befejezte és a céget megszüntette. Ezért a Hajdú-Bihar Megyei Bíróság mint Cégbíróság a Ctv. 62.§ (2) bek. a) pontja alapján a céget a cégjegyzékbõl 2009. november 13-i hatállyal törli.<ujsor/>
-28. A felszámolás kezdete és befejezése<ujsor/>
-Befejezése: 2009.10.03.<ujsor/>
-Vált. kezdete: 2009.10.03.<ujsor/>
-Bejegyezve (végzés kelte): 2009. november 13.<ujsor/>
-A végzés ellen fellebbezésnek nincs helye.<ujsor/>
-A fenti adat(ok) bejegyzése és közzététele a következõ okirat(ok) alapján történt: bírósági határozat.<ujsor/>
-Az okirat(ok) a cég cégjegyzékét vezetõ cégbíróságon megtekinthetõk.<ujsor/>
+<mezo id = "szoveg">A(z) DATA-PORT Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g &quot;felszÃ¡molÃ¡s alatt&quot; (4032 Debrecen, KÃ¡roly GÃ¡spÃ¡r utca 100.; adÃ³szÃ¡ma: 12673744-2-09) cÃ©gÃ¼gyÃ©ben a HajdÃº-Bihar Megyei BÃ­rÃ³sÃ¡g GazdasÃ¡gi KollÃ©giuma FelszÃ¡molÃ¡si Csoportja 7.Fpk.09-06-000334/44. szÃ¡mÃº vÃ©gzÃ©sÃ©vel a felszÃ¡molÃ¡si eljÃ¡rÃ¡st befejezte Ã©s a cÃ©get megszÃ¼ntette. EzÃ©rt a HajdÃº-Bihar Megyei BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Ctv. 62.Â§ (2) bek. a) pontja alapjÃ¡n a cÃ©get a cÃ©gjegyzÃ©kbÅ‘l 2009. november 13-i hatÃ¡llyal tÃ¶rli.<ujsor/>
+28. A felszÃ¡molÃ¡s kezdete Ã©s befejezÃ©se<ujsor/>
+BefejezÃ©se: 2009.10.03.<ujsor/>
+VÃ¡lt. kezdete: 2009.10.03.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2009. november 13.<ujsor/>
+A vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye.<ujsor/>
+A fenti adat(ok) bejegyzÃ©se Ã©s kÃ¶zzÃ©tÃ©tele a kÃ¶vetkezÅ‘ okirat(ok) alapjÃ¡n tÃ¶rtÃ©nt: bÃ­rÃ³sÃ¡gi hatÃ¡rozat.<ujsor/>
+Az okirat(ok) a cÃ©g cÃ©gjegyzÃ©kÃ©t vezetÅ‘ cÃ©gbÃ­rÃ³sÃ¡gon megtekinthetÅ‘k.<ujsor/>
 2009. november 13.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0909008077</mezo>
-<mezo id = "nev">DATA-PORT Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság &apos;felszámolás alatt&apos;</mezo>
-<mezo id = "cim">4032 Debrecen, Károly Gáspár utca 100.</mezo>
+<mezo id = "nev">DATA-PORT Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g &apos;felszÃ¡molÃ¡s alatt&apos;</mezo>
+<mezo id = "cim">4032 Debrecen, KÃ¡roly GÃ¡spÃ¡r utca 100.</mezo>
 <mezo id = "adosz">12673744209</mezo>
 </alrovat>
 </rovat>

@@ -6,7 +6,7 @@
 <mezo id = "szam">685657</mezo>
 <mezo id = "nevalrovat">1</mezo>
 <mezo id = "allapot">6</mezo>
-<mezo id = "cim">1034 Budapest, Bécsi út 121. </mezo>
+<mezo id = "cim">1034 Budapest, BÃ©csi Ãºt 121. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">11966966241</mezo>
 </alrovat>
@@ -14,13 +14,13 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20000620</mezo>
-<mezo id = "nev">&quot;BALLA-Gázszer&quot; Víz,- Gáz-, Központi fûtés Szerelõ Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">&quot;BALLA-GÃ¡zszer&quot; VÃ­z,- GÃ¡z-, KÃ¶zponti fÅ±tÃ©s SzerelÅ‘ SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">20000620</mezo>
-<mezo id = "nev">BALLA-Gázszer Kft.</mezo>
+<mezo id = "nev">BALLA-GÃ¡zszer Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
@@ -28,7 +28,7 @@
 <mezo id = "hattol">20000620</mezo>
 <mezo id = "irsz">1034</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Bécsi út 121.</mezo>
+<mezo id = "teru">BÃ©csi Ãºt 121.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "8">
@@ -680,8 +680,8 @@
 <rovat id = "13">
 <alrovat id = "2">
 <mezo id = "hattol">20050205</mezo>
-<mezo id = "pnev">Balla Elemér</mezo>
-<mezo id = "panev">Farkas Teréz</mezo>
+<mezo id = "pnev">Balla ElemÃ©r</mezo>
+<mezo id = "panev">Farkas TerÃ©z</mezo>
 <mezo id = "pirsz">1021</mezo>
 <mezo id = "phely">Budapest, Budenz u. 5/a.</mezo>
 <mezo id = "kepvo">x</mezo>
@@ -694,7 +694,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20000620</mezo>
 <mezo id = "cgjsz">104137187</mezo>
-<mezo id = "nev">&quot;GÁZSZER&quot; Víz-gáz, központi fûtésszerelõ Gazdasági Munkaközösség</mezo>
+<mezo id = "nev">&quot;GÃZSZER&quot; VÃ­z-gÃ¡z, kÃ¶zponti fÅ±tÃ©sszerelÅ‘ GazdasÃ¡gi MunkakÃ¶zÃ¶ssÃ©g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "20">
@@ -707,7 +707,7 @@
 <alrovat id = "2">
 <mezo id = "adosz">11966966241</mezo>
 <mezo id = "bkelt">20110830</mezo>
-<mezo id = "megj">Státusz kezdete: 2000/02/03</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 2000/02/03</mezo>
 </alrovat>
 </rovat>
 <rovat id = "28">
@@ -721,28 +721,28 @@
 <rovat id = "0109">
 <alrovat id = "1">
 <mezo id = "hattol">20000620</mezo>
-<mezo id = "pnev">Balla Elemér</mezo>
-<mezo id = "panev">Farkas Teréz</mezo>
+<mezo id = "pnev">Balla ElemÃ©r</mezo>
+<mezo id = "panev">Farkas TerÃ©z</mezo>
 <mezo id = "pirsz">1021</mezo>
-<mezo id = "phely">Budapest, Budenz út 5/a.</mezo>
+<mezo id = "phely">Budapest, Budenz Ãºt 5/a.</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20000620</mezo>
-<mezo id = "pnev">Balla Elemérné (szü. Füredi Gyöngyi)</mezo>
-<mezo id = "panev">Patkás Irén</mezo>
+<mezo id = "pnev">Balla ElemÃ©rnÃ© (szÃ¼. FÃ¼redi GyÃ¶ngyi)</mezo>
+<mezo id = "panev">PatkÃ¡s IrÃ©n</mezo>
 <mezo id = "pirsz">1021</mezo>
-<mezo id = "phely">Budapest, Budenz út 5/a.</mezo>
+<mezo id = "phely">Budapest, Budenz Ãºt 5/a.</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20000620</mezo>
-<mezo id = "pnev">Balla Áron</mezo>
-<mezo id = "panev">Füredi Gyöngyi</mezo>
+<mezo id = "pnev">Balla Ãron</mezo>
+<mezo id = "panev">FÃ¼redi GyÃ¶ngyi</mezo>
 <mezo id = "pirsz">1021</mezo>
-<mezo id = "phely">Budapest, Budenz út 5/a.</mezo>
-<mezo id = "gnev">Balla Elemérné (szül. Füredi Gyöngyi)</mezo>
-<mezo id = "ganev">Patkás Irén</mezo>
+<mezo id = "phely">Budapest, Budenz Ãºt 5/a.</mezo>
+<mezo id = "gnev">Balla ElemÃ©rnÃ© (szÃ¼l. FÃ¼redi GyÃ¶ngyi)</mezo>
+<mezo id = "ganev">PatkÃ¡s IrÃ©n</mezo>
 <mezo id = "girsz">1021</mezo>
-<mezo id = "ghely">Budapest, Budenz út 5/a.</mezo>
+<mezo id = "ghely">Budapest, Budenz Ãºt 5/a.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "93">
@@ -754,77 +754,77 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság<ujsor/>
-4.Fpk.01-09-010486/7. sz. végzése<ujsor/>
-felszámolás megindításának közzétételérõl<ujsor/>
-A bíróság elrendeli annak a Cégközlönyben való közzétételét, hogy a(z)<ujsor/>
-2010. május 19. napján jogerõre emelkedett végzésével a(z)<ujsor/>
-&quot;BALLA-Gázszer&quot; Víz,- Gáz-, Központi fûtés Szerelõ Szolgáltató és<ujsor/>
-Kereskedelmi Korlátolt Felelõsségû Társaság (1034 Budapest, Bécsi út<ujsor/>
-121.; cégjegyzékszáma: 01 09 685657; adószáma: 11966966-2-41) adós<ujsor/>
-felszámolását fõeljárásként elrendelte.<ujsor/>
-Jogelõd(ök): &quot;GÁZSZER&quot; Víz-gáz, központi fûtésszerelõ Gazdasági<ujsor/>
-Munkaközösség<ujsor/>
-A bíróság által kijelölt felszámoló:<ujsor/>
-CRAC-ORG Felszámoló és Csõdmenedzselõ Zrt., 1082 Budapest, Baross u.<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g<ujsor/>
+4.Fpk.01-09-010486/7. sz. vÃ©gzÃ©se<ujsor/>
+felszÃ¡molÃ¡s megindÃ­tÃ¡sÃ¡nak kÃ¶zzÃ©tÃ©telÃ©rÅ‘l<ujsor/>
+A bÃ­rÃ³sÃ¡g elrendeli annak a CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©t, hogy a(z)<ujsor/>
+2010. mÃ¡jus 19. napjÃ¡n jogerÅ‘re emelkedett vÃ©gzÃ©sÃ©vel a(z)<ujsor/>
+&quot;BALLA-GÃ¡zszer&quot; VÃ­z,- GÃ¡z-, KÃ¶zponti fÅ±tÃ©s SzerelÅ‘ SzolgÃ¡ltatÃ³ Ã©s<ujsor/>
+Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (1034 Budapest, BÃ©csi Ãºt<ujsor/>
+121.; cÃ©gjegyzÃ©kszÃ¡ma: 01 09 685657; adÃ³szÃ¡ma: 11966966-2-41) adÃ³s<ujsor/>
+felszÃ¡molÃ¡sÃ¡t fÅ‘eljÃ¡rÃ¡skÃ©nt elrendelte.<ujsor/>
+JogelÅ‘d(Ã¶k): &quot;GÃZSZER&quot; VÃ­z-gÃ¡z, kÃ¶zponti fÅ±tÃ©sszerelÅ‘ GazdasÃ¡gi<ujsor/>
+MunkakÃ¶zÃ¶ssÃ©g<ujsor/>
+A bÃ­rÃ³sÃ¡g Ã¡ltal kijelÃ¶lt felszÃ¡molÃ³:<ujsor/>
+CRAC-ORG FelszÃ¡molÃ³ Ã©s CsÅ‘dmenedzselÅ‘ Zrt., 1082 Budapest, Baross u.<ujsor/>
 114-116.<ujsor/>
-A felszámolóbiztos(ok):<ujsor/>
-Pálfiné Titl Anett (an: Arnold Julianna) 1082 Budapest, Baross u. 114-116.<ujsor/>
-A felszámolási eljárás megindítására irányuló kérelem benyújtásának<ujsor/>
-idõpontja: 2009. december 18.<ujsor/>
-A felszámolás kezdõ idõpontja e végzés Cégközlönyben való közzétételének<ujsor/>
+A felszÃ¡molÃ³biztos(ok):<ujsor/>
+PÃ¡lfinÃ© Titl Anett (an: Arnold Julianna) 1082 Budapest, Baross u. 114-116.<ujsor/>
+A felszÃ¡molÃ¡si eljÃ¡rÃ¡s megindÃ­tÃ¡sÃ¡ra irÃ¡nyulÃ³ kÃ©relem benyÃºjtÃ¡sÃ¡nak<ujsor/>
+idÅ‘pontja: 2009. december 18.<ujsor/>
+A felszÃ¡molÃ¡s kezdÅ‘ idÅ‘pontja e vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©nek<ujsor/>
 napja.<ujsor/>
-A Fõvárosi Bíróság Gazdasági Hivatalánál kezelt elkülönített számla száma:<ujsor/>
+A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g GazdasÃ¡gi HivatalÃ¡nÃ¡l kezelt elkÃ¼lÃ¶nÃ­tett szÃ¡mla szÃ¡ma:<ujsor/>
 10032000-01483013-24000004.<ujsor/>
-Mindazok [ideértve a zálogjogosultakat, és a 3. § (1) bekezdés c) pontja<ujsor/>
-szerinti függõ követelések jogosultjait is], akik az adóssal szemben<ujsor/>
-fennálló ismert követeléseiket - kivéve a felszámolási eljárást<ujsor/>
-közvetlenül megelõzõ csõdeljárásban [27. § (2) bekezdés e) pont] már<ujsor/>
-bejelentett és nyilvántartásba vett követeléseket - a felszámolás során<ujsor/>
-hitelezõként érvényesíteni kívánják, ismert követeléseiket e végzés<ujsor/>
-közzétételétõl számított 40 napon belül jelentsék be a felszámolónak.<ujsor/>
-A felszámoló - a módosított 1991. évi XLIX. tv. 57. § (1) bekezdés a) és<ujsor/>
-c) pontjában meghatározott követelések kivételével - csak azt a<ujsor/>
-bejelentést veszi nyilvántartásba, amely után az igénybejelentõ a<ujsor/>
-követelés 1 %-át, de legalább 5.000 Ft-ot, legfeljebb 200.000 Ft-ot az e<ujsor/>
-végzésben megjelölt számlára - a bírósági ügyszámra (végzés számra)<ujsor/>
-hivatkozással -  40 napon belül befizetett és ezt a felszámoló<ujsor/>
-részére igazolta.<ujsor/>
-Budapest, 2010. május 27.<ujsor/>
-A közzététel idõpontja: 2010. május 31.<ujsor/>
+Mindazok [ideÃ©rtve a zÃ¡logjogosultakat, Ã©s a 3. Â§ (1) bekezdÃ©s c) pontja<ujsor/>
+szerinti fÃ¼ggÅ‘ kÃ¶vetelÃ©sek jogosultjait is], akik az adÃ³ssal szemben<ujsor/>
+fennÃ¡llÃ³ ismert kÃ¶vetelÃ©seiket - kivÃ©ve a felszÃ¡molÃ¡si eljÃ¡rÃ¡st<ujsor/>
+kÃ¶zvetlenÃ¼l megelÅ‘zÅ‘ csÅ‘deljÃ¡rÃ¡sban [27. Â§ (2) bekezdÃ©s e) pont] mÃ¡r<ujsor/>
+bejelentett Ã©s nyilvÃ¡ntartÃ¡sba vett kÃ¶vetelÃ©seket - a felszÃ¡molÃ¡s sorÃ¡n<ujsor/>
+hitelezÅ‘kÃ©nt Ã©rvÃ©nyesÃ­teni kÃ­vÃ¡njÃ¡k, ismert kÃ¶vetelÃ©seiket e vÃ©gzÃ©s<ujsor/>
+kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott 40 napon belÃ¼l jelentsÃ©k be a felszÃ¡molÃ³nak.<ujsor/>
+A felszÃ¡molÃ³ - a mÃ³dosÃ­tott 1991. Ã©vi XLIX. tv. 57. Â§ (1) bekezdÃ©s a) Ã©s<ujsor/>
+c) pontjÃ¡ban meghatÃ¡rozott kÃ¶vetelÃ©sek kivÃ©telÃ©vel - csak azt a<ujsor/>
+bejelentÃ©st veszi nyilvÃ¡ntartÃ¡sba, amely utÃ¡n az igÃ©nybejelentÅ‘ a<ujsor/>
+kÃ¶vetelÃ©s 1 %-Ã¡t, de legalÃ¡bb 5.000 Ft-ot, legfeljebb 200.000 Ft-ot az e<ujsor/>
+vÃ©gzÃ©sben megjelÃ¶lt szÃ¡mlÃ¡ra - a bÃ­rÃ³sÃ¡gi Ã¼gyszÃ¡mra (vÃ©gzÃ©s szÃ¡mra)<ujsor/>
+hivatkozÃ¡ssal -  40 napon belÃ¼l befizetett Ã©s ezt a felszÃ¡molÃ³<ujsor/>
+rÃ©szÃ©re igazolta.<ujsor/>
+Budapest, 2010. mÃ¡jus 27.<ujsor/>
+A kÃ¶zzÃ©tÃ©tel idÅ‘pontja: 2010. mÃ¡jus 31.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109685657</mezo>
-<mezo id = "nev">&quot;BALLA-Gázszer&quot; Víz,- Gáz-, Központi fûtés Szerelõ Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">&quot;BALLA-GÃ¡zszer&quot; VÃ­z,- GÃ¡z-, KÃ¶zponti fÅ±tÃ©s SzerelÅ‘ SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "adosz">11966966241</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság 4.Fpk.01-09-010486/15. sz. végzése egyszerûsített felszámolási eljárás befejezésének közzétételérõl<ujsor/>
-A bíróság elrendeli annak a Cégközlönyben való közzétételét, hogy a(z)  &quot;BALLA-Gázszer&quot; Víz,- Gáz-, Központi fûtés Szerelõ Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság (1034 Budapest, Bécsi út 121.; cégjegyzékszáma: 01 09 685657; adószáma: 11966966-2-41) gazdálkodó szervezet elleni felszámolási eljárás, mint egyszerûsített felszámolás, a(z) 2011. április 4. napján kelt és 2011. június 10. napján jogerõre emelkedett végzése alapján befejezõdött.<ujsor/>
-A felszámolás megindítása közzétételének idõpontja: 2010. május 31.<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g 4.Fpk.01-09-010486/15. sz. vÃ©gzÃ©se egyszerÅ±sÃ­tett felszÃ¡molÃ¡si eljÃ¡rÃ¡s befejezÃ©sÃ©nek kÃ¶zzÃ©tÃ©telÃ©rÅ‘l<ujsor/>
+A bÃ­rÃ³sÃ¡g elrendeli annak a CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©t, hogy a(z)  &quot;BALLA-GÃ¡zszer&quot; VÃ­z,- GÃ¡z-, KÃ¶zponti fÅ±tÃ©s SzerelÅ‘ SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (1034 Budapest, BÃ©csi Ãºt 121.; cÃ©gjegyzÃ©kszÃ¡ma: 01 09 685657; adÃ³szÃ¡ma: 11966966-2-41) gazdÃ¡lkodÃ³ szervezet elleni felszÃ¡molÃ¡si eljÃ¡rÃ¡s, mint egyszerÅ±sÃ­tett felszÃ¡molÃ¡s, a(z) 2011. Ã¡prilis 4. napjÃ¡n kelt Ã©s 2011. jÃºnius 10. napjÃ¡n jogerÅ‘re emelkedett vÃ©gzÃ©se alapjÃ¡n befejezÅ‘dÃ¶tt.<ujsor/>
+A felszÃ¡molÃ¡s megindÃ­tÃ¡sa kÃ¶zzÃ©tÃ©telÃ©nek idÅ‘pontja: 2010. mÃ¡jus 31.<ujsor/>
 Budapest, 2011. augusztus 26.<ujsor/>
-A közzététel idõpontja: 2011. augusztus 30.<ujsor/>
+A kÃ¶zzÃ©tÃ©tel idÅ‘pontja: 2011. augusztus 30.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109685657</mezo>
-<mezo id = "nev">&quot;BALLA-Gázszer&quot; Víz,- Gáz-, Központi fûtés Szerelõ Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1034 Budapest, Bécsi út 121.</mezo>
+<mezo id = "nev">&quot;BALLA-GÃ¡zszer&quot; VÃ­z,- GÃ¡z-, KÃ¶zponti fÅ±tÃ©s SzerelÅ‘ SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1034 Budapest, BÃ©csi Ãºt 121.</mezo>
 <mezo id = "adosz">11966966241</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A(z) &quot;BALLA-Gázszer&quot; Víz,- Gáz-, Központi fûtés Szerelõ Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság &quot;felszámolás alatt&quot; (1034 Budapest, Bécsi út 121.; adószáma: 11966966-2-41) cégügyében a Fõvárosi Bíróság Gazdasági Kollégiuma Felszámolási Csoportja 1.Fpk.01-09-010486/15 számú végzésével a felszámolási eljárást befejezte és a céget megszüntette. Ezért a Fõvárosi Bíróság mint Cégbíróság a céget a cégjegyzékbõl 2011.09.02-ai hatállyal törli.<ujsor/>
-28. A felszámolás kezdete és befejezése<ujsor/>
-Befejezése: 2011.06.10.<ujsor/>
-Vált. kezdete: 2011.06.10.<ujsor/>
-Bejegyezve (végzés kelte): 2011. szeptember 2.<ujsor/>
-A végzés ellen fellebbezésnek nincs helye.<ujsor/>
+<mezo id = "szoveg">A(z) &quot;BALLA-GÃ¡zszer&quot; VÃ­z,- GÃ¡z-, KÃ¶zponti fÅ±tÃ©s SzerelÅ‘ SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g &quot;felszÃ¡molÃ¡s alatt&quot; (1034 Budapest, BÃ©csi Ãºt 121.; adÃ³szÃ¡ma: 11966966-2-41) cÃ©gÃ¼gyÃ©ben a FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g GazdasÃ¡gi KollÃ©giuma FelszÃ¡molÃ¡si Csoportja 1.Fpk.01-09-010486/15 szÃ¡mÃº vÃ©gzÃ©sÃ©vel a felszÃ¡molÃ¡si eljÃ¡rÃ¡st befejezte Ã©s a cÃ©get megszÃ¼ntette. EzÃ©rt a FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a cÃ©get a cÃ©gjegyzÃ©kbÅ‘l 2011.09.02-ai hatÃ¡llyal tÃ¶rli.<ujsor/>
+28. A felszÃ¡molÃ¡s kezdete Ã©s befejezÃ©se<ujsor/>
+BefejezÃ©se: 2011.06.10.<ujsor/>
+VÃ¡lt. kezdete: 2011.06.10.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2011. szeptember 2.<ujsor/>
+A vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye.<ujsor/>
 2011. szeptember 2.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109685657</mezo>
-<mezo id = "nev">&apos;BALLA-Gázszer&apos; Víz,- Gáz-, Központi fûtés Szerelõ Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság &apos;felszámolás alatt&apos;</mezo>
-<mezo id = "cim">1034 Budapest, Bécsi út 121.</mezo>
+<mezo id = "nev">&apos;BALLA-GÃ¡zszer&apos; VÃ­z,- GÃ¡z-, KÃ¶zponti fÅ±tÃ©s SzerelÅ‘ SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g &apos;felszÃ¡molÃ¡s alatt&apos;</mezo>
+<mezo id = "cim">1034 Budapest, BÃ©csi Ãºt 121.</mezo>
 <mezo id = "adosz">11966966241</mezo>
 </alrovat>
 </rovat>

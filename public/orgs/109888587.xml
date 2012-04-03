@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">888587</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">1132 Budapest, Kresz Géza utca 37. B. ép. 5. em. 16. </mezo>
+<mezo id = "cim">1132 Budapest, Kresz GÃ©za utca 37. B. Ã©p. 5. em. 16. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">14093674241</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20071112</mezo>
-<mezo id = "nev">PMG Consulting Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">PMG Consulting KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20071112</mezo>
@@ -35,7 +35,7 @@
 <mezo id = "hattol">20081106</mezo>
 <mezo id = "irsz">1132</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Kresz Géza utca 37. B. ép. 5. em. 16.</mezo>
+<mezo id = "teru">Kresz GÃ©za utca 37. B. Ã©p. 5. em. 16.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">20081106</mezo>
 <mezo id = "valtv">0</mezo>
@@ -242,10 +242,10 @@
 <rovat id = "13">
 <alrovat id = "3">
 <mezo id = "hattol">20071119</mezo>
-<mezo id = "pnev">Máthé Dénes</mezo>
-<mezo id = "panev">Beck Éva</mezo>
+<mezo id = "pnev">MÃ¡thÃ© DÃ©nes</mezo>
+<mezo id = "panev">Beck Ã‰va</mezo>
 <mezo id = "pirsz">8200</mezo>
-<mezo id = "phely">Veszprém, Cseri u. 39/B.</mezo>
+<mezo id = "phely">VeszprÃ©m, Cseri u. 39/B.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">d</mezo>
 <mezo id = "jogvk">20071105</mezo>
@@ -256,8 +256,8 @@
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20071119</mezo>
-<mezo id = "pnev">Gervai Gábor</mezo>
-<mezo id = "panev">Labát Ilona</mezo>
+<mezo id = "pnev">Gervai GÃ¡bor</mezo>
+<mezo id = "panev">LabÃ¡t Ilona</mezo>
 <mezo id = "pirsz">1015</mezo>
 <mezo id = "phely">Budapest, Toldy Ferenc u. 66/ A . 2/7.</mezo>
 <mezo id = "kepvo">x</mezo>
@@ -270,9 +270,9 @@
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">20100830</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Máthé Dénes</mezo>
-<mezo id = "panev">Beck Éva</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">MÃ¡thÃ© DÃ©nes</mezo>
+<mezo id = "panev">Beck Ã‰va</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100830</mezo>
 <mezo id = "valtk">20100830</mezo>
@@ -310,10 +310,10 @@
 <rovat id = "0109">
 <alrovat id = "5">
 <mezo id = "hattol">20090801</mezo>
-<mezo id = "pnev">Máthé Dénes</mezo>
-<mezo id = "panev">Beck Éva</mezo>
+<mezo id = "pnev">MÃ¡thÃ© DÃ©nes</mezo>
+<mezo id = "panev">Beck Ã‰va</mezo>
 <mezo id = "pirsz">8200</mezo>
-<mezo id = "phely">Veszprém</mezo>
+<mezo id = "phely">VeszprÃ©m</mezo>
 <mezo id = "pteru">Cseri utca 39/B.</mezo>
 <mezo id = "tagsk">20081106</mezo>
 <mezo id = "valtk">20090801</mezo>
@@ -321,10 +321,10 @@
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20090801</mezo>
-<mezo id = "pnev">Dr. Bíró Eszter</mezo>
-<mezo id = "panev">Csõsz Gabriella</mezo>
+<mezo id = "pnev">Dr. BÃ­rÃ³ Eszter</mezo>
+<mezo id = "panev">CsÅ‘sz Gabriella</mezo>
 <mezo id = "pirsz">2162</mezo>
-<mezo id = "phely">Õrbottyán</mezo>
+<mezo id = "phely">ÅrbottyÃ¡n</mezo>
 <mezo id = "pteru">Bajcsy-Zsilinszky E utca 3.</mezo>
 <mezo id = "tagsk">20090801</mezo>
 <mezo id = "valtk">20090801</mezo>
@@ -335,40 +335,40 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2007. 11. 22-án hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (ügyvezetõ).<ujsor/>
- Máthé Dénes (an: Beck Éva)<ujsor/>
-8200 Veszprém, Cseri u. 39/B.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2007. 11. 22-Ã¡n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘).<ujsor/>
+ MÃ¡thÃ© DÃ©nes (an: Beck Ã‰va)<ujsor/>
+8200 VeszprÃ©m, Cseri u. 39/B.<ujsor/>
  A jogviszony kezdete: 2007. 11. 05.<ujsor/>
- A változás idõpontja: 2007. 11. 19.<ujsor/>
- A változás idõpontja (törlés): 2007. 11. 19.<ujsor/>
- A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (ügyvezetõ).<ujsor/>
- Gervai Gábor (an: Labát Ilona)<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2007. 11. 19.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2007. 11. 19.<ujsor/>
+ A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘).<ujsor/>
+ Gervai GÃ¡bor (an: LabÃ¡t Ilona)<ujsor/>
 1015 Budapest, Toldy Ferenc u. 66/ A . 2/7.<ujsor/>
  A jogviszony kezdete: 2007. 11. 05.<ujsor/>
- A változás idõpontja: 2007. 11. 19.<ujsor/>
- A változás idõpontja (törlés): 2007. 11. 19.<ujsor/>
- Törölve: 2008. 04. 16.<ujsor/>
- A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (ügyvezetõ).<ujsor/>
- Máthé Dénes (an: Beck Éva)<ujsor/>
-8200 Veszprém, Cseri utca 39/B.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2007. 11. 19.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2007. 11. 19.<ujsor/>
+ TÃ¶rÃ¶lve: 2008. 04. 16.<ujsor/>
+ A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘).<ujsor/>
+ MÃ¡thÃ© DÃ©nes (an: Beck Ã‰va)<ujsor/>
+8200 VeszprÃ©m, Cseri utca 39/B.<ujsor/>
  A jogviszony kezdete: 2007. 11. 19.<ujsor/>
- A változás idõpontja: 2007. 11. 19.<ujsor/>
- A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (ügyvezetõ).<ujsor/>
- Gervai Gábor (an: Labát Ilona)<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2007. 11. 19.<ujsor/>
+ A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘).<ujsor/>
+ Gervai GÃ¡bor (an: LabÃ¡t Ilona)<ujsor/>
 1015 Budapest, Tody F. u. 66/A. II /7.<ujsor/>
  A jogviszony kezdete: 2007. 11. 19.<ujsor/>
- A változás idõpontja: 2007. 11. 19.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2007. 11. 19.<ujsor/>
  Bejegyezve: 2008. 04. 16.<ujsor/>
 2008. 04. 16.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109888587</mezo>
-<mezo id = "nev">PMG Consulting Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1136 Budapest, Hollán Ernõ utca 46. mfszt. 1.</mezo>
+<mezo id = "nev">PMG Consulting KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1136 Budapest, HollÃ¡n ErnÅ‘ utca 46. mfszt. 1.</mezo>
 <mezo id = "adosz">14093674241</mezo>
 </alrovat>
 </rovat>

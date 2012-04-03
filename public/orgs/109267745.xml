@@ -7,7 +7,7 @@
 <mezo id = "nevalrovat">4</mezo>
 <mezo id = "uj_szh">1109017609</mezo>
 <mezo id = "allapot">6</mezo>
-<mezo id = "cim">1133 Budapest, Váci út 76. </mezo>
+<mezo id = "cim">1133 Budapest, VÃ¡ci Ãºt 76. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">10886586241</mezo>
 </alrovat>
@@ -15,19 +15,19 @@
 <rovat id = "2">
 <alrovat id = "4">
 <mezo id = "hattol">20040914</mezo>
-<mezo id = "nev">AVE Magyarország Hulladékgazdálkodási Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">AVE MagyarorszÃ¡g HulladÃ©kgazdÃ¡lkodÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "4">
 <mezo id = "hattol">20040914</mezo>
-<mezo id = "nev">AVE Magyarország Kft.</mezo>
+<mezo id = "nev">AVE MagyarorszÃ¡g Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "4">
 <alrovat id = "4">
 <mezo id = "hattol">20040914</mezo>
-<mezo id = "nev">AVE Ungarn Abfallwirtschaftsgesellschaft mit beschränkter Haftung AVE Ungarn GmbH</mezo>
+<mezo id = "nev">AVE Ungarn Abfallwirtschaftsgesellschaft mit beschrÃ¤nkter Haftung AVE Ungarn GmbH</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
@@ -35,7 +35,7 @@
 <mezo id = "hattol">20091112</mezo>
 <mezo id = "irsz">1133</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Váci út 76.</mezo>
+<mezo id = "teru">VÃ¡ci Ãºt 76.</mezo>
 <mezo id = "valtk">20091112</mezo>
 <mezo id = "bkelt">20091215</mezo>
 </alrovat>
@@ -273,7 +273,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090302</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Szennyezõdésmentesítés, egyéb hulladékkezelés</mezo>
+<mezo id = "teaszov">SzennyezÅ‘dÃ©smentesÃ­tÃ©s, egyÃ©b hulladÃ©kkezelÃ©s</mezo>
 </alrovat>
 <alrovat id = "68">
 <mezo id = "hattol">20090126</mezo>
@@ -291,7 +291,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090302</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Ipari gép, berendezés üzembe helyezése</mezo>
+<mezo id = "teaszov">Ipari gÃ©p, berendezÃ©s Ã¼zembe helyezÃ©se</mezo>
 </alrovat>
 <alrovat id = "69">
 <mezo id = "hattol">20090126</mezo>
@@ -309,7 +309,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090302</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Nem veszélyes hulladék gyûjtése</mezo>
+<mezo id = "teaszov">Nem veszÃ©lyes hulladÃ©k gyÅ±jtÃ©se</mezo>
 </alrovat>
 <alrovat id = "70">
 <mezo id = "hattol">20090126</mezo>
@@ -327,7 +327,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090302</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Veszélyes hulladék gyûjtése</mezo>
+<mezo id = "teaszov">VeszÃ©lyes hulladÃ©k gyÅ±jtÃ©se</mezo>
 </alrovat>
 <alrovat id = "71">
 <mezo id = "hattol">20090126</mezo>
@@ -345,7 +345,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090302</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Nem veszélyes hulladék kezelése, ártalmatlanítása</mezo>
+<mezo id = "teaszov">Nem veszÃ©lyes hulladÃ©k kezelÃ©se, Ã¡rtalmatlanÃ­tÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "72">
 <mezo id = "hattol">20090126</mezo>
@@ -363,7 +363,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090302</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Veszélyes hulladék kezelése, ártalmatlanítása</mezo>
+<mezo id = "teaszov">VeszÃ©lyes hulladÃ©k kezelÃ©se, Ã¡rtalmatlanÃ­tÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "73">
 <mezo id = "hattol">20090126</mezo>
@@ -381,7 +381,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090302</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Lakó-és nem lakóépület építése</mezo>
+<mezo id = "teaszov">LakÃ³-Ã©s nem lakÃ³Ã©pÃ¼let Ã©pÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "74">
 <mezo id = "hattol">20090126</mezo>
@@ -399,7 +399,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090302</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Gépjármû javítás, karbantartás</mezo>
+<mezo id = "teaszov">GÃ©pjÃ¡rmÅ± javÃ­tÃ¡s, karbantartÃ¡s</mezo>
 </alrovat>
 <alrovat id = "76">
 <mezo id = "hattol">20090126</mezo>
@@ -417,7 +417,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090302</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Közúti áruszállítás</mezo>
+<mezo id = "teaszov">KÃ¶zÃºti Ã¡ruszÃ¡llÃ­tÃ¡s</mezo>
 </alrovat>
 <alrovat id = "77">
 <mezo id = "hattol">20090126</mezo>
@@ -435,7 +435,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090302</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Adatfeldolgozás, web-hoszting szolgáltatás</mezo>
+<mezo id = "teaszov">AdatfeldolgozÃ¡s, web-hoszting szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "78">
 <mezo id = "hattol">20090126</mezo>
@@ -453,7 +453,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090302</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Üzletviteli- egyéb vezetési tanácsadás</mezo>
+<mezo id = "teaszov">Ãœzletviteli- egyÃ©b vezetÃ©si tanÃ¡csadÃ¡s</mezo>
 </alrovat>
 <alrovat id = "79">
 <mezo id = "hattol">20090126</mezo>
@@ -471,7 +471,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090302</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb természettudományi, mûszaki kutatás, fejlesztés</mezo>
+<mezo id = "teaszov">EgyÃ©b termÃ©szettudomÃ¡nyi, mÅ±szaki kutatÃ¡s, fejlesztÃ©s</mezo>
 </alrovat>
 <alrovat id = "80">
 <mezo id = "hattol">20090126</mezo>
@@ -489,7 +489,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090302</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Gépjármûkölcsönzés (3,5 tonna fölött)</mezo>
+<mezo id = "teaszov">GÃ©pjÃ¡rmÅ±kÃ¶lcsÃ¶nzÃ©s (3,5 tonna fÃ¶lÃ¶tt)</mezo>
 </alrovat>
 <alrovat id = "81">
 <mezo id = "hattol">20090126</mezo>
@@ -507,7 +507,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090302</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb gép, tárgyi eszköz kölcsönzése</mezo>
+<mezo id = "teaszov">EgyÃ©b gÃ©p, tÃ¡rgyi eszkÃ¶z kÃ¶lcsÃ¶nzÃ©se</mezo>
 </alrovat>
 <alrovat id = "82">
 <mezo id = "hattol">20090126</mezo>
@@ -525,7 +525,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090302</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb takarítás</mezo>
+<mezo id = "teaszov">EgyÃ©b takarÃ­tÃ¡s</mezo>
 </alrovat>
 <alrovat id = "83">
 <mezo id = "hattol">20090126</mezo>
@@ -543,7 +543,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090302</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">M.n.s. egyéb kiegészítõ üzleti szolgáltatás</mezo>
+<mezo id = "teaszov">M.n.s. egyÃ©b kiegÃ©szÃ­tÅ‘ Ã¼zleti szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "84">
 <mezo id = "hattol">20090126</mezo>
@@ -561,19 +561,19 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090302</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">M.n.s. egyéb személyi szolgáltatás</mezo>
+<mezo id = "teaszov">M.n.s. egyÃ©b szemÃ©lyi szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "104">
 <mezo id = "hattol">20091112</mezo>
 <mezo id = "valtk">20091112</mezo>
 <mezo id = "bkelt">20091215</mezo>
-<mezo id = "teaszov">Immateriális javak kölcsönzése</mezo>
+<mezo id = "teaszov">ImmateriÃ¡lis javak kÃ¶lcsÃ¶nzÃ©se</mezo>
 </alrovat>
 <alrovat id = "105">
 <mezo id = "hattol">20091112</mezo>
 <mezo id = "valtk">20091112</mezo>
 <mezo id = "bkelt">20091215</mezo>
-<mezo id = "teaszov">Összetett adminisztratív szolgáltatás</mezo>
+<mezo id = "teaszov">Ã–sszetett adminisztratÃ­v szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -588,10 +588,10 @@
 <rovat id = "13">
 <alrovat id = "15">
 <mezo id = "hattol">20070118</mezo>
-<mezo id = "pnev">Hartdégen József</mezo>
+<mezo id = "pnev">HartdÃ©gen JÃ³zsef</mezo>
 <mezo id = "panev">Pallanik Magdolna</mezo>
 <mezo id = "pirsz">2823</mezo>
-<mezo id = "phely">Vértessomló, Gábor Áron u. 24.</mezo>
+<mezo id = "phely">VÃ©rtessomlÃ³, GÃ¡bor Ãron u. 24.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">d</mezo>
 <mezo id = "jogvk">20070101</mezo>
@@ -605,16 +605,16 @@
 <mezo id = "panev">Else Winkelmann</mezo>
 <mezo id = "pkorsz">DE</mezo>
 <mezo id = "pkirsz">22607</mezo>
-<mezo id = "pkhely">Hamburg, Hölderlinstr. 6.</mezo>
+<mezo id = "pkhely">Hamburg, HÃ¶lderlinstr. 6.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">d</mezo>
 <mezo id = "jogvk">20070630</mezo>
 <mezo id = "jogvv">20120630</mezo>
-<mezo id = "pcnev">Nörr &amp; Stienfenhofer Gazdasági Tanácsadó Kft.</mezo>
+<mezo id = "pcnev">NÃ¶rr &amp; Stienfenhofer GazdasÃ¡gi TanÃ¡csadÃ³ Kft.</mezo>
 <mezo id = "pcanev">0</mezo>
 <mezo id = "pcirsz">1052</mezo>
 <mezo id = "pchely">Budapest</mezo>
-<mezo id = "pcteru">Bécsi u.</mezo>
+<mezo id = "pcteru">BÃ©csi u.</mezo>
 <mezo id = "pchsz">5.</mezo>
 <mezo id = "mindig">x</mezo>
 <mezo id = "mnev">Jens Winterberg</mezo>
@@ -623,12 +623,12 @@
 </alrovat>
 <alrovat id = "20">
 <mezo id = "hattol">20091112</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Hartdégen József</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">HartdÃ©gen JÃ³zsef</mezo>
 <mezo id = "panev">Pallanik Magdolna</mezo>
 <mezo id = "pirsz">2823</mezo>
-<mezo id = "phely">Vértessomló</mezo>
-<mezo id = "pteru">Gábor Áron u. 24.</mezo>
+<mezo id = "phely">VÃ©rtessomlÃ³</mezo>
+<mezo id = "pteru">GÃ¡bor Ãron u. 24.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20070101</mezo>
 <mezo id = "jogvv">20100930</mezo>
@@ -637,7 +637,7 @@
 </alrovat>
 <alrovat id = "21">
 <mezo id = "hattol">20091112</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "pnev">Jens Winterberg</mezo>
 <mezo id = "panev">Else Winkelmann</mezo>
 <mezo id = "pkorsz">DE</mezo>
@@ -654,15 +654,15 @@
 </alrovat>
 <alrovat id = "22">
 <mezo id = "hattol">20091112</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Jungné Richter Éva</mezo>
-<mezo id = "panev">Kripl Mária</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">JungnÃ© Richter Ã‰va</mezo>
+<mezo id = "panev">Kripl MÃ¡ria</mezo>
 <mezo id = "pirsz">2837</mezo>
-<mezo id = "phely">Vértesszõlõs</mezo>
-<mezo id = "pteru">Akácfa u. 2.</mezo>
+<mezo id = "phely">VÃ©rtesszÅ‘lÅ‘s</mezo>
+<mezo id = "pteru">AkÃ¡cfa u. 2.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20090126</mezo>
-<mezo id = "mnev">Egy ügyvezetõvel együttesen</mezo>
+<mezo id = "mnev">Egy Ã¼gyvezetÅ‘vel egyÃ¼ttesen</mezo>
 <mezo id = "valtk">20091112</mezo>
 <mezo id = "bkelt">20091215</mezo>
 </alrovat>
@@ -671,12 +671,12 @@
 <alrovat id = "10">
 <mezo id = "hattol">20091112</mezo>
 <mezo id = "cgjsz">0109063022</mezo>
-<mezo id = "nev">PricewaterhouseCoopers Könyvvizsgáló és Gazdasági Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">PricewaterhouseCoopers KÃ¶nyvvizsgÃ¡lÃ³ Ã©s GazdasÃ¡gi TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1077</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Wesselényi u. 16.</mezo>
-<mezo id = "pnev">Lett Kornélia</mezo>
+<mezo id = "teru">WesselÃ©nyi u. 16.</mezo>
+<mezo id = "pnev">Lett KornÃ©lia</mezo>
 <mezo id = "panev">Grubits Jusztina</mezo>
 <mezo id = "pirsz">2089</mezo>
 <mezo id = "phely">Telki</mezo>
@@ -695,10 +695,10 @@
 <mezo id = "pkorsz">AT</mezo>
 <mezo id = "pkirsz">4020</mezo>
 <mezo id = "pkhely">Linz, Figulystr 12.</mezo>
-<mezo id = "pmneve">Dr. Oroszlán Zsuzsa</mezo>
-<mezo id = "pmanev">Hoffmann Márta</mezo>
+<mezo id = "pmneve">Dr. OroszlÃ¡n Zsuzsa</mezo>
+<mezo id = "pmanev">Hoffmann MÃ¡rta</mezo>
 <mezo id = "pmirsz">1011</mezo>
-<mezo id = "pmhely">Budapest, Fõ u. 14-18.</mezo>
+<mezo id = "pmhely">Budapest, FÅ‘ u. 14-18.</mezo>
 <mezo id = "jogvk">20060929</mezo>
 <mezo id = "jogvv">20091104</mezo>
 <mezo id = "valtk">20060929</mezo>
@@ -725,11 +725,11 @@
 <mezo id = "pkirsz">4020</mezo>
 <mezo id = "pkhely">Linz</mezo>
 <mezo id = "pkteru">Adlergasse 10.</mezo>
-<mezo id = "pmneve">Hartdégen József</mezo>
+<mezo id = "pmneve">HartdÃ©gen JÃ³zsef</mezo>
 <mezo id = "pmanev">Pallanik Magdolna</mezo>
 <mezo id = "pmirsz">2823</mezo>
-<mezo id = "pmhely">Vértessomló</mezo>
-<mezo id = "pmteru">Gábor Áron u. 24.</mezo>
+<mezo id = "pmhely">VÃ©rtessomlÃ³</mezo>
+<mezo id = "pmteru">GÃ¡bor Ãron u. 24.</mezo>
 <mezo id = "jogvk">20091112</mezo>
 <mezo id = "jogvv">20141112</mezo>
 <mezo id = "valtk">20091112</mezo>
@@ -743,11 +743,11 @@
 <mezo id = "pkirsz">4040</mezo>
 <mezo id = "pkhely">Linz</mezo>
 <mezo id = "pkteru">Leonfeldnerstrasse 99b.</mezo>
-<mezo id = "pmneve">Hartdégen József</mezo>
+<mezo id = "pmneve">HartdÃ©gen JÃ³zsef</mezo>
 <mezo id = "pmanev">Pallanik Magdolna</mezo>
 <mezo id = "pmirsz">2823</mezo>
-<mezo id = "pmhely">Vértessomló</mezo>
-<mezo id = "pmteru">Gábor Áron u. 24.</mezo>
+<mezo id = "pmhely">VÃ©rtessomlÃ³</mezo>
+<mezo id = "pmteru">GÃ¡bor Ãron u. 24.</mezo>
 <mezo id = "jogvk">20091112</mezo>
 <mezo id = "jogvv">20141112</mezo>
 <mezo id = "valtk">20091112</mezo>
@@ -792,7 +792,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20090630</mezo>
 <mezo id = "jccjsz">0109921570</mezo>
-<mezo id = "nev">AVE Heves Régió Környezetvédelmi és Hulladékgazdálkodási Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">AVE Heves RÃ©giÃ³ KÃ¶rnyezetvÃ©delmi Ã©s HulladÃ©kgazdÃ¡lkodÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">20090630</mezo>
 <mezo id = "bkelt">20090630</mezo>
 </alrovat>
@@ -807,10 +807,10 @@
 <mezo id = "teru">Hollestrasse</mezo>
 <mezo id = "hsz">3.</mezo>
 <mezo id = "k">x</mezo>
-<mezo id = "pmnev">Radnóczy Zsolt</mezo>
+<mezo id = "pmnev">RadnÃ³czy Zsolt</mezo>
 <mezo id = "pmanev">Abrakovics Elvira</mezo>
 <mezo id = "pmirsz">1015</mezo>
-<mezo id = "pmhely">Budapest, Batthyány utca 49.</mezo>
+<mezo id = "pmhely">Budapest, BatthyÃ¡ny utca 49.</mezo>
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">20001220</mezo>
@@ -820,18 +820,18 @@
 <mezo id = "hely">Essen</mezo>
 <mezo id = "teru">Obernplatz</mezo>
 <mezo id = "hsz">1</mezo>
-<mezo id = "pmnev">Radnóczy Zsolt</mezo>
+<mezo id = "pmnev">RadnÃ³czy Zsolt</mezo>
 <mezo id = "pmanev">Abrakovics Elvira</mezo>
 <mezo id = "pmirsz">1015</mezo>
-<mezo id = "pmhely">Budapest, Batthyány utca 49.</mezo>
+<mezo id = "pmhely">Budapest, BatthyÃ¡ny utca 49.</mezo>
 </alrovat>
 <alrovat id = "21">
 <mezo id = "hattol">20091109</mezo>
-<mezo id = "nev">AVE Energie AG Oberösterreich Umwelt GmbH</mezo>
+<mezo id = "nev">AVE Energie AG OberÃ¶sterreich Umwelt GmbH</mezo>
 <mezo id = "orsz">AT</mezo>
 <mezo id = "irsz">4021</mezo>
 <mezo id = "hely">Linz</mezo>
-<mezo id = "teru">Böhmerwaldstraße 3.</mezo>
+<mezo id = "teru">BÃ¶hmerwaldstraÃŸe 3.</mezo>
 <mezo id = "tagsk">20060930</mezo>
 <mezo id = "valtk">20091109</mezo>
 <mezo id = "knyh">Landesgericht Linz</mezo>
@@ -847,319 +847,319 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az RWE Umwelt Services International GmbH (D-45127 Essen, Hollestrae 3.) mint az RWE Umwelt Services Hungary Környezetvédelmi Korlátolt Felelõsségû Társaság (1134 Budapest, Angyalföldi út 5/B; cégjegyzékszám: [01 09 267745]) tagja, 2001. január 11-ével közvetlen irányítást biztosító befolyást szerzett a társaságban, melynek mértéke: 99%.<ujsor/>
-A hitelezõk a Gt. 296. § (2) bekezdése szerinti jogaikat gyakorolhatják.<ujsor/>
+<mezo id = "szoveg">Az RWE Umwelt Services International GmbH (D-45127 Essen, Hollestrae 3.) mint az RWE Umwelt Services Hungary KÃ¶rnyezetvÃ©delmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (1134 Budapest, AngyalfÃ¶ldi Ãºt 5/B; cÃ©gjegyzÃ©kszÃ¡m: [01 09 267745]) tagja, 2001. januÃ¡r 11-Ã©vel kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡st szerzett a tÃ¡rsasÃ¡gban, melynek mÃ©rtÃ©ke: 99%.<ujsor/>
+A hitelezÅ‘k a Gt. 296. Â§ (2) bekezdÃ©se szerinti jogaikat gyakorolhatjÃ¡k.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109267745</mezo>
-<mezo id = "nev">RWE Umwelt Hungary Környezetvédelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">RWE Umwelt Hungary KÃ¶rnyezetvÃ©delmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az Energie AG Oberösterreich (székhelye: Böhmervalstrasse 3, 4021 Linz, Ausztria; cégbejegyzési száma: 76532y) 2004. május 7-i adásvételi szerzõdés alapján 2004. július 22-i hatállyal az RWE Umwelt Hungary Környezetvédelmi Korlátolt Felelõsségû Társaságban (cégjegyzékszám: [01 09 267745]; székhely: 1062 Budapest, Andrássy út 64.; cégneve bejegyzés függvényében AVE Magyarország Hulladékgazdálkodási Korlátolt Felelõsségû Társaságra változik) közvetlen (99,9929%-os) irányítást biztosító befolyással rendelkezõ tulajdonosává vált.<ujsor/>
-A hitelezõk a Gazdasági társaságokról szóló törvény 296. § (2) bekezdése szerinti biztosíték adása iránti igényüket a jelen közzététel utáni kilencvennapos jogvesztõ határidõn belül jelenthetik be.<ujsor/>
+<mezo id = "szoveg">Az Energie AG OberÃ¶sterreich (szÃ©khelye: BÃ¶hmervalstrasse 3, 4021 Linz, Ausztria; cÃ©gbejegyzÃ©si szÃ¡ma: 76532y) 2004. mÃ¡jus 7-i adÃ¡svÃ©teli szerzÅ‘dÃ©s alapjÃ¡n 2004. jÃºlius 22-i hatÃ¡llyal az RWE Umwelt Hungary KÃ¶rnyezetvÃ©delmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gban (cÃ©gjegyzÃ©kszÃ¡m: [01 09 267745]; szÃ©khely: 1062 Budapest, AndrÃ¡ssy Ãºt 64.; cÃ©gneve bejegyzÃ©s fÃ¼ggvÃ©nyÃ©ben AVE MagyarorszÃ¡g HulladÃ©kgazdÃ¡lkodÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gra vÃ¡ltozik) kÃ¶zvetlen (99,9929%-os) irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡ssal rendelkezÅ‘ tulajdonosÃ¡vÃ¡ vÃ¡lt.<ujsor/>
+A hitelezÅ‘k a GazdasÃ¡gi tÃ¡rsasÃ¡gokrÃ³l szÃ³lÃ³ tÃ¶rvÃ©ny 296. Â§ (2) bekezdÃ©se szerinti biztosÃ­tÃ©k adÃ¡sa irÃ¡nti igÃ©nyÃ¼ket a jelen kÃ¶zzÃ©tÃ©tel utÃ¡ni kilencvennapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l jelenthetik be.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109267745</mezo>
-<mezo id = "nev">REM - RWE Entsorgung Magyarország Környezetvédelmi Kft.</mezo>
-<mezo id = "cim">1062 Budapest, Andrássy út 64. </mezo>
+<mezo id = "nev">REM - RWE Entsorgung MagyarorszÃ¡g KÃ¶rnyezetvÃ©delmi Kft.</mezo>
+<mezo id = "cim">1062 Budapest, AndrÃ¡ssy Ãºt 64. </mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2007. 01. 18-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2007. 01. 18-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
 15. Mag. Harald GroBauer (an: Sonja Riegler)<ujsor/>
-Külföldi cím: AT 4020 Linz, Figulystr 12.<ujsor/>
- Kézbesítési megbízott: Dr. Oroszlán Zsuzsa (an: Hoffmann Márta)<ujsor/>
-1011 Budapest, Fõ u. 14-18.<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: AT 4020 Linz, Figulystr 12.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott: Dr. OroszlÃ¡n Zsuzsa (an: Hoffmann MÃ¡rta)<ujsor/>
+1011 Budapest, FÅ‘ u. 14-18.<ujsor/>
  A jogviszony kezdete: 2006. 09. 29.<ujsor/>
- A jogviszony vége: 2009. 11. 04.<ujsor/>
- A változás idõpontja: 2006. 09. 29.<ujsor/>
- Törölve: 2007. 01. 18.<ujsor/>
+ A jogviszony vÃ©ge: 2009. 11. 04.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2006. 09. 29.<ujsor/>
+ TÃ¶rÃ¶lve: 2007. 01. 18.<ujsor/>
  Mag. Harald Grossauer (an: Sonja Riegler)<ujsor/>
-Külföldi cím: AT 4020 Linz, Figulystr 12.<ujsor/>
- Kézbesítési megbízott: Dr. Oroszlán Zsuzsa (an: Hoffmann Márta)<ujsor/>
-1011 Budapest, Fõ u. 14-18.<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: AT 4020 Linz, Figulystr 12.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott: Dr. OroszlÃ¡n Zsuzsa (an: Hoffmann MÃ¡rta)<ujsor/>
+1011 Budapest, FÅ‘ u. 14-18.<ujsor/>
  A jogviszony kezdete: 2006. 09. 29.<ujsor/>
- A jogviszony vége: 2009. 11. 04.<ujsor/>
- A változás idõpontja: 2006. 09. 29.<ujsor/>
+ A jogviszony vÃ©ge: 2009. 11. 04.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2006. 09. 29.<ujsor/>
  Bejegyezve: 2007. 01. 18.<ujsor/>
 2007. 02. 12.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109267745</mezo>
-<mezo id = "nev">AVE Magyaroszág Hulladékgazdálkodási Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1062 Budapest, Andrássy út 64.</mezo>
+<mezo id = "nev">AVE MagyaroszÃ¡g HulladÃ©kgazdÃ¡lkodÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1062 Budapest, AndrÃ¡ssy Ãºt 64.</mezo>
 <mezo id = "adosz">10886586242</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2007. 08. 28-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (ügyvezetõ).<ujsor/>
- Hartdégen József (an: Pallanik Magdolna)<ujsor/>
-2823 Vértessomló , Gábor Áron u. 24.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2007. 08. 28-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘).<ujsor/>
+ HartdÃ©gen JÃ³zsef (an: Pallanik Magdolna)<ujsor/>
+2823 VÃ©rtessomlÃ³ , GÃ¡bor Ãron u. 24.<ujsor/>
  A jogviszony kezdete: 2007. 01. 01.<ujsor/>
- A jogviszony vége: 2010. 09. 30.<ujsor/>
- A változás idõpontja: 2006. 12. 12.<ujsor/>
- A változás idõpontja (törlés): 2007. 01. 01.<ujsor/>
- A képviselet módja: önálló.<ujsor/>
- Együttes képviselet esetén ez a személy mindig aláíró.<ujsor/>
- Együttes képviselet esetén a másik aláíró neve: Jens Winterberg<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (ügyvezetõ).<ujsor/>
+ A jogviszony vÃ©ge: 2010. 09. 30.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2006. 12. 12.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2007. 01. 01.<ujsor/>
+ A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ EgyÃ¼ttes kÃ©pviselet esetÃ©n ez a szemÃ©ly mindig alÃ¡Ã­rÃ³.<ujsor/>
+ EgyÃ¼ttes kÃ©pviselet esetÃ©n a mÃ¡sik alÃ¡Ã­rÃ³ neve: Jens Winterberg<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘).<ujsor/>
  JensWinterberg (an: Else Winkelmann)<ujsor/>
-Külföldi cím: DE 22607 Hamburg, Hölderlinstr . 6.<ujsor/>
- Kézbesítési megbízott szervezet: Nörr &amp; Stienfenhofer Gazdasági Tanácsadó Kft.<ujsor/>
-1052 Budapest, Bécsi u. 5.<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: DE 22607 Hamburg, HÃ¶lderlinstr . 6.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott szervezet: NÃ¶rr &amp; Stienfenhofer GazdasÃ¡gi TanÃ¡csadÃ³ Kft.<ujsor/>
+1052 Budapest, BÃ©csi u. 5.<ujsor/>
  A jogviszony kezdete: 2007. 06. 30.<ujsor/>
- A jogviszony vége: 2012. 06. 30.<ujsor/>
- A változás idõpontja (törlés): 2007. 06. 30.<ujsor/>
- Törölve: 2008. 01. 14.<ujsor/>
- A képviselet módja: együttes.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (ügyvezetõ).<ujsor/>
- Hartdégen József (an: Pallanik Magdolna)<ujsor/>
-2823 Vértessomló , Gábor Áron u. 24.<ujsor/>
+ A jogviszony vÃ©ge: 2012. 06. 30.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2007. 06. 30.<ujsor/>
+ TÃ¶rÃ¶lve: 2008. 01. 14.<ujsor/>
+ A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘).<ujsor/>
+ HartdÃ©gen JÃ³zsef (an: Pallanik Magdolna)<ujsor/>
+2823 VÃ©rtessomlÃ³ , GÃ¡bor Ãron u. 24.<ujsor/>
  A jogviszony kezdete: 2007. 01. 01.<ujsor/>
- A jogviszony vége: 2010. 09. 30.<ujsor/>
- A változás idõpontja: 2007. 01. 01.<ujsor/>
- A képviselet módja: együttes.<ujsor/>
- Együttes képviselet esetén ez a személy mindig aláíró.<ujsor/>
- Együttes képviselet esetén a másik aláíró neve: Jens Winterberg<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (ügyvezetõ).<ujsor/>
+ A jogviszony vÃ©ge: 2010. 09. 30.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2007. 01. 01.<ujsor/>
+ A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ EgyÃ¼ttes kÃ©pviselet esetÃ©n ez a szemÃ©ly mindig alÃ¡Ã­rÃ³.<ujsor/>
+ EgyÃ¼ttes kÃ©pviselet esetÃ©n a mÃ¡sik alÃ¡Ã­rÃ³ neve: Jens Winterberg<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘).<ujsor/>
  Jens Winterberg (an: Else Winkelmann)<ujsor/>
-Külföldi cím: DE 22607 Hamburg, Hölderlinstr . 6.<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: DE 22607 Hamburg, HÃ¶lderlinstr . 6.<ujsor/>
  A jogviszony kezdete: 2007. 06. 30.<ujsor/>
- A jogviszony vége: 2012. 06. 30.<ujsor/>
- A változás idõpontja: 2007. 01. 10.<ujsor/>
+ A jogviszony vÃ©ge: 2012. 06. 30.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2007. 01. 10.<ujsor/>
  Bejegyezve: 2008. 01. 14.<ujsor/>
 2008. 01. 14.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109267745</mezo>
-<mezo id = "nev">AVE Magyaroszág Hulladékgazdálkodási Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1062 Budapest, Andrássy út 64.</mezo>
+<mezo id = "nev">AVE MagyaroszÃ¡g HulladÃ©kgazdÃ¡lkodÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1062 Budapest, AndrÃ¡ssy Ãºt 64.</mezo>
 <mezo id = "adosz">10886586242</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2007. 01. 18-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2007. 01. 18-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
 15. Ing. Helmut Ehrengruber (an: Theresia Kapsamer)<ujsor/>
-Külföldi cím: AT 4631 Krenglbach , Haiding 34.<ujsor/>
- Kézbesítési megbízott: Dr. Füredi Katalin (an: Schüssler Ida)<ujsor/>
-1056 Budapest, Váci u. 81.<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: AT 4631 Krenglbach , Haiding 34.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott: Dr. FÃ¼redi Katalin (an: SchÃ¼ssler Ida)<ujsor/>
+1056 Budapest, VÃ¡ci u. 81.<ujsor/>
  A jogviszony kezdete: 2004. 07. 22.<ujsor/>
- A jogviszony vége: 2009. 07. 22.<ujsor/>
- A változás idõpontja: 2006. 09. 29.<ujsor/>
- A változás idõpontja (törlés): 2009. 01. 26.<ujsor/>
+ A jogviszony vÃ©ge: 2009. 07. 22.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2006. 09. 29.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2009. 01. 26.<ujsor/>
  Bejegyezve: 2006. 09. 29.<ujsor/>
- Törölve: 2009. 01. 26.<ujsor/>
+ TÃ¶rÃ¶lve: 2009. 01. 26.<ujsor/>
  Ing. Helmut Ehrengruber (an: Theresia Kapsamer)<ujsor/>
-Külföldi cím: AT 4631 Krenglbach , Haiding 34.<ujsor/>
- Kézbesítési megbízott: Dr. Füredi Katalin (an: Schüssler Ida)<ujsor/>
-1056 Budapest, Váci u. 81.<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: AT 4631 Krenglbach , Haiding 34.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott: Dr. FÃ¼redi Katalin (an: SchÃ¼ssler Ida)<ujsor/>
+1056 Budapest, VÃ¡ci u. 81.<ujsor/>
  A jogviszony kezdete: 2006. 09. 29.<ujsor/>
- A jogviszony vége: 2009. 11. 04.<ujsor/>
- A változás idõpontja: 2009. 01. 26.<ujsor/>
- A változás idõpontja (törlés): 2009. 01. 26.<ujsor/>
+ A jogviszony vÃ©ge: 2009. 11. 04.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2009. 01. 26.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2009. 01. 26.<ujsor/>
  Bejegyezve: 2009. 01. 26.<ujsor/>
 2009. 03. 02.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109267745</mezo>
-<mezo id = "nev">AVE Magyarország Hulladékgazdálkodási Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1062 Budapest, Andrássy út 64.</mezo>
+<mezo id = "nev">AVE MagyarorszÃ¡g HulladÃ©kgazdÃ¡lkodÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1062 Budapest, AndrÃ¡ssy Ãºt 64.</mezo>
 <mezo id = "adosz">10886586242</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az AVE Magyarország Hulladékgazdálkodási Korlátolt Felelõsségû Társaság (Cg.: [01 09 267745]; székhelye: 1062 Budapest, Andrássy út 64.; képviselõk: Hartdégen József és Jens Winterberg ügyvezetõk, együttes cégjegyzési joggal) bejelenti, hogy a társaság legfõbb szerve 2009. február 23-án meghozott határozatával elhatározta a társaság szétválását.<ujsor/>
-A szétválás módja: a Gt. 86. § (2) bekezdése szerinti kiválás.<ujsor/>
-A szétváló gazdasági társaságot megilletõ jogok és kötelezettségek megosztására vonatkozó megállapodás legfontosabb rendelkezései ­ ideértve különösen a vagyonmegosztás arányát ­ az alábbiak:<ujsor/>
-A szétválás során a szétváló társaság üzletrészeinek 99,9929%-ával rendelkezõ AVE Energie AG Oberösterreich Umwelt GmbH tag (székhely: A-4021 Linz, Böhmerwaldstraße 3. ­ Osztrák Köztársaság) akként válik ki a szétváló társaságból, hogy a szétváló társaság és a Heves Megyei Regionális Hulladékgazdálkodási Társulás (3300 Eger, Dobó tér 2.) között 2007. november 28-án létrejött koncessziós szerzõdésben foglalt jogosultságokat és kötelezettségeket ­ mint egységes vagyonelemet ­ az AVE Heves Régió Környezetvédelmi és Hulladékgazdálkodási Korlátolt Felelõsségû Társaságba (Cg.: [05 09 015080]; székhelye: 3527 Miskolc, József Attila u. 65.; képviselõk: Jungné Richter Éva és Maróti Rita ügyvezetõk, együttes cégjegyzési joggal) mint átvevõ társaságba emeli át, mégpedig oly módon, hogy az átvevõ társaságban (a kiválással egyidejûleg megtörténõ beolvadással) ­ az átvevõ társaság üzletrészein (500 000 Ft összegû törzsbetétje alapján) 0,5882%-os tulajdont szerezve ­ tagsági jogviszonyt létest. A kiválni kívánó tag a szétváló társaságban fennálló tagsági jogviszonyát megtartja.<ujsor/>
-Az AVE Heves Régió Kft. egyedüli tagja a fentiek szerinti beolvadáshoz a 2008. október 20-án meghozott határozatával hozzájárult.<ujsor/>
-A kiválás jellegére [Gt. 86. § (2) bekezdése], valamint a szétváló és az átvevõ társaság tulajdonosi szerkezetére tekintettel a kiválás a szétváló társaság tagjainak vagyonában, illetõleg vagyoni helyzetében érdemi változást nem eredményez, ezért a jogutód társaságban részt venni nem kívánó tag (AVE Österreich GmbH; cégjegyzékszám: FN 97685f, székhely: A-4063 Hörsching, Flughafenstraße 8. ­ Osztrák Köztársaság) felé fennálló jogszabályi elszámolási kötelezettség külön pénzügyi teljesítést nem igényel.<ujsor/>
-A kiválással és az ezzel egyidejû beolvadással az AVE Heves Régió Kft. megszerzi a fentebb hivatkozott koncessziós szerzõdésbõl eredõ valamennyi jogosultságot, ezzel egyidejûleg ugyanakkor a jövõre nézve az érintett szerzõdésbõl eredõ valamennyi kötelezettség is õt terheli. Az érintett felek a fentieket meghaladóan a Gt. 85. §-ában, illetõleg a Gt. 70. § (3)­(6) bekezdései szerint tartoznak felelõsséggel a koncessziós szerzõdésbõl eredõ kötelezettségek teljesítéséért.<ujsor/>
-A szétváló társaságot megilletõ (a hivatkozott koncessziós szerzõdésen kívüli) jogok és kötelezettségek továbbra is változatlan tartalommal az AVE Magyarország Kft.-t illetik és terhelik. Az AVE Magyarország Kft. kiválással nem érintett vagyonát illetõen tehát egyéb vagyonmegosztás nem történik.<ujsor/>
-A kiválással érintett szétváló gazdasági társaság formája: korlátolt felelõsségû társaság. Cégneve: AVE Magyarország Hulladékgazdálkodási Korlátolt Felelõsségû Társaság.<ujsor/>
-A létrejövõ gazdasági társaság formája: korlátolt felelõsségû társaság.<ujsor/>
-Cégneve: AVE Heves Régió Környezetvédelmi és Hulladékgazdálkodási Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhelye: 3527 Miskolc, József Attila u. 65.<ujsor/>
-A létrejövõ gazdasági társaság társasági szerzõdése elfogadásának napja: 2009. február 23.<ujsor/>
-A szétváló gazdasági társaság (AVE Magyarország Kft.) záró vagyonmérleg-tervezetének fontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 5 858 964 Saját tõke 2 215 978<ujsor/>
-Immateriális javak 581 400 Jegyzett tõke 1 411 130<ujsor/>
-Tárgyi eszközök 184 152 Jegyzett, de még be nem fizetett tõke 0<ujsor/>
-Befektetett pénzügyi eszközök 5 093 412 Tõketartalék 10 512<ujsor/>
-Forgóeszközök 2 653 702 Eredménytartalék 749 773<ujsor/>
-Készletek 24 405 Lekötött tartalék 0<ujsor/>
-Követelések 2 587 463 Értékelési tartalék 0<ujsor/>
-Értékpapírok 39 325 Mérleg szerinti eredmény 44 563<ujsor/>
-Pénzeszközök 2 509 Céltartalékok 19 514<ujsor/>
-Aktív idõbeli elhatárolások 154 Kötelezettségek 6 222 712<ujsor/>
-Hátra sorolt kötelezettségek 0<ujsor/>
-Hosszú lejáratú kötelezettségek 4 753 078<ujsor/>
-Rövid lejáratú kötelezettségek 1 469 634<ujsor/>
-Passzív idõbeli elhatárolások 54 616<ujsor/>
-ÖSSZESEN: 8 512 820 ÖSSZESEN: 8 512 820<ujsor/>
-Az átvevõ gazdasági társaság (AVE Heves Régió Kft.) záró vagyonmérleg-tervezetének fontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 62 888 Saját tõke 95 940<ujsor/>
-Immateriális javak 0 Jegyzett tõke 100 000<ujsor/>
-Tárgyi eszközök 62 888 Jegyzett, de még be nem fizetett tõke 0<ujsor/>
-Befektetett pénzügyi eszközök 0 Tõketartalék 0<ujsor/>
-Forgóeszközök 37 010 Eredménytartalék 0<ujsor/>
-Készletek 0 Lekötött tartalék 0<ujsor/>
-Követelések 9 697 Értékelési tartalék 0<ujsor/>
-Értékpapírok 0 Mérleg szerinti eredmény ­4 060<ujsor/>
-Pénzeszközök 27 313 Céltartalékok 0<ujsor/>
-Aktív idõbeli elhatárolások 0 Kötelezettségek 3 408<ujsor/>
-Hátra sorolt kötelezettségek 0<ujsor/>
-Hosszú lejáratú kötelezettségek 0<ujsor/>
-Rövid lejáratú kötelezettségek 3 408<ujsor/>
-Passzív idõbeli elhatárolások 550<ujsor/>
-ÖSSZESEN: 99 898 ÖSSZESEN: 99 898<ujsor/>
-A beolvadással létrejövõ gazdasági társaság (AVE Heves Régió Kft.) nyitó vagyonmérleg-tervezetének fontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 705 531 Saját tõke 96 440<ujsor/>
-Immateriális javak 580 000 Jegyzett tõke 85 000<ujsor/>
-Tárgyi eszközök 125 531 Jegyzett, de még be nem fizetett tõke 0<ujsor/>
-Befektetett pénzügyi eszközök 0 Tõketartalék 0<ujsor/>
-Forgóeszközök 37 010 Eredménytartalék 0<ujsor/>
-Készletek 0 Lekötött tartalék 11 440<ujsor/>
-Követelések 9 697 Értékelési tartalék 0<ujsor/>
-Értékpapírok 0 Mérleg szerinti eredmény 0<ujsor/>
-Pénzeszközök 27 313 Céltartalékok 0<ujsor/>
-Aktív idõbeli elhatárolások 0 Kötelezettségek 645 551<ujsor/>
-Hátra sorolt kötelezettségek 0<ujsor/>
-Hosszú lejáratú kötelezettségek 642 143<ujsor/>
-Rövid lejáratú kötelezettségek 3 408<ujsor/>
-Passzív idõbeli elhatárolások 550<ujsor/>
-ÖSSZESEN: 742 541 ÖSSZESEN: 742 541<ujsor/>
-A fennmaradó gazdasági társaság (AVE Magyarország Kft.) nyitó vagyonmérleg-tervezetének fontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 5 216 964 Saját tõke 2 215 478<ujsor/>
-Immateriális javak 1 400 Jegyzett tõke 1 411 130<ujsor/>
-Tárgyi eszközök 121 509 Jegyzett, de még be nem fizetett tõke 0<ujsor/>
-Befektetett pénzügyi eszközök 5 093 412 Tõketartalék 10 012<ujsor/>
-Forgóeszközök 2 653 702 Eredménytartalék 749 336<ujsor/>
-Készletek 24 405 Lekötött tartalék 0<ujsor/>
-Követelések 2 587 463 Értékelési tartalék 0<ujsor/>
-Értékpapírok 39 325 Mérleg szerinti eredmény 0<ujsor/>
-Pénzeszközök 2 509 Céltartalékok 19 514<ujsor/>
-Aktív idõbeli elhatárolások 154 Kötelezettségek 5 580 569<ujsor/>
-Hátra sorolt kötelezettségek 0<ujsor/>
-Hosszú lejáratú kötelezettségek 4 110 935<ujsor/>
-Rövid lejáratú kötelezettségek 1 469 634<ujsor/>
-Passzív idõbeli elhatárolások 54 616<ujsor/>
-ÖSSZESEN: 7 870 177 ÖSSZESEN: 7 870 177<ujsor/>
-A létrejövõ gazdasági társaság (AVE Heves Régió Kft.) fõ tevékenysége (TEÁOR ’08): 3821 Nem veszélyes hulladék kezelése, ártalmatlanítása.<ujsor/>
-A létrejövõ gazdasági társaság (AVE Heves Régió Kft.) vezetõ tisztségviselõi: Jungné Richter Éva (2837 Vértesszõlõs, Akácfa u. 2.), Maróti Rita (2100 Gödöllõ, Bem József u. 35.).<ujsor/>
-Afennmaradó gazdasági társaság (AVE Magyarország Kft.) fõ tevékenysége (TEÁOR ’08): 3900 Szennyezõdésmentesítés, egyéb hulladékkezelés.<ujsor/>
-A fennmaradó gazdasági társaság (AVE Magyarország Kft.) vezetõ tisztségviselõi: Harrdégen József (2823 Vértessomló, Gábor Áron u. 24.), Jens Winterberg (D 22607 Hamburg, Hölderlinstr. 6.).<ujsor/>
-Az AVE Heves Régió Kft. legfõbb szervének 2009. február 23-án meghozott határozata szerint a Gt. 86. § (2) bekezdése szerinti beolvadással egyidejûleg a beolvadással létrejövõ gazdasági társaság (AVE Heves Régió Kft.) jegyzett tõkéje ­ veszteség rendezése, valamint a saját tõke más elemeinek növelése céljából ­ a korábbi 100 000 000 Ft összegrõl 85 000 000 Ft összegre kerül leszállításra.<ujsor/>
-Az átalakulással érintett társaságok tájékoztatják a hitelezõket, hogy azok a hitelezõk, akiknek az átalakuló gazdasági társaságokkal szemben fennálló, le nem járt követelései az átalakulásról hozott döntés elsõ közzétételét megelõzõen keletkeztek, követeléseik erejéig az átalakulással érintett gazdasági társaságoktól a döntés második közzétételét követõ harmincnapos jogvesztõ határidõn belül biztosítékot követelhetnek.<ujsor/>
-Az érintett társaságok felhívják a hitelezõket, hogy követeléseiket a fenti jogszabályi határidõn belül a társaságoknak jelentsék be. Az átalakulással érintett társaságok tájékoztatják a hitelezõket, hogy a hirdetményi határidõ alatt a követelésüket érinti vagyonmegosztási rendelkezésekrõl a szétváló társaság székhelyén (1062 Budapest, Andrássy út 64.) kaphatnak részletes tájékoztatást.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">Az AVE MagyarorszÃ¡g HulladÃ©kgazdÃ¡lkodÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [01 09 267745]; szÃ©khelye: 1062 Budapest, AndrÃ¡ssy Ãºt 64.; kÃ©pviselÅ‘k: HartdÃ©gen JÃ³zsef Ã©s Jens Winterberg Ã¼gyvezetÅ‘k, egyÃ¼ttes cÃ©gjegyzÃ©si joggal) bejelenti, hogy a tÃ¡rsasÃ¡g legfÅ‘bb szerve 2009. februÃ¡r 23-Ã¡n meghozott hatÃ¡rozatÃ¡val elhatÃ¡rozta a tÃ¡rsasÃ¡g szÃ©tvÃ¡lÃ¡sÃ¡t.<ujsor/>
+A szÃ©tvÃ¡lÃ¡s mÃ³dja: a Gt. 86. Â§ (2) bekezdÃ©se szerinti kivÃ¡lÃ¡s.<ujsor/>
+A szÃ©tvÃ¡lÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡got megilletÅ‘ jogok Ã©s kÃ¶telezettsÃ©gek megosztÃ¡sÃ¡ra vonatkozÃ³ megÃ¡llapodÃ¡s legfontosabb rendelkezÃ©sei Â­ ideÃ©rtve kÃ¼lÃ¶nÃ¶sen a vagyonmegosztÃ¡s arÃ¡nyÃ¡t Â­ az alÃ¡bbiak:<ujsor/>
+A szÃ©tvÃ¡lÃ¡s sorÃ¡n a szÃ©tvÃ¡lÃ³ tÃ¡rsasÃ¡g Ã¼zletrÃ©szeinek 99,9929%-Ã¡val rendelkezÅ‘ AVE Energie AG OberÃ¶sterreich Umwelt GmbH tag (szÃ©khely: A-4021 Linz, BÃ¶hmerwaldstraÃŸe 3. Â­ OsztrÃ¡k KÃ¶ztÃ¡rsasÃ¡g) akkÃ©nt vÃ¡lik ki a szÃ©tvÃ¡lÃ³ tÃ¡rsasÃ¡gbÃ³l, hogy a szÃ©tvÃ¡lÃ³ tÃ¡rsasÃ¡g Ã©s a Heves Megyei RegionÃ¡lis HulladÃ©kgazdÃ¡lkodÃ¡si TÃ¡rsulÃ¡s (3300 Eger, DobÃ³ tÃ©r 2.) kÃ¶zÃ¶tt 2007. november 28-Ã¡n lÃ©trejÃ¶tt koncessziÃ³s szerzÅ‘dÃ©sben foglalt jogosultsÃ¡gokat Ã©s kÃ¶telezettsÃ©geket Â­ mint egysÃ©ges vagyonelemet Â­ az AVE Heves RÃ©giÃ³ KÃ¶rnyezetvÃ©delmi Ã©s HulladÃ©kgazdÃ¡lkodÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gba (Cg.: [05 09 015080]; szÃ©khelye: 3527 Miskolc, JÃ³zsef Attila u. 65.; kÃ©pviselÅ‘k: JungnÃ© Richter Ã‰va Ã©s MarÃ³ti Rita Ã¼gyvezetÅ‘k, egyÃ¼ttes cÃ©gjegyzÃ©si joggal) mint Ã¡tvevÅ‘ tÃ¡rsasÃ¡gba emeli Ã¡t, mÃ©gpedig oly mÃ³don, hogy az Ã¡tvevÅ‘ tÃ¡rsasÃ¡gban (a kivÃ¡lÃ¡ssal egyidejÅ±leg megtÃ¶rtÃ©nÅ‘ beolvadÃ¡ssal) Â­ az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g Ã¼zletrÃ©szein (500 000 Ft Ã¶sszegÅ± tÃ¶rzsbetÃ©tje alapjÃ¡n) 0,5882%-os tulajdont szerezve Â­ tagsÃ¡gi jogviszonyt lÃ©test. A kivÃ¡lni kÃ­vÃ¡nÃ³ tag a szÃ©tvÃ¡lÃ³ tÃ¡rsasÃ¡gban fennÃ¡llÃ³ tagsÃ¡gi jogviszonyÃ¡t megtartja.<ujsor/>
+Az AVE Heves RÃ©giÃ³ Kft. egyedÃ¼li tagja a fentiek szerinti beolvadÃ¡shoz a 2008. oktÃ³ber 20-Ã¡n meghozott hatÃ¡rozatÃ¡val hozzÃ¡jÃ¡rult.<ujsor/>
+A kivÃ¡lÃ¡s jellegÃ©re [Gt. 86. Â§ (2) bekezdÃ©se], valamint a szÃ©tvÃ¡lÃ³ Ã©s az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g tulajdonosi szerkezetÃ©re tekintettel a kivÃ¡lÃ¡s a szÃ©tvÃ¡lÃ³ tÃ¡rsasÃ¡g tagjainak vagyonÃ¡ban, illetÅ‘leg vagyoni helyzetÃ©ben Ã©rdemi vÃ¡ltozÃ¡st nem eredmÃ©nyez, ezÃ©rt a jogutÃ³d tÃ¡rsasÃ¡gban rÃ©szt venni nem kÃ­vÃ¡nÃ³ tag (AVE Ã–sterreich GmbH; cÃ©gjegyzÃ©kszÃ¡m: FN 97685f, szÃ©khely: A-4063 HÃ¶rsching, FlughafenstraÃŸe 8. Â­ OsztrÃ¡k KÃ¶ztÃ¡rsasÃ¡g) felÃ© fennÃ¡llÃ³ jogszabÃ¡lyi elszÃ¡molÃ¡si kÃ¶telezettsÃ©g kÃ¼lÃ¶n pÃ©nzÃ¼gyi teljesÃ­tÃ©st nem igÃ©nyel.<ujsor/>
+A kivÃ¡lÃ¡ssal Ã©s az ezzel egyidejÅ± beolvadÃ¡ssal az AVE Heves RÃ©giÃ³ Kft. megszerzi a fentebb hivatkozott koncessziÃ³s szerzÅ‘dÃ©sbÅ‘l eredÅ‘ valamennyi jogosultsÃ¡got, ezzel egyidejÅ±leg ugyanakkor a jÃ¶vÅ‘re nÃ©zve az Ã©rintett szerzÅ‘dÃ©sbÅ‘l eredÅ‘ valamennyi kÃ¶telezettsÃ©g is Å‘t terheli. Az Ã©rintett felek a fentieket meghaladÃ³an a Gt. 85. Â§-Ã¡ban, illetÅ‘leg a Gt. 70. Â§ (3)Â­(6) bekezdÃ©sei szerint tartoznak felelÅ‘ssÃ©ggel a koncessziÃ³s szerzÅ‘dÃ©sbÅ‘l eredÅ‘ kÃ¶telezettsÃ©gek teljesÃ­tÃ©sÃ©Ã©rt.<ujsor/>
+A szÃ©tvÃ¡lÃ³ tÃ¡rsasÃ¡got megilletÅ‘ (a hivatkozott koncessziÃ³s szerzÅ‘dÃ©sen kÃ­vÃ¼li) jogok Ã©s kÃ¶telezettsÃ©gek tovÃ¡bbra is vÃ¡ltozatlan tartalommal az AVE MagyarorszÃ¡g Kft.-t illetik Ã©s terhelik. Az AVE MagyarorszÃ¡g Kft. kivÃ¡lÃ¡ssal nem Ã©rintett vagyonÃ¡t illetÅ‘en tehÃ¡t egyÃ©b vagyonmegosztÃ¡s nem tÃ¶rtÃ©nik.<ujsor/>
+A kivÃ¡lÃ¡ssal Ã©rintett szÃ©tvÃ¡lÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g formÃ¡ja: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g. CÃ©gneve: AVE MagyarorszÃ¡g HulladÃ©kgazdÃ¡lkodÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g formÃ¡ja: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gneve: AVE Heves RÃ©giÃ³ KÃ¶rnyezetvÃ©delmi Ã©s HulladÃ©kgazdÃ¡lkodÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 3527 Miskolc, JÃ³zsef Attila u. 65.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g tÃ¡rsasÃ¡gi szerzÅ‘dÃ©se elfogadÃ¡sÃ¡nak napja: 2009. februÃ¡r 23.<ujsor/>
+A szÃ©tvÃ¡lÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g (AVE MagyarorszÃ¡g Kft.) zÃ¡rÃ³ vagyonmÃ©rleg-tervezetÃ©nek fontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 5 858 964 SajÃ¡t tÅ‘ke 2 215 978<ujsor/>
+ImmateriÃ¡lis javak 581 400 Jegyzett tÅ‘ke 1 411 130<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 184 152 Jegyzett, de mÃ©g be nem fizetett tÅ‘ke 0<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 5 093 412 TÅ‘ketartalÃ©k 10 512<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 2 653 702 EredmÃ©nytartalÃ©k 749 773<ujsor/>
+KÃ©szletek 24 405 LekÃ¶tÃ¶tt tartalÃ©k 0<ujsor/>
+KÃ¶vetelÃ©sek 2 587 463 Ã‰rtÃ©kelÃ©si tartalÃ©k 0<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 39 325 MÃ©rleg szerinti eredmÃ©ny 44 563<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 2 509 CÃ©ltartalÃ©kok 19 514<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 154 KÃ¶telezettsÃ©gek 6 222 712<ujsor/>
+HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0<ujsor/>
+HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 4 753 078<ujsor/>
+RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 1 469 634<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 54 616<ujsor/>
+Ã–SSZESEN: 8 512 820 Ã–SSZESEN: 8 512 820<ujsor/>
+Az Ã¡tvevÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g (AVE Heves RÃ©giÃ³ Kft.) zÃ¡rÃ³ vagyonmÃ©rleg-tervezetÃ©nek fontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 62 888 SajÃ¡t tÅ‘ke 95 940<ujsor/>
+ImmateriÃ¡lis javak 0 Jegyzett tÅ‘ke 100 000<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 62 888 Jegyzett, de mÃ©g be nem fizetett tÅ‘ke 0<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 TÅ‘ketartalÃ©k 0<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 37 010 EredmÃ©nytartalÃ©k 0<ujsor/>
+KÃ©szletek 0 LekÃ¶tÃ¶tt tartalÃ©k 0<ujsor/>
+KÃ¶vetelÃ©sek 9 697 Ã‰rtÃ©kelÃ©si tartalÃ©k 0<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 0 MÃ©rleg szerinti eredmÃ©ny Â­4 060<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 27 313 CÃ©ltartalÃ©kok 0<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 0 KÃ¶telezettsÃ©gek 3 408<ujsor/>
+HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0<ujsor/>
+HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0<ujsor/>
+RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 3 408<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 550<ujsor/>
+Ã–SSZESEN: 99 898 Ã–SSZESEN: 99 898<ujsor/>
+A beolvadÃ¡ssal lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g (AVE Heves RÃ©giÃ³ Kft.) nyitÃ³ vagyonmÃ©rleg-tervezetÃ©nek fontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 705 531 SajÃ¡t tÅ‘ke 96 440<ujsor/>
+ImmateriÃ¡lis javak 580 000 Jegyzett tÅ‘ke 85 000<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 125 531 Jegyzett, de mÃ©g be nem fizetett tÅ‘ke 0<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 TÅ‘ketartalÃ©k 0<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 37 010 EredmÃ©nytartalÃ©k 0<ujsor/>
+KÃ©szletek 0 LekÃ¶tÃ¶tt tartalÃ©k 11 440<ujsor/>
+KÃ¶vetelÃ©sek 9 697 Ã‰rtÃ©kelÃ©si tartalÃ©k 0<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 0 MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 27 313 CÃ©ltartalÃ©kok 0<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 0 KÃ¶telezettsÃ©gek 645 551<ujsor/>
+HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0<ujsor/>
+HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 642 143<ujsor/>
+RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 3 408<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 550<ujsor/>
+Ã–SSZESEN: 742 541 Ã–SSZESEN: 742 541<ujsor/>
+A fennmaradÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g (AVE MagyarorszÃ¡g Kft.) nyitÃ³ vagyonmÃ©rleg-tervezetÃ©nek fontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 5 216 964 SajÃ¡t tÅ‘ke 2 215 478<ujsor/>
+ImmateriÃ¡lis javak 1 400 Jegyzett tÅ‘ke 1 411 130<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 121 509 Jegyzett, de mÃ©g be nem fizetett tÅ‘ke 0<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 5 093 412 TÅ‘ketartalÃ©k 10 012<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 2 653 702 EredmÃ©nytartalÃ©k 749 336<ujsor/>
+KÃ©szletek 24 405 LekÃ¶tÃ¶tt tartalÃ©k 0<ujsor/>
+KÃ¶vetelÃ©sek 2 587 463 Ã‰rtÃ©kelÃ©si tartalÃ©k 0<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 39 325 MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 2 509 CÃ©ltartalÃ©kok 19 514<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 154 KÃ¶telezettsÃ©gek 5 580 569<ujsor/>
+HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0<ujsor/>
+HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 4 110 935<ujsor/>
+RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 1 469 634<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 54 616<ujsor/>
+Ã–SSZESEN: 7 870 177 Ã–SSZESEN: 7 870 177<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g (AVE Heves RÃ©giÃ³ Kft.) fÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™08): 3821 Nem veszÃ©lyes hulladÃ©k kezelÃ©se, Ã¡rtalmatlanÃ­tÃ¡sa.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g (AVE Heves RÃ©giÃ³ Kft.) vezetÅ‘ tisztsÃ©gviselÅ‘i: JungnÃ© Richter Ã‰va (2837 VÃ©rtesszÅ‘lÅ‘s, AkÃ¡cfa u. 2.), MarÃ³ti Rita (2100 GÃ¶dÃ¶llÅ‘, Bem JÃ³zsef u. 35.).<ujsor/>
+AfennmaradÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g (AVE MagyarorszÃ¡g Kft.) fÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™08): 3900 SzennyezÅ‘dÃ©smentesÃ­tÃ©s, egyÃ©b hulladÃ©kkezelÃ©s.<ujsor/>
+A fennmaradÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g (AVE MagyarorszÃ¡g Kft.) vezetÅ‘ tisztsÃ©gviselÅ‘i: HarrdÃ©gen JÃ³zsef (2823 VÃ©rtessomlÃ³, GÃ¡bor Ãron u. 24.), Jens Winterberg (D 22607 Hamburg, HÃ¶lderlinstr. 6.).<ujsor/>
+Az AVE Heves RÃ©giÃ³ Kft. legfÅ‘bb szervÃ©nek 2009. februÃ¡r 23-Ã¡n meghozott hatÃ¡rozata szerint a Gt. 86. Â§ (2) bekezdÃ©se szerinti beolvadÃ¡ssal egyidejÅ±leg a beolvadÃ¡ssal lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g (AVE Heves RÃ©giÃ³ Kft.) jegyzett tÅ‘kÃ©je Â­ vesztesÃ©g rendezÃ©se, valamint a sajÃ¡t tÅ‘ke mÃ¡s elemeinek nÃ¶velÃ©se cÃ©ljÃ¡bÃ³l Â­ a korÃ¡bbi 100 000 000 Ft Ã¶sszegrÅ‘l 85 000 000 Ft Ã¶sszegre kerÃ¼l leszÃ¡llÃ­tÃ¡sra.<ujsor/>
+Az Ã¡talakulÃ¡ssal Ã©rintett tÃ¡rsasÃ¡gok tÃ¡jÃ©koztatjÃ¡k a hitelezÅ‘ket, hogy azok a hitelezÅ‘k, akiknek az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gokkal szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei az Ã¡talakulÃ¡srÃ³l hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig az Ã¡talakulÃ¡ssal Ã©rintett gazdasÃ¡gi tÃ¡rsasÃ¡goktÃ³l a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+Az Ã©rintett tÃ¡rsasÃ¡gok felhÃ­vjÃ¡k a hitelezÅ‘ket, hogy kÃ¶vetelÃ©seiket a fenti jogszabÃ¡lyi hatÃ¡ridÅ‘n belÃ¼l a tÃ¡rsasÃ¡goknak jelentsÃ©k be. Az Ã¡talakulÃ¡ssal Ã©rintett tÃ¡rsasÃ¡gok tÃ¡jÃ©koztatjÃ¡k a hitelezÅ‘ket, hogy a hirdetmÃ©nyi hatÃ¡ridÅ‘ alatt a kÃ¶vetelÃ©sÃ¼ket Ã©rinti vagyonmegosztÃ¡si rendelkezÃ©sekrÅ‘l a szÃ©tvÃ¡lÃ³ tÃ¡rsasÃ¡g szÃ©khelyÃ©n (1062 Budapest, AndrÃ¡ssy Ãºt 64.) kaphatnak rÃ©szletes tÃ¡jÃ©koztatÃ¡st.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109267745</mezo>
-<mezo id = "nev">AVE Magyarország Hulladékgazdálkodási Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">AVE MagyarorszÃ¡g HulladÃ©kgazdÃ¡lkodÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1062 Budapest</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az AVE Magyarország Hulladékgazdálkodási Korlátolt Felelõsségû Társaság (Cg.: [01 09 267745]; székhelye: 1062 Budapest, Andrássy út 64.; képviselõk: Hartdégen József és Jens Winterberg ügyvezetõk, együttes cégjegyzési joggal) bejelenti, hogy a társaság legfõbb szerve 2009. február 23-án meghozott határozatával elhatározta a társaság szétválását.<ujsor/>
-A szétválás módja: a Gt. 86. § (2) bekezdése szerinti kiválás.<ujsor/>
-A szétváló gazdasági társaságot megilletõ jogok és kötelezettségek megosztására vonatkozó megállapodás legfontosabb rendelkezései ­ ideértve különösen a vagyonmegosztás arányát ­ az alábbiak:<ujsor/>
-A szétválás során a szétváló társaság üzletrészeinek 99,9929%-ával rendelkezõ AVE Energie AG Oberösterreich Umwelt GmbH tag (székhely: A-4021 Linz, Böhmerwaldstraße 3. ­ Osztrák Köztársaság) akként válik ki a szétváló társaságból, hogy a szétváló társaság és a Heves Megyei Regionális Hulladékgazdálkodási Társulás (3300 Eger, Dobó tér 2.) között 2007. november 28-án létrejött koncessziós szerzõdésben foglalt jogosultságokat és kötelezettségeket ­ mint egységes vagyonelemet ­ az AVE Heves Régió Környezetvédelmi és Hulladékgazdálkodási Korlátolt Felelõsségû Társaságba (Cg.: [05 09 015080]; székhelye: 3527 Miskolc, József Attila u. 65.; képviselõk: Jungné Richter Éva és Maróti Rita ügyvezetõk, együttes cégjegyzési joggal) mint átvevõ társaságba emeli át, mégpedig oly módon, hogy az átvevõ társaságban (a kiválással egyidejûleg megtörténõ beolvadással) ­ az átvevõ társaság üzletrészein (500 000 Ft összegû törzsbetétje alapján) 0,5882%-os tulajdont szerezve ­ tagsági jogviszonyt létest. A kiválni kívánó tag a szétváló társaságban fennálló tagsági jogviszonyát megtartja.<ujsor/>
-Az AVE Heves Régió Kft. egyedüli tagja a fentiek szerinti beolvadáshoz a 2008. október 20-án meghozott határozatával hozzájárult.<ujsor/>
-A kiválás jellegére [Gt. 86. § (2) bekezdése], valamint a szétváló és az átvevõ társaság tulajdonosi szerkezetére tekintettel a kiválás a szétváló társaság tagjainak vagyonában, illetõleg vagyoni helyzetében érdemi változást nem eredményez, ezért a jogutód társaságban részt venni nem kívánó tag (AVE Österreich GmbH; cégjegyzékszám: FN 97685f, székhely: A-4063 Hörsching, Flughafenstraße 8. ­ Osztrák Köztársaság) felé fennálló jogszabályi elszámolási kötelezettség külön pénzügyi teljesítést nem igényel.<ujsor/>
-A kiválással és az ezzel egyidejû beolvadással az AVE Heves Régió Kft. megszerzi a fentebb hivatkozott koncessziós szerzõdésbõl eredõ valamennyi jogosultságot, ezzel egyidejûleg ugyanakkor a jövõre nézve az érintett szerzõdésbõl eredõ valamennyi kötelezettség is õt terheli. Az érintett felek a fentieket meghaladóan a Gt. 85. §-ában, illetõleg a Gt. 70. § (3)­(6) bekezdései szerint tartoznak felelõsséggel a koncessziós szerzõdésbõl eredõ kötelezettségek teljesítéséért.<ujsor/>
-A szétváló társaságot megilletõ (a hivatkozott koncessziós szerzõdésen kívüli) jogok és kötelezettségek továbbra is változatlan tartalommal az AVE Magyarország Kft.-t illetik és terhelik. Az AVE Magyarország Kft. kiválással nem érintett vagyonát illetõen tehát egyéb vagyonmegosztás nem történik.<ujsor/>
-A kiválással érintett szétváló gazdasági társaság formája: korlátolt felelõsségû társaság. Cégneve: AVE Magyarország Hulladékgazdálkodási Korlátolt Felelõsségû Társaság.<ujsor/>
-A létrejövõ gazdasági társaság formája: korlátolt felelõsségû társaság.<ujsor/>
-Cégneve: AVE Heves Régió Környezetvédelmi és Hulladékgazdálkodási Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhelye: 3527 Miskolc, József Attila u. 65.<ujsor/>
-A létrejövõ gazdasági társaság társasági szerzõdése elfogadásának napja: 2009. február 23.<ujsor/>
-A szétváló gazdasági társaság (AVE Magyarország Kft.) záró vagyonmérleg-tervezetének fontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 5 858 964 Saját tõke 2 215 978<ujsor/>
-Immateriális javak 581 400 Jegyzett tõke 1 411 130<ujsor/>
-Tárgyi eszközök 184 152 Jegyzett, de még be nem fizetett tõke 0<ujsor/>
-Befektetett pénzügyi eszközök 5 093 412 Tõketartalék 10 512<ujsor/>
-Forgóeszközök 2 653 702 Eredménytartalék 749 773<ujsor/>
-Készletek 24 405 Lekötött tartalék 0<ujsor/>
-Követelések 2 587 463 Értékelési tartalék 0<ujsor/>
-Értékpapírok 39 325 Mérleg szerinti eredmény 44 563<ujsor/>
-Pénzeszközök 2 509 Céltartalékok 19 514<ujsor/>
-Aktív idõbeli elhatárolások 154 Kötelezettségek 6 222 712<ujsor/>
-Hátra sorolt kötelezettségek 0<ujsor/>
-Hosszú lejáratú kötelezettségek 4 753 078<ujsor/>
-Rövid lejáratú kötelezettségek 1 469 634<ujsor/>
-Passzív idõbeli elhatárolások 54 616<ujsor/>
-ÖSSZESEN: 8 512 820 ÖSSZESEN: 8 512 820<ujsor/>
-Az átvevõ gazdasági társaság (AVE Heves Régió Kft.) záró vagyonmérleg-tervezetének fontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 62 888 Saját tõke 95 940<ujsor/>
-Immateriális javak 0 Jegyzett tõke 100 000<ujsor/>
-Tárgyi eszközök 62 888 Jegyzett, de még be nem fizetett tõke 0<ujsor/>
-Befektetett pénzügyi eszközök 0 Tõketartalék 0<ujsor/>
-Forgóeszközök 37 010 Eredménytartalék 0<ujsor/>
-Készletek 0 Lekötött tartalék 0<ujsor/>
-Követelések 9 697 Értékelési tartalék 0<ujsor/>
-Értékpapírok 0 Mérleg szerinti eredmény ­4 060<ujsor/>
-Pénzeszközök 27 313 Céltartalékok 0<ujsor/>
-Aktív idõbeli elhatárolások 0 Kötelezettségek 3 408<ujsor/>
-Hátra sorolt kötelezettségek 0<ujsor/>
-Hosszú lejáratú kötelezettségek 0<ujsor/>
-Rövid lejáratú kötelezettségek 3 408<ujsor/>
-Passzív idõbeli elhatárolások 550<ujsor/>
-ÖSSZESEN: 99 898 ÖSSZESEN: 99 898<ujsor/>
-A beolvadással létrejövõ gazdasági társaság (AVE Heves Régió Kft.) nyitó vagyonmérleg-tervezetének fontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 705 531 Saját tõke 96 440<ujsor/>
-Immateriális javak 580 000 Jegyzett tõke 85 000<ujsor/>
-Tárgyi eszközök 125 531 Jegyzett, de még be nem fizetett tõke 0<ujsor/>
-Befektetett pénzügyi eszközök 0 Tõketartalék 0<ujsor/>
-Forgóeszközök 37 010 Eredménytartalék 0<ujsor/>
-Készletek 0 Lekötött tartalék 11 440<ujsor/>
-Követelések 9 697 Értékelési tartalék 0<ujsor/>
-Értékpapírok 0 Mérleg szerinti eredmény 0<ujsor/>
-Pénzeszközök 27 313 Céltartalékok 0<ujsor/>
-Aktív idõbeli elhatárolások 0 Kötelezettségek 645 551<ujsor/>
-Hátra sorolt kötelezettségek 0<ujsor/>
-Hosszú lejáratú kötelezettségek 642 143<ujsor/>
-Rövid lejáratú kötelezettségek 3 408<ujsor/>
-Passzív idõbeli elhatárolások 550<ujsor/>
-ÖSSZESEN: 742 541 ÖSSZESEN: 742 541<ujsor/>
-A fennmaradó gazdasági társaság (AVE Magyarország Kft.) nyitó vagyonmérleg-tervezetének fontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 5 216 964 Saját tõke 2 215 478<ujsor/>
-Immateriális javak 1 400 Jegyzett tõke 1 411 130<ujsor/>
-Tárgyi eszközök 121 509 Jegyzett, de még be nem fizetett tõke 0<ujsor/>
-Befektetett pénzügyi eszközök 5 093 412 Tõketartalék 10 012<ujsor/>
-Forgóeszközök 2 653 702 Eredménytartalék 749 336<ujsor/>
-Készletek 24 405 Lekötött tartalék 0<ujsor/>
-Követelések 2 587 463 Értékelési tartalék 0<ujsor/>
-Értékpapírok 39 325 Mérleg szerinti eredmény 0<ujsor/>
-Pénzeszközök 2 509 Céltartalékok 19 514<ujsor/>
-Aktív idõbeli elhatárolások 154 Kötelezettségek 5 580 569<ujsor/>
-Hátra sorolt kötelezettségek 0<ujsor/>
-Hosszú lejáratú kötelezettségek 4 110 935<ujsor/>
-Rövid lejáratú kötelezettségek 1 469 634<ujsor/>
-Passzív idõbeli elhatárolások 54 616<ujsor/>
-ÖSSZESEN: 7 870 177 ÖSSZESEN: 7 870 177<ujsor/>
-A létrejövõ gazdasági társaság (AVE Heves Régió Kft.) fõ tevékenysége (TEÁOR ’08): 3821 Nem veszélyes hulladék kezelése, ártalmatlanítása.<ujsor/>
-A létrejövõ gazdasági társaság (AVE Heves Régió Kft.) vezetõ tisztségviselõi: Jungné Richter Éva (2837 Vértesszõlõs, Akácfa u. 2.), Maróti Rita (2100 Gödöllõ, Bem József u. 35.).<ujsor/>
-A fennmaradó gazdasági társaság (AVE Magyarország Kft.) fõ tevékenysége (TEÁOR ’08): 3900 Szennyezõdésmentesítés, egyéb hulladékkezelés.<ujsor/>
-A fennmaradó gazdasági társaság (AVE Magyarország Kft.) vezetõ tisztségviselõi: Harrdégen József (2823 Vértessomló, Gábor Áron u. 24.), Jens Winterberg (D 22607 Hamburg, Hölderlinstr. 6.).<ujsor/>
-Az AVE Heves Régió Kft. legfõbb szervének 2009. február 23-án meghozott határozata szerint a Gt. 86. § (2) bekezdése szerinti beolvadással egyidejûleg a beolvadással létrejövõ gazdasági társaság (AVE Heves Régió Kft.) jegyzett tõkéje ­ veszteség rendezése, valamint a saját tõke más elemeinek növelése céljából ­ a korábbi 100 000 000 Ft összegrõl 85 000 000 Ft összegre kerül leszállításra.<ujsor/>
-Az átalakulással érintett társaságok tájékoztatják a hitelezõket, hogy azok a hitelezõk, akiknek az átalakuló gazdasági társaságokkal szemben fennálló, le nem járt követelései az átalakulásról hozott döntés elsõ közzétételét megelõzõen keletkeztek, követeléseik erejéig az átalakulással érintett gazdasági társaságoktól a döntés második közzétételét követõ harmincnapos jogvesztõ határidõn belül biztosítékot követelhetnek.<ujsor/>
-Az érintett társaságok felhívják a hitelezõket, hogy követeléseiket a fenti jogszabályi határidõn belül a társaságoknak jelentsék be. Az átalakulással érintett társaságok tájékoztatják a hitelezõket, hogy a hirdetményi határidõ alatt a követelésüket érinti vagyonmegosztási rendelkezésekrõl a szétváló társaság székhelyén (1062 Budapest, Andrássy út 64.) kaphatnak részletes tájékoztatást.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">Az AVE MagyarorszÃ¡g HulladÃ©kgazdÃ¡lkodÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [01 09 267745]; szÃ©khelye: 1062 Budapest, AndrÃ¡ssy Ãºt 64.; kÃ©pviselÅ‘k: HartdÃ©gen JÃ³zsef Ã©s Jens Winterberg Ã¼gyvezetÅ‘k, egyÃ¼ttes cÃ©gjegyzÃ©si joggal) bejelenti, hogy a tÃ¡rsasÃ¡g legfÅ‘bb szerve 2009. februÃ¡r 23-Ã¡n meghozott hatÃ¡rozatÃ¡val elhatÃ¡rozta a tÃ¡rsasÃ¡g szÃ©tvÃ¡lÃ¡sÃ¡t.<ujsor/>
+A szÃ©tvÃ¡lÃ¡s mÃ³dja: a Gt. 86. Â§ (2) bekezdÃ©se szerinti kivÃ¡lÃ¡s.<ujsor/>
+A szÃ©tvÃ¡lÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡got megilletÅ‘ jogok Ã©s kÃ¶telezettsÃ©gek megosztÃ¡sÃ¡ra vonatkozÃ³ megÃ¡llapodÃ¡s legfontosabb rendelkezÃ©sei Â­ ideÃ©rtve kÃ¼lÃ¶nÃ¶sen a vagyonmegosztÃ¡s arÃ¡nyÃ¡t Â­ az alÃ¡bbiak:<ujsor/>
+A szÃ©tvÃ¡lÃ¡s sorÃ¡n a szÃ©tvÃ¡lÃ³ tÃ¡rsasÃ¡g Ã¼zletrÃ©szeinek 99,9929%-Ã¡val rendelkezÅ‘ AVE Energie AG OberÃ¶sterreich Umwelt GmbH tag (szÃ©khely: A-4021 Linz, BÃ¶hmerwaldstraÃŸe 3. Â­ OsztrÃ¡k KÃ¶ztÃ¡rsasÃ¡g) akkÃ©nt vÃ¡lik ki a szÃ©tvÃ¡lÃ³ tÃ¡rsasÃ¡gbÃ³l, hogy a szÃ©tvÃ¡lÃ³ tÃ¡rsasÃ¡g Ã©s a Heves Megyei RegionÃ¡lis HulladÃ©kgazdÃ¡lkodÃ¡si TÃ¡rsulÃ¡s (3300 Eger, DobÃ³ tÃ©r 2.) kÃ¶zÃ¶tt 2007. november 28-Ã¡n lÃ©trejÃ¶tt koncessziÃ³s szerzÅ‘dÃ©sben foglalt jogosultsÃ¡gokat Ã©s kÃ¶telezettsÃ©geket Â­ mint egysÃ©ges vagyonelemet Â­ az AVE Heves RÃ©giÃ³ KÃ¶rnyezetvÃ©delmi Ã©s HulladÃ©kgazdÃ¡lkodÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gba (Cg.: [05 09 015080]; szÃ©khelye: 3527 Miskolc, JÃ³zsef Attila u. 65.; kÃ©pviselÅ‘k: JungnÃ© Richter Ã‰va Ã©s MarÃ³ti Rita Ã¼gyvezetÅ‘k, egyÃ¼ttes cÃ©gjegyzÃ©si joggal) mint Ã¡tvevÅ‘ tÃ¡rsasÃ¡gba emeli Ã¡t, mÃ©gpedig oly mÃ³don, hogy az Ã¡tvevÅ‘ tÃ¡rsasÃ¡gban (a kivÃ¡lÃ¡ssal egyidejÅ±leg megtÃ¶rtÃ©nÅ‘ beolvadÃ¡ssal) Â­ az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g Ã¼zletrÃ©szein (500 000 Ft Ã¶sszegÅ± tÃ¶rzsbetÃ©tje alapjÃ¡n) 0,5882%-os tulajdont szerezve Â­ tagsÃ¡gi jogviszonyt lÃ©test. A kivÃ¡lni kÃ­vÃ¡nÃ³ tag a szÃ©tvÃ¡lÃ³ tÃ¡rsasÃ¡gban fennÃ¡llÃ³ tagsÃ¡gi jogviszonyÃ¡t megtartja.<ujsor/>
+Az AVE Heves RÃ©giÃ³ Kft. egyedÃ¼li tagja a fentiek szerinti beolvadÃ¡shoz a 2008. oktÃ³ber 20-Ã¡n meghozott hatÃ¡rozatÃ¡val hozzÃ¡jÃ¡rult.<ujsor/>
+A kivÃ¡lÃ¡s jellegÃ©re [Gt. 86. Â§ (2) bekezdÃ©se], valamint a szÃ©tvÃ¡lÃ³ Ã©s az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g tulajdonosi szerkezetÃ©re tekintettel a kivÃ¡lÃ¡s a szÃ©tvÃ¡lÃ³ tÃ¡rsasÃ¡g tagjainak vagyonÃ¡ban, illetÅ‘leg vagyoni helyzetÃ©ben Ã©rdemi vÃ¡ltozÃ¡st nem eredmÃ©nyez, ezÃ©rt a jogutÃ³d tÃ¡rsasÃ¡gban rÃ©szt venni nem kÃ­vÃ¡nÃ³ tag (AVE Ã–sterreich GmbH; cÃ©gjegyzÃ©kszÃ¡m: FN 97685f, szÃ©khely: A-4063 HÃ¶rsching, FlughafenstraÃŸe 8. Â­ OsztrÃ¡k KÃ¶ztÃ¡rsasÃ¡g) felÃ© fennÃ¡llÃ³ jogszabÃ¡lyi elszÃ¡molÃ¡si kÃ¶telezettsÃ©g kÃ¼lÃ¶n pÃ©nzÃ¼gyi teljesÃ­tÃ©st nem igÃ©nyel.<ujsor/>
+A kivÃ¡lÃ¡ssal Ã©s az ezzel egyidejÅ± beolvadÃ¡ssal az AVE Heves RÃ©giÃ³ Kft. megszerzi a fentebb hivatkozott koncessziÃ³s szerzÅ‘dÃ©sbÅ‘l eredÅ‘ valamennyi jogosultsÃ¡got, ezzel egyidejÅ±leg ugyanakkor a jÃ¶vÅ‘re nÃ©zve az Ã©rintett szerzÅ‘dÃ©sbÅ‘l eredÅ‘ valamennyi kÃ¶telezettsÃ©g is Å‘t terheli. Az Ã©rintett felek a fentieket meghaladÃ³an a Gt. 85. Â§-Ã¡ban, illetÅ‘leg a Gt. 70. Â§ (3)Â­(6) bekezdÃ©sei szerint tartoznak felelÅ‘ssÃ©ggel a koncessziÃ³s szerzÅ‘dÃ©sbÅ‘l eredÅ‘ kÃ¶telezettsÃ©gek teljesÃ­tÃ©sÃ©Ã©rt.<ujsor/>
+A szÃ©tvÃ¡lÃ³ tÃ¡rsasÃ¡got megilletÅ‘ (a hivatkozott koncessziÃ³s szerzÅ‘dÃ©sen kÃ­vÃ¼li) jogok Ã©s kÃ¶telezettsÃ©gek tovÃ¡bbra is vÃ¡ltozatlan tartalommal az AVE MagyarorszÃ¡g Kft.-t illetik Ã©s terhelik. Az AVE MagyarorszÃ¡g Kft. kivÃ¡lÃ¡ssal nem Ã©rintett vagyonÃ¡t illetÅ‘en tehÃ¡t egyÃ©b vagyonmegosztÃ¡s nem tÃ¶rtÃ©nik.<ujsor/>
+A kivÃ¡lÃ¡ssal Ã©rintett szÃ©tvÃ¡lÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g formÃ¡ja: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g. CÃ©gneve: AVE MagyarorszÃ¡g HulladÃ©kgazdÃ¡lkodÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g formÃ¡ja: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gneve: AVE Heves RÃ©giÃ³ KÃ¶rnyezetvÃ©delmi Ã©s HulladÃ©kgazdÃ¡lkodÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 3527 Miskolc, JÃ³zsef Attila u. 65.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g tÃ¡rsasÃ¡gi szerzÅ‘dÃ©se elfogadÃ¡sÃ¡nak napja: 2009. februÃ¡r 23.<ujsor/>
+A szÃ©tvÃ¡lÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g (AVE MagyarorszÃ¡g Kft.) zÃ¡rÃ³ vagyonmÃ©rleg-tervezetÃ©nek fontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 5 858 964 SajÃ¡t tÅ‘ke 2 215 978<ujsor/>
+ImmateriÃ¡lis javak 581 400 Jegyzett tÅ‘ke 1 411 130<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 184 152 Jegyzett, de mÃ©g be nem fizetett tÅ‘ke 0<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 5 093 412 TÅ‘ketartalÃ©k 10 512<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 2 653 702 EredmÃ©nytartalÃ©k 749 773<ujsor/>
+KÃ©szletek 24 405 LekÃ¶tÃ¶tt tartalÃ©k 0<ujsor/>
+KÃ¶vetelÃ©sek 2 587 463 Ã‰rtÃ©kelÃ©si tartalÃ©k 0<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 39 325 MÃ©rleg szerinti eredmÃ©ny 44 563<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 2 509 CÃ©ltartalÃ©kok 19 514<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 154 KÃ¶telezettsÃ©gek 6 222 712<ujsor/>
+HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0<ujsor/>
+HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 4 753 078<ujsor/>
+RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 1 469 634<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 54 616<ujsor/>
+Ã–SSZESEN: 8 512 820 Ã–SSZESEN: 8 512 820<ujsor/>
+Az Ã¡tvevÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g (AVE Heves RÃ©giÃ³ Kft.) zÃ¡rÃ³ vagyonmÃ©rleg-tervezetÃ©nek fontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 62 888 SajÃ¡t tÅ‘ke 95 940<ujsor/>
+ImmateriÃ¡lis javak 0 Jegyzett tÅ‘ke 100 000<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 62 888 Jegyzett, de mÃ©g be nem fizetett tÅ‘ke 0<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 TÅ‘ketartalÃ©k 0<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 37 010 EredmÃ©nytartalÃ©k 0<ujsor/>
+KÃ©szletek 0 LekÃ¶tÃ¶tt tartalÃ©k 0<ujsor/>
+KÃ¶vetelÃ©sek 9 697 Ã‰rtÃ©kelÃ©si tartalÃ©k 0<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 0 MÃ©rleg szerinti eredmÃ©ny Â­4 060<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 27 313 CÃ©ltartalÃ©kok 0<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 0 KÃ¶telezettsÃ©gek 3 408<ujsor/>
+HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0<ujsor/>
+HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0<ujsor/>
+RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 3 408<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 550<ujsor/>
+Ã–SSZESEN: 99 898 Ã–SSZESEN: 99 898<ujsor/>
+A beolvadÃ¡ssal lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g (AVE Heves RÃ©giÃ³ Kft.) nyitÃ³ vagyonmÃ©rleg-tervezetÃ©nek fontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 705 531 SajÃ¡t tÅ‘ke 96 440<ujsor/>
+ImmateriÃ¡lis javak 580 000 Jegyzett tÅ‘ke 85 000<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 125 531 Jegyzett, de mÃ©g be nem fizetett tÅ‘ke 0<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 TÅ‘ketartalÃ©k 0<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 37 010 EredmÃ©nytartalÃ©k 0<ujsor/>
+KÃ©szletek 0 LekÃ¶tÃ¶tt tartalÃ©k 11 440<ujsor/>
+KÃ¶vetelÃ©sek 9 697 Ã‰rtÃ©kelÃ©si tartalÃ©k 0<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 0 MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 27 313 CÃ©ltartalÃ©kok 0<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 0 KÃ¶telezettsÃ©gek 645 551<ujsor/>
+HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0<ujsor/>
+HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 642 143<ujsor/>
+RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 3 408<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 550<ujsor/>
+Ã–SSZESEN: 742 541 Ã–SSZESEN: 742 541<ujsor/>
+A fennmaradÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g (AVE MagyarorszÃ¡g Kft.) nyitÃ³ vagyonmÃ©rleg-tervezetÃ©nek fontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 5 216 964 SajÃ¡t tÅ‘ke 2 215 478<ujsor/>
+ImmateriÃ¡lis javak 1 400 Jegyzett tÅ‘ke 1 411 130<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 121 509 Jegyzett, de mÃ©g be nem fizetett tÅ‘ke 0<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 5 093 412 TÅ‘ketartalÃ©k 10 012<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 2 653 702 EredmÃ©nytartalÃ©k 749 336<ujsor/>
+KÃ©szletek 24 405 LekÃ¶tÃ¶tt tartalÃ©k 0<ujsor/>
+KÃ¶vetelÃ©sek 2 587 463 Ã‰rtÃ©kelÃ©si tartalÃ©k 0<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 39 325 MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 2 509 CÃ©ltartalÃ©kok 19 514<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 154 KÃ¶telezettsÃ©gek 5 580 569<ujsor/>
+HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0<ujsor/>
+HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 4 110 935<ujsor/>
+RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 1 469 634<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 54 616<ujsor/>
+Ã–SSZESEN: 7 870 177 Ã–SSZESEN: 7 870 177<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g (AVE Heves RÃ©giÃ³ Kft.) fÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™08): 3821 Nem veszÃ©lyes hulladÃ©k kezelÃ©se, Ã¡rtalmatlanÃ­tÃ¡sa.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g (AVE Heves RÃ©giÃ³ Kft.) vezetÅ‘ tisztsÃ©gviselÅ‘i: JungnÃ© Richter Ã‰va (2837 VÃ©rtesszÅ‘lÅ‘s, AkÃ¡cfa u. 2.), MarÃ³ti Rita (2100 GÃ¶dÃ¶llÅ‘, Bem JÃ³zsef u. 35.).<ujsor/>
+A fennmaradÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g (AVE MagyarorszÃ¡g Kft.) fÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™08): 3900 SzennyezÅ‘dÃ©smentesÃ­tÃ©s, egyÃ©b hulladÃ©kkezelÃ©s.<ujsor/>
+A fennmaradÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g (AVE MagyarorszÃ¡g Kft.) vezetÅ‘ tisztsÃ©gviselÅ‘i: HarrdÃ©gen JÃ³zsef (2823 VÃ©rtessomlÃ³, GÃ¡bor Ãron u. 24.), Jens Winterberg (D 22607 Hamburg, HÃ¶lderlinstr. 6.).<ujsor/>
+Az AVE Heves RÃ©giÃ³ Kft. legfÅ‘bb szervÃ©nek 2009. februÃ¡r 23-Ã¡n meghozott hatÃ¡rozata szerint a Gt. 86. Â§ (2) bekezdÃ©se szerinti beolvadÃ¡ssal egyidejÅ±leg a beolvadÃ¡ssal lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g (AVE Heves RÃ©giÃ³ Kft.) jegyzett tÅ‘kÃ©je Â­ vesztesÃ©g rendezÃ©se, valamint a sajÃ¡t tÅ‘ke mÃ¡s elemeinek nÃ¶velÃ©se cÃ©ljÃ¡bÃ³l Â­ a korÃ¡bbi 100 000 000 Ft Ã¶sszegrÅ‘l 85 000 000 Ft Ã¶sszegre kerÃ¼l leszÃ¡llÃ­tÃ¡sra.<ujsor/>
+Az Ã¡talakulÃ¡ssal Ã©rintett tÃ¡rsasÃ¡gok tÃ¡jÃ©koztatjÃ¡k a hitelezÅ‘ket, hogy azok a hitelezÅ‘k, akiknek az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gokkal szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei az Ã¡talakulÃ¡srÃ³l hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig az Ã¡talakulÃ¡ssal Ã©rintett gazdasÃ¡gi tÃ¡rsasÃ¡goktÃ³l a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+Az Ã©rintett tÃ¡rsasÃ¡gok felhÃ­vjÃ¡k a hitelezÅ‘ket, hogy kÃ¶vetelÃ©seiket a fenti jogszabÃ¡lyi hatÃ¡ridÅ‘n belÃ¼l a tÃ¡rsasÃ¡goknak jelentsÃ©k be. Az Ã¡talakulÃ¡ssal Ã©rintett tÃ¡rsasÃ¡gok tÃ¡jÃ©koztatjÃ¡k a hitelezÅ‘ket, hogy a hirdetmÃ©nyi hatÃ¡ridÅ‘ alatt a kÃ¶vetelÃ©sÃ¼ket Ã©rinti vagyonmegosztÃ¡si rendelkezÃ©sekrÅ‘l a szÃ©tvÃ¡lÃ³ tÃ¡rsasÃ¡g szÃ©khelyÃ©n (1062 Budapest, AndrÃ¡ssy Ãºt 64.) kaphatnak rÃ©szletes tÃ¡jÃ©koztatÃ¡st.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109267745</mezo>
-<mezo id = "nev">AVE Magyarország Hulladékgazdálkodási Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">AVE MagyarorszÃ¡g HulladÃ©kgazdÃ¡lkodÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1062 Budapest</mezo>
 </alrovat>
 </rovat>

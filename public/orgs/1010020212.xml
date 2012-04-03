@@ -6,7 +6,7 @@
 <mezo id = "szam">020212</mezo>
 <mezo id = "nevalrovat">2</mezo>
 <mezo id = "regi_szh">0910000262</mezo>
-<mezo id = "cim">3332 Sirok, Petõfi út 10. </mezo>
+<mezo id = "cim">3332 Sirok, PetÅ‘fi Ãºt 10. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">11559694210</mezo>
 </alrovat>
@@ -14,7 +14,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20060622</mezo>
-<mezo id = "nev">TERRA-H Építõipari Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">TERRA-H Ã‰pÃ­tÅ‘ipari ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -28,7 +28,7 @@
 <mezo id = "hattol">20060320</mezo>
 <mezo id = "irsz">3332</mezo>
 <mezo id = "hely">Sirok</mezo>
-<mezo id = "teru">Petõfi út 10.</mezo>
+<mezo id = "teru">PetÅ‘fi Ãºt 10.</mezo>
 <mezo id = "kirsz">0</mezo>
 </alrovat>
 </rovat>
@@ -36,7 +36,7 @@
 <alrovat id = "4">
 <mezo id = "hattol">20070530</mezo>
 <mezo id = "irsz">4200</mezo>
-<mezo id = "hely">Hajdúszoboszló, Dózsa György utca 46.</mezo>
+<mezo id = "hely">HajdÃºszoboszlÃ³, DÃ³zsa GyÃ¶rgy utca 46.</mezo>
 <mezo id = "valtk">20070530</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20070920</mezo>
@@ -47,12 +47,12 @@
 <alrovat id = "12">
 <mezo id = "hattol">20010504</mezo>
 <mezo id = "irsz">4200</mezo>
-<mezo id = "hely">Hajdúszoboszló, Vásártér sor 4393. hrsz.</mezo>
+<mezo id = "hely">HajdÃºszoboszlÃ³, VÃ¡sÃ¡rtÃ©r sor 4393. hrsz.</mezo>
 </alrovat>
 <alrovat id = "13">
 <mezo id = "hattol">20080527</mezo>
 <mezo id = "irsz">4002</mezo>
-<mezo id = "hely">Debrecen, Tormay Béla u. 66052/8. hrsz.</mezo>
+<mezo id = "hely">Debrecen, Tormay BÃ©la u. 66052/8. hrsz.</mezo>
 <mezo id = "valtk">20080527</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20080718</mezo>
@@ -61,7 +61,7 @@
 <alrovat id = "14">
 <mezo id = "hattol">20080527</mezo>
 <mezo id = "irsz">1039</mezo>
-<mezo id = "hely">Budapest, Királyok útja 293.</mezo>
+<mezo id = "hely">Budapest, KirÃ¡lyok Ãºtja 293.</mezo>
 <mezo id = "valtk">20080527</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20080718</mezo>
@@ -757,61 +757,61 @@
 <rovat id = "13">
 <alrovat id = "6">
 <mezo id = "hattol">20011001</mezo>
-<mezo id = "tiszt">igazgatósági tag</mezo>
+<mezo id = "tiszt">igazgatÃ³sÃ¡gi tag</mezo>
 <mezo id = "pnev">Mitlasoczki Imre</mezo>
 <mezo id = "pirsz">4200</mezo>
-<mezo id = "phely">Hajdúszoboszló</mezo>
-<mezo id = "pteru">Bányász u. 29.</mezo>
+<mezo id = "phely">HajdÃºszoboszlÃ³</mezo>
+<mezo id = "pteru">BÃ¡nyÃ¡sz u. 29.</mezo>
 </alrovat>
 <alrovat id = "11">
 <mezo id = "hattol">20040914</mezo>
-<mezo id = "pnev">Rudnák Mihály</mezo>
-<mezo id = "panev">Veszprémi Erzsébet</mezo>
+<mezo id = "pnev">RudnÃ¡k MihÃ¡ly</mezo>
+<mezo id = "panev">VeszprÃ©mi ErzsÃ©bet</mezo>
 <mezo id = "pirsz">4031</mezo>
-<mezo id = "phely">Debrecen, Derék u. 117. IV/11.</mezo>
+<mezo id = "phely">Debrecen, DerÃ©k u. 117. IV/11.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20020417</mezo>
 </alrovat>
 <alrovat id = "13">
 <mezo id = "hattol">20060320</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (vezérigazgató)</mezo>
-<mezo id = "pnev">Jászay Pál</mezo>
-<mezo id = "panev">Kotosmann Ildikó</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (vezÃ©rigazgatÃ³)</mezo>
+<mezo id = "pnev">JÃ¡szay PÃ¡l</mezo>
+<mezo id = "panev">Kotosmann IldikÃ³</mezo>
 <mezo id = "pirsz">4200</mezo>
-<mezo id = "phely">Hajdúszoboszló, Kenézi u. 1/1.</mezo>
+<mezo id = "phely">HajdÃºszoboszlÃ³, KenÃ©zi u. 1/1.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20060320</mezo>
 <mezo id = "jogvv">20110320</mezo>
 </alrovat>
 <alrovat id = "14">
 <mezo id = "hattol">20060320</mezo>
-<mezo id = "pnev">Ifj. Jászay Pál</mezo>
-<mezo id = "panev">Csoma Erzsébet</mezo>
+<mezo id = "pnev">Ifj. JÃ¡szay PÃ¡l</mezo>
+<mezo id = "panev">Csoma ErzsÃ©bet</mezo>
 <mezo id = "pirsz">4200</mezo>
-<mezo id = "phely">Hajdúszoboszló, Major u. 53/b.</mezo>
+<mezo id = "phely">HajdÃºszoboszlÃ³, Major u. 53/b.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">4</mezo>
 <mezo id = "jogvk">20060320</mezo>
 </alrovat>
 <alrovat id = "15">
 <mezo id = "hattol">20060529</mezo>
-<mezo id = "pnev">Csatári János</mezo>
-<mezo id = "panev">Mezõ Zsuzsánna</mezo>
+<mezo id = "pnev">CsatÃ¡ri JÃ¡nos</mezo>
+<mezo id = "panev">MezÅ‘ ZsuzsÃ¡nna</mezo>
 <mezo id = "pirsz">4220</mezo>
-<mezo id = "phely">Hajdúböszörmény, Gyõrössy kert u. 4. II/8.</mezo>
+<mezo id = "phely">HajdÃºbÃ¶szÃ¶rmÃ©ny, GyÅ‘rÃ¶ssy kert u. 4. II/8.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20060529</mezo>
 </alrovat>
 <alrovat id = "16">
 <mezo id = "hattol">20090529</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Csillag Sándorné</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Csillag SÃ¡ndornÃ©</mezo>
 <mezo id = "panev">Major Ilona</mezo>
 <mezo id = "pirsz">4032</mezo>
 <mezo id = "phely">Debrecen</mezo>
-<mezo id = "pteru">Dézsi A utca 19.</mezo>
+<mezo id = "pteru">DÃ©zsi A utca 19.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20090529</mezo>
 <mezo id = "valtk">20090529</mezo>
@@ -819,12 +819,12 @@
 </alrovat>
 <alrovat id = "22">
 <mezo id = "hattol">20110428</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (vezérigazgató)</mezo>
-<mezo id = "pnev">Jászay Pál</mezo>
-<mezo id = "panev">Kotosmann Ildikó</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (vezÃ©rigazgatÃ³)</mezo>
+<mezo id = "pnev">JÃ¡szay PÃ¡l</mezo>
+<mezo id = "panev">Kotosmann IldikÃ³</mezo>
 <mezo id = "pirsz">4200</mezo>
-<mezo id = "phely">Hajdúszoboszló</mezo>
-<mezo id = "pteru">Kenézy utca 1/1.</mezo>
+<mezo id = "phely">HajdÃºszoboszlÃ³</mezo>
+<mezo id = "pteru">KenÃ©zy utca 1/1.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20110428</mezo>
 <mezo id = "jogvv">20160427</mezo>
@@ -837,15 +837,15 @@
 <alrovat id = "8">
 <mezo id = "hattol">20080527</mezo>
 <mezo id = "cgjsz">1309093788</mezo>
-<mezo id = "nev">MEDIATIO Könyvelõ és Könyvvizsgáló Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">MEDIATIO KÃ¶nyvelÅ‘ Ã©s KÃ¶nyvvizsgÃ¡lÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "irsz">2120</mezo>
 <mezo id = "hely">Dunakeszi</mezo>
-<mezo id = "teru">Barátság u.</mezo>
+<mezo id = "teru">BarÃ¡tsÃ¡g u.</mezo>
 <mezo id = "hsz">42/a.</mezo>
-<mezo id = "pnev">Kirov Gáborné</mezo>
-<mezo id = "panev">Tonka Mária</mezo>
+<mezo id = "pnev">Kirov GÃ¡bornÃ©</mezo>
+<mezo id = "panev">Tonka MÃ¡ria</mezo>
 <mezo id = "pirsz">2120</mezo>
-<mezo id = "phely">Dunakeszi, Barátság u. 42/a.</mezo>
+<mezo id = "phely">Dunakeszi, BarÃ¡tsÃ¡g u. 42/a.</mezo>
 <mezo id = "jogvk">20080530</mezo>
 <mezo id = "jogvv">20100530</mezo>
 <mezo id = "valtk">20080527</mezo>
@@ -857,10 +857,10 @@
 <rovat id = "15">
 <alrovat id = "12">
 <mezo id = "hattol">20070530</mezo>
-<mezo id = "pnev">Örvendi László</mezo>
+<mezo id = "pnev">Ã–rvendi LÃ¡szlÃ³</mezo>
 <mezo id = "panev">Nagy Emma</mezo>
 <mezo id = "pirsz">4200</mezo>
-<mezo id = "phely">Hajdúszoboszló, Arany J. u. 27.</mezo>
+<mezo id = "phely">HajdÃºszoboszlÃ³, Arany J. u. 27.</mezo>
 <mezo id = "jogvk">20070530</mezo>
 <mezo id = "jogvv">20100530</mezo>
 <mezo id = "valtk">20070530</mezo>
@@ -870,10 +870,10 @@
 </alrovat>
 <alrovat id = "13">
 <mezo id = "hattol">20070530</mezo>
-<mezo id = "pnev">Kiss Károly</mezo>
-<mezo id = "panev">Bátori Ilona</mezo>
+<mezo id = "pnev">Kiss KÃ¡roly</mezo>
+<mezo id = "panev">BÃ¡tori Ilona</mezo>
 <mezo id = "pirsz">4031</mezo>
-<mezo id = "phely">Debrecen, Derék u. 65. II/5.</mezo>
+<mezo id = "phely">Debrecen, DerÃ©k u. 65. II/5.</mezo>
 <mezo id = "jogvk">20070530</mezo>
 <mezo id = "jogvv">20100530</mezo>
 <mezo id = "valtk">20070530</mezo>
@@ -883,10 +883,10 @@
 </alrovat>
 <alrovat id = "14">
 <mezo id = "hattol">20070530</mezo>
-<mezo id = "pnev">Molnár Tamás</mezo>
-<mezo id = "panev">Lukács Katalin</mezo>
+<mezo id = "pnev">MolnÃ¡r TamÃ¡s</mezo>
+<mezo id = "panev">LukÃ¡cs Katalin</mezo>
 <mezo id = "pirsz">4032</mezo>
-<mezo id = "phely">Debrecen, Károlyi Gáspár utca 51/B.</mezo>
+<mezo id = "phely">Debrecen, KÃ¡rolyi GÃ¡spÃ¡r utca 51/B.</mezo>
 <mezo id = "jogvk">20070530</mezo>
 <mezo id = "jogvv">20100530</mezo>
 <mezo id = "valtk">20070530</mezo>
@@ -898,7 +898,7 @@
 <rovat id = "16">
 <alrovat id = "1">
 <mezo id = "cgjsz">909003125</mezo>
-<mezo id = "nev">TERRA-H Építõipari, Kivitelezõ, Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">TERRA-H Ã‰pÃ­tÅ‘ipari, KivitelezÅ‘, SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "20">
@@ -920,33 +920,33 @@
 <mezo id = "adosz">11559694210</mezo>
 <mezo id = "kadosz">HU11559694</mezo>
 <mezo id = "bkelt">20110523</mezo>
-<mezo id = "megj">Adószám státusza: érvényes adószám</mezo>
+<mezo id = "megj">AdÃ³szÃ¡m stÃ¡tusza: Ã©rvÃ©nyes adÃ³szÃ¡m</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0110">
 <alrovat id = "8">
 <mezo id = "hattol">20060320</mezo>
 <mezo id = "j">x</mezo>
-<mezo id = "pnev">Id. Jászay Pál</mezo>
-<mezo id = "panev">Kotosmann Ildikó</mezo>
+<mezo id = "pnev">Id. JÃ¡szay PÃ¡l</mezo>
+<mezo id = "panev">Kotosmann IldikÃ³</mezo>
 <mezo id = "pirsz">4200</mezo>
-<mezo id = "phely">Hajdúszoboszló, Kenézi u. 1/1.</mezo>
+<mezo id = "phely">HajdÃºszoboszlÃ³, KenÃ©zi u. 1/1.</mezo>
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">20060320</mezo>
 <mezo id = "j">x</mezo>
-<mezo id = "pnev">Jászay Nóra Judit</mezo>
-<mezo id = "panev">Csoma Erzsébet</mezo>
+<mezo id = "pnev">JÃ¡szay NÃ³ra Judit</mezo>
+<mezo id = "panev">Csoma ErzsÃ©bet</mezo>
 <mezo id = "pirsz">4200</mezo>
-<mezo id = "phely">Hajdúszoboszló, Major u. 53/b.</mezo>
+<mezo id = "phely">HajdÃºszoboszlÃ³, Major u. 53/b.</mezo>
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">20060320</mezo>
 <mezo id = "j">x</mezo>
-<mezo id = "pnev">Ifj. Jászay Pál</mezo>
-<mezo id = "panev">Csoma Mária Erzsébet</mezo>
+<mezo id = "pnev">Ifj. JÃ¡szay PÃ¡l</mezo>
+<mezo id = "panev">Csoma MÃ¡ria ErzsÃ©bet</mezo>
 <mezo id = "pirsz">4200</mezo>
-<mezo id = "phely">Hajdúszoboszló, Major u. 53/B.</mezo>
+<mezo id = "phely">HajdÃºszoboszlÃ³, Major u. 53/B.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "93">
@@ -958,43 +958,43 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2001. 09. 21-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. Mitlasoczki Imre igazgatósági tag<ujsor/>
-4100 Hajdúszoboszló, Bányász u. 29.<ujsor/>
- Törölve: 2000. 10. 01-i hatállyal.<ujsor/>
- Mitlasoczki Imre igazgatósági tag<ujsor/>
-4200 Hajdúszoboszló, Bányász u. 29.<ujsor/>
- Törölve: 2001. 10. 01-i hatállyal.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2001. 09. 21-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. Mitlasoczki Imre igazgatÃ³sÃ¡gi tag<ujsor/>
+4100 HajdÃºszoboszlÃ³, BÃ¡nyÃ¡sz u. 29.<ujsor/>
+ TÃ¶rÃ¶lve: 2000. 10. 01-i hatÃ¡llyal.<ujsor/>
+ Mitlasoczki Imre igazgatÃ³sÃ¡gi tag<ujsor/>
+4200 HajdÃºszoboszlÃ³, BÃ¡nyÃ¡sz u. 29.<ujsor/>
+ TÃ¶rÃ¶lve: 2001. 10. 01-i hatÃ¡llyal.<ujsor/>
 Bejegyezve: 2001. 11. 15.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1010020212</mezo>
-<mezo id = "nev">TERRA-H Építõipari Részvénytársaság</mezo>
-<mezo id = "cim">3332 Sirok, Liszkó-Völgy 1004/2 hrsz.</mezo>
+<mezo id = "nev">TERRA-H Ã‰pÃ­tÅ‘ipari RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">3332 Sirok, LiszkÃ³-VÃ¶lgy 1004/2 hrsz.</mezo>
 <mezo id = "adosz">11559694210</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2001. 09. 21-én hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2001. 09. 21-Ã©n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
 08. 2001. 05. 07.<ujsor/>
- Törölve: 2001. 09. 21-i hatállyal.<ujsor/>
+ TÃ¶rÃ¶lve: 2001. 09. 21-i hatÃ¡llyal.<ujsor/>
  2001. 05. 04.<ujsor/>
- Hatályos: 2001. 09. 21-tõl.<ujsor/>
+ HatÃ¡lyos: 2001. 09. 21-tÅ‘l.<ujsor/>
 Bejegyezve: 2002. 03. 12.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1010020212</mezo>
-<mezo id = "nev">TERRA-H Építõipari Részvénytársaság</mezo>
-<mezo id = "cim">3332 Sirok, Liszkó-Völgy 1004/2 hrsz.</mezo>
+<mezo id = "nev">TERRA-H Ã‰pÃ­tÅ‘ipari RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">3332 Sirok, LiszkÃ³-VÃ¶lgy 1004/2 hrsz.</mezo>
 <mezo id = "adosz">11559694210</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Id. Jászay Pál (a. n.: Kotosmann Ildikó; 4200 Hajdúszoboszló, Kenézi u. 1/1.) mint a TERRA-H Építõipari Részvénytársaság (Cg.: [10 10 020212]; székhely: 3332 Sirok, Liszkó-völgy, 1004/2. hrsz.) részvényese az 1997. évi CXLIV. tv. 292. § (1) bekezdésében foglalt kötelezettségénél fogva közzéteszi, hogy a társaság részvényeseitõl 100 (egyszáz) darab, egyenként 100 000 Ft (egyszázezer forint) névértékû részvény megvásárlásával 2004. december 21-étõl a Gt. 291. §-a szerinti közvetlen irányítást biztosító befolyással rendelkezõ uralkodó taggá vált, mert a TERRA-H Rt.-nél mint ellenõrzött társaságnál a szavazatok 84%-ával rendelkezik.<ujsor/>
-A hitelezõk a Gt. 296. § (2) bekezdése szerinti jogaikat gyakorolhatják.<ujsor/>
+<mezo id = "szoveg">Id. JÃ¡szay PÃ¡l (a. n.: Kotosmann IldikÃ³; 4200 HajdÃºszoboszlÃ³, KenÃ©zi u. 1/1.) mint a TERRA-H Ã‰pÃ­tÅ‘ipari RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [10 10 020212]; szÃ©khely: 3332 Sirok, LiszkÃ³-vÃ¶lgy, 1004/2. hrsz.) rÃ©szvÃ©nyese az 1997. Ã©vi CXLIV. tv. 292. Â§ (1) bekezdÃ©sÃ©ben foglalt kÃ¶telezettsÃ©gÃ©nÃ©l fogva kÃ¶zzÃ©teszi, hogy a tÃ¡rsasÃ¡g rÃ©szvÃ©nyeseitÅ‘l 100 (egyszÃ¡z) darab, egyenkÃ©nt 100 000 Ft (egyszÃ¡zezer forint) nÃ©vÃ©rtÃ©kÅ± rÃ©szvÃ©ny megvÃ¡sÃ¡rlÃ¡sÃ¡val 2004. december 21-Ã©tÅ‘l a Gt. 291. Â§-a szerinti kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡ssal rendelkezÅ‘ uralkodÃ³ taggÃ¡ vÃ¡lt, mert a TERRA-H Rt.-nÃ©l mint ellenÅ‘rzÃ¶tt tÃ¡rsasÃ¡gnÃ¡l a szavazatok 84%-Ã¡val rendelkezik.<ujsor/>
+A hitelezÅ‘k a Gt. 296. Â§ (2) bekezdÃ©se szerinti jogaikat gyakorolhatjÃ¡k.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1010020212</mezo>
-<mezo id = "nev">TERRA-H Építõipari Részvénytársaság</mezo>
+<mezo id = "nev">TERRA-H Ã‰pÃ­tÅ‘ipari RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">3332 Sirok</mezo>
 </alrovat>
 </rovat>

@@ -7,7 +7,7 @@
 <mezo id = "nevalrovat">1</mezo>
 <mezo id = "uj_szh">0309114625</mezo>
 <mezo id = "allapot">6</mezo>
-<mezo id = "cim">1040 Budapest, Sárpatak u. 1. 3. em. 9. </mezo>
+<mezo id = "cim">1040 Budapest, SÃ¡rpatak u. 1. 3. em. 9. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">13648075241</mezo>
 </alrovat>
@@ -15,7 +15,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20060124</mezo>
-<mezo id = "nev">LanFarm Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">LanFarm SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -29,7 +29,7 @@
 <mezo id = "hattol">20060124</mezo>
 <mezo id = "irsz">1040</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Sárpatak u. 1. 3. em. 9.</mezo>
+<mezo id = "teru">SÃ¡rpatak u. 1. 3. em. 9.</mezo>
 <mezo id = "kirsz">0</mezo>
 </alrovat>
 </rovat>
@@ -37,7 +37,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20060124</mezo>
 <mezo id = "irsz">6120</mezo>
-<mezo id = "hely">Kiskunmajsa, Fõ utca 60.</mezo>
+<mezo id = "hely">Kiskunmajsa, FÅ‘ utca 60.</mezo>
 <mezo id = "orsz">HU</mezo>
 </alrovat>
 </rovat>
@@ -288,7 +288,7 @@
 </alrovat>
 <alrovat id = "18">
 <mezo id = "hattol">20060124</mezo>
-<mezo id = "sznev">engedélyhez nem kötött</mezo>
+<mezo id = "sznev">engedÃ©lyhez nem kÃ¶tÃ¶tt</mezo>
 <mezo id = "tea03">6522</mezo>
 <mezo id = "hengk1">0</mezo>
 <mezo id = "hengv1">0</mezo>
@@ -317,7 +317,7 @@
 </alrovat>
 <alrovat id = "20">
 <mezo id = "hattol">20060124</mezo>
-<mezo id = "sznev">engedélyhez nem kötött</mezo>
+<mezo id = "sznev">engedÃ©lyhez nem kÃ¶tÃ¶tt</mezo>
 <mezo id = "tea03">6603</mezo>
 <mezo id = "hengk1">0</mezo>
 <mezo id = "hengv1">0</mezo>
@@ -332,7 +332,7 @@
 </alrovat>
 <alrovat id = "21">
 <mezo id = "hattol">20060124</mezo>
-<mezo id = "sznev">engedélyhez nem kötött</mezo>
+<mezo id = "sznev">engedÃ©lyhez nem kÃ¶tÃ¶tt</mezo>
 <mezo id = "tea03">6720</mezo>
 <mezo id = "hengk1">0</mezo>
 <mezo id = "hengv1">0</mezo>
@@ -428,10 +428,10 @@
 <rovat id = "13">
 <alrovat id = "1">
 <mezo id = "hattol">20060124</mezo>
-<mezo id = "pnev">Kószó Róbert</mezo>
-<mezo id = "panev">Megadja Klára</mezo>
+<mezo id = "pnev">KÃ³szÃ³ RÃ³bert</mezo>
+<mezo id = "panev">Megadja KlÃ¡ra</mezo>
 <mezo id = "pirsz">6400</mezo>
-<mezo id = "phely">Kiskunhalas, Bokányi Dezsõ u. 7. I/2.</mezo>
+<mezo id = "phely">Kiskunhalas, BokÃ¡nyi DezsÅ‘ u. 7. I/2.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">2</mezo>
 <mezo id = "jogvk">20051220</mezo>
@@ -454,17 +454,17 @@
 <alrovat id = "1">
 <mezo id = "hattol">20060124</mezo>
 <mezo id = "k">x</mezo>
-<mezo id = "pnev">Kószó Józsefné</mezo>
-<mezo id = "panev">Szettele Mária</mezo>
+<mezo id = "pnev">KÃ³szÃ³ JÃ³zsefnÃ©</mezo>
+<mezo id = "panev">Szettele MÃ¡ria</mezo>
 <mezo id = "pirsz">6400</mezo>
-<mezo id = "phely">Kiskunhalas, Bokányi Dezsõ u. 7. I/2.</mezo>
+<mezo id = "phely">Kiskunhalas, BokÃ¡nyi DezsÅ‘ u. 7. I/2.</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20060124</mezo>
-<mezo id = "pnev">Kószó Róbert</mezo>
-<mezo id = "panev">Megadja Klára</mezo>
+<mezo id = "pnev">KÃ³szÃ³ RÃ³bert</mezo>
+<mezo id = "panev">Megadja KlÃ¡ra</mezo>
 <mezo id = "pirsz">6400</mezo>
-<mezo id = "phely">Kiskunhalas, Bokányi Dezsõ u. 7. I/2.</mezo>
+<mezo id = "phely">Kiskunhalas, BokÃ¡nyi DezsÅ‘ u. 7. I/2.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "99017">

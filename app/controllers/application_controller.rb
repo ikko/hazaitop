@@ -15,9 +15,9 @@ class ApplicationController < ActionController::Base
   def fill_drop_down
 #    @organizations = Organization.all
 #    @people = Person.all
-    @o2o_types = O2oRelationType.visual.not_parsed + O2oRelationType.litig.not_parsed
-    @p2p_types = P2pRelationType.not_internal.not_parsed
-    @p2o_types = P2oRelationType.not_parsed
+    @o_to_o_types = OToORelationType.visual.not_parsed + OToORelationType.litig.not_parsed
+    @p_to_p_types = PToPRelationType.not_internal.not_parsed
+    @p_to_o_types = PToORelationType.not_parsed
     @info_sources = InformationSource.not_internal
     @recent_articles = Article.limit(0)
   end

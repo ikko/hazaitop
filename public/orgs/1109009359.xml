@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">009359</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">2500 Esztergom, Széchenyi tér 1. </mezo>
+<mezo id = "cim">2500 Esztergom, SzÃ©chenyi tÃ©r 1. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">13051570211</mezo>
 </alrovat>
@@ -13,13 +13,13 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20030627</mezo>
-<mezo id = "nev">Esztergomi Köztisztasági Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Esztergomi KÃ¶ztisztasÃ¡gi SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">20030627</mezo>
-<mezo id = "nev">Esztergomi Köztisztasági Kft.</mezo>
+<mezo id = "nev">Esztergomi KÃ¶ztisztasÃ¡gi Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
@@ -27,7 +27,7 @@
 <mezo id = "hattol">20080211</mezo>
 <mezo id = "irsz">2500</mezo>
 <mezo id = "hely">Esztergom</mezo>
-<mezo id = "teru">Széchenyi tér 1.</mezo>
+<mezo id = "teru">SzÃ©chenyi tÃ©r 1.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">20080211</mezo>
 <mezo id = "valtv">0</mezo>
@@ -39,7 +39,7 @@
 <alrovat id = "2">
 <mezo id = "hattol">20040729</mezo>
 <mezo id = "irsz">2500</mezo>
-<mezo id = "hely">Esztergom, Dobogókõi út 39.</mezo>
+<mezo id = "hely">Esztergom, DobogÃ³kÅ‘i Ãºt 39.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "8">
@@ -1752,9 +1752,9 @@
 <rovat id = "13">
 <alrovat id = "11">
 <mezo id = "hattol">20101109</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "pnev">Nagy Attila</mezo>
-<mezo id = "panev">Peller Mária</mezo>
+<mezo id = "panev">Peller MÃ¡ria</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20101109</mezo>
 <mezo id = "jogvv">20120531</mezo>
@@ -1767,16 +1767,16 @@
 <alrovat id = "4">
 <mezo id = "hattol">20090619</mezo>
 <mezo id = "cgjsz">0609005506</mezo>
-<mezo id = "nev">Regálé Account Könyvvizsgáló, Adószakértõ és Könyvelõ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">RegÃ¡lÃ© Account KÃ¶nyvvizsgÃ¡lÃ³, AdÃ³szakÃ©rtÅ‘ Ã©s KÃ¶nyvelÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">6726</mezo>
 <mezo id = "hely">Szeged</mezo>
-<mezo id = "teru">Fogarasi út 6. B/2. ép.</mezo>
-<mezo id = "pnev">Csécsei Judit Eszter</mezo>
-<mezo id = "panev">Szénási Klára</mezo>
+<mezo id = "teru">Fogarasi Ãºt 6. B/2. Ã©p.</mezo>
+<mezo id = "pnev">CsÃ©csei Judit Eszter</mezo>
+<mezo id = "panev">SzÃ©nÃ¡si KlÃ¡ra</mezo>
 <mezo id = "pirsz">6726</mezo>
 <mezo id = "phely">Szeged</mezo>
-<mezo id = "pteru">Fogarasi út 6/B.</mezo>
+<mezo id = "pteru">Fogarasi Ãºt 6/B.</mezo>
 <mezo id = "jogvk">20090619</mezo>
 <mezo id = "jogvv">20110531</mezo>
 <mezo id = "valtk">20090619</mezo>
@@ -1786,7 +1786,7 @@
 <rovat id = "15">
 <alrovat id = "29">
 <mezo id = "hattol">20101109</mezo>
-<mezo id = "pnev">Dr. Németh József</mezo>
+<mezo id = "pnev">Dr. NÃ©meth JÃ³zsef</mezo>
 <mezo id = "panev">Krevich Aranka</mezo>
 <mezo id = "jogvk">20101101</mezo>
 <mezo id = "jogvv">20110531</mezo>
@@ -1795,8 +1795,8 @@
 </alrovat>
 <alrovat id = "30">
 <mezo id = "hattol">20101109</mezo>
-<mezo id = "pnev">Ferenc Kornél</mezo>
-<mezo id = "panev">Sárvári Mária</mezo>
+<mezo id = "pnev">Ferenc KornÃ©l</mezo>
+<mezo id = "panev">SÃ¡rvÃ¡ri MÃ¡ria</mezo>
 <mezo id = "jogvk">20101101</mezo>
 <mezo id = "jogvv">20110531</mezo>
 <mezo id = "valtk">20101109</mezo>
@@ -1804,8 +1804,8 @@
 </alrovat>
 <alrovat id = "31">
 <mezo id = "hattol">20101109</mezo>
-<mezo id = "pnev">Tóth András</mezo>
-<mezo id = "panev">Pribék Veronika</mezo>
+<mezo id = "pnev">TÃ³th AndrÃ¡s</mezo>
+<mezo id = "panev">PribÃ©k Veronika</mezo>
 <mezo id = "jogvk">20101101</mezo>
 <mezo id = "jogvv">20110531</mezo>
 <mezo id = "valtk">20101109</mezo>
@@ -1829,31 +1829,31 @@
 <rovat id = "0109">
 <alrovat id = "1">
 <mezo id = "hattol">20030627</mezo>
-<mezo id = "nev">Esztergom Város Önkormányzata</mezo>
+<mezo id = "nev">Esztergom VÃ¡ros Ã–nkormÃ¡nyzata</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2500</mezo>
 <mezo id = "hely">Esztergom</mezo>
-<mezo id = "teru">Széchenyi tér</mezo>
+<mezo id = "teru">SzÃ©chenyi tÃ©r</mezo>
 <mezo id = "hsz">1.</mezo>
 <mezo id = "t">x</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20030627</mezo>
 <mezo id = "cgjsz">710001014</mezo>
-<mezo id = "nev">VERTIKÁL Építõipari és Kommunális Szolgáltató Részvénytársaság</mezo>
+<mezo id = "nev">VERTIKÃL Ã‰pÃ­tÅ‘ipari Ã©s KommunÃ¡lis SzolgÃ¡ltatÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">8154</mezo>
-<mezo id = "hely">Polgárdi</mezo>
-<mezo id = "teru">Bocskai út</mezo>
+<mezo id = "hely">PolgÃ¡rdi</mezo>
+<mezo id = "teru">Bocskai Ãºt</mezo>
 <mezo id = "hsz">39.</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20101109</mezo>
 <mezo id = "cgjsz">0210060363</mezo>
-<mezo id = "nev">ENVIROINVEST Környezetvédelmi és Biotechnológiai Zrt.</mezo>
+<mezo id = "nev">ENVIROINVEST KÃ¶rnyezetvÃ©delmi Ã©s BiotechnolÃ³giai Zrt.</mezo>
 <mezo id = "irsz">7632</mezo>
-<mezo id = "hely">Pécs</mezo>
-<mezo id = "teru">Kertváros u. 2.</mezo>
+<mezo id = "hely">PÃ©cs</mezo>
+<mezo id = "teru">KertvÃ¡ros u. 2.</mezo>
 <mezo id = "tagsk">20030410</mezo>
 <mezo id = "valtk">20101109</mezo>
 <mezo id = "bkelt">20101210</mezo>
@@ -1861,11 +1861,11 @@
 <alrovat id = "7">
 <mezo id = "hattol">20101109</mezo>
 <mezo id = "cgjsz">0110046431</mezo>
-<mezo id = "nev">TERSZOL Környezetvédelmi és Építõipari Zrt.</mezo>
+<mezo id = "nev">TERSZOL KÃ¶rnyezetvÃ©delmi Ã©s Ã‰pÃ­tÅ‘ipari Zrt.</mezo>
 <mezo id = "orsz">H</mezo>
 <mezo id = "irsz">1089</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Bíró Lajos u. 51.</mezo>
+<mezo id = "teru">BÃ­rÃ³ Lajos u. 51.</mezo>
 <mezo id = "tagsk">20030410</mezo>
 <mezo id = "valtk">20101109</mezo>
 <mezo id = "bkelt">20101210</mezo>
@@ -1880,13 +1880,13 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a cég 2006. 10. 24. napján<ujsor/>
-benyújtott változás bejegyzése iránti kérelmét elutasítja.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a cÃ©g 2006. 10. 24. napjÃ¡n<ujsor/>
+benyÃºjtott vÃ¡ltozÃ¡s bejegyzÃ©se irÃ¡nti kÃ©relmÃ©t elutasÃ­tja.<ujsor/>
 2007. 01. 19.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1109009359</mezo>
-<mezo id = "nev">Esztergomi Köztisztasági Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">2500 Esztergom, Dobogókõi út 37.</mezo>
+<mezo id = "nev">Esztergomi KÃ¶ztisztasÃ¡gi SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2500 Esztergom, DobogÃ³kÅ‘i Ãºt 37.</mezo>
 <mezo id = "adosz">13051570211</mezo>
 </alrovat>
 </rovat>

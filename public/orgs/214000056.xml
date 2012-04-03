@@ -6,7 +6,7 @@
 <mezo id = "szam">000056</mezo>
 <mezo id = "nevalrovat">2</mezo>
 <mezo id = "allapot">6</mezo>
-<mezo id = "cim">7761 Kozármisleny, Pécsi utca 124. </mezo>
+<mezo id = "cim">7761 KozÃ¡rmisleny, PÃ©csi utca 124. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">20570268202</mezo>
 </alrovat>
@@ -14,7 +14,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20070118</mezo>
-<mezo id = "nev">&quot;Kozármisleny Nagyközség Településfejlesztéséért&quot; Közhasznú Társaság.</mezo>
+<mezo id = "nev">&quot;KozÃ¡rmisleny NagykÃ¶zsÃ©g TelepÃ¼lÃ©sfejlesztÃ©sÃ©Ã©rt&quot; KÃ¶zhasznÃº TÃ¡rsasÃ¡g.</mezo>
 <mezo id = "valtk">20061121</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -22,7 +22,7 @@
 <rovat id = "3">
 <alrovat id = "2">
 <mezo id = "hattol">20070118</mezo>
-<mezo id = "nev">&quot;Kozármisleny Nagyközség Településfejlesztéséért&quot; Kht.</mezo>
+<mezo id = "nev">&quot;KozÃ¡rmisleny NagykÃ¶zsÃ©g TelepÃ¼lÃ©sfejlesztÃ©sÃ©Ã©rt&quot; Kht.</mezo>
 <mezo id = "valtk">20061121</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -31,8 +31,8 @@
 <alrovat id = "2">
 <mezo id = "hattol">20070118</mezo>
 <mezo id = "irsz">7761</mezo>
-<mezo id = "hely">Kozármisleny</mezo>
-<mezo id = "teru">Pécsi utca 124.</mezo>
+<mezo id = "hely">KozÃ¡rmisleny</mezo>
+<mezo id = "teru">PÃ©csi utca 124.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">20061121</mezo>
 <mezo id = "valtv">0</mezo>
@@ -346,7 +346,7 @@
 </alrovat>
 <alrovat id = "73">
 <mezo id = "hattol">19991215</mezo>
-<mezo id = "sznev">hitelreferencia kivételével</mezo>
+<mezo id = "sznev">hitelreferencia kivÃ©telÃ©vel</mezo>
 <mezo id = "tea03">7487</mezo>
 </alrovat>
 <alrovat id = "74">
@@ -452,10 +452,10 @@
 <rovat id = "13">
 <alrovat id = "2">
 <mezo id = "hattol">20070118</mezo>
-<mezo id = "pnev">Pusztai János</mezo>
-<mezo id = "panev">Bíró Etel</mezo>
+<mezo id = "pnev">Pusztai JÃ¡nos</mezo>
+<mezo id = "panev">BÃ­rÃ³ Etel</mezo>
 <mezo id = "pirsz">7761</mezo>
-<mezo id = "phely">Kozármisleny, Mikszáth Kálmán utca 39.</mezo>
+<mezo id = "phely">KozÃ¡rmisleny, MikszÃ¡th KÃ¡lmÃ¡n utca 39.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">2</mezo>
 <mezo id = "jogvk">20061121</mezo>
@@ -468,15 +468,15 @@
 <alrovat id = "2">
 <mezo id = "hattol">20070118</mezo>
 <mezo id = "cgjsz">209065612</mezo>
-<mezo id = "nev">&quot;S. D. P.- AUDIT&quot; Könyvvizsgáló korlátolt felelõsségû társaság</mezo>
+<mezo id = "nev">&quot;S. D. P.- AUDIT&quot; KÃ¶nyvvizsgÃ¡lÃ³ korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g</mezo>
 <mezo id = "irsz">7761</mezo>
-<mezo id = "hely">Kozármisleny</mezo>
-<mezo id = "teru">Munkácsy Mihály utca</mezo>
+<mezo id = "hely">KozÃ¡rmisleny</mezo>
+<mezo id = "teru">MunkÃ¡csy MihÃ¡ly utca</mezo>
 <mezo id = "hsz">63.</mezo>
 <mezo id = "pnev">Duncsai Piroska</mezo>
 <mezo id = "panev">Pankucsi Piroska</mezo>
 <mezo id = "pirsz">7761</mezo>
-<mezo id = "phely">Kozármisleny, Munkácsy Mihály utca 63.</mezo>
+<mezo id = "phely">KozÃ¡rmisleny, MunkÃ¡csy MihÃ¡ly utca 63.</mezo>
 <mezo id = "jogvk">20061121</mezo>
 <mezo id = "jogvv">20090630</mezo>
 <mezo id = "valtk">0</mezo>
@@ -486,10 +486,10 @@
 <rovat id = "15">
 <alrovat id = "4">
 <mezo id = "hattol">20070118</mezo>
-<mezo id = "pnev">Szabadiné Balskó Judit</mezo>
+<mezo id = "pnev">SzabadinÃ© BalskÃ³ Judit</mezo>
 <mezo id = "panev">Simon Brigitta</mezo>
 <mezo id = "pirsz">7761</mezo>
-<mezo id = "phely">Kozármisleny, Munkácsy Mihály utca 36.</mezo>
+<mezo id = "phely">KozÃ¡rmisleny, MunkÃ¡csy MihÃ¡ly utca 36.</mezo>
 <mezo id = "jogvk">20061121</mezo>
 <mezo id = "jogvv">20090630</mezo>
 <mezo id = "valtk">0</mezo>
@@ -497,10 +497,10 @@
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20070118</mezo>
-<mezo id = "pnev">Bugyikné Hell Anna</mezo>
+<mezo id = "pnev">BugyiknÃ© Hell Anna</mezo>
 <mezo id = "panev">Lambert Anna</mezo>
 <mezo id = "pirsz">7761</mezo>
-<mezo id = "phely">Kozármisleny, Munkácsy Mihály utca 39.</mezo>
+<mezo id = "phely">KozÃ¡rmisleny, MunkÃ¡csy MihÃ¡ly utca 39.</mezo>
 <mezo id = "jogvk">20061121</mezo>
 <mezo id = "jogvv">20090630</mezo>
 <mezo id = "valtk">0</mezo>
@@ -508,10 +508,10 @@
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20070118</mezo>
-<mezo id = "pnev">Dr. Kurucz Jenõ</mezo>
+<mezo id = "pnev">Dr. Kurucz JenÅ‘</mezo>
 <mezo id = "panev">Asztalos Ilona</mezo>
 <mezo id = "pirsz">7761</mezo>
-<mezo id = "phely">Kozármisleny, Munkácsy Mihály utca 30.</mezo>
+<mezo id = "phely">KozÃ¡rmisleny, MunkÃ¡csy MihÃ¡ly utca 30.</mezo>
 <mezo id = "jogvk">20061121</mezo>
 <mezo id = "jogvv">20090630</mezo>
 <mezo id = "valtk">0</mezo>
@@ -531,11 +531,11 @@
 <rovat id = "0214">
 <alrovat id = "2">
 <mezo id = "hattol">20070118</mezo>
-<mezo id = "nev">Kozármilsleny Nagyközség Önkormányzata</mezo>
+<mezo id = "nev">KozÃ¡rmilsleny NagykÃ¶zsÃ©g Ã–nkormÃ¡nyzata</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">7761</mezo>
-<mezo id = "hely">Kozármisleny</mezo>
-<mezo id = "teru">Pécsi utca</mezo>
+<mezo id = "hely">KozÃ¡rmisleny</mezo>
+<mezo id = "teru">PÃ©csi utca</mezo>
 <mezo id = "hsz">21.</mezo>
 <mezo id = "tagsk">19991215</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -552,20 +552,20 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A cég átalakulás miatt a cégjegyzékbõl törölve.<ujsor/>
-A törlés kelte: 2008. 11. 25.<ujsor/>
-Jogutód(ok):<ujsor/>
- [02 09 073139] &quot;Kozármisleny Város Településfejlesztéséért&quot; Szolgáltató Közhasznú Nonprofit Korlátolt Felelõsségû Társaság.<ujsor/>
-A fenti adat(ok) bejegyzése és közzététele<ujsor/>
-a következõ okirat(ok) alapján történt:<ujsor/>
-legfõbb szerv jegyzõkönyve.<ujsor/>
-Az okirat(ok) a cég cégjegyzékét vezetõ<ujsor/>
-cégbíróságon megtekinthetõk.<ujsor/>
+<mezo id = "szoveg">A cÃ©g Ã¡talakulÃ¡s miatt a cÃ©gjegyzÃ©kbÅ‘l tÃ¶rÃ¶lve.<ujsor/>
+A tÃ¶rlÃ©s kelte: 2008. 11. 25.<ujsor/>
+JogutÃ³d(ok):<ujsor/>
+ [02 09 073139] &quot;KozÃ¡rmisleny VÃ¡ros TelepÃ¼lÃ©sfejlesztÃ©sÃ©Ã©rt&quot; SzolgÃ¡ltatÃ³ KÃ¶zhasznÃº Nonprofit KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+A fenti adat(ok) bejegyzÃ©se Ã©s kÃ¶zzÃ©tÃ©tele<ujsor/>
+a kÃ¶vetkezÅ‘ okirat(ok) alapjÃ¡n tÃ¶rtÃ©nt:<ujsor/>
+legfÅ‘bb szerv jegyzÅ‘kÃ¶nyve.<ujsor/>
+Az okirat(ok) a cÃ©g cÃ©gjegyzÃ©kÃ©t vezetÅ‘<ujsor/>
+cÃ©gbÃ­rÃ³sÃ¡gon megtekinthetÅ‘k.<ujsor/>
 Bejegyezve: 2008. 11. 25.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0214000056</mezo>
-<mezo id = "nev">&quot;Kozármisleny Város Településfejlesztéséért&quot; Szolgáltató Közhasznú Nonprofit Korlátolt Felelõsségû Társaság.</mezo>
-<mezo id = "cim">7761 Kozármisleny, Pécsi utca 124.</mezo>
+<mezo id = "nev">&quot;KozÃ¡rmisleny VÃ¡ros TelepÃ¼lÃ©sfejlesztÃ©sÃ©Ã©rt&quot; SzolgÃ¡ltatÃ³ KÃ¶zhasznÃº Nonprofit KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.</mezo>
+<mezo id = "cim">7761 KozÃ¡rmisleny, PÃ©csi utca 124.</mezo>
 <mezo id = "adosz">20570268202</mezo>
 </alrovat>
 </rovat>

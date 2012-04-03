@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">002782</mezo>
 <mezo id = "nevalrovat">2</mezo>
-<mezo id = "cim">5008 Szolnok, Krúdy u. 84. </mezo>
+<mezo id = "cim">5008 Szolnok, KrÃºdy u. 84. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">11267339216</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">19940215</mezo>
-<mezo id = "nev">BOLAX Épitõipari és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">BOLAX Ã‰pitÅ‘ipari Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -29,7 +29,7 @@
 <mezo id = "hattol">19931229</mezo>
 <mezo id = "irsz">5008</mezo>
 <mezo id = "hely">Szolnok</mezo>
-<mezo id = "teru">Krúdy u. 84.</mezo>
+<mezo id = "teru">KrÃºdy u. 84.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "6">
@@ -43,8 +43,8 @@
 <alrovat id = "1">
 <mezo id = "hattol">20110715</mezo>
 <mezo id = "irsz">1031</mezo>
-<mezo id = "hely">Budapest 3. kerület</mezo>
-<mezo id = "teru">Nánási út 39. B. ép. fsz. 402.</mezo>
+<mezo id = "hely">Budapest 3. kerÃ¼let</mezo>
+<mezo id = "teru">NÃ¡nÃ¡si Ãºt 39. B. Ã©p. fsz. 402.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20110715</mezo>
 <mezo id = "bkelt">20110802</mezo>
@@ -1024,25 +1024,25 @@
 <mezo id = "hattol">20110323</mezo>
 <mezo id = "valtk">20110323</mezo>
 <mezo id = "bkelt">20110428</mezo>
-<mezo id = "teaszov">Út, autópálya építése</mezo>
+<mezo id = "teaszov">Ãšt, autÃ³pÃ¡lya Ã©pÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "176">
 <mezo id = "hattol">20110323</mezo>
 <mezo id = "valtk">20110323</mezo>
 <mezo id = "bkelt">20110428</mezo>
-<mezo id = "teaszov">Híd, alagút építése</mezo>
+<mezo id = "teaszov">HÃ­d, alagÃºt Ã©pÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "177">
 <mezo id = "hattol">20110323</mezo>
 <mezo id = "valtk">20110323</mezo>
 <mezo id = "bkelt">20110428</mezo>
-<mezo id = "teaszov">Vízi létesítmény építése</mezo>
+<mezo id = "teaszov">VÃ­zi lÃ©tesÃ­tmÃ©ny Ã©pÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "178">
 <mezo id = "hattol">20110323</mezo>
 <mezo id = "valtk">20110323</mezo>
 <mezo id = "bkelt">20110428</mezo>
-<mezo id = "teaszov">Személygépjármû-, könnyúgépjármû-kereskedelem</mezo>
+<mezo id = "teaszov">SzemÃ©lygÃ©pjÃ¡rmÅ±-, kÃ¶nnyÃºgÃ©pjÃ¡rmÅ±-kereskedelem</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -1057,12 +1057,12 @@
 <rovat id = "13">
 <alrovat id = "7">
 <mezo id = "hattol">20110323</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Bozsó László</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">BozsÃ³ LÃ¡szlÃ³</mezo>
 <mezo id = "panev">Szabados Jusztina</mezo>
 <mezo id = "pirsz">5008</mezo>
 <mezo id = "phely">Szolnok</mezo>
-<mezo id = "pteru">Krúdy Gyula utca 84.</mezo>
+<mezo id = "pteru">KrÃºdy Gyula utca 84.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20110323</mezo>
 <mezo id = "valtk">20110323</mezo>
@@ -1071,30 +1071,30 @@
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">20110323</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Bozsó Róbert</mezo>
-<mezo id = "panev">Makai Mária Terézia</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">BozsÃ³ RÃ³bert</mezo>
+<mezo id = "panev">Makai MÃ¡ria TerÃ©zia</mezo>
 <mezo id = "pirsz">5008</mezo>
 <mezo id = "phely">Szolnok</mezo>
-<mezo id = "pteru">Krúdy Gyula utca 84.</mezo>
+<mezo id = "pteru">KrÃºdy Gyula utca 84.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20110323</mezo>
-<mezo id = "mnev">Bozsó Roland</mezo>
+<mezo id = "mnev">BozsÃ³ Roland</mezo>
 <mezo id = "valtk">20110323</mezo>
 <mezo id = "bkelt">20110428</mezo>
 <mezo id = "adoazon">8394633285</mezo>
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">20110323</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Bozsó Roland</mezo>
-<mezo id = "panev">Makai Mária Terézia</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">BozsÃ³ Roland</mezo>
+<mezo id = "panev">Makai MÃ¡ria TerÃ©zia</mezo>
 <mezo id = "pirsz">5000</mezo>
 <mezo id = "phely">Szolnok</mezo>
-<mezo id = "pteru">Kossuth Lajos út 18. 1. em. 8.</mezo>
+<mezo id = "pteru">Kossuth Lajos Ãºt 18. 1. em. 8.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20110323</mezo>
-<mezo id = "mnev">Bozsó Róbert</mezo>
+<mezo id = "mnev">BozsÃ³ RÃ³bert</mezo>
 <mezo id = "valtk">20110323</mezo>
 <mezo id = "bkelt">20110428</mezo>
 <mezo id = "adoazon">8406871563</mezo>
@@ -1104,16 +1104,16 @@
 <alrovat id = "2">
 <mezo id = "hattol">20110323</mezo>
 <mezo id = "cgjsz">1609006351</mezo>
-<mezo id = "nev">KONTÓVILL Könyvvizsgáló és Adótanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">KONTÃ“VILL KÃ¶nyvvizsgÃ¡lÃ³ Ã©s AdÃ³tanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">5100</mezo>
-<mezo id = "hely">Jászberény</mezo>
-<mezo id = "teru">Thököly út 22.</mezo>
-<mezo id = "pnev">Tóth Gyuláné</mezo>
-<mezo id = "panev">Csík Ilona</mezo>
+<mezo id = "hely">JÃ¡szberÃ©ny</mezo>
+<mezo id = "teru">ThÃ¶kÃ¶ly Ãºt 22.</mezo>
+<mezo id = "pnev">TÃ³th GyulÃ¡nÃ©</mezo>
+<mezo id = "panev">CsÃ­k Ilona</mezo>
 <mezo id = "pirsz">5100</mezo>
-<mezo id = "phely">Jászberény</mezo>
-<mezo id = "pteru">Csokor út 13.</mezo>
+<mezo id = "phely">JÃ¡szberÃ©ny</mezo>
+<mezo id = "pteru">Csokor Ãºt 13.</mezo>
 <mezo id = "jogvk">20110412</mezo>
 <mezo id = "jogvv">20120531</mezo>
 <mezo id = "valtk">20110323</mezo>
@@ -1131,31 +1131,31 @@
 <mezo id = "adosz">11267339216</mezo>
 <mezo id = "kadosz">HU11267339</mezo>
 <mezo id = "bkelt">20110802</mezo>
-<mezo id = "megj">Státusz kezdete: 1993/12/29</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 1993/12/29</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0109">
 <alrovat id = "1">
 <mezo id = "hattol">19931229</mezo>
-<mezo id = "nev">Bozsó László</mezo>
+<mezo id = "nev">BozsÃ³ LÃ¡szlÃ³</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">5008</mezo>
-<mezo id = "hely">Szolnok, Krúdy u. 84.</mezo>
+<mezo id = "hely">Szolnok, KrÃºdy u. 84.</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">19931229</mezo>
-<mezo id = "nev">Bozsó Róbert</mezo>
+<mezo id = "nev">BozsÃ³ RÃ³bert</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">5008</mezo>
-<mezo id = "hely">Szolnok, Krúdy u. 84.</mezo>
+<mezo id = "hely">Szolnok, KrÃºdy u. 84.</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20110323</mezo>
-<mezo id = "pnev">Bozsó Roland</mezo>
-<mezo id = "panev">Makai Mária Terézia</mezo>
+<mezo id = "pnev">BozsÃ³ Roland</mezo>
+<mezo id = "panev">Makai MÃ¡ria TerÃ©zia</mezo>
 <mezo id = "pirsz">5000</mezo>
 <mezo id = "phely">Szolnok</mezo>
-<mezo id = "pteru">Kossuth Lajos út 18. 1. em. 8.</mezo>
+<mezo id = "pteru">Kossuth Lajos Ãºt 18. 1. em. 8.</mezo>
 <mezo id = "tagsk">19931229</mezo>
 <mezo id = "valtk">20110323</mezo>
 <mezo id = "bkelt">20110428</mezo>
@@ -1170,35 +1170,35 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Bozsó Róbert (5008 Szolnok, Krúdy u. 84.) mint a BOLAX Építõipari és Kereskedelmi Korlátolt Felelõsségû Társasaság (5008 Szolnok, Krúdy u. 84.; Cg.: [16 09 002782]) tagja, az 1997. évi CXLIV. tv. 292. § (1) bekezdése alapján közzéteszi, hogy a társaságban, 2000. június 15-én, 45,04%-os tulajdoni hányad megszerzésével, jelentõs befolyást szerzett.<ujsor/>
+<mezo id = "szoveg">BozsÃ³ RÃ³bert (5008 Szolnok, KrÃºdy u. 84.) mint a BOLAX Ã‰pÃ­tÅ‘ipari Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasasÃ¡g (5008 Szolnok, KrÃºdy u. 84.; Cg.: [16 09 002782]) tagja, az 1997. Ã©vi CXLIV. tv. 292. Â§ (1) bekezdÃ©se alapjÃ¡n kÃ¶zzÃ©teszi, hogy a tÃ¡rsasÃ¡gban, 2000. jÃºnius 15-Ã©n, 45,04%-os tulajdoni hÃ¡nyad megszerzÃ©sÃ©vel, jelentÅ‘s befolyÃ¡st szerzett.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1609002782</mezo>
-<mezo id = "nev">BOLAX Épitõipari és Kereskedelmi Korlátolt Felelõsségü Társaság</mezo>
+<mezo id = "nev">BOLAX Ã‰pitÅ‘ipari Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÃ¼ TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Bozsó Roland (5008 Szolnok, Krúdy u. 84.) mint a BOLAX Építõipari és Kereskedelmi Korlátolt Felelõsségû Társaság (5008 Szolnok, Krúdy u. 84.; Cg.: [16 09 002782]) tagja, az 1997. évi CXLIV. tv. 292. § (1) bekezdése alapján közzéteszi, hogy a társaságban, 2000. június 15-én, 45,04%-os tulajdoni hányad megszerzésével, jelentõs befolyást szerzett.<ujsor/>
+<mezo id = "szoveg">BozsÃ³ Roland (5008 Szolnok, KrÃºdy u. 84.) mint a BOLAX Ã‰pÃ­tÅ‘ipari Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (5008 Szolnok, KrÃºdy u. 84.; Cg.: [16 09 002782]) tagja, az 1997. Ã©vi CXLIV. tv. 292. Â§ (1) bekezdÃ©se alapjÃ¡n kÃ¶zzÃ©teszi, hogy a tÃ¡rsasÃ¡gban, 2000. jÃºnius 15-Ã©n, 45,04%-os tulajdoni hÃ¡nyad megszerzÃ©sÃ©vel, jelentÅ‘s befolyÃ¡st szerzett.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1609002782</mezo>
-<mezo id = "nev">BOLAX Épitõipari és Kereskedelmi Korlátolt Felelõsségü Társaság</mezo>
+<mezo id = "nev">BOLAX Ã‰pitÅ‘ipari Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÃ¼ TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2006. 04. 10-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-14. [16 09 006351] KONTÓVILL Könyvvizsgáló és Adótanácsadó Korlátolt Felelõsségû Társaság<ujsor/>
-HU 5100 Jászberény, Csokor u. 13.<ujsor/>
- Tóth Gyuláné (an: Csik Ilona)<ujsor/>
-5100 Jászberény, Csokor u. 13.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2006. 04. 10-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+14. [16 09 006351] KONTÃ“VILL KÃ¶nyvvizsgÃ¡lÃ³ Ã©s AdÃ³tanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g<ujsor/>
+HU 5100 JÃ¡szberÃ©ny, Csokor u. 13.<ujsor/>
+ TÃ³th GyulÃ¡nÃ© (an: Csik Ilona)<ujsor/>
+5100 JÃ¡szberÃ©ny, Csokor u. 13.<ujsor/>
  A jogviszony kezdete: 2006. 03. 23.<ujsor/>
- A jogviszony vége: 2011. 03. 23.<ujsor/>
- Hatályos: 2006. 03. 23-tól.<ujsor/>
+ A jogviszony vÃ©ge: 2011. 03. 23.<ujsor/>
+ HatÃ¡lyos: 2006. 03. 23-tÃ³l.<ujsor/>
 Bejegyezve: 2006. 05. 10.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1609002782</mezo>
-<mezo id = "nev">BOLAX Építõipari és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">5008 Szolnok, Krúdy u. 84.</mezo>
+<mezo id = "nev">BOLAX Ã‰pÃ­tÅ‘ipari Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">5008 Szolnok, KrÃºdy u. 84.</mezo>
 <mezo id = "adosz">11267339216</mezo>
 </alrovat>
 </rovat>

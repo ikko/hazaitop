@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">736422</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">1149 Budapest, Róna u. 81. 1. em. 4. </mezo>
+<mezo id = "cim">1149 Budapest, RÃ³na u. 81. 1. em. 4. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">13461735242</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20050323</mezo>
-<mezo id = "nev">ING-PROF 94 Ingatlanközvetítõ és Forgalmazó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">ING-PROF 94 IngatlankÃ¶zvetÃ­tÅ‘ Ã©s ForgalmazÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -27,7 +27,7 @@
 <mezo id = "hattol">20050323</mezo>
 <mezo id = "irsz">1149</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Róna u. 81. 1. em. 4.</mezo>
+<mezo id = "teru">RÃ³na u. 81. 1. em. 4.</mezo>
 <mezo id = "kirsz">0</mezo>
 </alrovat>
 </rovat>
@@ -36,7 +36,7 @@
 <mezo id = "hattol">20091001</mezo>
 <mezo id = "irsz">1144</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Füredi utca 72.</mezo>
+<mezo id = "teru">FÃ¼redi utca 72.</mezo>
 <mezo id = "valtk">20091001</mezo>
 <mezo id = "bkelt">20091027</mezo>
 </alrovat>
@@ -630,12 +630,12 @@
 <rovat id = "13">
 <alrovat id = "4">
 <mezo id = "hattol">20091001</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Szabó Gáborné</mezo>
-<mezo id = "panev">Szelezsán Mária</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">SzabÃ³ GÃ¡bornÃ©</mezo>
+<mezo id = "panev">SzelezsÃ¡n MÃ¡ria</mezo>
 <mezo id = "pirsz">1149</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Róna utca 81. I. em. 4.</mezo>
+<mezo id = "pteru">RÃ³na utca 81. I. em. 4.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20080916</mezo>
 <mezo id = "valtk">20091001</mezo>
@@ -660,16 +660,16 @@
 <alrovat id = "2">
 <mezo id = "adosz">13461735242</mezo>
 <mezo id = "bkelt">20110923</mezo>
-<mezo id = "megj">Státusz kezdete: 2005/03/03</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 2005/03/03</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0109">
 <alrovat id = "5">
 <mezo id = "hattol">20080916</mezo>
-<mezo id = "pnev">Szabó Gáborné</mezo>
-<mezo id = "panev">Szelezsán Mária</mezo>
+<mezo id = "pnev">SzabÃ³ GÃ¡bornÃ©</mezo>
+<mezo id = "panev">SzelezsÃ¡n MÃ¡ria</mezo>
 <mezo id = "pirsz">1149</mezo>
-<mezo id = "phely">Budapest, Róna utca 81. 1. em. 4.</mezo>
+<mezo id = "phely">Budapest, RÃ³na utca 81. 1. em. 4.</mezo>
 <mezo id = "tagsk">20050228</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "sz2">x</mezo>
@@ -680,11 +680,11 @@
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20110914</mezo>
-<mezo id = "pnev">Szabó Gábor</mezo>
+<mezo id = "pnev">SzabÃ³ GÃ¡bor</mezo>
 <mezo id = "panev">Kiss Margit</mezo>
 <mezo id = "pirsz">1149</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Róna utca 81. 01. em. 04.</mezo>
+<mezo id = "pteru">RÃ³na utca 81. 01. em. 04.</mezo>
 <mezo id = "tagsk">20110914</mezo>
 <mezo id = "valtk">20110914</mezo>
 <mezo id = "bkelt">20110923</mezo>
@@ -699,20 +699,20 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2008. 11. 03-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-09. Saját tulajdonú ingatlan adásvétele (fõtevékenység).<ujsor/>
- A változás idõpontja (törlés): 2008. 09. 16.<ujsor/>
- Üzletvezetés.<ujsor/>
- A változás idõpontja (törlés): 2008. 09. 16.<ujsor/>
- Törölve: 2008. 09. 16.<ujsor/>
- Egyéb befejezõ építés m .n .s..<ujsor/>
- A változás idõpontja: 2008. 09. 16.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2008. 11. 03-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+09. SajÃ¡t tulajdonÃº ingatlan adÃ¡svÃ©tele (fÅ‘tevÃ©kenysÃ©g).<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2008. 09. 16.<ujsor/>
+ ÃœzletvezetÃ©s.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2008. 09. 16.<ujsor/>
+ TÃ¶rÃ¶lve: 2008. 09. 16.<ujsor/>
+ EgyÃ©b befejezÅ‘ Ã©pÃ­tÃ©s m .n .s..<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 09. 16.<ujsor/>
  Bejegyezve: 2008. 09. 16.<ujsor/>
 2009. 05. 11.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109736422</mezo>
-<mezo id = "nev">ING-PROF 94 Ingatlanközvetítõ és Forgalmazó Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1149 Budapest, Róna u. 81. 1. em. 4.</mezo>
+<mezo id = "nev">ING-PROF 94 IngatlankÃ¶zvetÃ­tÅ‘ Ã©s ForgalmazÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1149 Budapest, RÃ³na u. 81. 1. em. 4.</mezo>
 <mezo id = "adosz">13461735242</mezo>
 </alrovat>
 </rovat>

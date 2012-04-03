@@ -17,6 +17,8 @@ class Litigation < ActiveRecord::Base
   has_many :litigation_relations
   belongs_to :information_source
 
+  named_scope :info, lambda { |info_ids| info_ids.present? ? { :conditions => [ "litigations.information_source_id in (?)", info_ids ]} : {} }
+
   # --- Permissions --- #
 
   def create_permitted?

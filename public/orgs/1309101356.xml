@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">101356</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">2370 Dabas, Klapka utca 2. B. ép. </mezo>
+<mezo id = "cim">2370 Dabas, Klapka utca 2. B. Ã©p. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">13397061113</mezo>
 </alrovat>
@@ -13,13 +13,13 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20041203</mezo>
-<mezo id = "nev">Nagyszegi és Társa Tervezõ és Szolgáltató Korlátolt felelõsségû Társaság</mezo>
+<mezo id = "nev">Nagyszegi Ã©s TÃ¡rsa TervezÅ‘ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt felelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">20041203</mezo>
-<mezo id = "nev">NAGYSZEGI és TÁRSA Kft.</mezo>
+<mezo id = "nev">NAGYSZEGI Ã©s TÃRSA Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
@@ -27,7 +27,7 @@
 <mezo id = "hattol">20041203</mezo>
 <mezo id = "irsz">2370</mezo>
 <mezo id = "hely">Dabas</mezo>
-<mezo id = "teru">Klapka utca 2. B. ép.</mezo>
+<mezo id = "teru">Klapka utca 2. B. Ã©p.</mezo>
 <mezo id = "kirsz">0</mezo>
 </alrovat>
 </rovat>
@@ -314,7 +314,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090324</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Építészmérnöki tevékenység</mezo>
+<mezo id = "teaszov">Ã‰pÃ­tÃ©szmÃ©rnÃ¶ki tevÃ©kenysÃ©g</mezo>
 </alrovat>
 <alrovat id = "38">
 <mezo id = "hattol">20081223</mezo>
@@ -333,7 +333,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090324</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Lakó-, és nem lakó épület építése</mezo>
+<mezo id = "teaszov">LakÃ³-, Ã©s nem lakÃ³ Ã©pÃ¼let Ã©pÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "39">
 <mezo id = "hattol">20081223</mezo>
@@ -351,7 +351,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090324</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Villanyszerelés</mezo>
+<mezo id = "teaszov">VillanyszerelÃ©s</mezo>
 </alrovat>
 <alrovat id = "40">
 <mezo id = "hattol">20081223</mezo>
@@ -369,7 +369,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090324</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Mérnöki tevékenység, mûszaki tanácsadás</mezo>
+<mezo id = "teaszov">MÃ©rnÃ¶ki tevÃ©kenysÃ©g, mÅ±szaki tanÃ¡csadÃ¡s</mezo>
 </alrovat>
 <alrovat id = "41">
 <mezo id = "hattol">20081223</mezo>
@@ -387,7 +387,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090324</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb befejezõ építés m.n.s.</mezo>
+<mezo id = "teaszov">EgyÃ©b befejezÅ‘ Ã©pÃ­tÃ©s m.n.s.</mezo>
 </alrovat>
 <alrovat id = "42">
 <mezo id = "hattol">20081223</mezo>
@@ -405,7 +405,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090324</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Üzletviteli, egyéb vezetési tanácsadás</mezo>
+<mezo id = "teaszov">Ãœzletviteli, egyÃ©b vezetÃ©si tanÃ¡csadÃ¡s</mezo>
 </alrovat>
 <alrovat id = "43">
 <mezo id = "hattol">20081223</mezo>
@@ -423,7 +423,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090324</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Fordítás, tolmácsolás</mezo>
+<mezo id = "teaszov">FordÃ­tÃ¡s, tolmÃ¡csolÃ¡s</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -442,7 +442,7 @@
 <rovat id = "13">
 <alrovat id = "3">
 <mezo id = "hattol">20081223</mezo>
-<mezo id = "pnev">Nagyszegi Sándor</mezo>
+<mezo id = "pnev">Nagyszegi SÃ¡ndor</mezo>
 <mezo id = "panev">Farkas Margit</mezo>
 <mezo id = "pirsz">2370</mezo>
 <mezo id = "phely">Dabas, Klapka utca 2/B.</mezo>
@@ -456,8 +456,8 @@
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20081223</mezo>
-<mezo id = "pnev">Nagyszegi Bálint</mezo>
-<mezo id = "panev">Szatmári Erzsébet</mezo>
+<mezo id = "pnev">Nagyszegi BÃ¡lint</mezo>
+<mezo id = "panev">SzatmÃ¡ri ErzsÃ©bet</mezo>
 <mezo id = "pirsz">2370</mezo>
 <mezo id = "phely">Dabas, Klapka utca 4/A.</mezo>
 <mezo id = "kepvo">x</mezo>
@@ -503,15 +503,15 @@
 <rovat id = "0109">
 <alrovat id = "1">
 <mezo id = "hattol">20041203</mezo>
-<mezo id = "pnev">Nagyszegi Sándor</mezo>
+<mezo id = "pnev">Nagyszegi SÃ¡ndor</mezo>
 <mezo id = "panev">Farkas Margit</mezo>
 <mezo id = "pirsz">2370</mezo>
 <mezo id = "phely">Dabas, Klapka u. 2/B.</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20041203</mezo>
-<mezo id = "pnev">Nagyszegi Bálint</mezo>
-<mezo id = "panev">Szatmári Erzsébet</mezo>
+<mezo id = "pnev">Nagyszegi BÃ¡lint</mezo>
+<mezo id = "panev">SzatmÃ¡ri ErzsÃ©bet</mezo>
 <mezo id = "pirsz">2370</mezo>
 <mezo id = "phely">Dabas, Klapka u. 4/ A .</mezo>
 </alrovat>
@@ -525,31 +525,31 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Nagyszegi és Társa Tervezõ és Szolgáltató Korlátolt Felelõsségû Társaság (Cg.: [13 09 101356]; székhelye: 2370 Dabas, Klapka u. 2/B) tagjai 2008. december 23-án úgy határoztak, hogy a társaság 3 000 000 Ft összegû törzstõkéjét ­ tõkekivonás célzattal ­ 500 000 Ft összegre leszállítják.<ujsor/>
-A tõkeleszállítás után az egyes tagok törzsbetétjének nagysága:<ujsor/>
-Nagyszegi Sándor tulajdonában maradó törzsbetét: 250 000 Ft.<ujsor/>
-Nagyszegi Bálint tulajdonában maradó törzsbetét: 250 000 Ft.<ujsor/>
-A társaság biztosítékot nem ad, mivel pénzügyi és vagyoni helyzete miatt a biztosítékadás indokolatlan.<ujsor/>
-A társaság felhívja a hitelezõket, hogy amennyiben követeléseik jelen szöveg elsõ közzétéle elõtt keletkeztek, követeléseik erejéig a gazdasági társaságtól ­ a második közzétételt követõ 30 napos jogvesztõ határidõn belül ­ biztosítékot követelhetnek.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">A Nagyszegi Ã©s TÃ¡rsa TervezÅ‘ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [13 09 101356]; szÃ©khelye: 2370 Dabas, Klapka u. 2/B) tagjai 2008. december 23-Ã¡n Ãºgy hatÃ¡roztak, hogy a tÃ¡rsasÃ¡g 3 000 000 Ft Ã¶sszegÅ± tÃ¶rzstÅ‘kÃ©jÃ©t Â­ tÅ‘kekivonÃ¡s cÃ©lzattal Â­ 500 000 Ft Ã¶sszegre leszÃ¡llÃ­tjÃ¡k.<ujsor/>
+A tÅ‘keleszÃ¡llÃ­tÃ¡s utÃ¡n az egyes tagok tÃ¶rzsbetÃ©tjÃ©nek nagysÃ¡ga:<ujsor/>
+Nagyszegi SÃ¡ndor tulajdonÃ¡ban maradÃ³ tÃ¶rzsbetÃ©t: 250 000 Ft.<ujsor/>
+Nagyszegi BÃ¡lint tulajdonÃ¡ban maradÃ³ tÃ¶rzsbetÃ©t: 250 000 Ft.<ujsor/>
+A tÃ¡rsasÃ¡g biztosÃ­tÃ©kot nem ad, mivel pÃ©nzÃ¼gyi Ã©s vagyoni helyzete miatt a biztosÃ­tÃ©kadÃ¡s indokolatlan.<ujsor/>
+A tÃ¡rsasÃ¡g felhÃ­vja a hitelezÅ‘ket, hogy amennyiben kÃ¶vetelÃ©seik jelen szÃ¶veg elsÅ‘ kÃ¶zzÃ©tÃ©le elÅ‘tt keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig a gazdasÃ¡gi tÃ¡rsasÃ¡gtÃ³l Â­ a mÃ¡sodik kÃ¶zzÃ©tÃ©telt kÃ¶vetÅ‘ 30 napos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l Â­ biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">1309101356</mezo>
-<mezo id = "nev">Nagyszegi és Társa Tervezõ és Szolgáltató Korlátolt felelõsségû Társaság</mezo>
+<mezo id = "nev">Nagyszegi Ã©s TÃ¡rsa TervezÅ‘ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt felelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">2370 Dabas</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Nagyszegi és Társa Tervezõ és Szolgáltató Korlátolt Felelõsségû Társaság (Cg.: [13 09 101356]; székhelye: 2370 Dabas, Klapka u. 2/B) tagjai 2008. december 23-án úgy határoztak, hogy a társaság 3 000 000 Ft összegû törzstõkéjét ­ tõkekivonási célzattal ­ 500 000 Ft összegre leszállítják.<ujsor/>
-A tõkeleszállítás után az egyes tagok törzsbetétjének nagysága:<ujsor/>
-Nagyszegi Sándor tulajdonában maradó törzsbetét: 250 000 Ft.<ujsor/>
-Nagyszegi Bálint tulajdonában maradó törzsbetét: 250 000 Ft.<ujsor/>
-A társaság biztosítékot nem ad, mivel pénzügyi és vagyoni helyzete miatt a biztosítékadás indokolatlan.<ujsor/>
-A társaság felhívja a hitelezõket, hogy amennyiben követeléseik jelen szöveg elsõ közzététele elõtt keletkeztek, követeléseik erejéig a gazdasági társaságtól ­ a második közzétételt követõ 30 napos jogvesztõ határidõn belül ­ biztosítékot követelhetnek.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">A Nagyszegi Ã©s TÃ¡rsa TervezÅ‘ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [13 09 101356]; szÃ©khelye: 2370 Dabas, Klapka u. 2/B) tagjai 2008. december 23-Ã¡n Ãºgy hatÃ¡roztak, hogy a tÃ¡rsasÃ¡g 3 000 000 Ft Ã¶sszegÅ± tÃ¶rzstÅ‘kÃ©jÃ©t Â­ tÅ‘kekivonÃ¡si cÃ©lzattal Â­ 500 000 Ft Ã¶sszegre leszÃ¡llÃ­tjÃ¡k.<ujsor/>
+A tÅ‘keleszÃ¡llÃ­tÃ¡s utÃ¡n az egyes tagok tÃ¶rzsbetÃ©tjÃ©nek nagysÃ¡ga:<ujsor/>
+Nagyszegi SÃ¡ndor tulajdonÃ¡ban maradÃ³ tÃ¶rzsbetÃ©t: 250 000 Ft.<ujsor/>
+Nagyszegi BÃ¡lint tulajdonÃ¡ban maradÃ³ tÃ¶rzsbetÃ©t: 250 000 Ft.<ujsor/>
+A tÃ¡rsasÃ¡g biztosÃ­tÃ©kot nem ad, mivel pÃ©nzÃ¼gyi Ã©s vagyoni helyzete miatt a biztosÃ­tÃ©kadÃ¡s indokolatlan.<ujsor/>
+A tÃ¡rsasÃ¡g felhÃ­vja a hitelezÅ‘ket, hogy amennyiben kÃ¶vetelÃ©seik jelen szÃ¶veg elsÅ‘ kÃ¶zzÃ©tÃ©tele elÅ‘tt keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig a gazdasÃ¡gi tÃ¡rsasÃ¡gtÃ³l Â­ a mÃ¡sodik kÃ¶zzÃ©tÃ©telt kÃ¶vetÅ‘ 30 napos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l Â­ biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">1309101356</mezo>
-<mezo id = "nev">Nagyszegi és Társa Tervezõ és Szolgáltató Korlátolt felelõsségû Társaság</mezo>
+<mezo id = "nev">Nagyszegi Ã©s TÃ¡rsa TervezÅ‘ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt felelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">2370 Dabas</mezo>
 </alrovat>
 </rovat>

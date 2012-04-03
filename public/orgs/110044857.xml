@@ -5,7 +5,7 @@
 <mezo id = "cf">10</mezo>
 <mezo id = "szam">044857</mezo>
 <mezo id = "nevalrovat">2</mezo>
-<mezo id = "cim">1139 Budapest, Pap Károly u. 4-6. </mezo>
+<mezo id = "cim">1139 Budapest, Pap KÃ¡roly u. 4-6. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">12935181241</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20060126</mezo>
-<mezo id = "nev">INTRUM JUSTITIA Követeléskezelõ Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">INTRUM JUSTITIA KÃ¶vetelÃ©skezelÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -33,7 +33,7 @@
 <mezo id = "hattol">20051010</mezo>
 <mezo id = "irsz">1139</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Pap Károly u. 4-6.</mezo>
+<mezo id = "teru">Pap KÃ¡roly u. 4-6.</mezo>
 <mezo id = "kirsz">0</mezo>
 </alrovat>
 </rovat>
@@ -150,23 +150,23 @@
 <mezo id = "tv">2</mezo>
 <mezo id = "jogvk">20060427</mezo>
 <mezo id = "jogvv">20070501</mezo>
-<mezo id = "pcnev">dr. Radnai Ügyvédi Iroda</mezo>
+<mezo id = "pcnev">dr. Radnai ÃœgyvÃ©di Iroda</mezo>
 <mezo id = "pcanev">0</mezo>
 <mezo id = "pcirsz">1075</mezo>
 <mezo id = "pchely">Budapest</mezo>
-<mezo id = "pcteru">Madách Imre út</mezo>
+<mezo id = "pcteru">MadÃ¡ch Imre Ãºt</mezo>
 <mezo id = "pchsz">5.</mezo>
 <mezo id = "valtk">20060427</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
 <alrovat id = "22">
 <mezo id = "hattol">20090925</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Felfalusi Péter</mezo>
-<mezo id = "panev">Körtvélyessy Erika</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">Felfalusi PÃ©ter</mezo>
+<mezo id = "panev">KÃ¶rtvÃ©lyessy Erika</mezo>
 <mezo id = "pirsz">2096</mezo>
-<mezo id = "phely">Üröm</mezo>
-<mezo id = "pteru">Kormorán utca 8.</mezo>
+<mezo id = "phely">ÃœrÃ¶m</mezo>
+<mezo id = "pteru">KormorÃ¡n utca 8.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20071122</mezo>
 <mezo id = "jogvv">20111122</mezo>
@@ -175,12 +175,12 @@
 </alrovat>
 <alrovat id = "23">
 <mezo id = "hattol">20090925</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Szabó Tamás</mezo>
-<mezo id = "panev">Gaszt Mária</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">SzabÃ³ TamÃ¡s</mezo>
+<mezo id = "panev">Gaszt MÃ¡ria</mezo>
 <mezo id = "pirsz">1046</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Erdõsor utca 6.</mezo>
+<mezo id = "pteru">ErdÅ‘sor utca 6.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20070427</mezo>
 <mezo id = "jogvv">20111122</mezo>
@@ -189,9 +189,9 @@
 </alrovat>
 <alrovat id = "24">
 <mezo id = "hattol">20090925</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Majorosi Gyöngyvér</mezo>
-<mezo id = "panev">Buza Mónika</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">Majorosi GyÃ¶ngyvÃ©r</mezo>
+<mezo id = "panev">Buza MÃ³nika</mezo>
 <mezo id = "pirsz">1025</mezo>
 <mezo id = "phely">Budapest</mezo>
 <mezo id = "pteru">Mandula utca 33. II. em. 1.</mezo>
@@ -206,16 +206,16 @@
 <alrovat id = "6">
 <mezo id = "hattol">20060724</mezo>
 <mezo id = "cgjsz">109063183</mezo>
-<mezo id = "nev">KPMG Hungária Könyvvizsgáló, Adó- és Közgazdasági Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">KPMG HungÃ¡ria KÃ¶nyvvizsgÃ¡lÃ³, AdÃ³- Ã©s KÃ¶zgazdasÃ¡gi TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1139</mezo>
 <mezo id = "hely">Budapest,</mezo>
-<mezo id = "teru">Váci út</mezo>
+<mezo id = "teru">VÃ¡ci Ãºt</mezo>
 <mezo id = "hsz">99.</mezo>
-<mezo id = "pnev">Mádi-Szabó Zoltán</mezo>
-<mezo id = "panev">Szádoczky Erika</mezo>
+<mezo id = "pnev">MÃ¡di-SzabÃ³ ZoltÃ¡n</mezo>
+<mezo id = "panev">SzÃ¡doczky Erika</mezo>
 <mezo id = "pirsz">1081</mezo>
-<mezo id = "phely">Budapest, Népszínház u. 29.</mezo>
+<mezo id = "phely">Budapest, NÃ©pszÃ­nhÃ¡z u. 29.</mezo>
 <mezo id = "jogvk">20060427</mezo>
 <mezo id = "jogvv">20070531</mezo>
 <mezo id = "valtk">20060427</mezo>
@@ -224,14 +224,14 @@
 <alrovat id = "9">
 <mezo id = "hattol">20071122</mezo>
 <mezo id = "cgjsz">109468043</mezo>
-<mezo id = "nev">AKCEPT Könyvvizsgáló és Számviteli Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">AKCEPT KÃ¶nyvvizsgÃ¡lÃ³ Ã©s SzÃ¡mviteli KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1144</mezo>
-<mezo id = "hely">Budapest, Szentmihályi út 26. C. VIII. 32</mezo>
-<mezo id = "pnev">Bíróné Czinder Judit</mezo>
-<mezo id = "panev">Ádám Julianna</mezo>
+<mezo id = "hely">Budapest, SzentmihÃ¡lyi Ãºt 26. C. VIII. 32</mezo>
+<mezo id = "pnev">BÃ­rÃ³nÃ© Czinder Judit</mezo>
+<mezo id = "panev">ÃdÃ¡m Julianna</mezo>
 <mezo id = "pirsz">1144</mezo>
-<mezo id = "phely">Budapest, Szentmihályi út 26.</mezo>
+<mezo id = "phely">Budapest, SzentmihÃ¡lyi Ãºt 26.</mezo>
 <mezo id = "jogvk">20070205</mezo>
 <mezo id = "jogvv">20110205</mezo>
 <mezo id = "valtk">20071122</mezo>
@@ -243,8 +243,8 @@
 <rovat id = "15">
 <alrovat id = "11">
 <mezo id = "hattol">20060724</mezo>
-<mezo id = "pnev">dr. Hodosi Miklós</mezo>
-<mezo id = "panev">dr. Gyuris Mária Magdolna</mezo>
+<mezo id = "pnev">dr. Hodosi MiklÃ³s</mezo>
+<mezo id = "panev">dr. Gyuris MÃ¡ria Magdolna</mezo>
 <mezo id = "pirsz">1136</mezo>
 <mezo id = "phely">Budapest, Pannonia u. 6. II/2.</mezo>
 <mezo id = "jogvk">20060427</mezo>
@@ -254,11 +254,11 @@
 </alrovat>
 <alrovat id = "22">
 <mezo id = "hattol">20090925</mezo>
-<mezo id = "pnev">Dr. Hodosi Miklós</mezo>
-<mezo id = "panev">Dr. Gyuris Mária Magdolna</mezo>
+<mezo id = "pnev">Dr. Hodosi MiklÃ³s</mezo>
+<mezo id = "panev">Dr. Gyuris MÃ¡ria Magdolna</mezo>
 <mezo id = "pirsz">2760</mezo>
-<mezo id = "phely">Nagykáta</mezo>
-<mezo id = "pteru">Vásártér utca 8.</mezo>
+<mezo id = "phely">NagykÃ¡ta</mezo>
+<mezo id = "pteru">VÃ¡sÃ¡rtÃ©r utca 8.</mezo>
 <mezo id = "jogvk">20070427</mezo>
 <mezo id = "jogvv">20111122</mezo>
 <mezo id = "valtk">20090925</mezo>
@@ -266,8 +266,8 @@
 </alrovat>
 <alrovat id = "23">
 <mezo id = "hattol">20090925</mezo>
-<mezo id = "pnev">Kari Kyllönen</mezo>
-<mezo id = "panev">Tekla Ilma Kyllönen</mezo>
+<mezo id = "pnev">Kari KyllÃ¶nen</mezo>
+<mezo id = "panev">Tekla Ilma KyllÃ¶nen</mezo>
 <mezo id = "pkorsz">FI</mezo>
 <mezo id = "pkirsz">33270</mezo>
 <mezo id = "pkhely">Tampere</mezo>
@@ -325,11 +325,11 @@
 <mezo id = "hely">Baar</mezo>
 <mezo id = "teru">Grabenstrasse</mezo>
 <mezo id = "hsz">25</mezo>
-<mezo id = "pcnev">dr. Radnai Ügyvédi Iroda</mezo>
+<mezo id = "pcnev">dr. Radnai ÃœgyvÃ©di Iroda</mezo>
 <mezo id = "pcanev">0</mezo>
 <mezo id = "pcirsz">1075</mezo>
 <mezo id = "pchely">Budapest</mezo>
-<mezo id = "pcteru">Madách Imre út</mezo>
+<mezo id = "pcteru">MadÃ¡ch Imre Ãºt</mezo>
 <mezo id = "pchsz">5.</mezo>
 <mezo id = "pckirsz">0</mezo>
 <mezo id = "tagsk">20021209</mezo>
@@ -381,133 +381,133 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2006. 07. 24-én hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (tisztségviselõ).<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2006. 07. 24-Ã©n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (tisztsÃ©gviselÅ‘).<ujsor/>
  Henning Bensland (an: Gertraud Linke)<ujsor/>
-Külföldi cím: CH 8234 Stetten , Schlosstrasse 2.<ujsor/>
- Kézbesítési megbízott szervezet: dr. Radnai Ügyvédi Iroda<ujsor/>
-1075 Budapest, Madách Imre út 5.<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: CH 8234 Stetten , Schlosstrasse 2.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott szervezet: dr. Radnai ÃœgyvÃ©di Iroda<ujsor/>
+1075 Budapest, MadÃ¡ch Imre Ãºt 5.<ujsor/>
  A jogviszony kezdete: 2006. 04. 27.<ujsor/>
- A jogviszony vége: 2007. 05. 01.<ujsor/>
- A változás idõpontja: 2006. 04. 27.<ujsor/>
- A változás idõpontja (törlés): 2006. 04. 27.<ujsor/>
- Törölve: 2006. 09. 01.<ujsor/>
- A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (tisztségviselõ).<ujsor/>
+ A jogviszony vÃ©ge: 2007. 05. 01.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2006. 04. 27.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2006. 04. 27.<ujsor/>
+ TÃ¶rÃ¶lve: 2006. 09. 01.<ujsor/>
+ A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (tisztsÃ©gviselÅ‘).<ujsor/>
  Henning Bensland (an: Gertraud Linke)<ujsor/>
-Külföldi cím: CH 8704 Svájc, Herrliberg , Buchenrain 54.<ujsor/>
- Kézbesítési megbízott szervezet: dr. Radnai Ügyvédi Iroda<ujsor/>
-1075 Budapest, Madách Imre út 5.<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: CH 8704 SvÃ¡jc, Herrliberg , Buchenrain 54.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott szervezet: dr. Radnai ÃœgyvÃ©di Iroda<ujsor/>
+1075 Budapest, MadÃ¡ch Imre Ãºt 5.<ujsor/>
  A jogviszony kezdete: 2006. 04. 27.<ujsor/>
- A jogviszony vége: 2007. 05. 01.<ujsor/>
- A változás idõpontja: 2006. 04. 27.<ujsor/>
+ A jogviszony vÃ©ge: 2007. 05. 01.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2006. 04. 27.<ujsor/>
  Bejegyezve: 2006. 09. 01.<ujsor/>
-14. [01 09 063183] KPMG Hungária Könyvvizsgáló, Adó- és Közgazdasági Tanácsadó Korlátolt Felelõsségû Társaság<ujsor/>
-HU 1139 Budapest, Váci út 99.<ujsor/>
- Mádi-Szabó Zoltán (an: Szádoczky Erika)<ujsor/>
-1081 Budapest, Népszínház u. 29.<ujsor/>
+14. [01 09 063183] KPMG HungÃ¡ria KÃ¶nyvvizsgÃ¡lÃ³, AdÃ³- Ã©s KÃ¶zgazdasÃ¡gi TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g<ujsor/>
+HU 1139 Budapest, VÃ¡ci Ãºt 99.<ujsor/>
+ MÃ¡di-SzabÃ³ ZoltÃ¡n (an: SzÃ¡doczky Erika)<ujsor/>
+1081 Budapest, NÃ©pszÃ­nhÃ¡z u. 29.<ujsor/>
  A jogviszony kezdete: 2006. 04. 27.<ujsor/>
- A jogviszony vége: 2007. 05. 31.<ujsor/>
- A változás idõpontja: 2006. 04. 27.<ujsor/>
- A változás idõpontja (törlés): 2006. 04. 27.<ujsor/>
- Törölve: 2006. 09. 01.<ujsor/>
- [01 09 063183] KPMG Hungária Könyvvizsgáló, Adó- és Közgazdasági Tanácsadó Korlátolt Felelõsségû Társaság<ujsor/>
-HU 1139 Budapest, Váci út 99.<ujsor/>
- Mádi-Szabó Zoltán (an: Dr. Szádóczky Erika)<ujsor/>
-1081 Budapest, Népszínház u. 29.<ujsor/>
+ A jogviszony vÃ©ge: 2007. 05. 31.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2006. 04. 27.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2006. 04. 27.<ujsor/>
+ TÃ¶rÃ¶lve: 2006. 09. 01.<ujsor/>
+ [01 09 063183] KPMG HungÃ¡ria KÃ¶nyvvizsgÃ¡lÃ³, AdÃ³- Ã©s KÃ¶zgazdasÃ¡gi TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g<ujsor/>
+HU 1139 Budapest, VÃ¡ci Ãºt 99.<ujsor/>
+ MÃ¡di-SzabÃ³ ZoltÃ¡n (an: Dr. SzÃ¡dÃ³czky Erika)<ujsor/>
+1081 Budapest, NÃ©pszÃ­nhÃ¡z u. 29.<ujsor/>
  A jogviszony kezdete: 2006. 04. 27.<ujsor/>
- A jogviszony vége: 2007. 05. 31.<ujsor/>
- A változás idõpontja: 2006. 04. 27.<ujsor/>
+ A jogviszony vÃ©ge: 2007. 05. 31.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2006. 04. 27.<ujsor/>
  Bejegyezve: 2006. 09. 01.<ujsor/>
-15. dr. Hodosi Miklós (an: dr. Gyuris Mária Magdolna)<ujsor/>
+15. dr. Hodosi MiklÃ³s (an: dr. Gyuris MÃ¡ria Magdolna)<ujsor/>
 1136 Budapest, Pannonia u. 6. II/2.<ujsor/>
  A jogviszony kezdete: 2006. 04. 27.<ujsor/>
- A jogviszony vége: 2007. 05. 01.<ujsor/>
- A változás idõpontja: 2006. 04. 27.<ujsor/>
- A változás idõpontja (törlés): 2006. 04. 27.<ujsor/>
- Törölve: 2006. 09. 01.<ujsor/>
- dr. Hodosi Miklós (an: dr. Gyuris Mária Magdolna)<ujsor/>
-1136 Budapest, Pannónia u. 6. II. 2.<ujsor/>
+ A jogviszony vÃ©ge: 2007. 05. 01.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2006. 04. 27.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2006. 04. 27.<ujsor/>
+ TÃ¶rÃ¶lve: 2006. 09. 01.<ujsor/>
+ dr. Hodosi MiklÃ³s (an: dr. Gyuris MÃ¡ria Magdolna)<ujsor/>
+1136 Budapest, PannÃ³nia u. 6. II. 2.<ujsor/>
  A jogviszony kezdete: 2006. 04. 27.<ujsor/>
- A jogviszony vége: 2007. 05. 01.<ujsor/>
- A változás idõpontja: 2006. 04. 27.<ujsor/>
+ A jogviszony vÃ©ge: 2007. 05. 01.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2006. 04. 27.<ujsor/>
  Bejegyezve: 2006. 09. 01.<ujsor/>
-1(10). Kézbesítési megbízott szervezet: dr. Radnai Ügyvédi Iroda<ujsor/>
-1075 Budapest, Madách Imre út 5.<ujsor/>
+1(10). KÃ©zbesÃ­tÃ©si megbÃ­zott szervezet: dr. Radnai ÃœgyvÃ©di Iroda<ujsor/>
+1075 Budapest, MadÃ¡ch Imre Ãºt 5.<ujsor/>
  Intrum Justitia Debt Financs AG<ujsor/>
 CH 6340 Baar, Grabenstrasse 25.<ujsor/>
- A tagság kezdete: 2002. 12. 09.<ujsor/>
- A változás idõpontja: 2006. 04. 27.<ujsor/>
- A változás idõpontja (törlés): 2006. 04. 27.<ujsor/>
- Törölve: 2006. 09. 01.<ujsor/>
- Kézbesítési megbízott szervezet: dr. Radnai Ügyvédi Iroda<ujsor/>
-1075 Budapest, Madách I. út 5.<ujsor/>
+ A tagsÃ¡g kezdete: 2002. 12. 09.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2006. 04. 27.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2006. 04. 27.<ujsor/>
+ TÃ¶rÃ¶lve: 2006. 09. 01.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott szervezet: dr. Radnai ÃœgyvÃ©di Iroda<ujsor/>
+1075 Budapest, MadÃ¡ch I. Ãºt 5.<ujsor/>
  INTRUM JUSTITIA Debt Fiance AG.<ujsor/>
 CH 6340 Baar, Grabenstrasse 25.<ujsor/>
- A tagság kezdete: 2002. 12. 09.<ujsor/>
- A változás idõpontja: 2006. 04. 27.<ujsor/>
+ A tagsÃ¡g kezdete: 2002. 12. 09.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2006. 04. 27.<ujsor/>
  Bejegyezve: 2006. 09. 01.<ujsor/>
 2006. 09. 01.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044857</mezo>
-<mezo id = "nev">INTRUM JUSTITIA Követeléskezelõ Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">1139 Budapest, Pap Károly u. 4-6.</mezo>
+<mezo id = "nev">INTRUM JUSTITIA KÃ¶vetelÃ©skezelÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1139 Budapest, Pap KÃ¡roly u. 4-6.</mezo>
 <mezo id = "adosz">12935181141</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2009. 02. 02-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-15. Anders Karlström (an: Gunnel Ericsson)<ujsor/>
-Külföldi cím: SE 11260 Stockholm, Wivalliusgatan 21.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2009. 02. 02-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+15. Anders KarlstrÃ¶m (an: Gunnel Ericsson)<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: SE 11260 Stockholm, Wivalliusgatan 21.<ujsor/>
  A jogviszony kezdete: 2007. 05. 01.<ujsor/>
- A jogviszony vége: 2009. 11. 22.<ujsor/>
- A változás idõpontja: 2007. 11. 22.<ujsor/>
- A változás idõpontja (törlés): 2009. 01. 01.<ujsor/>
+ A jogviszony vÃ©ge: 2009. 11. 22.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2007. 11. 22.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2009. 01. 01.<ujsor/>
  Bejegyezve: 2007. 11. 22.<ujsor/>
- Törölve: 2009. 01. 01.<ujsor/>
+ TÃ¶rÃ¶lve: 2009. 01. 01.<ujsor/>
 2009. 04. 01.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044857</mezo>
-<mezo id = "nev">INTRUM JUSTITIA Követeléskezelõ Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">1139 Budapest, Pap Károly u. 4-6.</mezo>
+<mezo id = "nev">INTRUM JUSTITIA KÃ¶vetelÃ©skezelÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1139 Budapest, Pap KÃ¡roly u. 4-6.</mezo>
 <mezo id = "adosz">12935181241</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság a Cg.01-10-044857 cégjegyzékszámon bejegyzett INTRUM JUSTITIA Követeléskezelõ Zártkörûen Mûködõ Részvénytársaság (1139 Budapest, Pap Károly u 4-6.; adószáma: 12935181-2-41) ügyében az 2008. január 17. napján hozott Cg.01-10-044857/52. számú végzését hivatalból kiegészíteni rendeli az alábbiak szerint:<ujsor/>
-15. A felügyelõ bizottsági tagok adatai<ujsor/>
-Kari Kyllönen (an.: Tekla Ilma Kyllönen)<ujsor/>
-Külföldi lakó,illetve tartózkodási helye:<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.01-10-044857 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett INTRUM JUSTITIA KÃ¶vetelÃ©skezelÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (1139 Budapest, Pap KÃ¡roly u 4-6.; adÃ³szÃ¡ma: 12935181-2-41) Ã¼gyÃ©ben az 2008. januÃ¡r 17. napjÃ¡n hozott Cg.01-10-044857/52. szÃ¡mÃº vÃ©gzÃ©sÃ©t hivatalbÃ³l kiegÃ©szÃ­teni rendeli az alÃ¡bbiak szerint:<ujsor/>
+15. A felÃ¼gyelÅ‘ bizottsÃ¡gi tagok adatai<ujsor/>
+Kari KyllÃ¶nen (an.: Tekla Ilma KyllÃ¶nen)<ujsor/>
+KÃ¼lfÃ¶ldi lakÃ³,illetve tartÃ³zkodÃ¡si helye:<ujsor/>
 CH 33270 Tampere, Elvalankatu 8.<ujsor/>
-Jogv. kezdete: 2007.04.27. Jogv. vége: 2008.05.01.<ujsor/>
-Vált. vége: 2007.11.22.<ujsor/>
-Törölve (végzés kelte): 2009. június 11.<ujsor/>
-E végzés ellen fellebbezésnek nincs helye, azonban az ügyész, továbbá az, akire a végzés rendelkezést tartalmaz - a rendelkezés õt érintõ részére vonatkozóan - pert indíthat a cég ellen a cég székhelye szerint illetékes megyei bíróság elõtt a bejegyzõ végzés hatályon kívül helyezése iránt.<ujsor/>
-A per megindításának a bejegyzõ végzés Cégközlönyben való közzétételétõl, illetve - közzétételi kötelezettség hiányában - annak kézbesítésétõl számított 30 napon belül van helye. A határidõ elmulasztása jogvesztéssel jár.<ujsor/>
-2009. június 11.<ujsor/>
+Jogv. kezdete: 2007.04.27. Jogv. vÃ©ge: 2008.05.01.<ujsor/>
+VÃ¡lt. vÃ©ge: 2007.11.22.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2009. jÃºnius 11.<ujsor/>
+E vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye, azonban az Ã¼gyÃ©sz, tovÃ¡bbÃ¡ az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s Å‘t Ã©rintÅ‘ rÃ©szÃ©re vonatkozÃ³an - pert indÃ­that a cÃ©g ellen a cÃ©g szÃ©khelye szerint illetÃ©kes megyei bÃ­rÃ³sÃ¡g elÅ‘tt a bejegyzÅ‘ vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt.<ujsor/>
+A per megindÃ­tÃ¡sÃ¡nak a bejegyzÅ‘ vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l, illetve - kÃ¶zzÃ©tÃ©teli kÃ¶telezettsÃ©g hiÃ¡nyÃ¡ban - annak kÃ©zbesÃ­tÃ©sÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l van helye. A hatÃ¡ridÅ‘ elmulasztÃ¡sa jogvesztÃ©ssel jÃ¡r.<ujsor/>
+2009. jÃºnius 11.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044857</mezo>
-<mezo id = "nev">INTRUM JUSTITIA Követeléskezelõ Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">1139 Budapest, Pap Károly u 4-6.</mezo>
+<mezo id = "nev">INTRUM JUSTITIA KÃ¶vetelÃ©skezelÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1139 Budapest, Pap KÃ¡roly u 4-6.</mezo>
 <mezo id = "adosz">12935181241</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság a Cg.01-10-044857 cégjegyzékszámon bejegyzett INTRUM JUSTITIA Követeléskezelõ Zártkörûen Mûködõ Részvénytársaság (1139 Budapest, Pap Károly u 4-6.; adószáma: 12935181-2-41) kérelme alapján elrendeli az 2009. június 11. napján hozott Cg.01-10-044857 /11. számú végzésének kiegészítését az alábbiak szerint:<ujsor/>
-8. A létesítõ okirat kelte<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.01-10-044857 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett INTRUM JUSTITIA KÃ¶vetelÃ©skezelÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (1139 Budapest, Pap KÃ¡roly u 4-6.; adÃ³szÃ¡ma: 12935181-2-41) kÃ©relme alapjÃ¡n elrendeli az 2009. jÃºnius 11. napjÃ¡n hozott Cg.01-10-044857 /11. szÃ¡mÃº vÃ©gzÃ©sÃ©nek kiegÃ©szÃ­tÃ©sÃ©t az alÃ¡bbiak szerint:<ujsor/>
+8. A lÃ©tesÃ­tÅ‘ okirat kelte<ujsor/>
 2009.05.19<ujsor/>
-Bejegyezve (végzés kelte): 2009. június 30.<ujsor/>
-E végzés ellen fellebbezésnek nincs helye, azonban az ügyész, továbbá az, akire a végzés rendelkezést tartalmaz - a rendelkezés õt érintõ részére vonatkozóan - pert indíthat a cég ellen a cég székhelye szerint illetékes megyei bíróság elõtt a bejegyzõ végzés hatályon kívül helyezése iránt.<ujsor/>
-A per megindításának a bejegyzõ végzés Cégközlönyben való közzétételétõl, illetve - közzétételi kötelezettség hiányában - annak kézbesítésétõl számított 30 napon belül van helye. A határidõ elmulasztása jogvesztéssel jár.<ujsor/>
-2009. június 30.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2009. jÃºnius 30.<ujsor/>
+E vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye, azonban az Ã¼gyÃ©sz, tovÃ¡bbÃ¡ az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s Å‘t Ã©rintÅ‘ rÃ©szÃ©re vonatkozÃ³an - pert indÃ­that a cÃ©g ellen a cÃ©g szÃ©khelye szerint illetÃ©kes megyei bÃ­rÃ³sÃ¡g elÅ‘tt a bejegyzÅ‘ vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt.<ujsor/>
+A per megindÃ­tÃ¡sÃ¡nak a bejegyzÅ‘ vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l, illetve - kÃ¶zzÃ©tÃ©teli kÃ¶telezettsÃ©g hiÃ¡nyÃ¡ban - annak kÃ©zbesÃ­tÃ©sÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l van helye. A hatÃ¡ridÅ‘ elmulasztÃ¡sa jogvesztÃ©ssel jÃ¡r.<ujsor/>
+2009. jÃºnius 30.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044857</mezo>
-<mezo id = "nev">INTRUM JUSTITIA Követeléskezelõ Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">1139 Budapest, Pap Károly u 4-6.</mezo>
+<mezo id = "nev">INTRUM JUSTITIA KÃ¶vetelÃ©skezelÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1139 Budapest, Pap KÃ¡roly u 4-6.</mezo>
 <mezo id = "adosz">12935181241</mezo>
 </alrovat>
 </rovat>

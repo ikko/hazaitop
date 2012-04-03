@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">680564</mezo>
 <mezo id = "nevalrovat">2</mezo>
-<mezo id = "cim">1061 Budapest, Paulay Ede utca 44. félemelet 9. </mezo>
+<mezo id = "cim">1061 Budapest, Paulay Ede utca 44. fÃ©lemelet 9. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">11869254242</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20101028</mezo>
-<mezo id = "nev">Liverani Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Liverani KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">20101028</mezo>
 <mezo id = "bkelt">20101115</mezo>
 </alrovat>
@@ -31,7 +31,7 @@
 <mezo id = "hattol">20110720</mezo>
 <mezo id = "irsz">1061</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Paulay Ede utca 44. félemelet 9.</mezo>
+<mezo id = "teru">Paulay Ede utca 44. fÃ©lemelet 9.</mezo>
 <mezo id = "valtk">20110720</mezo>
 <mezo id = "bkelt">20110809</mezo>
 </alrovat>
@@ -192,25 +192,25 @@
 <mezo id = "hattol">20101028</mezo>
 <mezo id = "valtk">20101028</mezo>
 <mezo id = "bkelt">20101115</mezo>
-<mezo id = "teaszov">Saját tulajdonú, bérelt ingatlan bérbeadása, üzemeltetése</mezo>
+<mezo id = "teaszov">SajÃ¡t tulajdonÃº, bÃ©relt ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se</mezo>
 </alrovat>
 <alrovat id = "44">
 <mezo id = "hattol">20101028</mezo>
 <mezo id = "valtk">20101028</mezo>
 <mezo id = "bkelt">20101115</mezo>
-<mezo id = "teaszov">Egyéb termék ügynöki nagykereskedelme</mezo>
+<mezo id = "teaszov">EgyÃ©b termÃ©k Ã¼gynÃ¶ki nagykereskedelme</mezo>
 </alrovat>
 <alrovat id = "45">
 <mezo id = "hattol">20101028</mezo>
 <mezo id = "valtk">20101028</mezo>
 <mezo id = "bkelt">20101115</mezo>
-<mezo id = "teaszov">Cukor, édesség nagykereskedelme</mezo>
+<mezo id = "teaszov">Cukor, Ã©dessÃ©g nagykereskedelme</mezo>
 </alrovat>
 <alrovat id = "46">
 <mezo id = "hattol">20101028</mezo>
 <mezo id = "valtk">20101028</mezo>
 <mezo id = "bkelt">20101115</mezo>
-<mezo id = "teaszov">Egyéb élelmiszer nagykereskedelme</mezo>
+<mezo id = "teaszov">EgyÃ©b Ã©lelmiszer nagykereskedelme</mezo>
 </alrovat>
 <alrovat id = "47">
 <mezo id = "hattol">20101028</mezo>
@@ -222,91 +222,91 @@
 <mezo id = "hattol">20101028</mezo>
 <mezo id = "valtk">20101028</mezo>
 <mezo id = "bkelt">20101115</mezo>
-<mezo id = "teaszov">Ruházat, lábbeli nagykereskedelme</mezo>
+<mezo id = "teaszov">RuhÃ¡zat, lÃ¡bbeli nagykereskedelme</mezo>
 </alrovat>
 <alrovat id = "49">
 <mezo id = "hattol">20101028</mezo>
 <mezo id = "valtk">20101028</mezo>
 <mezo id = "bkelt">20101115</mezo>
-<mezo id = "teaszov">Egyéb háztartási cikk nagykereskedelme m.n.s.</mezo>
+<mezo id = "teaszov">EgyÃ©b hÃ¡ztartÃ¡si cikk nagykereskedelme m.n.s.</mezo>
 </alrovat>
 <alrovat id = "50">
 <mezo id = "hattol">20101028</mezo>
 <mezo id = "valtk">20101028</mezo>
 <mezo id = "bkelt">20101115</mezo>
-<mezo id = "teaszov">Élelmiszer jellegû bolti vegyes kiskereskedelem</mezo>
+<mezo id = "teaszov">Ã‰lelmiszer jellegÅ± bolti vegyes kiskereskedelem</mezo>
 </alrovat>
 <alrovat id = "51">
 <mezo id = "hattol">20101028</mezo>
 <mezo id = "valtk">20101028</mezo>
 <mezo id = "bkelt">20101115</mezo>
-<mezo id = "teaszov">Iparcikk jellegû bolti vegyes kiskereskedelem</mezo>
+<mezo id = "teaszov">Iparcikk jellegÅ± bolti vegyes kiskereskedelem</mezo>
 </alrovat>
 <alrovat id = "52">
 <mezo id = "hattol">20101028</mezo>
 <mezo id = "valtk">20101028</mezo>
 <mezo id = "bkelt">20101115</mezo>
-<mezo id = "teaszov">Vasáru-, festék-, üveg-kiskereskedelem</mezo>
+<mezo id = "teaszov">VasÃ¡ru-, festÃ©k-, Ã¼veg-kiskereskedelem</mezo>
 </alrovat>
 <alrovat id = "53">
 <mezo id = "hattol">20101028</mezo>
 <mezo id = "valtk">20101028</mezo>
 <mezo id = "bkelt">20101115</mezo>
-<mezo id = "teaszov">Bútor, világítási eszköz, egyéb háztartási cikk kiskereskedelme</mezo>
+<mezo id = "teaszov">BÃºtor, vilÃ¡gÃ­tÃ¡si eszkÃ¶z, egyÃ©b hÃ¡ztartÃ¡si cikk kiskereskedelme</mezo>
 </alrovat>
 <alrovat id = "54">
 <mezo id = "hattol">20101028</mezo>
 <mezo id = "valtk">20101028</mezo>
 <mezo id = "bkelt">20101115</mezo>
-<mezo id = "teaszov">Könyv-kiskereskedelem</mezo>
+<mezo id = "teaszov">KÃ¶nyv-kiskereskedelem</mezo>
 </alrovat>
 <alrovat id = "55">
 <mezo id = "hattol">20101028</mezo>
 <mezo id = "valtk">20101028</mezo>
 <mezo id = "bkelt">20101115</mezo>
-<mezo id = "teaszov">Újság-, papíráru-kiskereskedelem</mezo>
+<mezo id = "teaszov">ÃšjsÃ¡g-, papÃ­rÃ¡ru-kiskereskedelem</mezo>
 </alrovat>
 <alrovat id = "56">
 <mezo id = "hattol">20101028</mezo>
 <mezo id = "valtk">20101028</mezo>
 <mezo id = "bkelt">20101115</mezo>
-<mezo id = "teaszov">Ruházat kiskereskedelem</mezo>
+<mezo id = "teaszov">RuhÃ¡zat kiskereskedelem</mezo>
 </alrovat>
 <alrovat id = "57">
 <mezo id = "hattol">20101028</mezo>
 <mezo id = "valtk">20101028</mezo>
 <mezo id = "bkelt">20101115</mezo>
-<mezo id = "teaszov">Egyéb m.n.s. új áru kiskereskedelme</mezo>
+<mezo id = "teaszov">EgyÃ©b m.n.s. Ãºj Ã¡ru kiskereskedelme</mezo>
 </alrovat>
 <alrovat id = "58">
 <mezo id = "hattol">20101028</mezo>
 <mezo id = "valtk">20101028</mezo>
 <mezo id = "bkelt">20101115</mezo>
-<mezo id = "teaszov">Saját tulajdonú ingatlan adásvétele</mezo>
+<mezo id = "teaszov">SajÃ¡t tulajdonÃº ingatlan adÃ¡svÃ©tele</mezo>
 </alrovat>
 <alrovat id = "59">
 <mezo id = "hattol">20101028</mezo>
 <mezo id = "valtk">20101028</mezo>
 <mezo id = "bkelt">20101115</mezo>
-<mezo id = "teaszov">Üzletviteli, egyéb vezetési tanácsadás</mezo>
+<mezo id = "teaszov">Ãœzletviteli, egyÃ©b vezetÃ©si tanÃ¡csadÃ¡s</mezo>
 </alrovat>
 <alrovat id = "60">
 <mezo id = "hattol">20101028</mezo>
 <mezo id = "valtk">20101028</mezo>
 <mezo id = "bkelt">20101115</mezo>
-<mezo id = "teaszov">Vegyes termékkörû ügynöki nagykereskedelem</mezo>
+<mezo id = "teaszov">Vegyes termÃ©kkÃ¶rÅ± Ã¼gynÃ¶ki nagykereskedelem</mezo>
 </alrovat>
 <alrovat id = "61">
 <mezo id = "hattol">20101028</mezo>
 <mezo id = "valtk">20101028</mezo>
 <mezo id = "bkelt">20101115</mezo>
-<mezo id = "teaszov">Piac-, közvélemény-kutatás</mezo>
+<mezo id = "teaszov">Piac-, kÃ¶zvÃ©lemÃ©ny-kutatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "62">
 <mezo id = "hattol">20101028</mezo>
 <mezo id = "valtk">20101028</mezo>
 <mezo id = "bkelt">20101115</mezo>
-<mezo id = "teaszov">M.n.s. egyéb kiegészítõ üzleti szolgáltatás</mezo>
+<mezo id = "teaszov">M.n.s. egyÃ©b kiegÃ©szÃ­tÅ‘ Ã¼zleti szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -323,20 +323,20 @@
 <rovat id = "13">
 <alrovat id = "4">
 <mezo id = "hattol">20031104</mezo>
-<mezo id = "tiszt">ügyvezetõ</mezo>
-<mezo id = "pnev">Csicserits Beáta</mezo>
-<mezo id = "panev">Ogórek Alicika</mezo>
+<mezo id = "tiszt">Ã¼gyvezetÅ‘</mezo>
+<mezo id = "pnev">Csicserits BeÃ¡ta</mezo>
+<mezo id = "panev">OgÃ³rek Alicika</mezo>
 <mezo id = "pirsz">1112</mezo>
-<mezo id = "phely">Budapest, Igmándi u. 10.</mezo>
+<mezo id = "phely">Budapest, IgmÃ¡ndi u. 10.</mezo>
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">20091127</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Gál Edit</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">GÃ¡l Edit</mezo>
 <mezo id = "panev">Mahu Stella</mezo>
 <mezo id = "pirsz">1067</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Eötvös u. 19. II. em. 21.</mezo>
+<mezo id = "pteru">EÃ¶tvÃ¶s u. 19. II. em. 21.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20091127</mezo>
 <mezo id = "valtk">20091127</mezo>
@@ -362,14 +362,14 @@
 <alrovat id = "5">
 <mezo id = "adosz">11869254242</mezo>
 <mezo id = "bkelt">20110809</mezo>
-<mezo id = "megj">Státusz kezdete: 1999/06/07</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 1999/06/07</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0109">
 <alrovat id = "6">
 <mezo id = "hattol">20100402</mezo>
-<mezo id = "pnev">Hagyó Miklós</mezo>
-<mezo id = "panev">Gábor Mária</mezo>
+<mezo id = "pnev">HagyÃ³ MiklÃ³s</mezo>
+<mezo id = "panev">GÃ¡bor MÃ¡ria</mezo>
 <mezo id = "tagsk">20030507</mezo>
 <mezo id = "valtk">20100402</mezo>
 <mezo id = "bkelt">20100429</mezo>
@@ -377,33 +377,33 @@
 <alrovat id = "7">
 <mezo id = "hattol">20100402</mezo>
 <mezo id = "cgjsz">0109875150</mezo>
-<mezo id = "nev">ca-ti Elektromos Kéziszerszám Nagykereskedõ és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">ca-ti Elektromos KÃ©ziszerszÃ¡m NagykereskedÅ‘ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1157</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Erdõkerülõ u. 30. 4. em. 16.</mezo>
+<mezo id = "teru">ErdÅ‘kerÃ¼lÅ‘ u. 30. 4. em. 16.</mezo>
 <mezo id = "tagsk">20100402</mezo>
 <mezo id = "valtk">20100402</mezo>
 <mezo id = "bkelt">20100429</mezo>
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">20110720</mezo>
-<mezo id = "pnev">Dr. Varga Tiborné</mezo>
+<mezo id = "pnev">Dr. Varga TibornÃ©</mezo>
 <mezo id = "panev">Martusz Anna</mezo>
 <mezo id = "pirsz">1065</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Hajós utca 16-18.</mezo>
+<mezo id = "pteru">HajÃ³s utca 16-18.</mezo>
 <mezo id = "tagsk">20110718</mezo>
 <mezo id = "valtk">20110720</mezo>
 <mezo id = "bkelt">20110809</mezo>
 </alrovat>
 <alrovat id = "11">
 <mezo id = "hattol">20110720</mezo>
-<mezo id = "pnev">Varga Péter Márton</mezo>
-<mezo id = "panev">Lõwy Eszter Éva</mezo>
+<mezo id = "pnev">Varga PÃ©ter MÃ¡rton</mezo>
+<mezo id = "panev">LÅ‘wy Eszter Ã‰va</mezo>
 <mezo id = "pirsz">1065</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Hajós utca 16-18.</mezo>
+<mezo id = "pteru">HajÃ³s utca 16-18.</mezo>
 <mezo id = "tagsk">20110718</mezo>
 <mezo id = "valtk">20110720</mezo>
 <mezo id = "bkelt">20110809</mezo>
@@ -418,27 +418,27 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Hagyó Miklós, 5100 Jászberény, Toborzó u. 25. szám alatti lakos közzéteszi, hogy a Fõvárosi Bíróság mint Cégbíróság által nyilvántartott WIRTASS Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaságban (Cg.: [01 09 680564]; 1121 Budapest, Rege u. 15. I. 4.) a 2003. május 7-én megkötött üzletrész-adásvételi szerzõdés következtében a tulajdonában álló üzletrész 96,6%-ra emelkedett, így közvetlen irányítást biztosító befolyást szerzett a társaságban.<ujsor/>
-A hitelezõk a Gt. 296. § (2) bekezdésében foglalt jogaikat gyakorolhatják.<ujsor/>
+<mezo id = "szoveg">HagyÃ³ MiklÃ³s, 5100 JÃ¡szberÃ©ny, ToborzÃ³ u. 25. szÃ¡m alatti lakos kÃ¶zzÃ©teszi, hogy a FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g Ã¡ltal nyilvÃ¡ntartott WIRTASS Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gban (Cg.: [01 09 680564]; 1121 Budapest, Rege u. 15. I. 4.) a 2003. mÃ¡jus 7-Ã©n megkÃ¶tÃ¶tt Ã¼zletrÃ©sz-adÃ¡svÃ©teli szerzÅ‘dÃ©s kÃ¶vetkeztÃ©ben a tulajdonÃ¡ban Ã¡llÃ³ Ã¼zletrÃ©sz 96,6%-ra emelkedett, Ã­gy kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡st szerzett a tÃ¡rsasÃ¡gban.<ujsor/>
+A hitelezÅ‘k a Gt. 296. Â§ (2) bekezdÃ©sÃ©ben foglalt jogaikat gyakorolhatjÃ¡k.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109680564</mezo>
-<mezo id = "nev">WIRTASS Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1112 Budapest, Kérõ utca 14. 10. em. 60. </mezo>
+<mezo id = "nev">WIRTASS Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1112 Budapest, KÃ©rÅ‘ utca 14. 10. em. 60. </mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2003. 12. 10-én hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. Csicserits Beáta (an: Ogórek Alicika) ügyvezetõ<ujsor/>
-1112 Budapest, Igmándi u. 10.<ujsor/>
- Törölve: 2003. 11. 04-i hatállyal.<ujsor/>
- Csecserits Beáta (an: Ogórek Alicika) ügyvezetõ<ujsor/>
-1112 Budapest, Igmándi u. 10.<ujsor/>
- Hatályos: 2003. 11. 04-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2003. 12. 10-Ã©n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. Csicserits BeÃ¡ta (an: OgÃ³rek Alicika) Ã¼gyvezetÅ‘<ujsor/>
+1112 Budapest, IgmÃ¡ndi u. 10.<ujsor/>
+ TÃ¶rÃ¶lve: 2003. 11. 04-i hatÃ¡llyal.<ujsor/>
+ Csecserits BeÃ¡ta (an: OgÃ³rek Alicika) Ã¼gyvezetÅ‘<ujsor/>
+1112 Budapest, IgmÃ¡ndi u. 10.<ujsor/>
+ HatÃ¡lyos: 2003. 11. 04-tÅ‘l.<ujsor/>
 Bejegyezve: 2004. 11. 04.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109680564</mezo>
-<mezo id = "nev">WIRTASS Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">WIRTASS Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1121 Budapest, Rege u. 15. 1. em. 4.</mezo>
 <mezo id = "adosz">11869254243</mezo>
 </alrovat>

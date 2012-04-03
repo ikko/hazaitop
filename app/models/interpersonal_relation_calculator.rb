@@ -8,9 +8,9 @@ class InterpersonalRelationCalculator < ActiveRecord::Base
     timestamps
   end
 
-  belongs_to :p2p_relation_type
-  belongs_to :p2o_relation_type
-  belongs_to :related_p2o_relation_type, :class_name => "P2oRelationType", :index => "matrix"
+  belongs_to :p_to_p_relation_type
+  belongs_to :p_to_o_relation_type
+  belongs_to :related_p_to_o_relation_type, :class_name => "PToORelationType", :index => "matrix"
 
   # --- Permissions --- #
 

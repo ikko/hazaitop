@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">077842</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">1117 Budapest, Október huszonharmadika utca 6-10. </mezo>
+<mezo id = "cim">1117 Budapest, OktÃ³ber huszonharmadika utca 6-10. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">10587287243</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19910731</mezo>
-<mezo id = "nev">MERCK Vegyi és Gyógyszeripari Kereskedelmi Korlátolt Felelõsságü Társaság</mezo>
+<mezo id = "nev">MERCK Vegyi Ã©s GyÃ³gyszeripari Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ¡gÃ¼ TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -33,7 +33,7 @@
 <mezo id = "hattol">20110601</mezo>
 <mezo id = "irsz">1117</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Október huszonharmadika utca 6-10.</mezo>
+<mezo id = "teru">OktÃ³ber huszonharmadika utca 6-10.</mezo>
 <mezo id = "valtk">20110601</mezo>
 <mezo id = "bkelt">20110627</mezo>
 </alrovat>
@@ -43,7 +43,7 @@
 <mezo id = "hattol">20110124</mezo>
 <mezo id = "irsz">1117</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Október huszonharmadika utca 6-10.</mezo>
+<mezo id = "teru">OktÃ³ber huszonharmadika utca 6-10.</mezo>
 <mezo id = "valtk">20110124</mezo>
 <mezo id = "bkelt">20110217</mezo>
 </alrovat>
@@ -52,18 +52,18 @@
 <alrovat id = "1">
 <mezo id = "hattol">20040614</mezo>
 <mezo id = "irsz">2040</mezo>
-<mezo id = "hely">Budaörs, Vasút u. 9.</mezo>
+<mezo id = "hely">BudaÃ¶rs, VasÃºt u. 9.</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20050214</mezo>
 <mezo id = "irsz">2040</mezo>
-<mezo id = "hely">Budaörs, Vasút u. 11.</mezo>
+<mezo id = "hely">BudaÃ¶rs, VasÃºt u. 11.</mezo>
 <mezo id = "orsz">HU</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20070104</mezo>
 <mezo id = "irsz">2040</mezo>
-<mezo id = "hely">Budaörs, Vasút u. 13.</mezo>
+<mezo id = "hely">BudaÃ¶rs, VasÃºt u. 13.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20070101</mezo>
 <mezo id = "valtv">0</mezo>
@@ -845,13 +845,13 @@
 <mezo id = "hattol">20110124</mezo>
 <mezo id = "valtk">20110124</mezo>
 <mezo id = "bkelt">20110217</mezo>
-<mezo id = "teaszov">M.n.s. egyéb oktatás</mezo>
+<mezo id = "teaszov">M.n.s. egyÃ©b oktatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "117">
 <mezo id = "hattol">20110124</mezo>
 <mezo id = "valtk">20110124</mezo>
 <mezo id = "bkelt">20110217</mezo>
-<mezo id = "teaszov">M.n.s. egyéb szakmai, tudományos, mûszaki tevékenység</mezo>
+<mezo id = "teaszov">M.n.s. egyÃ©b szakmai, tudomÃ¡nyos, mÅ±szaki tevÃ©kenysÃ©g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -866,10 +866,10 @@
 <rovat id = "13">
 <alrovat id = "9">
 <mezo id = "hattol">20091228</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "email">tibor.meisel@merck.hu</mezo>
 <mezo id = "pnev">Dr. Meisel Tibor</mezo>
-<mezo id = "panev">Ágoston Julianna</mezo>
+<mezo id = "panev">Ãgoston Julianna</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20070101</mezo>
 <mezo id = "valtk">20091228</mezo>
@@ -880,15 +880,15 @@
 <alrovat id = "4">
 <mezo id = "hattol">20081228</mezo>
 <mezo id = "cgjsz">109063183</mezo>
-<mezo id = "nev">KPMG Hungária Könyvvizsgáló, Adó és Közgazdasági Társaság</mezo>
+<mezo id = "nev">KPMG HungÃ¡ria KÃ¶nyvvizsgÃ¡lÃ³, AdÃ³ Ã©s KÃ¶zgazdasÃ¡gi TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1139</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Váci út 99</mezo>
-<mezo id = "pnev">Rózsai Rezsõ</mezo>
+<mezo id = "teru">VÃ¡ci Ãºt 99</mezo>
+<mezo id = "pnev">RÃ³zsai RezsÅ‘</mezo>
 <mezo id = "panev">Gombai Ilona</mezo>
 <mezo id = "pirsz">8427</mezo>
-<mezo id = "phely">Bakonybél, Szt. Gellért tér 5/a.</mezo>
+<mezo id = "phely">BakonybÃ©l, Szt. GellÃ©rt tÃ©r 5/a.</mezo>
 <mezo id = "jogvk">20081228</mezo>
 <mezo id = "jogvv">20131228</mezo>
 <mezo id = "valtk">20081228</mezo>
@@ -938,63 +938,63 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság az 1999. 01. 07-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g az 1999. 01. 07-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
 17. DE.<ujsor/>
- Törölve: 1999. 01. 07-i hatállyal.<ujsor/>
+ TÃ¶rÃ¶lve: 1999. 01. 07-i hatÃ¡llyal.<ujsor/>
  CH.<ujsor/>
- Hatályos: 1999. 01. 07-tõl.<ujsor/>
+ HatÃ¡lyos: 1999. 01. 07-tÅ‘l.<ujsor/>
 20. 10587287-5190-113-01.<ujsor/>
- Törölve: 1999. 01. 07-i hatállyal.<ujsor/>
+ TÃ¶rÃ¶lve: 1999. 01. 07-i hatÃ¡llyal.<ujsor/>
  10587287-5155-113-01.<ujsor/>
- Hatályos: 1999. 01. 07-tõl.<ujsor/>
+ HatÃ¡lyos: 1999. 01. 07-tÅ‘l.<ujsor/>
 Bejegyezve: 1999. 02. 03.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109077842</mezo>
-<mezo id = "nev">MERCK Vegyi és Gyógyszeripari Kereskedelmi Korlátolt Felelõsságü Társaság</mezo>
+<mezo id = "nev">MERCK Vegyi Ã©s GyÃ³gyszeripari Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ¡gÃ¼ TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1116 Budapest, Talpas u. 3.</mezo>
 <mezo id = "adosz">10587287243</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2004. 05. 20-án hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-09. 5155&apos;03 Vegyi áru nagykereskedelme.<ujsor/>
- Törölve: 2004. 07. 05-i hatállyal.<ujsor/>
- 5155&apos;03 Vegyi áru nagykereskedelme (fõtevékenység).<ujsor/>
- Hatályos: 2004. 07. 05-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2004. 05. 20-Ã¡n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+09. 5155&apos;03 Vegyi Ã¡ru nagykereskedelme.<ujsor/>
+ TÃ¶rÃ¶lve: 2004. 07. 05-i hatÃ¡llyal.<ujsor/>
+ 5155&apos;03 Vegyi Ã¡ru nagykereskedelme (fÅ‘tevÃ©kenysÃ©g).<ujsor/>
+ HatÃ¡lyos: 2004. 07. 05-tÅ‘l.<ujsor/>
 Bejegyezve: 2004. 07. 05.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109077842</mezo>
-<mezo id = "nev">MERCK Vegyi és Gyógyszeripari Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1113 Budapest, Bocskai út 134-146.</mezo>
+<mezo id = "nev">MERCK Vegyi Ã©s GyÃ³gyszeripari Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1113 Budapest, Bocskai Ãºt 134-146.</mezo>
 <mezo id = "adosz">10587287243</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2001. 07. 16-án hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2001. 07. 16-Ã¡n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
 17. CH.<ujsor/>
- Törölve: 2001. 07. 16-i hatállyal.<ujsor/>
+ TÃ¶rÃ¶lve: 2001. 07. 16-i hatÃ¡llyal.<ujsor/>
  DE.<ujsor/>
- Hatályos: 2001. 07. 16-tól.<ujsor/>
+ HatÃ¡lyos: 2001. 07. 16-tÃ³l.<ujsor/>
 Bejegyezve: 2005. 03. 11.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109077842</mezo>
-<mezo id = "nev">MERCK Vegyi és Gyógyszeripari Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1113 Budapest, Bocskai út 134-146.</mezo>
+<mezo id = "nev">MERCK Vegyi Ã©s GyÃ³gyszeripari Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1113 Budapest, Bocskai Ãºt 134-146.</mezo>
 <mezo id = "adosz">10587287243</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2005. 02. 02-án hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-09. 3320&apos;03 Mérõmûszer gyártása.<ujsor/>
- Hatályos: 2005. 02. 02-tól.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2005. 02. 02-Ã¡n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+09. 3320&apos;03 MÃ©rÅ‘mÅ±szer gyÃ¡rtÃ¡sa.<ujsor/>
+ HatÃ¡lyos: 2005. 02. 02-tÃ³l.<ujsor/>
 Bejegyezve: 2005. 03. 11.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109077842</mezo>
-<mezo id = "nev">MERCK Vegyi és Gyógyszeripari Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1113 Budapest, Bocskai út 134-146.</mezo>
+<mezo id = "nev">MERCK Vegyi Ã©s GyÃ³gyszeripari Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1113 Budapest, Bocskai Ãºt 134-146.</mezo>
 <mezo id = "adosz">10587287243</mezo>
 </alrovat>
 </rovat>

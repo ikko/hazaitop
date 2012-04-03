@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">011799</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">3600 Ózd, Vasvár út 60. </mezo>
+<mezo id = "cim">3600 Ã“zd, VasvÃ¡r Ãºt 60. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">13399609205</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20050119</mezo>
-<mezo id = "nev">&quot;Adriacomp&quot; Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">&quot;Adriacomp&quot; Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -26,8 +26,8 @@
 <alrovat id = "2">
 <mezo id = "hattol">20100113</mezo>
 <mezo id = "irsz">3600</mezo>
-<mezo id = "hely">Ózd</mezo>
-<mezo id = "teru">Vasvár út 60.</mezo>
+<mezo id = "hely">Ã“zd</mezo>
+<mezo id = "teru">VasvÃ¡r Ãºt 60.</mezo>
 <mezo id = "valtk">20100113</mezo>
 <mezo id = "bkelt">20100127</mezo>
 </alrovat>
@@ -36,8 +36,8 @@
 <alrovat id = "2">
 <mezo id = "hattol">20110310</mezo>
 <mezo id = "irsz">3600</mezo>
-<mezo id = "hely">Ózd</mezo>
-<mezo id = "teru">Március 15 u. 67.</mezo>
+<mezo id = "hely">Ã“zd</mezo>
+<mezo id = "teru">MÃ¡rcius 15 u. 67.</mezo>
 <mezo id = "valtk">20110310</mezo>
 <mezo id = "bkelt">20110325</mezo>
 </alrovat>
@@ -804,31 +804,31 @@
 <mezo id = "hattol">20110310</mezo>
 <mezo id = "valtk">20110310</mezo>
 <mezo id = "bkelt">20110325</mezo>
-<mezo id = "teaszov">Út, autópálya építés</mezo>
+<mezo id = "teaszov">Ãšt, autÃ³pÃ¡lya Ã©pÃ­tÃ©s</mezo>
 </alrovat>
 <alrovat id = "108">
 <mezo id = "hattol">20110310</mezo>
 <mezo id = "valtk">20110310</mezo>
 <mezo id = "bkelt">20110325</mezo>
-<mezo id = "teaszov">Bontás</mezo>
+<mezo id = "teaszov">BontÃ¡s</mezo>
 </alrovat>
 <alrovat id = "109">
 <mezo id = "hattol">20110310</mezo>
 <mezo id = "valtk">20110310</mezo>
 <mezo id = "bkelt">20110325</mezo>
-<mezo id = "teaszov">Építési terület elõkészítése</mezo>
+<mezo id = "teaszov">Ã‰pÃ­tÃ©si terÃ¼let elÅ‘kÃ©szÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "110">
 <mezo id = "hattol">20110310</mezo>
 <mezo id = "valtk">20110310</mezo>
 <mezo id = "bkelt">20110325</mezo>
-<mezo id = "teaszov">Bányászati-, építõipari gép nagykereskedelme</mezo>
+<mezo id = "teaszov">BÃ¡nyÃ¡szati-, Ã©pÃ­tÅ‘ipari gÃ©p nagykereskedelme</mezo>
 </alrovat>
 <alrovat id = "111">
 <mezo id = "hattol">20110310</mezo>
 <mezo id = "valtk">20110310</mezo>
 <mezo id = "bkelt">20110325</mezo>
-<mezo id = "teaszov">Építõipari gép kölcsönzése</mezo>
+<mezo id = "teaszov">Ã‰pÃ­tÅ‘ipari gÃ©p kÃ¶lcsÃ¶nzÃ©se</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -843,9 +843,9 @@
 <rovat id = "13">
 <alrovat id = "2">
 <mezo id = "hattol">20100113</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Németh Gábor</mezo>
-<mezo id = "panev">Csendes Éva</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">NÃ©meth GÃ¡bor</mezo>
+<mezo id = "panev">Csendes Ã‰va</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100113</mezo>
 <mezo id = "valtk">20100113</mezo>
@@ -869,8 +869,8 @@
 <rovat id = "0109">
 <alrovat id = "3">
 <mezo id = "hattol">20100113</mezo>
-<mezo id = "pnev">Németh Gábor</mezo>
-<mezo id = "panev">Csendes Éva</mezo>
+<mezo id = "pnev">NÃ©meth GÃ¡bor</mezo>
+<mezo id = "panev">Csendes Ã‰va</mezo>
 <mezo id = "tagsk">20041128</mezo>
 <mezo id = "valtk">20100113</mezo>
 <mezo id = "bkelt">20100127</mezo>

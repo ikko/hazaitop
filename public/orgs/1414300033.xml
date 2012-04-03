@@ -7,7 +7,7 @@
 <mezo id = "nevalrovat">1</mezo>
 <mezo id = "regi_szh">0214000048</mezo>
 <mezo id = "allapot">6</mezo>
-<mezo id = "cim">7400 Kaposvár, Szántó utca 5. </mezo>
+<mezo id = "cim">7400 KaposvÃ¡r, SzÃ¡ntÃ³ utca 5. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">20145103214</mezo>
 </alrovat>
@@ -15,13 +15,13 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19980817</mezo>
-<mezo id = "nev">Dél-dunántúli Regionális-Fejlesztési Ügynökség Közhasznú Társaság</mezo>
+<mezo id = "nev">DÃ©l-dunÃ¡ntÃºli RegionÃ¡lis-FejlesztÃ©si ÃœgynÃ¶ksÃ©g KÃ¶zhasznÃº TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "2">
 <mezo id = "hattol">20000901</mezo>
-<mezo id = "nev">DDRFÜ Kht.</mezo>
+<mezo id = "nev">DDRFÃœ Kht.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "4">
@@ -34,20 +34,20 @@
 <alrovat id = "2">
 <mezo id = "hattol">20000608</mezo>
 <mezo id = "irsz">7400</mezo>
-<mezo id = "hely">Kaposvár</mezo>
-<mezo id = "teru">Szántó utca 5.</mezo>
+<mezo id = "hely">KaposvÃ¡r</mezo>
+<mezo id = "teru">SzÃ¡ntÃ³ utca 5.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "7">
 <alrovat id = "3">
 <mezo id = "hattol">20010419</mezo>
 <mezo id = "irsz">7100</mezo>
-<mezo id = "hely">Szekszárd, Szent István tér 11-13.</mezo>
+<mezo id = "hely">SzekszÃ¡rd, Szent IstvÃ¡n tÃ©r 11-13.</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20060330</mezo>
 <mezo id = "irsz">7621</mezo>
-<mezo id = "hely">Pécs, Mária utca 3.</mezo>
+<mezo id = "hely">PÃ©cs, MÃ¡ria utca 3.</mezo>
 <mezo id = "orsz">HU</mezo>
 </alrovat>
 </rovat>
@@ -974,10 +974,10 @@
 <rovat id = "13">
 <alrovat id = "4">
 <mezo id = "hattol">20060330</mezo>
-<mezo id = "pnev">Sitányi László</mezo>
+<mezo id = "pnev">SitÃ¡nyi LÃ¡szlÃ³</mezo>
 <mezo id = "panev">Nagy Veronika</mezo>
 <mezo id = "pirsz">7476</mezo>
-<mezo id = "phely">Kaposszerdahely, Petõfi u. 36.</mezo>
+<mezo id = "phely">Kaposszerdahely, PetÅ‘fi u. 36.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">2</mezo>
 <mezo id = "jogvk">20040401</mezo>
@@ -985,10 +985,10 @@
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20071107</mezo>
-<mezo id = "pnev">Márton György</mezo>
-<mezo id = "panev">Volk Márta</mezo>
+<mezo id = "pnev">MÃ¡rton GyÃ¶rgy</mezo>
+<mezo id = "panev">Volk MÃ¡rta</mezo>
 <mezo id = "pirsz">7629</mezo>
-<mezo id = "phely">Pécs, Teleki u. 4.</mezo>
+<mezo id = "phely">PÃ©cs, Teleki u. 4.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">d</mezo>
 <mezo id = "jogvk">20071107</mezo>
@@ -1003,7 +1003,7 @@
 <alrovat id = "4">
 <mezo id = "hattol">20051220</mezo>
 <mezo id = "pnev">Hajdu Gyula</mezo>
-<mezo id = "panev">Baráth Gizella</mezo>
+<mezo id = "panev">BarÃ¡th Gizella</mezo>
 <mezo id = "pirsz">7439</mezo>
 <mezo id = "phely">Bodrog, Kossuth Lajos u. 114.</mezo>
 <mezo id = "jogvk">20051001</mezo>
@@ -1013,10 +1013,10 @@
 <rovat id = "15">
 <alrovat id = "20">
 <mezo id = "hattol">20060531</mezo>
-<mezo id = "pnev">Molnár György</mezo>
-<mezo id = "panev">Tobak Valéria</mezo>
+<mezo id = "pnev">MolnÃ¡r GyÃ¶rgy</mezo>
+<mezo id = "panev">Tobak ValÃ©ria</mezo>
 <mezo id = "pirsz">7400</mezo>
-<mezo id = "phely">Kaposvár, Fõ u. 70.</mezo>
+<mezo id = "phely">KaposvÃ¡r, FÅ‘ u. 70.</mezo>
 <mezo id = "jogvk">20060531</mezo>
 <mezo id = "jogvv">20090531</mezo>
 <mezo id = "valtk">0</mezo>
@@ -1024,8 +1024,8 @@
 </alrovat>
 <alrovat id = "21">
 <mezo id = "hattol">20060531</mezo>
-<mezo id = "pnev">Szentgróti József</mezo>
-<mezo id = "panev">Horváth Rozália</mezo>
+<mezo id = "pnev">SzentgrÃ³ti JÃ³zsef</mezo>
+<mezo id = "panev">HorvÃ¡th RozÃ¡lia</mezo>
 <mezo id = "pirsz">7439</mezo>
 <mezo id = "phely">Bodrog, Kossuth L. u. 31.</mezo>
 <mezo id = "jogvk">20060531</mezo>
@@ -1035,10 +1035,10 @@
 </alrovat>
 <alrovat id = "22">
 <mezo id = "hattol">20060531</mezo>
-<mezo id = "pnev">Právics József</mezo>
-<mezo id = "panev">Csapó Gizella</mezo>
+<mezo id = "pnev">PrÃ¡vics JÃ³zsef</mezo>
+<mezo id = "panev">CsapÃ³ Gizella</mezo>
 <mezo id = "pirsz">7200</mezo>
-<mezo id = "phely">Dombóvár, Dombó Pál u. 18.</mezo>
+<mezo id = "phely">DombÃ³vÃ¡r, DombÃ³ PÃ¡l u. 18.</mezo>
 <mezo id = "jogvk">20060531</mezo>
 <mezo id = "jogvv">20090531</mezo>
 <mezo id = "valtk">0</mezo>
@@ -1046,10 +1046,10 @@
 </alrovat>
 <alrovat id = "23">
 <mezo id = "hattol">20060531</mezo>
-<mezo id = "pnev">dr. Máté János</mezo>
-<mezo id = "panev">Bán Erzsébet</mezo>
+<mezo id = "pnev">dr. MÃ¡tÃ© JÃ¡nos</mezo>
+<mezo id = "panev">BÃ¡n ErzsÃ©bet</mezo>
 <mezo id = "pirsz">7800</mezo>
-<mezo id = "phely">Siklós, Iskola u. 20/b.</mezo>
+<mezo id = "phely">SiklÃ³s, Iskola u. 20/b.</mezo>
 <mezo id = "jogvk">20060531</mezo>
 <mezo id = "jogvv">20090531</mezo>
 <mezo id = "valtk">0</mezo>
@@ -1057,10 +1057,10 @@
 </alrovat>
 <alrovat id = "24">
 <mezo id = "hattol">20060531</mezo>
-<mezo id = "pnev">dr. Kovács Katalin</mezo>
-<mezo id = "panev">Kiss Mária</mezo>
+<mezo id = "pnev">dr. KovÃ¡cs Katalin</mezo>
+<mezo id = "panev">Kiss MÃ¡ria</mezo>
 <mezo id = "pirsz">7940</mezo>
-<mezo id = "phely">Szentlõrinc, Széchenyi u. 9.</mezo>
+<mezo id = "phely">SzentlÅ‘rinc, SzÃ©chenyi u. 9.</mezo>
 <mezo id = "jogvk">20060531</mezo>
 <mezo id = "jogvv">20090531</mezo>
 <mezo id = "valtk">0</mezo>
@@ -1068,10 +1068,10 @@
 </alrovat>
 <alrovat id = "25">
 <mezo id = "hattol">20070228</mezo>
-<mezo id = "pnev">Szabó Gabriella</mezo>
+<mezo id = "pnev">SzabÃ³ Gabriella</mezo>
 <mezo id = "panev">Mester Edit</mezo>
 <mezo id = "pirsz">2097</mezo>
-<mezo id = "phely">Pilisborosjenõ, Határ u. 31.</mezo>
+<mezo id = "phely">PilisborosjenÅ‘, HatÃ¡r u. 31.</mezo>
 <mezo id = "jogvk">20070228</mezo>
 <mezo id = "jogvv">20100228</mezo>
 <mezo id = "valtk">20070228</mezo>
@@ -1099,11 +1099,11 @@
 <rovat id = "0214">
 <alrovat id = "4">
 <mezo id = "hattol">20060330</mezo>
-<mezo id = "nev">Dél-Dunántúli Regionális Fejlesztési Tanács</mezo>
+<mezo id = "nev">DÃ©l-DunÃ¡ntÃºli RegionÃ¡lis FejlesztÃ©si TanÃ¡cs</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">7621</mezo>
-<mezo id = "hely">Pécs</mezo>
-<mezo id = "teru">Mária u.</mezo>
+<mezo id = "hely">PÃ©cs</mezo>
+<mezo id = "teru">MÃ¡ria u.</mezo>
 <mezo id = "hsz">3.</mezo>
 </alrovat>
 </rovat>
@@ -1116,25 +1116,25 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A cég átalakulás miatt a cégjegyzékbõl törölve.<ujsor/>
-A törlés kelte: 2008. 11. 04.<ujsor/>
-Jogutód(ok):<ujsor/>
- [14 09 308552] DDRFÜ Dél-Dunántúli Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Korlátolt Felelõsségû Társaság.<ujsor/>
-A fenti adat(ok) bejegyzése és közzététele<ujsor/>
-a következõ okirat(ok) alapján történt:<ujsor/>
-A kérelem formanyomtatványa;<ujsor/>
-A jogi képviselõ meghatalmazása, illetve képviseleti jogának igazolása;<ujsor/>
-A létesítõ okirat módosítása;<ujsor/>
-Változásbejegyzés esetén a legfõbb szervnek vagy a legfõbb szerv helyett eljáró, döntésre jogosult szervnek a változás alapjául szolgáló határozata;<ujsor/>
-A közzétételi költségtérítés megfizetésének igazolása;<ujsor/>
-Az illeték megfizetésének igazolása.<ujsor/>
-Az okirat(ok) a cég cégjegyzékét vezetõ<ujsor/>
-cégbíróságon megtekinthetõk.<ujsor/>
+<mezo id = "szoveg">A cÃ©g Ã¡talakulÃ¡s miatt a cÃ©gjegyzÃ©kbÅ‘l tÃ¶rÃ¶lve.<ujsor/>
+A tÃ¶rlÃ©s kelte: 2008. 11. 04.<ujsor/>
+JogutÃ³d(ok):<ujsor/>
+ [14 09 308552] DDRFÃœ DÃ©l-DunÃ¡ntÃºli RegionÃ¡lis FejlesztÃ©si ÃœgynÃ¶ksÃ©g KÃ¶zhasznÃº Nonprofit KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+A fenti adat(ok) bejegyzÃ©se Ã©s kÃ¶zzÃ©tÃ©tele<ujsor/>
+a kÃ¶vetkezÅ‘ okirat(ok) alapjÃ¡n tÃ¶rtÃ©nt:<ujsor/>
+A kÃ©relem formanyomtatvÃ¡nya;<ujsor/>
+A jogi kÃ©pviselÅ‘ meghatalmazÃ¡sa, illetve kÃ©pviseleti jogÃ¡nak igazolÃ¡sa;<ujsor/>
+A lÃ©tesÃ­tÅ‘ okirat mÃ³dosÃ­tÃ¡sa;<ujsor/>
+VÃ¡ltozÃ¡sbejegyzÃ©s esetÃ©n a legfÅ‘bb szervnek vagy a legfÅ‘bb szerv helyett eljÃ¡rÃ³, dÃ¶ntÃ©sre jogosult szervnek a vÃ¡ltozÃ¡s alapjÃ¡ul szolgÃ¡lÃ³ hatÃ¡rozata;<ujsor/>
+A kÃ¶zzÃ©tÃ©teli kÃ¶ltsÃ©gtÃ©rÃ­tÃ©s megfizetÃ©sÃ©nek igazolÃ¡sa;<ujsor/>
+Az illetÃ©k megfizetÃ©sÃ©nek igazolÃ¡sa.<ujsor/>
+Az okirat(ok) a cÃ©g cÃ©gjegyzÃ©kÃ©t vezetÅ‘<ujsor/>
+cÃ©gbÃ­rÃ³sÃ¡gon megtekinthetÅ‘k.<ujsor/>
 Bejegyezve: 2008. 11. 04.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1414300033</mezo>
-<mezo id = "nev">Dél-dunántúli Regionális-Fejlesztési Ügynökség Közhasznú Társaság</mezo>
-<mezo id = "cim">7400 Kaposvár, Szántó utca 5.</mezo>
+<mezo id = "nev">DÃ©l-dunÃ¡ntÃºli RegionÃ¡lis-FejlesztÃ©si ÃœgynÃ¶ksÃ©g KÃ¶zhasznÃº TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">7400 KaposvÃ¡r, SzÃ¡ntÃ³ utca 5.</mezo>
 <mezo id = "adosz">20145103214</mezo>
 </alrovat>
 </rovat>

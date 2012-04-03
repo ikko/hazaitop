@@ -6,7 +6,7 @@
 <mezo id = "szam">015862</mezo>
 <mezo id = "nevalrovat">1</mezo>
 <mezo id = "allapot">2</mezo>
-<mezo id = "cim">2400 Dunaújváros, Korányi S. utca 4-6. </mezo>
+<mezo id = "cim">2400 DunaÃºjvÃ¡ros, KorÃ¡nyi S. utca 4-6. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">22105309207</mezo>
 </alrovat>
@@ -14,7 +14,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20090122</mezo>
-<mezo id = "nev">Szent Pantaleon Kórház Nonprofit Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Szent Pantaleon KÃ³rhÃ¡z Nonprofit KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
@@ -24,7 +24,7 @@
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">20090122</mezo>
-<mezo id = "nev">Szent Pantaleon Kórház Nonprofit Kft.</mezo>
+<mezo id = "nev">Szent Pantaleon KÃ³rhÃ¡z Nonprofit Kft.</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
@@ -45,8 +45,8 @@
 <alrovat id = "1">
 <mezo id = "hattol">20090122</mezo>
 <mezo id = "irsz">2400</mezo>
-<mezo id = "hely">Dunaújváros</mezo>
-<mezo id = "teru">Korányi S. utca 4-6.</mezo>
+<mezo id = "hely">DunaÃºjvÃ¡ros</mezo>
+<mezo id = "teru">KorÃ¡nyi S. utca 4-6.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
@@ -106,7 +106,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Fekvõbeteg-ellátás</mezo>
+<mezo id = "teaszov">FekvÅ‘beteg-ellÃ¡tÃ¡s</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20090122</mezo>
@@ -124,7 +124,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Biotechnológiai kutatás, fejlesztés</mezo>
+<mezo id = "teaszov">BiotechnolÃ³giai kutatÃ¡s, fejlesztÃ©s</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20090122</mezo>
@@ -142,7 +142,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb természettudományi, mûszaki kutatás, fejlesztés</mezo>
+<mezo id = "teaszov">EgyÃ©b termÃ©szettudomÃ¡nyi, mÅ±szaki kutatÃ¡s, fejlesztÃ©s</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20090122</mezo>
@@ -160,7 +160,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Társadalomtudományi, humán kutatás, fejlesztés</mezo>
+<mezo id = "teaszov">TÃ¡rsadalomtudomÃ¡nyi, humÃ¡n kutatÃ¡s, fejlesztÃ©s</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20090122</mezo>
@@ -178,7 +178,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">M.n.s. egyéb szakmai, tudományos, mûszaki tevékenység</mezo>
+<mezo id = "teaszov">M.n.s. egyÃ©b szakmai, tudomÃ¡nyos, mÅ±szaki tevÃ©kenysÃ©g</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20090122</mezo>
@@ -196,7 +196,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Szakmai középfokú oktatás</mezo>
+<mezo id = "teaszov">Szakmai kÃ¶zÃ©pfokÃº oktatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">20090122</mezo>
@@ -214,7 +214,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Felsõ szintû, nem felsõfokú oktatás</mezo>
+<mezo id = "teaszov">FelsÅ‘ szintÅ±, nem felsÅ‘fokÃº oktatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">20090122</mezo>
@@ -232,7 +232,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Felsõfokú oktatás</mezo>
+<mezo id = "teaszov">FelsÅ‘fokÃº oktatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">20090122</mezo>
@@ -250,7 +250,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">M.n.s. egyéb oktatás</mezo>
+<mezo id = "teaszov">M.n.s. egyÃ©b oktatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">20090122</mezo>
@@ -268,7 +268,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Általános járóbeteg-ellátás</mezo>
+<mezo id = "teaszov">ÃltalÃ¡nos jÃ¡rÃ³beteg-ellÃ¡tÃ¡s</mezo>
 </alrovat>
 <alrovat id = "11">
 <mezo id = "hattol">20090122</mezo>
@@ -286,7 +286,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Szakorvosi járóbeteg-ellátás</mezo>
+<mezo id = "teaszov">Szakorvosi jÃ¡rÃ³beteg-ellÃ¡tÃ¡s</mezo>
 </alrovat>
 <alrovat id = "12">
 <mezo id = "hattol">20090122</mezo>
@@ -304,7 +304,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Fogorvosi járóbeteg-ellátás</mezo>
+<mezo id = "teaszov">Fogorvosi jÃ¡rÃ³beteg-ellÃ¡tÃ¡s</mezo>
 </alrovat>
 <alrovat id = "13">
 <mezo id = "hattol">20090122</mezo>
@@ -322,7 +322,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb humán-egészségügyi ellátás</mezo>
+<mezo id = "teaszov">EgyÃ©b humÃ¡n-egÃ©szsÃ©gÃ¼gyi ellÃ¡tÃ¡s</mezo>
 </alrovat>
 <alrovat id = "14">
 <mezo id = "hattol">20090122</mezo>
@@ -340,7 +340,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Fémszerkezet gyártása</mezo>
+<mezo id = "teaszov">FÃ©mszerkezet gyÃ¡rtÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "15">
 <mezo id = "hattol">20090122</mezo>
@@ -358,7 +358,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Lakat-, zárgyártás</mezo>
+<mezo id = "teaszov">Lakat-, zÃ¡rgyÃ¡rtÃ¡s</mezo>
 </alrovat>
 <alrovat id = "16">
 <mezo id = "hattol">20090122</mezo>
@@ -376,7 +376,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Szerszámgyártás</mezo>
+<mezo id = "teaszov">SzerszÃ¡mgyÃ¡rtÃ¡s</mezo>
 </alrovat>
 <alrovat id = "17">
 <mezo id = "hattol">20090122</mezo>
@@ -394,7 +394,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">M.n.s. egyéb fémfeldolgozási termék gyártása</mezo>
+<mezo id = "teaszov">M.n.s. egyÃ©b fÃ©mfeldolgozÃ¡si termÃ©k gyÃ¡rtÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "18">
 <mezo id = "hattol">20090122</mezo>
@@ -412,7 +412,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Híradás-technikai berendezés gyártása</mezo>
+<mezo id = "teaszov">HÃ­radÃ¡s-technikai berendezÃ©s gyÃ¡rtÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "19">
 <mezo id = "hattol">20090122</mezo>
@@ -430,7 +430,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Mérõmûszergyártás</mezo>
+<mezo id = "teaszov">MÃ©rÅ‘mÅ±szergyÃ¡rtÃ¡s</mezo>
 </alrovat>
 <alrovat id = "20">
 <mezo id = "hattol">20090122</mezo>
@@ -448,7 +448,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Elektronikus orvosi berendezés gyártása</mezo>
+<mezo id = "teaszov">Elektronikus orvosi berendezÃ©s gyÃ¡rtÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "21">
 <mezo id = "hattol">20090122</mezo>
@@ -466,7 +466,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Villamos motor, áramfejlesztõ gyártása</mezo>
+<mezo id = "teaszov">Villamos motor, Ã¡ramfejlesztÅ‘ gyÃ¡rtÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "22">
 <mezo id = "hattol">20090122</mezo>
@@ -484,7 +484,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Villamos világítóeszköz gyártása</mezo>
+<mezo id = "teaszov">Villamos vilÃ¡gÃ­tÃ³eszkÃ¶z gyÃ¡rtÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "23">
 <mezo id = "hattol">20090122</mezo>
@@ -502,7 +502,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Háztartási villamos készülék gyártása</mezo>
+<mezo id = "teaszov">HÃ¡ztartÃ¡si villamos kÃ©szÃ¼lÃ©k gyÃ¡rtÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "24">
 <mezo id = "hattol">20090122</mezo>
@@ -520,7 +520,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Fémmegmunkáló szerszámgép gyártása</mezo>
+<mezo id = "teaszov">FÃ©mmegmunkÃ¡lÃ³ szerszÃ¡mgÃ©p gyÃ¡rtÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "25">
 <mezo id = "hattol">20090122</mezo>
@@ -538,7 +538,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Irodabútor gyártása</mezo>
+<mezo id = "teaszov">IrodabÃºtor gyÃ¡rtÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "26">
 <mezo id = "hattol">20090122</mezo>
@@ -556,7 +556,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Orvosi eszköz gyártása</mezo>
+<mezo id = "teaszov">Orvosi eszkÃ¶z gyÃ¡rtÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "27">
 <mezo id = "hattol">20090122</mezo>
@@ -574,7 +574,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb m.n.s feldolgozóipari tevékenység</mezo>
+<mezo id = "teaszov">EgyÃ©b m.n.s feldolgozÃ³ipari tevÃ©kenysÃ©g</mezo>
 </alrovat>
 <alrovat id = "28">
 <mezo id = "hattol">20090122</mezo>
@@ -592,7 +592,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Ipari gép, berendezés javítása</mezo>
+<mezo id = "teaszov">Ipari gÃ©p, berendezÃ©s javÃ­tÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "29">
 <mezo id = "hattol">20090122</mezo>
@@ -610,7 +610,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Elektronikus, optikai eszköz javítása</mezo>
+<mezo id = "teaszov">Elektronikus, optikai eszkÃ¶z javÃ­tÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "30">
 <mezo id = "hattol">20090122</mezo>
@@ -628,7 +628,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Ipari gép, berendezés üzembe helyezése</mezo>
+<mezo id = "teaszov">Ipari gÃ©p, berendezÃ©s Ã¼zembe helyezÃ©se</mezo>
 </alrovat>
 <alrovat id = "31">
 <mezo id = "hattol">20090122</mezo>
@@ -646,7 +646,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Villanyszerelés</mezo>
+<mezo id = "teaszov">VillanyszerelÃ©s</mezo>
 </alrovat>
 <alrovat id = "32">
 <mezo id = "hattol">20090122</mezo>
@@ -664,7 +664,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Víz-, gáz-, fûtés-, légkondicionáló-szerelés</mezo>
+<mezo id = "teaszov">VÃ­z-, gÃ¡z-, fÅ±tÃ©s-, lÃ©gkondicionÃ¡lÃ³-szerelÃ©s</mezo>
 </alrovat>
 <alrovat id = "33">
 <mezo id = "hattol">20090122</mezo>
@@ -682,7 +682,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Festés, üvegezés</mezo>
+<mezo id = "teaszov">FestÃ©s, Ã¼vegezÃ©s</mezo>
 </alrovat>
 <alrovat id = "34">
 <mezo id = "hattol">20090122</mezo>
@@ -700,7 +700,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Szárazföldi szállítást kiegészítõ szolgáltatás</mezo>
+<mezo id = "teaszov">SzÃ¡razfÃ¶ldi szÃ¡llÃ­tÃ¡st kiegÃ©szÃ­tÅ‘ szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "35">
 <mezo id = "hattol">20090122</mezo>
@@ -718,7 +718,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Üdülési, egyéb átmeneti szálláshely-szolgáltatás</mezo>
+<mezo id = "teaszov">ÃœdÃ¼lÃ©si, egyÃ©b Ã¡tmeneti szÃ¡llÃ¡shely-szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "36">
 <mezo id = "hattol">20090122</mezo>
@@ -736,7 +736,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Számítógép-üzemeltetés</mezo>
+<mezo id = "teaszov">SzÃ¡mÃ­tÃ³gÃ©p-Ã¼zemeltetÃ©s</mezo>
 </alrovat>
 <alrovat id = "37">
 <mezo id = "hattol">20090122</mezo>
@@ -754,7 +754,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Adatfeldolgozás, web-hoszting szolgáltatás</mezo>
+<mezo id = "teaszov">AdatfeldolgozÃ¡s, web-hoszting szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "38">
 <mezo id = "hattol">20090122</mezo>
@@ -772,7 +772,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">M.n.s. egyéb információs szolgáltatás</mezo>
+<mezo id = "teaszov">M.n.s. egyÃ©b informÃ¡ciÃ³s szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "39">
 <mezo id = "hattol">20090122</mezo>
@@ -790,7 +790,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Saját tulajdonú, bérelt ingatlan bérbeadása, üzemeltetése</mezo>
+<mezo id = "teaszov">SajÃ¡t tulajdonÃº, bÃ©relt ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se</mezo>
 </alrovat>
 <alrovat id = "40">
 <mezo id = "hattol">20090122</mezo>
@@ -808,7 +808,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Reklámügynöki tevékenység</mezo>
+<mezo id = "teaszov">ReklÃ¡mÃ¼gynÃ¶ki tevÃ©kenysÃ©g</mezo>
 </alrovat>
 <alrovat id = "41">
 <mezo id = "hattol">20090122</mezo>
@@ -826,7 +826,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Médiareklám</mezo>
+<mezo id = "teaszov">MÃ©diareklÃ¡m</mezo>
 </alrovat>
 <alrovat id = "42">
 <mezo id = "hattol">20090122</mezo>
@@ -844,7 +844,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb gép, tárgyi eszköz kölcsönzése</mezo>
+<mezo id = "teaszov">EgyÃ©b gÃ©p, tÃ¡rgyi eszkÃ¶z kÃ¶lcsÃ¶nzÃ©se</mezo>
 </alrovat>
 <alrovat id = "43">
 <mezo id = "hattol">20090122</mezo>
@@ -862,7 +862,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Immateriális javak kölcsönzése</mezo>
+<mezo id = "teaszov">ImmateriÃ¡lis javak kÃ¶lcsÃ¶nzÃ©se</mezo>
 </alrovat>
 <alrovat id = "44">
 <mezo id = "hattol">20090122</mezo>
@@ -880,7 +880,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Biztonsági rendszer szolgáltatás</mezo>
+<mezo id = "teaszov">BiztonsÃ¡gi rendszer szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "45">
 <mezo id = "hattol">20090122</mezo>
@@ -898,7 +898,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Általános épülettakarítás</mezo>
+<mezo id = "teaszov">ÃltalÃ¡nos Ã©pÃ¼lettakarÃ­tÃ¡s</mezo>
 </alrovat>
 <alrovat id = "46">
 <mezo id = "hattol">20090122</mezo>
@@ -916,7 +916,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb épület-, ipari takarítás</mezo>
+<mezo id = "teaszov">EgyÃ©b Ã©pÃ¼let-, ipari takarÃ­tÃ¡s</mezo>
 </alrovat>
 <alrovat id = "47">
 <mezo id = "hattol">20090122</mezo>
@@ -934,7 +934,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb takarítás</mezo>
+<mezo id = "teaszov">EgyÃ©b takarÃ­tÃ¡s</mezo>
 </alrovat>
 <alrovat id = "48">
 <mezo id = "hattol">20090122</mezo>
@@ -952,7 +952,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Konferencia, kereskedelmi bemutató szervezése</mezo>
+<mezo id = "teaszov">Konferencia, kereskedelmi bemutatÃ³ szervezÃ©se</mezo>
 </alrovat>
 <alrovat id = "49">
 <mezo id = "hattol">20090122</mezo>
@@ -970,7 +970,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">M.n.s. egyéb kiegészítõ üzleti szolgáltatás</mezo>
+<mezo id = "teaszov">M.n.s. egyÃ©b kiegÃ©szÃ­tÅ‘ Ã¼zleti szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "50">
 <mezo id = "hattol">20090122</mezo>
@@ -988,7 +988,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Sport, szabadidõs képzés</mezo>
+<mezo id = "teaszov">Sport, szabadidÅ‘s kÃ©pzÃ©s</mezo>
 </alrovat>
 <alrovat id = "51">
 <mezo id = "hattol">20090122</mezo>
@@ -1006,7 +1006,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Kulturális képzés</mezo>
+<mezo id = "teaszov">KulturÃ¡lis kÃ©pzÃ©s</mezo>
 </alrovat>
 <alrovat id = "52">
 <mezo id = "hattol">20090122</mezo>
@@ -1024,7 +1024,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090122</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Számítógép, -periféria javítása</mezo>
+<mezo id = "teaszov">SzÃ¡mÃ­tÃ³gÃ©p, -perifÃ©ria javÃ­tÃ¡sa</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -1047,12 +1047,12 @@
 <rovat id = "13">
 <alrovat id = "3">
 <mezo id = "hattol">20110630</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Dr. Parrag József</mezo>
-<mezo id = "panev">Sándor Györgyi</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Dr. Parrag JÃ³zsef</mezo>
+<mezo id = "panev">SÃ¡ndor GyÃ¶rgyi</mezo>
 <mezo id = "pirsz">2400</mezo>
-<mezo id = "phely">Dunaújváros</mezo>
-<mezo id = "pteru">Május 1 utca 20. 3. em. 1.</mezo>
+<mezo id = "phely">DunaÃºjvÃ¡ros</mezo>
+<mezo id = "pteru">MÃ¡jus 1 utca 20. 3. em. 1.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20110701</mezo>
 <mezo id = "jogvv">20160630</mezo>
@@ -1064,8 +1064,8 @@
 <rovat id = "14">
 <alrovat id = "2">
 <mezo id = "hattol">20100701</mezo>
-<mezo id = "pnev">Bata János</mezo>
-<mezo id = "panev">Novák Jolán</mezo>
+<mezo id = "pnev">Bata JÃ¡nos</mezo>
+<mezo id = "panev">NovÃ¡k JolÃ¡n</mezo>
 <mezo id = "jogvk">20100601</mezo>
 <mezo id = "jogvv">20110531</mezo>
 <mezo id = "valtk">20100701</mezo>
@@ -1078,8 +1078,8 @@
 <mezo id = "pnev">Dr. Markovics Gabriella</mezo>
 <mezo id = "panev">Nagy Margit</mezo>
 <mezo id = "pirsz">2400</mezo>
-<mezo id = "phely">Dunaújváros</mezo>
-<mezo id = "pteru">Tamási Áron utca 43.</mezo>
+<mezo id = "phely">DunaÃºjvÃ¡ros</mezo>
+<mezo id = "pteru">TamÃ¡si Ãron utca 43.</mezo>
 <mezo id = "jogvk">20101126</mezo>
 <mezo id = "jogvv">20150531</mezo>
 <mezo id = "valtk">20101217</mezo>
@@ -1090,8 +1090,8 @@
 <mezo id = "pnev">Szepesi Attila</mezo>
 <mezo id = "panev">Rupa Margit</mezo>
 <mezo id = "pirsz">2400</mezo>
-<mezo id = "phely">Dunaújváros</mezo>
-<mezo id = "pteru">Mátyás király körút 12. fsz 2.</mezo>
+<mezo id = "phely">DunaÃºjvÃ¡ros</mezo>
+<mezo id = "pteru">MÃ¡tyÃ¡s kirÃ¡ly kÃ¶rÃºt 12. fsz 2.</mezo>
 <mezo id = "jogvk">20101126</mezo>
 <mezo id = "jogvv">20150531</mezo>
 <mezo id = "valtk">20101217</mezo>
@@ -1099,11 +1099,11 @@
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">20101217</mezo>
-<mezo id = "pnev">Dr. Galambosné Dr. Juhász Magdolna</mezo>
+<mezo id = "pnev">Dr. GalambosnÃ© Dr. JuhÃ¡sz Magdolna</mezo>
 <mezo id = "panev">Siket Magdolna</mezo>
 <mezo id = "pirsz">2421</mezo>
 <mezo id = "phely">Nagyvenyim</mezo>
-<mezo id = "pteru">Dózsa György utca 13.</mezo>
+<mezo id = "pteru">DÃ³zsa GyÃ¶rgy utca 13.</mezo>
 <mezo id = "jogvk">20101126</mezo>
 <mezo id = "jogvv">20150531</mezo>
 <mezo id = "valtk">20101217</mezo>
@@ -1114,7 +1114,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20090122</mezo>
 <mezo id = "cgjsz">714000083</mezo>
-<mezo id = "nev">SZENT PANTALEON KÓRHÁZ KÖZHASZNÚ TÁRSASÁG</mezo>
+<mezo id = "nev">SZENT PANTALEON KÃ“RHÃZ KÃ–ZHASZNÃš TÃRSASÃG</mezo>
 <mezo id = "atdat">0</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
@@ -1139,17 +1139,17 @@
 <mezo id = "adosz">22105309207</mezo>
 <mezo id = "kadosz">HU22105309</mezo>
 <mezo id = "bkelt">20110727</mezo>
-<mezo id = "megj">Státusz kezdete: 2004/10/18</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 2004/10/18</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0109">
 <alrovat id = "1">
 <mezo id = "hattol">20090122</mezo>
-<mezo id = "nev">Dunaújváros Megyei Jogú Város Önkormányzata</mezo>
+<mezo id = "nev">DunaÃºjvÃ¡ros Megyei JogÃº VÃ¡ros Ã–nkormÃ¡nyzata</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2400</mezo>
-<mezo id = "hely">Dunaújváros</mezo>
-<mezo id = "teru">Városháza</mezo>
+<mezo id = "hely">DunaÃºjvÃ¡ros</mezo>
+<mezo id = "teru">VÃ¡roshÃ¡za</mezo>
 <mezo id = "hsz">1.</mezo>
 <mezo id = "tagsk">20090122</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -1168,22 +1168,22 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fejér Megyei Bíróság 1.Fpk.07-11-000405/9. sz. végzése felszámolás megindításának közzétételérõl<ujsor/>
-A bíróság elrendeli annak a Cégközlönyben való közzétételét, hogy a(z) 2011. október 7. napján jogerõre emelkedett végzésével a(z)  Szent Pantaleon Kórház Nonprofit Korlátolt Felelõsségû Társaság (2400 Dunaújváros, Korányi S. utca 4-6.; cégjegyzékszáma: 07 09 015862; adószáma: 22105309-2-07) adós fizetésképtelenségét megállapította és a felszámolását elrendelte.<ujsor/>
-Jogelõd(ök): SZENT PANTALEON KÓRHÁZ KÖZHASZNÚ TÁRSASÁG<ujsor/>
-A bíróság által kijelölt felszámoló: AGREEMENT Könyvvizsgáló és Adótanácsadó Kft., 1114 Budapest, Bocskai út 9. I. em. 5. cégjegyzékszáma: 01 09 719575.<ujsor/>
-A felszámolóbiztos(ok): dr. Takács István (an: Halmágyi Éva) 1114 Budapest, Bocskai u. 9. 1/5.<ujsor/>
-A felszámolási eljárás megindítására irányuló kérelem benyújtásának idõpontja: 2011. május 25.<ujsor/>
-A felszámolás kezdõ idõpontja e végzés Cégközlönyben való közzétételének napja.<ujsor/>
-A Fejér Megyei Bíróság Gazdasági Hivatalánál kezelt elkülönített számla száma: 10029008-01483161-24000004.<ujsor/>
-Mindazok [ideértve a zálogjogosultakat, és a 3. § (1) bekezdés c) pontja szerinti függõ követelések jogosultjait is], akik az adóssal szemben fennálló ismert követeléseiket - kivéve a felszámolási eljárást közvetlenül megelõzõ csõdeljárásban [27. § (2) bekezdés e) pont] már bejelentett és nyilvántartásba vett követeléseket - a felszámolás során hitelezõként érvényesíteni kívánják, ismert követeléseiket e végzés közzétételétõl számított 40 napon belül jelentsék be a felszámolónak.<ujsor/>
-A felszámoló - a módosított 1991. évi XLIX. tv. 57. § (1) bekezdés a) és c) pontjában meghatározott követelések kivételével - csak azt a bejelentést veszi nyilvántartásba, amely után az igénybejelentõ a követelés 1 %-át, de legalább 5.000 Ft-ot, legfeljebb 200.000 Ft-ot az e végzésben megjelölt számlára - a bírósági ügyszámra (végzés számra) hivatkozással - 40 napon belül befizetett és ezt a felszámoló részére igazolta.<ujsor/>
-Székesfehérvár, 2011. október 12.<ujsor/>
-A közzététel idõpontja: 2011. október 13.<ujsor/>
+<mezo id = "szoveg">A FejÃ©r Megyei BÃ­rÃ³sÃ¡g 1.Fpk.07-11-000405/9. sz. vÃ©gzÃ©se felszÃ¡molÃ¡s megindÃ­tÃ¡sÃ¡nak kÃ¶zzÃ©tÃ©telÃ©rÅ‘l<ujsor/>
+A bÃ­rÃ³sÃ¡g elrendeli annak a CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©t, hogy a(z) 2011. oktÃ³ber 7. napjÃ¡n jogerÅ‘re emelkedett vÃ©gzÃ©sÃ©vel a(z)  Szent Pantaleon KÃ³rhÃ¡z Nonprofit KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (2400 DunaÃºjvÃ¡ros, KorÃ¡nyi S. utca 4-6.; cÃ©gjegyzÃ©kszÃ¡ma: 07 09 015862; adÃ³szÃ¡ma: 22105309-2-07) adÃ³s fizetÃ©skÃ©ptelensÃ©gÃ©t megÃ¡llapÃ­totta Ã©s a felszÃ¡molÃ¡sÃ¡t elrendelte.<ujsor/>
+JogelÅ‘d(Ã¶k): SZENT PANTALEON KÃ“RHÃZ KÃ–ZHASZNÃš TÃRSASÃG<ujsor/>
+A bÃ­rÃ³sÃ¡g Ã¡ltal kijelÃ¶lt felszÃ¡molÃ³: AGREEMENT KÃ¶nyvvizsgÃ¡lÃ³ Ã©s AdÃ³tanÃ¡csadÃ³ Kft., 1114 Budapest, Bocskai Ãºt 9. I. em. 5. cÃ©gjegyzÃ©kszÃ¡ma: 01 09 719575.<ujsor/>
+A felszÃ¡molÃ³biztos(ok): dr. TakÃ¡cs IstvÃ¡n (an: HalmÃ¡gyi Ã‰va) 1114 Budapest, Bocskai u. 9. 1/5.<ujsor/>
+A felszÃ¡molÃ¡si eljÃ¡rÃ¡s megindÃ­tÃ¡sÃ¡ra irÃ¡nyulÃ³ kÃ©relem benyÃºjtÃ¡sÃ¡nak idÅ‘pontja: 2011. mÃ¡jus 25.<ujsor/>
+A felszÃ¡molÃ¡s kezdÅ‘ idÅ‘pontja e vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©nek napja.<ujsor/>
+A FejÃ©r Megyei BÃ­rÃ³sÃ¡g GazdasÃ¡gi HivatalÃ¡nÃ¡l kezelt elkÃ¼lÃ¶nÃ­tett szÃ¡mla szÃ¡ma: 10029008-01483161-24000004.<ujsor/>
+Mindazok [ideÃ©rtve a zÃ¡logjogosultakat, Ã©s a 3. Â§ (1) bekezdÃ©s c) pontja szerinti fÃ¼ggÅ‘ kÃ¶vetelÃ©sek jogosultjait is], akik az adÃ³ssal szemben fennÃ¡llÃ³ ismert kÃ¶vetelÃ©seiket - kivÃ©ve a felszÃ¡molÃ¡si eljÃ¡rÃ¡st kÃ¶zvetlenÃ¼l megelÅ‘zÅ‘ csÅ‘deljÃ¡rÃ¡sban [27. Â§ (2) bekezdÃ©s e) pont] mÃ¡r bejelentett Ã©s nyilvÃ¡ntartÃ¡sba vett kÃ¶vetelÃ©seket - a felszÃ¡molÃ¡s sorÃ¡n hitelezÅ‘kÃ©nt Ã©rvÃ©nyesÃ­teni kÃ­vÃ¡njÃ¡k, ismert kÃ¶vetelÃ©seiket e vÃ©gzÃ©s kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott 40 napon belÃ¼l jelentsÃ©k be a felszÃ¡molÃ³nak.<ujsor/>
+A felszÃ¡molÃ³ - a mÃ³dosÃ­tott 1991. Ã©vi XLIX. tv. 57. Â§ (1) bekezdÃ©s a) Ã©s c) pontjÃ¡ban meghatÃ¡rozott kÃ¶vetelÃ©sek kivÃ©telÃ©vel - csak azt a bejelentÃ©st veszi nyilvÃ¡ntartÃ¡sba, amely utÃ¡n az igÃ©nybejelentÅ‘ a kÃ¶vetelÃ©s 1 %-Ã¡t, de legalÃ¡bb 5.000 Ft-ot, legfeljebb 200.000 Ft-ot az e vÃ©gzÃ©sben megjelÃ¶lt szÃ¡mlÃ¡ra - a bÃ­rÃ³sÃ¡gi Ã¼gyszÃ¡mra (vÃ©gzÃ©s szÃ¡mra) hivatkozÃ¡ssal - 40 napon belÃ¼l befizetett Ã©s ezt a felszÃ¡molÃ³ rÃ©szÃ©re igazolta.<ujsor/>
+SzÃ©kesfehÃ©rvÃ¡r, 2011. oktÃ³ber 12.<ujsor/>
+A kÃ¶zzÃ©tÃ©tel idÅ‘pontja: 2011. oktÃ³ber 13.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0709015862</mezo>
-<mezo id = "nev">Szent Pantaleon Kórház Nonprofit Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">2400 Dunaújváros, Korányi S. utca 4-6.</mezo>
+<mezo id = "nev">Szent Pantaleon KÃ³rhÃ¡z Nonprofit KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2400 DunaÃºjvÃ¡ros, KorÃ¡nyi S. utca 4-6.</mezo>
 <mezo id = "adosz">22105309207</mezo>
 </alrovat>
 </rovat>

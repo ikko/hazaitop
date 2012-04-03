@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">001817</mezo>
 <mezo id = "nevalrovat">2</mezo>
-<mezo id = "cim">3700 Kazincbarcika, Eszperantó u.2. </mezo>
+<mezo id = "cim">3700 Kazincbarcika, EszperantÃ³ u.2. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">10697180205</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20080301</mezo>
-<mezo id = "nev">TIMPANON Vagyonkezelõ és Szolgáltató Korlátolt Felelõsségû társaság</mezo>
+<mezo id = "nev">TIMPANON VagyonkezelÅ‘ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">20080301</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20080220</mezo>
@@ -31,7 +31,7 @@
 <mezo id = "hattol">19911201</mezo>
 <mezo id = "irsz">3700</mezo>
 <mezo id = "hely">Kazincbarcika</mezo>
-<mezo id = "teru">Eszperantó u.2.</mezo>
+<mezo id = "teru">EszperantÃ³ u.2.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "6">
@@ -56,7 +56,7 @@
 <alrovat id = "3">
 <mezo id = "hattol">20080301</mezo>
 <mezo id = "irsz">3700</mezo>
-<mezo id = "hely">Kazincbarcika, Fõ tér 36.</mezo>
+<mezo id = "hely">Kazincbarcika, FÅ‘ tÃ©r 36.</mezo>
 <mezo id = "valtk">20080301</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20080220</mezo>
@@ -65,7 +65,7 @@
 <alrovat id = "4">
 <mezo id = "hattol">20080301</mezo>
 <mezo id = "irsz">3700</mezo>
-<mezo id = "hely">Kazincbarcika, Egressy út 34.</mezo>
+<mezo id = "hely">Kazincbarcika, Egressy Ãºt 34.</mezo>
 <mezo id = "valtk">20080301</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20080220</mezo>
@@ -84,7 +84,7 @@
 <mezo id = "hattol">20100129</mezo>
 <mezo id = "irsz">3700</mezo>
 <mezo id = "hely">Kazincbarcika</mezo>
-<mezo id = "teru">Egressy Béni tér 3. fsz.</mezo>
+<mezo id = "teru">Egressy BÃ©ni tÃ©r 3. fsz.</mezo>
 <mezo id = "valtk">20100129</mezo>
 <mezo id = "bkelt">20100317</mezo>
 </alrovat>
@@ -92,7 +92,7 @@
 <mezo id = "hattol">20100129</mezo>
 <mezo id = "irsz">3700</mezo>
 <mezo id = "hely">Kazincbarcika</mezo>
-<mezo id = "teru">Fõ tér 39.</mezo>
+<mezo id = "teru">FÅ‘ tÃ©r 39.</mezo>
 <mezo id = "valtk">20100129</mezo>
 <mezo id = "bkelt">20100317</mezo>
 </alrovat>
@@ -880,7 +880,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090504</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Ingatlankezelés</mezo>
+<mezo id = "teaszov">IngatlankezelÃ©s</mezo>
 </alrovat>
 <alrovat id = "176">
 <mezo id = "hattol">20090331</mezo>
@@ -898,7 +898,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090504</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb sokszorositás</mezo>
+<mezo id = "teaszov">EgyÃ©b sokszorositÃ¡s</mezo>
 </alrovat>
 <alrovat id = "177">
 <mezo id = "hattol">20090331</mezo>
@@ -916,7 +916,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090504</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Villamosenergia elosztás</mezo>
+<mezo id = "teaszov">Villamosenergia elosztÃ¡s</mezo>
 </alrovat>
 <alrovat id = "178">
 <mezo id = "hattol">20090331</mezo>
@@ -934,7 +934,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090504</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Lakó és nem lakó épület épitése</mezo>
+<mezo id = "teaszov">LakÃ³ Ã©s nem lakÃ³ Ã©pÃ¼let Ã©pitÃ©se</mezo>
 </alrovat>
 <alrovat id = "179">
 <mezo id = "hattol">20090331</mezo>
@@ -952,7 +952,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090504</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Folyadék szállitásra szolgáló közmü épitése</mezo>
+<mezo id = "teaszov">FolyadÃ©k szÃ¡llitÃ¡sra szolgÃ¡lÃ³ kÃ¶zmÃ¼ Ã©pitÃ©se</mezo>
 </alrovat>
 <alrovat id = "180">
 <mezo id = "hattol">20090331</mezo>
@@ -970,7 +970,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090504</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb m.n.s. épités</mezo>
+<mezo id = "teaszov">EgyÃ©b m.n.s. Ã©pitÃ©s</mezo>
 </alrovat>
 <alrovat id = "181">
 <mezo id = "hattol">20090331</mezo>
@@ -988,7 +988,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090504</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Bontás</mezo>
+<mezo id = "teaszov">BontÃ¡s</mezo>
 </alrovat>
 <alrovat id = "182">
 <mezo id = "hattol">20090331</mezo>
@@ -1006,7 +1006,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090504</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Épitési terület elõkészitése</mezo>
+<mezo id = "teaszov">Ã‰pitÃ©si terÃ¼let elÅ‘kÃ©szitÃ©se</mezo>
 </alrovat>
 <alrovat id = "183">
 <mezo id = "hattol">20090331</mezo>
@@ -1024,7 +1024,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090504</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Villanyszerelés</mezo>
+<mezo id = "teaszov">VillanyszerelÃ©s</mezo>
 </alrovat>
 <alrovat id = "184">
 <mezo id = "hattol">20090331</mezo>
@@ -1042,7 +1042,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090504</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb befejezõ épités m.n.s.</mezo>
+<mezo id = "teaszov">EgyÃ©b befejezÅ‘ Ã©pitÃ©s m.n.s.</mezo>
 </alrovat>
 <alrovat id = "185">
 <mezo id = "hattol">20090331</mezo>
@@ -1060,7 +1060,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090504</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Tetõfedés, tetõszerkezet épités</mezo>
+<mezo id = "teaszov">TetÅ‘fedÃ©s, tetÅ‘szerkezet Ã©pitÃ©s</mezo>
 </alrovat>
 <alrovat id = "186">
 <mezo id = "hattol">20090331</mezo>
@@ -1078,7 +1078,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090504</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb speciális szaképités m.n.s.</mezo>
+<mezo id = "teaszov">EgyÃ©b speciÃ¡lis szakÃ©pitÃ©s m.n.s.</mezo>
 </alrovat>
 <alrovat id = "187">
 <mezo id = "hattol">20090331</mezo>
@@ -1096,7 +1096,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090504</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Közuti áruszállitás</mezo>
+<mezo id = "teaszov">KÃ¶zuti Ã¡ruszÃ¡llitÃ¡s</mezo>
 </alrovat>
 <alrovat id = "188">
 <mezo id = "hattol">20090331</mezo>
@@ -1114,7 +1114,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090504</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Költöztetés</mezo>
+<mezo id = "teaszov">KÃ¶ltÃ¶ztetÃ©s</mezo>
 </alrovat>
 <alrovat id = "189">
 <mezo id = "hattol">20090331</mezo>
@@ -1132,7 +1132,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090504</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Csõvezetékes szállitás</mezo>
+<mezo id = "teaszov">CsÅ‘vezetÃ©kes szÃ¡llitÃ¡s</mezo>
 </alrovat>
 <alrovat id = "190">
 <mezo id = "hattol">20090331</mezo>
@@ -1150,7 +1150,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090504</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Folyóirat idõszaki kiadmány kiadása</mezo>
+<mezo id = "teaszov">FolyÃ³irat idÅ‘szaki kiadmÃ¡ny kiadÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "191">
 <mezo id = "hattol">20090331</mezo>
@@ -1168,7 +1168,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090504</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Film-, video-, és televizió müsorgyártás</mezo>
+<mezo id = "teaszov">Film-, video-, Ã©s televiziÃ³ mÃ¼sorgyÃ¡rtÃ¡s</mezo>
 </alrovat>
 <alrovat id = "192">
 <mezo id = "hattol">20090331</mezo>
@@ -1186,7 +1186,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090504</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Film-, video gyártás, televiziós müsorfelvétel utómunkálatai</mezo>
+<mezo id = "teaszov">Film-, video gyÃ¡rtÃ¡s, televiziÃ³s mÃ¼sorfelvÃ©tel utÃ³munkÃ¡latai</mezo>
 </alrovat>
 <alrovat id = "193">
 <mezo id = "hattol">20090331</mezo>
@@ -1204,7 +1204,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090504</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Film-, video és televiziós program terjesztése</mezo>
+<mezo id = "teaszov">Film-, video Ã©s televiziÃ³s program terjesztÃ©se</mezo>
 </alrovat>
 <alrovat id = "194">
 <mezo id = "hattol">20090331</mezo>
@@ -1222,7 +1222,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090504</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Hangfelvétel készitése, kiadása</mezo>
+<mezo id = "teaszov">HangfelvÃ©tel kÃ©szitÃ©se, kiadÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "195">
 <mezo id = "hattol">20090331</mezo>
@@ -1240,7 +1240,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090504</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Televizió müsor összeállitása, szolgáltatása</mezo>
+<mezo id = "teaszov">TeleviziÃ³ mÃ¼sor Ã¶sszeÃ¡llitÃ¡sa, szolgÃ¡ltatÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "196">
 <mezo id = "hattol">20090331</mezo>
@@ -1258,7 +1258,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090504</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb információ- technológiai szolgáltatás</mezo>
+<mezo id = "teaszov">EgyÃ©b informÃ¡ciÃ³- technolÃ³giai szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "197">
 <mezo id = "hattol">20090331</mezo>
@@ -1276,7 +1276,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090504</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Üzletviteli egyéb vezetési tanácsadás</mezo>
+<mezo id = "teaszov">Ãœzletviteli egyÃ©b vezetÃ©si tanÃ¡csadÃ¡s</mezo>
 </alrovat>
 <alrovat id = "198">
 <mezo id = "hattol">20090331</mezo>
@@ -1294,7 +1294,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090504</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Mérnöki tevékenység, müszaki tanácsadás</mezo>
+<mezo id = "teaszov">MÃ©rnÃ¶ki tevÃ©kenysÃ©g, mÃ¼szaki tanÃ¡csadÃ¡s</mezo>
 </alrovat>
 <alrovat id = "199">
 <mezo id = "hattol">20090331</mezo>
@@ -1312,7 +1312,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090504</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Reklámügynöki tevékenység</mezo>
+<mezo id = "teaszov">ReklÃ¡mÃ¼gynÃ¶ki tevÃ©kenysÃ©g</mezo>
 </alrovat>
 <alrovat id = "200">
 <mezo id = "hattol">20090331</mezo>
@@ -1330,7 +1330,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090504</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Médiareklám</mezo>
+<mezo id = "teaszov">MÃ©diareklÃ¡m</mezo>
 </alrovat>
 <alrovat id = "201">
 <mezo id = "hattol">20090331</mezo>
@@ -1348,7 +1348,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090504</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">M.n.s. egyéb szakmai, tudományos, müszaki tevékenység</mezo>
+<mezo id = "teaszov">M.n.s. egyÃ©b szakmai, tudomÃ¡nyos, mÃ¼szaki tevÃ©kenysÃ©g</mezo>
 </alrovat>
 <alrovat id = "202">
 <mezo id = "hattol">20090331</mezo>
@@ -1366,7 +1366,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090504</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Szabadidõs, sporteszköz kölcsönzés</mezo>
+<mezo id = "teaszov">SzabadidÅ‘s, sporteszkÃ¶z kÃ¶lcsÃ¶nzÃ©s</mezo>
 </alrovat>
 <alrovat id = "203">
 <mezo id = "hattol">20090331</mezo>
@@ -1384,7 +1384,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090504</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Épitõipari gép kölcsönzése</mezo>
+<mezo id = "teaszov">Ã‰pitÅ‘ipari gÃ©p kÃ¶lcsÃ¶nzÃ©se</mezo>
 </alrovat>
 <alrovat id = "204">
 <mezo id = "hattol">20090331</mezo>
@@ -1402,7 +1402,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090504</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Épitmény üzemeltetés</mezo>
+<mezo id = "teaszov">Ã‰pitmÃ©ny Ã¼zemeltetÃ©s</mezo>
 </alrovat>
 <alrovat id = "205">
 <mezo id = "hattol">20090331</mezo>
@@ -1420,7 +1420,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090504</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Általános épület takaritás</mezo>
+<mezo id = "teaszov">ÃltalÃ¡nos Ã©pÃ¼let takaritÃ¡s</mezo>
 </alrovat>
 <alrovat id = "206">
 <mezo id = "hattol">20090331</mezo>
@@ -1438,7 +1438,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090504</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb épület-, ipari takaritás</mezo>
+<mezo id = "teaszov">EgyÃ©b Ã©pÃ¼let-, ipari takaritÃ¡s</mezo>
 </alrovat>
 <alrovat id = "207">
 <mezo id = "hattol">20090331</mezo>
@@ -1456,7 +1456,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090504</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb takaritás</mezo>
+<mezo id = "teaszov">EgyÃ©b takaritÃ¡s</mezo>
 </alrovat>
 <alrovat id = "208">
 <mezo id = "hattol">20090331</mezo>
@@ -1474,7 +1474,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090504</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Követelés, behajtás</mezo>
+<mezo id = "teaszov">KÃ¶vetelÃ©s, behajtÃ¡s</mezo>
 </alrovat>
 <alrovat id = "209">
 <mezo id = "hattol">20090331</mezo>
@@ -1492,7 +1492,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090504</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Sportlétesitmény müködtetése</mezo>
+<mezo id = "teaszov">SportlÃ©tesitmÃ©ny mÃ¼kÃ¶dtetÃ©se</mezo>
 </alrovat>
 <alrovat id = "210">
 <mezo id = "hattol">20090331</mezo>
@@ -1510,31 +1510,31 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090504</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">M.n.s. egyéb személyi szolgáltatás</mezo>
+<mezo id = "teaszov">M.n.s. egyÃ©b szemÃ©lyi szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "211">
 <mezo id = "hattol">20090826</mezo>
 <mezo id = "valtk">20090826</mezo>
 <mezo id = "bkelt">20090907</mezo>
-<mezo id = "teaszov">Éttermi, mozgó vendéglátás</mezo>
+<mezo id = "teaszov">Ã‰ttermi, mozgÃ³ vendÃ©glÃ¡tÃ¡s</mezo>
 </alrovat>
 <alrovat id = "212">
 <mezo id = "hattol">20090826</mezo>
 <mezo id = "valtk">20090826</mezo>
 <mezo id = "bkelt">20090907</mezo>
-<mezo id = "teaszov">Rendezvényi étkeztetés</mezo>
+<mezo id = "teaszov">RendezvÃ©nyi Ã©tkeztetÃ©s</mezo>
 </alrovat>
 <alrovat id = "213">
 <mezo id = "hattol">20090826</mezo>
 <mezo id = "valtk">20090826</mezo>
 <mezo id = "bkelt">20090907</mezo>
-<mezo id = "teaszov">Egyéb vendéglátás</mezo>
+<mezo id = "teaszov">EgyÃ©b vendÃ©glÃ¡tÃ¡s</mezo>
 </alrovat>
 <alrovat id = "214">
 <mezo id = "hattol">20090826</mezo>
 <mezo id = "valtk">20090826</mezo>
 <mezo id = "bkelt">20090907</mezo>
-<mezo id = "teaszov">Italszolgáltatás</mezo>
+<mezo id = "teaszov">ItalszolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -1564,8 +1564,8 @@
 <rovat id = "13">
 <alrovat id = "5">
 <mezo id = "hattol">20080301</mezo>
-<mezo id = "pnev">Milicz Sándor</mezo>
-<mezo id = "panev">Szûcs Judit</mezo>
+<mezo id = "pnev">Milicz SÃ¡ndor</mezo>
+<mezo id = "panev">SzÅ±cs Judit</mezo>
 <mezo id = "pirsz">3700</mezo>
 <mezo id = "phely">Kazincbarcika, Herbolyai u. 17.</mezo>
 <mezo id = "kepvo">x</mezo>
@@ -1582,16 +1582,16 @@
 <alrovat id = "4">
 <mezo id = "hattol">20080301</mezo>
 <mezo id = "cgjsz">509005378</mezo>
-<mezo id = "nev">Karuczka Józsefné Könyvszakértõ, Könyvvizsgáló, Adótanácsadó Iroda KFT.</mezo>
+<mezo id = "nev">Karuczka JÃ³zsefnÃ© KÃ¶nyvszakÃ©rtÅ‘, KÃ¶nyvvizsgÃ¡lÃ³, AdÃ³tanÃ¡csadÃ³ Iroda KFT.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">3530</mezo>
 <mezo id = "hely">Miskolc</mezo>
-<mezo id = "teru">Vörösmarty u.</mezo>
+<mezo id = "teru">VÃ¶rÃ¶smarty u.</mezo>
 <mezo id = "hsz">28.</mezo>
-<mezo id = "pnev">Karuczka Józsefné</mezo>
-<mezo id = "panev">Vidinczei Erzsébet</mezo>
+<mezo id = "pnev">Karuczka JÃ³zsefnÃ©</mezo>
+<mezo id = "panev">Vidinczei ErzsÃ©bet</mezo>
 <mezo id = "pirsz">3534</mezo>
-<mezo id = "phely">Miskolc, Szinyei Merse Pál u. 17.</mezo>
+<mezo id = "phely">Miskolc, Szinyei Merse PÃ¡l u. 17.</mezo>
 <mezo id = "jogvk">20080301</mezo>
 <mezo id = "jogvv">20120531</mezo>
 <mezo id = "valtk">20080301</mezo>
@@ -1603,7 +1603,7 @@
 <rovat id = "15">
 <alrovat id = "26">
 <mezo id = "hattol">20101130</mezo>
-<mezo id = "pnev">Riespler Pál</mezo>
+<mezo id = "pnev">Riespler PÃ¡l</mezo>
 <mezo id = "panev">Bukovics Magdolna</mezo>
 <mezo id = "jogvk">20101201</mezo>
 <mezo id = "jogvv">20141231</mezo>
@@ -1612,8 +1612,8 @@
 </alrovat>
 <alrovat id = "27">
 <mezo id = "hattol">20101130</mezo>
-<mezo id = "pnev">Bukó Géza</mezo>
-<mezo id = "panev">Szûcs Mária</mezo>
+<mezo id = "pnev">BukÃ³ GÃ©za</mezo>
+<mezo id = "panev">SzÅ±cs MÃ¡ria</mezo>
 <mezo id = "jogvk">20101201</mezo>
 <mezo id = "jogvv">20141231</mezo>
 <mezo id = "valtk">20101130</mezo>
@@ -1621,8 +1621,8 @@
 </alrovat>
 <alrovat id = "28">
 <mezo id = "hattol">20101130</mezo>
-<mezo id = "pnev">Fodor Pál</mezo>
-<mezo id = "panev">Szabó Sarolta</mezo>
+<mezo id = "pnev">Fodor PÃ¡l</mezo>
+<mezo id = "panev">SzabÃ³ Sarolta</mezo>
 <mezo id = "jogvk">20101201</mezo>
 <mezo id = "jogvv">20141231</mezo>
 <mezo id = "valtk">20101130</mezo>
@@ -1630,8 +1630,8 @@
 </alrovat>
 <alrovat id = "29">
 <mezo id = "hattol">20101130</mezo>
-<mezo id = "pnev">20101130ési Zsolt</mezo>
-<mezo id = "panev">Sütõ Veronika</mezo>
+<mezo id = "pnev">20101130Ã©si Zsolt</mezo>
+<mezo id = "panev">SÃ¼tÅ‘ Veronika</mezo>
 <mezo id = "jogvk">20101201</mezo>
 <mezo id = "jogvv">20141231</mezo>
 <mezo id = "valtk">20101130</mezo>
@@ -1639,7 +1639,7 @@
 </alrovat>
 <alrovat id = "30">
 <mezo id = "hattol">20101130</mezo>
-<mezo id = "pnev">Untener János</mezo>
+<mezo id = "pnev">Untener JÃ¡nos</mezo>
 <mezo id = "panev">Szakszon Magdolna</mezo>
 <mezo id = "jogvk">20101201</mezo>
 <mezo id = "jogvv">20141231</mezo>
@@ -1648,8 +1648,8 @@
 </alrovat>
 <alrovat id = "31">
 <mezo id = "hattol">20101130</mezo>
-<mezo id = "pnev">Pétervári György</mezo>
-<mezo id = "panev">Magyar Terézia</mezo>
+<mezo id = "pnev">PÃ©tervÃ¡ri GyÃ¶rgy</mezo>
+<mezo id = "panev">Magyar TerÃ©zia</mezo>
 <mezo id = "jogvk">20101201</mezo>
 <mezo id = "jogvv">20141231</mezo>
 <mezo id = "valtk">20101130</mezo>
@@ -1660,12 +1660,12 @@
 <alrovat id = "1">
 <mezo id = "hattol">19980101</mezo>
 <mezo id = "cgjsz">509001815</mezo>
-<mezo id = "nev">REALPORTA Ingatlanközvetítõ Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">REALPORTA IngatlankÃ¶zvetÃ­tÅ‘ SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20080301</mezo>
 <mezo id = "cgjsz">509001820</mezo>
-<mezo id = "nev">TELEKÉP Mûsorszolgáltató Oktatási és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">TELEKÃ‰P MÅ±sorszolgÃ¡ltatÃ³ OktatÃ¡si Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "atdat">20080301</mezo>
 <mezo id = "valtk">20080301</mezo>
 <mezo id = "valtv">0</mezo>
@@ -1675,7 +1675,7 @@
 <alrovat id = "3">
 <mezo id = "hattol">20080301</mezo>
 <mezo id = "cgjsz">509002159</mezo>
-<mezo id = "nev">KAZINC Távhõszolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">KAZINC TÃ¡vhÅ‘szolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "atdat">20080301</mezo>
 <mezo id = "valtk">20080301</mezo>
 <mezo id = "valtv">0</mezo>
@@ -1709,10 +1709,10 @@
 <rovat id = "0109">
 <alrovat id = "2">
 <mezo id = "hattol">19980101</mezo>
-<mezo id = "nev">Városi Önkormányzat</mezo>
+<mezo id = "nev">VÃ¡rosi Ã–nkormÃ¡nyzat</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">3700</mezo>
-<mezo id = "hely">Kazincbarcika, Fõ tér 4.</mezo>
+<mezo id = "hely">Kazincbarcika, FÅ‘ tÃ©r 4.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "93">
@@ -1724,297 +1724,297 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A REALPORTA Ingatlanközvetítõ Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság (3700 Kazincbarcika, Fõ tér 36.; cégjegyzékszám: [05 09 001815]) és a TIMPANON Ingatlankezelési Korlátolt Felelõsségû Társaság (3700 Kazincbarcika, Eszperantó u. 2.; cégjegyzékszám: [05 09 001815]) tulajdonosa, a Városi Önkormányzat Kazincbarcika 303/1997. (XI. 21.) sz. testületi határozatával elhatározta a két társaság<ujsor/>
-egyesülését.<ujsor/>
-Az egyesülés célja: a gazdaságosabb mûködtetés optimális szervezeti keretek között.<ujsor/>
-Az egyesülés formája: beolvadás.<ujsor/>
-Az egyesülés idõpontja: 1997. december 31.<ujsor/>
-A beolvadó társaság: REALPORTA Kft.<ujsor/>
-Az átvevõ társaság: TIMPANON Kft.<ujsor/>
-Az egyesülést követõen az átvevõ társaság neve, székhelye nem változik.<ujsor/>
-A beolvadó REALPORTA Kft. vagyonmérleg-tervezetének fõbb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-1. A) Befektetett eszközök (2+3) 180 1. Saját tõke 4569<ujsor/>
-2. I. Immateriális javak 9 2. Jegyzett tõke 1050<ujsor/>
-3. II. Tárgyi eszközök 171 3. Tõketartalék -<ujsor/>
-4. Egyéb berendezések felsz. 171 4. Eredménytartalék 3519<ujsor/>
-5. B) Forgóeszközök (6+7+10) 5937 5. Mérleg szerinti eredmény -<ujsor/>
-6. I. Készletek - 6. Rövid lejáratú kötelezettségek 1548<ujsor/>
-7. II. Követelések (8+9) 1500 7. Szállítók -<ujsor/>
-8. Vevõk 1352 8. Egyéb 1548<ujsor/>
-9. Egyéb követelések 148<ujsor/>
-10. IV. Pénzeszközök 4437<ujsor/>
-ÖSSZESEN (1+5): 6117 ÖSSZESEN (1+6): 6117<ujsor/>
-Az átvevõ TIMPANON Kft. vagyonmérleg-tervezetének fõbb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-1. A) Befektetett eszközök (2+3) 71 226 1. C) Saját tõke 87 470<ujsor/>
-2. I. Immateriális javak 755 2. Jegyzett tõke 54 740<ujsor/>
-3. II. Tárgyi eszközök 70 471 3. Tõketartalék 468<ujsor/>
-4. Ingatlanok 39 408 4. Eredménytartalék 5 631<ujsor/>
-5. Mûszaki gépek ber. járm. 3 709 5. Mérleg szerinti eredmény -<ujsor/>
-6. Egyéb berendezések felsz. 723 6. Értékelési tartalék 26 631<ujsor/>
-7. Tárgyi eszközök értékhelyesbítése 26 631 7. Céltartalék 3 800<ujsor/>
-8. B) Forgóeszközök (9+10+13+14) 60 714 8. Rövid lejáratú kötelezettségek 39 800<ujsor/>
-9. I. Készletek 3 799 9. Szállítók 33 500<ujsor/>
-10. II. Követelések (8+9) 45 160 10. Egyéb 6 300<ujsor/>
-11. Vevõk 29 500 11. Passzív idõbeli elhatárolások 870<ujsor/>
-12. Egyéb követelések 15 660<ujsor/>
-13. III. Értékpapírok 300<ujsor/>
-14. IV. Pénzeszközök 11 455<ujsor/>
-ÖSSZESEN (1+8): 131 940 ÖSSZESEN (1+7+8+11): 131 940<ujsor/>
-Az egyesülõ társaságok összevont vagyonmérleg-tervezetének fõbb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-1. A) Befektetett eszközök (2+3) 71 406 1. C) Saját tõke 92 039<ujsor/>
-2. I. Immateriális javak 764 2. Jegyzett tõke 55 790<ujsor/>
-3. Tárgyi eszközök 70 642 3. Tõketartalék 468<ujsor/>
-4. Ingatlanok 39 408 4. Eredménytartalék 9 150<ujsor/>
-5. Mûszaki gépek ber. járm. 3 709 5. Értékelési tartalék 26 631<ujsor/>
-6. Egyéb berendezések felsz. 894 6. Céltartalék 3 800<ujsor/>
-7. Tárgyi eszközök értékhelyesbítése 26 631 7. Rövid lejáratú kötelezettségek 41 348<ujsor/>
-8. B) Forgóeszközök (9+10+13+14) 66 651 8. Szállítók 33 500<ujsor/>
-9. I. Készletek 3 799 9. Egyéb 7 848<ujsor/>
-10. II. Követelések (8+9) 46 660 10. Passzív idõbeli elhatárolások 870<ujsor/>
-11. Vevõk 30 852<ujsor/>
-12. Egyéb követelések 15 808<ujsor/>
-13. III. Értékpapírok 300<ujsor/>
-14. IV. Pénzeszközök 15 892<ujsor/>
-ÖSSZESEN (1+8): 138 057 ÖSSZESEN (1+7+8+11): 138 057<ujsor/>
-A hitelezõk e hirdetmény második közzétételt követõ 30 napon belül gyakorolhatják az 1988. évi VI. tv. szerinti jogaikat.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">A REALPORTA IngatlankÃ¶zvetÃ­tÅ‘ SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (3700 Kazincbarcika, FÅ‘ tÃ©r 36.; cÃ©gjegyzÃ©kszÃ¡m: [05 09 001815]) Ã©s a TIMPANON IngatlankezelÃ©si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (3700 Kazincbarcika, EszperantÃ³ u. 2.; cÃ©gjegyzÃ©kszÃ¡m: [05 09 001815]) tulajdonosa, a VÃ¡rosi Ã–nkormÃ¡nyzat Kazincbarcika 303/1997. (XI. 21.) sz. testÃ¼leti hatÃ¡rozatÃ¡val elhatÃ¡rozta a kÃ©t tÃ¡rsasÃ¡g<ujsor/>
+egyesÃ¼lÃ©sÃ©t.<ujsor/>
+Az egyesÃ¼lÃ©s cÃ©lja: a gazdasÃ¡gosabb mÅ±kÃ¶dtetÃ©s optimÃ¡lis szervezeti keretek kÃ¶zÃ¶tt.<ujsor/>
+Az egyesÃ¼lÃ©s formÃ¡ja: beolvadÃ¡s.<ujsor/>
+Az egyesÃ¼lÃ©s idÅ‘pontja: 1997. december 31.<ujsor/>
+A beolvadÃ³ tÃ¡rsasÃ¡g: REALPORTA Kft.<ujsor/>
+Az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g: TIMPANON Kft.<ujsor/>
+Az egyesÃ¼lÃ©st kÃ¶vetÅ‘en az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g neve, szÃ©khelye nem vÃ¡ltozik.<ujsor/>
+A beolvadÃ³ REALPORTA Kft. vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+1. A) Befektetett eszkÃ¶zÃ¶k (2+3) 180 1. SajÃ¡t tÅ‘ke 4569<ujsor/>
+2. I. ImmateriÃ¡lis javak 9 2. Jegyzett tÅ‘ke 1050<ujsor/>
+3. II. TÃ¡rgyi eszkÃ¶zÃ¶k 171 3. TÅ‘ketartalÃ©k -<ujsor/>
+4. EgyÃ©b berendezÃ©sek felsz. 171 4. EredmÃ©nytartalÃ©k 3519<ujsor/>
+5. B) ForgÃ³eszkÃ¶zÃ¶k (6+7+10) 5937 5. MÃ©rleg szerinti eredmÃ©ny -<ujsor/>
+6. I. KÃ©szletek - 6. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 1548<ujsor/>
+7. II. KÃ¶vetelÃ©sek (8+9) 1500 7. SzÃ¡llÃ­tÃ³k -<ujsor/>
+8. VevÅ‘k 1352 8. EgyÃ©b 1548<ujsor/>
+9. EgyÃ©b kÃ¶vetelÃ©sek 148<ujsor/>
+10. IV. PÃ©nzeszkÃ¶zÃ¶k 4437<ujsor/>
+Ã–SSZESEN (1+5): 6117 Ã–SSZESEN (1+6): 6117<ujsor/>
+Az Ã¡tvevÅ‘ TIMPANON Kft. vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+1. A) Befektetett eszkÃ¶zÃ¶k (2+3) 71 226 1. C) SajÃ¡t tÅ‘ke 87 470<ujsor/>
+2. I. ImmateriÃ¡lis javak 755 2. Jegyzett tÅ‘ke 54 740<ujsor/>
+3. II. TÃ¡rgyi eszkÃ¶zÃ¶k 70 471 3. TÅ‘ketartalÃ©k 468<ujsor/>
+4. Ingatlanok 39 408 4. EredmÃ©nytartalÃ©k 5 631<ujsor/>
+5. MÅ±szaki gÃ©pek ber. jÃ¡rm. 3 709 5. MÃ©rleg szerinti eredmÃ©ny -<ujsor/>
+6. EgyÃ©b berendezÃ©sek felsz. 723 6. Ã‰rtÃ©kelÃ©si tartalÃ©k 26 631<ujsor/>
+7. TÃ¡rgyi eszkÃ¶zÃ¶k Ã©rtÃ©khelyesbÃ­tÃ©se 26 631 7. CÃ©ltartalÃ©k 3 800<ujsor/>
+8. B) ForgÃ³eszkÃ¶zÃ¶k (9+10+13+14) 60 714 8. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 39 800<ujsor/>
+9. I. KÃ©szletek 3 799 9. SzÃ¡llÃ­tÃ³k 33 500<ujsor/>
+10. II. KÃ¶vetelÃ©sek (8+9) 45 160 10. EgyÃ©b 6 300<ujsor/>
+11. VevÅ‘k 29 500 11. PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 870<ujsor/>
+12. EgyÃ©b kÃ¶vetelÃ©sek 15 660<ujsor/>
+13. III. Ã‰rtÃ©kpapÃ­rok 300<ujsor/>
+14. IV. PÃ©nzeszkÃ¶zÃ¶k 11 455<ujsor/>
+Ã–SSZESEN (1+8): 131 940 Ã–SSZESEN (1+7+8+11): 131 940<ujsor/>
+Az egyesÃ¼lÅ‘ tÃ¡rsasÃ¡gok Ã¶sszevont vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+1. A) Befektetett eszkÃ¶zÃ¶k (2+3) 71 406 1. C) SajÃ¡t tÅ‘ke 92 039<ujsor/>
+2. I. ImmateriÃ¡lis javak 764 2. Jegyzett tÅ‘ke 55 790<ujsor/>
+3. TÃ¡rgyi eszkÃ¶zÃ¶k 70 642 3. TÅ‘ketartalÃ©k 468<ujsor/>
+4. Ingatlanok 39 408 4. EredmÃ©nytartalÃ©k 9 150<ujsor/>
+5. MÅ±szaki gÃ©pek ber. jÃ¡rm. 3 709 5. Ã‰rtÃ©kelÃ©si tartalÃ©k 26 631<ujsor/>
+6. EgyÃ©b berendezÃ©sek felsz. 894 6. CÃ©ltartalÃ©k 3 800<ujsor/>
+7. TÃ¡rgyi eszkÃ¶zÃ¶k Ã©rtÃ©khelyesbÃ­tÃ©se 26 631 7. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 41 348<ujsor/>
+8. B) ForgÃ³eszkÃ¶zÃ¶k (9+10+13+14) 66 651 8. SzÃ¡llÃ­tÃ³k 33 500<ujsor/>
+9. I. KÃ©szletek 3 799 9. EgyÃ©b 7 848<ujsor/>
+10. II. KÃ¶vetelÃ©sek (8+9) 46 660 10. PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 870<ujsor/>
+11. VevÅ‘k 30 852<ujsor/>
+12. EgyÃ©b kÃ¶vetelÃ©sek 15 808<ujsor/>
+13. III. Ã‰rtÃ©kpapÃ­rok 300<ujsor/>
+14. IV. PÃ©nzeszkÃ¶zÃ¶k 15 892<ujsor/>
+Ã–SSZESEN (1+8): 138 057 Ã–SSZESEN (1+7+8+11): 138 057<ujsor/>
+A hitelezÅ‘k e hirdetmÃ©ny mÃ¡sodik kÃ¶zzÃ©tÃ©telt kÃ¶vetÅ‘ 30 napon belÃ¼l gyakorolhatjÃ¡k az 1988. Ã©vi VI. tv. szerinti jogaikat.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0509001817</mezo>
-<mezo id = "nev">TIMPANON Ingatlankezelési Kft.</mezo>
+<mezo id = "nev">TIMPANON IngatlankezelÃ©si Kft.</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A REALPORTA Ingatlanközvetítõ Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság (3700 Kazincbarcika, Fõ tér 36.; cégjegyzékszám: [05 09 001815]) és a TIMPANON Ingatlankezelési Korlátolt Felelõsségû Társaság (3700 Kazincbarcika, Eszperantó u. 2.; cégjegyzékszám: [05 09 001815]) tulajdonosa, a Városi Önkormányzat Kazincbarcika 303/1997. (XI. 21.) sz. testületi határozatával elhatározta a két társaság<ujsor/>
-egyesülését.<ujsor/>
-Az egyesülés célja: a gazdaságosabb mûködtetés optimális szervezeti keretek között.<ujsor/>
-Az egyesülés formája: beolvadás.<ujsor/>
-Az egyesülés idõpontja: 1997. december 31.<ujsor/>
-A beolvadó társaság: REALPORTA Kft.<ujsor/>
-Az átvevõ társaság: TIMPANON Kft.<ujsor/>
-Az egyesülést követõen az átvevõ társaság neve, székhelye nem változik.<ujsor/>
-A beolvadó REALPORTA Kft. vagyonmérleg-tervezetének fõbb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-1. A) Befektetett eszközök (2+3) 180 1. Saját tõke 4569<ujsor/>
-2. I. Immateriális javak 9 2. Jegyzett tõke 1050<ujsor/>
-3. II. Tárgyi eszközök 171 3. Tõketartalék -<ujsor/>
-4. Egyéb berendezések felsz. 171 4. Eredménytartalék 3519<ujsor/>
-5. B) Forgóeszközök (6+7+10) 5937 5. Mérleg szerinti eredmény -<ujsor/>
-6. I. Készletek - 6. Rövid lejáratú kötelezettségek 1548<ujsor/>
-7. II. Követelések (8+9) 1500 7. Szállítók -<ujsor/>
-8. Vevõk 1352 8. Egyéb 1548<ujsor/>
-9. Egyéb követelések 148<ujsor/>
-10. IV. Pénzeszközök 4437<ujsor/>
-ÖSSZESEN (1+5): 6117 ÖSSZESEN (1+6): 6117<ujsor/>
-Az átvevõ TIMPANON Kft. vagyonmérleg-tervezetének fõbb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-1. A) Befektetett eszközök (2+3) 71 226 1. C) Saját tõke 87 470<ujsor/>
-2. I. Immateriális javak 755 2. Jegyzett tõke 54 740<ujsor/>
-3. II. Tárgyi eszközök 70 471 3. Tõketartalék 468<ujsor/>
-4. Ingatlanok 39 408 4. Eredménytartalék 5 631<ujsor/>
-5. Mûszaki gépek ber. járm. 3 709 5. Mérleg szerinti eredmény -<ujsor/>
-6. Egyéb berendezések felsz. 723 6. Értékelési tartalék 26 631<ujsor/>
-7. Tárgyi eszközök értékhelyesbítése 26 631 7. Céltartalék 3 800<ujsor/>
-8. B) Forgóeszközök (9+10+13+14) 60 714 8. Rövid lejáratú kötelezettségek 39 800<ujsor/>
-9. I. Készletek 3 799 9. Szállítók 33 500<ujsor/>
-10. II. Követelések (8+9) 45 160 10. Egyéb 6 300<ujsor/>
-11. Vevõk 29 500 11. Passzív idõbeli elhatárolások 870<ujsor/>
-12. Egyéb követelések 15 660<ujsor/>
-13. III. Értékpapírok 300<ujsor/>
-14. IV. Pénzeszközök 11 455<ujsor/>
-ÖSSZESEN (1+8): 131 940 ÖSSZESEN (1+7+8+11): 131 940<ujsor/>
-Az egyesülõ társaságok összevont vagyonmérleg-tervezetének fõbb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-1. A) Befektetett eszközök (2+3) 71 406 1. C) Saját tõke 92 039<ujsor/>
-2. I. Immateriális javak 764 2. Jegyzett tõke 55 790<ujsor/>
-3. Tárgyi eszközök 70 642 3. Tõketartalék 468<ujsor/>
-4. Ingatlanok 39 408 4. Eredménytartalék 9 150<ujsor/>
-5. Mûszaki gépek ber. járm. 3 709 5. Értékelési tartalék 26 631<ujsor/>
-6. Egyéb berendezések felsz. 894 6. Céltartalék 3 800<ujsor/>
-7. Tárgyi eszközök értékhelyesbítése 26 631 7. Rövid lejáratú kötelezettségek 41 348<ujsor/>
-8. B) Forgóeszközök (9+10+13+14) 66 651 8. Szállítók 33 500<ujsor/>
-9. I. Készletek 3 799 9. Egyéb 7 848<ujsor/>
-10. II. Követelések (8+9) 46 660 10. Passzív idõbeli elhatárolások 870<ujsor/>
-11. Vevõk 30 852<ujsor/>
-12. Egyéb követelések 15 808<ujsor/>
-13. III. Értékpapírok 300<ujsor/>
-14. IV. Pénzeszközök 15 892<ujsor/>
-ÖSSZESEN (1+8): 138 057 ÖSSZESEN (1+7+8+11): 138 057<ujsor/>
-A hitelezõk e hirdetmény második közzétételt követõ 30 napon belül gyakorolhatják az 1988. évi VI. tv. szerinti jogaikat.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">A REALPORTA IngatlankÃ¶zvetÃ­tÅ‘ SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (3700 Kazincbarcika, FÅ‘ tÃ©r 36.; cÃ©gjegyzÃ©kszÃ¡m: [05 09 001815]) Ã©s a TIMPANON IngatlankezelÃ©si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (3700 Kazincbarcika, EszperantÃ³ u. 2.; cÃ©gjegyzÃ©kszÃ¡m: [05 09 001815]) tulajdonosa, a VÃ¡rosi Ã–nkormÃ¡nyzat Kazincbarcika 303/1997. (XI. 21.) sz. testÃ¼leti hatÃ¡rozatÃ¡val elhatÃ¡rozta a kÃ©t tÃ¡rsasÃ¡g<ujsor/>
+egyesÃ¼lÃ©sÃ©t.<ujsor/>
+Az egyesÃ¼lÃ©s cÃ©lja: a gazdasÃ¡gosabb mÅ±kÃ¶dtetÃ©s optimÃ¡lis szervezeti keretek kÃ¶zÃ¶tt.<ujsor/>
+Az egyesÃ¼lÃ©s formÃ¡ja: beolvadÃ¡s.<ujsor/>
+Az egyesÃ¼lÃ©s idÅ‘pontja: 1997. december 31.<ujsor/>
+A beolvadÃ³ tÃ¡rsasÃ¡g: REALPORTA Kft.<ujsor/>
+Az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g: TIMPANON Kft.<ujsor/>
+Az egyesÃ¼lÃ©st kÃ¶vetÅ‘en az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g neve, szÃ©khelye nem vÃ¡ltozik.<ujsor/>
+A beolvadÃ³ REALPORTA Kft. vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+1. A) Befektetett eszkÃ¶zÃ¶k (2+3) 180 1. SajÃ¡t tÅ‘ke 4569<ujsor/>
+2. I. ImmateriÃ¡lis javak 9 2. Jegyzett tÅ‘ke 1050<ujsor/>
+3. II. TÃ¡rgyi eszkÃ¶zÃ¶k 171 3. TÅ‘ketartalÃ©k -<ujsor/>
+4. EgyÃ©b berendezÃ©sek felsz. 171 4. EredmÃ©nytartalÃ©k 3519<ujsor/>
+5. B) ForgÃ³eszkÃ¶zÃ¶k (6+7+10) 5937 5. MÃ©rleg szerinti eredmÃ©ny -<ujsor/>
+6. I. KÃ©szletek - 6. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 1548<ujsor/>
+7. II. KÃ¶vetelÃ©sek (8+9) 1500 7. SzÃ¡llÃ­tÃ³k -<ujsor/>
+8. VevÅ‘k 1352 8. EgyÃ©b 1548<ujsor/>
+9. EgyÃ©b kÃ¶vetelÃ©sek 148<ujsor/>
+10. IV. PÃ©nzeszkÃ¶zÃ¶k 4437<ujsor/>
+Ã–SSZESEN (1+5): 6117 Ã–SSZESEN (1+6): 6117<ujsor/>
+Az Ã¡tvevÅ‘ TIMPANON Kft. vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+1. A) Befektetett eszkÃ¶zÃ¶k (2+3) 71 226 1. C) SajÃ¡t tÅ‘ke 87 470<ujsor/>
+2. I. ImmateriÃ¡lis javak 755 2. Jegyzett tÅ‘ke 54 740<ujsor/>
+3. II. TÃ¡rgyi eszkÃ¶zÃ¶k 70 471 3. TÅ‘ketartalÃ©k 468<ujsor/>
+4. Ingatlanok 39 408 4. EredmÃ©nytartalÃ©k 5 631<ujsor/>
+5. MÅ±szaki gÃ©pek ber. jÃ¡rm. 3 709 5. MÃ©rleg szerinti eredmÃ©ny -<ujsor/>
+6. EgyÃ©b berendezÃ©sek felsz. 723 6. Ã‰rtÃ©kelÃ©si tartalÃ©k 26 631<ujsor/>
+7. TÃ¡rgyi eszkÃ¶zÃ¶k Ã©rtÃ©khelyesbÃ­tÃ©se 26 631 7. CÃ©ltartalÃ©k 3 800<ujsor/>
+8. B) ForgÃ³eszkÃ¶zÃ¶k (9+10+13+14) 60 714 8. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 39 800<ujsor/>
+9. I. KÃ©szletek 3 799 9. SzÃ¡llÃ­tÃ³k 33 500<ujsor/>
+10. II. KÃ¶vetelÃ©sek (8+9) 45 160 10. EgyÃ©b 6 300<ujsor/>
+11. VevÅ‘k 29 500 11. PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 870<ujsor/>
+12. EgyÃ©b kÃ¶vetelÃ©sek 15 660<ujsor/>
+13. III. Ã‰rtÃ©kpapÃ­rok 300<ujsor/>
+14. IV. PÃ©nzeszkÃ¶zÃ¶k 11 455<ujsor/>
+Ã–SSZESEN (1+8): 131 940 Ã–SSZESEN (1+7+8+11): 131 940<ujsor/>
+Az egyesÃ¼lÅ‘ tÃ¡rsasÃ¡gok Ã¶sszevont vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+1. A) Befektetett eszkÃ¶zÃ¶k (2+3) 71 406 1. C) SajÃ¡t tÅ‘ke 92 039<ujsor/>
+2. I. ImmateriÃ¡lis javak 764 2. Jegyzett tÅ‘ke 55 790<ujsor/>
+3. TÃ¡rgyi eszkÃ¶zÃ¶k 70 642 3. TÅ‘ketartalÃ©k 468<ujsor/>
+4. Ingatlanok 39 408 4. EredmÃ©nytartalÃ©k 9 150<ujsor/>
+5. MÅ±szaki gÃ©pek ber. jÃ¡rm. 3 709 5. Ã‰rtÃ©kelÃ©si tartalÃ©k 26 631<ujsor/>
+6. EgyÃ©b berendezÃ©sek felsz. 894 6. CÃ©ltartalÃ©k 3 800<ujsor/>
+7. TÃ¡rgyi eszkÃ¶zÃ¶k Ã©rtÃ©khelyesbÃ­tÃ©se 26 631 7. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 41 348<ujsor/>
+8. B) ForgÃ³eszkÃ¶zÃ¶k (9+10+13+14) 66 651 8. SzÃ¡llÃ­tÃ³k 33 500<ujsor/>
+9. I. KÃ©szletek 3 799 9. EgyÃ©b 7 848<ujsor/>
+10. II. KÃ¶vetelÃ©sek (8+9) 46 660 10. PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 870<ujsor/>
+11. VevÅ‘k 30 852<ujsor/>
+12. EgyÃ©b kÃ¶vetelÃ©sek 15 808<ujsor/>
+13. III. Ã‰rtÃ©kpapÃ­rok 300<ujsor/>
+14. IV. PÃ©nzeszkÃ¶zÃ¶k 15 892<ujsor/>
+Ã–SSZESEN (1+8): 138 057 Ã–SSZESEN (1+7+8+11): 138 057<ujsor/>
+A hitelezÅ‘k e hirdetmÃ©ny mÃ¡sodik kÃ¶zzÃ©tÃ©telt kÃ¶vetÅ‘ 30 napon belÃ¼l gyakorolhatjÃ¡k az 1988. Ã©vi VI. tv. szerinti jogaikat.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0509001817</mezo>
-<mezo id = "nev">TIMPANON Ingatlankezelési Kft.</mezo>
+<mezo id = "nev">TIMPANON IngatlankezelÃ©si Kft.</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A TELEKÉP Mûsorszolgáltató Oktatási és Kereskedelmi Korlátolt Felelõsségû Társaság (Cg.: [05 09 001820]; székhely: 3700 Kazincbarcika, Pollack M. út 32­34.) és a KAZINC Távhõszolgáltató Korlátolt Felelõsségû Társaság (Cg.: [05 09 002159]; székhely: 3700 Kazincbarcika, Liget út 2.) mint beolvadó társaságok, valamint a TIMPANON Ingatlankezelési Korlátolt Felelõsségû Társaság (Cg.: [05 09 001817]; székhely: 3700 Kazincbarcika, Eszperantó út 2.) mint átvevõ társaság, a Kazincbarcika Város Önkormányzatának 2007. október 12-én hozott 288/2007. (X. 12.) sz. 289/2007. (X. 12.) sz. és 290/2007. (X. 12.) sz. Ökt. határozatai alapján úgy döntöttek, hogy<ujsor/>
-egyesülnek,<ujsor/>
-mégpedig úgy, hogy a beolvadó társaságok beolvadnak az átvevõ társaságba.<ujsor/>
-Ennek következtében a beolvadó társaságok megszûnnek és vagyonuk, jogaik és kötelezettségeik a jogutód átvevõ társaságra szállnak át.<ujsor/>
-Az átvevõ gazdasági társaság formája: korlátolt felelõsségû társaság.<ujsor/>
-Neve: TIMPANON Vagyonkezelõ és Szolgáltató Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhelye: 3700 Kazincbarcika, Eszperantó út 2.<ujsor/>
-A beolvadási okiratok elfogadásának, az egyesülési szerzõdés aláírásának és az átvevõ gazdasági társaság társasági szerzõdése (alapító okirata) módosításának napja: 2007. november 30.<ujsor/>
-Az átvevõ gazdasági társaság fõ tevékenysége: 7032 Ingatlankezelés.<ujsor/>
-Vezetõ tisztségviselõje (ügyvezetõje): Milicz Sándor (3700 Kazincbarcika, Herbolyai út 17.).<ujsor/>
-A beolvadó és az átvevõ gazdasági társaságok 2007. szeptember 30-i fordulónappal készült vagyonmérleg-tervezetének, valamint az átvevõ társaság beolvadás utáni állapotot tükrözõ ­ 2007. szeptember 30-i fordulónappal készült ­ vagyonmérleg-tervezetének adatai:<ujsor/>
+<mezo id = "szoveg">A TELEKÃ‰P MÅ±sorszolgÃ¡ltatÃ³ OktatÃ¡si Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [05 09 001820]; szÃ©khely: 3700 Kazincbarcika, Pollack M. Ãºt 32Â­34.) Ã©s a KAZINC TÃ¡vhÅ‘szolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [05 09 002159]; szÃ©khely: 3700 Kazincbarcika, Liget Ãºt 2.) mint beolvadÃ³ tÃ¡rsasÃ¡gok, valamint a TIMPANON IngatlankezelÃ©si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [05 09 001817]; szÃ©khely: 3700 Kazincbarcika, EszperantÃ³ Ãºt 2.) mint Ã¡tvevÅ‘ tÃ¡rsasÃ¡g, a Kazincbarcika VÃ¡ros Ã–nkormÃ¡nyzatÃ¡nak 2007. oktÃ³ber 12-Ã©n hozott 288/2007. (X. 12.) sz. 289/2007. (X. 12.) sz. Ã©s 290/2007. (X. 12.) sz. Ã–kt. hatÃ¡rozatai alapjÃ¡n Ãºgy dÃ¶ntÃ¶ttek, hogy<ujsor/>
+egyesÃ¼lnek,<ujsor/>
+mÃ©gpedig Ãºgy, hogy a beolvadÃ³ tÃ¡rsasÃ¡gok beolvadnak az Ã¡tvevÅ‘ tÃ¡rsasÃ¡gba.<ujsor/>
+Ennek kÃ¶vetkeztÃ©ben a beolvadÃ³ tÃ¡rsasÃ¡gok megszÅ±nnek Ã©s vagyonuk, jogaik Ã©s kÃ¶telezettsÃ©geik a jogutÃ³d Ã¡tvevÅ‘ tÃ¡rsasÃ¡gra szÃ¡llnak Ã¡t.<ujsor/>
+Az Ã¡tvevÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g formÃ¡ja: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+Neve: TIMPANON VagyonkezelÅ‘ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 3700 Kazincbarcika, EszperantÃ³ Ãºt 2.<ujsor/>
+A beolvadÃ¡si okiratok elfogadÃ¡sÃ¡nak, az egyesÃ¼lÃ©si szerzÅ‘dÃ©s alÃ¡Ã­rÃ¡sÃ¡nak Ã©s az Ã¡tvevÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g tÃ¡rsasÃ¡gi szerzÅ‘dÃ©se (alapÃ­tÃ³ okirata) mÃ³dosÃ­tÃ¡sÃ¡nak napja: 2007. november 30.<ujsor/>
+Az Ã¡tvevÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©ge: 7032 IngatlankezelÃ©s.<ujsor/>
+VezetÅ‘ tisztsÃ©gviselÅ‘je (Ã¼gyvezetÅ‘je): Milicz SÃ¡ndor (3700 Kazincbarcika, Herbolyai Ãºt 17.).<ujsor/>
+A beolvadÃ³ Ã©s az Ã¡tvevÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡gok 2007. szeptember 30-i fordulÃ³nappal kÃ©szÃ¼lt vagyonmÃ©rleg-tervezetÃ©nek, valamint az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g beolvadÃ¡s utÃ¡ni Ã¡llapotot tÃ¼krÃ¶zÅ‘ Â­ 2007. szeptember 30-i fordulÃ³nappal kÃ©szÃ¼lt Â­ vagyonmÃ©rleg-tervezetÃ©nek adatai:<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK (aktívák)<ujsor/>
-Vagyonértékelés szerinti érték Különbözetek TIMPANON Kft. vagyona (jogutód)<ujsor/>
-TIMPANON Kft. (átvevõ) TELEKÉP Kft. (beolvadó) KAZINC Távhõ Kft. (beolvadó)<ujsor/>
-A) Befektetett eszközök 98 180 5 878 458 614 ­ 562 672<ujsor/>
-I. Immateriális javak 1 265 4 1 580 ­ 2 849<ujsor/>
-Vagyoni értékû jogok 1 265 ­ ­ ­ 1 265<ujsor/>
-Szellemi termékek ­ 4 1 580 ­ 1 584<ujsor/>
-II. Tárgyi eszközök 96 915 5 874 457 034 ­ 559 823<ujsor/>
-Ingatlanok és kapcsolódó vagyoni értékû jogok 86 364 1 416 329 655 ­ 417 435<ujsor/>
-Mûszaki berendezések, gépek, jármûvek 703 3 632 92 387 ­ 96 722<ujsor/>
-Egyéb berendezések, felszerelések, jármûvek 2 428 826 5 054 ­ 8 308<ujsor/>
-Beruházások, felújítások 7 420 ­ 29 938 ­ 37 358<ujsor/>
-Beruházásokra adott elõlegek ­ ­ ­ ­ ­<ujsor/>
-III. Befektetett pénzügyi eszközök ­ ­ ­ ­ ­<ujsor/>
-Egyéb tartós részesedés ­ ­ ­ ­ ­<ujsor/>
-B) Forgóeszközök 149 495 6 175 282 588 ­1757 436 501<ujsor/>
-I. Készletek 665 ­ 16 979 ­ 17 644<ujsor/>
-Anyagok 84 ­ 16 979 ­ 17 063<ujsor/>
-Növedék, hízó és egyéb állatok ­ ­ ­ ­ ­<ujsor/>
-Késztermékek ­ ­ ­ ­ ­<ujsor/>
-Áruk 581 ­ ­ ­ 581<ujsor/>
-II. Követelések 92 476 3 707 198 993 ­1757 293 419<ujsor/>
-Követelések áruszállításból és szolgáltatásból (vevõk) 46 828 3 305 160 746 ­1634 209 245<ujsor/>
-Követelések kapcsolt vállalkozással szemben ­ ­ ­ ­ ­<ujsor/>
-Egyéb követelések 45 648 402 38 247 ­123 84 174<ujsor/>
-III. Értékpapírok 51 550 ­ ­ ­ 51 550<ujsor/>
-IV. Pénzeszközök 4 804 2 468 66 616 ­ 73 888<ujsor/>
-Pénztár, csekkek 474 71 338 ­ 883<ujsor/>
-Bankbetétek 4 330 2 397 66 278 ­ 73 005<ujsor/>
-C) Aktív idõbeli elhatárolások 1 999 333 1 221 ­ 3 553<ujsor/>
-Bevételek aktív idõbeli elhatárolása 88 333 ­ ­ 421<ujsor/>
-Költségek, ráfordítások aktív idõbeli elhatárolása 1 911 ­ 1 221 ­ 3 132<ujsor/>
-ÖSSZESEN: 249 674 12 386 742 423 ­1757 1 002 726<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k)<ujsor/>
+VagyonÃ©rtÃ©kelÃ©s szerinti Ã©rtÃ©k KÃ¼lÃ¶nbÃ¶zetek TIMPANON Kft. vagyona (jogutÃ³d)<ujsor/>
+TIMPANON Kft. (Ã¡tvevÅ‘) TELEKÃ‰P Kft. (beolvadÃ³) KAZINC TÃ¡vhÅ‘ Kft. (beolvadÃ³)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 98 180 5 878 458 614 Â­ 562 672<ujsor/>
+I. ImmateriÃ¡lis javak 1 265 4 1 580 Â­ 2 849<ujsor/>
+Vagyoni Ã©rtÃ©kÅ± jogok 1 265 Â­ Â­ Â­ 1 265<ujsor/>
+Szellemi termÃ©kek Â­ 4 1 580 Â­ 1 584<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 96 915 5 874 457 034 Â­ 559 823<ujsor/>
+Ingatlanok Ã©s kapcsolÃ³dÃ³ vagyoni Ã©rtÃ©kÅ± jogok 86 364 1 416 329 655 Â­ 417 435<ujsor/>
+MÅ±szaki berendezÃ©sek, gÃ©pek, jÃ¡rmÅ±vek 703 3 632 92 387 Â­ 96 722<ujsor/>
+EgyÃ©b berendezÃ©sek, felszerelÃ©sek, jÃ¡rmÅ±vek 2 428 826 5 054 Â­ 8 308<ujsor/>
+BeruhÃ¡zÃ¡sok, felÃºjÃ­tÃ¡sok 7 420 Â­ 29 938 Â­ 37 358<ujsor/>
+BeruhÃ¡zÃ¡sokra adott elÅ‘legek Â­ Â­ Â­ Â­ Â­<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k Â­ Â­ Â­ Â­ Â­<ujsor/>
+EgyÃ©b tartÃ³s rÃ©szesedÃ©s Â­ Â­ Â­ Â­ Â­<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 149 495 6 175 282 588 Â­1757 436 501<ujsor/>
+I. KÃ©szletek 665 Â­ 16 979 Â­ 17 644<ujsor/>
+Anyagok 84 Â­ 16 979 Â­ 17 063<ujsor/>
+NÃ¶vedÃ©k, hÃ­zÃ³ Ã©s egyÃ©b Ã¡llatok Â­ Â­ Â­ Â­ Â­<ujsor/>
+KÃ©sztermÃ©kek Â­ Â­ Â­ Â­ Â­<ujsor/>
+Ãruk 581 Â­ Â­ Â­ 581<ujsor/>
+II. KÃ¶vetelÃ©sek 92 476 3 707 198 993 Â­1757 293 419<ujsor/>
+KÃ¶vetelÃ©sek Ã¡ruszÃ¡llÃ­tÃ¡sbÃ³l Ã©s szolgÃ¡ltatÃ¡sbÃ³l (vevÅ‘k) 46 828 3 305 160 746 Â­1634 209 245<ujsor/>
+KÃ¶vetelÃ©sek kapcsolt vÃ¡llalkozÃ¡ssal szemben Â­ Â­ Â­ Â­ Â­<ujsor/>
+EgyÃ©b kÃ¶vetelÃ©sek 45 648 402 38 247 Â­123 84 174<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 51 550 Â­ Â­ Â­ 51 550<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 4 804 2 468 66 616 Â­ 73 888<ujsor/>
+PÃ©nztÃ¡r, csekkek 474 71 338 Â­ 883<ujsor/>
+BankbetÃ©tek 4 330 2 397 66 278 Â­ 73 005<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 1 999 333 1 221 Â­ 3 553<ujsor/>
+BevÃ©telek aktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sa 88 333 Â­ Â­ 421<ujsor/>
+KÃ¶ltsÃ©gek, rÃ¡fordÃ­tÃ¡sok aktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sa 1 911 Â­ 1 221 Â­ 3 132<ujsor/>
+Ã–SSZESEN: 249 674 12 386 742 423 Â­1757 1 002 726<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK (passzívák)<ujsor/>
-Vagyonértékelés szerinti érték Különbözetek TIMPANON Kft. vagyona (jogutód)<ujsor/>
-TIMPANON Kft. (átvevõ) TELEKÉP Kft. (beolvadó) KAZINC Távhõ Kft. (beolvadó)<ujsor/>
-D) Saját tõke 101 076 5 143 424 749 ­ 530 968<ujsor/>
-I. Jegyzett tõke 57 590 3 710 349 790 ­ 411 090<ujsor/>
-Ebbõl: visszavásárolt tulajdoni részesedés névértéken ­ ­ ­ ­ ­<ujsor/>
-II. Jegyzett de még be nem fiz. tõke ­ ­ ­ ­<ujsor/>
-III. Tõketartalék 468 15 399 23 500 ­ 39 367<ujsor/>
-IV. Eredménytartalék 42 518 ­13 966 51 459 ­ 80 011<ujsor/>
-V. Lekötött tartalék 500 ­ ­ ­ 500<ujsor/>
-VI. Értékelési tartalék ­ ­ ­ ­ ­<ujsor/>
-E) Céltartalékok ­ ­ ­ ­ ­<ujsor/>
-F) Kötelezettségek 118 568 4 428 119 481 ­1757 240 720<ujsor/>
-I. Hátra sorolt kötelezettségek ­ ­ ­ ­ ­<ujsor/>
-II. Hosszú lejáratú kötelezettségek 10 530 ­ ­ ­ 10 530<ujsor/>
-III. Rövid lejáratú kötelezettségek 108 038 4 428 119 481 ­1757 230 190<ujsor/>
-Rövid lejáratú kölcsönök ­ 998 ­ ­ 998<ujsor/>
-Ebbõl: átváltoztatható kötvények ­ ­ ­ ­ ­<ujsor/>
-Rövid lejáratú hitelek ­ ­ ­ ­ ­<ujsor/>
-Vevõktõl kapott elõleg 37 001 ­ ­ ­ 37 001<ujsor/>
-Kötelezettségek áruszállításból és szolgáltatásból 7 930 1 554 76 674 ­1626 84 532<ujsor/>
-Rövid lejáratú kötelezettségek kapcsolt vállalkozással szemben ­ ­ ­ ­ ­<ujsor/>
-Egyéb rövid lejáratú kötelezettségek 63 107 1 876 42 807 ­131 107 659<ujsor/>
-G) Passzív idõbeli elhatárolások 30 030 2 815 198 193 ­ 231 038<ujsor/>
-Bevételek passzív idõbeli elhatárolása 22 748 1 211 ­ ­ 23 959<ujsor/>
-Költségek, ráfordítások passzív idõbeli elhatárolása 7 282 1 604 12 062 ­ 20 948<ujsor/>
-Halasztott bevétel ­ ­ 186 131 ­ 186 131<ujsor/>
-ÖSSZESEN: 249 674 12 386 742 423 ­1757 1 002 726<ujsor/>
-Felhívjuk a TIMPANON Kft. azon hitelezõit, akiknek vele szemben fennálló, le nem járt követelései az átalakulásról hozott döntés elsõ közzétételét megelõzõen keletkeztek, hogy követeléseik erejéig a döntés második közzétételét követõ harmincnapos jogvesztõ határidõn belül biztosítékot követelhetnek [2006. évi IV. tv. (2) bekezdés].<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+FORRÃSOK (passzÃ­vÃ¡k)<ujsor/>
+VagyonÃ©rtÃ©kelÃ©s szerinti Ã©rtÃ©k KÃ¼lÃ¶nbÃ¶zetek TIMPANON Kft. vagyona (jogutÃ³d)<ujsor/>
+TIMPANON Kft. (Ã¡tvevÅ‘) TELEKÃ‰P Kft. (beolvadÃ³) KAZINC TÃ¡vhÅ‘ Kft. (beolvadÃ³)<ujsor/>
+D) SajÃ¡t tÅ‘ke 101 076 5 143 424 749 Â­ 530 968<ujsor/>
+I. Jegyzett tÅ‘ke 57 590 3 710 349 790 Â­ 411 090<ujsor/>
+EbbÅ‘l: visszavÃ¡sÃ¡rolt tulajdoni rÃ©szesedÃ©s nÃ©vÃ©rtÃ©ken Â­ Â­ Â­ Â­ Â­<ujsor/>
+II. Jegyzett de mÃ©g be nem fiz. tÅ‘ke Â­ Â­ Â­ Â­<ujsor/>
+III. TÅ‘ketartalÃ©k 468 15 399 23 500 Â­ 39 367<ujsor/>
+IV. EredmÃ©nytartalÃ©k 42 518 Â­13 966 51 459 Â­ 80 011<ujsor/>
+V. LekÃ¶tÃ¶tt tartalÃ©k 500 Â­ Â­ Â­ 500<ujsor/>
+VI. Ã‰rtÃ©kelÃ©si tartalÃ©k Â­ Â­ Â­ Â­ Â­<ujsor/>
+E) CÃ©ltartalÃ©kok Â­ Â­ Â­ Â­ Â­<ujsor/>
+F) KÃ¶telezettsÃ©gek 118 568 4 428 119 481 Â­1757 240 720<ujsor/>
+I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek Â­ Â­ Â­ Â­ Â­<ujsor/>
+II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 10 530 Â­ Â­ Â­ 10 530<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 108 038 4 428 119 481 Â­1757 230 190<ujsor/>
+RÃ¶vid lejÃ¡ratÃº kÃ¶lcsÃ¶nÃ¶k Â­ 998 Â­ Â­ 998<ujsor/>
+EbbÅ‘l: Ã¡tvÃ¡ltoztathatÃ³ kÃ¶tvÃ©nyek Â­ Â­ Â­ Â­ Â­<ujsor/>
+RÃ¶vid lejÃ¡ratÃº hitelek Â­ Â­ Â­ Â­ Â­<ujsor/>
+VevÅ‘ktÅ‘l kapott elÅ‘leg 37 001 Â­ Â­ Â­ 37 001<ujsor/>
+KÃ¶telezettsÃ©gek Ã¡ruszÃ¡llÃ­tÃ¡sbÃ³l Ã©s szolgÃ¡ltatÃ¡sbÃ³l 7 930 1 554 76 674 Â­1626 84 532<ujsor/>
+RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek kapcsolt vÃ¡llalkozÃ¡ssal szemben Â­ Â­ Â­ Â­ Â­<ujsor/>
+EgyÃ©b rÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 63 107 1 876 42 807 Â­131 107 659<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 30 030 2 815 198 193 Â­ 231 038<ujsor/>
+BevÃ©telek passzÃ­v idÅ‘beli elhatÃ¡rolÃ¡sa 22 748 1 211 Â­ Â­ 23 959<ujsor/>
+KÃ¶ltsÃ©gek, rÃ¡fordÃ­tÃ¡sok passzÃ­v idÅ‘beli elhatÃ¡rolÃ¡sa 7 282 1 604 12 062 Â­ 20 948<ujsor/>
+Halasztott bevÃ©tel Â­ Â­ 186 131 Â­ 186 131<ujsor/>
+Ã–SSZESEN: 249 674 12 386 742 423 Â­1757 1 002 726<ujsor/>
+FelhÃ­vjuk a TIMPANON Kft. azon hitelezÅ‘it, akiknek vele szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei az Ã¡talakulÃ¡srÃ³l hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, hogy kÃ¶vetelÃ©seik erejÃ©ig a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek [2006. Ã©vi IV. tv. (2) bekezdÃ©s].<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0509001817</mezo>
-<mezo id = "nev">TIMPANON Ingatlankezelési Kft.</mezo>
+<mezo id = "nev">TIMPANON IngatlankezelÃ©si Kft.</mezo>
 <mezo id = "cim">3700 Kazincbarcika</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A TELEKÉP Mûsorszolgáltató Oktatási és Kereskedelmi Korlátolt Felelõsségû Társaság (Cg.: [05 09 001820]; székhely: 3700 Kazincbarcika, Pollack M. út 32­34.) és a KAZINC Távhõszolgáltató Korlátolt Felelõsségû Társaság (Cg.: [05 09 002159]; székhely: 3700 Kazincbarcika, Liget út 2.) mint beolvadó társaságok, valamint a TIMPANON Ingatlankezelési Korlátolt Felelõsségû Társaság (Cg.: [05 09 001817]; székhely: 3700 Kazincbarcika, Eszperantó út 2.) mint átvevõ társaság, a Kazincbarcika Város Önkormányzatának 2007. október 12-én hozott 288/2007. (X. 12.) sz., 289/2007. (X. 12.) sz. és 290/2007. (X. 12.) sz. Ökt. határozatai alapján úgy döntöttek, hogy<ujsor/>
-egyesülnek,<ujsor/>
-mégpedig úgy, hogy a beolvadó társaságok beolvadnak az átvevõ társaságba.<ujsor/>
-Ennek következtében a beolvadó társaságok megszûnnek és vagyonuk, jogaik és kötelezettségeik a jogutód átvevõ társaságra szállnak át.<ujsor/>
-Az átvevõ gazdasági társaság formája: korlátolt felelõsségû társaság.<ujsor/>
-Neve: TIMPANON Vagyonkezelõ és Szolgáltató Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhelye: 3700 Kazincbarcika, Eszperantó út 2.<ujsor/>
-A beolvadási okiratok elfogadásának, az egyesülési szerzõdés aláírásának és az átvevõ gazdasági társaság társasági szerzõdése (alapító okirata) módosításának napja: 2007. november 30.<ujsor/>
-Az átvevõ gazdasági társaság fõ tevékenysége: 7032 Ingatlankezelés.<ujsor/>
-Vezetõ tisztségviselõje (ügyvezetõje): Milicz Sándor (3700 Kazincbarcika, Herbolyai út 17.).<ujsor/>
-A beolvadó és az átvevõ gazdasági társaságok 2007. szeptember 30-i fordulónappal készült vagyonmérleg-tervezetének, valamint az átvevõ társaság beolvadás utáni állapotot tükrözõ ­ 2007. szeptember 30-i fordulónappal készült ­ vagyonmérleg-tervezetének adatai:<ujsor/>
+<mezo id = "szoveg">A TELEKÃ‰P MÅ±sorszolgÃ¡ltatÃ³ OktatÃ¡si Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [05 09 001820]; szÃ©khely: 3700 Kazincbarcika, Pollack M. Ãºt 32Â­34.) Ã©s a KAZINC TÃ¡vhÅ‘szolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [05 09 002159]; szÃ©khely: 3700 Kazincbarcika, Liget Ãºt 2.) mint beolvadÃ³ tÃ¡rsasÃ¡gok, valamint a TIMPANON IngatlankezelÃ©si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [05 09 001817]; szÃ©khely: 3700 Kazincbarcika, EszperantÃ³ Ãºt 2.) mint Ã¡tvevÅ‘ tÃ¡rsasÃ¡g, a Kazincbarcika VÃ¡ros Ã–nkormÃ¡nyzatÃ¡nak 2007. oktÃ³ber 12-Ã©n hozott 288/2007. (X. 12.) sz., 289/2007. (X. 12.) sz. Ã©s 290/2007. (X. 12.) sz. Ã–kt. hatÃ¡rozatai alapjÃ¡n Ãºgy dÃ¶ntÃ¶ttek, hogy<ujsor/>
+egyesÃ¼lnek,<ujsor/>
+mÃ©gpedig Ãºgy, hogy a beolvadÃ³ tÃ¡rsasÃ¡gok beolvadnak az Ã¡tvevÅ‘ tÃ¡rsasÃ¡gba.<ujsor/>
+Ennek kÃ¶vetkeztÃ©ben a beolvadÃ³ tÃ¡rsasÃ¡gok megszÅ±nnek Ã©s vagyonuk, jogaik Ã©s kÃ¶telezettsÃ©geik a jogutÃ³d Ã¡tvevÅ‘ tÃ¡rsasÃ¡gra szÃ¡llnak Ã¡t.<ujsor/>
+Az Ã¡tvevÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g formÃ¡ja: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+Neve: TIMPANON VagyonkezelÅ‘ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 3700 Kazincbarcika, EszperantÃ³ Ãºt 2.<ujsor/>
+A beolvadÃ¡si okiratok elfogadÃ¡sÃ¡nak, az egyesÃ¼lÃ©si szerzÅ‘dÃ©s alÃ¡Ã­rÃ¡sÃ¡nak Ã©s az Ã¡tvevÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g tÃ¡rsasÃ¡gi szerzÅ‘dÃ©se (alapÃ­tÃ³ okirata) mÃ³dosÃ­tÃ¡sÃ¡nak napja: 2007. november 30.<ujsor/>
+Az Ã¡tvevÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©ge: 7032 IngatlankezelÃ©s.<ujsor/>
+VezetÅ‘ tisztsÃ©gviselÅ‘je (Ã¼gyvezetÅ‘je): Milicz SÃ¡ndor (3700 Kazincbarcika, Herbolyai Ãºt 17.).<ujsor/>
+A beolvadÃ³ Ã©s az Ã¡tvevÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡gok 2007. szeptember 30-i fordulÃ³nappal kÃ©szÃ¼lt vagyonmÃ©rleg-tervezetÃ©nek, valamint az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g beolvadÃ¡s utÃ¡ni Ã¡llapotot tÃ¼krÃ¶zÅ‘ Â­ 2007. szeptember 30-i fordulÃ³nappal kÃ©szÃ¼lt Â­ vagyonmÃ©rleg-tervezetÃ©nek adatai:<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK (aktívák)<ujsor/>
-Vagyonértékelés szerinti érték Különbözetek TIMPANON Kft. vagyona (jogutód)<ujsor/>
-TIMPANON Kft. (átvevõ) TELEKÉP Kft. (beolvadó) KAZINC Távhõ Kft. (beolvadó)<ujsor/>
-A) Befektetett eszközök 98 180 5 878 458 614 ­ 562 672<ujsor/>
-I. Immateriális javak 1 265 4 1 580 ­ 2 849<ujsor/>
-Vagyoni értékû jogok 1 265 ­ ­ ­ 1 265<ujsor/>
-Szellemi termékek ­ 4 1 580 ­ 1 584<ujsor/>
-II. Tárgyi eszközök 96 915 5 874 457 034 ­ 559 823<ujsor/>
-Ingatlanok és kapcsolódó vagyoni értékû jogok 86 364 1 416 329 655 ­ 417 435<ujsor/>
-Mûszaki berendezések, gépek, jármûvek 703 3 632 92 387 ­ 96 722<ujsor/>
-Egyéb berendezések, felszerelések, jármûvek 2 428 826 5 054 ­ 8 308<ujsor/>
-Beruházások, felújítások 7 420 ­ 29 938 ­ 37 358<ujsor/>
-Beruházásokra adott elõlegek ­ ­ ­ ­ ­<ujsor/>
-III. Befektetett pénzügyi eszközök ­ ­ ­ ­ ­<ujsor/>
-Egyéb tartós részesedés ­ ­ ­ ­ ­<ujsor/>
-B) Forgóeszközök 149 495 6 175 282 588 ­1757 436 501<ujsor/>
-I. Készletek 665 ­ 16 979 ­ 17 644<ujsor/>
-Anyagok 84 ­ 16 979 ­ 17 063<ujsor/>
-Növedék, hízó és egyéb állatok ­ ­ ­ ­ ­<ujsor/>
-Késztermékek ­ ­ ­ ­ ­<ujsor/>
-Áruk 581 ­ ­ ­ 581<ujsor/>
-II. Követelések 92 476 3 707 198 993 ­1757 293 419<ujsor/>
-Követelések áruszállításból és szolgáltatásból (vevõk) 46 828 3 305 160 746 ­1634 209 245<ujsor/>
-Követelések kapcsolt vállalkozással szemben ­ ­ ­ ­ ­<ujsor/>
-Egyéb követelések 45 648 402 38 247 ­123 84 174<ujsor/>
-III. Értékpapírok 51 550 ­ ­ ­ 51 550<ujsor/>
-IV. Pénzeszközök 4 804 2 468 66 616 ­ 73 888<ujsor/>
-Pénztár, csekkek 474 71 338 ­ 883<ujsor/>
-Bankbetétek 4 330 2 397 66 278 ­ 73 005<ujsor/>
-C) Aktív idõbeli elhatárolások 1 999 333 1 221 ­ 3 553<ujsor/>
-Bevételek aktív idõbeli elhatárolása 88 333 ­ ­ 421<ujsor/>
-Költségek, ráfordítások aktív idõbeli elhatárolása 1 911 ­ 1 221 ­ 3 132<ujsor/>
-ÖSSZESEN: 249 674 12 386 742 423 ­1757 1 002 726<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k)<ujsor/>
+VagyonÃ©rtÃ©kelÃ©s szerinti Ã©rtÃ©k KÃ¼lÃ¶nbÃ¶zetek TIMPANON Kft. vagyona (jogutÃ³d)<ujsor/>
+TIMPANON Kft. (Ã¡tvevÅ‘) TELEKÃ‰P Kft. (beolvadÃ³) KAZINC TÃ¡vhÅ‘ Kft. (beolvadÃ³)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 98 180 5 878 458 614 Â­ 562 672<ujsor/>
+I. ImmateriÃ¡lis javak 1 265 4 1 580 Â­ 2 849<ujsor/>
+Vagyoni Ã©rtÃ©kÅ± jogok 1 265 Â­ Â­ Â­ 1 265<ujsor/>
+Szellemi termÃ©kek Â­ 4 1 580 Â­ 1 584<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 96 915 5 874 457 034 Â­ 559 823<ujsor/>
+Ingatlanok Ã©s kapcsolÃ³dÃ³ vagyoni Ã©rtÃ©kÅ± jogok 86 364 1 416 329 655 Â­ 417 435<ujsor/>
+MÅ±szaki berendezÃ©sek, gÃ©pek, jÃ¡rmÅ±vek 703 3 632 92 387 Â­ 96 722<ujsor/>
+EgyÃ©b berendezÃ©sek, felszerelÃ©sek, jÃ¡rmÅ±vek 2 428 826 5 054 Â­ 8 308<ujsor/>
+BeruhÃ¡zÃ¡sok, felÃºjÃ­tÃ¡sok 7 420 Â­ 29 938 Â­ 37 358<ujsor/>
+BeruhÃ¡zÃ¡sokra adott elÅ‘legek Â­ Â­ Â­ Â­ Â­<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k Â­ Â­ Â­ Â­ Â­<ujsor/>
+EgyÃ©b tartÃ³s rÃ©szesedÃ©s Â­ Â­ Â­ Â­ Â­<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 149 495 6 175 282 588 Â­1757 436 501<ujsor/>
+I. KÃ©szletek 665 Â­ 16 979 Â­ 17 644<ujsor/>
+Anyagok 84 Â­ 16 979 Â­ 17 063<ujsor/>
+NÃ¶vedÃ©k, hÃ­zÃ³ Ã©s egyÃ©b Ã¡llatok Â­ Â­ Â­ Â­ Â­<ujsor/>
+KÃ©sztermÃ©kek Â­ Â­ Â­ Â­ Â­<ujsor/>
+Ãruk 581 Â­ Â­ Â­ 581<ujsor/>
+II. KÃ¶vetelÃ©sek 92 476 3 707 198 993 Â­1757 293 419<ujsor/>
+KÃ¶vetelÃ©sek Ã¡ruszÃ¡llÃ­tÃ¡sbÃ³l Ã©s szolgÃ¡ltatÃ¡sbÃ³l (vevÅ‘k) 46 828 3 305 160 746 Â­1634 209 245<ujsor/>
+KÃ¶vetelÃ©sek kapcsolt vÃ¡llalkozÃ¡ssal szemben Â­ Â­ Â­ Â­ Â­<ujsor/>
+EgyÃ©b kÃ¶vetelÃ©sek 45 648 402 38 247 Â­123 84 174<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 51 550 Â­ Â­ Â­ 51 550<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 4 804 2 468 66 616 Â­ 73 888<ujsor/>
+PÃ©nztÃ¡r, csekkek 474 71 338 Â­ 883<ujsor/>
+BankbetÃ©tek 4 330 2 397 66 278 Â­ 73 005<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 1 999 333 1 221 Â­ 3 553<ujsor/>
+BevÃ©telek aktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sa 88 333 Â­ Â­ 421<ujsor/>
+KÃ¶ltsÃ©gek, rÃ¡fordÃ­tÃ¡sok aktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sa 1 911 Â­ 1 221 Â­ 3 132<ujsor/>
+Ã–SSZESEN: 249 674 12 386 742 423 Â­1757 1 002 726<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK (passzívák)<ujsor/>
-Vagyonértékelés szerinti érték Különbözetek TIMPANON Kft. vagyona (jogutód)<ujsor/>
-TIMPANON Kft. (átvevõ) TELEKÉP Kft. (beolvadó) KAZINC Távhõ Kft. (beolvadó)<ujsor/>
-D) Saját tõke 101 076 5 143 424 749 ­ 530 968<ujsor/>
-I. Jegyzett tõke 57 590 3 710 349 790 ­ 411 090<ujsor/>
-Ebbõl: visszavásárolt tulajdoni részesedés névértéken ­ ­ ­ ­ ­<ujsor/>
-II. Jegyzett de még be nem fiz. tõke ­ ­ ­ ­<ujsor/>
-III. Tõketartalék 468 15 399 23 500 ­ 39 367<ujsor/>
-IV. Eredménytartalék 42 518 ­13 966 51 459 ­ 80 011<ujsor/>
-V. Lekötött tartalék 500 ­ ­ ­ 500<ujsor/>
-VI. Értékelési tartalék ­ ­ ­ ­ ­<ujsor/>
-E) Céltartalékok ­ ­ ­ ­ ­<ujsor/>
-F) Kötelezettségek 118 568 4 428 119 481 ­1757 240 720<ujsor/>
-I. Hátra sorolt kötelezettségek ­ ­ ­ ­ ­<ujsor/>
-II. Hosszú lejáratú kötelezettségek 10 530 ­ ­ ­ 10 530<ujsor/>
-III. Rövid lejáratú kötelezettségek 108 038 4 428 119 481 ­1757 230 190<ujsor/>
-Rövid lejáratú kölcsönök ­ 998 ­ ­ 998<ujsor/>
-Ebbõl: átváltoztatható kötvények ­ ­ ­ ­ ­<ujsor/>
-Rövid lejáratú hitelek ­ ­ ­ ­ ­<ujsor/>
-Vevõktõl kapott elõleg 37 001 ­ ­ ­ 37 001<ujsor/>
-Kötelezettségek áruszállításból és szolgáltatásból 7 930 1 554 76 674 ­1626 84 532<ujsor/>
-Rövid lejáratú kötelezettségek kapcsolt vállalkozással szemben ­ ­ ­ ­ ­<ujsor/>
-Egyéb rövid lejáratú kötelezettségek 63 107 1 876 42 807 ­131 107 659<ujsor/>
-G) Passzív idõbeli elhatárolások 30 030 2 815 198 193 ­ 231 038<ujsor/>
-Bevételek passzív idõbeli elhatárolása 22 748 1 211 ­ ­ 23 959<ujsor/>
-Költségek, ráfordítások passzív idõbeli elhatárolása 7 282 1 604 12 062 ­ 20 948<ujsor/>
-Halasztott bevétel ­ ­ 186 131 ­ 186 131<ujsor/>
-ÖSSZESEN: 249 674 12 386 742 423 ­1757 1 002 726<ujsor/>
-Felhívjuk a TIMPANON Kft. azon hitelezõit, akiknek vele szemben fennálló, le nem járt követelései az átalakulásról hozott döntés elsõ közzétételét megelõzõen keletkeztek, hogy követeléseik erejéig a döntés második közzétételét követõ harmincnapos jogvesztõ határidõn belül biztosítékot követelhetnek [2006. évi IV. tv. (2) bekezdés].<ujsor/>
-(Második közzététel.)<ujsor/>
+FORRÃSOK (passzÃ­vÃ¡k)<ujsor/>
+VagyonÃ©rtÃ©kelÃ©s szerinti Ã©rtÃ©k KÃ¼lÃ¶nbÃ¶zetek TIMPANON Kft. vagyona (jogutÃ³d)<ujsor/>
+TIMPANON Kft. (Ã¡tvevÅ‘) TELEKÃ‰P Kft. (beolvadÃ³) KAZINC TÃ¡vhÅ‘ Kft. (beolvadÃ³)<ujsor/>
+D) SajÃ¡t tÅ‘ke 101 076 5 143 424 749 Â­ 530 968<ujsor/>
+I. Jegyzett tÅ‘ke 57 590 3 710 349 790 Â­ 411 090<ujsor/>
+EbbÅ‘l: visszavÃ¡sÃ¡rolt tulajdoni rÃ©szesedÃ©s nÃ©vÃ©rtÃ©ken Â­ Â­ Â­ Â­ Â­<ujsor/>
+II. Jegyzett de mÃ©g be nem fiz. tÅ‘ke Â­ Â­ Â­ Â­<ujsor/>
+III. TÅ‘ketartalÃ©k 468 15 399 23 500 Â­ 39 367<ujsor/>
+IV. EredmÃ©nytartalÃ©k 42 518 Â­13 966 51 459 Â­ 80 011<ujsor/>
+V. LekÃ¶tÃ¶tt tartalÃ©k 500 Â­ Â­ Â­ 500<ujsor/>
+VI. Ã‰rtÃ©kelÃ©si tartalÃ©k Â­ Â­ Â­ Â­ Â­<ujsor/>
+E) CÃ©ltartalÃ©kok Â­ Â­ Â­ Â­ Â­<ujsor/>
+F) KÃ¶telezettsÃ©gek 118 568 4 428 119 481 Â­1757 240 720<ujsor/>
+I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek Â­ Â­ Â­ Â­ Â­<ujsor/>
+II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 10 530 Â­ Â­ Â­ 10 530<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 108 038 4 428 119 481 Â­1757 230 190<ujsor/>
+RÃ¶vid lejÃ¡ratÃº kÃ¶lcsÃ¶nÃ¶k Â­ 998 Â­ Â­ 998<ujsor/>
+EbbÅ‘l: Ã¡tvÃ¡ltoztathatÃ³ kÃ¶tvÃ©nyek Â­ Â­ Â­ Â­ Â­<ujsor/>
+RÃ¶vid lejÃ¡ratÃº hitelek Â­ Â­ Â­ Â­ Â­<ujsor/>
+VevÅ‘ktÅ‘l kapott elÅ‘leg 37 001 Â­ Â­ Â­ 37 001<ujsor/>
+KÃ¶telezettsÃ©gek Ã¡ruszÃ¡llÃ­tÃ¡sbÃ³l Ã©s szolgÃ¡ltatÃ¡sbÃ³l 7 930 1 554 76 674 Â­1626 84 532<ujsor/>
+RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek kapcsolt vÃ¡llalkozÃ¡ssal szemben Â­ Â­ Â­ Â­ Â­<ujsor/>
+EgyÃ©b rÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 63 107 1 876 42 807 Â­131 107 659<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 30 030 2 815 198 193 Â­ 231 038<ujsor/>
+BevÃ©telek passzÃ­v idÅ‘beli elhatÃ¡rolÃ¡sa 22 748 1 211 Â­ Â­ 23 959<ujsor/>
+KÃ¶ltsÃ©gek, rÃ¡fordÃ­tÃ¡sok passzÃ­v idÅ‘beli elhatÃ¡rolÃ¡sa 7 282 1 604 12 062 Â­ 20 948<ujsor/>
+Halasztott bevÃ©tel Â­ Â­ 186 131 Â­ 186 131<ujsor/>
+Ã–SSZESEN: 249 674 12 386 742 423 Â­1757 1 002 726<ujsor/>
+FelhÃ­vjuk a TIMPANON Kft. azon hitelezÅ‘it, akiknek vele szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei az Ã¡talakulÃ¡srÃ³l hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, hogy kÃ¶vetelÃ©seik erejÃ©ig a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek [2006. Ã©vi IV. tv. (2) bekezdÃ©s].<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0509001817</mezo>
-<mezo id = "nev">TIMPANON Ingatlankezelési Kft.</mezo>
+<mezo id = "nev">TIMPANON IngatlankezelÃ©si Kft.</mezo>
 <mezo id = "cim">3700 Kazincbarcika</mezo>
 </alrovat>
 </rovat>

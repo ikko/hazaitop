@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">065322</mezo>
 <mezo id = "nevalrovat">2</mezo>
-<mezo id = "cim">2119 Pécel, Kishársasmajor 0280/8. hrsz. </mezo>
+<mezo id = "cim">2119 PÃ©cel, KishÃ¡rsasmajor 0280/8. hrsz. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">10751893213</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20030616</mezo>
-<mezo id = "nev">KORNFARM Mezõgazdasági, Termelõ, Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">KORNFARM MezÅ‘gazdasÃ¡gi, TermelÅ‘, SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -26,8 +26,8 @@
 <alrovat id = "2">
 <mezo id = "hattol">19990923</mezo>
 <mezo id = "irsz">2119</mezo>
-<mezo id = "hely">Pécel</mezo>
-<mezo id = "teru">Kishársasmajor 0280/8. hrsz.</mezo>
+<mezo id = "hely">PÃ©cel</mezo>
+<mezo id = "teru">KishÃ¡rsasmajor 0280/8. hrsz.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "8">
@@ -406,12 +406,12 @@
 <rovat id = "13">
 <alrovat id = "7">
 <mezo id = "hattol">20110301</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Marczali Gábor</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Marczali GÃ¡bor</mezo>
 <mezo id = "panev">Bolla Julianna</mezo>
 <mezo id = "pirsz">8500</mezo>
-<mezo id = "phely">Pápa</mezo>
-<mezo id = "pteru">Gábor Dénes u. 11.</mezo>
+<mezo id = "phely">PÃ¡pa</mezo>
+<mezo id = "pteru">GÃ¡bor DÃ©nes u. 11.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20110301</mezo>
 <mezo id = "valtk">20110301</mezo>
@@ -423,12 +423,12 @@
 <alrovat id = "7">
 <mezo id = "hattol">20110301</mezo>
 <mezo id = "cgjsz">0109362029</mezo>
-<mezo id = "nev">EUROFORSZ Könyvvizsgáló és Pénzügyi- Gazdasági Tanácsadó Kft.</mezo>
+<mezo id = "nev">EUROFORSZ KÃ¶nyvvizsgÃ¡lÃ³ Ã©s PÃ©nzÃ¼gyi- GazdasÃ¡gi TanÃ¡csadÃ³ Kft.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1133</mezo>
 <mezo id = "hely">Budapest</mezo>
 <mezo id = "teru">Gogol u. 27. fsz. 1.</mezo>
-<mezo id = "pnev">Garay László</mezo>
+<mezo id = "pnev">Garay LÃ¡szlÃ³</mezo>
 <mezo id = "panev">Gabulya Julianna</mezo>
 <mezo id = "pirsz">1133</mezo>
 <mezo id = "phely">Budapest</mezo>
@@ -465,11 +465,11 @@
 <alrovat id = "26">
 <mezo id = "hattol">20110301</mezo>
 <mezo id = "cgjsz">1610001551</mezo>
-<mezo id = "nev">Alcsiszigeti Mezõgazdasági Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">Alcsiszigeti MezÅ‘gazdasÃ¡gi ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">5453</mezo>
-<mezo id = "hely">Mezõhék</mezo>
-<mezo id = "teru">Táncsics major 03/11.</mezo>
+<mezo id = "hely">MezÅ‘hÃ©k</mezo>
+<mezo id = "teru">TÃ¡ncsics major 03/11.</mezo>
 <mezo id = "tagsk">20060518</mezo>
 <mezo id = "sz2">x</mezo>
 <mezo id = "valtk">20110301</mezo>
@@ -485,100 +485,100 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság az 1999. 09. 01-én hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-12. Az ügyvezetõk önállóan írnak alá.<ujsor/>
- Törölve: 1999. 08. 17-i hatállyal.<ujsor/>
- Az ügyvezetõk együttesen írnak alá.<ujsor/>
- Hatályos: 1999. 08. 17-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g az 1999. 09. 01-Ã©n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+12. Az Ã¼gyvezetÅ‘k Ã¶nÃ¡llÃ³an Ã­rnak alÃ¡.<ujsor/>
+ TÃ¶rÃ¶lve: 1999. 08. 17-i hatÃ¡llyal.<ujsor/>
+ Az Ã¼gyvezetÅ‘k egyÃ¼ttesen Ã­rnak alÃ¡.<ujsor/>
+ HatÃ¡lyos: 1999. 08. 17-tÅ‘l.<ujsor/>
 Bejegyezve: 1999. 09. 02.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1309065322</mezo>
-<mezo id = "nev">MILK-FARM Mezõgazdasági, Termelõ, Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">2217 Gomba, Felsõfarkasd.</mezo>
+<mezo id = "nev">MILK-FARM MezÅ‘gazdasÃ¡gi, TermelÅ‘, SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2217 Gomba, FelsÅ‘farkasd.</mezo>
 <mezo id = "adosz">10751893213</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Kósa Dóra (lakhelye: 1111 Budapest, Budafoki út 20.) az 1997. évi CXLIV. tv. 292. § (1) bekezdése alapján közzéteszi, hogy a [13 09 065322] cégjegyzékszámú MILK-FARM Kft. (székhely: 2217 Gomba, Felsõfarkasd) 1 000 000 Ft-os törzstõkéjébõl átruházással 1 000 000 Ft névértékû üzletrészt szerzett meg 1999. augusztus 17-én, ezzel közvetlen irányítást biztosító befolyással rendelkezik a társaságban, mivel a szavazatok 100%-át gyakorolja.<ujsor/>
-Az 1997. évi CXLIV. tv. 296. § (2) bekezdése alapján felhívja a MILK-FARM Kft. azon hitelezõit, akiknek a MILK-FARM Kft.-vel szemben le nem járt követelései az e közzétételt megelõzõen keletkeztek, hogy a közzététel utáni 90 napos jogvesztõ határidõn belül követeléseik erejéig biztosítékot követelhetnek Kósa Dórától. A befolyásszerzés tényének és mértékének bejelentése az illetékes cégbíróság felé is megtörtént.<ujsor/>
+<mezo id = "szoveg">KÃ³sa DÃ³ra (lakhelye: 1111 Budapest, Budafoki Ãºt 20.) az 1997. Ã©vi CXLIV. tv. 292. Â§ (1) bekezdÃ©se alapjÃ¡n kÃ¶zzÃ©teszi, hogy a [13 09 065322] cÃ©gjegyzÃ©kszÃ¡mÃº MILK-FARM Kft. (szÃ©khely: 2217 Gomba, FelsÅ‘farkasd) 1 000 000 Ft-os tÃ¶rzstÅ‘kÃ©jÃ©bÅ‘l Ã¡truhÃ¡zÃ¡ssal 1 000 000 Ft nÃ©vÃ©rtÃ©kÅ± Ã¼zletrÃ©szt szerzett meg 1999. augusztus 17-Ã©n, ezzel kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡ssal rendelkezik a tÃ¡rsasÃ¡gban, mivel a szavazatok 100%-Ã¡t gyakorolja.<ujsor/>
+Az 1997. Ã©vi CXLIV. tv. 296. Â§ (2) bekezdÃ©se alapjÃ¡n felhÃ­vja a MILK-FARM Kft. azon hitelezÅ‘it, akiknek a MILK-FARM Kft.-vel szemben le nem jÃ¡rt kÃ¶vetelÃ©sei az e kÃ¶zzÃ©tÃ©telt megelÅ‘zÅ‘en keletkeztek, hogy a kÃ¶zzÃ©tÃ©tel utÃ¡ni 90 napos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l kÃ¶vetelÃ©seik erejÃ©ig biztosÃ­tÃ©kot kÃ¶vetelhetnek KÃ³sa DÃ³rÃ¡tÃ³l. A befolyÃ¡sszerzÃ©s tÃ©nyÃ©nek Ã©s mÃ©rtÃ©kÃ©nek bejelentÃ©se az illetÃ©kes cÃ©gbÃ­rÃ³sÃ¡g felÃ© is megtÃ¶rtÃ©nt.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1309065322</mezo>
-<mezo id = "nev">MILK-FARM Mezõgazdasági, Termelõ, Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">MILK-FARM MezÅ‘gazdasÃ¡gi, TermelÅ‘, SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Domestore Gazdasági és Üzletviteli Tanácsadó Kft. (1113 Budapest, Bartók Béla út 152.; cégjegyzékszám: [01 09 465190]) az 1997. évi CXLIV. tv. 292. § (1) bekezdése alapján közzéteszi, hogy a [13 09 065322] cégjegyzékszámú MILK-FARM Kft. (székhely: 2119 Pécel, Kishársas-major 0280/8. hrsz.) 49 000 000 Ft-os törzstõkéjébõl törzstõkeemeléssel 48 000 000 Ft névértékû üzletrészt szerzett meg 1999. december 3-án, ezzel közvetlen irányítást biztosító befolyással rendelkezik a társaságban, mivel a szavazatok 98%-át gyakorolja. Az 1997. évi CXLIV. tv. 296. §-ának (2) bekezdése alapján felhívja a MILK-FARM Kft. azon hitelezõit, akiknek a MILK-FARM Kft.-vel szembeni le nem járt követelései az e közzétételt megelõzõen keletkeztek, hogy a közzététel utáni 90 napos jogvesztõ határidõn belül követeléseik erejéig biztosítékot követelhetnek a Domestore Kft.-tõl.<ujsor/>
+<mezo id = "szoveg">A Domestore GazdasÃ¡gi Ã©s Ãœzletviteli TanÃ¡csadÃ³ Kft. (1113 Budapest, BartÃ³k BÃ©la Ãºt 152.; cÃ©gjegyzÃ©kszÃ¡m: [01 09 465190]) az 1997. Ã©vi CXLIV. tv. 292. Â§ (1) bekezdÃ©se alapjÃ¡n kÃ¶zzÃ©teszi, hogy a [13 09 065322] cÃ©gjegyzÃ©kszÃ¡mÃº MILK-FARM Kft. (szÃ©khely: 2119 PÃ©cel, KishÃ¡rsas-major 0280/8. hrsz.) 49 000 000 Ft-os tÃ¶rzstÅ‘kÃ©jÃ©bÅ‘l tÃ¶rzstÅ‘keemelÃ©ssel 48 000 000 Ft nÃ©vÃ©rtÃ©kÅ± Ã¼zletrÃ©szt szerzett meg 1999. december 3-Ã¡n, ezzel kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡ssal rendelkezik a tÃ¡rsasÃ¡gban, mivel a szavazatok 98%-Ã¡t gyakorolja. Az 1997. Ã©vi CXLIV. tv. 296. Â§-Ã¡nak (2) bekezdÃ©se alapjÃ¡n felhÃ­vja a MILK-FARM Kft. azon hitelezÅ‘it, akiknek a MILK-FARM Kft.-vel szembeni le nem jÃ¡rt kÃ¶vetelÃ©sei az e kÃ¶zzÃ©tÃ©telt megelÅ‘zÅ‘en keletkeztek, hogy a kÃ¶zzÃ©tÃ©tel utÃ¡ni 90 napos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l kÃ¶vetelÃ©seik erejÃ©ig biztosÃ­tÃ©kot kÃ¶vetelhetnek a Domestore Kft.-tÅ‘l.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1309065322</mezo>
-<mezo id = "nev">MILK-FARM Mezõgazdasági, Termelõ, Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">MILK-FARM MezÅ‘gazdasÃ¡gi, TermelÅ‘, SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az ERAVIS Szálloda és Vendéglátó Részvénytársaság (1113 Budapest, Bartók Béla út 152.; cégjegyzékszám: [01 10 041783]; cégképviselõ: Karikás György vezérigazgató) az 1997. évi CXLIV. tv. 292. § (1) bekezdése alapján közzéteszi, hogy a [13 09 065322] cégjegyzékszámú MILK-FARM Kft. (székhely: 2119 Pécel, Kishársas major 0280/8. hrsz.) 49 000 000 Ft-os törzstõkéjébõl átruházással 48 000 000 Ft névértékû üzletrészt szerzett meg 2000. február 21-én, ezzel közvetlen irányítást biztosító befolyással rendelkezik a társaságban, mivel a szavazatok 98%-át birtokolja.<ujsor/>
-Az 1997. évi CXLIV. tv. 296. §-ának (2) bekezdése alapján felhívja a MILK-FARM Kft. azon hitelezõit, akiknek a MILK-FARM Kft.-vel szembeni le nem járt követelései a közzétételt megelõzõen keletkeztek, hogy a közzététel utáni 90 napos jogvesztõ határidõn belül követeléseik erejéig biztosítékot követelhetnek az ERAVIS Rt.-tõl. A befolyásszerzés tényének és mértékének bejelentése az illetékes cégbíróság felé is megtörtént.<ujsor/>
+<mezo id = "szoveg">Az ERAVIS SzÃ¡lloda Ã©s VendÃ©glÃ¡tÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g (1113 Budapest, BartÃ³k BÃ©la Ãºt 152.; cÃ©gjegyzÃ©kszÃ¡m: [01 10 041783]; cÃ©gkÃ©pviselÅ‘: KarikÃ¡s GyÃ¶rgy vezÃ©rigazgatÃ³) az 1997. Ã©vi CXLIV. tv. 292. Â§ (1) bekezdÃ©se alapjÃ¡n kÃ¶zzÃ©teszi, hogy a [13 09 065322] cÃ©gjegyzÃ©kszÃ¡mÃº MILK-FARM Kft. (szÃ©khely: 2119 PÃ©cel, KishÃ¡rsas major 0280/8. hrsz.) 49 000 000 Ft-os tÃ¶rzstÅ‘kÃ©jÃ©bÅ‘l Ã¡truhÃ¡zÃ¡ssal 48 000 000 Ft nÃ©vÃ©rtÃ©kÅ± Ã¼zletrÃ©szt szerzett meg 2000. februÃ¡r 21-Ã©n, ezzel kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡ssal rendelkezik a tÃ¡rsasÃ¡gban, mivel a szavazatok 98%-Ã¡t birtokolja.<ujsor/>
+Az 1997. Ã©vi CXLIV. tv. 296. Â§-Ã¡nak (2) bekezdÃ©se alapjÃ¡n felhÃ­vja a MILK-FARM Kft. azon hitelezÅ‘it, akiknek a MILK-FARM Kft.-vel szembeni le nem jÃ¡rt kÃ¶vetelÃ©sei a kÃ¶zzÃ©tÃ©telt megelÅ‘zÅ‘en keletkeztek, hogy a kÃ¶zzÃ©tÃ©tel utÃ¡ni 90 napos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l kÃ¶vetelÃ©seik erejÃ©ig biztosÃ­tÃ©kot kÃ¶vetelhetnek az ERAVIS Rt.-tÅ‘l. A befolyÃ¡sszerzÃ©s tÃ©nyÃ©nek Ã©s mÃ©rtÃ©kÃ©nek bejelentÃ©se az illetÃ©kes cÃ©gbÃ­rÃ³sÃ¡g felÃ© is megtÃ¶rtÃ©nt.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1309065322</mezo>
-<mezo id = "nev">MILK-FARM Mezõgazdasági, Termelõ, Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">MILK-FARM MezÅ‘gazdasÃ¡gi, TermelÅ‘, SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az ERAVIS Szálloda és Vendéglátó Rt. (1113 Budapest, Bartók Béla út 152.; Cg.: [01 10 041783]), az 1997. évi CXLIV. tv. 292. §-ában írott kötelezettségének eleget téve, ezúton közzéteszi, hogy 2000. február 21-én közvetlen irányítást biztosító befolyást szerzett a Pest Megyei Bíróság mint Cégbíróság által a Cg. [13 09 065322] szám alatt a cégjegyzékbe bejegyzett MILK-FARM Mezõgazdasági, Termelõ, Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaságban (2119 Pécel, Kishársasmajor 0280/8. hrsz.), mely befolyás alapján a MILK-FARM Mezõgazdasági, Termelõ, Szolgáltató és Kereskedelmi Kft.-ben a szavazatok 98%-ával rendelkezik.<ujsor/>
-A hitelezõk a Gt. 296. § (2) bekezdésében foglalt jogaikat gyakorolhatják.<ujsor/>
+<mezo id = "szoveg">Az ERAVIS SzÃ¡lloda Ã©s VendÃ©glÃ¡tÃ³ Rt. (1113 Budapest, BartÃ³k BÃ©la Ãºt 152.; Cg.: [01 10 041783]), az 1997. Ã©vi CXLIV. tv. 292. Â§-Ã¡ban Ã­rott kÃ¶telezettsÃ©gÃ©nek eleget tÃ©ve, ezÃºton kÃ¶zzÃ©teszi, hogy 2000. februÃ¡r 21-Ã©n kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡st szerzett a Pest Megyei BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g Ã¡ltal a Cg. [13 09 065322] szÃ¡m alatt a cÃ©gjegyzÃ©kbe bejegyzett MILK-FARM MezÅ‘gazdasÃ¡gi, TermelÅ‘, SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gban (2119 PÃ©cel, KishÃ¡rsasmajor 0280/8. hrsz.), mely befolyÃ¡s alapjÃ¡n a MILK-FARM MezÅ‘gazdasÃ¡gi, TermelÅ‘, SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi Kft.-ben a szavazatok 98%-Ã¡val rendelkezik.<ujsor/>
+A hitelezÅ‘k a Gt. 296. Â§ (2) bekezdÃ©sÃ©ben foglalt jogaikat gyakorolhatjÃ¡k.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1309065322</mezo>
-<mezo id = "nev">MILK-FARM Mezõgazdasági, Termelõ, Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">MILK-FARM MezÅ‘gazdasÃ¡gi, TermelÅ‘, SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az Amadia Befektetési Rt. (székhely: 1051 Budapest, Hercegprímás u. 12.; képv.: Kárpáti Ágnes vezérigazgató; Cg.: [01 10 044257]) az 1997. évi CXLIV. tv. 292. § (1) bekezdése alapján közzéteszi, hogy a [13 09 065322] cégjegyzékszámú MILK-FARM Mezõgazdasági, Termelõ, Szolgáltató és Kereskedelmi Kft. (székhely: 2119 Pécel, Kishársas major 0280/8. hrsz.) 49 000 000 Ft-os törzstõkéjébõl üzletrész-átruházással 48 000 000 Ft névértékû üzletrészt szerzett meg 2000. december 28-án, ezzel közvetlen irányítást biztosító befolyással rendelkezik a társaságban, mivel a szavazatok 98%-át gyakorolja.<ujsor/>
-A hitelezõk a Gt. 296. § (2) bekezdésében foglalt jogaikat gyakorolhatják.<ujsor/>
+<mezo id = "szoveg">Az Amadia BefektetÃ©si Rt. (szÃ©khely: 1051 Budapest, HercegprÃ­mÃ¡s u. 12.; kÃ©pv.: KÃ¡rpÃ¡ti Ãgnes vezÃ©rigazgatÃ³; Cg.: [01 10 044257]) az 1997. Ã©vi CXLIV. tv. 292. Â§ (1) bekezdÃ©se alapjÃ¡n kÃ¶zzÃ©teszi, hogy a [13 09 065322] cÃ©gjegyzÃ©kszÃ¡mÃº MILK-FARM MezÅ‘gazdasÃ¡gi, TermelÅ‘, SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi Kft. (szÃ©khely: 2119 PÃ©cel, KishÃ¡rsas major 0280/8. hrsz.) 49 000 000 Ft-os tÃ¶rzstÅ‘kÃ©jÃ©bÅ‘l Ã¼zletrÃ©sz-Ã¡truhÃ¡zÃ¡ssal 48 000 000 Ft nÃ©vÃ©rtÃ©kÅ± Ã¼zletrÃ©szt szerzett meg 2000. december 28-Ã¡n, ezzel kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡ssal rendelkezik a tÃ¡rsasÃ¡gban, mivel a szavazatok 98%-Ã¡t gyakorolja.<ujsor/>
+A hitelezÅ‘k a Gt. 296. Â§ (2) bekezdÃ©sÃ©ben foglalt jogaikat gyakorolhatjÃ¡k.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1309065322</mezo>
-<mezo id = "nev">MILK-FARM Mezõgazdasági, Termelõ, Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">MILK-FARM MezÅ‘gazdasÃ¡gi, TermelÅ‘, SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az AMIDA Befektetési Rt. (Cg.: [01 10 044257]; 1111 Budapest, Csiky u. 1.) az 1997. évi CXLIV. törvény 292. §-ában írott kötelezettségének eleget téve közzéteszi, hogy 2003. május 15-én, üzletrész-adásvétel útján közvetlen irányítást biztosító befolyást szerzett a Pest Megyei Bíróság mint Cégbíróság által bejegyzett KORNFARM Mezõgazdasági, Termelõ, Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaságban (Cg.: [13 09 065322]; 2119 Pécel, Kishársasmajor 0280/8. hrsz.) ez alapján a szavazatok 100%-ával rendelkezik.<ujsor/>
-A hitelezõk a Gt. 296. § (2) bekezdése szerinti jogaikat gyakorolhatják.<ujsor/>
+<mezo id = "szoveg">Az AMIDA BefektetÃ©si Rt. (Cg.: [01 10 044257]; 1111 Budapest, Csiky u. 1.) az 1997. Ã©vi CXLIV. tÃ¶rvÃ©ny 292. Â§-Ã¡ban Ã­rott kÃ¶telezettsÃ©gÃ©nek eleget tÃ©ve kÃ¶zzÃ©teszi, hogy 2003. mÃ¡jus 15-Ã©n, Ã¼zletrÃ©sz-adÃ¡svÃ©tel ÃºtjÃ¡n kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡st szerzett a Pest Megyei BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g Ã¡ltal bejegyzett KORNFARM MezÅ‘gazdasÃ¡gi, TermelÅ‘, SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gban (Cg.: [13 09 065322]; 2119 PÃ©cel, KishÃ¡rsasmajor 0280/8. hrsz.) ez alapjÃ¡n a szavazatok 100%-Ã¡val rendelkezik.<ujsor/>
+A hitelezÅ‘k a Gt. 296. Â§ (2) bekezdÃ©se szerinti jogaikat gyakorolhatjÃ¡k.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1309065322</mezo>
-<mezo id = "nev">KORNFARM Mezõgazdasági, Termelõ, Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">KORNFARM MezÅ‘gazdasÃ¡gi, TermelÅ‘, SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A FORRÁS Vagyonkezelési és Befektetési Részvénytársaság (Cg.: [01 10 043872]; 1113 Budapest, Bartók Béla út 152.) 2005 február 11-i hatállyal megvásárolta a NAVIK Befektetési Részvénytársaságnak (Cg.: [01 10 044257]; képviseli: Dudás Rita vezérigazgató) a KORNFARM Mezõgazdasági, Termelõ, Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaságban (Cg.: [13 09 065322]; 2119 Pécel, Kirshársasmajor 0280/8. hrsz.) levõ 100%-ot kitevõ üzletrészét, melynek névértéke 49 000 000 Ft (negyvenkilencmillió forint), így közvetlen irányítást biztosító befolyással rendelkezik a társaság felett.<ujsor/>
-A társaság felhívja azokat a hitelezõit, akiknek a KORNFARM Mezõgazdasági, Termelõ, Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társasággal szembeni le nem járt követelései a befolyás közzétételét megelõzõen keletkeztek, hogy követeléseik erejéig terjedõ biztosíték iránti igényüket a közzétételt követõ kilencvennapos jogvesztõ határidõn belül jelentsék be.<ujsor/>
+<mezo id = "szoveg">A FORRÃS VagyonkezelÃ©si Ã©s BefektetÃ©si RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 043872]; 1113 Budapest, BartÃ³k BÃ©la Ãºt 152.) 2005 februÃ¡r 11-i hatÃ¡llyal megvÃ¡sÃ¡rolta a NAVIK BefektetÃ©si RÃ©szvÃ©nytÃ¡rsasÃ¡gnak (Cg.: [01 10 044257]; kÃ©pviseli: DudÃ¡s Rita vezÃ©rigazgatÃ³) a KORNFARM MezÅ‘gazdasÃ¡gi, TermelÅ‘, SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gban (Cg.: [13 09 065322]; 2119 PÃ©cel, KirshÃ¡rsasmajor 0280/8. hrsz.) levÅ‘ 100%-ot kitevÅ‘ Ã¼zletrÃ©szÃ©t, melynek nÃ©vÃ©rtÃ©ke 49 000 000 Ft (negyvenkilencmilliÃ³ forint), Ã­gy kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡ssal rendelkezik a tÃ¡rsasÃ¡g felett.<ujsor/>
+A tÃ¡rsasÃ¡g felhÃ­vja azokat a hitelezÅ‘it, akiknek a KORNFARM MezÅ‘gazdasÃ¡gi, TermelÅ‘, SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡ggal szembeni le nem jÃ¡rt kÃ¶vetelÃ©sei a befolyÃ¡s kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, hogy kÃ¶vetelÃ©seik erejÃ©ig terjedÅ‘ biztosÃ­tÃ©k irÃ¡nti igÃ©nyÃ¼ket a kÃ¶zzÃ©tÃ©telt kÃ¶vetÅ‘ kilencvennapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l jelentsÃ©k be.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1309065322</mezo>
-<mezo id = "nev">KORNFARM Mezõgazdasági, Termelõ, Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">2119 Pécel</mezo>
+<mezo id = "nev">KORNFARM MezÅ‘gazdasÃ¡gi, TermelÅ‘, SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2119 PÃ©cel</mezo>
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A NAVIK Befektetési Rt. (Cg.: [01 10 044257]; 1037 Budapest, Szépvölgyi út 41.) az 1997. évi CXLIV. törvény 292. §-ában írott kötelezettségének eleget téve közzéteszi, hogy 2005. október 25-én, üzletrész adásvétel útján közvetlen irányítást biztosító befolyást szerzett a Fõvárosi Bíróság mint Cégbíróság által bejegyzett KORNFARM Mezõgazdasági, Termelõ, Szolgáltató és Kereskedelmi Kft.-ben (Cg.: [01 09 044257]; 2119 Pécel, Kishársasmajor, 0280/8. hrsz.), ez alapján a szavazatok 100%-ával rendelkezik.<ujsor/>
-A hitelezõk a Gt. 296. § (2) bekezdésében foglalt jogaikat gyakorolhatják.<ujsor/>
+<mezo id = "szoveg">A NAVIK BefektetÃ©si Rt. (Cg.: [01 10 044257]; 1037 Budapest, SzÃ©pvÃ¶lgyi Ãºt 41.) az 1997. Ã©vi CXLIV. tÃ¶rvÃ©ny 292. Â§-Ã¡ban Ã­rott kÃ¶telezettsÃ©gÃ©nek eleget tÃ©ve kÃ¶zzÃ©teszi, hogy 2005. oktÃ³ber 25-Ã©n, Ã¼zletrÃ©sz adÃ¡svÃ©tel ÃºtjÃ¡n kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡st szerzett a FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g Ã¡ltal bejegyzett KORNFARM MezÅ‘gazdasÃ¡gi, TermelÅ‘, SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi Kft.-ben (Cg.: [01 09 044257]; 2119 PÃ©cel, KishÃ¡rsasmajor, 0280/8. hrsz.), ez alapjÃ¡n a szavazatok 100%-Ã¡val rendelkezik.<ujsor/>
+A hitelezÅ‘k a Gt. 296. Â§ (2) bekezdÃ©sÃ©ben foglalt jogaikat gyakorolhatjÃ¡k.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1309065322</mezo>
-<mezo id = "nev">KORNFARM Mezõgazdasági, Termelõ, Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">2119 Pécel</mezo>
+<mezo id = "nev">KORNFARM MezÅ‘gazdasÃ¡gi, TermelÅ‘, SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2119 PÃ©cel</mezo>
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az Alcsiszigeti Mezõgazdasági Zártkörûen Mûködõ Részvénytársaság (Cg.: [16 10 001551]; székhelye: 5002 Szolnok-Alcsisziget, Keszeg u. 2.) az 1997. évi CXLIV. tv. 292. §-ában írott kötelezettségének eleget téve közzéteszi, hogy 2006. május 3-án, üzletrész-adásvétel útján közvetlen irányítást biztosító befolyást szerzett a KORNFARM Mezõgazdasági, Termelõ, Szolgáltató és Kereskedelmi Kft.-ben (Cg.: [01 10 044257]; 2119 Pécel, Kishársas major 0280/8. hrsz.), ez alapján a társaságban a szavazatok 100%-ával rendelkezik.<ujsor/>
-A hitelezõk a Gt. 296. § (2) bekezdése szerinti jogaikat gyakorolhatják.<ujsor/>
+<mezo id = "szoveg">Az Alcsiszigeti MezÅ‘gazdasÃ¡gi ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [16 10 001551]; szÃ©khelye: 5002 Szolnok-Alcsisziget, Keszeg u. 2.) az 1997. Ã©vi CXLIV. tv. 292. Â§-Ã¡ban Ã­rott kÃ¶telezettsÃ©gÃ©nek eleget tÃ©ve kÃ¶zzÃ©teszi, hogy 2006. mÃ¡jus 3-Ã¡n, Ã¼zletrÃ©sz-adÃ¡svÃ©tel ÃºtjÃ¡n kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡st szerzett a KORNFARM MezÅ‘gazdasÃ¡gi, TermelÅ‘, SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi Kft.-ben (Cg.: [01 10 044257]; 2119 PÃ©cel, KishÃ¡rsas major 0280/8. hrsz.), ez alapjÃ¡n a tÃ¡rsasÃ¡gban a szavazatok 100%-Ã¡val rendelkezik.<ujsor/>
+A hitelezÅ‘k a Gt. 296. Â§ (2) bekezdÃ©se szerinti jogaikat gyakorolhatjÃ¡k.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1309065322</mezo>
-<mezo id = "nev">KORNFARM Mezõgazdasági, Termelõ, Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">2119 Pécel</mezo>
+<mezo id = "nev">KORNFARM MezÅ‘gazdasÃ¡gi, TermelÅ‘, SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2119 PÃ©cel</mezo>
 </alrovat>
 </rovat>
 <rovat id = "99017">

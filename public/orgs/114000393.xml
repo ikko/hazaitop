@@ -7,7 +7,7 @@
 <mezo id = "nevalrovat">1</mezo>
 <mezo id = "regi_szh">1614000030</mezo>
 <mezo id = "allapot">6</mezo>
-<mezo id = "cim">1143 Budapest, Szobránc utca 6-8. </mezo>
+<mezo id = "cim">1143 Budapest, SzobrÃ¡nc utca 6-8. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">20638676242</mezo>
 </alrovat>
@@ -15,13 +15,13 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20000221</mezo>
-<mezo id = "nev">PERFEKT Akadémia Oktatási és Szolgáltató Közhasznú Társaság</mezo>
+<mezo id = "nev">PERFEKT AkadÃ©mia OktatÃ¡si Ã©s SzolgÃ¡ltatÃ³ KÃ¶zhasznÃº TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">20000221</mezo>
-<mezo id = "nev">PERFEKT Akadémia Kht.</mezo>
+<mezo id = "nev">PERFEKT AkadÃ©mia Kht.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
@@ -29,7 +29,7 @@
 <mezo id = "hattol">20050701</mezo>
 <mezo id = "irsz">1143</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Szobránc utca 6-8.</mezo>
+<mezo id = "teru">SzobrÃ¡nc utca 6-8.</mezo>
 <mezo id = "kirsz">0</mezo>
 </alrovat>
 </rovat>
@@ -238,7 +238,7 @@
 </alrovat>
 <alrovat id = "34">
 <mezo id = "hattol">20000221</mezo>
-<mezo id = "sznev">(kizárólag számviteli tevékenység)</mezo>
+<mezo id = "sznev">(kizÃ¡rÃ³lag szÃ¡mviteli tevÃ©kenysÃ©g)</mezo>
 <mezo id = "tea08">6920</mezo>
 </alrovat>
 <alrovat id = "35">
@@ -307,10 +307,10 @@
 <rovat id = "13">
 <alrovat id = "10">
 <mezo id = "hattol">20071201</mezo>
-<mezo id = "pnev">Dr. Dobay Péter</mezo>
-<mezo id = "panev">Nyul Gyöngyike</mezo>
+<mezo id = "pnev">Dr. Dobay PÃ©ter</mezo>
+<mezo id = "panev">Nyul GyÃ¶ngyike</mezo>
 <mezo id = "pirsz">7623</mezo>
-<mezo id = "phely">Pécs, Alkony utca 8.</mezo>
+<mezo id = "phely">PÃ©cs, Alkony utca 8.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">d</mezo>
 <mezo id = "jogvk">20071201</mezo>
@@ -324,16 +324,16 @@
 <alrovat id = "7">
 <mezo id = "hattol">20070901</mezo>
 <mezo id = "cgjsz">109078084</mezo>
-<mezo id = "nev">AUDIT-SERVICE Könyvszakértõ, Adó- és Vezetési Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">AUDIT-SERVICE KÃ¶nyvszakÃ©rtÅ‘, AdÃ³- Ã©s VezetÃ©si TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1022</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Bimbó u.</mezo>
+<mezo id = "teru">BimbÃ³ u.</mezo>
 <mezo id = "hsz">3.</mezo>
-<mezo id = "pnev">dr. Serényi Iván</mezo>
+<mezo id = "pnev">dr. SerÃ©nyi IvÃ¡n</mezo>
 <mezo id = "panev">Desser Ibolya</mezo>
 <mezo id = "pirsz">1025</mezo>
-<mezo id = "phely">Budapest, Zöldkõ u. 4/7.</mezo>
+<mezo id = "phely">Budapest, ZÃ¶ldkÅ‘ u. 4/7.</mezo>
 <mezo id = "jogvk">20070901</mezo>
 <mezo id = "jogvv">20080531</mezo>
 <mezo id = "valtk">20070901</mezo>
@@ -345,8 +345,8 @@
 <rovat id = "15">
 <alrovat id = "13">
 <mezo id = "hattol">20060309</mezo>
-<mezo id = "pnev">Kiss János Tamás</mezo>
-<mezo id = "panev">Mátyás Karolina</mezo>
+<mezo id = "pnev">Kiss JÃ¡nos TamÃ¡s</mezo>
+<mezo id = "panev">MÃ¡tyÃ¡s Karolina</mezo>
 <mezo id = "pirsz">1204</mezo>
 <mezo id = "phely">Budapest, Bocskai u. 9.</mezo>
 <mezo id = "jogvk">20060309</mezo>
@@ -355,19 +355,19 @@
 <alrovat id = "16">
 <mezo id = "hattol">20070723</mezo>
 <mezo id = "pnev">Szepessy Hajnalka</mezo>
-<mezo id = "panev">Sulyok Ágnes</mezo>
+<mezo id = "panev">Sulyok Ãgnes</mezo>
 <mezo id = "pirsz">1029</mezo>
-<mezo id = "phely">Budapest, Kútföldi út. 1/ A .</mezo>
+<mezo id = "phely">Budapest, KÃºtfÃ¶ldi Ãºt. 1/ A .</mezo>
 <mezo id = "jogvk">20070625</mezo>
 <mezo id = "valtk">20070625</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
 <alrovat id = "17">
 <mezo id = "hattol">20070723</mezo>
-<mezo id = "pnev">Jármai Jánosné sz. Jánosi Anna</mezo>
-<mezo id = "panev">Milbich Terézia</mezo>
+<mezo id = "pnev">JÃ¡rmai JÃ¡nosnÃ© sz. JÃ¡nosi Anna</mezo>
+<mezo id = "panev">Milbich TerÃ©zia</mezo>
 <mezo id = "pirsz">2083</mezo>
-<mezo id = "phely">Solymár, József Attila utca 6.</mezo>
+<mezo id = "phely">SolymÃ¡r, JÃ³zsef Attila utca 6.</mezo>
 <mezo id = "jogvk">20070625</mezo>
 <mezo id = "valtk">20070625</mezo>
 <mezo id = "valtv">0</mezo>
@@ -398,11 +398,11 @@
 <alrovat id = "4">
 <mezo id = "hattol">20051115</mezo>
 <mezo id = "cgjsz">110041643</mezo>
-<mezo id = "nev">Láng Kiadó és Holding Zrt.</mezo>
+<mezo id = "nev">LÃ¡ng KiadÃ³ Ã©s Holding Zrt.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1055</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Balassi Bálint u.</mezo>
+<mezo id = "teru">Balassi BÃ¡lint u.</mezo>
 <mezo id = "hsz">7.</mezo>
 </alrovat>
 </rovat>
@@ -415,27 +415,27 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a cég 2007. 12. 20. napján<ujsor/>
-benyújtott változás bejegyzése iránti kérelmét elutasítja.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a cÃ©g 2007. 12. 20. napjÃ¡n<ujsor/>
+benyÃºjtott vÃ¡ltozÃ¡s bejegyzÃ©se irÃ¡nti kÃ©relmÃ©t elutasÃ­tja.<ujsor/>
 2008. 01. 17.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0114000393</mezo>
-<mezo id = "nev">PERFEKT Akadémia Oktatási és Szolgáltató Közhasznú Társaság</mezo>
-<mezo id = "cim">1143 Budapest, Szobránc utca 6-8.</mezo>
+<mezo id = "nev">PERFEKT AkadÃ©mia OktatÃ¡si Ã©s SzolgÃ¡ltatÃ³ KÃ¶zhasznÃº TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1143 Budapest, SzobrÃ¡nc utca 6-8.</mezo>
 <mezo id = "adosz">20638676242</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A cég átalakulás miatt a cégjegyzékbõl törölve.<ujsor/>
-A törlés kelte: 2008. 03. 03.<ujsor/>
-Jogutód(ok):<ujsor/>
- [01 09 894013] PERFEKT Akadémia Oktatási és Szolgáltató Nonprofit Közhasznú Korlátolt Felelõsségû Társaság.<ujsor/>
+<mezo id = "szoveg">A cÃ©g Ã¡talakulÃ¡s miatt a cÃ©gjegyzÃ©kbÅ‘l tÃ¶rÃ¶lve.<ujsor/>
+A tÃ¶rlÃ©s kelte: 2008. 03. 03.<ujsor/>
+JogutÃ³d(ok):<ujsor/>
+ [01 09 894013] PERFEKT AkadÃ©mia OktatÃ¡si Ã©s SzolgÃ¡ltatÃ³ Nonprofit KÃ¶zhasznÃº KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
 Bejegyezve: 2008. 03. 03.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0114000393</mezo>
-<mezo id = "nev">PERFEKT Akadémia Oktatási és Szolgáltató Közhasznú Társaság</mezo>
-<mezo id = "cim">1143 Budapest, Szobránc utca 6-8.</mezo>
+<mezo id = "nev">PERFEKT AkadÃ©mia OktatÃ¡si Ã©s SzolgÃ¡ltatÃ³ KÃ¶zhasznÃº TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1143 Budapest, SzobrÃ¡nc utca 6-8.</mezo>
 <mezo id = "adosz">20638676242</mezo>
 </alrovat>
 </rovat>

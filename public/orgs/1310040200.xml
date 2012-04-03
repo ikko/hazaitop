@@ -5,7 +5,7 @@
 <mezo id = "cf">10</mezo>
 <mezo id = "szam">040200</mezo>
 <mezo id = "nevalrovat">3</mezo>
-<mezo id = "cim">2000 Szentendre, Dózsa Gy.u.20. </mezo>
+<mezo id = "cim">2000 Szentendre, DÃ³zsa Gy.u.20. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">10874248213</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "3">
 <mezo id = "hattol">20070626</mezo>
-<mezo id = "nev">SzeBeton Szentendrei Betonárugyár Zártkörûen mûködõ részvénytársaság</mezo>
+<mezo id = "nev">SzeBeton Szentendrei BetonÃ¡rugyÃ¡r ZÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ rÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -31,14 +31,14 @@
 <mezo id = "hattol">19930531</mezo>
 <mezo id = "irsz">2000</mezo>
 <mezo id = "hely">Szentendre</mezo>
-<mezo id = "teru">Dózsa Gy.u.20.</mezo>
+<mezo id = "teru">DÃ³zsa Gy.u.20.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "6">
 <alrovat id = "1">
 <mezo id = "hattol">19980526</mezo>
 <mezo id = "irsz">2600</mezo>
-<mezo id = "hely">Vác</mezo>
+<mezo id = "hely">VÃ¡c</mezo>
 <mezo id = "teru">Avar</mezo>
 <mezo id = "terj">u.</mezo>
 <mezo id = "hsz">5</mezo>
@@ -564,7 +564,7 @@
 <rovat id = "13">
 <alrovat id = "11">
 <mezo id = "hattol">19940426</mezo>
-<mezo id = "nev">Gilányi András vezérigazgató</mezo>
+<mezo id = "nev">GilÃ¡nyi AndrÃ¡s vezÃ©rigazgatÃ³</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1104</mezo>
 <mezo id = "hely">Budapest</mezo>
@@ -572,19 +572,19 @@
 </alrovat>
 <alrovat id = "22">
 <mezo id = "hattol">20010712</mezo>
-<mezo id = "tiszt">igazgatósági tag</mezo>
-<mezo id = "pnev">Tóth László</mezo>
-<mezo id = "panev">Molnár Piroska</mezo>
+<mezo id = "tiszt">igazgatÃ³sÃ¡gi tag</mezo>
+<mezo id = "pnev">TÃ³th LÃ¡szlÃ³</mezo>
+<mezo id = "panev">MolnÃ¡r Piroska</mezo>
 <mezo id = "pirsz">1181</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Vaskút u. 116.</mezo>
+<mezo id = "pteru">VaskÃºt u. 116.</mezo>
 </alrovat>
 <alrovat id = "39">
 <mezo id = "hattol">20050630</mezo>
-<mezo id = "pnev">Horváth Zoltán</mezo>
+<mezo id = "pnev">HorvÃ¡th ZoltÃ¡n</mezo>
 <mezo id = "panev">Kling Anna</mezo>
 <mezo id = "pirsz">1028</mezo>
-<mezo id = "phely">Budapest, Kertváros u. 59.</mezo>
+<mezo id = "phely">Budapest, KertvÃ¡ros u. 59.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">2</mezo>
 <mezo id = "jogvk">20050701</mezo>
@@ -601,11 +601,11 @@
 <mezo id = "tv">c</mezo>
 <mezo id = "jogvk">20070514</mezo>
 <mezo id = "jogvv">20080630</mezo>
-<mezo id = "pcnev">Winkler és Társai Ü.I .</mezo>
+<mezo id = "pcnev">Winkler Ã©s TÃ¡rsai Ãœ.I .</mezo>
 <mezo id = "pcanev">0</mezo>
 <mezo id = "pcirsz">1118</mezo>
 <mezo id = "pchely">Budapest</mezo>
-<mezo id = "pcteru">Sümegvár u. 20.</mezo>
+<mezo id = "pcteru">SÃ¼megvÃ¡r u. 20.</mezo>
 <mezo id = "valtk">20070514</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -627,7 +627,7 @@
 </alrovat>
 <alrovat id = "58">
 <mezo id = "hattol">20100510</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
 <mezo id = "pnev">Ernestos Varvaroussis</mezo>
 <mezo id = "panev">Brigitte Donner</mezo>
 <mezo id = "kepvo">x</mezo>
@@ -639,9 +639,9 @@
 </alrovat>
 <alrovat id = "59">
 <mezo id = "hattol">20100510</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Tóth Péter</mezo>
-<mezo id = "panev">Schöberl Rozália</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">TÃ³th PÃ©ter</mezo>
+<mezo id = "panev">SchÃ¶berl RozÃ¡lia</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20040816</mezo>
 <mezo id = "jogvv">20150510</mezo>
@@ -651,8 +651,8 @@
 </alrovat>
 <alrovat id = "60">
 <mezo id = "hattol">20100510</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Horváth Zoltán</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">HorvÃ¡th ZoltÃ¡n</mezo>
 <mezo id = "panev">Kling Anna</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20040816</mezo>
@@ -665,7 +665,7 @@
 <rovat id = "14">
 <alrovat id = "2">
 <mezo id = "hattol">19940426</mezo>
-<mezo id = "nev">Dr. Pais Józsefné</mezo>
+<mezo id = "nev">Dr. Pais JÃ³zsefnÃ©</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">8900</mezo>
 <mezo id = "hely">Zalaegerszeg, Nyerges u 48.</mezo>
@@ -673,13 +673,13 @@
 <alrovat id = "13">
 <mezo id = "hattol">20100510</mezo>
 <mezo id = "cgjsz">0109569283</mezo>
-<mezo id = "nev">KÉT CALCULUS Könyvvizsgáló és Pénzügyi Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">KÃ‰T CALCULUS KÃ¶nyvvizsgÃ¡lÃ³ Ã©s PÃ©nzÃ¼gyi TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1039</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Szabadság út 1.</mezo>
-<mezo id = "pnev">Bor Zoltán</mezo>
-<mezo id = "panev">Hosszú Julianna Éva</mezo>
+<mezo id = "teru">SzabadsÃ¡g Ãºt 1.</mezo>
+<mezo id = "pnev">Bor ZoltÃ¡n</mezo>
+<mezo id = "panev">HosszÃº Julianna Ã‰va</mezo>
 <mezo id = "jogvk">20100510</mezo>
 <mezo id = "jogvv">20120531</mezo>
 <mezo id = "valtk">20100510</mezo>
@@ -689,17 +689,17 @@
 <rovat id = "15">
 <alrovat id = "4">
 <mezo id = "hattol">19940426</mezo>
-<mezo id = "pnev">Dr. Töröcskei László</mezo>
+<mezo id = "pnev">Dr. TÃ¶rÃ¶cskei LÃ¡szlÃ³</mezo>
 <mezo id = "pirsz">1015</mezo>
-<mezo id = "phely">Budapest, Szabó Ilonka u 6.</mezo>
+<mezo id = "phely">Budapest, SzabÃ³ Ilonka u 6.</mezo>
 <mezo id = "pkorsz">HU</mezo>
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">19990409</mezo>
-<mezo id = "pnev">Farkas János</mezo>
+<mezo id = "pnev">Farkas JÃ¡nos</mezo>
 <mezo id = "panev">Hunya Irma</mezo>
 <mezo id = "pirsz">2000</mezo>
-<mezo id = "phely">Szentendre, Pannónia 24/a.</mezo>
+<mezo id = "phely">Szentendre, PannÃ³nia 24/a.</mezo>
 </alrovat>
 <alrovat id = "14">
 <mezo id = "hattol">20010712</mezo>
@@ -708,24 +708,24 @@
 <mezo id = "pkorsz">DE</mezo>
 <mezo id = "pkirsz">78250</mezo>
 <mezo id = "pkhely">Tengen, Wannenstr. 12.</mezo>
-<mezo id = "pmneve">Winkler és Társai Ügyvédi Iroda</mezo>
+<mezo id = "pmneve">Winkler Ã©s TÃ¡rsai ÃœgyvÃ©di Iroda</mezo>
 <mezo id = "pmirsz">1118</mezo>
-<mezo id = "pmhely">Budapest, Sümegvár u. 20.</mezo>
+<mezo id = "pmhely">Budapest, SÃ¼megvÃ¡r u. 20.</mezo>
 </alrovat>
 <alrovat id = "27">
 <mezo id = "hattol">20050630</mezo>
 <mezo id = "pnev">dr. Franz Dolezal - Brandenberger</mezo>
-<mezo id = "panev">Gertrude Böck</mezo>
+<mezo id = "panev">Gertrude BÃ¶ck</mezo>
 <mezo id = "pkorsz">AT</mezo>
 <mezo id = "pkirsz">1052</mezo>
-<mezo id = "pkhely">Wien, Schönbrunner str . 13.</mezo>
+<mezo id = "pkhely">Wien, SchÃ¶nbrunner str . 13.</mezo>
 <mezo id = "jogvk">20050701</mezo>
 <mezo id = "jogvv">20060630</mezo>
-<mezo id = "pcnev">Winkler és Társai Ügyvédi Iroda</mezo>
+<mezo id = "pcnev">Winkler Ã©s TÃ¡rsai ÃœgyvÃ©di Iroda</mezo>
 <mezo id = "pcanev">0</mezo>
 <mezo id = "pcirsz">1118</mezo>
 <mezo id = "pchely">Budapest</mezo>
-<mezo id = "pcteru">Sümegvár u. 20.</mezo>
+<mezo id = "pcteru">SÃ¼megvÃ¡r u. 20.</mezo>
 </alrovat>
 <alrovat id = "32">
 <mezo id = "hattol">20070626</mezo>
@@ -736,11 +736,11 @@
 <mezo id = "pkhely">Nordhausen , Kathe-Kollwitz 1/c.</mezo>
 <mezo id = "jogvk">20070514</mezo>
 <mezo id = "jogvv">20080630</mezo>
-<mezo id = "pcnev">Winkler és Társai Ü.I .</mezo>
+<mezo id = "pcnev">Winkler Ã©s TÃ¡rsai Ãœ.I .</mezo>
 <mezo id = "pcanev">0</mezo>
 <mezo id = "pcirsz">1118</mezo>
 <mezo id = "pchely">Budapest</mezo>
-<mezo id = "pcteru">Sümegvár u. 20.</mezo>
+<mezo id = "pcteru">SÃ¼megvÃ¡r u. 20.</mezo>
 <mezo id = "valtk">20070514</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -765,7 +765,7 @@
 <alrovat id = "44">
 <mezo id = "hattol">20100510</mezo>
 <mezo id = "pnev">Dr. Franz Dolezal-Brandenberger</mezo>
-<mezo id = "panev">Gertrude Böck</mezo>
+<mezo id = "panev">Gertrude BÃ¶ck</mezo>
 <mezo id = "jogvk">20100510</mezo>
 <mezo id = "jogvv">20150510</mezo>
 <mezo id = "valtk">20100510</mezo>
@@ -776,8 +776,8 @@
 <alrovat id = "1">
 <mezo id = "hattol">19930531</mezo>
 <mezo id = "cgjsz">1301007300</mezo>
-<mezo id = "nev">Szentendrei Betonárugyár Vállalat</mezo>
-<mezo id = "mod">1992.évi LIV. törvény szerint</mezo>
+<mezo id = "nev">Szentendrei BetonÃ¡rugyÃ¡r VÃ¡llalat</mezo>
+<mezo id = "mod">1992.Ã©vi LIV. tÃ¶rvÃ©ny szerint</mezo>
 </alrovat>
 </rovat>
 <rovat id = "20">
@@ -801,14 +801,14 @@
 <mezo id = "orsz">DE</mezo>
 <mezo id = "irsz">78166</mezo>
 <mezo id = "hely">Donaueschingen</mezo>
-<mezo id = "teru">Hüfinger str.</mezo>
+<mezo id = "teru">HÃ¼finger str.</mezo>
 <mezo id = "hsz">39-45.</mezo>
 <mezo id = "j">x</mezo>
-<mezo id = "pcnev">Winkler és Társai Ügyvédi Iroda</mezo>
+<mezo id = "pcnev">Winkler Ã©s TÃ¡rsai ÃœgyvÃ©di Iroda</mezo>
 <mezo id = "pcanev">0</mezo>
 <mezo id = "pcirsz">1118</mezo>
 <mezo id = "pchely">Budapest</mezo>
-<mezo id = "pcteru">Sümegvár u.</mezo>
+<mezo id = "pcteru">SÃ¼megvÃ¡r u.</mezo>
 <mezo id = "pchsz">20.</mezo>
 <mezo id = "pckirsz">0</mezo>
 </alrovat>
@@ -824,15 +824,15 @@
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">20051227</mezo>
-<mezo id = "nev">cégjegyzékszám: FN-10-08726t Dolezal-Brandenberger</mezo>
+<mezo id = "nev">cÃ©gjegyzÃ©kszÃ¡m: FN-10-08726t Dolezal-Brandenberger</mezo>
 <mezo id = "orsz">AT</mezo>
 <mezo id = "irsz">1050</mezo>
 <mezo id = "hely">Wien</mezo>
-<mezo id = "teru">Schönbrunner Hauptstrasse 13.</mezo>
+<mezo id = "teru">SchÃ¶nbrunner Hauptstrasse 13.</mezo>
 <mezo id = "j">x</mezo>
-<mezo id = "pmnev">Winkler és Társai Ügyvédi Iroda</mezo>
+<mezo id = "pmnev">Winkler Ã©s TÃ¡rsai ÃœgyvÃ©di Iroda</mezo>
 <mezo id = "pmirsz">1118</mezo>
-<mezo id = "pmhely">Budapest, Sümegvár u. 20 .</mezo>
+<mezo id = "pmhely">Budapest, SÃ¼megvÃ¡r u. 20 .</mezo>
 <mezo id = "tagsk">0</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">0</mezo>
@@ -848,217 +848,217 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Szentendrei Betonárugyár Részvénytársaság Igazgatósága értesíti tisztelt részvényeseit, hogy a társaság 1996. április 10-én 11 órakor közgyûlést tart a társaság 2000 Szentendre, Dózsa György út 20. alatt lévõ székhelyén.<ujsor/>
+<mezo id = "szoveg">A Szentendrei BetonÃ¡rugyÃ¡r RÃ©szvÃ©nytÃ¡rsasÃ¡g IgazgatÃ³sÃ¡ga Ã©rtesÃ­ti tisztelt rÃ©szvÃ©nyeseit, hogy a tÃ¡rsasÃ¡g 1996. Ã¡prilis 10-Ã©n 11 Ã³rakor kÃ¶zgyÅ±lÃ©st tart a tÃ¡rsasÃ¡g 2000 Szentendre, DÃ³zsa GyÃ¶rgy Ãºt 20. alatt lÃ©vÅ‘ szÃ©khelyÃ©n.<ujsor/>
 Napirend:<ujsor/>
-1. Az alapító okirat módosítása<ujsor/>
-2. A vezetõ tisztségviselõk újraválasztása.<ujsor/>
-3. Egyes részvények átalakítása kamatozó részvénnyé.<ujsor/>
+1. Az alapÃ­tÃ³ okirat mÃ³dosÃ­tÃ¡sa<ujsor/>
+2. A vezetÅ‘ tisztsÃ©gviselÅ‘k ÃºjravÃ¡lasztÃ¡sa.<ujsor/>
+3. Egyes rÃ©szvÃ©nyek Ã¡talakÃ­tÃ¡sa kamatozÃ³ rÃ©szvÃ©nnyÃ©.<ujsor/>
 4. Egyebek.<ujsor/>
-A részvényes szavazati jogát az alapító okirat rendelkezései szerint személyesen vagy meghatalmazott útján gyakorolhatja.<ujsor/>
-SzeBeton Rt. Igazgatósága<ujsor/>
+A rÃ©szvÃ©nyes szavazati jogÃ¡t az alapÃ­tÃ³ okirat rendelkezÃ©sei szerint szemÃ©lyesen vagy meghatalmazott ÃºtjÃ¡n gyakorolhatja.<ujsor/>
+SzeBeton Rt. IgazgatÃ³sÃ¡ga<ujsor/>
 </mezo>
 <mezo id = "cjsz">1310040200</mezo>
-<mezo id = "nev">Szentendrei Betonárugyár Részvénytársaság (2000 Szentendre, Dózsa Gy. u. 20.)</mezo>
+<mezo id = "nev">Szentendrei BetonÃ¡rugyÃ¡r RÃ©szvÃ©nytÃ¡rsasÃ¡g (2000 Szentendre, DÃ³zsa Gy. u. 20.)</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Szentendrei Betonárugyár Részvénytársaság(2000 Szentendre, Dózsa Gy. út 20.) Igazgatósága értesíti részvényeseit, hogy 1997. február 28-án 11 órai kezdettel, a Szebeton Rt. székhelyén (2000 Szentendre, Dózsa Gy. út 20.) rendkívüli közgyûlést tart.<ujsor/>
-A közgyûlés napirendi pontjai:<ujsor/>
-1. Az alapító okirat módosítása.<ujsor/>
-2. Az alaptõke zártkörû felemelése.<ujsor/>
-3. Egyéb.<ujsor/>
-A szavazati jog gyakorlásáról az rt. alapszabálya rendelkezik.<ujsor/>
-Amennyiben a közgyûlés nem határozatképes, úgy az eredeti napirendi pontok változatlansága mellett a közgyûlés 1997. március 14-én 11 órakor kerül megtartásra, a fent megjelölt helyen azzal, hogy a megismételt közgyûlés - tekintet nélkül a megjelentek számára és a részvény értékére - határozatképes.<ujsor/>
+<mezo id = "szoveg">A Szentendrei BetonÃ¡rugyÃ¡r RÃ©szvÃ©nytÃ¡rsasÃ¡g(2000 Szentendre, DÃ³zsa Gy. Ãºt 20.) IgazgatÃ³sÃ¡ga Ã©rtesÃ­ti rÃ©szvÃ©nyeseit, hogy 1997. februÃ¡r 28-Ã¡n 11 Ã³rai kezdettel, a Szebeton Rt. szÃ©khelyÃ©n (2000 Szentendre, DÃ³zsa Gy. Ãºt 20.) rendkÃ­vÃ¼li kÃ¶zgyÅ±lÃ©st tart.<ujsor/>
+A kÃ¶zgyÅ±lÃ©s napirendi pontjai:<ujsor/>
+1. Az alapÃ­tÃ³ okirat mÃ³dosÃ­tÃ¡sa.<ujsor/>
+2. Az alaptÅ‘ke zÃ¡rtkÃ¶rÅ± felemelÃ©se.<ujsor/>
+3. EgyÃ©b.<ujsor/>
+A szavazati jog gyakorlÃ¡sÃ¡rÃ³l az rt. alapszabÃ¡lya rendelkezik.<ujsor/>
+Amennyiben a kÃ¶zgyÅ±lÃ©s nem hatÃ¡rozatkÃ©pes, Ãºgy az eredeti napirendi pontok vÃ¡ltozatlansÃ¡ga mellett a kÃ¶zgyÅ±lÃ©s 1997. mÃ¡rcius 14-Ã©n 11 Ã³rakor kerÃ¼l megtartÃ¡sra, a fent megjelÃ¶lt helyen azzal, hogy a megismÃ©telt kÃ¶zgyÅ±lÃ©s - tekintet nÃ©lkÃ¼l a megjelentek szÃ¡mÃ¡ra Ã©s a rÃ©szvÃ©ny Ã©rtÃ©kÃ©re - hatÃ¡rozatkÃ©pes.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1310040200</mezo>
-<mezo id = "nev">Szentendrei Betonárugyár Részvénytársaság (2000 Szentendre, Dózsa Gy. u. 20.)</mezo>
+<mezo id = "nev">Szentendrei BetonÃ¡rugyÃ¡r RÃ©szvÃ©nytÃ¡rsasÃ¡g (2000 Szentendre, DÃ³zsa Gy. u. 20.)</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság az 1997. 07. 14-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-18. Huszonötezer-ötszáztizenöt darab  törzsrészvény, tízezer Ft.<ujsor/>
- Törölve: 1997. 05. 06-i hatállyal.<ujsor/>
- Huszonkettõezer-ötszáztizenöt darab  törzsrészvény, tízezer Ft.<ujsor/>
- Hatályos: 1997. 05. 06-tól.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g az 1997. 07. 14-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+18. HuszonÃ¶tezer-Ã¶tszÃ¡ztizenÃ¶t darab  tÃ¶rzsrÃ©szvÃ©ny, tÃ­zezer Ft.<ujsor/>
+ TÃ¶rÃ¶lve: 1997. 05. 06-i hatÃ¡llyal.<ujsor/>
+ HuszonkettÅ‘ezer-Ã¶tszÃ¡ztizenÃ¶t darab  tÃ¶rzsrÃ©szvÃ©ny, tÃ­zezer Ft.<ujsor/>
+ HatÃ¡lyos: 1997. 05. 06-tÃ³l.<ujsor/>
 Bejegyezve: 1997. 09. 26.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1310040200</mezo>
-<mezo id = "nev">Szentendrei Betonárugyár Részvénytársaság</mezo>
-<mezo id = "cim">2000 Szentendre, Dózsa Gy. u. 20.</mezo>
+<mezo id = "nev">Szentendrei BetonÃ¡rugyÃ¡r RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2000 Szentendre, DÃ³zsa Gy. u. 20.</mezo>
 <mezo id = "adosz">10874248213</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Mall Beton GmbH (Hüfinger Str. 45.; D-78166 Donaueschingen; Cg.: HRB 1086 Do) bejelenti, hogy 2001. július 12-én a Pest Megyei Bíróságon mint Cégbíróságon [13 10 040200] cégjegyzékszám alatt nyilvántartott Szentendrei Betonárugyár Részvénytársaságban (2000 Szentendre, Dózsa György út 20.) jelentõs befolyást szerzett. A Mall Beton GmbH a társaságnál leadható szavazatok 43,39%-át szerezte meg.<ujsor/>
+<mezo id = "szoveg">A Mall Beton GmbH (HÃ¼finger Str. 45.; D-78166 Donaueschingen; Cg.: HRB 1086 Do) bejelenti, hogy 2001. jÃºlius 12-Ã©n a Pest Megyei BÃ­rÃ³sÃ¡gon mint CÃ©gbÃ­rÃ³sÃ¡gon [13 10 040200] cÃ©gjegyzÃ©kszÃ¡m alatt nyilvÃ¡ntartott Szentendrei BetonÃ¡rugyÃ¡r RÃ©szvÃ©nytÃ¡rsasÃ¡gban (2000 Szentendre, DÃ³zsa GyÃ¶rgy Ãºt 20.) jelentÅ‘s befolyÃ¡st szerzett. A Mall Beton GmbH a tÃ¡rsasÃ¡gnÃ¡l leadhatÃ³ szavazatok 43,39%-Ã¡t szerezte meg.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1310040200</mezo>
-<mezo id = "nev">Szentendrei Betonárugyár Részvénytársaság (2000 Szentendre, Dózsa Gy. u. 20.)</mezo>
+<mezo id = "nev">Szentendrei BetonÃ¡rugyÃ¡r RÃ©szvÃ©nytÃ¡rsasÃ¡g (2000 Szentendre, DÃ³zsa Gy. u. 20.)</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A P.V. Holding AG (Dieselstrasse 8.; D-63456 Hanau; Cg.: HRB 4982) bejelenti, hogy 2001. július 12-én a Pest Megyei Bíróságon mint Cégbíróságon [13 10 040200] cégjegyzékszám alatt nyilvántartott Szentendrei Betonárugyár Részvénytársaságban (2000 Szentendre, Dózsa György út 20.) jelentõs befolyást szerzett. A P.V. Holding AG a társaságnál a leadható szavazatok 43,39%-át szerezte meg.<ujsor/>
+<mezo id = "szoveg">A P.V. Holding AG (Dieselstrasse 8.; D-63456 Hanau; Cg.: HRB 4982) bejelenti, hogy 2001. jÃºlius 12-Ã©n a Pest Megyei BÃ­rÃ³sÃ¡gon mint CÃ©gbÃ­rÃ³sÃ¡gon [13 10 040200] cÃ©gjegyzÃ©kszÃ¡m alatt nyilvÃ¡ntartott Szentendrei BetonÃ¡rugyÃ¡r RÃ©szvÃ©nytÃ¡rsasÃ¡gban (2000 Szentendre, DÃ³zsa GyÃ¶rgy Ãºt 20.) jelentÅ‘s befolyÃ¡st szerzett. A P.V. Holding AG a tÃ¡rsasÃ¡gnÃ¡l a leadhatÃ³ szavazatok 43,39%-Ã¡t szerezte meg.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1310040200</mezo>
-<mezo id = "nev">Szentendrei Betonárugyár Részvénytársaság (2000 Szentendre, Dózsa Gy. u. 20.)</mezo>
+<mezo id = "nev">Szentendrei BetonÃ¡rugyÃ¡r RÃ©szvÃ©nytÃ¡rsasÃ¡g (2000 Szentendre, DÃ³zsa Gy. u. 20.)</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2001. 09. 10-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2001. 09. 10-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
 15. Karl-Heinz Graf (an: Gertrud Gabikowski)<ujsor/>
-Külföldi cím: DE 78250 Tengen, Wannenstr 12.<ujsor/>
- Kézbesítési megbízott: Winkler és Társai Ügyvédi Iroda<ujsor/>
-1118 Budapest, Sümegvár u. 20.<ujsor/>
- Törölve: 2001. 07. 12-i hatállyal.<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: DE 78250 Tengen, Wannenstr 12.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott: Winkler Ã©s TÃ¡rsai ÃœgyvÃ©di Iroda<ujsor/>
+1118 Budapest, SÃ¼megvÃ¡r u. 20.<ujsor/>
+ TÃ¶rÃ¶lve: 2001. 07. 12-i hatÃ¡llyal.<ujsor/>
  Joachim Amthor (an: Olga Will)<ujsor/>
-Külföldi cím: DE 63128 Dietzenbach, Lindenstr 27.<ujsor/>
- Kézbesítési megbízott: Winkler és Társai Ügyvédi Iroda<ujsor/>
-1118 Budapest, Sümegvár u. 20.<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: DE 63128 Dietzenbach, Lindenstr 27.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott: Winkler Ã©s TÃ¡rsai ÃœgyvÃ©di Iroda<ujsor/>
+1118 Budapest, SÃ¼megvÃ¡r u. 20.<ujsor/>
  Karl-Heinz Graf (an: Gertrud Gapikowski)<ujsor/>
-Külföldi cím: DE 78250 Tengen, Wannenstr 12.<ujsor/>
- Kézbesítési megbízott: Winkler és Társai Ügyvédi Iroda<ujsor/>
-1118 Budapest, Sümegvár 20.<ujsor/>
- Hatályos: 2001. 07. 12-tõl.<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: DE 78250 Tengen, Wannenstr 12.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott: Winkler Ã©s TÃ¡rsai ÃœgyvÃ©di Iroda<ujsor/>
+1118 Budapest, SÃ¼megvÃ¡r 20.<ujsor/>
+ HatÃ¡lyos: 2001. 07. 12-tÅ‘l.<ujsor/>
 Bejegyezve: 2001. 10. 01.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1310040200</mezo>
-<mezo id = "nev">Szentendrei Betonárugyár Részvénytársaság</mezo>
-<mezo id = "cim">2000 Szentendre, Dózsa Gy. u. 20.</mezo>
+<mezo id = "nev">Szentendrei BetonÃ¡rugyÃ¡r RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2000 Szentendre, DÃ³zsa Gy. u. 20.</mezo>
 <mezo id = "adosz">10874248213</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2002. 01. 02-án hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-5(10). Részvényfajta: törzsrészvény.<ujsor/>
- Harminchatezer-hétszáztizenöt darab tízezer Ft.<ujsor/>
- Törölve: 2002. 01. 02-i hatállyal.<ujsor/>
- Hatvanezer-egyszáztizenöt darab törzsrészvény, tízezer Ft.<ujsor/>
- Hatályos: 2002. 01. 02-tól.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2002. 01. 02-Ã¡n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+5(10). RÃ©szvÃ©nyfajta: tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+ Harminchatezer-hÃ©tszÃ¡ztizenÃ¶t darab tÃ­zezer Ft.<ujsor/>
+ TÃ¶rÃ¶lve: 2002. 01. 02-i hatÃ¡llyal.<ujsor/>
+ Hatvanezer-egyszÃ¡ztizenÃ¶t darab tÃ¶rzsrÃ©szvÃ©ny, tÃ­zezer Ft.<ujsor/>
+ HatÃ¡lyos: 2002. 01. 02-tÃ³l.<ujsor/>
 Bejegyezve: 2002. 09. 03.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1310040200</mezo>
-<mezo id = "nev">Szentendrei Betonárugyár Részvénytársaság</mezo>
-<mezo id = "cim">2000 Szentendre, Dózsa Gy. u. 20.</mezo>
+<mezo id = "nev">Szentendrei BetonÃ¡rugyÃ¡r RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2000 Szentendre, DÃ³zsa Gy. u. 20.</mezo>
 <mezo id = "adosz">10874248213</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2002. 05. 17-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-06. 2600 Vác, Avar u. 5.<ujsor/>
- Törölve: 2002. 04. 10-i hatállyal.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2002. 05. 17-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+06. 2600 VÃ¡c, Avar u. 5.<ujsor/>
+ TÃ¶rÃ¶lve: 2002. 04. 10-i hatÃ¡llyal.<ujsor/>
 Bejegyezve: 2003. 02. 06.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1310040200</mezo>
-<mezo id = "nev">Szentendrei Betonárugyár Részvénytársaság</mezo>
-<mezo id = "cim">2000 Szentendre, Dózsa Gy. u. 20.</mezo>
+<mezo id = "nev">Szentendrei BetonÃ¡rugyÃ¡r RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2000 Szentendre, DÃ³zsa Gy. u. 20.</mezo>
 <mezo id = "adosz">10874248213</mezo>
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Purator Ingatlankezelõ Kft. (Cg.: [01 09 565358]; székhely: 1117 Budapest, Prielle Kornélia u. 7.) bejelenti, hogy a Szentendrei Betonárugyár Rt.-ben (Cg.: [13 10 040200]; székhely: 2000 Szentendre, Dózsa György u. 20.) 2004. október 30-án ­ átruházás útján ­ jelentõs befolyást szerzett (25,002%).<ujsor/>
+<mezo id = "szoveg">A Purator IngatlankezelÅ‘ Kft. (Cg.: [01 09 565358]; szÃ©khely: 1117 Budapest, Prielle KornÃ©lia u. 7.) bejelenti, hogy a Szentendrei BetonÃ¡rugyÃ¡r Rt.-ben (Cg.: [13 10 040200]; szÃ©khely: 2000 Szentendre, DÃ³zsa GyÃ¶rgy u. 20.) 2004. oktÃ³ber 30-Ã¡n Â­ Ã¡truhÃ¡zÃ¡s ÃºtjÃ¡n Â­ jelentÅ‘s befolyÃ¡st szerzett (25,002%).<ujsor/>
 </mezo>
 <mezo id = "cjsz">1310040200</mezo>
-<mezo id = "nev">Szentendrei Betonárugyár Részvénytársaság</mezo>
+<mezo id = "nev">Szentendrei BetonÃ¡rugyÃ¡r RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">2000 Szentendre</mezo>
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A befolyásszerzõ neve: Dolezal-Brandenberger Gesellschaft m.b.H.<ujsor/>
-Székhelye: A-1050 Wien, Schönbrunner Str. 13.<ujsor/>
-Ellenõrzött gazdasági társaság neve: Szentendrei Betonárugyár Részvénytársaság.<ujsor/>
-Cégjegyzékszám: [13 10 040200].<ujsor/>
-Székhelye: 2000 Szentendre, Dózsa Gy. út 20.<ujsor/>
-A befolyásszerzés idõpontja: 2005. december 27.<ujsor/>
-A Dolezal-Branderberger Gesellschaft m.b.H. a részvénytársaságban jelentõs befolyást szerzett.<ujsor/>
-A tag befolyásának százalékos mértéke: 25% + 1; a tag szavazatainak száma: 15 030.<ujsor/>
+<mezo id = "szoveg">A befolyÃ¡sszerzÅ‘ neve: Dolezal-Brandenberger Gesellschaft m.b.H.<ujsor/>
+SzÃ©khelye: A-1050 Wien, SchÃ¶nbrunner Str. 13.<ujsor/>
+EllenÅ‘rzÃ¶tt gazdasÃ¡gi tÃ¡rsasÃ¡g neve: Szentendrei BetonÃ¡rugyÃ¡r RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡m: [13 10 040200].<ujsor/>
+SzÃ©khelye: 2000 Szentendre, DÃ³zsa Gy. Ãºt 20.<ujsor/>
+A befolyÃ¡sszerzÃ©s idÅ‘pontja: 2005. december 27.<ujsor/>
+A Dolezal-Branderberger Gesellschaft m.b.H. a rÃ©szvÃ©nytÃ¡rsasÃ¡gban jelentÅ‘s befolyÃ¡st szerzett.<ujsor/>
+A tag befolyÃ¡sÃ¡nak szÃ¡zalÃ©kos mÃ©rtÃ©ke: 25% + 1; a tag szavazatainak szÃ¡ma: 15 030.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1310040200</mezo>
-<mezo id = "nev">Szentendrei Betonárugyár Részvénytársaság</mezo>
+<mezo id = "nev">Szentendrei BetonÃ¡rugyÃ¡r RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">2000 Szentendre</mezo>
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2007. 06. 26-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (igazgatósági tag).<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2007. 06. 26-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag).<ujsor/>
  Marcus Grimm (an: Erika Rakow)<ujsor/>
-Külföldi cím: DE 78343 Gaienhof , Schulstr. 19.<ujsor/>
- Kézbesítési megbízott szervezet: Winkler és Társai Ü.I.<ujsor/>
-1118 Budapest, Sümegvár u. 20.<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: DE 78343 Gaienhof , Schulstr. 19.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott szervezet: Winkler Ã©s TÃ¡rsai Ãœ.I.<ujsor/>
+1118 Budapest, SÃ¼megvÃ¡r u. 20.<ujsor/>
  A jogviszony kezdete: 2007. 05. 14.<ujsor/>
- A jogviszony vége: 2008. 06. 30.<ujsor/>
- A változás idõpontja: 2007. 05. 14.<ujsor/>
- A változás idõpontja (törlés): 2007. 05. 14.<ujsor/>
- Törölve: 2007. 08. 06.<ujsor/>
- A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (igazgatósági tag).<ujsor/>
+ A jogviszony vÃ©ge: 2008. 06. 30.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2007. 05. 14.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2007. 05. 14.<ujsor/>
+ TÃ¶rÃ¶lve: 2007. 08. 06.<ujsor/>
+ A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag).<ujsor/>
  Markus Grimm (an: Erika Rakow)<ujsor/>
-Külföldi cím: DE 78343 Gaienhof , Schulstr. 19.<ujsor/>
- Kézbesítési megbízott szervezet: Winkler és Társai Ü.I.<ujsor/>
-1118 Budapest, Sümegvár u. 20.<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: DE 78343 Gaienhof , Schulstr. 19.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott szervezet: Winkler Ã©s TÃ¡rsai Ãœ.I.<ujsor/>
+1118 Budapest, SÃ¼megvÃ¡r u. 20.<ujsor/>
  A jogviszony kezdete: 2007. 05. 14.<ujsor/>
- A jogviszony vége: 2008. 06. 30.<ujsor/>
- A változás idõpontja: 2007. 05. 14.<ujsor/>
+ A jogviszony vÃ©ge: 2008. 06. 30.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2007. 05. 14.<ujsor/>
  Bejegyezve: 2007. 08. 06.<ujsor/>
 15. Helmut Michael Sshiebler (an: Regina Wazik)<ujsor/>
-Külföldi cím: DE 99734 Nordhausen , Kathe-Kollwitz 1/c.<ujsor/>
- Kézbesítési megbízott szervezet: Winkler és Társai Ü.I.<ujsor/>
-1118 Budapest, Sümegvár u. 20.<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: DE 99734 Nordhausen , Kathe-Kollwitz 1/c.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott szervezet: Winkler Ã©s TÃ¡rsai Ãœ.I.<ujsor/>
+1118 Budapest, SÃ¼megvÃ¡r u. 20.<ujsor/>
  A jogviszony kezdete: 2007. 05. 14.<ujsor/>
- A jogviszony vége: 2008. 06. 30.<ujsor/>
- A változás idõpontja: 2007. 05. 14.<ujsor/>
- A változás idõpontja (törlés): 2007. 05. 14.<ujsor/>
- Törölve: 2007. 08. 06.<ujsor/>
+ A jogviszony vÃ©ge: 2008. 06. 30.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2007. 05. 14.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2007. 05. 14.<ujsor/>
+ TÃ¶rÃ¶lve: 2007. 08. 06.<ujsor/>
  Helmut Michael Schiebler (an: Regina Wazik)<ujsor/>
-Külföldi cím: DE 99734 Nordhausen , Kathe-Kollwitz 1/c.<ujsor/>
- Kézbesítési megbízott szervezet: Winkler és Társai Ü.I.<ujsor/>
-1118 Budapest, Sümegvár u. 20.<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: DE 99734 Nordhausen , Kathe-Kollwitz 1/c.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott szervezet: Winkler Ã©s TÃ¡rsai Ãœ.I.<ujsor/>
+1118 Budapest, SÃ¼megvÃ¡r u. 20.<ujsor/>
  A jogviszony kezdete: 2007. 05. 14.<ujsor/>
- A jogviszony vége: 2008. 06. 30.<ujsor/>
- A változás idõpontja: 2007. 05. 14.<ujsor/>
+ A jogviszony vÃ©ge: 2008. 06. 30.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2007. 05. 14.<ujsor/>
  Bejegyezve: 2007. 08. 06.<ujsor/>
 2007. 08. 06.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1310040200</mezo>
-<mezo id = "nev">SzeBeton Szentendrei Betonárugyár Zártkörûen mûködõ részvénytársaság</mezo>
-<mezo id = "cim">2000 Szentendre, Dózsa Gy. u. 20.</mezo>
+<mezo id = "nev">SzeBeton Szentendrei BetonÃ¡rugyÃ¡r ZÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ rÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2000 Szentendre, DÃ³zsa Gy. u. 20.</mezo>
 <mezo id = "adosz">10874248213</mezo>
 </alrovat>
 <alrovat id = "11">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2008. 08. 05-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (igazgatósági tag).<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2008. 08. 05-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag).<ujsor/>
  Markus Grimm (an: Erika Rakow)<ujsor/>
-Külföldi cím: DE 78343 Gaienhofen , Schulstr . 19.<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: DE 78343 Gaienhofen , Schulstr . 19.<ujsor/>
  A jogviszony kezdete: 2008. 07. 01.<ujsor/>
- A jogviszony vége: 2008. 06. 30.<ujsor/>
- A változás idõpontja: 2008. 07. 01.<ujsor/>
- A változás idõpontja (törlés): 2008. 07. 01.<ujsor/>
- Törölve: 2008. 07. 01.<ujsor/>
- A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (igazgatósági tag).<ujsor/>
+ A jogviszony vÃ©ge: 2008. 06. 30.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 07. 01.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2008. 07. 01.<ujsor/>
+ TÃ¶rÃ¶lve: 2008. 07. 01.<ujsor/>
+ A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag).<ujsor/>
  Markus Grimm (an: Erika Rakow)<ujsor/>
-Külföldi cím: DE 78343 Gaienhofen , Schulstr . 19.<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: DE 78343 Gaienhofen , Schulstr . 19.<ujsor/>
  A jogviszony kezdete: 2008. 07. 01.<ujsor/>
- A jogviszony vége: 2009. 06. 30.<ujsor/>
- A változás idõpontja: 2008. 07. 01.<ujsor/>
+ A jogviszony vÃ©ge: 2009. 06. 30.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 07. 01.<ujsor/>
  Bejegyezve: 2008. 07. 01.<ujsor/>
 2008. 11. 20.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1310040200</mezo>
-<mezo id = "nev">SzeBeton Szentendrei Betonárugyár Zártkörûen mûködõ részvénytársaság</mezo>
-<mezo id = "cim">2000 Szentendre, Dózsa Gy . u. 20.</mezo>
+<mezo id = "nev">SzeBeton Szentendrei BetonÃ¡rugyÃ¡r ZÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ rÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2000 Szentendre, DÃ³zsa Gy . u. 20.</mezo>
 <mezo id = "adosz">10874248213</mezo>
 </alrovat>
 </rovat>

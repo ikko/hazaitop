@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">060466</mezo>
 <mezo id = "nevalrovat">2</mezo>
-<mezo id = "cim">4400 Nyíregyháza, Hunyadi utca 57. </mezo>
+<mezo id = "cim">4400 NyÃ­regyhÃ¡za, Hunyadi utca 57. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">10450183215</mezo>
 </alrovat>
@@ -13,20 +13,20 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">19920928</mezo>
-<mezo id = "nev">AUTÓ SZÉLES Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">AUTÃ“ SZÃ‰LES Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "2">
 <mezo id = "hattol">19920928</mezo>
-<mezo id = "nev">AUTÓ SZÉLES KFT</mezo>
+<mezo id = "nev">AUTÃ“ SZÃ‰LES KFT</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
 <alrovat id = "2">
 <mezo id = "hattol">20010601</mezo>
 <mezo id = "irsz">4400</mezo>
-<mezo id = "hely">Nyíregyháza</mezo>
+<mezo id = "hely">NyÃ­regyhÃ¡za</mezo>
 <mezo id = "teru">Hunyadi utca 57.</mezo>
 </alrovat>
 </rovat>
@@ -34,14 +34,14 @@
 <alrovat id = "4">
 <mezo id = "hattol">20040311</mezo>
 <mezo id = "irsz">4431</mezo>
-<mezo id = "hely">Nyíregyháza-Sóstófürdõ, Szódaház út 15263/2. hrsz.</mezo>
+<mezo id = "hely">NyÃ­regyhÃ¡za-SÃ³stÃ³fÃ¼rdÅ‘, SzÃ³dahÃ¡z Ãºt 15263/2. hrsz.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "7">
 <alrovat id = "2">
 <mezo id = "hattol">20040311</mezo>
 <mezo id = "irsz">4600</mezo>
-<mezo id = "hely">Kisvárda, Városmajor út 0247/8 hrsz.</mezo>
+<mezo id = "hely">KisvÃ¡rda, VÃ¡rosmajor Ãºt 0247/8 hrsz.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "8">
@@ -1018,16 +1018,16 @@
 <rovat id = "13">
 <alrovat id = "1">
 <mezo id = "hattol">19901015</mezo>
-<mezo id = "nev">Széles István ügyvezetõ</mezo>
+<mezo id = "nev">SzÃ©les IstvÃ¡n Ã¼gyvezetÅ‘</mezo>
 <mezo id = "irsz">4400</mezo>
-<mezo id = "hely">Nyíregyháza</mezo>
-<mezo id = "teru">Ószõlõ ut 140.</mezo>
+<mezo id = "hely">NyÃ­regyhÃ¡za</mezo>
+<mezo id = "teru">Ã“szÅ‘lÅ‘ ut 140.</mezo>
 </alrovat>
 <alrovat id = "12">
 <mezo id = "hattol">20101207</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Széles István</mezo>
-<mezo id = "panev">Széles Ida</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">SzÃ©les IstvÃ¡n</mezo>
+<mezo id = "panev">SzÃ©les Ida</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20101207</mezo>
 <mezo id = "valtk">20101207</mezo>
@@ -1036,9 +1036,9 @@
 </alrovat>
 <alrovat id = "13">
 <mezo id = "hattol">20101207</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Szélesné Koós Edit</mezo>
-<mezo id = "panev">Juhász Gizella</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">SzÃ©lesnÃ© KoÃ³s Edit</mezo>
+<mezo id = "panev">JuhÃ¡sz Gizella</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20101207</mezo>
 <mezo id = "valtk">20101207</mezo>
@@ -1063,10 +1063,10 @@
 <rovat id = "0109">
 <alrovat id = "13">
 <mezo id = "hattol">20080616</mezo>
-<mezo id = "pnev">Széles István</mezo>
-<mezo id = "panev">Széles Ida</mezo>
+<mezo id = "pnev">SzÃ©les IstvÃ¡n</mezo>
+<mezo id = "panev">SzÃ©les Ida</mezo>
 <mezo id = "pirsz">4400</mezo>
-<mezo id = "phely">Nyíregyháza, Sóstói út 23.</mezo>
+<mezo id = "phely">NyÃ­regyhÃ¡za, SÃ³stÃ³i Ãºt 23.</mezo>
 <mezo id = "tagsk">20020901</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20080616</mezo>
@@ -1076,10 +1076,10 @@
 </alrovat>
 <alrovat id = "14">
 <mezo id = "hattol">20080616</mezo>
-<mezo id = "pnev">Szélesné Koós Edit</mezo>
-<mezo id = "panev">Juhász Gizella</mezo>
+<mezo id = "pnev">SzÃ©lesnÃ© KoÃ³s Edit</mezo>
+<mezo id = "panev">JuhÃ¡sz Gizella</mezo>
 <mezo id = "pirsz">4400</mezo>
-<mezo id = "phely">Nyíregyháza, Sóstói út 23.</mezo>
+<mezo id = "phely">NyÃ­regyhÃ¡za, SÃ³stÃ³i Ãºt 23.</mezo>
 <mezo id = "tagsk">20020901</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20080616</mezo>
@@ -1097,10 +1097,10 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Széles István (a. n.: Széles Ida), 4400 Nyíregyháza, Sóstói u. 23. sz. alatti lakos és Szélesné Koós Edit (a. n.: Juhász Gizella), 4400 Nyíregyháza, Sóstói u. 23. sz. alatti lakos, közzéteszik, hogy 2002. szeptember 1-jén, a Cg. [15 09 060466] cégjegyzékszám alatt nyilvántartott AUTÓ SZÉLES Kereskedelmi Korlátolt Felelõsségû Társaságban (székhely: 4400 Nyíregyháza, Hunyadi u. 57.) Széles István az üzletrészek 50%-ának és Szélesné Koós Edit az üzletrészek 50%-ának megszerzésével jelentõs befolyást szerzett.<ujsor/>
+<mezo id = "szoveg">SzÃ©les IstvÃ¡n (a. n.: SzÃ©les Ida), 4400 NyÃ­regyhÃ¡za, SÃ³stÃ³i u. 23. sz. alatti lakos Ã©s SzÃ©lesnÃ© KoÃ³s Edit (a. n.: JuhÃ¡sz Gizella), 4400 NyÃ­regyhÃ¡za, SÃ³stÃ³i u. 23. sz. alatti lakos, kÃ¶zzÃ©teszik, hogy 2002. szeptember 1-jÃ©n, a Cg. [15 09 060466] cÃ©gjegyzÃ©kszÃ¡m alatt nyilvÃ¡ntartott AUTÃ“ SZÃ‰LES Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gban (szÃ©khely: 4400 NyÃ­regyhÃ¡za, Hunyadi u. 57.) SzÃ©les IstvÃ¡n az Ã¼zletrÃ©szek 50%-Ã¡nak Ã©s SzÃ©lesnÃ© KoÃ³s Edit az Ã¼zletrÃ©szek 50%-Ã¡nak megszerzÃ©sÃ©vel jelentÅ‘s befolyÃ¡st szerzett.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1509060466</mezo>
-<mezo id = "nev">CENTREX Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">CENTREX Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "99017">

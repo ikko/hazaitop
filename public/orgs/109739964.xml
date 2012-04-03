@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">739964</mezo>
 <mezo id = "nevalrovat">2</mezo>
-<mezo id = "cim">1037 Budapest, Táborhegyi út 16. fsz. 2. </mezo>
+<mezo id = "cim">1037 Budapest, TÃ¡borhegyi Ãºt 16. fsz. 2. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">13528393241</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20110207</mezo>
-<mezo id = "nev">IMMOFIX Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">IMMOFIX Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">20110207</mezo>
 <mezo id = "bkelt">20110207</mezo>
 </alrovat>
@@ -29,7 +29,7 @@
 <mezo id = "hattol">20101030</mezo>
 <mezo id = "irsz">1037</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Táborhegyi út 16. fsz. 2.</mezo>
+<mezo id = "teru">TÃ¡borhegyi Ãºt 16. fsz. 2.</mezo>
 <mezo id = "valtk">20101030</mezo>
 <mezo id = "bkelt">20110207</mezo>
 </alrovat>
@@ -719,12 +719,12 @@
 <rovat id = "13">
 <alrovat id = "3">
 <mezo id = "hattol">20101030</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Botlik Ildikó Erika</mezo>
-<mezo id = "panev">Harmath Erzsébet</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Botlik IldikÃ³ Erika</mezo>
+<mezo id = "panev">Harmath ErzsÃ©bet</mezo>
 <mezo id = "pirsz">1037</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Táborhegyi út 16. fsz. 2.</mezo>
+<mezo id = "pteru">TÃ¡borhegyi Ãºt 16. fsz. 2.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100916</mezo>
 <mezo id = "valtk">20101030</mezo>
@@ -750,7 +750,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20110207</mezo>
 <mezo id = "jccjsz">0109953288</mezo>
-<mezo id = "nev">MARK GLOBAL TRADE Ingatlanforgalmazó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">MARK GLOBAL TRADE IngatlanforgalmazÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">20110207</mezo>
 <mezo id = "bkelt">20110207</mezo>
 </alrovat>
@@ -758,22 +758,22 @@
 <rovat id = "0109">
 <alrovat id = "5">
 <mezo id = "hattol">20101030</mezo>
-<mezo id = "pnev">Botlik Ildikó Erika</mezo>
-<mezo id = "panev">Harmath Erzsébet</mezo>
+<mezo id = "pnev">Botlik IldikÃ³ Erika</mezo>
+<mezo id = "panev">Harmath ErzsÃ©bet</mezo>
 <mezo id = "pirsz">1037</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Táborhegyi út 16. fsz. 2.</mezo>
+<mezo id = "pteru">TÃ¡borhegyi Ãºt 16. fsz. 2.</mezo>
 <mezo id = "tagsk">20050615</mezo>
 <mezo id = "valtk">20101030</mezo>
 <mezo id = "bkelt">20110207</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20101030</mezo>
-<mezo id = "pnev">Botlik Ferencné</mezo>
-<mezo id = "panev">Balázs Erzsébet</mezo>
+<mezo id = "pnev">Botlik FerencnÃ©</mezo>
+<mezo id = "panev">BalÃ¡zs ErzsÃ©bet</mezo>
 <mezo id = "pirsz">1134</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Janicsár u 9.</mezo>
+<mezo id = "pteru">JanicsÃ¡r u 9.</mezo>
 <mezo id = "tagsk">20050615</mezo>
 <mezo id = "valtk">20101030</mezo>
 <mezo id = "bkelt">20110207</mezo>
@@ -783,152 +783,152 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az IMMOFIX Ingatlanforgalmazó és Kereskedelmi Korlátolt Felelõsségû Társaság (Cg.: [01 09 739964]; 1037 Budapest, Táborhegyi út 16.) elhatározta átalakulását, melynek során a gazdasági társaságból<ujsor/>
-kiválik<ujsor/>
-egy új korlátolt felelõsségû társaság.<ujsor/>
-A kiválással létrejövõ társaság fõbb adatai:<ujsor/>
-Neve: MARKTRADE Ingatlanforgalmazó Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhelye: 1134 Budapest, Janicsár u. 9. fszt. 2.<ujsor/>
-Rövidített cégneve: MARKTRADE Kft.<ujsor/>
-Törzstõkéje: 2 500 000 Ft (kettõmillió-ötszázezer forint).<ujsor/>
-Ügyvezetõje: Németh Csaba Gyula (a. n.: Téglás Márta; 2000 Szentendre, Galamb u. 13.).<ujsor/>
-Fõ tevékenysége (TEÁOR ’08): 6810 Saját tulajdonú ingatlan adásvétele.<ujsor/>
-A társasági szerzõdés elfogadásának napja: 2010. október 30.<ujsor/>
-A kiválás során fennmaradó társaság fõbb adatai:<ujsor/>
-Neve: IMMOFIX Kereskedelmi Korlátolt Felelõsségû Társaság.<ujsor/>
-Cégjegyzékszáma: [01 09 739964].<ujsor/>
-Székhelye: 1037 Budapest, Táborhegyi út 16. fszt. 2.<ujsor/>
-Rövidített cégneve: IMMOFIX Kft.<ujsor/>
-Törzstõkéje: 500 000 (ötszázezer forint).<ujsor/>
-Fõ tevékenysége (TEÁOR ’08): 4638 Egyéb élelmiszer nagykereskedelme.<ujsor/>
-Ügyvezetõ: Botlik Ildikó Erika (a. n.: Harmath Erzsébet; 1037 Budapest, Táborhegyi út 16. fszt. 2.).<ujsor/>
-Az IMMOFIX Kft. (záró), a kiválással létrejövõ gazdasági társaság (nyitó) és a kiválás során fennmaradó gazdasági társaság (nyitó) vagyonmérleg-tervezetének legfõbb adatai:<ujsor/>
+<mezo id = "szoveg">Az IMMOFIX IngatlanforgalmazÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [01 09 739964]; 1037 Budapest, TÃ¡borhegyi Ãºt 16.) elhatÃ¡rozta Ã¡talakulÃ¡sÃ¡t, melynek sorÃ¡n a gazdasÃ¡gi tÃ¡rsasÃ¡gbÃ³l<ujsor/>
+kivÃ¡lik<ujsor/>
+egy Ãºj korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+A kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g fÅ‘bb adatai:<ujsor/>
+Neve: MARKTRADE IngatlanforgalmazÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 1134 Budapest, JanicsÃ¡r u. 9. fszt. 2.<ujsor/>
+RÃ¶vidÃ­tett cÃ©gneve: MARKTRADE Kft.<ujsor/>
+TÃ¶rzstÅ‘kÃ©je: 2 500 000 Ft (kettÅ‘milliÃ³-Ã¶tszÃ¡zezer forint).<ujsor/>
+ÃœgyvezetÅ‘je: NÃ©meth Csaba Gyula (a. n.: TÃ©glÃ¡s MÃ¡rta; 2000 Szentendre, Galamb u. 13.).<ujsor/>
+FÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™08): 6810 SajÃ¡t tulajdonÃº ingatlan adÃ¡svÃ©tele.<ujsor/>
+A tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s elfogadÃ¡sÃ¡nak napja: 2010. oktÃ³ber 30.<ujsor/>
+A kivÃ¡lÃ¡s sorÃ¡n fennmaradÃ³ tÃ¡rsasÃ¡g fÅ‘bb adatai:<ujsor/>
+Neve: IMMOFIX Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡ma: [01 09 739964].<ujsor/>
+SzÃ©khelye: 1037 Budapest, TÃ¡borhegyi Ãºt 16. fszt. 2.<ujsor/>
+RÃ¶vidÃ­tett cÃ©gneve: IMMOFIX Kft.<ujsor/>
+TÃ¶rzstÅ‘kÃ©je: 500 000 (Ã¶tszÃ¡zezer forint).<ujsor/>
+FÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™08): 4638 EgyÃ©b Ã©lelmiszer nagykereskedelme.<ujsor/>
+ÃœgyvezetÅ‘: Botlik IldikÃ³ Erika (a. n.: Harmath ErzsÃ©bet; 1037 Budapest, TÃ¡borhegyi Ãºt 16. fszt. 2.).<ujsor/>
+Az IMMOFIX Kft. (zÃ¡rÃ³), a kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g (nyitÃ³) Ã©s a kivÃ¡lÃ¡s sorÃ¡n fennmaradÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g (nyitÃ³) vagyonmÃ©rleg-tervezetÃ©nek legfÅ‘bb adatai:<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK IMMOFIX Kft. Különbözetek MARKTRADE Kft. IMMOFIX Kft.<ujsor/>
-vagyonértékelés vagyonértékelés vagyona MARKTRADE<ujsor/>
-szerinti vagyon szerinti vagyona Kft. kiválása után<ujsor/>
-A) Befektetett eszközök 42 182 0 39 380 2 802<ujsor/>
-I. Immateriális javak<ujsor/>
-II. Tárgyi eszközök 42 182 39 380 2 802<ujsor/>
-III. Befektetett pénzügyi eszközök<ujsor/>
-B) Forgóeszközök 171 710 0 171 710<ujsor/>
-I. Készletek<ujsor/>
-II. Követelések 171 558 171 558<ujsor/>
-III. Értékpapírok<ujsor/>
-IV. Pénzeszközök 152 152<ujsor/>
-C) Aktív idõbeli elhatárolások<ujsor/>
-ÖSSZESEN: 213 892 0 39 380 174 512<ujsor/>
+ESZKÃ–ZÃ–K IMMOFIX Kft. KÃ¼lÃ¶nbÃ¶zetek MARKTRADE Kft. IMMOFIX Kft.<ujsor/>
+vagyonÃ©rtÃ©kelÃ©s vagyonÃ©rtÃ©kelÃ©s vagyona MARKTRADE<ujsor/>
+szerinti vagyon szerinti vagyona Kft. kivÃ¡lÃ¡sa utÃ¡n<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 42 182 0 39 380 2 802<ujsor/>
+I. ImmateriÃ¡lis javak<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 42 182 39 380 2 802<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 171 710 0 171 710<ujsor/>
+I. KÃ©szletek<ujsor/>
+II. KÃ¶vetelÃ©sek 171 558 171 558<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 152 152<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok<ujsor/>
+Ã–SSZESEN: 213 892 0 39 380 174 512<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK IMMOFIX Kft. Különbözetek MARKTRADE Kft. IMMOFIX Kft.<ujsor/>
-vagyonértékelés vagyonértékelés vagyona MARKTRADE<ujsor/>
-szerinti vagyon szerinti vagyona Kft. kiválása után<ujsor/>
-D) Saját tõke 20 663 0 3 735 16 928<ujsor/>
-I. Jegyzett tõke 3 000 2 500 500<ujsor/>
-III. Tõketartalék 0<ujsor/>
-IV. Eredménytartalék 17 663 1 235 16 428<ujsor/>
-V. Lekötött tartalék 0<ujsor/>
-E) Céltartalékok 0 0 0 0<ujsor/>
-F) Kötelezettségek 193 229 0 35 645 157 584<ujsor/>
-II. Hosszú lejáratú kötelezettségek 47 131 34 258 12 873<ujsor/>
-III. Rövid lejáratú kötelezettségek 146 098 1 387 144 711<ujsor/>
-G) Passzív idõbeli elhatárolások<ujsor/>
-ÖSSZESEN: 213 892 0 39 380 174 512<ujsor/>
-A gazdasági társaságok közötti vagyonmegosztás aránya:<ujsor/>
-­ MARKTRADE Kft.: 18,41%.<ujsor/>
-­ IMMOFIX Kft.: 81,59%.<ujsor/>
-A társaság felhívja hitelezõit ­ a Gt. 76. § (2) bekezdés alapján ­ hogy amennyiben az átalakuló gazdasági társasággal szemben fennálló le nem járt követeléseik az átalakulásról hozott döntés elsõ közzétételét megelõzõen keletkeztek, követeléseik erejéig az átalakuló gazdasági társaságtól a döntés második közzétételét követõ harmincnapos jogvesztõ határidõn belül biztosítékot követelhetnek.<ujsor/>
-Az esetleges hitelezõk a hirdetményi határidõ alatt az IMMOFIX Ingatlanforgalmazó és Kereskedelmi Korlátolt Felelõsségû Társaság (1037 Budapest, Táborhegyi út 16. fszt. 2.) székhelyén, munkanapokon 9­15 óra közötti idõpontban tájékoztatást kapnak a követelésüket érintõ vagyonmegosztási rendelkezésekrõl.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+FORRÃSOK IMMOFIX Kft. KÃ¼lÃ¶nbÃ¶zetek MARKTRADE Kft. IMMOFIX Kft.<ujsor/>
+vagyonÃ©rtÃ©kelÃ©s vagyonÃ©rtÃ©kelÃ©s vagyona MARKTRADE<ujsor/>
+szerinti vagyon szerinti vagyona Kft. kivÃ¡lÃ¡sa utÃ¡n<ujsor/>
+D) SajÃ¡t tÅ‘ke 20 663 0 3 735 16 928<ujsor/>
+I. Jegyzett tÅ‘ke 3 000 2 500 500<ujsor/>
+III. TÅ‘ketartalÃ©k 0<ujsor/>
+IV. EredmÃ©nytartalÃ©k 17 663 1 235 16 428<ujsor/>
+V. LekÃ¶tÃ¶tt tartalÃ©k 0<ujsor/>
+E) CÃ©ltartalÃ©kok 0 0 0 0<ujsor/>
+F) KÃ¶telezettsÃ©gek 193 229 0 35 645 157 584<ujsor/>
+II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 47 131 34 258 12 873<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 146 098 1 387 144 711<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok<ujsor/>
+Ã–SSZESEN: 213 892 0 39 380 174 512<ujsor/>
+A gazdasÃ¡gi tÃ¡rsasÃ¡gok kÃ¶zÃ¶tti vagyonmegosztÃ¡s arÃ¡nya:<ujsor/>
+Â­ MARKTRADE Kft.: 18,41%.<ujsor/>
+Â­ IMMOFIX Kft.: 81,59%.<ujsor/>
+A tÃ¡rsasÃ¡g felhÃ­vja hitelezÅ‘it Â­ a Gt. 76. Â§ (2) bekezdÃ©s alapjÃ¡n Â­ hogy amennyiben az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³ le nem jÃ¡rt kÃ¶vetelÃ©seik az Ã¡talakulÃ¡srÃ³l hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gtÃ³l a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+Az esetleges hitelezÅ‘k a hirdetmÃ©nyi hatÃ¡ridÅ‘ alatt az IMMOFIX IngatlanforgalmazÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (1037 Budapest, TÃ¡borhegyi Ãºt 16. fszt. 2.) szÃ©khelyÃ©n, munkanapokon 9Â­15 Ã³ra kÃ¶zÃ¶tti idÅ‘pontban tÃ¡jÃ©koztatÃ¡st kapnak a kÃ¶vetelÃ©sÃ¼ket Ã©rintÅ‘ vagyonmegosztÃ¡si rendelkezÃ©sekrÅ‘l.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109739964</mezo>
-<mezo id = "nev">IMMOFIX Ingatlanforgalmazó és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">IMMOFIX IngatlanforgalmazÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1037 Budapest</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az IMMOFIX Ingatlanforgalmazó és Kereskedelmi Korlátolt Felelõsségû Társaság (Cg.: [01 09 739964]; 1037 Budapest, Táborhegyi út 16.) elhatározta átalakulását, melynek során a gazdasági társaságból<ujsor/>
-kiválik<ujsor/>
-egy új korlátolt felelõsségû társaság.<ujsor/>
-A kiválással létrejövõ társaság fõbb adatai:<ujsor/>
-Neve: MARKTRADE Ingatlanforgalmazó Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhelye: 1134 Budapest, Janicsár u. 9. fszt. 2.<ujsor/>
-Rövidített cégneve: MARKTRADE Kft.<ujsor/>
-Törzstõkéje: 2 500 000 Ft (kettõmillió-ötszázezer forint).<ujsor/>
-Ügyvezetõje: Németh Csaba Gyula (a. n.: Téglás Márta; 2000 Szentendre, Galamb u. 13.).<ujsor/>
-Fõ tevékenysége (TEÁOR ’08): 6810 Saját tulajdonú ingatlan adásvétele.<ujsor/>
-A társasági szerzõdés elfogadásának napja: 2010. október 30.<ujsor/>
-A kiválás során fennmaradó társaság fõbb adatai:<ujsor/>
-Neve: IMMOFIX Kereskedelmi Korlátolt Felelõsségû Társaság.<ujsor/>
-Cégjegyzékszáma: [01 09 739964].<ujsor/>
-Székhelye: 1037 Budapest, Táborhegyi út 16. fszt. 2.<ujsor/>
-Rövidített cégneve: IMMOFIX Kft.<ujsor/>
-Törzstõkéje: 500 000 (ötszázezer forint).<ujsor/>
-Fõ tevékenysége (TEÁOR ’08): 4638 Egyéb élelmiszer nagykereskedelme.<ujsor/>
-Ügyvezetõ: Botlik Ildikó Erika (a. n.: Harmath Erzsébet; 1037 Budapest, Táborhegyi út 16. fszt. 2.).<ujsor/>
-Az IMMOFIX Kft. (záró), a kiválással létrejövõ gazdasági társaság (nyitó) és a kiválás során fennmaradó gazdasági társaság (nyitó) vagyonmérleg-tervezetének legfõbb adatai:<ujsor/>
+<mezo id = "szoveg">Az IMMOFIX IngatlanforgalmazÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [01 09 739964]; 1037 Budapest, TÃ¡borhegyi Ãºt 16.) elhatÃ¡rozta Ã¡talakulÃ¡sÃ¡t, melynek sorÃ¡n a gazdasÃ¡gi tÃ¡rsasÃ¡gbÃ³l<ujsor/>
+kivÃ¡lik<ujsor/>
+egy Ãºj korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+A kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g fÅ‘bb adatai:<ujsor/>
+Neve: MARKTRADE IngatlanforgalmazÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 1134 Budapest, JanicsÃ¡r u. 9. fszt. 2.<ujsor/>
+RÃ¶vidÃ­tett cÃ©gneve: MARKTRADE Kft.<ujsor/>
+TÃ¶rzstÅ‘kÃ©je: 2 500 000 Ft (kettÅ‘milliÃ³-Ã¶tszÃ¡zezer forint).<ujsor/>
+ÃœgyvezetÅ‘je: NÃ©meth Csaba Gyula (a. n.: TÃ©glÃ¡s MÃ¡rta; 2000 Szentendre, Galamb u. 13.).<ujsor/>
+FÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™08): 6810 SajÃ¡t tulajdonÃº ingatlan adÃ¡svÃ©tele.<ujsor/>
+A tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s elfogadÃ¡sÃ¡nak napja: 2010. oktÃ³ber 30.<ujsor/>
+A kivÃ¡lÃ¡s sorÃ¡n fennmaradÃ³ tÃ¡rsasÃ¡g fÅ‘bb adatai:<ujsor/>
+Neve: IMMOFIX Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡ma: [01 09 739964].<ujsor/>
+SzÃ©khelye: 1037 Budapest, TÃ¡borhegyi Ãºt 16. fszt. 2.<ujsor/>
+RÃ¶vidÃ­tett cÃ©gneve: IMMOFIX Kft.<ujsor/>
+TÃ¶rzstÅ‘kÃ©je: 500 000 (Ã¶tszÃ¡zezer forint).<ujsor/>
+FÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™08): 4638 EgyÃ©b Ã©lelmiszer nagykereskedelme.<ujsor/>
+ÃœgyvezetÅ‘: Botlik IldikÃ³ Erika (a. n.: Harmath ErzsÃ©bet; 1037 Budapest, TÃ¡borhegyi Ãºt 16. fszt. 2.).<ujsor/>
+Az IMMOFIX Kft. (zÃ¡rÃ³), a kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g (nyitÃ³) Ã©s a kivÃ¡lÃ¡s sorÃ¡n fennmaradÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g (nyitÃ³) vagyonmÃ©rleg-tervezetÃ©nek legfÅ‘bb adatai:<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK IMMOFIX Kft. Különbözetek MARKTRADE Kft. IMMOFIX Kft.<ujsor/>
-vagyonértékelés vagyonértékelés vagyona MARKTRADE<ujsor/>
-szerinti vagyon szerinti vagyona Kft. kiválása után<ujsor/>
-A) Befektetett eszközök 42 182 0 39 380 2 802<ujsor/>
-I. Immateriális javak<ujsor/>
-II. Tárgyi eszközök 42 182 39 380 2 802<ujsor/>
-III. Befektetett pénzügyi eszközök<ujsor/>
-B) Forgóeszközök 171 710 0 171 710<ujsor/>
-I. Készletek<ujsor/>
-II. Követelések 171 558 171 558<ujsor/>
-III. Értékpapírok<ujsor/>
-IV. Pénzeszközök 152 152<ujsor/>
-C) Aktív idõbeli elhatárolások<ujsor/>
-ÖSSZESEN: 213 892 0 39 380 174 512<ujsor/>
+ESZKÃ–ZÃ–K IMMOFIX Kft. KÃ¼lÃ¶nbÃ¶zetek MARKTRADE Kft. IMMOFIX Kft.<ujsor/>
+vagyonÃ©rtÃ©kelÃ©s vagyonÃ©rtÃ©kelÃ©s vagyona MARKTRADE<ujsor/>
+szerinti vagyon szerinti vagyona Kft. kivÃ¡lÃ¡sa utÃ¡n<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 42 182 0 39 380 2 802<ujsor/>
+I. ImmateriÃ¡lis javak<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 42 182 39 380 2 802<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 171 710 0 171 710<ujsor/>
+I. KÃ©szletek<ujsor/>
+II. KÃ¶vetelÃ©sek 171 558 171 558<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 152 152<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok<ujsor/>
+Ã–SSZESEN: 213 892 0 39 380 174 512<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK IMMOFIX Kft. Különbözetek MARKTRADE Kft. IMMOFIX Kft.<ujsor/>
-vagyonértékelés vagyonértékelés vagyona MARKTRADE<ujsor/>
-szerinti vagyon szerinti vagyona Kft. kiválása után<ujsor/>
-D) Saját tõke 20 663 0 3 735 16 928<ujsor/>
-I. Jegyzett tõke 3 000 2 500 500<ujsor/>
-III. Tõketartalék 0<ujsor/>
-IV. Eredménytartalék 17 663 1 235 16 428<ujsor/>
-V. Lekötött tartalék 0<ujsor/>
-E) Céltartalékok 0 0 0 0<ujsor/>
-F) Kötelezettségek 193 229 0 35 645 157 584<ujsor/>
-II. Hosszú lejáratú kötelezettségek 47 131 34 258 12 873<ujsor/>
-III. Rövid lejáratú kötelezettségek 146 098 1 387 144 711<ujsor/>
-G) Passzív idõbeli elhatárolások<ujsor/>
-ÖSSZESEN: 213 892 0 39 380 174 512<ujsor/>
-A gazdasági társaságok közötti vagyonmegosztás aránya:<ujsor/>
-­ MARKTRADE Kft.: 18,41%.<ujsor/>
-­ IMMOFIX Kft.: 81,59%.<ujsor/>
-A társaság felhívja hitelezõit ­ a Gt. 76. § (2) bekezdés alapján ­ hogy amennyiben az átalakuló gazdasági társasággal szemben fennálló le nem járt követeléseik az átalakulásról hozott döntés elsõ közzétételét megelõzõen keletkeztek, követeléseik erejéig az átalakuló gazdasági társaságtól a döntés második közzétételét követõ harmincnapos jogvesztõ határidõn belül biztosítékot követelhetnek.<ujsor/>
-Az esetleges hitelezõk a hirdetményi határidõ alatt az IMMOFIX Ingatlanforgalmazó és Kereskedelmi Korlátolt Felelõsségû Társaság (1037 Budapest, Táborhegyi út 16. fszt. 2.) székhelyén, munkanapokon 9­15 óra közötti idõpontban tájékoztatást kapnak a követelésüket érintõ vagyonmegosztási rendelkezésekrõl.<ujsor/>
-(Második közzététel.)<ujsor/>
+FORRÃSOK IMMOFIX Kft. KÃ¼lÃ¶nbÃ¶zetek MARKTRADE Kft. IMMOFIX Kft.<ujsor/>
+vagyonÃ©rtÃ©kelÃ©s vagyonÃ©rtÃ©kelÃ©s vagyona MARKTRADE<ujsor/>
+szerinti vagyon szerinti vagyona Kft. kivÃ¡lÃ¡sa utÃ¡n<ujsor/>
+D) SajÃ¡t tÅ‘ke 20 663 0 3 735 16 928<ujsor/>
+I. Jegyzett tÅ‘ke 3 000 2 500 500<ujsor/>
+III. TÅ‘ketartalÃ©k 0<ujsor/>
+IV. EredmÃ©nytartalÃ©k 17 663 1 235 16 428<ujsor/>
+V. LekÃ¶tÃ¶tt tartalÃ©k 0<ujsor/>
+E) CÃ©ltartalÃ©kok 0 0 0 0<ujsor/>
+F) KÃ¶telezettsÃ©gek 193 229 0 35 645 157 584<ujsor/>
+II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 47 131 34 258 12 873<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 146 098 1 387 144 711<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok<ujsor/>
+Ã–SSZESEN: 213 892 0 39 380 174 512<ujsor/>
+A gazdasÃ¡gi tÃ¡rsasÃ¡gok kÃ¶zÃ¶tti vagyonmegosztÃ¡s arÃ¡nya:<ujsor/>
+Â­ MARKTRADE Kft.: 18,41%.<ujsor/>
+Â­ IMMOFIX Kft.: 81,59%.<ujsor/>
+A tÃ¡rsasÃ¡g felhÃ­vja hitelezÅ‘it Â­ a Gt. 76. Â§ (2) bekezdÃ©s alapjÃ¡n Â­ hogy amennyiben az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³ le nem jÃ¡rt kÃ¶vetelÃ©seik az Ã¡talakulÃ¡srÃ³l hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gtÃ³l a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+Az esetleges hitelezÅ‘k a hirdetmÃ©nyi hatÃ¡ridÅ‘ alatt az IMMOFIX IngatlanforgalmazÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (1037 Budapest, TÃ¡borhegyi Ãºt 16. fszt. 2.) szÃ©khelyÃ©n, munkanapokon 9Â­15 Ã³ra kÃ¶zÃ¶tti idÅ‘pontban tÃ¡jÃ©koztatÃ¡st kapnak a kÃ¶vetelÃ©sÃ¼ket Ã©rintÅ‘ vagyonmegosztÃ¡si rendelkezÃ©sekrÅ‘l.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109739964</mezo>
-<mezo id = "nev">IMMOFIX Ingatlanforgalmazó és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">IMMOFIX IngatlanforgalmazÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1037 Budapest</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság a Cg.01-09-739964 cégjegyzékszámon bejegyzett IMMOFIX Kereskedelmi Korlátolt Felelõsségû Társaság (1037 Budapest, Táborhegyi út 16. fsz 2.; adószáma: 13528393-2-41) ügyében az 2011. február 7. napján hozott Cg.01-09-739964/24. számú végzését hivatalból kijavítani rendeli az alábbiak szerint:<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.01-09-739964 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett IMMOFIX Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (1037 Budapest, TÃ¡borhegyi Ãºt 16. fsz 2.; adÃ³szÃ¡ma: 13528393-2-41) Ã¼gyÃ©ben az 2011. februÃ¡r 7. napjÃ¡n hozott Cg.01-09-739964/24. szÃ¡mÃº vÃ©gzÃ©sÃ©t hivatalbÃ³l kijavÃ­tani rendeli az alÃ¡bbiak szerint:<ujsor/>
 1(09) A tag(ok) adatai<ujsor/>
-Botlik Ildikó (an.: Harmath Erzsébet)<ujsor/>
-1037 Budapest, Erdõalja út 130.<ujsor/>
+Botlik IldikÃ³ (an.: Harmath ErzsÃ©bet)<ujsor/>
+1037 Budapest, ErdÅ‘alja Ãºt 130.<ujsor/>
 Tags. kezdete: 2005.06.15.<ujsor/>
-Vált. vége: 2010.10.30.<ujsor/>
-Törölve (végzés kelte): 2011. február 7.<ujsor/>
-Botlik Ferencné (an.: Balázs Erzsébet)<ujsor/>
-1134 Budapest, Janicsár u 9.<ujsor/>
+VÃ¡lt. vÃ©ge: 2010.10.30.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2011. februÃ¡r 7.<ujsor/>
+Botlik FerencnÃ© (an.: BalÃ¡zs ErzsÃ©bet)<ujsor/>
+1134 Budapest, JanicsÃ¡r u 9.<ujsor/>
 Tags. kezdete: 2005.06.15.<ujsor/>
-Vált. kezdete: 2010.10.30.<ujsor/>
-Bejegyezve (végzés kelte): 2011. február 7.<ujsor/>
-A végzés ellen fellebbezésnek nincs helye.<ujsor/>
-2011. február 7.<ujsor/>
+VÃ¡lt. kezdete: 2010.10.30.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2011. februÃ¡r 7.<ujsor/>
+A vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye.<ujsor/>
+2011. februÃ¡r 7.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109739964</mezo>
-<mezo id = "nev">IMMOFIX Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1037 Budapest, Táborhegyi út 16. fsz 2.</mezo>
+<mezo id = "nev">IMMOFIX Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1037 Budapest, TÃ¡borhegyi Ãºt 16. fsz 2.</mezo>
 <mezo id = "adosz">13528393241</mezo>
 </alrovat>
 </rovat>

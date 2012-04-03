@@ -6,14 +6,14 @@
 <mezo id = "szam">044002</mezo>
 <mezo id = "nevalrovat">1</mezo>
 <mezo id = "allapot">6</mezo>
-<mezo id = "cim">1134 Budapest, Váci út 37 </mezo>
+<mezo id = "cim">1134 Budapest, VÃ¡ci Ãºt 37 </mezo>
 <mezo id = "adosz">11785062241</mezo>
 </alrovat>
 </rovat>
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19981221</mezo>
-<mezo id = "nev">ELENDER Informatikai és Számítástechnikai Részvénytársaság</mezo>
+<mezo id = "nev">ELENDER Informatikai Ã©s SzÃ¡mÃ­tÃ¡stechnikai RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -27,8 +27,8 @@
 <mezo id = "hattol">19981221</mezo>
 <mezo id = "irsz">1134</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Váci</mezo>
-<mezo id = "terj">út</mezo>
+<mezo id = "teru">VÃ¡ci</mezo>
+<mezo id = "terj">Ãºt</mezo>
 <mezo id = "hsz">37</mezo>
 </alrovat>
 </rovat>
@@ -37,7 +37,7 @@
 <mezo id = "hattol">19981221</mezo>
 <mezo id = "irsz">1087</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Hungária</mezo>
+<mezo id = "teru">HungÃ¡ria</mezo>
 <mezo id = "terj">krt.</mezo>
 <mezo id = "hsz">8</mezo>
 </alrovat>
@@ -55,7 +55,7 @@
 <mezo id = "hattol">19981221</mezo>
 <mezo id = "irsz">4029</mezo>
 <mezo id = "hely">Debrecen</mezo>
-<mezo id = "teru">Csapó</mezo>
+<mezo id = "teru">CsapÃ³</mezo>
 <mezo id = "terj">u.</mezo>
 <mezo id = "hsz">61</mezo>
 </alrovat>
@@ -63,24 +63,24 @@
 <mezo id = "hattol">19981221</mezo>
 <mezo id = "irsz">6721</mezo>
 <mezo id = "hely">Szeged</mezo>
-<mezo id = "teru">Madách</mezo>
+<mezo id = "teru">MadÃ¡ch</mezo>
 <mezo id = "terj">u.</mezo>
 <mezo id = "hsz">15</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">19981221</mezo>
 <mezo id = "irsz">7624</mezo>
-<mezo id = "hely">Pécs</mezo>
-<mezo id = "teru">Klimó Gy.</mezo>
+<mezo id = "hely">PÃ©cs</mezo>
+<mezo id = "teru">KlimÃ³ Gy.</mezo>
 <mezo id = "terj">u.</mezo>
 <mezo id = "hsz">13</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">19981221</mezo>
 <mezo id = "irsz">4400</mezo>
-<mezo id = "hely">Nyíregyháza</mezo>
-<mezo id = "teru">Nyírfa</mezo>
-<mezo id = "terj">tér</mezo>
+<mezo id = "hely">NyÃ­regyhÃ¡za</mezo>
+<mezo id = "teru">NyÃ­rfa</mezo>
+<mezo id = "terj">tÃ©r</mezo>
 <mezo id = "hsz">5</mezo>
 </alrovat>
 </rovat>
@@ -243,29 +243,29 @@
 <rovat id = "13">
 <alrovat id = "3">
 <mezo id = "hattol">19981221</mezo>
-<mezo id = "tiszt">igazgatóság tagja</mezo>
-<mezo id = "pnev">Dr. Kóka János</mezo>
-<mezo id = "panev">Ferenczi Gyöngyi</mezo>
+<mezo id = "tiszt">igazgatÃ³sÃ¡g tagja</mezo>
+<mezo id = "pnev">Dr. KÃ³ka JÃ¡nos</mezo>
+<mezo id = "panev">Ferenczi GyÃ¶ngyi</mezo>
 <mezo id = "pirsz">1056</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Irányi u.</mezo>
+<mezo id = "pteru">IrÃ¡nyi u.</mezo>
 <mezo id = "phsz">1.</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">19981221</mezo>
-<mezo id = "tiszt">cégvezetõ</mezo>
-<mezo id = "pnev">Mucsi József</mezo>
-<mezo id = "panev">Nagy Erzsébet</mezo>
+<mezo id = "tiszt">cÃ©gvezetÅ‘</mezo>
+<mezo id = "pnev">Mucsi JÃ³zsef</mezo>
+<mezo id = "panev">Nagy ErzsÃ©bet</mezo>
 <mezo id = "pirsz">1031</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Vízimolnár u.</mezo>
+<mezo id = "pteru">VÃ­zimolnÃ¡r u.</mezo>
 <mezo id = "phsz">2.</mezo>
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">19981221</mezo>
-<mezo id = "tiszt">cégvezetõ</mezo>
+<mezo id = "tiszt">cÃ©gvezetÅ‘</mezo>
 <mezo id = "pnev">Berki Endre</mezo>
-<mezo id = "panev">Györgyjakab Márta</mezo>
+<mezo id = "panev">GyÃ¶rgyjakab MÃ¡rta</mezo>
 <mezo id = "pirsz">1011</mezo>
 <mezo id = "phely">Budapest</mezo>
 <mezo id = "pteru">Aranyhal u.</mezo>
@@ -273,48 +273,48 @@
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">19990911</mezo>
-<mezo id = "tiszt">igazgatóság tagja</mezo>
-<mezo id = "pnev">Marczinkó Ágota</mezo>
-<mezo id = "panev">Erdélyi Ágota</mezo>
+<mezo id = "tiszt">igazgatÃ³sÃ¡g tagja</mezo>
+<mezo id = "pnev">MarczinkÃ³ Ãgota</mezo>
+<mezo id = "panev">ErdÃ©lyi Ãgota</mezo>
 <mezo id = "pirsz">9200</mezo>
-<mezo id = "phely">Mosonmagyaróvár</mezo>
+<mezo id = "phely">MosonmagyarÃ³vÃ¡r</mezo>
 <mezo id = "pteru">Tarcsai u. 25.</mezo>
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">19990916</mezo>
-<mezo id = "tiszt">igazgatósági tag</mezo>
+<mezo id = "tiszt">igazgatÃ³sÃ¡gi tag</mezo>
 <mezo id = "pnev">Harry George Hobbs</mezo>
 <mezo id = "panev">Jean Marie Houllahan</mezo>
 <mezo id = "pkorsz">US</mezo>
 <mezo id = "pkhely">Round Hill, Virginia, Yatton Road 17971.</mezo>
-<mezo id = "pmnev">Dr. Kóka János</mezo>
-<mezo id = "pmanev">Ferenczi Gyöngyi</mezo>
+<mezo id = "pmnev">Dr. KÃ³ka JÃ¡nos</mezo>
+<mezo id = "pmanev">Ferenczi GyÃ¶ngyi</mezo>
 <mezo id = "pmirsz">1056</mezo>
-<mezo id = "pmhely">Budapest, Irányi u. 1.</mezo>
+<mezo id = "pmhely">Budapest, IrÃ¡nyi u. 1.</mezo>
 </alrovat>
 <alrovat id = "11">
 <mezo id = "hattol">19990916</mezo>
-<mezo id = "tiszt">igazgatósági tag</mezo>
+<mezo id = "tiszt">igazgatÃ³sÃ¡gi tag</mezo>
 <mezo id = "pnev">Harold Serviss Wills</mezo>
 <mezo id = "panev">Anna Elsworth Swann</mezo>
 <mezo id = "pkorsz">US</mezo>
 <mezo id = "pkhely">Great Falls, Virginia, Walker Mill Road 1047.</mezo>
-<mezo id = "pmnev">Dr. Kóka János</mezo>
-<mezo id = "pmanev">Ferenczi Gyöngyi</mezo>
+<mezo id = "pmnev">Dr. KÃ³ka JÃ¡nos</mezo>
+<mezo id = "pmanev">Ferenczi GyÃ¶ngyi</mezo>
 <mezo id = "pmirsz">1056</mezo>
-<mezo id = "pmhely">Budapest, Irányi u. 1.</mezo>
+<mezo id = "pmhely">Budapest, IrÃ¡nyi u. 1.</mezo>
 </alrovat>
 <alrovat id = "12">
 <mezo id = "hattol">19990916</mezo>
-<mezo id = "tiszt">igazgatósági tag</mezo>
+<mezo id = "tiszt">igazgatÃ³sÃ¡gi tag</mezo>
 <mezo id = "pnev">David Nelson Kunkel</mezo>
 <mezo id = "panev">Dorothy Jean Smith</mezo>
 <mezo id = "pkorsz">US</mezo>
 <mezo id = "pkhely">Oakton, Virginia, S. Ering Drive 3007.</mezo>
-<mezo id = "pmnev">Dr. Kóka János</mezo>
-<mezo id = "pmanev">Ferenczi Gyöngyi</mezo>
+<mezo id = "pmnev">Dr. KÃ³ka JÃ¡nos</mezo>
+<mezo id = "pmanev">Ferenczi GyÃ¶ngyi</mezo>
 <mezo id = "pmirsz">1056</mezo>
-<mezo id = "pmhely">Budapest, Irányi u. 1.</mezo>
+<mezo id = "pmhely">Budapest, IrÃ¡nyi u. 1.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "14">
@@ -325,12 +325,12 @@
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1077</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Wesselényi u.</mezo>
+<mezo id = "teru">WesselÃ©nyi u.</mezo>
 <mezo id = "hsz">16.</mezo>
-<mezo id = "pnev">Tímár Pál</mezo>
-<mezo id = "panev">Pardi Róza</mezo>
+<mezo id = "pnev">TÃ­mÃ¡r PÃ¡l</mezo>
+<mezo id = "panev">Pardi RÃ³za</mezo>
 <mezo id = "pirsz">1188</mezo>
-<mezo id = "phely">Budapest, Táncsics Mihály u. 98/B.</mezo>
+<mezo id = "phely">Budapest, TÃ¡ncsics MihÃ¡ly u. 98/B.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "15">
@@ -341,10 +341,10 @@
 <mezo id = "pkorsz">CH</mezo>
 <mezo id = "pkirsz">1206</mezo>
 <mezo id = "pkhely">Geneve, Chermin de la Tour de Champel 4.</mezo>
-<mezo id = "pmneve">Dr. Kóka János</mezo>
-<mezo id = "pmanev">Ferenczi Gyöngyi</mezo>
+<mezo id = "pmneve">Dr. KÃ³ka JÃ¡nos</mezo>
+<mezo id = "pmanev">Ferenczi GyÃ¶ngyi</mezo>
 <mezo id = "pmirsz">1056</mezo>
-<mezo id = "pmhely">Budapest, Irányi u. 1.</mezo>
+<mezo id = "pmhely">Budapest, IrÃ¡nyi u. 1.</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">19990916</mezo>
@@ -353,10 +353,10 @@
 <mezo id = "pkorsz">FR</mezo>
 <mezo id = "pkirsz">1220</mezo>
 <mezo id = "pkhely">La Source, Divone les Bains, rue Voltaire 45.</mezo>
-<mezo id = "pmneve">Dr. Kóka János</mezo>
-<mezo id = "pmanev">Ferenczi Gyöngyi</mezo>
+<mezo id = "pmneve">Dr. KÃ³ka JÃ¡nos</mezo>
+<mezo id = "pmanev">Ferenczi GyÃ¶ngyi</mezo>
 <mezo id = "pmirsz">1056</mezo>
-<mezo id = "pmhely">Budapest, Irányi u. 1.</mezo>
+<mezo id = "pmhely">Budapest, IrÃ¡nyi u. 1.</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">19990916</mezo>
@@ -365,17 +365,17 @@
 <mezo id = "pkorsz">US</mezo>
 <mezo id = "pkirsz">20171</mezo>
 <mezo id = "pkhely">Herndon, Viginia, Ashnut Lane 13180.</mezo>
-<mezo id = "pmneve">Dr. Kóka János</mezo>
-<mezo id = "pmanev">Ferenczi Gyöngyi</mezo>
+<mezo id = "pmneve">Dr. KÃ³ka JÃ¡nos</mezo>
+<mezo id = "pmanev">Ferenczi GyÃ¶ngyi</mezo>
 <mezo id = "pmirsz">1056</mezo>
-<mezo id = "pmhely">Budapest, Irányi u. 1.</mezo>
+<mezo id = "pmhely">Budapest, IrÃ¡nyi u. 1.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "16">
 <alrovat id = "1">
 <mezo id = "hattol">19981221</mezo>
 <mezo id = "cgjsz">109067184</mezo>
-<mezo id = "nev">ELENDER Computer Mûszaki Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">ELENDER Computer MÅ±szaki Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "93">
@@ -387,170 +387,170 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Gazdasági társaságokról szóló 1997. évi CXLIV. törvény (Gt.) 292. §-ában foglaltakra tekintettel a PSINet Europe BV. (melynek székhelye: Planetenweg 80P, 2132 HP Hoofddorf, Hollandia) (,,PSINet&apos;&apos;) az alábbi bejelentést teszi.<ujsor/>
-A PSINet részvény adásvétel következtében 1999. szeptember 15-én megszerezte az Elender Informatikai és Számítástechnikai Rt. (1134 Budapest, Váci út 37.; cégjegyzékszám: [01 10 044002]) részvényeinek 100%-át, ezáltal közvetlen irányítást biztosító befolyást szerzett.<ujsor/>
-A hitelezõk a Gt. 296. § (2) bekezdésében foglalt jogaikat gyakorolhatják.<ujsor/>
+<mezo id = "szoveg">A GazdasÃ¡gi tÃ¡rsasÃ¡gokrÃ³l szÃ³lÃ³ 1997. Ã©vi CXLIV. tÃ¶rvÃ©ny (Gt.) 292. Â§-Ã¡ban foglaltakra tekintettel a PSINet Europe BV. (melynek szÃ©khelye: Planetenweg 80P, 2132 HP Hoofddorf, Hollandia) (,,PSINet&apos;&apos;) az alÃ¡bbi bejelentÃ©st teszi.<ujsor/>
+A PSINet rÃ©szvÃ©ny adÃ¡svÃ©tel kÃ¶vetkeztÃ©ben 1999. szeptember 15-Ã©n megszerezte az Elender Informatikai Ã©s SzÃ¡mÃ­tÃ¡stechnikai Rt. (1134 Budapest, VÃ¡ci Ãºt 37.; cÃ©gjegyzÃ©kszÃ¡m: [01 10 044002]) rÃ©szvÃ©nyeinek 100%-Ã¡t, ezÃ¡ltal kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡st szerzett.<ujsor/>
+A hitelezÅ‘k a Gt. 296. Â§ (2) bekezdÃ©sÃ©ben foglalt jogaikat gyakorolhatjÃ¡k.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044002</mezo>
-<mezo id = "nev">ELENDER Informatikai és Számítástechnikai Részvénytársaság</mezo>
+<mezo id = "nev">ELENDER Informatikai Ã©s SzÃ¡mÃ­tÃ¡stechnikai RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az ELENDER Informatikai és Számítástechnikai Részvénytársaság (székhely: 1134 Budapest, Váci út 37.; cégjegyzékszám: [01 10 044002]) közgyûlése 2000. szeptember 29-én úgy határozott, hogy a társaság<ujsor/>
-szétválik. A szétválás módja: különválás.<ujsor/>
-A különválással létrejövõ gazdasági társaságok formája: korlátolt felelõsségû társaság.<ujsor/>
-A különválással létrejövõ gazdasági társaságok (jogutódok):<ujsor/>
-1. PSINet Magyarország Informatikai és Számítástechnikai Korlátolt Felelõsségû Társaság.<ujsor/>
-Rövidített neve: PSINet Magyarország Kft.<ujsor/>
-Székhelye: 1134 Budapest, Váci út 37.<ujsor/>
-Társasági szerzõdés elfogadásának napja: 2000. szeptember 29.<ujsor/>
-Tevékenységi köre: 2211 Könyvkiadás; 2212 Napilapkiadás; 2213 Idõszaki kiadvány kiadása; 2214 Hangfelvétel-kiadás; 2215 Egyéb kiadás; 2231 Hangfelvétel-sokszorosítás; 2232 Videofelvétel-sokszorosítás; 2233 Számítógépes adathordozó sokszorosítása; 2465 Felvétel nélküli hang-, kép-, adathordozó gyártása; 5146 Gyógyszer, gyógyászati termék nagykereskedelme; 5212 Iparcikk jellegû vegyes kiskereskedelem; 5248 Egyéb máshova nem sorolt iparcikk-kiskereskedelem; 5261 Csomagküldõ kiskereskedelem; 6330 Utazásszervezés; 6420 Távközlés; 7020 Ingatlan bérbeadása, üzemeltetése; 7210 Hardver-szaktanácsadás; 7220 Szoftverkészítés, -szaktanácsadás; 7230 Adatfeldolgozás; 7240 Adatbanki tevékenység; 7250 Iroda-, számítógép -javítás; 7260 Egyéb számítástechnikai tevékenység; 7413 Piac- és közvélemény-kutatás; 7414 Üzletviteli tanácsadás; 7440 Hirdetés; 9211 Film-, videogyártás; 9212 Film-, video terjesztés; 9213 Filmvetítés; 9220 Rádió-televízió mûsorszolgáltatás; 9240 Hírügynökségi tevékenység; 9271 Szerencsejáték, fogadás; 9305 Máshova nem sorolt egyéb szolgáltatás.<ujsor/>
-Vezetõ tisztségviselõi: Harry George Hobbs, ügyvezetõ (lakóhely: Yatton Road 17971, Round Hill Virginia 20141, Amerikai Egyesült Államok); Harold Serviss Wills, ügyvezetõ (lakóhely: 1047 Walker Mill Road, Great Falls Virginia 22066, Amerikai Egyesült Államok); és dr. Kóka János, ügyvezetõ (lakóhely: 1056 Budapest, Irányi u. 1.).<ujsor/>
-2. Interdotnet Magyarország Informatikai és Számítástechnikai Korlátolt Felelõsségû Társaság. Rövidített neve: Interdotnet Magyarország Kft.<ujsor/>
-Székhelye: 1134 Budapest, Váci út 37.<ujsor/>
-Társasági szerzõdés elfogadásának napja: 2000. szeptember 29.<ujsor/>
-Tevékenységi köre: 2211 Könyvkiadás; 2212 Napilapkiadás; 2213 Idõszaki kiadvány kiadása; 2214 Hangfelvétel-kiadás; 2215 Egyéb kiadás; 2231 Hangfelvétel-sokszorosítás; 2232 Videofelvétel-sokszorosítás; 2233 Számítógépes adathordozó sokszorosítása; 2465 Felvétel nélküli hang-, kép-, adathordozó gyártása; 5164 Irodagép, -berendezés nagykereskedelme; 5212 Iparcikk jellegû vegyes kiskereskedelem; 5248 Egyéb máshova nem sorolt iparcikk-kiskereskedelem; 5261 Csomagküldõ kiskereskedelem; 6330 Utazásszervezés; 6420 Távközlés; 7020 Ingatlan bérbeadása, üzemeltetése; 7210 Hardver-szaktanácsadás; 7220 Szoftverkészítés, -szaktanácsadás; 7230 Adatfeldolgozás; 7240 Adatbanki tevékenység; 7250 Iroda-, számítógép -javítás; 7260 Egyéb számítástechnikai tevékenység; 7413 Piac- és közvélemény-kutatás; 7414 Üzletviteli tanácsadás; 7440 Hirdetés; 9211 Film-, videogyártás; 9212 Film-, video terjesztés; 9213 Filmvetítés; 9220 Rádió-televízió mûsorszolgáltatás; 9240 Hírügynökségi tevékenység; 9271 Szerencsejáték, fogadás; 9305 Máshova nem sorolt egyéb szolgáltatás.<ujsor/>
-Vezetõ tisztségviselõje: David Browning ügyvezetõ (lakóhely: 9889 Windy Hollow Road, Great Falls, Virginia, Amerikai Egyesült Államok).<ujsor/>
-Az átalakuló ELENDER Rt. vagyonmérleg-tervezetének fõbb adatai (2000. június 30.):<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-A) Befektetett eszközök 1 376 334 D) Saját tõke 373 286<ujsor/>
-I. Immateriális javak 211 851 I. Jegyzett tõke 100 000<ujsor/>
-II. Tárgyi eszközök 511 432 II. Jegyzett, de még be nem fizetett tõke <ujsor/>
-III. Befektetett pénzügyi eszközök 653 051 III. Tõketartalék 237 952<ujsor/>
-B) Forgóeszközök 645 400 IV. Eredménytartalék 35 334<ujsor/>
-I. Készletek 38 773 V. Értékelési tartalék <ujsor/>
-II. Követelések 279 076 VI. Mérleg szerinti eredmény <ujsor/>
-III. Értékpapírok 101 724 E) Céltartalékok 35 532<ujsor/>
-IV. Pénzeszközök 225 827 F) Kötelezettségek 1 209 381<ujsor/>
-C) Aktív idõbeli elhatárolások 30 236 I. Hosszú lejáratú kötelezettségek 876 577<ujsor/>
-  II. Rövid lejáratú kötelezettségek 332 804<ujsor/>
-  G) Passzív idõbeli elhatárolások 433 771<ujsor/>
-ÖSSZESEN: 2 051 970 ÖSSZESEN: 2 051 970<ujsor/>
-A szétválással létrejövõ PSINet Magyarország Kft. vagyonmérleg-tervezetének fõbb adatai (2000. június 30.):<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-A) Befektetett eszközök 1 363 562 D) Saját tõke 346 821<ujsor/>
-I. Immateriális javak 211 851 I. Jegyzett tõke 3 000<ujsor/>
-II. Tárgyi eszközök 498 660 II. Jegyzett, de még be nem fizetett tõke <ujsor/>
-III. Befektetett pénzügyi eszközök 653 051 III. Tõketartalék 331 952<ujsor/>
-B) Forgóeszközök 556 570 IV. Eredménytartalék 11 869<ujsor/>
-I. Készletek 38 773 V. Értékelési tartalék <ujsor/>
-II. Követelések 193 246 VI. Mérleg szerinti eredmény <ujsor/>
-III. Értékpapírok 101 724 E) Céltartalékok 28 124<ujsor/>
-IV. Pénzeszközök 222 827 F) Kötelezettségek 1 204 470<ujsor/>
-C) Aktív idõbeli elhatárolások 24 150 I. Hosszú lejáratú kötelezettségek 874 983<ujsor/>
-  II. Rövid lejáratú kötelezettségek 329 487<ujsor/>
-  G) Passzív idõbeli elhatárolások 364 867<ujsor/>
-ÖSSZESEN: 1 944 282 ÖSSZESEN: 1 944 282<ujsor/>
-A szétválással létrejövõ Interdotnet Magyarország Kft. vagyonmérleg-tervezetének fõbb adatai (2000. június 30.):<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-A) Befektetett eszközök 12 772 D) Saját tõke 26 465<ujsor/>
-I. Immateriális javak  I. Jegyzett tõke 3 000<ujsor/>
-II. Tárgyi eszközök 12 772 II. Jegyzett, de még be nem fizetett tõke <ujsor/>
-III. Befektetett pénzügyi eszközök  III. Tõketartalék <ujsor/>
-B) Forgóeszközök 88 830 IV. Eredménytartalék 23 465<ujsor/>
-I. Készletek  V. Értékelési tartalék <ujsor/>
-II. Követelések 85 830 VI. Mérleg szerinti eredmény <ujsor/>
-III. Értékpapírok  E) Céltartalékok 7 408<ujsor/>
-IV. Pénzeszközök 3 000 F) Kötelezettségek 4 911<ujsor/>
-C) Aktív idõbeli elhatárolások 6 086 I. Hosszú lejáratú kötelezettségek 1 594<ujsor/>
-  II. Rövid lejáratú kötelezettségek 3 317<ujsor/>
-  G) Passzív idõbeli elhatárolások 68 904<ujsor/>
-ÖSSZESEN: 107 688 ÖSSZESEN: 107 688<ujsor/>
-A különválás után az üzleti elõfizetõkkel kapcsolatos szerzõdéses jogok és kötelezettségek a PSINet Magyarország Kft.-hez, míg a lakossági elõfizetõkkel kapcsolatos szerzõdéses jogok és kötelezettségek az Interdotnet Magyarország Kft.-hez kerülnek ennek megfelelõen a lakossági elõfizetõkkel összefüggésben foglalkoztatott munkavállalók az Interdotnet Magyarország Kft.-hez, míg az üzleti elõfizetõkkel összefüggésben foglalkoztatott munkavállalók a PSINet Magyarország Kft.-hez kerülnek. Az Internet szolgáltatás teljes eszközrendszere azonban a PSINet Magyarország Kft.-hez kerül. Az Interdotnet Magyarország Kft.-hez csak az átkerülõ munkavállalók személyes használatú eszközei kerülnek.<ujsor/>
-A saját tõke a PSINet Magyarország Kft. és az Interdotnet Magyarország Kft. között 92,91%-7,09% arányban kerül megosztásra.<ujsor/>
-Az átalakuló társaság felhívja ismert és ismeretlen hitelezõit, hogy a Gt. 66. § (1) és (2) bekezdése szerint járhatnak el.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">Az ELENDER Informatikai Ã©s SzÃ¡mÃ­tÃ¡stechnikai RÃ©szvÃ©nytÃ¡rsasÃ¡g (szÃ©khely: 1134 Budapest, VÃ¡ci Ãºt 37.; cÃ©gjegyzÃ©kszÃ¡m: [01 10 044002]) kÃ¶zgyÅ±lÃ©se 2000. szeptember 29-Ã©n Ãºgy hatÃ¡rozott, hogy a tÃ¡rsasÃ¡g<ujsor/>
+szÃ©tvÃ¡lik. A szÃ©tvÃ¡lÃ¡s mÃ³dja: kÃ¼lÃ¶nvÃ¡lÃ¡s.<ujsor/>
+A kÃ¼lÃ¶nvÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡gok formÃ¡ja: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+A kÃ¼lÃ¶nvÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡gok (jogutÃ³dok):<ujsor/>
+1. PSINet MagyarorszÃ¡g Informatikai Ã©s SzÃ¡mÃ­tÃ¡stechnikai KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+RÃ¶vidÃ­tett neve: PSINet MagyarorszÃ¡g Kft.<ujsor/>
+SzÃ©khelye: 1134 Budapest, VÃ¡ci Ãºt 37.<ujsor/>
+TÃ¡rsasÃ¡gi szerzÅ‘dÃ©s elfogadÃ¡sÃ¡nak napja: 2000. szeptember 29.<ujsor/>
+TevÃ©kenysÃ©gi kÃ¶re: 2211 KÃ¶nyvkiadÃ¡s; 2212 NapilapkiadÃ¡s; 2213 IdÅ‘szaki kiadvÃ¡ny kiadÃ¡sa; 2214 HangfelvÃ©tel-kiadÃ¡s; 2215 EgyÃ©b kiadÃ¡s; 2231 HangfelvÃ©tel-sokszorosÃ­tÃ¡s; 2232 VideofelvÃ©tel-sokszorosÃ­tÃ¡s; 2233 SzÃ¡mÃ­tÃ³gÃ©pes adathordozÃ³ sokszorosÃ­tÃ¡sa; 2465 FelvÃ©tel nÃ©lkÃ¼li hang-, kÃ©p-, adathordozÃ³ gyÃ¡rtÃ¡sa; 5146 GyÃ³gyszer, gyÃ³gyÃ¡szati termÃ©k nagykereskedelme; 5212 Iparcikk jellegÅ± vegyes kiskereskedelem; 5248 EgyÃ©b mÃ¡shova nem sorolt iparcikk-kiskereskedelem; 5261 CsomagkÃ¼ldÅ‘ kiskereskedelem; 6330 UtazÃ¡sszervezÃ©s; 6420 TÃ¡vkÃ¶zlÃ©s; 7020 Ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se; 7210 Hardver-szaktanÃ¡csadÃ¡s; 7220 SzoftverkÃ©szÃ­tÃ©s, -szaktanÃ¡csadÃ¡s; 7230 AdatfeldolgozÃ¡s; 7240 Adatbanki tevÃ©kenysÃ©g; 7250 Iroda-, szÃ¡mÃ­tÃ³gÃ©p -javÃ­tÃ¡s; 7260 EgyÃ©b szÃ¡mÃ­tÃ¡stechnikai tevÃ©kenysÃ©g; 7413 Piac- Ã©s kÃ¶zvÃ©lemÃ©ny-kutatÃ¡s; 7414 Ãœzletviteli tanÃ¡csadÃ¡s; 7440 HirdetÃ©s; 9211 Film-, videogyÃ¡rtÃ¡s; 9212 Film-, video terjesztÃ©s; 9213 FilmvetÃ­tÃ©s; 9220 RÃ¡diÃ³-televÃ­ziÃ³ mÅ±sorszolgÃ¡ltatÃ¡s; 9240 HÃ­rÃ¼gynÃ¶ksÃ©gi tevÃ©kenysÃ©g; 9271 SzerencsejÃ¡tÃ©k, fogadÃ¡s; 9305 MÃ¡shova nem sorolt egyÃ©b szolgÃ¡ltatÃ¡s.<ujsor/>
+VezetÅ‘ tisztsÃ©gviselÅ‘i: Harry George Hobbs, Ã¼gyvezetÅ‘ (lakÃ³hely: Yatton Road 17971, Round Hill Virginia 20141, Amerikai EgyesÃ¼lt Ãllamok); Harold Serviss Wills, Ã¼gyvezetÅ‘ (lakÃ³hely: 1047 Walker Mill Road, Great Falls Virginia 22066, Amerikai EgyesÃ¼lt Ãllamok); Ã©s dr. KÃ³ka JÃ¡nos, Ã¼gyvezetÅ‘ (lakÃ³hely: 1056 Budapest, IrÃ¡nyi u. 1.).<ujsor/>
+2. Interdotnet MagyarorszÃ¡g Informatikai Ã©s SzÃ¡mÃ­tÃ¡stechnikai KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g. RÃ¶vidÃ­tett neve: Interdotnet MagyarorszÃ¡g Kft.<ujsor/>
+SzÃ©khelye: 1134 Budapest, VÃ¡ci Ãºt 37.<ujsor/>
+TÃ¡rsasÃ¡gi szerzÅ‘dÃ©s elfogadÃ¡sÃ¡nak napja: 2000. szeptember 29.<ujsor/>
+TevÃ©kenysÃ©gi kÃ¶re: 2211 KÃ¶nyvkiadÃ¡s; 2212 NapilapkiadÃ¡s; 2213 IdÅ‘szaki kiadvÃ¡ny kiadÃ¡sa; 2214 HangfelvÃ©tel-kiadÃ¡s; 2215 EgyÃ©b kiadÃ¡s; 2231 HangfelvÃ©tel-sokszorosÃ­tÃ¡s; 2232 VideofelvÃ©tel-sokszorosÃ­tÃ¡s; 2233 SzÃ¡mÃ­tÃ³gÃ©pes adathordozÃ³ sokszorosÃ­tÃ¡sa; 2465 FelvÃ©tel nÃ©lkÃ¼li hang-, kÃ©p-, adathordozÃ³ gyÃ¡rtÃ¡sa; 5164 IrodagÃ©p, -berendezÃ©s nagykereskedelme; 5212 Iparcikk jellegÅ± vegyes kiskereskedelem; 5248 EgyÃ©b mÃ¡shova nem sorolt iparcikk-kiskereskedelem; 5261 CsomagkÃ¼ldÅ‘ kiskereskedelem; 6330 UtazÃ¡sszervezÃ©s; 6420 TÃ¡vkÃ¶zlÃ©s; 7020 Ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se; 7210 Hardver-szaktanÃ¡csadÃ¡s; 7220 SzoftverkÃ©szÃ­tÃ©s, -szaktanÃ¡csadÃ¡s; 7230 AdatfeldolgozÃ¡s; 7240 Adatbanki tevÃ©kenysÃ©g; 7250 Iroda-, szÃ¡mÃ­tÃ³gÃ©p -javÃ­tÃ¡s; 7260 EgyÃ©b szÃ¡mÃ­tÃ¡stechnikai tevÃ©kenysÃ©g; 7413 Piac- Ã©s kÃ¶zvÃ©lemÃ©ny-kutatÃ¡s; 7414 Ãœzletviteli tanÃ¡csadÃ¡s; 7440 HirdetÃ©s; 9211 Film-, videogyÃ¡rtÃ¡s; 9212 Film-, video terjesztÃ©s; 9213 FilmvetÃ­tÃ©s; 9220 RÃ¡diÃ³-televÃ­ziÃ³ mÅ±sorszolgÃ¡ltatÃ¡s; 9240 HÃ­rÃ¼gynÃ¶ksÃ©gi tevÃ©kenysÃ©g; 9271 SzerencsejÃ¡tÃ©k, fogadÃ¡s; 9305 MÃ¡shova nem sorolt egyÃ©b szolgÃ¡ltatÃ¡s.<ujsor/>
+VezetÅ‘ tisztsÃ©gviselÅ‘je: David Browning Ã¼gyvezetÅ‘ (lakÃ³hely: 9889 Windy Hollow Road, Great Falls, Virginia, Amerikai EgyesÃ¼lt Ãllamok).<ujsor/>
+Az Ã¡talakulÃ³ ELENDER Rt. vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai (2000. jÃºnius 30.):<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 1 376 334 D) SajÃ¡t tÅ‘ke 373 286<ujsor/>
+I. ImmateriÃ¡lis javak 211 851 I. Jegyzett tÅ‘ke 100 000<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 511 432 II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke <ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 653 051 III. TÅ‘ketartalÃ©k 237 952<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 645 400 IV. EredmÃ©nytartalÃ©k 35 334<ujsor/>
+I. KÃ©szletek 38 773 V. Ã‰rtÃ©kelÃ©si tartalÃ©k <ujsor/>
+II. KÃ¶vetelÃ©sek 279 076 VI. MÃ©rleg szerinti eredmÃ©ny <ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 101 724 E) CÃ©ltartalÃ©kok 35 532<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 225 827 F) KÃ¶telezettsÃ©gek 1 209 381<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 30 236 I. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 876 577<ujsor/>
+  II. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 332 804<ujsor/>
+  G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 433 771<ujsor/>
+Ã–SSZESEN: 2 051 970 Ã–SSZESEN: 2 051 970<ujsor/>
+A szÃ©tvÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ PSINet MagyarorszÃ¡g Kft. vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai (2000. jÃºnius 30.):<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 1 363 562 D) SajÃ¡t tÅ‘ke 346 821<ujsor/>
+I. ImmateriÃ¡lis javak 211 851 I. Jegyzett tÅ‘ke 3 000<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 498 660 II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke <ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 653 051 III. TÅ‘ketartalÃ©k 331 952<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 556 570 IV. EredmÃ©nytartalÃ©k 11 869<ujsor/>
+I. KÃ©szletek 38 773 V. Ã‰rtÃ©kelÃ©si tartalÃ©k <ujsor/>
+II. KÃ¶vetelÃ©sek 193 246 VI. MÃ©rleg szerinti eredmÃ©ny <ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 101 724 E) CÃ©ltartalÃ©kok 28 124<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 222 827 F) KÃ¶telezettsÃ©gek 1 204 470<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 24 150 I. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 874 983<ujsor/>
+  II. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 329 487<ujsor/>
+  G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 364 867<ujsor/>
+Ã–SSZESEN: 1 944 282 Ã–SSZESEN: 1 944 282<ujsor/>
+A szÃ©tvÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ Interdotnet MagyarorszÃ¡g Kft. vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai (2000. jÃºnius 30.):<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 12 772 D) SajÃ¡t tÅ‘ke 26 465<ujsor/>
+I. ImmateriÃ¡lis javak  I. Jegyzett tÅ‘ke 3 000<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 12 772 II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke <ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k  III. TÅ‘ketartalÃ©k <ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 88 830 IV. EredmÃ©nytartalÃ©k 23 465<ujsor/>
+I. KÃ©szletek  V. Ã‰rtÃ©kelÃ©si tartalÃ©k <ujsor/>
+II. KÃ¶vetelÃ©sek 85 830 VI. MÃ©rleg szerinti eredmÃ©ny <ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok  E) CÃ©ltartalÃ©kok 7 408<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 3 000 F) KÃ¶telezettsÃ©gek 4 911<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 6 086 I. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 1 594<ujsor/>
+  II. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 3 317<ujsor/>
+  G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 68 904<ujsor/>
+Ã–SSZESEN: 107 688 Ã–SSZESEN: 107 688<ujsor/>
+A kÃ¼lÃ¶nvÃ¡lÃ¡s utÃ¡n az Ã¼zleti elÅ‘fizetÅ‘kkel kapcsolatos szerzÅ‘dÃ©ses jogok Ã©s kÃ¶telezettsÃ©gek a PSINet MagyarorszÃ¡g Kft.-hez, mÃ­g a lakossÃ¡gi elÅ‘fizetÅ‘kkel kapcsolatos szerzÅ‘dÃ©ses jogok Ã©s kÃ¶telezettsÃ©gek az Interdotnet MagyarorszÃ¡g Kft.-hez kerÃ¼lnek ennek megfelelÅ‘en a lakossÃ¡gi elÅ‘fizetÅ‘kkel Ã¶sszefÃ¼ggÃ©sben foglalkoztatott munkavÃ¡llalÃ³k az Interdotnet MagyarorszÃ¡g Kft.-hez, mÃ­g az Ã¼zleti elÅ‘fizetÅ‘kkel Ã¶sszefÃ¼ggÃ©sben foglalkoztatott munkavÃ¡llalÃ³k a PSINet MagyarorszÃ¡g Kft.-hez kerÃ¼lnek. Az Internet szolgÃ¡ltatÃ¡s teljes eszkÃ¶zrendszere azonban a PSINet MagyarorszÃ¡g Kft.-hez kerÃ¼l. Az Interdotnet MagyarorszÃ¡g Kft.-hez csak az Ã¡tkerÃ¼lÅ‘ munkavÃ¡llalÃ³k szemÃ©lyes hasznÃ¡latÃº eszkÃ¶zei kerÃ¼lnek.<ujsor/>
+A sajÃ¡t tÅ‘ke a PSINet MagyarorszÃ¡g Kft. Ã©s az Interdotnet MagyarorszÃ¡g Kft. kÃ¶zÃ¶tt 92,91%-7,09% arÃ¡nyban kerÃ¼l megosztÃ¡sra.<ujsor/>
+Az Ã¡talakulÃ³ tÃ¡rsasÃ¡g felhÃ­vja ismert Ã©s ismeretlen hitelezÅ‘it, hogy a Gt. 66. Â§ (1) Ã©s (2) bekezdÃ©se szerint jÃ¡rhatnak el.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044002</mezo>
-<mezo id = "nev">ELENDER Informatikai és Számítástechnikai Részvénytársaság</mezo>
+<mezo id = "nev">ELENDER Informatikai Ã©s SzÃ¡mÃ­tÃ¡stechnikai RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az ELENDER Informatikai és Számítástechnikai Részvénytársaság (székhely: 1134 Budapest, Váci út 37.; cégjegyzékszám: [01 10 044002]) közgyûlése 2000. szeptember 29-én úgy határozott, hogy a társaság<ujsor/>
-szétválik.<ujsor/>
-A szétválás módja: különválás.<ujsor/>
-A különválással létrejövõ gazdasági társaságok formája: korlátolt felelõsségû társaság.<ujsor/>
-A különválással létrejövõ gazdasági társaságok (jogutódok):<ujsor/>
-1. PSINet Magyarország Informatikai és Számítástechnikai Korlátolt Felelõsségû Társaság.<ujsor/>
-Rövidített neve: PSINet Magyarország Kft.<ujsor/>
-Székhelye: 1134 Budapest, Váci út 37.<ujsor/>
-Társasági szerzõdés elfogadásának napja: 2000. szeptember 29.<ujsor/>
-Tevékenységi köre: 2211 Könyvkiadás; 2212 Napilapkiadás; 2213 Idõszaki kiadvány kiadása; 2214 Hangfelvétel-kiadás; 2215 Egyéb kiadás; 2231 Hangfelvétel-sokszorosítás; 2232 Videofelvétel-sokszorosítás; 2233 Számítógépes adathordozó sokszorosítása; 2465 Felvétel nélküli hang-, kép-, adathordozó gyártása; 5146 Gyógyszer, gyógyászati termék nagykereskedelme; 5212 Iparcikk jellegû vegyes kiskereskedelem; 5248 Egyéb máshova nem sorolt iparcikk-kiskereskedelem; 5261 Csomagküldõ kiskereskedelem; 6330 Utazásszervezés; 6420 Távközlés; 7020 Ingatlan bérbeadása, üzemeltetése; 7210 Hardver-szaktanácsadás; 7220 Szoftverkészítés, -szaktanácsadás; 7230 Adatfeldolgozás; 7240 Adatbanki tevékenység; 7250 Iroda-, számítógép -javítás; 7260 Egyéb számítástechnikai tevékenység; 7413 Piac- és közvélemény-kutatás; 7414 Üzletviteli tanácsadás; 7440 Hirdetés; 9211 Film-, videogyártás; 9212 Film-, video terjesztés; 9213 Filmvetítés; 9220 Rádió-televízió mûsorszolgáltatás; 9240 Hírügynökségi tevékenység; 9271 Szerencsejáték, fogadás; 9305 Máshova nem sorolt egyéb szolgáltatás.<ujsor/>
-Vezetõ tisztségviselõi: Harry George Hobbs, ügyvezetõ (lakóhely: Yatton Road 17971, Round Hill Virginia 20141, Amerikai Egyesült Államok); Harold Serviss Wills, ügyvezetõ (lakóhely: 1047 Walker Mill Road, Great Falls Virginia 22066, Amerikai Egyesült Államok); és dr. Kóka János, ügyvezetõ (lakóhely: 1056 Budapest, Irányi u. 1.).<ujsor/>
-2. Interdotnet Magyarország Informatikai és Számítástechnikai Korlátolt Felelõsségû Társaság.<ujsor/>
-Rövidített neve: Interdotnet Magyarország Kft.<ujsor/>
-Székhelye: 1134 Budapest, Váci út 37.<ujsor/>
-Társasági szerzõdés elfogadásának napja: 2000. szeptember 29.<ujsor/>
-Tevékenységi köre: 2211 Könyvkiadás; 2212 Napilapkiadás; 2213 Idõszaki kiadvány kiadása; 2214 Hangfelvétel-kiadás; 2215 Egyéb kiadás; 2231 Hangfelvétel-sokszorosítás; 2232 Videofelvétel-sokszorosítás; 2233 Számítógépes adathordozó sokszorosítása; 2465 Felvétel nélküli hang-, kép-, adathordozó gyártása; 5164 Irodagép, -berendezés nagykereskedelme; 5212 Iparcikk jellegû vegyes kiskereskedelem; 5248 Egyéb máshova nem sorolt iparcikk-kiskereskedelem; 5261 Csomagküldõ kiskereskedelem; 6330 Utazásszervezés; 6420 Távközlés; 7020 Ingatlan bérbeadása, üzemeltetése; 7210 Hardver-szaktanácsadás; 7220 Szoftverkészítés, -szaktanácsadás; 7230 Adatfeldolgozás; 7240 Adatbanki tevékenység; 7250 Iroda-, számítógép-javítás; 7260 Egyéb számítástechnikai tevékenység; 7413 Piac- és közvélemény-kutatás; 7414 Üzletviteli tanácsadás; 7440 Hirdetés; 9211 Film-, videogyártás; 9212 Film-, video terjesztés; 9213 Filmvetítés; 9220 Rádió-televízió mûsorszolgáltatás; 9240 Hírügynökségi tevékenység; 9271 Szerencsejáték, fogadás; 9305 Máshova nem sorolt egyéb szolgáltatás.<ujsor/>
-Vezetõ tisztségviselõje: David Browning ügyvezetõ (lakóhely: 9889 Windy Hollow Road, Great Falls, Virginia, Amerikai Egyesült Államok).<ujsor/>
-Az átalakuló ELENDER Rt. vagyonmérleg-tervezetének fõbb adatai (2000. június 30.):<ujsor/>
- ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
- A) Befektetett eszközök 1 376 334 D) Saját tõke 373 286<ujsor/>
- I. Immateriális javak 211 851 I. Jegyzett tõke 100 000<ujsor/>
- II. Tárgyi eszközök 511 432 II. Jegyzett, de még be nem fizetett tõke <ujsor/>
- III. Befektetett pénzügyi eszközök 653 051 III. Tõketartalék 237 952<ujsor/>
- B) Forgóeszközök 645 400 IV. Eredménytartalék 35 334<ujsor/>
- I. Készletek 38 773 V. Értékelési tartalék <ujsor/>
- II. Követelések 279 076 VI. Mérleg szerinti eredmény <ujsor/>
- III. Értékpapírok 101 724 E) Céltartalékok 35 532<ujsor/>
- IV. Pénzeszközök 225 827 F) Kötelezettségek 1 209 381<ujsor/>
- C) Aktív idõbeli elhatárolások 30 236 I. Hosszú lejáratú kötelezettségek 876 577<ujsor/>
-   II. Rövid lejáratú kötelezettségek 332 804<ujsor/>
-   G) Passzív idõbeli elhatárolások 433 771<ujsor/>
- ÖSSZESEN: 2 051 970 ÖSSZESEN: 2 051 970<ujsor/>
-A szétválással létrejövõ PSINet Magyarország Kft. vagyonmérleg-tervezetének fõbb adatai (2000. június 30.):<ujsor/>
- ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
- A) Befektetett eszközök 1 363 562 D) Saját tõke 346 821<ujsor/>
- I. Immateriális javak 211 851 I. Jegyzett tõke 3 000<ujsor/>
- II. Tárgyi eszközök 498 660 II. Jegyzett, de még be nem fizetett tõke <ujsor/>
- III. Befektetett pénzügyi eszközök 653 051 III. Tõketartalék 331 952<ujsor/>
- B) Forgóeszközök 556 570 IV. Eredménytartalék 11 869<ujsor/>
- I. Készletek 38 773 V. Értékelési tartalék <ujsor/>
- II. Követelések 193 246 VI. Mérleg szerinti eredmény <ujsor/>
- III. Értékpapírok 101 724 E) Céltartalékok 28 124<ujsor/>
- IV. Pénzeszközök 222 827 F) Kötelezettségek 1 204 470<ujsor/>
- C) Aktív idõbeli elhatárolások 24 150 I. Hosszú lejáratú kötelezettségek 874 983<ujsor/>
-   II. Rövid lejáratú kötelezettségek 329 487<ujsor/>
-   G) Passzív idõbeli elhatárolások 364 867<ujsor/>
- ÖSSZESEN: 1 944 282 ÖSSZESEN: 1 944 282<ujsor/>
-A szétválással létrejövõ Interdotnet Magyarország Kft. vagyonmérleg-tervezetének fõbb adatai (2000. június 30.):<ujsor/>
- ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
- A) Befektetett eszközök 12 772 D) Saját tõke 26 465<ujsor/>
- I. Immateriális javak  I. Jegyzett tõke 3 000<ujsor/>
- II. Tárgyi eszközök 12 772 II. Jegyzett, de még be nem fizetett tõke <ujsor/>
- III. Befektetett pénzügyi eszközök  III. Tõketartalék <ujsor/>
- B) Forgóeszközök 88 830 IV. Eredménytartalék 23 465<ujsor/>
- I. Készletek  V. Értékelési tartalék <ujsor/>
- II. Követelések 85 830 VI. Mérleg szerinti eredmény <ujsor/>
- III. Értékpapírok  E) Céltartalékok 7 408<ujsor/>
- IV. Pénzeszközök 3 000 F) Kötelezettségek 4 911<ujsor/>
- C) Aktív idõbeli elhatárolások 6 086 I. Hosszú lejáratú kötelezettségek 1 594<ujsor/>
-   II. Rövid lejáratú kötelezettségek 3 317<ujsor/>
-   G) Passzív idõbeli elhatárolások 68 904<ujsor/>
- ÖSSZESEN: 107 688 ÖSSZESEN: 107 688<ujsor/>
-A különválás után az üzleti elõfizetõkkel kapcsolatos szerzõdéses jogok és kötelezettségek a PSINet Magyarország Kft.-hez, míg a lakossági elõfizetõkkel kapcsolatos szerzõdéses jogok és kötelezettségek az Interdotnet Magyarország Kft.-hez kerülnek. Ennek megfelelõen a lakossági elõfizetõkkel összefüggésben foglalkoztatott munkavállalók az Interdotnet Magyarország Kft.-hez, míg az üzleti elõfizetõkkel összefüggésben foglalkoztatott munkavállalók a PSINet Magyarország Kft.-hez kerülnek. Az Internet szolgáltatás teljes eszközrendszere azonban a PSINet Magyarország Kft.-hez kerül. Az Interdotnet Magyarország Kft.-hez csak az átkerülõ munkavállalók személyes használatú eszközei kerülnek.<ujsor/>
-A saját tõke a PSINet Magyarország Kft. és az Interdotnet Magyarország Kft. között 92,91%-7,09% arányban kerül megosztásra.<ujsor/>
-Az átalakuló társaság felhívja ismert és ismeretlen hitelezõit, hogy a Gt. 66. § (1) és (2) bekezdése szerint járhatnak el.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">Az ELENDER Informatikai Ã©s SzÃ¡mÃ­tÃ¡stechnikai RÃ©szvÃ©nytÃ¡rsasÃ¡g (szÃ©khely: 1134 Budapest, VÃ¡ci Ãºt 37.; cÃ©gjegyzÃ©kszÃ¡m: [01 10 044002]) kÃ¶zgyÅ±lÃ©se 2000. szeptember 29-Ã©n Ãºgy hatÃ¡rozott, hogy a tÃ¡rsasÃ¡g<ujsor/>
+szÃ©tvÃ¡lik.<ujsor/>
+A szÃ©tvÃ¡lÃ¡s mÃ³dja: kÃ¼lÃ¶nvÃ¡lÃ¡s.<ujsor/>
+A kÃ¼lÃ¶nvÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡gok formÃ¡ja: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+A kÃ¼lÃ¶nvÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡gok (jogutÃ³dok):<ujsor/>
+1. PSINet MagyarorszÃ¡g Informatikai Ã©s SzÃ¡mÃ­tÃ¡stechnikai KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+RÃ¶vidÃ­tett neve: PSINet MagyarorszÃ¡g Kft.<ujsor/>
+SzÃ©khelye: 1134 Budapest, VÃ¡ci Ãºt 37.<ujsor/>
+TÃ¡rsasÃ¡gi szerzÅ‘dÃ©s elfogadÃ¡sÃ¡nak napja: 2000. szeptember 29.<ujsor/>
+TevÃ©kenysÃ©gi kÃ¶re: 2211 KÃ¶nyvkiadÃ¡s; 2212 NapilapkiadÃ¡s; 2213 IdÅ‘szaki kiadvÃ¡ny kiadÃ¡sa; 2214 HangfelvÃ©tel-kiadÃ¡s; 2215 EgyÃ©b kiadÃ¡s; 2231 HangfelvÃ©tel-sokszorosÃ­tÃ¡s; 2232 VideofelvÃ©tel-sokszorosÃ­tÃ¡s; 2233 SzÃ¡mÃ­tÃ³gÃ©pes adathordozÃ³ sokszorosÃ­tÃ¡sa; 2465 FelvÃ©tel nÃ©lkÃ¼li hang-, kÃ©p-, adathordozÃ³ gyÃ¡rtÃ¡sa; 5146 GyÃ³gyszer, gyÃ³gyÃ¡szati termÃ©k nagykereskedelme; 5212 Iparcikk jellegÅ± vegyes kiskereskedelem; 5248 EgyÃ©b mÃ¡shova nem sorolt iparcikk-kiskereskedelem; 5261 CsomagkÃ¼ldÅ‘ kiskereskedelem; 6330 UtazÃ¡sszervezÃ©s; 6420 TÃ¡vkÃ¶zlÃ©s; 7020 Ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se; 7210 Hardver-szaktanÃ¡csadÃ¡s; 7220 SzoftverkÃ©szÃ­tÃ©s, -szaktanÃ¡csadÃ¡s; 7230 AdatfeldolgozÃ¡s; 7240 Adatbanki tevÃ©kenysÃ©g; 7250 Iroda-, szÃ¡mÃ­tÃ³gÃ©p -javÃ­tÃ¡s; 7260 EgyÃ©b szÃ¡mÃ­tÃ¡stechnikai tevÃ©kenysÃ©g; 7413 Piac- Ã©s kÃ¶zvÃ©lemÃ©ny-kutatÃ¡s; 7414 Ãœzletviteli tanÃ¡csadÃ¡s; 7440 HirdetÃ©s; 9211 Film-, videogyÃ¡rtÃ¡s; 9212 Film-, video terjesztÃ©s; 9213 FilmvetÃ­tÃ©s; 9220 RÃ¡diÃ³-televÃ­ziÃ³ mÅ±sorszolgÃ¡ltatÃ¡s; 9240 HÃ­rÃ¼gynÃ¶ksÃ©gi tevÃ©kenysÃ©g; 9271 SzerencsejÃ¡tÃ©k, fogadÃ¡s; 9305 MÃ¡shova nem sorolt egyÃ©b szolgÃ¡ltatÃ¡s.<ujsor/>
+VezetÅ‘ tisztsÃ©gviselÅ‘i: Harry George Hobbs, Ã¼gyvezetÅ‘ (lakÃ³hely: Yatton Road 17971, Round Hill Virginia 20141, Amerikai EgyesÃ¼lt Ãllamok); Harold Serviss Wills, Ã¼gyvezetÅ‘ (lakÃ³hely: 1047 Walker Mill Road, Great Falls Virginia 22066, Amerikai EgyesÃ¼lt Ãllamok); Ã©s dr. KÃ³ka JÃ¡nos, Ã¼gyvezetÅ‘ (lakÃ³hely: 1056 Budapest, IrÃ¡nyi u. 1.).<ujsor/>
+2. Interdotnet MagyarorszÃ¡g Informatikai Ã©s SzÃ¡mÃ­tÃ¡stechnikai KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+RÃ¶vidÃ­tett neve: Interdotnet MagyarorszÃ¡g Kft.<ujsor/>
+SzÃ©khelye: 1134 Budapest, VÃ¡ci Ãºt 37.<ujsor/>
+TÃ¡rsasÃ¡gi szerzÅ‘dÃ©s elfogadÃ¡sÃ¡nak napja: 2000. szeptember 29.<ujsor/>
+TevÃ©kenysÃ©gi kÃ¶re: 2211 KÃ¶nyvkiadÃ¡s; 2212 NapilapkiadÃ¡s; 2213 IdÅ‘szaki kiadvÃ¡ny kiadÃ¡sa; 2214 HangfelvÃ©tel-kiadÃ¡s; 2215 EgyÃ©b kiadÃ¡s; 2231 HangfelvÃ©tel-sokszorosÃ­tÃ¡s; 2232 VideofelvÃ©tel-sokszorosÃ­tÃ¡s; 2233 SzÃ¡mÃ­tÃ³gÃ©pes adathordozÃ³ sokszorosÃ­tÃ¡sa; 2465 FelvÃ©tel nÃ©lkÃ¼li hang-, kÃ©p-, adathordozÃ³ gyÃ¡rtÃ¡sa; 5164 IrodagÃ©p, -berendezÃ©s nagykereskedelme; 5212 Iparcikk jellegÅ± vegyes kiskereskedelem; 5248 EgyÃ©b mÃ¡shova nem sorolt iparcikk-kiskereskedelem; 5261 CsomagkÃ¼ldÅ‘ kiskereskedelem; 6330 UtazÃ¡sszervezÃ©s; 6420 TÃ¡vkÃ¶zlÃ©s; 7020 Ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se; 7210 Hardver-szaktanÃ¡csadÃ¡s; 7220 SzoftverkÃ©szÃ­tÃ©s, -szaktanÃ¡csadÃ¡s; 7230 AdatfeldolgozÃ¡s; 7240 Adatbanki tevÃ©kenysÃ©g; 7250 Iroda-, szÃ¡mÃ­tÃ³gÃ©p-javÃ­tÃ¡s; 7260 EgyÃ©b szÃ¡mÃ­tÃ¡stechnikai tevÃ©kenysÃ©g; 7413 Piac- Ã©s kÃ¶zvÃ©lemÃ©ny-kutatÃ¡s; 7414 Ãœzletviteli tanÃ¡csadÃ¡s; 7440 HirdetÃ©s; 9211 Film-, videogyÃ¡rtÃ¡s; 9212 Film-, video terjesztÃ©s; 9213 FilmvetÃ­tÃ©s; 9220 RÃ¡diÃ³-televÃ­ziÃ³ mÅ±sorszolgÃ¡ltatÃ¡s; 9240 HÃ­rÃ¼gynÃ¶ksÃ©gi tevÃ©kenysÃ©g; 9271 SzerencsejÃ¡tÃ©k, fogadÃ¡s; 9305 MÃ¡shova nem sorolt egyÃ©b szolgÃ¡ltatÃ¡s.<ujsor/>
+VezetÅ‘ tisztsÃ©gviselÅ‘je: David Browning Ã¼gyvezetÅ‘ (lakÃ³hely: 9889 Windy Hollow Road, Great Falls, Virginia, Amerikai EgyesÃ¼lt Ãllamok).<ujsor/>
+Az Ã¡talakulÃ³ ELENDER Rt. vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai (2000. jÃºnius 30.):<ujsor/>
+ ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+ A) Befektetett eszkÃ¶zÃ¶k 1 376 334 D) SajÃ¡t tÅ‘ke 373 286<ujsor/>
+ I. ImmateriÃ¡lis javak 211 851 I. Jegyzett tÅ‘ke 100 000<ujsor/>
+ II. TÃ¡rgyi eszkÃ¶zÃ¶k 511 432 II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke <ujsor/>
+ III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 653 051 III. TÅ‘ketartalÃ©k 237 952<ujsor/>
+ B) ForgÃ³eszkÃ¶zÃ¶k 645 400 IV. EredmÃ©nytartalÃ©k 35 334<ujsor/>
+ I. KÃ©szletek 38 773 V. Ã‰rtÃ©kelÃ©si tartalÃ©k <ujsor/>
+ II. KÃ¶vetelÃ©sek 279 076 VI. MÃ©rleg szerinti eredmÃ©ny <ujsor/>
+ III. Ã‰rtÃ©kpapÃ­rok 101 724 E) CÃ©ltartalÃ©kok 35 532<ujsor/>
+ IV. PÃ©nzeszkÃ¶zÃ¶k 225 827 F) KÃ¶telezettsÃ©gek 1 209 381<ujsor/>
+ C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 30 236 I. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 876 577<ujsor/>
+   II. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 332 804<ujsor/>
+   G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 433 771<ujsor/>
+ Ã–SSZESEN: 2 051 970 Ã–SSZESEN: 2 051 970<ujsor/>
+A szÃ©tvÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ PSINet MagyarorszÃ¡g Kft. vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai (2000. jÃºnius 30.):<ujsor/>
+ ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+ A) Befektetett eszkÃ¶zÃ¶k 1 363 562 D) SajÃ¡t tÅ‘ke 346 821<ujsor/>
+ I. ImmateriÃ¡lis javak 211 851 I. Jegyzett tÅ‘ke 3 000<ujsor/>
+ II. TÃ¡rgyi eszkÃ¶zÃ¶k 498 660 II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke <ujsor/>
+ III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 653 051 III. TÅ‘ketartalÃ©k 331 952<ujsor/>
+ B) ForgÃ³eszkÃ¶zÃ¶k 556 570 IV. EredmÃ©nytartalÃ©k 11 869<ujsor/>
+ I. KÃ©szletek 38 773 V. Ã‰rtÃ©kelÃ©si tartalÃ©k <ujsor/>
+ II. KÃ¶vetelÃ©sek 193 246 VI. MÃ©rleg szerinti eredmÃ©ny <ujsor/>
+ III. Ã‰rtÃ©kpapÃ­rok 101 724 E) CÃ©ltartalÃ©kok 28 124<ujsor/>
+ IV. PÃ©nzeszkÃ¶zÃ¶k 222 827 F) KÃ¶telezettsÃ©gek 1 204 470<ujsor/>
+ C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 24 150 I. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 874 983<ujsor/>
+   II. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 329 487<ujsor/>
+   G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 364 867<ujsor/>
+ Ã–SSZESEN: 1 944 282 Ã–SSZESEN: 1 944 282<ujsor/>
+A szÃ©tvÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ Interdotnet MagyarorszÃ¡g Kft. vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai (2000. jÃºnius 30.):<ujsor/>
+ ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+ A) Befektetett eszkÃ¶zÃ¶k 12 772 D) SajÃ¡t tÅ‘ke 26 465<ujsor/>
+ I. ImmateriÃ¡lis javak  I. Jegyzett tÅ‘ke 3 000<ujsor/>
+ II. TÃ¡rgyi eszkÃ¶zÃ¶k 12 772 II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke <ujsor/>
+ III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k  III. TÅ‘ketartalÃ©k <ujsor/>
+ B) ForgÃ³eszkÃ¶zÃ¶k 88 830 IV. EredmÃ©nytartalÃ©k 23 465<ujsor/>
+ I. KÃ©szletek  V. Ã‰rtÃ©kelÃ©si tartalÃ©k <ujsor/>
+ II. KÃ¶vetelÃ©sek 85 830 VI. MÃ©rleg szerinti eredmÃ©ny <ujsor/>
+ III. Ã‰rtÃ©kpapÃ­rok  E) CÃ©ltartalÃ©kok 7 408<ujsor/>
+ IV. PÃ©nzeszkÃ¶zÃ¶k 3 000 F) KÃ¶telezettsÃ©gek 4 911<ujsor/>
+ C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 6 086 I. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 1 594<ujsor/>
+   II. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 3 317<ujsor/>
+   G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 68 904<ujsor/>
+ Ã–SSZESEN: 107 688 Ã–SSZESEN: 107 688<ujsor/>
+A kÃ¼lÃ¶nvÃ¡lÃ¡s utÃ¡n az Ã¼zleti elÅ‘fizetÅ‘kkel kapcsolatos szerzÅ‘dÃ©ses jogok Ã©s kÃ¶telezettsÃ©gek a PSINet MagyarorszÃ¡g Kft.-hez, mÃ­g a lakossÃ¡gi elÅ‘fizetÅ‘kkel kapcsolatos szerzÅ‘dÃ©ses jogok Ã©s kÃ¶telezettsÃ©gek az Interdotnet MagyarorszÃ¡g Kft.-hez kerÃ¼lnek. Ennek megfelelÅ‘en a lakossÃ¡gi elÅ‘fizetÅ‘kkel Ã¶sszefÃ¼ggÃ©sben foglalkoztatott munkavÃ¡llalÃ³k az Interdotnet MagyarorszÃ¡g Kft.-hez, mÃ­g az Ã¼zleti elÅ‘fizetÅ‘kkel Ã¶sszefÃ¼ggÃ©sben foglalkoztatott munkavÃ¡llalÃ³k a PSINet MagyarorszÃ¡g Kft.-hez kerÃ¼lnek. Az Internet szolgÃ¡ltatÃ¡s teljes eszkÃ¶zrendszere azonban a PSINet MagyarorszÃ¡g Kft.-hez kerÃ¼l. Az Interdotnet MagyarorszÃ¡g Kft.-hez csak az Ã¡tkerÃ¼lÅ‘ munkavÃ¡llalÃ³k szemÃ©lyes hasznÃ¡latÃº eszkÃ¶zei kerÃ¼lnek.<ujsor/>
+A sajÃ¡t tÅ‘ke a PSINet MagyarorszÃ¡g Kft. Ã©s az Interdotnet MagyarorszÃ¡g Kft. kÃ¶zÃ¶tt 92,91%-7,09% arÃ¡nyban kerÃ¼l megosztÃ¡sra.<ujsor/>
+Az Ã¡talakulÃ³ tÃ¡rsasÃ¡g felhÃ­vja ismert Ã©s ismeretlen hitelezÅ‘it, hogy a Gt. 66. Â§ (1) Ã©s (2) bekezdÃ©se szerint jÃ¡rhatnak el.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044002</mezo>
-<mezo id = "nev">ELENDER Informatikai és Számítástechnikai Részvénytársaság</mezo>
+<mezo id = "nev">ELENDER Informatikai Ã©s SzÃ¡mÃ­tÃ¡stechnikai RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A cég átalakulás miatt a cégjegyzékbõl törölve.<ujsor/>
-A törlés hatálya: 2001. 02. 19.<ujsor/>
-Jogutód(ok):<ujsor/>
- [01 09 693846] Interdotnet Magyarország Informatikai és Számítástechnikai Korlátolt felelõsségû Társaság.<ujsor/>
- [01 09 693844] PSINet Magyarország Informatikai és Számítástechnikai Korlátolt Felelõsségû Társaság.<ujsor/>
+<mezo id = "szoveg">A cÃ©g Ã¡talakulÃ¡s miatt a cÃ©gjegyzÃ©kbÅ‘l tÃ¶rÃ¶lve.<ujsor/>
+A tÃ¶rlÃ©s hatÃ¡lya: 2001. 02. 19.<ujsor/>
+JogutÃ³d(ok):<ujsor/>
+ [01 09 693846] Interdotnet MagyarorszÃ¡g Informatikai Ã©s SzÃ¡mÃ­tÃ¡stechnikai KorlÃ¡tolt felelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+ [01 09 693844] PSINet MagyarorszÃ¡g Informatikai Ã©s SzÃ¡mÃ­tÃ¡stechnikai KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
 Bejegyezve: 2001. 02. 19.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044002</mezo>
-<mezo id = "nev">ELENDER Informatikai és Számítástechnikai Részvénytársaság</mezo>
-<mezo id = "cim">1134 Budapest, Váci út 37.</mezo>
+<mezo id = "nev">ELENDER Informatikai Ã©s SzÃ¡mÃ­tÃ¡stechnikai RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1134 Budapest, VÃ¡ci Ãºt 37.</mezo>
 <mezo id = "adosz">11785062241</mezo>
 </alrovat>
 </rovat>

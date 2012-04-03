@@ -6,7 +6,7 @@
 <mezo id = "szam">000119</mezo>
 <mezo id = "nevalrovat">1</mezo>
 <mezo id = "allapot">6</mezo>
-<mezo id = "cim">7300 Komló, Juhász Gy. utca 2. </mezo>
+<mezo id = "cim">7300 KomlÃ³, JuhÃ¡sz Gy. utca 2. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">22265434202</mezo>
 </alrovat>
@@ -14,21 +14,21 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20060510</mezo>
-<mezo id = "nev">Komló-Habilitas Termelõ és Értékesítõ Közhasznú Társaság</mezo>
+<mezo id = "nev">KomlÃ³-Habilitas TermelÅ‘ Ã©s Ã‰rtÃ©kesÃ­tÅ‘ KÃ¶zhasznÃº TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">20060510</mezo>
-<mezo id = "nev">Komló-Habilitas Kht.</mezo>
+<mezo id = "nev">KomlÃ³-Habilitas Kht.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
 <alrovat id = "1">
 <mezo id = "hattol">20060510</mezo>
 <mezo id = "irsz">7300</mezo>
-<mezo id = "hely">Komló</mezo>
-<mezo id = "teru">Juhász Gy. utca 2.</mezo>
+<mezo id = "hely">KomlÃ³</mezo>
+<mezo id = "teru">JuhÃ¡sz Gy. utca 2.</mezo>
 <mezo id = "kirsz">0</mezo>
 </alrovat>
 </rovat>
@@ -36,7 +36,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20070525</mezo>
 <mezo id = "irsz">7300</mezo>
-<mezo id = "hely">Komló, Juhász Gy. utca 1.</mezo>
+<mezo id = "hely">KomlÃ³, JuhÃ¡sz Gy. utca 1.</mezo>
 <mezo id = "valtk">20070525</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20070924</mezo>
@@ -1185,10 +1185,10 @@
 <rovat id = "13">
 <alrovat id = "3">
 <mezo id = "hattol">20080528</mezo>
-<mezo id = "pnev">Wágner László</mezo>
-<mezo id = "panev">Friesz Mária</mezo>
+<mezo id = "pnev">WÃ¡gner LÃ¡szlÃ³</mezo>
+<mezo id = "panev">Friesz MÃ¡ria</mezo>
 <mezo id = "pirsz">7300</mezo>
-<mezo id = "phely">Komló, Fürj utca 1.</mezo>
+<mezo id = "phely">KomlÃ³, FÃ¼rj utca 1.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">d</mezo>
 <mezo id = "jogvk">20060510</mezo>
@@ -1200,10 +1200,10 @@
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20080528</mezo>
-<mezo id = "pnev">Wágner Zita</mezo>
-<mezo id = "panev">Purt Gordána</mezo>
+<mezo id = "pnev">WÃ¡gner Zita</mezo>
+<mezo id = "panev">Purt GordÃ¡na</mezo>
 <mezo id = "pirsz">7300</mezo>
-<mezo id = "phely">Komló, Fürj utca 1.</mezo>
+<mezo id = "phely">KomlÃ³, FÃ¼rj utca 1.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">d</mezo>
 <mezo id = "jogvk">20060523</mezo>
@@ -1218,15 +1218,15 @@
 <alrovat id = "1">
 <mezo id = "hattol">20060510</mezo>
 <mezo id = "cgjsz">1309071527</mezo>
-<mezo id = "nev">BODON and NAGY Könyvszakértõi és Számviteli Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">BODON and NAGY KÃ¶nyvszakÃ©rtÅ‘i Ã©s SzÃ¡mviteli SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "irsz">2119</mezo>
-<mezo id = "hely">Pécel</mezo>
-<mezo id = "teru">Isaszegi út</mezo>
+<mezo id = "hely">PÃ©cel</mezo>
+<mezo id = "teru">Isaszegi Ãºt</mezo>
 <mezo id = "hsz">60.</mezo>
 <mezo id = "pnev">Bodon Csaba</mezo>
-<mezo id = "panev">Reimann Erzsébet</mezo>
+<mezo id = "panev">Reimann ErzsÃ©bet</mezo>
 <mezo id = "pirsz">2119</mezo>
-<mezo id = "phely">Pécel, Isaszegi út 60.</mezo>
+<mezo id = "phely">PÃ©cel, Isaszegi Ãºt 60.</mezo>
 <mezo id = "jogvk">20060510</mezo>
 <mezo id = "jogvv">20110126</mezo>
 </alrovat>
@@ -1234,28 +1234,28 @@
 <rovat id = "15">
 <alrovat id = "1">
 <mezo id = "hattol">20060510</mezo>
-<mezo id = "pnev">Fábos Józsefné</mezo>
+<mezo id = "pnev">FÃ¡bos JÃ³zsefnÃ©</mezo>
 <mezo id = "panev">Jurics Ilonka</mezo>
 <mezo id = "pirsz">7300</mezo>
-<mezo id = "phely">Komló, Fürst Sándor utca 4.</mezo>
+<mezo id = "phely">KomlÃ³, FÃ¼rst SÃ¡ndor utca 4.</mezo>
 <mezo id = "jogvk">20060510</mezo>
 <mezo id = "jogvv">20110126</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20060510</mezo>
 <mezo id = "pnev">Ilka Etel</mezo>
-<mezo id = "panev">Dõre Mária</mezo>
+<mezo id = "panev">DÅ‘re MÃ¡ria</mezo>
 <mezo id = "pirsz">7305</mezo>
-<mezo id = "phely">Mecsekpölöske, Szabadság utca 24.</mezo>
+<mezo id = "phely">MecsekpÃ¶lÃ¶ske, SzabadsÃ¡g utca 24.</mezo>
 <mezo id = "jogvk">20060510</mezo>
 <mezo id = "jogvv">20110126</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20080528</mezo>
-<mezo id = "pnev">Deák Zsuzsa</mezo>
+<mezo id = "pnev">DeÃ¡k Zsuzsa</mezo>
 <mezo id = "panev">Gertner Etelka</mezo>
 <mezo id = "pirsz">7694</mezo>
-<mezo id = "phely">Hosszúhetény, Fõ utca 31.</mezo>
+<mezo id = "phely">HosszÃºhetÃ©ny, FÅ‘ utca 31.</mezo>
 <mezo id = "jogvk">20080528</mezo>
 <mezo id = "jogvv">20130528</mezo>
 <mezo id = "valtk">20080528</mezo>
@@ -1268,7 +1268,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20060510</mezo>
 <mezo id = "cgjsz">209060827</mezo>
-<mezo id = "nev">Komló-Habilitas Termelõ és Értékesitõ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">KomlÃ³-Habilitas TermelÅ‘ Ã©s Ã‰rtÃ©kesitÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "20">
@@ -1288,16 +1288,16 @@
 <rovat id = "22">
 <alrovat id = "1">
 <mezo id = "jccjsz">0209074143</mezo>
-<mezo id = "nev">Komló-Habilitas Termelõ és Értékesítõ Nonprofit Közhasznú Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">KomlÃ³-Habilitas TermelÅ‘ Ã©s Ã‰rtÃ©kesÃ­tÅ‘ Nonprofit KÃ¶zhasznÃº KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0214">
 <alrovat id = "5">
 <mezo id = "hattol">20080528</mezo>
-<mezo id = "pnev">Wágner László</mezo>
-<mezo id = "panev">Friesz Mária</mezo>
+<mezo id = "pnev">WÃ¡gner LÃ¡szlÃ³</mezo>
+<mezo id = "panev">Friesz MÃ¡ria</mezo>
 <mezo id = "pirsz">7300</mezo>
-<mezo id = "phely">Komló, Fürj utca 1.</mezo>
+<mezo id = "phely">KomlÃ³, FÃ¼rj utca 1.</mezo>
 <mezo id = "tagsk">20060126</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "sz1">x</mezo>
@@ -1308,10 +1308,10 @@
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20080528</mezo>
-<mezo id = "pnev">Nagy Péter</mezo>
+<mezo id = "pnev">Nagy PÃ©ter</mezo>
 <mezo id = "panev">Hauser Magdolna</mezo>
 <mezo id = "pirsz">1221</mezo>
-<mezo id = "phely">Budapest, Kárpitos utca 2.</mezo>
+<mezo id = "phely">Budapest, KÃ¡rpitos utca 2.</mezo>
 <mezo id = "tagsk">20060126</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20080528</mezo>
@@ -1321,11 +1321,11 @@
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">20080528</mezo>
-<mezo id = "nev">Komlói Városi Önkormányzat</mezo>
+<mezo id = "nev">KomlÃ³i VÃ¡rosi Ã–nkormÃ¡nyzat</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">7300</mezo>
-<mezo id = "hely">Komló</mezo>
-<mezo id = "teru">Városház tér</mezo>
+<mezo id = "hely">KomlÃ³</mezo>
+<mezo id = "teru">VÃ¡roshÃ¡z tÃ©r</mezo>
 <mezo id = "hsz">3.</mezo>
 <mezo id = "tagsk">20060126</mezo>
 <mezo id = "tagsv">0</mezo>

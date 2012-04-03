@@ -5,7 +5,7 @@
 <mezo id = "cf">10</mezo>
 <mezo id = "szam">000109</mezo>
 <mezo id = "nevalrovat">3</mezo>
-<mezo id = "cim">3535 Miskolc, Hegyalja út 203/1. </mezo>
+<mezo id = "cim">3535 Miskolc, Hegyalja Ãºt 203/1. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">11067146205</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "3">
 <mezo id = "hattol">20110616</mezo>
-<mezo id = "nev">DIPA Diósgyõri Papírgyár Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">DIPA DiÃ³sgyÅ‘ri PapÃ­rgyÃ¡r ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">20110616</mezo>
 <mezo id = "bkelt">20110718</mezo>
 </alrovat>
@@ -29,7 +29,7 @@
 <rovat id = "4">
 <alrovat id = "1">
 <mezo id = "hattol">20110616</mezo>
-<mezo id = "nev">DIPA Diósgyõr Papermill Incorporated Company</mezo>
+<mezo id = "nev">DIPA DiÃ³sgyÅ‘r Papermill Incorporated Company</mezo>
 <mezo id = "valtk">20110616</mezo>
 <mezo id = "bkelt">20110718</mezo>
 </alrovat>
@@ -45,7 +45,7 @@
 <mezo id = "hattol">19930401</mezo>
 <mezo id = "irsz">3535</mezo>
 <mezo id = "hely">Miskolc</mezo>
-<mezo id = "teru">Hegyalja út 203/1.</mezo>
+<mezo id = "teru">Hegyalja Ãºt 203/1.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "8">
@@ -615,9 +615,9 @@
 <rovat id = "13">
 <alrovat id = "32">
 <mezo id = "hattol">20100712</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (vezérigazgató)</mezo>
-<mezo id = "pnev">Kassai András</mezo>
-<mezo id = "panev">Majsai Mária Anna</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (vezÃ©rigazgatÃ³)</mezo>
+<mezo id = "pnev">Kassai AndrÃ¡s</mezo>
+<mezo id = "panev">Majsai MÃ¡ria Anna</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100716</mezo>
 <mezo id = "jogvv">20130715</mezo>
@@ -627,26 +627,26 @@
 </alrovat>
 <alrovat id = "33">
 <mezo id = "hattol">20100716</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Ráczkövy Gizella</mezo>
-<mezo id = "panev">Béres Gizella</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">RÃ¡czkÃ¶vy Gizella</mezo>
+<mezo id = "panev">BÃ©res Gizella</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20100716</mezo>
 <mezo id = "mindig">x</mezo>
-<mezo id = "mnev">Garai István Gergely más munkavállaló</mezo>
+<mezo id = "mnev">Garai IstvÃ¡n Gergely mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "valtk">20100716</mezo>
 <mezo id = "bkelt">20100726</mezo>
 <mezo id = "adoazon">8361080171</mezo>
 </alrovat>
 <alrovat id = "34">
 <mezo id = "hattol">20100716</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Garai István Gergely</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Garai IstvÃ¡n Gergely</mezo>
 <mezo id = "panev">Weisz Veronika</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20090910</mezo>
 <mezo id = "mindig">x</mezo>
-<mezo id = "mnev">Ráczkövy Gizella más munkavállaló</mezo>
+<mezo id = "mnev">RÃ¡czkÃ¶vy Gizella mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "valtk">20100716</mezo>
 <mezo id = "bkelt">20100726</mezo>
 <mezo id = "adoazon">8322113714</mezo>
@@ -656,11 +656,11 @@
 <alrovat id = "9">
 <mezo id = "hattol">20110630</mezo>
 <mezo id = "cgjsz">0109867785</mezo>
-<mezo id = "nev">BDO Magyarország Könyvvizsgáló Kft.</mezo>
+<mezo id = "nev">BDO MagyarorszÃ¡g KÃ¶nyvvizsgÃ¡lÃ³ Kft.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1126</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Nagy Jenõ utca 10.</mezo>
+<mezo id = "teru">Nagy JenÅ‘ utca 10.</mezo>
 <mezo id = "pnev">Baumgartner Ferenc</mezo>
 <mezo id = "panev">Szajki Margit</mezo>
 <mezo id = "pirsz">1037</mezo>
@@ -676,10 +676,10 @@
 <alrovat id = "23">
 <mezo id = "hattol">20090701</mezo>
 <mezo id = "pnev">Varga Csaba</mezo>
-<mezo id = "panev">Könczöl Terézia Ibolya</mezo>
+<mezo id = "panev">KÃ¶nczÃ¶l TerÃ©zia Ibolya</mezo>
 <mezo id = "pirsz">1104</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Mádi utca 165.</mezo>
+<mezo id = "pteru">MÃ¡di utca 165.</mezo>
 <mezo id = "jogvk">20090701</mezo>
 <mezo id = "jogvv">20120630</mezo>
 <mezo id = "valtk">20090701</mezo>
@@ -687,11 +687,11 @@
 </alrovat>
 <alrovat id = "24">
 <mezo id = "hattol">20090701</mezo>
-<mezo id = "pnev">Bertók Attila</mezo>
-<mezo id = "panev">Molnár Mária</mezo>
+<mezo id = "pnev">BertÃ³k Attila</mezo>
+<mezo id = "panev">MolnÃ¡r MÃ¡ria</mezo>
 <mezo id = "pirsz">1141</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Mogyoródi út 112.</mezo>
+<mezo id = "pteru">MogyorÃ³di Ãºt 112.</mezo>
 <mezo id = "jogvk">20090701</mezo>
 <mezo id = "jogvv">20120630</mezo>
 <mezo id = "valtk">20090701</mezo>
@@ -699,11 +699,11 @@
 </alrovat>
 <alrovat id = "25">
 <mezo id = "hattol">20090701</mezo>
-<mezo id = "pnev">Szilágyiné Práff Magdolna</mezo>
-<mezo id = "panev">Bablonkay Mária</mezo>
+<mezo id = "pnev">SzilÃ¡gyinÃ© PrÃ¡ff Magdolna</mezo>
+<mezo id = "panev">Bablonkay MÃ¡ria</mezo>
 <mezo id = "pirsz">1137</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Újpesti rakpart 7. 2. em. 13.</mezo>
+<mezo id = "pteru">Ãšjpesti rakpart 7. 2. em. 13.</mezo>
 <mezo id = "jogvk">20090701</mezo>
 <mezo id = "jogvv">20120630</mezo>
 <mezo id = "valtk">20090701</mezo>
@@ -714,7 +714,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">19930401</mezo>
 <mezo id = "cgjsz">501000130</mezo>
-<mezo id = "nev">Diósgyõri Papírgyár Leányvállalat</mezo>
+<mezo id = "nev">DiÃ³sgyÅ‘ri PapÃ­rgyÃ¡r LeÃ¡nyvÃ¡llalat</mezo>
 </alrovat>
 </rovat>
 <rovat id = "20">
@@ -728,18 +728,18 @@
 <mezo id = "adosz">11067146205</mezo>
 <mezo id = "kadosz">HU11067146</mezo>
 <mezo id = "bkelt">20110719</mezo>
-<mezo id = "megj">Státusz kezdete: 1993/04/01</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 1993/04/01</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0110">
 <alrovat id = "1">
 <mezo id = "hattol">20070102</mezo>
 <mezo id = "cgjsz">110042247</mezo>
-<mezo id = "nev">Pénzjegynyomda Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">PÃ©nzjegynyomda ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1055</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Markó u.</mezo>
+<mezo id = "teru">MarkÃ³ u.</mezo>
 <mezo id = "hsz">13-17.</mezo>
 <mezo id = "tagsk">19930401</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -757,60 +757,60 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Diósgyõri Papírgyár Részvénytársaság (3535 Miskolc, Hegyalja u. 203/1.; cégjegyzékszám: [05 10 000109]) bejelenti, hogy az 1994. január 23-án kelt Állami Vagyonügynökség eladó és a Pénzjegynyomda Részvénytársaság (1055 Budapest, Markó u. 13-17.; cégjegyzékszám: [01 10 042247]) vevõ között létrejött részvényátruházási szerzõdés következtében a Pénzjegynyomda Rt. a Diósgyõri Papírgyár Rt. részvényeinek 100%-át megszerezvén, közvetlen irányítása alá vonta a Diósgyõri Papírgyár Rt.-t.<ujsor/>
+<mezo id = "szoveg">A DiÃ³sgyÅ‘ri PapÃ­rgyÃ¡r RÃ©szvÃ©nytÃ¡rsasÃ¡g (3535 Miskolc, Hegyalja u. 203/1.; cÃ©gjegyzÃ©kszÃ¡m: [05 10 000109]) bejelenti, hogy az 1994. januÃ¡r 23-Ã¡n kelt Ãllami VagyonÃ¼gynÃ¶ksÃ©g eladÃ³ Ã©s a PÃ©nzjegynyomda RÃ©szvÃ©nytÃ¡rsasÃ¡g (1055 Budapest, MarkÃ³ u. 13-17.; cÃ©gjegyzÃ©kszÃ¡m: [01 10 042247]) vevÅ‘ kÃ¶zÃ¶tt lÃ©trejÃ¶tt rÃ©szvÃ©nyÃ¡truhÃ¡zÃ¡si szerzÅ‘dÃ©s kÃ¶vetkeztÃ©ben a PÃ©nzjegynyomda Rt. a DiÃ³sgyÅ‘ri PapÃ­rgyÃ¡r Rt. rÃ©szvÃ©nyeinek 100%-Ã¡t megszerezvÃ©n, kÃ¶zvetlen irÃ¡nyÃ­tÃ¡sa alÃ¡ vonta a DiÃ³sgyÅ‘ri PapÃ­rgyÃ¡r Rt.-t.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0510000109</mezo>
-<mezo id = "nev">Diósgyõri Papírgyár Részvénytársaság (3535 Miskolc, Hegyalja út 203/1.)</mezo>
+<mezo id = "nev">DiÃ³sgyÅ‘ri PapÃ­rgyÃ¡r RÃ©szvÃ©nytÃ¡rsasÃ¡g (3535 Miskolc, Hegyalja Ãºt 203/1.)</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Diósgyõri Papírgyár Részvénytársaság mérlegadatai:<ujsor/>
-A Diósgyõri Papírgyár Részvénytársaság (3535 Miskolc, Hegyalja u. 203/1.) Igazgatósága az 1993. december 31-i mérlegadatait az alábbiak szerint teszi közzé:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 292 791 Saját tõke 236 253<ujsor/>
-Forgóeszközök 112 805 Céltartalékok 2 720<ujsor/>
-Aktív idõbeli elhatárolás 653 Kötelezettségek 158 392<ujsor/>
-  Passzív idõbeli elhatárolás 8 884<ujsor/>
-ÖSSZESEN: 406 249 ÖSSZESEN: 406 249<ujsor/>
-Diósgyõri Papírgyár Rt. Igazgatósága<ujsor/>
-A KSZE Agrárfejlesztõ és Kereskedelmi Rt. (7100 Szekszárd, Páskom u. 2.) Igazgatósága közli a társaság 1993. december 31-i elõzetes fõbb mérlegadatait:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 357 879 Saját tõke 530 778<ujsor/>
-Forgóeszközök 4 174 624 Céltartalék 86 943<ujsor/>
-Aktív idõbeli elhatárolások 55 018 Kötelezettségek 3 885 929<ujsor/>
-  Passzív idõbeli elhatárolások 83 871<ujsor/>
-ÖSSZESEN: 4 587 521 ÖSSZESEN: 4 587 521<ujsor/>
-KSZE Rt. Igazgatósága<ujsor/>
+<mezo id = "szoveg">A DiÃ³sgyÅ‘ri PapÃ­rgyÃ¡r RÃ©szvÃ©nytÃ¡rsasÃ¡g mÃ©rlegadatai:<ujsor/>
+A DiÃ³sgyÅ‘ri PapÃ­rgyÃ¡r RÃ©szvÃ©nytÃ¡rsasÃ¡g (3535 Miskolc, Hegyalja u. 203/1.) IgazgatÃ³sÃ¡ga az 1993. december 31-i mÃ©rlegadatait az alÃ¡bbiak szerint teszi kÃ¶zzÃ©:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 292 791 SajÃ¡t tÅ‘ke 236 253<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 112 805 CÃ©ltartalÃ©kok 2 720<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡s 653 KÃ¶telezettsÃ©gek 158 392<ujsor/>
+  PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡s 8 884<ujsor/>
+Ã–SSZESEN: 406 249 Ã–SSZESEN: 406 249<ujsor/>
+DiÃ³sgyÅ‘ri PapÃ­rgyÃ¡r Rt. IgazgatÃ³sÃ¡ga<ujsor/>
+A KSZE AgrÃ¡rfejlesztÅ‘ Ã©s Kereskedelmi Rt. (7100 SzekszÃ¡rd, PÃ¡skom u. 2.) IgazgatÃ³sÃ¡ga kÃ¶zli a tÃ¡rsasÃ¡g 1993. december 31-i elÅ‘zetes fÅ‘bb mÃ©rlegadatait:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 357 879 SajÃ¡t tÅ‘ke 530 778<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 4 174 624 CÃ©ltartalÃ©k 86 943<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 55 018 KÃ¶telezettsÃ©gek 3 885 929<ujsor/>
+  PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 83 871<ujsor/>
+Ã–SSZESEN: 4 587 521 Ã–SSZESEN: 4 587 521<ujsor/>
+KSZE Rt. IgazgatÃ³sÃ¡ga<ujsor/>
 </mezo>
 <mezo id = "cjsz">0510000109</mezo>
-<mezo id = "nev">Diósgyõri Papírgyár Részvénytársaság (3535 Miskolc, Hegyalja út 203/1.)</mezo>
+<mezo id = "nev">DiÃ³sgyÅ‘ri PapÃ­rgyÃ¡r RÃ©szvÃ©nytÃ¡rsasÃ¡g (3535 Miskolc, Hegyalja Ãºt 203/1.)</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Borsod-Abaúj-Zemplén Megyei Bíróság mint Cégbíróság a Cg.05-10-000109 cégjegyzékszámon bejegyzett Diósgyõri Papírgyár zártkörûen mûködõ Részvénytársaság (3535 Miskolc, Hegyalja út 203/1; adószáma: 11067146-2-05) ügyében a 2010. szeptember 15. napján hozott Cg.05-10-000109/116 számú végzését hivatalból kijavítani rendeli az alábbiak szerint:<ujsor/>
-14. A könyvvizsgáló(k) adatai<ujsor/>
-Cégjegyzékszám: Cg.01-09-867785<ujsor/>
-DBO Magyarország Könyvvizsgáló Kft.<ujsor/>
-HU 1126 Budapest, Nagy Jenõ utca 10.<ujsor/>
+<mezo id = "szoveg">A Borsod-AbaÃºj-ZemplÃ©n Megyei BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.05-10-000109 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett DiÃ³sgyÅ‘ri PapÃ­rgyÃ¡r zÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (3535 Miskolc, Hegyalja Ãºt 203/1; adÃ³szÃ¡ma: 11067146-2-05) Ã¼gyÃ©ben a 2010. szeptember 15. napjÃ¡n hozott Cg.05-10-000109/116 szÃ¡mÃº vÃ©gzÃ©sÃ©t hivatalbÃ³l kijavÃ­tani rendeli az alÃ¡bbiak szerint:<ujsor/>
+14. A kÃ¶nyvvizsgÃ¡lÃ³(k) adatai<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡m: Cg.01-09-867785<ujsor/>
+DBO MagyarorszÃ¡g KÃ¶nyvvizsgÃ¡lÃ³ Kft.<ujsor/>
+HU 1126 Budapest, Nagy JenÅ‘ utca 10.<ujsor/>
 Baumgartner Ferenc (an.: Szajki Margit)<ujsor/>
-Jogv. kezdete: 2008.07.09. Jogv. vége: 2011.06.30.<ujsor/>
-Vált. vége: 2010.04.08.<ujsor/>
-Törölve (végzés kelte): 2010. szeptember 21.<ujsor/>
-Cégjegyzékszám: Cg.01-09-867785<ujsor/>
-BDO Magyarország Könyvvizsgáló Kft.<ujsor/>
-HU 1126 Budapest, Nagy Jenõ u 10.<ujsor/>
+Jogv. kezdete: 2008.07.09. Jogv. vÃ©ge: 2011.06.30.<ujsor/>
+VÃ¡lt. vÃ©ge: 2010.04.08.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2010. szeptember 21.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡m: Cg.01-09-867785<ujsor/>
+BDO MagyarorszÃ¡g KÃ¶nyvvizsgÃ¡lÃ³ Kft.<ujsor/>
+HU 1126 Budapest, Nagy JenÅ‘ u 10.<ujsor/>
 Baumgartner Ferenc (an.: Szajki Margit)<ujsor/>
-Jogv. kezdete: 2008.07.09. Jogv. vége: 2011.06.30.<ujsor/>
-Vált. kezdete: 2010.04.08.<ujsor/>
-Bejegyezve (végzés kelte): 2010. szeptember 21.<ujsor/>
-A végzés ellen fellebbezésnek helye nincs.<ujsor/>
+Jogv. kezdete: 2008.07.09. Jogv. vÃ©ge: 2011.06.30.<ujsor/>
+VÃ¡lt. kezdete: 2010.04.08.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2010. szeptember 21.<ujsor/>
+A vÃ©gzÃ©s ellen fellebbezÃ©snek helye nincs.<ujsor/>
 2010. szeptember 21.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0510000109</mezo>
-<mezo id = "nev">Diósgyõri Papírgyár zártkörûen mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">3535 Miskolc, Hegyalja út 203/1</mezo>
+<mezo id = "nev">DiÃ³sgyÅ‘ri PapÃ­rgyÃ¡r zÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">3535 Miskolc, Hegyalja Ãºt 203/1</mezo>
 <mezo id = "adosz">11067146205</mezo>
 </alrovat>
 </rovat>

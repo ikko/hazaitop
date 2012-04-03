@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">567072</mezo>
 <mezo id = "nevalrovat">4</mezo>
-<mezo id = "cim">1092 Budapest, Köztelek utca 6. </mezo>
+<mezo id = "cim">1092 Budapest, KÃ¶ztelek utca 6. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">12231384243</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "4">
 <mezo id = "hattol">20070626</mezo>
-<mezo id = "nev">Nokia Siemens Networks TraffiCOM Hírközlési Üzemeltetõ és Szolgáltató Kft.</mezo>
+<mezo id = "nev">Nokia Siemens Networks TraffiCOM HÃ­rkÃ¶zlÃ©si ÃœzemeltetÅ‘ Ã©s SzolgÃ¡ltatÃ³ Kft.</mezo>
 <mezo id = "valtk">20070412</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -39,7 +39,7 @@
 <mezo id = "hattol">20080204</mezo>
 <mezo id = "irsz">1092</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Köztelek utca 6.</mezo>
+<mezo id = "teru">KÃ¶ztelek utca 6.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">20080204</mezo>
 <mezo id = "valtv">0</mezo>
@@ -871,9 +871,9 @@
 <rovat id = "13">
 <alrovat id = "27">
 <mezo id = "hattol">20100319</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Jánosity Róbert</mezo>
-<mezo id = "panev">Aszódi Erzsébet</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">JÃ¡nosity RÃ³bert</mezo>
+<mezo id = "panev">AszÃ³di ErzsÃ©bet</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20060726</mezo>
 <mezo id = "valtk">20100319</mezo>
@@ -882,9 +882,9 @@
 </alrovat>
 <alrovat id = "28">
 <mezo id = "hattol">20100319</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Jáborcsik László</mezo>
-<mezo id = "panev">Krizsán Éva</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">JÃ¡borcsik LÃ¡szlÃ³</mezo>
+<mezo id = "panev">KrizsÃ¡n Ã‰va</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20070620</mezo>
 <mezo id = "valtk">20100319</mezo>
@@ -893,9 +893,9 @@
 </alrovat>
 <alrovat id = "29">
 <mezo id = "hattol">20100319</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Taller István</mezo>
-<mezo id = "panev">Gábeli Terézia Erzsébet</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Taller IstvÃ¡n</mezo>
+<mezo id = "panev">GÃ¡beli TerÃ©zia ErzsÃ©bet</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20080204</mezo>
 <mezo id = "valtk">20100319</mezo>
@@ -904,7 +904,7 @@
 </alrovat>
 <alrovat id = "33">
 <mezo id = "hattol">20110628</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "pnev">Lubomir Soska</mezo>
 <mezo id = "panev">Sona Cechova</mezo>
 <mezo id = "pkorsz">SK</mezo>
@@ -913,7 +913,7 @@
 <mezo id = "pkteru">Heyrovskeho 3.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20110701</mezo>
-<mezo id = "pcnev">Bánki és Társai Ügyvédi Iroda</mezo>
+<mezo id = "pcnev">BÃ¡nki Ã©s TÃ¡rsai ÃœgyvÃ©di Iroda</mezo>
 <mezo id = "pcirsz">1051</mezo>
 <mezo id = "pchely">Budapest</mezo>
 <mezo id = "pcteru">Dorottya utca 1.</mezo>
@@ -923,12 +923,12 @@
 </alrovat>
 <alrovat id = "34">
 <mezo id = "hattol">20110628</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Tóth István</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">TÃ³th IstvÃ¡n</mezo>
 <mezo id = "panev">Nardai Anna</mezo>
 <mezo id = "pirsz">1147</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Kerékgyártó utca 97. I. em. 4.</mezo>
+<mezo id = "pteru">KerÃ©kgyÃ¡rtÃ³ utca 97. I. em. 4.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20110701</mezo>
 <mezo id = "valtk">20110628</mezo>
@@ -937,12 +937,12 @@
 </alrovat>
 <alrovat id = "35">
 <mezo id = "hattol">20110628</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Zagyva Béla</mezo>
-<mezo id = "panev">Hegymegi Erzsébet</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Zagyva BÃ©la</mezo>
+<mezo id = "panev">Hegymegi ErzsÃ©bet</mezo>
 <mezo id = "pirsz">3000</mezo>
 <mezo id = "phely">Hatvan</mezo>
-<mezo id = "pteru">Móra Ferenc utca 35.</mezo>
+<mezo id = "pteru">MÃ³ra Ferenc utca 35.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20110701</mezo>
 <mezo id = "valtk">20110628</mezo>
@@ -954,12 +954,12 @@
 <alrovat id = "14">
 <mezo id = "hattol">20110506</mezo>
 <mezo id = "cgjsz">0109063022</mezo>
-<mezo id = "nev">PricewaterhouseCoopers Könyvvizsgáló Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">PricewaterhouseCoopers KÃ¶nyvvizsgÃ¡lÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1077</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Wesselényi u. 16.</mezo>
-<mezo id = "pnev">Lett Kornélia</mezo>
+<mezo id = "teru">WesselÃ©nyi u. 16.</mezo>
+<mezo id = "pnev">Lett KornÃ©lia</mezo>
 <mezo id = "panev">Grubits Jusztina</mezo>
 <mezo id = "pirsz">2089</mezo>
 <mezo id = "phely">Telki</mezo>
@@ -973,11 +973,11 @@
 <rovat id = "15">
 <alrovat id = "34">
 <mezo id = "hattol">20110429</mezo>
-<mezo id = "pnev">Ésik Róbert</mezo>
+<mezo id = "pnev">Ã‰sik RÃ³bert</mezo>
 <mezo id = "panev">Nika Zsuzsanna</mezo>
 <mezo id = "pirsz">1141</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Babarózsa utca 34/b.</mezo>
+<mezo id = "pteru">BabarÃ³zsa utca 34/b.</mezo>
 <mezo id = "jogvk">20110429</mezo>
 <mezo id = "jogvv">20120531</mezo>
 <mezo id = "valtk">20110429</mezo>
@@ -985,11 +985,11 @@
 </alrovat>
 <alrovat id = "35">
 <mezo id = "hattol">20110506</mezo>
-<mezo id = "pnev">Nagy Géza</mezo>
-<mezo id = "panev">Szél Éva</mezo>
+<mezo id = "pnev">Nagy GÃ©za</mezo>
+<mezo id = "panev">SzÃ©l Ã‰va</mezo>
 <mezo id = "pirsz">1029</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Feketerigó utca 55.</mezo>
+<mezo id = "pteru">FeketerigÃ³ utca 55.</mezo>
 <mezo id = "jogvk">20110506</mezo>
 <mezo id = "jogvv">20120531</mezo>
 <mezo id = "valtk">20110506</mezo>
@@ -997,11 +997,11 @@
 </alrovat>
 <alrovat id = "36">
 <mezo id = "hattol">20110506</mezo>
-<mezo id = "pnev">dr. Tomasitz István</mezo>
-<mezo id = "panev">Juhász Erzsébet</mezo>
+<mezo id = "pnev">dr. Tomasitz IstvÃ¡n</mezo>
+<mezo id = "panev">JuhÃ¡sz ErzsÃ©bet</mezo>
 <mezo id = "pirsz">1088</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Bródy Sándor utca 17. 1. em. 1.</mezo>
+<mezo id = "pteru">BrÃ³dy SÃ¡ndor utca 17. 1. em. 1.</mezo>
 <mezo id = "jogvk">20110506</mezo>
 <mezo id = "jogvv">20120531</mezo>
 <mezo id = "valtk">20110506</mezo>
@@ -1027,28 +1027,28 @@
 <mezo id = "adosz">12231384243</mezo>
 <mezo id = "kadosz">HU12231384</mezo>
 <mezo id = "bkelt">20110715</mezo>
-<mezo id = "megj">Státusz kezdete: 1997/01/03</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 1997/01/03</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0109">
 <alrovat id = "9">
 <mezo id = "hattol">20060329</mezo>
 <mezo id = "cgjsz">110043037</mezo>
-<mezo id = "nev">Budapesti Közlekedési Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">Budapesti KÃ¶zlekedÃ©si ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1072</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Akácfa u.</mezo>
+<mezo id = "teru">AkÃ¡cfa u.</mezo>
 <mezo id = "hsz">15.</mezo>
 </alrovat>
 <alrovat id = "13">
 <mezo id = "hattol">20080321</mezo>
 <mezo id = "cgjsz">109875759</mezo>
-<mezo id = "nev">Nokia Siemens Networks Telekommunikációs Kereskedelmi és Szolgáltató Kft.</mezo>
+<mezo id = "nev">Nokia Siemens Networks TelekommunikÃ¡ciÃ³s Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ Kft.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1092</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Köztelek utca</mezo>
+<mezo id = "teru">KÃ¶ztelek utca</mezo>
 <mezo id = "hsz">6.</mezo>
 <mezo id = "tagsk">20061231</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -1068,81 +1068,81 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Budapesti Közlekedési Részvénytársaság (cégjegyzékszám: [01 10 043037]; székhely: 1072 Budapest, Akácfa u. 15.) a Fõvárosi Bíróság mint Cégbíróság elõtt [01 09 567072] cégjegyzékszám alatt nyilvántartásba vett BKV Trafficom Hírközlési Szolgáltató Korlátolt Felelõsségû Társaságban (1089 Budapest, Orczy út 34.) a 2000. június 29-én megvalósult üzletrész-átruházásra tekintettel közvetlen irányítást biztosító befolyással rendelkezik, melynek mértéke 99,86%.<ujsor/>
-A hitelezõk a Gt. 296. § (2) bekezdésében foglalt jogaikat gyakorolhatják.<ujsor/>
+<mezo id = "szoveg">A Budapesti KÃ¶zlekedÃ©si RÃ©szvÃ©nytÃ¡rsasÃ¡g (cÃ©gjegyzÃ©kszÃ¡m: [01 10 043037]; szÃ©khely: 1072 Budapest, AkÃ¡cfa u. 15.) a FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g elÅ‘tt [01 09 567072] cÃ©gjegyzÃ©kszÃ¡m alatt nyilvÃ¡ntartÃ¡sba vett BKV Trafficom HÃ­rkÃ¶zlÃ©si SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gban (1089 Budapest, Orczy Ãºt 34.) a 2000. jÃºnius 29-Ã©n megvalÃ³sult Ã¼zletrÃ©sz-Ã¡truhÃ¡zÃ¡sra tekintettel kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡ssal rendelkezik, melynek mÃ©rtÃ©ke 99,86%.<ujsor/>
+A hitelezÅ‘k a Gt. 296. Â§ (2) bekezdÃ©sÃ©ben foglalt jogaikat gyakorolhatjÃ¡k.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109567072</mezo>
-<mezo id = "nev">TraffiCOM Hírközlési Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">TraffiCOM HÃ­rkÃ¶zlÃ©si SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Budapesti Közlekedési Részvénytársaság (cégjegyzékszám: [01 10 043037]; székhely: 1072 Budapest, Akácfa u. 15.) a Fõvárosi Bíróság mint Cégbíróság elõtt [01 09 567072] cégjegyzékszám alatt nyilvántartásba vett BKV Trafficom Hírközlési Szolgáltató Korlátolt Felelõsségû Társaságban (1089 Budapest, Orczy út 34.) a 2000. július 25-én elhatározott törzstõkeemelésre tekintettel közvetlen irányítást biztosító befolyással rendelkezik, melynek mértéke: 99,99%.<ujsor/>
-A hitelezõk a Gt. 296. § (2) bekezdésében foglalt jogaikat gyakorolhatják.<ujsor/>
+<mezo id = "szoveg">A Budapesti KÃ¶zlekedÃ©si RÃ©szvÃ©nytÃ¡rsasÃ¡g (cÃ©gjegyzÃ©kszÃ¡m: [01 10 043037]; szÃ©khely: 1072 Budapest, AkÃ¡cfa u. 15.) a FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g elÅ‘tt [01 09 567072] cÃ©gjegyzÃ©kszÃ¡m alatt nyilvÃ¡ntartÃ¡sba vett BKV Trafficom HÃ­rkÃ¶zlÃ©si SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gban (1089 Budapest, Orczy Ãºt 34.) a 2000. jÃºlius 25-Ã©n elhatÃ¡rozott tÃ¶rzstÅ‘keemelÃ©sre tekintettel kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡ssal rendelkezik, melynek mÃ©rtÃ©ke: 99,99%.<ujsor/>
+A hitelezÅ‘k a Gt. 296. Â§ (2) bekezdÃ©sÃ©ben foglalt jogaikat gyakorolhatjÃ¡k.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109567072</mezo>
-<mezo id = "nev">TraffiCOM Hírközlési Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">TraffiCOM HÃ­rkÃ¶zlÃ©si SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2004. 03. 29-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-09. 7020&apos;03 Ingatlan bérbeadása, üzemeltetése.<ujsor/>
- Hatályos: 2004. 03. 29-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2004. 03. 29-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+09. 7020&apos;03 Ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se.<ujsor/>
+ HatÃ¡lyos: 2004. 03. 29-tÅ‘l.<ujsor/>
 Bejegyezve: 2004. 04. 13.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109567072</mezo>
-<mezo id = "nev">Siemens TraffiCOM Hírközlési Üzemeltetõ és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1089 Budapest, Orczy út 34.</mezo>
+<mezo id = "nev">Siemens TraffiCOM HÃ­rkÃ¶zlÃ©si ÃœzemeltetÅ‘ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1089 Budapest, Orczy Ãºt 34.</mezo>
 <mezo id = "adosz">12231384242</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2007. 06. 27-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2007. 06. 27-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
 03. Nokia Siemens Network TraffiCOM Kft.<ujsor/>
- A változás idõpontja: 2007. 04. 12.<ujsor/>
- A változás idõpontja (törlés): 2007. 04. 12.<ujsor/>
- Törölve: 2007. 08. 09.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2007. 04. 12.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2007. 04. 12.<ujsor/>
+ TÃ¶rÃ¶lve: 2007. 08. 09.<ujsor/>
  Nokia Siemens Networks TraffiCOM Kft.<ujsor/>
- A változás idõpontja: 2007. 04. 12.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2007. 04. 12.<ujsor/>
  Bejegyezve: 2007. 08. 09.<ujsor/>
 2007. 08. 09.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109567072</mezo>
-<mezo id = "nev">Nokia Siemens Networks TraffiCOM Hírközlési Üzemeltetõ és Szolgáltató Kft.</mezo>
-<mezo id = "cim">1143 Budapest, Gizella út 51-57.</mezo>
+<mezo id = "nev">Nokia Siemens Networks TraffiCOM HÃ­rkÃ¶zlÃ©si ÃœzemeltetÅ‘ Ã©s SzolgÃ¡ltatÃ³ Kft.</mezo>
+<mezo id = "cim">1143 Budapest, Gizella Ãºt 51-57.</mezo>
 <mezo id = "adosz">12231384242</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság a Cg.01-09-567072 cégjegyzékszámon bejegyzett Nokia Siemens Networks TraffiCOM Hírközlési Üzemeltetõ és Szolgáltató Kft. (1092 Budapest, Köztelek utca 6.; adószáma: 12231384-2-43) kérelme alapján elrendeli az 2010. május 31. napján hozott Cg.01-09-567072 /131. számú végzésének kijavítását (kiegészítését) az alábbiak szerint:<ujsor/>
-13. A képviseletre jogosult(ak) adatai<ujsor/>
-A képviselet módja: együttes.<ujsor/>
-Adóazonosító jel: 755804/9906<ujsor/>
-Helena Machková vezetõ tisztségviselõ (ügyvezetõ) (an.: Zinaida Godowská)<ujsor/>
-A kézbesítési megbízott szervezet:<ujsor/>
-Bánki és Társai Ügyvédi Iroda<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.01-09-567072 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett Nokia Siemens Networks TraffiCOM HÃ­rkÃ¶zlÃ©si ÃœzemeltetÅ‘ Ã©s SzolgÃ¡ltatÃ³ Kft. (1092 Budapest, KÃ¶ztelek utca 6.; adÃ³szÃ¡ma: 12231384-2-43) kÃ©relme alapjÃ¡n elrendeli az 2010. mÃ¡jus 31. napjÃ¡n hozott Cg.01-09-567072 /131. szÃ¡mÃº vÃ©gzÃ©sÃ©nek kijavÃ­tÃ¡sÃ¡t (kiegÃ©szÃ­tÃ©sÃ©t) az alÃ¡bbiak szerint:<ujsor/>
+13. A kÃ©pviseletre jogosult(ak) adatai<ujsor/>
+A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+AdÃ³azonosÃ­tÃ³ jel: 755804/9906<ujsor/>
+Helena MachkovÃ¡ vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘) (an.: Zinaida GodowskÃ¡)<ujsor/>
+A kÃ©zbesÃ­tÃ©si megbÃ­zott szervezet:<ujsor/>
+BÃ¡nki Ã©s TÃ¡rsai ÃœgyvÃ©di Iroda<ujsor/>
 1051 Budapest, Dorottya utca 1.<ujsor/>
 Jogv. kezdete: 2010.04.27.<ujsor/>
-Vált. vége: 2010.04.27.<ujsor/>
-Törölve (végzés kelte): 2010. június 14.<ujsor/>
-A képviselet módja: együttes.<ujsor/>
-Adóazonosító jel: 755804/9906<ujsor/>
-Helena Machková vezetõ tisztségviselõ (ügyvezetõ) (an.: Zinaida Godowská)<ujsor/>
-A kézbesítési megbízott szervezet:<ujsor/>
-Bánki és Társai Ügyvédi Iroda<ujsor/>
+VÃ¡lt. vÃ©ge: 2010.04.27.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2010. jÃºnius 14.<ujsor/>
+A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+AdÃ³azonosÃ­tÃ³ jel: 755804/9906<ujsor/>
+Helena MachkovÃ¡ vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘) (an.: Zinaida GodowskÃ¡)<ujsor/>
+A kÃ©zbesÃ­tÃ©si megbÃ­zott szervezet:<ujsor/>
+BÃ¡nki Ã©s TÃ¡rsai ÃœgyvÃ©di Iroda<ujsor/>
 1051 Budapest, Dorottya utca 1.<ujsor/>
 Jogv. kezdete: 2010.04.27.<ujsor/>
-Vált. kezdete: 2010.04.27.<ujsor/>
-Bejegyezve (végzés kelte): 2010. június 14.<ujsor/>
-A végzés ellen a kézbesítéstõl számított 15 (tizenöt) napon belül a Fõvárosi Ítélõtáblához címzett, de a Fõvárosi Bíróságnál, mint Cégbíróságnál 3 (három) példányban benyújtható fellebbezésnek van helye. A fellebbezés elsõ példányára 7.000.-Ft (hétezer forint) eljárási illetéket kell leróni. A Fõvárosi Ítélõtábla elõtti eljárásban a fellebbezést elõterjesztõ fél részére a jogi képviselet kötelezõ.<ujsor/>
-2010. június 14.<ujsor/>
+VÃ¡lt. kezdete: 2010.04.27.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2010. jÃºnius 14.<ujsor/>
+A vÃ©gzÃ©s ellen a kÃ©zbesÃ­tÃ©stÅ‘l szÃ¡mÃ­tott 15 (tizenÃ¶t) napon belÃ¼l a FÅ‘vÃ¡rosi ÃtÃ©lÅ‘tÃ¡blÃ¡hoz cÃ­mzett, de a FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡gnÃ¡l, mint CÃ©gbÃ­rÃ³sÃ¡gnÃ¡l 3 (hÃ¡rom) pÃ©ldÃ¡nyban benyÃºjthatÃ³ fellebbezÃ©snek van helye. A fellebbezÃ©s elsÅ‘ pÃ©ldÃ¡nyÃ¡ra 7.000.-Ft (hÃ©tezer forint) eljÃ¡rÃ¡si illetÃ©ket kell lerÃ³ni. A FÅ‘vÃ¡rosi ÃtÃ©lÅ‘tÃ¡bla elÅ‘tti eljÃ¡rÃ¡sban a fellebbezÃ©st elÅ‘terjesztÅ‘ fÃ©l rÃ©szÃ©re a jogi kÃ©pviselet kÃ¶telezÅ‘.<ujsor/>
+2010. jÃºnius 14.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109567072</mezo>
-<mezo id = "nev">Nokia Siemens Networks TraffiCOM Hírközlési Üzemeltetõ és Szolgáltató Kft.</mezo>
-<mezo id = "cim">1092 Budapest, Köztelek utca 6.</mezo>
+<mezo id = "nev">Nokia Siemens Networks TraffiCOM HÃ­rkÃ¶zlÃ©si ÃœzemeltetÅ‘ Ã©s SzolgÃ¡ltatÃ³ Kft.</mezo>
+<mezo id = "cim">1092 Budapest, KÃ¶ztelek utca 6.</mezo>
 <mezo id = "adosz">12231384243</mezo>
 </alrovat>
 </rovat>

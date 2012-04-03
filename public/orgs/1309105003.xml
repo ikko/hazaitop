@@ -6,7 +6,7 @@
 <mezo id = "szam">105003</mezo>
 <mezo id = "nevalrovat">2</mezo>
 <mezo id = "regi_szh">1209002283</mezo>
-<mezo id = "cim">2316 Tököl, Ráckevei u. 2. A. ép . </mezo>
+<mezo id = "cim">2316 TÃ¶kÃ¶l, RÃ¡ckevei u. 2. A. Ã©p . </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">11206592213</mezo>
 </alrovat>
@@ -14,7 +14,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20051017</mezo>
-<mezo id = "nev">BAU-ZON Építõ, Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">BAU-ZON Ã‰pÃ­tÅ‘, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -27,8 +27,8 @@
 <alrovat id = "3">
 <mezo id = "hattol">20050809</mezo>
 <mezo id = "irsz">2316</mezo>
-<mezo id = "hely">Tököl</mezo>
-<mezo id = "teru">Ráckevei u. 2. A. ép .</mezo>
+<mezo id = "hely">TÃ¶kÃ¶l</mezo>
+<mezo id = "teru">RÃ¡ckevei u. 2. A. Ã©p .</mezo>
 <mezo id = "kirsz">0</mezo>
 </alrovat>
 </rovat>
@@ -36,19 +36,19 @@
 <alrovat id = "1">
 <mezo id = "hattol">20050809</mezo>
 <mezo id = "irsz">3170</mezo>
-<mezo id = "hely">Szécsény , Kossuth út 83.</mezo>
+<mezo id = "hely">SzÃ©csÃ©ny , Kossuth Ãºt 83.</mezo>
 <mezo id = "orsz">HU</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20050809</mezo>
 <mezo id = "irsz">3170</mezo>
-<mezo id = "hely">Szécsény , Rákóczi út 88.</mezo>
+<mezo id = "hely">SzÃ©csÃ©ny , RÃ¡kÃ³czi Ãºt 88.</mezo>
 <mezo id = "orsz">HU</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20070201</mezo>
 <mezo id = "irsz">2651</mezo>
-<mezo id = "hely">Rétság, Rákóczi út 51. fszt.</mezo>
+<mezo id = "hely">RÃ©tsÃ¡g, RÃ¡kÃ³czi Ãºt 51. fszt.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20061115</mezo>
 <mezo id = "valtv">0</mezo>
@@ -56,7 +56,7 @@
 <alrovat id = "4">
 <mezo id = "hattol">20070723</mezo>
 <mezo id = "irsz">3060</mezo>
-<mezo id = "hely">Pásztó, Nagymezõ út 5/c. fszt. 4.</mezo>
+<mezo id = "hely">PÃ¡sztÃ³, NagymezÅ‘ Ãºt 5/c. fszt. 4.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20070723</mezo>
 <mezo id = "valtv">0</mezo>
@@ -66,7 +66,7 @@
 <alrovat id = "5">
 <mezo id = "hattol">20070723</mezo>
 <mezo id = "irsz">3100</mezo>
-<mezo id = "hely">Salgótarján, 4106/2/ A /3 hrsz.</mezo>
+<mezo id = "hely">SalgÃ³tarjÃ¡n, 4106/2/ A /3 hrsz.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20070723</mezo>
 <mezo id = "valtv">0</mezo>
@@ -1221,10 +1221,10 @@
 <rovat id = "13">
 <alrovat id = "6">
 <mezo id = "hattol">20070723</mezo>
-<mezo id = "pnev">Daróczi Gyula</mezo>
-<mezo id = "panev">Daróczi Erzsébet</mezo>
+<mezo id = "pnev">DarÃ³czi Gyula</mezo>
+<mezo id = "panev">DarÃ³czi ErzsÃ©bet</mezo>
 <mezo id = "pirsz">2316</mezo>
-<mezo id = "phely">Tököl, Ráckevei utca 2/a.</mezo>
+<mezo id = "phely">TÃ¶kÃ¶l, RÃ¡ckevei utca 2/a.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">d</mezo>
 <mezo id = "jogvk">20070723</mezo>
@@ -1235,7 +1235,7 @@
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">20100604</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "pnev">Berki Norbert</mezo>
 <mezo id = "panev">Varga Krisztina</mezo>
 <mezo id = "kepvo">x</mezo>
@@ -1246,9 +1246,9 @@
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">20100604</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "pnev">Varga Gyula</mezo>
-<mezo id = "panev">Daróczi Erzsébet</mezo>
+<mezo id = "panev">DarÃ³czi ErzsÃ©bet</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20050809</mezo>
 <mezo id = "valtk">20100604</mezo>
@@ -1257,7 +1257,7 @@
 </alrovat>
 <alrovat id = "11">
 <mezo id = "hattol">20100604</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "pnev">Berki Zsolt</mezo>
 <mezo id = "panev">Varga Krisztina Judit</mezo>
 <mezo id = "kepvo">x</mezo>
@@ -1286,9 +1286,9 @@
 <mezo id = "hattol">20050809</mezo>
 <mezo id = "k">x</mezo>
 <mezo id = "pnev">Varga Gyula</mezo>
-<mezo id = "panev">Daróczi Erzsébet</mezo>
+<mezo id = "panev">DarÃ³czi ErzsÃ©bet</mezo>
 <mezo id = "pirsz">2316</mezo>
-<mezo id = "phely">Tököl, Ráckevei u. 2/ A .</mezo>
+<mezo id = "phely">TÃ¶kÃ¶l, RÃ¡ckevei u. 2/ A .</mezo>
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">20100604</mezo>
@@ -1303,32 +1303,32 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2007. 08. 29-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (ügyvezetõ).<ujsor/>
- Daróczi Gyula (an: Daróczi Erzsébet)<ujsor/>
-2316 Tököl, Ráckevei utca 2/a.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2007. 08. 29-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘).<ujsor/>
+ DarÃ³czi Gyula (an: DarÃ³czi ErzsÃ©bet)<ujsor/>
+2316 TÃ¶kÃ¶l, RÃ¡ckevei utca 2/a.<ujsor/>
  A jogviszony kezdete: 2007. 07. 23.<ujsor/>
- A változás idõpontja: 2007. 07. 23.<ujsor/>
- A változás idõpontja (törlés): 2007. 07. 23.<ujsor/>
- Törölve: 2007. 09. 24.<ujsor/>
- A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (ügyvezetõ).<ujsor/>
- Varga Gyula (an: Daróczi Erzsébet)<ujsor/>
-2316 Tököl, Ráckevei u. 2/ A .<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2007. 07. 23.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2007. 07. 23.<ujsor/>
+ TÃ¶rÃ¶lve: 2007. 09. 24.<ujsor/>
+ A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘).<ujsor/>
+ Varga Gyula (an: DarÃ³czi ErzsÃ©bet)<ujsor/>
+2316 TÃ¶kÃ¶l, RÃ¡ckevei u. 2/ A .<ujsor/>
  A jogviszony kezdete: 2007. 07. 23.<ujsor/>
- A változás idõpontja: 2007. 07. 23.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2007. 07. 23.<ujsor/>
  Bejegyezve: 2007. 09. 24.<ujsor/>
-A fenti adat(ok) bejegyzése és közzététele<ujsor/>
-a következõ okirat(ok) alapján történt:<ujsor/>
-egyéb.<ujsor/>
-Az okirat(ok) a cég cégjegyzékét vezetõ<ujsor/>
-cégbíróságon megtekinthetõk.<ujsor/>
+A fenti adat(ok) bejegyzÃ©se Ã©s kÃ¶zzÃ©tÃ©tele<ujsor/>
+a kÃ¶vetkezÅ‘ okirat(ok) alapjÃ¡n tÃ¶rtÃ©nt:<ujsor/>
+egyÃ©b.<ujsor/>
+Az okirat(ok) a cÃ©g cÃ©gjegyzÃ©kÃ©t vezetÅ‘<ujsor/>
+cÃ©gbÃ­rÃ³sÃ¡gon megtekinthetÅ‘k.<ujsor/>
 2007. 09. 24.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1309105003</mezo>
-<mezo id = "nev">BAU-ZON Építõ, Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">2316 Tököl, Ráckevei u. 2. A. ép .</mezo>
+<mezo id = "nev">BAU-ZON Ã‰pÃ­tÅ‘, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2316 TÃ¶kÃ¶l, RÃ¡ckevei u. 2. A. Ã©p .</mezo>
 <mezo id = "adosz">11206592213</mezo>
 </alrovat>
 </rovat>

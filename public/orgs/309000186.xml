@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">000186</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">6000 Kecskemét, Halász u. 3. </mezo>
+<mezo id = "cim">6000 KecskemÃ©t, HalÃ¡sz u. 3. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">10338289203</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19900305</mezo>
-<mezo id = "nev">&quot;MEDI-PRINT&quot; Nyomdatechnikai és Egészségügyi Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">&quot;MEDI-PRINT&quot; Nyomdatechnikai Ã©s EgÃ©szsÃ©gÃ¼gyi SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -26,15 +26,15 @@
 <alrovat id = "2">
 <mezo id = "hattol">19960214</mezo>
 <mezo id = "irsz">6000</mezo>
-<mezo id = "hely">Kecskemét</mezo>
-<mezo id = "teru">Halász u. 3.</mezo>
+<mezo id = "hely">KecskemÃ©t</mezo>
+<mezo id = "teru">HalÃ¡sz u. 3.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "6">
 <alrovat id = "1">
 <mezo id = "hattol">20010905</mezo>
 <mezo id = "irsz">6000</mezo>
-<mezo id = "hely">Kecskemét, Vörösmarty u. 10.</mezo>
+<mezo id = "hely">KecskemÃ©t, VÃ¶rÃ¶smarty u. 10.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "8">
@@ -565,7 +565,7 @@
 </alrovat>
 <alrovat id = "66">
 <mezo id = "tkelt">20091126</mezo>
-<mezo id = "teaszov">Egyéb m.n.s feldolgozóipari tevékenység</mezo>
+<mezo id = "teaszov">EgyÃ©b m.n.s feldolgozÃ³ipari tevÃ©kenysÃ©g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -580,12 +580,12 @@
 <rovat id = "13">
 <alrovat id = "5">
 <mezo id = "hattol">20090916</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Fazekas Mihály</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Fazekas MihÃ¡ly</mezo>
 <mezo id = "panev">Baumann Katalin</mezo>
 <mezo id = "pirsz">6000</mezo>
-<mezo id = "phely">Kecskemét</mezo>
-<mezo id = "pteru">Halász u. 3.</mezo>
+<mezo id = "phely">KecskemÃ©t</mezo>
+<mezo id = "pteru">HalÃ¡sz u. 3.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20081010</mezo>
 <mezo id = "valtk">20090916</mezo>
@@ -595,10 +595,10 @@
 <rovat id = "14">
 <alrovat id = "1">
 <mezo id = "hattol">20050201</mezo>
-<mezo id = "pnev">Juhász Imréné</mezo>
+<mezo id = "pnev">JuhÃ¡sz ImrÃ©nÃ©</mezo>
 <mezo id = "panev">Dobi Ilona</mezo>
 <mezo id = "pirsz">6100</mezo>
-<mezo id = "phely">Kiskunfélegyháza, Kossuth u. 21-23.</mezo>
+<mezo id = "phely">KiskunfÃ©legyhÃ¡za, Kossuth u. 21-23.</mezo>
 <mezo id = "jogvk">20050201</mezo>
 <mezo id = "jogvv">20100201</mezo>
 </alrovat>
@@ -630,23 +630,23 @@
 <rovat id = "22">
 <alrovat id = "1">
 <mezo id = "jccjsz">0309119127</mezo>
-<mezo id = "nev">MEDI-PRINT INGATLAN Ingatlanhasznosító és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">MEDI-PRINT INGATLAN IngatlanhasznosÃ­tÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "bkelt">20091126</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "jccjsz">0309119128</mezo>
-<mezo id = "nev">MEDI-PRINT MEDICAL Gyógyászati Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">MEDI-PRINT MEDICAL GyÃ³gyÃ¡szati Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "bkelt">20091126</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0109">
 <alrovat id = "14">
 <mezo id = "hattol">19940601</mezo>
-<mezo id = "pnev">Fazekas Mihály</mezo>
+<mezo id = "pnev">Fazekas MihÃ¡ly</mezo>
 <mezo id = "panev">Baumann Katalin</mezo>
 <mezo id = "pirsz">6000</mezo>
-<mezo id = "phely">Kecskemét</mezo>
-<mezo id = "pteru">Halász u.</mezo>
+<mezo id = "phely">KecskemÃ©t</mezo>
+<mezo id = "pteru">HalÃ¡sz u.</mezo>
 <mezo id = "phsz">3.</mezo>
 </alrovat>
 </rovat>
@@ -659,136 +659,136 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Bács-Kiskun Megyei Bíróság mint Cégbíróság által bejegyzett „MEDI-PRINT” Nyomdatechnikai és Egészségügyi Szolgáltató Korlátolt Felelõsségû Társaság (Cg.: [03 09 000186]; székhelye: 6000 Kecskemét, Halász u. 3.) alapítója ­ mint a társaság egyszemélyes tulajdonosa és ügyvezetõje ­ elhatározta a gazdasági társaság átalakulását oly módon, hogy ­ a 2009. szeptember 16-án meghozott alapítói döntéssel ­ a „MEDI-PRINT” Nyomdatechnikai és Egészségügyi Szolgáltató Korlátolt Felelõsségû Társaságból, változatlan tulajdonossal, két új, egyszemélyes korlátolt felelõsségû társaság átalakulással kiválik.<ujsor/>
-Az átalakulás módja: kiválás.<ujsor/>
-A kiválásra a 2006. évi IV. törvény 82. § és a 86. § (1) bekezdése alapján kerül sor oly módon, hogy a 2009. szeptember 16-án meghozott alapítói döntéssel a „MEDI-PRINT” Nyomdatechnikai és Egészségügyi Szolgáltató Korlátolt Felelõsségû Társaság alapítója kiválik a kft.-bõl és megalapítja ugyancsak egyszemélyes tulajdonú korlátolt felelõsségû társaságokként egyrészt a MEDI-PRINT MEDICAL Gyógyászati Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaságot, másrészt a MEDI-PRINT INGATLAN Ingatlanhasznosító és Kereskedelmi Korlátolt Felelõsségû Társaságot).<ujsor/>
-A szétválás ­ kiválás ­ során a megoszlás százalékos aránya 33­31­36%, mivel a jogelõd „MEDI-PRINT” Nyomdatechnikai és Egészségügyi Szolgáltató Korlátolt Felelõsségû Társaságból az alapító 31 és 36%-ot megtestesítõ vagyonrészekkel kiválik (MEDI-PRINT MEDICAL Kft. 31%, MEDI-PRINT INGATLAN Kft. 36%.<ujsor/>
-A szétválás során, a szétváló gazdasági társaságot megilletõ jogok és terhelõ kötelezettségek tekintetében az alapító úgy rendelkezett, hogy azok a jogutód gazdasági társaságokat a szétválás arányában illetik, illetõleg terhelik.<ujsor/>
-A szétválás ­ kiválás ­ a Gazdasági társaságokról szóló 2006. évi IV. törvény vonatkozó szabályai szerint történt.<ujsor/>
-Az átalakuló (kiválás után fennmaradó) társaság cégneve: „MEDI-PRINT” Nyomdatechnikai és Egészségügyi Szolgáltató Korlátolt Felelõsségû Társaság.<ujsor/>
-Cégjegyzékszáma: [03 09 000186].<ujsor/>
-Székhelye: 6000 Kecskemét, Halász u. 3.<ujsor/>
-Fõ tevékenysége (TEÁOR ’08): 4719 Iparcikk jellegû bolti vegyes kiskereskedelem.<ujsor/>
-Vezetõ tisztségviselõ: Fazekas Mihály (6000 Kecskemét, Halász u. 3.).<ujsor/>
-A létrejövõ (kiváló) I. gazdasági társaság formája és cégneve: MEDI-PRINT MEDICAL Gyógyászati Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhelye: 6000 Kecskemét, Halász u. 3.<ujsor/>
-Az alapító okirat kelte: 2009. szeptember 16.<ujsor/>
-Fõ tevékenysége (TEÁOR ’08): 2660 Elektronikus orvosi berendezés gyártása.<ujsor/>
-Vezetõ tisztségviselõ: Fazekas Mihály (6000 Kecskemét, Halász u. 3.).<ujsor/>
-A létrejövõ (kiváló) II. gazdasági társaság formája és cégneve: MEDI-PRINT INGATLAN Ingatlanhasznosító és Kereskedelmi Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhelye: 6000 Kecskemét, Halász u. 3.<ujsor/>
-Az alapító okirat kelte: 2009. szeptember 16.<ujsor/>
-Fõ tevékenysége (TEÁOR ’08): 6820 Saját tulajdonú, bérelt ingatlan bérbeadása, üzemeltetése.<ujsor/>
-Vezetõ tisztségviselõ: Fazekas Mihály (6000 Kecskemét, Halász u. 3.).<ujsor/>
-Az átalakuló és a létrejövõ gazdasági társaságok vagyonmérleg-tervezeteinek legfontosabb adatai (fordulónap: 2009. 06. 30.):<ujsor/>
+<mezo id = "szoveg">A BÃ¡cs-Kiskun Megyei BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g Ã¡ltal bejegyzett â€MEDI-PRINTâ€ Nyomdatechnikai Ã©s EgÃ©szsÃ©gÃ¼gyi SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [03 09 000186]; szÃ©khelye: 6000 KecskemÃ©t, HalÃ¡sz u. 3.) alapÃ­tÃ³ja Â­ mint a tÃ¡rsasÃ¡g egyszemÃ©lyes tulajdonosa Ã©s Ã¼gyvezetÅ‘je Â­ elhatÃ¡rozta a gazdasÃ¡gi tÃ¡rsasÃ¡g Ã¡talakulÃ¡sÃ¡t oly mÃ³don, hogy Â­ a 2009. szeptember 16-Ã¡n meghozott alapÃ­tÃ³i dÃ¶ntÃ©ssel Â­ a â€MEDI-PRINTâ€ Nyomdatechnikai Ã©s EgÃ©szsÃ©gÃ¼gyi SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gbÃ³l, vÃ¡ltozatlan tulajdonossal, kÃ©t Ãºj, egyszemÃ©lyes korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g Ã¡talakulÃ¡ssal kivÃ¡lik.<ujsor/>
+Az Ã¡talakulÃ¡s mÃ³dja: kivÃ¡lÃ¡s.<ujsor/>
+A kivÃ¡lÃ¡sra a 2006. Ã©vi IV. tÃ¶rvÃ©ny 82. Â§ Ã©s a 86. Â§ (1) bekezdÃ©se alapjÃ¡n kerÃ¼l sor oly mÃ³don, hogy a 2009. szeptember 16-Ã¡n meghozott alapÃ­tÃ³i dÃ¶ntÃ©ssel a â€MEDI-PRINTâ€ Nyomdatechnikai Ã©s EgÃ©szsÃ©gÃ¼gyi SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g alapÃ­tÃ³ja kivÃ¡lik a kft.-bÅ‘l Ã©s megalapÃ­tja ugyancsak egyszemÃ©lyes tulajdonÃº korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡gokkÃ©nt egyrÃ©szt a MEDI-PRINT MEDICAL GyÃ³gyÃ¡szati Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡got, mÃ¡srÃ©szt a MEDI-PRINT INGATLAN IngatlanhasznosÃ­tÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡got).<ujsor/>
+A szÃ©tvÃ¡lÃ¡s Â­ kivÃ¡lÃ¡s Â­ sorÃ¡n a megoszlÃ¡s szÃ¡zalÃ©kos arÃ¡nya 33Â­31Â­36%, mivel a jogelÅ‘d â€MEDI-PRINTâ€ Nyomdatechnikai Ã©s EgÃ©szsÃ©gÃ¼gyi SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gbÃ³l az alapÃ­tÃ³ 31 Ã©s 36%-ot megtestesÃ­tÅ‘ vagyonrÃ©szekkel kivÃ¡lik (MEDI-PRINT MEDICAL Kft. 31%, MEDI-PRINT INGATLAN Kft. 36%.<ujsor/>
+A szÃ©tvÃ¡lÃ¡s sorÃ¡n, a szÃ©tvÃ¡lÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡got megilletÅ‘ jogok Ã©s terhelÅ‘ kÃ¶telezettsÃ©gek tekintetÃ©ben az alapÃ­tÃ³ Ãºgy rendelkezett, hogy azok a jogutÃ³d gazdasÃ¡gi tÃ¡rsasÃ¡gokat a szÃ©tvÃ¡lÃ¡s arÃ¡nyÃ¡ban illetik, illetÅ‘leg terhelik.<ujsor/>
+A szÃ©tvÃ¡lÃ¡s Â­ kivÃ¡lÃ¡s Â­ a GazdasÃ¡gi tÃ¡rsasÃ¡gokrÃ³l szÃ³lÃ³ 2006. Ã©vi IV. tÃ¶rvÃ©ny vonatkozÃ³ szabÃ¡lyai szerint tÃ¶rtÃ©nt.<ujsor/>
+Az Ã¡talakulÃ³ (kivÃ¡lÃ¡s utÃ¡n fennmaradÃ³) tÃ¡rsasÃ¡g cÃ©gneve: â€MEDI-PRINTâ€ Nyomdatechnikai Ã©s EgÃ©szsÃ©gÃ¼gyi SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡ma: [03 09 000186].<ujsor/>
+SzÃ©khelye: 6000 KecskemÃ©t, HalÃ¡sz u. 3.<ujsor/>
+FÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™08): 4719 Iparcikk jellegÅ± bolti vegyes kiskereskedelem.<ujsor/>
+VezetÅ‘ tisztsÃ©gviselÅ‘: Fazekas MihÃ¡ly (6000 KecskemÃ©t, HalÃ¡sz u. 3.).<ujsor/>
+A lÃ©trejÃ¶vÅ‘ (kivÃ¡lÃ³) I. gazdasÃ¡gi tÃ¡rsasÃ¡g formÃ¡ja Ã©s cÃ©gneve: MEDI-PRINT MEDICAL GyÃ³gyÃ¡szati Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 6000 KecskemÃ©t, HalÃ¡sz u. 3.<ujsor/>
+Az alapÃ­tÃ³ okirat kelte: 2009. szeptember 16.<ujsor/>
+FÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™08): 2660 Elektronikus orvosi berendezÃ©s gyÃ¡rtÃ¡sa.<ujsor/>
+VezetÅ‘ tisztsÃ©gviselÅ‘: Fazekas MihÃ¡ly (6000 KecskemÃ©t, HalÃ¡sz u. 3.).<ujsor/>
+A lÃ©trejÃ¶vÅ‘ (kivÃ¡lÃ³) II. gazdasÃ¡gi tÃ¡rsasÃ¡g formÃ¡ja Ã©s cÃ©gneve: MEDI-PRINT INGATLAN IngatlanhasznosÃ­tÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 6000 KecskemÃ©t, HalÃ¡sz u. 3.<ujsor/>
+Az alapÃ­tÃ³ okirat kelte: 2009. szeptember 16.<ujsor/>
+FÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™08): 6820 SajÃ¡t tulajdonÃº, bÃ©relt ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se.<ujsor/>
+VezetÅ‘ tisztsÃ©gviselÅ‘: Fazekas MihÃ¡ly (6000 KecskemÃ©t, HalÃ¡sz u. 3.).<ujsor/>
+Az Ã¡talakulÃ³ Ã©s a lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡gok vagyonmÃ©rleg-tervezeteinek legfontosabb adatai (fordulÃ³nap: 2009. 06. 30.):<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK<ujsor/>
-„MEDI-PRINT” MEDI-PRINT MEDI-PRINT Tõkeemelés Rendezés „MEDI-PRINT”<ujsor/>
-Kft. Kiválás elõtt MEDICAL Kft. INGATLAN Kft. Kft. Kiválás után<ujsor/>
-(záró) Létrejövõ (nyitó) Létrejövõ (nyitó) (nyitó)<ujsor/>
-Befektetett eszközök 98 924 18 107 48 920 31 897<ujsor/>
-Immateriális javak 1 214 1 144 70<ujsor/>
-Tárgyi eszközök 97 710 16 963 48 920 31 827<ujsor/>
-Forgóeszközök 331 319 148 732 68 455 ­ ­ 114 132<ujsor/>
-Készletek 39 881 39 881<ujsor/>
-Követelések 65 219 22 347 42 872<ujsor/>
-Pénzeszközök 226 219 126 385 68 455 31 379<ujsor/>
-Pénztárcsekkek 5 289 1 000 1 000 3 289<ujsor/>
-Bankbetétek 220 931 125 384 67 455 28 092<ujsor/>
-Aktív idõbeli elhatárolások ­ ­<ujsor/>
-ÖSSZESEN: 430 243 166 839 117 375 ­ ­ 146 029<ujsor/>
+ESZKÃ–ZÃ–K<ujsor/>
+â€MEDI-PRINTâ€ MEDI-PRINT MEDI-PRINT TÅ‘keemelÃ©s RendezÃ©s â€MEDI-PRINTâ€<ujsor/>
+Kft. KivÃ¡lÃ¡s elÅ‘tt MEDICAL Kft. INGATLAN Kft. Kft. KivÃ¡lÃ¡s utÃ¡n<ujsor/>
+(zÃ¡rÃ³) LÃ©trejÃ¶vÅ‘ (nyitÃ³) LÃ©trejÃ¶vÅ‘ (nyitÃ³) (nyitÃ³)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 98 924 18 107 48 920 31 897<ujsor/>
+ImmateriÃ¡lis javak 1 214 1 144 70<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 97 710 16 963 48 920 31 827<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 331 319 148 732 68 455 Â­ Â­ 114 132<ujsor/>
+KÃ©szletek 39 881 39 881<ujsor/>
+KÃ¶vetelÃ©sek 65 219 22 347 42 872<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 226 219 126 385 68 455 31 379<ujsor/>
+PÃ©nztÃ¡rcsekkek 5 289 1 000 1 000 3 289<ujsor/>
+BankbetÃ©tek 220 931 125 384 67 455 28 092<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok Â­ Â­<ujsor/>
+Ã–SSZESEN: 430 243 166 839 117 375 Â­ Â­ 146 029<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK<ujsor/>
-„MEDI-PRINT” MEDI-PRINT MEDI-PRINT Tõkeemelés Rendezés „MEDI-PRINT”<ujsor/>
-Kft. Kiválás elõtt MEDICAL Kft. INGATLAN Kft. Kft. Kiválás után<ujsor/>
-(záró) Létrejövõ (nyitó) Létrejövõ (nyitó) (nyitó)<ujsor/>
-Saját tõke 327 919 100 489 117 375 ­ ­ 110 055<ujsor/>
-Jegyzett tõke 3 000 1 000 1 000 2 000 3 000<ujsor/>
-Eredménytartalék 261 624 99 489 116 375 2 000 20 868 64 628<ujsor/>
-Lekötött tartalék 27 427 15 000 42 427<ujsor/>
-Mérleg szerinti eredmény 35 868 ­35 868 ­<ujsor/>
-Kötelezettségek 102 324 66 350 ­ ­ ­ 35 974<ujsor/>
-Hosszú lejáratú kötelezettségek<ujsor/>
-Rövid lejáratú kötelezettségek 102 324 66 350 35 974<ujsor/>
-Kötelezettség áruszállításból 30 168 4 534 25 634<ujsor/>
-Rövidhitelek 485 485<ujsor/>
-Egyéb rövid lejáratú kötelezettség 71 671 61 816 9 855<ujsor/>
-Passzív idõbeli elhatárolások ­<ujsor/>
-ÖSSZESEN: 430 243 166 839 117 375 ­ ­ 146 029<ujsor/>
-A társaság felhívja a hitelezõk figyelmét, hogy azok a hitelezõk, akiknek az átalakuló „MEDI PRINT” Nyomdatechnikai és Egészségügyi Szolgáltató Korlátolt Felelõsségû Társasággal szemben fennálló, le nem járt követelései az átalakulással hozott döntés elsõ közzétételét megelõzõen keletkeztek, követeléseik erejéig az átalakuló gazdasági társaságtól a döntés második közzétételét követõ harmincnapos jogvesztõ határidõn belül biztosítékot követelhetnek.<ujsor/>
-A hirdetményi határidõ alatt a hitelezõk a követelésüket érintõ vagyonmegosztási rendelkezésekrõl a szétválással érintett társaságok székhelyén kaphatnak tájékoztatást.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+FORRÃSOK<ujsor/>
+â€MEDI-PRINTâ€ MEDI-PRINT MEDI-PRINT TÅ‘keemelÃ©s RendezÃ©s â€MEDI-PRINTâ€<ujsor/>
+Kft. KivÃ¡lÃ¡s elÅ‘tt MEDICAL Kft. INGATLAN Kft. Kft. KivÃ¡lÃ¡s utÃ¡n<ujsor/>
+(zÃ¡rÃ³) LÃ©trejÃ¶vÅ‘ (nyitÃ³) LÃ©trejÃ¶vÅ‘ (nyitÃ³) (nyitÃ³)<ujsor/>
+SajÃ¡t tÅ‘ke 327 919 100 489 117 375 Â­ Â­ 110 055<ujsor/>
+Jegyzett tÅ‘ke 3 000 1 000 1 000 2 000 3 000<ujsor/>
+EredmÃ©nytartalÃ©k 261 624 99 489 116 375 2 000 20 868 64 628<ujsor/>
+LekÃ¶tÃ¶tt tartalÃ©k 27 427 15 000 42 427<ujsor/>
+MÃ©rleg szerinti eredmÃ©ny 35 868 Â­35 868 Â­<ujsor/>
+KÃ¶telezettsÃ©gek 102 324 66 350 Â­ Â­ Â­ 35 974<ujsor/>
+HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek<ujsor/>
+RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 102 324 66 350 35 974<ujsor/>
+KÃ¶telezettsÃ©g Ã¡ruszÃ¡llÃ­tÃ¡sbÃ³l 30 168 4 534 25 634<ujsor/>
+RÃ¶vidhitelek 485 485<ujsor/>
+EgyÃ©b rÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©g 71 671 61 816 9 855<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok Â­<ujsor/>
+Ã–SSZESEN: 430 243 166 839 117 375 Â­ Â­ 146 029<ujsor/>
+A tÃ¡rsasÃ¡g felhÃ­vja a hitelezÅ‘k figyelmÃ©t, hogy azok a hitelezÅ‘k, akiknek az Ã¡talakulÃ³ â€MEDI PRINTâ€ Nyomdatechnikai Ã©s EgÃ©szsÃ©gÃ¼gyi SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei az Ã¡talakulÃ¡ssal hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gtÃ³l a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+A hirdetmÃ©nyi hatÃ¡ridÅ‘ alatt a hitelezÅ‘k a kÃ¶vetelÃ©sÃ¼ket Ã©rintÅ‘ vagyonmegosztÃ¡si rendelkezÃ©sekrÅ‘l a szÃ©tvÃ¡lÃ¡ssal Ã©rintett tÃ¡rsasÃ¡gok szÃ©khelyÃ©n kaphatnak tÃ¡jÃ©koztatÃ¡st.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0309000186</mezo>
-<mezo id = "nev">&quot;MEDI-PRINT&quot; Nyomdatechnikai és Egészségügyi Szolgáltató Korlátolt Felelõsségü Társaság</mezo>
-<mezo id = "cim">6000 Kecskemét</mezo>
+<mezo id = "nev">&quot;MEDI-PRINT&quot; Nyomdatechnikai Ã©s EgÃ©szsÃ©gÃ¼gyi SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÃ¼ TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">6000 KecskemÃ©t</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Bács-Kiskun Megyei Bíróság mint Cégbíróság által bejegyzett „MEDI-PRINT” Nyomdatechnikai és Egészségügyi Szolgáltató Korlátolt Felelõsségû Társaság (Cg.: [03 09 000186]; székhelye: 6000 Kecskemét, Halász u. 3.) alapítója ­ mint a társaság egyszemélyes tulajdonosa és ügyvezetõje ­ elhatározta a gazdasági társaság átalakulását oly módon, hogy ­ a 2009. szeptember 16-án meghozott alapítói döntéssel ­ a „MEDI-PRINT” Nyomdatechnikai és Egészségügyi Szolgáltató Korlátolt Felelõsségû Társaságból, változatlan tulajdonossal, két új, egyszemélyes korlátolt felelõsségû társaság átalakulással kiválik.<ujsor/>
-Az átalakulás módja: kiválás.<ujsor/>
-A kiválásra a 2006. évi IV. törvény 82. § és a 86. § (1) bekezdése alapján kerül sor oly módon, hogy a 2009. szeptember 16-án meghozott alapítói döntéssel a „MEDI-PRINT” Nyomdatechnikai és Egészségügyi Szolgáltató Korlátolt Felelõsségû Társaság alapítója kiválik a kft.-bõl és megalapítja ugyancsak egyszemélyes tulajdonú korlátolt felelõsségû társaságokként egyrészt a MEDI-PRINT MEDICAL Gyógyászati Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaságot, másrészt a MEDI-PRINT INGATLAN Ingatlanhasznosító és Kereskedelmi Korlátolt Felelõsségû Társaságot.<ujsor/>
-A szétválás ­ kiválás ­ során a megoszlás százalékos aránya 33­31­36%, mivel a jogelõd „MEDI-PRINT” Nyomdatechnikai és Egészségügyi Szolgáltató Korlátolt Felelõsségû Társaságból az alapító 31 és 36%-ot megtestesítõ vagyonrészekkel kiválik (MEDI-PRINT MEDICAL Kft. 31%, MEDI-PRINT INGATLAN Kft. 36%.<ujsor/>
-A szétválás során, a szétváló gazdasági társaságot megilletõ jogok és terhelõ kötelezettségek tekintetében az alapító úgy rendelkezett, hogy azok a jogutód gazdasági társaságokat a szétválás arányában illetik, illetõleg terhelik.<ujsor/>
-A szétválás ­ kiválás ­ a Gazdasági társaságokról szóló 2006. évi IV. törvény vonatkozó szabályai szerint történt.<ujsor/>
-Az átalakuló (kiválás után fennmaradó) társaság cégneve: „MEDI-PRINT” Nyomdatechnikai és Egészségügyi Szolgáltató Korlátolt Felelõsségû Társaság.<ujsor/>
-Cégjegyzékszáma: [03 09 000186].<ujsor/>
-Székhelye: 6000 Kecskemét, Halász u. 3.<ujsor/>
-Fõ tevékenysége (TEÁOR ’08): 4719 Iparcikk jellegû bolti vegyes kiskereskedelem.<ujsor/>
-Vezetõ tisztségviselõ: Fazekas Mihály (6000 Kecskemét, Halász u. 3.).<ujsor/>
-A létrejövõ (kiváló) I. gazdasági társaság formája és cégneve: MEDI-PRINT MEDICAL Gyógyászati Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhelye: 6000 Kecskemét, Halász u. 3.<ujsor/>
-Az alapító okirat kelte: 2009. szeptember 16.<ujsor/>
-Fõ tevékenysége (TEÁOR ’08): 2660 Elektronikus orvosi berendezés gyártása.<ujsor/>
-Vezetõ tisztségviselõ: Fazekas Mihály (6000 Kecskemét, Halász u. 3.).<ujsor/>
-A létrejövõ (kiváló) II. gazdasági társaság formája és cégneve: MEDI-PRINT INGATLAN Ingatlanhasznosító és Kereskedelmi Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhelye: 6000 Kecskemét, Halász u. 3.<ujsor/>
-Az alapító okirat kelte: 2009. szeptember 16.<ujsor/>
-Fõ tevékenysége (TEÁOR ’08): 6820 Saját tulajdonú, bérelt ingatlan bérbeadása, üzemeltetése.<ujsor/>
-Vezetõ tisztségviselõ: Fazekas Mihály (6000 Kecskemét, Halász u. 3.).<ujsor/>
-Az átalakuló és a létrejövõ gazdasági társaságok vagyonmérleg-tervezeteinek legfontosabb adatai (fordulónap: 2009. 06. 30.):<ujsor/>
+<mezo id = "szoveg">A BÃ¡cs-Kiskun Megyei BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g Ã¡ltal bejegyzett â€MEDI-PRINTâ€ Nyomdatechnikai Ã©s EgÃ©szsÃ©gÃ¼gyi SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [03 09 000186]; szÃ©khelye: 6000 KecskemÃ©t, HalÃ¡sz u. 3.) alapÃ­tÃ³ja Â­ mint a tÃ¡rsasÃ¡g egyszemÃ©lyes tulajdonosa Ã©s Ã¼gyvezetÅ‘je Â­ elhatÃ¡rozta a gazdasÃ¡gi tÃ¡rsasÃ¡g Ã¡talakulÃ¡sÃ¡t oly mÃ³don, hogy Â­ a 2009. szeptember 16-Ã¡n meghozott alapÃ­tÃ³i dÃ¶ntÃ©ssel Â­ a â€MEDI-PRINTâ€ Nyomdatechnikai Ã©s EgÃ©szsÃ©gÃ¼gyi SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gbÃ³l, vÃ¡ltozatlan tulajdonossal, kÃ©t Ãºj, egyszemÃ©lyes korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g Ã¡talakulÃ¡ssal kivÃ¡lik.<ujsor/>
+Az Ã¡talakulÃ¡s mÃ³dja: kivÃ¡lÃ¡s.<ujsor/>
+A kivÃ¡lÃ¡sra a 2006. Ã©vi IV. tÃ¶rvÃ©ny 82. Â§ Ã©s a 86. Â§ (1) bekezdÃ©se alapjÃ¡n kerÃ¼l sor oly mÃ³don, hogy a 2009. szeptember 16-Ã¡n meghozott alapÃ­tÃ³i dÃ¶ntÃ©ssel a â€MEDI-PRINTâ€ Nyomdatechnikai Ã©s EgÃ©szsÃ©gÃ¼gyi SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g alapÃ­tÃ³ja kivÃ¡lik a kft.-bÅ‘l Ã©s megalapÃ­tja ugyancsak egyszemÃ©lyes tulajdonÃº korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡gokkÃ©nt egyrÃ©szt a MEDI-PRINT MEDICAL GyÃ³gyÃ¡szati Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡got, mÃ¡srÃ©szt a MEDI-PRINT INGATLAN IngatlanhasznosÃ­tÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡got.<ujsor/>
+A szÃ©tvÃ¡lÃ¡s Â­ kivÃ¡lÃ¡s Â­ sorÃ¡n a megoszlÃ¡s szÃ¡zalÃ©kos arÃ¡nya 33Â­31Â­36%, mivel a jogelÅ‘d â€MEDI-PRINTâ€ Nyomdatechnikai Ã©s EgÃ©szsÃ©gÃ¼gyi SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gbÃ³l az alapÃ­tÃ³ 31 Ã©s 36%-ot megtestesÃ­tÅ‘ vagyonrÃ©szekkel kivÃ¡lik (MEDI-PRINT MEDICAL Kft. 31%, MEDI-PRINT INGATLAN Kft. 36%.<ujsor/>
+A szÃ©tvÃ¡lÃ¡s sorÃ¡n, a szÃ©tvÃ¡lÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡got megilletÅ‘ jogok Ã©s terhelÅ‘ kÃ¶telezettsÃ©gek tekintetÃ©ben az alapÃ­tÃ³ Ãºgy rendelkezett, hogy azok a jogutÃ³d gazdasÃ¡gi tÃ¡rsasÃ¡gokat a szÃ©tvÃ¡lÃ¡s arÃ¡nyÃ¡ban illetik, illetÅ‘leg terhelik.<ujsor/>
+A szÃ©tvÃ¡lÃ¡s Â­ kivÃ¡lÃ¡s Â­ a GazdasÃ¡gi tÃ¡rsasÃ¡gokrÃ³l szÃ³lÃ³ 2006. Ã©vi IV. tÃ¶rvÃ©ny vonatkozÃ³ szabÃ¡lyai szerint tÃ¶rtÃ©nt.<ujsor/>
+Az Ã¡talakulÃ³ (kivÃ¡lÃ¡s utÃ¡n fennmaradÃ³) tÃ¡rsasÃ¡g cÃ©gneve: â€MEDI-PRINTâ€ Nyomdatechnikai Ã©s EgÃ©szsÃ©gÃ¼gyi SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡ma: [03 09 000186].<ujsor/>
+SzÃ©khelye: 6000 KecskemÃ©t, HalÃ¡sz u. 3.<ujsor/>
+FÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™08): 4719 Iparcikk jellegÅ± bolti vegyes kiskereskedelem.<ujsor/>
+VezetÅ‘ tisztsÃ©gviselÅ‘: Fazekas MihÃ¡ly (6000 KecskemÃ©t, HalÃ¡sz u. 3.).<ujsor/>
+A lÃ©trejÃ¶vÅ‘ (kivÃ¡lÃ³) I. gazdasÃ¡gi tÃ¡rsasÃ¡g formÃ¡ja Ã©s cÃ©gneve: MEDI-PRINT MEDICAL GyÃ³gyÃ¡szati Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 6000 KecskemÃ©t, HalÃ¡sz u. 3.<ujsor/>
+Az alapÃ­tÃ³ okirat kelte: 2009. szeptember 16.<ujsor/>
+FÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™08): 2660 Elektronikus orvosi berendezÃ©s gyÃ¡rtÃ¡sa.<ujsor/>
+VezetÅ‘ tisztsÃ©gviselÅ‘: Fazekas MihÃ¡ly (6000 KecskemÃ©t, HalÃ¡sz u. 3.).<ujsor/>
+A lÃ©trejÃ¶vÅ‘ (kivÃ¡lÃ³) II. gazdasÃ¡gi tÃ¡rsasÃ¡g formÃ¡ja Ã©s cÃ©gneve: MEDI-PRINT INGATLAN IngatlanhasznosÃ­tÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 6000 KecskemÃ©t, HalÃ¡sz u. 3.<ujsor/>
+Az alapÃ­tÃ³ okirat kelte: 2009. szeptember 16.<ujsor/>
+FÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™08): 6820 SajÃ¡t tulajdonÃº, bÃ©relt ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se.<ujsor/>
+VezetÅ‘ tisztsÃ©gviselÅ‘: Fazekas MihÃ¡ly (6000 KecskemÃ©t, HalÃ¡sz u. 3.).<ujsor/>
+Az Ã¡talakulÃ³ Ã©s a lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡gok vagyonmÃ©rleg-tervezeteinek legfontosabb adatai (fordulÃ³nap: 2009. 06. 30.):<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK<ujsor/>
-„MEDI-PRINT” MEDI-PRINT MEDI-PRINT Tõkeemelés Rendezés „MEDI-PRINT”<ujsor/>
-Kft. Kiválás elõtt MEDICAL Kft. INGATLAN Kft. Kft. Kiválás után<ujsor/>
-(záró) Létrejövõ (nyitó) Létrejövõ (nyitó) (nyitó)<ujsor/>
-Befektetett eszközök 98 924 18 107 48 920 31 897<ujsor/>
-Immateriális javak 1 214 1 144 70<ujsor/>
-Tárgyi eszközök 97 710 16 963 48 920 31 827<ujsor/>
-Forgóeszközök 331 319 148 732 68 455 ­ ­ 114 132<ujsor/>
-Készletek 39 881 39 881<ujsor/>
-Követelések 65 219 22 347 42 872<ujsor/>
-Pénzeszközök 226 219 126 385 68 455 31 379<ujsor/>
-Pénztárcsekkek 5 289 1 000 1 000 3 289<ujsor/>
-Bankbetétek 220 931 125 384 67 455 28 092<ujsor/>
-Aktív idõbeli elhatárolások ­ ­<ujsor/>
-ÖSSZESEN: 430 243 166 839 117 375 ­ ­ 146 029<ujsor/>
+ESZKÃ–ZÃ–K<ujsor/>
+â€MEDI-PRINTâ€ MEDI-PRINT MEDI-PRINT TÅ‘keemelÃ©s RendezÃ©s â€MEDI-PRINTâ€<ujsor/>
+Kft. KivÃ¡lÃ¡s elÅ‘tt MEDICAL Kft. INGATLAN Kft. Kft. KivÃ¡lÃ¡s utÃ¡n<ujsor/>
+(zÃ¡rÃ³) LÃ©trejÃ¶vÅ‘ (nyitÃ³) LÃ©trejÃ¶vÅ‘ (nyitÃ³) (nyitÃ³)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 98 924 18 107 48 920 31 897<ujsor/>
+ImmateriÃ¡lis javak 1 214 1 144 70<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 97 710 16 963 48 920 31 827<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 331 319 148 732 68 455 Â­ Â­ 114 132<ujsor/>
+KÃ©szletek 39 881 39 881<ujsor/>
+KÃ¶vetelÃ©sek 65 219 22 347 42 872<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 226 219 126 385 68 455 31 379<ujsor/>
+PÃ©nztÃ¡rcsekkek 5 289 1 000 1 000 3 289<ujsor/>
+BankbetÃ©tek 220 931 125 384 67 455 28 092<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok Â­ Â­<ujsor/>
+Ã–SSZESEN: 430 243 166 839 117 375 Â­ Â­ 146 029<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK<ujsor/>
-„MEDI-PRINT” MEDI-PRINT MEDI-PRINT Tõkeemelés Rendezés „MEDI-PRINT”<ujsor/>
-Kft. Kiválás elõtt MEDICAL Kft. INGATLAN Kft. Kft. Kiválás után<ujsor/>
-(záró) Létrejövõ (nyitó) Létrejövõ (nyitó) (nyitó)<ujsor/>
-Saját tõke 327 919 100 489 117 375 ­ ­ 110 055<ujsor/>
-Jegyzett tõke 3 000 1 000 1 000 2 000 3 000<ujsor/>
-Eredménytartalék 261 624 99 489 116 375 2 000 20 868 64 628<ujsor/>
-Lekötött tartalék 27 427 15 000 42 427<ujsor/>
-Mérleg szerinti eredmény 35 868 ­35 868 ­<ujsor/>
-Kötelezettségek 102 324 66 350 ­ ­ ­ 35 974<ujsor/>
-Hosszú lejáratú kötelezettségek<ujsor/>
-Rövid lejáratú kötelezettségek 102 324 66 350 35 974<ujsor/>
-Kötelezettség áruszállításból 30 168 4 534 25 634<ujsor/>
-Rövidhitelek 485 485<ujsor/>
-Egyéb rövid lejáratú kötelezettség 71 671 61 816 9 855<ujsor/>
-Passzív idõbeli elhatárolások ­<ujsor/>
-ÖSSZESEN: 430 243 166 839 117 375 ­ ­ 146 029<ujsor/>
-A társaság felhívja a hitelezõk figyelmét, hogy azok a hitelezõk, akiknek az átalakuló „MEDI PRINT” Nyomdatechnikai és Egészségügyi Szolgáltató Korlátolt Felelõsségû Társasággal szemben fennálló, le nem járt követelései az átalakulással hozott döntés elsõ közzétételét megelõzõen keletkeztek, követeléseik erejéig az átalakuló gazdasági társaságtól a döntés második közzétételét követõ harmincnapos jogvesztõ határidõn belül biztosítékot követelhetnek.<ujsor/>
-A hirdetményi határidõ alatt a hitelezõk a követelésüket érintõ vagyonmegosztási rendelkezésekrõl a szétválással érintett társaságok székhelyén kaphatnak tájékoztatást.<ujsor/>
-(Második közzététel.)<ujsor/>
+FORRÃSOK<ujsor/>
+â€MEDI-PRINTâ€ MEDI-PRINT MEDI-PRINT TÅ‘keemelÃ©s RendezÃ©s â€MEDI-PRINTâ€<ujsor/>
+Kft. KivÃ¡lÃ¡s elÅ‘tt MEDICAL Kft. INGATLAN Kft. Kft. KivÃ¡lÃ¡s utÃ¡n<ujsor/>
+(zÃ¡rÃ³) LÃ©trejÃ¶vÅ‘ (nyitÃ³) LÃ©trejÃ¶vÅ‘ (nyitÃ³) (nyitÃ³)<ujsor/>
+SajÃ¡t tÅ‘ke 327 919 100 489 117 375 Â­ Â­ 110 055<ujsor/>
+Jegyzett tÅ‘ke 3 000 1 000 1 000 2 000 3 000<ujsor/>
+EredmÃ©nytartalÃ©k 261 624 99 489 116 375 2 000 20 868 64 628<ujsor/>
+LekÃ¶tÃ¶tt tartalÃ©k 27 427 15 000 42 427<ujsor/>
+MÃ©rleg szerinti eredmÃ©ny 35 868 Â­35 868 Â­<ujsor/>
+KÃ¶telezettsÃ©gek 102 324 66 350 Â­ Â­ Â­ 35 974<ujsor/>
+HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek<ujsor/>
+RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 102 324 66 350 35 974<ujsor/>
+KÃ¶telezettsÃ©g Ã¡ruszÃ¡llÃ­tÃ¡sbÃ³l 30 168 4 534 25 634<ujsor/>
+RÃ¶vidhitelek 485 485<ujsor/>
+EgyÃ©b rÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©g 71 671 61 816 9 855<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok Â­<ujsor/>
+Ã–SSZESEN: 430 243 166 839 117 375 Â­ Â­ 146 029<ujsor/>
+A tÃ¡rsasÃ¡g felhÃ­vja a hitelezÅ‘k figyelmÃ©t, hogy azok a hitelezÅ‘k, akiknek az Ã¡talakulÃ³ â€MEDI PRINTâ€ Nyomdatechnikai Ã©s EgÃ©szsÃ©gÃ¼gyi SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei az Ã¡talakulÃ¡ssal hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gtÃ³l a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+A hirdetmÃ©nyi hatÃ¡ridÅ‘ alatt a hitelezÅ‘k a kÃ¶vetelÃ©sÃ¼ket Ã©rintÅ‘ vagyonmegosztÃ¡si rendelkezÃ©sekrÅ‘l a szÃ©tvÃ¡lÃ¡ssal Ã©rintett tÃ¡rsasÃ¡gok szÃ©khelyÃ©n kaphatnak tÃ¡jÃ©koztatÃ¡st.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0309000186</mezo>
-<mezo id = "nev">&quot;MEDI-PRINT&quot; Nyomdatechnikai és Egészségügyi Szolgáltató Korlátolt Felelõsségü Társaság</mezo>
-<mezo id = "cim">6000 Kecskemét</mezo>
+<mezo id = "nev">&quot;MEDI-PRINT&quot; Nyomdatechnikai Ã©s EgÃ©szsÃ©gÃ¼gyi SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÃ¼ TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">6000 KecskemÃ©t</mezo>
 </alrovat>
 </rovat>
 <rovat id = "99017">

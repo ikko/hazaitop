@@ -84,25 +84,25 @@ namespace :complex do
 
     def role_to_relation_type role, pair, klass, subrole=nil
       if subrole
-        i = P2pRelationType.find_or_create_by_name_and_internal( subrole, true ) do |r|
+        i = PToPRelationType.find_or_create_by_name_and_internal( subrole, true ) do |r|
           r.name = subrole
           r.internal = true
           r.parsed = true
         end
-        a = P2oRelationType.find_or_create_by_name_and_parsed( role, true ) do |r|   
+        a = PToORelationType.find_or_create_by_name_and_parsed( role, true ) do |r|   
           r.name = role
-          r.p2p_relation_type_id = i.id
+          r.p_to_p_relation_type_id = i.id
           r.parsed = true
         end
-        b = O2pRelationType.find_or_create_by_name_and_parsed( pair, true ) do |r|
+        b = OToPRelationType.find_or_create_by_name_and_parsed( pair, true ) do |r|
           r.name = pair
-          r.p2p_relation_type_id = i.id
+          r.p_to_p_relation_type_id = i.id
           r.pair_id = a.id
           r.parsed = true
         end
         a.update_attribute :pair_id, b.id
-        return a if klass == P2oRelationType
-        return b if klass == O2pRelationType  # ilyenkor fordítva lesz!! ésszel :)
+        return a if klass == PToORelationType
+        return b if klass == OToPRelationType  # ilyenkor fordítva lesz!! ésszel :)
       else
         relation_type = klass.find_or_create_by_name(role) do |r|
           r.name = role
@@ -252,8 +252,8 @@ namespace :complex do
                                  :information_source_id => @info.id
                                )
         end
-        puts relation_type = role_to_relation_type( role, pair_role, P2oRelationType, subrole )
-        rel = PersonToOrgRelation.find_by_person_id_and_organization_id_and_start_time_and_end_time_and_information_source_id_and_p2o_relation_type_id(
+        puts relation_type = role_to_relation_type( role, pair_role, PToORelationType, subrole )
+        rel = PersonToOrgRelation.find_by_person_id_and_organization_id_and_start_time_and_end_time_and_information_source_id_and_p_to_o_relation_type_id(
                                           person.id,    @org.id,            valtk,         valtv,       @info.id,                 relation_type.id )
         if !rel
           puts " >>>>>>>>>>>> creating new relation for:"
@@ -263,7 +263,7 @@ namespace :complex do
                                        :start_time => valtk,
                                        :end_time => valtv,
                                        :no_end_time => ( valtv.nil? ? true : false ),
-                                       :p2o_relation_type_id  => relation_type.id,
+                                       :p_to_o_relation_type_id  => relation_type.id,
                                        :erased_at => tkelt,
                                        :role => ( tiszt.blank? ? nil : tiszt ),
                                        :role2 => ( tiszt2.blank? ? nil : tiszt2 ),
@@ -295,8 +295,8 @@ namespace :complex do
                                     :information_source_id => @info.id
                                   ) unless org
         ap org
-        puts relation_type = role_to_relation_type( role, pair_role, O2oRelationType )
-        rel = InterorgRelation.find_by_organization_id_and_related_organization_id_and_start_time_and_end_time_and_information_source_id_and_o2o_relation_type_id(
+        puts relation_type = role_to_relation_type( role, pair_role, OToORelationType )
+        rel = InterorgRelation.find_by_organization_id_and_related_organization_id_and_start_time_and_end_time_and_information_source_id_and_o_to_o_relation_type_id(
                                        @org.id,             org.id,                    valtk,         valtv,       @info.id,                 relation_type.id )
         if !rel
           puts " >>>>>>>>>>>> creating new relation for:"
@@ -306,7 +306,7 @@ namespace :complex do
                                        :start_time => valtk,
                                        :end_time => valtv,
                                        :no_end_time => ( valtv.nil? ? true : false ),
-                                       :o2o_relation_type_id  => relation_type.id,
+                                       :o_to_o_relation_type_id  => relation_type.id,
                                        :erased_at => tkelt,
                                        :role => ( tiszt.blank? ? nil : tiszt ),
                                        :role2 => ( tiszt2.blank? ? nil : tiszt2 ),
@@ -626,8 +626,8 @@ namespace :complex do
         unless person
           person = Person.create!( :first_name => first_name, :last_name => last_name, :mothers_name => h['anev'], :information_source_id => @info.id )
         end
-        relation_type = role_to_relation_type( "Eltiltás alatt", "Eltiltás alatt", P2oRelationType, "Ugyanazon cégnél eltiltottak" )
-        rel = PersonToOrgRelation.find_by_person_id_and_organization_id_and_start_time_and_end_time_and_information_source_id_and_p2o_relation_type_id(
+        relation_type = role_to_relation_type( "Eltiltás alatt", "Eltiltás alatt", PToORelationType, "Ugyanazon cégnél eltiltottak" )
+        rel = PersonToOrgRelation.find_by_person_id_and_organization_id_and_start_time_and_end_time_and_information_source_id_and_p_to_o_relation_type_id(
                                           person.id,    @org.id,            kezdete,       vege,        @info.id,                 relation_type.id )
         if !rel
           puts " >>>>>>>>>>>> creating new relation for:"
@@ -637,7 +637,7 @@ namespace :complex do
                                      :start_time => kezdete,
                                      :end_time => vege,
                                      :no_end_time => ( vege.nil? ? true : false ),
-                                     :p2o_relation_type_id  => relation_type.id,
+                                     :p_to_o_relation_type_id  => relation_type.id,
                                      :note => ( h['labj'].blank? ? nil : h['labj'] ),
                                      :erased_at => h['tkelt'],
                                      :parsed => true

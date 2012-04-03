@@ -6,7 +6,7 @@
 <mezo id = "szam">000045</mezo>
 <mezo id = "nevalrovat">2</mezo>
 <mezo id = "allapot">6</mezo>
-<mezo id = "cim">4028 Debrecen, Simonyi út 14. </mezo>
+<mezo id = "cim">4028 Debrecen, Simonyi Ãºt 14. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">20640079209</mezo>
 </alrovat>
@@ -14,19 +14,19 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20030207</mezo>
-<mezo id = "nev">ÉARFÜ Észak-Alföldi Regionális Fejlesztési Ügynökség Közhasznú Társaság</mezo>
+<mezo id = "nev">Ã‰ARFÃœ Ã‰szak-AlfÃ¶ldi RegionÃ¡lis FejlesztÃ©si ÃœgynÃ¶ksÃ©g KÃ¶zhasznÃº TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "2">
 <mezo id = "hattol">20030207</mezo>
-<mezo id = "nev">ÉARFÜ Kht.</mezo>
+<mezo id = "nev">Ã‰ARFÃœ Kht.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "4">
 <alrovat id = "2">
 <mezo id = "hattol">20060912</mezo>
-<mezo id = "nev">Észak-Alföld Regional Development Agency</mezo>
+<mezo id = "nev">Ã‰szak-AlfÃ¶ld Regional Development Agency</mezo>
 <mezo id = "valtk">20060706</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -36,7 +36,7 @@
 <mezo id = "hattol">20040715</mezo>
 <mezo id = "irsz">4028</mezo>
 <mezo id = "hely">Debrecen</mezo>
-<mezo id = "teru">Simonyi út 14.</mezo>
+<mezo id = "teru">Simonyi Ãºt 14.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "8">
@@ -830,10 +830,10 @@
 <rovat id = "13">
 <alrovat id = "4">
 <mezo id = "hattol">20060120</mezo>
-<mezo id = "pnev">Dr. Debreczeni Ferenc István</mezo>
+<mezo id = "pnev">Dr. Debreczeni Ferenc IstvÃ¡n</mezo>
 <mezo id = "panev">Kiss Irma</mezo>
 <mezo id = "pirsz">4024</mezo>
-<mezo id = "phely">Debrecen, Szombathy István u. 5. fszt. 1.</mezo>
+<mezo id = "phely">Debrecen, Szombathy IstvÃ¡n u. 5. fszt. 1.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">2</mezo>
 <mezo id = "jogvk">20060120</mezo>
@@ -844,14 +844,14 @@
 <alrovat id = "5">
 <mezo id = "hattol">20071016</mezo>
 <mezo id = "cgjsz">1509064785</mezo>
-<mezo id = "nev">NYÍR-AUDIT Könyvvizsgáló Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">NYÃR-AUDIT KÃ¶nyvvizsgÃ¡lÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">4400</mezo>
-<mezo id = "hely">Nyíregyháza Moszkva u. 7.</mezo>
-<mezo id = "pnev">Remenyikné Kovács Róza</mezo>
-<mezo id = "panev">Szeifert Róza</mezo>
+<mezo id = "hely">NyÃ­regyhÃ¡za Moszkva u. 7.</mezo>
+<mezo id = "pnev">RemenyiknÃ© KovÃ¡cs RÃ³za</mezo>
+<mezo id = "panev">Szeifert RÃ³za</mezo>
 <mezo id = "pirsz">4400</mezo>
-<mezo id = "phely">Nyíregyháza Moszkva u. 7.</mezo>
+<mezo id = "phely">NyÃ­regyhÃ¡za Moszkva u. 7.</mezo>
 <mezo id = "jogvk">20071016</mezo>
 <mezo id = "jogvv">20090531</mezo>
 <mezo id = "valtk">20071016</mezo>
@@ -863,10 +863,10 @@
 <rovat id = "15">
 <alrovat id = "18">
 <mezo id = "hattol">20070518</mezo>
-<mezo id = "pnev">Birta Sándor</mezo>
-<mezo id = "panev">Szabó Gizella</mezo>
+<mezo id = "pnev">Birta SÃ¡ndor</mezo>
+<mezo id = "panev">SzabÃ³ Gizella</mezo>
 <mezo id = "pirsz">4361</mezo>
-<mezo id = "phely">Nyírbogát Kölcsey utca 11.</mezo>
+<mezo id = "phely">NyÃ­rbogÃ¡t KÃ¶lcsey utca 11.</mezo>
 <mezo id = "jogvk">20070321</mezo>
 <mezo id = "jogvv">20120321</mezo>
 <mezo id = "valtk">20070321</mezo>
@@ -874,10 +874,10 @@
 </alrovat>
 <alrovat id = "19">
 <mezo id = "hattol">20070518</mezo>
-<mezo id = "pnev">Buzás László</mezo>
+<mezo id = "pnev">BuzÃ¡s LÃ¡szlÃ³</mezo>
 <mezo id = "panev">Balla Eszter</mezo>
 <mezo id = "pirsz">3519</mezo>
-<mezo id = "phely">Miskolc Hattyú utca 12.</mezo>
+<mezo id = "phely">Miskolc HattyÃº utca 12.</mezo>
 <mezo id = "jogvk">20070321</mezo>
 <mezo id = "jogvv">20120321</mezo>
 <mezo id = "valtk">20070321</mezo>
@@ -885,10 +885,10 @@
 </alrovat>
 <alrovat id = "20">
 <mezo id = "hattol">20070518</mezo>
-<mezo id = "pnev">Dr. Kovács Ferenc</mezo>
-<mezo id = "panev">Kántos Margit</mezo>
+<mezo id = "pnev">Dr. KovÃ¡cs Ferenc</mezo>
+<mezo id = "panev">KÃ¡ntos Margit</mezo>
 <mezo id = "pirsz">4400</mezo>
-<mezo id = "phely">Nyíregyháza Bujtos utca 40.</mezo>
+<mezo id = "phely">NyÃ­regyhÃ¡za Bujtos utca 40.</mezo>
 <mezo id = "jogvk">20070321</mezo>
 <mezo id = "jogvv">20120321</mezo>
 <mezo id = "valtk">20070321</mezo>
@@ -896,10 +896,10 @@
 </alrovat>
 <alrovat id = "21">
 <mezo id = "hattol">20070518</mezo>
-<mezo id = "pnev">Roskó Zoltán</mezo>
+<mezo id = "pnev">RoskÃ³ ZoltÃ¡n</mezo>
 <mezo id = "panev">Mozga Zsuzsanna</mezo>
 <mezo id = "pirsz">1118</mezo>
-<mezo id = "phely">Budapest, Háromszék utca 31. fszt. 1.</mezo>
+<mezo id = "phely">Budapest, HÃ¡romszÃ©k utca 31. fszt. 1.</mezo>
 <mezo id = "jogvk">20070321</mezo>
 <mezo id = "jogvv">20120321</mezo>
 <mezo id = "valtk">20070321</mezo>
@@ -908,9 +908,9 @@
 <alrovat id = "22">
 <mezo id = "hattol">20070518</mezo>
 <mezo id = "pnev">Szalay Ferenc</mezo>
-<mezo id = "panev">Tatár Mária</mezo>
+<mezo id = "panev">TatÃ¡r MÃ¡ria</mezo>
 <mezo id = "pirsz">5000</mezo>
-<mezo id = "phely">Szolnok Koszorú utca 14.</mezo>
+<mezo id = "phely">Szolnok KoszorÃº utca 14.</mezo>
 <mezo id = "jogvk">20070321</mezo>
 <mezo id = "jogvv">20120321</mezo>
 <mezo id = "valtk">20070321</mezo>
@@ -933,10 +933,10 @@
 <rovat id = "0214">
 <alrovat id = "6">
 <mezo id = "hattol">20070313</mezo>
-<mezo id = "nev">Észak-Alföldi Regionális Fejlesztési Tanács</mezo>
+<mezo id = "nev">Ã‰szak-AlfÃ¶ldi RegionÃ¡lis FejlesztÃ©si TanÃ¡cs</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">4028</mezo>
-<mezo id = "hely">Debrecen, Simonyi út 14.</mezo>
+<mezo id = "hely">Debrecen, Simonyi Ãºt 14.</mezo>
 <mezo id = "tagsk">20000106</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "sz1">X</mezo>
@@ -945,7 +945,7 @@
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">20070313</mezo>
-<mezo id = "nev">Hajdú-Bihar Megyei Területfejlesztési Tanács</mezo>
+<mezo id = "nev">HajdÃº-Bihar Megyei TerÃ¼letfejlesztÃ©si TanÃ¡cs</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">4024</mezo>
 <mezo id = "hely">Debrecen, Piac utca 54.</mezo>
@@ -956,7 +956,7 @@
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">20070313</mezo>
-<mezo id = "nev">Jász-Nagykun-Szolnok Megyei Területfejlesztési Tanács</mezo>
+<mezo id = "nev">JÃ¡sz-Nagykun-Szolnok Megyei TerÃ¼letfejlesztÃ©si TanÃ¡cs</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">5000</mezo>
 <mezo id = "hely">Szolnok, Kossuth L. utca 2.</mezo>
@@ -967,10 +967,10 @@
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">20070313</mezo>
-<mezo id = "nev">Szabolcs-Szatmár-Bereg Megyei Területfejlesztési Tanács</mezo>
+<mezo id = "nev">Szabolcs-SzatmÃ¡r-Bereg Megyei TerÃ¼letfejlesztÃ©si TanÃ¡cs</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">4400</mezo>
-<mezo id = "hely">Nyíregyháza, Benczúr tér 7.</mezo>
+<mezo id = "hely">NyÃ­regyhÃ¡za, BenczÃºr tÃ©r 7.</mezo>
 <mezo id = "tagsk">20050420</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20061229</mezo>
@@ -986,28 +986,28 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2003. 02. 26-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-A bíróság a 2003. március 27. napján közzétett Cg.09-14-000045/18.sz. végzésében kijavítani rendeli: <ujsor/>
-A 14. rovat változásának hatálya tévesen 2003. január 21., helyesen 2003. február 6.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2003. 02. 26-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+A bÃ­rÃ³sÃ¡g a 2003. mÃ¡rcius 27. napjÃ¡n kÃ¶zzÃ©tett Cg.09-14-000045/18.sz. vÃ©gzÃ©sÃ©ben kijavÃ­tani rendeli: <ujsor/>
+A 14. rovat vÃ¡ltozÃ¡sÃ¡nak hatÃ¡lya tÃ©vesen 2003. januÃ¡r 21., helyesen 2003. februÃ¡r 6.<ujsor/>
 Bejegyezve: 2003. 04. 01.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0914000045</mezo>
-<mezo id = "nev">ÉARFÜ Észak-Alföldi Regionális Fejlesztési Ügynökség Közhasznú Társaság</mezo>
-<mezo id = "cim">4025 Debrecen, Miklós utca 18.</mezo>
+<mezo id = "nev">Ã‰ARFÃœ Ã‰szak-AlfÃ¶ldi RegionÃ¡lis FejlesztÃ©si ÃœgynÃ¶ksÃ©g KÃ¶zhasznÃº TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">4025 Debrecen, MiklÃ³s utca 18.</mezo>
 <mezo id = "adosz">20640079209</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A cég átalakulás miatt a cégjegyzékbõl törölve.<ujsor/>
-A törlés kelte: 2009. 05. 13.<ujsor/>
-Jogutód(ok):<ujsor/>
- [09 09 016929] ÉARFÜ Észak-Alföldi Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Korlátolt Felelõsségû Társaság.<ujsor/>
+<mezo id = "szoveg">A cÃ©g Ã¡talakulÃ¡s miatt a cÃ©gjegyzÃ©kbÅ‘l tÃ¶rÃ¶lve.<ujsor/>
+A tÃ¶rlÃ©s kelte: 2009. 05. 13.<ujsor/>
+JogutÃ³d(ok):<ujsor/>
+ [09 09 016929] Ã‰ARFÃœ Ã‰szak-AlfÃ¶ldi RegionÃ¡lis FejlesztÃ©si ÃœgynÃ¶ksÃ©g KÃ¶zhasznÃº Nonprofit KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
 Bejegyezve: 2009. 05. 13.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0914000045</mezo>
-<mezo id = "nev">ÉARFÜ Észak-Alföldi Regionális Fejlesztési Ügynökség Közhasznú Társaság</mezo>
-<mezo id = "cim">4028 Debrecen, Simonyi út 14.</mezo>
+<mezo id = "nev">Ã‰ARFÃœ Ã‰szak-AlfÃ¶ldi RegionÃ¡lis FejlesztÃ©si ÃœgynÃ¶ksÃ©g KÃ¶zhasznÃº TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">4028 Debrecen, Simonyi Ãºt 14.</mezo>
 <mezo id = "adosz">20640079209</mezo>
 </alrovat>
 </rovat>

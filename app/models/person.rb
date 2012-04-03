@@ -24,10 +24,12 @@ class Person < ActiveRecord::Base
     complex_xml :text
     timestamps
     address :string
-    order_name :string
+    order_name :string, :index => true
   end
 
   default_scope  :order => 'order_name' 
+
+  named_scope :info, lambda { |info_ids| info_ids.present? ? { :conditions => [ "people.information_source_id in (?)", info_ids ]} : {} }
 
   before_save do |r|
     r.normalize_name
@@ -68,15 +70,15 @@ class Person < ActiveRecord::Base
   has_many :personal_relations, :conditions => [ "internal = ?", false], :class_name => "InterpersonalRelation", :accessible => true
 
   # helperek a vizualicáziós részhez
-  has_many :personal_non_litigation_relations, :conditions => [ "visual = ?", true], :class_name => "InterpersonalRelation"
-  has_many :personal_litigation_relations, :conditions => [ "visual = ?", false], :class_name => "InterpersonalRelation"
-  has_many :person_to_org_non_litigation_relations, :conditions => [ "visual = ?", true], :class_name => "PersonToOrgRelation"
-  has_many :person_to_org_litigation_relations, :conditions => [ "visual = ?", false], :class_name => "PersonToOrgRelation"
+  has_many :personal_non_litigation_relations, :conditions => [ "interpersonal_relations.visual = ?", true], :class_name => "InterpersonalRelation"
+  has_many :personal_litigation_relations, :conditions => [ "interpersonal_relations.visual = ?", false], :class_name => "InterpersonalRelation"
+  has_many :person_to_org_non_litigation_relations, :conditions => [ "person_to_org_relations.visual = ?", true], :class_name => "PersonToOrgRelation"
+  has_many :person_to_org_litigation_relations, :conditions => [ "person_to_org_relations.visual = ?", false], :class_name => "PersonToOrgRelation"
 
 
   # helperek adminhoz
-  has_many :manual_interpersonal_relations, :conditions => [ "parsed = ?", false], :class_name => "InterpersonalRelation", :accessible => true
-  has_many :manual_person_to_org_relations, :conditions => [ "parsed = ?", false], :class_name => "PersonToOrgRelation", :accessible => true
+  has_many :manual_interpersonal_relations, :conditions => [ "interpersonal_relations.parsed = ?", false], :class_name => "InterpersonalRelation", :accessible => true
+  has_many :manual_person_to_org_relations, :conditions => [ "person_to_org_relations.parsed = ?", false], :class_name => "PersonToOrgRelation", :accessible => true
 
   has_many :person_to_org_relations, :accessible => true, :order => "organization_id"
 

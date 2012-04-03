@@ -55,6 +55,13 @@ if (typeof jQuery != 'undefined') {
       });
 
       //térképszűrők
+      $("#info_source").click(function(){
+        if ($(this).is(":checked")) {
+          $(".info_source").attr("checked", "checked")
+        } else {
+          $(".info_source").attr("checked", "")
+        }
+      });
       $("#person_relation").click(function(){
         if ($(this).is(":checked")) {
           $(".person_relation").attr("checked", "checked")

@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">000953</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">8060 Mór, Wekerle u. 31/A. </mezo>
+<mezo id = "cim">8060 MÃ³r, Wekerle u. 31/A. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">10372502207</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19900627</mezo>
-<mezo id = "nev">&quot;FESS&quot; Vegyiáru Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">&quot;FESS&quot; VegyiÃ¡ru Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -26,7 +26,7 @@
 <alrovat id = "5">
 <mezo id = "hattol">19980102</mezo>
 <mezo id = "irsz">8060</mezo>
-<mezo id = "hely">Mór</mezo>
+<mezo id = "hely">MÃ³r</mezo>
 <mezo id = "teru">Wekerle u. 31/A.</mezo>
 </alrovat>
 </rovat>
@@ -34,27 +34,27 @@
 <alrovat id = "4">
 <mezo id = "hattol">19950915</mezo>
 <mezo id = "irsz">2890</mezo>
-<mezo id = "hely">Tata, Rákóczi út 5.</mezo>
+<mezo id = "hely">Tata, RÃ¡kÃ³czi Ãºt 5.</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">19950915</mezo>
 <mezo id = "irsz">2900</mezo>
-<mezo id = "hely">Komárom, Mártírok u. 15.</mezo>
+<mezo id = "hely">KomÃ¡rom, MÃ¡rtÃ­rok u. 15.</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">19950915</mezo>
 <mezo id = "irsz">2870</mezo>
-<mezo id = "hely">Kisbér, Széchenyi út 3.</mezo>
+<mezo id = "hely">KisbÃ©r, SzÃ©chenyi Ãºt 3.</mezo>
 </alrovat>
 <alrovat id = "18">
 <mezo id = "hattol">20031103</mezo>
 <mezo id = "irsz">9023</mezo>
-<mezo id = "hely">Gyõr, Mester utca 11.</mezo>
+<mezo id = "hely">GyÅ‘r, Mester utca 11.</mezo>
 </alrovat>
 <alrovat id = "20">
 <mezo id = "hattol">20070116</mezo>
 <mezo id = "irsz">2840</mezo>
-<mezo id = "hely">Oroszlány, Dózsa György út 29.</mezo>
+<mezo id = "hely">OroszlÃ¡ny, DÃ³zsa GyÃ¶rgy Ãºt 29.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
@@ -62,7 +62,7 @@
 <alrovat id = "22">
 <mezo id = "hattol">20070815</mezo>
 <mezo id = "irsz">2800</mezo>
-<mezo id = "hely">Tatabánya, Kossuth L. u. 97.</mezo>
+<mezo id = "hely">TatabÃ¡nya, Kossuth L. u. 97.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20070815</mezo>
 <mezo id = "valtv">0</mezo>
@@ -72,7 +72,7 @@
 <alrovat id = "23">
 <mezo id = "hattol">20070815</mezo>
 <mezo id = "irsz">2870</mezo>
-<mezo id = "hely">Kisbér, Batthyány tér 5.</mezo>
+<mezo id = "hely">KisbÃ©r, BatthyÃ¡ny tÃ©r 5.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20070815</mezo>
 <mezo id = "valtv">0</mezo>
@@ -82,8 +82,8 @@
 <alrovat id = "24">
 <mezo id = "hattol">20091029</mezo>
 <mezo id = "irsz">9200</mezo>
-<mezo id = "hely">Mosonmagyaróvár</mezo>
-<mezo id = "teru">Szent István Király utca 101.</mezo>
+<mezo id = "hely">MosonmagyarÃ³vÃ¡r</mezo>
+<mezo id = "teru">Szent IstvÃ¡n KirÃ¡ly utca 101.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20091029</mezo>
 <mezo id = "bkelt">20091203</mezo>
@@ -209,11 +209,11 @@
 <rovat id = "13">
 <alrovat id = "9">
 <mezo id = "hattol">20091029</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Jakab Géza Henrik</mezo>
-<mezo id = "panev">Komjáti Mária</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Jakab GÃ©za Henrik</mezo>
+<mezo id = "panev">KomjÃ¡ti MÃ¡ria</mezo>
 <mezo id = "pirsz">8060</mezo>
-<mezo id = "phely">Mór</mezo>
+<mezo id = "phely">MÃ³r</mezo>
 <mezo id = "pteru">Orgona utca 33.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20091108</mezo>
@@ -226,16 +226,16 @@
 <alrovat id = "3">
 <mezo id = "hattol">20091029</mezo>
 <mezo id = "cgjsz">0109897704</mezo>
-<mezo id = "nev">CENSOR Könyvvizsgáló és Adótanácsadó Kft.</mezo>
+<mezo id = "nev">CENSOR KÃ¶nyvvizsgÃ¡lÃ³ Ã©s AdÃ³tanÃ¡csadÃ³ Kft.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1097</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Könyves Kálmán körút 12-14.</mezo>
-<mezo id = "pnev">Pintér Károly</mezo>
-<mezo id = "panev">Homa Mária</mezo>
+<mezo id = "teru">KÃ¶nyves KÃ¡lmÃ¡n kÃ¶rÃºt 12-14.</mezo>
+<mezo id = "pnev">PintÃ©r KÃ¡roly</mezo>
+<mezo id = "panev">Homa MÃ¡ria</mezo>
 <mezo id = "pirsz">1138</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Népfürdõ utca 21. D. ép.</mezo>
+<mezo id = "pteru">NÃ©pfÃ¼rdÅ‘ utca 21. D. Ã©p.</mezo>
 <mezo id = "jogvk">20091029</mezo>
 <mezo id = "jogvv">20140429</mezo>
 <mezo id = "valtk">20091029</mezo>
@@ -259,27 +259,27 @@
 <rovat id = "0109">
 <alrovat id = "36">
 <mezo id = "hattol">19990903</mezo>
-<mezo id = "pnev">Kondorné Jakab Katalin</mezo>
-<mezo id = "panev">Komjáti Mária</mezo>
+<mezo id = "pnev">KondornÃ© Jakab Katalin</mezo>
+<mezo id = "panev">KomjÃ¡ti MÃ¡ria</mezo>
 <mezo id = "pirsz">8060</mezo>
-<mezo id = "phely">Mór, Velegi u. 12.</mezo>
+<mezo id = "phely">MÃ³r, Velegi u. 12.</mezo>
 </alrovat>
 <alrovat id = "37">
 <mezo id = "hattol">20020301</mezo>
 <mezo id = "k">x</mezo>
-<mezo id = "pnev">Jakab Géza Henrik</mezo>
-<mezo id = "panev">Komjáti Mária</mezo>
+<mezo id = "pnev">Jakab GÃ©za Henrik</mezo>
+<mezo id = "panev">KomjÃ¡ti MÃ¡ria</mezo>
 <mezo id = "pirsz">8060</mezo>
-<mezo id = "phely">Mór, Orgona u. 33.</mezo>
+<mezo id = "phely">MÃ³r, Orgona u. 33.</mezo>
 </alrovat>
 <alrovat id = "38">
 <mezo id = "hattol">20041108</mezo>
 <mezo id = "cgjsz">709000953</mezo>
-<mezo id = "nev">&quot;FESS&quot; Vegyiáru Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">&quot;FESS&quot; VegyiÃ¡ru Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">8060</mezo>
-<mezo id = "hely">Mór</mezo>
-<mezo id = "teru">Wekerle Sándor u.</mezo>
+<mezo id = "hely">MÃ³r</mezo>
+<mezo id = "teru">Wekerle SÃ¡ndor u.</mezo>
 <mezo id = "hsz">31/A.</mezo>
 </alrovat>
 </rovat>
@@ -292,31 +292,31 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A BUDAFESTÉK Kereskedelmi Korlátolt Felelõsségû Társaság (1095 Budapest, Soroksári út 117.; cégjegyzékszáma: [01 09 061699]) 1999. július 12-én üzletrész-adásvételi szerzõdéssel megszerezte a FESS Vegyiáru Kereskedelmi Korlátolt Felelõsségû Társaság (8060 Mór, Wekerle u. 31/A; cégjegyzékszáma: [07 09 000953]) 75%-os tulajdoni hányadát, ezennel többségi irányítást szerzett.<ujsor/>
+<mezo id = "szoveg">A BUDAFESTÃ‰K Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (1095 Budapest, SoroksÃ¡ri Ãºt 117.; cÃ©gjegyzÃ©kszÃ¡ma: [01 09 061699]) 1999. jÃºlius 12-Ã©n Ã¼zletrÃ©sz-adÃ¡svÃ©teli szerzÅ‘dÃ©ssel megszerezte a FESS VegyiÃ¡ru Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (8060 MÃ³r, Wekerle u. 31/A; cÃ©gjegyzÃ©kszÃ¡ma: [07 09 000953]) 75%-os tulajdoni hÃ¡nyadÃ¡t, ezennel tÃ¶bbsÃ©gi irÃ¡nyÃ­tÃ¡st szerzett.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0709000953</mezo>
-<mezo id = "nev">&quot;FESS&quot; Vegyiáru Kereskedelmi Korlátolt Felelõsségû Társaság (8060 Mór, Wekerle u. 31/A.)</mezo>
+<mezo id = "nev">&quot;FESS&quot; VegyiÃ¡ru Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (8060 MÃ³r, Wekerle u. 31/A.)</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Jakab Géza (lakóhely: 8060 Mór, Orgona u. 33.; a. n .: Komjáti Mária) a Fejér Megyei Bíróság mint Cégbíróság által [07 09 000953] cégjegyzékszám alatt nyilvántartásba vett FESS Vegyi áru Kereskedelmi Korlátolt Felelõsségû Társaságban (székhely: 8061 Mór, Wekerle u. 31/A) üzletrész-adásvétel folytán 2002. március 1-jével megszerezte a szavazatok 87,5%-át, és ezzel közvetlen irányítást biztosító befolyást szerzett.<ujsor/>
-A hitelezõk a Gt. 296. § (2) bekezdésében foglalt jogaikat gyakorolhatják.<ujsor/>
+<mezo id = "szoveg">Jakab GÃ©za (lakÃ³hely: 8060 MÃ³r, Orgona u. 33.; a. n .: KomjÃ¡ti MÃ¡ria) a FejÃ©r Megyei BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g Ã¡ltal [07 09 000953] cÃ©gjegyzÃ©kszÃ¡m alatt nyilvÃ¡ntartÃ¡sba vett FESS Vegyi Ã¡ru Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gban (szÃ©khely: 8061 MÃ³r, Wekerle u. 31/A) Ã¼zletrÃ©sz-adÃ¡svÃ©tel folytÃ¡n 2002. mÃ¡rcius 1-jÃ©vel megszerezte a szavazatok 87,5%-Ã¡t, Ã©s ezzel kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡st szerzett.<ujsor/>
+A hitelezÅ‘k a Gt. 296. Â§ (2) bekezdÃ©sÃ©ben foglalt jogaikat gyakorolhatjÃ¡k.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0709000953</mezo>
-<mezo id = "nev">&quot;FESS&quot; Vegyiáru Kereskedelmi Korlátolt Felelõsségû Társaság (8060 Mór, Wekerle u. 31/A.)</mezo>
+<mezo id = "nev">&quot;FESS&quot; VegyiÃ¡ru Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (8060 MÃ³r, Wekerle u. 31/A.)</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2007. 01. 16-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-06. 8060 Mór, Akai u. 3295 hrsz.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2007. 01. 16-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+06. 8060 MÃ³r, Akai u. 3295 hrsz.<ujsor/>
  Bejegyezve: 2007. 02. 08.<ujsor/>
 2007. 02. 08.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0709000953</mezo>
-<mezo id = "nev">&quot;FESS&quot; Vegyiáru Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">8060 Mór, Wekerle u. 31/ A .</mezo>
+<mezo id = "nev">&quot;FESS&quot; VegyiÃ¡ru Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">8060 MÃ³r, Wekerle u. 31/ A .</mezo>
 <mezo id = "adosz">10372502207</mezo>
 </alrovat>
 </rovat>

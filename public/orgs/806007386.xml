@@ -7,7 +7,7 @@
 <mezo id = "nevalrovat">2</mezo>
 <mezo id = "regi_szh">2006031491</mezo>
 <mezo id = "allapot">2</mezo>
-<mezo id = "cim">9484 Pereszteg, Fõ utca 45. </mezo>
+<mezo id = "cim">9484 Pereszteg, FÅ‘ utca 45. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">27658761220</mezo>
 </alrovat>
@@ -15,7 +15,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">19950224</mezo>
-<mezo id = "nev">&quot;PURE&quot; Kereskedelmi és Szolgáltató Betéti Társaság</mezo>
+<mezo id = "nev">&quot;PURE&quot; Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ BetÃ©ti TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -29,7 +29,7 @@
 <mezo id = "hattol">20041221</mezo>
 <mezo id = "irsz">9484</mezo>
 <mezo id = "hely">Pereszteg</mezo>
-<mezo id = "teru">Fõ utca 45.</mezo>
+<mezo id = "teru">FÅ‘ utca 45.</mezo>
 <mezo id = "kirsz">0</mezo>
 </alrovat>
 </rovat>
@@ -37,7 +37,7 @@
 <alrovat id = "2">
 <mezo id = "hattol">20070209</mezo>
 <mezo id = "irsz">9400</mezo>
-<mezo id = "hely">Sopron, Hunyadi út 2.</mezo>
+<mezo id = "hely">Sopron, Hunyadi Ãºt 2.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20061213</mezo>
 <mezo id = "valtv">0</mezo>
@@ -45,7 +45,7 @@
 <alrovat id = "3">
 <mezo id = "hattol">20070209</mezo>
 <mezo id = "irsz">9400</mezo>
-<mezo id = "hely">Sopron, Déli Pályaudvar hrsz.: 3287/9.</mezo>
+<mezo id = "hely">Sopron, DÃ©li PÃ¡lyaudvar hrsz.: 3287/9.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20061213</mezo>
 <mezo id = "valtv">0</mezo>
@@ -53,7 +53,7 @@
 <alrovat id = "4">
 <mezo id = "hattol">20070209</mezo>
 <mezo id = "irsz">9400</mezo>
-<mezo id = "hely">Sopron, Újtelek u. 6.</mezo>
+<mezo id = "hely">Sopron, Ãšjtelek u. 6.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20061213</mezo>
 <mezo id = "valtv">0</mezo>
@@ -176,10 +176,10 @@
 <rovat id = "13">
 <alrovat id = "8">
 <mezo id = "hattol">20070209</mezo>
-<mezo id = "pnev">Tarjányi Zsolt István</mezo>
-<mezo id = "panev">Kasztel Katalin Mária</mezo>
+<mezo id = "pnev">TarjÃ¡nyi Zsolt IstvÃ¡n</mezo>
+<mezo id = "panev">Kasztel Katalin MÃ¡ria</mezo>
 <mezo id = "pirsz">9484</mezo>
-<mezo id = "phely">Pereszteg, Fõ u. 45.</mezo>
+<mezo id = "phely">Pereszteg, FÅ‘ u. 45.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">b</mezo>
 <mezo id = "jogvk">20070121</mezo>
@@ -201,10 +201,10 @@
 <rovat id = "0106">
 <alrovat id = "6">
 <mezo id = "hattol">20070209</mezo>
-<mezo id = "pnev">Tarjányi Zsolt István</mezo>
-<mezo id = "panev">Kasztel Katalin Mária</mezo>
+<mezo id = "pnev">TarjÃ¡nyi Zsolt IstvÃ¡n</mezo>
+<mezo id = "panev">Kasztel Katalin MÃ¡ria</mezo>
 <mezo id = "pirsz">9484</mezo>
-<mezo id = "phely">Pereszteg, Fõ u. 45.</mezo>
+<mezo id = "phely">Pereszteg, FÅ‘ u. 45.</mezo>
 <mezo id = "tagsk">20020121</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">0</mezo>
@@ -214,10 +214,10 @@
 <rovat id = "0206">
 <alrovat id = "5">
 <mezo id = "hattol">20070209</mezo>
-<mezo id = "pnev">Özv. Tarjányi Istvánné</mezo>
-<mezo id = "panev">Kása Mária</mezo>
+<mezo id = "pnev">Ã–zv. TarjÃ¡nyi IstvÃ¡nnÃ©</mezo>
+<mezo id = "panev">KÃ¡sa MÃ¡ria</mezo>
 <mezo id = "pirsz">6640</mezo>
-<mezo id = "phely">Csongrád, Zsinór u. 53.</mezo>
+<mezo id = "phely">CsongrÃ¡d, ZsinÃ³r u. 53.</mezo>
 <mezo id = "tagsk">20020121</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">0</mezo>
@@ -233,49 +233,49 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Gyõr-Moson-Sopron Megyei Bíróság<ujsor/>
-6.Fpk.08-09-000684/5. sz. végzése<ujsor/>
-felszámolás megindításának közzétételérõl<ujsor/>
-A bíróság elrendeli annak a Cégközlönyben való közzétételét, hogy a(z)<ujsor/>
-2009. december 2. napján jogerõre emelkedett végzésével a(z) &quot;PURE&quot;<ujsor/>
-Kereskedelmi és Szolgáltató Betéti Társaság (9484 Pereszteg, Fõ utca<ujsor/>
-45.; cégjegyzékszáma: 08 06 007386; adószáma: 27658761-2-08) adós<ujsor/>
-felszámolását fõeljárásként elrendelte.<ujsor/>
-Elõzõ elnevezése(i):<ujsor/>
-&quot;PURE&quot; Tetováló Studio Betéti Társaság<ujsor/>
-Elõzõ székhelyei(i):<ujsor/>
-8999 Zalalövõ, Budafai u. 59 9400 Sopron, Épitõk u 4. 9400 Sopron,<ujsor/>
-Kõfaragó tér 2. 2. em. 3. 9400 Sopron, Erzsébet u 23. 1. em. 2.<ujsor/>
-A bíróság által kijelölt felszámoló:<ujsor/>
-AGRO-ALBA Szolgáltató Zrt., 1055 Budapest, Balassi Bálint u. 9-11. IV/2.<ujsor/>
-cégjegyzékszáma: 01 10 043170.<ujsor/>
-A felszámolóbiztos(ok):<ujsor/>
-Horváth Tibor 1055 Budapest, Balassi Bálint u. 9-11. IV/2.<ujsor/>
-A felszámolási eljárás megindítására irányuló kérelem benyújtásának<ujsor/>
-idõpontja: 2009. október 9.<ujsor/>
-A felszámolás kezdõ idõpontja e végzés Cégközlönyben való közzétételének<ujsor/>
+<mezo id = "szoveg">A GyÅ‘r-Moson-Sopron Megyei BÃ­rÃ³sÃ¡g<ujsor/>
+6.Fpk.08-09-000684/5. sz. vÃ©gzÃ©se<ujsor/>
+felszÃ¡molÃ¡s megindÃ­tÃ¡sÃ¡nak kÃ¶zzÃ©tÃ©telÃ©rÅ‘l<ujsor/>
+A bÃ­rÃ³sÃ¡g elrendeli annak a CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©t, hogy a(z)<ujsor/>
+2009. december 2. napjÃ¡n jogerÅ‘re emelkedett vÃ©gzÃ©sÃ©vel a(z) &quot;PURE&quot;<ujsor/>
+Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ BetÃ©ti TÃ¡rsasÃ¡g (9484 Pereszteg, FÅ‘ utca<ujsor/>
+45.; cÃ©gjegyzÃ©kszÃ¡ma: 08 06 007386; adÃ³szÃ¡ma: 27658761-2-08) adÃ³s<ujsor/>
+felszÃ¡molÃ¡sÃ¡t fÅ‘eljÃ¡rÃ¡skÃ©nt elrendelte.<ujsor/>
+ElÅ‘zÅ‘ elnevezÃ©se(i):<ujsor/>
+&quot;PURE&quot; TetovÃ¡lÃ³ Studio BetÃ©ti TÃ¡rsasÃ¡g<ujsor/>
+ElÅ‘zÅ‘ szÃ©khelyei(i):<ujsor/>
+8999 ZalalÃ¶vÅ‘, Budafai u. 59 9400 Sopron, Ã‰pitÅ‘k u 4. 9400 Sopron,<ujsor/>
+KÅ‘faragÃ³ tÃ©r 2. 2. em. 3. 9400 Sopron, ErzsÃ©bet u 23. 1. em. 2.<ujsor/>
+A bÃ­rÃ³sÃ¡g Ã¡ltal kijelÃ¶lt felszÃ¡molÃ³:<ujsor/>
+AGRO-ALBA SzolgÃ¡ltatÃ³ Zrt., 1055 Budapest, Balassi BÃ¡lint u. 9-11. IV/2.<ujsor/>
+cÃ©gjegyzÃ©kszÃ¡ma: 01 10 043170.<ujsor/>
+A felszÃ¡molÃ³biztos(ok):<ujsor/>
+HorvÃ¡th Tibor 1055 Budapest, Balassi BÃ¡lint u. 9-11. IV/2.<ujsor/>
+A felszÃ¡molÃ¡si eljÃ¡rÃ¡s megindÃ­tÃ¡sÃ¡ra irÃ¡nyulÃ³ kÃ©relem benyÃºjtÃ¡sÃ¡nak<ujsor/>
+idÅ‘pontja: 2009. oktÃ³ber 9.<ujsor/>
+A felszÃ¡molÃ¡s kezdÅ‘ idÅ‘pontja e vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©nek<ujsor/>
 napja.<ujsor/>
-A Gyõr-Moson-Sopron Megyei Bíróság Gazdasági Hivatalánál kezelt<ujsor/>
-elkülönített számla száma: 10033001-01483075-24000004.<ujsor/>
-Mindazok [ideértve a zálogjogosultakat, és a 3. § (1) bekezdés c) pontja<ujsor/>
-szerinti függõ követelések jogosultjait is], akik az adóssal szemben<ujsor/>
-fennálló ismert követeléseiket - kivéve a felszámolási eljárást<ujsor/>
-közvetlenül megelõzõ csõdeljárásban [27. § (2) bekezdés e) pont] már<ujsor/>
-bejelentett és nyilvántartásba vett követeléseket - a felszámolás során<ujsor/>
-hitelezõként érvényesíteni kívánják, ismert követeléseiket e végzés<ujsor/>
-közzétételétõl számított 40 napon belül jelentsék be a felszámolónak.<ujsor/>
-A felszámoló - a módosított 1991. évi XLIX. tv. 57. § (1) bekezdés a) és<ujsor/>
-c) pontjában meghatározott követelések kivételével - csak azt a<ujsor/>
-bejelentést veszi nyilvántartásba, amely után az igénybejelentõ a<ujsor/>
-követelés 1 %-át, de legalább 5.000 Ft-ot, legfeljebb 200.000 Ft-ot az e<ujsor/>
-végzésben megjelölt számlára - a bírósági ügyszámra (végzés számra)<ujsor/>
-hivatkozással -  40 napon belül befizetett és ezt a felszámoló<ujsor/>
-részére igazolta.<ujsor/>
-Gyõr, 2009. december 8.<ujsor/>
-A közzététel idõpontja: 2009. december 8.<ujsor/>
+A GyÅ‘r-Moson-Sopron Megyei BÃ­rÃ³sÃ¡g GazdasÃ¡gi HivatalÃ¡nÃ¡l kezelt<ujsor/>
+elkÃ¼lÃ¶nÃ­tett szÃ¡mla szÃ¡ma: 10033001-01483075-24000004.<ujsor/>
+Mindazok [ideÃ©rtve a zÃ¡logjogosultakat, Ã©s a 3. Â§ (1) bekezdÃ©s c) pontja<ujsor/>
+szerinti fÃ¼ggÅ‘ kÃ¶vetelÃ©sek jogosultjait is], akik az adÃ³ssal szemben<ujsor/>
+fennÃ¡llÃ³ ismert kÃ¶vetelÃ©seiket - kivÃ©ve a felszÃ¡molÃ¡si eljÃ¡rÃ¡st<ujsor/>
+kÃ¶zvetlenÃ¼l megelÅ‘zÅ‘ csÅ‘deljÃ¡rÃ¡sban [27. Â§ (2) bekezdÃ©s e) pont] mÃ¡r<ujsor/>
+bejelentett Ã©s nyilvÃ¡ntartÃ¡sba vett kÃ¶vetelÃ©seket - a felszÃ¡molÃ¡s sorÃ¡n<ujsor/>
+hitelezÅ‘kÃ©nt Ã©rvÃ©nyesÃ­teni kÃ­vÃ¡njÃ¡k, ismert kÃ¶vetelÃ©seiket e vÃ©gzÃ©s<ujsor/>
+kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott 40 napon belÃ¼l jelentsÃ©k be a felszÃ¡molÃ³nak.<ujsor/>
+A felszÃ¡molÃ³ - a mÃ³dosÃ­tott 1991. Ã©vi XLIX. tv. 57. Â§ (1) bekezdÃ©s a) Ã©s<ujsor/>
+c) pontjÃ¡ban meghatÃ¡rozott kÃ¶vetelÃ©sek kivÃ©telÃ©vel - csak azt a<ujsor/>
+bejelentÃ©st veszi nyilvÃ¡ntartÃ¡sba, amely utÃ¡n az igÃ©nybejelentÅ‘ a<ujsor/>
+kÃ¶vetelÃ©s 1 %-Ã¡t, de legalÃ¡bb 5.000 Ft-ot, legfeljebb 200.000 Ft-ot az e<ujsor/>
+vÃ©gzÃ©sben megjelÃ¶lt szÃ¡mlÃ¡ra - a bÃ­rÃ³sÃ¡gi Ã¼gyszÃ¡mra (vÃ©gzÃ©s szÃ¡mra)<ujsor/>
+hivatkozÃ¡ssal -  40 napon belÃ¼l befizetett Ã©s ezt a felszÃ¡molÃ³<ujsor/>
+rÃ©szÃ©re igazolta.<ujsor/>
+GyÅ‘r, 2009. december 8.<ujsor/>
+A kÃ¶zzÃ©tÃ©tel idÅ‘pontja: 2009. december 8.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0806007386</mezo>
-<mezo id = "nev">&quot;PURE&quot; Kereskedelmi és Szolgáltató Betéti Társaság</mezo>
+<mezo id = "nev">&quot;PURE&quot; Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ BetÃ©ti TÃ¡rsasÃ¡g</mezo>
 <mezo id = "adosz">27658761208</mezo>
 </alrovat>
 </rovat>

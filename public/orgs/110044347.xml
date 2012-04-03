@@ -5,7 +5,7 @@
 <mezo id = "cf">10</mezo>
 <mezo id = "szam">044347</mezo>
 <mezo id = "nevalrovat">4</mezo>
-<mezo id = "cim">1106 Budapest, Jászberényi út 24-36. </mezo>
+<mezo id = "cim">1106 Budapest, JÃ¡szberÃ©nyi Ãºt 24-36. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">12475182442</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "4">
 <mezo id = "hattol">20080318</mezo>
-<mezo id = "nev">ENER-G Energia Technológia Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">ENER-G Energia TechnolÃ³gia ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">20080318</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20080425</mezo>
@@ -23,7 +23,7 @@
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">20060703</mezo>
-<mezo id = "nev">KIPSZER Kazántechnológiai Zrt.</mezo>
+<mezo id = "nev">KIPSZER KazÃ¡ntechnolÃ³giai Zrt.</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -51,15 +51,15 @@
 <mezo id = "hattol">20000606</mezo>
 <mezo id = "irsz">1106</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Jászberényi út 24-36.</mezo>
+<mezo id = "teru">JÃ¡szberÃ©nyi Ãºt 24-36.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "6">
 <alrovat id = "1">
 <mezo id = "hattol">20091124</mezo>
 <mezo id = "irsz">6000</mezo>
-<mezo id = "hely">Kecskemét</mezo>
-<mezo id = "teru">Nyíri utca 38.</mezo>
+<mezo id = "hely">KecskemÃ©t</mezo>
+<mezo id = "teru">NyÃ­ri utca 38.</mezo>
 <mezo id = "valtk">20091124</mezo>
 <mezo id = "bkelt">20100104</mezo>
 </alrovat>
@@ -591,7 +591,7 @@
 <rovat id = "13">
 <alrovat id = "23">
 <mezo id = "hattol">20091124</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
 <mezo id = "pnev">Derek Duffil</mezo>
 <mezo id = "panev">Eileen Parry</mezo>
 <mezo id = "kepve">x</mezo>
@@ -601,9 +601,9 @@
 </alrovat>
 <alrovat id = "24">
 <mezo id = "hattol">20091124</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Márialigeti Balázs</mezo>
-<mezo id = "panev">Gothár Gertrúd Mária</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">MÃ¡rialigeti BalÃ¡zs</mezo>
+<mezo id = "panev">GothÃ¡r GertrÃºd MÃ¡ria</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20080701</mezo>
 <mezo id = "valtk">20091124</mezo>
@@ -611,7 +611,7 @@
 </alrovat>
 <alrovat id = "27">
 <mezo id = "hattol">20091124</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
 <mezo id = "pnev">Alan Kenneth Barlow</mezo>
 <mezo id = "panev">Iris Parke</mezo>
 <mezo id = "kepve">x</mezo>
@@ -621,9 +621,9 @@
 </alrovat>
 <alrovat id = "28">
 <mezo id = "hattol">20091124</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Szabó Péter</mezo>
-<mezo id = "panev">Papp Erzsébet</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">SzabÃ³ PÃ©ter</mezo>
+<mezo id = "panev">Papp ErzsÃ©bet</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20080701</mezo>
 <mezo id = "valtk">20091124</mezo>
@@ -631,12 +631,12 @@
 </alrovat>
 <alrovat id = "29">
 <mezo id = "hattol">20091124</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
 <mezo id = "pnev">Hugh Kerr Richmond</mezo>
 <mezo id = "panev">Ann McCrorie</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20090529</mezo>
-<mezo id = "pcnev">Györfi-Tóth Ügyvédi Iroda</mezo>
+<mezo id = "pcnev">GyÃ¶rfi-TÃ³th ÃœgyvÃ©di Iroda</mezo>
 <mezo id = "pcirsz">1245</mezo>
 <mezo id = "pchely">Budapest</mezo>
 <mezo id = "pcteru">Pf.:1043</mezo>
@@ -648,16 +648,16 @@
 <alrovat id = "8">
 <mezo id = "hattol">20110401</mezo>
 <mezo id = "cgjsz">0109071057</mezo>
-<mezo id = "nev">Deloitte Könyvvizsgáló és Tanácsadó Kft.</mezo>
+<mezo id = "nev">Deloitte KÃ¶nyvvizsgÃ¡lÃ³ Ã©s TanÃ¡csadÃ³ Kft.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1068</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Dózsa György út 84/C.</mezo>
+<mezo id = "teru">DÃ³zsa GyÃ¶rgy Ãºt 84/C.</mezo>
 <mezo id = "pnev">Forgon Csaba</mezo>
-<mezo id = "panev">Szilágyi Irén</mezo>
+<mezo id = "panev">SzilÃ¡gyi IrÃ©n</mezo>
 <mezo id = "pirsz">1174</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Horváth Ernõ utca 12. 2. ép.</mezo>
+<mezo id = "pteru">HorvÃ¡th ErnÅ‘ utca 12. 2. Ã©p.</mezo>
 <mezo id = "jogvk">20110401</mezo>
 <mezo id = "jogvv">20110831</mezo>
 <mezo id = "valtk">20110401</mezo>
@@ -667,10 +667,10 @@
 <rovat id = "15">
 <alrovat id = "6">
 <mezo id = "hattol">20040331</mezo>
-<mezo id = "pnev">Nagy Kálmán</mezo>
-<mezo id = "panev">Gódány Erzsébet</mezo>
+<mezo id = "pnev">Nagy KÃ¡lmÃ¡n</mezo>
+<mezo id = "panev">GÃ³dÃ¡ny ErzsÃ©bet</mezo>
 <mezo id = "pirsz">1163</mezo>
-<mezo id = "phely">Budapest, Pósa L. u. 56.</mezo>
+<mezo id = "phely">Budapest, PÃ³sa L. u. 56.</mezo>
 <mezo id = "jogvk">20040331</mezo>
 <mezo id = "jogvv">20090331</mezo>
 </alrovat>
@@ -679,7 +679,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20000606</mezo>
 <mezo id = "cgjsz">109261245</mezo>
-<mezo id = "nev">KIPSZER Kazántechnológiai Kft.</mezo>
+<mezo id = "nev">KIPSZER KazÃ¡ntechnolÃ³giai Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "20">
@@ -712,14 +712,14 @@
 <mezo id = "irsz">501</mezo>
 <mezo id = "hely">Salford</mezo>
 <mezo id = "teru">Manchester, Daniel Adamson Road, Ener-G House</mezo>
-<mezo id = "pcnev">Györfi-Tóth Ügyvédi Iroda</mezo>
+<mezo id = "pcnev">GyÃ¶rfi-TÃ³th ÃœgyvÃ©di Iroda</mezo>
 <mezo id = "pcirsz">1277</mezo>
 <mezo id = "pchely">Budapest</mezo>
 <mezo id = "pcteru">Pf.: 3</mezo>
 <mezo id = "tagsk">20100205</mezo>
 <mezo id = "sz3">x</mezo>
 <mezo id = "valtk">20100205</mezo>
-<mezo id = "knyh">The Registrar of Companies for England and Wales (Anglia és Wales Cégbírósága)</mezo>
+<mezo id = "knyh">The Registrar of Companies for England and Wales (Anglia Ã©s Wales CÃ©gbÃ­rÃ³sÃ¡ga)</mezo>
 <mezo id = "bkelt">20100301</mezo>
 </alrovat>
 </rovat>
@@ -732,36 +732,36 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2004. 08. 13-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-15. Nagy Kálmán (an: Gódány Erzsébet)<ujsor/>
-1163 Budapest, Pósa L. u. 56.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2004. 08. 13-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+15. Nagy KÃ¡lmÃ¡n (an: GÃ³dÃ¡ny ErzsÃ©bet)<ujsor/>
+1163 Budapest, PÃ³sa L. u. 56.<ujsor/>
  A jogviszony kezdete: 2004. 03. 31.<ujsor/>
- A jogviszony vége: 2009. 03. 31.<ujsor/>
- Törölve: 2004. 03. 31-i hatállyal.<ujsor/>
- Nagy Kálmán (an: Molnár Emma)<ujsor/>
-1163 Budapest, Pósa L. u. 56.<ujsor/>
+ A jogviszony vÃ©ge: 2009. 03. 31.<ujsor/>
+ TÃ¶rÃ¶lve: 2004. 03. 31-i hatÃ¡llyal.<ujsor/>
+ Nagy KÃ¡lmÃ¡n (an: MolnÃ¡r Emma)<ujsor/>
+1163 Budapest, PÃ³sa L. u. 56.<ujsor/>
  A jogviszony kezdete: 2004. 03. 31.<ujsor/>
- A jogviszony vége: 2009. 03. 31.<ujsor/>
- Hatályos: 2004. 03. 31-tõl.<ujsor/>
+ A jogviszony vÃ©ge: 2009. 03. 31.<ujsor/>
+ HatÃ¡lyos: 2004. 03. 31-tÅ‘l.<ujsor/>
 Bejegyezve: 2004. 09. 16.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044347</mezo>
-<mezo id = "nev">KIPSZER Kazántechnológiai Részvénytársaság</mezo>
-<mezo id = "cim">1106 Budapest, Jászberényi út 24-36.</mezo>
+<mezo id = "nev">KIPSZER KazÃ¡ntechnolÃ³giai RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1106 Budapest, JÃ¡szberÃ©nyi Ãºt 24-36.</mezo>
 <mezo id = "adosz">12475182242</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2006. 10. 26-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-03. KIPSZER Kazántechnológiai Zrt.<ujsor/>
- A változás idõpontja (törlés): 2006. 08. 09.<ujsor/>
- Törölve: 2006. 10. 26.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2006. 10. 26-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+03. KIPSZER KazÃ¡ntechnolÃ³giai Zrt.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2006. 08. 09.<ujsor/>
+ TÃ¶rÃ¶lve: 2006. 10. 26.<ujsor/>
 2006. 11. 20.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044347</mezo>
-<mezo id = "nev">KIPSZER Energia Technológiai Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">1106 Budapest, Jászberényi út 24-36.</mezo>
+<mezo id = "nev">KIPSZER Energia TechnolÃ³giai ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1106 Budapest, JÃ¡szberÃ©nyi Ãºt 24-36.</mezo>
 <mezo id = "adosz">12475182242</mezo>
 </alrovat>
 </rovat>

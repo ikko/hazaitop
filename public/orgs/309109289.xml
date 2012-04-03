@@ -7,14 +7,14 @@
 <mezo id = "nevalrovat">4</mezo>
 <mezo id = "regi_szh">0109692255</mezo>
 <mezo id = "allapot">6</mezo>
-<mezo id = "cim">6000 Kecskemét, Csányi János krt. 12. 3/. em. 204. </mezo>
+<mezo id = "cim">6000 KecskemÃ©t, CsÃ¡nyi JÃ¡nos krt. 12. 3/. em. 204. </mezo>
 <mezo id = "adosz">10968893203</mezo>
 </alrovat>
 </rovat>
 <rovat id = "2">
 <alrovat id = "4">
 <mezo id = "hattol">20001204</mezo>
-<mezo id = "nev">&quot;BLUE TEAM&quot; Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">&quot;BLUE TEAM&quot; SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -31,8 +31,8 @@
 <alrovat id = "5">
 <mezo id = "hattol">20020415</mezo>
 <mezo id = "irsz">6000</mezo>
-<mezo id = "hely">Kecskemét</mezo>
-<mezo id = "teru">Csányi János krt. 12. 3/. em. 204.</mezo>
+<mezo id = "hely">KecskemÃ©t</mezo>
+<mezo id = "teru">CsÃ¡nyi JÃ¡nos krt. 12. 3/. em. 204.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "8">
@@ -399,21 +399,21 @@
 <rovat id = "13">
 <alrovat id = "8">
 <mezo id = "hattol">20020415</mezo>
-<mezo id = "tiszt">ügyvezetõ</mezo>
+<mezo id = "tiszt">Ã¼gyvezetÅ‘</mezo>
 <mezo id = "pnev">Mucha Piroska</mezo>
 <mezo id = "panev">Dr. Lengyel Piroska</mezo>
 <mezo id = "pirsz">6000</mezo>
-<mezo id = "phely">Kecskemét</mezo>
+<mezo id = "phely">KecskemÃ©t</mezo>
 <mezo id = "pteru">Irinyi u. 33.</mezo>
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">20020612</mezo>
-<mezo id = "tiszt">ügyvezetõ</mezo>
-<mezo id = "pnev">Perl György</mezo>
-<mezo id = "panev">Perl Józsa</mezo>
+<mezo id = "tiszt">Ã¼gyvezetÅ‘</mezo>
+<mezo id = "pnev">Perl GyÃ¶rgy</mezo>
+<mezo id = "panev">Perl JÃ³zsa</mezo>
 <mezo id = "pirsz">1224</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Deák F. u. 32/A.</mezo>
+<mezo id = "pteru">DeÃ¡k F. u. 32/A.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "20">
@@ -432,26 +432,26 @@
 <alrovat id = "16">
 <mezo id = "hattol">20020415</mezo>
 <mezo id = "j">x</mezo>
-<mezo id = "pnev">Hajdú Katalin</mezo>
+<mezo id = "pnev">HajdÃº Katalin</mezo>
 <mezo id = "panev">Miczki Jusztina</mezo>
 <mezo id = "pirsz">6000</mezo>
-<mezo id = "phely">Kecskemét, Kullai köz 65.</mezo>
+<mezo id = "phely">KecskemÃ©t, Kullai kÃ¶z 65.</mezo>
 </alrovat>
 <alrovat id = "17">
 <mezo id = "hattol">20020415</mezo>
 <mezo id = "j">x</mezo>
-<mezo id = "pnev">Angler Zoltán</mezo>
-<mezo id = "panev">Linczmár Ilona</mezo>
+<mezo id = "pnev">Angler ZoltÃ¡n</mezo>
+<mezo id = "panev">LinczmÃ¡r Ilona</mezo>
 <mezo id = "pirsz">1119</mezo>
-<mezo id = "phely">Budapest, Bártfai u. 24.</mezo>
+<mezo id = "phely">Budapest, BÃ¡rtfai u. 24.</mezo>
 </alrovat>
 <alrovat id = "18">
 <mezo id = "hattol">20020612</mezo>
 <mezo id = "j">x</mezo>
-<mezo id = "pnev">Perl György</mezo>
-<mezo id = "panev">Perl Józsa</mezo>
+<mezo id = "pnev">Perl GyÃ¶rgy</mezo>
+<mezo id = "panev">Perl JÃ³zsa</mezo>
 <mezo id = "pirsz">1224</mezo>
-<mezo id = "phely">Budapest, Deák F. u. 32/A.</mezo>
+<mezo id = "phely">Budapest, DeÃ¡k F. u. 32/A.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "93">
@@ -463,70 +463,70 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a cég hivatalbóli törlésére<ujsor/>
-irányuló eljárást megindítja.<ujsor/>
-Felhívja a bíróság azokat,<ujsor/>
-akiknek a cég székhelyére,<ujsor/>
-mûködésére - ideértve azt az esetet is,<ujsor/>
-ha a cég ellen per van folyamatban - illetve<ujsor/>
-a képviselõ lakóhelyére vonatkozó adatról<ujsor/>
-tudomásuk van, azt<ujsor/>
-a Cégközlönyben<ujsor/>
-való közzétételtõl<ujsor/>
-számított 30 napon<ujsor/>
-belül jelentsék be a Cégbíróságnak.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a cÃ©g hivatalbÃ³li tÃ¶rlÃ©sÃ©re<ujsor/>
+irÃ¡nyulÃ³ eljÃ¡rÃ¡st megindÃ­tja.<ujsor/>
+FelhÃ­vja a bÃ­rÃ³sÃ¡g azokat,<ujsor/>
+akiknek a cÃ©g szÃ©khelyÃ©re,<ujsor/>
+mÅ±kÃ¶dÃ©sÃ©re - ideÃ©rtve azt az esetet is,<ujsor/>
+ha a cÃ©g ellen per van folyamatban - illetve<ujsor/>
+a kÃ©pviselÅ‘ lakÃ³helyÃ©re vonatkozÃ³ adatrÃ³l<ujsor/>
+tudomÃ¡suk van, azt<ujsor/>
+a CÃ©gkÃ¶zlÃ¶nyben<ujsor/>
+valÃ³ kÃ¶zzÃ©tÃ©teltÅ‘l<ujsor/>
+szÃ¡mÃ­tott 30 napon<ujsor/>
+belÃ¼l jelentsÃ©k be a CÃ©gbÃ­rÃ³sÃ¡gnak.<ujsor/>
 2006. 01. 31.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0309109289</mezo>
-<mezo id = "nev">&quot;BLUE TEAM&quot; Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">6000 Kecskemét, Csányi János krt. 12. 3. em. 204.</mezo>
+<mezo id = "nev">&quot;BLUE TEAM&quot; SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">6000 KecskemÃ©t, CsÃ¡nyi JÃ¡nos krt. 12. 3. em. 204.</mezo>
 <mezo id = "adosz">10968893203</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a cég hivatalbóli törlésére<ujsor/>
-irányuló eljárást folytatja.<ujsor/>
-Felhívja a bíróság a cég hitelezõit és<ujsor/>
-az egyéb érdekelteket, hogy a cég<ujsor/>
-általuk ismert ingó vagy ingatlan vagyonára<ujsor/>
-vonatkozó adatokat - hitelezõk esetében<ujsor/>
-hitelezõi igényüket is megjelölve - 30<ujsor/>
-napon belül jelentsék be.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a cÃ©g hivatalbÃ³li tÃ¶rlÃ©sÃ©re<ujsor/>
+irÃ¡nyulÃ³ eljÃ¡rÃ¡st folytatja.<ujsor/>
+FelhÃ­vja a bÃ­rÃ³sÃ¡g a cÃ©g hitelezÅ‘it Ã©s<ujsor/>
+az egyÃ©b Ã©rdekelteket, hogy a cÃ©g<ujsor/>
+Ã¡ltaluk ismert ingÃ³ vagy ingatlan vagyonÃ¡ra<ujsor/>
+vonatkozÃ³ adatokat - hitelezÅ‘k esetÃ©ben<ujsor/>
+hitelezÅ‘i igÃ©nyÃ¼ket is megjelÃ¶lve - 30<ujsor/>
+napon belÃ¼l jelentsÃ©k be.<ujsor/>
 2006. 03. 31.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0309109289</mezo>
-<mezo id = "nev">&quot;BLUE TEAM&quot; Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">6000 Kecskemét, Csányi János krt. 12. 3/. em. 204.</mezo>
+<mezo id = "nev">&quot;BLUE TEAM&quot; SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">6000 KecskemÃ©t, CsÃ¡nyi JÃ¡nos krt. 12. 3/. em. 204.</mezo>
 <mezo id = "adosz">10968893203</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a cég törlését elrendeli.<ujsor/>
-A bejelentésekbõl, közhiteles és közérdekvédelem<ujsor/>
-céljából vezetett nyilvántartások adataiból<ujsor/>
-megállapítható,<ujsor/>
-hogy a cég vagyonnal nem rendelkezik.<ujsor/>
-A végzés ellen a Cégközlönyben való közzétételtõl<ujsor/>
-számított 15 napon belül fellebbezésnek van helye.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a cÃ©g tÃ¶rlÃ©sÃ©t elrendeli.<ujsor/>
+A bejelentÃ©sekbÅ‘l, kÃ¶zhiteles Ã©s kÃ¶zÃ©rdekvÃ©delem<ujsor/>
+cÃ©ljÃ¡bÃ³l vezetett nyilvÃ¡ntartÃ¡sok adataibÃ³l<ujsor/>
+megÃ¡llapÃ­thatÃ³,<ujsor/>
+hogy a cÃ©g vagyonnal nem rendelkezik.<ujsor/>
+A vÃ©gzÃ©s ellen a CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©teltÅ‘l<ujsor/>
+szÃ¡mÃ­tott 15 napon belÃ¼l fellebbezÃ©snek van helye.<ujsor/>
 Bejegyezve: 2006. 05. 30.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0309109289</mezo>
-<mezo id = "nev">&quot;BLUE TEAM&quot; Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">6000 Kecskemét, Csányi János krt. 12. 3. em. 204.</mezo>
+<mezo id = "nev">&quot;BLUE TEAM&quot; SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">6000 KecskemÃ©t, CsÃ¡nyi JÃ¡nos krt. 12. 3. em. 204.</mezo>
 <mezo id = "adosz">10968893203</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság közzéteszi, hogy a Cégközlöny 2006.06.29-i<ujsor/>
-számában megjelent hivatalbóli törlést elrendelõ végzés 2006.07.17.<ujsor/>
-napján jogerõre emelkedett.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g kÃ¶zzÃ©teszi, hogy a CÃ©gkÃ¶zlÃ¶ny 2006.06.29-i<ujsor/>
+szÃ¡mÃ¡ban megjelent hivatalbÃ³li tÃ¶rlÃ©st elrendelÅ‘ vÃ©gzÃ©s 2006.07.17.<ujsor/>
+napjÃ¡n jogerÅ‘re emelkedett.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0309109289</mezo>
-<mezo id = "nev">&quot;BLUE TEAM&quot; Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">6000 Kecskemét, Csányi János krt. 12. 3/. em. 204.</mezo>
+<mezo id = "nev">&quot;BLUE TEAM&quot; SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">6000 KecskemÃ©t, CsÃ¡nyi JÃ¡nos krt. 12. 3/. em. 204.</mezo>
 <mezo id = "adosz">10968893203</mezo>
 </alrovat>
 </rovat>

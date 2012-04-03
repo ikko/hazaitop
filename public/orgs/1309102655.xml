@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">102655</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">2760 Nagykáta, Hosszú út 30/ A . </mezo>
+<mezo id = "cim">2760 NagykÃ¡ta, HosszÃº Ãºt 30/ A . </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">13460033213</mezo>
 </alrovat>
@@ -13,21 +13,21 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20050422</mezo>
-<mezo id = "nev">GENÉPSZER Generál Építõ és Szerelõipari Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">GENÃ‰PSZER GenerÃ¡l Ã‰pÃ­tÅ‘ Ã©s SzerelÅ‘ipari KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">20050422</mezo>
-<mezo id = "nev">GENÉPSZER Kft.</mezo>
+<mezo id = "nev">GENÃ‰PSZER Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
 <alrovat id = "1">
 <mezo id = "hattol">20050422</mezo>
 <mezo id = "irsz">2760</mezo>
-<mezo id = "hely">Nagykáta</mezo>
-<mezo id = "teru">Hosszú út 30/ A .</mezo>
+<mezo id = "hely">NagykÃ¡ta</mezo>
+<mezo id = "teru">HosszÃº Ãºt 30/ A .</mezo>
 <mezo id = "kirsz">0</mezo>
 </alrovat>
 </rovat>
@@ -35,7 +35,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20081202</mezo>
 <mezo id = "irsz">1191</mezo>
-<mezo id = "hely">Budapest, Üllõi út 200.</mezo>
+<mezo id = "hely">Budapest, ÃœllÅ‘i Ãºt 200.</mezo>
 <mezo id = "valtk">20081202</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20081212</mezo>
@@ -516,9 +516,9 @@
 <rovat id = "13">
 <alrovat id = "3">
 <mezo id = "hattol">20091211</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Tóth Zoltán</mezo>
-<mezo id = "panev">Szántó Margit</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">TÃ³th ZoltÃ¡n</mezo>
+<mezo id = "panev">SzÃ¡ntÃ³ Margit</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20081202</mezo>
 <mezo id = "valtk">20091211</mezo>
@@ -529,13 +529,13 @@
 <alrovat id = "2">
 <mezo id = "hattol">20101130</mezo>
 <mezo id = "cgjsz">1009020588</mezo>
-<mezo id = "nev">LTD Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">LTD KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">3200</mezo>
-<mezo id = "hely">Gyöngyös</mezo>
-<mezo id = "teru">Rákóczi út 4. II. em. 15/2.</mezo>
-<mezo id = "pnev">László Ferenc</mezo>
-<mezo id = "panev">Szabó Terézia</mezo>
+<mezo id = "hely">GyÃ¶ngyÃ¶s</mezo>
+<mezo id = "teru">RÃ¡kÃ³czi Ãºt 4. II. em. 15/2.</mezo>
+<mezo id = "pnev">LÃ¡szlÃ³ Ferenc</mezo>
+<mezo id = "panev">SzabÃ³ TerÃ©zia</mezo>
 <mezo id = "jogvk">20101130</mezo>
 <mezo id = "jogvv">20151130</mezo>
 <mezo id = "valtk">20101130</mezo>
@@ -560,17 +560,17 @@
 <alrovat id = "1">
 <mezo id = "hattol">20050422</mezo>
 <mezo id = "k">x</mezo>
-<mezo id = "pnev">Tóth Zoltán</mezo>
-<mezo id = "panev">Szántó Margit</mezo>
+<mezo id = "pnev">TÃ³th ZoltÃ¡n</mezo>
+<mezo id = "panev">SzÃ¡ntÃ³ Margit</mezo>
 <mezo id = "pirsz">2760</mezo>
-<mezo id = "phely">Nagykáta, Hosszú u. 30/ A .</mezo>
+<mezo id = "phely">NagykÃ¡ta, HosszÃº u. 30/ A .</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20050422</mezo>
-<mezo id = "pnev">Tóth András Lászlóné</mezo>
-<mezo id = "panev">Varga Mária</mezo>
+<mezo id = "pnev">TÃ³th AndrÃ¡s LÃ¡szlÃ³nÃ©</mezo>
+<mezo id = "panev">Varga MÃ¡ria</mezo>
 <mezo id = "pirsz">2760</mezo>
-<mezo id = "phely">Nagykáta, Hosszú u. 30/ A .</mezo>
+<mezo id = "phely">NagykÃ¡ta, HosszÃº u. 30/ A .</mezo>
 </alrovat>
 </rovat>
 <rovat id = "99017">

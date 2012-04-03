@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">103483</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">6000 Kecskemét, Belsõnyír 150. </mezo>
+<mezo id = "cim">6000 KecskemÃ©t, BelsÅ‘nyÃ­r 150. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">11370675203</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19950120</mezo>
-<mezo id = "nev">AUDITKER Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">AUDITKER Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -26,8 +26,8 @@
 <alrovat id = "2">
 <mezo id = "hattol">20080630</mezo>
 <mezo id = "irsz">6000</mezo>
-<mezo id = "hely">Kecskemét</mezo>
-<mezo id = "teru">Belsõnyír 150.</mezo>
+<mezo id = "hely">KecskemÃ©t</mezo>
+<mezo id = "teru">BelsÅ‘nyÃ­r 150.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">20080630</mezo>
 <mezo id = "valtv">0</mezo>
@@ -746,13 +746,13 @@
 <mezo id = "hattol">20101220</mezo>
 <mezo id = "valtk">20101220</mezo>
 <mezo id = "bkelt">20110105</mezo>
-<mezo id = "teaszov">Mezõgazdasági gép, berendezés nagykereskedelme FÕTEVÉKENYSÉG</mezo>
+<mezo id = "teaszov">MezÅ‘gazdasÃ¡gi gÃ©p, berendezÃ©s nagykereskedelme FÅTEVÃ‰KENYSÃ‰G</mezo>
 </alrovat>
 <alrovat id = "171">
 <mezo id = "hattol">20101220</mezo>
 <mezo id = "valtk">20101220</mezo>
 <mezo id = "bkelt">20110105</mezo>
-<mezo id = "teaszov">Egyéb m.n.s. új áru kiskereskedelme</mezo>
+<mezo id = "teaszov">EgyÃ©b m.n.s. Ãºj Ã¡ru kiskereskedelme</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -767,8 +767,8 @@
 <rovat id = "13">
 <alrovat id = "4">
 <mezo id = "hattol">20100831</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Kis Pál</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Kis PÃ¡l</mezo>
 <mezo id = "panev">Bartucz Veronika</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20070301</mezo>
@@ -781,7 +781,7 @@
 <rovat id = "14">
 <alrovat id = "2">
 <mezo id = "hattol">20101220</mezo>
-<mezo id = "pnev">Badacsonyi Endréné</mezo>
+<mezo id = "pnev">Badacsonyi EndrÃ©nÃ©</mezo>
 <mezo id = "panev">Lichi Margit</mezo>
 <mezo id = "jogvk">20101001</mezo>
 <mezo id = "jogvv">20140531</mezo>
@@ -809,14 +809,14 @@
 <mezo id = "adosz">11370675203</mezo>
 <mezo id = "kadosz">HU11370675</mezo>
 <mezo id = "bkelt">20110524</mezo>
-<mezo id = "megj">Adószám státusza: érvényes adószám</mezo>
+<mezo id = "megj">AdÃ³szÃ¡m stÃ¡tusza: Ã©rvÃ©nyes adÃ³szÃ¡m</mezo>
 </alrovat>
 </rovat>
 <rovat id = "22">
 <alrovat id = "1">
 <mezo id = "hattol">20100831</mezo>
 <mezo id = "jccjsz">0309120673</mezo>
-<mezo id = "nev">AUDITKER Könyvelõ Iroda Könyvelõ és Könyvvizsgáló Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">AUDITKER KÃ¶nyvelÅ‘ Iroda KÃ¶nyvelÅ‘ Ã©s KÃ¶nyvvizsgÃ¡lÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "atdat">20100831</mezo>
 <mezo id = "valtk">20100831</mezo>
 <mezo id = "bkelt">20100826</mezo>
@@ -825,7 +825,7 @@
 <rovat id = "0109">
 <alrovat id = "5">
 <mezo id = "hattol">20100831</mezo>
-<mezo id = "pnev">Kis Pál</mezo>
+<mezo id = "pnev">Kis PÃ¡l</mezo>
 <mezo id = "panev">Bartucz Veronika</mezo>
 <mezo id = "tagsk">19961231</mezo>
 <mezo id = "sz1">x</mezo>
@@ -834,24 +834,24 @@
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20100831</mezo>
-<mezo id = "pnev">Ifj. Kis Pál</mezo>
-<mezo id = "panev">Toldi Mária Katalin</mezo>
+<mezo id = "pnev">Ifj. Kis PÃ¡l</mezo>
+<mezo id = "panev">Toldi MÃ¡ria Katalin</mezo>
 <mezo id = "tagsk">20100831</mezo>
 <mezo id = "valtk">20100831</mezo>
 <mezo id = "bkelt">20100826</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">20100831</mezo>
-<mezo id = "pnev">Kis Balázs</mezo>
-<mezo id = "panev">Toldi Mária Katalin</mezo>
+<mezo id = "pnev">Kis BalÃ¡zs</mezo>
+<mezo id = "panev">Toldi MÃ¡ria Katalin</mezo>
 <mezo id = "tagsk">20100831</mezo>
 <mezo id = "valtk">20100831</mezo>
 <mezo id = "bkelt">20100826</mezo>
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">20101220</mezo>
-<mezo id = "pnev">Görög Zoltán</mezo>
-<mezo id = "panev">Tarjányi Margit</mezo>
+<mezo id = "pnev">GÃ¶rÃ¶g ZoltÃ¡n</mezo>
+<mezo id = "panev">TarjÃ¡nyi Margit</mezo>
 <mezo id = "tagsk">20101220</mezo>
 <mezo id = "valtk">20101220</mezo>
 <mezo id = "bkelt">20110105</mezo>
@@ -866,19 +866,19 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Bács-Kiskun Megyei Bíróság mint Cégbíróság a Cg.03-09-103483 cégjegyzékszámon bejegyzett AUDITKER Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság (6000 Kecskemét, Belsõnyír 150.; adószáma: 11370675-2-03) kérelme alapján elrendeli az 2008. október 13. napján hozott Cg.03-09-103483 /55. számú végzésének kijavítását (kiegészítését) az alábbiak szerint:<ujsor/>
-45. A cég elektronikus elérhetõsége<ujsor/>
-A cég honlapja: www.auditker.hu<ujsor/>
-A cég közvetlen közleményeit a honlapján teszi közzé.<ujsor/>
-Vált. kezdete: 2008.06.30.<ujsor/>
-Bejegyezve (végzés kelte): 2010. augusztus 10.<ujsor/>
-E végzés ellen fellebbezésnek nincs helye, azonban az ügyész, továbbá az, akire a végzés rendelkezést tartalmaz - a rendelkezés õt érintõ részére vonatkozóan - pert indíthat a cég ellen a cég székhelye szerint illetékes megyei bíróság elõtt a bejegyzõ végzés hatályon kívül helyezése iránt.<ujsor/>
-A per megindításának a bejegyzõ végzés Cégközlönyben való közzétételétõl, illetve - közzétételi kötelezettség hiányában - annak kézbesítésétõl számított 30 napon belül van helye. A határidõ elmulasztása jogvesztéssel jár.<ujsor/>
+<mezo id = "szoveg">A BÃ¡cs-Kiskun Megyei BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.03-09-103483 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett AUDITKER Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (6000 KecskemÃ©t, BelsÅ‘nyÃ­r 150.; adÃ³szÃ¡ma: 11370675-2-03) kÃ©relme alapjÃ¡n elrendeli az 2008. oktÃ³ber 13. napjÃ¡n hozott Cg.03-09-103483 /55. szÃ¡mÃº vÃ©gzÃ©sÃ©nek kijavÃ­tÃ¡sÃ¡t (kiegÃ©szÃ­tÃ©sÃ©t) az alÃ¡bbiak szerint:<ujsor/>
+45. A cÃ©g elektronikus elÃ©rhetÅ‘sÃ©ge<ujsor/>
+A cÃ©g honlapja: www.auditker.hu<ujsor/>
+A cÃ©g kÃ¶zvetlen kÃ¶zlemÃ©nyeit a honlapjÃ¡n teszi kÃ¶zzÃ©.<ujsor/>
+VÃ¡lt. kezdete: 2008.06.30.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2010. augusztus 10.<ujsor/>
+E vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye, azonban az Ã¼gyÃ©sz, tovÃ¡bbÃ¡ az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s Å‘t Ã©rintÅ‘ rÃ©szÃ©re vonatkozÃ³an - pert indÃ­that a cÃ©g ellen a cÃ©g szÃ©khelye szerint illetÃ©kes megyei bÃ­rÃ³sÃ¡g elÅ‘tt a bejegyzÅ‘ vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt.<ujsor/>
+A per megindÃ­tÃ¡sÃ¡nak a bejegyzÅ‘ vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l, illetve - kÃ¶zzÃ©tÃ©teli kÃ¶telezettsÃ©g hiÃ¡nyÃ¡ban - annak kÃ©zbesÃ­tÃ©sÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l van helye. A hatÃ¡ridÅ‘ elmulasztÃ¡sa jogvesztÃ©ssel jÃ¡r.<ujsor/>
 2010. augusztus 10.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0309103483</mezo>
-<mezo id = "nev">AUDITKER Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">6000 Kecskemét, Belsõnyír 150.</mezo>
+<mezo id = "nev">AUDITKER Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">6000 KecskemÃ©t, BelsÅ‘nyÃ­r 150.</mezo>
 <mezo id = "adosz">11370675203</mezo>
 </alrovat>
 </rovat>

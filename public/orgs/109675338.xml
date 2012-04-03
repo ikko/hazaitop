@@ -6,7 +6,7 @@
 <mezo id = "szam">675338</mezo>
 <mezo id = "nevalrovat">2</mezo>
 <mezo id = "allapot">3</mezo>
-<mezo id = "cim">1149 Budapest, Egressy út 18. C. lház. 1. </mezo>
+<mezo id = "cim">1149 Budapest, Egressy Ãºt 18. C. lhÃ¡z. 1. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">11762171242</mezo>
 </alrovat>
@@ -14,7 +14,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20100901</mezo>
-<mezo id = "nev">3 C Hungary Szoftverfejlesztõ és Szolgáltató Korlátolt Felelõsségû Társaság végelszámolás alatt</mezo>
+<mezo id = "nev">3 C Hungary SzoftverfejlesztÅ‘ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g vÃ©gelszÃ¡molÃ¡s alatt</mezo>
 <mezo id = "valtk">20100901</mezo>
 <mezo id = "bkelt">20100916</mezo>
 </alrovat>
@@ -32,7 +32,7 @@
 <mezo id = "hattol">20100901</mezo>
 <mezo id = "irsz">1149</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Egressy út 18. C. lház. 1.</mezo>
+<mezo id = "teru">Egressy Ãºt 18. C. lhÃ¡z. 1.</mezo>
 <mezo id = "valtk">20100901</mezo>
 <mezo id = "bkelt">20100916</mezo>
 </alrovat>
@@ -321,8 +321,8 @@
 <rovat id = "13">
 <alrovat id = "23">
 <mezo id = "hattol">20100901</mezo>
-<mezo id = "tiszt">végelszámoló</mezo>
-<mezo id = "pnev">Semmelné Török Szilvia Katalin</mezo>
+<mezo id = "tiszt">vÃ©gelszÃ¡molÃ³</mezo>
+<mezo id = "pnev">SemmelnÃ© TÃ¶rÃ¶k Szilvia Katalin</mezo>
 <mezo id = "panev">Fogarasi Zsuzsanna</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100901</mezo>
@@ -335,30 +335,30 @@
 <alrovat id = "2">
 <mezo id = "hattol">20010823</mezo>
 <mezo id = "cgjsz">109461388</mezo>
-<mezo id = "nev">L. F. Á. Ágoston &amp; Társai Kft.</mezo>
+<mezo id = "nev">L. F. Ã. Ãgoston &amp; TÃ¡rsai Kft.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1117</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Véáku z,</mezo>
+<mezo id = "teru">VÃ©Ã¡ku z,</mezo>
 <mezo id = "hsz">10-12. f.2.</mezo>
-<mezo id = "pnev">Kaszaláné dr. Szenczi Ágnes</mezo>
+<mezo id = "pnev">KaszalÃ¡nÃ© dr. Szenczi Ãgnes</mezo>
 <mezo id = "panev">Frank Etelka</mezo>
 <mezo id = "pirsz">1022</mezo>
-<mezo id = "phely">Budapest, Hankóczy J. u. 13/c.</mezo>
+<mezo id = "phely">Budapest, HankÃ³czy J. u. 13/c.</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20090702</mezo>
 <mezo id = "cgjsz">0609007351</mezo>
-<mezo id = "nev">NA-BO Audit Könyvvizsgáló Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">NA-BO Audit KÃ¶nyvvizsgÃ¡lÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">6771</mezo>
 <mezo id = "hely">Szeged</mezo>
 <mezo id = "teru">Iskola u. 24.</mezo>
-<mezo id = "pnev">Borsik Ildikó</mezo>
-<mezo id = "panev">Berkó Mária</mezo>
+<mezo id = "pnev">Borsik IldikÃ³</mezo>
+<mezo id = "panev">BerkÃ³ MÃ¡ria</mezo>
 <mezo id = "pirsz">6727</mezo>
 <mezo id = "phely">Szeged</mezo>
-<mezo id = "pteru">Bánk bán u. 17.</mezo>
+<mezo id = "pteru">BÃ¡nk bÃ¡n u. 17.</mezo>
 <mezo id = "jogvk">20090702</mezo>
 <mezo id = "jogvv">20120702</mezo>
 <mezo id = "valtk">20090702</mezo>
@@ -409,7 +409,7 @@
 <mezo id = "teru">Tietotie 2.</mezo>
 <mezo id = "tagsk">20090105</mezo>
 <mezo id = "valtk">20100118</mezo>
-<mezo id = "knyh">Finn Országos Szabadalmi és Cégnyilvántartó Hivatal</mezo>
+<mezo id = "knyh">Finn OrszÃ¡gos Szabadalmi Ã©s CÃ©gnyilvÃ¡ntartÃ³ Hivatal</mezo>
 <mezo id = "bkelt">20100302</mezo>
 </alrovat>
 </rovat>
@@ -422,37 +422,37 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2001. 10. 15-én hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-14. [01 09 461388] L. F. Á. Ágoston &amp; Társai Kft.<ujsor/>
-HU 1117 Budapest, Véáku z, 10-12. f. 2.<ujsor/>
- Kaszaláné dr. Szenczi Ágnes (an: Frank Etelka)<ujsor/>
-1022 Budapest, Hankóczy J. u. 13/c.<ujsor/>
- Törölve: 2001. 08. 23-i hatállyal.<ujsor/>
- [01 09 461388] L. F. Á. Ágoston &amp; Társai Kft.<ujsor/>
-HU 1117 Budapest, Váli u. 10-12. f. 2.<ujsor/>
- Kaszaláné dr. Szenczi Ágnes (an: Frank Etelka)<ujsor/>
-1022 Budapest, Hankóczy J. u. 13/c.<ujsor/>
- Hatályos: 2001. 08. 23-tól.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2001. 10. 15-Ã©n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+14. [01 09 461388] L. F. Ã. Ãgoston &amp; TÃ¡rsai Kft.<ujsor/>
+HU 1117 Budapest, VÃ©Ã¡ku z, 10-12. f. 2.<ujsor/>
+ KaszalÃ¡nÃ© dr. Szenczi Ãgnes (an: Frank Etelka)<ujsor/>
+1022 Budapest, HankÃ³czy J. u. 13/c.<ujsor/>
+ TÃ¶rÃ¶lve: 2001. 08. 23-i hatÃ¡llyal.<ujsor/>
+ [01 09 461388] L. F. Ã. Ãgoston &amp; TÃ¡rsai Kft.<ujsor/>
+HU 1117 Budapest, VÃ¡li u. 10-12. f. 2.<ujsor/>
+ KaszalÃ¡nÃ© dr. Szenczi Ãgnes (an: Frank Etelka)<ujsor/>
+1022 Budapest, HankÃ³czy J. u. 13/c.<ujsor/>
+ HatÃ¡lyos: 2001. 08. 23-tÃ³l.<ujsor/>
 32. 10700024-04764401-51100005<ujsor/>
  CIB Bank Rt. (1027 Budapest, Medve u. 4-14.)<ujsor/>
- Hatályos: 2001. 11. 20-tól.<ujsor/>
+ HatÃ¡lyos: 2001. 11. 20-tÃ³l.<ujsor/>
 Bejegyezve: 2001. 11. 20.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109675338</mezo>
-<mezo id = "nev">3 C Hungary Szoftverfejlesztõ és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1118 Budapest, Budaörsi út 64. 4. em.</mezo>
+<mezo id = "nev">3 C Hungary SzoftverfejlesztÅ‘ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1118 Budapest, BudaÃ¶rsi Ãºt 64. 4. em.</mezo>
 <mezo id = "adosz">11762171243</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a cég 2008. 01. 29. napján<ujsor/>
-benyújtott változás bejegyzése iránti kérelmét elutasítja.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a cÃ©g 2008. 01. 29. napjÃ¡n<ujsor/>
+benyÃºjtott vÃ¡ltozÃ¡s bejegyzÃ©se irÃ¡nti kÃ©relmÃ©t elutasÃ­tja.<ujsor/>
 2008. 04. 09.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109675338</mezo>
-<mezo id = "nev">3 C Hungary Szoftverfejlesztõ és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1123 Budapest, MOM Park Centrum, Alkotás u. 53.</mezo>
+<mezo id = "nev">3 C Hungary SzoftverfejlesztÅ‘ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1123 Budapest, MOM Park Centrum, AlkotÃ¡s u. 53.</mezo>
 <mezo id = "adosz">11762171243</mezo>
 </alrovat>
 </rovat>

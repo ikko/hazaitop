@@ -5,7 +5,7 @@
 <mezo id = "cf">06</mezo>
 <mezo id = "szam">010224</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">8000 Székesfehérvár, Gödör utca 12. </mezo>
+<mezo id = "cim">8000 SzÃ©kesfehÃ©rvÃ¡r, GÃ¶dÃ¶r utca 12. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">20973719207</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20010116</mezo>
-<mezo id = "nev">TAKKER 21 Kereskedelmi és Szolgáltató Betéti Társaság</mezo>
+<mezo id = "nev">TAKKER 21 Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ BetÃ©ti TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -26,15 +26,15 @@
 <alrovat id = "1">
 <mezo id = "hattol">20010116</mezo>
 <mezo id = "irsz">8000</mezo>
-<mezo id = "hely">Székesfehérvár</mezo>
-<mezo id = "teru">Gödör utca 12.</mezo>
+<mezo id = "hely">SzÃ©kesfehÃ©rvÃ¡r</mezo>
+<mezo id = "teru">GÃ¶dÃ¶r utca 12.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "6">
 <alrovat id = "1">
 <mezo id = "hattol">20101102</mezo>
 <mezo id = "irsz">8000</mezo>
-<mezo id = "hely">Székesfehérvár</mezo>
+<mezo id = "hely">SzÃ©kesfehÃ©rvÃ¡r</mezo>
 <mezo id = "teru">Nyitrai utca 14.</mezo>
 <mezo id = "valtk">20101102</mezo>
 <mezo id = "bkelt">20101202</mezo>
@@ -544,8 +544,8 @@
 <rovat id = "13">
 <alrovat id = "5">
 <mezo id = "hattol">20101102</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (üzletvezetésre jogosult tag)</mezo>
-<mezo id = "pnev">Kerékné Takács Zsuzsanna</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼zletvezetÃ©sre jogosult tag)</mezo>
+<mezo id = "pnev">KerÃ©knÃ© TakÃ¡cs Zsuzsanna</mezo>
 <mezo id = "panev">Fekete Zsuzsanna</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20080901</mezo>
@@ -555,9 +555,9 @@
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20101102</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (üzletvezetésre jogosult tag)</mezo>
-<mezo id = "pnev">Kerék Tamás</mezo>
-<mezo id = "panev">Piski Klára</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼zletvezetÃ©sre jogosult tag)</mezo>
+<mezo id = "pnev">KerÃ©k TamÃ¡s</mezo>
+<mezo id = "panev">Piski KlÃ¡ra</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20071018</mezo>
 <mezo id = "valtk">20101102</mezo>
@@ -568,10 +568,10 @@
 <rovat id = "14">
 <alrovat id = "2">
 <mezo id = "hattol">20071018</mezo>
-<mezo id = "pnev">Nagy József</mezo>
-<mezo id = "panev">Borbély Margit</mezo>
+<mezo id = "pnev">Nagy JÃ³zsef</mezo>
+<mezo id = "panev">BorbÃ©ly Margit</mezo>
 <mezo id = "pirsz">8000</mezo>
-<mezo id = "phely">Székesfehérvár, Balassi Bálint u. 14.</mezo>
+<mezo id = "phely">SzÃ©kesfehÃ©rvÃ¡r, Balassi BÃ¡lint u. 14.</mezo>
 <mezo id = "jogvk">20071018</mezo>
 <mezo id = "jogvv">20110531</mezo>
 <mezo id = "valtk">20071018</mezo>
@@ -593,19 +593,19 @@
 <rovat id = "0106">
 <alrovat id = "2">
 <mezo id = "hattol">20030901</mezo>
-<mezo id = "pnev">Kerékné Takács Zsuzsanna</mezo>
+<mezo id = "pnev">KerÃ©knÃ© TakÃ¡cs Zsuzsanna</mezo>
 <mezo id = "panev">Fekete Zsuzsanna</mezo>
 <mezo id = "pirsz">8000</mezo>
-<mezo id = "phely">Székesfehérvár, Gödör u. 12.</mezo>
+<mezo id = "phely">SzÃ©kesfehÃ©rvÃ¡r, GÃ¶dÃ¶r u. 12.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0206">
 <alrovat id = "3">
 <mezo id = "hattol">20071018</mezo>
-<mezo id = "pnev">Kerék Tamás</mezo>
-<mezo id = "panev">Piski Klára</mezo>
+<mezo id = "pnev">KerÃ©k TamÃ¡s</mezo>
+<mezo id = "panev">Piski KlÃ¡ra</mezo>
 <mezo id = "pirsz">8000</mezo>
-<mezo id = "phely">Székesfehérvár, Gödör u. 12.</mezo>
+<mezo id = "phely">SzÃ©kesfehÃ©rvÃ¡r, GÃ¶dÃ¶r u. 12.</mezo>
 <mezo id = "tagsk">20071018</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20071018</mezo>

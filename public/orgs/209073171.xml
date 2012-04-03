@@ -6,7 +6,7 @@
 <mezo id = "szam">073171</mezo>
 <mezo id = "nevalrovat">1</mezo>
 <mezo id = "regi_szh">1409308552</mezo>
-<mezo id = "cim">7621 Pécs, Mária utca 3. </mezo>
+<mezo id = "cim">7621 PÃ©cs, MÃ¡ria utca 3. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">20145103202</mezo>
 </alrovat>
@@ -14,7 +14,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20081104</mezo>
-<mezo id = "nev">DDRFÜ Dél-Dunántúli Regionális Fejlesztési Ügynökség Közhasznú Nonprofit Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">DDRFÃœ DÃ©l-DunÃ¡ntÃºli RegionÃ¡lis FejlesztÃ©si ÃœgynÃ¶ksÃ©g KÃ¶zhasznÃº Nonprofit KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20081104</mezo>
@@ -24,7 +24,7 @@
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">20081104</mezo>
-<mezo id = "nev">DDRFÜ Nonprofit Kft.</mezo>
+<mezo id = "nev">DDRFÃœ Nonprofit Kft.</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20081104</mezo>
@@ -45,8 +45,8 @@
 <alrovat id = "1">
 <mezo id = "hattol">20081104</mezo>
 <mezo id = "irsz">7621</mezo>
-<mezo id = "hely">Pécs</mezo>
-<mezo id = "teru">Mária utca 3.</mezo>
+<mezo id = "hely">PÃ©cs</mezo>
+<mezo id = "teru">MÃ¡ria utca 3.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
@@ -58,7 +58,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20081104</mezo>
 <mezo id = "irsz">7400</mezo>
-<mezo id = "hely">Kaposvár, Szántó utca 5.</mezo>
+<mezo id = "hely">KaposvÃ¡r, SzÃ¡ntÃ³ utca 5.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
@@ -68,7 +68,7 @@
 <alrovat id = "2">
 <mezo id = "hattol">20081104</mezo>
 <mezo id = "irsz">7100</mezo>
-<mezo id = "hely">Szekszárd, Szent István tér 11-13.</mezo>
+<mezo id = "hely">SzekszÃ¡rd, Szent IstvÃ¡n tÃ©r 11-13.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
@@ -853,25 +853,25 @@
 <mezo id = "hattol">20091030</mezo>
 <mezo id = "valtk">20091030</mezo>
 <mezo id = "bkelt">20091211</mezo>
-<mezo id = "teaszov">Üzletvezetés</mezo>
+<mezo id = "teaszov">ÃœzletvezetÃ©s</mezo>
 </alrovat>
 <alrovat id = "84">
 <mezo id = "hattol">20091030</mezo>
 <mezo id = "valtk">20091030</mezo>
 <mezo id = "bkelt">20091211</mezo>
-<mezo id = "teaszov">Üzletviteli, egyéb vezetési tanácsadás</mezo>
+<mezo id = "teaszov">Ãœzletviteli, egyÃ©b vezetÃ©si tanÃ¡csadÃ¡s</mezo>
 </alrovat>
 <alrovat id = "85">
 <mezo id = "hattol">20091030</mezo>
 <mezo id = "kozh">x</mezo>
 <mezo id = "valtk">20091030</mezo>
 <mezo id = "bkelt">20091211</mezo>
-<mezo id = "teaszov">Oktatást kiegészítõ tevékenység</mezo>
+<mezo id = "teaszov">OktatÃ¡st kiegÃ©szÃ­tÅ‘ tevÃ©kenysÃ©g</mezo>
 </alrovat>
 <alrovat id = "86">
 <mezo id = "kozh">x</mezo>
 <mezo id = "bkelt">20091211</mezo>
-<mezo id = "teaszov">M.n.s. egyéb közösségi, társadalmi tevékenység</mezo>
+<mezo id = "teaszov">M.n.s. egyÃ©b kÃ¶zÃ¶ssÃ©gi, tÃ¡rsadalmi tevÃ©kenysÃ©g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -890,9 +890,9 @@
 <rovat id = "13">
 <alrovat id = "4">
 <mezo id = "hattol">20101001</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "pnev">dr. Farkas Tibor</mezo>
-<mezo id = "panev">Tóth Mária</mezo>
+<mezo id = "panev">TÃ³th MÃ¡ria</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20101001</mezo>
 <mezo id = "valtk">20101001</mezo>
@@ -904,7 +904,7 @@
 <alrovat id = "2">
 <mezo id = "hattol">20100601</mezo>
 <mezo id = "pnev">Hajdu Gyula</mezo>
-<mezo id = "panev">Baráth Gizella</mezo>
+<mezo id = "panev">BarÃ¡th Gizella</mezo>
 <mezo id = "jogvk">20100601</mezo>
 <mezo id = "jogvv">20150531</mezo>
 <mezo id = "valtk">20100601</mezo>
@@ -914,8 +914,8 @@
 <rovat id = "15">
 <alrovat id = "16">
 <mezo id = "hattol">20100928</mezo>
-<mezo id = "pnev">dr. Sümegi Zoltán</mezo>
-<mezo id = "panev">Böröcz Mária</mezo>
+<mezo id = "pnev">dr. SÃ¼megi ZoltÃ¡n</mezo>
+<mezo id = "panev">BÃ¶rÃ¶cz MÃ¡ria</mezo>
 <mezo id = "jogvk">20100928</mezo>
 <mezo id = "jogvv">20130928</mezo>
 <mezo id = "valtk">20100928</mezo>
@@ -923,8 +923,8 @@
 </alrovat>
 <alrovat id = "17">
 <mezo id = "hattol">20100928</mezo>
-<mezo id = "pnev">Racsek József</mezo>
-<mezo id = "panev">Hugyecz Mária</mezo>
+<mezo id = "pnev">Racsek JÃ³zsef</mezo>
+<mezo id = "panev">Hugyecz MÃ¡ria</mezo>
 <mezo id = "jogvk">20100928</mezo>
 <mezo id = "jogvv">20130928</mezo>
 <mezo id = "valtk">20100928</mezo>
@@ -932,8 +932,8 @@
 </alrovat>
 <alrovat id = "18">
 <mezo id = "hattol">20100928</mezo>
-<mezo id = "pnev">Simó Balázs Máté</mezo>
-<mezo id = "panev">dr. Patkó Kornélia Márta</mezo>
+<mezo id = "pnev">SimÃ³ BalÃ¡zs MÃ¡tÃ©</mezo>
+<mezo id = "panev">dr. PatkÃ³ KornÃ©lia MÃ¡rta</mezo>
 <mezo id = "jogvk">20100928</mezo>
 <mezo id = "jogvv">20130928</mezo>
 <mezo id = "valtk">20100928</mezo>
@@ -944,7 +944,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20081104</mezo>
 <mezo id = "cgjsz">1414300033</mezo>
-<mezo id = "nev">Dél-dunántúli Regionális-Fejlesztési Ügynökség Közhasznú Társaság</mezo>
+<mezo id = "nev">DÃ©l-dunÃ¡ntÃºli RegionÃ¡lis-FejlesztÃ©si ÃœgynÃ¶ksÃ©g KÃ¶zhasznÃº TÃ¡rsasÃ¡g</mezo>
 <mezo id = "atdat">0</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
@@ -969,17 +969,17 @@
 <mezo id = "adosz">20145103202</mezo>
 <mezo id = "kadosz">HU20145103</mezo>
 <mezo id = "bkelt">20110809</mezo>
-<mezo id = "megj">Státusz kezdete: 1998/07/23</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 1998/07/23</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0109">
 <alrovat id = "1">
 <mezo id = "hattol">20081104</mezo>
-<mezo id = "nev">Dél-Dunántúli Regionális Fejlesztési Tanács</mezo>
+<mezo id = "nev">DÃ©l-DunÃ¡ntÃºli RegionÃ¡lis FejlesztÃ©si TanÃ¡cs</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">7621</mezo>
-<mezo id = "hely">Pécs</mezo>
-<mezo id = "teru">Mária</mezo>
+<mezo id = "hely">PÃ©cs</mezo>
+<mezo id = "teru">MÃ¡ria</mezo>
 <mezo id = "hsz">3.</mezo>
 <mezo id = "tagsk">20080814</mezo>
 <mezo id = "tagsv">0</mezo>

@@ -6,7 +6,7 @@
 <mezo id = "szam">044603</mezo>
 <mezo id = "nevalrovat">5</mezo>
 <mezo id = "allapot">6</mezo>
-<mezo id = "cim">1116 Budapest, Barázda utca 42. </mezo>
+<mezo id = "cim">1116 Budapest, BarÃ¡zda utca 42. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">12665431243</mezo>
 </alrovat>
@@ -14,7 +14,7 @@
 <rovat id = "2">
 <alrovat id = "5">
 <mezo id = "hattol">20090701</mezo>
-<mezo id = "nev">ICT SYSTEMS Kereskedelmi és Szolgáltató Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">ICT SYSTEMS Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">20090701</mezo>
 <mezo id = "bkelt">20090701</mezo>
 </alrovat>
@@ -32,7 +32,7 @@
 <mezo id = "hattol">20100118</mezo>
 <mezo id = "irsz">1116</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Barázda utca 42.</mezo>
+<mezo id = "teru">BarÃ¡zda utca 42.</mezo>
 <mezo id = "valtk">20100118</mezo>
 <mezo id = "bkelt">20100215</mezo>
 </alrovat>
@@ -594,8 +594,8 @@
 <rovat id = "13">
 <alrovat id = "21">
 <mezo id = "hattol">20100118</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Ludányi István</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">LudÃ¡nyi IstvÃ¡n</mezo>
 <mezo id = "panev">Fazekas Hilda</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20090615</mezo>
@@ -605,9 +605,9 @@
 </alrovat>
 <alrovat id = "23">
 <mezo id = "hattol">20100528</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Horváth Szilvia</mezo>
-<mezo id = "panev">Bíró Mária</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">HorvÃ¡th Szilvia</mezo>
+<mezo id = "panev">BÃ­rÃ³ MÃ¡ria</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20100528</mezo>
 <mezo id = "valtk">20100528</mezo>
@@ -616,8 +616,8 @@
 </alrovat>
 <alrovat id = "24">
 <mezo id = "hattol">20100914</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (vezérigazgató)</mezo>
-<mezo id = "pnev">Roboz László</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (vezÃ©rigazgatÃ³)</mezo>
+<mezo id = "pnev">Roboz LÃ¡szlÃ³</mezo>
 <mezo id = "panev">Lengyel Ilona</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20101001</mezo>
@@ -631,13 +631,13 @@
 <alrovat id = "9">
 <mezo id = "hattol">20100528</mezo>
 <mezo id = "cgjsz">0109467801</mezo>
-<mezo id = "nev">&quot;FAIRCONSULT&quot; Könyvelési és Gazdasági Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">&quot;FAIRCONSULT&quot; KÃ¶nyvelÃ©si Ã©s GazdasÃ¡gi SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1171</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Temetõ utca 2.</mezo>
-<mezo id = "pnev">Ézsiás Miklósné</mezo>
-<mezo id = "panev">Czégér Rozália</mezo>
+<mezo id = "teru">TemetÅ‘ utca 2.</mezo>
+<mezo id = "pnev">Ã‰zsiÃ¡s MiklÃ³snÃ©</mezo>
+<mezo id = "panev">CzÃ©gÃ©r RozÃ¡lia</mezo>
 <mezo id = "jogvk">20100528</mezo>
 <mezo id = "jogvv">20110531</mezo>
 <mezo id = "valtk">20100528</mezo>
@@ -647,19 +647,19 @@
 <rovat id = "15">
 <alrovat id = "4">
 <mezo id = "hattol">20040528</mezo>
-<mezo id = "pnev">Bányai Erzsébet</mezo>
-<mezo id = "panev">Bázsa Ilona</mezo>
+<mezo id = "pnev">BÃ¡nyai ErzsÃ©bet</mezo>
+<mezo id = "panev">BÃ¡zsa Ilona</mezo>
 <mezo id = "pirsz">1118</mezo>
-<mezo id = "phely">Budapest, Regõs u. 4. IX./40.</mezo>
+<mezo id = "phely">Budapest, RegÅ‘s u. 4. IX./40.</mezo>
 <mezo id = "jogvk">20040528</mezo>
 <mezo id = "jogvv">20050531</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20040528</mezo>
-<mezo id = "pnev">Kaczúr Györgyné</mezo>
-<mezo id = "panev">Vörös Berta</mezo>
+<mezo id = "pnev">KaczÃºr GyÃ¶rgynÃ©</mezo>
+<mezo id = "panev">VÃ¶rÃ¶s Berta</mezo>
 <mezo id = "pirsz">1157</mezo>
-<mezo id = "phely">Budapest, Zsókavár u. 38. VII/28.</mezo>
+<mezo id = "phely">Budapest, ZsÃ³kavÃ¡r u. 38. VII/28.</mezo>
 <mezo id = "jogvk">20040528</mezo>
 </alrovat>
 </rovat>
@@ -667,7 +667,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20080901</mezo>
 <mezo id = "cgjsz">110043385</mezo>
-<mezo id = "nev">TRENDEX Infokommunikációs Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">TRENDEX InfokommunikÃ¡ciÃ³s ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "atdat">0</mezo>
 <mezo id = "valtk">20080901</mezo>
 <mezo id = "valtv">0</mezo>
@@ -696,7 +696,7 @@
 <rovat id = "22">
 <alrovat id = "1">
 <mezo id = "jccjsz">1309133228</mezo>
-<mezo id = "nev">Bennington Vagyonkezelõ és Befektetõ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Bennington VagyonkezelÅ‘ Ã©s BefektetÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "atdat">20110228</mezo>
 </alrovat>
 </rovat>
@@ -704,22 +704,22 @@
 <alrovat id = "1">
 <mezo id = "hattol">20010904</mezo>
 <mezo id = "cgjsz">110043385</mezo>
-<mezo id = "nev">TRENDEX HOLDING Kereskedelmi és Szolgáltató Részvénytársaság</mezo>
+<mezo id = "nev">TRENDEX HOLDING Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1117</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Budafoki út</mezo>
+<mezo id = "teru">Budafoki Ãºt</mezo>
 <mezo id = "hsz">60.</mezo>
 <mezo id = "j">0</mezo>
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">20100611</mezo>
 <mezo id = "cgjsz">1309133228</mezo>
-<mezo id = "nev">Bennington Vagyonkezelõ és Befektetõ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Bennington VagyonkezelÅ‘ Ã©s BefektetÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2023</mezo>
-<mezo id = "hely">Dunabogdány</mezo>
-<mezo id = "teru">Fácános út 6.</mezo>
+<mezo id = "hely">DunabogdÃ¡ny</mezo>
+<mezo id = "teru">FÃ¡cÃ¡nos Ãºt 6.</mezo>
 <mezo id = "sz3">x</mezo>
 <mezo id = "valtk">20100611</mezo>
 <mezo id = "bkelt">20100709</mezo>
@@ -734,258 +734,258 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2003. 09. 18-án hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-09. 7220&apos;98 Szoftverkészítés, -szaktanácsadás.<ujsor/>
- Törölve: 2003. 09. 18-i hatállyal.<ujsor/>
- 7250&apos;03 Iroda-, számítógép-javítás.<ujsor/>
- Hatályos: 2003. 09. 18-tól.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2003. 09. 18-Ã¡n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+09. 7220&apos;98 SzoftverkÃ©szÃ­tÃ©s, -szaktanÃ¡csadÃ¡s.<ujsor/>
+ TÃ¶rÃ¶lve: 2003. 09. 18-i hatÃ¡llyal.<ujsor/>
+ 7250&apos;03 Iroda-, szÃ¡mÃ­tÃ³gÃ©p-javÃ­tÃ¡s.<ujsor/>
+ HatÃ¡lyos: 2003. 09. 18-tÃ³l.<ujsor/>
 Bejegyezve: 2003. 11. 06.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044603</mezo>
-<mezo id = "nev">Trendex.Com Kereskedelmi és Szolgáltató Részvénytársaság</mezo>
-<mezo id = "cim">1117 Budapest, Budafoki út 60.</mezo>
+<mezo id = "nev">Trendex.Com Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1117 Budapest, Budafoki Ãºt 60.</mezo>
 <mezo id = "adosz">12665431243</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2001. 09. 04-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-1(10). [01 10 043385] TRENDEX HOLDING Kereskedelmi és Szolgáltató Részvénytársaság<ujsor/>
-HU 1117 Budapest, Budafoki út 60.<ujsor/>
- Törölve: 2001. 09. 04-i hatállyal.<ujsor/>
- [01 10 043385] TRENDEX HOLDING Irodatechnikai Kereskedelmi Részvénytársaság<ujsor/>
-HU 1117 Budapest, Budafoki út 60.<ujsor/>
- Hatályos: 2001. 09. 04-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2001. 09. 04-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+1(10). [01 10 043385] TRENDEX HOLDING Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g<ujsor/>
+HU 1117 Budapest, Budafoki Ãºt 60.<ujsor/>
+ TÃ¶rÃ¶lve: 2001. 09. 04-i hatÃ¡llyal.<ujsor/>
+ [01 10 043385] TRENDEX HOLDING Irodatechnikai Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g<ujsor/>
+HU 1117 Budapest, Budafoki Ãºt 60.<ujsor/>
+ HatÃ¡lyos: 2001. 09. 04-tÅ‘l.<ujsor/>
 Bejegyezve: 2004. 03. 18.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044603</mezo>
-<mezo id = "nev">Trendex.Com Kereskedelmi és Szolgáltató Részvénytársaság</mezo>
-<mezo id = "cim">1117 Budapest, Budafoki út 60.</mezo>
+<mezo id = "nev">Trendex.Com Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1117 Budapest, Budafoki Ãºt 60.</mezo>
 <mezo id = "adosz">12665431243</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A befolyást szerzõ neve: Synex Biztonságtechnikai Kft.<ujsor/>
-Cégjegyzékszáma: [01 09 737017].<ujsor/>
-Székhelye: 1116 Budapest, Barázda u. 38.<ujsor/>
-Az ellenõrzött gazdasági társaság neve: TRENDEX.Com Kereskedelmi és Szolgáltató Rt.<ujsor/>
-Cégjegyzékszáma: [01 10 044603].<ujsor/>
-Székhelye: 1116 Budapest, Barázda u. 38.<ujsor/>
-Alaptõkéje: 100 000 000 Ft.<ujsor/>
-A befolyásszerzés idõpontja: 2005. április 11.<ujsor/>
-A befolyás mértéke: 100%, közvetlen irányítást biztosító befolyás.<ujsor/>
-Tõkerész értéke: 100 000 000 Ft.<ujsor/>
-A hitelezõk a Gt. 296. § (2) bekezdése szerinti jogaikat gyakorolhatják.<ujsor/>
+<mezo id = "szoveg">A befolyÃ¡st szerzÅ‘ neve: Synex BiztonsÃ¡gtechnikai Kft.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡ma: [01 09 737017].<ujsor/>
+SzÃ©khelye: 1116 Budapest, BarÃ¡zda u. 38.<ujsor/>
+Az ellenÅ‘rzÃ¶tt gazdasÃ¡gi tÃ¡rsasÃ¡g neve: TRENDEX.Com Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ Rt.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡ma: [01 10 044603].<ujsor/>
+SzÃ©khelye: 1116 Budapest, BarÃ¡zda u. 38.<ujsor/>
+AlaptÅ‘kÃ©je: 100 000 000 Ft.<ujsor/>
+A befolyÃ¡sszerzÃ©s idÅ‘pontja: 2005. Ã¡prilis 11.<ujsor/>
+A befolyÃ¡s mÃ©rtÃ©ke: 100%, kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡s.<ujsor/>
+TÅ‘kerÃ©sz Ã©rtÃ©ke: 100 000 000 Ft.<ujsor/>
+A hitelezÅ‘k a Gt. 296. Â§ (2) bekezdÃ©se szerinti jogaikat gyakorolhatjÃ¡k.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044603</mezo>
-<mezo id = "nev">Trendex. Com Kereskedelmi és Szolgáltató Részvénytársaság</mezo>
+<mezo id = "nev">Trendex. Com Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1116 Budapest</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2005. 08. 03-án hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-15. Bányai Erzsébet (an: Bázsa Ilona)<ujsor/>
-1118 Budapest, Regõs u. 4. IX ./40.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2005. 08. 03-Ã¡n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+15. BÃ¡nyai ErzsÃ©bet (an: BÃ¡zsa Ilona)<ujsor/>
+1118 Budapest, RegÅ‘s u. 4. IX ./40.<ujsor/>
  A jogviszony kezdete: 2004. 05. 28.<ujsor/>
- A jogviszony vége: 2005. 05. 31.<ujsor/>
- Kaczúr Györgyné (an: Vörös Berta)<ujsor/>
-1157 Budapest, Zsókavár u. 38. VII /28.<ujsor/>
+ A jogviszony vÃ©ge: 2005. 05. 31.<ujsor/>
+ KaczÃºr GyÃ¶rgynÃ© (an: VÃ¶rÃ¶s Berta)<ujsor/>
+1157 Budapest, ZsÃ³kavÃ¡r u. 38. VII /28.<ujsor/>
  A jogviszony kezdete: 2004. 05. 28.<ujsor/>
- Törölve: 2005. 05. 31.<ujsor/>
+ TÃ¶rÃ¶lve: 2005. 05. 31.<ujsor/>
 2006. 07. 13.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044603</mezo>
-<mezo id = "nev">Trendex .Com Kereskedelmi és Szolgáltató Zártkörûen mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">1116 Budapest, Barázda u. 38.</mezo>
+<mezo id = "nev">Trendex .Com Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ ZÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1116 Budapest, BarÃ¡zda u. 38.</mezo>
 <mezo id = "adosz">12665431243</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A TrendexCom Irodatechnikai Szolgáltató Zártkörûen Mûködõ Részvénytársaság (Cg.: [01 10 044603]; székhelye: 1116 Budapest, Barázda u. 38.) átalakul oly módon, hogy abba<ujsor/>
+<mezo id = "szoveg">A TrendexCom Irodatechnikai SzolgÃ¡ltatÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 044603]; szÃ©khelye: 1116 Budapest, BarÃ¡zda u. 38.) Ã¡talakul oly mÃ³don, hogy abba<ujsor/>
 beolvad<ujsor/>
-a Trendex Infokommunikációs Zártkörûen Mûködõ Részvénytársaság (Cg.: [01 10 043385]; székhelye: 1116 Budapest, Barázda u. 38.).<ujsor/>
-Az egyesülés módja: beolvadás.<ujsor/>
-A létrejövõ gazdasági társaság fõbb adatai:<ujsor/>
-Cégneve: Trendex Infokommunikációs Zártkörûen Mûködõ Részvénytársaság.<ujsor/>
-Formája: zártkörûen mûködõ részvénytársaság.<ujsor/>
-Székhelye: 1116 Budapest, Barázda u. 38.<ujsor/>
-Fõ tevékenysége (TEÁOR ’08): 4666 Egyéb irodagép, -berendezés nagykereskedelme.<ujsor/>
-Vezetõ tisztségviselõ: Rizó Mihály (1121 Budapest, Moha u. 7.).<ujsor/>
-A létrejövõ gazdasági társaság társasági szerzõdése megkötésének napja: 2008. június 30.<ujsor/>
-A befogadó TrendexCom Irodatechnikai Szolgáltató Zártkörûen Mûködõ Részvénytársaság (záró) vagyonmérleg-tervezetének legfontosabb adatai, így külünösen a saját tõke, illetve a jegyzett tõke összege, valamint a mérlegfõösszeg:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 7 724 Saját tõke 268 228<ujsor/>
-Forgóeszközök 324 527 Jegyzett tõke 100 000<ujsor/>
-Aktív idõbeli elhatárolások 142 Kötelezettségek 62 806<ujsor/>
-Passzív idõbeli elhatárolások 1 359<ujsor/>
-ÖSSZESEN: 332 393 ÖSSZESEN: 332 393<ujsor/>
-A beolvadó Trendex Infokommunikációs Zártkörûen Mûködõ Részvénytársaság (záró) vagyonmérleg-tervezetének legfontosabb adatai, így különösen a saját tõke, illetve a jegyzett tõke összege, valamint a mérlegfõösszeg:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 275 757 Saját tõke 896 462<ujsor/>
-Forgóeszközök 3 301 714 Jegyzett tõke 286 700<ujsor/>
-Aktív idõbeli elhatárolások 16 138 Céltartalékok 60 400<ujsor/>
-Kötelezettségek 2 565 223<ujsor/>
-Passzív idõbeli elhatárolások 71 524<ujsor/>
-ÖSSZESEN: 3 593 609 ÖSSZESEN: 3 593 609<ujsor/>
-A beolvadással létrejövõ Trendex Infokommunikációs Zártkörûen Mûködõ Részvénytársaság (nyitó) vagyonmérleg-tervezetének legfontosabb adatai, így különösen a saját tõke, illetve a jegyzett tõke összege, valamint a mérlegfõösszeg:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 283 481 Saját tõke 1 164 690<ujsor/>
-Forgóeszközök 3 595 449 Jegyzett tõke 386 700<ujsor/>
-Aktív idõbeli elhatárolások 16 280 Céltartalékok 60 400<ujsor/>
-Kötelezettségek 2 597 237<ujsor/>
-Passzív idõbeli elhatárolások 72 883<ujsor/>
-ÖSSZESEN: 3 895 210 ÖSSZESEN: 3 895 210<ujsor/>
-Felhívjuk a hitelezõk figyelmét, hogy a Gt. 76. § (2) bekezdésében foglalt jogaikkal élhetnek, illetõleg tájékoztatjuk a hitelezõket, hogy a hirdetményi határidõ alatt az esetleges követelésüket érintõ vagyonmegosztási rendelkezésekrõl a Trendex Infokommunikációs Zrt., 1116 Budapest, Bazárda u. 38. szám alatti székhelyén kaphatnak tájékoztatást.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+a Trendex InfokommunikÃ¡ciÃ³s ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 043385]; szÃ©khelye: 1116 Budapest, BarÃ¡zda u. 38.).<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: beolvadÃ¡s.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘bb adatai:<ujsor/>
+CÃ©gneve: Trendex InfokommunikÃ¡ciÃ³s ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+FormÃ¡ja: zÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ rÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 1116 Budapest, BarÃ¡zda u. 38.<ujsor/>
+FÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™08): 4666 EgyÃ©b irodagÃ©p, -berendezÃ©s nagykereskedelme.<ujsor/>
+VezetÅ‘ tisztsÃ©gviselÅ‘: RizÃ³ MihÃ¡ly (1121 Budapest, Moha u. 7.).<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g tÃ¡rsasÃ¡gi szerzÅ‘dÃ©se megkÃ¶tÃ©sÃ©nek napja: 2008. jÃºnius 30.<ujsor/>
+A befogadÃ³ TrendexCom Irodatechnikai SzolgÃ¡ltatÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (zÃ¡rÃ³) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai, Ã­gy kÃ¼lÃ¼nÃ¶sen a sajÃ¡t tÅ‘ke, illetve a jegyzett tÅ‘ke Ã¶sszege, valamint a mÃ©rlegfÅ‘Ã¶sszeg:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 7 724 SajÃ¡t tÅ‘ke 268 228<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 324 527 Jegyzett tÅ‘ke 100 000<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 142 KÃ¶telezettsÃ©gek 62 806<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 1 359<ujsor/>
+Ã–SSZESEN: 332 393 Ã–SSZESEN: 332 393<ujsor/>
+A beolvadÃ³ Trendex InfokommunikÃ¡ciÃ³s ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (zÃ¡rÃ³) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai, Ã­gy kÃ¼lÃ¶nÃ¶sen a sajÃ¡t tÅ‘ke, illetve a jegyzett tÅ‘ke Ã¶sszege, valamint a mÃ©rlegfÅ‘Ã¶sszeg:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 275 757 SajÃ¡t tÅ‘ke 896 462<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 3 301 714 Jegyzett tÅ‘ke 286 700<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 16 138 CÃ©ltartalÃ©kok 60 400<ujsor/>
+KÃ¶telezettsÃ©gek 2 565 223<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 71 524<ujsor/>
+Ã–SSZESEN: 3 593 609 Ã–SSZESEN: 3 593 609<ujsor/>
+A beolvadÃ¡ssal lÃ©trejÃ¶vÅ‘ Trendex InfokommunikÃ¡ciÃ³s ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (nyitÃ³) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai, Ã­gy kÃ¼lÃ¶nÃ¶sen a sajÃ¡t tÅ‘ke, illetve a jegyzett tÅ‘ke Ã¶sszege, valamint a mÃ©rlegfÅ‘Ã¶sszeg:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 283 481 SajÃ¡t tÅ‘ke 1 164 690<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 3 595 449 Jegyzett tÅ‘ke 386 700<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 16 280 CÃ©ltartalÃ©kok 60 400<ujsor/>
+KÃ¶telezettsÃ©gek 2 597 237<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 72 883<ujsor/>
+Ã–SSZESEN: 3 895 210 Ã–SSZESEN: 3 895 210<ujsor/>
+FelhÃ­vjuk a hitelezÅ‘k figyelmÃ©t, hogy a Gt. 76. Â§ (2) bekezdÃ©sÃ©ben foglalt jogaikkal Ã©lhetnek, illetÅ‘leg tÃ¡jÃ©koztatjuk a hitelezÅ‘ket, hogy a hirdetmÃ©nyi hatÃ¡ridÅ‘ alatt az esetleges kÃ¶vetelÃ©sÃ¼ket Ã©rintÅ‘ vagyonmegosztÃ¡si rendelkezÃ©sekrÅ‘l a Trendex InfokommunikÃ¡ciÃ³s Zrt., 1116 Budapest, BazÃ¡rda u. 38. szÃ¡m alatti szÃ©khelyÃ©n kaphatnak tÃ¡jÃ©koztatÃ¡st.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044603</mezo>
-<mezo id = "nev">TrendexCom Irodatechnika Szolgáltató Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">TrendexCom Irodatechnika SzolgÃ¡ltatÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1116 Budapest</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A TrendexCom Irodatechnikai Szolgáltató Zártkörûen Mûködõ Részvénytársaság (Cg.: [01 10 044603]; székhelye: 1116 Budapest, Barázda u. 38.) átalakul oly módon, hogy abba<ujsor/>
+<mezo id = "szoveg">A TrendexCom Irodatechnikai SzolgÃ¡ltatÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 044603]; szÃ©khelye: 1116 Budapest, BarÃ¡zda u. 38.) Ã¡talakul oly mÃ³don, hogy abba<ujsor/>
 beolvad<ujsor/>
-a Trendex Infokommunikációs Zártkörûen Mûködõ Részvénytársaság (Cg.: [01 10 043385]; székhelye: 1116 Budapest, Barázda u. 38.).<ujsor/>
-Az egyesülés módja: beolvadás.<ujsor/>
-A létrejövõ gazdasági társaság fõbb adatai:<ujsor/>
-Cégneve: Trendex Infokommunikációs Zártkörûen Mûködõ Részvénytársaság.<ujsor/>
-Formája: zártkörûen mûködõ részvénytársaság.<ujsor/>
-Székhelye: 1116 Budapest, Barázda u. 38.<ujsor/>
-Fõ tevékenysége (TEÁOR ’08): 4666 Egyéb irodagép, -berendezés nagykereskedelme.<ujsor/>
-Vezetõ tisztségviselõ: Rizó Mihály (1121 Budapest, Moha u. 7.).<ujsor/>
-A létrejövõ gazdasági társaság társasági szerzõdése megkötésének napja: 2008. június 30.<ujsor/>
-A befogadó TrendexCom Irodatechnikai Szolgáltató Zártkörûen Mûködõ Részvénytársaság (záró) vagyonmérleg-tervezetének legfontosabb adatai, így külünösen a saját tõke, illetve a jegyzett tõke összege, valamint a mérlegfõösszeg:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 7 724 Saját tõke 268 228<ujsor/>
-Forgóeszközök 324 527 Jegyzett tõke 100 000<ujsor/>
-Aktív idõbeli elhatárolások 142 Kötelezettségek 62 806<ujsor/>
-Passzív idõbeli elhatárolások 1 359<ujsor/>
-ÖSSZESEN: 332 393 ÖSSZESEN: 332 393<ujsor/>
-A beolvadó Trendex Infokommunikációs Zártkörûen Mûködõ Részvénytársaság (záró) vagyonmérleg-tervezetének legfontosabb adatai, így különösen a saját tõke, illetve a jegyzett tõke összege, valamint a mérlegfõösszeg:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 275 757 Saját tõke 896 462<ujsor/>
-Forgóeszközök 3 301 714 Jegyzett tõke 286 700<ujsor/>
-Aktív idõbeli elhatárolások 16 138 Céltartalékok 60 400<ujsor/>
-Kötelezettségek 2 565 223<ujsor/>
-Passzív idõbeli elhatárolások 71 524<ujsor/>
-ÖSSZESEN: 3 593 609 ÖSSZESEN: 3 593 609<ujsor/>
-A beolvadással létrejövõ Trendex Infokommunikációs Zártkörûen Mûködõ Részvénytársaság (nyitó) vagyonmérleg-tervezetének legfontosabb adatai, így különösen a saját tõke, illetve a jegyzett tõke összege, valamint a mérlegfõösszeg:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 283 481 Saját tõke 1 164 690<ujsor/>
-Forgóeszközök 3 595 449 Jegyzett tõke 386 700<ujsor/>
-Aktív idõbeli elhatárolások 16 280 Céltartalékok 60 400<ujsor/>
-Kötelezettségek 2 597 237<ujsor/>
-Passzív idõbeli elhatárolások 72 883<ujsor/>
-ÖSSZESEN: 3 895 210 ÖSSZESEN: 3 895 210<ujsor/>
-Felhívjuk a hitelezõk figyelmét, hogy a Gt. 76. § (2) bekezdésében foglalt jogaikkal élhetnek, illetõleg tájékoztatjuk a hitelezõket, hogy a hirdetményi határidõ alatt az esetleges követelésüket érintõ vagyonmegosztási rendelkezésekrõl a Trendex Infokommunikációs Zrt., 1116 Budapest, Barázda u. 38. szám alatti székhelyén kaphatnak tájékoztatást.<ujsor/>
-(Második közzététel.)<ujsor/>
+a Trendex InfokommunikÃ¡ciÃ³s ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 043385]; szÃ©khelye: 1116 Budapest, BarÃ¡zda u. 38.).<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: beolvadÃ¡s.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘bb adatai:<ujsor/>
+CÃ©gneve: Trendex InfokommunikÃ¡ciÃ³s ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+FormÃ¡ja: zÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ rÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 1116 Budapest, BarÃ¡zda u. 38.<ujsor/>
+FÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™08): 4666 EgyÃ©b irodagÃ©p, -berendezÃ©s nagykereskedelme.<ujsor/>
+VezetÅ‘ tisztsÃ©gviselÅ‘: RizÃ³ MihÃ¡ly (1121 Budapest, Moha u. 7.).<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g tÃ¡rsasÃ¡gi szerzÅ‘dÃ©se megkÃ¶tÃ©sÃ©nek napja: 2008. jÃºnius 30.<ujsor/>
+A befogadÃ³ TrendexCom Irodatechnikai SzolgÃ¡ltatÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (zÃ¡rÃ³) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai, Ã­gy kÃ¼lÃ¼nÃ¶sen a sajÃ¡t tÅ‘ke, illetve a jegyzett tÅ‘ke Ã¶sszege, valamint a mÃ©rlegfÅ‘Ã¶sszeg:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 7 724 SajÃ¡t tÅ‘ke 268 228<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 324 527 Jegyzett tÅ‘ke 100 000<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 142 KÃ¶telezettsÃ©gek 62 806<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 1 359<ujsor/>
+Ã–SSZESEN: 332 393 Ã–SSZESEN: 332 393<ujsor/>
+A beolvadÃ³ Trendex InfokommunikÃ¡ciÃ³s ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (zÃ¡rÃ³) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai, Ã­gy kÃ¼lÃ¶nÃ¶sen a sajÃ¡t tÅ‘ke, illetve a jegyzett tÅ‘ke Ã¶sszege, valamint a mÃ©rlegfÅ‘Ã¶sszeg:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 275 757 SajÃ¡t tÅ‘ke 896 462<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 3 301 714 Jegyzett tÅ‘ke 286 700<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 16 138 CÃ©ltartalÃ©kok 60 400<ujsor/>
+KÃ¶telezettsÃ©gek 2 565 223<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 71 524<ujsor/>
+Ã–SSZESEN: 3 593 609 Ã–SSZESEN: 3 593 609<ujsor/>
+A beolvadÃ¡ssal lÃ©trejÃ¶vÅ‘ Trendex InfokommunikÃ¡ciÃ³s ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (nyitÃ³) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai, Ã­gy kÃ¼lÃ¶nÃ¶sen a sajÃ¡t tÅ‘ke, illetve a jegyzett tÅ‘ke Ã¶sszege, valamint a mÃ©rlegfÅ‘Ã¶sszeg:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 283 481 SajÃ¡t tÅ‘ke 1 164 690<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 3 595 449 Jegyzett tÅ‘ke 386 700<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 16 280 CÃ©ltartalÃ©kok 60 400<ujsor/>
+KÃ¶telezettsÃ©gek 2 597 237<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 72 883<ujsor/>
+Ã–SSZESEN: 3 895 210 Ã–SSZESEN: 3 895 210<ujsor/>
+FelhÃ­vjuk a hitelezÅ‘k figyelmÃ©t, hogy a Gt. 76. Â§ (2) bekezdÃ©sÃ©ben foglalt jogaikkal Ã©lhetnek, illetÅ‘leg tÃ¡jÃ©koztatjuk a hitelezÅ‘ket, hogy a hirdetmÃ©nyi hatÃ¡ridÅ‘ alatt az esetleges kÃ¶vetelÃ©sÃ¼ket Ã©rintÅ‘ vagyonmegosztÃ¡si rendelkezÃ©sekrÅ‘l a Trendex InfokommunikÃ¡ciÃ³s Zrt., 1116 Budapest, BarÃ¡zda u. 38. szÃ¡m alatti szÃ©khelyÃ©n kaphatnak tÃ¡jÃ©koztatÃ¡st.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044603</mezo>
-<mezo id = "nev">TrendexCom Irodatechnika Szolgáltató Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">TrendexCom Irodatechnika SzolgÃ¡ltatÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1116 Budapest</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Bennington Korlátolt Felelõsségû Társaság (Cg.: [13 09 133228]; székhely: 2023 Dunabogdány, Fácános u. 6.) átalakul oly módon, hogy abba beolvad az ICT SYSTEMS Kereskedelmi és Szolgáltató Zártkörûen Mûködõ Részvénytársaság (Cg.: [01 10 044603]; székhelye: 1116 Budapest, Barázda u. 42.; társasági formája: zártkörûen mûködõ részvénytársaság).<ujsor/>
-A létrejövõ gazdasági társaság fõbb adatai:<ujsor/>
-Cégneve: ICT SYSTEMS Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhelye: 1116 Budapest, Barázda u. 42.<ujsor/>
-Társasági formája: korlátolt felelõsségû társaság.<ujsor/>
-Fõ tevékenysége (TEÁOR ’08): 4666 Egyéb irodagép, -berendezés nagykereskedelme.<ujsor/>
-Vezetõ tisztségviselõ: Roboz László (1145 Budapest, Amerikai út 96. II/3.).<ujsor/>
-Az átalakulás módja: beolvadás.<ujsor/>
-Az átalakulás napja: 2011. március 1.<ujsor/>
-A létrejövõ gazdasági társaság társasági szerzõdése megkötésének napja: 2010. október 18.<ujsor/>
-A beolvadó ICT SYSTEMS Zártkörûen Mûködõ Részvénytársaság (2010. szeptember 30.) záró vagyonmérleg-tervezetének (könyv szerinti értéken) legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 257 668 Saját tõke 665 051<ujsor/>
-Forgóeszközök 792 646 Jegyzett tõke 634 000<ujsor/>
-Aktív idõbeli elhatárolások 772 Eredménytartalék 31 051<ujsor/>
-Kötelezettségek 386 035<ujsor/>
-ÖSSZESEN: 1 051 086 ÖSSZESEN: 1 051 086<ujsor/>
-A befogadó Bennington Korlátolt Felelõsségû Társaság (2010. szeptember 30.) záró vagyonmérleg-tervezetének (könyv szerinti értéken) legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök Saját tõke 751 119<ujsor/>
-Forgóeszközök 1 100 204 Jegyzett tõke 500<ujsor/>
-Aktív idõbeli elhatárolások Eredménytartalék 750 619<ujsor/>
-Kötelezettségek 350 085<ujsor/>
-ÖSSZESEN: 1 100 204 ÖSSZESEN: 1 100 204<ujsor/>
-Az átalakulással létrejövõ ICT SYSTEMS Korlátolt Felelõsségû Társaság (2010. szeptember 30.) nyitó vagyonmérleg-tervezetének (könyv szerinti értéken) legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 257 668 Saját tõke 316 170<ujsor/>
-Forgóeszközök 793 850 Jegyzett tõke 20 000<ujsor/>
-Aktív idõbeli elhatárolások 772 Eredménytartalék 296 170<ujsor/>
-Kötelezettségek 736 120<ujsor/>
-ÖSSZESEN: 1 052 290 ÖSSZESEN: 1 052 290<ujsor/>
-Az egységnyi üzletrészre jutó saját tõke meghatározása:<ujsor/>
-ICT SYSTEMS Zrt. Bennington Kft. Különbözetek Rendezés ICT SYSTEMS<ujsor/>
-átalakulás elõtti társaság átvevõ társaság Kft. átalakulással létrejövõ társaság<ujsor/>
-Jegyzett tõke 634 000 E Ft 500 E Ft ­634 000 E Ft 19 500 E Ft 20 000 E Ft<ujsor/>
-Saját tõke 665 051 E Ft 751 119 E Ft ­1 100 000 E Ft 316 170 E Ft<ujsor/>
-100 000 Ft részvényre/ üzletrészre jutó saját tõke 104 897,63 Ft 150 223 800 Ft 1 580 850 Ft<ujsor/>
-A társaságok saját tõkéjének könyv szerinti értéke alapján meghatározott cserearányok: ICT SYSTEMS Kft. átalakulással létrejövõ kft. 20 000 000 Ft/500 000 Bennington Kft.<ujsor/>
-A Bennington Kft. tulajdonosait (átvevõ) 20 000 000 Ft névértékû üzletrész illeti meg az átalakulással létrejövõ ICT SYSTEMS Kft.-bõl.<ujsor/>
-A társaság felhívja a hitelezõk figyelmét, hogy a Gt. 76. § (2) bekezdésében foglalt jogaikkal élhetnek, melynek megfelelõen a társaság felhívja a hitelezõk figyelmét, hogy követeléseik erejéig terjedõ biztosíték nyújtása iránti követelésüket a közlemény második közzétételét követõ 30 napon belül jelenthetik be.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">A Bennington KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [13 09 133228]; szÃ©khely: 2023 DunabogdÃ¡ny, FÃ¡cÃ¡nos u. 6.) Ã¡talakul oly mÃ³don, hogy abba beolvad az ICT SYSTEMS Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 044603]; szÃ©khelye: 1116 Budapest, BarÃ¡zda u. 42.; tÃ¡rsasÃ¡gi formÃ¡ja: zÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ rÃ©szvÃ©nytÃ¡rsasÃ¡g).<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘bb adatai:<ujsor/>
+CÃ©gneve: ICT SYSTEMS KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 1116 Budapest, BarÃ¡zda u. 42.<ujsor/>
+TÃ¡rsasÃ¡gi formÃ¡ja: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+FÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™08): 4666 EgyÃ©b irodagÃ©p, -berendezÃ©s nagykereskedelme.<ujsor/>
+VezetÅ‘ tisztsÃ©gviselÅ‘: Roboz LÃ¡szlÃ³ (1145 Budapest, Amerikai Ãºt 96. II/3.).<ujsor/>
+Az Ã¡talakulÃ¡s mÃ³dja: beolvadÃ¡s.<ujsor/>
+Az Ã¡talakulÃ¡s napja: 2011. mÃ¡rcius 1.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g tÃ¡rsasÃ¡gi szerzÅ‘dÃ©se megkÃ¶tÃ©sÃ©nek napja: 2010. oktÃ³ber 18.<ujsor/>
+A beolvadÃ³ ICT SYSTEMS ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (2010. szeptember 30.) zÃ¡rÃ³ vagyonmÃ©rleg-tervezetÃ©nek (kÃ¶nyv szerinti Ã©rtÃ©ken) legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 257 668 SajÃ¡t tÅ‘ke 665 051<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 792 646 Jegyzett tÅ‘ke 634 000<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 772 EredmÃ©nytartalÃ©k 31 051<ujsor/>
+KÃ¶telezettsÃ©gek 386 035<ujsor/>
+Ã–SSZESEN: 1 051 086 Ã–SSZESEN: 1 051 086<ujsor/>
+A befogadÃ³ Bennington KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (2010. szeptember 30.) zÃ¡rÃ³ vagyonmÃ©rleg-tervezetÃ©nek (kÃ¶nyv szerinti Ã©rtÃ©ken) legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k SajÃ¡t tÅ‘ke 751 119<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 1 100 204 Jegyzett tÅ‘ke 500<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok EredmÃ©nytartalÃ©k 750 619<ujsor/>
+KÃ¶telezettsÃ©gek 350 085<ujsor/>
+Ã–SSZESEN: 1 100 204 Ã–SSZESEN: 1 100 204<ujsor/>
+Az Ã¡talakulÃ¡ssal lÃ©trejÃ¶vÅ‘ ICT SYSTEMS KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (2010. szeptember 30.) nyitÃ³ vagyonmÃ©rleg-tervezetÃ©nek (kÃ¶nyv szerinti Ã©rtÃ©ken) legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 257 668 SajÃ¡t tÅ‘ke 316 170<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 793 850 Jegyzett tÅ‘ke 20 000<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 772 EredmÃ©nytartalÃ©k 296 170<ujsor/>
+KÃ¶telezettsÃ©gek 736 120<ujsor/>
+Ã–SSZESEN: 1 052 290 Ã–SSZESEN: 1 052 290<ujsor/>
+Az egysÃ©gnyi Ã¼zletrÃ©szre jutÃ³ sajÃ¡t tÅ‘ke meghatÃ¡rozÃ¡sa:<ujsor/>
+ICT SYSTEMS Zrt. Bennington Kft. KÃ¼lÃ¶nbÃ¶zetek RendezÃ©s ICT SYSTEMS<ujsor/>
+Ã¡talakulÃ¡s elÅ‘tti tÃ¡rsasÃ¡g Ã¡tvevÅ‘ tÃ¡rsasÃ¡g Kft. Ã¡talakulÃ¡ssal lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g<ujsor/>
+Jegyzett tÅ‘ke 634 000 E Ft 500 E Ft Â­634 000 E Ft 19 500 E Ft 20 000 E Ft<ujsor/>
+SajÃ¡t tÅ‘ke 665 051 E Ft 751 119 E Ft Â­1 100 000 E Ft 316 170 E Ft<ujsor/>
+100 000 Ft rÃ©szvÃ©nyre/ Ã¼zletrÃ©szre jutÃ³ sajÃ¡t tÅ‘ke 104 897,63 Ft 150 223 800 Ft 1 580 850 Ft<ujsor/>
+A tÃ¡rsasÃ¡gok sajÃ¡t tÅ‘kÃ©jÃ©nek kÃ¶nyv szerinti Ã©rtÃ©ke alapjÃ¡n meghatÃ¡rozott cserearÃ¡nyok: ICT SYSTEMS Kft. Ã¡talakulÃ¡ssal lÃ©trejÃ¶vÅ‘ kft. 20 000 000 Ft/500 000 Bennington Kft.<ujsor/>
+A Bennington Kft. tulajdonosait (Ã¡tvevÅ‘) 20 000 000 Ft nÃ©vÃ©rtÃ©kÅ± Ã¼zletrÃ©sz illeti meg az Ã¡talakulÃ¡ssal lÃ©trejÃ¶vÅ‘ ICT SYSTEMS Kft.-bÅ‘l.<ujsor/>
+A tÃ¡rsasÃ¡g felhÃ­vja a hitelezÅ‘k figyelmÃ©t, hogy a Gt. 76. Â§ (2) bekezdÃ©sÃ©ben foglalt jogaikkal Ã©lhetnek, melynek megfelelÅ‘en a tÃ¡rsasÃ¡g felhÃ­vja a hitelezÅ‘k figyelmÃ©t, hogy kÃ¶vetelÃ©seik erejÃ©ig terjedÅ‘ biztosÃ­tÃ©k nyÃºjtÃ¡sa irÃ¡nti kÃ¶vetelÃ©sÃ¼ket a kÃ¶zlemÃ©ny mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ 30 napon belÃ¼l jelenthetik be.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044603</mezo>
-<mezo id = "nev">ICT SYSTEMS Kereskedelmi és Szolgáltató Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">ICT SYSTEMS Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1116 Budapest</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Bennington Korlátolt Felelõsségû Társaság (Cg.: [13 09 133228]; székhely: 2023 Dunabogdány, Fácános u. 6.) átalakul oly módon, hogy abba beolvad az ICT SYSTEMS Kereskedelmi és Szolgáltató Zártkörûen Mûködõ Részvénytársaság (Cg.: [01 10 044603]; székhelye: 1116 Budapest, Barázda u. 42.; társasági formája: zártkörûen mûködõ részvénytársaság).<ujsor/>
-A létrejövõ gazdasági társaság fõbb adatai:<ujsor/>
-Cégneve: ICT SYSTEMS Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhelye: 1116 Budapest, Barázda u. 42.<ujsor/>
-Társasági formája: korlátolt felelõsségû társaság.<ujsor/>
-Fõ tevékenysége (TEÁOR ’08): 4666 Egyéb irodagép, -berendezés nagykereskedelme.<ujsor/>
-Vezetõ tisztségviselõ: Roboz László (1145 Budapest, Amerikai út 96. II/3.).<ujsor/>
-Az átalakulás módja: beolvadás.<ujsor/>
-Az átalakulás napja: 2011. március 1.<ujsor/>
-A létrejövõ gazdasági társaság társasági szerzõdése megkötésének napja: 2010. október 18.<ujsor/>
-A beolvadó ICT SYSTEMS Zártkörûen Mûködõ Részvénytársaság (2010. szeptember 30.) záró vagyonmérleg-tervezetének (könyv szerinti értéken) legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 257 668 Saját tõke 665 051<ujsor/>
-Forgóeszközök 792 646 Jegyzett tõke 634 000<ujsor/>
-Aktív idõbeli elhatárolások 772 Eredménytartalék 31 051<ujsor/>
-Kötelezettségek 386 035<ujsor/>
-ÖSSZESEN: 1 051 086 ÖSSZESEN: 1 051 086<ujsor/>
-A befogadó Bennington Korlátolt Felelõsségû Társaság (2010. szeptember 30.) záró vagyonmérleg-tervezetének (könyv szerinti értéken) legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök Saját tõke 751 119<ujsor/>
-Forgóeszközök 1 100 204 Jegyzett tõke 500<ujsor/>
-Aktív idõbeli elhatárolások Eredménytartalék 750 619<ujsor/>
-Kötelezettségek 350 085<ujsor/>
-ÖSSZESEN: 1 100 204 ÖSSZESEN: 1 100 204<ujsor/>
-Az átalakulással létrejövõ ICT SYSTEMS Korlátolt Felelõsségû Társaság (2010. szeptember 30.) nyitó vagyonmérleg-tervezetének (könyv szerinti értéken) legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 257 668 Saját tõke 316 170<ujsor/>
-Forgóeszközök 793 850 Jegyzett tõke 20 000<ujsor/>
-Aktív idõbeli elhatárolások 772 Eredménytartalék 296 170<ujsor/>
-Kötelezettségek 736 120<ujsor/>
-ÖSSZESEN: 1 052 290 ÖSSZESEN: 1 052 290<ujsor/>
-Az egységnyi üzletrészre jutó saját tõke meghatározása:<ujsor/>
-ICT SYSTEMS Zrt. Bennington Kft. Különbözetek Rendezés ICT SYSTEMS<ujsor/>
-átalakulás elõtti társaság átvevõ társaság Kft. átalakulással létrejövõ társaság<ujsor/>
-Jegyzett tõke 634 000 E Ft 500 E Ft ­634 000 E Ft 19 500 E Ft 20 000 E Ft<ujsor/>
-Saját tõke 665 051 E Ft 751 119 E Ft ­1 100 000 E Ft 316 170 E Ft<ujsor/>
-100 000 Ft részvényre/ üzletrészre jutó saját tõke 104 897,63 Ft 150 223 800 Ft 1 580 850 Ft<ujsor/>
-A társaságok saját tõkéjének könyv szerinti értéke alapján meghatározott cserearányok:<ujsor/>
-ICT SYSTEMS Kft. átalakulással létrejövõ kft. 20 000 000 Ft/500 000 Bennington Kft.<ujsor/>
-A Bennington Kft. tulajdonosait (átvevõ) 20 000 000 Ft névértékû üzletrész illeti meg az átalakulással létrejövõ ICT SYSTEMS Kft.-bõl.<ujsor/>
-A társaság felhívja a hitelezõk figyelmét, hogy a Gt. 76. § (2) bekezdésében foglalt jogaikkal élhetnek, melynek megfelelõen a társaság felhívja a hitelezõk figyelmét, hogy követeléseik erejéig terjedõ biztosíték nyújtása iránti követelésüket a közlemény második közzétételét követõ 30 napon belül jelenthetik be.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">A Bennington KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [13 09 133228]; szÃ©khely: 2023 DunabogdÃ¡ny, FÃ¡cÃ¡nos u. 6.) Ã¡talakul oly mÃ³don, hogy abba beolvad az ICT SYSTEMS Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 044603]; szÃ©khelye: 1116 Budapest, BarÃ¡zda u. 42.; tÃ¡rsasÃ¡gi formÃ¡ja: zÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ rÃ©szvÃ©nytÃ¡rsasÃ¡g).<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘bb adatai:<ujsor/>
+CÃ©gneve: ICT SYSTEMS KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 1116 Budapest, BarÃ¡zda u. 42.<ujsor/>
+TÃ¡rsasÃ¡gi formÃ¡ja: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+FÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™08): 4666 EgyÃ©b irodagÃ©p, -berendezÃ©s nagykereskedelme.<ujsor/>
+VezetÅ‘ tisztsÃ©gviselÅ‘: Roboz LÃ¡szlÃ³ (1145 Budapest, Amerikai Ãºt 96. II/3.).<ujsor/>
+Az Ã¡talakulÃ¡s mÃ³dja: beolvadÃ¡s.<ujsor/>
+Az Ã¡talakulÃ¡s napja: 2011. mÃ¡rcius 1.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g tÃ¡rsasÃ¡gi szerzÅ‘dÃ©se megkÃ¶tÃ©sÃ©nek napja: 2010. oktÃ³ber 18.<ujsor/>
+A beolvadÃ³ ICT SYSTEMS ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (2010. szeptember 30.) zÃ¡rÃ³ vagyonmÃ©rleg-tervezetÃ©nek (kÃ¶nyv szerinti Ã©rtÃ©ken) legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 257 668 SajÃ¡t tÅ‘ke 665 051<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 792 646 Jegyzett tÅ‘ke 634 000<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 772 EredmÃ©nytartalÃ©k 31 051<ujsor/>
+KÃ¶telezettsÃ©gek 386 035<ujsor/>
+Ã–SSZESEN: 1 051 086 Ã–SSZESEN: 1 051 086<ujsor/>
+A befogadÃ³ Bennington KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (2010. szeptember 30.) zÃ¡rÃ³ vagyonmÃ©rleg-tervezetÃ©nek (kÃ¶nyv szerinti Ã©rtÃ©ken) legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k SajÃ¡t tÅ‘ke 751 119<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 1 100 204 Jegyzett tÅ‘ke 500<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok EredmÃ©nytartalÃ©k 750 619<ujsor/>
+KÃ¶telezettsÃ©gek 350 085<ujsor/>
+Ã–SSZESEN: 1 100 204 Ã–SSZESEN: 1 100 204<ujsor/>
+Az Ã¡talakulÃ¡ssal lÃ©trejÃ¶vÅ‘ ICT SYSTEMS KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (2010. szeptember 30.) nyitÃ³ vagyonmÃ©rleg-tervezetÃ©nek (kÃ¶nyv szerinti Ã©rtÃ©ken) legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 257 668 SajÃ¡t tÅ‘ke 316 170<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 793 850 Jegyzett tÅ‘ke 20 000<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 772 EredmÃ©nytartalÃ©k 296 170<ujsor/>
+KÃ¶telezettsÃ©gek 736 120<ujsor/>
+Ã–SSZESEN: 1 052 290 Ã–SSZESEN: 1 052 290<ujsor/>
+Az egysÃ©gnyi Ã¼zletrÃ©szre jutÃ³ sajÃ¡t tÅ‘ke meghatÃ¡rozÃ¡sa:<ujsor/>
+ICT SYSTEMS Zrt. Bennington Kft. KÃ¼lÃ¶nbÃ¶zetek RendezÃ©s ICT SYSTEMS<ujsor/>
+Ã¡talakulÃ¡s elÅ‘tti tÃ¡rsasÃ¡g Ã¡tvevÅ‘ tÃ¡rsasÃ¡g Kft. Ã¡talakulÃ¡ssal lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g<ujsor/>
+Jegyzett tÅ‘ke 634 000 E Ft 500 E Ft Â­634 000 E Ft 19 500 E Ft 20 000 E Ft<ujsor/>
+SajÃ¡t tÅ‘ke 665 051 E Ft 751 119 E Ft Â­1 100 000 E Ft 316 170 E Ft<ujsor/>
+100 000 Ft rÃ©szvÃ©nyre/ Ã¼zletrÃ©szre jutÃ³ sajÃ¡t tÅ‘ke 104 897,63 Ft 150 223 800 Ft 1 580 850 Ft<ujsor/>
+A tÃ¡rsasÃ¡gok sajÃ¡t tÅ‘kÃ©jÃ©nek kÃ¶nyv szerinti Ã©rtÃ©ke alapjÃ¡n meghatÃ¡rozott cserearÃ¡nyok:<ujsor/>
+ICT SYSTEMS Kft. Ã¡talakulÃ¡ssal lÃ©trejÃ¶vÅ‘ kft. 20 000 000 Ft/500 000 Bennington Kft.<ujsor/>
+A Bennington Kft. tulajdonosait (Ã¡tvevÅ‘) 20 000 000 Ft nÃ©vÃ©rtÃ©kÅ± Ã¼zletrÃ©sz illeti meg az Ã¡talakulÃ¡ssal lÃ©trejÃ¶vÅ‘ ICT SYSTEMS Kft.-bÅ‘l.<ujsor/>
+A tÃ¡rsasÃ¡g felhÃ­vja a hitelezÅ‘k figyelmÃ©t, hogy a Gt. 76. Â§ (2) bekezdÃ©sÃ©ben foglalt jogaikkal Ã©lhetnek, melynek megfelelÅ‘en a tÃ¡rsasÃ¡g felhÃ­vja a hitelezÅ‘k figyelmÃ©t, hogy kÃ¶vetelÃ©seik erejÃ©ig terjedÅ‘ biztosÃ­tÃ©k nyÃºjtÃ¡sa irÃ¡nti kÃ¶vetelÃ©sÃ¼ket a kÃ¶zlemÃ©ny mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ 30 napon belÃ¼l jelenthetik be.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044603</mezo>
-<mezo id = "nev">ICT SYSTEMS Kereskedelmi és Szolgáltató Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">ICT SYSTEMS Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1116 Budapest</mezo>
 </alrovat>
 </rovat>

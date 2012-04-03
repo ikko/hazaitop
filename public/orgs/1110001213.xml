@@ -6,7 +6,7 @@
 <mezo id = "szam">001213</mezo>
 <mezo id = "nevalrovat">3</mezo>
 <mezo id = "allapot">6</mezo>
-<mezo id = "cim">1075 Budapest, Asbóth utca 19 1. em.</mezo>
+<mezo id = "cim">1075 Budapest, AsbÃ³th utca 19 1. em.</mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">10417074211</mezo>
 </alrovat>
@@ -15,7 +15,7 @@
 <alrovat id = "4">
 <mezo id = "irsz">1075</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Asbóth</mezo>
+<mezo id = "teru">AsbÃ³th</mezo>
 <mezo id = "terj">utca</mezo>
 <mezo id = "hsz">19</mezo>
 <mezo id = "sznt">1</mezo>
@@ -26,12 +26,12 @@
 <alrovat id = "3">
 <mezo id = "hattol">19830608</mezo>
 <mezo id = "irsz">1075</mezo>
-<mezo id = "hely">Budapest Asbóth u. 19.</mezo>
+<mezo id = "hely">Budapest AsbÃ³th u. 19.</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">19971106</mezo>
 <mezo id = "irsz">4400</mezo>
-<mezo id = "hely">Nyíregyháza, Szent István út 1. I/3.</mezo>
+<mezo id = "hely">NyÃ­regyhÃ¡za, Szent IstvÃ¡n Ãºt 1. I/3.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "8">
@@ -217,15 +217,15 @@
 <rovat id = "13">
 <alrovat id = "19">
 <mezo id = "hattol">19960306</mezo>
-<mezo id = "nev">dr. Jenei Szabolcs elnök-igazgató</mezo>
+<mezo id = "nev">dr. Jenei Szabolcs elnÃ¶k-igazgatÃ³</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2083</mezo>
-<mezo id = "hely">Solymár</mezo>
-<mezo id = "teru">Árok u. 21.</mezo>
+<mezo id = "hely">SolymÃ¡r</mezo>
+<mezo id = "teru">Ãrok u. 21.</mezo>
 </alrovat>
 <alrovat id = "21">
 <mezo id = "hattol">19970402</mezo>
-<mezo id = "nev">Motyovszky István igazgatósági tag</mezo>
+<mezo id = "nev">Motyovszky IstvÃ¡n igazgatÃ³sÃ¡gi tag</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1054</mezo>
 <mezo id = "hely">Budapest</mezo>
@@ -233,25 +233,25 @@
 </alrovat>
 <alrovat id = "23">
 <mezo id = "hattol">19970528</mezo>
-<mezo id = "nev">Dr. Milancsik Sándor igazgatósági tag</mezo>
+<mezo id = "nev">Dr. Milancsik SÃ¡ndor igazgatÃ³sÃ¡gi tag</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1052</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Váci u. 11/b.</mezo>
+<mezo id = "teru">VÃ¡ci u. 11/b.</mezo>
 </alrovat>
 <alrovat id = "24">
 <mezo id = "hattol">19970528</mezo>
-<mezo id = "nev">Bereczky Gyula igazgatósági tag</mezo>
+<mezo id = "nev">Bereczky Gyula igazgatÃ³sÃ¡gi tag</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1137</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Szent István park 17.</mezo>
+<mezo id = "teru">Szent IstvÃ¡n park 17.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "14">
 <alrovat id = "4">
 <mezo id = "hattol">19970528</mezo>
-<mezo id = "nev">Vancsa Mária</mezo>
+<mezo id = "nev">Vancsa MÃ¡ria</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">4027</mezo>
 <mezo id = "hely">Debrecen, Csigekert 21/A.</mezo>
@@ -260,26 +260,26 @@
 <rovat id = "15">
 <alrovat id = "9">
 <mezo id = "hattol">19970528</mezo>
-<mezo id = "pnev">Dr. Kazinczy Gyõzõ FB-tag</mezo>
+<mezo id = "pnev">Dr. Kazinczy GyÅ‘zÅ‘ FB-tag</mezo>
 <mezo id = "pirsz">1054</mezo>
-<mezo id = "phely">Budapest, Kálmán Imre u. 10.</mezo>
+<mezo id = "phely">Budapest, KÃ¡lmÃ¡n Imre u. 10.</mezo>
 <mezo id = "pkorsz">HU</mezo>
 </alrovat>
 <alrovat id = "11">
 <mezo id = "hattol">19980807</mezo>
-<mezo id = "pnev">Rusai Károly</mezo>
-<mezo id = "panev">Szûcs Szabó Erzsébet</mezo>
+<mezo id = "pnev">Rusai KÃ¡roly</mezo>
+<mezo id = "panev">SzÅ±cs SzabÃ³ ErzsÃ©bet</mezo>
 <mezo id = "pirsz">1141</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Öv út</mezo>
+<mezo id = "pteru">Ã–v Ãºt</mezo>
 <mezo id = "phsz">52.</mezo>
 </alrovat>
 <alrovat id = "12">
 <mezo id = "hattol">19991112</mezo>
-<mezo id = "pnev">Dr. Dósa Zoltán</mezo>
+<mezo id = "pnev">Dr. DÃ³sa ZoltÃ¡n</mezo>
 <mezo id = "panev">Simon Gabriella</mezo>
 <mezo id = "pirsz">8100</mezo>
-<mezo id = "phely">Várpalota, Bakony utca 9.</mezo>
+<mezo id = "phely">VÃ¡rpalota, Bakony utca 9.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "93">
@@ -291,783 +291,783 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Mininvest Vagyonhasznosító Részvénytársaság (2800 Tatabánya, Ságvári E. u. 12.; cégjegyzékszám: [11 10 001213]) az 1996. évi CXI. tv. rendelkezései szerint a társaság részvényeit dematerializált értékpapírokká alakítják át.<ujsor/>
-A társaság igazgatósága ezúton hívja fel a társaság részvényeseit, hogy részvényeiket 6 hónapon belül a Mininvest Rt. alábbi telephelyén nyújtsák be: Mininvest Rt., 1051 Budapest, Arany János u. 25. I. em.<ujsor/>
-Az igazgatóság felhívja a részvényesek figyelmét, hogy a benyújtással egy idõben nevezzék meg azon értékpapír-számlavezetõt, amellyel értékpapír-számlaszerzõdést kötöttek.<ujsor/>
+<mezo id = "szoveg">A Mininvest VagyonhasznosÃ­tÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g (2800 TatabÃ¡nya, SÃ¡gvÃ¡ri E. u. 12.; cÃ©gjegyzÃ©kszÃ¡m: [11 10 001213]) az 1996. Ã©vi CXI. tv. rendelkezÃ©sei szerint a tÃ¡rsasÃ¡g rÃ©szvÃ©nyeit dematerializÃ¡lt Ã©rtÃ©kpapÃ­rokkÃ¡ alakÃ­tjÃ¡k Ã¡t.<ujsor/>
+A tÃ¡rsasÃ¡g igazgatÃ³sÃ¡ga ezÃºton hÃ­vja fel a tÃ¡rsasÃ¡g rÃ©szvÃ©nyeseit, hogy rÃ©szvÃ©nyeiket 6 hÃ³napon belÃ¼l a Mininvest Rt. alÃ¡bbi telephelyÃ©n nyÃºjtsÃ¡k be: Mininvest Rt., 1051 Budapest, Arany JÃ¡nos u. 25. I. em.<ujsor/>
+Az igazgatÃ³sÃ¡g felhÃ­vja a rÃ©szvÃ©nyesek figyelmÃ©t, hogy a benyÃºjtÃ¡ssal egy idÅ‘ben nevezzÃ©k meg azon Ã©rtÃ©kpapÃ­r-szÃ¡mlavezetÅ‘t, amellyel Ã©rtÃ©kpapÃ­r-szÃ¡mlaszerzÅ‘dÃ©st kÃ¶tÃ¶ttek.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110001213</mezo>
-<mezo id = "nev">MININVEST Vagyonhasznosító Részvénytársaság</mezo>
+<mezo id = "nev">MININVEST VagyonhasznosÃ­tÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Mininvest Vagyonhasznosító Részvénytársaság (rövidített név: Mininvest Rt.; székhely: 2800 Tatabánya, Ságvári E. u. 12.; cégjegyzékszám: [11 10 001213]) ezúton teszi közzé, hogy a közgyûlés 1998. december 21-én elhatározta, miszerint az 1997. évi CXLIV. tv. alapján,<ujsor/>
-kiválással<ujsor/>
-létrehozza az M-Invest Pénzügyi Vállalkozás Részvénytársaságot (székhely: 1075 Budapest, Asbóth u. 19.).<ujsor/>
-Mininvest Rt. (jogelõd társaság):<ujsor/>
+<mezo id = "szoveg">A Mininvest VagyonhasznosÃ­tÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g (rÃ¶vidÃ­tett nÃ©v: Mininvest Rt.; szÃ©khely: 2800 TatabÃ¡nya, SÃ¡gvÃ¡ri E. u. 12.; cÃ©gjegyzÃ©kszÃ¡m: [11 10 001213]) ezÃºton teszi kÃ¶zzÃ©, hogy a kÃ¶zgyÅ±lÃ©s 1998. december 21-Ã©n elhatÃ¡rozta, miszerint az 1997. Ã©vi CXLIV. tv. alapjÃ¡n,<ujsor/>
+kivÃ¡lÃ¡ssal<ujsor/>
+lÃ©trehozza az M-Invest PÃ©nzÃ¼gyi VÃ¡llalkozÃ¡s RÃ©szvÃ©nytÃ¡rsasÃ¡got (szÃ©khely: 1075 Budapest, AsbÃ³th u. 19.).<ujsor/>
+Mininvest Rt. (jogelÅ‘d tÃ¡rsasÃ¡g):<ujsor/>
    Adatok E Ft-ban<ujsor/>
-Sor- ESZKÖZÖK (aktívák) Elõzõ év Tárgyév<ujsor/>
-szám<ujsor/>
-01. A) Befektetett eszközök (02.+09.+16. sor) 23 608 21 858<ujsor/>
-02. I. Immateriális javak (03-08. sorok) 43 41<ujsor/>
-03. Vagyoni értékû jogok - 6<ujsor/>
-04. Üzleti vagy cégérték - -<ujsor/>
-05. Szellemi termékek 43 35<ujsor/>
-06. Kísérleti fejlesztés aktivált értéke - -<ujsor/>
-07. Alapítás-átszervezés aktivált értéke - -<ujsor/>
-08. Immateriális javak értékhelyesbítése - -<ujsor/>
-09. II. Tárgyi eszközök (10-15. sorok) 13 730 11 982<ujsor/>
+Sor- ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) ElÅ‘zÅ‘ Ã©v TÃ¡rgyÃ©v<ujsor/>
+szÃ¡m<ujsor/>
+01. A) Befektetett eszkÃ¶zÃ¶k (02.+09.+16. sor) 23 608 21 858<ujsor/>
+02. I. ImmateriÃ¡lis javak (03-08. sorok) 43 41<ujsor/>
+03. Vagyoni Ã©rtÃ©kÅ± jogok - 6<ujsor/>
+04. Ãœzleti vagy cÃ©gÃ©rtÃ©k - -<ujsor/>
+05. Szellemi termÃ©kek 43 35<ujsor/>
+06. KÃ­sÃ©rleti fejlesztÃ©s aktivÃ¡lt Ã©rtÃ©ke - -<ujsor/>
+07. AlapÃ­tÃ¡s-Ã¡tszervezÃ©s aktivÃ¡lt Ã©rtÃ©ke - -<ujsor/>
+08. ImmateriÃ¡lis javak Ã©rtÃ©khelyesbÃ­tÃ©se - -<ujsor/>
+09. II. TÃ¡rgyi eszkÃ¶zÃ¶k (10-15. sorok) 13 730 11 982<ujsor/>
 10. Ingatlanok 5 773 5 854<ujsor/>
-11. Mûszaki berendezések, gépek, jármûvek 158 1 651<ujsor/>
-12. Egyéb berendezések, felszerelések, jármûvek 135 331<ujsor/>
-13. Beruházások 2 877 -<ujsor/>
-14. Beruházásokra adott elõlegek - -<ujsor/>
-15. Tárgyi eszközök értékhelyesbítése 4 787 4 146<ujsor/>
-16. III. Befektetett pénzügyi eszközök (17-21. sorok) 9 835 9 835<ujsor/>
-17. Részesedések 9 835 9 835<ujsor/>
-18. Értékpapírok - -<ujsor/>
-19. Adott kölcsönök - -<ujsor/>
-20. Hosszú lejáratú bankbetétek - -<ujsor/>
-21. Befektetett pénzügyi eszközök értékhelyesbítése - -<ujsor/>
-22. B) Forgóeszközök (23.+30.+35.+39. sor) 50 641 45 097<ujsor/>
-23. I. Készletek (24-29. sorok) - -<ujsor/>
+11. MÅ±szaki berendezÃ©sek, gÃ©pek, jÃ¡rmÅ±vek 158 1 651<ujsor/>
+12. EgyÃ©b berendezÃ©sek, felszerelÃ©sek, jÃ¡rmÅ±vek 135 331<ujsor/>
+13. BeruhÃ¡zÃ¡sok 2 877 -<ujsor/>
+14. BeruhÃ¡zÃ¡sokra adott elÅ‘legek - -<ujsor/>
+15. TÃ¡rgyi eszkÃ¶zÃ¶k Ã©rtÃ©khelyesbÃ­tÃ©se 4 787 4 146<ujsor/>
+16. III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k (17-21. sorok) 9 835 9 835<ujsor/>
+17. RÃ©szesedÃ©sek 9 835 9 835<ujsor/>
+18. Ã‰rtÃ©kpapÃ­rok - -<ujsor/>
+19. Adott kÃ¶lcsÃ¶nÃ¶k - -<ujsor/>
+20. HosszÃº lejÃ¡ratÃº bankbetÃ©tek - -<ujsor/>
+21. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k Ã©rtÃ©khelyesbÃ­tÃ©se - -<ujsor/>
+22. B) ForgÃ³eszkÃ¶zÃ¶k (23.+30.+35.+39. sor) 50 641 45 097<ujsor/>
+23. I. KÃ©szletek (24-29. sorok) - -<ujsor/>
 24. Anyagok<ujsor/>
-25. Áruk<ujsor/>
-26. Készletekre adott elõlegek<ujsor/>
-27. Állatok<ujsor/>
-28. Befejezetlen termelés és félkész termékek<ujsor/>
-29. Késztermékek<ujsor/>
-30. II. Követelések (31-34. sorok) 39 284 44 603<ujsor/>
-31. Követelések áruszállításból és szolgáltatásokból (vevõk) 23 959 37 267<ujsor/>
-32. Váltókövetelések - -<ujsor/>
-33. Alapítókkal szembeni követelések - 2 747<ujsor/>
-34. Egyéb követelések 15 325 4 589<ujsor/>
-35. III. Értékpapírok (36-38. sorok) 8 650 -<ujsor/>
-36. Eladásra vásárolt kötvények - -<ujsor/>
-37. Saját részvények, üzletrészek, eladásra vásárolt részvények 8 650 -<ujsor/>
-38. Egyéb értékpapírok - -<ujsor/>
-39. IV. Pénzeszközök (40-41. sorok) 2 707 494<ujsor/>
-40. Pénztár, csekkek 12 66<ujsor/>
-41. Bankbetétek 2 695 428<ujsor/>
-42. C) Aktív idõbeli elhatárolások 45 8 513<ujsor/>
-43. ÖSSZESEN (01.+22.+42. sor): 74 294 75 468<ujsor/>
+25. Ãruk<ujsor/>
+26. KÃ©szletekre adott elÅ‘legek<ujsor/>
+27. Ãllatok<ujsor/>
+28. Befejezetlen termelÃ©s Ã©s fÃ©lkÃ©sz termÃ©kek<ujsor/>
+29. KÃ©sztermÃ©kek<ujsor/>
+30. II. KÃ¶vetelÃ©sek (31-34. sorok) 39 284 44 603<ujsor/>
+31. KÃ¶vetelÃ©sek Ã¡ruszÃ¡llÃ­tÃ¡sbÃ³l Ã©s szolgÃ¡ltatÃ¡sokbÃ³l (vevÅ‘k) 23 959 37 267<ujsor/>
+32. VÃ¡ltÃ³kÃ¶vetelÃ©sek - -<ujsor/>
+33. AlapÃ­tÃ³kkal szembeni kÃ¶vetelÃ©sek - 2 747<ujsor/>
+34. EgyÃ©b kÃ¶vetelÃ©sek 15 325 4 589<ujsor/>
+35. III. Ã‰rtÃ©kpapÃ­rok (36-38. sorok) 8 650 -<ujsor/>
+36. EladÃ¡sra vÃ¡sÃ¡rolt kÃ¶tvÃ©nyek - -<ujsor/>
+37. SajÃ¡t rÃ©szvÃ©nyek, Ã¼zletrÃ©szek, eladÃ¡sra vÃ¡sÃ¡rolt rÃ©szvÃ©nyek 8 650 -<ujsor/>
+38. EgyÃ©b Ã©rtÃ©kpapÃ­rok - -<ujsor/>
+39. IV. PÃ©nzeszkÃ¶zÃ¶k (40-41. sorok) 2 707 494<ujsor/>
+40. PÃ©nztÃ¡r, csekkek 12 66<ujsor/>
+41. BankbetÃ©tek 2 695 428<ujsor/>
+42. C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 45 8 513<ujsor/>
+43. Ã–SSZESEN (01.+22.+42. sor): 74 294 75 468<ujsor/>
    Adatok E Ft-ban<ujsor/>
-Sor- FORRÁSOK (passzívák) Elõzõ év Tárgyév<ujsor/>
-szám<ujsor/>
-44. D) Saját tõke (45.+49.+50.+51.+52.+53. sor) 54 041 54 764<ujsor/>
-45. I. Jegyzett tõke 51 004 51 004<ujsor/>
-46. 45. sorból: a) visszavásárolt tulajdonosi részesedés névértéken 9 020 -<ujsor/>
-47. b) cégbíróságon még be nem jegyzett - tõkeemelés 5 494 -<ujsor/>
-48.  - tõkeleszállítás - -<ujsor/>
-49. II. Jegyzett, de még be nem fizetett tõke (-) - -<ujsor/>
-50. III. Tõketartalék 141 141<ujsor/>
-51. IV. Eredménytartalék 160 1 891<ujsor/>
-52. V. Értékelési tartalék 4 787 4 146<ujsor/>
-53. VI. Mérleg szerinti eredmény -2 051 1 364<ujsor/>
-54. E) Céltartalékok (55-57. sorok) - -<ujsor/>
-55. 1. Céltartalék a várható veszteségekre - -<ujsor/>
-56. 2. Céltartalék a várható kötelezettségekre - -<ujsor/>
-57. 3. Egyéb céltartalék - -<ujsor/>
-58. F) Kötelezettségek (59.+66. sor) 19 254 18 623<ujsor/>
-59. I. Hosszú lejáratú kötelezettségek (60-65. sorok) - -<ujsor/>
-60. Beruházási és fejlesztési hitelek<ujsor/>
-61. Egyéb hosszú lejáratú hitelek<ujsor/>
-62. Hosszú lejáratra kapott kölcsönök<ujsor/>
-63. Tartozások kötvénykibocsátásból<ujsor/>
-64. Alapítókkal szembeni kötelezettségek<ujsor/>
-65. Egyéb hosszú lejáratú kötelezettségek<ujsor/>
-66. II. Rövid lejáratú kötelezettségek (67-72. sorok) 19 254 18 623<ujsor/>
-67. Vevõtõl kapott elõlegek - -<ujsor/>
-68. Kötelezettségek áruszállításból és szolgáltatásból (szállítók) 2 986 7 024<ujsor/>
-69. Váltótartozások - -<ujsor/>
-70. Rövid lejáratú hitelek 7 000 5 813<ujsor/>
-71. Rövid lejáratú kölcsönök 1 176 698<ujsor/>
-72. Egyéb rövid lejáratú kötelezettségek 8 092 5 088<ujsor/>
-73. G) Passzív idõbeli elhatárolások 999 2 081<ujsor/>
-74. ÖSSZESEN (44.+54.+58.+73. sor): 74 294 75 468<ujsor/>
-Az alapító okirat módosításának kelte: 1998. december 21.<ujsor/>
-A Mininvest Rt. cégjegyzékben feltüntetett adataiban - a cég jegyzett tõkéjét, saját tõkéjét kivéve - változás nem történt.<ujsor/>
-A Mininvest Rt. tervezett nyitómérlege az M-Invest Rt. kiválása után:<ujsor/>
+Sor- FORRÃSOK (passzÃ­vÃ¡k) ElÅ‘zÅ‘ Ã©v TÃ¡rgyÃ©v<ujsor/>
+szÃ¡m<ujsor/>
+44. D) SajÃ¡t tÅ‘ke (45.+49.+50.+51.+52.+53. sor) 54 041 54 764<ujsor/>
+45. I. Jegyzett tÅ‘ke 51 004 51 004<ujsor/>
+46. 45. sorbÃ³l: a) visszavÃ¡sÃ¡rolt tulajdonosi rÃ©szesedÃ©s nÃ©vÃ©rtÃ©ken 9 020 -<ujsor/>
+47. b) cÃ©gbÃ­rÃ³sÃ¡gon mÃ©g be nem jegyzett - tÅ‘keemelÃ©s 5 494 -<ujsor/>
+48.  - tÅ‘keleszÃ¡llÃ­tÃ¡s - -<ujsor/>
+49. II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke (-) - -<ujsor/>
+50. III. TÅ‘ketartalÃ©k 141 141<ujsor/>
+51. IV. EredmÃ©nytartalÃ©k 160 1 891<ujsor/>
+52. V. Ã‰rtÃ©kelÃ©si tartalÃ©k 4 787 4 146<ujsor/>
+53. VI. MÃ©rleg szerinti eredmÃ©ny -2 051 1 364<ujsor/>
+54. E) CÃ©ltartalÃ©kok (55-57. sorok) - -<ujsor/>
+55. 1. CÃ©ltartalÃ©k a vÃ¡rhatÃ³ vesztesÃ©gekre - -<ujsor/>
+56. 2. CÃ©ltartalÃ©k a vÃ¡rhatÃ³ kÃ¶telezettsÃ©gekre - -<ujsor/>
+57. 3. EgyÃ©b cÃ©ltartalÃ©k - -<ujsor/>
+58. F) KÃ¶telezettsÃ©gek (59.+66. sor) 19 254 18 623<ujsor/>
+59. I. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek (60-65. sorok) - -<ujsor/>
+60. BeruhÃ¡zÃ¡si Ã©s fejlesztÃ©si hitelek<ujsor/>
+61. EgyÃ©b hosszÃº lejÃ¡ratÃº hitelek<ujsor/>
+62. HosszÃº lejÃ¡ratra kapott kÃ¶lcsÃ¶nÃ¶k<ujsor/>
+63. TartozÃ¡sok kÃ¶tvÃ©nykibocsÃ¡tÃ¡sbÃ³l<ujsor/>
+64. AlapÃ­tÃ³kkal szembeni kÃ¶telezettsÃ©gek<ujsor/>
+65. EgyÃ©b hosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek<ujsor/>
+66. II. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek (67-72. sorok) 19 254 18 623<ujsor/>
+67. VevÅ‘tÅ‘l kapott elÅ‘legek - -<ujsor/>
+68. KÃ¶telezettsÃ©gek Ã¡ruszÃ¡llÃ­tÃ¡sbÃ³l Ã©s szolgÃ¡ltatÃ¡sbÃ³l (szÃ¡llÃ­tÃ³k) 2 986 7 024<ujsor/>
+69. VÃ¡ltÃ³tartozÃ¡sok - -<ujsor/>
+70. RÃ¶vid lejÃ¡ratÃº hitelek 7 000 5 813<ujsor/>
+71. RÃ¶vid lejÃ¡ratÃº kÃ¶lcsÃ¶nÃ¶k 1 176 698<ujsor/>
+72. EgyÃ©b rÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 8 092 5 088<ujsor/>
+73. G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 999 2 081<ujsor/>
+74. Ã–SSZESEN (44.+54.+58.+73. sor): 74 294 75 468<ujsor/>
+Az alapÃ­tÃ³ okirat mÃ³dosÃ­tÃ¡sÃ¡nak kelte: 1998. december 21.<ujsor/>
+A Mininvest Rt. cÃ©gjegyzÃ©kben feltÃ¼ntetett adataiban - a cÃ©g jegyzett tÅ‘kÃ©jÃ©t, sajÃ¡t tÅ‘kÃ©jÃ©t kivÃ©ve - vÃ¡ltozÃ¡s nem tÃ¶rtÃ©nt.<ujsor/>
+A Mininvest Rt. tervezett nyitÃ³mÃ©rlege az M-Invest Rt. kivÃ¡lÃ¡sa utÃ¡n:<ujsor/>
     Adatok E Ft-ban<ujsor/>
-Sor- ESZKÖZÖK (aktívák) 1998. dec. 31. A kiváló 1999. január 1.<ujsor/>
-szám  Mininvest társaság Mininvest<ujsor/>
-  eredeti adatai nyitó<ujsor/>
-01. A) Befektetett eszközök (02.+09.+16.) 21 858 1 508 20 350<ujsor/>
-02. I. Immateriális javak (03.+08.) 41 35 6<ujsor/>
-03. Vagyoni értékû jogok 6  6<ujsor/>
-04. Üzleti vagy cégérték<ujsor/>
-05. Szellemi termékek 35 35 0<ujsor/>
-06. Kísérleti fejlesztés aktivált értéke<ujsor/>
-07. Alapítás-átszervezés aktivált értéke<ujsor/>
-08. Immateriális javak értékhelyesbítése<ujsor/>
-09. II. Tárgyi eszközök (10.+11.+12.+13.+14.+15.) 11 982 1 473 10 509<ujsor/>
+Sor- ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) 1998. dec. 31. A kivÃ¡lÃ³ 1999. januÃ¡r 1.<ujsor/>
+szÃ¡m  Mininvest tÃ¡rsasÃ¡g Mininvest<ujsor/>
+  eredeti adatai nyitÃ³<ujsor/>
+01. A) Befektetett eszkÃ¶zÃ¶k (02.+09.+16.) 21 858 1 508 20 350<ujsor/>
+02. I. ImmateriÃ¡lis javak (03.+08.) 41 35 6<ujsor/>
+03. Vagyoni Ã©rtÃ©kÅ± jogok 6  6<ujsor/>
+04. Ãœzleti vagy cÃ©gÃ©rtÃ©k<ujsor/>
+05. Szellemi termÃ©kek 35 35 0<ujsor/>
+06. KÃ­sÃ©rleti fejlesztÃ©s aktivÃ¡lt Ã©rtÃ©ke<ujsor/>
+07. AlapÃ­tÃ¡s-Ã¡tszervezÃ©s aktivÃ¡lt Ã©rtÃ©ke<ujsor/>
+08. ImmateriÃ¡lis javak Ã©rtÃ©khelyesbÃ­tÃ©se<ujsor/>
+09. II. TÃ¡rgyi eszkÃ¶zÃ¶k (10.+11.+12.+13.+14.+15.) 11 982 1 473 10 509<ujsor/>
 10. Ingatlanok 5 854  5 854<ujsor/>
-11. Mûszaki berendezések, gépek, jármûvek 1 651 1 142 509<ujsor/>
-12. Egyéb berendezések, felszerelések 331 331 0<ujsor/>
-13. Beruházások<ujsor/>
-14. Beruházásokra adott elõlegek<ujsor/>
-15. Tárgyi eszközök értékhelyesbítése 4 146  4 146<ujsor/>
-16. III. Befektetett pénzügyi eszközök (17.+21.) 9 835 0 9 835<ujsor/>
-17. Részesedések 9 835  9 835<ujsor/>
-18. Értékpapírok<ujsor/>
-19. Adott kölcsönök<ujsor/>
-20. Hosszú lejáratú bankbetétek<ujsor/>
-21. Befektetett pénzügyi eszközök értékhelyesbítése<ujsor/>
+11. MÅ±szaki berendezÃ©sek, gÃ©pek, jÃ¡rmÅ±vek 1 651 1 142 509<ujsor/>
+12. EgyÃ©b berendezÃ©sek, felszerelÃ©sek 331 331 0<ujsor/>
+13. BeruhÃ¡zÃ¡sok<ujsor/>
+14. BeruhÃ¡zÃ¡sokra adott elÅ‘legek<ujsor/>
+15. TÃ¡rgyi eszkÃ¶zÃ¶k Ã©rtÃ©khelyesbÃ­tÃ©se 4 146  4 146<ujsor/>
+16. III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k (17.+21.) 9 835 0 9 835<ujsor/>
+17. RÃ©szesedÃ©sek 9 835  9 835<ujsor/>
+18. Ã‰rtÃ©kpapÃ­rok<ujsor/>
+19. Adott kÃ¶lcsÃ¶nÃ¶k<ujsor/>
+20. HosszÃº lejÃ¡ratÃº bankbetÃ©tek<ujsor/>
+21. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k Ã©rtÃ©khelyesbÃ­tÃ©se<ujsor/>
     Adatok E Ft-ban<ujsor/>
-Sor- ESZKÖZÖK (aktívák) 1998. dec. 31. A kiváló 1999. január 1.<ujsor/>
-szám  Mininvest társaság Mininvest<ujsor/>
-  eredeti adatai nyitó<ujsor/>
-22. B) Forgóeszközök (23.+30.+36.+40.) 45 097 11 000 34 097<ujsor/>
-23. I. Készletek (24.+25.+26.+27.+28.+29.) 0 0 0<ujsor/>
+Sor- ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) 1998. dec. 31. A kivÃ¡lÃ³ 1999. januÃ¡r 1.<ujsor/>
+szÃ¡m  Mininvest tÃ¡rsasÃ¡g Mininvest<ujsor/>
+  eredeti adatai nyitÃ³<ujsor/>
+22. B) ForgÃ³eszkÃ¶zÃ¶k (23.+30.+36.+40.) 45 097 11 000 34 097<ujsor/>
+23. I. KÃ©szletek (24.+25.+26.+27.+28.+29.) 0 0 0<ujsor/>
 24. Anyagok<ujsor/>
-25. Áruk<ujsor/>
-26. Készletekre adott elõlegek<ujsor/>
-27. Állatok<ujsor/>
-28. Befejezetlen termelés és félkész termékek<ujsor/>
-29. Késztermékek<ujsor/>
-30. II. Követelések (31.+32.+33.+34.+35.) 44 603 11 000 33 603<ujsor/>
-31. Vevõk 37 267 11 000 26 267<ujsor/>
-32. Váltókövetelések<ujsor/>
-33. Alapítókkal szembeni követelések 2 747  2 747<ujsor/>
-34. Egyéb követelések 4 589  4 589<ujsor/>
-35. III. Értékpapírok (37.+38.+39.) 0 0 0<ujsor/>
-36. Eladásra vásárolt kötvények<ujsor/>
-37. Saját részvények, üzletrészek, eladásra vásárolt részvények<ujsor/>
-38. Egyéb értékpapírok<ujsor/>
-39. IV. Pénzeszközök (41.+42.) 494 0 494<ujsor/>
-40. Pénztár, csekk 66  66<ujsor/>
-41. Bankbetétek 428  428<ujsor/>
-42. C) Aktív idõbeli elhatárolások 8 513 7 500 1 013<ujsor/>
-43. ÖSSZESEN (01.+22.+43.): 75 468 20 008 55 460<ujsor/>
+25. Ãruk<ujsor/>
+26. KÃ©szletekre adott elÅ‘legek<ujsor/>
+27. Ãllatok<ujsor/>
+28. Befejezetlen termelÃ©s Ã©s fÃ©lkÃ©sz termÃ©kek<ujsor/>
+29. KÃ©sztermÃ©kek<ujsor/>
+30. II. KÃ¶vetelÃ©sek (31.+32.+33.+34.+35.) 44 603 11 000 33 603<ujsor/>
+31. VevÅ‘k 37 267 11 000 26 267<ujsor/>
+32. VÃ¡ltÃ³kÃ¶vetelÃ©sek<ujsor/>
+33. AlapÃ­tÃ³kkal szembeni kÃ¶vetelÃ©sek 2 747  2 747<ujsor/>
+34. EgyÃ©b kÃ¶vetelÃ©sek 4 589  4 589<ujsor/>
+35. III. Ã‰rtÃ©kpapÃ­rok (37.+38.+39.) 0 0 0<ujsor/>
+36. EladÃ¡sra vÃ¡sÃ¡rolt kÃ¶tvÃ©nyek<ujsor/>
+37. SajÃ¡t rÃ©szvÃ©nyek, Ã¼zletrÃ©szek, eladÃ¡sra vÃ¡sÃ¡rolt rÃ©szvÃ©nyek<ujsor/>
+38. EgyÃ©b Ã©rtÃ©kpapÃ­rok<ujsor/>
+39. IV. PÃ©nzeszkÃ¶zÃ¶k (41.+42.) 494 0 494<ujsor/>
+40. PÃ©nztÃ¡r, csekk 66  66<ujsor/>
+41. BankbetÃ©tek 428  428<ujsor/>
+42. C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 8 513 7 500 1 013<ujsor/>
+43. Ã–SSZESEN (01.+22.+43.): 75 468 20 008 55 460<ujsor/>
     Adatok E Ft-ban<ujsor/>
-Sor- FORRÁSOK (passzívák) 1998. dec. 31. A kiváló 1999. január 1.<ujsor/>
-szám  Mininvest társaság Mininvest<ujsor/>
-  eredeti adatai nyitó<ujsor/>
-44. D) Saját tõke (46.+47.+48.+49.+50.+51.) 54 764 20 008 34 756<ujsor/>
-45. I. Jegyzett tõke 51 004 20 008 30 996<ujsor/>
-46. 45. sorból: a) visszavásárolt tulajdonosi részesedés névértéken<ujsor/>
-47. b) cégbíróságon még be nem jegyzett - tõkeemelés<ujsor/>
-48. - tõkeleszállítás<ujsor/>
-49. II. Jegyzett, de még be nem fizetett tõke (-)<ujsor/>
-50. III. Tõketartalék 141  141<ujsor/>
-51. IV. Eredménytartalék -1 891  -1 891<ujsor/>
-52. V. Értékelési tartalék 4 146  4 146<ujsor/>
-53. VI. Mérleg szerinti eredmény 1 364  1 364<ujsor/>
-54. E) Céltartalékok (53.+54.+55.) 0 0 0<ujsor/>
-55. Céltartalék várható veszteségekre<ujsor/>
-56. Céltartalék várható kötelezettségekre<ujsor/>
-57. Egyéb céltartalék<ujsor/>
-58. F) Kötelezettségek (57.+64.) 18 623 0 18 623<ujsor/>
-59. I. Hosszú lejáratú kötelezettségek (58.+59.+60.+61.+62.+63.) 0 0 0<ujsor/>
-60. Beruházási és fejlesztési hitelek<ujsor/>
-61. Egyéb hosszú lejáratú hitelek<ujsor/>
-62. Hosszú lejáratra kapott kölcsönök<ujsor/>
-63. Tartozások kötvénykibocsátásból<ujsor/>
-64. Alapítókkal szembeni kötelezettségek<ujsor/>
-65. Egyéb hosszú lejáratú kötelezettségek<ujsor/>
-66. II. Rövid lejáratú kötelezettségek (65.+66.+67.+68.+69.+72.) 18 623 0 18 623<ujsor/>
-67. Vevõtõl kapott elõlegek<ujsor/>
-68. Szállítók 7 024  7 024<ujsor/>
-69. Váltótartozások<ujsor/>
-70. Rövid lejáratú hitelek 5 813  5 813<ujsor/>
-71. Rövid lejáratú kölcsönök 698  698<ujsor/>
-72. Egyéb rövid lejáratú kötelezettségek 5 088  5 088<ujsor/>
-73. G) Passzív idõbeli elhatárolások 2 081  2 081<ujsor/>
-74. ÖSSZESEN (45.+52.+56.+71.): 75 468 20 008 55 460<ujsor/>
-Alapító okiratának kelte: 1998. december 21.<ujsor/>
-Tevékenységi köre (TEÁOR): 6521 Pénzügyi lízing.<ujsor/>
-M-Invest Rt. szétválási vagyonmérleg-tervezete (1999. január 1.):<ujsor/>
+Sor- FORRÃSOK (passzÃ­vÃ¡k) 1998. dec. 31. A kivÃ¡lÃ³ 1999. januÃ¡r 1.<ujsor/>
+szÃ¡m  Mininvest tÃ¡rsasÃ¡g Mininvest<ujsor/>
+  eredeti adatai nyitÃ³<ujsor/>
+44. D) SajÃ¡t tÅ‘ke (46.+47.+48.+49.+50.+51.) 54 764 20 008 34 756<ujsor/>
+45. I. Jegyzett tÅ‘ke 51 004 20 008 30 996<ujsor/>
+46. 45. sorbÃ³l: a) visszavÃ¡sÃ¡rolt tulajdonosi rÃ©szesedÃ©s nÃ©vÃ©rtÃ©ken<ujsor/>
+47. b) cÃ©gbÃ­rÃ³sÃ¡gon mÃ©g be nem jegyzett - tÅ‘keemelÃ©s<ujsor/>
+48. - tÅ‘keleszÃ¡llÃ­tÃ¡s<ujsor/>
+49. II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke (-)<ujsor/>
+50. III. TÅ‘ketartalÃ©k 141  141<ujsor/>
+51. IV. EredmÃ©nytartalÃ©k -1 891  -1 891<ujsor/>
+52. V. Ã‰rtÃ©kelÃ©si tartalÃ©k 4 146  4 146<ujsor/>
+53. VI. MÃ©rleg szerinti eredmÃ©ny 1 364  1 364<ujsor/>
+54. E) CÃ©ltartalÃ©kok (53.+54.+55.) 0 0 0<ujsor/>
+55. CÃ©ltartalÃ©k vÃ¡rhatÃ³ vesztesÃ©gekre<ujsor/>
+56. CÃ©ltartalÃ©k vÃ¡rhatÃ³ kÃ¶telezettsÃ©gekre<ujsor/>
+57. EgyÃ©b cÃ©ltartalÃ©k<ujsor/>
+58. F) KÃ¶telezettsÃ©gek (57.+64.) 18 623 0 18 623<ujsor/>
+59. I. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek (58.+59.+60.+61.+62.+63.) 0 0 0<ujsor/>
+60. BeruhÃ¡zÃ¡si Ã©s fejlesztÃ©si hitelek<ujsor/>
+61. EgyÃ©b hosszÃº lejÃ¡ratÃº hitelek<ujsor/>
+62. HosszÃº lejÃ¡ratra kapott kÃ¶lcsÃ¶nÃ¶k<ujsor/>
+63. TartozÃ¡sok kÃ¶tvÃ©nykibocsÃ¡tÃ¡sbÃ³l<ujsor/>
+64. AlapÃ­tÃ³kkal szembeni kÃ¶telezettsÃ©gek<ujsor/>
+65. EgyÃ©b hosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek<ujsor/>
+66. II. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek (65.+66.+67.+68.+69.+72.) 18 623 0 18 623<ujsor/>
+67. VevÅ‘tÅ‘l kapott elÅ‘legek<ujsor/>
+68. SzÃ¡llÃ­tÃ³k 7 024  7 024<ujsor/>
+69. VÃ¡ltÃ³tartozÃ¡sok<ujsor/>
+70. RÃ¶vid lejÃ¡ratÃº hitelek 5 813  5 813<ujsor/>
+71. RÃ¶vid lejÃ¡ratÃº kÃ¶lcsÃ¶nÃ¶k 698  698<ujsor/>
+72. EgyÃ©b rÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 5 088  5 088<ujsor/>
+73. G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 2 081  2 081<ujsor/>
+74. Ã–SSZESEN (45.+52.+56.+71.): 75 468 20 008 55 460<ujsor/>
+AlapÃ­tÃ³ okiratÃ¡nak kelte: 1998. december 21.<ujsor/>
+TevÃ©kenysÃ©gi kÃ¶re (TEÃOR): 6521 PÃ©nzÃ¼gyi lÃ­zing.<ujsor/>
+M-Invest Rt. szÃ©tvÃ¡lÃ¡si vagyonmÃ©rleg-tervezete (1999. januÃ¡r 1.):<ujsor/>
    Adatok E Ft-ban<ujsor/>
-Sor- ESZKÖZÖK (aktívák) 1991. január 1. 1991. január 1.<ujsor/>
-szám  M-Invest eredeti M-Invest átértékelt<ujsor/>
-01. A) Befektetett eszközök (02.+09.+16.) 1 508 1 508<ujsor/>
-02. I. Immateriális javak (03-08.) 35 35<ujsor/>
-03. Vagyoni értékû jogok<ujsor/>
-04. Üzleti vagy cégérték<ujsor/>
-05. Szellemi termékek 35 35<ujsor/>
-06. Kísérleti fejlesztés aktivált értéke<ujsor/>
-07. Alapítás-átszervezés aktivált értéke<ujsor/>
-08. Immateriális javak értékhelyesbítése<ujsor/>
-09. II. Tárgyi eszközök (10.+11.+12.+13.+14.+15.) 1 473 1 473<ujsor/>
+Sor- ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) 1991. januÃ¡r 1. 1991. januÃ¡r 1.<ujsor/>
+szÃ¡m  M-Invest eredeti M-Invest Ã¡tÃ©rtÃ©kelt<ujsor/>
+01. A) Befektetett eszkÃ¶zÃ¶k (02.+09.+16.) 1 508 1 508<ujsor/>
+02. I. ImmateriÃ¡lis javak (03-08.) 35 35<ujsor/>
+03. Vagyoni Ã©rtÃ©kÅ± jogok<ujsor/>
+04. Ãœzleti vagy cÃ©gÃ©rtÃ©k<ujsor/>
+05. Szellemi termÃ©kek 35 35<ujsor/>
+06. KÃ­sÃ©rleti fejlesztÃ©s aktivÃ¡lt Ã©rtÃ©ke<ujsor/>
+07. AlapÃ­tÃ¡s-Ã¡tszervezÃ©s aktivÃ¡lt Ã©rtÃ©ke<ujsor/>
+08. ImmateriÃ¡lis javak Ã©rtÃ©khelyesbÃ­tÃ©se<ujsor/>
+09. II. TÃ¡rgyi eszkÃ¶zÃ¶k (10.+11.+12.+13.+14.+15.) 1 473 1 473<ujsor/>
 10. Ingatlanok<ujsor/>
-11. Mûszaki berendezések, gépek, jármûvek 1 142 1 142<ujsor/>
-12. Egyéb berendezések, felszerelések, jármûvek 331 331<ujsor/>
-13. Beruházások<ujsor/>
-14. Beruházásokra adott elõlegek<ujsor/>
-15. Tárgyi eszközök értékhelyesbítése<ujsor/>
-16. III. Befektetett pénzügyi eszközök (17.+21.) 0 0<ujsor/>
-17. Részesedések<ujsor/>
-18. Értékpapírok<ujsor/>
-19. Adott kölcsönök<ujsor/>
-20. Hosszú lejáratú bankbetétek<ujsor/>
-21. Befektetett pénzügyi eszközök értékhelyesbítése<ujsor/>
-22. B) Forgóeszközök (23.+30.+36.+40.) 18 500 18 500<ujsor/>
-23. I. Készletek (24.+25.+26.+27.+28.+29.) 0 0<ujsor/>
+11. MÅ±szaki berendezÃ©sek, gÃ©pek, jÃ¡rmÅ±vek 1 142 1 142<ujsor/>
+12. EgyÃ©b berendezÃ©sek, felszerelÃ©sek, jÃ¡rmÅ±vek 331 331<ujsor/>
+13. BeruhÃ¡zÃ¡sok<ujsor/>
+14. BeruhÃ¡zÃ¡sokra adott elÅ‘legek<ujsor/>
+15. TÃ¡rgyi eszkÃ¶zÃ¶k Ã©rtÃ©khelyesbÃ­tÃ©se<ujsor/>
+16. III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k (17.+21.) 0 0<ujsor/>
+17. RÃ©szesedÃ©sek<ujsor/>
+18. Ã‰rtÃ©kpapÃ­rok<ujsor/>
+19. Adott kÃ¶lcsÃ¶nÃ¶k<ujsor/>
+20. HosszÃº lejÃ¡ratÃº bankbetÃ©tek<ujsor/>
+21. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k Ã©rtÃ©khelyesbÃ­tÃ©se<ujsor/>
+22. B) ForgÃ³eszkÃ¶zÃ¶k (23.+30.+36.+40.) 18 500 18 500<ujsor/>
+23. I. KÃ©szletek (24.+25.+26.+27.+28.+29.) 0 0<ujsor/>
 24. Anyagok<ujsor/>
-25. Áruk<ujsor/>
-26. Készletekre adott elõlegek<ujsor/>
-27. Állatok<ujsor/>
-28. Befejezetlen termelés és félkész termékek<ujsor/>
-29. Késztermékek<ujsor/>
-30. II. Követelések (31.+32.+33.+34.+35.) 18 500 18 500<ujsor/>
-31. Vevõk 18 500 18 500<ujsor/>
-32. Váltókövetelések<ujsor/>
-33. Alapítókkal szembeni követelések<ujsor/>
-34. Egyéb követelések<ujsor/>
-35. III. Értékpapírok (37.+38.+39.) 0 0<ujsor/>
-36. Eladásra vásárolt kötvények<ujsor/>
-37. Saját részvények, üzletrészek, eladásra vásárolt kötvények<ujsor/>
-38. Egyéb értékpapírok<ujsor/>
-39. IV. Pénzeszközök (41.+42.) 0 0<ujsor/>
-40. Pénztár, csekk<ujsor/>
-41. Bankbetétek<ujsor/>
-42. C) Aktív idõbeli elhatárolások<ujsor/>
-43. ÖSSZESEN (01.+22.+43.): 20 008 20 008<ujsor/>
+25. Ãruk<ujsor/>
+26. KÃ©szletekre adott elÅ‘legek<ujsor/>
+27. Ãllatok<ujsor/>
+28. Befejezetlen termelÃ©s Ã©s fÃ©lkÃ©sz termÃ©kek<ujsor/>
+29. KÃ©sztermÃ©kek<ujsor/>
+30. II. KÃ¶vetelÃ©sek (31.+32.+33.+34.+35.) 18 500 18 500<ujsor/>
+31. VevÅ‘k 18 500 18 500<ujsor/>
+32. VÃ¡ltÃ³kÃ¶vetelÃ©sek<ujsor/>
+33. AlapÃ­tÃ³kkal szembeni kÃ¶vetelÃ©sek<ujsor/>
+34. EgyÃ©b kÃ¶vetelÃ©sek<ujsor/>
+35. III. Ã‰rtÃ©kpapÃ­rok (37.+38.+39.) 0 0<ujsor/>
+36. EladÃ¡sra vÃ¡sÃ¡rolt kÃ¶tvÃ©nyek<ujsor/>
+37. SajÃ¡t rÃ©szvÃ©nyek, Ã¼zletrÃ©szek, eladÃ¡sra vÃ¡sÃ¡rolt kÃ¶tvÃ©nyek<ujsor/>
+38. EgyÃ©b Ã©rtÃ©kpapÃ­rok<ujsor/>
+39. IV. PÃ©nzeszkÃ¶zÃ¶k (41.+42.) 0 0<ujsor/>
+40. PÃ©nztÃ¡r, csekk<ujsor/>
+41. BankbetÃ©tek<ujsor/>
+42. C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok<ujsor/>
+43. Ã–SSZESEN (01.+22.+43.): 20 008 20 008<ujsor/>
    Adatok E Ft-ban<ujsor/>
-Sor- FORRÁSOK (passzívák) 1991. január 1. 1991. január 1.<ujsor/>
-szám  M-Invest eredeti M-Invest átértékelt<ujsor/>
-44. D) Saját tõke (46.+47.+48.+49.+50.+51.) 20 008 20 008<ujsor/>
-45. I. Jegyzett tõke 20 008 20 008<ujsor/>
-46. 45. sorból: a) visszavásárolt tulajdonosi részesedés névértéken<ujsor/>
-47. b) cégbíróságon még be nem jegyzett - tõkeemelés<ujsor/>
-48.  - tõkeleszállítás<ujsor/>
-49. II. Jegyzett, de még be nem fizetett tõke (-)<ujsor/>
-50. III. Tõketartalék<ujsor/>
-51. IV. Eredménytartalék<ujsor/>
-52. V. Értékelési tartalék<ujsor/>
-53. VI. Mérleg szerinti eredmény<ujsor/>
-54. E) Céltartalékok (53.+54.+55.) 0 0<ujsor/>
-55. Céltartalék várható veszteségekre<ujsor/>
-Sor- FORRÁSOK (passzívák) 1991. január 1. 1991. január 1.<ujsor/>
-szám  M-Invest eredeti M-Invest átértékelt<ujsor/>
-56. Céltartalék várható kötelezettségekre<ujsor/>
-57. Egyéb céltartalék<ujsor/>
-58. F) Kötelezettségek (57.+64.) 0 0<ujsor/>
-59. I. Hosszú lejáratú kötelezettségek (58.+59.+60.+61.+62.+63.) 0 0<ujsor/>
-60. Beruházási és fejlesztési hitelek<ujsor/>
-61. Egyéb hosszú lejáratú hitelek<ujsor/>
-62. Hosszú lejáratra kapott kölcsönök<ujsor/>
-63. Tartozások kötvénykibocsátásból<ujsor/>
-64. Alapítókkal szembeni kötelezettségek<ujsor/>
-65. Egyéb hosszú lejáratú kötelezettségek<ujsor/>
-66. II. Rövid lejáratú kötelezettségek (65.+66.+67.+68.+69.+72.) 0 0<ujsor/>
-67. Vevõtõl kapott elõlegek 0 0<ujsor/>
-68. Szállítók<ujsor/>
-69. Váltótartozások<ujsor/>
-70. Rövid lejáratú hitelek<ujsor/>
-71. Rövid lejáratú kölcsönök<ujsor/>
-72. Egyéb rövid lejáratú kötelezettségek<ujsor/>
-73. G) Passzív idõbeli elhatárolások<ujsor/>
-74. ÖSSZESEN (45.+52.+56.+71.): 20 008 20 008<ujsor/>
-Az igazgatóság tagjai: Motyovszki István igazgatósági elnök (1054 Budapest, Szemere u. 8.), Bereczky Gyula igazgatósági tag (1137 Budapest, Szent István park 17.), dr. Milancsik Sándor igazgatósági tag (1052 Budapest, Váci u. 11/B).<ujsor/>
-A felügyelõbizottság tagjai: dr. Végh Zoltán elnök (2083 Solymár, Bokor u. 13.), Kazinczy Anikó tag (1055 Budapest, Szent István krt. 13.), Rusai Károly tag (1141 Budapest, Öv u. 52.).<ujsor/>
-A részvények típusa, fajtája, névértéke: 488 db 41 000 Ft (negyvenegyezer forint) névértékû, névre szóló törzsrészvény.<ujsor/>
-A kiválás elõtt a Mininvest Rt.-t megilletõ jogok és kötelezettségek a kiválás után létrejövõ két társaságot jegyzett tõkéjük arányában illeti meg.<ujsor/>
-Azok a hitelezõk, akiknek a Mininvest Rt.-vel szemben fennálló, le nem járt követelései jelen közlemény elsõ közzététele elõtt keletkeztek, követeléseik erejéig a Mininvest Rt.-tõl - jelen közlemény második közzétételét követõ harmincnapos jogvesztõ határidõn belül - biztosítékot követelhetnek.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+Sor- FORRÃSOK (passzÃ­vÃ¡k) 1991. januÃ¡r 1. 1991. januÃ¡r 1.<ujsor/>
+szÃ¡m  M-Invest eredeti M-Invest Ã¡tÃ©rtÃ©kelt<ujsor/>
+44. D) SajÃ¡t tÅ‘ke (46.+47.+48.+49.+50.+51.) 20 008 20 008<ujsor/>
+45. I. Jegyzett tÅ‘ke 20 008 20 008<ujsor/>
+46. 45. sorbÃ³l: a) visszavÃ¡sÃ¡rolt tulajdonosi rÃ©szesedÃ©s nÃ©vÃ©rtÃ©ken<ujsor/>
+47. b) cÃ©gbÃ­rÃ³sÃ¡gon mÃ©g be nem jegyzett - tÅ‘keemelÃ©s<ujsor/>
+48.  - tÅ‘keleszÃ¡llÃ­tÃ¡s<ujsor/>
+49. II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke (-)<ujsor/>
+50. III. TÅ‘ketartalÃ©k<ujsor/>
+51. IV. EredmÃ©nytartalÃ©k<ujsor/>
+52. V. Ã‰rtÃ©kelÃ©si tartalÃ©k<ujsor/>
+53. VI. MÃ©rleg szerinti eredmÃ©ny<ujsor/>
+54. E) CÃ©ltartalÃ©kok (53.+54.+55.) 0 0<ujsor/>
+55. CÃ©ltartalÃ©k vÃ¡rhatÃ³ vesztesÃ©gekre<ujsor/>
+Sor- FORRÃSOK (passzÃ­vÃ¡k) 1991. januÃ¡r 1. 1991. januÃ¡r 1.<ujsor/>
+szÃ¡m  M-Invest eredeti M-Invest Ã¡tÃ©rtÃ©kelt<ujsor/>
+56. CÃ©ltartalÃ©k vÃ¡rhatÃ³ kÃ¶telezettsÃ©gekre<ujsor/>
+57. EgyÃ©b cÃ©ltartalÃ©k<ujsor/>
+58. F) KÃ¶telezettsÃ©gek (57.+64.) 0 0<ujsor/>
+59. I. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek (58.+59.+60.+61.+62.+63.) 0 0<ujsor/>
+60. BeruhÃ¡zÃ¡si Ã©s fejlesztÃ©si hitelek<ujsor/>
+61. EgyÃ©b hosszÃº lejÃ¡ratÃº hitelek<ujsor/>
+62. HosszÃº lejÃ¡ratra kapott kÃ¶lcsÃ¶nÃ¶k<ujsor/>
+63. TartozÃ¡sok kÃ¶tvÃ©nykibocsÃ¡tÃ¡sbÃ³l<ujsor/>
+64. AlapÃ­tÃ³kkal szembeni kÃ¶telezettsÃ©gek<ujsor/>
+65. EgyÃ©b hosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek<ujsor/>
+66. II. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek (65.+66.+67.+68.+69.+72.) 0 0<ujsor/>
+67. VevÅ‘tÅ‘l kapott elÅ‘legek 0 0<ujsor/>
+68. SzÃ¡llÃ­tÃ³k<ujsor/>
+69. VÃ¡ltÃ³tartozÃ¡sok<ujsor/>
+70. RÃ¶vid lejÃ¡ratÃº hitelek<ujsor/>
+71. RÃ¶vid lejÃ¡ratÃº kÃ¶lcsÃ¶nÃ¶k<ujsor/>
+72. EgyÃ©b rÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek<ujsor/>
+73. G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok<ujsor/>
+74. Ã–SSZESEN (45.+52.+56.+71.): 20 008 20 008<ujsor/>
+Az igazgatÃ³sÃ¡g tagjai: Motyovszki IstvÃ¡n igazgatÃ³sÃ¡gi elnÃ¶k (1054 Budapest, Szemere u. 8.), Bereczky Gyula igazgatÃ³sÃ¡gi tag (1137 Budapest, Szent IstvÃ¡n park 17.), dr. Milancsik SÃ¡ndor igazgatÃ³sÃ¡gi tag (1052 Budapest, VÃ¡ci u. 11/B).<ujsor/>
+A felÃ¼gyelÅ‘bizottsÃ¡g tagjai: dr. VÃ©gh ZoltÃ¡n elnÃ¶k (2083 SolymÃ¡r, Bokor u. 13.), Kazinczy AnikÃ³ tag (1055 Budapest, Szent IstvÃ¡n krt. 13.), Rusai KÃ¡roly tag (1141 Budapest, Ã–v u. 52.).<ujsor/>
+A rÃ©szvÃ©nyek tÃ­pusa, fajtÃ¡ja, nÃ©vÃ©rtÃ©ke: 488 db 41 000 Ft (negyvenegyezer forint) nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+A kivÃ¡lÃ¡s elÅ‘tt a Mininvest Rt.-t megilletÅ‘ jogok Ã©s kÃ¶telezettsÃ©gek a kivÃ¡lÃ¡s utÃ¡n lÃ©trejÃ¶vÅ‘ kÃ©t tÃ¡rsasÃ¡got jegyzett tÅ‘kÃ©jÃ¼k arÃ¡nyÃ¡ban illeti meg.<ujsor/>
+Azok a hitelezÅ‘k, akiknek a Mininvest Rt.-vel szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei jelen kÃ¶zlemÃ©ny elsÅ‘ kÃ¶zzÃ©tÃ©tele elÅ‘tt keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig a Mininvest Rt.-tÅ‘l - jelen kÃ¶zlemÃ©ny mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l - biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110001213</mezo>
-<mezo id = "nev">MININVEST Vagyonhasznosító Részvénytársaság</mezo>
+<mezo id = "nev">MININVEST VagyonhasznosÃ­tÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Mininvest Vagyonhasznosító Részvénytársaság (rövidített név: Mininvest Rt.; székhely: 2800 Tatabánya, Ságvári E. u. 12.; cégjegyzékszám: [11 10 001213]) ezúton teszi közzé, hogy a közgyûlés 1998. december 21-én elhatározta, miszerint az 1997. évi CXLIV. tv. alapján,<ujsor/>
-kiválással<ujsor/>
-létrehozza az M-Invest Pénzügyi Vállalkozás Részvénytársaságot (székhely: 1075 Budapest, Asbóth u. 19.).<ujsor/>
-Vagyonmérleg<ujsor/>
-Mininvest Rt. (jogelõd társaság):<ujsor/>
+<mezo id = "szoveg">A Mininvest VagyonhasznosÃ­tÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g (rÃ¶vidÃ­tett nÃ©v: Mininvest Rt.; szÃ©khely: 2800 TatabÃ¡nya, SÃ¡gvÃ¡ri E. u. 12.; cÃ©gjegyzÃ©kszÃ¡m: [11 10 001213]) ezÃºton teszi kÃ¶zzÃ©, hogy a kÃ¶zgyÅ±lÃ©s 1998. december 21-Ã©n elhatÃ¡rozta, miszerint az 1997. Ã©vi CXLIV. tv. alapjÃ¡n,<ujsor/>
+kivÃ¡lÃ¡ssal<ujsor/>
+lÃ©trehozza az M-Invest PÃ©nzÃ¼gyi VÃ¡llalkozÃ¡s RÃ©szvÃ©nytÃ¡rsasÃ¡got (szÃ©khely: 1075 Budapest, AsbÃ³th u. 19.).<ujsor/>
+VagyonmÃ©rleg<ujsor/>
+Mininvest Rt. (jogelÅ‘d tÃ¡rsasÃ¡g):<ujsor/>
    Adatok E Ft-ban<ujsor/>
-Sor- ESZKÖZÖK (aktívák) Elõzõ év Tárgyév<ujsor/>
-szám<ujsor/>
-01. A) Befektetett eszközök (02.+09.+16. sor) 23 608 21 858<ujsor/>
-02. I. Immateriális javak (03-08. sorok) 43 41<ujsor/>
-03. Vagyoni értékû jogok - 6<ujsor/>
-04. Üzleti vagy cégérték - -<ujsor/>
-05. Szellemi termékek 43 35<ujsor/>
-06. Kísérleti fejlesztés aktivált értéke - -<ujsor/>
-07. Alapítás-átszervezés aktivált értéke - -<ujsor/>
-08. Immateriális javak értékhelyesbítése - -<ujsor/>
-09. II. Tárgyi eszközök (10-15. sorok) 13 730 11 982<ujsor/>
+Sor- ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) ElÅ‘zÅ‘ Ã©v TÃ¡rgyÃ©v<ujsor/>
+szÃ¡m<ujsor/>
+01. A) Befektetett eszkÃ¶zÃ¶k (02.+09.+16. sor) 23 608 21 858<ujsor/>
+02. I. ImmateriÃ¡lis javak (03-08. sorok) 43 41<ujsor/>
+03. Vagyoni Ã©rtÃ©kÅ± jogok - 6<ujsor/>
+04. Ãœzleti vagy cÃ©gÃ©rtÃ©k - -<ujsor/>
+05. Szellemi termÃ©kek 43 35<ujsor/>
+06. KÃ­sÃ©rleti fejlesztÃ©s aktivÃ¡lt Ã©rtÃ©ke - -<ujsor/>
+07. AlapÃ­tÃ¡s-Ã¡tszervezÃ©s aktivÃ¡lt Ã©rtÃ©ke - -<ujsor/>
+08. ImmateriÃ¡lis javak Ã©rtÃ©khelyesbÃ­tÃ©se - -<ujsor/>
+09. II. TÃ¡rgyi eszkÃ¶zÃ¶k (10-15. sorok) 13 730 11 982<ujsor/>
 10. Ingatlanok 5 773 5 854<ujsor/>
-11. Mûszaki berendezések, gépek, jármûvek 158 1 651<ujsor/>
-12. Egyéb berendezések, felszerelések, jármûvek 135 331<ujsor/>
-13. Beruházások 2 877 -<ujsor/>
-14. Beruházásokra adott elõlegek - -<ujsor/>
-15. Tárgyi eszközök értékhelyesbítése 4 787 4 146<ujsor/>
-16. III. Befektetett pénzügyi eszközök (17-21. sorok) 9 835 9 835<ujsor/>
-17. Részesedések 9 835 9 835<ujsor/>
-18. Értékpapírok - -<ujsor/>
-19. Adott kölcsönök - -<ujsor/>
-20. Hosszú lejáratú bankbetétek - -<ujsor/>
-21. Befektetett pénzügyi eszközök értékhelyesbítése - -<ujsor/>
-22. B) Forgóeszközök (23.+30.+35.+39. sor) 50 641 45 097<ujsor/>
-23. I. Készletek (24-29. sorok) - -<ujsor/>
+11. MÅ±szaki berendezÃ©sek, gÃ©pek, jÃ¡rmÅ±vek 158 1 651<ujsor/>
+12. EgyÃ©b berendezÃ©sek, felszerelÃ©sek, jÃ¡rmÅ±vek 135 331<ujsor/>
+13. BeruhÃ¡zÃ¡sok 2 877 -<ujsor/>
+14. BeruhÃ¡zÃ¡sokra adott elÅ‘legek - -<ujsor/>
+15. TÃ¡rgyi eszkÃ¶zÃ¶k Ã©rtÃ©khelyesbÃ­tÃ©se 4 787 4 146<ujsor/>
+16. III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k (17-21. sorok) 9 835 9 835<ujsor/>
+17. RÃ©szesedÃ©sek 9 835 9 835<ujsor/>
+18. Ã‰rtÃ©kpapÃ­rok - -<ujsor/>
+19. Adott kÃ¶lcsÃ¶nÃ¶k - -<ujsor/>
+20. HosszÃº lejÃ¡ratÃº bankbetÃ©tek - -<ujsor/>
+21. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k Ã©rtÃ©khelyesbÃ­tÃ©se - -<ujsor/>
+22. B) ForgÃ³eszkÃ¶zÃ¶k (23.+30.+35.+39. sor) 50 641 45 097<ujsor/>
+23. I. KÃ©szletek (24-29. sorok) - -<ujsor/>
 24. Anyagok<ujsor/>
-25. Áruk<ujsor/>
-26. Készletekre adott elõlegek<ujsor/>
-27. Állatok<ujsor/>
-28. Befejezetlen termelés és félkész termékek<ujsor/>
-29. Késztermékek<ujsor/>
-30. II. Követelések (31-34. sorok) 39 284 44 603<ujsor/>
-31. Követelések áruszállításból és szolgáltatásokból (vevõk) 23 959 37 267<ujsor/>
-32. Váltókövetelések - -<ujsor/>
-33. Alapítókkal szembeni követelések - 2 747<ujsor/>
-34. Egyéb követelések 15 325 4 589<ujsor/>
-35. III. Értékpapírok (36-38. sorok) 8 650 -<ujsor/>
-36. Eladásra vásárolt kötvények - -<ujsor/>
-37. Saját részvények, üzletrészek, eladásra vásárolt részvények 8 650 -<ujsor/>
-38. Egyéb értékpapírok - -<ujsor/>
-39. IV. Pénzeszközök (40-41. sorok) 2 707 494<ujsor/>
-40. Pénztár, csekkek 12 66<ujsor/>
-41. Bankbetétek 2 695 428<ujsor/>
-42. C) Aktív idõbeli elhatárolások 45 8 513<ujsor/>
-43. ÖSSZESEN (01.+22.+42. sor): 74 294 75 468<ujsor/>
+25. Ãruk<ujsor/>
+26. KÃ©szletekre adott elÅ‘legek<ujsor/>
+27. Ãllatok<ujsor/>
+28. Befejezetlen termelÃ©s Ã©s fÃ©lkÃ©sz termÃ©kek<ujsor/>
+29. KÃ©sztermÃ©kek<ujsor/>
+30. II. KÃ¶vetelÃ©sek (31-34. sorok) 39 284 44 603<ujsor/>
+31. KÃ¶vetelÃ©sek Ã¡ruszÃ¡llÃ­tÃ¡sbÃ³l Ã©s szolgÃ¡ltatÃ¡sokbÃ³l (vevÅ‘k) 23 959 37 267<ujsor/>
+32. VÃ¡ltÃ³kÃ¶vetelÃ©sek - -<ujsor/>
+33. AlapÃ­tÃ³kkal szembeni kÃ¶vetelÃ©sek - 2 747<ujsor/>
+34. EgyÃ©b kÃ¶vetelÃ©sek 15 325 4 589<ujsor/>
+35. III. Ã‰rtÃ©kpapÃ­rok (36-38. sorok) 8 650 -<ujsor/>
+36. EladÃ¡sra vÃ¡sÃ¡rolt kÃ¶tvÃ©nyek - -<ujsor/>
+37. SajÃ¡t rÃ©szvÃ©nyek, Ã¼zletrÃ©szek, eladÃ¡sra vÃ¡sÃ¡rolt rÃ©szvÃ©nyek 8 650 -<ujsor/>
+38. EgyÃ©b Ã©rtÃ©kpapÃ­rok - -<ujsor/>
+39. IV. PÃ©nzeszkÃ¶zÃ¶k (40-41. sorok) 2 707 494<ujsor/>
+40. PÃ©nztÃ¡r, csekkek 12 66<ujsor/>
+41. BankbetÃ©tek 2 695 428<ujsor/>
+42. C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 45 8 513<ujsor/>
+43. Ã–SSZESEN (01.+22.+42. sor): 74 294 75 468<ujsor/>
    Adatok E Ft-ban<ujsor/>
-Sor- FORRÁSOK (passzívák) Elõzõ év Tárgyév<ujsor/>
-szám<ujsor/>
-44. D) Saját tõke (45.+49.+50.+51.+52.+53. sor) 54 041 54 764<ujsor/>
-45. I. Jegyzett tõke 51 004 51 004<ujsor/>
-46. 45. sorból: a) visszavásárolt tulajdonosi részesedés névértéken 9 020 -<ujsor/>
-47. b) cégbíróságon még be nem jegyzett - tõkeemelés 5 494 -<ujsor/>
-48.  - tõkeleszállítás - -<ujsor/>
-49. II. Jegyzett, de még be nem fizetett tõke (-) - -<ujsor/>
-50. III. Tõketartalék 141 141<ujsor/>
-51. IV. Eredménytartalék 160 1 891<ujsor/>
-52. V. Értékelési tartalék 4 787 4 146<ujsor/>
-53. VI. Mérleg szerinti eredmény -2 051 1 364<ujsor/>
-54. E) Céltartalékok (55-57. sorok) - -<ujsor/>
-55. 1. Céltartalék a várható veszteségekre - -<ujsor/>
-56. 2. Céltartalék a várható kötelezettségekre - -<ujsor/>
-57. 3. Egyéb céltartalék - -<ujsor/>
-58. F) Kötelezettségek (59.+66. sor) 19 254 18 623<ujsor/>
-59. I. Hosszú lejáratú kötelezettségek (60-65. sorok) - -<ujsor/>
-60. Beruházási és fejlesztési hitelek<ujsor/>
-61. Egyéb hosszú lejáratú hitelek<ujsor/>
-62. Hosszú lejáratra kapott kölcsönök<ujsor/>
-63. Tartozások kötvénykibocsátásból<ujsor/>
-64. Alapítókkal szembeni kötelezettségek<ujsor/>
-65. Egyéb hosszú lejáratú kötelezettségek<ujsor/>
-66. II. Rövid lejáratú kötelezettségek (67-72. sorok) 19 254 18 623<ujsor/>
-67. Vevõtõl kapott elõlegek - -<ujsor/>
-68. Kötelezettségek áruszállításból és szolgáltatásból (szállítók) 2 986 7 024<ujsor/>
-69. Váltótartozások - -<ujsor/>
-70. Rövid lejáratú hitelek 7 000 5 813<ujsor/>
-71. Rövid lejáratú kölcsönök 1 176 698<ujsor/>
-72. Egyéb rövid lejáratú kötelezettségek 8 092 5 088<ujsor/>
-73. G) Passzív idõbeli elhatárolások 999 2 081<ujsor/>
-74. ÖSSZESEN (44.+54.+58.+73. sor): 74 294 75 468<ujsor/>
-Az alapító okirat módosításának kelte: 1998. december 21.<ujsor/>
-A Mininvest Rt. cégjegyzékben feltüntetett adataiban - a cég jegyzett tõkéjét, saját tõkéjét kivéve - változás nem történt.<ujsor/>
-A Mininvest Rt. tervezett nyitómérlege az M-Invest Rt. kiválása után:<ujsor/>
+Sor- FORRÃSOK (passzÃ­vÃ¡k) ElÅ‘zÅ‘ Ã©v TÃ¡rgyÃ©v<ujsor/>
+szÃ¡m<ujsor/>
+44. D) SajÃ¡t tÅ‘ke (45.+49.+50.+51.+52.+53. sor) 54 041 54 764<ujsor/>
+45. I. Jegyzett tÅ‘ke 51 004 51 004<ujsor/>
+46. 45. sorbÃ³l: a) visszavÃ¡sÃ¡rolt tulajdonosi rÃ©szesedÃ©s nÃ©vÃ©rtÃ©ken 9 020 -<ujsor/>
+47. b) cÃ©gbÃ­rÃ³sÃ¡gon mÃ©g be nem jegyzett - tÅ‘keemelÃ©s 5 494 -<ujsor/>
+48.  - tÅ‘keleszÃ¡llÃ­tÃ¡s - -<ujsor/>
+49. II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke (-) - -<ujsor/>
+50. III. TÅ‘ketartalÃ©k 141 141<ujsor/>
+51. IV. EredmÃ©nytartalÃ©k 160 1 891<ujsor/>
+52. V. Ã‰rtÃ©kelÃ©si tartalÃ©k 4 787 4 146<ujsor/>
+53. VI. MÃ©rleg szerinti eredmÃ©ny -2 051 1 364<ujsor/>
+54. E) CÃ©ltartalÃ©kok (55-57. sorok) - -<ujsor/>
+55. 1. CÃ©ltartalÃ©k a vÃ¡rhatÃ³ vesztesÃ©gekre - -<ujsor/>
+56. 2. CÃ©ltartalÃ©k a vÃ¡rhatÃ³ kÃ¶telezettsÃ©gekre - -<ujsor/>
+57. 3. EgyÃ©b cÃ©ltartalÃ©k - -<ujsor/>
+58. F) KÃ¶telezettsÃ©gek (59.+66. sor) 19 254 18 623<ujsor/>
+59. I. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek (60-65. sorok) - -<ujsor/>
+60. BeruhÃ¡zÃ¡si Ã©s fejlesztÃ©si hitelek<ujsor/>
+61. EgyÃ©b hosszÃº lejÃ¡ratÃº hitelek<ujsor/>
+62. HosszÃº lejÃ¡ratra kapott kÃ¶lcsÃ¶nÃ¶k<ujsor/>
+63. TartozÃ¡sok kÃ¶tvÃ©nykibocsÃ¡tÃ¡sbÃ³l<ujsor/>
+64. AlapÃ­tÃ³kkal szembeni kÃ¶telezettsÃ©gek<ujsor/>
+65. EgyÃ©b hosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek<ujsor/>
+66. II. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek (67-72. sorok) 19 254 18 623<ujsor/>
+67. VevÅ‘tÅ‘l kapott elÅ‘legek - -<ujsor/>
+68. KÃ¶telezettsÃ©gek Ã¡ruszÃ¡llÃ­tÃ¡sbÃ³l Ã©s szolgÃ¡ltatÃ¡sbÃ³l (szÃ¡llÃ­tÃ³k) 2 986 7 024<ujsor/>
+69. VÃ¡ltÃ³tartozÃ¡sok - -<ujsor/>
+70. RÃ¶vid lejÃ¡ratÃº hitelek 7 000 5 813<ujsor/>
+71. RÃ¶vid lejÃ¡ratÃº kÃ¶lcsÃ¶nÃ¶k 1 176 698<ujsor/>
+72. EgyÃ©b rÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 8 092 5 088<ujsor/>
+73. G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 999 2 081<ujsor/>
+74. Ã–SSZESEN (44.+54.+58.+73. sor): 74 294 75 468<ujsor/>
+Az alapÃ­tÃ³ okirat mÃ³dosÃ­tÃ¡sÃ¡nak kelte: 1998. december 21.<ujsor/>
+A Mininvest Rt. cÃ©gjegyzÃ©kben feltÃ¼ntetett adataiban - a cÃ©g jegyzett tÅ‘kÃ©jÃ©t, sajÃ¡t tÅ‘kÃ©jÃ©t kivÃ©ve - vÃ¡ltozÃ¡s nem tÃ¶rtÃ©nt.<ujsor/>
+A Mininvest Rt. tervezett nyitÃ³mÃ©rlege az M-Invest Rt. kivÃ¡lÃ¡sa utÃ¡n:<ujsor/>
     Adatok E Ft-ban<ujsor/>
-Sor- ESZKÖZÖK (aktívák) 1998. dec. 31. A kiváló 1999. január 1.<ujsor/>
-szám  Mininvest társaság Mininvest<ujsor/>
-  eredeti adatai nyitó<ujsor/>
-01. A) Befektetett eszközök (02.+09.+16.) 21 858 1 508 20 350<ujsor/>
-02. I. Immateriális javak (03.+08.) 41 35 6<ujsor/>
-03. Vagyoni értékû jogok 6  6<ujsor/>
-04. Üzleti vagy cégérték<ujsor/>
-05. Szellemi termékek 35 35 0<ujsor/>
-06. Kísérleti fejlesztés aktivált értéke<ujsor/>
-07. Alapítás-átszervezés aktivált értéke<ujsor/>
-08. Immateriális javak értékhelyesbítése<ujsor/>
-09. II. Tárgyi eszközök (10.+11.+12.+13.+14.+15.) 11 982 1 473 10 509<ujsor/>
+Sor- ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) 1998. dec. 31. A kivÃ¡lÃ³ 1999. januÃ¡r 1.<ujsor/>
+szÃ¡m  Mininvest tÃ¡rsasÃ¡g Mininvest<ujsor/>
+  eredeti adatai nyitÃ³<ujsor/>
+01. A) Befektetett eszkÃ¶zÃ¶k (02.+09.+16.) 21 858 1 508 20 350<ujsor/>
+02. I. ImmateriÃ¡lis javak (03.+08.) 41 35 6<ujsor/>
+03. Vagyoni Ã©rtÃ©kÅ± jogok 6  6<ujsor/>
+04. Ãœzleti vagy cÃ©gÃ©rtÃ©k<ujsor/>
+05. Szellemi termÃ©kek 35 35 0<ujsor/>
+06. KÃ­sÃ©rleti fejlesztÃ©s aktivÃ¡lt Ã©rtÃ©ke<ujsor/>
+07. AlapÃ­tÃ¡s-Ã¡tszervezÃ©s aktivÃ¡lt Ã©rtÃ©ke<ujsor/>
+08. ImmateriÃ¡lis javak Ã©rtÃ©khelyesbÃ­tÃ©se<ujsor/>
+09. II. TÃ¡rgyi eszkÃ¶zÃ¶k (10.+11.+12.+13.+14.+15.) 11 982 1 473 10 509<ujsor/>
 10. Ingatlanok 5 854  5 854<ujsor/>
-11. Mûszaki berendezések, gépek, jármûvek 1 651 1 142 509<ujsor/>
-12. Egyéb berendezések, felszerelések 331 331 0<ujsor/>
-13. Beruházások<ujsor/>
-14. Beruházásokra adott elõlegek<ujsor/>
-15. Tárgyi eszközök értékhelyesbítése 4 146  4 146<ujsor/>
-16. III. Befektetett pénzügyi eszközök (17.+21.) 9 835 0 9 835<ujsor/>
-17. Részesedések 9 835  9 835<ujsor/>
-18. Értékpapírok<ujsor/>
-19. Adott kölcsönök<ujsor/>
-20. Hosszú lejáratú bankbetétek<ujsor/>
-21. Befektetett pénzügyi eszközök értékhelyesbítése<ujsor/>
+11. MÅ±szaki berendezÃ©sek, gÃ©pek, jÃ¡rmÅ±vek 1 651 1 142 509<ujsor/>
+12. EgyÃ©b berendezÃ©sek, felszerelÃ©sek 331 331 0<ujsor/>
+13. BeruhÃ¡zÃ¡sok<ujsor/>
+14. BeruhÃ¡zÃ¡sokra adott elÅ‘legek<ujsor/>
+15. TÃ¡rgyi eszkÃ¶zÃ¶k Ã©rtÃ©khelyesbÃ­tÃ©se 4 146  4 146<ujsor/>
+16. III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k (17.+21.) 9 835 0 9 835<ujsor/>
+17. RÃ©szesedÃ©sek 9 835  9 835<ujsor/>
+18. Ã‰rtÃ©kpapÃ­rok<ujsor/>
+19. Adott kÃ¶lcsÃ¶nÃ¶k<ujsor/>
+20. HosszÃº lejÃ¡ratÃº bankbetÃ©tek<ujsor/>
+21. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k Ã©rtÃ©khelyesbÃ­tÃ©se<ujsor/>
     Adatok E Ft-ban<ujsor/>
-Sor- ESZKÖZÖK (aktívák) 1998. dec. 31. A kiváló 1999. január 1.<ujsor/>
-szám  Mininvest társaság Mininvest<ujsor/>
-  eredeti adatai nyitó<ujsor/>
-22. B) Forgóeszközök (23.+30.+36.+40.) 45 097 11 000 34 097<ujsor/>
-23. I. Készletek (24.+25.+26.+27.+28.+29.) 0 0 0<ujsor/>
+Sor- ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) 1998. dec. 31. A kivÃ¡lÃ³ 1999. januÃ¡r 1.<ujsor/>
+szÃ¡m  Mininvest tÃ¡rsasÃ¡g Mininvest<ujsor/>
+  eredeti adatai nyitÃ³<ujsor/>
+22. B) ForgÃ³eszkÃ¶zÃ¶k (23.+30.+36.+40.) 45 097 11 000 34 097<ujsor/>
+23. I. KÃ©szletek (24.+25.+26.+27.+28.+29.) 0 0 0<ujsor/>
 24. Anyagok<ujsor/>
-25. Áruk<ujsor/>
-26. Készletekre adott elõlegek<ujsor/>
-27. Állatok<ujsor/>
-28. Befejezetlen termelés és félkész termékek<ujsor/>
-29. Késztermékek<ujsor/>
-30. II. Követelések (31.+32.+33.+34.+35.) 44 603 11 000 33 603<ujsor/>
-31. Vevõk 37 267 11 000 26 267<ujsor/>
-32. Váltókövetelések<ujsor/>
-33. Alapítókkal szembeni követelések 2 747  2 747<ujsor/>
-34. Egyéb követelések 4 589  4 589<ujsor/>
-35. III. Értékpapírok (37.+38.+39.) 0 0 0<ujsor/>
-36. Eladásra vásárolt kötvények<ujsor/>
-37. Saját részvények, üzletrészek, eladásra vásárolt részvények<ujsor/>
-38. Egyéb értékpapírok<ujsor/>
-39. IV. Pénzeszközök (41.+42.) 494 0 494<ujsor/>
-40. Pénztár, csekk 66  66<ujsor/>
-41. Bankbetétek 428  428<ujsor/>
-42. C) Aktív idõbeli elhatárolások 8 513 7 500 1 013<ujsor/>
-43. ÖSSZESEN (01.+22.+43.): 75 468 20 008 55 460<ujsor/>
+25. Ãruk<ujsor/>
+26. KÃ©szletekre adott elÅ‘legek<ujsor/>
+27. Ãllatok<ujsor/>
+28. Befejezetlen termelÃ©s Ã©s fÃ©lkÃ©sz termÃ©kek<ujsor/>
+29. KÃ©sztermÃ©kek<ujsor/>
+30. II. KÃ¶vetelÃ©sek (31.+32.+33.+34.+35.) 44 603 11 000 33 603<ujsor/>
+31. VevÅ‘k 37 267 11 000 26 267<ujsor/>
+32. VÃ¡ltÃ³kÃ¶vetelÃ©sek<ujsor/>
+33. AlapÃ­tÃ³kkal szembeni kÃ¶vetelÃ©sek 2 747  2 747<ujsor/>
+34. EgyÃ©b kÃ¶vetelÃ©sek 4 589  4 589<ujsor/>
+35. III. Ã‰rtÃ©kpapÃ­rok (37.+38.+39.) 0 0 0<ujsor/>
+36. EladÃ¡sra vÃ¡sÃ¡rolt kÃ¶tvÃ©nyek<ujsor/>
+37. SajÃ¡t rÃ©szvÃ©nyek, Ã¼zletrÃ©szek, eladÃ¡sra vÃ¡sÃ¡rolt rÃ©szvÃ©nyek<ujsor/>
+38. EgyÃ©b Ã©rtÃ©kpapÃ­rok<ujsor/>
+39. IV. PÃ©nzeszkÃ¶zÃ¶k (41.+42.) 494 0 494<ujsor/>
+40. PÃ©nztÃ¡r, csekk 66  66<ujsor/>
+41. BankbetÃ©tek 428  428<ujsor/>
+42. C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 8 513 7 500 1 013<ujsor/>
+43. Ã–SSZESEN (01.+22.+43.): 75 468 20 008 55 460<ujsor/>
     Adatok E Ft-ban<ujsor/>
-Sor- FORRÁSOK (passzívák) 1998. dec. 31. A kiváló 1999. január 1.<ujsor/>
-szám  Mininvest társaság Mininvest<ujsor/>
-  eredeti adatai nyitó<ujsor/>
-44. D) Saját tõke (46.+47.+48.+49.+50.+51.) 54 764 20 008 34 756<ujsor/>
-45. I. Jegyzett tõke 51 004 20 008 30 996<ujsor/>
-46. 45. sorból: a) visszavásárolt tulajdonosi részesedés névértéken<ujsor/>
-47. b) cégbíróságon még be nem jegyzett - tõkeemelés<ujsor/>
-48. - tõkeleszállítás<ujsor/>
-49. II. Jegyzett, de még be nem fizetett tõke (-)<ujsor/>
-50. III. Tõketartalék 141  141<ujsor/>
-51. IV. Eredménytartalék -1 891  -1 891<ujsor/>
-52. V. Értékelési tartalék 4 146  4 146<ujsor/>
-53. VI. Mérleg szerinti eredmény 1 364  1 364<ujsor/>
-54. E) Céltartalékok (53.+54.+55.) 0 0 0<ujsor/>
-55. Céltartalék várható veszteségekre<ujsor/>
-56. Céltartalék várható kötelezettségekre<ujsor/>
-57. Egyéb céltartalék<ujsor/>
-58. F) Kötelezettségek (57.+64.) 18 623 0 18 623<ujsor/>
-59. I. Hosszú lejáratú kötelezettségek (58.+59.+60.+61.+62.+63.) 0 0 0<ujsor/>
-60. Beruházási és fejlesztési hitelek<ujsor/>
-61. Egyéb hosszú lejáratú hitelek<ujsor/>
-62. Hosszú lejáratra kapott kölcsönök<ujsor/>
-63. Tartozások kötvénykibocsátásból<ujsor/>
-64. Alapítókkal szembeni kötelezettségek<ujsor/>
-65. Egyéb hosszú lejáratú kötelezettségek<ujsor/>
-66. II. Rövid lejáratú kötelezettségek (65.+66.+67.+68.+69.+72.) 18 623 0 18 623<ujsor/>
-67. Vevõtõl kapott elõlegek<ujsor/>
-68. Szállítók 7 024  7 024<ujsor/>
-69. Váltótartozások<ujsor/>
-70. Rövid lejáratú hitelek 5 813  5 813<ujsor/>
-71. Rövid lejáratú kölcsönök 698  698<ujsor/>
-72. Egyéb rövid lejáratú kötelezettségek 5 088  5 088<ujsor/>
-73. G) Passzív idõbeli elhatárolások 2 081  2 081<ujsor/>
-74. ÖSSZESEN (45.+52.+56.+71.): 75 468 20 008 55 460<ujsor/>
-Alapító okiratának kelte: 1998. december 21.<ujsor/>
-Tevékenységi köre (TEÁOR): 6521 Pénzügyi lízing.<ujsor/>
-M-Invest Rt. szétválási vagyonmérleg-tervezete (1999. január 1.):<ujsor/>
+Sor- FORRÃSOK (passzÃ­vÃ¡k) 1998. dec. 31. A kivÃ¡lÃ³ 1999. januÃ¡r 1.<ujsor/>
+szÃ¡m  Mininvest tÃ¡rsasÃ¡g Mininvest<ujsor/>
+  eredeti adatai nyitÃ³<ujsor/>
+44. D) SajÃ¡t tÅ‘ke (46.+47.+48.+49.+50.+51.) 54 764 20 008 34 756<ujsor/>
+45. I. Jegyzett tÅ‘ke 51 004 20 008 30 996<ujsor/>
+46. 45. sorbÃ³l: a) visszavÃ¡sÃ¡rolt tulajdonosi rÃ©szesedÃ©s nÃ©vÃ©rtÃ©ken<ujsor/>
+47. b) cÃ©gbÃ­rÃ³sÃ¡gon mÃ©g be nem jegyzett - tÅ‘keemelÃ©s<ujsor/>
+48. - tÅ‘keleszÃ¡llÃ­tÃ¡s<ujsor/>
+49. II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke (-)<ujsor/>
+50. III. TÅ‘ketartalÃ©k 141  141<ujsor/>
+51. IV. EredmÃ©nytartalÃ©k -1 891  -1 891<ujsor/>
+52. V. Ã‰rtÃ©kelÃ©si tartalÃ©k 4 146  4 146<ujsor/>
+53. VI. MÃ©rleg szerinti eredmÃ©ny 1 364  1 364<ujsor/>
+54. E) CÃ©ltartalÃ©kok (53.+54.+55.) 0 0 0<ujsor/>
+55. CÃ©ltartalÃ©k vÃ¡rhatÃ³ vesztesÃ©gekre<ujsor/>
+56. CÃ©ltartalÃ©k vÃ¡rhatÃ³ kÃ¶telezettsÃ©gekre<ujsor/>
+57. EgyÃ©b cÃ©ltartalÃ©k<ujsor/>
+58. F) KÃ¶telezettsÃ©gek (57.+64.) 18 623 0 18 623<ujsor/>
+59. I. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek (58.+59.+60.+61.+62.+63.) 0 0 0<ujsor/>
+60. BeruhÃ¡zÃ¡si Ã©s fejlesztÃ©si hitelek<ujsor/>
+61. EgyÃ©b hosszÃº lejÃ¡ratÃº hitelek<ujsor/>
+62. HosszÃº lejÃ¡ratra kapott kÃ¶lcsÃ¶nÃ¶k<ujsor/>
+63. TartozÃ¡sok kÃ¶tvÃ©nykibocsÃ¡tÃ¡sbÃ³l<ujsor/>
+64. AlapÃ­tÃ³kkal szembeni kÃ¶telezettsÃ©gek<ujsor/>
+65. EgyÃ©b hosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek<ujsor/>
+66. II. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek (65.+66.+67.+68.+69.+72.) 18 623 0 18 623<ujsor/>
+67. VevÅ‘tÅ‘l kapott elÅ‘legek<ujsor/>
+68. SzÃ¡llÃ­tÃ³k 7 024  7 024<ujsor/>
+69. VÃ¡ltÃ³tartozÃ¡sok<ujsor/>
+70. RÃ¶vid lejÃ¡ratÃº hitelek 5 813  5 813<ujsor/>
+71. RÃ¶vid lejÃ¡ratÃº kÃ¶lcsÃ¶nÃ¶k 698  698<ujsor/>
+72. EgyÃ©b rÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 5 088  5 088<ujsor/>
+73. G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 2 081  2 081<ujsor/>
+74. Ã–SSZESEN (45.+52.+56.+71.): 75 468 20 008 55 460<ujsor/>
+AlapÃ­tÃ³ okiratÃ¡nak kelte: 1998. december 21.<ujsor/>
+TevÃ©kenysÃ©gi kÃ¶re (TEÃOR): 6521 PÃ©nzÃ¼gyi lÃ­zing.<ujsor/>
+M-Invest Rt. szÃ©tvÃ¡lÃ¡si vagyonmÃ©rleg-tervezete (1999. januÃ¡r 1.):<ujsor/>
    Adatok E Ft-ban<ujsor/>
-Sor- ESZKÖZÖK (aktívák) 1991. január 1. 1991. január 1.<ujsor/>
-szám  M-Invest eredeti M-Invest átértékelt<ujsor/>
-01. A) Befektetett eszközök (02.+09.+16.) 1 508 1 508<ujsor/>
-02. I. Immateriális javak (03-08.) 35 35<ujsor/>
-03. Vagyoni értékû jogok<ujsor/>
-04. Üzleti vagy cégérték<ujsor/>
-05. Szellemi termékek 35 35<ujsor/>
-06. Kísérleti fejlesztés aktivált értéke<ujsor/>
-07. Alapítás-átszervezés aktivált értéke<ujsor/>
-08. Immateriális javak értékhelyesbítése<ujsor/>
-09. II. Tárgyi eszközök (10.+11.+12.+13.+14.+15.) 1 473 1 473<ujsor/>
+Sor- ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) 1991. januÃ¡r 1. 1991. januÃ¡r 1.<ujsor/>
+szÃ¡m  M-Invest eredeti M-Invest Ã¡tÃ©rtÃ©kelt<ujsor/>
+01. A) Befektetett eszkÃ¶zÃ¶k (02.+09.+16.) 1 508 1 508<ujsor/>
+02. I. ImmateriÃ¡lis javak (03-08.) 35 35<ujsor/>
+03. Vagyoni Ã©rtÃ©kÅ± jogok<ujsor/>
+04. Ãœzleti vagy cÃ©gÃ©rtÃ©k<ujsor/>
+05. Szellemi termÃ©kek 35 35<ujsor/>
+06. KÃ­sÃ©rleti fejlesztÃ©s aktivÃ¡lt Ã©rtÃ©ke<ujsor/>
+07. AlapÃ­tÃ¡s-Ã¡tszervezÃ©s aktivÃ¡lt Ã©rtÃ©ke<ujsor/>
+08. ImmateriÃ¡lis javak Ã©rtÃ©khelyesbÃ­tÃ©se<ujsor/>
+09. II. TÃ¡rgyi eszkÃ¶zÃ¶k (10.+11.+12.+13.+14.+15.) 1 473 1 473<ujsor/>
 10. Ingatlanok<ujsor/>
-11. Mûszaki berendezések, gépek, jármûvek 1 142 1 142<ujsor/>
-12. Egyéb berendezések, felszerelések, jármûvek 331 331<ujsor/>
-13. Beruházások<ujsor/>
-14. Beruházásokra adott elõlegek<ujsor/>
-15. Tárgyi eszközök értékhelyesbítése<ujsor/>
-16. III. Befektetett pénzügyi eszközök (17.+21.) 0 0<ujsor/>
-17. Részesedések<ujsor/>
-18. Értékpapírok<ujsor/>
-19. Adott kölcsönök<ujsor/>
-20. Hosszú lejáratú bankbetétek<ujsor/>
-21. Befektetett pénzügyi eszközök értékhelyesbítése<ujsor/>
-22. B) Forgóeszközök (23.+30.+36.+40.) 18 500 18 500<ujsor/>
-23. I. Készletek (24.+25.+26.+27.+28.+29.) 0 0<ujsor/>
+11. MÅ±szaki berendezÃ©sek, gÃ©pek, jÃ¡rmÅ±vek 1 142 1 142<ujsor/>
+12. EgyÃ©b berendezÃ©sek, felszerelÃ©sek, jÃ¡rmÅ±vek 331 331<ujsor/>
+13. BeruhÃ¡zÃ¡sok<ujsor/>
+14. BeruhÃ¡zÃ¡sokra adott elÅ‘legek<ujsor/>
+15. TÃ¡rgyi eszkÃ¶zÃ¶k Ã©rtÃ©khelyesbÃ­tÃ©se<ujsor/>
+16. III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k (17.+21.) 0 0<ujsor/>
+17. RÃ©szesedÃ©sek<ujsor/>
+18. Ã‰rtÃ©kpapÃ­rok<ujsor/>
+19. Adott kÃ¶lcsÃ¶nÃ¶k<ujsor/>
+20. HosszÃº lejÃ¡ratÃº bankbetÃ©tek<ujsor/>
+21. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k Ã©rtÃ©khelyesbÃ­tÃ©se<ujsor/>
+22. B) ForgÃ³eszkÃ¶zÃ¶k (23.+30.+36.+40.) 18 500 18 500<ujsor/>
+23. I. KÃ©szletek (24.+25.+26.+27.+28.+29.) 0 0<ujsor/>
 24. Anyagok<ujsor/>
-25. Áruk<ujsor/>
-26. Készletekre adott elõlegek<ujsor/>
-27. Állatok<ujsor/>
-28. Befejezetlen termelés és félkész termékek<ujsor/>
-29. Késztermékek<ujsor/>
-30. II. Követelések (31.+32.+33.+34.+35.) 18 500 18 500<ujsor/>
-31. Vevõk 18 500 18 500<ujsor/>
-32. Váltókövetelések<ujsor/>
-33. Alapítókkal szembeni követelések<ujsor/>
-34. Egyéb követelések<ujsor/>
-35. III. Értékpapírok (37.+38.+39.) 0 0<ujsor/>
-36. Eladásra vásárolt kötvények<ujsor/>
-37. Saját részvények, üzletrészek, eladásra vásárolt kötvények<ujsor/>
-38. Egyéb értékpapírok<ujsor/>
-39. IV. Pénzeszközök (41.+42.) 0 0<ujsor/>
-40. Pénztár, csekk<ujsor/>
-41. Bankbetétek<ujsor/>
-42. C) Aktív idõbeli elhatárolások<ujsor/>
-43. ÖSSZESEN (01.+22.+43.): 20 008 20 008<ujsor/>
+25. Ãruk<ujsor/>
+26. KÃ©szletekre adott elÅ‘legek<ujsor/>
+27. Ãllatok<ujsor/>
+28. Befejezetlen termelÃ©s Ã©s fÃ©lkÃ©sz termÃ©kek<ujsor/>
+29. KÃ©sztermÃ©kek<ujsor/>
+30. II. KÃ¶vetelÃ©sek (31.+32.+33.+34.+35.) 18 500 18 500<ujsor/>
+31. VevÅ‘k 18 500 18 500<ujsor/>
+32. VÃ¡ltÃ³kÃ¶vetelÃ©sek<ujsor/>
+33. AlapÃ­tÃ³kkal szembeni kÃ¶vetelÃ©sek<ujsor/>
+34. EgyÃ©b kÃ¶vetelÃ©sek<ujsor/>
+35. III. Ã‰rtÃ©kpapÃ­rok (37.+38.+39.) 0 0<ujsor/>
+36. EladÃ¡sra vÃ¡sÃ¡rolt kÃ¶tvÃ©nyek<ujsor/>
+37. SajÃ¡t rÃ©szvÃ©nyek, Ã¼zletrÃ©szek, eladÃ¡sra vÃ¡sÃ¡rolt kÃ¶tvÃ©nyek<ujsor/>
+38. EgyÃ©b Ã©rtÃ©kpapÃ­rok<ujsor/>
+39. IV. PÃ©nzeszkÃ¶zÃ¶k (41.+42.) 0 0<ujsor/>
+40. PÃ©nztÃ¡r, csekk<ujsor/>
+41. BankbetÃ©tek<ujsor/>
+42. C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok<ujsor/>
+43. Ã–SSZESEN (01.+22.+43.): 20 008 20 008<ujsor/>
    Adatok E Ft-ban<ujsor/>
-Sor- FORRÁSOK (passzívák) 1991. január 1. 1991. január 1.<ujsor/>
-szám  M-Invest eredeti M-Invest átértékelt<ujsor/>
-44. D) Saját tõke (46.+47.+48.+49.+50.+51.) 20 008 20 008<ujsor/>
-45. I. Jegyzett tõke 20 008 20 008<ujsor/>
-46. 45. sorból: a) visszavásárolt tulajdonosi részesedés névértéken<ujsor/>
-47. b) cégbíróságon még be nem jegyzett - tõkeemelés<ujsor/>
-48.  - tõkeleszállítás<ujsor/>
-49. II. Jegyzett, de még be nem fizetett tõke (-)<ujsor/>
-50. III. Tõketartalék<ujsor/>
-51. IV. Eredménytartalék<ujsor/>
-52. V. Értékelési tartalék<ujsor/>
-53. VI. Mérleg szerinti eredmény<ujsor/>
-54. E) Céltartalékok (53.+54.+55.) 0 0<ujsor/>
-55. Céltartalék várható veszteségekre<ujsor/>
-Sor- FORRÁSOK (passzívák) 1991. január 1. 1991. január 1.<ujsor/>
-szám  M-Invest eredeti M-Invest átértékelt<ujsor/>
-56. Céltartalék várható kötelezettségekre<ujsor/>
-57. Egyéb céltartalék<ujsor/>
-58. F) Kötelezettségek (57.+64.) 0 0<ujsor/>
-59. I. Hosszú lejáratú kötelezettségek (58.+59.+60.+61.+62.+63.) 0 0<ujsor/>
-60. Beruházási és fejlesztési hitelek<ujsor/>
-61. Egyéb hosszú lejáratú hitelek<ujsor/>
-62. Hosszú lejáratra kapott kölcsönök<ujsor/>
-63. Tartozások kötvénykibocsátásból<ujsor/>
-64. Alapítókkal szembeni kötelezettségek<ujsor/>
-65. Egyéb hosszú lejáratú kötelezettségek<ujsor/>
-66. II. Rövid lejáratú kötelezettségek (65.+66.+67.+68.+69.+72.) 0 0<ujsor/>
-67. Vevõtõl kapott elõlegek 0 0<ujsor/>
-68. Szállítók<ujsor/>
-69. Váltótartozások<ujsor/>
-70. Rövid lejáratú hitelek<ujsor/>
-71. Rövid lejáratú kölcsönök<ujsor/>
-72. Egyéb rövid lejáratú kötelezettségek<ujsor/>
-73. G) Passzív idõbeli elhatárolások<ujsor/>
-74. ÖSSZESEN (45.+52.+56.+71.): 20 008 20 008<ujsor/>
-Az igazgatóság tagjai: Motyovszki István igazgatósági elnök (1054 Budapest, Szemere u. 8.), Bereczky Gyula igazgatósági tag (1137 Budapest, Szent István park 17.), dr. Milancsik Sándor igazgatósági tag (1052 Budapest, Váci u. 11/B).<ujsor/>
-A felügyelõbizottság tagjai: dr. Végh Zoltán elnök (2083 Solymár, Bokor u. 13.), Kazinczy Anikó tag (1055 Budapest, Szent István krt. 13.), Rusai Károly tag (1141 Budapest, Öv u. 52.).<ujsor/>
-A részvények típusa, fajtája, névértéke: 488 db 41 000 Ft (negyvenegyezer forint) névértékû, névre szóló törzsrészvény.<ujsor/>
-A kiválás elõtt a Mininvest Rt.-t megilletõ jogok és kötelezettségek a kiválás után létrejövõ két társaságot jegyzett tõkéjük arányában illeti meg.<ujsor/>
-Azok a hitelezõk, akiknek a Mininvest Rt.-vel szemben fennálló, le nem járt követelései jelen közlemény elsõ közzététele elõtt keletkeztek, követeléseik erejéig a Mininvest Rt.-tõl - jelen közlemény második közzétételét követõ harmincnapos jogvesztõ határidõn belül - biztosítékot követelhetnek.<ujsor/>
-(Második közzététel.)<ujsor/>
+Sor- FORRÃSOK (passzÃ­vÃ¡k) 1991. januÃ¡r 1. 1991. januÃ¡r 1.<ujsor/>
+szÃ¡m  M-Invest eredeti M-Invest Ã¡tÃ©rtÃ©kelt<ujsor/>
+44. D) SajÃ¡t tÅ‘ke (46.+47.+48.+49.+50.+51.) 20 008 20 008<ujsor/>
+45. I. Jegyzett tÅ‘ke 20 008 20 008<ujsor/>
+46. 45. sorbÃ³l: a) visszavÃ¡sÃ¡rolt tulajdonosi rÃ©szesedÃ©s nÃ©vÃ©rtÃ©ken<ujsor/>
+47. b) cÃ©gbÃ­rÃ³sÃ¡gon mÃ©g be nem jegyzett - tÅ‘keemelÃ©s<ujsor/>
+48.  - tÅ‘keleszÃ¡llÃ­tÃ¡s<ujsor/>
+49. II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke (-)<ujsor/>
+50. III. TÅ‘ketartalÃ©k<ujsor/>
+51. IV. EredmÃ©nytartalÃ©k<ujsor/>
+52. V. Ã‰rtÃ©kelÃ©si tartalÃ©k<ujsor/>
+53. VI. MÃ©rleg szerinti eredmÃ©ny<ujsor/>
+54. E) CÃ©ltartalÃ©kok (53.+54.+55.) 0 0<ujsor/>
+55. CÃ©ltartalÃ©k vÃ¡rhatÃ³ vesztesÃ©gekre<ujsor/>
+Sor- FORRÃSOK (passzÃ­vÃ¡k) 1991. januÃ¡r 1. 1991. januÃ¡r 1.<ujsor/>
+szÃ¡m  M-Invest eredeti M-Invest Ã¡tÃ©rtÃ©kelt<ujsor/>
+56. CÃ©ltartalÃ©k vÃ¡rhatÃ³ kÃ¶telezettsÃ©gekre<ujsor/>
+57. EgyÃ©b cÃ©ltartalÃ©k<ujsor/>
+58. F) KÃ¶telezettsÃ©gek (57.+64.) 0 0<ujsor/>
+59. I. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek (58.+59.+60.+61.+62.+63.) 0 0<ujsor/>
+60. BeruhÃ¡zÃ¡si Ã©s fejlesztÃ©si hitelek<ujsor/>
+61. EgyÃ©b hosszÃº lejÃ¡ratÃº hitelek<ujsor/>
+62. HosszÃº lejÃ¡ratra kapott kÃ¶lcsÃ¶nÃ¶k<ujsor/>
+63. TartozÃ¡sok kÃ¶tvÃ©nykibocsÃ¡tÃ¡sbÃ³l<ujsor/>
+64. AlapÃ­tÃ³kkal szembeni kÃ¶telezettsÃ©gek<ujsor/>
+65. EgyÃ©b hosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek<ujsor/>
+66. II. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek (65.+66.+67.+68.+69.+72.) 0 0<ujsor/>
+67. VevÅ‘tÅ‘l kapott elÅ‘legek 0 0<ujsor/>
+68. SzÃ¡llÃ­tÃ³k<ujsor/>
+69. VÃ¡ltÃ³tartozÃ¡sok<ujsor/>
+70. RÃ¶vid lejÃ¡ratÃº hitelek<ujsor/>
+71. RÃ¶vid lejÃ¡ratÃº kÃ¶lcsÃ¶nÃ¶k<ujsor/>
+72. EgyÃ©b rÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek<ujsor/>
+73. G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok<ujsor/>
+74. Ã–SSZESEN (45.+52.+56.+71.): 20 008 20 008<ujsor/>
+Az igazgatÃ³sÃ¡g tagjai: Motyovszki IstvÃ¡n igazgatÃ³sÃ¡gi elnÃ¶k (1054 Budapest, Szemere u. 8.), Bereczky Gyula igazgatÃ³sÃ¡gi tag (1137 Budapest, Szent IstvÃ¡n park 17.), dr. Milancsik SÃ¡ndor igazgatÃ³sÃ¡gi tag (1052 Budapest, VÃ¡ci u. 11/B).<ujsor/>
+A felÃ¼gyelÅ‘bizottsÃ¡g tagjai: dr. VÃ©gh ZoltÃ¡n elnÃ¶k (2083 SolymÃ¡r, Bokor u. 13.), Kazinczy AnikÃ³ tag (1055 Budapest, Szent IstvÃ¡n krt. 13.), Rusai KÃ¡roly tag (1141 Budapest, Ã–v u. 52.).<ujsor/>
+A rÃ©szvÃ©nyek tÃ­pusa, fajtÃ¡ja, nÃ©vÃ©rtÃ©ke: 488 db 41 000 Ft (negyvenegyezer forint) nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+A kivÃ¡lÃ¡s elÅ‘tt a Mininvest Rt.-t megilletÅ‘ jogok Ã©s kÃ¶telezettsÃ©gek a kivÃ¡lÃ¡s utÃ¡n lÃ©trejÃ¶vÅ‘ kÃ©t tÃ¡rsasÃ¡got jegyzett tÅ‘kÃ©jÃ¼k arÃ¡nyÃ¡ban illeti meg.<ujsor/>
+Azok a hitelezÅ‘k, akiknek a Mininvest Rt.-vel szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei jelen kÃ¶zlemÃ©ny elsÅ‘ kÃ¶zzÃ©tÃ©tele elÅ‘tt keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig a Mininvest Rt.-tÅ‘l - jelen kÃ¶zlemÃ©ny mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l - biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110001213</mezo>
-<mezo id = "nev">MININVEST Vagyonhasznosító Részvénytársaság</mezo>
+<mezo id = "nev">MININVEST VagyonhasznosÃ­tÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Mininvest Vagyonhasznosító Részvénytársaság (rövidített név: Mininvest Rt.; székhely: 2800 Tatabánya, Ságvári E. u. 12.; cégjegyzékszám: [11 10 001213]) ezúton teszi közzé, hogy a részvénytársaságból az 1997. évi CXLIV. tv. alapján,<ujsor/>
-kiválással<ujsor/>
-létrehozza a MININVEST-FACTOR Vagyonkezelési és Kereskedelmi Korlátolt Felelõsségû Társaságot.<ujsor/>
-Rövidített cégnév: MININVEST-FACTOR Kft.<ujsor/>
-Székhely: 1147 Budapest, Lõcsei u. 95.<ujsor/>
-A társasági szerzõdés elfogadásának idõpontja: 1999. december 10.<ujsor/>
-A létrejövõ (kiváló) társaság fõ tevékenysége: 5114 Gép, berendezés, hajó, repülõgép ügynöki nagykereskedelme.<ujsor/>
-A létrejövõ (kiváló) társaság ügyvezetõje: Lóránt Péter (A-1010 Wien, Führichgasse 4., Ausztria).<ujsor/>
-A tovább mûködõ társaság neve: Mininvest Vagyonhasznosító Részvénytársaság (rövidített név: Mininvest Rt.).<ujsor/>
-Székhely: 2800 Tatabánya, Ságvári E. u. 12.<ujsor/>
-Cégjegyzékszám: [11 10 001213].<ujsor/>
-A tovább mûködõ társaság fõ tevékenysége: 7484 Máshova nem sorolt egyéb gazdasági tevékenységet segítõ szolgáltatás.<ujsor/>
-A tovább mûködõ társaság vezérigazgatója: Motyovszki István (1054 Budapest, Szemere u. 8.).<ujsor/>
-A fennmaradó részvénytársaság (Mininvest Rt.) részvénytípusai, fajtája, névértéke, valamint a felügyelõbizottság tagjainak neve és lakóhelye a kiválás után változatlan.<ujsor/>
-A szétváló társaság (Mininvest Vagyonhasznosító Rt.) vagyonmérleg-tervezetének fõbb adatai:<ujsor/>
-ESZKÖZÖK (aktívák) (E Ft) FORRÁSOK (passzívák) (E Ft)<ujsor/>
-A) Befektetett eszközök 18 072 D) Saját tõke 20 967<ujsor/>
-I. Immateriális javak 41 I. Jegyzett tõke 51 004<ujsor/>
-II. Tárgyi eszközök 8 196 II. Jegyzett, de még be nem fizetett tõke -<ujsor/>
-III. Befektetett pénzügyi eszközök 9 835 III. Tõketartalék 141<ujsor/>
-ESZKÖZÖK (aktívák) (E Ft) FORRÁSOK (passzívák) (E Ft)<ujsor/>
-B) Forgóeszközök 32 729 IV. Eredménytartalék -527<ujsor/>
-I. Készletek - V. Értékelési tartalék -<ujsor/>
-II. Követelések 29 841 VI. Mérleg szerinti eredmény -29 651<ujsor/>
-III. Értékpapírok - E) Céltartalékok -<ujsor/>
-IV. Pénzeszközök 2 888 F) Kötelezettségek 29 912<ujsor/>
-C) Aktív idõbeli elhatárolások 78 I. Hosszú lejáratú kötelezettségek -<ujsor/>
-  II. Rövid lejáratú kötelezettségek 29 912<ujsor/>
-  G) Passzív idõbeli elhatárolások -<ujsor/>
-ÖSSZESEN: 50 879 ÖSSZESEN: 50 879<ujsor/>
-A kiváló társaság (MININVEST-FACTOR Kft.) vagyonmérleg-tervezetének fõbb adatai:<ujsor/>
-ESZKÖZÖK (aktívák) (E Ft) FORRÁSOK (passzívák) (E Ft)<ujsor/>
-A) Befektetett eszközök 0 D) Saját tõke 6280<ujsor/>
-I. Immateriális javak 0 I. Jegyzett tõke 6280<ujsor/>
-II. Tárgyi eszközök 0 II. Jegyzett, de még be nem fizetett tõke 0<ujsor/>
-III. Befektetett pénzügyi eszközök 0 III. Tõketartalék 0<ujsor/>
-B) Forgóeszközök 6280 IV. Eredménytartalék 0<ujsor/>
-I. Készletek 0 V. Értékelési tartalék 0<ujsor/>
-II. Követelések 3280 VI. Mérleg szerinti eredmény 0<ujsor/>
-III. Értékpapírok 0 E) Céltartalékok 0<ujsor/>
-IV. Pénzeszközök 3000 F) Kötelezettségek 0<ujsor/>
-C) Aktív idõbeli elhatárolások 0 I. Hosszú lejáratú kötelezettségek 0<ujsor/>
-  II. Rövid lejáratú kötelezettségek 0<ujsor/>
-  G) Passzív idõbeli elhatárolások 0<ujsor/>
-ÖSSZESEN: 6280 ÖSSZESEN: 6280<ujsor/>
-A kiváló társaság a kiválásal egyidejûleg 3 000 000 Ft törzstõkeemelést hajtott végre.<ujsor/>
-A tovább mûködõ társaság (Mininvest Vagyonhasznosító Rt.) kiválás utáni vagyonmérleg-tervezetének fõbb adatai:<ujsor/>
-ESZKÖZÖK (aktívák) (E Ft) FORRÁSOK (passzívák) (E Ft)<ujsor/>
-A) Befektetett eszközök 18 072 D) Saját tõke 19 737<ujsor/>
-I. Immateriális javak 41 I. Jegyzett tõke 49 774<ujsor/>
-II. Tárgyi eszközök 8 196 II. Jegyzett, de még be nem fizetett tõke -<ujsor/>
-III. Befektetett pénzügyi eszközök 9 835 III. Tõketartalék 141<ujsor/>
-B) Forgóeszközök 29 449 IV. Eredménytartalék -527<ujsor/>
-I. Készletek - V. Értékelési tartalék -<ujsor/>
-II. Követelések 26 561 VI. Mérleg szerinti eredmény -29 651<ujsor/>
-III. Értékpapírok - E) Céltartalékok -<ujsor/>
-IV. Pénzeszközök 2 888 F) Kötelezettségek 27 862<ujsor/>
-C) Aktív idõbeli elhatárolások 78 I. Hosszú lejáratú kötelezettségek -<ujsor/>
-  II. Rövid lejáratú kötelezettségek 27 862<ujsor/>
-  G) Passzív idõbeli elhatárolások -<ujsor/>
-ÖSSZESEN: 47 599 ÖSSZESEN: 47 599<ujsor/>
-A vagyonmegosztás (átlagos) aránya: MININVEST Vagyonhasznosító Rt.: 94%; MININVEST-FACTOR Kft.: 6%.<ujsor/>
-A vagyonmegosztási (szétválási) szerzõdés szerint a Mininvest Vagyonhasznosító Rt.-t illetik meg a Fõvárosi Bíróság elõtt 38.G.75.619/1997. sz. perben érvényesítés alatt álló követelés kivételével, amely a MININVEST-FACTOR Kft.-t illeti meg, a szétválás elõtt keletkezett jogok és követelések, illetõleg terhelik a kötelezettségek.<ujsor/>
-Azok a hitelezõk, akiknek a Mininvest Rt.-vel szemben fennálló, le nem járt követelései jelen közlemény elsõ közzététele elõtt keletkeztek, követeléseik erejéig a Mininvest Rt.-tõl - jelen közlemény második közzétételét követõ harmincnapos jogvesztõ határidõn belül - biztosítékot követelhetnek.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">A Mininvest VagyonhasznosÃ­tÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g (rÃ¶vidÃ­tett nÃ©v: Mininvest Rt.; szÃ©khely: 2800 TatabÃ¡nya, SÃ¡gvÃ¡ri E. u. 12.; cÃ©gjegyzÃ©kszÃ¡m: [11 10 001213]) ezÃºton teszi kÃ¶zzÃ©, hogy a rÃ©szvÃ©nytÃ¡rsasÃ¡gbÃ³l az 1997. Ã©vi CXLIV. tv. alapjÃ¡n,<ujsor/>
+kivÃ¡lÃ¡ssal<ujsor/>
+lÃ©trehozza a MININVEST-FACTOR VagyonkezelÃ©si Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡got.<ujsor/>
+RÃ¶vidÃ­tett cÃ©gnÃ©v: MININVEST-FACTOR Kft.<ujsor/>
+SzÃ©khely: 1147 Budapest, LÅ‘csei u. 95.<ujsor/>
+A tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s elfogadÃ¡sÃ¡nak idÅ‘pontja: 1999. december 10.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ (kivÃ¡lÃ³) tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©ge: 5114 GÃ©p, berendezÃ©s, hajÃ³, repÃ¼lÅ‘gÃ©p Ã¼gynÃ¶ki nagykereskedelme.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ (kivÃ¡lÃ³) tÃ¡rsasÃ¡g Ã¼gyvezetÅ‘je: LÃ³rÃ¡nt PÃ©ter (A-1010 Wien, FÃ¼hrichgasse 4., Ausztria).<ujsor/>
+A tovÃ¡bb mÅ±kÃ¶dÅ‘ tÃ¡rsasÃ¡g neve: Mininvest VagyonhasznosÃ­tÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g (rÃ¶vidÃ­tett nÃ©v: Mininvest Rt.).<ujsor/>
+SzÃ©khely: 2800 TatabÃ¡nya, SÃ¡gvÃ¡ri E. u. 12.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡m: [11 10 001213].<ujsor/>
+A tovÃ¡bb mÅ±kÃ¶dÅ‘ tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©ge: 7484 MÃ¡shova nem sorolt egyÃ©b gazdasÃ¡gi tevÃ©kenysÃ©get segÃ­tÅ‘ szolgÃ¡ltatÃ¡s.<ujsor/>
+A tovÃ¡bb mÅ±kÃ¶dÅ‘ tÃ¡rsasÃ¡g vezÃ©rigazgatÃ³ja: Motyovszki IstvÃ¡n (1054 Budapest, Szemere u. 8.).<ujsor/>
+A fennmaradÃ³ rÃ©szvÃ©nytÃ¡rsasÃ¡g (Mininvest Rt.) rÃ©szvÃ©nytÃ­pusai, fajtÃ¡ja, nÃ©vÃ©rtÃ©ke, valamint a felÃ¼gyelÅ‘bizottsÃ¡g tagjainak neve Ã©s lakÃ³helye a kivÃ¡lÃ¡s utÃ¡n vÃ¡ltozatlan.<ujsor/>
+A szÃ©tvÃ¡lÃ³ tÃ¡rsasÃ¡g (Mininvest VagyonhasznosÃ­tÃ³ Rt.) vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) (E Ft) FORRÃSOK (passzÃ­vÃ¡k) (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 18 072 D) SajÃ¡t tÅ‘ke 20 967<ujsor/>
+I. ImmateriÃ¡lis javak 41 I. Jegyzett tÅ‘ke 51 004<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 8 196 II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke -<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 9 835 III. TÅ‘ketartalÃ©k 141<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) (E Ft) FORRÃSOK (passzÃ­vÃ¡k) (E Ft)<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 32 729 IV. EredmÃ©nytartalÃ©k -527<ujsor/>
+I. KÃ©szletek - V. Ã‰rtÃ©kelÃ©si tartalÃ©k -<ujsor/>
+II. KÃ¶vetelÃ©sek 29 841 VI. MÃ©rleg szerinti eredmÃ©ny -29 651<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok - E) CÃ©ltartalÃ©kok -<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 2 888 F) KÃ¶telezettsÃ©gek 29 912<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 78 I. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek -<ujsor/>
+  II. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 29 912<ujsor/>
+  G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok -<ujsor/>
+Ã–SSZESEN: 50 879 Ã–SSZESEN: 50 879<ujsor/>
+A kivÃ¡lÃ³ tÃ¡rsasÃ¡g (MININVEST-FACTOR Kft.) vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) (E Ft) FORRÃSOK (passzÃ­vÃ¡k) (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 0 D) SajÃ¡t tÅ‘ke 6280<ujsor/>
+I. ImmateriÃ¡lis javak 0 I. Jegyzett tÅ‘ke 6280<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 0 II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke 0<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 III. TÅ‘ketartalÃ©k 0<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 6280 IV. EredmÃ©nytartalÃ©k 0<ujsor/>
+I. KÃ©szletek 0 V. Ã‰rtÃ©kelÃ©si tartalÃ©k 0<ujsor/>
+II. KÃ¶vetelÃ©sek 3280 VI. MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 E) CÃ©ltartalÃ©kok 0<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 3000 F) KÃ¶telezettsÃ©gek 0<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 0 I. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0<ujsor/>
+  II. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0<ujsor/>
+  G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 0<ujsor/>
+Ã–SSZESEN: 6280 Ã–SSZESEN: 6280<ujsor/>
+A kivÃ¡lÃ³ tÃ¡rsasÃ¡g a kivÃ¡lÃ¡sal egyidejÅ±leg 3 000 000 Ft tÃ¶rzstÅ‘keemelÃ©st hajtott vÃ©gre.<ujsor/>
+A tovÃ¡bb mÅ±kÃ¶dÅ‘ tÃ¡rsasÃ¡g (Mininvest VagyonhasznosÃ­tÃ³ Rt.) kivÃ¡lÃ¡s utÃ¡ni vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) (E Ft) FORRÃSOK (passzÃ­vÃ¡k) (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 18 072 D) SajÃ¡t tÅ‘ke 19 737<ujsor/>
+I. ImmateriÃ¡lis javak 41 I. Jegyzett tÅ‘ke 49 774<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 8 196 II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke -<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 9 835 III. TÅ‘ketartalÃ©k 141<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 29 449 IV. EredmÃ©nytartalÃ©k -527<ujsor/>
+I. KÃ©szletek - V. Ã‰rtÃ©kelÃ©si tartalÃ©k -<ujsor/>
+II. KÃ¶vetelÃ©sek 26 561 VI. MÃ©rleg szerinti eredmÃ©ny -29 651<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok - E) CÃ©ltartalÃ©kok -<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 2 888 F) KÃ¶telezettsÃ©gek 27 862<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 78 I. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek -<ujsor/>
+  II. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 27 862<ujsor/>
+  G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok -<ujsor/>
+Ã–SSZESEN: 47 599 Ã–SSZESEN: 47 599<ujsor/>
+A vagyonmegosztÃ¡s (Ã¡tlagos) arÃ¡nya: MININVEST VagyonhasznosÃ­tÃ³ Rt.: 94%; MININVEST-FACTOR Kft.: 6%.<ujsor/>
+A vagyonmegosztÃ¡si (szÃ©tvÃ¡lÃ¡si) szerzÅ‘dÃ©s szerint a Mininvest VagyonhasznosÃ­tÃ³ Rt.-t illetik meg a FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g elÅ‘tt 38.G.75.619/1997. sz. perben Ã©rvÃ©nyesÃ­tÃ©s alatt Ã¡llÃ³ kÃ¶vetelÃ©s kivÃ©telÃ©vel, amely a MININVEST-FACTOR Kft.-t illeti meg, a szÃ©tvÃ¡lÃ¡s elÅ‘tt keletkezett jogok Ã©s kÃ¶vetelÃ©sek, illetÅ‘leg terhelik a kÃ¶telezettsÃ©gek.<ujsor/>
+Azok a hitelezÅ‘k, akiknek a Mininvest Rt.-vel szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei jelen kÃ¶zlemÃ©ny elsÅ‘ kÃ¶zzÃ©tÃ©tele elÅ‘tt keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig a Mininvest Rt.-tÅ‘l - jelen kÃ¶zlemÃ©ny mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l - biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110001213</mezo>
-<mezo id = "nev">MININVEST Vagyonhasznosító Részvénytársaság</mezo>
+<mezo id = "nev">MININVEST VagyonhasznosÃ­tÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Mininvest Vagyonhasznosító Részvénytársaság (rövidített név: Mininvest Rt.; székhely: 2800 Tatabánya, Ságvári E. u. 12.; cégjegyzékszám: [11 10 001213]) ezúton teszi közzé, hogy a részvénytársaságból az 1997. évi CXLIV. tv. alapján,<ujsor/>
-kiválással<ujsor/>
-létrehozza a MININVEST-FACTOR Vagyonkezelési és Kereskedelmi Korlátolt Felelõsségû Társaságot.<ujsor/>
-Rövidített cégnév: MININVEST-FACTOR Kft.<ujsor/>
-Székhely: 1147 Budapest, Lõcsei u. 95.<ujsor/>
-A társasági szerzõdés elfogadásának idõpontja: 1999. december 10.<ujsor/>
-A létrejövõ (kiváló) társaság fõ tevékenysége: 5114 Gép, berendezés, hajó, repülõgép ügynöki nagykereskedelme.<ujsor/>
-A létrejövõ (kiváló) társaság ügyvezetõje: Lóránt Péter (A-1010 Wien, Führichgasse 4., Ausztria).<ujsor/>
-A tovább mûködõ társaság neve: Mininvest Vagyonhasznosító Részvénytársaság (rövidített név: Mininvest Rt.).<ujsor/>
-Székhely: 2800 Tatabánya, Ságvári E. u. 12.<ujsor/>
-Cégjegyzékszám: [11 10 001213].<ujsor/>
-A tovább mûködõ társaság fõ tevékenysége: 7484 Máshova nem sorolt egyéb gazdasági tevékenységet segítõ szolgáltatás.<ujsor/>
-A tovább mûködõ társaság vezérigazgatója: Motyovszki István (1054 Budapest, Szemere u. 8.).<ujsor/>
-A fennmaradó részvénytársaság (Mininvest Rt.) részvénytípusai, fajtája, névértéke, valamint a felügyelõbizottság tagjainak neve és lakóhelye a kiválás után változatlan.<ujsor/>
-A szétváló társaság (Mininvest Vagyonhasznosító Rt.) vagyonmérleg-tervezetének fõbb adatai:<ujsor/>
-ESZKÖZÖK (aktívák) (E Ft) FORRÁSOK (passzívák) (E Ft)<ujsor/>
-A) Befektetett eszközök 18 072 D) Saját tõke 20 967<ujsor/>
-I. Immateriális javak 41 I. Jegyzett tõke 51 004<ujsor/>
-II. Tárgyi eszközök 8 196 II. Jegyzett, de még be nem fizetett tõke -<ujsor/>
-III. Befektetett pénzügyi eszközök 9 835 III. Tõketartalék 141<ujsor/>
-ESZKÖZÖK (aktívák) (E Ft) FORRÁSOK (passzívák) (E Ft)<ujsor/>
-B) Forgóeszközök 32 729 IV. Eredménytartalék -527<ujsor/>
-I. Készletek - V. Értékelési tartalék -<ujsor/>
-II. Követelések 29 841 VI. Mérleg szerinti eredmény -29 651<ujsor/>
-III. Értékpapírok - E) Céltartalékok -<ujsor/>
-IV. Pénzeszközök 2 888 F) Kötelezettségek 29 912<ujsor/>
-C) Aktív idõbeli elhatárolások 78 I. Hosszú lejáratú kötelezettségek -<ujsor/>
-  II. Rövid lejáratú kötelezettségek 29 912<ujsor/>
-  G) Passzív idõbeli elhatárolások -<ujsor/>
-ÖSSZESEN: 50 879 ÖSSZESEN: 50 879<ujsor/>
-A kiváló társaság (MININVEST-FACTOR Kft.) vagyonmérleg-tervezetének fõbb adatai:<ujsor/>
-ESZKÖZÖK (aktívák) (E Ft) FORRÁSOK (passzívák) (E Ft)<ujsor/>
-A) Befektetett eszközök 0 D) Saját tõke 6280<ujsor/>
-I. Immateriális javak 0 I. Jegyzett tõke 6280<ujsor/>
-II. Tárgyi eszközök 0 II. Jegyzett, de még be nem fizetett tõke 0<ujsor/>
-III. Befektetett pénzügyi eszközök 0 III. Tõketartalék 0<ujsor/>
-B) Forgóeszközök 6280 IV. Eredménytartalék 0<ujsor/>
-I. Készletek 0 V. Értékelési tartalék 0<ujsor/>
-II. Követelések 3280 VI. Mérleg szerinti eredmény 0<ujsor/>
-III. Értékpapírok 0 E) Céltartalékok 0<ujsor/>
-IV. Pénzeszközök 3000 F) Kötelezettségek 0<ujsor/>
-C) Aktív idõbeli elhatárolások 0 I. Hosszú lejáratú kötelezettségek 0<ujsor/>
-  II. Rövid lejáratú kötelezettségek 0<ujsor/>
-  G) Passzív idõbeli elhatárolások 0<ujsor/>
-ÖSSZESEN: 6280 ÖSSZESEN: 6280<ujsor/>
-A kiváló társaság a kiválásal egyidejûleg 3 000 000 Ft törzstõkeemelést hajtott végre.<ujsor/>
-A tovább mûködõ társaság (Mininvest Vagyonhasznosító Rt.) kiválás utáni vagyonmérleg-tervezetének fõbb adatai:<ujsor/>
-ESZKÖZÖK (aktívák) (E Ft) FORRÁSOK (passzívák) (E Ft)<ujsor/>
-A) Befektetett eszközök 18 072 D) Saját tõke 19 737<ujsor/>
-I. Immateriális javak 41 I. Jegyzett tõke 49 774<ujsor/>
-II. Tárgyi eszközök 8 196 II. Jegyzett, de még be nem fizetett tõke -<ujsor/>
-III. Befektetett pénzügyi eszközök 9 835 III. Tõketartalék 141<ujsor/>
-B) Forgóeszközök 29 449 IV. Eredménytartalék -527<ujsor/>
-I. Készletek - V. Értékelési tartalék -<ujsor/>
-II. Követelések 26 561 VI. Mérleg szerinti eredmény -29 651<ujsor/>
-III. Értékpapírok - E) Céltartalékok -<ujsor/>
-IV. Pénzeszközök 2 888 F) Kötelezettségek 27 862<ujsor/>
-C) Aktív idõbeli elhatárolások 78 I. Hosszú lejáratú kötelezettségek -<ujsor/>
-  II. Rövid lejáratú kötelezettségek 27 862<ujsor/>
-  G) Passzív idõbeli elhatárolások -<ujsor/>
-ÖSSZESEN: 47 599 ÖSSZESEN: 47 599<ujsor/>
-A vagyonmegosztás (átlagos) aránya: Mininvest Vagyonhasznosító Rt.: 94%; MININVEST-FACTOR Kft.: 6%.<ujsor/>
-A vagyonmegosztási (szétválási) szerzõdés szerint a Mininvest Vagyonhasznosító Rt.-t illetik meg a Fõvárosi Bíróság elõtt 38.G.75.619/1997. sz. perben érvényesítés alatt álló követelés kivételével, amely a MININVEST-FACTOR Kft.-t illeti meg, a szétválás elõtt keletkezett jogok és követelések, illetõleg terhelik a kötelezettségek.<ujsor/>
-Azok a hitelezõk, akiknek a Mininvest Rt.-vel szemben fennálló, le nem járt követelései jelen közlemény elsõ közzététele elõtt keletkeztek, követeléseik erejéig a Mininvest Rt.-tõl - jelen közlemény második közzétételét követõ harmincnapos jogvesztõ határidõn belül - biztosítékot követelhetnek.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">A Mininvest VagyonhasznosÃ­tÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g (rÃ¶vidÃ­tett nÃ©v: Mininvest Rt.; szÃ©khely: 2800 TatabÃ¡nya, SÃ¡gvÃ¡ri E. u. 12.; cÃ©gjegyzÃ©kszÃ¡m: [11 10 001213]) ezÃºton teszi kÃ¶zzÃ©, hogy a rÃ©szvÃ©nytÃ¡rsasÃ¡gbÃ³l az 1997. Ã©vi CXLIV. tv. alapjÃ¡n,<ujsor/>
+kivÃ¡lÃ¡ssal<ujsor/>
+lÃ©trehozza a MININVEST-FACTOR VagyonkezelÃ©si Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡got.<ujsor/>
+RÃ¶vidÃ­tett cÃ©gnÃ©v: MININVEST-FACTOR Kft.<ujsor/>
+SzÃ©khely: 1147 Budapest, LÅ‘csei u. 95.<ujsor/>
+A tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s elfogadÃ¡sÃ¡nak idÅ‘pontja: 1999. december 10.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ (kivÃ¡lÃ³) tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©ge: 5114 GÃ©p, berendezÃ©s, hajÃ³, repÃ¼lÅ‘gÃ©p Ã¼gynÃ¶ki nagykereskedelme.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ (kivÃ¡lÃ³) tÃ¡rsasÃ¡g Ã¼gyvezetÅ‘je: LÃ³rÃ¡nt PÃ©ter (A-1010 Wien, FÃ¼hrichgasse 4., Ausztria).<ujsor/>
+A tovÃ¡bb mÅ±kÃ¶dÅ‘ tÃ¡rsasÃ¡g neve: Mininvest VagyonhasznosÃ­tÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g (rÃ¶vidÃ­tett nÃ©v: Mininvest Rt.).<ujsor/>
+SzÃ©khely: 2800 TatabÃ¡nya, SÃ¡gvÃ¡ri E. u. 12.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡m: [11 10 001213].<ujsor/>
+A tovÃ¡bb mÅ±kÃ¶dÅ‘ tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©ge: 7484 MÃ¡shova nem sorolt egyÃ©b gazdasÃ¡gi tevÃ©kenysÃ©get segÃ­tÅ‘ szolgÃ¡ltatÃ¡s.<ujsor/>
+A tovÃ¡bb mÅ±kÃ¶dÅ‘ tÃ¡rsasÃ¡g vezÃ©rigazgatÃ³ja: Motyovszki IstvÃ¡n (1054 Budapest, Szemere u. 8.).<ujsor/>
+A fennmaradÃ³ rÃ©szvÃ©nytÃ¡rsasÃ¡g (Mininvest Rt.) rÃ©szvÃ©nytÃ­pusai, fajtÃ¡ja, nÃ©vÃ©rtÃ©ke, valamint a felÃ¼gyelÅ‘bizottsÃ¡g tagjainak neve Ã©s lakÃ³helye a kivÃ¡lÃ¡s utÃ¡n vÃ¡ltozatlan.<ujsor/>
+A szÃ©tvÃ¡lÃ³ tÃ¡rsasÃ¡g (Mininvest VagyonhasznosÃ­tÃ³ Rt.) vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) (E Ft) FORRÃSOK (passzÃ­vÃ¡k) (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 18 072 D) SajÃ¡t tÅ‘ke 20 967<ujsor/>
+I. ImmateriÃ¡lis javak 41 I. Jegyzett tÅ‘ke 51 004<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 8 196 II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke -<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 9 835 III. TÅ‘ketartalÃ©k 141<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) (E Ft) FORRÃSOK (passzÃ­vÃ¡k) (E Ft)<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 32 729 IV. EredmÃ©nytartalÃ©k -527<ujsor/>
+I. KÃ©szletek - V. Ã‰rtÃ©kelÃ©si tartalÃ©k -<ujsor/>
+II. KÃ¶vetelÃ©sek 29 841 VI. MÃ©rleg szerinti eredmÃ©ny -29 651<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok - E) CÃ©ltartalÃ©kok -<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 2 888 F) KÃ¶telezettsÃ©gek 29 912<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 78 I. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek -<ujsor/>
+  II. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 29 912<ujsor/>
+  G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok -<ujsor/>
+Ã–SSZESEN: 50 879 Ã–SSZESEN: 50 879<ujsor/>
+A kivÃ¡lÃ³ tÃ¡rsasÃ¡g (MININVEST-FACTOR Kft.) vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) (E Ft) FORRÃSOK (passzÃ­vÃ¡k) (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 0 D) SajÃ¡t tÅ‘ke 6280<ujsor/>
+I. ImmateriÃ¡lis javak 0 I. Jegyzett tÅ‘ke 6280<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 0 II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke 0<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 III. TÅ‘ketartalÃ©k 0<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 6280 IV. EredmÃ©nytartalÃ©k 0<ujsor/>
+I. KÃ©szletek 0 V. Ã‰rtÃ©kelÃ©si tartalÃ©k 0<ujsor/>
+II. KÃ¶vetelÃ©sek 3280 VI. MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 E) CÃ©ltartalÃ©kok 0<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 3000 F) KÃ¶telezettsÃ©gek 0<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 0 I. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0<ujsor/>
+  II. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0<ujsor/>
+  G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 0<ujsor/>
+Ã–SSZESEN: 6280 Ã–SSZESEN: 6280<ujsor/>
+A kivÃ¡lÃ³ tÃ¡rsasÃ¡g a kivÃ¡lÃ¡sal egyidejÅ±leg 3 000 000 Ft tÃ¶rzstÅ‘keemelÃ©st hajtott vÃ©gre.<ujsor/>
+A tovÃ¡bb mÅ±kÃ¶dÅ‘ tÃ¡rsasÃ¡g (Mininvest VagyonhasznosÃ­tÃ³ Rt.) kivÃ¡lÃ¡s utÃ¡ni vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) (E Ft) FORRÃSOK (passzÃ­vÃ¡k) (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 18 072 D) SajÃ¡t tÅ‘ke 19 737<ujsor/>
+I. ImmateriÃ¡lis javak 41 I. Jegyzett tÅ‘ke 49 774<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 8 196 II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke -<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 9 835 III. TÅ‘ketartalÃ©k 141<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 29 449 IV. EredmÃ©nytartalÃ©k -527<ujsor/>
+I. KÃ©szletek - V. Ã‰rtÃ©kelÃ©si tartalÃ©k -<ujsor/>
+II. KÃ¶vetelÃ©sek 26 561 VI. MÃ©rleg szerinti eredmÃ©ny -29 651<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok - E) CÃ©ltartalÃ©kok -<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 2 888 F) KÃ¶telezettsÃ©gek 27 862<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 78 I. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek -<ujsor/>
+  II. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 27 862<ujsor/>
+  G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok -<ujsor/>
+Ã–SSZESEN: 47 599 Ã–SSZESEN: 47 599<ujsor/>
+A vagyonmegosztÃ¡s (Ã¡tlagos) arÃ¡nya: Mininvest VagyonhasznosÃ­tÃ³ Rt.: 94%; MININVEST-FACTOR Kft.: 6%.<ujsor/>
+A vagyonmegosztÃ¡si (szÃ©tvÃ¡lÃ¡si) szerzÅ‘dÃ©s szerint a Mininvest VagyonhasznosÃ­tÃ³ Rt.-t illetik meg a FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g elÅ‘tt 38.G.75.619/1997. sz. perben Ã©rvÃ©nyesÃ­tÃ©s alatt Ã¡llÃ³ kÃ¶vetelÃ©s kivÃ©telÃ©vel, amely a MININVEST-FACTOR Kft.-t illeti meg, a szÃ©tvÃ¡lÃ¡s elÅ‘tt keletkezett jogok Ã©s kÃ¶vetelÃ©sek, illetÅ‘leg terhelik a kÃ¶telezettsÃ©gek.<ujsor/>
+Azok a hitelezÅ‘k, akiknek a Mininvest Rt.-vel szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei jelen kÃ¶zlemÃ©ny elsÅ‘ kÃ¶zzÃ©tÃ©tele elÅ‘tt keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig a Mininvest Rt.-tÅ‘l - jelen kÃ¶zlemÃ©ny mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l - biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110001213</mezo>
-<mezo id = "nev">MININVEST Vagyonhasznosító Részvénytársaság</mezo>
+<mezo id = "nev">MININVEST VagyonhasznosÃ­tÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2000. 02. 29-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-11. 51 004 000 azaz ötvenegymillió-négyezer Ft (ebbõl készpénz 20 004 000 Ft, apport 31 000 000 Ft).<ujsor/>
- Törölve: 2000. 02. 29-i hatállyal.<ujsor/>
- 53 054 000 azaz ötvenhárommillió-ötvennégyezer Ft készpénz.<ujsor/>
- Hatályos: 2000. 02. 29-tõl.<ujsor/>
-5(10). Részvényfajta: elsõbbségi részvény.<ujsor/>
-Részvényosztály: elõvásárlási jogot biztosító.<ujsor/>
- Egyezer-kettõszáznegyvennégy darab névre szóló, negyvenegyezer Ft.<ujsor/>
- Részvényfajta: törzsrészvény.<ujsor/>
- ötven darab negyvenegyezer Ft.<ujsor/>
- Törölve: 2000. 02. 29-i hatállyal.<ujsor/>
- Részvényfajta: törzsrészvény.<ujsor/>
- Egyezer-kettõszázkilencvennégy darab negyvenegyezer Ft.<ujsor/>
- Hatályos: 2000. 02. 29-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2000. 02. 29-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+11. 51 004 000 azaz Ã¶tvenegymilliÃ³-nÃ©gyezer Ft (ebbÅ‘l kÃ©szpÃ©nz 20 004 000 Ft, apport 31 000 000 Ft).<ujsor/>
+ TÃ¶rÃ¶lve: 2000. 02. 29-i hatÃ¡llyal.<ujsor/>
+ 53 054 000 azaz Ã¶tvenhÃ¡rommilliÃ³-Ã¶tvennÃ©gyezer Ft kÃ©szpÃ©nz.<ujsor/>
+ HatÃ¡lyos: 2000. 02. 29-tÅ‘l.<ujsor/>
+5(10). RÃ©szvÃ©nyfajta: elsÅ‘bbsÃ©gi rÃ©szvÃ©ny.<ujsor/>
+RÃ©szvÃ©nyosztÃ¡ly: elÅ‘vÃ¡sÃ¡rlÃ¡si jogot biztosÃ­tÃ³.<ujsor/>
+ Egyezer-kettÅ‘szÃ¡znegyvennÃ©gy darab nÃ©vre szÃ³lÃ³, negyvenegyezer Ft.<ujsor/>
+ RÃ©szvÃ©nyfajta: tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+ Ã¶tven darab negyvenegyezer Ft.<ujsor/>
+ TÃ¶rÃ¶lve: 2000. 02. 29-i hatÃ¡llyal.<ujsor/>
+ RÃ©szvÃ©nyfajta: tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+ Egyezer-kettÅ‘szÃ¡zkilencvennÃ©gy darab negyvenegyezer Ft.<ujsor/>
+ HatÃ¡lyos: 2000. 02. 29-tÅ‘l.<ujsor/>
 Bejegyezve: 2000. 05. 10.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110001213</mezo>
-<mezo id = "nev">MININVEST Vagyonhasznosító Részvénytársaság</mezo>
-<mezo id = "cim">2800 Tatabánya, Ságvári E. u. 12. III. lh.</mezo>
+<mezo id = "nev">MININVEST VagyonhasznosÃ­tÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2800 TatabÃ¡nya, SÃ¡gvÃ¡ri E. u. 12. III. lh.</mezo>
 <mezo id = "adosz">10417074211</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Minivest Vagyonhasznosító Rt. szétválási közleménye a Cégközlöny 5. (2000. február 3.) számában elsõ alkalommal és 6. (2000. február 10.) számában második alkalommal jelent meg.<ujsor/>
-Egyes - hibás - adatai helyett a helyes adatok a következõk:<ujsor/>
-A tovább mûködõ társaság székhelye: 1075 Budapest, Asbóth u. 19.<ujsor/>
-A szétváló társaság (Minivest Vagyonhasznosító Rt.) vagyonmérlegének fõbb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-A) Befektetett eszközök 38 072 D) Saját tõke 43 017<ujsor/>
-I. Immateriális javak 41 I. Jegyzett tõke 53 054<ujsor/>
-II. Tárgyi eszközök 28 196 II. Jegyzett, de még be nem fizetett tõke 0<ujsor/>
-III. Befektetett pénzügyi eszközök 9 835 III. Tõketartalék 141<ujsor/>
-B) Forgóeszközök 32 730 IV. Eredménytartalék -527<ujsor/>
-I. Készletek 0 V. Értékelési tartalék 20 000<ujsor/>
-II. Követelések 29 841 VI. Mérleg szerinti eredmény -29 651<ujsor/>
-III. Értékpapírok 0 E) Céltartalékok 0<ujsor/>
-IV. Pénzügyi eszközök 2 889 F) Kötelezettségek 27 863<ujsor/>
-C) Aktív idõbeli elhatárolások 78 I. Hosszú lejáratú kötelezettségek 0<ujsor/>
-  II. Rövid lejáratú kötelezettségek 27 863<ujsor/>
-  G) Passzív idõbeli elhatárolások 0<ujsor/>
-ÖSSZESEN: 70 880 ÖSSZESEN: 70 880<ujsor/>
-A kiváló társaság (MINIVEST-FACTOR Kft.) vagyonmérleg-tervezetének fõbb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-A) Befektetett eszközök 3 080 D) Saját tõke 9 360<ujsor/>
-I. Immateriális javak 0 I. Jegyzett tõke 9 360<ujsor/>
-II. Tárgyi eszközök 3 080 II. Jegyzett, de még be nem fizetett tõke 0<ujsor/>
-III. Befektetett pénzügyi eszközök 0 III. Tõketartalék 0<ujsor/>
-B) Forgóeszközök 9 560 IV. Eredménytartalék 0<ujsor/>
-I. Készletek 0 V. Értékelési tartalék 0<ujsor/>
-II. Követelések 3 280 VI. Mérleg szerinti eredmény 0<ujsor/>
-III. Értékpapírok 0 E) Céltartalékok 0<ujsor/>
-IV. Pénzügyi eszközök 6 280 F) Kötelezettségek 3 280<ujsor/>
-C) Aktív idõbeli elhatárolások 0 I. Hosszú lejáratú kötelezettségek 3 280<ujsor/>
-  II. Rövid lejáratú kötelezettségek 0<ujsor/>
-  G) Passzív idõbeli elhatárolások 0<ujsor/>
-ÖSSZESEN: 12 640 ÖSSZESEN: 12 640<ujsor/>
-A tovább mûködõ, MINIVEST Vagyonhasznosító Rt. (1075 Budapest, Asbóth u. 19.) vagyonmérleg-tervezetének fõbb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-A) Befektetett eszközök 35 730 D) Saját tõke 40 675<ujsor/>
-I. Immateriális javak 41 I. Jegyzett tõke 50 712<ujsor/>
-II. Tárgyi eszközök 25 854 II. Jegyzett, de még be nem fizetett tõke 0<ujsor/>
-III. Befektetett pénzügyi eszközök 9 835 III. Tõketartalék 141<ujsor/>
-B) Forgóeszközök 32 730 IV. Eredménytartalék -527<ujsor/>
-I. Készletek 0 V. Értékelési tartalék 20 000<ujsor/>
-II. Követelések 26 561 VI. Mérleg szerinti eredmény -29 651<ujsor/>
-III. Értékpapírok 3 280 E) Céltartalékok 0<ujsor/>
-IV. Pénzügyi eszközök 2 889 F) Kötelezettségek 27 863<ujsor/>
-C) Aktív idõbeli elhatárolások 78 I. Hosszú lejáratú kötelezettségek 0<ujsor/>
-  II. Rövid lejáratú kötelezettségek 27 863<ujsor/>
-  G) Passzív idõbeli elhatárolások 0<ujsor/>
-ÖSSZESEN: 68 538 ÖSSZESEN: 68 538<ujsor/>
-A tovább mûködõ társaság részvényfajtája: névre szóló.<ujsor/>
-A tovább mûködõ társaság részvénytípusa: törzsrészvény.<ujsor/>
-Egy részvény névértéke: 41 000 Ft.<ujsor/>
-A részvények darabszáma: 1214 db.<ujsor/>
-A cégközlöny 2000. évi 5. és 6. számában közzétett hirdetmény helyesbítéssel nem érintett adatai változatlanok.<ujsor/>
+<mezo id = "szoveg">A Minivest VagyonhasznosÃ­tÃ³ Rt. szÃ©tvÃ¡lÃ¡si kÃ¶zlemÃ©nye a CÃ©gkÃ¶zlÃ¶ny 5. (2000. februÃ¡r 3.) szÃ¡mÃ¡ban elsÅ‘ alkalommal Ã©s 6. (2000. februÃ¡r 10.) szÃ¡mÃ¡ban mÃ¡sodik alkalommal jelent meg.<ujsor/>
+Egyes - hibÃ¡s - adatai helyett a helyes adatok a kÃ¶vetkezÅ‘k:<ujsor/>
+A tovÃ¡bb mÅ±kÃ¶dÅ‘ tÃ¡rsasÃ¡g szÃ©khelye: 1075 Budapest, AsbÃ³th u. 19.<ujsor/>
+A szÃ©tvÃ¡lÃ³ tÃ¡rsasÃ¡g (Minivest VagyonhasznosÃ­tÃ³ Rt.) vagyonmÃ©rlegÃ©nek fÅ‘bb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 38 072 D) SajÃ¡t tÅ‘ke 43 017<ujsor/>
+I. ImmateriÃ¡lis javak 41 I. Jegyzett tÅ‘ke 53 054<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 28 196 II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke 0<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 9 835 III. TÅ‘ketartalÃ©k 141<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 32 730 IV. EredmÃ©nytartalÃ©k -527<ujsor/>
+I. KÃ©szletek 0 V. Ã‰rtÃ©kelÃ©si tartalÃ©k 20 000<ujsor/>
+II. KÃ¶vetelÃ©sek 29 841 VI. MÃ©rleg szerinti eredmÃ©ny -29 651<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 E) CÃ©ltartalÃ©kok 0<ujsor/>
+IV. PÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 2 889 F) KÃ¶telezettsÃ©gek 27 863<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 78 I. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0<ujsor/>
+  II. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 27 863<ujsor/>
+  G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 0<ujsor/>
+Ã–SSZESEN: 70 880 Ã–SSZESEN: 70 880<ujsor/>
+A kivÃ¡lÃ³ tÃ¡rsasÃ¡g (MINIVEST-FACTOR Kft.) vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 3 080 D) SajÃ¡t tÅ‘ke 9 360<ujsor/>
+I. ImmateriÃ¡lis javak 0 I. Jegyzett tÅ‘ke 9 360<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 3 080 II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke 0<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 III. TÅ‘ketartalÃ©k 0<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 9 560 IV. EredmÃ©nytartalÃ©k 0<ujsor/>
+I. KÃ©szletek 0 V. Ã‰rtÃ©kelÃ©si tartalÃ©k 0<ujsor/>
+II. KÃ¶vetelÃ©sek 3 280 VI. MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 E) CÃ©ltartalÃ©kok 0<ujsor/>
+IV. PÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 6 280 F) KÃ¶telezettsÃ©gek 3 280<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 0 I. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 3 280<ujsor/>
+  II. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0<ujsor/>
+  G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 0<ujsor/>
+Ã–SSZESEN: 12 640 Ã–SSZESEN: 12 640<ujsor/>
+A tovÃ¡bb mÅ±kÃ¶dÅ‘, MINIVEST VagyonhasznosÃ­tÃ³ Rt. (1075 Budapest, AsbÃ³th u. 19.) vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 35 730 D) SajÃ¡t tÅ‘ke 40 675<ujsor/>
+I. ImmateriÃ¡lis javak 41 I. Jegyzett tÅ‘ke 50 712<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 25 854 II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke 0<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 9 835 III. TÅ‘ketartalÃ©k 141<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 32 730 IV. EredmÃ©nytartalÃ©k -527<ujsor/>
+I. KÃ©szletek 0 V. Ã‰rtÃ©kelÃ©si tartalÃ©k 20 000<ujsor/>
+II. KÃ¶vetelÃ©sek 26 561 VI. MÃ©rleg szerinti eredmÃ©ny -29 651<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 3 280 E) CÃ©ltartalÃ©kok 0<ujsor/>
+IV. PÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 2 889 F) KÃ¶telezettsÃ©gek 27 863<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 78 I. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0<ujsor/>
+  II. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 27 863<ujsor/>
+  G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 0<ujsor/>
+Ã–SSZESEN: 68 538 Ã–SSZESEN: 68 538<ujsor/>
+A tovÃ¡bb mÅ±kÃ¶dÅ‘ tÃ¡rsasÃ¡g rÃ©szvÃ©nyfajtÃ¡ja: nÃ©vre szÃ³lÃ³.<ujsor/>
+A tovÃ¡bb mÅ±kÃ¶dÅ‘ tÃ¡rsasÃ¡g rÃ©szvÃ©nytÃ­pusa: tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+Egy rÃ©szvÃ©ny nÃ©vÃ©rtÃ©ke: 41 000 Ft.<ujsor/>
+A rÃ©szvÃ©nyek darabszÃ¡ma: 1214 db.<ujsor/>
+A cÃ©gkÃ¶zlÃ¶ny 2000. Ã©vi 5. Ã©s 6. szÃ¡mÃ¡ban kÃ¶zzÃ©tett hirdetmÃ©ny helyesbÃ­tÃ©ssel nem Ã©rintett adatai vÃ¡ltozatlanok.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110001213</mezo>
-<mezo id = "nev">MININVEST Vagyonhasznosító Részvénytársaság</mezo>
+<mezo id = "nev">MININVEST VagyonhasznosÃ­tÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "99017">

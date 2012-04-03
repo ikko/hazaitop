@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">696325</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">1015 Budapest, Csalogány u. 12. C. ép. 4. em. 12. </mezo>
+<mezo id = "cim">1015 Budapest, CsalogÃ¡ny u. 12. C. Ã©p. 4. em. 12. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">12641817241</mezo>
 </alrovat>
@@ -13,13 +13,13 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20010605</mezo>
-<mezo id = "nev">Netrióta Informatikai Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">NetriÃ³ta Informatikai KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">20010605</mezo>
-<mezo id = "nev">Netrióta Kft.</mezo>
+<mezo id = "nev">NetriÃ³ta Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "4">
@@ -33,7 +33,7 @@
 <mezo id = "hattol">20071227</mezo>
 <mezo id = "irsz">1015</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Csalogány u. 12. C. ép. 4. em. 12.</mezo>
+<mezo id = "teru">CsalogÃ¡ny u. 12. C. Ã©p. 4. em. 12.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">20071227</mezo>
 <mezo id = "valtv">0</mezo>
@@ -150,10 +150,10 @@
 <rovat id = "13">
 <alrovat id = "4">
 <mezo id = "hattol">20070517</mezo>
-<mezo id = "pnev">Bulla Károly</mezo>
+<mezo id = "pnev">Bulla KÃ¡roly</mezo>
 <mezo id = "panev">Kassai Ilona</mezo>
 <mezo id = "pirsz">1015</mezo>
-<mezo id = "phely">Budapest, Csalogány utca 12. C. ép.</mezo>
+<mezo id = "phely">Budapest, CsalogÃ¡ny utca 12. C. Ã©p.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">d</mezo>
 <mezo id = "jogvk">20070504</mezo>
@@ -191,8 +191,8 @@
 <rovat id = "0109">
 <alrovat id = "4">
 <mezo id = "hattol">20071227</mezo>
-<mezo id = "pnev">Bencze Áron</mezo>
-<mezo id = "panev">Kardos Erzsébet</mezo>
+<mezo id = "pnev">Bencze Ãron</mezo>
+<mezo id = "panev">Kardos ErzsÃ©bet</mezo>
 <mezo id = "pirsz">1193</mezo>
 <mezo id = "phely">Budapest, Bem u. 23.</mezo>
 <mezo id = "tagsk">20071227</mezo>
@@ -204,10 +204,10 @@
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20071227</mezo>
-<mezo id = "pnev">Bulla Károly</mezo>
+<mezo id = "pnev">Bulla KÃ¡roly</mezo>
 <mezo id = "panev">Kassai Ilona</mezo>
 <mezo id = "pirsz">1015</mezo>
-<mezo id = "phely">Budapest, Csalogány utca 12/C 4/12.</mezo>
+<mezo id = "phely">Budapest, CsalogÃ¡ny utca 12/C 4/12.</mezo>
 <mezo id = "tagsk">20071227</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20071227</mezo>
@@ -217,8 +217,8 @@
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20071227</mezo>
-<mezo id = "pnev">Csorba József</mezo>
-<mezo id = "panev">Kovács Ilona</mezo>
+<mezo id = "pnev">Csorba JÃ³zsef</mezo>
+<mezo id = "panev">KovÃ¡cs Ilona</mezo>
 <mezo id = "pirsz">1039</mezo>
 <mezo id = "phely">Budapest, Szekerce u. 3/b.</mezo>
 <mezo id = "tagsk">20071227</mezo>
@@ -230,10 +230,10 @@
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">20071227</mezo>
-<mezo id = "pnev">Dolnyikné Farkas Boglárka</mezo>
-<mezo id = "panev">Horváth Mária</mezo>
+<mezo id = "pnev">DolnyiknÃ© Farkas BoglÃ¡rka</mezo>
+<mezo id = "panev">HorvÃ¡th MÃ¡ria</mezo>
 <mezo id = "pirsz">1157</mezo>
-<mezo id = "phely">Budapest, Nyírpalota út 79/b 4/14.</mezo>
+<mezo id = "phely">Budapest, NyÃ­rpalota Ãºt 79/b 4/14.</mezo>
 <mezo id = "tagsk">20071227</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20071227</mezo>
@@ -243,10 +243,10 @@
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">20071227</mezo>
-<mezo id = "pnev">Kiskéri Lajos István</mezo>
-<mezo id = "panev">Naszádos Mária</mezo>
+<mezo id = "pnev">KiskÃ©ri Lajos IstvÃ¡n</mezo>
+<mezo id = "panev">NaszÃ¡dos MÃ¡ria</mezo>
 <mezo id = "pirsz">9600</mezo>
-<mezo id = "phely">Sárvár, Ady Endre utca 4.</mezo>
+<mezo id = "phely">SÃ¡rvÃ¡r, Ady Endre utca 4.</mezo>
 <mezo id = "tagsk">20071227</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20071227</mezo>
@@ -256,8 +256,8 @@
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">20071227</mezo>
-<mezo id = "pnev">Mayer Mária</mezo>
-<mezo id = "panev">Bereczki Mária</mezo>
+<mezo id = "pnev">Mayer MÃ¡ria</mezo>
+<mezo id = "panev">Bereczki MÃ¡ria</mezo>
 <mezo id = "pirsz">1045</mezo>
 <mezo id = "phely">Budapest, Pozsonyi u. 4/E.</mezo>
 <mezo id = "tagsk">20071227</mezo>
@@ -269,10 +269,10 @@
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">20071227</mezo>
-<mezo id = "pnev">Nyiri János Zoltán</mezo>
+<mezo id = "pnev">Nyiri JÃ¡nos ZoltÃ¡n</mezo>
 <mezo id = "panev">Reichert Judit</mezo>
 <mezo id = "pirsz">2094</mezo>
-<mezo id = "phely">Nagykovácsi, Erdõ u. 2/ A .</mezo>
+<mezo id = "phely">NagykovÃ¡csi, ErdÅ‘ u. 2/ A .</mezo>
 <mezo id = "tagsk">20071227</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20071227</mezo>
@@ -282,10 +282,10 @@
 </alrovat>
 <alrovat id = "11">
 <mezo id = "hattol">20071227</mezo>
-<mezo id = "pnev">Paulik András</mezo>
-<mezo id = "panev">Osztolykán Teodóra Katalin</mezo>
+<mezo id = "pnev">Paulik AndrÃ¡s</mezo>
+<mezo id = "panev">OsztolykÃ¡n TeodÃ³ra Katalin</mezo>
 <mezo id = "pirsz">1063</mezo>
-<mezo id = "phely">Budapest, Munkácsy M. u. 34. 6/19.</mezo>
+<mezo id = "phely">Budapest, MunkÃ¡csy M. u. 34. 6/19.</mezo>
 <mezo id = "tagsk">20071227</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20071227</mezo>
@@ -308,10 +308,10 @@
 </alrovat>
 <alrovat id = "13">
 <mezo id = "hattol">20071227</mezo>
-<mezo id = "pnev">Szabó József</mezo>
-<mezo id = "panev">Györfi Vilma</mezo>
+<mezo id = "pnev">SzabÃ³ JÃ³zsef</mezo>
+<mezo id = "panev">GyÃ¶rfi Vilma</mezo>
 <mezo id = "pirsz">1046</mezo>
-<mezo id = "phely">Budapest, Bõröndös u. 20.</mezo>
+<mezo id = "phely">Budapest, BÅ‘rÃ¶ndÃ¶s u. 20.</mezo>
 <mezo id = "tagsk">20071227</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20071227</mezo>
@@ -321,10 +321,10 @@
 </alrovat>
 <alrovat id = "14">
 <mezo id = "hattol">20071227</mezo>
-<mezo id = "pnev">Szentpály-Juhász Miklós</mezo>
-<mezo id = "panev">Buday Mária Ilona</mezo>
+<mezo id = "pnev">SzentpÃ¡ly-JuhÃ¡sz MiklÃ³s</mezo>
+<mezo id = "panev">Buday MÃ¡ria Ilona</mezo>
 <mezo id = "pirsz">1066</mezo>
-<mezo id = "phely">Budapest, Jókai u. 28.</mezo>
+<mezo id = "phely">Budapest, JÃ³kai u. 28.</mezo>
 <mezo id = "tagsk">20071227</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20071227</mezo>
@@ -342,58 +342,58 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Tátrai Zoltán, a Netrióta Informatikai Korlátolt Felelõsségû Társaság (Cg.: [01 09 696325]; székhely: 1062 Budapest, Andrássy út 125.) ügyvezetõje, eleget téve a Gt. 167. § (2) bekezdésében foglalt kötelezettségének tájékoztatja a társaság hitelezõit, hogy a társaság alapítója 2005. január 1-jén úgy döntött, hogy a társaság törzstõkéjét az eredménytartalék növelése érdekében (saját tõke elemének emelése céljából) 70 000 000 Ft-ról, 67 000 000 Ft-tal 3 000 000 Ft-ra szállítja le.<ujsor/>
-Felhívjuk a társaság hitelezõit, hogy a törzstõke leszállításához hozzá nem járuló hitelezõk követeléseiket a hirdetmény utolsó közzétételétõl számított harminc napon belül, a társaság részére jelentsék be.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">TÃ¡trai ZoltÃ¡n, a NetriÃ³ta Informatikai KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [01 09 696325]; szÃ©khely: 1062 Budapest, AndrÃ¡ssy Ãºt 125.) Ã¼gyvezetÅ‘je, eleget tÃ©ve a Gt. 167. Â§ (2) bekezdÃ©sÃ©ben foglalt kÃ¶telezettsÃ©gÃ©nek tÃ¡jÃ©koztatja a tÃ¡rsasÃ¡g hitelezÅ‘it, hogy a tÃ¡rsasÃ¡g alapÃ­tÃ³ja 2005. januÃ¡r 1-jÃ©n Ãºgy dÃ¶ntÃ¶tt, hogy a tÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©jÃ©t az eredmÃ©nytartalÃ©k nÃ¶velÃ©se Ã©rdekÃ©ben (sajÃ¡t tÅ‘ke elemÃ©nek emelÃ©se cÃ©ljÃ¡bÃ³l) 70 000 000 Ft-rÃ³l, 67 000 000 Ft-tal 3 000 000 Ft-ra szÃ¡llÃ­tja le.<ujsor/>
+FelhÃ­vjuk a tÃ¡rsasÃ¡g hitelezÅ‘it, hogy a tÃ¶rzstÅ‘ke leszÃ¡llÃ­tÃ¡sÃ¡hoz hozzÃ¡ nem jÃ¡rulÃ³ hitelezÅ‘k kÃ¶vetelÃ©seiket a hirdetmÃ©ny utolsÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott harminc napon belÃ¼l, a tÃ¡rsasÃ¡g rÃ©szÃ©re jelentsÃ©k be.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109696325</mezo>
-<mezo id = "nev">Netrióta Informatikai Korlátolt Felelõsségü Társaság</mezo>
+<mezo id = "nev">NetriÃ³ta Informatikai KorlÃ¡tolt FelelÅ‘ssÃ©gÃ¼ TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1062 Budapest</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Tátrai Zoltán, a Netrióta Informatikai Korlátolt Felelõsségû Társaság (Cg.: [01 09 696325]; székhely: 1062 Budapest, Andrássy út 125.) ügyvezetõje, eleget téve a Gt. 167. § (2) bekezdésében foglalt kötelezettségének tájékoztatja a társaság hitelezõit, hogy a társaság alapítója 2005. január 1-jén úgy döntött, hogy a társaság törzstõkéjét az eredménytartalék növelése érdekében (saját tõke elemének emelése céljából) 70 000 000 Ft-ról 67 000 000 Ft-tal 3 000 000 Ft-ra szállítja le.<ujsor/>
-Felhívjuk a társaság hitelezõit, hogy a törzstõke leszállításához hozzá nem járuló hitelezõk követeléseiket a hirdetmény utolsó közzétételétõl számított harminc napon belül, a társaság részére jelentsék be.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">TÃ¡trai ZoltÃ¡n, a NetriÃ³ta Informatikai KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [01 09 696325]; szÃ©khely: 1062 Budapest, AndrÃ¡ssy Ãºt 125.) Ã¼gyvezetÅ‘je, eleget tÃ©ve a Gt. 167. Â§ (2) bekezdÃ©sÃ©ben foglalt kÃ¶telezettsÃ©gÃ©nek tÃ¡jÃ©koztatja a tÃ¡rsasÃ¡g hitelezÅ‘it, hogy a tÃ¡rsasÃ¡g alapÃ­tÃ³ja 2005. januÃ¡r 1-jÃ©n Ãºgy dÃ¶ntÃ¶tt, hogy a tÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©jÃ©t az eredmÃ©nytartalÃ©k nÃ¶velÃ©se Ã©rdekÃ©ben (sajÃ¡t tÅ‘ke elemÃ©nek emelÃ©se cÃ©ljÃ¡bÃ³l) 70 000 000 Ft-rÃ³l 67 000 000 Ft-tal 3 000 000 Ft-ra szÃ¡llÃ­tja le.<ujsor/>
+FelhÃ­vjuk a tÃ¡rsasÃ¡g hitelezÅ‘it, hogy a tÃ¶rzstÅ‘ke leszÃ¡llÃ­tÃ¡sÃ¡hoz hozzÃ¡ nem jÃ¡rulÃ³ hitelezÅ‘k kÃ¶vetelÃ©seiket a hirdetmÃ©ny utolsÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott harminc napon belÃ¼l, a tÃ¡rsasÃ¡g rÃ©szÃ©re jelentsÃ©k be.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109696325</mezo>
-<mezo id = "nev">Netrióta Informatikai Korlátolt Felelõsségü Társaság</mezo>
+<mezo id = "nev">NetriÃ³ta Informatikai KorlÃ¡tolt FelelÅ‘ssÃ©gÃ¼ TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1062 Budapest</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Szellemi Környezetvédelemért Alapítvány (bejegyzési száma: 8626-03; székhely: 1062 Budapest, Andrássy út 125.) a Gazdasági társaságokról szóló 1997. évi CXLIV. törvény 292. § (1) bekezdése értelmében közzéteszi, hogy 2005. július 1-jén üzletrész-adásvételi szerzõdéssel megszerezte az egyszemélyes Netrióta Informatikai Korlátolt Felelõsségû Társaság (Cg.: [01 06 696325]; székhely: 1062 Budapest, Andrássy út 125.) 100%-os, 3 000 000 Ft névértékû üzletrészét, és így a társaságban közvetlen irányítást biztosító befolyásra tett szert.<ujsor/>
-A hitelezõk a Gt. 296. § (2) bekezdése szerinti jogaikat gyakorolhatják.<ujsor/>
+<mezo id = "szoveg">A Szellemi KÃ¶rnyezetvÃ©delemÃ©rt AlapÃ­tvÃ¡ny (bejegyzÃ©si szÃ¡ma: 8626-03; szÃ©khely: 1062 Budapest, AndrÃ¡ssy Ãºt 125.) a GazdasÃ¡gi tÃ¡rsasÃ¡gokrÃ³l szÃ³lÃ³ 1997. Ã©vi CXLIV. tÃ¶rvÃ©ny 292. Â§ (1) bekezdÃ©se Ã©rtelmÃ©ben kÃ¶zzÃ©teszi, hogy 2005. jÃºlius 1-jÃ©n Ã¼zletrÃ©sz-adÃ¡svÃ©teli szerzÅ‘dÃ©ssel megszerezte az egyszemÃ©lyes NetriÃ³ta Informatikai KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [01 06 696325]; szÃ©khely: 1062 Budapest, AndrÃ¡ssy Ãºt 125.) 100%-os, 3 000 000 Ft nÃ©vÃ©rtÃ©kÅ± Ã¼zletrÃ©szÃ©t, Ã©s Ã­gy a tÃ¡rsasÃ¡gban kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡sra tett szert.<ujsor/>
+A hitelezÅ‘k a Gt. 296. Â§ (2) bekezdÃ©se szerinti jogaikat gyakorolhatjÃ¡k.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109696325</mezo>
-<mezo id = "nev">Netrióta Informatikai Korlátolt Felelõsségü Társaság</mezo>
+<mezo id = "nev">NetriÃ³ta Informatikai KorlÃ¡tolt FelelÅ‘ssÃ©gÃ¼ TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1062 Budapest</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2007. 05. 17-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (ügyvezetõ).<ujsor/>
- Bulla Károly (an: Kassai Ilona)<ujsor/>
-1015 Budapest, Csalogány utca 12. C. ép.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2007. 05. 17-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘).<ujsor/>
+ Bulla KÃ¡roly (an: Kassai Ilona)<ujsor/>
+1015 Budapest, CsalogÃ¡ny utca 12. C. Ã©p.<ujsor/>
  A jogviszony kezdete: 2007. 05. 04.<ujsor/>
- A változás idõpontja: 2007. 05. 04.<ujsor/>
- Törölve: 2007. 07. 02.<ujsor/>
- A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (ügyvezetõ).<ujsor/>
- Bulla Károly (an: Kassai Ilona)<ujsor/>
-1015 Budapest, Csalogány utca 12. C. ép.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2007. 05. 04.<ujsor/>
+ TÃ¶rÃ¶lve: 2007. 07. 02.<ujsor/>
+ A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘).<ujsor/>
+ Bulla KÃ¡roly (an: Kassai Ilona)<ujsor/>
+1015 Budapest, CsalogÃ¡ny utca 12. C. Ã©p.<ujsor/>
  A jogviszony kezdete: 2007. 05. 01.<ujsor/>
- A változás idõpontja: 2007. 05. 04.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2007. 05. 04.<ujsor/>
  Bejegyezve: 2007. 07. 02.<ujsor/>
 2007. 07. 02.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109696325</mezo>
-<mezo id = "nev">Netrióta Informatikai Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1137 Budapest, Katona József utca 28. 4. em. 25.</mezo>
+<mezo id = "nev">NetriÃ³ta Informatikai KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1137 Budapest, Katona JÃ³zsef utca 28. 4. em. 25.</mezo>
 <mezo id = "adosz">12641817241</mezo>
 </alrovat>
 </rovat>

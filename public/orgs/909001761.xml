@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">001761</mezo>
 <mezo id = "nevalrovat">3</mezo>
-<mezo id = "cim">4032 Debrecen, Füredi út 76. </mezo>
+<mezo id = "cim">4032 Debrecen, FÃ¼redi Ãºt 76. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">11142030209</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "3">
 <mezo id = "hattol">20110127</mezo>
-<mezo id = "nev">Center-Print Nyomda Ipari és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Center-Print Nyomda Ipari Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">20110127</mezo>
 <mezo id = "bkelt">20110201</mezo>
 </alrovat>
@@ -30,7 +30,7 @@
 <alrovat id = "6">
 <mezo id = "irsz">4032</mezo>
 <mezo id = "hely">Debrecen</mezo>
-<mezo id = "teru">Füredi út 76.</mezo>
+<mezo id = "teru">FÃ¼redi Ãºt 76.</mezo>
 <mezo id = "bkelt">20110201</mezo>
 </alrovat>
 </rovat>
@@ -159,19 +159,19 @@
 <mezo id = "hattol">20110114</mezo>
 <mezo id = "valtk">20110114</mezo>
 <mezo id = "bkelt">20110201</mezo>
-<mezo id = "teaszov">Nyomás (kivéve: napilap)</mezo>
+<mezo id = "teaszov">NyomÃ¡s (kivÃ©ve: napilap)</mezo>
 </alrovat>
 <alrovat id = "49">
 <mezo id = "hattol">20110114</mezo>
 <mezo id = "valtk">20110114</mezo>
 <mezo id = "bkelt">20110201</mezo>
-<mezo id = "teaszov">Csomagküldõ internetes kiskereskedelem</mezo>
+<mezo id = "teaszov">CsomagkÃ¼ldÅ‘ internetes kiskereskedelem</mezo>
 </alrovat>
 <alrovat id = "50">
 <mezo id = "hattol">20110114</mezo>
 <mezo id = "valtk">20110114</mezo>
 <mezo id = "bkelt">20110201</mezo>
-<mezo id = "teaszov">Egyéb sokszorosítás</mezo>
+<mezo id = "teaszov">EgyÃ©b sokszorosÃ­tÃ¡s</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -190,9 +190,9 @@
 <rovat id = "13">
 <alrovat id = "6">
 <mezo id = "hattol">20110114</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Szabó Sándor</mezo>
-<mezo id = "panev">Tóth Terézia</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">SzabÃ³ SÃ¡ndor</mezo>
+<mezo id = "panev">TÃ³th TerÃ©zia</mezo>
 <mezo id = "pirsz">4031</mezo>
 <mezo id = "phely">Debrecen</mezo>
 <mezo id = "pteru">Sesztina utca 6/A.</mezo>
@@ -204,12 +204,12 @@
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">20110114</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Szabó Andrea</mezo>
-<mezo id = "panev">Sütõ Katalin</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">SzabÃ³ Andrea</mezo>
+<mezo id = "panev">SÃ¼tÅ‘ Katalin</mezo>
 <mezo id = "pirsz">4029</mezo>
 <mezo id = "phely">Debrecen</mezo>
-<mezo id = "pteru">Berek utca 5. 1. lház. 2. em. 6.</mezo>
+<mezo id = "pteru">Berek utca 5. 1. lhÃ¡z. 2. em. 6.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20071010</mezo>
 <mezo id = "valtk">20110114</mezo>
@@ -220,10 +220,10 @@
 <rovat id = "14">
 <alrovat id = "2">
 <mezo id = "hattol">20071010</mezo>
-<mezo id = "pnev">Pongor Tiborné</mezo>
-<mezo id = "panev">Balázs Gyöngyi</mezo>
+<mezo id = "pnev">Pongor TibornÃ©</mezo>
+<mezo id = "panev">BalÃ¡zs GyÃ¶ngyi</mezo>
 <mezo id = "pirsz">4026</mezo>
-<mezo id = "phely">Debrecen, Zsák utca 9/B.</mezo>
+<mezo id = "phely">Debrecen, ZsÃ¡k utca 9/B.</mezo>
 <mezo id = "jogvk">20071010</mezo>
 <mezo id = "jogvv">20120531</mezo>
 <mezo id = "valtk">20071010</mezo>
@@ -249,8 +249,8 @@
 <rovat id = "0109">
 <alrovat id = "12">
 <mezo id = "hattol">20110114</mezo>
-<mezo id = "pnev">Szabó Sándor</mezo>
-<mezo id = "panev">Tóth Terézia</mezo>
+<mezo id = "pnev">SzabÃ³ SÃ¡ndor</mezo>
+<mezo id = "panev">TÃ³th TerÃ©zia</mezo>
 <mezo id = "pirsz">4031</mezo>
 <mezo id = "phely">Debrecen</mezo>
 <mezo id = "pteru">Sesztina utca 6/A.</mezo>
@@ -261,7 +261,7 @@
 </alrovat>
 <alrovat id = "13">
 <mezo id = "hattol">20110114</mezo>
-<mezo id = "pnev">Szabó Sándorné</mezo>
+<mezo id = "pnev">SzabÃ³ SÃ¡ndornÃ©</mezo>
 <mezo id = "panev">Szokolai Katalin</mezo>
 <mezo id = "pirsz">4031</mezo>
 <mezo id = "phely">Debrecen</mezo>
@@ -280,39 +280,39 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Hajdú-Bihar Megyei Bíróság mint Cégbíróság a Cg.09-09-001761 cégjegyzékszámon bejegyzett Center-Print Nyomda Ipari és Szolgáltató Korlátolt Felelõsségû Társaság (4032 Debrecen, Füredi út 76.; adószáma: 11142030-2-09) ügyében az 2011. február 1. napján hozott Cg.09-09-001761/66. számú végzését hivatalból kiegészíteni rendeli az alábbiak szerint:<ujsor/>
-5. A cég székhelye<ujsor/>
+<mezo id = "szoveg">A HajdÃº-Bihar Megyei BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.09-09-001761 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett Center-Print Nyomda Ipari Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (4032 Debrecen, FÃ¼redi Ãºt 76.; adÃ³szÃ¡ma: 11142030-2-09) Ã¼gyÃ©ben az 2011. februÃ¡r 1. napjÃ¡n hozott Cg.09-09-001761/66. szÃ¡mÃº vÃ©gzÃ©sÃ©t hivatalbÃ³l kiegÃ©szÃ­teni rendeli az alÃ¡bbiak szerint:<ujsor/>
+5. A cÃ©g szÃ©khelye<ujsor/>
 4025 Debrecen, Nyugati utca 5-7.<ujsor/>
-Vált. vége: 2011.01.14.<ujsor/>
-Törölve (végzés kelte): 2011. február 8.<ujsor/>
-E végzés ellen fellebbezésnek nincs helye, azonban az ügyész, továbbá az, akire a végzés rendelkezést tartalmaz - a rendelkezés õt érintõ részére vonatkozóan - pert indíthat a cég ellen a cég székhelye szerint illetékes megyei bíróság elõtt a bejegyzõ végzés hatályon kívül helyezése iránt.<ujsor/>
-A per megindításának a bejegyzõ végzés Cégközlönyben való közzétételétõl, illetve - közzétételi kötelezettség hiányában - annak kézbesítésétõl számított 30 napon belül van helye. A határidõ elmulasztása jogvesztéssel jár.<ujsor/>
-2011. február 8.<ujsor/>
+VÃ¡lt. vÃ©ge: 2011.01.14.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2011. februÃ¡r 8.<ujsor/>
+E vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye, azonban az Ã¼gyÃ©sz, tovÃ¡bbÃ¡ az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s Å‘t Ã©rintÅ‘ rÃ©szÃ©re vonatkozÃ³an - pert indÃ­that a cÃ©g ellen a cÃ©g szÃ©khelye szerint illetÃ©kes megyei bÃ­rÃ³sÃ¡g elÅ‘tt a bejegyzÅ‘ vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt.<ujsor/>
+A per megindÃ­tÃ¡sÃ¡nak a bejegyzÅ‘ vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l, illetve - kÃ¶zzÃ©tÃ©teli kÃ¶telezettsÃ©g hiÃ¡nyÃ¡ban - annak kÃ©zbesÃ­tÃ©sÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l van helye. A hatÃ¡ridÅ‘ elmulasztÃ¡sa jogvesztÃ©ssel jÃ¡r.<ujsor/>
+2011. februÃ¡r 8.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0909001761</mezo>
-<mezo id = "nev">Center-Print Nyomda Ipari és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">4032 Debrecen, Füredi út 76.</mezo>
+<mezo id = "nev">Center-Print Nyomda Ipari Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">4032 Debrecen, FÃ¼redi Ãºt 76.</mezo>
 <mezo id = "adosz">11142030209</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Hajdú-Bihar Megyei Bíróság mint Cégbíróság a Cg.09-09-001761 cégjegyzékszámon bejegyzett Center-Print Nyomda Ipari és Szolgáltató Korlátolt Felelõsségû Társaság (4032 Debrecen, Füredi út 76.; adószáma: 11142030-2-09) kérelme alapján elrendeli az 2011. február 1. napján hozott Cg.09-09-001761 /66. számú végzésének kijavítását az alábbiak szerint:<ujsor/>
-13. A képviseletre jogosult(ak) adatai<ujsor/>
-A képviselet módja: önálló.<ujsor/>
-Adóazonosító jel: 8416240906<ujsor/>
-Szabó Andrea vezetõ tisztségviselõ (ügyvezetõ) (an.: Sütõ Katalin)<ujsor/>
-4029 Debrecen, Berek utca 5. 1. lház. 2. em. 6.<ujsor/>
+<mezo id = "szoveg">A HajdÃº-Bihar Megyei BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.09-09-001761 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett Center-Print Nyomda Ipari Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (4032 Debrecen, FÃ¼redi Ãºt 76.; adÃ³szÃ¡ma: 11142030-2-09) kÃ©relme alapjÃ¡n elrendeli az 2011. februÃ¡r 1. napjÃ¡n hozott Cg.09-09-001761 /66. szÃ¡mÃº vÃ©gzÃ©sÃ©nek kijavÃ­tÃ¡sÃ¡t az alÃ¡bbiak szerint:<ujsor/>
+13. A kÃ©pviseletre jogosult(ak) adatai<ujsor/>
+A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+AdÃ³azonosÃ­tÃ³ jel: 8416240906<ujsor/>
+SzabÃ³ Andrea vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘) (an.: SÃ¼tÅ‘ Katalin)<ujsor/>
+4029 Debrecen, Berek utca 5. 1. lhÃ¡z. 2. em. 6.<ujsor/>
 Jogv. kezdete: 2007.10.10.<ujsor/>
-Vált. kezdete: 2011.01.14.<ujsor/>
-Bejegyezve (végzés kelte): 2011. február 10.<ujsor/>
-E végzés ellen fellebbezésnek nincs helye, azonban az ügyész, továbbá az, akire a végzés rendelkezést tartalmaz - a rendelkezés õt érintõ részére vonatkozóan - pert indíthat a cég ellen a cég székhelye szerint illetékes megyei bíróság elõtt a bejegyzõ végzés hatályon kívül helyezése iránt.<ujsor/>
-A per megindításának a bejegyzõ végzés Cégközlönyben való közzétételétõl, illetve - közzétételi kötelezettség hiányában - annak kézbesítésétõl számított 30 napon belül van helye. A határidõ elmulasztása jogvesztéssel jár.<ujsor/>
-2011. február 10.<ujsor/>
+VÃ¡lt. kezdete: 2011.01.14.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2011. februÃ¡r 10.<ujsor/>
+E vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye, azonban az Ã¼gyÃ©sz, tovÃ¡bbÃ¡ az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s Å‘t Ã©rintÅ‘ rÃ©szÃ©re vonatkozÃ³an - pert indÃ­that a cÃ©g ellen a cÃ©g szÃ©khelye szerint illetÃ©kes megyei bÃ­rÃ³sÃ¡g elÅ‘tt a bejegyzÅ‘ vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt.<ujsor/>
+A per megindÃ­tÃ¡sÃ¡nak a bejegyzÅ‘ vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l, illetve - kÃ¶zzÃ©tÃ©teli kÃ¶telezettsÃ©g hiÃ¡nyÃ¡ban - annak kÃ©zbesÃ­tÃ©sÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l van helye. A hatÃ¡ridÅ‘ elmulasztÃ¡sa jogvesztÃ©ssel jÃ¡r.<ujsor/>
+2011. februÃ¡r 10.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0909001761</mezo>
-<mezo id = "nev">Center-Print Nyomda Ipari és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">4032 Debrecen, Füredi út 76.</mezo>
+<mezo id = "nev">Center-Print Nyomda Ipari Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">4032 Debrecen, FÃ¼redi Ãºt 76.</mezo>
 <mezo id = "adosz">11142030209</mezo>
 </alrovat>
 </rovat>

@@ -5,7 +5,7 @@
 <mezo id = "cf">10</mezo>
 <mezo id = "szam">044705</mezo>
 <mezo id = "nevalrovat">6</mezo>
-<mezo id = "cim">1033 Budapest, Flórián tér 1. </mezo>
+<mezo id = "cim">1033 Budapest, FlÃ³riÃ¡n tÃ©r 1. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">12765335241</mezo>
 </alrovat>
@@ -13,11 +13,11 @@
 <rovat id = "2">
 <alrovat id = "4">
 <mezo id = "hattol">20041122</mezo>
-<mezo id = "nev">INDEX. HU Informatikai Részvénytársaság</mezo>
+<mezo id = "nev">INDEX. HU Informatikai RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20060828</mezo>
-<mezo id = "nev">INDEX. HU Informatikai Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">INDEX. HU Informatikai ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -41,7 +41,7 @@
 <mezo id = "hattol">20090901</mezo>
 <mezo id = "irsz">1033</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Flórián tér 1.</mezo>
+<mezo id = "teru">FlÃ³riÃ¡n tÃ©r 1.</mezo>
 <mezo id = "valtk">20090901</mezo>
 <mezo id = "bkelt">20090928</mezo>
 </alrovat>
@@ -50,7 +50,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20090519</mezo>
 <mezo id = "irsz">6000</mezo>
-<mezo id = "hely">Kecskemét, Fecske utca 11.</mezo>
+<mezo id = "hely">KecskemÃ©t, Fecske utca 11.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20090519</mezo>
 <mezo id = "valtv">0</mezo>
@@ -1510,32 +1510,32 @@
 <rovat id = "13">
 <alrovat id = "18">
 <mezo id = "hattol">20050418</mezo>
-<mezo id = "tiszt">igazgatósági tag</mezo>
-<mezo id = "pnev">Szabó Ákos</mezo>
-<mezo id = "panev">Hidvégi Anna</mezo>
+<mezo id = "tiszt">igazgatÃ³sÃ¡gi tag</mezo>
+<mezo id = "pnev">SzabÃ³ Ãkos</mezo>
+<mezo id = "panev">HidvÃ©gi Anna</mezo>
 <mezo id = "pirsz">2016</mezo>
-<mezo id = "phely">Leányfalu, Hunyadi J. u. 11/A.</mezo>
+<mezo id = "phely">LeÃ¡nyfalu, Hunyadi J. u. 11/A.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20050418</mezo>
 <mezo id = "jogvv">20090531</mezo>
 </alrovat>
 <alrovat id = "19">
 <mezo id = "hattol">20050418</mezo>
-<mezo id = "tiszt">igazgatósági tag</mezo>
-<mezo id = "pnev">Dr. Fáy Margit</mezo>
-<mezo id = "panev">Farkasfalvy Mária</mezo>
+<mezo id = "tiszt">igazgatÃ³sÃ¡gi tag</mezo>
+<mezo id = "pnev">Dr. FÃ¡y Margit</mezo>
+<mezo id = "panev">Farkasfalvy MÃ¡ria</mezo>
 <mezo id = "pirsz">2094</mezo>
-<mezo id = "phely">Nagykovácsi, Erdõsétány u. 23.</mezo>
+<mezo id = "phely">NagykovÃ¡csi, ErdÅ‘sÃ©tÃ¡ny u. 23.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20050418</mezo>
 <mezo id = "jogvv">20090531</mezo>
 </alrovat>
 <alrovat id = "25">
 <mezo id = "hattol">20080409</mezo>
-<mezo id = "pnev">Szabó Ákos</mezo>
-<mezo id = "panev">Hidvégi Anna</mezo>
+<mezo id = "pnev">SzabÃ³ Ãkos</mezo>
+<mezo id = "panev">HidvÃ©gi Anna</mezo>
 <mezo id = "pirsz">2016</mezo>
-<mezo id = "phely">Leányfalu, Hunyadi J. utca 11. A. ép .</mezo>
+<mezo id = "phely">LeÃ¡nyfalu, Hunyadi J. utca 11. A. Ã©p .</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">c</mezo>
 <mezo id = "jogvk">20050418</mezo>
@@ -1547,12 +1547,12 @@
 </alrovat>
 <alrovat id = "36">
 <mezo id = "hattol">20090901</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Kádár Tibor</mezo>
-<mezo id = "panev">Ruzsás Rozália</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">KÃ¡dÃ¡r Tibor</mezo>
+<mezo id = "panev">RuzsÃ¡s RozÃ¡lia</mezo>
 <mezo id = "pirsz">1161</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Köztársaság útja 47.</mezo>
+<mezo id = "pteru">KÃ¶ztÃ¡rsasÃ¡g Ãºtja 47.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20090901</mezo>
 <mezo id = "valtk">20090901</mezo>
@@ -1560,12 +1560,12 @@
 </alrovat>
 <alrovat id = "37">
 <mezo id = "hattol">20090901</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Uj Péter</mezo>
-<mezo id = "panev">Csikós Katalin</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">Uj PÃ©ter</mezo>
+<mezo id = "panev">CsikÃ³s Katalin</mezo>
 <mezo id = "pirsz">2040</mezo>
-<mezo id = "phely">Budaörs</mezo>
-<mezo id = "pteru">Tárogató utca 26.</mezo>
+<mezo id = "phely">BudaÃ¶rs</mezo>
+<mezo id = "pteru">TÃ¡rogatÃ³ utca 26.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20040730</mezo>
 <mezo id = "valtk">20090901</mezo>
@@ -1573,12 +1573,12 @@
 </alrovat>
 <alrovat id = "38">
 <mezo id = "hattol">20090901</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Dr. Nobilis Kristóf</mezo>
-<mezo id = "panev">Szegheõ Zsuzsanna</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">Dr. Nobilis KristÃ³f</mezo>
+<mezo id = "panev">SzegheÅ‘ Zsuzsanna</mezo>
 <mezo id = "pirsz">1113</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Bartók Béla út 72.</mezo>
+<mezo id = "pteru">BartÃ³k BÃ©la Ãºt 72.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20050418</mezo>
 <mezo id = "valtk">20090901</mezo>
@@ -1586,12 +1586,12 @@
 </alrovat>
 <alrovat id = "39">
 <mezo id = "hattol">20090901</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">dr. Fáy Margit</mezo>
-<mezo id = "panev">dr. Farkasfalvy Mária</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">dr. FÃ¡y Margit</mezo>
+<mezo id = "panev">dr. Farkasfalvy MÃ¡ria</mezo>
 <mezo id = "pirsz">2094</mezo>
-<mezo id = "phely">Nagykovácsi</mezo>
-<mezo id = "pteru">Erdõsétány utca 27.</mezo>
+<mezo id = "phely">NagykovÃ¡csi</mezo>
+<mezo id = "pteru">ErdÅ‘sÃ©tÃ¡ny utca 27.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20050418</mezo>
 <mezo id = "valtk">20090901</mezo>
@@ -1599,12 +1599,12 @@
 </alrovat>
 <alrovat id = "41">
 <mezo id = "hattol">20090901</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Dr. Spéder Zoltán</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">Dr. SpÃ©der ZoltÃ¡n</mezo>
 <mezo id = "panev">Boller Anna</mezo>
 <mezo id = "pirsz">1054</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Alkotmány utca 12.</mezo>
+<mezo id = "pteru">AlkotmÃ¡ny utca 12.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20080616</mezo>
 <mezo id = "valtk">20090901</mezo>
@@ -1612,12 +1612,12 @@
 </alrovat>
 <alrovat id = "42">
 <mezo id = "hattol">20090901</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
 <mezo id = "pnev">Balogh Gabriella</mezo>
-<mezo id = "panev">Baranyai Mária</mezo>
+<mezo id = "panev">Baranyai MÃ¡ria</mezo>
 <mezo id = "pirsz">1039</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Nagyvárad utca 6.</mezo>
+<mezo id = "pteru">NagyvÃ¡rad utca 6.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20090519</mezo>
 <mezo id = "valtk">20090901</mezo>
@@ -1625,12 +1625,12 @@
 </alrovat>
 <alrovat id = "44">
 <mezo id = "hattol">20090901</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Ziegler Gábor</mezo>
-<mezo id = "panev">Sásdi Mária</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Ziegler GÃ¡bor</mezo>
+<mezo id = "panev">SÃ¡sdi MÃ¡ria</mezo>
 <mezo id = "pirsz">2112</mezo>
-<mezo id = "phely">Veresegyház</mezo>
-<mezo id = "pteru">Nemzetõr utca 23.</mezo>
+<mezo id = "phely">VeresegyhÃ¡z</mezo>
+<mezo id = "pteru">NemzetÅ‘r utca 23.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20081201</mezo>
 <mezo id = "valtk">20090901</mezo>
@@ -1638,8 +1638,8 @@
 </alrovat>
 <alrovat id = "45">
 <mezo id = "hattol">20110228</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Pusztay András</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Pusztay AndrÃ¡s</mezo>
 <mezo id = "panev">Kelemen Angyalka</mezo>
 <mezo id = "pirsz">1136</mezo>
 <mezo id = "phely">Budapest</mezo>
@@ -1655,16 +1655,16 @@
 <alrovat id = "7">
 <mezo id = "hattol">20090901</mezo>
 <mezo id = "cgjsz">0109566603</mezo>
-<mezo id = "nev">CÉGAUDIT Könyvvizsgáló Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">CÃ‰GAUDIT KÃ¶nyvvizsgÃ¡lÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1031</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Kaszásdûlõ utca 1.</mezo>
-<mezo id = "pnev">Jándi Zita</mezo>
-<mezo id = "panev">Szabó Etelka</mezo>
+<mezo id = "teru">KaszÃ¡sdÅ±lÅ‘ utca 1.</mezo>
+<mezo id = "pnev">JÃ¡ndi Zita</mezo>
+<mezo id = "panev">SzabÃ³ Etelka</mezo>
 <mezo id = "pirsz">1033</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Kaszásdûlõ utca 1.</mezo>
+<mezo id = "pteru">KaszÃ¡sdÅ±lÅ‘ utca 1.</mezo>
 <mezo id = "jogvk">20080612</mezo>
 <mezo id = "jogvv">20120531</mezo>
 <mezo id = "valtk">20090901</mezo>
@@ -1675,7 +1675,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20041122</mezo>
 <mezo id = "cgjsz">110044202</mezo>
-<mezo id = "nev">INDEX. HU Informatikai Részvénytársaság</mezo>
+<mezo id = "nev">INDEX. HU Informatikai RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "20">
@@ -1703,18 +1703,18 @@
 <mezo id = "adosz">12765335241</mezo>
 <mezo id = "kadosz">HU12765335</mezo>
 <mezo id = "bkelt">20110922</mezo>
-<mezo id = "megj">Státusz kezdete: 2001/12/21</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 2001/12/21</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0110">
 <alrovat id = "9">
 <mezo id = "hattol">20071221</mezo>
 <mezo id = "cgjsz">110044552</mezo>
-<mezo id = "nev">Közép-Európai Média és Kiadói Szolgáltató Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">KÃ¶zÃ©p-EurÃ³pai MÃ©dia Ã©s KiadÃ³i SzolgÃ¡ltatÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1075</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Madách tér</mezo>
+<mezo id = "teru">MadÃ¡ch tÃ©r</mezo>
 <mezo id = "hsz">4.</mezo>
 <mezo id = "tagsk">20041213</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -1734,502 +1734,502 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Café Kereskedõház Részvénytársaságban (Cg.: [01 10 044705]; székhely: 1138 Budapest, Váci út 141.; új név és székhely: Webkiadó.hu Kulturális Részvénytársaság; 1134 Budapest, Klapka u. 1–3.) 2004. február 27-én (részvénykönyvi bejegyzés dátuma) Sándor István (1039 Budapest, Perényi u. 15.) 30%-ot kitevõ jelentõs befolyást szerzett.<ujsor/>
+<mezo id = "szoveg">A CafÃ© KereskedÅ‘hÃ¡z RÃ©szvÃ©nytÃ¡rsasÃ¡gban (Cg.: [01 10 044705]; szÃ©khely: 1138 Budapest, VÃ¡ci Ãºt 141.; Ãºj nÃ©v Ã©s szÃ©khely: WebkiadÃ³.hu KulturÃ¡lis RÃ©szvÃ©nytÃ¡rsasÃ¡g; 1134 Budapest, Klapka u. 1â€“3.) 2004. februÃ¡r 27-Ã©n (rÃ©szvÃ©nykÃ¶nyvi bejegyzÃ©s dÃ¡tuma) SÃ¡ndor IstvÃ¡n (1039 Budapest, PerÃ©nyi u. 15.) 30%-ot kitevÅ‘ jelentÅ‘s befolyÃ¡st szerzett.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044705</mezo>
-<mezo id = "nev">Café Kereskedõház Rt.</mezo>
-<mezo id = "cim">1138 Budapest, Váci út 141. </mezo>
+<mezo id = "nev">CafÃ© KereskedÅ‘hÃ¡z Rt.</mezo>
+<mezo id = "cim">1138 Budapest, VÃ¡ci Ãºt 141. </mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Café Kereskedõház Részvénytársaságban (Cg.: [01 10 044705]; székhely: 1138 Budapest, Váci út 141.; új név és székhely: Webkiadó.hu Kulturális Részvénytársaság; 1134 Budapest, Klapka u. 1–3.) 2004. február 27-én (részvénykönyvi bejegyzés dátuma) a WALLITRADE Kft. (Cg.: [01 09 076580]; 1134 Budapest, Váci út 43.) 30%-ot kitevõ jelentõs befolyást szerzett.<ujsor/>
+<mezo id = "szoveg">A CafÃ© KereskedÅ‘hÃ¡z RÃ©szvÃ©nytÃ¡rsasÃ¡gban (Cg.: [01 10 044705]; szÃ©khely: 1138 Budapest, VÃ¡ci Ãºt 141.; Ãºj nÃ©v Ã©s szÃ©khely: WebkiadÃ³.hu KulturÃ¡lis RÃ©szvÃ©nytÃ¡rsasÃ¡g; 1134 Budapest, Klapka u. 1â€“3.) 2004. februÃ¡r 27-Ã©n (rÃ©szvÃ©nykÃ¶nyvi bejegyzÃ©s dÃ¡tuma) a WALLITRADE Kft. (Cg.: [01 09 076580]; 1134 Budapest, VÃ¡ci Ãºt 43.) 30%-ot kitevÅ‘ jelentÅ‘s befolyÃ¡st szerzett.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044705</mezo>
-<mezo id = "nev">Café Kereskedõház Rt.</mezo>
-<mezo id = "cim">1138 Budapest, Váci út 141. </mezo>
+<mezo id = "nev">CafÃ© KereskedÅ‘hÃ¡z Rt.</mezo>
+<mezo id = "cim">1138 Budapest, VÃ¡ci Ãºt 141. </mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Café Kereskedõház Részvénytársaságban (Cg.: [01 10 044705]; székhely: 1138 Budapest, Váci út 141.; új név és székhely: Webkiadó.hu Kulturális Részvénytársaság; 1134 Budapest, Klapka u. 1–3.) 2004. február 27-én (részvénykönyvi bejegyzés dátuma) Mucsi György (1055 Budapest, Balaton u. 23.) 40%-ot kitevõ jelentõs befolyást szerzett.<ujsor/>
+<mezo id = "szoveg">A CafÃ© KereskedÅ‘hÃ¡z RÃ©szvÃ©nytÃ¡rsasÃ¡gban (Cg.: [01 10 044705]; szÃ©khely: 1138 Budapest, VÃ¡ci Ãºt 141.; Ãºj nÃ©v Ã©s szÃ©khely: WebkiadÃ³.hu KulturÃ¡lis RÃ©szvÃ©nytÃ¡rsasÃ¡g; 1134 Budapest, Klapka u. 1â€“3.) 2004. februÃ¡r 27-Ã©n (rÃ©szvÃ©nykÃ¶nyvi bejegyzÃ©s dÃ¡tuma) Mucsi GyÃ¶rgy (1055 Budapest, Balaton u. 23.) 40%-ot kitevÅ‘ jelentÅ‘s befolyÃ¡st szerzett.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044705</mezo>
-<mezo id = "nev">Café Kereskedõház Rt.</mezo>
-<mezo id = "cim">1138 Budapest, Váci út 141. </mezo>
+<mezo id = "nev">CafÃ© KereskedÅ‘hÃ¡z Rt.</mezo>
+<mezo id = "cim">1138 Budapest, VÃ¡ci Ãºt 141. </mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság által bejegyzett INDEX.HU Informatikai Részvénytársaság<ujsor/>
-egyesüléssel<ujsor/>
-történõ átalakulását határozta el oly módon, hogy az INDEX.HU Informatikai Részvénytársaság (Cg.: [01 10 044202]; székhely: 1134 Budapest, Klapka u. 1–3.) beolvad a WEBKIADÓ.HU Kulturális Részvénytársaságba (Cg.: [01 10 044705]; székhely: 1134 Budapest, Klapka u. 1–3.).<ujsor/>
-Az egyesülés módja: beolvadás.<ujsor/>
-Az egyesüléssel létrejövõ gazdasági társaság az 1997. évi CXLIV. tv. 65. §-ban foglalt adatai: Formája: zártkörû részvénytársaság.<ujsor/>
-Neve: INDEX.HU Informatikai Részvénytársaság.<ujsor/>
-Székhelye: 1134 Budapest, Klapka u. 1–3.<ujsor/>
-A társasági szerzõdés megkötésének napja: 2004. július 30.<ujsor/>
-A társaság jegyzett tõkéje 20 000 000 Ft (húszmillió forint), mely kizárólag nem pénzbeli hozzájárulásból áll.<ujsor/>
-A társaság alaptõkéje 2000 db (kettõezer darab), egyenként 10 000 Ft (tízezer forint) névértékû részvénybõl áll. A részvények névre szóló törzsrészvények, amelyek a részvényeseknek egyenlõ jogokat biztosítanak.<ujsor/>
-A társaság tevékenységi körei (TEÁOR ’03): 2211 Könyvkiadás; 2212 Napilapkiadás; 2213 Idõszaki kiadvány kiadása; 2214 Hangfelvétel-kiadás; 2215 Egyéb kiadás; 2221 Napilapnyomás; 2222 Máshova nem sorolt nyomás; 2225 Kisegítõ nyomdai tevékenység; 2231 Hangfelvétel-sokszorosítás; 2232 Videofelvétel-sokszorosítás; 2233 Számítógépes adathordozó sokszorosítása; 3002 Számítógép, készülék gyártása; 3210 Elektronikai alkatrész gyártása; 3630 Hangszergyártás; 5119 Vegyes termékkörû ügynöki nagykereskedelem; 5143 Elektromos háztartási cikk nagykereskedelme; 5190 Egyéb nagykereskedelem; 5245 Elektromos háztartási cikk kiskereskedelme; 5247 Könyv-, újság-, papíráru-kiskereskedelem; 5248 Egyéb, máshová nem sorolt iparcikk-kiskereskedelem; 5250 Használtcikk-kiskereskedelem; 5261 Csomagküldõ kiskereskedelem; 5263 Egyéb, nem bolti kiskereskedelem; 5272 Elektromos háztartási cikk javítása; 5274 Egyéb fogyasztási cikk javítása; 6420 Távközlés; 6713 Máshova nem sorolt, egyéb pénzügyi kiegészítõ tevékenység; 7031 Ingatlanügynöki tevékenység; 7133 Irodagép, számítógép kölcsönzése; 7210 Hardver-szaktanácsadás; 7221 Szoftverkiadás; 7222 Egyéb szoftver-szaktanácsadás, -ellátás; 7230 Adatfeldolgozás; 7240 Adatbázis-tevékenység, on-line-kiadás; 7250 Iroda-, számítógép-javítás; 7260 Egyéb számítástechnikai tevékenység; 7310 Mûszaki kutatás, fejlesztés; 7320 Humán kutatás, fejlesztés; 7413 Piac-, közvélemény-kutatás; 7414 Üzletviteli tanácsadás; 7420 Mérnöki tevékenység, tanácsadás; 7440 Hirdetés; 7450 Munkaerõ-közvetítés; 7487 Máshová nem sorolt, egyéb gazdasági szolgáltatás; 9211 Film-, videogyártás; 9212 Film-, videoterjesztés; 9231 Alkotó- és elõadómûvészet; 9232 Mûvészeti kiegészítõ tevékenység; 9234 Máshova nem sorolható egyéb szórakoztatás.<ujsor/>
-A társaság vezetõ tisztségviselõje: Mucsi György (a. n.: Sasi Erzsébet; 1055 Budapest, Balaton u. 23.).<ujsor/>
-A társaság igazgatóságának tagjai: Gábor Iván (a. n.: dr. Klatsmány Piroska; 1221 Budapest, Panoráma u. 25.), Sándor István (a. n.: Roth Ilona; 1039 Budapest, Perényi u. 15.), Uj Péter (a. n.: Csikós Katalin; 1118 Budapest, Somlói út 2/B).<ujsor/>
-A társaság felügyelõbizottságának tagjai: dr. Bodolai László (a. n.: Darida Mária; 2071 Páty, Május 1. 11.), Ormosy Gábor (a. n.: Budai Mária; 1039 Budapest, Halastó u. 21.), dr. Varga János Tamás (a. n.: Kelemen Erzsébet; 8000 Székesfehérvár, Lehel u. 10.).<ujsor/>
-Az átalakulással létrejövõ gazdasági társaság vagyonmérleg-tervezete:<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g Ã¡ltal bejegyzett INDEX.HU Informatikai RÃ©szvÃ©nytÃ¡rsasÃ¡g<ujsor/>
+egyesÃ¼lÃ©ssel<ujsor/>
+tÃ¶rtÃ©nÅ‘ Ã¡talakulÃ¡sÃ¡t hatÃ¡rozta el oly mÃ³don, hogy az INDEX.HU Informatikai RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 044202]; szÃ©khely: 1134 Budapest, Klapka u. 1â€“3.) beolvad a WEBKIADÃ“.HU KulturÃ¡lis RÃ©szvÃ©nytÃ¡rsasÃ¡gba (Cg.: [01 10 044705]; szÃ©khely: 1134 Budapest, Klapka u. 1â€“3.).<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: beolvadÃ¡s.<ujsor/>
+Az egyesÃ¼lÃ©ssel lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g az 1997. Ã©vi CXLIV. tv. 65. Â§-ban foglalt adatai: FormÃ¡ja: zÃ¡rtkÃ¶rÅ± rÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+Neve: INDEX.HU Informatikai RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 1134 Budapest, Klapka u. 1â€“3.<ujsor/>
+A tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s megkÃ¶tÃ©sÃ©nek napja: 2004. jÃºlius 30.<ujsor/>
+A tÃ¡rsasÃ¡g jegyzett tÅ‘kÃ©je 20 000 000 Ft (hÃºszmilliÃ³ forint), mely kizÃ¡rÃ³lag nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡sbÃ³l Ã¡ll.<ujsor/>
+A tÃ¡rsasÃ¡g alaptÅ‘kÃ©je 2000 db (kettÅ‘ezer darab), egyenkÃ©nt 10 000 Ft (tÃ­zezer forint) nÃ©vÃ©rtÃ©kÅ± rÃ©szvÃ©nybÅ‘l Ã¡ll. A rÃ©szvÃ©nyek nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©nyek, amelyek a rÃ©szvÃ©nyeseknek egyenlÅ‘ jogokat biztosÃ­tanak.<ujsor/>
+A tÃ¡rsasÃ¡g tevÃ©kenysÃ©gi kÃ¶rei (TEÃOR â€™03): 2211 KÃ¶nyvkiadÃ¡s; 2212 NapilapkiadÃ¡s; 2213 IdÅ‘szaki kiadvÃ¡ny kiadÃ¡sa; 2214 HangfelvÃ©tel-kiadÃ¡s; 2215 EgyÃ©b kiadÃ¡s; 2221 NapilapnyomÃ¡s; 2222 MÃ¡shova nem sorolt nyomÃ¡s; 2225 KisegÃ­tÅ‘ nyomdai tevÃ©kenysÃ©g; 2231 HangfelvÃ©tel-sokszorosÃ­tÃ¡s; 2232 VideofelvÃ©tel-sokszorosÃ­tÃ¡s; 2233 SzÃ¡mÃ­tÃ³gÃ©pes adathordozÃ³ sokszorosÃ­tÃ¡sa; 3002 SzÃ¡mÃ­tÃ³gÃ©p, kÃ©szÃ¼lÃ©k gyÃ¡rtÃ¡sa; 3210 Elektronikai alkatrÃ©sz gyÃ¡rtÃ¡sa; 3630 HangszergyÃ¡rtÃ¡s; 5119 Vegyes termÃ©kkÃ¶rÅ± Ã¼gynÃ¶ki nagykereskedelem; 5143 Elektromos hÃ¡ztartÃ¡si cikk nagykereskedelme; 5190 EgyÃ©b nagykereskedelem; 5245 Elektromos hÃ¡ztartÃ¡si cikk kiskereskedelme; 5247 KÃ¶nyv-, ÃºjsÃ¡g-, papÃ­rÃ¡ru-kiskereskedelem; 5248 EgyÃ©b, mÃ¡shovÃ¡ nem sorolt iparcikk-kiskereskedelem; 5250 HasznÃ¡ltcikk-kiskereskedelem; 5261 CsomagkÃ¼ldÅ‘ kiskereskedelem; 5263 EgyÃ©b, nem bolti kiskereskedelem; 5272 Elektromos hÃ¡ztartÃ¡si cikk javÃ­tÃ¡sa; 5274 EgyÃ©b fogyasztÃ¡si cikk javÃ­tÃ¡sa; 6420 TÃ¡vkÃ¶zlÃ©s; 6713 MÃ¡shova nem sorolt, egyÃ©b pÃ©nzÃ¼gyi kiegÃ©szÃ­tÅ‘ tevÃ©kenysÃ©g; 7031 IngatlanÃ¼gynÃ¶ki tevÃ©kenysÃ©g; 7133 IrodagÃ©p, szÃ¡mÃ­tÃ³gÃ©p kÃ¶lcsÃ¶nzÃ©se; 7210 Hardver-szaktanÃ¡csadÃ¡s; 7221 SzoftverkiadÃ¡s; 7222 EgyÃ©b szoftver-szaktanÃ¡csadÃ¡s, -ellÃ¡tÃ¡s; 7230 AdatfeldolgozÃ¡s; 7240 AdatbÃ¡zis-tevÃ©kenysÃ©g, on-line-kiadÃ¡s; 7250 Iroda-, szÃ¡mÃ­tÃ³gÃ©p-javÃ­tÃ¡s; 7260 EgyÃ©b szÃ¡mÃ­tÃ¡stechnikai tevÃ©kenysÃ©g; 7310 MÅ±szaki kutatÃ¡s, fejlesztÃ©s; 7320 HumÃ¡n kutatÃ¡s, fejlesztÃ©s; 7413 Piac-, kÃ¶zvÃ©lemÃ©ny-kutatÃ¡s; 7414 Ãœzletviteli tanÃ¡csadÃ¡s; 7420 MÃ©rnÃ¶ki tevÃ©kenysÃ©g, tanÃ¡csadÃ¡s; 7440 HirdetÃ©s; 7450 MunkaerÅ‘-kÃ¶zvetÃ­tÃ©s; 7487 MÃ¡shovÃ¡ nem sorolt, egyÃ©b gazdasÃ¡gi szolgÃ¡ltatÃ¡s; 9211 Film-, videogyÃ¡rtÃ¡s; 9212 Film-, videoterjesztÃ©s; 9231 AlkotÃ³- Ã©s elÅ‘adÃ³mÅ±vÃ©szet; 9232 MÅ±vÃ©szeti kiegÃ©szÃ­tÅ‘ tevÃ©kenysÃ©g; 9234 MÃ¡shova nem sorolhatÃ³ egyÃ©b szÃ³rakoztatÃ¡s.<ujsor/>
+A tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘je: Mucsi GyÃ¶rgy (a. n.: Sasi ErzsÃ©bet; 1055 Budapest, Balaton u. 23.).<ujsor/>
+A tÃ¡rsasÃ¡g igazgatÃ³sÃ¡gÃ¡nak tagjai: GÃ¡bor IvÃ¡n (a. n.: dr. KlatsmÃ¡ny Piroska; 1221 Budapest, PanorÃ¡ma u. 25.), SÃ¡ndor IstvÃ¡n (a. n.: Roth Ilona; 1039 Budapest, PerÃ©nyi u. 15.), Uj PÃ©ter (a. n.: CsikÃ³s Katalin; 1118 Budapest, SomlÃ³i Ãºt 2/B).<ujsor/>
+A tÃ¡rsasÃ¡g felÃ¼gyelÅ‘bizottsÃ¡gÃ¡nak tagjai: dr. Bodolai LÃ¡szlÃ³ (a. n.: Darida MÃ¡ria; 2071 PÃ¡ty, MÃ¡jus 1. 11.), Ormosy GÃ¡bor (a. n.: Budai MÃ¡ria; 1039 Budapest, HalastÃ³ u. 21.), dr. Varga JÃ¡nos TamÃ¡s (a. n.: Kelemen ErzsÃ©bet; 8000 SzÃ©kesfehÃ©rvÃ¡r, Lehel u. 10.).<ujsor/>
+Az Ã¡talakulÃ¡ssal lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g vagyonmÃ©rleg-tervezete:<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK (aktívák) Átvevõ Beolvadó Különbözetek Rendezés Jogutód<ujsor/>
-A) Befektetett eszközök 517 477 252 653 –7 477 0 762 653<ujsor/>
-I. Immateriális javak 0 171 508 510 000 0 681 508<ujsor/>
-Alapítás-átszervezés aktivált értéke 0<ujsor/>
-Kísérleti fejlesztés aktivált értéke 0<ujsor/>
-Vagyoni értékû jogok 42 165 42 165<ujsor/>
-Szellemi termékek 129 343 129 343<ujsor/>
-Üzleti vagy cégérték 510 000 510 000<ujsor/>
-Immateriális javakra adott elõlegek 0<ujsor/>
-Immateriális javak értékhelyesbítése 0<ujsor/>
-II. Tárgyi eszközök 0 73 825 0 0 73 825<ujsor/>
-Ingatlanok és a kapcs. vagyoni ért. jogok 10 803 10 803<ujsor/>
-Mûszaki berendezések, felsz., jármûvek 26 642 26 642<ujsor/>
-Egyéb berend., felszerelések, jármûvek 10 896 10 896<ujsor/>
-Tenyészállatok 0<ujsor/>
-Beruházások, felújítások 0 25 446 25 446<ujsor/>
-Beruházásokra adott elõlegek 38 38<ujsor/>
-Tárgyi eszközök értékhelyesbítése 0<ujsor/>
-III. Befektetett pénzügyi eszközök 517 477 7 320 –517 477 0 7 320<ujsor/>
-Tartós részesedés kapcs. vállalkozásban 517 477 7 320 –517 477 7 320<ujsor/>
-Tartósan adott kölcsön kapcs. vállalk.-ban 0<ujsor/>
-Egyéb tartós részesedés 0<ujsor/>
-Tart. adott kölcsön egyéb részesedési viszonyban álló vállalkozásban 0<ujsor/>
-Egyéb tartósan adott kölcsön 0<ujsor/>
-Tartós hitelviszonyt megtestesítõ értékp. 0<ujsor/>
-Befektetett pü. eszk. értékhelyesbítése 0<ujsor/>
-B) Forgóeszközök 31 743 142 404 –20 000 0 154 147<ujsor/>
-I. Készletek 0 677 0 0 677<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) ÃtvevÅ‘ BeolvadÃ³ KÃ¼lÃ¶nbÃ¶zetek RendezÃ©s JogutÃ³d<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 517 477 252 653 â€“7 477 0 762 653<ujsor/>
+I. ImmateriÃ¡lis javak 0 171 508 510 000 0 681 508<ujsor/>
+AlapÃ­tÃ¡s-Ã¡tszervezÃ©s aktivÃ¡lt Ã©rtÃ©ke 0<ujsor/>
+KÃ­sÃ©rleti fejlesztÃ©s aktivÃ¡lt Ã©rtÃ©ke 0<ujsor/>
+Vagyoni Ã©rtÃ©kÅ± jogok 42 165 42 165<ujsor/>
+Szellemi termÃ©kek 129 343 129 343<ujsor/>
+Ãœzleti vagy cÃ©gÃ©rtÃ©k 510 000 510 000<ujsor/>
+ImmateriÃ¡lis javakra adott elÅ‘legek 0<ujsor/>
+ImmateriÃ¡lis javak Ã©rtÃ©khelyesbÃ­tÃ©se 0<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 0 73 825 0 0 73 825<ujsor/>
+Ingatlanok Ã©s a kapcs. vagyoni Ã©rt. jogok 10 803 10 803<ujsor/>
+MÅ±szaki berendezÃ©sek, felsz., jÃ¡rmÅ±vek 26 642 26 642<ujsor/>
+EgyÃ©b berend., felszerelÃ©sek, jÃ¡rmÅ±vek 10 896 10 896<ujsor/>
+TenyÃ©szÃ¡llatok 0<ujsor/>
+BeruhÃ¡zÃ¡sok, felÃºjÃ­tÃ¡sok 0 25 446 25 446<ujsor/>
+BeruhÃ¡zÃ¡sokra adott elÅ‘legek 38 38<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k Ã©rtÃ©khelyesbÃ­tÃ©se 0<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 517 477 7 320 â€“517 477 0 7 320<ujsor/>
+TartÃ³s rÃ©szesedÃ©s kapcs. vÃ¡llalkozÃ¡sban 517 477 7 320 â€“517 477 7 320<ujsor/>
+TartÃ³san adott kÃ¶lcsÃ¶n kapcs. vÃ¡llalk.-ban 0<ujsor/>
+EgyÃ©b tartÃ³s rÃ©szesedÃ©s 0<ujsor/>
+Tart. adott kÃ¶lcsÃ¶n egyÃ©b rÃ©szesedÃ©si viszonyban Ã¡llÃ³ vÃ¡llalkozÃ¡sban 0<ujsor/>
+EgyÃ©b tartÃ³san adott kÃ¶lcsÃ¶n 0<ujsor/>
+TartÃ³s hitelviszonyt megtestesÃ­tÅ‘ Ã©rtÃ©kp. 0<ujsor/>
+Befektetett pÃ¼. eszk. Ã©rtÃ©khelyesbÃ­tÃ©se 0<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 31 743 142 404 â€“20 000 0 154 147<ujsor/>
+I. KÃ©szletek 0 677 0 0 677<ujsor/>
 Anyagok 0<ujsor/>
-Befejezetlen termelés és félkész termékek 0<ujsor/>
-Növendék-, hízó- és egyéb állatok 0<ujsor/>
-Késztermékek 0<ujsor/>
-Áruk 562 562<ujsor/>
-Készletre adott elõlegek 115 115<ujsor/>
-II. Követelések 30 841 130 434 –20 000 0 141 275<ujsor/>
-Követelések áruszáll.-ból és szolg.-ból (vevõk) 104 870 104 870<ujsor/>
-Követelések kapcs. vállalkozással szemben 2 500 2 500<ujsor/>
-Köv. egyéb rész. visz. lévõ vállalk. szemben 0<ujsor/>
-Váltókövetelések 0<ujsor/>
-Egyéb követelések 30 841 23 064 –20 000 33 905<ujsor/>
-III. Értékpapírok 0 0 0 0 0<ujsor/>
-Részesedés kapcsolt vállalkozásban 0<ujsor/>
-Egyéb részesedés 0<ujsor/>
-Saját részvények, saját üzletrészek 0<ujsor/>
-Forg. célú hitelviszonyt megtestesítõ értékp. 0<ujsor/>
-IV. Pénzeszközök 902 11 293 0 0 12 195<ujsor/>
-Pénztár, csekkek 30 144 174<ujsor/>
-Bankbetétek 872 11 149 12 021<ujsor/>
-C) Aktív idõbeli elhatárolások 1 967 26 571 0 0 28 538<ujsor/>
-Bevételek aktív idõbeli elhatárolása 1 967 13 859 15 826<ujsor/>
-Költségek, ráford. aktív idõb. elhatárolása 4 309 4 309<ujsor/>
-Halasztott ráfordítások 8 403 8 403<ujsor/>
-ÖSSZESEN: 551 187 421 628 –27 477 0 945 338<ujsor/>
+Befejezetlen termelÃ©s Ã©s fÃ©lkÃ©sz termÃ©kek 0<ujsor/>
+NÃ¶vendÃ©k-, hÃ­zÃ³- Ã©s egyÃ©b Ã¡llatok 0<ujsor/>
+KÃ©sztermÃ©kek 0<ujsor/>
+Ãruk 562 562<ujsor/>
+KÃ©szletre adott elÅ‘legek 115 115<ujsor/>
+II. KÃ¶vetelÃ©sek 30 841 130 434 â€“20 000 0 141 275<ujsor/>
+KÃ¶vetelÃ©sek Ã¡ruszÃ¡ll.-bÃ³l Ã©s szolg.-bÃ³l (vevÅ‘k) 104 870 104 870<ujsor/>
+KÃ¶vetelÃ©sek kapcs. vÃ¡llalkozÃ¡ssal szemben 2 500 2 500<ujsor/>
+KÃ¶v. egyÃ©b rÃ©sz. visz. lÃ©vÅ‘ vÃ¡llalk. szemben 0<ujsor/>
+VÃ¡ltÃ³kÃ¶vetelÃ©sek 0<ujsor/>
+EgyÃ©b kÃ¶vetelÃ©sek 30 841 23 064 â€“20 000 33 905<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 0 0 0 0<ujsor/>
+RÃ©szesedÃ©s kapcsolt vÃ¡llalkozÃ¡sban 0<ujsor/>
+EgyÃ©b rÃ©szesedÃ©s 0<ujsor/>
+SajÃ¡t rÃ©szvÃ©nyek, sajÃ¡t Ã¼zletrÃ©szek 0<ujsor/>
+Forg. cÃ©lÃº hitelviszonyt megtestesÃ­tÅ‘ Ã©rtÃ©kp. 0<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 902 11 293 0 0 12 195<ujsor/>
+PÃ©nztÃ¡r, csekkek 30 144 174<ujsor/>
+BankbetÃ©tek 872 11 149 12 021<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 1 967 26 571 0 0 28 538<ujsor/>
+BevÃ©telek aktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sa 1 967 13 859 15 826<ujsor/>
+KÃ¶ltsÃ©gek, rÃ¡ford. aktÃ­v idÅ‘b. elhatÃ¡rolÃ¡sa 4 309 4 309<ujsor/>
+Halasztott rÃ¡fordÃ­tÃ¡sok 8 403 8 403<ujsor/>
+Ã–SSZESEN: 551 187 421 628 â€“27 477 0 945 338<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK (passzívák) Átvevõ Beolvadó Különbözetek Rendezés Jogutód<ujsor/>
-D) Saját tõke 2 766 133 204 –7 477 0 128 493<ujsor/>
-I. Jegyzett tõke 20 000 116 291 –116 291 20 000<ujsor/>
-Ebbõl: visszavásárolt tul. rész. névértéken 0<ujsor/>
-II. Jegyz., de még be nem fiz. tõke (–) 0<ujsor/>
-III. Tõketartalék 1 023 841 –1 023 841 0<ujsor/>
-IV. Eredménytartalék –17 234 –1 006 928 1 132 655 –20 000 88 493<ujsor/>
-V. Lekötött tartalék 0 20 000 20 000<ujsor/>
-VI. Értékelési tartalék 0<ujsor/>
-VII. Mérleg szerinti eredmény 0 0 0 0<ujsor/>
-E) Céltartalékok 0 16 500 0 0 16 500<ujsor/>
-Céltartalék a várható kötelezettségekre 16 500 16 500<ujsor/>
-Céltartalék a jövõbeni költségekre 0<ujsor/>
-Egyéb céltartalék 0<ujsor/>
-F) Kötelezettségek 537 403 263 179 –20 000 0 780 582<ujsor/>
-I. Hátra sorolt kötelezettségek 0 0 0 0 0<ujsor/>
-Hátra sorolt köt. kapcs. váll. szemben 0<ujsor/>
-Hátra sorolt köt. egyéb rész. visz.-ban lévõ vállalkozással szemben 0<ujsor/>
-Hátra sorolt köt. egyéb gazd.-val szemben 0<ujsor/>
-II. Hosszú lejáratú kötelezettségek 293 250 4 786 0 0 298 036<ujsor/>
-Hosszú lejáratra kapott kölcsönök 293 250 293 250<ujsor/>
-Átváltoztatható kötvények 0<ujsor/>
-Tartozások kötvénykibocsátásból 0<ujsor/>
-Beruházási és fejlesztési hitelek 0<ujsor/>
-Egyéb hosszú lejáratú hitelek 0<ujsor/>
-Tartós köt. kapcs. vállalk. szemben 0<ujsor/>
-Tartós köt. egyéb rész. viszonyban lévõ vállalkozással szemben 0<ujsor/>
-Egyéb hosszú lejáratú kötelezettségek 4 786 4 786<ujsor/>
-III. Rövid lejáratú kötelezettségek 244 153 258 393 –20 000 0 482 546<ujsor/>
-Rövid lejáratú kölcsönök 489 489<ujsor/>
-– ebbõl: az átváltoztatható kötvények 0<ujsor/>
-Rövid lejáratú hitelek 243 750 243 750<ujsor/>
-Vevõktõl kapott elõlegek 28 190 28 190<ujsor/>
-Köt. áruszáll.-ból és szolg.-ból (szállítók) 373 194 298 194 671<ujsor/>
-Váltótartozások 0<ujsor/>
-Rövid lej. köt. kapcs. vállalk. szemben 20 000 –20 000 0<ujsor/>
-Rövid lej. köt. egyéb rész. viszonyban lévõ vállalkozással szemben 0<ujsor/>
-Egyéb rövid lejáratú kötelezettségek 30 15 416 15 446<ujsor/>
-G) Passzív idõbeli elhatárolások 11 018 8 745 0 0 19 763<ujsor/>
-Bevételek passzív idõbeli elhatárolása 1 279 1 279<ujsor/>
-Költs., ráford. passzív idõb. elhatárolása 11 018 7 466 18 484<ujsor/>
-Halasztott bevételek 0<ujsor/>
-ÖSSZESEN: 551 187 421 628 –27 477 0 945 338<ujsor/>
-Az átalakuló gazdasági társaság felhívja azon hitelezõit, akiknek az átalakuló gazdasági társasággal szemben fennálló le nem járt követelései az átalakulással hozott döntés elsõ közzétételét megelõzõen keletkeztek, hogy követeléseik erejéig az átalakuló gazdasági társaságtól a döntés második közzétételét követõ 30 napos jogvesztõ határidõn belül biztosítékot követelhetnek.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+FORRÃSOK (passzÃ­vÃ¡k) ÃtvevÅ‘ BeolvadÃ³ KÃ¼lÃ¶nbÃ¶zetek RendezÃ©s JogutÃ³d<ujsor/>
+D) SajÃ¡t tÅ‘ke 2 766 133 204 â€“7 477 0 128 493<ujsor/>
+I. Jegyzett tÅ‘ke 20 000 116 291 â€“116 291 20 000<ujsor/>
+EbbÅ‘l: visszavÃ¡sÃ¡rolt tul. rÃ©sz. nÃ©vÃ©rtÃ©ken 0<ujsor/>
+II. Jegyz., de mÃ©g be nem fiz. tÅ‘ke (â€“) 0<ujsor/>
+III. TÅ‘ketartalÃ©k 1 023 841 â€“1 023 841 0<ujsor/>
+IV. EredmÃ©nytartalÃ©k â€“17 234 â€“1 006 928 1 132 655 â€“20 000 88 493<ujsor/>
+V. LekÃ¶tÃ¶tt tartalÃ©k 0 20 000 20 000<ujsor/>
+VI. Ã‰rtÃ©kelÃ©si tartalÃ©k 0<ujsor/>
+VII. MÃ©rleg szerinti eredmÃ©ny 0 0 0 0<ujsor/>
+E) CÃ©ltartalÃ©kok 0 16 500 0 0 16 500<ujsor/>
+CÃ©ltartalÃ©k a vÃ¡rhatÃ³ kÃ¶telezettsÃ©gekre 16 500 16 500<ujsor/>
+CÃ©ltartalÃ©k a jÃ¶vÅ‘beni kÃ¶ltsÃ©gekre 0<ujsor/>
+EgyÃ©b cÃ©ltartalÃ©k 0<ujsor/>
+F) KÃ¶telezettsÃ©gek 537 403 263 179 â€“20 000 0 780 582<ujsor/>
+I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0 0 0 0 0<ujsor/>
+HÃ¡tra sorolt kÃ¶t. kapcs. vÃ¡ll. szemben 0<ujsor/>
+HÃ¡tra sorolt kÃ¶t. egyÃ©b rÃ©sz. visz.-ban lÃ©vÅ‘ vÃ¡llalkozÃ¡ssal szemben 0<ujsor/>
+HÃ¡tra sorolt kÃ¶t. egyÃ©b gazd.-val szemben 0<ujsor/>
+II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 293 250 4 786 0 0 298 036<ujsor/>
+HosszÃº lejÃ¡ratra kapott kÃ¶lcsÃ¶nÃ¶k 293 250 293 250<ujsor/>
+ÃtvÃ¡ltoztathatÃ³ kÃ¶tvÃ©nyek 0<ujsor/>
+TartozÃ¡sok kÃ¶tvÃ©nykibocsÃ¡tÃ¡sbÃ³l 0<ujsor/>
+BeruhÃ¡zÃ¡si Ã©s fejlesztÃ©si hitelek 0<ujsor/>
+EgyÃ©b hosszÃº lejÃ¡ratÃº hitelek 0<ujsor/>
+TartÃ³s kÃ¶t. kapcs. vÃ¡llalk. szemben 0<ujsor/>
+TartÃ³s kÃ¶t. egyÃ©b rÃ©sz. viszonyban lÃ©vÅ‘ vÃ¡llalkozÃ¡ssal szemben 0<ujsor/>
+EgyÃ©b hosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 4 786 4 786<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 244 153 258 393 â€“20 000 0 482 546<ujsor/>
+RÃ¶vid lejÃ¡ratÃº kÃ¶lcsÃ¶nÃ¶k 489 489<ujsor/>
+â€“ ebbÅ‘l: az Ã¡tvÃ¡ltoztathatÃ³ kÃ¶tvÃ©nyek 0<ujsor/>
+RÃ¶vid lejÃ¡ratÃº hitelek 243 750 243 750<ujsor/>
+VevÅ‘ktÅ‘l kapott elÅ‘legek 28 190 28 190<ujsor/>
+KÃ¶t. Ã¡ruszÃ¡ll.-bÃ³l Ã©s szolg.-bÃ³l (szÃ¡llÃ­tÃ³k) 373 194 298 194 671<ujsor/>
+VÃ¡ltÃ³tartozÃ¡sok 0<ujsor/>
+RÃ¶vid lej. kÃ¶t. kapcs. vÃ¡llalk. szemben 20 000 â€“20 000 0<ujsor/>
+RÃ¶vid lej. kÃ¶t. egyÃ©b rÃ©sz. viszonyban lÃ©vÅ‘ vÃ¡llalkozÃ¡ssal szemben 0<ujsor/>
+EgyÃ©b rÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 30 15 416 15 446<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 11 018 8 745 0 0 19 763<ujsor/>
+BevÃ©telek passzÃ­v idÅ‘beli elhatÃ¡rolÃ¡sa 1 279 1 279<ujsor/>
+KÃ¶lts., rÃ¡ford. passzÃ­v idÅ‘b. elhatÃ¡rolÃ¡sa 11 018 7 466 18 484<ujsor/>
+Halasztott bevÃ©telek 0<ujsor/>
+Ã–SSZESEN: 551 187 421 628 â€“27 477 0 945 338<ujsor/>
+Az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g felhÃ­vja azon hitelezÅ‘it, akiknek az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³ le nem jÃ¡rt kÃ¶vetelÃ©sei az Ã¡talakulÃ¡ssal hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, hogy kÃ¶vetelÃ©seik erejÃ©ig az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gtÃ³l a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ 30 napos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044705</mezo>
-<mezo id = "nev">Café Kereskedõház Rt.</mezo>
+<mezo id = "nev">CafÃ© KereskedÅ‘hÃ¡z Rt.</mezo>
 <mezo id = "cim">1134 Budapest, Klapka u. 1-3. </mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság által bejegyzett INDEX.HU Informatikai Részvénytársaság<ujsor/>
-egyesüléssel<ujsor/>
-történõ átalakulását határozta el oly módon, hogy az INDEX.HU Informatikai Részvénytársaság (Cg.: [01 10 044202]; székhely: 1134 Budapest, Klapka u. 1–3.) beolvad a WEBKIADÓ.HU Kulturális Részvénytársaságba (Cg.: [01 10 044705]; székhely: 1134 Budapest, Klapka u. 1–3.).<ujsor/>
-Az egyesülés módja: beolvadás.<ujsor/>
-Az egyesüléssel létrejövõ gazdasági társaság az 1997. évi CXLIV. tv. 65. §-ban foglalt adatai: Formája: zártkörû részvénytársaság.<ujsor/>
-Neve: INDEX.HU Informatikai Részvénytársaság.<ujsor/>
-Székhelye: 1134 Budapest, Klapka u. 1–3.<ujsor/>
-A társasági szerzõdés megkötésének napja: 2004. július 30.<ujsor/>
-A társaság jegyzett tõkéje 20 000 000 Ft (húszmillió forint), mely kizárólag nem pénzbeli hozzájárulásból áll.<ujsor/>
-A társaság alaptõkéje 2000 db (kettõezer darab), egyenként 10 000 Ft (tízezer forint) névértékû részvénybõl áll. A részvények névre szóló törzsrészvények, amelyek a részvényeseknek egyenlõ jogokat biztosítanak.<ujsor/>
-A társaság tevékenységi körei (TEÁOR ’03): 2211 Könyvkiadás; 2212 Napilapkiadás; 2213 Idõszaki kiadvány kiadása; 2214 Hangfelvétel-kiadás; 2215 Egyéb kiadás; 2221 Napilapnyomás; 2222 Máshova nem sorolt nyomás; 2225 Kisegítõ nyomdai tevékenység; 2231 Hangfelvétel-sokszorosítás; 2232 Videofelvétel-sokszorosítás; 2233 Számítógépes adathordozó sokszorosítása; 3002 Számítógép, készülék gyártása; 3210 Elektronikai alkatrész gyártása; 3630 Hangszergyártás; 5119 Vegyes termékkörû ügynöki nagykereskedelem; 5143 Elektromos háztartási cikk nagykereskedelme; 5190 Egyéb nagykereskedelem; 5245 Elektromos háztartási cikk kiskereskedelme; 5247 Könyv-, újság-, papíráru-kiskereskedelem; 5248 Egyéb, máshová nem sorolt iparcikk-kiskereskedelem; 5250 Használtcikk-kiskereskedelem; 5261 Csomagküldõ kiskereskedelem; 5263 Egyéb, nem bolti kiskereskedelem; 5272 Elektromos háztartási cikk javítása; 5274 Egyéb fogyasztási cikk javítása; 6420 Távközlés; 6713 Máshova nem sorolt, egyéb pénzügyi kiegészítõ tevékenység; 7031 Ingatlanügynöki tevékenység; 7133 Irodagép, számítógép kölcsönzése; 7210 Hardver-szaktanácsadás; 7221 Szoftverkiadás; 7222 Egyéb szoftver-szaktanácsadás, -ellátás; 7230 Adatfeldolgozás; 7240 Adatbázis-tevékenység, on-line-kiadás; 7250 Iroda-, számítógép-javítás; 7260 Egyéb számítástechnikai tevékenység; 7310 Mûszaki kutatás, fejlesztés; 7320 Humán kutatás, fejlesztés; 7413 Piac-, közvélemény-kutatás; 7414 Üzletviteli tanácsadás; 7420 Mérnöki tevékenység, tanácsadás; 7440 Hirdetés; 7450 Munkaerõ-közvetítés; 7487 Máshová nem sorolt, egyéb gazdasági szolgáltatás; 9211 Film-, videogyártás; 9212 Film-, videoterjesztés; 9231 Alkotó- és elõadómûvészet; 9232 Mûvészeti kiegészítõ tevékenység; 9234 Máshova nem sorolható egyéb szórakoztatás.<ujsor/>
-A társaság vezetõ tisztségviselõje: Mucsi György (a. n.: Sasi Erzsébet; 1055 Budapest, Balaton u. 23.).<ujsor/>
-A társaság igazgatóságának tagjai: Gábor Iván (a. n.: dr. Klatsmány Piroska; 1221 Budapest, Panoráma u. 25.), Sándor István (a. n.: Roth Ilona; 1039 Budapest, Perényi u. 15.), Uj Péter (a. n.: Csikós Katalin; 1118 Budapest, Somlói út 2/B).<ujsor/>
-A társaság felügyelõbizottságának tagjai: dr. Bodolai László (a. n.: Darida Mária; 2071 Páty, Május 1. 11.), Ormosy Gábor (a. n.: Budai Mária; 1039 Budapest, Halastó u. 21.), dr. Varga János Tamás (a. n.: Kelemen Erzsébet; 8000 Székesfehérvár, Lehel u. 10.).<ujsor/>
-Az átalakulással létrejövõ gazdasági társaság vagyonmérleg-tervezete:<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g Ã¡ltal bejegyzett INDEX.HU Informatikai RÃ©szvÃ©nytÃ¡rsasÃ¡g<ujsor/>
+egyesÃ¼lÃ©ssel<ujsor/>
+tÃ¶rtÃ©nÅ‘ Ã¡talakulÃ¡sÃ¡t hatÃ¡rozta el oly mÃ³don, hogy az INDEX.HU Informatikai RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 044202]; szÃ©khely: 1134 Budapest, Klapka u. 1â€“3.) beolvad a WEBKIADÃ“.HU KulturÃ¡lis RÃ©szvÃ©nytÃ¡rsasÃ¡gba (Cg.: [01 10 044705]; szÃ©khely: 1134 Budapest, Klapka u. 1â€“3.).<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: beolvadÃ¡s.<ujsor/>
+Az egyesÃ¼lÃ©ssel lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g az 1997. Ã©vi CXLIV. tv. 65. Â§-ban foglalt adatai: FormÃ¡ja: zÃ¡rtkÃ¶rÅ± rÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+Neve: INDEX.HU Informatikai RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 1134 Budapest, Klapka u. 1â€“3.<ujsor/>
+A tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s megkÃ¶tÃ©sÃ©nek napja: 2004. jÃºlius 30.<ujsor/>
+A tÃ¡rsasÃ¡g jegyzett tÅ‘kÃ©je 20 000 000 Ft (hÃºszmilliÃ³ forint), mely kizÃ¡rÃ³lag nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡sbÃ³l Ã¡ll.<ujsor/>
+A tÃ¡rsasÃ¡g alaptÅ‘kÃ©je 2000 db (kettÅ‘ezer darab), egyenkÃ©nt 10 000 Ft (tÃ­zezer forint) nÃ©vÃ©rtÃ©kÅ± rÃ©szvÃ©nybÅ‘l Ã¡ll. A rÃ©szvÃ©nyek nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©nyek, amelyek a rÃ©szvÃ©nyeseknek egyenlÅ‘ jogokat biztosÃ­tanak.<ujsor/>
+A tÃ¡rsasÃ¡g tevÃ©kenysÃ©gi kÃ¶rei (TEÃOR â€™03): 2211 KÃ¶nyvkiadÃ¡s; 2212 NapilapkiadÃ¡s; 2213 IdÅ‘szaki kiadvÃ¡ny kiadÃ¡sa; 2214 HangfelvÃ©tel-kiadÃ¡s; 2215 EgyÃ©b kiadÃ¡s; 2221 NapilapnyomÃ¡s; 2222 MÃ¡shova nem sorolt nyomÃ¡s; 2225 KisegÃ­tÅ‘ nyomdai tevÃ©kenysÃ©g; 2231 HangfelvÃ©tel-sokszorosÃ­tÃ¡s; 2232 VideofelvÃ©tel-sokszorosÃ­tÃ¡s; 2233 SzÃ¡mÃ­tÃ³gÃ©pes adathordozÃ³ sokszorosÃ­tÃ¡sa; 3002 SzÃ¡mÃ­tÃ³gÃ©p, kÃ©szÃ¼lÃ©k gyÃ¡rtÃ¡sa; 3210 Elektronikai alkatrÃ©sz gyÃ¡rtÃ¡sa; 3630 HangszergyÃ¡rtÃ¡s; 5119 Vegyes termÃ©kkÃ¶rÅ± Ã¼gynÃ¶ki nagykereskedelem; 5143 Elektromos hÃ¡ztartÃ¡si cikk nagykereskedelme; 5190 EgyÃ©b nagykereskedelem; 5245 Elektromos hÃ¡ztartÃ¡si cikk kiskereskedelme; 5247 KÃ¶nyv-, ÃºjsÃ¡g-, papÃ­rÃ¡ru-kiskereskedelem; 5248 EgyÃ©b, mÃ¡shovÃ¡ nem sorolt iparcikk-kiskereskedelem; 5250 HasznÃ¡ltcikk-kiskereskedelem; 5261 CsomagkÃ¼ldÅ‘ kiskereskedelem; 5263 EgyÃ©b, nem bolti kiskereskedelem; 5272 Elektromos hÃ¡ztartÃ¡si cikk javÃ­tÃ¡sa; 5274 EgyÃ©b fogyasztÃ¡si cikk javÃ­tÃ¡sa; 6420 TÃ¡vkÃ¶zlÃ©s; 6713 MÃ¡shova nem sorolt, egyÃ©b pÃ©nzÃ¼gyi kiegÃ©szÃ­tÅ‘ tevÃ©kenysÃ©g; 7031 IngatlanÃ¼gynÃ¶ki tevÃ©kenysÃ©g; 7133 IrodagÃ©p, szÃ¡mÃ­tÃ³gÃ©p kÃ¶lcsÃ¶nzÃ©se; 7210 Hardver-szaktanÃ¡csadÃ¡s; 7221 SzoftverkiadÃ¡s; 7222 EgyÃ©b szoftver-szaktanÃ¡csadÃ¡s, -ellÃ¡tÃ¡s; 7230 AdatfeldolgozÃ¡s; 7240 AdatbÃ¡zis-tevÃ©kenysÃ©g, on-line-kiadÃ¡s; 7250 Iroda-, szÃ¡mÃ­tÃ³gÃ©p-javÃ­tÃ¡s; 7260 EgyÃ©b szÃ¡mÃ­tÃ¡stechnikai tevÃ©kenysÃ©g; 7310 MÅ±szaki kutatÃ¡s, fejlesztÃ©s; 7320 HumÃ¡n kutatÃ¡s, fejlesztÃ©s; 7413 Piac-, kÃ¶zvÃ©lemÃ©ny-kutatÃ¡s; 7414 Ãœzletviteli tanÃ¡csadÃ¡s; 7420 MÃ©rnÃ¶ki tevÃ©kenysÃ©g, tanÃ¡csadÃ¡s; 7440 HirdetÃ©s; 7450 MunkaerÅ‘-kÃ¶zvetÃ­tÃ©s; 7487 MÃ¡shovÃ¡ nem sorolt, egyÃ©b gazdasÃ¡gi szolgÃ¡ltatÃ¡s; 9211 Film-, videogyÃ¡rtÃ¡s; 9212 Film-, videoterjesztÃ©s; 9231 AlkotÃ³- Ã©s elÅ‘adÃ³mÅ±vÃ©szet; 9232 MÅ±vÃ©szeti kiegÃ©szÃ­tÅ‘ tevÃ©kenysÃ©g; 9234 MÃ¡shova nem sorolhatÃ³ egyÃ©b szÃ³rakoztatÃ¡s.<ujsor/>
+A tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘je: Mucsi GyÃ¶rgy (a. n.: Sasi ErzsÃ©bet; 1055 Budapest, Balaton u. 23.).<ujsor/>
+A tÃ¡rsasÃ¡g igazgatÃ³sÃ¡gÃ¡nak tagjai: GÃ¡bor IvÃ¡n (a. n.: dr. KlatsmÃ¡ny Piroska; 1221 Budapest, PanorÃ¡ma u. 25.), SÃ¡ndor IstvÃ¡n (a. n.: Roth Ilona; 1039 Budapest, PerÃ©nyi u. 15.), Uj PÃ©ter (a. n.: CsikÃ³s Katalin; 1118 Budapest, SomlÃ³i Ãºt 2/B).<ujsor/>
+A tÃ¡rsasÃ¡g felÃ¼gyelÅ‘bizottsÃ¡gÃ¡nak tagjai: dr. Bodolai LÃ¡szlÃ³ (a. n.: Darida MÃ¡ria; 2071 PÃ¡ty, MÃ¡jus 1. 11.), Ormosy GÃ¡bor (a. n.: Budai MÃ¡ria; 1039 Budapest, HalastÃ³ u. 21.), dr. Varga JÃ¡nos TamÃ¡s (a. n.: Kelemen ErzsÃ©bet; 8000 SzÃ©kesfehÃ©rvÃ¡r, Lehel u. 10.).<ujsor/>
+Az Ã¡talakulÃ¡ssal lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g vagyonmÃ©rleg-tervezete:<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK (aktívák) Átvevõ Beolvadó Különbözetek Rendezés Jogutód<ujsor/>
-A) Befektetett eszközök 517 477 252 653 –7 477 0 762 653<ujsor/>
-I. Immateriális javak 0 171 508 510 000 0 681 508<ujsor/>
-Alapítás-átszervezés aktivált értéke 0<ujsor/>
-Kísérleti fejlesztés aktivált értéke 0<ujsor/>
-Vagyoni értékû jogok 42 165 42 165<ujsor/>
-Szellemi termékek 129 343 129 343<ujsor/>
-Üzleti vagy cégérték 510 000 510 000<ujsor/>
-Immateriális javakra adott elõlegek 0<ujsor/>
-Immateriális javak értékhelyesbítése 0<ujsor/>
-II. Tárgyi eszközök 0 73 825 0 0 73 825<ujsor/>
-Ingatlanok és a kapcs. vagyoni ért. jogok 10 803 10 803<ujsor/>
-Mûszaki berendezések, felsz., jármûvek 26 642 26 642<ujsor/>
-Egyéb berend., felszerelések, jármûvek 10 896 10 896<ujsor/>
-Tenyészállatok 0<ujsor/>
-Beruházások, felújítások 0 25 446 25 446<ujsor/>
-Beruházásokra adott elõlegek 38 38<ujsor/>
-Tárgyi eszközök értékhelyesbítése 0<ujsor/>
-III. Befektetett pénzügyi eszközök 517 477 7 320 –517 477 0 7 320<ujsor/>
-Tartós részesedés kapcs. vállalkozásban 517 477 7 320 –517 477 7 320<ujsor/>
-Tartósan adott kölcsön kapcs. vállalk.-ban 0<ujsor/>
-Egyéb tartós részesedés 0<ujsor/>
-Tart. adott kölcsön egyéb részesedési viszonyban álló vállalkozásban 0<ujsor/>
-Egyéb tartósan adott kölcsön 0<ujsor/>
-Tartós hitelviszonyt megtestesítõ értékp. 0<ujsor/>
-Befektetett pü. eszk. értékhelyesbítése 0<ujsor/>
-B) Forgóeszközök 31 743 142 404 –20 000 0 154 147<ujsor/>
-I. Készletek 0 677 0 0 677<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) ÃtvevÅ‘ BeolvadÃ³ KÃ¼lÃ¶nbÃ¶zetek RendezÃ©s JogutÃ³d<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 517 477 252 653 â€“7 477 0 762 653<ujsor/>
+I. ImmateriÃ¡lis javak 0 171 508 510 000 0 681 508<ujsor/>
+AlapÃ­tÃ¡s-Ã¡tszervezÃ©s aktivÃ¡lt Ã©rtÃ©ke 0<ujsor/>
+KÃ­sÃ©rleti fejlesztÃ©s aktivÃ¡lt Ã©rtÃ©ke 0<ujsor/>
+Vagyoni Ã©rtÃ©kÅ± jogok 42 165 42 165<ujsor/>
+Szellemi termÃ©kek 129 343 129 343<ujsor/>
+Ãœzleti vagy cÃ©gÃ©rtÃ©k 510 000 510 000<ujsor/>
+ImmateriÃ¡lis javakra adott elÅ‘legek 0<ujsor/>
+ImmateriÃ¡lis javak Ã©rtÃ©khelyesbÃ­tÃ©se 0<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 0 73 825 0 0 73 825<ujsor/>
+Ingatlanok Ã©s a kapcs. vagyoni Ã©rt. jogok 10 803 10 803<ujsor/>
+MÅ±szaki berendezÃ©sek, felsz., jÃ¡rmÅ±vek 26 642 26 642<ujsor/>
+EgyÃ©b berend., felszerelÃ©sek, jÃ¡rmÅ±vek 10 896 10 896<ujsor/>
+TenyÃ©szÃ¡llatok 0<ujsor/>
+BeruhÃ¡zÃ¡sok, felÃºjÃ­tÃ¡sok 0 25 446 25 446<ujsor/>
+BeruhÃ¡zÃ¡sokra adott elÅ‘legek 38 38<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k Ã©rtÃ©khelyesbÃ­tÃ©se 0<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 517 477 7 320 â€“517 477 0 7 320<ujsor/>
+TartÃ³s rÃ©szesedÃ©s kapcs. vÃ¡llalkozÃ¡sban 517 477 7 320 â€“517 477 7 320<ujsor/>
+TartÃ³san adott kÃ¶lcsÃ¶n kapcs. vÃ¡llalk.-ban 0<ujsor/>
+EgyÃ©b tartÃ³s rÃ©szesedÃ©s 0<ujsor/>
+Tart. adott kÃ¶lcsÃ¶n egyÃ©b rÃ©szesedÃ©si viszonyban Ã¡llÃ³ vÃ¡llalkozÃ¡sban 0<ujsor/>
+EgyÃ©b tartÃ³san adott kÃ¶lcsÃ¶n 0<ujsor/>
+TartÃ³s hitelviszonyt megtestesÃ­tÅ‘ Ã©rtÃ©kp. 0<ujsor/>
+Befektetett pÃ¼. eszk. Ã©rtÃ©khelyesbÃ­tÃ©se 0<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 31 743 142 404 â€“20 000 0 154 147<ujsor/>
+I. KÃ©szletek 0 677 0 0 677<ujsor/>
 Anyagok 0<ujsor/>
-Befejezetlen termelés és félkész termékek 0<ujsor/>
-Növendék-, hízó- és egyéb állatok 0<ujsor/>
-Késztermékek 0<ujsor/>
-Áruk 562 562<ujsor/>
-Készletre adott elõlegek 115 115<ujsor/>
-II. Követelések 30 841 130 434 –20 000 0 141 275<ujsor/>
-Követelések áruszáll.-ból és szolg.-ból (vevõk) 104 870 104 870<ujsor/>
-Követelések kapcs. vállalkozással szemben 2 500 2 500<ujsor/>
-Köv. egyéb rész. visz. lévõ vállalk. szemben 0<ujsor/>
-Váltókövetelések 0<ujsor/>
-Egyéb követelések 30 841 23 064 –20 000 33 905<ujsor/>
-III. Értékpapírok 0 0 0 0 0<ujsor/>
-Részesedés kapcsolt vállalkozásban 0<ujsor/>
-Egyéb részesedés 0<ujsor/>
-Saját részvények, saját üzletrészek 0<ujsor/>
-Forg. célú hitelviszonyt megtestesítõ értékp. 0<ujsor/>
-IV. Pénzeszközök 902 11 293 0 0 12 195<ujsor/>
-Pénztár, csekkek 30 144 174<ujsor/>
-Bankbetétek 872 11 149 12 021<ujsor/>
-C) Aktív idõbeli elhatárolások 1 967 26 571 0 0 28 538<ujsor/>
-Bevételek aktív idõbeli elhatárolása 1 967 13 859 15 826<ujsor/>
-Költségek, ráford. aktív idõb. elhatárolása 4 309 4 309<ujsor/>
-Halasztott ráfordítások 8 403 8 403<ujsor/>
-ÖSSZESEN: 551 187 421 628 –27 477 0 945 338<ujsor/>
+Befejezetlen termelÃ©s Ã©s fÃ©lkÃ©sz termÃ©kek 0<ujsor/>
+NÃ¶vendÃ©k-, hÃ­zÃ³- Ã©s egyÃ©b Ã¡llatok 0<ujsor/>
+KÃ©sztermÃ©kek 0<ujsor/>
+Ãruk 562 562<ujsor/>
+KÃ©szletre adott elÅ‘legek 115 115<ujsor/>
+II. KÃ¶vetelÃ©sek 30 841 130 434 â€“20 000 0 141 275<ujsor/>
+KÃ¶vetelÃ©sek Ã¡ruszÃ¡ll.-bÃ³l Ã©s szolg.-bÃ³l (vevÅ‘k) 104 870 104 870<ujsor/>
+KÃ¶vetelÃ©sek kapcs. vÃ¡llalkozÃ¡ssal szemben 2 500 2 500<ujsor/>
+KÃ¶v. egyÃ©b rÃ©sz. visz. lÃ©vÅ‘ vÃ¡llalk. szemben 0<ujsor/>
+VÃ¡ltÃ³kÃ¶vetelÃ©sek 0<ujsor/>
+EgyÃ©b kÃ¶vetelÃ©sek 30 841 23 064 â€“20 000 33 905<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 0 0 0 0<ujsor/>
+RÃ©szesedÃ©s kapcsolt vÃ¡llalkozÃ¡sban 0<ujsor/>
+EgyÃ©b rÃ©szesedÃ©s 0<ujsor/>
+SajÃ¡t rÃ©szvÃ©nyek, sajÃ¡t Ã¼zletrÃ©szek 0<ujsor/>
+Forg. cÃ©lÃº hitelviszonyt megtestesÃ­tÅ‘ Ã©rtÃ©kp. 0<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 902 11 293 0 0 12 195<ujsor/>
+PÃ©nztÃ¡r, csekkek 30 144 174<ujsor/>
+BankbetÃ©tek 872 11 149 12 021<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 1 967 26 571 0 0 28 538<ujsor/>
+BevÃ©telek aktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sa 1 967 13 859 15 826<ujsor/>
+KÃ¶ltsÃ©gek, rÃ¡ford. aktÃ­v idÅ‘b. elhatÃ¡rolÃ¡sa 4 309 4 309<ujsor/>
+Halasztott rÃ¡fordÃ­tÃ¡sok 8 403 8 403<ujsor/>
+Ã–SSZESEN: 551 187 421 628 â€“27 477 0 945 338<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK (passzívák) Átvevõ Beolvadó Különbözetek Rendezés Jogutód<ujsor/>
-D) Saját tõke 2 766 133 204 –7 477 0 128 493<ujsor/>
-I. Jegyzett tõke 20 000 116 291 –116 291 20 000<ujsor/>
-Ebbõl: visszavásárolt tul. rész. névértéken 0<ujsor/>
-II. Jegyz., de még be nem fiz. tõke (–) 0<ujsor/>
-III. Tõketartalék 1 023 841 –1 023 841 0<ujsor/>
-IV. Eredménytartalék –17 234 –1 006 928 1 132 655 –20 000 88 493<ujsor/>
-V. Lekötött tartalék 0 20 000 20 000<ujsor/>
-VI. Értékelési tartalék 0<ujsor/>
-VII. Mérleg szerinti eredmény 0 0 0 0<ujsor/>
-E) Céltartalékok 0 16 500 0 0 16 500<ujsor/>
-Céltartalék a várható kötelezettségekre 16 500 16 500<ujsor/>
-Céltartalék a jövõbeni költségekre 0<ujsor/>
-Egyéb céltartalék 0<ujsor/>
-F) Kötelezettségek 537 403 263 179 –20 000 0 780 582<ujsor/>
-I. Hátra sorolt kötelezettségek 0 0 0 0 0<ujsor/>
-Hátra sorolt köt. kapcs. váll. szemben 0<ujsor/>
-Hátra sorolt köt. egyéb rész. visz.-ban lévõ vállalkozással szemben 0<ujsor/>
-Hátra sorolt köt. egyéb gazd.-val szemben 0<ujsor/>
-II. Hosszú lejáratú kötelezettségek 293 250 4 786 0 0 298 036<ujsor/>
-Hosszú lejáratra kapott kölcsönök 293 250 293 250<ujsor/>
-Átváltoztatható kötvények 0<ujsor/>
-Tartozások kötvénykibocsátásból 0<ujsor/>
-Beruházási és fejlesztési hitelek 0<ujsor/>
-Egyéb hosszú lejáratú hitelek 0<ujsor/>
-Tartós köt. kapcs. vállalk. szemben 0<ujsor/>
-Tartós köt. egyéb rész. viszonyban lévõ vállalkozással szemben 0<ujsor/>
-Egyéb hosszú lejáratú kötelezettségek 4 786 4 786<ujsor/>
-III. Rövid lejáratú kötelezettségek 244 153 258 393 –20 000 0 482 546<ujsor/>
-Rövid lejáratú kölcsönök 489 489<ujsor/>
-– ebbõl: az átváltoztatható kötvények 0<ujsor/>
-Rövid lejáratú hitelek 243 750 243 750<ujsor/>
-Vevõktõl kapott elõlegek 28 190 28 190<ujsor/>
-Köt. áruszáll.-ból és szolg.-ból (szállítók) 373 194 298 194 671<ujsor/>
-Váltótartozások 0<ujsor/>
-Rövid lej. köt. kapcs. vállalk. szemben 20 000 –20 000 0<ujsor/>
-Rövid lej. köt. egyéb rész. viszonyban lévõ vállalkozással szemben 0<ujsor/>
-Egyéb rövid lejáratú kötelezettségek 30 15 416 15 446<ujsor/>
-G) Passzív idõbeli elhatárolások 11 018 8 745 0 0 19 763<ujsor/>
-Bevételek passzív idõbeli elhatárolása 1 279 1 279<ujsor/>
-Költs., ráford. passzív idõb. elhatárolása 11 018 7 466 18 484<ujsor/>
-Halasztott bevételek 0<ujsor/>
-ÖSSZESEN: 551 187 421 628 –27 477 0 945 338<ujsor/>
-Az átalakuló gazdasági társaság felhívja azon hitelezõit, akiknek az átalakuló gazdasági társasággal szemben fennálló le nem járt követelései az átalakulással hozott döntés elsõ közzétételét megelõzõen keletkeztek, hogy követeléseik erejéig az átalakuló gazdasági társaságtól a döntés második közzétételét követõ 30 napos jogvesztõ határidõn belül biztosítékot követelhetnek.<ujsor/>
-(Második közzététel.)<ujsor/>
+FORRÃSOK (passzÃ­vÃ¡k) ÃtvevÅ‘ BeolvadÃ³ KÃ¼lÃ¶nbÃ¶zetek RendezÃ©s JogutÃ³d<ujsor/>
+D) SajÃ¡t tÅ‘ke 2 766 133 204 â€“7 477 0 128 493<ujsor/>
+I. Jegyzett tÅ‘ke 20 000 116 291 â€“116 291 20 000<ujsor/>
+EbbÅ‘l: visszavÃ¡sÃ¡rolt tul. rÃ©sz. nÃ©vÃ©rtÃ©ken 0<ujsor/>
+II. Jegyz., de mÃ©g be nem fiz. tÅ‘ke (â€“) 0<ujsor/>
+III. TÅ‘ketartalÃ©k 1 023 841 â€“1 023 841 0<ujsor/>
+IV. EredmÃ©nytartalÃ©k â€“17 234 â€“1 006 928 1 132 655 â€“20 000 88 493<ujsor/>
+V. LekÃ¶tÃ¶tt tartalÃ©k 0 20 000 20 000<ujsor/>
+VI. Ã‰rtÃ©kelÃ©si tartalÃ©k 0<ujsor/>
+VII. MÃ©rleg szerinti eredmÃ©ny 0 0 0 0<ujsor/>
+E) CÃ©ltartalÃ©kok 0 16 500 0 0 16 500<ujsor/>
+CÃ©ltartalÃ©k a vÃ¡rhatÃ³ kÃ¶telezettsÃ©gekre 16 500 16 500<ujsor/>
+CÃ©ltartalÃ©k a jÃ¶vÅ‘beni kÃ¶ltsÃ©gekre 0<ujsor/>
+EgyÃ©b cÃ©ltartalÃ©k 0<ujsor/>
+F) KÃ¶telezettsÃ©gek 537 403 263 179 â€“20 000 0 780 582<ujsor/>
+I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0 0 0 0 0<ujsor/>
+HÃ¡tra sorolt kÃ¶t. kapcs. vÃ¡ll. szemben 0<ujsor/>
+HÃ¡tra sorolt kÃ¶t. egyÃ©b rÃ©sz. visz.-ban lÃ©vÅ‘ vÃ¡llalkozÃ¡ssal szemben 0<ujsor/>
+HÃ¡tra sorolt kÃ¶t. egyÃ©b gazd.-val szemben 0<ujsor/>
+II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 293 250 4 786 0 0 298 036<ujsor/>
+HosszÃº lejÃ¡ratra kapott kÃ¶lcsÃ¶nÃ¶k 293 250 293 250<ujsor/>
+ÃtvÃ¡ltoztathatÃ³ kÃ¶tvÃ©nyek 0<ujsor/>
+TartozÃ¡sok kÃ¶tvÃ©nykibocsÃ¡tÃ¡sbÃ³l 0<ujsor/>
+BeruhÃ¡zÃ¡si Ã©s fejlesztÃ©si hitelek 0<ujsor/>
+EgyÃ©b hosszÃº lejÃ¡ratÃº hitelek 0<ujsor/>
+TartÃ³s kÃ¶t. kapcs. vÃ¡llalk. szemben 0<ujsor/>
+TartÃ³s kÃ¶t. egyÃ©b rÃ©sz. viszonyban lÃ©vÅ‘ vÃ¡llalkozÃ¡ssal szemben 0<ujsor/>
+EgyÃ©b hosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 4 786 4 786<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 244 153 258 393 â€“20 000 0 482 546<ujsor/>
+RÃ¶vid lejÃ¡ratÃº kÃ¶lcsÃ¶nÃ¶k 489 489<ujsor/>
+â€“ ebbÅ‘l: az Ã¡tvÃ¡ltoztathatÃ³ kÃ¶tvÃ©nyek 0<ujsor/>
+RÃ¶vid lejÃ¡ratÃº hitelek 243 750 243 750<ujsor/>
+VevÅ‘ktÅ‘l kapott elÅ‘legek 28 190 28 190<ujsor/>
+KÃ¶t. Ã¡ruszÃ¡ll.-bÃ³l Ã©s szolg.-bÃ³l (szÃ¡llÃ­tÃ³k) 373 194 298 194 671<ujsor/>
+VÃ¡ltÃ³tartozÃ¡sok 0<ujsor/>
+RÃ¶vid lej. kÃ¶t. kapcs. vÃ¡llalk. szemben 20 000 â€“20 000 0<ujsor/>
+RÃ¶vid lej. kÃ¶t. egyÃ©b rÃ©sz. viszonyban lÃ©vÅ‘ vÃ¡llalkozÃ¡ssal szemben 0<ujsor/>
+EgyÃ©b rÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 30 15 416 15 446<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 11 018 8 745 0 0 19 763<ujsor/>
+BevÃ©telek passzÃ­v idÅ‘beli elhatÃ¡rolÃ¡sa 1 279 1 279<ujsor/>
+KÃ¶lts., rÃ¡ford. passzÃ­v idÅ‘b. elhatÃ¡rolÃ¡sa 11 018 7 466 18 484<ujsor/>
+Halasztott bevÃ©telek 0<ujsor/>
+Ã–SSZESEN: 551 187 421 628 â€“27 477 0 945 338<ujsor/>
+Az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g felhÃ­vja azon hitelezÅ‘it, akiknek az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³ le nem jÃ¡rt kÃ¶vetelÃ©sei az Ã¡talakulÃ¡ssal hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, hogy kÃ¶vetelÃ©seik erejÃ©ig az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gtÃ³l a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ 30 napos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044705</mezo>
-<mezo id = "nev">Café Kereskedõház Rt.</mezo>
+<mezo id = "nev">CafÃ© KereskedÅ‘hÃ¡z Rt.</mezo>
 <mezo id = "cim">1134 Budapest, Klapka u. 1-3. </mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A WEBKIADÓ.HU Rt. (Cg.: [01 10 044705]; 1134 Budapest, Klapka u. 1–3.) és az Index.HU Rt. (Cg.: [01 10 044202]; 1134 Budapest, Klapka u. 1–3.) egyesülésére vonatkozó közlemény a Cégközlönyben (2004. szeptember 2.) 36. és (2004. szeptember 9.) 37. számában jelent meg.<ujsor/>
-Az egyesüléssel létrejövõ WEBKIADÓ.HU Kft. jegyzett tõkéjére vonatkozó adat hibásan jelent meg.<ujsor/>
-A szövegrész helyesen:<ujsor/>
-Az egyesüléssel létrejövõ gazdasági társaság jegyzett tõkéje 20 000 000 Ft (húszmillió forint), amely 12 000 000 Ft (tizenkettõmillió forint) pénzbeli hozzájárulásból, valamint 8 000 000 Ft (nyolcmillió forint) nem pénzbeli hozzájárulásból áll.<ujsor/>
-A nem pénzbeli hozzájárulást egy darab „Index AdEngine” elnevezésû szoftver tulajdonjoga képezi, melynek értéke 8 000 000 Ft (nyolcmillió forint).<ujsor/>
-Az eredeti hirdetmény itt nem említett egyéb részei változatlanul érvényesek.<ujsor/>
+<mezo id = "szoveg">A WEBKIADÃ“.HU Rt. (Cg.: [01 10 044705]; 1134 Budapest, Klapka u. 1â€“3.) Ã©s az Index.HU Rt. (Cg.: [01 10 044202]; 1134 Budapest, Klapka u. 1â€“3.) egyesÃ¼lÃ©sÃ©re vonatkozÃ³ kÃ¶zlemÃ©ny a CÃ©gkÃ¶zlÃ¶nyben (2004. szeptember 2.) 36. Ã©s (2004. szeptember 9.) 37. szÃ¡mÃ¡ban jelent meg.<ujsor/>
+Az egyesÃ¼lÃ©ssel lÃ©trejÃ¶vÅ‘ WEBKIADÃ“.HU Kft. jegyzett tÅ‘kÃ©jÃ©re vonatkozÃ³ adat hibÃ¡san jelent meg.<ujsor/>
+A szÃ¶vegrÃ©sz helyesen:<ujsor/>
+Az egyesÃ¼lÃ©ssel lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g jegyzett tÅ‘kÃ©je 20 000 000 Ft (hÃºszmilliÃ³ forint), amely 12 000 000 Ft (tizenkettÅ‘milliÃ³ forint) pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡sbÃ³l, valamint 8 000 000 Ft (nyolcmilliÃ³ forint) nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡sbÃ³l Ã¡ll.<ujsor/>
+A nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡st egy darab â€Index AdEngineâ€ elnevezÃ©sÅ± szoftver tulajdonjoga kÃ©pezi, melynek Ã©rtÃ©ke 8 000 000 Ft (nyolcmilliÃ³ forint).<ujsor/>
+Az eredeti hirdetmÃ©ny itt nem emlÃ­tett egyÃ©b rÃ©szei vÃ¡ltozatlanul Ã©rvÃ©nyesek.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044705</mezo>
-<mezo id = "nev">Café Kereskedõház Rt.</mezo>
+<mezo id = "nev">CafÃ© KereskedÅ‘hÃ¡z Rt.</mezo>
 <mezo id = "cim">1134 Budapest</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A SydInvest Üzleti Szolgáltató Részvénytársaság (Cg.: [01 10 044552]; székhelye: 1075 Budapest, MadáchI. tér 4.) közzéteszi, hogy 2004. december 13-i hatállyal az Index.Hu Informatikai Részvénytársaság (Cg.: [01 10 044705]; székhelye: 1134 Budapest, Klapka u. 1­3.) részvényei 49%-ának megszerzésével az Index.Hu Informatikai Részvénytársaságban jelentõs befolyást szerzett.<ujsor/>
+<mezo id = "szoveg">A SydInvest Ãœzleti SzolgÃ¡ltatÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 044552]; szÃ©khelye: 1075 Budapest, MadÃ¡chI. tÃ©r 4.) kÃ¶zzÃ©teszi, hogy 2004. december 13-i hatÃ¡llyal az Index.Hu Informatikai RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 044705]; szÃ©khelye: 1134 Budapest, Klapka u. 1Â­3.) rÃ©szvÃ©nyei 49%-Ã¡nak megszerzÃ©sÃ©vel az Index.Hu Informatikai RÃ©szvÃ©nytÃ¡rsasÃ¡gban jelentÅ‘s befolyÃ¡st szerzett.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044705</mezo>
-<mezo id = "nev">Café Kereskedõház Rt.</mezo>
+<mezo id = "nev">CafÃ© KereskedÅ‘hÃ¡z Rt.</mezo>
 <mezo id = "cim">1134 Budapest</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az INDEX.HU Informatikai Részvénytársaságban (Cg.: [01 10 044705]; székhelye: 1134 Budapest, Klapka u. 1­3.) 2004. december 6-án a FLEMINGHOUSE Investments Limited (székhelye: 3 Chrysanthou Mylona Street, Limassol, Cyprus; regisztrációs szám: HE 146593) 42%-ot kitevõ jelentõs befolyást szerzett.<ujsor/>
+<mezo id = "szoveg">Az INDEX.HU Informatikai RÃ©szvÃ©nytÃ¡rsasÃ¡gban (Cg.: [01 10 044705]; szÃ©khelye: 1134 Budapest, Klapka u. 1Â­3.) 2004. december 6-Ã¡n a FLEMINGHOUSE Investments Limited (szÃ©khelye: 3 Chrysanthou Mylona Street, Limassol, Cyprus; regisztrÃ¡ciÃ³s szÃ¡m: HE 146593) 42%-ot kitevÅ‘ jelentÅ‘s befolyÃ¡st szerzett.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044705</mezo>
-<mezo id = "nev">Café Kereskedõház Rt.</mezo>
+<mezo id = "nev">CafÃ© KereskedÅ‘hÃ¡z Rt.</mezo>
 <mezo id = "cim">1134 Budapest</mezo>
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A SydInvest Üzleti Szolgáltató Részvénytársaság (cégjegyzékszáma: Cg.: [01 10 044552]; székhelye: 1075 Budapest, Madách tér 4.) közzéteszi, hogy 2005. április 8-i hatállyal az Index.Hu Informatikai Részvénytársaság (Cg.: [01 10 044705]; székhelye: 1134 Budapest, Klapka u. 1­3.) részvényei 39%-ának megszerzésével az Index.Hu Informatikai Részvénytársaságban jelentõs befolyást szerzett.<ujsor/>
+<mezo id = "szoveg">A SydInvest Ãœzleti SzolgÃ¡ltatÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g (cÃ©gjegyzÃ©kszÃ¡ma: Cg.: [01 10 044552]; szÃ©khelye: 1075 Budapest, MadÃ¡ch tÃ©r 4.) kÃ¶zzÃ©teszi, hogy 2005. Ã¡prilis 8-i hatÃ¡llyal az Index.Hu Informatikai RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 044705]; szÃ©khelye: 1134 Budapest, Klapka u. 1Â­3.) rÃ©szvÃ©nyei 39%-Ã¡nak megszerzÃ©sÃ©vel az Index.Hu Informatikai RÃ©szvÃ©nytÃ¡rsasÃ¡gban jelentÅ‘s befolyÃ¡st szerzett.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044705</mezo>
-<mezo id = "nev">Café Kereskedõház Rt.</mezo>
+<mezo id = "nev">CafÃ© KereskedÅ‘hÃ¡z Rt.</mezo>
 <mezo id = "cim">1134 Budapest</mezo>
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2004. 11. 22-án hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-02. INDEX. HU Iformatikai Részvénytársaság<ujsor/>
- Törölve: 2004. 11. 22-i hatállyal.<ujsor/>
- INDEX. HU Informatikai Részvénytársaság<ujsor/>
- Hatályos: 2004. 11. 22-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2004. 11. 22-Ã¡n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+02. INDEX. HU Iformatikai RÃ©szvÃ©nytÃ¡rsasÃ¡g<ujsor/>
+ TÃ¶rÃ¶lve: 2004. 11. 22-i hatÃ¡llyal.<ujsor/>
+ INDEX. HU Informatikai RÃ©szvÃ©nytÃ¡rsasÃ¡g<ujsor/>
+ HatÃ¡lyos: 2004. 11. 22-tÅ‘l.<ujsor/>
 Bejegyezve: 2006. 05. 15.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044705</mezo>
-<mezo id = "nev">INDEX. HU Informatikai Részvénytársaság</mezo>
+<mezo id = "nev">INDEX. HU Informatikai RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1134 Budapest, Klapka u. 1-3.</mezo>
 <mezo id = "adosz">12765335241</mezo>
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2008. 07. 25-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. A képviselet módja: együttes.<ujsor/>
- Szabó Ákos (an: Hidvégi Anna) igazgatósági tag<ujsor/>
-2016 Leányfalu, Hunyadi J. u. 11/A.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2008. 07. 25-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ SzabÃ³ Ãkos (an: HidvÃ©gi Anna) igazgatÃ³sÃ¡gi tag<ujsor/>
+2016 LeÃ¡nyfalu, Hunyadi J. u. 11/A.<ujsor/>
  A jogviszony kezdete: 2005. 04. 18.<ujsor/>
- A jogviszony vége: 2009. 05. 31.<ujsor/>
- A változás idõpontja (törlés): 2008. 07. 25.<ujsor/>
- A képviselet módja: együttes.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (igazgatósági tag).<ujsor/>
- Szabó Ákos (an: Hidvégi Anna)<ujsor/>
-2016 Leányfalu, Hunyadi J. utca 11. A. ép .<ujsor/>
+ A jogviszony vÃ©ge: 2009. 05. 31.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2008. 07. 25.<ujsor/>
+ A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag).<ujsor/>
+ SzabÃ³ Ãkos (an: HidvÃ©gi Anna)<ujsor/>
+2016 LeÃ¡nyfalu, Hunyadi J. utca 11. A. Ã©p .<ujsor/>
  A jogviszony kezdete: 2005. 04. 18.<ujsor/>
- A jogviszony vége: 2009. 05. 31.<ujsor/>
- A változás idõpontja: 2008. 04. 09.<ujsor/>
- A változás idõpontja (törlés): 2008. 07. 25.<ujsor/>
- Törölve: 2008. 07. 25.<ujsor/>
+ A jogviszony vÃ©ge: 2009. 05. 31.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 04. 09.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2008. 07. 25.<ujsor/>
+ TÃ¶rÃ¶lve: 2008. 07. 25.<ujsor/>
 2008. 09. 25.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044705</mezo>
-<mezo id = "nev">INDEX. HU Informatikai Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">1042 Budapest, Árpád út 51-53.</mezo>
+<mezo id = "nev">INDEX. HU Informatikai ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1042 Budapest, ÃrpÃ¡d Ãºt 51-53.</mezo>
 <mezo id = "adosz">12765335241</mezo>
 </alrovat>
 <alrovat id = "11">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a cég 2008. 12. 09. napján<ujsor/>
-benyújtott változás bejegyzése iránti kérelmét elutasítja.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a cÃ©g 2008. 12. 09. napjÃ¡n<ujsor/>
+benyÃºjtott vÃ¡ltozÃ¡s bejegyzÃ©se irÃ¡nti kÃ©relmÃ©t elutasÃ­tja.<ujsor/>
 2009. 02. 16.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044705</mezo>
-<mezo id = "nev">INDEX.HU Informatikai Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">1042 Budapest, Árpád út 51-53.</mezo>
+<mezo id = "nev">INDEX.HU Informatikai ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1042 Budapest, ÃrpÃ¡d Ãºt 51-53.</mezo>
 <mezo id = "adosz">12765335241</mezo>
 </alrovat>
 <alrovat id = "12">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság által bejegyzett INDEX.HU Informatikai Zrt. (Cg.: [01 10 044705]; székhelye: 1033 Budapest, Flórián tér 1.) és az Index Video Zrt. (Cg.: [01 10 045980]; székhelye: 1033 Budapest, Flórián tér 1.) részvényesei elhatározták a két társaság egyesüléssel történõ átalakulását oly módon, hogy az Index Video Zrt. beolvad az INDEX.HU Informatikai Zrt.-be.<ujsor/>
-Az átalakulás módja: egyesülés, beolvadás útján.<ujsor/>
-Az átalakulást követõen létrejövõ gazdasági társaság formája, cégneve és székhelye: INDEX.HU Informatikai Zártkörûen Mûködõ Részvénytársaság, 1033 Budapest, Flórián tér 1.<ujsor/>
-A létrejövõ gazdasági társaság társasági szerzõdése megkötésének napja: 2010. szeptember 29.<ujsor/>
-Az átalakulás napja: 2010. november 30.<ujsor/>
-Vagyonmérleg-tervezetek:<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g Ã¡ltal bejegyzett INDEX.HU Informatikai Zrt. (Cg.: [01 10 044705]; szÃ©khelye: 1033 Budapest, FlÃ³riÃ¡n tÃ©r 1.) Ã©s az Index Video Zrt. (Cg.: [01 10 045980]; szÃ©khelye: 1033 Budapest, FlÃ³riÃ¡n tÃ©r 1.) rÃ©szvÃ©nyesei elhatÃ¡roztÃ¡k a kÃ©t tÃ¡rsasÃ¡g egyesÃ¼lÃ©ssel tÃ¶rtÃ©nÅ‘ Ã¡talakulÃ¡sÃ¡t oly mÃ³don, hogy az Index Video Zrt. beolvad az INDEX.HU Informatikai Zrt.-be.<ujsor/>
+Az Ã¡talakulÃ¡s mÃ³dja: egyesÃ¼lÃ©s, beolvadÃ¡s ÃºtjÃ¡n.<ujsor/>
+Az Ã¡talakulÃ¡st kÃ¶vetÅ‘en lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g formÃ¡ja, cÃ©gneve Ã©s szÃ©khelye: INDEX.HU Informatikai ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g, 1033 Budapest, FlÃ³riÃ¡n tÃ©r 1.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g tÃ¡rsasÃ¡gi szerzÅ‘dÃ©se megkÃ¶tÃ©sÃ©nek napja: 2010. szeptember 29.<ujsor/>
+Az Ã¡talakulÃ¡s napja: 2010. november 30.<ujsor/>
+VagyonmÃ©rleg-tervezetek:<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK (aktívák) Befogadó Beolvadó Index Kiszûrés Beolvadással<ujsor/>
-Index.hu Zrt. (záró) Video Zrt. (záró) létrejövõ Index.hu Zrt. (nyitó)<ujsor/>
-A) Befektetett eszközök 307 677 15 963 0 323 640<ujsor/>
-I. Immateriális javak 141 327 7 594 0 148 921<ujsor/>
-Vagyoni értékû jogok 28 639 28 639<ujsor/>
-Szellemi termékek 112 688 7 594 120 282<ujsor/>
-II. Tárgyi eszközök 66 843 8 369 0 75 212<ujsor/>
-Ingatlanok és a kapcsolódó vagyoni értékû jogok 29 479 224 29 703<ujsor/>
-Mûszaki berendezések, gépek, jármûvek 18 139 6 800 24 939<ujsor/>
-Egyéb berendezések, felszerelések, jármûvek 19 225 1 345 20 570<ujsor/>
-III. Befektetett pénzügyi eszközök 99 507 0 0 99 507<ujsor/>
-Tartós részesedés kapcsolt vállalkozásban 99 507 99 507<ujsor/>
-B) Forgóeszközök 1 385 448 3 944 ­184 753 1 204 639<ujsor/>
-I. Készletek 629 0 0 629<ujsor/>
-Befejezetlen termelés és félkész termékek 100 100<ujsor/>
-II. Követelések 1 271 267 3 155 ­184 753 1 089 669<ujsor/>
-Követelések áruszállításból és szolgáltatásokból (vevõk) 752 249 1 048 753 297<ujsor/>
-Követelések kapcsolt vállalkozással szemben 475 872 475 ­184 753 291 594<ujsor/>
-Egyéb követelések 43 146 1 632 44 778<ujsor/>
-IV. Pénzeszközök 113 552 789 0 114 341<ujsor/>
-Pénztár, csekkek 489 402 891<ujsor/>
-Bankbetétek 113 063 387 113 450<ujsor/>
-C) Aktív idõbeli elhatárolások 72 931 5 334 ­19 217 59 048<ujsor/>
-Bevételek aktív idõbeli elhatárolása 72 054 5 225 ­19 217 58 062<ujsor/>
-Költségek, ráfordítások aktív idõbeli elhatárolása 877 109 986<ujsor/>
-ÖSSZESEN: 1 766 056 25 241 ­203 970 1 587 327<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) BefogadÃ³ BeolvadÃ³ Index KiszÅ±rÃ©s BeolvadÃ¡ssal<ujsor/>
+Index.hu Zrt. (zÃ¡rÃ³) Video Zrt. (zÃ¡rÃ³) lÃ©trejÃ¶vÅ‘ Index.hu Zrt. (nyitÃ³)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 307 677 15 963 0 323 640<ujsor/>
+I. ImmateriÃ¡lis javak 141 327 7 594 0 148 921<ujsor/>
+Vagyoni Ã©rtÃ©kÅ± jogok 28 639 28 639<ujsor/>
+Szellemi termÃ©kek 112 688 7 594 120 282<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 66 843 8 369 0 75 212<ujsor/>
+Ingatlanok Ã©s a kapcsolÃ³dÃ³ vagyoni Ã©rtÃ©kÅ± jogok 29 479 224 29 703<ujsor/>
+MÅ±szaki berendezÃ©sek, gÃ©pek, jÃ¡rmÅ±vek 18 139 6 800 24 939<ujsor/>
+EgyÃ©b berendezÃ©sek, felszerelÃ©sek, jÃ¡rmÅ±vek 19 225 1 345 20 570<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 99 507 0 0 99 507<ujsor/>
+TartÃ³s rÃ©szesedÃ©s kapcsolt vÃ¡llalkozÃ¡sban 99 507 99 507<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 1 385 448 3 944 Â­184 753 1 204 639<ujsor/>
+I. KÃ©szletek 629 0 0 629<ujsor/>
+Befejezetlen termelÃ©s Ã©s fÃ©lkÃ©sz termÃ©kek 100 100<ujsor/>
+II. KÃ¶vetelÃ©sek 1 271 267 3 155 Â­184 753 1 089 669<ujsor/>
+KÃ¶vetelÃ©sek Ã¡ruszÃ¡llÃ­tÃ¡sbÃ³l Ã©s szolgÃ¡ltatÃ¡sokbÃ³l (vevÅ‘k) 752 249 1 048 753 297<ujsor/>
+KÃ¶vetelÃ©sek kapcsolt vÃ¡llalkozÃ¡ssal szemben 475 872 475 Â­184 753 291 594<ujsor/>
+EgyÃ©b kÃ¶vetelÃ©sek 43 146 1 632 44 778<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 113 552 789 0 114 341<ujsor/>
+PÃ©nztÃ¡r, csekkek 489 402 891<ujsor/>
+BankbetÃ©tek 113 063 387 113 450<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 72 931 5 334 Â­19 217 59 048<ujsor/>
+BevÃ©telek aktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sa 72 054 5 225 Â­19 217 58 062<ujsor/>
+KÃ¶ltsÃ©gek, rÃ¡fordÃ­tÃ¡sok aktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sa 877 109 986<ujsor/>
+Ã–SSZESEN: 1 766 056 25 241 Â­203 970 1 587 327<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK (passzívák) Befogadó Beolvadó Index Kiszûrés Beolvadással<ujsor/>
-Index.hu Zrt. (záró) Video Zrt. (záró) létrejövõ Index.hu Zrt. (nyitó)<ujsor/>
-D) Saját tõke 571 521 ­184 307 0 387 214<ujsor/>
-I. Jegyzett tõke 20 000 10 000 30 000<ujsor/>
-III. Tõketartalék 36 000 ­36 000 0<ujsor/>
-IV. Eredménytartalék 526 521 ­230 307 36 000 332 214<ujsor/>
-V. Lekötött tartalék 25 000 25 000<ujsor/>
-E) Céltartalékok 2 300 0 0 2 300<ujsor/>
-Céltartalék a várható kötelezettségekre 2 300 2 300<ujsor/>
-F) Kötelezettségek 868 464 191 445 ­184 753 875 156<ujsor/>
-III. Rövid lejáratú kötelezettségek 868 464 191 445 ­184 753 875 156<ujsor/>
-Vevõtõl kapott elõlegek 1 909 1 909<ujsor/>
-Kötelezettségek áruszállításból és szolgáltatásból (szállítók) 74 414 956 75 370<ujsor/>
-Rövid lejáratú kötelezettségek kapcsolt vállalkozással szemben 663 807 184 278 ­184 753 663 332<ujsor/>
-Egyéb rövid lejáratú kötelezettségek 128 334 6 211 134 545<ujsor/>
-G) Passzív idõbeli elhatárolások 323 771 18 103 ­19 217 322 657<ujsor/>
-Bevételek passzív idõbeli elhatárolása 39 39<ujsor/>
-Költségek, ráfordítások passzív idõbeli elhatárolása 297 898 18 064 ­19 217 296 745<ujsor/>
-Halasztott bevételek 25 873 25 873<ujsor/>
-ÖSSZESEN: 1 766 056 25 241 ­203 970 1 587 327<ujsor/>
-A létrejövõ gazdasági társaság részvényei: az alaptõke 3000 db (háromezer darab) 10 000 Ft (tízezer forint) névértékû, névre szóló, nyomdai úton elõállított törzsrészvényre oszlik. A részvények mindenféle szempontból egyforma jogokkal és kötelezettségekkel bírnak.<ujsor/>
-A létrejövõ gazdasági társaság fõ tevékenysége: Napilapkiadás.<ujsor/>
-A létrejövõ gazdasági társaság vezetõ tisztségviselõi: dr. Spéder Zoltán (1054 Budapest, Alkotmány u. 12.), képviseleti joga önálló, dr. Nobilis Kristóf (1113 Budapest, Bartók Béla út 72.), képviseleti joga önálló, Balogh Gabriella (1039 Budapest, Nagyvárad u. 6.), képviseleti joga önálló, dr. Fáy Margit (2094 Nagykovácsi, Erdõsétány u. 27.), képviseleti joga együttes, Uj Péter (2040 Budaörs, Tárogató u. 26.), képviseleti joga együttes.<ujsor/>
-Az átalakuló gazdasági társaságok felhívják azon hitelezõiket, akiknek az átalakuló gazdasági társaságokkal szemben fennálló, le nem járt követelései az átalakulással hozott döntés elsõ közzétételét megelõzõen keletkeztek, követeléseik erejéig az átalakuló gazdasági társaságoktól a döntés második közzétételét követõ harminc (30) napos jogvesztõ határidõn belül biztosítékot követelhetnek.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+FORRÃSOK (passzÃ­vÃ¡k) BefogadÃ³ BeolvadÃ³ Index KiszÅ±rÃ©s BeolvadÃ¡ssal<ujsor/>
+Index.hu Zrt. (zÃ¡rÃ³) Video Zrt. (zÃ¡rÃ³) lÃ©trejÃ¶vÅ‘ Index.hu Zrt. (nyitÃ³)<ujsor/>
+D) SajÃ¡t tÅ‘ke 571 521 Â­184 307 0 387 214<ujsor/>
+I. Jegyzett tÅ‘ke 20 000 10 000 30 000<ujsor/>
+III. TÅ‘ketartalÃ©k 36 000 Â­36 000 0<ujsor/>
+IV. EredmÃ©nytartalÃ©k 526 521 Â­230 307 36 000 332 214<ujsor/>
+V. LekÃ¶tÃ¶tt tartalÃ©k 25 000 25 000<ujsor/>
+E) CÃ©ltartalÃ©kok 2 300 0 0 2 300<ujsor/>
+CÃ©ltartalÃ©k a vÃ¡rhatÃ³ kÃ¶telezettsÃ©gekre 2 300 2 300<ujsor/>
+F) KÃ¶telezettsÃ©gek 868 464 191 445 Â­184 753 875 156<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 868 464 191 445 Â­184 753 875 156<ujsor/>
+VevÅ‘tÅ‘l kapott elÅ‘legek 1 909 1 909<ujsor/>
+KÃ¶telezettsÃ©gek Ã¡ruszÃ¡llÃ­tÃ¡sbÃ³l Ã©s szolgÃ¡ltatÃ¡sbÃ³l (szÃ¡llÃ­tÃ³k) 74 414 956 75 370<ujsor/>
+RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek kapcsolt vÃ¡llalkozÃ¡ssal szemben 663 807 184 278 Â­184 753 663 332<ujsor/>
+EgyÃ©b rÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 128 334 6 211 134 545<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 323 771 18 103 Â­19 217 322 657<ujsor/>
+BevÃ©telek passzÃ­v idÅ‘beli elhatÃ¡rolÃ¡sa 39 39<ujsor/>
+KÃ¶ltsÃ©gek, rÃ¡fordÃ­tÃ¡sok passzÃ­v idÅ‘beli elhatÃ¡rolÃ¡sa 297 898 18 064 Â­19 217 296 745<ujsor/>
+Halasztott bevÃ©telek 25 873 25 873<ujsor/>
+Ã–SSZESEN: 1 766 056 25 241 Â­203 970 1 587 327<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g rÃ©szvÃ©nyei: az alaptÅ‘ke 3000 db (hÃ¡romezer darab) 10 000 Ft (tÃ­zezer forint) nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³, nyomdai Ãºton elÅ‘Ã¡llÃ­tott tÃ¶rzsrÃ©szvÃ©nyre oszlik. A rÃ©szvÃ©nyek mindenfÃ©le szempontbÃ³l egyforma jogokkal Ã©s kÃ¶telezettsÃ©gekkel bÃ­rnak.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©ge: NapilapkiadÃ¡s.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘i: dr. SpÃ©der ZoltÃ¡n (1054 Budapest, AlkotmÃ¡ny u. 12.), kÃ©pviseleti joga Ã¶nÃ¡llÃ³, dr. Nobilis KristÃ³f (1113 Budapest, BartÃ³k BÃ©la Ãºt 72.), kÃ©pviseleti joga Ã¶nÃ¡llÃ³, Balogh Gabriella (1039 Budapest, NagyvÃ¡rad u. 6.), kÃ©pviseleti joga Ã¶nÃ¡llÃ³, dr. FÃ¡y Margit (2094 NagykovÃ¡csi, ErdÅ‘sÃ©tÃ¡ny u. 27.), kÃ©pviseleti joga egyÃ¼ttes, Uj PÃ©ter (2040 BudaÃ¶rs, TÃ¡rogatÃ³ u. 26.), kÃ©pviseleti joga egyÃ¼ttes.<ujsor/>
+Az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gok felhÃ­vjÃ¡k azon hitelezÅ‘iket, akiknek az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gokkal szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei az Ã¡talakulÃ¡ssal hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡goktÃ³l a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harminc (30) napos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044705</mezo>
-<mezo id = "nev">Café Kereskedõház Rt.</mezo>
+<mezo id = "nev">CafÃ© KereskedÅ‘hÃ¡z Rt.</mezo>
 <mezo id = "cim">1033 Budapest</mezo>
 </alrovat>
 <alrovat id = "13">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság által bejegyzett INDEX.HU Informatikai Zrt. (Cg.: [01 10 044705]; székhelye: 1033 Budapest, Flórián tér 1.) és az Index Video Zrt. (Cg.: [01 10 045980]; székhelye: 1033 Budapest, Flórián tér 1.) részvényesei elhatározták a két társaság egyesüléssel történõ átalakulását oly módon, hogy az Index Video Zrt. beolvad az INDEX.HU Informatikai Zrt.-be.<ujsor/>
-Az átalakulás módja: egyesülés, beolvadás útján.<ujsor/>
-Az átalakulást követõen létrejövõ gazdasági társaság formája, cégneve és székhelye: INDEX.HU Informatikai Zártkörûen Mûködõ Részvénytársaság, 1033 Budapest, Flórián tér 1.<ujsor/>
-A létrejövõ gazdasági társaság társasági szerzõdése megkötésének napja: 2010. szeptember 29.<ujsor/>
-Az átalakulás napja: 2010. november 30.<ujsor/>
-Vagyonmérleg-tervezetek:<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g Ã¡ltal bejegyzett INDEX.HU Informatikai Zrt. (Cg.: [01 10 044705]; szÃ©khelye: 1033 Budapest, FlÃ³riÃ¡n tÃ©r 1.) Ã©s az Index Video Zrt. (Cg.: [01 10 045980]; szÃ©khelye: 1033 Budapest, FlÃ³riÃ¡n tÃ©r 1.) rÃ©szvÃ©nyesei elhatÃ¡roztÃ¡k a kÃ©t tÃ¡rsasÃ¡g egyesÃ¼lÃ©ssel tÃ¶rtÃ©nÅ‘ Ã¡talakulÃ¡sÃ¡t oly mÃ³don, hogy az Index Video Zrt. beolvad az INDEX.HU Informatikai Zrt.-be.<ujsor/>
+Az Ã¡talakulÃ¡s mÃ³dja: egyesÃ¼lÃ©s, beolvadÃ¡s ÃºtjÃ¡n.<ujsor/>
+Az Ã¡talakulÃ¡st kÃ¶vetÅ‘en lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g formÃ¡ja, cÃ©gneve Ã©s szÃ©khelye: INDEX.HU Informatikai ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g, 1033 Budapest, FlÃ³riÃ¡n tÃ©r 1.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g tÃ¡rsasÃ¡gi szerzÅ‘dÃ©se megkÃ¶tÃ©sÃ©nek napja: 2010. szeptember 29.<ujsor/>
+Az Ã¡talakulÃ¡s napja: 2010. november 30.<ujsor/>
+VagyonmÃ©rleg-tervezetek:<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK (aktívák) Befogadó Beolvadó Index Kiszûrés Beolvadással<ujsor/>
-Index.hu Zrt. (záró) Video Zrt. (záró) létrejövõ Index.hu Zrt. (nyitó)<ujsor/>
-A) Befektetett eszközök 307 677 15 963 0 323 640<ujsor/>
-I. Immateriális javak 141 327 7 594 0 148 921<ujsor/>
-Vagyoni értékû jogok 28 639 28 639<ujsor/>
-Szellemi termékek 112 688 7 594 120 282<ujsor/>
-II. Tárgyi eszközök 66 843 8 369 0 75 212<ujsor/>
-Ingatlanok és a kapcsolódó vagyoni értékû jogok 29 479 224 29 703<ujsor/>
-Mûszaki berendezések, gépek, jármûvek 18 139 6 800 24 939<ujsor/>
-Egyéb berendezések, felszerelések, jármûvek 19 225 1 345 20 570<ujsor/>
-III. Befektetett pénzügyi eszközök 99 507 0 0 99 507<ujsor/>
-Tartós részesedés kapcsolt vállalkozásban 99 507 99 507<ujsor/>
-B) Forgóeszközök 1 385 448 3 944 ­184 753 1 204 639<ujsor/>
-I. Készletek 629 0 0 629<ujsor/>
-Befejezetlen termelés és félkész termékek 100 100<ujsor/>
-II. Követelések 1 271 267 3 155 ­184 753 1 089 669<ujsor/>
-Követelések áruszállításból és szolgáltatásokból (vevõk) 752 249 1 048 753 297<ujsor/>
-Követelések kapcsolt vállalkozással szemben 475 872 475 ­184 753 291 594<ujsor/>
-Egyéb követelések 43 146 1 632 44 778<ujsor/>
-IV. Pénzeszközök 113 552 789 0 114 341<ujsor/>
-Pénztár, csekkek 489 402 891<ujsor/>
-Bankbetétek 113 063 387 113 450<ujsor/>
-C) Aktív idõbeli elhatárolások 72 931 5 334 ­19 217 59 048<ujsor/>
-Bevételek aktív idõbeli elhatárolása 72 054 5 225 ­19 217 58 062<ujsor/>
-Költségek, ráfordítások aktív idõbeli elhatárolása 877 109 986<ujsor/>
-ÖSSZESEN: 1 766 056 25 241 ­203 970 1 587 327<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) BefogadÃ³ BeolvadÃ³ Index KiszÅ±rÃ©s BeolvadÃ¡ssal<ujsor/>
+Index.hu Zrt. (zÃ¡rÃ³) Video Zrt. (zÃ¡rÃ³) lÃ©trejÃ¶vÅ‘ Index.hu Zrt. (nyitÃ³)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 307 677 15 963 0 323 640<ujsor/>
+I. ImmateriÃ¡lis javak 141 327 7 594 0 148 921<ujsor/>
+Vagyoni Ã©rtÃ©kÅ± jogok 28 639 28 639<ujsor/>
+Szellemi termÃ©kek 112 688 7 594 120 282<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 66 843 8 369 0 75 212<ujsor/>
+Ingatlanok Ã©s a kapcsolÃ³dÃ³ vagyoni Ã©rtÃ©kÅ± jogok 29 479 224 29 703<ujsor/>
+MÅ±szaki berendezÃ©sek, gÃ©pek, jÃ¡rmÅ±vek 18 139 6 800 24 939<ujsor/>
+EgyÃ©b berendezÃ©sek, felszerelÃ©sek, jÃ¡rmÅ±vek 19 225 1 345 20 570<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 99 507 0 0 99 507<ujsor/>
+TartÃ³s rÃ©szesedÃ©s kapcsolt vÃ¡llalkozÃ¡sban 99 507 99 507<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 1 385 448 3 944 Â­184 753 1 204 639<ujsor/>
+I. KÃ©szletek 629 0 0 629<ujsor/>
+Befejezetlen termelÃ©s Ã©s fÃ©lkÃ©sz termÃ©kek 100 100<ujsor/>
+II. KÃ¶vetelÃ©sek 1 271 267 3 155 Â­184 753 1 089 669<ujsor/>
+KÃ¶vetelÃ©sek Ã¡ruszÃ¡llÃ­tÃ¡sbÃ³l Ã©s szolgÃ¡ltatÃ¡sokbÃ³l (vevÅ‘k) 752 249 1 048 753 297<ujsor/>
+KÃ¶vetelÃ©sek kapcsolt vÃ¡llalkozÃ¡ssal szemben 475 872 475 Â­184 753 291 594<ujsor/>
+EgyÃ©b kÃ¶vetelÃ©sek 43 146 1 632 44 778<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 113 552 789 0 114 341<ujsor/>
+PÃ©nztÃ¡r, csekkek 489 402 891<ujsor/>
+BankbetÃ©tek 113 063 387 113 450<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 72 931 5 334 Â­19 217 59 048<ujsor/>
+BevÃ©telek aktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sa 72 054 5 225 Â­19 217 58 062<ujsor/>
+KÃ¶ltsÃ©gek, rÃ¡fordÃ­tÃ¡sok aktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sa 877 109 986<ujsor/>
+Ã–SSZESEN: 1 766 056 25 241 Â­203 970 1 587 327<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK (passzívák) Befogadó Beolvadó Index Kiszûrés Beolvadással<ujsor/>
-Index.hu Zrt. (záró) Video Zrt. (záró) létrejövõ Index.hu Zrt. (nyitó)<ujsor/>
-D) Saját tõke 571 521 ­184 307 0 387 214<ujsor/>
-I. Jegyzett tõke 20 000 10 000 30 000<ujsor/>
-III. Tõketartalék 36 000 ­36 000 0<ujsor/>
-IV. Eredménytartalék 526 521 ­230 307 36 000 332 214<ujsor/>
-V. Lekötött tartalék 25 000 25 000<ujsor/>
-E) Céltartalékok 2 300 0 0 2 300<ujsor/>
-Céltartalék a várható kötelezettségekre 2 300 2 300<ujsor/>
-F) Kötelezettségek 868 464 191 445 ­184 753 875 156<ujsor/>
-III. Rövid lejáratú kötelezettségek 868 464 191 445 ­184 753 875 156<ujsor/>
-Vevõtõl kapott elõlegek 1 909 1 909<ujsor/>
-Kötelezettségek áruszállításból és szolgáltatásból (szállítók) 74 414 956 75 370<ujsor/>
-Rövid lejáratú kötelezettségek kapcsolt vállalkozással szemben 663 807 184 278 ­184 753 663 332<ujsor/>
-Egyéb rövid lejáratú kötelezettségek 128 334 6 211 134 545<ujsor/>
-G) Passzív idõbeli elhatárolások 323 771 18 103 ­19 217 322 657<ujsor/>
-Bevételek passzív idõbeli elhatárolása 39 39<ujsor/>
-Költségek, ráfordítások passzív idõbeli elhatárolása 297 898 18 064 ­19 217 296 745<ujsor/>
-Halasztott bevételek 25 873 25 873<ujsor/>
-ÖSSZESEN: 1 766 056 25 241 ­203 970 1 587 327<ujsor/>
-A létrejövõ gazdasági társaság részvényei: az alaptõke 3000 db (háromezer darab) 10 000 Ft (tízezer forint) névértékû, névre szóló, nyomdai úton elõállított törzsrészvényre oszlik. A részvények mindenféle szempontból egyforma jogokkal és kötelezettségekkel bírnak.<ujsor/>
-A létrejövõ gazdasági társaság fõ tevékenysége: Napilapkiadás.<ujsor/>
-A létrejövõ gazdasági társaság vezetõ tisztségviselõi: dr. Spéder Zoltán (1054 Budapest, Alkotmány u. 12.), képviseleti joga önálló, dr. Nobilis Kristóf (1113 Budapest, Bartók Béla út 72.), képviseleti joga önálló, Balogh Gabriella (1039 Budapest, Nagyvárad u. 6.), képviseleti joga önálló, dr. Fáy Margit (2094 Nagykovácsi, Erdõsétány u. 27.), képviseleti joga együttes, Uj Péter (2040 Budaörs, Tárogató u. 26.), képviseleti joga együttes.<ujsor/>
-Az átalakuló gazdasági társaságok felhívják azon hitelezõiket, akiknek az átalakuló gazdasági társaságokkal szemben fennálló, le nem járt követelései az átalakulással hozott döntés elsõ közzétételét megelõzõen keletkeztek, követeléseik erejéig az átalakuló gazdasági társaságoktól a döntés második közzétételét követõ harminc (30) napos jogvesztõ határidõn belül biztosítékot követelhetnek.<ujsor/>
-(Második közzététel.)<ujsor/>
+FORRÃSOK (passzÃ­vÃ¡k) BefogadÃ³ BeolvadÃ³ Index KiszÅ±rÃ©s BeolvadÃ¡ssal<ujsor/>
+Index.hu Zrt. (zÃ¡rÃ³) Video Zrt. (zÃ¡rÃ³) lÃ©trejÃ¶vÅ‘ Index.hu Zrt. (nyitÃ³)<ujsor/>
+D) SajÃ¡t tÅ‘ke 571 521 Â­184 307 0 387 214<ujsor/>
+I. Jegyzett tÅ‘ke 20 000 10 000 30 000<ujsor/>
+III. TÅ‘ketartalÃ©k 36 000 Â­36 000 0<ujsor/>
+IV. EredmÃ©nytartalÃ©k 526 521 Â­230 307 36 000 332 214<ujsor/>
+V. LekÃ¶tÃ¶tt tartalÃ©k 25 000 25 000<ujsor/>
+E) CÃ©ltartalÃ©kok 2 300 0 0 2 300<ujsor/>
+CÃ©ltartalÃ©k a vÃ¡rhatÃ³ kÃ¶telezettsÃ©gekre 2 300 2 300<ujsor/>
+F) KÃ¶telezettsÃ©gek 868 464 191 445 Â­184 753 875 156<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 868 464 191 445 Â­184 753 875 156<ujsor/>
+VevÅ‘tÅ‘l kapott elÅ‘legek 1 909 1 909<ujsor/>
+KÃ¶telezettsÃ©gek Ã¡ruszÃ¡llÃ­tÃ¡sbÃ³l Ã©s szolgÃ¡ltatÃ¡sbÃ³l (szÃ¡llÃ­tÃ³k) 74 414 956 75 370<ujsor/>
+RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek kapcsolt vÃ¡llalkozÃ¡ssal szemben 663 807 184 278 Â­184 753 663 332<ujsor/>
+EgyÃ©b rÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 128 334 6 211 134 545<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 323 771 18 103 Â­19 217 322 657<ujsor/>
+BevÃ©telek passzÃ­v idÅ‘beli elhatÃ¡rolÃ¡sa 39 39<ujsor/>
+KÃ¶ltsÃ©gek, rÃ¡fordÃ­tÃ¡sok passzÃ­v idÅ‘beli elhatÃ¡rolÃ¡sa 297 898 18 064 Â­19 217 296 745<ujsor/>
+Halasztott bevÃ©telek 25 873 25 873<ujsor/>
+Ã–SSZESEN: 1 766 056 25 241 Â­203 970 1 587 327<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g rÃ©szvÃ©nyei: az alaptÅ‘ke 3000 db (hÃ¡romezer darab) 10 000 Ft (tÃ­zezer forint) nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³, nyomdai Ãºton elÅ‘Ã¡llÃ­tott tÃ¶rzsrÃ©szvÃ©nyre oszlik. A rÃ©szvÃ©nyek mindenfÃ©le szempontbÃ³l egyforma jogokkal Ã©s kÃ¶telezettsÃ©gekkel bÃ­rnak.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©ge: NapilapkiadÃ¡s.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘i: dr. SpÃ©der ZoltÃ¡n (1054 Budapest, AlkotmÃ¡ny u. 12.), kÃ©pviseleti joga Ã¶nÃ¡llÃ³, dr. Nobilis KristÃ³f (1113 Budapest, BartÃ³k BÃ©la Ãºt 72.), kÃ©pviseleti joga Ã¶nÃ¡llÃ³, Balogh Gabriella (1039 Budapest, NagyvÃ¡rad u. 6.), kÃ©pviseleti joga Ã¶nÃ¡llÃ³, dr. FÃ¡y Margit (2094 NagykovÃ¡csi, ErdÅ‘sÃ©tÃ¡ny u. 27.), kÃ©pviseleti joga egyÃ¼ttes, Uj PÃ©ter (2040 BudaÃ¶rs, TÃ¡rogatÃ³ u. 26.), kÃ©pviseleti joga egyÃ¼ttes.<ujsor/>
+Az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gok felhÃ­vjÃ¡k azon hitelezÅ‘iket, akiknek az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gokkal szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei az Ã¡talakulÃ¡ssal hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡goktÃ³l a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harminc (30) napos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044705</mezo>
-<mezo id = "nev">Café Kereskedõház Rt.</mezo>
+<mezo id = "nev">CafÃ© KereskedÅ‘hÃ¡z Rt.</mezo>
 <mezo id = "cim">1033 Budapest</mezo>
 </alrovat>
 </rovat>

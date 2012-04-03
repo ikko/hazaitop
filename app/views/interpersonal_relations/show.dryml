@@ -3,10 +3,10 @@
     <view:person/> és <view:related_person/>
   </heading:>
   <record-flags: replace></record-flags:>
-  <field-list: fields="p2p_relation_type, start_time, end_time, information_source, organization">
-    <p2p-relation-type-label:> 
+  <field-list: fields="p_to_p_relation_type, start_time, end_time, information_source, organization">
+    <p_to_p-relation-type-label:> 
       Kapcsolat 
-    </p2p-relation-type-label:>
+    </p_to_p-relation-type-label:>
     <end-time-label:>
       <%= this_parent.no_end_time? ? "" : "Záró dátum" %>
     </end-time-label:>

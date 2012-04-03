@@ -6,7 +6,7 @@
 <mezo id = "szam">008576</mezo>
 <mezo id = "nevalrovat">2</mezo>
 <mezo id = "allapot">6</mezo>
-<mezo id = "cim">6721 Szeged, Tímár u. 7. </mezo>
+<mezo id = "cim">6721 Szeged, TÃ­mÃ¡r u. 7. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">13042187206</mezo>
 </alrovat>
@@ -14,7 +14,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20090601</mezo>
-<mezo id = "nev">4község Vízügyi Beruházást Bonyolító és Szolgáltató Korlátolt Felelõsségû Társaság &quot;végelszámolás alatt&quot;</mezo>
+<mezo id = "nev">4kÃ¶zsÃ©g VÃ­zÃ¼gyi BeruhÃ¡zÃ¡st BonyolÃ­tÃ³ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g &quot;vÃ©gelszÃ¡molÃ¡s alatt&quot;</mezo>
 <mezo id = "valtk">20090601</mezo>
 <mezo id = "bkelt">20090706</mezo>
 </alrovat>
@@ -22,7 +22,7 @@
 <rovat id = "3">
 <alrovat id = "2">
 <mezo id = "hattol">20090601</mezo>
-<mezo id = "nev">4község Kft. &quot;v.a.&quot;</mezo>
+<mezo id = "nev">4kÃ¶zsÃ©g Kft. &quot;v.a.&quot;</mezo>
 <mezo id = "valtk">20090601</mezo>
 <mezo id = "bkelt">20090706</mezo>
 </alrovat>
@@ -32,14 +32,14 @@
 <mezo id = "hattol">20031022</mezo>
 <mezo id = "irsz">6721</mezo>
 <mezo id = "hely">Szeged</mezo>
-<mezo id = "teru">Tímár u. 7.</mezo>
+<mezo id = "teru">TÃ­mÃ¡r u. 7.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "7">
 <alrovat id = "1">
 <mezo id = "hattol">20030604</mezo>
 <mezo id = "irsz">5663</mezo>
-<mezo id = "hely">Medgyesbodzás, Széchenyi u. 38.</mezo>
+<mezo id = "hely">MedgyesbodzÃ¡s, SzÃ©chenyi u. 38.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "8">
@@ -134,7 +134,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090304</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Biztonsági rendszer szolgáltatása</mezo>
+<mezo id = "teaszov">BiztonsÃ¡gi rendszer szolgÃ¡ltatÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "52">
 <mezo id = "hattol">20081231</mezo>
@@ -153,7 +153,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090304</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Üzletviteli, egyéb vezetési tanácsadás</mezo>
+<mezo id = "teaszov">Ãœzletviteli, egyÃ©b vezetÃ©si tanÃ¡csadÃ¡s</mezo>
 </alrovat>
 <alrovat id = "53">
 <mezo id = "hattol">20081231</mezo>
@@ -171,7 +171,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090304</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Lakó- és nem lakó épület építése</mezo>
+<mezo id = "teaszov">LakÃ³- Ã©s nem lakÃ³ Ã©pÃ¼let Ã©pÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "54">
 <mezo id = "hattol">20081231</mezo>
@@ -189,7 +189,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090304</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Út, autópálya építése</mezo>
+<mezo id = "teaszov">Ãšt, autÃ³pÃ¡lya Ã©pÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "55">
 <mezo id = "hattol">20081231</mezo>
@@ -207,7 +207,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090304</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Vasút építése</mezo>
+<mezo id = "teaszov">VasÃºt Ã©pÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "56">
 <mezo id = "hattol">20081231</mezo>
@@ -225,7 +225,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090304</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Híd, alagút építése</mezo>
+<mezo id = "teaszov">HÃ­d, alagÃºt Ã©pÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "57">
 <mezo id = "hattol">20081231</mezo>
@@ -243,7 +243,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090304</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Folyadék szállítására szolgáló közmû építése</mezo>
+<mezo id = "teaszov">FolyadÃ©k szÃ¡llÃ­tÃ¡sÃ¡ra szolgÃ¡lÃ³ kÃ¶zmÅ± Ã©pÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "58">
 <mezo id = "hattol">20081231</mezo>
@@ -261,7 +261,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090304</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Elektromos, híradás-technikai célú közmû építése</mezo>
+<mezo id = "teaszov">Elektromos, hÃ­radÃ¡s-technikai cÃ©lÃº kÃ¶zmÅ± Ã©pÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "59">
 <mezo id = "hattol">20081231</mezo>
@@ -279,7 +279,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090304</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Vízi létesítmény építése</mezo>
+<mezo id = "teaszov">VÃ­zi lÃ©tesÃ­tmÃ©ny Ã©pÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "60">
 <mezo id = "hattol">20081231</mezo>
@@ -297,7 +297,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090304</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb m.n.s. építése</mezo>
+<mezo id = "teaszov">EgyÃ©b m.n.s. Ã©pÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "61">
 <mezo id = "hattol">20081231</mezo>
@@ -315,7 +315,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090304</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Bontás</mezo>
+<mezo id = "teaszov">BontÃ¡s</mezo>
 </alrovat>
 <alrovat id = "62">
 <mezo id = "hattol">20081231</mezo>
@@ -333,7 +333,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090304</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Építési terület elõkészítése</mezo>
+<mezo id = "teaszov">Ã‰pÃ­tÃ©si terÃ¼let elÅ‘kÃ©szÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "63">
 <mezo id = "hattol">20081231</mezo>
@@ -351,7 +351,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090304</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Villanyszerelés</mezo>
+<mezo id = "teaszov">VillanyszerelÃ©s</mezo>
 </alrovat>
 <alrovat id = "64">
 <mezo id = "hattol">20081231</mezo>
@@ -369,7 +369,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090304</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb épületgépészeti szerelés</mezo>
+<mezo id = "teaszov">EgyÃ©b Ã©pÃ¼letgÃ©pÃ©szeti szerelÃ©s</mezo>
 </alrovat>
 <alrovat id = "65">
 <mezo id = "hattol">20081231</mezo>
@@ -387,7 +387,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090304</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb speciális szaképítés m.n.s.</mezo>
+<mezo id = "teaszov">EgyÃ©b speciÃ¡lis szakÃ©pÃ­tÃ©s m.n.s.</mezo>
 </alrovat>
 <alrovat id = "66">
 <mezo id = "hattol">20081231</mezo>
@@ -405,7 +405,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090304</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Ingatlankezelés</mezo>
+<mezo id = "teaszov">IngatlankezelÃ©s</mezo>
 </alrovat>
 <alrovat id = "67">
 <mezo id = "hattol">20081231</mezo>
@@ -423,7 +423,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090304</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Építészmérnöki tevékenység</mezo>
+<mezo id = "teaszov">Ã‰pÃ­tÃ©szmÃ©rnÃ¶ki tevÃ©kenysÃ©g</mezo>
 </alrovat>
 <alrovat id = "68">
 <mezo id = "hattol">20081231</mezo>
@@ -441,7 +441,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090304</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Mérnöki tevékenység, mûszaki tanácsadás</mezo>
+<mezo id = "teaszov">MÃ©rnÃ¶ki tevÃ©kenysÃ©g, mÅ±szaki tanÃ¡csadÃ¡s</mezo>
 </alrovat>
 <alrovat id = "69">
 <mezo id = "hattol">20081231</mezo>
@@ -459,7 +459,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090304</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">M.n.s. egyéb szakmai, tudományos, mûszaki tevékenység</mezo>
+<mezo id = "teaszov">M.n.s. egyÃ©b szakmai, tudomÃ¡nyos, mÅ±szaki tevÃ©kenysÃ©g</mezo>
 </alrovat>
 <alrovat id = "70">
 <mezo id = "hattol">20081231</mezo>
@@ -477,7 +477,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090304</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Biztonsági rendszer szolgáltatása</mezo>
+<mezo id = "teaszov">BiztonsÃ¡gi rendszer szolgÃ¡ltatÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "71">
 <mezo id = "hattol">20081231</mezo>
@@ -495,7 +495,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090304</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Építményüzemeltetés</mezo>
+<mezo id = "teaszov">Ã‰pÃ­tmÃ©nyÃ¼zemeltetÃ©s</mezo>
 </alrovat>
 <alrovat id = "72">
 <mezo id = "hattol">20081231</mezo>
@@ -513,7 +513,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090304</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">M.n.s. egyéb kiegészítõ üzleti szolgáltatás</mezo>
+<mezo id = "teaszov">M.n.s. egyÃ©b kiegÃ©szÃ­tÅ‘ Ã¼zleti szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -528,12 +528,12 @@
 <rovat id = "13">
 <alrovat id = "5">
 <mezo id = "hattol">20090601</mezo>
-<mezo id = "tiszt">végelszámoló</mezo>
-<mezo id = "pnev">Kokovay János</mezo>
+<mezo id = "tiszt">vÃ©gelszÃ¡molÃ³</mezo>
+<mezo id = "pnev">Kokovay JÃ¡nos</mezo>
 <mezo id = "panev">Szenti Ida</mezo>
 <mezo id = "pirsz">6722</mezo>
 <mezo id = "phely">Szeged</mezo>
-<mezo id = "pteru">Bécsi krt. 33/A.</mezo>
+<mezo id = "pteru">BÃ©csi krt. 33/A.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20090601</mezo>
 <mezo id = "valtk">20090601</mezo>
@@ -569,39 +569,39 @@
 <rovat id = "0109">
 <alrovat id = "1">
 <mezo id = "hattol">20030604</mezo>
-<mezo id = "nev">Medgyesbodzás (Gábortelep) Község Önkormányzata Polgármesteri Hivatala</mezo>
+<mezo id = "nev">MedgyesbodzÃ¡s (GÃ¡bortelep) KÃ¶zsÃ©g Ã–nkormÃ¡nyzata PolgÃ¡rmesteri Hivatala</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">5663</mezo>
-<mezo id = "hely">Medgyesbodzás</mezo>
-<mezo id = "teru">Széchenyi u.</mezo>
+<mezo id = "hely">MedgyesbodzÃ¡s</mezo>
+<mezo id = "teru">SzÃ©chenyi u.</mezo>
 <mezo id = "hsz">38.</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20030604</mezo>
-<mezo id = "nev">Pusztaottlaka Község Önkormányzata Polgármesteri Hivatala</mezo>
+<mezo id = "nev">Pusztaottlaka KÃ¶zsÃ©g Ã–nkormÃ¡nyzata PolgÃ¡rmesteri Hivatala</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">5565</mezo>
 <mezo id = "hely">Pusztaottlaka</mezo>
-<mezo id = "teru">Felszabadulás u.</mezo>
+<mezo id = "teru">FelszabadulÃ¡s u.</mezo>
 <mezo id = "hsz">10.</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20030604</mezo>
-<mezo id = "nev">Nagybánhegyes Község Önkormányzata Polgármesteri Hivatala</mezo>
+<mezo id = "nev">NagybÃ¡nhegyes KÃ¶zsÃ©g Ã–nkormÃ¡nyzata PolgÃ¡rmesteri Hivatala</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">5668</mezo>
-<mezo id = "hely">Nagybánhegyes</mezo>
+<mezo id = "hely">NagybÃ¡nhegyes</mezo>
 <mezo id = "teru">Kossuth u.</mezo>
 <mezo id = "hsz">64.</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20030604</mezo>
 <mezo id = "cgjsz">609006968</mezo>
-<mezo id = "nev">CSOMINVEST Beruházási és Befektetésszervezõ Kft.</mezo>
+<mezo id = "nev">CSOMINVEST BeruhÃ¡zÃ¡si Ã©s BefektetÃ©sszervezÅ‘ Kft.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">6721</mezo>
 <mezo id = "hely">Szeged</mezo>
-<mezo id = "teru">Tímár u.</mezo>
+<mezo id = "teru">TÃ­mÃ¡r u.</mezo>
 <mezo id = "hsz">7.</mezo>
 </alrovat>
 </rovat>
@@ -614,33 +614,33 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a cég 2008. 10. 06. napján<ujsor/>
-benyújtott változás bejegyzése iránti kérelmét elutasítja.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a cÃ©g 2008. 10. 06. napjÃ¡n<ujsor/>
+benyÃºjtott vÃ¡ltozÃ¡s bejegyzÃ©se irÃ¡nti kÃ©relmÃ©t elutasÃ­tja.<ujsor/>
 2009. 02. 02.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0609008576</mezo>
-<mezo id = "nev">4község Vízügyi Beruházást Bonyolító és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">6721 Szeged, Tímár u. 7.</mezo>
+<mezo id = "nev">4kÃ¶zsÃ©g VÃ­zÃ¼gyi BeruhÃ¡zÃ¡st BonyolÃ­tÃ³ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">6721 Szeged, TÃ­mÃ¡r u. 7.</mezo>
 <mezo id = "adosz">13042187206</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Csongrád Megyei Bíróság mint Cégbíróságnál Cg.06-09-008576 cégjegyzékszámon bejegyzett 4község Vízügyi Beruházást Bonyolító és Szolgáltató Korlátolt Felelõsségû Társaság &quot;végelszámolás alatt&quot; (6721 Szeged, Tímár u 7.; adószáma: 13042187-2-06) ügyében a bíróság a cég megszünésére tekintettel elrendeli a cég cégjegyzékbõl való törlését 2011. június 06-ai hatállyal.<ujsor/>
-26. A végelszámolás kezdete és befejezése<ujsor/>
-Befejezése: 2011.02.21.<ujsor/>
-Vált. kezdete: 2011.02.21.<ujsor/>
-Bejegyezve (végzés kelte): 2011. június 6.<ujsor/>
-A törlõ végzés ellen fellebbezésnek nincs helye. A végzés vagy az annak meghozatala alapjául szolgáló iratok jogszabályba ütközése miatt az ügyész, valamint az, akire a végzés rendelkezést tartalmaz - a rendelkezés õt érintõ részére vonatkozóan - pert indíthat a cég ellen a végzés hatályon kívül helyezése iránt a cég székhelye szerint illetékes megyei bíróság elõtt.<ujsor/>
-A cég törlését elrendelõ végzés ellen a pert a bíróság által kirendelt ügygondnok ellen kell megindítani.<ujsor/>
-A per megindításának a végzés Cégközlönyben való közzétételétõl számított 30 napon belül van helye. A határidõ elmulasztása jogvesztéssel jár.<ujsor/>
-A fenti adat(ok) bejegyzése és közzététele a következõ okirat(ok) alapján történt: a kérelem formanyomtatványa; a legfõbb szervnek a végelszámolás befejezésével kapcsolatos határozatai, ideértve a felügyelõbizottság (ellenõrzõ bizottság), illetve a cég könyvvizsgálójának jelentését is; az elfogadott zárójelentés, az utolsó üzleti év számviteli törvény szerinti beszámolója, a vagyonfelosztási határozat; az elfogadott zárójelentés, az utolsó üzleti év számviteli törvény szerinti beszámolója, a vagyonfelosztási határozat; az elfogadott zárójelentés, az utolsó üzleti év számviteli törvény szerinti beszámolója, a vagyonfelosztási határozat.<ujsor/>
-Az okirat(ok) a cég cégjegyzékét vezetõ cégbíróságon megtekinthetõk.<ujsor/>
-2011. június 6.<ujsor/>
+<mezo id = "szoveg">A CsongrÃ¡d Megyei BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡gnÃ¡l Cg.06-09-008576 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett 4kÃ¶zsÃ©g VÃ­zÃ¼gyi BeruhÃ¡zÃ¡st BonyolÃ­tÃ³ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g &quot;vÃ©gelszÃ¡molÃ¡s alatt&quot; (6721 Szeged, TÃ­mÃ¡r u 7.; adÃ³szÃ¡ma: 13042187-2-06) Ã¼gyÃ©ben a bÃ­rÃ³sÃ¡g a cÃ©g megszÃ¼nÃ©sÃ©re tekintettel elrendeli a cÃ©g cÃ©gjegyzÃ©kbÅ‘l valÃ³ tÃ¶rlÃ©sÃ©t 2011. jÃºnius 06-ai hatÃ¡llyal.<ujsor/>
+26. A vÃ©gelszÃ¡molÃ¡s kezdete Ã©s befejezÃ©se<ujsor/>
+BefejezÃ©se: 2011.02.21.<ujsor/>
+VÃ¡lt. kezdete: 2011.02.21.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2011. jÃºnius 6.<ujsor/>
+A tÃ¶rlÅ‘ vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye. A vÃ©gzÃ©s vagy az annak meghozatala alapjÃ¡ul szolgÃ¡lÃ³ iratok jogszabÃ¡lyba Ã¼tkÃ¶zÃ©se miatt az Ã¼gyÃ©sz, valamint az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s Å‘t Ã©rintÅ‘ rÃ©szÃ©re vonatkozÃ³an - pert indÃ­that a cÃ©g ellen a vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt a cÃ©g szÃ©khelye szerint illetÃ©kes megyei bÃ­rÃ³sÃ¡g elÅ‘tt.<ujsor/>
+A cÃ©g tÃ¶rlÃ©sÃ©t elrendelÅ‘ vÃ©gzÃ©s ellen a pert a bÃ­rÃ³sÃ¡g Ã¡ltal kirendelt Ã¼gygondnok ellen kell megindÃ­tani.<ujsor/>
+A per megindÃ­tÃ¡sÃ¡nak a vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l van helye. A hatÃ¡ridÅ‘ elmulasztÃ¡sa jogvesztÃ©ssel jÃ¡r.<ujsor/>
+A fenti adat(ok) bejegyzÃ©se Ã©s kÃ¶zzÃ©tÃ©tele a kÃ¶vetkezÅ‘ okirat(ok) alapjÃ¡n tÃ¶rtÃ©nt: a kÃ©relem formanyomtatvÃ¡nya; a legfÅ‘bb szervnek a vÃ©gelszÃ¡molÃ¡s befejezÃ©sÃ©vel kapcsolatos hatÃ¡rozatai, ideÃ©rtve a felÃ¼gyelÅ‘bizottsÃ¡g (ellenÅ‘rzÅ‘ bizottsÃ¡g), illetve a cÃ©g kÃ¶nyvvizsgÃ¡lÃ³jÃ¡nak jelentÃ©sÃ©t is; az elfogadott zÃ¡rÃ³jelentÃ©s, az utolsÃ³ Ã¼zleti Ã©v szÃ¡mviteli tÃ¶rvÃ©ny szerinti beszÃ¡molÃ³ja, a vagyonfelosztÃ¡si hatÃ¡rozat; az elfogadott zÃ¡rÃ³jelentÃ©s, az utolsÃ³ Ã¼zleti Ã©v szÃ¡mviteli tÃ¶rvÃ©ny szerinti beszÃ¡molÃ³ja, a vagyonfelosztÃ¡si hatÃ¡rozat; az elfogadott zÃ¡rÃ³jelentÃ©s, az utolsÃ³ Ã¼zleti Ã©v szÃ¡mviteli tÃ¶rvÃ©ny szerinti beszÃ¡molÃ³ja, a vagyonfelosztÃ¡si hatÃ¡rozat.<ujsor/>
+Az okirat(ok) a cÃ©g cÃ©gjegyzÃ©kÃ©t vezetÅ‘ cÃ©gbÃ­rÃ³sÃ¡gon megtekinthetÅ‘k.<ujsor/>
+2011. jÃºnius 6.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0609008576</mezo>
-<mezo id = "nev">4község Vízügyi Beruházást Bonyolító és Szolgáltató Korlátolt Felelõsségû Társaság &apos;végelszámolás alatt&apos;</mezo>
-<mezo id = "cim">6721 Szeged, Tímár u 7.</mezo>
+<mezo id = "nev">4kÃ¶zsÃ©g VÃ­zÃ¼gyi BeruhÃ¡zÃ¡st BonyolÃ­tÃ³ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g &apos;vÃ©gelszÃ¡molÃ¡s alatt&apos;</mezo>
+<mezo id = "cim">6721 Szeged, TÃ­mÃ¡r u 7.</mezo>
 <mezo id = "adosz">13042187206</mezo>
 </alrovat>
 </rovat>

@@ -124,14 +124,14 @@ private
       end
       if @detailed_search.relations.present?
         # TODO itt a pag_params[:joins] most mindig felül van csapva!                
-        if @detailed_search.relations.first.p2o_relation_types.present?
+        if @detailed_search.relations.first.p_to_o_relation_types.present?
           pag_params[:joins] += "left outer join person_to_org_relations on person_to_org_relations.organization_id=organizations.id "
-          pag_params[:conditions].merge!({:"person_to_org_relations.p2o_relation_type_id"=>@detailed_search.relations.first.p2o_relation_types})
+          pag_params[:conditions].merge!({:"person_to_org_relations.p_to_o_relation_type_id"=>@detailed_search.relations.first.p_to_o_relation_types})
         end
-        if @detailed_search.relations.first.o2o_relation_types.present?
+        if @detailed_search.relations.first.o_to_o_relation_types.present?
           # TODO a relatedet is bejoin-onljuk
           pag_params[:joins] += "left outer join interorg_relations on interorg_relations.organization_id=organizations.id "
-          pag_params[:conditions].merge!({:"interorg_relations.o2o_relation_type_id"=>@detailed_search.relations.first.o2o_relation_types})
+          pag_params[:conditions].merge!({:"interorg_relations.o_to_o_relation_type_id"=>@detailed_search.relations.first.o_to_o_relation_types})
         end
       end
       if @detailed_search.activities.present?
@@ -142,13 +142,13 @@ private
     if relation.to_sym == :person && @detailed_search.person?
       pag_params[:conditions].merge!({:relations_bit => true})
       if @detailed_search.relations.present?
-        if @detailed_search.relations.first.p2p_relation_types.present?
+        if @detailed_search.relations.first.p_to_p_relation_types.present?
           pag_params[:joins] += "left outer join interpersonal_relations on interpersonal_relations.person_id=people.id "
-          pag_params[:conditions].merge!({:"interpersonal_relations.p2p_relation_type_id"=>@detailed_search.relations.first.p2p_relation_types})
+          pag_params[:conditions].merge!({:"interpersonal_relations.p_to_p_relation_type_id"=>@detailed_search.relations.first.p_to_p_relation_types})
         end
-        if @detailed_search.relations.first.p2o_relation_types.present?
+        if @detailed_search.relations.first.p_to_o_relation_types.present?
           pag_params[:joins] += "left outer join person_to_org_relations on person_to_org_relations.person_id=people.id "
-          pag_params[:conditions].merge!({:"person_to_org_relations.p2o_relation_type_id"=>@detailed_search.relations.first.p2o_relation_types})
+          pag_params[:conditions].merge!({:"person_to_org_relations.p_to_o_relation_type_id"=>@detailed_search.relations.first.p_to_o_relation_types})
         end
       end
     end
@@ -246,13 +246,13 @@ private
       end
 
       if @detailed_search.relations.present?
-        if @detailed_search.relations.first.p2o_relations.present?
-          person_conditions << "(p2o_relations.p2o_relation_type_id in (?))"
-          person_pars << @detailed_search.relations.first.p2o_relations.*.id
+        if @detailed_search.relations.first.p_to_o_relations.present?
+          person_conditions << "(p_to_o_relations.p_to_o_relation_type_id in (?))"
+          person_pars << @detailed_search.relations.first.p_to_o_relations.*.id
         end
-        if @detailed_search.relations.first.p2p_relations.present?
-          person_conditions << "(p2p_relations.p2p_relation_type_id in (?))"
-          person_pars << @detailed_search.relations.first.p2p_relations.*.id
+        if @detailed_search.relations.first.p_to_p_relations.present?
+          person_conditions << "(p_to_p_relations.p_to_p_relation_type_id in (?))"
+          person_pars << @detailed_search.relations.first.p_to_p_relations.*.id
         end
       end
 
@@ -297,13 +297,13 @@ private
       end
 
       if @detailed_search.relations.present?
-        if @detailed_search.relations.first.p2o_relation_types.present?
-          organization_conditions << "(p2o_relations.p2o_relation_type_id in (?))"
-          org_pars << @detailed_search.relations.first.p2o_relation_types.*.id
+        if @detailed_search.relations.first.p_to_o_relation_types.present?
+          organization_conditions << "(p_to_o_relations.p_to_o_relation_type_id in (?))"
+          org_pars << @detailed_search.relations.first.p_to_o_relation_types.*.id
         end
-        if @detailed_search.relations.first.o2o_relation_types.present?
-          organization_conditions << "(o2o_relations.o2o_relation_type_id in (?))"
-          org_pars << @detailed_search.relations.first.o2o_relation_types.*.id
+        if @detailed_search.relations.first.o_to_o_relation_types.present?
+          organization_conditions << "(o_to_o_relations.o_to_o_relation_type_id in (?))"
+          org_pars << @detailed_search.relations.first.o_to_o_relation_types.*.id
         end
       end
 

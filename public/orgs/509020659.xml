@@ -7,7 +7,7 @@
 <mezo id = "nevalrovat">1</mezo>
 <mezo id = "regi_szh">0109938887</mezo>
 <mezo id = "allapot">6</mezo>
-<mezo id = "cim">3937 Komlóska, Szkalka köz 1. </mezo>
+<mezo id = "cim">3937 KomlÃ³ska, Szkalka kÃ¶z 1. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">12327357205</mezo>
 </alrovat>
@@ -15,7 +15,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19971130</mezo>
-<mezo id = "nev">B + N Referencia Ipari, Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">B + N Referencia Ipari, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -28,8 +28,8 @@
 <alrovat id = "6">
 <mezo id = "hattol">20101001</mezo>
 <mezo id = "irsz">3937</mezo>
-<mezo id = "hely">Komlóska</mezo>
-<mezo id = "teru">Szkalka köz 1.</mezo>
+<mezo id = "hely">KomlÃ³ska</mezo>
+<mezo id = "teru">Szkalka kÃ¶z 1.</mezo>
 <mezo id = "valtk">20101001</mezo>
 <mezo id = "bkelt">20101104</mezo>
 </alrovat>
@@ -159,9 +159,9 @@
 <rovat id = "13">
 <alrovat id = "8">
 <mezo id = "hattol">20100317</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Németh Iván József</mezo>
-<mezo id = "panev">Lanczendorfer Erzsébet</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">NÃ©meth IvÃ¡n JÃ³zsef</mezo>
+<mezo id = "panev">Lanczendorfer ErzsÃ©bet</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20090401</mezo>
 <mezo id = "valtk">20100317</mezo>
@@ -170,12 +170,12 @@
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">20110630</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Szij László Csaba</mezo>
-<mezo id = "panev">Halász Katalin</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Szij LÃ¡szlÃ³ Csaba</mezo>
+<mezo id = "panev">HalÃ¡sz Katalin</mezo>
 <mezo id = "pirsz">2000</mezo>
 <mezo id = "phely">Szentendre</mezo>
-<mezo id = "pteru">Mathiász utca 22/a.</mezo>
+<mezo id = "pteru">MathiÃ¡sz utca 22/a.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20110701</mezo>
 <mezo id = "valtk">20110630</mezo>
@@ -187,16 +187,16 @@
 <alrovat id = "3">
 <mezo id = "hattol">20110630</mezo>
 <mezo id = "cgjsz">1309116200</mezo>
-<mezo id = "nev">Himber és Fia Audit Kft.</mezo>
+<mezo id = "nev">Himber Ã©s Fia Audit Kft.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2089</mezo>
 <mezo id = "hely">Telki</mezo>
-<mezo id = "teru">Gyöngyvirág utca 33.</mezo>
-<mezo id = "pnev">Himber Péter Lajos</mezo>
-<mezo id = "panev">Tresánszky Ilona</mezo>
+<mezo id = "teru">GyÃ¶ngyvirÃ¡g utca 33.</mezo>
+<mezo id = "pnev">Himber PÃ©ter Lajos</mezo>
+<mezo id = "panev">TresÃ¡nszky Ilona</mezo>
 <mezo id = "pirsz">2089</mezo>
 <mezo id = "phely">Telki</mezo>
-<mezo id = "pteru">Gyöngyvirág utca 33.</mezo>
+<mezo id = "pteru">GyÃ¶ngyvirÃ¡g utca 33.</mezo>
 <mezo id = "jogvk">20110630</mezo>
 <mezo id = "jogvv">20120531</mezo>
 <mezo id = "valtk">20110630</mezo>
@@ -207,8 +207,8 @@
 <alrovat id = "1">
 <mezo id = "hattol">19971130</mezo>
 <mezo id = "cgjsz">1306015732</mezo>
-<mezo id = "nev">B + N Referencia Kereskedelmi és Szolgáltató Betéti Társaság</mezo>
-<mezo id = "mod">l988. évi VI. tv.</mezo>
+<mezo id = "nev">B + N Referencia Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ BetÃ©ti TÃ¡rsasÃ¡g</mezo>
+<mezo id = "mod">l988. Ã©vi VI. tv.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "20">
@@ -247,13 +247,13 @@
 <mezo id = "adosz">12327357205</mezo>
 <mezo id = "kadosz">HU12327357</mezo>
 <mezo id = "bkelt">20110727</mezo>
-<mezo id = "megj">Státusz kezdete: 1997/12/01</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 1997/12/01</mezo>
 </alrovat>
 </rovat>
 <rovat id = "22">
 <alrovat id = "1">
 <mezo id = "jccjsz">0510000479</mezo>
-<mezo id = "nev">B + N Referencia Ipari, Kereskedelmi és Szolgáltató Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">B + N Referencia Ipari, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "atdat">20110930</mezo>
 </alrovat>
 </rovat>
@@ -265,7 +265,7 @@
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1022</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Bég utca 3-5.</mezo>
+<mezo id = "teru">BÃ©g utca 3-5.</mezo>
 <mezo id = "tagsk">20110426</mezo>
 <mezo id = "sz1">x</mezo>
 <mezo id = "valtk">20110426</mezo>
@@ -273,11 +273,11 @@
 </alrovat>
 <alrovat id = "12">
 <mezo id = "hattol">20110426</mezo>
-<mezo id = "pnev">Kis-Szölgyémi Ferenc</mezo>
-<mezo id = "panev">Nazarova Eugénia</mezo>
+<mezo id = "pnev">Kis-SzÃ¶lgyÃ©mi Ferenc</mezo>
+<mezo id = "panev">Nazarova EugÃ©nia</mezo>
 <mezo id = "pirsz">1119</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Fehérvári út 127.</mezo>
+<mezo id = "pteru">FehÃ©rvÃ¡ri Ãºt 127.</mezo>
 <mezo id = "tagsk">20090129</mezo>
 <mezo id = "valtk">20110426</mezo>
 <mezo id = "bkelt">20110513</mezo>
@@ -292,121 +292,121 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A B + N Referencia Ipari, Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság (Cg.: [05 09 020659]; székhely: 3937 Komlóska, Szkalka köz 1.; rövid név: B + N Referencia Kft.) közzéteszi, hogy a társaság taggyûlése 2011. június 1-jei és június 30-ai határozatával döntött a korlátolt felelõsségû társaság<ujsor/>
-zártkörûen mûködõ részvénytársasággá <ujsor/>
-történõ átalakulásáról.<ujsor/>
-A létrejövõ új társaság fõbb adatai:<ujsor/>
-Formája: zártkörûen mûködõ részvénytársaság.<ujsor/>
-Elnevezése: B + N Referencia Ipari, Kereskedelmi és Szolgáltató Zártkörûen Mûködõ Részvénytársaság.<ujsor/>
-Rövidített neve: B + N Referencia Zrt.<ujsor/>
-Székhelye: 3937 Komlóska, Szkalka köz 1.<ujsor/>
-A létesítõ okirat aláírásának napja: 2011. június 30.<ujsor/>
-Az átalakuláshoz fûzõdõ joghatások beállásának idõpontja: 2011. szeptember 30.<ujsor/>
-A vagyonmérleg-tervezetek fõbb adatai:<ujsor/>
+<mezo id = "szoveg">A B + N Referencia Ipari, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [05 09 020659]; szÃ©khely: 3937 KomlÃ³ska, Szkalka kÃ¶z 1.; rÃ¶vid nÃ©v: B + N Referencia Kft.) kÃ¶zzÃ©teszi, hogy a tÃ¡rsasÃ¡g taggyÅ±lÃ©se 2011. jÃºnius 1-jei Ã©s jÃºnius 30-ai hatÃ¡rozatÃ¡val dÃ¶ntÃ¶tt a korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g<ujsor/>
+zÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ rÃ©szvÃ©nytÃ¡rsasÃ¡ggÃ¡ <ujsor/>
+tÃ¶rtÃ©nÅ‘ Ã¡talakulÃ¡sÃ¡rÃ³l.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ Ãºj tÃ¡rsasÃ¡g fÅ‘bb adatai:<ujsor/>
+FormÃ¡ja: zÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ rÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+ElnevezÃ©se: B + N Referencia Ipari, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+RÃ¶vidÃ­tett neve: B + N Referencia Zrt.<ujsor/>
+SzÃ©khelye: 3937 KomlÃ³ska, Szkalka kÃ¶z 1.<ujsor/>
+A lÃ©tesÃ­tÅ‘ okirat alÃ¡Ã­rÃ¡sÃ¡nak napja: 2011. jÃºnius 30.<ujsor/>
+Az Ã¡talakulÃ¡shoz fÅ±zÅ‘dÅ‘ joghatÃ¡sok beÃ¡llÃ¡sÃ¡nak idÅ‘pontja: 2011. szeptember 30.<ujsor/>
+A vagyonmÃ©rleg-tervezetek fÅ‘bb adatai:<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK B + N Referencia Kft. (átalakuló) B + N Referencia Zrt. (létrejövõ)<ujsor/>
-Befektetett eszközök 46 154 46 154<ujsor/>
-Immateriális javak 629 629<ujsor/>
-Tárgyi eszközök 42 825 42 825<ujsor/>
-Befektetett pénzügyi eszközök 2 700 2 700<ujsor/>
-Forgóeszközök 527 286 527 286<ujsor/>
-Készletek 13 693 13 693<ujsor/>
-Követelések 497 389 497 389<ujsor/>
-Értékpapírok 47 47<ujsor/>
-Pénzeszközök 16 157 16 157<ujsor/>
-Aktív idõbeli elhatárolások 218 218<ujsor/>
-ÖSSZESEN: 573 658 573 658<ujsor/>
+ESZKÃ–ZÃ–K B + N Referencia Kft. (Ã¡talakulÃ³) B + N Referencia Zrt. (lÃ©trejÃ¶vÅ‘)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 46 154 46 154<ujsor/>
+ImmateriÃ¡lis javak 629 629<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 42 825 42 825<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 2 700 2 700<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 527 286 527 286<ujsor/>
+KÃ©szletek 13 693 13 693<ujsor/>
+KÃ¶vetelÃ©sek 497 389 497 389<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 47 47<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 16 157 16 157<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 218 218<ujsor/>
+Ã–SSZESEN: 573 658 573 658<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK B + N Referencia Kft. (átalakuló) B + N Referencia Zrt. (létrejövõ)<ujsor/>
-Saját tõke 105 342 105 342<ujsor/>
-Jegyzett tõke 10 000 10 000<ujsor/>
-Tõketartalék 0 0<ujsor/>
-Eredménytartalék 95 342 95 342<ujsor/>
-Lekötött tartalék 0 0<ujsor/>
-Mérleg szerinti eredmény 0 0<ujsor/>
-Céltartalékok 8 636 8 636<ujsor/>
-Kötelezettségek 450 528 450 528<ujsor/>
-Hátra sorolt kötelezettségek 0 0<ujsor/>
-Hosszú lejáratú kötelezettségek 0 0<ujsor/>
-Rövid lejáratú kötelezettségek 450 528 450 528<ujsor/>
-Passzív idõbeli elhatárolások 9 152 9 152<ujsor/>
-ÖSSZESEN: 573 658 573 658<ujsor/>
-A társaság vagyonelemei nem kerülnek átértékelésre.<ujsor/>
-A részvénytársaság részvényei: 100 (száz) db, egyenként 100 000 Ft (százezer forint/darab) névértékû, névre szóló, nyomdai úton elõállított törzsrészvény.<ujsor/>
-A létrejövõ társaság fõ tevékenységi köre: Építményüzemeltetés.<ujsor/>
-A társaság vezérigazgatója: Szij László Csaba (a. n.: Halász Katalin; 2000 Szentendre, Mathiász u. 22/A).<ujsor/>
-A társaság a 2006. évi IV. törvény (Gt.) 76. § (3) bekezdésére figyelemmel - mivel saját tõkéje nem változik - hitelezõi felhívást nem tesz közzé.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+FORRÃSOK B + N Referencia Kft. (Ã¡talakulÃ³) B + N Referencia Zrt. (lÃ©trejÃ¶vÅ‘)<ujsor/>
+SajÃ¡t tÅ‘ke 105 342 105 342<ujsor/>
+Jegyzett tÅ‘ke 10 000 10 000<ujsor/>
+TÅ‘ketartalÃ©k 0 0<ujsor/>
+EredmÃ©nytartalÃ©k 95 342 95 342<ujsor/>
+LekÃ¶tÃ¶tt tartalÃ©k 0 0<ujsor/>
+MÃ©rleg szerinti eredmÃ©ny 0 0<ujsor/>
+CÃ©ltartalÃ©kok 8 636 8 636<ujsor/>
+KÃ¶telezettsÃ©gek 450 528 450 528<ujsor/>
+HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0 0<ujsor/>
+HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0 0<ujsor/>
+RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 450 528 450 528<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 9 152 9 152<ujsor/>
+Ã–SSZESEN: 573 658 573 658<ujsor/>
+A tÃ¡rsasÃ¡g vagyonelemei nem kerÃ¼lnek Ã¡tÃ©rtÃ©kelÃ©sre.<ujsor/>
+A rÃ©szvÃ©nytÃ¡rsasÃ¡g rÃ©szvÃ©nyei: 100 (szÃ¡z) db, egyenkÃ©nt 100 000 Ft (szÃ¡zezer forint/darab) nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³, nyomdai Ãºton elÅ‘Ã¡llÃ­tott tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©gi kÃ¶re: Ã‰pÃ­tmÃ©nyÃ¼zemeltetÃ©s.<ujsor/>
+A tÃ¡rsasÃ¡g vezÃ©rigazgatÃ³ja: Szij LÃ¡szlÃ³ Csaba (a. n.: HalÃ¡sz Katalin; 2000 Szentendre, MathiÃ¡sz u. 22/A).<ujsor/>
+A tÃ¡rsasÃ¡g a 2006. Ã©vi IV. tÃ¶rvÃ©ny (Gt.) 76. Â§ (3) bekezdÃ©sÃ©re figyelemmel - mivel sajÃ¡t tÅ‘kÃ©je nem vÃ¡ltozik - hitelezÅ‘i felhÃ­vÃ¡st nem tesz kÃ¶zzÃ©.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0509020659</mezo>
-<mezo id = "nev">B + N Referencia Ipari, Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">3937 Komlóska</mezo>
+<mezo id = "nev">B + N Referencia Ipari, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">3937 KomlÃ³ska</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A B + N Referencia Ipari, Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság (Cg.: [05 09 020659]; székhely: 3937 Komlóska, Szkalka köz 1.; rövid név: B + N Referencia Kft.) közzéteszi, hogy a társaság taggyûlése 2011. június 1-jei és június 30-ai határozatával döntött a korlátolt felelõsségû társaság<ujsor/>
-zártkörûen mûködõ részvénytársasággá <ujsor/>
-történõ átalakulásáról.<ujsor/>
-A létrejövõ új társaság fõbb adatai:<ujsor/>
-Formája: zártkörûen mûködõ részvénytársaság.<ujsor/>
-Elnevezése: B + N Referencia Ipari, Kereskedelmi és Szolgáltató Zártkörûen Mûködõ Részvénytársaság.<ujsor/>
-Rövidített neve: B + N Referencia Zrt.<ujsor/>
-Székhelye: 3937 Komlóska, Szkalka köz 1.<ujsor/>
-A létesítõ okirat aláírásának napja: 2011. június 30.<ujsor/>
-Az átalakuláshoz fûzõdõ joghatások beállásának idõpontja: 2011. szeptember 30.<ujsor/>
-A vagyonmérleg-tervezetek fõbb adatai:<ujsor/>
+<mezo id = "szoveg">A B + N Referencia Ipari, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [05 09 020659]; szÃ©khely: 3937 KomlÃ³ska, Szkalka kÃ¶z 1.; rÃ¶vid nÃ©v: B + N Referencia Kft.) kÃ¶zzÃ©teszi, hogy a tÃ¡rsasÃ¡g taggyÅ±lÃ©se 2011. jÃºnius 1-jei Ã©s jÃºnius 30-ai hatÃ¡rozatÃ¡val dÃ¶ntÃ¶tt a korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g<ujsor/>
+zÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ rÃ©szvÃ©nytÃ¡rsasÃ¡ggÃ¡ <ujsor/>
+tÃ¶rtÃ©nÅ‘ Ã¡talakulÃ¡sÃ¡rÃ³l.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ Ãºj tÃ¡rsasÃ¡g fÅ‘bb adatai:<ujsor/>
+FormÃ¡ja: zÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ rÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+ElnevezÃ©se: B + N Referencia Ipari, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+RÃ¶vidÃ­tett neve: B + N Referencia Zrt.<ujsor/>
+SzÃ©khelye: 3937 KomlÃ³ska, Szkalka kÃ¶z 1.<ujsor/>
+A lÃ©tesÃ­tÅ‘ okirat alÃ¡Ã­rÃ¡sÃ¡nak napja: 2011. jÃºnius 30.<ujsor/>
+Az Ã¡talakulÃ¡shoz fÅ±zÅ‘dÅ‘ joghatÃ¡sok beÃ¡llÃ¡sÃ¡nak idÅ‘pontja: 2011. szeptember 30.<ujsor/>
+A vagyonmÃ©rleg-tervezetek fÅ‘bb adatai:<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK B + N Referencia Kft. (átalakuló) B + N Referencia Zrt. (létrejövõ)<ujsor/>
-Befektetett eszközök 46 154 46 154<ujsor/>
-Immateriális javak 629 629<ujsor/>
-Tárgyi eszközök 42 825 42 825<ujsor/>
-Befektetett pénzügyi eszközök 2 700 2 700<ujsor/>
-Forgóeszközök 527 286 527 286<ujsor/>
-Készletek 13 693 13 693<ujsor/>
-Követelések 497 389 497 389<ujsor/>
-Értékpapírok 47 47<ujsor/>
-Pénzeszközök 16 157 16 157<ujsor/>
-Aktív idõbeli elhatárolások 218 218<ujsor/>
-ÖSSZESEN: 573 658 573 658<ujsor/>
+ESZKÃ–ZÃ–K B + N Referencia Kft. (Ã¡talakulÃ³) B + N Referencia Zrt. (lÃ©trejÃ¶vÅ‘)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 46 154 46 154<ujsor/>
+ImmateriÃ¡lis javak 629 629<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 42 825 42 825<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 2 700 2 700<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 527 286 527 286<ujsor/>
+KÃ©szletek 13 693 13 693<ujsor/>
+KÃ¶vetelÃ©sek 497 389 497 389<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 47 47<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 16 157 16 157<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 218 218<ujsor/>
+Ã–SSZESEN: 573 658 573 658<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK B + N Referencia Kft. (átalakuló) B + N Referencia Zrt. (létrejövõ)<ujsor/>
-Saját tõke 105 342 105 342<ujsor/>
-Jegyzett tõke 10 000 10 000<ujsor/>
-Tõketartalék 0 0<ujsor/>
-Eredménytartalék 95 342 95 342<ujsor/>
-Lekötött tartalék 0 0<ujsor/>
-Mérleg szerinti eredmény 0 0<ujsor/>
-Céltartalékok 8 636 8 636<ujsor/>
-Kötelezettségek 450 528 450 528<ujsor/>
-Hátra sorolt kötelezettségek 0 0<ujsor/>
-Hosszú lejáratú kötelezettségek 0 0<ujsor/>
-Rövid lejáratú kötelezettségek 450 528 450 528<ujsor/>
-Passzív idõbeli elhatárolások 9 152 9 152<ujsor/>
-ÖSSZESEN: 573 658 573 658<ujsor/>
-A társaság vagyonelemei nem kerülnek átértékelésre.<ujsor/>
-A részvénytársaság részvényei: 100 (száz) db, egyenként 100 000 Ft (százezer forint/darab) névértékû, névre szóló, nyomdai úton elõállított törzsrészvény.<ujsor/>
-A létrejövõ társaság fõ tevékenységi köre: Építményüzemeltetés.<ujsor/>
-A társaság vezérigazgatója: Szij László Csaba (a. n.: Halász Katalin; 2000 Szentendre, Mathiász u. 22/A).<ujsor/>
-A társaság a 2006. évi IV. törvény (Gt.) 76. § (3) bekezdésére figyelemmel - mivel saját tõkéje nem változik - hitelezõi felhívást nem tesz közzé.<ujsor/>
-(Második közzététel.)<ujsor/>
+FORRÃSOK B + N Referencia Kft. (Ã¡talakulÃ³) B + N Referencia Zrt. (lÃ©trejÃ¶vÅ‘)<ujsor/>
+SajÃ¡t tÅ‘ke 105 342 105 342<ujsor/>
+Jegyzett tÅ‘ke 10 000 10 000<ujsor/>
+TÅ‘ketartalÃ©k 0 0<ujsor/>
+EredmÃ©nytartalÃ©k 95 342 95 342<ujsor/>
+LekÃ¶tÃ¶tt tartalÃ©k 0 0<ujsor/>
+MÃ©rleg szerinti eredmÃ©ny 0 0<ujsor/>
+CÃ©ltartalÃ©kok 8 636 8 636<ujsor/>
+KÃ¶telezettsÃ©gek 450 528 450 528<ujsor/>
+HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0 0<ujsor/>
+HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0 0<ujsor/>
+RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 450 528 450 528<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 9 152 9 152<ujsor/>
+Ã–SSZESEN: 573 658 573 658<ujsor/>
+A tÃ¡rsasÃ¡g vagyonelemei nem kerÃ¼lnek Ã¡tÃ©rtÃ©kelÃ©sre.<ujsor/>
+A rÃ©szvÃ©nytÃ¡rsasÃ¡g rÃ©szvÃ©nyei: 100 (szÃ¡z) db, egyenkÃ©nt 100 000 Ft (szÃ¡zezer forint/darab) nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³, nyomdai Ãºton elÅ‘Ã¡llÃ­tott tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©gi kÃ¶re: Ã‰pÃ­tmÃ©nyÃ¼zemeltetÃ©s.<ujsor/>
+A tÃ¡rsasÃ¡g vezÃ©rigazgatÃ³ja: Szij LÃ¡szlÃ³ Csaba (a. n.: HalÃ¡sz Katalin; 2000 Szentendre, MathiÃ¡sz u. 22/A).<ujsor/>
+A tÃ¡rsasÃ¡g a 2006. Ã©vi IV. tÃ¶rvÃ©ny (Gt.) 76. Â§ (3) bekezdÃ©sÃ©re figyelemmel - mivel sajÃ¡t tÅ‘kÃ©je nem vÃ¡ltozik - hitelezÅ‘i felhÃ­vÃ¡st nem tesz kÃ¶zzÃ©.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0509020659</mezo>
-<mezo id = "nev">B + N Referencia Ipari, Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">3937 Komlóska</mezo>
+<mezo id = "nev">B + N Referencia Ipari, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">3937 KomlÃ³ska</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Borsod-Abaúj-Zemplén Megyei Bíróság mint Cégbíróság a Cg.05-09-020659 cégjegyzékszámon bejegyzett B + N Referencia Ipari, Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság (3937 Komlóska, Szkalka köz 1.; adószáma: 12327357-2-05) ügyében az 2011. augusztus 22. napján hozott Cg.05-09-020659/16. számú végzését hivatalból kijavítani rendeli az alábbiak szerint:<ujsor/>
-A bíróság a Cg.05-09-020659/16. számú végzését kijavítja akként, hogy a törlés hatálya helyesen:<ujsor/>
+<mezo id = "szoveg">A Borsod-AbaÃºj-ZemplÃ©n Megyei BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.05-09-020659 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett B + N Referencia Ipari, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (3937 KomlÃ³ska, Szkalka kÃ¶z 1.; adÃ³szÃ¡ma: 12327357-2-05) Ã¼gyÃ©ben az 2011. augusztus 22. napjÃ¡n hozott Cg.05-09-020659/16. szÃ¡mÃº vÃ©gzÃ©sÃ©t hivatalbÃ³l kijavÃ­tani rendeli az alÃ¡bbiak szerint:<ujsor/>
+A bÃ­rÃ³sÃ¡g a Cg.05-09-020659/16. szÃ¡mÃº vÃ©gzÃ©sÃ©t kijavÃ­tja akkÃ©nt, hogy a tÃ¶rlÃ©s hatÃ¡lya helyesen:<ujsor/>
 2011. szeptember 30. napja.<ujsor/>
-A végzés ellen nincs helye fellebbezésnek.<ujsor/>
+A vÃ©gzÃ©s ellen nincs helye fellebbezÃ©snek.<ujsor/>
 2011. szeptember 1.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0509020659</mezo>
-<mezo id = "nev">B + N Referencia Ipari, Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">3937 Komlóska, Szkalka köz 1.</mezo>
+<mezo id = "nev">B + N Referencia Ipari, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">3937 KomlÃ³ska, Szkalka kÃ¶z 1.</mezo>
 <mezo id = "adosz">12327357205</mezo>
 </alrovat>
 </rovat>

@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">000624</mezo>
 <mezo id = "nevalrovat">4</mezo>
-<mezo id = "cim">3564 Hernádnémeti, Somogyi Béla u. 25. </mezo>
+<mezo id = "cim">3564 HernÃ¡dnÃ©meti, Somogyi BÃ©la u. 25. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">10396652305</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "4">
 <mezo id = "hattol">20100510</mezo>
-<mezo id = "nev">Gaius Consulting Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Gaius Consulting SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">20100510</mezo>
 <mezo id = "bkelt">20100531</mezo>
 </alrovat>
@@ -30,22 +30,22 @@
 <alrovat id = "3">
 <mezo id = "hattol">20000306</mezo>
 <mezo id = "irsz">3564</mezo>
-<mezo id = "hely">Hernádnémeti</mezo>
-<mezo id = "teru">Somogyi Béla u. 25.</mezo>
+<mezo id = "hely">HernÃ¡dnÃ©meti</mezo>
+<mezo id = "teru">Somogyi BÃ©la u. 25.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "6">
 <alrovat id = "2">
 <mezo id = "hattol">20000306</mezo>
 <mezo id = "irsz">3564</mezo>
-<mezo id = "hely">Hernádnémeti, Somogyi Béla u. 25.</mezo>
+<mezo id = "hely">HernÃ¡dnÃ©meti, Somogyi BÃ©la u. 25.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "7">
 <alrovat id = "4">
 <mezo id = "hattol">20071126</mezo>
 <mezo id = "irsz">3530</mezo>
-<mezo id = "hely">Miskolc, Tizeshonvéd köz 2. fsz 3.</mezo>
+<mezo id = "hely">Miskolc, TizeshonvÃ©d kÃ¶z 2. fsz 3.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20071126</mezo>
 <mezo id = "valtv">0</mezo>
@@ -675,9 +675,9 @@
 <rovat id = "13">
 <alrovat id = "8">
 <mezo id = "hattol">20100510</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Szabó Ervin</mezo>
-<mezo id = "panev">Békefi Julianna</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">SzabÃ³ Ervin</mezo>
+<mezo id = "panev">BÃ©kefi Julianna</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20061220</mezo>
 <mezo id = "valtk">20100510</mezo>
@@ -686,9 +686,9 @@
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">20100510</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Szabó Viktor</mezo>
-<mezo id = "panev">Békefi Julianna</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">SzabÃ³ Viktor</mezo>
+<mezo id = "panev">BÃ©kefi Julianna</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20061220</mezo>
 <mezo id = "valtk">20100510</mezo>
@@ -716,10 +716,10 @@
 <rovat id = "0109">
 <alrovat id = "10">
 <mezo id = "hattol">20070118</mezo>
-<mezo id = "pnev">Szabó Ervin</mezo>
-<mezo id = "panev">Békefi Julianna</mezo>
+<mezo id = "pnev">SzabÃ³ Ervin</mezo>
+<mezo id = "panev">BÃ©kefi Julianna</mezo>
 <mezo id = "pirsz">3525</mezo>
-<mezo id = "phely">Miskolc, Tizeshonvéd köz 2.</mezo>
+<mezo id = "phely">Miskolc, TizeshonvÃ©d kÃ¶z 2.</mezo>
 <mezo id = "tagsk">19980302</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20061220</mezo>
@@ -727,8 +727,8 @@
 </alrovat>
 <alrovat id = "11">
 <mezo id = "hattol">20070118</mezo>
-<mezo id = "pnev">Szabó Viktor</mezo>
-<mezo id = "panev">Békefi Julianna</mezo>
+<mezo id = "pnev">SzabÃ³ Viktor</mezo>
+<mezo id = "panev">BÃ©kefi Julianna</mezo>
 <mezo id = "pirsz">3530</mezo>
 <mezo id = "phely">Miskolc, Kont I. u. 10.</mezo>
 <mezo id = "tagsk">20000610</mezo>
@@ -738,7 +738,7 @@
 </alrovat>
 <alrovat id = "12">
 <mezo id = "hattol">20100510</mezo>
-<mezo id = "pnev">Szabó Györgyné</mezo>
+<mezo id = "pnev">SzabÃ³ GyÃ¶rgynÃ©</mezo>
 <mezo id = "panev">Ferencz Gizella</mezo>
 <mezo id = "tagsk">19900703</mezo>
 <mezo id = "valtk">20100510</mezo>
@@ -754,30 +754,30 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Szabó Györgyné (a. n.: Ferencz Gizella), 3564 Hernádnémeti, Somogyi Béla u. 25. szám alatti lakos, a Borsod-Abaúj-Zemplén Megyei Bíróság mint Cégbíróság által a [05 09 000624] számú cégjegyzékbe bejegyzett REGITESZT Regionális Közvélemény és Piackutató Korlátolt Felelõsségû Társaság (székhelye: 3564 Hernádnémeti, Somogyi Béla u. 25.) tagja, bejelenti, hogy 2000. február 10-én - törzstõkeemelés következtében - a szavazatok 73,333%-át megszerezte, így a társaságban többségi irányítást biztosító befolyással rendelkezõ tag lett.<ujsor/>
+<mezo id = "szoveg">SzabÃ³ GyÃ¶rgynÃ© (a. n.: Ferencz Gizella), 3564 HernÃ¡dnÃ©meti, Somogyi BÃ©la u. 25. szÃ¡m alatti lakos, a Borsod-AbaÃºj-ZemplÃ©n Megyei BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g Ã¡ltal a [05 09 000624] szÃ¡mÃº cÃ©gjegyzÃ©kbe bejegyzett REGITESZT RegionÃ¡lis KÃ¶zvÃ©lemÃ©ny Ã©s PiackutatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (szÃ©khelye: 3564 HernÃ¡dnÃ©meti, Somogyi BÃ©la u. 25.) tagja, bejelenti, hogy 2000. februÃ¡r 10-Ã©n - tÃ¶rzstÅ‘keemelÃ©s kÃ¶vetkeztÃ©ben - a szavazatok 73,333%-Ã¡t megszerezte, Ã­gy a tÃ¡rsasÃ¡gban tÃ¶bbsÃ©gi irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡ssal rendelkezÅ‘ tag lett.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0509000624</mezo>
-<mezo id = "nev">REGITESZT Regionális Közvélemény és Piackutató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">REGITESZT RegionÃ¡lis KÃ¶zvÃ©lemÃ©ny Ã©s PiackutatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság az 2000. 03. 06-án hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-05. 3564 Hernádnémeti, Somogyi Béla u. 25.<ujsor/>
- Törölve: 2000. 03. 06-i hatállyal.<ujsor/>
- 3564 Hernádnémeti, Somogyi Béla u. 25.<ujsor/>
- Hatályos: 2000. 02. 10-tõl.<ujsor/>
-06. 3564 Hernádnémeti, Somogyi Béla u. 25.<ujsor/>
- Törölve: 2000. 03. 06-i hatállyal.<ujsor/>
- 3564 Hernádnémeti, Somogyi Béla u. 25.<ujsor/>
- Hatályos: 2000. 02. 10-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g az 2000. 03. 06-Ã¡n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+05. 3564 HernÃ¡dnÃ©meti, Somogyi BÃ©la u. 25.<ujsor/>
+ TÃ¶rÃ¶lve: 2000. 03. 06-i hatÃ¡llyal.<ujsor/>
+ 3564 HernÃ¡dnÃ©meti, Somogyi BÃ©la u. 25.<ujsor/>
+ HatÃ¡lyos: 2000. 02. 10-tÅ‘l.<ujsor/>
+06. 3564 HernÃ¡dnÃ©meti, Somogyi BÃ©la u. 25.<ujsor/>
+ TÃ¶rÃ¶lve: 2000. 03. 06-i hatÃ¡llyal.<ujsor/>
+ 3564 HernÃ¡dnÃ©meti, Somogyi BÃ©la u. 25.<ujsor/>
+ HatÃ¡lyos: 2000. 02. 10-tÅ‘l.<ujsor/>
 21. 10396652-2-05.<ujsor/>
- Hatályos: 2000. 02. 10-tõl.<ujsor/>
+ HatÃ¡lyos: 2000. 02. 10-tÅ‘l.<ujsor/>
 Bejegyezve: 2000. 03. 20.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0509000624</mezo>
-<mezo id = "nev">REGITESZT Regionális Közvélemény és Piackutató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">3564 Hernádnémeti, Somogyi Béla u. 25.</mezo>
+<mezo id = "nev">REGITESZT RegionÃ¡lis KÃ¶zvÃ©lemÃ©ny Ã©s PiackutatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">3564 HernÃ¡dnÃ©meti, Somogyi BÃ©la u. 25.</mezo>
 <mezo id = "adosz">10396652206</mezo>
 </alrovat>
 </rovat>

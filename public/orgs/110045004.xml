@@ -5,7 +5,7 @@
 <mezo id = "cf">10</mezo>
 <mezo id = "szam">045004</mezo>
 <mezo id = "nevalrovat">2</mezo>
-<mezo id = "cim">1149 Budapest, Vezér út 155. </mezo>
+<mezo id = "cim">1149 Budapest, VezÃ©r Ãºt 155. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">13142713242</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20060105</mezo>
-<mezo id = "nev">Medicatus-SPC Beruházó és Szolgáltató Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">Medicatus-SPC BeruhÃ¡zÃ³ Ã©s SzolgÃ¡ltatÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -27,7 +27,7 @@
 <mezo id = "hattol">20050404</mezo>
 <mezo id = "irsz">1149</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Vezér út 155.</mezo>
+<mezo id = "teru">VezÃ©r Ãºt 155.</mezo>
 <mezo id = "kirsz">0</mezo>
 </alrovat>
 </rovat>
@@ -35,17 +35,17 @@
 <alrovat id = "1">
 <mezo id = "hattol">20050404</mezo>
 <mezo id = "irsz">1149</mezo>
-<mezo id = "hely">Budapest, Vezér út 151.</mezo>
+<mezo id = "hely">Budapest, VezÃ©r Ãºt 151.</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20050404</mezo>
 <mezo id = "irsz">1149</mezo>
-<mezo id = "hely">Budapest, Termál utca 10.</mezo>
+<mezo id = "hely">Budapest, TermÃ¡l utca 10.</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20050404</mezo>
 <mezo id = "irsz">1149</mezo>
-<mezo id = "hely">Budapest, Vezér út 153.</mezo>
+<mezo id = "hely">Budapest, VezÃ©r Ãºt 153.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "8">
@@ -561,31 +561,31 @@
 <mezo id = "hattol">20100709</mezo>
 <mezo id = "valtk">20100709</mezo>
 <mezo id = "bkelt">20100726</mezo>
-<mezo id = "teaszov">Egyéb fa-, parafatermék, fonottáru gyártása - 16.29</mezo>
+<mezo id = "teaszov">EgyÃ©b fa-, parafatermÃ©k, fonottÃ¡ru gyÃ¡rtÃ¡sa - 16.29</mezo>
 </alrovat>
 <alrovat id = "92">
 <mezo id = "hattol">20100709</mezo>
 <mezo id = "valtk">20100709</mezo>
 <mezo id = "bkelt">20100726</mezo>
-<mezo id = "teaszov">M.n.s. egyéb építmény építése - 42.99</mezo>
+<mezo id = "teaszov">M.n.s. egyÃ©b Ã©pÃ­tmÃ©ny Ã©pÃ­tÃ©se - 42.99</mezo>
 </alrovat>
 <alrovat id = "93">
 <mezo id = "hattol">20100709</mezo>
 <mezo id = "valtk">20100709</mezo>
 <mezo id = "bkelt">20100726</mezo>
-<mezo id = "teaszov">Fa-, építõanyag-, szaniteráru-nagykereskedelem - 46.73</mezo>
+<mezo id = "teaszov">Fa-, Ã©pÃ­tÅ‘anyag-, szaniterÃ¡ru-nagykereskedelem - 46.73</mezo>
 </alrovat>
 <alrovat id = "94">
 <mezo id = "hattol">20100709</mezo>
 <mezo id = "valtk">20100709</mezo>
 <mezo id = "bkelt">20100726</mezo>
-<mezo id = "teaszov">Építõipari gép kölcsönzése - 77.32</mezo>
+<mezo id = "teaszov">Ã‰pÃ­tÅ‘ipari gÃ©p kÃ¶lcsÃ¶nzÃ©se - 77.32</mezo>
 </alrovat>
 <alrovat id = "95">
 <mezo id = "hattol">20100709</mezo>
 <mezo id = "valtk">20100709</mezo>
 <mezo id = "bkelt">20100726</mezo>
-<mezo id = "teaszov">Egyéb gép, tárgyi eszköz kölcsönzése - 77.39</mezo>
+<mezo id = "teaszov">EgyÃ©b gÃ©p, tÃ¡rgyi eszkÃ¶z kÃ¶lcsÃ¶nzÃ©se - 77.39</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -600,8 +600,8 @@
 <rovat id = "13">
 <alrovat id = "3">
 <mezo id = "hattol">20050404</mezo>
-<mezo id = "pnev">Dr. Fülöp Róbert</mezo>
-<mezo id = "panev">Bartusz Ildikó</mezo>
+<mezo id = "pnev">Dr. FÃ¼lÃ¶p RÃ³bert</mezo>
+<mezo id = "panev">Bartusz IldikÃ³</mezo>
 <mezo id = "pirsz">1011</mezo>
 <mezo id = "phely">Budapest, Hunyadi J. u. 23.</mezo>
 <mezo id = "kepvo">x</mezo>
@@ -611,9 +611,9 @@
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20100526</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (vezérigazgató)</mezo>
-<mezo id = "pnev">Dr. Fülöp Róbert</mezo>
-<mezo id = "panev">Bartusz Ildikó</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (vezÃ©rigazgatÃ³)</mezo>
+<mezo id = "pnev">Dr. FÃ¼lÃ¶p RÃ³bert</mezo>
+<mezo id = "panev">Bartusz IldikÃ³</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20080404</mezo>
 <mezo id = "valtk">20100526</mezo>
@@ -622,10 +622,10 @@
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">20100709</mezo>
-<mezo id = "tiszt">cégvezetõ</mezo>
+<mezo id = "tiszt">cÃ©gvezetÅ‘</mezo>
 <mezo id = "email">zbakanyi@paskal.medicatus.com</mezo>
-<mezo id = "pnev">Dr. Bakányi Zoltán</mezo>
-<mezo id = "panev">Szalczer Irén</mezo>
+<mezo id = "pnev">Dr. BakÃ¡nyi ZoltÃ¡n</mezo>
+<mezo id = "panev">Szalczer IrÃ©n</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100709</mezo>
 <mezo id = "valtk">20100709</mezo>
@@ -637,13 +637,13 @@
 <alrovat id = "4">
 <mezo id = "hattol">20100709</mezo>
 <mezo id = "cgjsz">0109462056</mezo>
-<mezo id = "nev">Bergmann Könyvszakértõ és Adótanácsadó Korlátolt felelõsségû Társaság</mezo>
+<mezo id = "nev">Bergmann KÃ¶nyvszakÃ©rtÅ‘ Ã©s AdÃ³tanÃ¡csadÃ³ KorlÃ¡tolt felelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1138</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Váci út 186.</mezo>
-<mezo id = "pnev">Bergmann Péterné</mezo>
-<mezo id = "panev">Gyurcsán Rozália</mezo>
+<mezo id = "teru">VÃ¡ci Ãºt 186.</mezo>
+<mezo id = "pnev">Bergmann PÃ©ternÃ©</mezo>
+<mezo id = "panev">GyurcsÃ¡n RozÃ¡lia</mezo>
 <mezo id = "jogvk">20100607</mezo>
 <mezo id = "jogvv">20150607</mezo>
 <mezo id = "valtk">20100709</mezo>
@@ -653,10 +653,10 @@
 <rovat id = "15">
 <alrovat id = "10">
 <mezo id = "hattol">20070625</mezo>
-<mezo id = "pnev">Császár-Biró Zoltán</mezo>
-<mezo id = "panev">Vörös Katalin</mezo>
+<mezo id = "pnev">CsÃ¡szÃ¡r-BirÃ³ ZoltÃ¡n</mezo>
+<mezo id = "panev">VÃ¶rÃ¶s Katalin</mezo>
 <mezo id = "pirsz">8638</mezo>
-<mezo id = "phely">Balatonlelle, Május 1. út 98.</mezo>
+<mezo id = "phely">Balatonlelle, MÃ¡jus 1. Ãºt 98.</mezo>
 <mezo id = "jogvk">20070525</mezo>
 <mezo id = "jogvv">20120525</mezo>
 <mezo id = "valtk">20070525</mezo>
@@ -664,7 +664,7 @@
 </alrovat>
 <alrovat id = "11">
 <mezo id = "hattol">20100526</mezo>
-<mezo id = "pnev">Dr. Hammer Péter</mezo>
+<mezo id = "pnev">Dr. Hammer PÃ©ter</mezo>
 <mezo id = "panev">Bereczky Etelka</mezo>
 <mezo id = "jogvk">20100526</mezo>
 <mezo id = "jogvv">20150526</mezo>
@@ -673,7 +673,7 @@
 </alrovat>
 <alrovat id = "12">
 <mezo id = "hattol">20100526</mezo>
-<mezo id = "pnev">Dr. Erdélyi Gábor</mezo>
+<mezo id = "pnev">Dr. ErdÃ©lyi GÃ¡bor</mezo>
 <mezo id = "panev">Kari Zsuzsanna</mezo>
 <mezo id = "jogvk">20100526</mezo>
 <mezo id = "jogvv">20110531</mezo>
@@ -711,7 +711,7 @@
 <alrovat id = "3">
 <mezo id = "hattol">20050323</mezo>
 <mezo id = "cgjsz">109068135</mezo>
-<mezo id = "nev">MEDICATUS Egészségügyi Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">MEDICATUS EgÃ©szsÃ©gÃ¼gyi SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1011</mezo>
 <mezo id = "hely">Budapest</mezo>
@@ -729,27 +729,27 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2008. 04. 11-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (tisztségviselõ).<ujsor/>
- Dr. Fülöp Róbert (an: Bartusz Ildikó)<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2008. 04. 11-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (tisztsÃ©gviselÅ‘).<ujsor/>
+ Dr. FÃ¼lÃ¶p RÃ³bert (an: Bartusz IldikÃ³)<ujsor/>
 1011 Budapest, Hunyadi J. u. 23.<ujsor/>
  A jogviszony kezdete: 2005. 04. 04.<ujsor/>
- A jogviszony vége: 2008. 04. 04.<ujsor/>
- A változás idõpontja (törlés): 2008. 04. 04.<ujsor/>
- Törölve: 2008. 04. 04.<ujsor/>
- A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (vezérigazgató).<ujsor/>
- Dr. Fülöp Róbert (an: Bartusz Ildikó)<ujsor/>
+ A jogviszony vÃ©ge: 2008. 04. 04.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2008. 04. 04.<ujsor/>
+ TÃ¶rÃ¶lve: 2008. 04. 04.<ujsor/>
+ A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (vezÃ©rigazgatÃ³).<ujsor/>
+ Dr. FÃ¼lÃ¶p RÃ³bert (an: Bartusz IldikÃ³)<ujsor/>
 1011 Budapest, Hunyadi J. u. 23.<ujsor/>
  A jogviszony kezdete: 2008. 04. 04.<ujsor/>
- A változás idõpontja: 2008. 04. 04.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 04. 04.<ujsor/>
  Bejegyezve: 2008. 04. 04.<ujsor/>
 2008. 05. 16.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110045004</mezo>
-<mezo id = "nev">Medicatus-SPC Beruházó és Szolgáltató Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">1149 Budapest, Vezér út 155.</mezo>
+<mezo id = "nev">Medicatus-SPC BeruhÃ¡zÃ³ Ã©s SzolgÃ¡ltatÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1149 Budapest, VezÃ©r Ãºt 155.</mezo>
 <mezo id = "adosz">13142713242</mezo>
 </alrovat>
 </rovat>

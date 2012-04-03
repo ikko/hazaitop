@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">102120</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">2740 Abony, Szapáry utca 2. </mezo>
+<mezo id = "cim">2740 Abony, SzapÃ¡ry utca 2. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">13437105213</mezo>
 </alrovat>
@@ -13,13 +13,13 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20050202</mezo>
-<mezo id = "nev">VÍZNER ÉS TÁRSA Építõipari Kivitelezõ és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">VÃZNER Ã‰S TÃRSA Ã‰pÃ­tÅ‘ipari KivitelezÅ‘ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">20050202</mezo>
-<mezo id = "nev">VÍZNER ÉS TÁRSA Kft.</mezo>
+<mezo id = "nev">VÃZNER Ã‰S TÃRSA Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
@@ -27,7 +27,7 @@
 <mezo id = "hattol">20050202</mezo>
 <mezo id = "irsz">2740</mezo>
 <mezo id = "hely">Abony</mezo>
-<mezo id = "teru">Szapáry utca 2.</mezo>
+<mezo id = "teru">SzapÃ¡ry utca 2.</mezo>
 <mezo id = "kirsz">0</mezo>
 </alrovat>
 </rovat>
@@ -36,7 +36,7 @@
 <mezo id = "hattol">20111003</mezo>
 <mezo id = "irsz">2740</mezo>
 <mezo id = "hely">Abony</mezo>
-<mezo id = "teru">Vasút dûlõ 19.</mezo>
+<mezo id = "teru">VasÃºt dÅ±lÅ‘ 19.</mezo>
 <mezo id = "valtk">20111003</mezo>
 <mezo id = "bkelt">20111013</mezo>
 </alrovat>
@@ -45,8 +45,8 @@
 <alrovat id = "2">
 <mezo id = "hattol">20091223</mezo>
 <mezo id = "irsz">3800</mezo>
-<mezo id = "hely">Szikszó</mezo>
-<mezo id = "teru">Dózsa György út 66.</mezo>
+<mezo id = "hely">SzikszÃ³</mezo>
+<mezo id = "teru">DÃ³zsa GyÃ¶rgy Ãºt 66.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20091223</mezo>
 <mezo id = "bkelt">20091231</mezo>
@@ -311,7 +311,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090320</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Nem veszélyes hulladék gyûjtése</mezo>
+<mezo id = "teaszov">Nem veszÃ©lyes hulladÃ©k gyÅ±jtÃ©se</mezo>
 </alrovat>
 <alrovat id = "38">
 <mezo id = "hattol">20090317</mezo>
@@ -329,7 +329,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090320</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Fa-, építési anyag ügynöki nagykereskedelme</mezo>
+<mezo id = "teaszov">Fa-, Ã©pÃ­tÃ©si anyag Ã¼gynÃ¶ki nagykereskedelme</mezo>
 </alrovat>
 <alrovat id = "39">
 <mezo id = "hattol">20090317</mezo>
@@ -347,7 +347,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090320</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Üzem-, tüzelõanyag nagykereskedelme</mezo>
+<mezo id = "teaszov">Ãœzem-, tÃ¼zelÅ‘anyag nagykereskedelme</mezo>
 </alrovat>
 <alrovat id = "40">
 <mezo id = "hattol">20090317</mezo>
@@ -365,7 +365,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090320</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Fa-, építõanyag-, szaniteráru-nagykereskedelem</mezo>
+<mezo id = "teaszov">Fa-, Ã©pÃ­tÅ‘anyag-, szaniterÃ¡ru-nagykereskedelem</mezo>
 </alrovat>
 <alrovat id = "41">
 <mezo id = "hattol">20090317</mezo>
@@ -383,7 +383,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090320</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Vasáru-, festék-, üveg-kiskereskedelem</mezo>
+<mezo id = "teaszov">VasÃ¡ru-, festÃ©k-, Ã¼veg-kiskereskedelem</mezo>
 </alrovat>
 <alrovat id = "42">
 <mezo id = "hattol">20090317</mezo>
@@ -401,67 +401,67 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090320</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb m.n.s. új áru kiskereskedelme</mezo>
+<mezo id = "teaszov">EgyÃ©b m.n.s. Ãºj Ã¡ru kiskereskedelme</mezo>
 </alrovat>
 <alrovat id = "43">
 <mezo id = "hattol">20100913</mezo>
 <mezo id = "valtk">20100913</mezo>
 <mezo id = "bkelt">20100915</mezo>
-<mezo id = "teaszov">Nem veszélyes hulladék kezelése, ártalmatlanítása</mezo>
+<mezo id = "teaszov">Nem veszÃ©lyes hulladÃ©k kezelÃ©se, Ã¡rtalmatlanÃ­tÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "44">
 <mezo id = "hattol">20100913</mezo>
 <mezo id = "valtk">20100913</mezo>
 <mezo id = "bkelt">20100920</mezo>
-<mezo id = "teaszov">Nem veszélyes hulladék gyûjtése</mezo>
+<mezo id = "teaszov">Nem veszÃ©lyes hulladÃ©k gyÅ±jtÃ©se</mezo>
 </alrovat>
 <alrovat id = "45">
 <mezo id = "hattol">20111003</mezo>
 <mezo id = "valtk">20111003</mezo>
 <mezo id = "bkelt">20111013</mezo>
-<mezo id = "teaszov">Egyéb gépjármû-kereskedelem</mezo>
+<mezo id = "teaszov">EgyÃ©b gÃ©pjÃ¡rmÅ±-kereskedelem</mezo>
 </alrovat>
 <alrovat id = "46">
 <mezo id = "hattol">20111003</mezo>
 <mezo id = "valtk">20111003</mezo>
 <mezo id = "bkelt">20111013</mezo>
-<mezo id = "teaszov">Fém-, érc-nagykereskedelem</mezo>
+<mezo id = "teaszov">FÃ©m-, Ã©rc-nagykereskedelem</mezo>
 </alrovat>
 <alrovat id = "47">
 <mezo id = "hattol">20111003</mezo>
 <mezo id = "valtk">20111003</mezo>
 <mezo id = "bkelt">20111013</mezo>
-<mezo id = "teaszov">Fémáru-, szerelvény, fûtési berendezés nagykereskedelme</mezo>
+<mezo id = "teaszov">FÃ©mÃ¡ru-, szerelvÃ©ny, fÅ±tÃ©si berendezÃ©s nagykereskedelme</mezo>
 </alrovat>
 <alrovat id = "48">
 <mezo id = "hattol">20111003</mezo>
 <mezo id = "valtk">20111003</mezo>
 <mezo id = "bkelt">20111013</mezo>
-<mezo id = "teaszov">Hulladék-nagykereskedelem</mezo>
+<mezo id = "teaszov">HulladÃ©k-nagykereskedelem</mezo>
 </alrovat>
 <alrovat id = "49">
 <mezo id = "hattol">20111003</mezo>
 <mezo id = "valtk">20111003</mezo>
 <mezo id = "bkelt">20111013</mezo>
-<mezo id = "teaszov">Vegyi áru nagykereskedelem</mezo>
+<mezo id = "teaszov">Vegyi Ã¡ru nagykereskedelem</mezo>
 </alrovat>
 <alrovat id = "50">
 <mezo id = "hattol">20111003</mezo>
 <mezo id = "valtk">20111003</mezo>
 <mezo id = "bkelt">20111013</mezo>
-<mezo id = "teaszov">Egyéb termelési célú termék nagykereskedelme</mezo>
+<mezo id = "teaszov">EgyÃ©b termelÃ©si cÃ©lÃº termÃ©k nagykereskedelme</mezo>
 </alrovat>
 <alrovat id = "51">
 <mezo id = "hattol">20111003</mezo>
 <mezo id = "valtk">20111003</mezo>
 <mezo id = "bkelt">20111013</mezo>
-<mezo id = "teaszov">Egyéb áru piaci kiskereskedelme</mezo>
+<mezo id = "teaszov">EgyÃ©b Ã¡ru piaci kiskereskedelme</mezo>
 </alrovat>
 <alrovat id = "52">
 <mezo id = "hattol">20111003</mezo>
 <mezo id = "valtk">20111003</mezo>
 <mezo id = "bkelt">20111013</mezo>
-<mezo id = "teaszov">Egyéb gép, tárgyi eszköz kölcsönzése</mezo>
+<mezo id = "teaszov">EgyÃ©b gÃ©p, tÃ¡rgyi eszkÃ¶z kÃ¶lcsÃ¶nzÃ©se</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -476,9 +476,9 @@
 <rovat id = "13">
 <alrovat id = "4">
 <mezo id = "hattol">20100913</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Vízner Sándor</mezo>
-<mezo id = "panev">Kállai Margit Ilona</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">VÃ­zner SÃ¡ndor</mezo>
+<mezo id = "panev">KÃ¡llai Margit Ilona</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20090531</mezo>
 <mezo id = "valtk">20100913</mezo>
@@ -489,10 +489,10 @@
 <rovat id = "14">
 <alrovat id = "2">
 <mezo id = "hattol">20111003</mezo>
-<mezo id = "pnev">Élõ Andrásné</mezo>
-<mezo id = "panev">Viola Terézia</mezo>
+<mezo id = "pnev">Ã‰lÅ‘ AndrÃ¡snÃ©</mezo>
+<mezo id = "panev">Viola TerÃ©zia</mezo>
 <mezo id = "pirsz">6000</mezo>
-<mezo id = "phely">Kecskemét</mezo>
+<mezo id = "phely">KecskemÃ©t</mezo>
 <mezo id = "pteru">Csokor utca 25. 1. em. 3.</mezo>
 <mezo id = "jogvk">20111003</mezo>
 <mezo id = "valtk">20111003</mezo>
@@ -524,17 +524,17 @@
 <mezo id = "adosz">13437105213</mezo>
 <mezo id = "kadosz">HU13437105</mezo>
 <mezo id = "bkelt">20111013</mezo>
-<mezo id = "megj">Státusz kezdete: 2005/01/24</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 2005/01/24</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0109">
 <alrovat id = "1">
 <mezo id = "hattol">20050202</mezo>
 <mezo id = "k">x</mezo>
-<mezo id = "pnev">Vízner Sándor</mezo>
-<mezo id = "panev">Kállai Margit Ilona</mezo>
+<mezo id = "pnev">VÃ­zner SÃ¡ndor</mezo>
+<mezo id = "panev">KÃ¡llai Margit Ilona</mezo>
 <mezo id = "pirsz">2740</mezo>
-<mezo id = "phely">Abony, Szapáry u. 2/a.</mezo>
+<mezo id = "phely">Abony, SzapÃ¡ry u. 2/a.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "93">
@@ -546,31 +546,31 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Pest Megyei Bíróság mint Cégbíróság a Cg.13-09-102120 cégjegyzékszámon bejegyzett VÍZNER ÉS TÁRSA Építõipari Kivitelezõ és Szolgáltató Korlátolt Felelõsségû Társaság (2740 Abony, Szapáry utca 2.; adószáma: 13437105-2-13) kérelme alapján elrendeli az 2010. szeptember 15. napján hozott Cg.13-09-102120 /40 számú végzésének kijavítását az alábbiak szerint:<ujsor/>
-9. A cég tevékenysége<ujsor/>
-Nem veszélyes hulladék gyûjtése<ujsor/>
-Vált. kezdete: 2010.09.13.<ujsor/>
-Bejegyezve (végzés kelte): 2010. szeptember 20.<ujsor/>
-13. A képviseletre jogosult(ak) adatai<ujsor/>
-A képviselet módja: önálló.<ujsor/>
-Adóazonosító jel: 8398333022<ujsor/>
-Vízner Sándor vezetõ tisztségviselõ (ügyvezetõ) (an.: Kállai Margit Ilona)<ujsor/>
+<mezo id = "szoveg">A Pest Megyei BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.13-09-102120 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett VÃZNER Ã‰S TÃRSA Ã‰pÃ­tÅ‘ipari KivitelezÅ‘ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (2740 Abony, SzapÃ¡ry utca 2.; adÃ³szÃ¡ma: 13437105-2-13) kÃ©relme alapjÃ¡n elrendeli az 2010. szeptember 15. napjÃ¡n hozott Cg.13-09-102120 /40 szÃ¡mÃº vÃ©gzÃ©sÃ©nek kijavÃ­tÃ¡sÃ¡t az alÃ¡bbiak szerint:<ujsor/>
+9. A cÃ©g tevÃ©kenysÃ©ge<ujsor/>
+Nem veszÃ©lyes hulladÃ©k gyÅ±jtÃ©se<ujsor/>
+VÃ¡lt. kezdete: 2010.09.13.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2010. szeptember 20.<ujsor/>
+13. A kÃ©pviseletre jogosult(ak) adatai<ujsor/>
+A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+AdÃ³azonosÃ­tÃ³ jel: 8398333022<ujsor/>
+VÃ­zner SÃ¡ndor vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘) (an.: KÃ¡llai Margit Ilona)<ujsor/>
 Jogv. kezdete: 2009.05.31.<ujsor/>
-Vált. vége: 2010.09.13.<ujsor/>
-Törölve (végzés kelte): 2010. szeptember 20.<ujsor/>
-A képviselet módja: önálló.<ujsor/>
-Adóazonosító jel: 8398333022<ujsor/>
-Vízner Sándor vezetõ tisztségviselõ (ügyvezetõ) (an.: Kállai Margit Ilona)<ujsor/>
+VÃ¡lt. vÃ©ge: 2010.09.13.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2010. szeptember 20.<ujsor/>
+A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+AdÃ³azonosÃ­tÃ³ jel: 8398333022<ujsor/>
+VÃ­zner SÃ¡ndor vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘) (an.: KÃ¡llai Margit Ilona)<ujsor/>
 Jogv. kezdete: 2009.05.31.<ujsor/>
-Vált. kezdete: 2010.09.13.<ujsor/>
-Bejegyezve (végzés kelte): 2010. szeptember 20.<ujsor/>
-E végzés ellen fellebbezésnek nincs helye, azonban az ügyész, továbbá az, akire a végzés rendelkezést tartalmaz - a rendelkezés õt érintõ részére vonatkozóan - pert indíthat a cég ellen a cég székhelye szerint illetékes megyei bíróság elõtt a bejegyzõ végzés hatályon kívül helyezése iránt.<ujsor/>
-A per megindításának a bejegyzõ végzés Cégközlönyben való közzétételétõl, illetve - közzétételi kötelezettség hiányában - annak kézbesítésétõl számított 30 napon belül van helye. A határidõ elmulasztása jogvesztéssel jár.<ujsor/>
+VÃ¡lt. kezdete: 2010.09.13.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2010. szeptember 20.<ujsor/>
+E vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye, azonban az Ã¼gyÃ©sz, tovÃ¡bbÃ¡ az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s Å‘t Ã©rintÅ‘ rÃ©szÃ©re vonatkozÃ³an - pert indÃ­that a cÃ©g ellen a cÃ©g szÃ©khelye szerint illetÃ©kes megyei bÃ­rÃ³sÃ¡g elÅ‘tt a bejegyzÅ‘ vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt.<ujsor/>
+A per megindÃ­tÃ¡sÃ¡nak a bejegyzÅ‘ vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l, illetve - kÃ¶zzÃ©tÃ©teli kÃ¶telezettsÃ©g hiÃ¡nyÃ¡ban - annak kÃ©zbesÃ­tÃ©sÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l van helye. A hatÃ¡ridÅ‘ elmulasztÃ¡sa jogvesztÃ©ssel jÃ¡r.<ujsor/>
 2010. szeptember 20.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1309102120</mezo>
-<mezo id = "nev">VÍZNER ÉS TÁRSA Építõipari Kivitelezõ és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">2740 Abony, Szapáry utca 2.</mezo>
+<mezo id = "nev">VÃZNER Ã‰S TÃRSA Ã‰pÃ­tÅ‘ipari KivitelezÅ‘ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2740 Abony, SzapÃ¡ry utca 2.</mezo>
 <mezo id = "adosz">13437105213</mezo>
 </alrovat>
 </rovat>

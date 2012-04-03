@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">864807</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">1147 Budapest, Benkõ utca 42. </mezo>
+<mezo id = "cim">1147 Budapest, BenkÅ‘ utca 42. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">13622363242</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20051214</mezo>
-<mezo id = "nev">PRINTREX Számítástechnikai és Irodatechnikai Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">PRINTREX SzÃ¡mÃ­tÃ¡stechnikai Ã©s Irodatechnikai KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -27,7 +27,7 @@
 <mezo id = "hattol">20101201</mezo>
 <mezo id = "irsz">1147</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Benkõ utca 42.</mezo>
+<mezo id = "teru">BenkÅ‘ utca 42.</mezo>
 <mezo id = "valtk">20101201</mezo>
 <mezo id = "bkelt">20110104</mezo>
 </alrovat>
@@ -36,13 +36,13 @@
 <alrovat id = "1">
 <mezo id = "hattol">20051214</mezo>
 <mezo id = "irsz">3100</mezo>
-<mezo id = "hely">Salgótarján, Huta út 6.</mezo>
+<mezo id = "hely">SalgÃ³tarjÃ¡n, Huta Ãºt 6.</mezo>
 <mezo id = "orsz">HU</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20051214</mezo>
 <mezo id = "irsz">3100</mezo>
-<mezo id = "hely">Salgótarján, Erzsébet tér 6.</mezo>
+<mezo id = "hely">SalgÃ³tarjÃ¡n, ErzsÃ©bet tÃ©r 6.</mezo>
 <mezo id = "orsz">HU</mezo>
 </alrovat>
 </rovat>
@@ -718,12 +718,12 @@
 <rovat id = "13">
 <alrovat id = "3">
 <mezo id = "hattol">20101201</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "pnev">Sopronyi Zsuzsanna</mezo>
 <mezo id = "panev">Orosz Margit</mezo>
 <mezo id = "pirsz">3100</mezo>
-<mezo id = "phely">Salgótarján</mezo>
-<mezo id = "pteru">Móricz Zsigmond út 22.</mezo>
+<mezo id = "phely">SalgÃ³tarjÃ¡n</mezo>
+<mezo id = "pteru">MÃ³ricz Zsigmond Ãºt 22.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20080327</mezo>
 <mezo id = "valtk">20101201</mezo>
@@ -735,9 +735,9 @@
 <alrovat id = "2">
 <mezo id = "hattol">20101201</mezo>
 <mezo id = "pnev">Nagy Magdolna</mezo>
-<mezo id = "panev">Nagy Erzsébet</mezo>
+<mezo id = "panev">Nagy ErzsÃ©bet</mezo>
 <mezo id = "pirsz">3100</mezo>
-<mezo id = "phely">Salgótarján</mezo>
+<mezo id = "phely">SalgÃ³tarjÃ¡n</mezo>
 <mezo id = "pteru">Medves krt. 72.</mezo>
 <mezo id = "jogvk">20101201</mezo>
 <mezo id = "jogvv">20150531</mezo>
@@ -749,7 +749,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20051214</mezo>
 <mezo id = "cgjsz">106730670</mezo>
-<mezo id = "nev">PRINTREX Számítástechnikai és Irodatechnikai Betéti Társaság</mezo>
+<mezo id = "nev">PRINTREX SzÃ¡mÃ­tÃ¡stechnikai Ã©s Irodatechnikai BetÃ©ti TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "20">
@@ -769,21 +769,21 @@
 <rovat id = "0109">
 <alrovat id = "2">
 <mezo id = "hattol">20051214</mezo>
-<mezo id = "pnev">kk. Szûcs Artúr</mezo>
+<mezo id = "pnev">kk. SzÅ±cs ArtÃºr</mezo>
 <mezo id = "panev">Sopronyi Zsuzsanna</mezo>
 <mezo id = "pirsz">3100</mezo>
-<mezo id = "phely">Salgótarján, Móricz Zsigmond út 22.</mezo>
-<mezo id = "gnev">Szûcsné Sopronyi Zsuzsanna</mezo>
+<mezo id = "phely">SalgÃ³tarjÃ¡n, MÃ³ricz Zsigmond Ãºt 22.</mezo>
+<mezo id = "gnev">SzÅ±csnÃ© Sopronyi Zsuzsanna</mezo>
 <mezo id = "ganev">Orosz Margit</mezo>
 <mezo id = "girsz">3100</mezo>
-<mezo id = "ghely">Salgótarján, Móricz Zsigmond út 22.</mezo>
+<mezo id = "ghely">SalgÃ³tarjÃ¡n, MÃ³ricz Zsigmond Ãºt 22.</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20080327</mezo>
 <mezo id = "pnev">Sopronyi Zsuzsanna</mezo>
 <mezo id = "panev">Orosz Margit</mezo>
 <mezo id = "pirsz">3100</mezo>
-<mezo id = "phely">Salgótarján, Móricz Zsigmond út 22.</mezo>
+<mezo id = "phely">SalgÃ³tarjÃ¡n, MÃ³ricz Zsigmond Ãºt 22.</mezo>
 <mezo id = "tagsk">20081024</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20080327</mezo>

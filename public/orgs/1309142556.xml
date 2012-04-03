@@ -6,7 +6,7 @@
 <mezo id = "szam">142556</mezo>
 <mezo id = "nevalrovat">4</mezo>
 <mezo id = "regi_szh">1209006971</mezo>
-<mezo id = "cim">2120 Dunakeszi, Állomás sétány 19. </mezo>
+<mezo id = "cim">2120 Dunakeszi, ÃllomÃ¡s sÃ©tÃ¡ny 19. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">12169533213</mezo>
 </alrovat>
@@ -27,7 +27,7 @@
 <mezo id = "hattol">20101105</mezo>
 <mezo id = "irsz">2120</mezo>
 <mezo id = "hely">Dunakeszi</mezo>
-<mezo id = "teru">Állomás sétány 19.</mezo>
+<mezo id = "teru">ÃllomÃ¡s sÃ©tÃ¡ny 19.</mezo>
 <mezo id = "valtk">20101105</mezo>
 <mezo id = "bkelt">20101208</mezo>
 </alrovat>
@@ -36,8 +36,8 @@
 <alrovat id = "3">
 <mezo id = "hattol">20101105</mezo>
 <mezo id = "irsz">3143</mezo>
-<mezo id = "hely">Mátranovák</mezo>
-<mezo id = "teru">Szabadság út 51.</mezo>
+<mezo id = "hely">MÃ¡tranovÃ¡k</mezo>
+<mezo id = "teru">SzabadsÃ¡g Ãºt 51.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20101105</mezo>
 <mezo id = "bkelt">20101208</mezo>
@@ -1011,7 +1011,7 @@
 <mezo id = "hattol">20100621</mezo>
 <mezo id = "valtk">20100621</mezo>
 <mezo id = "bkelt">20101112</mezo>
-<mezo id = "teaszov">Fémszerkezet gyártása</mezo>
+<mezo id = "teaszov">FÃ©mszerkezet gyÃ¡rtÃ¡sa</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -1028,11 +1028,11 @@
 <rovat id = "13">
 <alrovat id = "13">
 <mezo id = "hattol">20100317</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "pnev">Hanz-Harro Effertz</mezo>
 <mezo id = "panev">Margot Wilhelmine Nau</mezo>
-<mezo id = "pmnev">Dr. Rozgonyi-Tóth István</mezo>
-<mezo id = "pmanev">Rozgonyi Klára</mezo>
+<mezo id = "pmnev">Dr. Rozgonyi-TÃ³th IstvÃ¡n</mezo>
+<mezo id = "pmanev">Rozgonyi KlÃ¡ra</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20061205</mezo>
 <mezo id = "valtk">20100317</mezo>
@@ -1041,9 +1041,9 @@
 </alrovat>
 <alrovat id = "17">
 <mezo id = "hattol">20101105</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Deák Gábor</mezo>
-<mezo id = "panev">Nagy Ágnes</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">DeÃ¡k GÃ¡bor</mezo>
+<mezo id = "panev">Nagy Ãgnes</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20101105</mezo>
 <mezo id = "valtk">20101105</mezo>
@@ -1052,7 +1052,7 @@
 </alrovat>
 <alrovat id = "18">
 <mezo id = "hattol">20101105</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "pnev">Kurt Lievens</mezo>
 <mezo id = "panev">Goos Josee</mezo>
 <mezo id = "kepve">x</mezo>
@@ -1066,29 +1066,29 @@
 <alrovat id = "4">
 <mezo id = "hattol">20031101</mezo>
 <mezo id = "cgjsz">109267553</mezo>
-<mezo id = "nev">Ernst&amp;Young Könyvvizsgáló Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Ernst&amp;Young KÃ¶nyvvizsgÃ¡lÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1132</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Váci út</mezo>
+<mezo id = "teru">VÃ¡ci Ãºt</mezo>
 <mezo id = "hsz">20.</mezo>
-<mezo id = "pnev">Balaton Zoltán</mezo>
-<mezo id = "panev">Gombkötõ Erzsébet</mezo>
+<mezo id = "pnev">Balaton ZoltÃ¡n</mezo>
+<mezo id = "panev">GombkÃ¶tÅ‘ ErzsÃ©bet</mezo>
 <mezo id = "pirsz">6300</mezo>
-<mezo id = "phely">Kalocsa, Foktõi út 14/A.</mezo>
+<mezo id = "phely">Kalocsa, FoktÅ‘i Ãºt 14/A.</mezo>
 <mezo id = "jogvk">20031101</mezo>
 <mezo id = "jogvv">20040831</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">20100317</mezo>
 <mezo id = "cgjsz">0109267553</mezo>
-<mezo id = "nev">Ernst&amp;Young Könyvvizsgáló Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Ernst&amp;Young KÃ¶nyvvizsgÃ¡lÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1132</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Váci út 20-26.</mezo>
-<mezo id = "pnev">Barabás Csaba</mezo>
-<mezo id = "panev">Horváth Ilona</mezo>
+<mezo id = "teru">VÃ¡ci Ãºt 20-26.</mezo>
+<mezo id = "pnev">BarabÃ¡s Csaba</mezo>
+<mezo id = "panev">HorvÃ¡th Ilona</mezo>
 <mezo id = "jogvk">20100317</mezo>
 <mezo id = "jogvv">20150317</mezo>
 <mezo id = "valtk">20100317</mezo>
@@ -1103,10 +1103,10 @@
 <mezo id = "pkorsz">BE</mezo>
 <mezo id = "pkirsz">8000</mezo>
 <mezo id = "pkhely">Bruges , Damse Wegel 3.</mezo>
-<mezo id = "pmneve">dr. Rozgonyi-Tóth István</mezo>
-<mezo id = "pmanev">Rozgonyi Klára</mezo>
+<mezo id = "pmneve">dr. Rozgonyi-TÃ³th IstvÃ¡n</mezo>
+<mezo id = "pmanev">Rozgonyi KlÃ¡ra</mezo>
 <mezo id = "pmirsz">1011</mezo>
-<mezo id = "pmhely">Budapest, Fõ utca 14-18.</mezo>
+<mezo id = "pmhely">Budapest, FÅ‘ utca 14-18.</mezo>
 <mezo id = "jogvk">20070607</mezo>
 <mezo id = "jogvv">20120607</mezo>
 <mezo id = "valtk">20070607</mezo>
@@ -1115,7 +1115,7 @@
 <alrovat id = "6">
 <mezo id = "hattol">20100317</mezo>
 <mezo id = "pnev">Gecse Katalin</mezo>
-<mezo id = "panev">Szabó Katalin</mezo>
+<mezo id = "panev">SzabÃ³ Katalin</mezo>
 <mezo id = "jogvk">20100317</mezo>
 <mezo id = "jogvv">20150317</mezo>
 <mezo id = "valtk">20100317</mezo>
@@ -1192,9 +1192,9 @@
 <mezo id = "orsz">DE</mezo>
 <mezo id = "irsz">10785</mezo>
 <mezo id = "hely">Berlin</mezo>
-<mezo id = "teru">Schöneberger Ufer 1.</mezo>
-<mezo id = "pmnev">dr. Kárpáti Katalin</mezo>
-<mezo id = "pmanev">Dolezsál Ilona</mezo>
+<mezo id = "teru">SchÃ¶neberger Ufer 1.</mezo>
+<mezo id = "pmnev">dr. KÃ¡rpÃ¡ti Katalin</mezo>
+<mezo id = "pmanev">DolezsÃ¡l Ilona</mezo>
 <mezo id = "tagsk">20010917</mezo>
 <mezo id = "valtk">20101112</mezo>
 <mezo id = "knyh">Amtsgericht Charlottenburg</mezo>
@@ -1205,17 +1205,17 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Pest Megyei Bíróság mint Cégbíróság a Cg.13-09-142556 cégjegyzékszámon bejegyzett Bombardier Transportation Hungary KFT. (2120 Dunakeszi, Állomás sétány 19.; adószáma: 12169533-2-12) kérelme alapján elrendeli az 2010. december 8. napján hozott Cg.13-09-142556 /2. számú végzésének kijavítását (kiegészítését) az alábbiak szerint:<ujsor/>
-49. A cég cégjegyzékszáma és a nyilvántartását vezetõ bíróság<ujsor/>
-13-09-142556 Vezetve a Pest Megyei Bíróság mint Cégbíróságnál.<ujsor/>
-Vált. kezdete: 2010.12.08.<ujsor/>
-Bejegyezve (végzés kelte): 2010. december 10.<ujsor/>
-E végzés ellen fellebbezésnek nincs helye.<ujsor/>
+<mezo id = "szoveg">A Pest Megyei BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.13-09-142556 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett Bombardier Transportation Hungary KFT. (2120 Dunakeszi, ÃllomÃ¡s sÃ©tÃ¡ny 19.; adÃ³szÃ¡ma: 12169533-2-12) kÃ©relme alapjÃ¡n elrendeli az 2010. december 8. napjÃ¡n hozott Cg.13-09-142556 /2. szÃ¡mÃº vÃ©gzÃ©sÃ©nek kijavÃ­tÃ¡sÃ¡t (kiegÃ©szÃ­tÃ©sÃ©t) az alÃ¡bbiak szerint:<ujsor/>
+49. A cÃ©g cÃ©gjegyzÃ©kszÃ¡ma Ã©s a nyilvÃ¡ntartÃ¡sÃ¡t vezetÅ‘ bÃ­rÃ³sÃ¡g<ujsor/>
+13-09-142556 Vezetve a Pest Megyei BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡gnÃ¡l.<ujsor/>
+VÃ¡lt. kezdete: 2010.12.08.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2010. december 10.<ujsor/>
+E vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye.<ujsor/>
 2010. december 10.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1309142556</mezo>
 <mezo id = "nev">Bombardier Transportation Hungary KFT.</mezo>
-<mezo id = "cim">2120 Dunakeszi, Állomás sétány 19.</mezo>
+<mezo id = "cim">2120 Dunakeszi, ÃllomÃ¡s sÃ©tÃ¡ny 19.</mezo>
 <mezo id = "adosz">12169533212</mezo>
 </alrovat>
 </rovat>

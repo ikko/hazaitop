@@ -7,7 +7,7 @@
 <mezo id = "nevalrovat">2</mezo>
 <mezo id = "regi_szh">1609007665</mezo>
 <mezo id = "allapot">6</mezo>
-<mezo id = "cim">1044 Budapest, Óradna utca 5. </mezo>
+<mezo id = "cim">1044 Budapest, Ã“radna utca 5. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">13207087241</mezo>
 </alrovat>
@@ -15,7 +15,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20100601</mezo>
-<mezo id = "nev">APIS Irodaszer Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">APIS Irodaszer Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">20100601</mezo>
 <mezo id = "bkelt">20100610</mezo>
 </alrovat>
@@ -33,7 +33,7 @@
 <mezo id = "hattol">20100708</mezo>
 <mezo id = "irsz">1044</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Óradna utca 5.</mezo>
+<mezo id = "teru">Ã“radna utca 5.</mezo>
 <mezo id = "valtk">20100708</mezo>
 <mezo id = "bkelt">20100907</mezo>
 </alrovat>
@@ -42,7 +42,7 @@
 <alrovat id = "3">
 <mezo id = "hattol">20051012</mezo>
 <mezo id = "irsz">5000</mezo>
-<mezo id = "hely">Szolnok, Újszászi út 13.</mezo>
+<mezo id = "hely">Szolnok, ÃšjszÃ¡szi Ãºt 13.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "7">
@@ -50,7 +50,7 @@
 <mezo id = "hattol">20100830</mezo>
 <mezo id = "irsz">5000</mezo>
 <mezo id = "hely">Szolnok</mezo>
-<mezo id = "teru">Piroskai út 9.</mezo>
+<mezo id = "teru">Piroskai Ãºt 9.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20100830</mezo>
 <mezo id = "bkelt">20100928</mezo>
@@ -447,10 +447,10 @@
 <rovat id = "13">
 <alrovat id = "4">
 <mezo id = "hattol">20051012</mezo>
-<mezo id = "pnev">Tóth Timea</mezo>
-<mezo id = "panev">Mészáros Mária</mezo>
+<mezo id = "pnev">TÃ³th Timea</mezo>
+<mezo id = "panev">MÃ©szÃ¡ros MÃ¡ria</mezo>
 <mezo id = "pirsz">5000</mezo>
-<mezo id = "phely">Szolnok, Zsálya út 32.</mezo>
+<mezo id = "phely">Szolnok, ZsÃ¡lya Ãºt 32.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">2</mezo>
 <mezo id = "jogvk">20051012</mezo>
@@ -458,9 +458,9 @@
 </alrovat>
 <alrovat id = "13">
 <mezo id = "hattol">20100521</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Szapár András</mezo>
-<mezo id = "panev">Oszterland Irén</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">SzapÃ¡r AndrÃ¡s</mezo>
+<mezo id = "panev">Oszterland IrÃ©n</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100601</mezo>
 <mezo id = "valtk">20100521</mezo>
@@ -469,9 +469,9 @@
 </alrovat>
 <alrovat id = "14">
 <mezo id = "hattol">20100521</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Papp Gergely</mezo>
-<mezo id = "panev">Gebri Mária</mezo>
+<mezo id = "panev">Gebri MÃ¡ria</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20100601</mezo>
 <mezo id = "valtk">20100521</mezo>
@@ -480,9 +480,9 @@
 </alrovat>
 <alrovat id = "16">
 <mezo id = "hattol">20100521</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Bajnok Tibor</mezo>
-<mezo id = "panev">Kovács Irén</mezo>
+<mezo id = "panev">KovÃ¡cs IrÃ©n</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20100601</mezo>
 <mezo id = "valtk">20100521</mezo>
@@ -491,9 +491,9 @@
 </alrovat>
 <alrovat id = "17">
 <mezo id = "hattol">20100521</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Implom László</mezo>
-<mezo id = "panev">Lakó Vilma</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Implom LÃ¡szlÃ³</mezo>
+<mezo id = "panev">LakÃ³ Vilma</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20100601</mezo>
 <mezo id = "valtk">20100521</mezo>
@@ -505,13 +505,13 @@
 <alrovat id = "4">
 <mezo id = "hattol">20100521</mezo>
 <mezo id = "cgjsz">0109467801</mezo>
-<mezo id = "nev">FAIRCONSULT Könyvelési és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">FAIRCONSULT KÃ¶nyvelÃ©si Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1171</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Temetõ utca 2.</mezo>
-<mezo id = "pnev">Ézsiás Miklósné</mezo>
-<mezo id = "panev">Czégér Rozália</mezo>
+<mezo id = "teru">TemetÅ‘ utca 2.</mezo>
+<mezo id = "pnev">Ã‰zsiÃ¡s MiklÃ³snÃ©</mezo>
+<mezo id = "panev">CzÃ©gÃ©r RozÃ¡lia</mezo>
 <mezo id = "jogvk">20100601</mezo>
 <mezo id = "jogvv">20110531</mezo>
 <mezo id = "valtk">20100521</mezo>
@@ -522,17 +522,17 @@
 <alrovat id = "1">
 <mezo id = "hattol">20040401</mezo>
 <mezo id = "cgjsz">1309092264</mezo>
-<mezo id = "nev">PAPÍR-ÁSZ Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">PAPÃR-ÃSZ Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20040401</mezo>
 <mezo id = "cgjsz">1309075825</mezo>
-<mezo id = "nev">PAPÍR-Ár Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">PAPÃR-Ãr Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20040401</mezo>
 <mezo id = "cgjsz">1609001142</mezo>
-<mezo id = "nev">GYÁRT-KER Ipari és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">GYÃRT-KER Ipari Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "20">
@@ -575,7 +575,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20081007</mezo>
 <mezo id = "jccjsz">1609010360</mezo>
-<mezo id = "nev">Szõlõkert 15 Ingatlanhasznosító Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">SzÅ‘lÅ‘kert 15 IngatlanhasznosÃ­tÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "atdat">0</mezo>
 <mezo id = "valtk">20081007</mezo>
 <mezo id = "valtv">0</mezo>
@@ -584,7 +584,7 @@
 </alrovat>
 <alrovat id = "2">
 <mezo id = "jccjsz">0109942708</mezo>
-<mezo id = "nev">East Shop Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">East Shop Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "atdat">20101221</mezo>
 </alrovat>
 </rovat>
@@ -592,24 +592,24 @@
 <alrovat id = "8">
 <mezo id = "hattol">20040922</mezo>
 <mezo id = "cgjsz">1609007665</mezo>
-<mezo id = "nev">PAPÍR-ÁSZ Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">PAPÃR-ÃSZ Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">5000</mezo>
 <mezo id = "hely">Szolnok</mezo>
-<mezo id = "teru">Újszászi u.</mezo>
+<mezo id = "teru">ÃšjszÃ¡szi u.</mezo>
 <mezo id = "hsz">13.</mezo>
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">20051012</mezo>
-<mezo id = "pnev">Zsiros Pál</mezo>
-<mezo id = "panev">Bicskei Anikó</mezo>
+<mezo id = "pnev">Zsiros PÃ¡l</mezo>
+<mezo id = "panev">Bicskei AnikÃ³</mezo>
 <mezo id = "pirsz">5000</mezo>
-<mezo id = "phely">Szolnok, Csokonai út 35. 1/3.</mezo>
+<mezo id = "phely">Szolnok, Csokonai Ãºt 35. 1/3.</mezo>
 </alrovat>
 <alrovat id = "13">
 <mezo id = "hattol">20070626</mezo>
-<mezo id = "pnev">Retter Zoltán</mezo>
-<mezo id = "panev">Mátyus Mária</mezo>
+<mezo id = "pnev">Retter ZoltÃ¡n</mezo>
+<mezo id = "panev">MÃ¡tyus MÃ¡ria</mezo>
 <mezo id = "pirsz">5000</mezo>
 <mezo id = "phely">Szolnok, Vidra u. 1.</mezo>
 <mezo id = "tagsk">20040401</mezo>
@@ -620,11 +620,11 @@
 <alrovat id = "15">
 <mezo id = "hattol">20100521</mezo>
 <mezo id = "cgjsz">0110046525</mezo>
-<mezo id = "nev">Trendex Invest Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">Trendex Invest ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1116</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Barázda utca 42.</mezo>
+<mezo id = "teru">BarÃ¡zda utca 42.</mezo>
 <mezo id = "tagsk">20060405</mezo>
 <mezo id = "sz2">x</mezo>
 <mezo id = "valtk">20100521</mezo>
@@ -640,183 +640,183 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság a Cg.01-09-943233 cégjegyzékszámon bejegyzett APIS Irodaszer Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság (1044 Budapest, Óradna utca 5.; adószáma: 13207087-2-41) kérelme alapján elrendeli az 2010. szeptember 7. napján hozott Cg.01-09-943233 /5. számú végzésének kijavítását az alábbiak szerint:<ujsor/>
-13. A képviseletre jogosult(ak) adatai<ujsor/>
-A képviselet módja: együttes.<ujsor/>
-Adóazonosító jel: 8364740687<ujsor/>
-Szabó Zoltán más munkavállaló (an.: Lengyel Mária)<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.01-09-943233 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett APIS Irodaszer Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (1044 Budapest, Ã“radna utca 5.; adÃ³szÃ¡ma: 13207087-2-41) kÃ©relme alapjÃ¡n elrendeli az 2010. szeptember 7. napjÃ¡n hozott Cg.01-09-943233 /5. szÃ¡mÃº vÃ©gzÃ©sÃ©nek kijavÃ­tÃ¡sÃ¡t az alÃ¡bbiak szerint:<ujsor/>
+13. A kÃ©pviseletre jogosult(ak) adatai<ujsor/>
+A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+AdÃ³azonosÃ­tÃ³ jel: 8364740687<ujsor/>
+SzabÃ³ ZoltÃ¡n mÃ¡s munkavÃ¡llalÃ³ (an.: Lengyel MÃ¡ria)<ujsor/>
 Jogv. kezdete: 2010.06.01.<ujsor/>
-Vált. vége: 2010.05.21.<ujsor/>
-Törölve (végzés kelte): 2010. szeptember 15.<ujsor/>
-Adóazonosító jel: 8364740687<ujsor/>
-Szabó Zoltán más munkavállaló (an.: Lengyel Mária)<ujsor/>
+VÃ¡lt. vÃ©ge: 2010.05.21.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2010. szeptember 15.<ujsor/>
+AdÃ³azonosÃ­tÃ³ jel: 8364740687<ujsor/>
+SzabÃ³ ZoltÃ¡n mÃ¡s munkavÃ¡llalÃ³ (an.: Lengyel MÃ¡ria)<ujsor/>
 Jogv. kezdete: 2010.06.01.<ujsor/>
-Vált. kezdete: 2010.05.21.<ujsor/>
-Bejegyezve (végzés kelte): 2010. szeptember 15.<ujsor/>
-E végzés ellen fellebbezésnek nincs helye, azonban az ügyész, továbbá az, akire a végzés rendelkezést tartalmaz - a rendelkezés õt érintõ részére vonatkozóan - pert indíthat a cég ellen a cég székhelye szerint illetékes megyei bíróság elõtt a bejegyzõ végzés hatályon kívül helyezése iránt.<ujsor/>
-A per megindításának a bejegyzõ végzés Cégközlönyben való közzétételétõl, illetve - közzétételi kötelezettség hiányában - annak kézbesítésétõl számított 30 napon belül van helye. A határidõ elmulasztása jogvesztéssel jár.<ujsor/>
+VÃ¡lt. kezdete: 2010.05.21.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2010. szeptember 15.<ujsor/>
+E vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye, azonban az Ã¼gyÃ©sz, tovÃ¡bbÃ¡ az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s Å‘t Ã©rintÅ‘ rÃ©szÃ©re vonatkozÃ³an - pert indÃ­that a cÃ©g ellen a cÃ©g szÃ©khelye szerint illetÃ©kes megyei bÃ­rÃ³sÃ¡g elÅ‘tt a bejegyzÅ‘ vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt.<ujsor/>
+A per megindÃ­tÃ¡sÃ¡nak a bejegyzÅ‘ vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l, illetve - kÃ¶zzÃ©tÃ©teli kÃ¶telezettsÃ©g hiÃ¡nyÃ¡ban - annak kÃ©zbesÃ­tÃ©sÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l van helye. A hatÃ¡ridÅ‘ elmulasztÃ¡sa jogvesztÃ©ssel jÃ¡r.<ujsor/>
 2010. szeptember 15.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109943233</mezo>
-<mezo id = "nev">APIS Irodaszer Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1044 Budapest, Óradna utca 5.</mezo>
+<mezo id = "nev">APIS Irodaszer Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1044 Budapest, Ã“radna utca 5.</mezo>
 <mezo id = "adosz">13207087241</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság a Cg.01-09-943233 cégjegyzékszámon bejegyzett APIS Irodaszer Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság (1044 Budapest, Óradna utca 5.; adószáma: 13207087-2-41) kérelme alapján elrendeli az 2010. szeptember 7. napján hozott Cg.01-09-943233 /5. számú végzésének kijavítását az alábbiak szerint:<ujsor/>
-13. A képviseletre jogosult(ak) adatai<ujsor/>
-Adóazonosító jel: 8364740687<ujsor/>
-Szabó Zoltán más munkavállaló (an.: Lengyel Mária)<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.01-09-943233 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett APIS Irodaszer Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (1044 Budapest, Ã“radna utca 5.; adÃ³szÃ¡ma: 13207087-2-41) kÃ©relme alapjÃ¡n elrendeli az 2010. szeptember 7. napjÃ¡n hozott Cg.01-09-943233 /5. szÃ¡mÃº vÃ©gzÃ©sÃ©nek kijavÃ­tÃ¡sÃ¡t az alÃ¡bbiak szerint:<ujsor/>
+13. A kÃ©pviseletre jogosult(ak) adatai<ujsor/>
+AdÃ³azonosÃ­tÃ³ jel: 8364740687<ujsor/>
+SzabÃ³ ZoltÃ¡n mÃ¡s munkavÃ¡llalÃ³ (an.: Lengyel MÃ¡ria)<ujsor/>
 Jogv. kezdete: 2010.06.01.<ujsor/>
-Vált. vége: 2010.07.08.<ujsor/>
-Törölve (végzés kelte): 2010. szeptember 22.<ujsor/>
-E végzés ellen fellebbezésnek nincs helye, azonban az ügyész, továbbá az, akire a végzés rendelkezést tartalmaz - a rendelkezés õt érintõ részére vonatkozóan - pert indíthat a cég ellen a cég székhelye szerint illetékes megyei bíróság elõtt a bejegyzõ végzés hatályon kívül helyezése iránt.<ujsor/>
-A per megindításának a bejegyzõ végzés Cégközlönyben való közzétételétõl, illetve - közzétételi kötelezettség hiányában - annak kézbesítésétõl számított 30 napon belül van helye. A határidõ elmulasztása jogvesztéssel jár.<ujsor/>
+VÃ¡lt. vÃ©ge: 2010.07.08.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2010. szeptember 22.<ujsor/>
+E vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye, azonban az Ã¼gyÃ©sz, tovÃ¡bbÃ¡ az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s Å‘t Ã©rintÅ‘ rÃ©szÃ©re vonatkozÃ³an - pert indÃ­that a cÃ©g ellen a cÃ©g szÃ©khelye szerint illetÃ©kes megyei bÃ­rÃ³sÃ¡g elÅ‘tt a bejegyzÅ‘ vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt.<ujsor/>
+A per megindÃ­tÃ¡sÃ¡nak a bejegyzÅ‘ vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l, illetve - kÃ¶zzÃ©tÃ©teli kÃ¶telezettsÃ©g hiÃ¡nyÃ¡ban - annak kÃ©zbesÃ­tÃ©sÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l van helye. A hatÃ¡ridÅ‘ elmulasztÃ¡sa jogvesztÃ©ssel jÃ¡r.<ujsor/>
 2010. szeptember 22.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109943233</mezo>
-<mezo id = "nev">APIS Irodaszer Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1044 Budapest, Óradna utca 5.</mezo>
+<mezo id = "nev">APIS Irodaszer Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1044 Budapest, Ã“radna utca 5.</mezo>
 <mezo id = "adosz">13207087241</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az East Shop Kereskedelmi Korlátolt Felelõsségû Társaság (Cg.: [01 09 942708]; székhelye: 1116 Budapest, Barázda u. 42.) átalakul oly módon, hogy abba beolvad az APIS Irodaszer Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság (Cg.: [01 09 943233]; székhelye: 1044 Budapest, Óradna u. 5.).<ujsor/>
-Az átalakulás (egyesülés) módja: beolvadás.<ujsor/>
-A létrejövõ gazdasági társaság fõbb adatai:<ujsor/>
-Cégneve: APIS Irodaszer Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság.<ujsor/>
-Társasági formája: korlátolt felelõsségû társaság.<ujsor/>
-Székhelye: 1044 Budapest, Óradna u. 5.<ujsor/>
-Fõ tevékenysége (TEÁOR ’08): 4649 Egyéb háztartási cikk nagykereskedelme m. n. s.<ujsor/>
-Vezetõ tisztségviselõ: Szapár András (2051 Biatorbágy, Bethlen Gábor u. 50/A).<ujsor/>
-Az átalakulás napja: 2010. december 31.<ujsor/>
-A létrejövõ gazdasági társaság társasági szerzõdése megkötésének napja: 2010. október 29.<ujsor/>
-A beolvadó APIS Irodaszer Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság (2010. augusztus 31.) záró vagyonmérleg-tervezetének ­ könyv szerinti értéken ­ legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 1 135 174 Saját tõke 323 126<ujsor/>
-Forgóeszközök 1 710 117 Jegyzett tõke 70 110<ujsor/>
-Aktív idõbeli elhatárolások 35 445 Eredménytartalék 253 016<ujsor/>
-Kötelezettségek 2 557 610<ujsor/>
-ÖSSZESEN: 2 880 736 ÖSSZESEN: 2 880 736<ujsor/>
-A befogadó East Shop Kereskedelmi Korlátolt Felelõsségû Társaság ­ könyv szerinti értéken ­ átvevõ társaság (2010. augusztus 31.) záró vagyonmérleg-tervezetének ­ könyv szerinti értéken ­ legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök Saját tõke 500<ujsor/>
-Forgóeszközök 500 Jegyzett tõke 500<ujsor/>
-Aktív idõbeli elhatárolások Eredménytartalék<ujsor/>
-Kötelezettségek<ujsor/>
-ÖSSZESEN: 500 ÖSSZESEN: 500<ujsor/>
-Az átalakulással létrejövõ APIS Irodaszer Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság (2010. augusztus 31.) nyitó vagyonmérleg-tervezetének ­ könyv szerinti értéken ­ legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 1 000 653 Saját tõke 189 105<ujsor/>
-Forgóeszközök 1 710 617 Jegyzett tõke 70 610<ujsor/>
-Aktív idõbeli elhatárolások 35 445 Eredménytartalék 118 495<ujsor/>
-Kötelezettségek 2 557 610<ujsor/>
-ÖSSZESEN: 2 746 715 ÖSSZESEN: 2 746 715<ujsor/>
-Az egységnyi üzletrészre jutó saját tõke meghatározása:<ujsor/>
+<mezo id = "szoveg">Az East Shop Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [01 09 942708]; szÃ©khelye: 1116 Budapest, BarÃ¡zda u. 42.) Ã¡talakul oly mÃ³don, hogy abba beolvad az APIS Irodaszer Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [01 09 943233]; szÃ©khelye: 1044 Budapest, Ã“radna u. 5.).<ujsor/>
+Az Ã¡talakulÃ¡s (egyesÃ¼lÃ©s) mÃ³dja: beolvadÃ¡s.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘bb adatai:<ujsor/>
+CÃ©gneve: APIS Irodaszer Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+TÃ¡rsasÃ¡gi formÃ¡ja: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 1044 Budapest, Ã“radna u. 5.<ujsor/>
+FÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™08): 4649 EgyÃ©b hÃ¡ztartÃ¡si cikk nagykereskedelme m. n. s.<ujsor/>
+VezetÅ‘ tisztsÃ©gviselÅ‘: SzapÃ¡r AndrÃ¡s (2051 BiatorbÃ¡gy, Bethlen GÃ¡bor u. 50/A).<ujsor/>
+Az Ã¡talakulÃ¡s napja: 2010. december 31.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g tÃ¡rsasÃ¡gi szerzÅ‘dÃ©se megkÃ¶tÃ©sÃ©nek napja: 2010. oktÃ³ber 29.<ujsor/>
+A beolvadÃ³ APIS Irodaszer Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (2010. augusztus 31.) zÃ¡rÃ³ vagyonmÃ©rleg-tervezetÃ©nek Â­ kÃ¶nyv szerinti Ã©rtÃ©ken Â­ legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 1 135 174 SajÃ¡t tÅ‘ke 323 126<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 1 710 117 Jegyzett tÅ‘ke 70 110<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 35 445 EredmÃ©nytartalÃ©k 253 016<ujsor/>
+KÃ¶telezettsÃ©gek 2 557 610<ujsor/>
+Ã–SSZESEN: 2 880 736 Ã–SSZESEN: 2 880 736<ujsor/>
+A befogadÃ³ East Shop Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g Â­ kÃ¶nyv szerinti Ã©rtÃ©ken Â­ Ã¡tvevÅ‘ tÃ¡rsasÃ¡g (2010. augusztus 31.) zÃ¡rÃ³ vagyonmÃ©rleg-tervezetÃ©nek Â­ kÃ¶nyv szerinti Ã©rtÃ©ken Â­ legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k SajÃ¡t tÅ‘ke 500<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 500 Jegyzett tÅ‘ke 500<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok EredmÃ©nytartalÃ©k<ujsor/>
+KÃ¶telezettsÃ©gek<ujsor/>
+Ã–SSZESEN: 500 Ã–SSZESEN: 500<ujsor/>
+Az Ã¡talakulÃ¡ssal lÃ©trejÃ¶vÅ‘ APIS Irodaszer Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (2010. augusztus 31.) nyitÃ³ vagyonmÃ©rleg-tervezetÃ©nek Â­ kÃ¶nyv szerinti Ã©rtÃ©ken Â­ legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 1 000 653 SajÃ¡t tÅ‘ke 189 105<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 1 710 617 Jegyzett tÅ‘ke 70 610<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 35 445 EredmÃ©nytartalÃ©k 118 495<ujsor/>
+KÃ¶telezettsÃ©gek 2 557 610<ujsor/>
+Ã–SSZESEN: 2 746 715 Ã–SSZESEN: 2 746 715<ujsor/>
+Az egysÃ©gnyi Ã¼zletrÃ©szre jutÃ³ sajÃ¡t tÅ‘ke meghatÃ¡rozÃ¡sa:<ujsor/>
 APIS Irodaszer Kft. East Shop Kft. APIS Irodaszer Kft.<ujsor/>
-átalakulás elõtti átalakulás elõtti létrejövõ társaság<ujsor/>
-Jegyzett tõke 70 110 E Ft 500 E Ft 70 610 E Ft<ujsor/>
-Saját tõke 188 605 E Ft 500 E Ft 189 105 E Ft<ujsor/>
-10 000 Ft üzletrészre jutó saját tõke 26 901,30 Ft 10 000 Ft 26 781,62 Ft<ujsor/>
-A társaságok saját tõkéjének könyv szerinti értéke alapján meghatározott cserearányok:<ujsor/>
-A cserearányok az alábbiak:<ujsor/>
+Ã¡talakulÃ¡s elÅ‘tti Ã¡talakulÃ¡s elÅ‘tti lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g<ujsor/>
+Jegyzett tÅ‘ke 70 110 E Ft 500 E Ft 70 610 E Ft<ujsor/>
+SajÃ¡t tÅ‘ke 188 605 E Ft 500 E Ft 189 105 E Ft<ujsor/>
+10 000 Ft Ã¼zletrÃ©szre jutÃ³ sajÃ¡t tÅ‘ke 26 901,30 Ft 10 000 Ft 26 781,62 Ft<ujsor/>
+A tÃ¡rsasÃ¡gok sajÃ¡t tÅ‘kÃ©jÃ©nek kÃ¶nyv szerinti Ã©rtÃ©ke alapjÃ¡n meghatÃ¡rozott cserearÃ¡nyok:<ujsor/>
+A cserearÃ¡nyok az alÃ¡bbiak:<ujsor/>
 East Shop Kft.: 180 000 Ft/500 000<ujsor/>
-APIS Irodaszer Kft.: 70 430 000 Ft/70 110 000<ujsor/>
-Az APIS Irodaszer Kft. (beolvadó) tulajdonosait összesen 70 430 000 Ft névértékû üzletrész illeti meg az átalakult társaságból, az East Shop Kft. tulajdonosait (átvevõ) 180 000 Ft névértékû üzletrész illeti meg.<ujsor/>
-A beolvadó APIS Irodaszer Kft. ­ jegyzett tõkéje 70 110 E Ft ­ cserearányai az alábbiak tulajdonosonként:<ujsor/>
-Átalakulással létrejövõ Beolvadó<ujsor/>
-APIS Irodaszer Kft. névérték APIS Irodaszer Kft. névérték<ujsor/>
+APIS Irodaszer Kft.: 70 430 000 Ft/70 110Â 000<ujsor/>
+Az APIS Irodaszer Kft. (beolvadÃ³) tulajdonosait Ã¶sszesen 70 430 000 Ft nÃ©vÃ©rtÃ©kÅ± Ã¼zletrÃ©sz illeti meg az Ã¡talakult tÃ¡rsasÃ¡gbÃ³l, az East Shop Kft. tulajdonosait (Ã¡tvevÅ‘) 180 000 Ft nÃ©vÃ©rtÃ©kÅ± Ã¼zletrÃ©sz illeti meg.<ujsor/>
+A beolvadÃ³ APIS Irodaszer Kft. Â­ jegyzett tÅ‘kÃ©je 70 110 E Ft Â­ cserearÃ¡nyai az alÃ¡bbiak tulajdonosonkÃ©nt:<ujsor/>
+ÃtalakulÃ¡ssal lÃ©trejÃ¶vÅ‘ BeolvadÃ³<ujsor/>
+APIS Irodaszer Kft. nÃ©vÃ©rtÃ©k APIS Irodaszer Kft. nÃ©vÃ©rtÃ©k<ujsor/>
 67 610 000 Ft 67 310 000 Ft<ujsor/>
 1 410 000 Ft 1 400 000 Ft<ujsor/>
 1 410 000 Ft 1 400 000 Ft<ujsor/>
-Az átvevõ East Shop Kft. ­ jegyzett tõkéje 500 E Ft ­ cserearányai az alábbiak tulajdonosonként:<ujsor/>
-Átalakulással létrejövõ Átvevõ<ujsor/>
-APIS Irodaszer Kft. névérték East Shop Kft. névérték<ujsor/>
+Az Ã¡tvevÅ‘ East Shop Kft. Â­ jegyzett tÅ‘kÃ©je 500 E Ft Â­ cserearÃ¡nyai az alÃ¡bbiak tulajdonosonkÃ©nt:<ujsor/>
+ÃtalakulÃ¡ssal lÃ©trejÃ¶vÅ‘ ÃtvevÅ‘<ujsor/>
+APIS Irodaszer Kft. nÃ©vÃ©rtÃ©k East Shop Kft. nÃ©vÃ©rtÃ©k<ujsor/>
 180 000 Ft 500 000 Ft<ujsor/>
-Az átalakulással létrejövõ APIS Irodaszer Kft. jegyzett tõkéje, ennek alapján az egyes tulajdonosokat megilletõ üzletrészek névértéke az alábbiak szerint alakul:<ujsor/>
-Tagok neve Cégjegyzékszáma/ Székhelye/lakóhelye Üzletrészek %<ujsor/>
-anyja neve névértéke (Ft)<ujsor/>
-Trendex Invest Zrt. [01 10 046525] 1116 Budapest, Barázda u. 42. 67 790 000 96,0062<ujsor/>
-Retter Zoltán Mátyus Mária 5000 Szolnok, Vidra u. 1. 1 410 000 1,9969<ujsor/>
-Zsíros Pál Bicskei Anikó 5000 Szolnok, Csokonai út 35. I. 3. 1 410 000 1,9969<ujsor/>
-Összesen: 70 610 000 100,0000<ujsor/>
-Tekintettel arra, hogy a jogutód gazdasági társaság saját tõkéjének összege nagyobb, mint a jogelõd gazdasági társaság saját tõkéjének összege volt az átalakulás elhatározásakor, és a tagok felelõssége az átalakuló gazdasági társaság kötelezettségeiért a társaság fennállása alatt korlátozott, ezért a Gt. 76. § (3) bekezdése alapján a társaság a hitelezõi számára biztosíték nyújtására nem köteles.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+Az Ã¡talakulÃ¡ssal lÃ©trejÃ¶vÅ‘ APIS Irodaszer Kft. jegyzett tÅ‘kÃ©je, ennek alapjÃ¡n az egyes tulajdonosokat megilletÅ‘ Ã¼zletrÃ©szek nÃ©vÃ©rtÃ©ke az alÃ¡bbiak szerint alakul:<ujsor/>
+Tagok neve CÃ©gjegyzÃ©kszÃ¡ma/ SzÃ©khelye/lakÃ³helye ÃœzletrÃ©szek %<ujsor/>
+anyja neve nÃ©vÃ©rtÃ©ke (Ft)<ujsor/>
+Trendex Invest Zrt. [01 10 046525] 1116 Budapest, BarÃ¡zda u. 42. 67 790 000 96,0062<ujsor/>
+Retter ZoltÃ¡n MÃ¡tyus MÃ¡ria 5000 Szolnok, Vidra u. 1. 1 410 000 1,9969<ujsor/>
+ZsÃ­ros PÃ¡l Bicskei AnikÃ³ 5000 Szolnok, Csokonai Ãºt 35. I. 3. 1 410 000 1,9969<ujsor/>
+Ã–sszesen: 70 610 000 100,0000<ujsor/>
+Tekintettel arra, hogy a jogutÃ³d gazdasÃ¡gi tÃ¡rsasÃ¡g sajÃ¡t tÅ‘kÃ©jÃ©nek Ã¶sszege nagyobb, mint a jogelÅ‘d gazdasÃ¡gi tÃ¡rsasÃ¡g sajÃ¡t tÅ‘kÃ©jÃ©nek Ã¶sszege volt az Ã¡talakulÃ¡s elhatÃ¡rozÃ¡sakor, Ã©s a tagok felelÅ‘ssÃ©ge az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g kÃ¶telezettsÃ©geiÃ©rt a tÃ¡rsasÃ¡g fennÃ¡llÃ¡sa alatt korlÃ¡tozott, ezÃ©rt a Gt. 76. Â§ (3) bekezdÃ©se alapjÃ¡n a tÃ¡rsasÃ¡g a hitelezÅ‘i szÃ¡mÃ¡ra biztosÃ­tÃ©k nyÃºjtÃ¡sÃ¡ra nem kÃ¶teles.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109943233</mezo>
-<mezo id = "nev">APIS Irodaszer Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">APIS Irodaszer Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1044 Budapest</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az East Shop Kereskedelmi Korlátolt Felelõsségû Társaság (Cg.: [01 09 942708]; székhelye: 1116 Budapest, Barázda u. 42.) átalakul oly módon, hogy abba beolvad az APIS Irodaszer Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság (Cg.: [01 09 943233]; székhelye: 1044 Budapest, Óradna u. 5.).<ujsor/>
-Az átalakulás (egyesülés) módja: beolvadás.<ujsor/>
-A létrejövõ gazdasági társaság fõbb adatai:<ujsor/>
-Cégneve: APIS Irodaszer Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság.<ujsor/>
-Társasági formája: korlátolt felelõsségû társaság.<ujsor/>
-Székhelye: 1044 Budapest, Óradna u. 5.<ujsor/>
-Fõ tevékenysége (TEÁOR ’08): 4649 Egyéb háztartási cikk nagykereskedelme m. n. s.<ujsor/>
-Vezetõ tisztségviselõ: Szapár András (2051 Biatorbágy, Bethlen Gábor u. 50/A).<ujsor/>
-Az átalakulás napja: 2010. december 31.<ujsor/>
-A létrejövõ gazdasági társaság társasági szerzõdése megkötésének napja: 2010. október 29.<ujsor/>
-A beolvadó APIS Irodaszer Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság (2010. augusztus 31.) záró vagyonmérleg-tervezetének ­ könyv szerinti értéken ­ legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 1 135 174 Saját tõke 323 126<ujsor/>
-Forgóeszközök 1 710 117 Jegyzett tõke 70 110<ujsor/>
-Aktív idõbeli elhatárolások 35 445 Eredménytartalék 253 016<ujsor/>
-Kötelezettségek 2 557 610<ujsor/>
-ÖSSZESEN: 2 880 736 ÖSSZESEN: 2 880 736<ujsor/>
-A befogadó East Shop Kereskedelmi Korlátolt Felelõsségû Társaság ­ könyv szerinti értéken ­ átvevõ társaság (2010. augusztus 31.) záró vagyonmérleg-tervezetének ­ könyv szerinti értéken ­ legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök Saját tõke 500<ujsor/>
-Forgóeszközök 500 Jegyzett tõke 500<ujsor/>
-Aktív idõbeli elhatárolások Eredménytartalék<ujsor/>
-Kötelezettségek<ujsor/>
-ÖSSZESEN: 500 ÖSSZESEN: 500<ujsor/>
-Az átalakulással létrejövõ APIS Irodaszer Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság (2010. augusztus 31.) nyitó vagyonmérleg-tervezetének ­ könyv szerinti értéken ­ legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 1 000 653 Saját tõke 189 105<ujsor/>
-Forgóeszközök 1 710 617 Jegyzett tõke 70 610<ujsor/>
-Aktív idõbeli elhatárolások 35 445 Eredménytartalék 118 495<ujsor/>
-Kötelezettségek 2 557 610<ujsor/>
-ÖSSZESEN: 2 746 715 ÖSSZESEN: 2 746 715<ujsor/>
-Az egységnyi üzletrészre jutó saját tõke meghatározása:<ujsor/>
+<mezo id = "szoveg">Az East Shop Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [01 09 942708]; szÃ©khelye: 1116 Budapest, BarÃ¡zda u. 42.) Ã¡talakul oly mÃ³don, hogy abba beolvad az APIS Irodaszer Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [01 09 943233]; szÃ©khelye: 1044 Budapest, Ã“radna u. 5.).<ujsor/>
+Az Ã¡talakulÃ¡s (egyesÃ¼lÃ©s) mÃ³dja: beolvadÃ¡s.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘bb adatai:<ujsor/>
+CÃ©gneve: APIS Irodaszer Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+TÃ¡rsasÃ¡gi formÃ¡ja: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 1044 Budapest, Ã“radna u. 5.<ujsor/>
+FÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™08): 4649 EgyÃ©b hÃ¡ztartÃ¡si cikk nagykereskedelme m. n. s.<ujsor/>
+VezetÅ‘ tisztsÃ©gviselÅ‘: SzapÃ¡r AndrÃ¡s (2051 BiatorbÃ¡gy, Bethlen GÃ¡bor u. 50/A).<ujsor/>
+Az Ã¡talakulÃ¡s napja: 2010. december 31.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g tÃ¡rsasÃ¡gi szerzÅ‘dÃ©se megkÃ¶tÃ©sÃ©nek napja: 2010. oktÃ³ber 29.<ujsor/>
+A beolvadÃ³ APIS Irodaszer Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (2010. augusztus 31.) zÃ¡rÃ³ vagyonmÃ©rleg-tervezetÃ©nek Â­ kÃ¶nyv szerinti Ã©rtÃ©ken Â­ legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 1 135 174 SajÃ¡t tÅ‘ke 323 126<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 1 710 117 Jegyzett tÅ‘ke 70 110<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 35 445 EredmÃ©nytartalÃ©k 253 016<ujsor/>
+KÃ¶telezettsÃ©gek 2 557 610<ujsor/>
+Ã–SSZESEN: 2 880 736 Ã–SSZESEN: 2 880 736<ujsor/>
+A befogadÃ³ East Shop Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g Â­ kÃ¶nyv szerinti Ã©rtÃ©ken Â­ Ã¡tvevÅ‘ tÃ¡rsasÃ¡g (2010. augusztus 31.) zÃ¡rÃ³ vagyonmÃ©rleg-tervezetÃ©nek Â­ kÃ¶nyv szerinti Ã©rtÃ©ken Â­ legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k SajÃ¡t tÅ‘ke 500<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 500 Jegyzett tÅ‘ke 500<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok EredmÃ©nytartalÃ©k<ujsor/>
+KÃ¶telezettsÃ©gek<ujsor/>
+Ã–SSZESEN: 500 Ã–SSZESEN: 500<ujsor/>
+Az Ã¡talakulÃ¡ssal lÃ©trejÃ¶vÅ‘ APIS Irodaszer Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (2010. augusztus 31.) nyitÃ³ vagyonmÃ©rleg-tervezetÃ©nek Â­ kÃ¶nyv szerinti Ã©rtÃ©ken Â­ legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 1 000 653 SajÃ¡t tÅ‘ke 189 105<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 1 710 617 Jegyzett tÅ‘ke 70 610<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 35 445 EredmÃ©nytartalÃ©k 118 495<ujsor/>
+KÃ¶telezettsÃ©gek 2 557 610<ujsor/>
+Ã–SSZESEN: 2 746 715 Ã–SSZESEN: 2 746 715<ujsor/>
+Az egysÃ©gnyi Ã¼zletrÃ©szre jutÃ³ sajÃ¡t tÅ‘ke meghatÃ¡rozÃ¡sa:<ujsor/>
 APIS Irodaszer Kft. East Shop Kft. APIS Irodaszer Kft.<ujsor/>
-átalakulás elõtti átalakulás elõtti létrejövõ társaság<ujsor/>
-Jegyzett tõke 70 110 E Ft 500 E Ft 70 610 E Ft<ujsor/>
-Saját tõke 188 605 E Ft 500 E Ft 189 105 E Ft<ujsor/>
-10 000 Ft üzletrészre jutó saját tõke 26 901,30 Ft 10 000 Ft 26 781,62 Ft<ujsor/>
-A társaságok saját tõkéjének könyv szerinti értéke alapján meghatározott cserearányok:<ujsor/>
-A cserearányok az alábbiak:<ujsor/>
+Ã¡talakulÃ¡s elÅ‘tti Ã¡talakulÃ¡s elÅ‘tti lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g<ujsor/>
+Jegyzett tÅ‘ke 70 110 E Ft 500 E Ft 70 610 E Ft<ujsor/>
+SajÃ¡t tÅ‘ke 188 605 E Ft 500 E Ft 189 105 E Ft<ujsor/>
+10 000 Ft Ã¼zletrÃ©szre jutÃ³ sajÃ¡t tÅ‘ke 26 901,30 Ft 10 000 Ft 26 781,62 Ft<ujsor/>
+A tÃ¡rsasÃ¡gok sajÃ¡t tÅ‘kÃ©jÃ©nek kÃ¶nyv szerinti Ã©rtÃ©ke alapjÃ¡n meghatÃ¡rozott cserearÃ¡nyok:<ujsor/>
+A cserearÃ¡nyok az alÃ¡bbiak:<ujsor/>
 East Shop Kft.: 180 000 Ft/500 000<ujsor/>
-APIS Irodaszer Kft.: 70 430 000 Ft/70 110 000<ujsor/>
-Az APIS Irodaszer Kft. (beolvadó) tulajdonosait összesen 70 430 000 Ft névértékû üzletrész illeti meg az átalakult társaságból, az East Shop Kft. tulajdonosait (átvevõ) 180 000 Ft névértékû üzletrész illeti meg.<ujsor/>
-A beolvadó APIS Irodaszer Kft. ­ jegyzett tõkéje 70 110 E Ft ­ cserearányai az alábbiak tulajdonosonként:<ujsor/>
-Átalakulással létrejövõ Beolvadó<ujsor/>
-APIS Irodaszer Kft. névérték APIS Irodaszer Kft. névérték<ujsor/>
+APIS Irodaszer Kft.: 70 430 000 Ft/70 110Â 000<ujsor/>
+Az APIS Irodaszer Kft. (beolvadÃ³) tulajdonosait Ã¶sszesen 70 430 000 Ft nÃ©vÃ©rtÃ©kÅ± Ã¼zletrÃ©sz illeti meg az Ã¡talakult tÃ¡rsasÃ¡gbÃ³l, az East Shop Kft. tulajdonosait (Ã¡tvevÅ‘) 180 000 Ft nÃ©vÃ©rtÃ©kÅ± Ã¼zletrÃ©sz illeti meg.<ujsor/>
+A beolvadÃ³ APIS Irodaszer Kft. Â­ jegyzett tÅ‘kÃ©je 70 110 E Ft Â­ cserearÃ¡nyai az alÃ¡bbiak tulajdonosonkÃ©nt:<ujsor/>
+ÃtalakulÃ¡ssal lÃ©trejÃ¶vÅ‘ BeolvadÃ³<ujsor/>
+APIS Irodaszer Kft. nÃ©vÃ©rtÃ©k APIS Irodaszer Kft. nÃ©vÃ©rtÃ©k<ujsor/>
 67 610 000 Ft 67 310 000 Ft<ujsor/>
 1 410 000 Ft 1 400 000 Ft<ujsor/>
 1 410 000 Ft 1 400 000 Ft<ujsor/>
-Az átvevõ East Shop Kft. ­ jegyzett tõkéje 500 E Ft ­ cserearányai az alábbiak tulajdonosonként:<ujsor/>
-Átalakulással létrejövõ Átvevõ<ujsor/>
-APIS Irodaszer Kft. névérték East Shop Kft. névérték<ujsor/>
+Az Ã¡tvevÅ‘ East Shop Kft. Â­ jegyzett tÅ‘kÃ©je 500 E Ft Â­ cserearÃ¡nyai az alÃ¡bbiak tulajdonosonkÃ©nt:<ujsor/>
+ÃtalakulÃ¡ssal lÃ©trejÃ¶vÅ‘ ÃtvevÅ‘<ujsor/>
+APIS Irodaszer Kft. nÃ©vÃ©rtÃ©k East Shop Kft. nÃ©vÃ©rtÃ©k<ujsor/>
 180 000 Ft 500 000 Ft<ujsor/>
-Az átalakulással létrejövõ APIS Irodaszer Kft. jegyzett tõkéje, ennek alapján az egyes tulajdonosokat megilletõ üzletrészek névértéke az alábbiak szerint alakul:<ujsor/>
-Tagok neve Cégjegyzékszáma/ Székhelye/lakóhelye Üzletrészek %<ujsor/>
-anyja neve névértéke (Ft)<ujsor/>
-Trendex Invest Zrt. [01 10 046525] 1116 Budapest, Barázda u. 42. 67 790 000 96,0062<ujsor/>
-Retter Zoltán Mátyus Mária 5000 Szolnok, Vidra u. 1. 1 410 000 1,9969<ujsor/>
-Zsíros Pál Bicskei Anikó 5000 Szolnok, Csokonai út 35. I. 3. 1 410 000 1,9969<ujsor/>
-Összesen: 70 610 000 100,0000<ujsor/>
-Tekintettel arra, hogy a jogutód gazdasági társaság saját tõkéjének összege nagyobb, mint a jogelõd gazdasági társaság saját tõkéjének összege volt az átalakulás elhatározásakor, és a tagok felelõssége az átalakuló gazdasági társaság kötelezettségeiért a társaság fennállása alatt korlátozott, ezért a Gt. 76. § (3) bekezdése alapján a társaság a hitelezõi számára biztosíték nyújtására nem köteles.<ujsor/>
-(Második közzététel.)<ujsor/>
+Az Ã¡talakulÃ¡ssal lÃ©trejÃ¶vÅ‘ APIS Irodaszer Kft. jegyzett tÅ‘kÃ©je, ennek alapjÃ¡n az egyes tulajdonosokat megilletÅ‘ Ã¼zletrÃ©szek nÃ©vÃ©rtÃ©ke az alÃ¡bbiak szerint alakul:<ujsor/>
+Tagok neve CÃ©gjegyzÃ©kszÃ¡ma/ SzÃ©khelye/lakÃ³helye ÃœzletrÃ©szek %<ujsor/>
+anyja neve nÃ©vÃ©rtÃ©ke (Ft)<ujsor/>
+Trendex Invest Zrt. [01 10 046525] 1116 Budapest, BarÃ¡zda u. 42. 67 790 000 96,0062<ujsor/>
+Retter ZoltÃ¡n MÃ¡tyus MÃ¡ria 5000 Szolnok, Vidra u. 1. 1 410 000 1,9969<ujsor/>
+ZsÃ­ros PÃ¡l Bicskei AnikÃ³ 5000 Szolnok, Csokonai Ãºt 35. I. 3. 1 410 000 1,9969<ujsor/>
+Ã–sszesen: 70 610 000 100,0000<ujsor/>
+Tekintettel arra, hogy a jogutÃ³d gazdasÃ¡gi tÃ¡rsasÃ¡g sajÃ¡t tÅ‘kÃ©jÃ©nek Ã¶sszege nagyobb, mint a jogelÅ‘d gazdasÃ¡gi tÃ¡rsasÃ¡g sajÃ¡t tÅ‘kÃ©jÃ©nek Ã¶sszege volt az Ã¡talakulÃ¡s elhatÃ¡rozÃ¡sakor, Ã©s a tagok felelÅ‘ssÃ©ge az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g kÃ¶telezettsÃ©geiÃ©rt a tÃ¡rsasÃ¡g fennÃ¡llÃ¡sa alatt korlÃ¡tozott, ezÃ©rt a Gt. 76. Â§ (3) bekezdÃ©se alapjÃ¡n a tÃ¡rsasÃ¡g a hitelezÅ‘i szÃ¡mÃ¡ra biztosÃ­tÃ©k nyÃºjtÃ¡sÃ¡ra nem kÃ¶teles.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109943233</mezo>
-<mezo id = "nev">APIS Irodaszer Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">APIS Irodaszer Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1044 Budapest</mezo>
 </alrovat>
 </rovat>

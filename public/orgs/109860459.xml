@@ -7,14 +7,14 @@
 <mezo id = "nevalrovat">4</mezo>
 <mezo id = "regi_szh">1109007192</mezo>
 <mezo id = "allapot">6</mezo>
-<mezo id = "cim">1202 Budapest, Nagykõrösi út 143. </mezo>
+<mezo id = "cim">1202 Budapest, NagykÅ‘rÃ¶si Ãºt 143. </mezo>
 <mezo id = "adosz">12073687243</mezo>
 </alrovat>
 </rovat>
 <rovat id = "2">
 <alrovat id = "4">
 <mezo id = "hattol">20060413</mezo>
-<mezo id = "nev">RASNA Kereskedelmi Korlátolt Felelõsségû Társaság &quot;felszámolás alatt &quot;</mezo>
+<mezo id = "nev">RASNA Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g &quot;felszÃ¡molÃ¡s alatt &quot;</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -28,14 +28,14 @@
 <mezo id = "irsz">2500</mezo>
 <mezo id = "hely">Esztergom</mezo>
 <mezo id = "teru">Aranyhegyi</mezo>
-<mezo id = "terj">út</mezo>
+<mezo id = "terj">Ãºt</mezo>
 <mezo id = "hsz">7</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20050527</mezo>
 <mezo id = "irsz">1202</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Nagykõrösi út 143.</mezo>
+<mezo id = "teru">NagykÅ‘rÃ¶si Ãºt 143.</mezo>
 <mezo id = "kirsz">0</mezo>
 </alrovat>
 </rovat>
@@ -344,14 +344,14 @@
 <alrovat id = "6">
 <mezo id = "hattol">20060413</mezo>
 <mezo id = "cgjsz">109668454</mezo>
-<mezo id = "nev">RATIS Pénzügyi, Gazdasági és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">RATIS PÃ©nzÃ¼gyi, GazdasÃ¡gi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1054</mezo>
 <mezo id = "hely">Budapest</mezo>
 <mezo id = "teru">Aulich u.</mezo>
 <mezo id = "hsz">7. 1/3.</mezo>
 <mezo id = "pnev">Laczy Eszter</mezo>
-<mezo id = "panev">Ország Mária</mezo>
+<mezo id = "panev">OrszÃ¡g MÃ¡ria</mezo>
 <mezo id = "pirsz">1054</mezo>
 <mezo id = "phely">Budapest, Aulich u. 7. 1/3.</mezo>
 <mezo id = "kepvo">x</mezo>
@@ -386,25 +386,25 @@
 <mezo id = "hattol">20050527</mezo>
 <mezo id = "j">x</mezo>
 <mezo id = "pnev">Makarenya Nataliya</mezo>
-<mezo id = "panev">Ladányi Márta</mezo>
+<mezo id = "panev">LadÃ¡nyi MÃ¡rta</mezo>
 <mezo id = "pkorsz">UA</mezo>
 <mezo id = "pkhely">Zakarpatszkaja , obl. Perecsinszkij r. sz. T. Poljana 358.</mezo>
-<mezo id = "pmnev">Demeter György</mezo>
-<mezo id = "pmanev">Kun Borbála</mezo>
+<mezo id = "pmnev">Demeter GyÃ¶rgy</mezo>
+<mezo id = "pmanev">Kun BorbÃ¡la</mezo>
 <mezo id = "pmirsz">4700</mezo>
-<mezo id = "pmhely">Mátészalka, Katona J. u. 24.</mezo>
+<mezo id = "pmhely">MÃ¡tÃ©szalka, Katona J. u. 24.</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">20050527</mezo>
 <mezo id = "j">x</mezo>
 <mezo id = "pnev">Kafaroy Rasim</mezo>
-<mezo id = "panev">Kári Ilona</mezo>
+<mezo id = "panev">KÃ¡ri Ilona</mezo>
 <mezo id = "pkorsz">UA</mezo>
 <mezo id = "pkhely">Zakarpatszkaja , obl sz. Poroskovo 187.</mezo>
-<mezo id = "pmnev">Demeter György</mezo>
-<mezo id = "pmanev">Kun Borbála</mezo>
+<mezo id = "pmnev">Demeter GyÃ¶rgy</mezo>
+<mezo id = "pmanev">Kun BorbÃ¡la</mezo>
 <mezo id = "pmirsz">4700</mezo>
-<mezo id = "pmhely">Mátészalka, Katona J. u. 24.</mezo>
+<mezo id = "pmhely">MÃ¡tÃ©szalka, Katona J. u. 24.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "93">
@@ -416,75 +416,75 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság<ujsor/>
-9.Fpk.01-05-006226/8. sz. határozata (2006. április 24.)<ujsor/>
-felszámolási eljárás megindításának közzétételérõl<ujsor/>
-A bíróság elrendeli annak a Cégközlönyben való közzétételét, hogy a(z) 2006. április 13. napján jogerõre emelkedett végzésével<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g<ujsor/>
+9.Fpk.01-05-006226/8. sz. hatÃ¡rozata (2006. Ã¡prilis 24.)<ujsor/>
+felszÃ¡molÃ¡si eljÃ¡rÃ¡s megindÃ­tÃ¡sÃ¡nak kÃ¶zzÃ©tÃ©telÃ©rÅ‘l<ujsor/>
+A bÃ­rÃ³sÃ¡g elrendeli annak a CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©t, hogy a(z) 2006. Ã¡prilis 13. napjÃ¡n jogerÅ‘re emelkedett vÃ©gzÃ©sÃ©vel<ujsor/>
 a(z)<ujsor/>
-RASNA Kereskedelmi Korlátolt Felelõsségû Társaság korábbi elnevezése: KATTILA Személy- és Vagyonvédelmi és Szolgáltató KFT., rövidített elnevezése: RASNA KFT., korábbi rövidített elnevezése: KATTILA KFT.<ujsor/>
-(1202 Budapest, Nagykõrösi út 143., korábbi székhelye: 2500 Esztergom, Aranyhegyi u. 7.; cégjegyzékszáma: 01 09 860459; adószáma: 12073687-2-43)<ujsor/>
-adós felszámolását fõeljárásként elrendelte.<ujsor/>
-A bíróság által kijelölt felszámoló:<ujsor/>
-RATIS Pénzügyi Gazdasági és Szolgáltató Kft.,<ujsor/>
+RASNA Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g korÃ¡bbi elnevezÃ©se: KATTILA SzemÃ©ly- Ã©s VagyonvÃ©delmi Ã©s SzolgÃ¡ltatÃ³ KFT., rÃ¶vidÃ­tett elnevezÃ©se: RASNA KFT., korÃ¡bbi rÃ¶vidÃ­tett elnevezÃ©se: KATTILA KFT.<ujsor/>
+(1202 Budapest, NagykÅ‘rÃ¶si Ãºt 143., korÃ¡bbi szÃ©khelye: 2500 Esztergom, Aranyhegyi u. 7.; cÃ©gjegyzÃ©kszÃ¡ma: 01 09 860459; adÃ³szÃ¡ma: 12073687-2-43)<ujsor/>
+adÃ³s felszÃ¡molÃ¡sÃ¡t fÅ‘eljÃ¡rÃ¡skÃ©nt elrendelte.<ujsor/>
+A bÃ­rÃ³sÃ¡g Ã¡ltal kijelÃ¶lt felszÃ¡molÃ³:<ujsor/>
+RATIS PÃ©nzÃ¼gyi GazdasÃ¡gi Ã©s SzolgÃ¡ltatÃ³ Kft.,<ujsor/>
 1054 Budapest, Aulich u. 7. I/3.<ujsor/>
-A felszámolóbiztos(ok):<ujsor/>
+A felszÃ¡molÃ³biztos(ok):<ujsor/>
 Laczy Eszter 1054 Budapest, Aulich u. 7.<ujsor/>
-A felszámolási eljárás megindítására irányuló kérelem benyújtásának<ujsor/>
-idõpontja:<ujsor/>
+A felszÃ¡molÃ¡si eljÃ¡rÃ¡s megindÃ­tÃ¡sÃ¡ra irÃ¡nyulÃ³ kÃ©relem benyÃºjtÃ¡sÃ¡nak<ujsor/>
+idÅ‘pontja:<ujsor/>
 2005. november 18.<ujsor/>
-A felszámolás kezdõ idõpontja: 2006. április 13.<ujsor/>
-A Fõvárosi Bíróság Gazdasági Hivatalánál kezelt elkülönített<ujsor/>
-számla száma:<ujsor/>
+A felszÃ¡molÃ¡s kezdÅ‘ idÅ‘pontja: 2006. Ã¡prilis 13.<ujsor/>
+A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g GazdasÃ¡gi HivatalÃ¡nÃ¡l kezelt elkÃ¼lÃ¶nÃ­tett<ujsor/>
+szÃ¡mla szÃ¡ma:<ujsor/>
 10032000-01483013-24000004.<ujsor/>
-Mindazok, akik az adóssal szemben fennálló követeléseiket a felszámolás során<ujsor/>
-hitelezõként érvényesíteni kívánják, ismert követeléseiket e végzés<ujsor/>
-közzétételétõl számított 40 napon belül jelentsék be a felszámolónak.<ujsor/>
-A felszámoló - a módosított 1991. évi IL. tv. 57. § (1) bekezdés a) és c)<ujsor/>
-pontjában meghatározott követelések kivételével - csak azt a bejelentést veszi<ujsor/>
-nyilvántartásba, amely után az igénybejelentõ a követelés 1 %-át, de legalább<ujsor/>
-1.000 Ft-ot, legfeljebb 100.000 Ft-ot az e végzésben megjelölt számlára -<ujsor/>
-a bírósági ügyszámra (határozat számra) hivatkozással<ujsor/>
-- 40 napon belül befizetett és ezt a felszámoló részére<ujsor/>
+Mindazok, akik az adÃ³ssal szemben fennÃ¡llÃ³ kÃ¶vetelÃ©seiket a felszÃ¡molÃ¡s sorÃ¡n<ujsor/>
+hitelezÅ‘kÃ©nt Ã©rvÃ©nyesÃ­teni kÃ­vÃ¡njÃ¡k, ismert kÃ¶vetelÃ©seiket e vÃ©gzÃ©s<ujsor/>
+kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott 40 napon belÃ¼l jelentsÃ©k be a felszÃ¡molÃ³nak.<ujsor/>
+A felszÃ¡molÃ³ - a mÃ³dosÃ­tott 1991. Ã©vi IL. tv. 57. Â§ (1) bekezdÃ©s a) Ã©s c)<ujsor/>
+pontjÃ¡ban meghatÃ¡rozott kÃ¶vetelÃ©sek kivÃ©telÃ©vel - csak azt a bejelentÃ©st veszi<ujsor/>
+nyilvÃ¡ntartÃ¡sba, amely utÃ¡n az igÃ©nybejelentÅ‘ a kÃ¶vetelÃ©s 1 %-Ã¡t, de legalÃ¡bb<ujsor/>
+1.000 Ft-ot, legfeljebb 100.000 Ft-ot az e vÃ©gzÃ©sben megjelÃ¶lt szÃ¡mlÃ¡ra -<ujsor/>
+a bÃ­rÃ³sÃ¡gi Ã¼gyszÃ¡mra (hatÃ¡rozat szÃ¡mra) hivatkozÃ¡ssal<ujsor/>
+- 40 napon belÃ¼l befizetett Ã©s ezt a felszÃ¡molÃ³ rÃ©szÃ©re<ujsor/>
 igazolta.<ujsor/>
-A közzététel idõpontja: 2006. május 18.<ujsor/>
+A kÃ¶zzÃ©tÃ©tel idÅ‘pontja: 2006. mÃ¡jus 18.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109860459</mezo>
-<mezo id = "nev">RASNA Kereskedelmi Korlátolt Felelõsségû Társaság korábbi elnevezése: KATTILA Személy- és Vagyonvédelmi és Szolgáltató KFT., rövidített elnevezése: RASNA KFT., korábbi rövidített elnevezése: KATTILA KFT.</mezo>
-<mezo id = "cim">1202 Budapest, Nagykõrösi út 143., korábbi székhelye: 2500 Esztergom, Aranyhegyi u. 7.</mezo>
+<mezo id = "nev">RASNA Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g korÃ¡bbi elnevezÃ©se: KATTILA SzemÃ©ly- Ã©s VagyonvÃ©delmi Ã©s SzolgÃ¡ltatÃ³ KFT., rÃ¶vidÃ­tett elnevezÃ©se: RASNA KFT., korÃ¡bbi rÃ¶vidÃ­tett elnevezÃ©se: KATTILA KFT.</mezo>
+<mezo id = "cim">1202 Budapest, NagykÅ‘rÃ¶si Ãºt 143., korÃ¡bbi szÃ©khelye: 2500 Esztergom, Aranyhegyi u. 7.</mezo>
 <mezo id = "adosz">12073687243</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság<ujsor/>
-9.Fpk.01-05-006226/25. sz. végzése<ujsor/>
-egyszerûsített felszámolási eljárás befejezésének közzétételérõl<ujsor/>
-A bíróság elrendeli annak a Cégközlönyben való közzétételét, hogy a(z)<ujsor/>
-RASNA Kereskedelmi Korlátolt Felelõsségû Társaság &quot;felszámolás alatt&quot;<ujsor/>
-(1202 Budapest, Nagykõrösi út 143.; cégjegyzékszáma: 01 09 860459;<ujsor/>
-adószáma: 12073687-2-43) gazdálkodó szervezet elleni felszámolási eljárás,<ujsor/>
-mint egyszerûsített felszámolás, a(z) 2008. január 23. napján kelt és 2008.<ujsor/>
-február 19. napján jogerõre emelkedett végzése alapján befejezõdött.<ujsor/>
-A felszámolás megindítása közzétételének idõpontja:<ujsor/>
-2006. május 18.<ujsor/>
-Budapest, 2008. március 12.<ujsor/>
-A közzététel idõpontja: 2008. március 14.<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g<ujsor/>
+9.Fpk.01-05-006226/25. sz. vÃ©gzÃ©se<ujsor/>
+egyszerÅ±sÃ­tett felszÃ¡molÃ¡si eljÃ¡rÃ¡s befejezÃ©sÃ©nek kÃ¶zzÃ©tÃ©telÃ©rÅ‘l<ujsor/>
+A bÃ­rÃ³sÃ¡g elrendeli annak a CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©t, hogy a(z)<ujsor/>
+RASNA Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g &quot;felszÃ¡molÃ¡s alatt&quot;<ujsor/>
+(1202 Budapest, NagykÅ‘rÃ¶si Ãºt 143.; cÃ©gjegyzÃ©kszÃ¡ma: 01 09 860459;<ujsor/>
+adÃ³szÃ¡ma: 12073687-2-43) gazdÃ¡lkodÃ³ szervezet elleni felszÃ¡molÃ¡si eljÃ¡rÃ¡s,<ujsor/>
+mint egyszerÅ±sÃ­tett felszÃ¡molÃ¡s, a(z) 2008. januÃ¡r 23. napjÃ¡n kelt Ã©s 2008.<ujsor/>
+februÃ¡r 19. napjÃ¡n jogerÅ‘re emelkedett vÃ©gzÃ©se alapjÃ¡n befejezÅ‘dÃ¶tt.<ujsor/>
+A felszÃ¡molÃ¡s megindÃ­tÃ¡sa kÃ¶zzÃ©tÃ©telÃ©nek idÅ‘pontja:<ujsor/>
+2006. mÃ¡jus 18.<ujsor/>
+Budapest, 2008. mÃ¡rcius 12.<ujsor/>
+A kÃ¶zzÃ©tÃ©tel idÅ‘pontja: 2008. mÃ¡rcius 14.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109860459</mezo>
-<mezo id = "nev">RASNA Kereskedelmi Korlátolt Felelõsségû Társaság &quot;felszámolás alatt&quot;</mezo>
+<mezo id = "nev">RASNA Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g &quot;felszÃ¡molÃ¡s alatt&quot;</mezo>
 <mezo id = "adosz">12073687243</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A cég megszûnésére tekintettel a cégjegyzékbõl törölve.<ujsor/>
-A törlés kelte: 2008. 03. 25.<ujsor/>
-A felszámolás befejezésének idõpontja: 2008. 02. 19.<ujsor/>
+<mezo id = "szoveg">A cÃ©g megszÅ±nÃ©sÃ©re tekintettel a cÃ©gjegyzÃ©kbÅ‘l tÃ¶rÃ¶lve.<ujsor/>
+A tÃ¶rlÃ©s kelte: 2008. 03. 25.<ujsor/>
+A felszÃ¡molÃ¡s befejezÃ©sÃ©nek idÅ‘pontja: 2008. 02. 19.<ujsor/>
 Bejegyezve: 2008. 03. 25.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109860459</mezo>
-<mezo id = "nev">RASNA Kereskedelmi Korlátolt Felelõsségû Társaság &quot;felszámolás alatt&quot;</mezo>
-<mezo id = "cim">1202 Budapest, Nagykõrösi út 143.</mezo>
+<mezo id = "nev">RASNA Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g &quot;felszÃ¡molÃ¡s alatt&quot;</mezo>
+<mezo id = "cim">1202 Budapest, NagykÅ‘rÃ¶si Ãºt 143.</mezo>
 <mezo id = "adosz">12073687243</mezo>
 </alrovat>
 </rovat>

@@ -6,7 +6,7 @@
 <mezo id = "szam">708108</mezo>
 <mezo id = "nevalrovat">2</mezo>
 <mezo id = "regi_szh">0609002195</mezo>
-<mezo id = "cim">1135 Budapest, Szegedi út 35-37. </mezo>
+<mezo id = "cim">1135 Budapest, Szegedi Ãºt 35-37. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">11084244441</mezo>
 </alrovat>
@@ -14,13 +14,13 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">19990416</mezo>
-<mezo id = "nev">Szentesi Vasútépítõ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Szentesi VasÃºtÃ©pÃ­tÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "2">
 <mezo id = "hattol">19990416</mezo>
-<mezo id = "nev">Szentesi Vasútépítõ Kft.</mezo>
+<mezo id = "nev">Szentesi VasÃºtÃ©pÃ­tÅ‘ Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
@@ -28,19 +28,19 @@
 <mezo id = "hattol">20030527</mezo>
 <mezo id = "irsz">1135</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Szegedi út 35-37.</mezo>
+<mezo id = "teru">Szegedi Ãºt 35-37.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "7">
 <alrovat id = "3">
 <mezo id = "hattol">19921230</mezo>
 <mezo id = "irsz">6033</mezo>
-<mezo id = "hely">Városföld Vasútállomás</mezo>
+<mezo id = "hely">VÃ¡rosfÃ¶ld VasÃºtÃ¡llomÃ¡s</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">19970929</mezo>
 <mezo id = "irsz">6724</mezo>
-<mezo id = "hely">Szeged Rókus Vasútállomás</mezo>
+<mezo id = "hely">Szeged RÃ³kus VasÃºtÃ¡llomÃ¡s</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20020514</mezo>
@@ -50,7 +50,7 @@
 <alrovat id = "6">
 <mezo id = "hattol">20060522</mezo>
 <mezo id = "irsz">4024</mezo>
-<mezo id = "hely">Debrecen, Petõfi tér 10.</mezo>
+<mezo id = "hely">Debrecen, PetÅ‘fi tÃ©r 10.</mezo>
 <mezo id = "orsz">HU</mezo>
 </alrovat>
 </rovat>
@@ -635,17 +635,17 @@
 <rovat id = "13">
 <alrovat id = "5">
 <mezo id = "hattol">20000925</mezo>
-<mezo id = "tiszt">gazdasági vezetõ</mezo>
-<mezo id = "pnev">Sári Attila</mezo>
-<mezo id = "panev">Szakács Margit</mezo>
+<mezo id = "tiszt">gazdasÃ¡gi vezetÅ‘</mezo>
+<mezo id = "pnev">SÃ¡ri Attila</mezo>
+<mezo id = "panev">SzakÃ¡cs Margit</mezo>
 <mezo id = "pirsz">1144</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Kerepesi út 136-138.</mezo>
+<mezo id = "pteru">Kerepesi Ãºt 136-138.</mezo>
 </alrovat>
 <alrovat id = "11">
 <mezo id = "hattol">20040430</mezo>
-<mezo id = "pnev">Majdajk Péter</mezo>
-<mezo id = "panev">Hliva Irén</mezo>
+<mezo id = "pnev">Majdajk PÃ©ter</mezo>
+<mezo id = "panev">Hliva IrÃ©n</mezo>
 <mezo id = "pirsz">6724</mezo>
 <mezo id = "phely">Szeged, Nyitra utca 13/a. V/15.</mezo>
 <mezo id = "kepve">x</mezo>
@@ -654,9 +654,9 @@
 </alrovat>
 <alrovat id = "19">
 <mezo id = "hattol">20100520</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Justin Ferenc</mezo>
-<mezo id = "panev">Soós Erzsébet</mezo>
+<mezo id = "panev">SoÃ³s ErzsÃ©bet</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20080101</mezo>
 <mezo id = "valtk">20100520</mezo>
@@ -665,9 +665,9 @@
 </alrovat>
 <alrovat id = "21">
 <mezo id = "hattol">20100901</mezo>
-<mezo id = "tiszt">cégvezetõ</mezo>
-<mezo id = "pnev">Majdajk Péter</mezo>
-<mezo id = "panev">Hliva Irén</mezo>
+<mezo id = "tiszt">cÃ©gvezetÅ‘</mezo>
+<mezo id = "pnev">Majdajk PÃ©ter</mezo>
+<mezo id = "panev">Hliva IrÃ©n</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20040430</mezo>
 <mezo id = "valtk">20100901</mezo>
@@ -676,12 +676,12 @@
 </alrovat>
 <alrovat id = "22">
 <mezo id = "hattol">20110525</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Rácz Attila</mezo>
-<mezo id = "panev">Janúrik Anna</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">RÃ¡cz Attila</mezo>
+<mezo id = "panev">JanÃºrik Anna</mezo>
 <mezo id = "pirsz">6600</mezo>
 <mezo id = "phely">Szentes</mezo>
-<mezo id = "pteru">Rákóczi F utca 64.</mezo>
+<mezo id = "pteru">RÃ¡kÃ³czi F utca 64.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20110525</mezo>
 <mezo id = "valtk">20110525</mezo>
@@ -692,26 +692,26 @@
 <rovat id = "14">
 <alrovat id = "6">
 <mezo id = "hattol">20040430</mezo>
-<mezo id = "pnev">Földes Kálmánné</mezo>
-<mezo id = "panev">Varga Erzsébet</mezo>
+<mezo id = "pnev">FÃ¶ldes KÃ¡lmÃ¡nnÃ©</mezo>
+<mezo id = "panev">Varga ErzsÃ©bet</mezo>
 <mezo id = "pirsz">9028</mezo>
-<mezo id = "phely">Gyõr, Farkas Márton utca 8/b.</mezo>
+<mezo id = "phely">GyÅ‘r, Farkas MÃ¡rton utca 8/b.</mezo>
 <mezo id = "jogvk">20040430</mezo>
 <mezo id = "jogvv">20050531</mezo>
 </alrovat>
 <alrovat id = "11">
 <mezo id = "hattol">20090415</mezo>
 <mezo id = "cgjsz">0809006112</mezo>
-<mezo id = "nev">Földes Könyvvizsgáló Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">FÃ¶ldes KÃ¶nyvvizsgÃ¡lÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">9028</mezo>
-<mezo id = "hely">Gyõr</mezo>
-<mezo id = "teru">Farkas Márton út 8. b. ép.</mezo>
-<mezo id = "pnev">Földes Kálmánné</mezo>
-<mezo id = "panev">Varga Erzsébet</mezo>
+<mezo id = "hely">GyÅ‘r</mezo>
+<mezo id = "teru">Farkas MÃ¡rton Ãºt 8. b. Ã©p.</mezo>
+<mezo id = "pnev">FÃ¶ldes KÃ¡lmÃ¡nnÃ©</mezo>
+<mezo id = "panev">Varga ErzsÃ©bet</mezo>
 <mezo id = "pirsz">9028</mezo>
-<mezo id = "phely">Gyõr</mezo>
-<mezo id = "pteru">Frkas Márton út 8. b. ép.</mezo>
+<mezo id = "phely">GyÅ‘r</mezo>
+<mezo id = "pteru">Frkas MÃ¡rton Ãºt 8. b. Ã©p.</mezo>
 <mezo id = "jogvk">20090415</mezo>
 <mezo id = "jogvv">20100531</mezo>
 <mezo id = "valtk">20090415</mezo>
@@ -720,16 +720,16 @@
 <alrovat id = "13">
 <mezo id = "hattol">20110525</mezo>
 <mezo id = "cgjsz">0809006112</mezo>
-<mezo id = "nev">Földes Könyvvizsgáló Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">FÃ¶ldes KÃ¶nyvvizsgÃ¡lÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">9028</mezo>
-<mezo id = "hely">Gyõr</mezo>
-<mezo id = "teru">Farkas Márton út 8. b. ép.</mezo>
-<mezo id = "pnev">Földes Kálmánné</mezo>
-<mezo id = "panev">Varga Erzsébet</mezo>
+<mezo id = "hely">GyÅ‘r</mezo>
+<mezo id = "teru">Farkas MÃ¡rton Ãºt 8. b. Ã©p.</mezo>
+<mezo id = "pnev">FÃ¶ldes KÃ¡lmÃ¡nnÃ©</mezo>
+<mezo id = "panev">Varga ErzsÃ©bet</mezo>
 <mezo id = "pirsz">9028</mezo>
-<mezo id = "phely">Gyõr</mezo>
-<mezo id = "pteru">Farkas Márton út 8. b. ép.</mezo>
+<mezo id = "phely">GyÅ‘r</mezo>
+<mezo id = "pteru">Farkas MÃ¡rton Ãºt 8. b. Ã©p.</mezo>
 <mezo id = "jogvk">20110525</mezo>
 <mezo id = "jogvv">20120531</mezo>
 <mezo id = "valtk">20110525</mezo>
@@ -739,49 +739,49 @@
 <rovat id = "15">
 <alrovat id = "20">
 <mezo id = "hattol">20040430</mezo>
-<mezo id = "pnev">Appelshoffer József</mezo>
-<mezo id = "panev">Dolmány Sarolta</mezo>
+<mezo id = "pnev">Appelshoffer JÃ³zsef</mezo>
+<mezo id = "panev">DolmÃ¡ny Sarolta</mezo>
 <mezo id = "pirsz">1022</mezo>
-<mezo id = "phely">Budapest, Alvinci út 40.</mezo>
+<mezo id = "phely">Budapest, Alvinci Ãºt 40.</mezo>
 <mezo id = "jogvk">20040430</mezo>
 <mezo id = "jogvv">20050531</mezo>
 </alrovat>
 <alrovat id = "21">
 <mezo id = "hattol">20040430</mezo>
-<mezo id = "pnev">Bálint Béla</mezo>
-<mezo id = "panev">Dobó Anna</mezo>
+<mezo id = "pnev">BÃ¡lint BÃ©la</mezo>
+<mezo id = "panev">DobÃ³ Anna</mezo>
 <mezo id = "pirsz">6723</mezo>
-<mezo id = "phely">Szeged, Csongrádi sgt. 75.</mezo>
+<mezo id = "phely">Szeged, CsongrÃ¡di sgt. 75.</mezo>
 <mezo id = "jogvk">20040430</mezo>
 <mezo id = "jogvv">20050531</mezo>
 </alrovat>
 <alrovat id = "22">
 <mezo id = "hattol">20040604</mezo>
 <mezo id = "pnev">Szebeni Lajos</mezo>
-<mezo id = "panev">Kovács Terézia</mezo>
+<mezo id = "panev">KovÃ¡cs TerÃ©zia</mezo>
 <mezo id = "pirsz">9153</mezo>
-<mezo id = "phely">Öttevény, Fõ u. 73.</mezo>
+<mezo id = "phely">Ã–ttevÃ©ny, FÅ‘ u. 73.</mezo>
 <mezo id = "jogvk">20040430</mezo>
 <mezo id = "jogvv">20050531</mezo>
 </alrovat>
 <alrovat id = "41">
 <mezo id = "hattol">20110525</mezo>
-<mezo id = "pnev">Bálint Béla</mezo>
-<mezo id = "panev">Dobó Anna</mezo>
+<mezo id = "pnev">BÃ¡lint BÃ©la</mezo>
+<mezo id = "panev">DobÃ³ Anna</mezo>
 <mezo id = "pirsz">6758</mezo>
-<mezo id = "phely">Röszke</mezo>
-<mezo id = "pteru">Rákóczi utca 4.</mezo>
+<mezo id = "phely">RÃ¶szke</mezo>
+<mezo id = "pteru">RÃ¡kÃ³czi utca 4.</mezo>
 <mezo id = "jogvk">20110525</mezo>
 <mezo id = "valtk">20110525</mezo>
 <mezo id = "bkelt">20110620</mezo>
 </alrovat>
 <alrovat id = "42">
 <mezo id = "hattol">20110525</mezo>
-<mezo id = "pnev">dr. Hegedûs Terézia</mezo>
+<mezo id = "pnev">dr. HegedÅ±s TerÃ©zia</mezo>
 <mezo id = "panev">Flock Anna</mezo>
 <mezo id = "pirsz">1025</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Felsõ Zöldmáli út 111.</mezo>
+<mezo id = "pteru">FelsÅ‘ ZÃ¶ldmÃ¡li Ãºt 111.</mezo>
 <mezo id = "jogvk">20110525</mezo>
 <mezo id = "valtk">20110525</mezo>
 <mezo id = "bkelt">20110620</mezo>
@@ -789,10 +789,10 @@
 <alrovat id = "43">
 <mezo id = "hattol">20110525</mezo>
 <mezo id = "pnev">Nagy Benedek</mezo>
-<mezo id = "panev">Zohány Erzsébet</mezo>
+<mezo id = "panev">ZohÃ¡ny ErzsÃ©bet</mezo>
 <mezo id = "pirsz">3324</mezo>
-<mezo id = "phely">Felsõtárkány</mezo>
-<mezo id = "pteru">Ifjúság utca 7.</mezo>
+<mezo id = "phely">FelsÅ‘tÃ¡rkÃ¡ny</mezo>
+<mezo id = "pteru">IfjÃºsÃ¡g utca 7.</mezo>
 <mezo id = "jogvk">20110525</mezo>
 <mezo id = "valtk">20110525</mezo>
 <mezo id = "bkelt">20110620</mezo>
@@ -827,10 +827,10 @@
 <mezo id = "irsz">9800</mezo>
 <mezo id = "hely">Spittal an der Drau</mezo>
 <mezo id = "teru">Ortenburgerstrasse 27.</mezo>
-<mezo id = "pcnev">Számító- és Ügyviteli Központ Korlátolt Felelõsségû Társaság (Cg.01-09-078015)</mezo>
+<mezo id = "pcnev">SzÃ¡mÃ­tÃ³- Ã©s Ãœgyviteli KÃ¶zpont KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.01-09-078015)</mezo>
 <mezo id = "pcirsz">1135</mezo>
 <mezo id = "pchely">Budapest</mezo>
-<mezo id = "pcteru">Szegedi út 35-37.</mezo>
+<mezo id = "pcteru">Szegedi Ãºt 35-37.</mezo>
 <mezo id = "tagsk">20090430</mezo>
 <mezo id = "sz2">x</mezo>
 <mezo id = "valtk">20090430</mezo>
@@ -847,76 +847,76 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2002. 08. 15-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-12. A társaság cégjegyzése akként történik, hogy a társaság nyomtatott, elõírt vagy elõnyomott cégszövege alá az ügyvezetõ és a mûszaki helyettese vagy gazdasági helyettese együttesen írják alá teljes nevüket.<ujsor/>
- Törölve: 2002. 05. 14-i hatállyal.<ujsor/>
- Két ügyvezetõ együttesen, vagy ügyvezetõ és a cégvezetõ együttesen jegyzi a céget.<ujsor/>
- Hatályos: 2002. 05. 14-tõl.<ujsor/>
-13. Sári Attila (an: Szakács Margit) gazdasági vezetõ<ujsor/>
-1144 Budapest, Kerepesi út 136-138.<ujsor/>
- Törölve: 2002. 05. 14-i hatállyal.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2002. 08. 15-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+12. A tÃ¡rsasÃ¡g cÃ©gjegyzÃ©se akkÃ©nt tÃ¶rtÃ©nik, hogy a tÃ¡rsasÃ¡g nyomtatott, elÅ‘Ã­rt vagy elÅ‘nyomott cÃ©gszÃ¶vege alÃ¡ az Ã¼gyvezetÅ‘ Ã©s a mÅ±szaki helyettese vagy gazdasÃ¡gi helyettese egyÃ¼ttesen Ã­rjÃ¡k alÃ¡ teljes nevÃ¼ket.<ujsor/>
+ TÃ¶rÃ¶lve: 2002. 05. 14-i hatÃ¡llyal.<ujsor/>
+ KÃ©t Ã¼gyvezetÅ‘ egyÃ¼ttesen, vagy Ã¼gyvezetÅ‘ Ã©s a cÃ©gvezetÅ‘ egyÃ¼ttesen jegyzi a cÃ©get.<ujsor/>
+ HatÃ¡lyos: 2002. 05. 14-tÅ‘l.<ujsor/>
+13. SÃ¡ri Attila (an: SzakÃ¡cs Margit) gazdasÃ¡gi vezetÅ‘<ujsor/>
+1144 Budapest, Kerepesi Ãºt 136-138.<ujsor/>
+ TÃ¶rÃ¶lve: 2002. 05. 14-i hatÃ¡llyal.<ujsor/>
 Bejegyezve: 2003. 02. 10.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109708108</mezo>
-<mezo id = "nev">Szentesi Vasútépítõ Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1113 Budapest, Daróci u. 30.</mezo>
+<mezo id = "nev">Szentesi VasÃºtÃ©pÃ­tÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1113 Budapest, DarÃ³ci u. 30.</mezo>
 <mezo id = "adosz">11084244243</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A STRABAG Építõ Részvénytársaság (Cg.: [01 10 044850]; 1135 Budapest, Szegedi út 35-37.) közzéteszi, hogy a Szentesi Vasútépítõ Korlátolt Felelõsségû Társaságban (Cg.: [01 09 708108]; 1113 Budapest, Daróci út 30.) 2002. december 31-én jogutódlással 99,9%-os, közvetlen irányítást biztosító befolyást szerzett.<ujsor/>
-A hitelezõk a Gt. 296. § (2) bekezdése szerinti jogaikat gyakorolhatják.<ujsor/>
+<mezo id = "szoveg">A STRABAG Ã‰pÃ­tÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 044850]; 1135 Budapest, Szegedi Ãºt 35-37.) kÃ¶zzÃ©teszi, hogy a Szentesi VasÃºtÃ©pÃ­tÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gban (Cg.: [01 09 708108]; 1113 Budapest, DarÃ³ci Ãºt 30.) 2002. december 31-Ã©n jogutÃ³dlÃ¡ssal 99,9%-os, kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡st szerzett.<ujsor/>
+A hitelezÅ‘k a Gt. 296. Â§ (2) bekezdÃ©se szerinti jogaikat gyakorolhatjÃ¡k.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109708108</mezo>
-<mezo id = "nev">Szentesi Vasútépítõ Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1113 Budapest, Daróci u. 30. </mezo>
+<mezo id = "nev">Szentesi VasÃºtÃ©pÃ­tÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1113 Budapest, DarÃ³ci u. 30. </mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2005. 07. 25-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-14. Földes Kálmánné (an: Varga Erzsébet)<ujsor/>
-9028 Gyõr, Farkas Márton utca 8/b.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2005. 07. 25-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+14. FÃ¶ldes KÃ¡lmÃ¡nnÃ© (an: Varga ErzsÃ©bet)<ujsor/>
+9028 GyÅ‘r, Farkas MÃ¡rton utca 8/b.<ujsor/>
  A jogviszony kezdete: 2004. 04. 30.<ujsor/>
- A jogviszony vége: 2005. 05. 31.<ujsor/>
- Törölve: 2005. 05. 18-i hatállyal.<ujsor/>
- Földes Kálmánné (an: Varga Erzsébet)<ujsor/>
-9028 Gyõr, Farkas Márton utca 8/b.<ujsor/>
+ A jogviszony vÃ©ge: 2005. 05. 31.<ujsor/>
+ TÃ¶rÃ¶lve: 2005. 05. 18-i hatÃ¡llyal.<ujsor/>
+ FÃ¶ldes KÃ¡lmÃ¡nnÃ© (an: Varga ErzsÃ©bet)<ujsor/>
+9028 GyÅ‘r, Farkas MÃ¡rton utca 8/b.<ujsor/>
  A jogviszony kezdete: 2005. 05. 18.<ujsor/>
- A jogviszony vége: 2006. 05. 31.<ujsor/>
- Hatályos: 2005. 05. 18-tól.<ujsor/>
-15. Appelshoffer József (an: Dolmány Sarolta)<ujsor/>
-1022 Budapest, Alvinci út 40.<ujsor/>
+ A jogviszony vÃ©ge: 2006. 05. 31.<ujsor/>
+ HatÃ¡lyos: 2005. 05. 18-tÃ³l.<ujsor/>
+15. Appelshoffer JÃ³zsef (an: DolmÃ¡ny Sarolta)<ujsor/>
+1022 Budapest, Alvinci Ãºt 40.<ujsor/>
  A jogviszony kezdete: 2004. 04. 30.<ujsor/>
- A jogviszony vége: 2005. 05. 31.<ujsor/>
- Bálint Béla (an: Dobó Anna)<ujsor/>
-6723 Szeged, Csongrádi sgt. 75.<ujsor/>
+ A jogviszony vÃ©ge: 2005. 05. 31.<ujsor/>
+ BÃ¡lint BÃ©la (an: DobÃ³ Anna)<ujsor/>
+6723 Szeged, CsongrÃ¡di sgt. 75.<ujsor/>
  A jogviszony kezdete: 2004. 04. 30.<ujsor/>
- A jogviszony vége: 2005. 05. 31.<ujsor/>
- Szebeni Lajos (an: Kovács Terézia)<ujsor/>
-9153 Öttevény, Fõ u. 73.<ujsor/>
+ A jogviszony vÃ©ge: 2005. 05. 31.<ujsor/>
+ Szebeni Lajos (an: KovÃ¡cs TerÃ©zia)<ujsor/>
+9153 Ã–ttevÃ©ny, FÅ‘ u. 73.<ujsor/>
  A jogviszony kezdete: 2004. 04. 30.<ujsor/>
- A jogviszony vége: 2005. 05. 31.<ujsor/>
- Törölve: 2005. 05. 18-i hatállyal.<ujsor/>
- Appelshoffer József (an: Dolmány Sarolta)<ujsor/>
-1022 Budapest, Alvinci út 40.<ujsor/>
+ A jogviszony vÃ©ge: 2005. 05. 31.<ujsor/>
+ TÃ¶rÃ¶lve: 2005. 05. 18-i hatÃ¡llyal.<ujsor/>
+ Appelshoffer JÃ³zsef (an: DolmÃ¡ny Sarolta)<ujsor/>
+1022 Budapest, Alvinci Ãºt 40.<ujsor/>
  A jogviszony kezdete: 2005. 05. 18.<ujsor/>
- A jogviszony vége: 2006. 05. 31.<ujsor/>
- Bálint Béla (an: Dobó Anna)<ujsor/>
-6758 Röszke, Rákóczi utca 4.<ujsor/>
+ A jogviszony vÃ©ge: 2006. 05. 31.<ujsor/>
+ BÃ¡lint BÃ©la (an: DobÃ³ Anna)<ujsor/>
+6758 RÃ¶szke, RÃ¡kÃ³czi utca 4.<ujsor/>
  A jogviszony kezdete: 2005. 05. 18.<ujsor/>
- A jogviszony vége: 2006. 05. 31.<ujsor/>
- Szebeni Lajos (an: Kovács Terézia)<ujsor/>
-9153 Öttevény, Fõ u. 73.<ujsor/>
+ A jogviszony vÃ©ge: 2006. 05. 31.<ujsor/>
+ Szebeni Lajos (an: KovÃ¡cs TerÃ©zia)<ujsor/>
+9153 Ã–ttevÃ©ny, FÅ‘ u. 73.<ujsor/>
  A jogviszony kezdete: 2005. 05. 18.<ujsor/>
- A jogviszony vége: 2006. 05. 31.<ujsor/>
- Hatályos: 2005. 05. 18-tól.<ujsor/>
+ A jogviszony vÃ©ge: 2006. 05. 31.<ujsor/>
+ HatÃ¡lyos: 2005. 05. 18-tÃ³l.<ujsor/>
 Bejegyezve: 2005. 09. 20.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109708108</mezo>
-<mezo id = "nev">Szentesi Vasútépítõ Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1135 Budapest, Szegedi út 35-37.</mezo>
+<mezo id = "nev">Szentesi VasÃºtÃ©pÃ­tÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1135 Budapest, Szegedi Ãºt 35-37.</mezo>
 <mezo id = "adosz">11084244241</mezo>
 </alrovat>
 </rovat>

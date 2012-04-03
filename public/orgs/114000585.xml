@@ -6,7 +6,7 @@
 <mezo id = "szam">000585</mezo>
 <mezo id = "nevalrovat">1</mezo>
 <mezo id = "allapot">3</mezo>
-<mezo id = "cim">1092 Budapest, Bakáts tér 10. </mezo>
+<mezo id = "cim">1092 Budapest, BakÃ¡ts tÃ©r 10. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">22140898243</mezo>
 </alrovat>
@@ -14,7 +14,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20050411</mezo>
-<mezo id = "nev">Schöpf-Mérei Ágost Kórház és Anyavédelmi Központ Közhasznú Társaság</mezo>
+<mezo id = "nev">SchÃ¶pf-MÃ©rei Ãgost KÃ³rhÃ¡z Ã©s AnyavÃ©delmi KÃ¶zpont KÃ¶zhasznÃº TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
@@ -22,7 +22,7 @@
 <mezo id = "hattol">20050411</mezo>
 <mezo id = "irsz">1092</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Bakáts tér 10.</mezo>
+<mezo id = "teru">BakÃ¡ts tÃ©r 10.</mezo>
 <mezo id = "kirsz">0</mezo>
 </alrovat>
 </rovat>
@@ -30,7 +30,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20050411</mezo>
 <mezo id = "irsz">1092</mezo>
-<mezo id = "hely">Budapest, Bakáts tér 9.</mezo>
+<mezo id = "hely">Budapest, BakÃ¡ts tÃ©r 9.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "8">
@@ -415,10 +415,10 @@
 <rovat id = "13">
 <alrovat id = "1">
 <mezo id = "hattol">20050411</mezo>
-<mezo id = "pnev">Dr. Garamvölgyi György József</mezo>
-<mezo id = "panev">Székely Edit</mezo>
+<mezo id = "pnev">Dr. GaramvÃ¶lgyi GyÃ¶rgy JÃ³zsef</mezo>
+<mezo id = "panev">SzÃ©kely Edit</mezo>
 <mezo id = "pirsz">2483</mezo>
-<mezo id = "phely">Gárdony, Csokonai utca 62.</mezo>
+<mezo id = "phely">GÃ¡rdony, Csokonai utca 62.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">2</mezo>
 <mezo id = "jogvk">20050103</mezo>
@@ -429,15 +429,15 @@
 <alrovat id = "4">
 <mezo id = "hattol">20110131</mezo>
 <mezo id = "cgjsz">0109464994</mezo>
-<mezo id = "nev">Szabó és Társa Könyvvizsgáló Kft</mezo>
+<mezo id = "nev">SzabÃ³ Ã©s TÃ¡rsa KÃ¶nyvvizsgÃ¡lÃ³ Kft</mezo>
 <mezo id = "irsz">1214</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Erdõsor u. 57.</mezo>
-<mezo id = "pnev">Szabó Klára</mezo>
-<mezo id = "panev">Lakatos Mária</mezo>
+<mezo id = "teru">ErdÅ‘sor u. 57.</mezo>
+<mezo id = "pnev">SzabÃ³ KlÃ¡ra</mezo>
+<mezo id = "panev">Lakatos MÃ¡ria</mezo>
 <mezo id = "pirsz">1212</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Csepeli Mátyás u. 21.</mezo>
+<mezo id = "pteru">Csepeli MÃ¡tyÃ¡s u. 21.</mezo>
 <mezo id = "jogvk">20110101</mezo>
 <mezo id = "jogvv">20110731</mezo>
 <mezo id = "valtk">20110131</mezo>
@@ -447,11 +447,11 @@
 <rovat id = "15">
 <alrovat id = "15">
 <mezo id = "hattol">20110131</mezo>
-<mezo id = "pnev">dr. Gerõ Gábor</mezo>
-<mezo id = "panev">Frankl Kornélia</mezo>
+<mezo id = "pnev">dr. GerÅ‘ GÃ¡bor</mezo>
+<mezo id = "panev">Frankl KornÃ©lia</mezo>
 <mezo id = "pirsz">2120</mezo>
 <mezo id = "phely">Dunakeszi</mezo>
-<mezo id = "pteru">Vajda János u. 25.</mezo>
+<mezo id = "pteru">Vajda JÃ¡nos u. 25.</mezo>
 <mezo id = "jogvk">20110101</mezo>
 <mezo id = "jogvv">20110731</mezo>
 <mezo id = "valtk">20110131</mezo>
@@ -460,7 +460,7 @@
 <alrovat id = "16">
 <mezo id = "hattol">20110131</mezo>
 <mezo id = "pnev">dr. Kiss Imre</mezo>
-<mezo id = "panev">Vígh Julianna</mezo>
+<mezo id = "panev">VÃ­gh Julianna</mezo>
 <mezo id = "pirsz">1055</mezo>
 <mezo id = "phely">Budapest</mezo>
 <mezo id = "pteru">Balaton u. 25.</mezo>
@@ -472,10 +472,10 @@
 <alrovat id = "17">
 <mezo id = "hattol">20110131</mezo>
 <mezo id = "pnev">Egry Attila</mezo>
-<mezo id = "panev">Kétes Mária</mezo>
+<mezo id = "panev">KÃ©tes MÃ¡ria</mezo>
 <mezo id = "pirsz">1032</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Teszársz K u. 5.</mezo>
+<mezo id = "pteru">TeszÃ¡rsz K u. 5.</mezo>
 <mezo id = "jogvk">20110101</mezo>
 <mezo id = "jogvv">20110731</mezo>
 <mezo id = "valtk">20110131</mezo>
@@ -506,10 +506,10 @@
 <rovat id = "0214">
 <alrovat id = "1">
 <mezo id = "hattol">20050411</mezo>
-<mezo id = "nev">Fõvárosi Önkormányzat</mezo>
+<mezo id = "nev">FÅ‘vÃ¡rosi Ã–nkormÃ¡nyzat</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1052</mezo>
-<mezo id = "hely">Budapest Városház u.</mezo>
+<mezo id = "hely">Budapest VÃ¡roshÃ¡z u.</mezo>
 <mezo id = "hsz">9-11.</mezo>
 </alrovat>
 </rovat>
@@ -522,75 +522,75 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság elõtt bejegyzett Schöpf-Mérei Ágost Kórház és Anyavédelmi Központ Közhasznú Társaság (Cg.: [01 14 000585]; székhelye: Budapest IX., Bakáts tér 10.) kizárólagos tulajdonosa/alapítója a Fõvárosi Önkormányzat 2006. szeptember 27-én megtartott Fõvárosi Közgyûlésén az 1521/2007. (IX. 27.) Fõv. Kgy. határozatával elhatározta, hogy a társaság törzstõkéjét 16 010 000 forinttal leszállítja, 154 400 000 Ft-ról 138 390 000 Ft-ra, tõkekivonással. A társaság pénzügyi, vagyoni helyzete miatt a biztosítékadás indokolatlan.<ujsor/>
-Felhívjuk a társaság hitelezõinek a figyelmét, hogy a törzstõke leszállításához hozzá nem járuló hitelezõk követeléseiket a hirdetmény utolsó közzétételétõl számított 30 napon belül jelentsék be a társaság székhelyén.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g elÅ‘tt bejegyzett SchÃ¶pf-MÃ©rei Ãgost KÃ³rhÃ¡z Ã©s AnyavÃ©delmi KÃ¶zpont KÃ¶zhasznÃº TÃ¡rsasÃ¡g (Cg.: [01 14 000585]; szÃ©khelye: Budapest IX., BakÃ¡ts tÃ©r 10.) kizÃ¡rÃ³lagos tulajdonosa/alapÃ­tÃ³ja a FÅ‘vÃ¡rosi Ã–nkormÃ¡nyzat 2006. szeptember 27-Ã©n megtartott FÅ‘vÃ¡rosi KÃ¶zgyÅ±lÃ©sÃ©n az 1521/2007. (IX. 27.) FÅ‘v. Kgy. hatÃ¡rozatÃ¡val elhatÃ¡rozta, hogy a tÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©jÃ©t 16 010 000 forinttal leszÃ¡llÃ­tja, 154 400 000 Ft-rÃ³l 138 390 000 Ft-ra, tÅ‘kekivonÃ¡ssal. A tÃ¡rsasÃ¡g pÃ©nzÃ¼gyi, vagyoni helyzete miatt a biztosÃ­tÃ©kadÃ¡s indokolatlan.<ujsor/>
+FelhÃ­vjuk a tÃ¡rsasÃ¡g hitelezÅ‘inek a figyelmÃ©t, hogy a tÃ¶rzstÅ‘ke leszÃ¡llÃ­tÃ¡sÃ¡hoz hozzÃ¡ nem jÃ¡rulÃ³ hitelezÅ‘k kÃ¶vetelÃ©seiket a hirdetmÃ©ny utolsÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l jelentsÃ©k be a tÃ¡rsasÃ¡g szÃ©khelyÃ©n.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0114000585</mezo>
-<mezo id = "nev">Schöpf-Mérei Ágost Kórház és Anyavédelmi Központ Közhasznú Társaság</mezo>
+<mezo id = "nev">SchÃ¶pf-MÃ©rei Ãgost KÃ³rhÃ¡z Ã©s AnyavÃ©delmi KÃ¶zpont KÃ¶zhasznÃº TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1092 Budapest</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság elõtt bejegyzett Schöpf-Mérei Ágost Kórház és Anyavédelmi Központ Közhasznú Társaság (Cg.: [01 14 000585]; székhelye: Budapest IX., Bakáts tér 10.) kizárólagos tulajdonosa/alapítója a Fõvárosi Önkormányzat 2006. szeptember 27-én megtartott Fõvárosi Közgyûlésén az 1521/2007. (IX. 27.) Fõv. Kgy. határozatával elhatározta, hogy a társaság törzstõkéjét 16 010 000 forinttal leszállítja, 154 400 000 Ft-ról 138 390 000 Ft-ra, tõkekivonással. A társaság pénzügyi, vagyoni helyzete miatt a biztosítékadás indokolatlan.<ujsor/>
-Felhívjuk a társaság hitelezõinek a figyelmét, hogy a törzstõke leszállításához hozzá nem járuló hitelezõk követeléseiket a hirdetmény utolsó közzétételétõl számított 30 napon belül jelentsék be a társaság székhelyén.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g elÅ‘tt bejegyzett SchÃ¶pf-MÃ©rei Ãgost KÃ³rhÃ¡z Ã©s AnyavÃ©delmi KÃ¶zpont KÃ¶zhasznÃº TÃ¡rsasÃ¡g (Cg.: [01 14 000585]; szÃ©khelye: Budapest IX., BakÃ¡ts tÃ©r 10.) kizÃ¡rÃ³lagos tulajdonosa/alapÃ­tÃ³ja a FÅ‘vÃ¡rosi Ã–nkormÃ¡nyzat 2006. szeptember 27-Ã©n megtartott FÅ‘vÃ¡rosi KÃ¶zgyÅ±lÃ©sÃ©n az 1521/2007. (IX. 27.) FÅ‘v. Kgy. hatÃ¡rozatÃ¡val elhatÃ¡rozta, hogy a tÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©jÃ©t 16 010 000 forinttal leszÃ¡llÃ­tja, 154 400 000 Ft-rÃ³l 138 390 000 Ft-ra, tÅ‘kekivonÃ¡ssal. A tÃ¡rsasÃ¡g pÃ©nzÃ¼gyi, vagyoni helyzete miatt a biztosÃ­tÃ©kadÃ¡s indokolatlan.<ujsor/>
+FelhÃ­vjuk a tÃ¡rsasÃ¡g hitelezÅ‘inek a figyelmÃ©t, hogy a tÃ¶rzstÅ‘ke leszÃ¡llÃ­tÃ¡sÃ¡hoz hozzÃ¡ nem jÃ¡rulÃ³ hitelezÅ‘k kÃ¶vetelÃ©seiket a hirdetmÃ©ny utolsÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l jelentsÃ©k be a tÃ¡rsasÃ¡g szÃ©khelyÃ©n.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0114000585</mezo>
-<mezo id = "nev">Schöpf-Mérei Ágost Kórház és Anyavédelmi Központ Közhasznú Társaság</mezo>
+<mezo id = "nev">SchÃ¶pf-MÃ©rei Ãgost KÃ³rhÃ¡z Ã©s AnyavÃ©delmi KÃ¶zpont KÃ¶zhasznÃº TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1092 Budapest</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a cég 2008. 01. 28. napján<ujsor/>
-benyújtott változás bejegyzése iránti kérelmét elutasítja.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a cÃ©g 2008. 01. 28. napjÃ¡n<ujsor/>
+benyÃºjtott vÃ¡ltozÃ¡s bejegyzÃ©se irÃ¡nti kÃ©relmÃ©t elutasÃ­tja.<ujsor/>
 2008. 04. 01.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0114000585</mezo>
-<mezo id = "nev">Schöpf-Mérei Ágost Kórház és Anyavédelmi Központ Közhasznú Társaság</mezo>
-<mezo id = "cim">1092 Budapest, Bakáts tér 10.</mezo>
+<mezo id = "nev">SchÃ¶pf-MÃ©rei Ãgost KÃ³rhÃ¡z Ã©s AnyavÃ©delmi KÃ¶zpont KÃ¶zhasznÃº TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1092 Budapest, BakÃ¡ts tÃ©r 10.</mezo>
 <mezo id = "adosz">22140898243</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a Cégközlönyben közzéteszi a fenti gazdálkodó szervezet végelszámolási eljárásának megindítását.<ujsor/>
-A végelszámolást elrendelõ szerv neve: tagok gyûlése.<ujsor/>
-A megszûnés elhatározásának idõpontja: 2008. 07. 24.<ujsor/>
-A végelszámolás kezdõ idõpontja: 2008. 08. 01.<ujsor/>
-Törölni rendelt cégjegyzésre jogosult(ak):<ujsor/>
- A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (tisztségviselõ).<ujsor/>
- Dr. Garamvölgyi György József (an: Székely Edit)<ujsor/>
-2483 Gárdony, Csokonai utca 62.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a CÃ©gkÃ¶zlÃ¶nyben kÃ¶zzÃ©teszi a fenti gazdÃ¡lkodÃ³ szervezet vÃ©gelszÃ¡molÃ¡si eljÃ¡rÃ¡sÃ¡nak megindÃ­tÃ¡sÃ¡t.<ujsor/>
+A vÃ©gelszÃ¡molÃ¡st elrendelÅ‘ szerv neve: tagok gyÅ±lÃ©se.<ujsor/>
+A megszÅ±nÃ©s elhatÃ¡rozÃ¡sÃ¡nak idÅ‘pontja: 2008. 07. 24.<ujsor/>
+A vÃ©gelszÃ¡molÃ¡s kezdÅ‘ idÅ‘pontja: 2008. 08. 01.<ujsor/>
+TÃ¶rÃ¶lni rendelt cÃ©gjegyzÃ©sre jogosult(ak):<ujsor/>
+ A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (tisztsÃ©gviselÅ‘).<ujsor/>
+ Dr. GaramvÃ¶lgyi GyÃ¶rgy JÃ³zsef (an: SzÃ©kely Edit)<ujsor/>
+2483 GÃ¡rdony, Csokonai utca 62.<ujsor/>
  A jogviszony kezdete: 2005. 01. 03.<ujsor/>
- A jogviszony vége: 2010. 01. 02.<ujsor/>
- A változás idõpontja: 2008. 08. 01.<ujsor/>
- Törölve: 2008. 08. 01.<ujsor/>
-Végelszámoló(k) és cégjegyzésre jogosult(ak):<ujsor/>
- A képviselet módja: önálló.<ujsor/>
- Tisztsége: végelszámoló.<ujsor/>
- Dencsi József (an: Vellai Ida)<ujsor/>
-1112 Budapest, Neszményi út 11. B. ép. I. em. 2. a.<ujsor/>
- [01 09 068180] Balance Adó- és Ügyviteli Szolgáltató Kft<ujsor/>
-HU 1119 Budapest, Fehérvári út 44. III .  311.<ujsor/>
+ A jogviszony vÃ©ge: 2010. 01. 02.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 08. 01.<ujsor/>
+ TÃ¶rÃ¶lve: 2008. 08. 01.<ujsor/>
+VÃ©gelszÃ¡molÃ³(k) Ã©s cÃ©gjegyzÃ©sre jogosult(ak):<ujsor/>
+ A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vÃ©gelszÃ¡molÃ³.<ujsor/>
+ Dencsi JÃ³zsef (an: Vellai Ida)<ujsor/>
+1112 Budapest, NeszmÃ©nyi Ãºt 11. B. Ã©p. I. em. 2. a.<ujsor/>
+ [01 09 068180] Balance AdÃ³- Ã©s Ãœgyviteli SzolgÃ¡ltatÃ³ Kft<ujsor/>
+HU 1119 Budapest, FehÃ©rvÃ¡ri Ãºt 44. III .  311.<ujsor/>
  A jogviszony kezdete: 2008. 08. 01.<ujsor/>
- A változás idõpontja: 2008. 08. 01.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 08. 01.<ujsor/>
  Bejegyezve: 2008. 08. 01.<ujsor/>
-A bíróság felhívja a végelszámolás alatt<ujsor/>
-álló cég hitelezõit, hogy ismert<ujsor/>
-követeléseiket a végelszámolás<ujsor/>
-megindítását tartalmazó végzés<ujsor/>
-közzétételétõl számított 40 napon belül<ujsor/>
-a végelszámolónak jelentsék be.<ujsor/>
+A bÃ­rÃ³sÃ¡g felhÃ­vja a vÃ©gelszÃ¡molÃ¡s alatt<ujsor/>
+Ã¡llÃ³ cÃ©g hitelezÅ‘it, hogy ismert<ujsor/>
+kÃ¶vetelÃ©seiket a vÃ©gelszÃ¡molÃ¡s<ujsor/>
+megindÃ­tÃ¡sÃ¡t tartalmazÃ³ vÃ©gzÃ©s<ujsor/>
+kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott 40 napon belÃ¼l<ujsor/>
+a vÃ©gelszÃ¡molÃ³nak jelentsÃ©k be.<ujsor/>
 2008. 12. 03.<ujsor/>
-A közzététel idõpontja: 2008. 12. 18.<ujsor/>
+A kÃ¶zzÃ©tÃ©tel idÅ‘pontja: 2008. 12. 18.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0114000585</mezo>
-<mezo id = "nev">Schöpf-Mérei Ágost Kórház és Anyavédelmi Központ Közhasznú Társaság &quot;végelszámolás alatt&quot;</mezo>
-<mezo id = "cim">1092 Budapest, Bakáts tér 10.</mezo>
+<mezo id = "nev">SchÃ¶pf-MÃ©rei Ãgost KÃ³rhÃ¡z Ã©s AnyavÃ©delmi KÃ¶zpont KÃ¶zhasznÃº TÃ¡rsasÃ¡g &quot;vÃ©gelszÃ¡molÃ¡s alatt&quot;</mezo>
+<mezo id = "cim">1092 Budapest, BakÃ¡ts tÃ©r 10.</mezo>
 <mezo id = "adosz">22140898243</mezo>
 </alrovat>
 </rovat>

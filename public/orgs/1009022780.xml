@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">022780</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">3300 Eger, Kertész u. 183. </mezo>
+<mezo id = "cim">3300 Eger, KertÃ©sz u. 183. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">11175724210</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19970612</mezo>
-<mezo id = "nev">AGRIA DRINK Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">AGRIA DRINK Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -27,19 +27,19 @@
 <mezo id = "hattol">19990630</mezo>
 <mezo id = "irsz">3300</mezo>
 <mezo id = "hely">Eger</mezo>
-<mezo id = "teru">Kertész u. 183.</mezo>
+<mezo id = "teru">KertÃ©sz u. 183.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "6">
 <alrovat id = "2">
 <mezo id = "hattol">20001212</mezo>
 <mezo id = "irsz">3300</mezo>
-<mezo id = "hely">Eger, Kistályai u. 4.</mezo>
+<mezo id = "hely">Eger, KistÃ¡lyai u. 4.</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20090121</mezo>
 <mezo id = "irsz">3300</mezo>
-<mezo id = "hely">Eger, Kistályai út 18.</mezo>
+<mezo id = "hely">Eger, KistÃ¡lyai Ãºt 18.</mezo>
 <mezo id = "valtk">20090121</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090202</mezo>
@@ -306,7 +306,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090202</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Zöldség-, gyümölcs-nagykereskedelem</mezo>
+<mezo id = "teaszov">ZÃ¶ldsÃ©g-, gyÃ¼mÃ¶lcs-nagykereskedelem</mezo>
 </alrovat>
 <alrovat id = "52">
 <mezo id = "hattol">20090121</mezo>
@@ -342,7 +342,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090202</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb élelmiszer nagykereskedelme</mezo>
+<mezo id = "teaszov">EgyÃ©b Ã©lelmiszer nagykereskedelme</mezo>
 </alrovat>
 <alrovat id = "54">
 <mezo id = "hattol">20090121</mezo>
@@ -360,7 +360,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090202</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Elektronikus háztartási cikk nagykereskedelme</mezo>
+<mezo id = "teaszov">Elektronikus hÃ¡ztartÃ¡si cikk nagykereskedelme</mezo>
 </alrovat>
 <alrovat id = "55">
 <mezo id = "hattol">20090121</mezo>
@@ -378,7 +378,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090202</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb háztartási cikk nagykereskedelme m.n.s.</mezo>
+<mezo id = "teaszov">EgyÃ©b hÃ¡ztartÃ¡si cikk nagykereskedelme m.n.s.</mezo>
 </alrovat>
 <alrovat id = "56">
 <mezo id = "hattol">20090121</mezo>
@@ -396,7 +396,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090202</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Vegyi áru nagykereskedelme</mezo>
+<mezo id = "teaszov">Vegyi Ã¡ru nagykereskedelme</mezo>
 </alrovat>
 <alrovat id = "57">
 <mezo id = "hattol">20090121</mezo>
@@ -414,7 +414,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090202</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb élelmiszer-kiskereskedelem</mezo>
+<mezo id = "teaszov">EgyÃ©b Ã©lelmiszer-kiskereskedelem</mezo>
 </alrovat>
 <alrovat id = "58">
 <mezo id = "hattol">20090121</mezo>
@@ -432,7 +432,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090202</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Közúti áruszállítás</mezo>
+<mezo id = "teaszov">KÃ¶zÃºti Ã¡ruszÃ¡llÃ­tÃ¡s</mezo>
 </alrovat>
 <alrovat id = "59">
 <mezo id = "hattol">20090121</mezo>
@@ -450,7 +450,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090202</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Szabadidõs, sporteszköz kölcsönzése</mezo>
+<mezo id = "teaszov">SzabadidÅ‘s, sporteszkÃ¶z kÃ¶lcsÃ¶nzÃ©se</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -465,10 +465,10 @@
 <rovat id = "13">
 <alrovat id = "5">
 <mezo id = "hattol">20071206</mezo>
-<mezo id = "pnev">Hervai Róbert</mezo>
-<mezo id = "panev">Serbán Ágnes</mezo>
+<mezo id = "pnev">Hervai RÃ³bert</mezo>
+<mezo id = "panev">SerbÃ¡n Ãgnes</mezo>
 <mezo id = "pirsz">3300</mezo>
-<mezo id = "phely">Eger, Deák F. u. 24.</mezo>
+<mezo id = "phely">Eger, DeÃ¡k F. u. 24.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">d</mezo>
 <mezo id = "jogvk">20071206</mezo>
@@ -480,7 +480,7 @@
 <alrovat id = "6">
 <mezo id = "hattol">20071206</mezo>
 <mezo id = "pnev">Hervai Zsolt</mezo>
-<mezo id = "panev">Serbán Ágnes</mezo>
+<mezo id = "panev">SerbÃ¡n Ãgnes</mezo>
 <mezo id = "pirsz">3300</mezo>
 <mezo id = "phely">Eger, Kossuth u. 7. 1/10.</mezo>
 <mezo id = "kepvo">x</mezo>
@@ -496,15 +496,15 @@
 <alrovat id = "3">
 <mezo id = "hattol">20090121</mezo>
 <mezo id = "cgjsz">1009023212</mezo>
-<mezo id = "nev">K+B CONTROLL Könyvvizsgáló és Könyvelõ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">K+B CONTROLL KÃ¶nyvvizsgÃ¡lÃ³ Ã©s KÃ¶nyvelÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "irsz">3300</mezo>
 <mezo id = "hely">Eger</mezo>
-<mezo id = "teru">Kolozsvári</mezo>
+<mezo id = "teru">KolozsvÃ¡ri</mezo>
 <mezo id = "hsz">40.</mezo>
-<mezo id = "pnev">Kameniczky Andrásné</mezo>
-<mezo id = "panev">Kalocsai Erzsébet</mezo>
+<mezo id = "pnev">Kameniczky AndrÃ¡snÃ©</mezo>
+<mezo id = "panev">Kalocsai ErzsÃ©bet</mezo>
 <mezo id = "pirsz">3300</mezo>
-<mezo id = "phely">Eger, Kolozsvári utca 40. fszt 1.</mezo>
+<mezo id = "phely">Eger, KolozsvÃ¡ri utca 40. fszt 1.</mezo>
 <mezo id = "jogvk">20090121</mezo>
 <mezo id = "jogvv">20130531</mezo>
 <mezo id = "valtk">20090121</mezo>
@@ -532,17 +532,17 @@
 <mezo id = "hattol">20021209</mezo>
 <mezo id = "j">x</mezo>
 <mezo id = "pnev">Hervai Zsolt</mezo>
-<mezo id = "panev">Serbán Ágnes</mezo>
+<mezo id = "panev">SerbÃ¡n Ãgnes</mezo>
 <mezo id = "pirsz">3300</mezo>
 <mezo id = "phely">Eger, Kossuth u. 7. I/10.</mezo>
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">20071206</mezo>
 <mezo id = "j">x</mezo>
-<mezo id = "pnev">Hervai Róbert</mezo>
-<mezo id = "panev">Serbán Ágnes</mezo>
+<mezo id = "pnev">Hervai RÃ³bert</mezo>
+<mezo id = "panev">SerbÃ¡n Ãgnes</mezo>
 <mezo id = "pirsz">3300</mezo>
-<mezo id = "phely">Eger, Deák F. u. 24.</mezo>
+<mezo id = "phely">Eger, DeÃ¡k F. u. 24.</mezo>
 <mezo id = "tagsk">0</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20071206</mezo>
@@ -552,10 +552,10 @@
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">20090121</mezo>
-<mezo id = "pnev">Hervai Zsoltné sz. Zay Krisztina</mezo>
-<mezo id = "panev">Czeglédi Margit</mezo>
+<mezo id = "pnev">Hervai ZsoltnÃ© sz. Zay Krisztina</mezo>
+<mezo id = "panev">CzeglÃ©di Margit</mezo>
 <mezo id = "pirsz">3300</mezo>
-<mezo id = "phely">Eger, Menház utca 52/B.</mezo>
+<mezo id = "phely">Eger, MenhÃ¡z utca 52/B.</mezo>
 <mezo id = "tagsk">19990630</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20090121</mezo>

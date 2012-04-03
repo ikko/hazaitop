@@ -5,7 +5,7 @@
 <mezo id = "cf">10</mezo>
 <mezo id = "szam">001201</mezo>
 <mezo id = "nevalrovat">2</mezo>
-<mezo id = "cim">8000 Székesfehérvár, Óvoda u. 2. </mezo>
+<mezo id = "cim">8000 SzÃ©kesfehÃ©rvÃ¡r, Ã“voda u. 2. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">11455796207</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20060419</mezo>
-<mezo id = "nev">ALBA GEOTRADE Fõvállalkozó Tervezõ és Földmérõ Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">ALBA GEOTRADE FÅ‘vÃ¡llalkozÃ³ TervezÅ‘ Ã©s FÃ¶ldmÃ©rÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -32,8 +32,8 @@
 <alrovat id = "3">
 <mezo id = "hattol">20041026</mezo>
 <mezo id = "irsz">8000</mezo>
-<mezo id = "hely">Székesfehérvár</mezo>
-<mezo id = "teru">Óvoda u. 2.</mezo>
+<mezo id = "hely">SzÃ©kesfehÃ©rvÃ¡r</mezo>
+<mezo id = "teru">Ã“voda u. 2.</mezo>
 <mezo id = "kirsz">0</mezo>
 </alrovat>
 </rovat>
@@ -41,8 +41,8 @@
 <alrovat id = "5">
 <mezo id = "hattol">20090824</mezo>
 <mezo id = "irsz">2400</mezo>
-<mezo id = "hely">Dunaújváros</mezo>
-<mezo id = "teru">Dózsa György utca 9. 1. em. 1.</mezo>
+<mezo id = "hely">DunaÃºjvÃ¡ros</mezo>
+<mezo id = "teru">DÃ³zsa GyÃ¶rgy utca 9. 1. em. 1.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20090824</mezo>
 <mezo id = "bkelt">20090828</mezo>
@@ -50,8 +50,8 @@
 <alrovat id = "6">
 <mezo id = "hattol">20090824</mezo>
 <mezo id = "irsz">2800</mezo>
-<mezo id = "hely">Tatabánya</mezo>
-<mezo id = "teru">Bárdos lakópark 2. C. ép. fszt 3.</mezo>
+<mezo id = "hely">TatabÃ¡nya</mezo>
+<mezo id = "teru">BÃ¡rdos lakÃ³park 2. C. Ã©p. fszt 3.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20090824</mezo>
 <mezo id = "bkelt">20090828</mezo>
@@ -60,7 +60,7 @@
 <mezo id = "hattol">20101231</mezo>
 <mezo id = "irsz">4032</mezo>
 <mezo id = "hely">Debrecen</mezo>
-<mezo id = "teru">Józsai utca 22.</mezo>
+<mezo id = "teru">JÃ³zsai utca 22.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20101231</mezo>
 <mezo id = "bkelt">20101216</mezo>
@@ -341,19 +341,19 @@
 <rovat id = "13">
 <alrovat id = "6">
 <mezo id = "hattol">20020515</mezo>
-<mezo id = "tiszt">igazgató</mezo>
-<mezo id = "pnev">Nagy Gábor</mezo>
+<mezo id = "tiszt">igazgatÃ³</mezo>
+<mezo id = "pnev">Nagy GÃ¡bor</mezo>
 <mezo id = "panev">Gordon Ilona</mezo>
 <mezo id = "pirsz">8000</mezo>
-<mezo id = "phely">Székesfehérvár</mezo>
-<mezo id = "pteru">Cserepes köz 5. 4/30.</mezo>
+<mezo id = "phely">SzÃ©kesfehÃ©rvÃ¡r</mezo>
+<mezo id = "pteru">Cserepes kÃ¶z 5. 4/30.</mezo>
 </alrovat>
 <alrovat id = "12">
 <mezo id = "hattol">20090520</mezo>
-<mezo id = "pnev">Fülöp Ferenc</mezo>
-<mezo id = "panev">Szalontai Terézia</mezo>
+<mezo id = "pnev">FÃ¼lÃ¶p Ferenc</mezo>
+<mezo id = "panev">Szalontai TerÃ©zia</mezo>
 <mezo id = "pirsz">2484</mezo>
-<mezo id = "phely">Agárd, Török Bálint utca 15.</mezo>
+<mezo id = "phely">AgÃ¡rd, TÃ¶rÃ¶k BÃ¡lint utca 15.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">f</mezo>
 <mezo id = "jogvk">20090520</mezo>
@@ -365,9 +365,9 @@
 </alrovat>
 <alrovat id = "14">
 <mezo id = "hattol">20101231</mezo>
-<mezo id = "tiszt">cégvezetõ</mezo>
-<mezo id = "pnev">Zeleniné Csicsely Katalin</mezo>
-<mezo id = "panev">Tóth Mária</mezo>
+<mezo id = "tiszt">cÃ©gvezetÅ‘</mezo>
+<mezo id = "pnev">ZeleninÃ© Csicsely Katalin</mezo>
+<mezo id = "panev">TÃ³th MÃ¡ria</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20061208</mezo>
 <mezo id = "valtk">20101231</mezo>
@@ -376,9 +376,9 @@
 </alrovat>
 <alrovat id = "15">
 <mezo id = "hattol">20101231</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (vezérigazgató)</mezo>
-<mezo id = "pnev">Fülöp Ferenc András</mezo>
-<mezo id = "panev">Szalontai Terézia</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (vezÃ©rigazgatÃ³)</mezo>
+<mezo id = "pnev">FÃ¼lÃ¶p Ferenc AndrÃ¡s</mezo>
+<mezo id = "panev">Szalontai TerÃ©zia</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20090529</mezo>
 <mezo id = "jogvv">20140529</mezo>
@@ -391,16 +391,16 @@
 <alrovat id = "12">
 <mezo id = "hattol">20110322</mezo>
 <mezo id = "cgjsz">0709007649</mezo>
-<mezo id = "nev">UDVARDY AUDIT Könyvvizsgáló és Számviteli Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">UDVARDY AUDIT KÃ¶nyvvizsgÃ¡lÃ³ Ã©s SzÃ¡mviteli SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">8000</mezo>
-<mezo id = "hely">Székesfehérvár</mezo>
-<mezo id = "teru">Károly János u. 34. 4. em. 10.</mezo>
-<mezo id = "pnev">Matolcsiné Udvardy Márta</mezo>
-<mezo id = "panev">Rácz Eszter</mezo>
+<mezo id = "hely">SzÃ©kesfehÃ©rvÃ¡r</mezo>
+<mezo id = "teru">KÃ¡roly JÃ¡nos u. 34. 4. em. 10.</mezo>
+<mezo id = "pnev">MatolcsinÃ© Udvardy MÃ¡rta</mezo>
+<mezo id = "panev">RÃ¡cz Eszter</mezo>
 <mezo id = "pirsz">8000</mezo>
-<mezo id = "phely">Székesfehérvár</mezo>
-<mezo id = "pteru">Károly János utca 34.</mezo>
+<mezo id = "phely">SzÃ©kesfehÃ©rvÃ¡r</mezo>
+<mezo id = "pteru">KÃ¡roly JÃ¡nos utca 34.</mezo>
 <mezo id = "jogvk">20110322</mezo>
 <mezo id = "jogvv">20120531</mezo>
 <mezo id = "valtk">20110322</mezo>
@@ -411,7 +411,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">19970301</mezo>
 <mezo id = "cgjsz">709001373</mezo>
-<mezo id = "nev">ALBA GEOTRADE Földmérõ-, Mérnöki- és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">ALBA GEOTRADE FÃ¶ldmÃ©rÅ‘-, MÃ©rnÃ¶ki- Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "20">
@@ -425,14 +425,14 @@
 <mezo id = "adosz">11455796207</mezo>
 <mezo id = "kadosz">HU11455796</mezo>
 <mezo id = "bkelt">20110715</mezo>
-<mezo id = "megj">Státusz kezdete: 1997/03/01</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 1997/03/01</mezo>
 </alrovat>
 </rovat>
 <rovat id = "22">
 <alrovat id = "1">
 <mezo id = "hattol">20101231</mezo>
 <mezo id = "jccjsz">0709019521</mezo>
-<mezo id = "nev">AG-METRIA Mérnöki Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">AG-METRIA MÃ©rnÃ¶ki SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "atdat">20101231</mezo>
 <mezo id = "valtk">20101231</mezo>
 <mezo id = "bkelt">20101216</mezo>
@@ -441,8 +441,8 @@
 <rovat id = "0110">
 <alrovat id = "4">
 <mezo id = "hattol">20101231</mezo>
-<mezo id = "pnev">Fülöp Ferenc András</mezo>
-<mezo id = "panev">Szalontai Terézia</mezo>
+<mezo id = "pnev">FÃ¼lÃ¶p Ferenc AndrÃ¡s</mezo>
+<mezo id = "panev">Szalontai TerÃ©zia</mezo>
 <mezo id = "tagsk">19990503</mezo>
 <mezo id = "sz2">x</mezo>
 <mezo id = "valtk">20101231</mezo>
@@ -458,301 +458,301 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2002. 05. 22-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. Nagy Gábor (an: Gordon Ilona) igazgató<ujsor/>
-8000 Székesfehérvár, Cserepes köz 5. 4/30.<ujsor/>
- Törölve: 2002. 05. 15-i hatállyal.<ujsor/>
- Nagy Gábor (an: Goron Ilona) cégvezetõ<ujsor/>
-8000 Székesfehérvár, Cserepes köz 5. 4/30.<ujsor/>
- Hatályos: 2002. 05. 15-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2002. 05. 22-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. Nagy GÃ¡bor (an: Gordon Ilona) igazgatÃ³<ujsor/>
+8000 SzÃ©kesfehÃ©rvÃ¡r, Cserepes kÃ¶z 5. 4/30.<ujsor/>
+ TÃ¶rÃ¶lve: 2002. 05. 15-i hatÃ¡llyal.<ujsor/>
+ Nagy GÃ¡bor (an: Goron Ilona) cÃ©gvezetÅ‘<ujsor/>
+8000 SzÃ©kesfehÃ©rvÃ¡r, Cserepes kÃ¶z 5. 4/30.<ujsor/>
+ HatÃ¡lyos: 2002. 05. 15-tÅ‘l.<ujsor/>
 Bejegyezve: 2002. 06. 04.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0710001201</mezo>
-<mezo id = "nev">ALBA GEOTRADE Fõvállalkozó Tervezõ és Földmérõ Részvénytársaság</mezo>
-<mezo id = "cim">8000 Székesfehérvár, Ányos P. u. 3. II/8-9.</mezo>
+<mezo id = "nev">ALBA GEOTRADE FÅ‘vÃ¡llalkozÃ³ TervezÅ‘ Ã©s FÃ¶ldmÃ©rÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">8000 SzÃ©kesfehÃ©rvÃ¡r, Ãnyos P. u. 3. II/8-9.</mezo>
 <mezo id = "adosz">11455796207</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2009. 05. 21-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (vezérigazgató).<ujsor/>
- Fülöp Ferenc (an: Szalontai Terézia)<ujsor/>
-2484 Agárd, Török Bálint utca 15.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2009. 05. 21-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (vezÃ©rigazgatÃ³).<ujsor/>
+ FÃ¼lÃ¶p Ferenc (an: Szalontai TerÃ©zia)<ujsor/>
+2484 AgÃ¡rd, TÃ¶rÃ¶k BÃ¡lint utca 15.<ujsor/>
  A jogviszony kezdete: 2009. 05. 20.<ujsor/>
- A jogviszony vége: 2014. 05. 29.<ujsor/>
- A változás idõpontja: 2009. 05. 20.<ujsor/>
- A változás idõpontja (törlés): 2009. 05. 20.<ujsor/>
- Törölve: 2009. 05. 20.<ujsor/>
- A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (vezérigazgató).<ujsor/>
- Fülöp Ferenc (an: Szalontai Terézia)<ujsor/>
-2484 Agárd, Török Bálint u. 15.<ujsor/>
+ A jogviszony vÃ©ge: 2014. 05. 29.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2009. 05. 20.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2009. 05. 20.<ujsor/>
+ TÃ¶rÃ¶lve: 2009. 05. 20.<ujsor/>
+ A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (vezÃ©rigazgatÃ³).<ujsor/>
+ FÃ¼lÃ¶p Ferenc (an: Szalontai TerÃ©zia)<ujsor/>
+2484 AgÃ¡rd, TÃ¶rÃ¶k BÃ¡lint u. 15.<ujsor/>
  A jogviszony kezdete: 2009. 05. 29.<ujsor/>
- A jogviszony vége: 2014. 05. 29.<ujsor/>
- A változás idõpontja: 2009. 05. 20.<ujsor/>
+ A jogviszony vÃ©ge: 2014. 05. 29.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2009. 05. 20.<ujsor/>
  Bejegyezve: 2009. 05. 20.<ujsor/>
 2009. 05. 27.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0710001201</mezo>
-<mezo id = "nev">ALBA GEOTRADE Fõvállalkozó Tervezõ és Földmérõ Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">8000 Székesfehérvár, Óvoda u. 2.</mezo>
+<mezo id = "nev">ALBA GEOTRADE FÅ‘vÃ¡llalkozÃ³ TervezÅ‘ Ã©s FÃ¶ldmÃ©rÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">8000 SzÃ©kesfehÃ©rvÃ¡r, Ã“voda u. 2.</mezo>
 <mezo id = "adosz">11455796207</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az ALBA GEOTRADE Fõvállalkozó Tervezõ és Földmérõ Zártkörûen Mûködõ Részvénytársaság (Cg.: [07 10 001201]; székhelye: 8000 Székesfehérvár, Óvoda u. 2.) részvényesei a 2010. június 30-án tartott elsõ és 2010. szeptember 27-én tartott második közgyûlésén is elhatározta a cég átalakulás útján történõ szétválását akként, hogy az ALBA GEOTRADE Fõvállalkozó Tervezõ és Földmérõ Zártkörûen Mûködõ Részvénytársaságból AG-METRIA Mérnöki Szolgáltató Korlátolt Felelõsségû Társaság néven, kiválással egy új társaság jön létre.<ujsor/>
-A Gazdasági társaságokról szóló 2006. évi IV. törvény 74. § (6) bekezdése, valamint a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 57. § (2) bekezdése alapján az átalakuló cég legfõbb szerve az átalakulásról véglegesen döntõ ülésen az átalakulás idõpontját 2010. december 31-ében határozta meg.<ujsor/>
-A szétválás módja: kiválás.<ujsor/>
-A kiválást követõen fennmaradó társaság fõbb adatai:<ujsor/>
-Formája: zártkörûen mûködõ részvénytársaság.<ujsor/>
-Cégneve: ALBA GEOTRADE Fõvállalkozó Tervezõ és Földmérõ Zártkörûen Mûködõ Részvénytársaság.<ujsor/>
-Cégjegyzékszáma: [07 10 001201].<ujsor/>
-Székhelye: 8000 Székesfehérvár, Óvoda u. 2.<ujsor/>
-Társasági szerzõdés aláírásának napja: 2010. szeptember 27.<ujsor/>
-Fõ tevékenysége: Mérnöki tevékenység, mûszaki tanácsadás.<ujsor/>
-Vezetõ tisztségviselõ: Fülöp Ferenc András (2484 Gárdony, Török B. u. 15.) vezérigazgató.<ujsor/>
-Cégvezetõje: Zeleniné Csicsely Katalin cégvezetõ (8000 Székesfehérvár, Lehel u. 31. III. 8.).<ujsor/>
-A részvények fajtája törzsrészvény, A sorozatú, nyomdai úton elõállított; a részvények száma 100 darab, egyenként 200 000 Ft névértékû.<ujsor/>
-A kiválás során létrejövõ társaság fõbb adatai:<ujsor/>
-Társasági formája: korlátolt felelõsségû társaság.<ujsor/>
-Cégneve: AG-METRIA Mérnöki Szolgáltató Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhelye: 8000 Székesfehérvár, Óvoda u. 2.<ujsor/>
-Társasági szerzõdés aláírásának napja: 2010. szeptember 27.<ujsor/>
-Fõ tevékenysége: Mérnöki tevékenység, mûszaki tanácsadás.<ujsor/>
-Vezetõ tisztségviselõ: Fülöp Ferenc András ügyvezetõ, (2484 Gárdony, Török B. u. 15.).<ujsor/>
-Cégvezetõje: Fülöpné Pozsár Andrea cégvezetõ (2484 Gárdony, Török B. u. 15.).<ujsor/>
-A szétváló társaság (záró) vagyonmérleg-tervezetének legfontosabb adatai (kiválás elõtt):<ujsor/>
+<mezo id = "szoveg">Az ALBA GEOTRADE FÅ‘vÃ¡llalkozÃ³ TervezÅ‘ Ã©s FÃ¶ldmÃ©rÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [07 10 001201]; szÃ©khelye: 8000 SzÃ©kesfehÃ©rvÃ¡r, Ã“voda u. 2.) rÃ©szvÃ©nyesei a 2010. jÃºnius 30-Ã¡n tartott elsÅ‘ Ã©s 2010. szeptember 27-Ã©n tartott mÃ¡sodik kÃ¶zgyÅ±lÃ©sÃ©n is elhatÃ¡rozta a cÃ©g Ã¡talakulÃ¡s ÃºtjÃ¡n tÃ¶rtÃ©nÅ‘ szÃ©tvÃ¡lÃ¡sÃ¡t akkÃ©nt, hogy az ALBA GEOTRADE FÅ‘vÃ¡llalkozÃ³ TervezÅ‘ Ã©s FÃ¶ldmÃ©rÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡gbÃ³l AG-METRIA MÃ©rnÃ¶ki SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g nÃ©ven, kivÃ¡lÃ¡ssal egy Ãºj tÃ¡rsasÃ¡g jÃ¶n lÃ©tre.<ujsor/>
+A GazdasÃ¡gi tÃ¡rsasÃ¡gokrÃ³l szÃ³lÃ³ 2006. Ã©vi IV. tÃ¶rvÃ©ny 74. Â§ (6) bekezdÃ©se, valamint a cÃ©gnyilvÃ¡nossÃ¡grÃ³l, a bÃ­rÃ³sÃ¡gi cÃ©geljÃ¡rÃ¡srÃ³l Ã©s a vÃ©gelszÃ¡molÃ¡srÃ³l szÃ³lÃ³ 2006. Ã©vi V. tÃ¶rvÃ©ny 57. Â§ (2) bekezdÃ©se alapjÃ¡n az Ã¡talakulÃ³ cÃ©g legfÅ‘bb szerve az Ã¡talakulÃ¡srÃ³l vÃ©glegesen dÃ¶ntÅ‘ Ã¼lÃ©sen az Ã¡talakulÃ¡s idÅ‘pontjÃ¡t 2010. december 31-Ã©ben hatÃ¡rozta meg.<ujsor/>
+A szÃ©tvÃ¡lÃ¡s mÃ³dja: kivÃ¡lÃ¡s.<ujsor/>
+A kivÃ¡lÃ¡st kÃ¶vetÅ‘en fennmaradÃ³ tÃ¡rsasÃ¡g fÅ‘bb adatai:<ujsor/>
+FormÃ¡ja: zÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ rÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gneve: ALBA GEOTRADE FÅ‘vÃ¡llalkozÃ³ TervezÅ‘ Ã©s FÃ¶ldmÃ©rÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡ma: [07 10 001201].<ujsor/>
+SzÃ©khelye: 8000 SzÃ©kesfehÃ©rvÃ¡r, Ã“voda u. 2.<ujsor/>
+TÃ¡rsasÃ¡gi szerzÅ‘dÃ©s alÃ¡Ã­rÃ¡sÃ¡nak napja: 2010. szeptember 27.<ujsor/>
+FÅ‘ tevÃ©kenysÃ©ge: MÃ©rnÃ¶ki tevÃ©kenysÃ©g, mÅ±szaki tanÃ¡csadÃ¡s.<ujsor/>
+VezetÅ‘ tisztsÃ©gviselÅ‘: FÃ¼lÃ¶p Ferenc AndrÃ¡s (2484 GÃ¡rdony, TÃ¶rÃ¶k B. u. 15.) vezÃ©rigazgatÃ³.<ujsor/>
+CÃ©gvezetÅ‘je: ZeleninÃ© Csicsely Katalin cÃ©gvezetÅ‘ (8000 SzÃ©kesfehÃ©rvÃ¡r, Lehel u. 31. III. 8.).<ujsor/>
+A rÃ©szvÃ©nyek fajtÃ¡ja tÃ¶rzsrÃ©szvÃ©ny, A sorozatÃº, nyomdai Ãºton elÅ‘Ã¡llÃ­tott; a rÃ©szvÃ©nyek szÃ¡ma 100 darab, egyenkÃ©nt 200 000 Ft nÃ©vÃ©rtÃ©kÅ±.<ujsor/>
+A kivÃ¡lÃ¡s sorÃ¡n lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g fÅ‘bb adatai:<ujsor/>
+TÃ¡rsasÃ¡gi formÃ¡ja: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gneve: AG-METRIA MÃ©rnÃ¶ki SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 8000 SzÃ©kesfehÃ©rvÃ¡r, Ã“voda u. 2.<ujsor/>
+TÃ¡rsasÃ¡gi szerzÅ‘dÃ©s alÃ¡Ã­rÃ¡sÃ¡nak napja: 2010. szeptember 27.<ujsor/>
+FÅ‘ tevÃ©kenysÃ©ge: MÃ©rnÃ¶ki tevÃ©kenysÃ©g, mÅ±szaki tanÃ¡csadÃ¡s.<ujsor/>
+VezetÅ‘ tisztsÃ©gviselÅ‘: FÃ¼lÃ¶p Ferenc AndrÃ¡s Ã¼gyvezetÅ‘, (2484 GÃ¡rdony, TÃ¶rÃ¶k B. u. 15.).<ujsor/>
+CÃ©gvezetÅ‘je: FÃ¼lÃ¶pnÃ© PozsÃ¡r Andrea cÃ©gvezetÅ‘ (2484 GÃ¡rdony, TÃ¶rÃ¶k B. u. 15.).<ujsor/>
+A szÃ©tvÃ¡lÃ³ tÃ¡rsasÃ¡g (zÃ¡rÃ³) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai (kivÃ¡lÃ¡s elÅ‘tt):<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK Könyv szerinti érték Különbözetek Vagyonmérleg szerinti érték<ujsor/>
-Befektetett eszközök 304 691 0 304 691<ujsor/>
-Immateriális javak 4 017 0 4 017<ujsor/>
-Tárgyi eszközök 300 674 0 300 674<ujsor/>
-Befektetett pénzügyi eszközök 0 0 0<ujsor/>
-Forgóeszközök 599 456 0 599 456<ujsor/>
-Készletek 145 0 145<ujsor/>
-Követelések 59 739 0 59 739<ujsor/>
-Értékpapírok 0 0 0<ujsor/>
-Pénzeszközök 539 572 0 539 572<ujsor/>
-Aktív idõbeli elhatárolások 127 0 127<ujsor/>
-ÖSSZESEN: 904 274 0 904 274<ujsor/>
+ESZKÃ–ZÃ–K KÃ¶nyv szerinti Ã©rtÃ©k KÃ¼lÃ¶nbÃ¶zetek VagyonmÃ©rleg szerinti Ã©rtÃ©k<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 304 691 0 304 691<ujsor/>
+ImmateriÃ¡lis javak 4 017 0 4 017<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 300 674 0 300 674<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 0 0<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 599 456 0 599 456<ujsor/>
+KÃ©szletek 145 0 145<ujsor/>
+KÃ¶vetelÃ©sek 59 739 0 59 739<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 0 0 0<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 539 572 0 539 572<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 127 0 127<ujsor/>
+Ã–SSZESEN: 904 274 0 904 274<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK Könyv szerinti érték Különbözetek Vagyonmérleg szerinti érték<ujsor/>
-Saját tõke 836 414 0 836 414<ujsor/>
-Jegyzett tõke 20 000 0 20 000<ujsor/>
-Jegyzett, de még be nem fizetett tõke 0 0 0<ujsor/>
-Tõketartalék 0 0 0<ujsor/>
-Eredménytartalék 747 180 28 278 775 458<ujsor/>
-Lekötött tartalék 40 956 0 40 956<ujsor/>
-Értékelési tartalék 0 0 0<ujsor/>
-Mérleg szerinti eredmény 28 278 ­28 278 0<ujsor/>
-Céltartalékok 0 0 0<ujsor/>
-Kötelezettségek 59 164 0 59 164<ujsor/>
-Hátra sorolt kötelezettségek 0 0 0<ujsor/>
-Hosszú lejáratú kötelezettségek 895 0 895<ujsor/>
-Rövid lejáratú kötelezettségek 58 269 0 58 269<ujsor/>
-Passzív idõbeli elhatárolások 8 696 0 8 696<ujsor/>
-ÖSSZESEN: 904 274 0 904 274<ujsor/>
-A kiválást követõen fennmaradó társaság (nyitó) vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
+FORRÃSOK KÃ¶nyv szerinti Ã©rtÃ©k KÃ¼lÃ¶nbÃ¶zetek VagyonmÃ©rleg szerinti Ã©rtÃ©k<ujsor/>
+SajÃ¡t tÅ‘ke 836 414 0 836 414<ujsor/>
+Jegyzett tÅ‘ke 20 000 0 20 000<ujsor/>
+Jegyzett, de mÃ©g be nem fizetett tÅ‘ke 0 0 0<ujsor/>
+TÅ‘ketartalÃ©k 0 0 0<ujsor/>
+EredmÃ©nytartalÃ©k 747 180 28 278 775 458<ujsor/>
+LekÃ¶tÃ¶tt tartalÃ©k 40 956 0 40 956<ujsor/>
+Ã‰rtÃ©kelÃ©si tartalÃ©k 0 0 0<ujsor/>
+MÃ©rleg szerinti eredmÃ©ny 28 278 Â­28 278 0<ujsor/>
+CÃ©ltartalÃ©kok 0 0 0<ujsor/>
+KÃ¶telezettsÃ©gek 59 164 0 59 164<ujsor/>
+HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0 0 0<ujsor/>
+HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 895 0 895<ujsor/>
+RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 58 269 0 58 269<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 8 696 0 8 696<ujsor/>
+Ã–SSZESEN: 904 274 0 904 274<ujsor/>
+A kivÃ¡lÃ¡st kÃ¶vetÅ‘en fennmaradÃ³ tÃ¡rsasÃ¡g (nyitÃ³) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK Vagyonmérleg szerinti érték Rendezés Jogutód társaság vagyona<ujsor/>
-Befektetett eszközök 36 272 0 36 272<ujsor/>
-Immateriális javak 2 061 0 2 061<ujsor/>
-Tárgyi eszközök 34 211 0 34 211<ujsor/>
-Befektetett pénzügyi eszközök 0 0 0<ujsor/>
-Forgóeszközök 62 917 0 62 917<ujsor/>
-Készletek 145 0 145<ujsor/>
-Követelések 41 794 0 41 794<ujsor/>
-Értékpapírok 0 0 0<ujsor/>
-Pénzeszközök 20 978 0 20 978<ujsor/>
-Aktív idõbeli elhatárolások 127 0 127<ujsor/>
-ÖSSZESEN: 99 136 0 99 136<ujsor/>
+ESZKÃ–ZÃ–K VagyonmÃ©rleg szerinti Ã©rtÃ©k RendezÃ©s JogutÃ³d tÃ¡rsasÃ¡g vagyona<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 36 272 0 36 272<ujsor/>
+ImmateriÃ¡lis javak 2 061 0 2 061<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 34 211 0 34 211<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 0 0<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 62 917 0 62 917<ujsor/>
+KÃ©szletek 145 0 145<ujsor/>
+KÃ¶vetelÃ©sek 41 794 0 41 794<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 0 0 0<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 20 978 0 20 978<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 127 0 127<ujsor/>
+Ã–SSZESEN: 99 136 0 99 136<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK Vagyonmérleg szerinti érték Rendezés Jogutód társaság vagyona<ujsor/>
-Saját tõke 31 456 0 31 456<ujsor/>
-Jegyzett tõke 20 000 0 20 000<ujsor/>
-Jegyzett, de még be nem fizetett tõke 0 0 0<ujsor/>
-Tõketartalék 0 0 0<ujsor/>
-Eredménytartalék 500 ­500 0<ujsor/>
-Lekötött tartalék 10 956 500 11 456<ujsor/>
-Értékelési tartalék 0 0 0<ujsor/>
-Mérleg szerinti eredmény 0 0 0<ujsor/>
-Céltartalékok 0 0 0<ujsor/>
-Kötelezettségek 59 164 0 59 164<ujsor/>
-Hátra sorolt kötelezettségek 0 0 0<ujsor/>
-Hosszú lejáratú kötelezettségek 895 0 895<ujsor/>
-Rövid lejáratú kötelezettségek 58 269 0 58 269<ujsor/>
-Passzív idõbeli elhatárolások 8 696 0 8 696<ujsor/>
-ÖSSZESEN: 99 136 0 99 136<ujsor/>
-A kiválás során létrejövõ társaság (nyitó) vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
+FORRÃSOK VagyonmÃ©rleg szerinti Ã©rtÃ©k RendezÃ©s JogutÃ³d tÃ¡rsasÃ¡g vagyona<ujsor/>
+SajÃ¡t tÅ‘ke 31 456 0 31 456<ujsor/>
+Jegyzett tÅ‘ke 20 000 0 20 000<ujsor/>
+Jegyzett, de mÃ©g be nem fizetett tÅ‘ke 0 0 0<ujsor/>
+TÅ‘ketartalÃ©k 0 0 0<ujsor/>
+EredmÃ©nytartalÃ©k 500 Â­500 0<ujsor/>
+LekÃ¶tÃ¶tt tartalÃ©k 10 956 500 11 456<ujsor/>
+Ã‰rtÃ©kelÃ©si tartalÃ©k 0 0 0<ujsor/>
+MÃ©rleg szerinti eredmÃ©ny 0 0 0<ujsor/>
+CÃ©ltartalÃ©kok 0 0 0<ujsor/>
+KÃ¶telezettsÃ©gek 59 164 0 59 164<ujsor/>
+HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0 0 0<ujsor/>
+HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 895 0 895<ujsor/>
+RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 58 269 0 58 269<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 8 696 0 8 696<ujsor/>
+Ã–SSZESEN: 99 136 0 99 136<ujsor/>
+A kivÃ¡lÃ¡s sorÃ¡n lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g (nyitÃ³) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK Vagyonmérleg szerinti érték Rendezés Jogutód társaság vagyona<ujsor/>
-Befektetett eszközök 268 419 0 268 419<ujsor/>
-Immateriális javak 1 956 0 1 956<ujsor/>
-Tárgyi eszközök 266 463 0 266 463<ujsor/>
-Befektetett pénzügyi eszközök 0 0 0<ujsor/>
-Forgóeszközök 536 539 0 536 539<ujsor/>
-Készletek 0 0 0<ujsor/>
-Követelések 17 945 0 17 945<ujsor/>
-Értékpapírok 0 0 0<ujsor/>
-Pénzeszközök 518 594 0 518 594<ujsor/>
-Aktív idõbeli elhatárolások 0 0 0<ujsor/>
-ÖSSZESEN: 804 958 0 804 958<ujsor/>
+ESZKÃ–ZÃ–K VagyonmÃ©rleg szerinti Ã©rtÃ©k RendezÃ©s JogutÃ³d tÃ¡rsasÃ¡g vagyona<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 268 419 0 268 419<ujsor/>
+ImmateriÃ¡lis javak 1 956 0 1 956<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 266 463 0 266 463<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 0 0<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 536 539 0 536 539<ujsor/>
+KÃ©szletek 0 0 0<ujsor/>
+KÃ¶vetelÃ©sek 17 945 0 17 945<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 0 0 0<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 518 594 0 518 594<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 0 0 0<ujsor/>
+Ã–SSZESEN: 804 958 0 804 958<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK Vagyonmérleg szerinti érték Rendezés Jogutód társaság vagyona<ujsor/>
-Saját tõke 804 958 0 804 958<ujsor/>
-Jegyzett tõke 1 000 1 000<ujsor/>
-Jegyzett, de még be nem fizetett tõke 0 0 0<ujsor/>
-Tõketartalék 0 0 0<ujsor/>
-Eredménytartalék 774 958 ­1 500 773 458<ujsor/>
-Lekötött tartalék 30 000 500 30 500<ujsor/>
-Értékelési tartalék 0 0 0<ujsor/>
-Mérleg szerinti eredmény 0 0 0<ujsor/>
-Céltartalékok 0 0 0<ujsor/>
-Kötelezettségek 0 0 0<ujsor/>
-Hátra sorolt kötelezettségek 0 0 0<ujsor/>
-Hosszú lejáratú kötelezettségek 0 0 0<ujsor/>
-Rövid lejáratú kötelezettségek 0 0 0<ujsor/>
-Passzív idõbeli elhatárolások 0 0 0<ujsor/>
-ÖSSZESEN: 804 958 0 804 958<ujsor/>
-A jogok és kötelezettségek megosztására vonatkozó megállapodás fontosabb rendelkezései:<ujsor/>
-A kiválás során a kiválást követõen fennmaradó ALBA GEOTRADE Fõvállalkozó Tervezõ és Földmérõ Zártkörûen Mûködõ Részvénytársaságot terheli valamennyi hosszú és rövid lejáratú kötelezettség, és valamennyi garanciális helytállási kötelezettség, a passzív idõbeli elhatárolás; illetik a leltárban felsorolt követelések, készletek, pénzeszközök, tárgyi eszközök, aktív idõbeli elhatárolás. Az AG-METRIA Mérnöki Szolgáltató Korlátolt Felelõsségû Társaságot illetik a leltárban felsorolt pénzeszközök és követelések, tárgyi eszközök és immateriális javak; rövid és hosszú lejáratú kötelezettségek nem terhelik.<ujsor/>
-A vagyonmegosztás aránya a jogelõd társaság saját tõkéjéhez viszonyítottan ALBA GEOTRADE Fõvállalkozó Tervezõ és Földmérõ Zártkörûen Mûködõ Részvénytársaság 3,76%, AG-METRIA Mérnöki Szolgáltató Korlátolt Felelõsségû Társaság 96,24%.<ujsor/>
-Az átalakuló társaság felhívja hitelezõit, hogy amennyiben az átalakulás elsõ közzététele elõtt keletkezett és le nem járt követelésük áll fenn a társasággal szemben, követeléseik erejéig, az átalakulás második közzétételét követõ 30 napos jogvesztõ határidõn belül a társaságtól biztosítékot követelhetnek a Gt. 76. § (2) bekezdés szerint. Az átalakuló társaság hitelezõi a hirdetményi határidõ alatt a követelésüket érintõ vagyonmegosztási rendelkezésekrõl Fülöp Ferenc András (2484 Gárdony, Török B. u. 15.) vezérigazgatótól kaphatnak tájékoztatást.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+FORRÃSOK VagyonmÃ©rleg szerinti Ã©rtÃ©k RendezÃ©s JogutÃ³d tÃ¡rsasÃ¡g vagyona<ujsor/>
+SajÃ¡t tÅ‘ke 804 958 0 804 958<ujsor/>
+Jegyzett tÅ‘ke 1 000 1 000<ujsor/>
+Jegyzett, de mÃ©g be nem fizetett tÅ‘ke 0 0 0<ujsor/>
+TÅ‘ketartalÃ©k 0 0 0<ujsor/>
+EredmÃ©nytartalÃ©k 774 958 Â­1 500 773 458<ujsor/>
+LekÃ¶tÃ¶tt tartalÃ©k 30 000 500 30 500<ujsor/>
+Ã‰rtÃ©kelÃ©si tartalÃ©k 0 0 0<ujsor/>
+MÃ©rleg szerinti eredmÃ©ny 0 0 0<ujsor/>
+CÃ©ltartalÃ©kok 0 0 0<ujsor/>
+KÃ¶telezettsÃ©gek 0 0 0<ujsor/>
+HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0 0 0<ujsor/>
+HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0 0 0<ujsor/>
+RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0 0 0<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 0 0 0<ujsor/>
+Ã–SSZESEN: 804 958 0 804 958<ujsor/>
+A jogok Ã©s kÃ¶telezettsÃ©gek megosztÃ¡sÃ¡ra vonatkozÃ³ megÃ¡llapodÃ¡s fontosabb rendelkezÃ©sei:<ujsor/>
+A kivÃ¡lÃ¡s sorÃ¡n a kivÃ¡lÃ¡st kÃ¶vetÅ‘en fennmaradÃ³ ALBA GEOTRADE FÅ‘vÃ¡llalkozÃ³ TervezÅ‘ Ã©s FÃ¶ldmÃ©rÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡got terheli valamennyi hosszÃº Ã©s rÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©g, Ã©s valamennyi garanciÃ¡lis helytÃ¡llÃ¡si kÃ¶telezettsÃ©g, a passzÃ­v idÅ‘beli elhatÃ¡rolÃ¡s; illetik a leltÃ¡rban felsorolt kÃ¶vetelÃ©sek, kÃ©szletek, pÃ©nzeszkÃ¶zÃ¶k, tÃ¡rgyi eszkÃ¶zÃ¶k, aktÃ­v idÅ‘beli elhatÃ¡rolÃ¡s. Az AG-METRIA MÃ©rnÃ¶ki SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡got illetik a leltÃ¡rban felsorolt pÃ©nzeszkÃ¶zÃ¶k Ã©s kÃ¶vetelÃ©sek, tÃ¡rgyi eszkÃ¶zÃ¶k Ã©s immateriÃ¡lis javak; rÃ¶vid Ã©s hosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek nem terhelik.<ujsor/>
+A vagyonmegosztÃ¡s arÃ¡nya a jogelÅ‘d tÃ¡rsasÃ¡g sajÃ¡t tÅ‘kÃ©jÃ©hez viszonyÃ­tottan ALBA GEOTRADE FÅ‘vÃ¡llalkozÃ³ TervezÅ‘ Ã©s FÃ¶ldmÃ©rÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g 3,76%, AG-METRIA MÃ©rnÃ¶ki SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g 96,24%.<ujsor/>
+Az Ã¡talakulÃ³ tÃ¡rsasÃ¡g felhÃ­vja hitelezÅ‘it, hogy amennyiben az Ã¡talakulÃ¡s elsÅ‘ kÃ¶zzÃ©tÃ©tele elÅ‘tt keletkezett Ã©s le nem jÃ¡rt kÃ¶vetelÃ©sÃ¼k Ã¡ll fenn a tÃ¡rsasÃ¡ggal szemben, kÃ¶vetelÃ©seik erejÃ©ig, az Ã¡talakulÃ¡s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ 30 napos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l a tÃ¡rsasÃ¡gtÃ³l biztosÃ­tÃ©kot kÃ¶vetelhetnek a Gt. 76. Â§ (2) bekezdÃ©s szerint. Az Ã¡talakulÃ³ tÃ¡rsasÃ¡g hitelezÅ‘i a hirdetmÃ©nyi hatÃ¡ridÅ‘ alatt a kÃ¶vetelÃ©sÃ¼ket Ã©rintÅ‘ vagyonmegosztÃ¡si rendelkezÃ©sekrÅ‘l FÃ¼lÃ¶p Ferenc AndrÃ¡s (2484 GÃ¡rdony, TÃ¶rÃ¶k B. u. 15.) vezÃ©rigazgatÃ³tÃ³l kaphatnak tÃ¡jÃ©koztatÃ¡st.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0710001201</mezo>
-<mezo id = "nev">ALBA GEOTRADE Fõvállalkozó Tervezõ és Földmérõ Részvénytársaság</mezo>
-<mezo id = "cim">8000 Székesfehérvár</mezo>
+<mezo id = "nev">ALBA GEOTRADE FÅ‘vÃ¡llalkozÃ³ TervezÅ‘ Ã©s FÃ¶ldmÃ©rÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">8000 SzÃ©kesfehÃ©rvÃ¡r</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az ALBA GEOTRADE Fõvállalkozó Tervezõ és Földmérõ Zártkörûen Mûködõ Részvénytársaság (Cg.: [07 10 001201]; székhelye: 8000 Székesfehérvár, Óvoda u. 2.) részvényesei a 2010. június 30-án tartott elsõ és 2010. szeptember 27-én tartott második közgyûlésén is elhatározta a cég átalakulás útján történõ szétválását akként, hogy az ALBA GEOTRADE Fõvállalkozó Tervezõ és Földmérõ Zártkörûen Mûködõ Részvénytársaságból AG-METRIA Mérnöki Szolgáltató Korlátolt Felelõsségû Társaság néven, kiválással egy új társaság jön létre.<ujsor/>
-A Gazdasági társaságokról szóló 2006. évi IV. törvény 74. § (6) bekezdése, valamint a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 57. § (2) bekezdése alapján az átalakuló cég legfõbb szerve az átalakulásról véglegesen döntõ ülésen az átalakulás idõpontját 2010. december 31-ében határozta meg.<ujsor/>
-A szétválás módja: kiválás.<ujsor/>
-A kiválást követõen fennmaradó társaság fõbb adatai:<ujsor/>
-Formája: zártkörûen mûködõ részvénytársaság.<ujsor/>
-Cégneve: ALBA GEOTRADE Fõvállalkozó Tervezõ és Földmérõ Zártkörûen Mûködõ Részvénytársaság.<ujsor/>
-Cégjegyzékszáma: [07 10 001201].<ujsor/>
-Székhelye: 8000 Székesfehérvár, Óvoda u. 2.<ujsor/>
-Társasági szerzõdés aláírásának napja: 2010. szeptember 27.<ujsor/>
-Fõ tevékenysége: Mérnöki tevékenység, mûszaki tanácsadás.<ujsor/>
-Vezetõ tisztségviselõ: Fülöp Ferenc András (2484 Gárdony, Török B. u. 15.) vezérigazgató.<ujsor/>
-Cégvezetõje: Zeleniné Csicsely Katalin cégvezetõ (8000 Székesfehérvár, Lehel u. 31. III. 8.).<ujsor/>
-A részvények fajtája törzsrészvény, A sorozatú, nyomdai úton elõállított; a részvények száma 100 darab, egyenként 200 000 Ft névértékû.<ujsor/>
-A kiválás során létrejövõ társaság fõbb adatai:<ujsor/>
-Társasági formája: korlátolt felelõsségû társaság.<ujsor/>
-Cégneve: AG-METRIA Mérnöki Szolgáltató Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhelye: 8000 Székesfehérvár, Óvoda u. 2.<ujsor/>
-Társasági szerzõdés aláírásának napja: 2010. szeptember 27.<ujsor/>
-Fõ tevékenysége: Mérnöki tevékenység, mûszaki tanácsadás.<ujsor/>
-Vezetõ tisztségviselõ: Fülöp Ferenc András ügyvezetõ, (2484 Gárdony, Török B. u. 15.).<ujsor/>
-Cégvezetõje: Fülöpné Pozsár Andrea cégvezetõ (2484 Gárdony, Török B. u. 15.).<ujsor/>
-A szétváló társaság (záró) vagyonmérleg-tervezetének legfontosabb adatai (kiválás elõtt):<ujsor/>
+<mezo id = "szoveg">Az ALBA GEOTRADE FÅ‘vÃ¡llalkozÃ³ TervezÅ‘ Ã©s FÃ¶ldmÃ©rÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [07 10 001201]; szÃ©khelye: 8000 SzÃ©kesfehÃ©rvÃ¡r, Ã“voda u. 2.) rÃ©szvÃ©nyesei a 2010. jÃºnius 30-Ã¡n tartott elsÅ‘ Ã©s 2010. szeptember 27-Ã©n tartott mÃ¡sodik kÃ¶zgyÅ±lÃ©sÃ©n is elhatÃ¡rozta a cÃ©g Ã¡talakulÃ¡s ÃºtjÃ¡n tÃ¶rtÃ©nÅ‘ szÃ©tvÃ¡lÃ¡sÃ¡t akkÃ©nt, hogy az ALBA GEOTRADE FÅ‘vÃ¡llalkozÃ³ TervezÅ‘ Ã©s FÃ¶ldmÃ©rÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡gbÃ³l AG-METRIA MÃ©rnÃ¶ki SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g nÃ©ven, kivÃ¡lÃ¡ssal egy Ãºj tÃ¡rsasÃ¡g jÃ¶n lÃ©tre.<ujsor/>
+A GazdasÃ¡gi tÃ¡rsasÃ¡gokrÃ³l szÃ³lÃ³ 2006. Ã©vi IV. tÃ¶rvÃ©ny 74. Â§ (6) bekezdÃ©se, valamint a cÃ©gnyilvÃ¡nossÃ¡grÃ³l, a bÃ­rÃ³sÃ¡gi cÃ©geljÃ¡rÃ¡srÃ³l Ã©s a vÃ©gelszÃ¡molÃ¡srÃ³l szÃ³lÃ³ 2006. Ã©vi V. tÃ¶rvÃ©ny 57. Â§ (2) bekezdÃ©se alapjÃ¡n az Ã¡talakulÃ³ cÃ©g legfÅ‘bb szerve az Ã¡talakulÃ¡srÃ³l vÃ©glegesen dÃ¶ntÅ‘ Ã¼lÃ©sen az Ã¡talakulÃ¡s idÅ‘pontjÃ¡t 2010. december 31-Ã©ben hatÃ¡rozta meg.<ujsor/>
+A szÃ©tvÃ¡lÃ¡s mÃ³dja: kivÃ¡lÃ¡s.<ujsor/>
+A kivÃ¡lÃ¡st kÃ¶vetÅ‘en fennmaradÃ³ tÃ¡rsasÃ¡g fÅ‘bb adatai:<ujsor/>
+FormÃ¡ja: zÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ rÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gneve: ALBA GEOTRADE FÅ‘vÃ¡llalkozÃ³ TervezÅ‘ Ã©s FÃ¶ldmÃ©rÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡ma: [07 10 001201].<ujsor/>
+SzÃ©khelye: 8000 SzÃ©kesfehÃ©rvÃ¡r, Ã“voda u. 2.<ujsor/>
+TÃ¡rsasÃ¡gi szerzÅ‘dÃ©s alÃ¡Ã­rÃ¡sÃ¡nak napja: 2010. szeptember 27.<ujsor/>
+FÅ‘ tevÃ©kenysÃ©ge: MÃ©rnÃ¶ki tevÃ©kenysÃ©g, mÅ±szaki tanÃ¡csadÃ¡s.<ujsor/>
+VezetÅ‘ tisztsÃ©gviselÅ‘: FÃ¼lÃ¶p Ferenc AndrÃ¡s (2484 GÃ¡rdony, TÃ¶rÃ¶k B. u. 15.) vezÃ©rigazgatÃ³.<ujsor/>
+CÃ©gvezetÅ‘je: ZeleninÃ© Csicsely Katalin cÃ©gvezetÅ‘ (8000 SzÃ©kesfehÃ©rvÃ¡r, Lehel u. 31. III. 8.).<ujsor/>
+A rÃ©szvÃ©nyek fajtÃ¡ja tÃ¶rzsrÃ©szvÃ©ny, A sorozatÃº, nyomdai Ãºton elÅ‘Ã¡llÃ­tott; a rÃ©szvÃ©nyek szÃ¡ma 100 darab, egyenkÃ©nt 200 000 Ft nÃ©vÃ©rtÃ©kÅ±.<ujsor/>
+A kivÃ¡lÃ¡s sorÃ¡n lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g fÅ‘bb adatai:<ujsor/>
+TÃ¡rsasÃ¡gi formÃ¡ja: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gneve: AG-METRIA MÃ©rnÃ¶ki SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 8000 SzÃ©kesfehÃ©rvÃ¡r, Ã“voda u. 2.<ujsor/>
+TÃ¡rsasÃ¡gi szerzÅ‘dÃ©s alÃ¡Ã­rÃ¡sÃ¡nak napja: 2010. szeptember 27.<ujsor/>
+FÅ‘ tevÃ©kenysÃ©ge: MÃ©rnÃ¶ki tevÃ©kenysÃ©g, mÅ±szaki tanÃ¡csadÃ¡s.<ujsor/>
+VezetÅ‘ tisztsÃ©gviselÅ‘: FÃ¼lÃ¶p Ferenc AndrÃ¡s Ã¼gyvezetÅ‘, (2484 GÃ¡rdony, TÃ¶rÃ¶k B. u. 15.).<ujsor/>
+CÃ©gvezetÅ‘je: FÃ¼lÃ¶pnÃ© PozsÃ¡r Andrea cÃ©gvezetÅ‘ (2484 GÃ¡rdony, TÃ¶rÃ¶k B. u. 15.).<ujsor/>
+A szÃ©tvÃ¡lÃ³ tÃ¡rsasÃ¡g (zÃ¡rÃ³) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai (kivÃ¡lÃ¡s elÅ‘tt):<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK Könyv szerinti érték Különbözetek Vagyonmérleg szerinti érték<ujsor/>
-Befektetett eszközök 304 691 0 304 691<ujsor/>
-Immateriális javak 4 017 0 4 017<ujsor/>
-Tárgyi eszközök 300 674 0 300 674<ujsor/>
-Befektetett pénzügyi eszközök 0 0 0<ujsor/>
-Forgóeszközök 599 456 0 599 456<ujsor/>
-Készletek 145 0 145<ujsor/>
-Követelések 59 739 0 59 739<ujsor/>
-Értékpapírok 0 0 0<ujsor/>
-Pénzeszközök 539 572 0 539 572<ujsor/>
-Aktív idõbeli elhatárolások 127 0 127<ujsor/>
-ÖSSZESEN: 904 274 0 904 274<ujsor/>
+ESZKÃ–ZÃ–K KÃ¶nyv szerinti Ã©rtÃ©k KÃ¼lÃ¶nbÃ¶zetek VagyonmÃ©rleg szerinti Ã©rtÃ©k<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 304 691 0 304 691<ujsor/>
+ImmateriÃ¡lis javak 4 017 0 4 017<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 300 674 0 300 674<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 0 0<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 599 456 0 599 456<ujsor/>
+KÃ©szletek 145 0 145<ujsor/>
+KÃ¶vetelÃ©sek 59 739 0 59 739<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 0 0 0<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 539 572 0 539 572<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 127 0 127<ujsor/>
+Ã–SSZESEN: 904 274 0 904 274<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK Könyv szerinti érték Különbözetek Vagyonmérleg szerinti érték<ujsor/>
-Saját tõke 836 414 0 836 414<ujsor/>
-Jegyzett tõke 20 000 0 20 000<ujsor/>
-Jegyzett, de még be nem fizetett tõke 0 0 0<ujsor/>
-Tõketartalék 0 0 0<ujsor/>
-Eredménytartalék 747 180 28 278 775 458<ujsor/>
-Lekötött tartalék 40 956 0 40 956<ujsor/>
-Értékelési tartalék 0 0 0<ujsor/>
-Mérleg szerinti eredmény 28 278 ­28 278 0<ujsor/>
-Céltartalékok 0 0 0<ujsor/>
-Kötelezettségek 59 164 0 59 164<ujsor/>
-Hátra sorolt kötelezettségek 0 0 0<ujsor/>
-Hosszú lejáratú kötelezettségek 895 0 895<ujsor/>
-Rövid lejáratú kötelezettségek 58 269 0 58 269<ujsor/>
-Passzív idõbeli elhatárolások 8 696 0 8 696<ujsor/>
-ÖSSZESEN: 904 274 0 904 274<ujsor/>
-A kiválást követõen fennmaradó társaság (nyitó) vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
+FORRÃSOK KÃ¶nyv szerinti Ã©rtÃ©k KÃ¼lÃ¶nbÃ¶zetek VagyonmÃ©rleg szerinti Ã©rtÃ©k<ujsor/>
+SajÃ¡t tÅ‘ke 836 414 0 836 414<ujsor/>
+Jegyzett tÅ‘ke 20 000 0 20 000<ujsor/>
+Jegyzett, de mÃ©g be nem fizetett tÅ‘ke 0 0 0<ujsor/>
+TÅ‘ketartalÃ©k 0 0 0<ujsor/>
+EredmÃ©nytartalÃ©k 747 180 28 278 775 458<ujsor/>
+LekÃ¶tÃ¶tt tartalÃ©k 40 956 0 40 956<ujsor/>
+Ã‰rtÃ©kelÃ©si tartalÃ©k 0 0 0<ujsor/>
+MÃ©rleg szerinti eredmÃ©ny 28 278 Â­28 278 0<ujsor/>
+CÃ©ltartalÃ©kok 0 0 0<ujsor/>
+KÃ¶telezettsÃ©gek 59 164 0 59 164<ujsor/>
+HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0 0 0<ujsor/>
+HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 895 0 895<ujsor/>
+RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 58 269 0 58 269<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 8 696 0 8 696<ujsor/>
+Ã–SSZESEN: 904 274 0 904 274<ujsor/>
+A kivÃ¡lÃ¡st kÃ¶vetÅ‘en fennmaradÃ³ tÃ¡rsasÃ¡g (nyitÃ³) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK Vagyonmérleg szerinti érték Rendezés Jogutód társaság vagyona<ujsor/>
-Befektetett eszközök 36 272 0 36 272<ujsor/>
-Immateriális javak 2 061 0 2 061<ujsor/>
-Tárgyi eszközök 34 211 0 34 211<ujsor/>
-Befektetett pénzügyi eszközök 0 0 0<ujsor/>
-Forgóeszközök 62 917 0 62 917<ujsor/>
-Készletek 145 0 145<ujsor/>
-Követelések 41 794 0 41 794<ujsor/>
-Értékpapírok 0 0 0<ujsor/>
-Pénzeszközök 20 978 0 20 978<ujsor/>
-Aktív idõbeli elhatárolások 127 0 127<ujsor/>
-ÖSSZESEN: 99 136 0 99 136<ujsor/>
+ESZKÃ–ZÃ–K VagyonmÃ©rleg szerinti Ã©rtÃ©k RendezÃ©s JogutÃ³d tÃ¡rsasÃ¡g vagyona<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 36 272 0 36 272<ujsor/>
+ImmateriÃ¡lis javak 2 061 0 2 061<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 34 211 0 34 211<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 0 0<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 62 917 0 62 917<ujsor/>
+KÃ©szletek 145 0 145<ujsor/>
+KÃ¶vetelÃ©sek 41 794 0 41 794<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 0 0 0<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 20 978 0 20 978<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 127 0 127<ujsor/>
+Ã–SSZESEN: 99 136 0 99 136<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK Vagyonmérleg szerinti érték Rendezés Jogutód társaság vagyona<ujsor/>
-Saját tõke 31 456 0 31 456<ujsor/>
-Jegyzett tõke 20 000 0 20 000<ujsor/>
-Jegyzett, de még be nem fizetett tõke 0 0 0<ujsor/>
-Tõketartalék 0 0 0<ujsor/>
-Eredménytartalék 500 ­500 0<ujsor/>
-Lekötött tartalék 10 956 500 11 456<ujsor/>
-Értékelési tartalék 0 0 0<ujsor/>
-Mérleg szerinti eredmény 0 0 0<ujsor/>
-Céltartalékok 0 0 0<ujsor/>
-Kötelezettségek 59 164 0 59 164<ujsor/>
-Hátra sorolt kötelezettségek 0 0 0<ujsor/>
-Hosszú lejáratú kötelezettségek 895 0 895<ujsor/>
-Rövid lejáratú kötelezettségek 58 269 0 58 269<ujsor/>
-Passzív idõbeli elhatárolások 8 696 0 8 696<ujsor/>
-ÖSSZESEN: 99 136 0 99 136<ujsor/>
-A kiválás során létrejövõ társaság (nyitó) vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
+FORRÃSOK VagyonmÃ©rleg szerinti Ã©rtÃ©k RendezÃ©s JogutÃ³d tÃ¡rsasÃ¡g vagyona<ujsor/>
+SajÃ¡t tÅ‘ke 31 456 0 31 456<ujsor/>
+Jegyzett tÅ‘ke 20 000 0 20 000<ujsor/>
+Jegyzett, de mÃ©g be nem fizetett tÅ‘ke 0 0 0<ujsor/>
+TÅ‘ketartalÃ©k 0 0 0<ujsor/>
+EredmÃ©nytartalÃ©k 500 Â­500 0<ujsor/>
+LekÃ¶tÃ¶tt tartalÃ©k 10 956 500 11 456<ujsor/>
+Ã‰rtÃ©kelÃ©si tartalÃ©k 0 0 0<ujsor/>
+MÃ©rleg szerinti eredmÃ©ny 0 0 0<ujsor/>
+CÃ©ltartalÃ©kok 0 0 0<ujsor/>
+KÃ¶telezettsÃ©gek 59 164 0 59 164<ujsor/>
+HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0 0 0<ujsor/>
+HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 895 0 895<ujsor/>
+RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 58 269 0 58 269<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 8 696 0 8 696<ujsor/>
+Ã–SSZESEN: 99 136 0 99 136<ujsor/>
+A kivÃ¡lÃ¡s sorÃ¡n lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g (nyitÃ³) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK Vagyonmérleg szerinti érték Rendezés Jogutód társaság vagyona<ujsor/>
-Befektetett eszközök 268 419 0 268 419<ujsor/>
-Immateriális javak 1 956 0 1 956<ujsor/>
-Tárgyi eszközök 266 463 0 266 463<ujsor/>
-Befektetett pénzügyi eszközök 0 0 0<ujsor/>
-Forgóeszközök 536 539 0 536 539<ujsor/>
-Készletek 0 0 0<ujsor/>
-Követelések 17 945 0 17 945<ujsor/>
-Értékpapírok 0 0 0<ujsor/>
-Pénzeszközök 518 594 0 518 594<ujsor/>
-Aktív idõbeli elhatárolások 0 0 0<ujsor/>
-ÖSSZESEN: 804 958 0 804 958<ujsor/>
+ESZKÃ–ZÃ–K VagyonmÃ©rleg szerinti Ã©rtÃ©k RendezÃ©s JogutÃ³d tÃ¡rsasÃ¡g vagyona<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 268 419 0 268 419<ujsor/>
+ImmateriÃ¡lis javak 1 956 0 1 956<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 266 463 0 266 463<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 0 0<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 536 539 0 536 539<ujsor/>
+KÃ©szletek 0 0 0<ujsor/>
+KÃ¶vetelÃ©sek 17 945 0 17 945<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 0 0 0<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 518 594 0 518 594<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 0 0 0<ujsor/>
+Ã–SSZESEN: 804 958 0 804 958<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK Vagyonmérleg szerinti érték Rendezés Jogutód társaság vagyona<ujsor/>
-Saját tõke 804 958 0 804 958<ujsor/>
-Jegyzett tõke 1 000 1 000<ujsor/>
-Jegyzett, de még be nem fizetett tõke 0 0 0<ujsor/>
-Tõketartalék 0 0 0<ujsor/>
-Eredménytartalék 774 958 ­1 500 773 458<ujsor/>
-Lekötött tartalék 30 000 500 30 500<ujsor/>
-Értékelési tartalék 0 0 0<ujsor/>
-Mérleg szerinti eredmény 0 0 0<ujsor/>
-Céltartalékok 0 0 0<ujsor/>
-Kötelezettségek 0 0 0<ujsor/>
-Hátra sorolt kötelezettségek 0 0 0<ujsor/>
-Hosszú lejáratú kötelezettségek 0 0 0<ujsor/>
-Rövid lejáratú kötelezettségek 0 0 0<ujsor/>
-Passzív idõbeli elhatárolások 0 0 0<ujsor/>
-ÖSSZESEN: 804 958 0 804 958<ujsor/>
-A jogok és kötelezettségek megosztására vonatkozó megállapodás fontosabb rendelkezései:<ujsor/>
-A kiválás során a kiválást követõen fennmaradó ALBA GEOTRADE Fõvállalkozó Tervezõ és Földmérõ Zártkörûen Mûködõ Részvénytársaságot terheli valamennyi hosszú és rövid lejáratú kötelezettség, és valamennyi garanciális helytállási kötelezettség, a passzív idõbeli elhatárolás; illetik a leltárban felsorolt követelések, készletek, pénzeszközök, tárgyi eszközök, aktív idõbeli elhatárolás. Az AG-METRIA Mérnöki Szolgáltató Korlátolt Felelõsségû Társaságot illetik a leltárban felsorolt pénzeszközök és követelések, tárgyi eszközök és immateriális javak; rövid és hosszú lejáratú kötelezettségek nem terhelik.<ujsor/>
-A vagyonmegosztás aránya a jogelõd társaság saját tõkéjéhez viszonyítottan ALBA GEOTRADE Fõvállalkozó Tervezõ és Földmérõ Zártkörûen Mûködõ Részvénytársaság 3,76%, AG-METRIA Mérnöki Szolgáltató Korlátolt Felelõsségû Társaság 96,24%.<ujsor/>
-Az átalakuló társaság felhívja hitelezõit, hogy amennyiben az átalakulás elsõ közzététele elõtt keletkezett és le nem járt követelésük áll fenn a társasággal szemben, követeléseik erejéig, az átalakulás második közzétételét követõ 30 napos jogvesztõ határidõn belül a társaságtól biztosítékot követelhetnek a Gt. 76. § (2) bekezdés szerint. Az átalakuló társaság hitelezõi a hirdetményi határidõ alatt a követelésüket érintõ vagyonmegosztási rendelkezésekrõl Fülöp Ferenc András (2484 Gárdony, Török B. u. 15.) vezérigazgatótól kaphatnak tájékoztatást.<ujsor/>
-(Második közzététel.)<ujsor/>
+FORRÃSOK VagyonmÃ©rleg szerinti Ã©rtÃ©k RendezÃ©s JogutÃ³d tÃ¡rsasÃ¡g vagyona<ujsor/>
+SajÃ¡t tÅ‘ke 804 958 0 804 958<ujsor/>
+Jegyzett tÅ‘ke 1 000 1 000<ujsor/>
+Jegyzett, de mÃ©g be nem fizetett tÅ‘ke 0 0 0<ujsor/>
+TÅ‘ketartalÃ©k 0 0 0<ujsor/>
+EredmÃ©nytartalÃ©k 774 958 Â­1 500 773 458<ujsor/>
+LekÃ¶tÃ¶tt tartalÃ©k 30 000 500 30 500<ujsor/>
+Ã‰rtÃ©kelÃ©si tartalÃ©k 0 0 0<ujsor/>
+MÃ©rleg szerinti eredmÃ©ny 0 0 0<ujsor/>
+CÃ©ltartalÃ©kok 0 0 0<ujsor/>
+KÃ¶telezettsÃ©gek 0 0 0<ujsor/>
+HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0 0 0<ujsor/>
+HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0 0 0<ujsor/>
+RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0 0 0<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 0 0 0<ujsor/>
+Ã–SSZESEN: 804 958 0 804 958<ujsor/>
+A jogok Ã©s kÃ¶telezettsÃ©gek megosztÃ¡sÃ¡ra vonatkozÃ³ megÃ¡llapodÃ¡s fontosabb rendelkezÃ©sei:<ujsor/>
+A kivÃ¡lÃ¡s sorÃ¡n a kivÃ¡lÃ¡st kÃ¶vetÅ‘en fennmaradÃ³ ALBA GEOTRADE FÅ‘vÃ¡llalkozÃ³ TervezÅ‘ Ã©s FÃ¶ldmÃ©rÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡got terheli valamennyi hosszÃº Ã©s rÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©g, Ã©s valamennyi garanciÃ¡lis helytÃ¡llÃ¡si kÃ¶telezettsÃ©g, a passzÃ­v idÅ‘beli elhatÃ¡rolÃ¡s; illetik a leltÃ¡rban felsorolt kÃ¶vetelÃ©sek, kÃ©szletek, pÃ©nzeszkÃ¶zÃ¶k, tÃ¡rgyi eszkÃ¶zÃ¶k, aktÃ­v idÅ‘beli elhatÃ¡rolÃ¡s. Az AG-METRIA MÃ©rnÃ¶ki SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡got illetik a leltÃ¡rban felsorolt pÃ©nzeszkÃ¶zÃ¶k Ã©s kÃ¶vetelÃ©sek, tÃ¡rgyi eszkÃ¶zÃ¶k Ã©s immateriÃ¡lis javak; rÃ¶vid Ã©s hosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek nem terhelik.<ujsor/>
+A vagyonmegosztÃ¡s arÃ¡nya a jogelÅ‘d tÃ¡rsasÃ¡g sajÃ¡t tÅ‘kÃ©jÃ©hez viszonyÃ­tottan ALBA GEOTRADE FÅ‘vÃ¡llalkozÃ³ TervezÅ‘ Ã©s FÃ¶ldmÃ©rÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g 3,76%, AG-METRIA MÃ©rnÃ¶ki SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g 96,24%.<ujsor/>
+Az Ã¡talakulÃ³ tÃ¡rsasÃ¡g felhÃ­vja hitelezÅ‘it, hogy amennyiben az Ã¡talakulÃ¡s elsÅ‘ kÃ¶zzÃ©tÃ©tele elÅ‘tt keletkezett Ã©s le nem jÃ¡rt kÃ¶vetelÃ©sÃ¼k Ã¡ll fenn a tÃ¡rsasÃ¡ggal szemben, kÃ¶vetelÃ©seik erejÃ©ig, az Ã¡talakulÃ¡s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ 30 napos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l a tÃ¡rsasÃ¡gtÃ³l biztosÃ­tÃ©kot kÃ¶vetelhetnek a Gt. 76. Â§ (2) bekezdÃ©s szerint. Az Ã¡talakulÃ³ tÃ¡rsasÃ¡g hitelezÅ‘i a hirdetmÃ©nyi hatÃ¡ridÅ‘ alatt a kÃ¶vetelÃ©sÃ¼ket Ã©rintÅ‘ vagyonmegosztÃ¡si rendelkezÃ©sekrÅ‘l FÃ¼lÃ¶p Ferenc AndrÃ¡s (2484 GÃ¡rdony, TÃ¶rÃ¶k B. u. 15.) vezÃ©rigazgatÃ³tÃ³l kaphatnak tÃ¡jÃ©koztatÃ¡st.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0710001201</mezo>
-<mezo id = "nev">ALBA GEOTRADE Fõvállalkozó Tervezõ és Földmérõ Részvénytársaság</mezo>
-<mezo id = "cim">8000 Székesfehérvár</mezo>
+<mezo id = "nev">ALBA GEOTRADE FÅ‘vÃ¡llalkozÃ³ TervezÅ‘ Ã©s FÃ¶ldmÃ©rÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">8000 SzÃ©kesfehÃ©rvÃ¡r</mezo>
 </alrovat>
 </rovat>
 <rovat id = "99017">

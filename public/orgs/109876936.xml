@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">876936</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">1137 Budapest, Katona József u. 14. 2. em. 2. </mezo>
+<mezo id = "cim">1137 Budapest, Katona JÃ³zsef u. 14. 2. em. 2. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">13858250241</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20070105</mezo>
-<mezo id = "nev">EMC Consulting Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">EMC Consulting TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -31,7 +31,7 @@
 <mezo id = "hattol">20070105</mezo>
 <mezo id = "irsz">1137</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Katona József u. 14. 2. em. 2.</mezo>
+<mezo id = "teru">Katona JÃ³zsef u. 14. 2. em. 2.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
@@ -106,21 +106,21 @@
 <rovat id = "13">
 <alrovat id = "3">
 <mezo id = "hattol">20090401</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Menyhárt Bizsán</mezo>
-<mezo id = "panev">Szabó Márta</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">MenyhÃ¡rt BizsÃ¡n</mezo>
+<mezo id = "panev">SzabÃ³ MÃ¡rta</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20090401</mezo>
 <mezo id = "tkelt">20100426</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20110429</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Erényi Júlia</mezo>
-<mezo id = "panev">Szonntag Bernadette Nóra</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">ErÃ©nyi JÃºlia</mezo>
+<mezo id = "panev">Szonntag Bernadette NÃ³ra</mezo>
 <mezo id = "pirsz">1021</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Budakeszi út 77.</mezo>
+<mezo id = "pteru">Budakeszi Ãºt 77.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20110429</mezo>
 <mezo id = "valtk">20110429</mezo>
@@ -138,16 +138,16 @@
 <alrovat id = "2">
 <mezo id = "adosz">13858250241</mezo>
 <mezo id = "bkelt">20110715</mezo>
-<mezo id = "megj">Státusz kezdete: 2006/12/06</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 2006/12/06</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0109">
 <alrovat id = "4">
 <mezo id = "hattol">20090401</mezo>
-<mezo id = "pnev">Erdélyi Júlia</mezo>
-<mezo id = "panev">Szonntag Bernadette Nóra</mezo>
+<mezo id = "pnev">ErdÃ©lyi JÃºlia</mezo>
+<mezo id = "panev">Szonntag Bernadette NÃ³ra</mezo>
 <mezo id = "pirsz">1021</mezo>
-<mezo id = "phely">Budapest, Budakeszi út 77.</mezo>
+<mezo id = "phely">Budapest, Budakeszi Ãºt 77.</mezo>
 <mezo id = "tagsk">20061020</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20090401</mezo>
@@ -157,10 +157,10 @@
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20090401</mezo>
-<mezo id = "pnev">dr. Fekete Mónika</mezo>
-<mezo id = "panev">Varga Mária</mezo>
+<mezo id = "pnev">dr. Fekete MÃ³nika</mezo>
+<mezo id = "panev">Varga MÃ¡ria</mezo>
 <mezo id = "pirsz">1135</mezo>
-<mezo id = "phely">Budapest, Frangepán köz 23.</mezo>
+<mezo id = "phely">Budapest, FrangepÃ¡n kÃ¶z 23.</mezo>
 <mezo id = "tagsk">20061020</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20090401</mezo>
@@ -173,77 +173,77 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az EMC Consulting Tanácsadó Korlátolt Felelõsségû Társaság (Cg.: [01 09 876936]; székhely: 1137 Budapest, Katona J. u. 14. II. 2.) tudatja ügyfeleivel és hitelezõivel, hogy a 2007. október 17-i taggyûlésen, 1/2007. (X. 17.) számú határozatával döntött a korlátolt felelõsségû társaság törzstõkéjének leszállításáról.<ujsor/>
-A társaság határozatával a korábbi 3 000 000 Ft törzstõkéjét 1 500 000 Ft-ra szállította le. A leszállítás oka tõkekivonás.<ujsor/>
-A tõkeleszállítás következtében a tagok egyes törzsbetétjének nagysága a következõ:<ujsor/>
-Erényi Júlia 600 000 Ft összegû törzsbetét.<ujsor/>
-Mesterházy Szilvia 600 000 Ft összegû törzsbetét.<ujsor/>
-Dr. Fekete Mónika 300 000 Ft összegû törzsbetét.<ujsor/>
-Felhívjuk a társaság hitelezõit, hogy a hirdetmény elsõ alkalommal történt közzétételét megelõzõen keletkezett és ezen idõpontig esedékessé nem vált követeléseik után biztosítékra tarthatnak igényt. Hitelezõi igényüket az utolsó közzétételtõl számított harmincnapos jogvesztõ határidõn belül jogosultak bejelenteni, amennyiben a törzstõke leszállításával összefüggésben biztosítékra tarthatnak igényt. Igénybejelentésüknek a társaság székhelyén tehetnek eleget.<ujsor/>
-A társaság a biztosítékadást megtagadja, arra tekintettel, ha: ­ a hitelezõ már rendelkezik a tõkeleszállítással járó kockázattal arányos biztosítékkal, ­ a társaság pénzügyi, vagyoni helyzete miatt a biztosítékadás indokolatlan.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">Az EMC Consulting TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [01 09 876936]; szÃ©khely: 1137 Budapest, Katona J. u. 14. II. 2.) tudatja Ã¼gyfeleivel Ã©s hitelezÅ‘ivel, hogy a 2007. oktÃ³ber 17-i taggyÅ±lÃ©sen, 1/2007. (X. 17.) szÃ¡mÃº hatÃ¡rozatÃ¡val dÃ¶ntÃ¶tt a korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©jÃ©nek leszÃ¡llÃ­tÃ¡sÃ¡rÃ³l.<ujsor/>
+A tÃ¡rsasÃ¡g hatÃ¡rozatÃ¡val a korÃ¡bbi 3 000 000 Ft tÃ¶rzstÅ‘kÃ©jÃ©t 1 500 000 Ft-ra szÃ¡llÃ­totta le. A leszÃ¡llÃ­tÃ¡s oka tÅ‘kekivonÃ¡s.<ujsor/>
+A tÅ‘keleszÃ¡llÃ­tÃ¡s kÃ¶vetkeztÃ©ben a tagok egyes tÃ¶rzsbetÃ©tjÃ©nek nagysÃ¡ga a kÃ¶vetkezÅ‘:<ujsor/>
+ErÃ©nyi JÃºlia 600 000 Ft Ã¶sszegÅ± tÃ¶rzsbetÃ©t.<ujsor/>
+MesterhÃ¡zy Szilvia 600 000 Ft Ã¶sszegÅ± tÃ¶rzsbetÃ©t.<ujsor/>
+Dr. Fekete MÃ³nika 300 000 Ft Ã¶sszegÅ± tÃ¶rzsbetÃ©t.<ujsor/>
+FelhÃ­vjuk a tÃ¡rsasÃ¡g hitelezÅ‘it, hogy a hirdetmÃ©ny elsÅ‘ alkalommal tÃ¶rtÃ©nt kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkezett Ã©s ezen idÅ‘pontig esedÃ©kessÃ© nem vÃ¡lt kÃ¶vetelÃ©seik utÃ¡n biztosÃ­tÃ©kra tarthatnak igÃ©nyt. HitelezÅ‘i igÃ©nyÃ¼ket az utolsÃ³ kÃ¶zzÃ©tÃ©teltÅ‘l szÃ¡mÃ­tott harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l jogosultak bejelenteni, amennyiben a tÃ¶rzstÅ‘ke leszÃ¡llÃ­tÃ¡sÃ¡val Ã¶sszefÃ¼ggÃ©sben biztosÃ­tÃ©kra tarthatnak igÃ©nyt. IgÃ©nybejelentÃ©sÃ¼knek a tÃ¡rsasÃ¡g szÃ©khelyÃ©n tehetnek eleget.<ujsor/>
+A tÃ¡rsasÃ¡g a biztosÃ­tÃ©kadÃ¡st megtagadja, arra tekintettel, ha: Â­ a hitelezÅ‘ mÃ¡r rendelkezik a tÅ‘keleszÃ¡llÃ­tÃ¡ssal jÃ¡rÃ³ kockÃ¡zattal arÃ¡nyos biztosÃ­tÃ©kkal, Â­ a tÃ¡rsasÃ¡g pÃ©nzÃ¼gyi, vagyoni helyzete miatt a biztosÃ­tÃ©kadÃ¡s indokolatlan.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109876936</mezo>
-<mezo id = "nev">EMC Consulting Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">EMC Consulting TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1137 Budapest</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az EMC Consulting Tanácsadó Korlátolt Felelõsségû Társaság (Cg.: [01 09 876936]; székhelye: 1137 Budapest, Katona J. u. 14. II. 2.) tudatja ügyfeleivel és hitelezõivel, hogy a 2007. október 17-i taggyûlésen, 1/2007. (X. 17.) számú határozatával döntött a korlátolt felelõsségû társaság törzstõkéjének leszállításáról.<ujsor/>
-A társaság határozatával a korábbi 3 000 000 Ft törzstõkéjét 1 500 000 Ft-ra szállította le.<ujsor/>
-A leszállítás oka tõkekivonás.<ujsor/>
-A tõkeleszállítás következtében a tagok egyes törzsbetétjének nagysága a következõ:<ujsor/>
-Erényi Júlia 600 000 Ft összegû törzsbetét<ujsor/>
-Mesterházy Szilvia 600 000 Ft összegû törzsbetét<ujsor/>
-dr. Fekete Mónika 300 000 Ft összegû törzsbetét<ujsor/>
-Felhívjuk a társaság hitelezõit, hogy a hirdetmény elsõ alkalommal történt közzétételét megelõzõen keletkezett és ezen idõpontig esedékessé nem vált követeléseik után biztosítékra tarthatnak igényt. Hitelezõi igényüket az utolsó közzétételtõl számított harmincnapos jogvesztõ határidõn belül jogosultak bejelenteni, amennyiben a törzstõke leszállításával összefüggésben biztosítékra tarthatnak igényt. Igénybejelentésüknek a társaság székhelyén tehetnek eleget.<ujsor/>
-A társaság a biztosítékadást megtagadja, ha<ujsor/>
-­ a hitelezõ már rendelkezik a tõkeleszállítással járó kockázattal arányos biztosítékkal,<ujsor/>
-­ a társaság pénzügyi, vagyoni helyzete miatt a biztosítékadás indokolatlan.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">Az EMC Consulting TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [01 09 876936]; szÃ©khelye: 1137 Budapest, Katona J. u. 14. II. 2.) tudatja Ã¼gyfeleivel Ã©s hitelezÅ‘ivel, hogy a 2007. oktÃ³ber 17-i taggyÅ±lÃ©sen, 1/2007. (X. 17.) szÃ¡mÃº hatÃ¡rozatÃ¡val dÃ¶ntÃ¶tt a korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©jÃ©nek leszÃ¡llÃ­tÃ¡sÃ¡rÃ³l.<ujsor/>
+A tÃ¡rsasÃ¡g hatÃ¡rozatÃ¡val a korÃ¡bbi 3 000 000 Ft tÃ¶rzstÅ‘kÃ©jÃ©t 1 500 000 Ft-ra szÃ¡llÃ­totta le.<ujsor/>
+A leszÃ¡llÃ­tÃ¡s oka tÅ‘kekivonÃ¡s.<ujsor/>
+A tÅ‘keleszÃ¡llÃ­tÃ¡s kÃ¶vetkeztÃ©ben a tagok egyes tÃ¶rzsbetÃ©tjÃ©nek nagysÃ¡ga a kÃ¶vetkezÅ‘:<ujsor/>
+ErÃ©nyi JÃºlia 600 000 Ft Ã¶sszegÅ± tÃ¶rzsbetÃ©t<ujsor/>
+MesterhÃ¡zy Szilvia 600 000 Ft Ã¶sszegÅ± tÃ¶rzsbetÃ©t<ujsor/>
+dr. Fekete MÃ³nika 300 000 Ft Ã¶sszegÅ± tÃ¶rzsbetÃ©t<ujsor/>
+FelhÃ­vjuk a tÃ¡rsasÃ¡g hitelezÅ‘it, hogy a hirdetmÃ©ny elsÅ‘ alkalommal tÃ¶rtÃ©nt kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkezett Ã©s ezen idÅ‘pontig esedÃ©kessÃ© nem vÃ¡lt kÃ¶vetelÃ©seik utÃ¡n biztosÃ­tÃ©kra tarthatnak igÃ©nyt. HitelezÅ‘i igÃ©nyÃ¼ket az utolsÃ³ kÃ¶zzÃ©tÃ©teltÅ‘l szÃ¡mÃ­tott harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l jogosultak bejelenteni, amennyiben a tÃ¶rzstÅ‘ke leszÃ¡llÃ­tÃ¡sÃ¡val Ã¶sszefÃ¼ggÃ©sben biztosÃ­tÃ©kra tarthatnak igÃ©nyt. IgÃ©nybejelentÃ©sÃ¼knek a tÃ¡rsasÃ¡g szÃ©khelyÃ©n tehetnek eleget.<ujsor/>
+A tÃ¡rsasÃ¡g a biztosÃ­tÃ©kadÃ¡st megtagadja, ha<ujsor/>
+Â­ a hitelezÅ‘ mÃ¡r rendelkezik a tÅ‘keleszÃ¡llÃ­tÃ¡ssal jÃ¡rÃ³ kockÃ¡zattal arÃ¡nyos biztosÃ­tÃ©kkal,<ujsor/>
+Â­ a tÃ¡rsasÃ¡g pÃ©nzÃ¼gyi, vagyoni helyzete miatt a biztosÃ­tÃ©kadÃ¡s indokolatlan.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109876936</mezo>
-<mezo id = "nev">EMC Consulting Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">EMC Consulting TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1137 Budapest</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az EMC Consulting Tanácsadó Korlátolt Felelõsségû Társaság (Cg.: [01 09 876936]; székhely: 1137 Budapest, Katona J. u. 14. II. 2.) tudatja ügyfeleivel és hitelezõivel, hogy a 2007. október 17-i taggyûlésen, 1/2007. (X. 17.) számú határozatával döntött a korlátolt felelõsségû társaság törzstõkéjének leszállításáról.<ujsor/>
-A társaság határozatával a korábbi 3 000 000 Ft törzstõkéjét 1 500 000 Ft-ra szállította le. A leszállítás oka tõkekivonás.<ujsor/>
-A tõkeleszállítás következtében a tagok egyes törzsbetétjének nagysága a következõ:<ujsor/>
-Erényi Júlia 600 000 Ft összegû törzsbetét.<ujsor/>
-Mesterházy Szilvia 600 000 Ft összegû törzsbetét.<ujsor/>
-Dr. Fekete Mónika 300 000 Ft összegû törzsbetét.<ujsor/>
-Felhívjuk a társaság hitelezõit, hogy a hirdetmény elsõ alkalommal történt közzétételét megelõzõen keletkezett és ezen idõpontig esedékessé nem vált követeléseik után biztosítékra tarthatnak igényt. Hitelezõi igényüket az utolsó közzétételtõl számított harmincnapos jogvesztõ határidõn belül jogosultak bejelenteni, amennyiben a törzstõke leszállításával összefüggésben biztosítékra tarthatnak igényt. Igénybejelentésüknek a társaság székhelyén tehetnek eleget.<ujsor/>
-A társaság a biztosítékadást megtagadja, arra tekintettel, ha:<ujsor/>
-­ a hitelezõ már rendelkezik a tõkeleszállítással járó kockázattal arányos biztosítékkal,<ujsor/>
-­ a társaság pénzügyi, vagyoni helyzete miatt a biztosítékadás indokolatlan.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">Az EMC Consulting TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [01 09 876936]; szÃ©khely: 1137 Budapest, Katona J. u. 14. II. 2.) tudatja Ã¼gyfeleivel Ã©s hitelezÅ‘ivel, hogy a 2007. oktÃ³ber 17-i taggyÅ±lÃ©sen, 1/2007. (X. 17.) szÃ¡mÃº hatÃ¡rozatÃ¡val dÃ¶ntÃ¶tt a korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©jÃ©nek leszÃ¡llÃ­tÃ¡sÃ¡rÃ³l.<ujsor/>
+A tÃ¡rsasÃ¡g hatÃ¡rozatÃ¡val a korÃ¡bbi 3 000 000 Ft tÃ¶rzstÅ‘kÃ©jÃ©t 1 500 000 Ft-ra szÃ¡llÃ­totta le. A leszÃ¡llÃ­tÃ¡s oka tÅ‘kekivonÃ¡s.<ujsor/>
+A tÅ‘keleszÃ¡llÃ­tÃ¡s kÃ¶vetkeztÃ©ben a tagok egyes tÃ¶rzsbetÃ©tjÃ©nek nagysÃ¡ga a kÃ¶vetkezÅ‘:<ujsor/>
+ErÃ©nyi JÃºlia 600 000 Ft Ã¶sszegÅ± tÃ¶rzsbetÃ©t.<ujsor/>
+MesterhÃ¡zy Szilvia 600 000 Ft Ã¶sszegÅ± tÃ¶rzsbetÃ©t.<ujsor/>
+Dr. Fekete MÃ³nika 300 000 Ft Ã¶sszegÅ± tÃ¶rzsbetÃ©t.<ujsor/>
+FelhÃ­vjuk a tÃ¡rsasÃ¡g hitelezÅ‘it, hogy a hirdetmÃ©ny elsÅ‘ alkalommal tÃ¶rtÃ©nt kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkezett Ã©s ezen idÅ‘pontig esedÃ©kessÃ© nem vÃ¡lt kÃ¶vetelÃ©seik utÃ¡n biztosÃ­tÃ©kra tarthatnak igÃ©nyt. HitelezÅ‘i igÃ©nyÃ¼ket az utolsÃ³ kÃ¶zzÃ©tÃ©teltÅ‘l szÃ¡mÃ­tott harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l jogosultak bejelenteni, amennyiben a tÃ¶rzstÅ‘ke leszÃ¡llÃ­tÃ¡sÃ¡val Ã¶sszefÃ¼ggÃ©sben biztosÃ­tÃ©kra tarthatnak igÃ©nyt. IgÃ©nybejelentÃ©sÃ¼knek a tÃ¡rsasÃ¡g szÃ©khelyÃ©n tehetnek eleget.<ujsor/>
+A tÃ¡rsasÃ¡g a biztosÃ­tÃ©kadÃ¡st megtagadja, arra tekintettel, ha:<ujsor/>
+Â­ a hitelezÅ‘ mÃ¡r rendelkezik a tÅ‘keleszÃ¡llÃ­tÃ¡ssal jÃ¡rÃ³ kockÃ¡zattal arÃ¡nyos biztosÃ­tÃ©kkal,<ujsor/>
+Â­ a tÃ¡rsasÃ¡g pÃ©nzÃ¼gyi, vagyoni helyzete miatt a biztosÃ­tÃ©kadÃ¡s indokolatlan.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109876936</mezo>
-<mezo id = "nev">EMC Consulting Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">EMC Consulting TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1137 Budapest</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az EMC Consulting Tanácsadó Korlátolt Felelõsségû Társaság (Cg.: [01 09 876936]; székhelye: 1137 Budapest, Katona J. u. 14. II. 2.) tudatja ügyfeleivel és hitelezõivel, hogy a 2007. október 17-i taggyûlésen, 1/2007. (X. 17.) számú határozatával döntött a korlátolt felelõsségû társaság törzstõkéjének leszállításáról.<ujsor/>
-A társaság határozatával a korábbi 3 000 000 Ft törzstõkéjét 1 500 000 Ft-ra szállította le.<ujsor/>
-A leszállítás oka tõkekivonás.<ujsor/>
-A tõkeleszállítás következtében a tagok egyes törzsbetétjének nagysága a következõ:<ujsor/>
-Erényi Júlia 600 000 Ft összegû törzsbetét<ujsor/>
-Mesterházy Szilvia 600 000 Ft összegû törzsbetét<ujsor/>
-dr. Fekete Mónika 300 000 Ft összegû törzsbetét<ujsor/>
-Felhívjuk a társaság hitelezõit, hogy a hirdetmény elsõ alkalommal történt közzétételét megelõzõen keletkezett és ezen idõpontig esedékessé nem vált követeléseik után biztosítékra tarthatnak igényt. Hitelezõi igényüket az utolsó közzétételtõl számított harmincnapos jogvesztõ határidõn belül jogosultak bejelenteni, amennyiben a törzstõke leszállításával összefüggésben biztosítékra tarthatnak igényt. Igénybejelentésüknek a társaság székhelyén tehetnek eleget.<ujsor/>
-A társaság a biztosítékadást megtagadja, ha<ujsor/>
-­ a hitelezõ már rendelkezik a tõkeleszállítással járó kockázattal arányos biztosítékkal,<ujsor/>
-­ a társaság pénzügyi, vagyoni helyzete miatt a biztosítékadás indokolatlan.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">Az EMC Consulting TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [01 09 876936]; szÃ©khelye: 1137 Budapest, Katona J. u. 14. II. 2.) tudatja Ã¼gyfeleivel Ã©s hitelezÅ‘ivel, hogy a 2007. oktÃ³ber 17-i taggyÅ±lÃ©sen, 1/2007. (X. 17.) szÃ¡mÃº hatÃ¡rozatÃ¡val dÃ¶ntÃ¶tt a korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©jÃ©nek leszÃ¡llÃ­tÃ¡sÃ¡rÃ³l.<ujsor/>
+A tÃ¡rsasÃ¡g hatÃ¡rozatÃ¡val a korÃ¡bbi 3 000 000 Ft tÃ¶rzstÅ‘kÃ©jÃ©t 1 500 000 Ft-ra szÃ¡llÃ­totta le.<ujsor/>
+A leszÃ¡llÃ­tÃ¡s oka tÅ‘kekivonÃ¡s.<ujsor/>
+A tÅ‘keleszÃ¡llÃ­tÃ¡s kÃ¶vetkeztÃ©ben a tagok egyes tÃ¶rzsbetÃ©tjÃ©nek nagysÃ¡ga a kÃ¶vetkezÅ‘:<ujsor/>
+ErÃ©nyi JÃºlia 600 000 Ft Ã¶sszegÅ± tÃ¶rzsbetÃ©t<ujsor/>
+MesterhÃ¡zy Szilvia 600 000 Ft Ã¶sszegÅ± tÃ¶rzsbetÃ©t<ujsor/>
+dr. Fekete MÃ³nika 300 000 Ft Ã¶sszegÅ± tÃ¶rzsbetÃ©t<ujsor/>
+FelhÃ­vjuk a tÃ¡rsasÃ¡g hitelezÅ‘it, hogy a hirdetmÃ©ny elsÅ‘ alkalommal tÃ¶rtÃ©nt kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkezett Ã©s ezen idÅ‘pontig esedÃ©kessÃ© nem vÃ¡lt kÃ¶vetelÃ©seik utÃ¡n biztosÃ­tÃ©kra tarthatnak igÃ©nyt. HitelezÅ‘i igÃ©nyÃ¼ket az utolsÃ³ kÃ¶zzÃ©tÃ©teltÅ‘l szÃ¡mÃ­tott harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l jogosultak bejelenteni, amennyiben a tÃ¶rzstÅ‘ke leszÃ¡llÃ­tÃ¡sÃ¡val Ã¶sszefÃ¼ggÃ©sben biztosÃ­tÃ©kra tarthatnak igÃ©nyt. IgÃ©nybejelentÃ©sÃ¼knek a tÃ¡rsasÃ¡g szÃ©khelyÃ©n tehetnek eleget.<ujsor/>
+A tÃ¡rsasÃ¡g a biztosÃ­tÃ©kadÃ¡st megtagadja, ha<ujsor/>
+Â­ a hitelezÅ‘ mÃ¡r rendelkezik a tÅ‘keleszÃ¡llÃ­tÃ¡ssal jÃ¡rÃ³ kockÃ¡zattal arÃ¡nyos biztosÃ­tÃ©kkal,<ujsor/>
+Â­ a tÃ¡rsasÃ¡g pÃ©nzÃ¼gyi, vagyoni helyzete miatt a biztosÃ­tÃ©kadÃ¡s indokolatlan.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109876936</mezo>
-<mezo id = "nev">EMC Consulting Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">EMC Consulting TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1137 Budapest</mezo>
 </alrovat>
 </rovat>

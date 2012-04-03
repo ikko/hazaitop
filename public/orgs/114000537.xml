@@ -6,7 +6,7 @@
 <mezo id = "szam">000537</mezo>
 <mezo id = "nevalrovat">1</mezo>
 <mezo id = "allapot">6</mezo>
-<mezo id = "cim">1088 Budapest, Múzeum u. 17. </mezo>
+<mezo id = "cim">1088 Budapest, MÃºzeum u. 17. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">21954090242</mezo>
 </alrovat>
@@ -14,7 +14,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20040812</mezo>
-<mezo id = "nev">APERTUS Távoktatás-fejlesztési Módszertani Központ Tanácsadó és Szolgáltató Közhasznú Társaság</mezo>
+<mezo id = "nev">APERTUS TÃ¡voktatÃ¡s-fejlesztÃ©si MÃ³dszertani KÃ¶zpont TanÃ¡csadÃ³ Ã©s SzolgÃ¡ltatÃ³ KÃ¶zhasznÃº TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -28,7 +28,7 @@
 <mezo id = "hattol">20050530</mezo>
 <mezo id = "irsz">1088</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Múzeum u. 17.</mezo>
+<mezo id = "teru">MÃºzeum u. 17.</mezo>
 <mezo id = "kirsz">0</mezo>
 </alrovat>
 </rovat>
@@ -915,8 +915,8 @@
 <rovat id = "13">
 <alrovat id = "5">
 <mezo id = "hattol">20080527</mezo>
-<mezo id = "pnev">Nagy Zoltán</mezo>
-<mezo id = "panev">Bátor Klára Magdolna</mezo>
+<mezo id = "pnev">Nagy ZoltÃ¡n</mezo>
+<mezo id = "panev">BÃ¡tor KlÃ¡ra Magdolna</mezo>
 <mezo id = "pirsz">1112</mezo>
 <mezo id = "phely">Budapest, Hengermalom u. 14. fszt. 2.</mezo>
 <mezo id = "kepvo">x</mezo>
@@ -933,16 +933,16 @@
 <alrovat id = "2">
 <mezo id = "hattol">20061204</mezo>
 <mezo id = "cgjsz">1009024428</mezo>
-<mezo id = "nev">&quot;STEUERTIP&quot; Adó-, Könyvszakértõ és Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">&quot;STEUERTIP&quot; AdÃ³-, KÃ¶nyvszakÃ©rtÅ‘ Ã©s TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">3300</mezo>
 <mezo id = "hely">Eger</mezo>
-<mezo id = "teru">Szálloda út</mezo>
+<mezo id = "teru">SzÃ¡lloda Ãºt</mezo>
 <mezo id = "hsz">5.</mezo>
-<mezo id = "pnev">dr. Zagyva Béla</mezo>
-<mezo id = "panev">Bakacs Erzsébet</mezo>
+<mezo id = "pnev">dr. Zagyva BÃ©la</mezo>
+<mezo id = "panev">Bakacs ErzsÃ©bet</mezo>
 <mezo id = "pirsz">3300</mezo>
-<mezo id = "phely">Eger, Malomárok utca 44. 3. 15.</mezo>
+<mezo id = "phely">Eger, MalomÃ¡rok utca 44. 3. 15.</mezo>
 <mezo id = "jogvk">20060401</mezo>
 <mezo id = "jogvv">20100630</mezo>
 <mezo id = "valtk">20060511</mezo>
@@ -952,8 +952,8 @@
 <rovat id = "15">
 <alrovat id = "4">
 <mezo id = "hattol">20061204</mezo>
-<mezo id = "pnev">dr. Princzinger Péter</mezo>
-<mezo id = "panev">Czeglédi Magdolna</mezo>
+<mezo id = "pnev">dr. Princzinger PÃ©ter</mezo>
+<mezo id = "panev">CzeglÃ©di Magdolna</mezo>
 <mezo id = "pirsz">1053</mezo>
 <mezo id = "phely">Budapest, Kossuth Lajos utca 13.</mezo>
 <mezo id = "jogvk">20060228</mezo>
@@ -963,10 +963,10 @@
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20061204</mezo>
-<mezo id = "pnev">Dr. Falucskai Zoltán</mezo>
-<mezo id = "panev">György Irén Jolán</mezo>
+<mezo id = "pnev">Dr. Falucskai ZoltÃ¡n</mezo>
+<mezo id = "panev">GyÃ¶rgy IrÃ©n JolÃ¡n</mezo>
 <mezo id = "pirsz">3754</mezo>
-<mezo id = "phely">Szalonna, Kossuth út 36.</mezo>
+<mezo id = "phely">Szalonna, Kossuth Ãºt 36.</mezo>
 <mezo id = "jogvk">20060228</mezo>
 <mezo id = "jogvv">20100630</mezo>
 <mezo id = "valtk">20060228</mezo>
@@ -977,7 +977,7 @@
 <mezo id = "pnev">Pelyhe Csaba</mezo>
 <mezo id = "panev">Filep Margit</mezo>
 <mezo id = "pirsz">3000</mezo>
-<mezo id = "phely">Hatvan, Kertész út 166-168.</mezo>
+<mezo id = "phely">Hatvan, KertÃ©sz Ãºt 166-168.</mezo>
 <mezo id = "jogvk">20060228</mezo>
 <mezo id = "jogvv">20100630</mezo>
 <mezo id = "valtk">20060228</mezo>
@@ -988,7 +988,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20040812</mezo>
 <mezo id = "cgjsz">109703291</mezo>
-<mezo id = "nev">APERTUS Távoktatás-fejlesztési Módszertani Központ Tanácsadó és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">APERTUS TÃ¡voktatÃ¡s-fejlesztÃ©si MÃ³dszertani KÃ¶zpont TanÃ¡csadÃ³ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "21">
@@ -1006,17 +1006,17 @@
 <rovat id = "22">
 <alrovat id = "1">
 <mezo id = "jccjsz">0109917155</mezo>
-<mezo id = "nev">Apertus Távoktatás-fejlesztési Módszertani Központ Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Apertus TÃ¡voktatÃ¡s-fejlesztÃ©si MÃ³dszertani KÃ¶zpont TanÃ¡csadÃ³ Ã©s SzolgÃ¡ltatÃ³ Nonprofit KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0214">
 <alrovat id = "2">
 <mezo id = "hattol">20071204</mezo>
-<mezo id = "nev">Apertus Közalapítvány a nyitott szakképzésért és távoktatásért (bírósági nyilvántartási vételi sorszáma: 7704)</mezo>
+<mezo id = "nev">Apertus KÃ¶zalapÃ­tvÃ¡ny a nyitott szakkÃ©pzÃ©sÃ©rt Ã©s tÃ¡voktatÃ¡sÃ©rt (bÃ­rÃ³sÃ¡gi nyilvÃ¡ntartÃ¡si vÃ©teli sorszÃ¡ma: 7704)</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1088</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Múzeum utca</mezo>
+<mezo id = "teru">MÃºzeum utca</mezo>
 <mezo id = "hsz">17.</mezo>
 <mezo id = "tagsk">20040812</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -1035,18 +1035,18 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2004. 08. 12-án hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2004. 08. 12-Ã¡n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
 20. 21954090-7320-571-01.<ujsor/>
- Hatályos: 2004. 08. 12-tõl.<ujsor/>
+ HatÃ¡lyos: 2004. 08. 12-tÅ‘l.<ujsor/>
 21. 21954090-2-42.<ujsor/>
- Törölve: 2004. 05. 10-i hatállyal.<ujsor/>
+ TÃ¶rÃ¶lve: 2004. 05. 10-i hatÃ¡llyal.<ujsor/>
  21954090-2-42.<ujsor/>
- Hatályos: 2004. 08. 12-tõl.<ujsor/>
+ HatÃ¡lyos: 2004. 08. 12-tÅ‘l.<ujsor/>
 Bejegyezve: 2004. 08. 23.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0114000537</mezo>
-<mezo id = "nev">APERTUS Távoktatás-fejlesztési Módszertani Központ Tanácsadó és Szolgáltató Közhasznú Társaság</mezo>
-<mezo id = "cim">1146 Budapest, Ajtósi Dürer sor 19-21.</mezo>
+<mezo id = "nev">APERTUS TÃ¡voktatÃ¡s-fejlesztÃ©si MÃ³dszertani KÃ¶zpont TanÃ¡csadÃ³ Ã©s SzolgÃ¡ltatÃ³ KÃ¶zhasznÃº TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1146 Budapest, AjtÃ³si DÃ¼rer sor 19-21.</mezo>
 <mezo id = "adosz">21954090242</mezo>
 </alrovat>
 </rovat>

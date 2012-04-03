@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">065051</mezo>
 <mezo id = "nevalrovat">2</mezo>
-<mezo id = "cim">1133 Budapest, Kárpát u. 21. </mezo>
+<mezo id = "cim">1133 Budapest, KÃ¡rpÃ¡t u. 21. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">10445952244</mezo>
 </alrovat>
@@ -13,13 +13,13 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20050901</mezo>
-<mezo id = "nev">Pappas Auto Magyarország Kereskedelmi és Szerviz Kft.</mezo>
+<mezo id = "nev">Pappas Auto MagyarorszÃ¡g Kereskedelmi Ã©s Szerviz Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "3">
 <mezo id = "hattol">20050914</mezo>
-<mezo id = "nev">Pappas Auto Magyarország Kft.</mezo>
+<mezo id = "nev">Pappas Auto MagyarorszÃ¡g Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "4">
@@ -37,24 +37,24 @@
 <mezo id = "hattol">19910215</mezo>
 <mezo id = "irsz">1133</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Kárpát u. 21.</mezo>
+<mezo id = "teru">KÃ¡rpÃ¡t u. 21.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "6">
 <alrovat id = "1">
 <mezo id = "hattol">20010110</mezo>
 <mezo id = "irsz">1117</mezo>
-<mezo id = "hely">Budapest, Hunyadi János utca 6.</mezo>
+<mezo id = "hely">Budapest, Hunyadi JÃ¡nos utca 6.</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20020628</mezo>
 <mezo id = "irsz">1020</mezo>
-<mezo id = "hely">Budapest, Csalán utca 2/c.</mezo>
+<mezo id = "hely">Budapest, CsalÃ¡n utca 2/c.</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20070102</mezo>
 <mezo id = "irsz">1117</mezo>
-<mezo id = "hely">Budapest, Hunyadi János u. 10.</mezo>
+<mezo id = "hely">Budapest, Hunyadi JÃ¡nos u. 10.</mezo>
 <mezo id = "valtk">20061113</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -63,12 +63,12 @@
 <alrovat id = "2">
 <mezo id = "hattol">20040929</mezo>
 <mezo id = "irsz">6725</mezo>
-<mezo id = "hely">Szeged, Vásárhelyi Pál u. 15.</mezo>
+<mezo id = "hely">Szeged, VÃ¡sÃ¡rhelyi PÃ¡l u. 15.</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20070621</mezo>
 <mezo id = "irsz">8000</mezo>
-<mezo id = "hely">Székesfehérvár, Seregélyesi út 131.</mezo>
+<mezo id = "hely">SzÃ©kesfehÃ©rvÃ¡r, SeregÃ©lyesi Ãºt 131.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20070330</mezo>
 <mezo id = "valtv">0</mezo>
@@ -76,14 +76,14 @@
 <alrovat id = "5">
 <mezo id = "hattol">20091221</mezo>
 <mezo id = "hely">HU Debrecen</mezo>
-<mezo id = "teru">Mikepércsi út 73. B. ép.</mezo>
+<mezo id = "teru">MikepÃ©rcsi Ãºt 73. B. Ã©p.</mezo>
 <mezo id = "valtk">20091221</mezo>
 <mezo id = "bkelt">20100126</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20101231</mezo>
 <mezo id = "irsz">7630</mezo>
-<mezo id = "hely">Pécs</mezo>
+<mezo id = "hely">PÃ©cs</mezo>
 <mezo id = "teru">Koksz utca 125.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "tkelt">20101210</mezo>
@@ -91,7 +91,7 @@
 <alrovat id = "7">
 <mezo id = "hattol">20101231</mezo>
 <mezo id = "irsz">7630</mezo>
-<mezo id = "hely">Pécs</mezo>
+<mezo id = "hely">PÃ©cs</mezo>
 <mezo id = "teru">Koksz u. 125.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20101231</mezo>
@@ -575,73 +575,73 @@
 <rovat id = "13">
 <alrovat id = "19">
 <mezo id = "hattol">20020701</mezo>
-<mezo id = "tiszt">szgk üzem vezetõje</mezo>
+<mezo id = "tiszt">szgk Ã¼zem vezetÅ‘je</mezo>
 <mezo id = "pnev">Kucsera Tibor</mezo>
 <mezo id = "panev">Deli Karolina</mezo>
 <mezo id = "pirsz">2220</mezo>
-<mezo id = "phely">Vecsés</mezo>
-<mezo id = "pteru">Dózsa György út 27.</mezo>
+<mezo id = "phely">VecsÃ©s</mezo>
+<mezo id = "pteru">DÃ³zsa GyÃ¶rgy Ãºt 27.</mezo>
 </alrovat>
 <alrovat id = "20">
 <mezo id = "hattol">20020701</mezo>
-<mezo id = "tiszt">szgk üzem vezetõje</mezo>
-<mezo id = "pnev">Bense József</mezo>
-<mezo id = "panev">Bresztovánszky Mária</mezo>
+<mezo id = "tiszt">szgk Ã¼zem vezetÅ‘je</mezo>
+<mezo id = "pnev">Bense JÃ³zsef</mezo>
+<mezo id = "panev">BresztovÃ¡nszky MÃ¡ria</mezo>
 <mezo id = "pirsz">2030</mezo>
-<mezo id = "phely">Érd</mezo>
-<mezo id = "pteru">Felsõvölgyi út 13.</mezo>
+<mezo id = "phely">Ã‰rd</mezo>
+<mezo id = "pteru">FelsÅ‘vÃ¶lgyi Ãºt 13.</mezo>
 </alrovat>
 <alrovat id = "22">
 <mezo id = "hattol">20020701</mezo>
-<mezo id = "tiszt">gazdasági ügyekért felelõs vezetõ</mezo>
+<mezo id = "tiszt">gazdasÃ¡gi Ã¼gyekÃ©rt felelÅ‘s vezetÅ‘</mezo>
 <mezo id = "pnev">Bacsi Jani</mezo>
-<mezo id = "panev">Gönc Magdolna</mezo>
+<mezo id = "panev">GÃ¶nc Magdolna</mezo>
 <mezo id = "pirsz">1148</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Kalapács utca 12.</mezo>
+<mezo id = "pteru">KalapÃ¡cs utca 12.</mezo>
 </alrovat>
 <alrovat id = "25">
 <mezo id = "hattol">20020701</mezo>
-<mezo id = "tiszt">szgk. és transzporter ért.vezetõje</mezo>
-<mezo id = "pnev">Jász Iván</mezo>
+<mezo id = "tiszt">szgk. Ã©s transzporter Ã©rt.vezetÅ‘je</mezo>
+<mezo id = "pnev">JÃ¡sz IvÃ¡n</mezo>
 <mezo id = "panev">Mayer Margit</mezo>
 <mezo id = "pirsz">2092</mezo>
 <mezo id = "phely">Budakeszi</mezo>
-<mezo id = "pteru">Makkosi út 36.</mezo>
+<mezo id = "pteru">Makkosi Ãºt 36.</mezo>
 </alrovat>
 <alrovat id = "27">
 <mezo id = "hattol">20030910</mezo>
-<mezo id = "tiszt">transzporter értékesítési vezetõ</mezo>
-<mezo id = "pnev">Béres Gábor</mezo>
-<mezo id = "panev">Simig Erzsébet</mezo>
+<mezo id = "tiszt">transzporter Ã©rtÃ©kesÃ­tÃ©si vezetÅ‘</mezo>
+<mezo id = "pnev">BÃ©res GÃ¡bor</mezo>
+<mezo id = "panev">Simig ErzsÃ©bet</mezo>
 <mezo id = "pirsz">1119</mezo>
-<mezo id = "phely">Budapest, Csurgói út 39/a.</mezo>
+<mezo id = "phely">Budapest, CsurgÃ³i Ãºt 39/a.</mezo>
 </alrovat>
 <alrovat id = "33">
 <mezo id = "hattol">20041103</mezo>
-<mezo id = "tiszt">gazdasági ügyekért felelõs vezetõ</mezo>
-<mezo id = "pnev">Kövérné Gömöri Krisztina</mezo>
-<mezo id = "panev">Fazekas Rózsa</mezo>
+<mezo id = "tiszt">gazdasÃ¡gi Ã¼gyekÃ©rt felelÅ‘s vezetÅ‘</mezo>
+<mezo id = "pnev">KÃ¶vÃ©rnÃ© GÃ¶mÃ¶ri Krisztina</mezo>
+<mezo id = "panev">Fazekas RÃ³zsa</mezo>
 <mezo id = "pirsz">1164</mezo>
-<mezo id = "phely">Budapest, Szûcs u. 1.</mezo>
+<mezo id = "phely">Budapest, SzÅ±cs u. 1.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20020701</mezo>
 </alrovat>
 <alrovat id = "36">
 <mezo id = "hattol">20050124</mezo>
-<mezo id = "tiszt">szegedi fóktelep üzemvezetõje</mezo>
-<mezo id = "pnev">Blazsetics Tamás Ferenc</mezo>
+<mezo id = "tiszt">szegedi fÃ³ktelep Ã¼zemvezetÅ‘je</mezo>
+<mezo id = "pnev">Blazsetics TamÃ¡s Ferenc</mezo>
 <mezo id = "panev">Matejka Zsuzsanna</mezo>
 <mezo id = "pirsz">6782</mezo>
-<mezo id = "phely">Mórahalom, Móra Ferenc utca 6.</mezo>
+<mezo id = "phely">MÃ³rahalom, MÃ³ra Ferenc utca 6.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20050124</mezo>
 </alrovat>
 <alrovat id = "37">
 <mezo id = "hattol">20050124</mezo>
-<mezo id = "tiszt">szegedi fióktelep értékesítési vezetõje</mezo>
-<mezo id = "pnev">Rajnai Tamás Péter</mezo>
-<mezo id = "panev">Erdélyi Mária</mezo>
+<mezo id = "tiszt">szegedi fiÃ³ktelep Ã©rtÃ©kesÃ­tÃ©si vezetÅ‘je</mezo>
+<mezo id = "pnev">Rajnai TamÃ¡s PÃ©ter</mezo>
+<mezo id = "panev">ErdÃ©lyi MÃ¡ria</mezo>
 <mezo id = "pirsz">6726</mezo>
 <mezo id = "phely">Szeged, Vellay Imre u. 24.</mezo>
 <mezo id = "kepve">x</mezo>
@@ -649,31 +649,31 @@
 </alrovat>
 <alrovat id = "42">
 <mezo id = "hattol">20050905</mezo>
-<mezo id = "tiszt">marketing részleg vezetõ</mezo>
+<mezo id = "tiszt">marketing rÃ©szleg vezetÅ‘</mezo>
 <mezo id = "pnev">Monika Putz</mezo>
 <mezo id = "panev">Notburga Wintersteller</mezo>
 <mezo id = "pirsz">1125</mezo>
-<mezo id = "phely">Budapest, Diósárok u. 75/c.</mezo>
+<mezo id = "phely">Budapest, DiÃ³sÃ¡rok u. 75/c.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20050905</mezo>
 </alrovat>
 <alrovat id = "43">
 <mezo id = "hattol">20051107</mezo>
-<mezo id = "tiszt">használt haszongépjármû értékesítési vezetõ</mezo>
-<mezo id = "pnev">Dobai Béla</mezo>
-<mezo id = "panev">Szõke Mária</mezo>
+<mezo id = "tiszt">hasznÃ¡lt haszongÃ©pjÃ¡rmÅ± Ã©rtÃ©kesÃ­tÃ©si vezetÅ‘</mezo>
+<mezo id = "pnev">Dobai BÃ©la</mezo>
+<mezo id = "panev">SzÅ‘ke MÃ¡ria</mezo>
 <mezo id = "pirsz">8000</mezo>
-<mezo id = "phely">Székesfehérvár, Széchenyi u. 2. 1/3.</mezo>
+<mezo id = "phely">SzÃ©kesfehÃ©rvÃ¡r, SzÃ©chenyi u. 2. 1/3.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20051107</mezo>
 </alrovat>
 <alrovat id = "44">
 <mezo id = "hattol">20060904</mezo>
-<mezo id = "tiszt">(Chrysler értékesítési vezetõ</mezo>
-<mezo id = "pnev">Csontos Tamás</mezo>
-<mezo id = "panev">Bartos Erzsébet</mezo>
+<mezo id = "tiszt">(Chrysler Ã©rtÃ©kesÃ­tÃ©si vezetÅ‘</mezo>
+<mezo id = "pnev">Csontos TamÃ¡s</mezo>
+<mezo id = "panev">Bartos ErzsÃ©bet</mezo>
 <mezo id = "pirsz">2440</mezo>
-<mezo id = "phely">Százhalombatta, Õz u. 12.</mezo>
+<mezo id = "phely">SzÃ¡zhalombatta, Åz u. 12.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20060621</mezo>
 <mezo id = "valtk">20060621</mezo>
@@ -681,8 +681,8 @@
 </alrovat>
 <alrovat id = "48">
 <mezo id = "hattol">20070920</mezo>
-<mezo id = "pnev">Rédei Ádám</mezo>
-<mezo id = "panev">Pethõ Katalin</mezo>
+<mezo id = "pnev">RÃ©dei ÃdÃ¡m</mezo>
+<mezo id = "panev">PethÅ‘ Katalin</mezo>
 <mezo id = "pirsz">1174</mezo>
 <mezo id = "phely">Budapest, Hunyadi utca 42.</mezo>
 <mezo id = "kepve">x</mezo>
@@ -695,8 +695,8 @@
 </alrovat>
 <alrovat id = "50">
 <mezo id = "hattol">20071001</mezo>
-<mezo id = "pnev">Bayer László</mezo>
-<mezo id = "panev">Léber Teréz</mezo>
+<mezo id = "pnev">Bayer LÃ¡szlÃ³</mezo>
+<mezo id = "panev">LÃ©ber TerÃ©z</mezo>
 <mezo id = "pirsz">1151</mezo>
 <mezo id = "phely">Budapest, Kossuth utca 9.</mezo>
 <mezo id = "kepve">x</mezo>
@@ -709,10 +709,10 @@
 </alrovat>
 <alrovat id = "55">
 <mezo id = "hattol">20081103</mezo>
-<mezo id = "pnev">Orbán Bulcsú</mezo>
-<mezo id = "panev">Ollé Csilla</mezo>
+<mezo id = "pnev">OrbÃ¡n BulcsÃº</mezo>
+<mezo id = "panev">OllÃ© Csilla</mezo>
 <mezo id = "pirsz">2096</mezo>
-<mezo id = "phely">Üröm, Kossuth Lajos utca 90.</mezo>
+<mezo id = "phely">ÃœrÃ¶m, Kossuth Lajos utca 90.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">a</mezo>
 <mezo id = "jogvk">20081103</mezo>
@@ -723,10 +723,10 @@
 </alrovat>
 <alrovat id = "56">
 <mezo id = "hattol">20090130</mezo>
-<mezo id = "pnev">Bohács László Ferenc</mezo>
-<mezo id = "panev">Kun Erzsébet</mezo>
+<mezo id = "pnev">BohÃ¡cs LÃ¡szlÃ³ Ferenc</mezo>
+<mezo id = "panev">Kun ErzsÃ©bet</mezo>
 <mezo id = "pirsz">1031</mezo>
-<mezo id = "phely">Budapest, Nánási út 34. b. ép. fszt 3.</mezo>
+<mezo id = "phely">Budapest, NÃ¡nÃ¡si Ãºt 34. b. Ã©p. fszt 3.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20090223</mezo>
@@ -738,9 +738,9 @@
 <alrovat id = "57">
 <mezo id = "hattol">20090130</mezo>
 <mezo id = "pnev">Boros Norbert</mezo>
-<mezo id = "panev">Molnár Mária</mezo>
+<mezo id = "panev">MolnÃ¡r MÃ¡ria</mezo>
 <mezo id = "pirsz">8082</mezo>
-<mezo id = "phely">Gánt, Vértes utca 20.</mezo>
+<mezo id = "phely">GÃ¡nt, VÃ©rtes utca 20.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20090223</mezo>
@@ -751,10 +751,10 @@
 </alrovat>
 <alrovat id = "58">
 <mezo id = "hattol">20090130</mezo>
-<mezo id = "pnev">Kertész Zoltán</mezo>
-<mezo id = "panev">Farkas Ida Irén</mezo>
+<mezo id = "pnev">KertÃ©sz ZoltÃ¡n</mezo>
+<mezo id = "panev">Farkas Ida IrÃ©n</mezo>
 <mezo id = "pirsz">1031</mezo>
-<mezo id = "phely">Budapest, Szérüskert utca 13. 1. em. 4.</mezo>
+<mezo id = "phely">Budapest, SzÃ©rÃ¼skert utca 13. 1. em. 4.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20090223</mezo>
@@ -765,10 +765,10 @@
 </alrovat>
 <alrovat id = "59">
 <mezo id = "hattol">20090408</mezo>
-<mezo id = "pnev">Szakács Attila</mezo>
-<mezo id = "panev">Kihári Rozália</mezo>
+<mezo id = "pnev">SzakÃ¡cs Attila</mezo>
+<mezo id = "panev">KihÃ¡ri RozÃ¡lia</mezo>
 <mezo id = "pirsz">2472</mezo>
-<mezo id = "phely">Kajászó, Bocskai utca 25.</mezo>
+<mezo id = "phely">KajÃ¡szÃ³, Bocskai utca 25.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20090408</mezo>
@@ -779,9 +779,9 @@
 </alrovat>
 <alrovat id = "64">
 <mezo id = "hattol">20100104</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Varga Zoltán Tamás</mezo>
-<mezo id = "panev">Juhász Piroska</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Varga ZoltÃ¡n TamÃ¡s</mezo>
+<mezo id = "panev">JuhÃ¡sz Piroska</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20100104</mezo>
 <mezo id = "valtk">20100104</mezo>
@@ -789,9 +789,9 @@
 </alrovat>
 <alrovat id = "65">
 <mezo id = "hattol">20100104</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Czoller Tamás</mezo>
-<mezo id = "panev">Szabó Zsuzsánna</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Czoller TamÃ¡s</mezo>
+<mezo id = "panev">SzabÃ³ ZsuzsÃ¡nna</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20100104</mezo>
 <mezo id = "valtk">20100104</mezo>
@@ -799,25 +799,25 @@
 </alrovat>
 <alrovat id = "66">
 <mezo id = "hattol">20100121</mezo>
-<mezo id = "tiszt">cégvezetõ</mezo>
+<mezo id = "tiszt">cÃ©gvezetÅ‘</mezo>
 <mezo id = "pnev">Norbert Bauer</mezo>
 <mezo id = "panev">Ottilia Hermann</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20020607</mezo>
-<mezo id = "pcnev">MB Magyar Motor Korlátolt Felelõsségû Társaság (Cg.01-09-065050)</mezo>
+<mezo id = "pcnev">MB Magyar Motor KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.01-09-065050)</mezo>
 <mezo id = "pcirsz">1133</mezo>
 <mezo id = "pchely">Budapest</mezo>
-<mezo id = "pcteru">Kárpát utca 21.</mezo>
+<mezo id = "pcteru">KÃ¡rpÃ¡t utca 21.</mezo>
 <mezo id = "valtk">20100121</mezo>
 <mezo id = "bkelt">20100126</mezo>
 </alrovat>
 <alrovat id = "68">
 <mezo id = "hattol">20101230</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Lencsés Tamás</mezo>
-<mezo id = "panev">Pálmai Klára</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">LencsÃ©s TamÃ¡s</mezo>
+<mezo id = "panev">PÃ¡lmai KlÃ¡ra</mezo>
 <mezo id = "pirsz">8000</mezo>
-<mezo id = "phely">Székesfehérvár</mezo>
+<mezo id = "phely">SzÃ©kesfehÃ©rvÃ¡r</mezo>
 <mezo id = "pteru">Kisteleki utca 103.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20101230</mezo>
@@ -827,12 +827,12 @@
 </alrovat>
 <alrovat id = "69">
 <mezo id = "hattol">20101230</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Gergely Péter</mezo>
-<mezo id = "panev">Fellinger Éva Terézia</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Gergely PÃ©ter</mezo>
+<mezo id = "panev">Fellinger Ã‰va TerÃ©zia</mezo>
 <mezo id = "pirsz">6725</mezo>
 <mezo id = "phely">Szeged</mezo>
-<mezo id = "pteru">Kormányos utca 28.</mezo>
+<mezo id = "pteru">KormÃ¡nyos utca 28.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20101230</mezo>
 <mezo id = "valtk">20101230</mezo>
@@ -841,12 +841,12 @@
 </alrovat>
 <alrovat id = "70">
 <mezo id = "hattol">20110104</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Fekete Bálint</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Fekete BÃ¡lint</mezo>
 <mezo id = "panev">Schneider Friderika</mezo>
 <mezo id = "pirsz">7632</mezo>
-<mezo id = "phely">Pécs</mezo>
-<mezo id = "pteru">Kertváros utca 28.</mezo>
+<mezo id = "phely">PÃ©cs</mezo>
+<mezo id = "pteru">KertvÃ¡ros utca 28.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20110104</mezo>
 <mezo id = "valtk">20110104</mezo>
@@ -855,8 +855,8 @@
 </alrovat>
 <alrovat id = "71">
 <mezo id = "hattol">20110104</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Auth Gábor</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Auth GÃ¡bor</mezo>
 <mezo id = "panev">Bitter Magdolna</mezo>
 <mezo id = "pirsz">7733</mezo>
 <mezo id = "phely">Geresdlak</mezo>
@@ -869,12 +869,12 @@
 </alrovat>
 <alrovat id = "73">
 <mezo id = "hattol">20110708</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "pnev">Reinhard Leutgeb</mezo>
 <mezo id = "panev">Gertrude Aigner</mezo>
 <mezo id = "pirsz">1037</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Flóra utca 5.</mezo>
+<mezo id = "pteru">FlÃ³ra utca 5.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20110708</mezo>
 <mezo id = "valtk">20110708</mezo>
@@ -883,12 +883,12 @@
 </alrovat>
 <alrovat id = "74">
 <mezo id = "hattol">20110708</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Nagy István</mezo>
-<mezo id = "panev">Eitzinger Györgyi</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Nagy IstvÃ¡n</mezo>
+<mezo id = "panev">Eitzinger GyÃ¶rgyi</mezo>
 <mezo id = "pirsz">1025</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Szalamandra utca 16. A. ép.</mezo>
+<mezo id = "pteru">Szalamandra utca 16. A. Ã©p.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20071101</mezo>
 <mezo id = "jogvv">20121101</mezo>
@@ -901,13 +901,13 @@
 <alrovat id = "6">
 <mezo id = "hattol">20070720</mezo>
 <mezo id = "cgjsz">109068660</mezo>
-<mezo id = "nev">ALPINE - Gazdasági Tanácsadó és Könyvvizsgáló Kft.</mezo>
+<mezo id = "nev">ALPINE - GazdasÃ¡gi TanÃ¡csadÃ³ Ã©s KÃ¶nyvvizsgÃ¡lÃ³ Kft.</mezo>
 <mezo id = "irsz">1026</mezo>
-<mezo id = "hely">Budapest, Pasaréti út 59.</mezo>
-<mezo id = "pnev">Forgács Gabriella</mezo>
-<mezo id = "panev">Dezsõ Margit</mezo>
+<mezo id = "hely">Budapest, PasarÃ©ti Ãºt 59.</mezo>
+<mezo id = "pnev">ForgÃ¡cs Gabriella</mezo>
+<mezo id = "panev">DezsÅ‘ Margit</mezo>
 <mezo id = "pirsz">2096</mezo>
-<mezo id = "phely">Üröm, Kárókatona utca 7a/1.</mezo>
+<mezo id = "phely">ÃœrÃ¶m, KÃ¡rÃ³katona utca 7a/1.</mezo>
 <mezo id = "jogvk">20070720</mezo>
 <mezo id = "jogvv">20120720</mezo>
 <mezo id = "valtk">20070720</mezo>
@@ -919,10 +919,10 @@
 <rovat id = "15">
 <alrovat id = "13">
 <mezo id = "hattol">20070915</mezo>
-<mezo id = "pnev">Heiczinger János</mezo>
-<mezo id = "panev">Kovács Erzsébet</mezo>
+<mezo id = "pnev">Heiczinger JÃ¡nos</mezo>
+<mezo id = "panev">KovÃ¡cs ErzsÃ©bet</mezo>
 <mezo id = "pirsz">1031</mezo>
-<mezo id = "phely">Budapest, Vízimolnár köz 12. I. 4.</mezo>
+<mezo id = "phely">Budapest, VÃ­zimolnÃ¡r kÃ¶z 12. I. 4.</mezo>
 <mezo id = "jogvk">20070915</mezo>
 <mezo id = "jogvv">20120915</mezo>
 <mezo id = "valtk">20070915</mezo>
@@ -936,7 +936,7 @@
 <mezo id = "panev">Erna Brigitta Metz</mezo>
 <mezo id = "pkorsz">AT</mezo>
 <mezo id = "pkirsz">5084</mezo>
-<mezo id = "pkhely">Grossgmain, Reiterweg 487. a. ép.</mezo>
+<mezo id = "pkhely">Grossgmain, Reiterweg 487. a. Ã©p.</mezo>
 <mezo id = "jogvk">20090131</mezo>
 <mezo id = "jogvv">20140131</mezo>
 <mezo id = "valtk">20090130</mezo>
@@ -950,7 +950,7 @@
 <mezo id = "panev">Maria Berer</mezo>
 <mezo id = "pirsz">1125</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Diós árok út 75. c. ép.</mezo>
+<mezo id = "pteru">DiÃ³s Ã¡rok Ãºt 75. c. Ã©p.</mezo>
 <mezo id = "jogvk">20110728</mezo>
 <mezo id = "jogvv">20160728</mezo>
 <mezo id = "valtk">20110728</mezo>
@@ -961,29 +961,29 @@
 <alrovat id = "1">
 <mezo id = "hattol">20020628</mezo>
 <mezo id = "cgjsz">109067200</mezo>
-<mezo id = "nev">MB Szerviz Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">MB Szerviz KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20020930</mezo>
 <mezo id = "cgjsz">109067200</mezo>
-<mezo id = "nev">MB Szervíz Korlátolt felelõsségû Társaság</mezo>
+<mezo id = "nev">MB SzervÃ­z KorlÃ¡tolt felelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20041231</mezo>
 <mezo id = "cgjsz">609006235</mezo>
-<mezo id = "nev">Auto-Kurz &amp; Co. Kereskedelmi és Szolgáltató Kft.</mezo>
+<mezo id = "nev">Auto-Kurz &amp; Co. Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ Kft.</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20101231</mezo>
 <mezo id = "cgjsz">0209068496</mezo>
-<mezo id = "nev">Pappas Auto Pécs Kereskedelmi és Szolgáltató Kft.</mezo>
+<mezo id = "nev">Pappas Auto PÃ©cs Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ Kft.</mezo>
 <mezo id = "atdat">20101231</mezo>
 <mezo id = "tkelt">20101210</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20101231</mezo>
 <mezo id = "cgjsz">0209068496</mezo>
-<mezo id = "nev">Pappas Auto Pécs Kereskedelmi és Szolgáltató Kft.</mezo>
+<mezo id = "nev">Pappas Auto PÃ©cs Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ Kft.</mezo>
 <mezo id = "atdat">20101231</mezo>
 <mezo id = "valtk">20101231</mezo>
 <mezo id = "bkelt">20110125</mezo>
@@ -1000,7 +1000,7 @@
 <mezo id = "adosz">10445952244</mezo>
 <mezo id = "kadosz">HU10445952</mezo>
 <mezo id = "bkelt">20110715</mezo>
-<mezo id = "megj">Státusz kezdete: 1991/01/01</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 1991/01/01</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0109">
@@ -1012,10 +1012,10 @@
 <mezo id = "hely">Salzburg-Flughafen</mezo>
 <mezo id = "teru">Innsbrucker Bundesstr.</mezo>
 <mezo id = "hsz">111.</mezo>
-<mezo id = "pcnev">Pappas Auto Magyarország Kereskedelmi és Szerviz Kft.</mezo>
+<mezo id = "pcnev">Pappas Auto MagyarorszÃ¡g Kereskedelmi Ã©s Szerviz Kft.</mezo>
 <mezo id = "pcanev">109065051</mezo>
 <mezo id = "pcirsz">1133</mezo>
-<mezo id = "pchely">Budapest, Kárpát u. 21</mezo>
+<mezo id = "pchely">Budapest, KÃ¡rpÃ¡t u. 21</mezo>
 <mezo id = "pckirsz">0</mezo>
 <mezo id = "tagsk">0</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -1035,448 +1035,448 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Fõvárosi Bíróság 01 09 065051<ujsor/>
-MB-AUTO Magyarország Korlátolt Felelõsségû Társaság (1133 Budapest, Kárpát u. 21.)<ujsor/>
-A bíróság a cég cégjegyzékét az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-12. 340 980 000 azaz háromszáznegyvenmillió-kilencszáznyolcvanezer Ft készpénz.<ujsor/>
-Törölve: 1994. 10. 25.<ujsor/>
-280 400 000 azaz kettõszáznyolcvanmillió-négyszázezer Ft készpénz.<ujsor/>
-Hatályos: 1994. 06. 30.<ujsor/>
+<mezo id = "szoveg">FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g 01 09 065051<ujsor/>
+MB-AUTO MagyarorszÃ¡g KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (1133 Budapest, KÃ¡rpÃ¡t u. 21.)<ujsor/>
+A bÃ­rÃ³sÃ¡g a cÃ©g cÃ©gjegyzÃ©kÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+12. 340 980 000 azaz hÃ¡romszÃ¡znegyvenmilliÃ³-kilencszÃ¡znyolcvanezer Ft kÃ©szpÃ©nz.<ujsor/>
+TÃ¶rÃ¶lve: 1994. 10. 25.<ujsor/>
+280 400 000 azaz kettÅ‘szÃ¡znyolcvanmilliÃ³-nÃ©gyszÃ¡zezer Ft kÃ©szpÃ©nz.<ujsor/>
+HatÃ¡lyos: 1994. 06. 30.<ujsor/>
 Bejegyezve: 1995. 03. 13.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109065051</mezo>
-<mezo id = "nev">MB-AUTO Magyarország Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">MB-AUTO MagyarorszÃ¡g KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság az 1995. 03. 13-án hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g az 1995. 03. 13-Ã¡n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
 1(09). MB Immobilien Besitz- und Leasingges. m. b. H.<ujsor/>
 AT 5016 Salzburg, Reichenhaller str. 7.<ujsor/>
- Törölve: 1994. 07. 30-i hatállyal.<ujsor/>
+ TÃ¶rÃ¶lve: 1994. 07. 30-i hatÃ¡llyal.<ujsor/>
  MB Automobilvertriebsgesellschaft mbH<ujsor/>
 AT 5020 Salzburg, Reichenhallerstr 7.<ujsor/>
- Hatályos: 1994. 07. 30-tól.<ujsor/>
+ HatÃ¡lyos: 1994. 07. 30-tÃ³l.<ujsor/>
 Bejegyezve: 1999. 08. 04.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109065051</mezo>
-<mezo id = "nev">MB-AUTO Magyarország Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1133 Budapest, Kárpát u. 21.</mezo>
+<mezo id = "nev">MB-AUTO MagyarorszÃ¡g KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1133 Budapest, KÃ¡rpÃ¡t u. 21.</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az MB Autó Magyarország Korlátolt Felelõsségû Társaság (Cg.: [01 09 065051]; 1133 Budapest, Kárpát u. 21.) és az MB Szerviz Korlátolt Felelõsségû Társaság (Cg.: [01 09 067200]; 1133 Budapest, Kárpát u. 21.)<ujsor/>
-egyesül.<ujsor/>
-Az egyesülés módja beolvadás, amelynek során az MB Szerviz Korlátolt Felelõsségû Társaság mint beolvadó társaság beolvad az MB Autó Magyarország Korlátolt Felelõsségû Társaságba mint átvevõ társaságba.<ujsor/>
-Az egyesülés (beolvadás) alapját képezõ vagyonmérleg-tervezet fordulónapja: 2001. december 31.<ujsor/>
-Az átvevõ MB Autó Magyarország Korlátolt Felelõsségû Társaság módosított alapító okirata elfogadásának napja: 2002. június 28.<ujsor/>
-Székhelye: 1133 Budapest, Kárpát u. 21.<ujsor/>
-Az egyesülõ társaságok vagyonmérleg-tervezetének fontosabb adatai:<ujsor/>
+<mezo id = "szoveg">Az MB AutÃ³ MagyarorszÃ¡g KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [01 09 065051]; 1133 Budapest, KÃ¡rpÃ¡t u. 21.) Ã©s az MB Szerviz KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [01 09 067200]; 1133 Budapest, KÃ¡rpÃ¡t u. 21.)<ujsor/>
+egyesÃ¼l.<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja beolvadÃ¡s, amelynek sorÃ¡n az MB Szerviz KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g mint beolvadÃ³ tÃ¡rsasÃ¡g beolvad az MB AutÃ³ MagyarorszÃ¡g KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gba mint Ã¡tvevÅ‘ tÃ¡rsasÃ¡gba.<ujsor/>
+Az egyesÃ¼lÃ©s (beolvadÃ¡s) alapjÃ¡t kÃ©pezÅ‘ vagyonmÃ©rleg-tervezet fordulÃ³napja: 2001. december 31.<ujsor/>
+Az Ã¡tvevÅ‘ MB AutÃ³ MagyarorszÃ¡g KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g mÃ³dosÃ­tott alapÃ­tÃ³ okirata elfogadÃ¡sÃ¡nak napja: 2002. jÃºnius 28.<ujsor/>
+SzÃ©khelye: 1133 Budapest, KÃ¡rpÃ¡t u. 21.<ujsor/>
+Az egyesÃ¼lÅ‘ tÃ¡rsasÃ¡gok vagyonmÃ©rleg-tervezetÃ©nek fontosabb adatai:<ujsor/>
    Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK MB Szerviz MB Autó Átvevõ<ujsor/>
- Kft. (záró) Magyarország MB Autó<ujsor/>
-  Kft. (záró) Magyarország<ujsor/>
-   Kft. (nyitó)<ujsor/>
-A) Befektetett eszközök 217 290 817 569 1 034 859<ujsor/>
-I. Immateriális javak 3 249 871 4 120<ujsor/>
-II. Tárgyi eszközök 202 515 807 504 1 010 019<ujsor/>
-III. Befektetett pénzügyi eszközök 11 526 9 194 20 720<ujsor/>
-B) Forgóeszközök 2 277 664 7 641 909 9 721 167<ujsor/>
-I. Készletek 416 377 3 772 965 4 189 342<ujsor/>
-II. Követelések 522 401 2 997 645 3 321 640<ujsor/>
-III. Értékpapírok 0 0 0<ujsor/>
-IV. Pénzeszközök 1 338 886 871 299 2 210 185<ujsor/>
-C) Aktív idõbeli elhatárolások 78 903 32 366 111 269<ujsor/>
-ÖSSZESEN: 2 573 857 8 491 844 10 867 295<ujsor/>
+ESZKÃ–ZÃ–K MB Szerviz MB AutÃ³ ÃtvevÅ‘<ujsor/>
+ Kft. (zÃ¡rÃ³) MagyarorszÃ¡g MB AutÃ³<ujsor/>
+  Kft. (zÃ¡rÃ³) MagyarorszÃ¡g<ujsor/>
+   Kft. (nyitÃ³)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 217 290 817 569 1 034 859<ujsor/>
+I. ImmateriÃ¡lis javak 3 249 871 4 120<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 202 515 807 504 1 010 019<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 11 526 9 194 20 720<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 2 277 664 7 641 909 9 721 167<ujsor/>
+I. KÃ©szletek 416 377 3 772 965 4 189 342<ujsor/>
+II. KÃ¶vetelÃ©sek 522 401 2 997 645 3 321 640<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 0 0<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 1 338 886 871 299 2 210 185<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 78 903 32 366 111 269<ujsor/>
+Ã–SSZESEN: 2 573 857 8 491 844 10 867 295<ujsor/>
    Adatok E Ft-ban<ujsor/>
-FORRÁSOK MB Szerviz MB Autó Átvevõ<ujsor/>
- Kft. (záró) Magyarország MB Autó<ujsor/>
-  Kft. (záró) Magyarország<ujsor/>
-   Kft. (nyitó)<ujsor/>
-D) Saját tõke 656 286 1 223 376 1 879 662<ujsor/>
-I. Jegyzett tõke 240 120 280 400 700 000<ujsor/>
-III. Tõketartalék 136 632 10 346 0<ujsor/>
-IV. Eredménytartalék 279 534 932 630 1 179 662<ujsor/>
-VII. Mérleg szerinti eredmény 0 0 0<ujsor/>
-E) Céltartalékok 163 496 55 177 218 673<ujsor/>
-F) Kötelezettségek 1 686 897 6 964 776 8 453 267<ujsor/>
-G) Passzív idõbeli elhatárolások 67 178 248 515 315 693<ujsor/>
-ÖSSZESEN: 2 573 857 8 491 844 10 867 295<ujsor/>
-Az átvevõ MB Autó Magyarország Korlátolt Felelõsségû Társaság beolvadás utáni adatai:<ujsor/>
-A társaság jegyzett tõkéje 700 000 000 Ft, amely teljes egészében nem pénzbeli hozzájárulás.<ujsor/>
-A társaság tevékenységi köre: 3410 Közúti gépjármû gyártása; 3420 Gépjármû-karosszéria, pótkocsi gyártása; 3430 Közútijármû-motor, -alkatrész gyártása; 5010 Gépjármû-kereskedelem (fõ tevékenység); 5020 Gépjármûjavítás; 5030 Gépjármûalkatrész-kereskedelem; 5040 Motorkerékpár, -alkatrész kereskedelme, javítása; 5170 Egyéb nagykereskedelem; 5212 Iparcikk jellegû vegyes kiskereskedelem; 7020 Ingatlan bérbeadása, üzemeltetése; 7110 Gépjármûkölcsönzés; 7121 Egyéb szárazföldi jármû kölcsönzése; 7412 Számviteli, könyvvizsgálói, adószakértõi tevékenység; 7414 Üzletviteli tanácsadás; 7484 Máshova nem sorolt, egyéb gazdasági tevékenységet segítõ szolgáltatás.<ujsor/>
-A társaság vezetõ tisztségviselõi (ügyvezetõi): Georg Pappas (AT-5016 Salzburg, Reichenhaller Str. 7.), Hans Georg Pechhacker (1020 Budapest, Csalán út 2/C), Szíjjártó Pál (2084 Pilisszentiván, Borbála u. 23.).<ujsor/>
-Felhívjuk az egyesülõ társaságok hitelezõit, hogy követeléseiket - a Gt. 66. §-a alapján, a második közzétételt követõ 30 napos jogvesztõ határidõn belül - a társaságnak jelentsék be.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+FORRÃSOK MB Szerviz MB AutÃ³ ÃtvevÅ‘<ujsor/>
+ Kft. (zÃ¡rÃ³) MagyarorszÃ¡g MB AutÃ³<ujsor/>
+  Kft. (zÃ¡rÃ³) MagyarorszÃ¡g<ujsor/>
+   Kft. (nyitÃ³)<ujsor/>
+D) SajÃ¡t tÅ‘ke 656 286 1 223 376 1 879 662<ujsor/>
+I. Jegyzett tÅ‘ke 240 120 280 400 700 000<ujsor/>
+III. TÅ‘ketartalÃ©k 136 632 10 346 0<ujsor/>
+IV. EredmÃ©nytartalÃ©k 279 534 932 630 1 179 662<ujsor/>
+VII. MÃ©rleg szerinti eredmÃ©ny 0 0 0<ujsor/>
+E) CÃ©ltartalÃ©kok 163 496 55 177 218 673<ujsor/>
+F) KÃ¶telezettsÃ©gek 1 686 897 6 964 776 8 453 267<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 67 178 248 515 315 693<ujsor/>
+Ã–SSZESEN: 2 573 857 8 491 844 10 867 295<ujsor/>
+Az Ã¡tvevÅ‘ MB AutÃ³ MagyarorszÃ¡g KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g beolvadÃ¡s utÃ¡ni adatai:<ujsor/>
+A tÃ¡rsasÃ¡g jegyzett tÅ‘kÃ©je 700 000 000 Ft, amely teljes egÃ©szÃ©ben nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s.<ujsor/>
+A tÃ¡rsasÃ¡g tevÃ©kenysÃ©gi kÃ¶re: 3410 KÃ¶zÃºti gÃ©pjÃ¡rmÅ± gyÃ¡rtÃ¡sa; 3420 GÃ©pjÃ¡rmÅ±-karosszÃ©ria, pÃ³tkocsi gyÃ¡rtÃ¡sa; 3430 KÃ¶zÃºtijÃ¡rmÅ±-motor, -alkatrÃ©sz gyÃ¡rtÃ¡sa; 5010 GÃ©pjÃ¡rmÅ±-kereskedelem (fÅ‘ tevÃ©kenysÃ©g); 5020 GÃ©pjÃ¡rmÅ±javÃ­tÃ¡s; 5030 GÃ©pjÃ¡rmÅ±alkatrÃ©sz-kereskedelem; 5040 MotorkerÃ©kpÃ¡r, -alkatrÃ©sz kereskedelme, javÃ­tÃ¡sa; 5170 EgyÃ©b nagykereskedelem; 5212 Iparcikk jellegÅ± vegyes kiskereskedelem; 7020 Ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se; 7110 GÃ©pjÃ¡rmÅ±kÃ¶lcsÃ¶nzÃ©s; 7121 EgyÃ©b szÃ¡razfÃ¶ldi jÃ¡rmÅ± kÃ¶lcsÃ¶nzÃ©se; 7412 SzÃ¡mviteli, kÃ¶nyvvizsgÃ¡lÃ³i, adÃ³szakÃ©rtÅ‘i tevÃ©kenysÃ©g; 7414 Ãœzletviteli tanÃ¡csadÃ¡s; 7484 MÃ¡shova nem sorolt, egyÃ©b gazdasÃ¡gi tevÃ©kenysÃ©get segÃ­tÅ‘ szolgÃ¡ltatÃ¡s.<ujsor/>
+A tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘i (Ã¼gyvezetÅ‘i): Georg Pappas (AT-5016 Salzburg, Reichenhaller Str. 7.), Hans Georg Pechhacker (1020 Budapest, CsalÃ¡n Ãºt 2/C), SzÃ­jjÃ¡rtÃ³ PÃ¡l (2084 PilisszentivÃ¡n, BorbÃ¡la u. 23.).<ujsor/>
+FelhÃ­vjuk az egyesÃ¼lÅ‘ tÃ¡rsasÃ¡gok hitelezÅ‘it, hogy kÃ¶vetelÃ©seiket - a Gt. 66. Â§-a alapjÃ¡n, a mÃ¡sodik kÃ¶zzÃ©tÃ©telt kÃ¶vetÅ‘ 30 napos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l - a tÃ¡rsasÃ¡gnak jelentsÃ©k be.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109065051</mezo>
-<mezo id = "nev">MB-AUTO Magyarország Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">MB-AUTO MagyarorszÃ¡g KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az MB Autó Magyarország Korlátolt Felelõsségû Társaság (Cg.: [01 09 065051]; 1133 Budapest, Kárpát u. 21.) és az MB Szerviz Korlátolt Felelõsségû Társaság (Cg.: [01 09 067200]; 1133 Budapest, Kárpát u. 21.)<ujsor/>
-egyesül.<ujsor/>
-Az egyesülés módja beolvadás, amelynek során az MB Szerviz Korlátolt Felelõsségû Társaság mint beolvadó társaság beolvad az MB Autó Magyarország Korlátolt Felelõsségû Társaságba mint átvevõ társaságba.<ujsor/>
-Az egyesülés (beolvadás) alapját képezõ vagyonmérleg-tervezet fordulónapja: 2001. december 31.<ujsor/>
-Az átvevõ MB Autó Magyarország Korlátolt Felelõsségû Társaság módosított alapító okirata elfogadásának napja: 2002. június 28.<ujsor/>
-Székhelye: 1133 Budapest, Kárpát u. 21.<ujsor/>
-Az egyesülõ társaságok vagyonmérleg-tervezetének fontosabb adatai:<ujsor/>
+<mezo id = "szoveg">Az MB AutÃ³ MagyarorszÃ¡g KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [01 09 065051]; 1133 Budapest, KÃ¡rpÃ¡t u. 21.) Ã©s az MB Szerviz KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [01 09 067200]; 1133 Budapest, KÃ¡rpÃ¡t u. 21.)<ujsor/>
+egyesÃ¼l.<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja beolvadÃ¡s, amelynek sorÃ¡n az MB Szerviz KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g mint beolvadÃ³ tÃ¡rsasÃ¡g beolvad az MB AutÃ³ MagyarorszÃ¡g KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gba mint Ã¡tvevÅ‘ tÃ¡rsasÃ¡gba.<ujsor/>
+Az egyesÃ¼lÃ©s (beolvadÃ¡s) alapjÃ¡t kÃ©pezÅ‘ vagyonmÃ©rleg-tervezet fordulÃ³napja: 2001. december 31.<ujsor/>
+Az Ã¡tvevÅ‘ MB AutÃ³ MagyarorszÃ¡g KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g mÃ³dosÃ­tott alapÃ­tÃ³ okirata elfogadÃ¡sÃ¡nak napja: 2002. jÃºnius 28.<ujsor/>
+SzÃ©khelye: 1133 Budapest, KÃ¡rpÃ¡t u. 21.<ujsor/>
+Az egyesÃ¼lÅ‘ tÃ¡rsasÃ¡gok vagyonmÃ©rleg-tervezetÃ©nek fontosabb adatai:<ujsor/>
    Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK MB Szerviz MB Autó Átvevõ<ujsor/>
- Kft. (záró) Magyarország MB Autó<ujsor/>
-  Kft. (záró) Magyarország<ujsor/>
-   Kft. (nyitó)<ujsor/>
-A) Befektetett eszközök 217 290 817 569 1 034 859<ujsor/>
-I. Immateriális javak 3 249 871 4 120<ujsor/>
-II. Tárgyi eszközök 202 515 807 504 1 010 019<ujsor/>
-III. Befektetett pénzügyi eszközök 11 526 9 194 20 720<ujsor/>
-B) Forgóeszközök 2 277 664 7 641 909 9 721 167<ujsor/>
-I. Készletek 416 377 3 772 965 4 189 342<ujsor/>
-II. Követelések 522 401 2 997 645 3 321 640<ujsor/>
-III. Értékpapírok 0 0 0<ujsor/>
-IV. Pénzeszközök 1 338 886 871 299 2 210 185<ujsor/>
-C) Aktív idõbeli elhatárolások 78 903 32 366 111 269<ujsor/>
-ÖSSZESEN: 2 573 857 8 491 844 10 867 295<ujsor/>
+ESZKÃ–ZÃ–K MB Szerviz MB AutÃ³ ÃtvevÅ‘<ujsor/>
+ Kft. (zÃ¡rÃ³) MagyarorszÃ¡g MB AutÃ³<ujsor/>
+  Kft. (zÃ¡rÃ³) MagyarorszÃ¡g<ujsor/>
+   Kft. (nyitÃ³)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 217 290 817 569 1 034 859<ujsor/>
+I. ImmateriÃ¡lis javak 3 249 871 4 120<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 202 515 807 504 1 010 019<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 11 526 9 194 20 720<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 2 277 664 7 641 909 9 721 167<ujsor/>
+I. KÃ©szletek 416 377 3 772 965 4 189 342<ujsor/>
+II. KÃ¶vetelÃ©sek 522 401 2 997 645 3 321 640<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 0 0<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 1 338 886 871 299 2 210 185<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 78 903 32 366 111 269<ujsor/>
+Ã–SSZESEN: 2 573 857 8 491 844 10 867 295<ujsor/>
    Adatok E Ft-ban<ujsor/>
-FORRÁSOK MB Szerviz MB Autó Átvevõ<ujsor/>
- Kft. (záró) Magyarország MB Autó<ujsor/>
-  Kft. (záró) Magyarország<ujsor/>
-   Kft. (nyitó)<ujsor/>
-D) Saját tõke 656 286 1 223 376 1 879 662<ujsor/>
-I. Jegyzett tõke 240 120 280 400 700 000<ujsor/>
-III. Tõketartalék 136 632 10 346 0<ujsor/>
-IV. Eredménytartalék 279 534 932 630 1 179 662<ujsor/>
-VII. Mérleg szerinti eredmény 0 0 0<ujsor/>
-E) Céltartalékok 163 496 55 177 218 673<ujsor/>
-F) Kötelezettségek 1 686 897 6 964 776 8 453 267<ujsor/>
-G) Passzív idõbeli elhatárolások 67 178 248 515 315 693<ujsor/>
-ÖSSZESEN: 2 573 857 8 491 844 10 867 295<ujsor/>
-Az átvevõ MB Autó Magyarország Korlátolt Felelõsségû Társaság beolvadás utáni adatai:<ujsor/>
-A társaság jegyzett tõkéje 700 000 000 Ft, amely teljes egészében nem pénzbeli hozzájárulás.<ujsor/>
-A társaság tevékenységi köre: 3410 Közúti gépjármû gyártása; 3420 Gépjármû-karosszéria, pótkocsi gyártása; 3430 Közútijármû-motor, -alkatrész gyártása; 5010 Gépjármû-kereskedelem (fõ tevékenység); 5020 Gépjármûjavítás; 5030 Gépjármûalkatrész-kereskedelem; 5040 Motorkerékpár, -alkatrész kereskedelme, javítása; 5170 Egyéb nagykereskedelem; 5212 Iparcikk jellegû vegyes kiskereskedelem; 7020 Ingatlan bérbeadása, üzemeltetése; 7110 Gépjármûkölcsönzés; 7121 Egyéb szárazföldi jármû kölcsönzése; 7412 Számviteli, könyvvizsgálói, adószakértõi tevékenység; 7414 Üzletviteli tanácsadás; 7484 Máshova nem sorolt, egyéb gazdasági tevékenységet segítõ szolgáltatás.<ujsor/>
-A társaság vezetõ tisztségviselõi (ügyvezetõi): Georg Pappas (AT-5016 Salzburg, Reichenhaller Str. 7.), Hans Georg Pechhacker (1020 Budapest, Csalán út 2/C), Szíjjártó Pál (2084 Pilisszentiván, Borbála u. 23.).<ujsor/>
-Felhívjuk az egyesülõ társaságok hitelezõit, hogy követeléseiket - a Gt. 66. §-a alapján, a második közzétételt követõ 30 napos jogvesztõ határidõn belül - a társaságnak jelentsék be.<ujsor/>
-(Második közzététel.)<ujsor/>
+FORRÃSOK MB Szerviz MB AutÃ³ ÃtvevÅ‘<ujsor/>
+ Kft. (zÃ¡rÃ³) MagyarorszÃ¡g MB AutÃ³<ujsor/>
+  Kft. (zÃ¡rÃ³) MagyarorszÃ¡g<ujsor/>
+   Kft. (nyitÃ³)<ujsor/>
+D) SajÃ¡t tÅ‘ke 656 286 1 223 376 1 879 662<ujsor/>
+I. Jegyzett tÅ‘ke 240 120 280 400 700 000<ujsor/>
+III. TÅ‘ketartalÃ©k 136 632 10 346 0<ujsor/>
+IV. EredmÃ©nytartalÃ©k 279 534 932 630 1 179 662<ujsor/>
+VII. MÃ©rleg szerinti eredmÃ©ny 0 0 0<ujsor/>
+E) CÃ©ltartalÃ©kok 163 496 55 177 218 673<ujsor/>
+F) KÃ¶telezettsÃ©gek 1 686 897 6 964 776 8 453 267<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 67 178 248 515 315 693<ujsor/>
+Ã–SSZESEN: 2 573 857 8 491 844 10 867 295<ujsor/>
+Az Ã¡tvevÅ‘ MB AutÃ³ MagyarorszÃ¡g KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g beolvadÃ¡s utÃ¡ni adatai:<ujsor/>
+A tÃ¡rsasÃ¡g jegyzett tÅ‘kÃ©je 700 000 000 Ft, amely teljes egÃ©szÃ©ben nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s.<ujsor/>
+A tÃ¡rsasÃ¡g tevÃ©kenysÃ©gi kÃ¶re: 3410 KÃ¶zÃºti gÃ©pjÃ¡rmÅ± gyÃ¡rtÃ¡sa; 3420 GÃ©pjÃ¡rmÅ±-karosszÃ©ria, pÃ³tkocsi gyÃ¡rtÃ¡sa; 3430 KÃ¶zÃºtijÃ¡rmÅ±-motor, -alkatrÃ©sz gyÃ¡rtÃ¡sa; 5010 GÃ©pjÃ¡rmÅ±-kereskedelem (fÅ‘ tevÃ©kenysÃ©g); 5020 GÃ©pjÃ¡rmÅ±javÃ­tÃ¡s; 5030 GÃ©pjÃ¡rmÅ±alkatrÃ©sz-kereskedelem; 5040 MotorkerÃ©kpÃ¡r, -alkatrÃ©sz kereskedelme, javÃ­tÃ¡sa; 5170 EgyÃ©b nagykereskedelem; 5212 Iparcikk jellegÅ± vegyes kiskereskedelem; 7020 Ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se; 7110 GÃ©pjÃ¡rmÅ±kÃ¶lcsÃ¶nzÃ©s; 7121 EgyÃ©b szÃ¡razfÃ¶ldi jÃ¡rmÅ± kÃ¶lcsÃ¶nzÃ©se; 7412 SzÃ¡mviteli, kÃ¶nyvvizsgÃ¡lÃ³i, adÃ³szakÃ©rtÅ‘i tevÃ©kenysÃ©g; 7414 Ãœzletviteli tanÃ¡csadÃ¡s; 7484 MÃ¡shova nem sorolt, egyÃ©b gazdasÃ¡gi tevÃ©kenysÃ©get segÃ­tÅ‘ szolgÃ¡ltatÃ¡s.<ujsor/>
+A tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘i (Ã¼gyvezetÅ‘i): Georg Pappas (AT-5016 Salzburg, Reichenhaller Str. 7.), Hans Georg Pechhacker (1020 Budapest, CsalÃ¡n Ãºt 2/C), SzÃ­jjÃ¡rtÃ³ PÃ¡l (2084 PilisszentivÃ¡n, BorbÃ¡la u. 23.).<ujsor/>
+FelhÃ­vjuk az egyesÃ¼lÅ‘ tÃ¡rsasÃ¡gok hitelezÅ‘it, hogy kÃ¶vetelÃ©seiket - a Gt. 66. Â§-a alapjÃ¡n, a mÃ¡sodik kÃ¶zzÃ©tÃ©telt kÃ¶vetÅ‘ 30 napos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l - a tÃ¡rsasÃ¡gnak jelentsÃ©k be.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109065051</mezo>
-<mezo id = "nev">MB-AUTO Magyarország Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">MB-AUTO MagyarorszÃ¡g KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2002. 09. 30-án hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-16. [01 09 067200] MB Szerviz Korlátolt Felelõsségû Társaság.<ujsor/>
- Törölve: 2002. 06. 28-i hatállyal.<ujsor/>
- [01 09 067200] MB Szerviz Korlátolt felelõsségû Társaság.<ujsor/>
- Hatályos: 2002. 09. 30-tól.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2002. 09. 30-Ã¡n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+16. [01 09 067200] MB Szerviz KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+ TÃ¶rÃ¶lve: 2002. 06. 28-i hatÃ¡llyal.<ujsor/>
+ [01 09 067200] MB Szerviz KorlÃ¡tolt felelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+ HatÃ¡lyos: 2002. 09. 30-tÃ³l.<ujsor/>
 Bejegyezve: 2002. 09. 30.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109065051</mezo>
-<mezo id = "nev">MB-AUTO Magyarország Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1133 Budapest, Kárpát u. 21.</mezo>
+<mezo id = "nev">MB-AUTO MagyarorszÃ¡g KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1133 Budapest, KÃ¡rpÃ¡t u. 21.</mezo>
 <mezo id = "adosz">10445952244</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az MB-AUTO Magyarország Korlátolt Felelõsségû Társaság (Cg.: [01 09 065051]; 1133 Budapest, Kárpát u. 21.) és az Auto-Kurz &amp; CO. Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság (Cg.: [06 09 006235]; 6725 Szeged, Vásárhelyi P. u. 15.) alapítói 2004. szeptember 29-én határozatot hoztak arról, hogy a két társaság<ujsor/>
-egyesül.<ujsor/>
-Az egyesülés módja: beolvadás, amelynek során az Auto-Kurz &amp; CO. Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság mint beolvadó társaság beolvad az MB-AUTO Magyarország Korlátolt Felelõsségû Társaságba mint átvevõ társaságba.<ujsor/>
-Az egyesülés (beolvadás) alapját képezõ vagyonmérleg-tervezet fordulónapja: 2004. június 30.<ujsor/>
-Az átvevõ MB-AUTO Magyarország Korlátolt Felelõsségû Társaság módosított alapító okirata elfogadásának napja: 2004. szeptember 29.<ujsor/>
-Az egyesülõ társaságok vagyonmérleg-tervezetének fontosabb adatai:<ujsor/>
+<mezo id = "szoveg">Az MB-AUTO MagyarorszÃ¡g KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [01 09 065051]; 1133 Budapest, KÃ¡rpÃ¡t u. 21.) Ã©s az Auto-Kurz &amp; CO. Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [06 09 006235]; 6725 Szeged, VÃ¡sÃ¡rhelyi P. u. 15.) alapÃ­tÃ³i 2004. szeptember 29-Ã©n hatÃ¡rozatot hoztak arrÃ³l, hogy a kÃ©t tÃ¡rsasÃ¡g<ujsor/>
+egyesÃ¼l.<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: beolvadÃ¡s, amelynek sorÃ¡n az Auto-Kurz &amp; CO. Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g mint beolvadÃ³ tÃ¡rsasÃ¡g beolvad az MB-AUTO MagyarorszÃ¡g KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gba mint Ã¡tvevÅ‘ tÃ¡rsasÃ¡gba.<ujsor/>
+Az egyesÃ¼lÃ©s (beolvadÃ¡s) alapjÃ¡t kÃ©pezÅ‘ vagyonmÃ©rleg-tervezet fordulÃ³napja: 2004. jÃºnius 30.<ujsor/>
+Az Ã¡tvevÅ‘ MB-AUTO MagyarorszÃ¡g KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g mÃ³dosÃ­tott alapÃ­tÃ³ okirata elfogadÃ¡sÃ¡nak napja: 2004. szeptember 29.<ujsor/>
+Az egyesÃ¼lÅ‘ tÃ¡rsasÃ¡gok vagyonmÃ©rleg-tervezetÃ©nek fontosabb adatai:<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK Auto-Kurz &amp; CO. MB-AUTO Magyarország Átvevõ MB-AUTO<ujsor/>
-Kereskedelmi és Szolgáltató Kft. (záró) Kft. (záró) Magyarország Kft. (nyitó)<ujsor/>
-A) Befektetett eszközök 10 698 2 473 036 2 453 734<ujsor/>
-I. Immateriális javak 382 4 237 4 619<ujsor/>
-II. Tárgyi eszközök 10 316 1 758 043 1 768 359<ujsor/>
-III. Befektetett pénzügyi eszközök 0 710 757 680 757<ujsor/>
-B) Forgóeszközök 145 118 9 362 958 9 474 199<ujsor/>
-I. Készletek 122 352 4 283 239 4 405 590<ujsor/>
-II. Követelések 20 064 3 083 391 3 069 578<ujsor/>
-III. Értékpapírok 0 0 0<ujsor/>
-IV. Pénzeszközök 2 702 1 996 328 1 999 030<ujsor/>
-C) Aktív idõbeli elhatárolások 1 088 38 225 39 313<ujsor/>
-ÖSSZESEN: 156 904 11 874 220 11 967 247<ujsor/>
+ESZKÃ–ZÃ–K Auto-Kurz &amp; CO. MB-AUTO MagyarorszÃ¡g ÃtvevÅ‘ MB-AUTO<ujsor/>
+Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ Kft. (zÃ¡rÃ³) Kft. (zÃ¡rÃ³) MagyarorszÃ¡g Kft. (nyitÃ³)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 10 698 2 473 036 2 453 734<ujsor/>
+I. ImmateriÃ¡lis javak 382 4 237 4 619<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 10 316 1 758 043 1 768 359<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 710 757 680 757<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 145 118 9 362 958 9 474 199<ujsor/>
+I. KÃ©szletek 122 352 4 283 239 4 405 590<ujsor/>
+II. KÃ¶vetelÃ©sek 20 064 3 083 391 3 069 578<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 0 0<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 2 702 1 996 328 1 999 030<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 1 088 38 225 39 313<ujsor/>
+Ã–SSZESEN: 156 904 11 874 220 11 967 247<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK Auto-Kurz &amp; CO. MB-AUTO Magyarország Átvevõ MB-AUTO<ujsor/>
-Kereskedelmi és Szolgáltató Kft. (záró) Kft. (záró) Magyarország Kft. (nyitó)<ujsor/>
-D) Saját tõke 36 447 4 343 008 4 349 455<ujsor/>
-I. Jegyzett tõke 30 000 700 000 1 000 000<ujsor/>
-III. Tõketartalék 500 0 500<ujsor/>
-IV. Eredménytartalék 15 324 2 792 136 3 095 687<ujsor/>
-VII. Mérleg szerinti eredmény –9 377 597 604 0<ujsor/>
-E) Céltartalék 7 500 328 925 336 425<ujsor/>
-F) Kötelezettségek 107 523 7 035 513 7 109 159<ujsor/>
-G) Passzív idõbeli elhatárolások 5 434 166 774 172 208<ujsor/>
-ÖSSZESEN: 156 904 11 874 220 11 967 247<ujsor/>
-Az átvevõ MB-AUTO Magyarország Korlátolt Felelõsségû Társaság beolvadás utáni adatai:<ujsor/>
-Cégneve: MB-AUTO Magyarország Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhelye: 1133 Budapest, Kárpát u. 21.<ujsor/>
-A társaság jegyzett tõkéje 1 000 000 000 Ft, amely teljes egészében nem pénzbeli hozzájárulás.<ujsor/>
-A társaság tevékenységi körei (TEÁOR ’03): 3410 Közúti gépjármû gyártása; 3420 Gépjármû-karosszéria, pótkocsi gyártása; 3430 Közúti gépjármû, gépjármûmotor alkatrészeinek gyártása; 5010 Gépjármû-kereskedelem (fõ tevékenység); 5020 Gépjármûjavítás; 5030 Gépjármûalkatrész-kereskedelem; 5040 Motorkerékpár-kereskedelem, -javítás; 5190 Egyéb nagykereskedelem; 5212 Iparcikk jellegû vegyes kiskereskedelem; 7020 Ingatlan bérbeadása, üzemeltetése; 7110 Gépkocsikölcsönzés; 7121 Egyéb szárazföldi jármû kölcsönzése; 7412 Számviteli, adószakértõi tevékenység; 7414 Üzletviteli tanácsadás; 7487 Máshová nem sorolt, egyéb gazdasági szolgáltatás.<ujsor/>
-A társaság vezetõ tisztségviselõi (ügyvezetõi): Georg Pappas (AT–5020 Salzburg, Reichenhaller Str. 7.), Hans Georg Pechhacker (1020 Budapest, Csalán u. 2/C) és Szíjjártó Pál (2084 Pilisszentiván, Borbála u. 23.).<ujsor/>
-Felhívjuk az egyesülõ társaság hitelezõit, hogy követeléseiket a Gt. 66. §-a alapján a második közzétételt követõ 30 napos jogvesztõ határidõn belül a társaságnak jelentsék be.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+FORRÃSOK Auto-Kurz &amp; CO. MB-AUTO MagyarorszÃ¡g ÃtvevÅ‘ MB-AUTO<ujsor/>
+Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ Kft. (zÃ¡rÃ³) Kft. (zÃ¡rÃ³) MagyarorszÃ¡g Kft. (nyitÃ³)<ujsor/>
+D) SajÃ¡t tÅ‘ke 36 447 4 343 008 4 349 455<ujsor/>
+I. Jegyzett tÅ‘ke 30 000 700 000 1 000 000<ujsor/>
+III. TÅ‘ketartalÃ©k 500 0 500<ujsor/>
+IV. EredmÃ©nytartalÃ©k 15 324 2 792 136 3 095 687<ujsor/>
+VII. MÃ©rleg szerinti eredmÃ©ny â€“9 377 597 604 0<ujsor/>
+E) CÃ©ltartalÃ©k 7 500 328 925 336 425<ujsor/>
+F) KÃ¶telezettsÃ©gek 107 523 7 035 513 7 109 159<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 5 434 166 774 172 208<ujsor/>
+Ã–SSZESEN: 156 904 11 874 220 11 967 247<ujsor/>
+Az Ã¡tvevÅ‘ MB-AUTO MagyarorszÃ¡g KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g beolvadÃ¡s utÃ¡ni adatai:<ujsor/>
+CÃ©gneve: MB-AUTO MagyarorszÃ¡g KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 1133 Budapest, KÃ¡rpÃ¡t u. 21.<ujsor/>
+A tÃ¡rsasÃ¡g jegyzett tÅ‘kÃ©je 1 000 000 000 Ft, amely teljes egÃ©szÃ©ben nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s.<ujsor/>
+A tÃ¡rsasÃ¡g tevÃ©kenysÃ©gi kÃ¶rei (TEÃOR â€™03): 3410 KÃ¶zÃºti gÃ©pjÃ¡rmÅ± gyÃ¡rtÃ¡sa; 3420 GÃ©pjÃ¡rmÅ±-karosszÃ©ria, pÃ³tkocsi gyÃ¡rtÃ¡sa; 3430 KÃ¶zÃºti gÃ©pjÃ¡rmÅ±, gÃ©pjÃ¡rmÅ±motor alkatrÃ©szeinek gyÃ¡rtÃ¡sa; 5010 GÃ©pjÃ¡rmÅ±-kereskedelem (fÅ‘ tevÃ©kenysÃ©g); 5020 GÃ©pjÃ¡rmÅ±javÃ­tÃ¡s; 5030 GÃ©pjÃ¡rmÅ±alkatrÃ©sz-kereskedelem; 5040 MotorkerÃ©kpÃ¡r-kereskedelem, -javÃ­tÃ¡s; 5190 EgyÃ©b nagykereskedelem; 5212 Iparcikk jellegÅ± vegyes kiskereskedelem; 7020 Ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se; 7110 GÃ©pkocsikÃ¶lcsÃ¶nzÃ©s; 7121 EgyÃ©b szÃ¡razfÃ¶ldi jÃ¡rmÅ± kÃ¶lcsÃ¶nzÃ©se; 7412 SzÃ¡mviteli, adÃ³szakÃ©rtÅ‘i tevÃ©kenysÃ©g; 7414 Ãœzletviteli tanÃ¡csadÃ¡s; 7487 MÃ¡shovÃ¡ nem sorolt, egyÃ©b gazdasÃ¡gi szolgÃ¡ltatÃ¡s.<ujsor/>
+A tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘i (Ã¼gyvezetÅ‘i): Georg Pappas (ATâ€“5020 Salzburg, Reichenhaller Str. 7.), Hans Georg Pechhacker (1020 Budapest, CsalÃ¡n u. 2/C) Ã©s SzÃ­jjÃ¡rtÃ³ PÃ¡l (2084 PilisszentivÃ¡n, BorbÃ¡la u. 23.).<ujsor/>
+FelhÃ­vjuk az egyesÃ¼lÅ‘ tÃ¡rsasÃ¡g hitelezÅ‘it, hogy kÃ¶vetelÃ©seiket a Gt. 66. Â§-a alapjÃ¡n a mÃ¡sodik kÃ¶zzÃ©tÃ©telt kÃ¶vetÅ‘ 30 napos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l a tÃ¡rsasÃ¡gnak jelentsÃ©k be.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109065051</mezo>
-<mezo id = "nev">MB-AUTO Magyarország Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">MB-AUTO MagyarorszÃ¡g KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1133 Budapest</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az MB-AUTO Magyarország Korlátolt Felelõsségû Társaság (Cg.: [01 09 065051]; 1133 Budapest, Kárpát u. 21.) és az Auto-Kurz &amp; CO. Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság (Cg.: [06 09 006235]; 6725 Szeged, Vásárhelyi P. u. 15.) alapítói 2004. szeptember 29-én határozatot hoztak arról, hogy a két társaság<ujsor/>
-egyesül.<ujsor/>
-Az egyesülés módja: beolvadás, amelynek során az Auto-Kurz &amp; CO. Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság mint beolvadó társaság beolvad az MB-AUTO Magyarország Korlátolt Felelõsségû Társaságba mint átvevõ társaságba.<ujsor/>
-Az egyesülés (beolvadás) alapját képezõ vagyonmérleg-tervezet fordulónapja: 2004. június 30.<ujsor/>
-Az átvevõ MB-AUTO Magyarország Korlátolt Felelõsségû Társaság módosított alapító okirata elfogadásának napja: 2004. szeptember 29.<ujsor/>
-Az egyesülõ társaságok vagyonmérleg-tervezetének fontosabb adatai:<ujsor/>
+<mezo id = "szoveg">Az MB-AUTO MagyarorszÃ¡g KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [01 09 065051]; 1133 Budapest, KÃ¡rpÃ¡t u. 21.) Ã©s az Auto-Kurz &amp; CO. Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [06 09 006235]; 6725 Szeged, VÃ¡sÃ¡rhelyi P. u. 15.) alapÃ­tÃ³i 2004. szeptember 29-Ã©n hatÃ¡rozatot hoztak arrÃ³l, hogy a kÃ©t tÃ¡rsasÃ¡g<ujsor/>
+egyesÃ¼l.<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: beolvadÃ¡s, amelynek sorÃ¡n az Auto-Kurz &amp; CO. Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g mint beolvadÃ³ tÃ¡rsasÃ¡g beolvad az MB-AUTO MagyarorszÃ¡g KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gba mint Ã¡tvevÅ‘ tÃ¡rsasÃ¡gba.<ujsor/>
+Az egyesÃ¼lÃ©s (beolvadÃ¡s) alapjÃ¡t kÃ©pezÅ‘ vagyonmÃ©rleg-tervezet fordulÃ³napja: 2004. jÃºnius 30.<ujsor/>
+Az Ã¡tvevÅ‘ MB-AUTO MagyarorszÃ¡g KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g mÃ³dosÃ­tott alapÃ­tÃ³ okirata elfogadÃ¡sÃ¡nak napja: 2004. szeptember 29.<ujsor/>
+Az egyesÃ¼lÅ‘ tÃ¡rsasÃ¡gok vagyonmÃ©rleg-tervezetÃ©nek fontosabb adatai:<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK Auto-Kurz &amp; CO. MB-AUTO Magyarország Átvevõ MB-AUTO<ujsor/>
-Kereskedelmi és Szolgáltató Kft. (záró) Kft. (záró) Magyarország Kft. (nyitó)<ujsor/>
-A) Befektetett eszközök 10 698 2 473 036 2 453 734<ujsor/>
-I. Immateriális javak 382 4 237 4 619<ujsor/>
-II. Tárgyi eszközök 10 316 1 758 043 1 768 359<ujsor/>
-III. Befektetett pénzügyi eszközök 0 710 757 680 757<ujsor/>
-B) Forgóeszközök 145 118 9 362 958 9 474 199<ujsor/>
-I. Készletek 122 352 4 283 239 4 405 590<ujsor/>
-II. Követelések 20 064 3 083 391 3 069 578<ujsor/>
-III. Értékpapírok 0 0 0<ujsor/>
-IV. Pénzeszközök 2 702 1 996 328 1 999 030<ujsor/>
-C) Aktív idõbeli elhatárolások 1 088 38 225 39 313<ujsor/>
-ÖSSZESEN: 156 904 11 874 220 11 967 247<ujsor/>
+ESZKÃ–ZÃ–K Auto-Kurz &amp; CO. MB-AUTO MagyarorszÃ¡g ÃtvevÅ‘ MB-AUTO<ujsor/>
+Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ Kft. (zÃ¡rÃ³) Kft. (zÃ¡rÃ³) MagyarorszÃ¡g Kft. (nyitÃ³)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 10 698 2 473 036 2 453 734<ujsor/>
+I. ImmateriÃ¡lis javak 382 4 237 4 619<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 10 316 1 758 043 1 768 359<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 710 757 680 757<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 145 118 9 362 958 9 474 199<ujsor/>
+I. KÃ©szletek 122 352 4 283 239 4 405 590<ujsor/>
+II. KÃ¶vetelÃ©sek 20 064 3 083 391 3 069 578<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 0 0<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 2 702 1 996 328 1 999 030<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 1 088 38 225 39 313<ujsor/>
+Ã–SSZESEN: 156 904 11 874 220 11 967 247<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK Auto-Kurz &amp; CO. MB-AUTO Magyarország Átvevõ MB-AUTO<ujsor/>
-Kereskedelmi és Szolgáltató Kft. (záró) Kft. (záró) Magyarország Kft. (nyitó)<ujsor/>
-D) Saját tõke 36 447 4 343 008 4 349 455<ujsor/>
-I. Jegyzett tõke 30 000 700 000 1 000 000<ujsor/>
-III. Tõketartalék 500 0 500<ujsor/>
-IV. Eredménytartalék 15 324 2 792 136 3 095 687<ujsor/>
-VII. Mérleg szerinti eredmény ­9 377 597 604 0<ujsor/>
-E) Céltartalék 7 500 328 925 336 425<ujsor/>
-F) Kötelezettségek 107 523 7 035 513 7 109 159<ujsor/>
-G) Passzív idõbeli elhatárolások 5 434 166 774 172 208<ujsor/>
-ÖSSZESEN: 156 904 11 874 220 11 967 247<ujsor/>
-Az átvevõ MB-AUTO Magyarország Korlátolt Felelõsségû Társaság beolvadás utáni adatai: Cégneve: MB-AUTO Magyarország Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhelye: 1133 Budapest, Kárpát u. 21.<ujsor/>
-A társaság jegyzett tõkéje 1 000 000 000 Ft, amely teljes egészében nem pénzbeli hozzájárulás.<ujsor/>
-A társaság tevékenységi körei (TEÁOR ’03): 3410 Közúti gépjármû gyártása; 3420 Gépjármû-karosszéria, pótkocsi gyártása; 3430 Közúti gépjármû, gépjármûmotor alkatrészeinek gyártása; 5010 Gépjármû-kereskedelem (fõ tevékenység); 5020 Gépjármûjavítás; 5030 Gépjármûalkatrész-kereskedelem; 5040 Motorkerékpár-kereskedelem, -javítás; 5190 Egyéb nagykereskedelem; 5212 Iparcikk jellegû vegyes kiskereskedelem; 7020 Ingatlan bérbeadása, üzemeltetése; 7110 Gépkocsikölcsönzés; 7121 Egyéb szárazföldi jármû kölcsönzése; 7412 Számviteli, adószakértõi tevékenység; 7414 Üzletviteli tanácsadás; 7487 Máshová nem sorolt, egyéb gazdasági szolgáltatás.<ujsor/>
-A társaság vezetõ tisztségviselõi (ügyvezetõi): Georg Pappas (AT­5020 Salzburg, Reichenhaller Str. 7.), Hans Georg Pechhacker (1020 Budapest, Csalán u. 2/C) és Szíjjártó Pál (2084 Pilisszentiván, Borbála u. 23.).<ujsor/>
-Felhívjuk az egyesülõ társaság hitelezõit, hogy követeléseiket a Gt. 66. §-a alapján a második közzétételt követõ 30 napos jogvesztõ határidõn belül a társaságnak jelentsék be.<ujsor/>
-(Második közzététel.)<ujsor/>
+FORRÃSOK Auto-Kurz &amp; CO. MB-AUTO MagyarorszÃ¡g ÃtvevÅ‘ MB-AUTO<ujsor/>
+Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ Kft. (zÃ¡rÃ³) Kft. (zÃ¡rÃ³) MagyarorszÃ¡g Kft. (nyitÃ³)<ujsor/>
+D) SajÃ¡t tÅ‘ke 36 447 4 343 008 4 349 455<ujsor/>
+I. Jegyzett tÅ‘ke 30 000 700 000 1 000 000<ujsor/>
+III. TÅ‘ketartalÃ©k 500 0 500<ujsor/>
+IV. EredmÃ©nytartalÃ©k 15 324 2 792 136 3 095 687<ujsor/>
+VII. MÃ©rleg szerinti eredmÃ©ny Â­9 377 597 604 0<ujsor/>
+E) CÃ©ltartalÃ©k 7 500 328 925 336 425<ujsor/>
+F) KÃ¶telezettsÃ©gek 107 523 7 035 513 7 109 159<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 5 434 166 774 172 208<ujsor/>
+Ã–SSZESEN: 156 904 11 874 220 11 967 247<ujsor/>
+Az Ã¡tvevÅ‘ MB-AUTO MagyarorszÃ¡g KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g beolvadÃ¡s utÃ¡ni adatai: CÃ©gneve: MB-AUTO MagyarorszÃ¡g KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 1133 Budapest, KÃ¡rpÃ¡t u. 21.<ujsor/>
+A tÃ¡rsasÃ¡g jegyzett tÅ‘kÃ©je 1 000 000 000 Ft, amely teljes egÃ©szÃ©ben nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s.<ujsor/>
+A tÃ¡rsasÃ¡g tevÃ©kenysÃ©gi kÃ¶rei (TEÃOR â€™03): 3410 KÃ¶zÃºti gÃ©pjÃ¡rmÅ± gyÃ¡rtÃ¡sa; 3420 GÃ©pjÃ¡rmÅ±-karosszÃ©ria, pÃ³tkocsi gyÃ¡rtÃ¡sa; 3430 KÃ¶zÃºti gÃ©pjÃ¡rmÅ±, gÃ©pjÃ¡rmÅ±motor alkatrÃ©szeinek gyÃ¡rtÃ¡sa; 5010 GÃ©pjÃ¡rmÅ±-kereskedelem (fÅ‘ tevÃ©kenysÃ©g); 5020 GÃ©pjÃ¡rmÅ±javÃ­tÃ¡s; 5030 GÃ©pjÃ¡rmÅ±alkatrÃ©sz-kereskedelem; 5040 MotorkerÃ©kpÃ¡r-kereskedelem, -javÃ­tÃ¡s; 5190 EgyÃ©b nagykereskedelem; 5212 Iparcikk jellegÅ± vegyes kiskereskedelem; 7020 Ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se; 7110 GÃ©pkocsikÃ¶lcsÃ¶nzÃ©s; 7121 EgyÃ©b szÃ¡razfÃ¶ldi jÃ¡rmÅ± kÃ¶lcsÃ¶nzÃ©se; 7412 SzÃ¡mviteli, adÃ³szakÃ©rtÅ‘i tevÃ©kenysÃ©g; 7414 Ãœzletviteli tanÃ¡csadÃ¡s; 7487 MÃ¡shovÃ¡ nem sorolt, egyÃ©b gazdasÃ¡gi szolgÃ¡ltatÃ¡s.<ujsor/>
+A tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘i (Ã¼gyvezetÅ‘i): Georg Pappas (ATÂ­5020 Salzburg, Reichenhaller Str. 7.), Hans Georg Pechhacker (1020 Budapest, CsalÃ¡n u. 2/C) Ã©s SzÃ­jjÃ¡rtÃ³ PÃ¡l (2084 PilisszentivÃ¡n, BorbÃ¡la u. 23.).<ujsor/>
+FelhÃ­vjuk az egyesÃ¼lÅ‘ tÃ¡rsasÃ¡g hitelezÅ‘it, hogy kÃ¶vetelÃ©seiket a Gt. 66. Â§-a alapjÃ¡n a mÃ¡sodik kÃ¶zzÃ©tÃ©telt kÃ¶vetÅ‘ 30 napos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l a tÃ¡rsasÃ¡gnak jelentsÃ©k be.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109065051</mezo>
-<mezo id = "nev">MB-AUTO Magyarország Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">MB-AUTO MagyarorszÃ¡g KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1133 Budapest</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2008. 08. 07-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-09. 2920&apos;08 Gépjármû-karosszéria, pótkocsi gyártása.<ujsor/>
- A változás idõpontja: 2008. 06. 30.<ujsor/>
- 4540&apos;08 Motorkerékpár, -alkatrész kereskedelme, javítása.<ujsor/>
- A változás idõpontja: 2008. 06. 30.<ujsor/>
- 4719&apos;08 Iparcikk jellegû bolti vegyes kiskereskedelem.<ujsor/>
- A változás idõpontja: 2008. 06. 30.<ujsor/>
- 6820&apos;08 Saját tulajdonú, bérelt ingatlan bérbeadása, üzemeltetése.<ujsor/>
- A változás idõpontja: 2008. 06. 30.<ujsor/>
- 6920&apos;08 Számviteli, könyvvizsgálói, adószakértõi tevékenység.<ujsor/>
- A változás idõpontja: 2008. 06. 30.<ujsor/>
- 7711&apos;08 Személygépjármû kölcsönzése.<ujsor/>
- A változás idõpontja: 2008. 06. 30.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2008. 08. 07-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+09. 2920&apos;08 GÃ©pjÃ¡rmÅ±-karosszÃ©ria, pÃ³tkocsi gyÃ¡rtÃ¡sa.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 06. 30.<ujsor/>
+ 4540&apos;08 MotorkerÃ©kpÃ¡r, -alkatrÃ©sz kereskedelme, javÃ­tÃ¡sa.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 06. 30.<ujsor/>
+ 4719&apos;08 Iparcikk jellegÅ± bolti vegyes kiskereskedelem.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 06. 30.<ujsor/>
+ 6820&apos;08 SajÃ¡t tulajdonÃº, bÃ©relt ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 06. 30.<ujsor/>
+ 6920&apos;08 SzÃ¡mviteli, kÃ¶nyvvizsgÃ¡lÃ³i, adÃ³szakÃ©rtÅ‘i tevÃ©kenysÃ©g.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 06. 30.<ujsor/>
+ 7711&apos;08 SzemÃ©lygÃ©pjÃ¡rmÅ± kÃ¶lcsÃ¶nzÃ©se.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 06. 30.<ujsor/>
  Bejegyezve: 2008. 06. 30.<ujsor/>
 2008. 11. 11.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109065051</mezo>
-<mezo id = "nev">Pappas Auto Magyarország Kereskedelmi és Szerviz Kft.</mezo>
-<mezo id = "cim">1133 Budapest, Kárpát u. 21.</mezo>
+<mezo id = "nev">Pappas Auto MagyarorszÃ¡g Kereskedelmi Ã©s Szerviz Kft.</mezo>
+<mezo id = "cim">1133 Budapest, KÃ¡rpÃ¡t u. 21.</mezo>
 <mezo id = "adosz">10445952244</mezo>
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2009. 03. 25-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. A képviselet módja: együttes.<ujsor/>
- Tisztsége: más munkavállaló.<ujsor/>
- Bohács László Ferenc (an: Kun Erzsébet)<ujsor/>
-1031 Budapest, Nánási út 34. b. ép . fszt. 3.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2009. 03. 25-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: mÃ¡s munkavÃ¡llalÃ³.<ujsor/>
+ BohÃ¡cs LÃ¡szlÃ³ Ferenc (an: Kun ErzsÃ©bet)<ujsor/>
+1031 Budapest, NÃ¡nÃ¡si Ãºt 34. b. Ã©p . fszt. 3.<ujsor/>
  A jogviszony kezdete: 2009. 02. 23.<ujsor/>
- A változás idõpontja: 2009. 01. 30.<ujsor/>
- A változás idõpontja (törlés): 2009. 01. 30.<ujsor/>
- A képviselet módja: együttes.<ujsor/>
- Tisztsége: más munkavállaló.<ujsor/>
- Boros Norbert (an: Molnár Mária)<ujsor/>
-8082 Gánt, Vértes utca 20.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2009. 01. 30.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2009. 01. 30.<ujsor/>
+ A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: mÃ¡s munkavÃ¡llalÃ³.<ujsor/>
+ Boros Norbert (an: MolnÃ¡r MÃ¡ria)<ujsor/>
+8082 GÃ¡nt, VÃ©rtes utca 20.<ujsor/>
  A jogviszony kezdete: 2009. 02. 23.<ujsor/>
- A változás idõpontja: 2009. 01. 30.<ujsor/>
- A változás idõpontja (törlés): 2009. 01. 30.<ujsor/>
- A képviselet módja: együttes.<ujsor/>
- Tisztsége: más munkavállaló.<ujsor/>
- Kertész Zoltán (an: Farkas Ida Irén)<ujsor/>
-1031 Budapest, Szérüskert utca 13. 1. em. 4.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2009. 01. 30.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2009. 01. 30.<ujsor/>
+ A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: mÃ¡s munkavÃ¡llalÃ³.<ujsor/>
+ KertÃ©sz ZoltÃ¡n (an: Farkas Ida IrÃ©n)<ujsor/>
+1031 Budapest, SzÃ©rÃ¼skert utca 13. 1. em. 4.<ujsor/>
  A jogviszony kezdete: 2009. 02. 23.<ujsor/>
- A változás idõpontja: 2009. 01. 30.<ujsor/>
- A változás idõpontja (törlés): 2009. 01. 30.<ujsor/>
- Törölve: 2009. 01. 30.<ujsor/>
- A képviselet módja: együttes.<ujsor/>
- Tisztsége: más munkavállaló.<ujsor/>
- Bohács László Ferenc (an: Kun Erzsébet)<ujsor/>
-1031 Budapest, Nánási út 34. b. ép . fszt. 3.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2009. 01. 30.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2009. 01. 30.<ujsor/>
+ TÃ¶rÃ¶lve: 2009. 01. 30.<ujsor/>
+ A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: mÃ¡s munkavÃ¡llalÃ³.<ujsor/>
+ BohÃ¡cs LÃ¡szlÃ³ Ferenc (an: Kun ErzsÃ©bet)<ujsor/>
+1031 Budapest, NÃ¡nÃ¡si Ãºt 34. b. Ã©p . fszt. 3.<ujsor/>
  A jogviszony kezdete: 2009. 02. 23.<ujsor/>
- A változás idõpontja: 2009. 02. 23.<ujsor/>
- A képviselet módja: együttes.<ujsor/>
- Tisztsége: más munkavállaló.<ujsor/>
- Boros Norbert (an: Molnár Mária)<ujsor/>
-8082 Gánt, Vértes utca 20.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2009. 02. 23.<ujsor/>
+ A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: mÃ¡s munkavÃ¡llalÃ³.<ujsor/>
+ Boros Norbert (an: MolnÃ¡r MÃ¡ria)<ujsor/>
+8082 GÃ¡nt, VÃ©rtes utca 20.<ujsor/>
  A jogviszony kezdete: 2009. 02. 23.<ujsor/>
- A változás idõpontja: 2009. 02. 23.<ujsor/>
- A képviselet módja: együttes.<ujsor/>
- Tisztsége: más munkavállaló.<ujsor/>
- Kertész Zoltán (an: Farkas Ida Irén)<ujsor/>
-1031 Budapest, Szérüskert utca 13. 1. em. 4.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2009. 02. 23.<ujsor/>
+ A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: mÃ¡s munkavÃ¡llalÃ³.<ujsor/>
+ KertÃ©sz ZoltÃ¡n (an: Farkas Ida IrÃ©n)<ujsor/>
+1031 Budapest, SzÃ©rÃ¼skert utca 13. 1. em. 4.<ujsor/>
  A jogviszony kezdete: 2009. 02. 23.<ujsor/>
- A változás idõpontja: 2009. 02. 23.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2009. 02. 23.<ujsor/>
  Bejegyezve: 2009. 02. 23.<ujsor/>
 2009. 04. 22.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109065051</mezo>
-<mezo id = "nev">Pappas Auto Magyarország Kereskedelmi és Szerviz Kft.</mezo>
-<mezo id = "cim">1133 Budapest, Kárpát u. 21.</mezo>
+<mezo id = "nev">Pappas Auto MagyarorszÃ¡g Kereskedelmi Ã©s Szerviz Kft.</mezo>
+<mezo id = "cim">1133 Budapest, KÃ¡rpÃ¡t u. 21.</mezo>
 <mezo id = "adosz">10445952244</mezo>
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Pappas Auto Magyarország Kft. (Cg.: [01 09 065051]; székhelye: 1133 Budapest, Kárpát u. 21.) egyedüli tagja és a Pappas Auto Pécs Kft. (Cg.: [02 09 068496]; székhelye: 7630 Pécs, Koksz u. 125.) egyedüli tagja 2010. szeptember 28-án határozatot hoztak arról, hogy a két társaság egyesül.<ujsor/>
-Az egyesülés módja beolvadás, amelynek során a Pappas Auto Pécs Kft., mint beolvadó társaság beolvad a Pappas Auto Magyarország Kft.-be, mint átvevõ társaságba.<ujsor/>
-A létrejövõ társaság cégneve: Pappas Auto Magyarország Kft.<ujsor/>
-Székhelye: 1133 Budapest, Kárpát u. 21.<ujsor/>
-Az egyesülés (beolvadás) alapját képezõ vagyonmérleg-tervezet fordulónapja: 2010. június 30.<ujsor/>
-Az átvevõ Pappas Auto Magyarország Kft. alapító okirat módosítása elfogadásának a napja: 2010. szeptember 28.<ujsor/>
-Az egyesülés idõpontja: 2010. december 31.<ujsor/>
-Az egyesülõ társaságok vagyonmérleg-tervezetének fontosabb adatai:<ujsor/>
+<mezo id = "szoveg">A Pappas Auto MagyarorszÃ¡g Kft. (Cg.: [01 09 065051]; szÃ©khelye: 1133 Budapest, KÃ¡rpÃ¡t u. 21.) egyedÃ¼li tagja Ã©s a Pappas Auto PÃ©cs Kft. (Cg.: [02 09 068496]; szÃ©khelye: 7630 PÃ©cs, Koksz u. 125.) egyedÃ¼li tagja 2010. szeptember 28-Ã¡n hatÃ¡rozatot hoztak arrÃ³l, hogy a kÃ©t tÃ¡rsasÃ¡g egyesÃ¼l.<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja beolvadÃ¡s, amelynek sorÃ¡n a Pappas Auto PÃ©cs Kft., mint beolvadÃ³ tÃ¡rsasÃ¡g beolvad a Pappas Auto MagyarorszÃ¡g Kft.-be, mint Ã¡tvevÅ‘ tÃ¡rsasÃ¡gba.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g cÃ©gneve: Pappas Auto MagyarorszÃ¡g Kft.<ujsor/>
+SzÃ©khelye: 1133 Budapest, KÃ¡rpÃ¡t u. 21.<ujsor/>
+Az egyesÃ¼lÃ©s (beolvadÃ¡s) alapjÃ¡t kÃ©pezÅ‘ vagyonmÃ©rleg-tervezet fordulÃ³napja: 2010. jÃºnius 30.<ujsor/>
+Az Ã¡tvevÅ‘ Pappas Auto MagyarorszÃ¡g Kft. alapÃ­tÃ³ okirat mÃ³dosÃ­tÃ¡sa elfogadÃ¡sÃ¡nak a napja: 2010. szeptember 28.<ujsor/>
+Az egyesÃ¼lÃ©s idÅ‘pontja: 2010. december 31.<ujsor/>
+Az egyesÃ¼lÅ‘ tÃ¡rsasÃ¡gok vagyonmÃ©rleg-tervezetÃ©nek fontosabb adatai:<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK Pappas Auto Pappas Auto Pappas Auto Magyarország Kft. (nyitó)<ujsor/>
-Pécs Kft. (záró) Magyarország Kft. (záró)<ujsor/>
-Befektetett eszközök 927 403 3 670 163 3 792 739<ujsor/>
-Immateriális javak 261 5 464 5 725<ujsor/>
-Tárgyi eszközök 927 142 2 849 142 3 776 284<ujsor/>
-Befektetett pénzügyi eszközök 0 815 557 10 730<ujsor/>
-Forgóeszközök 1 094 357 8 172 868 9 194 197<ujsor/>
-Készletek 666 476 3 904 570 4 571 046<ujsor/>
-Követelések 193 176 1 874 625 1 994 773<ujsor/>
-Értékpapírok 0 0 0<ujsor/>
-Pénzeszközök 234 705 2 393 673 2 628 378<ujsor/>
-Aktív idõbeli elhatárolások 2 310 59 291 61 601<ujsor/>
-ÖSSZESEN: 2 024 070 11 902 322 13 048 537<ujsor/>
+ESZKÃ–ZÃ–K Pappas Auto Pappas Auto Pappas Auto MagyarorszÃ¡g Kft. (nyitÃ³)<ujsor/>
+PÃ©cs Kft. (zÃ¡rÃ³) MagyarorszÃ¡g Kft. (zÃ¡rÃ³)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 927 403 3 670 163 3 792 739<ujsor/>
+ImmateriÃ¡lis javak 261 5 464 5 725<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 927 142 2 849 142 3 776 284<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 815 557 10 730<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 1 094 357 8 172 868 9 194 197<ujsor/>
+KÃ©szletek 666 476 3 904 570 4 571 046<ujsor/>
+KÃ¶vetelÃ©sek 193 176 1 874 625 1 994 773<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 0 0 0<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 234 705 2 393 673 2 628 378<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 2 310 59 291 61 601<ujsor/>
+Ã–SSZESEN: 2 024 070 11 902 322 13 048 537<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK Pappas Auto Pappas Auto Pappas Auto Magyarország Kft. (nyitó)<ujsor/>
-Pécs Kft. (záró) Magyarország Kft. (záró)<ujsor/>
-Saját tõke 247 794 4 452 638 3 895 605<ujsor/>
-Jegyzett tõke 800 000 1 000 000 1 000 000<ujsor/>
-Jegyzett, de még be nem fizetett tõke<ujsor/>
-Tõketartalék<ujsor/>
-Eredménytartalék ­792 206 3 452 638 2 895 605<ujsor/>
-Lekötött tartalék 240 000 0<ujsor/>
-Értékelési tartalék<ujsor/>
-Mérleg szerinti eredmény 0 0<ujsor/>
-Céltartalékok 21 760 305 262 327 022<ujsor/>
-Kötelezettségek 1 746 648 7 050 321 8 723 941<ujsor/>
-Hátra sorolt kötelezettségek 0 0 0<ujsor/>
-Hosszú lejáratra kapott kölcsönök 0 401 044 401 044<ujsor/>
-Rövid lejáratú kötelezettségek 1 746 648 6 649 277 8 322 897<ujsor/>
-Passzív idõbeli elhatárolások 7 868 94 101 101 969<ujsor/>
-ÖSSZESEN: 2 024 070 11 902 322 13 048 537<ujsor/>
-A létrejövõ társaság jegyzett tõkéje 1 000 000 000 Ft.<ujsor/>
-Fõ tevékenysége: 4511 Személygépjármû-, könnyûgépjármû-kereskedelem.<ujsor/>
-Vezetõ tisztségviselõi (ügyvezetõi): Friedrich Lixl (1025 Budapest, Diósárok u. 75/C); Nagy István (1022 Budapest, Barsi u. 7.).<ujsor/>
-Az egyesülés után a társaság egyedüli tulajdonosa: MB Auromobilvertriebsgesellschaft m.b.H. (AT­5035 Salzburg- Flughafen, Innsbrucker Bundesstraße 111.).<ujsor/>
-Az egyesülõ társaságok felhívják hitelezõiket, hogy akiknek az átalakuló gazdasági társasággal szemben fennálló, le nem járt követelései az átalakulással hozott döntés elsõ közzétételét megelõzõen keletkeztek, követeléseik erejéig az átalakuló gazdasági társaságtól a Gt. 76. §-a alapján a döntés második közzétételét követõ harmincnapos jogvesztõ határidõn belül biztosítékot követelhetnek.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+FORRÃSOK Pappas Auto Pappas Auto Pappas Auto MagyarorszÃ¡g Kft. (nyitÃ³)<ujsor/>
+PÃ©cs Kft. (zÃ¡rÃ³) MagyarorszÃ¡g Kft. (zÃ¡rÃ³)<ujsor/>
+SajÃ¡t tÅ‘ke 247 794 4 452 638 3 895 605<ujsor/>
+Jegyzett tÅ‘ke 800 000 1 000 000 1 000 000<ujsor/>
+Jegyzett, de mÃ©g be nem fizetett tÅ‘ke<ujsor/>
+TÅ‘ketartalÃ©k<ujsor/>
+EredmÃ©nytartalÃ©k Â­792 206 3 452 638 2 895 605<ujsor/>
+LekÃ¶tÃ¶tt tartalÃ©k 240 000 0<ujsor/>
+Ã‰rtÃ©kelÃ©si tartalÃ©k<ujsor/>
+MÃ©rleg szerinti eredmÃ©ny 0 0<ujsor/>
+CÃ©ltartalÃ©kok 21 760 305 262 327 022<ujsor/>
+KÃ¶telezettsÃ©gek 1 746 648 7 050 321 8 723 941<ujsor/>
+HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0 0 0<ujsor/>
+HosszÃº lejÃ¡ratra kapott kÃ¶lcsÃ¶nÃ¶k 0 401 044 401 044<ujsor/>
+RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 1 746 648 6 649 277 8 322 897<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 7 868 94 101 101 969<ujsor/>
+Ã–SSZESEN: 2 024 070 11 902 322 13 048 537<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g jegyzett tÅ‘kÃ©je 1 000 000 000 Ft.<ujsor/>
+FÅ‘ tevÃ©kenysÃ©ge: 4511 SzemÃ©lygÃ©pjÃ¡rmÅ±-, kÃ¶nnyÅ±gÃ©pjÃ¡rmÅ±-kereskedelem.<ujsor/>
+VezetÅ‘ tisztsÃ©gviselÅ‘i (Ã¼gyvezetÅ‘i): Friedrich Lixl (1025 Budapest, DiÃ³sÃ¡rok u. 75/C); Nagy IstvÃ¡n (1022 Budapest, Barsi u. 7.).<ujsor/>
+Az egyesÃ¼lÃ©s utÃ¡n a tÃ¡rsasÃ¡g egyedÃ¼li tulajdonosa: MB Auromobilvertriebsgesellschaft m.b.H. (ATÂ­5035 Salzburg- Flughafen, Innsbrucker BundesstraÃŸe 111.).<ujsor/>
+Az egyesÃ¼lÅ‘ tÃ¡rsasÃ¡gok felhÃ­vjÃ¡k hitelezÅ‘iket, hogy akiknek az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei az Ã¡talakulÃ¡ssal hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gtÃ³l a Gt. 76. Â§-a alapjÃ¡n a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109065051</mezo>
-<mezo id = "nev">MB-AUTO Magyarország Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">MB-AUTO MagyarorszÃ¡g KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1133 Budapest</mezo>
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Pappas Auto Magyarország Kft. (Cg.: [01 09 065051]; székhelye: 1133 Budapest, Kárpát u. 21.) egyedüli tagja és a Pappas Auto Pécs Kft. (Cg.: [02 09 068496]; székhelye: 7630 Pécs, Koksz u. 125.) egyedüli tagja 2010. szeptember 28-án határozatot hoztak arról, hogy a két társaság egyesül.<ujsor/>
-Az egyesülés módja beolvadás, amelynek során a Pappas Auto Pécs Kft., mint beolvadó társaság beolvad a Pappas Auto Magyarország Kft.-be, mint átvevõ társaságba.<ujsor/>
-A létrejövõ társaság cégneve: Pappas Auto Magyarország Kft.<ujsor/>
-Székhelye: 1133 Budapest, Kárpát u. 21.<ujsor/>
-Az egyesülés (beolvadás) alapját képezõ vagyonmérleg-tervezet fordulónapja: 2010. június 30.<ujsor/>
-Az átvevõ Pappas Auto Magyarország Kft. alapító okirat módosítása elfogadásának a napja: 2010. szeptember 28.<ujsor/>
-Az egyesülés idõpontja: 2010. december 31.<ujsor/>
-Az egyesülõ társaságok vagyonmérleg-tervezetének fontosabb adatai:<ujsor/>
+<mezo id = "szoveg">A Pappas Auto MagyarorszÃ¡g Kft. (Cg.: [01 09 065051]; szÃ©khelye: 1133 Budapest, KÃ¡rpÃ¡t u. 21.) egyedÃ¼li tagja Ã©s a Pappas Auto PÃ©cs Kft. (Cg.: [02 09 068496]; szÃ©khelye: 7630 PÃ©cs, Koksz u. 125.) egyedÃ¼li tagja 2010. szeptember 28-Ã¡n hatÃ¡rozatot hoztak arrÃ³l, hogy a kÃ©t tÃ¡rsasÃ¡g egyesÃ¼l.<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja beolvadÃ¡s, amelynek sorÃ¡n a Pappas Auto PÃ©cs Kft., mint beolvadÃ³ tÃ¡rsasÃ¡g beolvad a Pappas Auto MagyarorszÃ¡g Kft.-be, mint Ã¡tvevÅ‘ tÃ¡rsasÃ¡gba.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g cÃ©gneve: Pappas Auto MagyarorszÃ¡g Kft.<ujsor/>
+SzÃ©khelye: 1133 Budapest, KÃ¡rpÃ¡t u. 21.<ujsor/>
+Az egyesÃ¼lÃ©s (beolvadÃ¡s) alapjÃ¡t kÃ©pezÅ‘ vagyonmÃ©rleg-tervezet fordulÃ³napja: 2010. jÃºnius 30.<ujsor/>
+Az Ã¡tvevÅ‘ Pappas Auto MagyarorszÃ¡g Kft. alapÃ­tÃ³ okirat mÃ³dosÃ­tÃ¡sa elfogadÃ¡sÃ¡nak a napja: 2010. szeptember 28.<ujsor/>
+Az egyesÃ¼lÃ©s idÅ‘pontja: 2010. december 31.<ujsor/>
+Az egyesÃ¼lÅ‘ tÃ¡rsasÃ¡gok vagyonmÃ©rleg-tervezetÃ©nek fontosabb adatai:<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK Pappas Auto Pappas Auto Pappas Auto Magyarország Kft. (nyitó)<ujsor/>
-Pécs Kft. (záró) Magyarország Kft. (záró)<ujsor/>
-Befektetett eszközök 927 403 3 670 163 3 792 739<ujsor/>
-Immateriális javak 261 5 464 5 725<ujsor/>
-Tárgyi eszközök 927 142 2 849 142 3 776 284<ujsor/>
-Befektetett pénzügyi eszközök 0 815 557 10 730<ujsor/>
-Forgóeszközök 1 094 357 8 172 868 9 194 197<ujsor/>
-Készletek 666 476 3 904 570 4 571 046<ujsor/>
-Követelések 193 176 1 874 625 1 994 773<ujsor/>
-Értékpapírok 0 0 0<ujsor/>
-Pénzeszközök 234 705 2 393 673 2 628 378<ujsor/>
-Aktív idõbeli elhatárolások 2 310 59 291 61 601<ujsor/>
-ÖSSZESEN: 2 024 070 11 902 322 13 048 537<ujsor/>
+ESZKÃ–ZÃ–K Pappas Auto Pappas Auto Pappas Auto MagyarorszÃ¡g Kft. (nyitÃ³)<ujsor/>
+PÃ©cs Kft. (zÃ¡rÃ³) MagyarorszÃ¡g Kft. (zÃ¡rÃ³)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 927 403 3 670 163 3 792 739<ujsor/>
+ImmateriÃ¡lis javak 261 5 464 5 725<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 927 142 2 849 142 3 776 284<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 815 557 10 730<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 1 094 357 8 172 868 9 194 197<ujsor/>
+KÃ©szletek 666 476 3 904 570 4 571 046<ujsor/>
+KÃ¶vetelÃ©sek 193 176 1 874 625 1 994 773<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 0 0 0<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 234 705 2 393 673 2 628 378<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 2 310 59 291 61 601<ujsor/>
+Ã–SSZESEN: 2 024 070 11 902 322 13 048 537<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK Pappas Auto Pappas Auto Pappas Auto Magyarország Kft. (nyitó)<ujsor/>
-Pécs Kft. (záró) Magyarország Kft. (záró)<ujsor/>
-Saját tõke 247 794 4 452 638 3 895 605<ujsor/>
-Jegyzett tõke 800 000 1 000 000 1 000 000<ujsor/>
-Jegyzett, de még be nem fizetett tõke<ujsor/>
-Tõketartalék<ujsor/>
-Eredménytartalék ­792 206 3 452 638 2 895 605<ujsor/>
-Lekötött tartalék 240 000 0<ujsor/>
-Értékelési tartalék<ujsor/>
-Mérleg szerinti eredmény 0 0<ujsor/>
-Céltartalékok 21 760 305 262 327 022<ujsor/>
-Kötelezettségek 1 746 648 7 050 321 8 723 941<ujsor/>
-Hátra sorolt kötelezettségek 0 0 0<ujsor/>
-Hosszú lejáratra kapott kölcsönök 0 401 044 401 044<ujsor/>
-Rövid lejáratú kötelezettségek 1 746 648 6 649 277 8 322 897<ujsor/>
-Passzív idõbeli elhatárolások 7 868 94 101 101 969<ujsor/>
-ÖSSZESEN: 2 024 070 11 902 322 13 048 537<ujsor/>
-A létrejövõ társaság jegyzett tõkéje 1 000 000 000 Ft.<ujsor/>
-Fõ tevékenysége: 4511 Személygépjármû-, könnyûgépjármû-kereskedelem.<ujsor/>
-Vezetõ tisztségviselõi (ügyvezetõi): Friedrich Lixl (1025 Budapest, Diósárok u. 75/C); Nagy István (1022 Budapest, Barsi u. 7.).<ujsor/>
-Az egyesülés után a társaság egyedüli tulajdonosa: MB Auromobilvertriebsgesellschaft m.b.H. (AT­5035 Salzburg- Flughafen, Innsbrucker Bundesstraße 111.).<ujsor/>
-Az egyesülõ társaságok felhívják hitelezõiket, hogy akiknek az átalakuló gazdasági társasággal szemben fennálló, le nem járt követelései az átalakulással hozott döntés elsõ közzétételét megelõzõen keletkeztek, követeléseik erejéig az átalakuló gazdasági társaságtól a Gt. 76. §-a alapján a döntés második közzétételét követõ harmincnapos jogvesztõ határidõn belül biztosítékot követelhetnek.<ujsor/>
-(Második közzététel.)<ujsor/>
+FORRÃSOK Pappas Auto Pappas Auto Pappas Auto MagyarorszÃ¡g Kft. (nyitÃ³)<ujsor/>
+PÃ©cs Kft. (zÃ¡rÃ³) MagyarorszÃ¡g Kft. (zÃ¡rÃ³)<ujsor/>
+SajÃ¡t tÅ‘ke 247 794 4 452 638 3 895 605<ujsor/>
+Jegyzett tÅ‘ke 800 000 1 000 000 1 000 000<ujsor/>
+Jegyzett, de mÃ©g be nem fizetett tÅ‘ke<ujsor/>
+TÅ‘ketartalÃ©k<ujsor/>
+EredmÃ©nytartalÃ©k Â­792 206 3 452 638 2 895 605<ujsor/>
+LekÃ¶tÃ¶tt tartalÃ©k 240 000 0<ujsor/>
+Ã‰rtÃ©kelÃ©si tartalÃ©k<ujsor/>
+MÃ©rleg szerinti eredmÃ©ny 0 0<ujsor/>
+CÃ©ltartalÃ©kok 21 760 305 262 327 022<ujsor/>
+KÃ¶telezettsÃ©gek 1 746 648 7 050 321 8 723 941<ujsor/>
+HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0 0 0<ujsor/>
+HosszÃº lejÃ¡ratra kapott kÃ¶lcsÃ¶nÃ¶k 0 401 044 401 044<ujsor/>
+RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 1 746 648 6 649 277 8 322 897<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 7 868 94 101 101 969<ujsor/>
+Ã–SSZESEN: 2 024 070 11 902 322 13 048 537<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g jegyzett tÅ‘kÃ©je 1 000 000 000 Ft.<ujsor/>
+FÅ‘ tevÃ©kenysÃ©ge: 4511 SzemÃ©lygÃ©pjÃ¡rmÅ±-, kÃ¶nnyÅ±gÃ©pjÃ¡rmÅ±-kereskedelem.<ujsor/>
+VezetÅ‘ tisztsÃ©gviselÅ‘i (Ã¼gyvezetÅ‘i): Friedrich Lixl (1025 Budapest, DiÃ³sÃ¡rok u. 75/C); Nagy IstvÃ¡n (1022 Budapest, Barsi u. 7.).<ujsor/>
+Az egyesÃ¼lÃ©s utÃ¡n a tÃ¡rsasÃ¡g egyedÃ¼li tulajdonosa: MB Auromobilvertriebsgesellschaft m.b.H. (ATÂ­5035 Salzburg- Flughafen, Innsbrucker BundesstraÃŸe 111.).<ujsor/>
+Az egyesÃ¼lÅ‘ tÃ¡rsasÃ¡gok felhÃ­vjÃ¡k hitelezÅ‘iket, hogy akiknek az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei az Ã¡talakulÃ¡ssal hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gtÃ³l a Gt. 76. Â§-a alapjÃ¡n a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109065051</mezo>
-<mezo id = "nev">MB-AUTO Magyarország Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">MB-AUTO MagyarorszÃ¡g KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1133 Budapest</mezo>
 </alrovat>
 <alrovat id = "11">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság a Cg.01-09-065051 cégjegyzékszámon bejegyzett Pappas Auto Magyarország Kereskedelmi és Szervíz Kft. (1133 Budapest, Kárpát u. 21; adószáma: 10445952-2-44) kérelme alapján elrendeli az 2010. december 10. napján hozott Cg.01-09-065051 /176 számú végzésének kijavítását az alábbiak szerint:<ujsor/>
-7. A cég fióktelepe(i)<ujsor/>
-HU 7630 Pécs, Koksz u. 125.<ujsor/>
-Vált. kezdete: 2010.12.31.<ujsor/>
-Bejegyezve (végzés kelte): 2011. január 25.<ujsor/>
-16. Átalakulás folytán létrejött cég esetében a jogelõd cég(ek) adatai<ujsor/>
-Cg.02-09-068496 Pappas Auto Pécs Kereskedelmi és Szolgáltató Kft.<ujsor/>
-Az átalakulás cég által meghat. idõpontja: 2010.12.31.<ujsor/>
-Vált. kezdete: 2010.12.31.<ujsor/>
-Bejegyezve (végzés kelte): 2011. január 25.<ujsor/>
-E végzés ellen fellebbezésnek nincs helye, azonban az ügyész, továbbá az, akire a végzés rendelkezést tartalmaz - a rendelkezés õt érintõ részére vonatkozóan - pert indíthat a cég ellen a cég székhelye szerint illetékes megyei bíróság elõtt a bejegyzõ végzés hatályon kívül helyezése iránt.<ujsor/>
-A per megindításának a bejegyzõ végzés Cégközlönyben való közzétételétõl, illetve - közzétételi kötelezettség hiányában - annak kézbesítésétõl számított 30 napon belül van helye. A határidõ elmulasztása jogvesztéssel jár.<ujsor/>
-2011. január 25.<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.01-09-065051 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett Pappas Auto MagyarorszÃ¡g Kereskedelmi Ã©s SzervÃ­z Kft. (1133 Budapest, KÃ¡rpÃ¡t u. 21; adÃ³szÃ¡ma: 10445952-2-44) kÃ©relme alapjÃ¡n elrendeli az 2010. december 10. napjÃ¡n hozott Cg.01-09-065051 /176 szÃ¡mÃº vÃ©gzÃ©sÃ©nek kijavÃ­tÃ¡sÃ¡t az alÃ¡bbiak szerint:<ujsor/>
+7. A cÃ©g fiÃ³ktelepe(i)<ujsor/>
+HU 7630 PÃ©cs, Koksz u. 125.<ujsor/>
+VÃ¡lt. kezdete: 2010.12.31.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2011. januÃ¡r 25.<ujsor/>
+16. ÃtalakulÃ¡s folytÃ¡n lÃ©trejÃ¶tt cÃ©g esetÃ©ben a jogelÅ‘d cÃ©g(ek) adatai<ujsor/>
+Cg.02-09-068496 Pappas Auto PÃ©cs Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ Kft.<ujsor/>
+Az Ã¡talakulÃ¡s cÃ©g Ã¡ltal meghat. idÅ‘pontja: 2010.12.31.<ujsor/>
+VÃ¡lt. kezdete: 2010.12.31.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2011. januÃ¡r 25.<ujsor/>
+E vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye, azonban az Ã¼gyÃ©sz, tovÃ¡bbÃ¡ az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s Å‘t Ã©rintÅ‘ rÃ©szÃ©re vonatkozÃ³an - pert indÃ­that a cÃ©g ellen a cÃ©g szÃ©khelye szerint illetÃ©kes megyei bÃ­rÃ³sÃ¡g elÅ‘tt a bejegyzÅ‘ vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt.<ujsor/>
+A per megindÃ­tÃ¡sÃ¡nak a bejegyzÅ‘ vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l, illetve - kÃ¶zzÃ©tÃ©teli kÃ¶telezettsÃ©g hiÃ¡nyÃ¡ban - annak kÃ©zbesÃ­tÃ©sÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l van helye. A hatÃ¡ridÅ‘ elmulasztÃ¡sa jogvesztÃ©ssel jÃ¡r.<ujsor/>
+2011. januÃ¡r 25.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109065051</mezo>
-<mezo id = "nev">Pappas Auto Magyarország Kereskedelmi és Szervíz Kft.</mezo>
-<mezo id = "cim">1133 Budapest, Kárpát u. 21</mezo>
+<mezo id = "nev">Pappas Auto MagyarorszÃ¡g Kereskedelmi Ã©s SzervÃ­z Kft.</mezo>
+<mezo id = "cim">1133 Budapest, KÃ¡rpÃ¡t u. 21</mezo>
 <mezo id = "adosz">10445952244</mezo>
 </alrovat>
 </rovat>

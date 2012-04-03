@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">009161</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">6100 Kiskunfélegyháza, Kert u. 10. </mezo>
+<mezo id = "cim">6100 KiskunfÃ©legyhÃ¡za, Kert u. 10. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">10301412203</mezo>
 </alrovat>
@@ -13,20 +13,20 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19891201</mezo>
-<mezo id = "nev">Elõregyártó és Szerelõ Épületgépészeti Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">ElÅ‘regyÃ¡rtÃ³ Ã©s SzerelÅ‘ Ã‰pÃ¼letgÃ©pÃ©szeti KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">19891201</mezo>
-<mezo id = "nev">ELÕ-SZER Kft</mezo>
+<mezo id = "nev">ELÅ-SZER Kft</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
 <alrovat id = "2">
 <mezo id = "hattol">19960630</mezo>
 <mezo id = "irsz">6100</mezo>
-<mezo id = "hely">Kiskunfélegyháza</mezo>
+<mezo id = "hely">KiskunfÃ©legyhÃ¡za</mezo>
 <mezo id = "teru">Kert u. 10.</mezo>
 </alrovat>
 </rovat>
@@ -145,7 +145,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090223</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Fémszerkezet gyártása</mezo>
+<mezo id = "teaszov">FÃ©mszerkezet gyÃ¡rtÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "47">
 <mezo id = "hattol">20090120</mezo>
@@ -163,7 +163,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090223</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Fém épületelem gyártása</mezo>
+<mezo id = "teaszov">FÃ©m Ã©pÃ¼letelem gyÃ¡rtÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "48">
 <mezo id = "hattol">20090120</mezo>
@@ -181,7 +181,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090223</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Lakó- és nem lakó épület építése</mezo>
+<mezo id = "teaszov">LakÃ³- Ã©s nem lakÃ³ Ã©pÃ¼let Ã©pÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "49">
 <mezo id = "hattol">20090120</mezo>
@@ -199,7 +199,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090223</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Út, autópálya építése</mezo>
+<mezo id = "teaszov">Ãšt, autÃ³pÃ¡lya Ã©pÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "50">
 <mezo id = "hattol">20090120</mezo>
@@ -217,7 +217,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090223</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Folyadék szállítására szolgáló közmû építése</mezo>
+<mezo id = "teaszov">FolyadÃ©k szÃ¡llÃ­tÃ¡sÃ¡ra szolgÃ¡lÃ³ kÃ¶zmÅ± Ã©pÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "51">
 <mezo id = "hattol">20090120</mezo>
@@ -235,7 +235,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090223</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Vízi létesítmény építése</mezo>
+<mezo id = "teaszov">VÃ­zi lÃ©tesÃ­tmÃ©ny Ã©pÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "52">
 <mezo id = "hattol">20090120</mezo>
@@ -253,7 +253,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090223</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb m.n.s. építés</mezo>
+<mezo id = "teaszov">EgyÃ©b m.n.s. Ã©pÃ­tÃ©s</mezo>
 </alrovat>
 <alrovat id = "53">
 <mezo id = "hattol">20090120</mezo>
@@ -271,7 +271,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090223</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Bontás</mezo>
+<mezo id = "teaszov">BontÃ¡s</mezo>
 </alrovat>
 <alrovat id = "54">
 <mezo id = "hattol">20090120</mezo>
@@ -289,7 +289,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090223</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Építési terület elõkészítése</mezo>
+<mezo id = "teaszov">Ã‰pÃ­tÃ©si terÃ¼let elÅ‘kÃ©szÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "55">
 <mezo id = "hattol">20090120</mezo>
@@ -307,7 +307,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090223</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Villanyszerelés</mezo>
+<mezo id = "teaszov">VillanyszerelÃ©s</mezo>
 </alrovat>
 <alrovat id = "56">
 <mezo id = "hattol">20090120</mezo>
@@ -325,7 +325,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090223</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Egyéb befejezõ építés m.n.s.</mezo>
+<mezo id = "teaszov">EgyÃ©b befejezÅ‘ Ã©pÃ­tÃ©s m.n.s.</mezo>
 </alrovat>
 <alrovat id = "57">
 <mezo id = "hattol">20090120</mezo>
@@ -343,7 +343,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090223</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Tetõfedés, tetõszerkezet-építés</mezo>
+<mezo id = "teaszov">TetÅ‘fedÃ©s, tetÅ‘szerkezet-Ã©pÃ­tÃ©s</mezo>
 </alrovat>
 <alrovat id = "58">
 <mezo id = "hattol">20090120</mezo>
@@ -361,7 +361,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090223</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Ingatlankezelés</mezo>
+<mezo id = "teaszov">IngatlankezelÃ©s</mezo>
 </alrovat>
 <alrovat id = "59">
 <mezo id = "hattol">20090120</mezo>
@@ -379,7 +379,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090223</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Üzletviteli, egyéb vezetési tanácsadás</mezo>
+<mezo id = "teaszov">Ãœzletviteli, egyÃ©b vezetÃ©si tanÃ¡csadÃ¡s</mezo>
 </alrovat>
 <alrovat id = "60">
 <mezo id = "hattol">20090120</mezo>
@@ -397,7 +397,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090223</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Építészmérnöki tevékenység</mezo>
+<mezo id = "teaszov">Ã‰pÃ­tÃ©szmÃ©rnÃ¶ki tevÃ©kenysÃ©g</mezo>
 </alrovat>
 <alrovat id = "61">
 <mezo id = "hattol">20090120</mezo>
@@ -415,7 +415,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090223</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Mérnöki tevékenység, mûszaki tanácsadás</mezo>
+<mezo id = "teaszov">MÃ©rnÃ¶ki tevÃ©kenysÃ©g, mÅ±szaki tanÃ¡csadÃ¡s</mezo>
 </alrovat>
 <alrovat id = "62">
 <mezo id = "hattol">20090120</mezo>
@@ -433,7 +433,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090223</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">M.n.s. egyéb szakmai, tudományos, mûszaki tevékenység</mezo>
+<mezo id = "teaszov">M.n.s. egyÃ©b szakmai, tudomÃ¡nyos, mÅ±szaki tevÃ©kenysÃ©g</mezo>
 </alrovat>
 <alrovat id = "63">
 <mezo id = "hattol">20090120</mezo>
@@ -451,7 +451,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090223</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">Oktatást kiegészítõ tevékenység</mezo>
+<mezo id = "teaszov">OktatÃ¡st kiegÃ©szÃ­tÅ‘ tevÃ©kenysÃ©g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -466,8 +466,8 @@
 <rovat id = "13">
 <alrovat id = "5">
 <mezo id = "hattol">20100115</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Seres József ügyvezetõ (vezetõ tisztségviselõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Seres JÃ³zsef Ã¼gyvezetÅ‘ (vezetÅ‘ tisztsÃ©gviselÅ‘)</mezo>
 <mezo id = "panev">Berecz Ilona</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100115</mezo>
@@ -477,22 +477,22 @@
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20100115</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Seres Tibor ügyvezetõ (vezetõ tisztségviselõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Seres Tibor Ã¼gyvezetÅ‘ (vezetÅ‘ tisztsÃ©gviselÅ‘)</mezo>
 <mezo id = "panev">Gyarmathi Anna</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20100115</mezo>
 <mezo id = "mindig">x</mezo>
-<mezo id = "mnev">Máriás Ferenc</mezo>
+<mezo id = "mnev">MÃ¡riÃ¡s Ferenc</mezo>
 <mezo id = "valtk">20100115</mezo>
 <mezo id = "bkelt">20100318</mezo>
 <mezo id = "adoazon">8380683129</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">20100115</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Máriás Ferenc ügyvezetõ (vezetõ tisztségviselõ)</mezo>
-<mezo id = "panev">Ladányi Éva Emma</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">MÃ¡riÃ¡s Ferenc Ã¼gyvezetÅ‘ (vezetÅ‘ tisztsÃ©gviselÅ‘)</mezo>
+<mezo id = "panev">LadÃ¡nyi Ã‰va Emma</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20100115</mezo>
 <mezo id = "mindig">x</mezo>
@@ -506,16 +506,16 @@
 <alrovat id = "3">
 <mezo id = "hattol">20090706</mezo>
 <mezo id = "cgjsz">0609002006</mezo>
-<mezo id = "nev">SZÁMVIVÕ TEAM Könyvvizsgáló és Ügyviteli Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">SZÃMVIVÅ TEAM KÃ¶nyvvizsgÃ¡lÃ³ Ã©s Ãœgyviteli SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">6726</mezo>
 <mezo id = "hely">Szeged</mezo>
-<mezo id = "teru">Ökörszem u. 28.</mezo>
-<mezo id = "pnev">Veréb Zsuzsanna</mezo>
+<mezo id = "teru">Ã–kÃ¶rszem u. 28.</mezo>
+<mezo id = "pnev">VerÃ©b Zsuzsanna</mezo>
 <mezo id = "panev">Fodor Margit</mezo>
 <mezo id = "pirsz">6726</mezo>
 <mezo id = "phely">Szeged</mezo>
-<mezo id = "pteru">Ökörszem u. 28.</mezo>
+<mezo id = "pteru">Ã–kÃ¶rszem u. 28.</mezo>
 <mezo id = "jogvk">20090706</mezo>
 <mezo id = "jogvv">20140531</mezo>
 <mezo id = "valtk">20090706</mezo>
@@ -539,38 +539,38 @@
 <rovat id = "0109">
 <alrovat id = "29">
 <mezo id = "hattol">19970528</mezo>
-<mezo id = "nev">Seres József</mezo>
+<mezo id = "nev">Seres JÃ³zsef</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">6100</mezo>
-<mezo id = "hely">Kiskunfélegyháza, Deák F. u. 52.</mezo>
+<mezo id = "hely">KiskunfÃ©legyhÃ¡za, DeÃ¡k F. u. 52.</mezo>
 </alrovat>
 <alrovat id = "36">
 <mezo id = "hattol">19970829</mezo>
 <mezo id = "nev">Seres Tibor</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">6100</mezo>
-<mezo id = "hely">Kiskunfélegyháza, Bajcsy-Zs. u. 2/a fsz. 2.</mezo>
+<mezo id = "hely">KiskunfÃ©legyhÃ¡za, Bajcsy-Zs. u. 2/a fsz. 2.</mezo>
 </alrovat>
 <alrovat id = "41">
 <mezo id = "hattol">20010529</mezo>
-<mezo id = "pnev">Szabó Rudolf</mezo>
-<mezo id = "panev">Fõldi Mária</mezo>
+<mezo id = "pnev">SzabÃ³ Rudolf</mezo>
+<mezo id = "panev">FÅ‘ldi MÃ¡ria</mezo>
 <mezo id = "pirsz">6100</mezo>
-<mezo id = "phely">Kiskunfélegyháza, Gábor Á. u. 12.</mezo>
+<mezo id = "phely">KiskunfÃ©legyhÃ¡za, GÃ¡bor Ã. u. 12.</mezo>
 </alrovat>
 <alrovat id = "43">
 <mezo id = "hattol">20010529</mezo>
-<mezo id = "pnev">Vereb Sándor</mezo>
-<mezo id = "panev">Magony Mária</mezo>
+<mezo id = "pnev">Vereb SÃ¡ndor</mezo>
+<mezo id = "panev">Magony MÃ¡ria</mezo>
 <mezo id = "pirsz">6100</mezo>
-<mezo id = "phely">Kiskunfélegyháza, Lugas u. 26.</mezo>
+<mezo id = "phely">KiskunfÃ©legyhÃ¡za, Lugas u. 26.</mezo>
 </alrovat>
 <alrovat id = "44">
 <mezo id = "hattol">20070620</mezo>
 <mezo id = "pnev">Seres Bernadett</mezo>
 <mezo id = "panev">Gyarmathi Anna</mezo>
 <mezo id = "pirsz">6100</mezo>
-<mezo id = "phely">Kiskunfélegyháza, Hunyadi u. 13-15.</mezo>
+<mezo id = "phely">KiskunfÃ©legyhÃ¡za, Hunyadi u. 13-15.</mezo>
 <mezo id = "tagsk">19970829</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20070620</mezo>
@@ -580,10 +580,10 @@
 </alrovat>
 <alrovat id = "45">
 <mezo id = "hattol">20070620</mezo>
-<mezo id = "pnev">Fricska Nagy László</mezo>
-<mezo id = "panev">Vígh Emerencia</mezo>
+<mezo id = "pnev">Fricska Nagy LÃ¡szlÃ³</mezo>
+<mezo id = "panev">VÃ­gh Emerencia</mezo>
 <mezo id = "pirsz">6100</mezo>
-<mezo id = "phely">Kiskunfélegyháza, Tóth Kálmán u. 15.</mezo>
+<mezo id = "phely">KiskunfÃ©legyhÃ¡za, TÃ³th KÃ¡lmÃ¡n u. 15.</mezo>
 <mezo id = "tagsk">20010529</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20070620</mezo>
@@ -593,8 +593,8 @@
 </alrovat>
 <alrovat id = "46">
 <mezo id = "hattol">20090706</mezo>
-<mezo id = "pnev">Dancsecs József</mezo>
-<mezo id = "panev">Gál Rozália</mezo>
+<mezo id = "pnev">Dancsecs JÃ³zsef</mezo>
+<mezo id = "panev">GÃ¡l RozÃ¡lia</mezo>
 <mezo id = "pirsz">6114</mezo>
 <mezo id = "phely">Bugac</mezo>
 <mezo id = "pteru">Kada E u. 17.</mezo>
@@ -612,16 +612,16 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2001. 05. 29-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-02. Elõregyártó és Szerelõ Épületgépészeti Korlátolt Felelõsségû Társaság<ujsor/>
- Törölve: 2001. 05. 29-i hatállyal.<ujsor/>
- Elõregyártó-Szerelõ és Építõipari Fõvállalkozó Korlátolt Felelõsségû Társaság<ujsor/>
- Hatályos: 2001. 05. 29-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2001. 05. 29-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+02. ElÅ‘regyÃ¡rtÃ³ Ã©s SzerelÅ‘ Ã‰pÃ¼letgÃ©pÃ©szeti KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g<ujsor/>
+ TÃ¶rÃ¶lve: 2001. 05. 29-i hatÃ¡llyal.<ujsor/>
+ ElÅ‘regyÃ¡rtÃ³-SzerelÅ‘ Ã©s Ã‰pÃ­tÅ‘ipari FÅ‘vÃ¡llalkozÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g<ujsor/>
+ HatÃ¡lyos: 2001. 05. 29-tÅ‘l.<ujsor/>
 Bejegyezve: 2001. 05. 30.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0309009161</mezo>
-<mezo id = "nev">Elõregyártó-Szerelõ és Építõipari Fõvállalkozó Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">6100 Kiskunfélegyháza, Kert u. 10.</mezo>
+<mezo id = "nev">ElÅ‘regyÃ¡rtÃ³-SzerelÅ‘ Ã©s Ã‰pÃ­tÅ‘ipari FÅ‘vÃ¡llalkozÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">6100 KiskunfÃ©legyhÃ¡za, Kert u. 10.</mezo>
 <mezo id = "adosz">10301412203</mezo>
 </alrovat>
 </rovat>

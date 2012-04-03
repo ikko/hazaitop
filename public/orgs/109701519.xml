@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">701519</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">1134 Budapest, Gidófalvy L. u. 33. </mezo>
+<mezo id = "cim">1134 Budapest, GidÃ³falvy L. u. 33. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">12747377241</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20020117</mezo>
-<mezo id = "nev">PANNONCAD Mûszaki-Informatikai és Technológiai Rendszerház Kft</mezo>
+<mezo id = "nev">PANNONCAD MÅ±szaki-Informatikai Ã©s TechnolÃ³giai RendszerhÃ¡z Kft</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -27,7 +27,7 @@
 <mezo id = "hattol">20020117</mezo>
 <mezo id = "irsz">1134</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Gidófalvy L. u. 33.</mezo>
+<mezo id = "teru">GidÃ³falvy L. u. 33.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "6">
@@ -152,8 +152,8 @@
 <rovat id = "13">
 <alrovat id = "3">
 <mezo id = "hattol">20100817</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Benjámin Gábor</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">BenjÃ¡min GÃ¡bor</mezo>
 <mezo id = "panev">Kabai Katalin</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100817</mezo>
@@ -163,9 +163,9 @@
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20100817</mezo>
-<mezo id = "tiszt">cégvezetõ</mezo>
-<mezo id = "pnev">Benjáminné Léhárt Júlia</mezo>
-<mezo id = "panev">Székács Julianna</mezo>
+<mezo id = "tiszt">cÃ©gvezetÅ‘</mezo>
+<mezo id = "pnev">BenjÃ¡minnÃ© LÃ©hÃ¡rt JÃºlia</mezo>
+<mezo id = "panev">SzÃ©kÃ¡cs Julianna</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100817</mezo>
 <mezo id = "valtk">20100817</mezo>
@@ -177,7 +177,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20020117</mezo>
 <mezo id = "cgjsz">106114923</mezo>
-<mezo id = "nev">Pannoncad Mérnöki Szolgáltató Betéti Társaság</mezo>
+<mezo id = "nev">Pannoncad MÃ©rnÃ¶ki SzolgÃ¡ltatÃ³ BetÃ©ti TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "20">
@@ -204,24 +204,24 @@
 <rovat id = "0109">
 <alrovat id = "1">
 <mezo id = "hattol">20020117</mezo>
-<mezo id = "pnev">Benjámin Gábor</mezo>
+<mezo id = "pnev">BenjÃ¡min GÃ¡bor</mezo>
 <mezo id = "panev">Kabai Katalin</mezo>
 <mezo id = "pirsz">1134</mezo>
-<mezo id = "phely">Budapest, Gidófalvy L. u. 33.</mezo>
+<mezo id = "phely">Budapest, GidÃ³falvy L. u. 33.</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20020117</mezo>
-<mezo id = "pnev">Gémes Pál</mezo>
-<mezo id = "panev">Kertész Margit</mezo>
+<mezo id = "pnev">GÃ©mes PÃ¡l</mezo>
+<mezo id = "panev">KertÃ©sz Margit</mezo>
 <mezo id = "pirsz">1025</mezo>
-<mezo id = "phely">Budapest, Törökvész út 95-97/D.</mezo>
+<mezo id = "phely">Budapest, TÃ¶rÃ¶kvÃ©sz Ãºt 95-97/D.</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20020117</mezo>
-<mezo id = "pnev">Benjáminné Léhárt Júlia</mezo>
-<mezo id = "panev">Székács Julianna</mezo>
+<mezo id = "pnev">BenjÃ¡minnÃ© LÃ©hÃ¡rt JÃºlia</mezo>
+<mezo id = "panev">SzÃ©kÃ¡cs Julianna</mezo>
 <mezo id = "pirsz">1134</mezo>
-<mezo id = "phely">Budapest, Gidófalvy L. u. 33.</mezo>
+<mezo id = "phely">Budapest, GidÃ³falvy L. u. 33.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "93">
@@ -233,13 +233,13 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a cég 2008. 06. 27. napján<ujsor/>
-benyújtott változás bejegyzése iránti kérelmét elutasítja.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a cÃ©g 2008. 06. 27. napjÃ¡n<ujsor/>
+benyÃºjtott vÃ¡ltozÃ¡s bejegyzÃ©se irÃ¡nti kÃ©relmÃ©t elutasÃ­tja.<ujsor/>
 2008. 09. 02.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109701519</mezo>
-<mezo id = "nev">PANNONCAD Mûszaki-Informatikai és Technológiai Rendszerház Kft.</mezo>
-<mezo id = "cim">1134 Budapest, Gidófalvy L. u. 33.</mezo>
+<mezo id = "nev">PANNONCAD MÅ±szaki-Informatikai Ã©s TechnolÃ³giai RendszerhÃ¡z Kft.</mezo>
+<mezo id = "cim">1134 Budapest, GidÃ³falvy L. u. 33.</mezo>
 <mezo id = "adosz">12747377241</mezo>
 </alrovat>
 </rovat>

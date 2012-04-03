@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">102290</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">6000 Kecskemét, Szarvas u. 17. I. em. 4. </mezo>
+<mezo id = "cim">6000 KecskemÃ©t, Szarvas u. 17. I. em. 4. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">11029472103</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19930514</mezo>
-<mezo id = "nev">CYTO-MED Egészségügyi Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">CYTO-MED EgÃ©szsÃ©gÃ¼gyi SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -26,7 +26,7 @@
 <alrovat id = "3">
 <mezo id = "hattol">20070212</mezo>
 <mezo id = "irsz">6000</mezo>
-<mezo id = "hely">Kecskemét</mezo>
+<mezo id = "hely">KecskemÃ©t</mezo>
 <mezo id = "teru">Szarvas u. 17. I. em. 4.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">20061201</mezo>
@@ -37,29 +37,29 @@
 <alrovat id = "1">
 <mezo id = "hattol">19991201</mezo>
 <mezo id = "irsz">6000</mezo>
-<mezo id = "hely">Kecskemét (BKM Önkormányzat Kórháza), Izsáki út 5.</mezo>
+<mezo id = "hely">KecskemÃ©t (BKM Ã–nkormÃ¡nyzat KÃ³rhÃ¡za), IzsÃ¡ki Ãºt 5.</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">19991201</mezo>
 <mezo id = "irsz">6000</mezo>
-<mezo id = "hely">Kecskemét (BKM Önkormányzat Kórháza), Nyíri út 38.</mezo>
+<mezo id = "hely">KecskemÃ©t (BKM Ã–nkormÃ¡nyzat KÃ³rhÃ¡za), NyÃ­ri Ãºt 38.</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">19991201</mezo>
 <mezo id = "irsz">6000</mezo>
-<mezo id = "hely">Kecskemét (MEDITRESS Egészségház), Bagoly u. 1/a.</mezo>
+<mezo id = "hely">KecskemÃ©t (MEDITRESS EgÃ©szsÃ©ghÃ¡z), Bagoly u. 1/a.</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">19991201</mezo>
 <mezo id = "irsz">6000</mezo>
-<mezo id = "hely">Kecskemét (Magyar Honv. Repülõkórház), Balaton u. 17.</mezo>
+<mezo id = "hely">KecskemÃ©t (Magyar Honv. RepÃ¼lÅ‘kÃ³rhÃ¡z), Balaton u. 17.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "7">
 <alrovat id = "1">
 <mezo id = "hattol">19991201</mezo>
 <mezo id = "irsz">6100</mezo>
-<mezo id = "hely">Kiskunfélegyháza, Fadrusz J. u. 4.</mezo>
+<mezo id = "hely">KiskunfÃ©legyhÃ¡za, Fadrusz J. u. 4.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "8">
@@ -381,11 +381,11 @@
 <rovat id = "13">
 <alrovat id = "3">
 <mezo id = "hattol">20110901</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Dr. Serényi Péter</mezo>
-<mezo id = "panev">Várnai Katalin</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Dr. SerÃ©nyi PÃ©ter</mezo>
+<mezo id = "panev">VÃ¡rnai Katalin</mezo>
 <mezo id = "pirsz">6000</mezo>
-<mezo id = "phely">Kecskemét</mezo>
+<mezo id = "phely">KecskemÃ©t</mezo>
 <mezo id = "pteru">Szarvas u. 17. I. em. 4.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">19930514</mezo>
@@ -401,12 +401,12 @@
 <mezo id = "nev">Audit Service Kft</mezo>
 <mezo id = "irsz">1022</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Bimbó út. 3.</mezo>
-<mezo id = "pnev">Dr. Serényi Iván</mezo>
+<mezo id = "teru">BimbÃ³ Ãºt. 3.</mezo>
+<mezo id = "pnev">Dr. SerÃ©nyi IvÃ¡n</mezo>
 <mezo id = "panev">Desser Ibolya</mezo>
 <mezo id = "pirsz">1025</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Zöldkõ u. 4/7.</mezo>
+<mezo id = "pteru">ZÃ¶ldkÅ‘ u. 4/7.</mezo>
 <mezo id = "jogvk">20110901</mezo>
 <mezo id = "jogvv">20161231</mezo>
 <mezo id = "valtk">20110901</mezo>
@@ -431,16 +431,16 @@
 <alrovat id = "2">
 <mezo id = "adosz">11029472103</mezo>
 <mezo id = "bkelt">20111005</mezo>
-<mezo id = "megj">Státusz kezdete: 1993/05/14</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 1993/05/14</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0109">
 <alrovat id = "5">
 <mezo id = "hattol">20070212</mezo>
-<mezo id = "pnev">Dr. Takács Anikó</mezo>
-<mezo id = "panev">Tauer Róza</mezo>
+<mezo id = "pnev">Dr. TakÃ¡cs AnikÃ³</mezo>
+<mezo id = "panev">Tauer RÃ³za</mezo>
 <mezo id = "pirsz">6000</mezo>
-<mezo id = "phely">Kecskemét, Szarvas u. 17. I/4.</mezo>
+<mezo id = "phely">KecskemÃ©t, Szarvas u. 17. I/4.</mezo>
 <mezo id = "tagsk">20061201</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20061201</mezo>
@@ -448,10 +448,10 @@
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20070212</mezo>
-<mezo id = "pnev">Dr. Serényi Péter</mezo>
-<mezo id = "panev">Várnai Katalin</mezo>
+<mezo id = "pnev">Dr. SerÃ©nyi PÃ©ter</mezo>
+<mezo id = "panev">VÃ¡rnai Katalin</mezo>
 <mezo id = "pirsz">6000</mezo>
-<mezo id = "phely">Kecskemét, Szarvas u. 17. I/4.</mezo>
+<mezo id = "phely">KecskemÃ©t, Szarvas u. 17. I/4.</mezo>
 <mezo id = "tagsk">19930514</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "sz2">x</mezo>
@@ -460,11 +460,11 @@
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">20110901</mezo>
-<mezo id = "pnev">Serényi Zoltán</mezo>
-<mezo id = "panev">dr. Takács Anikó</mezo>
+<mezo id = "pnev">SerÃ©nyi ZoltÃ¡n</mezo>
+<mezo id = "panev">dr. TakÃ¡cs AnikÃ³</mezo>
 <mezo id = "pirsz">1073</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Kertész u. 42-44.</mezo>
+<mezo id = "pteru">KertÃ©sz u. 42-44.</mezo>
 <mezo id = "tagsk">20050501</mezo>
 <mezo id = "valtk">20110901</mezo>
 <mezo id = "bkelt">20111005</mezo>
@@ -474,24 +474,24 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2008. 09. 15-én hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2008. 09. 15-Ã©n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
 09. 7020&apos;08.<ujsor/>
- A változás idõpontja: 2008. 06. 01.<ujsor/>
- A változás idõpontja (törlés): 2008. 06. 01.<ujsor/>
- Törölve: 2008. 06. 01.<ujsor/>
- 7022&apos;08 Üzletviteli, egyéb vezetési tanácsadás.<ujsor/>
- A változás idõpontja: 2008. 06. 01.<ujsor/>
- A változás idõpontja (törlés): 2009. 02. 28.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 06. 01.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2008. 06. 01.<ujsor/>
+ TÃ¶rÃ¶lve: 2008. 06. 01.<ujsor/>
+ 7022&apos;08 Ãœzletviteli, egyÃ©b vezetÃ©si tanÃ¡csadÃ¡s.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 06. 01.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2009. 02. 28.<ujsor/>
  Bejegyezve: 2008. 06. 01.<ujsor/>
- Törölve: 2009. 02. 28.<ujsor/>
- Üzletviteli, egyéb vezetési tanácsadás.<ujsor/>
- A változás idõpontja: 2009. 02. 28.<ujsor/>
+ TÃ¶rÃ¶lve: 2009. 02. 28.<ujsor/>
+ Ãœzletviteli, egyÃ©b vezetÃ©si tanÃ¡csadÃ¡s.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2009. 02. 28.<ujsor/>
  Bejegyezve: 2009. 02. 28.<ujsor/>
 2009. 03. 23.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0309102290</mezo>
-<mezo id = "nev">CYTO-MED Egészségügyi Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">6000 Kecskemét, Szarvas u. 17. I. em. 4.</mezo>
+<mezo id = "nev">CYTO-MED EgÃ©szsÃ©gÃ¼gyi SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">6000 KecskemÃ©t, Szarvas u. 17. I. em. 4.</mezo>
 <mezo id = "adosz">11029472103</mezo>
 </alrovat>
 </rovat>

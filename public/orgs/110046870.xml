@@ -7,7 +7,7 @@
 <mezo id = "nevalrovat">2</mezo>
 <mezo id = "regi_szh">0610000333</mezo>
 <mezo id = "allapot">2</mezo>
-<mezo id = "cim">1135 Budapest, Reitter Ferenc utca 88. A. ép. </mezo>
+<mezo id = "cim">1135 Budapest, Reitter Ferenc utca 88. A. Ã©p. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">13770954241</mezo>
 </alrovat>
@@ -15,7 +15,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20110420</mezo>
-<mezo id = "nev">BAUTROM Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">BAUTROM ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">20110420</mezo>
 <mezo id = "bkelt">20110509</mezo>
 </alrovat>
@@ -33,7 +33,7 @@
 <mezo id = "hattol">20101112</mezo>
 <mezo id = "irsz">1135</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Reitter Ferenc utca 88. A. ép.</mezo>
+<mezo id = "teru">Reitter Ferenc utca 88. A. Ã©p.</mezo>
 <mezo id = "valtk">20101112</mezo>
 <mezo id = "bkelt">20101210</mezo>
 </alrovat>
@@ -43,7 +43,7 @@
 <mezo id = "hattol">20101112</mezo>
 <mezo id = "irsz">6729</mezo>
 <mezo id = "hely">Szeged</mezo>
-<mezo id = "teru">Szabadkai út 9. A. ép.</mezo>
+<mezo id = "teru">Szabadkai Ãºt 9. A. Ã©p.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20101112</mezo>
 <mezo id = "bkelt">20101210</mezo>
@@ -1232,9 +1232,9 @@
 <rovat id = "13">
 <alrovat id = "3">
 <mezo id = "hattol">20110420</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (vezérigazgató)</mezo>
-<mezo id = "pnev">Lakatos Jenõ</mezo>
-<mezo id = "panev">Garas Rozália</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (vezÃ©rigazgatÃ³)</mezo>
+<mezo id = "pnev">Lakatos JenÅ‘</mezo>
+<mezo id = "panev">Garas RozÃ¡lia</mezo>
 <mezo id = "pirsz">6726</mezo>
 <mezo id = "phely">Szeged</mezo>
 <mezo id = "pteru">Derkovits fasor 38/A.</mezo>
@@ -1250,15 +1250,15 @@
 <alrovat id = "2">
 <mezo id = "hattol">20090731</mezo>
 <mezo id = "cgjsz">0609007036</mezo>
-<mezo id = "nev">JANKONTÓ Kft.</mezo>
+<mezo id = "nev">JANKONTÃ“ Kft.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">6800</mezo>
-<mezo id = "hely">Hódmezõvásárhely</mezo>
+<mezo id = "hely">HÃ³dmezÅ‘vÃ¡sÃ¡rhely</mezo>
 <mezo id = "teru">Nyizsnyai utca 5.</mezo>
-<mezo id = "pnev">Jankó Zoltán</mezo>
+<mezo id = "pnev">JankÃ³ ZoltÃ¡n</mezo>
 <mezo id = "panev">Simon Katalin</mezo>
 <mezo id = "pirsz">6800</mezo>
-<mezo id = "phely">Hódmezõvásárhely</mezo>
+<mezo id = "phely">HÃ³dmezÅ‘vÃ¡sÃ¡rhely</mezo>
 <mezo id = "pteru">Nyizsnyai utca 5.</mezo>
 <mezo id = "jogvk">20090801</mezo>
 <mezo id = "jogvv">20140731</mezo>
@@ -1270,7 +1270,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20060731</mezo>
 <mezo id = "cgjsz">609001479</mezo>
-<mezo id = "nev">FÕSZER-ELEKTRO PROFIL Szerelõipari, Általános épitõipari , Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">FÅSZER-ELEKTRO PROFIL SzerelÅ‘ipari, ÃltalÃ¡nos Ã©pitÅ‘ipari , Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "20">
@@ -1301,14 +1301,14 @@
 <mezo id = "adosz">13770954241</mezo>
 <mezo id = "kadosz">HU13770954</mezo>
 <mezo id = "bkelt">20110929</mezo>
-<mezo id = "megj">Státusz kezdete: 2006/06/29</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 2006/06/29</mezo>
 </alrovat>
 </rovat>
 <rovat id = "22">
 <alrovat id = "1">
 <mezo id = "hattol">20070731</mezo>
 <mezo id = "jccjsz">609011434</mezo>
-<mezo id = "nev">IHB Invest Europe Ingatlanhasznosító és Befektetõ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">IHB Invest Europe IngatlanhasznosÃ­tÃ³ Ã©s BefektetÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "atdat">0</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
@@ -1318,8 +1318,8 @@
 <alrovat id = "1">
 <mezo id = "hattol">20060731</mezo>
 <mezo id = "k">x</mezo>
-<mezo id = "pnev">Lakatos Jenõ</mezo>
-<mezo id = "panev">Garas Rozália</mezo>
+<mezo id = "pnev">Lakatos JenÅ‘</mezo>
+<mezo id = "panev">Garas RozÃ¡lia</mezo>
 <mezo id = "pirsz">6726</mezo>
 <mezo id = "phely">Szeged, Derkovits fasor 38/ A .</mezo>
 <mezo id = "tagsk">0</mezo>
@@ -1337,22 +1337,22 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság 19.Fpk.01-11-004370/11. sz. végzése felszámolás megindításának közzétételérõl<ujsor/>
-A bíróság elrendeli annak a Cégközlönyben való közzétételét, hogy a(z) 2011. augusztus 19. napján jogerõre emelkedett végzésével a(z)  BAUTROM Zártkörûen Mûködõ Részvénytársaság (1135 Budapest, Reitter Ferenc utca 88. A. ép.; cégjegyzékszáma: 01 10 046870; adószáma: 13770954-2-41) adós felszámolását fõeljárásként elrendelte.<ujsor/>
-Jogelõd(ök): FÕSZER-ELEKTRO PROFIL Szerelõipari, Általános épitõipari, Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság<ujsor/>
-A bíróság által kijelölt felszámoló: MÁTRAHOLDING Gazdasági Tanácsadó ZRt., 1146 Budapest, Cházár András u. 9.<ujsor/>
-A felszámolóbiztos(ok): Hajnal Béla 1427 Budapest, Pf. 640.<ujsor/>
-A felszámolási eljárás megindítására irányuló kérelem benyújtásának idõpontja: 2011. április 14.<ujsor/>
-A felszámolás kezdõ idõpontja e végzés Cégközlönyben való közzétételének napja.<ujsor/>
-A Fõvárosi Bíróság Gazdasági Hivatalánál kezelt elkülönített számla száma: 10032000-01483013-24000004.<ujsor/>
-Mindazok [ideértve a zálogjogosultakat, és a 3. § (1) bekezdés c) pontja szerinti függõ követelések jogosultjait is], akik az adóssal szemben fennálló ismert követeléseiket - kivéve a felszámolási eljárást közvetlenül megelõzõ csõdeljárásban [27. § (2) bekezdés e) pont] már bejelentett és nyilvántartásba vett követeléseket - a felszámolás során hitelezõként érvényesíteni kívánják, ismert követeléseiket e végzés közzétételétõl számított 40 napon belül jelentsék be a felszámolónak.<ujsor/>
-A felszámoló - a módosított 1991. évi XLIX. tv. 57. § (1) bekezdés a) és c) pontjában meghatározott követelések kivételével - csak azt a bejelentést veszi nyilvántartásba, amely után az igénybejelentõ a követelés 1 %-át, de legalább 5.000 Ft-ot, legfeljebb 200.000 Ft-ot az e végzésben megjelölt számlára - a bírósági ügyszámra (végzés számra) hivatkozással - 40 napon belül befizetett és ezt a felszámoló részére igazolta.<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g 19.Fpk.01-11-004370/11. sz. vÃ©gzÃ©se felszÃ¡molÃ¡s megindÃ­tÃ¡sÃ¡nak kÃ¶zzÃ©tÃ©telÃ©rÅ‘l<ujsor/>
+A bÃ­rÃ³sÃ¡g elrendeli annak a CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©t, hogy a(z) 2011. augusztus 19. napjÃ¡n jogerÅ‘re emelkedett vÃ©gzÃ©sÃ©vel a(z)  BAUTROM ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (1135 Budapest, Reitter Ferenc utca 88. A. Ã©p.; cÃ©gjegyzÃ©kszÃ¡ma: 01 10 046870; adÃ³szÃ¡ma: 13770954-2-41) adÃ³s felszÃ¡molÃ¡sÃ¡t fÅ‘eljÃ¡rÃ¡skÃ©nt elrendelte.<ujsor/>
+JogelÅ‘d(Ã¶k): FÅSZER-ELEKTRO PROFIL SzerelÅ‘ipari, ÃltalÃ¡nos Ã©pitÅ‘ipari, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g<ujsor/>
+A bÃ­rÃ³sÃ¡g Ã¡ltal kijelÃ¶lt felszÃ¡molÃ³: MÃTRAHOLDING GazdasÃ¡gi TanÃ¡csadÃ³ ZRt., 1146 Budapest, ChÃ¡zÃ¡r AndrÃ¡s u. 9.<ujsor/>
+A felszÃ¡molÃ³biztos(ok): Hajnal BÃ©la 1427 Budapest, Pf. 640.<ujsor/>
+A felszÃ¡molÃ¡si eljÃ¡rÃ¡s megindÃ­tÃ¡sÃ¡ra irÃ¡nyulÃ³ kÃ©relem benyÃºjtÃ¡sÃ¡nak idÅ‘pontja: 2011. Ã¡prilis 14.<ujsor/>
+A felszÃ¡molÃ¡s kezdÅ‘ idÅ‘pontja e vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©nek napja.<ujsor/>
+A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g GazdasÃ¡gi HivatalÃ¡nÃ¡l kezelt elkÃ¼lÃ¶nÃ­tett szÃ¡mla szÃ¡ma: 10032000-01483013-24000004.<ujsor/>
+Mindazok [ideÃ©rtve a zÃ¡logjogosultakat, Ã©s a 3. Â§ (1) bekezdÃ©s c) pontja szerinti fÃ¼ggÅ‘ kÃ¶vetelÃ©sek jogosultjait is], akik az adÃ³ssal szemben fennÃ¡llÃ³ ismert kÃ¶vetelÃ©seiket - kivÃ©ve a felszÃ¡molÃ¡si eljÃ¡rÃ¡st kÃ¶zvetlenÃ¼l megelÅ‘zÅ‘ csÅ‘deljÃ¡rÃ¡sban [27. Â§ (2) bekezdÃ©s e) pont] mÃ¡r bejelentett Ã©s nyilvÃ¡ntartÃ¡sba vett kÃ¶vetelÃ©seket - a felszÃ¡molÃ¡s sorÃ¡n hitelezÅ‘kÃ©nt Ã©rvÃ©nyesÃ­teni kÃ­vÃ¡njÃ¡k, ismert kÃ¶vetelÃ©seiket e vÃ©gzÃ©s kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott 40 napon belÃ¼l jelentsÃ©k be a felszÃ¡molÃ³nak.<ujsor/>
+A felszÃ¡molÃ³ - a mÃ³dosÃ­tott 1991. Ã©vi XLIX. tv. 57. Â§ (1) bekezdÃ©s a) Ã©s c) pontjÃ¡ban meghatÃ¡rozott kÃ¶vetelÃ©sek kivÃ©telÃ©vel - csak azt a bejelentÃ©st veszi nyilvÃ¡ntartÃ¡sba, amely utÃ¡n az igÃ©nybejelentÅ‘ a kÃ¶vetelÃ©s 1 %-Ã¡t, de legalÃ¡bb 5.000 Ft-ot, legfeljebb 200.000 Ft-ot az e vÃ©gzÃ©sben megjelÃ¶lt szÃ¡mlÃ¡ra - a bÃ­rÃ³sÃ¡gi Ã¼gyszÃ¡mra (vÃ©gzÃ©s szÃ¡mra) hivatkozÃ¡ssal - 40 napon belÃ¼l befizetett Ã©s ezt a felszÃ¡molÃ³ rÃ©szÃ©re igazolta.<ujsor/>
 Budapest, 2011. szeptember 29.<ujsor/>
-A közzététel idõpontja: 2011. szeptember 29.<ujsor/>
+A kÃ¶zzÃ©tÃ©tel idÅ‘pontja: 2011. szeptember 29.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110046870</mezo>
-<mezo id = "nev">BAUTROM Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">1135 Budapest, Reitter Ferenc utca 88. A. ép.</mezo>
+<mezo id = "nev">BAUTROM ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1135 Budapest, Reitter Ferenc utca 88. A. Ã©p.</mezo>
 <mezo id = "adosz">13770954241</mezo>
 </alrovat>
 </rovat>

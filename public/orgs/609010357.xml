@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">010357</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">6723 Szeged, Római körút 21. </mezo>
+<mezo id = "cim">6723 Szeged, RÃ³mai kÃ¶rÃºt 21. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">13640613206</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20051222</mezo>
-<mezo id = "nev">GIK 2005 Genomikai Innovációs Központ Kft.</mezo>
+<mezo id = "nev">GIK 2005 Genomikai InnovÃ¡ciÃ³s KÃ¶zpont Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -27,7 +27,7 @@
 <mezo id = "hattol">20090520</mezo>
 <mezo id = "irsz">6723</mezo>
 <mezo id = "hely">Szeged</mezo>
-<mezo id = "teru">Római körút 21.</mezo>
+<mezo id = "teru">RÃ³mai kÃ¶rÃºt 21.</mezo>
 <mezo id = "valtk">20090520</mezo>
 <mezo id = "bkelt">20090702</mezo>
 </alrovat>
@@ -37,7 +37,7 @@
 <mezo id = "hattol">20090520</mezo>
 <mezo id = "irsz">6725</mezo>
 <mezo id = "hely">Szeged</mezo>
-<mezo id = "teru">Kálvária sugárút 24400. /15. ép.</mezo>
+<mezo id = "teru">KÃ¡lvÃ¡ria sugÃ¡rÃºt 24400. /15. Ã©p.</mezo>
 <mezo id = "valtk">20090520</mezo>
 <mezo id = "bkelt">20090702</mezo>
 </alrovat>
@@ -685,9 +685,9 @@
 <rovat id = "13">
 <alrovat id = "5">
 <mezo id = "hattol">20090703</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Bella Árpád</mezo>
-<mezo id = "panev">Dóczi Mária</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Bella ÃrpÃ¡d</mezo>
+<mezo id = "panev">DÃ³czi MÃ¡ria</mezo>
 <mezo id = "pirsz">6723</mezo>
 <mezo id = "phely">Szeged</mezo>
 <mezo id = "pteru">Lomnici utca 5.</mezo>
@@ -700,10 +700,10 @@
 <rovat id = "14">
 <alrovat id = "1">
 <mezo id = "hattol">20051222</mezo>
-<mezo id = "pnev">Dr. Molnár István</mezo>
-<mezo id = "panev">Szilágyi Erzsébet</mezo>
+<mezo id = "pnev">Dr. MolnÃ¡r IstvÃ¡n</mezo>
+<mezo id = "panev">SzilÃ¡gyi ErzsÃ©bet</mezo>
 <mezo id = "pirsz">6800</mezo>
-<mezo id = "phely">Hódmezõvásárhely, Ifjúság u. 21.</mezo>
+<mezo id = "phely">HÃ³dmezÅ‘vÃ¡sÃ¡rhely, IfjÃºsÃ¡g u. 21.</mezo>
 <mezo id = "jogvk">20051216</mezo>
 <mezo id = "jogvv">20101216</mezo>
 </alrovat>
@@ -711,10 +711,10 @@
 <rovat id = "15">
 <alrovat id = "8">
 <mezo id = "hattol">20090309</mezo>
-<mezo id = "pnev">Dr. Pintér Ferenc</mezo>
-<mezo id = "panev">Sándor Ilona</mezo>
+<mezo id = "pnev">Dr. PintÃ©r Ferenc</mezo>
+<mezo id = "panev">SÃ¡ndor Ilona</mezo>
 <mezo id = "pirsz">6726</mezo>
-<mezo id = "phely">Szeged, Páncél köz 25.</mezo>
+<mezo id = "phely">Szeged, PÃ¡ncÃ©l kÃ¶z 25.</mezo>
 <mezo id = "jogvk">20090309</mezo>
 <mezo id = "valtk">20090309</mezo>
 <mezo id = "valtv">0</mezo>
@@ -723,10 +723,10 @@
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">20090309</mezo>
-<mezo id = "pnev">Iványi Aurél Zoltán</mezo>
-<mezo id = "panev">Ormándi Marianna</mezo>
+<mezo id = "pnev">IvÃ¡nyi AurÃ©l ZoltÃ¡n</mezo>
+<mezo id = "panev">OrmÃ¡ndi Marianna</mezo>
 <mezo id = "pirsz">6726</mezo>
-<mezo id = "phely">Szeged, Fõ fasor 176.</mezo>
+<mezo id = "phely">Szeged, FÅ‘ fasor 176.</mezo>
 <mezo id = "jogvk">20090309</mezo>
 <mezo id = "valtk">20090309</mezo>
 <mezo id = "valtv">0</mezo>
@@ -735,10 +735,10 @@
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">20090520</mezo>
-<mezo id = "pnev">Adonyi Gábor</mezo>
+<mezo id = "pnev">Adonyi GÃ¡bor</mezo>
 <mezo id = "panev">Koncz Margit</mezo>
 <mezo id = "pirsz">6754</mezo>
-<mezo id = "phely">Újszentiván</mezo>
+<mezo id = "phely">ÃšjszentivÃ¡n</mezo>
 <mezo id = "pteru">Major utca 11.</mezo>
 <mezo id = "jogvk">20090520</mezo>
 <mezo id = "valtk">20090520</mezo>
@@ -768,11 +768,11 @@
 <rovat id = "0109">
 <alrovat id = "4">
 <mezo id = "hattol">20080326</mezo>
-<mezo id = "nev">Magyar Tudományos Akadémia</mezo>
+<mezo id = "nev">Magyar TudomÃ¡nyos AkadÃ©mia</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1051</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Roosevelt tér</mezo>
+<mezo id = "teru">Roosevelt tÃ©r</mezo>
 <mezo id = "hsz">9.</mezo>
 <mezo id = "tagsk">20080326</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -783,11 +783,11 @@
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20080326</mezo>
-<mezo id = "nev">Szeged Megyei Jogú Város Önkormányzata</mezo>
+<mezo id = "nev">Szeged Megyei JogÃº VÃ¡ros Ã–nkormÃ¡nyzata</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">6720</mezo>
 <mezo id = "hely">Szeged</mezo>
-<mezo id = "teru">Széchenyi tér</mezo>
+<mezo id = "teru">SzÃ©chenyi tÃ©r</mezo>
 <mezo id = "hsz">10.</mezo>
 <mezo id = "tagsk">20080326</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -798,11 +798,11 @@
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20080326</mezo>
-<mezo id = "nev">Szegedi Tudományegyetem</mezo>
+<mezo id = "nev">Szegedi TudomÃ¡nyegyetem</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">6720</mezo>
 <mezo id = "hely">Szeged</mezo>
-<mezo id = "teru">Dugonics tér</mezo>
+<mezo id = "teru">Dugonics tÃ©r</mezo>
 <mezo id = "hsz">13.</mezo>
 <mezo id = "tagsk">20080326</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -814,11 +814,11 @@
 <alrovat id = "8">
 <mezo id = "hattol">20090520</mezo>
 <mezo id = "cgjsz">0609008863</mezo>
-<mezo id = "nev">SZEVIÉP Investment Befektetési és Vagyonkezelõ Holding Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">SZEVIÃ‰P Investment BefektetÃ©si Ã©s VagyonkezelÅ‘ Holding KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">6723</mezo>
 <mezo id = "hely">Szeged</mezo>
-<mezo id = "teru">Római körút 21.</mezo>
+<mezo id = "teru">RÃ³mai kÃ¶rÃºt 21.</mezo>
 <mezo id = "tagsk">20090520</mezo>
 <mezo id = "sz2">x</mezo>
 <mezo id = "valtk">20090520</mezo>
@@ -829,13 +829,13 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A befolyással rendelkezõ tag: Duna­Tisza Regionális Fejlesztési Rt. (Cg.: [06 10 000255]; 6720 Szeged, Széchenyi tér 9.; képviseletében Németh Mihály vezérigazgató).<ujsor/>
-A befolyás mértéke: a szavazatok 95%-ával rendelkezik, azaz közvetlen irányítást biztosító befolyást szerzett.<ujsor/>
-A befolyásszerzés idõpontja: 2006. március 6.<ujsor/>
-Az ellenõrzött társaság: GIK 2005 Genomikai Innovációs Központ Korlátolt Felelõsségû Társaság (Cg.: [06 09 010357]; 6720 Szeged, Széchenyi tér 9.; képviseletében Németh Mária ügyvezetõ igazgató).<ujsor/>
+<mezo id = "szoveg">A befolyÃ¡ssal rendelkezÅ‘ tag: DunaÂ­Tisza RegionÃ¡lis FejlesztÃ©si Rt. (Cg.: [06 10 000255]; 6720 Szeged, SzÃ©chenyi tÃ©r 9.; kÃ©pviseletÃ©ben NÃ©meth MihÃ¡ly vezÃ©rigazgatÃ³).<ujsor/>
+A befolyÃ¡s mÃ©rtÃ©ke: a szavazatok 95%-Ã¡val rendelkezik, azaz kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡st szerzett.<ujsor/>
+A befolyÃ¡sszerzÃ©s idÅ‘pontja: 2006. mÃ¡rcius 6.<ujsor/>
+Az ellenÅ‘rzÃ¶tt tÃ¡rsasÃ¡g: GIK 2005 Genomikai InnovÃ¡ciÃ³s KÃ¶zpont KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [06 09 010357]; 6720 Szeged, SzÃ©chenyi tÃ©r 9.; kÃ©pviseletÃ©ben NÃ©meth MÃ¡ria Ã¼gyvezetÅ‘ igazgatÃ³).<ujsor/>
 </mezo>
 <mezo id = "cjsz">0609010357</mezo>
-<mezo id = "nev">GIK 2005 Genomikai Innovációs Központ Kft.</mezo>
+<mezo id = "nev">GIK 2005 Genomikai InnovÃ¡ciÃ³s KÃ¶zpont Kft.</mezo>
 <mezo id = "cim">6720 Szeged</mezo>
 </alrovat>
 </rovat>

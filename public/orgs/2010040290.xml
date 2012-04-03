@@ -7,7 +7,7 @@
 <mezo id = "nevalrovat">5</mezo>
 <mezo id = "regi_szh">0110043971</mezo>
 <mezo id = "allapot">1</mezo>
-<mezo id = "cim">8975 Szentgyörgyvölgy, Kossuth utca 43. </mezo>
+<mezo id = "cim">8975 SzentgyÃ¶rgyvÃ¶lgy, Kossuth utca 43. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">11038638220</mezo>
 </alrovat>
@@ -15,7 +15,7 @@
 <rovat id = "2">
 <alrovat id = "5">
 <mezo id = "hattol">20110517</mezo>
-<mezo id = "nev">MAHÍD 2000 Magyar Híd és Szerkezetépítõ Zártkörûen Mûködõ Részvénytársaság &quot;csõdeljárás alatt&quot;</mezo>
+<mezo id = "nev">MAHÃD 2000 Magyar HÃ­d Ã©s SzerkezetÃ©pÃ­tÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g &quot;csÅ‘deljÃ¡rÃ¡s alatt&quot;</mezo>
 <mezo id = "valtk">20110517</mezo>
 <mezo id = "bkelt">20110517</mezo>
 </alrovat>
@@ -23,7 +23,7 @@
 <rovat id = "3">
 <alrovat id = "5">
 <mezo id = "hattol">20110517</mezo>
-<mezo id = "nev">MAHÍD 2000 Zrt. &quot;cs. a.&quot;</mezo>
+<mezo id = "nev">MAHÃD 2000 Zrt. &quot;cs. a.&quot;</mezo>
 <mezo id = "valtk">20110517</mezo>
 <mezo id = "bkelt">20110517</mezo>
 </alrovat>
@@ -32,7 +32,7 @@
 <alrovat id = "3">
 <mezo id = "hattol">20101123</mezo>
 <mezo id = "irsz">8975</mezo>
-<mezo id = "hely">Szentgyörgyvölgy</mezo>
+<mezo id = "hely">SzentgyÃ¶rgyvÃ¶lgy</mezo>
 <mezo id = "teru">Kossuth utca 43.</mezo>
 <mezo id = "valtk">20101123</mezo>
 <mezo id = "bkelt">20101217</mezo>
@@ -2203,7 +2203,7 @@
 <mezo id = "hattol">20101123</mezo>
 <mezo id = "valtk">20101123</mezo>
 <mezo id = "bkelt">20101217</mezo>
-<mezo id = "teaszov">Híd, alagút építése</mezo>
+<mezo id = "teaszov">HÃ­d, alagÃºt Ã©pÃ­tÃ©se</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -2218,19 +2218,19 @@
 <rovat id = "13">
 <alrovat id = "9">
 <mezo id = "hattol">19980609</mezo>
-<mezo id = "tiszt">vezérigazgató</mezo>
+<mezo id = "tiszt">vezÃ©rigazgatÃ³</mezo>
 <mezo id = "pnev">Dr. Kern Ferenc</mezo>
-<mezo id = "panev">Földesi Mária</mezo>
+<mezo id = "panev">FÃ¶ldesi MÃ¡ria</mezo>
 <mezo id = "pirsz">1038</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Rókaláb u. 5-7.</mezo>
+<mezo id = "pteru">RÃ³kalÃ¡b u. 5-7.</mezo>
 </alrovat>
 <alrovat id = "34">
 <mezo id = "hattol">20051003</mezo>
-<mezo id = "pnev">Németh Imre</mezo>
+<mezo id = "pnev">NÃ©meth Imre</mezo>
 <mezo id = "panev">Kukoda Magdolna</mezo>
 <mezo id = "pirsz">1193</mezo>
-<mezo id = "phely">Budapest, Komjáti u. 17.</mezo>
+<mezo id = "phely">Budapest, KomjÃ¡ti u. 17.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">3</mezo>
 <mezo id = "jogvk">20051003</mezo>
@@ -2238,10 +2238,10 @@
 </alrovat>
 <alrovat id = "38">
 <mezo id = "hattol">20070322</mezo>
-<mezo id = "pnev">Bírós Csaba</mezo>
+<mezo id = "pnev">BÃ­rÃ³s Csaba</mezo>
 <mezo id = "panev">Balogh Emma</mezo>
 <mezo id = "pirsz">8191</mezo>
-<mezo id = "phely">Öskü , Kertész K. u. 13.</mezo>
+<mezo id = "phely">Ã–skÃ¼ , KertÃ©sz K. u. 13.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20070115</mezo>
@@ -2250,10 +2250,10 @@
 </alrovat>
 <alrovat id = "42">
 <mezo id = "hattol">20070322</mezo>
-<mezo id = "pnev">Námeth Imre vezérigazgató</mezo>
+<mezo id = "pnev">NÃ¡meth Imre vezÃ©rigazgatÃ³</mezo>
 <mezo id = "panev">Kukoda Magdolna</mezo>
 <mezo id = "pirsz">1193</mezo>
-<mezo id = "phely">Budapest, Komjáti u. 17.</mezo>
+<mezo id = "phely">Budapest, KomjÃ¡ti u. 17.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">2</mezo>
 <mezo id = "jogvk">20051003</mezo>
@@ -2263,12 +2263,12 @@
 </alrovat>
 <alrovat id = "53">
 <mezo id = "hattol">20091110</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Püspöki Jánosné</mezo>
-<mezo id = "panev">Kecskés Zsuzsanna</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">PÃ¼spÃ¶ki JÃ¡nosnÃ©</mezo>
+<mezo id = "panev">KecskÃ©s Zsuzsanna</mezo>
 <mezo id = "pirsz">9028</mezo>
-<mezo id = "phely">Gyõr</mezo>
-<mezo id = "pteru">Fehérvári út 153/b.</mezo>
+<mezo id = "phely">GyÅ‘r</mezo>
+<mezo id = "pteru">FehÃ©rvÃ¡ri Ãºt 153/b.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20050201</mezo>
 <mezo id = "valtk">20091110</mezo>
@@ -2276,65 +2276,65 @@
 </alrovat>
 <alrovat id = "55">
 <mezo id = "hattol">20091110</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Nagy Sándor</mezo>
-<mezo id = "panev">Brogli Erzsébet</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Nagy SÃ¡ndor</mezo>
+<mezo id = "panev">Brogli ErzsÃ©bet</mezo>
 <mezo id = "pirsz">4400</mezo>
-<mezo id = "phely">Nyíregyháza</mezo>
-<mezo id = "pteru">Sóstói utca 51.</mezo>
+<mezo id = "phely">NyÃ­regyhÃ¡za</mezo>
+<mezo id = "pteru">SÃ³stÃ³i utca 51.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20070115</mezo>
-<mezo id = "mnev">Püspöki Jánosné vagy Korpás Rudolf</mezo>
+<mezo id = "mnev">PÃ¼spÃ¶ki JÃ¡nosnÃ© vagy KorpÃ¡s Rudolf</mezo>
 <mezo id = "valtk">20091110</mezo>
 <mezo id = "bkelt">20091210</mezo>
 </alrovat>
 <alrovat id = "56">
 <mezo id = "hattol">20091110</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Törteli József</mezo>
-<mezo id = "panev">Horák Erzsébet Eszter</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">TÃ¶rteli JÃ³zsef</mezo>
+<mezo id = "panev">HorÃ¡k ErzsÃ©bet Eszter</mezo>
 <mezo id = "pirsz">6131</mezo>
 <mezo id = "phely">Szank</mezo>
-<mezo id = "pteru">Petõfi S utca 53.</mezo>
+<mezo id = "pteru">PetÅ‘fi S utca 53.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20070115</mezo>
-<mezo id = "mnev">Püspöki Jánosné vagy Korpás Rudolf</mezo>
+<mezo id = "mnev">PÃ¼spÃ¶ki JÃ¡nosnÃ© vagy KorpÃ¡s Rudolf</mezo>
 <mezo id = "valtk">20091110</mezo>
 <mezo id = "bkelt">20091210</mezo>
 </alrovat>
 <alrovat id = "58">
 <mezo id = "hattol">20091110</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Bíró Csaba</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">BÃ­rÃ³ Csaba</mezo>
 <mezo id = "panev">Balogh Emma</mezo>
 <mezo id = "pirsz">8191</mezo>
-<mezo id = "phely">Öskü</mezo>
-<mezo id = "pteru">Kertész K utca 13.</mezo>
+<mezo id = "phely">Ã–skÃ¼</mezo>
+<mezo id = "pteru">KertÃ©sz K utca 13.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20070115</mezo>
-<mezo id = "mnev">Püspöki Jánosné vagy Korpás Rudolf</mezo>
+<mezo id = "mnev">PÃ¼spÃ¶ki JÃ¡nosnÃ© vagy KorpÃ¡s Rudolf</mezo>
 <mezo id = "valtk">20091110</mezo>
 <mezo id = "bkelt">20091210</mezo>
 </alrovat>
 <alrovat id = "63">
 <mezo id = "hattol">20091110</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Gál Csaba</mezo>
-<mezo id = "panev">Barnay Klára</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">GÃ¡l Csaba</mezo>
+<mezo id = "panev">Barnay KlÃ¡ra</mezo>
 <mezo id = "pirsz">1023</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Felhévízi utca 9/b.</mezo>
+<mezo id = "pteru">FelhÃ©vÃ­zi utca 9/b.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20090417</mezo>
-<mezo id = "mnev">Püspöki Jánosné vagy Korpás Rudolf</mezo>
+<mezo id = "mnev">PÃ¼spÃ¶ki JÃ¡nosnÃ© vagy KorpÃ¡s Rudolf</mezo>
 <mezo id = "valtk">20091110</mezo>
 <mezo id = "bkelt">20091210</mezo>
 </alrovat>
 <alrovat id = "73">
 <mezo id = "hattol">20110415</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (vezérigazgató)</mezo>
-<mezo id = "pnev">Dr.Seprényi Sándor</mezo>
-<mezo id = "panev">Horváth Piroska</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (vezÃ©rigazgatÃ³)</mezo>
+<mezo id = "pnev">Dr.SeprÃ©nyi SÃ¡ndor</mezo>
+<mezo id = "panev">HorvÃ¡th Piroska</mezo>
 <mezo id = "pirsz">1055</mezo>
 <mezo id = "phely">Budapest</mezo>
 <mezo id = "pteru">Falk Miksa utca 28. 3. em. 2.a.</mezo>
@@ -2349,32 +2349,32 @@
 <alrovat id = "6">
 <mezo id = "hattol">20051003</mezo>
 <mezo id = "cgjsz">109661579</mezo>
-<mezo id = "nev">AUDIT-LINE KÖNYVELÕ ÉS KÖNYVVIZSGÁLÓ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">AUDIT-LINE KÃ–NYVELÅ Ã‰S KÃ–NYVVIZSGÃLÃ“ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1107</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Balkán u.</mezo>
+<mezo id = "teru">BalkÃ¡n u.</mezo>
 <mezo id = "hsz">12. fszt.1.</mezo>
-<mezo id = "pnev">Eszenyiné Fekete Ágnes</mezo>
-<mezo id = "panev">Drach Erzsébet</mezo>
+<mezo id = "pnev">EszenyinÃ© Fekete Ãgnes</mezo>
+<mezo id = "panev">Drach ErzsÃ©bet</mezo>
 <mezo id = "pirsz">2081</mezo>
-<mezo id = "phely">Piliscsaba, Árpád vezér u. 38.</mezo>
+<mezo id = "phely">Piliscsaba, ÃrpÃ¡d vezÃ©r u. 38.</mezo>
 <mezo id = "jogvk">20051003</mezo>
 <mezo id = "jogvv">20101003</mezo>
 </alrovat>
 <alrovat id = "11">
 <mezo id = "hattol">20110601</mezo>
 <mezo id = "cgjsz">0109161293</mezo>
-<mezo id = "nev">Pethõ &amp; Társa Könyvszakértõi Iroda Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">PethÅ‘ &amp; TÃ¡rsa KÃ¶nyvszakÃ©rtÅ‘i Iroda KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1124</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Gébics utca 9.</mezo>
-<mezo id = "pnev">Dr.Pethõ Ferenc</mezo>
+<mezo id = "teru">GÃ©bics utca 9.</mezo>
+<mezo id = "pnev">Dr.PethÅ‘ Ferenc</mezo>
 <mezo id = "panev">Baranyai Irma</mezo>
 <mezo id = "pirsz">1124</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Gébics utca 9.</mezo>
+<mezo id = "pteru">GÃ©bics utca 9.</mezo>
 <mezo id = "jogvk">20110601</mezo>
 <mezo id = "jogvv">20120531</mezo>
 <mezo id = "valtk">20110601</mezo>
@@ -2385,12 +2385,12 @@
 <alrovat id = "1">
 <mezo id = "hattol">20040415</mezo>
 <mezo id = "cgjsz">109714997</mezo>
-<mezo id = "nev">VEGYGÉP Épületgépészeti Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">VEGYGÃ‰P Ã‰pÃ¼letgÃ©pÃ©szeti KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20040415</mezo>
 <mezo id = "cgjsz">109714782</mezo>
-<mezo id = "nev">VEGYÉPVILL Villamos és Automatika Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">VEGYÃ‰PVILL Villamos Ã©s Automatika KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "20">
@@ -2427,7 +2427,7 @@
 <mezo id = "adosz">11038638220</mezo>
 <mezo id = "kadosz">HU11038638</mezo>
 <mezo id = "bkelt">20110804</mezo>
-<mezo id = "megj">Státusz kezdete: 1994/09/29</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 1994/09/29</mezo>
 </alrovat>
 </rovat>
 <rovat id = "27">
@@ -2442,10 +2442,10 @@
 <alrovat id = "4">
 <mezo id = "hattol">20070322</mezo>
 <mezo id = "cgjsz">110042273</mezo>
-<mezo id = "nev">Vegyépszer Építõ és Szerelõ Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">VegyÃ©pszer Ã‰pÃ­tÅ‘ Ã©s SzerelÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1151</mezo>
-<mezo id = "hely">Budapest, Mogyoród útja 42.</mezo>
+<mezo id = "hely">Budapest, MogyorÃ³d Ãºtja 42.</mezo>
 <mezo id = "tagsk">20070115</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "sz3">x</mezo>
@@ -2462,84 +2462,84 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Zala Megyei Bíróság mint Cégbíróság a Cg.20-10-040290 cégjegyzékszámon bejegyzett MAHÍD 2000 Magyar Híd és Szerkezetépítõ Zártkörûen Mûködõ Részvénytársaság (8975 Szentgyörgyvölgy, Kossuth utca 43.; adószáma: 11038638-2-42) kérelme alapján elrendeli az 2010. november 22. napján hozott Cg.01-10-043971/123. számú végzésének kijavítását az alábbiak szerint:<ujsor/>
-A cégjegyzék 13/064., 13/065., 13/066. és 9(10) 9/002. rovatainak változás vége dátuma helyen: 2010. 11. 02.<ujsor/>
-13. A képviseletre jogosult(ak) adatai<ujsor/>
-A képviselet módja: önálló.<ujsor/>
-Adóazonosító jel: 8316723352<ujsor/>
-Dr.Seprényi Sándor vezetõ tisztségviselõ (vezérigazgató) (an.: Horváth Piroska)<ujsor/>
-Jogv. kezdete: 2010.11.03. Jogv. vége: 2011.11.03.<ujsor/>
-Vált. vége: 2010.11.03.<ujsor/>
-Törölve (végzés kelte): 2010. december 17.<ujsor/>
-A képviselet módja: önálló.<ujsor/>
-Adóazonosító jel: 8316723352<ujsor/>
-Dr.Seprényi Sándor vezetõ tisztségviselõ (vezérigazgató) (an.: Horváth Piroska)<ujsor/>
-Jogv. kezdete: 2010.11.03. Jogv. vége: 2011.05.03.<ujsor/>
-Vált. kezdete: 2010.11.03.<ujsor/>
-Bejegyezve (végzés kelte): 2010. december 17.<ujsor/>
-E végzés ellen fellebbezésnek nincs helye, azonban az ügyész, továbbá az, akire a végzés rendelkezést tartalmaz - a rendelkezés õt érintõ részére vonatkozóan - pert indíthat a cég ellen a cég székhelye szerint illetékes megyei bíróság elõtt a bejegyzõ végzés hatályon kívül helyezése iránt.<ujsor/>
-A per megindításának a bejegyzõ végzés Cégközlönyben való közzétételétõl, illetve - közzétételi kötelezettség hiányában - annak kézbesítésétõl számított 30 napon belül van helye. A határidõ elmulasztása jogvesztéssel jár.<ujsor/>
+<mezo id = "szoveg">A Zala Megyei BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.20-10-040290 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett MAHÃD 2000 Magyar HÃ­d Ã©s SzerkezetÃ©pÃ­tÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (8975 SzentgyÃ¶rgyvÃ¶lgy, Kossuth utca 43.; adÃ³szÃ¡ma: 11038638-2-42) kÃ©relme alapjÃ¡n elrendeli az 2010. november 22. napjÃ¡n hozott Cg.01-10-043971/123. szÃ¡mÃº vÃ©gzÃ©sÃ©nek kijavÃ­tÃ¡sÃ¡t az alÃ¡bbiak szerint:<ujsor/>
+A cÃ©gjegyzÃ©k 13/064., 13/065., 13/066. Ã©s 9(10) 9/002. rovatainak vÃ¡ltozÃ¡s vÃ©ge dÃ¡tuma helyen: 2010. 11. 02.<ujsor/>
+13. A kÃ©pviseletre jogosult(ak) adatai<ujsor/>
+A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+AdÃ³azonosÃ­tÃ³ jel: 8316723352<ujsor/>
+Dr.SeprÃ©nyi SÃ¡ndor vezetÅ‘ tisztsÃ©gviselÅ‘ (vezÃ©rigazgatÃ³) (an.: HorvÃ¡th Piroska)<ujsor/>
+Jogv. kezdete: 2010.11.03. Jogv. vÃ©ge: 2011.11.03.<ujsor/>
+VÃ¡lt. vÃ©ge: 2010.11.03.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2010. december 17.<ujsor/>
+A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+AdÃ³azonosÃ­tÃ³ jel: 8316723352<ujsor/>
+Dr.SeprÃ©nyi SÃ¡ndor vezetÅ‘ tisztsÃ©gviselÅ‘ (vezÃ©rigazgatÃ³) (an.: HorvÃ¡th Piroska)<ujsor/>
+Jogv. kezdete: 2010.11.03. Jogv. vÃ©ge: 2011.05.03.<ujsor/>
+VÃ¡lt. kezdete: 2010.11.03.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2010. december 17.<ujsor/>
+E vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye, azonban az Ã¼gyÃ©sz, tovÃ¡bbÃ¡ az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s Å‘t Ã©rintÅ‘ rÃ©szÃ©re vonatkozÃ³an - pert indÃ­that a cÃ©g ellen a cÃ©g szÃ©khelye szerint illetÃ©kes megyei bÃ­rÃ³sÃ¡g elÅ‘tt a bejegyzÅ‘ vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt.<ujsor/>
+A per megindÃ­tÃ¡sÃ¡nak a bejegyzÅ‘ vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l, illetve - kÃ¶zzÃ©tÃ©teli kÃ¶telezettsÃ©g hiÃ¡nyÃ¡ban - annak kÃ©zbesÃ­tÃ©sÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l van helye. A hatÃ¡ridÅ‘ elmulasztÃ¡sa jogvesztÃ©ssel jÃ¡r.<ujsor/>
 2010. december 17.<ujsor/>
 </mezo>
 <mezo id = "cjsz">2010040290</mezo>
-<mezo id = "nev">MAHÍD 2000 Magyar Híd és Szerkezetépítõ Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">8975 Szentgyörgyvölgy, Kossuth utca 43.</mezo>
+<mezo id = "nev">MAHÃD 2000 Magyar HÃ­d Ã©s SzerkezetÃ©pÃ­tÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">8975 SzentgyÃ¶rgyvÃ¶lgy, Kossuth utca 43.</mezo>
 <mezo id = "adosz">11038638242</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság 9.Cspk.01-11-000027/3. sz. végzése az ideiglenes fizetési haladék közzétételérõl<ujsor/>
-A bíróság közzéteszi, hogy a(z)  MAHÍD 2000 Magyar Híd és Szerkezetépítõ Zártkörûen Mûködõ Részvénytársaság (8975 Szentgyörgyvölgy, Kossuth u. 43.; cégjegyzékszáma: 20 10 040290) adós 2011. május 11. napján csõdeljárás iránti kérelmet nyújtott be, ezért a bíróság további döntéséig ideiglenes fizetési haladék illeti meg.<ujsor/>
-Budapest, 2011. május 11.<ujsor/>
-A közzététel idõpontja: 2011. május 12.<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g 9.Cspk.01-11-000027/3. sz. vÃ©gzÃ©se az ideiglenes fizetÃ©si haladÃ©k kÃ¶zzÃ©tÃ©telÃ©rÅ‘l<ujsor/>
+A bÃ­rÃ³sÃ¡g kÃ¶zzÃ©teszi, hogy a(z)  MAHÃD 2000 Magyar HÃ­d Ã©s SzerkezetÃ©pÃ­tÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (8975 SzentgyÃ¶rgyvÃ¶lgy, Kossuth u. 43.; cÃ©gjegyzÃ©kszÃ¡ma: 20 10 040290) adÃ³s 2011. mÃ¡jus 11. napjÃ¡n csÅ‘deljÃ¡rÃ¡s irÃ¡nti kÃ©relmet nyÃºjtott be, ezÃ©rt a bÃ­rÃ³sÃ¡g tovÃ¡bbi dÃ¶ntÃ©sÃ©ig ideiglenes fizetÃ©si haladÃ©k illeti meg.<ujsor/>
+Budapest, 2011. mÃ¡jus 11.<ujsor/>
+A kÃ¶zzÃ©tÃ©tel idÅ‘pontja: 2011. mÃ¡jus 12.<ujsor/>
 </mezo>
 <mezo id = "cjsz">2010040290</mezo>
-<mezo id = "nev">MAHÍD 2000 Magyar Híd és Szerkezetépítõ Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">8975 Szentgyörgyvölgy, Kossuth u. 43.</mezo>
+<mezo id = "nev">MAHÃD 2000 Magyar HÃ­d Ã©s SzerkezetÃ©pÃ­tÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">8975 SzentgyÃ¶rgyvÃ¶lgy, Kossuth u. 43.</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság 9.Cspk.01-11-000027/11. sz. végzése csõdeljárás elrendelésérõl<ujsor/>
-A bíróság elrendeli annak a Cégközlönyben való közzétételét, hogy a(z)  MAHÍD 2000 Magyar Híd és Szerkezetépítõ Zártkörûen Mûködõ Részvénytársaság (8975 Szentgyörgyvölgy, Kossuth u. 43.; cégjegyzékszáma: 20 10 040290) gazdálkodó szervezet (adós) csõdeljárását elrendelte.<ujsor/>
-A csõdeljárás kezdõ idõpontja e végzés Cégközlönyben való közzétételének napja.<ujsor/>
-A végzés közzétételétõl az adóst fizetési haladék illeti meg a vele szemben a fizetési haladék kezdõ idõpontját megelõzõen, illetve azt követõen esedékessé váló pénzkövetelések vonatkozásában (kivéve a Cstv. 11. $ (1) bekezdésében felsorolt követeléseket). A fizetési haladék e közzétételtõl számított 90 nap elteltét követõ elsõ munkanapon 0 órakor jár le.<ujsor/>
-A hitelezõk fennálló követeléseiket e végzés közzétételétõl számított 30 napon belül - e közzétételt követõen keletkezõ követeléseiket pedig keletkezésüktõl számított 3 munkanapon belül - jelenthetik be az adósnak és az alábbi vagyonfelügyelõnek.<ujsor/>
-A vagyonfelügyelõ neve és székhelye: Dr. FELSÕ Vállalkozásszervezõ és Csõdtanácsadó Kft., Budapest, Dob u. 52., postacíme: 1399 Bp. Pf.: 679.<ujsor/>
-A bíróság a MAHÍD 2000 Magyar Híd és Szerkezetépítõ Zártkörûen Mûködõ Részvénytársaság adós ellen folyó eljárásban az 1991. évi XLIX. törvény 27/A. § (1) bekezdése alapján az elektronikus kijelölési eljárástól eltérõen rendelte ki a vagyonfelügyelõt, figyelemmel az ügy tárgyi súlyára és az adósi társaság sajátosságaihoz igazodó különleges szakértelemre.<ujsor/>
-Budapest, 2011. május 16.<ujsor/>
-A közzététel idõpontja: 2011. május 17.<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g 9.Cspk.01-11-000027/11. sz. vÃ©gzÃ©se csÅ‘deljÃ¡rÃ¡s elrendelÃ©sÃ©rÅ‘l<ujsor/>
+A bÃ­rÃ³sÃ¡g elrendeli annak a CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©t, hogy a(z)  MAHÃD 2000 Magyar HÃ­d Ã©s SzerkezetÃ©pÃ­tÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (8975 SzentgyÃ¶rgyvÃ¶lgy, Kossuth u. 43.; cÃ©gjegyzÃ©kszÃ¡ma: 20 10 040290) gazdÃ¡lkodÃ³ szervezet (adÃ³s) csÅ‘deljÃ¡rÃ¡sÃ¡t elrendelte.<ujsor/>
+A csÅ‘deljÃ¡rÃ¡s kezdÅ‘ idÅ‘pontja e vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©nek napja.<ujsor/>
+A vÃ©gzÃ©s kÃ¶zzÃ©tÃ©telÃ©tÅ‘l az adÃ³st fizetÃ©si haladÃ©k illeti meg a vele szemben a fizetÃ©si haladÃ©k kezdÅ‘ idÅ‘pontjÃ¡t megelÅ‘zÅ‘en, illetve azt kÃ¶vetÅ‘en esedÃ©kessÃ© vÃ¡lÃ³ pÃ©nzkÃ¶vetelÃ©sek vonatkozÃ¡sÃ¡ban (kivÃ©ve a Cstv. 11. $ (1) bekezdÃ©sÃ©ben felsorolt kÃ¶vetelÃ©seket). A fizetÃ©si haladÃ©k e kÃ¶zzÃ©tÃ©teltÅ‘l szÃ¡mÃ­tott 90 nap elteltÃ©t kÃ¶vetÅ‘ elsÅ‘ munkanapon 0 Ã³rakor jÃ¡r le.<ujsor/>
+A hitelezÅ‘k fennÃ¡llÃ³ kÃ¶vetelÃ©seiket e vÃ©gzÃ©s kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l - e kÃ¶zzÃ©tÃ©telt kÃ¶vetÅ‘en keletkezÅ‘ kÃ¶vetelÃ©seiket pedig keletkezÃ©sÃ¼ktÅ‘l szÃ¡mÃ­tott 3 munkanapon belÃ¼l - jelenthetik be az adÃ³snak Ã©s az alÃ¡bbi vagyonfelÃ¼gyelÅ‘nek.<ujsor/>
+A vagyonfelÃ¼gyelÅ‘ neve Ã©s szÃ©khelye: Dr. FELSÅ VÃ¡llalkozÃ¡sszervezÅ‘ Ã©s CsÅ‘dtanÃ¡csadÃ³ Kft., Budapest, Dob u. 52., postacÃ­me: 1399 Bp. Pf.: 679.<ujsor/>
+A bÃ­rÃ³sÃ¡g a MAHÃD 2000 Magyar HÃ­d Ã©s SzerkezetÃ©pÃ­tÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g adÃ³s ellen folyÃ³ eljÃ¡rÃ¡sban az 1991. Ã©vi XLIX. tÃ¶rvÃ©ny 27/A. Â§ (1) bekezdÃ©se alapjÃ¡n az elektronikus kijelÃ¶lÃ©si eljÃ¡rÃ¡stÃ³l eltÃ©rÅ‘en rendelte ki a vagyonfelÃ¼gyelÅ‘t, figyelemmel az Ã¼gy tÃ¡rgyi sÃºlyÃ¡ra Ã©s az adÃ³si tÃ¡rsasÃ¡g sajÃ¡tossÃ¡gaihoz igazodÃ³ kÃ¼lÃ¶nleges szakÃ©rtelemre.<ujsor/>
+Budapest, 2011. mÃ¡jus 16.<ujsor/>
+A kÃ¶zzÃ©tÃ©tel idÅ‘pontja: 2011. mÃ¡jus 17.<ujsor/>
 </mezo>
 <mezo id = "cjsz">2010040290</mezo>
-<mezo id = "nev">MAHÍD 2000 Magyar Híd és Szerkezetépítõ Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">8975 Szentgyörgyvölgy, Kossuth u. 43.</mezo>
+<mezo id = "nev">MAHÃD 2000 Magyar HÃ­d Ã©s SzerkezetÃ©pÃ­tÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">8975 SzentgyÃ¶rgyvÃ¶lgy, Kossuth u. 43.</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság 9.Cspk.01-11-000027/15. sz. végzése a fizetési haladék meghosszabbításáról<ujsor/>
-A bíróság elrendeli annak a Cégközlönyben való közzétételét, hogy a(z)  MAHÍD 2000 Magyar Híd és Szerkezetépítõ Zártkörûen Mûködõ Részvénytársaság (8975 Szentgyörgyvölgy, Kossuth u. 43.; cégjegyzékszáma: 20 10 040290) gazdálkodó szervezet (adós) csõdeljárásában a 2011. május 17. napján közzétett végzéssel megindult fizetési haladékot a felek kérelmének megfelelõen 180 napra meghosszabbítja, a fizetési haladék 2011. november 14. napján 0 órakor lejár.<ujsor/>
-A vagyonfelügyelõ neve és székhelye: Dr. FELSÕ Vállalkozásszervezõ és Csõdtanácsadó Kft., Budapest, Dob u. 52., postacíme: 1399 Bp. Pf.: 679.<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g 9.Cspk.01-11-000027/15. sz. vÃ©gzÃ©se a fizetÃ©si haladÃ©k meghosszabbÃ­tÃ¡sÃ¡rÃ³l<ujsor/>
+A bÃ­rÃ³sÃ¡g elrendeli annak a CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©t, hogy a(z)  MAHÃD 2000 Magyar HÃ­d Ã©s SzerkezetÃ©pÃ­tÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (8975 SzentgyÃ¶rgyvÃ¶lgy, Kossuth u. 43.; cÃ©gjegyzÃ©kszÃ¡ma: 20 10 040290) gazdÃ¡lkodÃ³ szervezet (adÃ³s) csÅ‘deljÃ¡rÃ¡sÃ¡ban a 2011. mÃ¡jus 17. napjÃ¡n kÃ¶zzÃ©tett vÃ©gzÃ©ssel megindult fizetÃ©si haladÃ©kot a felek kÃ©relmÃ©nek megfelelÅ‘en 180 napra meghosszabbÃ­tja, a fizetÃ©si haladÃ©k 2011. november 14. napjÃ¡n 0 Ã³rakor lejÃ¡r.<ujsor/>
+A vagyonfelÃ¼gyelÅ‘ neve Ã©s szÃ©khelye: Dr. FELSÅ VÃ¡llalkozÃ¡sszervezÅ‘ Ã©s CsÅ‘dtanÃ¡csadÃ³ Kft., Budapest, Dob u. 52., postacÃ­me: 1399 Bp. Pf.: 679.<ujsor/>
 Budapest, 2011. augusztus 11.<ujsor/>
-A közzététel idõpontja: 2011. augusztus 12.<ujsor/>
+A kÃ¶zzÃ©tÃ©tel idÅ‘pontja: 2011. augusztus 12.<ujsor/>
 </mezo>
 <mezo id = "cjsz">2010040290</mezo>
-<mezo id = "nev">MAHÍD 2000 Magyar Híd és Szerkezetépítõ Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">8975 Szentgyörgyvölgy, Kossuth u. 43.</mezo>
+<mezo id = "nev">MAHÃD 2000 Magyar HÃ­d Ã©s SzerkezetÃ©pÃ­tÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">8975 SzentgyÃ¶rgyvÃ¶lgy, Kossuth u. 43.</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság 9.Cspk.01-11-000027/21. sz. végzése a fizetési haladék meghosszabbításáról<ujsor/>
-A bíróság elrendeli annak a Cégközlönyben való közzétételét, hogy a(z)  MAHÍD 2000 Magyar Híd és Szerkezetépítõ Zártkörûen Mûködõ Részvénytársaság (8975 Szentgyörgyvölgy, Kossuth u. 43.; cégjegyzékszáma: 20 10 040290) gazdálkodó szervezet (adós) csõdeljárásában a 2011. május 17. napján közzétett végzéssel megindult fizetési haladékot a felek kérelmének megfelelõen 365 napra meghosszabbítja, a fizetési haladék 2012. május 17. napján 0 órakor lejár.<ujsor/>
-A vagyonfelügyelõ neve és székhelye: Dr. FELSÕ Vállalkozásszervezõ és Csõdtanácsadó Kft., Budapest, Dob u. 52., postacíme: 1399 Bp. Pf.: 679.<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g 9.Cspk.01-11-000027/21. sz. vÃ©gzÃ©se a fizetÃ©si haladÃ©k meghosszabbÃ­tÃ¡sÃ¡rÃ³l<ujsor/>
+A bÃ­rÃ³sÃ¡g elrendeli annak a CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©t, hogy a(z)  MAHÃD 2000 Magyar HÃ­d Ã©s SzerkezetÃ©pÃ­tÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (8975 SzentgyÃ¶rgyvÃ¶lgy, Kossuth u. 43.; cÃ©gjegyzÃ©kszÃ¡ma: 20 10 040290) gazdÃ¡lkodÃ³ szervezet (adÃ³s) csÅ‘deljÃ¡rÃ¡sÃ¡ban a 2011. mÃ¡jus 17. napjÃ¡n kÃ¶zzÃ©tett vÃ©gzÃ©ssel megindult fizetÃ©si haladÃ©kot a felek kÃ©relmÃ©nek megfelelÅ‘en 365 napra meghosszabbÃ­tja, a fizetÃ©si haladÃ©k 2012. mÃ¡jus 17. napjÃ¡n 0 Ã³rakor lejÃ¡r.<ujsor/>
+A vagyonfelÃ¼gyelÅ‘ neve Ã©s szÃ©khelye: Dr. FELSÅ VÃ¡llalkozÃ¡sszervezÅ‘ Ã©s CsÅ‘dtanÃ¡csadÃ³ Kft., Budapest, Dob u. 52., postacÃ­me: 1399 Bp. Pf.: 679.<ujsor/>
 Budapest, 2011. szeptember 29.<ujsor/>
-A közzététel idõpontja: 2011. szeptember 30.<ujsor/>
+A kÃ¶zzÃ©tÃ©tel idÅ‘pontja: 2011. szeptember 30.<ujsor/>
 </mezo>
 <mezo id = "cjsz">2010040290</mezo>
-<mezo id = "nev">MAHÍD 2000 Magyar Híd és Szerkezetépítõ Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">8975 Szentgyörgyvölgy, Kossuth u. 43.</mezo>
+<mezo id = "nev">MAHÃD 2000 Magyar HÃ­d Ã©s SzerkezetÃ©pÃ­tÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">8975 SzentgyÃ¶rgyvÃ¶lgy, Kossuth u. 43.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "99017">

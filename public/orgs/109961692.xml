@@ -6,7 +6,7 @@
 <mezo id = "szam">961692</mezo>
 <mezo id = "nevalrovat">1</mezo>
 <mezo id = "regi_szh">1609008615</mezo>
-<mezo id = "cim">1141 Budapest, Szugló utca 82. </mezo>
+<mezo id = "cim">1141 Budapest, SzuglÃ³ utca 82. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">13635901242</mezo>
 </alrovat>
@@ -14,7 +14,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20051216</mezo>
-<mezo id = "nev">Alcsi-Food Vendéglátó és Számviteli Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Alcsi-Food VendÃ©glÃ¡tÃ³ Ã©s SzÃ¡mviteli KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -28,7 +28,7 @@
 <mezo id = "hattol">20110331</mezo>
 <mezo id = "irsz">1141</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Szugló utca 82.</mezo>
+<mezo id = "teru">SzuglÃ³ utca 82.</mezo>
 <mezo id = "valtk">20110331</mezo>
 <mezo id = "bkelt">20110517</mezo>
 </alrovat>
@@ -37,13 +37,13 @@
 <alrovat id = "1">
 <mezo id = "hattol">20051216</mezo>
 <mezo id = "irsz">5000</mezo>
-<mezo id = "hely">Szolnok, Tölgy u. 7-9.</mezo>
+<mezo id = "hely">Szolnok, TÃ¶lgy u. 7-9.</mezo>
 <mezo id = "orsz">HU</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20070801</mezo>
 <mezo id = "irsz">5081</mezo>
-<mezo id = "hely">Szajol , Kölcsey Ferenc út 45.</mezo>
+<mezo id = "hely">Szajol , KÃ¶lcsey Ferenc Ãºt 45.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20070706</mezo>
 <mezo id = "valtv">0</mezo>
@@ -52,7 +52,7 @@
 <mezo id = "hattol">20110331</mezo>
 <mezo id = "irsz">5000</mezo>
 <mezo id = "hely">Szolnok</mezo>
-<mezo id = "teru">Tölgy utca 16553/8.</mezo>
+<mezo id = "teru">TÃ¶lgy utca 16553/8.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20110331</mezo>
 <mezo id = "bkelt">20110517</mezo>
@@ -157,7 +157,7 @@
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">20051216</mezo>
-<mezo id = "sznev">(kivéve adószakértõi tevékenységet)</mezo>
+<mezo id = "sznev">(kivÃ©ve adÃ³szakÃ©rtÅ‘i tevÃ©kenysÃ©get)</mezo>
 <mezo id = "hengk1">0</mezo>
 <mezo id = "hengv1">0</mezo>
 <mezo id = "hengk2">0</mezo>
@@ -238,73 +238,73 @@
 <mezo id = "hattol">20110331</mezo>
 <mezo id = "valtk">20110331</mezo>
 <mezo id = "bkelt">20110517</mezo>
-<mezo id = "teaszov">Egyéb vendéglátás</mezo>
+<mezo id = "teaszov">EgyÃ©b vendÃ©glÃ¡tÃ¡s</mezo>
 </alrovat>
 <alrovat id = "24">
 <mezo id = "hattol">20110331</mezo>
 <mezo id = "valtk">20110331</mezo>
 <mezo id = "bkelt">20110517</mezo>
-<mezo id = "teaszov">Szállodai szolgáltatás</mezo>
+<mezo id = "teaszov">SzÃ¡llodai szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "25">
 <mezo id = "hattol">20110331</mezo>
 <mezo id = "valtk">20110331</mezo>
 <mezo id = "bkelt">20110517</mezo>
-<mezo id = "teaszov">Üdülési, egyéb átmeneti szálláshely-szolgáltatás</mezo>
+<mezo id = "teaszov">ÃœdÃ¼lÃ©si, egyÃ©b Ã¡tmeneti szÃ¡llÃ¡shely-szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "26">
 <mezo id = "hattol">20110331</mezo>
 <mezo id = "valtk">20110331</mezo>
 <mezo id = "bkelt">20110517</mezo>
-<mezo id = "teaszov">Kempingszolgáltatás</mezo>
+<mezo id = "teaszov">KempingszolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "27">
 <mezo id = "hattol">20110331</mezo>
 <mezo id = "valtk">20110331</mezo>
 <mezo id = "bkelt">20110517</mezo>
-<mezo id = "teaszov">Egyéb szálláshely-szolgáltatás</mezo>
+<mezo id = "teaszov">EgyÃ©b szÃ¡llÃ¡shely-szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "28">
 <mezo id = "hattol">20110331</mezo>
 <mezo id = "valtk">20110331</mezo>
 <mezo id = "bkelt">20110517</mezo>
-<mezo id = "teaszov">Éttermi, mozgó vendéglátás</mezo>
+<mezo id = "teaszov">Ã‰ttermi, mozgÃ³ vendÃ©glÃ¡tÃ¡s</mezo>
 </alrovat>
 <alrovat id = "29">
 <mezo id = "hattol">20110331</mezo>
 <mezo id = "valtk">20110331</mezo>
 <mezo id = "bkelt">20110517</mezo>
-<mezo id = "teaszov">Rendezvényi étkeztetés</mezo>
+<mezo id = "teaszov">RendezvÃ©nyi Ã©tkeztetÃ©s</mezo>
 </alrovat>
 <alrovat id = "30">
 <mezo id = "hattol">20110331</mezo>
 <mezo id = "valtk">20110331</mezo>
 <mezo id = "bkelt">20110517</mezo>
-<mezo id = "teaszov">Italszolgáltatás</mezo>
+<mezo id = "teaszov">ItalszolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "31">
 <mezo id = "hattol">20110331</mezo>
 <mezo id = "valtk">20110331</mezo>
 <mezo id = "bkelt">20110517</mezo>
-<mezo id = "teaszov">Számviteli, könyvvizsgálói, adószakértõi tevékenység (a könyvvizsgálói és adószakértõi tevékenységek kivételével)</mezo>
+<mezo id = "teaszov">SzÃ¡mviteli, kÃ¶nyvvizsgÃ¡lÃ³i, adÃ³szakÃ©rtÅ‘i tevÃ©kenysÃ©g (a kÃ¶nyvvizsgÃ¡lÃ³i Ã©s adÃ³szakÃ©rtÅ‘i tevÃ©kenysÃ©gek kivÃ©telÃ©vel)</mezo>
 </alrovat>
 <alrovat id = "32">
 <mezo id = "hattol">20110331</mezo>
 <mezo id = "valtk">20110331</mezo>
 <mezo id = "bkelt">20110517</mezo>
-<mezo id = "teaszov">Általános épülettakarítás</mezo>
+<mezo id = "teaszov">ÃltalÃ¡nos Ã©pÃ¼lettakarÃ­tÃ¡s</mezo>
 </alrovat>
 <alrovat id = "33">
 <mezo id = "hattol">20110331</mezo>
 <mezo id = "valtk">20110331</mezo>
 <mezo id = "bkelt">20110517</mezo>
-<mezo id = "teaszov">Egyéb épület-, ipari takarítás</mezo>
+<mezo id = "teaszov">EgyÃ©b Ã©pÃ¼let-, ipari takarÃ­tÃ¡s</mezo>
 </alrovat>
 <alrovat id = "34">
 <mezo id = "hattol">20110331</mezo>
 <mezo id = "valtk">20110331</mezo>
 <mezo id = "bkelt">20110517</mezo>
-<mezo id = "teaszov">Egyéb takarítás</mezo>
+<mezo id = "teaszov">EgyÃ©b takarÃ­tÃ¡s</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -319,12 +319,12 @@
 <rovat id = "13">
 <alrovat id = "2">
 <mezo id = "hattol">20110331</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Cora János Tibor</mezo>
-<mezo id = "panev">Gergely Márta</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Cora JÃ¡nos Tibor</mezo>
+<mezo id = "panev">Gergely MÃ¡rta</mezo>
 <mezo id = "pirsz">5085</mezo>
-<mezo id = "phely">Rákóczifalva</mezo>
-<mezo id = "pteru">Hunyadi út 15.</mezo>
+<mezo id = "phely">RÃ¡kÃ³czifalva</mezo>
+<mezo id = "pteru">Hunyadi Ãºt 15.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20110331</mezo>
 <mezo id = "valtk">20110331</mezo>
@@ -369,23 +369,23 @@
 <alrovat id = "5">
 <mezo id = "adosz">13635901242</mezo>
 <mezo id = "bkelt">20110602</mezo>
-<mezo id = "megj">Adószám státusza: érvényes adószám</mezo>
+<mezo id = "megj">AdÃ³szÃ¡m stÃ¡tusza: Ã©rvÃ©nyes adÃ³szÃ¡m</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0109">
 <alrovat id = "2">
 <mezo id = "hattol">20051216</mezo>
-<mezo id = "pnev">Cora János Tibor</mezo>
-<mezo id = "panev">Gergely Márta</mezo>
+<mezo id = "pnev">Cora JÃ¡nos Tibor</mezo>
+<mezo id = "panev">Gergely MÃ¡rta</mezo>
 <mezo id = "pirsz">5085</mezo>
-<mezo id = "phely">Rákóczifalva, Hunyadi u. 15.</mezo>
+<mezo id = "phely">RÃ¡kÃ³czifalva, Hunyadi u. 15.</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20070801</mezo>
-<mezo id = "pnev">Szöllõsi Ildikó Zsuzsa</mezo>
-<mezo id = "panev">Bende Erzsébet</mezo>
+<mezo id = "pnev">SzÃ¶llÅ‘si IldikÃ³ Zsuzsa</mezo>
+<mezo id = "panev">Bende ErzsÃ©bet</mezo>
 <mezo id = "pirsz">5085</mezo>
-<mezo id = "phely">Rákóczifalva , Hunyadi u. 15.</mezo>
+<mezo id = "phely">RÃ¡kÃ³czifalva , Hunyadi u. 15.</mezo>
 <mezo id = "tagsk">20051213</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "sz2">x</mezo>

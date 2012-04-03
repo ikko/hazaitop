@@ -6,7 +6,7 @@
 <mezo id = "szam">757792</mezo>
 <mezo id = "nevalrovat">4</mezo>
 <mezo id = "allapot">6</mezo>
-<mezo id = "cim">1028 Budapest, Kevélyhegyi u. 11/a. </mezo>
+<mezo id = "cim">1028 Budapest, KevÃ©lyhegyi u. 11/a. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">21590221241</mezo>
 </alrovat>
@@ -14,7 +14,7 @@
 <rovat id = "2">
 <alrovat id = "4">
 <mezo id = "hattol">20100511</mezo>
-<mezo id = "nev">ILEXE Betéti Társaság &quot;végelszámolás alatt&quot;</mezo>
+<mezo id = "nev">ILEXE BetÃ©ti TÃ¡rsasÃ¡g &quot;vÃ©gelszÃ¡molÃ¡s alatt&quot;</mezo>
 <mezo id = "valtk">20100511</mezo>
 <mezo id = "bkelt">20101209</mezo>
 </alrovat>
@@ -32,7 +32,7 @@
 <mezo id = "hattol">20070305</mezo>
 <mezo id = "irsz">1015</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Toldy Ferenc u. 62. A. ép . III. em. 9.</mezo>
+<mezo id = "teru">Toldy Ferenc u. 62. A. Ã©p . III. em. 9.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">20061229</mezo>
 <mezo id = "valtv">0</mezo>
@@ -41,7 +41,7 @@
 <mezo id = "hattol">20080811</mezo>
 <mezo id = "irsz">1028</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Kevélyhegyi u. 11/a.</mezo>
+<mezo id = "teru">KevÃ©lyhegyi u. 11/a.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">20080811</mezo>
 <mezo id = "valtv">0</mezo>
@@ -289,8 +289,8 @@
 <rovat id = "13">
 <alrovat id = "5">
 <mezo id = "hattol">20100511</mezo>
-<mezo id = "tiszt">végelszámoló</mezo>
-<mezo id = "pnev">Iliász Alexandrosz</mezo>
+<mezo id = "tiszt">vÃ©gelszÃ¡molÃ³</mezo>
+<mezo id = "pnev">IliÃ¡sz Alexandrosz</mezo>
 <mezo id = "panev">Dancs Adrien</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100511</mezo>
@@ -318,7 +318,7 @@
 <mezo id = "adosz">21590221241</mezo>
 <mezo id = "kadosz">HU21590221</mezo>
 <mezo id = "bkelt">20111018</mezo>
-<mezo id = "megj">Státusz kezdete: 2003/04/07</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 2003/04/07</mezo>
 </alrovat>
 </rovat>
 <rovat id = "26">
@@ -340,17 +340,17 @@
 <rovat id = "0106">
 <alrovat id = "1">
 <mezo id = "hattol">20030409</mezo>
-<mezo id = "pnev">Jankó Gábor</mezo>
-<mezo id = "panev">Bíró Ilona</mezo>
+<mezo id = "pnev">JankÃ³ GÃ¡bor</mezo>
+<mezo id = "panev">BÃ­rÃ³ Ilona</mezo>
 <mezo id = "pirsz">1221</mezo>
 <mezo id = "phely">Budapest, Szabina u. 15/A.</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20080811</mezo>
-<mezo id = "pnev">Iliász Alexandrosz</mezo>
+<mezo id = "pnev">IliÃ¡sz Alexandrosz</mezo>
 <mezo id = "panev">Dancs Adrien</mezo>
 <mezo id = "pirsz">1028</mezo>
-<mezo id = "phely">Budapest, Kevélyhegyi u. 11. a. ép.</mezo>
+<mezo id = "phely">Budapest, KevÃ©lyhegyi u. 11. a. Ã©p.</mezo>
 <mezo id = "tagsk">20080811</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20080811</mezo>
@@ -362,10 +362,10 @@
 <rovat id = "0206">
 <alrovat id = "4">
 <mezo id = "hattol">20080811</mezo>
-<mezo id = "pnev">Iliász-Iliu Iliász</mezo>
+<mezo id = "pnev">IliÃ¡sz-Iliu IliÃ¡sz</mezo>
 <mezo id = "panev">Diamanti Antigone</mezo>
 <mezo id = "pirsz">1028</mezo>
-<mezo id = "phely">Budapest, Kevélyhegyi u. 11. a. ép.</mezo>
+<mezo id = "phely">Budapest, KevÃ©lyhegyi u. 11. a. Ã©p.</mezo>
 <mezo id = "tagsk">20080811</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20080811</mezo>
@@ -383,34 +383,34 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2007. 03. 05-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-1(06). Jankó Gábor (an: Bíró Ilona)<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2007. 03. 05-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+1(06). JankÃ³ GÃ¡bor (an: BÃ­rÃ³ Ilona)<ujsor/>
 1221 Budapest, Szabina u. 15/ A .<ujsor/>
- A változás idõpontja (törlés): 2006. 12. 29.<ujsor/>
- Törölve: 2008. 02. 18.<ujsor/>
- Antal Zsolt (an: Takács Veronika)<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2006. 12. 29.<ujsor/>
+ TÃ¶rÃ¶lve: 2008. 02. 18.<ujsor/>
+ Antal Zsolt (an: TakÃ¡cs Veronika)<ujsor/>
 1118 Budapest, Bereck u. 25.<ujsor/>
- A tagság kezdete: 2006. 12. 29.<ujsor/>
- A változás idõpontja: 2006. 12. 29.<ujsor/>
+ A tagsÃ¡g kezdete: 2006. 12. 29.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2006. 12. 29.<ujsor/>
  Bejegyezve: 2008. 02. 18.<ujsor/>
 2008. 02. 18.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0106757792</mezo>
-<mezo id = "nev">POT Kereskedelmi és Szolgáltató Betéti Társaság</mezo>
-<mezo id = "cim">1015 Budapest, Toldy Ferenc u. 62. A. ép . III . em. 9.</mezo>
+<mezo id = "nev">POT Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ BetÃ©ti TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1015 Budapest, Toldy Ferenc u. 62. A. Ã©p . III . em. 9.</mezo>
 <mezo id = "adosz">21590221241</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság által nyilvántartásba vett ILEXE Betéti Társaság (Cg.: [01 06 757792]; székhelye: 1028 Budapest, Kevélyhegyi u. 11/A; adószáma: [21590221-2-41]) tagok gyûlése<ujsor/>
-egyszerûsített végelszámolás<ujsor/>
-útján, jogutód nélküli megszûnését határozta el.<ujsor/>
-A társaság eddigi vezetõ tisztségviselõjének, Iliász Alexandrosz képviselõnek e minõsége megszûnik.<ujsor/>
-Végelszámoló: Iliász Alexandrosz (a. n.: Dancs Adrien), 1028 Budapest, Kevélyhegyi u. 11/A alatti lakos.<ujsor/>
-A végelszámolás elhatározásának napja: 2010. április 26.<ujsor/>
-Kezdõ idõpontja: 2010. május 11.<ujsor/>
-A társaság felhívja a hitelezõk figyelmét, hogy követeléseiket a közzétételt követõ 40 napon belül jelentsék be a végelszámolónak.<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g Ã¡ltal nyilvÃ¡ntartÃ¡sba vett ILEXE BetÃ©ti TÃ¡rsasÃ¡g (Cg.: [01 06 757792]; szÃ©khelye: 1028 Budapest, KevÃ©lyhegyi u. 11/A; adÃ³szÃ¡ma: [21590221-2-41]) tagok gyÅ±lÃ©se<ujsor/>
+egyszerÅ±sÃ­tett vÃ©gelszÃ¡molÃ¡s<ujsor/>
+ÃºtjÃ¡n, jogutÃ³d nÃ©lkÃ¼li megszÅ±nÃ©sÃ©t hatÃ¡rozta el.<ujsor/>
+A tÃ¡rsasÃ¡g eddigi vezetÅ‘ tisztsÃ©gviselÅ‘jÃ©nek, IliÃ¡sz Alexandrosz kÃ©pviselÅ‘nek e minÅ‘sÃ©ge megszÅ±nik.<ujsor/>
+VÃ©gelszÃ¡molÃ³: IliÃ¡sz Alexandrosz (a. n.: Dancs Adrien), 1028 Budapest, KevÃ©lyhegyi u. 11/A alatti lakos.<ujsor/>
+A vÃ©gelszÃ¡molÃ¡s elhatÃ¡rozÃ¡sÃ¡nak napja: 2010. Ã¡prilis 26.<ujsor/>
+KezdÅ‘ idÅ‘pontja: 2010. mÃ¡jus 11.<ujsor/>
+A tÃ¡rsasÃ¡g felhÃ­vja a hitelezÅ‘k figyelmÃ©t, hogy kÃ¶vetelÃ©seiket a kÃ¶zzÃ©tÃ©telt kÃ¶vetÅ‘ 40 napon belÃ¼l jelentsÃ©k be a vÃ©gelszÃ¡molÃ³nak.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0106757792</mezo>
 <mezo id = "nev">ILEXE Bt.</mezo>
@@ -419,19 +419,19 @@ A társaság felhívja a hitelezõk figyelmét, hogy követeléseiket a közzétételt köv
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróságnál Cg.01-06-757792 cégjegyzékszámon bejegyzett ILEXE Betéti Társaság &quot;végelszámolás alatt&quot; (1028 Budapest, Kevélyhegyi u 11/a.; adószáma: 21590221-2-41) ügyében a bíróság a cég megszünésére tekintettel elrendeli a cég cégjegyzékbõl való törlését.<ujsor/>
-26. A végelszámolás kezdete és befejezése<ujsor/>
-Befejezése: 2011.03.11.<ujsor/>
-Vált. kezdete: 2011.03.11.<ujsor/>
-Bejegyezve (végzés kelte): 2011. október 13.<ujsor/>
-A törlõ végzés ellen fellebbezésnek nincs helye. A végzés vagy az annak meghozatala alapjául szolgáló iratok jogszabályba ütközése miatt az ügyész, valamint az, akire a végzés rendelkezést tartalmaz - a rendelkezés õt érintõ részére vonatkozóan - pert indíthat a cég ellen a végzés hatályon kívül helyezése iránt a cég székhelye szerint illetékes megyei bíróság elõtt.<ujsor/>
-A cég törlését elrendelõ végzés ellen a pert a bíróság által kirendelt ügygondnok ellen kell megindítani.<ujsor/>
-A per megindításának a végzés Cégközlönyben való közzétételétõl számított 30 napon belül van helye. A határidõ elmulasztása jogvesztéssel jár.<ujsor/>
-2011. október 13.<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡gnÃ¡l Cg.01-06-757792 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett ILEXE BetÃ©ti TÃ¡rsasÃ¡g &quot;vÃ©gelszÃ¡molÃ¡s alatt&quot; (1028 Budapest, KevÃ©lyhegyi u 11/a.; adÃ³szÃ¡ma: 21590221-2-41) Ã¼gyÃ©ben a bÃ­rÃ³sÃ¡g a cÃ©g megszÃ¼nÃ©sÃ©re tekintettel elrendeli a cÃ©g cÃ©gjegyzÃ©kbÅ‘l valÃ³ tÃ¶rlÃ©sÃ©t.<ujsor/>
+26. A vÃ©gelszÃ¡molÃ¡s kezdete Ã©s befejezÃ©se<ujsor/>
+BefejezÃ©se: 2011.03.11.<ujsor/>
+VÃ¡lt. kezdete: 2011.03.11.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2011. oktÃ³ber 13.<ujsor/>
+A tÃ¶rlÅ‘ vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye. A vÃ©gzÃ©s vagy az annak meghozatala alapjÃ¡ul szolgÃ¡lÃ³ iratok jogszabÃ¡lyba Ã¼tkÃ¶zÃ©se miatt az Ã¼gyÃ©sz, valamint az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s Å‘t Ã©rintÅ‘ rÃ©szÃ©re vonatkozÃ³an - pert indÃ­that a cÃ©g ellen a vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt a cÃ©g szÃ©khelye szerint illetÃ©kes megyei bÃ­rÃ³sÃ¡g elÅ‘tt.<ujsor/>
+A cÃ©g tÃ¶rlÃ©sÃ©t elrendelÅ‘ vÃ©gzÃ©s ellen a pert a bÃ­rÃ³sÃ¡g Ã¡ltal kirendelt Ã¼gygondnok ellen kell megindÃ­tani.<ujsor/>
+A per megindÃ­tÃ¡sÃ¡nak a vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l van helye. A hatÃ¡ridÅ‘ elmulasztÃ¡sa jogvesztÃ©ssel jÃ¡r.<ujsor/>
+2011. oktÃ³ber 13.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0106757792</mezo>
-<mezo id = "nev">ILEXE Betéti Társaság &apos;végelszámolás alatt&apos;</mezo>
-<mezo id = "cim">1028 Budapest, Kevélyhegyi u 11/a.</mezo>
+<mezo id = "nev">ILEXE BetÃ©ti TÃ¡rsasÃ¡g &apos;vÃ©gelszÃ¡molÃ¡s alatt&apos;</mezo>
+<mezo id = "cim">1028 Budapest, KevÃ©lyhegyi u 11/a.</mezo>
 <mezo id = "adosz">21590221241</mezo>
 </alrovat>
 </rovat>

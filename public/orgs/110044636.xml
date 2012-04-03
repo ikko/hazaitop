@@ -6,7 +6,7 @@
 <mezo id = "szam">044636</mezo>
 <mezo id = "nevalrovat">2</mezo>
 <mezo id = "regi_szh">0210060157</mezo>
-<mezo id = "cim">1106 Budapest, Fátyolka u. 8. </mezo>
+<mezo id = "cim">1106 Budapest, FÃ¡tyolka u. 8. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">11365073242</mezo>
 </alrovat>
@@ -14,7 +14,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20051118</mezo>
-<mezo id = "nev">&quot;Multi Alarm&quot; Biztonságtechnikai, Fejlesztõ, Kereskedelmi és Szolgáltató Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">&quot;Multi Alarm&quot; BiztonsÃ¡gtechnikai, FejlesztÅ‘, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -28,7 +28,7 @@
 <mezo id = "hattol">20071201</mezo>
 <mezo id = "irsz">1106</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Fátyolka u. 8.</mezo>
+<mezo id = "teru">FÃ¡tyolka u. 8.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">20071201</mezo>
 <mezo id = "valtv">0</mezo>
@@ -40,7 +40,7 @@
 <alrovat id = "3">
 <mezo id = "hattol">20071201</mezo>
 <mezo id = "irsz">1092</mezo>
-<mezo id = "hely">Budapest, Bakáts tér 2.</mezo>
+<mezo id = "hely">Budapest, BakÃ¡ts tÃ©r 2.</mezo>
 <mezo id = "valtk">20071201</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20080303</mezo>
@@ -51,27 +51,27 @@
 <alrovat id = "2">
 <mezo id = "hattol">19990210</mezo>
 <mezo id = "irsz">8230</mezo>
-<mezo id = "hely">Balatonfüred</mezo>
-<mezo id = "teru">Zrínyi</mezo>
+<mezo id = "hely">BalatonfÃ¼red</mezo>
+<mezo id = "teru">ZrÃ­nyi</mezo>
 <mezo id = "terj">utca</mezo>
 <mezo id = "hsz">11</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20050321</mezo>
 <mezo id = "irsz">8230</mezo>
-<mezo id = "hely">Balatonfüred, Zrínyi u. 11.</mezo>
+<mezo id = "hely">BalatonfÃ¼red, ZrÃ­nyi u. 11.</mezo>
 <mezo id = "orsz">HU</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20050321</mezo>
 <mezo id = "irsz">8230</mezo>
-<mezo id = "hely">Balatonfüred, Petõfi S. u. 37.</mezo>
+<mezo id = "hely">BalatonfÃ¼red, PetÅ‘fi S. u. 37.</mezo>
 <mezo id = "orsz">HU</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">20080501</mezo>
 <mezo id = "irsz">7621</mezo>
-<mezo id = "hely">Pécs, Perczel Miklós u. 12.</mezo>
+<mezo id = "hely">PÃ©cs, Perczel MiklÃ³s u. 12.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20080501</mezo>
 <mezo id = "valtv">0</mezo>
@@ -82,7 +82,7 @@
 <mezo id = "hattol">20100916</mezo>
 <mezo id = "irsz">4024</mezo>
 <mezo id = "hely">Debrecen</mezo>
-<mezo id = "teru">Pesti út 63.</mezo>
+<mezo id = "teru">Pesti Ãºt 63.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20100916</mezo>
 <mezo id = "bkelt">20101021</mezo>
@@ -90,8 +90,8 @@
 <alrovat id = "9">
 <mezo id = "hattol">20110803</mezo>
 <mezo id = "irsz">7621</mezo>
-<mezo id = "hely">Pécs</mezo>
-<mezo id = "teru">Perczel Miklós u. 15.</mezo>
+<mezo id = "hely">PÃ©cs</mezo>
+<mezo id = "teru">Perczel MiklÃ³s u. 15.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20110803</mezo>
 <mezo id = "bkelt">20110805</mezo>
@@ -99,8 +99,8 @@
 <alrovat id = "10">
 <mezo id = "hattol">20110803</mezo>
 <mezo id = "irsz">7630</mezo>
-<mezo id = "hely">Pécs</mezo>
-<mezo id = "teru">Basamalom út 33.</mezo>
+<mezo id = "hely">PÃ©cs</mezo>
+<mezo id = "teru">Basamalom Ãºt 33.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20110803</mezo>
 <mezo id = "bkelt">20110805</mezo>
@@ -907,7 +907,7 @@
 <mezo id = "hattol">20091114</mezo>
 <mezo id = "valtk">20091114</mezo>
 <mezo id = "bkelt">20091215</mezo>
-<mezo id = "teaszov">Biztonsági rendszer szolgáltatás</mezo>
+<mezo id = "teaszov">BiztonsÃ¡gi rendszer szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -922,10 +922,10 @@
 <rovat id = "13">
 <alrovat id = "13">
 <mezo id = "hattol">20070928</mezo>
-<mezo id = "pnev">Zsolt László Miklós</mezo>
+<mezo id = "pnev">Zsolt LÃ¡szlÃ³ MiklÃ³s</mezo>
 <mezo id = "panev">Muth Etelka</mezo>
 <mezo id = "pirsz">1092</mezo>
-<mezo id = "phely">Budapest, Ráday u. 18.</mezo>
+<mezo id = "phely">Budapest, RÃ¡day u. 18.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">3</mezo>
 <mezo id = "jogvk">20070725</mezo>
@@ -936,8 +936,8 @@
 </alrovat>
 <alrovat id = "14">
 <mezo id = "hattol">20070928</mezo>
-<mezo id = "pnev">Csongor Attila János</mezo>
-<mezo id = "panev">Jeles Borbála</mezo>
+<mezo id = "pnev">Csongor Attila JÃ¡nos</mezo>
+<mezo id = "panev">Jeles BorbÃ¡la</mezo>
 <mezo id = "pirsz">1092</mezo>
 <mezo id = "phely">Budapest, Rekettye u. 66.</mezo>
 <mezo id = "kepvo">x</mezo>
@@ -951,8 +951,8 @@
 </alrovat>
 <alrovat id = "18">
 <mezo id = "hattol">20100514</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (vezérigazgató)</mezo>
-<mezo id = "pnev">Zsolt László Miklós</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (vezÃ©rigazgatÃ³)</mezo>
+<mezo id = "pnev">Zsolt LÃ¡szlÃ³ MiklÃ³s</mezo>
 <mezo id = "panev">Muth Etelka</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100514</mezo>
@@ -962,9 +962,9 @@
 </alrovat>
 <alrovat id = "19">
 <mezo id = "hattol">20100514</mezo>
-<mezo id = "tiszt">cégvezetõ</mezo>
-<mezo id = "pnev">Csongor Attila János</mezo>
-<mezo id = "panev">Jeles Borbála</mezo>
+<mezo id = "tiszt">cÃ©gvezetÅ‘</mezo>
+<mezo id = "pnev">Csongor Attila JÃ¡nos</mezo>
+<mezo id = "panev">Jeles BorbÃ¡la</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100514</mezo>
 <mezo id = "valtk">20100514</mezo>
@@ -976,14 +976,14 @@
 <alrovat id = "6">
 <mezo id = "hattol">20060526</mezo>
 <mezo id = "cgjsz">209064312</mezo>
-<mezo id = "nev">P-Könyv Könyvvezetõ és Könyvvizsgáló Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">P-KÃ¶nyv KÃ¶nyvvezetÅ‘ Ã©s KÃ¶nyvvizsgÃ¡lÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">7636</mezo>
-<mezo id = "hely">Pécs, Illyés Gy. út 19.</mezo>
-<mezo id = "pnev">dr. Kovács Ágnes</mezo>
+<mezo id = "hely">PÃ©cs, IllyÃ©s Gy. Ãºt 19.</mezo>
+<mezo id = "pnev">dr. KovÃ¡cs Ãgnes</mezo>
 <mezo id = "panev">Keszthelyi Ilona</mezo>
 <mezo id = "pirsz">7636</mezo>
-<mezo id = "phely">Pécs, Illyés Gy. út . 19.</mezo>
+<mezo id = "phely">PÃ©cs, IllyÃ©s Gy. Ãºt . 19.</mezo>
 <mezo id = "jogvk">20060526</mezo>
 <mezo id = "jogvv">20070526</mezo>
 <mezo id = "valtk">0</mezo>
@@ -992,14 +992,14 @@
 <alrovat id = "8">
 <mezo id = "hattol">20070928</mezo>
 <mezo id = "cgjsz">209064312</mezo>
-<mezo id = "nev">P-Könyv Könyvvezetõ és Könyvvizsgáló Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">P-KÃ¶nyv KÃ¶nyvvezetÅ‘ Ã©s KÃ¶nyvvizsgÃ¡lÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">7636</mezo>
-<mezo id = "hely">Pécs, Illyés Gy. u. 19</mezo>
-<mezo id = "pnev">Perlainé dr. Kovács Ágnes</mezo>
+<mezo id = "hely">PÃ©cs, IllyÃ©s Gy. u. 19</mezo>
+<mezo id = "pnev">PerlainÃ© dr. KovÃ¡cs Ãgnes</mezo>
 <mezo id = "panev">Keszthelyi Ilona</mezo>
 <mezo id = "pirsz">7636</mezo>
-<mezo id = "phely">Pécs, Illyés Gy. u. 19.</mezo>
+<mezo id = "phely">PÃ©cs, IllyÃ©s Gy. u. 19.</mezo>
 <mezo id = "jogvk">20070725</mezo>
 <mezo id = "jogvv">20120531</mezo>
 <mezo id = "valtk">0</mezo>
@@ -1012,18 +1012,18 @@
 <alrovat id = "2">
 <mezo id = "hattol">20050114</mezo>
 <mezo id = "cgjsz">109719114</mezo>
-<mezo id = "nev">IDB. HUNGARY INGATLANHASZNOSÍTÓ KORLÁTOLT FELELÕSSÉGÛ TÁRSASÁG</mezo>
+<mezo id = "nev">IDB. HUNGARY INGATLANHASZNOSÃTÃ“ KORLÃTOLT FELELÅSSÃ‰GÅ° TÃRSASÃG</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20070126</mezo>
 <mezo id = "cgjsz">109666537</mezo>
-<mezo id = "nev">PALLAS VAGYONVÉDELEM Kereskedelmi és Szolgáltató Korlátolt Felelõsségü Társaság</mezo>
+<mezo id = "nev">PALLAS VAGYONVÃ‰DELEM Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÃ¼ TÃ¡rsasÃ¡g</mezo>
 <mezo id = "atdat">20060915</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20070327</mezo>
 <mezo id = "cgjsz">109698120</mezo>
-<mezo id = "nev">P-P PRI Vagyonvédelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">P-P PRI VagyonvÃ©delmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "atdat">0</mezo>
 </alrovat>
 <alrovat id = "8">
@@ -1037,7 +1037,7 @@
 <alrovat id = "9">
 <mezo id = "hattol">20090804</mezo>
 <mezo id = "cgjsz">0109918508</mezo>
-<mezo id = "nev">ALARM WACHTER MONITORING Vagyonvédelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">ALARM WACHTER MONITORING VagyonvÃ©delmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">20090804</mezo>
 <mezo id = "bkelt">20090804</mezo>
 </alrovat>
@@ -1061,13 +1061,13 @@
 <mezo id = "adosz">11365073242</mezo>
 <mezo id = "kadosz">HU11365073</mezo>
 <mezo id = "bkelt">20110809</mezo>
-<mezo id = "megj">Státusz kezdete: 1996/05/25</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 1996/05/25</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0110">
 <alrovat id = "4">
 <mezo id = "hattol">20100916</mezo>
-<mezo id = "pnev">Zsolt László Miklós</mezo>
+<mezo id = "pnev">Zsolt LÃ¡szlÃ³ MiklÃ³s</mezo>
 <mezo id = "panev">Muth Etelka</mezo>
 <mezo id = "tagsk">20100916</mezo>
 <mezo id = "sz3">x</mezo>
@@ -1084,739 +1084,739 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság által nyilvántartásba vett, 1092 Budapest, Bakáts tér 2. sz. alatti székhelyû Multi Alarm Rt. (Cg.: [01 10 044636]) és ugyancsak a Fõvárosi Bíróságnál mint Cégbíróságnál nyilvántartásba vett, 1092 Budapest, Bakáts tér 2. szám alatti székhelyû IDB-H Kft. (Cg.: [01 09 719114])<ujsor/>
-egyesül.<ujsor/>
-Az egyesülés módja: beolvadás.<ujsor/>
-A beolvadással a Gt. 73. § (1) bekezdése alapján az IDB-H Kft. (mint beolvadó gazdasági társaság) megszûnik és annak vagyona a Multi Alarm Rt.-re (mind átvevõ gazdasági társaság) mint jogutódra száll át, amelynek társasági formája változatlan marad. A beolvadás fordulónapja a cégbejegyzést követõ nap [Gt. 60. § (4) bekezdés].<ujsor/>
-A jogutód gazdasági társaság társasági szerzõdés módosítás, valamint az egyesülési szerzõdés aláírásának napja: 2004. június 30.<ujsor/>
-Az átvevõ Multi Alarm Rt. vagyonmérleg-tervezetének legfontosabb adatai az átalakulás elõtt:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 299 684 Saját tõke 440 211<ujsor/>
-Forgóeszközök 337 131 Jegyzett tõke 100 000<ujsor/>
-Készletek 135 639 Tõketartalék –<ujsor/>
-Követelések 148 350 Eredménytartalék 319 561<ujsor/>
-Értékpapírok – Lekötött tartalék 20 650<ujsor/>
-Pénzeszközök 53 142 Céltartalékok –<ujsor/>
-Aktív idõbeli elhat. – Kötelezettségek 196 604<ujsor/>
-Passzív idõbeli elhat.<ujsor/>
-ÖSSZESEN: 636 815 ÖSSZESEN: 636 815<ujsor/>
-A jogelõd beolvadó IDB-H Kft. vagyonmérleg-tervezetének legfontosabb adatai az átalakulás elõtt:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 44 882 Saját tõke 99 076<ujsor/>
-Forgóeszközök 59 496 Jegyzett tõke 49 990<ujsor/>
-Készletek – Tõketartalék –<ujsor/>
-Követelések 58 422 Eredménytartalék 35 027<ujsor/>
-Értékpapírok – Lekötött tartalék 14 059<ujsor/>
-Pénzeszközök 1 074 Céltartalékok –<ujsor/>
-Aktív idõbeli elhat. – Kötelezettségek 5 302<ujsor/>
-Passzív idõbeli elhat.<ujsor/>
-ÖSSZESEN: 104 378 ÖSSZESEN: 104 378<ujsor/>
-A jogutód Multi Alarm Rt. vagyonmérleg-tervezetének legfontosabb adatai az átalakuláskor:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 344 466 Saját tõke 539 187<ujsor/>
-Forgóeszközök 342 423 Jegyzett tõke 149 890<ujsor/>
-Készletek 135 639 Tõketartalék –<ujsor/>
-Követelések 152 568 Eredménytartalék 354 588<ujsor/>
-Értékpapírok – Lekötött tartalék 34 709<ujsor/>
-Pénzeszközök 54 216 Céltartalékok –<ujsor/>
-Aktív idõbeli elhat. – Kötelezettségek 147 702<ujsor/>
-Passzív idõbeli elhat.<ujsor/>
-ÖSSZESEN: 686 889 ÖSSZESEN: 686 889<ujsor/>
-A jogutód (átvevõ) gazdasági társaság fõbb adatai:<ujsor/>
-Formája: részvénytársaság.<ujsor/>
-Neve: „Multi Alarm” Biztonságtechnikai, Fejlesztõ, Kereskedelmi és Szolgáltató Részvénytársaság.<ujsor/>
-Névrövidítésre használt címszó: „Multi Alarm” Rt.<ujsor/>
-Székhelye: 1092 Budapest, Bakáts tér 2.<ujsor/>
-Fõ tevékenysége (TEÁOR ‘03): 7460 Nyomozási, biztonsági tevékenység.<ujsor/>
-A társaság jegyzett tõkéje: 149 890 000 Ft (egyszáznegyvenkilencmillió-nyolcszázkilencvenezer forint), ebbõl 101 900 000 Ft készpénz és 47 990 000 Ft apport.<ujsor/>
-Jogutód rt. (beolvadás) mûködése megkezdésének idõpontja – a Gt. 60. § (4) bekezdése szerint – a cégbejegyzést követõ nap.<ujsor/>
-A részvények típusa, fajtája (osztálya) és névértéke:<ujsor/>
-A részvények típusa: névre szóló.<ujsor/>
-A részvények fajtája: minden tekintetben egyenlõ törzsrészvény.<ujsor/>
-A részvények névértéke: 149 db, egyenként 1 000 000 Ft névértékû,<ujsor/>
-8 db, egyenként 100 000 Ft névértékû,<ujsor/>
-9 db, egyenként 10 000 Ft névértékû dematerializált részvény.<ujsor/>
-A létrejövõ gazdasági társaság vezetõ tisztségviselõje Zsolt László vezérigazgató (1141 Budapest, Jerney u. 27.).<ujsor/>
-A Gt. 244. § alapján igazgatóság választására nem kerül sor.<ujsor/>
-A létrejövõ gazdasági társaság felügyelõbizottság tagjai: Rádóczy László (7621 Pécs, Munkácsy M. u. 39.), dr. Garai Attila (7632 Pécs, Littke J. u. 6. IV. 13.), Nagy Kálmán (3314 Harbor, Blvd. Port Charlotte, FL 33952 USA, magyarországi tartózkodási hely: 8220 Balatonalmádi, Mandula u. 14.).<ujsor/>
-Felhívjuk a társaság hitelezõit, hogy követeléseiket a Gt. 66. §-a alapján a társaságnak jelentsék be.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g Ã¡ltal nyilvÃ¡ntartÃ¡sba vett, 1092 Budapest, BakÃ¡ts tÃ©r 2. sz. alatti szÃ©khelyÅ± Multi Alarm Rt. (Cg.: [01 10 044636]) Ã©s ugyancsak a FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡gnÃ¡l mint CÃ©gbÃ­rÃ³sÃ¡gnÃ¡l nyilvÃ¡ntartÃ¡sba vett, 1092 Budapest, BakÃ¡ts tÃ©r 2. szÃ¡m alatti szÃ©khelyÅ± IDB-H Kft. (Cg.: [01 09 719114])<ujsor/>
+egyesÃ¼l.<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: beolvadÃ¡s.<ujsor/>
+A beolvadÃ¡ssal a Gt. 73. Â§ (1) bekezdÃ©se alapjÃ¡n az IDB-H Kft. (mint beolvadÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g) megszÅ±nik Ã©s annak vagyona a Multi Alarm Rt.-re (mind Ã¡tvevÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g) mint jogutÃ³dra szÃ¡ll Ã¡t, amelynek tÃ¡rsasÃ¡gi formÃ¡ja vÃ¡ltozatlan marad. A beolvadÃ¡s fordulÃ³napja a cÃ©gbejegyzÃ©st kÃ¶vetÅ‘ nap [Gt. 60. Â§ (4) bekezdÃ©s].<ujsor/>
+A jogutÃ³d gazdasÃ¡gi tÃ¡rsasÃ¡g tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s mÃ³dosÃ­tÃ¡s, valamint az egyesÃ¼lÃ©si szerzÅ‘dÃ©s alÃ¡Ã­rÃ¡sÃ¡nak napja: 2004. jÃºnius 30.<ujsor/>
+Az Ã¡tvevÅ‘ Multi Alarm Rt. vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai az Ã¡talakulÃ¡s elÅ‘tt:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 299 684 SajÃ¡t tÅ‘ke 440 211<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 337 131 Jegyzett tÅ‘ke 100 000<ujsor/>
+KÃ©szletek 135 639 TÅ‘ketartalÃ©k â€“<ujsor/>
+KÃ¶vetelÃ©sek 148 350 EredmÃ©nytartalÃ©k 319 561<ujsor/>
+Ã‰rtÃ©kpapÃ­rok â€“ LekÃ¶tÃ¶tt tartalÃ©k 20 650<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 53 142 CÃ©ltartalÃ©kok â€“<ujsor/>
+AktÃ­v idÅ‘beli elhat. â€“ KÃ¶telezettsÃ©gek 196 604<ujsor/>
+PasszÃ­v idÅ‘beli elhat.<ujsor/>
+Ã–SSZESEN: 636 815 Ã–SSZESEN: 636 815<ujsor/>
+A jogelÅ‘d beolvadÃ³ IDB-H Kft. vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai az Ã¡talakulÃ¡s elÅ‘tt:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 44 882 SajÃ¡t tÅ‘ke 99 076<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 59 496 Jegyzett tÅ‘ke 49 990<ujsor/>
+KÃ©szletek â€“ TÅ‘ketartalÃ©k â€“<ujsor/>
+KÃ¶vetelÃ©sek 58 422 EredmÃ©nytartalÃ©k 35 027<ujsor/>
+Ã‰rtÃ©kpapÃ­rok â€“ LekÃ¶tÃ¶tt tartalÃ©k 14 059<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 1 074 CÃ©ltartalÃ©kok â€“<ujsor/>
+AktÃ­v idÅ‘beli elhat. â€“ KÃ¶telezettsÃ©gek 5 302<ujsor/>
+PasszÃ­v idÅ‘beli elhat.<ujsor/>
+Ã–SSZESEN: 104 378 Ã–SSZESEN: 104 378<ujsor/>
+A jogutÃ³d Multi Alarm Rt. vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai az Ã¡talakulÃ¡skor:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 344 466 SajÃ¡t tÅ‘ke 539 187<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 342 423 Jegyzett tÅ‘ke 149 890<ujsor/>
+KÃ©szletek 135 639 TÅ‘ketartalÃ©k â€“<ujsor/>
+KÃ¶vetelÃ©sek 152 568 EredmÃ©nytartalÃ©k 354 588<ujsor/>
+Ã‰rtÃ©kpapÃ­rok â€“ LekÃ¶tÃ¶tt tartalÃ©k 34 709<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 54 216 CÃ©ltartalÃ©kok â€“<ujsor/>
+AktÃ­v idÅ‘beli elhat. â€“ KÃ¶telezettsÃ©gek 147 702<ujsor/>
+PasszÃ­v idÅ‘beli elhat.<ujsor/>
+Ã–SSZESEN: 686 889 Ã–SSZESEN: 686 889<ujsor/>
+A jogutÃ³d (Ã¡tvevÅ‘) gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘bb adatai:<ujsor/>
+FormÃ¡ja: rÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+Neve: â€Multi Alarmâ€ BiztonsÃ¡gtechnikai, FejlesztÅ‘, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+NÃ©vrÃ¶vidÃ­tÃ©sre hasznÃ¡lt cÃ­mszÃ³: â€Multi Alarmâ€ Rt.<ujsor/>
+SzÃ©khelye: 1092 Budapest, BakÃ¡ts tÃ©r 2.<ujsor/>
+FÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€˜03): 7460 NyomozÃ¡si, biztonsÃ¡gi tevÃ©kenysÃ©g.<ujsor/>
+A tÃ¡rsasÃ¡g jegyzett tÅ‘kÃ©je: 149 890 000 Ft (egyszÃ¡znegyvenkilencmilliÃ³-nyolcszÃ¡zkilencvenezer forint), ebbÅ‘l 101 900 000 Ft kÃ©szpÃ©nz Ã©s 47 990 000 Ft apport.<ujsor/>
+JogutÃ³d rt. (beolvadÃ¡s) mÅ±kÃ¶dÃ©se megkezdÃ©sÃ©nek idÅ‘pontja â€“ a Gt. 60. Â§ (4) bekezdÃ©se szerint â€“ a cÃ©gbejegyzÃ©st kÃ¶vetÅ‘ nap.<ujsor/>
+A rÃ©szvÃ©nyek tÃ­pusa, fajtÃ¡ja (osztÃ¡lya) Ã©s nÃ©vÃ©rtÃ©ke:<ujsor/>
+A rÃ©szvÃ©nyek tÃ­pusa: nÃ©vre szÃ³lÃ³.<ujsor/>
+A rÃ©szvÃ©nyek fajtÃ¡ja: minden tekintetben egyenlÅ‘ tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+A rÃ©szvÃ©nyek nÃ©vÃ©rtÃ©ke: 149 db, egyenkÃ©nt 1 000 000 Ft nÃ©vÃ©rtÃ©kÅ±,<ujsor/>
+8 db, egyenkÃ©nt 100 000 Ft nÃ©vÃ©rtÃ©kÅ±,<ujsor/>
+9 db, egyenkÃ©nt 10 000 Ft nÃ©vÃ©rtÃ©kÅ± dematerializÃ¡lt rÃ©szvÃ©ny.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘je Zsolt LÃ¡szlÃ³ vezÃ©rigazgatÃ³ (1141 Budapest, Jerney u. 27.).<ujsor/>
+A Gt. 244. Â§ alapjÃ¡n igazgatÃ³sÃ¡g vÃ¡lasztÃ¡sÃ¡ra nem kerÃ¼l sor.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g felÃ¼gyelÅ‘bizottsÃ¡g tagjai: RÃ¡dÃ³czy LÃ¡szlÃ³ (7621 PÃ©cs, MunkÃ¡csy M. u. 39.), dr. Garai Attila (7632 PÃ©cs, Littke J. u. 6. IV. 13.), Nagy KÃ¡lmÃ¡n (3314 Harbor, Blvd. Port Charlotte, FL 33952 USA, magyarorszÃ¡gi tartÃ³zkodÃ¡si hely: 8220 BalatonalmÃ¡di, Mandula u. 14.).<ujsor/>
+FelhÃ­vjuk a tÃ¡rsasÃ¡g hitelezÅ‘it, hogy kÃ¶vetelÃ©seiket a Gt. 66. Â§-a alapjÃ¡n a tÃ¡rsasÃ¡gnak jelentsÃ©k be.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044636</mezo>
-<mezo id = "nev">&quot;Multi Alarm&quot; Biztonságtechnikai, Fejlesztõ, Kereskedelmi és Szolgáltató Részvénytársaság</mezo>
-<mezo id = "cim">1092 Budapest, Bakács tér 2. </mezo>
+<mezo id = "nev">&quot;Multi Alarm&quot; BiztonsÃ¡gtechnikai, FejlesztÅ‘, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1092 Budapest, BakÃ¡cs tÃ©r 2. </mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság által nyilvántartásba vett, 1092 Budapest, Bakáts tér 2. sz. alatti székhelyû Multi Alarm Rt. (Cg.: [01 10 044636]) és ugyancsak a Fõvárosi Bíróságnál mint Cégbíróságnál nyilvántartásba vett, 1092 Budapest, Bakáts tér 2. szám alatti székhelyû IDB-H Kft. (Cg.: [01 09 719114])<ujsor/>
-egyesül.<ujsor/>
-Az egyesülés módja: beolvadás.<ujsor/>
-A beolvadással a Gt. 73. § (1) bekezdése alapján az IDB-H Kft. (mint beolvadó gazdasági társaság) megszûnik és annak vagyona a Multi Alarm Rt.-re (mint átvevõ gazdasági társaság) mint jogutódra száll át, amelynek társasági formája változatlan marad. A beolvadás fordulónapja a cégbejegyzést követõ nap [Gt. 60. § (4) bekezdés].<ujsor/>
-A jogutód gazdasági társaság társasági szerzõdés módosítás, valamint az egyesülési szerzõdés aláírásának napja: 2004. június 30.<ujsor/>
-Az átvevõ Multi Alarm Rt. vagyonmérleg-tervezetének legfontosabb adatai az átalakulás elõtt:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 299 684 Saját tõke 440 211<ujsor/>
-Forgóeszközök 337 131 Jegyzett tõke 100 000<ujsor/>
-Készletek 135 639 Tõketartalék –<ujsor/>
-Követelések 148 350 Eredménytartalék 319 561<ujsor/>
-Értékpapírok – Lekötött tartalék 20 650<ujsor/>
-Pénzeszközök 53 142 Céltartalékok –<ujsor/>
-Aktív idõbeli elhat. – Kötelezettségek 196 604<ujsor/>
-Passzív idõbeli elhat.<ujsor/>
-ÖSSZESEN: 636 815 ÖSSZESEN: 636 815<ujsor/>
-A jogelõd beolvadó IDB-H Kft. vagyonmérleg-tervezetének legfontosabb adatai az átalakulás elõtt:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 44 882 Saját tõke 99 076<ujsor/>
-Forgóeszközök 59 496 Jegyzett tõke 49 990<ujsor/>
-Készletek – Tõketartalék –<ujsor/>
-Követelések 58 422 Eredménytartalék 35 027<ujsor/>
-Értékpapírok – Lekötött tartalék 14 059<ujsor/>
-Pénzeszközök 1 074 Céltartalékok –<ujsor/>
-Aktív idõbeli elhat. – Kötelezettségek 5 302<ujsor/>
-Passzív idõbeli elhat.<ujsor/>
-ÖSSZESEN: 104 378 ÖSSZESEN: 104 378<ujsor/>
-A jogutód Multi Alarm Rt. vagyonmérleg-tervezetének legfontosabb adatai az átalakuláskor:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 344 466 Saját tõke 539 187<ujsor/>
-Forgóeszközök 342 423 Jegyzett tõke 149 890<ujsor/>
-Készletek 135 639 Tõketartalék –<ujsor/>
-Követelések 152 568 Eredménytartalék 354 588<ujsor/>
-Értékpapírok – Lekötött tartalék 34 709<ujsor/>
-Pénzeszközök 54 216 Céltartalékok –<ujsor/>
-Aktív idõbeli elhat. – Kötelezettségek 147 702<ujsor/>
-Passzív idõbeli elhat.<ujsor/>
-ÖSSZESEN: 686 889 ÖSSZESEN: 686 889<ujsor/>
-A jogutód (átvevõ) gazdasági társaság fõbb adatai:<ujsor/>
-Formája: részvénytársaság.<ujsor/>
-Neve: ,,Multi Alarm” Biztonságtechnikai, Fejlesztõ, Kereskedelmi és Szolgáltató Részvénytársaság.<ujsor/>
-Névrövidítésre használt címszó: ,,Multi Alarm” Rt.<ujsor/>
-Székhelye: 1092 Budapest, Bakáts tér 2.<ujsor/>
-Fõ tevékenysége (TEÁOR ’03): 7460 Nyomozási, biztonsági tevékenység.<ujsor/>
-A társaság jegyzett tõkéje: 149 890 000 Ft (egyszáznegyvenkilencmillió-nyolcszázkilencvenezer forint), ebbõl 101 900 000 Ft készpénz és 47 990 000 Ft apport.<ujsor/>
-Jogutód rt. (beolvadás) mûködése megkezdésének idõpontja – a Gt. 60. § (4) bekezdése szerint – a cégbejegyzést követõ nap.<ujsor/>
-A részvények típusa, fajtája (osztálya) és névértéke:<ujsor/>
-A részvények típusa: névre szóló.<ujsor/>
-A részvények fajtája: minden tekintetben egyenlõ törzsrészvény.<ujsor/>
-A részvények névértéke: 149 db, egyenként 1 000 000 Ft névértékû,<ujsor/>
-8 db, egyenként 100 000 Ft névértékû,<ujsor/>
-9 db, egyenként 10 000 Ft névértékû dematerializált részvény.<ujsor/>
-A létrejövõ gazdasági társaság vezetõ tisztségviselõje: Zsolt László vezérigazgató (1141 Budapest, Jerney u. 27.).<ujsor/>
-A Gt. 244. § alapján igazgatóság választására nem kerül sor.<ujsor/>
-A létrejövõ gazdasági társaság felügyelõbizottság tagjai: Rádóczy László (7621 Pécs, Munkácsy M. u. 39.), dr. Garai Attila (7632 Pécs, Littke J. u. 6. IV. 13.), Nagy Kálmán (3314 Harbor, Blvd. Port Charlotte, FL 33952 USA, magyarországi tartózkodási hely: 8220 Balatonalmádi, Mandula u. 14.).<ujsor/>
-Felhívjuk a társaság hitelezõit, hogy követeléseiket a Gt. 66. §-a alapján a társaságnak jelentsék be.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g Ã¡ltal nyilvÃ¡ntartÃ¡sba vett, 1092 Budapest, BakÃ¡ts tÃ©r 2. sz. alatti szÃ©khelyÅ± Multi Alarm Rt. (Cg.: [01 10 044636]) Ã©s ugyancsak a FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡gnÃ¡l mint CÃ©gbÃ­rÃ³sÃ¡gnÃ¡l nyilvÃ¡ntartÃ¡sba vett, 1092 Budapest, BakÃ¡ts tÃ©r 2. szÃ¡m alatti szÃ©khelyÅ± IDB-H Kft. (Cg.: [01 09 719114])<ujsor/>
+egyesÃ¼l.<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: beolvadÃ¡s.<ujsor/>
+A beolvadÃ¡ssal a Gt. 73. Â§ (1) bekezdÃ©se alapjÃ¡n az IDB-H Kft. (mint beolvadÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g) megszÅ±nik Ã©s annak vagyona a Multi Alarm Rt.-re (mint Ã¡tvevÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g) mint jogutÃ³dra szÃ¡ll Ã¡t, amelynek tÃ¡rsasÃ¡gi formÃ¡ja vÃ¡ltozatlan marad. A beolvadÃ¡s fordulÃ³napja a cÃ©gbejegyzÃ©st kÃ¶vetÅ‘ nap [Gt. 60. Â§ (4) bekezdÃ©s].<ujsor/>
+A jogutÃ³d gazdasÃ¡gi tÃ¡rsasÃ¡g tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s mÃ³dosÃ­tÃ¡s, valamint az egyesÃ¼lÃ©si szerzÅ‘dÃ©s alÃ¡Ã­rÃ¡sÃ¡nak napja: 2004. jÃºnius 30.<ujsor/>
+Az Ã¡tvevÅ‘ Multi Alarm Rt. vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai az Ã¡talakulÃ¡s elÅ‘tt:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 299 684 SajÃ¡t tÅ‘ke 440 211<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 337 131 Jegyzett tÅ‘ke 100 000<ujsor/>
+KÃ©szletek 135 639 TÅ‘ketartalÃ©k â€“<ujsor/>
+KÃ¶vetelÃ©sek 148 350 EredmÃ©nytartalÃ©k 319 561<ujsor/>
+Ã‰rtÃ©kpapÃ­rok â€“ LekÃ¶tÃ¶tt tartalÃ©k 20 650<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 53 142 CÃ©ltartalÃ©kok â€“<ujsor/>
+AktÃ­v idÅ‘beli elhat. â€“ KÃ¶telezettsÃ©gek 196 604<ujsor/>
+PasszÃ­v idÅ‘beli elhat.<ujsor/>
+Ã–SSZESEN: 636 815 Ã–SSZESEN: 636 815<ujsor/>
+A jogelÅ‘d beolvadÃ³ IDB-H Kft. vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai az Ã¡talakulÃ¡s elÅ‘tt:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 44 882 SajÃ¡t tÅ‘ke 99 076<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 59 496 Jegyzett tÅ‘ke 49 990<ujsor/>
+KÃ©szletek â€“ TÅ‘ketartalÃ©k â€“<ujsor/>
+KÃ¶vetelÃ©sek 58 422 EredmÃ©nytartalÃ©k 35 027<ujsor/>
+Ã‰rtÃ©kpapÃ­rok â€“ LekÃ¶tÃ¶tt tartalÃ©k 14 059<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 1 074 CÃ©ltartalÃ©kok â€“<ujsor/>
+AktÃ­v idÅ‘beli elhat. â€“ KÃ¶telezettsÃ©gek 5 302<ujsor/>
+PasszÃ­v idÅ‘beli elhat.<ujsor/>
+Ã–SSZESEN: 104 378 Ã–SSZESEN: 104 378<ujsor/>
+A jogutÃ³d Multi Alarm Rt. vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai az Ã¡talakulÃ¡skor:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 344 466 SajÃ¡t tÅ‘ke 539 187<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 342 423 Jegyzett tÅ‘ke 149 890<ujsor/>
+KÃ©szletek 135 639 TÅ‘ketartalÃ©k â€“<ujsor/>
+KÃ¶vetelÃ©sek 152 568 EredmÃ©nytartalÃ©k 354 588<ujsor/>
+Ã‰rtÃ©kpapÃ­rok â€“ LekÃ¶tÃ¶tt tartalÃ©k 34 709<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 54 216 CÃ©ltartalÃ©kok â€“<ujsor/>
+AktÃ­v idÅ‘beli elhat. â€“ KÃ¶telezettsÃ©gek 147 702<ujsor/>
+PasszÃ­v idÅ‘beli elhat.<ujsor/>
+Ã–SSZESEN: 686 889 Ã–SSZESEN: 686 889<ujsor/>
+A jogutÃ³d (Ã¡tvevÅ‘) gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘bb adatai:<ujsor/>
+FormÃ¡ja: rÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+Neve: ,,Multi Alarmâ€ BiztonsÃ¡gtechnikai, FejlesztÅ‘, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+NÃ©vrÃ¶vidÃ­tÃ©sre hasznÃ¡lt cÃ­mszÃ³: ,,Multi Alarmâ€ Rt.<ujsor/>
+SzÃ©khelye: 1092 Budapest, BakÃ¡ts tÃ©r 2.<ujsor/>
+FÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™03): 7460 NyomozÃ¡si, biztonsÃ¡gi tevÃ©kenysÃ©g.<ujsor/>
+A tÃ¡rsasÃ¡g jegyzett tÅ‘kÃ©je: 149 890 000 Ft (egyszÃ¡znegyvenkilencmilliÃ³-nyolcszÃ¡zkilencvenezer forint), ebbÅ‘l 101 900 000 Ft kÃ©szpÃ©nz Ã©s 47 990 000 Ft apport.<ujsor/>
+JogutÃ³d rt. (beolvadÃ¡s) mÅ±kÃ¶dÃ©se megkezdÃ©sÃ©nek idÅ‘pontja â€“ a Gt. 60. Â§ (4) bekezdÃ©se szerint â€“ a cÃ©gbejegyzÃ©st kÃ¶vetÅ‘ nap.<ujsor/>
+A rÃ©szvÃ©nyek tÃ­pusa, fajtÃ¡ja (osztÃ¡lya) Ã©s nÃ©vÃ©rtÃ©ke:<ujsor/>
+A rÃ©szvÃ©nyek tÃ­pusa: nÃ©vre szÃ³lÃ³.<ujsor/>
+A rÃ©szvÃ©nyek fajtÃ¡ja: minden tekintetben egyenlÅ‘ tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+A rÃ©szvÃ©nyek nÃ©vÃ©rtÃ©ke: 149 db, egyenkÃ©nt 1 000 000 Ft nÃ©vÃ©rtÃ©kÅ±,<ujsor/>
+8 db, egyenkÃ©nt 100 000 Ft nÃ©vÃ©rtÃ©kÅ±,<ujsor/>
+9 db, egyenkÃ©nt 10 000 Ft nÃ©vÃ©rtÃ©kÅ± dematerializÃ¡lt rÃ©szvÃ©ny.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘je: Zsolt LÃ¡szlÃ³ vezÃ©rigazgatÃ³ (1141 Budapest, Jerney u. 27.).<ujsor/>
+A Gt. 244. Â§ alapjÃ¡n igazgatÃ³sÃ¡g vÃ¡lasztÃ¡sÃ¡ra nem kerÃ¼l sor.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g felÃ¼gyelÅ‘bizottsÃ¡g tagjai: RÃ¡dÃ³czy LÃ¡szlÃ³ (7621 PÃ©cs, MunkÃ¡csy M. u. 39.), dr. Garai Attila (7632 PÃ©cs, Littke J. u. 6. IV. 13.), Nagy KÃ¡lmÃ¡n (3314 Harbor, Blvd. Port Charlotte, FL 33952 USA, magyarorszÃ¡gi tartÃ³zkodÃ¡si hely: 8220 BalatonalmÃ¡di, Mandula u. 14.).<ujsor/>
+FelhÃ­vjuk a tÃ¡rsasÃ¡g hitelezÅ‘it, hogy kÃ¶vetelÃ©seiket a Gt. 66. Â§-a alapjÃ¡n a tÃ¡rsasÃ¡gnak jelentsÃ©k be.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044636</mezo>
-<mezo id = "nev">&quot;Multi Alarm&quot; Biztonságtechnikai, Fejlesztõ, Kereskedelmi és Szolgáltató Részvénytársaság</mezo>
-<mezo id = "cim">1092 Budapest, Bakács tér 2. </mezo>
+<mezo id = "nev">&quot;Multi Alarm&quot; BiztonsÃ¡gtechnikai, FejlesztÅ‘, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1092 Budapest, BakÃ¡cs tÃ©r 2. </mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2005. 04. 08-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-07. HU 8230 Balatonfüred, Zrínyi utca 11.<ujsor/>
- HU 8230 Balatonfüred, Zrínyi u. 11.<ujsor/>
- Törölve: 2005. 03. 21-i hatállyal.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2005. 04. 08-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+07. HU 8230 BalatonfÃ¼red, ZrÃ­nyi utca 11.<ujsor/>
+ HU 8230 BalatonfÃ¼red, ZrÃ­nyi u. 11.<ujsor/>
+ TÃ¶rÃ¶lve: 2005. 03. 21-i hatÃ¡llyal.<ujsor/>
 Bejegyezve: 2005. 06. 03.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044636</mezo>
-<mezo id = "nev">&quot;Multi Alarm&quot; Biztonságtechnikai, Fejlesztõ, Kereskedelmi és Szolgáltató Részvénytársaság</mezo>
-<mezo id = "cim">1092 Budapest, Bakács tér 2.</mezo>
+<mezo id = "nev">&quot;Multi Alarm&quot; BiztonsÃ¡gtechnikai, FejlesztÅ‘, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1092 Budapest, BakÃ¡cs tÃ©r 2.</mezo>
 <mezo id = "adosz">11365073243</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Multi Alarm Zrt. (Cg.: [01 10 044636]; 1092 Budapest, Bakáts tér 2.) és a PALLAS VAGYONVÉDELEM Kft. (Cg.: [01 09 666537]; 1092 Budapest, Bakáts tér 2.) a 2006. évi IV. tv. 69. §-a és 77­81. § rendelkezései alapján az alábbi közleményt teszi közzé:<ujsor/>
-A Multi Alarm Zrt. és a PALLAS VAGYONVÉDELEM Kft.<ujsor/>
-egyesül.<ujsor/>
-Az egyesülés módja: beolvadás.<ujsor/>
-A beolvadással a Gt. 81. § (1) bekezdése alapján a PALLAS VAGYONVÉDELEM Kft. (mint beolvadó gazdasági társaság) megszûnik, és annak vagyona a Multi Alarm Zrt.-re (mint átvevõ gazdasági társaság) mint jogutódra száll át, amelynek társasági formája változatlan marad. A beolvadás fordulónapja (átalakuláshoz fûzõdõ joghatások beállásának a napja) a cégbejegyzés napja [Gt. 74. § (6) bekezdés, Ctv. 57. § (2) bekezdés].<ujsor/>
-A jogutód gazdasági társaság alapszabály-módosítása, valamint az egyesülési szerzõdés aláírásának napja: 2006. szeptember 15.<ujsor/>
-Az átvevõ Multi Alarm Zrt. záró vagyonmérleg-tervezetének legfontosabb adatai az átalakulás elõtt, 2006. augusztus 31-én (mérlegfordulónap):<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 654 600 Saját tõke 866 561<ujsor/>
-Forgóeszközök 409 691 Jegyzett tõke 149 890<ujsor/>
-Készletek 200 188 Tõketartalék<ujsor/>
-Követelések 173 320 Eredménytartalék 706 671<ujsor/>
-Értékpapírok Lekötött tartalék 10 000<ujsor/>
-Pénzeszközök 36 183 Céltartalékok<ujsor/>
-Aktív idõbeli elhatárolások Kötelezettségek 181 742<ujsor/>
-Passzív idõbeli elhatárolások 15 988<ujsor/>
-ÖSSZESEN: 1 064 291 ÖSSZESEN: 1 064 291<ujsor/>
-A jogelõd, beolvadó PALLAS VAGYONVÉDELEM Kft. záró vagyonmérleg-tervezetének legfontosabb adatai az átalakulás elõtt, 2006. augusztus 31-én (mérlegfordulónap):<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 98 Saját tõke 6 759<ujsor/>
-Forgóeszközök 9 940 Jegyzett tõke 3 000<ujsor/>
-Készletek Tõketartalék<ujsor/>
-Követelések 3 430 Eredménytartalék 3 759<ujsor/>
-Értékpapírok Lekötött tartalék<ujsor/>
-Pénzeszközök 6 510 Céltartalékok<ujsor/>
-Aktív idõbeli elhatárolások Kötelezettségek 3 279<ujsor/>
-Passzív idõbeli elhatárolások<ujsor/>
-ÖSSZESEN: 10 038 ÖSSZESEN: 10 038<ujsor/>
-A jogutód Multi Alarm Zrt. nyitó vagyonmérleg-tervezetének legfontosabb adatai az átalakuláskor:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 647 939 Saját tõke 866 561<ujsor/>
-Forgóeszközök 419 631 Jegyzett tõke 149 890<ujsor/>
-Készletek 200 188 Tõketartalék<ujsor/>
-Követelések 176 750 Eredménytartalék 706 671<ujsor/>
-Értékpapírok Lekötött tartalék 10 000<ujsor/>
-Pénzeszközök 42 693 Céltartalékok<ujsor/>
-Aktív idõbeli elhatárolások Kötelezettségek 185 021<ujsor/>
-Passzív idõbeli elhatárolások 15 988<ujsor/>
-ÖSSZESEN: 1 067 570 ÖSSZESEN: 1 067 570<ujsor/>
-Az átalakulással érintett gazdasági társaságok az átértékelés lehetõségével nem éltek.<ujsor/>
-A jogutód (átvevõ) gazdasági társaság fõbb adatai:<ujsor/>
-Formája: zártkörûen mûködõ részvénytársaság.<ujsor/>
-Neve: ,,Multi Alarm” Biztonságtechnikai, Fejlesztõ, Kereskedelmi és Szolgáltató Zártkörûen Mûködõ Részvénytársaság.<ujsor/>
-Névrövidítésre használt címszó: ,,Multi” Alarm Zrt.<ujsor/>
-Székhelye: 1092 Budapest, Bakáts tér 2.<ujsor/>
-Fõ tevékenysége (TEÁOR ’03): 7460 Nyomozási, biztonsági tevékenység.<ujsor/>
-A társaság jegyzett tõkéje: 149 890 000 Ft (egyszáznegyvenkilencmillió-nyolcszázkilencvenezer forint).<ujsor/>
-A részvények fajtája (Gt. 292. §): névre szóló törzsrészvények.<ujsor/>
-A részvények névértéke összesen: 149 890 000 Ft (egyszáznegyvenkilencmillió-nyolcszázkilencvenezer forint), mely áll 149 db (egyszáznegyvenkilenc darab), egyenként 1 000 000 Ft névértékû, névre szóló, 8 db (nyolc darab), egyenként 100 000 Ft névértékû, névre szóló, 9 db (kilenc darab), egyenként 10 000 Ft névértékû, névre szóló részvénybõl.<ujsor/>
-Jogutód rt. (beolvadás) mûködése megkezdésének idõpontja ­ a Gt. 74. § (6) bekezdése szerint ­ a cégbejegyzés napja.<ujsor/>
-A létrejövõ gazdasági társaság vezetõ tisztségviselõje (vezérigazgató): Zsolt László (1141 Budapest, Jerney u. 27.).<ujsor/>
-A Gt. 247. § alapján igazgatóság választására nem kerül sor.<ujsor/>
-Felhívjuk a társaság hitelezõit, hogy követeléseiket a Gt. 76. § (2) bekezdése alapján a társaságnak a második közzétételtõl számított 30 napon belül jelentsék be.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">A Multi Alarm Zrt. (Cg.: [01 10 044636]; 1092 Budapest, BakÃ¡ts tÃ©r 2.) Ã©s a PALLAS VAGYONVÃ‰DELEM Kft. (Cg.: [01 09 666537]; 1092 Budapest, BakÃ¡ts tÃ©r 2.) a 2006. Ã©vi IV. tv. 69. Â§-a Ã©s 77Â­81. Â§ rendelkezÃ©sei alapjÃ¡n az alÃ¡bbi kÃ¶zlemÃ©nyt teszi kÃ¶zzÃ©:<ujsor/>
+A Multi Alarm Zrt. Ã©s a PALLAS VAGYONVÃ‰DELEM Kft.<ujsor/>
+egyesÃ¼l.<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: beolvadÃ¡s.<ujsor/>
+A beolvadÃ¡ssal a Gt. 81. Â§ (1) bekezdÃ©se alapjÃ¡n a PALLAS VAGYONVÃ‰DELEM Kft. (mint beolvadÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g) megszÅ±nik, Ã©s annak vagyona a Multi Alarm Zrt.-re (mint Ã¡tvevÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g) mint jogutÃ³dra szÃ¡ll Ã¡t, amelynek tÃ¡rsasÃ¡gi formÃ¡ja vÃ¡ltozatlan marad. A beolvadÃ¡s fordulÃ³napja (Ã¡talakulÃ¡shoz fÅ±zÅ‘dÅ‘ joghatÃ¡sok beÃ¡llÃ¡sÃ¡nak a napja) a cÃ©gbejegyzÃ©s napja [Gt. 74. Â§ (6) bekezdÃ©s, Ctv. 57. Â§ (2) bekezdÃ©s].<ujsor/>
+A jogutÃ³d gazdasÃ¡gi tÃ¡rsasÃ¡g alapszabÃ¡ly-mÃ³dosÃ­tÃ¡sa, valamint az egyesÃ¼lÃ©si szerzÅ‘dÃ©s alÃ¡Ã­rÃ¡sÃ¡nak napja: 2006. szeptember 15.<ujsor/>
+Az Ã¡tvevÅ‘ Multi Alarm Zrt. zÃ¡rÃ³ vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai az Ã¡talakulÃ¡s elÅ‘tt, 2006. augusztus 31-Ã©n (mÃ©rlegfordulÃ³nap):<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 654 600 SajÃ¡t tÅ‘ke 866 561<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 409 691 Jegyzett tÅ‘ke 149 890<ujsor/>
+KÃ©szletek 200 188 TÅ‘ketartalÃ©k<ujsor/>
+KÃ¶vetelÃ©sek 173 320 EredmÃ©nytartalÃ©k 706 671<ujsor/>
+Ã‰rtÃ©kpapÃ­rok LekÃ¶tÃ¶tt tartalÃ©k 10 000<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 36 183 CÃ©ltartalÃ©kok<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok KÃ¶telezettsÃ©gek 181 742<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 15 988<ujsor/>
+Ã–SSZESEN: 1 064 291 Ã–SSZESEN: 1 064 291<ujsor/>
+A jogelÅ‘d, beolvadÃ³ PALLAS VAGYONVÃ‰DELEM Kft. zÃ¡rÃ³ vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai az Ã¡talakulÃ¡s elÅ‘tt, 2006. augusztus 31-Ã©n (mÃ©rlegfordulÃ³nap):<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 98 SajÃ¡t tÅ‘ke 6 759<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 9 940 Jegyzett tÅ‘ke 3 000<ujsor/>
+KÃ©szletek TÅ‘ketartalÃ©k<ujsor/>
+KÃ¶vetelÃ©sek 3 430 EredmÃ©nytartalÃ©k 3 759<ujsor/>
+Ã‰rtÃ©kpapÃ­rok LekÃ¶tÃ¶tt tartalÃ©k<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 6 510 CÃ©ltartalÃ©kok<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok KÃ¶telezettsÃ©gek 3 279<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok<ujsor/>
+Ã–SSZESEN: 10 038 Ã–SSZESEN: 10 038<ujsor/>
+A jogutÃ³d Multi Alarm Zrt. nyitÃ³ vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai az Ã¡talakulÃ¡skor:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 647 939 SajÃ¡t tÅ‘ke 866 561<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 419 631 Jegyzett tÅ‘ke 149 890<ujsor/>
+KÃ©szletek 200 188 TÅ‘ketartalÃ©k<ujsor/>
+KÃ¶vetelÃ©sek 176 750 EredmÃ©nytartalÃ©k 706 671<ujsor/>
+Ã‰rtÃ©kpapÃ­rok LekÃ¶tÃ¶tt tartalÃ©k 10 000<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 42 693 CÃ©ltartalÃ©kok<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok KÃ¶telezettsÃ©gek 185 021<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 15 988<ujsor/>
+Ã–SSZESEN: 1 067 570 Ã–SSZESEN: 1 067 570<ujsor/>
+Az Ã¡talakulÃ¡ssal Ã©rintett gazdasÃ¡gi tÃ¡rsasÃ¡gok az Ã¡tÃ©rtÃ©kelÃ©s lehetÅ‘sÃ©gÃ©vel nem Ã©ltek.<ujsor/>
+A jogutÃ³d (Ã¡tvevÅ‘) gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘bb adatai:<ujsor/>
+FormÃ¡ja: zÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ rÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+Neve: ,,Multi Alarmâ€ BiztonsÃ¡gtechnikai, FejlesztÅ‘, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+NÃ©vrÃ¶vidÃ­tÃ©sre hasznÃ¡lt cÃ­mszÃ³: ,,Multiâ€ Alarm Zrt.<ujsor/>
+SzÃ©khelye: 1092 Budapest, BakÃ¡ts tÃ©r 2.<ujsor/>
+FÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™03): 7460 NyomozÃ¡si, biztonsÃ¡gi tevÃ©kenysÃ©g.<ujsor/>
+A tÃ¡rsasÃ¡g jegyzett tÅ‘kÃ©je: 149 890 000 Ft (egyszÃ¡znegyvenkilencmilliÃ³-nyolcszÃ¡zkilencvenezer forint).<ujsor/>
+A rÃ©szvÃ©nyek fajtÃ¡ja (Gt. 292. Â§): nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©nyek.<ujsor/>
+A rÃ©szvÃ©nyek nÃ©vÃ©rtÃ©ke Ã¶sszesen: 149 890 000 Ft (egyszÃ¡znegyvenkilencmilliÃ³-nyolcszÃ¡zkilencvenezer forint), mely Ã¡ll 149 db (egyszÃ¡znegyvenkilenc darab), egyenkÃ©nt 1 000 000 Ft nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³, 8 db (nyolc darab), egyenkÃ©nt 100 000 Ft nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³, 9 db (kilenc darab), egyenkÃ©nt 10 000 Ft nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³ rÃ©szvÃ©nybÅ‘l.<ujsor/>
+JogutÃ³d rt. (beolvadÃ¡s) mÅ±kÃ¶dÃ©se megkezdÃ©sÃ©nek idÅ‘pontja Â­ a Gt. 74. Â§ (6) bekezdÃ©se szerint Â­ a cÃ©gbejegyzÃ©s napja.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘je (vezÃ©rigazgatÃ³): Zsolt LÃ¡szlÃ³ (1141 Budapest, Jerney u. 27.).<ujsor/>
+A Gt. 247. Â§ alapjÃ¡n igazgatÃ³sÃ¡g vÃ¡lasztÃ¡sÃ¡ra nem kerÃ¼l sor.<ujsor/>
+FelhÃ­vjuk a tÃ¡rsasÃ¡g hitelezÅ‘it, hogy kÃ¶vetelÃ©seiket a Gt. 76. Â§ (2) bekezdÃ©se alapjÃ¡n a tÃ¡rsasÃ¡gnak a mÃ¡sodik kÃ¶zzÃ©tÃ©teltÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l jelentsÃ©k be.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044636</mezo>
-<mezo id = "nev">&quot;Multi Alarm&quot; Biztonságtechnikai, Fejlesztõ, Kereskedelmi és Szolgáltató Részvénytársaság</mezo>
+<mezo id = "nev">&quot;Multi Alarm&quot; BiztonsÃ¡gtechnikai, FejlesztÅ‘, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1092 Budapest</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Multi Alarm Zrt. (Cg.: [01 10 044636]; 1092 Budapest, Bakáts tér 2.) és a PALLAS VAGYONVÉDELEM Kft. (Cg.: [01 09 666537]; 1092 Budapest, Bakáts tér 2.) a 2006. évi IV. tv. 69. §-a és 77­81. § rendelkezései alapján az alábbi közleményt teszi közzé:<ujsor/>
-A Multi Alarm Zrt. és a PALLAS VAGYONVÉDELEM Kft.<ujsor/>
-egyesül.<ujsor/>
-Az egyesülés módja: beolvadás.<ujsor/>
-A beolvadással a Gt. 81. § (1) bekezdése alapján a PALLAS VAGYONVÉDELEM Kft. (mint beolvadó gazdasági társaság) megszûnik, és annak vagyona a Multi Alarm Zrt.-re (mint átvevõ gazdasági társaság) mint jogutódra száll át, amelynek társasági formája változatlan marad. A beolvadás fordulónapja (átalakuláshoz fûzõdõ joghatások beállásának a napja) a cégbejegyzés napja [Gt. 74. § (6) bekezdés, Ctv. 57. § (2) bekezdés].<ujsor/>
-A jogutód gazdasági társaság alapszabály-módosítása, valamint az egyesülési szerzõdés aláírásának napja: 2006. szeptember 15.<ujsor/>
-Az átvevõ Multi Alarm Zrt. záró vagyonmérleg-tervezetének legfontosabb adatai az átalakulás elõtt, 2006. augusztus 31-én (mérlegfordulónap):<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 654 600 Saját tõke 866 561<ujsor/>
-Forgóeszközök 409 691 Jegyzett tõke 149 890<ujsor/>
-Készletek 200 188 Tõketartalék<ujsor/>
-Követelések 173 320 Eredménytartalék 706 671<ujsor/>
-Értékpapírok Lekötött tartalék 10 000<ujsor/>
-Pénzeszközök 36 183 Céltartalékok<ujsor/>
-Aktív idõbeli elhatárolások Kötelezettségek 181 742<ujsor/>
-Passzív idõbeli elhatárolások 15 988<ujsor/>
-ÖSSZESEN: 1 064 291 ÖSSZESEN: 1 064 291<ujsor/>
-A jogelõd, beolvadó PALLAS VAGYONVÉDELEM Kft. záró vagyonmérleg-tervezetének legfontosabb adatai az átalakulás elõtt, 2006. augusztus 31-én (mérlegfordulónap):<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 98 Saját tõke 6 759<ujsor/>
-Forgóeszközök 9 940 Jegyzett tõke 3 000<ujsor/>
-Készletek Tõketartalék<ujsor/>
-Követelések 3 430 Eredménytartalék 3 759<ujsor/>
-Értékpapírok Lekötött tartalék<ujsor/>
-Pénzeszközök 6 510 Céltartalékok<ujsor/>
-Aktív idõbeli elhatárolások Kötelezettségek 3 279<ujsor/>
-Passzív idõbeli elhatárolások<ujsor/>
-ÖSSZESEN: 10 038 ÖSSZESEN: 10 038<ujsor/>
-A jogutód Multi Alarm Zrt. nyitó vagyonmérleg-tervezetének legfontosabb adatai az átalakuláskor:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 647 939 Saját tõke 866 561<ujsor/>
-Forgóeszközök 419 631 Jegyzett tõke 149 890<ujsor/>
-Készletek 200 188 Tõketartalék<ujsor/>
-Követelések 176 750 Eredménytartalék 706 671<ujsor/>
-Értékpapírok Lekötött tartalék 10 000<ujsor/>
-Pénzeszközök 42 693 Céltartalékok<ujsor/>
-Aktív idõbeli elhatárolások Kötelezettségek 185 021<ujsor/>
-Passzív idõbeli elhatárolások 15 988<ujsor/>
-ÖSSZESEN: 1 067 570 ÖSSZESEN: 1 067 570<ujsor/>
-Az átalakulással érintett gazdasági társaságok az átértékelés lehetõségével nem éltek.<ujsor/>
-A jogutód (átvevõ) gazdasági társaság fõbb adatai:<ujsor/>
-Formája: zártkörûen mûködõ részvénytársaság.<ujsor/>
-Neve: ,,Multi Alarm” Biztonságtechnikai, Fejlesztõ, Kereskedelmi és Szolgáltató Zártkörûen Mûködõ Részvénytársaság.<ujsor/>
-Névrövidítésre használt címszó: ,,Multi” Alarm Zrt.<ujsor/>
-Székhelye: 1092 Budapest, Bakáts tér 2.<ujsor/>
-Fõ tevékenysége (TEÁOR ’03): 7460 Nyomozási, biztonsági tevékenység.<ujsor/>
-A társaság jegyzett tõkéje: 149 890 000 Ft (egyszáznegyvenkilencmillió-nyolcszázkilencvenezer forint).<ujsor/>
-A részvények fajtája (Gt. 292. §): névre szóló törzsrészvények.<ujsor/>
-A részvények névértéke összesen: 149 890 000 Ft (egyszáznegyvenkilencmillió-nyolcszázkilencvenezer forint), mely áll 149 db (egyszáznegyvenkilenc darab), egyenként 1 000 000 Ft névértékû, névre szóló, 8 db (nyolc darab), egyenként 100 000 Ft névértékû, névre szóló, 9 db (kilenc darab), egyenként 10 000 Ft névértékû, névre szóló részvénybõl.<ujsor/>
-Jogutód rt. (beolvadás) mûködése megkezdésének idõpontja ­ a Gt. 74. § (6) bekezdése szerint ­ a cégbejegyzés napja.<ujsor/>
-A létrejövõ gazdasági társaság vezetõ tisztségviselõje (vezérigazgató): Zsolt László (1141 Budapest, Jerney u. 27.).<ujsor/>
-A Gt. 247. § alapján igazgatóság választására nem kerül sor.<ujsor/>
-Felhívjuk a társaság hitelezõit, hogy követeléseiket a Gt. 76. § (2) bekezdése alapján a társaságnak a második közzétételtõl számított 30 napon belül jelentsék be.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">A Multi Alarm Zrt. (Cg.: [01 10 044636]; 1092 Budapest, BakÃ¡ts tÃ©r 2.) Ã©s a PALLAS VAGYONVÃ‰DELEM Kft. (Cg.: [01 09 666537]; 1092 Budapest, BakÃ¡ts tÃ©r 2.) a 2006. Ã©vi IV. tv. 69. Â§-a Ã©s 77Â­81. Â§ rendelkezÃ©sei alapjÃ¡n az alÃ¡bbi kÃ¶zlemÃ©nyt teszi kÃ¶zzÃ©:<ujsor/>
+A Multi Alarm Zrt. Ã©s a PALLAS VAGYONVÃ‰DELEM Kft.<ujsor/>
+egyesÃ¼l.<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: beolvadÃ¡s.<ujsor/>
+A beolvadÃ¡ssal a Gt. 81. Â§ (1) bekezdÃ©se alapjÃ¡n a PALLAS VAGYONVÃ‰DELEM Kft. (mint beolvadÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g) megszÅ±nik, Ã©s annak vagyona a Multi Alarm Zrt.-re (mint Ã¡tvevÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g) mint jogutÃ³dra szÃ¡ll Ã¡t, amelynek tÃ¡rsasÃ¡gi formÃ¡ja vÃ¡ltozatlan marad. A beolvadÃ¡s fordulÃ³napja (Ã¡talakulÃ¡shoz fÅ±zÅ‘dÅ‘ joghatÃ¡sok beÃ¡llÃ¡sÃ¡nak a napja) a cÃ©gbejegyzÃ©s napja [Gt. 74. Â§ (6) bekezdÃ©s, Ctv. 57. Â§ (2) bekezdÃ©s].<ujsor/>
+A jogutÃ³d gazdasÃ¡gi tÃ¡rsasÃ¡g alapszabÃ¡ly-mÃ³dosÃ­tÃ¡sa, valamint az egyesÃ¼lÃ©si szerzÅ‘dÃ©s alÃ¡Ã­rÃ¡sÃ¡nak napja: 2006. szeptember 15.<ujsor/>
+Az Ã¡tvevÅ‘ Multi Alarm Zrt. zÃ¡rÃ³ vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai az Ã¡talakulÃ¡s elÅ‘tt, 2006. augusztus 31-Ã©n (mÃ©rlegfordulÃ³nap):<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 654 600 SajÃ¡t tÅ‘ke 866 561<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 409 691 Jegyzett tÅ‘ke 149 890<ujsor/>
+KÃ©szletek 200 188 TÅ‘ketartalÃ©k<ujsor/>
+KÃ¶vetelÃ©sek 173 320 EredmÃ©nytartalÃ©k 706 671<ujsor/>
+Ã‰rtÃ©kpapÃ­rok LekÃ¶tÃ¶tt tartalÃ©k 10 000<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 36 183 CÃ©ltartalÃ©kok<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok KÃ¶telezettsÃ©gek 181 742<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 15 988<ujsor/>
+Ã–SSZESEN: 1 064 291 Ã–SSZESEN: 1 064 291<ujsor/>
+A jogelÅ‘d, beolvadÃ³ PALLAS VAGYONVÃ‰DELEM Kft. zÃ¡rÃ³ vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai az Ã¡talakulÃ¡s elÅ‘tt, 2006. augusztus 31-Ã©n (mÃ©rlegfordulÃ³nap):<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 98 SajÃ¡t tÅ‘ke 6 759<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 9 940 Jegyzett tÅ‘ke 3 000<ujsor/>
+KÃ©szletek TÅ‘ketartalÃ©k<ujsor/>
+KÃ¶vetelÃ©sek 3 430 EredmÃ©nytartalÃ©k 3 759<ujsor/>
+Ã‰rtÃ©kpapÃ­rok LekÃ¶tÃ¶tt tartalÃ©k<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 6 510 CÃ©ltartalÃ©kok<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok KÃ¶telezettsÃ©gek 3 279<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok<ujsor/>
+Ã–SSZESEN: 10 038 Ã–SSZESEN: 10 038<ujsor/>
+A jogutÃ³d Multi Alarm Zrt. nyitÃ³ vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai az Ã¡talakulÃ¡skor:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 647 939 SajÃ¡t tÅ‘ke 866 561<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 419 631 Jegyzett tÅ‘ke 149 890<ujsor/>
+KÃ©szletek 200 188 TÅ‘ketartalÃ©k<ujsor/>
+KÃ¶vetelÃ©sek 176 750 EredmÃ©nytartalÃ©k 706 671<ujsor/>
+Ã‰rtÃ©kpapÃ­rok LekÃ¶tÃ¶tt tartalÃ©k 10 000<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 42 693 CÃ©ltartalÃ©kok<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok KÃ¶telezettsÃ©gek 185 021<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 15 988<ujsor/>
+Ã–SSZESEN: 1 067 570 Ã–SSZESEN: 1 067 570<ujsor/>
+Az Ã¡talakulÃ¡ssal Ã©rintett gazdasÃ¡gi tÃ¡rsasÃ¡gok az Ã¡tÃ©rtÃ©kelÃ©s lehetÅ‘sÃ©gÃ©vel nem Ã©ltek.<ujsor/>
+A jogutÃ³d (Ã¡tvevÅ‘) gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘bb adatai:<ujsor/>
+FormÃ¡ja: zÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ rÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+Neve: ,,Multi Alarmâ€ BiztonsÃ¡gtechnikai, FejlesztÅ‘, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+NÃ©vrÃ¶vidÃ­tÃ©sre hasznÃ¡lt cÃ­mszÃ³: ,,Multiâ€ Alarm Zrt.<ujsor/>
+SzÃ©khelye: 1092 Budapest, BakÃ¡ts tÃ©r 2.<ujsor/>
+FÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™03): 7460 NyomozÃ¡si, biztonsÃ¡gi tevÃ©kenysÃ©g.<ujsor/>
+A tÃ¡rsasÃ¡g jegyzett tÅ‘kÃ©je: 149 890 000 Ft (egyszÃ¡znegyvenkilencmilliÃ³-nyolcszÃ¡zkilencvenezer forint).<ujsor/>
+A rÃ©szvÃ©nyek fajtÃ¡ja (Gt. 292. Â§): nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©nyek.<ujsor/>
+A rÃ©szvÃ©nyek nÃ©vÃ©rtÃ©ke Ã¶sszesen: 149 890 000 Ft (egyszÃ¡znegyvenkilencmilliÃ³-nyolcszÃ¡zkilencvenezer forint), mely Ã¡ll 149 db (egyszÃ¡znegyvenkilenc darab), egyenkÃ©nt 1 000 000 Ft nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³, 8 db (nyolc darab), egyenkÃ©nt 100 000 Ft nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³, 9 db (kilenc darab), egyenkÃ©nt 10 000 Ft nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³ rÃ©szvÃ©nybÅ‘l.<ujsor/>
+JogutÃ³d rt. (beolvadÃ¡s) mÅ±kÃ¶dÃ©se megkezdÃ©sÃ©nek idÅ‘pontja Â­ a Gt. 74. Â§ (6) bekezdÃ©se szerint Â­ a cÃ©gbejegyzÃ©s napja.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘je (vezÃ©rigazgatÃ³): Zsolt LÃ¡szlÃ³ (1141 Budapest, Jerney u. 27.).<ujsor/>
+A Gt. 247. Â§ alapjÃ¡n igazgatÃ³sÃ¡g vÃ¡lasztÃ¡sÃ¡ra nem kerÃ¼l sor.<ujsor/>
+FelhÃ­vjuk a tÃ¡rsasÃ¡g hitelezÅ‘it, hogy kÃ¶vetelÃ©seiket a Gt. 76. Â§ (2) bekezdÃ©se alapjÃ¡n a tÃ¡rsasÃ¡gnak a mÃ¡sodik kÃ¶zzÃ©tÃ©teltÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l jelentsÃ©k be.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044636</mezo>
-<mezo id = "nev">&quot;Multi Alarm&quot; Biztonságtechnikai, Fejlesztõ, Kereskedelmi és Szolgáltató Részvénytársaság</mezo>
+<mezo id = "nev">&quot;Multi Alarm&quot; BiztonsÃ¡gtechnikai, FejlesztÅ‘, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1092 Budapest</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2006. 08. 15-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-14. [02 09 064312] P-Könyv Könyvvezetõ és Könyvvizsgáló Korlátolt Felelõsségû Társaság<ujsor/>
-HU 7636 Pécs, Illyés Gy. út 19.<ujsor/>
- dr. Kovács Ágnes (an: Keszthelyi Ilona)<ujsor/>
-7636 Pécs, Illyés Gy. út . 19.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2006. 08. 15-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+14. [02 09 064312] P-KÃ¶nyv KÃ¶nyvvezetÅ‘ Ã©s KÃ¶nyvvizsgÃ¡lÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g<ujsor/>
+HU 7636 PÃ©cs, IllyÃ©s Gy. Ãºt 19.<ujsor/>
+ dr. KovÃ¡cs Ãgnes (an: Keszthelyi Ilona)<ujsor/>
+7636 PÃ©cs, IllyÃ©s Gy. Ãºt . 19.<ujsor/>
  A jogviszony kezdete: 2006. 05. 26.<ujsor/>
- A jogviszony vége: 2007. 05. 26.<ujsor/>
- Törölve: 2006. 05. 26.<ujsor/>
- [02 09 064312] P-Könyv Könyvvezetõ és Könyvvizsgáló Korlátolt Felelõsségû Társaság<ujsor/>
-HU 7636 Pécs, Illyés Gy. u. 19<ujsor/>
- Perlainé dr. Kovács Ágnes (an: Keszthelyi Ilona)<ujsor/>
-7636 Pécs, Illyés Gy. u. 19.<ujsor/>
+ A jogviszony vÃ©ge: 2007. 05. 26.<ujsor/>
+ TÃ¶rÃ¶lve: 2006. 05. 26.<ujsor/>
+ [02 09 064312] P-KÃ¶nyv KÃ¶nyvvezetÅ‘ Ã©s KÃ¶nyvvizsgÃ¡lÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g<ujsor/>
+HU 7636 PÃ©cs, IllyÃ©s Gy. u. 19<ujsor/>
+ PerlainÃ© dr. KovÃ¡cs Ãgnes (an: Keszthelyi Ilona)<ujsor/>
+7636 PÃ©cs, IllyÃ©s Gy. u. 19.<ujsor/>
  A jogviszony kezdete: 2006. 05. 26.<ujsor/>
- A jogviszony vége: 2007. 05. 26.<ujsor/>
+ A jogviszony vÃ©ge: 2007. 05. 26.<ujsor/>
  Bejegyezve: 2006. 05. 26.<ujsor/>
 2006. 09. 08.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044636</mezo>
-<mezo id = "nev">&quot;Multi Alarm&quot; Biztonságtechnikai, Fejlesztõ, Kereskedelmi és Szolgáltató Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">1092 Budapest, Bakács tér 2.</mezo>
+<mezo id = "nev">&quot;Multi Alarm&quot; BiztonsÃ¡gtechnikai, FejlesztÅ‘, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1092 Budapest, BakÃ¡cs tÃ©r 2.</mezo>
 <mezo id = "adosz">11365073243</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság által nyilvántartásba vett, 1092 Budapest, Bakáts tér 2. sz. alatti székhelyû Multi Alarm Zrt. (Cg.: [01 10 044636]) és ugyancsak a Fõvárosi Bíróságnál mint Cégbíróságnál nyilvántartásba vett, 1092 Budapest, Bakáts tér 2. sz. alatti székhelyû P-P PRI Kft. (Cg.: [01 09 698120])<ujsor/>
-egyesül.<ujsor/>
-Az egyesülés módja: beolvadás.<ujsor/>
-A beolvadással a Gt. 81. § (1) bekezdése alapján a P-P PRI Kft. (beolvadó gazdasági társaság) megszûnik, és annak vagyona a Multi Alarm Zrt.-re (átvevõ gazdasági társaság) mint jogutódra száll át, amelynek társasági formája változatlan marad.<ujsor/>
-A beolvadás fordulónapja (átalakuláshoz fûzõdõ joghatások beállásának a napja) a cégbejegyzés napja [Gt. 74. § (6) bekezdés, Ctv. 57. § (2) bekezdés].<ujsor/>
-A jogutód gazdasági társaság alapszabály-módosításának, valamint az egyesülési szerzõdés aláírásának napja: 2006. december 1.<ujsor/>
-Az átvevõ Multi Alarm Zrt. záró vagyonmérleg-tervezetének legfontosabb adatai az átalakulás elõtt (mérlegfordulónap: 2006. október 31.):<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 810 169 Saját tõke 889 661<ujsor/>
-Forgóeszközök 562 414 Jegyzett tõke 149 890<ujsor/>
- Készletek 222 894 Tõketartalék<ujsor/>
- Követelések 314 320 Eredménytartalék 729 771<ujsor/>
- Értékpapírok Lekötött tartalék 10 000<ujsor/>
- Pénzeszközök 25 200 Céltartalékok<ujsor/>
-Aktív idõbeli elhatárolások 156 Kötelezettségek 464 120<ujsor/>
-Passzív idõbeli elhatárolások 18 958<ujsor/>
-ÖSSZESEN: 1 372 739 ÖSSZESEN: 1 372 739<ujsor/>
-A jogelõd beolvadó P-P PRI Kft. záró vagyonmérleg-tervezetének legfontosabb adatai az átalakulás elõtt (mérlegfordulónap: 2006. október 31.):<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök Saját tõke 3 111<ujsor/>
-Forgóeszközök 11 250 Jegyzett tõke 3 000<ujsor/>
- Készletek Tõketartalék<ujsor/>
- Követelések 7 835 Eredménytartalék 111<ujsor/>
- Értékpapírok Lekötött tartalék<ujsor/>
- Pénzeszközök 3 415 Céltartalékok<ujsor/>
-Aktív idõbeli elhatárolások Kötelezettségek 8 139<ujsor/>
-Passzív idõbeli elhatárolások<ujsor/>
-ÖSSZESEN: 11 250 ÖSSZESEN: 11 250<ujsor/>
-A jogutód Multi Alarm Zrt. nyitó vagyonmérleg-tervezetének legfontosabb adatai az átalakuláskor:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 807 058 Saját tõke 889 661<ujsor/>
-Forgóeszközök 573 664 Jegyzett tõke 149 890<ujsor/>
- Készletek 222 894 Tõketartalék<ujsor/>
- Követelések 322 155 Eredménytartalék 729 771<ujsor/>
- Értékpapírok Lekötött tartalék 10 000<ujsor/>
- Pénzeszközök 28 615 Céltartalékok<ujsor/>
-Aktív idõbeli elhatárolások 156 Kötelezettségek 472 259<ujsor/>
-Passzív idõbeli elhatárolások 18 958<ujsor/>
-ÖSSZESEN: 1 380 878 ÖSSZESEN: 1 380 878<ujsor/>
-Az átalakulással érintett gazdasági társaságok az átértékelés lehetõségével nem éltek.<ujsor/>
-A jogutód (átvevõ) gazdasági társaság fõbb adatai:<ujsor/>
-Neve: „Multi Alarm” Biztonságtechnikai, Fejlesztõ, Kereskedelmi és Szolgáltató Zártkörûen Mûködõ Részvénytársaság.<ujsor/>
-Formája: zártkörûen mûködõ részvénytársaság.<ujsor/>
-Névrövidítésre használt címszó: „Multi” Alarm Zrt.<ujsor/>
-Székhelye: 1092 Budapest, Bakáts tér 2.<ujsor/>
-Fõ tevékenysége (TEÁOR ’03): 7460 Nyomozási, biztonsági tevékenység.<ujsor/>
-A társaság jegyzett tõkéje: 149 890 000 Ft (egyszáznegyvenkilencmillió-nyolcszázkilencvenezer forint).<ujsor/>
-A részvények fajtája (Gt. 282. §): névre szóló törzsrészvények.<ujsor/>
-Részvények névértéke összesen: 149 890 000 Ft (egyszáznegyvenkilencmillió-nyolcszázkilencvenezer forint), mely áll 149 db (egyszáznegyvenkilenc darab), egyenként 1 000 000 Ft névértékû, névre szóló, 8 db (nyolc darab), egyenként 100 000 Ft névértékû, névre szóló, 9 db (kilenc darab), egyenként 10 000 Ft névértékû, névre szóló részvénybõl.<ujsor/>
-A jogutód részvénytársaság (beolvadás) mûködése megkezdésének idõpontja ­ a Gt. 74. § (6) bekezdése szerint ­ a cégbejegyzés napja.<ujsor/>
-A létrejövõ gazdasági társaság vezetõ tisztségviselõje: Zsolt László (1141 Budapest, Ráday u. 18.).<ujsor/>
-A Gt. 247. § alapján igazgatóság választására nem kerül sor.<ujsor/>
-Felhívjuk a társaság hitelezõit, hogy követeléseiket a Gt. 76. § (2) bekezdése alapján a társaságnak jelentsék be.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g Ã¡ltal nyilvÃ¡ntartÃ¡sba vett, 1092 Budapest, BakÃ¡ts tÃ©r 2. sz. alatti szÃ©khelyÅ± Multi Alarm Zrt. (Cg.: [01 10 044636]) Ã©s ugyancsak a FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡gnÃ¡l mint CÃ©gbÃ­rÃ³sÃ¡gnÃ¡l nyilvÃ¡ntartÃ¡sba vett, 1092 Budapest, BakÃ¡ts tÃ©r 2. sz. alatti szÃ©khelyÅ± P-P PRI Kft. (Cg.: [01 09 698120])<ujsor/>
+egyesÃ¼l.<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: beolvadÃ¡s.<ujsor/>
+A beolvadÃ¡ssal a Gt. 81. Â§ (1) bekezdÃ©se alapjÃ¡n a P-P PRI Kft. (beolvadÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g) megszÅ±nik, Ã©s annak vagyona a Multi Alarm Zrt.-re (Ã¡tvevÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g) mint jogutÃ³dra szÃ¡ll Ã¡t, amelynek tÃ¡rsasÃ¡gi formÃ¡ja vÃ¡ltozatlan marad.<ujsor/>
+A beolvadÃ¡s fordulÃ³napja (Ã¡talakulÃ¡shoz fÅ±zÅ‘dÅ‘ joghatÃ¡sok beÃ¡llÃ¡sÃ¡nak a napja) a cÃ©gbejegyzÃ©s napja [Gt. 74. Â§ (6) bekezdÃ©s, Ctv. 57. Â§ (2) bekezdÃ©s].<ujsor/>
+A jogutÃ³d gazdasÃ¡gi tÃ¡rsasÃ¡g alapszabÃ¡ly-mÃ³dosÃ­tÃ¡sÃ¡nak, valamint az egyesÃ¼lÃ©si szerzÅ‘dÃ©s alÃ¡Ã­rÃ¡sÃ¡nak napja: 2006. december 1.<ujsor/>
+Az Ã¡tvevÅ‘ Multi Alarm Zrt. zÃ¡rÃ³ vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai az Ã¡talakulÃ¡s elÅ‘tt (mÃ©rlegfordulÃ³nap: 2006. oktÃ³ber 31.):<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 810 169 SajÃ¡t tÅ‘ke 889 661<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 562 414 Jegyzett tÅ‘ke 149 890<ujsor/>
+ KÃ©szletek 222 894 TÅ‘ketartalÃ©k<ujsor/>
+ KÃ¶vetelÃ©sek 314 320 EredmÃ©nytartalÃ©k 729 771<ujsor/>
+ Ã‰rtÃ©kpapÃ­rok LekÃ¶tÃ¶tt tartalÃ©k 10 000<ujsor/>
+ PÃ©nzeszkÃ¶zÃ¶k 25 200 CÃ©ltartalÃ©kok<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 156 KÃ¶telezettsÃ©gek 464 120<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 18 958<ujsor/>
+Ã–SSZESEN: 1 372 739 Ã–SSZESEN: 1 372 739<ujsor/>
+A jogelÅ‘d beolvadÃ³ P-P PRI Kft. zÃ¡rÃ³ vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai az Ã¡talakulÃ¡s elÅ‘tt (mÃ©rlegfordulÃ³nap: 2006. oktÃ³ber 31.):<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k SajÃ¡t tÅ‘ke 3 111<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 11 250 Jegyzett tÅ‘ke 3 000<ujsor/>
+ KÃ©szletek TÅ‘ketartalÃ©k<ujsor/>
+ KÃ¶vetelÃ©sek 7 835 EredmÃ©nytartalÃ©k 111<ujsor/>
+ Ã‰rtÃ©kpapÃ­rok LekÃ¶tÃ¶tt tartalÃ©k<ujsor/>
+ PÃ©nzeszkÃ¶zÃ¶k 3 415 CÃ©ltartalÃ©kok<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok KÃ¶telezettsÃ©gek 8 139<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok<ujsor/>
+Ã–SSZESEN: 11 250 Ã–SSZESEN: 11 250<ujsor/>
+A jogutÃ³d Multi Alarm Zrt. nyitÃ³ vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai az Ã¡talakulÃ¡skor:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 807 058 SajÃ¡t tÅ‘ke 889 661<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 573 664 Jegyzett tÅ‘ke 149 890<ujsor/>
+ KÃ©szletek 222 894 TÅ‘ketartalÃ©k<ujsor/>
+ KÃ¶vetelÃ©sek 322 155 EredmÃ©nytartalÃ©k 729 771<ujsor/>
+ Ã‰rtÃ©kpapÃ­rok LekÃ¶tÃ¶tt tartalÃ©k 10 000<ujsor/>
+ PÃ©nzeszkÃ¶zÃ¶k 28 615 CÃ©ltartalÃ©kok<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 156 KÃ¶telezettsÃ©gek 472 259<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 18 958<ujsor/>
+Ã–SSZESEN: 1 380 878 Ã–SSZESEN: 1 380 878<ujsor/>
+Az Ã¡talakulÃ¡ssal Ã©rintett gazdasÃ¡gi tÃ¡rsasÃ¡gok az Ã¡tÃ©rtÃ©kelÃ©s lehetÅ‘sÃ©gÃ©vel nem Ã©ltek.<ujsor/>
+A jogutÃ³d (Ã¡tvevÅ‘) gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘bb adatai:<ujsor/>
+Neve: â€Multi Alarmâ€ BiztonsÃ¡gtechnikai, FejlesztÅ‘, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+FormÃ¡ja: zÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ rÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+NÃ©vrÃ¶vidÃ­tÃ©sre hasznÃ¡lt cÃ­mszÃ³: â€Multiâ€ Alarm Zrt.<ujsor/>
+SzÃ©khelye: 1092 Budapest, BakÃ¡ts tÃ©r 2.<ujsor/>
+FÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™03): 7460 NyomozÃ¡si, biztonsÃ¡gi tevÃ©kenysÃ©g.<ujsor/>
+A tÃ¡rsasÃ¡g jegyzett tÅ‘kÃ©je: 149 890 000 Ft (egyszÃ¡znegyvenkilencmilliÃ³-nyolcszÃ¡zkilencvenezer forint).<ujsor/>
+A rÃ©szvÃ©nyek fajtÃ¡ja (Gt. 282. Â§): nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©nyek.<ujsor/>
+RÃ©szvÃ©nyek nÃ©vÃ©rtÃ©ke Ã¶sszesen: 149 890 000 Ft (egyszÃ¡znegyvenkilencmilliÃ³-nyolcszÃ¡zkilencvenezer forint), mely Ã¡ll 149 db (egyszÃ¡znegyvenkilenc darab), egyenkÃ©nt 1 000 000 Ft nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³, 8 db (nyolc darab), egyenkÃ©nt 100 000 Ft nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³, 9 db (kilenc darab), egyenkÃ©nt 10 000 Ft nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³ rÃ©szvÃ©nybÅ‘l.<ujsor/>
+A jogutÃ³d rÃ©szvÃ©nytÃ¡rsasÃ¡g (beolvadÃ¡s) mÅ±kÃ¶dÃ©se megkezdÃ©sÃ©nek idÅ‘pontja Â­ a Gt. 74. Â§ (6) bekezdÃ©se szerint Â­ a cÃ©gbejegyzÃ©s napja.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘je: Zsolt LÃ¡szlÃ³ (1141 Budapest, RÃ¡day u. 18.).<ujsor/>
+A Gt. 247. Â§ alapjÃ¡n igazgatÃ³sÃ¡g vÃ¡lasztÃ¡sÃ¡ra nem kerÃ¼l sor.<ujsor/>
+FelhÃ­vjuk a tÃ¡rsasÃ¡g hitelezÅ‘it, hogy kÃ¶vetelÃ©seiket a Gt. 76. Â§ (2) bekezdÃ©se alapjÃ¡n a tÃ¡rsasÃ¡gnak jelentsÃ©k be.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044636</mezo>
-<mezo id = "nev">&quot;Multi Alarm&quot; Biztonságtechnikai, Fejlesztõ, Kereskedelmi és Szolgáltató Részvénytársaság</mezo>
+<mezo id = "nev">&quot;Multi Alarm&quot; BiztonsÃ¡gtechnikai, FejlesztÅ‘, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1092 Budapest</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság által nyilvántartásba vett, 1092 Budapest, Bakáts tér 2. sz. alatti székhelyû Multi Alarm Zrt. (Cg.: [01 10 044636]) és ugyancsak a Fõvárosi Bíróságnál mint Cégbíróságnál nyilvántartásba vett, 1092 Budapest, Bakáts tér 2. sz. alatti székhelyû P-P PRI Kft. (Cg.: [01 09 698120])<ujsor/>
-egyesül.<ujsor/>
-Az egyesülés módja: beolvadás.<ujsor/>
-A beolvadással a Gt. 81. § (1) bekezdése alapján a P-P PRI Kft. (beolvadó gazdasági társaság) megszûnik, és annak vagyona a Multi Alarm Zrt.-re (átvevõ gazdasági társaság) mint jogutódra száll át, amelynek társasági formája változatlan marad.<ujsor/>
-A beolvadás fordulónapja (átalakuláshoz fûzõdõ joghatások beállásának a napja) a cégbejegyzés napja [Gt. 74. § (6) bekezdés, Ctv. 57. § (2) bekezdés].<ujsor/>
-A jogutód gazdasági társaság alapszabály-módosításának, valamint az egyesülési szerzõdés aláírásának napja: 2006. december 1.<ujsor/>
-Az átvevõ Multi Alarm Zrt. záró vagyonmérleg-tervezetének legfontosabb adatai az átalakulás elõtt (mérlegfordulónap: 2006. október 31.):<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 810 169 Saját tõke 889 661<ujsor/>
-Forgóeszközök 562 414 Jegyzett tõke 149 890<ujsor/>
- Készletek 222 894 Tõketartalék<ujsor/>
- Követelések 314 320 Eredménytartalék 729 771<ujsor/>
- Értékpapírok Lekötött tartalék 10 000<ujsor/>
- Pénzeszközök 25 200 Céltartalékok<ujsor/>
-Aktív idõbeli elhatárolások 156 Kötelezettségek 464 120<ujsor/>
-Passzív idõbeli elhatárolások 18 958<ujsor/>
-ÖSSZESEN: 1 372 739 ÖSSZESEN: 1 372 739<ujsor/>
-A jogelõd beolvadó P-P PRI Kft. záró vagyonmérleg-tervezetének legfontosabb adatai az átalakulás elõtt (mérlegfordulónap: 2006. október 31.):<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök Saját tõke 3 111<ujsor/>
-Forgóeszközök 11 250 Jegyzett tõke 3 000<ujsor/>
- Készletek Tõketartalék<ujsor/>
- Követelések 7 835 Eredménytartalék 111<ujsor/>
- Értékpapírok Lekötött tartalék<ujsor/>
- Pénzeszközök 3 415 Céltartalékok<ujsor/>
-Aktív idõbeli elhatárolások Kötelezettségek 8 139<ujsor/>
-Passzív idõbeli elhatárolások<ujsor/>
-ÖSSZESEN: 11 250 ÖSSZESEN: 11 250<ujsor/>
-A jogutód Multi Alarm Zrt. nyitó vagyonmérleg-tervezetének legfontosabb adatai az átalakuláskor:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 807 058 Saját tõke 889 661<ujsor/>
-Forgóeszközök 573 664 Jegyzett tõke 149 890<ujsor/>
- Készletek 222 894 Tõketartalék<ujsor/>
- Követelések 322 155 Eredménytartalék 729 771<ujsor/>
- Értékpapírok Lekötött tartalék 10 000<ujsor/>
- Pénzeszközök 28 615 Céltartalékok<ujsor/>
-Aktív idõbeli elhatárolások 156 Kötelezettségek 472 259<ujsor/>
-Passzív idõbeli elhatárolások 18 958<ujsor/>
-ÖSSZESEN: 1 380 878 ÖSSZESEN: 1 380 878<ujsor/>
-Az átalakulással érintett gazdasági társaságok az átértékelés lehetõségével nem éltek.<ujsor/>
-A jogutód (átvevõ) gazdasági társaság fõbb adatai:<ujsor/>
-Neve: „Multi Alarm” Biztonságtechnikai, Fejlesztõ, Kereskedelmi és Szolgáltató Zártkörûen Mûködõ Részvénytársaság.<ujsor/>
-Formája: zártkörûen mûködõ részvénytársaság.<ujsor/>
-Névrövidítésre használt címszó: „Multi” Alarm Zrt.<ujsor/>
-Székhelye: 1092 Budapest, Bakáts tér 2.<ujsor/>
-Fõ tevékenysége (TEÁOR ’03): 7460 Nyomozási, biztonsági tevékenység.<ujsor/>
-A társaság jegyzett tõkéje: 149 890 000 Ft (egyszáznegyvenkilencmillió-nyolcszázkilencvenezer forint).<ujsor/>
-A részvények fajtája (Gt. 282. §): névre szóló törzsrészvények.<ujsor/>
-Részvények névértéke összesen: 149 890 000 Ft (egyszáznegyvenkilencmillió-nyolcszázkilencvenezer forint), mely áll 149 db (egyszáznegyvenkilenc darab), egyenként 1 000 000 Ft névértékû, névre szóló, 8 db (nyolc darab), egyenként 100 000 Ft névértékû, névre szóló, 9 db (kilenc darab), egyenként 10 000 Ft névértékû, névre szóló részvénybõl.<ujsor/>
-A jogutód részvénytársaság (beolvadás) mûködése megkezdésének idõpontja ­ a Gt. 74. § (6) bekezdése szerint ­ a cégbejegyzés napja.<ujsor/>
-A létrejövõ gazdasági társaság vezetõ tisztségviselõje: Zsolt László (1141 Budapest, Ráday u. 18.).<ujsor/>
-A Gt. 247. § alapján igazgatóság választására nem kerül sor.<ujsor/>
-Felhívjuk a társaság hitelezõit, hogy követeléseiket a Gt. 76. § (2) bekezdése alapján a társaságnak jelentsék be.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g Ã¡ltal nyilvÃ¡ntartÃ¡sba vett, 1092 Budapest, BakÃ¡ts tÃ©r 2. sz. alatti szÃ©khelyÅ± Multi Alarm Zrt. (Cg.: [01 10 044636]) Ã©s ugyancsak a FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡gnÃ¡l mint CÃ©gbÃ­rÃ³sÃ¡gnÃ¡l nyilvÃ¡ntartÃ¡sba vett, 1092 Budapest, BakÃ¡ts tÃ©r 2. sz. alatti szÃ©khelyÅ± P-P PRI Kft. (Cg.: [01 09 698120])<ujsor/>
+egyesÃ¼l.<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: beolvadÃ¡s.<ujsor/>
+A beolvadÃ¡ssal a Gt. 81. Â§ (1) bekezdÃ©se alapjÃ¡n a P-P PRI Kft. (beolvadÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g) megszÅ±nik, Ã©s annak vagyona a Multi Alarm Zrt.-re (Ã¡tvevÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g) mint jogutÃ³dra szÃ¡ll Ã¡t, amelynek tÃ¡rsasÃ¡gi formÃ¡ja vÃ¡ltozatlan marad.<ujsor/>
+A beolvadÃ¡s fordulÃ³napja (Ã¡talakulÃ¡shoz fÅ±zÅ‘dÅ‘ joghatÃ¡sok beÃ¡llÃ¡sÃ¡nak a napja) a cÃ©gbejegyzÃ©s napja [Gt. 74. Â§ (6) bekezdÃ©s, Ctv. 57. Â§ (2) bekezdÃ©s].<ujsor/>
+A jogutÃ³d gazdasÃ¡gi tÃ¡rsasÃ¡g alapszabÃ¡ly-mÃ³dosÃ­tÃ¡sÃ¡nak, valamint az egyesÃ¼lÃ©si szerzÅ‘dÃ©s alÃ¡Ã­rÃ¡sÃ¡nak napja: 2006. december 1.<ujsor/>
+Az Ã¡tvevÅ‘ Multi Alarm Zrt. zÃ¡rÃ³ vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai az Ã¡talakulÃ¡s elÅ‘tt (mÃ©rlegfordulÃ³nap: 2006. oktÃ³ber 31.):<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 810 169 SajÃ¡t tÅ‘ke 889 661<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 562 414 Jegyzett tÅ‘ke 149 890<ujsor/>
+ KÃ©szletek 222 894 TÅ‘ketartalÃ©k<ujsor/>
+ KÃ¶vetelÃ©sek 314 320 EredmÃ©nytartalÃ©k 729 771<ujsor/>
+ Ã‰rtÃ©kpapÃ­rok LekÃ¶tÃ¶tt tartalÃ©k 10 000<ujsor/>
+ PÃ©nzeszkÃ¶zÃ¶k 25 200 CÃ©ltartalÃ©kok<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 156 KÃ¶telezettsÃ©gek 464 120<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 18 958<ujsor/>
+Ã–SSZESEN: 1 372 739 Ã–SSZESEN: 1 372 739<ujsor/>
+A jogelÅ‘d beolvadÃ³ P-P PRI Kft. zÃ¡rÃ³ vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai az Ã¡talakulÃ¡s elÅ‘tt (mÃ©rlegfordulÃ³nap: 2006. oktÃ³ber 31.):<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k SajÃ¡t tÅ‘ke 3 111<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 11 250 Jegyzett tÅ‘ke 3 000<ujsor/>
+ KÃ©szletek TÅ‘ketartalÃ©k<ujsor/>
+ KÃ¶vetelÃ©sek 7 835 EredmÃ©nytartalÃ©k 111<ujsor/>
+ Ã‰rtÃ©kpapÃ­rok LekÃ¶tÃ¶tt tartalÃ©k<ujsor/>
+ PÃ©nzeszkÃ¶zÃ¶k 3 415 CÃ©ltartalÃ©kok<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok KÃ¶telezettsÃ©gek 8 139<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok<ujsor/>
+Ã–SSZESEN: 11 250 Ã–SSZESEN: 11 250<ujsor/>
+A jogutÃ³d Multi Alarm Zrt. nyitÃ³ vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai az Ã¡talakulÃ¡skor:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 807 058 SajÃ¡t tÅ‘ke 889 661<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 573 664 Jegyzett tÅ‘ke 149 890<ujsor/>
+ KÃ©szletek 222 894 TÅ‘ketartalÃ©k<ujsor/>
+ KÃ¶vetelÃ©sek 322 155 EredmÃ©nytartalÃ©k 729 771<ujsor/>
+ Ã‰rtÃ©kpapÃ­rok LekÃ¶tÃ¶tt tartalÃ©k 10 000<ujsor/>
+ PÃ©nzeszkÃ¶zÃ¶k 28 615 CÃ©ltartalÃ©kok<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 156 KÃ¶telezettsÃ©gek 472 259<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 18 958<ujsor/>
+Ã–SSZESEN: 1 380 878 Ã–SSZESEN: 1 380 878<ujsor/>
+Az Ã¡talakulÃ¡ssal Ã©rintett gazdasÃ¡gi tÃ¡rsasÃ¡gok az Ã¡tÃ©rtÃ©kelÃ©s lehetÅ‘sÃ©gÃ©vel nem Ã©ltek.<ujsor/>
+A jogutÃ³d (Ã¡tvevÅ‘) gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘bb adatai:<ujsor/>
+Neve: â€Multi Alarmâ€ BiztonsÃ¡gtechnikai, FejlesztÅ‘, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+FormÃ¡ja: zÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ rÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+NÃ©vrÃ¶vidÃ­tÃ©sre hasznÃ¡lt cÃ­mszÃ³: â€Multiâ€ Alarm Zrt.<ujsor/>
+SzÃ©khelye: 1092 Budapest, BakÃ¡ts tÃ©r 2.<ujsor/>
+FÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™03): 7460 NyomozÃ¡si, biztonsÃ¡gi tevÃ©kenysÃ©g.<ujsor/>
+A tÃ¡rsasÃ¡g jegyzett tÅ‘kÃ©je: 149 890 000 Ft (egyszÃ¡znegyvenkilencmilliÃ³-nyolcszÃ¡zkilencvenezer forint).<ujsor/>
+A rÃ©szvÃ©nyek fajtÃ¡ja (Gt. 282. Â§): nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©nyek.<ujsor/>
+RÃ©szvÃ©nyek nÃ©vÃ©rtÃ©ke Ã¶sszesen: 149 890 000 Ft (egyszÃ¡znegyvenkilencmilliÃ³-nyolcszÃ¡zkilencvenezer forint), mely Ã¡ll 149 db (egyszÃ¡znegyvenkilenc darab), egyenkÃ©nt 1 000 000 Ft nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³, 8 db (nyolc darab), egyenkÃ©nt 100 000 Ft nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³, 9 db (kilenc darab), egyenkÃ©nt 10 000 Ft nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³ rÃ©szvÃ©nybÅ‘l.<ujsor/>
+A jogutÃ³d rÃ©szvÃ©nytÃ¡rsasÃ¡g (beolvadÃ¡s) mÅ±kÃ¶dÃ©se megkezdÃ©sÃ©nek idÅ‘pontja Â­ a Gt. 74. Â§ (6) bekezdÃ©se szerint Â­ a cÃ©gbejegyzÃ©s napja.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘je: Zsolt LÃ¡szlÃ³ (1141 Budapest, RÃ¡day u. 18.).<ujsor/>
+A Gt. 247. Â§ alapjÃ¡n igazgatÃ³sÃ¡g vÃ¡lasztÃ¡sÃ¡ra nem kerÃ¼l sor.<ujsor/>
+FelhÃ­vjuk a tÃ¡rsasÃ¡g hitelezÅ‘it, hogy kÃ¶vetelÃ©seiket a Gt. 76. Â§ (2) bekezdÃ©se alapjÃ¡n a tÃ¡rsasÃ¡gnak jelentsÃ©k be.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044636</mezo>
-<mezo id = "nev">&quot;Multi Alarm&quot; Biztonságtechnikai, Fejlesztõ, Kereskedelmi és Szolgáltató Részvénytársaság</mezo>
+<mezo id = "nev">&quot;Multi Alarm&quot; BiztonsÃ¡gtechnikai, FejlesztÅ‘, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1092 Budapest</mezo>
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Multi-Alarm Zrt. (Cg.: [01 10 044636]; 1092 Budapest, Bakáts tér 2.; jogutód/átvevõ cég), valamint a Pallas Vagyonvédelem Kft. (Cg.: [01 09 666537]; 1092 Budapest, Bakáts tér 2.; jogelõd/beolvadó cég) a Cégközlöny 43. (2006. október 26., 95511­95512. oldal), valamint 44. (2006. november 2., 97720­97721. oldal) számában közzétett átalakulási hirdetményében Zsolt László vezérigazgató lakcíme tévesen került feltüntetésre.<ujsor/>
-Helyesen: A beolvadással létrejövõ jogutód „Multi-Alarm” Zrt. vezérigazgatója Zsolt László, 1092 Budapest, Ráday u. 18. sz. alatti lakos.<ujsor/>
+<mezo id = "szoveg">A Multi-Alarm Zrt. (Cg.: [01 10 044636]; 1092 Budapest, BakÃ¡ts tÃ©r 2.; jogutÃ³d/Ã¡tvevÅ‘ cÃ©g), valamint a Pallas VagyonvÃ©delem Kft. (Cg.: [01 09 666537]; 1092 Budapest, BakÃ¡ts tÃ©r 2.; jogelÅ‘d/beolvadÃ³ cÃ©g) a CÃ©gkÃ¶zlÃ¶ny 43. (2006. oktÃ³ber 26., 95511Â­95512. oldal), valamint 44. (2006. november 2., 97720Â­97721. oldal) szÃ¡mÃ¡ban kÃ¶zzÃ©tett Ã¡talakulÃ¡si hirdetmÃ©nyÃ©ben Zsolt LÃ¡szlÃ³ vezÃ©rigazgatÃ³ lakcÃ­me tÃ©vesen kerÃ¼lt feltÃ¼ntetÃ©sre.<ujsor/>
+Helyesen: A beolvadÃ¡ssal lÃ©trejÃ¶vÅ‘ jogutÃ³d â€Multi-Alarmâ€ Zrt. vezÃ©rigazgatÃ³ja Zsolt LÃ¡szlÃ³, 1092 Budapest, RÃ¡day u. 18. sz. alatti lakos.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044636</mezo>
-<mezo id = "nev">&quot;Multi Alarm&quot; Biztonságtechnikai, Fejlesztõ, Kereskedelmi és Szolgáltató Részvénytársaság</mezo>
+<mezo id = "nev">&quot;Multi Alarm&quot; BiztonsÃ¡gtechnikai, FejlesztÅ‘, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1092 Budapest</mezo>
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2007. 01. 26-án hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-16. [01 09 666537] PALLAS VAGYONVÉDELEM Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2007. 01. 26-Ã¡n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+16. [01 09 666537] PALLAS VAGYONVÃ‰DELEM Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
  Bejegyezve: 2007. 01. 26.<ujsor/>
 2007. 06. 19.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044636</mezo>
-<mezo id = "nev">&quot;Multi Alarm&quot; Biztonságtechnikai, Fejlesztõ, Kereskedelmi és Szolgáltató Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">1092 Budapest, Bakács tér 2.</mezo>
+<mezo id = "nev">&quot;Multi Alarm&quot; BiztonsÃ¡gtechnikai, FejlesztÅ‘, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1092 Budapest, BakÃ¡cs tÃ©r 2.</mezo>
 <mezo id = "adosz">11365073243</mezo>
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2007. 09. 28-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. A képviselet módja: önálló.<ujsor/>
- Tisztsége: igazgató (vezérigazgató).<ujsor/>
- Zsolt László Miklós (an: Muth Etelka)<ujsor/>
-1092 Budapest, Ráday u. 18.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2007. 09. 28-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: igazgatÃ³ (vezÃ©rigazgatÃ³).<ujsor/>
+ Zsolt LÃ¡szlÃ³ MiklÃ³s (an: Muth Etelka)<ujsor/>
+1092 Budapest, RÃ¡day u. 18.<ujsor/>
  A jogviszony kezdete: 2007. 07. 25.<ujsor/>
- A változás idõpontja (törlés): 2007. 07. 25.<ujsor/>
- A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (vezérigazgató).<ujsor/>
- Csongor Attila János (an: Jeles Borbála)<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2007. 07. 25.<ujsor/>
+ A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (vezÃ©rigazgatÃ³).<ujsor/>
+ Csongor Attila JÃ¡nos (an: Jeles BorbÃ¡la)<ujsor/>
 1092 Budapest, Rekettye u. 66.<ujsor/>
  A jogviszony kezdete: 2007. 07. 25.<ujsor/>
- A jogviszony vége: 2012. 06. 30.<ujsor/>
- A változás idõpontja (törlés): 2007. 07. 25.<ujsor/>
- Törölve: 2007. 10. 18.<ujsor/>
- A képviselet módja: önálló.<ujsor/>
- Zsolt László Miklós (an: Muth Etelka) vezérigazgató<ujsor/>
-1092 Budapest, Ráday u. 18.<ujsor/>
+ A jogviszony vÃ©ge: 2012. 06. 30.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2007. 07. 25.<ujsor/>
+ TÃ¶rÃ¶lve: 2007. 10. 18.<ujsor/>
+ A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ Zsolt LÃ¡szlÃ³ MiklÃ³s (an: Muth Etelka) vezÃ©rigazgatÃ³<ujsor/>
+1092 Budapest, RÃ¡day u. 18.<ujsor/>
  A jogviszony kezdete: 2007. 07. 25.<ujsor/>
- A képviselet módja: önálló.<ujsor/>
- Tisztsége: cégvezetõ.<ujsor/>
- Csongor Attila János (an: Jeles Borbála)<ujsor/>
+ A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: cÃ©gvezetÅ‘.<ujsor/>
+ Csongor Attila JÃ¡nos (an: Jeles BorbÃ¡la)<ujsor/>
 1092 Budapest, Rekettye u. 66.<ujsor/>
  A jogviszony kezdete: 2007. 07. 25.<ujsor/>
- A jogviszony vége: 2012. 06. 30.<ujsor/>
- A változás idõpontja: 2007. 07. 25.<ujsor/>
+ A jogviszony vÃ©ge: 2012. 06. 30.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2007. 07. 25.<ujsor/>
  Bejegyezve: 2007. 10. 18.<ujsor/>
 2007. 10. 18.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044636</mezo>
-<mezo id = "nev">&quot;Multi Alarm&quot; Biztonságtechnikai, Fejlesztõ, Kereskedelmi és Szolgáltató Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">1092 Budapest, Bakács tér 2.</mezo>
+<mezo id = "nev">&quot;Multi Alarm&quot; BiztonsÃ¡gtechnikai, FejlesztÅ‘, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1092 Budapest, BakÃ¡cs tÃ©r 2.</mezo>
 <mezo id = "adosz">11365073243</mezo>
 </alrovat>
 <alrovat id = "11">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság által nyilvántartásba vett, 1106 Budapest, Fátyolka u. 8. sz. alatti székhelyû Multi Alarm Zrt. (Cg.: [01 10 044636]) és ugyancsak a Fõvárosi Bíróságnál mint Cégbíróságnál nyilvántartásba vett, 1106 Budapest, Fátyolka u. 8. sz. alatti székhelyû NIVELCO Kft. (Cg.: [01 09 264107]) egyesül.<ujsor/>
-Az egyesülés módja: beolvadás.<ujsor/>
-A beolvadással a Gt. 81. § (1) bekezdése alapján a NIVELCO Kft. (mint beolvadó gazdasági társaság) megszûnik és annak vagyona a Multi Alarm Zrt.-re (mint átvevõ gazdasági társaság), mint jogutódra száll át, amelynek társasági formája változatlan marad.<ujsor/>
-A beolvadás fordulónapja (átalakuláshoz fûzõdõ joghatások beállásának a napja): 2009. július 1. [Gt. 74. § (6) bekezdés, Ctv. 57. § (2) bekezdés.]<ujsor/>
-A jogutód gazdasági társaság „alapító okirat”, valamint az „egyesülési szerzõdés” aláírásának napja: 2009. április 7.<ujsor/>
-Az átvevõ Multi Alarm Zrt. (záró) vagyonmérleg-tervezetének legfontosabb adatai az átalakulás elõtt (mérlegfordulónap: 2008. december 31.):<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 1 188 282 Saját tõke 1 439 827<ujsor/>
-Forgóeszközök 727 575 Jegyzett tõke 149 890<ujsor/>
-Készletek 146 431 Tõketartalék 0<ujsor/>
-Követelések 478 448 Eredménytartalék 1 067 862<ujsor/>
-Értékpapírok 0 Lekötött tartalék 222 075<ujsor/>
-Pénzeszközök 102 696 Céltartalékok 0<ujsor/>
-Aktív idõbeli elhatárolások 30 684 Kötelezettségek 420 104<ujsor/>
-Passzív idõbeli elhatárolások 86 610<ujsor/>
-ÖSSZESEN: 1 946 541 ÖSSZESEN: 1 946 541<ujsor/>
-A jogelõd beolvadó NIVELCO Kft. (záró) vagyonmérleg-tervezetének legfontosabb adatai az átalakulás elõtt (mérlegfordulónap: 2008. december 31.):<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 3 746 Saját tõke 29 809<ujsor/>
-Forgóeszközök 31 856 Jegyzett tõke 3 000<ujsor/>
-Készletek 0 Tõketartalék 0<ujsor/>
-Követelések 9 108 Eredménytartalék 26 809<ujsor/>
-Értékpapírok 0 Lekötött tartalék 0<ujsor/>
-Pénzeszközök 22 748 Céltartalékok 0<ujsor/>
-Aktív idõbeli elhatárolások 283 Kötelezettségek 5 484<ujsor/>
-Passzív idõbeli elhatárolások 596<ujsor/>
-ÖSSZESEN: 35 885 ÖSSZESEN: 35 885<ujsor/>
-A jogutód Multi Alarm Zrt. (nyitó) vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 1 170 028 Saját tõke 1 447 636<ujsor/>
-Forgóeszközök 759 431 Jegyzett tõke 149 890<ujsor/>
-Készletek 146 431 Tõketartalék 0<ujsor/>
-Követelések 478 556 Eredménytartalék 1 075 671<ujsor/>
-Értékpapírok 0 Lekötött tartalék 222 075<ujsor/>
-Pénzeszközök 125 444 Céltartalékok 0<ujsor/>
-Aktív idõbeli elhatárolások 30 967 Kötelezettségek 425 588<ujsor/>
-Passzív idõbeli elhatárolások 87 202<ujsor/>
-ÖSSZESEN: 1 960 426 ÖSSZESEN: 1 960 426<ujsor/>
-Az átalakulással érintett gazdasági társaságok az átértékelés lehetõségével nem éltek.<ujsor/>
-A jogutód (átvevõ) gazdasági társaság fõbb adatai:<ujsor/>
-Formája: zártkörûen mûködõ részvénytársaság.<ujsor/>
-Neve: „Multi Alarm” Biztonságtechnikai, Fejlesztõ, Kereskedelmi és Szolgáltató Zártkörûen Mûködõ Részvénytársaság.<ujsor/>
-Névrövidítésre használt címszó: „Multi Alarm” Zrt.<ujsor/>
-Székhelye: 1106 Budapest, Fátyolka u. 8.<ujsor/>
-Fõ tevékenysége (TEÁOR ’08): Biztonsági rendszer szolgáltatás.<ujsor/>
-A társaság jegyzett tõkéje: 149 890 000 Ft (egyszáznegyvenkilencmillió-nyolcszázkilencvenezer forint).<ujsor/>
-A részvények fajtája (Gt. 282. §): névre szóló törzsrészvények.<ujsor/>
-Részvények névértéke összesen: 149 890 000 Ft (egyszáznegyvenkilencmillió-nyolcszázkilencvenezer forint), mely áll 149 db (egyszáznegyvenkilenc darab) egyenként 1 000 000 Ft névértékû névre szóló; 8 db (nyolc darab), egyenként 100 000 Ft névértékû, névre szóló; 9 db (kilenc darab) egyenként 10 000 Ft névértékû, névre szóló részvénybõl.<ujsor/>
-A jogutód zrt. (beolvadás) mûködése megkezdésének idõpontja ­ a Gt. 74. § (6) bekezdés szerint ­ a cégbejegyzést követõ nap.<ujsor/>
-A létrejövõ gazdasági társaság vezetõ tisztségviselõje (vezérigazgató): Zsolt László Miklós (1141 Budapest, Ráday u. 18.).<ujsor/>
-A Gt. 247. § alapján igazgatóság választására nem kerül sor.<ujsor/>
-A társaság felhívja hitelezõit, hogy követeléseiket a Gt. 76. § (2) bekezdés alapján a társaságnak jelentsék be.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g Ã¡ltal nyilvÃ¡ntartÃ¡sba vett, 1106 Budapest, FÃ¡tyolka u. 8. sz. alatti szÃ©khelyÅ± Multi Alarm Zrt. (Cg.: [01 10 044636]) Ã©s ugyancsak a FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡gnÃ¡l mint CÃ©gbÃ­rÃ³sÃ¡gnÃ¡l nyilvÃ¡ntartÃ¡sba vett, 1106 Budapest, FÃ¡tyolka u. 8. sz. alatti szÃ©khelyÅ± NIVELCO Kft. (Cg.: [01 09 264107]) egyesÃ¼l.<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: beolvadÃ¡s.<ujsor/>
+A beolvadÃ¡ssal a Gt. 81. Â§ (1) bekezdÃ©se alapjÃ¡n a NIVELCO Kft. (mint beolvadÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g) megszÅ±nik Ã©s annak vagyona a Multi Alarm Zrt.-re (mint Ã¡tvevÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g), mint jogutÃ³dra szÃ¡ll Ã¡t, amelynek tÃ¡rsasÃ¡gi formÃ¡ja vÃ¡ltozatlan marad.<ujsor/>
+A beolvadÃ¡s fordulÃ³napja (Ã¡talakulÃ¡shoz fÅ±zÅ‘dÅ‘ joghatÃ¡sok beÃ¡llÃ¡sÃ¡nak a napja): 2009. jÃºlius 1. [Gt. 74. Â§ (6) bekezdÃ©s, Ctv. 57. Â§ (2) bekezdÃ©s.]<ujsor/>
+A jogutÃ³d gazdasÃ¡gi tÃ¡rsasÃ¡g â€alapÃ­tÃ³ okiratâ€, valamint az â€egyesÃ¼lÃ©si szerzÅ‘dÃ©sâ€ alÃ¡Ã­rÃ¡sÃ¡nak napja: 2009. Ã¡prilis 7.<ujsor/>
+Az Ã¡tvevÅ‘ Multi Alarm Zrt. (zÃ¡rÃ³) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai az Ã¡talakulÃ¡s elÅ‘tt (mÃ©rlegfordulÃ³nap: 2008. december 31.):<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 1 188 282 SajÃ¡t tÅ‘ke 1 439 827<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 727 575 Jegyzett tÅ‘ke 149 890<ujsor/>
+KÃ©szletek 146 431 TÅ‘ketartalÃ©k 0<ujsor/>
+KÃ¶vetelÃ©sek 478 448 EredmÃ©nytartalÃ©k 1 067 862<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 0 LekÃ¶tÃ¶tt tartalÃ©k 222 075<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 102 696 CÃ©ltartalÃ©kok 0<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 30 684 KÃ¶telezettsÃ©gek 420 104<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 86 610<ujsor/>
+Ã–SSZESEN: 1 946 541 Ã–SSZESEN: 1 946 541<ujsor/>
+A jogelÅ‘d beolvadÃ³ NIVELCO Kft. (zÃ¡rÃ³) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai az Ã¡talakulÃ¡s elÅ‘tt (mÃ©rlegfordulÃ³nap: 2008. december 31.):<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 3 746 SajÃ¡t tÅ‘ke 29 809<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 31 856 Jegyzett tÅ‘ke 3 000<ujsor/>
+KÃ©szletek 0 TÅ‘ketartalÃ©k 0<ujsor/>
+KÃ¶vetelÃ©sek 9 108 EredmÃ©nytartalÃ©k 26 809<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 0 LekÃ¶tÃ¶tt tartalÃ©k 0<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 22 748 CÃ©ltartalÃ©kok 0<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 283 KÃ¶telezettsÃ©gek 5 484<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 596<ujsor/>
+Ã–SSZESEN: 35 885 Ã–SSZESEN: 35 885<ujsor/>
+A jogutÃ³d Multi Alarm Zrt. (nyitÃ³) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 1 170 028 SajÃ¡t tÅ‘ke 1 447 636<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 759 431 Jegyzett tÅ‘ke 149 890<ujsor/>
+KÃ©szletek 146 431 TÅ‘ketartalÃ©k 0<ujsor/>
+KÃ¶vetelÃ©sek 478 556 EredmÃ©nytartalÃ©k 1 075 671<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 0 LekÃ¶tÃ¶tt tartalÃ©k 222 075<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 125 444 CÃ©ltartalÃ©kok 0<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 30 967 KÃ¶telezettsÃ©gek 425 588<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 87 202<ujsor/>
+Ã–SSZESEN: 1 960 426 Ã–SSZESEN: 1 960 426<ujsor/>
+Az Ã¡talakulÃ¡ssal Ã©rintett gazdasÃ¡gi tÃ¡rsasÃ¡gok az Ã¡tÃ©rtÃ©kelÃ©s lehetÅ‘sÃ©gÃ©vel nem Ã©ltek.<ujsor/>
+A jogutÃ³d (Ã¡tvevÅ‘) gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘bb adatai:<ujsor/>
+FormÃ¡ja: zÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ rÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+Neve: â€Multi Alarmâ€ BiztonsÃ¡gtechnikai, FejlesztÅ‘, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+NÃ©vrÃ¶vidÃ­tÃ©sre hasznÃ¡lt cÃ­mszÃ³: â€Multi Alarmâ€ Zrt.<ujsor/>
+SzÃ©khelye: 1106 Budapest, FÃ¡tyolka u. 8.<ujsor/>
+FÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™08): BiztonsÃ¡gi rendszer szolgÃ¡ltatÃ¡s.<ujsor/>
+A tÃ¡rsasÃ¡g jegyzett tÅ‘kÃ©je: 149 890 000 Ft (egyszÃ¡znegyvenkilencmilliÃ³-nyolcszÃ¡zkilencvenezer forint).<ujsor/>
+A rÃ©szvÃ©nyek fajtÃ¡ja (Gt. 282. Â§): nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©nyek.<ujsor/>
+RÃ©szvÃ©nyek nÃ©vÃ©rtÃ©ke Ã¶sszesen: 149 890 000 Ft (egyszÃ¡znegyvenkilencmilliÃ³-nyolcszÃ¡zkilencvenezer forint), mely Ã¡ll 149 db (egyszÃ¡znegyvenkilenc darab) egyenkÃ©nt 1 000 000 Ft nÃ©vÃ©rtÃ©kÅ± nÃ©vre szÃ³lÃ³; 8 db (nyolc darab), egyenkÃ©nt 100 000 Ft nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³; 9 db (kilenc darab) egyenkÃ©nt 10 000 Ft nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³ rÃ©szvÃ©nybÅ‘l.<ujsor/>
+A jogutÃ³d zrt. (beolvadÃ¡s) mÅ±kÃ¶dÃ©se megkezdÃ©sÃ©nek idÅ‘pontja Â­ a Gt. 74. Â§ (6) bekezdÃ©s szerint Â­ a cÃ©gbejegyzÃ©st kÃ¶vetÅ‘ nap.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘je (vezÃ©rigazgatÃ³): Zsolt LÃ¡szlÃ³ MiklÃ³s (1141 Budapest, RÃ¡day u. 18.).<ujsor/>
+A Gt. 247. Â§ alapjÃ¡n igazgatÃ³sÃ¡g vÃ¡lasztÃ¡sÃ¡ra nem kerÃ¼l sor.<ujsor/>
+A tÃ¡rsasÃ¡g felhÃ­vja hitelezÅ‘it, hogy kÃ¶vetelÃ©seiket a Gt. 76. Â§ (2) bekezdÃ©s alapjÃ¡n a tÃ¡rsasÃ¡gnak jelentsÃ©k be.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044636</mezo>
-<mezo id = "nev">&quot;Multi Alarm&quot; Biztonságtechnikai, Fejlesztõ, Kereskedelmi és Szolgáltató Részvénytársaság</mezo>
+<mezo id = "nev">&quot;Multi Alarm&quot; BiztonsÃ¡gtechnikai, FejlesztÅ‘, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1106 Budapest</mezo>
 </alrovat>
 <alrovat id = "12">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság által nyilvántartásba vett, 1106 Budapest, Fátyolka u. 8. sz. alatti székhelyû Multi Alarm Zrt. (Cg.: [01 10 044636]) és ugyancsak a Fõvárosi Bíróságnál mint Cégbíróságnál nyilvántartásba vett, 1106 Budapest, Fátyolka u. 8. sz. alatti székhelyû NIVELCO Kft. (Cg.: [01 09 264107]) egyesül.<ujsor/>
-Az egyesülés módja: beolvadás.<ujsor/>
-A beolvadással a Gt. 81. § (1) bekezdése alapján a NIVELCO Kft. (mint beolvadó gazdasági társaság) megszûnik és annak vagyona a Multi Alarm Zrt.-re (mint átvevõ gazdasági társaság), mint jogutódra száll át, amelynek társasági formája változatlan marad.<ujsor/>
-A beolvadás fordulónapja (átalakuláshoz fûzõdõ joghatások beállásának a napja): 2009. július 1. [Gt. 74. § (6) bekezdés, Ctv. 57. § (2) bekezdés.]<ujsor/>
-A jogutód gazdasági társaság „alapító okirat”, valamint az „egyesülési szerzõdés” aláírásának napja: 2009. április 7.<ujsor/>
-Az átvevõ Multi Alarm Zrt. (záró) vagyonmérleg-tervezetének legfontosabb adatai az átalakulás elõtt (mérlegfordulónap: 2008. december 31.):<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 1 188 282 Saját tõke 1 439 827<ujsor/>
-Forgóeszközök 727 575 Jegyzett tõke 149 890<ujsor/>
-Készletek 146 431 Tõketartalék 0<ujsor/>
-Követelések 478 448 Eredménytartalék 1 067 862<ujsor/>
-Értékpapírok 0 Lekötött tartalék 222 075<ujsor/>
-Pénzeszközök 102 696 Céltartalékok 0<ujsor/>
-Aktív idõbeli elhatárolások 30 684 Kötelezettségek 420 104<ujsor/>
-Passzív idõbeli elhatárolások 86 610<ujsor/>
-ÖSSZESEN: 1 946 541 ÖSSZESEN: 1 946 541<ujsor/>
-A jogelõd beolvadó NIVELCO Kft. (záró) vagyonmérleg-tervezetének legfontosabb adatai az átalakulás elõtt (mérlegfordulónap: 2008. december 31.):<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 3 746 Saját tõke 29 809<ujsor/>
-Forgóeszközök 31 856 Jegyzett tõke 3 000<ujsor/>
-Készletek 0 Tõketartalék 0<ujsor/>
-Követelések 9 108 Eredménytartalék 26 809<ujsor/>
-Értékpapírok 0 Lekötött tartalék 0<ujsor/>
-Pénzeszközök 22 748 Céltartalékok 0<ujsor/>
-Aktív idõbeli elhatárolások 283 Kötelezettségek 5 484<ujsor/>
-Passzív idõbeli elhatárolások 596<ujsor/>
-ÖSSZESEN: 35 885 ÖSSZESEN: 35 885<ujsor/>
-A jogutód Multi Alarm Zrt. (nyitó) vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 1 170 028 Saját tõke 1 447 636<ujsor/>
-Forgóeszközök 759 431 Jegyzett tõke 149 890<ujsor/>
-Készletek 146 431 Tõketartalék 0<ujsor/>
-Követelések 478 556 Eredménytartalék 1 075 671<ujsor/>
-Értékpapírok 0 Lekötött tartalék 222 075<ujsor/>
-Pénzeszközök 125 444 Céltartalékok 0<ujsor/>
-Aktív idõbeli elhatárolások 30 967 Kötelezettségek 425 588<ujsor/>
-Passzív idõbeli elhatárolások 87 202<ujsor/>
-ÖSSZESEN: 1 960 426 ÖSSZESEN: 1 960 426<ujsor/>
-Az átalakulással érintett gazdasági társaságok az átértékelés lehetõségével nem éltek.<ujsor/>
-A jogutód (átvevõ) gazdasági társaság fõbb adatai:<ujsor/>
-Formája: zártkörûen mûködõ részvénytársaság.<ujsor/>
-Neve: „Multi Alarm” Biztonságtechnikai, Fejlesztõ, Kereskedelmi és Szolgáltató Zártkörûen Mûködõ Részvénytársaság.<ujsor/>
-Névrövidítésre használt címszó: „Multi Alarm” Zrt.<ujsor/>
-Székhelye: 1106 Budapest, Fátyolka u. 8.<ujsor/>
-Fõ tevékenysége (TEÁOR ’08): Biztonsági rendszer szolgáltatás.<ujsor/>
-A társaság jegyzett tõkéje: 149 890 000 Ft (egyszáznegyvenkilencmillió-nyolcszázkilencvenezer forint).<ujsor/>
-A részvények fajtája (Gt. 282. §): névre szóló törzsrészvények.<ujsor/>
-Részvények névértéke összesen: 149 890 000 Ft (egyszáznegyvenkilencmillió-nyolcszázkilencvenezer forint), mely áll 149 db (egyszáznegyvenkilenc darab) egyenként 1 000 000 Ft névértékû névre szóló; 8 db (nyolc darab), egyenként 100 000 Ft névértékû, névre szóló; 9 db (kilenc darab) egyenként 10 000 Ft névértékû, névre szóló részvénybõl.<ujsor/>
-A jogutód zrt. (beolvadás) mûködése megkezdésének idõpontja ­ a Gt. 74. § (6) bekezdés szerint ­ a cégbejegyzést követõ nap.<ujsor/>
-A létrejövõ gazdasági társaság vezetõ tisztségviselõje (vezérigazgató): Zsolt László Miklós (1141 Budapest, Ráday u. 18.).<ujsor/>
-A Gt. 247. § alapján igazgatóság választására nem kerül sor.<ujsor/>
-A társaság felhívja hitelezõit, hogy követeléseiket a Gt. 76. § (2) bekezdés alapján a társaságnak jelentsék be.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g Ã¡ltal nyilvÃ¡ntartÃ¡sba vett, 1106 Budapest, FÃ¡tyolka u. 8. sz. alatti szÃ©khelyÅ± Multi Alarm Zrt. (Cg.: [01 10 044636]) Ã©s ugyancsak a FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡gnÃ¡l mint CÃ©gbÃ­rÃ³sÃ¡gnÃ¡l nyilvÃ¡ntartÃ¡sba vett, 1106 Budapest, FÃ¡tyolka u. 8. sz. alatti szÃ©khelyÅ± NIVELCO Kft. (Cg.: [01 09 264107]) egyesÃ¼l.<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: beolvadÃ¡s.<ujsor/>
+A beolvadÃ¡ssal a Gt. 81. Â§ (1) bekezdÃ©se alapjÃ¡n a NIVELCO Kft. (mint beolvadÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g) megszÅ±nik Ã©s annak vagyona a Multi Alarm Zrt.-re (mint Ã¡tvevÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g), mint jogutÃ³dra szÃ¡ll Ã¡t, amelynek tÃ¡rsasÃ¡gi formÃ¡ja vÃ¡ltozatlan marad.<ujsor/>
+A beolvadÃ¡s fordulÃ³napja (Ã¡talakulÃ¡shoz fÅ±zÅ‘dÅ‘ joghatÃ¡sok beÃ¡llÃ¡sÃ¡nak a napja): 2009. jÃºlius 1. [Gt. 74. Â§ (6) bekezdÃ©s, Ctv. 57. Â§ (2) bekezdÃ©s.]<ujsor/>
+A jogutÃ³d gazdasÃ¡gi tÃ¡rsasÃ¡g â€alapÃ­tÃ³ okiratâ€, valamint az â€egyesÃ¼lÃ©si szerzÅ‘dÃ©sâ€ alÃ¡Ã­rÃ¡sÃ¡nak napja: 2009. Ã¡prilis 7.<ujsor/>
+Az Ã¡tvevÅ‘ Multi Alarm Zrt. (zÃ¡rÃ³) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai az Ã¡talakulÃ¡s elÅ‘tt (mÃ©rlegfordulÃ³nap: 2008. december 31.):<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 1 188 282 SajÃ¡t tÅ‘ke 1 439 827<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 727 575 Jegyzett tÅ‘ke 149 890<ujsor/>
+KÃ©szletek 146 431 TÅ‘ketartalÃ©k 0<ujsor/>
+KÃ¶vetelÃ©sek 478 448 EredmÃ©nytartalÃ©k 1 067 862<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 0 LekÃ¶tÃ¶tt tartalÃ©k 222 075<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 102 696 CÃ©ltartalÃ©kok 0<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 30 684 KÃ¶telezettsÃ©gek 420 104<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 86 610<ujsor/>
+Ã–SSZESEN: 1 946 541 Ã–SSZESEN: 1 946 541<ujsor/>
+A jogelÅ‘d beolvadÃ³ NIVELCO Kft. (zÃ¡rÃ³) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai az Ã¡talakulÃ¡s elÅ‘tt (mÃ©rlegfordulÃ³nap: 2008. december 31.):<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 3 746 SajÃ¡t tÅ‘ke 29 809<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 31 856 Jegyzett tÅ‘ke 3 000<ujsor/>
+KÃ©szletek 0 TÅ‘ketartalÃ©k 0<ujsor/>
+KÃ¶vetelÃ©sek 9 108 EredmÃ©nytartalÃ©k 26 809<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 0 LekÃ¶tÃ¶tt tartalÃ©k 0<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 22 748 CÃ©ltartalÃ©kok 0<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 283 KÃ¶telezettsÃ©gek 5 484<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 596<ujsor/>
+Ã–SSZESEN: 35 885 Ã–SSZESEN: 35 885<ujsor/>
+A jogutÃ³d Multi Alarm Zrt. (nyitÃ³) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 1 170 028 SajÃ¡t tÅ‘ke 1 447 636<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 759 431 Jegyzett tÅ‘ke 149 890<ujsor/>
+KÃ©szletek 146 431 TÅ‘ketartalÃ©k 0<ujsor/>
+KÃ¶vetelÃ©sek 478 556 EredmÃ©nytartalÃ©k 1 075 671<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 0 LekÃ¶tÃ¶tt tartalÃ©k 222 075<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 125 444 CÃ©ltartalÃ©kok 0<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 30 967 KÃ¶telezettsÃ©gek 425 588<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 87 202<ujsor/>
+Ã–SSZESEN: 1 960 426 Ã–SSZESEN: 1 960 426<ujsor/>
+Az Ã¡talakulÃ¡ssal Ã©rintett gazdasÃ¡gi tÃ¡rsasÃ¡gok az Ã¡tÃ©rtÃ©kelÃ©s lehetÅ‘sÃ©gÃ©vel nem Ã©ltek.<ujsor/>
+A jogutÃ³d (Ã¡tvevÅ‘) gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘bb adatai:<ujsor/>
+FormÃ¡ja: zÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ rÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+Neve: â€Multi Alarmâ€ BiztonsÃ¡gtechnikai, FejlesztÅ‘, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+NÃ©vrÃ¶vidÃ­tÃ©sre hasznÃ¡lt cÃ­mszÃ³: â€Multi Alarmâ€ Zrt.<ujsor/>
+SzÃ©khelye: 1106 Budapest, FÃ¡tyolka u. 8.<ujsor/>
+FÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™08): BiztonsÃ¡gi rendszer szolgÃ¡ltatÃ¡s.<ujsor/>
+A tÃ¡rsasÃ¡g jegyzett tÅ‘kÃ©je: 149 890 000 Ft (egyszÃ¡znegyvenkilencmilliÃ³-nyolcszÃ¡zkilencvenezer forint).<ujsor/>
+A rÃ©szvÃ©nyek fajtÃ¡ja (Gt. 282. Â§): nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©nyek.<ujsor/>
+RÃ©szvÃ©nyek nÃ©vÃ©rtÃ©ke Ã¶sszesen: 149 890 000 Ft (egyszÃ¡znegyvenkilencmilliÃ³-nyolcszÃ¡zkilencvenezer forint), mely Ã¡ll 149 db (egyszÃ¡znegyvenkilenc darab) egyenkÃ©nt 1 000 000 Ft nÃ©vÃ©rtÃ©kÅ± nÃ©vre szÃ³lÃ³; 8 db (nyolc darab), egyenkÃ©nt 100 000 Ft nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³; 9 db (kilenc darab) egyenkÃ©nt 10 000 Ft nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³ rÃ©szvÃ©nybÅ‘l.<ujsor/>
+A jogutÃ³d zrt. (beolvadÃ¡s) mÅ±kÃ¶dÃ©se megkezdÃ©sÃ©nek idÅ‘pontja Â­ a Gt. 74. Â§ (6) bekezdÃ©s szerint Â­ a cÃ©gbejegyzÃ©st kÃ¶vetÅ‘ nap.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘je (vezÃ©rigazgatÃ³): Zsolt LÃ¡szlÃ³ MiklÃ³s (1141 Budapest, RÃ¡day u. 18.).<ujsor/>
+A Gt. 247. Â§ alapjÃ¡n igazgatÃ³sÃ¡g vÃ¡lasztÃ¡sÃ¡ra nem kerÃ¼l sor.<ujsor/>
+A tÃ¡rsasÃ¡g felhÃ­vja hitelezÅ‘it, hogy kÃ¶vetelÃ©seiket a Gt. 76. Â§ (2) bekezdÃ©s alapjÃ¡n a tÃ¡rsasÃ¡gnak jelentsÃ©k be.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044636</mezo>
-<mezo id = "nev">&quot;Multi Alarm&quot; Biztonságtechnikai, Fejlesztõ, Kereskedelmi és Szolgáltató Részvénytársaság</mezo>
+<mezo id = "nev">&quot;Multi Alarm&quot; BiztonsÃ¡gtechnikai, FejlesztÅ‘, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1106 Budapest</mezo>
 </alrovat>
 <alrovat id = "13">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság által nyilvántartásba vett, 1106 Budapest, Fátyolka u. 8. sz. alatti székhelyû Multi Alarm Zrt. (Cg.: [01 10 044636]) és ugyancsak a Fõvárosi Bíróságnál mint Cégbíróságnál nyilvántartásba vett, 1106 Budapest, Fátyolka u. 8. sz. alatti székhelyû ALARM WACHTER MONITORING Kft. (Cg.: [01 09 918508]) egyesül.<ujsor/>
-Az egyesülés módja: beolvadás.<ujsor/>
-A beolvadással a Gt. 81. § (1) bekezdés alapján az ALARM WACHTER MONITORING Kft. (mint beolvadó gazdasági társaság) megszûnik és annak vagyona a Multi Alarm Zrt.-re (mint átvevõ gazdasági társaság) mint jogutódra száll át, amelynek társasági formája változatlan marad. A beolvadás fordulónapja (átalakuláshoz fûzõdõ joghatások beállásának a napja): a cégjegyzést követõ nap [Gt. 74. § (6) bekezdés, Ctv. 57. § (2) bekezdés].<ujsor/>
-A jogutód gazdasági társaság „Alapító Okirat”, valamint az „Egyesülési Szerzõdés” aláírásának napja: 2009. június 10.<ujsor/>
-Az átvevõ Multi Alarm Zrt. nyitó vagyonmérleg-tervezetének legfontosabb adatai az átalakulás elõtt 2008. december 31-én (mérlegfordulónap):<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 1 188 282 Saját tõke 1 439 828<ujsor/>
-Forgóeszközök 727 575 Jegyzett tõke 149 890<ujsor/>
-Készletek 146 431 Tõketartalék<ujsor/>
-Követelések 478 448 Eredménytartalék 1 067 863<ujsor/>
-Értékpapírok Lekötött tartalék 222 075<ujsor/>
-Pénzeszközök 102 696 Céltartalékok<ujsor/>
-Aktív idõbeli elhatárolások 30 684 Kötelezettségek 420 104<ujsor/>
-Passzív idõbeli elhatárolások 86 609<ujsor/>
-ÖSSZESEN: 1 946 541 ÖSSZESEN: 1 946 541<ujsor/>
-A jogelõd beolvadó ALARM WACHTER MONITORING KFt. záró vagyonmérleg-tervezetének legfontosabb adatai az átalakulás elõtt 2008. december 31-én (mérlegfordulónap):<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 28 351 Saját tõke 27 582<ujsor/>
-Forgóeszközök 8 852 Jegyzett tõke 17 000<ujsor/>
-Készletek Tõketartalék<ujsor/>
-Követelések 8 696 Eredménytartalék 10 582<ujsor/>
-Értékpapírok Lekötött tartalék<ujsor/>
-Pénzeszközök 156 Céltartalékok<ujsor/>
-Aktív idõbeli elhatárolások 6 268 Kötelezettségek 14 254<ujsor/>
-Passzív idõbeli elhatárolások 1 635<ujsor/>
-ÖSSZESEN: 43 471 ÖSSZESEN: 43 471<ujsor/>
-A jogutód Multi Alarm Zrt. nyitó vagyonmérleg-tervezetének legfontosabb adatai az átalakuláskor/átalakulás elhatározásakor:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 1 216 633 Saját tõke 1 467 410<ujsor/>
-Forgóeszközök 736 427 Jegyzett tõke 149 890<ujsor/>
-Készletek 146 431 Tõketartalék<ujsor/>
-Követelések 487 144 Eredménytartalék 1 095 445<ujsor/>
-Értékpapírok Lekötött tartalék 222 075<ujsor/>
-Pénzeszközök 102 852 Céltartalékok<ujsor/>
-Aktív idõbeli elhatárolások 36 952 Kötelezettségek 434 358<ujsor/>
-Passzív idõbeli elhatárolások 88 244<ujsor/>
-ÖSSZESEN: 1 990 012 ÖSSZESEN: 1 990 012<ujsor/>
-Az átalakulással érintett gazdasági társaságok az átértékelés lehetõségével nem éltek.<ujsor/>
-A jogutód (átvevõ) gazdasági társaság fõbb adatai:<ujsor/>
-Formája: zártkörûen mûködõ részvénytársaság.<ujsor/>
-Neve: „Multi Alarm” Biztonságtechnikai, Fejlesztõ, Kereskedelmi és Szolgáltató Zártkörûen Mûködõ Részvénytársaság.<ujsor/>
-Névrövidítésre használt címszó: „Multi Alarm” ZRt.<ujsor/>
-Székhelye: 1106 Budapest, Fátyolka u. 8.<ujsor/>
-Fõ tevékenysége (TEÁOR ’08): 8020 Biztonsági rendszer szolgáltatás.<ujsor/>
-A társaság jegyzett tõkéje: 149 890 000 Ft (egyszáznegyvenkilencmillió-nyolcszázkilencvenezer forint).<ujsor/>
-A részvények fajtája (Gt. 282. §): névre szóló törzsrészvények.<ujsor/>
-Részvények névértéke összesen: 149 890 000 Ft (egyszáznegyvenkilencmillió-nyolcszázkilencvenezer forint), mely áll 149 db (egyszáznegyvenkilenc darab) egyenként 1 000 000 Ft névértékû, névre szóló, 8 db (nyolc darab) egyenként 100 000 Ft névértékû, névre szóló, 9 db (kilenc darab) egyenként 10 000 Ft névértékû, névre szóló részvénybõl.<ujsor/>
-Jogutód zrt. (beolvadás) mûködése megkezdésének idõpontja ­ a Gt. 74. § (6) bekezdése szerint ­ a cégbejegyzést követõ nap.<ujsor/>
-A létrejövõ gazdasági társaság vezetõ tisztségviselõje: Zsolt László Miklós vezérigazgató (1141 Budapest, Ráday u. 18.).<ujsor/>
-A Gt. 247. § alapján igazgatóság választására nem kerül sor.<ujsor/>
-A társaság felhívja hitelezõit, hogy követeléseiket a Gt. 76. § (2) bekezdése alapján a társaságnak jelentsék be.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g Ã¡ltal nyilvÃ¡ntartÃ¡sba vett, 1106 Budapest, FÃ¡tyolka u. 8. sz. alatti szÃ©khelyÅ± Multi Alarm Zrt. (Cg.: [01 10 044636]) Ã©s ugyancsak a FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡gnÃ¡l mint CÃ©gbÃ­rÃ³sÃ¡gnÃ¡l nyilvÃ¡ntartÃ¡sba vett, 1106 Budapest, FÃ¡tyolka u. 8. sz. alatti szÃ©khelyÅ± ALARM WACHTER MONITORING Kft. (Cg.: [01 09 918508]) egyesÃ¼l.<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: beolvadÃ¡s.<ujsor/>
+A beolvadÃ¡ssal a Gt. 81. Â§ (1) bekezdÃ©s alapjÃ¡n az ALARM WACHTER MONITORING Kft. (mint beolvadÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g) megszÅ±nik Ã©s annak vagyona a Multi Alarm Zrt.-re (mint Ã¡tvevÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g) mint jogutÃ³dra szÃ¡ll Ã¡t, amelynek tÃ¡rsasÃ¡gi formÃ¡ja vÃ¡ltozatlan marad. A beolvadÃ¡s fordulÃ³napja (Ã¡talakulÃ¡shoz fÅ±zÅ‘dÅ‘ joghatÃ¡sok beÃ¡llÃ¡sÃ¡nak a napja): a cÃ©gjegyzÃ©st kÃ¶vetÅ‘ nap [Gt. 74. Â§ (6) bekezdÃ©s, Ctv. 57. Â§ (2) bekezdÃ©s].<ujsor/>
+A jogutÃ³d gazdasÃ¡gi tÃ¡rsasÃ¡g â€AlapÃ­tÃ³ Okiratâ€, valamint az â€EgyesÃ¼lÃ©si SzerzÅ‘dÃ©sâ€ alÃ¡Ã­rÃ¡sÃ¡nak napja: 2009. jÃºnius 10.<ujsor/>
+Az Ã¡tvevÅ‘ Multi Alarm Zrt. nyitÃ³ vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai az Ã¡talakulÃ¡s elÅ‘tt 2008. december 31-Ã©n (mÃ©rlegfordulÃ³nap):<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 1 188 282 SajÃ¡t tÅ‘ke 1 439 828<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 727 575 Jegyzett tÅ‘ke 149 890<ujsor/>
+KÃ©szletek 146 431 TÅ‘ketartalÃ©k<ujsor/>
+KÃ¶vetelÃ©sek 478 448 EredmÃ©nytartalÃ©k 1 067 863<ujsor/>
+Ã‰rtÃ©kpapÃ­rok LekÃ¶tÃ¶tt tartalÃ©k 222 075<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 102 696 CÃ©ltartalÃ©kok<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 30 684 KÃ¶telezettsÃ©gek 420 104<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 86 609<ujsor/>
+Ã–SSZESEN: 1 946 541 Ã–SSZESEN: 1 946 541<ujsor/>
+A jogelÅ‘d beolvadÃ³ ALARM WACHTER MONITORING KFt. zÃ¡rÃ³ vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai az Ã¡talakulÃ¡s elÅ‘tt 2008. december 31-Ã©n (mÃ©rlegfordulÃ³nap):<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 28 351 SajÃ¡t tÅ‘ke 27 582<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 8 852 Jegyzett tÅ‘ke 17 000<ujsor/>
+KÃ©szletek TÅ‘ketartalÃ©k<ujsor/>
+KÃ¶vetelÃ©sek 8 696 EredmÃ©nytartalÃ©k 10 582<ujsor/>
+Ã‰rtÃ©kpapÃ­rok LekÃ¶tÃ¶tt tartalÃ©k<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 156 CÃ©ltartalÃ©kok<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 6 268 KÃ¶telezettsÃ©gek 14 254<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 1 635<ujsor/>
+Ã–SSZESEN: 43 471 Ã–SSZESEN: 43 471<ujsor/>
+A jogutÃ³d Multi Alarm Zrt. nyitÃ³ vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai az Ã¡talakulÃ¡skor/Ã¡talakulÃ¡s elhatÃ¡rozÃ¡sakor:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 1 216 633 SajÃ¡t tÅ‘ke 1 467 410<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 736 427 Jegyzett tÅ‘ke 149 890<ujsor/>
+KÃ©szletek 146 431 TÅ‘ketartalÃ©k<ujsor/>
+KÃ¶vetelÃ©sek 487 144 EredmÃ©nytartalÃ©k 1 095 445<ujsor/>
+Ã‰rtÃ©kpapÃ­rok LekÃ¶tÃ¶tt tartalÃ©k 222 075<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 102 852 CÃ©ltartalÃ©kok<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 36 952 KÃ¶telezettsÃ©gek 434 358<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 88 244<ujsor/>
+Ã–SSZESEN: 1 990 012 Ã–SSZESEN: 1 990 012<ujsor/>
+Az Ã¡talakulÃ¡ssal Ã©rintett gazdasÃ¡gi tÃ¡rsasÃ¡gok az Ã¡tÃ©rtÃ©kelÃ©s lehetÅ‘sÃ©gÃ©vel nem Ã©ltek.<ujsor/>
+A jogutÃ³d (Ã¡tvevÅ‘) gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘bb adatai:<ujsor/>
+FormÃ¡ja: zÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ rÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+Neve: â€Multi Alarmâ€ BiztonsÃ¡gtechnikai, FejlesztÅ‘, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+NÃ©vrÃ¶vidÃ­tÃ©sre hasznÃ¡lt cÃ­mszÃ³: â€Multi Alarmâ€ ZRt.<ujsor/>
+SzÃ©khelye: 1106 Budapest, FÃ¡tyolka u. 8.<ujsor/>
+FÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™08): 8020 BiztonsÃ¡gi rendszer szolgÃ¡ltatÃ¡s.<ujsor/>
+A tÃ¡rsasÃ¡g jegyzett tÅ‘kÃ©je: 149 890 000 Ft (egyszÃ¡znegyvenkilencmilliÃ³-nyolcszÃ¡zkilencvenezer forint).<ujsor/>
+A rÃ©szvÃ©nyek fajtÃ¡ja (Gt. 282. Â§): nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©nyek.<ujsor/>
+RÃ©szvÃ©nyek nÃ©vÃ©rtÃ©ke Ã¶sszesen: 149 890 000 Ft (egyszÃ¡znegyvenkilencmilliÃ³-nyolcszÃ¡zkilencvenezer forint), mely Ã¡ll 149 db (egyszÃ¡znegyvenkilenc darab) egyenkÃ©nt 1 000 000 Ft nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³, 8 db (nyolc darab) egyenkÃ©nt 100 000 Ft nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³, 9 db (kilenc darab) egyenkÃ©nt 10 000 Ft nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³ rÃ©szvÃ©nybÅ‘l.<ujsor/>
+JogutÃ³d zrt. (beolvadÃ¡s) mÅ±kÃ¶dÃ©se megkezdÃ©sÃ©nek idÅ‘pontja Â­ a Gt. 74. Â§ (6) bekezdÃ©se szerint Â­ a cÃ©gbejegyzÃ©st kÃ¶vetÅ‘ nap.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘je: Zsolt LÃ¡szlÃ³ MiklÃ³s vezÃ©rigazgatÃ³ (1141 Budapest, RÃ¡day u. 18.).<ujsor/>
+A Gt. 247. Â§ alapjÃ¡n igazgatÃ³sÃ¡g vÃ¡lasztÃ¡sÃ¡ra nem kerÃ¼l sor.<ujsor/>
+A tÃ¡rsasÃ¡g felhÃ­vja hitelezÅ‘it, hogy kÃ¶vetelÃ©seiket a Gt. 76. Â§ (2) bekezdÃ©se alapjÃ¡n a tÃ¡rsasÃ¡gnak jelentsÃ©k be.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044636</mezo>
-<mezo id = "nev">&quot;Multi Alarm&quot; Biztonságtechnikai, Fejlesztõ, Kereskedelmi és Szolgáltató Részvénytársaság</mezo>
+<mezo id = "nev">&quot;Multi Alarm&quot; BiztonsÃ¡gtechnikai, FejlesztÅ‘, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1106 Budapest</mezo>
 </alrovat>
 <alrovat id = "14">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság által nyilvántartásba vett, 1106 Budapest, Fátyolka u. 8. sz. alatti székhelyû Multi Alarm Zrt. (Cg.: [01 10 044636]) és ugyancsak a Fõvárosi Bíróságnál mint Cégbíróságnál nyilvántartásba vett, 1106 Budapest, Fátyolka u. 8. sz. alatti székhelyû ALARM WACHTER MONITORING Kft. (Cg.: [01 09 918508]) egyesül.<ujsor/>
-Az egyesülés módja: beolvadás.<ujsor/>
-A beolvadással a Gt. 81. § (1) bekezdés alapján az ALARM WACHTER MONITORING Kft. (mint beolvadó gazdasági társaság) megszûnik és annak vagyona a Multi Alarm Zrt.-re (mint átvevõ gazdasági társaság) mint jogutódra száll át, amelynek társasági formája változatlan marad. A beolvadás fordulónapja (átalakuláshoz fûzõdõ joghatások beállásának a napja): a cégjegyzést követõ nap [Gt. 74. § (6) bekezdés, Ctv. 57. § (2) bekezdés].<ujsor/>
-A jogutód gazdasági társaság „Alapító Okirat”, valamint az „Egyesülési Szerzõdés” aláírásának napja: 2009. június 10.<ujsor/>
-Az átvevõ Multi Alarm Zrt. nyitó vagyonmérleg-tervezetének legfontosabb adatai az átalakulás elõtt 2008. december 31-én (mérlegfordulónap):<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 1 188 282 Saját tõke 1 439 828<ujsor/>
-Forgóeszközök 727 575 Jegyzett tõke 149 890<ujsor/>
-Készletek 146 431 Tõketartalék<ujsor/>
-Követelések 478 448 Eredménytartalék 1 067 863<ujsor/>
-Értékpapírok Lekötött tartalék 222 075<ujsor/>
-Pénzeszközök 102 696 Céltartalékok<ujsor/>
-Aktív idõbeli elhatárolások 30 684 Kötelezettségek 420 104<ujsor/>
-Passzív idõbeli elhatárolások 86 609<ujsor/>
-ÖSSZESEN: 1 946 541 ÖSSZESEN: 1 946 541<ujsor/>
-A jogelõd beolvadó ALARM WACHTER MONITORING KFt. záró vagyonmérleg-tervezetének legfontosabb adatai az átalakulás elõtt 2008. december 31-én (mérlegfordulónap):<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 28 351 Saját tõke 27 582<ujsor/>
-Forgóeszközök 8 852 Jegyzett tõke 17 000<ujsor/>
-Készletek Tõketartalék<ujsor/>
-Követelések 8 696 Eredménytartalék 10 582<ujsor/>
-Értékpapírok Lekötött tartalék<ujsor/>
-Pénzeszközök 156 Céltartalékok<ujsor/>
-Aktív idõbeli elhatárolások 6 268 Kötelezettségek 14 254<ujsor/>
-Passzív idõbeli elhatárolások 1 635<ujsor/>
-ÖSSZESEN: 43 471 ÖSSZESEN: 43 471<ujsor/>
-A jogutód Multi Alarm Zrt. nyitó vagyonmérleg-tervezetének legfontosabb adatai az átalakuláskor/átalakulás elhatározásakor:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 1 216 633 Saját tõke 1 467 410<ujsor/>
-Forgóeszközök 736 427 Jegyzett tõke 149 890<ujsor/>
-Készletek 146 431 Tõketartalék<ujsor/>
-Követelések 487 144 Eredménytartalék 1 095 445<ujsor/>
-Értékpapírok Lekötött tartalék 222 075<ujsor/>
-Pénzeszközök 102 852 Céltartalékok<ujsor/>
-Aktív idõbeli elhatárolások 36 952 Kötelezettségek 434 358<ujsor/>
-Passzív idõbeli elhatárolások 88 244<ujsor/>
-ÖSSZESEN: 1 990 012 ÖSSZESEN: 1 990 012<ujsor/>
-Az átalakulással érintett gazdasági társaságok az átértékelés lehetõségével nem éltek.<ujsor/>
-A jogutód (átvevõ) gazdasági társaság fõbb adatai:<ujsor/>
-Formája: zártkörûen mûködõ részvénytársaság.<ujsor/>
-Neve: „Multi Alarm” Biztonságtechnikai, Fejlesztõ, Kereskedelmi és Szolgáltató Zártkörûen Mûködõ Részvénytársaság.<ujsor/>
-Névrövidítésre használt címszó: „Multi Alarm” ZRt.<ujsor/>
-Székhelye: 1106 Budapest, Fátyolka u. 8.<ujsor/>
-Fõ tevékenysége (TEÁOR ’08): 8020 Biztonsági rendszer szolgáltatás.<ujsor/>
-A társaság jegyzett tõkéje: 149 890 000 Ft (egyszáznegyvenkilencmillió-nyolcszázkilencvenezer forint).<ujsor/>
-A részvények fajtája (Gt. 282. §): névre szóló törzsrészvények.<ujsor/>
-Részvények névértéke összesen: 149 890 000 Ft (egyszáznegyvenkilencmillió-nyolcszázkilencvenezer forint), mely áll 149 db (egyszáznegyvenkilenc darab) egyenként 1 000 000 Ft névértékû, névre szóló, 8 db (nyolc darab) egyenként 100 000 Ft névértékû, névre szóló, 9 db (kilenc darab) egyenként 10 000 Ft névértékû, névre szóló részvénybõl.<ujsor/>
-Jogutód zrt. (beolvadás) mûködése megkezdésének idõpontja ­ a Gt. 74. § (6) bekezdése szerint ­ a cégbejegyzést követõ nap.<ujsor/>
-A létrejövõ gazdasági társaság vezetõ tisztségviselõje: Zsolt László Miklós vezérigazgató (1141 Budapest, Ráday u. 18.).<ujsor/>
-A Gt. 247. § alapján igazgatóság választására nem kerül sor.<ujsor/>
-A társaság felhívja hitelezõit, hogy követeléseiket a Gt. 76. § (2) bekezdése alapján a társaságnak jelentsék be.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g Ã¡ltal nyilvÃ¡ntartÃ¡sba vett, 1106 Budapest, FÃ¡tyolka u. 8. sz. alatti szÃ©khelyÅ± Multi Alarm Zrt. (Cg.: [01 10 044636]) Ã©s ugyancsak a FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡gnÃ¡l mint CÃ©gbÃ­rÃ³sÃ¡gnÃ¡l nyilvÃ¡ntartÃ¡sba vett, 1106 Budapest, FÃ¡tyolka u. 8. sz. alatti szÃ©khelyÅ± ALARM WACHTER MONITORING Kft. (Cg.: [01 09 918508]) egyesÃ¼l.<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: beolvadÃ¡s.<ujsor/>
+A beolvadÃ¡ssal a Gt. 81. Â§ (1) bekezdÃ©s alapjÃ¡n az ALARM WACHTER MONITORING Kft. (mint beolvadÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g) megszÅ±nik Ã©s annak vagyona a Multi Alarm Zrt.-re (mint Ã¡tvevÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g) mint jogutÃ³dra szÃ¡ll Ã¡t, amelynek tÃ¡rsasÃ¡gi formÃ¡ja vÃ¡ltozatlan marad. A beolvadÃ¡s fordulÃ³napja (Ã¡talakulÃ¡shoz fÅ±zÅ‘dÅ‘ joghatÃ¡sok beÃ¡llÃ¡sÃ¡nak a napja): a cÃ©gjegyzÃ©st kÃ¶vetÅ‘ nap [Gt. 74. Â§ (6) bekezdÃ©s, Ctv. 57. Â§ (2) bekezdÃ©s].<ujsor/>
+A jogutÃ³d gazdasÃ¡gi tÃ¡rsasÃ¡g â€AlapÃ­tÃ³ Okiratâ€, valamint az â€EgyesÃ¼lÃ©si SzerzÅ‘dÃ©sâ€ alÃ¡Ã­rÃ¡sÃ¡nak napja: 2009. jÃºnius 10.<ujsor/>
+Az Ã¡tvevÅ‘ Multi Alarm Zrt. nyitÃ³ vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai az Ã¡talakulÃ¡s elÅ‘tt 2008. december 31-Ã©n (mÃ©rlegfordulÃ³nap):<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 1 188 282 SajÃ¡t tÅ‘ke 1 439 828<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 727 575 Jegyzett tÅ‘ke 149 890<ujsor/>
+KÃ©szletek 146 431 TÅ‘ketartalÃ©k<ujsor/>
+KÃ¶vetelÃ©sek 478 448 EredmÃ©nytartalÃ©k 1 067 863<ujsor/>
+Ã‰rtÃ©kpapÃ­rok LekÃ¶tÃ¶tt tartalÃ©k 222 075<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 102 696 CÃ©ltartalÃ©kok<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 30 684 KÃ¶telezettsÃ©gek 420 104<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 86 609<ujsor/>
+Ã–SSZESEN: 1 946 541 Ã–SSZESEN: 1 946 541<ujsor/>
+A jogelÅ‘d beolvadÃ³ ALARM WACHTER MONITORING KFt. zÃ¡rÃ³ vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai az Ã¡talakulÃ¡s elÅ‘tt 2008. december 31-Ã©n (mÃ©rlegfordulÃ³nap):<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 28 351 SajÃ¡t tÅ‘ke 27 582<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 8 852 Jegyzett tÅ‘ke 17 000<ujsor/>
+KÃ©szletek TÅ‘ketartalÃ©k<ujsor/>
+KÃ¶vetelÃ©sek 8 696 EredmÃ©nytartalÃ©k 10 582<ujsor/>
+Ã‰rtÃ©kpapÃ­rok LekÃ¶tÃ¶tt tartalÃ©k<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 156 CÃ©ltartalÃ©kok<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 6 268 KÃ¶telezettsÃ©gek 14 254<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 1 635<ujsor/>
+Ã–SSZESEN: 43 471 Ã–SSZESEN: 43 471<ujsor/>
+A jogutÃ³d Multi Alarm Zrt. nyitÃ³ vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai az Ã¡talakulÃ¡skor/Ã¡talakulÃ¡s elhatÃ¡rozÃ¡sakor:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 1 216 633 SajÃ¡t tÅ‘ke 1 467 410<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 736 427 Jegyzett tÅ‘ke 149 890<ujsor/>
+KÃ©szletek 146 431 TÅ‘ketartalÃ©k<ujsor/>
+KÃ¶vetelÃ©sek 487 144 EredmÃ©nytartalÃ©k 1 095 445<ujsor/>
+Ã‰rtÃ©kpapÃ­rok LekÃ¶tÃ¶tt tartalÃ©k 222 075<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 102 852 CÃ©ltartalÃ©kok<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 36 952 KÃ¶telezettsÃ©gek 434 358<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 88 244<ujsor/>
+Ã–SSZESEN: 1 990 012 Ã–SSZESEN: 1 990 012<ujsor/>
+Az Ã¡talakulÃ¡ssal Ã©rintett gazdasÃ¡gi tÃ¡rsasÃ¡gok az Ã¡tÃ©rtÃ©kelÃ©s lehetÅ‘sÃ©gÃ©vel nem Ã©ltek.<ujsor/>
+A jogutÃ³d (Ã¡tvevÅ‘) gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘bb adatai:<ujsor/>
+FormÃ¡ja: zÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ rÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+Neve: â€Multi Alarmâ€ BiztonsÃ¡gtechnikai, FejlesztÅ‘, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+NÃ©vrÃ¶vidÃ­tÃ©sre hasznÃ¡lt cÃ­mszÃ³: â€Multi Alarmâ€ ZRt.<ujsor/>
+SzÃ©khelye: 1106 Budapest, FÃ¡tyolka u. 8.<ujsor/>
+FÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™08): 8020 BiztonsÃ¡gi rendszer szolgÃ¡ltatÃ¡s.<ujsor/>
+A tÃ¡rsasÃ¡g jegyzett tÅ‘kÃ©je: 149 890 000 Ft (egyszÃ¡znegyvenkilencmilliÃ³-nyolcszÃ¡zkilencvenezer forint).<ujsor/>
+A rÃ©szvÃ©nyek fajtÃ¡ja (Gt. 282. Â§): nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©nyek.<ujsor/>
+RÃ©szvÃ©nyek nÃ©vÃ©rtÃ©ke Ã¶sszesen: 149 890 000 Ft (egyszÃ¡znegyvenkilencmilliÃ³-nyolcszÃ¡zkilencvenezer forint), mely Ã¡ll 149 db (egyszÃ¡znegyvenkilenc darab) egyenkÃ©nt 1 000 000 Ft nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³, 8 db (nyolc darab) egyenkÃ©nt 100 000 Ft nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³, 9 db (kilenc darab) egyenkÃ©nt 10 000 Ft nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³ rÃ©szvÃ©nybÅ‘l.<ujsor/>
+JogutÃ³d zrt. (beolvadÃ¡s) mÅ±kÃ¶dÃ©se megkezdÃ©sÃ©nek idÅ‘pontja Â­ a Gt. 74. Â§ (6) bekezdÃ©se szerint Â­ a cÃ©gbejegyzÃ©st kÃ¶vetÅ‘ nap.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘je: Zsolt LÃ¡szlÃ³ MiklÃ³s vezÃ©rigazgatÃ³ (1141 Budapest, RÃ¡day u. 18.).<ujsor/>
+A Gt. 247. Â§ alapjÃ¡n igazgatÃ³sÃ¡g vÃ¡lasztÃ¡sÃ¡ra nem kerÃ¼l sor.<ujsor/>
+A tÃ¡rsasÃ¡g felhÃ­vja hitelezÅ‘it, hogy kÃ¶vetelÃ©seiket a Gt. 76. Â§ (2) bekezdÃ©se alapjÃ¡n a tÃ¡rsasÃ¡gnak jelentsÃ©k be.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044636</mezo>
-<mezo id = "nev">&quot;Multi Alarm&quot; Biztonságtechnikai, Fejlesztõ, Kereskedelmi és Szolgáltató Részvénytársaság</mezo>
+<mezo id = "nev">&quot;Multi Alarm&quot; BiztonsÃ¡gtechnikai, FejlesztÅ‘, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1106 Budapest</mezo>
 </alrovat>
 <alrovat id = "15">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság a Cg.01-10-044636 cégjegyzékszámon bejegyzett &quot;Multi Alarm&quot; Biztonságtechnikai, Fejlesztõ, Kereskedelmi és Szolgáltató Zártkörûen Mûködõ Részvénytársaság (1106 Budapest, Fátyolka u 8.; adószáma: 11365073-2-42) kérelme alapján elrendeli az 2009. december 15. napján hozott Cg.01-10-044636 /115. számú végzésének kiegészítését az alábbiak szerint:<ujsor/>
-13. A képviseletre jogosult(ak) adatai<ujsor/>
-A képviselet módja: önálló.<ujsor/>
-Zsolt László Miklós vezérigazgató (an.: Muth Etelka)<ujsor/>
-1092 Budapest, Ráday u 18.<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.01-10-044636 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett &quot;Multi Alarm&quot; BiztonsÃ¡gtechnikai, FejlesztÅ‘, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (1106 Budapest, FÃ¡tyolka u 8.; adÃ³szÃ¡ma: 11365073-2-42) kÃ©relme alapjÃ¡n elrendeli az 2009. december 15. napjÃ¡n hozott Cg.01-10-044636 /115. szÃ¡mÃº vÃ©gzÃ©sÃ©nek kiegÃ©szÃ­tÃ©sÃ©t az alÃ¡bbiak szerint:<ujsor/>
+13. A kÃ©pviseletre jogosult(ak) adatai<ujsor/>
+A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+Zsolt LÃ¡szlÃ³ MiklÃ³s vezÃ©rigazgatÃ³ (an.: Muth Etelka)<ujsor/>
+1092 Budapest, RÃ¡day u 18.<ujsor/>
 Jogv. kezdete: 2007.07.25.<ujsor/>
-Vált. vége: 2009.11.14.<ujsor/>
-Törölve (végzés kelte): 2009. december 18.<ujsor/>
-A végzés ellen fellebbezésnek nincs helye.<ujsor/>
+VÃ¡lt. vÃ©ge: 2009.11.14.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2009. december 18.<ujsor/>
+A vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye.<ujsor/>
 2009. december 18.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110044636</mezo>
-<mezo id = "nev">&apos;Multi Alarm&apos; Biztonságtechnikai, Fejlesztõ, Kereskedelmi és Szolgáltató Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">1106 Budapest, Fátyolka u 8.</mezo>
+<mezo id = "nev">&apos;Multi Alarm&apos; BiztonsÃ¡gtechnikai, FejlesztÅ‘, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1106 Budapest, FÃ¡tyolka u 8.</mezo>
 <mezo id = "adosz">11365073242</mezo>
 </alrovat>
 </rovat>

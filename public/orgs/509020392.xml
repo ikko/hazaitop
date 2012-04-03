@@ -7,18 +7,18 @@
 <mezo id = "nevalrovat">3</mezo>
 <mezo id = "regi_szh">0109688575</mezo>
 <mezo id = "allapot">6</mezo>
-<mezo id = "cim">3529 Miskolc, Lévay u. 2. </mezo>
+<mezo id = "cim">3529 Miskolc, LÃ©vay u. 2. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">12484647205</mezo>
 </alrovat>
 </rovat>
 <rovat id = "2">
 <alrovat id = "1">
-<mezo id = "nev">WELL-INVEST Vagyonkezelõ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">WELL-INVEST VagyonkezelÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20101001</mezo>
-<mezo id = "nev">WELL-INVEST 2000 Vagyonkezelõ Korlátolt Felelõsségû Társaság &quot;végelszámolás alatt&quot;</mezo>
+<mezo id = "nev">WELL-INVEST 2000 VagyonkezelÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g &quot;vÃ©gelszÃ¡molÃ¡s alatt&quot;</mezo>
 <mezo id = "valtk">20101001</mezo>
 <mezo id = "bkelt">20101006</mezo>
 </alrovat>
@@ -36,7 +36,7 @@
 <mezo id = "hattol">20100724</mezo>
 <mezo id = "irsz">3529</mezo>
 <mezo id = "hely">Miskolc</mezo>
-<mezo id = "teru">Lévay u. 2.</mezo>
+<mezo id = "teru">LÃ©vay u. 2.</mezo>
 <mezo id = "valtk">20100724</mezo>
 <mezo id = "bkelt">20100923</mezo>
 </alrovat>
@@ -367,13 +367,13 @@
 <alrovat id = "10">
 <mezo id = "hattol">20101001</mezo>
 <mezo id = "cgjsz">0509011308</mezo>
-<mezo id = "nev">Expert 89. Környezetvédelmi, Vállalkozásfejlesztési Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Expert 89. KÃ¶rnyezetvÃ©delmi, VÃ¡llalkozÃ¡sfejlesztÃ©si TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">3529</mezo>
 <mezo id = "hely">Miskolc</mezo>
-<mezo id = "teru">Lévay u. 2.</mezo>
-<mezo id = "tiszt">végelszámoló</mezo>
-<mezo id = "pnev">ifj dr. Hajdú László</mezo>
+<mezo id = "teru">LÃ©vay u. 2.</mezo>
+<mezo id = "tiszt">vÃ©gelszÃ¡molÃ³</mezo>
+<mezo id = "pnev">ifj dr. HajdÃº LÃ¡szlÃ³</mezo>
 <mezo id = "panev">Rozman Katalin</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20101001</mezo>
@@ -425,10 +425,10 @@
 <alrovat id = "6">
 <mezo id = "hattol">20101119</mezo>
 <mezo id = "cgjsz">0509013334</mezo>
-<mezo id = "nev">EXPERT-LÉVAY Tanácsadó Kft.</mezo>
+<mezo id = "nev">EXPERT-LÃ‰VAY TanÃ¡csadÃ³ Kft.</mezo>
 <mezo id = "irsz">3529</mezo>
 <mezo id = "hely">Miskolc</mezo>
-<mezo id = "teru">Lévay u. 2.</mezo>
+<mezo id = "teru">LÃ©vay u. 2.</mezo>
 <mezo id = "tagsk">20101119</mezo>
 <mezo id = "valtk">20101119</mezo>
 <mezo id = "bkelt">20110103</mezo>
@@ -436,10 +436,10 @@
 <alrovat id = "7">
 <mezo id = "hattol">20110110</mezo>
 <mezo id = "cgjsz">0510000317</mezo>
-<mezo id = "nev">EXPERT-FACTOR Pénzügyi Zrt.</mezo>
+<mezo id = "nev">EXPERT-FACTOR PÃ©nzÃ¼gyi Zrt.</mezo>
 <mezo id = "irsz">3529</mezo>
 <mezo id = "hely">Miskolc</mezo>
-<mezo id = "teru">Lévay u. 2.</mezo>
+<mezo id = "teru">LÃ©vay u. 2.</mezo>
 <mezo id = "tagsk">20110110</mezo>
 <mezo id = "valtk">20110110</mezo>
 <mezo id = "bkelt">20110201</mezo>
@@ -454,19 +454,19 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Borsod-Abaúj-Zemplén Megyei Bíróság mint Cégbíróságnál Cg.05-09-020392 cégjegyzékszámon bejegyzett WELL-INVEST 2000 Vagyonkezelõ Korlátolt Felelõsségû Társaság &quot;végelszámolás alatt&quot; (3529 Miskolc, Lévay u 2.; adószáma: 12484647-2-05) ügyében a bíróság a cég megszünésére tekintettel elrendeli a cég cégjegyzékbõl való törlését.<ujsor/>
-26. A végelszámolás kezdete és befejezése<ujsor/>
-Befejezése: 2011.02.28.<ujsor/>
-Vált. kezdete: 2011.02.28.<ujsor/>
-Bejegyezve (végzés kelte): 2011. május 12.<ujsor/>
-A törlõ végzés ellen fellebbezésnek nincs helye. A végzés vagy az annak meghozatala alapjául szolgáló iratok jogszabályba ütközése miatt az ügyész, valamint az, akire a végzés rendelkezést tartalmaz - a rendelkezés õt érintõ részére vonatkozóan - pert indíthat a cég ellen a végzés hatályon kívül helyezése iránt a cég székhelye szerint illetékes megyei bíróság elõtt.<ujsor/>
-A cég törlését elrendelõ végzés ellen a pert a bíróság által kirendelt ügygondnok ellen kell megindítani.<ujsor/>
-A per megindításának a végzés Cégközlönyben való közzétételétõl számított 30 napon belül van helye. A határidõ elmulasztása jogvesztéssel jár.<ujsor/>
-2011. május 12.<ujsor/>
+<mezo id = "szoveg">A Borsod-AbaÃºj-ZemplÃ©n Megyei BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡gnÃ¡l Cg.05-09-020392 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett WELL-INVEST 2000 VagyonkezelÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g &quot;vÃ©gelszÃ¡molÃ¡s alatt&quot; (3529 Miskolc, LÃ©vay u 2.; adÃ³szÃ¡ma: 12484647-2-05) Ã¼gyÃ©ben a bÃ­rÃ³sÃ¡g a cÃ©g megszÃ¼nÃ©sÃ©re tekintettel elrendeli a cÃ©g cÃ©gjegyzÃ©kbÅ‘l valÃ³ tÃ¶rlÃ©sÃ©t.<ujsor/>
+26. A vÃ©gelszÃ¡molÃ¡s kezdete Ã©s befejezÃ©se<ujsor/>
+BefejezÃ©se: 2011.02.28.<ujsor/>
+VÃ¡lt. kezdete: 2011.02.28.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2011. mÃ¡jus 12.<ujsor/>
+A tÃ¶rlÅ‘ vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye. A vÃ©gzÃ©s vagy az annak meghozatala alapjÃ¡ul szolgÃ¡lÃ³ iratok jogszabÃ¡lyba Ã¼tkÃ¶zÃ©se miatt az Ã¼gyÃ©sz, valamint az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s Å‘t Ã©rintÅ‘ rÃ©szÃ©re vonatkozÃ³an - pert indÃ­that a cÃ©g ellen a vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt a cÃ©g szÃ©khelye szerint illetÃ©kes megyei bÃ­rÃ³sÃ¡g elÅ‘tt.<ujsor/>
+A cÃ©g tÃ¶rlÃ©sÃ©t elrendelÅ‘ vÃ©gzÃ©s ellen a pert a bÃ­rÃ³sÃ¡g Ã¡ltal kirendelt Ã¼gygondnok ellen kell megindÃ­tani.<ujsor/>
+A per megindÃ­tÃ¡sÃ¡nak a vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l van helye. A hatÃ¡ridÅ‘ elmulasztÃ¡sa jogvesztÃ©ssel jÃ¡r.<ujsor/>
+2011. mÃ¡jus 12.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0509020392</mezo>
-<mezo id = "nev">WELL-INVEST 2000 Vagyonkezelõ Korlátolt Felelõsségû Társaság &apos;végelszámolás alatt&apos;</mezo>
-<mezo id = "cim">3529 Miskolc, Lévay u 2.</mezo>
+<mezo id = "nev">WELL-INVEST 2000 VagyonkezelÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g &apos;vÃ©gelszÃ¡molÃ¡s alatt&apos;</mezo>
+<mezo id = "cim">3529 Miskolc, LÃ©vay u 2.</mezo>
 <mezo id = "adosz">12484647205</mezo>
 </alrovat>
 </rovat>

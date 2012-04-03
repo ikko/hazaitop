@@ -29,11 +29,11 @@ namespace :update do
     for i in 0..300
       puts i
       puts "a"
-      InterpersonalRelation.find(:all, :include => :p2p_relation_type, :conditions => ["id >= #{i}001 and id < #{i+1}000"]).each do |r| r.p2p_relation_type.parsed? ? r.update_attribute(:parsed, true) : r.update_attribute(:parsed, false) end
+      InterpersonalRelation.find(:all, :include => :p_to_p_relation_type, :conditions => ["id >= #{i}001 and id < #{i+1}000"]).each do |r| r.p_to_p_relation_type.parsed? ? r.update_attribute(:parsed, true) : r.update_attribute(:parsed, false) end
       puts "b"
-      InterorgRelation.find(:all, :include => :o2o_relation_type, :conditions => ["id >= #{i}001 and id < #{i+1}000"]).each do |r|      r.o2o_relation_type.parsed? ? r.update_attribute(:parsed, true) : r.update_attribute(:parsed, false) end
+      InterorgRelation.find(:all, :include => :o_to_o_relation_type, :conditions => ["id >= #{i}001 and id < #{i+1}000"]).each do |r|      r.o_to_o_relation_type.parsed? ? r.update_attribute(:parsed, true) : r.update_attribute(:parsed, false) end
       puts "c"
-      PersonToOrgRelation.find(:all, :include => :p2o_relation_type, :conditions => ["id >= #{i}001 and id < #{i+1}000"]).each do |r|   r.p2o_relation_type.parsed? ? r.update_attribute(:parsed, true) : r.update_attribute(:parsed, false) end
+      PersonToOrgRelation.find(:all, :include => :p_to_o_relation_type, :conditions => ["id >= #{i}001 and id < #{i+1}000"]).each do |r|   r.p_to_o_relation_type.parsed? ? r.update_attribute(:parsed, true) : r.update_attribute(:parsed, false) end
       puts "d"
 
       puts "--------------------------"

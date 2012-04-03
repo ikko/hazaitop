@@ -5,7 +5,7 @@
 <mezo id = "cf">10</mezo>
 <mezo id = "szam">045196</mezo>
 <mezo id = "nevalrovat">4</mezo>
-<mezo id = "cim">1054 Budapest, Alkotmány u. 15. fszt. 1/a. </mezo>
+<mezo id = "cim">1054 Budapest, AlkotmÃ¡ny u. 15. fszt. 1/a. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">13441809241</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "4">
 <mezo id = "hattol">20060919</mezo>
-<mezo id = "nev">NÉZÕPONT Intézet Elemzõ és Kutató Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">NÃ‰ZÅPONT IntÃ©zet ElemzÅ‘ Ã©s KutatÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">20060912</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -21,7 +21,7 @@
 <rovat id = "3">
 <alrovat id = "3">
 <mezo id = "hattol">20060919</mezo>
-<mezo id = "nev">NÉZÕPONT Intézet Zrt.</mezo>
+<mezo id = "nev">NÃ‰ZÅPONT IntÃ©zet Zrt.</mezo>
 <mezo id = "valtk">20060912</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -31,7 +31,7 @@
 <mezo id = "hattol">20070813</mezo>
 <mezo id = "irsz">1054</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Alkotmány u. 15. fszt. 1/a.</mezo>
+<mezo id = "teru">AlkotmÃ¡ny u. 15. fszt. 1/a.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">20070601</mezo>
 <mezo id = "valtv">0</mezo>
@@ -775,9 +775,9 @@
 <rovat id = "13">
 <alrovat id = "18">
 <mezo id = "hattol">20100601</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (vezérigazgató)</mezo>
-<mezo id = "pnev">Mráz Ágoston Sámuel</mezo>
-<mezo id = "panev">Zsombók Ágnes Ibolya</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (vezÃ©rigazgatÃ³)</mezo>
+<mezo id = "pnev">MrÃ¡z Ãgoston SÃ¡muel</mezo>
+<mezo id = "panev">ZsombÃ³k Ãgnes Ibolya</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100601</mezo>
 <mezo id = "valtk">20100601</mezo>
@@ -789,16 +789,16 @@
 <alrovat id = "5">
 <mezo id = "hattol">20110530</mezo>
 <mezo id = "cgjsz">0109679739</mezo>
-<mezo id = "nev">STATUS AUDIT Könyvvizsgáló Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">STATUS AUDIT KÃ¶nyvvizsgÃ¡lÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1141</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Bazsarózsa utca 91.</mezo>
+<mezo id = "teru">BazsarÃ³zsa utca 91.</mezo>
 <mezo id = "pnev">Hornyik Judit</mezo>
-<mezo id = "panev">Juhász Ilona</mezo>
+<mezo id = "panev">JuhÃ¡sz Ilona</mezo>
 <mezo id = "pirsz">1141</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Bazsarózsa utca 91.</mezo>
+<mezo id = "pteru">BazsarÃ³zsa utca 91.</mezo>
 <mezo id = "jogvk">20100521</mezo>
 <mezo id = "jogvv">20110527</mezo>
 <mezo id = "valtk">20110530</mezo>
@@ -821,8 +821,8 @@
 <rovat id = "0110">
 <alrovat id = "4">
 <mezo id = "hattol">20100624</mezo>
-<mezo id = "pnev">Mráz Ágoston Sámuel</mezo>
-<mezo id = "panev">Zsombók Ágnes Ibolya</mezo>
+<mezo id = "pnev">MrÃ¡z Ãgoston SÃ¡muel</mezo>
+<mezo id = "panev">ZsombÃ³k Ãgnes Ibolya</mezo>
 <mezo id = "sz3">x</mezo>
 <mezo id = "valtk">20100624</mezo>
 <mezo id = "bkelt">20101122</mezo>
@@ -832,20 +832,20 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Petykó Zoltán (a. n.: Laczó Erzsébet; 1037 Budapest, Testvérhegyi út 87/B) bejelenti, hogy az EUROPTIMUS Tanácsadó, Marketing és Szolgáltató Rt.-ben (Cg.: [01 10 045196]; 1124 Budapest, Németvölgyi út 62.) 51,00% arányú, többségi irányítást biztosító befolyást szerzett, 2005. december 1-jén.<ujsor/>
+<mezo id = "szoveg">PetykÃ³ ZoltÃ¡n (a. n.: LaczÃ³ ErzsÃ©bet; 1037 Budapest, TestvÃ©rhegyi Ãºt 87/B) bejelenti, hogy az EUROPTIMUS TanÃ¡csadÃ³, Marketing Ã©s SzolgÃ¡ltatÃ³ Rt.-ben (Cg.: [01 10 045196]; 1124 Budapest, NÃ©metvÃ¶lgyi Ãºt 62.) 51,00% arÃ¡nyÃº, tÃ¶bbsÃ©gi irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡st szerzett, 2005. december 1-jÃ©n.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110045196</mezo>
-<mezo id = "nev">EUROPTIMUS Tanácsadó, Marketing és Szolgáltató Részvénytársaság</mezo>
+<mezo id = "nev">EUROPTIMUS TanÃ¡csadÃ³, Marketing Ã©s SzolgÃ¡ltatÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1124 Budapest</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Petykó Zoltán (a. n.: Laczó Erzsébet; 1037 Budapest, Testvérhegyi út 87/B) bejelenti, hogy az EUROPTIMUS Tanácsadó, Marketing és Szolgáltató Zártkörûen Mûködõ Részvénytársaságban (Cg.: [01 10 045196]; 1124 Budapest, Németvölgyi út 62.) 99,5% arányú, közvetlen irányítást biztosító befolyást szerzett, 2006. június 29-én.<ujsor/>
-A hitelezõk a Gt. 296. § (2) bekezdése szerinti jogaikat gyakorolhatják.<ujsor/>
+<mezo id = "szoveg">PetykÃ³ ZoltÃ¡n (a. n.: LaczÃ³ ErzsÃ©bet; 1037 Budapest, TestvÃ©rhegyi Ãºt 87/B) bejelenti, hogy az EUROPTIMUS TanÃ¡csadÃ³, Marketing Ã©s SzolgÃ¡ltatÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡gban (Cg.: [01 10 045196]; 1124 Budapest, NÃ©metvÃ¶lgyi Ãºt 62.) 99,5% arÃ¡nyÃº, kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡st szerzett, 2006. jÃºnius 29-Ã©n.<ujsor/>
+A hitelezÅ‘k a Gt. 296. Â§ (2) bekezdÃ©se szerinti jogaikat gyakorolhatjÃ¡k.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110045196</mezo>
-<mezo id = "nev">EUROPTIMUS Tanácsadó, Marketing és Szolgáltató Részvénytársaság</mezo>
+<mezo id = "nev">EUROPTIMUS TanÃ¡csadÃ³, Marketing Ã©s SzolgÃ¡ltatÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1124 Budapest</mezo>
 </alrovat>
 </rovat>

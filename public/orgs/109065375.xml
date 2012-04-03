@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">065375</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">1022 Budapest, Alsótörökvész u. 14. </mezo>
+<mezo id = "cim">1022 Budapest, AlsÃ³tÃ¶rÃ¶kvÃ©sz u. 14. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">10322174241</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19900518</mezo>
-<mezo id = "nev">MEDISO Orvosi Berendezés Fejlesztõ és Szerviz Kft</mezo>
+<mezo id = "nev">MEDISO Orvosi BerendezÃ©s FejlesztÅ‘ Ã©s Szerviz Kft</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -29,7 +29,7 @@
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">19930513</mezo>
-<mezo id = "nev">MEDISO Artztliche Ausrüstung Entwitckelnde und Service Gmbh.</mezo>
+<mezo id = "nev">MEDISO Artztliche AusrÃ¼stung Entwitckelnde und Service Gmbh.</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">19930513</mezo>
@@ -41,7 +41,7 @@
 <mezo id = "hattol">19900518</mezo>
 <mezo id = "irsz">1022</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Alsótörökvész u. 14.</mezo>
+<mezo id = "teru">AlsÃ³tÃ¶rÃ¶kvÃ©sz u. 14.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "6">
@@ -53,7 +53,7 @@
 <alrovat id = "3">
 <mezo id = "hattol">20070308</mezo>
 <mezo id = "irsz">1044</mezo>
-<mezo id = "hely">Budapest, Tenkefürdõ u. 5.</mezo>
+<mezo id = "hely">Budapest, TenkefÃ¼rdÅ‘ u. 5.</mezo>
 <mezo id = "valtk">20070105</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -776,10 +776,10 @@
 <rovat id = "13">
 <alrovat id = "3">
 <mezo id = "hattol">20070308</mezo>
-<mezo id = "pnev">Bagaméry István</mezo>
+<mezo id = "pnev">BagamÃ©ry IstvÃ¡n</mezo>
 <mezo id = "panev">Varga Ida</mezo>
 <mezo id = "pirsz">1022</mezo>
-<mezo id = "phely">Budapest, Alsótörökvész u. 14.</mezo>
+<mezo id = "phely">Budapest, AlsÃ³tÃ¶rÃ¶kvÃ©sz u. 14.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">d</mezo>
 <mezo id = "jogvk">20070115</mezo>
@@ -789,10 +789,10 @@
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20070308</mezo>
-<mezo id = "pnev">Zelei Erzsébet Mária</mezo>
-<mezo id = "panev">Ceigersmidt Erzsébet</mezo>
+<mezo id = "pnev">Zelei ErzsÃ©bet MÃ¡ria</mezo>
+<mezo id = "panev">Ceigersmidt ErzsÃ©bet</mezo>
 <mezo id = "pirsz">1022</mezo>
-<mezo id = "phely">Budapest, Alsótörökvész u. 14. 1/6.</mezo>
+<mezo id = "phely">Budapest, AlsÃ³tÃ¶rÃ¶kvÃ©sz u. 14. 1/6.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">d</mezo>
 <mezo id = "jogvk">20070115</mezo>
@@ -805,16 +805,16 @@
 <alrovat id = "2">
 <mezo id = "hattol">20080530</mezo>
 <mezo id = "cgjsz">106612137</mezo>
-<mezo id = "nev">RÉ-DUO Könyvvizsgáló Betéti Társaság</mezo>
+<mezo id = "nev">RÃ‰-DUO KÃ¶nyvvizsgÃ¡lÃ³ BetÃ©ti TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1037</mezo>
 <mezo id = "hely">Budapest em.</mezo>
-<mezo id = "teru">Táborhegyi út</mezo>
-<mezo id = "hsz">25.B.ép.3.l</mezo>
-<mezo id = "pnev">Rédei Emese</mezo>
-<mezo id = "panev">Mihály Erika Róza</mezo>
+<mezo id = "teru">TÃ¡borhegyi Ãºt</mezo>
+<mezo id = "hsz">25.B.Ã©p.3.l</mezo>
+<mezo id = "pnev">RÃ©dei Emese</mezo>
+<mezo id = "panev">MihÃ¡ly Erika RÃ³za</mezo>
 <mezo id = "pirsz">1037</mezo>
-<mezo id = "phely">Budapest, Táborhegyi út 25. B. ép. 3. lakás.</mezo>
+<mezo id = "phely">Budapest, TÃ¡borhegyi Ãºt 25. B. Ã©p. 3. lakÃ¡s.</mezo>
 <mezo id = "jogvk">20080601</mezo>
 <mezo id = "jogvv">20120531</mezo>
 <mezo id = "valtk">20080530</mezo>
@@ -827,7 +827,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20070906</mezo>
 <mezo id = "cgjsz">109732474</mezo>
-<mezo id = "nev">PRO-DZÉTA Ingatlanfejlesztõ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">PRO-DZÃ‰TA IngatlanfejlesztÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "atdat">0</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
@@ -852,10 +852,10 @@
 <rovat id = "0109">
 <alrovat id = "13">
 <mezo id = "hattol">20070308</mezo>
-<mezo id = "pnev">Zelei Erzsébet Mária</mezo>
-<mezo id = "panev">Ceigersmidt Erzsébet</mezo>
+<mezo id = "pnev">Zelei ErzsÃ©bet MÃ¡ria</mezo>
+<mezo id = "panev">Ceigersmidt ErzsÃ©bet</mezo>
 <mezo id = "pirsz">1022</mezo>
-<mezo id = "phely">Budapest, Alsótörökvész u. 14. 1/6.</mezo>
+<mezo id = "phely">Budapest, AlsÃ³tÃ¶rÃ¶kvÃ©sz u. 14. 1/6.</mezo>
 <mezo id = "tagsk">19900110</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">0</mezo>
@@ -863,10 +863,10 @@
 </alrovat>
 <alrovat id = "14">
 <mezo id = "hattol">20070308</mezo>
-<mezo id = "pnev">Nagy László</mezo>
-<mezo id = "panev">Vida Lívia</mezo>
+<mezo id = "pnev">Nagy LÃ¡szlÃ³</mezo>
+<mezo id = "panev">Vida LÃ­via</mezo>
 <mezo id = "pirsz">2151</mezo>
-<mezo id = "phely">Fót, Ibolyás u. 5.</mezo>
+<mezo id = "phely">FÃ³t, IbolyÃ¡s u. 5.</mezo>
 <mezo id = "tagsk">19900110</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">0</mezo>
@@ -874,10 +874,10 @@
 </alrovat>
 <alrovat id = "15">
 <mezo id = "hattol">20070726</mezo>
-<mezo id = "pnev">Bagaméry István</mezo>
+<mezo id = "pnev">BagamÃ©ry IstvÃ¡n</mezo>
 <mezo id = "panev">Varga Ida</mezo>
 <mezo id = "pirsz">1022</mezo>
-<mezo id = "phely">Budapest, Alsó Törökvész utca 14.</mezo>
+<mezo id = "phely">Budapest, AlsÃ³ TÃ¶rÃ¶kvÃ©sz utca 14.</mezo>
 <mezo id = "tagsk">19990110</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">0</mezo>
@@ -893,181 +893,181 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a cég törlésére<ujsor/>
-irányuló eljárást megindítja.<ujsor/>
-Felhívja a cég képviselõjét,<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a cÃ©g tÃ¶rlÃ©sÃ©re<ujsor/>
+irÃ¡nyulÃ³ eljÃ¡rÃ¡st megindÃ­tja.<ujsor/>
+FelhÃ­vja a cÃ©g kÃ©pviselÅ‘jÃ©t,<ujsor/>
 illetve mindazokat,<ujsor/>
-akiknek a cég<ujsor/>
-fennállásához jogi érdeke fûzõdik,<ujsor/>
-hogy a cég törlése<ujsor/>
-elleni kifogásukat<ujsor/>
-a Cégközlönyben<ujsor/>
-való közzétételtõl<ujsor/>
-számított 30 nap<ujsor/>
-alatt a bíróságnál<ujsor/>
-terjesszék elõ.<ujsor/>
+akiknek a cÃ©g<ujsor/>
+fennÃ¡llÃ¡sÃ¡hoz jogi Ã©rdeke fÅ±zÅ‘dik,<ujsor/>
+hogy a cÃ©g tÃ¶rlÃ©se<ujsor/>
+elleni kifogÃ¡sukat<ujsor/>
+a CÃ©gkÃ¶zlÃ¶nyben<ujsor/>
+valÃ³ kÃ¶zzÃ©tÃ©teltÅ‘l<ujsor/>
+szÃ¡mÃ­tott 30 nap<ujsor/>
+alatt a bÃ­rÃ³sÃ¡gnÃ¡l<ujsor/>
+terjesszÃ©k elÅ‘.<ujsor/>
 1998. 12. 15.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109065375</mezo>
-<mezo id = "nev">MEDISO Orvosi Berendezés Fejlesztõ és Szerviz Kft.</mezo>
-<mezo id = "cim">1022 Budapest, Alsó Törökvész u. 14.</mezo>
+<mezo id = "nev">MEDISO Orvosi BerendezÃ©s FejlesztÅ‘ Ã©s Szerviz Kft.</mezo>
+<mezo id = "cim">1022 Budapest, AlsÃ³ TÃ¶rÃ¶kvÃ©sz u. 14.</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a Cg.01-09-065375/14. számú 1999.01.28-án közzétett cég törlésére irányuló eljárást megindító végzését hatályon kívül helyezi.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a Cg.01-09-065375/14. szÃ¡mÃº 1999.01.28-Ã¡n kÃ¶zzÃ©tett cÃ©g tÃ¶rlÃ©sÃ©re irÃ¡nyulÃ³ eljÃ¡rÃ¡st megindÃ­tÃ³ vÃ©gzÃ©sÃ©t hatÃ¡lyon kÃ­vÃ¼l helyezi.<ujsor/>
 1999. 01. 21.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109065375</mezo>
-<mezo id = "nev">MEDISO Orvosi Berendezés Fejlesztõ és Szerviz Kft.</mezo>
-<mezo id = "cim">1022 Budapest, Alsótörökvész u. 14.</mezo>
+<mezo id = "nev">MEDISO Orvosi BerendezÃ©s FejlesztÅ‘ Ã©s Szerviz Kft.</mezo>
+<mezo id = "cim">1022 Budapest, AlsÃ³tÃ¶rÃ¶kvÃ©sz u. 14.</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróságon mint Cégbíróságon nyilvántartott MEDISO Orvosi Berendezés Fejlesztõ és Szerviz Kft. (Cg.: [01 09 065375]; 1022 Budapest, Alsótörökvész u. 14.), valamint a PRO-DZÉTA Kft. (Cg.: [01 09 732474]; 1022 Budapest, Alsótörökvész u. 14.) a 2006. évi IV. tv. alapján 2007. május 20-án és 2007. június 28-án elhatározta<ujsor/>
-egyesülését<ujsor/>
-oly módon, hogy a PRO-DZÉTA Kft. beolvad a MEDISO Orvosi Berendezés Fejlesztõ és Szerviz Kft.-be.<ujsor/>
-Az átalakulással létrejövõ társaság fõbb adatai:<ujsor/>
-Cégformája: korlátolt felelõsségû társaság.<ujsor/>
-Cégneve: MEDISO Orvosi Berendezés Fejlesztõ és Szerviz Kft.<ujsor/>
-Székhelye: 1022 Budapest, Alsótörökvész u. 14.<ujsor/>
-A társaság ügyvezetõi: Bagaméry István ügyvezetõ (a. n.: Varga Ida; 1022 Budapest, Alsótörökvész u. 14.), Zelei Erzsébet ügyvezetõ (a. n.: Czeigersmidt Erzsébet; 1022 Budapest, Alsótörökvész u. 14.).<ujsor/>
-A társaság fõ tevékenysége: 3310 Orvosi mûszer gyártása.<ujsor/>
-A társasági szerzõdés megkötésének napja: 2007. június 28.<ujsor/>
-Az átvevõ társaság, a MEDISO Kft. vagyonmérleg-tervezetének fõbb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-A) Befektetett eszközök 318 684 D) Saját tõke 1 325 075<ujsor/>
-I. Immateriális javak 13 982 I. Jegyzett tõke 10 000<ujsor/>
-II. Tárgyi eszközök 240 576 III. Tõketartalék<ujsor/>
-III. Befektetett pénzügyi eszközök 64 126 IV. Eredménytartalék 917 425<ujsor/>
-B) Forgóeszközök 2 233 787 V. Lekötött tartalék 397 650<ujsor/>
-I. Készletek 260 676 VII. Mérleg szerinti eredmény<ujsor/>
-II. Követelések 1 284 356 E) Céltartalékok 97 728<ujsor/>
-III. Értékpapírok 0 F) Kötelezettségek 1 155 780<ujsor/>
-IV. Pénzeszközök 688 755 I. Hátra sorolt kötelezettségek 153 000<ujsor/>
-C) Aktív idõbeli elhatárolások 45 686 II. Hosszú lejáratú kötelezettségek 9 172<ujsor/>
-III. Rövid lejáratú kötelezettségek 993 608<ujsor/>
-G) Passzív idõbeli elhatárolások 19 574<ujsor/>
-ÖSSZESEN: 2 598 157 ÖSSZESEN: 2 598 157<ujsor/>
-A beolvadó társaság, a PRO-DZÉTA Kft. vagyonmérleg-tervezetének fõbb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-A) Befektetett eszközök D) Saját tõke ­2684<ujsor/>
-I. Immateriális javak I. Jegyzett tõke 3000<ujsor/>
-II. Tárgyi eszközök III. Tõketartalék<ujsor/>
-III. Befektetett pénzügyi eszközök IV. Eredménytartalék ­5684<ujsor/>
-B) Forgóeszközök 3685 V. Lekötött tartalék<ujsor/>
-I. Készletek VII. Mérleg szerinti eredmény<ujsor/>
-II. Követelések 1175 E) Céltartalékok<ujsor/>
-III. Értékpapírok F) Kötelezettségek 6228<ujsor/>
-IV. Pénzeszközök 2510 I. Hátra sorolt kötelezettségek<ujsor/>
-C) Aktív idõbeli elhatárolások II. Hosszú lejáratú kötelezettségek<ujsor/>
-III. Rövid lejáratú kötelezettségek 6228<ujsor/>
-G) Passzív idõbeli elhatárolások 141<ujsor/>
-ÖSSZESEN: 3685 ÖSSZESEN: 3685<ujsor/>
-A létrejövõ társaság, a MEDISO Kft. vagyonmérleg-tervezetének fõbb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-A) Befektetett eszközök 318 684 D) Saját tõke 1 322 391<ujsor/>
-I. Immateriális javak 13 982 I. Jegyzett tõke 13 000<ujsor/>
-II. Tárgyi eszközök 240 576 III. Tõketartalék<ujsor/>
-III. Befektetett pénzügyi eszközök 64 126 IV. Eredménytartalék 711 741<ujsor/>
-B) Forgóeszközök 2 237 472 V. Lekötött tartalék 597 650<ujsor/>
-I. Készletek 260 676 VII. Mérleg szerinti eredmény<ujsor/>
-II. Követelések 1 285 531 E) Céltartalékok 97 728<ujsor/>
-III. Értékpapírok 0 F) Kötelezettségek 1 162 008<ujsor/>
-IV. Pénzeszközök 691 265 I. Hátra sorolt kötelezettségek 153 000<ujsor/>
-C) Aktív idõbeli elhatárolások 45 686 II. Hosszú lejáratú kötelezettségek 9 172<ujsor/>
-III. Rövid lejáratú kötelezettségek 999 836<ujsor/>
-G) Passzív idõbeli elhatárolások 19 715<ujsor/>
-ÖSSZESEN: 2 601 842 ÖSSZESEN: 2 601 842<ujsor/>
-Felhívjuk hitelezõink figyelmét, hogy a közlemény második közzétételét követõ 30 napos határidõn belül azok a hitelezõk, akiknek a le nem járt követelései a hirdetmény elsõ közzétételét megelõzõen keletkeztek, követeléseik erejéig az átalakuló gazdasági társaságoktól biztosítékot követelhetnek a társaságok székhelyén.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡gon mint CÃ©gbÃ­rÃ³sÃ¡gon nyilvÃ¡ntartott MEDISO Orvosi BerendezÃ©s FejlesztÅ‘ Ã©s Szerviz Kft. (Cg.: [01 09 065375]; 1022 Budapest, AlsÃ³tÃ¶rÃ¶kvÃ©sz u. 14.), valamint a PRO-DZÃ‰TA Kft. (Cg.: [01 09 732474]; 1022 Budapest, AlsÃ³tÃ¶rÃ¶kvÃ©sz u. 14.) a 2006. Ã©vi IV. tv. alapjÃ¡n 2007. mÃ¡jus 20-Ã¡n Ã©s 2007. jÃºnius 28-Ã¡n elhatÃ¡rozta<ujsor/>
+egyesÃ¼lÃ©sÃ©t<ujsor/>
+oly mÃ³don, hogy a PRO-DZÃ‰TA Kft. beolvad a MEDISO Orvosi BerendezÃ©s FejlesztÅ‘ Ã©s Szerviz Kft.-be.<ujsor/>
+Az Ã¡talakulÃ¡ssal lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g fÅ‘bb adatai:<ujsor/>
+CÃ©gformÃ¡ja: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gneve: MEDISO Orvosi BerendezÃ©s FejlesztÅ‘ Ã©s Szerviz Kft.<ujsor/>
+SzÃ©khelye: 1022 Budapest, AlsÃ³tÃ¶rÃ¶kvÃ©sz u. 14.<ujsor/>
+A tÃ¡rsasÃ¡g Ã¼gyvezetÅ‘i: BagamÃ©ry IstvÃ¡n Ã¼gyvezetÅ‘ (a. n.: Varga Ida; 1022 Budapest, AlsÃ³tÃ¶rÃ¶kvÃ©sz u. 14.), Zelei ErzsÃ©bet Ã¼gyvezetÅ‘ (a. n.: Czeigersmidt ErzsÃ©bet; 1022 Budapest, AlsÃ³tÃ¶rÃ¶kvÃ©sz u. 14.).<ujsor/>
+A tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©ge: 3310 Orvosi mÅ±szer gyÃ¡rtÃ¡sa.<ujsor/>
+A tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s megkÃ¶tÃ©sÃ©nek napja: 2007. jÃºnius 28.<ujsor/>
+Az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g, a MEDISO Kft. vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 318 684 D) SajÃ¡t tÅ‘ke 1 325 075<ujsor/>
+I. ImmateriÃ¡lis javak 13 982 I. Jegyzett tÅ‘ke 10 000<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 240 576 III. TÅ‘ketartalÃ©k<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 64 126 IV. EredmÃ©nytartalÃ©k 917 425<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 2 233 787 V. LekÃ¶tÃ¶tt tartalÃ©k 397 650<ujsor/>
+I. KÃ©szletek 260 676 VII. MÃ©rleg szerinti eredmÃ©ny<ujsor/>
+II. KÃ¶vetelÃ©sek 1 284 356 E) CÃ©ltartalÃ©kok 97 728<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 F) KÃ¶telezettsÃ©gek 1 155 780<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 688 755 I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek 153 000<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 45 686 II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 9 172<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 993 608<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 19 574<ujsor/>
+Ã–SSZESEN: 2 598 157 Ã–SSZESEN: 2 598 157<ujsor/>
+A beolvadÃ³ tÃ¡rsasÃ¡g, a PRO-DZÃ‰TA Kft. vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k D) SajÃ¡t tÅ‘ke Â­2684<ujsor/>
+I. ImmateriÃ¡lis javak I. Jegyzett tÅ‘ke 3000<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k III. TÅ‘ketartalÃ©k<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k IV. EredmÃ©nytartalÃ©k Â­5684<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 3685 V. LekÃ¶tÃ¶tt tartalÃ©k<ujsor/>
+I. KÃ©szletek VII. MÃ©rleg szerinti eredmÃ©ny<ujsor/>
+II. KÃ¶vetelÃ©sek 1175 E) CÃ©ltartalÃ©kok<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok F) KÃ¶telezettsÃ©gek 6228<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 2510 I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 6228<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 141<ujsor/>
+Ã–SSZESEN: 3685 Ã–SSZESEN: 3685<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g, a MEDISO Kft. vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 318 684 D) SajÃ¡t tÅ‘ke 1 322 391<ujsor/>
+I. ImmateriÃ¡lis javak 13 982 I. Jegyzett tÅ‘ke 13 000<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 240 576 III. TÅ‘ketartalÃ©k<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 64 126 IV. EredmÃ©nytartalÃ©k 711 741<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 2 237 472 V. LekÃ¶tÃ¶tt tartalÃ©k 597 650<ujsor/>
+I. KÃ©szletek 260 676 VII. MÃ©rleg szerinti eredmÃ©ny<ujsor/>
+II. KÃ¶vetelÃ©sek 1 285 531 E) CÃ©ltartalÃ©kok 97 728<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 F) KÃ¶telezettsÃ©gek 1 162 008<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 691 265 I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek 153 000<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 45 686 II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 9 172<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 999 836<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 19 715<ujsor/>
+Ã–SSZESEN: 2 601 842 Ã–SSZESEN: 2 601 842<ujsor/>
+FelhÃ­vjuk hitelezÅ‘ink figyelmÃ©t, hogy a kÃ¶zlemÃ©ny mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ 30 napos hatÃ¡ridÅ‘n belÃ¼l azok a hitelezÅ‘k, akiknek a le nem jÃ¡rt kÃ¶vetelÃ©sei a hirdetmÃ©ny elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡goktÃ³l biztosÃ­tÃ©kot kÃ¶vetelhetnek a tÃ¡rsasÃ¡gok szÃ©khelyÃ©n.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109065375</mezo>
-<mezo id = "nev">MEDISO Orvosi Berendezés Fejlesztõ és Szerviz Kft</mezo>
+<mezo id = "nev">MEDISO Orvosi BerendezÃ©s FejlesztÅ‘ Ã©s Szerviz Kft</mezo>
 <mezo id = "cim">1022 Budapest</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróságon mint Cégbíróságon nyilvántartott MEDISO Orvosi Berendezés Fejlesztõ és Szerviz Kft. (Cg.: [01 09 065375]; 1022 Budapest, Alsótörökvész u. 14.), valamint a PRO-DZÉTA Kft. (Cg.: [01 09 732474]; 1022 Budapest, Alsótörökvész u. 14.) a 2006. évi IV. tv. alapján 2007. május 20-án és 2007. június 28-án elhatározta<ujsor/>
-egyesülését<ujsor/>
-oly módon, hogy a PRO-DZÉTA Kft. beolvad a MEDISO Orvosi Berendezés Fejlesztõ és Szerviz Kft.-be.<ujsor/>
-Az átalakulással létrejövõ társaság fõbb adatai:<ujsor/>
-Cégformája: korlátolt felelõsségû társaság.<ujsor/>
-Cégneve: MEDISO Orvosi Berendezés Fejlesztõ és Szerviz Kft.<ujsor/>
-Székhelye: 1022 Budapest, Alsótörökvész u. 14.<ujsor/>
-A társaság ügyvezetõi: Bagaméry István ügyvezetõ (a. n.: Varga Ida; 1022 Budapest, Alsótörökvész u. 14.), Zelei Erzsébet ügyvezetõ (a. n.: Czeigersmidt Erzsébet; 1022 Budapest, Alsótörökvész u. 14.).<ujsor/>
-A társaság fõ tevékenysége: 3310 Orvosi mûszer gyártása.<ujsor/>
-A társasági szerzõdés megkötésének napja: 2007. június 28.<ujsor/>
-Az átvevõ társaság, a MEDISO Kft. vagyonmérleg-tervezetének fõbb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-A) Befektetett eszközök 318 684 D) Saját tõke 1 325 075<ujsor/>
-I. Immateriális javak 13 982 I. Jegyzett tõke 10 000<ujsor/>
-II. Tárgyi eszközök 240 576 III. Tõketartalék<ujsor/>
-III. Befektetett pénzügyi eszközök 64 126 IV. Eredménytartalék 917 425<ujsor/>
-B) Forgóeszközök 2 233 787 V. Lekötött tartalék 397 650<ujsor/>
-I. Készletek 260 676 VII. Mérleg szerinti eredmény<ujsor/>
-II. Követelések 1 284 356 E) Céltartalékok 97 728<ujsor/>
-III. Értékpapírok 0 F) Kötelezettségek 1 155 780<ujsor/>
-IV. Pénzeszközök 688 755 I. Hátra sorolt kötelezettségek 153 000<ujsor/>
-C) Aktív idõbeli elhatárolások 45 686 II. Hosszú lejáratú kötelezettségek 9 172<ujsor/>
-III. Rövid lejáratú kötelezettségek 993 608<ujsor/>
-G) Passzív idõbeli elhatárolások 19 574<ujsor/>
-ÖSSZESEN: 2 598 157 ÖSSZESEN: 2 598 157<ujsor/>
-A beolvadó társaság, a PRO-DZÉTA Kft. vagyonmérleg-tervezetének fõbb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-A) Befektetett eszközök D) Saját tõke ­2684<ujsor/>
-I. Immateriális javak I. Jegyzett tõke 3000<ujsor/>
-II. Tárgyi eszközök III. Tõketartalék<ujsor/>
-III. Befektetett pénzügyi eszközök IV. Eredménytartalék ­5684<ujsor/>
-B) Forgóeszközök 3685 V. Lekötött tartalék<ujsor/>
-I. Készletek VII. Mérleg szerinti eredmény<ujsor/>
-II. Követelések 1175 E) Céltartalékok<ujsor/>
-III. Értékpapírok F) Kötelezettségek 6228<ujsor/>
-IV. Pénzeszközök 2510 I. Hátra sorolt kötelezettségek<ujsor/>
-C) Aktív idõbeli elhatárolások II. Hosszú lejáratú kötelezettségek<ujsor/>
-III. Rövid lejáratú kötelezettségek 6228<ujsor/>
-G) Passzív idõbeli elhatárolások 141<ujsor/>
-ÖSSZESEN: 3685 ÖSSZESEN: 3685<ujsor/>
-A létrejövõ társaság, a MEDISO Kft. vagyonmérleg-tervezetének fõbb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-A) Befektetett eszközök 318 684 D) Saját tõke 1 322 391<ujsor/>
-I. Immateriális javak 13 982 I. Jegyzett tõke 13 000<ujsor/>
-II. Tárgyi eszközök 240 576 III. Tõketartalék<ujsor/>
-III. Befektetett pénzügyi eszközök 64 126 IV. Eredménytartalék 711 741<ujsor/>
-B) Forgóeszközök 2 237 472 V. Lekötött tartalék 597 650<ujsor/>
-I. Készletek 260 676 VII. Mérleg szerinti eredmény<ujsor/>
-II. Követelések 1 285 531 E) Céltartalékok 97 728<ujsor/>
-III. Értékpapírok 0 F) Kötelezettségek 1 162 008<ujsor/>
-IV. Pénzeszközök 691 265 I. Hátra sorolt kötelezettségek 153 000<ujsor/>
-C) Aktív idõbeli elhatárolások 45 686 II. Hosszú lejáratú kötelezettségek 9 172<ujsor/>
-III. Rövid lejáratú kötelezettségek 999 836<ujsor/>
-G) Passzív idõbeli elhatárolások 19 715<ujsor/>
-ÖSSZESEN: 2 601 842 ÖSSZESEN: 2 601 842<ujsor/>
-Felhívjuk hitelezõink figyelmét, hogy a közlemény második közzétételét követõ 30 napos határidõn belül azok a hitelezõk, akiknek a le nem járt követelései a hirdetmény elsõ közzétételét megelõzõen keletkeztek, követeléseik erejéig az átalakuló gazdasági társaságoktól biztosítékot követelhetnek a társaságok székhelyén.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡gon mint CÃ©gbÃ­rÃ³sÃ¡gon nyilvÃ¡ntartott MEDISO Orvosi BerendezÃ©s FejlesztÅ‘ Ã©s Szerviz Kft. (Cg.: [01 09 065375]; 1022 Budapest, AlsÃ³tÃ¶rÃ¶kvÃ©sz u. 14.), valamint a PRO-DZÃ‰TA Kft. (Cg.: [01 09 732474]; 1022 Budapest, AlsÃ³tÃ¶rÃ¶kvÃ©sz u. 14.) a 2006. Ã©vi IV. tv. alapjÃ¡n 2007. mÃ¡jus 20-Ã¡n Ã©s 2007. jÃºnius 28-Ã¡n elhatÃ¡rozta<ujsor/>
+egyesÃ¼lÃ©sÃ©t<ujsor/>
+oly mÃ³don, hogy a PRO-DZÃ‰TA Kft. beolvad a MEDISO Orvosi BerendezÃ©s FejlesztÅ‘ Ã©s Szerviz Kft.-be.<ujsor/>
+Az Ã¡talakulÃ¡ssal lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g fÅ‘bb adatai:<ujsor/>
+CÃ©gformÃ¡ja: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gneve: MEDISO Orvosi BerendezÃ©s FejlesztÅ‘ Ã©s Szerviz Kft.<ujsor/>
+SzÃ©khelye: 1022 Budapest, AlsÃ³tÃ¶rÃ¶kvÃ©sz u. 14.<ujsor/>
+A tÃ¡rsasÃ¡g Ã¼gyvezetÅ‘i: BagamÃ©ry IstvÃ¡n Ã¼gyvezetÅ‘ (a. n.: Varga Ida; 1022 Budapest, AlsÃ³tÃ¶rÃ¶kvÃ©sz u. 14.), Zelei ErzsÃ©bet Ã¼gyvezetÅ‘ (a. n.: Czeigersmidt ErzsÃ©bet; 1022 Budapest, AlsÃ³tÃ¶rÃ¶kvÃ©sz u. 14.).<ujsor/>
+A tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©ge: 3310 Orvosi mÅ±szer gyÃ¡rtÃ¡sa.<ujsor/>
+A tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s megkÃ¶tÃ©sÃ©nek napja: 2007. jÃºnius 28.<ujsor/>
+Az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g, a MEDISO Kft. vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 318 684 D) SajÃ¡t tÅ‘ke 1 325 075<ujsor/>
+I. ImmateriÃ¡lis javak 13 982 I. Jegyzett tÅ‘ke 10 000<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 240 576 III. TÅ‘ketartalÃ©k<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 64 126 IV. EredmÃ©nytartalÃ©k 917 425<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 2 233 787 V. LekÃ¶tÃ¶tt tartalÃ©k 397 650<ujsor/>
+I. KÃ©szletek 260 676 VII. MÃ©rleg szerinti eredmÃ©ny<ujsor/>
+II. KÃ¶vetelÃ©sek 1 284 356 E) CÃ©ltartalÃ©kok 97 728<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 F) KÃ¶telezettsÃ©gek 1 155 780<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 688 755 I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek 153 000<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 45 686 II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 9 172<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 993 608<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 19 574<ujsor/>
+Ã–SSZESEN: 2 598 157 Ã–SSZESEN: 2 598 157<ujsor/>
+A beolvadÃ³ tÃ¡rsasÃ¡g, a PRO-DZÃ‰TA Kft. vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k D) SajÃ¡t tÅ‘ke Â­2684<ujsor/>
+I. ImmateriÃ¡lis javak I. Jegyzett tÅ‘ke 3000<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k III. TÅ‘ketartalÃ©k<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k IV. EredmÃ©nytartalÃ©k Â­5684<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 3685 V. LekÃ¶tÃ¶tt tartalÃ©k<ujsor/>
+I. KÃ©szletek VII. MÃ©rleg szerinti eredmÃ©ny<ujsor/>
+II. KÃ¶vetelÃ©sek 1175 E) CÃ©ltartalÃ©kok<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok F) KÃ¶telezettsÃ©gek 6228<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 2510 I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 6228<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 141<ujsor/>
+Ã–SSZESEN: 3685 Ã–SSZESEN: 3685<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g, a MEDISO Kft. vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 318 684 D) SajÃ¡t tÅ‘ke 1 322 391<ujsor/>
+I. ImmateriÃ¡lis javak 13 982 I. Jegyzett tÅ‘ke 13 000<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 240 576 III. TÅ‘ketartalÃ©k<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 64 126 IV. EredmÃ©nytartalÃ©k 711 741<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 2 237 472 V. LekÃ¶tÃ¶tt tartalÃ©k 597 650<ujsor/>
+I. KÃ©szletek 260 676 VII. MÃ©rleg szerinti eredmÃ©ny<ujsor/>
+II. KÃ¶vetelÃ©sek 1 285 531 E) CÃ©ltartalÃ©kok 97 728<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 F) KÃ¶telezettsÃ©gek 1 162 008<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 691 265 I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek 153 000<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 45 686 II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 9 172<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 999 836<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 19 715<ujsor/>
+Ã–SSZESEN: 2 601 842 Ã–SSZESEN: 2 601 842<ujsor/>
+FelhÃ­vjuk hitelezÅ‘ink figyelmÃ©t, hogy a kÃ¶zlemÃ©ny mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ 30 napos hatÃ¡ridÅ‘n belÃ¼l azok a hitelezÅ‘k, akiknek a le nem jÃ¡rt kÃ¶vetelÃ©sei a hirdetmÃ©ny elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡goktÃ³l biztosÃ­tÃ©kot kÃ¶vetelhetnek a tÃ¡rsasÃ¡gok szÃ©khelyÃ©n.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109065375</mezo>
-<mezo id = "nev">MEDISO Orvosi Berendezés Fejlesztõ és Szerviz Kft</mezo>
+<mezo id = "nev">MEDISO Orvosi BerendezÃ©s FejlesztÅ‘ Ã©s Szerviz Kft</mezo>
 <mezo id = "cim">1022 Budapest</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2007. 09. 06-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-16. [01 09 732474] PRO-DZÉTA Ingatlanfejlesztõ Korlátolt Felelõsségû Társaság.<ujsor/>
- A változás idõpontja (törlés): 2007. 06. 28.<ujsor/>
- Törölve: 2007. 10. 08.<ujsor/>
- [01 09 732474] PRO-DZÉTA Ingatlanfejlesztõ Korlátolt Felelõsségû Társaság.<ujsor/>
- Az átalakulás cég által meghat. idõpontja: 2007. 10. 31.<ujsor/>
- A változás idõpontja: 2007. 06. 28.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2007. 09. 06-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+16. [01 09 732474] PRO-DZÃ‰TA IngatlanfejlesztÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2007. 06. 28.<ujsor/>
+ TÃ¶rÃ¶lve: 2007. 10. 08.<ujsor/>
+ [01 09 732474] PRO-DZÃ‰TA IngatlanfejlesztÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+ Az Ã¡talakulÃ¡s cÃ©g Ã¡ltal meghat. idÅ‘pontja: 2007. 10. 31.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2007. 06. 28.<ujsor/>
  Bejegyezve: 2007. 10. 08.<ujsor/>
 2007. 10. 08.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109065375</mezo>
-<mezo id = "nev">MEDISO Orvosi Berendezés Fejlesztõ és Szerviz Kft.</mezo>
-<mezo id = "cim">1022 Budapest, Alsótörökvész u. 14.</mezo>
+<mezo id = "nev">MEDISO Orvosi BerendezÃ©s FejlesztÅ‘ Ã©s Szerviz Kft.</mezo>
+<mezo id = "cim">1022 Budapest, AlsÃ³tÃ¶rÃ¶kvÃ©sz u. 14.</mezo>
 <mezo id = "adosz">10322174241</mezo>
 </alrovat>
 </rovat>

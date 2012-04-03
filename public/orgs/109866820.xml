@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">866820</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">1133 Budapest, Kárpát utca 54. </mezo>
+<mezo id = "cim">1133 Budapest, KÃ¡rpÃ¡t utca 54. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">13663559241</mezo>
 </alrovat>
@@ -13,13 +13,13 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20060308</mezo>
-<mezo id = "nev">Egészségpénztári Elszámoló Központ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">EgÃ©szsÃ©gpÃ©nztÃ¡ri ElszÃ¡molÃ³ KÃ¶zpont KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">20060308</mezo>
-<mezo id = "nev">Egészségpénztári Kft.</mezo>
+<mezo id = "nev">EgÃ©szsÃ©gpÃ©nztÃ¡ri Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
@@ -27,7 +27,7 @@
 <mezo id = "hattol">20060308</mezo>
 <mezo id = "irsz">1133</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Kárpát utca 54.</mezo>
+<mezo id = "teru">KÃ¡rpÃ¡t utca 54.</mezo>
 <mezo id = "kirsz">0</mezo>
 </alrovat>
 </rovat>
@@ -211,7 +211,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090521</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">számítógépes programozás</mezo>
+<mezo id = "teaszov">szÃ¡mÃ­tÃ³gÃ©pes programozÃ¡s</mezo>
 </alrovat>
 <alrovat id = "22">
 <mezo id = "hattol">20090331</mezo>
@@ -229,7 +229,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090521</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">egyéb szoftverkiadás</mezo>
+<mezo id = "teaszov">egyÃ©b szoftverkiadÃ¡s</mezo>
 </alrovat>
 <alrovat id = "23">
 <mezo id = "hattol">20090331</mezo>
@@ -247,7 +247,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090521</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">számítógép üzemeltetés</mezo>
+<mezo id = "teaszov">szÃ¡mÃ­tÃ³gÃ©p Ã¼zemeltetÃ©s</mezo>
 </alrovat>
 <alrovat id = "24">
 <mezo id = "hattol">20090331</mezo>
@@ -265,7 +265,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090521</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">számítógép, - periféria javítása</mezo>
+<mezo id = "teaszov">szÃ¡mÃ­tÃ³gÃ©p, - perifÃ©ria javÃ­tÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "25">
 <mezo id = "hattol">20090331</mezo>
@@ -283,7 +283,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090521</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">üzletviteli, egyéb vezetési tanácsadás</mezo>
+<mezo id = "teaszov">Ã¼zletviteli, egyÃ©b vezetÃ©si tanÃ¡csadÃ¡s</mezo>
 </alrovat>
 <alrovat id = "26">
 <mezo id = "hattol">20090331</mezo>
@@ -301,7 +301,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090521</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">egyéb kiegészítõ üzleti szolgáltatás</mezo>
+<mezo id = "teaszov">egyÃ©b kiegÃ©szÃ­tÅ‘ Ã¼zleti szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "27">
 <mezo id = "hattol">20090331</mezo>
@@ -319,7 +319,7 @@
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090521</mezo>
 <mezo id = "tkelt">0</mezo>
-<mezo id = "teaszov">egyéb információs szolgáltatás</mezo>
+<mezo id = "teaszov">egyÃ©b informÃ¡ciÃ³s szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -334,10 +334,10 @@
 <rovat id = "13">
 <alrovat id = "2">
 <mezo id = "hattol">20090331</mezo>
-<mezo id = "pnev">Simon Péter</mezo>
+<mezo id = "pnev">Simon PÃ©ter</mezo>
 <mezo id = "panev">Babics Etelka</mezo>
 <mezo id = "pirsz">9023</mezo>
-<mezo id = "phely">Gyõr, Álmos út 5.</mezo>
+<mezo id = "phely">GyÅ‘r, Ãlmos Ãºt 5.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">d</mezo>
 <mezo id = "jogvk">20090331</mezo>
@@ -362,11 +362,11 @@
 <rovat id = "0109">
 <alrovat id = "6">
 <mezo id = "hattol">20090331</mezo>
-<mezo id = "nev">AXA Önkéntes Egészségpénztár</mezo>
+<mezo id = "nev">AXA Ã–nkÃ©ntes EgÃ©szsÃ©gpÃ©nztÃ¡r</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1138</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Váci</mezo>
+<mezo id = "teru">VÃ¡ci</mezo>
 <mezo id = "hsz">135-139.</mezo>
 <mezo id = "tagsk">20090331</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -378,11 +378,11 @@
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">20090331</mezo>
-<mezo id = "nev">MKB Egészségpénztár</mezo>
+<mezo id = "nev">MKB EgÃ©szsÃ©gpÃ©nztÃ¡r</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1056</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Váci</mezo>
+<mezo id = "teru">VÃ¡ci</mezo>
 <mezo id = "hsz">38.</mezo>
 <mezo id = "tagsk">20090331</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -394,7 +394,7 @@
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">20090331</mezo>
-<mezo id = "nev">Honvéd Önkéntes Kölcsönös Kiegészítõ Egészségbiztosító Pénztár</mezo>
+<mezo id = "nev">HonvÃ©d Ã–nkÃ©ntes KÃ¶lcsÃ¶nÃ¶s KiegÃ©szÃ­tÅ‘ EgÃ©szsÃ©gbiztosÃ­tÃ³ PÃ©nztÃ¡r</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1135</mezo>
 <mezo id = "hely">Budapest</mezo>
@@ -410,11 +410,11 @@
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">20090331</mezo>
-<mezo id = "nev">OTP Országos Egészségpénztár</mezo>
+<mezo id = "nev">OTP OrszÃ¡gos EgÃ©szsÃ©gpÃ©nztÃ¡r</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1051</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Mérleg</mezo>
+<mezo id = "teru">MÃ©rleg</mezo>
 <mezo id = "hsz">4.</mezo>
 <mezo id = "tagsk">20090331</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -426,7 +426,7 @@
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">20090331</mezo>
-<mezo id = "nev">Vitamin Egészségpénztár</mezo>
+<mezo id = "nev">Vitamin EgÃ©szsÃ©gpÃ©nztÃ¡r</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1011</mezo>
 <mezo id = "hely">Budapest</mezo>

@@ -686,7 +686,7 @@ h2 {
   text-align: center;
 }
 
-.pagination .ajax-loader, .order_list .ajax-loader {
+.pagination .ajax-loader, .order_list .ajax-loader, .field-heading-row .ajax-loader {
   position: relative;
   top: 4px;
   width: 15px;
@@ -719,7 +719,7 @@ h2 {
 
 #map_panel .tab_content {
   width: 100%;
-  height: 300px;
+  height: 286px;
   overflow-y: auto;
 }
 
@@ -1023,7 +1023,7 @@ h2 {
   margin-top: 40px
 }
 
-.card.p2p-relation-type, .card.p2o-relation-type, .card.o2p-relation-type, .card.o2o-relation-type {
+.card.p_to_p-relation-type, .card.p_to_o-relation-type, .card.o_to_p-relation-type, .card.o_to_o-relation-type {
   border-bottom: 1px solid gray;
   border-top: 1px solid gray;
   margin: 2px;
@@ -1083,3 +1083,8 @@ textarea {
   color: #6EA4B0 !important;
 }
 
+.redraw {
+  margin-left: 130px !important;
+  margin-top: 14px;
+  margin-bottom: -40px;
+}

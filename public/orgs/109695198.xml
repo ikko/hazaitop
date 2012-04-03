@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">695198</mezo>
 <mezo id = "nevalrovat">3</mezo>
-<mezo id = "cim">1124 Budapest, Nagysalló utca 2. 1. em. 7. </mezo>
+<mezo id = "cim">1124 Budapest, NagysallÃ³ utca 2. 1. em. 7. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">12617407243</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "3">
 <mezo id = "hattol">20080515</mezo>
-<mezo id = "nev">CEUCON Építõipari Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">CEUCON Ã‰pÃ­tÅ‘ipari KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">20080515</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20080527</mezo>
@@ -35,7 +35,7 @@
 <mezo id = "hattol">20010403</mezo>
 <mezo id = "irsz">1124</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Nagysalló utca 2. 1. em. 7.</mezo>
+<mezo id = "teru">NagysallÃ³ utca 2. 1. em. 7.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "8">
@@ -524,12 +524,12 @@
 <rovat id = "13">
 <alrovat id = "4">
 <mezo id = "hattol">20091015</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Salgó Ferenc László</mezo>
-<mezo id = "panev">Magyar Teréz</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">SalgÃ³ Ferenc LÃ¡szlÃ³</mezo>
+<mezo id = "panev">Magyar TerÃ©z</mezo>
 <mezo id = "pirsz">1124</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Nagysalló u 2.</mezo>
+<mezo id = "pteru">NagysallÃ³ u 2.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20091015</mezo>
 <mezo id = "valtk">20091015</mezo>
@@ -537,12 +537,12 @@
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20091015</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Salgó László Csaba</mezo>
-<mezo id = "panev">Kun Mária Piroska</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">SalgÃ³ LÃ¡szlÃ³ Csaba</mezo>
+<mezo id = "panev">Kun MÃ¡ria Piroska</mezo>
 <mezo id = "pirsz">1124</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Nagysalló u 2.</mezo>
+<mezo id = "pteru">NagysallÃ³ u 2.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20091015</mezo>
 <mezo id = "valtk">20091015</mezo>
@@ -553,7 +553,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20091015</mezo>
 <mezo id = "cgjsz">0106119272</mezo>
-<mezo id = "nev">&quot;FINIS&quot; Építõipari Vállalkozási Betéti Társaság</mezo>
+<mezo id = "nev">&quot;FINIS&quot; Ã‰pÃ­tÅ‘ipari VÃ¡llalkozÃ¡si BetÃ©ti TÃ¡rsasÃ¡g</mezo>
 <mezo id = "atdat">20090101</mezo>
 <mezo id = "valtk">20091015</mezo>
 <mezo id = "bkelt">20091015</mezo>
@@ -582,10 +582,10 @@
 <rovat id = "0109">
 <alrovat id = "4">
 <mezo id = "hattol">20080515</mezo>
-<mezo id = "pnev">Salgó Ferenc</mezo>
-<mezo id = "panev">Magyar Teréz</mezo>
+<mezo id = "pnev">SalgÃ³ Ferenc</mezo>
+<mezo id = "panev">Magyar TerÃ©z</mezo>
 <mezo id = "pirsz">1124</mezo>
-<mezo id = "phely">Budapest, Nagysalló u. 2. I/7.</mezo>
+<mezo id = "phely">Budapest, NagysallÃ³ u. 2. I/7.</mezo>
 <mezo id = "tagsk">20010201</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "sz1">x</mezo>
@@ -596,8 +596,8 @@
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20101028</mezo>
-<mezo id = "pnev">Salgó László Csaba</mezo>
-<mezo id = "panev">Kun Mária Piroska</mezo>
+<mezo id = "pnev">SalgÃ³ LÃ¡szlÃ³ Csaba</mezo>
+<mezo id = "panev">Kun MÃ¡ria Piroska</mezo>
 <mezo id = "tagsk">20010201</mezo>
 <mezo id = "valtk">20101028</mezo>
 <mezo id = "bkelt">20101109</mezo>
@@ -607,61 +607,61 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A „FINIS” Építõipari Vállalkozási Betéti Társaság (Cg.: [01 06 119272]; székhelye: 1124 Budapest, Nagysalló u. 2.) 2009. július 1-jén tartott tagok gyûlésén hozott 1/2009. számú határozatában elhatározta, hogy<ujsor/>
+<mezo id = "szoveg">A â€FINISâ€ Ã‰pÃ­tÅ‘ipari VÃ¡llalkozÃ¡si BetÃ©ti TÃ¡rsasÃ¡g (Cg.: [01 06 119272]; szÃ©khelye: 1124 Budapest, NagysallÃ³ u. 2.) 2009. jÃºlius 1-jÃ©n tartott tagok gyÅ±lÃ©sÃ©n hozott 1/2009. szÃ¡mÃº hatÃ¡rozatÃ¡ban elhatÃ¡rozta, hogy<ujsor/>
 beolvad<ujsor/>
-a CEUCON Építõipari Korlátolt Felelõsségû Társaságba (Cg.: [01 09 695198]; székhelye: 1124 Budapest, Nagysalló u. 2. I. 7.).<ujsor/>
-A társaság általános jogutódja a beolvadás útján történõ átalakulás eredményeként a CEUCON Építõipari Kft. A társasági szerzõdés keltének tervezett idõpontja: 2009. július 1. A jogutód gazdasági társaság fõ tevékenysége: 4110 Épületépítési projekt szervezése, a társaság leendõ képviselõi külön-külön cégjegyzéssel és képviseleti joggal: Salgó Ferenc (1124 Budapest, Nagysalló u. 2. I. 7.) és Salgó László (1124 Budapest, Nagysalló u. 2. I. 7.).<ujsor/>
-Az átalakuló gazdasági társaságok és a jogutód gazdasági társaság vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
+a CEUCON Ã‰pÃ­tÅ‘ipari KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gba (Cg.: [01 09 695198]; szÃ©khelye: 1124 Budapest, NagysallÃ³ u. 2. I. 7.).<ujsor/>
+A tÃ¡rsasÃ¡g Ã¡ltalÃ¡nos jogutÃ³dja a beolvadÃ¡s ÃºtjÃ¡n tÃ¶rtÃ©nÅ‘ Ã¡talakulÃ¡s eredmÃ©nyekÃ©nt a CEUCON Ã‰pÃ­tÅ‘ipari Kft. A tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s keltÃ©nek tervezett idÅ‘pontja: 2009. jÃºlius 1. A jogutÃ³d gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©ge: 4110 Ã‰pÃ¼letÃ©pÃ­tÃ©si projekt szervezÃ©se, a tÃ¡rsasÃ¡g leendÅ‘ kÃ©pviselÅ‘i kÃ¼lÃ¶n-kÃ¼lÃ¶n cÃ©gjegyzÃ©ssel Ã©s kÃ©pviseleti joggal: SalgÃ³ Ferenc (1124 Budapest, NagysallÃ³ u. 2. I. 7.) Ã©s SalgÃ³ LÃ¡szlÃ³ (1124 Budapest, NagysallÃ³ u. 2. I. 7.).<ujsor/>
+Az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gok Ã©s a jogutÃ³d gazdasÃ¡gi tÃ¡rsasÃ¡g vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK Átalakuló CEUCON Kft. Átalakuló „Finis” Bt. Jogutód CEUCON Kft.<ujsor/>
-Befektetett eszközök 290 0 290<ujsor/>
-Forgóeszközök 36 333 4 116 38 756<ujsor/>
-Aktív idõbeli elhatárolások 1 760 0 1 760<ujsor/>
-ÖSSZESEN: 38 383 4 116 40 806<ujsor/>
+ESZKÃ–ZÃ–K ÃtalakulÃ³ CEUCON Kft. ÃtalakulÃ³ â€Finisâ€ Bt. JogutÃ³d CEUCON Kft.<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 290 0 290<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 36 333 4 116 38 756<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 1 760 0 1 760<ujsor/>
+Ã–SSZESEN: 38 383 4 116 40 806<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK Átalakuló CEUCON Kft. Átalakuló „Finis” Bt. Jogutód CEUCON Kft.<ujsor/>
-Saját tõke 7 330 2 039 9 369<ujsor/>
-Jegyzett tõke 3 000 40 3 000<ujsor/>
-Eredménytartalék 4 330 1 999 6 369<ujsor/>
-Céltartalékok 0 0 0<ujsor/>
-Kötelezettségek 29 179 2 042 29 528<ujsor/>
-Passzív idõbeli elhatárolások 1 874 35 1 909<ujsor/>
-ÖSSZESEN: 38 383 4 116 40 806<ujsor/>
-A gazdasági társaság felhívja a hitelezõket, akiknek a „FINIS” Építõipari Vállalkozási Betéti Társasággal szemben fennálló, le nem járt követelései az átalakulással hozott döntés elsõ közzétételét megelõzõen keletkeztek, követeléseik erejéig az átalakuló gazdasági társaságtól a döntés második közzétételét követõ harmincnapos jogvesztõ határidõn belül biztosítékot követelhetnek.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+FORRÃSOK ÃtalakulÃ³ CEUCON Kft. ÃtalakulÃ³ â€Finisâ€ Bt. JogutÃ³d CEUCON Kft.<ujsor/>
+SajÃ¡t tÅ‘ke 7 330 2 039 9 369<ujsor/>
+Jegyzett tÅ‘ke 3 000 40 3 000<ujsor/>
+EredmÃ©nytartalÃ©k 4 330 1 999 6 369<ujsor/>
+CÃ©ltartalÃ©kok 0 0 0<ujsor/>
+KÃ¶telezettsÃ©gek 29 179 2 042 29 528<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 1 874 35 1 909<ujsor/>
+Ã–SSZESEN: 38 383 4 116 40 806<ujsor/>
+A gazdasÃ¡gi tÃ¡rsasÃ¡g felhÃ­vja a hitelezÅ‘ket, akiknek a â€FINISâ€ Ã‰pÃ­tÅ‘ipari VÃ¡llalkozÃ¡si BetÃ©ti TÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei az Ã¡talakulÃ¡ssal hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gtÃ³l a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109695198</mezo>
-<mezo id = "nev">BUDAI-ÉPKER Építõipari Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">BUDAI-Ã‰PKER Ã‰pÃ­tÅ‘ipari KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1124 Budapest</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A „FINIS” Építõipari Vállalkozási Betéti Társaság (Cg.: [01 06 119272]; székhelye: 1124 Budapest, Nagysalló u. 2.) 2009. július 1-jén tartott tagok gyûlésén hozott 1/2009. számú határozatában elhatározta, hogy<ujsor/>
+<mezo id = "szoveg">A â€FINISâ€ Ã‰pÃ­tÅ‘ipari VÃ¡llalkozÃ¡si BetÃ©ti TÃ¡rsasÃ¡g (Cg.: [01 06 119272]; szÃ©khelye: 1124 Budapest, NagysallÃ³ u. 2.) 2009. jÃºlius 1-jÃ©n tartott tagok gyÅ±lÃ©sÃ©n hozott 1/2009. szÃ¡mÃº hatÃ¡rozatÃ¡ban elhatÃ¡rozta, hogy<ujsor/>
 beolvad<ujsor/>
-a CEUCON Építõipari Korlátolt Felelõsségû Társaságba (Cg.: [01 09 695198]; székhelye: 1124 Budapest, Nagysalló u. 2. I. 7.).<ujsor/>
-A társaság általános jogutódja a beolvadás útján történõ átalakulás eredményeként a CEUCON Építõipari Kft. A társasági szerzõdés keltének tervezett idõpontja: 2009. július 1. A jogutód gazdasági társaság fõ tevékenysége: 4110 Épületépítési projekt szervezése, a társaság leendõ képviselõi külön-külön cégjegyzéssel és képviseleti joggal: Salgó Ferenc (1124 Budapest, Nagysalló u. 2. I. 7.) és Salgó László (1124 Budapest, Nagysalló u. 2. I. 7.).<ujsor/>
-Az átalakuló gazdasági társaságok és a jogutód gazdasági társaság vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
+a CEUCON Ã‰pÃ­tÅ‘ipari KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gba (Cg.: [01 09 695198]; szÃ©khelye: 1124 Budapest, NagysallÃ³ u. 2. I. 7.).<ujsor/>
+A tÃ¡rsasÃ¡g Ã¡ltalÃ¡nos jogutÃ³dja a beolvadÃ¡s ÃºtjÃ¡n tÃ¶rtÃ©nÅ‘ Ã¡talakulÃ¡s eredmÃ©nyekÃ©nt a CEUCON Ã‰pÃ­tÅ‘ipari Kft. A tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s keltÃ©nek tervezett idÅ‘pontja: 2009. jÃºlius 1. A jogutÃ³d gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©ge: 4110 Ã‰pÃ¼letÃ©pÃ­tÃ©si projekt szervezÃ©se, a tÃ¡rsasÃ¡g leendÅ‘ kÃ©pviselÅ‘i kÃ¼lÃ¶n-kÃ¼lÃ¶n cÃ©gjegyzÃ©ssel Ã©s kÃ©pviseleti joggal: SalgÃ³ Ferenc (1124 Budapest, NagysallÃ³ u. 2. I. 7.) Ã©s SalgÃ³ LÃ¡szlÃ³ (1124 Budapest, NagysallÃ³ u. 2. I. 7.).<ujsor/>
+Az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gok Ã©s a jogutÃ³d gazdasÃ¡gi tÃ¡rsasÃ¡g vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK Átalakuló CEUCON Kft. Átalakuló „Finis” Bt. Jogutód CEUCON Kft.<ujsor/>
-Befektetett eszközök 290 0 290<ujsor/>
-Forgóeszközök 36 333 4 116 38 756<ujsor/>
-Aktív idõbeli elhatárolások 1 760 0 1 760<ujsor/>
-ÖSSZESEN: 38 383 4 116 40 806<ujsor/>
+ESZKÃ–ZÃ–K ÃtalakulÃ³ CEUCON Kft. ÃtalakulÃ³ â€Finisâ€ Bt. JogutÃ³d CEUCON Kft.<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 290 0 290<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 36 333 4 116 38 756<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 1 760 0 1 760<ujsor/>
+Ã–SSZESEN: 38 383 4 116 40 806<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK Átalakuló CEUCON Kft. Átalakuló „Finis” Bt. Jogutód CEUCON Kft.<ujsor/>
-Saját tõke 7 330 2 039 9 369<ujsor/>
-Jegyzett tõke 3 000 40 3 000<ujsor/>
-Eredménytartalék 4 330 1 999 6 369<ujsor/>
-Céltartalékok 0 0 0<ujsor/>
-Kötelezettségek 29 179 2 042 29 528<ujsor/>
-Passzív idõbeli elhatárolások 1 874 35 1 909<ujsor/>
-ÖSSZESEN: 38 383 4 116 40 806<ujsor/>
-A gazdasági társaság felhívja a hitelezõket, akiknek a „FINIS” Építõipari Vállalkozási Betéti Társasággal szemben fennálló, le nem járt követelései az átalakulással hozott döntés elsõ közzétételét megelõzõen keletkeztek, követeléseik erejéig az átalakuló gazdasági társaságtól a döntés második közzétételét követõ harmincnapos jogvesztõ határidõn belül biztosítékot követelhetnek.<ujsor/>
-(Második közzététel.)<ujsor/>
+FORRÃSOK ÃtalakulÃ³ CEUCON Kft. ÃtalakulÃ³ â€Finisâ€ Bt. JogutÃ³d CEUCON Kft.<ujsor/>
+SajÃ¡t tÅ‘ke 7 330 2 039 9 369<ujsor/>
+Jegyzett tÅ‘ke 3 000 40 3 000<ujsor/>
+EredmÃ©nytartalÃ©k 4 330 1 999 6 369<ujsor/>
+CÃ©ltartalÃ©kok 0 0 0<ujsor/>
+KÃ¶telezettsÃ©gek 29 179 2 042 29 528<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 1 874 35 1 909<ujsor/>
+Ã–SSZESEN: 38 383 4 116 40 806<ujsor/>
+A gazdasÃ¡gi tÃ¡rsasÃ¡g felhÃ­vja a hitelezÅ‘ket, akiknek a â€FINISâ€ Ã‰pÃ­tÅ‘ipari VÃ¡llalkozÃ¡si BetÃ©ti TÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei az Ã¡talakulÃ¡ssal hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gtÃ³l a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109695198</mezo>
-<mezo id = "nev">BUDAI-ÉPKER Építõipari Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">BUDAI-Ã‰PKER Ã‰pÃ­tÅ‘ipari KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1124 Budapest</mezo>
 </alrovat>
 </rovat>

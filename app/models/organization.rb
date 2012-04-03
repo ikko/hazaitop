@@ -4,7 +4,7 @@ class Organization < ActiveRecord::Base
   hobo_model # Don't put anything above this
 
   fields do
-    name                          :string, :unique
+    name                          :string, :unique, :index => true
     alternate_name                :string # ha unique miatt nem menti le, akkor itt található, h mit nem engedett
     klink                         :string
     street                        :string
@@ -44,7 +44,7 @@ class Organization < ActiveRecord::Base
     complex_xml :text
     search_result_count           :integer, :default => 0
     company :boolean, :default => false
-    address :string
+    address :string, :index => true
   end
 
   belongs_to :merge_from, :class_name => "Organization"
@@ -53,6 +53,8 @@ class Organization < ActiveRecord::Base
   
   has_many :announcements
   has_many :liquidations
+
+  named_scope :info, lambda { |info_ids| info_ids.present? ? { :conditions => [ "organizations.information_source_id in (?)", info_ids ]} : {} }
 
   def self.merge into_this, this
 
@@ -100,14 +102,14 @@ class Organization < ActiveRecord::Base
   has_many :person_to_org_relations, :accessible => true, :order => 'person_id'
 
   # helperek a vizualicáziós részhez
-  has_many :person_to_org_non_litigation_relations, :conditions => [ "visual = ?", true], :class_name => "PersonToOrgRelation"
-  has_many :person_to_org_litigation_relations, :conditions => [ "visual = ?", false], :class_name => "PersonToOrgRelation"
-  has_many :interorg_non_litigation_relations, :conditions => [ "visual = ?", true], :class_name => "InterorgRelation"
-  has_many :interorg_litigation_relations, :conditions => [ "visual = ?", false], :class_name => "InterorgRelation"
+  has_many :person_to_org_non_litigation_relations, :conditions => [ "person_to_org_relations.visual = ?", true], :class_name => "PersonToOrgRelation"
+  has_many :person_to_org_litigation_relations, :conditions => [ "person_to_org_litigation_relations.visual = ?", false], :class_name => "PersonToOrgRelation"
+  has_many :interorg_non_litigation_relations, :conditions => [ "interorg_relations.visual = ?", true], :class_name => "InterorgRelation"
+  has_many :interorg_litigation_relations, :conditions => [ "interorg_relations.visual = ?", false], :class_name => "InterorgRelation"
 
   # helperek adminhoz
-  has_many :manual_person_to_org_relations, :conditions => [ "parsed = ?", false ], :class_name => "PersonToOrgRelation", :accessible => true
-  has_many :manual_interorg_relations,      :conditions => [ "parsed = ?", false ], :class_name => "InterorgRelation", :accessible => true
+  has_many :manual_person_to_org_relations, :conditions => [ "person_to_org_relations.parsed = ?", false ], :class_name => "PersonToOrgRelation", :accessible => true
+  has_many :manual_interorg_relations,      :conditions => [ "interorg_relations.parsed = ?", false ], :class_name => "InterorgRelation", :accessible => true
 
   has_many :people,       :through => :person_to_org_relations
 

@@ -7,7 +7,7 @@
 <mezo id = "nevalrovat">1</mezo>
 <mezo id = "uj_szh">1309135731</mezo>
 <mezo id = "allapot">6</mezo>
-<mezo id = "cim">1033 Budapest, Hajógyári-sziget, Május 9 park. </mezo>
+<mezo id = "cim">1033 Budapest, HajÃ³gyÃ¡ri-sziget, MÃ¡jus 9 park. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">12322211241</mezo>
 </alrovat>
@@ -15,13 +15,13 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19971112</mezo>
-<mezo id = "nev">Városkert Gépipari és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">VÃ¡roskert GÃ©pipari Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">19971112</mezo>
-<mezo id = "nev">Városkert Kft.</mezo>
+<mezo id = "nev">VÃ¡roskert Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
@@ -29,7 +29,7 @@
 <mezo id = "hattol">20051212</mezo>
 <mezo id = "irsz">1033</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Hajógyári-sziget, Május 9 park.</mezo>
+<mezo id = "teru">HajÃ³gyÃ¡ri-sziget, MÃ¡jus 9 park.</mezo>
 <mezo id = "kirsz">0</mezo>
 </alrovat>
 </rovat>
@@ -37,7 +37,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20080429</mezo>
 <mezo id = "irsz">2051</mezo>
-<mezo id = "hely">Biatorbágy, Vendel park II., Tormásrét utca 3.</mezo>
+<mezo id = "hely">BiatorbÃ¡gy, Vendel park II., TormÃ¡srÃ©t utca 3.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20080429</mezo>
 <mezo id = "valtv">0</mezo>
@@ -592,10 +592,10 @@
 <rovat id = "13">
 <alrovat id = "2">
 <mezo id = "hattol">20050401</mezo>
-<mezo id = "pnev">Szigetvári János</mezo>
-<mezo id = "panev">Zábó Margit</mezo>
+<mezo id = "pnev">SzigetvÃ¡ri JÃ¡nos</mezo>
+<mezo id = "panev">ZÃ¡bÃ³ Margit</mezo>
 <mezo id = "pirsz">1025</mezo>
-<mezo id = "phely">Budapest, Verecke út 140.</mezo>
+<mezo id = "phely">Budapest, Verecke Ãºt 140.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">2</mezo>
 <mezo id = "jogvk">20050401</mezo>
@@ -606,12 +606,12 @@
 <alrovat id = "1">
 <mezo id = "hattol">20051212</mezo>
 <mezo id = "cgjsz">109466860</mezo>
-<mezo id = "nev">DIKO Gazdasági Tanácsadó és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">DIKO GazdasÃ¡gi TanÃ¡csadÃ³ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1031</mezo>
 <mezo id = "hely">Budapest, Kazal u 14.</mezo>
-<mezo id = "pnev">Pergerné Fehér Ildikó</mezo>
-<mezo id = "panev">Puskás Anna</mezo>
+<mezo id = "pnev">PergernÃ© FehÃ©r IldikÃ³</mezo>
+<mezo id = "panev">PuskÃ¡s Anna</mezo>
 <mezo id = "pirsz">1031</mezo>
 <mezo id = "phely">Budapest, Kazal u. 14.</mezo>
 <mezo id = "jogvk">20051212</mezo>
@@ -639,31 +639,31 @@
 <rovat id = "0109">
 <alrovat id = "1">
 <mezo id = "hattol">19971112</mezo>
-<mezo id = "nev">Szigetvári János</mezo>
+<mezo id = "nev">SzigetvÃ¡ri JÃ¡nos</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1025</mezo>
-<mezo id = "hely">Budapest, Verecke út 140.</mezo>
+<mezo id = "hely">Budapest, Verecke Ãºt 140.</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">19971112</mezo>
-<mezo id = "nev">Szigetvári Jánosné</mezo>
+<mezo id = "nev">SzigetvÃ¡ri JÃ¡nosnÃ©</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1025</mezo>
-<mezo id = "hely">Budapest, Verecke út 140.</mezo>
+<mezo id = "hely">Budapest, Verecke Ãºt 140.</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">19971112</mezo>
-<mezo id = "nev">Szigetvári Gábor</mezo>
+<mezo id = "nev">SzigetvÃ¡ri GÃ¡bor</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1025</mezo>
-<mezo id = "hely">Budapest, Verecke út 140.</mezo>
+<mezo id = "hely">Budapest, Verecke Ãºt 140.</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20080415</mezo>
-<mezo id = "pnev">Szigetvári Szilvia</mezo>
+<mezo id = "pnev">SzigetvÃ¡ri Szilvia</mezo>
 <mezo id = "panev">Sipos Katalin</mezo>
 <mezo id = "pirsz">1025</mezo>
-<mezo id = "phely">Budapest, Pusztaszeri köz 2.</mezo>
+<mezo id = "phely">Budapest, Pusztaszeri kÃ¶z 2.</mezo>
 <mezo id = "tagsk">19971112</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20080415</mezo>
@@ -681,28 +681,28 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2008. 05. 08-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-14. [01 09 466860] DIKO Gazdasági Tanácsadó és Szolgáltató Korlátolt Felelõsségû Társaság<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2008. 05. 08-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+14. [01 09 466860] DIKO GazdasÃ¡gi TanÃ¡csadÃ³ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g<ujsor/>
 HU 1031 Budapest, Kazal u 14.<ujsor/>
- Pergerné Fehér Ildikó (an: Puskás Anna)<ujsor/>
+ PergernÃ© FehÃ©r IldikÃ³ (an: PuskÃ¡s Anna)<ujsor/>
 1031 Budapest, Kazal u. 14.<ujsor/>
  A jogviszony kezdete: 2005. 12. 12.<ujsor/>
- A jogviszony vége: 2008. 12. 12.<ujsor/>
- A változás idõpontja (törlés): 2008. 12. 12.<ujsor/>
- Törölve: 2008. 12. 12.<ujsor/>
- [01 09 466860] DIKO Gazdasági Tanácsadó és Szolgáltató Korlátolt Felelõsségû Társaság<ujsor/>
+ A jogviszony vÃ©ge: 2008. 12. 12.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2008. 12. 12.<ujsor/>
+ TÃ¶rÃ¶lve: 2008. 12. 12.<ujsor/>
+ [01 09 466860] DIKO GazdasÃ¡gi TanÃ¡csadÃ³ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g<ujsor/>
 HU 1031 Budapest, Kazal u. 14.<ujsor/>
- Pergerné Fehér Ildikó (an: Puskás Anna)<ujsor/>
+ PergernÃ© FehÃ©r IldikÃ³ (an: PuskÃ¡s Anna)<ujsor/>
 1031 Budapest, Kazal u. 14.<ujsor/>
  A jogviszony kezdete: 2008. 12. 12.<ujsor/>
- A jogviszony vége: 2012. 12. 31.<ujsor/>
- A változás idõpontja: 2008. 12. 12.<ujsor/>
+ A jogviszony vÃ©ge: 2012. 12. 31.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 12. 12.<ujsor/>
  Bejegyezve: 2008. 12. 12.<ujsor/>
 2009. 01. 06.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109665519</mezo>
-<mezo id = "nev">Városkert Gépipari és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1033 Budapest, Hajógyári sziget, Május 9 park.</mezo>
+<mezo id = "nev">VÃ¡roskert GÃ©pipari Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1033 Budapest, HajÃ³gyÃ¡ri sziget, MÃ¡jus 9 park.</mezo>
 <mezo id = "adosz">12322211241</mezo>
 </alrovat>
 </rovat>

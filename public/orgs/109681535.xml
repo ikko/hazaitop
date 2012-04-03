@@ -7,23 +7,23 @@
 <mezo id = "nevalrovat">3</mezo>
 <mezo id = "regi_szh">1309078911</mezo>
 <mezo id = "allapot">6</mezo>
-<mezo id = "cim">1065 Budapest, Bajcsy-Zsilinszky út 31. </mezo>
+<mezo id = "cim">1065 Budapest, Bajcsy-Zsilinszky Ãºt 31. </mezo>
 <mezo id = "adosz">12107070242</mezo>
 </alrovat>
 </rovat>
 <rovat id = "2">
 <alrovat id = "1">
-<mezo id = "nev">FORD-GÁZ Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">FORD-GÃZ Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">19970909</mezo>
-<mezo id = "nev">Fedor János Consulting Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Fedor JÃ¡nos Consulting KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "2">
 <mezo id = "hattol">19970909</mezo>
-<mezo id = "nev">Fedor János Kft.</mezo>
+<mezo id = "nev">Fedor JÃ¡nos Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
@@ -31,7 +31,7 @@
 <mezo id = "hattol">19990615</mezo>
 <mezo id = "irsz">1065</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Bajcsy-Zsilinszky út 31.</mezo>
+<mezo id = "teru">Bajcsy-Zsilinszky Ãºt 31.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "8">
@@ -187,9 +187,9 @@
 <rovat id = "13">
 <alrovat id = "3">
 <mezo id = "hattol">20000413</mezo>
-<mezo id = "tiszt">ügyvezetõ</mezo>
-<mezo id = "pnev">Fedor János</mezo>
-<mezo id = "panev">Németh Anna</mezo>
+<mezo id = "tiszt">Ã¼gyvezetÅ‘</mezo>
+<mezo id = "pnev">Fedor JÃ¡nos</mezo>
+<mezo id = "panev">NÃ©meth Anna</mezo>
 <mezo id = "pirsz">2000</mezo>
 <mezo id = "phely">Szentendre</mezo>
 <mezo id = "pteru">Ady Endre u. 88/A.</mezo>
@@ -198,10 +198,10 @@
 <rovat id = "14">
 <alrovat id = "2">
 <mezo id = "hattol">19980121</mezo>
-<mezo id = "nev">Dr. Kovács Árpád</mezo>
+<mezo id = "nev">Dr. KovÃ¡cs ÃrpÃ¡d</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1033</mezo>
-<mezo id = "hely">Budapest, Kaszásdûlõ 5.</mezo>
+<mezo id = "hely">Budapest, KaszÃ¡sdÅ±lÅ‘ 5.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "20">
@@ -219,20 +219,20 @@
 <rovat id = "0109">
 <alrovat id = "5">
 <mezo id = "hattol">20000413</mezo>
-<mezo id = "pnev">Fedor János</mezo>
-<mezo id = "panev">Németh Anna</mezo>
+<mezo id = "pnev">Fedor JÃ¡nos</mezo>
+<mezo id = "panev">NÃ©meth Anna</mezo>
 <mezo id = "pirsz">2000</mezo>
 <mezo id = "phely">Szentendre, Ady Endre u. 88/A.</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20000413</mezo>
-<mezo id = "pnev">Josef Bognár</mezo>
+<mezo id = "pnev">Josef BognÃ¡r</mezo>
 <mezo id = "panev">Gianits Etelka</mezo>
 <mezo id = "pkorsz">AT</mezo>
 <mezo id = "pkirsz">2340</mezo>
-<mezo id = "pkhely">Mödling, Enzerdorfer Str. 54.</mezo>
-<mezo id = "pmnev">Fedor János</mezo>
-<mezo id = "pmanev">Németh Anna</mezo>
+<mezo id = "pkhely">MÃ¶dling, Enzerdorfer Str. 54.</mezo>
+<mezo id = "pmnev">Fedor JÃ¡nos</mezo>
+<mezo id = "pmanev">NÃ©meth Anna</mezo>
 <mezo id = "pmirsz">2000</mezo>
 <mezo id = "pmhely">Szentendre, Ady Endre u. 88/A.</mezo>
 </alrovat>
@@ -246,67 +246,67 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a cég hivatalbóli törlésére<ujsor/>
-irányuló eljárást megindítja.<ujsor/>
-Felhívja a bíróság azokat,<ujsor/>
-akiknek a cég székhelyére,<ujsor/>
-mûködésére - ideértve azt az esetet is,<ujsor/>
-ha a cég ellen per van folyamatban - illetve<ujsor/>
-a képviselõ lakóhelyére vonatkozó adatról<ujsor/>
-tudomásuk van, azt<ujsor/>
-a Cégközlönyben<ujsor/>
-való közzétételtõl<ujsor/>
-számított 30 napon<ujsor/>
-belül jelentsék be a Cégbíróságnak.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a cÃ©g hivatalbÃ³li tÃ¶rlÃ©sÃ©re<ujsor/>
+irÃ¡nyulÃ³ eljÃ¡rÃ¡st megindÃ­tja.<ujsor/>
+FelhÃ­vja a bÃ­rÃ³sÃ¡g azokat,<ujsor/>
+akiknek a cÃ©g szÃ©khelyÃ©re,<ujsor/>
+mÅ±kÃ¶dÃ©sÃ©re - ideÃ©rtve azt az esetet is,<ujsor/>
+ha a cÃ©g ellen per van folyamatban - illetve<ujsor/>
+a kÃ©pviselÅ‘ lakÃ³helyÃ©re vonatkozÃ³ adatrÃ³l<ujsor/>
+tudomÃ¡suk van, azt<ujsor/>
+a CÃ©gkÃ¶zlÃ¶nyben<ujsor/>
+valÃ³ kÃ¶zzÃ©tÃ©teltÅ‘l<ujsor/>
+szÃ¡mÃ­tott 30 napon<ujsor/>
+belÃ¼l jelentsÃ©k be a CÃ©gbÃ­rÃ³sÃ¡gnak.<ujsor/>
 2005. 01. 26.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109681535</mezo>
-<mezo id = "nev">Fedor János Consulting Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1065 Budapest, Bajcsy Zsilinszky út 31.</mezo>
+<mezo id = "nev">Fedor JÃ¡nos Consulting KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1065 Budapest, Bajcsy Zsilinszky Ãºt 31.</mezo>
 <mezo id = "adosz">12107070242</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a cég hivatalbóli törlésére<ujsor/>
-irányuló eljárást folytatja.<ujsor/>
-Felhívja a bíróság a cég hitelezõit és<ujsor/>
-az egyéb érdekelteket, hogy a cég<ujsor/>
-általuk ismert ingó vagy ingatlan vagyonára<ujsor/>
-vonatkozó adatokat - hitelezõk esetében<ujsor/>
-hitelezõi igényüket is megjelölve - 30<ujsor/>
-napon belül jelentsék be.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a cÃ©g hivatalbÃ³li tÃ¶rlÃ©sÃ©re<ujsor/>
+irÃ¡nyulÃ³ eljÃ¡rÃ¡st folytatja.<ujsor/>
+FelhÃ­vja a bÃ­rÃ³sÃ¡g a cÃ©g hitelezÅ‘it Ã©s<ujsor/>
+az egyÃ©b Ã©rdekelteket, hogy a cÃ©g<ujsor/>
+Ã¡ltaluk ismert ingÃ³ vagy ingatlan vagyonÃ¡ra<ujsor/>
+vonatkozÃ³ adatokat - hitelezÅ‘k esetÃ©ben<ujsor/>
+hitelezÅ‘i igÃ©nyÃ¼ket is megjelÃ¶lve - 30<ujsor/>
+napon belÃ¼l jelentsÃ©k be.<ujsor/>
 2005. 03. 31.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109681535</mezo>
-<mezo id = "nev">Fedor János Consulting Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1065 Budapest, Bajcsy-Zsilinszky út 31.</mezo>
+<mezo id = "nev">Fedor JÃ¡nos Consulting KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1065 Budapest, Bajcsy-Zsilinszky Ãºt 31.</mezo>
 <mezo id = "adosz">12107070242</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a céget - felszámolási eljárás kezdeményezése,<ujsor/>
-illetve végelszámolás elrendelése nélkül - hivatalból törli a Ctv. 58. § (2) alapján.<ujsor/>
-A végzés ellen a Cégközlönyben való közzétételtõl<ujsor/>
-számított 15 napon belül fellebbezésnek van helye.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a cÃ©get - felszÃ¡molÃ¡si eljÃ¡rÃ¡s kezdemÃ©nyezÃ©se,<ujsor/>
+illetve vÃ©gelszÃ¡molÃ¡s elrendelÃ©se nÃ©lkÃ¼l - hivatalbÃ³l tÃ¶rli a Ctv. 58. Â§ (2) alapjÃ¡n.<ujsor/>
+A vÃ©gzÃ©s ellen a CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©teltÅ‘l<ujsor/>
+szÃ¡mÃ­tott 15 napon belÃ¼l fellebbezÃ©snek van helye.<ujsor/>
 Bejegyezve: 2005. 06. 06.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109681535</mezo>
-<mezo id = "nev">Fedor János Consulting Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1065 Budapest, Bajcsy Zsilinszky út 31.</mezo>
+<mezo id = "nev">Fedor JÃ¡nos Consulting KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1065 Budapest, Bajcsy Zsilinszky Ãºt 31.</mezo>
 <mezo id = "adosz">12107070242</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság közzéteszi, hogy a Cégközlöny 2005.06.30-i<ujsor/>
-számában megjelent hivatalbóli törlést elrendelõ végzés 2005.07.16.<ujsor/>
-napján jogerõre emelkedett.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g kÃ¶zzÃ©teszi, hogy a CÃ©gkÃ¶zlÃ¶ny 2005.06.30-i<ujsor/>
+szÃ¡mÃ¡ban megjelent hivatalbÃ³li tÃ¶rlÃ©st elrendelÅ‘ vÃ©gzÃ©s 2005.07.16.<ujsor/>
+napjÃ¡n jogerÅ‘re emelkedett.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109681535</mezo>
-<mezo id = "nev">Fedor János Consulting Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1065 Budapest, Bajcsy-Zsilinszky út 31.</mezo>
+<mezo id = "nev">Fedor JÃ¡nos Consulting KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1065 Budapest, Bajcsy-Zsilinszky Ãºt 31.</mezo>
 <mezo id = "adosz">12107070242</mezo>
 </alrovat>
 </rovat>

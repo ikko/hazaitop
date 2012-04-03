@@ -5,7 +5,7 @@
 <mezo id = "cf">10</mezo>
 <mezo id = "szam">046095</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">1115 Budapest, Bartók Béla út 105-113. </mezo>
+<mezo id = "cim">1115 Budapest, BartÃ³k BÃ©la Ãºt 105-113. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">14400032243</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20080808</mezo>
-<mezo id = "nev">BALATONRING Vagyonkezelõ Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">BALATONRING VagyonkezelÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20080808</mezo>
@@ -45,7 +45,7 @@
 <mezo id = "hattol">20090526</mezo>
 <mezo id = "irsz">1115</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Bartók Béla út 105-113.</mezo>
+<mezo id = "teru">BartÃ³k BÃ©la Ãºt 105-113.</mezo>
 <mezo id = "valtk">20090526</mezo>
 <mezo id = "bkelt">20090825</mezo>
 </alrovat>
@@ -838,13 +838,13 @@
 <alrovat id = "4">
 <mezo id = "hattol">20080808</mezo>
 <mezo id = "pnev">Facundo Gabriel Garcia de la Cuadre Rubio</mezo>
-<mezo id = "panev">Asución Rubio</mezo>
+<mezo id = "panev">AsuciÃ³n Rubio</mezo>
 <mezo id = "pkirsz">46008</mezo>
-<mezo id = "pkhely">Valencia, Gran Via Fernandó El Católico 62.</mezo>
-<mezo id = "pmnev">Kránicz Nikolett</mezo>
+<mezo id = "pkhely">Valencia, Gran Via FernandÃ³ El CatÃ³lico 62.</mezo>
+<mezo id = "pmnev">KrÃ¡nicz Nikolett</mezo>
 <mezo id = "pmanev">Varga Ilona</mezo>
 <mezo id = "pmirsz">1055</mezo>
-<mezo id = "pmhely">Budapest, Kazán u. 3. fszt. 1.</mezo>
+<mezo id = "pmhely">Budapest, KazÃ¡n u. 3. fszt. 1.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">c</mezo>
 <mezo id = "jogvk">20080521</mezo>
@@ -855,18 +855,18 @@
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20080808</mezo>
-<mezo id = "pnev">Liborio Álvaro Porteros Manueco</mezo>
-<mezo id = "panev">María Luisa Manueco</mezo>
+<mezo id = "pnev">Liborio Ãlvaro Porteros Manueco</mezo>
+<mezo id = "panev">MarÃ­a Luisa Manueco</mezo>
 <mezo id = "pkirsz">46007</mezo>
-<mezo id = "pkhely">Valencia, Gran Via Ramón y Cajal 5. bal 12.</mezo>
-<mezo id = "pmnev">Kránicz Nikolett</mezo>
+<mezo id = "pkhely">Valencia, Gran Via RamÃ³n y Cajal 5. bal 12.</mezo>
+<mezo id = "pmnev">KrÃ¡nicz Nikolett</mezo>
 <mezo id = "pmanev">Varga Ilona</mezo>
 <mezo id = "pmirsz">1055</mezo>
-<mezo id = "pmhely">Budapest, Kazán u. 3. fszt. 1.</mezo>
+<mezo id = "pmhely">Budapest, KazÃ¡n u. 3. fszt. 1.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">c</mezo>
 <mezo id = "jogvk">20080521</mezo>
-<mezo id = "mnev">Dr. Niklai Ákos</mezo>
+<mezo id = "mnev">Dr. Niklai Ãkos</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20080808</mezo>
@@ -874,17 +874,17 @@
 </alrovat>
 <alrovat id = "16">
 <mezo id = "hattol">20080808</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
 <mezo id = "pnev">Facundo Gabriel Garcia de la Cuadra Rubio</mezo>
-<mezo id = "panev">Asunción Rubio</mezo>
+<mezo id = "panev">AsunciÃ³n Rubio</mezo>
 <mezo id = "pkirsz">46008</mezo>
 <mezo id = "pkhely">Valencia</mezo>
-<mezo id = "pkteru">Gran Via Fernandó El Católico 62.</mezo>
-<mezo id = "pmnev">Kránicz Nikolett</mezo>
+<mezo id = "pkteru">Gran Via FernandÃ³ El CatÃ³lico 62.</mezo>
+<mezo id = "pmnev">KrÃ¡nicz Nikolett</mezo>
 <mezo id = "pmanev">Varga Ilona</mezo>
 <mezo id = "pmirsz">1055</mezo>
 <mezo id = "pmhely">Budapest</mezo>
-<mezo id = "pmteru">Kazán u. 3. fszt. 1.</mezo>
+<mezo id = "pmteru">KazÃ¡n u. 3. fszt. 1.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20080521</mezo>
 <mezo id = "valtk">20080808</mezo>
@@ -892,9 +892,9 @@
 </alrovat>
 <alrovat id = "17">
 <mezo id = "hattol">20110518</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Szalay Balázs</mezo>
-<mezo id = "panev">Ferenczi Jolán Ilona</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">Szalay BalÃ¡zs</mezo>
+<mezo id = "panev">Ferenczi JolÃ¡n Ilona</mezo>
 <mezo id = "pirsz">1065</mezo>
 <mezo id = "phely">Budapest</mezo>
 <mezo id = "pteru">Podmaniczky utca 14.</mezo>
@@ -907,7 +907,7 @@
 </alrovat>
 <alrovat id = "18">
 <mezo id = "hattol">20110518</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
 <mezo id = "pnev">Pedro Hernandez Navarro</mezo>
 <mezo id = "panev">Piedad Navarro</mezo>
 <mezo id = "pkorsz">ES</mezo>
@@ -916,7 +916,7 @@
 <mezo id = "pkteru">c/ Sorni 7. pta. 5.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20110518</mezo>
-<mezo id = "mnev">Szalay Balázs</mezo>
+<mezo id = "mnev">Szalay BalÃ¡zs</mezo>
 <mezo id = "valtk">20110518</mezo>
 <mezo id = "bkelt">20110704</mezo>
 <mezo id = "adoazon">19.431.277</mezo>
@@ -926,12 +926,12 @@
 <alrovat id = "1">
 <mezo id = "hattol">20080808</mezo>
 <mezo id = "cgjsz">109063022</mezo>
-<mezo id = "nev">PricewaterhouseCoopers Könyvvizsgáló és Gazdasági Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">PricewaterhouseCoopers KÃ¶nyvvizsgÃ¡lÃ³ Ã©s GazdasÃ¡gi TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1077</mezo>
-<mezo id = "hely">Budapest, Wesselényi u 16.</mezo>
-<mezo id = "pnev">Barsi Éva</mezo>
-<mezo id = "panev">Jónás Ilona</mezo>
+<mezo id = "hely">Budapest, WesselÃ©nyi u 16.</mezo>
+<mezo id = "pnev">Barsi Ã‰va</mezo>
+<mezo id = "panev">JÃ³nÃ¡s Ilona</mezo>
 <mezo id = "pirsz">1163</mezo>
 <mezo id = "phely">Budapest, Katalin u. 8.</mezo>
 <mezo id = "jogvk">20080521</mezo>
@@ -945,8 +945,8 @@
 <rovat id = "15">
 <alrovat id = "6">
 <mezo id = "hattol">20090317</mezo>
-<mezo id = "pnev">Dr. Róna István</mezo>
-<mezo id = "panev">Rosner Mária</mezo>
+<mezo id = "pnev">Dr. RÃ³na IstvÃ¡n</mezo>
+<mezo id = "panev">Rosner MÃ¡ria</mezo>
 <mezo id = "pirsz">1053</mezo>
 <mezo id = "phely">Budapest, Cukor utca 4. 2. em. 3.</mezo>
 <mezo id = "jogvk">20090317</mezo>
@@ -957,26 +957,26 @@
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">20080808</mezo>
-<mezo id = "pnev">José Luján Falomir</mezo>
+<mezo id = "pnev">JosÃ© LujÃ¡n Falomir</mezo>
 <mezo id = "panev">Pilar Falomir</mezo>
 <mezo id = "pkirsz">46004</mezo>
 <mezo id = "pkhely">Valencia</mezo>
-<mezo id = "pkteru">c/Isabel de Católica 1/12.</mezo>
-<mezo id = "pmneve">Kránicz Nikolett</mezo>
+<mezo id = "pkteru">c/Isabel de CatÃ³lica 1/12.</mezo>
+<mezo id = "pmneve">KrÃ¡nicz Nikolett</mezo>
 <mezo id = "pmanev">Varga Ilona</mezo>
 <mezo id = "pmirsz">1055</mezo>
 <mezo id = "pmhely">Budapest</mezo>
-<mezo id = "pmteru">Kazán u. 3. fszt. 1.</mezo>
+<mezo id = "pmteru">KazÃ¡n u. 3. fszt. 1.</mezo>
 <mezo id = "jogvk">20080521</mezo>
 <mezo id = "valtk">20080808</mezo>
 <mezo id = "bkelt">20091021</mezo>
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">20110518</mezo>
-<mezo id = "pnev">Poprády Géza</mezo>
-<mezo id = "panev">Wéber Mária</mezo>
+<mezo id = "pnev">PoprÃ¡dy GÃ©za</mezo>
+<mezo id = "panev">WÃ©ber MÃ¡ria</mezo>
 <mezo id = "pirsz">2943</mezo>
-<mezo id = "phely">Bábolna</mezo>
+<mezo id = "phely">BÃ¡bolna</mezo>
 <mezo id = "pteru">Ady Endre utca 2.</mezo>
 <mezo id = "jogvk">20110518</mezo>
 <mezo id = "valtk">20110518</mezo>
@@ -984,8 +984,8 @@
 </alrovat>
 <alrovat id = "11">
 <mezo id = "hattol">20110518</mezo>
-<mezo id = "pnev">Gécsek Tibor</mezo>
-<mezo id = "panev">Kovács Erzsébet</mezo>
+<mezo id = "pnev">GÃ©csek Tibor</mezo>
+<mezo id = "panev">KovÃ¡cs ErzsÃ©bet</mezo>
 <mezo id = "pirsz">1112</mezo>
 <mezo id = "phely">Budapest</mezo>
 <mezo id = "pteru">Facsemete utca 2/5.</mezo>
@@ -1014,7 +1014,7 @@
 <rovat id = "0110">
 <alrovat id = "1">
 <mezo id = "hattol">20080808</mezo>
-<mezo id = "nev">Magyar Turizmus Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">Magyar Turizmus ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1054</mezo>
 <mezo id = "hely">Budapest</mezo>
@@ -1038,7 +1038,7 @@
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "knytsz">B-97921423</mezo>
-<mezo id = "knyh">Valenciai Cégnyilvántartó Hivatal ( Registro Mercantil de Valencia)</mezo>
+<mezo id = "knyh">Valenciai CÃ©gnyilvÃ¡ntartÃ³ Hivatal ( Registro Mercantil de Valencia)</mezo>
 <mezo id = "bkelt">20080808</mezo>
 <mezo id = "tkelt">0</mezo>
 </alrovat>
@@ -1047,235 +1047,235 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2008. 08. 08-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (igazgatósági tag).<ujsor/>
- Facundo Gabriel Garcia de la Cuadre Rubio (an: Asución Rubio)<ujsor/>
-Külföldi cím: 46008 Valencia, Gran Via Fernandó El Católico 62.<ujsor/>
- Kézbesítési megbízott: Kránicz Nikolett (an: Varga Ilona)<ujsor/>
-1055 Budapest, Kazán u. 3. fszt. 1.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2008. 08. 08-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag).<ujsor/>
+ Facundo Gabriel Garcia de la Cuadre Rubio (an: AsuciÃ³n Rubio)<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: 46008 Valencia, Gran Via FernandÃ³ El CatÃ³lico 62.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott: KrÃ¡nicz Nikolett (an: Varga Ilona)<ujsor/>
+1055 Budapest, KazÃ¡n u. 3. fszt. 1.<ujsor/>
  A jogviszony kezdete: 2008. 05. 21.<ujsor/>
- A változás idõpontja (törlés): 2008. 08. 08.<ujsor/>
- A képviselet módja: együttes.<ujsor/>
- Együttes képviselet esetén a másik aláíró neve: Dr. Niklai Ákos<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (igazgatósági tag).<ujsor/>
- Liborio Álvaro Porteros Manueco (an: María Luisa Manueco)<ujsor/>
-Külföldi cím: 46007 Valencia, Gran Via Ramón y Cajal 5. bal 12.<ujsor/>
- Kézbesítési megbízott: Kránicz Nikolett (an: Varga Ilona)<ujsor/>
-1055 Budapest, Kazán u. 3. fszt. 1.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2008. 08. 08.<ujsor/>
+ A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ EgyÃ¼ttes kÃ©pviselet esetÃ©n a mÃ¡sik alÃ¡Ã­rÃ³ neve: Dr. Niklai Ãkos<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag).<ujsor/>
+ Liborio Ãlvaro Porteros Manueco (an: MarÃ­a Luisa Manueco)<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: 46007 Valencia, Gran Via RamÃ³n y Cajal 5. bal 12.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott: KrÃ¡nicz Nikolett (an: Varga Ilona)<ujsor/>
+1055 Budapest, KazÃ¡n u. 3. fszt. 1.<ujsor/>
  A jogviszony kezdete: 2008. 05. 21.<ujsor/>
- A változás idõpontja (törlés): 2008. 08. 08.<ujsor/>
- Törölve: 2008. 08. 08.<ujsor/>
- A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (igazgatósági tag).<ujsor/>
- Facundo Gabriel Garcia de la Cuadra Rubio (an: Asución Rubio)<ujsor/>
-Külföldi cím: 46008 Valencia, Gran Via Fernandó El Católico 62.<ujsor/>
- Kézbesítési megbízott: Kránicz Nikolett (an: Varga Ilona)<ujsor/>
-1055 Budapest, Kazán u. 3. fszt. 1.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2008. 08. 08.<ujsor/>
+ TÃ¶rÃ¶lve: 2008. 08. 08.<ujsor/>
+ A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag).<ujsor/>
+ Facundo Gabriel Garcia de la Cuadra Rubio (an: AsuciÃ³n Rubio)<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: 46008 Valencia, Gran Via FernandÃ³ El CatÃ³lico 62.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott: KrÃ¡nicz Nikolett (an: Varga Ilona)<ujsor/>
+1055 Budapest, KazÃ¡n u. 3. fszt. 1.<ujsor/>
  A jogviszony kezdete: 2008. 05. 21.<ujsor/>
- A változás idõpontja: 2008. 08. 08.<ujsor/>
- A képviselet módja: együttes.<ujsor/>
- Együttes képviselet esetén a másik aláíró neve: Dr. Niklai Ákos<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (igazgatósági tag).<ujsor/>
- Liborio Alvaro Porteros Manueco (an: María Luisa Manueco)<ujsor/>
-Külföldi cím: 46007 Valencia, Gran Via Ramón y Cajal 5. bal 12.<ujsor/>
- Kézbesítési megbízott: Kránicz Nikolett (an: Varga Ilona)<ujsor/>
-1055 Budapest, Kazán u. 3. fszt. 1.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 08. 08.<ujsor/>
+ A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ EgyÃ¼ttes kÃ©pviselet esetÃ©n a mÃ¡sik alÃ¡Ã­rÃ³ neve: Dr. Niklai Ãkos<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag).<ujsor/>
+ Liborio Alvaro Porteros Manueco (an: MarÃ­a Luisa Manueco)<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: 46007 Valencia, Gran Via RamÃ³n y Cajal 5. bal 12.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott: KrÃ¡nicz Nikolett (an: Varga Ilona)<ujsor/>
+1055 Budapest, KazÃ¡n u. 3. fszt. 1.<ujsor/>
  A jogviszony kezdete: 2008. 05. 21.<ujsor/>
- A változás idõpontja: 2008. 08. 08.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 08. 08.<ujsor/>
  Bejegyezve: 2008. 08. 08.<ujsor/>
-1(10). Magyar Turizmus Zártkörûen Mûködõ Részvénytársaság<ujsor/>
+1(10). Magyar Turizmus ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g<ujsor/>
 HU 1054 Budapest, Hold u. 1.<ujsor/>
- A változás idõpontja (törlés): 2008. 08. 08.<ujsor/>
- Külföldi cég, szervezet nyilvántartási száma: B-97921423<ujsor/>
-Külföldi cég, szervezet nyilvántartó hatósága: Valenciai Cégnyilvántartó Hivatal ( Registro Mercantil de Valencia)<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2008. 08. 08.<ujsor/>
+ KÃ¼lfÃ¶ldi cÃ©g, szervezet nyilvÃ¡ntartÃ¡si szÃ¡ma: B-97921423<ujsor/>
+KÃ¼lfÃ¶ldi cÃ©g, szervezet nyilvÃ¡ntartÃ³ hatÃ³sÃ¡ga: Valenciai CÃ©gnyilvÃ¡ntartÃ³ Hivatal ( Registro Mercantil de Valencia)<ujsor/>
 Worlswide Circiut Management S. L.<ujsor/>
 Paterna-46, Valencia, Parque Technolo. TeRonda Narciso Monturiol y Estarriol y7-9.<ujsor/>
- A változás idõpontja (törlés): 2008. 08. 08.<ujsor/>
- Törölve: 2008. 08. 08.<ujsor/>
- [01 10 041364] Magyar Turizmus Zártkörûen Mûködõ Részvénytársaság<ujsor/>
-HU 1115 Budapest, Bartók Béla út 105-113.<ujsor/>
- A változás idõpontja: 2008. 08. 08.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2008. 08. 08.<ujsor/>
+ TÃ¶rÃ¶lve: 2008. 08. 08.<ujsor/>
+ [01 10 041364] Magyar Turizmus ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g<ujsor/>
+HU 1115 Budapest, BartÃ³k BÃ©la Ãºt 105-113.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 08. 08.<ujsor/>
  Worldwide Circuit Management S. L.<ujsor/>
 Paterna-46, Valenia , Parque Technologico , TeRonda Narciso Monturiol y Estarriol y, 7-9.<ujsor/>
- A változás idõpontja: 2008. 08. 08.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 08. 08.<ujsor/>
  Bejegyezve: 2008. 08. 08.<ujsor/>
 2009. 04. 07.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110046095</mezo>
-<mezo id = "nev">BALATONRING Vagyonkezelõ Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">1052 Budapest, Türr István utca 9. 6. em.</mezo>
+<mezo id = "nev">BALATONRING VagyonkezelÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1052 Budapest, TÃ¼rr IstvÃ¡n utca 9. 6. em.</mezo>
 <mezo id = "adosz">14400032241</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2009. 04. 16-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-15. Dr. Róna István (an: Rosner Mária)<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2009. 04. 16-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+15. Dr. RÃ³na IstvÃ¡n (an: Rosner MÃ¡ria)<ujsor/>
 1053 Budapest, Cukor utca 4. 2. em. 3.<ujsor/>
  A jogviszony kezdete: 2009. 03. 17.<ujsor/>
- A változás idõpontja: 2009. 03. 17.<ujsor/>
- A változás idõpontja (törlés): 2009. 03. 17.<ujsor/>
- Törölve: 2009. 03. 17.<ujsor/>
- dr. Róna Iván (an: Rosner Mára)<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2009. 03. 17.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2009. 03. 17.<ujsor/>
+ TÃ¶rÃ¶lve: 2009. 03. 17.<ujsor/>
+ dr. RÃ³na IvÃ¡n (an: Rosner MÃ¡ra)<ujsor/>
 1053 Budapest, Cukor utca 4. 2. em. 3.<ujsor/>
  A jogviszony kezdete: 2009. 03. 17.<ujsor/>
- A változás idõpontja: 2009. 03. 17.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2009. 03. 17.<ujsor/>
  Bejegyezve: 2009. 03. 17.<ujsor/>
 2009. 04. 27.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110046095</mezo>
-<mezo id = "nev">BALATONRING Vagyonkezelõ Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">1052 Budapest, Türr István utca 9. 6. em.</mezo>
+<mezo id = "nev">BALATONRING VagyonkezelÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1052 Budapest, TÃ¼rr IstvÃ¡n utca 9. 6. em.</mezo>
 <mezo id = "adosz">14400032241</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság a Cg.01-10-046095 cégjegyzékszámon bejegyzett BALATONRING Vagyonkezelõ Zártkörûen Mûködõ Részvénytársaság (1115 Budapest, Bartók Béla út 105-113.; adószáma: 14400032-2-43) kérelme alapján elrendeli a 2009. április 16. napján hozott Cg.01-10-046095 /11. számú végzésének kijavítását az alábbiak szerint:<ujsor/>
-13. A képviseletre jogosult(ak) adatai<ujsor/>
-A képviselet módja: együttes.<ujsor/>
-Dr.Nagy Balázs vezetõ tisztségviselõ (igazgatósági tag) (an.: Weiczer Irén)<ujsor/>
-2220 Vecsés, Lázár Vilmos utca 17.<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.01-10-046095 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett BALATONRING VagyonkezelÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (1115 Budapest, BartÃ³k BÃ©la Ãºt 105-113.; adÃ³szÃ¡ma: 14400032-2-43) kÃ©relme alapjÃ¡n elrendeli a 2009. Ã¡prilis 16. napjÃ¡n hozott Cg.01-10-046095 /11. szÃ¡mÃº vÃ©gzÃ©sÃ©nek kijavÃ­tÃ¡sÃ¡t az alÃ¡bbiak szerint:<ujsor/>
+13. A kÃ©pviseletre jogosult(ak) adatai<ujsor/>
+A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+Dr.Nagy BalÃ¡zs vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag) (an.: Weiczer IrÃ©n)<ujsor/>
+2220 VecsÃ©s, LÃ¡zÃ¡r Vilmos utca 17.<ujsor/>
 Jogv. kezdete: 2009.03.17.<ujsor/>
-Vált. vége: 2009.03.17.<ujsor/>
-Törölve (végzés kelte): 2009. szeptember 3.<ujsor/>
-A képviselet módja: együttes.<ujsor/>
-Mervó József vezetõ tisztségviselõ (igazgatósági tag) (an.: Polgár Anna Mária)<ujsor/>
-2089 Telki, Áfonya köz 16.<ujsor/>
+VÃ¡lt. vÃ©ge: 2009.03.17.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2009. szeptember 3.<ujsor/>
+A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+MervÃ³ JÃ³zsef vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag) (an.: PolgÃ¡r Anna MÃ¡ria)<ujsor/>
+2089 Telki, Ãfonya kÃ¶z 16.<ujsor/>
 Jogv. kezdete: 2009.03.17.<ujsor/>
-Vált. vége: 2009.03.17.<ujsor/>
-Törölve (végzés kelte): 2009. szeptember 3.<ujsor/>
-A képviselet módja: együttes.<ujsor/>
-Guillermo Garcia Roman vezetõ tisztségviselõ (igazgatósági tag) (an.: Roman)<ujsor/>
-Külföldi lakó,illetve tartózkodási helye:<ujsor/>
+VÃ¡lt. vÃ©ge: 2009.03.17.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2009. szeptember 3.<ujsor/>
+A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+Guillermo Garcia Roman vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag) (an.: Roman)<ujsor/>
+KÃ¼lfÃ¶ldi lakÃ³,illetve tartÃ³zkodÃ¡si helye:<ujsor/>
 46111 Rocafort Valencia, Urb.sta. Barbara 37 R3A.<ujsor/>
 Jogv. kezdete: 2009.03.17.<ujsor/>
-Vált. vége: 2009.03.17.<ujsor/>
-Törölve (végzés kelte): 2009. szeptember 3.<ujsor/>
-A képviselet módja: együttes.<ujsor/>
-Együttes képviselet esetén a másik aláíró neve: Csobánczy Gábor<ujsor/>
-Dr.Nagy Balázs vezetõ tisztségviselõ (igazgatósági tag) (an.: Weiczer Irén)<ujsor/>
-2220 Vecsés, Lázár Vilmos utca 17.<ujsor/>
+VÃ¡lt. vÃ©ge: 2009.03.17.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2009. szeptember 3.<ujsor/>
+A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+EgyÃ¼ttes kÃ©pviselet esetÃ©n a mÃ¡sik alÃ¡Ã­rÃ³ neve: CsobÃ¡nczy GÃ¡bor<ujsor/>
+Dr.Nagy BalÃ¡zs vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag) (an.: Weiczer IrÃ©n)<ujsor/>
+2220 VecsÃ©s, LÃ¡zÃ¡r Vilmos utca 17.<ujsor/>
 Jogv. kezdete: 2009.03.17.<ujsor/>
-Vált. kezdete: 2009.03.17.<ujsor/>
-Bejegyezve (végzés kelte): 2009. szeptember 3.<ujsor/>
-A képviselet módja: együttes.<ujsor/>
-Együttes képviselet esetén a másik aláíró neve: Csobánczy Gábor<ujsor/>
-Mervó József vezetõ tisztségviselõ (igazgatósági tag) (an.: Polgár Anna Mária)<ujsor/>
-2089 Telki, Áfonya köz 16.<ujsor/>
+VÃ¡lt. kezdete: 2009.03.17.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2009. szeptember 3.<ujsor/>
+A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+EgyÃ¼ttes kÃ©pviselet esetÃ©n a mÃ¡sik alÃ¡Ã­rÃ³ neve: CsobÃ¡nczy GÃ¡bor<ujsor/>
+MervÃ³ JÃ³zsef vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag) (an.: PolgÃ¡r Anna MÃ¡ria)<ujsor/>
+2089 Telki, Ãfonya kÃ¶z 16.<ujsor/>
 Jogv. kezdete: 2009.03.17.<ujsor/>
-Vált. kezdete: 2009.03.17.<ujsor/>
-Bejegyezve (végzés kelte): 2009. szeptember 3.<ujsor/>
-A képviselet módja: együttes.<ujsor/>
-Guillermo Garcia Roman vezetõ tisztségviselõ (igazgatósági tag) (an.: Maria del Sagrario Roman)<ujsor/>
-Külföldi lakó,illetve tartózkodási helye:<ujsor/>
+VÃ¡lt. kezdete: 2009.03.17.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2009. szeptember 3.<ujsor/>
+A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+Guillermo Garcia Roman vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag) (an.: Maria del Sagrario Roman)<ujsor/>
+KÃ¼lfÃ¶ldi lakÃ³,illetve tartÃ³zkodÃ¡si helye:<ujsor/>
 46111 Rocafort Valencia, Urb.sta. Barbara 37 R3A.<ujsor/>
 Jogv. kezdete: 2009.03.17.<ujsor/>
-Vált. kezdete: 2009.03.17.<ujsor/>
-Bejegyezve (végzés kelte): 2009. szeptember 3.<ujsor/>
-E végzés ellen fellebbezésnek nincs helye, azonban az ügyész, továbbá az, akire a végzés rendelkezést tartalmaz - a rendelkezés õt érintõ részére vonatkozóan - pert indíthat a cég ellen a cég székhelye szerint illetékes megyei bíróság elõtt a bejegyzõ végzés hatályon kívül helyezése iránt.<ujsor/>
-A per megindításának a bejegyzõ végzés Cégközlönyben való közzétételétõl, illetve - közzétételi kötelezettség hiányában - annak kézbesítésétõl számított 30 napon belül van helye. A határidõ elmulasztása jogvesztéssel jár.<ujsor/>
+VÃ¡lt. kezdete: 2009.03.17.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2009. szeptember 3.<ujsor/>
+E vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye, azonban az Ã¼gyÃ©sz, tovÃ¡bbÃ¡ az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s Å‘t Ã©rintÅ‘ rÃ©szÃ©re vonatkozÃ³an - pert indÃ­that a cÃ©g ellen a cÃ©g szÃ©khelye szerint illetÃ©kes megyei bÃ­rÃ³sÃ¡g elÅ‘tt a bejegyzÅ‘ vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt.<ujsor/>
+A per megindÃ­tÃ¡sÃ¡nak a bejegyzÅ‘ vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l, illetve - kÃ¶zzÃ©tÃ©teli kÃ¶telezettsÃ©g hiÃ¡nyÃ¡ban - annak kÃ©zbesÃ­tÃ©sÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l van helye. A hatÃ¡ridÅ‘ elmulasztÃ¡sa jogvesztÃ©ssel jÃ¡r.<ujsor/>
 2009. szeptember 3.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110046095</mezo>
-<mezo id = "nev">BALATONRING Vagyonkezelõ Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">1115 Budapest, Bartók Béla út 105-113.</mezo>
+<mezo id = "nev">BALATONRING VagyonkezelÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1115 Budapest, BartÃ³k BÃ©la Ãºt 105-113.</mezo>
 <mezo id = "adosz">14400032243</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság a Cg.01-10-046095 cégjegyzékszámon bejegyzett BALATONRING Vagyonkezelõ Zártkörûen Mûködõ Részvénytársaság (1115 Budapest, Bartók Béla út 105-113.; adószáma: 14400032-2-43) kérelme alapján elrendeli a 2009. szeptember 3. napján hozott Cg.01-10-046095 /23. számú végzésének kijavítását az alábbiak szerint:<ujsor/>
-13. A képviseletre jogosult(ak) adatai<ujsor/>
-A képviselet módja: együttes.<ujsor/>
-Guillermo Garcia Roman vezetõ tisztségviselõ (igazgatósági tag) (an.: Maria del Sagrario Roman)<ujsor/>
-Külföldi lakó,illetve tartózkodási helye:<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.01-10-046095 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett BALATONRING VagyonkezelÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (1115 Budapest, BartÃ³k BÃ©la Ãºt 105-113.; adÃ³szÃ¡ma: 14400032-2-43) kÃ©relme alapjÃ¡n elrendeli a 2009. szeptember 3. napjÃ¡n hozott Cg.01-10-046095 /23. szÃ¡mÃº vÃ©gzÃ©sÃ©nek kijavÃ­tÃ¡sÃ¡t az alÃ¡bbiak szerint:<ujsor/>
+13. A kÃ©pviseletre jogosult(ak) adatai<ujsor/>
+A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+Guillermo Garcia Roman vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag) (an.: Maria del Sagrario Roman)<ujsor/>
+KÃ¼lfÃ¶ldi lakÃ³,illetve tartÃ³zkodÃ¡si helye:<ujsor/>
 46111 Rocafort Valencia, Urb.sta. Barbara 37 R3A.<ujsor/>
 Jogv. kezdete: 2009.03.17.<ujsor/>
-Vált. vége: 2009.03.17.<ujsor/>
-Törölve (végzés kelte): 2009. október 21.<ujsor/>
-A képviselet módja: együttes.<ujsor/>
-Együttes képviselet esetén a másik aláíró neve: Csobánczy Gábor<ujsor/>
-Guillermo Garcia Roman vezetõ tisztségviselõ (igazgatósági tag) (an.: Maria del Sagrario Roman)<ujsor/>
-Külföldi lakó,illetve tartózkodási helye:<ujsor/>
+VÃ¡lt. vÃ©ge: 2009.03.17.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2009. oktÃ³ber 21.<ujsor/>
+A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+EgyÃ¼ttes kÃ©pviselet esetÃ©n a mÃ¡sik alÃ¡Ã­rÃ³ neve: CsobÃ¡nczy GÃ¡bor<ujsor/>
+Guillermo Garcia Roman vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag) (an.: Maria del Sagrario Roman)<ujsor/>
+KÃ¼lfÃ¶ldi lakÃ³,illetve tartÃ³zkodÃ¡si helye:<ujsor/>
 46111 Rocafort Valencia, Urb.sta. Barbara 37 R3A.<ujsor/>
 Jogv. kezdete: 2009.03.17.<ujsor/>
-Vált. kezdete: 2009.03.17.<ujsor/>
-Bejegyezve (végzés kelte): 2009. október 21.<ujsor/>
-E végzés ellen fellebbezésnek nincs helye, azonban az ügyész, továbbá az, akire a végzés rendelkezést tartalmaz - a rendelkezés õt érintõ részére vonatkozóan - pert indíthat a cég ellen a cég székhelye szerint illetékes megyei bíróság elõtt a bejegyzõ végzés hatályon kívül helyezése iránt.<ujsor/>
-A per megindításának a bejegyzõ végzés Cégközlönyben való közzétételétõl, illetve - közzétételi kötelezettség hiányában - annak kézbesítésétõl számított 30 napon belül van helye. A határidõ elmulasztása jogvesztéssel jár.<ujsor/>
-2009. október 21.<ujsor/>
+VÃ¡lt. kezdete: 2009.03.17.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2009. oktÃ³ber 21.<ujsor/>
+E vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye, azonban az Ã¼gyÃ©sz, tovÃ¡bbÃ¡ az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s Å‘t Ã©rintÅ‘ rÃ©szÃ©re vonatkozÃ³an - pert indÃ­that a cÃ©g ellen a cÃ©g szÃ©khelye szerint illetÃ©kes megyei bÃ­rÃ³sÃ¡g elÅ‘tt a bejegyzÅ‘ vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt.<ujsor/>
+A per megindÃ­tÃ¡sÃ¡nak a bejegyzÅ‘ vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l, illetve - kÃ¶zzÃ©tÃ©teli kÃ¶telezettsÃ©g hiÃ¡nyÃ¡ban - annak kÃ©zbesÃ­tÃ©sÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l van helye. A hatÃ¡ridÅ‘ elmulasztÃ¡sa jogvesztÃ©ssel jÃ¡r.<ujsor/>
+2009. oktÃ³ber 21.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110046095</mezo>
-<mezo id = "nev">BALATONRING Vagyonkezelõ Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">1115 Budapest, Bartók Béla út 105-113.</mezo>
+<mezo id = "nev">BALATONRING VagyonkezelÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1115 Budapest, BartÃ³k BÃ©la Ãºt 105-113.</mezo>
 <mezo id = "adosz">14400032243</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság a Cg.01-10-046095 cégjegyzékszámon bejegyzett BALATONRING Vagyonkezelõ Zártkörûen Mûködõ Részvénytársaság (1115 Budapest, Bartók Béla út 105-113.; adószáma: 14400032-2-43) kérelme alapján elrendeli a 2009. április 7. napján hozott Cg.01-10-046095 /9. számú végzésének kijavítását az alábbiak szerint:<ujsor/>
-13. A képviseletre jogosult(ak) adatai<ujsor/>
-A képviselet módja: önálló.<ujsor/>
-Facundo Gabriel Garcia de la Cuadra Rubio vezetõ tisztségviselõ (igazgatósági tag) (an.: Asución Rubio)<ujsor/>
-Külföldi lakó,illetve tartózkodási helye:<ujsor/>
-46008 Valencia, Gran Via Fernandó El Católico 62.<ujsor/>
-A kézbesítési megbízott:<ujsor/>
-Kránicz Nikolett (an.: Varga Ilona)<ujsor/>
-1055 Budapest, Kazán u 3. fsz.1.<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.01-10-046095 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett BALATONRING VagyonkezelÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (1115 Budapest, BartÃ³k BÃ©la Ãºt 105-113.; adÃ³szÃ¡ma: 14400032-2-43) kÃ©relme alapjÃ¡n elrendeli a 2009. Ã¡prilis 7. napjÃ¡n hozott Cg.01-10-046095 /9. szÃ¡mÃº vÃ©gzÃ©sÃ©nek kijavÃ­tÃ¡sÃ¡t az alÃ¡bbiak szerint:<ujsor/>
+13. A kÃ©pviseletre jogosult(ak) adatai<ujsor/>
+A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+Facundo Gabriel Garcia de la Cuadra Rubio vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag) (an.: AsuciÃ³n Rubio)<ujsor/>
+KÃ¼lfÃ¶ldi lakÃ³,illetve tartÃ³zkodÃ¡si helye:<ujsor/>
+46008 Valencia, Gran Via FernandÃ³ El CatÃ³lico 62.<ujsor/>
+A kÃ©zbesÃ­tÃ©si megbÃ­zott:<ujsor/>
+KrÃ¡nicz Nikolett (an.: Varga Ilona)<ujsor/>
+1055 Budapest, KazÃ¡n u 3. fsz.1.<ujsor/>
 Jogv. kezdete: 2008.05.21.<ujsor/>
-Vált. vége: 2008.08.08.<ujsor/>
-Törölve (végzés kelte): 2009. október 21.<ujsor/>
-A képviselet módja: önálló.<ujsor/>
-Facundo Gabriel Garcia de la Cuadra Rubio vezetõ tisztségviselõ (igazgatósági tag) (an.: Asunción Rubio)<ujsor/>
-Külföldi lakó,illetve tartózkodási helye:<ujsor/>
-46008 Valencia, Gran Via Fernandó El Católico 62.<ujsor/>
-A kézbesítési megbízott:<ujsor/>
-Kránicz Nikolett (an.: Varga Ilona)<ujsor/>
-1055 Budapest, Kazán u. 3. fszt. 1.<ujsor/>
+VÃ¡lt. vÃ©ge: 2008.08.08.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2009. oktÃ³ber 21.<ujsor/>
+A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+Facundo Gabriel Garcia de la Cuadra Rubio vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag) (an.: AsunciÃ³n Rubio)<ujsor/>
+KÃ¼lfÃ¶ldi lakÃ³,illetve tartÃ³zkodÃ¡si helye:<ujsor/>
+46008 Valencia, Gran Via FernandÃ³ El CatÃ³lico 62.<ujsor/>
+A kÃ©zbesÃ­tÃ©si megbÃ­zott:<ujsor/>
+KrÃ¡nicz Nikolett (an.: Varga Ilona)<ujsor/>
+1055 Budapest, KazÃ¡n u. 3. fszt. 1.<ujsor/>
 Jogv. kezdete: 2008.05.21.<ujsor/>
-Vált. kezdete: 2008.08.08.<ujsor/>
-Bejegyezve (végzés kelte): 2009. október 21.<ujsor/>
-E végzés ellen fellebbezésnek nincs helye, azonban az ügyész, továbbá az, akire a végzés rendelkezést tartalmaz - a rendelkezés õt érintõ részére vonatkozóan - pert indíthat a cég ellen a cég székhelye szerint illetékes megyei bíróság elõtt a bejegyzõ végzés hatályon kívül helyezése iránt.<ujsor/>
-A per megindításának a bejegyzõ végzés Cégközlönyben való közzétételétõl, illetve - közzétételi kötelezettség hiányában - annak kézbesítésétõl számított 30 napon belül van helye. A határidõ elmulasztása jogvesztéssel jár.<ujsor/>
-2009. október 21.<ujsor/>
+VÃ¡lt. kezdete: 2008.08.08.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2009. oktÃ³ber 21.<ujsor/>
+E vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye, azonban az Ã¼gyÃ©sz, tovÃ¡bbÃ¡ az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s Å‘t Ã©rintÅ‘ rÃ©szÃ©re vonatkozÃ³an - pert indÃ­that a cÃ©g ellen a cÃ©g szÃ©khelye szerint illetÃ©kes megyei bÃ­rÃ³sÃ¡g elÅ‘tt a bejegyzÅ‘ vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt.<ujsor/>
+A per megindÃ­tÃ¡sÃ¡nak a bejegyzÅ‘ vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l, illetve - kÃ¶zzÃ©tÃ©teli kÃ¶telezettsÃ©g hiÃ¡nyÃ¡ban - annak kÃ©zbesÃ­tÃ©sÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l van helye. A hatÃ¡ridÅ‘ elmulasztÃ¡sa jogvesztÃ©ssel jÃ¡r.<ujsor/>
+2009. oktÃ³ber 21.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110046095</mezo>
-<mezo id = "nev">BALATONRING Vagyonkezelõ Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">1115 Budapest, Bartók Béla út 105-113.</mezo>
+<mezo id = "nev">BALATONRING VagyonkezelÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1115 Budapest, BartÃ³k BÃ©la Ãºt 105-113.</mezo>
 <mezo id = "adosz">14400032243</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság a Cg.01-10-046095 cégjegyzékszámon bejegyzett BALATONRING Vagyonkezelõ Zártkörûen Mûködõ Részvénytársaság (1115 Budapest, Bartók Béla út 105-113.; adószáma: 14400032-2-43) kérelme alapján elrendeli a 2008. augusztus 8. napján hozott Cg.01-10-046095 /4. számú végzésének kijavítását az alábbiak szerint:<ujsor/>
-15. A felügyelõ bizottsági tagok adatai<ujsor/>
-José Luján Falomir (an.: Pilar Falomir)<ujsor/>
-Külföldi lakó,illetve tartózkodási helye:<ujsor/>
-46004 Valencia, C/Isbal la Católica 1/12.<ujsor/>
-A kézbesítési megbízott:<ujsor/>
-Kránicz Nikolett (an.: Varga Ilona)<ujsor/>
-1055 Budapest, Kazán u 3. fsz.1.<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.01-10-046095 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett BALATONRING VagyonkezelÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (1115 Budapest, BartÃ³k BÃ©la Ãºt 105-113.; adÃ³szÃ¡ma: 14400032-2-43) kÃ©relme alapjÃ¡n elrendeli a 2008. augusztus 8. napjÃ¡n hozott Cg.01-10-046095 /4. szÃ¡mÃº vÃ©gzÃ©sÃ©nek kijavÃ­tÃ¡sÃ¡t az alÃ¡bbiak szerint:<ujsor/>
+15. A felÃ¼gyelÅ‘ bizottsÃ¡gi tagok adatai<ujsor/>
+JosÃ© LujÃ¡n Falomir (an.: Pilar Falomir)<ujsor/>
+KÃ¼lfÃ¶ldi lakÃ³,illetve tartÃ³zkodÃ¡si helye:<ujsor/>
+46004 Valencia, C/Isbal la CatÃ³lica 1/12.<ujsor/>
+A kÃ©zbesÃ­tÃ©si megbÃ­zott:<ujsor/>
+KrÃ¡nicz Nikolett (an.: Varga Ilona)<ujsor/>
+1055 Budapest, KazÃ¡n u 3. fsz.1.<ujsor/>
 Jogv. kezdete: 2008.05.21.<ujsor/>
-Vált. vége: 2008.08.08.<ujsor/>
-Törölve (végzés kelte): 2009. október 21.<ujsor/>
-José Luján Falomir (an.: Pilar Falomir)<ujsor/>
-Külföldi lakó,illetve tartózkodási helye:<ujsor/>
-46004 Valencia, c/Isabel de Católica 1/12.<ujsor/>
-A kézbesítési megbízott:<ujsor/>
-Kránicz Nikolett (an.: Varga Ilona)<ujsor/>
-1055 Budapest, Kazán u. 3. fszt. 1.<ujsor/>
+VÃ¡lt. vÃ©ge: 2008.08.08.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2009. oktÃ³ber 21.<ujsor/>
+JosÃ© LujÃ¡n Falomir (an.: Pilar Falomir)<ujsor/>
+KÃ¼lfÃ¶ldi lakÃ³,illetve tartÃ³zkodÃ¡si helye:<ujsor/>
+46004 Valencia, c/Isabel de CatÃ³lica 1/12.<ujsor/>
+A kÃ©zbesÃ­tÃ©si megbÃ­zott:<ujsor/>
+KrÃ¡nicz Nikolett (an.: Varga Ilona)<ujsor/>
+1055 Budapest, KazÃ¡n u. 3. fszt. 1.<ujsor/>
 Jogv. kezdete: 2008.05.21.<ujsor/>
-Vált. kezdete: 2008.08.08.<ujsor/>
-Bejegyezve (végzés kelte): 2009. október 21.<ujsor/>
-E végzés ellen fellebbezésnek nincs helye, azonban az ügyész, továbbá az, akire a végzés rendelkezést tartalmaz - a rendelkezés õt érintõ részére vonatkozóan - pert indíthat a cég ellen a cég székhelye szerint illetékes megyei bíróság elõtt a bejegyzõ végzés hatályon kívül helyezése iránt.<ujsor/>
-A per megindításának a bejegyzõ végzés Cégközlönyben való közzétételétõl, illetve - közzétételi kötelezettség hiányában - annak kézbesítésétõl számított 30 napon belül van helye. A határidõ elmulasztása jogvesztéssel jár.<ujsor/>
-2009. október 21.<ujsor/>
+VÃ¡lt. kezdete: 2008.08.08.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2009. oktÃ³ber 21.<ujsor/>
+E vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye, azonban az Ã¼gyÃ©sz, tovÃ¡bbÃ¡ az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s Å‘t Ã©rintÅ‘ rÃ©szÃ©re vonatkozÃ³an - pert indÃ­that a cÃ©g ellen a cÃ©g szÃ©khelye szerint illetÃ©kes megyei bÃ­rÃ³sÃ¡g elÅ‘tt a bejegyzÅ‘ vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt.<ujsor/>
+A per megindÃ­tÃ¡sÃ¡nak a bejegyzÅ‘ vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l, illetve - kÃ¶zzÃ©tÃ©teli kÃ¶telezettsÃ©g hiÃ¡nyÃ¡ban - annak kÃ©zbesÃ­tÃ©sÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l van helye. A hatÃ¡ridÅ‘ elmulasztÃ¡sa jogvesztÃ©ssel jÃ¡r.<ujsor/>
+2009. oktÃ³ber 21.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110046095</mezo>
-<mezo id = "nev">BALATONRING Vagyonkezelõ Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">1115 Budapest, Bartók Béla út 105-113.</mezo>
+<mezo id = "nev">BALATONRING VagyonkezelÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1115 Budapest, BartÃ³k BÃ©la Ãºt 105-113.</mezo>
 <mezo id = "adosz">14400032243</mezo>
 </alrovat>
 </rovat>

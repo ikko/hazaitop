@@ -5,7 +5,7 @@
 <mezo id = "cf">10</mezo>
 <mezo id = "szam">046159</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">1165 Budapest, Sarjú út 6. </mezo>
+<mezo id = "cim">1165 Budapest, SarjÃº Ãºt 6. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">14452321242</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20081021</mezo>
-<mezo id = "nev">HINTERLAND Mérnöki Iroda Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">HINTERLAND MÃ©rnÃ¶ki Iroda ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20081021</mezo>
@@ -35,7 +35,7 @@
 <mezo id = "hattol">20090831</mezo>
 <mezo id = "irsz">1165</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Sarjú út 6.</mezo>
+<mezo id = "teru">SarjÃº Ãºt 6.</mezo>
 <mezo id = "valtk">20090831</mezo>
 <mezo id = "bkelt">20090921</mezo>
 </alrovat>
@@ -749,20 +749,20 @@
 </rovat>
 <rovat id = "13">
 <alrovat id = "2">
-<mezo id = "tiszt">vezetõ tisztségviselõ (vezérigazgató)</mezo>
-<mezo id = "pnev">Juhász Attila</mezo>
-<mezo id = "panev">Szatmári Zsuzsanna</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (vezÃ©rigazgatÃ³)</mezo>
+<mezo id = "pnev">JuhÃ¡sz Attila</mezo>
+<mezo id = "panev">SzatmÃ¡ri Zsuzsanna</mezo>
 <mezo id = "pirsz">1172</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Ezüst u 38.</mezo>
+<mezo id = "pteru">EzÃ¼st u 38.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20080704</mezo>
 <mezo id = "tkelt">20090921</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20101109</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (vezérigazgató)</mezo>
-<mezo id = "pnev">Kiss-Illés Edit Mónika</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (vezÃ©rigazgatÃ³)</mezo>
+<mezo id = "pnev">Kiss-IllÃ©s Edit MÃ³nika</mezo>
 <mezo id = "panev">Rikker Edit</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20101109</mezo>
@@ -779,9 +779,9 @@
 <mezo id = "orsz">H</mezo>
 <mezo id = "irsz">1143</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Stefánia út 57. B. ép.</mezo>
-<mezo id = "pnev">Dr. Jeszenszky Miklós</mezo>
-<mezo id = "panev">Duday Ágnes</mezo>
+<mezo id = "teru">StefÃ¡nia Ãºt 57. B. Ã©p.</mezo>
+<mezo id = "pnev">Dr. Jeszenszky MiklÃ³s</mezo>
+<mezo id = "panev">Duday Ãgnes</mezo>
 <mezo id = "jogvk">20100601</mezo>
 <mezo id = "jogvv">20110601</mezo>
 <mezo id = "valtk">20100601</mezo>
@@ -792,7 +792,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20081021</mezo>
 <mezo id = "cgjsz">109679484</mezo>
-<mezo id = "nev">HINTERLAND Mérnöki Iroda Korlátolt felelõsségû társaság</mezo>
+<mezo id = "nev">HINTERLAND MÃ©rnÃ¶ki Iroda KorlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g</mezo>
 <mezo id = "atdat">0</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
@@ -830,11 +830,11 @@
 <rovat id = "0110">
 <alrovat id = "5">
 <mezo id = "hattol">20110411</mezo>
-<mezo id = "pnev">Kiss-Illés Edit Mónika</mezo>
+<mezo id = "pnev">Kiss-IllÃ©s Edit MÃ³nika</mezo>
 <mezo id = "panev">Rikker Edit</mezo>
 <mezo id = "pirsz">1149</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Róna u. 79/a.</mezo>
+<mezo id = "pteru">RÃ³na u. 79/a.</mezo>
 <mezo id = "sz1">x</mezo>
 <mezo id = "valtk">20110411</mezo>
 <mezo id = "bkelt">20110421</mezo>
@@ -844,40 +844,40 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2008. 10. 21-én hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (ügyvezetõ).<ujsor/>
- Juhász Attila (an: Szatmári Zsuzsanna)<ujsor/>
-1172 Budapest, Ezüst u. 38.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2008. 10. 21-Ã©n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘).<ujsor/>
+ JuhÃ¡sz Attila (an: SzatmÃ¡ri Zsuzsanna)<ujsor/>
+1172 Budapest, EzÃ¼st u. 38.<ujsor/>
  A jogviszony kezdete: 2007. 06. 25.<ujsor/>
- A jogviszony vége: 2008. 07. 04.<ujsor/>
- A változás idõpontja (törlés): 2008. 10. 21.<ujsor/>
- Törölve: 2008. 10. 21.<ujsor/>
- A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (vezérigazgató).<ujsor/>
- Juhász Attila (an: Szatmári Zsuzsanna)<ujsor/>
-1172 Budapest, Ezüst u. 38.<ujsor/>
+ A jogviszony vÃ©ge: 2008. 07. 04.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2008. 10. 21.<ujsor/>
+ TÃ¶rÃ¶lve: 2008. 10. 21.<ujsor/>
+ A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (vezÃ©rigazgatÃ³).<ujsor/>
+ JuhÃ¡sz Attila (an: SzatmÃ¡ri Zsuzsanna)<ujsor/>
+1172 Budapest, EzÃ¼st u. 38.<ujsor/>
  A jogviszony kezdete: 2008. 07. 04.<ujsor/>
- A változás idõpontja: 2008. 10. 21.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 10. 21.<ujsor/>
  Bejegyezve: 2008. 10. 21.<ujsor/>
 2008. 10. 31.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110046159</mezo>
-<mezo id = "nev">HINTERLAND Mérnöki Iroda Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">1163 Budapest, Kövirózsa utca 5.</mezo>
+<mezo id = "nev">HINTERLAND MÃ©rnÃ¶ki Iroda ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1163 Budapest, KÃ¶virÃ³zsa utca 5.</mezo>
 <mezo id = "adosz">14452321242</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2008. 10. 21-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-A Cg.01-10-046159 /6. számú végzés - 8/001 rovatban okirat kelte tévesen: 2007. június 25. <ujsor/>
-helyesen : 2008. július 04. - - 8/002. rovat tévesen lett feltüntetve.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2008. 10. 21-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+A Cg.01-10-046159 /6. szÃ¡mÃº vÃ©gzÃ©s - 8/001 rovatban okirat kelte tÃ©vesen: 2007. jÃºnius 25. <ujsor/>
+helyesen : 2008. jÃºlius 04. - - 8/002. rovat tÃ©vesen lett feltÃ¼ntetve.<ujsor/>
 Bejegyezve: 2008. 11. 13.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110046159</mezo>
-<mezo id = "nev">HINTERLAND Mérnöki Iroda Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">1163 Budapest, Kövirózsa utca 5.</mezo>
+<mezo id = "nev">HINTERLAND MÃ©rnÃ¶ki Iroda ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1163 Budapest, KÃ¶virÃ³zsa utca 5.</mezo>
 <mezo id = "adosz">14452321242</mezo>
 </alrovat>
 </rovat>

@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">662345</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">1106 Budapest, Fehér út 1/b. </mezo>
+<mezo id = "cim">1106 Budapest, FehÃ©r Ãºt 1/b. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">12282672242</mezo>
 </alrovat>
@@ -13,13 +13,13 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19970701</mezo>
-<mezo id = "nev">BKV Vasúti Jármûjavító Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">BKV VasÃºti JÃ¡rmÅ±javÃ­tÃ³ SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">19970701</mezo>
-<mezo id = "nev">BKV Vasúti Jármûjavító Kft.</mezo>
+<mezo id = "nev">BKV VasÃºti JÃ¡rmÅ±javÃ­tÃ³ Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "4">
@@ -33,7 +33,7 @@
 <mezo id = "hattol">19970701</mezo>
 <mezo id = "irsz">1106</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Fehér út 1/b.</mezo>
+<mezo id = "teru">FehÃ©r Ãºt 1/b.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "8">
@@ -602,13 +602,13 @@
 <mezo id = "hattol">20100209</mezo>
 <mezo id = "valtk">20100209</mezo>
 <mezo id = "bkelt">20100413</mezo>
-<mezo id = "teaszov">Egyéb közlekedési eszköz javítása - Fõtevékenység</mezo>
+<mezo id = "teaszov">EgyÃ©b kÃ¶zlekedÃ©si eszkÃ¶z javÃ­tÃ¡sa - FÅ‘tevÃ©kenysÃ©g</mezo>
 </alrovat>
 <alrovat id = "150">
 <mezo id = "hattol">20100209</mezo>
 <mezo id = "valtk">20100209</mezo>
 <mezo id = "bkelt">20100413</mezo>
-<mezo id = "teaszov">Vasúti, kötöttpályás jármû gyártása</mezo>
+<mezo id = "teaszov">VasÃºti, kÃ¶tÃ¶ttpÃ¡lyÃ¡s jÃ¡rmÅ± gyÃ¡rtÃ¡sa</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -623,8 +623,8 @@
 <rovat id = "13">
 <alrovat id = "5">
 <mezo id = "hattol">20040130</mezo>
-<mezo id = "pnev">Dr. Tölgyes Vilmos</mezo>
-<mezo id = "panev">Gáll Anna</mezo>
+<mezo id = "pnev">Dr. TÃ¶lgyes Vilmos</mezo>
+<mezo id = "panev">GÃ¡ll Anna</mezo>
 <mezo id = "pirsz">1163</mezo>
 <mezo id = "phely">Budapest, Edit utca 10.</mezo>
 <mezo id = "kepvo">x</mezo>
@@ -634,9 +634,9 @@
 </alrovat>
 <alrovat id = "12">
 <mezo id = "hattol">20101014</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Németh Zoltán</mezo>
-<mezo id = "panev">Tiszavári Judit</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">NÃ©meth ZoltÃ¡n</mezo>
+<mezo id = "panev">TiszavÃ¡ri Judit</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20101015</mezo>
 <mezo id = "valtk">20101014</mezo>
@@ -648,28 +648,28 @@
 <alrovat id = "4">
 <mezo id = "hattol">20040130</mezo>
 <mezo id = "cgjsz">109071057</mezo>
-<mezo id = "nev">Deloitte Könyvvizsgáló és Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Deloitte KÃ¶nyvvizsgÃ¡lÃ³ Ã©s TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1051</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Nádor u.</mezo>
+<mezo id = "teru">NÃ¡dor u.</mezo>
 <mezo id = "hsz">21.</mezo>
-<mezo id = "pnev">Prohászka János</mezo>
-<mezo id = "panev">Verõ Piroska</mezo>
+<mezo id = "pnev">ProhÃ¡szka JÃ¡nos</mezo>
+<mezo id = "panev">VerÅ‘ Piroska</mezo>
 <mezo id = "pirsz">2628</mezo>
-<mezo id = "phely">Szob, Árpád út 30.</mezo>
+<mezo id = "phely">Szob, ÃrpÃ¡d Ãºt 30.</mezo>
 <mezo id = "jogvk">20040130</mezo>
 <mezo id = "jogvv">20040531</mezo>
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">20100226</mezo>
 <mezo id = "cgjsz">0109071057</mezo>
-<mezo id = "nev">Deloitte Könyvvizsgáló és Tanácsadó Kft</mezo>
+<mezo id = "nev">Deloitte KÃ¶nyvvizsgÃ¡lÃ³ Ã©s TanÃ¡csadÃ³ Kft</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1068</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Dózsa György út 84/C.</mezo>
-<mezo id = "pnev">Horváth Tamás</mezo>
+<mezo id = "teru">DÃ³zsa GyÃ¶rgy Ãºt 84/C.</mezo>
+<mezo id = "pnev">HorvÃ¡th TamÃ¡s</mezo>
 <mezo id = "panev">Grosz Veronika</mezo>
 <mezo id = "jogvk">20080531</mezo>
 <mezo id = "jogvv">20120531</mezo>
@@ -680,22 +680,22 @@
 <rovat id = "15">
 <alrovat id = "7">
 <mezo id = "hattol">20000629</mezo>
-<mezo id = "pnev">Kollár György</mezo>
-<mezo id = "panev">Roskovenszky Éva</mezo>
+<mezo id = "pnev">KollÃ¡r GyÃ¶rgy</mezo>
+<mezo id = "panev">Roskovenszky Ã‰va</mezo>
 <mezo id = "pirsz">1119</mezo>
-<mezo id = "phely">Budapest, Corvin körút 4/VIII/129.</mezo>
+<mezo id = "phely">Budapest, Corvin kÃ¶rÃºt 4/VIII/129.</mezo>
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">20030729</mezo>
-<mezo id = "pnev">Kövér László</mezo>
+<mezo id = "pnev">KÃ¶vÃ©r LÃ¡szlÃ³</mezo>
 <mezo id = "panev">Vincze Margit</mezo>
 <mezo id = "pirsz">1102</mezo>
-<mezo id = "phely">Budapest, Hölgy utca 29/31.</mezo>
+<mezo id = "phely">Budapest, HÃ¶lgy utca 29/31.</mezo>
 </alrovat>
 <alrovat id = "16">
 <mezo id = "hattol">20040130</mezo>
-<mezo id = "pnev">Stépán Tibor</mezo>
-<mezo id = "panev">Schenek Mária</mezo>
+<mezo id = "pnev">StÃ©pÃ¡n Tibor</mezo>
+<mezo id = "panev">Schenek MÃ¡ria</mezo>
 <mezo id = "pirsz">1036</mezo>
 <mezo id = "phely">Budapest, Nagyszobat u. 4. II/9.</mezo>
 <mezo id = "jogvk">20040130</mezo>
@@ -703,17 +703,17 @@
 </alrovat>
 <alrovat id = "20">
 <mezo id = "hattol">20040130</mezo>
-<mezo id = "pnev">Csikós János</mezo>
-<mezo id = "panev">Gala Éva</mezo>
+<mezo id = "pnev">CsikÃ³s JÃ¡nos</mezo>
+<mezo id = "panev">Gala Ã‰va</mezo>
 <mezo id = "pirsz">1222</mezo>
-<mezo id = "phely">Budapest, Agár utca 7.</mezo>
+<mezo id = "phely">Budapest, AgÃ¡r utca 7.</mezo>
 <mezo id = "jogvk">20030729</mezo>
 <mezo id = "jogvv">20040406</mezo>
 </alrovat>
 <alrovat id = "21">
 <mezo id = "hattol">20040406</mezo>
-<mezo id = "pnev">Stépán Tibor</mezo>
-<mezo id = "panev">Schenek Mária</mezo>
+<mezo id = "pnev">StÃ©pÃ¡n Tibor</mezo>
+<mezo id = "panev">Schenek MÃ¡ria</mezo>
 <mezo id = "pirsz">1036</mezo>
 <mezo id = "phely">Budapest, Nagyszombat u. 4. II/9.</mezo>
 <mezo id = "jogvk">20040406</mezo>
@@ -721,10 +721,10 @@
 </alrovat>
 <alrovat id = "35">
 <mezo id = "hattol">20110701</mezo>
-<mezo id = "pnev">Simon Károly</mezo>
-<mezo id = "panev">Kiss Mária</mezo>
+<mezo id = "pnev">Simon KÃ¡roly</mezo>
+<mezo id = "panev">Kiss MÃ¡ria</mezo>
 <mezo id = "pirsz">2030</mezo>
-<mezo id = "phely">Érdparkváros</mezo>
+<mezo id = "phely">Ã‰rdparkvÃ¡ros</mezo>
 <mezo id = "pteru">Bokor utca 6.</mezo>
 <mezo id = "jogvk">20110701</mezo>
 <mezo id = "jogvv">20150630</mezo>
@@ -737,7 +737,7 @@
 <mezo id = "pnev">Romsics Krisztina</mezo>
 <mezo id = "panev">Varga Magdolna</mezo>
 <mezo id = "pirsz">7025</mezo>
-<mezo id = "phely">Bölcske</mezo>
+<mezo id = "phely">BÃ¶lcske</mezo>
 <mezo id = "pteru">Paksi utca 28.</mezo>
 <mezo id = "jogvk">20110701</mezo>
 <mezo id = "jogvv">20150630</mezo>
@@ -746,11 +746,11 @@
 </alrovat>
 <alrovat id = "37">
 <mezo id = "hattol">20110701</mezo>
-<mezo id = "pnev">Páll András</mezo>
-<mezo id = "panev">Páll Mária</mezo>
+<mezo id = "pnev">PÃ¡ll AndrÃ¡s</mezo>
+<mezo id = "panev">PÃ¡ll MÃ¡ria</mezo>
 <mezo id = "pirsz">1142</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Erzsébet királyné útja 46.</mezo>
+<mezo id = "pteru">ErzsÃ©bet kirÃ¡lynÃ© Ãºtja 46.</mezo>
 <mezo id = "jogvk">20110701</mezo>
 <mezo id = "jogvv">20150630</mezo>
 <mezo id = "valtk">20110701</mezo>
@@ -758,11 +758,11 @@
 </alrovat>
 <alrovat id = "38">
 <mezo id = "hattol">20110701</mezo>
-<mezo id = "pnev">Lenge Zoltán</mezo>
-<mezo id = "panev">Makó Anna Veronika</mezo>
+<mezo id = "pnev">Lenge ZoltÃ¡n</mezo>
+<mezo id = "panev">MakÃ³ Anna Veronika</mezo>
 <mezo id = "pirsz">2113</mezo>
-<mezo id = "phely">Erdõkertes</mezo>
-<mezo id = "pteru">Gólya utca 16/a/2.</mezo>
+<mezo id = "phely">ErdÅ‘kertes</mezo>
+<mezo id = "pteru">GÃ³lya utca 16/a/2.</mezo>
 <mezo id = "jogvk">20110701</mezo>
 <mezo id = "jogvv">20150630</mezo>
 <mezo id = "valtk">20110701</mezo>
@@ -771,11 +771,11 @@
 </alrovat>
 <alrovat id = "39">
 <mezo id = "hattol">20110701</mezo>
-<mezo id = "pnev">Szalontay Károlyné</mezo>
-<mezo id = "panev">Miklósi Gabriella</mezo>
+<mezo id = "pnev">Szalontay KÃ¡rolynÃ©</mezo>
+<mezo id = "panev">MiklÃ³si Gabriella</mezo>
 <mezo id = "pirsz">1221</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Alkotmány utca 52.</mezo>
+<mezo id = "pteru">AlkotmÃ¡ny utca 52.</mezo>
 <mezo id = "jogvk">20110701</mezo>
 <mezo id = "jogvv">20150630</mezo>
 <mezo id = "valtk">20110701</mezo>
@@ -786,7 +786,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20010801</mezo>
 <mezo id = "cgjsz">109668697</mezo>
-<mezo id = "nev">BKV Infrastruktúra Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">BKV InfrastruktÃºra SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "20">
@@ -808,28 +808,28 @@
 <mezo id = "adosz">12282672242</mezo>
 <mezo id = "kadosz">HU12282672</mezo>
 <mezo id = "bkelt">20110811</mezo>
-<mezo id = "megj">Státusz kezdete: 1997/07/01</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 1997/07/01</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0109">
 <alrovat id = "3">
 <mezo id = "hattol">20000629</mezo>
 <mezo id = "cgjsz">109668915</mezo>
-<mezo id = "nev">BKV Mozgólépcsõ Javító és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">BKV MozgÃ³lÃ©pcsÅ‘ JavÃ­tÃ³ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1103</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Kõér utca</mezo>
+<mezo id = "teru">KÅ‘Ã©r utca</mezo>
 <mezo id = "hsz">2/b</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20070514</mezo>
 <mezo id = "cgjsz">110043037</mezo>
-<mezo id = "nev">Budapesti Közlekedési Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">Budapesti KÃ¶zlekedÃ©si ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1072</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Akácfa u.</mezo>
+<mezo id = "teru">AkÃ¡cfa u.</mezo>
 <mezo id = "hsz">15.</mezo>
 <mezo id = "tagsk">20000629</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -847,311 +847,311 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Budapesti Közlekedési Részvénytársaság (cégjegyzékszám: [01 10 043037]; székhely: 1072 Budapest, Akácfa u. 15.) a Fõvárosi Bíróság mint Cégbíróság elõtt [01 09 662345] cégjegyzékszám alatt nyilvántartásba vett BKV Vasúti Jármûjavító Szolgáltató Korlátolt Felelõsségû Társaságban (1106 Budapest, Fehér út 1/B) a 2000. június 29-én megvalósult üzletrész-átruházásra tekintettel közvetlen irányítást biztosító befolyással rendelkezik, melynek mértéke 99,99%.<ujsor/>
-A hitelezõk a Gt. 296. § (2) bekezdésében foglalt jogaikat gyakorolhatják.<ujsor/>
+<mezo id = "szoveg">A Budapesti KÃ¶zlekedÃ©si RÃ©szvÃ©nytÃ¡rsasÃ¡g (cÃ©gjegyzÃ©kszÃ¡m: [01 10 043037]; szÃ©khely: 1072 Budapest, AkÃ¡cfa u. 15.) a FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g elÅ‘tt [01 09 662345] cÃ©gjegyzÃ©kszÃ¡m alatt nyilvÃ¡ntartÃ¡sba vett BKV VasÃºti JÃ¡rmÅ±javÃ­tÃ³ SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gban (1106 Budapest, FehÃ©r Ãºt 1/B) a 2000. jÃºnius 29-Ã©n megvalÃ³sult Ã¼zletrÃ©sz-Ã¡truhÃ¡zÃ¡sra tekintettel kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡ssal rendelkezik, melynek mÃ©rtÃ©ke 99,99%.<ujsor/>
+A hitelezÅ‘k a Gt. 296. Â§ (2) bekezdÃ©sÃ©ben foglalt jogaikat gyakorolhatjÃ¡k.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109662345</mezo>
-<mezo id = "nev">BKV Vasúti Jármûjavító Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">BKV VasÃºti JÃ¡rmÅ±javÃ­tÃ³ SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2000. 07. 24-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-1(09). [01 09 668915] BKV Mozgólépcsõ Javító és Szolgáltató Korlátolt Felelõsségû Társaság<ujsor/>
-HU 1103 Budapest, Kõér utca 2/b.<ujsor/>
- Törölve: 2000. 06. 29-i hatállyal.<ujsor/>
- [01 09 668916] BKV Mozgólépcsõ Javító és Szolgáltató Korlátolt Felelõsségû Társaság<ujsor/>
-HU 1103 Budapest, Kõér utca 2/b.<ujsor/>
- Hatályos: 2000. 06. 29-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2000. 07. 24-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+1(09). [01 09 668915] BKV MozgÃ³lÃ©pcsÅ‘ JavÃ­tÃ³ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g<ujsor/>
+HU 1103 Budapest, KÅ‘Ã©r utca 2/b.<ujsor/>
+ TÃ¶rÃ¶lve: 2000. 06. 29-i hatÃ¡llyal.<ujsor/>
+ [01 09 668916] BKV MozgÃ³lÃ©pcsÅ‘ JavÃ­tÃ³ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g<ujsor/>
+HU 1103 Budapest, KÅ‘Ã©r utca 2/b.<ujsor/>
+ HatÃ¡lyos: 2000. 06. 29-tÅ‘l.<ujsor/>
 Bejegyezve: 2000. 09. 01.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109662345</mezo>
-<mezo id = "nev">BKV Vasúti Jármûjavító Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1106 Budapest, Fehér út 1/b.</mezo>
+<mezo id = "nev">BKV VasÃºti JÃ¡rmÅ±javÃ­tÃ³ SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1106 Budapest, FehÃ©r Ãºt 1/b.</mezo>
 <mezo id = "adosz">12282672242</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A BKV Vasúti Jármûjavító Szolgáltató Korlátolt Felelõsségû Társaság (székhely: 1106 Budapest, Fehér út 1B; Cg.: [01 09 662345]) és a BKV Infrastrukhíra Szolgáltató Korlátolt Felelõsségû Társaság (székhelye: 1097 Budapest, Könyves Kálmán körút 11.; Cg.: [01 09 668697]) közzéteszi, hogy elhatározták a BKV Infrastruktúra Szolgáltató Korlátolt Felelõsségû Társaság<ujsor/>
-beolvadását<ujsor/>
-a BKV Vasút Jármûjavító Szolgáltató Korlátolt Felelõsségû Társaságba.<ujsor/>
-A jogutód cég neve: BKV Vasúti Jármûjavító Szolgáltató Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhelye: 1106 Budapest, Fehér út 1/B.<ujsor/>
-A módosított társasági szerzõdés megkötésének napja: 2001. május 30.<ujsor/>
-A jogutód társaság jegyzett tõkéje: 1 263 910 000 Ft, amelybõl 10 593 000 Ft pénzbeli hozzájárulás, míg 1 253 317 000 Ft azon vagyonleltár-tervezet szerinti vagyontárgyak értéke, melyek a jegyzett tõke nem pénzbeli hozzájárulás részét képezik.<ujsor/>
-Az egyesülés módja: beolvadás.<ujsor/>
-Fõ tevékenység: 6321 Szárazdöldi szállítást segítõ tevékenység; 3162 Máshova nem sorolt, egyéb villamos termék gyártása; 3520 Vasúti, kötöttpályás jármû gyártása.<ujsor/>
-A társaság ügyvezetõje: Schaffer Ferenc (1029 Budapest, Feketrigó u. 14/A).<ujsor/>
-A beolvadó cég, a BKV Infrastuktúra Szolgáltató Korlátolt Felelõsségû Társaság 2000. december 31-i fordulónappal elkészített vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 296 554 Saját tõke 238 054<ujsor/>
-Immateriális javak 3 213 Jegyzett tõke 371 429<ujsor/>
-Tárgyi eszközök 293 341 Tõketartalék -<ujsor/>
-Forgóeszközök 139 192 Eredménytartalék -133 375<ujsor/>
-Készletek 78 230 Céltartalék -<ujsor/>
-Követelések 60 962 Kötelezettségek 186 059<ujsor/>
-Pénzeszközök - Rövid lejáratú kötelezettségek 186 059<ujsor/>
-Aktív idõbeli elhatárolások 573 Hosszú lejáratú kötelezettségek -<ujsor/>
-  Passzív idõbeli elhatárolások 12 206<ujsor/>
-ÖSSZESEN: 436 319 ÖSSZESEN: 436 319<ujsor/>
-Az átvevõ cég, a BKV Vasúti Jármûjavító Szolgáltató Kft. 2000. december 31-i fordulónappal elkészített vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 1 242 029 Saját tõke 1 040 903<ujsor/>
-Immateriális javak 16 158 Jegyzett tõke 1 115 460<ujsor/>
-Tárgyi eszközök 1 218 171 Tõketartalék -<ujsor/>
-Forgóeszközök 1 351 271 Eredménytartalék -74 557<ujsor/>
-Készletek 5 15 210 Céltartalék 15 339<ujsor/>
-Követelések 825102 Kötelezettségek 1491156<ujsor/>
-Pénzeszközök 10 959 Rövid lejáratú kötelezettségek 1 491 156<ujsor/>
-Aktív idõbeli elhatárolások 3 335 Hosszú lejáratú kötelezettségek -<ujsor/>
-  Passzív idõbeli elhatárolások 49 237<ujsor/>
-ÖSSZESEN: 2 596 635 ÖSSZESEN: 2 596 635<ujsor/>
-Az átalakulást követõen a jogutód BKV Vasúti Jármûjavító Szolgáltató Kft. 2000. december 31-i fordulónappal elkészített vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 1 538 483 Saját tõke 1 278 857<ujsor/>
-Immateriális javak 19 371 Jegyzett tõke 1 263 910<ujsor/>
-Tárgyi eszközök 1 511 512 Tõketartalék -<ujsor/>
-Forgóeszközök 1 480 903 Eredménytartalék 14 947<ujsor/>
-Készletek 593 440 Céltartalék 15 339<ujsor/>
-Követelések 876 504 Kötelezettségek 1 667 655<ujsor/>
-Pénzeszközök 10 959 Rövid lejáratú kötelezettségek 1 667 655<ujsor/>
-Aktív idõbeli elhatárolások 3 908 Hosszú lejáratú kötelezettségek -<ujsor/>
-  Passzív idõbeli elhatárolások 61 443<ujsor/>
-ÖSSZESEN: 3 023 294 ÖSSZESEN: 3 023 294<ujsor/>
-Az egyesülõ társaságok felhívják esetleges hitelezõik figyelmét, hogy az 1997. évi CXLIV. tv. 66. §-ában foglalt jogaikat jelen hirdetmény második közzétételét követõ 30 napon belül gyakorolhatják.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">A BKV VasÃºti JÃ¡rmÅ±javÃ­tÃ³ SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (szÃ©khely: 1106 Budapest, FehÃ©r Ãºt 1B; Cg.: [01 09 662345]) Ã©s a BKV InfrastrukhÃ­ra SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (szÃ©khelye: 1097 Budapest, KÃ¶nyves KÃ¡lmÃ¡n kÃ¶rÃºt 11.; Cg.: [01 09 668697]) kÃ¶zzÃ©teszi, hogy elhatÃ¡roztÃ¡k a BKV InfrastruktÃºra SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g<ujsor/>
+beolvadÃ¡sÃ¡t<ujsor/>
+a BKV VasÃºt JÃ¡rmÅ±javÃ­tÃ³ SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gba.<ujsor/>
+A jogutÃ³d cÃ©g neve: BKV VasÃºti JÃ¡rmÅ±javÃ­tÃ³ SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 1106 Budapest, FehÃ©r Ãºt 1/B.<ujsor/>
+A mÃ³dosÃ­tott tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s megkÃ¶tÃ©sÃ©nek napja: 2001. mÃ¡jus 30.<ujsor/>
+A jogutÃ³d tÃ¡rsasÃ¡g jegyzett tÅ‘kÃ©je: 1 263 910 000 Ft, amelybÅ‘l 10 593 000 Ft pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s, mÃ­g 1 253 317 000 Ft azon vagyonleltÃ¡r-tervezet szerinti vagyontÃ¡rgyak Ã©rtÃ©ke, melyek a jegyzett tÅ‘ke nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s rÃ©szÃ©t kÃ©pezik.<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: beolvadÃ¡s.<ujsor/>
+FÅ‘ tevÃ©kenysÃ©g: 6321 SzÃ¡razdÃ¶ldi szÃ¡llÃ­tÃ¡st segÃ­tÅ‘ tevÃ©kenysÃ©g; 3162 MÃ¡shova nem sorolt, egyÃ©b villamos termÃ©k gyÃ¡rtÃ¡sa; 3520 VasÃºti, kÃ¶tÃ¶ttpÃ¡lyÃ¡s jÃ¡rmÅ± gyÃ¡rtÃ¡sa.<ujsor/>
+A tÃ¡rsasÃ¡g Ã¼gyvezetÅ‘je: Schaffer Ferenc (1029 Budapest, FeketrigÃ³ u. 14/A).<ujsor/>
+A beolvadÃ³ cÃ©g, a BKV InfrastuktÃºra SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g 2000. december 31-i fordulÃ³nappal elkÃ©szÃ­tett vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 296 554 SajÃ¡t tÅ‘ke 238 054<ujsor/>
+ImmateriÃ¡lis javak 3 213 Jegyzett tÅ‘ke 371 429<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 293 341 TÅ‘ketartalÃ©k -<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 139 192 EredmÃ©nytartalÃ©k -133 375<ujsor/>
+KÃ©szletek 78 230 CÃ©ltartalÃ©k -<ujsor/>
+KÃ¶vetelÃ©sek 60 962 KÃ¶telezettsÃ©gek 186 059<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k - RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 186 059<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 573 HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek -<ujsor/>
+  PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 12 206<ujsor/>
+Ã–SSZESEN: 436 319 Ã–SSZESEN: 436 319<ujsor/>
+Az Ã¡tvevÅ‘ cÃ©g, a BKV VasÃºti JÃ¡rmÅ±javÃ­tÃ³ SzolgÃ¡ltatÃ³ Kft. 2000. december 31-i fordulÃ³nappal elkÃ©szÃ­tett vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 1 242 029 SajÃ¡t tÅ‘ke 1 040 903<ujsor/>
+ImmateriÃ¡lis javak 16 158 Jegyzett tÅ‘ke 1 115 460<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 1 218 171 TÅ‘ketartalÃ©k -<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 1 351 271 EredmÃ©nytartalÃ©k -74 557<ujsor/>
+KÃ©szletek 5 15 210 CÃ©ltartalÃ©k 15 339<ujsor/>
+KÃ¶vetelÃ©sek 825102 KÃ¶telezettsÃ©gek 1491156<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 10 959 RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 1 491 156<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 3 335 HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek -<ujsor/>
+  PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 49 237<ujsor/>
+Ã–SSZESEN: 2 596 635 Ã–SSZESEN: 2 596 635<ujsor/>
+Az Ã¡talakulÃ¡st kÃ¶vetÅ‘en a jogutÃ³d BKV VasÃºti JÃ¡rmÅ±javÃ­tÃ³ SzolgÃ¡ltatÃ³ Kft. 2000. december 31-i fordulÃ³nappal elkÃ©szÃ­tett vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 1 538 483 SajÃ¡t tÅ‘ke 1 278 857<ujsor/>
+ImmateriÃ¡lis javak 19 371 Jegyzett tÅ‘ke 1 263 910<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 1 511 512 TÅ‘ketartalÃ©k -<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 1 480 903 EredmÃ©nytartalÃ©k 14 947<ujsor/>
+KÃ©szletek 593 440 CÃ©ltartalÃ©k 15 339<ujsor/>
+KÃ¶vetelÃ©sek 876 504 KÃ¶telezettsÃ©gek 1 667 655<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 10 959 RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 1 667 655<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 3 908 HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek -<ujsor/>
+  PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 61 443<ujsor/>
+Ã–SSZESEN: 3 023 294 Ã–SSZESEN: 3 023 294<ujsor/>
+Az egyesÃ¼lÅ‘ tÃ¡rsasÃ¡gok felhÃ­vjÃ¡k esetleges hitelezÅ‘ik figyelmÃ©t, hogy az 1997. Ã©vi CXLIV. tv. 66. Â§-Ã¡ban foglalt jogaikat jelen hirdetmÃ©ny mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ 30 napon belÃ¼l gyakorolhatjÃ¡k.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109662345</mezo>
-<mezo id = "nev">BKV Vasúti Jármûjavító Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">BKV VasÃºti JÃ¡rmÅ±javÃ­tÃ³ SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A BKV Vasúti Jármûjavító Szolgáltató Korlátolt Felelõsségû Társaság (székhely: 1106 Budapest, Fehér út 1B; Cg.: [01 09 662345]) és a BKV Infrastruktúra Szolgáltató Korlátolt Felelõsségû Társaság (székhelye: 1097 Budapest, Könyves Kálmán körút 11.; Cg.: [01 09 668697]) közzéteszi, hogy elhatározták a BKV Infrastruktúra Szolgáltató Korlátolt Felelõsségû Társaság<ujsor/>
-beolvadását<ujsor/>
-a BKV Vasúti Jármû javító Szolgáltató Korlátolt Felelõsségû Társaságba.<ujsor/>
-A jogutód cég neve: BKV Vasúti Jármûjavító Szolgáltató Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhelye: 1106 Budapest, Fehér út 1/B.<ujsor/>
-A módosított társasági szerzõdés megkötésének napja: 2001. május 30.<ujsor/>
-A jogutód társaság jegyzett tõkéje: 1 263 910 000 Ft, amelybõl 10 593 000 Ft pénzbeli hozzájárulás, míg 1 253 317 000 Ft azon vagyonleltár-tervezet szerinti vagyontárgyak értéke, melyek a jegyzett tõke nem pénzbeli hozzájárulás részét képezik.<ujsor/>
-Az egyesülés módja: beolvadás.<ujsor/>
-Fõ tevékenység: 6321 Szárazdöldi szállítást segítõ tevékenység; 3162 Máshova nem sorolt, egyéb villamos termék gyártása; 3520 Vasúti, kötöttpályás jármû gyártása.<ujsor/>
-A társaság ügyvezetõje: Schaffer Ferenc (1029 Budapest, Feketrigó u. 14/A).<ujsor/>
-A beolvadó cég, a BKV Infrastuktúra Szolgáltató Korlátolt Felelõsségû Társaság 2000. december 31-i fordulónappal elkészített vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 296 554 Saját tõke 238 054<ujsor/>
-Immateriális javak 3 213 Jegyzett tõke 371 429<ujsor/>
-Tárgyi eszközök 293 341 Tõketartalék -<ujsor/>
-Forgóeszközök 139 192 Eredménytartalék -133 375<ujsor/>
-Készletek 78 230 Céltartalék -<ujsor/>
-Követelések 60 962 Kötelezettségek 186 059<ujsor/>
-Pénzeszközök - Rövid lejáratú kötelezettségek 186 059<ujsor/>
-Aktív idõbeli elhatárolások 573 Hosszú lejáratú kötelezettségek -<ujsor/>
-  Passzív idõbeli elhatárolások 12 206<ujsor/>
-ÖSSZESEN: 436 319 ÖSSZESEN: 436 319<ujsor/>
-Az átvevõ cég, a BKV Vasúti Jármûjavító Szolgáltató Kft. 2000. december 31-i fordulónappal elkészített vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 1 242 029 Saját tõke 1 040 903<ujsor/>
-Immateriális javak 16 158 Jegyzett tõke 1 115 460<ujsor/>
-Tárgyi eszközök 1 218 171 Tõketartalék -<ujsor/>
-Forgóeszközök 1 351 271 Eredménytartalék -74 557<ujsor/>
-Készletek 515 210 Céltartalék 15 339<ujsor/>
-Követelések 825102 Kötelezettségek 1491156<ujsor/>
-Pénzeszközök 10 959 Rövid lejáratú kötelezettségek 1 491 156<ujsor/>
-Aktív idõbeli elhatárolások 3 335 Hosszú lejáratú kötelezettségek -<ujsor/>
-  Passzív idõbeli elhatárolások 49 237<ujsor/>
-ÖSSZESEN: 2 596 635 ÖSSZESEN: 2 596 635<ujsor/>
-Az átalakulást követõen a jogutód BKV Vasúti Jármûjavító Szolgáltató Kft. 2000. december 31-i fordulónappal elkészített vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 1 538 483 Saját tõke 1 278 857<ujsor/>
-Immateriális javak 19 371 Jegyzett tõke 1 263 910<ujsor/>
-Tárgyi eszközök 1 511 512 Tõketartalék -<ujsor/>
-Forgóeszközök 1 480 903 Eredménytartalék 14 947<ujsor/>
-Készletek 593 440 Céltartalék 15 339<ujsor/>
-Követelések 876 504 Kötelezettségek 1 667 655<ujsor/>
-Pénzeszközök 10 959 Rövid lejáratú kötelezettségek 1 667 655<ujsor/>
-Aktív idõbeli elhatárolások 3 908 Hosszú lejáratú kötelezettségek -<ujsor/>
-  Passzív idõbeli elhatárolások 61 443<ujsor/>
-ÖSSZESEN: 3 023 294 ÖSSZESEN: 3 023 294<ujsor/>
-Az egyesülõ társaságok felhívják esetleges hitelezõik figyelmét, hogy az 1997. évi CXLIV. tv. 66. §-ában foglalt jogaikat jelen hirdetmény második közzétételét követõ 30 napon belül gyakorolhatják.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">A BKV VasÃºti JÃ¡rmÅ±javÃ­tÃ³ SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (szÃ©khely: 1106 Budapest, FehÃ©r Ãºt 1B; Cg.: [01 09 662345]) Ã©s a BKV InfrastruktÃºra SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (szÃ©khelye: 1097 Budapest, KÃ¶nyves KÃ¡lmÃ¡n kÃ¶rÃºt 11.; Cg.: [01 09 668697]) kÃ¶zzÃ©teszi, hogy elhatÃ¡roztÃ¡k a BKV InfrastruktÃºra SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g<ujsor/>
+beolvadÃ¡sÃ¡t<ujsor/>
+a BKV VasÃºti JÃ¡rmÅ± javÃ­tÃ³ SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gba.<ujsor/>
+A jogutÃ³d cÃ©g neve: BKV VasÃºti JÃ¡rmÅ±javÃ­tÃ³ SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 1106 Budapest, FehÃ©r Ãºt 1/B.<ujsor/>
+A mÃ³dosÃ­tott tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s megkÃ¶tÃ©sÃ©nek napja: 2001. mÃ¡jus 30.<ujsor/>
+A jogutÃ³d tÃ¡rsasÃ¡g jegyzett tÅ‘kÃ©je: 1 263 910 000 Ft, amelybÅ‘l 10 593 000 Ft pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s, mÃ­g 1 253 317 000 Ft azon vagyonleltÃ¡r-tervezet szerinti vagyontÃ¡rgyak Ã©rtÃ©ke, melyek a jegyzett tÅ‘ke nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s rÃ©szÃ©t kÃ©pezik.<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: beolvadÃ¡s.<ujsor/>
+FÅ‘ tevÃ©kenysÃ©g: 6321 SzÃ¡razdÃ¶ldi szÃ¡llÃ­tÃ¡st segÃ­tÅ‘ tevÃ©kenysÃ©g; 3162 MÃ¡shova nem sorolt, egyÃ©b villamos termÃ©k gyÃ¡rtÃ¡sa; 3520 VasÃºti, kÃ¶tÃ¶ttpÃ¡lyÃ¡s jÃ¡rmÅ± gyÃ¡rtÃ¡sa.<ujsor/>
+A tÃ¡rsasÃ¡g Ã¼gyvezetÅ‘je: Schaffer Ferenc (1029 Budapest, FeketrigÃ³ u. 14/A).<ujsor/>
+A beolvadÃ³ cÃ©g, a BKV InfrastuktÃºra SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g 2000. december 31-i fordulÃ³nappal elkÃ©szÃ­tett vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 296 554 SajÃ¡t tÅ‘ke 238 054<ujsor/>
+ImmateriÃ¡lis javak 3 213 Jegyzett tÅ‘ke 371 429<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 293 341 TÅ‘ketartalÃ©k -<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 139 192 EredmÃ©nytartalÃ©k -133 375<ujsor/>
+KÃ©szletek 78 230 CÃ©ltartalÃ©k -<ujsor/>
+KÃ¶vetelÃ©sek 60 962 KÃ¶telezettsÃ©gek 186 059<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k - RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 186 059<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 573 HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek -<ujsor/>
+  PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 12 206<ujsor/>
+Ã–SSZESEN: 436 319 Ã–SSZESEN: 436 319<ujsor/>
+Az Ã¡tvevÅ‘ cÃ©g, a BKV VasÃºti JÃ¡rmÅ±javÃ­tÃ³ SzolgÃ¡ltatÃ³ Kft. 2000. december 31-i fordulÃ³nappal elkÃ©szÃ­tett vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 1 242 029 SajÃ¡t tÅ‘ke 1 040 903<ujsor/>
+ImmateriÃ¡lis javak 16 158 Jegyzett tÅ‘ke 1 115 460<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 1 218 171 TÅ‘ketartalÃ©k -<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 1 351 271 EredmÃ©nytartalÃ©k -74 557<ujsor/>
+KÃ©szletek 515 210 CÃ©ltartalÃ©k 15 339<ujsor/>
+KÃ¶vetelÃ©sek 825102 KÃ¶telezettsÃ©gek 1491156<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 10 959 RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 1 491 156<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 3 335 HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek -<ujsor/>
+  PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 49 237<ujsor/>
+Ã–SSZESEN: 2 596 635 Ã–SSZESEN: 2 596 635<ujsor/>
+Az Ã¡talakulÃ¡st kÃ¶vetÅ‘en a jogutÃ³d BKV VasÃºti JÃ¡rmÅ±javÃ­tÃ³ SzolgÃ¡ltatÃ³ Kft. 2000. december 31-i fordulÃ³nappal elkÃ©szÃ­tett vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 1 538 483 SajÃ¡t tÅ‘ke 1 278 857<ujsor/>
+ImmateriÃ¡lis javak 19 371 Jegyzett tÅ‘ke 1 263 910<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 1 511 512 TÅ‘ketartalÃ©k -<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 1 480 903 EredmÃ©nytartalÃ©k 14 947<ujsor/>
+KÃ©szletek 593 440 CÃ©ltartalÃ©k 15 339<ujsor/>
+KÃ¶vetelÃ©sek 876 504 KÃ¶telezettsÃ©gek 1 667 655<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 10 959 RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 1 667 655<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 3 908 HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek -<ujsor/>
+  PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 61 443<ujsor/>
+Ã–SSZESEN: 3 023 294 Ã–SSZESEN: 3 023 294<ujsor/>
+Az egyesÃ¼lÅ‘ tÃ¡rsasÃ¡gok felhÃ­vjÃ¡k esetleges hitelezÅ‘ik figyelmÃ©t, hogy az 1997. Ã©vi CXLIV. tv. 66. Â§-Ã¡ban foglalt jogaikat jelen hirdetmÃ©ny mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ 30 napon belÃ¼l gyakorolhatjÃ¡k.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109662345</mezo>
-<mezo id = "nev">BKV Vasúti Jármûjavító Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">BKV VasÃºti JÃ¡rmÅ±javÃ­tÃ³ SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2001. 08. 01-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-09. 45.23 Autópálya, út, repülõtér, sport játéktér építése.<ujsor/>
- Hatályos: 2001. 08. 01-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2001. 08. 01-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+09. 45.23 AutÃ³pÃ¡lya, Ãºt, repÃ¼lÅ‘tÃ©r, sport jÃ¡tÃ©ktÃ©r Ã©pÃ­tÃ©se.<ujsor/>
+ HatÃ¡lyos: 2001. 08. 01-tÅ‘l.<ujsor/>
 Bejegyezve: 2002. 04. 16.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109662345</mezo>
-<mezo id = "nev">BKV Vasúti Jármûjavító Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1106 Budapest, Fehér út 1/b.</mezo>
+<mezo id = "nev">BKV VasÃºti JÃ¡rmÅ±javÃ­tÃ³ SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1106 Budapest, FehÃ©r Ãºt 1/b.</mezo>
 <mezo id = "adosz">12282672242</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2003. 10. 06-án hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-15. Kollár György (an: Roskovenszky Éva)<ujsor/>
-1119 Budapest, Corvin körút 4/VIII/129.<ujsor/>
- Törölve: 2003. 07. 29-i hatállyal.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2003. 10. 06-Ã¡n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+15. KollÃ¡r GyÃ¶rgy (an: Roskovenszky Ã‰va)<ujsor/>
+1119 Budapest, Corvin kÃ¶rÃºt 4/VIII/129.<ujsor/>
+ TÃ¶rÃ¶lve: 2003. 07. 29-i hatÃ¡llyal.<ujsor/>
 Bejegyezve: 2003. 10. 10.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109662345</mezo>
-<mezo id = "nev">BKV Vasúti Jármûjavító Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1106 Budapest, Fehér út 1/b.</mezo>
+<mezo id = "nev">BKV VasÃºti JÃ¡rmÅ±javÃ­tÃ³ SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1106 Budapest, FehÃ©r Ãºt 1/b.</mezo>
 <mezo id = "adosz">12282672244</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2003. 10. 06-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-09. 5156&apos;03 Egyéb termelési célú termék nagykereskedelme.<ujsor/>
- Törölve: 2003. 10. 06-i hatállyal.<ujsor/>
-15. Kövér László (an: Vincze Margit)<ujsor/>
-1102 Budapest, Hölgy utca 29/31.<ujsor/>
- Törölve: 2003. 07. 29-i hatállyal.<ujsor/>
- Kövér László (an: Vincze Margit)<ujsor/>
-1102 Budapest, Hölgy utca 29/31. fszt. 5/a.<ujsor/>
- Hatályos: 2003. 07. 29-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2003. 10. 06-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+09. 5156&apos;03 EgyÃ©b termelÃ©si cÃ©lÃº termÃ©k nagykereskedelme.<ujsor/>
+ TÃ¶rÃ¶lve: 2003. 10. 06-i hatÃ¡llyal.<ujsor/>
+15. KÃ¶vÃ©r LÃ¡szlÃ³ (an: Vincze Margit)<ujsor/>
+1102 Budapest, HÃ¶lgy utca 29/31.<ujsor/>
+ TÃ¶rÃ¶lve: 2003. 07. 29-i hatÃ¡llyal.<ujsor/>
+ KÃ¶vÃ©r LÃ¡szlÃ³ (an: Vincze Margit)<ujsor/>
+1102 Budapest, HÃ¶lgy utca 29/31. fszt. 5/a.<ujsor/>
+ HatÃ¡lyos: 2003. 07. 29-tÅ‘l.<ujsor/>
 Bejegyezve: 2003. 10. 21.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109662345</mezo>
-<mezo id = "nev">BKV Vasúti Jármûjavító Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1106 Budapest, Fehér út 1/b.</mezo>
+<mezo id = "nev">BKV VasÃºti JÃ¡rmÅ±javÃ­tÃ³ SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1106 Budapest, FehÃ©r Ãºt 1/b.</mezo>
 <mezo id = "adosz">12282672244</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2003. 10. 06-án hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-09. 7220&apos;98 Szoftverkészítés, -szaktanácsadás.<ujsor/>
- Törölve: 2003. 10. 06-i hatállyal.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2003. 10. 06-Ã¡n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+09. 7220&apos;98 SzoftverkÃ©szÃ­tÃ©s, -szaktanÃ¡csadÃ¡s.<ujsor/>
+ TÃ¶rÃ¶lve: 2003. 10. 06-i hatÃ¡llyal.<ujsor/>
 Bejegyezve: 2003. 11. 12.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109662345</mezo>
-<mezo id = "nev">BKV Vasúti Jármûjavító Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1106 Budapest, Fehér út 1/b.</mezo>
+<mezo id = "nev">BKV VasÃºti JÃ¡rmÅ±javÃ­tÃ³ SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1106 Budapest, FehÃ©r Ãºt 1/b.</mezo>
 <mezo id = "adosz">12282672244</mezo>
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2004. 04. 20-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (tisztségviselõ).<ujsor/>
- Dr. Tölgyes Vilmos (an: Gáll Anna)<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2004. 04. 20-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (tisztsÃ©gviselÅ‘).<ujsor/>
+ Dr. TÃ¶lgyes Vilmos (an: GÃ¡ll Anna)<ujsor/>
 1163 Budapest, Edit utca 10.<ujsor/>
  A jogviszony kezdete: 2004. 02. 01.<ujsor/>
- A jogviszony vége: 2009. 02. 01.<ujsor/>
- Törölve: 2004. 01. 30-i hatállyal.<ujsor/>
- A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (tisztségviselõ).<ujsor/>
- Dr. Tölgyesi Vilmos (an: Gáll Anna)<ujsor/>
+ A jogviszony vÃ©ge: 2009. 02. 01.<ujsor/>
+ TÃ¶rÃ¶lve: 2004. 01. 30-i hatÃ¡llyal.<ujsor/>
+ A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (tisztsÃ©gviselÅ‘).<ujsor/>
+ Dr. TÃ¶lgyesi Vilmos (an: GÃ¡ll Anna)<ujsor/>
 1163 Budapest, Edit utca 10.<ujsor/>
  A jogviszony kezdete: 2004. 02. 01.<ujsor/>
- A jogviszony vége: 2009. 02. 01.<ujsor/>
- Hatályos: 2004. 01. 30-tól.<ujsor/>
-14. [01 09 071057] Deloitte Könyvvizsgáló és Tanácsadó Korlátolt Felelõsségû Társaság<ujsor/>
-HU 1051 Budapest, Nádor u. 21.<ujsor/>
- Prohászka János (an: Verõ Piroska)<ujsor/>
-2628 Szob, Árpád út 30.<ujsor/>
+ A jogviszony vÃ©ge: 2009. 02. 01.<ujsor/>
+ HatÃ¡lyos: 2004. 01. 30-tÃ³l.<ujsor/>
+14. [01 09 071057] Deloitte KÃ¶nyvvizsgÃ¡lÃ³ Ã©s TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g<ujsor/>
+HU 1051 Budapest, NÃ¡dor u. 21.<ujsor/>
+ ProhÃ¡szka JÃ¡nos (an: VerÅ‘ Piroska)<ujsor/>
+2628 Szob, ÃrpÃ¡d Ãºt 30.<ujsor/>
  A jogviszony kezdete: 2004. 01. 30.<ujsor/>
- A jogviszony vége: 2004. 05. 31.<ujsor/>
- Törölve: 2004. 01. 30-i hatállyal.<ujsor/>
- [01 09 071057] Deloitte &amp; Touche Könyvvizsgáló és Tanácsadó Korlátolt Felelõsségû Társaság<ujsor/>
-HU 1051 Budapest, Nádor u. 21.<ujsor/>
- Prohászka János (an: Verõ Piroska)<ujsor/>
-2628 Szob, Árpád út 30.<ujsor/>
+ A jogviszony vÃ©ge: 2004. 05. 31.<ujsor/>
+ TÃ¶rÃ¶lve: 2004. 01. 30-i hatÃ¡llyal.<ujsor/>
+ [01 09 071057] Deloitte &amp; Touche KÃ¶nyvvizsgÃ¡lÃ³ Ã©s TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g<ujsor/>
+HU 1051 Budapest, NÃ¡dor u. 21.<ujsor/>
+ ProhÃ¡szka JÃ¡nos (an: VerÅ‘ Piroska)<ujsor/>
+2628 Szob, ÃrpÃ¡d Ãºt 30.<ujsor/>
  A jogviszony kezdete: 2004. 01. 30.<ujsor/>
- A jogviszony vége: 2004. 05. 31.<ujsor/>
- Hatályos: 2004. 01. 30-tól.<ujsor/>
-15. Csikós János (an: Gala Éva)<ujsor/>
-1222 Budapest, Agár utca 7.<ujsor/>
+ A jogviszony vÃ©ge: 2004. 05. 31.<ujsor/>
+ HatÃ¡lyos: 2004. 01. 30-tÃ³l.<ujsor/>
+15. CsikÃ³s JÃ¡nos (an: Gala Ã‰va)<ujsor/>
+1222 Budapest, AgÃ¡r utca 7.<ujsor/>
  A jogviszony kezdete: 2003. 07. 29.<ujsor/>
- A jogviszony vége: 2004. 04. 06.<ujsor/>
- Törölve: 2004. 01. 30-i hatállyal.<ujsor/>
- Stépán Tibor (an: Schenek Mária)<ujsor/>
+ A jogviszony vÃ©ge: 2004. 04. 06.<ujsor/>
+ TÃ¶rÃ¶lve: 2004. 01. 30-i hatÃ¡llyal.<ujsor/>
+ StÃ©pÃ¡n Tibor (an: Schenek MÃ¡ria)<ujsor/>
 1036 Budapest, Nagyszobat u. 4. II/9.<ujsor/>
  A jogviszony kezdete: 2004. 04. 06.<ujsor/>
- A jogviszony vége: 2004. 06. 30.<ujsor/>
- Törölve: 2004. 04. 06-i hatállyal.<ujsor/>
- Stépán Tibor (an: Schenek Mária)<ujsor/>
+ A jogviszony vÃ©ge: 2004. 06. 30.<ujsor/>
+ TÃ¶rÃ¶lve: 2004. 04. 06-i hatÃ¡llyal.<ujsor/>
+ StÃ©pÃ¡n Tibor (an: Schenek MÃ¡ria)<ujsor/>
 1036 Budapest, Nagyszombat utca 4. II/9.<ujsor/>
  A jogviszony kezdete: 2004. 04. 06.<ujsor/>
- A jogviszony vége: 2004. 06. 30.<ujsor/>
- Hatályos: 2004. 04. 06-tól.<ujsor/>
- Csikós János (an: Gala Éva)<ujsor/>
-1222 Budapest, Agár utca 7.<ujsor/>
+ A jogviszony vÃ©ge: 2004. 06. 30.<ujsor/>
+ HatÃ¡lyos: 2004. 04. 06-tÃ³l.<ujsor/>
+ CsikÃ³s JÃ¡nos (an: Gala Ã‰va)<ujsor/>
+1222 Budapest, AgÃ¡r utca 7.<ujsor/>
  A jogviszony kezdete: 2003. 07. 29.<ujsor/>
- A jogviszony vége: 2004. 06. 30.<ujsor/>
- Hatályos: 2004. 01. 30-tól.<ujsor/>
+ A jogviszony vÃ©ge: 2004. 06. 30.<ujsor/>
+ HatÃ¡lyos: 2004. 01. 30-tÃ³l.<ujsor/>
 Bejegyezve: 2004. 06. 10.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109662345</mezo>
-<mezo id = "nev">BKV Vasúti Jármûjavító Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1106 Budapest, Fehér út 1/b.</mezo>
+<mezo id = "nev">BKV VasÃºti JÃ¡rmÅ±javÃ­tÃ³ SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1106 Budapest, FehÃ©r Ãºt 1/b.</mezo>
 <mezo id = "adosz">12282672242</mezo>
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2004. 04. 20-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-A 8/010 rovat tévesen: 2004. 01. 30., helyesen: 2004. 02. 16.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2004. 04. 20-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+A 8/010 rovat tÃ©vesen: 2004. 01. 30., helyesen: 2004. 02. 16.<ujsor/>
 Bejegyezve: 2004. 06. 10.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109662345</mezo>
-<mezo id = "nev">BKV Vasúti Jármûjavító Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1106 Budapest, Fehér út 1/b.</mezo>
+<mezo id = "nev">BKV VasÃºti JÃ¡rmÅ±javÃ­tÃ³ SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1106 Budapest, FehÃ©r Ãºt 1/b.</mezo>
 <mezo id = "adosz">12282672242</mezo>
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2007. 08. 13-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-15. Maczkó Erzsébet (an: Kuthi Rozália)<ujsor/>
-2194 Tura , Petõfi tér 11.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2007. 08. 13-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+15. MaczkÃ³ ErzsÃ©bet (an: Kuthi RozÃ¡lia)<ujsor/>
+2194 Tura , PetÅ‘fi tÃ©r 11.<ujsor/>
  A jogviszony kezdete: 2007. 07. 01.<ujsor/>
- A jogviszony vége: 2011. 06. 30.<ujsor/>
- A változás idõpontja: 2007. 07. 01.<ujsor/>
+ A jogviszony vÃ©ge: 2011. 06. 30.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2007. 07. 01.<ujsor/>
  Bejegyezve: 2008. 04. 14.<ujsor/>
 2008. 04. 14.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109662345</mezo>
-<mezo id = "nev">BKV Vasúti Jármûjavító Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1106 Budapest, Fehér út 1/b.</mezo>
+<mezo id = "nev">BKV VasÃºti JÃ¡rmÅ±javÃ­tÃ³ SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1106 Budapest, FehÃ©r Ãºt 1/b.</mezo>
 <mezo id = "adosz">12282672242</mezo>
 </alrovat>
 <alrovat id = "11">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2007. 08. 13-án hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-A bíróság a 2007. 08. 13. napján kelt. 2007. 09. 06. napján közzétett Cg 01-09-662345/96 számú végzését az alábbiak szerint javítja: <ujsor/>
-8/021 rovat tévesen: 2007. június 1 ., helyesen: 2007. július 1.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2007. 08. 13-Ã¡n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+A bÃ­rÃ³sÃ¡g a 2007. 08. 13. napjÃ¡n kelt. 2007. 09. 06. napjÃ¡n kÃ¶zzÃ©tett Cg 01-09-662345/96 szÃ¡mÃº vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja: <ujsor/>
+8/021 rovat tÃ©vesen: 2007. jÃºnius 1 ., helyesen: 2007. jÃºlius 1.<ujsor/>
 Bejegyezve: 2008. 04. 14.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109662345</mezo>
-<mezo id = "nev">BKV Vasúti Jármûjavító Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1106 Budapest, Fehér út 1/b.</mezo>
+<mezo id = "nev">BKV VasÃºti JÃ¡rmÅ±javÃ­tÃ³ SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1106 Budapest, FehÃ©r Ãºt 1/b.</mezo>
 <mezo id = "adosz">12282672242</mezo>
 </alrovat>
 <alrovat id = "12">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2008. 11. 18-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-09. 2561&apos;08 Fémfelület-kezelés.<ujsor/>
- A változás idõpontja: 2008. 09. 15.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2008. 11. 18-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+09. 2561&apos;08 FÃ©mfelÃ¼let-kezelÃ©s.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 09. 15.<ujsor/>
  Bejegyezve: 2008. 09. 15.<ujsor/>
 2008. 12. 11.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109662345</mezo>
-<mezo id = "nev">BKV Vasúti Jármûjavító Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1106 Budapest, Fehér út 1/b.</mezo>
+<mezo id = "nev">BKV VasÃºti JÃ¡rmÅ±javÃ­tÃ³ SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1106 Budapest, FehÃ©r Ãºt 1/b.</mezo>
 <mezo id = "adosz">12282672242</mezo>
 </alrovat>
 </rovat>

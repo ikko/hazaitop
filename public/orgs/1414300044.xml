@@ -6,7 +6,7 @@
 <mezo id = "szam">300044</mezo>
 <mezo id = "nevalrovat">1</mezo>
 <mezo id = "allapot">6</mezo>
-<mezo id = "cim">8646 Balatonfenyves, Kölcsey utca 27. </mezo>
+<mezo id = "cim">8646 Balatonfenyves, KÃ¶lcsey utca 27. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">21414367114</mezo>
 </alrovat>
@@ -14,13 +14,13 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20020624</mezo>
-<mezo id = "nev">Balaton-Boronka Kisvasút Közhasznú Társaság</mezo>
+<mezo id = "nev">Balaton-Boronka KisvasÃºt KÃ¶zhasznÃº TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">20020624</mezo>
-<mezo id = "nev">Balaton-Boronka Kisvasút Kht.</mezo>
+<mezo id = "nev">Balaton-Boronka KisvasÃºt Kht.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
@@ -28,7 +28,7 @@
 <mezo id = "hattol">20050719</mezo>
 <mezo id = "irsz">8646</mezo>
 <mezo id = "hely">Balatonfenyves</mezo>
-<mezo id = "teru">Kölcsey utca 27.</mezo>
+<mezo id = "teru">KÃ¶lcsey utca 27.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
@@ -115,8 +115,8 @@
 <rovat id = "13">
 <alrovat id = "2">
 <mezo id = "hattol">20050719</mezo>
-<mezo id = "pnev">Lombár Gábor</mezo>
-<mezo id = "panev">Horváth Piroska</mezo>
+<mezo id = "pnev">LombÃ¡r GÃ¡bor</mezo>
+<mezo id = "panev">HorvÃ¡th Piroska</mezo>
 <mezo id = "pirsz">8646</mezo>
 <mezo id = "phely">Balatonfenyves, Fenyvesi u. 25/IV.</mezo>
 <mezo id = "kepvo">x</mezo>
@@ -131,11 +131,11 @@
 <alrovat id = "2">
 <mezo id = "hattol">20060331</mezo>
 <mezo id = "cgjsz">1409304528</mezo>
-<mezo id = "nev">Mikle és Társai Könyvvizsgáló, Számviteli Szolgáltató, Adó- és Pénzügyi Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Mikle Ã©s TÃ¡rsai KÃ¶nyvvizsgÃ¡lÃ³, SzÃ¡mviteli SzolgÃ¡ltatÃ³, AdÃ³- Ã©s PÃ©nzÃ¼gyi TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">7400</mezo>
-<mezo id = "hely">Kaposvár</mezo>
-<mezo id = "teru">Léva u.</mezo>
+<mezo id = "hely">KaposvÃ¡r</mezo>
+<mezo id = "teru">LÃ©va u.</mezo>
 <mezo id = "hsz">14.</mezo>
 <mezo id = "jogvk">20060331</mezo>
 <mezo id = "jogvv">20061231</mezo>
@@ -146,10 +146,10 @@
 <rovat id = "15">
 <alrovat id = "4">
 <mezo id = "hattol">20050719</mezo>
-<mezo id = "pnev">Bajzik Miklós</mezo>
-<mezo id = "panev">Takács Erzsébet</mezo>
+<mezo id = "pnev">Bajzik MiklÃ³s</mezo>
+<mezo id = "panev">TakÃ¡cs ErzsÃ©bet</mezo>
 <mezo id = "pirsz">7400</mezo>
-<mezo id = "phely">Kaposvár, Arany J. u. 2.</mezo>
+<mezo id = "phely">KaposvÃ¡r, Arany J. u. 2.</mezo>
 <mezo id = "jogvk">20050719</mezo>
 <mezo id = "jogvv">20061231</mezo>
 <mezo id = "valtk">0</mezo>
@@ -157,10 +157,10 @@
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20050719</mezo>
-<mezo id = "pnev">Kiss József</mezo>
-<mezo id = "panev">Varga Mária</mezo>
+<mezo id = "pnev">Kiss JÃ³zsef</mezo>
+<mezo id = "panev">Varga MÃ¡ria</mezo>
 <mezo id = "pirsz">8800</mezo>
-<mezo id = "phely">Nagykanizsa, Erdész u. 2.</mezo>
+<mezo id = "phely">Nagykanizsa, ErdÃ©sz u. 2.</mezo>
 <mezo id = "jogvk">20020624</mezo>
 <mezo id = "jogvv">20061231</mezo>
 <mezo id = "valtk">0</mezo>
@@ -171,7 +171,7 @@
 <mezo id = "pnev">Fekecs Lajos</mezo>
 <mezo id = "panev">Fekecs Ibolya</mezo>
 <mezo id = "pirsz">7400</mezo>
-<mezo id = "phely">Kaposvár, Kaposfüredi u. 15.</mezo>
+<mezo id = "phely">KaposvÃ¡r, KaposfÃ¼redi u. 15.</mezo>
 <mezo id = "jogvk">20050719</mezo>
 <mezo id = "jogvv">20061231</mezo>
 <mezo id = "valtk">0</mezo>
@@ -193,95 +193,95 @@
 <rovat id = "22">
 <alrovat id = "1">
 <mezo id = "jccjsz">1409309400</mezo>
-<mezo id = "nev">Balaton-Boronka Kisvasút Nonprofit Közhasznú Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Balaton-Boronka KisvasÃºt Nonprofit KÃ¶zhasznÃº KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0214">
 <alrovat id = "1">
 <mezo id = "hattol">20020624</mezo>
 <mezo id = "cgjsz">510000182</mezo>
-<mezo id = "nev">MÁV Rt.</mezo>
+<mezo id = "nev">MÃV Rt.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1940</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Andrássy u.</mezo>
+<mezo id = "teru">AndrÃ¡ssy u.</mezo>
 <mezo id = "hsz">73-75.</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20020624</mezo>
-<mezo id = "nev">Somogy Megyei Önkormányzat</mezo>
+<mezo id = "nev">Somogy Megyei Ã–nkormÃ¡nyzat</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">7400</mezo>
-<mezo id = "hely">Kaposvár</mezo>
+<mezo id = "hely">KaposvÃ¡r</mezo>
 <mezo id = "teru">Csokonai u.</mezo>
 <mezo id = "hsz">3.</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20020624</mezo>
-<mezo id = "nev">Marcali Városi Önkormányzat</mezo>
+<mezo id = "nev">Marcali VÃ¡rosi Ã–nkormÃ¡nyzat</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">8700</mezo>
 <mezo id = "hely">Marcali</mezo>
-<mezo id = "teru">Rákóczi u.</mezo>
+<mezo id = "teru">RÃ¡kÃ³czi u.</mezo>
 <mezo id = "hsz">11.</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20020624</mezo>
-<mezo id = "nev">Nagybajomi Városi Önkormányzat</mezo>
+<mezo id = "nev">Nagybajomi VÃ¡rosi Ã–nkormÃ¡nyzat</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">7561</mezo>
 <mezo id = "hely">Nagybajom</mezo>
-<mezo id = "teru">Fõ u.</mezo>
+<mezo id = "teru">FÅ‘ u.</mezo>
 <mezo id = "hsz">41.</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20020624</mezo>
-<mezo id = "nev">Mesztegnyõi Községi Önkormányzat</mezo>
+<mezo id = "nev">MesztegnyÅ‘i KÃ¶zsÃ©gi Ã–nkormÃ¡nyzat</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">8616</mezo>
-<mezo id = "hely">Mesztegnyõ</mezo>
-<mezo id = "teru">Szabadság tér</mezo>
+<mezo id = "hely">MesztegnyÅ‘</mezo>
+<mezo id = "teru">SzabadsÃ¡g tÃ©r</mezo>
 <mezo id = "hsz">6.</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20020624</mezo>
-<mezo id = "nev">Balatonfenyvesi Községi Önkormányzat</mezo>
+<mezo id = "nev">Balatonfenyvesi KÃ¶zsÃ©gi Ã–nkormÃ¡nyzat</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">8646</mezo>
 <mezo id = "hely">Balatonfenyves</mezo>
-<mezo id = "teru">Kölcsey u.</mezo>
+<mezo id = "teru">KÃ¶lcsey u.</mezo>
 <mezo id = "hsz">27.</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">20020624</mezo>
-<mezo id = "nev">Somogyszentpáli Községi Önkormányzat</mezo>
+<mezo id = "nev">SomogyszentpÃ¡li KÃ¶zsÃ©gi Ã–nkormÃ¡nyzat</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">8705</mezo>
-<mezo id = "hely">Somogyszentpál</mezo>
-<mezo id = "teru">Kossuth tér</mezo>
+<mezo id = "hely">SomogyszentpÃ¡l</mezo>
+<mezo id = "teru">Kossuth tÃ©r</mezo>
 <mezo id = "hsz">1.</mezo>
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">20020624</mezo>
-<mezo id = "nev">Buzsáki Községi Önkormányzat</mezo>
+<mezo id = "nev">BuzsÃ¡ki KÃ¶zsÃ©gi Ã–nkormÃ¡nyzat</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">8695</mezo>
-<mezo id = "hely">Buzsák</mezo>
-<mezo id = "teru">Fõ tér</mezo>
+<mezo id = "hely">BuzsÃ¡k</mezo>
+<mezo id = "teru">FÅ‘ tÃ©r</mezo>
 <mezo id = "hsz">1.</mezo>
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">20020624</mezo>
-<mezo id = "nev">Táskai Községi Önkormányzat</mezo>
+<mezo id = "nev">TÃ¡skai KÃ¶zsÃ©gi Ã–nkormÃ¡nyzat</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">8696</mezo>
-<mezo id = "hely">Táska</mezo>
+<mezo id = "hely">TÃ¡ska</mezo>
 <mezo id = "teru">Arany J. u.</mezo>
 <mezo id = "hsz">2.</mezo>
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">20020624</mezo>
-<mezo id = "nev">Niklai Községi Önkormányzat</mezo>
+<mezo id = "nev">Niklai KÃ¶zsÃ©gi Ã–nkormÃ¡nyzat</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">8706</mezo>
 <mezo id = "hely">Nikla</mezo>
@@ -290,25 +290,25 @@
 </alrovat>
 <alrovat id = "11">
 <mezo id = "hattol">20020624</mezo>
-<mezo id = "nev">Csömendi Községi Önkormányzat</mezo>
+<mezo id = "nev">CsÃ¶mendi KÃ¶zsÃ©gi Ã–nkormÃ¡nyzat</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">8700</mezo>
 <mezo id = "hely">Marcali</mezo>
-<mezo id = "teru">Árpád u.</mezo>
+<mezo id = "teru">ÃrpÃ¡d u.</mezo>
 <mezo id = "hsz">2.</mezo>
 </alrovat>
 <alrovat id = "12">
 <mezo id = "hattol">20020624</mezo>
-<mezo id = "nev">Hosszúvizi Községi Önkormányzat</mezo>
+<mezo id = "nev">HosszÃºvizi KÃ¶zsÃ©gi Ã–nkormÃ¡nyzat</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">7716</mezo>
-<mezo id = "hely">Hosszúvíz</mezo>
-<mezo id = "teru">Fõ u.</mezo>
+<mezo id = "hely">HosszÃºvÃ­z</mezo>
+<mezo id = "teru">FÅ‘ u.</mezo>
 <mezo id = "hsz">45.</mezo>
 </alrovat>
 <alrovat id = "13">
 <mezo id = "hattol">20020624</mezo>
-<mezo id = "nev">Somogyfajszi Községi Önkormányzat</mezo>
+<mezo id = "nev">Somogyfajszi KÃ¶zsÃ©gi Ã–nkormÃ¡nyzat</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">8707</mezo>
 <mezo id = "hely">Somogyfajsz</mezo>
@@ -317,46 +317,46 @@
 </alrovat>
 <alrovat id = "14">
 <mezo id = "hattol">20020624</mezo>
-<mezo id = "nev">Újvárfalvai Községi Önkormányzat</mezo>
+<mezo id = "nev">ÃšjvÃ¡rfalvai KÃ¶zsÃ©gi Ã–nkormÃ¡nyzat</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">7436</mezo>
-<mezo id = "hely">Újvárfalva</mezo>
-<mezo id = "teru">Dózsa u.</mezo>
+<mezo id = "hely">ÃšjvÃ¡rfalva</mezo>
+<mezo id = "teru">DÃ³zsa u.</mezo>
 <mezo id = "hsz">14.</mezo>
 </alrovat>
 <alrovat id = "15">
 <mezo id = "hattol">20020624</mezo>
 <mezo id = "cgjsz">1410300060</mezo>
-<mezo id = "nev">Somogyi Erdészeti és Faipari Részvénytársaság</mezo>
+<mezo id = "nev">Somogyi ErdÃ©szeti Ã©s Faipari RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">7400</mezo>
-<mezo id = "hely">Kaposvár</mezo>
+<mezo id = "hely">KaposvÃ¡r</mezo>
 <mezo id = "teru">Bajcsy-Zs. u.</mezo>
 <mezo id = "hsz">21.</mezo>
 </alrovat>
 <alrovat id = "16">
 <mezo id = "hattol">20020624</mezo>
 <mezo id = "cgjsz">1406300555</mezo>
-<mezo id = "nev">Hubertus Agráripari Betéti Társaság</mezo>
+<mezo id = "nev">Hubertus AgrÃ¡ripari BetÃ©ti TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">8646</mezo>
 <mezo id = "hely">Balatonfenyves</mezo>
-<mezo id = "teru">Nimród u.</mezo>
+<mezo id = "teru">NimrÃ³d u.</mezo>
 <mezo id = "hsz">1.</mezo>
 </alrovat>
 <alrovat id = "17">
 <mezo id = "hattol">20020624</mezo>
 <mezo id = "cgjsz">1010020089</mezo>
-<mezo id = "nev">FAUNA Idegenforgalmi, Mezõgazdasági, Kereskedelmi Részvénytársaság</mezo>
+<mezo id = "nev">FAUNA Idegenforgalmi, MezÅ‘gazdasÃ¡gi, Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">3390</mezo>
-<mezo id = "hely">Füzesabony</mezo>
-<mezo id = "teru">Pusztaszikszó Pf.</mezo>
+<mezo id = "hely">FÃ¼zesabony</mezo>
+<mezo id = "teru">PusztaszikszÃ³ Pf.</mezo>
 <mezo id = "hsz">67.</mezo>
 </alrovat>
 <alrovat id = "18">
 <mezo id = "hattol">20020624</mezo>
-<mezo id = "nev">Somogy Természetvédelmi Szervezet</mezo>
+<mezo id = "nev">Somogy TermÃ©szetvÃ©delmi Szervezet</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">8708</mezo>
 <mezo id = "hely">Somogyfajsz</mezo>

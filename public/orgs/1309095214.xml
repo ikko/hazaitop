@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">095214</mezo>
 <mezo id = "nevalrovat">2</mezo>
-<mezo id = "cim">2117 Isaszeg, Gyöngyvirág utca 25. </mezo>
+<mezo id = "cim">2117 Isaszeg, GyÃ¶ngyvirÃ¡g utca 25. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">13068349213</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20070709</mezo>
-<mezo id = "nev">Magyar kõris Kertészeti és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Magyar kÅ‘ris KertÃ©szeti Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">20070628</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -21,7 +21,7 @@
 <rovat id = "3">
 <alrovat id = "2">
 <mezo id = "hattol">20070709</mezo>
-<mezo id = "nev">Magyar kõris Kft.</mezo>
+<mezo id = "nev">Magyar kÅ‘ris Kft.</mezo>
 <mezo id = "valtk">20070628</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -31,7 +31,7 @@
 <mezo id = "hattol">20070709</mezo>
 <mezo id = "irsz">2117</mezo>
 <mezo id = "hely">Isaszeg</mezo>
-<mezo id = "teru">Gyöngyvirág utca 25.</mezo>
+<mezo id = "teru">GyÃ¶ngyvirÃ¡g utca 25.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">20070628</mezo>
 <mezo id = "valtv">0</mezo>
@@ -41,7 +41,7 @@
 <alrovat id = "1">
 <mezo id = "irsz">3053</mezo>
 <mezo id = "hely">Ecseg</mezo>
-<mezo id = "teru">Széchenyi utca 15.</mezo>
+<mezo id = "teru">SzÃ©chenyi utca 15.</mezo>
 <mezo id = "bkelt">20101221</mezo>
 </alrovat>
 </rovat>
@@ -397,7 +397,7 @@
 <mezo id = "hattol">20101215</mezo>
 <mezo id = "valtk">20101215</mezo>
 <mezo id = "bkelt">20101221</mezo>
-<mezo id = "teaszov">Zöldterület-kezelés (fõtevékenység)</mezo>
+<mezo id = "teaszov">ZÃ¶ldterÃ¼let-kezelÃ©s (fÅ‘tevÃ©kenysÃ©g)</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -412,18 +412,18 @@
 <rovat id = "13">
 <alrovat id = "2">
 <mezo id = "hattol">20030804</mezo>
-<mezo id = "tiszt">ügyvezetõ</mezo>
-<mezo id = "pnev">Jantsó Erzsébet</mezo>
-<mezo id = "panev">Czirle Erzsébet</mezo>
+<mezo id = "tiszt">Ã¼gyvezetÅ‘</mezo>
+<mezo id = "pnev">JantsÃ³ ErzsÃ©bet</mezo>
+<mezo id = "panev">Czirle ErzsÃ©bet</mezo>
 <mezo id = "pirsz">6724</mezo>
-<mezo id = "phely">Szeged, Csongrádi sugárút 76.</mezo>
+<mezo id = "phely">Szeged, CsongrÃ¡di sugÃ¡rÃºt 76.</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20070709</mezo>
-<mezo id = "pnev">Percze Ildikó</mezo>
-<mezo id = "panev">Török Ilona</mezo>
+<mezo id = "pnev">Percze IldikÃ³</mezo>
+<mezo id = "panev">TÃ¶rÃ¶k Ilona</mezo>
 <mezo id = "pirsz">2120</mezo>
-<mezo id = "phely">Dunakeszi, Szent György utca 15.</mezo>
+<mezo id = "phely">Dunakeszi, Szent GyÃ¶rgy utca 15.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">d</mezo>
 <mezo id = "jogvk">20030804</mezo>
@@ -433,10 +433,10 @@
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20070709</mezo>
-<mezo id = "pnev">Janstó Erzsébet</mezo>
-<mezo id = "panev">Czirle Erzsébet</mezo>
+<mezo id = "pnev">JanstÃ³ ErzsÃ©bet</mezo>
+<mezo id = "panev">Czirle ErzsÃ©bet</mezo>
 <mezo id = "pirsz">6724</mezo>
-<mezo id = "phely">Szeged, Csongrádi sugárút 76.</mezo>
+<mezo id = "phely">Szeged, CsongrÃ¡di sugÃ¡rÃºt 76.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">d</mezo>
 <mezo id = "jogvk">20030804</mezo>
@@ -446,11 +446,11 @@
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20101215</mezo>
-<mezo id = "pnev">Szarvas Gábor Imre</mezo>
-<mezo id = "panev">Tóth Magdolna</mezo>
+<mezo id = "pnev">Szarvas GÃ¡bor Imre</mezo>
+<mezo id = "panev">TÃ³th Magdolna</mezo>
 <mezo id = "pirsz">2117</mezo>
 <mezo id = "phely">Isaszeg</mezo>
-<mezo id = "pteru">Gyöngyvirág utca 25.</mezo>
+<mezo id = "pteru">GyÃ¶ngyvirÃ¡g utca 25.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20101215</mezo>
 <mezo id = "valtk">20101215</mezo>
@@ -459,12 +459,12 @@
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">20101215</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Szarvasné Horváth Mónika (ln.: Horváth Mónika)</mezo>
-<mezo id = "panev">Mándoki Mária Éva</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">SzarvasnÃ© HorvÃ¡th MÃ³nika (ln.: HorvÃ¡th MÃ³nika)</mezo>
+<mezo id = "panev">MÃ¡ndoki MÃ¡ria Ã‰va</mezo>
 <mezo id = "pirsz">2117</mezo>
 <mezo id = "phely">Isaszeg</mezo>
-<mezo id = "pteru">Gyöngyvirág utca 25.</mezo>
+<mezo id = "pteru">GyÃ¶ngyvirÃ¡g utca 25.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20101215</mezo>
 <mezo id = "valtk">20101215</mezo>
@@ -476,13 +476,13 @@
 <alrovat id = "1">
 <mezo id = "hattol">20101215</mezo>
 <mezo id = "cgjsz">0109907186</mezo>
-<mezo id = "nev">CORRECT Pénzügyi és Könyvszakértõ Kft. (nyilvántartási száma: 000079)</mezo>
+<mezo id = "nev">CORRECT PÃ©nzÃ¼gyi Ã©s KÃ¶nyvszakÃ©rtÅ‘ Kft. (nyilvÃ¡ntartÃ¡si szÃ¡ma: 000079)</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1025</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Palánta utca 3. C. ép.</mezo>
-<mezo id = "pnev">Egri István Iván (igazolvány száma: 003152)</mezo>
-<mezo id = "panev">Stern Jolán</mezo>
+<mezo id = "teru">PalÃ¡nta utca 3. C. Ã©p.</mezo>
+<mezo id = "pnev">Egri IstvÃ¡n IvÃ¡n (igazolvÃ¡ny szÃ¡ma: 003152)</mezo>
+<mezo id = "panev">Stern JolÃ¡n</mezo>
 <mezo id = "pirsz">1028</mezo>
 <mezo id = "phely">Budapest</mezo>
 <mezo id = "pteru">Arad utca 37.</mezo>
@@ -523,17 +523,17 @@
 <alrovat id = "2">
 <mezo id = "hattol">20030804</mezo>
 <mezo id = "j">x</mezo>
-<mezo id = "pnev">Jantsó Erzsébet</mezo>
-<mezo id = "panev">Czirle Erzsébet</mezo>
+<mezo id = "pnev">JantsÃ³ ErzsÃ©bet</mezo>
+<mezo id = "panev">Czirle ErzsÃ©bet</mezo>
 <mezo id = "pirsz">6724</mezo>
-<mezo id = "phely">Szeged, Csongrádi sugárút 76.</mezo>
+<mezo id = "phely">Szeged, CsongrÃ¡di sugÃ¡rÃºt 76.</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20070709</mezo>
-<mezo id = "pnev">Percze Ildikó</mezo>
-<mezo id = "panev">Török Ilona</mezo>
+<mezo id = "pnev">Percze IldikÃ³</mezo>
+<mezo id = "panev">TÃ¶rÃ¶k Ilona</mezo>
 <mezo id = "pirsz">2120</mezo>
-<mezo id = "phely">Dunakeszi, Szent György utca 15.</mezo>
+<mezo id = "phely">Dunakeszi, Szent GyÃ¶rgy utca 15.</mezo>
 <mezo id = "tagsk">20030804</mezo>
 <mezo id = "tagsv">20070628</mezo>
 <mezo id = "valtk">20070628</mezo>
@@ -541,10 +541,10 @@
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20070709</mezo>
-<mezo id = "pnev">Janstó Erzsébet</mezo>
-<mezo id = "panev">Czirle Erzsébet</mezo>
+<mezo id = "pnev">JanstÃ³ ErzsÃ©bet</mezo>
+<mezo id = "panev">Czirle ErzsÃ©bet</mezo>
 <mezo id = "pirsz">6724</mezo>
-<mezo id = "phely">Szeged, Csongrádi sugárút 76.</mezo>
+<mezo id = "phely">Szeged, CsongrÃ¡di sugÃ¡rÃºt 76.</mezo>
 <mezo id = "tagsk">20030804</mezo>
 <mezo id = "tagsv">20070628</mezo>
 <mezo id = "valtk">20070628</mezo>
@@ -552,10 +552,10 @@
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20070709</mezo>
-<mezo id = "pnev">Szarvas Gábor Imre</mezo>
-<mezo id = "panev">Tóth Magdolna</mezo>
+<mezo id = "pnev">Szarvas GÃ¡bor Imre</mezo>
+<mezo id = "panev">TÃ³th Magdolna</mezo>
 <mezo id = "pirsz">2117</mezo>
-<mezo id = "phely">Isaszeg , Gyöngyvirág u. 25.</mezo>
+<mezo id = "phely">Isaszeg , GyÃ¶ngyvirÃ¡g u. 25.</mezo>
 <mezo id = "tagsk">20070628</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20070628</mezo>
@@ -563,10 +563,10 @@
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20070709</mezo>
-<mezo id = "pnev">Szarvasné Horváth Mónika</mezo>
-<mezo id = "panev">Mándoki Mária Éva</mezo>
+<mezo id = "pnev">SzarvasnÃ© HorvÃ¡th MÃ³nika</mezo>
+<mezo id = "panev">MÃ¡ndoki MÃ¡ria Ã‰va</mezo>
 <mezo id = "pirsz">2117</mezo>
-<mezo id = "phely">Isaszeg , Gyöngyvirág u. 25.</mezo>
+<mezo id = "phely">Isaszeg , GyÃ¶ngyvirÃ¡g u. 25.</mezo>
 <mezo id = "tagsk">20070628</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20070628</mezo>
@@ -582,21 +582,21 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2007. 07. 09-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. Jantsó Erzsébet (an: Czirle Erzsébet) ügyvezetõ<ujsor/>
-6724 Szeged, Csongrádi sugárút 76.<ujsor/>
- A változás idõpontja (törlés): 2007. 06. 28.<ujsor/>
- Törölve: 2008. 03. 18.<ujsor/>
-1(09). A társaság irányítását biztosító befolyásolás fajtája: jelentõs befolyás.<ujsor/>
- Jantsó Erzsébet (an: Czirle Erzsébet)<ujsor/>
-6724 Szeged, Csongrádi sugárút 76.<ujsor/>
- A változás idõpontja (törlés): 2007. 06. 28.<ujsor/>
- Törölve: 2008. 03. 18.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2007. 07. 09-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. JantsÃ³ ErzsÃ©bet (an: Czirle ErzsÃ©bet) Ã¼gyvezetÅ‘<ujsor/>
+6724 Szeged, CsongrÃ¡di sugÃ¡rÃºt 76.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2007. 06. 28.<ujsor/>
+ TÃ¶rÃ¶lve: 2008. 03. 18.<ujsor/>
+1(09). A tÃ¡rsasÃ¡g irÃ¡nyÃ­tÃ¡sÃ¡t biztosÃ­tÃ³ befolyÃ¡solÃ¡s fajtÃ¡ja: jelentÅ‘s befolyÃ¡s.<ujsor/>
+ JantsÃ³ ErzsÃ©bet (an: Czirle ErzsÃ©bet)<ujsor/>
+6724 Szeged, CsongrÃ¡di sugÃ¡rÃºt 76.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2007. 06. 28.<ujsor/>
+ TÃ¶rÃ¶lve: 2008. 03. 18.<ujsor/>
 2008. 03. 18.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1309095214</mezo>
-<mezo id = "nev">Magyar kõris Kertészeti és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">2117 Isaszeg , Gyöngyvirág utca 25.</mezo>
+<mezo id = "nev">Magyar kÅ‘ris KertÃ©szeti Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2117 Isaszeg , GyÃ¶ngyvirÃ¡g utca 25.</mezo>
 <mezo id = "adosz">13068349213</mezo>
 </alrovat>
 </rovat>

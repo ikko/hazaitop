@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">868030</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">1053 Budapest, Képíró utca 9. </mezo>
+<mezo id = "cim">1053 Budapest, KÃ©pÃ­rÃ³ utca 9. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">13687654241</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20060306</mezo>
-<mezo id = "nev">TRANS HOLDING PLUSZ Szolgáltató és Mûszaki Szakértõ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">TRANS HOLDING PLUSZ SzolgÃ¡ltatÃ³ Ã©s MÅ±szaki SzakÃ©rtÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -27,7 +27,7 @@
 <mezo id = "hattol">20110418</mezo>
 <mezo id = "irsz">1053</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Képíró utca 9.</mezo>
+<mezo id = "teru">KÃ©pÃ­rÃ³ utca 9.</mezo>
 <mezo id = "valtk">20110418</mezo>
 <mezo id = "bkelt">20111010</mezo>
 </alrovat>
@@ -660,12 +660,12 @@
 <rovat id = "13">
 <alrovat id = "3">
 <mezo id = "hattol">20110418</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Ardai Barnabás</mezo>
-<mezo id = "panev">Molnár Éva</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Ardai BarnabÃ¡s</mezo>
+<mezo id = "panev">MolnÃ¡r Ã‰va</mezo>
 <mezo id = "pirsz">4765</mezo>
 <mezo id = "phely">Csenger</mezo>
-<mezo id = "pteru">Debreceni út 29.</mezo>
+<mezo id = "pteru">Debreceni Ãºt 29.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20110418</mezo>
 <mezo id = "valtk">20110418</mezo>
@@ -683,14 +683,14 @@
 <alrovat id = "5">
 <mezo id = "adosz">13687654241</mezo>
 <mezo id = "bkelt">20111026</mezo>
-<mezo id = "megj">Státusz kezdete: 2011/10/25</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 2011/10/25</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0109">
 <alrovat id = "2">
 <mezo id = "hattol">20071009</mezo>
 <mezo id = "cgjsz">109467713</mezo>
-<mezo id = "nev">&quot;TRANS HOLDING GROUP&quot; Szolgáltató és Mûszaki Szakértõ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">&quot;TRANS HOLDING GROUP&quot; SzolgÃ¡ltatÃ³ Ã©s MÅ±szaki SzakÃ©rtÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1205</mezo>
 <mezo id = "hely">Budapest</mezo>
@@ -705,11 +705,11 @@
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20070829</mezo>
-<mezo id = "nev">FINTHA-NAGY Ügyvédi Iroda</mezo>
+<mezo id = "nev">FINTHA-NAGY ÃœgyvÃ©di Iroda</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1051</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Kristóf tér</mezo>
+<mezo id = "teru">KristÃ³f tÃ©r</mezo>
 <mezo id = "hsz">3. I .em.</mezo>
 <mezo id = "tagsk">20070829</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -720,8 +720,8 @@
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20070829</mezo>
-<mezo id = "pnev">Ardai Barnabás</mezo>
-<mezo id = "panev">Molnár Mária</mezo>
+<mezo id = "pnev">Ardai BarnabÃ¡s</mezo>
+<mezo id = "panev">MolnÃ¡r MÃ¡ria</mezo>
 <mezo id = "pirsz">4765</mezo>
 <mezo id = "phely">Csenger, Debreceni u. 29.</mezo>
 <mezo id = "tagsk">20070829</mezo>
@@ -736,42 +736,42 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a cég 2008. 07. 01. napján<ujsor/>
-benyújtott változás bejegyzése iránti kérelmét elutasítja.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a cÃ©g 2008. 07. 01. napjÃ¡n<ujsor/>
+benyÃºjtott vÃ¡ltozÃ¡s bejegyzÃ©se irÃ¡nti kÃ©relmÃ©t elutasÃ­tja.<ujsor/>
 2009. 03. 02.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109868030</mezo>
-<mezo id = "nev">TRANS HOLDING PLUSZ Szolgáltató és Mûszaki Szakértõ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">TRANS HOLDING PLUSZ SzolgÃ¡ltatÃ³ Ã©s MÅ±szaki SzakÃ©rtÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1205 Budapest, Kossuth L. u. 190.</mezo>
 <mezo id = "adosz">13687654243</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság a Cg.01-09-868030 cégjegyzékszámon bejegyzett TRANS HOLDING PLUSZ Szolgáltató és Mûszaki Szakértõ Korlátolt Felelõsségû Társaság (1205 Budapest, Kossuth L. u 190.; adószáma: 13687654-2-43) ügyében az 2011. január 27. napján hozott Cg.01-09-868030/26. számú végzését hivatalból kijavítani rendeli az alábbiak szerint:<ujsor/>
-33. A cég elleni végrehajtás adatai<ujsor/>
-A végrehajtás elrendelésének idõpontja: 2010.06.24.<ujsor/>
-A végrehajtás megszüntetésének idõpontja: 2011.01.04.<ujsor/>
-A végrehajtás ügyszáma: 0100-1Vh.500.343/2010/3.<ujsor/>
-A végrehajtást elrendelõ bíróság: Fõvárosi Bíróság.<ujsor/>
-A végrehajtás megkezdésérõl szóló értesítés kiállításának idõpontja: 2010.06.24.<ujsor/>
-A végrehajtás megszüntetésérõl szóló értesítés kiállításának idõpontja: 2011.01.04.<ujsor/>
-a cég vagyonára foganasított végrehajtás ( VH lap)<ujsor/>
-Vált. vége: 2011.01.04.<ujsor/>
-Törölve (végzés kelte): 2011. február 24.<ujsor/>
-A végrehajtás elrendelésének idõpontja: 2011.01.04.<ujsor/>
-A végrehajtás megszüntetésének idõpontja: 2011.01.04.<ujsor/>
-A végrehajtás ügyszáma: 0100-1.Vh.500.343/2010/8<ujsor/>
-A végrehajtást elrendelõ bíróság: Fõvárosi Bíróság.<ujsor/>
-A végrehajtás megkezdésérõl szóló értesítés kiállításának idõpontja: 2011.01.04.<ujsor/>
-A végrehajtás megszüntetésérõl szóló értesítés kiállításának idõpontja: 2011.01.04.<ujsor/>
-Vált. vége: 2011.01.04.<ujsor/>
-Törölve (végzés kelte): 2011. február 24.<ujsor/>
-A végzés ellen nincs helye fellebbezésnek.<ujsor/>
-2011. február 24.<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.01-09-868030 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett TRANS HOLDING PLUSZ SzolgÃ¡ltatÃ³ Ã©s MÅ±szaki SzakÃ©rtÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (1205 Budapest, Kossuth L. u 190.; adÃ³szÃ¡ma: 13687654-2-43) Ã¼gyÃ©ben az 2011. januÃ¡r 27. napjÃ¡n hozott Cg.01-09-868030/26. szÃ¡mÃº vÃ©gzÃ©sÃ©t hivatalbÃ³l kijavÃ­tani rendeli az alÃ¡bbiak szerint:<ujsor/>
+33. A cÃ©g elleni vÃ©grehajtÃ¡s adatai<ujsor/>
+A vÃ©grehajtÃ¡s elrendelÃ©sÃ©nek idÅ‘pontja: 2010.06.24.<ujsor/>
+A vÃ©grehajtÃ¡s megszÃ¼ntetÃ©sÃ©nek idÅ‘pontja: 2011.01.04.<ujsor/>
+A vÃ©grehajtÃ¡s Ã¼gyszÃ¡ma: 0100-1Vh.500.343/2010/3.<ujsor/>
+A vÃ©grehajtÃ¡st elrendelÅ‘ bÃ­rÃ³sÃ¡g: FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g.<ujsor/>
+A vÃ©grehajtÃ¡s megkezdÃ©sÃ©rÅ‘l szÃ³lÃ³ Ã©rtesÃ­tÃ©s kiÃ¡llÃ­tÃ¡sÃ¡nak idÅ‘pontja: 2010.06.24.<ujsor/>
+A vÃ©grehajtÃ¡s megszÃ¼ntetÃ©sÃ©rÅ‘l szÃ³lÃ³ Ã©rtesÃ­tÃ©s kiÃ¡llÃ­tÃ¡sÃ¡nak idÅ‘pontja: 2011.01.04.<ujsor/>
+a cÃ©g vagyonÃ¡ra foganasÃ­tott vÃ©grehajtÃ¡s ( VH lap)<ujsor/>
+VÃ¡lt. vÃ©ge: 2011.01.04.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2011. februÃ¡r 24.<ujsor/>
+A vÃ©grehajtÃ¡s elrendelÃ©sÃ©nek idÅ‘pontja: 2011.01.04.<ujsor/>
+A vÃ©grehajtÃ¡s megszÃ¼ntetÃ©sÃ©nek idÅ‘pontja: 2011.01.04.<ujsor/>
+A vÃ©grehajtÃ¡s Ã¼gyszÃ¡ma: 0100-1.Vh.500.343/2010/8<ujsor/>
+A vÃ©grehajtÃ¡st elrendelÅ‘ bÃ­rÃ³sÃ¡g: FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g.<ujsor/>
+A vÃ©grehajtÃ¡s megkezdÃ©sÃ©rÅ‘l szÃ³lÃ³ Ã©rtesÃ­tÃ©s kiÃ¡llÃ­tÃ¡sÃ¡nak idÅ‘pontja: 2011.01.04.<ujsor/>
+A vÃ©grehajtÃ¡s megszÃ¼ntetÃ©sÃ©rÅ‘l szÃ³lÃ³ Ã©rtesÃ­tÃ©s kiÃ¡llÃ­tÃ¡sÃ¡nak idÅ‘pontja: 2011.01.04.<ujsor/>
+VÃ¡lt. vÃ©ge: 2011.01.04.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2011. februÃ¡r 24.<ujsor/>
+A vÃ©gzÃ©s ellen nincs helye fellebbezÃ©snek.<ujsor/>
+2011. februÃ¡r 24.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109868030</mezo>
-<mezo id = "nev">TRANS HOLDING PLUSZ Szolgáltató és Mûszaki Szakértõ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">TRANS HOLDING PLUSZ SzolgÃ¡ltatÃ³ Ã©s MÅ±szaki SzakÃ©rtÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1205 Budapest, Kossuth L. u 190.</mezo>
 <mezo id = "adosz">13687654243</mezo>
 </alrovat>

@@ -5,7 +5,7 @@
 <mezo id = "cf">06</mezo>
 <mezo id = "szam">014440</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">6922 Földeák, Somogyi Béla u. 18. </mezo>
+<mezo id = "cim">6922 FÃ¶ldeÃ¡k, Somogyi BÃ©la u. 18. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">21936214206</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20040406</mezo>
-<mezo id = "nev">HOVEFA Kereskedelmi és Szolgáltató Betéti Társaság</mezo>
+<mezo id = "nev">HOVEFA Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ BetÃ©ti TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -26,8 +26,8 @@
 <alrovat id = "2">
 <mezo id = "hattol">20071015</mezo>
 <mezo id = "irsz">6922</mezo>
-<mezo id = "hely">Földeák</mezo>
-<mezo id = "teru">Somogyi Béla u. 18.</mezo>
+<mezo id = "hely">FÃ¶ldeÃ¡k</mezo>
+<mezo id = "teru">Somogyi BÃ©la u. 18.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">20071015</mezo>
 <mezo id = "valtv">0</mezo>
@@ -39,7 +39,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20061108</mezo>
 <mezo id = "irsz">6900</mezo>
-<mezo id = "hely">Makó, Csanád vezér tér 16.</mezo>
+<mezo id = "hely">MakÃ³, CsanÃ¡d vezÃ©r tÃ©r 16.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20061001</mezo>
 <mezo id = "valtv">0</mezo>
@@ -243,115 +243,115 @@
 <mezo id = "hattol">20101012</mezo>
 <mezo id = "valtk">20101012</mezo>
 <mezo id = "bkelt">20101015</mezo>
-<mezo id = "teaszov">Lakó- és nem lakó épület építése</mezo>
+<mezo id = "teaszov">LakÃ³- Ã©s nem lakÃ³ Ã©pÃ¼let Ã©pÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "36">
 <mezo id = "hattol">20101012</mezo>
 <mezo id = "valtk">20101012</mezo>
 <mezo id = "bkelt">20101015</mezo>
-<mezo id = "teaszov">Villanyszerelés</mezo>
+<mezo id = "teaszov">VillanyszerelÃ©s</mezo>
 </alrovat>
 <alrovat id = "37">
 <mezo id = "hattol">20101012</mezo>
 <mezo id = "valtk">20101012</mezo>
 <mezo id = "bkelt">20101015</mezo>
-<mezo id = "teaszov">Víz-, gáz-, fûtés-, légkondicionáló-szerelés</mezo>
+<mezo id = "teaszov">VÃ­z-, gÃ¡z-, fÅ±tÃ©s-, lÃ©gkondicionÃ¡lÃ³-szerelÃ©s</mezo>
 </alrovat>
 <alrovat id = "38">
 <mezo id = "hattol">20101012</mezo>
 <mezo id = "valtk">20101012</mezo>
 <mezo id = "bkelt">20101015</mezo>
-<mezo id = "teaszov">Vakolás</mezo>
+<mezo id = "teaszov">VakolÃ¡s</mezo>
 </alrovat>
 <alrovat id = "39">
 <mezo id = "hattol">20101012</mezo>
 <mezo id = "valtk">20101012</mezo>
 <mezo id = "bkelt">20101015</mezo>
-<mezo id = "teaszov">Padló-, falburkolás</mezo>
+<mezo id = "teaszov">PadlÃ³-, falburkolÃ¡s</mezo>
 </alrovat>
 <alrovat id = "40">
 <mezo id = "hattol">20101012</mezo>
 <mezo id = "valtk">20101012</mezo>
 <mezo id = "bkelt">20101015</mezo>
-<mezo id = "teaszov">Festés, üvegezés</mezo>
+<mezo id = "teaszov">FestÃ©s, Ã¼vegezÃ©s</mezo>
 </alrovat>
 <alrovat id = "41">
 <mezo id = "hattol">20101012</mezo>
 <mezo id = "valtk">20101012</mezo>
 <mezo id = "bkelt">20101015</mezo>
-<mezo id = "teaszov">Tetõfedés, tetõszerkezet-építés</mezo>
+<mezo id = "teaszov">TetÅ‘fedÃ©s, tetÅ‘szerkezet-Ã©pÃ­tÃ©s</mezo>
 </alrovat>
 <alrovat id = "42">
 <mezo id = "hattol">20101012</mezo>
 <mezo id = "valtk">20101012</mezo>
 <mezo id = "bkelt">20101015</mezo>
-<mezo id = "teaszov">Egyéb speciális szaképítés m.n.s.</mezo>
+<mezo id = "teaszov">EgyÃ©b speciÃ¡lis szakÃ©pÃ­tÃ©s m.n.s.</mezo>
 </alrovat>
 <alrovat id = "43">
 <mezo id = "hattol">20101012</mezo>
 <mezo id = "valtk">20101012</mezo>
 <mezo id = "bkelt">20101015</mezo>
-<mezo id = "teaszov">Egyéb irodagép, -berendezés nagykereskedelme</mezo>
+<mezo id = "teaszov">EgyÃ©b irodagÃ©p, -berendezÃ©s nagykereskedelme</mezo>
 </alrovat>
 <alrovat id = "44">
 <mezo id = "hattol">20101012</mezo>
 <mezo id = "valtk">20101012</mezo>
 <mezo id = "bkelt">20101015</mezo>
-<mezo id = "teaszov">Takaró, szõnyeg, fal-, padlóburkoló kiskereskedelme</mezo>
+<mezo id = "teaszov">TakarÃ³, szÅ‘nyeg, fal-, padlÃ³burkolÃ³ kiskereskedelme</mezo>
 </alrovat>
 <alrovat id = "45">
 <mezo id = "hattol">20101012</mezo>
 <mezo id = "valtk">20101012</mezo>
 <mezo id = "bkelt">20101015</mezo>
-<mezo id = "teaszov">Villamos háztartási készülék kiskereskedelme</mezo>
+<mezo id = "teaszov">Villamos hÃ¡ztartÃ¡si kÃ©szÃ¼lÃ©k kiskereskedelme</mezo>
 </alrovat>
 <alrovat id = "46">
 <mezo id = "hattol">20101012</mezo>
 <mezo id = "valtk">20101012</mezo>
 <mezo id = "bkelt">20101015</mezo>
-<mezo id = "teaszov">Bútor, világítási eszköz, egyéb háztartási cikk kiskereskedelme</mezo>
+<mezo id = "teaszov">BÃºtor, vilÃ¡gÃ­tÃ¡si eszkÃ¶z, egyÃ©b hÃ¡ztartÃ¡si cikk kiskereskedelme</mezo>
 </alrovat>
 <alrovat id = "47">
 <mezo id = "hattol">20101012</mezo>
 <mezo id = "valtk">20101012</mezo>
 <mezo id = "bkelt">20101015</mezo>
-<mezo id = "teaszov">Dísznövény, vetõmag, mûtrágya, hobbiállat-eledel kiskereskedelme</mezo>
+<mezo id = "teaszov">DÃ­sznÃ¶vÃ©ny, vetÅ‘mag, mÅ±trÃ¡gya, hobbiÃ¡llat-eledel kiskereskedelme</mezo>
 </alrovat>
 <alrovat id = "48">
 <mezo id = "hattol">20101012</mezo>
 <mezo id = "valtk">20101012</mezo>
 <mezo id = "bkelt">20101015</mezo>
-<mezo id = "teaszov">Egyéb m.n.s. új áru kiskereskedelme</mezo>
+<mezo id = "teaszov">EgyÃ©b m.n.s. Ãºj Ã¡ru kiskereskedelme</mezo>
 </alrovat>
 <alrovat id = "49">
 <mezo id = "hattol">20101012</mezo>
 <mezo id = "valtk">20101012</mezo>
 <mezo id = "bkelt">20101015</mezo>
-<mezo id = "teaszov">Egyéb pénzügyi kiegészítõ tevékenység</mezo>
+<mezo id = "teaszov">EgyÃ©b pÃ©nzÃ¼gyi kiegÃ©szÃ­tÅ‘ tevÃ©kenysÃ©g</mezo>
 </alrovat>
 <alrovat id = "50">
 <mezo id = "hattol">20101012</mezo>
 <mezo id = "valtk">20101012</mezo>
 <mezo id = "bkelt">20101015</mezo>
-<mezo id = "teaszov">Általános épülettakarítás</mezo>
+<mezo id = "teaszov">ÃltalÃ¡nos Ã©pÃ¼lettakarÃ­tÃ¡s</mezo>
 </alrovat>
 <alrovat id = "51">
 <mezo id = "hattol">20101012</mezo>
 <mezo id = "valtk">20101012</mezo>
 <mezo id = "bkelt">20101015</mezo>
-<mezo id = "teaszov">Egyéb épület-, ipari takarítás</mezo>
+<mezo id = "teaszov">EgyÃ©b Ã©pÃ¼let-, ipari takarÃ­tÃ¡s</mezo>
 </alrovat>
 <alrovat id = "52">
 <mezo id = "hattol">20101012</mezo>
 <mezo id = "valtk">20101012</mezo>
 <mezo id = "bkelt">20101015</mezo>
-<mezo id = "teaszov">Egyéb takarítás</mezo>
+<mezo id = "teaszov">EgyÃ©b takarÃ­tÃ¡s</mezo>
 </alrovat>
 <alrovat id = "53">
 <mezo id = "hattol">20101012</mezo>
 <mezo id = "valtk">20101012</mezo>
 <mezo id = "bkelt">20101015</mezo>
-<mezo id = "teaszov">M.n.s. egyéb kiegészítõ üzleti szolgáltatás</mezo>
+<mezo id = "teaszov">M.n.s. egyÃ©b kiegÃ©szÃ­tÅ‘ Ã¼zleti szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "54">
 <mezo id = "hattol">20110520</mezo>
@@ -363,13 +363,13 @@
 <mezo id = "hattol">20110520</mezo>
 <mezo id = "valtk">20110520</mezo>
 <mezo id = "bkelt">20110523</mezo>
-<mezo id = "teaszov">Ruházat kiskereskedelem</mezo>
+<mezo id = "teaszov">RuhÃ¡zat kiskereskedelem</mezo>
 </alrovat>
 <alrovat id = "56">
 <mezo id = "hattol">20110520</mezo>
 <mezo id = "valtk">20110520</mezo>
 <mezo id = "bkelt">20110523</mezo>
-<mezo id = "teaszov">Lábbeli-, bõráru-kiskereskedelem</mezo>
+<mezo id = "teaszov">LÃ¡bbeli-, bÅ‘rÃ¡ru-kiskereskedelem</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -384,12 +384,12 @@
 <rovat id = "13">
 <alrovat id = "3">
 <mezo id = "hattol">20110520</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (üzletvezetésre jogosult tag)</mezo>
-<mezo id = "pnev">Horváth János</mezo>
-<mezo id = "panev">Ménesi Irén</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼zletvezetÃ©sre jogosult tag)</mezo>
+<mezo id = "pnev">HorvÃ¡th JÃ¡nos</mezo>
+<mezo id = "panev">MÃ©nesi IrÃ©n</mezo>
 <mezo id = "pirsz">6922</mezo>
-<mezo id = "phely">Földeák</mezo>
-<mezo id = "pteru">Somogyi Béla u. 18.</mezo>
+<mezo id = "phely">FÃ¶ldeÃ¡k</mezo>
+<mezo id = "pteru">Somogyi BÃ©la u. 18.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20040319</mezo>
 <mezo id = "valtk">20110520</mezo>
@@ -408,17 +408,17 @@
 <mezo id = "adosz">21936214206</mezo>
 <mezo id = "kadosz">HU21936214</mezo>
 <mezo id = "bkelt">20110715</mezo>
-<mezo id = "megj">Státusz kezdete: 2004/03/25</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 2004/03/25</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0106">
 <alrovat id = "2">
 <mezo id = "hattol">20110520</mezo>
-<mezo id = "pnev">Horváth János</mezo>
-<mezo id = "panev">Ménesi Irén</mezo>
+<mezo id = "pnev">HorvÃ¡th JÃ¡nos</mezo>
+<mezo id = "panev">MÃ©nesi IrÃ©n</mezo>
 <mezo id = "pirsz">6922</mezo>
-<mezo id = "phely">Földeák</mezo>
-<mezo id = "pteru">Somogyi Béla u. 18.</mezo>
+<mezo id = "phely">FÃ¶ldeÃ¡k</mezo>
+<mezo id = "pteru">Somogyi BÃ©la u. 18.</mezo>
 <mezo id = "tagsk">20040319</mezo>
 <mezo id = "valtk">20110520</mezo>
 <mezo id = "bkelt">20110523</mezo>
@@ -427,11 +427,11 @@
 <rovat id = "0206">
 <alrovat id = "3">
 <mezo id = "hattol">20110520</mezo>
-<mezo id = "pnev">Horváthné Venczel Brigitta</mezo>
-<mezo id = "panev">Horváth Erzsébet Edit</mezo>
+<mezo id = "pnev">HorvÃ¡thnÃ© Venczel Brigitta</mezo>
+<mezo id = "panev">HorvÃ¡th ErzsÃ©bet Edit</mezo>
 <mezo id = "pirsz">6922</mezo>
-<mezo id = "phely">Földeák</mezo>
-<mezo id = "pteru">Somogyi Béla u. 18.</mezo>
+<mezo id = "phely">FÃ¶ldeÃ¡k</mezo>
+<mezo id = "pteru">Somogyi BÃ©la u. 18.</mezo>
 <mezo id = "tagsk">20040319</mezo>
 <mezo id = "valtk">20110520</mezo>
 <mezo id = "bkelt">20110523</mezo>
@@ -446,26 +446,26 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Csongrád Megyei Bíróság mint Cégbíróság a Cg.06-06-014440 cégjegyzékszámon bejegyzett HOVEFA Kereskedelmi és Szolgáltató Betéti Társaság (6922 Földeák, Somogyi Béla u 18.; adószáma: 21936214-2-06) ügyében az 2011. május 23. napján hozott Cg.06-06-014440/19. számú végzését hivatalból kiegészíteni rendeli az alábbiak szerint:<ujsor/>
-13. A képviseletre jogosult(ak) adatai<ujsor/>
-A képviselet módja: önálló.<ujsor/>
-Adóazonosító jel: 8390752905<ujsor/>
-Horváth János vezetõ tisztségviselõ (üzletvezetésre jogosult tag) (an.: Ménesi Irén)<ujsor/>
-6922 Földeák, Mártírok útja 6.<ujsor/>
+<mezo id = "szoveg">A CsongrÃ¡d Megyei BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.06-06-014440 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett HOVEFA Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ BetÃ©ti TÃ¡rsasÃ¡g (6922 FÃ¶ldeÃ¡k, Somogyi BÃ©la u 18.; adÃ³szÃ¡ma: 21936214-2-06) Ã¼gyÃ©ben az 2011. mÃ¡jus 23. napjÃ¡n hozott Cg.06-06-014440/19. szÃ¡mÃº vÃ©gzÃ©sÃ©t hivatalbÃ³l kiegÃ©szÃ­teni rendeli az alÃ¡bbiak szerint:<ujsor/>
+13. A kÃ©pviseletre jogosult(ak) adatai<ujsor/>
+A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+AdÃ³azonosÃ­tÃ³ jel: 8390752905<ujsor/>
+HorvÃ¡th JÃ¡nos vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼zletvezetÃ©sre jogosult tag) (an.: MÃ©nesi IrÃ©n)<ujsor/>
+6922 FÃ¶ldeÃ¡k, MÃ¡rtÃ­rok Ãºtja 6.<ujsor/>
 Jogv. kezdete: 2004.03.19.<ujsor/>
-Vált. vége: 2011.05.20.<ujsor/>
-Törölve (végzés kelte): 2011. június 20.<ujsor/>
+VÃ¡lt. vÃ©ge: 2011.05.20.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2011. jÃºnius 20.<ujsor/>
 1(06) A beltag(ok) adatai<ujsor/>
-Horváth János (an.: Ménesi Irén)<ujsor/>
-6922 Földeák, Mártírok u 6.<ujsor/>
-Vált. vége: 2011.05.20.<ujsor/>
-Törölve (végzés kelte): 2011. június 20.<ujsor/>
-A végzés ellen a kézbesítéstõl számított 15 (tizenöt) napon belül a Szegedi Ítélõtáblához címzett, de a Csongrád Megyei Bíróságnál, mint Cégbíróságnál 3 (három) példányban benyújtható fellebbezésnek van helye. A fellebbezés elsõ példányára 7.000.-Ft (hétezer forint) eljárási illetéket kell leróni. A Szegedi Ítélõtábla elõtti eljárásban a fellebbezõ fél részére a jogi képviselet kötelezõ.<ujsor/>
-2011. június 20.<ujsor/>
+HorvÃ¡th JÃ¡nos (an.: MÃ©nesi IrÃ©n)<ujsor/>
+6922 FÃ¶ldeÃ¡k, MÃ¡rtÃ­rok u 6.<ujsor/>
+VÃ¡lt. vÃ©ge: 2011.05.20.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2011. jÃºnius 20.<ujsor/>
+A vÃ©gzÃ©s ellen a kÃ©zbesÃ­tÃ©stÅ‘l szÃ¡mÃ­tott 15 (tizenÃ¶t) napon belÃ¼l a Szegedi ÃtÃ©lÅ‘tÃ¡blÃ¡hoz cÃ­mzett, de a CsongrÃ¡d Megyei BÃ­rÃ³sÃ¡gnÃ¡l, mint CÃ©gbÃ­rÃ³sÃ¡gnÃ¡l 3 (hÃ¡rom) pÃ©ldÃ¡nyban benyÃºjthatÃ³ fellebbezÃ©snek van helye. A fellebbezÃ©s elsÅ‘ pÃ©ldÃ¡nyÃ¡ra 7.000.-Ft (hÃ©tezer forint) eljÃ¡rÃ¡si illetÃ©ket kell lerÃ³ni. A Szegedi ÃtÃ©lÅ‘tÃ¡bla elÅ‘tti eljÃ¡rÃ¡sban a fellebbezÅ‘ fÃ©l rÃ©szÃ©re a jogi kÃ©pviselet kÃ¶telezÅ‘.<ujsor/>
+2011. jÃºnius 20.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0606014440</mezo>
-<mezo id = "nev">HOVEFA Kereskedelmi és Szolgáltató Betéti Társaság</mezo>
-<mezo id = "cim">6922 Földeák, Somogyi Béla u 18.</mezo>
+<mezo id = "nev">HOVEFA Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ BetÃ©ti TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">6922 FÃ¶ldeÃ¡k, Somogyi BÃ©la u 18.</mezo>
 <mezo id = "adosz">21936214206</mezo>
 </alrovat>
 </rovat>

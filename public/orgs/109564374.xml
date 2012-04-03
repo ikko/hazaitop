@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">564374</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">1074 Budapest, Rákóczi út 70. </mezo>
+<mezo id = "cim">1074 Budapest, RÃ¡kÃ³czi Ãºt 70. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">12195213242</mezo>
 </alrovat>
@@ -13,13 +13,13 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19961113</mezo>
-<mezo id = "nev">LE CHÉQUE DÉJEUNER Étkezési Utalvány Gyártó és Forgalmazó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">LE CHÃ‰QUE DÃ‰JEUNER Ã‰tkezÃ©si UtalvÃ¡ny GyÃ¡rtÃ³ Ã©s ForgalmazÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">19961113</mezo>
-<mezo id = "nev">LE CHÉQUE DÉJEUNER Kft.</mezo>
+<mezo id = "nev">LE CHÃ‰QUE DÃ‰JEUNER Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
@@ -27,7 +27,7 @@
 <mezo id = "hattol">20040802</mezo>
 <mezo id = "irsz">1074</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Rákóczi út 70.</mezo>
+<mezo id = "teru">RÃ¡kÃ³czi Ãºt 70.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "8">
@@ -248,7 +248,7 @@
 <rovat id = "13">
 <alrovat id = "14">
 <mezo id = "hattol">20050725</mezo>
-<mezo id = "pnev">Czafitné Póka Edit</mezo>
+<mezo id = "pnev">CzafitnÃ© PÃ³ka Edit</mezo>
 <mezo id = "panev">Czibula Edit</mezo>
 <mezo id = "pirsz">2144</mezo>
 <mezo id = "phely">Kerepestarcsa, Csillag u. 7.</mezo>
@@ -258,8 +258,8 @@
 </alrovat>
 <alrovat id = "26">
 <mezo id = "hattol">20091102</mezo>
-<mezo id = "tiszt">cégvezetõ</mezo>
-<mezo id = "pnev">Nagy Márta</mezo>
+<mezo id = "tiszt">cÃ©gvezetÅ‘</mezo>
+<mezo id = "pnev">Nagy MÃ¡rta</mezo>
 <mezo id = "panev">Hatt Gabriella</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20080326</mezo>
@@ -270,9 +270,9 @@
 </alrovat>
 <alrovat id = "27">
 <mezo id = "hattol">20091102</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Dér Benedek</mezo>
-<mezo id = "panev">Szabó Aranka</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">DÃ©r Benedek</mezo>
+<mezo id = "panev">SzabÃ³ Aranka</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20060928</mezo>
 <mezo id = "valtk">20091102</mezo>
@@ -281,26 +281,26 @@
 </alrovat>
 <alrovat id = "29">
 <mezo id = "hattol">20100218</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Vastagh László</mezo>
-<mezo id = "panev">Majnik Ágnes</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Vastagh LÃ¡szlÃ³</mezo>
+<mezo id = "panev">Majnik Ãgnes</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20100218</mezo>
 <mezo id = "mindig">x</mezo>
-<mezo id = "mnev">Dér Benedek</mezo>
+<mezo id = "mnev">DÃ©r Benedek</mezo>
 <mezo id = "valtk">20100218</mezo>
 <mezo id = "bkelt">20100401</mezo>
 <mezo id = "adoazon">8403772750</mezo>
 </alrovat>
 <alrovat id = "30">
 <mezo id = "hattol">20110328</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "pnev">Yvon Legrand</mezo>
 <mezo id = "panev">Henriette Reibel</mezo>
 <mezo id = "pkorsz">FR</mezo>
 <mezo id = "pkirsz">92230</mezo>
 <mezo id = "pkhely">Gennevilliers</mezo>
-<mezo id = "pkteru">allé des Pierres Mayettes-Prac des Barbanniers 1.</mezo>
+<mezo id = "pkteru">allÃ© des Pierres Mayettes-Prac des Barbanniers 1.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20110328</mezo>
 <mezo id = "jogvv">20160328</mezo>
@@ -317,12 +317,12 @@
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1074</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Rákóczi út 70-72.</mezo>
-<mezo id = "pnev">Bohus Zoltánné</mezo>
-<mezo id = "panev">Vörös Mária</mezo>
+<mezo id = "teru">RÃ¡kÃ³czi Ãºt 70-72.</mezo>
+<mezo id = "pnev">Bohus ZoltÃ¡nnÃ©</mezo>
+<mezo id = "panev">VÃ¶rÃ¶s MÃ¡ria</mezo>
 <mezo id = "pirsz">1149</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Kövér Lajos utca 45-47.</mezo>
+<mezo id = "pteru">KÃ¶vÃ©r Lajos utca 45-47.</mezo>
 <mezo id = "jogvk">20110328</mezo>
 <mezo id = "jogvv">20120531</mezo>
 <mezo id = "valtk">20110328</mezo>
@@ -358,7 +358,7 @@
 <mezo id = "orsz">FR</mezo>
 <mezo id = "irsz">92230</mezo>
 <mezo id = "hely">Gennevilliers</mezo>
-<mezo id = "teru">allée des Pierres Mayettes</mezo>
+<mezo id = "teru">allÃ©e des Pierres Mayettes</mezo>
 <mezo id = "tagsk">20100630</mezo>
 <mezo id = "valtk">20100630</mezo>
 <mezo id = "knyh">R.C.S. Nanterre</mezo>
@@ -374,24 +374,24 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2005. 08. 16-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. A képviselet módja: együttes.<ujsor/>
- Tisztsége: más munkavállaló.<ujsor/>
- Czafitné Póka Edit (an: Czibula Edit)<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2005. 08. 16-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: mÃ¡s munkavÃ¡llalÃ³.<ujsor/>
+ CzafitnÃ© PÃ³ka Edit (an: Czibula Edit)<ujsor/>
 2144 Kerepestarcsa, Csillag u. 7.<ujsor/>
  A jogviszony kezdete: 1998. 11. 02.<ujsor/>
- Törölve: 2005. 07. 25-i hatállyal.<ujsor/>
- A képviselet módja: együttes.<ujsor/>
- Tisztsége: más munkavállaló.<ujsor/>
- Czafitné Póka Edit (an: Czibula Edit)<ujsor/>
+ TÃ¶rÃ¶lve: 2005. 07. 25-i hatÃ¡llyal.<ujsor/>
+ A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: mÃ¡s munkavÃ¡llalÃ³.<ujsor/>
+ CzafitnÃ© PÃ³ka Edit (an: Czibula Edit)<ujsor/>
 2144 Kerepes, Csillag utca 7.<ujsor/>
  A jogviszony kezdete: 1998. 11. 02.<ujsor/>
- Hatályos: 2005. 07. 25-tõl.<ujsor/>
+ HatÃ¡lyos: 2005. 07. 25-tÅ‘l.<ujsor/>
 Bejegyezve: 2005. 09. 12.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109564374</mezo>
-<mezo id = "nev">LE CHÉQUE DÉJEUNER Étkezési Utalvány Gyártó és Forgalmazó Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1074 Budapest, Rákóczi út 70.</mezo>
+<mezo id = "nev">LE CHÃ‰QUE DÃ‰JEUNER Ã‰tkezÃ©si UtalvÃ¡ny GyÃ¡rtÃ³ Ã©s ForgalmazÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1074 Budapest, RÃ¡kÃ³czi Ãºt 70.</mezo>
 <mezo id = "adosz">12195213242</mezo>
 </alrovat>
 </rovat>

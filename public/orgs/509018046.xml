@@ -6,7 +6,7 @@
 <mezo id = "szam">018046</mezo>
 <mezo id = "nevalrovat">1</mezo>
 <mezo id = "regi_szh">1009027350</mezo>
-<mezo id = "cim">3400 Mezõkövesd, József A u. 3. </mezo>
+<mezo id = "cim">3400 MezÅ‘kÃ¶vesd, JÃ³zsef A u. 3. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">11077585105</mezo>
 </alrovat>
@@ -14,7 +14,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19941127</mezo>
-<mezo id = "nev">OXYTRANS EGÉSZSÉGÜGYI SZOLGÁLTATÓ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">OXYTRANS EGÃ‰SZSÃ‰GÃœGYI SZOLGÃLTATÃ“ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -27,8 +27,8 @@
 <alrovat id = "7">
 <mezo id = "hattol">20090617</mezo>
 <mezo id = "irsz">3400</mezo>
-<mezo id = "hely">Mezõkövesd</mezo>
-<mezo id = "teru">József A u. 3.</mezo>
+<mezo id = "hely">MezÅ‘kÃ¶vesd</mezo>
+<mezo id = "teru">JÃ³zsef A u. 3.</mezo>
 <mezo id = "valtk">20090617</mezo>
 <mezo id = "bkelt">20090803</mezo>
 </alrovat>
@@ -37,8 +37,8 @@
 <alrovat id = "2">
 <mezo id = "hattol">20090617</mezo>
 <mezo id = "irsz">3400</mezo>
-<mezo id = "hely">Mezõkövesd</mezo>
-<mezo id = "teru">Zsóry Gyógy- és Strandfürdõ 7172/3.hrsz.</mezo>
+<mezo id = "hely">MezÅ‘kÃ¶vesd</mezo>
+<mezo id = "teru">ZsÃ³ry GyÃ³gy- Ã©s StrandfÃ¼rdÅ‘ 7172/3.hrsz.</mezo>
 <mezo id = "valtk">20090617</mezo>
 <mezo id = "bkelt">20090803</mezo>
 </alrovat>
@@ -47,7 +47,7 @@
 <alrovat id = "5">
 <mezo id = "hattol">20081212</mezo>
 <mezo id = "irsz">9330</mezo>
-<mezo id = "hely">Kapuvár, Lumniczer S. út 10. sz.</mezo>
+<mezo id = "hely">KapuvÃ¡r, Lumniczer S. Ãºt 10. sz.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20081212</mezo>
 <mezo id = "valtv">0</mezo>
@@ -58,7 +58,7 @@
 <mezo id = "hattol">20110713</mezo>
 <mezo id = "irsz">3910</mezo>
 <mezo id = "hely">Tokaj</mezo>
-<mezo id = "teru">Bodrogkeresztúri út 1544/1. hrsz.</mezo>
+<mezo id = "teru">BodrogkeresztÃºri Ãºt 1544/1. hrsz.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20110713</mezo>
 <mezo id = "bkelt">20110718</mezo>
@@ -480,10 +480,10 @@
 <rovat id = "13">
 <alrovat id = "10">
 <mezo id = "hattol">20080826</mezo>
-<mezo id = "pnev">Ambrus Barnabás</mezo>
-<mezo id = "panev">Kovács Erika</mezo>
+<mezo id = "pnev">Ambrus BarnabÃ¡s</mezo>
+<mezo id = "panev">KovÃ¡cs Erika</mezo>
 <mezo id = "pirsz">3390</mezo>
-<mezo id = "phely">Füzesabony, Kossuth út 19.</mezo>
+<mezo id = "phely">FÃ¼zesabony, Kossuth Ãºt 19.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">d</mezo>
 <mezo id = "jogvk">20070119</mezo>
@@ -494,10 +494,10 @@
 </alrovat>
 <alrovat id = "11">
 <mezo id = "hattol">20080826</mezo>
-<mezo id = "pnev">dr. Gregorovics István</mezo>
-<mezo id = "panev">Riskó Natalija Ivanyivna</mezo>
+<mezo id = "pnev">dr. Gregorovics IstvÃ¡n</mezo>
+<mezo id = "panev">RiskÃ³ Natalija Ivanyivna</mezo>
 <mezo id = "pirsz">3324</mezo>
-<mezo id = "phely">Felsõtárkány, Virág út 22.</mezo>
+<mezo id = "phely">FelsÅ‘tÃ¡rkÃ¡ny, VirÃ¡g Ãºt 22.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">d</mezo>
 <mezo id = "jogvk">20070905</mezo>
@@ -522,16 +522,16 @@
 <alrovat id = "6">
 <mezo id = "adosz">11077585105</mezo>
 <mezo id = "bkelt">20110719</mezo>
-<mezo id = "megj">Státusz kezdete: 1994/11/27</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 1994/11/27</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0109">
 <alrovat id = "20">
 <mezo id = "hattol">20080826</mezo>
-<mezo id = "pnev">Ambrus Barnabás</mezo>
-<mezo id = "panev">Kovács Erika</mezo>
+<mezo id = "pnev">Ambrus BarnabÃ¡s</mezo>
+<mezo id = "panev">KovÃ¡cs Erika</mezo>
 <mezo id = "pirsz">3390</mezo>
-<mezo id = "phely">Füzesabony, Kossuth út 19.</mezo>
+<mezo id = "phely">FÃ¼zesabony, Kossuth Ãºt 19.</mezo>
 <mezo id = "tagsk">20070119</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20080826</mezo>
@@ -541,10 +541,10 @@
 </alrovat>
 <alrovat id = "21">
 <mezo id = "hattol">20080826</mezo>
-<mezo id = "pnev">dr. Gregorovics István</mezo>
-<mezo id = "panev">Riskó Natalija Ivanyivna</mezo>
+<mezo id = "pnev">dr. Gregorovics IstvÃ¡n</mezo>
+<mezo id = "panev">RiskÃ³ Natalija Ivanyivna</mezo>
 <mezo id = "pirsz">3324</mezo>
-<mezo id = "phely">Felsõtárkány, Virág út 22.</mezo>
+<mezo id = "phely">FelsÅ‘tÃ¡rkÃ¡ny, VirÃ¡g Ãºt 22.</mezo>
 <mezo id = "tagsk">20070905</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20080826</mezo>

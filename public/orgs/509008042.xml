@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">008042</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">3792 Sajóbábony, Gyártelep. </mezo>
+<mezo id = "cim">3792 SajÃ³bÃ¡bony, GyÃ¡rtelep. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">11953500205</mezo>
 </alrovat>
@@ -13,13 +13,13 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20000113</mezo>
-<mezo id = "nev">ÉMK Észak-Magyarországi Környezetvédelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Ã‰MK Ã‰szak-MagyarorszÃ¡gi KÃ¶rnyezetvÃ©delmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">20000113</mezo>
-<mezo id = "nev">ÉMK Kft.</mezo>
+<mezo id = "nev">Ã‰MK Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "4">
@@ -44,20 +44,20 @@
 <alrovat id = "2">
 <mezo id = "hattol">20011220</mezo>
 <mezo id = "irsz">3792</mezo>
-<mezo id = "hely">Sajóbábony</mezo>
-<mezo id = "teru">Gyártelep.</mezo>
+<mezo id = "hely">SajÃ³bÃ¡bony</mezo>
+<mezo id = "teru">GyÃ¡rtelep.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "6">
 <alrovat id = "1">
 <mezo id = "hattol">20011220</mezo>
 <mezo id = "irsz">3792</mezo>
-<mezo id = "hely">Sajóbábony, Gyártelep.</mezo>
+<mezo id = "hely">SajÃ³bÃ¡bony, GyÃ¡rtelep.</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20091110</mezo>
 <mezo id = "irsz">3792</mezo>
-<mezo id = "hely">Sajóbábony 024/96.</mezo>
+<mezo id = "hely">SajÃ³bÃ¡bony 024/96.</mezo>
 <mezo id = "valtk">20091110</mezo>
 <mezo id = "bkelt">20091215</mezo>
 </alrovat>
@@ -414,12 +414,12 @@
 <rovat id = "13">
 <alrovat id = "5">
 <mezo id = "hattol">20091110</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Csorba János</mezo>
-<mezo id = "panev">Tamási Ilona</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Csorba JÃ¡nos</mezo>
+<mezo id = "panev">TamÃ¡si Ilona</mezo>
 <mezo id = "pirsz">3508</mezo>
 <mezo id = "phely">Miskolc</mezo>
-<mezo id = "pteru">Sütõ János utca 43.</mezo>
+<mezo id = "pteru">SÃ¼tÅ‘ JÃ¡nos utca 43.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20070201</mezo>
 <mezo id = "valtk">20091110</mezo>
@@ -433,7 +433,7 @@
 <mezo id = "panev">Bak Ilona</mezo>
 <mezo id = "pirsz">3525</mezo>
 <mezo id = "phely">Miskolc</mezo>
-<mezo id = "pteru">Napfény utca 8.</mezo>
+<mezo id = "pteru">NapfÃ©ny utca 8.</mezo>
 <mezo id = "jogvk">20091110</mezo>
 <mezo id = "jogvv">20130201</mezo>
 <mezo id = "valtk">20091110</mezo>
@@ -444,7 +444,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20091110</mezo>
 <mezo id = "cgjsz">0509014314</mezo>
-<mezo id = "nev">KISÉGETÕ Kommunális és Környezetvédelmi Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">KISÃ‰GETÅ KommunÃ¡lis Ã©s KÃ¶rnyezetvÃ©delmi SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "atdat">20091221</mezo>
 <mezo id = "valtk">20091110</mezo>
 <mezo id = "bkelt">20091215</mezo>
@@ -475,7 +475,7 @@
 <rovat id = "0109">
 <alrovat id = "5">
 <mezo id = "hattol">20080319</mezo>
-<mezo id = "pnev">Kiss László</mezo>
+<mezo id = "pnev">Kiss LÃ¡szlÃ³</mezo>
 <mezo id = "panev">Majoros Katalin</mezo>
 <mezo id = "pirsz">3525</mezo>
 <mezo id = "phely">Miskolc, Estike u. 1.</mezo>
@@ -488,10 +488,10 @@
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20080319</mezo>
-<mezo id = "pnev">Szûcs János</mezo>
-<mezo id = "panev">Juhász Zsuzsanna</mezo>
+<mezo id = "pnev">SzÅ±cs JÃ¡nos</mezo>
+<mezo id = "panev">JuhÃ¡sz Zsuzsanna</mezo>
 <mezo id = "pirsz">3792</mezo>
-<mezo id = "phely">Sajóbábony, Erkel Ferenc u. 19.</mezo>
+<mezo id = "phely">SajÃ³bÃ¡bony, Erkel Ferenc u. 19.</mezo>
 <mezo id = "tagsk">20050620</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20080319</mezo>
@@ -501,10 +501,10 @@
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">20081211</mezo>
-<mezo id = "pnev">Lõrincz Mihály</mezo>
-<mezo id = "panev">Horváth Margit</mezo>
+<mezo id = "pnev">LÅ‘rincz MihÃ¡ly</mezo>
+<mezo id = "panev">HorvÃ¡th Margit</mezo>
 <mezo id = "pirsz">4700</mezo>
-<mezo id = "phely">Mátészalka, Hajdú utca 11. 3. em. 4.</mezo>
+<mezo id = "phely">MÃ¡tÃ©szalka, HajdÃº utca 11. 3. em. 4.</mezo>
 <mezo id = "tagsk">20081211</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20081211</mezo>
@@ -522,114 +522,114 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az ÉMK Észak-magyarországi Környezetvédelmi Korlátolt Felelõsségû Társaság (Cg.: [05 09 008042]; székhelye: 3792 Sajóbábony, Gyártelep; képviseli: Csorba János ügyvezetõ) a 2009. november 10-én megtartott taggyûlésen meghozott határozattal és a KISÉGETÕ Kommunális és Környezetvédelmi Szolgáltató Korlátolt Felelõsségû Társaság (Cg.: [05 09 014314]; székhelye: 3792 Sajóbábony, 024/96. hrsz.; képviseli: Csorba János ügyvezetõ) a szintén 2009. november 10-én meghozott alapítói határozattal (második döntések) elhatározta a társaságok<ujsor/>
-együléssel<ujsor/>
-(beolvadással) történõ átalakulását.<ujsor/>
-Az egyesülés akként történik, hogy a KISÉGETÕ Kft. beolvad az ÉMK Kft.-be.<ujsor/>
-A KISÉGETÕ Kft. mint beolvadó gazdasági társaság megszûnik és annak vagyona az ÉMK Kft.-re mint jogutódra száll át, amelynek társasági formája változatlan marad.<ujsor/>
-Az átvevõ (fennmaradó) gazdasági társaság fõbb adatai:<ujsor/>
-Formája: korlátolt felelõsségû társaság.<ujsor/>
-Neve: ÉMK Észak-magyarországi Környezetvédelmi Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhelye: 3792 Sajóbábony, Gyártelep.<ujsor/>
-Az egyesülési és a társasági szerzõdés megkötésének napja: 2009. november 10.<ujsor/>
-Vagyonmérleg-tervezetek (mérlegfordulónap 2009. szeptember 30.):<ujsor/>
+<mezo id = "szoveg">Az Ã‰MK Ã‰szak-magyarorszÃ¡gi KÃ¶rnyezetvÃ©delmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [05 09 008042]; szÃ©khelye: 3792 SajÃ³bÃ¡bony, GyÃ¡rtelep; kÃ©pviseli: Csorba JÃ¡nos Ã¼gyvezetÅ‘) a 2009. november 10-Ã©n megtartott taggyÅ±lÃ©sen meghozott hatÃ¡rozattal Ã©s a KISÃ‰GETÅ KommunÃ¡lis Ã©s KÃ¶rnyezetvÃ©delmi SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [05 09 014314]; szÃ©khelye: 3792 SajÃ³bÃ¡bony, 024/96. hrsz.; kÃ©pviseli: Csorba JÃ¡nos Ã¼gyvezetÅ‘) a szintÃ©n 2009. november 10-Ã©n meghozott alapÃ­tÃ³i hatÃ¡rozattal (mÃ¡sodik dÃ¶ntÃ©sek) elhatÃ¡rozta a tÃ¡rsasÃ¡gok<ujsor/>
+egyÃ¼lÃ©ssel<ujsor/>
+(beolvadÃ¡ssal) tÃ¶rtÃ©nÅ‘ Ã¡talakulÃ¡sÃ¡t.<ujsor/>
+Az egyesÃ¼lÃ©s akkÃ©nt tÃ¶rtÃ©nik, hogy a KISÃ‰GETÅ Kft. beolvad az Ã‰MK Kft.-be.<ujsor/>
+A KISÃ‰GETÅ Kft. mint beolvadÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g megszÅ±nik Ã©s annak vagyona az Ã‰MK Kft.-re mint jogutÃ³dra szÃ¡ll Ã¡t, amelynek tÃ¡rsasÃ¡gi formÃ¡ja vÃ¡ltozatlan marad.<ujsor/>
+Az Ã¡tvevÅ‘ (fennmaradÃ³) gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘bb adatai:<ujsor/>
+FormÃ¡ja: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+Neve: Ã‰MK Ã‰szak-magyarorszÃ¡gi KÃ¶rnyezetvÃ©delmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 3792 SajÃ³bÃ¡bony, GyÃ¡rtelep.<ujsor/>
+Az egyesÃ¼lÃ©si Ã©s a tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s megkÃ¶tÃ©sÃ©nek napja: 2009. november 10.<ujsor/>
+VagyonmÃ©rleg-tervezetek (mÃ©rlegfordulÃ³nap 2009. szeptember 30.):<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK (aktívák) Beolvadó cég Befogadó cég Tovább mûködõ<ujsor/>
-(záró) (záró) összevont (nyitó)<ujsor/>
-A) Befektetett eszközök 185 411 3 795 338 3 735 937<ujsor/>
-I. Immateriális javak 0 123 123<ujsor/>
-II. Tárgyi eszközök 185 411 3 276 971 3 462 382<ujsor/>
-III. Befektetett pénzügyi eszközök 518 244 273 432<ujsor/>
-B) Forgóeszközök 77 186 795 544 794 424<ujsor/>
-I. Készletek 0<ujsor/>
-II. Követelések 75 645 787 675 785 014<ujsor/>
-III. Értékpapírok 0<ujsor/>
-IV. Pénzeszközök 1 541 7 869 9 410<ujsor/>
-C) Aktív idõbeli elhatárolások 18 39 877 39 320<ujsor/>
-ÖSSZESEN: 262 615 4 630 759 4 569 681<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) BeolvadÃ³ cÃ©g BefogadÃ³ cÃ©g TovÃ¡bb mÅ±kÃ¶dÅ‘<ujsor/>
+(zÃ¡rÃ³) (zÃ¡rÃ³) Ã¶sszevont (nyitÃ³)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 185 411 3 795 338 3 735 937<ujsor/>
+I. ImmateriÃ¡lis javak 0 123 123<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 185 411 3 276 971 3 462 382<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 518 244 273 432<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 77 186 795 544 794 424<ujsor/>
+I. KÃ©szletek 0<ujsor/>
+II. KÃ¶vetelÃ©sek 75 645 787 675 785 014<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 1 541 7 869 9 410<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 18 39 877 39 320<ujsor/>
+Ã–SSZESEN: 262 615 4 630 759 4 569 681<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK (passzívák) Beolvadó cég Befogadó cég Tovább mûködõ<ujsor/>
-(záró) (záró) összevont (nyitó)<ujsor/>
-D) Saját tõke 92 245 1 136 316 983 750<ujsor/>
-I. Jegyzett tõke 52 31 10 600 10 600<ujsor/>
-II. Jegyzett, de még be nem fizetett tõke 0<ujsor/>
-III. Tõketartalék 2 000 2 000<ujsor/>
-IV. Eredménytartalék 37 935 1 125 716 971 150<ujsor/>
-V. Lekötött tartalék 0<ujsor/>
-VI. Értékelési tartalék 0<ujsor/>
-VII. Mérleg szerinti eredmény 0 0 0<ujsor/>
-E) Céltartalékok 0<ujsor/>
-F) Kötelezettségek 87 306 3 019 173 3 028 173<ujsor/>
-I. Hátra sorolt kötelezettségek 0<ujsor/>
-II. Hosszú lejáratú kötelezettségek 40 297 1 607 642 1 647 939<ujsor/>
-III. Rövid lejáratú kötelezettségek 47 009 1 411 531 1 380 234<ujsor/>
-G) Passzív idõbeli elhatárolások 83 064 475 270 557 759<ujsor/>
-ÖSSZESEN: 262 615 4 630 759 4 569 681<ujsor/>
-Fõ tevékenység: Veszélyes hulladék kezelése, ártalmatlanítása.<ujsor/>
-Az átvevõ társaság vezetõ tisztségviselõje: Csorba János ügyvezetõ (3508 Miskolc, Sütõ János u. 43.) önálló képviseleti és cégjegyzési joggal.<ujsor/>
-Az átvevõ társaság jegyzett tõkéje 10 600 000 Ft (tízmillió-hatszázezer forint).<ujsor/>
-A társaság felhívja azon hitelezõit, akiknek a társasággal szemben fennálló, le nem járt követelései az átalakulásról hozott döntés elsõ közzétételét megelõzõen keletkeztek, hogy a Gt. 76. § (2) bekezdése alapján a döntés második közzétételét követõ harmincnapos jogvesztõ határidõn belül biztosítékot követelhetnek.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+FORRÃSOK (passzÃ­vÃ¡k) BeolvadÃ³ cÃ©g BefogadÃ³ cÃ©g TovÃ¡bb mÅ±kÃ¶dÅ‘<ujsor/>
+(zÃ¡rÃ³) (zÃ¡rÃ³) Ã¶sszevont (nyitÃ³)<ujsor/>
+D) SajÃ¡t tÅ‘ke 92 245 1 136 316 983 750<ujsor/>
+I. Jegyzett tÅ‘ke 52 31 10 600 10 600<ujsor/>
+II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke 0<ujsor/>
+III. TÅ‘ketartalÃ©k 2 000 2 000<ujsor/>
+IV. EredmÃ©nytartalÃ©k 37 935 1 125 716 971 150<ujsor/>
+V. LekÃ¶tÃ¶tt tartalÃ©k 0<ujsor/>
+VI. Ã‰rtÃ©kelÃ©si tartalÃ©k 0<ujsor/>
+VII. MÃ©rleg szerinti eredmÃ©ny 0 0 0<ujsor/>
+E) CÃ©ltartalÃ©kok 0<ujsor/>
+F) KÃ¶telezettsÃ©gek 87 306 3 019 173 3 028 173<ujsor/>
+I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0<ujsor/>
+II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 40 297 1 607 642 1 647 939<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 47 009 1 411 531 1 380 234<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 83 064 475 270 557 759<ujsor/>
+Ã–SSZESEN: 262 615 4 630 759 4 569 681<ujsor/>
+FÅ‘ tevÃ©kenysÃ©g: VeszÃ©lyes hulladÃ©k kezelÃ©se, Ã¡rtalmatlanÃ­tÃ¡sa.<ujsor/>
+Az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘je: Csorba JÃ¡nos Ã¼gyvezetÅ‘ (3508 Miskolc, SÃ¼tÅ‘ JÃ¡nos u. 43.) Ã¶nÃ¡llÃ³ kÃ©pviseleti Ã©s cÃ©gjegyzÃ©si joggal.<ujsor/>
+Az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g jegyzett tÅ‘kÃ©je 10 600 000 Ft (tÃ­zmilliÃ³-hatszÃ¡zezer forint).<ujsor/>
+A tÃ¡rsasÃ¡g felhÃ­vja azon hitelezÅ‘it, akiknek a tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei az Ã¡talakulÃ¡srÃ³l hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, hogy a Gt. 76. Â§ (2) bekezdÃ©se alapjÃ¡n a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0509008042</mezo>
-<mezo id = "nev">ÉMK Észak-Magyarországi Környezetvédelmi Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">3792 Sajóbábony</mezo>
+<mezo id = "nev">Ã‰MK Ã‰szak-MagyarorszÃ¡gi KÃ¶rnyezetvÃ©delmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">3792 SajÃ³bÃ¡bony</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az ÉMK Észak-magyarországi Környezetvédelmi Korlátolt Felelõsségû Társaság (Cg.: [05 09 008042]; székhelye: 3792 Sajóbábony, Gyártelep; képviseli: Csorba János ügyvezetõ) a 2009. november 10-én megtartott taggyûlésen meghozott határozattal és a KISÉGETÕ Kommunális és Környezetvédelmi Szolgáltató Korlátolt Felelõsségû Társaság (Cg.: [05 09 014314]; székhelye: 3792 Sajóbábony, 024/96. hrsz.; képviseli: Csorba János ügyvezetõ) a szintén 2009. november 10-én meghozott alapítói határozattal (második döntések) elhatározta a társaságok<ujsor/>
-együléssel<ujsor/>
-(beolvadással) történõ átalakulását.<ujsor/>
-Az egyesülés akként történik, hogy a KISÉGETÕ Kft. beolvad az ÉMK Kft.-be.<ujsor/>
-A KISÉGETÕ Kft. mint beolvadó gazdasági társaság megszûnik és annak vagyona az ÉMK Kft.-re mint jogutódra száll át, amelynek társasági formája változatlan marad.<ujsor/>
-Az átvevõ (fennmaradó) gazdasági társaság fõbb adatai:<ujsor/>
-Formája: korlátolt felelõsségû társaság.<ujsor/>
-Neve: ÉMK Észak-magyarországi Környezetvédelmi Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhelye: 3792 Sajóbábony, Gyártelep.<ujsor/>
-Az egyesülési és a társasági szerzõdés megkötésének napja: 2009. november 10.<ujsor/>
-Vagyonmérleg-tervezetek (mérlegfordulónap 2009. szeptember 30.):<ujsor/>
+<mezo id = "szoveg">Az Ã‰MK Ã‰szak-magyarorszÃ¡gi KÃ¶rnyezetvÃ©delmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [05 09 008042]; szÃ©khelye: 3792 SajÃ³bÃ¡bony, GyÃ¡rtelep; kÃ©pviseli: Csorba JÃ¡nos Ã¼gyvezetÅ‘) a 2009. november 10-Ã©n megtartott taggyÅ±lÃ©sen meghozott hatÃ¡rozattal Ã©s a KISÃ‰GETÅ KommunÃ¡lis Ã©s KÃ¶rnyezetvÃ©delmi SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [05 09 014314]; szÃ©khelye: 3792 SajÃ³bÃ¡bony, 024/96. hrsz.; kÃ©pviseli: Csorba JÃ¡nos Ã¼gyvezetÅ‘) a szintÃ©n 2009. november 10-Ã©n meghozott alapÃ­tÃ³i hatÃ¡rozattal (mÃ¡sodik dÃ¶ntÃ©sek) elhatÃ¡rozta a tÃ¡rsasÃ¡gok<ujsor/>
+egyÃ¼lÃ©ssel<ujsor/>
+(beolvadÃ¡ssal) tÃ¶rtÃ©nÅ‘ Ã¡talakulÃ¡sÃ¡t.<ujsor/>
+Az egyesÃ¼lÃ©s akkÃ©nt tÃ¶rtÃ©nik, hogy a KISÃ‰GETÅ Kft. beolvad az Ã‰MK Kft.-be.<ujsor/>
+A KISÃ‰GETÅ Kft. mint beolvadÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g megszÅ±nik Ã©s annak vagyona az Ã‰MK Kft.-re mint jogutÃ³dra szÃ¡ll Ã¡t, amelynek tÃ¡rsasÃ¡gi formÃ¡ja vÃ¡ltozatlan marad.<ujsor/>
+Az Ã¡tvevÅ‘ (fennmaradÃ³) gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘bb adatai:<ujsor/>
+FormÃ¡ja: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+Neve: Ã‰MK Ã‰szak-magyarorszÃ¡gi KÃ¶rnyezetvÃ©delmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 3792 SajÃ³bÃ¡bony, GyÃ¡rtelep.<ujsor/>
+Az egyesÃ¼lÃ©si Ã©s a tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s megkÃ¶tÃ©sÃ©nek napja: 2009. november 10.<ujsor/>
+VagyonmÃ©rleg-tervezetek (mÃ©rlegfordulÃ³nap 2009. szeptember 30.):<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK (aktívák) Beolvadó cég Befogadó cég Tovább mûködõ<ujsor/>
-(záró) (záró) összevont (nyitó)<ujsor/>
-A) Befektetett eszközök 185 411 3 795 338 3 735 937<ujsor/>
-I. Immateriális javak 0 123 123<ujsor/>
-II. Tárgyi eszközök 185 411 3 276 971 3 462 382<ujsor/>
-III. Befektetett pénzügyi eszközök 518 244 273 432<ujsor/>
-B) Forgóeszközök 77 186 795 544 794 424<ujsor/>
-I. Készletek 0<ujsor/>
-II. Követelések 75 645 787 675 785 014<ujsor/>
-III. Értékpapírok 0<ujsor/>
-IV. Pénzeszközök 1 541 7 869 9 410<ujsor/>
-C) Aktív idõbeli elhatárolások 18 39 877 39 320<ujsor/>
-ÖSSZESEN: 262 615 4 630 759 4 569 681<ujsor/>
+ESZKÃ–ZÃ–K (aktÃ­vÃ¡k) BeolvadÃ³ cÃ©g BefogadÃ³ cÃ©g TovÃ¡bb mÅ±kÃ¶dÅ‘<ujsor/>
+(zÃ¡rÃ³) (zÃ¡rÃ³) Ã¶sszevont (nyitÃ³)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 185 411 3 795 338 3 735 937<ujsor/>
+I. ImmateriÃ¡lis javak 0 123 123<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 185 411 3 276 971 3 462 382<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 518 244 273 432<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 77 186 795 544 794 424<ujsor/>
+I. KÃ©szletek 0<ujsor/>
+II. KÃ¶vetelÃ©sek 75 645 787 675 785 014<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 1 541 7 869 9 410<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 18 39 877 39 320<ujsor/>
+Ã–SSZESEN: 262 615 4 630 759 4 569 681<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK (passzívák) Beolvadó cég Befogadó cég Tovább mûködõ<ujsor/>
-(záró) (záró) összevont (nyitó)<ujsor/>
-D) Saját tõke 92 245 1 136 316 983 750<ujsor/>
-I. Jegyzett tõke 52 31 10 600 10 600<ujsor/>
-II. Jegyzett, de még be nem fizetett tõke 0<ujsor/>
-III. Tõketartalék 2 000 2 000<ujsor/>
-IV. Eredménytartalék 37 935 1 125 716 971 150<ujsor/>
-V. Lekötött tartalék 0<ujsor/>
-VI. Értékelési tartalék 0<ujsor/>
-VII. Mérleg szerinti eredmény 0 0 0<ujsor/>
-E) Céltartalékok 0<ujsor/>
-F) Kötelezettségek 87 306 3 019 173 3 028 173<ujsor/>
-I. Hátra sorolt kötelezettségek 0<ujsor/>
-II. Hosszú lejáratú kötelezettségek 40 297 1 607 642 1 647 939<ujsor/>
-III. Rövid lejáratú kötelezettségek 47 009 1 411 531 1 380 234<ujsor/>
-G) Passzív idõbeli elhatárolások 83 064 475 270 557 759<ujsor/>
-ÖSSZESEN: 262 615 4 630 759 4 569 681<ujsor/>
-Fõ tevékenység: Veszélyes hulladék kezelése, ártalmatlanítása.<ujsor/>
-Az átvevõ társaság vezetõ tisztségviselõje: Csorba János ügyvezetõ (3508 Miskolc, Sütõ János u. 43.) önálló képviseleti és cégjegyzési joggal.<ujsor/>
-Az átvevõ társaság jegyzett tõkéje 10 600 000 Ft (tízmillió-hatszázezer forint).<ujsor/>
-A társaság felhívja azon hitelezõit, akiknek a társasággal szemben fennálló, le nem járt követelései az átalakulásról hozott döntés elsõ közzétételét megelõzõen keletkeztek, hogy a Gt. 76. § (2) bekezdése alapján a döntés második közzétételét követõ harmincnapos jogvesztõ határidõn belül biztosítékot követelhetnek.<ujsor/>
-(Második közzététel.)<ujsor/>
+FORRÃSOK (passzÃ­vÃ¡k) BeolvadÃ³ cÃ©g BefogadÃ³ cÃ©g TovÃ¡bb mÅ±kÃ¶dÅ‘<ujsor/>
+(zÃ¡rÃ³) (zÃ¡rÃ³) Ã¶sszevont (nyitÃ³)<ujsor/>
+D) SajÃ¡t tÅ‘ke 92 245 1 136 316 983 750<ujsor/>
+I. Jegyzett tÅ‘ke 52 31 10 600 10 600<ujsor/>
+II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke 0<ujsor/>
+III. TÅ‘ketartalÃ©k 2 000 2 000<ujsor/>
+IV. EredmÃ©nytartalÃ©k 37 935 1 125 716 971 150<ujsor/>
+V. LekÃ¶tÃ¶tt tartalÃ©k 0<ujsor/>
+VI. Ã‰rtÃ©kelÃ©si tartalÃ©k 0<ujsor/>
+VII. MÃ©rleg szerinti eredmÃ©ny 0 0 0<ujsor/>
+E) CÃ©ltartalÃ©kok 0<ujsor/>
+F) KÃ¶telezettsÃ©gek 87 306 3 019 173 3 028 173<ujsor/>
+I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0<ujsor/>
+II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 40 297 1 607 642 1 647 939<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 47 009 1 411 531 1 380 234<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 83 064 475 270 557 759<ujsor/>
+Ã–SSZESEN: 262 615 4 630 759 4 569 681<ujsor/>
+FÅ‘ tevÃ©kenysÃ©g: VeszÃ©lyes hulladÃ©k kezelÃ©se, Ã¡rtalmatlanÃ­tÃ¡sa.<ujsor/>
+Az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘je: Csorba JÃ¡nos Ã¼gyvezetÅ‘ (3508 Miskolc, SÃ¼tÅ‘ JÃ¡nos u. 43.) Ã¶nÃ¡llÃ³ kÃ©pviseleti Ã©s cÃ©gjegyzÃ©si joggal.<ujsor/>
+Az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g jegyzett tÅ‘kÃ©je 10 600 000 Ft (tÃ­zmilliÃ³-hatszÃ¡zezer forint).<ujsor/>
+A tÃ¡rsasÃ¡g felhÃ­vja azon hitelezÅ‘it, akiknek a tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei az Ã¡talakulÃ¡srÃ³l hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, hogy a Gt. 76. Â§ (2) bekezdÃ©se alapjÃ¡n a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0509008042</mezo>
-<mezo id = "nev">ÉMK Észak-Magyarországi Környezetvédelmi Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">3792 Sajóbábony</mezo>
+<mezo id = "nev">Ã‰MK Ã‰szak-MagyarorszÃ¡gi KÃ¶rnyezetvÃ©delmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">3792 SajÃ³bÃ¡bony</mezo>
 </alrovat>
 </rovat>
 <rovat id = "99017">

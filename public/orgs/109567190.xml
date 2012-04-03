@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">567190</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">1087 Budapest, Könyves Kálmán körút 54-60. </mezo>
+<mezo id = "cim">1087 Budapest, KÃ¶nyves KÃ¡lmÃ¡n kÃ¶rÃºt 54-60. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">12220652244</mezo>
 </alrovat>
@@ -13,40 +13,40 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19961230</mezo>
-<mezo id = "nev">MÁV Ingatlankezelõ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">MÃV IngatlankezelÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "1">
-<mezo id = "nev">MÁV IK Kft.</mezo>
+<mezo id = "nev">MÃV IK Kft.</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">19961230</mezo>
-<mezo id = "nev">MÁV IK Kft.</mezo>
+<mezo id = "nev">MÃV IK Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "4">
 <alrovat id = "1">
 <mezo id = "hattol">20101004</mezo>
-<mezo id = "nev">MÁV Property Management limited liability company</mezo>
+<mezo id = "nev">MÃV Property Management limited liability company</mezo>
 <mezo id = "valtk">20101004</mezo>
 <mezo id = "bkelt">20101125</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20101004</mezo>
-<mezo id = "nev">MÁV Property Management Ltd.</mezo>
+<mezo id = "nev">MÃV Property Management Ltd.</mezo>
 <mezo id = "valtk">20101004</mezo>
 <mezo id = "bkelt">20101125</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20101004</mezo>
-<mezo id = "nev">MÁV Immobilienverwaltung Gmbh.</mezo>
+<mezo id = "nev">MÃV Immobilienverwaltung Gmbh.</mezo>
 <mezo id = "valtk">20101004</mezo>
 <mezo id = "bkelt">20101125</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20101004</mezo>
-<mezo id = "nev">MÁV Immobilienverwaltung Gesellschaft mit beschränkter Haftung</mezo>
+<mezo id = "nev">MÃV Immobilienverwaltung Gesellschaft mit beschrÃ¤nkter Haftung</mezo>
 <mezo id = "valtk">20101004</mezo>
 <mezo id = "bkelt">20101207</mezo>
 </alrovat>
@@ -56,7 +56,7 @@
 <mezo id = "hattol">20110824</mezo>
 <mezo id = "irsz">1087</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Könyves Kálmán körút 54-60.</mezo>
+<mezo id = "teru">KÃ¶nyves KÃ¡lmÃ¡n kÃ¶rÃºt 54-60.</mezo>
 <mezo id = "valtk">20110824</mezo>
 <mezo id = "bkelt">20110912</mezo>
 </alrovat>
@@ -65,28 +65,28 @@
 <alrovat id = "1">
 <mezo id = "hattol">20000620</mezo>
 <mezo id = "irsz">1012</mezo>
-<mezo id = "hely">Budapest, Márvány u. 11/a.</mezo>
+<mezo id = "hely">Budapest, MÃ¡rvÃ¡ny u. 11/a.</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20050927</mezo>
 <mezo id = "irsz">1065</mezo>
-<mezo id = "hely">Budapest, Nyugati pályaudvar hrsz .: 29837/10.</mezo>
+<mezo id = "hely">Budapest, Nyugati pÃ¡lyaudvar hrsz .: 29837/10.</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20050927</mezo>
 <mezo id = "irsz">1097</mezo>
-<mezo id = "hely">Budapest, Külsõ Mester u. hrsz .: 38250/1.</mezo>
+<mezo id = "hely">Budapest, KÃ¼lsÅ‘ Mester u. hrsz .: 38250/1.</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">20050927</mezo>
 <mezo id = "irsz">1101</mezo>
-<mezo id = "hely">Budapest, Zách u. 1.</mezo>
+<mezo id = "hely">Budapest, ZÃ¡ch u. 1.</mezo>
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">20101004</mezo>
 <mezo id = "irsz">1086</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Kerepesi út 1-5.</mezo>
+<mezo id = "teru">Kerepesi Ãºt 1-5.</mezo>
 <mezo id = "valtk">20101004</mezo>
 <mezo id = "bkelt">20101125</mezo>
 </alrovat>
@@ -94,7 +94,7 @@
 <mezo id = "hattol">20101004</mezo>
 <mezo id = "irsz">1086</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Fiumei út 22.</mezo>
+<mezo id = "teru">Fiumei Ãºt 22.</mezo>
 <mezo id = "valtk">20101004</mezo>
 <mezo id = "bkelt">20101125</mezo>
 </alrovat>
@@ -102,7 +102,7 @@
 <mezo id = "hattol">20101004</mezo>
 <mezo id = "irsz">1087</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Kerepesi út 2-4.</mezo>
+<mezo id = "teru">Kerepesi Ãºt 2-4.</mezo>
 <mezo id = "valtk">20101004</mezo>
 <mezo id = "bkelt">20101125</mezo>
 </alrovat>
@@ -110,7 +110,7 @@
 <mezo id = "hattol">20101004</mezo>
 <mezo id = "irsz">1153</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Pázmány Péter utca 117.</mezo>
+<mezo id = "teru">PÃ¡zmÃ¡ny PÃ©ter utca 117.</mezo>
 <mezo id = "valtk">20101004</mezo>
 <mezo id = "bkelt">20101125</mezo>
 </alrovat>
@@ -124,72 +124,72 @@
 <alrovat id = "2">
 <mezo id = "hattol">19961230</mezo>
 <mezo id = "irsz">3527</mezo>
-<mezo id = "hely">Miskolc, Kandó Kálmán tér 1/2.</mezo>
+<mezo id = "hely">Miskolc, KandÃ³ KÃ¡lmÃ¡n tÃ©r 1/2.</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">19961230</mezo>
 <mezo id = "irsz">6725</mezo>
-<mezo id = "hely">Szeged, Indóház tér 11.</mezo>
+<mezo id = "hely">Szeged, IndÃ³hÃ¡z tÃ©r 11.</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">19961230</mezo>
 <mezo id = "irsz">9700</mezo>
-<mezo id = "hely">Szombathely, Vasút u. 18.</mezo>
+<mezo id = "hely">Szombathely, VasÃºt u. 18.</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">19961230</mezo>
 <mezo id = "irsz">4625</mezo>
-<mezo id = "hely">Záhony, Vasút út 2.</mezo>
+<mezo id = "hely">ZÃ¡hony, VasÃºt Ãºt 2.</mezo>
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">20000620</mezo>
 <mezo id = "irsz">9021</mezo>
-<mezo id = "hely">Gyõr, Révai u. 18.</mezo>
+<mezo id = "hely">GyÅ‘r, RÃ©vai u. 18.</mezo>
 </alrovat>
 <alrovat id = "12">
 <mezo id = "hattol">20000620</mezo>
 <mezo id = "irsz">4150</mezo>
-<mezo id = "hely">Püspökladány, Vasút u. 1.</mezo>
+<mezo id = "hely">PÃ¼spÃ¶kladÃ¡ny, VasÃºt u. 1.</mezo>
 </alrovat>
 <alrovat id = "13">
 <mezo id = "hattol">20000620</mezo>
 <mezo id = "irsz">4400</mezo>
-<mezo id = "hely">Nyíregyháza, Dugonics u. 1.</mezo>
+<mezo id = "hely">NyÃ­regyhÃ¡za, Dugonics u. 1.</mezo>
 </alrovat>
 <alrovat id = "16">
 <mezo id = "hattol">20000620</mezo>
 <mezo id = "irsz">3527</mezo>
-<mezo id = "hely">Miskolc, Besenyõ u. 12.</mezo>
+<mezo id = "hely">Miskolc, BesenyÅ‘ u. 12.</mezo>
 </alrovat>
 <alrovat id = "17">
 <mezo id = "hattol">20000620</mezo>
 <mezo id = "irsz">7622</mezo>
-<mezo id = "hely">Pécs, Verseny u. 2.</mezo>
+<mezo id = "hely">PÃ©cs, Verseny u. 2.</mezo>
 </alrovat>
 <alrovat id = "19">
 <mezo id = "hattol">20000620</mezo>
 <mezo id = "irsz">7200</mezo>
-<mezo id = "hely">Dombóvár, Gyenis A. u. 20/b.</mezo>
+<mezo id = "hely">DombÃ³vÃ¡r, Gyenis A. u. 20/b.</mezo>
 </alrovat>
 <alrovat id = "20">
 <mezo id = "hattol">20000620</mezo>
 <mezo id = "irsz">7400</mezo>
-<mezo id = "hely">Kaposvár, Baross Gábor u. 2.</mezo>
+<mezo id = "hely">KaposvÃ¡r, Baross GÃ¡bor u. 2.</mezo>
 </alrovat>
 <alrovat id = "24">
 <mezo id = "hattol">20000620</mezo>
 <mezo id = "irsz">6725</mezo>
-<mezo id = "hely">Szeged, Tiszai pályaudvar.</mezo>
+<mezo id = "hely">Szeged, Tiszai pÃ¡lyaudvar.</mezo>
 </alrovat>
 <alrovat id = "25">
 <mezo id = "hattol">20000620</mezo>
 <mezo id = "irsz">5600</mezo>
-<mezo id = "hely">Békéscsaba, Szabolcs u. 16.</mezo>
+<mezo id = "hely">BÃ©kÃ©scsaba, Szabolcs u. 16.</mezo>
 </alrovat>
 <alrovat id = "27">
 <mezo id = "hattol">20000620</mezo>
 <mezo id = "irsz">6000</mezo>
-<mezo id = "hely">Kecskemét, Rákóczi város 16.</mezo>
+<mezo id = "hely">KecskemÃ©t, RÃ¡kÃ³czi vÃ¡ros 16.</mezo>
 </alrovat>
 <alrovat id = "29">
 <mezo id = "hattol">20000620</mezo>
@@ -199,96 +199,96 @@
 <alrovat id = "30">
 <mezo id = "hattol">20000620</mezo>
 <mezo id = "irsz">9700</mezo>
-<mezo id = "hely">Szombathely, Vasútállomás.</mezo>
+<mezo id = "hely">Szombathely, VasÃºtÃ¡llomÃ¡s.</mezo>
 </alrovat>
 <alrovat id = "32">
 <mezo id = "hattol">20050927</mezo>
 <mezo id = "irsz">2510</mezo>
-<mezo id = "hely">Dorog, Vasútállomás Hrsz .: 383/5.</mezo>
+<mezo id = "hely">Dorog, VasÃºtÃ¡llomÃ¡s Hrsz .: 383/5.</mezo>
 <mezo id = "orsz">HU</mezo>
 </alrovat>
 <alrovat id = "33">
 <mezo id = "hattol">20050927</mezo>
 <mezo id = "irsz">2660</mezo>
-<mezo id = "hely">Balassagyarmat, Benczúr Gy. u. 2.</mezo>
+<mezo id = "hely">Balassagyarmat, BenczÃºr Gy. u. 2.</mezo>
 <mezo id = "orsz">HU</mezo>
 </alrovat>
 <alrovat id = "34">
 <mezo id = "hattol">20050927</mezo>
 <mezo id = "irsz">2700</mezo>
-<mezo id = "hely">Cegléd, Fûtõház u. 13.</mezo>
+<mezo id = "hely">CeglÃ©d, FÅ±tÅ‘hÃ¡z u. 13.</mezo>
 <mezo id = "orsz">HU</mezo>
 </alrovat>
 <alrovat id = "36">
 <mezo id = "hattol">20050927</mezo>
 <mezo id = "irsz">7563</mezo>
-<mezo id = "hely">Somogyszob , Kõriskerék út 01851. hrsz.</mezo>
+<mezo id = "hely">Somogyszob , KÅ‘riskerÃ©k Ãºt 01851. hrsz.</mezo>
 <mezo id = "orsz">HU</mezo>
 </alrovat>
 <alrovat id = "37">
 <mezo id = "hattol">20050927</mezo>
 <mezo id = "irsz">7623</mezo>
-<mezo id = "hely">Pécs, Verseny u. 6.</mezo>
+<mezo id = "hely">PÃ©cs, Verseny u. 6.</mezo>
 <mezo id = "orsz">HU</mezo>
 </alrovat>
 <alrovat id = "38">
 <mezo id = "hattol">20050927</mezo>
 <mezo id = "irsz">3529</mezo>
-<mezo id = "hely">Miskolc, Kinizsi Pál u. 23.</mezo>
+<mezo id = "hely">Miskolc, Kinizsi PÃ¡l u. 23.</mezo>
 <mezo id = "orsz">HU</mezo>
 </alrovat>
 <alrovat id = "39">
 <mezo id = "hattol">20050927</mezo>
 <mezo id = "irsz">2900</mezo>
-<mezo id = "hely">Komárom, Rákóczi rkp. 1586/3. hrsz.</mezo>
+<mezo id = "hely">KomÃ¡rom, RÃ¡kÃ³czi rkp. 1586/3. hrsz.</mezo>
 <mezo id = "orsz">HU</mezo>
 </alrovat>
 <alrovat id = "40">
 <mezo id = "hattol">20050927</mezo>
 <mezo id = "irsz">9222</mezo>
-<mezo id = "hely">Hegyeshalom, Vasút u. 6.</mezo>
+<mezo id = "hely">Hegyeshalom, VasÃºt u. 6.</mezo>
 <mezo id = "orsz">HU</mezo>
 </alrovat>
 <alrovat id = "41">
 <mezo id = "hattol">20050927</mezo>
 <mezo id = "irsz">4024</mezo>
-<mezo id = "hely">Debrecen, Petõfi tér 12.</mezo>
+<mezo id = "hely">Debrecen, PetÅ‘fi tÃ©r 12.</mezo>
 <mezo id = "orsz">HU</mezo>
 </alrovat>
 <alrovat id = "42">
 <mezo id = "hattol">20050927</mezo>
 <mezo id = "irsz">3900</mezo>
-<mezo id = "hely">Szerencs, Kandó K. u. 13.</mezo>
+<mezo id = "hely">Szerencs, KandÃ³ K. u. 13.</mezo>
 <mezo id = "orsz">HU</mezo>
 </alrovat>
 <alrovat id = "43">
 <mezo id = "hattol">20050927</mezo>
 <mezo id = "irsz">4700</mezo>
-<mezo id = "hely">Mátészalka, Tompa M. u. 2-5.</mezo>
+<mezo id = "hely">MÃ¡tÃ©szalka, Tompa M. u. 2-5.</mezo>
 <mezo id = "orsz">HU</mezo>
 </alrovat>
 <alrovat id = "45">
 <mezo id = "hattol">20050927</mezo>
 <mezo id = "irsz">3391</mezo>
-<mezo id = "hely">Füzesabony, Vízház u. 1.</mezo>
+<mezo id = "hely">FÃ¼zesabony, VÃ­zhÃ¡z u. 1.</mezo>
 <mezo id = "orsz">HU</mezo>
 </alrovat>
 <alrovat id = "46">
 <mezo id = "hattol">20050927</mezo>
 <mezo id = "irsz">9500</mezo>
-<mezo id = "hely">Celldömölk, Wesselényi u. 34.</mezo>
+<mezo id = "hely">CelldÃ¶mÃ¶lk, WesselÃ©nyi u. 34.</mezo>
 <mezo id = "orsz">HU</mezo>
 </alrovat>
 <alrovat id = "47">
 <mezo id = "hattol">20050927</mezo>
 <mezo id = "irsz">8200</mezo>
-<mezo id = "hely">Veszprém, Jutasi u. 34.</mezo>
+<mezo id = "hely">VeszprÃ©m, Jutasi u. 34.</mezo>
 <mezo id = "orsz">HU</mezo>
 </alrovat>
 <alrovat id = "48">
 <mezo id = "hattol">20070503</mezo>
 <mezo id = "irsz">8000</mezo>
-<mezo id = "hely">Székesfehérvár, Berényi út 13.</mezo>
+<mezo id = "hely">SzÃ©kesfehÃ©rvÃ¡r, BerÃ©nyi Ãºt 13.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20070503</mezo>
 <mezo id = "valtv">0</mezo>
@@ -298,7 +298,7 @@
 <alrovat id = "49">
 <mezo id = "hattol">20070503</mezo>
 <mezo id = "irsz">5000</mezo>
-<mezo id = "hely">Szolnok, Sás u. 1.</mezo>
+<mezo id = "hely">Szolnok, SÃ¡s u. 1.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20070503</mezo>
 <mezo id = "valtv">0</mezo>
@@ -309,7 +309,7 @@
 <mezo id = "hattol">20101004</mezo>
 <mezo id = "irsz">3000</mezo>
 <mezo id = "hely">Hatvan</mezo>
-<mezo id = "teru">Rákóczi utca 2/A.</mezo>
+<mezo id = "teru">RÃ¡kÃ³czi utca 2/A.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20101004</mezo>
 <mezo id = "bkelt">20101125</mezo>
@@ -326,7 +326,7 @@
 <alrovat id = "52">
 <mezo id = "hattol">20101004</mezo>
 <mezo id = "irsz">7700</mezo>
-<mezo id = "hely">Sárbogárd</mezo>
+<mezo id = "hely">SÃ¡rbogÃ¡rd</mezo>
 <mezo id = "teru">Balassi utca 20.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20101004</mezo>
@@ -344,7 +344,7 @@
 <alrovat id = "54">
 <mezo id = "hattol">20101004</mezo>
 <mezo id = "irsz">3391</mezo>
-<mezo id = "hely">Füzesabony</mezo>
+<mezo id = "hely">FÃ¼zesabony</mezo>
 <mezo id = "teru">Baross utca 1.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20101004</mezo>
@@ -354,7 +354,7 @@
 <mezo id = "hattol">20101004</mezo>
 <mezo id = "irsz">6600</mezo>
 <mezo id = "hely">Szentes</mezo>
-<mezo id = "teru">Kolozsvári utca 2.</mezo>
+<mezo id = "teru">KolozsvÃ¡ri utca 2.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20101004</mezo>
 <mezo id = "bkelt">20101125</mezo>
@@ -363,7 +363,7 @@
 <mezo id = "hattol">20101004</mezo>
 <mezo id = "irsz">8900</mezo>
 <mezo id = "hely">Zalaegerszeg</mezo>
-<mezo id = "teru">Bajcsy-Zs tér 1.</mezo>
+<mezo id = "teru">Bajcsy-Zs tÃ©r 1.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20101004</mezo>
 <mezo id = "bkelt">20101125</mezo>
@@ -1345,12 +1345,12 @@
 <rovat id = "13">
 <alrovat id = "7">
 <mezo id = "hattol">20110601</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">dr. Bajzek János</mezo>
-<mezo id = "panev">Perger Erzsébet</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">dr. Bajzek JÃ¡nos</mezo>
+<mezo id = "panev">Perger ErzsÃ©bet</mezo>
 <mezo id = "pirsz">8000</mezo>
-<mezo id = "phely">Székesfehérvár</mezo>
-<mezo id = "pteru">Sütõ utca 46. 8. em. 24.</mezo>
+<mezo id = "phely">SzÃ©kesfehÃ©rvÃ¡r</mezo>
+<mezo id = "pteru">SÃ¼tÅ‘ utca 46. 8. em. 24.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20110601</mezo>
 <mezo id = "jogvv">20120531</mezo>
@@ -1363,13 +1363,13 @@
 <alrovat id = "6">
 <mezo id = "hattol">20100715</mezo>
 <mezo id = "cgjsz">0109267553</mezo>
-<mezo id = "nev">Ernst &amp; Young Könyvvizsgáló Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Ernst &amp; Young KÃ¶nyvvizsgÃ¡lÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1132</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Váci út 20.</mezo>
-<mezo id = "pnev">Ispánovity Mártonné</mezo>
-<mezo id = "panev">Komanovics Éva</mezo>
+<mezo id = "teru">VÃ¡ci Ãºt 20.</mezo>
+<mezo id = "pnev">IspÃ¡novity MÃ¡rtonnÃ©</mezo>
+<mezo id = "panev">Komanovics Ã‰va</mezo>
 <mezo id = "jogvk">20100715</mezo>
 <mezo id = "jogvv">20130531</mezo>
 <mezo id = "valtk">20100715</mezo>
@@ -1379,8 +1379,8 @@
 <rovat id = "15">
 <alrovat id = "17">
 <mezo id = "hattol">20070903</mezo>
-<mezo id = "pnev">Dr. Balogh Ernõ</mezo>
-<mezo id = "panev">Karpov Erzsébet</mezo>
+<mezo id = "pnev">Dr. Balogh ErnÅ‘</mezo>
+<mezo id = "panev">Karpov ErzsÃ©bet</mezo>
 <mezo id = "pirsz">1089</mezo>
 <mezo id = "phely">Budapest, Orczy u. 25.</mezo>
 <mezo id = "jogvk">20060601</mezo>
@@ -1392,11 +1392,11 @@
 </alrovat>
 <alrovat id = "23">
 <mezo id = "hattol">20090818</mezo>
-<mezo id = "pnev">Dr. Nógrádi György</mezo>
-<mezo id = "panev">Schneller Borbála</mezo>
+<mezo id = "pnev">Dr. NÃ³grÃ¡di GyÃ¶rgy</mezo>
+<mezo id = "panev">Schneller BorbÃ¡la</mezo>
 <mezo id = "pirsz">1125</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Diós Árok utca 17. a. ép.</mezo>
+<mezo id = "pteru">DiÃ³s Ãrok utca 17. a. Ã©p.</mezo>
 <mezo id = "jogvk">20090601</mezo>
 <mezo id = "jogvv">20100531</mezo>
 <mezo id = "valtk">20090818</mezo>
@@ -1413,8 +1413,8 @@
 </alrovat>
 <alrovat id = "28">
 <mezo id = "hattol">20100731</mezo>
-<mezo id = "pnev">Dr. Kovács Gábor</mezo>
-<mezo id = "panev">Kovács Ida</mezo>
+<mezo id = "pnev">Dr. KovÃ¡cs GÃ¡bor</mezo>
+<mezo id = "panev">KovÃ¡cs Ida</mezo>
 <mezo id = "jogvk">20100801</mezo>
 <mezo id = "jogvv">20150731</mezo>
 <mezo id = "valtk">20100731</mezo>
@@ -1422,8 +1422,8 @@
 </alrovat>
 <alrovat id = "29">
 <mezo id = "hattol">20100731</mezo>
-<mezo id = "pnev">Boros Ákos Attiláné</mezo>
-<mezo id = "panev">Sándor Margit</mezo>
+<mezo id = "pnev">Boros Ãkos AttilÃ¡nÃ©</mezo>
+<mezo id = "panev">SÃ¡ndor Margit</mezo>
 <mezo id = "jogvk">20100801</mezo>
 <mezo id = "jogvv">20150731</mezo>
 <mezo id = "valtk">20100731</mezo>
@@ -1449,18 +1449,18 @@
 <mezo id = "adosz">12220652244</mezo>
 <mezo id = "kadosz">HU12220652</mezo>
 <mezo id = "bkelt">20110913</mezo>
-<mezo id = "megj">Státusz kezdete: 1997/01/01</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 1997/01/01</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0109">
 <alrovat id = "3">
 <mezo id = "hattol">20101004</mezo>
 <mezo id = "cgjsz">0110042272</mezo>
-<mezo id = "nev">MÁV Magyar Államvasutak Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">MÃV Magyar Ãllamvasutak ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1087</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Könyves Kálmán körút 54-60.</mezo>
+<mezo id = "teru">KÃ¶nyves KÃ¡lmÃ¡n kÃ¶rÃºt 54-60.</mezo>
 <mezo id = "tagsk">19961230</mezo>
 <mezo id = "valtk">20101004</mezo>
 <mezo id = "bkelt">20101125</mezo>
@@ -1475,38 +1475,38 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2007. 09. 03-án hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-15. Dr. Balogh Ernõ (an: Karpov Erzsébet)<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2007. 09. 03-Ã¡n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+15. Dr. Balogh ErnÅ‘ (an: Karpov ErzsÃ©bet)<ujsor/>
 1089 Budapest, Orczy u. 25.<ujsor/>
  A jogviszony kezdete: 2006. 06. 01.<ujsor/>
- A jogviszony vége: 2009. 05. 31.<ujsor/>
- A változás idõpontja (törlés): 2006. 10. 12.<ujsor/>
- Törölve: 2007. 10. 16.<ujsor/>
+ A jogviszony vÃ©ge: 2009. 05. 31.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2006. 10. 12.<ujsor/>
+ TÃ¶rÃ¶lve: 2007. 10. 16.<ujsor/>
 2007. 10. 16.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109567190</mezo>
-<mezo id = "nev">MÁV Ingatlankezelõ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">MÃV IngatlankezelÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1086 Budapest, Fiumei u. 22.</mezo>
 <mezo id = "adosz">12220652242</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság a Cg.01-09-567190 cégjegyzékszámon bejegyzett MÁV Ingatlankezelõ Korlátolt Felelõsségû Társaság (1086 Budapest, Fiumei út 22.; adószáma: 12220652-2-44) kérelme alapján elrendeli a 2010. november 25. napján hozott Cg.01-09-567190 /120. számú végzésének kijavítását az alábbiak szerint:<ujsor/>
-4. A cég idegennyelvû elnevezése(i), idegen nyelvû rövidített elnevezése(i)<ujsor/>
-MÁV Immobilienverwaltung Gesellschaft mit beschrankter Haftug<ujsor/>
-Vált. vége: 2010.10.04.<ujsor/>
-Törölve (végzés kelte): 2010. december 7.<ujsor/>
-MÁV Immobilienverwaltung Gesellschaft mit beschränkter Haftung<ujsor/>
-Vált. kezdete: 2010.10.04.<ujsor/>
-Bejegyezve (végzés kelte): 2010. december 7.<ujsor/>
-E végzés ellen fellebbezésnek nincs helye, azonban az ügyész, továbbá az, akire a végzés rendelkezést tartalmaz - a rendelkezés õt érintõ részére vonatkozóan - pert indíthat a cég ellen a cég székhelye szerint illetékes megyei bíróság elõtt a bejegyzõ végzés hatályon kívül helyezése iránt.<ujsor/>
-A per megindításának a bejegyzõ végzés Cégközlönyben való közzétételétõl, illetve - közzétételi kötelezettség hiányában - annak kézbesítésétõl számított 30 napon belül van helye. A határidõ elmulasztása jogvesztéssel jár.<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.01-09-567190 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett MÃV IngatlankezelÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (1086 Budapest, Fiumei Ãºt 22.; adÃ³szÃ¡ma: 12220652-2-44) kÃ©relme alapjÃ¡n elrendeli a 2010. november 25. napjÃ¡n hozott Cg.01-09-567190 /120. szÃ¡mÃº vÃ©gzÃ©sÃ©nek kijavÃ­tÃ¡sÃ¡t az alÃ¡bbiak szerint:<ujsor/>
+4. A cÃ©g idegennyelvÅ± elnevezÃ©se(i), idegen nyelvÅ± rÃ¶vidÃ­tett elnevezÃ©se(i)<ujsor/>
+MÃV Immobilienverwaltung Gesellschaft mit beschrankter Haftug<ujsor/>
+VÃ¡lt. vÃ©ge: 2010.10.04.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2010. december 7.<ujsor/>
+MÃV Immobilienverwaltung Gesellschaft mit beschrÃ¤nkter Haftung<ujsor/>
+VÃ¡lt. kezdete: 2010.10.04.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2010. december 7.<ujsor/>
+E vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye, azonban az Ã¼gyÃ©sz, tovÃ¡bbÃ¡ az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s Å‘t Ã©rintÅ‘ rÃ©szÃ©re vonatkozÃ³an - pert indÃ­that a cÃ©g ellen a cÃ©g szÃ©khelye szerint illetÃ©kes megyei bÃ­rÃ³sÃ¡g elÅ‘tt a bejegyzÅ‘ vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt.<ujsor/>
+A per megindÃ­tÃ¡sÃ¡nak a bejegyzÅ‘ vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l, illetve - kÃ¶zzÃ©tÃ©teli kÃ¶telezettsÃ©g hiÃ¡nyÃ¡ban - annak kÃ©zbesÃ­tÃ©sÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l van helye. A hatÃ¡ridÅ‘ elmulasztÃ¡sa jogvesztÃ©ssel jÃ¡r.<ujsor/>
 2010. december 7.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109567190</mezo>
-<mezo id = "nev">MÁV Ingatlankezelõ Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1086 Budapest, Fiumei út 22.</mezo>
+<mezo id = "nev">MÃV IngatlankezelÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1086 Budapest, Fiumei Ãºt 22.</mezo>
 <mezo id = "adosz">12220652244</mezo>
 </alrovat>
 </rovat>

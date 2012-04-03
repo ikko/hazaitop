@@ -6,7 +6,7 @@
 <mezo id = "szam">001607</mezo>
 <mezo id = "nevalrovat">2</mezo>
 <mezo id = "regi_szh">0110041698</mezo>
-<mezo id = "cim">2800 Tatabánya, Mártírok út 44. </mezo>
+<mezo id = "cim">2800 TatabÃ¡nya, MÃ¡rtÃ­rok Ãºt 44. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">10613823211</mezo>
 </alrovat>
@@ -14,7 +14,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20060706</mezo>
-<mezo id = "nev">ZÖLD ÚJSÁG Tömegkommunikációs és Kiadói Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">ZÃ–LD ÃšJSÃG TÃ¶megkommunikÃ¡ciÃ³s Ã©s KiadÃ³i ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -22,7 +22,7 @@
 <rovat id = "3">
 <alrovat id = "2">
 <mezo id = "hattol">20060706</mezo>
-<mezo id = "nev">ZÖLD ÚJSÁG zrt.</mezo>
+<mezo id = "nev">ZÃ–LD ÃšJSÃG zrt.</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -30,7 +30,7 @@
 <rovat id = "4">
 <alrovat id = "2">
 <mezo id = "hattol">20060706</mezo>
-<mezo id = "nev">ZÖLD ÚJSÁG Mass-median Communication and Publishing Company Limited by Shares operating in a closed way</mezo>
+<mezo id = "nev">ZÃ–LD ÃšJSÃG Mass-median Communication and Publishing Company Limited by Shares operating in a closed way</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -39,8 +39,8 @@
 <alrovat id = "4">
 <mezo id = "hattol">20110401</mezo>
 <mezo id = "irsz">2800</mezo>
-<mezo id = "hely">Tatabánya</mezo>
-<mezo id = "teru">Mártírok út 44.</mezo>
+<mezo id = "hely">TatabÃ¡nya</mezo>
+<mezo id = "teru">MÃ¡rtÃ­rok Ãºt 44.</mezo>
 <mezo id = "valtk">20110401</mezo>
 <mezo id = "bkelt">20110404</mezo>
 </alrovat>
@@ -54,7 +54,7 @@
 <alrovat id = "3">
 <mezo id = "hattol">20090428</mezo>
 <mezo id = "irsz">1122</mezo>
-<mezo id = "hely">Budapest, Városmajor utca 12-14.</mezo>
+<mezo id = "hely">Budapest, VÃ¡rosmajor utca 12-14.</mezo>
 <mezo id = "valtk">20090428</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20090508</mezo>
@@ -1079,13 +1079,13 @@
 <mezo id = "hattol">20110606</mezo>
 <mezo id = "valtk">20110606</mezo>
 <mezo id = "bkelt">20110711</mezo>
-<mezo id = "teaszov">Értékpapír-, árutõzsdei ügynöki tevékenység</mezo>
+<mezo id = "teaszov">Ã‰rtÃ©kpapÃ­r-, Ã¡rutÅ‘zsdei Ã¼gynÃ¶ki tevÃ©kenysÃ©g</mezo>
 </alrovat>
 <alrovat id = "150">
 <mezo id = "hattol">20110606</mezo>
 <mezo id = "valtk">20110606</mezo>
 <mezo id = "bkelt">20110711</mezo>
-<mezo id = "teaszov">Egyéb pénzügyi kiegészítõ tevékenység</mezo>
+<mezo id = "teaszov">EgyÃ©b pÃ©nzÃ¼gyi kiegÃ©szÃ­tÅ‘ tevÃ©kenysÃ©g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -1100,8 +1100,8 @@
 <rovat id = "13">
 <alrovat id = "36">
 <mezo id = "hattol">20091026</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Balasi Tamás</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Balasi TamÃ¡s</mezo>
 <mezo id = "panev">Seres Matild</mezo>
 <mezo id = "pirsz">1036</mezo>
 <mezo id = "phely">Budapest</mezo>
@@ -1113,9 +1113,9 @@
 </alrovat>
 <alrovat id = "42">
 <mezo id = "hattol">20100122</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Gajdos István</mezo>
-<mezo id = "panev">Kovács Mária</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">Gajdos IstvÃ¡n</mezo>
+<mezo id = "panev">KovÃ¡cs MÃ¡ria</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20100215</mezo>
 <mezo id = "valtk">20100122</mezo>
@@ -1124,12 +1124,12 @@
 </alrovat>
 <alrovat id = "43">
 <mezo id = "hattol">20110121</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Soós Gusztávné</mezo>
-<mezo id = "panev">Kovács Ilona</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">SoÃ³s GusztÃ¡vnÃ©</mezo>
+<mezo id = "panev">KovÃ¡cs Ilona</mezo>
 <mezo id = "pirsz">1211</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Kossuth Lajos utca 51. A. lház. 1.</mezo>
+<mezo id = "pteru">Kossuth Lajos utca 51. A. lhÃ¡z. 1.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20100215</mezo>
 <mezo id = "valtk">20110121</mezo>
@@ -1138,12 +1138,12 @@
 </alrovat>
 <alrovat id = "44">
 <mezo id = "hattol">20110606</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Lengyel András Bálint</mezo>
-<mezo id = "panev">Mészáros Éva</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">Lengyel AndrÃ¡s BÃ¡lint</mezo>
+<mezo id = "panev">MÃ©szÃ¡ros Ã‰va</mezo>
 <mezo id = "pirsz">2038</mezo>
-<mezo id = "phely">Sóskút</mezo>
-<mezo id = "pteru">Szent László király útja 7.</mezo>
+<mezo id = "phely">SÃ³skÃºt</mezo>
+<mezo id = "pteru">Szent LÃ¡szlÃ³ kirÃ¡ly Ãºtja 7.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20110606</mezo>
 <mezo id = "valtk">20110606</mezo>
@@ -1155,16 +1155,16 @@
 <alrovat id = "11">
 <mezo id = "hattol">20110121</mezo>
 <mezo id = "cgjsz">0109267553</mezo>
-<mezo id = "nev">Ernst &amp; Young Könyvvizsgáló Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Ernst &amp; Young KÃ¶nyvvizsgÃ¡lÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1132</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Váci út 20.</mezo>
-<mezo id = "pnev">Havas István</mezo>
-<mezo id = "panev">Faragó Anna</mezo>
+<mezo id = "teru">VÃ¡ci Ãºt 20.</mezo>
+<mezo id = "pnev">Havas IstvÃ¡n</mezo>
+<mezo id = "panev">FaragÃ³ Anna</mezo>
 <mezo id = "pirsz">1021</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Széher út 10.</mezo>
+<mezo id = "pteru">SzÃ©her Ãºt 10.</mezo>
 <mezo id = "jogvk">20110121</mezo>
 <mezo id = "jogvv">20120531</mezo>
 <mezo id = "valtk">20110121</mezo>
@@ -1182,17 +1182,17 @@
 <mezo id = "adosz">10613823211</mezo>
 <mezo id = "kadosz">HU10613823</mezo>
 <mezo id = "bkelt">20110715</mezo>
-<mezo id = "megj">Státusz kezdete: 1991/09/26</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 1991/09/26</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0110">
 <alrovat id = "1">
 <mezo id = "hattol">20011203</mezo>
 <mezo id = "cgjsz">1109001415</mezo>
-<mezo id = "nev">Axel Springer - Magyarország Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Axel Springer - MagyarorszÃ¡g KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "irsz">2800</mezo>
-<mezo id = "hely">Tatabánya</mezo>
-<mezo id = "teru">Fõ tér</mezo>
+<mezo id = "hely">TatabÃ¡nya</mezo>
+<mezo id = "teru">FÅ‘ tÃ©r</mezo>
 <mezo id = "hsz">4.</mezo>
 <mezo id = "tagsk">0</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -1209,47 +1209,47 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2003. 11. 14-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2003. 11. 14-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
 07. 1022 Budapest, Maros utca 19-21.<ujsor/>
- Törölve: 2003. 10. 06-i hatállyal.<ujsor/>
+ TÃ¶rÃ¶lve: 2003. 10. 06-i hatÃ¡llyal.<ujsor/>
  1122 Budapest, Maros utca 19-21.<ujsor/>
- Hatályos: 2003. 10. 06-tól.<ujsor/>
+ HatÃ¡lyos: 2003. 10. 06-tÃ³l.<ujsor/>
 Bejegyezve: 2003. 12. 02.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110001607</mezo>
-<mezo id = "nev">ZÖLD ÚJSÁG Tömegkommunikációs és Kiadói Részvénytársaság</mezo>
-<mezo id = "cim">2800 Tatabánya, Fõ tér 4.</mezo>
+<mezo id = "nev">ZÃ–LD ÃšJSÃG TÃ¶megkommunikÃ¡ciÃ³s Ã©s KiadÃ³i RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2800 TatabÃ¡nya, FÅ‘ tÃ©r 4.</mezo>
 <mezo id = "adosz">10613823211</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az Axel Springer-Magyarország Kft. (Cg.: [11 09 001415]; 2800 Tatabánya, Fõ tér 4.) a Gt. 291. §-ában rögzítettek szerinti közvetlen irányítást biztosító (100%) befolyással rendelkezik a Zöld Újság Tömegkommunikációs és Kiadói Részvénytársaságban (Cg.: [11 10 001607]; 2800 Tatabánya, Fõ tér 4.) 2001. december 3-tól.<ujsor/>
-A hitelezõk a jogaikat a Gt. 296. § (2) bekezdése alapján gyakorolhatják.<ujsor/>
+<mezo id = "szoveg">Az Axel Springer-MagyarorszÃ¡g Kft. (Cg.: [11 09 001415]; 2800 TatabÃ¡nya, FÅ‘ tÃ©r 4.) a Gt. 291. Â§-Ã¡ban rÃ¶gzÃ­tettek szerinti kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ (100%) befolyÃ¡ssal rendelkezik a ZÃ¶ld ÃšjsÃ¡g TÃ¶megkommunikÃ¡ciÃ³s Ã©s KiadÃ³i RÃ©szvÃ©nytÃ¡rsasÃ¡gban (Cg.: [11 10 001607]; 2800 TatabÃ¡nya, FÅ‘ tÃ©r 4.) 2001. december 3-tÃ³l.<ujsor/>
+A hitelezÅ‘k a jogaikat a Gt. 296. Â§ (2) bekezdÃ©se alapjÃ¡n gyakorolhatjÃ¡k.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110001607</mezo>
-<mezo id = "nev">ZÖLD ÚJSÁG Tömegkommunikációs és Kiadói Részvénytársaság</mezo>
-<mezo id = "cim">2800 Tatabánya</mezo>
+<mezo id = "nev">ZÃ–LD ÃšJSÃG TÃ¶megkommunikÃ¡ciÃ³s Ã©s KiadÃ³i RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2800 TatabÃ¡nya</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2006. 07. 06-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-1(10). [11 09 001415] Axel Springer - Magyarország Korlátolt Felelõsségû Társaság<ujsor/>
-2800 Tatabánya, Fõ tér 4.<ujsor/>
- Törölve: 2001. 12. 03.<ujsor/>
- A társaság irányítását biztosító befolyásolás fajtája: közvetlen irányítást biztosító befolyás.<ujsor/>
- [11 09 001415] Axel Springer - Magyarország Korlátolt Felelõsségû Társaság<ujsor/>
-2800 Tatabánya, Fõ tér 4.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2006. 07. 06-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+1(10). [11 09 001415] Axel Springer - MagyarorszÃ¡g KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g<ujsor/>
+2800 TatabÃ¡nya, FÅ‘ tÃ©r 4.<ujsor/>
+ TÃ¶rÃ¶lve: 2001. 12. 03.<ujsor/>
+ A tÃ¡rsasÃ¡g irÃ¡nyÃ­tÃ¡sÃ¡t biztosÃ­tÃ³ befolyÃ¡solÃ¡s fajtÃ¡ja: kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡s.<ujsor/>
+ [11 09 001415] Axel Springer - MagyarorszÃ¡g KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g<ujsor/>
+2800 TatabÃ¡nya, FÅ‘ tÃ©r 4.<ujsor/>
  Bejegyezve: 2001. 12. 03.<ujsor/>
- [11 09 001415] Axel Springer - Magyarország Korlátolt Felelõsségû Társaság<ujsor/>
-2800 Tatabánya, Fõ tér 4.<ujsor/>
+ [11 09 001415] Axel Springer - MagyarorszÃ¡g KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g<ujsor/>
+2800 TatabÃ¡nya, FÅ‘ tÃ©r 4.<ujsor/>
  Bejegyezve: 2005. 07. 01.<ujsor/>
 2006. 07. 17.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110001607</mezo>
-<mezo id = "nev">ZÖLD ÚJSÁG Tömegkommunikációs és Kiadói Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">2800 Tatabánya, Fõ tér 4.</mezo>
+<mezo id = "nev">ZÃ–LD ÃšJSÃG TÃ¶megkommunikÃ¡ciÃ³s Ã©s KiadÃ³i ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2800 TatabÃ¡nya, FÅ‘ tÃ©r 4.</mezo>
 <mezo id = "adosz">10613823211</mezo>
 </alrovat>
 </rovat>

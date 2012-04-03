@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">697932</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">1152 Budapest, Mátyás u. 29. </mezo>
+<mezo id = "cim">1152 Budapest, MÃ¡tyÃ¡s u. 29. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">12674408242</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20010702</mezo>
-<mezo id = "nev">FIZOKA Építõipari, Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">FIZOKA Ã‰pÃ­tÅ‘ipari, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -27,7 +27,7 @@
 <mezo id = "hattol">20070423</mezo>
 <mezo id = "irsz">1152</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Mátyás u. 29.</mezo>
+<mezo id = "teru">MÃ¡tyÃ¡s u. 29.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">20070326</mezo>
 <mezo id = "valtv">0</mezo>
@@ -38,7 +38,7 @@
 <mezo id = "hattol">20110502</mezo>
 <mezo id = "irsz">1043</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Erzsébet utca 18. fsz.</mezo>
+<mezo id = "teru">ErzsÃ©bet utca 18. fsz.</mezo>
 <mezo id = "valtk">20110502</mezo>
 <mezo id = "bkelt">20110530</mezo>
 </alrovat>
@@ -796,11 +796,11 @@
 <rovat id = "13">
 <alrovat id = "4">
 <mezo id = "hattol">20110502</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Fekete Zoltán</mezo>
-<mezo id = "panev">Bekó Julianna</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Fekete ZoltÃ¡n</mezo>
+<mezo id = "panev">BekÃ³ Julianna</mezo>
 <mezo id = "pirsz">2161</mezo>
-<mezo id = "phely">Csomád</mezo>
+<mezo id = "phely">CsomÃ¡d</mezo>
 <mezo id = "pteru">Halom utca 2.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20080623</mezo>
@@ -813,12 +813,12 @@
 <alrovat id = "1">
 <mezo id = "hattol">20110429</mezo>
 <mezo id = "cgjsz">1309093097</mezo>
-<mezo id = "nev">B.B. ÁZSIÓ AUDIT Könyvizsgáló, Könyvelõ és Adótanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">B.B. ÃZSIÃ“ AUDIT KÃ¶nyvizsgÃ¡lÃ³, KÃ¶nyvelÅ‘ Ã©s AdÃ³tanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2373</mezo>
 <mezo id = "hely">Dabas</mezo>
 <mezo id = "teru">Kossuth L utca 93.</mezo>
-<mezo id = "pnev">Bálint Jenõné</mezo>
+<mezo id = "pnev">BÃ¡lint JenÅ‘nÃ©</mezo>
 <mezo id = "panev">Havai Julianna</mezo>
 <mezo id = "pirsz">2373</mezo>
 <mezo id = "phely">Dabas</mezo>
@@ -840,16 +840,16 @@
 <mezo id = "adosz">12674408242</mezo>
 <mezo id = "kadosz">HU12674408</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "megj">Adószám státusza: érvényes adószám</mezo>
+<mezo id = "megj">AdÃ³szÃ¡m stÃ¡tusza: Ã©rvÃ©nyes adÃ³szÃ¡m</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0109">
 <alrovat id = "3">
 <mezo id = "hattol">20070423</mezo>
-<mezo id = "pnev">Fekete Zoltán</mezo>
-<mezo id = "panev">Bekó Julianna</mezo>
+<mezo id = "pnev">Fekete ZoltÃ¡n</mezo>
+<mezo id = "panev">BekÃ³ Julianna</mezo>
 <mezo id = "pirsz">2161</mezo>
-<mezo id = "phely">Csomád, Halom u. 2.</mezo>
+<mezo id = "phely">CsomÃ¡d, Halom u. 2.</mezo>
 <mezo id = "tagsk">20010702</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "sz2">x</mezo>
@@ -859,9 +859,9 @@
 <alrovat id = "4">
 <mezo id = "hattol">20080623</mezo>
 <mezo id = "pnev">Fekete Katalin</mezo>
-<mezo id = "panev">Bekó Julianna</mezo>
+<mezo id = "panev">BekÃ³ Julianna</mezo>
 <mezo id = "pirsz">2119</mezo>
-<mezo id = "phely">Pécel, Bajcsy-Zsilinszky út 18.</mezo>
+<mezo id = "phely">PÃ©cel, Bajcsy-Zsilinszky Ãºt 18.</mezo>
 <mezo id = "tagsk">20080623</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20080623</mezo>

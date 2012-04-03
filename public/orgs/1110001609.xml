@@ -5,7 +5,7 @@
 <mezo id = "cf">10</mezo>
 <mezo id = "szam">001609</mezo>
 <mezo id = "nevalrovat">2</mezo>
-<mezo id = "cim">2500 Esztergom, Táncsics Mihály utca 5. </mezo>
+<mezo id = "cim">2500 Esztergom, TÃ¡ncsics MihÃ¡ly utca 5. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">13206873211</mezo>
 </alrovat>
@@ -13,19 +13,19 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20060316</mezo>
-<mezo id = "nev">ESZTERGOMI FÜRDÕ (SPA) Szolgáltató Zrt.</mezo>
+<mezo id = "nev">ESZTERGOMI FÃœRDÅ (SPA) SzolgÃ¡ltatÃ³ Zrt.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "2">
 <mezo id = "hattol">20060316</mezo>
-<mezo id = "nev">ESZTERGOMI FÜRDÕ (SPA) Zrt.</mezo>
+<mezo id = "nev">ESZTERGOMI FÃœRDÅ (SPA) Zrt.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "4">
 <alrovat id = "1">
 <mezo id = "hattol">20060316</mezo>
-<mezo id = "nev">ESZTERGOMI FÜRDÕ (SPA) Services Inc. ESZTERGOMI FÜRDÕ (SPA) Inc.</mezo>
+<mezo id = "nev">ESZTERGOMI FÃœRDÅ (SPA) Services Inc. ESZTERGOMI FÃœRDÅ (SPA) Inc.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
@@ -33,7 +33,7 @@
 <mezo id = "hattol">20051208</mezo>
 <mezo id = "irsz">2500</mezo>
 <mezo id = "hely">Esztergom</mezo>
-<mezo id = "teru">Táncsics Mihály utca 5.</mezo>
+<mezo id = "teru">TÃ¡ncsics MihÃ¡ly utca 5.</mezo>
 <mezo id = "kirsz">0</mezo>
 </alrovat>
 </rovat>
@@ -476,9 +476,9 @@
 <rovat id = "13">
 <alrovat id = "6">
 <mezo id = "hattol">20101101</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (vezérigazgató)</mezo>
-<mezo id = "pnev">Balogh Zoltán</mezo>
-<mezo id = "panev">Karkó Ilona</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (vezÃ©rigazgatÃ³)</mezo>
+<mezo id = "pnev">Balogh ZoltÃ¡n</mezo>
+<mezo id = "panev">KarkÃ³ Ilona</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20101101</mezo>
 <mezo id = "jogvv">20110531</mezo>
@@ -491,12 +491,12 @@
 <alrovat id = "3">
 <mezo id = "hattol">20100601</mezo>
 <mezo id = "cgjsz">0609005506</mezo>
-<mezo id = "nev">Regálé Account Könyvvizsgáló, Adószakértõ és Könyvelõ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">RegÃ¡lÃ© Account KÃ¶nyvvizsgÃ¡lÃ³, AdÃ³szakÃ©rtÅ‘ Ã©s KÃ¶nyvelÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "irsz">6726</mezo>
 <mezo id = "hely">Szeged</mezo>
 <mezo id = "teru">Fogarasi u. 6.</mezo>
-<mezo id = "pnev">Csécsei Judit Eszter</mezo>
-<mezo id = "panev">Szénási Klára</mezo>
+<mezo id = "pnev">CsÃ©csei Judit Eszter</mezo>
+<mezo id = "panev">SzÃ©nÃ¡si KlÃ¡ra</mezo>
 <mezo id = "jogvk">20100601</mezo>
 <mezo id = "jogvv">20110531</mezo>
 <mezo id = "valtk">20100601</mezo>
@@ -506,8 +506,8 @@
 <rovat id = "15">
 <alrovat id = "16">
 <mezo id = "hattol">20070727</mezo>
-<mezo id = "pnev">Mihályi László</mezo>
-<mezo id = "panev">Tõzsér Mária</mezo>
+<mezo id = "pnev">MihÃ¡lyi LÃ¡szlÃ³</mezo>
+<mezo id = "panev">TÅ‘zsÃ©r MÃ¡ria</mezo>
 <mezo id = "pirsz">2500</mezo>
 <mezo id = "phely">Esztergom, Kossuth L. u. 51.</mezo>
 <mezo id = "jogvk">20070501</mezo>
@@ -517,10 +517,10 @@
 </alrovat>
 <alrovat id = "18">
 <mezo id = "hattol">20070727</mezo>
-<mezo id = "pnev">Nyári Julianna</mezo>
+<mezo id = "pnev">NyÃ¡ri Julianna</mezo>
 <mezo id = "panev">Budai Julianna</mezo>
 <mezo id = "pirsz">2500</mezo>
-<mezo id = "phely">Esztergom, Könyök u. 5.</mezo>
+<mezo id = "phely">Esztergom, KÃ¶nyÃ¶k u. 5.</mezo>
 <mezo id = "jogvk">20070501</mezo>
 <mezo id = "jogvv">20111220</mezo>
 <mezo id = "valtk">20070419</mezo>
@@ -528,11 +528,11 @@
 </alrovat>
 <alrovat id = "19">
 <mezo id = "hattol">20081016</mezo>
-<mezo id = "pnev">Lázár Mózes</mezo>
-<mezo id = "panev">Vázsonyi Anna</mezo>
+<mezo id = "pnev">LÃ¡zÃ¡r MÃ³zes</mezo>
+<mezo id = "panev">VÃ¡zsonyi Anna</mezo>
 <mezo id = "pirsz">2840</mezo>
-<mezo id = "phely">Oroszlány</mezo>
-<mezo id = "pteru">Deák Ferenc út 75.</mezo>
+<mezo id = "phely">OroszlÃ¡ny</mezo>
+<mezo id = "pteru">DeÃ¡k Ferenc Ãºt 75.</mezo>
 <mezo id = "jogvk">20081016</mezo>
 <mezo id = "jogvv">20111220</mezo>
 <mezo id = "valtk">20081016</mezo>
@@ -550,7 +550,7 @@
 <mezo id = "adosz">13206873211</mezo>
 <mezo id = "kadosz">HU13206873</mezo>
 <mezo id = "bkelt">20111013</mezo>
-<mezo id = "megj">Státusz kezdete: 2011/10/07</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 2011/10/07</mezo>
 <mezo id = "hdat">20111007</mezo>
 </alrovat>
 </rovat>
@@ -558,7 +558,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20061031</mezo>
 <mezo id = "jccjsz">1109011889</mezo>
-<mezo id = "nev">Esztergomi Fürdõ Építõipari Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Esztergomi FÃ¼rdÅ‘ Ã‰pÃ­tÅ‘ipari SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "atdat">0</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
@@ -567,11 +567,11 @@
 <rovat id = "0110">
 <alrovat id = "1">
 <mezo id = "hattol">20040202</mezo>
-<mezo id = "nev">Esztergom Város Önkormányzata</mezo>
+<mezo id = "nev">Esztergom VÃ¡ros Ã–nkormÃ¡nyzata</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2500</mezo>
 <mezo id = "hely">Esztergom</mezo>
-<mezo id = "teru">Széchenyi tér</mezo>
+<mezo id = "teru">SzÃ©chenyi tÃ©r</mezo>
 <mezo id = "hsz">1.</mezo>
 </alrovat>
 </rovat>
@@ -584,174 +584,174 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Komárom-Esztergom Megyei Bíróságnál bejegyzett Esztergomi Fürdõ (SPA) Szolgáltató Zrt. (Cg.: [11 10 001609]; székhelye: 2500 Esztergom, Táncsics M. u. 5.; képviseli: Lengyel József vezérigazgató) legfõbb szerve ­ alapítója ­ 2006. június 29-én döntött a társaság<ujsor/>
-szétválással<ujsor/>
-történõ átalakulásáról.<ujsor/>
-A szétválás kiválással történik.<ujsor/>
-A szétválási szerzõdés aláírásának napja: 2006. június 29.<ujsor/>
-A szétválással átalakuló gazdasági társaság adatai az átalakulás után:<ujsor/>
-Formája: zártkörûen mûködõ részvénytársaság.<ujsor/>
-Cégjegyzékszáma: [11 10 001609].<ujsor/>
-Neve: Esztergomi Fürdõ (SPA) Szolgáltató Zrt.<ujsor/>
-Székhelye: 2500 Esztergom, Táncsics M. u. 5.<ujsor/>
-Idõtartama: határozatlan idõtartam.<ujsor/>
-Cégjegyzésre jogosult: Lengyel József vezérigazgató (6725 Szeged, Szent Ferenc u. 7.).<ujsor/>
-A társaság tevékenységi körei (TEÁOR ‘03): <ujsor/>
-A társaság fõ tevékenysége: 9304 Fizikai közérzetet javító szolgáltatás.<ujsor/>
-A társaság egyéb tevékenységi körei: 4030 Gõz-, melegvízellátás; 4100 Víztermelés, -kezelés, -elosztás [1991. évi XVI. tv. 1. § (1) bekezdés c)­d) és f) pont. 1988. évi VI. tv. 4. § (2) bekezdésben foglaltaknak megfelelõen.]; 6330 Utazásszervezés; [15/1989. (IX. 7.) KeM rendeletben foglaltaknak megfelelõen. 2/1992. (I. 13.) IKM rendelet 2. §]; 7020 Ingatlan bérbeadása, üzemeltetése; 7140 Fogyasztási cikk kölcsönzése; 7420 Mérnöki tevékenység, tanácsadás [8/1986. (III. 28.) MT r., módosította a 93/1990. (V. 14.) MT r. 3/1986. (III. 20.) ÉVM r., módosította a 16/1990. (V. 14.) KÖHÉM rendeletben foglaltaknak megfelelõen.]; 8042 Máshova nem sorolt felnõtt- és egyéb oktatás; 8514 Egyéb humán-egészségügyi ellátás [78/1986. (VI II. 10.) EüM r. 6., 9­10. §. 63/1984. (XII. 19.) MT r. 1. § (1) bekezdésben foglaltak szerint.]; 9261 Sportlétesítmény mûködtetése; 9304 Fizikai közérzetet javító szolgáltatás; 9305 Máshova nem sorolt, egyéb szolgáltatás; 7011 Ingatlanberuházás, -eladás; 7032 Ingatlankezelés; 7487 Máshová nem sorolt, egyéb gazdasági szolgáltatás; 9272 Máshova nem sorolható, egyéb szabadidõs tevékenység; 9302 Fodrászat, szépségápolás; 7470 Takarítás, tisztítás; 5510 Szállodai szolgáltatás; 5523 Egyéb szálláshely-szolgáltatás; 5530 Étkezõhelyi vendéglátás; 5540 Bárok, hasonló vendéglátás; 5551 Munkahelyi étkeztetés; 5552 Közétkeztetés.<ujsor/>
-Az alapító a társaság alaptõkéjének összegét 35 000 000 Ft-ban (harmincötmillió forintban) állapítja meg.<ujsor/>
-A társaság alaptõkéje a következõ részvényekre oszlik:<ujsor/>
-Darab Névérték (Ft) Össznévérték (Ft)<ujsor/>
-„A” részvénysorozat, 175 200 000 35 000 000<ujsor/>
-A társaság felügyelõbizottsága: dr. Kriveczky György (a. n.: Bába Antónia; 6726 Szeged, Udvarhely u. 28.; Lukács Ferenc (a. n.: Jávor Katalin; 8380 Hévíz, Zrínyi u. 16.), Koditek Pál (a. n.: Kottra Magdolna; 2500 Esztergom, Mindszenty tér 4.), Tóth József (a. n.: Gál Margit; 2509 Esztergom-Kertváros, Erkel u. 4.).<ujsor/>
-Egységes szerkezetû alapító okirat aláírásának napja: 2006. június 29.<ujsor/>
-A szerzõdõ felek rögzítik, hogy a kiválással létrejövõ gazdasági társaság adatai az alábbiak:<ujsor/>
-Formája: korlátolt felelõsségû társaság.<ujsor/>
-Neve: Esztergomi Fürdõ Építõipari Szolgáltató Kft.<ujsor/>
-Rövidített neve: Esztergomi Fürdõ Kft.<ujsor/>
-Székhelye: 2500 Esztergom, Táncsics M. u. 5.<ujsor/>
-Idõtartama: határozatlan idõtartam.<ujsor/>
-Cégjegyzésre jogosult: Lengyel József (6725 Szeged, Szent Ferenc u. 7.).<ujsor/>
-A cégjegyzésre jogosult tisztsége: ügyvezetõ.<ujsor/>
-A társaság tevékenységi körei (TEÁOR ‘03): 4511 Épületbontás, földmunka; 4512 Talajmintavétel, próbafúrás; 4521 Épület, híd, alagút, közmû, vezeték építése; 4522 Tetõszerkezet-építés, tetõfedés, vízszigetelés; 4523 Autópálya, út, repülõtér, sport játéktér építése; 4524 Vízi létesítmény építése; 4525 Egyéb speciális szaképítés; 4531 Villanyszerelés; 4532 Szigetelés; 4533 Víz-, gáz-, fûtésszerelés; 4534 Egyéb épületgépészeti szerelés; 4541 Vakolás; 4542 Épületasztalos-szerkezet szerelése; 4543 Padló-, falburkolás; 4544 Festés, üvegezés; 4545 Egyéb befejezõ építés; 4550 Építési, bontási eszköz kölcsönzése személyzettel; 7132 Építõipari gép kölcsönzése; 7310 Mûszaki kutatás, fejlesztés; 7430 Mûszaki vizsgálat, elemzés; 7487 Máshová nem sorolt, egyéb gazdasági szolgáltatás; 7420 Mérnöki tevékenység, tanácsadás [8/1986. (III. 28.) MT r., módosította a 93/1990. (V 14.) MT. r., 3/1986. (III. 20.) ÉVM r., módosította a 16/1990. (V. 14.) KÖHÉM rendeletben foglaltaknak megfelelõen.]<ujsor/>
-A társasági szerzõdés aláírásának idõpontja: 2006. június 29.<ujsor/>
-A szétválás elõtti ­ Esztergomi Fürdõ (SPA) Szolgáltató Zrt. ­ gazdasági társaság vagyonmérleg-tervezete:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-A) Befektetett eszközök 188 985 D) Saját tõke 36 957<ujsor/>
-I. Immateriális javak 77 I. Jegyzett tõke 35 000<ujsor/>
-II. Tárgyi eszközök 188 908 II. Tõketartalék 0<ujsor/>
-B) Forgóeszközök 139 446 III. Eredménytartalék 1 957<ujsor/>
-I. Készletek 27 970 F) Kötelezettségek 320 581<ujsor/>
-II. Követelések 91 629 I. Hátra sorolt kötelezettségek 70 000<ujsor/>
-III. Pénzeszközök 19 847 II. Hosszú lejáratú kötelezettségek 33 410<ujsor/>
-C) Aktív idõbeli elhatárolások 42 741 III. Rövid lejáratú kötelezettségek 217 171<ujsor/>
-G) Passzív idõbeli elhatárolások 13 634<ujsor/>
-ÖSSZESEN: 371 172 ÖSSZESEN: 371 172<ujsor/>
-A fennmaradó ­ Esztergomi Fürdõ (SPA) Szolgáltató Zrt. ­ gazdasági társaság vagyonmérleg-tervezete:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-A) Befektetett eszközök 188 985 D) Saját tõke 35 457<ujsor/>
-I. Immateriális javak 77 I. Jegyzett tõke 35 000<ujsor/>
-II. Tárgyi eszközök 188 908 II. Tõketartalék 0<ujsor/>
-B) Forgóeszközök 137 946 III. Eredménytartalék 457<ujsor/>
-I. Készletek 27 970 F) Kötelezettségek 320 581<ujsor/>
-II. Követelések 91 629 I. Hátra sorolt kötelezettségek 70 000<ujsor/>
-III. Pénzeszközök 18 347 II. Hosszú lejáratú kötelezettségek 33 140<ujsor/>
-C) Aktív idõbeli elhatárolások 42 741 III. Rövid lejáratú kötelezettségek 217 171<ujsor/>
-G) Passzív idõbeli elhatárolások 13 634<ujsor/>
-ÖSSZESEN: 369 672 ÖSSZESEN: 369 672<ujsor/>
-A kiválással létrejövõ ­ Esztergomi Fürdõ Építõipari Szolgáltató Kft. ­ gazdasági társaság vagyonmérleg-tervezete:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-A) Befektetett eszközök 0 D) Saját tõke 3000<ujsor/>
-I. Immateriális javak 0 I. Jegyzett tõke 3000<ujsor/>
-II. Tárgyi eszközök 0 II. Tõketartalék<ujsor/>
-B) Forgóeszközök 3000 III. Eredménytartalék 3000<ujsor/>
-I. Készletek 0 F) Kötelezettségek 0<ujsor/>
-II. Követelések 0 I. Hátra sorolt kötelezettségek<ujsor/>
-III. Pénzeszközök 3000 II. Hosszú lejáratú kötelezettségek 0<ujsor/>
-C) Aktív idõbeli elhatárolások 0 III. Rövid lejáratú kötelezettségek 0<ujsor/>
-G) Passzív idõbeli elhatárolások 0<ujsor/>
-ÖSSZESEN: 3000 ÖSSZESEN: 3000<ujsor/>
-A szétváló gazdasági társaság jogutódai ­ ideértve azt a gazdasági társaságot is, amelybõl a kiválás történt (fennmaradó gazdasági társaság) ­ a gazdasági társaságnak a szétválás elõtt keletkezett kötelezettségeiért az alábbi arányban felelnek: fennmaradó társaság: 100%, kiváló társaság 0%.<ujsor/>
-A vagyonleltár-tervezetek részletesen szabályozzák a fennmaradó és kiváló gazdasági társaságok közötti vagyonmegosztást.<ujsor/>
-Felhívjuk a figyelmet arra, hogy az átalakulás az átalakuló gazdasági társasággal szemben fennálló követeléseket nem teszi lejárttá.<ujsor/>
-Azok a hitelezõk, akiknek az átalakuló gazdasági társasággal szemben fennálló, le nem járt követelései az átalakulásról hozott döntés elsõ közzétételét megelõzõen keletkeztek, követeléseik erejéig az átalakuló gazdasági társaságtól a döntés második közzétételét követõ harmincnapos jogvesztõ határidõn belül biztosítékot követelhetnek.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">A KomÃ¡rom-Esztergom Megyei BÃ­rÃ³sÃ¡gnÃ¡l bejegyzett Esztergomi FÃ¼rdÅ‘ (SPA) SzolgÃ¡ltatÃ³ Zrt. (Cg.: [11 10 001609]; szÃ©khelye: 2500 Esztergom, TÃ¡ncsics M. u. 5.; kÃ©pviseli: Lengyel JÃ³zsef vezÃ©rigazgatÃ³) legfÅ‘bb szerve Â­ alapÃ­tÃ³ja Â­ 2006. jÃºnius 29-Ã©n dÃ¶ntÃ¶tt a tÃ¡rsasÃ¡g<ujsor/>
+szÃ©tvÃ¡lÃ¡ssal<ujsor/>
+tÃ¶rtÃ©nÅ‘ Ã¡talakulÃ¡sÃ¡rÃ³l.<ujsor/>
+A szÃ©tvÃ¡lÃ¡s kivÃ¡lÃ¡ssal tÃ¶rtÃ©nik.<ujsor/>
+A szÃ©tvÃ¡lÃ¡si szerzÅ‘dÃ©s alÃ¡Ã­rÃ¡sÃ¡nak napja: 2006. jÃºnius 29.<ujsor/>
+A szÃ©tvÃ¡lÃ¡ssal Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g adatai az Ã¡talakulÃ¡s utÃ¡n:<ujsor/>
+FormÃ¡ja: zÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ rÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡ma: [11 10 001609].<ujsor/>
+Neve: Esztergomi FÃ¼rdÅ‘ (SPA) SzolgÃ¡ltatÃ³ Zrt.<ujsor/>
+SzÃ©khelye: 2500 Esztergom, TÃ¡ncsics M. u. 5.<ujsor/>
+IdÅ‘tartama: hatÃ¡rozatlan idÅ‘tartam.<ujsor/>
+CÃ©gjegyzÃ©sre jogosult: Lengyel JÃ³zsef vezÃ©rigazgatÃ³ (6725 Szeged, Szent Ferenc u. 7.).<ujsor/>
+A tÃ¡rsasÃ¡g tevÃ©kenysÃ©gi kÃ¶rei (TEÃOR â€˜03): <ujsor/>
+A tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©ge: 9304 Fizikai kÃ¶zÃ©rzetet javÃ­tÃ³ szolgÃ¡ltatÃ¡s.<ujsor/>
+A tÃ¡rsasÃ¡g egyÃ©b tevÃ©kenysÃ©gi kÃ¶rei: 4030 GÅ‘z-, melegvÃ­zellÃ¡tÃ¡s; 4100 VÃ­ztermelÃ©s, -kezelÃ©s, -elosztÃ¡s [1991. Ã©vi XVI. tv. 1. Â§ (1) bekezdÃ©s c)Â­d) Ã©s f) pont. 1988. Ã©vi VI. tv. 4. Â§ (2) bekezdÃ©sben foglaltaknak megfelelÅ‘en.]; 6330 UtazÃ¡sszervezÃ©s; [15/1989. (IX. 7.) KeM rendeletben foglaltaknak megfelelÅ‘en. 2/1992. (I. 13.) IKM rendelet 2. Â§]; 7020 Ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se; 7140 FogyasztÃ¡si cikk kÃ¶lcsÃ¶nzÃ©se; 7420 MÃ©rnÃ¶ki tevÃ©kenysÃ©g, tanÃ¡csadÃ¡s [8/1986. (III. 28.) MT r., mÃ³dosÃ­totta a 93/1990. (V. 14.) MT r. 3/1986. (III. 20.) Ã‰VM r., mÃ³dosÃ­totta a 16/1990. (V. 14.) KÃ–HÃ‰M rendeletben foglaltaknak megfelelÅ‘en.]; 8042 MÃ¡shova nem sorolt felnÅ‘tt- Ã©s egyÃ©b oktatÃ¡s; 8514 EgyÃ©b humÃ¡n-egÃ©szsÃ©gÃ¼gyi ellÃ¡tÃ¡s [78/1986. (VI II. 10.) EÃ¼M r. 6., 9Â­10. Â§. 63/1984. (XII. 19.) MT r. 1. Â§ (1) bekezdÃ©sben foglaltak szerint.]; 9261 SportlÃ©tesÃ­tmÃ©ny mÅ±kÃ¶dtetÃ©se; 9304 Fizikai kÃ¶zÃ©rzetet javÃ­tÃ³ szolgÃ¡ltatÃ¡s; 9305 MÃ¡shova nem sorolt, egyÃ©b szolgÃ¡ltatÃ¡s; 7011 IngatlanberuhÃ¡zÃ¡s, -eladÃ¡s; 7032 IngatlankezelÃ©s; 7487 MÃ¡shovÃ¡ nem sorolt, egyÃ©b gazdasÃ¡gi szolgÃ¡ltatÃ¡s; 9272 MÃ¡shova nem sorolhatÃ³, egyÃ©b szabadidÅ‘s tevÃ©kenysÃ©g; 9302 FodrÃ¡szat, szÃ©psÃ©gÃ¡polÃ¡s; 7470 TakarÃ­tÃ¡s, tisztÃ­tÃ¡s; 5510 SzÃ¡llodai szolgÃ¡ltatÃ¡s; 5523 EgyÃ©b szÃ¡llÃ¡shely-szolgÃ¡ltatÃ¡s; 5530 Ã‰tkezÅ‘helyi vendÃ©glÃ¡tÃ¡s; 5540 BÃ¡rok, hasonlÃ³ vendÃ©glÃ¡tÃ¡s; 5551 Munkahelyi Ã©tkeztetÃ©s; 5552 KÃ¶zÃ©tkeztetÃ©s.<ujsor/>
+Az alapÃ­tÃ³ a tÃ¡rsasÃ¡g alaptÅ‘kÃ©jÃ©nek Ã¶sszegÃ©t 35 000 000 Ft-ban (harmincÃ¶tmilliÃ³ forintban) Ã¡llapÃ­tja meg.<ujsor/>
+A tÃ¡rsasÃ¡g alaptÅ‘kÃ©je a kÃ¶vetkezÅ‘ rÃ©szvÃ©nyekre oszlik:<ujsor/>
+Darab NÃ©vÃ©rtÃ©k (Ft) Ã–ssznÃ©vÃ©rtÃ©k (Ft)<ujsor/>
+â€Aâ€ rÃ©szvÃ©nysorozat, 175 200 000 35 000 000<ujsor/>
+A tÃ¡rsasÃ¡g felÃ¼gyelÅ‘bizottsÃ¡ga: dr. Kriveczky GyÃ¶rgy (a. n.: BÃ¡ba AntÃ³nia; 6726 Szeged, Udvarhely u. 28.; LukÃ¡cs Ferenc (a. n.: JÃ¡vor Katalin; 8380 HÃ©vÃ­z, ZrÃ­nyi u. 16.), Koditek PÃ¡l (a. n.: Kottra Magdolna; 2500 Esztergom, Mindszenty tÃ©r 4.), TÃ³th JÃ³zsef (a. n.: GÃ¡l Margit; 2509 Esztergom-KertvÃ¡ros, Erkel u. 4.).<ujsor/>
+EgysÃ©ges szerkezetÅ± alapÃ­tÃ³ okirat alÃ¡Ã­rÃ¡sÃ¡nak napja: 2006. jÃºnius 29.<ujsor/>
+A szerzÅ‘dÅ‘ felek rÃ¶gzÃ­tik, hogy a kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g adatai az alÃ¡bbiak:<ujsor/>
+FormÃ¡ja: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+Neve: Esztergomi FÃ¼rdÅ‘ Ã‰pÃ­tÅ‘ipari SzolgÃ¡ltatÃ³ Kft.<ujsor/>
+RÃ¶vidÃ­tett neve: Esztergomi FÃ¼rdÅ‘ Kft.<ujsor/>
+SzÃ©khelye: 2500 Esztergom, TÃ¡ncsics M. u. 5.<ujsor/>
+IdÅ‘tartama: hatÃ¡rozatlan idÅ‘tartam.<ujsor/>
+CÃ©gjegyzÃ©sre jogosult: Lengyel JÃ³zsef (6725 Szeged, Szent Ferenc u. 7.).<ujsor/>
+A cÃ©gjegyzÃ©sre jogosult tisztsÃ©ge: Ã¼gyvezetÅ‘.<ujsor/>
+A tÃ¡rsasÃ¡g tevÃ©kenysÃ©gi kÃ¶rei (TEÃOR â€˜03): 4511 Ã‰pÃ¼letbontÃ¡s, fÃ¶ldmunka; 4512 TalajmintavÃ©tel, prÃ³bafÃºrÃ¡s; 4521 Ã‰pÃ¼let, hÃ­d, alagÃºt, kÃ¶zmÅ±, vezetÃ©k Ã©pÃ­tÃ©se; 4522 TetÅ‘szerkezet-Ã©pÃ­tÃ©s, tetÅ‘fedÃ©s, vÃ­zszigetelÃ©s; 4523 AutÃ³pÃ¡lya, Ãºt, repÃ¼lÅ‘tÃ©r, sport jÃ¡tÃ©ktÃ©r Ã©pÃ­tÃ©se; 4524 VÃ­zi lÃ©tesÃ­tmÃ©ny Ã©pÃ­tÃ©se; 4525 EgyÃ©b speciÃ¡lis szakÃ©pÃ­tÃ©s; 4531 VillanyszerelÃ©s; 4532 SzigetelÃ©s; 4533 VÃ­z-, gÃ¡z-, fÅ±tÃ©sszerelÃ©s; 4534 EgyÃ©b Ã©pÃ¼letgÃ©pÃ©szeti szerelÃ©s; 4541 VakolÃ¡s; 4542 Ã‰pÃ¼letasztalos-szerkezet szerelÃ©se; 4543 PadlÃ³-, falburkolÃ¡s; 4544 FestÃ©s, Ã¼vegezÃ©s; 4545 EgyÃ©b befejezÅ‘ Ã©pÃ­tÃ©s; 4550 Ã‰pÃ­tÃ©si, bontÃ¡si eszkÃ¶z kÃ¶lcsÃ¶nzÃ©se szemÃ©lyzettel; 7132 Ã‰pÃ­tÅ‘ipari gÃ©p kÃ¶lcsÃ¶nzÃ©se; 7310 MÅ±szaki kutatÃ¡s, fejlesztÃ©s; 7430 MÅ±szaki vizsgÃ¡lat, elemzÃ©s; 7487 MÃ¡shovÃ¡ nem sorolt, egyÃ©b gazdasÃ¡gi szolgÃ¡ltatÃ¡s; 7420 MÃ©rnÃ¶ki tevÃ©kenysÃ©g, tanÃ¡csadÃ¡s [8/1986. (III. 28.) MT r., mÃ³dosÃ­totta a 93/1990. (V 14.) MT. r., 3/1986. (III. 20.) Ã‰VM r., mÃ³dosÃ­totta a 16/1990. (V. 14.) KÃ–HÃ‰M rendeletben foglaltaknak megfelelÅ‘en.]<ujsor/>
+A tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s alÃ¡Ã­rÃ¡sÃ¡nak idÅ‘pontja: 2006. jÃºnius 29.<ujsor/>
+A szÃ©tvÃ¡lÃ¡s elÅ‘tti Â­ Esztergomi FÃ¼rdÅ‘ (SPA) SzolgÃ¡ltatÃ³ Zrt. Â­ gazdasÃ¡gi tÃ¡rsasÃ¡g vagyonmÃ©rleg-tervezete:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 188 985 D) SajÃ¡t tÅ‘ke 36 957<ujsor/>
+I. ImmateriÃ¡lis javak 77 I. Jegyzett tÅ‘ke 35 000<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 188 908 II. TÅ‘ketartalÃ©k 0<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 139 446 III. EredmÃ©nytartalÃ©k 1 957<ujsor/>
+I. KÃ©szletek 27 970 F) KÃ¶telezettsÃ©gek 320 581<ujsor/>
+II. KÃ¶vetelÃ©sek 91 629 I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek 70 000<ujsor/>
+III. PÃ©nzeszkÃ¶zÃ¶k 19 847 II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 33 410<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 42 741 III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 217 171<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 13 634<ujsor/>
+Ã–SSZESEN: 371 172 Ã–SSZESEN: 371 172<ujsor/>
+A fennmaradÃ³ Â­ Esztergomi FÃ¼rdÅ‘ (SPA) SzolgÃ¡ltatÃ³ Zrt. Â­ gazdasÃ¡gi tÃ¡rsasÃ¡g vagyonmÃ©rleg-tervezete:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 188 985 D) SajÃ¡t tÅ‘ke 35 457<ujsor/>
+I. ImmateriÃ¡lis javak 77 I. Jegyzett tÅ‘ke 35 000<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 188 908 II. TÅ‘ketartalÃ©k 0<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 137 946 III. EredmÃ©nytartalÃ©k 457<ujsor/>
+I. KÃ©szletek 27 970 F) KÃ¶telezettsÃ©gek 320 581<ujsor/>
+II. KÃ¶vetelÃ©sek 91 629 I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek 70 000<ujsor/>
+III. PÃ©nzeszkÃ¶zÃ¶k 18 347 II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 33 140<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 42 741 III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 217 171<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 13 634<ujsor/>
+Ã–SSZESEN: 369 672 Ã–SSZESEN: 369 672<ujsor/>
+A kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ Â­ Esztergomi FÃ¼rdÅ‘ Ã‰pÃ­tÅ‘ipari SzolgÃ¡ltatÃ³ Kft. Â­ gazdasÃ¡gi tÃ¡rsasÃ¡g vagyonmÃ©rleg-tervezete:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 0 D) SajÃ¡t tÅ‘ke 3000<ujsor/>
+I. ImmateriÃ¡lis javak 0 I. Jegyzett tÅ‘ke 3000<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 0 II. TÅ‘ketartalÃ©k<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 3000 III. EredmÃ©nytartalÃ©k 3000<ujsor/>
+I. KÃ©szletek 0 F) KÃ¶telezettsÃ©gek 0<ujsor/>
+II. KÃ¶vetelÃ©sek 0 I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek<ujsor/>
+III. PÃ©nzeszkÃ¶zÃ¶k 3000 II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 0 III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 0<ujsor/>
+Ã–SSZESEN: 3000 Ã–SSZESEN: 3000<ujsor/>
+A szÃ©tvÃ¡lÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g jogutÃ³dai Â­ ideÃ©rtve azt a gazdasÃ¡gi tÃ¡rsasÃ¡got is, amelybÅ‘l a kivÃ¡lÃ¡s tÃ¶rtÃ©nt (fennmaradÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g) Â­ a gazdasÃ¡gi tÃ¡rsasÃ¡gnak a szÃ©tvÃ¡lÃ¡s elÅ‘tt keletkezett kÃ¶telezettsÃ©geiÃ©rt az alÃ¡bbi arÃ¡nyban felelnek: fennmaradÃ³ tÃ¡rsasÃ¡g: 100%, kivÃ¡lÃ³ tÃ¡rsasÃ¡g 0%.<ujsor/>
+A vagyonleltÃ¡r-tervezetek rÃ©szletesen szabÃ¡lyozzÃ¡k a fennmaradÃ³ Ã©s kivÃ¡lÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gok kÃ¶zÃ¶tti vagyonmegosztÃ¡st.<ujsor/>
+FelhÃ­vjuk a figyelmet arra, hogy az Ã¡talakulÃ¡s az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³ kÃ¶vetelÃ©seket nem teszi lejÃ¡rttÃ¡.<ujsor/>
+Azok a hitelezÅ‘k, akiknek az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei az Ã¡talakulÃ¡srÃ³l hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gtÃ³l a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110001609</mezo>
-<mezo id = "nev">ESZTERGOMI FÜRDÕ (SPA)Szolgáltató Részvénytársaság</mezo>
+<mezo id = "nev">ESZTERGOMI FÃœRDÅ (SPA)SzolgÃ¡ltatÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">2500 Esztergom</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Komárom-Esztergom Megyei Bíróságnál bejegyzett Esztergomi Fürdõ (SPA) Szolgáltató Zrt. (Cg.: [11 10 001609]; székhelye: 2500 Esztergom, Táncsics M. u. 5.; képviseli: Lengyel József vezérigazgató) legfõbb szerve ­ alapítója ­ 2006. június 29-én döntött a társaság<ujsor/>
-szétválással<ujsor/>
-történõ átalakulásáról.<ujsor/>
-A szétválás kiválással történik.<ujsor/>
-A szétválási szerzõdés aláírásának napja: 2006. június 29.<ujsor/>
-A szétválással átalakuló gazdasági társaság adatai az átalakulás után:<ujsor/>
-Formája: zártkörûen mûködõ részvénytársaság.<ujsor/>
-Cégjegyzékszáma: [11 10 001609].<ujsor/>
-Neve: Esztergomi Fürdõ (SPA) Szolgáltató Zrt.<ujsor/>
-Székhelye: 2500 Esztergom, Táncsics M. u. 5.<ujsor/>
-Idõtartama: határozatlan idõtartam.<ujsor/>
-Cégjegyzésre jogosult: Lengyel József vezérigazgató (6725 Szeged, Szent Ferenc u. 7.).<ujsor/>
-A társaság tevékenységi körei (TEÁOR ‘03): <ujsor/>
-A társaság fõ tevékenysége: 9304 Fizikai közérzetet javító szolgáltatás.<ujsor/>
-A társaság egyéb tevékenységi körei: 4030 Gõz-, melegvízellátás; 4100 Víztermelés, -kezelés, -elosztás [1991. évi XVI. tv. 1. § (1) bekezdés c)­d) és f) pont. 1988. évi VI. tv. 4. § (2) bekezdésben foglaltaknak megfelelõen.]; 6330 Utazásszervezés; [15/1989. (IX. 7.) KeM rendeletben foglaltaknak megfelelõen. 2/1992. (I. 13.) IKM rendelet 2. §]; 7020 Ingatlan bérbeadása, üzemeltetése; 7140 Fogyasztási cikk kölcsönzése; 7420 Mérnöki tevékenység, tanácsadás [8/1986. (III. 28.) MT r., módosította a 93/1990. (V. 14.) MT r. 3/1986. (III. 20.) ÉVM r., módosította a 16/1990. (V. 14.) KÖHÉM rendeletben foglaltaknak megfelelõen.]; 8042 Máshova nem sorolt felnõtt- és egyéb oktatás; 8514 Egyéb humán-egészségügyi ellátás [78/1986. (VIII. 10.) EüM r. 6., 9­10. §. 63/1984. (XII. 19.) MT r. 1. § (1) bekezdésben foglaltak szerint.]; 9261 Sportlétesítmény mûködtetése; 9304 Fizikai közérzetet javító szolgáltatás; 9305 Máshova nem sorolt, egyéb szolgáltatás; 7011 Ingatlanberuházás, -eladás; 7032 Ingatlankezelés; 7487 Máshová nem sorolt, egyéb gazdasági szolgáltatás; 9272 Máshova nem sorolható, egyéb szabadidõs tevékenység; 9302 Fodrászat, szépségápolás; 7470 Takarítás, tisztítás; 5510 Szállodai szolgáltatás; 5523 Egyéb szálláshely-szolgáltatás; 5530 Étkezõhelyi vendéglátás; 5540 Bárok, hasonló vendéglátás; 5551 Munkahelyi étkeztetés; 5552 Közétkeztetés.<ujsor/>
-Az alapító a társaság alaptõkéjének összegét 35 000 000 Ft-ban (harmincötmillió forintban) állapítja meg.<ujsor/>
-A társaság alaptõkéje a következõ részvényekre oszlik:<ujsor/>
-Darab Névérték (Ft) Össznévérték (Ft)<ujsor/>
-„A” részvénysorozat, 175 200 000 35 000 000<ujsor/>
-A társaság felügyelõbizottsága: dr. Kriveczky György (a. n.: Bába Antónia; 6726 Szeged, Udvarhely u. 28.; Lukács Ferenc (a. n.: Jávor Katalin; 8380 Hévíz, Zrínyi u. 16.), Koditek Pál (a. n.: Kottra Magdolna; 2500 Esztergom, Mindszenty tér 4.), Tóth József (a. n.: Gál Margit; 2509 Esztergom-Kertváros, Erkel u. 4.).<ujsor/>
-Egységes szerkezetû alapító okirat aláírásának napja: 2006. június 29.<ujsor/>
-A szerzõdõ felek rögzítik, hogy a kiválással létrejövõ gazdasági társaság adatai az alábbiak:<ujsor/>
-Formája: korlátolt felelõsségû társaság.<ujsor/>
-Neve: Esztergomi Fürdõ Építõipari Szolgáltató Kft.<ujsor/>
-Rövidített neve: Esztergomi Fürdõ Kft.<ujsor/>
-Székhelye: 2500 Esztergom, Táncsics M. u. 5.<ujsor/>
-Idõtartama: határozatlan idõtartam.<ujsor/>
-Cégjegyzésre jogosult: Lengyel József (6725 Szeged, Szent Ferenc u. 7.).<ujsor/>
-A cégjegyzésre jogosult tisztsége: ügyvezetõ.<ujsor/>
-A társaság tevékenységi körei (TEÁOR ‘03): 4511 Épületbontás, földmunka; 4512 Talajmintavétel, próbafúrás; 4521 Épület, híd, alagút, közmû, vezeték építése; 4522 Tetõszerkezet-építés, tetõfedés, vízszigetelés; 4523 Autópálya, út, repülõtér, sport játéktér építése; 4524 Vízi létesítmény építése; 4525 Egyéb speciális szaképítés; 4531 Villanyszerelés; 4532 Szigetelés; 4533 Víz-, gáz-, fûtésszerelés; 4534 Egyéb épületgépészeti szerelés; 4541 Vakolás; 4542 Épületasztalos-szerkezet szerelése; 4543 Padló-, falburkolás; 4544 Festés, üvegezés; 4545 Egyéb befejezõ építés; 4550 Építési, bontási eszköz kölcsönzése személyzettel; 7132 Építõipari gép kölcsönzése; 7310 Mûszaki kutatás, fejlesztés; 7430 Mûszaki vizsgálat, elemzés; 7487 Máshová nem sorolt, egyéb gazdasági szolgáltatás; 7420 Mérnöki tevékenység, tanácsadás [8/1986. (III. 28.) MT r., módosította a 93/1990. (V 14.) MT. r., 3/1986. (III. 20.) ÉVM r., módosította a 16/1990. (V. 14.) KÖHÉM rendeletben foglaltaknak megfelelõen.]<ujsor/>
-A társasági szerzõdés aláírásának idõpontja: 2006. június 29.<ujsor/>
-A szétválás elõtti ­ Esztergomi Fürdõ (SPA) Szolgáltató Zrt. ­ gazdasági társaság vagyonmérleg-tervezete:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-A) Befektetett eszközök 188 985 D) Saját tõke 36 957<ujsor/>
-I. Immateriális javak 77 I. Jegyzett tõke 35 000<ujsor/>
-II. Tárgyi eszközök 188 908 II. Tõketartalék 0<ujsor/>
-B) Forgóeszközök 139 446 III. Eredménytartalék 1 957<ujsor/>
-I. Készletek 27 970 F) Kötelezettségek 320 581<ujsor/>
-II. Követelések 91 629 I. Hátra sorolt kötelezettségek 70 000<ujsor/>
-III. Pénzeszközök 19 847 II. Hosszú lejáratú kötelezettségek 33 410<ujsor/>
-C) Aktív idõbeli elhatárolások 42 741 III. Rövid lejáratú kötelezettségek 217 171<ujsor/>
-G) Passzív idõbeli elhatárolások 13 634<ujsor/>
-ÖSSZESEN: 371 172 ÖSSZESEN: 371 172<ujsor/>
-A fennmaradó ­ Esztergomi Fürdõ (SPA) Szolgáltató Zrt. ­ gazdasági társaság vagyonmérleg-tervezete:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-A) Befektetett eszközök 188 985 D) Saját tõke 35 457<ujsor/>
-I. Immateriális javak 77 I. Jegyzett tõke 35 000<ujsor/>
-II. Tárgyi eszközök 188 908 II. Tõketartalék 0<ujsor/>
-B) Forgóeszközök 137 946 III. Eredménytartalék 457<ujsor/>
-I. Készletek 27 970 F) Kötelezettségek 320 581<ujsor/>
-II. Követelések 91 629 I. Hátra sorolt kötelezettségek 70 000<ujsor/>
-III. Pénzeszközök 18 347 II. Hosszú lejáratú kötelezettségek 33 140<ujsor/>
-C) Aktív idõbeli elhatárolások 42 741 III. Rövid lejáratú kötelezettségek 217 171<ujsor/>
-G) Passzív idõbeli elhatárolások 13 634<ujsor/>
-ÖSSZESEN: 369 672 ÖSSZESEN: 369 672<ujsor/>
-A kiválással létrejövõ ­ Esztergomi Fürdõ Építõipari Szolgáltató Kft. ­ gazdasági társaság vagyonmérleg-tervezete:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-A) Befektetett eszközök 0 D) Saját tõke 3000<ujsor/>
-I. Immateriális javak 0 I. Jegyzett tõke 3000<ujsor/>
-II. Tárgyi eszközök 0 II. Tõketartalék<ujsor/>
-B) Forgóeszközök 3000 III. Eredménytartalék 3000<ujsor/>
-I. Készletek 0 F) Kötelezettségek 0<ujsor/>
-II. Követelések 0 I. Hátra sorolt kötelezettségek<ujsor/>
-III. Pénzeszközök 3000 II. Hosszú lejáratú kötelezettségek 0<ujsor/>
-C) Aktív idõbeli elhatárolások 0 III. Rövid lejáratú kötelezettségek 0<ujsor/>
-G) Passzív idõbeli elhatárolások 0<ujsor/>
-ÖSSZESEN: 3000 ÖSSZESEN: 3000<ujsor/>
-A szétváló gazdasági társaság jogutódai ­ ideértve azt a gazdasági társaságot is, amelybõl a kiválás történt (fennmaradó gazdasági társaság) ­ a gazdasági társaságnak a szétválás elõtt keletkezett kötelezettségeiért az alábbi arányban felelnek: fennmaradó társaság: 100%, kiváló társaság 0%.<ujsor/>
-A vagyonleltár-tervezetek részletesen szabályozzák a fennmaradó és kiváló gazdasági társaságok közötti vagyonmegosztást.<ujsor/>
-Felhívjuk a figyelmet arra, hogy az átalakulás az átalakuló gazdasági társasággal szemben fennálló követeléseket nem teszi lejárttá.<ujsor/>
-Azok a hitelezõk, akiknek az átalakuló gazdasági társasággal szemben fennálló, le nem járt követelései az átalakulásról hozott döntés elsõ közzétételét megelõzõen keletkeztek, követeléseik erejéig az átalakuló gazdasági társaságtól a döntés második közzétételét követõ harmincnapos jogvesztõ határidõn belül biztosítékot követelhetnek.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">A KomÃ¡rom-Esztergom Megyei BÃ­rÃ³sÃ¡gnÃ¡l bejegyzett Esztergomi FÃ¼rdÅ‘ (SPA) SzolgÃ¡ltatÃ³ Zrt. (Cg.: [11 10 001609]; szÃ©khelye: 2500 Esztergom, TÃ¡ncsics M. u. 5.; kÃ©pviseli: Lengyel JÃ³zsef vezÃ©rigazgatÃ³) legfÅ‘bb szerve Â­ alapÃ­tÃ³ja Â­ 2006. jÃºnius 29-Ã©n dÃ¶ntÃ¶tt a tÃ¡rsasÃ¡g<ujsor/>
+szÃ©tvÃ¡lÃ¡ssal<ujsor/>
+tÃ¶rtÃ©nÅ‘ Ã¡talakulÃ¡sÃ¡rÃ³l.<ujsor/>
+A szÃ©tvÃ¡lÃ¡s kivÃ¡lÃ¡ssal tÃ¶rtÃ©nik.<ujsor/>
+A szÃ©tvÃ¡lÃ¡si szerzÅ‘dÃ©s alÃ¡Ã­rÃ¡sÃ¡nak napja: 2006. jÃºnius 29.<ujsor/>
+A szÃ©tvÃ¡lÃ¡ssal Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g adatai az Ã¡talakulÃ¡s utÃ¡n:<ujsor/>
+FormÃ¡ja: zÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ rÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡ma: [11 10 001609].<ujsor/>
+Neve: Esztergomi FÃ¼rdÅ‘ (SPA) SzolgÃ¡ltatÃ³ Zrt.<ujsor/>
+SzÃ©khelye: 2500 Esztergom, TÃ¡ncsics M. u. 5.<ujsor/>
+IdÅ‘tartama: hatÃ¡rozatlan idÅ‘tartam.<ujsor/>
+CÃ©gjegyzÃ©sre jogosult: Lengyel JÃ³zsef vezÃ©rigazgatÃ³ (6725 Szeged, Szent Ferenc u. 7.).<ujsor/>
+A tÃ¡rsasÃ¡g tevÃ©kenysÃ©gi kÃ¶rei (TEÃOR â€˜03): <ujsor/>
+A tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©ge: 9304 Fizikai kÃ¶zÃ©rzetet javÃ­tÃ³ szolgÃ¡ltatÃ¡s.<ujsor/>
+A tÃ¡rsasÃ¡g egyÃ©b tevÃ©kenysÃ©gi kÃ¶rei: 4030 GÅ‘z-, melegvÃ­zellÃ¡tÃ¡s; 4100 VÃ­ztermelÃ©s, -kezelÃ©s, -elosztÃ¡s [1991. Ã©vi XVI. tv. 1. Â§ (1) bekezdÃ©s c)Â­d) Ã©s f) pont. 1988. Ã©vi VI. tv. 4. Â§ (2) bekezdÃ©sben foglaltaknak megfelelÅ‘en.]; 6330 UtazÃ¡sszervezÃ©s; [15/1989. (IX. 7.) KeM rendeletben foglaltaknak megfelelÅ‘en. 2/1992. (I. 13.) IKM rendelet 2. Â§]; 7020 Ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se; 7140 FogyasztÃ¡si cikk kÃ¶lcsÃ¶nzÃ©se; 7420 MÃ©rnÃ¶ki tevÃ©kenysÃ©g, tanÃ¡csadÃ¡s [8/1986. (III. 28.) MT r., mÃ³dosÃ­totta a 93/1990. (V. 14.) MT r. 3/1986. (III. 20.) Ã‰VM r., mÃ³dosÃ­totta a 16/1990. (V. 14.) KÃ–HÃ‰M rendeletben foglaltaknak megfelelÅ‘en.]; 8042 MÃ¡shova nem sorolt felnÅ‘tt- Ã©s egyÃ©b oktatÃ¡s; 8514 EgyÃ©b humÃ¡n-egÃ©szsÃ©gÃ¼gyi ellÃ¡tÃ¡s [78/1986. (VIII. 10.) EÃ¼M r. 6., 9Â­10. Â§. 63/1984. (XII. 19.) MT r. 1. Â§ (1) bekezdÃ©sben foglaltak szerint.]; 9261 SportlÃ©tesÃ­tmÃ©ny mÅ±kÃ¶dtetÃ©se; 9304 Fizikai kÃ¶zÃ©rzetet javÃ­tÃ³ szolgÃ¡ltatÃ¡s; 9305 MÃ¡shova nem sorolt, egyÃ©b szolgÃ¡ltatÃ¡s; 7011 IngatlanberuhÃ¡zÃ¡s, -eladÃ¡s; 7032 IngatlankezelÃ©s; 7487 MÃ¡shovÃ¡ nem sorolt, egyÃ©b gazdasÃ¡gi szolgÃ¡ltatÃ¡s; 9272 MÃ¡shova nem sorolhatÃ³, egyÃ©b szabadidÅ‘s tevÃ©kenysÃ©g; 9302 FodrÃ¡szat, szÃ©psÃ©gÃ¡polÃ¡s; 7470 TakarÃ­tÃ¡s, tisztÃ­tÃ¡s; 5510 SzÃ¡llodai szolgÃ¡ltatÃ¡s; 5523 EgyÃ©b szÃ¡llÃ¡shely-szolgÃ¡ltatÃ¡s; 5530 Ã‰tkezÅ‘helyi vendÃ©glÃ¡tÃ¡s; 5540 BÃ¡rok, hasonlÃ³ vendÃ©glÃ¡tÃ¡s; 5551 Munkahelyi Ã©tkeztetÃ©s; 5552 KÃ¶zÃ©tkeztetÃ©s.<ujsor/>
+Az alapÃ­tÃ³ a tÃ¡rsasÃ¡g alaptÅ‘kÃ©jÃ©nek Ã¶sszegÃ©t 35 000 000 Ft-ban (harmincÃ¶tmilliÃ³ forintban) Ã¡llapÃ­tja meg.<ujsor/>
+A tÃ¡rsasÃ¡g alaptÅ‘kÃ©je a kÃ¶vetkezÅ‘ rÃ©szvÃ©nyekre oszlik:<ujsor/>
+Darab NÃ©vÃ©rtÃ©k (Ft) Ã–ssznÃ©vÃ©rtÃ©k (Ft)<ujsor/>
+â€Aâ€ rÃ©szvÃ©nysorozat, 175 200 000 35 000 000<ujsor/>
+A tÃ¡rsasÃ¡g felÃ¼gyelÅ‘bizottsÃ¡ga: dr. Kriveczky GyÃ¶rgy (a. n.: BÃ¡ba AntÃ³nia; 6726 Szeged, Udvarhely u. 28.; LukÃ¡cs Ferenc (a. n.: JÃ¡vor Katalin; 8380 HÃ©vÃ­z, ZrÃ­nyi u. 16.), Koditek PÃ¡l (a. n.: Kottra Magdolna; 2500 Esztergom, Mindszenty tÃ©r 4.), TÃ³th JÃ³zsef (a. n.: GÃ¡l Margit; 2509 Esztergom-KertvÃ¡ros, Erkel u. 4.).<ujsor/>
+EgysÃ©ges szerkezetÅ± alapÃ­tÃ³ okirat alÃ¡Ã­rÃ¡sÃ¡nak napja: 2006. jÃºnius 29.<ujsor/>
+A szerzÅ‘dÅ‘ felek rÃ¶gzÃ­tik, hogy a kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ gazdasÃ¡gi tÃ¡rsasÃ¡g adatai az alÃ¡bbiak:<ujsor/>
+FormÃ¡ja: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+Neve: Esztergomi FÃ¼rdÅ‘ Ã‰pÃ­tÅ‘ipari SzolgÃ¡ltatÃ³ Kft.<ujsor/>
+RÃ¶vidÃ­tett neve: Esztergomi FÃ¼rdÅ‘ Kft.<ujsor/>
+SzÃ©khelye: 2500 Esztergom, TÃ¡ncsics M. u. 5.<ujsor/>
+IdÅ‘tartama: hatÃ¡rozatlan idÅ‘tartam.<ujsor/>
+CÃ©gjegyzÃ©sre jogosult: Lengyel JÃ³zsef (6725 Szeged, Szent Ferenc u. 7.).<ujsor/>
+A cÃ©gjegyzÃ©sre jogosult tisztsÃ©ge: Ã¼gyvezetÅ‘.<ujsor/>
+A tÃ¡rsasÃ¡g tevÃ©kenysÃ©gi kÃ¶rei (TEÃOR â€˜03): 4511 Ã‰pÃ¼letbontÃ¡s, fÃ¶ldmunka; 4512 TalajmintavÃ©tel, prÃ³bafÃºrÃ¡s; 4521 Ã‰pÃ¼let, hÃ­d, alagÃºt, kÃ¶zmÅ±, vezetÃ©k Ã©pÃ­tÃ©se; 4522 TetÅ‘szerkezet-Ã©pÃ­tÃ©s, tetÅ‘fedÃ©s, vÃ­zszigetelÃ©s; 4523 AutÃ³pÃ¡lya, Ãºt, repÃ¼lÅ‘tÃ©r, sport jÃ¡tÃ©ktÃ©r Ã©pÃ­tÃ©se; 4524 VÃ­zi lÃ©tesÃ­tmÃ©ny Ã©pÃ­tÃ©se; 4525 EgyÃ©b speciÃ¡lis szakÃ©pÃ­tÃ©s; 4531 VillanyszerelÃ©s; 4532 SzigetelÃ©s; 4533 VÃ­z-, gÃ¡z-, fÅ±tÃ©sszerelÃ©s; 4534 EgyÃ©b Ã©pÃ¼letgÃ©pÃ©szeti szerelÃ©s; 4541 VakolÃ¡s; 4542 Ã‰pÃ¼letasztalos-szerkezet szerelÃ©se; 4543 PadlÃ³-, falburkolÃ¡s; 4544 FestÃ©s, Ã¼vegezÃ©s; 4545 EgyÃ©b befejezÅ‘ Ã©pÃ­tÃ©s; 4550 Ã‰pÃ­tÃ©si, bontÃ¡si eszkÃ¶z kÃ¶lcsÃ¶nzÃ©se szemÃ©lyzettel; 7132 Ã‰pÃ­tÅ‘ipari gÃ©p kÃ¶lcsÃ¶nzÃ©se; 7310 MÅ±szaki kutatÃ¡s, fejlesztÃ©s; 7430 MÅ±szaki vizsgÃ¡lat, elemzÃ©s; 7487 MÃ¡shovÃ¡ nem sorolt, egyÃ©b gazdasÃ¡gi szolgÃ¡ltatÃ¡s; 7420 MÃ©rnÃ¶ki tevÃ©kenysÃ©g, tanÃ¡csadÃ¡s [8/1986. (III. 28.) MT r., mÃ³dosÃ­totta a 93/1990. (V 14.) MT. r., 3/1986. (III. 20.) Ã‰VM r., mÃ³dosÃ­totta a 16/1990. (V. 14.) KÃ–HÃ‰M rendeletben foglaltaknak megfelelÅ‘en.]<ujsor/>
+A tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s alÃ¡Ã­rÃ¡sÃ¡nak idÅ‘pontja: 2006. jÃºnius 29.<ujsor/>
+A szÃ©tvÃ¡lÃ¡s elÅ‘tti Â­ Esztergomi FÃ¼rdÅ‘ (SPA) SzolgÃ¡ltatÃ³ Zrt. Â­ gazdasÃ¡gi tÃ¡rsasÃ¡g vagyonmÃ©rleg-tervezete:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 188 985 D) SajÃ¡t tÅ‘ke 36 957<ujsor/>
+I. ImmateriÃ¡lis javak 77 I. Jegyzett tÅ‘ke 35 000<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 188 908 II. TÅ‘ketartalÃ©k 0<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 139 446 III. EredmÃ©nytartalÃ©k 1 957<ujsor/>
+I. KÃ©szletek 27 970 F) KÃ¶telezettsÃ©gek 320 581<ujsor/>
+II. KÃ¶vetelÃ©sek 91 629 I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek 70 000<ujsor/>
+III. PÃ©nzeszkÃ¶zÃ¶k 19 847 II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 33 410<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 42 741 III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 217 171<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 13 634<ujsor/>
+Ã–SSZESEN: 371 172 Ã–SSZESEN: 371 172<ujsor/>
+A fennmaradÃ³ Â­ Esztergomi FÃ¼rdÅ‘ (SPA) SzolgÃ¡ltatÃ³ Zrt. Â­ gazdasÃ¡gi tÃ¡rsasÃ¡g vagyonmÃ©rleg-tervezete:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 188 985 D) SajÃ¡t tÅ‘ke 35 457<ujsor/>
+I. ImmateriÃ¡lis javak 77 I. Jegyzett tÅ‘ke 35 000<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 188 908 II. TÅ‘ketartalÃ©k 0<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 137 946 III. EredmÃ©nytartalÃ©k 457<ujsor/>
+I. KÃ©szletek 27 970 F) KÃ¶telezettsÃ©gek 320 581<ujsor/>
+II. KÃ¶vetelÃ©sek 91 629 I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek 70 000<ujsor/>
+III. PÃ©nzeszkÃ¶zÃ¶k 18 347 II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 33 140<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 42 741 III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 217 171<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 13 634<ujsor/>
+Ã–SSZESEN: 369 672 Ã–SSZESEN: 369 672<ujsor/>
+A kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ Â­ Esztergomi FÃ¼rdÅ‘ Ã‰pÃ­tÅ‘ipari SzolgÃ¡ltatÃ³ Kft. Â­ gazdasÃ¡gi tÃ¡rsasÃ¡g vagyonmÃ©rleg-tervezete:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 0 D) SajÃ¡t tÅ‘ke 3000<ujsor/>
+I. ImmateriÃ¡lis javak 0 I. Jegyzett tÅ‘ke 3000<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 0 II. TÅ‘ketartalÃ©k<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 3000 III. EredmÃ©nytartalÃ©k 3000<ujsor/>
+I. KÃ©szletek 0 F) KÃ¶telezettsÃ©gek 0<ujsor/>
+II. KÃ¶vetelÃ©sek 0 I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek<ujsor/>
+III. PÃ©nzeszkÃ¶zÃ¶k 3000 II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 0 III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 0<ujsor/>
+Ã–SSZESEN: 3000 Ã–SSZESEN: 3000<ujsor/>
+A szÃ©tvÃ¡lÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g jogutÃ³dai Â­ ideÃ©rtve azt a gazdasÃ¡gi tÃ¡rsasÃ¡got is, amelybÅ‘l a kivÃ¡lÃ¡s tÃ¶rtÃ©nt (fennmaradÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g) Â­ a gazdasÃ¡gi tÃ¡rsasÃ¡gnak a szÃ©tvÃ¡lÃ¡s elÅ‘tt keletkezett kÃ¶telezettsÃ©geiÃ©rt az alÃ¡bbi arÃ¡nyban felelnek: fennmaradÃ³ tÃ¡rsasÃ¡g: 100%, kivÃ¡lÃ³ tÃ¡rsasÃ¡g 0%.<ujsor/>
+A vagyonleltÃ¡r-tervezetek rÃ©szletesen szabÃ¡lyozzÃ¡k a fennmaradÃ³ Ã©s kivÃ¡lÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gok kÃ¶zÃ¶tti vagyonmegosztÃ¡st.<ujsor/>
+FelhÃ­vjuk a figyelmet arra, hogy az Ã¡talakulÃ¡s az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³ kÃ¶vetelÃ©seket nem teszi lejÃ¡rttÃ¡.<ujsor/>
+Azok a hitelezÅ‘k, akiknek az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei az Ã¡talakulÃ¡srÃ³l hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gtÃ³l a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110001609</mezo>
-<mezo id = "nev">ESZTERGOMI FÜRDÕ (SPA)Szolgáltató Részvénytársaság</mezo>
+<mezo id = "nev">ESZTERGOMI FÃœRDÅ (SPA)SzolgÃ¡ltatÃ³ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">2500 Esztergom</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a társaság felügyelõbizottsági tagok jogviszonya változásának bejegyzésére irányuló kérelmet elutasítja.<ujsor/>
-A végzés ellen a kézbesítéstõl számított 15 (tizenöt) napon belül a Fõvárosi Ïtélõtáblához címzett, de a Komárom-Esztergom Megyei Bíróságnál, mint Cégbíróságnál 3 (három) példányban benyújtható fellebbezésnek van helye. A fellebbezés elsõ példányára 7.000.-Ft (hétezer forint) eljárási illetéket kell leróni. A Fõvárosi Ïtélõtábla elõtti eljárásban a fellebbezõ fél részére a jogi képviselet kötelezõ.<ujsor/>
-Az elutasító végzés ellen a cég, továbbá az akire a végzés rendelkezést tartalmaz - a rendelkezés rá vonatkozó része ellen- a cég számára nyitva álló határidõn belül - élhet fellebbezéssel.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a tÃ¡rsasÃ¡g felÃ¼gyelÅ‘bizottsÃ¡gi tagok jogviszonya vÃ¡ltozÃ¡sÃ¡nak bejegyzÃ©sÃ©re irÃ¡nyulÃ³ kÃ©relmet elutasÃ­tja.<ujsor/>
+A vÃ©gzÃ©s ellen a kÃ©zbesÃ­tÃ©stÅ‘l szÃ¡mÃ­tott 15 (tizenÃ¶t) napon belÃ¼l a FÅ‘vÃ¡rosi ÄtÃ©lÅ‘tÃ¡blÃ¡hoz cÃ­mzett, de a KomÃ¡rom-Esztergom Megyei BÃ­rÃ³sÃ¡gnÃ¡l, mint CÃ©gbÃ­rÃ³sÃ¡gnÃ¡l 3 (hÃ¡rom) pÃ©ldÃ¡nyban benyÃºjthatÃ³ fellebbezÃ©snek van helye. A fellebbezÃ©s elsÅ‘ pÃ©ldÃ¡nyÃ¡ra 7.000.-Ft (hÃ©tezer forint) eljÃ¡rÃ¡si illetÃ©ket kell lerÃ³ni. A FÅ‘vÃ¡rosi ÄtÃ©lÅ‘tÃ¡bla elÅ‘tti eljÃ¡rÃ¡sban a fellebbezÅ‘ fÃ©l rÃ©szÃ©re a jogi kÃ©pviselet kÃ¶telezÅ‘.<ujsor/>
+Az elutasÃ­tÃ³ vÃ©gzÃ©s ellen a cÃ©g, tovÃ¡bbÃ¡ az akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s rÃ¡ vonatkozÃ³ rÃ©sze ellen- a cÃ©g szÃ¡mÃ¡ra nyitva Ã¡llÃ³ hatÃ¡ridÅ‘n belÃ¼l - Ã©lhet fellebbezÃ©ssel.<ujsor/>
 2010. szeptember 9.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1110001609</mezo>
-<mezo id = "nev">ESZTERGOMI FÜRDÕ (SPA) Szolgáltató Zrt.</mezo>
-<mezo id = "cim">2500 Esztergom, Táncsics Mihály utca 5.</mezo>
+<mezo id = "nev">ESZTERGOMI FÃœRDÅ (SPA) SzolgÃ¡ltatÃ³ Zrt.</mezo>
+<mezo id = "cim">2500 Esztergom, TÃ¡ncsics MihÃ¡ly utca 5.</mezo>
 <mezo id = "adosz">13206873211</mezo>
 </alrovat>
 </rovat>

@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">113143</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">2045 Törökbálint, Hosszúrét utca 1. </mezo>
+<mezo id = "cim">2045 TÃ¶rÃ¶kbÃ¡lint, HosszÃºrÃ©t utca 1. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">13957940213</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20070510</mezo>
-<mezo id = "nev">ProjectMine Gazdasági Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">ProjectMine GazdasÃ¡gi TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -30,8 +30,8 @@
 <alrovat id = "1">
 <mezo id = "hattol">20070510</mezo>
 <mezo id = "irsz">2045</mezo>
-<mezo id = "hely">Törökbálint</mezo>
-<mezo id = "teru">Hosszúrét utca 1.</mezo>
+<mezo id = "hely">TÃ¶rÃ¶kbÃ¡lint</mezo>
+<mezo id = "teru">HosszÃºrÃ©t utca 1.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
@@ -629,7 +629,7 @@
 <mezo id = "hattol">20091218</mezo>
 <mezo id = "valtk">20091218</mezo>
 <mezo id = "bkelt">20100112</mezo>
-<mezo id = "teaszov">Üzletviteli,egyéb vezetési tanácsadás</mezo>
+<mezo id = "teaszov">Ãœzletviteli,egyÃ©b vezetÃ©si tanÃ¡csadÃ¡s</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -646,9 +646,9 @@
 <rovat id = "13">
 <alrovat id = "6">
 <mezo id = "hattol">20091218</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "pnev">Semperger Kinga</mezo>
-<mezo id = "panev">Réczi Kinga Mária</mezo>
+<mezo id = "panev">RÃ©czi Kinga MÃ¡ria</mezo>
 <mezo id = "pirsz">1067</mezo>
 <mezo id = "phely">Budapest</mezo>
 <mezo id = "pteru">Szondi utca 23. IV. em. 28.</mezo>
@@ -659,12 +659,12 @@
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">20091218</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Barabás Tamás</mezo>
-<mezo id = "panev">Terebesi Erika Mária</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">BarabÃ¡s TamÃ¡s</mezo>
+<mezo id = "panev">Terebesi Erika MÃ¡ria</mezo>
 <mezo id = "pirsz">1043</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Tél utca 3-7. VI. em. 4.</mezo>
+<mezo id = "pteru">TÃ©l utca 3-7. VI. em. 4.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20070423</mezo>
 <mezo id = "valtk">20091218</mezo>
@@ -681,14 +681,14 @@
 <alrovat id = "2">
 <mezo id = "adosz">13957940213</mezo>
 <mezo id = "bkelt">20110530</mezo>
-<mezo id = "megj">Adószám státusza: érvényes adószám</mezo>
+<mezo id = "megj">AdÃ³szÃ¡m stÃ¡tusza: Ã©rvÃ©nyes adÃ³szÃ¡m</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0109">
 <alrovat id = "5">
 <mezo id = "hattol">20071205</mezo>
 <mezo id = "pnev">Semperger Kinga</mezo>
-<mezo id = "panev">Réczi Kinga Mária</mezo>
+<mezo id = "panev">RÃ©czi Kinga MÃ¡ria</mezo>
 <mezo id = "pirsz">1067</mezo>
 <mezo id = "phely">Budapest, Szondi u. 23. 4/28.</mezo>
 <mezo id = "tagsk">20071205</mezo>
@@ -700,8 +700,8 @@
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">20110127</mezo>
-<mezo id = "pnev">Barabás Tamás</mezo>
-<mezo id = "panev">Terebesi Erika Mária</mezo>
+<mezo id = "pnev">BarabÃ¡s TamÃ¡s</mezo>
+<mezo id = "panev">Terebesi Erika MÃ¡ria</mezo>
 <mezo id = "pirsz">1032</mezo>
 <mezo id = "phely">Budapest</mezo>
 <mezo id = "pteru">Gyenes utca 1. VIII. em. 4.</mezo>

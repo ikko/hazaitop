@@ -6,7 +6,7 @@
 <mezo id = "szam">000037</mezo>
 <mezo id = "nevalrovat">1</mezo>
 <mezo id = "allapot">6</mezo>
-<mezo id = "cim">9700 Szombathely, Kisfaludy Sándor utca 57. </mezo>
+<mezo id = "cim">9700 Szombathely, Kisfaludy SÃ¡ndor utca 57. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">21822049218</mezo>
 </alrovat>
@@ -14,13 +14,13 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20030814</mezo>
-<mezo id = "nev">Régiófókusz Vállalkozás-, Humánerõforrás,- és Környezetfejlesztési Közhasznú Társaság</mezo>
+<mezo id = "nev">RÃ©giÃ³fÃ³kusz VÃ¡llalkozÃ¡s-, HumÃ¡nerÅ‘forrÃ¡s,- Ã©s KÃ¶rnyezetfejlesztÃ©si KÃ¶zhasznÃº TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">20030814</mezo>
-<mezo id = "nev">Régiófókusz Kht.</mezo>
+<mezo id = "nev">RÃ©giÃ³fÃ³kusz Kht.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
@@ -28,14 +28,14 @@
 <mezo id = "hattol">20030814</mezo>
 <mezo id = "irsz">9700</mezo>
 <mezo id = "hely">Szombathely</mezo>
-<mezo id = "teru">Kisfaludy Sándor utca 57.</mezo>
+<mezo id = "teru">Kisfaludy SÃ¡ndor utca 57.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "7">
 <alrovat id = "1">
 <mezo id = "hattol">20060804</mezo>
 <mezo id = "irsz">9345</mezo>
-<mezo id = "hely">Páli, Vasút u. 4.</mezo>
+<mezo id = "hely">PÃ¡li, VasÃºt u. 4.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20060726</mezo>
 <mezo id = "valtv">0</mezo>
@@ -43,7 +43,7 @@
 <alrovat id = "2">
 <mezo id = "hattol">20060804</mezo>
 <mezo id = "irsz">9345</mezo>
-<mezo id = "hely">Páli, Kossuth L. u. 37.</mezo>
+<mezo id = "hely">PÃ¡li, Kossuth L. u. 37.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20060726</mezo>
 <mezo id = "valtv">0</mezo>
@@ -392,10 +392,10 @@
 <rovat id = "13">
 <alrovat id = "2">
 <mezo id = "hattol">20050908</mezo>
-<mezo id = "pnev">Hutflesz Mihály</mezo>
-<mezo id = "panev">Plézer Erzsébet</mezo>
+<mezo id = "pnev">Hutflesz MihÃ¡ly</mezo>
+<mezo id = "panev">PlÃ©zer ErzsÃ©bet</mezo>
 <mezo id = "pirsz">9700</mezo>
-<mezo id = "phely">Szombathely, Szövõ u. 57.</mezo>
+<mezo id = "phely">Szombathely, SzÃ¶vÅ‘ u. 57.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">2</mezo>
 <mezo id = "jogvk">20030723</mezo>
@@ -406,16 +406,16 @@
 <alrovat id = "2">
 <mezo id = "hattol">20050908</mezo>
 <mezo id = "cgjsz">1806102536</mezo>
-<mezo id = "nev">Káró-Adó Könyvvizsgáló és Gazdasági Tanácsadó Betéti Társaság</mezo>
+<mezo id = "nev">KÃ¡rÃ³-AdÃ³ KÃ¶nyvvizsgÃ¡lÃ³ Ã©s GazdasÃ¡gi TanÃ¡csadÃ³ BetÃ©ti TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">9700</mezo>
 <mezo id = "hely">Szombathely</mezo>
-<mezo id = "teru">Külsõ Nárai u.</mezo>
+<mezo id = "teru">KÃ¼lsÅ‘ NÃ¡rai u.</mezo>
 <mezo id = "hsz">6.</mezo>
-<mezo id = "pnev">Károlyiné Sebestyén Éva</mezo>
-<mezo id = "panev">Kaszdorf Erzsébet</mezo>
+<mezo id = "pnev">KÃ¡rolyinÃ© SebestyÃ©n Ã‰va</mezo>
+<mezo id = "panev">Kaszdorf ErzsÃ©bet</mezo>
 <mezo id = "pirsz">9700</mezo>
-<mezo id = "phely">Szombathely, Külsõ Nárai u. 6.</mezo>
+<mezo id = "phely">Szombathely, KÃ¼lsÅ‘ NÃ¡rai u. 6.</mezo>
 <mezo id = "jogvk">20030723</mezo>
 <mezo id = "jogvv">20080723</mezo>
 </alrovat>
@@ -424,16 +424,16 @@
 <alrovat id = "4">
 <mezo id = "hattol">20050908</mezo>
 <mezo id = "pnev">Babos Csaba</mezo>
-<mezo id = "panev">Kenedli Mária</mezo>
+<mezo id = "panev">Kenedli MÃ¡ria</mezo>
 <mezo id = "pirsz">9700</mezo>
-<mezo id = "phely">Szombathely, Szent László király u. 39.</mezo>
+<mezo id = "phely">Szombathely, Szent LÃ¡szlÃ³ kirÃ¡ly u. 39.</mezo>
 <mezo id = "jogvk">20030723</mezo>
 <mezo id = "jogvv">20080723</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20050908</mezo>
-<mezo id = "pnev">Dr. Kövesdi Zoltán</mezo>
-<mezo id = "panev">Mizda Mária</mezo>
+<mezo id = "pnev">Dr. KÃ¶vesdi ZoltÃ¡n</mezo>
+<mezo id = "panev">Mizda MÃ¡ria</mezo>
 <mezo id = "pirsz">9700</mezo>
 <mezo id = "phely">Szombathely, Babits M. u. 19.</mezo>
 <mezo id = "jogvk">20030723</mezo>
@@ -441,10 +441,10 @@
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20050908</mezo>
-<mezo id = "pnev">Kovács Vince</mezo>
-<mezo id = "panev">Danka Erzsébet</mezo>
+<mezo id = "pnev">KovÃ¡cs Vince</mezo>
+<mezo id = "panev">Danka ErzsÃ©bet</mezo>
 <mezo id = "pirsz">9721</mezo>
-<mezo id = "phely">Gencsapáti , Hunyadi u. 72.</mezo>
+<mezo id = "phely">GencsapÃ¡ti , Hunyadi u. 72.</mezo>
 <mezo id = "jogvk">20030723</mezo>
 <mezo id = "jogvv">20080723</mezo>
 </alrovat>
@@ -466,23 +466,23 @@
 <rovat id = "22">
 <alrovat id = "1">
 <mezo id = "jccjsz">1809108837</mezo>
-<mezo id = "nev">Régiófókusz Vállalkozás-, Humánerõforrás-, és Környezetfejlesztési Nonprofit Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">RÃ©giÃ³fÃ³kusz VÃ¡llalkozÃ¡s-, HumÃ¡nerÅ‘forrÃ¡s-, Ã©s KÃ¶rnyezetfejlesztÃ©si Nonprofit KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0214">
 <alrovat id = "1">
 <mezo id = "hattol">20030814</mezo>
-<mezo id = "pnev">Hutflesz Mihály</mezo>
-<mezo id = "panev">Plézer Erzsébet</mezo>
+<mezo id = "pnev">Hutflesz MihÃ¡ly</mezo>
+<mezo id = "panev">PlÃ©zer ErzsÃ©bet</mezo>
 <mezo id = "pirsz">9700</mezo>
-<mezo id = "phely">Szombathely, Szövõ u. 57.</mezo>
+<mezo id = "phely">Szombathely, SzÃ¶vÅ‘ u. 57.</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20030814</mezo>
-<mezo id = "pnev">Hutfleszné Horváth Katalin</mezo>
+<mezo id = "pnev">HutflesznÃ© HorvÃ¡th Katalin</mezo>
 <mezo id = "panev">Elekes Ilona</mezo>
 <mezo id = "pirsz">9700</mezo>
-<mezo id = "phely">Szombathely, Szövõ u. 57.</mezo>
+<mezo id = "phely">Szombathely, SzÃ¶vÅ‘ u. 57.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "93">

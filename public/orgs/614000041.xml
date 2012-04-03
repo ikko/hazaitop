@@ -6,7 +6,7 @@
 <mezo id = "szam">000041</mezo>
 <mezo id = "nevalrovat">4</mezo>
 <mezo id = "allapot">6</mezo>
-<mezo id = "cim">6720 Szeged, Közép fasor 1-3. </mezo>
+<mezo id = "cim">6720 Szeged, KÃ¶zÃ©p fasor 1-3. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">18461376206</mezo>
 </alrovat>
@@ -14,7 +14,7 @@
 <rovat id = "2">
 <alrovat id = "4">
 <mezo id = "hattol">20071206</mezo>
-<mezo id = "nev">DARFÜ Dél-alföldi Regionális Fejlesztési Ügynökség Közhasznú Társaság</mezo>
+<mezo id = "nev">DARFÃœ DÃ©l-alfÃ¶ldi RegionÃ¡lis FejlesztÃ©si ÃœgynÃ¶ksÃ©g KÃ¶zhasznÃº TÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">20071206</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20080128</mezo>
@@ -24,7 +24,7 @@
 <rovat id = "3">
 <alrovat id = "3">
 <mezo id = "hattol">20071206</mezo>
-<mezo id = "nev">DARFÜ Kht.</mezo>
+<mezo id = "nev">DARFÃœ Kht.</mezo>
 <mezo id = "valtk">20071206</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20080128</mezo>
@@ -36,7 +36,7 @@
 <mezo id = "hattol">20080101</mezo>
 <mezo id = "irsz">6720</mezo>
 <mezo id = "hely">Szeged</mezo>
-<mezo id = "teru">Közép fasor 1-3.</mezo>
+<mezo id = "teru">KÃ¶zÃ©p fasor 1-3.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">20080101</mezo>
 <mezo id = "valtv">0</mezo>
@@ -48,7 +48,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20040525</mezo>
 <mezo id = "irsz">6720</mezo>
-<mezo id = "hely">Szeged, Kígyó u. 4.</mezo>
+<mezo id = "hely">Szeged, KÃ­gyÃ³ u. 4.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "8">
@@ -477,10 +477,10 @@
 <rovat id = "13">
 <alrovat id = "6">
 <mezo id = "hattol">20080609</mezo>
-<mezo id = "pnev">Balogh László</mezo>
-<mezo id = "panev">Ungvári Róza</mezo>
+<mezo id = "pnev">Balogh LÃ¡szlÃ³</mezo>
+<mezo id = "panev">UngvÃ¡ri RÃ³za</mezo>
 <mezo id = "pirsz">2315</mezo>
-<mezo id = "phely">Szigethalom, Ifjúság útja 37/B.</mezo>
+<mezo id = "phely">Szigethalom, IfjÃºsÃ¡g Ãºtja 37/B.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">d</mezo>
 <mezo id = "jogvk">20070601</mezo>
@@ -492,14 +492,14 @@
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">20080609</mezo>
-<mezo id = "pnev">Kissné Kárai Klára</mezo>
+<mezo id = "pnev">KissnÃ© KÃ¡rai KlÃ¡ra</mezo>
 <mezo id = "panev">Fekete Julianna</mezo>
 <mezo id = "pirsz">5904</mezo>
-<mezo id = "phely">Orosháza, Kisvasút u. 14.</mezo>
+<mezo id = "phely">OroshÃ¡za, KisvasÃºt u. 14.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20080609</mezo>
-<mezo id = "mnev">Szittner Péter (igazgatóhelyettes )</mezo>
+<mezo id = "mnev">Szittner PÃ©ter (igazgatÃ³helyettes )</mezo>
 <mezo id = "valtk">20080609</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20081103</mezo>
@@ -507,14 +507,14 @@
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">20080609</mezo>
-<mezo id = "pnev">Szittner Péter</mezo>
-<mezo id = "panev">Kovács Emma Katalin</mezo>
+<mezo id = "pnev">Szittner PÃ©ter</mezo>
+<mezo id = "panev">KovÃ¡cs Emma Katalin</mezo>
 <mezo id = "pirsz">3326</mezo>
-<mezo id = "phely">Ostoros, Hõsök tere 10.</mezo>
+<mezo id = "phely">Ostoros, HÅ‘sÃ¶k tere 10.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20080609</mezo>
-<mezo id = "mnev">Kissné Kárai Klára (igazgatóhelyettes )</mezo>
+<mezo id = "mnev">KissnÃ© KÃ¡rai KlÃ¡ra (igazgatÃ³helyettes )</mezo>
 <mezo id = "valtk">20080609</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20081103</mezo>
@@ -524,10 +524,10 @@
 <rovat id = "14">
 <alrovat id = "5">
 <mezo id = "hattol">20070903</mezo>
-<mezo id = "pnev">Dr. Molnár István</mezo>
-<mezo id = "panev">Szilágyi Erzsébet</mezo>
+<mezo id = "pnev">Dr. MolnÃ¡r IstvÃ¡n</mezo>
+<mezo id = "panev">SzilÃ¡gyi ErzsÃ©bet</mezo>
 <mezo id = "pirsz">6800</mezo>
-<mezo id = "phely">Hódmezõvásárhely, Ifjúság u. 21.</mezo>
+<mezo id = "phely">HÃ³dmezÅ‘vÃ¡sÃ¡rhely, IfjÃºsÃ¡g u. 21.</mezo>
 <mezo id = "jogvk">20070601</mezo>
 <mezo id = "jogvv">20100531</mezo>
 <mezo id = "valtk">0</mezo>
@@ -539,10 +539,10 @@
 <rovat id = "15">
 <alrovat id = "16">
 <mezo id = "hattol">20070903</mezo>
-<mezo id = "pnev">Dr. Csatári Bálint</mezo>
+<mezo id = "pnev">Dr. CsatÃ¡ri BÃ¡lint</mezo>
 <mezo id = "panev">Olajos Julianna</mezo>
 <mezo id = "pirsz">6000</mezo>
-<mezo id = "phely">Kecskemét, Gázló u. 30.</mezo>
+<mezo id = "phely">KecskemÃ©t, GÃ¡zlÃ³ u. 30.</mezo>
 <mezo id = "jogvk">20070601</mezo>
 <mezo id = "jogvv">20100531</mezo>
 <mezo id = "valtk">0</mezo>
@@ -552,10 +552,10 @@
 </alrovat>
 <alrovat id = "17">
 <mezo id = "hattol">20070903</mezo>
-<mezo id = "pnev">Csík András</mezo>
+<mezo id = "pnev">CsÃ­k AndrÃ¡s</mezo>
 <mezo id = "panev">Brachna Zsuzsanna</mezo>
 <mezo id = "pirsz">5900</mezo>
-<mezo id = "phely">Orosháza, Barátság út 5.</mezo>
+<mezo id = "phely">OroshÃ¡za, BarÃ¡tsÃ¡g Ãºt 5.</mezo>
 <mezo id = "jogvk">20070601</mezo>
 <mezo id = "jogvv">20100531</mezo>
 <mezo id = "valtk">0</mezo>
@@ -565,10 +565,10 @@
 </alrovat>
 <alrovat id = "18">
 <mezo id = "hattol">20070903</mezo>
-<mezo id = "pnev">Simicz József</mezo>
+<mezo id = "pnev">Simicz JÃ³zsef</mezo>
 <mezo id = "panev">Farkas Cs. Julianna</mezo>
 <mezo id = "pirsz">6772</mezo>
-<mezo id = "phely">Deszk, Felszabadulás u. 6.</mezo>
+<mezo id = "phely">Deszk, FelszabadulÃ¡s u. 6.</mezo>
 <mezo id = "jogvk">20070601</mezo>
 <mezo id = "jogvv">20100531</mezo>
 <mezo id = "valtk">0</mezo>
@@ -578,10 +578,10 @@
 </alrovat>
 <alrovat id = "19">
 <mezo id = "hattol">20070903</mezo>
-<mezo id = "pnev">Dr. Újszászi Zsófia</mezo>
-<mezo id = "panev">Tamási Stefánia</mezo>
+<mezo id = "pnev">Dr. ÃšjszÃ¡szi ZsÃ³fia</mezo>
+<mezo id = "panev">TamÃ¡si StefÃ¡nia</mezo>
 <mezo id = "pirsz">1016</mezo>
-<mezo id = "phely">Budapest, Gellérthegy u. 31.</mezo>
+<mezo id = "phely">Budapest, GellÃ©rthegy u. 31.</mezo>
 <mezo id = "jogvk">20070601</mezo>
 <mezo id = "jogvv">20100531</mezo>
 <mezo id = "valtk">0</mezo>
@@ -591,10 +591,10 @@
 </alrovat>
 <alrovat id = "20">
 <mezo id = "hattol">20070903</mezo>
-<mezo id = "pnev">Deák István</mezo>
-<mezo id = "panev">Lõrik Ilona</mezo>
+<mezo id = "pnev">DeÃ¡k IstvÃ¡n</mezo>
+<mezo id = "panev">LÅ‘rik Ilona</mezo>
 <mezo id = "pirsz">6000</mezo>
-<mezo id = "phely">Kecskemét, Dobó István krt. 10. IV/7.</mezo>
+<mezo id = "phely">KecskemÃ©t, DobÃ³ IstvÃ¡n krt. 10. IV/7.</mezo>
 <mezo id = "jogvk">20070601</mezo>
 <mezo id = "jogvv">20100531</mezo>
 <mezo id = "valtk">0</mezo>
@@ -632,33 +632,33 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2008. 01. 28-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-05. 6720 Szeged, Közép fasor 1-3.<ujsor/>
- A változás idõpontja: 2008. 01. 01.<ujsor/>
- A változás idõpontja (törlés): 2008. 01. 01.<ujsor/>
- Törölve: 2008. 02. 08.<ujsor/>
- 6726 Szeged, Közép fasor 1-3.<ujsor/>
- A változás idõpontja: 2008. 01. 01.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2008. 01. 28-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+05. 6720 Szeged, KÃ¶zÃ©p fasor 1-3.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 01. 01.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2008. 01. 01.<ujsor/>
+ TÃ¶rÃ¶lve: 2008. 02. 08.<ujsor/>
+ 6726 Szeged, KÃ¶zÃ©p fasor 1-3.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 01. 01.<ujsor/>
  Bejegyezve: 2008. 02. 08.<ujsor/>
 2008. 02. 08.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0614000041</mezo>
-<mezo id = "nev">DARFÜ Dél-alföldi Regionális Fejlesztési Ügynökség Közhasznú Társaság</mezo>
-<mezo id = "cim">6726 Szeged, Közép fasor 1-3.</mezo>
+<mezo id = "nev">DARFÃœ DÃ©l-alfÃ¶ldi RegionÃ¡lis FejlesztÃ©si ÃœgynÃ¶ksÃ©g KÃ¶zhasznÃº TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">6726 Szeged, KÃ¶zÃ©p fasor 1-3.</mezo>
 <mezo id = "adosz">18461376206</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A cég átalakulás miatt a cégjegyzékbõl törölve.<ujsor/>
-A törlés kelte: 2009. 04. 29.<ujsor/>
-Jogutód(ok):<ujsor/>
- [06 09 013906] DARFÜ Dél-alföldi Regionális Fejlesztési Ügynökség Nonprofit Kft. (6720 Szeged, Közép fasor 1-3. ).<ujsor/>
+<mezo id = "szoveg">A cÃ©g Ã¡talakulÃ¡s miatt a cÃ©gjegyzÃ©kbÅ‘l tÃ¶rÃ¶lve.<ujsor/>
+A tÃ¶rlÃ©s kelte: 2009. 04. 29.<ujsor/>
+JogutÃ³d(ok):<ujsor/>
+ [06 09 013906] DARFÃœ DÃ©l-alfÃ¶ldi RegionÃ¡lis FejlesztÃ©si ÃœgynÃ¶ksÃ©g Nonprofit Kft. (6720 Szeged, KÃ¶zÃ©p fasor 1-3. ).<ujsor/>
 Bejegyezve: 2009. 04. 29.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0614000041</mezo>
-<mezo id = "nev">DARFÜ Dél-alföldi Regionális Fejlesztési Ügynökség Közhasznú Társaság</mezo>
-<mezo id = "cim">6726 Szeged, Közép fasor 1-3.</mezo>
+<mezo id = "nev">DARFÃœ DÃ©l-alfÃ¶ldi RegionÃ¡lis FejlesztÃ©si ÃœgynÃ¶ksÃ©g KÃ¶zhasznÃº TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">6726 Szeged, KÃ¶zÃ©p fasor 1-3.</mezo>
 <mezo id = "adosz">18461376206</mezo>
 </alrovat>
 </rovat>

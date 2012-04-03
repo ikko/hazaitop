@@ -48,54 +48,54 @@ namespace :save do
   end
 
   desc 'export manual data to db/manual_#{model}.txt'
-  task :p2p_relation_types => :environment do
-    f = File.open('db/manual_p2p_relation_types.txt', 'w')
+  task :p_to_p_relation_types => :environment do
+    f = File.open('db/manual_p_to_p_relation_types.txt', 'w')
     n = 0
-    x = P2pRelationType.count
-    P2pRelationType.all.each do |r| 
+    x = PToPRelationType.count
+    PToPRelationType.all.each do |r| 
       f.puts("#{r.name}:!:#{r.weight}:!:#{r.visual ? '1' : '0'}:!:#{r.litig ? '1' : '0'}")
       n += 1
-      puts "saving p2p rel type #{r.name} ... #{(n.to_f / x * 100).round(2)}% #{n} of #{x}"
+      puts "saving p_to_p rel type #{r.name} ... #{(n.to_f / x * 100).round(2)}% #{n} of #{x}"
     end
     f.close
   end
 
 
   desc 'export manual data to db/manual_#{model}.txt'
-  task :o2o_relation_types => :environment do
-    f = File.open('db/manual_o2o_relation_types.txt', 'w')
+  task :o_to_o_relation_types => :environment do
+    f = File.open('db/manual_o_to_o_relation_types.txt', 'w')
     n = 0
-    x = O2oRelationType.count
-    O2oRelationType.all.each do |r| 
+    x = OToORelationType.count
+    OToORelationType.all.each do |r| 
       f.puts("#{r.name}:!:#{r.weight}:!:#{r.visual ? '1' : '0'}:!:#{r.litig ? '1' : '0'}")
       n += 1
-      puts "saving o2o rel type #{r.name} ... #{(n.to_f / x * 100).round(2)}% #{n} of #{x}"
+      puts "saving o_to_o rel type #{r.name} ... #{(n.to_f / x * 100).round(2)}% #{n} of #{x}"
     end
     f.close
   end
 
   desc 'export manual data to db/manual_#{model}.txt'
-  task :p2o_relation_types => :environment do
-    f = File.open('db/manual_p2o_relation_types.txt', 'w')
+  task :p_to_o_relation_types => :environment do
+    f = File.open('db/manual_p_to_o_relation_types.txt', 'w')
     n = 0
-    x = P2oRelationType.count
-    P2oRelationType.all.each do |r| 
+    x = PToORelationType.count
+    PToORelationType.all.each do |r| 
       f.puts("#{r.name}:!:#{r.weight}:!:#{r.visual ? '1' : '0'}:!:#{r.litig ? '1' : '0'}")
       n += 1
-      puts "saving p2o rel type #{r.name} ... #{(n.to_f / x * 100).round(2)}% #{n} of #{x}"
+      puts "saving p_to_o rel type #{r.name} ... #{(n.to_f / x * 100).round(2)}% #{n} of #{x}"
     end
     f.close
   end
 
   desc 'export manual data to db/manual_#{model}.txt'
-  task :o2p_relation_types => :environment do
-    f = File.open('db/manual_o2p_relation_types.txt', 'w')
+  task :o_to_p_relation_types => :environment do
+    f = File.open('db/manual_o_to_p_relation_types.txt', 'w')
     n = 0
-    x = O2pRelationType.count
-    O2pRelationType.all.each do |r| 
+    x = OToPRelationType.count
+    OToPRelationType.all.each do |r| 
       f.puts("#{r.name}:!:#{r.weight}:!:#{r.visual ? '1' : '0'}:!:#{r.litig ? '1' : '0'}")
       n += 1
-      puts "saving o2p rel type #{r.name} ... #{(n.to_f / x * 100).round(2)}% #{n} of #{x}"
+      puts "saving o_to_p rel type #{r.name} ... #{(n.to_f / x * 100).round(2)}% #{n} of #{x}"
     end
     f.close
   end
@@ -106,8 +106,8 @@ namespace :save do
     n = 0
     x = Person.count
     Person.all.each do |r|
-      a = r.interpersonal_relations.not_mirror.*.p2p_relation_type_id
-      b = r.person_to_org_relations.*.p2o_relation_type_id
+      a = r.interpersonal_relations.not_mirror.*.p_to_p_relation_type_id
+      b = r.person_to_org_relations.*.p_to_o_relation_type_id
       n += 1
       if !(a - [ 5 ]).empty? or !(b - [ 1 ]).empty?
         f.puts("#{r.last_name}:!:#{r.klink}:!:#{r.first_name}:!:#{r.born_at}:!:#{r.mothers_name}:!:#{r.place_of_birth}:!:#{r.information_source}:!:#{r.user}")
@@ -123,8 +123,8 @@ namespace :save do
     n = 0
     x = Organization.count
     Organization.all.each do |r| 
-      a = r.interorg_relations.not_mirror.*.o2o_relation_type_id
-      b = r.person_to_org_relations.*.p2o_relation_type_id
+      a = r.interorg_relations.not_mirror.*.o_to_o_relation_type_id
+      b = r.person_to_org_relations.*.p_to_o_relation_type_id
       n += 1
       if !(a - [ 2,15,16,18,19 ]).empty? or !(b - [ 1 ]).empty?
         f.puts("#{r.name}:!:#{r.klink}:!:#{r.street}:!:#{r.city}:!:#{r.zip_code}:!:#{r.phone}:!:#{r.fax}:!:#{r.email_address}:!:#{r.internet_address}:!:#{r.information_source}:!:#{r.user}")
@@ -140,10 +140,10 @@ namespace :save do
     f = File.open('db/manual_interpersonal_relations.txt', 'w')
     n = 0
     x = InterpersonalRelation.count
-    InterpersonalRelation.not_mirror.p2p_relation_type_is_not(5).not_internal.each do |r| 
+    InterpersonalRelation.not_mirror.p_to_p_relation_type_is_not(5).not_internal.each do |r| 
       n += 1
       if r.person and r.related_person
-        f.puts("#{r.start_time}:!:#{r.end_time}:!:#{r.no_end_time ? '1' : '0'}:!:#{r.information_source}:!:#{r.related_person.name.gsub(',','')}:!:#{r.person.name.gsub(',','')}:!:#{r.p2p_relation_type}:/:#{r.articles.*.internet_address.join(',')}")
+        f.puts("#{r.start_time}:!:#{r.end_time}:!:#{r.no_end_time ? '1' : '0'}:!:#{r.information_source}:!:#{r.related_person.name.gsub(',','')}:!:#{r.person.name.gsub(',','')}:!:#{r.p_to_p_relation_type}:/:#{r.articles.*.internet_address.join(',')}")
         puts "saving interpersonal_relation #{r.person} & #{r.related_person} ... #{(n.to_f / x * 100).round(2)}% #{n} of #{x}"
       end
     end
@@ -155,10 +155,10 @@ namespace :save do
     f = File.open('db/manual_interorg_relations.txt', 'w')
     n = 0
     x = InterorgRelation.count
-    InterorgRelation.not_mirror.o2o_relation_type_is_not(2).o2o_relation_type_is_not(15).o2o_relation_type_is_not(16).o2o_relation_type_is_not(18).o2o_relation_type_is_not(19).each do |r| 
+    InterorgRelation.not_mirror.o_to_o_relation_type_is_not(2).o_to_o_relation_type_is_not(15).o_to_o_relation_type_is_not(16).o_to_o_relation_type_is_not(18).o_to_o_relation_type_is_not(19).each do |r| 
       n += 1
       if r.organization and r.related_organization
-        f.puts("#{r.information_source}:!:#{r.related_organization}:!:#{r.organization}:!:#{r.o2o_relation_type}:/:#{r.articles.*.internet_address.join(',')}")
+        f.puts("#{r.information_source}:!:#{r.related_organization}:!:#{r.organization}:!:#{r.o_to_o_relation_type}:/:#{r.articles.*.internet_address.join(',')}")
         puts "saving interorg_relation #{r.organization} & #{r.related_organization} ... #{(n.to_f / x * 100).round(2)}% #{n} of #{x}"
       end
     end
@@ -170,10 +170,10 @@ namespace :save do
     f = File.open('db/manual_person_to_org_relations.txt', 'w')
     n = 0
     x = PersonToOrgRelation.count
-    PersonToOrgRelation.p2o_relation_type_is_not(1).each do |r| 
+    PersonToOrgRelation.p_to_o_relation_type_is_not(1).each do |r| 
       n += 1
       if r.person and r.organization
-        f.puts("#{r.start_time}:!:#{r.end_time}:!:#{r.no_end_time ? '1' : '0'}:!:#{r.information_source}:!:#{r.person.name.gsub(',','')}:!:#{r.organization}:!:#{r.p2o_relation_type}:/:#{r.articles.*.internet_address.join(',')}")
+        f.puts("#{r.start_time}:!:#{r.end_time}:!:#{r.no_end_time ? '1' : '0'}:!:#{r.information_source}:!:#{r.person.name.gsub(',','')}:!:#{r.organization}:!:#{r.p_to_o_relation_type}:/:#{r.articles.*.internet_address.join(',')}")
         puts "saving person_to_org_relation #{r.person} & #{r.organization} ... #{(n.to_f / x * 100).round(2)}% #{n} of #{x}"
       end
     end

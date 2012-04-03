@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">368440</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">1141 Budapest, Fogarasi út 98. </mezo>
+<mezo id = "cim">1141 Budapest, Fogarasi Ãºt 98. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">12021927242</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19950301</mezo>
-<mezo id = "nev">WOSS Kereskedelmi, Vendéglátóipari és Szolgáltató Kft.</mezo>
+<mezo id = "nev">WOSS Kereskedelmi, VendÃ©glÃ¡tÃ³ipari Ã©s SzolgÃ¡ltatÃ³ Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -27,7 +27,7 @@
 <mezo id = "hattol">20060102</mezo>
 <mezo id = "irsz">1141</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Fogarasi út 98.</mezo>
+<mezo id = "teru">Fogarasi Ãºt 98.</mezo>
 <mezo id = "kirsz">0</mezo>
 </alrovat>
 </rovat>
@@ -682,12 +682,12 @@
 <rovat id = "13">
 <alrovat id = "4">
 <mezo id = "hattol">20090915</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Czigány József</mezo>
-<mezo id = "panev">Nagypál Ilona</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">CzigÃ¡ny JÃ³zsef</mezo>
+<mezo id = "panev">NagypÃ¡l Ilona</mezo>
 <mezo id = "pirsz">1181</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Vaskút utca 1.</mezo>
+<mezo id = "pteru">VaskÃºt utca 1.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20090915</mezo>
 <mezo id = "valtk">20090915</mezo>
@@ -698,15 +698,15 @@
 <alrovat id = "3">
 <mezo id = "hattol">20090915</mezo>
 <mezo id = "cgjsz">1306046967</mezo>
-<mezo id = "nev">Szám-sziget Szolgáltató Betéti Társaság</mezo>
+<mezo id = "nev">SzÃ¡m-sziget SzolgÃ¡ltatÃ³ BetÃ©ti TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2310</mezo>
-<mezo id = "hely">Szigetszentmiklós</mezo>
+<mezo id = "hely">SzigetszentmiklÃ³s</mezo>
 <mezo id = "teru">Baross utca 12.</mezo>
-<mezo id = "pnev">Székely Gábor</mezo>
+<mezo id = "pnev">SzÃ©kely GÃ¡bor</mezo>
 <mezo id = "panev">Bohus Edit</mezo>
 <mezo id = "pirsz">2310</mezo>
-<mezo id = "phely">Szigetszentmiklós</mezo>
+<mezo id = "phely">SzigetszentmiklÃ³s</mezo>
 <mezo id = "pteru">Baross utca 12.</mezo>
 <mezo id = "jogvk">20090915</mezo>
 <mezo id = "jogvv">20140531</mezo>
@@ -718,7 +718,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">19950301</mezo>
 <mezo id = "cgjsz">106116168</mezo>
-<mezo id = "nev">WOSS Kereskedelmi, Vendéglátóipari és Szolgáltató Betéti Társaság</mezo>
+<mezo id = "nev">WOSS Kereskedelmi, VendÃ©glÃ¡tÃ³ipari Ã©s SzolgÃ¡ltatÃ³ BetÃ©ti TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "20">
@@ -746,22 +746,22 @@
 <rovat id = "0109">
 <alrovat id = "5">
 <mezo id = "hattol">20090915</mezo>
-<mezo id = "pnev">Csia Ágnes</mezo>
-<mezo id = "panev">Malissa Mária</mezo>
+<mezo id = "pnev">Csia Ãgnes</mezo>
+<mezo id = "panev">Malissa MÃ¡ria</mezo>
 <mezo id = "pirsz">1073</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Erzsébet körút 24.</mezo>
+<mezo id = "pteru">ErzsÃ©bet kÃ¶rÃºt 24.</mezo>
 <mezo id = "tagsk">19950301</mezo>
 <mezo id = "valtk">20090915</mezo>
 <mezo id = "bkelt">20090928</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20090915</mezo>
-<mezo id = "pnev">Czigány József</mezo>
-<mezo id = "panev">Nagypál Ilona</mezo>
+<mezo id = "pnev">CzigÃ¡ny JÃ³zsef</mezo>
+<mezo id = "panev">NagypÃ¡l Ilona</mezo>
 <mezo id = "pirsz">1181</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Vaskút utca 1.</mezo>
+<mezo id = "pteru">VaskÃºt utca 1.</mezo>
 <mezo id = "tagsk">19950301</mezo>
 <mezo id = "sz2">x</mezo>
 <mezo id = "valtk">20090915</mezo>

@@ -5,14 +5,14 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">467399</mezo>
 <mezo id = "nevalrovat">2</mezo>
-<mezo id = "cim">1029 Budapest, Gyíkfû utca 3. </mezo>
+<mezo id = "cim">1029 Budapest, GyÃ­kfÅ± utca 3. </mezo>
 <mezo id = "adosz">12105171241</mezo>
 </alrovat>
 </rovat>
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">19960307</mezo>
-<mezo id = "nev">ALTERRA Svájci-Magyar Kiadó és Könyvterjesztõ Kulturális Szolgáltató Kft.</mezo>
+<mezo id = "nev">ALTERRA SvÃ¡jci-Magyar KiadÃ³ Ã©s KÃ¶nyvterjesztÅ‘ KulturÃ¡lis SzolgÃ¡ltatÃ³ Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -26,7 +26,7 @@
 <mezo id = "hattol">20070514</mezo>
 <mezo id = "irsz">1029</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Gyíkfû utca 3.</mezo>
+<mezo id = "teru">GyÃ­kfÅ± utca 3.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">20070427</mezo>
 <mezo id = "valtv">0</mezo>
@@ -288,7 +288,7 @@
 <rovat id = "13">
 <alrovat id = "3">
 <mezo id = "hattol">20070514</mezo>
-<mezo id = "pnev">Jeszenszky Iván Zoltán</mezo>
+<mezo id = "pnev">Jeszenszky IvÃ¡n ZoltÃ¡n</mezo>
 <mezo id = "panev">Bajcsev Jelica</mezo>
 <mezo id = "pirsz">1051</mezo>
 <mezo id = "phely">Budapest, Dorottya u. 3. I/2.</mezo>
@@ -315,7 +315,7 @@
 <rovat id = "0109">
 <alrovat id = "6">
 <mezo id = "hattol">20070514</mezo>
-<mezo id = "pnev">Jeszenszky Iván Zoltán</mezo>
+<mezo id = "pnev">Jeszenszky IvÃ¡n ZoltÃ¡n</mezo>
 <mezo id = "panev">Bajcsev Jelica</mezo>
 <mezo id = "pirsz">1051</mezo>
 <mezo id = "phely">Budapest, Dorottya u. 3. I/2.</mezo>
@@ -327,16 +327,16 @@
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">20070514</mezo>
-<mezo id = "pnev">Jeszenszky-Zilinski Erzsébet Duna Audit Könyvszakértõi Iroda Kft felszámoló ügyvezetõ</mezo>
+<mezo id = "pnev">Jeszenszky-Zilinski ErzsÃ©bet Duna Audit KÃ¶nyvszakÃ©rtÅ‘i Iroda Kft felszÃ¡molÃ³ Ã¼gyvezetÅ‘</mezo>
 <mezo id = "panev">Zsilinszky-Inotay Julianna</mezo>
 <mezo id = "pkorsz">CH</mezo>
 <mezo id = "pkirsz">8702</mezo>
-<mezo id = "pkhely">Zollikon , Ságegasse 22.</mezo>
-<mezo id = "pcnev">Jeszenszky-Hoffmann Ügyvédi Iroda</mezo>
+<mezo id = "pkhely">Zollikon , SÃ¡gegasse 22.</mezo>
+<mezo id = "pcnev">Jeszenszky-Hoffmann ÃœgyvÃ©di Iroda</mezo>
 <mezo id = "pcanev">0</mezo>
 <mezo id = "pcirsz">1052</mezo>
 <mezo id = "pchely">Budapest</mezo>
-<mezo id = "pcteru">Fehér hajó u.</mezo>
+<mezo id = "pcteru">FehÃ©r hajÃ³ u.</mezo>
 <mezo id = "pchsz">8-10.</mezo>
 <mezo id = "pckirsz">0</mezo>
 <mezo id = "tagsk">20000607</mezo>
@@ -346,10 +346,10 @@
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">20070514</mezo>
-<mezo id = "pnev">Batári Gábor Zsolt</mezo>
-<mezo id = "panev">dr. Mérõ Éva</mezo>
+<mezo id = "pnev">BatÃ¡ri GÃ¡bor Zsolt</mezo>
+<mezo id = "panev">dr. MÃ©rÅ‘ Ã‰va</mezo>
 <mezo id = "pirsz">1117</mezo>
-<mezo id = "phely">Budapest, Fehérvári út 21/ A .</mezo>
+<mezo id = "phely">Budapest, FehÃ©rvÃ¡ri Ãºt 21/ A .</mezo>
 <mezo id = "tagsk">20070427</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">0</mezo>
@@ -365,62 +365,62 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság az 1996. 09. 18-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-03. ÚJVÁRHEGY Kft.<ujsor/>
- Törölve: 1996. 03. 07-i hatállyal.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g az 1996. 09. 18-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+03. ÃšJVÃRHEGY Kft.<ujsor/>
+ TÃ¶rÃ¶lve: 1996. 03. 07-i hatÃ¡llyal.<ujsor/>
  ALTERRA Kft.<ujsor/>
- Hatályos: 1996. 03. 07-tõl.<ujsor/>
+ HatÃ¡lyos: 1996. 03. 07-tÅ‘l.<ujsor/>
 Bejegyezve: 1997. 01. 07.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109467399</mezo>
-<mezo id = "nev">ALTERRA Svájci-Magyar Kiadó és Könyvterjesztõ Kulturális Szolgáltató Kft.</mezo>
-<mezo id = "cim">1054 Budapest, Széchenyi u. 1. D. ép B. lépcsõház I/7.</mezo>
+<mezo id = "nev">ALTERRA SvÃ¡jci-Magyar KiadÃ³ Ã©s KÃ¶nyvterjesztÅ‘ KulturÃ¡lis SzolgÃ¡ltatÃ³ Kft.</mezo>
+<mezo id = "cim">1054 Budapest, SzÃ©chenyi u. 1. D. Ã©p B. lÃ©pcsÅ‘hÃ¡z I/7.</mezo>
 <mezo id = "adosz">12105171241</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság megállapítja, hogy a cég<ujsor/>
-székhelyére vonatkozó bejegyzés<ujsor/>
-jogszabályt sért, ezért a<ujsor/>
-cégbíróság a Cégközlönyben<ujsor/>
-hirdetményt tesz közzé azzal,<ujsor/>
-hogy aki a cég<ujsor/>
-székhelyére (telephelyére)<ujsor/>
-vonatkozóan tudomással rendelkezik,<ujsor/>
-azt a közzétételtõl<ujsor/>
-számított 30 napon belül<ujsor/>
-jelentse be a cégbíróságnak.<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g megÃ¡llapÃ­tja, hogy a cÃ©g<ujsor/>
+szÃ©khelyÃ©re vonatkozÃ³ bejegyzÃ©s<ujsor/>
+jogszabÃ¡lyt sÃ©rt, ezÃ©rt a<ujsor/>
+cÃ©gbÃ­rÃ³sÃ¡g a CÃ©gkÃ¶zlÃ¶nyben<ujsor/>
+hirdetmÃ©nyt tesz kÃ¶zzÃ© azzal,<ujsor/>
+hogy aki a cÃ©g<ujsor/>
+szÃ©khelyÃ©re (telephelyÃ©re)<ujsor/>
+vonatkozÃ³an tudomÃ¡ssal rendelkezik,<ujsor/>
+azt a kÃ¶zzÃ©tÃ©teltÅ‘l<ujsor/>
+szÃ¡mÃ­tott 30 napon belÃ¼l<ujsor/>
+jelentse be a cÃ©gbÃ­rÃ³sÃ¡gnak.<ujsor/>
 2006. 08. 04.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109467399</mezo>
-<mezo id = "nev">ALTERRA Svájci-Magyar Kiadó és Könyvterjesztõ Kulturális Szolgáltató Kft.</mezo>
-<mezo id = "cim">1054 Budapest, Széchenyi u. 1. D. ép . A. lp. I. em. 5.</mezo>
+<mezo id = "nev">ALTERRA SvÃ¡jci-Magyar KiadÃ³ Ã©s KÃ¶nyvterjesztÅ‘ KulturÃ¡lis SzolgÃ¡ltatÃ³ Kft.</mezo>
+<mezo id = "cim">1054 Budapest, SzÃ©chenyi u. 1. D. Ã©p . A. lp. I. em. 5.</mezo>
 <mezo id = "adosz">12105171241</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2007. 05. 14-én hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-1(09). Jeszenszky-Zilinski Erzsébet Duna Audit Könyvszakértõi Iroda Kft felszámoló ügyvezetõ (an: Zsilinszky-Inotay Julianna)<ujsor/>
-Külföldi cím: CH 8702 Zollikon , Ságegasse 22.<ujsor/>
- Kézbesítési megbízott szervezet: Jeszenszky-Hoffmann Ügyvédi Iroda<ujsor/>
-1052 Budapest, Fehér hajó u. 8-10.<ujsor/>
- A tagság kezdete: 2000. 06. 07.<ujsor/>
- A változás idõpontja (törlés): 2007. 05. 14.<ujsor/>
- Törölve: 2007. 06. 01.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2007. 05. 14-Ã©n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+1(09). Jeszenszky-Zilinski ErzsÃ©bet Duna Audit KÃ¶nyvszakÃ©rtÅ‘i Iroda Kft felszÃ¡molÃ³ Ã¼gyvezetÅ‘ (an: Zsilinszky-Inotay Julianna)<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: CH 8702 Zollikon , SÃ¡gegasse 22.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott szervezet: Jeszenszky-Hoffmann ÃœgyvÃ©di Iroda<ujsor/>
+1052 Budapest, FehÃ©r hajÃ³ u. 8-10.<ujsor/>
+ A tagsÃ¡g kezdete: 2000. 06. 07.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2007. 05. 14.<ujsor/>
+ TÃ¶rÃ¶lve: 2007. 06. 01.<ujsor/>
  Jeszenszky-Zilinski Erzebet (an: Zsilinszky Inotay Julianna)<ujsor/>
-Külföldi cím: CH 8702 Zollikon , Ságegasse 22.<ujsor/>
- Kézbesítési megbízott szervezet: Jeszenszky-Hoffmann Ügyvédi Iroda<ujsor/>
-1052 Budapest, Fehér hajó u. 8-10.<ujsor/>
- A tagság kezdete: 2000. 06. 07.<ujsor/>
- A változás idõpontja: 2007. 05. 14.<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: CH 8702 Zollikon , SÃ¡gegasse 22.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott szervezet: Jeszenszky-Hoffmann ÃœgyvÃ©di Iroda<ujsor/>
+1052 Budapest, FehÃ©r hajÃ³ u. 8-10.<ujsor/>
+ A tagsÃ¡g kezdete: 2000. 06. 07.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2007. 05. 14.<ujsor/>
  Bejegyezve: 2007. 06. 01.<ujsor/>
 2007. 06. 01.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109467399</mezo>
-<mezo id = "nev">ALTERRA Svájci-Magyar Kiadó és Könyvterjesztõ Kulturális Szolgáltató Kft.</mezo>
-<mezo id = "cim">1029 Budapest, Gyíkfû utca 3.</mezo>
+<mezo id = "nev">ALTERRA SvÃ¡jci-Magyar KiadÃ³ Ã©s KÃ¶nyvterjesztÅ‘ KulturÃ¡lis SzolgÃ¡ltatÃ³ Kft.</mezo>
+<mezo id = "cim">1029 Budapest, GyÃ­kfÅ± utca 3.</mezo>
 <mezo id = "adosz">12105171241</mezo>
 </alrovat>
 </rovat>

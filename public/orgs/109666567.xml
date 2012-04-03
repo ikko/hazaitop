@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">666567</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">1125 Budapest, Istenhegyi út 63/b. II/6. </mezo>
+<mezo id = "cim">1125 Budapest, Istenhegyi Ãºt 63/b. II/6. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">12312999243</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19971202</mezo>
-<mezo id = "nev">KVALIKON Vezetési Tanácsadó, Rendszerfejlesztõ és Könyvelési Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">KVALIKON VezetÃ©si TanÃ¡csadÃ³, RendszerfejlesztÅ‘ Ã©s KÃ¶nyvelÃ©si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -33,14 +33,14 @@
 <mezo id = "hattol">19971202</mezo>
 <mezo id = "irsz">1125</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Istenhegyi út 63/b. II/6.</mezo>
+<mezo id = "teru">Istenhegyi Ãºt 63/b. II/6.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "6">
 <alrovat id = "2">
 <mezo id = "hattol">20070321</mezo>
 <mezo id = "irsz">1125</mezo>
-<mezo id = "hely">Budapest, Tusnádi u. 47. II. em. 2.</mezo>
+<mezo id = "hely">Budapest, TusnÃ¡di u. 47. II. em. 2.</mezo>
 <mezo id = "valtk">20070129</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
@@ -368,10 +368,10 @@
 <rovat id = "13">
 <alrovat id = "6">
 <mezo id = "hattol">20070321</mezo>
-<mezo id = "pnev">Németh István</mezo>
-<mezo id = "panev">Tõgl Erzsébet</mezo>
+<mezo id = "pnev">NÃ©meth IstvÃ¡n</mezo>
+<mezo id = "panev">TÅ‘gl ErzsÃ©bet</mezo>
 <mezo id = "pirsz">1125</mezo>
-<mezo id = "phely">Budapest, Istenhegyi út 63/B. II/6.</mezo>
+<mezo id = "phely">Budapest, Istenhegyi Ãºt 63/B. II/6.</mezo>
 <mezo id = "tv">d</mezo>
 <mezo id = "jogvk">20070129</mezo>
 <mezo id = "valtk">0</mezo>
@@ -379,10 +379,10 @@
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">20070321</mezo>
-<mezo id = "pnev">Dr. Németh Balázs</mezo>
-<mezo id = "panev">Tóth Tünde</mezo>
+<mezo id = "pnev">Dr. NÃ©meth BalÃ¡zs</mezo>
+<mezo id = "panev">TÃ³th TÃ¼nde</mezo>
 <mezo id = "pirsz">1125</mezo>
-<mezo id = "phely">Budapest, Tusnádi u. 47. II/1.</mezo>
+<mezo id = "phely">Budapest, TusnÃ¡di u. 47. II/1.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">d</mezo>
 <mezo id = "jogvk">20070129</mezo>
@@ -407,10 +407,10 @@
 <rovat id = "0109">
 <alrovat id = "8">
 <mezo id = "hattol">20070321</mezo>
-<mezo id = "pnev">Dr. Németh Balázs</mezo>
-<mezo id = "panev">Tóth Tünde</mezo>
+<mezo id = "pnev">Dr. NÃ©meth BalÃ¡zs</mezo>
+<mezo id = "panev">TÃ³th TÃ¼nde</mezo>
 <mezo id = "pirsz">1125</mezo>
-<mezo id = "phely">Budapest, Tusnádi u. 47. II/1.</mezo>
+<mezo id = "phely">Budapest, TusnÃ¡di u. 47. II/1.</mezo>
 <mezo id = "tagsk">20030602</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "sz2">x</mezo>
@@ -419,10 +419,10 @@
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">20070321</mezo>
-<mezo id = "pnev">Németh Csongor</mezo>
-<mezo id = "panev">Tóth Tünde</mezo>
+<mezo id = "pnev">NÃ©meth Csongor</mezo>
+<mezo id = "panev">TÃ³th TÃ¼nde</mezo>
 <mezo id = "pirsz">1125</mezo>
-<mezo id = "phely">Budapest, Istenhegyi út 63/B. II/6.</mezo>
+<mezo id = "phely">Budapest, Istenhegyi Ãºt 63/B. II/6.</mezo>
 <mezo id = "tagsk">19971202</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">0</mezo>
@@ -438,12 +438,12 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Dr. Németh Balázs (1055 Budapest, Bajcsy-Zsilinszky út 76. IV. 6.), a Gazdasági társaságokról szóló 1997. évi CXLIV. tv. 292. § (1) bekezdésében foglalt rendelkezésre tekintettel, közzéteszi, hogy a KVALIKON Vezetési Tanácsadó, Rendszerfejlesztõ és Könyvelési Kft. (Cg.: [01 09 666567]; 1125 Budapest, Istenhegyi út 63/B) üzletrészei további 66,7%-ának, s ezzel összesen az üzletrészek 79,9%-ának a tulajdonjogát - a 2003. június 2-án kelt üzletrész-átruházási szerzõdés alapján - megszerezte, s így közvetlen irányítást biztosító befolyást szerzett a KVALIKON Vezetési Tanácsadó, Rendszerfejlesztõ és Könyvelési Kft.-ben.<ujsor/>
-Felhívjuk a KVALIKON Vezetési Tanácsadó, Rendszerfejlesztõ és Könyvelési Kft. esetleges hitelezõinek a figyelmét, hogy a Gazdasági társaságokról szóló 1997. évi CXLIV. tv. 296. § (2) bekezdésében foglalt jogukkal élhetnek.<ujsor/>
+<mezo id = "szoveg">Dr. NÃ©meth BalÃ¡zs (1055 Budapest, Bajcsy-Zsilinszky Ãºt 76. IV. 6.), a GazdasÃ¡gi tÃ¡rsasÃ¡gokrÃ³l szÃ³lÃ³ 1997. Ã©vi CXLIV. tv. 292. Â§ (1) bekezdÃ©sÃ©ben foglalt rendelkezÃ©sre tekintettel, kÃ¶zzÃ©teszi, hogy a KVALIKON VezetÃ©si TanÃ¡csadÃ³, RendszerfejlesztÅ‘ Ã©s KÃ¶nyvelÃ©si Kft. (Cg.: [01 09 666567]; 1125 Budapest, Istenhegyi Ãºt 63/B) Ã¼zletrÃ©szei tovÃ¡bbi 66,7%-Ã¡nak, s ezzel Ã¶sszesen az Ã¼zletrÃ©szek 79,9%-Ã¡nak a tulajdonjogÃ¡t - a 2003. jÃºnius 2-Ã¡n kelt Ã¼zletrÃ©sz-Ã¡truhÃ¡zÃ¡si szerzÅ‘dÃ©s alapjÃ¡n - megszerezte, s Ã­gy kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡st szerzett a KVALIKON VezetÃ©si TanÃ¡csadÃ³, RendszerfejlesztÅ‘ Ã©s KÃ¶nyvelÃ©si Kft.-ben.<ujsor/>
+FelhÃ­vjuk a KVALIKON VezetÃ©si TanÃ¡csadÃ³, RendszerfejlesztÅ‘ Ã©s KÃ¶nyvelÃ©si Kft. esetleges hitelezÅ‘inek a figyelmÃ©t, hogy a GazdasÃ¡gi tÃ¡rsasÃ¡gokrÃ³l szÃ³lÃ³ 1997. Ã©vi CXLIV. tv. 296. Â§ (2) bekezdÃ©sÃ©ben foglalt jogukkal Ã©lhetnek.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109666567</mezo>
-<mezo id = "nev">KVALIKON Vezetési Tanácsadó, Rendszerfejlesztõ és Könyvelési Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1125 Budapest, Istenhegyi út 63/b. II/6. </mezo>
+<mezo id = "nev">KVALIKON VezetÃ©si TanÃ¡csadÃ³, RendszerfejlesztÅ‘ Ã©s KÃ¶nyvelÃ©si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1125 Budapest, Istenhegyi Ãºt 63/b. II/6. </mezo>
 </alrovat>
 </rovat>
 <rovat id = "99017">

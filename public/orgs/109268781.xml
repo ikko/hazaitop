@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">268781</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">1056 Budapest, Belgrád rakpart, Nemzetközi Hajóállomás </mezo>
+<mezo id = "cim">1056 Budapest, BelgrÃ¡d rakpart, NemzetkÃ¶zi HajÃ³Ã¡llomÃ¡s </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">10894332241</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19931220</mezo>
-<mezo id = "nev">M A H A R T - PassNave Személyhajózási Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">M A H A R T - PassNave SzemÃ©lyhajÃ³zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -29,7 +29,7 @@
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">19931220</mezo>
-<mezo id = "nev">német nyelven: MAHART PassNave Passagierschiffahrt Gesellschaft mit Beschränkter Haftung</mezo>
+<mezo id = "nev">nÃ©met nyelven: MAHART PassNave Passagierschiffahrt Gesellschaft mit BeschrÃ¤nkter Haftung</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">19931220</mezo>
@@ -37,7 +37,7 @@
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">19931220</mezo>
-<mezo id = "nev">francia nyelven:MAHART PassNave Société a responsabilité limitée de transports navals des passagers</mezo>
+<mezo id = "nev">francia nyelven:MAHART PassNave SociÃ©tÃ© a responsabilitÃ© limitÃ©e de transports navals des passagers</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
@@ -45,19 +45,19 @@
 <mezo id = "hattol">19931220</mezo>
 <mezo id = "irsz">1056</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Belgrád rakpart, Nemzetközi Hajóállomás</mezo>
+<mezo id = "teru">BelgrÃ¡d rakpart, NemzetkÃ¶zi HajÃ³Ã¡llomÃ¡s</mezo>
 </alrovat>
 </rovat>
 <rovat id = "6">
 <alrovat id = "1">
 <mezo id = "hattol">20030325</mezo>
 <mezo id = "irsz">1015</mezo>
-<mezo id = "hely">Budapest Bem téri Hajóállomás.</mezo>
+<mezo id = "hely">Budapest Bem tÃ©ri HajÃ³Ã¡llomÃ¡s.</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20030325</mezo>
 <mezo id = "irsz">1044</mezo>
-<mezo id = "hely">Budapest Újpest - Népsziget.</mezo>
+<mezo id = "hely">Budapest Ãšjpest - NÃ©psziget.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "8">
@@ -664,8 +664,8 @@
 <rovat id = "13">
 <alrovat id = "25">
 <mezo id = "hattol">20100308</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Kautz István ügyvezetõ (vezetõ tisztségviselõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Kautz IstvÃ¡n Ã¼gyvezetÅ‘ (vezetÅ‘ tisztsÃ©gviselÅ‘)</mezo>
 <mezo id = "panev">Zunke Franciska</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20091001</mezo>
@@ -675,12 +675,12 @@
 </alrovat>
 <alrovat id = "26">
 <mezo id = "hattol">20110523</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">ifj. Kautz István ügyvezetõ (vezetõ tisztségviselõ)</mezo>
-<mezo id = "panev">Fröhlich Zsuzsanna</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">ifj. Kautz IstvÃ¡n Ã¼gyvezetÅ‘ (vezetÅ‘ tisztsÃ©gviselÅ‘)</mezo>
+<mezo id = "panev">FrÃ¶hlich Zsuzsanna</mezo>
 <mezo id = "pirsz">2626</mezo>
 <mezo id = "phely">Nagymaros</mezo>
-<mezo id = "pteru">Visegrádi utca 5.</mezo>
+<mezo id = "pteru">VisegrÃ¡di utca 5.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20110523</mezo>
 <mezo id = "jogvv">20120531</mezo>
@@ -690,9 +690,9 @@
 </alrovat>
 <alrovat id = "27">
 <mezo id = "hattol">20110523</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Spányik Gábor ügyvezetõ (vezetõ tisztségviselõ)</mezo>
-<mezo id = "panev">Herédi Rozália</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">SpÃ¡nyik GÃ¡bor Ã¼gyvezetÅ‘ (vezetÅ‘ tisztsÃ©gviselÅ‘)</mezo>
+<mezo id = "panev">HerÃ©di RozÃ¡lia</mezo>
 <mezo id = "pirsz">1124</mezo>
 <mezo id = "phely">Budapest</mezo>
 <mezo id = "pteru">Pagony utca 36.</mezo>
@@ -708,16 +708,16 @@
 <alrovat id = "7">
 <mezo id = "hattol">20101126</mezo>
 <mezo id = "cgjsz">0109949416</mezo>
-<mezo id = "nev">AUDITELL Könyvvizsgáló és Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">AUDITELL KÃ¶nyvvizsgÃ¡lÃ³ Ã©s TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1085</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Mária utca 56. 3. em. 5.</mezo>
-<mezo id = "pnev">Konkoly László</mezo>
-<mezo id = "panev">Pipoly Borbála</mezo>
+<mezo id = "teru">MÃ¡ria utca 56. 3. em. 5.</mezo>
+<mezo id = "pnev">Konkoly LÃ¡szlÃ³</mezo>
+<mezo id = "panev">Pipoly BorbÃ¡la</mezo>
 <mezo id = "pirsz">2014</mezo>
-<mezo id = "phely">Csobánka</mezo>
-<mezo id = "pteru">Hanfland körút 39.</mezo>
+<mezo id = "phely">CsobÃ¡nka</mezo>
+<mezo id = "pteru">Hanfland kÃ¶rÃºt 39.</mezo>
 <mezo id = "jogvk">20101126</mezo>
 <mezo id = "jogvv">20120531</mezo>
 <mezo id = "valtk">20101126</mezo>
@@ -728,7 +728,7 @@
 <alrovat id = "12">
 <mezo id = "hattol">20040325</mezo>
 <mezo id = "pnev">Krucsai Zsolt</mezo>
-<mezo id = "panev">Dunai Erzsébet</mezo>
+<mezo id = "panev">Dunai ErzsÃ©bet</mezo>
 <mezo id = "pirsz">1046</mezo>
 <mezo id = "phely">Budapest, Falemez u. 17.</mezo>
 <mezo id = "jogvk">20040325</mezo>
@@ -736,10 +736,10 @@
 </alrovat>
 <alrovat id = "17">
 <mezo id = "hattol">20080424</mezo>
-<mezo id = "pnev">Ácsné Danyi Ilona</mezo>
+<mezo id = "pnev">ÃcsnÃ© Danyi Ilona</mezo>
 <mezo id = "panev">Demeter Ilona</mezo>
 <mezo id = "pirsz">2132</mezo>
-<mezo id = "phely">Göd, Regõs u. 20.</mezo>
+<mezo id = "phely">GÃ¶d, RegÅ‘s u. 20.</mezo>
 <mezo id = "jogvk">20080424</mezo>
 <mezo id = "jogvv">20110420</mezo>
 <mezo id = "valtk">20080424</mezo>
@@ -749,11 +749,11 @@
 </alrovat>
 <alrovat id = "21">
 <mezo id = "hattol">20110321</mezo>
-<mezo id = "pnev">Ferencz Éva</mezo>
-<mezo id = "panev">Komjáthy Piroska</mezo>
+<mezo id = "pnev">Ferencz Ã‰va</mezo>
+<mezo id = "panev">KomjÃ¡thy Piroska</mezo>
 <mezo id = "pirsz">1158</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Kõhíd utca 40.</mezo>
+<mezo id = "pteru">KÅ‘hÃ­d utca 40.</mezo>
 <mezo id = "jogvk">20110321</mezo>
 <mezo id = "jogvv">20140320</mezo>
 <mezo id = "valtk">20110321</mezo>
@@ -761,11 +761,11 @@
 </alrovat>
 <alrovat id = "22">
 <mezo id = "hattol">20110321</mezo>
-<mezo id = "pnev">Kolozsi Tímea</mezo>
-<mezo id = "panev">Endrész Zsuzsanna</mezo>
+<mezo id = "pnev">Kolozsi TÃ­mea</mezo>
+<mezo id = "panev">EndrÃ©sz Zsuzsanna</mezo>
 <mezo id = "pirsz">2230</mezo>
-<mezo id = "phely">Gyömrõ</mezo>
-<mezo id = "pteru">Határ utca 11.</mezo>
+<mezo id = "phely">GyÃ¶mrÅ‘</mezo>
+<mezo id = "pteru">HatÃ¡r utca 11.</mezo>
 <mezo id = "jogvk">20110321</mezo>
 <mezo id = "jogvv">20140320</mezo>
 <mezo id = "valtk">20110321</mezo>
@@ -773,8 +773,8 @@
 </alrovat>
 <alrovat id = "23">
 <mezo id = "hattol">20110321</mezo>
-<mezo id = "pnev">Pócs József</mezo>
-<mezo id = "panev">Madár Mária</mezo>
+<mezo id = "pnev">PÃ³cs JÃ³zsef</mezo>
+<mezo id = "panev">MadÃ¡r MÃ¡ria</mezo>
 <mezo id = "pirsz">1115</mezo>
 <mezo id = "phely">Budapest</mezo>
 <mezo id = "pteru">Halmi utca 17.</mezo>
@@ -803,27 +803,27 @@
 <mezo id = "adosz">10894332241</mezo>
 <mezo id = "kadosz">HU10894332</mezo>
 <mezo id = "bkelt">20110615</mezo>
-<mezo id = "megj">Adószám státusza: érvényes adószám</mezo>
+<mezo id = "megj">AdÃ³szÃ¡m stÃ¡tusza: Ã©rvÃ©nyes adÃ³szÃ¡m</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0109">
 <alrovat id = "8">
 <mezo id = "hattol">19990520</mezo>
 <mezo id = "cgjsz">109671112</mezo>
-<mezo id = "nev">Munkavállalói Vagyonkezelõ Tanácsadó és Szolgáltató Kft.</mezo>
+<mezo id = "nev">MunkavÃ¡llalÃ³i VagyonkezelÅ‘ TanÃ¡csadÃ³ Ã©s SzolgÃ¡ltatÃ³ Kft.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1056</mezo>
-<mezo id = "hely">Budapest, Nemzetközi Hajóállomás</mezo>
-<mezo id = "teru">Belgrád rakpart</mezo>
+<mezo id = "hely">Budapest, NemzetkÃ¶zi HajÃ³Ã¡llomÃ¡s</mezo>
+<mezo id = "teru">BelgrÃ¡d rakpart</mezo>
 </alrovat>
 <alrovat id = "13">
 <mezo id = "hattol">20080521</mezo>
 <mezo id = "cgjsz">110041821</mezo>
-<mezo id = "nev">MASPED Elsõ Magyar Általános Szállítmányozási Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">MASPED ElsÅ‘ Magyar ÃltalÃ¡nos SzÃ¡llÃ­tmÃ¡nyozÃ¡si ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1139</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Váci út</mezo>
+<mezo id = "teru">VÃ¡ci Ãºt</mezo>
 <mezo id = "hsz">85.</mezo>
 <mezo id = "tagsk">20050908</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -836,11 +836,11 @@
 <alrovat id = "14">
 <mezo id = "hattol">20100429</mezo>
 <mezo id = "cgjsz">0109664859</mezo>
-<mezo id = "nev">MM Üzemviteli Tanácsadó és Kereskedelmi Kft.</mezo>
+<mezo id = "nev">MM Ãœzemviteli TanÃ¡csadÃ³ Ã©s Kereskedelmi Kft.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1137</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Radnóti M utca 40.</mezo>
+<mezo id = "teru">RadnÃ³ti M utca 40.</mezo>
 <mezo id = "tagsk">20100429</mezo>
 <mezo id = "valtk">20100429</mezo>
 <mezo id = "bkelt">20100621</mezo>
@@ -855,112 +855,112 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A MASPED TRADE Kereskedelmi és Szolgáltató Kft. (Cg.: [01 09 691565]; 1139 Budapest, Váci út 85.) 2005. október 10-én üzletrész-adásvétel útján 51%-os, többségi irányítást biztosító befolyást szerzett a MAHART-PassNave Személyhajózási Korlátolt Felelõsségû Társaságban (Cg.: [01 09 268781]; székhely: 1056 Budapest, Belgrád rakpart, Nemzetközi Hajóállomás).<ujsor/>
+<mezo id = "szoveg">A MASPED TRADE Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ Kft. (Cg.: [01 09 691565]; 1139 Budapest, VÃ¡ci Ãºt 85.) 2005. oktÃ³ber 10-Ã©n Ã¼zletrÃ©sz-adÃ¡svÃ©tel ÃºtjÃ¡n 51%-os, tÃ¶bbsÃ©gi irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡st szerzett a MAHART-PassNave SzemÃ©lyhajÃ³zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gban (Cg.: [01 09 268781]; szÃ©khely: 1056 Budapest, BelgrÃ¡d rakpart, NemzetkÃ¶zi HajÃ³Ã¡llomÃ¡s).<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109268781</mezo>
-<mezo id = "nev">M A H A R T - PassNave Személyhajózási Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">M A H A R T - PassNave SzemÃ©lyhajÃ³zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1056 Budapest</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2006. 03. 27-én hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-8/020 rovat tévesen került bejegyzésre. <ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2006. 03. 27-Ã©n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+8/020 rovat tÃ©vesen kerÃ¼lt bejegyzÃ©sre. <ujsor/>
 Bejegyezve: 2006. 03. 29.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109268781</mezo>
-<mezo id = "nev">M A H A R T - PassNave Személyhajózási Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1056 Budapest, Belgrád rakpart, Nemzetközi Hajóállomás.</mezo>
+<mezo id = "nev">M A H A R T - PassNave SzemÃ©lyhajÃ³zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1056 Budapest, BelgrÃ¡d rakpart, NemzetkÃ¶zi HajÃ³Ã¡llomÃ¡s.</mezo>
 <mezo id = "adosz">10894332241</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2006. 03. 27-én hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-15. Dobák István (an: Gusztin Margit)<ujsor/>
-1213 Budapest, Csikó sétány 15.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2006. 03. 27-Ã©n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+15. DobÃ¡k IstvÃ¡n (an: Gusztin Margit)<ujsor/>
+1213 Budapest, CsikÃ³ sÃ©tÃ¡ny 15.<ujsor/>
  A jogviszony kezdete: 2006. 02. 21.<ujsor/>
- A jogviszony vége: 2007. 05. 31.<ujsor/>
- Törölve: 2006. 02. 21-i hatállyal.<ujsor/>
- Krucsai Zsolt (an: Dunai Erzsébet)<ujsor/>
+ A jogviszony vÃ©ge: 2007. 05. 31.<ujsor/>
+ TÃ¶rÃ¶lve: 2006. 02. 21-i hatÃ¡llyal.<ujsor/>
+ Krucsai Zsolt (an: Dunai ErzsÃ©bet)<ujsor/>
 1046 Budapest, Falemez u. 17.<ujsor/>
  A jogviszony kezdete: 2004. 03. 25.<ujsor/>
- A jogviszony vége: 2007. 05. 31.<ujsor/>
- Hatályos: 2004. 03. 25-tõl.<ujsor/>
+ A jogviszony vÃ©ge: 2007. 05. 31.<ujsor/>
+ HatÃ¡lyos: 2004. 03. 25-tÅ‘l.<ujsor/>
 Bejegyezve: 2006. 03. 29.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109268781</mezo>
-<mezo id = "nev">M A H A R T - PassNave Személyhajózási Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1056 Budapest, Belgrád rakpart, Nemzetközi Hajóállomás.</mezo>
+<mezo id = "nev">M A H A R T - PassNave SzemÃ©lyhajÃ³zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1056 Budapest, BelgrÃ¡d rakpart, NemzetkÃ¶zi HajÃ³Ã¡llomÃ¡s.</mezo>
 <mezo id = "adosz">10894332241</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2009. 01. 27-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-15. Ácsné Danyi Ilona (an: Demeter Ilona)<ujsor/>
-2132 Göd, Regõs u. 20.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2009. 01. 27-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+15. ÃcsnÃ© Danyi Ilona (an: Demeter Ilona)<ujsor/>
+2132 GÃ¶d, RegÅ‘s u. 20.<ujsor/>
  A jogviszony kezdete: 2008. 04. 24.<ujsor/>
- A jogviszony vége: 2011. 04. 20.<ujsor/>
- A változás idõpontja: 2008. 04. 24.<ujsor/>
- A változás idõpontja (törlés): 2008. 12. 09.<ujsor/>
- Törölve: 2008. 12. 09.<ujsor/>
+ A jogviszony vÃ©ge: 2011. 04. 20.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 04. 24.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2008. 12. 09.<ujsor/>
+ TÃ¶rÃ¶lve: 2008. 12. 09.<ujsor/>
 2009. 01. 27.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109268781</mezo>
-<mezo id = "nev">M A H A R T - PassNave Személyhajózási Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1056 Budapest, Belgrád rakpart, Nemzetközi Hajóállomás.</mezo>
+<mezo id = "nev">M A H A R T - PassNave SzemÃ©lyhajÃ³zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1056 Budapest, BelgrÃ¡d rakpart, NemzetkÃ¶zi HajÃ³Ã¡llomÃ¡s.</mezo>
 <mezo id = "adosz">10894332241</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság a Cg.01-09-268781 cégjegyzékszámon bejegyzett M A H A R T - PassNave Személyhajózási Korlátolt Felelõsségû Társaság (1056 Budapest, Belgrád rakpart, Nemzetközi Hajóállomás; adószáma: 10894332-2-41) kérelme alapján elrendeli az 2010. március 24. napján hozott Cg.01-09-268781 /203. számú végzésének kijavítását az alábbiak szerint:<ujsor/>
-13. A képviseletre jogosult(ak) adatai<ujsor/>
-A képviselet módja: együttes.<ujsor/>
-Adóazonosító jel: 8396671648<ujsor/>
-ifj. Kautz István cégvezetõ (an.: Fröhlich Zsuzsanna)<ujsor/>
-Jogv. kezdete: 2009.11.02. Jogv. vége: 2012.05.31.<ujsor/>
-Vált. vége: 2010.03.08.<ujsor/>
-Törölve (végzés kelte): 2010. április 12.<ujsor/>
-A képviselet módja: önálló.<ujsor/>
-Adóazonosító jel: 8297093328<ujsor/>
-Kautz István ügyvezetõ (vezetõ tisztségviselõ) vezetõ tisztségviselõ (ügyvezetõ) (an.: Zunke Franciska)<ujsor/>
-Jogv. kezdete: 2009.10.01. Jogv. vége: 2010.05.31.<ujsor/>
-Vált. kezdete: 2010.03.08.<ujsor/>
-Bejegyezve (végzés kelte): 2010. április 12.<ujsor/>
-E végzés ellen fellebbezésnek nincs helye, azonban az ügyész, továbbá az, akire a végzés rendelkezést tartalmaz - a rendelkezés õt érintõ részére vonatkozóan - pert indíthat a cég ellen a cég székhelye szerint illetékes megyei bíróság elõtt a bejegyzõ végzés hatályon kívül helyezése iránt.<ujsor/>
-A per megindításának a bejegyzõ végzés Cégközlönyben való közzétételétõl, illetve - közzétételi kötelezettség hiányában - annak kézbesítésétõl számított 30 napon belül van helye. A határidõ elmulasztása jogvesztéssel jár.<ujsor/>
-2010. április 12.<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.01-09-268781 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett M A H A R T - PassNave SzemÃ©lyhajÃ³zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (1056 Budapest, BelgrÃ¡d rakpart, NemzetkÃ¶zi HajÃ³Ã¡llomÃ¡s; adÃ³szÃ¡ma: 10894332-2-41) kÃ©relme alapjÃ¡n elrendeli az 2010. mÃ¡rcius 24. napjÃ¡n hozott Cg.01-09-268781 /203. szÃ¡mÃº vÃ©gzÃ©sÃ©nek kijavÃ­tÃ¡sÃ¡t az alÃ¡bbiak szerint:<ujsor/>
+13. A kÃ©pviseletre jogosult(ak) adatai<ujsor/>
+A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+AdÃ³azonosÃ­tÃ³ jel: 8396671648<ujsor/>
+ifj. Kautz IstvÃ¡n cÃ©gvezetÅ‘ (an.: FrÃ¶hlich Zsuzsanna)<ujsor/>
+Jogv. kezdete: 2009.11.02. Jogv. vÃ©ge: 2012.05.31.<ujsor/>
+VÃ¡lt. vÃ©ge: 2010.03.08.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2010. Ã¡prilis 12.<ujsor/>
+A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+AdÃ³azonosÃ­tÃ³ jel: 8297093328<ujsor/>
+Kautz IstvÃ¡n Ã¼gyvezetÅ‘ (vezetÅ‘ tisztsÃ©gviselÅ‘) vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘) (an.: Zunke Franciska)<ujsor/>
+Jogv. kezdete: 2009.10.01. Jogv. vÃ©ge: 2010.05.31.<ujsor/>
+VÃ¡lt. kezdete: 2010.03.08.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2010. Ã¡prilis 12.<ujsor/>
+E vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye, azonban az Ã¼gyÃ©sz, tovÃ¡bbÃ¡ az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s Å‘t Ã©rintÅ‘ rÃ©szÃ©re vonatkozÃ³an - pert indÃ­that a cÃ©g ellen a cÃ©g szÃ©khelye szerint illetÃ©kes megyei bÃ­rÃ³sÃ¡g elÅ‘tt a bejegyzÅ‘ vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt.<ujsor/>
+A per megindÃ­tÃ¡sÃ¡nak a bejegyzÅ‘ vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l, illetve - kÃ¶zzÃ©tÃ©teli kÃ¶telezettsÃ©g hiÃ¡nyÃ¡ban - annak kÃ©zbesÃ­tÃ©sÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l van helye. A hatÃ¡ridÅ‘ elmulasztÃ¡sa jogvesztÃ©ssel jÃ¡r.<ujsor/>
+2010. Ã¡prilis 12.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109268781</mezo>
-<mezo id = "nev">M A H A R T - PassNave Személyhajózási Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1056 Budapest, Belgrád rakpart, Nemzetközi Hajóállomás</mezo>
+<mezo id = "nev">M A H A R T - PassNave SzemÃ©lyhajÃ³zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1056 Budapest, BelgrÃ¡d rakpart, NemzetkÃ¶zi HajÃ³Ã¡llomÃ¡s</mezo>
 <mezo id = "adosz">10894332241</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság a Cg.01-09-268781 cégjegyzékszámon bejegyzett M A H A R T - PassNave Személyhajózási Korlátolt Felelõsségû Társaság (1056 Budapest, Belgrád rakpart, Nemzetközi Hajóállomás; adószáma: 10894332-2-41) kérelme alapján elrendeli az 2010. április 12. napján hozott Cg.01-09-268781 /206. számú végzésének kijavítását az alábbiak szerint:<ujsor/>
-13. A képviseletre jogosult(ak) adatai<ujsor/>
-A képviselet módja: önálló.<ujsor/>
-Adóazonosító jel: 8297093328<ujsor/>
-Kautz István ügyvezetõ (vezetõ tisztségviselõ) vezetõ tisztségviselõ (ügyvezetõ) (an.: Zunke Franciska)<ujsor/>
-Jogv. kezdete: 2009.10.01. Jogv. vége: 2010.05.31.<ujsor/>
-Vált. vége: 2010.03.08.<ujsor/>
-Törölve (végzés kelte): 2010. május 25.<ujsor/>
-A képviselet módja: önálló.<ujsor/>
-Kautz István ügyvezetõ (vezetõ tisztségviselõ) vezetõ tisztségviselõ (ügyvezetõ) (an.: Zunke Franciska)<ujsor/>
-Jogv. kezdete: 2009.10.01. Jogv. vége: 2012.05.31.<ujsor/>
-Vált. kezdete: 2010.03.08.<ujsor/>
-Bejegyezve (végzés kelte): 2010. május 25.<ujsor/>
-E végzés ellen fellebbezésnek nincs helye, azonban az ügyész, továbbá az, akire a végzés rendelkezést tartalmaz - a rendelkezés õt érintõ részére vonatkozóan - pert indíthat a cég ellen a cég székhelye szerint illetékes megyei bíróság elõtt a bejegyzõ végzés hatályon kívül helyezése iránt.<ujsor/>
-A per megindításának a bejegyzõ végzés Cégközlönyben való közzétételétõl, illetve - közzétételi kötelezettség hiányában - annak kézbesítésétõl számított 30 napon belül van helye. A határidõ elmulasztása jogvesztéssel jár.<ujsor/>
-2010. május 25.<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.01-09-268781 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett M A H A R T - PassNave SzemÃ©lyhajÃ³zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (1056 Budapest, BelgrÃ¡d rakpart, NemzetkÃ¶zi HajÃ³Ã¡llomÃ¡s; adÃ³szÃ¡ma: 10894332-2-41) kÃ©relme alapjÃ¡n elrendeli az 2010. Ã¡prilis 12. napjÃ¡n hozott Cg.01-09-268781 /206. szÃ¡mÃº vÃ©gzÃ©sÃ©nek kijavÃ­tÃ¡sÃ¡t az alÃ¡bbiak szerint:<ujsor/>
+13. A kÃ©pviseletre jogosult(ak) adatai<ujsor/>
+A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+AdÃ³azonosÃ­tÃ³ jel: 8297093328<ujsor/>
+Kautz IstvÃ¡n Ã¼gyvezetÅ‘ (vezetÅ‘ tisztsÃ©gviselÅ‘) vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘) (an.: Zunke Franciska)<ujsor/>
+Jogv. kezdete: 2009.10.01. Jogv. vÃ©ge: 2010.05.31.<ujsor/>
+VÃ¡lt. vÃ©ge: 2010.03.08.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2010. mÃ¡jus 25.<ujsor/>
+A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+Kautz IstvÃ¡n Ã¼gyvezetÅ‘ (vezetÅ‘ tisztsÃ©gviselÅ‘) vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘) (an.: Zunke Franciska)<ujsor/>
+Jogv. kezdete: 2009.10.01. Jogv. vÃ©ge: 2012.05.31.<ujsor/>
+VÃ¡lt. kezdete: 2010.03.08.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2010. mÃ¡jus 25.<ujsor/>
+E vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye, azonban az Ã¼gyÃ©sz, tovÃ¡bbÃ¡ az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s Å‘t Ã©rintÅ‘ rÃ©szÃ©re vonatkozÃ³an - pert indÃ­that a cÃ©g ellen a cÃ©g szÃ©khelye szerint illetÃ©kes megyei bÃ­rÃ³sÃ¡g elÅ‘tt a bejegyzÅ‘ vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt.<ujsor/>
+A per megindÃ­tÃ¡sÃ¡nak a bejegyzÅ‘ vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l, illetve - kÃ¶zzÃ©tÃ©teli kÃ¶telezettsÃ©g hiÃ¡nyÃ¡ban - annak kÃ©zbesÃ­tÃ©sÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l van helye. A hatÃ¡ridÅ‘ elmulasztÃ¡sa jogvesztÃ©ssel jÃ¡r.<ujsor/>
+2010. mÃ¡jus 25.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109268781</mezo>
-<mezo id = "nev">M A H A R T - PassNave Személyhajózási Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1056 Budapest, Belgrád rakpart, Nemzetközi Hajóállomás</mezo>
+<mezo id = "nev">M A H A R T - PassNave SzemÃ©lyhajÃ³zÃ¡si KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1056 Budapest, BelgrÃ¡d rakpart, NemzetkÃ¶zi HajÃ³Ã¡llomÃ¡s</mezo>
 <mezo id = "adosz">10894332241</mezo>
 </alrovat>
 </rovat>

@@ -5,7 +5,7 @@
 <mezo id = "cf">10</mezo>
 <mezo id = "szam">001150</mezo>
 <mezo id = "nevalrovat">2</mezo>
-<mezo id = "cim">7100 Szekszárd, Keselyûsi u. 26. </mezo>
+<mezo id = "cim">7100 SzekszÃ¡rd, KeselyÅ±si u. 26. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">11285562244</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20060524</mezo>
-<mezo id = "nev">TOLNATEJ Tolna Megyei Tejipari Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">TOLNATEJ Tolna Megyei Tejipari ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -26,15 +26,15 @@
 <alrovat id = "1">
 <mezo id = "hattol">19931231</mezo>
 <mezo id = "irsz">7100</mezo>
-<mezo id = "hely">Szekszárd</mezo>
-<mezo id = "teru">Keselyûsi u. 26.</mezo>
+<mezo id = "hely">SzekszÃ¡rd</mezo>
+<mezo id = "teru">KeselyÅ±si u. 26.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "6">
 <alrovat id = "1">
 <mezo id = "hattol">20100423</mezo>
 <mezo id = "irsz">7100</mezo>
-<mezo id = "hely">Szekszárd</mezo>
+<mezo id = "hely">SzekszÃ¡rd</mezo>
 <mezo id = "teru">Kadarka utca 22.</mezo>
 <mezo id = "valtk">20100423</mezo>
 <mezo id = "bkelt">20100525</mezo>
@@ -44,13 +44,13 @@
 <alrovat id = "1">
 <mezo id = "hattol">19990430</mezo>
 <mezo id = "irsz">7200</mezo>
-<mezo id = "hely">Dombóvár, Baross utca 15-17.</mezo>
+<mezo id = "hely">DombÃ³vÃ¡r, Baross utca 15-17.</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20100423</mezo>
 <mezo id = "irsz">7200</mezo>
-<mezo id = "hely">Dombóvár-Gunaras</mezo>
-<mezo id = "teru">Tó utca 17.</mezo>
+<mezo id = "hely">DombÃ³vÃ¡r-Gunaras</mezo>
+<mezo id = "teru">TÃ³ utca 17.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20100423</mezo>
 <mezo id = "bkelt">20100525</mezo>
@@ -58,7 +58,7 @@
 <alrovat id = "3">
 <mezo id = "hattol">20100423</mezo>
 <mezo id = "irsz">8640</mezo>
-<mezo id = "hely">Fonyód</mezo>
+<mezo id = "hely">FonyÃ³d</mezo>
 <mezo id = "teru">Wekerle utca 41.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20100423</mezo>
@@ -603,9 +603,9 @@
 <alrovat id = "21">
 <mezo id = "hattol">20060414</mezo>
 <mezo id = "pnev">Koller Attila</mezo>
-<mezo id = "panev">Bíró Jolán</mezo>
+<mezo id = "panev">BÃ­rÃ³ JolÃ¡n</mezo>
 <mezo id = "pirsz">7100</mezo>
-<mezo id = "phely">Szekszárd, Dr. Nagy István u. 13.</mezo>
+<mezo id = "phely">SzekszÃ¡rd, Dr. Nagy IstvÃ¡n u. 13.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">2</mezo>
 <mezo id = "jogvk">20060414</mezo>
@@ -613,8 +613,8 @@
 </alrovat>
 <alrovat id = "48">
 <mezo id = "hattol">20100521</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Ifj. Horváth György</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Ifj. HorvÃ¡th GyÃ¶rgy</mezo>
 <mezo id = "panev">Jilling Zsuzsanna</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20070501</mezo>
@@ -624,168 +624,168 @@
 </alrovat>
 <alrovat id = "49">
 <mezo id = "hattol">20100521</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Koller Ferenc</mezo>
-<mezo id = "panev">Bíró Jolán</mezo>
+<mezo id = "panev">BÃ­rÃ³ JolÃ¡n</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20070501</mezo>
-<mezo id = "mnev">Ifj. Horváth György más munkavállaló</mezo>
+<mezo id = "mnev">Ifj. HorvÃ¡th GyÃ¶rgy mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "valtk">20100521</mezo>
 <mezo id = "bkelt">20100525</mezo>
 <mezo id = "adoazon">8367422635</mezo>
 </alrovat>
 <alrovat id = "50">
 <mezo id = "hattol">20100521</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Kovács Mária</mezo>
-<mezo id = "panev">Molnár Julianna</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">KovÃ¡cs MÃ¡ria</mezo>
+<mezo id = "panev">MolnÃ¡r Julianna</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20070501</mezo>
-<mezo id = "mnev">Ifj. Horváth György más munkavállaló</mezo>
+<mezo id = "mnev">Ifj. HorvÃ¡th GyÃ¶rgy mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "valtk">20100521</mezo>
 <mezo id = "bkelt">20100525</mezo>
 <mezo id = "adoazon">8325894466</mezo>
 </alrovat>
 <alrovat id = "51">
 <mezo id = "hattol">20100521</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Horváth Péter</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">HorvÃ¡th PÃ©ter</mezo>
 <mezo id = "panev">Jilling Zsuzsanna</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20070501</mezo>
-<mezo id = "mnev">Ifj. Horváth György más munkavállaló</mezo>
+<mezo id = "mnev">Ifj. HorvÃ¡th GyÃ¶rgy mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "valtk">20100521</mezo>
 <mezo id = "bkelt">20100525</mezo>
 <mezo id = "adoazon">8384381259</mezo>
 </alrovat>
 <alrovat id = "52">
 <mezo id = "hattol">20100521</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Krómer Gábor</mezo>
-<mezo id = "panev">Jung Rozália</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">KrÃ³mer GÃ¡bor</mezo>
+<mezo id = "panev">Jung RozÃ¡lia</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20070501</mezo>
-<mezo id = "mnev">Ifj. Horváth György más munkavállaló</mezo>
+<mezo id = "mnev">Ifj. HorvÃ¡th GyÃ¶rgy mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "valtk">20100521</mezo>
 <mezo id = "bkelt">20100525</mezo>
 <mezo id = "adoazon">8361900101</mezo>
 </alrovat>
 <alrovat id = "53">
 <mezo id = "hattol">20100521</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Bach Ferenc</mezo>
-<mezo id = "panev">Feil Terézia</mezo>
+<mezo id = "panev">Feil TerÃ©zia</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20070501</mezo>
-<mezo id = "mnev">Ifj. Horváth György más munkavállaló</mezo>
+<mezo id = "mnev">Ifj. HorvÃ¡th GyÃ¶rgy mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "valtk">20100521</mezo>
 <mezo id = "bkelt">20100525</mezo>
 <mezo id = "adoazon">8325573562</mezo>
 </alrovat>
 <alrovat id = "54">
 <mezo id = "hattol">20100521</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Krönung József</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">KrÃ¶nung JÃ³zsef</mezo>
 <mezo id = "panev">Pirgl Katalin</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20070501</mezo>
-<mezo id = "mnev">Ifj. Horváth György más munkavállaló</mezo>
+<mezo id = "mnev">Ifj. HorvÃ¡th GyÃ¶rgy mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "valtk">20100521</mezo>
 <mezo id = "bkelt">20100525</mezo>
 <mezo id = "adoazon">8328982404</mezo>
 </alrovat>
 <alrovat id = "55">
 <mezo id = "hattol">20100521</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Varga Gyula</mezo>
 <mezo id = "panev">Niedermann Katalin</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20070501</mezo>
-<mezo id = "mnev">Ifj. Horváth György más munkavállaló</mezo>
+<mezo id = "mnev">Ifj. HorvÃ¡th GyÃ¶rgy mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "valtk">20100521</mezo>
 <mezo id = "bkelt">20100525</mezo>
 <mezo id = "adoazon">8322733771</mezo>
 </alrovat>
 <alrovat id = "56">
 <mezo id = "hattol">20100521</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Dr. Kiss Gábor</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Dr. Kiss GÃ¡bor</mezo>
 <mezo id = "panev">Bors Katalin</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20070501</mezo>
-<mezo id = "mnev">Ifj. Horváth György más munkavállaló</mezo>
+<mezo id = "mnev">Ifj. HorvÃ¡th GyÃ¶rgy mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "valtk">20100521</mezo>
 <mezo id = "bkelt">20100525</mezo>
 <mezo id = "adoazon">8374292946</mezo>
 </alrovat>
 <alrovat id = "57">
 <mezo id = "hattol">20100521</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Pintér Sándor</mezo>
-<mezo id = "panev">Kesztyûs Mária</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">PintÃ©r SÃ¡ndor</mezo>
+<mezo id = "panev">KesztyÅ±s MÃ¡ria</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20070501</mezo>
-<mezo id = "mnev">Ifj. Horváth György más munkavállaló</mezo>
+<mezo id = "mnev">Ifj. HorvÃ¡th GyÃ¶rgy mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "valtk">20100521</mezo>
 <mezo id = "bkelt">20100525</mezo>
 <mezo id = "adoazon">8337074515</mezo>
 </alrovat>
 <alrovat id = "58">
 <mezo id = "hattol">20100521</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Korsós Lászlóné</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">KorsÃ³s LÃ¡szlÃ³nÃ©</mezo>
 <mezo id = "panev">Piringer Regina</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20070501</mezo>
-<mezo id = "mnev">Ifj. Horváth György más munkavállaló</mezo>
+<mezo id = "mnev">Ifj. HorvÃ¡th GyÃ¶rgy mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "valtk">20100521</mezo>
 <mezo id = "bkelt">20100525</mezo>
 <mezo id = "adoazon">8355482948</mezo>
 </alrovat>
 <alrovat id = "59">
 <mezo id = "hattol">20100521</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Dr. Gutai Andrea</mezo>
 <mezo id = "panev">Hadnagy Ilona</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20070501</mezo>
-<mezo id = "mnev">Ifj. Horváth György más munkavállaló</mezo>
+<mezo id = "mnev">Ifj. HorvÃ¡th GyÃ¶rgy mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "valtk">20100521</mezo>
 <mezo id = "bkelt">20100525</mezo>
 <mezo id = "adoazon">8363003530</mezo>
 </alrovat>
 <alrovat id = "60">
 <mezo id = "hattol">20100521</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Buzás Zoltán</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">BuzÃ¡s ZoltÃ¡n</mezo>
 <mezo id = "panev">Nikolov Katalin</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20070501</mezo>
-<mezo id = "mnev">Ifj. Horváth György más munkavállaló</mezo>
+<mezo id = "mnev">Ifj. HorvÃ¡th GyÃ¶rgy mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "valtk">20100521</mezo>
 <mezo id = "bkelt">20100525</mezo>
 <mezo id = "adoazon">8388424343</mezo>
 </alrovat>
 <alrovat id = "61">
 <mezo id = "hattol">20100521</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Heidecker László</mezo>
-<mezo id = "panev">Messinger Teréz</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">Heidecker LÃ¡szlÃ³</mezo>
+<mezo id = "panev">Messinger TerÃ©z</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20070501</mezo>
-<mezo id = "mnev">Ifj. Horváth György más munkavállaló</mezo>
+<mezo id = "mnev">Ifj. HorvÃ¡th GyÃ¶rgy mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "valtk">20100521</mezo>
 <mezo id = "bkelt">20100525</mezo>
 <mezo id = "adoazon">8348392645</mezo>
 </alrovat>
 <alrovat id = "62">
 <mezo id = "hattol">20110324</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Koller Ferenc igazgatósági elnök</mezo>
-<mezo id = "panev">Kádár Mária</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">Koller Ferenc igazgatÃ³sÃ¡gi elnÃ¶k</mezo>
+<mezo id = "panev">KÃ¡dÃ¡r MÃ¡ria</mezo>
 <mezo id = "pirsz">7100</mezo>
-<mezo id = "phely">Szekszárd</mezo>
-<mezo id = "pteru">Dr. Nagy István utca 15.</mezo>
+<mezo id = "phely">SzekszÃ¡rd</mezo>
+<mezo id = "pteru">Dr. Nagy IstvÃ¡n utca 15.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20110324</mezo>
 <mezo id = "jogvv">20160531</mezo>
@@ -795,12 +795,12 @@
 </alrovat>
 <alrovat id = "63">
 <mezo id = "hattol">20110324</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Horváth György</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">HorvÃ¡th GyÃ¶rgy</mezo>
 <mezo id = "panev">Csath Julianna</mezo>
 <mezo id = "pirsz">7100</mezo>
-<mezo id = "phely">Szekszárd</mezo>
-<mezo id = "pteru">Cseri János utca 85.</mezo>
+<mezo id = "phely">SzekszÃ¡rd</mezo>
+<mezo id = "pteru">Cseri JÃ¡nos utca 85.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20110324</mezo>
 <mezo id = "jogvv">20160531</mezo>
@@ -810,12 +810,12 @@
 </alrovat>
 <alrovat id = "64">
 <mezo id = "hattol">20110324</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
 <mezo id = "pnev">Nagy Csaba</mezo>
-<mezo id = "panev">Bodó Mária</mezo>
+<mezo id = "panev">BodÃ³ MÃ¡ria</mezo>
 <mezo id = "pirsz">7100</mezo>
-<mezo id = "phely">Szekszárd</mezo>
-<mezo id = "pteru">Honvéd utca 25.</mezo>
+<mezo id = "phely">SzekszÃ¡rd</mezo>
+<mezo id = "pteru">HonvÃ©d utca 25.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20110324</mezo>
 <mezo id = "jogvv">20160531</mezo>
@@ -825,12 +825,12 @@
 </alrovat>
 <alrovat id = "65">
 <mezo id = "hattol">20110324</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Koller Attila vezérigazgató</mezo>
-<mezo id = "panev">Bíró Jolán</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">Koller Attila vezÃ©rigazgatÃ³</mezo>
+<mezo id = "panev">BÃ­rÃ³ JolÃ¡n</mezo>
 <mezo id = "pirsz">7100</mezo>
-<mezo id = "phely">Szekszárd</mezo>
-<mezo id = "pteru">Dr. Nagy István utca 13.</mezo>
+<mezo id = "phely">SzekszÃ¡rd</mezo>
+<mezo id = "pteru">Dr. Nagy IstvÃ¡n utca 13.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20110324</mezo>
 <mezo id = "jogvv">20160531</mezo>
@@ -843,16 +843,16 @@
 <alrovat id = "4">
 <mezo id = "hattol">20110324</mezo>
 <mezo id = "cgjsz">1709004441</mezo>
-<mezo id = "nev">KRISTÁLY-Audit Könyvvizsgáló Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">KRISTÃLY-Audit KÃ¶nyvvizsgÃ¡lÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">7100</mezo>
-<mezo id = "hely">Szekszárd</mezo>
-<mezo id = "teru">Tinódi utca 5.</mezo>
+<mezo id = "hely">SzekszÃ¡rd</mezo>
+<mezo id = "teru">TinÃ³di utca 5.</mezo>
 <mezo id = "pnev">Nyirati Ferenc</mezo>
 <mezo id = "panev">Bakonyi Margit</mezo>
 <mezo id = "pirsz">7100</mezo>
-<mezo id = "phely">Szekszárd</mezo>
-<mezo id = "pteru">Tinódi utca 5.</mezo>
+<mezo id = "phely">SzekszÃ¡rd</mezo>
+<mezo id = "pteru">TinÃ³di utca 5.</mezo>
 <mezo id = "jogvk">20110324</mezo>
 <mezo id = "jogvv">20160324</mezo>
 <mezo id = "valtk">20110324</mezo>
@@ -862,7 +862,7 @@
 <rovat id = "15">
 <alrovat id = "26">
 <mezo id = "hattol">20060330</mezo>
-<mezo id = "pnev">Krönung József</mezo>
+<mezo id = "pnev">KrÃ¶nung JÃ³zsef</mezo>
 <mezo id = "panev">Pirgl Katalin</mezo>
 <mezo id = "pirsz">7728</mezo>
 <mezo id = "phely">Somberek, Kossuth utca 130.</mezo>
@@ -871,11 +871,11 @@
 </alrovat>
 <alrovat id = "28">
 <mezo id = "hattol">20110324</mezo>
-<mezo id = "pnev">Szauter Mihály</mezo>
-<mezo id = "panev">Réhm Anna</mezo>
+<mezo id = "pnev">Szauter MihÃ¡ly</mezo>
+<mezo id = "panev">RÃ©hm Anna</mezo>
 <mezo id = "pirsz">7100</mezo>
-<mezo id = "phely">Szekszárd</mezo>
-<mezo id = "pteru">Székely Bertalan utca 23.</mezo>
+<mezo id = "phely">SzekszÃ¡rd</mezo>
+<mezo id = "pteru">SzÃ©kely Bertalan utca 23.</mezo>
 <mezo id = "jogvk">20110324</mezo>
 <mezo id = "jogvv">20160531</mezo>
 <mezo id = "valtk">20110324</mezo>
@@ -883,10 +883,10 @@
 </alrovat>
 <alrovat id = "29">
 <mezo id = "hattol">20110324</mezo>
-<mezo id = "pnev">Grill János</mezo>
+<mezo id = "pnev">Grill JÃ¡nos</mezo>
 <mezo id = "panev">Pohl Ilona</mezo>
 <mezo id = "pirsz">7090</mezo>
-<mezo id = "phely">Tamási</mezo>
+<mezo id = "phely">TamÃ¡si</mezo>
 <mezo id = "pteru">Perczel utca 7.</mezo>
 <mezo id = "jogvk">20110324</mezo>
 <mezo id = "jogvv">20160531</mezo>
@@ -895,11 +895,11 @@
 </alrovat>
 <alrovat id = "30">
 <mezo id = "hattol">20110324</mezo>
-<mezo id = "pnev">Krómer Ferenc</mezo>
+<mezo id = "pnev">KrÃ³mer Ferenc</mezo>
 <mezo id = "panev">Rumpler Katalin</mezo>
 <mezo id = "pirsz">7173</mezo>
 <mezo id = "phely">Zomba</mezo>
-<mezo id = "pteru">Rákóczi utca 6.</mezo>
+<mezo id = "pteru">RÃ¡kÃ³czi utca 6.</mezo>
 <mezo id = "jogvk">20110324</mezo>
 <mezo id = "jogvv">20160531</mezo>
 <mezo id = "valtk">20110324</mezo>
@@ -907,10 +907,10 @@
 </alrovat>
 <alrovat id = "31">
 <mezo id = "hattol">20110324</mezo>
-<mezo id = "pnev">Hauszknecht Ferencné</mezo>
-<mezo id = "panev">Csobot Erzsébet</mezo>
+<mezo id = "pnev">Hauszknecht FerencnÃ©</mezo>
+<mezo id = "panev">Csobot ErzsÃ©bet</mezo>
 <mezo id = "pirsz">7100</mezo>
-<mezo id = "phely">Szekszárd</mezo>
+<mezo id = "phely">SzekszÃ¡rd</mezo>
 <mezo id = "pteru">Damjanich utca 27/A.</mezo>
 <mezo id = "jogvk">20110324</mezo>
 <mezo id = "jogvv">20160531</mezo>
@@ -920,7 +920,7 @@
 </alrovat>
 <alrovat id = "32">
 <mezo id = "hattol">20110324</mezo>
-<mezo id = "pnev">Krönung József</mezo>
+<mezo id = "pnev">KrÃ¶nung JÃ³zsef</mezo>
 <mezo id = "panev">Pirgl Katalin</mezo>
 <mezo id = "pirsz">7728</mezo>
 <mezo id = "phely">Somberek</mezo>
@@ -936,8 +936,8 @@
 <alrovat id = "1">
 <mezo id = "hattol">19931231</mezo>
 <mezo id = "cgjsz">1701000570</mezo>
-<mezo id = "nev">Tolna Megyei Tejipari Vállalat</mezo>
-<mezo id = "mod">1992. évi LIV. tv. alapján</mezo>
+<mezo id = "nev">Tolna Megyei Tejipari VÃ¡llalat</mezo>
+<mezo id = "mod">1992. Ã©vi LIV. tv. alapjÃ¡n</mezo>
 </alrovat>
 </rovat>
 <rovat id = "20">
@@ -960,11 +960,11 @@
 <alrovat id = "4">
 <mezo id = "hattol">20081002</mezo>
 <mezo id = "cgjsz">1709002021</mezo>
-<mezo id = "nev">TEJINVEST Nagykereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">TEJINVEST Nagykereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">7100</mezo>
-<mezo id = "hely">Szekszárd</mezo>
-<mezo id = "teru">Keselyûsi</mezo>
+<mezo id = "hely">SzekszÃ¡rd</mezo>
+<mezo id = "teru">KeselyÅ±si</mezo>
 <mezo id = "hsz">26</mezo>
 <mezo id = "tagsk">20030127</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -984,179 +984,179 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2001. 05. 07-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-09. 52.23 Hal-, rák-kiskereskedelem.<ujsor/>
- Törölve: 2001. 05. 07-i hatállyal.<ujsor/>
- 55.23 Egyéb szálláshely-szolgáltatás.<ujsor/>
- Hatályos: 2001. 05. 07-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2001. 05. 07-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+09. 52.23 Hal-, rÃ¡k-kiskereskedelem.<ujsor/>
+ TÃ¶rÃ¶lve: 2001. 05. 07-i hatÃ¡llyal.<ujsor/>
+ 55.23 EgyÃ©b szÃ¡llÃ¡shely-szolgÃ¡ltatÃ¡s.<ujsor/>
+ HatÃ¡lyos: 2001. 05. 07-tÅ‘l.<ujsor/>
 Bejegyezve: 2001. 05. 21.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1710001150</mezo>
-<mezo id = "nev">TOLNATEJ Tolna Megyei Tejipari Részvénytársaság</mezo>
-<mezo id = "cim">7100 Szekszárd, Keselyûsi u. 26.</mezo>
+<mezo id = "nev">TOLNATEJ Tolna Megyei Tejipari RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">7100 SzekszÃ¡rd, KeselyÅ±si u. 26.</mezo>
 <mezo id = "adosz">11285562217</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A TEJINVEST Nagykereskedelmi és Szolgáltató Kft. (Cg.: [17 09 002021]; 7100 Szekszárd, Bezerédj u. 30. fszt. 3.) bejelenti, hogy a TOLNATEJ Tolna Megyei Tejipari Rt.-ben (Cg.: [17 10 001150]; 7100 Szekszárd, Keselyûsi út 26.), a 2003. január 27-én történt részvényvásárlások következében többségi irányítást biztosító befolyással rendelkezik.<ujsor/>
-A részvényvásárlással 50,9%-ban tulajdonosa a kft. az rt.-nek.<ujsor/>
+<mezo id = "szoveg">A TEJINVEST Nagykereskedelmi Ã©s SzolgÃ¡ltatÃ³ Kft. (Cg.: [17 09 002021]; 7100 SzekszÃ¡rd, BezerÃ©dj u. 30. fszt. 3.) bejelenti, hogy a TOLNATEJ Tolna Megyei Tejipari Rt.-ben (Cg.: [17 10 001150]; 7100 SzekszÃ¡rd, KeselyÅ±si Ãºt 26.), a 2003. januÃ¡r 27-Ã©n tÃ¶rtÃ©nt rÃ©szvÃ©nyvÃ¡sÃ¡rlÃ¡sok kÃ¶vetkezÃ©ben tÃ¶bbsÃ©gi irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡ssal rendelkezik.<ujsor/>
+A rÃ©szvÃ©nyvÃ¡sÃ¡rlÃ¡ssal 50,9%-ban tulajdonosa a kft. az rt.-nek.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1710001150</mezo>
-<mezo id = "nev">TOLNATEJ Tolna Megyei Tejipari Részvénytársaság</mezo>
-<mezo id = "cim">7100 Szekszárd, Keselyûsi u. 26. </mezo>
+<mezo id = "nev">TOLNATEJ Tolna Megyei Tejipari RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">7100 SzekszÃ¡rd, KeselyÅ±si u. 26. </mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2006. 05. 24-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (tisztségviselõ).<ujsor/>
- Koller Attila (an: Bíró Jolán)<ujsor/>
-7100 Szekszárd, Dr. Nagy István u. 13.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2006. 05. 24-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (tisztsÃ©gviselÅ‘).<ujsor/>
+ Koller Attila (an: BÃ­rÃ³ JolÃ¡n)<ujsor/>
+7100 SzekszÃ¡rd, Dr. Nagy IstvÃ¡n u. 13.<ujsor/>
  A jogviszony kezdete: 2006. 04. 14.<ujsor/>
- A jogviszony vége: 2011. 03. 30.<ujsor/>
- Törölve: 2006. 04. 14.<ujsor/>
- A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (tisztségviselõ).<ujsor/>
- Koller Attila (an: Bíró Jolán)<ujsor/>
-7100 Szekszárd, Dr. Nagy István u. 13.<ujsor/>
+ A jogviszony vÃ©ge: 2011. 03. 30.<ujsor/>
+ TÃ¶rÃ¶lve: 2006. 04. 14.<ujsor/>
+ A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (tisztsÃ©gviselÅ‘).<ujsor/>
+ Koller Attila (an: BÃ­rÃ³ JolÃ¡n)<ujsor/>
+7100 SzekszÃ¡rd, Dr. Nagy IstvÃ¡n u. 13.<ujsor/>
  A jogviszony kezdete: 2005. 04. 18.<ujsor/>
- A jogviszony vége: 2006. 05. 31.<ujsor/>
+ A jogviszony vÃ©ge: 2006. 05. 31.<ujsor/>
  Bejegyezve: 2005. 04. 18.<ujsor/>
- A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (tisztségviselõ).<ujsor/>
- Koller Attila (an: Bíró Jolán)<ujsor/>
-7100 Szekszárd, Dr. Nagy István u. 13.<ujsor/>
+ A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (tisztsÃ©gviselÅ‘).<ujsor/>
+ Koller Attila (an: BÃ­rÃ³ JolÃ¡n)<ujsor/>
+7100 SzekszÃ¡rd, Dr. Nagy IstvÃ¡n u. 13.<ujsor/>
  A jogviszony kezdete: 2006. 03. 30.<ujsor/>
- A jogviszony vége: 2011. 03. 30.<ujsor/>
+ A jogviszony vÃ©ge: 2011. 03. 30.<ujsor/>
  Bejegyezve: 2006. 03. 30.<ujsor/>
-15. Krönung József (an: Pirgl Katalin)<ujsor/>
+15. KrÃ¶nung JÃ³zsef (an: Pirgl Katalin)<ujsor/>
 7728 Somberek, Kossuth utca 130.<ujsor/>
  A jogviszony kezdete: 2005. 04. 18.<ujsor/>
- A jogviszony vége: 2006. 05. 31.<ujsor/>
- Törölve: 2006. 03. 30.<ujsor/>
- Krönung József (an: Pirgl Katalin)<ujsor/>
+ A jogviszony vÃ©ge: 2006. 05. 31.<ujsor/>
+ TÃ¶rÃ¶lve: 2006. 03. 30.<ujsor/>
+ KrÃ¶nung JÃ³zsef (an: Pirgl Katalin)<ujsor/>
 7728 Somberek, Kossuth utca 130.<ujsor/>
  A jogviszony kezdete: 2006. 03. 30.<ujsor/>
- A jogviszony vége: 2011. 03. 30.<ujsor/>
+ A jogviszony vÃ©ge: 2011. 03. 30.<ujsor/>
  Bejegyezve: 2006. 03. 30.<ujsor/>
 Bejegyezve: 2006. 06. 16.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1710001150</mezo>
-<mezo id = "nev">TOLNATEJ Tolna Megyei Tejipari Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">7100 Szekszárd, Keselyûsi u. 26.</mezo>
+<mezo id = "nev">TOLNATEJ Tolna Megyei Tejipari ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">7100 SzekszÃ¡rd, KeselyÅ±si u. 26.</mezo>
 <mezo id = "adosz">11285562217</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A TOLNATEJ Tolna Megyei Tejipari Zártkörûen Mûködõ Részvénytársaság (Cg.: [17 10 001150]; székhelye: 7100 Szekszárd, Keselyûsi út 26.; a továbbiakban: társaság) igazgatósága a 2006. évi IV. törvény 271. § (1) bekezdésében foglaltaknak eleget téve közzéteszi, hogy a társaság 2007. július 23-án megtartott rendkívüli közgyûlése 14/2007. (VII. 23.) számú határozatával az alaptõke leszállításáról döntött az alábbiak szerint:<ujsor/>
-a) Az alaptõke-leszállítás oka: tõkekivonás.<ujsor/>
-b) Az alaptõke-leszállítás mértéke: 114 420 000 Ft.<ujsor/>
-c) Az alaptõke-leszállítással érintett részvények:<ujsor/>
-2 db 10 000 Ft névértékû „B” sorozatú,<ujsor/>
-1074 db 100 000 Ft névértékû „C” sorozatú,<ujsor/>
-7 db 1 000 000 Ft névértékû „D” sorozatú törzsrészvény.<ujsor/>
-d) Az alaptõke leszállítása a társaság tulajdonában lévõ saját részvények bevonásával valósul meg.<ujsor/>
-Az alaptõke összege a leszállítást megelõzõen: 1 144 296 000 Ft, a leszállítást követõen: 1 029 876 000 Ft.<ujsor/>
-A társaság esetleges hitelezõi a jelen hirdetmény elsõ alkalommal történõ közzétételét megelõzõen keletkezett és ezen idõpontig esedékessé nem vált követeléseik után biztosítékra tarthatnak igényt a második közzétételtõl számított 30 napos jogvesztõ határidõn belül. Az igazgatóság álláspontja ugyanakkor az, hogy a társaság kifogástalan pénzügyi, vagyoni helyzetére figyelemmel a biztosítékadás indokolatlan.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">A TOLNATEJ Tolna Megyei Tejipari ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [17 10 001150]; szÃ©khelye: 7100 SzekszÃ¡rd, KeselyÅ±si Ãºt 26.; a tovÃ¡bbiakban: tÃ¡rsasÃ¡g) igazgatÃ³sÃ¡ga a 2006. Ã©vi IV. tÃ¶rvÃ©ny 271. Â§ (1) bekezdÃ©sÃ©ben foglaltaknak eleget tÃ©ve kÃ¶zzÃ©teszi, hogy a tÃ¡rsasÃ¡g 2007. jÃºlius 23-Ã¡n megtartott rendkÃ­vÃ¼li kÃ¶zgyÅ±lÃ©se 14/2007. (VII. 23.) szÃ¡mÃº hatÃ¡rozatÃ¡val az alaptÅ‘ke leszÃ¡llÃ­tÃ¡sÃ¡rÃ³l dÃ¶ntÃ¶tt az alÃ¡bbiak szerint:<ujsor/>
+a) Az alaptÅ‘ke-leszÃ¡llÃ­tÃ¡s oka: tÅ‘kekivonÃ¡s.<ujsor/>
+b) Az alaptÅ‘ke-leszÃ¡llÃ­tÃ¡s mÃ©rtÃ©ke: 114 420 000 Ft.<ujsor/>
+c) Az alaptÅ‘ke-leszÃ¡llÃ­tÃ¡ssal Ã©rintett rÃ©szvÃ©nyek:<ujsor/>
+2 db 10 000 Ft nÃ©vÃ©rtÃ©kÅ± â€Bâ€ sorozatÃº,<ujsor/>
+1074 db 100 000 Ft nÃ©vÃ©rtÃ©kÅ± â€Câ€ sorozatÃº,<ujsor/>
+7 db 1 000 000 Ft nÃ©vÃ©rtÃ©kÅ± â€Dâ€ sorozatÃº tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+d) Az alaptÅ‘ke leszÃ¡llÃ­tÃ¡sa a tÃ¡rsasÃ¡g tulajdonÃ¡ban lÃ©vÅ‘ sajÃ¡t rÃ©szvÃ©nyek bevonÃ¡sÃ¡val valÃ³sul meg.<ujsor/>
+Az alaptÅ‘ke Ã¶sszege a leszÃ¡llÃ­tÃ¡st megelÅ‘zÅ‘en: 1 144 296 000 Ft, a leszÃ¡llÃ­tÃ¡st kÃ¶vetÅ‘en: 1 029 876 000 Ft.<ujsor/>
+A tÃ¡rsasÃ¡g esetleges hitelezÅ‘i a jelen hirdetmÃ©ny elsÅ‘ alkalommal tÃ¶rtÃ©nÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkezett Ã©s ezen idÅ‘pontig esedÃ©kessÃ© nem vÃ¡lt kÃ¶vetelÃ©seik utÃ¡n biztosÃ­tÃ©kra tarthatnak igÃ©nyt a mÃ¡sodik kÃ¶zzÃ©tÃ©teltÅ‘l szÃ¡mÃ­tott 30 napos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l. Az igazgatÃ³sÃ¡g Ã¡llÃ¡spontja ugyanakkor az, hogy a tÃ¡rsasÃ¡g kifogÃ¡stalan pÃ©nzÃ¼gyi, vagyoni helyzetÃ©re figyelemmel a biztosÃ­tÃ©kadÃ¡s indokolatlan.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">1710001150</mezo>
-<mezo id = "nev">TOLNATEJ Tolna Megyei Tejipari Részvénytársaság</mezo>
-<mezo id = "cim">7100 Szekszárd</mezo>
+<mezo id = "nev">TOLNATEJ Tolna Megyei Tejipari RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">7100 SzekszÃ¡rd</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A TOLNATEJ Tolna Megyei Tejipari Zártkörûen Mûködõ Részvénytársaság (Cg.: [17 10 001150]; székhelye: 7100 Szekszárd, Keselyûsi út 26.; a továbbiakban: társaság) igazgatósága a 2006. évi IV. törvény 271. § (1) bekezdésében foglaltaknak eleget téve közzéteszi, hogy a társaság 2007. július 23-án megtartott rendkívüli közgyûlése 14/2007. (VII. 23.) számú határozatával az alaptõke leszállításáról döntött az alábbiak szerint:<ujsor/>
-a) Az alaptõke-leszállítás oka: tõkekivonás.<ujsor/>
-b) Az alaptõke-leszállítás mértéke: 114 420 000 Ft.<ujsor/>
-c) Az alaptõke-leszállítással érintett részvények:<ujsor/>
-2 db 10 000 Ft névértékû „B” sorozatú,<ujsor/>
-1074 db 100 000 Ft névértékû „C” sorozatú,<ujsor/>
-7 db 1 000 000 Ft névértékû „D” sorozatú törzsrészvény.<ujsor/>
-d) Az alaptõke leszállítása a társaság tulajdonában lévõ saját részvények bevonásával valósul meg.<ujsor/>
-Az alaptõke összege a leszállítást megelõzõen: 1 144 296 000 Ft, a leszállítást követõen: 1 029 876 000 Ft.<ujsor/>
-A társaság esetleges hitelezõi a jelen hirdetmény elsõ alkalommal történõ közzétételét megelõzõen keletkezett és ezen idõpontig esedékessé nem vált követeléseik után biztosítékra tarthatnak igényt a második közzétételtõl számított 30 napos jogvesztõ határidõn belül. Az igazgatóság álláspontja ugyanakkor az, hogy a társaság kifogástalan pénzügyi, vagyoni helyzetére figyelmemmel a biztosítékadás indokolatlan.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">A TOLNATEJ Tolna Megyei Tejipari ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [17 10 001150]; szÃ©khelye: 7100 SzekszÃ¡rd, KeselyÅ±si Ãºt 26.; a tovÃ¡bbiakban: tÃ¡rsasÃ¡g) igazgatÃ³sÃ¡ga a 2006. Ã©vi IV. tÃ¶rvÃ©ny 271. Â§ (1) bekezdÃ©sÃ©ben foglaltaknak eleget tÃ©ve kÃ¶zzÃ©teszi, hogy a tÃ¡rsasÃ¡g 2007. jÃºlius 23-Ã¡n megtartott rendkÃ­vÃ¼li kÃ¶zgyÅ±lÃ©se 14/2007. (VII. 23.) szÃ¡mÃº hatÃ¡rozatÃ¡val az alaptÅ‘ke leszÃ¡llÃ­tÃ¡sÃ¡rÃ³l dÃ¶ntÃ¶tt az alÃ¡bbiak szerint:<ujsor/>
+a) Az alaptÅ‘ke-leszÃ¡llÃ­tÃ¡s oka: tÅ‘kekivonÃ¡s.<ujsor/>
+b) Az alaptÅ‘ke-leszÃ¡llÃ­tÃ¡s mÃ©rtÃ©ke: 114 420 000 Ft.<ujsor/>
+c) Az alaptÅ‘ke-leszÃ¡llÃ­tÃ¡ssal Ã©rintett rÃ©szvÃ©nyek:<ujsor/>
+2 db 10 000 Ft nÃ©vÃ©rtÃ©kÅ± â€Bâ€ sorozatÃº,<ujsor/>
+1074 db 100 000 Ft nÃ©vÃ©rtÃ©kÅ± â€Câ€ sorozatÃº,<ujsor/>
+7 db 1 000 000 Ft nÃ©vÃ©rtÃ©kÅ± â€Dâ€ sorozatÃº tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+d) Az alaptÅ‘ke leszÃ¡llÃ­tÃ¡sa a tÃ¡rsasÃ¡g tulajdonÃ¡ban lÃ©vÅ‘ sajÃ¡t rÃ©szvÃ©nyek bevonÃ¡sÃ¡val valÃ³sul meg.<ujsor/>
+Az alaptÅ‘ke Ã¶sszege a leszÃ¡llÃ­tÃ¡st megelÅ‘zÅ‘en: 1 144 296 000 Ft, a leszÃ¡llÃ­tÃ¡st kÃ¶vetÅ‘en: 1 029 876 000 Ft.<ujsor/>
+A tÃ¡rsasÃ¡g esetleges hitelezÅ‘i a jelen hirdetmÃ©ny elsÅ‘ alkalommal tÃ¶rtÃ©nÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkezett Ã©s ezen idÅ‘pontig esedÃ©kessÃ© nem vÃ¡lt kÃ¶vetelÃ©seik utÃ¡n biztosÃ­tÃ©kra tarthatnak igÃ©nyt a mÃ¡sodik kÃ¶zzÃ©tÃ©teltÅ‘l szÃ¡mÃ­tott 30 napos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l. Az igazgatÃ³sÃ¡g Ã¡llÃ¡spontja ugyanakkor az, hogy a tÃ¡rsasÃ¡g kifogÃ¡stalan pÃ©nzÃ¼gyi, vagyoni helyzetÃ©re figyelmemmel a biztosÃ­tÃ©kadÃ¡s indokolatlan.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">1710001150</mezo>
-<mezo id = "nev">TOLNATEJ Tolna Megyei Tejipari Részvénytársaság</mezo>
-<mezo id = "cim">7100 Szekszárd</mezo>
+<mezo id = "nev">TOLNATEJ Tolna Megyei Tejipari RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">7100 SzekszÃ¡rd</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A TOLNATEJ Tolna Megyei Tejipari Zártkörûen Mûködõ Részvénytársaság (Cg.: [17 10 001150]; székhelye 7100 Szekszárd, Keselyûsi út 26., a továbbiakban: társaság) igazgatósága a 2006. évi IV. törvény 271. § (1) bekezdésében foglaltaknak eleget téve közzéteszi, hogy a társaság 2008. április 18-án megtartott évi rendes közgyûlése 9/2008. (IV. 18.) számú határozatával az alaptõke leszállításáról döntött az alábbiak szerint:<ujsor/>
-Az alaptõke-leszállítás oka: tõkekivonás.<ujsor/>
-Az alaptõke-leszállítás mértéke: 98 250 000 Ft.<ujsor/>
-Az alaptõke-leszállítással érintett részvények:<ujsor/>
-115 db 10 000 Ft névértékû, „B” sorozatú,<ujsor/>
-971 db 100 000 Ft névértékû, „C” sorozatú.<ujsor/>
-Az alaptõke leszállítása a társaság tulajdonában lévõ saját részvények bevonásával valósul meg.<ujsor/>
-Az alaptõke összege a leszállítást megelõzõen 1 029 876 000 Ft, a leszállítást követõen 931 626 000 Ft.<ujsor/>
-A társaság esetleges hitelezõi a jelen hirdetmény elsõ alkalommal történt közzétételét megelõzõen keletkezett és ezen idõpontig esedékessé nem vált követeléseik után biztosítékra tarthatnak igényt a második közzétételtõl számított 30 napos jogvesztõ határidõn belül. Az igazgatóság álláspontja ugyanakkor az, hogy a társaság kifogástalan pénzügyi, vagyoni helyzetére figyelemmel a biztosítékadás indokolatlan.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">A TOLNATEJ Tolna Megyei Tejipari ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [17 10 001150]; szÃ©khelye 7100 SzekszÃ¡rd, KeselyÅ±si Ãºt 26., a tovÃ¡bbiakban: tÃ¡rsasÃ¡g) igazgatÃ³sÃ¡ga a 2006. Ã©vi IV. tÃ¶rvÃ©ny 271. Â§ (1) bekezdÃ©sÃ©ben foglaltaknak eleget tÃ©ve kÃ¶zzÃ©teszi, hogy a tÃ¡rsasÃ¡g 2008. Ã¡prilis 18-Ã¡n megtartott Ã©vi rendes kÃ¶zgyÅ±lÃ©se 9/2008. (IV. 18.) szÃ¡mÃº hatÃ¡rozatÃ¡val az alaptÅ‘ke leszÃ¡llÃ­tÃ¡sÃ¡rÃ³l dÃ¶ntÃ¶tt az alÃ¡bbiak szerint:<ujsor/>
+Az alaptÅ‘ke-leszÃ¡llÃ­tÃ¡s oka: tÅ‘kekivonÃ¡s.<ujsor/>
+Az alaptÅ‘ke-leszÃ¡llÃ­tÃ¡s mÃ©rtÃ©ke: 98 250 000 Ft.<ujsor/>
+Az alaptÅ‘ke-leszÃ¡llÃ­tÃ¡ssal Ã©rintett rÃ©szvÃ©nyek:<ujsor/>
+115 db 10 000 Ft nÃ©vÃ©rtÃ©kÅ±, â€Bâ€ sorozatÃº,<ujsor/>
+971 db 100 000 Ft nÃ©vÃ©rtÃ©kÅ±, â€Câ€ sorozatÃº.<ujsor/>
+Az alaptÅ‘ke leszÃ¡llÃ­tÃ¡sa a tÃ¡rsasÃ¡g tulajdonÃ¡ban lÃ©vÅ‘ sajÃ¡t rÃ©szvÃ©nyek bevonÃ¡sÃ¡val valÃ³sul meg.<ujsor/>
+Az alaptÅ‘ke Ã¶sszege a leszÃ¡llÃ­tÃ¡st megelÅ‘zÅ‘en 1 029 876 000 Ft, a leszÃ¡llÃ­tÃ¡st kÃ¶vetÅ‘en 931 626 000 Ft.<ujsor/>
+A tÃ¡rsasÃ¡g esetleges hitelezÅ‘i a jelen hirdetmÃ©ny elsÅ‘ alkalommal tÃ¶rtÃ©nt kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkezett Ã©s ezen idÅ‘pontig esedÃ©kessÃ© nem vÃ¡lt kÃ¶vetelÃ©seik utÃ¡n biztosÃ­tÃ©kra tarthatnak igÃ©nyt a mÃ¡sodik kÃ¶zzÃ©tÃ©teltÅ‘l szÃ¡mÃ­tott 30 napos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l. Az igazgatÃ³sÃ¡g Ã¡llÃ¡spontja ugyanakkor az, hogy a tÃ¡rsasÃ¡g kifogÃ¡stalan pÃ©nzÃ¼gyi, vagyoni helyzetÃ©re figyelemmel a biztosÃ­tÃ©kadÃ¡s indokolatlan.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">1710001150</mezo>
-<mezo id = "nev">TOLNATEJ Tolna Megyei Tejipari Részvénytársaság</mezo>
-<mezo id = "cim">7100 Szekszárd</mezo>
+<mezo id = "nev">TOLNATEJ Tolna Megyei Tejipari RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">7100 SzekszÃ¡rd</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A TOLNATEJ Tolna Megyei Tejipari Zártkörûen Mûködõ Részvénytársaság (Cg.: [17 10 001150]; székhelye 7100 Szekszárd, Keselyûsi út 26., a továbbiakban: társaság) igazgatósága a 2006. évi IV. törvény 271. § (1) bekezdésében foglaltaknak eleget téve közzéteszi, hogy a társaság 2008. április 18-án megtartott évi rendes közgyûlése 9/2008. (IV. 18.) számú határozatával az alaptõke leszállításáról döntött az alábbiak szerint:<ujsor/>
-Az alaptõke-leszállítás oka: tõkekivonás.<ujsor/>
-Az alaptõke-leszállítás mértéke: 98 250 000 Ft.<ujsor/>
-Az alaptõke-leszállítással érintett részvények:<ujsor/>
-115 db 10 000 Ft névértékû, „B” sorozatú,<ujsor/>
-971 db 100 000 Ft névértékû, „C” sorozatú.<ujsor/>
-Az alaptõke leszállítása a társaság tulajdonában lévõ saját részvények bevonásával valósul meg.<ujsor/>
-Az alaptõke összege a leszállítást megelõzõen 1 029 876 000 Ft, a leszállítást követõen 931 626 000 Ft.<ujsor/>
-A társaság esetleges hitelezõi a jelen hirdetmény elsõ alkalommal történt közzétételét megelõzõen keletkezett és ezen idõpontig esedékessé nem vált követeléseik után biztosítékra tarthatnak igényt a második közzétételtõl számított 30 napos jogvesztõ határidõn belül. Az igazgatóság álláspontja ugyanakkor az, hogy a társaság kifogástalan pénzügyi, vagyoni helyzetére figyelemmel a biztosítékadás indokolatlan.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">A TOLNATEJ Tolna Megyei Tejipari ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [17 10 001150]; szÃ©khelye 7100 SzekszÃ¡rd, KeselyÅ±si Ãºt 26., a tovÃ¡bbiakban: tÃ¡rsasÃ¡g) igazgatÃ³sÃ¡ga a 2006. Ã©vi IV. tÃ¶rvÃ©ny 271. Â§ (1) bekezdÃ©sÃ©ben foglaltaknak eleget tÃ©ve kÃ¶zzÃ©teszi, hogy a tÃ¡rsasÃ¡g 2008. Ã¡prilis 18-Ã¡n megtartott Ã©vi rendes kÃ¶zgyÅ±lÃ©se 9/2008. (IV. 18.) szÃ¡mÃº hatÃ¡rozatÃ¡val az alaptÅ‘ke leszÃ¡llÃ­tÃ¡sÃ¡rÃ³l dÃ¶ntÃ¶tt az alÃ¡bbiak szerint:<ujsor/>
+Az alaptÅ‘ke-leszÃ¡llÃ­tÃ¡s oka: tÅ‘kekivonÃ¡s.<ujsor/>
+Az alaptÅ‘ke-leszÃ¡llÃ­tÃ¡s mÃ©rtÃ©ke: 98 250 000 Ft.<ujsor/>
+Az alaptÅ‘ke-leszÃ¡llÃ­tÃ¡ssal Ã©rintett rÃ©szvÃ©nyek:<ujsor/>
+115 db 10 000 Ft nÃ©vÃ©rtÃ©kÅ±, â€Bâ€ sorozatÃº,<ujsor/>
+971 db 100 000 Ft nÃ©vÃ©rtÃ©kÅ±, â€Câ€ sorozatÃº.<ujsor/>
+Az alaptÅ‘ke leszÃ¡llÃ­tÃ¡sa a tÃ¡rsasÃ¡g tulajdonÃ¡ban lÃ©vÅ‘ sajÃ¡t rÃ©szvÃ©nyek bevonÃ¡sÃ¡val valÃ³sul meg.<ujsor/>
+Az alaptÅ‘ke Ã¶sszege a leszÃ¡llÃ­tÃ¡st megelÅ‘zÅ‘en 1 029 876 000 Ft, a leszÃ¡llÃ­tÃ¡st kÃ¶vetÅ‘en 931 626 000 Ft.<ujsor/>
+A tÃ¡rsasÃ¡g esetleges hitelezÅ‘i a jelen hirdetmÃ©ny elsÅ‘ alkalommal tÃ¶rtÃ©nt kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkezett Ã©s ezen idÅ‘pontig esedÃ©kessÃ© nem vÃ¡lt kÃ¶vetelÃ©seik utÃ¡n biztosÃ­tÃ©kra tarthatnak igÃ©nyt a mÃ¡sodik kÃ¶zzÃ©tÃ©teltÅ‘l szÃ¡mÃ­tott 30 napos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l. Az igazgatÃ³sÃ¡g Ã¡llÃ¡spontja ugyanakkor az, hogy a tÃ¡rsasÃ¡g kifogÃ¡stalan pÃ©nzÃ¼gyi, vagyoni helyzetÃ©re figyelemmel a biztosÃ­tÃ©kadÃ¡s indokolatlan.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">1710001150</mezo>
-<mezo id = "nev">TOLNATEJ Tolna Megyei Tejipari Részvénytársaság</mezo>
-<mezo id = "cim">7100 Szekszárd</mezo>
+<mezo id = "nev">TOLNATEJ Tolna Megyei Tejipari RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">7100 SzekszÃ¡rd</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A TOLNATEJ Tolna Megyei Tejipari Zártkörûen Mûködõ Részvénytársaság (Cg.: [17 10 001150]; székhelye: 7100 Szekszárd, Keselyûsi út 26.; a továbbiakban: társaság) igazgatósága a 2006. évi IV. törvény 271. § (1) bekezdésében foglaltaknak eleget téve közzéteszi, hogy a társaság 2008. október 18-án megtartott rendkívüli közgyûlése 15/2008. (X. 18.) számú határozatával az alaptõke leszállításáról döntött az alábbiak szerint:<ujsor/>
-a) Az alaptõke-leszállítás oka: tõkekivonás.<ujsor/>
-b) Az alaptõke-leszállítás mértéke: 93 160 000 Ft.<ujsor/>
-c) Az alaptõke-leszállítással érintett részvények:<ujsor/>
-6 db 10 000 Ft névértékû, „B” sorozatú,<ujsor/>
-931 db 100 000 Ft névértékû, „C” sorozatú.<ujsor/>
-d) Az alaptõke leszállítása a társaság tulajdonában lévõ saját részvények bevonásával valósul meg.<ujsor/>
-Az alaptõke összege a leszállítást megelõzõen 931 626 000 Ft, a leszállítást követõen 838 466 000 Ft.<ujsor/>
-A társaság esetleges hitelezõi a jelen hirdetmény elsõ alkalommal történt közzétételét megelõzõen keletkezett és ezen idõpontig esedékessé nem vált követeléseik után biztosítékra tarthatnak igényt a második közzétételtõl számított 30 napos jogvesztõ határidõn belül. Az igazgatóság álláspontja ugyanakkor az, hogy a társaság kifogástalan pénzügyi, vagyoni helyzetére figyelemmel a biztosítékadás indokolatlan.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">A TOLNATEJ Tolna Megyei Tejipari ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [17 10 001150]; szÃ©khelye: 7100 SzekszÃ¡rd, KeselyÅ±si Ãºt 26.; a tovÃ¡bbiakban: tÃ¡rsasÃ¡g) igazgatÃ³sÃ¡ga a 2006. Ã©vi IV. tÃ¶rvÃ©ny 271. Â§ (1) bekezdÃ©sÃ©ben foglaltaknak eleget tÃ©ve kÃ¶zzÃ©teszi, hogy a tÃ¡rsasÃ¡g 2008. oktÃ³ber 18-Ã¡n megtartott rendkÃ­vÃ¼li kÃ¶zgyÅ±lÃ©se 15/2008. (X. 18.) szÃ¡mÃº hatÃ¡rozatÃ¡val az alaptÅ‘ke leszÃ¡llÃ­tÃ¡sÃ¡rÃ³l dÃ¶ntÃ¶tt az alÃ¡bbiak szerint:<ujsor/>
+a) Az alaptÅ‘ke-leszÃ¡llÃ­tÃ¡s oka: tÅ‘kekivonÃ¡s.<ujsor/>
+b) Az alaptÅ‘ke-leszÃ¡llÃ­tÃ¡s mÃ©rtÃ©ke: 93 160 000 Ft.<ujsor/>
+c) Az alaptÅ‘ke-leszÃ¡llÃ­tÃ¡ssal Ã©rintett rÃ©szvÃ©nyek:<ujsor/>
+6 db 10 000 Ft nÃ©vÃ©rtÃ©kÅ±, â€Bâ€ sorozatÃº,<ujsor/>
+931 db 100 000 Ft nÃ©vÃ©rtÃ©kÅ±, â€Câ€ sorozatÃº.<ujsor/>
+d) Az alaptÅ‘ke leszÃ¡llÃ­tÃ¡sa a tÃ¡rsasÃ¡g tulajdonÃ¡ban lÃ©vÅ‘ sajÃ¡t rÃ©szvÃ©nyek bevonÃ¡sÃ¡val valÃ³sul meg.<ujsor/>
+Az alaptÅ‘ke Ã¶sszege a leszÃ¡llÃ­tÃ¡st megelÅ‘zÅ‘en 931 626 000 Ft, a leszÃ¡llÃ­tÃ¡st kÃ¶vetÅ‘en 838 466 000 Ft.<ujsor/>
+A tÃ¡rsasÃ¡g esetleges hitelezÅ‘i a jelen hirdetmÃ©ny elsÅ‘ alkalommal tÃ¶rtÃ©nt kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkezett Ã©s ezen idÅ‘pontig esedÃ©kessÃ© nem vÃ¡lt kÃ¶vetelÃ©seik utÃ¡n biztosÃ­tÃ©kra tarthatnak igÃ©nyt a mÃ¡sodik kÃ¶zzÃ©tÃ©teltÅ‘l szÃ¡mÃ­tott 30 napos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l. Az igazgatÃ³sÃ¡g Ã¡llÃ¡spontja ugyanakkor az, hogy a tÃ¡rsasÃ¡g kifogÃ¡stalan pÃ©nzÃ¼gyi, vagyoni helyzetÃ©re figyelemmel a biztosÃ­tÃ©kadÃ¡s indokolatlan.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">1710001150</mezo>
-<mezo id = "nev">TOLNATEJ Tolna Megyei Tejipari Részvénytársaság</mezo>
-<mezo id = "cim">7100 Szekszárd</mezo>
+<mezo id = "nev">TOLNATEJ Tolna Megyei Tejipari RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">7100 SzekszÃ¡rd</mezo>
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A TOLNATEJ Tolna Megyei Tejipari Zártkörûen Mûködõ Részvénytársaság (Cg.: [17 10 001150]; székhelye: 7100 Szekszárd, Keselyûsi út 26.; a továbbiakban: társaság) igazgatósága a 2006. évi IV. törvény 271. § (1) bekezdésében foglaltaknak eleget téve közzéteszi, hogy a társaság 2008. október 18-án megtartott rendkívüli közgyûlése 15/2008. (X. 18.) számú határozatával az alaptõke leszállításáról döntött az alábbiak szerint:<ujsor/>
-a) Az alaptõke-leszállítás oka: tõkekivonás.<ujsor/>
-b) Az alaptõke-leszállítás mértéke: 93 160 000 Ft.<ujsor/>
-c) Az alaptõke-leszállítással érintett részvények:<ujsor/>
-6 db 10 000 Ft névértékû, „B” sorozatú,<ujsor/>
-931 db 100 000 Ft névértékû, „C” sorozatú.<ujsor/>
-d) Az alaptõke leszállítása a társaság tulajdonában lévõ saját részvények bevonásával valósul meg.<ujsor/>
-Az alaptõke összege a leszállítást megelõzõen 931 626 000 Ft, a leszállítást követõen 838 466 000 Ft.<ujsor/>
-A társaság esetleges hitelezõi a jelen hirdetmény elsõ alkalommal történt közzétételét megelõzõen keletkezett és ezen idõpontig esedékessé nem vált követeléseik után biztosítékra tarthatnak igényt a második közzétételtõl számított 30 napos jogvesztõ határidõn belül. Az igazgatóság álláspontja ugyanakkor az, hogy a társaság kifogástalan pénzügyi, vagyoni helyzetére figyelemmel a biztosítékadás indokolatlan.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">A TOLNATEJ Tolna Megyei Tejipari ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [17 10 001150]; szÃ©khelye: 7100 SzekszÃ¡rd, KeselyÅ±si Ãºt 26.; a tovÃ¡bbiakban: tÃ¡rsasÃ¡g) igazgatÃ³sÃ¡ga a 2006. Ã©vi IV. tÃ¶rvÃ©ny 271. Â§ (1) bekezdÃ©sÃ©ben foglaltaknak eleget tÃ©ve kÃ¶zzÃ©teszi, hogy a tÃ¡rsasÃ¡g 2008. oktÃ³ber 18-Ã¡n megtartott rendkÃ­vÃ¼li kÃ¶zgyÅ±lÃ©se 15/2008. (X. 18.) szÃ¡mÃº hatÃ¡rozatÃ¡val az alaptÅ‘ke leszÃ¡llÃ­tÃ¡sÃ¡rÃ³l dÃ¶ntÃ¶tt az alÃ¡bbiak szerint:<ujsor/>
+a) Az alaptÅ‘ke-leszÃ¡llÃ­tÃ¡s oka: tÅ‘kekivonÃ¡s.<ujsor/>
+b) Az alaptÅ‘ke-leszÃ¡llÃ­tÃ¡s mÃ©rtÃ©ke: 93 160 000 Ft.<ujsor/>
+c) Az alaptÅ‘ke-leszÃ¡llÃ­tÃ¡ssal Ã©rintett rÃ©szvÃ©nyek:<ujsor/>
+6 db 10 000 Ft nÃ©vÃ©rtÃ©kÅ±, â€Bâ€ sorozatÃº,<ujsor/>
+931 db 100 000 Ft nÃ©vÃ©rtÃ©kÅ±, â€Câ€ sorozatÃº.<ujsor/>
+d) Az alaptÅ‘ke leszÃ¡llÃ­tÃ¡sa a tÃ¡rsasÃ¡g tulajdonÃ¡ban lÃ©vÅ‘ sajÃ¡t rÃ©szvÃ©nyek bevonÃ¡sÃ¡val valÃ³sul meg.<ujsor/>
+Az alaptÅ‘ke Ã¶sszege a leszÃ¡llÃ­tÃ¡st megelÅ‘zÅ‘en 931 626 000 Ft, a leszÃ¡llÃ­tÃ¡st kÃ¶vetÅ‘en 838 466 000 Ft.<ujsor/>
+A tÃ¡rsasÃ¡g esetleges hitelezÅ‘i a jelen hirdetmÃ©ny elsÅ‘ alkalommal tÃ¶rtÃ©nt kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkezett Ã©s ezen idÅ‘pontig esedÃ©kessÃ© nem vÃ¡lt kÃ¶vetelÃ©seik utÃ¡n biztosÃ­tÃ©kra tarthatnak igÃ©nyt a mÃ¡sodik kÃ¶zzÃ©tÃ©teltÅ‘l szÃ¡mÃ­tott 30 napos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l. Az igazgatÃ³sÃ¡g Ã¡llÃ¡spontja ugyanakkor az, hogy a tÃ¡rsasÃ¡g kifogÃ¡stalan pÃ©nzÃ¼gyi, vagyoni helyzetÃ©re figyelemmel a biztosÃ­tÃ©kadÃ¡s indokolatlan.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">1710001150</mezo>
-<mezo id = "nev">TOLNATEJ Tolna Megyei Tejipari Részvénytársaság</mezo>
-<mezo id = "cim">7100 Szekszárd</mezo>
+<mezo id = "nev">TOLNATEJ Tolna Megyei Tejipari RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">7100 SzekszÃ¡rd</mezo>
 </alrovat>
 </rovat>
 <rovat id = "99017">

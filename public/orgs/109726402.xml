@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">726402</mezo>
 <mezo id = "nevalrovat">2</mezo>
-<mezo id = "cim">1114 Budapest, Bocskay út 12. II. em. 4. </mezo>
+<mezo id = "cim">1114 Budapest, Bocskay Ãºt 12. II. em. 4. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">13262804243</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20040616</mezo>
-<mezo id = "nev">SCARABEUS 2004 Személy és Vagyonvédelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">SCARABEUS 2004 SzemÃ©ly Ã©s VagyonvÃ©delmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -27,7 +27,7 @@
 <mezo id = "hattol">20090301</mezo>
 <mezo id = "irsz">1114</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Bocskay út 12. II. em. 4.</mezo>
+<mezo id = "teru">Bocskay Ãºt 12. II. em. 4.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">20090301</mezo>
 <mezo id = "valtv">0</mezo>
@@ -39,7 +39,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20090301</mezo>
 <mezo id = "irsz">7627</mezo>
-<mezo id = "hely">Pécs, Puskin tér 17.</mezo>
+<mezo id = "hely">PÃ©cs, Puskin tÃ©r 17.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20090301</mezo>
 <mezo id = "valtv">0</mezo>
@@ -1097,8 +1097,8 @@
 <rovat id = "13">
 <alrovat id = "6">
 <mezo id = "hattol">20110614</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Gyimesi Károly</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Gyimesi KÃ¡roly</mezo>
 <mezo id = "panev">Bartha Anna</mezo>
 <mezo id = "pirsz">2330</mezo>
 <mezo id = "phely">Dunaharaszti</mezo>
@@ -1114,12 +1114,12 @@
 <alrovat id = "1">
 <mezo id = "hattol">20100330</mezo>
 <mezo id = "cgjsz">0109691300</mezo>
-<mezo id = "nev">Peczöli Auditing Könyvvizsgáló és Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">PeczÃ¶li Auditing KÃ¶nyvvizsgÃ¡lÃ³ Ã©s TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1224</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Thököly u. 41.</mezo>
-<mezo id = "pnev">Peczöli Tbibor</mezo>
+<mezo id = "teru">ThÃ¶kÃ¶ly u. 41.</mezo>
+<mezo id = "pnev">PeczÃ¶li Tbibor</mezo>
 <mezo id = "panev">Eszenyi Julianna</mezo>
 <mezo id = "jogvk">20100330</mezo>
 <mezo id = "jogvv">20131231</mezo>
@@ -1138,16 +1138,16 @@
 <mezo id = "adosz">13262804243</mezo>
 <mezo id = "kadosz">HU13262804</mezo>
 <mezo id = "bkelt">20110715</mezo>
-<mezo id = "megj">Státusz kezdete: 2004/04/01</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 2004/04/01</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0109">
 <alrovat id = "7">
 <mezo id = "hattol">20080530</mezo>
-<mezo id = "pnev">Sidó László</mezo>
-<mezo id = "panev">Tandi Emília Erzsébet</mezo>
+<mezo id = "pnev">SidÃ³ LÃ¡szlÃ³</mezo>
+<mezo id = "panev">Tandi EmÃ­lia ErzsÃ©bet</mezo>
 <mezo id = "pirsz">2030</mezo>
-<mezo id = "phely">Érd, Huba utca 30.</mezo>
+<mezo id = "phely">Ã‰rd, Huba utca 30.</mezo>
 <mezo id = "tagsk">20050801</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20080530</mezo>
@@ -1157,7 +1157,7 @@
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">20110614</mezo>
-<mezo id = "pnev">Gyimesi Károly</mezo>
+<mezo id = "pnev">Gyimesi KÃ¡roly</mezo>
 <mezo id = "panev">Bartha Anna</mezo>
 <mezo id = "pirsz">2330</mezo>
 <mezo id = "phely">Dunaharaszti</mezo>
@@ -1168,7 +1168,7 @@
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">20110614</mezo>
-<mezo id = "pnev">Szilágyi Imre</mezo>
+<mezo id = "pnev">SzilÃ¡gyi Imre</mezo>
 <mezo id = "panev">Matolcsi Julianna</mezo>
 <mezo id = "pirsz">2330</mezo>
 <mezo id = "phely">Dunaharaszti</mezo>
@@ -1187,151 +1187,151 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A SCARABEUS 2004 Személy és Vagyonvédelmi Korlátolt Felelõsségû Társaságban (Cg.: [01 09 726402]; 1239 Budapest, Grassalkovich u. 174. 4. lakás), melynek törzstõkéje 3 000 000 Ft, Keller István (a. n.: Bácskai Gabriella; 1094 Budapest, Márton u. 33. fszt. 9.) tag 50%-os, azaz a Gt. 289. § szerinti jelentõs befolyást szerzett.<ujsor/>
-A befolyásszerzés idõpontja: 2005. május 1.<ujsor/>
+<mezo id = "szoveg">A SCARABEUS 2004 SzemÃ©ly Ã©s VagyonvÃ©delmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gban (Cg.: [01 09 726402]; 1239 Budapest, Grassalkovich u. 174. 4. lakÃ¡s), melynek tÃ¶rzstÅ‘kÃ©je 3 000 000 Ft, Keller IstvÃ¡n (a. n.: BÃ¡cskai Gabriella; 1094 Budapest, MÃ¡rton u. 33. fszt. 9.) tag 50%-os, azaz a Gt. 289. Â§ szerinti jelentÅ‘s befolyÃ¡st szerzett.<ujsor/>
+A befolyÃ¡sszerzÃ©s idÅ‘pontja: 2005. mÃ¡jus 1.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109726402</mezo>
-<mezo id = "nev">SCARABEUS 2004 Személy és Vagyonvédelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">SCARABEUS 2004 SzemÃ©ly Ã©s VagyonvÃ©delmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1239 Budapest</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A SCARABEUS 2004 Személy és Vagyonvédelmi Korlátolt Felelõsségû Társaság a 2011. július 20-án és 2011. augusztus 18-án meghozott taggyûlési határozatokkal ­ a Gazdasági társaságokról szóló 2006. évi IV. törvény alapján ­ a kiválással történõ átalakulás mellett döntött és elhatározta a társaságból az Elite World Kft.<ujsor/>
-kiválását.<ujsor/>
-Jogelõd (átalakuló) társaság adatai:<ujsor/>
-Cégneve: SCARABEUS 2004 Személy és Vagyonvédelmi Korlátolt Felelõsségû Társaság.<ujsor/>
-Cégjegyzékszáma: [01 09 726402].<ujsor/>
-Székhelye: 1114 Budapest, Bocskay út 12. II. 4.<ujsor/>
-Jogutód (létrejövõ) társaság adatai:<ujsor/>
-Az alapító okirat elfogadásának napja: 2011. augusztus 18.<ujsor/>
-A létrejövõ társaság cégneve: SCARABEUS 2004 Személy és Vagyonvédelmi Korlátolt Felelõsségû Társaság.<ujsor/>
-Rövidített neve: SCARABEUS 2004 Kft.<ujsor/>
-Székhelye: 1114 Budapest, Bocskay út 12. II. 4.<ujsor/>
-A társaság ügyvezetõje: Gyimesi Károly (2330 Dunaharaszti, Iparos u. 3.).<ujsor/>
-A cégjegyzés módja: a cégjegyzés akként történik, hogy az ügyvezetõ önállóan jegyzi a céget akként, hogy a géppel vagy kézzel elõírt, elõnyomott vagy elõnyomtatott cégnév alá önállóan írja a nevét az aláírási címpéldányban meghatározott módon.<ujsor/>
-A létrejövõ társaság fõ tevékenységi köre (TEÁOR ’08): 8010 Személybiztonsági tevékenység.<ujsor/>
-Jogutód (létrejövõ) társaság adatai:<ujsor/>
-Az alapító okirat elfogadásának napja: 2011. augusztus 18.<ujsor/>
-A létrejövõ társaság cégneve: Elite World Korlátolt Felelõsségû Társaság.<ujsor/>
-Rövidített neve: Elite World Kft.<ujsor/>
-Székhelye: 2330 Dunaharaszti, Dr. Posta Sándor u. 10.<ujsor/>
-A társaság ügyvezetõje: Sidó László (2030 Érd, Huba u. 30.).<ujsor/>
-A cégjegyzés módja: a cégjegyzés akként történik, hogy az ügyvezetõ önállóan jegyzi a céget akként, hogy a géppel vagy kézzel elõírt, elõnyomott vagy elõnyomtatott cégnév alá önállóan írja a nevét az aláírási címpéldányban meghatározott módon.<ujsor/>
-A létrejövõ társaság fõ tevékenységi köre (TEÁOR ’08): 8010 Személybiztonsági tevékenység.<ujsor/>
-Átalakulási vagyonmérleg-tervezetek fõbb adatai (fordulónap: 2011. június 30.):<ujsor/>
+<mezo id = "szoveg">A SCARABEUS 2004 SzemÃ©ly Ã©s VagyonvÃ©delmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g a 2011. jÃºlius 20-Ã¡n Ã©s 2011. augusztus 18-Ã¡n meghozott taggyÅ±lÃ©si hatÃ¡rozatokkal Â­ a GazdasÃ¡gi tÃ¡rsasÃ¡gokrÃ³l szÃ³lÃ³ 2006. Ã©vi IV. tÃ¶rvÃ©ny alapjÃ¡n Â­ a kivÃ¡lÃ¡ssal tÃ¶rtÃ©nÅ‘ Ã¡talakulÃ¡s mellett dÃ¶ntÃ¶tt Ã©s elhatÃ¡rozta a tÃ¡rsasÃ¡gbÃ³l az Elite World Kft.<ujsor/>
+kivÃ¡lÃ¡sÃ¡t.<ujsor/>
+JogelÅ‘d (Ã¡talakulÃ³) tÃ¡rsasÃ¡g adatai:<ujsor/>
+CÃ©gneve: SCARABEUS 2004 SzemÃ©ly Ã©s VagyonvÃ©delmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡ma: [01 09 726402].<ujsor/>
+SzÃ©khelye: 1114 Budapest, Bocskay Ãºt 12. II. 4.<ujsor/>
+JogutÃ³d (lÃ©trejÃ¶vÅ‘) tÃ¡rsasÃ¡g adatai:<ujsor/>
+Az alapÃ­tÃ³ okirat elfogadÃ¡sÃ¡nak napja: 2011. augusztus 18.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g cÃ©gneve: SCARABEUS 2004 SzemÃ©ly Ã©s VagyonvÃ©delmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+RÃ¶vidÃ­tett neve: SCARABEUS 2004 Kft.<ujsor/>
+SzÃ©khelye: 1114 Budapest, Bocskay Ãºt 12. II. 4.<ujsor/>
+A tÃ¡rsasÃ¡g Ã¼gyvezetÅ‘je: Gyimesi KÃ¡roly (2330 Dunaharaszti, Iparos u. 3.).<ujsor/>
+A cÃ©gjegyzÃ©s mÃ³dja: a cÃ©gjegyzÃ©s akkÃ©nt tÃ¶rtÃ©nik, hogy az Ã¼gyvezetÅ‘ Ã¶nÃ¡llÃ³an jegyzi a cÃ©get akkÃ©nt, hogy a gÃ©ppel vagy kÃ©zzel elÅ‘Ã­rt, elÅ‘nyomott vagy elÅ‘nyomtatott cÃ©gnÃ©v alÃ¡ Ã¶nÃ¡llÃ³an Ã­rja a nevÃ©t az alÃ¡Ã­rÃ¡si cÃ­mpÃ©ldÃ¡nyban meghatÃ¡rozott mÃ³don.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©gi kÃ¶re (TEÃOR â€™08): 8010 SzemÃ©lybiztonsÃ¡gi tevÃ©kenysÃ©g.<ujsor/>
+JogutÃ³d (lÃ©trejÃ¶vÅ‘) tÃ¡rsasÃ¡g adatai:<ujsor/>
+Az alapÃ­tÃ³ okirat elfogadÃ¡sÃ¡nak napja: 2011. augusztus 18.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g cÃ©gneve: Elite World KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+RÃ¶vidÃ­tett neve: Elite World Kft.<ujsor/>
+SzÃ©khelye: 2330 Dunaharaszti, Dr. Posta SÃ¡ndor u. 10.<ujsor/>
+A tÃ¡rsasÃ¡g Ã¼gyvezetÅ‘je: SidÃ³ LÃ¡szlÃ³ (2030 Ã‰rd, Huba u. 30.).<ujsor/>
+A cÃ©gjegyzÃ©s mÃ³dja: a cÃ©gjegyzÃ©s akkÃ©nt tÃ¶rtÃ©nik, hogy az Ã¼gyvezetÅ‘ Ã¶nÃ¡llÃ³an jegyzi a cÃ©get akkÃ©nt, hogy a gÃ©ppel vagy kÃ©zzel elÅ‘Ã­rt, elÅ‘nyomott vagy elÅ‘nyomtatott cÃ©gnÃ©v alÃ¡ Ã¶nÃ¡llÃ³an Ã­rja a nevÃ©t az alÃ¡Ã­rÃ¡si cÃ­mpÃ©ldÃ¡nyban meghatÃ¡rozott mÃ³don.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©gi kÃ¶re (TEÃOR â€™08): 8010 SzemÃ©lybiztonsÃ¡gi tevÃ©kenysÃ©g.<ujsor/>
+ÃtalakulÃ¡si vagyonmÃ©rleg-tervezetek fÅ‘bb adatai (fordulÃ³nap: 2011. jÃºnius 30.):<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK Átalakuló Átalakuló Létrejövõ társaság Létrejövõ<ujsor/>
-társaság társaság SCARABEUS  társaság Elite World Kft.<ujsor/>
-könyv szerinti érték vagyonérték 2004. Kft.-nél (átadónál) maradó vagyon (kiváló) vagyona<ujsor/>
-A) Befektetett eszközök 1 122 1 122 579 543<ujsor/>
-I. Immateriális javak 301 301 301<ujsor/>
-II. Tárgyi eszközök 821 821 278 543<ujsor/>
-III. Befektetett pénzügyi eszközök<ujsor/>
-B) Forgóeszközök 12 469 12 469 9 667 4 899<ujsor/>
-I. Készletek<ujsor/>
-II. Követelések 8 793 8 793 8 793 2 097<ujsor/>
-III. Értékpapírok<ujsor/>
-IV. Pénzeszközök 3 676 3 676 874 2 802<ujsor/>
-C) Aktív idõbeli elhatárolások 10 587 10 587 10 587<ujsor/>
-ÖSSZESEN: 24 178 24 178 20 833 5 442<ujsor/>
+ESZKÃ–ZÃ–K ÃtalakulÃ³ ÃtalakulÃ³ LÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g LÃ©trejÃ¶vÅ‘<ujsor/>
+tÃ¡rsasÃ¡g tÃ¡rsasÃ¡g SCARABEUS  tÃ¡rsasÃ¡g Elite World Kft.<ujsor/>
+kÃ¶nyv szerinti Ã©rtÃ©k vagyonÃ©rtÃ©k 2004. Kft.-nÃ©l (Ã¡tadÃ³nÃ¡l) maradÃ³ vagyon (kivÃ¡lÃ³) vagyona<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 1 122 1 122 579 543<ujsor/>
+I. ImmateriÃ¡lis javak 301 301 301<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 821 821 278 543<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 12 469 12 469 9 667 4 899<ujsor/>
+I. KÃ©szletek<ujsor/>
+II. KÃ¶vetelÃ©sek 8 793 8 793 8 793 2 097<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 3 676 3 676 874 2 802<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 10 587 10 587 10 587<ujsor/>
+Ã–SSZESEN: 24 178 24 178 20 833 5 442<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK Átalakuló Átalakuló Létrejövõ társaság Létrejövõ<ujsor/>
-társaság társaság SCARABEUS  társaság Elite World Kft.<ujsor/>
-könyv szerinti érték vagyonérték 2004. Kft.-nél (átadónál) maradó vagyon (kiváló) vagyona<ujsor/>
-D) Saját tõke 10 883 10 883 5 441 5 442<ujsor/>
-I. Jegyzett tõke 6 000 6 000 3 000 3 000<ujsor/>
-II. Jegyzett, de még be nem fiz. tõke<ujsor/>
-III. Tõketartalék<ujsor/>
-IV. Eredménytartalék 4 883 4 883 2 441 2 442<ujsor/>
-V. Lekötött tartalék<ujsor/>
-VI. Értékelési tartalék<ujsor/>
-VII. Mérleg szerinti eredmény<ujsor/>
-E) Céltartalékok<ujsor/>
-F) Kötelezettségek 4 599 4 599 6 696<ujsor/>
-I. Hátra sorolt kötelezettségek<ujsor/>
-II. Hosszú lejáratú kötelezettségek<ujsor/>
-III. Rövid lejáratú kötelezettségek 6 696<ujsor/>
-G) Passzív idõbeli elhatárolások 8 696 8 696 8 696<ujsor/>
-ÖSSZESEN: 24 178 24 178 20 833 5 442<ujsor/>
-A Gt. 84. § (5) bekezdés b) pontja szerint a jogok, illetve kötelezettségek megosztása tekintetében a SCARABEUS 2004 Kft. és az Elite World Kft. 50­50%-ban osztja meg egymás közötti jogait és kötelezettségeit. A kiválást követõen a közbeszerzési pályázatokon való indulási jogot az Elite World Kft. gyakorolja.<ujsor/>
-A hitelezõk a követelésüket érintõ vagyonmegosztási rendelkezésekrõl a SCARABEUS 2004 Kft. e-mail címén, a scarabeus2004@indamail.hu címen érdeklõdhetnek.<ujsor/>
-Az átalakulás az átalakuló gazdasági társasággal szemben fennálló követeléseket nem teszi lejárttá.<ujsor/>
-Azok a hitelezõk, akiknek az átalakuló gazdasági társasággal szemben fennálló, le nem járt követelései az átalakulással hozott döntés elsõ közzétételét megelõzõen keletkeztek, követeléseik erejéig az átalakuló gazdasági társaságtól a döntés második közzétételét követõ harmincnapos jogvesztõ határidõn belül biztosítékot követelhetnek.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+FORRÃSOK ÃtalakulÃ³ ÃtalakulÃ³ LÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g LÃ©trejÃ¶vÅ‘<ujsor/>
+tÃ¡rsasÃ¡g tÃ¡rsasÃ¡g SCARABEUS  tÃ¡rsasÃ¡g Elite World Kft.<ujsor/>
+kÃ¶nyv szerinti Ã©rtÃ©k vagyonÃ©rtÃ©k 2004. Kft.-nÃ©l (Ã¡tadÃ³nÃ¡l) maradÃ³ vagyon (kivÃ¡lÃ³) vagyona<ujsor/>
+D) SajÃ¡t tÅ‘ke 10 883 10 883 5 441 5 442<ujsor/>
+I. Jegyzett tÅ‘ke 6 000 6 000 3 000 3 000<ujsor/>
+II. Jegyzett, de mÃ©g be nem fiz. tÅ‘ke<ujsor/>
+III. TÅ‘ketartalÃ©k<ujsor/>
+IV. EredmÃ©nytartalÃ©k 4 883 4 883 2 441 2 442<ujsor/>
+V. LekÃ¶tÃ¶tt tartalÃ©k<ujsor/>
+VI. Ã‰rtÃ©kelÃ©si tartalÃ©k<ujsor/>
+VII. MÃ©rleg szerinti eredmÃ©ny<ujsor/>
+E) CÃ©ltartalÃ©kok<ujsor/>
+F) KÃ¶telezettsÃ©gek 4 599 4 599 6 696<ujsor/>
+I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek<ujsor/>
+II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 6 696<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 8 696 8 696 8 696<ujsor/>
+Ã–SSZESEN: 24 178 24 178 20 833 5 442<ujsor/>
+A Gt. 84. Â§ (5) bekezdÃ©s b) pontja szerint a jogok, illetve kÃ¶telezettsÃ©gek megosztÃ¡sa tekintetÃ©ben a SCARABEUS 2004 Kft. Ã©s az Elite World Kft. 50Â­50%-ban osztja meg egymÃ¡s kÃ¶zÃ¶tti jogait Ã©s kÃ¶telezettsÃ©geit. A kivÃ¡lÃ¡st kÃ¶vetÅ‘en a kÃ¶zbeszerzÃ©si pÃ¡lyÃ¡zatokon valÃ³ indulÃ¡si jogot az Elite World Kft. gyakorolja.<ujsor/>
+A hitelezÅ‘k a kÃ¶vetelÃ©sÃ¼ket Ã©rintÅ‘ vagyonmegosztÃ¡si rendelkezÃ©sekrÅ‘l a SCARABEUS 2004 Kft. e-mail cÃ­mÃ©n, a scarabeus2004@indamail.hu cÃ­men Ã©rdeklÅ‘dhetnek.<ujsor/>
+Az Ã¡talakulÃ¡s az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³ kÃ¶vetelÃ©seket nem teszi lejÃ¡rttÃ¡.<ujsor/>
+Azok a hitelezÅ‘k, akiknek az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei az Ã¡talakulÃ¡ssal hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gtÃ³l a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109726402</mezo>
-<mezo id = "nev">SCARABEUS 2004 Személy és Vagyonvédelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">SCARABEUS 2004 SzemÃ©ly Ã©s VagyonvÃ©delmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1114 Budapest</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A SCARABEUS 2004 Személy és Vagyonvédelmi Korlátolt Felelõsségû Társaság a 2011. július 20-án és 2011. augusztus 18-án meghozott taggyûlési határozatokkal ­ a Gazdasági társaságokról szóló 2006. évi IV. törvény alapján ­ a kiválással történõ átalakulás mellett döntött és elhatározta a társaságból az Elite World Kft.<ujsor/>
-kiválását.<ujsor/>
-Jogelõd (átalakuló) társaság adatai:<ujsor/>
-Cégneve: SCARABEUS 2004 Személy és Vagyonvédelmi Korlátolt Felelõsségû Társaság.<ujsor/>
-Cégjegyzékszáma: [01 09 726402].<ujsor/>
-Székhelye: 1114 Budapest, Bocskay út 12. II. 4.<ujsor/>
-Jogutód (létrejövõ) társaság adatai:<ujsor/>
-Az alapító okirat elfogadásának napja: 2011. augusztus 18.<ujsor/>
-A létrejövõ társaság cégneve: SCARABEUS 2004 Személy és Vagyonvédelmi Korlátolt Felelõsségû Társaság.<ujsor/>
-Rövidített neve: SCARABEUS 2004 Kft.<ujsor/>
-Székhelye: 1114 Budapest, Bocskay út 12. II. 4.<ujsor/>
-A társaság ügyvezetõje: Gyimesi Károly (2330 Dunaharaszti, Iparos u. 3.).<ujsor/>
-A cégjegyzés módja: a cégjegyzés akként történik, hogy az ügyvezetõ önállóan jegyzi a céget akként, hogy a géppel vagy kézzel elõírt, elõnyomott vagy elõnyomtatott cégnév alá önállóan írja a nevét az aláírási címpéldányban meghatározott módon.<ujsor/>
-A létrejövõ társaság fõ tevékenységi köre (TEÁOR ’08): 8010 Személybiztonsági tevékenység.<ujsor/>
-Jogutód (létrejövõ) társaság adatai:<ujsor/>
-Az alapító okirat elfogadásának napja: 2011. augusztus 18.<ujsor/>
-A létrejövõ társaság cégneve: Elite World Korlátolt Felelõsségû Társaság.<ujsor/>
-Rövidített neve: Elite World Kft.<ujsor/>
-Székhelye: 2330 Dunaharaszti, Dr. Posta Sándor u. 10.<ujsor/>
-A társaság ügyvezetõje: Sidó László (2030 Érd, Huba u. 30.).<ujsor/>
-A cégjegyzés módja: a cégjegyzés akként történik, hogy az ügyvezetõ önállóan jegyzi a céget akként, hogy a géppel vagy kézzel elõírt, elõnyomott vagy elõnyomtatott cégnév alá önállóan írja a nevét az aláírási címpéldányban meghatározott módon.<ujsor/>
-A létrejövõ társaság fõ tevékenységi köre (TEÁOR ’08): 8010 Személybiztonsági tevékenység.<ujsor/>
-Átalakulási vagyonmérleg-tervezetek fõbb adatai (fordulónap: 2011. június 30.):<ujsor/>
+<mezo id = "szoveg">A SCARABEUS 2004 SzemÃ©ly Ã©s VagyonvÃ©delmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g a 2011. jÃºlius 20-Ã¡n Ã©s 2011. augusztus 18-Ã¡n meghozott taggyÅ±lÃ©si hatÃ¡rozatokkal Â­ a GazdasÃ¡gi tÃ¡rsasÃ¡gokrÃ³l szÃ³lÃ³ 2006. Ã©vi IV. tÃ¶rvÃ©ny alapjÃ¡n Â­ a kivÃ¡lÃ¡ssal tÃ¶rtÃ©nÅ‘ Ã¡talakulÃ¡s mellett dÃ¶ntÃ¶tt Ã©s elhatÃ¡rozta a tÃ¡rsasÃ¡gbÃ³l az Elite World Kft.<ujsor/>
+kivÃ¡lÃ¡sÃ¡t.<ujsor/>
+JogelÅ‘d (Ã¡talakulÃ³) tÃ¡rsasÃ¡g adatai:<ujsor/>
+CÃ©gneve: SCARABEUS 2004 SzemÃ©ly Ã©s VagyonvÃ©delmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡ma: [01 09 726402].<ujsor/>
+SzÃ©khelye: 1114 Budapest, Bocskay Ãºt 12. II. 4.<ujsor/>
+JogutÃ³d (lÃ©trejÃ¶vÅ‘) tÃ¡rsasÃ¡g adatai:<ujsor/>
+Az alapÃ­tÃ³ okirat elfogadÃ¡sÃ¡nak napja: 2011. augusztus 18.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g cÃ©gneve: SCARABEUS 2004 SzemÃ©ly Ã©s VagyonvÃ©delmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+RÃ¶vidÃ­tett neve: SCARABEUS 2004 Kft.<ujsor/>
+SzÃ©khelye: 1114 Budapest, Bocskay Ãºt 12. II. 4.<ujsor/>
+A tÃ¡rsasÃ¡g Ã¼gyvezetÅ‘je: Gyimesi KÃ¡roly (2330 Dunaharaszti, Iparos u. 3.).<ujsor/>
+A cÃ©gjegyzÃ©s mÃ³dja: a cÃ©gjegyzÃ©s akkÃ©nt tÃ¶rtÃ©nik, hogy az Ã¼gyvezetÅ‘ Ã¶nÃ¡llÃ³an jegyzi a cÃ©get akkÃ©nt, hogy a gÃ©ppel vagy kÃ©zzel elÅ‘Ã­rt, elÅ‘nyomott vagy elÅ‘nyomtatott cÃ©gnÃ©v alÃ¡ Ã¶nÃ¡llÃ³an Ã­rja a nevÃ©t az alÃ¡Ã­rÃ¡si cÃ­mpÃ©ldÃ¡nyban meghatÃ¡rozott mÃ³don.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©gi kÃ¶re (TEÃOR â€™08): 8010 SzemÃ©lybiztonsÃ¡gi tevÃ©kenysÃ©g.<ujsor/>
+JogutÃ³d (lÃ©trejÃ¶vÅ‘) tÃ¡rsasÃ¡g adatai:<ujsor/>
+Az alapÃ­tÃ³ okirat elfogadÃ¡sÃ¡nak napja: 2011. augusztus 18.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g cÃ©gneve: Elite World KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+RÃ¶vidÃ­tett neve: Elite World Kft.<ujsor/>
+SzÃ©khelye: 2330 Dunaharaszti, Dr. Posta SÃ¡ndor u. 10.<ujsor/>
+A tÃ¡rsasÃ¡g Ã¼gyvezetÅ‘je: SidÃ³ LÃ¡szlÃ³ (2030 Ã‰rd, Huba u. 30.).<ujsor/>
+A cÃ©gjegyzÃ©s mÃ³dja: a cÃ©gjegyzÃ©s akkÃ©nt tÃ¶rtÃ©nik, hogy az Ã¼gyvezetÅ‘ Ã¶nÃ¡llÃ³an jegyzi a cÃ©get akkÃ©nt, hogy a gÃ©ppel vagy kÃ©zzel elÅ‘Ã­rt, elÅ‘nyomott vagy elÅ‘nyomtatott cÃ©gnÃ©v alÃ¡ Ã¶nÃ¡llÃ³an Ã­rja a nevÃ©t az alÃ¡Ã­rÃ¡si cÃ­mpÃ©ldÃ¡nyban meghatÃ¡rozott mÃ³don.<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©gi kÃ¶re (TEÃOR â€™08): 8010 SzemÃ©lybiztonsÃ¡gi tevÃ©kenysÃ©g.<ujsor/>
+ÃtalakulÃ¡si vagyonmÃ©rleg-tervezetek fÅ‘bb adatai (fordulÃ³nap: 2011. jÃºnius 30.):<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK Átalakuló Átalakuló Létrejövõ társaság Létrejövõ<ujsor/>
-társaság társaság SCARABEUS  társaság Elite World Kft.<ujsor/>
-könyv szerinti érték vagyonérték 2004. Kft.-nél (átadónál) maradó vagyon (kiváló) vagyona<ujsor/>
-A) Befektetett eszközök 1 122 1 122 579 543<ujsor/>
-I. Immateriális javak 301 301 301<ujsor/>
-II. Tárgyi eszközök 821 821 278 543<ujsor/>
-III. Befektetett pénzügyi eszközök<ujsor/>
-B) Forgóeszközök 12 469 12 469 9 667 4 899<ujsor/>
-I. Készletek<ujsor/>
-II. Követelések 8 793 8 793 8 793 2 097<ujsor/>
-III. Értékpapírok<ujsor/>
-IV. Pénzeszközök 3 676 3 676 874 2 802<ujsor/>
-C) Aktív idõbeli elhatárolások 10 587 10 587 10 587<ujsor/>
-ÖSSZESEN: 24 178 24 178 20 833 5 442<ujsor/>
+ESZKÃ–ZÃ–K ÃtalakulÃ³ ÃtalakulÃ³ LÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g LÃ©trejÃ¶vÅ‘<ujsor/>
+tÃ¡rsasÃ¡g tÃ¡rsasÃ¡g SCARABEUS  tÃ¡rsasÃ¡g Elite World Kft.<ujsor/>
+kÃ¶nyv szerinti Ã©rtÃ©k vagyonÃ©rtÃ©k 2004. Kft.-nÃ©l (Ã¡tadÃ³nÃ¡l) maradÃ³ vagyon (kivÃ¡lÃ³) vagyona<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 1 122 1 122 579 543<ujsor/>
+I. ImmateriÃ¡lis javak 301 301 301<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 821 821 278 543<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 12 469 12 469 9 667 4 899<ujsor/>
+I. KÃ©szletek<ujsor/>
+II. KÃ¶vetelÃ©sek 8 793 8 793 8 793 2 097<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 3 676 3 676 874 2 802<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 10 587 10 587 10 587<ujsor/>
+Ã–SSZESEN: 24 178 24 178 20 833 5 442<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK Átalakuló Átalakuló Létrejövõ társaság Létrejövõ<ujsor/>
-társaság társaság SCARABEUS  társaság Elite World Kft.<ujsor/>
-könyv szerinti érték vagyonérték 2004. Kft.-nél (átadónál) maradó vagyon (kiváló) vagyona<ujsor/>
-D) Saját tõke 10 883 10 883 5 441 5 442<ujsor/>
-I. Jegyzett tõke 6 000 6 000 3 000 3 000<ujsor/>
-II. Jegyzett, de még be nem fiz. tõke<ujsor/>
-III. Tõketartalék<ujsor/>
-IV. Eredménytartalék 4 883 4 883 2 441 2 442<ujsor/>
-V. Lekötött tartalék<ujsor/>
-VI. Értékelési tartalék<ujsor/>
-VII. Mérleg szerinti eredmény<ujsor/>
-E) Céltartalékok<ujsor/>
-F) Kötelezettségek 4 599 4 599 6 696<ujsor/>
-I. Hátra sorolt kötelezettségek<ujsor/>
-II. Hosszú lejáratú kötelezettségek<ujsor/>
-III. Rövid lejáratú kötelezettségek 6 696<ujsor/>
-G) Passzív idõbeli elhatárolások 8 696 8 696 8 696<ujsor/>
-ÖSSZESEN: 24 178 24 178 20 833 5 442<ujsor/>
-A Gt. 84. § (5) bekezdés b) pontja szerint a jogok, illetve kötelezettségek megosztása tekintetében a SCARABEUS 2004 Kft. és az Elite World Kft. 50­50%-ban osztja meg egymás közötti jogait és kötelezettségeit. A kiválást követõen a közbeszerzési pályázatokon való indulási jogot az Elite World Kft. gyakorolja.<ujsor/>
-A hitelezõk a követelésüket érintõ vagyonmegosztási rendelkezésekrõl a SCARABEUS 2004 Kft. e-mail címén, a scarabeus2004@indamail.hu címen érdeklõdhetnek.<ujsor/>
-Az átalakulás az átalakuló gazdasági társasággal szemben fennálló követeléseket nem teszi lejárttá.<ujsor/>
-Azok a hitelezõk, akiknek az átalakuló gazdasági társasággal szemben fennálló, le nem járt követelései az átalakulással hozott döntés elsõ közzétételét megelõzõen keletkeztek, követeléseik erejéig az átalakuló gazdasági társaságtól a döntés második közzétételét követõ harmincnapos jogvesztõ határidõn belül biztosítékot követelhetnek.<ujsor/>
-(Második közzététel.)<ujsor/>
+FORRÃSOK ÃtalakulÃ³ ÃtalakulÃ³ LÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g LÃ©trejÃ¶vÅ‘<ujsor/>
+tÃ¡rsasÃ¡g tÃ¡rsasÃ¡g SCARABEUS  tÃ¡rsasÃ¡g Elite World Kft.<ujsor/>
+kÃ¶nyv szerinti Ã©rtÃ©k vagyonÃ©rtÃ©k 2004. Kft.-nÃ©l (Ã¡tadÃ³nÃ¡l) maradÃ³ vagyon (kivÃ¡lÃ³) vagyona<ujsor/>
+D) SajÃ¡t tÅ‘ke 10 883 10 883 5 441 5 442<ujsor/>
+I. Jegyzett tÅ‘ke 6 000 6 000 3 000 3 000<ujsor/>
+II. Jegyzett, de mÃ©g be nem fiz. tÅ‘ke<ujsor/>
+III. TÅ‘ketartalÃ©k<ujsor/>
+IV. EredmÃ©nytartalÃ©k 4 883 4 883 2 441 2 442<ujsor/>
+V. LekÃ¶tÃ¶tt tartalÃ©k<ujsor/>
+VI. Ã‰rtÃ©kelÃ©si tartalÃ©k<ujsor/>
+VII. MÃ©rleg szerinti eredmÃ©ny<ujsor/>
+E) CÃ©ltartalÃ©kok<ujsor/>
+F) KÃ¶telezettsÃ©gek 4 599 4 599 6 696<ujsor/>
+I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek<ujsor/>
+II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 6 696<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 8 696 8 696 8 696<ujsor/>
+Ã–SSZESEN: 24 178 24 178 20 833 5 442<ujsor/>
+A Gt. 84. Â§ (5) bekezdÃ©s b) pontja szerint a jogok, illetve kÃ¶telezettsÃ©gek megosztÃ¡sa tekintetÃ©ben a SCARABEUS 2004 Kft. Ã©s az Elite World Kft. 50Â­50%-ban osztja meg egymÃ¡s kÃ¶zÃ¶tti jogait Ã©s kÃ¶telezettsÃ©geit. A kivÃ¡lÃ¡st kÃ¶vetÅ‘en a kÃ¶zbeszerzÃ©si pÃ¡lyÃ¡zatokon valÃ³ indulÃ¡si jogot az Elite World Kft. gyakorolja.<ujsor/>
+A hitelezÅ‘k a kÃ¶vetelÃ©sÃ¼ket Ã©rintÅ‘ vagyonmegosztÃ¡si rendelkezÃ©sekrÅ‘l a SCARABEUS 2004 Kft. e-mail cÃ­mÃ©n, a scarabeus2004@indamail.hu cÃ­men Ã©rdeklÅ‘dhetnek.<ujsor/>
+Az Ã¡talakulÃ¡s az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³ kÃ¶vetelÃ©seket nem teszi lejÃ¡rttÃ¡.<ujsor/>
+Azok a hitelezÅ‘k, akiknek az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei az Ã¡talakulÃ¡ssal hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gtÃ³l a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109726402</mezo>
-<mezo id = "nev">SCARABEUS 2004 Személy és Vagyonvédelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">SCARABEUS 2004 SzemÃ©ly Ã©s VagyonvÃ©delmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1114 Budapest</mezo>
 </alrovat>
 </rovat>

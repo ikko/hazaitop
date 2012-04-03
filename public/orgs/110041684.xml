@@ -6,7 +6,7 @@
 <mezo id = "szam">041684</mezo>
 <mezo id = "nevalrovat">5</mezo>
 <mezo id = "allapot">6</mezo>
-<mezo id = "cim">1068 Budapest, Dózsa György út 84. b. ép . </mezo>
+<mezo id = "cim">1068 Budapest, DÃ³zsa GyÃ¶rgy Ãºt 84. b. Ã©p . </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">10613751244</mezo>
 </alrovat>
@@ -14,7 +14,7 @@
 <rovat id = "2">
 <alrovat id = "5">
 <mezo id = "hattol">20060502</mezo>
-<mezo id = "nev">ING Bank zártkörûen mûködõ részvénytársaság</mezo>
+<mezo id = "nev">ING Bank zÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ rÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -34,7 +34,7 @@
 <mezo id = "hattol">20040524</mezo>
 <mezo id = "irsz">1068</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Dózsa György út 84. b. ép .</mezo>
+<mezo id = "teru">DÃ³zsa GyÃ¶rgy Ãºt 84. b. Ã©p .</mezo>
 </alrovat>
 </rovat>
 <rovat id = "8">
@@ -397,7 +397,7 @@
 <rovat id = "13">
 <alrovat id = "221">
 <mezo id = "hattol">19971119</mezo>
-<mezo id = "nev">Gyöngyösi Ildikó társasági dolgozó</mezo>
+<mezo id = "nev">GyÃ¶ngyÃ¶si IldikÃ³ tÃ¡rsasÃ¡gi dolgozÃ³</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">6791</mezo>
 <mezo id = "hely">Szeged</mezo>
@@ -405,7 +405,7 @@
 </alrovat>
 <alrovat id = "377">
 <mezo id = "hattol">20010601</mezo>
-<mezo id = "tiszt">dolgozó</mezo>
+<mezo id = "tiszt">dolgozÃ³</mezo>
 <mezo id = "pnev">Pieter C. deHaes</mezo>
 <mezo id = "panev">I. Sanders</mezo>
 <mezo id = "pkorsz">NL</mezo>
@@ -413,17 +413,17 @@
 </alrovat>
 <alrovat id = "382">
 <mezo id = "hattol">20011009</mezo>
-<mezo id = "tiszt">igazgatósági tag</mezo>
+<mezo id = "tiszt">igazgatÃ³sÃ¡gi tag</mezo>
 <mezo id = "pnev">Kend Douglas Holt</mezo>
 <mezo id = "panev">Francis Cover</mezo>
 <mezo id = "pirsz">1022</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Bogár u. 26/b.</mezo>
+<mezo id = "pteru">BogÃ¡r u. 26/b.</mezo>
 </alrovat>
 <alrovat id = "416">
 <mezo id = "hattol">20040524</mezo>
-<mezo id = "pnev">Pál Tamás</mezo>
-<mezo id = "panev">Háda Margit</mezo>
+<mezo id = "pnev">PÃ¡l TamÃ¡s</mezo>
+<mezo id = "panev">HÃ¡da Margit</mezo>
 <mezo id = "pirsz">1032</mezo>
 <mezo id = "phely">Budapest, San Marco u. 36.</mezo>
 <mezo id = "kepve">x</mezo>
@@ -432,10 +432,10 @@
 </alrovat>
 <alrovat id = "438">
 <mezo id = "hattol">20060418</mezo>
-<mezo id = "pnev">Diófási Zoltán</mezo>
-<mezo id = "panev">Kaleha Jolán</mezo>
+<mezo id = "pnev">DiÃ³fÃ¡si ZoltÃ¡n</mezo>
+<mezo id = "panev">Kaleha JolÃ¡n</mezo>
 <mezo id = "pirsz">2040</mezo>
-<mezo id = "phely">Budaörs, Bimbó u. 4.</mezo>
+<mezo id = "phely">BudaÃ¶rs, BimbÃ³ u. 4.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">3</mezo>
 <mezo id = "jogvk">20060418</mezo>
@@ -443,8 +443,8 @@
 </alrovat>
 <alrovat id = "440">
 <mezo id = "hattol">20061123</mezo>
-<mezo id = "pnev">Dr. Salgó István</mezo>
-<mezo id = "panev">Szita Mária</mezo>
+<mezo id = "pnev">Dr. SalgÃ³ IstvÃ¡n</mezo>
+<mezo id = "panev">Szita MÃ¡ria</mezo>
 <mezo id = "pirsz">1023</mezo>
 <mezo id = "phely">Budapest, Apostol utca 8.</mezo>
 <mezo id = "kepve">x</mezo>
@@ -456,10 +456,10 @@
 </alrovat>
 <alrovat id = "441">
 <mezo id = "hattol">20070917</mezo>
-<mezo id = "pnev">Benyák Judit Veronika</mezo>
-<mezo id = "panev">Oltványi Veronika</mezo>
+<mezo id = "pnev">BenyÃ¡k Judit Veronika</mezo>
+<mezo id = "panev">OltvÃ¡nyi Veronika</mezo>
 <mezo id = "pirsz">1137</mezo>
-<mezo id = "phely">Budapest, Radnóti Miklós utca 26. II/2.</mezo>
+<mezo id = "phely">Budapest, RadnÃ³ti MiklÃ³s utca 26. II/2.</mezo>
 <mezo id = "kepve">X</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20071001</mezo>
@@ -470,8 +470,8 @@
 </alrovat>
 <alrovat id = "442">
 <mezo id = "hattol">20070917</mezo>
-<mezo id = "pnev">Bek-Balla László</mezo>
-<mezo id = "panev">Ádámkovics Mária</mezo>
+<mezo id = "pnev">Bek-Balla LÃ¡szlÃ³</mezo>
+<mezo id = "panev">ÃdÃ¡mkovics MÃ¡ria</mezo>
 <mezo id = "pirsz">2089</mezo>
 <mezo id = "phely">Telki, Nefelejcs utca 439. Hrsz.</mezo>
 <mezo id = "kepve">X</mezo>
@@ -484,10 +484,10 @@
 </alrovat>
 <alrovat id = "444">
 <mezo id = "hattol">20070917</mezo>
-<mezo id = "pnev">Földes András</mezo>
+<mezo id = "pnev">FÃ¶ldes AndrÃ¡s</mezo>
 <mezo id = "panev">Berezsnich Tamara</mezo>
 <mezo id = "pirsz">1161</mezo>
-<mezo id = "phely">Budapest, Gusztáv u. 191.</mezo>
+<mezo id = "phely">Budapest, GusztÃ¡v u. 191.</mezo>
 <mezo id = "kepve">X</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20071001</mezo>
@@ -498,10 +498,10 @@
 </alrovat>
 <alrovat id = "445">
 <mezo id = "hattol">20070917</mezo>
-<mezo id = "pnev">Gaál Attila</mezo>
-<mezo id = "panev">Salacz Erzsébet</mezo>
+<mezo id = "pnev">GaÃ¡l Attila</mezo>
+<mezo id = "panev">Salacz ErzsÃ©bet</mezo>
 <mezo id = "pirsz">1116</mezo>
-<mezo id = "phely">Budapest, Hunyadi Mátyás u. 34.</mezo>
+<mezo id = "phely">Budapest, Hunyadi MÃ¡tyÃ¡s u. 34.</mezo>
 <mezo id = "kepve">X</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20071001</mezo>
@@ -512,10 +512,10 @@
 </alrovat>
 <alrovat id = "446">
 <mezo id = "hattol">20070917</mezo>
-<mezo id = "pnev">dr. Hubanov Mihály</mezo>
+<mezo id = "pnev">dr. Hubanov MihÃ¡ly</mezo>
 <mezo id = "panev">Hajnal Katalin</mezo>
 <mezo id = "pirsz">2096</mezo>
-<mezo id = "phely">Üröm, Kárókatona u. 5. F. ép . B. lh.</mezo>
+<mezo id = "phely">ÃœrÃ¶m, KÃ¡rÃ³katona u. 5. F. Ã©p . B. lh.</mezo>
 <mezo id = "kepve">X</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20071001</mezo>
@@ -526,7 +526,7 @@
 </alrovat>
 <alrovat id = "447">
 <mezo id = "hattol">20070917</mezo>
-<mezo id = "pnev">Igaz Zoltán István</mezo>
+<mezo id = "pnev">Igaz ZoltÃ¡n IstvÃ¡n</mezo>
 <mezo id = "panev">Manz Alice</mezo>
 <mezo id = "pirsz">1037</mezo>
 <mezo id = "phely">Budapest, Nyereg u. 30.</mezo>
@@ -540,10 +540,10 @@
 </alrovat>
 <alrovat id = "448">
 <mezo id = "hattol">20070917</mezo>
-<mezo id = "pnev">Kálmán Zoltán</mezo>
-<mezo id = "panev">Molnár Katalin</mezo>
+<mezo id = "pnev">KÃ¡lmÃ¡n ZoltÃ¡n</mezo>
+<mezo id = "panev">MolnÃ¡r Katalin</mezo>
 <mezo id = "pirsz">1075</mezo>
-<mezo id = "phely">Budapest, Madách tér 7. II/2.</mezo>
+<mezo id = "phely">Budapest, MadÃ¡ch tÃ©r 7. II/2.</mezo>
 <mezo id = "kepve">X</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20071001</mezo>
@@ -557,7 +557,7 @@
 <mezo id = "pnev">Katona Zsolt</mezo>
 <mezo id = "panev">Szlahorek Ilona</mezo>
 <mezo id = "pirsz">1181</mezo>
-<mezo id = "phely">Budapest, Fürst Sándor utca 11.</mezo>
+<mezo id = "phely">Budapest, FÃ¼rst SÃ¡ndor utca 11.</mezo>
 <mezo id = "kepve">X</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20071001</mezo>
@@ -568,10 +568,10 @@
 </alrovat>
 <alrovat id = "451">
 <mezo id = "hattol">20070917</mezo>
-<mezo id = "pnev">Kilyénfalvi Béla</mezo>
-<mezo id = "panev">Perjés Judit</mezo>
+<mezo id = "pnev">KilyÃ©nfalvi BÃ©la</mezo>
+<mezo id = "panev">PerjÃ©s Judit</mezo>
 <mezo id = "pirsz">1016</mezo>
-<mezo id = "phely">Budapest, Gellérthegy u. 3.</mezo>
+<mezo id = "phely">Budapest, GellÃ©rthegy u. 3.</mezo>
 <mezo id = "kepve">X</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20071001</mezo>
@@ -582,10 +582,10 @@
 </alrovat>
 <alrovat id = "453">
 <mezo id = "hattol">20070917</mezo>
-<mezo id = "pnev">Rózsa Zsuzsanna</mezo>
-<mezo id = "panev">Molnár Veronika</mezo>
+<mezo id = "pnev">RÃ³zsa Zsuzsanna</mezo>
+<mezo id = "panev">MolnÃ¡r Veronika</mezo>
 <mezo id = "pirsz">2090</mezo>
-<mezo id = "phely">Remeteszõlõs, Ponty u. 3.</mezo>
+<mezo id = "phely">RemeteszÅ‘lÅ‘s, Ponty u. 3.</mezo>
 <mezo id = "kepve">X</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20071001</mezo>
@@ -596,10 +596,10 @@
 </alrovat>
 <alrovat id = "454">
 <mezo id = "hattol">20070917</mezo>
-<mezo id = "pnev">Tóth Miklós</mezo>
+<mezo id = "pnev">TÃ³th MiklÃ³s</mezo>
 <mezo id = "panev">Mosgai Zsuzsanna</mezo>
 <mezo id = "pirsz">2096</mezo>
-<mezo id = "phely">Üröm, Kárókatona u. 7/ A . fszt. 4.</mezo>
+<mezo id = "phely">ÃœrÃ¶m, KÃ¡rÃ³katona u. 7/ A . fszt. 4.</mezo>
 <mezo id = "kepve">X</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20071001</mezo>
@@ -610,10 +610,10 @@
 </alrovat>
 <alrovat id = "455">
 <mezo id = "hattol">20070917</mezo>
-<mezo id = "pnev">Varga Balázs Imre</mezo>
-<mezo id = "panev">Holló Annamária</mezo>
+<mezo id = "pnev">Varga BalÃ¡zs Imre</mezo>
+<mezo id = "panev">HollÃ³ AnnamÃ¡ria</mezo>
 <mezo id = "pirsz">1021</mezo>
-<mezo id = "phely">Budapest, Labanc utca 15. B. ép. I/3.</mezo>
+<mezo id = "phely">Budapest, Labanc utca 15. B. Ã©p. I/3.</mezo>
 <mezo id = "kepve">X</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20071001</mezo>
@@ -627,7 +627,7 @@
 <mezo id = "pnev">dr. Varga Andrea Katalin</mezo>
 <mezo id = "panev">dr. F-lep Katalin Magdolna</mezo>
 <mezo id = "pirsz">1068</mezo>
-<mezo id = "phely">Budapest, Rippl Rónai utca 30. II^19.</mezo>
+<mezo id = "phely">Budapest, Rippl RÃ³nai utca 30. II^19.</mezo>
 <mezo id = "kepve">X</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20071001</mezo>
@@ -638,10 +638,10 @@
 </alrovat>
 <alrovat id = "457">
 <mezo id = "hattol">20070917</mezo>
-<mezo id = "pnev">Veréb Ágnes</mezo>
-<mezo id = "panev">Csoszánszky Ágnes</mezo>
+<mezo id = "pnev">VerÃ©b Ãgnes</mezo>
+<mezo id = "panev">CsoszÃ¡nszky Ãgnes</mezo>
 <mezo id = "pirsz">1173</mezo>
-<mezo id = "phely">Budapest, Akácvirág utca 4. II/6.</mezo>
+<mezo id = "phely">Budapest, AkÃ¡cvirÃ¡g utca 4. II/6.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20071001</mezo>
@@ -655,7 +655,7 @@
 <mezo id = "pnev">Lorenzo Tassan-Bassut</mezo>
 <mezo id = "panev">M. E. Van de Riet</mezo>
 <mezo id = "pirsz">1063</mezo>
-<mezo id = "phely">Budapest, Szív u. 18. I/8.</mezo>
+<mezo id = "phely">Budapest, SzÃ­v u. 18. I/8.</mezo>
 <mezo id = "kepve">X</mezo>
 <mezo id = "tv">d</mezo>
 <mezo id = "jogvk">20071120</mezo>
@@ -670,16 +670,16 @@
 <alrovat id = "7">
 <mezo id = "hattol">20070827</mezo>
 <mezo id = "cgjsz">109063183</mezo>
-<mezo id = "nev">KPMG Hungária Könyvvizsgáló, Adó- és Közgazdasági Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">KPMG HungÃ¡ria KÃ¶nyvvizsgÃ¡lÃ³, AdÃ³- Ã©s KÃ¶zgazdasÃ¡gi TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1139</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Váci út</mezo>
+<mezo id = "teru">VÃ¡ci Ãºt</mezo>
 <mezo id = "hsz">99</mezo>
 <mezo id = "pnev">Nagy Zsuzsanna</mezo>
-<mezo id = "panev">Hevér Anna</mezo>
+<mezo id = "panev">HevÃ©r Anna</mezo>
 <mezo id = "pirsz">3214</mezo>
-<mezo id = "phely">Nagyréde, Rákóczi út 10.</mezo>
+<mezo id = "phely">NagyrÃ©de, RÃ¡kÃ³czi Ãºt 10.</mezo>
 <mezo id = "jogvk">20070701</mezo>
 <mezo id = "jogvv">20120701</mezo>
 <mezo id = "valtk">20070827</mezo>
@@ -691,8 +691,8 @@
 <rovat id = "15">
 <alrovat id = "10">
 <mezo id = "hattol">20000309</mezo>
-<mezo id = "pnev">Dr. Berencsi Tamás</mezo>
-<mezo id = "panev">Fodor Erzsébet</mezo>
+<mezo id = "pnev">Dr. Berencsi TamÃ¡s</mezo>
+<mezo id = "panev">Fodor ErzsÃ©bet</mezo>
 <mezo id = "pirsz">1025</mezo>
 <mezo id = "phely">Budapest, Szikla u. 27/a.</mezo>
 </alrovat>
@@ -720,11 +720,11 @@
 <mezo id = "pkhely">The Hague 2585 VX, Delistraat 39.</mezo>
 <mezo id = "jogvk">20050618</mezo>
 <mezo id = "jogvv">20100618</mezo>
-<mezo id = "pcnev">ING Duna Szolgáltató Kft.</mezo>
+<mezo id = "pcnev">ING Duna SzolgÃ¡ltatÃ³ Kft.</mezo>
 <mezo id = "pcanev">109467025</mezo>
 <mezo id = "pcirsz">1068</mezo>
 <mezo id = "pchely">Budapest</mezo>
-<mezo id = "pcteru">Dózsa Gy. u.</mezo>
+<mezo id = "pcteru">DÃ³zsa Gy. u.</mezo>
 <mezo id = "pchsz">84/b.</mezo>
 </alrovat>
 <alrovat id = "23">
@@ -760,12 +760,12 @@
 <alrovat id = "1">
 <mezo id = "hattol">20020627</mezo>
 <mezo id = "cgjsz">110042561</mezo>
-<mezo id = "nev">ING Baring Értékpapír (Magyarország) Rt.</mezo>
+<mezo id = "nev">ING Baring Ã‰rtÃ©kpapÃ­r (MagyarorszÃ¡g) Rt.</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20020701</mezo>
 <mezo id = "cgjsz">110042561</mezo>
-<mezo id = "nev">ING Baring Értékpapír (Magyarország) Rt.</mezo>
+<mezo id = "nev">ING Baring Ã‰rtÃ©kpapÃ­r (MagyarorszÃ¡g) Rt.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "20">
@@ -792,11 +792,11 @@
 <mezo id = "teru">Amstelveenseweg</mezo>
 <mezo id = "hsz">500.</mezo>
 <mezo id = "k">x</mezo>
-<mezo id = "pcnev">ING DUNA Szolgáltató Kft.</mezo>
+<mezo id = "pcnev">ING DUNA SzolgÃ¡ltatÃ³ Kft.</mezo>
 <mezo id = "pcanev">109467025</mezo>
 <mezo id = "pcirsz">1068</mezo>
 <mezo id = "pchely">Budapest</mezo>
-<mezo id = "pcteru">Dózsa Gy . út</mezo>
+<mezo id = "pcteru">DÃ³zsa Gy . Ãºt</mezo>
 <mezo id = "pchsz">84/b.</mezo>
 <mezo id = "pckirsz">0</mezo>
 </alrovat>
@@ -813,7 +813,7 @@
 <mezo id = "pcanev">110041684</mezo>
 <mezo id = "pcirsz">1068</mezo>
 <mezo id = "pchely">Budapest</mezo>
-<mezo id = "pcteru">Dózsa Gy. út</mezo>
+<mezo id = "pcteru">DÃ³zsa Gy. Ãºt</mezo>
 <mezo id = "pchsz">84/b.</mezo>
 <mezo id = "pckirsz">0</mezo>
 </alrovat>
@@ -827,649 +827,649 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság az 1999. 02. 22-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-09. 65.12 Egyéb monetáris tevékenység.<ujsor/>
- 65.23 Máshova nem sorolt, egyéb pénzügyi tevékenység.<ujsor/>
- Hatályos: 1998. 05. 28-tól.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g az 1999. 02. 22-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+09. 65.12 EgyÃ©b monetÃ¡ris tevÃ©kenysÃ©g.<ujsor/>
+ 65.23 MÃ¡shova nem sorolt, egyÃ©b pÃ©nzÃ¼gyi tevÃ©kenysÃ©g.<ujsor/>
+ HatÃ¡lyos: 1998. 05. 28-tÃ³l.<ujsor/>
 Bejegyezve: 1999. 03. 11.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110041684</mezo>
-<mezo id = "nev">ING Bank /Magyarország/ Rt.</mezo>
-<mezo id = "cim">1061 Budapest, Andrássy út 9.</mezo>
+<mezo id = "nev">ING Bank /MagyarorszÃ¡g/ Rt.</mezo>
+<mezo id = "cim">1061 Budapest, AndrÃ¡ssy Ãºt 9.</mezo>
 <mezo id = "adosz">10613751244</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság az 1999. 09. 13-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. Gyöngyösi Ildikó társasági dolgozó<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g az 1999. 09. 13-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. GyÃ¶ngyÃ¶si IldikÃ³ tÃ¡rsasÃ¡gi dolgozÃ³<ujsor/>
 6791 Szeged, Vadliba u. 41.<ujsor/>
- Törölve: 1999. 09. 01-i hatállyal.<ujsor/>
- Gurdon Zoltán dolgozó<ujsor/>
-8428 Borzavár, Fõ u. 68.<ujsor/>
- Hatályos: 1997. 11. 19-tõl.<ujsor/>
+ TÃ¶rÃ¶lve: 1999. 09. 01-i hatÃ¡llyal.<ujsor/>
+ Gurdon ZoltÃ¡n dolgozÃ³<ujsor/>
+8428 BorzavÃ¡r, FÅ‘ u. 68.<ujsor/>
+ HatÃ¡lyos: 1997. 11. 19-tÅ‘l.<ujsor/>
 Bejegyezve: 1999. 09. 29.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110041684</mezo>
-<mezo id = "nev">ING Bank /Magyarország/ Rt.</mezo>
-<mezo id = "cim">1061 Budapest, Andrássy út 9.</mezo>
+<mezo id = "nev">ING Bank /MagyarorszÃ¡g/ Rt.</mezo>
+<mezo id = "cim">1061 Budapest, AndrÃ¡ssy Ãºt 9.</mezo>
 <mezo id = "adosz">10613751244</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2001. 07. 25-én hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. Pieter C. deHaes (an: I. Sanders) dolgozó<ujsor/>
-Külföldi cím: NL Rotterdam, Jan van Ghestellaan 52.<ujsor/>
- Törölve: 2001. 06. 01-i hatállyal.<ujsor/>
- Pieter C. deHaes (an: I. Sanders) dolgozó<ujsor/>
-1125 Budapest, Lóránt u. 11.<ujsor/>
- Hatályos: 2001. 06. 01-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2001. 07. 25-Ã©n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. Pieter C. deHaes (an: I. Sanders) dolgozÃ³<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: NL Rotterdam, Jan van Ghestellaan 52.<ujsor/>
+ TÃ¶rÃ¶lve: 2001. 06. 01-i hatÃ¡llyal.<ujsor/>
+ Pieter C. deHaes (an: I. Sanders) dolgozÃ³<ujsor/>
+1125 Budapest, LÃ³rÃ¡nt u. 11.<ujsor/>
+ HatÃ¡lyos: 2001. 06. 01-tÅ‘l.<ujsor/>
 Bejegyezve: 2001. 07. 25.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110041684</mezo>
-<mezo id = "nev">ING Bank /Magyarország/ Rt.</mezo>
-<mezo id = "cim">1061 Budapest, Andrássy út 9.</mezo>
+<mezo id = "nev">ING Bank /MagyarorszÃ¡g/ Rt.</mezo>
+<mezo id = "cim">1061 Budapest, AndrÃ¡ssy Ãºt 9.</mezo>
 <mezo id = "adosz">10613751244</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2001. 11. 28-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2001. 11. 28-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
 15. Albert van Meteren (an: Antje Kussendrager)<ujsor/>
-Külföldi cím: NL 2871 JX Schoonhoven, Zeemanhof 4.<ujsor/>
- Törölve: 2001. 10. 09-i hatállyal.<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: NL 2871 JX Schoonhoven, Zeemanhof 4.<ujsor/>
+ TÃ¶rÃ¶lve: 2001. 10. 09-i hatÃ¡llyal.<ujsor/>
  Albert van Meteren (an: Antje Kussendrager)<ujsor/>
-Külföldi cím: NL 2871 JX Schoonhoven, Zeemanhof 4.<ujsor/>
- Kézbesítési megbízott: ING Bank Rt.<ujsor/>
-1061 Budapest, Andrássy út 9.<ujsor/>
- Hatályos: 2001. 10. 09-tõl.<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: NL 2871 JX Schoonhoven, Zeemanhof 4.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott: ING Bank Rt.<ujsor/>
+1061 Budapest, AndrÃ¡ssy Ãºt 9.<ujsor/>
+ HatÃ¡lyos: 2001. 10. 09-tÅ‘l.<ujsor/>
 Bejegyezve: 2002. 01. 02.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110041684</mezo>
-<mezo id = "nev">ING Bank /Magyarország/ Rt.</mezo>
-<mezo id = "cim">1061 Budapest, Andrássy út 9.</mezo>
+<mezo id = "nev">ING Bank /MagyarorszÃ¡g/ Rt.</mezo>
+<mezo id = "cim">1061 Budapest, AndrÃ¡ssy Ãºt 9.</mezo>
 <mezo id = "adosz">10613751244</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2002. 04. 09-én hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-11. 18 588 600 000 azaz tizennyolcmilliárd ötszáznyolcvannyolcmillió-hatszázezer Ft készpénz.<ujsor/>
- Törölve: 2002. 04. 09-i hatállyal.<ujsor/>
- 15 758 700 000 azaz tizenötmilliárd hétszázötvennyolcmillió-hétszázezer Ft készpénz.<ujsor/>
- Hatályos: 2002. 04. 09-tõl.<ujsor/>
-5(10). Részvényfajta: törzsrészvény.<ujsor/>
- Egyszáznyolcvanötezer-nyolcszáznyolcvanhat darab egyszázezer Ft.<ujsor/>
- Törölve: 2002. 04. 09-i hatállyal.<ujsor/>
- Részvényfajta: törzsrészvény.<ujsor/>
- Egyszázötvenhétezer-ötszáznyolcvanhét darab egyszázezer Ft.<ujsor/>
- Hatályos: 2002. 04. 09-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2002. 04. 09-Ã©n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+11. 18 588 600 000 azaz tizennyolcmilliÃ¡rd Ã¶tszÃ¡znyolcvannyolcmilliÃ³-hatszÃ¡zezer Ft kÃ©szpÃ©nz.<ujsor/>
+ TÃ¶rÃ¶lve: 2002. 04. 09-i hatÃ¡llyal.<ujsor/>
+ 15 758 700 000 azaz tizenÃ¶tmilliÃ¡rd hÃ©tszÃ¡zÃ¶tvennyolcmilliÃ³-hÃ©tszÃ¡zezer Ft kÃ©szpÃ©nz.<ujsor/>
+ HatÃ¡lyos: 2002. 04. 09-tÅ‘l.<ujsor/>
+5(10). RÃ©szvÃ©nyfajta: tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+ EgyszÃ¡znyolcvanÃ¶tezer-nyolcszÃ¡znyolcvanhat darab egyszÃ¡zezer Ft.<ujsor/>
+ TÃ¶rÃ¶lve: 2002. 04. 09-i hatÃ¡llyal.<ujsor/>
+ RÃ©szvÃ©nyfajta: tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+ EgyszÃ¡zÃ¶tvenhÃ©tezer-Ã¶tszÃ¡znyolcvanhÃ©t darab egyszÃ¡zezer Ft.<ujsor/>
+ HatÃ¡lyos: 2002. 04. 09-tÅ‘l.<ujsor/>
 Bejegyezve: 2002. 05. 02.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110041684</mezo>
-<mezo id = "nev">ING Bank /Magyarország/ Rt.</mezo>
-<mezo id = "cim">1061 Budapest, Andrássy út 9.</mezo>
+<mezo id = "nev">ING Bank /MagyarorszÃ¡g/ Rt.</mezo>
+<mezo id = "cim">1061 Budapest, AndrÃ¡ssy Ãºt 9.</mezo>
 <mezo id = "adosz">10613751244</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a 2002. április 9. napján hozott 179. sorszámú végzését hatályon kívül helyezi.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a 2002. Ã¡prilis 9. napjÃ¡n hozott 179. sorszÃ¡mÃº vÃ©gzÃ©sÃ©t hatÃ¡lyon kÃ­vÃ¼l helyezi.<ujsor/>
 2002. 05. 02.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110041684</mezo>
-<mezo id = "nev">ING Bank /Magyarország/ Rt.</mezo>
-<mezo id = "cim">1061 Budapest, Andrássy út 9.</mezo>
+<mezo id = "nev">ING Bank /MagyarorszÃ¡g/ Rt.</mezo>
+<mezo id = "cim">1061 Budapest, AndrÃ¡ssy Ãºt 9.</mezo>
 <mezo id = "adosz">10613751244</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2002. 04. 09-én hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-A bíróság a 2002. április 9. napján kelt 179. sorszámú változás-bejegyzõ végzését akként javítja ki, hogy a 8/040. rovatot (2002.03.28.) törli a cégjegyzékbõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2002. 04. 09-Ã©n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+A bÃ­rÃ³sÃ¡g a 2002. Ã¡prilis 9. napjÃ¡n kelt 179. sorszÃ¡mÃº vÃ¡ltozÃ¡s-bejegyzÅ‘ vÃ©gzÃ©sÃ©t akkÃ©nt javÃ­tja ki, hogy a 8/040. rovatot (2002.03.28.) tÃ¶rli a cÃ©gjegyzÃ©kbÅ‘l.<ujsor/>
 Bejegyezve: 2002. 05. 02.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110041684</mezo>
-<mezo id = "nev">ING Bank /Magyarország/ Rt.</mezo>
-<mezo id = "cim">1061 Budapest, Andrássy út 9.</mezo>
+<mezo id = "nev">ING Bank /MagyarorszÃ¡g/ Rt.</mezo>
+<mezo id = "cim">1061 Budapest, AndrÃ¡ssy Ãºt 9.</mezo>
 <mezo id = "adosz">10613751244</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">2002. március 27-én az ING Bank (Magyarország) Rt. (továbbiakban: ING Bank Rt.) és az ING Baring Értékpapír (Magyarország) Rt. (továbbiakban: ING Baring Rt.) alapítója (ING Bank N.V.; Strawinskylaan 26 31 ZZ Amsterdam, Hollandia) jóváhagyta az ING Bank Rt. és az ING Baring Rt. egyesülési szerzõdését, amelynek értelmében az ING Baring Rt. az ING Bank Rt.-be a vonatkozó jogszabályok megtartásával<ujsor/>
+<mezo id = "szoveg">2002. mÃ¡rcius 27-Ã©n az ING Bank (MagyarorszÃ¡g) Rt. (tovÃ¡bbiakban: ING Bank Rt.) Ã©s az ING Baring Ã‰rtÃ©kpapÃ­r (MagyarorszÃ¡g) Rt. (tovÃ¡bbiakban: ING Baring Rt.) alapÃ­tÃ³ja (ING Bank N.V.; Strawinskylaan 26 31 ZZ Amsterdam, Hollandia) jÃ³vÃ¡hagyta az ING Bank Rt. Ã©s az ING Baring Rt. egyesÃ¼lÃ©si szerzÅ‘dÃ©sÃ©t, amelynek Ã©rtelmÃ©ben az ING Baring Rt. az ING Bank Rt.-be a vonatkozÃ³ jogszabÃ¡lyok megtartÃ¡sÃ¡val<ujsor/>
 beolvad,<ujsor/>
-és ezáltal az ING Baring Rt. teljes vagyona az ING Bank Rt. mint általános jogutód tulajdonává válik.<ujsor/>
-A beolvadó társaság neve: ING Baring Értékpapír (Magyarország) Rt.<ujsor/>
-A beolvadó társaság formája: részvénytársaság.<ujsor/>
-Székhelye: 1061 Budapest, Andrássy út 9.<ujsor/>
-Cégjegyzékszáma: [01 10 042561].<ujsor/>
-A beolvadó társaság tulajdonosa: ING Bank N.V.<ujsor/>
-Az átvevõ társaság neve: ING Bank (Magyarország) Rt.<ujsor/>
-Az átvevõ társaság formája: részvénytársaság.<ujsor/>
-Székhelye: 1061 Budapest, Andrássy út 9.<ujsor/>
-Cégjegyzékszáma: [01 10 041684].<ujsor/>
-Az átvevõ társaság tulajdonosa: ING Bank N.V.<ujsor/>
-Az egyesült társaság neve: ING Bank (Magyarország) Részvénytársaság.<ujsor/>
-Székhelye: 1061 Budapest, Andrássy út 9.<ujsor/>
-Cégjegyzékszáma: [01 10 041684].<ujsor/>
-Az egyesült társaság tulajdonosa: ING Bank N.V.<ujsor/>
-A beolvadó, az átvevõ és az egyesült társaságok vagyonmérleg-tervezetének fõbb adatai:<ujsor/>
+Ã©s ezÃ¡ltal az ING Baring Rt. teljes vagyona az ING Bank Rt. mint Ã¡ltalÃ¡nos jogutÃ³d tulajdonÃ¡vÃ¡ vÃ¡lik.<ujsor/>
+A beolvadÃ³ tÃ¡rsasÃ¡g neve: ING Baring Ã‰rtÃ©kpapÃ­r (MagyarorszÃ¡g) Rt.<ujsor/>
+A beolvadÃ³ tÃ¡rsasÃ¡g formÃ¡ja: rÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 1061 Budapest, AndrÃ¡ssy Ãºt 9.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡ma: [01 10 042561].<ujsor/>
+A beolvadÃ³ tÃ¡rsasÃ¡g tulajdonosa: ING Bank N.V.<ujsor/>
+Az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g neve: ING Bank (MagyarorszÃ¡g) Rt.<ujsor/>
+Az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g formÃ¡ja: rÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 1061 Budapest, AndrÃ¡ssy Ãºt 9.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡ma: [01 10 041684].<ujsor/>
+Az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g tulajdonosa: ING Bank N.V.<ujsor/>
+Az egyesÃ¼lt tÃ¡rsasÃ¡g neve: ING Bank (MagyarorszÃ¡g) RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 1061 Budapest, AndrÃ¡ssy Ãºt 9.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡ma: [01 10 041684].<ujsor/>
+Az egyesÃ¼lt tÃ¡rsasÃ¡g tulajdonosa: ING Bank N.V.<ujsor/>
+A beolvadÃ³, az Ã¡tvevÅ‘ Ã©s az egyesÃ¼lt tÃ¡rsasÃ¡gok vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai:<ujsor/>
    Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK ING Baring Rt. ING Bank Rt. Egyesült cég<ujsor/>
-Pénzeszközök 453 304 23 661 224 23 661 224<ujsor/>
-Értékpapírok 11 447 676 26 585 305 38 032 981<ujsor/>
-Követelések 10 544 731 130 549 485 136 750 819<ujsor/>
-Befektetett pénzügyi eszközök 2 729 124 8 701 237 11 390 320<ujsor/>
-Immateriális javak és tárgyi eszközök 40 776 338 380 379 156<ujsor/>
-Aktív idõbeli elhatárolások 635 416 1 845 240 2 446 456<ujsor/>
-ÖSSZESEN: 25 851 027 191 680 871 212 660 956<ujsor/>
+ESZKÃ–ZÃ–K ING Baring Rt. ING Bank Rt. EgyesÃ¼lt cÃ©g<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 453 304 23 661 224 23 661 224<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 11 447 676 26 585 305 38 032 981<ujsor/>
+KÃ¶vetelÃ©sek 10 544 731 130 549 485 136 750 819<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 2 729 124 8 701 237 11 390 320<ujsor/>
+ImmateriÃ¡lis javak Ã©s tÃ¡rgyi eszkÃ¶zÃ¶k 40 776 338 380 379 156<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 635 416 1 845 240 2 446 456<ujsor/>
+Ã–SSZESEN: 25 851 027 191 680 871 212 660 956<ujsor/>
    Adatok E Ft-ban<ujsor/>
-FORRÁSOK ING Baring Rt. ING Bank Rt. Egyesült cég<ujsor/>
-Kötelezettségek 22 673 518 160 833 267 178 670 043<ujsor/>
-Céltartalékok 0 2 859 897 2 859 897<ujsor/>
-Passzív idõbeli elhatárolások 184 552 1 419 220 1 569 572<ujsor/>
-Alárendelt kölcsöntõke 0 4 908 129 4 908 129<ujsor/>
-Összes részvényesi vagyon 2 992 957 21 660 358 24 653 315<ujsor/>
-ÖSSZESEN: 25 851 027 191 680 871 212 660 956<ujsor/>
-Az egyesülõ társaságok egyesülés elõtti vagyona:<ujsor/>
-Az ING Bank Rt., mint átvevõ társaság vagyona:<ujsor/>
-mérleg-fõösszege: 191 680 871 E Ft,<ujsor/>
-saját tõkéje: 21 660 358 E Ft, ebbõl a jegyzett tõke értéke: 15 758 700 E Ft,<ujsor/>
-pénzbeli betét: 15 758 700 E Ft.<ujsor/>
-Az ING Baring Rt., mint beolvadó társaság vagyona:<ujsor/>
-mérleg-fõösszege: 25 851 027 E Ft,<ujsor/>
-saját tõkéje: 2 992 957 E Ft, ebbõl a jegyzett tõke értéke: 1 096 200 E Ft,<ujsor/>
-pénzbeli betét: 1 096 200 E Ft.<ujsor/>
-Az egyesült társaság egyesülés utáni tervezett vagyona:<ujsor/>
-Az ING Baring Rt. és az ING Bank Rt. vagyonának összevont adatai alapján az egyesült társaság tervezett mérleg-fõösszege: 212 660 956 E Ft,<ujsor/>
-saját tõkéje: 24 653 315 E Ft,<ujsor/>
-jegyzett tõkéje: 18 588 600 E Ft,<ujsor/>
-alaptõkéjébõl pénzbeli betét: 18 588 600 E Ft.<ujsor/>
-Az egyesült társaság jegyzett tõkéjének tervezett összege tartalmazza az ING Baring Rt. 1 733 700 E Ft 2001. december 31-i eredménytartalékának összegét is.<ujsor/>
-Az egyesült társaság részvényei: az egyesült társaság alaptõkéjét 185 886 db (egyszáznyolcvanötezer-nyolcszáznyolcvanhat darab), egyenként 100 000 Ft (egyszázezer forint) névértékû, névre szóló törzsrészvény.<ujsor/>
-Az egyesült társaság tevékenysége: 6512 Egyéb monetáris tevékenység; 6521 Pénzügyi lízing; 6523 Máshova nem sorolt egyéb pénzügyi tevékenység; 6712 Értékpapírügynöki tevékenység; 6713 Egyéb pénzügyi kiegészítõ tevékenység; 6720 Biztosítást kiegészítõ tevékenység.<ujsor/>
-Az egyesült társaság vezetõ tisztségviselõi:<ujsor/>
-Igazgatósági tagjai: Pieter de Haes (1125 Budapest, Lóránt u. 11), dr. Bordás György (1037 Budapest, Máramaros u. 14.), Maarten de Jong (1125 Budapest, Diana u. 20.), Kent Holt (1022 Budapest, Bogár u. 26/B), Jerry Wouterson (1065 Budapest, Hajós u. 13-15.), Major János (1067 Budapest, Zichy Jenõ u. 37.).<ujsor/>
-A felügyelõbizottság tagjai: Piet van Zanten (Hendriklaan 4., NL-3743 DL Baarn, Hollandia), Bert van Meteren (Zeemannhof 4., NL-2871 JX Schoonhoven, Hollandia), dr. Berencsi Tamás (1025 Budapest, Szikla u. 27/A).<ujsor/>
-Az egyesült társaság alapító okirata aláírásának idõpontja: 2002. március 27.<ujsor/>
-Tájékoztatjuk hitelezõinket, hogy az egyesülés a beolvadó gazdasági társasággal szemben fennálló követeléseiket nem teszi lejárttá. Azok a hitelezõk, akiknek a beolvadó gazdasági társasággal szemben fennálló, le nem járt követelései a beolvadásról hozott döntés elsõ közzétételét megelõzõen keletkeztek, követeléseik erejéig a beolvadó gazdasági társaságtól a döntés második közzétételét követõ harmincnapos jogvesztõ határidõn belül biztosítékot követelhetnek.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+FORRÃSOK ING Baring Rt. ING Bank Rt. EgyesÃ¼lt cÃ©g<ujsor/>
+KÃ¶telezettsÃ©gek 22 673 518 160 833 267 178 670 043<ujsor/>
+CÃ©ltartalÃ©kok 0 2 859 897 2 859 897<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 184 552 1 419 220 1 569 572<ujsor/>
+AlÃ¡rendelt kÃ¶lcsÃ¶ntÅ‘ke 0 4 908 129 4 908 129<ujsor/>
+Ã–sszes rÃ©szvÃ©nyesi vagyon 2 992 957 21 660 358 24 653 315<ujsor/>
+Ã–SSZESEN: 25 851 027 191 680 871 212 660 956<ujsor/>
+Az egyesÃ¼lÅ‘ tÃ¡rsasÃ¡gok egyesÃ¼lÃ©s elÅ‘tti vagyona:<ujsor/>
+Az ING Bank Rt., mint Ã¡tvevÅ‘ tÃ¡rsasÃ¡g vagyona:<ujsor/>
+mÃ©rleg-fÅ‘Ã¶sszege: 191 680 871 E Ft,<ujsor/>
+sajÃ¡t tÅ‘kÃ©je: 21 660 358 E Ft, ebbÅ‘l a jegyzett tÅ‘ke Ã©rtÃ©ke: 15 758 700 E Ft,<ujsor/>
+pÃ©nzbeli betÃ©t: 15 758 700 E Ft.<ujsor/>
+Az ING Baring Rt., mint beolvadÃ³ tÃ¡rsasÃ¡g vagyona:<ujsor/>
+mÃ©rleg-fÅ‘Ã¶sszege: 25 851 027 E Ft,<ujsor/>
+sajÃ¡t tÅ‘kÃ©je: 2 992 957 E Ft, ebbÅ‘l a jegyzett tÅ‘ke Ã©rtÃ©ke: 1 096 200 E Ft,<ujsor/>
+pÃ©nzbeli betÃ©t: 1 096 200 E Ft.<ujsor/>
+Az egyesÃ¼lt tÃ¡rsasÃ¡g egyesÃ¼lÃ©s utÃ¡ni tervezett vagyona:<ujsor/>
+Az ING Baring Rt. Ã©s az ING Bank Rt. vagyonÃ¡nak Ã¶sszevont adatai alapjÃ¡n az egyesÃ¼lt tÃ¡rsasÃ¡g tervezett mÃ©rleg-fÅ‘Ã¶sszege: 212 660 956 E Ft,<ujsor/>
+sajÃ¡t tÅ‘kÃ©je: 24 653 315 E Ft,<ujsor/>
+jegyzett tÅ‘kÃ©je: 18 588 600 E Ft,<ujsor/>
+alaptÅ‘kÃ©jÃ©bÅ‘l pÃ©nzbeli betÃ©t: 18 588 600 E Ft.<ujsor/>
+Az egyesÃ¼lt tÃ¡rsasÃ¡g jegyzett tÅ‘kÃ©jÃ©nek tervezett Ã¶sszege tartalmazza az ING Baring Rt. 1 733 700 E Ft 2001. december 31-i eredmÃ©nytartalÃ©kÃ¡nak Ã¶sszegÃ©t is.<ujsor/>
+Az egyesÃ¼lt tÃ¡rsasÃ¡g rÃ©szvÃ©nyei: az egyesÃ¼lt tÃ¡rsasÃ¡g alaptÅ‘kÃ©jÃ©t 185 886 db (egyszÃ¡znyolcvanÃ¶tezer-nyolcszÃ¡znyolcvanhat darab), egyenkÃ©nt 100 000 Ft (egyszÃ¡zezer forint) nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+Az egyesÃ¼lt tÃ¡rsasÃ¡g tevÃ©kenysÃ©ge: 6512 EgyÃ©b monetÃ¡ris tevÃ©kenysÃ©g; 6521 PÃ©nzÃ¼gyi lÃ­zing; 6523 MÃ¡shova nem sorolt egyÃ©b pÃ©nzÃ¼gyi tevÃ©kenysÃ©g; 6712 Ã‰rtÃ©kpapÃ­rÃ¼gynÃ¶ki tevÃ©kenysÃ©g; 6713 EgyÃ©b pÃ©nzÃ¼gyi kiegÃ©szÃ­tÅ‘ tevÃ©kenysÃ©g; 6720 BiztosÃ­tÃ¡st kiegÃ©szÃ­tÅ‘ tevÃ©kenysÃ©g.<ujsor/>
+Az egyesÃ¼lt tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘i:<ujsor/>
+IgazgatÃ³sÃ¡gi tagjai: Pieter de Haes (1125 Budapest, LÃ³rÃ¡nt u. 11), dr. BordÃ¡s GyÃ¶rgy (1037 Budapest, MÃ¡ramaros u. 14.), Maarten de Jong (1125 Budapest, Diana u. 20.), Kent Holt (1022 Budapest, BogÃ¡r u. 26/B), Jerry Wouterson (1065 Budapest, HajÃ³s u. 13-15.), Major JÃ¡nos (1067 Budapest, Zichy JenÅ‘ u. 37.).<ujsor/>
+A felÃ¼gyelÅ‘bizottsÃ¡g tagjai: Piet van Zanten (Hendriklaan 4., NL-3743 DL Baarn, Hollandia), Bert van Meteren (Zeemannhof 4., NL-2871 JX Schoonhoven, Hollandia), dr. Berencsi TamÃ¡s (1025 Budapest, Szikla u. 27/A).<ujsor/>
+Az egyesÃ¼lt tÃ¡rsasÃ¡g alapÃ­tÃ³ okirata alÃ¡Ã­rÃ¡sÃ¡nak idÅ‘pontja: 2002. mÃ¡rcius 27.<ujsor/>
+TÃ¡jÃ©koztatjuk hitelezÅ‘inket, hogy az egyesÃ¼lÃ©s a beolvadÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³ kÃ¶vetelÃ©seiket nem teszi lejÃ¡rttÃ¡. Azok a hitelezÅ‘k, akiknek a beolvadÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei a beolvadÃ¡srÃ³l hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig a beolvadÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gtÃ³l a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110041684</mezo>
-<mezo id = "nev">ING Bank /Magyarország/ Rt.</mezo>
+<mezo id = "nev">ING Bank /MagyarorszÃ¡g/ Rt.</mezo>
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2002. 06. 27-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-11. 18 588 600 000 azaz tizennyolcmilliárd ötszáznyolcvannyolcmillió-hatszázezer Ft készpénz.<ujsor/>
- Törölve: 2002. 06. 27-i hatállyal.<ujsor/>
- 18 588 600 000 azaz tizennyolcmilliárd ötszáznyolcvannyolcmillió-hatszázezer Ft készpénz.<ujsor/>
- Hatályos: 2002. 07. 01-tõl.<ujsor/>
-16. [01 10 042561] ING Baring Értékpapír (Magyarország) Rt.<ujsor/>
- Törölve: 2002. 06. 27-i hatállyal.<ujsor/>
- [01 10 042561] ING Baring Értékpapír (Magyarország) Rt.<ujsor/>
- Hatályos: 2002. 07. 01-tõl.<ujsor/>
-5(10). Részvényfajta: törzsrészvény.<ujsor/>
- Egyszáznyolcvanötezer-nyolcszáznyolcvanhat darab egyszázezer Ft.<ujsor/>
- Törölve: 2002. 06. 27-i hatállyal.<ujsor/>
- Részvényfajta: törzsrészvény.<ujsor/>
- Egyszáznyolcvanötezer-nyolcszáznyolcvanhat darab egyszázezer Ft.<ujsor/>
- Hatályos: 2002. 07. 01-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2002. 06. 27-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+11. 18 588 600 000 azaz tizennyolcmilliÃ¡rd Ã¶tszÃ¡znyolcvannyolcmilliÃ³-hatszÃ¡zezer Ft kÃ©szpÃ©nz.<ujsor/>
+ TÃ¶rÃ¶lve: 2002. 06. 27-i hatÃ¡llyal.<ujsor/>
+ 18 588 600 000 azaz tizennyolcmilliÃ¡rd Ã¶tszÃ¡znyolcvannyolcmilliÃ³-hatszÃ¡zezer Ft kÃ©szpÃ©nz.<ujsor/>
+ HatÃ¡lyos: 2002. 07. 01-tÅ‘l.<ujsor/>
+16. [01 10 042561] ING Baring Ã‰rtÃ©kpapÃ­r (MagyarorszÃ¡g) Rt.<ujsor/>
+ TÃ¶rÃ¶lve: 2002. 06. 27-i hatÃ¡llyal.<ujsor/>
+ [01 10 042561] ING Baring Ã‰rtÃ©kpapÃ­r (MagyarorszÃ¡g) Rt.<ujsor/>
+ HatÃ¡lyos: 2002. 07. 01-tÅ‘l.<ujsor/>
+5(10). RÃ©szvÃ©nyfajta: tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+ EgyszÃ¡znyolcvanÃ¶tezer-nyolcszÃ¡znyolcvanhat darab egyszÃ¡zezer Ft.<ujsor/>
+ TÃ¶rÃ¶lve: 2002. 06. 27-i hatÃ¡llyal.<ujsor/>
+ RÃ©szvÃ©nyfajta: tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+ EgyszÃ¡znyolcvanÃ¶tezer-nyolcszÃ¡znyolcvanhat darab egyszÃ¡zezer Ft.<ujsor/>
+ HatÃ¡lyos: 2002. 07. 01-tÅ‘l.<ujsor/>
 Bejegyezve: 2002. 07. 01.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110041684</mezo>
-<mezo id = "nev">ING Bank /Magyarország/ Rt.</mezo>
-<mezo id = "cim">1061 Budapest, Andrássy út 9.</mezo>
+<mezo id = "nev">ING Bank /MagyarorszÃ¡g/ Rt.</mezo>
+<mezo id = "cim">1061 Budapest, AndrÃ¡ssy Ãºt 9.</mezo>
 <mezo id = "adosz">10613751244</mezo>
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">2002. március 27-én az ING Bank (Magyarország) Rt. (továbbiakban: ING Bank Rt.) és az ING Baring Értékpapír (Magyarország) Rt. (továbbiakban: ING Baring Rt.) alapítója (ING Bank N.V.; Strawinskylaan 26 31 ZZ Amsterdam, Hollandia) jóváhagyta az ING Bank Rt. és az ING Baring Rt. egyesülési szerzõdését, amelynek értelmében az ING Baring Rt. az ING Bank Rt.-be a vonatkozó jogszabályok megtartásával<ujsor/>
+<mezo id = "szoveg">2002. mÃ¡rcius 27-Ã©n az ING Bank (MagyarorszÃ¡g) Rt. (tovÃ¡bbiakban: ING Bank Rt.) Ã©s az ING Baring Ã‰rtÃ©kpapÃ­r (MagyarorszÃ¡g) Rt. (tovÃ¡bbiakban: ING Baring Rt.) alapÃ­tÃ³ja (ING Bank N.V.; Strawinskylaan 26 31 ZZ Amsterdam, Hollandia) jÃ³vÃ¡hagyta az ING Bank Rt. Ã©s az ING Baring Rt. egyesÃ¼lÃ©si szerzÅ‘dÃ©sÃ©t, amelynek Ã©rtelmÃ©ben az ING Baring Rt. az ING Bank Rt.-be a vonatkozÃ³ jogszabÃ¡lyok megtartÃ¡sÃ¡val<ujsor/>
 beolvad,<ujsor/>
-és ezáltal az ING Baring Rt. teljes vagyona az ING Bank Rt. mint általános jogutód tulajdonává válik.<ujsor/>
-A beolvadó társaság neve: ING Baring Értékpapír (Magyarország) Rt.<ujsor/>
-A beolvadó társaság formája: részvénytársaság.<ujsor/>
-Székhelye: 1061 Budapest, Andrássy út 9.<ujsor/>
-Cégjegyzékszáma: [01 10 042561].<ujsor/>
-A beolvadó társaság tulajdonosa: ING Bank N.V.<ujsor/>
-Az átvevõ társaság neve: ING Bank (Magyarország) Rt.<ujsor/>
-Az átvevõ társaság formája: részvénytársaság.<ujsor/>
-Székhelye: 1061 Budapest, Andrássy út 9.<ujsor/>
-Cégjegyzékszáma: [01 10 041684].<ujsor/>
-Az átvevõ társaság tulajdonosa: ING Bank N.V.<ujsor/>
-Az egyesült társaság neve: ING Bank (Magyarország) Részvénytársaság.<ujsor/>
-Székhelye: 1061 Budapest, Andrássy út 9.<ujsor/>
-Cégjegyzékszáma: [01 10 041684].<ujsor/>
-Az egyesült társaság tulajdonosa: ING Bank N.V.<ujsor/>
-A beolvadó, az átvevõ és az egyesült társaságok vagyonmérleg-tervezetének fõbb adatai:<ujsor/>
+Ã©s ezÃ¡ltal az ING Baring Rt. teljes vagyona az ING Bank Rt. mint Ã¡ltalÃ¡nos jogutÃ³d tulajdonÃ¡vÃ¡ vÃ¡lik.<ujsor/>
+A beolvadÃ³ tÃ¡rsasÃ¡g neve: ING Baring Ã‰rtÃ©kpapÃ­r (MagyarorszÃ¡g) Rt.<ujsor/>
+A beolvadÃ³ tÃ¡rsasÃ¡g formÃ¡ja: rÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 1061 Budapest, AndrÃ¡ssy Ãºt 9.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡ma: [01 10 042561].<ujsor/>
+A beolvadÃ³ tÃ¡rsasÃ¡g tulajdonosa: ING Bank N.V.<ujsor/>
+Az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g neve: ING Bank (MagyarorszÃ¡g) Rt.<ujsor/>
+Az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g formÃ¡ja: rÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 1061 Budapest, AndrÃ¡ssy Ãºt 9.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡ma: [01 10 041684].<ujsor/>
+Az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g tulajdonosa: ING Bank N.V.<ujsor/>
+Az egyesÃ¼lt tÃ¡rsasÃ¡g neve: ING Bank (MagyarorszÃ¡g) RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 1061 Budapest, AndrÃ¡ssy Ãºt 9.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡ma: [01 10 041684].<ujsor/>
+Az egyesÃ¼lt tÃ¡rsasÃ¡g tulajdonosa: ING Bank N.V.<ujsor/>
+A beolvadÃ³, az Ã¡tvevÅ‘ Ã©s az egyesÃ¼lt tÃ¡rsasÃ¡gok vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai:<ujsor/>
    Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK ING Baring Rt. ING Bank Rt. Egyesült cég<ujsor/>
-Pénzeszközök 453 304 23 661 224 23 661 224<ujsor/>
-Értékpapírok 11 447 676 26 585 305 38 032 981<ujsor/>
-Követelések 10 544 731 130 549 485 136 750 819<ujsor/>
-Befektetett pénzügyi eszközök 2 729 124 8 701 237 11 390 320<ujsor/>
-Immateriális javak és tárgyi eszközök 40 776 338 380 379 156<ujsor/>
-Aktív idõbeli elhatárolások 635 416 1 845 240 2 446 456<ujsor/>
-ÖSSZESEN: 25 851 027 191 680 871 212 660 956<ujsor/>
+ESZKÃ–ZÃ–K ING Baring Rt. ING Bank Rt. EgyesÃ¼lt cÃ©g<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 453 304 23 661 224 23 661 224<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 11 447 676 26 585 305 38 032 981<ujsor/>
+KÃ¶vetelÃ©sek 10 544 731 130 549 485 136 750 819<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 2 729 124 8 701 237 11 390 320<ujsor/>
+ImmateriÃ¡lis javak Ã©s tÃ¡rgyi eszkÃ¶zÃ¶k 40 776 338 380 379 156<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 635 416 1 845 240 2 446 456<ujsor/>
+Ã–SSZESEN: 25 851 027 191 680 871 212 660 956<ujsor/>
    Adatok E Ft-ban<ujsor/>
-FORRÁSOK ING Baring Rt. ING Bank Rt. Egyesült cég<ujsor/>
-Kötelezettségek 22 673 518 160 833 267 178 670 043<ujsor/>
-Céltartalékok 0 2 859 897 2 859 897<ujsor/>
-Passzív idõbeli elhatárolások 184 552 1 419 220 1 569 572<ujsor/>
-Alárendelt kölcsöntõke 0 4 908 129 4 908 129<ujsor/>
-Összes részvényesi vagyon 2 992 957 21 660 358 24 653 315<ujsor/>
-ÖSSZESEN: 25 851 027 191 680 871 212 660 956<ujsor/>
-Az egyesülõ társaságok egyesülés elõtti vagyona:<ujsor/>
-Az ING Bank Rt., mint átvevõ társaság vagyona:<ujsor/>
-mérleg-fõösszege: 191 680 871 E Ft,<ujsor/>
-saját tõkéje: 21 660 358 E Ft, ebbõl a jegyzett tõke értéke: 15 758 700 E Ft,<ujsor/>
-pénzbeli betét: 15 758 700 E Ft.<ujsor/>
-Az ING Baring Rt., mint beolvadó társaság vagyona:<ujsor/>
-mérleg-fõösszege: 25 851 027 E Ft,<ujsor/>
-saját tõkéje: 2 992 957 E Ft, ebbõl a jegyzett tõke értéke: 1 096 200 E Ft,<ujsor/>
-pénzbeli betét: 1 096 200 E Ft.<ujsor/>
-Az egyesült társaság egyesülés utáni tervezett vagyona:<ujsor/>
-Az ING Baring Rt. és az ING Bank Rt. vagyonának összevont adatai alapján az egyesült társaság tervezett mérleg-fõösszege: 212 660 956 E Ft,<ujsor/>
-saját tõkéje: 24 653 315 E Ft,<ujsor/>
-jegyzett tõkéje: 18 588 600 E Ft,<ujsor/>
-alaptõkéjébõl pénzbeli betét: 18 588 600 E Ft.<ujsor/>
-Az egyesült társaság jegyzett tõkéjének tervezett összege tartalmazza az ING Baring Rt. 1 733 700 E Ft 2001. december 31-i eredménytartalékának összegét is.<ujsor/>
-Az egyesült társaság részvényei: az egyesült társaság alaptõkéjét 185 886 db (egyszáznyolcvanötezer-nyolcszáznyolcvanhat darab), egyenként 100 000 Ft (egyszázezer forint) névértékû, névre szóló törzsrészvény.<ujsor/>
-Az egyesült társaság tevékenysége: 6512 Egyéb monetáris tevékenység; 6521 Pénzügyi lízing; 6523 Máshova nem sorolt egyéb pénzügyi tevékenység; 6712 Értékpapírügynöki tevékenység; 6713 Egyéb pénzügyi kiegészítõ tevékenység; 6720 Biztosítást kiegészítõ tevékenység.<ujsor/>
-Az egyesült társaság vezetõ tisztségviselõi:<ujsor/>
-Igazgatósági tagjai: Pieter de Haes (1125 Budapest, Lóránt u. 11), dr. Bordás György (1037 Budapest, Máramaros u. 14.), Maarten de Jong (1125 Budapest, Diana u. 20.), Kent Holt (1022 Budapest, Bogár u. 26/B), Jerry Wouterson (1065 Budapest, Hajós u. 13-15.), Major János (1067 Budapest, Zichy Jenõ u. 37.).<ujsor/>
-A felügyelõbizottság tagjai: Piet van Zanten (Hendriklaan 4., NL-3743 DL Baarn, Hollandia), Bert van Meteren (Zeemannhof 4., NL-2871 JX Schoonhoven, Hollandia), dr. Berencsi Tamás (1025 Budapest, Szikla u. 27/A).<ujsor/>
-Az egyesült társaság alapító okirata aláírásának idõpontja: 2002. március 27.<ujsor/>
-Tájékoztatjuk hitelezõinket, hogy az egyesülés a beolvadó gazdasági társasággal szemben fennálló követeléseiket nem teszi lejárttá. Azok a hitelezõk, akiknek a beolvadó gazdasági társasággal szemben fennálló, le nem járt követelései a beolvadásról hozott döntés elsõ közzétételét megelõzõen keletkeztek, követeléseik erejéig a beolvadó gazdasági társaságtól a döntés második közzétételét követõ harmincnapos jogvesztõ határidõn belül biztosítékot követelhetnek.<ujsor/>
-(Második közzététel.)<ujsor/>
+FORRÃSOK ING Baring Rt. ING Bank Rt. EgyesÃ¼lt cÃ©g<ujsor/>
+KÃ¶telezettsÃ©gek 22 673 518 160 833 267 178 670 043<ujsor/>
+CÃ©ltartalÃ©kok 0 2 859 897 2 859 897<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 184 552 1 419 220 1 569 572<ujsor/>
+AlÃ¡rendelt kÃ¶lcsÃ¶ntÅ‘ke 0 4 908 129 4 908 129<ujsor/>
+Ã–sszes rÃ©szvÃ©nyesi vagyon 2 992 957 21 660 358 24 653 315<ujsor/>
+Ã–SSZESEN: 25 851 027 191 680 871 212 660 956<ujsor/>
+Az egyesÃ¼lÅ‘ tÃ¡rsasÃ¡gok egyesÃ¼lÃ©s elÅ‘tti vagyona:<ujsor/>
+Az ING Bank Rt., mint Ã¡tvevÅ‘ tÃ¡rsasÃ¡g vagyona:<ujsor/>
+mÃ©rleg-fÅ‘Ã¶sszege: 191 680 871 E Ft,<ujsor/>
+sajÃ¡t tÅ‘kÃ©je: 21 660 358 E Ft, ebbÅ‘l a jegyzett tÅ‘ke Ã©rtÃ©ke: 15 758 700 E Ft,<ujsor/>
+pÃ©nzbeli betÃ©t: 15 758 700 E Ft.<ujsor/>
+Az ING Baring Rt., mint beolvadÃ³ tÃ¡rsasÃ¡g vagyona:<ujsor/>
+mÃ©rleg-fÅ‘Ã¶sszege: 25 851 027 E Ft,<ujsor/>
+sajÃ¡t tÅ‘kÃ©je: 2 992 957 E Ft, ebbÅ‘l a jegyzett tÅ‘ke Ã©rtÃ©ke: 1 096 200 E Ft,<ujsor/>
+pÃ©nzbeli betÃ©t: 1 096 200 E Ft.<ujsor/>
+Az egyesÃ¼lt tÃ¡rsasÃ¡g egyesÃ¼lÃ©s utÃ¡ni tervezett vagyona:<ujsor/>
+Az ING Baring Rt. Ã©s az ING Bank Rt. vagyonÃ¡nak Ã¶sszevont adatai alapjÃ¡n az egyesÃ¼lt tÃ¡rsasÃ¡g tervezett mÃ©rleg-fÅ‘Ã¶sszege: 212 660 956 E Ft,<ujsor/>
+sajÃ¡t tÅ‘kÃ©je: 24 653 315 E Ft,<ujsor/>
+jegyzett tÅ‘kÃ©je: 18 588 600 E Ft,<ujsor/>
+alaptÅ‘kÃ©jÃ©bÅ‘l pÃ©nzbeli betÃ©t: 18 588 600 E Ft.<ujsor/>
+Az egyesÃ¼lt tÃ¡rsasÃ¡g jegyzett tÅ‘kÃ©jÃ©nek tervezett Ã¶sszege tartalmazza az ING Baring Rt. 1 733 700 E Ft 2001. december 31-i eredmÃ©nytartalÃ©kÃ¡nak Ã¶sszegÃ©t is.<ujsor/>
+Az egyesÃ¼lt tÃ¡rsasÃ¡g rÃ©szvÃ©nyei: az egyesÃ¼lt tÃ¡rsasÃ¡g alaptÅ‘kÃ©jÃ©t 185 886 db (egyszÃ¡znyolcvanÃ¶tezer-nyolcszÃ¡znyolcvanhat darab), egyenkÃ©nt 100 000 Ft (egyszÃ¡zezer forint) nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+Az egyesÃ¼lt tÃ¡rsasÃ¡g tevÃ©kenysÃ©ge: 6512 EgyÃ©b monetÃ¡ris tevÃ©kenysÃ©g; 6521 PÃ©nzÃ¼gyi lÃ­zing; 6523 MÃ¡shova nem sorolt egyÃ©b pÃ©nzÃ¼gyi tevÃ©kenysÃ©g; 6712 Ã‰rtÃ©kpapÃ­rÃ¼gynÃ¶ki tevÃ©kenysÃ©g; 6713 EgyÃ©b pÃ©nzÃ¼gyi kiegÃ©szÃ­tÅ‘ tevÃ©kenysÃ©g; 6720 BiztosÃ­tÃ¡st kiegÃ©szÃ­tÅ‘ tevÃ©kenysÃ©g.<ujsor/>
+Az egyesÃ¼lt tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘i:<ujsor/>
+IgazgatÃ³sÃ¡gi tagjai: Pieter de Haes (1125 Budapest, LÃ³rÃ¡nt u. 11), dr. BordÃ¡s GyÃ¶rgy (1037 Budapest, MÃ¡ramaros u. 14.), Maarten de Jong (1125 Budapest, Diana u. 20.), Kent Holt (1022 Budapest, BogÃ¡r u. 26/B), Jerry Wouterson (1065 Budapest, HajÃ³s u. 13-15.), Major JÃ¡nos (1067 Budapest, Zichy JenÅ‘ u. 37.).<ujsor/>
+A felÃ¼gyelÅ‘bizottsÃ¡g tagjai: Piet van Zanten (Hendriklaan 4., NL-3743 DL Baarn, Hollandia), Bert van Meteren (Zeemannhof 4., NL-2871 JX Schoonhoven, Hollandia), dr. Berencsi TamÃ¡s (1025 Budapest, Szikla u. 27/A).<ujsor/>
+Az egyesÃ¼lt tÃ¡rsasÃ¡g alapÃ­tÃ³ okirata alÃ¡Ã­rÃ¡sÃ¡nak idÅ‘pontja: 2002. mÃ¡rcius 27.<ujsor/>
+TÃ¡jÃ©koztatjuk hitelezÅ‘inket, hogy az egyesÃ¼lÃ©s a beolvadÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³ kÃ¶vetelÃ©seiket nem teszi lejÃ¡rttÃ¡. Azok a hitelezÅ‘k, akiknek a beolvadÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei a beolvadÃ¡srÃ³l hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig a beolvadÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gtÃ³l a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110041684</mezo>
-<mezo id = "nev">ING Bank /Magyarország/ Rt.</mezo>
+<mezo id = "nev">ING Bank /MagyarorszÃ¡g/ Rt.</mezo>
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2001. 11. 28-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. Kend Douglas Holt (an: Francis Cover) igazgatósági tag<ujsor/>
-1022 Budapest, Bogár u. 26/b.<ujsor/>
- Törölve: 2001. 10. 09-i hatállyal.<ujsor/>
- Kent Douglas Holt (an: Francis Cover) igazgatósági tag<ujsor/>
-1022 Budapest, Bogár u. 26/b.<ujsor/>
- Hatályos: 2001. 10. 09-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2001. 11. 28-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. Kend Douglas Holt (an: Francis Cover) igazgatÃ³sÃ¡gi tag<ujsor/>
+1022 Budapest, BogÃ¡r u. 26/b.<ujsor/>
+ TÃ¶rÃ¶lve: 2001. 10. 09-i hatÃ¡llyal.<ujsor/>
+ Kent Douglas Holt (an: Francis Cover) igazgatÃ³sÃ¡gi tag<ujsor/>
+1022 Budapest, BogÃ¡r u. 26/b.<ujsor/>
+ HatÃ¡lyos: 2001. 10. 09-tÅ‘l.<ujsor/>
 Bejegyezve: 2003. 03. 25.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110041684</mezo>
-<mezo id = "nev">ING Bank /Magyarország/ Rt.</mezo>
-<mezo id = "cim">1061 Budapest, Andrássy út 9.</mezo>
+<mezo id = "nev">ING Bank /MagyarorszÃ¡g/ Rt.</mezo>
+<mezo id = "cim">1061 Budapest, AndrÃ¡ssy Ãºt 9.</mezo>
 <mezo id = "adosz">10613751244</mezo>
 </alrovat>
 <alrovat id = "11">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2000. 03. 14-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-15. Dr. Berencsi Tamás (an: Fodor Erzsébet)<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2000. 03. 14-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+15. Dr. Berencsi TamÃ¡s (an: Fodor ErzsÃ©bet)<ujsor/>
 1025 Budapest, Szikla u. 27/a.<ujsor/>
- Törölve: 2000. 03. 09-i hatállyal.<ujsor/>
+ TÃ¶rÃ¶lve: 2000. 03. 09-i hatÃ¡llyal.<ujsor/>
  Piet van Zanten (an: Gijsberte Guillelmine Verwoert)<ujsor/>
-Külföldi cím: NL 3743 DL Baarn, Hertog Hendriklaan 4.<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: NL 3743 DL Baarn, Hertog Hendriklaan 4.<ujsor/>
  Albert van Meteren (an: Antje Kussendrager)<ujsor/>
-Külföldi cím: NL 2871 JX Schoonhoven, Zeemanhof 4.<ujsor/>
- Kézbesítési megbízott: ING Bank Rt.<ujsor/>
-1061 Budapest, Andrássy út 9.<ujsor/>
- Törölve: 2001. 10. 09-i hatállyal.<ujsor/>
- Dr. Berencsi Tamás (an: Fodor Erzsébet)<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: NL 2871 JX Schoonhoven, Zeemanhof 4.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott: ING Bank Rt.<ujsor/>
+1061 Budapest, AndrÃ¡ssy Ãºt 9.<ujsor/>
+ TÃ¶rÃ¶lve: 2001. 10. 09-i hatÃ¡llyal.<ujsor/>
+ Dr. Berencsi TamÃ¡s (an: Fodor ErzsÃ©bet)<ujsor/>
 1025 Budapest, Szikla u. 27/a.<ujsor/>
  Piet van Zanten (an: Gijsberte Guillelmine Verwoert)<ujsor/>
-Külföldi cím: NL 3743 DL Baarn, Hertog Hendriklaan 4.<ujsor/>
- Kézbesítési megbízott szervezet: ING Bank Rt.<ujsor/>
-1061 Budapest, Andrássy út 9.<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: NL 3743 DL Baarn, Hertog Hendriklaan 4.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott szervezet: ING Bank Rt.<ujsor/>
+1061 Budapest, AndrÃ¡ssy Ãºt 9.<ujsor/>
  Albert van Meteren (an: Antje Kussendrager)<ujsor/>
-Külföldi cím: NL 2871 JX Schoonhoven, Zeemanhof 4.<ujsor/>
- Kézbesítési megbízott szervezet: ING Bank Rt.<ujsor/>
-1061 Budapest, Andrássy út 9.<ujsor/>
- Hatályos: 2001. 08. 13-tól.<ujsor/>
+KÃ¼lfÃ¶ldi cÃ­m: NL 2871 JX Schoonhoven, Zeemanhof 4.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott szervezet: ING Bank Rt.<ujsor/>
+1061 Budapest, AndrÃ¡ssy Ãºt 9.<ujsor/>
+ HatÃ¡lyos: 2001. 08. 13-tÃ³l.<ujsor/>
 Bejegyezve: 2004. 06. 24.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110041684</mezo>
-<mezo id = "nev">ING Bank /Magyarország/ Rt.</mezo>
-<mezo id = "cim">1068 Budapest, Dózsa György út 84. b. ép.</mezo>
+<mezo id = "nev">ING Bank /MagyarorszÃ¡g/ Rt.</mezo>
+<mezo id = "cim">1068 Budapest, DÃ³zsa GyÃ¶rgy Ãºt 84. b. Ã©p.</mezo>
 <mezo id = "adosz">10613751244</mezo>
 </alrovat>
 <alrovat id = "12">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2004. 06. 24-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. A képviselet módja: együttes.<ujsor/>
- Tisztsége: más munkavállaló.<ujsor/>
- Pál Tamás (an: Háda Margit)<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2004. 06. 24-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: mÃ¡s munkavÃ¡llalÃ³.<ujsor/>
+ PÃ¡l TamÃ¡s (an: HÃ¡da Margit)<ujsor/>
 1032 Budapest, San Marco u. 36.<ujsor/>
  A jogviszony kezdete: 2001. 10. 09.<ujsor/>
- Törölve: 2004. 05. 24-i hatállyal.<ujsor/>
-1(10). A társaság irányítását biztosító befolyásolás fajtája: közvetlen irányítást biztosító befolyás.<ujsor/>
- Kézbesítési megbízott szervezet: [01 09 467025] ING DUNA Szolgáltató Kft.<ujsor/>
-1068 Budapest, Dózsa Gy. út 84/b.<ujsor/>
+ TÃ¶rÃ¶lve: 2004. 05. 24-i hatÃ¡llyal.<ujsor/>
+1(10). A tÃ¡rsasÃ¡g irÃ¡nyÃ­tÃ¡sÃ¡t biztosÃ­tÃ³ befolyÃ¡solÃ¡s fajtÃ¡ja: kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡s.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott szervezet: [01 09 467025] ING DUNA SzolgÃ¡ltatÃ³ Kft.<ujsor/>
+1068 Budapest, DÃ³zsa Gy. Ãºt 84/b.<ujsor/>
  ING Bank N. V.<ujsor/>
 NL 1081 Amsterdam, Amstelveenseweg 500.<ujsor/>
- Törölve: 2004. 05. 24-i hatállyal.<ujsor/>
- A társaság irányítását biztosító befolyásolás fajtája: közvetlen irányítást biztosító befolyás.<ujsor/>
- Kézbesítési megbízott szervezet: [01 10 041684] ING Bank Rt.<ujsor/>
-1068 Budapest, Dózsa Gy. út 84/b.<ujsor/>
+ TÃ¶rÃ¶lve: 2004. 05. 24-i hatÃ¡llyal.<ujsor/>
+ A tÃ¡rsasÃ¡g irÃ¡nyÃ­tÃ¡sÃ¡t biztosÃ­tÃ³ befolyÃ¡solÃ¡s fajtÃ¡ja: kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡s.<ujsor/>
+ KÃ©zbesÃ­tÃ©si megbÃ­zott szervezet: [01 10 041684] ING Bank Rt.<ujsor/>
+1068 Budapest, DÃ³zsa Gy. Ãºt 84/b.<ujsor/>
  ING Bank N. V.<ujsor/>
 NL 1081 Amsterdam, Amstelveenseweg 500.<ujsor/>
- Hatályos: 2004. 05. 24-tõl.<ujsor/>
+ HatÃ¡lyos: 2004. 05. 24-tÅ‘l.<ujsor/>
 Bejegyezve: 2004. 07. 12.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110041684</mezo>
-<mezo id = "nev">ING Bank /Magyarország/ Rt.</mezo>
-<mezo id = "cim">1068 Budapest, Dózsa György út 84. b. ép.</mezo>
+<mezo id = "nev">ING Bank /MagyarorszÃ¡g/ Rt.</mezo>
+<mezo id = "cim">1068 Budapest, DÃ³zsa GyÃ¶rgy Ãºt 84. b. Ã©p.</mezo>
 <mezo id = "adosz">10613751244</mezo>
 </alrovat>
 <alrovat id = "13">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az ING Bank Zártkörûen Mûködõ Részvénytársaság (Cg.: [01 10 041684]; székhely: 1068 Budapest, Dózsa György út 84/B); a továbbiakban: ING Bank Zrt.), mint egyesüléssel érintett társaság, a tõkeegyesítõ társaságok határokon átnyúló egyesülésérõl szóló 2007. évi CXL. törvény 2. §-a alapján alkalmazandó a Gazdasági társaságokról szóló 2006. évi IV. törvény (a továbbiakban: „Gt.”) 75. § (2) és 79. § (5) bekezdése szerint az egyesülés valamennyi társaságnál megtörtént végleges elhatározásával, a többi egyesülni kívánó társaság kijelölése alapján közzéteszi, hogy az ING RÜK Korlátolt Felelõsségû Társasággal (Cg.: [01 09 714902]; székhely: 1068 Budapest, Dózsa György út 84/B; a továbbiakban:ING RÜK Kft.), az ING Duna Korlátolt Felelõsségû Társasággal (Cg.: [01 09 467025]; székhely: 1068 Budapest, Dózsa György út 84/B; a továbbiakban ING Duna Kft.) együttesen, mint beolvadó társaságok egyesülnek az ING Bank N.V. Hollandiában bejegyzett részvénytársasággal (cégjegyzékszám: [33031431]; székhely: NL­1081 KL Amsterdam, Amstelveenseweg 500., Postbus 810 1000 AV; a továbbiakban: ING Bank N.V.) a tõkeegyesítõ társaságok határokon átnyúló egyesülésérõl szóló 2007. évi CXL. törvény rendelkezéseinek megfelelõen oly módon, hogy az ING Bank Zrt., az ING RÜK Kft. és az ING Duna Kft. beolvadnak az ING Bank N.V.-be (az egyesülés módja: beolvadás).<ujsor/>
-Az ING Bank Zrt., az ING RÜK Kft. és az ING Duna Kft. a Gt. 81. § (1) bekezdése alapján megszûnnek és vagyonuk teljes egészében az ING Bank N.V.-re száll át, amelynek társasági formája (naamloze vennootschap) változatlan marad.<ujsor/>
-Az átalakulás napja: 2008. szeptember 30., ami a 2006. évi V. törvény 57. § (2) bekezdése szerinti feltételeknek megfelelõen az egyesüléshez fûzõdõ joghatások beálltának idõpontja.<ujsor/>
-Az egyesülõ társaságok adatai:<ujsor/>
-Az átvevõ társaság (jogutód)<ujsor/>
-1. ING Bank N.V., Hollandia joga szerint létrejött, a Kamer van Koophandel Amsterdam (De Ruyterkade 5 ­ 1013 AA Amsterdam ­ Hollandia) által 33031431 cégjegyzékszámon nyilvántartott korlátolt felelõsségû társaság, amelynek székhelye NL­1081 KL Amsterdam, Amstelveenseweg 500, Hollandia, mint átvevõ társaság;<ujsor/>
-A beolvadó társaságok<ujsor/>
-2. ING Bank Zártkörûen Mûködõ Részvénytársaság, Magyarország joga szerint létrejött, a Fõvárosi Bíróság mint Cégbíróság (1051 Budapest, Nádor u. 28.) által 01 10 041684 cégjegyzékszámon nyilvántartott zártkörûen mûködõ részvénytársaság, amelynek székhelye és üzleti címe 1068 Budapest, Dózsa György út 84/B, mint beolvadó társaság;<ujsor/>
-3. ING Regionális Ügyviteli Központ Korlátolt Felelõsségû Társaság, Magyarország joga szerint létrejött, a Fõvárosi Bíróság mint Cégbíróság (1051 Budapest, Nádor u. 28.) által 01 09 714902 cégjegyzékszámon nyilvántartott korlátolt felelõsségû társaság, amelynek székhelye és üzleti címe 1068 Budapest, Dózsa György út 84/B, mint beolvadó társaság;<ujsor/>
-4. ING Duna Szolgáltató Korlátolt Felelõsségû Társaság, Magyarország joga szerint létrejött, a Fõvárosi Bíróság mint Cégbíróság (1051 Budapest, Nádor u. 28.) által 01 09 467025 cégjegyzékszámon nyilvántartott korlátolt felelõsségû társaság, amelynek székhelye és üzleti címe: 1068 Budapest, Dózsa György út 84/B, mint beolvadó társaság.<ujsor/>
-A jogutód gazdasági társaság adatai:<ujsor/>
+<mezo id = "szoveg">Az ING Bank ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 041684]; szÃ©khely: 1068 Budapest, DÃ³zsa GyÃ¶rgy Ãºt 84/B); a tovÃ¡bbiakban: ING Bank Zrt.), mint egyesÃ¼lÃ©ssel Ã©rintett tÃ¡rsasÃ¡g, a tÅ‘keegyesÃ­tÅ‘ tÃ¡rsasÃ¡gok hatÃ¡rokon Ã¡tnyÃºlÃ³ egyesÃ¼lÃ©sÃ©rÅ‘l szÃ³lÃ³ 2007. Ã©vi CXL. tÃ¶rvÃ©ny 2. Â§-a alapjÃ¡n alkalmazandÃ³ a GazdasÃ¡gi tÃ¡rsasÃ¡gokrÃ³l szÃ³lÃ³ 2006. Ã©vi IV. tÃ¶rvÃ©ny (a tovÃ¡bbiakban: â€Gt.â€) 75. Â§ (2) Ã©s 79. Â§ (5) bekezdÃ©se szerint az egyesÃ¼lÃ©s valamennyi tÃ¡rsasÃ¡gnÃ¡l megtÃ¶rtÃ©nt vÃ©gleges elhatÃ¡rozÃ¡sÃ¡val, a tÃ¶bbi egyesÃ¼lni kÃ­vÃ¡nÃ³ tÃ¡rsasÃ¡g kijelÃ¶lÃ©se alapjÃ¡n kÃ¶zzÃ©teszi, hogy az ING RÃœK KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡ggal (Cg.: [01 09 714902]; szÃ©khely: 1068 Budapest, DÃ³zsa GyÃ¶rgy Ãºt 84/B; a tovÃ¡bbiakban:ING RÃœK Kft.), az ING Duna KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡ggal (Cg.: [01 09 467025]; szÃ©khely: 1068 Budapest, DÃ³zsa GyÃ¶rgy Ãºt 84/B; a tovÃ¡bbiakban ING Duna Kft.) egyÃ¼ttesen, mint beolvadÃ³ tÃ¡rsasÃ¡gok egyesÃ¼lnek az ING Bank N.V. HollandiÃ¡ban bejegyzett rÃ©szvÃ©nytÃ¡rsasÃ¡ggal (cÃ©gjegyzÃ©kszÃ¡m: [33031431]; szÃ©khely: NLÂ­1081 KL Amsterdam, Amstelveenseweg 500., Postbus 810 1000 AV; a tovÃ¡bbiakban: ING Bank N.V.) a tÅ‘keegyesÃ­tÅ‘ tÃ¡rsasÃ¡gok hatÃ¡rokon Ã¡tnyÃºlÃ³ egyesÃ¼lÃ©sÃ©rÅ‘l szÃ³lÃ³ 2007. Ã©vi CXL. tÃ¶rvÃ©ny rendelkezÃ©seinek megfelelÅ‘en oly mÃ³don, hogy az ING Bank Zrt., az ING RÃœK Kft. Ã©s az ING Duna Kft. beolvadnak az ING Bank N.V.-be (az egyesÃ¼lÃ©s mÃ³dja: beolvadÃ¡s).<ujsor/>
+Az ING Bank Zrt., az ING RÃœK Kft. Ã©s az ING Duna Kft. a Gt. 81. Â§ (1) bekezdÃ©se alapjÃ¡n megszÅ±nnek Ã©s vagyonuk teljes egÃ©szÃ©ben az ING Bank N.V.-re szÃ¡ll Ã¡t, amelynek tÃ¡rsasÃ¡gi formÃ¡ja (naamloze vennootschap) vÃ¡ltozatlan marad.<ujsor/>
+Az Ã¡talakulÃ¡s napja: 2008. szeptember 30., ami a 2006. Ã©vi V. tÃ¶rvÃ©ny 57. Â§ (2) bekezdÃ©se szerinti feltÃ©teleknek megfelelÅ‘en az egyesÃ¼lÃ©shez fÅ±zÅ‘dÅ‘ joghatÃ¡sok beÃ¡lltÃ¡nak idÅ‘pontja.<ujsor/>
+Az egyesÃ¼lÅ‘ tÃ¡rsasÃ¡gok adatai:<ujsor/>
+Az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g (jogutÃ³d)<ujsor/>
+1. ING Bank N.V., Hollandia joga szerint lÃ©trejÃ¶tt, a Kamer van Koophandel Amsterdam (De Ruyterkade 5 Â­ 1013 AA Amsterdam Â­ Hollandia) Ã¡ltal 33031431 cÃ©gjegyzÃ©kszÃ¡mon nyilvÃ¡ntartott korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g, amelynek szÃ©khelye NLÂ­1081 KL Amsterdam, Amstelveenseweg 500, Hollandia, mint Ã¡tvevÅ‘ tÃ¡rsasÃ¡g;<ujsor/>
+A beolvadÃ³ tÃ¡rsasÃ¡gok<ujsor/>
+2. ING Bank ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g, MagyarorszÃ¡g joga szerint lÃ©trejÃ¶tt, a FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g (1051 Budapest, NÃ¡dor u. 28.) Ã¡ltal 01 10 041684 cÃ©gjegyzÃ©kszÃ¡mon nyilvÃ¡ntartott zÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ rÃ©szvÃ©nytÃ¡rsasÃ¡g, amelynek szÃ©khelye Ã©s Ã¼zleti cÃ­me 1068 Budapest, DÃ³zsa GyÃ¶rgy Ãºt 84/B, mint beolvadÃ³ tÃ¡rsasÃ¡g;<ujsor/>
+3. ING RegionÃ¡lis Ãœgyviteli KÃ¶zpont KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g, MagyarorszÃ¡g joga szerint lÃ©trejÃ¶tt, a FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g (1051 Budapest, NÃ¡dor u. 28.) Ã¡ltal 01 09 714902 cÃ©gjegyzÃ©kszÃ¡mon nyilvÃ¡ntartott korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g, amelynek szÃ©khelye Ã©s Ã¼zleti cÃ­me 1068 Budapest, DÃ³zsa GyÃ¶rgy Ãºt 84/B, mint beolvadÃ³ tÃ¡rsasÃ¡g;<ujsor/>
+4. ING Duna SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g, MagyarorszÃ¡g joga szerint lÃ©trejÃ¶tt, a FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g (1051 Budapest, NÃ¡dor u. 28.) Ã¡ltal 01 09 467025 cÃ©gjegyzÃ©kszÃ¡mon nyilvÃ¡ntartott korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g, amelynek szÃ©khelye Ã©s Ã¼zleti cÃ­me: 1068 Budapest, DÃ³zsa GyÃ¶rgy Ãºt 84/B, mint beolvadÃ³ tÃ¡rsasÃ¡g.<ujsor/>
+A jogutÃ³d gazdasÃ¡gi tÃ¡rsasÃ¡g adatai:<ujsor/>
 Neve: ING Bank N.V.<ujsor/>
-Székhelye: NL­1081 KL Amsterdam, Amstelveenseweg 500, Hollandia.<ujsor/>
-Cégjegyzékszám: 33031431, Kamer van Koophandel Amsterdam.<ujsor/>
-Társaság formája: naamloze vennootschap.<ujsor/>
-Az ING Bank Zrt., mint beolvadó társaság záró vagyonmérlegének legfontosabb pénzügyi adatai (2007. 12. 31.):<ujsor/>
-ESZKÖZÖK (MFt) FORRÁSOK (MFt)<ujsor/>
-1. Pénzeszközök 27 843 1. Hitelintézetekkel szembeni kötelzettségek 224 325<ujsor/>
-2. Állampapírok 201 688 2. Ügyfelekkel szembeni kötelezettségek 135 285<ujsor/>
-3. Hitelintézetekkel szembeni követelések 115 664 3. Kibocsátott értékpapírok 0<ujsor/>
-4. Ügyfelekkel szembeni követelések 76 335 4. Egyéb kötelezettségek 14 695<ujsor/>
-5. Hitelviszonyt megtestesítõ értékpapírok 0 4/A Származékos ügyletek negatív értékelési<ujsor/>
-6. Részvényekés más változó hozamú értékpapírok 0 különbözete 26 754<ujsor/>
-7. Részvények, részesedések befektetési célra 74 5. Passzív idõbeli elhatárolások 3 044<ujsor/>
-8. Részvények, részesedések kapcsolt vállalkozásban 477 6. Céltartalékok 1 400<ujsor/>
-9. Immateriális javak 171 7. Hátra sorolt kötelezettségek 4 534<ujsor/>
-10. Tárgyi eszközök 235 8. Jegyzett tõke 18 589<ujsor/>
-11. Saját részvény 10. Tõketartalék 138<ujsor/>
-12. Egyéb eszközök 547 11. Általános tartalék 1 620<ujsor/>
-12/B Származékos ügyletek pozitív értékelési 12. Eredménytartalék 22 273<ujsor/>
-különbözete 25 715 14. Értékelési tartalék 0<ujsor/>
-13. Aktív idõbeli elhatárolások 3 908 15. Mérleg szerinti eredmény 0<ujsor/>
-ÖSSZESEN: 452 657 ÖSSZESEN: 452 657<ujsor/>
-Az ING RÜK Kft., mint beolvadó társaság záró vagyonmérlegének legfontosabb pénzügyi adatai (2007. 12. 31.):<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-A) Befektetett eszközök 221 018 D) Saját tõke 598 501<ujsor/>
-I. Immateriális javak 17 235 I. Jegyzett tõke 361 090<ujsor/>
-II. Tárgyi eszközök 193 506 II. Tõketartalék 2 573 002<ujsor/>
-III. Befektetett pénzügyi eszközök 10 277 III. Eredménytartalék ­2 335 591<ujsor/>
-B) Forgóeszközök 890 218 VI. Értékelési tartalék 0<ujsor/>
-I. Készletek 0 IV. Mérleg szerinti eredmény 0<ujsor/>
-II. Követelések 111 404 E) Céltartalékok 466 120<ujsor/>
-III. Értékpapírok 0 F) Kötelezettségek 31 433<ujsor/>
-IV. Pénzeszközök 778 814 II. Hosszú lejáratú kötelezettségek 2 800<ujsor/>
-C) Aktív idõbeli elhatárolások 2 193 III. Rövid lejáratú kötelezettségek 28 633<ujsor/>
-G) Passzív idõbeli elhatárolások 17 374<ujsor/>
-ÖSSZESEN: 1 113 429 ÖSSZESEN: 1 113 429<ujsor/>
-Az ING Duna Kft. mint beolvadó társaság záró vagyonmérlegének legfontosabb pénzügyi adatai (2007. 12. 31.):<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-A) Befektetett eszközök 229 934 D) Saját tõke 476 814<ujsor/>
-I. Immateriális javak 16 786 I. Jegyzett tõke 563 000<ujsor/>
-II. Tárgyi eszközök 213 148 II. Tõketartalék 0<ujsor/>
-III. Befektetett pénzügyi eszközök 0 III. Eredménytartalék ­86 186<ujsor/>
-B) Forgóeszközök 250 662 VI. Értékelési tartalék 0<ujsor/>
-I. Készletek 0 IV. Mérleg szerinti eredmény 0<ujsor/>
-II. Követelések 45 427 E) Céltartalékok 0<ujsor/>
-III. Értékpapírok 0 F) Kötelezettségek 1 813<ujsor/>
-IV. Pénzeszközök 205 235 II. Hosszú lejáratú kötelezettségek 0<ujsor/>
-C) Aktív idõbeli elhatárolások 2 193 III. Rövid lejáratú kötelezettségek 1 813<ujsor/>
-G) Passzív idõbeli elhatárolások 2 450<ujsor/>
-ÖSSZESEN: 481 077 ÖSSZESEN: 481 077<ujsor/>
-Az ING Bank N.V., mint átvevõ társaság záró vagyonmérlegének legfontosabb pénzügyi adatai (2007. 12. 31.):<ujsor/>
-ESZKÖZÖK (millió EUR) FORRÁSOK (millió EUR)<ujsor/>
-Készpénz és mérlegek jegybankoknál 2 157 Bankok számára esedékes összegek 246 850<ujsor/>
-Rövid lejáratú kincstári papír 3 032 Ügyfél letétek és egyéb letétbe helyezett alapok 67 268<ujsor/>
-Bankoktól esedékes összegek 209 553 Kibocsátott adósságpapírok 35 391<ujsor/>
-Kölcsönök és elõlegek ügyfeleknek 122 857 Egyéb kötelezettségek 56 904<ujsor/>
-Adósságpapírok 45 138 Általános tartalékok 873<ujsor/>
-Osztalékos papírok 8 888 Alárendelt kölcsönök 19 401<ujsor/>
-Befektetés a vállalatcsoport társaságaiba 27 129 ÖSSZES KÖTELEZETTSÉG 426 687<ujsor/>
-Befektetés kapcsolt társaságokba 452 Részvénytõke 525<ujsor/>
-Immateriális eszközök 1 044 Részvényfelár 9 192<ujsor/>
-Berendezések 34 Kapcsolt vállalkozások részesedési tartalékalapja 69<ujsor/>
-Egyéb eszközök 31 914 Valuta átszámítási tartalék ­18<ujsor/>
-Egyéb tartalék 13 454<ujsor/>
-Fel nem osztott nyereség 2 289<ujsor/>
-ÖSSZES SAJÁT TÕKE 25 511<ujsor/>
-ÖSSZESEN: 452 198 ÖSSZESEN: 452 198<ujsor/>
-Az ING Bank N.V., mint jogutód nyitó vagyonmérleg-tervezetének legfontosabb pénzügyi adatai (az ING Bank N.V. konszolidált beszámolója alapján) (2007. 12. 31.):<ujsor/>
-ESZKÖZÖK (millió EUR) FORRÁSOK (millió EUR)<ujsor/>
-Készpénz és mérlegek jegybankoknál 9 829 Részvények (anyavállalat) saját tõkéje 25 511<ujsor/>
-Bankoktól esedékes összegek 48 875 Kisebbségi részesedés 1 684<ujsor/>
-Eredménnyel szemben valós értéken értékelt ÖSSZES SAJÁT TÕKE 27 195<ujsor/>
-pénzügyi eszközök 208 145 Alárendelt kölcsönök 18 786<ujsor/>
-Befektetések 160 385 Kibocsátott adósságpapírok 55 990<ujsor/>
-Kölcsönök és elõlegek ügyfeleknek 526 323 Bankok számára esedékes összegek 166 972<ujsor/>
-Befektetés kapcsolt társaságokba 2 010 Ügyfél letétek és egyéb letétbe helyezett 528 197<ujsor/>
-Ingatlan befektetések 3 527 Eredménnyel szemben valós értéken értékelt<ujsor/>
-Vagyontárgyak és berendezések 5 330 pénzügyi kötelezettségek 168 338<ujsor/>
-Inmateriális eszközök 1 883 Egyéb kötelezettségek 28 625<ujsor/>
-Egyéb eszközök 27 806 ÖSSZES KÖTELEZETTSÉG 966 918<ujsor/>
-ÖSSZESEN: 994 113 ÖSSZESEN: 994 113<ujsor/>
-A jogutód gazdasági társaság, az ING Bank N.V. további adatai:<ujsor/>
-A jogutód gazdasági társaság alapító okirata nem kerül módosításra.<ujsor/>
-A jogutód gazdasági társaság fõ tevékenysége: banki tevékenységek folytatása [az Európai Parlament és a Tanácsa 1893/2006/EK rendelete (2006. december 20.) a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról és a 3037/90/EGK tanácsi rendelet, valamint egyes meghatározott statisztikai területekre vonatkozó EK-rendeletek módosítása szerint: 64.19 Egyéb monetáris közvetítés].<ujsor/>
-A jogutód gazdasági társaság vezetõ állású tisztségviselõi:<ujsor/>
-1. M.J.G. Tilmant (lakcím: Rue du Moulin 10, 1310 La Hulpe, Belgium);<ujsor/>
-2. E.F.C.B. Boyer de la Giroday (lakcím: 9 Rue van Eyck, B­1050 Brussel, Belgium);<ujsor/>
-3. D.H. Harrijvan (lakcím: Beukenlaan 193, 2665DP Bleiswijk);<ujsor/>
-4. J.C.R. Hele (lakcím: Kievietslaan 20, 2243GD Wassenaar);<ujsor/>
-5. T.J. Mc Inerney (lakcím: Artemisstraat 58, 1076DW Amsterdam);<ujsor/>
-6. C.P.A.J. Leenaars (lakcím: Dennenlaan 2 a, 2244/AL Wassenaar);<ujsor/>
-7. H. van der Noordaa (lakcím: Paulus Potterlaan 31, 1412HW Narrden);<ujsor/>
-8. J.V. Timmermans (lakcím: Naarderstraat 308, 1272NT Huizen);<ujsor/>
-9. J.M.G.J. de Vaucleroy (lakcím: Acacialaan 4, 2243BW Wassenaar).<ujsor/>
-A jogutód gazdasági társaság részvényeinek fajtája, névértéke:<ujsor/>
-Társasági szerzõdés 4.1: <ujsor/>
-A társaság alaptõkéje egymilliárd-nyolcszáznyolcmillió euró (EUR 1 808 000 000) ­ mely az alábbiak szerint oszlik meg:<ujsor/>
-(a) egymilliárd-ötszázkilencvenkilencmillió-kilencszázkilencvenkilencezer-kilencszázötven (1 599 999 950) törzsrészvény, melyek egyenkénti nominális értéke egy euró tizenhárom cent (EUR 1,13); és<ujsor/>
-(b) ötven (50) elsõbbségi részvény, melyek egyenkénti nominális értéke egy euró tizenhárom cent (EUR 1,13), huszonhat (26) mind más betûjellel megjelölt sorozatba osztva, mely sorozatokban az A, B, D és E jelölésû mint egy (1) elsõbbségi részvénybõl áll, az F-tõl Y-ig terjedõ sorozatokban mind kettõ (2) elsõbbségi részvénybõl áll és a C és Z sorozat mind három (3) elsõbbségi részvénybõl áll, miközben minden elsõbbségi részvénysorozat egy külön részvényfajtának számít.<ujsor/>
-Cégkivonat:<ujsor/>
-Engedélyezett (társasági) tõke: EUR 1 808 000 000<ujsor/>
-Kibocsátott tõke: EUR 525 489 557,91<ujsor/>
-Befizetett tõke: EUR 525 489 557,91<ujsor/>
-Hitelezõknek szóló felhívás<ujsor/>
-A Gt. 280. § (4) bekezdése alapján az egyesüléssel érintett részvénytársaságok hitelezõi ­ a 76. § (2) bekezdésben foglalt rendelkezésnek megfelelõ alkalmazásával ­ biztosítékot igényelhetnek, ha igazolják, hogy az egyesülés veszélyezteti követeléseik kielégítésének alapját, feltéve, hogy az egyesüléssel érintett részvénytársaságok korábban nem nyújtottak számukra biztosítékot. Az átalakulás az átalakuló társasággal szemben fennálló követeléseket nem teszi lejárttá [Gt. 76. § (1) bek.]. A Gt. 76. § (2) bekezdése szerint azok a hitelezõk, akiknek az átalakuló társasággal szemben fennálló, le nem járt követelései az átalakulásról hozott döntés elsõ közzétételét megelõzõen keletkeztek, követeléseik erejéig az átalakuló gazdasági társaságtól a döntés második közzétételét követõ harmincnapos jogvesztõ határidõn belül biztosítékot követelhetnek. Ha a tag (részvényes) felelõssége az átalakuló gazdasági társaság kötelezettségeiért a társaság fennállása alatt korlátozott, a Gt. 76. § (2) bekezdésben foglalt rendelkezést csak akkor kell alkalmazni, ha a jogutód gazdasági társaság saját tõkéjének összege kevesebb, mint a jogelõd gazdasági társaságé volt az átalakulás elhatározásakor [Gt. 76. § (3) bek.].<ujsor/>
-Az egyesülésben részt vevõ társaságok tagjainak felelõssége a társaság kötelezettségeiért a társaság fennállása alatt korlátozott volt és a jogutód társaság saját tõkéjének összege nem kevesebb, mint a jogelõd gazdasági társaságoké volt az átalakulás elhatározásakor, így a Gt. 76. § (2) bekezdése az egyesülés során nem alkalmazandó. A hitelezõi jogok gyakorlásának feltételeirõl az ING Bank Zrt. székhelyén (1068 Budapest, Dózsa György út 84/B) térítésmentesen teljes körû tájékoztatás kapható.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+SzÃ©khelye: NLÂ­1081 KL Amsterdam, Amstelveenseweg 500, Hollandia.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡m: 33031431, Kamer van Koophandel Amsterdam.<ujsor/>
+TÃ¡rsasÃ¡g formÃ¡ja: naamloze vennootschap.<ujsor/>
+Az ING Bank Zrt., mint beolvadÃ³ tÃ¡rsasÃ¡g zÃ¡rÃ³ vagyonmÃ©rlegÃ©nek legfontosabb pÃ©nzÃ¼gyi adatai (2007. 12. 31.):<ujsor/>
+ESZKÃ–ZÃ–K (MFt) FORRÃSOK (MFt)<ujsor/>
+1. PÃ©nzeszkÃ¶zÃ¶k 27 843 1. HitelintÃ©zetekkel szembeni kÃ¶telzettsÃ©gek 224 325<ujsor/>
+2. ÃllampapÃ­rok 201 688 2. Ãœgyfelekkel szembeni kÃ¶telezettsÃ©gek 135 285<ujsor/>
+3. HitelintÃ©zetekkel szembeni kÃ¶vetelÃ©sek 115 664 3. KibocsÃ¡tott Ã©rtÃ©kpapÃ­rok 0<ujsor/>
+4. Ãœgyfelekkel szembeni kÃ¶vetelÃ©sek 76 335 4. EgyÃ©b kÃ¶telezettsÃ©gek 14 695<ujsor/>
+5. Hitelviszonyt megtestesÃ­tÅ‘ Ã©rtÃ©kpapÃ­rok 0 4/A SzÃ¡rmazÃ©kos Ã¼gyletek negatÃ­v Ã©rtÃ©kelÃ©si<ujsor/>
+6. RÃ©szvÃ©nyekÃ©s mÃ¡s vÃ¡ltozÃ³ hozamÃº Ã©rtÃ©kpapÃ­rok 0 kÃ¼lÃ¶nbÃ¶zete 26 754<ujsor/>
+7. RÃ©szvÃ©nyek, rÃ©szesedÃ©sek befektetÃ©si cÃ©lra 74 5. PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 3 044<ujsor/>
+8. RÃ©szvÃ©nyek, rÃ©szesedÃ©sek kapcsolt vÃ¡llalkozÃ¡sban 477 6. CÃ©ltartalÃ©kok 1 400<ujsor/>
+9. ImmateriÃ¡lis javak 171 7. HÃ¡tra sorolt kÃ¶telezettsÃ©gek 4 534<ujsor/>
+10. TÃ¡rgyi eszkÃ¶zÃ¶k 235 8. Jegyzett tÅ‘ke 18 589<ujsor/>
+11. SajÃ¡t rÃ©szvÃ©ny 10. TÅ‘ketartalÃ©k 138<ujsor/>
+12. EgyÃ©b eszkÃ¶zÃ¶k 547 11. ÃltalÃ¡nos tartalÃ©k 1 620<ujsor/>
+12/B SzÃ¡rmazÃ©kos Ã¼gyletek pozitÃ­v Ã©rtÃ©kelÃ©si 12. EredmÃ©nytartalÃ©k 22 273<ujsor/>
+kÃ¼lÃ¶nbÃ¶zete 25 715 14. Ã‰rtÃ©kelÃ©si tartalÃ©k 0<ujsor/>
+13. AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 3 908 15. MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+Ã–SSZESEN: 452 657 Ã–SSZESEN: 452 657<ujsor/>
+Az ING RÃœK Kft., mint beolvadÃ³ tÃ¡rsasÃ¡g zÃ¡rÃ³ vagyonmÃ©rlegÃ©nek legfontosabb pÃ©nzÃ¼gyi adatai (2007. 12. 31.):<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 221 018 D) SajÃ¡t tÅ‘ke 598 501<ujsor/>
+I. ImmateriÃ¡lis javak 17 235 I. Jegyzett tÅ‘ke 361 090<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 193 506 II. TÅ‘ketartalÃ©k 2 573 002<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 10 277 III. EredmÃ©nytartalÃ©k Â­2 335 591<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 890 218 VI. Ã‰rtÃ©kelÃ©si tartalÃ©k 0<ujsor/>
+I. KÃ©szletek 0 IV. MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+II. KÃ¶vetelÃ©sek 111 404 E) CÃ©ltartalÃ©kok 466 120<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 F) KÃ¶telezettsÃ©gek 31 433<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 778 814 II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 2 800<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 2 193 III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 28 633<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 17 374<ujsor/>
+Ã–SSZESEN: 1 113 429 Ã–SSZESEN: 1 113 429<ujsor/>
+Az ING Duna Kft. mint beolvadÃ³ tÃ¡rsasÃ¡g zÃ¡rÃ³ vagyonmÃ©rlegÃ©nek legfontosabb pÃ©nzÃ¼gyi adatai (2007. 12. 31.):<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 229 934 D) SajÃ¡t tÅ‘ke 476 814<ujsor/>
+I. ImmateriÃ¡lis javak 16 786 I. Jegyzett tÅ‘ke 563 000<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 213 148 II. TÅ‘ketartalÃ©k 0<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 III. EredmÃ©nytartalÃ©k Â­86 186<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 250 662 VI. Ã‰rtÃ©kelÃ©si tartalÃ©k 0<ujsor/>
+I. KÃ©szletek 0 IV. MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+II. KÃ¶vetelÃ©sek 45 427 E) CÃ©ltartalÃ©kok 0<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 F) KÃ¶telezettsÃ©gek 1 813<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 205 235 II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 2 193 III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 1 813<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 2 450<ujsor/>
+Ã–SSZESEN: 481 077 Ã–SSZESEN: 481 077<ujsor/>
+Az ING Bank N.V., mint Ã¡tvevÅ‘ tÃ¡rsasÃ¡g zÃ¡rÃ³ vagyonmÃ©rlegÃ©nek legfontosabb pÃ©nzÃ¼gyi adatai (2007. 12. 31.):<ujsor/>
+ESZKÃ–ZÃ–K (milliÃ³ EUR) FORRÃSOK (milliÃ³ EUR)<ujsor/>
+KÃ©szpÃ©nz Ã©s mÃ©rlegek jegybankoknÃ¡l 2 157 Bankok szÃ¡mÃ¡ra esedÃ©kes Ã¶sszegek 246 850<ujsor/>
+RÃ¶vid lejÃ¡ratÃº kincstÃ¡ri papÃ­r 3 032 ÃœgyfÃ©l letÃ©tek Ã©s egyÃ©b letÃ©tbe helyezett alapok 67 268<ujsor/>
+BankoktÃ³l esedÃ©kes Ã¶sszegek 209 553 KibocsÃ¡tott adÃ³ssÃ¡gpapÃ­rok 35 391<ujsor/>
+KÃ¶lcsÃ¶nÃ¶k Ã©s elÅ‘legek Ã¼gyfeleknek 122 857 EgyÃ©b kÃ¶telezettsÃ©gek 56 904<ujsor/>
+AdÃ³ssÃ¡gpapÃ­rok 45 138 ÃltalÃ¡nos tartalÃ©kok 873<ujsor/>
+OsztalÃ©kos papÃ­rok 8 888 AlÃ¡rendelt kÃ¶lcsÃ¶nÃ¶k 19 401<ujsor/>
+BefektetÃ©s a vÃ¡llalatcsoport tÃ¡rsasÃ¡gaiba 27 129 Ã–SSZES KÃ–TELEZETTSÃ‰G 426 687<ujsor/>
+BefektetÃ©s kapcsolt tÃ¡rsasÃ¡gokba 452 RÃ©szvÃ©nytÅ‘ke 525<ujsor/>
+ImmateriÃ¡lis eszkÃ¶zÃ¶k 1 044 RÃ©szvÃ©nyfelÃ¡r 9 192<ujsor/>
+BerendezÃ©sek 34 Kapcsolt vÃ¡llalkozÃ¡sok rÃ©szesedÃ©si tartalÃ©kalapja 69<ujsor/>
+EgyÃ©b eszkÃ¶zÃ¶k 31 914 Valuta Ã¡tszÃ¡mÃ­tÃ¡si tartalÃ©k Â­18<ujsor/>
+EgyÃ©b tartalÃ©k 13 454<ujsor/>
+Fel nem osztott nyeresÃ©g 2 289<ujsor/>
+Ã–SSZES SAJÃT TÅKE 25 511<ujsor/>
+Ã–SSZESEN: 452 198 Ã–SSZESEN: 452 198<ujsor/>
+Az ING Bank N.V., mint jogutÃ³d nyitÃ³ vagyonmÃ©rleg-tervezetÃ©nek legfontosabb pÃ©nzÃ¼gyi adatai (az ING Bank N.V. konszolidÃ¡lt beszÃ¡molÃ³ja alapjÃ¡n) (2007. 12. 31.):<ujsor/>
+ESZKÃ–ZÃ–K (milliÃ³ EUR) FORRÃSOK (milliÃ³ EUR)<ujsor/>
+KÃ©szpÃ©nz Ã©s mÃ©rlegek jegybankoknÃ¡l 9 829 RÃ©szvÃ©nyek (anyavÃ¡llalat) sajÃ¡t tÅ‘kÃ©je 25 511<ujsor/>
+BankoktÃ³l esedÃ©kes Ã¶sszegek 48 875 KisebbsÃ©gi rÃ©szesedÃ©s 1 684<ujsor/>
+EredmÃ©nnyel szemben valÃ³s Ã©rtÃ©ken Ã©rtÃ©kelt Ã–SSZES SAJÃT TÅKE 27 195<ujsor/>
+pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 208 145 AlÃ¡rendelt kÃ¶lcsÃ¶nÃ¶k 18 786<ujsor/>
+BefektetÃ©sek 160 385 KibocsÃ¡tott adÃ³ssÃ¡gpapÃ­rok 55 990<ujsor/>
+KÃ¶lcsÃ¶nÃ¶k Ã©s elÅ‘legek Ã¼gyfeleknek 526 323 Bankok szÃ¡mÃ¡ra esedÃ©kes Ã¶sszegek 166 972<ujsor/>
+BefektetÃ©s kapcsolt tÃ¡rsasÃ¡gokba 2 010 ÃœgyfÃ©l letÃ©tek Ã©s egyÃ©b letÃ©tbe helyezett 528 197<ujsor/>
+Ingatlan befektetÃ©sek 3 527 EredmÃ©nnyel szemben valÃ³s Ã©rtÃ©ken Ã©rtÃ©kelt<ujsor/>
+VagyontÃ¡rgyak Ã©s berendezÃ©sek 5 330 pÃ©nzÃ¼gyi kÃ¶telezettsÃ©gek 168 338<ujsor/>
+InmateriÃ¡lis eszkÃ¶zÃ¶k 1 883 EgyÃ©b kÃ¶telezettsÃ©gek 28 625<ujsor/>
+EgyÃ©b eszkÃ¶zÃ¶k 27 806 Ã–SSZES KÃ–TELEZETTSÃ‰G 966 918<ujsor/>
+Ã–SSZESEN: 994 113 Ã–SSZESEN: 994 113<ujsor/>
+A jogutÃ³d gazdasÃ¡gi tÃ¡rsasÃ¡g, az ING Bank N.V. tovÃ¡bbi adatai:<ujsor/>
+A jogutÃ³d gazdasÃ¡gi tÃ¡rsasÃ¡g alapÃ­tÃ³ okirata nem kerÃ¼l mÃ³dosÃ­tÃ¡sra.<ujsor/>
+A jogutÃ³d gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©ge: banki tevÃ©kenysÃ©gek folytatÃ¡sa [az EurÃ³pai Parlament Ã©s a TanÃ¡csa 1893/2006/EK rendelete (2006. december 20.) a gazdasÃ¡gi tevÃ©kenysÃ©gek statisztikai osztÃ¡lyozÃ¡sa NACE Rev. 2. rendszerÃ©nek lÃ©trehozÃ¡sÃ¡rÃ³l Ã©s a 3037/90/EGK tanÃ¡csi rendelet, valamint egyes meghatÃ¡rozott statisztikai terÃ¼letekre vonatkozÃ³ EK-rendeletek mÃ³dosÃ­tÃ¡sa szerint: 64.19 EgyÃ©b monetÃ¡ris kÃ¶zvetÃ­tÃ©s].<ujsor/>
+A jogutÃ³d gazdasÃ¡gi tÃ¡rsasÃ¡g vezetÅ‘ Ã¡llÃ¡sÃº tisztsÃ©gviselÅ‘i:<ujsor/>
+1. M.J.G. Tilmant (lakcÃ­m: Rue du Moulin 10, 1310 La Hulpe, Belgium);<ujsor/>
+2. E.F.C.B. Boyer de la Giroday (lakcÃ­m: 9 Rue van Eyck, BÂ­1050 Brussel, Belgium);<ujsor/>
+3. D.H. Harrijvan (lakcÃ­m: Beukenlaan 193, 2665DP Bleiswijk);<ujsor/>
+4. J.C.R. Hele (lakcÃ­m: Kievietslaan 20, 2243GD Wassenaar);<ujsor/>
+5. T.J. Mc Inerney (lakcÃ­m: Artemisstraat 58, 1076DW Amsterdam);<ujsor/>
+6. C.P.A.J. Leenaars (lakcÃ­m: Dennenlaan 2 a, 2244/AL Wassenaar);<ujsor/>
+7. H. van der Noordaa (lakcÃ­m: Paulus Potterlaan 31, 1412HW Narrden);<ujsor/>
+8. J.V. Timmermans (lakcÃ­m: Naarderstraat 308, 1272NT Huizen);<ujsor/>
+9. J.M.G.J. de Vaucleroy (lakcÃ­m: Acacialaan 4, 2243BW Wassenaar).<ujsor/>
+A jogutÃ³d gazdasÃ¡gi tÃ¡rsasÃ¡g rÃ©szvÃ©nyeinek fajtÃ¡ja, nÃ©vÃ©rtÃ©ke:<ujsor/>
+TÃ¡rsasÃ¡gi szerzÅ‘dÃ©s 4.1: <ujsor/>
+A tÃ¡rsasÃ¡g alaptÅ‘kÃ©je egymilliÃ¡rd-nyolcszÃ¡znyolcmilliÃ³ eurÃ³ (EUR 1 808 000 000) Â­ mely az alÃ¡bbiak szerint oszlik meg:<ujsor/>
+(a) egymilliÃ¡rd-Ã¶tszÃ¡zkilencvenkilencmilliÃ³-kilencszÃ¡zkilencvenkilencezer-kilencszÃ¡zÃ¶tven (1 599 999 950) tÃ¶rzsrÃ©szvÃ©ny, melyek egyenkÃ©nti nominÃ¡lis Ã©rtÃ©ke egy eurÃ³ tizenhÃ¡rom cent (EUR 1,13); Ã©s<ujsor/>
+(b) Ã¶tven (50) elsÅ‘bbsÃ©gi rÃ©szvÃ©ny, melyek egyenkÃ©nti nominÃ¡lis Ã©rtÃ©ke egy eurÃ³ tizenhÃ¡rom cent (EUR 1,13), huszonhat (26) mind mÃ¡s betÅ±jellel megjelÃ¶lt sorozatba osztva, mely sorozatokban az A, B, D Ã©s E jelÃ¶lÃ©sÅ± mint egy (1) elsÅ‘bbsÃ©gi rÃ©szvÃ©nybÅ‘l Ã¡ll, az F-tÅ‘l Y-ig terjedÅ‘ sorozatokban mind kettÅ‘ (2) elsÅ‘bbsÃ©gi rÃ©szvÃ©nybÅ‘l Ã¡ll Ã©s a C Ã©s Z sorozat mind hÃ¡rom (3) elsÅ‘bbsÃ©gi rÃ©szvÃ©nybÅ‘l Ã¡ll, mikÃ¶zben minden elsÅ‘bbsÃ©gi rÃ©szvÃ©nysorozat egy kÃ¼lÃ¶n rÃ©szvÃ©nyfajtÃ¡nak szÃ¡mÃ­t.<ujsor/>
+CÃ©gkivonat:<ujsor/>
+EngedÃ©lyezett (tÃ¡rsasÃ¡gi) tÅ‘ke: EUR 1 808 000Â 000<ujsor/>
+KibocsÃ¡tott tÅ‘ke: EUR 525 489 557,91<ujsor/>
+Befizetett tÅ‘ke: EUR 525 489 557,91<ujsor/>
+HitelezÅ‘knek szÃ³lÃ³ felhÃ­vÃ¡s<ujsor/>
+A Gt. 280. Â§ (4) bekezdÃ©se alapjÃ¡n az egyesÃ¼lÃ©ssel Ã©rintett rÃ©szvÃ©nytÃ¡rsasÃ¡gok hitelezÅ‘i Â­ a 76. Â§ (2) bekezdÃ©sben foglalt rendelkezÃ©snek megfelelÅ‘ alkalmazÃ¡sÃ¡val Â­ biztosÃ­tÃ©kot igÃ©nyelhetnek, ha igazoljÃ¡k, hogy az egyesÃ¼lÃ©s veszÃ©lyezteti kÃ¶vetelÃ©seik kielÃ©gÃ­tÃ©sÃ©nek alapjÃ¡t, feltÃ©ve, hogy az egyesÃ¼lÃ©ssel Ã©rintett rÃ©szvÃ©nytÃ¡rsasÃ¡gok korÃ¡bban nem nyÃºjtottak szÃ¡mukra biztosÃ­tÃ©kot. Az Ã¡talakulÃ¡s az Ã¡talakulÃ³ tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³ kÃ¶vetelÃ©seket nem teszi lejÃ¡rttÃ¡ [Gt. 76. Â§ (1) bek.]. A Gt. 76. Â§ (2) bekezdÃ©se szerint azok a hitelezÅ‘k, akiknek az Ã¡talakulÃ³ tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei az Ã¡talakulÃ¡srÃ³l hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gtÃ³l a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek. Ha a tag (rÃ©szvÃ©nyes) felelÅ‘ssÃ©ge az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g kÃ¶telezettsÃ©geiÃ©rt a tÃ¡rsasÃ¡g fennÃ¡llÃ¡sa alatt korlÃ¡tozott, a Gt. 76. Â§ (2) bekezdÃ©sben foglalt rendelkezÃ©st csak akkor kell alkalmazni, ha a jogutÃ³d gazdasÃ¡gi tÃ¡rsasÃ¡g sajÃ¡t tÅ‘kÃ©jÃ©nek Ã¶sszege kevesebb, mint a jogelÅ‘d gazdasÃ¡gi tÃ¡rsasÃ¡gÃ© volt az Ã¡talakulÃ¡s elhatÃ¡rozÃ¡sakor [Gt. 76. Â§ (3) bek.].<ujsor/>
+Az egyesÃ¼lÃ©sben rÃ©szt vevÅ‘ tÃ¡rsasÃ¡gok tagjainak felelÅ‘ssÃ©ge a tÃ¡rsasÃ¡g kÃ¶telezettsÃ©geiÃ©rt a tÃ¡rsasÃ¡g fennÃ¡llÃ¡sa alatt korlÃ¡tozott volt Ã©s a jogutÃ³d tÃ¡rsasÃ¡g sajÃ¡t tÅ‘kÃ©jÃ©nek Ã¶sszege nem kevesebb, mint a jogelÅ‘d gazdasÃ¡gi tÃ¡rsasÃ¡gokÃ© volt az Ã¡talakulÃ¡s elhatÃ¡rozÃ¡sakor, Ã­gy a Gt. 76. Â§ (2) bekezdÃ©se az egyesÃ¼lÃ©s sorÃ¡n nem alkalmazandÃ³. A hitelezÅ‘i jogok gyakorlÃ¡sÃ¡nak feltÃ©teleirÅ‘l az ING Bank Zrt. szÃ©khelyÃ©n (1068 Budapest, DÃ³zsa GyÃ¶rgy Ãºt 84/B) tÃ©rÃ­tÃ©smentesen teljes kÃ¶rÅ± tÃ¡jÃ©koztatÃ¡s kaphatÃ³.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110041684</mezo>
-<mezo id = "nev">ING Bank /Magyarország/ Rt.</mezo>
+<mezo id = "nev">ING Bank /MagyarorszÃ¡g/ Rt.</mezo>
 <mezo id = "cim">1068 Budapest</mezo>
 </alrovat>
 <alrovat id = "14">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az ING Bank Zártkörûen Mûködõ Részvénytársaság (Cg.: [01 10 041684]; székhely: 1068 Budapest, Dózsa György út 84/B); a továbbiakban: ING Bank Zrt.), mint egyesüléssel érintett társaság, a tõkeegyesítõ társaságok határokon átnyúló egyesülésérõl szóló 2007. évi CXL. törvény 2. §-a alapján alkalmazandó a Gazdasági társaságokról szóló 2006. évi IV. törvény (a továbbiakban: „Gt.”) 75. § (2) és 79. § (5) bekezdése szerint az egyesülés valamennyi társaságnál megtörtént végleges elhatározásával, a többi egyesülni kívánó társaság kijelölése alapján közzéteszi, hogy az ING RÜK Korlátolt Felelõsségû Társasággal (Cg.: [01 09 714902]; székhely: 1068 Budapest, Dózsa György út 84/B; a továbbiakban:ING RÜK Kft.), az ING Duna Korlátolt Felelõsségû Társasággal (Cg.: [01 09 467025]; székhely: 1068 Budapest, Dózsa György út 84/B; a továbbiakban ING Duna Kft.) együttesen, mint beolvadó társaságok egyesülnek az ING Bank N.V. Hollandiában bejegyzett részvénytársasággal (cégjegyzékszám: [33031431]; székhely: NL­1081 KL Amsterdam, Amstelveenseweg 500., Postbus 810 1000 AV; a továbbiakban: ING Bank N.V.) a tõkeegyesítõ társaságok határokon átnyúló egyesülésérõl szóló 2007. évi CXL. törvény rendelkezéseinek megfelelõen oly módon, hogy az ING Bank Zrt., az ING RÜK Kft. és az ING Duna Kft. beolvadnak az ING Bank N.V.-be (az egyesülés módja: beolvadás).<ujsor/>
-Az ING Bank Zrt., az ING RÜK Kft. és az ING Duna Kft. a Gt. 81. § (1) bekezdése alapján megszûnnek és vagyonuk teljes egészében az ING Bank N.V.-re száll át, amelynek társasági formája (naamloze vennootschap) változatlan marad.<ujsor/>
-Az átalakulás napja: 2008. szeptember 30., ami a 2006. évi V. törvény 57. § (2) bekezdése szerinti feltételeknek megfelelõen az egyesüléshez fûzõdõ joghatások beálltának idõpontja.<ujsor/>
-Az egyesülõ társaságok adatai:<ujsor/>
-Az átvevõ társaság (jogutód)<ujsor/>
-1. ING Bank N.V., Hollandia joga szerint létrejött, a Kamer van Koophandel Amsterdam (De Ruyterkade 5 ­ 1013 AA Amsterdam ­ Hollandia) által 33031431 cégjegyzékszámon nyilvántartott korlátolt felelõsségû társaság, amelynek székhelye NL­1081 KL Amsterdam, Amstelveenseweg 500, Hollandia, mint átvevõ társaság;<ujsor/>
-A beolvadó társaságok<ujsor/>
-2. ING Bank Zártkörûen Mûködõ Részvénytársaság, Magyarország joga szerint létrejött, a Fõvárosi Bíróság mint Cégbíróság (1051 Budapest, Nádor u. 28.) által 01 10 041684 cégjegyzékszámon nyilvántartott zártkörûen mûködõ részvénytársaság, amelynek székhelye és üzleti címe 1068 Budapest, Dózsa György út 84/B, mint beolvadó társaság;<ujsor/>
-3. ING Regionális Ügyviteli Központ Korlátolt Felelõsségû Társaság, Magyarország joga szerint létrejött, a Fõvárosi Bíróság mint Cégbíróság (1051 Budapest, Nádor u. 28.) által 01 09 714902 cégjegyzékszámon nyilvántartott korlátolt felelõsségû társaság, amelynek székhelye és üzleti címe 1068 Budapest, Dózsa György út 84/B, mint beolvadó társaság;<ujsor/>
-4. ING Duna Szolgáltató Korlátolt Felelõsségû Társaság, Magyarország joga szerint létrejött, a Fõvárosi Bíróság mint Cégbíróság (1051 Budapest, Nádor u. 28.) által 01 09 467025 cégjegyzékszámon nyilvántartott korlátolt felelõsségû társaság, amelynek székhelye és üzleti címe: 1068 Budapest, Dózsa György út 84/B, mint beolvadó társaság.<ujsor/>
-A jogutód gazdasági társaság adatai:<ujsor/>
+<mezo id = "szoveg">Az ING Bank ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 041684]; szÃ©khely: 1068 Budapest, DÃ³zsa GyÃ¶rgy Ãºt 84/B); a tovÃ¡bbiakban: ING Bank Zrt.), mint egyesÃ¼lÃ©ssel Ã©rintett tÃ¡rsasÃ¡g, a tÅ‘keegyesÃ­tÅ‘ tÃ¡rsasÃ¡gok hatÃ¡rokon Ã¡tnyÃºlÃ³ egyesÃ¼lÃ©sÃ©rÅ‘l szÃ³lÃ³ 2007. Ã©vi CXL. tÃ¶rvÃ©ny 2. Â§-a alapjÃ¡n alkalmazandÃ³ a GazdasÃ¡gi tÃ¡rsasÃ¡gokrÃ³l szÃ³lÃ³ 2006. Ã©vi IV. tÃ¶rvÃ©ny (a tovÃ¡bbiakban: â€Gt.â€) 75. Â§ (2) Ã©s 79. Â§ (5) bekezdÃ©se szerint az egyesÃ¼lÃ©s valamennyi tÃ¡rsasÃ¡gnÃ¡l megtÃ¶rtÃ©nt vÃ©gleges elhatÃ¡rozÃ¡sÃ¡val, a tÃ¶bbi egyesÃ¼lni kÃ­vÃ¡nÃ³ tÃ¡rsasÃ¡g kijelÃ¶lÃ©se alapjÃ¡n kÃ¶zzÃ©teszi, hogy az ING RÃœK KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡ggal (Cg.: [01 09 714902]; szÃ©khely: 1068 Budapest, DÃ³zsa GyÃ¶rgy Ãºt 84/B; a tovÃ¡bbiakban:ING RÃœK Kft.), az ING Duna KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡ggal (Cg.: [01 09 467025]; szÃ©khely: 1068 Budapest, DÃ³zsa GyÃ¶rgy Ãºt 84/B; a tovÃ¡bbiakban ING Duna Kft.) egyÃ¼ttesen, mint beolvadÃ³ tÃ¡rsasÃ¡gok egyesÃ¼lnek az ING Bank N.V. HollandiÃ¡ban bejegyzett rÃ©szvÃ©nytÃ¡rsasÃ¡ggal (cÃ©gjegyzÃ©kszÃ¡m: [33031431]; szÃ©khely: NLÂ­1081 KL Amsterdam, Amstelveenseweg 500., Postbus 810 1000 AV; a tovÃ¡bbiakban: ING Bank N.V.) a tÅ‘keegyesÃ­tÅ‘ tÃ¡rsasÃ¡gok hatÃ¡rokon Ã¡tnyÃºlÃ³ egyesÃ¼lÃ©sÃ©rÅ‘l szÃ³lÃ³ 2007. Ã©vi CXL. tÃ¶rvÃ©ny rendelkezÃ©seinek megfelelÅ‘en oly mÃ³don, hogy az ING Bank Zrt., az ING RÃœK Kft. Ã©s az ING Duna Kft. beolvadnak az ING Bank N.V.-be (az egyesÃ¼lÃ©s mÃ³dja: beolvadÃ¡s).<ujsor/>
+Az ING Bank Zrt., az ING RÃœK Kft. Ã©s az ING Duna Kft. a Gt. 81. Â§ (1) bekezdÃ©se alapjÃ¡n megszÅ±nnek Ã©s vagyonuk teljes egÃ©szÃ©ben az ING Bank N.V.-re szÃ¡ll Ã¡t, amelynek tÃ¡rsasÃ¡gi formÃ¡ja (naamloze vennootschap) vÃ¡ltozatlan marad.<ujsor/>
+Az Ã¡talakulÃ¡s napja: 2008. szeptember 30., ami a 2006. Ã©vi V. tÃ¶rvÃ©ny 57. Â§ (2) bekezdÃ©se szerinti feltÃ©teleknek megfelelÅ‘en az egyesÃ¼lÃ©shez fÅ±zÅ‘dÅ‘ joghatÃ¡sok beÃ¡lltÃ¡nak idÅ‘pontja.<ujsor/>
+Az egyesÃ¼lÅ‘ tÃ¡rsasÃ¡gok adatai:<ujsor/>
+Az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g (jogutÃ³d)<ujsor/>
+1. ING Bank N.V., Hollandia joga szerint lÃ©trejÃ¶tt, a Kamer van Koophandel Amsterdam (De Ruyterkade 5 Â­ 1013 AA Amsterdam Â­ Hollandia) Ã¡ltal 33031431 cÃ©gjegyzÃ©kszÃ¡mon nyilvÃ¡ntartott korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g, amelynek szÃ©khelye NLÂ­1081 KL Amsterdam, Amstelveenseweg 500, Hollandia, mint Ã¡tvevÅ‘ tÃ¡rsasÃ¡g;<ujsor/>
+A beolvadÃ³ tÃ¡rsasÃ¡gok<ujsor/>
+2. ING Bank ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g, MagyarorszÃ¡g joga szerint lÃ©trejÃ¶tt, a FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g (1051 Budapest, NÃ¡dor u. 28.) Ã¡ltal 01 10 041684 cÃ©gjegyzÃ©kszÃ¡mon nyilvÃ¡ntartott zÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ rÃ©szvÃ©nytÃ¡rsasÃ¡g, amelynek szÃ©khelye Ã©s Ã¼zleti cÃ­me 1068 Budapest, DÃ³zsa GyÃ¶rgy Ãºt 84/B, mint beolvadÃ³ tÃ¡rsasÃ¡g;<ujsor/>
+3. ING RegionÃ¡lis Ãœgyviteli KÃ¶zpont KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g, MagyarorszÃ¡g joga szerint lÃ©trejÃ¶tt, a FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g (1051 Budapest, NÃ¡dor u. 28.) Ã¡ltal 01 09 714902 cÃ©gjegyzÃ©kszÃ¡mon nyilvÃ¡ntartott korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g, amelynek szÃ©khelye Ã©s Ã¼zleti cÃ­me 1068 Budapest, DÃ³zsa GyÃ¶rgy Ãºt 84/B, mint beolvadÃ³ tÃ¡rsasÃ¡g;<ujsor/>
+4. ING Duna SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g, MagyarorszÃ¡g joga szerint lÃ©trejÃ¶tt, a FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g (1051 Budapest, NÃ¡dor u. 28.) Ã¡ltal 01 09 467025 cÃ©gjegyzÃ©kszÃ¡mon nyilvÃ¡ntartott korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g, amelynek szÃ©khelye Ã©s Ã¼zleti cÃ­me: 1068 Budapest, DÃ³zsa GyÃ¶rgy Ãºt 84/B, mint beolvadÃ³ tÃ¡rsasÃ¡g.<ujsor/>
+A jogutÃ³d gazdasÃ¡gi tÃ¡rsasÃ¡g adatai:<ujsor/>
 Neve: ING Bank N.V.<ujsor/>
-Székhelye: NL­1081 KL Amsterdam, Amstelveenseweg 500, Hollandia.<ujsor/>
-Cégjegyzékszám: 33031431, Kamer van Koophandel Amsterdam.<ujsor/>
-Társaság formája: naamloze vennootschap.<ujsor/>
-Az ING Bank Zrt., mint beolvadó társaság záró vagyonmérlegének legfontosabb pénzügyi adatai (2007. 12. 31.):<ujsor/>
-ESZKÖZÖK (MFt) FORRÁSOK (MFt)<ujsor/>
-1. Pénzeszközök 27 843 1. Hitelintézetekkel szembeni kötelzettségek 224 325<ujsor/>
-2. Állampapírok 201 688 2. Ügyfelekkel szembeni kötelezettségek 135 285<ujsor/>
-3. Hitelintézetekkel szembeni követelések 115 664 3. Kibocsátott értékpapírok 0<ujsor/>
-4. Ügyfelekkel szembeni követelések 76 335 4. Egyéb kötelezettségek 14 695<ujsor/>
-5. Hitelviszonyt megtestesítõ értékpapírok 0 4/A Származékos ügyletek negatív értékelési<ujsor/>
-6. Részvényekés más változó hozamú értékpapírok 0 különbözete 26 754<ujsor/>
-7. Részvények, részesedések befektetési célra 74 5. Passzív idõbeli elhatárolások 3 044<ujsor/>
-8. Részvények, részesedések kapcsolt vállalkozásban 477 6. Céltartalékok 1 400<ujsor/>
-9. Immateriális javak 171 7. Hátra sorolt kötelezettségek 4 534<ujsor/>
-10. Tárgyi eszközök 235 8. Jegyzett tõke 18 589<ujsor/>
-11. Saját részvény 10. Tõketartalék 138<ujsor/>
-12. Egyéb eszközök 547 11. Általános tartalék 1 620<ujsor/>
-12/B Származékos ügyletek pozitív értékelési 12. Eredménytartalék 22 273<ujsor/>
-különbözete 25 715 14. Értékelési tartalék 0<ujsor/>
-13. Aktív idõbeli elhatárolások 3 908 15. Mérleg szerinti eredmény 0<ujsor/>
-ÖSSZESEN: 452 657 ÖSSZESEN: 452 657<ujsor/>
-Az ING RÜK Kft., mint beolvadó társaság záró vagyonmérlegének legfontosabb pénzügyi adatai (2007. 12. 31.):<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-A) Befektetett eszközök 221 018 D) Saját tõke 598 501<ujsor/>
-I. Immateriális javak 17 235 I. Jegyzett tõke 361 090<ujsor/>
-II. Tárgyi eszközök 193 506 II. Tõketartalék 2 573 002<ujsor/>
-III. Befektetett pénzügyi eszközök 10 277 III. Eredménytartalék ­2 335 591<ujsor/>
-B) Forgóeszközök 890 218 VI. Értékelési tartalék 0<ujsor/>
-I. Készletek 0 IV. Mérleg szerinti eredmény 0<ujsor/>
-II. Követelések 111 404 E) Céltartalékok 466 120<ujsor/>
-III. Értékpapírok 0 F) Kötelezettségek 31 433<ujsor/>
-IV. Pénzeszközök 778 814 II. Hosszú lejáratú kötelezettségek 2 800<ujsor/>
-C) Aktív idõbeli elhatárolások 2 193 III. Rövid lejáratú kötelezettségek 28 633<ujsor/>
-G) Passzív idõbeli elhatárolások 17 374<ujsor/>
-ÖSSZESEN: 1 113 429 ÖSSZESEN: 1 113 429<ujsor/>
-Az ING Duna Kft. mint beolvadó társaság záró vagyonmérlegének legfontosabb pénzügyi adatai (2007. 12. 31.):<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-A) Befektetett eszközök 229 934 D) Saját tõke 476 814<ujsor/>
-I. Immateriális javak 16 786 I. Jegyzett tõke 563 000<ujsor/>
-II. Tárgyi eszközök 213 148 II. Tõketartalék 0<ujsor/>
-III. Befektetett pénzügyi eszközök 0 III. Eredménytartalék ­86 186<ujsor/>
-B) Forgóeszközök 250 662 VI. Értékelési tartalék 0<ujsor/>
-I. Készletek 0 IV. Mérleg szerinti eredmény 0<ujsor/>
-II. Követelések 45 427 E) Céltartalékok 0<ujsor/>
-III. Értékpapírok 0 F) Kötelezettségek 1 813<ujsor/>
-IV. Pénzeszközök 205 235 II. Hosszú lejáratú kötelezettségek 0<ujsor/>
-C) Aktív idõbeli elhatárolások 2 193 III. Rövid lejáratú kötelezettségek 1 813<ujsor/>
-G) Passzív idõbeli elhatárolások 2 450<ujsor/>
-ÖSSZESEN: 481 077 ÖSSZESEN: 481 077<ujsor/>
-Az ING Bank N.V., mint átvevõ társaság záró vagyonmérlegének legfontosabb pénzügyi adatai (2007. 12. 31.):<ujsor/>
-ESZKÖZÖK (millió EUR) FORRÁSOK (millió EUR)<ujsor/>
-Készpénz és mérlegek jegybankoknál 2 157 Bankok számára esedékes összegek 246 850<ujsor/>
-Rövid lejáratú kincstári papír 3 032 Ügyfél letétek és egyéb letétbe helyezett alapok 67 268<ujsor/>
-Bankoktól esedékes összegek 209 553 Kibocsátott adósságpapírok 35 391<ujsor/>
-Kölcsönök és elõlegek ügyfeleknek 122 857 Egyéb kötelezettségek 56 904<ujsor/>
-Adósságpapírok 45 138 Általános tartalékok 873<ujsor/>
-Osztalékos papírok 8 888 Alárendelt kölcsönök 19 401<ujsor/>
-Befektetés a vállalatcsoport társaságaiba 27 129 ÖSSZES KÖTELEZETTSÉG 426 687<ujsor/>
-Befektetés kapcsolt társaságokba 452 Részvénytõke 525<ujsor/>
-Immateriális eszközök 1 044 Részvényfelár 9 192<ujsor/>
-Berendezések 34 Kapcsolt vállalkozások részesedési tartalékalapja 69<ujsor/>
-Egyéb eszközök 31 914 Valuta átszámítási tartalék ­18<ujsor/>
-Egyéb tartalék 13 454<ujsor/>
-Fel nem osztott nyereség 2 289<ujsor/>
-ÖSSZES SAJÁT TÕKE 25 511<ujsor/>
-ÖSSZESEN: 452 198 ÖSSZESEN: 452 198<ujsor/>
-Az ING Bank N.V., mint jogutód nyitó vagyonmérleg-tervezetének legfontosabb pénzügyi adatai (az ING Bank N.V. konszolidált beszámolója alapján) (2007. 12. 31.):<ujsor/>
-ESZKÖZÖK (millió EUR) FORRÁSOK (millió EUR)<ujsor/>
-Készpénz és mérlegek jegybankoknál 9 829 Részvények (anyavállalat) saját tõkéje 25 511<ujsor/>
-Bankoktól esedékes összegek 48 875 Kisebbségi részesedés 1 684<ujsor/>
-Eredménnyel szemben valós értéken értékelt ÖSSZES SAJÁT TÕKE 27 195<ujsor/>
-pénzügyi eszközök 208 145 Alárendelt kölcsönök 18 786<ujsor/>
-Befektetések 160 385 Kibocsátott adósságpapírok 55 990<ujsor/>
-Kölcsönök és elõlegek ügyfeleknek 526 323 Bankok számára esedékes összegek 166 972<ujsor/>
-Befektetés kapcsolt társaságokba 2 010 Ügyfél letétek és egyéb letétbe helyezett 528 197<ujsor/>
-Ingatlan befektetések 3 527 Eredménnyel szemben valós értéken értékelt<ujsor/>
-Vagyontárgyak és berendezések 5 330 pénzügyi kötelezettségek 168 338<ujsor/>
-Inmateriális eszközök 1 883 Egyéb kötelezettségek 28 625<ujsor/>
-Egyéb eszközök 27 806 ÖSSZES KÖTELEZETTSÉG 966 918<ujsor/>
-ÖSSZESEN: 994 113 ÖSSZESEN: 994 113<ujsor/>
-A jogutód gazdasági társaság, az ING Bank N.V. további adatai:<ujsor/>
-A jogutód gazdasági társaság alapító okirata nem kerül módosításra.<ujsor/>
-A jogutód gazdasági társaság fõ tevékenysége: banki tevékenységek folytatása [az Európai Parlament és a Tanácsa 1893/2006/EK rendelete (2006. december 20.) a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról és a 3037/90/EGK tanácsi rendelet, valamint egyes meghatározott statisztikai területekre vonatkozó EK-rendeletek módosítása szerint: 64.19 Egyéb monetáris közvetítés].<ujsor/>
-A jogutód gazdasági társaság vezetõ állású tisztségviselõi:<ujsor/>
-1. M.J.G. Tilmant (lakcím: Rue du Moulin 10, 1310 La Hulpe, Belgium);<ujsor/>
-2. E.F.C.B. Boyer de la Giroday (lakcím: 9 Rue van Eyck, B­1050 Brussel, Belgium);<ujsor/>
-3. D.H. Harrijvan (lakcím: Beukenlaan 193, 2665DP Bleiswijk);<ujsor/>
-4. J.C.R. Hele (lakcím: Kievietslaan 20, 2243GD Wassenaar);<ujsor/>
-5. T.J. Mc Inerney (lakcím: Artemisstraat 58, 1076DW Amsterdam);<ujsor/>
-6. C.P.A.J. Leenaars (lakcím: Dennenlaan 2 a, 2244/AL Wassenaar);<ujsor/>
-7. H. van der Noordaa (lakcím: Paulus Potterlaan 31, 1412HW Narrden);<ujsor/>
-8. J.V. Timmermans (lakcím: Naarderstraat 308, 1272NT Huizen);<ujsor/>
-9. J.M.G.J. de Vaucleroy (lakcím: Acacialaan 4, 2243BW Wassenaar).<ujsor/>
-A jogutód gazdasági társaság részvényeinek fajtája, névértéke:<ujsor/>
-Társasági szerzõdés 4.1: <ujsor/>
-A társaság alaptõkéje egymilliárd-nyolcszáznyolcmillió euró (EUR 1 808 000 000) ­ mely az alábbiak szerint oszlik meg:<ujsor/>
-(a) egymilliárd-ötszázkilencvenkilencmillió-kilencszázkilencvenkilencezer-kilencszázötven (1 599 999 950) törzsrészvény, melyek egyenkénti nominális értéke egy euró tizenhárom cent (EUR 1,13); és<ujsor/>
-(b) ötven (50) elsõbbségi részvény, melyek egyenkénti nominális értéke egy euró tizenhárom cent (EUR 1,13), huszonhat (26) mind más betûjellel megjelölt sorozatba osztva, mely sorozatokban az A, B, D és E jelölésû mint egy (1) elsõbbségi részvénybõl áll, az F-tõl Y-ig terjedõ sorozatokban mind kettõ (2) elsõbbségi részvénybõl áll és a C és Z sorozat mind három (3) elsõbbségi részvénybõl áll, miközben minden elsõbbségi részvénysorozat egy külön részvényfajtának számít.<ujsor/>
-Cégkivonat:<ujsor/>
-Engedélyezett (társasági) tõke: EUR 1 808 000 000<ujsor/>
-Kibocsátott tõke: EUR 525 489 557,91<ujsor/>
-Befizetett tõke: EUR 525 489 557,91<ujsor/>
-Hitelezõknek szóló felhívás<ujsor/>
-A Gt. 280. § (4) bekezdése alapján az egyesüléssel érintett részvénytársaságok hitelezõi ­ a 76. § (2) bekezdésben foglalt rendelkezésnek megfelelõ alkalmazásával ­ biztosítékot igényelhetnek, ha igazolják, hogy az egyesülés veszélyezteti követeléseik kielégítésének alapját, feltéve, hogy az egyesüléssel érintett részvénytársaságok korábban nem nyújtottak számukra biztosítékot. Az átalakulás az átalakuló társasággal szemben fennálló követeléseket nem teszi lejárttá [Gt. 76. § (1) bek.]. A Gt. 76. § (2) bekezdése szerint azok a hitelezõk, akiknek az átalakuló társasággal szemben fennálló, le nem járt követelései az átalakulásról hozott döntés elsõ közzétételét megelõzõen keletkeztek, követeléseik erejéig az átalakuló gazdasági társaságtól a döntés második közzétételét követõ harmincnapos jogvesztõ határidõn belül biztosítékot követelhetnek. Ha a tag (részvényes) felelõssége az átalakuló gazdasági társaság kötelezettségeiért a társaság fennállása alatt korlátozott, a Gt. 76. § (2) bekezdésben foglalt rendelkezést csak akkor kell alkalmazni, ha a jogutód gazdasági társaság saját tõkéjének összege kevesebb, mint a jogelõd gazdasági társaságé volt az átalakulás elhatározásakor [Gt. 76. § (3) bek.].<ujsor/>
-Az egyesülésben részt vevõ társaságok tagjainak felelõssége a társaság kötelezettségeiért a társaság fennállása alatt korlátozott volt és a jogutód társaság saját tõkéjének összege nem kevesebb, mint a jogelõd gazdasági társaságoké volt az átalakulás elhatározásakor, így a Gt. 76. § (2) bekezdése az egyesülés során nem alkalmazandó. A hitelezõi jogok gyakorlásának feltételeirõl az ING Bank Zrt. székhelyén (1068 Budapest, Dózsa György út 84/B) térítésmentesen teljes körû tájékoztatás kapható.<ujsor/>
-(Második közzététel.)<ujsor/>
+SzÃ©khelye: NLÂ­1081 KL Amsterdam, Amstelveenseweg 500, Hollandia.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡m: 33031431, Kamer van Koophandel Amsterdam.<ujsor/>
+TÃ¡rsasÃ¡g formÃ¡ja: naamloze vennootschap.<ujsor/>
+Az ING Bank Zrt., mint beolvadÃ³ tÃ¡rsasÃ¡g zÃ¡rÃ³ vagyonmÃ©rlegÃ©nek legfontosabb pÃ©nzÃ¼gyi adatai (2007. 12. 31.):<ujsor/>
+ESZKÃ–ZÃ–K (MFt) FORRÃSOK (MFt)<ujsor/>
+1. PÃ©nzeszkÃ¶zÃ¶k 27 843 1. HitelintÃ©zetekkel szembeni kÃ¶telzettsÃ©gek 224 325<ujsor/>
+2. ÃllampapÃ­rok 201 688 2. Ãœgyfelekkel szembeni kÃ¶telezettsÃ©gek 135 285<ujsor/>
+3. HitelintÃ©zetekkel szembeni kÃ¶vetelÃ©sek 115 664 3. KibocsÃ¡tott Ã©rtÃ©kpapÃ­rok 0<ujsor/>
+4. Ãœgyfelekkel szembeni kÃ¶vetelÃ©sek 76 335 4. EgyÃ©b kÃ¶telezettsÃ©gek 14 695<ujsor/>
+5. Hitelviszonyt megtestesÃ­tÅ‘ Ã©rtÃ©kpapÃ­rok 0 4/A SzÃ¡rmazÃ©kos Ã¼gyletek negatÃ­v Ã©rtÃ©kelÃ©si<ujsor/>
+6. RÃ©szvÃ©nyekÃ©s mÃ¡s vÃ¡ltozÃ³ hozamÃº Ã©rtÃ©kpapÃ­rok 0 kÃ¼lÃ¶nbÃ¶zete 26 754<ujsor/>
+7. RÃ©szvÃ©nyek, rÃ©szesedÃ©sek befektetÃ©si cÃ©lra 74 5. PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 3 044<ujsor/>
+8. RÃ©szvÃ©nyek, rÃ©szesedÃ©sek kapcsolt vÃ¡llalkozÃ¡sban 477 6. CÃ©ltartalÃ©kok 1 400<ujsor/>
+9. ImmateriÃ¡lis javak 171 7. HÃ¡tra sorolt kÃ¶telezettsÃ©gek 4 534<ujsor/>
+10. TÃ¡rgyi eszkÃ¶zÃ¶k 235 8. Jegyzett tÅ‘ke 18 589<ujsor/>
+11. SajÃ¡t rÃ©szvÃ©ny 10. TÅ‘ketartalÃ©k 138<ujsor/>
+12. EgyÃ©b eszkÃ¶zÃ¶k 547 11. ÃltalÃ¡nos tartalÃ©k 1 620<ujsor/>
+12/B SzÃ¡rmazÃ©kos Ã¼gyletek pozitÃ­v Ã©rtÃ©kelÃ©si 12. EredmÃ©nytartalÃ©k 22 273<ujsor/>
+kÃ¼lÃ¶nbÃ¶zete 25 715 14. Ã‰rtÃ©kelÃ©si tartalÃ©k 0<ujsor/>
+13. AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 3 908 15. MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+Ã–SSZESEN: 452 657 Ã–SSZESEN: 452 657<ujsor/>
+Az ING RÃœK Kft., mint beolvadÃ³ tÃ¡rsasÃ¡g zÃ¡rÃ³ vagyonmÃ©rlegÃ©nek legfontosabb pÃ©nzÃ¼gyi adatai (2007. 12. 31.):<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 221 018 D) SajÃ¡t tÅ‘ke 598 501<ujsor/>
+I. ImmateriÃ¡lis javak 17 235 I. Jegyzett tÅ‘ke 361 090<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 193 506 II. TÅ‘ketartalÃ©k 2 573 002<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 10 277 III. EredmÃ©nytartalÃ©k Â­2 335 591<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 890 218 VI. Ã‰rtÃ©kelÃ©si tartalÃ©k 0<ujsor/>
+I. KÃ©szletek 0 IV. MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+II. KÃ¶vetelÃ©sek 111 404 E) CÃ©ltartalÃ©kok 466 120<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 F) KÃ¶telezettsÃ©gek 31 433<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 778 814 II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 2 800<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 2 193 III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 28 633<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 17 374<ujsor/>
+Ã–SSZESEN: 1 113 429 Ã–SSZESEN: 1 113 429<ujsor/>
+Az ING Duna Kft. mint beolvadÃ³ tÃ¡rsasÃ¡g zÃ¡rÃ³ vagyonmÃ©rlegÃ©nek legfontosabb pÃ©nzÃ¼gyi adatai (2007. 12. 31.):<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 229 934 D) SajÃ¡t tÅ‘ke 476 814<ujsor/>
+I. ImmateriÃ¡lis javak 16 786 I. Jegyzett tÅ‘ke 563 000<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 213 148 II. TÅ‘ketartalÃ©k 0<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 III. EredmÃ©nytartalÃ©k Â­86 186<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 250 662 VI. Ã‰rtÃ©kelÃ©si tartalÃ©k 0<ujsor/>
+I. KÃ©szletek 0 IV. MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+II. KÃ¶vetelÃ©sek 45 427 E) CÃ©ltartalÃ©kok 0<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 F) KÃ¶telezettsÃ©gek 1 813<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 205 235 II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 0<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 2 193 III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 1 813<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 2 450<ujsor/>
+Ã–SSZESEN: 481 077 Ã–SSZESEN: 481 077<ujsor/>
+Az ING Bank N.V., mint Ã¡tvevÅ‘ tÃ¡rsasÃ¡g zÃ¡rÃ³ vagyonmÃ©rlegÃ©nek legfontosabb pÃ©nzÃ¼gyi adatai (2007. 12. 31.):<ujsor/>
+ESZKÃ–ZÃ–K (milliÃ³ EUR) FORRÃSOK (milliÃ³ EUR)<ujsor/>
+KÃ©szpÃ©nz Ã©s mÃ©rlegek jegybankoknÃ¡l 2 157 Bankok szÃ¡mÃ¡ra esedÃ©kes Ã¶sszegek 246 850<ujsor/>
+RÃ¶vid lejÃ¡ratÃº kincstÃ¡ri papÃ­r 3 032 ÃœgyfÃ©l letÃ©tek Ã©s egyÃ©b letÃ©tbe helyezett alapok 67 268<ujsor/>
+BankoktÃ³l esedÃ©kes Ã¶sszegek 209 553 KibocsÃ¡tott adÃ³ssÃ¡gpapÃ­rok 35 391<ujsor/>
+KÃ¶lcsÃ¶nÃ¶k Ã©s elÅ‘legek Ã¼gyfeleknek 122 857 EgyÃ©b kÃ¶telezettsÃ©gek 56 904<ujsor/>
+AdÃ³ssÃ¡gpapÃ­rok 45 138 ÃltalÃ¡nos tartalÃ©kok 873<ujsor/>
+OsztalÃ©kos papÃ­rok 8 888 AlÃ¡rendelt kÃ¶lcsÃ¶nÃ¶k 19 401<ujsor/>
+BefektetÃ©s a vÃ¡llalatcsoport tÃ¡rsasÃ¡gaiba 27 129 Ã–SSZES KÃ–TELEZETTSÃ‰G 426 687<ujsor/>
+BefektetÃ©s kapcsolt tÃ¡rsasÃ¡gokba 452 RÃ©szvÃ©nytÅ‘ke 525<ujsor/>
+ImmateriÃ¡lis eszkÃ¶zÃ¶k 1 044 RÃ©szvÃ©nyfelÃ¡r 9 192<ujsor/>
+BerendezÃ©sek 34 Kapcsolt vÃ¡llalkozÃ¡sok rÃ©szesedÃ©si tartalÃ©kalapja 69<ujsor/>
+EgyÃ©b eszkÃ¶zÃ¶k 31 914 Valuta Ã¡tszÃ¡mÃ­tÃ¡si tartalÃ©k Â­18<ujsor/>
+EgyÃ©b tartalÃ©k 13 454<ujsor/>
+Fel nem osztott nyeresÃ©g 2 289<ujsor/>
+Ã–SSZES SAJÃT TÅKE 25 511<ujsor/>
+Ã–SSZESEN: 452 198 Ã–SSZESEN: 452 198<ujsor/>
+Az ING Bank N.V., mint jogutÃ³d nyitÃ³ vagyonmÃ©rleg-tervezetÃ©nek legfontosabb pÃ©nzÃ¼gyi adatai (az ING Bank N.V. konszolidÃ¡lt beszÃ¡molÃ³ja alapjÃ¡n) (2007. 12. 31.):<ujsor/>
+ESZKÃ–ZÃ–K (milliÃ³ EUR) FORRÃSOK (milliÃ³ EUR)<ujsor/>
+KÃ©szpÃ©nz Ã©s mÃ©rlegek jegybankoknÃ¡l 9 829 RÃ©szvÃ©nyek (anyavÃ¡llalat) sajÃ¡t tÅ‘kÃ©je 25 511<ujsor/>
+BankoktÃ³l esedÃ©kes Ã¶sszegek 48 875 KisebbsÃ©gi rÃ©szesedÃ©s 1 684<ujsor/>
+EredmÃ©nnyel szemben valÃ³s Ã©rtÃ©ken Ã©rtÃ©kelt Ã–SSZES SAJÃT TÅKE 27 195<ujsor/>
+pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 208 145 AlÃ¡rendelt kÃ¶lcsÃ¶nÃ¶k 18 786<ujsor/>
+BefektetÃ©sek 160 385 KibocsÃ¡tott adÃ³ssÃ¡gpapÃ­rok 55 990<ujsor/>
+KÃ¶lcsÃ¶nÃ¶k Ã©s elÅ‘legek Ã¼gyfeleknek 526 323 Bankok szÃ¡mÃ¡ra esedÃ©kes Ã¶sszegek 166 972<ujsor/>
+BefektetÃ©s kapcsolt tÃ¡rsasÃ¡gokba 2 010 ÃœgyfÃ©l letÃ©tek Ã©s egyÃ©b letÃ©tbe helyezett 528 197<ujsor/>
+Ingatlan befektetÃ©sek 3 527 EredmÃ©nnyel szemben valÃ³s Ã©rtÃ©ken Ã©rtÃ©kelt<ujsor/>
+VagyontÃ¡rgyak Ã©s berendezÃ©sek 5 330 pÃ©nzÃ¼gyi kÃ¶telezettsÃ©gek 168 338<ujsor/>
+InmateriÃ¡lis eszkÃ¶zÃ¶k 1 883 EgyÃ©b kÃ¶telezettsÃ©gek 28 625<ujsor/>
+EgyÃ©b eszkÃ¶zÃ¶k 27 806 Ã–SSZES KÃ–TELEZETTSÃ‰G 966 918<ujsor/>
+Ã–SSZESEN: 994 113 Ã–SSZESEN: 994 113<ujsor/>
+A jogutÃ³d gazdasÃ¡gi tÃ¡rsasÃ¡g, az ING Bank N.V. tovÃ¡bbi adatai:<ujsor/>
+A jogutÃ³d gazdasÃ¡gi tÃ¡rsasÃ¡g alapÃ­tÃ³ okirata nem kerÃ¼l mÃ³dosÃ­tÃ¡sra.<ujsor/>
+A jogutÃ³d gazdasÃ¡gi tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©ge: banki tevÃ©kenysÃ©gek folytatÃ¡sa [az EurÃ³pai Parlament Ã©s a TanÃ¡csa 1893/2006/EK rendelete (2006. december 20.) a gazdasÃ¡gi tevÃ©kenysÃ©gek statisztikai osztÃ¡lyozÃ¡sa NACE Rev. 2. rendszerÃ©nek lÃ©trehozÃ¡sÃ¡rÃ³l Ã©s a 3037/90/EGK tanÃ¡csi rendelet, valamint egyes meghatÃ¡rozott statisztikai terÃ¼letekre vonatkozÃ³ EK-rendeletek mÃ³dosÃ­tÃ¡sa szerint: 64.19 EgyÃ©b monetÃ¡ris kÃ¶zvetÃ­tÃ©s].<ujsor/>
+A jogutÃ³d gazdasÃ¡gi tÃ¡rsasÃ¡g vezetÅ‘ Ã¡llÃ¡sÃº tisztsÃ©gviselÅ‘i:<ujsor/>
+1. M.J.G. Tilmant (lakcÃ­m: Rue du Moulin 10, 1310 La Hulpe, Belgium);<ujsor/>
+2. E.F.C.B. Boyer de la Giroday (lakcÃ­m: 9 Rue van Eyck, BÂ­1050 Brussel, Belgium);<ujsor/>
+3. D.H. Harrijvan (lakcÃ­m: Beukenlaan 193, 2665DP Bleiswijk);<ujsor/>
+4. J.C.R. Hele (lakcÃ­m: Kievietslaan 20, 2243GD Wassenaar);<ujsor/>
+5. T.J. Mc Inerney (lakcÃ­m: Artemisstraat 58, 1076DW Amsterdam);<ujsor/>
+6. C.P.A.J. Leenaars (lakcÃ­m: Dennenlaan 2 a, 2244/AL Wassenaar);<ujsor/>
+7. H. van der Noordaa (lakcÃ­m: Paulus Potterlaan 31, 1412HW Narrden);<ujsor/>
+8. J.V. Timmermans (lakcÃ­m: Naarderstraat 308, 1272NT Huizen);<ujsor/>
+9. J.M.G.J. de Vaucleroy (lakcÃ­m: Acacialaan 4, 2243BW Wassenaar).<ujsor/>
+A jogutÃ³d gazdasÃ¡gi tÃ¡rsasÃ¡g rÃ©szvÃ©nyeinek fajtÃ¡ja, nÃ©vÃ©rtÃ©ke:<ujsor/>
+TÃ¡rsasÃ¡gi szerzÅ‘dÃ©s 4.1: <ujsor/>
+A tÃ¡rsasÃ¡g alaptÅ‘kÃ©je egymilliÃ¡rd-nyolcszÃ¡znyolcmilliÃ³ eurÃ³ (EUR 1 808 000 000) Â­ mely az alÃ¡bbiak szerint oszlik meg:<ujsor/>
+(a) egymilliÃ¡rd-Ã¶tszÃ¡zkilencvenkilencmilliÃ³-kilencszÃ¡zkilencvenkilencezer-kilencszÃ¡zÃ¶tven (1 599 999 950) tÃ¶rzsrÃ©szvÃ©ny, melyek egyenkÃ©nti nominÃ¡lis Ã©rtÃ©ke egy eurÃ³ tizenhÃ¡rom cent (EUR 1,13); Ã©s<ujsor/>
+(b) Ã¶tven (50) elsÅ‘bbsÃ©gi rÃ©szvÃ©ny, melyek egyenkÃ©nti nominÃ¡lis Ã©rtÃ©ke egy eurÃ³ tizenhÃ¡rom cent (EUR 1,13), huszonhat (26) mind mÃ¡s betÅ±jellel megjelÃ¶lt sorozatba osztva, mely sorozatokban az A, B, D Ã©s E jelÃ¶lÃ©sÅ± mint egy (1) elsÅ‘bbsÃ©gi rÃ©szvÃ©nybÅ‘l Ã¡ll, az F-tÅ‘l Y-ig terjedÅ‘ sorozatokban mind kettÅ‘ (2) elsÅ‘bbsÃ©gi rÃ©szvÃ©nybÅ‘l Ã¡ll Ã©s a C Ã©s Z sorozat mind hÃ¡rom (3) elsÅ‘bbsÃ©gi rÃ©szvÃ©nybÅ‘l Ã¡ll, mikÃ¶zben minden elsÅ‘bbsÃ©gi rÃ©szvÃ©nysorozat egy kÃ¼lÃ¶n rÃ©szvÃ©nyfajtÃ¡nak szÃ¡mÃ­t.<ujsor/>
+CÃ©gkivonat:<ujsor/>
+EngedÃ©lyezett (tÃ¡rsasÃ¡gi) tÅ‘ke: EUR 1 808 000Â 000<ujsor/>
+KibocsÃ¡tott tÅ‘ke: EUR 525 489 557,91<ujsor/>
+Befizetett tÅ‘ke: EUR 525 489 557,91<ujsor/>
+HitelezÅ‘knek szÃ³lÃ³ felhÃ­vÃ¡s<ujsor/>
+A Gt. 280. Â§ (4) bekezdÃ©se alapjÃ¡n az egyesÃ¼lÃ©ssel Ã©rintett rÃ©szvÃ©nytÃ¡rsasÃ¡gok hitelezÅ‘i Â­ a 76. Â§ (2) bekezdÃ©sben foglalt rendelkezÃ©snek megfelelÅ‘ alkalmazÃ¡sÃ¡val Â­ biztosÃ­tÃ©kot igÃ©nyelhetnek, ha igazoljÃ¡k, hogy az egyesÃ¼lÃ©s veszÃ©lyezteti kÃ¶vetelÃ©seik kielÃ©gÃ­tÃ©sÃ©nek alapjÃ¡t, feltÃ©ve, hogy az egyesÃ¼lÃ©ssel Ã©rintett rÃ©szvÃ©nytÃ¡rsasÃ¡gok korÃ¡bban nem nyÃºjtottak szÃ¡mukra biztosÃ­tÃ©kot. Az Ã¡talakulÃ¡s az Ã¡talakulÃ³ tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³ kÃ¶vetelÃ©seket nem teszi lejÃ¡rttÃ¡ [Gt. 76. Â§ (1) bek.]. A Gt. 76. Â§ (2) bekezdÃ©se szerint azok a hitelezÅ‘k, akiknek az Ã¡talakulÃ³ tÃ¡rsasÃ¡ggal szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©sei az Ã¡talakulÃ¡srÃ³l hozott dÃ¶ntÃ©s elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡gtÃ³l a dÃ¶ntÃ©s mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ harmincnapos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek. Ha a tag (rÃ©szvÃ©nyes) felelÅ‘ssÃ©ge az Ã¡talakulÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g kÃ¶telezettsÃ©geiÃ©rt a tÃ¡rsasÃ¡g fennÃ¡llÃ¡sa alatt korlÃ¡tozott, a Gt. 76. Â§ (2) bekezdÃ©sben foglalt rendelkezÃ©st csak akkor kell alkalmazni, ha a jogutÃ³d gazdasÃ¡gi tÃ¡rsasÃ¡g sajÃ¡t tÅ‘kÃ©jÃ©nek Ã¶sszege kevesebb, mint a jogelÅ‘d gazdasÃ¡gi tÃ¡rsasÃ¡gÃ© volt az Ã¡talakulÃ¡s elhatÃ¡rozÃ¡sakor [Gt. 76. Â§ (3) bek.].<ujsor/>
+Az egyesÃ¼lÃ©sben rÃ©szt vevÅ‘ tÃ¡rsasÃ¡gok tagjainak felelÅ‘ssÃ©ge a tÃ¡rsasÃ¡g kÃ¶telezettsÃ©geiÃ©rt a tÃ¡rsasÃ¡g fennÃ¡llÃ¡sa alatt korlÃ¡tozott volt Ã©s a jogutÃ³d tÃ¡rsasÃ¡g sajÃ¡t tÅ‘kÃ©jÃ©nek Ã¶sszege nem kevesebb, mint a jogelÅ‘d gazdasÃ¡gi tÃ¡rsasÃ¡gokÃ© volt az Ã¡talakulÃ¡s elhatÃ¡rozÃ¡sakor, Ã­gy a Gt. 76. Â§ (2) bekezdÃ©se az egyesÃ¼lÃ©s sorÃ¡n nem alkalmazandÃ³. A hitelezÅ‘i jogok gyakorlÃ¡sÃ¡nak feltÃ©teleirÅ‘l az ING Bank Zrt. szÃ©khelyÃ©n (1068 Budapest, DÃ³zsa GyÃ¶rgy Ãºt 84/B) tÃ©rÃ­tÃ©smentesen teljes kÃ¶rÅ± tÃ¡jÃ©koztatÃ¡s kaphatÃ³.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110041684</mezo>
-<mezo id = "nev">ING Bank /Magyarország/ Rt.</mezo>
+<mezo id = "nev">ING Bank /MagyarorszÃ¡g/ Rt.</mezo>
 <mezo id = "cim">1068 Budapest</mezo>
 </alrovat>
 <alrovat id = "15">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A cégbíróság tanúsítja, hogy a Cg.01-10-041684 számon bejegyzett ING Bank Zárkörûen Mûködõ Részvénytársaság (székhely:1068 Budapest Dózsa György út 84.b .ép .) az ING Bank N.V . (székhely: NL-1081 Amsterdam, Amstelveenseweg 500.; cg.33031431 ) határokon átnyúló egyesülés útján létrehozni kívánt cég alapításával összefüggõ, az átalakulás idõpontját megelõzõen õt terhelõ jogszabályi kötelezettségeinek eleget tett. <ujsor/>
-Kérelmezõ kérelméhez az alábbi iratokat csatolta: <ujsor/>
-- Az egyesülés tárgyában a társaságban hozott alapítói határozatok; <ujsor/>
-- Nyilatkozat arról, hogy a munkavállalói érdekképviseletet az egyesülés elhatározásáról az igazgatóság tájékoztatta; <ujsor/>
-- A társaság vagyonmérleg és vagyonleltár tervezete; <ujsor/>
-- A társaság vagyonmérleg és vagyonleltár tervezetére vonatkozó könyvvizsgálói jelentést tartalmazó okirat; <ujsor/>
-- Az egyesülésre vonatkozó közlemények megjelenését igazoló lappéldányok kivonatai; <ujsor/>
-- Egyesülési szerzõdés; <ujsor/>
-- Az egyesülés tárgyában a Társaságban hozott felügyelõbizottsági határozatok; <ujsor/>
-- A társaság nyilatkozata arra vonatkozóan, hogy az egyesülésben való részvételét a rá vonatkozó jogszabályok rendelkezései nem zárják ki; <ujsor/>
-- Az igazgatóság írásbeli beszámolója; <ujsor/>
-- Nyilatkozat arra vonatkozóan, hogy az igazgatósági beszámolót a társaság a tagok és a munkavállalók rendelkezésére bocsátotta; <ujsor/>
-- Az egyesülési szerzõdés közös tervezetének közzétételére vonatkozó közlemény megjelenését igazoló lappéldány kivonata; <ujsor/>
-- A társaság nyilatkozata, hogy a Tanácsnak a vállalkozások közötti összefonódások ellenõrzésérõl szóló 139/2004/EK (2004. január 20.) rendelet szerinti bejelentésre nincsen szükség; <ujsor/>
-- Nyilatkozat arra vonatkozóan, hogy a munkavállalók részvételét az egyesülést követõen a jogutód ING Bank N .V . döntéshozatali rendjében a 2006. évi IV . tv. ( Gt ) vonatkozó rendelkezései alapján biztosítják.<ujsor/>
-- A Pénzügyi Szervezetek Állami Felügyeletének az ING Bank Zrt . Anyavállalatába, az ING Bank N.V.- be történõ beolvadására vonatkozó engedélye; <ujsor/>
-- Az egyesülési szerzõdésre vonatkozó könyvvizsgálói jelentést tartalmazó okirat; <ujsor/>
-- A vezetõ tisztségviselõk írásbeli beszámolójára vonatkozó könyvvizsgálói jelentést tartalmazó okirat; <ujsor/>
-- Ügyvédi meghatalmazás; <ujsor/>
-- 50.000.- Ft eljárási illeték megfizetésének igazolása; <ujsor/>
-A kérelmet a bíróság megalapozottnak találta. Határozatát a 2007. évi CXL . törvény 6. § - a és 12. § /3/bekezdése alapján valamint a 2005/56/EK irányelvére is figyelemmel hozta meg. <ujsor/>
-A végzés ellen fellebbezésnek nincs helye. A végzés vagy az annak meghozatala alapjául szolgáló iratok jogszabályba ütközése miatt az ügyész, valamint az, akire a végzés rendelkezést tartalmaz - a rendelkezés õt érintõ részére vonatkozóan - pert indíthat a cég ellen a végzés hatályon kívül helyezése iránt a cég székhelye szerint illetékes megyei bíróság elõtt. A per megindításának a végzés Cégközlönyben való közzétételétõl számított harminc napon belül van helye. A határidõ elmulasztása jogvesztéssel jár.<ujsor/>
+<mezo id = "szoveg">A cÃ©gbÃ­rÃ³sÃ¡g tanÃºsÃ­tja, hogy a Cg.01-10-041684 szÃ¡mon bejegyzett ING Bank ZÃ¡rkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (szÃ©khely:1068 Budapest DÃ³zsa GyÃ¶rgy Ãºt 84.b .Ã©p .) az ING Bank N.V . (szÃ©khely: NL-1081 Amsterdam, Amstelveenseweg 500.; cg.33031431 ) hatÃ¡rokon Ã¡tnyÃºlÃ³ egyesÃ¼lÃ©s ÃºtjÃ¡n lÃ©trehozni kÃ­vÃ¡nt cÃ©g alapÃ­tÃ¡sÃ¡val Ã¶sszefÃ¼ggÅ‘, az Ã¡talakulÃ¡s idÅ‘pontjÃ¡t megelÅ‘zÅ‘en Å‘t terhelÅ‘ jogszabÃ¡lyi kÃ¶telezettsÃ©geinek eleget tett. <ujsor/>
+KÃ©relmezÅ‘ kÃ©relmÃ©hez az alÃ¡bbi iratokat csatolta: <ujsor/>
+- Az egyesÃ¼lÃ©s tÃ¡rgyÃ¡ban a tÃ¡rsasÃ¡gban hozott alapÃ­tÃ³i hatÃ¡rozatok; <ujsor/>
+- Nyilatkozat arrÃ³l, hogy a munkavÃ¡llalÃ³i Ã©rdekkÃ©pviseletet az egyesÃ¼lÃ©s elhatÃ¡rozÃ¡sÃ¡rÃ³l az igazgatÃ³sÃ¡g tÃ¡jÃ©koztatta; <ujsor/>
+- A tÃ¡rsasÃ¡g vagyonmÃ©rleg Ã©s vagyonleltÃ¡r tervezete; <ujsor/>
+- A tÃ¡rsasÃ¡g vagyonmÃ©rleg Ã©s vagyonleltÃ¡r tervezetÃ©re vonatkozÃ³ kÃ¶nyvvizsgÃ¡lÃ³i jelentÃ©st tartalmazÃ³ okirat; <ujsor/>
+- Az egyesÃ¼lÃ©sre vonatkozÃ³ kÃ¶zlemÃ©nyek megjelenÃ©sÃ©t igazolÃ³ lappÃ©ldÃ¡nyok kivonatai; <ujsor/>
+- EgyesÃ¼lÃ©si szerzÅ‘dÃ©s; <ujsor/>
+- Az egyesÃ¼lÃ©s tÃ¡rgyÃ¡ban a TÃ¡rsasÃ¡gban hozott felÃ¼gyelÅ‘bizottsÃ¡gi hatÃ¡rozatok; <ujsor/>
+- A tÃ¡rsasÃ¡g nyilatkozata arra vonatkozÃ³an, hogy az egyesÃ¼lÃ©sben valÃ³ rÃ©szvÃ©telÃ©t a rÃ¡ vonatkozÃ³ jogszabÃ¡lyok rendelkezÃ©sei nem zÃ¡rjÃ¡k ki; <ujsor/>
+- Az igazgatÃ³sÃ¡g Ã­rÃ¡sbeli beszÃ¡molÃ³ja; <ujsor/>
+- Nyilatkozat arra vonatkozÃ³an, hogy az igazgatÃ³sÃ¡gi beszÃ¡molÃ³t a tÃ¡rsasÃ¡g a tagok Ã©s a munkavÃ¡llalÃ³k rendelkezÃ©sÃ©re bocsÃ¡totta; <ujsor/>
+- Az egyesÃ¼lÃ©si szerzÅ‘dÃ©s kÃ¶zÃ¶s tervezetÃ©nek kÃ¶zzÃ©tÃ©telÃ©re vonatkozÃ³ kÃ¶zlemÃ©ny megjelenÃ©sÃ©t igazolÃ³ lappÃ©ldÃ¡ny kivonata; <ujsor/>
+- A tÃ¡rsasÃ¡g nyilatkozata, hogy a TanÃ¡csnak a vÃ¡llalkozÃ¡sok kÃ¶zÃ¶tti Ã¶sszefonÃ³dÃ¡sok ellenÅ‘rzÃ©sÃ©rÅ‘l szÃ³lÃ³ 139/2004/EK (2004. januÃ¡r 20.) rendelet szerinti bejelentÃ©sre nincsen szÃ¼ksÃ©g; <ujsor/>
+- Nyilatkozat arra vonatkozÃ³an, hogy a munkavÃ¡llalÃ³k rÃ©szvÃ©telÃ©t az egyesÃ¼lÃ©st kÃ¶vetÅ‘en a jogutÃ³d ING Bank N .V . dÃ¶ntÃ©shozatali rendjÃ©ben a 2006. Ã©vi IV . tv. ( Gt ) vonatkozÃ³ rendelkezÃ©sei alapjÃ¡n biztosÃ­tjÃ¡k.<ujsor/>
+- A PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyeletÃ©nek az ING Bank Zrt . AnyavÃ¡llalatÃ¡ba, az ING Bank N.V.- be tÃ¶rtÃ©nÅ‘ beolvadÃ¡sÃ¡ra vonatkozÃ³ engedÃ©lye; <ujsor/>
+- Az egyesÃ¼lÃ©si szerzÅ‘dÃ©sre vonatkozÃ³ kÃ¶nyvvizsgÃ¡lÃ³i jelentÃ©st tartalmazÃ³ okirat; <ujsor/>
+- A vezetÅ‘ tisztsÃ©gviselÅ‘k Ã­rÃ¡sbeli beszÃ¡molÃ³jÃ¡ra vonatkozÃ³ kÃ¶nyvvizsgÃ¡lÃ³i jelentÃ©st tartalmazÃ³ okirat; <ujsor/>
+- ÃœgyvÃ©di meghatalmazÃ¡s; <ujsor/>
+- 50.000.- Ft eljÃ¡rÃ¡si illetÃ©k megfizetÃ©sÃ©nek igazolÃ¡sa; <ujsor/>
+A kÃ©relmet a bÃ­rÃ³sÃ¡g megalapozottnak talÃ¡lta. HatÃ¡rozatÃ¡t a 2007. Ã©vi CXL . tÃ¶rvÃ©ny 6. Â§ - a Ã©s 12. Â§ /3/bekezdÃ©se alapjÃ¡n valamint a 2005/56/EK irÃ¡nyelvÃ©re is figyelemmel hozta meg. <ujsor/>
+A vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye. A vÃ©gzÃ©s vagy az annak meghozatala alapjÃ¡ul szolgÃ¡lÃ³ iratok jogszabÃ¡lyba Ã¼tkÃ¶zÃ©se miatt az Ã¼gyÃ©sz, valamint az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s Å‘t Ã©rintÅ‘ rÃ©szÃ©re vonatkozÃ³an - pert indÃ­that a cÃ©g ellen a vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt a cÃ©g szÃ©khelye szerint illetÃ©kes megyei bÃ­rÃ³sÃ¡g elÅ‘tt. A per megindÃ­tÃ¡sÃ¡nak a vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott harminc napon belÃ¼l van helye. A hatÃ¡ridÅ‘ elmulasztÃ¡sa jogvesztÃ©ssel jÃ¡r.<ujsor/>
 2008. 09. 18.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110041684</mezo>
-<mezo id = "nev">ING Bank zártkörûen mûködõ részvénytársaság</mezo>
-<mezo id = "cim">1068 Budapest, Dózsa György út 84. b. ép .</mezo>
+<mezo id = "nev">ING Bank zÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ rÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1068 Budapest, DÃ³zsa GyÃ¶rgy Ãºt 84. b. Ã©p .</mezo>
 <mezo id = "adosz">10613751244</mezo>
 </alrovat>
 <alrovat id = "16">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A cég átalakulás miatt a cégjegyzékbõl törölve.<ujsor/>
-A törlés kelte: 2008. 09. 30.<ujsor/>
-Jogutód(ok):<ujsor/>
- ING Bank N. V. Cg. 33. 031. 431 1102 MG Amsterdam Zuidoost , Bijlmerplain 888. (2007. évi CXL . tv. alapján ).<ujsor/>
- Az átalakulás cég által meghat. idõpontja: 2008. 09. 30.<ujsor/>
-A fenti adat(ok) bejegyzése és közzététele<ujsor/>
-a következõ okirat(ok) alapján történt:<ujsor/>
-bírósági határozat.<ujsor/>
-Az okirat(ok) a cég cégjegyzékét vezetõ<ujsor/>
-cégbíróságon megtekinthetõk.<ujsor/>
+<mezo id = "szoveg">A cÃ©g Ã¡talakulÃ¡s miatt a cÃ©gjegyzÃ©kbÅ‘l tÃ¶rÃ¶lve.<ujsor/>
+A tÃ¶rlÃ©s kelte: 2008. 09. 30.<ujsor/>
+JogutÃ³d(ok):<ujsor/>
+ ING Bank N. V. Cg. 33. 031. 431 1102 MG Amsterdam Zuidoost , Bijlmerplain 888. (2007. Ã©vi CXL . tv. alapjÃ¡n ).<ujsor/>
+ Az Ã¡talakulÃ¡s cÃ©g Ã¡ltal meghat. idÅ‘pontja: 2008. 09. 30.<ujsor/>
+A fenti adat(ok) bejegyzÃ©se Ã©s kÃ¶zzÃ©tÃ©tele<ujsor/>
+a kÃ¶vetkezÅ‘ okirat(ok) alapjÃ¡n tÃ¶rtÃ©nt:<ujsor/>
+bÃ­rÃ³sÃ¡gi hatÃ¡rozat.<ujsor/>
+Az okirat(ok) a cÃ©g cÃ©gjegyzÃ©kÃ©t vezetÅ‘<ujsor/>
+cÃ©gbÃ­rÃ³sÃ¡gon megtekinthetÅ‘k.<ujsor/>
 Bejegyezve: 2008. 10. 30.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110041684</mezo>
-<mezo id = "nev">ING Bank zártkörûen mûködõ részvénytársaság</mezo>
-<mezo id = "cim">1068 Budapest, Dózsa György út 84. b. ép .</mezo>
+<mezo id = "nev">ING Bank zÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ rÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1068 Budapest, DÃ³zsa GyÃ¶rgy Ãºt 84. b. Ã©p .</mezo>
 <mezo id = "adosz">10613751244</mezo>
 </alrovat>
 </rovat>

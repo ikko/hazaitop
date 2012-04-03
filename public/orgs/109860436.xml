@@ -6,7 +6,7 @@
 <mezo id = "szam">860436</mezo>
 <mezo id = "nevalrovat">1</mezo>
 <mezo id = "regi_szh">1309087336</mezo>
-<mezo id = "cim">1116 Budapest, Kondorosi út 3. </mezo>
+<mezo id = "cim">1116 Budapest, Kondorosi Ãºt 3. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">11978534243</mezo>
 </alrovat>
@@ -14,13 +14,13 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20000502</mezo>
-<mezo id = "nev">Dr. Schumacher Magyarország Ipari, Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Dr. Schumacher MagyarorszÃ¡g Ipari, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">20000502</mezo>
-<mezo id = "nev">Dr. Schumacher Magyarország Kft.</mezo>
+<mezo id = "nev">Dr. Schumacher MagyarorszÃ¡g Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
@@ -28,7 +28,7 @@
 <mezo id = "hattol">20110126</mezo>
 <mezo id = "irsz">1116</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Kondorosi út 3.</mezo>
+<mezo id = "teru">Kondorosi Ãºt 3.</mezo>
 <mezo id = "valtk">20110126</mezo>
 <mezo id = "bkelt">20110317</mezo>
 </alrovat>
@@ -795,9 +795,9 @@
 <rovat id = "13">
 <alrovat id = "9">
 <mezo id = "hattol">20100701</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Túri Gábor</mezo>
-<mezo id = "panev">Széchy Éva</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">TÃºri GÃ¡bor</mezo>
+<mezo id = "panev">SzÃ©chy Ã‰va</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100701</mezo>
 <mezo id = "valtk">20100701</mezo>
@@ -809,10 +809,10 @@
 <alrovat id = "1">
 <mezo id = "hattol">20110511</mezo>
 <mezo id = "pnev">Poesz Csaba</mezo>
-<mezo id = "panev">Tóth Katalin</mezo>
+<mezo id = "panev">TÃ³th Katalin</mezo>
 <mezo id = "pirsz">1161</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Rákospalotai határ út 33.</mezo>
+<mezo id = "pteru">RÃ¡kospalotai hatÃ¡r Ãºt 33.</mezo>
 <mezo id = "jogvk">20110511</mezo>
 <mezo id = "jogvv">20110630</mezo>
 <mezo id = "valtk">20110511</mezo>
@@ -830,7 +830,7 @@
 <mezo id = "adosz">11978534243</mezo>
 <mezo id = "kadosz">HU11978534</mezo>
 <mezo id = "bkelt">20110715</mezo>
-<mezo id = "megj">Státusz kezdete: 2000/03/01</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 2000/03/01</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0109">
@@ -840,7 +840,7 @@
 <mezo id = "panev">Rosemarie Bressler</mezo>
 <mezo id = "pkorsz">DE</mezo>
 <mezo id = "pkirsz">34277</mezo>
-<mezo id = "pkhely">Fuldabrück (Dörnhagen)</mezo>
+<mezo id = "pkhely">FuldabrÃ¼ck (DÃ¶rnhagen)</mezo>
 <mezo id = "pkteru">Rundstrasse 51.</mezo>
 <mezo id = "tagsk">20000224</mezo>
 <mezo id = "valtk">20110126</mezo>
@@ -848,8 +848,8 @@
 </alrovat>
 <alrovat id = "13">
 <mezo id = "hattol">20110511</mezo>
-<mezo id = "pnev">Szász Márton József</mezo>
-<mezo id = "panev">Barabás Erzsébet</mezo>
+<mezo id = "pnev">SzÃ¡sz MÃ¡rton JÃ³zsef</mezo>
+<mezo id = "panev">BarabÃ¡s ErzsÃ©bet</mezo>
 <mezo id = "pirsz">6400</mezo>
 <mezo id = "phely">Kiskunhalas</mezo>
 <mezo id = "pteru">Juhar utca 17.</mezo>
@@ -859,22 +859,22 @@
 </alrovat>
 <alrovat id = "14">
 <mezo id = "hattol">20110511</mezo>
-<mezo id = "pnev">Túri Miklós</mezo>
-<mezo id = "panev">Széchy Éva</mezo>
+<mezo id = "pnev">TÃºri MiklÃ³s</mezo>
+<mezo id = "panev">SzÃ©chy Ã‰va</mezo>
 <mezo id = "pirsz">2013</mezo>
-<mezo id = "phely">Pomáz</mezo>
-<mezo id = "pteru">Móra Ferenc utca 6. II. em. 8.</mezo>
+<mezo id = "phely">PomÃ¡z</mezo>
+<mezo id = "pteru">MÃ³ra Ferenc utca 6. II. em. 8.</mezo>
 <mezo id = "tagsk">20110511</mezo>
 <mezo id = "valtk">20110511</mezo>
 <mezo id = "bkelt">20110711</mezo>
 </alrovat>
 <alrovat id = "15">
 <mezo id = "hattol">20110511</mezo>
-<mezo id = "pnev">Túri Gábor</mezo>
-<mezo id = "panev">Széchy Éva</mezo>
+<mezo id = "pnev">TÃºri GÃ¡bor</mezo>
+<mezo id = "panev">SzÃ©chy Ã‰va</mezo>
 <mezo id = "pirsz">2096</mezo>
-<mezo id = "phely">Üröm</mezo>
-<mezo id = "pteru">Rákóczi utca 20.</mezo>
+<mezo id = "phely">ÃœrÃ¶m</mezo>
+<mezo id = "pteru">RÃ¡kÃ³czi utca 20.</mezo>
 <mezo id = "tagsk">20110511</mezo>
 <mezo id = "valtk">20110511</mezo>
 <mezo id = "bkelt">20110711</mezo>

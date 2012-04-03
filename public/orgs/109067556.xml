@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">067556</mezo>
 <mezo id = "nevalrovat">2</mezo>
-<mezo id = "cim">1028 Budapest, Hidegkúti út 102. </mezo>
+<mezo id = "cim">1028 Budapest, HidegkÃºti Ãºt 102. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">10361124241</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">19910624</mezo>
-<mezo id = "nev">AGRO-LARGO Mezõgazdasági és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">AGRO-LARGO MezÅ‘gazdasÃ¡gi Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -25,7 +25,7 @@
 <rovat id = "4">
 <alrovat id = "2">
 <mezo id = "hattol">19910624</mezo>
-<mezo id = "nev">Olaszul: AGRO-LARGO Societa a Responsabilita Limitada di Agricultura e Commercio Röviden: AGRO-LARGO S.r.l.</mezo>
+<mezo id = "nev">Olaszul: AGRO-LARGO Societa a Responsabilita Limitada di Agricultura e Commercio RÃ¶viden: AGRO-LARGO S.r.l.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
@@ -33,7 +33,7 @@
 <mezo id = "hattol">20041101</mezo>
 <mezo id = "irsz">1028</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Hidegkúti út 102.</mezo>
+<mezo id = "teru">HidegkÃºti Ãºt 102.</mezo>
 <mezo id = "kirsz">0</mezo>
 </alrovat>
 </rovat>
@@ -41,7 +41,7 @@
 <alrovat id = "3">
 <mezo id = "hattol">19980928</mezo>
 <mezo id = "irsz">8798</mezo>
-<mezo id = "hely">Zalabér</mezo>
+<mezo id = "hely">ZalabÃ©r</mezo>
 <mezo id = "teru">Hunyadi</mezo>
 <mezo id = "terj">u</mezo>
 <mezo id = "hsz">6</mezo>
@@ -649,19 +649,19 @@
 <rovat id = "13">
 <alrovat id = "4">
 <mezo id = "hattol">20010601</mezo>
-<mezo id = "tiszt">ügyvezetõ</mezo>
-<mezo id = "pnev">Patakfalvi Pál</mezo>
+<mezo id = "tiszt">Ã¼gyvezetÅ‘</mezo>
+<mezo id = "pnev">Patakfalvi PÃ¡l</mezo>
 <mezo id = "panev">Klemm Julianna</mezo>
 <mezo id = "pirsz">7890</mezo>
-<mezo id = "phely">Zalaszentgrót</mezo>
-<mezo id = "pteru">Bartók Béla u. 14.</mezo>
+<mezo id = "phely">ZalaszentgrÃ³t</mezo>
+<mezo id = "pteru">BartÃ³k BÃ©la u. 14.</mezo>
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">20070919</mezo>
-<mezo id = "pnev">Patakfalvi Péter</mezo>
+<mezo id = "pnev">Patakfalvi PÃ©ter</mezo>
 <mezo id = "panev">Klemm Julianna</mezo>
 <mezo id = "pirsz">1029</mezo>
-<mezo id = "phely">Budapest, Hársalja u. 4.</mezo>
+<mezo id = "phely">Budapest, HÃ¡rsalja u. 4.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">d</mezo>
 <mezo id = "jogvk">20070919</mezo>
@@ -675,8 +675,8 @@
 <rovat id = "14">
 <alrovat id = "2">
 <mezo id = "hattol">20070919</mezo>
-<mezo id = "pnev">Taga Györgyné</mezo>
-<mezo id = "panev">Tóth Magdolna</mezo>
+<mezo id = "pnev">Taga GyÃ¶rgynÃ©</mezo>
+<mezo id = "panev">TÃ³th Magdolna</mezo>
 <mezo id = "pirsz">1037</mezo>
 <mezo id = "phely">Budapest, Aranypatak u. 73.</mezo>
 <mezo id = "jogvk">20070919</mezo>
@@ -708,27 +708,27 @@
 <rovat id = "0109">
 <alrovat id = "13">
 <mezo id = "hattol">20010601</mezo>
-<mezo id = "pnev">Patakfalvi Pál</mezo>
+<mezo id = "pnev">Patakfalvi PÃ¡l</mezo>
 <mezo id = "panev">Klemm Julianna</mezo>
 <mezo id = "pirsz">7890</mezo>
-<mezo id = "phely">Zalaszentgrót, Bartók Béla u. 14.</mezo>
+<mezo id = "phely">ZalaszentgrÃ³t, BartÃ³k BÃ©la u. 14.</mezo>
 </alrovat>
 <alrovat id = "14">
 <mezo id = "hattol">20020917</mezo>
 <mezo id = "j">x</mezo>
-<mezo id = "pnev">Patakfalvi Péter</mezo>
+<mezo id = "pnev">Patakfalvi PÃ©ter</mezo>
 <mezo id = "panev">Klemm Julianna</mezo>
 <mezo id = "pirsz">1029</mezo>
-<mezo id = "phely">Budapest, Hársalja u. 4.</mezo>
+<mezo id = "phely">Budapest, HÃ¡rsalja u. 4.</mezo>
 </alrovat>
 <alrovat id = "15">
 <mezo id = "hattol">20070919</mezo>
 <mezo id = "cgjsz">109067556</mezo>
-<mezo id = "nev">AGRO-LARGO Mezõgazdasági és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">AGRO-LARGO MezÅ‘gazdasÃ¡gi Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1028</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Hidegkúti út</mezo>
+<mezo id = "teru">HidegkÃºti Ãºt</mezo>
 <mezo id = "hsz">102.</mezo>
 <mezo id = "tagsk">20070919</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -747,79 +747,79 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Fõvárosi Bíróság 01 09 067556<ujsor/>
-ARGO-TRADE Mezõgazdasági és Kereskedelmi Korlátolt Felelõsségû Társaság<ujsor/>
-A bíróság a bejegyzést elrendelõ végzését az alábbiak szerint egészíti ki:<ujsor/>
-9. A cég további tevékenységi körei:<ujsor/>
-5211 Áruk, mûszaki-szellemi termékek és szolgáltatások külkereskedelme. (511/2281/1990., 1990. 06. 04.)<ujsor/>
-5212 Külkereskedelmi fõvállalkozási tevékenység. (511/2281/1990., 1990. 06. 04.)<ujsor/>
-5213 Külkereskedelmi képviseleti, ügynöki tevékenység. (511/2281/1990., 1990. 06. 04.)<ujsor/>
-5219 Egyéb külkereskedelmi szolgáltatás. (511/2281/1990., 1990. 06. 04.)<ujsor/>
-7221 Termelõeszköz kölcsönzése, lízing.<ujsor/>
-7222 Anyagi jellegû egyéb tevékenység.<ujsor/>
-7413 Tárolás, raktározás, ingatlanõrzés.<ujsor/>
-7414 Csomagolás, anyagmozgatás.<ujsor/>
-7415 Hirdetés, propaganda, reklámtevékenység, kiállításszervezés, piackutatás.<ujsor/>
-7419 Mérési tevékenység.<ujsor/>
-7623 Parkosítás, egyéb zöldterületek fenntartása.<ujsor/>
-7719 Egyéb környezet- és természetvédelem.<ujsor/>
-8452 Tanfolyami egyéb szakmai oktatás.<ujsor/>
-9131 Mezõgazdasági kutatás, kísérleti fejlesztés.<ujsor/>
-9151 Kereskedelemmel kapcsolatos kutatás, kísérleti fejlesztés.<ujsor/>
-9173 Környezet- és természetvédelemmel kapcsolatos kutatás, kísérleti fejlesztés.<ujsor/>
+<mezo id = "szoveg">FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g 01 09 067556<ujsor/>
+ARGO-TRADE MezÅ‘gazdasÃ¡gi Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g<ujsor/>
+A bÃ­rÃ³sÃ¡g a bejegyzÃ©st elrendelÅ‘ vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint egÃ©szÃ­ti ki:<ujsor/>
+9. A cÃ©g tovÃ¡bbi tevÃ©kenysÃ©gi kÃ¶rei:<ujsor/>
+5211 Ãruk, mÅ±szaki-szellemi termÃ©kek Ã©s szolgÃ¡ltatÃ¡sok kÃ¼lkereskedelme. (511/2281/1990., 1990. 06. 04.)<ujsor/>
+5212 KÃ¼lkereskedelmi fÅ‘vÃ¡llalkozÃ¡si tevÃ©kenysÃ©g. (511/2281/1990., 1990. 06. 04.)<ujsor/>
+5213 KÃ¼lkereskedelmi kÃ©pviseleti, Ã¼gynÃ¶ki tevÃ©kenysÃ©g. (511/2281/1990., 1990. 06. 04.)<ujsor/>
+5219 EgyÃ©b kÃ¼lkereskedelmi szolgÃ¡ltatÃ¡s. (511/2281/1990., 1990. 06. 04.)<ujsor/>
+7221 TermelÅ‘eszkÃ¶z kÃ¶lcsÃ¶nzÃ©se, lÃ­zing.<ujsor/>
+7222 Anyagi jellegÅ± egyÃ©b tevÃ©kenysÃ©g.<ujsor/>
+7413 TÃ¡rolÃ¡s, raktÃ¡rozÃ¡s, ingatlanÅ‘rzÃ©s.<ujsor/>
+7414 CsomagolÃ¡s, anyagmozgatÃ¡s.<ujsor/>
+7415 HirdetÃ©s, propaganda, reklÃ¡mtevÃ©kenysÃ©g, kiÃ¡llÃ­tÃ¡sszervezÃ©s, piackutatÃ¡s.<ujsor/>
+7419 MÃ©rÃ©si tevÃ©kenysÃ©g.<ujsor/>
+7623 ParkosÃ­tÃ¡s, egyÃ©b zÃ¶ldterÃ¼letek fenntartÃ¡sa.<ujsor/>
+7719 EgyÃ©b kÃ¶rnyezet- Ã©s termÃ©szetvÃ©delem.<ujsor/>
+8452 Tanfolyami egyÃ©b szakmai oktatÃ¡s.<ujsor/>
+9131 MezÅ‘gazdasÃ¡gi kutatÃ¡s, kÃ­sÃ©rleti fejlesztÃ©s.<ujsor/>
+9151 Kereskedelemmel kapcsolatos kutatÃ¡s, kÃ­sÃ©rleti fejlesztÃ©s.<ujsor/>
+9173 KÃ¶rnyezet- Ã©s termÃ©szetvÃ©delemmel kapcsolatos kutatÃ¡s, kÃ­sÃ©rleti fejlesztÃ©s.<ujsor/>
 1990. 10. 18.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109067556</mezo>
-<mezo id = "nev">AGRO-LARGO Mezõgazdasági és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">AGRO-LARGO MezÅ‘gazdasÃ¡gi Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az AGRO-LARGO Mezõgazdasági és Kereskedelmi Korlátolt Felelõsségû Társaságban (Cg.: [01 09 067556]; székhely: 1208 Budapest, Máriaremetei út 10.) a társaság korábbi 50%-os tulajdonosa, a CENTRO MIGLIORAMENTO GENETICO PIANTE AGRARIE SRL. (Olaszország, Tombolo Via A. Mantegna 12.) 2000. március 5-én kelt üzletrész-adásvételi szerzõdés alapján megszerezte a társaság üzletrészei 90%-a tulajdonjogát, így a társaság felett közvetlen irányítást biztosító befolyással rendelkezik.<ujsor/>
-A társaság felhívja hitelezõit, hogy a Gt. 296. § (2) bekezdése szerinti jogaikat gyakorolhatják.<ujsor/>
+<mezo id = "szoveg">Az AGRO-LARGO MezÅ‘gazdasÃ¡gi Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gban (Cg.: [01 09 067556]; szÃ©khely: 1208 Budapest, MÃ¡riaremetei Ãºt 10.) a tÃ¡rsasÃ¡g korÃ¡bbi 50%-os tulajdonosa, a CENTRO MIGLIORAMENTO GENETICO PIANTE AGRARIE SRL. (OlaszorszÃ¡g, Tombolo Via A. Mantegna 12.) 2000. mÃ¡rcius 5-Ã©n kelt Ã¼zletrÃ©sz-adÃ¡svÃ©teli szerzÅ‘dÃ©s alapjÃ¡n megszerezte a tÃ¡rsasÃ¡g Ã¼zletrÃ©szei 90%-a tulajdonjogÃ¡t, Ã­gy a tÃ¡rsasÃ¡g felett kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡ssal rendelkezik.<ujsor/>
+A tÃ¡rsasÃ¡g felhÃ­vja hitelezÅ‘it, hogy a Gt. 296. Â§ (2) bekezdÃ©se szerinti jogaikat gyakorolhatjÃ¡k.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109067556</mezo>
-<mezo id = "nev">AGRO-LARGO Mezõgazdasági és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">AGRO-LARGO MezÅ‘gazdasÃ¡gi Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az AGRO-LARGO Mezõgazdasági és Kereskedelmi Korlátolt Felelõsségû Társaságban (Cg.: [01 09 067556]; székhely: 1028 Budapest, Mániaremetei út 10.) a Ceccato Sementi S.N.C, di Ceccato Giuseppe e Franco cég [Olaszország, Tombolo (PD), Via Mantegna 44. cap. 35019] 2000. december 28-án kelt üzletrész-adásvételi szerzõdés alapján megszerezte a társaság üzletrészei 50%-os tulajdonjogát, így a társaság felett jelentõs befolyással rendelkezik.<ujsor/>
+<mezo id = "szoveg">Az AGRO-LARGO MezÅ‘gazdasÃ¡gi Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gban (Cg.: [01 09 067556]; szÃ©khely: 1028 Budapest, MÃ¡niaremetei Ãºt 10.) a Ceccato Sementi S.N.C, di Ceccato Giuseppe e Franco cÃ©g [OlaszorszÃ¡g, Tombolo (PD), Via Mantegna 44. cap. 35019] 2000. december 28-Ã¡n kelt Ã¼zletrÃ©sz-adÃ¡svÃ©teli szerzÅ‘dÃ©s alapjÃ¡n megszerezte a tÃ¡rsasÃ¡g Ã¼zletrÃ©szei 50%-os tulajdonjogÃ¡t, Ã­gy a tÃ¡rsasÃ¡g felett jelentÅ‘s befolyÃ¡ssal rendelkezik.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109067556</mezo>
-<mezo id = "nev">AGRO-LARGO Mezõgazdasági és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">AGRO-LARGO MezÅ‘gazdasÃ¡gi Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az AGRO-LARGO Mezõgazdasági és Kereskedelmi Korlátolt Felelõsségû Társaságban (Cg.: [01 09 067556]; székhely: 1028 Budapest, Mániaremetei út 10.) Franco Ceccato, Olaszország, Tombolo (PD), Via Sommavilla 13. sz. alatti lakos, 2000. december 22-én kelt üzletrész-adásvételi szerzõdés alapján megszerezte a társaság üzletrészei 40%-os tulajdonjogát, így a társaság felett jelentõs befolyással rendelkezik.<ujsor/>
+<mezo id = "szoveg">Az AGRO-LARGO MezÅ‘gazdasÃ¡gi Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gban (Cg.: [01 09 067556]; szÃ©khely: 1028 Budapest, MÃ¡niaremetei Ãºt 10.) Franco Ceccato, OlaszorszÃ¡g, Tombolo (PD), Via Sommavilla 13. sz. alatti lakos, 2000. december 22-Ã©n kelt Ã¼zletrÃ©sz-adÃ¡svÃ©teli szerzÅ‘dÃ©s alapjÃ¡n megszerezte a tÃ¡rsasÃ¡g Ã¼zletrÃ©szei 40%-os tulajdonjogÃ¡t, Ã­gy a tÃ¡rsasÃ¡g felett jelentÅ‘s befolyÃ¡ssal rendelkezik.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109067556</mezo>
-<mezo id = "nev">AGRO-LARGO Mezõgazdasági és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">AGRO-LARGO MezÅ‘gazdasÃ¡gi Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az AGRO-LARGO Mezõgazdasági és Kereskedelmi Korlátolt Felelõsségû Társaságban (Cg.: [01 09 067556]; székhely: 1028 Budapest, Máriaremetei út 10.) Patakfalvi Péter, 8796 Türje, Árpád u. 13. sz. alatti lakos - 2001. január 10-én kelt üzletrész-adásvételi szerzõdés alapján - megszerezte a társaság üzletrészei 40%-ának tulajdonjogát, így a társaság felett jelentõs befolyással rendelkezik.<ujsor/>
+<mezo id = "szoveg">Az AGRO-LARGO MezÅ‘gazdasÃ¡gi Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gban (Cg.: [01 09 067556]; szÃ©khely: 1028 Budapest, MÃ¡riaremetei Ãºt 10.) Patakfalvi PÃ©ter, 8796 TÃ¼rje, ÃrpÃ¡d u. 13. sz. alatti lakos - 2001. januÃ¡r 10-Ã©n kelt Ã¼zletrÃ©sz-adÃ¡svÃ©teli szerzÅ‘dÃ©s alapjÃ¡n - megszerezte a tÃ¡rsasÃ¡g Ã¼zletrÃ©szei 40%-Ã¡nak tulajdonjogÃ¡t, Ã­gy a tÃ¡rsasÃ¡g felett jelentÅ‘s befolyÃ¡ssal rendelkezik.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109067556</mezo>
-<mezo id = "nev">AGRO-LARGO Mezõgazdasági és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">AGRO-LARGO MezÅ‘gazdasÃ¡gi Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2001. 08. 02-án hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. Patakfalvi Pál (an: Klemm Julianna) ügyvezetõ<ujsor/>
-7890 Zalaszentgrót, Bartók Béla u. 14.<ujsor/>
- Törölve: 2001. 06. 01-i hatállyal.<ujsor/>
- Patakfalvi Péter (an: Klemm Julianna) ügyvezetõ<ujsor/>
-2000 Szentendre, Bükköspart 74/8.<ujsor/>
- Hatályos: 1998. 11. 10-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2001. 08. 02-Ã¡n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. Patakfalvi PÃ¡l (an: Klemm Julianna) Ã¼gyvezetÅ‘<ujsor/>
+7890 ZalaszentgrÃ³t, BartÃ³k BÃ©la u. 14.<ujsor/>
+ TÃ¶rÃ¶lve: 2001. 06. 01-i hatÃ¡llyal.<ujsor/>
+ Patakfalvi PÃ©ter (an: Klemm Julianna) Ã¼gyvezetÅ‘<ujsor/>
+2000 Szentendre, BÃ¼kkÃ¶spart 74/8.<ujsor/>
+ HatÃ¡lyos: 1998. 11. 10-tÅ‘l.<ujsor/>
 Bejegyezve: 2001. 08. 03.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109067556</mezo>
-<mezo id = "nev">AGRO-LARGO Mezõgazdasági és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1028 Budapest, Máriaremetei út 10.</mezo>
+<mezo id = "nev">AGRO-LARGO MezÅ‘gazdasÃ¡gi Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1028 Budapest, MÃ¡riaremetei Ãºt 10.</mezo>
 <mezo id = "adosz">10361124241</mezo>
 </alrovat>
 </rovat>

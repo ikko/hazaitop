@@ -7,7 +7,7 @@
 <mezo id = "nevalrovat">1</mezo>
 <mezo id = "uj_szh">0109884531</mezo>
 <mezo id = "allapot">6</mezo>
-<mezo id = "cim">4184 Tetétlen, Földesi útfél 0153/11 hrsz. </mezo>
+<mezo id = "cim">4184 TetÃ©tlen, FÃ¶ldesi ÃºtfÃ©l 0153/11 hrsz. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">10596766209</mezo>
 </alrovat>
@@ -15,7 +15,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19910901</mezo>
-<mezo id = "nev">&quot;AGROKVALIT&quot; Termelõ, Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">&quot;AGROKVALIT&quot; TermelÅ‘, SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -28,8 +28,8 @@
 <alrovat id = "3">
 <mezo id = "hattol">20060531</mezo>
 <mezo id = "irsz">4184</mezo>
-<mezo id = "hely">Tetétlen</mezo>
-<mezo id = "teru">Földesi útfél 0153/11 hrsz.</mezo>
+<mezo id = "hely">TetÃ©tlen</mezo>
+<mezo id = "teru">FÃ¶ldesi ÃºtfÃ©l 0153/11 hrsz.</mezo>
 <mezo id = "kirsz">0</mezo>
 </alrovat>
 </rovat>
@@ -37,7 +37,7 @@
 <alrovat id = "2">
 <mezo id = "hattol">20061206</mezo>
 <mezo id = "irsz">4183</mezo>
-<mezo id = "hely">Kaba, Daróczi major 070/6 hrsz.</mezo>
+<mezo id = "hely">Kaba, DarÃ³czi major 070/6 hrsz.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20060920</mezo>
 <mezo id = "valtv">0</mezo>
@@ -45,7 +45,7 @@
 <alrovat id = "3">
 <mezo id = "hattol">20061206</mezo>
 <mezo id = "irsz">4183</mezo>
-<mezo id = "hely">Kaba, Rákóczi u. 138.</mezo>
+<mezo id = "hely">Kaba, RÃ¡kÃ³czi u. 138.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20060920</mezo>
 <mezo id = "valtv">0</mezo>
@@ -391,8 +391,8 @@
 <rovat id = "13">
 <alrovat id = "5">
 <mezo id = "hattol">20061206</mezo>
-<mezo id = "pnev">dr. Polgári Zoltán Sándor</mezo>
-<mezo id = "panev">Kovács Mária</mezo>
+<mezo id = "pnev">dr. PolgÃ¡ri ZoltÃ¡n SÃ¡ndor</mezo>
+<mezo id = "panev">KovÃ¡cs MÃ¡ria</mezo>
 <mezo id = "pirsz">1171</mezo>
 <mezo id = "phely">Budapest, Postakocsi utca 4.</mezo>
 <mezo id = "kepvo">x</mezo>
@@ -404,10 +404,10 @@
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20061206</mezo>
-<mezo id = "pnev">Nemes László</mezo>
+<mezo id = "pnev">Nemes LÃ¡szlÃ³</mezo>
 <mezo id = "panev">Nyilas Piroska</mezo>
 <mezo id = "pirsz">4027</mezo>
-<mezo id = "phely">Debrecen, Fáy András u. 45.</mezo>
+<mezo id = "phely">Debrecen, FÃ¡y AndrÃ¡s u. 45.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">d</mezo>
 <mezo id = "jogvk">20040930</mezo>
@@ -420,16 +420,16 @@
 <alrovat id = "4">
 <mezo id = "hattol">20060531</mezo>
 <mezo id = "cgjsz">106519655</mezo>
-<mezo id = "nev">PROFIKON Könyvelõ, Szervezõ, Tanácsadó Betéti Társaság</mezo>
+<mezo id = "nev">PROFIKON KÃ¶nyvelÅ‘, SzervezÅ‘, TanÃ¡csadÃ³ BetÃ©ti TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1144</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Gvadányi u.</mezo>
+<mezo id = "teru">GvadÃ¡nyi u.</mezo>
 <mezo id = "hsz">64.</mezo>
-<mezo id = "pnev">Tóth Zsuzsanna</mezo>
-<mezo id = "panev">Varga Irén</mezo>
+<mezo id = "pnev">TÃ³th Zsuzsanna</mezo>
+<mezo id = "panev">Varga IrÃ©n</mezo>
 <mezo id = "pirsz">1144</mezo>
-<mezo id = "phely">Budapest, Gvadányi u. 64.</mezo>
+<mezo id = "phely">Budapest, GvadÃ¡nyi u. 64.</mezo>
 <mezo id = "jogvk">20060531</mezo>
 <mezo id = "jogvv">20110531</mezo>
 </alrovat>
@@ -438,7 +438,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20050110</mezo>
 <mezo id = "cgjsz">909010962</mezo>
-<mezo id = "nev">KABATEJ Szarvasmarha, Tejtermelõ és Értékesítõ Korlátolt Felelõsségû Társaság /BEOLVADÁS/</mezo>
+<mezo id = "nev">KABATEJ Szarvasmarha, TejtermelÅ‘ Ã©s Ã‰rtÃ©kesÃ­tÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g /BEOLVADÃS/</mezo>
 </alrovat>
 </rovat>
 <rovat id = "20">
@@ -460,8 +460,8 @@
 <rovat id = "0109">
 <alrovat id = "79">
 <mezo id = "hattol">20061206</mezo>
-<mezo id = "pnev">dr. Polgári Zoltán Sándor</mezo>
-<mezo id = "panev">Kovács Mária</mezo>
+<mezo id = "pnev">dr. PolgÃ¡ri ZoltÃ¡n SÃ¡ndor</mezo>
+<mezo id = "panev">KovÃ¡cs MÃ¡ria</mezo>
 <mezo id = "pirsz">1171</mezo>
 <mezo id = "phely">Budapest, Postakocsi utca 4.</mezo>
 <mezo id = "tagsk">20040930</mezo>
@@ -471,10 +471,10 @@
 </alrovat>
 <alrovat id = "80">
 <mezo id = "hattol">20061206</mezo>
-<mezo id = "pnev">Nemes László</mezo>
+<mezo id = "pnev">Nemes LÃ¡szlÃ³</mezo>
 <mezo id = "panev">Nyilas Piroska</mezo>
 <mezo id = "pirsz">4027</mezo>
-<mezo id = "phely">Debrecen, Fáy András u. 45.</mezo>
+<mezo id = "phely">Debrecen, FÃ¡y AndrÃ¡s u. 45.</mezo>
 <mezo id = "tagsk">20040930</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20061206</mezo>
@@ -482,10 +482,10 @@
 </alrovat>
 <alrovat id = "81">
 <mezo id = "hattol">20061206</mezo>
-<mezo id = "pnev">Szõllõsi József közös törzsbetét képviselõ</mezo>
-<mezo id = "panev">Tõkés Jolán</mezo>
+<mezo id = "pnev">SzÅ‘llÅ‘si JÃ³zsef kÃ¶zÃ¶s tÃ¶rzsbetÃ©t kÃ©pviselÅ‘</mezo>
+<mezo id = "panev">TÅ‘kÃ©s JolÃ¡n</mezo>
 <mezo id = "pirsz">4177</mezo>
-<mezo id = "phely">Földes, Petõfi utca 8.</mezo>
+<mezo id = "phely">FÃ¶ldes, PetÅ‘fi utca 8.</mezo>
 <mezo id = "tagsk">19910910</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20061206</mezo>
@@ -493,10 +493,10 @@
 </alrovat>
 <alrovat id = "82">
 <mezo id = "hattol">20061206</mezo>
-<mezo id = "pnev">Tajdi József</mezo>
-<mezo id = "panev">Németh Klára</mezo>
+<mezo id = "pnev">Tajdi JÃ³zsef</mezo>
+<mezo id = "panev">NÃ©meth KlÃ¡ra</mezo>
 <mezo id = "pirsz">4100</mezo>
-<mezo id = "phely">Berettyóújfalu, Móricz Zsigmond utca 7/a.</mezo>
+<mezo id = "phely">BerettyÃ³Ãºjfalu, MÃ³ricz Zsigmond utca 7/a.</mezo>
 <mezo id = "tagsk">19910901</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20061206</mezo>
@@ -504,10 +504,10 @@
 </alrovat>
 <alrovat id = "83">
 <mezo id = "hattol">20061206</mezo>
-<mezo id = "pnev">Bernáth László közös törzsbetét képviselõ</mezo>
-<mezo id = "panev">Baranyi Róza</mezo>
+<mezo id = "pnev">BernÃ¡th LÃ¡szlÃ³ kÃ¶zÃ¶s tÃ¶rzsbetÃ©t kÃ©pviselÅ‘</mezo>
+<mezo id = "panev">Baranyi RÃ³za</mezo>
 <mezo id = "pirsz">4184</mezo>
-<mezo id = "phely">Tetétlen, Kossuth utca 51.</mezo>
+<mezo id = "phely">TetÃ©tlen, Kossuth utca 51.</mezo>
 <mezo id = "tagsk">20040608</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20061206</mezo>
@@ -523,186 +523,186 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Bernáth Imre (a. n.: Baranyi Róza), 4184 Tetétlen, Árpád u. 22/A alatti lakos az 1997. évi CXLIV. törvényben foglaltak szerint bejelenti, hogy az „AGROKVALIT” Termelõ, Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaságban (Cg.: [09 09 001038]; székhelye: 4184 Tetétlen, Földesi útfél) többségi irányítást biztosító befolyással rendelkezik 2004. április 22-tõl, mert törzstõkeemelés következtében a szavazatok 69,99%-ával rendelkezik.<ujsor/>
+<mezo id = "szoveg">BernÃ¡th Imre (a. n.: Baranyi RÃ³za), 4184 TetÃ©tlen, ÃrpÃ¡d u. 22/A alatti lakos az 1997. Ã©vi CXLIV. tÃ¶rvÃ©nyben foglaltak szerint bejelenti, hogy az â€AGROKVALITâ€ TermelÅ‘, SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gban (Cg.: [09 09 001038]; szÃ©khelye: 4184 TetÃ©tlen, FÃ¶ldesi ÃºtfÃ©l) tÃ¶bbsÃ©gi irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡ssal rendelkezik 2004. Ã¡prilis 22-tÅ‘l, mert tÃ¶rzstÅ‘keemelÃ©s kÃ¶vetkeztÃ©ben a szavazatok 69,99%-Ã¡val rendelkezik.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0909001038</mezo>
-<mezo id = "nev">&quot;AGROKVALIT&quot; Termelõ, Szolgáltató és Kereskedelmi Korlátolt Felelõsségü Társaság</mezo>
-<mezo id = "cim">4184 Tetétlen, Földesi Utfél </mezo>
+<mezo id = "nev">&quot;AGROKVALIT&quot; TermelÅ‘, SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÃ¼ TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">4184 TetÃ©tlen, FÃ¶ldesi UtfÃ©l </mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Bernáth Imre (a. n.: Baranyi Róza), 4184 Tetétlen, Árpád u. 22. alatti lakos az 1997. évi CXLIV. törvényben foglaltak szerint bejelenti, hogy az ,,AGROKVALIT” Termelõ, Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaságban (Cg.: [09 09 001038]; székhelye: 4184 Tetétlen, Földesi útfél 0153/9. hrsz.) közvetlen irányítást biztosító befolyással rendelkezik 2004. június 8-tól, mivel üzletrész-átruházás következtében a szavazatok 78,66%-ával rendelkezik.<ujsor/>
-A hitelezõk a Gt. 296. § (2) bekezdése szerinti jogaikat gyakorolhatják.<ujsor/>
+<mezo id = "szoveg">BernÃ¡th Imre (a. n.: Baranyi RÃ³za), 4184 TetÃ©tlen, ÃrpÃ¡d u. 22. alatti lakos az 1997. Ã©vi CXLIV. tÃ¶rvÃ©nyben foglaltak szerint bejelenti, hogy az ,,AGROKVALITâ€ TermelÅ‘, SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gban (Cg.: [09 09 001038]; szÃ©khelye: 4184 TetÃ©tlen, FÃ¶ldesi ÃºtfÃ©l 0153/9. hrsz.) kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡ssal rendelkezik 2004. jÃºnius 8-tÃ³l, mivel Ã¼zletrÃ©sz-Ã¡truhÃ¡zÃ¡s kÃ¶vetkeztÃ©ben a szavazatok 78,66%-Ã¡val rendelkezik.<ujsor/>
+A hitelezÅ‘k a Gt. 296. Â§ (2) bekezdÃ©se szerinti jogaikat gyakorolhatjÃ¡k.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0909001038</mezo>
-<mezo id = "nev">&quot;AGROKVALIT&quot; Termelõ, Szolgáltató és Kereskedelmi Korlátolt Felelõsségü Társaság</mezo>
-<mezo id = "cim">4184 Tetétlen, Földesi Utfél </mezo>
+<mezo id = "nev">&quot;AGROKVALIT&quot; TermelÅ‘, SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÃ¼ TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">4184 TetÃ©tlen, FÃ¶ldesi UtfÃ©l </mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A KABATEJ Szarvasmarha Tejtermelõ és Értékesítõ Korlátolt Felelõsségû Társaság (Cg.: [09 09 010962]; székhely: 4138 Kaba, Daróczy major 070/6. hrsz.), valamint az „AGROKVALIT” Termelõ, Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság (Cg.: [09 09 001038]; 4184 Tetétlen, Földesi útfél 0153/9. hrsz.) 2004. június 15-i taggyûlései elhatározták a két társaság<ujsor/>
-egyesülését<ujsor/>
-akként, hogy a KABATEJ Kft. beolvad az „AGROKVALIT” Kft.-be.<ujsor/>
-Az egyesülés módja: beolvadás.<ujsor/>
-Az egyesülést követõen az „AGROKVALIT” Kft. társasági szerzõdésének módosítását követõen a cég változatlan társasági formában mûködik tovább.<ujsor/>
-A beolvadás következtében a beolvadó KABATEJ Kft. gazdasági társaság vagyona teljes egészében az átvevõ „AGROKVALIT” Kft. gazdasági társaságra száll át, a beolvadó gazdasági társaság pedig megszûnik.<ujsor/>
-A gazdasági társaságok ügyvezetõi 2004. június 30-i fordulónappal elkészítették a társaságok átalakulási vagyonmérleg-tervezeteit és vagyonleltár-tervezeteit, továbbá az „AGROKVALIT” Kft. ügyvezetõje elkészíttette a társaság átalakulás utáni nyitó vagyonmérleg-tervezetét és nyitó vagyonleltár-tervezetét, valamint a társasági szerzõdést módosító okirat tervezetét, és az „AGROKVALIT” Kft. módosításokkal egységes szerkezetbe foglalt társaságiszerzõdés-tervezetét.<ujsor/>
-A társaságok taggyûlései elfogadták továbbá az egyesülési szerzõdést.<ujsor/>
-Az átvevõ „AGROKVALIT” Kft. módosított társasági szerzõdése elfogadásának napja: 2004. szeptember 30.<ujsor/>
-Az „AGROKVALIT” Kft. megállapodást kötött mindazon tagokkal, akik a társaságban az átalakulást követõen részt venni nem kívántak.<ujsor/>
-A beolvadó KABATEJ Szarvasmarha Tejtermelõ és Értékesítõ Kft. 2004. június 30-i fordulónapra készített vagyonmérleg-tervezetének fõbb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 221 783 Saját tõke 19 406<ujsor/>
-Immateriális javak 56 Jegyzett tõke 3 000<ujsor/>
-Tárgyi eszközök 221 547 Tõketartalék 40 394<ujsor/>
-Befektetett pénzügyi eszközök 180 Eredménytartalék ­23 988<ujsor/>
-Forgóeszközök 189 862 Kötelezettségek 391 828<ujsor/>
-Készletek 136 113 Hosszú lejáratú kötelezettségek 144 264<ujsor/>
-Követelések 51 492 Rövid lejáratú kötelezettségek 247 564<ujsor/>
-Pénzeszközök 2 257 Passzív idõbeli elhatárolások 411<ujsor/>
-Aktív idõbeli elhatárolások ­<ujsor/>
-ÖSSZESEN: 411 645 ÖSSZESEN: 411 645<ujsor/>
-Az átvevõ „AGROKVALIT” Termelõ, Szolgáltató és Kereskedelmi Kft. 2004. június 30-i fordulónappal készített vagyonmérleg-tervezetének fõbb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 199 018 Saját tõke 208 844<ujsor/>
-Immateriális javak 358 Jegyzett tõke 42 920<ujsor/>
-Tárgyi eszközök 197 461 Tõketartalék 95 089<ujsor/>
-Befektetett pénzügyi eszközök 1 199 Eredménytartalék 56 219<ujsor/>
-Forgóeszközök 221 288 Lekötött tartalék 14 616<ujsor/>
-Készletek 172 075 Kötelezettségek 210 468<ujsor/>
-Követelések 26 617 Hosszú lejáratú kötelezettségek 86 567<ujsor/>
-Értékpapírok 585 Rövid lejáratú kötelezettségek 123 901<ujsor/>
-Pénzeszközök 22 011 Passzív idõbeli elhatárolások 944<ujsor/>
-Aktív idõbeli elhatárolások ­<ujsor/>
-ÖSSZESEN: 420 306 ÖSSZESEN: 420 306<ujsor/>
-Az átvevõ „AGROKVALIT” Kft. nyitó vagyonmérleg-tervezetének fõbb adatai az átalakulást követõen:<ujsor/>
+<mezo id = "szoveg">A KABATEJ Szarvasmarha TejtermelÅ‘ Ã©s Ã‰rtÃ©kesÃ­tÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [09 09 010962]; szÃ©khely: 4138 Kaba, DarÃ³czy major 070/6. hrsz.), valamint az â€AGROKVALITâ€ TermelÅ‘, SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [09 09 001038]; 4184 TetÃ©tlen, FÃ¶ldesi ÃºtfÃ©l 0153/9. hrsz.) 2004. jÃºnius 15-i taggyÅ±lÃ©sei elhatÃ¡roztÃ¡k a kÃ©t tÃ¡rsasÃ¡g<ujsor/>
+egyesÃ¼lÃ©sÃ©t<ujsor/>
+akkÃ©nt, hogy a KABATEJ Kft. beolvad az â€AGROKVALITâ€ Kft.-be.<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: beolvadÃ¡s.<ujsor/>
+Az egyesÃ¼lÃ©st kÃ¶vetÅ‘en az â€AGROKVALITâ€ Kft. tÃ¡rsasÃ¡gi szerzÅ‘dÃ©sÃ©nek mÃ³dosÃ­tÃ¡sÃ¡t kÃ¶vetÅ‘en a cÃ©g vÃ¡ltozatlan tÃ¡rsasÃ¡gi formÃ¡ban mÅ±kÃ¶dik tovÃ¡bb.<ujsor/>
+A beolvadÃ¡s kÃ¶vetkeztÃ©ben a beolvadÃ³ KABATEJ Kft. gazdasÃ¡gi tÃ¡rsasÃ¡g vagyona teljes egÃ©szÃ©ben az Ã¡tvevÅ‘ â€AGROKVALITâ€ Kft. gazdasÃ¡gi tÃ¡rsasÃ¡gra szÃ¡ll Ã¡t, a beolvadÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g pedig megszÅ±nik.<ujsor/>
+A gazdasÃ¡gi tÃ¡rsasÃ¡gok Ã¼gyvezetÅ‘i 2004. jÃºnius 30-i fordulÃ³nappal elkÃ©szÃ­tettÃ©k a tÃ¡rsasÃ¡gok Ã¡talakulÃ¡si vagyonmÃ©rleg-tervezeteit Ã©s vagyonleltÃ¡r-tervezeteit, tovÃ¡bbÃ¡ az â€AGROKVALITâ€ Kft. Ã¼gyvezetÅ‘je elkÃ©szÃ­ttette a tÃ¡rsasÃ¡g Ã¡talakulÃ¡s utÃ¡ni nyitÃ³ vagyonmÃ©rleg-tervezetÃ©t Ã©s nyitÃ³ vagyonleltÃ¡r-tervezetÃ©t, valamint a tÃ¡rsasÃ¡gi szerzÅ‘dÃ©st mÃ³dosÃ­tÃ³ okirat tervezetÃ©t, Ã©s az â€AGROKVALITâ€ Kft. mÃ³dosÃ­tÃ¡sokkal egysÃ©ges szerkezetbe foglalt tÃ¡rsasÃ¡giszerzÅ‘dÃ©s-tervezetÃ©t.<ujsor/>
+A tÃ¡rsasÃ¡gok taggyÅ±lÃ©sei elfogadtÃ¡k tovÃ¡bbÃ¡ az egyesÃ¼lÃ©si szerzÅ‘dÃ©st.<ujsor/>
+Az Ã¡tvevÅ‘ â€AGROKVALITâ€ Kft. mÃ³dosÃ­tott tÃ¡rsasÃ¡gi szerzÅ‘dÃ©se elfogadÃ¡sÃ¡nak napja: 2004. szeptember 30.<ujsor/>
+Az â€AGROKVALITâ€ Kft. megÃ¡llapodÃ¡st kÃ¶tÃ¶tt mindazon tagokkal, akik a tÃ¡rsasÃ¡gban az Ã¡talakulÃ¡st kÃ¶vetÅ‘en rÃ©szt venni nem kÃ­vÃ¡ntak.<ujsor/>
+A beolvadÃ³ KABATEJ Szarvasmarha TejtermelÅ‘ Ã©s Ã‰rtÃ©kesÃ­tÅ‘ Kft. 2004. jÃºnius 30-i fordulÃ³napra kÃ©szÃ­tett vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 221 783 SajÃ¡t tÅ‘ke 19 406<ujsor/>
+ImmateriÃ¡lis javak 56 Jegyzett tÅ‘ke 3 000<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 221 547 TÅ‘ketartalÃ©k 40 394<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 180 EredmÃ©nytartalÃ©k Â­23 988<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 189 862 KÃ¶telezettsÃ©gek 391 828<ujsor/>
+KÃ©szletek 136 113 HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 144 264<ujsor/>
+KÃ¶vetelÃ©sek 51 492 RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 247 564<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 2 257 PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 411<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok Â­<ujsor/>
+Ã–SSZESEN: 411 645 Ã–SSZESEN: 411 645<ujsor/>
+Az Ã¡tvevÅ‘ â€AGROKVALITâ€ TermelÅ‘, SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi Kft. 2004. jÃºnius 30-i fordulÃ³nappal kÃ©szÃ­tett vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 199 018 SajÃ¡t tÅ‘ke 208 844<ujsor/>
+ImmateriÃ¡lis javak 358 Jegyzett tÅ‘ke 42 920<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 197 461 TÅ‘ketartalÃ©k 95 089<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 1 199 EredmÃ©nytartalÃ©k 56 219<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 221 288 LekÃ¶tÃ¶tt tartalÃ©k 14 616<ujsor/>
+KÃ©szletek 172 075 KÃ¶telezettsÃ©gek 210 468<ujsor/>
+KÃ¶vetelÃ©sek 26 617 HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 86 567<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 585 RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 123 901<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 22 011 PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 944<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok Â­<ujsor/>
+Ã–SSZESEN: 420 306 Ã–SSZESEN: 420 306<ujsor/>
+Az Ã¡tvevÅ‘ â€AGROKVALITâ€ Kft. nyitÃ³ vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai az Ã¡talakulÃ¡st kÃ¶vetÅ‘en:<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK Beolvadás utáni adatok Korrekció Korrigált adatok<ujsor/>
-Befektetett eszközök 420 801 ­ 420 801<ujsor/>
-Immateriális javak 414 ­ 414<ujsor/>
-Tárgyi eszközök 419 008 ­ 419 008<ujsor/>
-Befektetett pénzügyi eszközök 1 379 ­ 1 379<ujsor/>
-Forgóeszközök 411 150 ­11 720 399 430<ujsor/>
-Készletek 308 188 ­ 308 188<ujsor/>
-Követelések 78 109 ­3 120 74 989<ujsor/>
-Értékpapírok 585 ­ 585<ujsor/>
-Pénzeszközök 24 268 ­8 600 15 668<ujsor/>
-Aktív idõbeli elhatárolások ­ ­ ­<ujsor/>
-ÖSSZESEN: 831 951 ­11 720 820 231<ujsor/>
+ESZKÃ–ZÃ–K BeolvadÃ¡s utÃ¡ni adatok KorrekciÃ³ KorrigÃ¡lt adatok<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 420 801 Â­ 420 801<ujsor/>
+ImmateriÃ¡lis javak 414 Â­ 414<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 419 008 Â­ 419 008<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 1 379 Â­ 1 379<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 411 150 Â­11 720 399 430<ujsor/>
+KÃ©szletek 308 188 Â­ 308 188<ujsor/>
+KÃ¶vetelÃ©sek 78 109 Â­3 120 74 989<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 585 Â­ 585<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 24 268 Â­8 600 15 668<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok Â­ Â­ Â­<ujsor/>
+Ã–SSZESEN: 831 951 Â­11 720 820 231<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK Beolvadás utáni adatok Korrekció Korrigált adatok<ujsor/>
-Saját tõke 228 250 ­8 600 219 650<ujsor/>
-Jegyzett tõke 45 920 ­1 720 44 200<ujsor/>
-Tõketartalék 135 483 ­6 880 128 603<ujsor/>
-Eredménytartalék 32 231 ­ 32 231<ujsor/>
-Lekötött tartalék 14 616 ­ 14 616<ujsor/>
-Kötelezettségek 602 296 ­3 120 599 176<ujsor/>
-Hosszú lejáratú kötelezettségek 230 831 ­ 230 831<ujsor/>
-Rövid lejáratú kötelezettségek 371 465 ­3 120 368 345<ujsor/>
-Passzív idõbeli elhatárolások 1 405 ­  1 405<ujsor/>
-ÖSSZESEN: 831 951 ­11 720 820 231<ujsor/>
-Az átalakulást követõen az „AGROKVALIT” Kft. jegyzett tõkéje 44 200 000 Ft (negyvennégymillió-kettõszázezer forint), mely az alábbiak szerint áll rendelkezésre, az átalakulási vagyonmérleg-tervezet tanúsága szerint.<ujsor/>
-A jegyzett tõke 3 474 238 Ft készpénzbõl és 40 725 762 Ft apportból áll.<ujsor/>
-A jegyzett tõke apport fedezetét az „AGROKVALIT” Kft. beolvadás elõtti tárgyi eszközei biztosítják.<ujsor/>
-Az egyesülés után az „AGROKVALIT” Kft. tevékenységi körei (TEÁOR ’03):<ujsor/>
-A társaság fõ tevékenységi köre: 0111 Gabonafélék, egyéb, máshova nem sorolt növény termelése.<ujsor/>
-A társaság további tevékenységi körei: 0112 Zöldség, dísznövény termelése; 0121 Szarvasmarha-tenyésztés; 0122 Juh-, kecske-, lótenyésztés; 0123 Sertéstenyésztés; 0130 Vegyes gazdálkodás; 0141 Növénytermelési szolgáltatás; 0142 Állattenyésztési szolgáltatás; 0201 Erdõgazdálkodási termékelõállítás; 0202 Erdõgazdálkodási szolgáltatás; 1561 Malomipari termék gyártása; 1571 Haszonállat-eledel gyártása; 5020 Gépjármûjavítás; 5111 Mezõgazdasági termék ügynöki nagykereskedelme; 5112 Alapanyag, üzemanyag ügynöki nagykereskedelme; 5118 Máshova nem sorolt termék ügynöki nagykereskedelme; 5119 Vegyes termékkörû ügynöki nagykereskedelem; 5121 Gabona-, vetõmag-, takarmány-nagykereskedelem; 5123 Élõállat-nagykereskedelem; 5132 Húsáru-nagykereskedelem; 5133 Tejtermék-, tojás-, zsiradék-nagykereskedelem; 5156 Egyéb termelési célú termék nagykereskedelme; 5211 Élelmiszer jellegû vegyes kiskereskedelem; 5222 Húsáru-kiskereskedelem; 5227 Egyéb élelmiszer-kiskereskedelem; 6023 Egyéb szárazföldi személyszállítás; 6024 Közúti teherszállítás; 6312 Tárolás, raktározás; 7020 Ingatlan bérbeadása, üzemeltetése.<ujsor/>
-Az átvevõ „AGROKVALIT” Kft. ügyvezetõi: dr. Polgári Zoltán Sándor (a. n.: Kovács Mária; 1171 Budapest, Postakocsi u. 4.), Nemes László (a. n.: Nyilas Piroska; 4027 Debrecen, Fáy András u. 45.).<ujsor/>
-A társaság felhívja hitelezõit az 1997. évi CXLIV. tv. 66. § (2) bekezdésében meghatározott jogaik gyakorlására.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+FORRÃSOK BeolvadÃ¡s utÃ¡ni adatok KorrekciÃ³ KorrigÃ¡lt adatok<ujsor/>
+SajÃ¡t tÅ‘ke 228 250 Â­8 600 219 650<ujsor/>
+Jegyzett tÅ‘ke 45 920 Â­1 720 44 200<ujsor/>
+TÅ‘ketartalÃ©k 135 483 Â­6 880 128 603<ujsor/>
+EredmÃ©nytartalÃ©k 32 231 Â­ 32 231<ujsor/>
+LekÃ¶tÃ¶tt tartalÃ©k 14 616 Â­ 14 616<ujsor/>
+KÃ¶telezettsÃ©gek 602 296 Â­3 120 599 176<ujsor/>
+HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 230 831 Â­ 230 831<ujsor/>
+RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 371 465 Â­3 120 368 345<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 1 405 Â­  1 405<ujsor/>
+Ã–SSZESEN: 831 951 Â­11 720 820 231<ujsor/>
+Az Ã¡talakulÃ¡st kÃ¶vetÅ‘en az â€AGROKVALITâ€ Kft. jegyzett tÅ‘kÃ©je 44 200 000 Ft (negyvennÃ©gymilliÃ³-kettÅ‘szÃ¡zezer forint), mely az alÃ¡bbiak szerint Ã¡ll rendelkezÃ©sre, az Ã¡talakulÃ¡si vagyonmÃ©rleg-tervezet tanÃºsÃ¡ga szerint.<ujsor/>
+A jegyzett tÅ‘ke 3 474 238 Ft kÃ©szpÃ©nzbÅ‘l Ã©s 40 725 762 Ft apportbÃ³l Ã¡ll.<ujsor/>
+A jegyzett tÅ‘ke apport fedezetÃ©t az â€AGROKVALITâ€ Kft. beolvadÃ¡s elÅ‘tti tÃ¡rgyi eszkÃ¶zei biztosÃ­tjÃ¡k.<ujsor/>
+Az egyesÃ¼lÃ©s utÃ¡n az â€AGROKVALITâ€ Kft. tevÃ©kenysÃ©gi kÃ¶rei (TEÃOR â€™03):<ujsor/>
+A tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©gi kÃ¶re: 0111 GabonafÃ©lÃ©k, egyÃ©b, mÃ¡shova nem sorolt nÃ¶vÃ©ny termelÃ©se.<ujsor/>
+A tÃ¡rsasÃ¡g tovÃ¡bbi tevÃ©kenysÃ©gi kÃ¶rei: 0112 ZÃ¶ldsÃ©g, dÃ­sznÃ¶vÃ©ny termelÃ©se; 0121 Szarvasmarha-tenyÃ©sztÃ©s; 0122 Juh-, kecske-, lÃ³tenyÃ©sztÃ©s; 0123 SertÃ©stenyÃ©sztÃ©s; 0130 Vegyes gazdÃ¡lkodÃ¡s; 0141 NÃ¶vÃ©nytermelÃ©si szolgÃ¡ltatÃ¡s; 0142 ÃllattenyÃ©sztÃ©si szolgÃ¡ltatÃ¡s; 0201 ErdÅ‘gazdÃ¡lkodÃ¡si termÃ©kelÅ‘Ã¡llÃ­tÃ¡s; 0202 ErdÅ‘gazdÃ¡lkodÃ¡si szolgÃ¡ltatÃ¡s; 1561 Malomipari termÃ©k gyÃ¡rtÃ¡sa; 1571 HaszonÃ¡llat-eledel gyÃ¡rtÃ¡sa; 5020 GÃ©pjÃ¡rmÅ±javÃ­tÃ¡s; 5111 MezÅ‘gazdasÃ¡gi termÃ©k Ã¼gynÃ¶ki nagykereskedelme; 5112 Alapanyag, Ã¼zemanyag Ã¼gynÃ¶ki nagykereskedelme; 5118 MÃ¡shova nem sorolt termÃ©k Ã¼gynÃ¶ki nagykereskedelme; 5119 Vegyes termÃ©kkÃ¶rÅ± Ã¼gynÃ¶ki nagykereskedelem; 5121 Gabona-, vetÅ‘mag-, takarmÃ¡ny-nagykereskedelem; 5123 Ã‰lÅ‘Ã¡llat-nagykereskedelem; 5132 HÃºsÃ¡ru-nagykereskedelem; 5133 TejtermÃ©k-, tojÃ¡s-, zsiradÃ©k-nagykereskedelem; 5156 EgyÃ©b termelÃ©si cÃ©lÃº termÃ©k nagykereskedelme; 5211 Ã‰lelmiszer jellegÅ± vegyes kiskereskedelem; 5222 HÃºsÃ¡ru-kiskereskedelem; 5227 EgyÃ©b Ã©lelmiszer-kiskereskedelem; 6023 EgyÃ©b szÃ¡razfÃ¶ldi szemÃ©lyszÃ¡llÃ­tÃ¡s; 6024 KÃ¶zÃºti teherszÃ¡llÃ­tÃ¡s; 6312 TÃ¡rolÃ¡s, raktÃ¡rozÃ¡s; 7020 Ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se.<ujsor/>
+Az Ã¡tvevÅ‘ â€AGROKVALITâ€ Kft. Ã¼gyvezetÅ‘i: dr. PolgÃ¡ri ZoltÃ¡n SÃ¡ndor (a. n.: KovÃ¡cs MÃ¡ria; 1171 Budapest, Postakocsi u. 4.), Nemes LÃ¡szlÃ³ (a. n.: Nyilas Piroska; 4027 Debrecen, FÃ¡y AndrÃ¡s u. 45.).<ujsor/>
+A tÃ¡rsasÃ¡g felhÃ­vja hitelezÅ‘it az 1997. Ã©vi CXLIV. tv. 66. Â§ (2) bekezdÃ©sÃ©ben meghatÃ¡rozott jogaik gyakorlÃ¡sÃ¡ra.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0909001038</mezo>
-<mezo id = "nev">&quot;AGROKVALIT&quot; Termelõ, Szolgáltató és Kereskedelmi Korlátolt Felelõsségü Társaság</mezo>
-<mezo id = "cim">4184 Tetétlen</mezo>
+<mezo id = "nev">&quot;AGROKVALIT&quot; TermelÅ‘, SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÃ¼ TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">4184 TetÃ©tlen</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A KABATEJ Szarvasmarha Tejtermelõ és Értékesítõ Korlátolt Felelõsségû Társaság (Cg.: [09 09 010962]; székhely: 4138 Kaba, Daróczy major 070/6. hrsz.), valamint az „AGROKVALIT” Termelõ, Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság (Cg.: [09 09 001038]; 4184 Tetétlen, Földesi útfél 0153/9. hrsz.) 2004. június 15-i taggyûlései elhatározták a két társaság<ujsor/>
-egyesülését<ujsor/>
-akként, hogy a KABATEJ Kft. beolvad az „AGROKVALIT” Kft.-be.<ujsor/>
-Az egyesülés módja: beolvadás.<ujsor/>
-Az egyesülést követõen az „AGROKVALIT” Kft. társasági szerzõdésének módosítását követõen a cég változatlan társasági formában mûködik tovább.<ujsor/>
-A beolvadás következtében a beolvadó KABATEJ Kft. gazdasági társaság vagyona teljes egészében az átvevõ „AGROKVALIT” Kft. gazdasági társaságra száll át, a beolvadó gazdasági társaság pedig megszûnik.<ujsor/>
-A gazdasági társaságok ügyvezetõi 2004. június 30-i fordulónappal elkészítették a társaságok átalakulási vagyonmérleg-tervezeteit és vagyonleltár-tervezeteit, továbbá az „AGROKVALIT” Kft. ügyvezetõje elkészíttette a társaság átalakulás utáni nyitó vagyonmérleg-tervezetét és nyitó vagyonleltár-tervezetét, valamint a társasági szerzõdést módosító okirat tervezetét, és az „AGROKVALIT” Kft. módosításokkal egységes szerkezetbe foglalt társaságiszerzõdés-tervezetét.<ujsor/>
-A társaságok taggyûlései elfogadták továbbá az egyesülési szerzõdést.<ujsor/>
-Az átvevõ „AGROKVALIT” Kft. módosított társasági szerzõdése elfogadásának napja: 2004. szeptember 30.<ujsor/>
-Az „AGROKVALIT” Kft. megállapodást kötött mindazon tagokkal, akik a társaságban az átalakulást követõen részt venni nem kívántak.<ujsor/>
-A beolvadó KABATEJ Szarvasmarha Tejtermelõ és Értékesítõ Kft. 2004. június 30-i fordulónapra készített vagyonmérleg-tervezetének fõbb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 221 783 Saját tõke 19 406<ujsor/>
-Immateriális javak 56 Jegyzett tõke 3 000<ujsor/>
-Tárgyi eszközök 221 547 Tõketartalék 40 394<ujsor/>
-Befektetett pénzügyi eszközök 180 Eredménytartalék ­23 988<ujsor/>
-Forgóeszközök 189 862 Kötelezettségek 391 828<ujsor/>
-Készletek 136 113 Hosszú lejáratú kötelezettségek 144 264<ujsor/>
-Követelések 51 492 Rövid lejáratú kötelezettségek 247 564<ujsor/>
-Pénzeszközök 2 257 Passzív idõbeli elhatárolások 411<ujsor/>
-Aktív idõbeli elhatárolások ­<ujsor/>
-ÖSSZESEN: 411 645 ÖSSZESEN: 411 645<ujsor/>
-Az átvevõ „AGROKVALIT” Termelõ, Szolgáltató és Kereskedelmi Kft. 2004. június 30-i fordulónappal készített vagyonmérleg-tervezetének fõbb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 199 018 Saját tõke 208 844<ujsor/>
-Immateriális javak 358 Jegyzett tõke 42 920<ujsor/>
-Tárgyi eszközök 197 461 Tõketartalék 95 089<ujsor/>
-Befektetett pénzügyi eszközök 1 199 Eredménytartalék 56 219<ujsor/>
-Forgóeszközök 221 288 Lekötött tartalék 14 616<ujsor/>
-Készletek 172 075 Kötelezettségek 210 468<ujsor/>
-Követelések 26 617 Hosszú lejáratú kötelezettségek 86 567<ujsor/>
-Értékpapírok 585 Rövid lejáratú kötelezettségek 123 901<ujsor/>
-Pénzeszközök 22 011 Passzív idõbeli elhatárolások 944<ujsor/>
-Aktív idõbeli elhatárolások ­<ujsor/>
-ÖSSZESEN: 420 306 ÖSSZESEN: 420 306<ujsor/>
-Az átvevõ „AGROKVALIT” Kft. nyitó vagyonmérleg-tervezetének fõbb adatai az átalakulást követõen:<ujsor/>
+<mezo id = "szoveg">A KABATEJ Szarvasmarha TejtermelÅ‘ Ã©s Ã‰rtÃ©kesÃ­tÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [09 09 010962]; szÃ©khely: 4138 Kaba, DarÃ³czy major 070/6. hrsz.), valamint az â€AGROKVALITâ€ TermelÅ‘, SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [09 09 001038]; 4184 TetÃ©tlen, FÃ¶ldesi ÃºtfÃ©l 0153/9. hrsz.) 2004. jÃºnius 15-i taggyÅ±lÃ©sei elhatÃ¡roztÃ¡k a kÃ©t tÃ¡rsasÃ¡g<ujsor/>
+egyesÃ¼lÃ©sÃ©t<ujsor/>
+akkÃ©nt, hogy a KABATEJ Kft. beolvad az â€AGROKVALITâ€ Kft.-be.<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: beolvadÃ¡s.<ujsor/>
+Az egyesÃ¼lÃ©st kÃ¶vetÅ‘en az â€AGROKVALITâ€ Kft. tÃ¡rsasÃ¡gi szerzÅ‘dÃ©sÃ©nek mÃ³dosÃ­tÃ¡sÃ¡t kÃ¶vetÅ‘en a cÃ©g vÃ¡ltozatlan tÃ¡rsasÃ¡gi formÃ¡ban mÅ±kÃ¶dik tovÃ¡bb.<ujsor/>
+A beolvadÃ¡s kÃ¶vetkeztÃ©ben a beolvadÃ³ KABATEJ Kft. gazdasÃ¡gi tÃ¡rsasÃ¡g vagyona teljes egÃ©szÃ©ben az Ã¡tvevÅ‘ â€AGROKVALITâ€ Kft. gazdasÃ¡gi tÃ¡rsasÃ¡gra szÃ¡ll Ã¡t, a beolvadÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g pedig megszÅ±nik.<ujsor/>
+A gazdasÃ¡gi tÃ¡rsasÃ¡gok Ã¼gyvezetÅ‘i 2004. jÃºnius 30-i fordulÃ³nappal elkÃ©szÃ­tettÃ©k a tÃ¡rsasÃ¡gok Ã¡talakulÃ¡si vagyonmÃ©rleg-tervezeteit Ã©s vagyonleltÃ¡r-tervezeteit, tovÃ¡bbÃ¡ az â€AGROKVALITâ€ Kft. Ã¼gyvezetÅ‘je elkÃ©szÃ­ttette a tÃ¡rsasÃ¡g Ã¡talakulÃ¡s utÃ¡ni nyitÃ³ vagyonmÃ©rleg-tervezetÃ©t Ã©s nyitÃ³ vagyonleltÃ¡r-tervezetÃ©t, valamint a tÃ¡rsasÃ¡gi szerzÅ‘dÃ©st mÃ³dosÃ­tÃ³ okirat tervezetÃ©t, Ã©s az â€AGROKVALITâ€ Kft. mÃ³dosÃ­tÃ¡sokkal egysÃ©ges szerkezetbe foglalt tÃ¡rsasÃ¡giszerzÅ‘dÃ©s-tervezetÃ©t.<ujsor/>
+A tÃ¡rsasÃ¡gok taggyÅ±lÃ©sei elfogadtÃ¡k tovÃ¡bbÃ¡ az egyesÃ¼lÃ©si szerzÅ‘dÃ©st.<ujsor/>
+Az Ã¡tvevÅ‘ â€AGROKVALITâ€ Kft. mÃ³dosÃ­tott tÃ¡rsasÃ¡gi szerzÅ‘dÃ©se elfogadÃ¡sÃ¡nak napja: 2004. szeptember 30.<ujsor/>
+Az â€AGROKVALITâ€ Kft. megÃ¡llapodÃ¡st kÃ¶tÃ¶tt mindazon tagokkal, akik a tÃ¡rsasÃ¡gban az Ã¡talakulÃ¡st kÃ¶vetÅ‘en rÃ©szt venni nem kÃ­vÃ¡ntak.<ujsor/>
+A beolvadÃ³ KABATEJ Szarvasmarha TejtermelÅ‘ Ã©s Ã‰rtÃ©kesÃ­tÅ‘ Kft. 2004. jÃºnius 30-i fordulÃ³napra kÃ©szÃ­tett vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 221 783 SajÃ¡t tÅ‘ke 19 406<ujsor/>
+ImmateriÃ¡lis javak 56 Jegyzett tÅ‘ke 3 000<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 221 547 TÅ‘ketartalÃ©k 40 394<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 180 EredmÃ©nytartalÃ©k Â­23 988<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 189 862 KÃ¶telezettsÃ©gek 391 828<ujsor/>
+KÃ©szletek 136 113 HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 144 264<ujsor/>
+KÃ¶vetelÃ©sek 51 492 RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 247 564<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 2 257 PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 411<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok Â­<ujsor/>
+Ã–SSZESEN: 411 645 Ã–SSZESEN: 411 645<ujsor/>
+Az Ã¡tvevÅ‘ â€AGROKVALITâ€ TermelÅ‘, SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi Kft. 2004. jÃºnius 30-i fordulÃ³nappal kÃ©szÃ­tett vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 199 018 SajÃ¡t tÅ‘ke 208 844<ujsor/>
+ImmateriÃ¡lis javak 358 Jegyzett tÅ‘ke 42 920<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 197 461 TÅ‘ketartalÃ©k 95 089<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 1 199 EredmÃ©nytartalÃ©k 56 219<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 221 288 LekÃ¶tÃ¶tt tartalÃ©k 14 616<ujsor/>
+KÃ©szletek 172 075 KÃ¶telezettsÃ©gek 210 468<ujsor/>
+KÃ¶vetelÃ©sek 26 617 HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 86 567<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 585 RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 123 901<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 22 011 PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 944<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok Â­<ujsor/>
+Ã–SSZESEN: 420 306 Ã–SSZESEN: 420 306<ujsor/>
+Az Ã¡tvevÅ‘ â€AGROKVALITâ€ Kft. nyitÃ³ vagyonmÃ©rleg-tervezetÃ©nek fÅ‘bb adatai az Ã¡talakulÃ¡st kÃ¶vetÅ‘en:<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK Beolvadás utáni adatok Korrekció Korrigált adatok<ujsor/>
-Befektetett eszközök 420 801 ­ 420 801<ujsor/>
-Immateriális javak 414 ­ 414<ujsor/>
-Tárgyi eszközök 419 008 ­ 419 008<ujsor/>
-Befektetett pénzügyi eszközök 1 379 ­ 1 379<ujsor/>
-Forgóeszközök 411 150 ­11 720 399 430<ujsor/>
-Készletek 308 188 ­ 308 188<ujsor/>
-Követelések 78 109 ­3 120 74 989<ujsor/>
-Értékpapírok 585 ­ 585<ujsor/>
-Pénzeszközök 24 268 ­8 600 15 668<ujsor/>
-Aktív idõbeli elhatárolások ­ ­ ­<ujsor/>
-ÖSSZESEN: 831 951 ­11 720 820 231<ujsor/>
+ESZKÃ–ZÃ–K BeolvadÃ¡s utÃ¡ni adatok KorrekciÃ³ KorrigÃ¡lt adatok<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 420 801 Â­ 420 801<ujsor/>
+ImmateriÃ¡lis javak 414 Â­ 414<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 419 008 Â­ 419 008<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 1 379 Â­ 1 379<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 411 150 Â­11 720 399 430<ujsor/>
+KÃ©szletek 308 188 Â­ 308 188<ujsor/>
+KÃ¶vetelÃ©sek 78 109 Â­3 120 74 989<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 585 Â­ 585<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 24 268 Â­8 600 15 668<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok Â­ Â­ Â­<ujsor/>
+Ã–SSZESEN: 831 951 Â­11 720 820 231<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK Beolvadás utáni adatok Korrekció Korrigált adatok<ujsor/>
-Saját tõke 228 250 ­8 600 219 650<ujsor/>
-Jegyzett tõke 45 920 ­1 720 44 200<ujsor/>
-Tõketartalék 135 483 ­6 880 128 603<ujsor/>
-Eredménytartalék 32 231 ­ 32 231<ujsor/>
-Lekötött tartalék 14 616 ­ 14 616<ujsor/>
-Kötelezettségek 602 296 ­3 120 599 176<ujsor/>
-Hosszú lejáratú kötelezettségek 230 831 ­ 230 831<ujsor/>
-Rövid lejáratú kötelezettségek 371 465 ­3 120 368 345<ujsor/>
-Passzív idõbeli elhatárolások 1 405 ­  1 405<ujsor/>
-ÖSSZESEN: 831 951 ­11 720 820 231<ujsor/>
-Az átalakulást követõen az „AGROKVALIT” Kft. jegyzett tõkéje 44 200 000 Ft (negyvennégymillió-kettõszázezer forint), mely az alábbiak szerint áll rendelkezésre, az átalakulási vagyonmérleg-tervezet tanúsága szerint.<ujsor/>
-A jegyzett tõke 3 474 238 Ft készpénzbõl és 40 725 762 Ft apportból áll.<ujsor/>
-A jegyzett tõke apport fedezetét az „AGROKVALIT” Kft. beolvadás elõtti tárgyi eszközei biztosítják.<ujsor/>
-Az egyesülés után az „AGROKVALIT” Kft. tevékenységi körei (TEÁOR ’03):<ujsor/>
-A társaság fõ tevékenységi köre: 0111 Gabonafélék, egyéb, máshova nem sorolt növény termelése.<ujsor/>
-A társaság további tevékenységi körei: 0112 Zöldség, dísznövény termelése; 0121 Szarvasmarha-tenyésztés; 0122 Juh-, kecske-, lótenyésztés; 0123 Sertéstenyésztés; 0130 Vegyes gazdálkodás; 0141 Növénytermelési szolgáltatás; 0142 Állattenyésztési szolgáltatás; 0201 Erdõgazdálkodási termékelõállítás; 0202 Erdõgazdálkodási szolgáltatás; 1561 Malomipari termék gyártása; 1571 Haszonállat-eledel gyártása; 5020 Gépjármûjavítás; 5111 Mezõgazdasági termék ügynöki nagykereskedelme; 5112 Alapanyag, üzemanyag ügynöki nagykereskedelme; 5118 Máshova nem sorolt termék ügynöki nagykereskedelme; 5119 Vegyes termékkörû ügynöki nagykereskedelem; 5121 Gabona-, vetõmag-, takarmány-nagykereskedelem; 5123 Élõállat-nagykereskedelem; 5132 Húsáru-nagykereskedelem; 5133 Tejtermék-, tojás-, zsiradék-nagykereskedelem; 5156 Egyéb termelési célú termék nagykereskedelme; 5211 Élelmiszer jellegû vegyes kiskereskedelem; 5222 Húsáru-kiskereskedelem; 5227 Egyéb élelmiszer-kiskereskedelem; 6023 Egyéb szárazföldi személyszállítás; 6024 Közúti teherszállítás; 6312 Tárolás, raktározás; 7020 Ingatlan bérbeadása, üzemeltetése.<ujsor/>
-Az átvevõ „AGROKVALIT” Kft. ügyvezetõi: dr. Polgári Zoltán Sándor (a. n.: Kovács Mária; 1171 Budapest, Postakocsi u. 4.), Nemes László (a. n.: Nyilas Piroska; 4027 Debrecen, Fáy András u. 45.).<ujsor/>
-A társaság felhívja hitelezõit az 1997. évi CXLIV. tv. 66. § (2) bekezdésében meghatározott jogaik gyakorlására.<ujsor/>
-(Második közzététel.)<ujsor/>
+FORRÃSOK BeolvadÃ¡s utÃ¡ni adatok KorrekciÃ³ KorrigÃ¡lt adatok<ujsor/>
+SajÃ¡t tÅ‘ke 228 250 Â­8 600 219 650<ujsor/>
+Jegyzett tÅ‘ke 45 920 Â­1 720 44 200<ujsor/>
+TÅ‘ketartalÃ©k 135 483 Â­6 880 128 603<ujsor/>
+EredmÃ©nytartalÃ©k 32 231 Â­ 32 231<ujsor/>
+LekÃ¶tÃ¶tt tartalÃ©k 14 616 Â­ 14 616<ujsor/>
+KÃ¶telezettsÃ©gek 602 296 Â­3 120 599 176<ujsor/>
+HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 230 831 Â­ 230 831<ujsor/>
+RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 371 465 Â­3 120 368 345<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 1 405 Â­  1 405<ujsor/>
+Ã–SSZESEN: 831 951 Â­11 720 820 231<ujsor/>
+Az Ã¡talakulÃ¡st kÃ¶vetÅ‘en az â€AGROKVALITâ€ Kft. jegyzett tÅ‘kÃ©je 44 200 000 Ft (negyvennÃ©gymilliÃ³-kettÅ‘szÃ¡zezer forint), mely az alÃ¡bbiak szerint Ã¡ll rendelkezÃ©sre, az Ã¡talakulÃ¡si vagyonmÃ©rleg-tervezet tanÃºsÃ¡ga szerint.<ujsor/>
+A jegyzett tÅ‘ke 3 474 238 Ft kÃ©szpÃ©nzbÅ‘l Ã©s 40 725 762 Ft apportbÃ³l Ã¡ll.<ujsor/>
+A jegyzett tÅ‘ke apport fedezetÃ©t az â€AGROKVALITâ€ Kft. beolvadÃ¡s elÅ‘tti tÃ¡rgyi eszkÃ¶zei biztosÃ­tjÃ¡k.<ujsor/>
+Az egyesÃ¼lÃ©s utÃ¡n az â€AGROKVALITâ€ Kft. tevÃ©kenysÃ©gi kÃ¶rei (TEÃOR â€™03):<ujsor/>
+A tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©gi kÃ¶re: 0111 GabonafÃ©lÃ©k, egyÃ©b, mÃ¡shova nem sorolt nÃ¶vÃ©ny termelÃ©se.<ujsor/>
+A tÃ¡rsasÃ¡g tovÃ¡bbi tevÃ©kenysÃ©gi kÃ¶rei: 0112 ZÃ¶ldsÃ©g, dÃ­sznÃ¶vÃ©ny termelÃ©se; 0121 Szarvasmarha-tenyÃ©sztÃ©s; 0122 Juh-, kecske-, lÃ³tenyÃ©sztÃ©s; 0123 SertÃ©stenyÃ©sztÃ©s; 0130 Vegyes gazdÃ¡lkodÃ¡s; 0141 NÃ¶vÃ©nytermelÃ©si szolgÃ¡ltatÃ¡s; 0142 ÃllattenyÃ©sztÃ©si szolgÃ¡ltatÃ¡s; 0201 ErdÅ‘gazdÃ¡lkodÃ¡si termÃ©kelÅ‘Ã¡llÃ­tÃ¡s; 0202 ErdÅ‘gazdÃ¡lkodÃ¡si szolgÃ¡ltatÃ¡s; 1561 Malomipari termÃ©k gyÃ¡rtÃ¡sa; 1571 HaszonÃ¡llat-eledel gyÃ¡rtÃ¡sa; 5020 GÃ©pjÃ¡rmÅ±javÃ­tÃ¡s; 5111 MezÅ‘gazdasÃ¡gi termÃ©k Ã¼gynÃ¶ki nagykereskedelme; 5112 Alapanyag, Ã¼zemanyag Ã¼gynÃ¶ki nagykereskedelme; 5118 MÃ¡shova nem sorolt termÃ©k Ã¼gynÃ¶ki nagykereskedelme; 5119 Vegyes termÃ©kkÃ¶rÅ± Ã¼gynÃ¶ki nagykereskedelem; 5121 Gabona-, vetÅ‘mag-, takarmÃ¡ny-nagykereskedelem; 5123 Ã‰lÅ‘Ã¡llat-nagykereskedelem; 5132 HÃºsÃ¡ru-nagykereskedelem; 5133 TejtermÃ©k-, tojÃ¡s-, zsiradÃ©k-nagykereskedelem; 5156 EgyÃ©b termelÃ©si cÃ©lÃº termÃ©k nagykereskedelme; 5211 Ã‰lelmiszer jellegÅ± vegyes kiskereskedelem; 5222 HÃºsÃ¡ru-kiskereskedelem; 5227 EgyÃ©b Ã©lelmiszer-kiskereskedelem; 6023 EgyÃ©b szÃ¡razfÃ¶ldi szemÃ©lyszÃ¡llÃ­tÃ¡s; 6024 KÃ¶zÃºti teherszÃ¡llÃ­tÃ¡s; 6312 TÃ¡rolÃ¡s, raktÃ¡rozÃ¡s; 7020 Ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se.<ujsor/>
+Az Ã¡tvevÅ‘ â€AGROKVALITâ€ Kft. Ã¼gyvezetÅ‘i: dr. PolgÃ¡ri ZoltÃ¡n SÃ¡ndor (a. n.: KovÃ¡cs MÃ¡ria; 1171 Budapest, Postakocsi u. 4.), Nemes LÃ¡szlÃ³ (a. n.: Nyilas Piroska; 4027 Debrecen, FÃ¡y AndrÃ¡s u. 45.).<ujsor/>
+A tÃ¡rsasÃ¡g felhÃ­vja hitelezÅ‘it az 1997. Ã©vi CXLIV. tv. 66. Â§ (2) bekezdÃ©sÃ©ben meghatÃ¡rozott jogaik gyakorlÃ¡sÃ¡ra.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0909001038</mezo>
-<mezo id = "nev">&quot;AGROKVALIT&quot; Termelõ, Szolgáltató és Kereskedelmi Korlátolt Felelõsségü Társaság</mezo>
-<mezo id = "cim">4184 Tetétlen</mezo>
+<mezo id = "nev">&quot;AGROKVALIT&quot; TermelÅ‘, SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÃ¼ TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">4184 TetÃ©tlen</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Dr. Polgári Zoltán Sándor (1171 Budapest, Postakocsi u. 4.) és Nemes László (4027 Debrecen, Fáy András u. 45.) az 1997. évi CXLIV. törvény 292. § (1) bekezdése szerint fennálló kötelezettségük alapján közzéteszik, hogy a 2005. március 1-jén kelt taggyûlési jegyzõkönyv tanúsága szerint Bernáth Imre az „AGROKVALIT” Termelõ, Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság (Cg.: [09 09 001038]; székhely: 4184 Tetétlen, Földesi útfél 0153/9. hrsz.) tagja, a 33 760 000 Ft névértékû üzletrészébõl 16 880 000 Ft névértékû üzletrészt dr. Polgári Zoltán Sándor és 16 880 000 Ft névértékû üzletrészt Nemes László részére értékesítette, így dr. Polgári Zoltán Sándor tagnak és Nemes László tagnak a társaság irányítását biztosító befolyás mértéke 41,58%-41,58%-ra nõtt, melyre tekintettel a társasággal kapcsolatosan egyaránt jelentõs befolyással bírnak.<ujsor/>
+<mezo id = "szoveg">Dr. PolgÃ¡ri ZoltÃ¡n SÃ¡ndor (1171 Budapest, Postakocsi u. 4.) Ã©s Nemes LÃ¡szlÃ³ (4027 Debrecen, FÃ¡y AndrÃ¡s u. 45.) az 1997. Ã©vi CXLIV. tÃ¶rvÃ©ny 292. Â§ (1) bekezdÃ©se szerint fennÃ¡llÃ³ kÃ¶telezettsÃ©gÃ¼k alapjÃ¡n kÃ¶zzÃ©teszik, hogy a 2005. mÃ¡rcius 1-jÃ©n kelt taggyÅ±lÃ©si jegyzÅ‘kÃ¶nyv tanÃºsÃ¡ga szerint BernÃ¡th Imre az â€AGROKVALITâ€ TermelÅ‘, SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [09 09 001038]; szÃ©khely: 4184 TetÃ©tlen, FÃ¶ldesi ÃºtfÃ©l 0153/9. hrsz.) tagja, a 33 760 000 Ft nÃ©vÃ©rtÃ©kÅ± Ã¼zletrÃ©szÃ©bÅ‘l 16 880 000 Ft nÃ©vÃ©rtÃ©kÅ± Ã¼zletrÃ©szt dr. PolgÃ¡ri ZoltÃ¡n SÃ¡ndor Ã©s 16 880 000 Ft nÃ©vÃ©rtÃ©kÅ± Ã¼zletrÃ©szt Nemes LÃ¡szlÃ³ rÃ©szÃ©re Ã©rtÃ©kesÃ­tette, Ã­gy dr. PolgÃ¡ri ZoltÃ¡n SÃ¡ndor tagnak Ã©s Nemes LÃ¡szlÃ³ tagnak a tÃ¡rsasÃ¡g irÃ¡nyÃ­tÃ¡sÃ¡t biztosÃ­tÃ³ befolyÃ¡s mÃ©rtÃ©ke 41,58%-41,58%-ra nÅ‘tt, melyre tekintettel a tÃ¡rsasÃ¡ggal kapcsolatosan egyarÃ¡nt jelentÅ‘s befolyÃ¡ssal bÃ­rnak.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0909001038</mezo>
-<mezo id = "nev">&quot;AGROKVALIT&quot; Termelõ, Szolgáltató és Kereskedelmi Korlátolt Felelõsségü Társaság</mezo>
-<mezo id = "cim">4184 Tetétlen</mezo>
+<mezo id = "nev">&quot;AGROKVALIT&quot; TermelÅ‘, SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÃ¼ TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">4184 TetÃ©tlen</mezo>
 </alrovat>
 </rovat>
 <rovat id = "99017">

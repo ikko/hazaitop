@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">720704</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">1163 Budapest, Veres Péter út 6. </mezo>
+<mezo id = "cim">1163 Budapest, Veres PÃ©ter Ãºt 6. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">13140072242</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20031204</mezo>
-<mezo id = "nev">Endo-Plus-Service Javító, Szolgáltató és Kereskedelmi Kft.</mezo>
+<mezo id = "nev">Endo-Plus-Service JavÃ­tÃ³, SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -27,7 +27,7 @@
 <mezo id = "hattol">20111001</mezo>
 <mezo id = "irsz">1163</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Veres Péter út 6.</mezo>
+<mezo id = "teru">Veres PÃ©ter Ãºt 6.</mezo>
 <mezo id = "valtk">20111001</mezo>
 <mezo id = "bkelt">20111019</mezo>
 </alrovat>
@@ -363,12 +363,12 @@
 <rovat id = "13">
 <alrovat id = "4">
 <mezo id = "hattol">20111001</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "pnev">Wieszt Attila</mezo>
-<mezo id = "panev">Tajthy Irén</mezo>
+<mezo id = "panev">Tajthy IrÃ©n</mezo>
 <mezo id = "pirsz">1111</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Bercsényi utca 4.</mezo>
+<mezo id = "pteru">BercsÃ©nyi utca 4.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20040630</mezo>
 <mezo id = "jogvv">20140309</mezo>
@@ -397,17 +397,17 @@
 <alrovat id = "4">
 <mezo id = "hattol">20040630</mezo>
 <mezo id = "j">x</mezo>
-<mezo id = "pnev">Fehér Lászlóné sz.: Sári Franciska</mezo>
-<mezo id = "panev">Tüttõ Ilona</mezo>
+<mezo id = "pnev">FehÃ©r LÃ¡szlÃ³nÃ© sz.: SÃ¡ri Franciska</mezo>
+<mezo id = "panev">TÃ¼ttÅ‘ Ilona</mezo>
 <mezo id = "pirsz">1042</mezo>
-<mezo id = "phely">Budapest, Árpád út 32.</mezo>
+<mezo id = "phely">Budapest, ÃrpÃ¡d Ãºt 32.</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20061218</mezo>
 <mezo id = "pnev">Wieszt Attila</mezo>
-<mezo id = "panev">Tajthy Irén</mezo>
+<mezo id = "panev">Tajthy IrÃ©n</mezo>
 <mezo id = "pirsz">1111</mezo>
-<mezo id = "phely">Budapest, Bercsényi u. 4.</mezo>
+<mezo id = "phely">Budapest, BercsÃ©nyi u. 4.</mezo>
 <mezo id = "tagsk">20040630</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20060918</mezo>
@@ -415,10 +415,10 @@
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20061218</mezo>
-<mezo id = "pnev">Wieszt Gyuláné sz.: Tajthí Irén</mezo>
-<mezo id = "panev">Szabó Irén</mezo>
+<mezo id = "pnev">Wieszt GyulÃ¡nÃ© sz.: TajthÃ­ IrÃ©n</mezo>
+<mezo id = "panev">SzabÃ³ IrÃ©n</mezo>
 <mezo id = "pirsz">1111</mezo>
-<mezo id = "phely">Budapest, Bercsényi utca 4.</mezo>
+<mezo id = "phely">Budapest, BercsÃ©nyi utca 4.</mezo>
 <mezo id = "tagsk">20060918</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">0</mezo>
@@ -434,20 +434,20 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2006. 12. 18-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-1(09). Wieszt Gyuláné sz.: Tajthí Irén (an: Szabó Irén)<ujsor/>
-1111 Budapest, Bercsényi utca 4.<ujsor/>
- A tagság kezdete: 2006. 09. 18.<ujsor/>
- Törölve: 2007. 01. 24.<ujsor/>
- Wieszt Gyuláné sz.: Tajthy Irén (an: Szabó Irén)<ujsor/>
-1111 Budapest, Bercsényi utca 4.<ujsor/>
- A tagság kezdete: 2006. 09. 18.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2006. 12. 18-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+1(09). Wieszt GyulÃ¡nÃ© sz.: TajthÃ­ IrÃ©n (an: SzabÃ³ IrÃ©n)<ujsor/>
+1111 Budapest, BercsÃ©nyi utca 4.<ujsor/>
+ A tagsÃ¡g kezdete: 2006. 09. 18.<ujsor/>
+ TÃ¶rÃ¶lve: 2007. 01. 24.<ujsor/>
+ Wieszt GyulÃ¡nÃ© sz.: Tajthy IrÃ©n (an: SzabÃ³ IrÃ©n)<ujsor/>
+1111 Budapest, BercsÃ©nyi utca 4.<ujsor/>
+ A tagsÃ¡g kezdete: 2006. 09. 18.<ujsor/>
  Bejegyezve: 2007. 01. 24.<ujsor/>
 2007. 01. 24.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109720704</mezo>
-<mezo id = "nev">Endo-Plus-Service Javító, Szolgáltató és Kereskedelmi Kft.</mezo>
-<mezo id = "cim">1143 Budapest, Zászlós u. 56.</mezo>
+<mezo id = "nev">Endo-Plus-Service JavÃ­tÃ³, SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi Kft.</mezo>
+<mezo id = "cim">1143 Budapest, ZÃ¡szlÃ³s u. 56.</mezo>
 <mezo id = "adosz">13140072242</mezo>
 </alrovat>
 </rovat>

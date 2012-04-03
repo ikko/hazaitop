@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">865438</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">1139 Budapest, Röppentyû utca 48. </mezo>
+<mezo id = "cim">1139 Budapest, RÃ¶ppentyÅ± utca 48. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">13634450241</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20051229</mezo>
-<mezo id = "nev">EURO-LABOR INVEST Egészségügyi Szolgáltató és Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">EURO-LABOR INVEST EgÃ©szsÃ©gÃ¼gyi SzolgÃ¡ltatÃ³ Ã©s TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -27,7 +27,7 @@
 <mezo id = "hattol">20090504</mezo>
 <mezo id = "irsz">1139</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Röppentyû utca 48.</mezo>
+<mezo id = "teru">RÃ¶ppentyÅ± utca 48.</mezo>
 <mezo id = "valtk">20090504</mezo>
 <mezo id = "bkelt">20090610</mezo>
 </alrovat>
@@ -1010,12 +1010,12 @@
 <rovat id = "13">
 <alrovat id = "6">
 <mezo id = "hattol">20091019</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Bedõcs Gábor</mezo>
-<mezo id = "panev">Fröschl Mária</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">BedÅ‘cs GÃ¡bor</mezo>
+<mezo id = "panev">FrÃ¶schl MÃ¡ria</mezo>
 <mezo id = "pirsz">1221</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Arany János utca 65.</mezo>
+<mezo id = "pteru">Arany JÃ¡nos utca 65.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20090504</mezo>
 <mezo id = "jogvv">20140504</mezo>
@@ -1047,7 +1047,7 @@
 <rovat id = "0109">
 <alrovat id = "4">
 <mezo id = "hattol">20080326</mezo>
-<mezo id = "pnev">Kovács Egon Zsolt</mezo>
+<mezo id = "pnev">KovÃ¡cs Egon Zsolt</mezo>
 <mezo id = "panev">Makay Judit</mezo>
 <mezo id = "pirsz">1115</mezo>
 <mezo id = "phely">Budapest, Ecsed utca 8.</mezo>
@@ -1061,7 +1061,7 @@
 <alrovat id = "9">
 <mezo id = "hattol">20080908</mezo>
 <mezo id = "cgjsz">110045465</mezo>
-<mezo id = "nev">VIN-FAKTOR Vállalkozási és Pénzügyi Szolgáltató Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">VIN-FAKTOR VÃ¡llalkozÃ¡si Ã©s PÃ©nzÃ¼gyi SzolgÃ¡ltatÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "irsz">1053</mezo>
 <mezo id = "hely">Budapest</mezo>
 <mezo id = "teru">Ferenciek</mezo>
@@ -1077,11 +1077,11 @@
 <alrovat id = "12">
 <mezo id = "hattol">20090706</mezo>
 <mezo id = "cgjsz">0109167985</mezo>
-<mezo id = "nev">POSZTERHÁZ Ingatlan Center Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">POSZTERHÃZ Ingatlan Center Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1139</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Röppentyû utca 48.</mezo>
+<mezo id = "teru">RÃ¶ppentyÅ± utca 48.</mezo>
 <mezo id = "tagsk">20081215</mezo>
 <mezo id = "sz2">x</mezo>
 <mezo id = "valtk">20090706</mezo>
@@ -1092,43 +1092,43 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2008. 05. 05-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-12. önálló.<ujsor/>
- Törölve: 2006. 07. 01.<ujsor/>
-1(09). Kovács Egon Zsolt (an: Makay Judit)<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2008. 05. 05-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+12. Ã¶nÃ¡llÃ³.<ujsor/>
+ TÃ¶rÃ¶lve: 2006. 07. 01.<ujsor/>
+1(09). KovÃ¡cs Egon Zsolt (an: Makay Judit)<ujsor/>
 1115 Budapest, Ecsed utca 8.<ujsor/>
- A tagság kezdete: 2008. 03. 26.<ujsor/>
- A változás idõpontja: 2008. 03. 26.<ujsor/>
- A változás idõpontja (törlés): 2008. 03. 26.<ujsor/>
- Törölve: 2008. 03. 26.<ujsor/>
- Kecskés Egon Zsolt (an: Makai Judit)<ujsor/>
+ A tagsÃ¡g kezdete: 2008. 03. 26.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 03. 26.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2008. 03. 26.<ujsor/>
+ TÃ¶rÃ¶lve: 2008. 03. 26.<ujsor/>
+ KecskÃ©s Egon Zsolt (an: Makai Judit)<ujsor/>
 1115 Budapest, Ecsed u. 8.<ujsor/>
- A tagság kezdete: 2008. 03. 26.<ujsor/>
- A változás idõpontja: 2008. 03. 26.<ujsor/>
+ A tagsÃ¡g kezdete: 2008. 03. 26.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 03. 26.<ujsor/>
  Bejegyezve: 2008. 03. 26.<ujsor/>
 2008. 06. 05.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109865438</mezo>
-<mezo id = "nev">EURO-LABOR INVEST Egészségügyi Szolgáltató és Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1044 Budapest, Megyeri út 53.</mezo>
+<mezo id = "nev">EURO-LABOR INVEST EgÃ©szsÃ©gÃ¼gyi SzolgÃ¡ltatÃ³ Ã©s TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1044 Budapest, Megyeri Ãºt 53.</mezo>
 <mezo id = "adosz">13634450241</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2008. 10. 01-én hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-1(09). A szavazati jog mértéke meghaladja az 50%-ot.<ujsor/>
- [01 10 045465] VIN-FAKTOR Vállalkozási és Pénzügyi Szolgáltató Zártkörûen Mûködõ Részvénytársaság<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2008. 10. 01-Ã©n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+1(09). A szavazati jog mÃ©rtÃ©ke meghaladja az 50%-ot.<ujsor/>
+ [01 10 045465] VIN-FAKTOR VÃ¡llalkozÃ¡si Ã©s PÃ©nzÃ¼gyi SzolgÃ¡ltatÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g<ujsor/>
 1053 Budapest, Ferenciek tere 2. 1. em.<ujsor/>
- A tagság kezdete: 2008. 09. 08.<ujsor/>
- A változás idõpontja: 2008. 09. 08.<ujsor/>
- A változás idõpontja (törlés): 2008. 09. 08.<ujsor/>
- Törölve: 2008. 09. 08.<ujsor/>
+ A tagsÃ¡g kezdete: 2008. 09. 08.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2008. 09. 08.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2008. 09. 08.<ujsor/>
+ TÃ¶rÃ¶lve: 2008. 09. 08.<ujsor/>
 2008. 10. 07.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109865438</mezo>
-<mezo id = "nev">EURO-LABOR INVEST Egészségügyi Szolgáltató és Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1044 Budapest, Megyeri út 53.</mezo>
+<mezo id = "nev">EURO-LABOR INVEST EgÃ©szsÃ©gÃ¼gyi SzolgÃ¡ltatÃ³ Ã©s TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1044 Budapest, Megyeri Ãºt 53.</mezo>
 <mezo id = "adosz">13634450241</mezo>
 </alrovat>
 </rovat>

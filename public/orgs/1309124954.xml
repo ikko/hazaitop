@@ -6,7 +6,7 @@
 <mezo id = "szam">124954</mezo>
 <mezo id = "nevalrovat">3</mezo>
 <mezo id = "regi_szh">0109062089</mezo>
-<mezo id = "cim">2040 Budaörs, Gyár u. 2. </mezo>
+<mezo id = "cim">2040 BudaÃ¶rs, GyÃ¡r u. 2. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">10239063213</mezo>
 </alrovat>
@@ -14,7 +14,7 @@
 <rovat id = "2">
 <alrovat id = "3">
 <mezo id = "hattol">20101210</mezo>
-<mezo id = "nev">KT-ELECTRONIC Távközléstechnikai Berendezéseket Gyártó és Forgalmazó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">KT-ELECTRONIC TÃ¡vkÃ¶zlÃ©stechnikai BerendezÃ©seket GyÃ¡rtÃ³ Ã©s ForgalmazÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">20101210</mezo>
 <mezo id = "bkelt">20101215</mezo>
 </alrovat>
@@ -31,8 +31,8 @@
 <alrovat id = "2">
 <mezo id = "hattol">20080428</mezo>
 <mezo id = "irsz">2040</mezo>
-<mezo id = "hely">Budaörs</mezo>
-<mezo id = "teru">Gyár u. 2.</mezo>
+<mezo id = "hely">BudaÃ¶rs</mezo>
+<mezo id = "teru">GyÃ¡r u. 2.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">20080428</mezo>
 <mezo id = "valtv">0</mezo>
@@ -2173,13 +2173,13 @@
 <mezo id = "hattol">20110421</mezo>
 <mezo id = "valtk">20110421</mezo>
 <mezo id = "bkelt">20110511</mezo>
-<mezo id = "teaszov">Biotechnológiai kutatás, fejlesztés</mezo>
+<mezo id = "teaszov">BiotechnolÃ³giai kutatÃ¡s, fejlesztÃ©s</mezo>
 </alrovat>
 <alrovat id = "332">
 <mezo id = "hattol">20110421</mezo>
 <mezo id = "valtk">20110421</mezo>
 <mezo id = "bkelt">20110511</mezo>
-<mezo id = "teaszov">Egyéb természettudományi, mûszaki kutatás, fejlesztés</mezo>
+<mezo id = "teaszov">EgyÃ©b termÃ©szettudomÃ¡nyi, mÅ±szaki kutatÃ¡s, fejlesztÃ©s</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -2194,8 +2194,8 @@
 <rovat id = "13">
 <alrovat id = "6">
 <mezo id = "hattol">20101210</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Kis Péter</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Kis PÃ©ter</mezo>
 <mezo id = "panev">Nagy Margit</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20070423</mezo>
@@ -2207,8 +2207,8 @@
 <rovat id = "14">
 <alrovat id = "7">
 <mezo id = "hattol">20101210</mezo>
-<mezo id = "pnev">Dámóczi Johanna</mezo>
-<mezo id = "panev">Pónya Janka</mezo>
+<mezo id = "pnev">DÃ¡mÃ³czi Johanna</mezo>
+<mezo id = "panev">PÃ³nya Janka</mezo>
 <mezo id = "jogvk">20100601</mezo>
 <mezo id = "jogvv">20150531</mezo>
 <mezo id = "valtk">20101210</mezo>
@@ -2249,7 +2249,7 @@
 <rovat id = "0109">
 <alrovat id = "5">
 <mezo id = "hattol">19960910</mezo>
-<mezo id = "nev">Kis Péter</mezo>
+<mezo id = "nev">Kis PÃ©ter</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1029</mezo>
 <mezo id = "hely">Budapest, Feketefej u. 13.</mezo>
@@ -2259,11 +2259,11 @@
 <mezo id = "nev">TELETRONIK AG SWISS</mezo>
 <mezo id = "orsz">CH</mezo>
 <mezo id = "irsz">6304</mezo>
-<mezo id = "hely">Svájc</mezo>
+<mezo id = "hely">SvÃ¡jc</mezo>
 <mezo id = "teru">Vorstadt</mezo>
 <mezo id = "hsz">32.</mezo>
 <mezo id = "k">x</mezo>
-<mezo id = "pmnev">Kisné Góz Ilona</mezo>
+<mezo id = "pmnev">KisnÃ© GÃ³z Ilona</mezo>
 <mezo id = "pmanev">Kallai Ilona</mezo>
 <mezo id = "pmirsz">1029</mezo>
 <mezo id = "pmhely">Budapest, Feketefej u. 13.</mezo>

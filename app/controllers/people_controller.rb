@@ -3,6 +3,8 @@ class PeopleController < ApplicationController
 
   hobo_model_controller
 
+  include Hobofix
+
   auto_actions :all 
 
   autocomplete
@@ -107,19 +109,36 @@ class PeopleController < ApplicationController
     end
   end
 
+  def first_page
+    redirect_to "/people/#{params[:id]}?sort=#{params[:sort]}"
+  end
+
   index_action :interpersonal_pagination do
+    params[:page] ||= 1
+    @people_sort = params[:sort] || "related_person"
     @this = find_instance
     return unless @this
-    @interpersons = @this.interpersonal_relations.paginate(:per_page=>10, :page=>params[:page])
+    if @people_sort[-4..-1] == 'time' # ha időre rendeznek és nem kapcsolótáblára
+      @interpersons = InterpersonalRelation.apply_scopes(:order_by =>  @people_sort, :person_id_is => @this.id).paginate(:per_page=>10, :page=>params[:page])
+    else
+      @interpersons = InterpersonalRelation.ordered(@people_sort).apply_scopes(:person_id_is => @this.id).paginate(:per_page=>10, :page=>params[:page])
+    end
   end
 
   index_action :person_to_org_pagination do
+    params[:page] ||= 1
+    @org_sort = params[:sort] || "organization"
     @this = find_instance
     return unless @this
-    @person_to_orgs = @this.person_to_org_relations.paginate(:per_page=>10, :page=>params[:page])
+    if @org_sort[-4..-1] == 'time' # ha időre rendeznek és nem kapcsolótáblára
+      @person_to_orgs = PersonToOrgRelation.apply_scopes(:order_by =>  @org_sort, :person_id_is => @this.id).paginate(:per_page=>10, :page=>params[:page])
+    else
+      @person_to_orgs = PersonToOrgRelation.ordered(@org_sort).apply_scopes(:person_id_is => @this.id).paginate(:per_page=>10, :page=>params[:page])
+    end
   end
 
   index_action :history_pagination do
+    first_page and return unless params[:page]
     @this = find_instance
     return unless @this
     @histories = @this.person_histories.paginate(:per_page=>10, :page=>params[:page])
@@ -127,10 +146,9 @@ class PeopleController < ApplicationController
 
   def show
     @this = find_instance
-
     respond_to do |format| 
       format.html  { hobo_show @this }
-       format.xml  { render( :xml => { "data" =>  @this, "interpersonal_relations" => @this.interpersonal_relations, "person_to_org_relations" => @this.person_to_org_relations }  ) }
+      format.xml  { render( :xml => { "data" =>  @this, "interpersonal_relations" => @this.interpersonal_relations, "person_to_org_relations" => @this.person_to_org_relations }  ) }
       format.json  { render( :json => { "data"=>  @this, "interpersonal_relations"  => @this.interpersonal_relations, "person_to_org_relations" => @this.person_to_org_relations } ) }
     end
   end

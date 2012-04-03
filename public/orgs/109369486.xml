@@ -6,7 +6,7 @@
 <mezo id = "szam">369486</mezo>
 <mezo id = "nevalrovat">1</mezo>
 <mezo id = "allapot">3</mezo>
-<mezo id = "cim">1037 Budapest, Seregély utca 17. </mezo>
+<mezo id = "cim">1037 Budapest, SeregÃ©ly utca 17. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">12033997241</mezo>
 </alrovat>
@@ -14,7 +14,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19950331</mezo>
-<mezo id = "nev">Ferihegyi Utasterminál Fejlesztõ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Ferihegyi UtasterminÃ¡l FejlesztÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -37,7 +37,7 @@
 <mezo id = "hattol">20070702</mezo>
 <mezo id = "irsz">1037</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Seregély utca 17.</mezo>
+<mezo id = "teru">SeregÃ©ly utca 17.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">20070702</mezo>
 <mezo id = "valtv">0</mezo>
@@ -208,10 +208,10 @@
 <rovat id = "13">
 <alrovat id = "12">
 <mezo id = "hattol">20070117</mezo>
-<mezo id = "pnev">Boros András</mezo>
-<mezo id = "panev">Szendeffi Mária</mezo>
+<mezo id = "pnev">Boros AndrÃ¡s</mezo>
+<mezo id = "panev">Szendeffi MÃ¡ria</mezo>
 <mezo id = "pirsz">1037</mezo>
-<mezo id = "phely">Budapest, Máramaros u. 11/b.</mezo>
+<mezo id = "phely">Budapest, MÃ¡ramaros u. 11/b.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">d</mezo>
 <mezo id = "jogvk">20061031</mezo>
@@ -222,13 +222,13 @@
 <alrovat id = "14">
 <mezo id = "hattol">20110112</mezo>
 <mezo id = "cgjsz">0110041755</mezo>
-<mezo id = "nev">Budapest Investment Magyar Befektetési és Tanácsadó Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">Budapest Investment Magyar BefektetÃ©si Ã©s TanÃ¡csadÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1037</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Seregély u. 17.</mezo>
-<mezo id = "tiszt">végelszámoló</mezo>
-<mezo id = "pnev">Bana Károlyné</mezo>
+<mezo id = "teru">SeregÃ©ly u. 17.</mezo>
+<mezo id = "tiszt">vÃ©gelszÃ¡molÃ³</mezo>
+<mezo id = "pnev">Bana KÃ¡rolynÃ©</mezo>
 <mezo id = "panev">Nyulassi Zsuzsanna</mezo>
 <mezo id = "pirsz">1138</mezo>
 <mezo id = "phely">Budapest</mezo>
@@ -244,16 +244,16 @@
 <alrovat id = "7">
 <mezo id = "hattol">20090602</mezo>
 <mezo id = "cgjsz">0109063183</mezo>
-<mezo id = "nev">KPMG Hungária Könyvvizsgáló, Adó- és Közgazdasági Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">KPMG HungÃ¡ria KÃ¶nyvvizsgÃ¡lÃ³, AdÃ³- Ã©s KÃ¶zgazdasÃ¡gi TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1139</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Váci út 99.</mezo>
+<mezo id = "teru">VÃ¡ci Ãºt 99.</mezo>
 <mezo id = "pnev">dr.Eperjesi Ferenc</mezo>
-<mezo id = "panev">Kiss Erzsébet</mezo>
+<mezo id = "panev">Kiss ErzsÃ©bet</mezo>
 <mezo id = "pirsz">1039</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Ady Endre út 20.</mezo>
+<mezo id = "pteru">Ady Endre Ãºt 20.</mezo>
 <mezo id = "jogvk">20090601</mezo>
 <mezo id = "jogvv">20100531</mezo>
 <mezo id = "valtk">20090602</mezo>
@@ -264,9 +264,9 @@
 <alrovat id = "35">
 <mezo id = "hattol">20070117</mezo>
 <mezo id = "pnev">Lendvai Magdolna</mezo>
-<mezo id = "panev">Urbán Mária</mezo>
+<mezo id = "panev">UrbÃ¡n MÃ¡ria</mezo>
 <mezo id = "pirsz">1123</mezo>
-<mezo id = "phely">Budapest, Ráth György u. 3.</mezo>
+<mezo id = "phely">Budapest, RÃ¡th GyÃ¶rgy u. 3.</mezo>
 <mezo id = "jogvk">20061031</mezo>
 <mezo id = "jogvv">20111031</mezo>
 <mezo id = "valtk">0</mezo>
@@ -275,9 +275,9 @@
 <alrovat id = "37">
 <mezo id = "hattol">20071001</mezo>
 <mezo id = "pnev">dr. Remetei Filep Zsuzsanna</mezo>
-<mezo id = "panev">dr. Szõts Edit Franciska</mezo>
+<mezo id = "panev">dr. SzÅ‘ts Edit Franciska</mezo>
 <mezo id = "pirsz">1028</mezo>
-<mezo id = "phely">Budapest, Kertváros u. 16.</mezo>
+<mezo id = "phely">Budapest, KertvÃ¡ros u. 16.</mezo>
 <mezo id = "jogvk">20071001</mezo>
 <mezo id = "jogvv">20111031</mezo>
 <mezo id = "valtk">20071001</mezo>
@@ -288,10 +288,10 @@
 <alrovat id = "38">
 <mezo id = "hattol">20090602</mezo>
 <mezo id = "pnev">Dr.Cseh Katalin</mezo>
-<mezo id = "panev">Faragó Katalin</mezo>
+<mezo id = "panev">FaragÃ³ Katalin</mezo>
 <mezo id = "pirsz">3300</mezo>
 <mezo id = "phely">Eger</mezo>
-<mezo id = "pteru">Maklári út 21.</mezo>
+<mezo id = "pteru">MaklÃ¡ri Ãºt 21.</mezo>
 <mezo id = "jogvk">20090616</mezo>
 <mezo id = "jogvv">20111031</mezo>
 <mezo id = "valtk">20090602</mezo>
@@ -318,7 +318,7 @@
 <alrovat id = "10">
 <mezo id = "hattol">20080703</mezo>
 <mezo id = "cgjsz">110045784</mezo>
-<mezo id = "nev">Magyar Állam. Magyar Nemzeti Vagyonkezelõ Zártkörûen mûködõ Rt.</mezo>
+<mezo id = "nev">Magyar Ãllam. Magyar Nemzeti VagyonkezelÅ‘ ZÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ Rt.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1133</mezo>
 <mezo id = "hely">Budapest</mezo>
@@ -341,95 +341,95 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Ferihegy Utasterminál Fejlesztõ Kft. (1185 Budapest, Ferihegy-Airport) tulajdonosa 1996. június 17-én hozott alapítói határozatában úgy határozott, hogy cégét<ujsor/>
-egyszemélyes részvénytársasággá<ujsor/>
-alakítja át.<ujsor/>
+<mezo id = "szoveg">A Ferihegy UtasterminÃ¡l FejlesztÅ‘ Kft. (1185 Budapest, Ferihegy-Airport) tulajdonosa 1996. jÃºnius 17-Ã©n hozott alapÃ­tÃ³i hatÃ¡rozatÃ¡ban Ãºgy hatÃ¡rozott, hogy cÃ©gÃ©t<ujsor/>
+egyszemÃ©lyes rÃ©szvÃ©nytÃ¡rsasÃ¡ggÃ¡<ujsor/>
+alakÃ­tja Ã¡t.<ujsor/>
 A tulajdonos: Airport Development Coprporation, 370 Queens&apos;s Quay West Suite 300., Toronto, Ontario, M5V 3J3 Kanada.<ujsor/>
-A Ferihegy Utasterminál Fejlesztõ Kft. 1 000 000 Ft (egymillió forint) törzstõkéjû, 100% külföldi tulajdoni részesedésû, egyszemélyes társaság.<ujsor/>
-Az átalakulás következtében létrejövõ új társaság cégneve: Ferihegy Utasterminál Fejlesztõ Rt.<ujsor/>
-Székhelye: 1185 Budapest, Ferihegy-Repülõtér.<ujsor/>
-Az átalakulás célja, hogy az átalakuló társaság a pénzintézeteknek és más hitelezõknek fokozottabb biztonságot nyújtson.<ujsor/>
-Az átalakulás tervezett idõpontja. 1996. augusztus 1.<ujsor/>
-Az átalakulás következtében létrejövõ társaság tervezett alaptõkéje: 10 000 000 Ft (tízmillió forint), amely 1000 db (egyezer darab) 10 000 Ft (tízezer forint) névértékû, névre szóló törzsrészvényre oszlik, és amely az Airport Development Corporation által az 1988. évi VI. tv. 251. §-a alapján teljesített befizetés ellenében teljes egészében az Airport Development Corporation tulajudonában áll.<ujsor/>
-A társaság határozatlan idõre alakul, és általános jogutódja a vele azonos nevû kft.-nek.<ujsor/>
-Az átalakulási vagyonmérleg fõbb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Pénzeszközök 1036 I. Jegyzett tõke 1000<ujsor/>
-Forgóeszközök összesen: 1036 II. Tõketartalék 37<ujsor/>
-  III. Elõzõ évek áthozott vesztesége -1<ujsor/>
-  Saját tõke összesen: 1036<ujsor/>
-ÖSSZESEN: 1036 ÖSSZESEN: 1036<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+A Ferihegy UtasterminÃ¡l FejlesztÅ‘ Kft. 1 000 000 Ft (egymilliÃ³ forint) tÃ¶rzstÅ‘kÃ©jÅ±, 100% kÃ¼lfÃ¶ldi tulajdoni rÃ©szesedÃ©sÅ±, egyszemÃ©lyes tÃ¡rsasÃ¡g.<ujsor/>
+Az Ã¡talakulÃ¡s kÃ¶vetkeztÃ©ben lÃ©trejÃ¶vÅ‘ Ãºj tÃ¡rsasÃ¡g cÃ©gneve: Ferihegy UtasterminÃ¡l FejlesztÅ‘ Rt.<ujsor/>
+SzÃ©khelye: 1185 Budapest, Ferihegy-RepÃ¼lÅ‘tÃ©r.<ujsor/>
+Az Ã¡talakulÃ¡s cÃ©lja, hogy az Ã¡talakulÃ³ tÃ¡rsasÃ¡g a pÃ©nzintÃ©zeteknek Ã©s mÃ¡s hitelezÅ‘knek fokozottabb biztonsÃ¡got nyÃºjtson.<ujsor/>
+Az Ã¡talakulÃ¡s tervezett idÅ‘pontja. 1996. augusztus 1.<ujsor/>
+Az Ã¡talakulÃ¡s kÃ¶vetkeztÃ©ben lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g tervezett alaptÅ‘kÃ©je: 10 000 000 Ft (tÃ­zmilliÃ³ forint), amely 1000 db (egyezer darab) 10 000 Ft (tÃ­zezer forint) nÃ©vÃ©rtÃ©kÅ±, nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©nyre oszlik, Ã©s amely az Airport Development Corporation Ã¡ltal az 1988. Ã©vi VI. tv. 251. Â§-a alapjÃ¡n teljesÃ­tett befizetÃ©s ellenÃ©ben teljes egÃ©szÃ©ben az Airport Development Corporation tulajudonÃ¡ban Ã¡ll.<ujsor/>
+A tÃ¡rsasÃ¡g hatÃ¡rozatlan idÅ‘re alakul, Ã©s Ã¡ltalÃ¡nos jogutÃ³dja a vele azonos nevÅ± kft.-nek.<ujsor/>
+Az Ã¡talakulÃ¡si vagyonmÃ©rleg fÅ‘bb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 1036 I. Jegyzett tÅ‘ke 1000<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k Ã¶sszesen: 1036 II. TÅ‘ketartalÃ©k 37<ujsor/>
+  III. ElÅ‘zÅ‘ Ã©vek Ã¡thozott vesztesÃ©ge -1<ujsor/>
+  SajÃ¡t tÅ‘ke Ã¶sszesen: 1036<ujsor/>
+Ã–SSZESEN: 1036 Ã–SSZESEN: 1036<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109369486</mezo>
-<mezo id = "nev">Ferihegyi Utasterminál Fejlesztõ Korlátolt Felelõsségû Tárasaság</mezo>
+<mezo id = "nev">Ferihegyi UtasterminÃ¡l FejlesztÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rasasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a Cégközlönyben közzéteszi a fenti gazdálkodó szervezet végelszámolási eljárásának megindítását.<ujsor/>
-A végelszámolást elrendelõ szerv neve: alapító.<ujsor/>
-A megszûnés elhatározásának idõpontja: 2006. 12. 27.<ujsor/>
-A végelszámolás kezdõ idõpontja: 2007. 01. 01.<ujsor/>
-Törölni rendelt cégjegyzésre jogosult(ak):<ujsor/>
- A képviselet módja: önálló.<ujsor/>
- Tisztsége: vezetõ tisztségviselõ (ügyvezetõ).<ujsor/>
- Boros András (an: Szendeffi Mária)<ujsor/>
-1037 Budapest, Máramaros u. 11/b.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a CÃ©gkÃ¶zlÃ¶nyben kÃ¶zzÃ©teszi a fenti gazdÃ¡lkodÃ³ szervezet vÃ©gelszÃ¡molÃ¡si eljÃ¡rÃ¡sÃ¡nak megindÃ­tÃ¡sÃ¡t.<ujsor/>
+A vÃ©gelszÃ¡molÃ¡st elrendelÅ‘ szerv neve: alapÃ­tÃ³.<ujsor/>
+A megszÅ±nÃ©s elhatÃ¡rozÃ¡sÃ¡nak idÅ‘pontja: 2006. 12. 27.<ujsor/>
+A vÃ©gelszÃ¡molÃ¡s kezdÅ‘ idÅ‘pontja: 2007. 01. 01.<ujsor/>
+TÃ¶rÃ¶lni rendelt cÃ©gjegyzÃ©sre jogosult(ak):<ujsor/>
+ A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘).<ujsor/>
+ Boros AndrÃ¡s (an: Szendeffi MÃ¡ria)<ujsor/>
+1037 Budapest, MÃ¡ramaros u. 11/b.<ujsor/>
  A jogviszony kezdete: 2006. 10. 31.<ujsor/>
- A jogviszony vége: 2011. 10. 31.<ujsor/>
- A változás idõpontja: 2007. 01. 01.<ujsor/>
- Törölve: 2007. 02. 08.<ujsor/>
-Végelszámoló(k) és cégjegyzésre jogosult(ak):<ujsor/>
- A képviselet módja: önálló.<ujsor/>
- Tisztsége: végelszámoló.<ujsor/>
- Boros András (an: Szendeffi Mária)<ujsor/>
-1037 Budapest, Máramaros u. 11/b.<ujsor/>
- [01 10 041755] Budapest Investment Magyar Befektetési és Tanácsadó Zártkörûen Mûködõ Részvénytársaság<ujsor/>
-HU 1037 Budapest, Seregély u. 17.<ujsor/>
+ A jogviszony vÃ©ge: 2011. 10. 31.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja: 2007. 01. 01.<ujsor/>
+ TÃ¶rÃ¶lve: 2007. 02. 08.<ujsor/>
+VÃ©gelszÃ¡molÃ³(k) Ã©s cÃ©gjegyzÃ©sre jogosult(ak):<ujsor/>
+ A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: vÃ©gelszÃ¡molÃ³.<ujsor/>
+ Boros AndrÃ¡s (an: Szendeffi MÃ¡ria)<ujsor/>
+1037 Budapest, MÃ¡ramaros u. 11/b.<ujsor/>
+ [01 10 041755] Budapest Investment Magyar BefektetÃ©si Ã©s TanÃ¡csadÃ³ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g<ujsor/>
+HU 1037 Budapest, SeregÃ©ly u. 17.<ujsor/>
  A jogviszony kezdete: 2007. 01. 01.<ujsor/>
  Bejegyezve: 2007. 02. 08.<ujsor/>
-A bíróság felhívja a végelszámolás alatt<ujsor/>
-álló cég hitelezõit, hogy ismert<ujsor/>
-követeléseiket a végelszámolás<ujsor/>
-megindítását tartalmazó végzés<ujsor/>
-közzétételétõl számított 40 napon belül<ujsor/>
-a végelszámolónak jelentsék be.<ujsor/>
-A fenti adat(ok) bejegyzése és közzététele<ujsor/>
-a következõ okirat(ok) alapján történt:<ujsor/>
-módosító alapító okirat egységes szerkezetben;<ujsor/>
-alapítási határozat;<ujsor/>
-egyéb (elfogadó nyilatk. , FB ügyvezetés véleménye, nyilatkozata).<ujsor/>
-Az okirat(ok) a cég cégjegyzékét vezetõ<ujsor/>
-cégbíróságon megtekinthetõk.<ujsor/>
+A bÃ­rÃ³sÃ¡g felhÃ­vja a vÃ©gelszÃ¡molÃ¡s alatt<ujsor/>
+Ã¡llÃ³ cÃ©g hitelezÅ‘it, hogy ismert<ujsor/>
+kÃ¶vetelÃ©seiket a vÃ©gelszÃ¡molÃ¡s<ujsor/>
+megindÃ­tÃ¡sÃ¡t tartalmazÃ³ vÃ©gzÃ©s<ujsor/>
+kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott 40 napon belÃ¼l<ujsor/>
+a vÃ©gelszÃ¡molÃ³nak jelentsÃ©k be.<ujsor/>
+A fenti adat(ok) bejegyzÃ©se Ã©s kÃ¶zzÃ©tÃ©tele<ujsor/>
+a kÃ¶vetkezÅ‘ okirat(ok) alapjÃ¡n tÃ¶rtÃ©nt:<ujsor/>
+mÃ³dosÃ­tÃ³ alapÃ­tÃ³ okirat egysÃ©ges szerkezetben;<ujsor/>
+alapÃ­tÃ¡si hatÃ¡rozat;<ujsor/>
+egyÃ©b (elfogadÃ³ nyilatk. , FB Ã¼gyvezetÃ©s vÃ©lemÃ©nye, nyilatkozata).<ujsor/>
+Az okirat(ok) a cÃ©g cÃ©gjegyzÃ©kÃ©t vezetÅ‘<ujsor/>
+cÃ©gbÃ­rÃ³sÃ¡gon megtekinthetÅ‘k.<ujsor/>
 2007. 02. 08.<ujsor/>
-A közzététel idõpontja: 2007. 03. 08.<ujsor/>
+A kÃ¶zzÃ©tÃ©tel idÅ‘pontja: 2007. 03. 08.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109369486</mezo>
-<mezo id = "nev">Ferihegyi Utasterminál Fejlesztõ Korlátolt Felelõsségû Társaság &quot;végelszámolás alatt&quot;</mezo>
+<mezo id = "nev">Ferihegyi UtasterminÃ¡l FejlesztÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g &quot;vÃ©gelszÃ¡molÃ¡s alatt&quot;</mezo>
 <mezo id = "cim">1037 Budapest, Montevideo utca 2/b.</mezo>
 <mezo id = "adosz">12033997241</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Ferihegyi Utasterminál Fejlesztõ Korlátolt Felelõsségû Társaság „v. a.” (Cg.: [01 09 369486]; székhelye: 1037 Budapest, Seregély u. 17.; korábban: 1037 Budapest, Montevideo u. 2/B) egyszemélyes társaság egyedüli tulajdonos tagja 2007 július 2-án elhatározta a társaság törzstõkéjének leszállítását 2 650 000 000 Ft-tal (kettõmilliárd-hatszázötvenmillió forinttal).<ujsor/>
-A törzstõke-leszállításra tõkekivonás céljából kerül sor, melynek következtében a társaság törzstõkéje 2 949 120 000 Ft-ról (kettõmilliárd-kilencszáznegyvenkilencmillió-egyszázhúszezer forintról) 299 120 000 Ft-ra (kettõszázkilencvenkilencmillió-egyszázhúszezer forintra) változik.<ujsor/>
-A 2006. évi IV. tv. 162. § (1) bekezdése alapján felhívjuk a társaság hitelezõit, hogy a hirdetmény elsõ alkalommal történt közzétételét megelõzõen keletkezett és ezen idõpontig esedékessé nem vált követeléseik után ­ a (3) bekezdés szerinti kivételekkel ­ biztosítékra tarthatnak igényt. A hitelezõk a hirdetmény utolsó közzétételétõl számított 30 napos jogvesztõ határidõn belül jogosultak bejelenteni, ha a társaság törzstõkéjének leszállításával összefüggésben biztosítékra tartanak igényt. (Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">A Ferihegyi UtasterminÃ¡l FejlesztÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g â€v. a.â€ (Cg.: [01 09 369486]; szÃ©khelye: 1037 Budapest, SeregÃ©ly u. 17.; korÃ¡bban: 1037 Budapest, Montevideo u. 2/B) egyszemÃ©lyes tÃ¡rsasÃ¡g egyedÃ¼li tulajdonos tagja 2007 jÃºlius 2-Ã¡n elhatÃ¡rozta a tÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©jÃ©nek leszÃ¡llÃ­tÃ¡sÃ¡t 2 650 000 000 Ft-tal (kettÅ‘milliÃ¡rd-hatszÃ¡zÃ¶tvenmilliÃ³ forinttal).<ujsor/>
+A tÃ¶rzstÅ‘ke-leszÃ¡llÃ­tÃ¡sra tÅ‘kekivonÃ¡s cÃ©ljÃ¡bÃ³l kerÃ¼l sor, melynek kÃ¶vetkeztÃ©ben a tÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©je 2 949 120 000 Ft-rÃ³l (kettÅ‘milliÃ¡rd-kilencszÃ¡znegyvenkilencmilliÃ³-egyszÃ¡zhÃºszezer forintrÃ³l) 299 120 000 Ft-ra (kettÅ‘szÃ¡zkilencvenkilencmilliÃ³-egyszÃ¡zhÃºszezer forintra) vÃ¡ltozik.<ujsor/>
+A 2006. Ã©vi IV. tv. 162. Â§ (1) bekezdÃ©se alapjÃ¡n felhÃ­vjuk a tÃ¡rsasÃ¡g hitelezÅ‘it, hogy a hirdetmÃ©ny elsÅ‘ alkalommal tÃ¶rtÃ©nt kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkezett Ã©s ezen idÅ‘pontig esedÃ©kessÃ© nem vÃ¡lt kÃ¶vetelÃ©seik utÃ¡n Â­ a (3) bekezdÃ©s szerinti kivÃ©telekkel Â­ biztosÃ­tÃ©kra tarthatnak igÃ©nyt. A hitelezÅ‘k a hirdetmÃ©ny utolsÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott 30 napos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l jogosultak bejelenteni, ha a tÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©jÃ©nek leszÃ¡llÃ­tÃ¡sÃ¡val Ã¶sszefÃ¼ggÃ©sben biztosÃ­tÃ©kra tartanak igÃ©nyt. (ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109369486</mezo>
-<mezo id = "nev">Ferihegyi Utasterminál Fejlesztõ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Ferihegyi UtasterminÃ¡l FejlesztÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1037 Budapest</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Ferihegyi Utasterminál Fejlesztõ Korlátolt Felelõsségû Társaság „v. a.” (Cg.: [01 09 369486]; székhelye: 1037 Budapest, Seregély u. 17.; korábban: 1037 Budapest, Montevideo u. 2/B) egyszemélyes társaság egyedüli tulajdonos tagja 2007. július 2-án elhatározta a társaság törzstõkéjének leszállítását 2 650 000 000 Ft-tal (kettõmilliárd-hatszázötvenmillió forinttal).<ujsor/>
-A törzstõke-leszállításra tõkekivonás céljából kerül sor, melynek következtében a társaság törzstõkéje 2 949 120 000 Ft-ról (kettõmilliárd-kilencszáznegyvenkilencmillió-egyszázhúszezer forintról) 299 120 000 Ft-ra (kettõszázkilencvenkilencmillió-egyszázhúszezer forintra) változik.<ujsor/>
-A 2006. évi IV. tv. 162. § (1) bekezdése alapján felhívjuk a társaság hitelezõit, hogy a hirdetmény elsõ alkalommal történt közzétételét megelõzõen keletkezett és ezen idõpontig esedékessé nem vált követeléseik után ­ a (3) bekezdés szerinti kivételekkel ­ biztosítékra tarthatnak igényt. A hitelezõk a hirdetmény utolsó közzétételétõl számított 30 napos jogvesztõ határidõn belül jogosultak bejelenteni, ha a társaság törzstõkéjének leszállításával összefüggésben biztosítékra tartanak igényt. (Második közzététel.)<ujsor/>
+<mezo id = "szoveg">A Ferihegyi UtasterminÃ¡l FejlesztÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g â€v. a.â€ (Cg.: [01 09 369486]; szÃ©khelye: 1037 Budapest, SeregÃ©ly u. 17.; korÃ¡bban: 1037 Budapest, Montevideo u. 2/B) egyszemÃ©lyes tÃ¡rsasÃ¡g egyedÃ¼li tulajdonos tagja 2007. jÃºlius 2-Ã¡n elhatÃ¡rozta a tÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©jÃ©nek leszÃ¡llÃ­tÃ¡sÃ¡t 2 650 000 000 Ft-tal (kettÅ‘milliÃ¡rd-hatszÃ¡zÃ¶tvenmilliÃ³ forinttal).<ujsor/>
+A tÃ¶rzstÅ‘ke-leszÃ¡llÃ­tÃ¡sra tÅ‘kekivonÃ¡s cÃ©ljÃ¡bÃ³l kerÃ¼l sor, melynek kÃ¶vetkeztÃ©ben a tÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©je 2 949 120 000 Ft-rÃ³l (kettÅ‘milliÃ¡rd-kilencszÃ¡znegyvenkilencmilliÃ³-egyszÃ¡zhÃºszezer forintrÃ³l) 299 120 000 Ft-ra (kettÅ‘szÃ¡zkilencvenkilencmilliÃ³-egyszÃ¡zhÃºszezer forintra) vÃ¡ltozik.<ujsor/>
+A 2006. Ã©vi IV. tv. 162. Â§ (1) bekezdÃ©se alapjÃ¡n felhÃ­vjuk a tÃ¡rsasÃ¡g hitelezÅ‘it, hogy a hirdetmÃ©ny elsÅ‘ alkalommal tÃ¶rtÃ©nt kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkezett Ã©s ezen idÅ‘pontig esedÃ©kessÃ© nem vÃ¡lt kÃ¶vetelÃ©seik utÃ¡n Â­ a (3) bekezdÃ©s szerinti kivÃ©telekkel Â­ biztosÃ­tÃ©kra tarthatnak igÃ©nyt. A hitelezÅ‘k a hirdetmÃ©ny utolsÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott 30 napos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l jogosultak bejelenteni, ha a tÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©jÃ©nek leszÃ¡llÃ­tÃ¡sÃ¡val Ã¶sszefÃ¼ggÃ©sben biztosÃ­tÃ©kra tartanak igÃ©nyt. (MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109369486</mezo>
-<mezo id = "nev">Ferihegyi Utasterminál Fejlesztõ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Ferihegyi UtasterminÃ¡l FejlesztÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1037 Budapest</mezo>
 </alrovat>
 </rovat>

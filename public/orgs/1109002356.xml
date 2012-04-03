@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">002356</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">2901 Komárom, Igmándi u. 1. </mezo>
+<mezo id = "cim">2901 KomÃ¡rom, IgmÃ¡ndi u. 1. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">11180663211</mezo>
 </alrovat>
@@ -13,29 +13,29 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19920331</mezo>
-<mezo id = "nev">Komáromi Nyomda és Kiadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">KomÃ¡romi Nyomda Ã©s KiadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">19920331</mezo>
-<mezo id = "nev">Komáromi Nyomda és Kiadó Kft.</mezo>
+<mezo id = "nev">KomÃ¡romi Nyomda Ã©s KiadÃ³ Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
 <alrovat id = "1">
 <mezo id = "hattol">19920331</mezo>
 <mezo id = "irsz">2901</mezo>
-<mezo id = "hely">Komárom</mezo>
-<mezo id = "teru">Igmándi u. 1.</mezo>
+<mezo id = "hely">KomÃ¡rom</mezo>
+<mezo id = "teru">IgmÃ¡ndi u. 1.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "6">
 <alrovat id = "2">
 <mezo id = "hattol">20101221</mezo>
 <mezo id = "irsz">2900</mezo>
-<mezo id = "hely">Komárom</mezo>
-<mezo id = "teru">Kelemen László utca 4.</mezo>
+<mezo id = "hely">KomÃ¡rom</mezo>
+<mezo id = "teru">Kelemen LÃ¡szlÃ³ utca 4.</mezo>
 <mezo id = "valtk">20101221</mezo>
 <mezo id = "bkelt">20101227</mezo>
 </alrovat>
@@ -44,8 +44,8 @@
 <alrovat id = "1">
 <mezo id = "hattol">20101221</mezo>
 <mezo id = "irsz">2800</mezo>
-<mezo id = "hely">Tatabánya</mezo>
-<mezo id = "teru">Gyõri utca 19.</mezo>
+<mezo id = "hely">TatabÃ¡nya</mezo>
+<mezo id = "teru">GyÅ‘ri utca 19.</mezo>
 <mezo id = "valtk">20101221</mezo>
 <mezo id = "bkelt">20101227</mezo>
 </alrovat>
@@ -420,9 +420,9 @@
 <rovat id = "13">
 <alrovat id = "7">
 <mezo id = "hattol">20101221</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Kovács János Ferenc</mezo>
-<mezo id = "panev">Kertes Mária</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">KovÃ¡cs JÃ¡nos Ferenc</mezo>
+<mezo id = "panev">Kertes MÃ¡ria</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20101221</mezo>
 <mezo id = "valtk">20101221</mezo>
@@ -431,9 +431,9 @@
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">20101221</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Kovács János Ferencné</mezo>
-<mezo id = "panev">Herbszt Irén</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">KovÃ¡cs JÃ¡nos FerencnÃ©</mezo>
+<mezo id = "panev">Herbszt IrÃ©n</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20101221</mezo>
 <mezo id = "valtk">20101221</mezo>
@@ -444,10 +444,10 @@
 <rovat id = "14">
 <alrovat id = "3">
 <mezo id = "hattol">20090112</mezo>
-<mezo id = "pnev">Békássy Istvánné</mezo>
+<mezo id = "pnev">BÃ©kÃ¡ssy IstvÃ¡nnÃ©</mezo>
 <mezo id = "panev">Szommer Katalin</mezo>
 <mezo id = "pirsz">2900</mezo>
-<mezo id = "phely">Komárom, Mártírok útja 121.</mezo>
+<mezo id = "phely">KomÃ¡rom, MÃ¡rtÃ­rok Ãºtja 121.</mezo>
 <mezo id = "jogvk">20090112</mezo>
 <mezo id = "jogvv">20120112</mezo>
 <mezo id = "valtk">20090112</mezo>
@@ -460,8 +460,8 @@
 <alrovat id = "1">
 <mezo id = "hattol">19920331</mezo>
 <mezo id = "cgjsz">1101000545</mezo>
-<mezo id = "nev">Komárom-Esztergom Megyei Nyomda és Kiadó Váll.</mezo>
-<mezo id = "mod">vállalasti tanács határozata</mezo>
+<mezo id = "nev">KomÃ¡rom-Esztergom Megyei Nyomda Ã©s KiadÃ³ VÃ¡ll.</mezo>
+<mezo id = "mod">vÃ¡llalasti tanÃ¡cs hatÃ¡rozata</mezo>
 </alrovat>
 </rovat>
 <rovat id = "20">
@@ -481,10 +481,10 @@
 <rovat id = "0109">
 <alrovat id = "18">
 <mezo id = "hattol">20070207</mezo>
-<mezo id = "pnev">Kovács Jánosné</mezo>
-<mezo id = "panev">Szabó Klára</mezo>
+<mezo id = "pnev">KovÃ¡cs JÃ¡nosnÃ©</mezo>
+<mezo id = "panev">SzabÃ³ KlÃ¡ra</mezo>
 <mezo id = "pirsz">2921</mezo>
-<mezo id = "phely">Komárom, Balaton utca 14.</mezo>
+<mezo id = "phely">KomÃ¡rom, Balaton utca 14.</mezo>
 <mezo id = "tagsk">19921221</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "sz1">x</mezo>
@@ -493,8 +493,8 @@
 </alrovat>
 <alrovat id = "21">
 <mezo id = "hattol">20101221</mezo>
-<mezo id = "pnev">Kovács János Ferencné</mezo>
-<mezo id = "panev">Herbszt Irén</mezo>
+<mezo id = "pnev">KovÃ¡cs JÃ¡nos FerencnÃ©</mezo>
+<mezo id = "panev">Herbszt IrÃ©n</mezo>
 <mezo id = "tagsk">19921221</mezo>
 <mezo id = "sz1">x</mezo>
 <mezo id = "valtk">20101221</mezo>
@@ -502,8 +502,8 @@
 </alrovat>
 <alrovat id = "22">
 <mezo id = "hattol">20101221</mezo>
-<mezo id = "pnev">Kovács János Ferenc</mezo>
-<mezo id = "panev">Kertes Mária</mezo>
+<mezo id = "pnev">KovÃ¡cs JÃ¡nos Ferenc</mezo>
+<mezo id = "panev">Kertes MÃ¡ria</mezo>
 <mezo id = "tagsk">19921221</mezo>
 <mezo id = "valtk">20101221</mezo>
 <mezo id = "bkelt">20101227</mezo>
@@ -518,53 +518,53 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Komáromi Nyomda és Kiadó Korlátolt Felelõsségû Társaság (székhely: 2901 Komárom, Igmándi út 1.; cégjegyzékszám: [11 09 002356]) értesíti hitelezõit, hogy az 1996. június 4-i taggyûlésén 3/1996. sz. határozatával a társaság törzstõkéjét 49 900 000 Ft-ról (negyvenkilencmillió-kilencszázezer forintról) 48 940 000 Ft-ra (negyvennyolcmillió-kilencszáznegyvenezer forintra) szállította le.<ujsor/>
-A leszállítás kizárólag a Komárom Város Polgármesteri Hivatal - Komárom, Szabadság tér 1. - üzletrészét érinti.<ujsor/>
-A társaság a Gt. 225. §-a alapján felhívja az esetleges hitelezõit, hogy jelen hirdetmény második közzétételétõl számított 3 hónapon belül a társasággal szembeni követelésüket jelentsék be.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">A KomÃ¡romi Nyomda Ã©s KiadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (szÃ©khely: 2901 KomÃ¡rom, IgmÃ¡ndi Ãºt 1.; cÃ©gjegyzÃ©kszÃ¡m: [11 09 002356]) Ã©rtesÃ­ti hitelezÅ‘it, hogy az 1996. jÃºnius 4-i taggyÅ±lÃ©sÃ©n 3/1996. sz. hatÃ¡rozatÃ¡val a tÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©jÃ©t 49 900 000 Ft-rÃ³l (negyvenkilencmilliÃ³-kilencszÃ¡zezer forintrÃ³l) 48 940 000 Ft-ra (negyvennyolcmilliÃ³-kilencszÃ¡znegyvenezer forintra) szÃ¡llÃ­totta le.<ujsor/>
+A leszÃ¡llÃ­tÃ¡s kizÃ¡rÃ³lag a KomÃ¡rom VÃ¡ros PolgÃ¡rmesteri Hivatal - KomÃ¡rom, SzabadsÃ¡g tÃ©r 1. - Ã¼zletrÃ©szÃ©t Ã©rinti.<ujsor/>
+A tÃ¡rsasÃ¡g a Gt. 225. Â§-a alapjÃ¡n felhÃ­vja az esetleges hitelezÅ‘it, hogy jelen hirdetmÃ©ny mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott 3 hÃ³napon belÃ¼l a tÃ¡rsasÃ¡ggal szembeni kÃ¶vetelÃ©sÃ¼ket jelentsÃ©k be.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">1109002356</mezo>
-<mezo id = "nev">Komáromi Nyomda és Kiadó Korlátolt Felelõsségû Társaság (2901 Komárom, Igmándi u. 1.)</mezo>
+<mezo id = "nev">KomÃ¡romi Nyomda Ã©s KiadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (2901 KomÃ¡rom, IgmÃ¡ndi u. 1.)</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Komáromi Nyomda és Kiadó Korlátolt Felelõsségû Társaság (székhely: 2901 Komárom, Igmándi út 1.; cégjegyzékszám: [11 09 002356]) értesíti hitelezõit, hogy az 1996. június 4-i taggyûlésén 3/1996. sz. határozatával a társaság törzstõkéjét 49 900 000 Ft-ról (negyvenkilencmillió-kilencszázezer forintról) 48 940 000 Ft-ra (negyvennyolcmillió-kilencszáznegyvenezer forintra) szállította le.<ujsor/>
-A leszállítás kizárólag a Komárom Város Polgármesteri hivatal - Komárom, Szabadság tér 1. - üzletrészét érinti.<ujsor/>
-A társaság a Gt. 225. §-a alapján felhívja az esetleges hitelezõit, hogy jelen hirdetmény második közzétételétõl számított 3 hónapon belül a társasággal szembeni követelésüket jelentsék be.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">A KomÃ¡romi Nyomda Ã©s KiadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (szÃ©khely: 2901 KomÃ¡rom, IgmÃ¡ndi Ãºt 1.; cÃ©gjegyzÃ©kszÃ¡m: [11 09 002356]) Ã©rtesÃ­ti hitelezÅ‘it, hogy az 1996. jÃºnius 4-i taggyÅ±lÃ©sÃ©n 3/1996. sz. hatÃ¡rozatÃ¡val a tÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©jÃ©t 49 900 000 Ft-rÃ³l (negyvenkilencmilliÃ³-kilencszÃ¡zezer forintrÃ³l) 48 940 000 Ft-ra (negyvennyolcmilliÃ³-kilencszÃ¡znegyvenezer forintra) szÃ¡llÃ­totta le.<ujsor/>
+A leszÃ¡llÃ­tÃ¡s kizÃ¡rÃ³lag a KomÃ¡rom VÃ¡ros PolgÃ¡rmesteri hivatal - KomÃ¡rom, SzabadsÃ¡g tÃ©r 1. - Ã¼zletrÃ©szÃ©t Ã©rinti.<ujsor/>
+A tÃ¡rsasÃ¡g a Gt. 225. Â§-a alapjÃ¡n felhÃ­vja az esetleges hitelezÅ‘it, hogy jelen hirdetmÃ©ny mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott 3 hÃ³napon belÃ¼l a tÃ¡rsasÃ¡ggal szembeni kÃ¶vetelÃ©sÃ¼ket jelentsÃ©k be.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">1109002356</mezo>
-<mezo id = "nev">Komáromi Nyomda és Kiadó Korlátolt Felelõsségû Társaság (2901 Komárom, Igmándi u. 1.)</mezo>
+<mezo id = "nev">KomÃ¡romi Nyomda Ã©s KiadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (2901 KomÃ¡rom, IgmÃ¡ndi u. 1.)</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Komáromi Nyomda és Kiadó Kft. (2901 Komárom, Igmándi út 1.) közzéteszi, hogy az N 000826-N 000850 sorszámú készpénzfizetési számlatömbjét eltulajdonították, a felhasznált sorszámok N 000826, N 000828.<ujsor/>
-Az N 000827, N 000829-N 000850 sorszámú készpénzfizetési szelvények használata<ujsor/>
-1996. október 25-én 15 órától<ujsor/>
-érvénytelen.<ujsor/>
+<mezo id = "szoveg">A KomÃ¡romi Nyomda Ã©s KiadÃ³ Kft. (2901 KomÃ¡rom, IgmÃ¡ndi Ãºt 1.) kÃ¶zzÃ©teszi, hogy az N 000826-N 000850 sorszÃ¡mÃº kÃ©szpÃ©nzfizetÃ©si szÃ¡mlatÃ¶mbjÃ©t eltulajdonÃ­tottÃ¡k, a felhasznÃ¡lt sorszÃ¡mok N 000826, N 000828.<ujsor/>
+Az N 000827, N 000829-N 000850 sorszÃ¡mÃº kÃ©szpÃ©nzfizetÃ©si szelvÃ©nyek hasznÃ¡lata<ujsor/>
+1996. oktÃ³ber 25-Ã©n 15 Ã³rÃ¡tÃ³l<ujsor/>
+Ã©rvÃ©nytelen.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1109002356</mezo>
-<mezo id = "nev">Komáromi Nyomda és Kiadó Korlátolt Felelõsségû Társaság (2901 Komárom, Igmándi u. 1.)</mezo>
+<mezo id = "nev">KomÃ¡romi Nyomda Ã©s KiadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (2901 KomÃ¡rom, IgmÃ¡ndi u. 1.)</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2007. 02. 07-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-1(09). Kovács Jánosné (an: Szabó Klára)<ujsor/>
-2921 Komárom, Balaton utca 14.<ujsor/>
- A tagság kezdete: 1992. 12. 21.<ujsor/>
- Törölve: 2007. 02. 07.<ujsor/>
- Kovács Jánosné (an: Herbszt Irén)<ujsor/>
-2921 Komárom, Balaton utca 14.<ujsor/>
- A tagság kezdete: 1992. 12. 21.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2007. 02. 07-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+1(09). KovÃ¡cs JÃ¡nosnÃ© (an: SzabÃ³ KlÃ¡ra)<ujsor/>
+2921 KomÃ¡rom, Balaton utca 14.<ujsor/>
+ A tagsÃ¡g kezdete: 1992. 12. 21.<ujsor/>
+ TÃ¶rÃ¶lve: 2007. 02. 07.<ujsor/>
+ KovÃ¡cs JÃ¡nosnÃ© (an: Herbszt IrÃ©n)<ujsor/>
+2921 KomÃ¡rom, Balaton utca 14.<ujsor/>
+ A tagsÃ¡g kezdete: 1992. 12. 21.<ujsor/>
  Bejegyezve: 2007. 02. 07.<ujsor/>
 2007. 02. 08.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1109002356</mezo>
-<mezo id = "nev">Komáromi Nyomda és Kiadó Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">2901 Komárom, Igmándi u. 1.</mezo>
+<mezo id = "nev">KomÃ¡romi Nyomda Ã©s KiadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2901 KomÃ¡rom, IgmÃ¡ndi u. 1.</mezo>
 <mezo id = "adosz">11180663211</mezo>
 </alrovat>
 </rovat>

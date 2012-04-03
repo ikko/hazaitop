@@ -8,12 +8,12 @@ namespace :civils do
       w.web = "http://www.birosag.hu/engine.aspx?page=tarsszervsearch" 
     end
 
-    rel   = P2oRelationType.find_or_create_by_name("képviselő") do |r| r.name = 'képviselő'; r.parsed = true end
-    p_rel = P2pRelationType.find_or_create_by_name("közösen képviselik") do |r| r.name = 'közösen képviselik'; r.parsed = true end
-    rel.update_attribute :p2p_relation_type_id, p_rel.id
+    rel   = PToORelationType.find_or_create_by_name("képviselő") do |r| r.name = 'képviselő'; r.parsed = true end
+    p_rel = PToPRelationType.find_or_create_by_name("közösen képviselik") do |r| r.name = 'közösen képviselik'; r.parsed = true end
+    rel.update_attribute :p_to_p_relation_type_id, p_rel.id
 
-    birel   = O2oRelationType.find_or_create_by_name("nyilvántartó")   do |r| r.name = 'nyilvántartó'  ; r.parsed = true end
-    birel_x = O2oRelationType.find_or_create_by_name("nyilvántartója") do |r| r.name = 'nyilvántartója'; r.parsed = true; r.pair_id = birel.id end
+    birel   = OToORelationType.find_or_create_by_name("nyilvántartó")   do |r| r.name = 'nyilvántartó'  ; r.parsed = true end
+    birel_x = OToORelationType.find_or_create_by_name("nyilvántartója") do |r| r.name = 'nyilvántartója'; r.parsed = true; r.pair_id = birel.id end
     birel.update_attribute :pair_id, birel_x.id
 
     (1000..1999).each do |i|
@@ -49,7 +49,7 @@ namespace :civils do
                                          :person_id => p.id,
                                          :organization_id => org.id,
                                          :parsed => true,
-                                         :p2o_relation_type_id => rel.id,
+                                         :p_to_o_relation_type_id => rel.id,
                                          :no_end_time => true,
                                          :start_time => start_date
                                        )
@@ -72,7 +72,7 @@ namespace :civils do
 #          r.name = a[25]
 #          r.start_time = a[27].to_date unless a[27].blank?
 #          r.information_source_id = info.id
-#          r.o2o_relation_type_id = birel.id
+#          r.o_to_o_relation_type_id = birel.id
 #          r.parsed = true
 #        end
 
@@ -206,14 +206,14 @@ namespace :civils do
   end
 
   desc 'import manual data from db/manual_#{model}.txt'
-  task :p2p_relation_types => :environment do
-    puts f = File.open('db/manual_p2p_relation_types.txt', 'r')
+  task :p_to_p_relation_types => :environment do
+    puts f = File.open('db/manual_p_to_p_relation_types.txt', 'r')
     sub = false
     f.each do |l|
       l.strip!
       next if l.empty?
       c = l.split(':!:')
-      P2pRelationType.find_or_create_by_name( c[0].strip ) do |w|
+      PToPRelationType.find_or_create_by_name( c[0].strip ) do |w|
         w.name = c[0].strip
         w.weight =  c[1].strip.to_f
         w.visual = ( c[2].strip == '1' ? true : false )
@@ -228,14 +228,14 @@ namespace :civils do
   end
 
   desc 'import manual data from db/manual_#{model}.txt'
-  task :o2o_relation_types => :environment do
-    puts f = File.open('db/manual_o2o_relation_types.txt', 'r')
+  task :o_to_o_relation_types => :environment do
+    puts f = File.open('db/manual_o_to_o_relation_types.txt', 'r')
     sub = false
     f.each do |l|
       l.strip!
       next if l.empty?
       c = l.split(':!:')
-      O2oRelationType.find_or_create_by_name( c[0].strip ) do |w|
+      OToORelationType.find_or_create_by_name( c[0].strip ) do |w|
         w.name = c[0].strip
         w.weight =  c[1].strip.to_f
         w.visual = ( c[2].strip == '1' ? true : false )
@@ -249,14 +249,14 @@ namespace :civils do
     puts "exiting..."
   end
   desc 'import manual data from db/manual_#{model}.txt'
-  task :p2o_relation_types => :environment do
-    puts f = File.open('db/manual_p2o_relation_types.txt', 'r')
+  task :p_to_o_relation_types => :environment do
+    puts f = File.open('db/manual_p_to_o_relation_types.txt', 'r')
     sub = false
     f.each do |l|
       l.strip!
       next if l.empty?
       c = l.split(':!:')
-      P2oRelationType.find_or_create_by_name( c[0].strip ) do |w|
+      PToORelationType.find_or_create_by_name( c[0].strip ) do |w|
         w.name = c[0].strip
         w.weight =  c[1].strip.to_f
         w.visual = ( c[2].strip == '1' ? true : false )
@@ -270,14 +270,14 @@ namespace :civils do
     puts "exiting..."
   end
   desc 'import manual data from db/manual_#{model}.txt'
-  task :p2o_relation_types => :environment do
-    puts f = File.open('db/manual_p2o_relation_types.txt', 'r')
+  task :p_to_o_relation_types => :environment do
+    puts f = File.open('db/manual_p_to_o_relation_types.txt', 'r')
     sub = false
     f.each do |l|
       l.strip!
       next if l.empty?
       c = l.split(':!:')
-      P2oRelationType.find_or_create_by_name( c[0].strip ) do |w|
+      PToORelationType.find_or_create_by_name( c[0].strip ) do |w|
         w.name = c[0].strip
         w.weight =  c[1].strip.to_f
         w.visual = ( c[2].strip == '1' ? true : false )
@@ -372,7 +372,7 @@ namespace :civils do
     f = File.open('db/manual_interpersonal_relations.txt', 'r')
     f.each do |l|
 
-     # f.puts("#{r.start_time}:!:#{r.end_time}:!:#{r.no_end_time ? '1' : '0'}:!:#{r.information_source}:!:#{r.related_person.name.gsub(',','')}:!:#{r.person.name.gsub(',','')}:!:#{r.p2p_relation_type}:/:#{r.articles.*.weblink.join(',')}")
+     # f.puts("#{r.start_time}:!:#{r.end_time}:!:#{r.no_end_time ? '1' : '0'}:!:#{r.information_source}:!:#{r.related_person.name.gsub(',','')}:!:#{r.person.name.gsub(',','')}:!:#{r.p_to_p_relation_type}:/:#{r.articles.*.weblink.join(',')}")
 
       l.strip!
       next if l.empty?
@@ -381,7 +381,7 @@ namespace :civils do
 
       rp = Person.find_all_by_name a[4]
       p  = Person.find_all_by_name a[5]
-      t  = P2pRelationType.find_by_name a[6].split(':/:')[0]
+      t  = PToPRelationType.find_by_name a[6].split(':/:')[0]
 
 
       if p.size > 1
@@ -418,7 +418,7 @@ namespace :civils do
       p = p.first
       rp = rp.first
 
-      r = InterpersonalRelation.find_by_person_id_and_related_person_id_and_p2p_relation_type_id( p.id, rp.id, t.id )
+      r = InterpersonalRelation.find_by_person_id_and_related_person_id_and_p_to_p_relation_type_id( p.id, rp.id, t.id )
       if r
         puts "relation found skipping... #{a.inspect}"
       else
@@ -426,7 +426,7 @@ namespace :civils do
         r = InterpersonalRelation.new
         r.person_id = p.id
         r.related_person_id = rp.id
-        r.p2p_relation_type_id = t.id
+        r.p_to_p_relation_type_id = t.id
         r.start_time = (a[0].blank? ? nil : a[0].to_date)
         r.end_time = (a[1].blank? ? nil : a[1].to_date)
         r.no_end_time = (a[2] == "1" ? true : false)
@@ -451,7 +451,7 @@ namespace :civils do
 
       ro = Organization.find_all_by_name a[1]
       o  = Organization.find_all_by_name a[2]
-      t  = O2oRelationType.find_by_name a[3].split(':/:')[0]
+      t  = OToORelationType.find_by_name a[3].split(':/:')[0]
 
       if ro.size != 1 or o.size != 1
         puts "double org, skipping..."
@@ -467,7 +467,7 @@ namespace :civils do
       o = o.first
       ro = ro.first
 
-      r = InterorgRelation.find_by_organization_id_and_related_organization_id_and_o2o_relation_type_id( o.id, ro.id, t.id )
+      r = InterorgRelation.find_by_organization_id_and_related_organization_id_and_o_to_o_relation_type_id( o.id, ro.id, t.id )
       if r
         puts "relation found skipping... #{a.inspect}"
       else
@@ -475,7 +475,7 @@ namespace :civils do
         r = InterorgRelation.new
         r.organization_id = o.id
         r.related_organization_id = ro.id
-        r.o2o_relation_type_id = t.id
+        r.o_to_o_relation_type_id = t.id
         r.no_end_time = true
         r.information_source = InformationSource.find_by_name(a[0])
         r.articles = Article.find_all_by_internet_address( a[3].split(':/:')[1].split(',').each do |l| l.strip! end ) if a[3].split(':/:')[1]
@@ -497,11 +497,11 @@ namespace :civils do
       next if l.empty?
       a = l.split(':!:')
 
-      # f.puts("#{r.start_time}:!:#{r.end_time}:!:#{r.no_end_time ? '1' : '0'}:!:#{r.information_source}:!:#{r.person.name.gsub(',','')}:!:#{r.organization}:!:#{r.p2o_relation_type}:/:#{r.articles.*.weblink.join(',')}")
+      # f.puts("#{r.start_time}:!:#{r.end_time}:!:#{r.no_end_time ? '1' : '0'}:!:#{r.information_source}:!:#{r.person.name.gsub(',','')}:!:#{r.organization}:!:#{r.p_to_o_relation_type}:/:#{r.articles.*.weblink.join(',')}")
 
       p  = Person.find_all_by_name a[4]
       o  = Organization.find_all_by_name a[5]
-      t  = O2oRelationType.find_by_name a[6].split(':/:')[0]
+      t  = OToORelationType.find_by_name a[6].split(':/:')[0]
 
       if p.size > 1
         new_p = []
@@ -527,7 +527,7 @@ namespace :civils do
       o = o.first
       p = p.first
 
-      r = PersonToOrgRelation.find_by_organization_id_and_person_id_and_p2o_relation_type_id( o.id, p.id, t.id )
+      r = PersonToOrgRelation.find_by_organization_id_and_person_id_and_p_to_o_relation_type_id( o.id, p.id, t.id )
       if r
         puts "relation found skipping... #{a.inspect}"
       else
@@ -535,7 +535,7 @@ namespace :civils do
         r = PersonToOrgRelation.new
         r.organization_id = o.id
         r.person_id = p.id
-        r.p2o_relation_type_id = t.id
+        r.p_to_o_relation_type_id = t.id
         r.start_time = (a[0].blank? ? nil : a[0].to_date)
         r.end_time = (a[1].blank? ? nil : a[1].to_date)
         r.no_end_time = (a[2] == "1" ? true : false)

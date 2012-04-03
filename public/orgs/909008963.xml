@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">008963</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">4032 Debrecen, Böszörményi út 68. K. ép. fszt. 4. </mezo>
+<mezo id = "cim">4032 Debrecen, BÃ¶szÃ¶rmÃ©nyi Ãºt 68. K. Ã©p. fszt. 4. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">12867619209</mezo>
 </alrovat>
@@ -13,13 +13,13 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20020702</mezo>
-<mezo id = "nev">KÖR-TERV 68 Tervezõ és Kivitelezõ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">KÃ–R-TERV 68 TervezÅ‘ Ã©s KivitelezÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">20020702</mezo>
-<mezo id = "nev">KÖR-TERV 68 Kft.</mezo>
+<mezo id = "nev">KÃ–R-TERV 68 Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
@@ -27,7 +27,7 @@
 <mezo id = "hattol">20110103</mezo>
 <mezo id = "irsz">4032</mezo>
 <mezo id = "hely">Debrecen</mezo>
-<mezo id = "teru">Böszörményi út 68. K. ép. fszt. 4.</mezo>
+<mezo id = "teru">BÃ¶szÃ¶rmÃ©nyi Ãºt 68. K. Ã©p. fszt. 4.</mezo>
 <mezo id = "valtk">20110103</mezo>
 <mezo id = "bkelt">20110112</mezo>
 </alrovat>
@@ -37,7 +37,7 @@
 <mezo id = "hattol">20110103</mezo>
 <mezo id = "irsz">4032</mezo>
 <mezo id = "hely">Debrecen</mezo>
-<mezo id = "teru">Böszörményi út 68. K. ép. fszt. 5.</mezo>
+<mezo id = "teru">BÃ¶szÃ¶rmÃ©nyi Ãºt 68. K. Ã©p. fszt. 5.</mezo>
 <mezo id = "valtk">20110103</mezo>
 <mezo id = "bkelt">20110112</mezo>
 </alrovat>
@@ -1043,7 +1043,7 @@
 <mezo id = "hattol">20110103</mezo>
 <mezo id = "valtk">20110103</mezo>
 <mezo id = "bkelt">20110112</mezo>
-<mezo id = "teaszov">Mezõgazdasági gép, berendezés nagykereskedelme</mezo>
+<mezo id = "teaszov">MezÅ‘gazdasÃ¡gi gÃ©p, berendezÃ©s nagykereskedelme</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -1062,12 +1062,12 @@
 <rovat id = "13">
 <alrovat id = "5">
 <mezo id = "hattol">20110103</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Körtvélyessi László Zoltán</mezo>
-<mezo id = "panev">Paróczai Mária</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">KÃ¶rtvÃ©lyessi LÃ¡szlÃ³ ZoltÃ¡n</mezo>
+<mezo id = "panev">ParÃ³czai MÃ¡ria</mezo>
 <mezo id = "pirsz">4032</mezo>
 <mezo id = "phely">Debrecen</mezo>
-<mezo id = "pteru">Károli Gáspár utca 320.</mezo>
+<mezo id = "pteru">KÃ¡roli GÃ¡spÃ¡r utca 320.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20080215</mezo>
 <mezo id = "valtk">20110103</mezo>
@@ -1109,10 +1109,10 @@
 <rovat id = "0109">
 <alrovat id = "5">
 <mezo id = "hattol">20080226</mezo>
-<mezo id = "pnev">Körtvélyessi László Zoltán</mezo>
-<mezo id = "panev">Paróczai Mária</mezo>
+<mezo id = "pnev">KÃ¶rtvÃ©lyessi LÃ¡szlÃ³ ZoltÃ¡n</mezo>
+<mezo id = "panev">ParÃ³czai MÃ¡ria</mezo>
 <mezo id = "pirsz">4032</mezo>
-<mezo id = "phely">Debrecen, Károli Gáspár u. 320.</mezo>
+<mezo id = "phely">Debrecen, KÃ¡roli GÃ¡spÃ¡r u. 320.</mezo>
 <mezo id = "tagsk">20030901</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">0</mezo>
@@ -1122,10 +1122,10 @@
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20080226</mezo>
-<mezo id = "pnev">Körtvélyessiné Szabó Éva</mezo>
+<mezo id = "pnev">KÃ¶rtvÃ©lyessinÃ© SzabÃ³ Ã‰va</mezo>
 <mezo id = "panev">Magyar Margit</mezo>
 <mezo id = "pirsz">4032</mezo>
-<mezo id = "phely">Debrecen, Károli Gáspár u. 320.</mezo>
+<mezo id = "phely">Debrecen, KÃ¡roli GÃ¡spÃ¡r u. 320.</mezo>
 <mezo id = "tagsk">20030901</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">0</mezo>

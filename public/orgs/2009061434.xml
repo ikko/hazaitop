@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">061434</mezo>
 <mezo id = "nevalrovat">2</mezo>
-<mezo id = "cim">8800 Nagykanizsa, Vár út 5. </mezo>
+<mezo id = "cim">8800 Nagykanizsa, VÃ¡r Ãºt 5. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">11344490220</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20020418</mezo>
-<mezo id = "nev">SAUBERMACHER-PANNONIA Hulladékgyûjtõ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">SAUBERMACHER-PANNONIA HulladÃ©kgyÅ±jtÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -27,19 +27,19 @@
 <mezo id = "hattol">20040630</mezo>
 <mezo id = "irsz">8800</mezo>
 <mezo id = "hely">Nagykanizsa</mezo>
-<mezo id = "teru">Vár út 5.</mezo>
+<mezo id = "teru">VÃ¡r Ãºt 5.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "7">
 <alrovat id = "1">
 <mezo id = "hattol">20000922</mezo>
 <mezo id = "irsz">7500</mezo>
-<mezo id = "hely">Nagyatád, Szabadság út 17.</mezo>
+<mezo id = "hely">NagyatÃ¡d, SzabadsÃ¡g Ãºt 17.</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20100406</mezo>
 <mezo id = "irsz">7500</mezo>
-<mezo id = "hely">Nagyatád 0197.hrsz.</mezo>
+<mezo id = "hely">NagyatÃ¡d 0197.hrsz.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20100406</mezo>
 <mezo id = "bkelt">20100412</mezo>
@@ -47,8 +47,8 @@
 <alrovat id = "4">
 <mezo id = "hattol">20100608</mezo>
 <mezo id = "irsz">5200</mezo>
-<mezo id = "hely">Törökszentmiklós</mezo>
-<mezo id = "teru">Dózsa György út 13.</mezo>
+<mezo id = "hely">TÃ¶rÃ¶kszentmiklÃ³s</mezo>
+<mezo id = "teru">DÃ³zsa GyÃ¶rgy Ãºt 13.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20100608</mezo>
 <mezo id = "bkelt">20100809</mezo>
@@ -57,7 +57,7 @@
 <mezo id = "hattol">20100608</mezo>
 <mezo id = "irsz">2500</mezo>
 <mezo id = "hely">Esztergom</mezo>
-<mezo id = "teru">Schweidel József utca 9.</mezo>
+<mezo id = "teru">Schweidel JÃ³zsef utca 9.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20100608</mezo>
 <mezo id = "bkelt">20100809</mezo>
@@ -65,7 +65,7 @@
 <alrovat id = "6">
 <mezo id = "hattol">20100608</mezo>
 <mezo id = "irsz">5435</mezo>
-<mezo id = "hely">Martfû</mezo>
+<mezo id = "hely">MartfÅ±</mezo>
 <mezo id = "teru">Lenin utca 1.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20100608</mezo>
@@ -74,7 +74,7 @@
 <alrovat id = "7">
 <mezo id = "hattol">20100608</mezo>
 <mezo id = "irsz">8700</mezo>
-<mezo id = "hely">Marcali-Cserhátpuszta 097. hrsz.</mezo>
+<mezo id = "hely">Marcali-CserhÃ¡tpuszta 097. hrsz.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20100608</mezo>
 <mezo id = "bkelt">20100809</mezo>
@@ -82,8 +82,8 @@
 <alrovat id = "8">
 <mezo id = "hattol">20100608</mezo>
 <mezo id = "irsz">2183</mezo>
-<mezo id = "hely">Galgamácsa</mezo>
-<mezo id = "teru">Külterület 095/2. hrsz.</mezo>
+<mezo id = "hely">GalgamÃ¡csa</mezo>
+<mezo id = "teru">KÃ¼lterÃ¼let 095/2. hrsz.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20100608</mezo>
 <mezo id = "bkelt">20100809</mezo>
@@ -432,187 +432,187 @@
 <mezo id = "hattol">20100406</mezo>
 <mezo id = "valtk">20100406</mezo>
 <mezo id = "bkelt">20100412</mezo>
-<mezo id = "teaszov">Nem veszélyes hulladék gyûjtése</mezo>
+<mezo id = "teaszov">Nem veszÃ©lyes hulladÃ©k gyÅ±jtÃ©se</mezo>
 </alrovat>
 <alrovat id = "52">
 <mezo id = "hattol">20110330</mezo>
 <mezo id = "valtk">20110330</mezo>
 <mezo id = "bkelt">20110408</mezo>
-<mezo id = "teaszov">Lakó- és nem lakó épület építése</mezo>
+<mezo id = "teaszov">LakÃ³- Ã©s nem lakÃ³ Ã©pÃ¼let Ã©pÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "53">
 <mezo id = "hattol">20110330</mezo>
 <mezo id = "valtk">20110330</mezo>
 <mezo id = "bkelt">20110408</mezo>
-<mezo id = "teaszov">út, autópálya építése</mezo>
+<mezo id = "teaszov">Ãºt, autÃ³pÃ¡lya Ã©pÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "54">
 <mezo id = "hattol">20110330</mezo>
 <mezo id = "valtk">20110330</mezo>
 <mezo id = "bkelt">20110408</mezo>
-<mezo id = "teaszov">Egyéb m.n.s. építés</mezo>
+<mezo id = "teaszov">EgyÃ©b m.n.s. Ã©pÃ­tÃ©s</mezo>
 </alrovat>
 <alrovat id = "55">
 <mezo id = "hattol">20110330</mezo>
 <mezo id = "valtk">20110330</mezo>
 <mezo id = "bkelt">20110408</mezo>
-<mezo id = "teaszov">Bontás</mezo>
+<mezo id = "teaszov">BontÃ¡s</mezo>
 </alrovat>
 <alrovat id = "56">
 <mezo id = "hattol">20110330</mezo>
 <mezo id = "valtk">20110330</mezo>
 <mezo id = "bkelt">20110408</mezo>
-<mezo id = "teaszov">Építési terület elõkészítése</mezo>
+<mezo id = "teaszov">Ã‰pÃ­tÃ©si terÃ¼let elÅ‘kÃ©szÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "57">
 <mezo id = "hattol">20110330</mezo>
 <mezo id = "valtk">20110330</mezo>
 <mezo id = "bkelt">20110408</mezo>
-<mezo id = "teaszov">Egyéb speciális szaképítés m.n.s.</mezo>
+<mezo id = "teaszov">EgyÃ©b speciÃ¡lis szakÃ©pÃ­tÃ©s m.n.s.</mezo>
 </alrovat>
 <alrovat id = "58">
 <mezo id = "hattol">20110330</mezo>
 <mezo id = "valtk">20110330</mezo>
 <mezo id = "bkelt">20110408</mezo>
-<mezo id = "teaszov">Személygépjármû-, könnyûgépjármû-kereskedelem</mezo>
+<mezo id = "teaszov">SzemÃ©lygÃ©pjÃ¡rmÅ±-, kÃ¶nnyÅ±gÃ©pjÃ¡rmÅ±-kereskedelem</mezo>
 </alrovat>
 <alrovat id = "59">
 <mezo id = "hattol">20110330</mezo>
 <mezo id = "valtk">20110330</mezo>
 <mezo id = "bkelt">20110408</mezo>
-<mezo id = "teaszov">Gépjármûjavítás, -karbantartás</mezo>
+<mezo id = "teaszov">GÃ©pjÃ¡rmÅ±javÃ­tÃ¡s, -karbantartÃ¡s</mezo>
 </alrovat>
 <alrovat id = "60">
 <mezo id = "hattol">20110330</mezo>
 <mezo id = "valtk">20110330</mezo>
 <mezo id = "bkelt">20110408</mezo>
-<mezo id = "teaszov">Fa-, építési anyag ügynöki nagykereskedelme</mezo>
+<mezo id = "teaszov">Fa-, Ã©pÃ­tÃ©si anyag Ã¼gynÃ¶ki nagykereskedelme</mezo>
 </alrovat>
 <alrovat id = "61">
 <mezo id = "hattol">20110330</mezo>
 <mezo id = "valtk">20110330</mezo>
 <mezo id = "bkelt">20110408</mezo>
-<mezo id = "teaszov">Egyéb termék ügynöki nagykereskedelme</mezo>
+<mezo id = "teaszov">EgyÃ©b termÃ©k Ã¼gynÃ¶ki nagykereskedelme</mezo>
 </alrovat>
 <alrovat id = "62">
 <mezo id = "hattol">20110330</mezo>
 <mezo id = "valtk">20110330</mezo>
 <mezo id = "bkelt">20110408</mezo>
-<mezo id = "teaszov">Fém-, érc-nagykereskedelem</mezo>
+<mezo id = "teaszov">FÃ©m-, Ã©rc-nagykereskedelem</mezo>
 </alrovat>
 <alrovat id = "63">
 <mezo id = "hattol">20110330</mezo>
 <mezo id = "valtk">20110330</mezo>
 <mezo id = "bkelt">20110408</mezo>
-<mezo id = "teaszov">Fa-, építõanyag-, szaniteráru-nagykereskedelem</mezo>
+<mezo id = "teaszov">Fa-, Ã©pÃ­tÅ‘anyag-, szaniterÃ¡ru-nagykereskedelem</mezo>
 </alrovat>
 <alrovat id = "64">
 <mezo id = "hattol">20110330</mezo>
 <mezo id = "valtk">20110330</mezo>
 <mezo id = "bkelt">20110408</mezo>
-<mezo id = "teaszov">Egyéb termelési célú termék nagykereskedelme</mezo>
+<mezo id = "teaszov">EgyÃ©b termelÃ©si cÃ©lÃº termÃ©k nagykereskedelme</mezo>
 </alrovat>
 <alrovat id = "65">
 <mezo id = "hattol">20110330</mezo>
 <mezo id = "valtk">20110330</mezo>
 <mezo id = "bkelt">20110408</mezo>
-<mezo id = "teaszov">M.n.s. egyéb szárazföldi személyszállítás</mezo>
+<mezo id = "teaszov">M.n.s. egyÃ©b szÃ¡razfÃ¶ldi szemÃ©lyszÃ¡llÃ­tÃ¡s</mezo>
 </alrovat>
 <alrovat id = "66">
 <mezo id = "hattol">20110330</mezo>
 <mezo id = "valtk">20110330</mezo>
 <mezo id = "bkelt">20110408</mezo>
-<mezo id = "teaszov">Költöztetés</mezo>
+<mezo id = "teaszov">KÃ¶ltÃ¶ztetÃ©s</mezo>
 </alrovat>
 <alrovat id = "67">
 <mezo id = "hattol">20110330</mezo>
 <mezo id = "valtk">20110330</mezo>
 <mezo id = "bkelt">20110408</mezo>
-<mezo id = "teaszov">Ingatlankezelés</mezo>
+<mezo id = "teaszov">IngatlankezelÃ©s</mezo>
 </alrovat>
 <alrovat id = "68">
 <mezo id = "hattol">20110330</mezo>
 <mezo id = "valtk">20110330</mezo>
 <mezo id = "bkelt">20110408</mezo>
-<mezo id = "teaszov">Üzletviteli, egyéb vezetési tanácsadás</mezo>
+<mezo id = "teaszov">Ãœzletviteli, egyÃ©b vezetÃ©si tanÃ¡csadÃ¡s</mezo>
 </alrovat>
 <alrovat id = "69">
 <mezo id = "hattol">20110330</mezo>
 <mezo id = "valtk">20110330</mezo>
 <mezo id = "bkelt">20110408</mezo>
-<mezo id = "teaszov">Mérnöki tevékenység, mûszaki tanácsadás</mezo>
+<mezo id = "teaszov">MÃ©rnÃ¶ki tevÃ©kenysÃ©g, mÅ±szaki tanÃ¡csadÃ¡s</mezo>
 </alrovat>
 <alrovat id = "70">
 <mezo id = "hattol">20110330</mezo>
 <mezo id = "valtk">20110330</mezo>
 <mezo id = "bkelt">20110408</mezo>
-<mezo id = "teaszov">Fordítás, tolmácsolás</mezo>
+<mezo id = "teaszov">FordÃ­tÃ¡s, tolmÃ¡csolÃ¡s</mezo>
 </alrovat>
 <alrovat id = "71">
 <mezo id = "hattol">20110330</mezo>
 <mezo id = "valtk">20110330</mezo>
 <mezo id = "bkelt">20110408</mezo>
-<mezo id = "teaszov">Személygépjármû kölcsönzése</mezo>
+<mezo id = "teaszov">SzemÃ©lygÃ©pjÃ¡rmÅ± kÃ¶lcsÃ¶nzÃ©se</mezo>
 </alrovat>
 <alrovat id = "72">
 <mezo id = "hattol">20110330</mezo>
 <mezo id = "valtk">20110330</mezo>
 <mezo id = "bkelt">20110408</mezo>
-<mezo id = "teaszov">Gépjármûkölcsönzés (3,5 tonna fölött)</mezo>
+<mezo id = "teaszov">GÃ©pjÃ¡rmÅ±kÃ¶lcsÃ¶nzÃ©s (3,5 tonna fÃ¶lÃ¶tt)</mezo>
 </alrovat>
 <alrovat id = "73">
 <mezo id = "hattol">20110330</mezo>
 <mezo id = "valtk">20110330</mezo>
 <mezo id = "bkelt">20110408</mezo>
-<mezo id = "teaszov">Építõipari gép kölcsönzése</mezo>
+<mezo id = "teaszov">Ã‰pÃ­tÅ‘ipari gÃ©p kÃ¶lcsÃ¶nzÃ©se</mezo>
 </alrovat>
 <alrovat id = "74">
 <mezo id = "hattol">20110330</mezo>
 <mezo id = "valtk">20110330</mezo>
 <mezo id = "bkelt">20110408</mezo>
-<mezo id = "teaszov">Egyéb gép, tárgyi eszköz kölcsönzése</mezo>
+<mezo id = "teaszov">EgyÃ©b gÃ©p, tÃ¡rgyi eszkÃ¶z kÃ¶lcsÃ¶nzÃ©se</mezo>
 </alrovat>
 <alrovat id = "75">
 <mezo id = "hattol">20110330</mezo>
 <mezo id = "valtk">20110330</mezo>
 <mezo id = "bkelt">20110408</mezo>
-<mezo id = "teaszov">Immateriális javak kölcsönzése</mezo>
+<mezo id = "teaszov">ImmateriÃ¡lis javak kÃ¶lcsÃ¶nzÃ©se</mezo>
 </alrovat>
 <alrovat id = "76">
 <mezo id = "hattol">20110330</mezo>
 <mezo id = "valtk">20110330</mezo>
 <mezo id = "bkelt">20110408</mezo>
-<mezo id = "teaszov">Munkaerõkölcsönzés</mezo>
+<mezo id = "teaszov">MunkaerÅ‘kÃ¶lcsÃ¶nzÃ©s</mezo>
 </alrovat>
 <alrovat id = "77">
 <mezo id = "hattol">20110330</mezo>
 <mezo id = "valtk">20110330</mezo>
 <mezo id = "bkelt">20110408</mezo>
-<mezo id = "teaszov">Zöldterület-kezelés</mezo>
+<mezo id = "teaszov">ZÃ¶ldterÃ¼let-kezelÃ©s</mezo>
 </alrovat>
 <alrovat id = "78">
 <mezo id = "hattol">20110330</mezo>
 <mezo id = "valtk">20110330</mezo>
 <mezo id = "bkelt">20110408</mezo>
-<mezo id = "teaszov">Összetett adminisztratív szolgáltatás</mezo>
+<mezo id = "teaszov">Ã–sszetett adminisztratÃ­v szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "79">
 <mezo id = "hattol">20110330</mezo>
 <mezo id = "valtk">20110330</mezo>
 <mezo id = "bkelt">20110408</mezo>
-<mezo id = "teaszov">Fénymásolás, egyéb irodai szolgáltatás</mezo>
+<mezo id = "teaszov">FÃ©nymÃ¡solÃ¡s, egyÃ©b irodai szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "80">
 <mezo id = "hattol">20110330</mezo>
 <mezo id = "valtk">20110330</mezo>
 <mezo id = "bkelt">20110408</mezo>
-<mezo id = "teaszov">M.n.s. egyéb oktatás</mezo>
+<mezo id = "teaszov">M.n.s. egyÃ©b oktatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "81">
 <mezo id = "hattol">20110330</mezo>
 <mezo id = "valtk">20110330</mezo>
 <mezo id = "bkelt">20110408</mezo>
-<mezo id = "teaszov">Temetkezés, temetkezést kiegészítõ szolgáltatás</mezo>
+<mezo id = "teaszov">TemetkezÃ©s, temetkezÃ©st kiegÃ©szÃ­tÅ‘ szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -627,9 +627,9 @@
 <rovat id = "13">
 <alrovat id = "12">
 <mezo id = "hattol">20100831</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Horváth Péter</mezo>
-<mezo id = "panev">Kocsis Ágnes</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">HorvÃ¡th PÃ©ter</mezo>
+<mezo id = "panev">Kocsis Ãgnes</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20100831</mezo>
 <mezo id = "jogvv">20150831</mezo>
@@ -639,8 +639,8 @@
 </alrovat>
 <alrovat id = "13">
 <mezo id = "hattol">20100831</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Horváth Balázs</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">HorvÃ¡th BalÃ¡zs</mezo>
 <mezo id = "panev">Plander Julianna</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20100831</mezo>
@@ -651,9 +651,9 @@
 </alrovat>
 <alrovat id = "15">
 <mezo id = "hattol">20100831</mezo>
-<mezo id = "tiszt">cégvezetõ</mezo>
-<mezo id = "pnev">Horváthné Bedenek Réka</mezo>
-<mezo id = "panev">Putics Mária</mezo>
+<mezo id = "tiszt">cÃ©gvezetÅ‘</mezo>
+<mezo id = "pnev">HorvÃ¡thnÃ© Bedenek RÃ©ka</mezo>
+<mezo id = "panev">Putics MÃ¡ria</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20100831</mezo>
 <mezo id = "jogvv">20150831</mezo>
@@ -663,12 +663,12 @@
 </alrovat>
 <alrovat id = "17">
 <mezo id = "hattol">20110713</mezo>
-<mezo id = "tiszt">cégvezetõ</mezo>
+<mezo id = "tiszt">cÃ©gvezetÅ‘</mezo>
 <mezo id = "pnev">Plander Norbert</mezo>
 <mezo id = "panev">Kocsis Katalin</mezo>
 <mezo id = "pirsz">1067</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">VI. kerület, Eötvös utca 47/3.</mezo>
+<mezo id = "pteru">VI. kerÃ¼let, EÃ¶tvÃ¶s utca 47/3.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20100831</mezo>
 <mezo id = "jogvv">20150831</mezo>
@@ -681,16 +681,16 @@
 <alrovat id = "4">
 <mezo id = "hattol">20110616</mezo>
 <mezo id = "cgjsz">0109063183</mezo>
-<mezo id = "nev">KPMG Hungária Könyvvizsgáló Adó- és Közgazdasági Tanácsadó Kft.</mezo>
+<mezo id = "nev">KPMG HungÃ¡ria KÃ¶nyvvizsgÃ¡lÃ³ AdÃ³- Ã©s KÃ¶zgazdasÃ¡gi TanÃ¡csadÃ³ Kft.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1139</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Váci út 99.</mezo>
-<mezo id = "pnev">Rózsai Rezsõ</mezo>
+<mezo id = "teru">VÃ¡ci Ãºt 99.</mezo>
+<mezo id = "pnev">RÃ³zsai RezsÅ‘</mezo>
 <mezo id = "panev">Gombai Ilona</mezo>
 <mezo id = "pirsz">1147</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">III. kerület, Bercsényi utca 48.</mezo>
+<mezo id = "pteru">III. kerÃ¼let, BercsÃ©nyi utca 48.</mezo>
 <mezo id = "jogvk">20110616</mezo>
 <mezo id = "jogvv">20120531</mezo>
 <mezo id = "valtk">20110616</mezo>
@@ -701,12 +701,12 @@
 <alrovat id = "1">
 <mezo id = "hattol">19971231</mezo>
 <mezo id = "cgjsz">1409300969</mezo>
-<mezo id = "nev">GABONAFA Fafeldolgozó és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">GABONAFA FafeldolgozÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20100831</mezo>
 <mezo id = "cgjsz">0109072083</mezo>
-<mezo id = "nev">NETTA Környezetvédõ és Hulladékhasznosító Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">NETTA KÃ¶rnyezetvÃ©dÅ‘ Ã©s HulladÃ©khasznosÃ­tÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "atdat">20100831</mezo>
 <mezo id = "valtk">20100831</mezo>
 <mezo id = "bkelt">20100809</mezo>
@@ -735,18 +735,18 @@
 <mezo id = "adosz">11344490220</mezo>
 <mezo id = "kadosz">HU11344490</mezo>
 <mezo id = "bkelt">20110725</mezo>
-<mezo id = "megj">Státusz kezdete: 1993/07/01</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 1993/07/01</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0109">
 <alrovat id = "16">
 <mezo id = "hattol">20081219</mezo>
 <mezo id = "cgjsz">109861608</mezo>
-<mezo id = "nev">Saubermacher-Magyarország Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Saubermacher-MagyarorszÃ¡g SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1181</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Zádor</mezo>
+<mezo id = "teru">ZÃ¡dor</mezo>
 <mezo id = "hsz">4</mezo>
 <mezo id = "tagsk">20081219</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -765,248 +765,248 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Gabofa Fafeldolgozó és Kereskedelmi Egyszemélyes Korlátolt Felelõsségû Társaság (7500 Nagyatád, Szabadság u. 17.) elhatározta, hogy<ujsor/>
+<mezo id = "szoveg">A Gabofa FafeldolgozÃ³ Ã©s Kereskedelmi EgyszemÃ©lyes KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (7500 NagyatÃ¡d, SzabadsÃ¡g u. 17.) elhatÃ¡rozta, hogy<ujsor/>
 beolvad<ujsor/>
-a Saubermacher Ryno Hulladékgyûjtõ Korlátolt Felelõsségû Társaságba (8800 Nagykanizsa, Téglagyári u. 20.).<ujsor/>
-A beolvadás oka: a tulajdonos személyének azonossága.<ujsor/>
-A beolvadás idõpontja: 1997. december 31.<ujsor/>
-A Gabofa Kft. beolvadása után a cég neve: Saubermacher Ryno Hulladékgyûjtõ Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhelye: 8800 Nagykanizsa, Téglagyári u. 20.<ujsor/>
-Mûködésének idõtartama: határozatlan.<ujsor/>
-Ügyvezetõje: Makrai Márton.<ujsor/>
-Törzstõkéje: 10 000 000 Ft (tízmillió forint).<ujsor/>
-A Gabofa Kft. tervezett vagyonmérlege:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Tárgyi eszközök - Saját tõke 2167<ujsor/>
-Immateriális javak - Ebbõl: Jegyzett tõke 1000<ujsor/>
-Befektetett pénzügyi eszközök - Konsz. bevont váll. által jegyz. 1000<ujsor/>
-Készletek - Tõketartalék -<ujsor/>
-Követelések 1320 Kötelezettségek 121<ujsor/>
-Pénzeszközök 964 Passzív idõbeli elhatárolások 8<ujsor/>
-Aktív idõbeli elhatárolás 12<ujsor/>
-ÖSSZESEN: 2296 ÖSSZESEN: 2296<ujsor/>
-Saubermacher Ryno Kft. beolvadás elõtti tervezett vagyonmérlege:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Tárgyi eszközök 115 705 Saját tõke 34 043<ujsor/>
-Immateriális javak 105 Ebbõl: Jegyzett tõke 10 000<ujsor/>
-Befektetett pénzügyi eszközök 12 292 Konsz. bevont váll. által jegyz. -<ujsor/>
-Készletek - Tõketartalék 1 686<ujsor/>
-Követelések 39 777 Kötelezettségek 155 029<ujsor/>
-Pénzeszközök 18 112 Passzív idõbeli elhatárolások 567<ujsor/>
-Aktív idõbeli elhatárolás 4 937<ujsor/>
-ÖSSZESEN: 190 928 ÖSSZESEN: 189 630<ujsor/>
-Saubermacher Ryno Hulladékgyûjtõ Kft. beolvadás utáni tervezett vagyonmérlege:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Tárgyi eszközök 128 102 Saját tõke 36 210<ujsor/>
-Immateriális javak 105 Ebbõl: Jegyzett tõke 10 000<ujsor/>
-Befektetett pénzügyi eszközök 12 292 Konsz. bevont váll. által jegyz. -<ujsor/>
-Készletek - Tõketartalék 2 680<ujsor/>
-Követelések 41 097 Kötelezettségek 43 075 és 112 075<ujsor/>
-Pénzeszközök 19 076 Passzív idõbeli elhatárolások 575<ujsor/>
-Aktív idõbeli elhatárolás 4 949<ujsor/>
-ÖSSZESEN: 205 621 ÖSSZESEN: 191 935<ujsor/>
-Felhívjuk a hitelezõket az 1988. évi VI. tv.-ben meghatározott jogaik gyakorlására.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+a Saubermacher Ryno HulladÃ©kgyÅ±jtÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gba (8800 Nagykanizsa, TÃ©glagyÃ¡ri u. 20.).<ujsor/>
+A beolvadÃ¡s oka: a tulajdonos szemÃ©lyÃ©nek azonossÃ¡ga.<ujsor/>
+A beolvadÃ¡s idÅ‘pontja: 1997. december 31.<ujsor/>
+A Gabofa Kft. beolvadÃ¡sa utÃ¡n a cÃ©g neve: Saubermacher Ryno HulladÃ©kgyÅ±jtÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 8800 Nagykanizsa, TÃ©glagyÃ¡ri u. 20.<ujsor/>
+MÅ±kÃ¶dÃ©sÃ©nek idÅ‘tartama: hatÃ¡rozatlan.<ujsor/>
+ÃœgyvezetÅ‘je: Makrai MÃ¡rton.<ujsor/>
+TÃ¶rzstÅ‘kÃ©je: 10 000 000 Ft (tÃ­zmilliÃ³ forint).<ujsor/>
+A Gabofa Kft. tervezett vagyonmÃ©rlege:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k - SajÃ¡t tÅ‘ke 2167<ujsor/>
+ImmateriÃ¡lis javak - EbbÅ‘l: Jegyzett tÅ‘ke 1000<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k - Konsz. bevont vÃ¡ll. Ã¡ltal jegyz. 1000<ujsor/>
+KÃ©szletek - TÅ‘ketartalÃ©k -<ujsor/>
+KÃ¶vetelÃ©sek 1320 KÃ¶telezettsÃ©gek 121<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 964 PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 8<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡s 12<ujsor/>
+Ã–SSZESEN: 2296 Ã–SSZESEN: 2296<ujsor/>
+Saubermacher Ryno Kft. beolvadÃ¡s elÅ‘tti tervezett vagyonmÃ©rlege:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 115 705 SajÃ¡t tÅ‘ke 34 043<ujsor/>
+ImmateriÃ¡lis javak 105 EbbÅ‘l: Jegyzett tÅ‘ke 10 000<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 12 292 Konsz. bevont vÃ¡ll. Ã¡ltal jegyz. -<ujsor/>
+KÃ©szletek - TÅ‘ketartalÃ©k 1 686<ujsor/>
+KÃ¶vetelÃ©sek 39 777 KÃ¶telezettsÃ©gek 155 029<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 18 112 PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 567<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡s 4 937<ujsor/>
+Ã–SSZESEN: 190 928 Ã–SSZESEN: 189 630<ujsor/>
+Saubermacher Ryno HulladÃ©kgyÅ±jtÅ‘ Kft. beolvadÃ¡s utÃ¡ni tervezett vagyonmÃ©rlege:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 128 102 SajÃ¡t tÅ‘ke 36 210<ujsor/>
+ImmateriÃ¡lis javak 105 EbbÅ‘l: Jegyzett tÅ‘ke 10 000<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 12 292 Konsz. bevont vÃ¡ll. Ã¡ltal jegyz. -<ujsor/>
+KÃ©szletek - TÅ‘ketartalÃ©k 2 680<ujsor/>
+KÃ¶vetelÃ©sek 41 097 KÃ¶telezettsÃ©gek 43 075 Ã©s 112 075<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 19 076 PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 575<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡s 4 949<ujsor/>
+Ã–SSZESEN: 205 621 Ã–SSZESEN: 191 935<ujsor/>
+FelhÃ­vjuk a hitelezÅ‘ket az 1988. Ã©vi VI. tv.-ben meghatÃ¡rozott jogaik gyakorlÃ¡sÃ¡ra.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">2009061434</mezo>
-<mezo id = "nev">SAUBERMACHER-PANNONIA Hulladékgyûjtõ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">SAUBERMACHER-PANNONIA HulladÃ©kgyÅ±jtÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Gabofa Fafeldolgozó és Kereskedelmi Egyszemélyes Korlátolt Felelõsségû Társaság (7500 Nagyatád, Szabadság u. 17.) elhatározta, hogy<ujsor/>
+<mezo id = "szoveg">A Gabofa FafeldolgozÃ³ Ã©s Kereskedelmi EgyszemÃ©lyes KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (7500 NagyatÃ¡d, SzabadsÃ¡g u. 17.) elhatÃ¡rozta, hogy<ujsor/>
 beolvad<ujsor/>
-a Saubermacher Ryno Hulladékgyûjtõ Korlátolt Felelõsségû Társaságba (8800 Nagykanizsa, Téglagyári u. 20.).<ujsor/>
-A beolvadás oka: a tulajdonos személyének azonossága.<ujsor/>
-A beolvadás idõpontja: 1997. december 31.<ujsor/>
-A Gabofa Kft. beolvadása után a cég neve: Saubermacher Ryno Hulladékgyûjtõ Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhelye: 8800 Nagykanizsa, Téglagyári u. 20.<ujsor/>
-Mûködésének idõtartama: határozatlan.<ujsor/>
-Ügyvezetõje: Makrai Márton.<ujsor/>
-Törzstõkéje: 10 000 000 Ft (tízmillió forint).<ujsor/>
-A Gabofa Kft. tervezett vagyonmérlege:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Tárgyi eszközök - Saját tõke 2167<ujsor/>
-Immateriális javak - Ebbõl: Jegyzett tõke 1000<ujsor/>
-Befektetett pénzügyi eszközök - Konsz. bevont váll. által jegyz. 1000<ujsor/>
-Készletek - Tõketartalék -<ujsor/>
-Követelések 1320 Kötelezettségek 121<ujsor/>
-Pénzeszközök 964 Passzív idõbeli elhatárolások 8<ujsor/>
-Aktív idõbeli elhatárolás 12<ujsor/>
-ÖSSZESEN: 2296 ÖSSZESEN: 2296<ujsor/>
-Saubermacher Ryno Kft. beolvadás elõtti tervezett vagyonmérlege:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Tárgyi eszközök 115 705 Saját tõke 34 043<ujsor/>
-Immateriális javak 105 Ebbõl: Jegyzett tõke 10 000<ujsor/>
-Befektetett pénzügyi eszközök 12 292 Konsz. bevont váll. által jegyz. -<ujsor/>
-Készletek - Tõketartalék 1 686<ujsor/>
-Követelések 39 777 Kötelezettségek 155 029<ujsor/>
-Pénzeszközök 18 112 Passzív idõbeli elhatárolások 567<ujsor/>
-Aktív idõbeli elhatárolás 4 937<ujsor/>
-ÖSSZESEN: 190 928 ÖSSZESEN: 189 630<ujsor/>
-Saubermacher Ryno Hulladékgyûjtõ Kft. beolvadás utáni tervezett vagyonmérlege:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Tárgyi eszközök 128 102 Saját tõke 36 210<ujsor/>
-Immateriális javak 105 Ebbõl: Jegyzett tõke 10 000<ujsor/>
-Befektetett pénzügyi eszközök 12 292 Konsz. bevont váll. által jegyz. -<ujsor/>
-Készletek - Tõketartalék 2 680<ujsor/>
-Követelések 41 097 Kötelezettségek 43 075 és 112 075<ujsor/>
-Pénzeszközök 19 076 Passzív idõbeli elhatárolások 575<ujsor/>
-Aktív idõbeli elhatárolás 4 949<ujsor/>
-ÖSSZESEN: 205 621 ÖSSZESEN: 191 935<ujsor/>
-Felhívjuk a hitelezõket az 1988. évi VI. tv.-ben meghatározott jogaik gyakorlására.<ujsor/>
-(Második közzététel.)<ujsor/>
+a Saubermacher Ryno HulladÃ©kgyÅ±jtÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gba (8800 Nagykanizsa, TÃ©glagyÃ¡ri u. 20.).<ujsor/>
+A beolvadÃ¡s oka: a tulajdonos szemÃ©lyÃ©nek azonossÃ¡ga.<ujsor/>
+A beolvadÃ¡s idÅ‘pontja: 1997. december 31.<ujsor/>
+A Gabofa Kft. beolvadÃ¡sa utÃ¡n a cÃ©g neve: Saubermacher Ryno HulladÃ©kgyÅ±jtÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 8800 Nagykanizsa, TÃ©glagyÃ¡ri u. 20.<ujsor/>
+MÅ±kÃ¶dÃ©sÃ©nek idÅ‘tartama: hatÃ¡rozatlan.<ujsor/>
+ÃœgyvezetÅ‘je: Makrai MÃ¡rton.<ujsor/>
+TÃ¶rzstÅ‘kÃ©je: 10 000 000 Ft (tÃ­zmilliÃ³ forint).<ujsor/>
+A Gabofa Kft. tervezett vagyonmÃ©rlege:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k - SajÃ¡t tÅ‘ke 2167<ujsor/>
+ImmateriÃ¡lis javak - EbbÅ‘l: Jegyzett tÅ‘ke 1000<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k - Konsz. bevont vÃ¡ll. Ã¡ltal jegyz. 1000<ujsor/>
+KÃ©szletek - TÅ‘ketartalÃ©k -<ujsor/>
+KÃ¶vetelÃ©sek 1320 KÃ¶telezettsÃ©gek 121<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 964 PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 8<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡s 12<ujsor/>
+Ã–SSZESEN: 2296 Ã–SSZESEN: 2296<ujsor/>
+Saubermacher Ryno Kft. beolvadÃ¡s elÅ‘tti tervezett vagyonmÃ©rlege:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 115 705 SajÃ¡t tÅ‘ke 34 043<ujsor/>
+ImmateriÃ¡lis javak 105 EbbÅ‘l: Jegyzett tÅ‘ke 10 000<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 12 292 Konsz. bevont vÃ¡ll. Ã¡ltal jegyz. -<ujsor/>
+KÃ©szletek - TÅ‘ketartalÃ©k 1 686<ujsor/>
+KÃ¶vetelÃ©sek 39 777 KÃ¶telezettsÃ©gek 155 029<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 18 112 PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 567<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡s 4 937<ujsor/>
+Ã–SSZESEN: 190 928 Ã–SSZESEN: 189 630<ujsor/>
+Saubermacher Ryno HulladÃ©kgyÅ±jtÅ‘ Kft. beolvadÃ¡s utÃ¡ni tervezett vagyonmÃ©rlege:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 128 102 SajÃ¡t tÅ‘ke 36 210<ujsor/>
+ImmateriÃ¡lis javak 105 EbbÅ‘l: Jegyzett tÅ‘ke 10 000<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 12 292 Konsz. bevont vÃ¡ll. Ã¡ltal jegyz. -<ujsor/>
+KÃ©szletek - TÅ‘ketartalÃ©k 2 680<ujsor/>
+KÃ¶vetelÃ©sek 41 097 KÃ¶telezettsÃ©gek 43 075 Ã©s 112 075<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 19 076 PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 575<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡s 4 949<ujsor/>
+Ã–SSZESEN: 205 621 Ã–SSZESEN: 191 935<ujsor/>
+FelhÃ­vjuk a hitelezÅ‘ket az 1988. Ã©vi VI. tv.-ben meghatÃ¡rozott jogaik gyakorlÃ¡sÃ¡ra.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">2009061434</mezo>
-<mezo id = "nev">SAUBERMACHER-PANNONIA Hulladékgyûjtõ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">SAUBERMACHER-PANNONIA HulladÃ©kgyÅ±jtÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Ferencz Józsefné, 8800 Nagykanizsa, Zemplén Gy. u. 6. sz. alatti lakos közzéteszi, hogy 1999. július 20-i hatállyal jelentõs befolyást szerzett a SAUBERMACHER-RYNO Hulladékgyûjtõ Korlátolt Felelõsségû Társaságban (rövidített neve: SAUBERMACHER-RYNO Kft.; 8800 Nagykanizsa, Téglagyári út 20.; Cg.: [20 09 061434]).<ujsor/>
-Nevezett tag az ellenõrzött társaságban a szavazatok 43%-ával rendelkezik.<ujsor/>
+<mezo id = "szoveg">Ferencz JÃ³zsefnÃ©, 8800 Nagykanizsa, ZemplÃ©n Gy. u. 6. sz. alatti lakos kÃ¶zzÃ©teszi, hogy 1999. jÃºlius 20-i hatÃ¡llyal jelentÅ‘s befolyÃ¡st szerzett a SAUBERMACHER-RYNO HulladÃ©kgyÅ±jtÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gban (rÃ¶vidÃ­tett neve: SAUBERMACHER-RYNO Kft.; 8800 Nagykanizsa, TÃ©glagyÃ¡ri Ãºt 20.; Cg.: [20 09 061434]).<ujsor/>
+Nevezett tag az ellenÅ‘rzÃ¶tt tÃ¡rsasÃ¡gban a szavazatok 43%-Ã¡val rendelkezik.<ujsor/>
 </mezo>
 <mezo id = "cjsz">2009061434</mezo>
-<mezo id = "nev">SAUBERMACHER-PANNONIA Hulladékgyûjtõ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">SAUBERMACHER-PANNONIA HulladÃ©kgyÅ±jtÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Hans Roth (AT-8010 Graz, Schubertstrasse 25.; a. n.: Maria Leopold) közzéteszi, hogy 2002. március 28-án a Cg. [20 09 061434] cégjegyzékszám alatt bejegyzett Saubermarcher Ryno Hulladékgyûjtõ Korlátolt Felelõsségû Társaság (8800 Nagykanizsa, Téglagyári u. 20.) üzletrészei 43%-ának megszerzésével a társaságban jelentõs befolyást szerzett.<ujsor/>
+<mezo id = "szoveg">Hans Roth (AT-8010 Graz, Schubertstrasse 25.; a. n.: Maria Leopold) kÃ¶zzÃ©teszi, hogy 2002. mÃ¡rcius 28-Ã¡n a Cg. [20 09 061434] cÃ©gjegyzÃ©kszÃ¡m alatt bejegyzett Saubermarcher Ryno HulladÃ©kgyÅ±jtÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (8800 Nagykanizsa, TÃ©glagyÃ¡ri u. 20.) Ã¼zletrÃ©szei 43%-Ã¡nak megszerzÃ©sÃ©vel a tÃ¡rsasÃ¡gban jelentÅ‘s befolyÃ¡st szerzett.<ujsor/>
 </mezo>
 <mezo id = "cjsz">2009061434</mezo>
-<mezo id = "nev">SAUBERMACHER-PANNONIA Hulladékgyûjtõ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">SAUBERMACHER-PANNONIA HulladÃ©kgyÅ±jtÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A SAUBERMACHER-PANNONIA Kft. (Cg.: [20 09 061434]; székhelye: 8800 Nagykanizsa, Vár út 5.) közzéteszi, hogy a NETTA Kft. (Cg.: [01 09 072083]; székhelye: 1095 Budapest, Soroksári út 56. I. 7.) mint beolvadó társaság és a SAUBERMACHER-PANNONIA Kft. mint átvevõ és jogutód gazdasági társaság egymással egyesülnek.<ujsor/>
-Az egyesülés módja: beolvadás.<ujsor/>
-Az egyesülés során létrejövõ jogutód gazdasági társaság neve: SAUBERMACHER-PANNONIA Hulladékgyûjtõ Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhelye: 8800 Nagykanizsa, Vár út 5.<ujsor/>
-Formája: korlátolt felelõsségû társaság.<ujsor/>
-Fõ tevékenysége (TEÁOR ’08): 3811 Nem veszélyes hulladék gyûjtése.<ujsor/>
-Vezetõ tisztségviselõi: Horváth Péter (2081 Piliscsaba, Szt. László Király u. 24.), Horváth Balázs (8800 Nagykanizsa, Hajgató Sándor u. 4/A).<ujsor/>
-A jogutód társaság társasági szerzõdése elfogadásának napja: 2010. június 8.<ujsor/>
-Az átalakulás napja: 2010. augusztus 31.<ujsor/>
-Az egyesülõ és a jogutód társaság záró, továbbá nyitó vagyonmérleg-tervezeteinek legfontosabb adatai:<ujsor/>
+<mezo id = "szoveg">A SAUBERMACHER-PANNONIA Kft. (Cg.: [20 09 061434]; szÃ©khelye: 8800 Nagykanizsa, VÃ¡r Ãºt 5.) kÃ¶zzÃ©teszi, hogy a NETTA Kft. (Cg.: [01 09 072083]; szÃ©khelye: 1095 Budapest, SoroksÃ¡ri Ãºt 56. I. 7.) mint beolvadÃ³ tÃ¡rsasÃ¡g Ã©s a SAUBERMACHER-PANNONIA Kft. mint Ã¡tvevÅ‘ Ã©s jogutÃ³d gazdasÃ¡gi tÃ¡rsasÃ¡g egymÃ¡ssal egyesÃ¼lnek.<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: beolvadÃ¡s.<ujsor/>
+Az egyesÃ¼lÃ©s sorÃ¡n lÃ©trejÃ¶vÅ‘ jogutÃ³d gazdasÃ¡gi tÃ¡rsasÃ¡g neve: SAUBERMACHER-PANNONIA HulladÃ©kgyÅ±jtÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 8800 Nagykanizsa, VÃ¡r Ãºt 5.<ujsor/>
+FormÃ¡ja: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+FÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™08): 3811 Nem veszÃ©lyes hulladÃ©k gyÅ±jtÃ©se.<ujsor/>
+VezetÅ‘ tisztsÃ©gviselÅ‘i: HorvÃ¡th PÃ©ter (2081 Piliscsaba, Szt. LÃ¡szlÃ³ KirÃ¡ly u. 24.), HorvÃ¡th BalÃ¡zs (8800 Nagykanizsa, HajgatÃ³ SÃ¡ndor u. 4/A).<ujsor/>
+A jogutÃ³d tÃ¡rsasÃ¡g tÃ¡rsasÃ¡gi szerzÅ‘dÃ©se elfogadÃ¡sÃ¡nak napja: 2010. jÃºnius 8.<ujsor/>
+Az Ã¡talakulÃ¡s napja: 2010. augusztus 31.<ujsor/>
+Az egyesÃ¼lÅ‘ Ã©s a jogutÃ³d tÃ¡rsasÃ¡g zÃ¡rÃ³, tovÃ¡bbÃ¡ nyitÃ³ vagyonmÃ©rleg-tervezeteinek legfontosabb adatai:<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK NETTA Kft. SAUBERMACHER- SAUBERMACHER-<ujsor/>
-(záró) PANNONIA Kft. (záró) PANNONIA Kft. (nyitó)<ujsor/>
-A) Befektetett eszközök 129 061 476 682 543 743<ujsor/>
-I. Immateriális javak 1 984 1 672 3 656<ujsor/>
-II. Tárgyi eszközök 127 077 409 740 536 817<ujsor/>
-III. Befektetett pénzügyi eszközök 0 65 270 3 270<ujsor/>
-B) Forgóeszközök 185 145 372 109 557 129<ujsor/>
-I. Készletek 7 198 0 7 198<ujsor/>
-II. Követelések 115 388 253 124 368 387<ujsor/>
-III. Értékpapírok 0 0 0<ujsor/>
-IV. Pénzeszközök 62 559 118 985 181 544<ujsor/>
-C) Aktív idõbeli elhatárolások 1 601 29 747 31 348<ujsor/>
-ÖSSZESEN: 315 807 878 538 1 132 220<ujsor/>
+ESZKÃ–ZÃ–K NETTA Kft. SAUBERMACHER- SAUBERMACHER-<ujsor/>
+(zÃ¡rÃ³) PANNONIA Kft. (zÃ¡rÃ³) PANNONIA Kft. (nyitÃ³)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 129 061 476 682 543 743<ujsor/>
+I. ImmateriÃ¡lis javak 1 984 1 672 3 656<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 127 077 409 740 536 817<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 65 270 3 270<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 185 145 372 109 557 129<ujsor/>
+I. KÃ©szletek 7 198 0 7 198<ujsor/>
+II. KÃ¶vetelÃ©sek 115 388 253 124 368 387<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 0 0<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 62 559 118 985 181 544<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 1 601 29 747 31 348<ujsor/>
+Ã–SSZESEN: 315 807 878 538 1 132 220<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK NETTA Kft. SAUBERMACHER- SAUBERMACHER-<ujsor/>
-(záró) PANNONIA Kft. (záró) PANNONIA Kft. (nyitó)<ujsor/>
-D) Saját tõke 61 680 369 497 369 177<ujsor/>
-I. Jegyzett tõke 6 400 10 000 10 000<ujsor/>
-II. Jegyzett, de még be nem fizetett tõke 0 0 0<ujsor/>
-III. Tõketartalék 47 347 2 316 49 753<ujsor/>
-IV. Eredménytartalék 7 843 357 181 309 424<ujsor/>
-V. Lekötött tartalék 0 0 0<ujsor/>
-VI. Értékelési tartalék 0 0 0<ujsor/>
-E) Céltartalékok 0 0 0<ujsor/>
-F) Kötelezettségek 196 012 465 577 661 464<ujsor/>
-I. Hátra sorolt kötelezettségek 0 0 0<ujsor/>
-II. Hosszú lejáratú kötelezettségek 50 802 130 853 181 655<ujsor/>
-III. Rövid lejáratú kötelezettségek 145 210 334 724 479 809<ujsor/>
-G) Passzív idõbeli elhatárolások 58 115 43 464 101 579<ujsor/>
-ÖSSZESEN: 315 807 878 538 1 132 220<ujsor/>
-A jegyzett tõke a jogutód társaságnál összesen 10 000 000 Ft, amely 10 000 000 Ft pénzbeli betétbõl áll.<ujsor/>
-A társaságok felhívják a társaságok hitelezõit arra, hogy azok a hitelezõk, akiknek a fent nevezett társaságokkal szemben fennálló, le nem járt követeléseik a jelen hirdetmény elsõ közzétételét megelõzõen keletkeztek, követeléseik erejéig a társaságtól a jelen hirdetmény második közzétételét követõ 30 napos jogvesztõ határidõn belül biztosítékot követelhetnek.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+FORRÃSOK NETTA Kft. SAUBERMACHER- SAUBERMACHER-<ujsor/>
+(zÃ¡rÃ³) PANNONIA Kft. (zÃ¡rÃ³) PANNONIA Kft. (nyitÃ³)<ujsor/>
+D) SajÃ¡t tÅ‘ke 61 680 369 497 369 177<ujsor/>
+I. Jegyzett tÅ‘ke 6 400 10 000 10 000<ujsor/>
+II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke 0 0 0<ujsor/>
+III. TÅ‘ketartalÃ©k 47 347 2 316 49 753<ujsor/>
+IV. EredmÃ©nytartalÃ©k 7 843 357 181 309 424<ujsor/>
+V. LekÃ¶tÃ¶tt tartalÃ©k 0 0 0<ujsor/>
+VI. Ã‰rtÃ©kelÃ©si tartalÃ©k 0 0 0<ujsor/>
+E) CÃ©ltartalÃ©kok 0 0 0<ujsor/>
+F) KÃ¶telezettsÃ©gek 196 012 465 577 661 464<ujsor/>
+I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0 0 0<ujsor/>
+II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 50 802 130 853 181 655<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 145 210 334 724 479 809<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 58 115 43 464 101 579<ujsor/>
+Ã–SSZESEN: 315 807 878 538 1 132 220<ujsor/>
+A jegyzett tÅ‘ke a jogutÃ³d tÃ¡rsasÃ¡gnÃ¡l Ã¶sszesen 10 000 000 Ft, amely 10 000 000 Ft pÃ©nzbeli betÃ©tbÅ‘l Ã¡ll.<ujsor/>
+A tÃ¡rsasÃ¡gok felhÃ­vjÃ¡k a tÃ¡rsasÃ¡gok hitelezÅ‘it arra, hogy azok a hitelezÅ‘k, akiknek a fent nevezett tÃ¡rsasÃ¡gokkal szemben fennÃ¡llÃ³, le nem jÃ¡rt kÃ¶vetelÃ©seik a jelen hirdetmÃ©ny elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig a tÃ¡rsasÃ¡gtÃ³l a jelen hirdetmÃ©ny mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ 30 napos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">2009061434</mezo>
-<mezo id = "nev">SAUBERMACHER-PANNONIA Hulladékgyûjtõ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">SAUBERMACHER-PANNONIA HulladÃ©kgyÅ±jtÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">8800 Nagykanizsa</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A SAUBERMACHER-PANNONIA Kft. (Cg.: [20 09 061434]; székhelye: 8800 Nagykanizsa, Vár út 5.) közzéteszi, hogy a NETTA Kft. (Cg.: [01 09 072083]; székhelye: 1095 Budapest, Soroksári út 56. I. 7.) mint beolvadó társaság és a SAUBERMACHER-PANNONIA Kft. mint átvevõ és jogutód gazdasági társaság egymással egyesülnek.<ujsor/>
-Az egyesülés módja: beolvadás.<ujsor/>
-Az egyesülés során létrejövõ jogutód gazdasági társaság neve: SAUBERMACHER-PANNONIA Hulladékgyûjtõ Korlátolt Felelõsségû Társaság.<ujsor/>
-Székhelye: 8800 Nagykanizsa, Vár út 5.<ujsor/>
-Formája: korlátolt felelõsségû társaság.<ujsor/>
-Fõ tevékenysége (TEÁOR ’08): 3811 Nem veszélyes hulladék gyûjtése.<ujsor/>
-Vezetõ tisztségviselõi: Horváth Péter (2081 Piliscsaba, Szt. László Király u. 24.), Horváth Balázs (8800 Nagykanizsa, Hajgató Sándor u. 4/A).<ujsor/>
-A jogutód társaság társasági szerzõdése elfogadásának napja: 2010. június 8.<ujsor/>
-Az átalakulás napja: 2010. augusztus 31.<ujsor/>
-Az egyesülõ és a jogutód társaság záró, továbbá nyitó vagyonmérleg-tervezeteinek legfontosabb adatai:<ujsor/>
+<mezo id = "szoveg">A SAUBERMACHER-PANNONIA Kft. (Cg.: [20 09 061434]; szÃ©khelye: 8800 Nagykanizsa, VÃ¡r Ãºt 5.) kÃ¶zzÃ©teszi, hogy a NETTA Kft. (Cg.: [01 09 072083]; szÃ©khelye: 1095 Budapest, SoroksÃ¡ri Ãºt 56. I. 7.) mint beolvadÃ³ tÃ¡rsasÃ¡g Ã©s a SAUBERMACHER-PANNONIA Kft. mint Ã¡tvevÅ‘ Ã©s jogutÃ³d gazdasÃ¡gi tÃ¡rsasÃ¡g egymÃ¡ssal egyesÃ¼lnek.<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: beolvadÃ¡s.<ujsor/>
+Az egyesÃ¼lÃ©s sorÃ¡n lÃ©trejÃ¶vÅ‘ jogutÃ³d gazdasÃ¡gi tÃ¡rsasÃ¡g neve: SAUBERMACHER-PANNONIA HulladÃ©kgyÅ±jtÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 8800 Nagykanizsa, VÃ¡r Ãºt 5.<ujsor/>
+FormÃ¡ja: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+FÅ‘ tevÃ©kenysÃ©ge (TEÃOR â€™08): 3811 Nem veszÃ©lyes hulladÃ©k gyÅ±jtÃ©se.<ujsor/>
+VezetÅ‘ tisztsÃ©gviselÅ‘i: HorvÃ¡th PÃ©ter (2081 Piliscsaba, Szt. LÃ¡szlÃ³ KirÃ¡ly u. 24.), HorvÃ¡th BalÃ¡zs (8800 Nagykanizsa, HajgatÃ³ SÃ¡ndor u. 4/A).<ujsor/>
+A jogutÃ³d tÃ¡rsasÃ¡g tÃ¡rsasÃ¡gi szerzÅ‘dÃ©se elfogadÃ¡sÃ¡nak napja: 2010. jÃºnius 8.<ujsor/>
+Az Ã¡talakulÃ¡s napja: 2010. augusztus 31.<ujsor/>
+Az egyesÃ¼lÅ‘ Ã©s a jogutÃ³d tÃ¡rsasÃ¡g zÃ¡rÃ³, tovÃ¡bbÃ¡ nyitÃ³ vagyonmÃ©rleg-tervezeteinek legfontosabb adatai:<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK NETTA Kft. SAUBERMACHER- SAUBERMACHER-<ujsor/>
-(záró) PANNONIA Kft. (záró) PANNONIA Kft. (nyitó)<ujsor/>
-A) Befektetett eszközök 129 061 476 682 543 743<ujsor/>
-I. Immateriális javak 1 984 1 672 3 656<ujsor/>
-II. Tárgyi eszközök 127 077 409 740 536 817<ujsor/>
-III. Befektetett pénzügyi eszközök 0 65 270 3 270<ujsor/>
-B) Forgóeszközök 185 145 372 109 557 129<ujsor/>
-I. Készletek 7 198 0 7 198<ujsor/>
-II. Követelések 115 388 253 124 368 387<ujsor/>
-III. Értékpapírok 0 0 0<ujsor/>
-IV. Pénzeszközök 62 559 118 985 181 544<ujsor/>
-C) Aktív idõbeli elhatárolások 1 601 29 747 31 348<ujsor/>
-ÖSSZESEN: 315 807 878 538 1 132 220<ujsor/>
+ESZKÃ–ZÃ–K NETTA Kft. SAUBERMACHER- SAUBERMACHER-<ujsor/>
+(zÃ¡rÃ³) PANNONIA Kft. (zÃ¡rÃ³) PANNONIA Kft. (nyitÃ³)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 129 061 476 682 543 743<ujsor/>
+I. ImmateriÃ¡lis javak 1 984 1 672 3 656<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 127 077 409 740 536 817<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 0 65 270 3 270<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 185 145 372 109 557 129<ujsor/>
+I. KÃ©szletek 7 198 0 7 198<ujsor/>
+II. KÃ¶vetelÃ©sek 115 388 253 124 368 387<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 0 0<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 62 559 118 985 181 544<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 1 601 29 747 31 348<ujsor/>
+Ã–SSZESEN: 315 807 878 538 1 132 220<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK NETTA Kft. SAUBERMACHER- SAUBERMACHER-<ujsor/>
-(záró) PANNONIA Kft. (záró) PANNONIA Kft. (nyitó)<ujsor/>
-D) Saját tõke 61 680 369 497 369 177<ujsor/>
-I. Jegyzett tõke 6 400 10 000 10 000<ujsor/>
-II. Jegyzett, de még be nem fizetett tõke 0 0 0<ujsor/>
-III. Tõketartalék 47 347 2 316 49 753<ujsor/>
-IV. Eredménytartalék 7 843 357 181 309 424<ujsor/>
-V. Lekötött tartalék 0 0 0<ujsor/>
-VI. Értékelési tartalék 0 0 0<ujsor/>
-E) Céltartalékok 0 0 0<ujsor/>
-F) Kötelezettségek 196 012 465 577 661 464<ujsor/>
-I. Hátra sorolt kötelezettségek 0 0 0<ujsor/>
-II. Hosszú lejáratú kötelezettségek 50 802 130 853 181 655<ujsor/>
-III. Rövid lejáratú kötelezettségek 145 210 334 724 479 809<ujsor/>
-G) Passzív idõbeli elhatárolások 58 115 43 464 101 579<ujsor/>
-ÖSSZESEN: 315 807 878 538 1 132 220<ujsor/>
-A jegyzett tõke a jogutód társaságnál összesen 10 000 000 Ft, amely 10 000 000 Ft pénzbeli betétbõl áll.<ujsor/>
-A társaságok felhívják a társaságok hitelezõit arra, hogy azok a hitelezõk, akiknek a fent nevezett társaságokkal szemben fennálló le nem járt követeléseik a jelen hirdetmény elsõ közzétételét megelõzõen keletkeztek, követeléseik erejéig a társaságtól a jelen hirdetmény második közzétételét követõ 30 napos jogvesztõ határidõn belül biztosítékot követelhetnek.<ujsor/>
-(Második közzététel.)<ujsor/>
+FORRÃSOK NETTA Kft. SAUBERMACHER- SAUBERMACHER-<ujsor/>
+(zÃ¡rÃ³) PANNONIA Kft. (zÃ¡rÃ³) PANNONIA Kft. (nyitÃ³)<ujsor/>
+D) SajÃ¡t tÅ‘ke 61 680 369 497 369 177<ujsor/>
+I. Jegyzett tÅ‘ke 6 400 10 000 10 000<ujsor/>
+II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke 0 0 0<ujsor/>
+III. TÅ‘ketartalÃ©k 47 347 2 316 49 753<ujsor/>
+IV. EredmÃ©nytartalÃ©k 7 843 357 181 309 424<ujsor/>
+V. LekÃ¶tÃ¶tt tartalÃ©k 0 0 0<ujsor/>
+VI. Ã‰rtÃ©kelÃ©si tartalÃ©k 0 0 0<ujsor/>
+E) CÃ©ltartalÃ©kok 0 0 0<ujsor/>
+F) KÃ¶telezettsÃ©gek 196 012 465 577 661 464<ujsor/>
+I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0 0 0<ujsor/>
+II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 50 802 130 853 181 655<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 145 210 334 724 479 809<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 58 115 43 464 101 579<ujsor/>
+Ã–SSZESEN: 315 807 878 538 1 132 220<ujsor/>
+A jegyzett tÅ‘ke a jogutÃ³d tÃ¡rsasÃ¡gnÃ¡l Ã¶sszesen 10 000 000 Ft, amely 10 000 000 Ft pÃ©nzbeli betÃ©tbÅ‘l Ã¡ll.<ujsor/>
+A tÃ¡rsasÃ¡gok felhÃ­vjÃ¡k a tÃ¡rsasÃ¡gok hitelezÅ‘it arra, hogy azok a hitelezÅ‘k, akiknek a fent nevezett tÃ¡rsasÃ¡gokkal szemben fennÃ¡llÃ³ le nem jÃ¡rt kÃ¶vetelÃ©seik a jelen hirdetmÃ©ny elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, kÃ¶vetelÃ©seik erejÃ©ig a tÃ¡rsasÃ¡gtÃ³l a jelen hirdetmÃ©ny mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ 30 napos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l biztosÃ­tÃ©kot kÃ¶vetelhetnek.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">2009061434</mezo>
-<mezo id = "nev">SAUBERMACHER-PANNONIA Hulladékgyûjtõ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">SAUBERMACHER-PANNONIA HulladÃ©kgyÅ±jtÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">8800 Nagykanizsa</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Zala Megyei Bíróság mint Cégbíróság a Cg.20-09-061434 cégjegyzékszámon bejegyzett SAUBERMACHER-PANNONIA Hulladékgyûjtõ Korlátolt Felelõsségû Társaság (8800 Nagykanizsa, Vár út 5.; adószáma: 11344490-2-20) kérelme alapján elrendeli az 2011. július 22. napján hozott Cg.20-09-061434 /118. számú végzésének kijavítását az alábbiak szerint:<ujsor/>
-13. A képviseletre jogosult(ak) adatai<ujsor/>
-A képviselet módja: önálló.<ujsor/>
-Adóazonosító jel: 8417283080<ujsor/>
-Plander Norbert cégvezetõ (an.: Kocsis Katalin)<ujsor/>
-1067 Budapest, VI. került, Eötvös utca 47/3.<ujsor/>
-Jogv. kezdete: 2010.08.31. Jogv. vége: 2015.08.31.<ujsor/>
-Vált. vége: 2011.07.13.<ujsor/>
-Törölve (végzés kelte): 2011. augusztus 9.<ujsor/>
-A képviselet módja: együttes.<ujsor/>
-Adóazonosító jel: 8417283080<ujsor/>
-Plander Norbert cégvezetõ (an.: Kocsis Katalin)<ujsor/>
-1067 Budapest, VI. kerület, Eötvös utca 47/3.<ujsor/>
-Jogv. kezdete: 2010.08.31. Jogv. vége: 2015.08.31.<ujsor/>
-Vált. kezdete: 2011.07.13.<ujsor/>
-Bejegyezve (végzés kelte): 2011. augusztus 9.<ujsor/>
-E végzés ellen fellebbezésnek nincs helye, azonban az ügyész, továbbá az, akire a végzés rendelkezést tartalmaz - a rendelkezés õt érintõ részére vonatkozóan - pert indíthat a cég ellen a cég székhelye szerint illetékes megyei bíróság elõtt a bejegyzõ végzés hatályon kívül helyezése iránt.<ujsor/>
-A per megindításának a bejegyzõ végzés Cégközlönyben való közzétételétõl, illetve - közzétételi kötelezettség hiányában - annak kézbesítésétõl számított 30 napon belül van helye. A határidõ elmulasztása jogvesztéssel jár.<ujsor/>
+<mezo id = "szoveg">A Zala Megyei BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.20-09-061434 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett SAUBERMACHER-PANNONIA HulladÃ©kgyÅ±jtÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (8800 Nagykanizsa, VÃ¡r Ãºt 5.; adÃ³szÃ¡ma: 11344490-2-20) kÃ©relme alapjÃ¡n elrendeli az 2011. jÃºlius 22. napjÃ¡n hozott Cg.20-09-061434 /118. szÃ¡mÃº vÃ©gzÃ©sÃ©nek kijavÃ­tÃ¡sÃ¡t az alÃ¡bbiak szerint:<ujsor/>
+13. A kÃ©pviseletre jogosult(ak) adatai<ujsor/>
+A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+AdÃ³azonosÃ­tÃ³ jel: 8417283080<ujsor/>
+Plander Norbert cÃ©gvezetÅ‘ (an.: Kocsis Katalin)<ujsor/>
+1067 Budapest, VI. kerÃ¼lt, EÃ¶tvÃ¶s utca 47/3.<ujsor/>
+Jogv. kezdete: 2010.08.31. Jogv. vÃ©ge: 2015.08.31.<ujsor/>
+VÃ¡lt. vÃ©ge: 2011.07.13.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2011. augusztus 9.<ujsor/>
+A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+AdÃ³azonosÃ­tÃ³ jel: 8417283080<ujsor/>
+Plander Norbert cÃ©gvezetÅ‘ (an.: Kocsis Katalin)<ujsor/>
+1067 Budapest, VI. kerÃ¼let, EÃ¶tvÃ¶s utca 47/3.<ujsor/>
+Jogv. kezdete: 2010.08.31. Jogv. vÃ©ge: 2015.08.31.<ujsor/>
+VÃ¡lt. kezdete: 2011.07.13.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2011. augusztus 9.<ujsor/>
+E vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye, azonban az Ã¼gyÃ©sz, tovÃ¡bbÃ¡ az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s Å‘t Ã©rintÅ‘ rÃ©szÃ©re vonatkozÃ³an - pert indÃ­that a cÃ©g ellen a cÃ©g szÃ©khelye szerint illetÃ©kes megyei bÃ­rÃ³sÃ¡g elÅ‘tt a bejegyzÅ‘ vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt.<ujsor/>
+A per megindÃ­tÃ¡sÃ¡nak a bejegyzÅ‘ vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l, illetve - kÃ¶zzÃ©tÃ©teli kÃ¶telezettsÃ©g hiÃ¡nyÃ¡ban - annak kÃ©zbesÃ­tÃ©sÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l van helye. A hatÃ¡ridÅ‘ elmulasztÃ¡sa jogvesztÃ©ssel jÃ¡r.<ujsor/>
 2011. augusztus 9.<ujsor/>
 </mezo>
 <mezo id = "cjsz">2009061434</mezo>
-<mezo id = "nev">SAUBERMACHER-PANNONIA Hulladékgyûjtõ Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">8800 Nagykanizsa, Vár út 5.</mezo>
+<mezo id = "nev">SAUBERMACHER-PANNONIA HulladÃ©kgyÅ±jtÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">8800 Nagykanizsa, VÃ¡r Ãºt 5.</mezo>
 <mezo id = "adosz">11344490220</mezo>
 </alrovat>
 </rovat>

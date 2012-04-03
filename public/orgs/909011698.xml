@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">011698</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">4025 Debrecen, Széchenyi utca 57. </mezo>
+<mezo id = "cim">4025 Debrecen, SzÃ©chenyi utca 57. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">13524344209</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20050617</mezo>
-<mezo id = "nev">DEGOREX Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">DEGOREX Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -27,7 +27,7 @@
 <mezo id = "hattol">20050617</mezo>
 <mezo id = "irsz">4025</mezo>
 <mezo id = "hely">Debrecen</mezo>
-<mezo id = "teru">Széchenyi utca 57.</mezo>
+<mezo id = "teru">SzÃ©chenyi utca 57.</mezo>
 <mezo id = "kirsz">0</mezo>
 </alrovat>
 </rovat>
@@ -702,8 +702,8 @@
 <rovat id = "13">
 <alrovat id = "3">
 <mezo id = "hattol">20070724</mezo>
-<mezo id = "pnev">Széles György Tamás</mezo>
-<mezo id = "panev">Gáspár Ildikó</mezo>
+<mezo id = "pnev">SzÃ©les GyÃ¶rgy TamÃ¡s</mezo>
+<mezo id = "panev">GÃ¡spÃ¡r IldikÃ³</mezo>
 <mezo id = "pirsz">4028</mezo>
 <mezo id = "phely">Debrecen, Martinovics u. 4/ A . I/7.</mezo>
 <mezo id = "kepvo">x</mezo>
@@ -718,13 +718,13 @@
 <alrovat id = "1">
 <mezo id = "hattol">20070724</mezo>
 <mezo id = "cgjsz">909006800</mezo>
-<mezo id = "nev">VIDA és Papp Könyvvizsgáló, Gazdasági Tanácsadó és Könyvelõ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">VIDA Ã©s Papp KÃ¶nyvvizsgÃ¡lÃ³, GazdasÃ¡gi TanÃ¡csadÃ³ Ã©s KÃ¶nyvelÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">4024</mezo>
-<mezo id = "hely">Debrecen, Liszt F. tér 5.</mezo>
-<mezo id = "pnev">Vida Imréné</mezo>
+<mezo id = "hely">Debrecen, Liszt F. tÃ©r 5.</mezo>
+<mezo id = "pnev">Vida ImrÃ©nÃ©</mezo>
 <mezo id = "panev">Papp Anna</mezo>
-<mezo id = "phely">Debrecen, Rózsahegy u. 16.</mezo>
+<mezo id = "phely">Debrecen, RÃ³zsahegy u. 16.</mezo>
 <mezo id = "jogvk">20070530</mezo>
 <mezo id = "jogvv">20120530</mezo>
 <mezo id = "valtk">0</mezo>
@@ -753,8 +753,8 @@
 <rovat id = "0109">
 <alrovat id = "3">
 <mezo id = "hattol">20070724</mezo>
-<mezo id = "pnev">Széles György Tamás</mezo>
-<mezo id = "panev">Gáspár Ildikó</mezo>
+<mezo id = "pnev">SzÃ©les GyÃ¶rgy TamÃ¡s</mezo>
+<mezo id = "panev">GÃ¡spÃ¡r IldikÃ³</mezo>
 <mezo id = "pirsz">4028</mezo>
 <mezo id = "phely">Debrecen, Martinovics u. 4/ A . I/7.</mezo>
 <mezo id = "tagsk">20050615</mezo>
@@ -764,8 +764,8 @@
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20070724</mezo>
-<mezo id = "pnev">Mészáros Béla</mezo>
-<mezo id = "panev">Szûcs Jolán</mezo>
+<mezo id = "pnev">MÃ©szÃ¡ros BÃ©la</mezo>
+<mezo id = "panev">SzÅ±cs JolÃ¡n</mezo>
 <mezo id = "pirsz">4032</mezo>
 <mezo id = "phely">Debrecen, Hatvani I. u. 3/C.</mezo>
 <mezo id = "tagsk">20050515</mezo>
@@ -778,31 +778,31 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A DEGOREX Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság (Cg.: [09 09 011698]; székhelye: 4025 Debrecen, Széchenyi u. 57.) közzéteszi, hogy az 1/2009. (X. 12.) számú határozatával elhatározta a társaság törzstõkéjének csökkentését.<ujsor/>
-A társaság törzstõkéjét 5 000 000 Ft-ról 3 000 000 Ft-tal 2 000 000 Ft-ra (kettõmillió forintra) szállítja le.<ujsor/>
-A törzstõke-leszállítás célja: tõkekivonás.<ujsor/>
-A törzstõke-leszállítás folytán Széles György Tamás tag törzsbetéte 1 000 000 Ft-ra (egymillió forintra), míg Mészáros Béla tag törzsbetéte szintén 1 000 000 Ft-ra (egymillió forintra) módosul.<ujsor/>
-A tõkeleszállítás folytán módosul a társaság társasági szerzõdésének I.4./ pontja.<ujsor/>
-A társaság a 2006. évi IV. tv. 162. § (1) bekezdésében foglaltak alapján felhívja hitelezõit, hogy a hirdetmény elsõ alkalommal történt közzétételét megelõzõen keletkezett és ezen idõpontig esedékessé nem vált követelésük után biztosítékra tarthatnak igényt. A hitelezõk a hirdetmény utolsó közzétételétõl számított 30 napos jogvesztõ határidõn belül jogosultak bejelenteni, ha a társaság törzstõkéjének leszállításával összefüggésében biztosítékra tartanak igényt.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">A DEGOREX Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [09 09 011698]; szÃ©khelye: 4025 Debrecen, SzÃ©chenyi u. 57.) kÃ¶zzÃ©teszi, hogy az 1/2009. (X. 12.) szÃ¡mÃº hatÃ¡rozatÃ¡val elhatÃ¡rozta a tÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©jÃ©nek csÃ¶kkentÃ©sÃ©t.<ujsor/>
+A tÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©jÃ©t 5 000 000 Ft-rÃ³l 3 000 000 Ft-tal 2 000 000 Ft-ra (kettÅ‘milliÃ³ forintra) szÃ¡llÃ­tja le.<ujsor/>
+A tÃ¶rzstÅ‘ke-leszÃ¡llÃ­tÃ¡s cÃ©lja: tÅ‘kekivonÃ¡s.<ujsor/>
+A tÃ¶rzstÅ‘ke-leszÃ¡llÃ­tÃ¡s folytÃ¡n SzÃ©les GyÃ¶rgy TamÃ¡s tag tÃ¶rzsbetÃ©te 1 000 000 Ft-ra (egymilliÃ³ forintra), mÃ­g MÃ©szÃ¡ros BÃ©la tag tÃ¶rzsbetÃ©te szintÃ©n 1 000 000 Ft-ra (egymilliÃ³ forintra) mÃ³dosul.<ujsor/>
+A tÅ‘keleszÃ¡llÃ­tÃ¡s folytÃ¡n mÃ³dosul a tÃ¡rsasÃ¡g tÃ¡rsasÃ¡gi szerzÅ‘dÃ©sÃ©nek I.4./ pontja.<ujsor/>
+A tÃ¡rsasÃ¡g a 2006. Ã©vi IV. tv. 162. Â§ (1) bekezdÃ©sÃ©ben foglaltak alapjÃ¡n felhÃ­vja hitelezÅ‘it, hogy a hirdetmÃ©ny elsÅ‘ alkalommal tÃ¶rtÃ©nt kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkezett Ã©s ezen idÅ‘pontig esedÃ©kessÃ© nem vÃ¡lt kÃ¶vetelÃ©sÃ¼k utÃ¡n biztosÃ­tÃ©kra tarthatnak igÃ©nyt. A hitelezÅ‘k a hirdetmÃ©ny utolsÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott 30 napos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l jogosultak bejelenteni, ha a tÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©jÃ©nek leszÃ¡llÃ­tÃ¡sÃ¡val Ã¶sszefÃ¼ggÃ©sÃ©ben biztosÃ­tÃ©kra tartanak igÃ©nyt.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0909011698</mezo>
-<mezo id = "nev">DEGOREX Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">DEGOREX Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">4025 Debrecen</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A DEGOREX Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság (Cg.: [09 09 011698]; székhelye: 4025 Debrecen, Széchenyi u. 57.) közzéteszi, hogy az 1/2009. (X. 12.) számú határozatával elhatározta a társaság törzstõkéjének csökkentését.<ujsor/>
-A társaság törzstõkéjét 5 000 000 Ft-ról 3 000 000 Ft-tal 2 000 000 Ft-ra (kettõmillió forintra) szállítja le.<ujsor/>
-A törzstõke-leszállítás célja: tõkekivonás.<ujsor/>
-A törzstõke-leszállítás folytán Széles György Tamás tag törzsbetéte 1 000 000 Ft-ra (egymillió forintra), míg Mészáros Béla tag törzsbetéte szintén 1 000 000 Ft-ra (egymillió forintra) módosul.<ujsor/>
-A tõkeleszállítás folytán módosul a társaság társasági szerzõdésének I.4./ pontja.<ujsor/>
-A társaság a 2006. évi IV. tv. 162. § (1) bekezdésében foglaltak alapján felhívja hitelezõit, hogy a hirdetmény elsõ alkalommal történt közzétételét megelõzõen keletkezett és ezen idõpontig esedékessé nem vált követelésük után biztosítékra tarthatnak igényt. A hitelezõk a hirdetmény utolsó közzétételétõl számított 30 napos jogvesztõ határidõn belül jogosultak bejelenteni, ha a társaság törzstõkéjének leszállításával összefüggésben biztosítékra tartanak igényt.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">A DEGOREX Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [09 09 011698]; szÃ©khelye: 4025 Debrecen, SzÃ©chenyi u. 57.) kÃ¶zzÃ©teszi, hogy az 1/2009. (X. 12.) szÃ¡mÃº hatÃ¡rozatÃ¡val elhatÃ¡rozta a tÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©jÃ©nek csÃ¶kkentÃ©sÃ©t.<ujsor/>
+A tÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©jÃ©t 5 000 000 Ft-rÃ³l 3 000 000 Ft-tal 2 000 000 Ft-ra (kettÅ‘milliÃ³ forintra) szÃ¡llÃ­tja le.<ujsor/>
+A tÃ¶rzstÅ‘ke-leszÃ¡llÃ­tÃ¡s cÃ©lja: tÅ‘kekivonÃ¡s.<ujsor/>
+A tÃ¶rzstÅ‘ke-leszÃ¡llÃ­tÃ¡s folytÃ¡n SzÃ©les GyÃ¶rgy TamÃ¡s tag tÃ¶rzsbetÃ©te 1 000 000 Ft-ra (egymilliÃ³ forintra), mÃ­g MÃ©szÃ¡ros BÃ©la tag tÃ¶rzsbetÃ©te szintÃ©n 1 000 000 Ft-ra (egymilliÃ³ forintra) mÃ³dosul.<ujsor/>
+A tÅ‘keleszÃ¡llÃ­tÃ¡s folytÃ¡n mÃ³dosul a tÃ¡rsasÃ¡g tÃ¡rsasÃ¡gi szerzÅ‘dÃ©sÃ©nek I.4./ pontja.<ujsor/>
+A tÃ¡rsasÃ¡g a 2006. Ã©vi IV. tv. 162. Â§ (1) bekezdÃ©sÃ©ben foglaltak alapjÃ¡n felhÃ­vja hitelezÅ‘it, hogy a hirdetmÃ©ny elsÅ‘ alkalommal tÃ¶rtÃ©nt kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkezett Ã©s ezen idÅ‘pontig esedÃ©kessÃ© nem vÃ¡lt kÃ¶vetelÃ©sÃ¼k utÃ¡n biztosÃ­tÃ©kra tarthatnak igÃ©nyt. A hitelezÅ‘k a hirdetmÃ©ny utolsÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott 30 napos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l jogosultak bejelenteni, ha a tÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©jÃ©nek leszÃ¡llÃ­tÃ¡sÃ¡val Ã¶sszefÃ¼ggÃ©sben biztosÃ­tÃ©kra tartanak igÃ©nyt.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0909011698</mezo>
-<mezo id = "nev">DEGOREX Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">DEGOREX Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">4025 Debrecen</mezo>
 </alrovat>
 </rovat>

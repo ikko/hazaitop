@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">015804</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">4032 Debrecen, Bencsik Sándor utca 5. </mezo>
+<mezo id = "cim">4032 Debrecen, Bencsik SÃ¡ndor utca 5. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">14506468209</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20081016</mezo>
-<mezo id = "nev">Kelet-Épszer Építõipari, Szervezõ, Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Kelet-Ã‰pszer Ã‰pÃ­tÅ‘ipari, SzervezÅ‘, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20081016</mezo>
@@ -23,7 +23,7 @@
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">20081016</mezo>
-<mezo id = "nev">Kelet-Épszer Kft.</mezo>
+<mezo id = "nev">Kelet-Ã‰pszer Kft.</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "bkelt">20081016</mezo>
@@ -35,7 +35,7 @@
 <mezo id = "hattol">20110401</mezo>
 <mezo id = "irsz">4032</mezo>
 <mezo id = "hely">Debrecen</mezo>
-<mezo id = "teru">Bencsik Sándor utca 5.</mezo>
+<mezo id = "teru">Bencsik SÃ¡ndor utca 5.</mezo>
 <mezo id = "valtk">20110401</mezo>
 <mezo id = "bkelt">20110401</mezo>
 </alrovat>
@@ -393,12 +393,12 @@
 <rovat id = "13">
 <alrovat id = "5">
 <mezo id = "hattol">20110401</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Kovács Árpád</mezo>
-<mezo id = "panev">Rémán Erzsébet</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">KovÃ¡cs ÃrpÃ¡d</mezo>
+<mezo id = "panev">RÃ©mÃ¡n ErzsÃ©bet</mezo>
 <mezo id = "pirsz">4032</mezo>
 <mezo id = "phely">Debrecen</mezo>
-<mezo id = "pteru">Bencsik Sándor utca 5.</mezo>
+<mezo id = "pteru">Bencsik SÃ¡ndor utca 5.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20110401</mezo>
 <mezo id = "valtk">20110401</mezo>
@@ -410,16 +410,16 @@
 <alrovat id = "1">
 <mezo id = "hattol">20091120</mezo>
 <mezo id = "cgjsz">0909002735</mezo>
-<mezo id = "nev">CASH-LEGAL Könyvvizsgáló,Adótanácsadó és Számviteli Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">CASH-LEGAL KÃ¶nyvvizsgÃ¡lÃ³,AdÃ³tanÃ¡csadÃ³ Ã©s SzÃ¡mviteli SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">4025</mezo>
 <mezo id = "hely">Debrecen</mezo>
-<mezo id = "teru">Török Bálint utca 1.</mezo>
-<mezo id = "pnev">Kozma László</mezo>
-<mezo id = "panev">Pozsonyi Mária</mezo>
+<mezo id = "teru">TÃ¶rÃ¶k BÃ¡lint utca 1.</mezo>
+<mezo id = "pnev">Kozma LÃ¡szlÃ³</mezo>
+<mezo id = "panev">Pozsonyi MÃ¡ria</mezo>
 <mezo id = "pirsz">4025</mezo>
 <mezo id = "phely">Debrecen</mezo>
-<mezo id = "pteru">Török Bálint utca 1. tetõtér 17.</mezo>
+<mezo id = "pteru">TÃ¶rÃ¶k BÃ¡lint utca 1. tetÅ‘tÃ©r 17.</mezo>
 <mezo id = "jogvk">20091120</mezo>
 <mezo id = "jogvv">20141120</mezo>
 <mezo id = "valtk">20091120</mezo>
@@ -445,8 +445,8 @@
 <rovat id = "0109">
 <alrovat id = "4">
 <mezo id = "hattol">20110401</mezo>
-<mezo id = "pnev">Molnár Gyula</mezo>
-<mezo id = "panev">Pálfi Mária Valéria</mezo>
+<mezo id = "pnev">MolnÃ¡r Gyula</mezo>
+<mezo id = "panev">PÃ¡lfi MÃ¡ria ValÃ©ria</mezo>
 <mezo id = "pirsz">1113</mezo>
 <mezo id = "phely">Budapest</mezo>
 <mezo id = "pteru">Csetneki utca 5. fszt. 3.</mezo>
@@ -456,11 +456,11 @@
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20110629</mezo>
-<mezo id = "pnev">Kovács Árpád</mezo>
-<mezo id = "panev">Rémán Erzsébet</mezo>
+<mezo id = "pnev">KovÃ¡cs ÃrpÃ¡d</mezo>
+<mezo id = "panev">RÃ©mÃ¡n ErzsÃ©bet</mezo>
 <mezo id = "pirsz">4032</mezo>
 <mezo id = "phely">Debrecen</mezo>
-<mezo id = "pteru">Bencsik Sándor utca 5.</mezo>
+<mezo id = "pteru">Bencsik SÃ¡ndor utca 5.</mezo>
 <mezo id = "tagsk">20110629</mezo>
 <mezo id = "sz1">x</mezo>
 <mezo id = "valtk">20110629</mezo>
@@ -471,43 +471,43 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Hajdú-Bihar Megyei Bíróság mint Cégbíróság a Cg.09-09-015804 cégjegyzékszámon bejegyzett Kelet-Épszer Építõipari, Szervezõ, Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság (4032 Debrecen, Bencsik Sándor utca 5.; adószáma: 14506468-2-09) ügyében kérelme alapján elrendeli a 2011. április 1. napján hozott Cg.09-09-015804/11. számú végzésének a kijavítását rendeli az alábbiak szerint:<ujsor/>
-5. A cég székhelye<ujsor/>
-4032 Debrecen, Bencsik Sándor utca 5.<ujsor/>
-Vált. vége: 2011.03.29.<ujsor/>
-Törölve (végzés kelte): 2011. április 1.<ujsor/>
-4032 Debrecen, Bencsik Sándor utca 5.<ujsor/>
-Vált. kezdete: 2011.04.01.<ujsor/>
-Bejegyezve (végzés kelte): 2011. április 1.<ujsor/>
-13. A képviseletre jogosult(ak) adatai<ujsor/>
-A képviselet módja: önálló.<ujsor/>
-Adóazonosító jel: 8362013036<ujsor/>
-Kovács Áprád vezetõ tisztségviselõ (ügyvezetõ) (an.: Rémán Erzsébet)<ujsor/>
-4032 Debrecen, Bencsik Sándor utca 5.<ujsor/>
+<mezo id = "szoveg">A HajdÃº-Bihar Megyei BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.09-09-015804 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett Kelet-Ã‰pszer Ã‰pÃ­tÅ‘ipari, SzervezÅ‘, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (4032 Debrecen, Bencsik SÃ¡ndor utca 5.; adÃ³szÃ¡ma: 14506468-2-09) Ã¼gyÃ©ben kÃ©relme alapjÃ¡n elrendeli a 2011. Ã¡prilis 1. napjÃ¡n hozott Cg.09-09-015804/11. szÃ¡mÃº vÃ©gzÃ©sÃ©nek a kijavÃ­tÃ¡sÃ¡t rendeli az alÃ¡bbiak szerint:<ujsor/>
+5. A cÃ©g szÃ©khelye<ujsor/>
+4032 Debrecen, Bencsik SÃ¡ndor utca 5.<ujsor/>
+VÃ¡lt. vÃ©ge: 2011.03.29.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2011. Ã¡prilis 1.<ujsor/>
+4032 Debrecen, Bencsik SÃ¡ndor utca 5.<ujsor/>
+VÃ¡lt. kezdete: 2011.04.01.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2011. Ã¡prilis 1.<ujsor/>
+13. A kÃ©pviseletre jogosult(ak) adatai<ujsor/>
+A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+AdÃ³azonosÃ­tÃ³ jel: 8362013036<ujsor/>
+KovÃ¡cs ÃprÃ¡d vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘) (an.: RÃ©mÃ¡n ErzsÃ©bet)<ujsor/>
+4032 Debrecen, Bencsik SÃ¡ndor utca 5.<ujsor/>
 Jogv. kezdete: 2011.03.29.<ujsor/>
-Vált. vége: 2011.03.29.<ujsor/>
-Törölve (végzés kelte): 2011. április 1.<ujsor/>
-A képviselet módja: önálló.<ujsor/>
-Adóazonosító jel: 8362013036<ujsor/>
-Kovács Árpád vezetõ tisztségviselõ (ügyvezetõ) (an.: Rémán Erzsébet)<ujsor/>
-4032 Debrecen, Bencsik Sándor utca 5.<ujsor/>
+VÃ¡lt. vÃ©ge: 2011.03.29.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2011. Ã¡prilis 1.<ujsor/>
+A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+AdÃ³azonosÃ­tÃ³ jel: 8362013036<ujsor/>
+KovÃ¡cs ÃrpÃ¡d vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘) (an.: RÃ©mÃ¡n ErzsÃ©bet)<ujsor/>
+4032 Debrecen, Bencsik SÃ¡ndor utca 5.<ujsor/>
 Jogv. kezdete: 2011.04.01.<ujsor/>
-Vált. kezdete: 2011.04.01.<ujsor/>
-Bejegyezve (végzés kelte): 2011. április 1.<ujsor/>
-45. A cég elektronikus elérhetõsége<ujsor/>
-A cég e-mail címe: arpad.kovacs@t-email.hu<ujsor/>
-Vált. vége: 2011.03.29.<ujsor/>
-Törölve (végzés kelte): 2011. április 1.<ujsor/>
-A cég e-mail címe: arpad.kovacs@t-email.hu<ujsor/>
-Vált. kezdete: 2011.04.01.<ujsor/>
-Bejegyezve (végzés kelte): 2011. április 1.<ujsor/>
-E végzés ellen fellebbezésnek nincs helye, azonban az ügyész, továbbá az, akire a végzés rendelkezést tartalmaz - a rendelkezés õt érintõ részére vonatkozóan - pert indíthat a cég ellen a cég székhelye szerint illetékes megyei bíróság elõtt a bejegyzõ végzés hatályon kívül helyezése iránt.<ujsor/>
-A per megindításának a bejegyzõ végzés Cégközlönyben való közzétételétõl, illetve - közzétételi kötelezettség hiányában - annak kézbesítésétõl számított 30 napon belül van helye. A határidõ elmulasztása jogvesztéssel jár.<ujsor/>
-2011. április 1.<ujsor/>
+VÃ¡lt. kezdete: 2011.04.01.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2011. Ã¡prilis 1.<ujsor/>
+45. A cÃ©g elektronikus elÃ©rhetÅ‘sÃ©ge<ujsor/>
+A cÃ©g e-mail cÃ­me: arpad.kovacs@t-email.hu<ujsor/>
+VÃ¡lt. vÃ©ge: 2011.03.29.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2011. Ã¡prilis 1.<ujsor/>
+A cÃ©g e-mail cÃ­me: arpad.kovacs@t-email.hu<ujsor/>
+VÃ¡lt. kezdete: 2011.04.01.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2011. Ã¡prilis 1.<ujsor/>
+E vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye, azonban az Ã¼gyÃ©sz, tovÃ¡bbÃ¡ az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s Å‘t Ã©rintÅ‘ rÃ©szÃ©re vonatkozÃ³an - pert indÃ­that a cÃ©g ellen a cÃ©g szÃ©khelye szerint illetÃ©kes megyei bÃ­rÃ³sÃ¡g elÅ‘tt a bejegyzÅ‘ vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt.<ujsor/>
+A per megindÃ­tÃ¡sÃ¡nak a bejegyzÅ‘ vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l, illetve - kÃ¶zzÃ©tÃ©teli kÃ¶telezettsÃ©g hiÃ¡nyÃ¡ban - annak kÃ©zbesÃ­tÃ©sÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l van helye. A hatÃ¡ridÅ‘ elmulasztÃ¡sa jogvesztÃ©ssel jÃ¡r.<ujsor/>
+2011. Ã¡prilis 1.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0909015804</mezo>
-<mezo id = "nev">Kelet-Épszer Építõipari, Szervezõ, Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">4032 Debrecen, Bencsik Sándor utca 5.</mezo>
+<mezo id = "nev">Kelet-Ã‰pszer Ã‰pÃ­tÅ‘ipari, SzervezÅ‘, Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">4032 Debrecen, Bencsik SÃ¡ndor utca 5.</mezo>
 <mezo id = "adosz">14506468209</mezo>
 </alrovat>
 </rovat>

@@ -7,7 +7,7 @@
 <mezo id = "nevalrovat">3</mezo>
 <mezo id = "uj_szh">0109913996</mezo>
 <mezo id = "allapot">6</mezo>
-<mezo id = "cim">2517 Kesztölc, Lencsehegy </mezo>
+<mezo id = "cim">2517 KesztÃ¶lc, Lencsehegy </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">11186281211</mezo>
 </alrovat>
@@ -15,7 +15,7 @@
 <rovat id = "2">
 <alrovat id = "3">
 <mezo id = "hattol">20021016</mezo>
-<mezo id = "nev">Lencsehegyi Szénbánya Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Lencsehegyi SzÃ©nbÃ¡nya KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -28,7 +28,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">19930701</mezo>
 <mezo id = "irsz">2517</mezo>
-<mezo id = "hely">Kesztölc</mezo>
+<mezo id = "hely">KesztÃ¶lc</mezo>
 <mezo id = "teru">Lencsehegy</mezo>
 </alrovat>
 </rovat>
@@ -507,10 +507,10 @@
 <rovat id = "13">
 <alrovat id = "8">
 <mezo id = "hattol">20061102</mezo>
-<mezo id = "pnev">Vincze András</mezo>
-<mezo id = "panev">Jarmál Zsanetta</mezo>
+<mezo id = "pnev">Vincze AndrÃ¡s</mezo>
+<mezo id = "panev">JarmÃ¡l Zsanetta</mezo>
 <mezo id = "pirsz">1038</mezo>
-<mezo id = "phely">Budapest, Temes utca 11. F1. ép .</mezo>
+<mezo id = "phely">Budapest, Temes utca 11. F1. Ã©p .</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">d</mezo>
 <mezo id = "jogvk">20061013</mezo>
@@ -519,8 +519,8 @@
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">20071001</mezo>
-<mezo id = "pnev">Fehér Ernõ</mezo>
-<mezo id = "panev">Horváth Erzsébet</mezo>
+<mezo id = "pnev">FehÃ©r ErnÅ‘</mezo>
+<mezo id = "panev">HorvÃ¡th ErzsÃ©bet</mezo>
 <mezo id = "pirsz">2510</mezo>
 <mezo id = "phely">Dorog, Attila utca 9.</mezo>
 <mezo id = "kepvo">x</mezo>
@@ -537,15 +537,15 @@
 <alrovat id = "9">
 <mezo id = "hattol">20080519</mezo>
 <mezo id = "cgjsz">109078084</mezo>
-<mezo id = "nev">AUDIT-SERVICE Könyvszakértõ, Adó- és Vezetési Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">AUDIT-SERVICE KÃ¶nyvszakÃ©rtÅ‘, AdÃ³- Ã©s VezetÃ©si TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "irsz">1022</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Bimbó utca</mezo>
+<mezo id = "teru">BimbÃ³ utca</mezo>
 <mezo id = "hsz">3.</mezo>
-<mezo id = "pnev">Dr. Serényi Iván</mezo>
+<mezo id = "pnev">Dr. SerÃ©nyi IvÃ¡n</mezo>
 <mezo id = "panev">Desser Ibolya</mezo>
 <mezo id = "pirsz">1025</mezo>
-<mezo id = "phely">Budapest, Zöldkõ utca 4/7.</mezo>
+<mezo id = "phely">Budapest, ZÃ¶ldkÅ‘ utca 4/7.</mezo>
 <mezo id = "jogvk">20080519</mezo>
 <mezo id = "jogvv">20081231</mezo>
 <mezo id = "valtk">20080519</mezo>
@@ -558,7 +558,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20070731</mezo>
 <mezo id = "cgjsz">109867204</mezo>
-<mezo id = "nev">SAYE Tanácsadó és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">SAYE TanÃ¡csadÃ³ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "atdat">0</mezo>
 </alrovat>
 </rovat>
@@ -594,37 +594,37 @@
 <alrovat id = "23">
 <mezo id = "hattol">20060330</mezo>
 <mezo id = "cgjsz">109676052</mezo>
-<mezo id = "nev">BORSOD-ABAÚJ 2000 Vagyonkezelõ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">BORSOD-ABAÃšJ 2000 VagyonkezelÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "irsz">1051</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Nádor u.</mezo>
+<mezo id = "teru">NÃ¡dor u.</mezo>
 <mezo id = "hsz">6.</mezo>
 </alrovat>
 <alrovat id = "24">
 <mezo id = "hattol">20060330</mezo>
 <mezo id = "cgjsz">110043266</mezo>
-<mezo id = "nev">Magyar Befektetési és Vagyonkezelõ Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">Magyar BefektetÃ©si Ã©s VagyonkezelÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "irsz">1051</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Nádor u.</mezo>
+<mezo id = "teru">NÃ¡dor u.</mezo>
 <mezo id = "hsz">6.</mezo>
 <mezo id = "k">x</mezo>
 </alrovat>
 <alrovat id = "25">
 <mezo id = "hattol">20060330</mezo>
 <mezo id = "cgjsz">109863643</mezo>
-<mezo id = "nev">Monday&apos;s Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Monday&apos;s Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "irsz">1051</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Nádor u.</mezo>
+<mezo id = "teru">NÃ¡dor u.</mezo>
 <mezo id = "hsz">6.</mezo>
 </alrovat>
 <alrovat id = "26">
 <mezo id = "hattol">20070731</mezo>
-<mezo id = "pnev">Vincze András</mezo>
-<mezo id = "panev">Jarmál Zsanetta</mezo>
+<mezo id = "pnev">Vincze AndrÃ¡s</mezo>
+<mezo id = "panev">JarmÃ¡l Zsanetta</mezo>
 <mezo id = "pirsz">1038</mezo>
-<mezo id = "phely">Budapest, Temes utca 11. F1. ép .</mezo>
+<mezo id = "phely">Budapest, Temes utca 11. F1. Ã©p .</mezo>
 <mezo id = "tagsk">20070731</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">0</mezo>
@@ -640,367 +640,367 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Lencsehegyi Szénbányák Korlátolt Felelõsségû Társaságban (2517 Kesztölc, Lencsehegy, Cg.: [11 09 002909]) a Magyar Követeléskezelõ Rt. (1062 Budapest, Andrássy út 105.; Cg.: [01 10 043319]) tag, jelentõs befolyással rendelkezik.<ujsor/>
-A társaság törzstõkéje 586 500 000 Ft, amely törzstõkébõl a Magyar Követeléskezelõ Rt. tag 2000. július 21-tõl 146 700 000 Ft névértékû törzsbetéttel, így 25,01%-os üzletrésszel rendelkezik.<ujsor/>
+<mezo id = "szoveg">A Lencsehegyi SzÃ©nbÃ¡nyÃ¡k KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gban (2517 KesztÃ¶lc, Lencsehegy, Cg.: [11 09 002909]) a Magyar KÃ¶vetelÃ©skezelÅ‘ Rt. (1062 Budapest, AndrÃ¡ssy Ãºt 105.; Cg.: [01 10 043319]) tag, jelentÅ‘s befolyÃ¡ssal rendelkezik.<ujsor/>
+A tÃ¡rsasÃ¡g tÃ¶rzstÅ‘kÃ©je 586 500 000 Ft, amely tÃ¶rzstÅ‘kÃ©bÅ‘l a Magyar KÃ¶vetelÃ©skezelÅ‘ Rt. tag 2000. jÃºlius 21-tÅ‘l 146 700 000 Ft nÃ©vÃ©rtÃ©kÅ± tÃ¶rzsbetÃ©ttel, Ã­gy 25,01%-os Ã¼zletrÃ©sszel rendelkezik.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1109002909</mezo>
-<mezo id = "nev">Lencsehegyi Szénbánya Korlátolt Felelõsségû Társaság (2517 Kesztölc Lencsehegy)</mezo>
+<mezo id = "nev">Lencsehegyi SzÃ©nbÃ¡nya KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (2517 KesztÃ¶lc Lencsehegy)</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Lencsehegyi Szénbánya Korlátolt Felelõsségû Társaságban (székhelye: 2517 Kesztölc, Lencsehegy; Cg.: [11 09 002909]) a Magyar Követeléskezelõ Rt. (1062 Budapest, Andrássy út 105.; Cg.: [01 10 043319]) tag, az 1997. évi CXLIV. tv. 290. §-ába foglaltak alapján, többségi irányítást biztosító befolyással rendelkezik.<ujsor/>
-A többségi irányítást biztosító befolyás megszerzésének idõpontja: 2001. február 16.<ujsor/>
-A társaság torzstõkéje 586 500 000 Ft, amely törzstõkébõl a Magyar Követeléskezelõ Rt. tag 293 300 000 Ft névértékû törzsbetéttel, így 50,01%-os üzletrésszel rendelkezik.<ujsor/>
+<mezo id = "szoveg">A Lencsehegyi SzÃ©nbÃ¡nya KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gban (szÃ©khelye: 2517 KesztÃ¶lc, Lencsehegy; Cg.: [11 09 002909]) a Magyar KÃ¶vetelÃ©skezelÅ‘ Rt. (1062 Budapest, AndrÃ¡ssy Ãºt 105.; Cg.: [01 10 043319]) tag, az 1997. Ã©vi CXLIV. tv. 290. Â§-Ã¡ba foglaltak alapjÃ¡n, tÃ¶bbsÃ©gi irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡ssal rendelkezik.<ujsor/>
+A tÃ¶bbsÃ©gi irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡s megszerzÃ©sÃ©nek idÅ‘pontja: 2001. februÃ¡r 16.<ujsor/>
+A tÃ¡rsasÃ¡g torzstÅ‘kÃ©je 586 500 000 Ft, amely tÃ¶rzstÅ‘kÃ©bÅ‘l a Magyar KÃ¶vetelÃ©skezelÅ‘ Rt. tag 293 300 000 Ft nÃ©vÃ©rtÃ©kÅ± tÃ¶rzsbetÃ©ttel, Ã­gy 50,01%-os Ã¼zletrÃ©sszel rendelkezik.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1109002909</mezo>
-<mezo id = "nev">Lencsehegyi Szénbánya Korlátolt Felelõsségû Társaság (2517 Kesztölc Lencsehegy)</mezo>
+<mezo id = "nev">Lencsehegyi SzÃ©nbÃ¡nya KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (2517 KesztÃ¶lc Lencsehegy)</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Lencsehegyi Szénbánya Kft. (2517 Kesztölc, Lencsehegy; Cg.: [11 09 002909]) közzéteszi, hogy a társaság taggyûlése 2001. december 13-i ülésén a 89/2001. (XII. 13.) sz. határozatával a Lencsehegyi Szénbánya Kft. 586 500 000 Ft (ötszáznyolcvanhatmillió-ötszázezer forint) összegû törzstõkéjének 450 000 000 Ft-ra (négyszázötvenmillió forintra) történõ leszállítását határozta el. A törzstõke leszállítása nem tõkekivonása, hanem veszteségrendezés céljából történik az eredménytartalék terhére, azaz a társaság tõkéje csökken 136,5 millió forinttal, míg a társaság - jelenleg negatív - eredménytartaléka ugyanezen összeggel növekszik.<ujsor/>
-Felhívjuk a társaság hitelezõit, hogy a törzstõke leszállításához hozzá nem járuló hitelezõk követeléseiket a jelen hirdetmény utolsó közzétételétõl számított harminc napon belül jelentsék be.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">A Lencsehegyi SzÃ©nbÃ¡nya Kft. (2517 KesztÃ¶lc, Lencsehegy; Cg.: [11 09 002909]) kÃ¶zzÃ©teszi, hogy a tÃ¡rsasÃ¡g taggyÅ±lÃ©se 2001. december 13-i Ã¼lÃ©sÃ©n a 89/2001. (XII. 13.) sz. hatÃ¡rozatÃ¡val a Lencsehegyi SzÃ©nbÃ¡nya Kft. 586 500 000 Ft (Ã¶tszÃ¡znyolcvanhatmilliÃ³-Ã¶tszÃ¡zezer forint) Ã¶sszegÅ± tÃ¶rzstÅ‘kÃ©jÃ©nek 450 000 000 Ft-ra (nÃ©gyszÃ¡zÃ¶tvenmilliÃ³ forintra) tÃ¶rtÃ©nÅ‘ leszÃ¡llÃ­tÃ¡sÃ¡t hatÃ¡rozta el. A tÃ¶rzstÅ‘ke leszÃ¡llÃ­tÃ¡sa nem tÅ‘kekivonÃ¡sa, hanem vesztesÃ©grendezÃ©s cÃ©ljÃ¡bÃ³l tÃ¶rtÃ©nik az eredmÃ©nytartalÃ©k terhÃ©re, azaz a tÃ¡rsasÃ¡g tÅ‘kÃ©je csÃ¶kken 136,5 milliÃ³ forinttal, mÃ­g a tÃ¡rsasÃ¡g - jelenleg negatÃ­v - eredmÃ©nytartalÃ©ka ugyanezen Ã¶sszeggel nÃ¶vekszik.<ujsor/>
+FelhÃ­vjuk a tÃ¡rsasÃ¡g hitelezÅ‘it, hogy a tÃ¶rzstÅ‘ke leszÃ¡llÃ­tÃ¡sÃ¡hoz hozzÃ¡ nem jÃ¡rulÃ³ hitelezÅ‘k kÃ¶vetelÃ©seiket a jelen hirdetmÃ©ny utolsÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott harminc napon belÃ¼l jelentsÃ©k be.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">1109002909</mezo>
-<mezo id = "nev">Lencsehegyi Szénbánya Korlátolt Felelõsségû Társaság (2517 Kesztölc Lencsehegy)</mezo>
+<mezo id = "nev">Lencsehegyi SzÃ©nbÃ¡nya KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (2517 KesztÃ¶lc Lencsehegy)</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Lencsehegyi Szénbánya Kft. (2517 Kesztölc, Lencsehegy; cégjegyzékszáma: [11 09 002909]) a 2001. december 13-án tartott taggyûlésén úgy határozott, hogy a társaság 586 500 000 Ft (ötszáznyolcvanhatmillió-ötszázezer forint) törzstõkéjét 450 000 000 Ft ra (négyszázötvenmillió forintra) leszállítja.<ujsor/>
-A törzstõke leszállítására veszteségrendezés céljából kerül sor.<ujsor/>
-A társaság felhívja az esetleges hitelezõit, hogy igényeiket a második közzétételtõl számított 30 napon belül a társaság székhelyén jelentsék be.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">A Lencsehegyi SzÃ©nbÃ¡nya Kft. (2517 KesztÃ¶lc, Lencsehegy; cÃ©gjegyzÃ©kszÃ¡ma: [11 09 002909]) a 2001. december 13-Ã¡n tartott taggyÅ±lÃ©sÃ©n Ãºgy hatÃ¡rozott, hogy a tÃ¡rsasÃ¡g 586 500 000 Ft (Ã¶tszÃ¡znyolcvanhatmilliÃ³-Ã¶tszÃ¡zezer forint) tÃ¶rzstÅ‘kÃ©jÃ©t 450 000 000 Ft ra (nÃ©gyszÃ¡zÃ¶tvenmilliÃ³ forintra) leszÃ¡llÃ­tja.<ujsor/>
+A tÃ¶rzstÅ‘ke leszÃ¡llÃ­tÃ¡sÃ¡ra vesztesÃ©grendezÃ©s cÃ©ljÃ¡bÃ³l kerÃ¼l sor.<ujsor/>
+A tÃ¡rsasÃ¡g felhÃ­vja az esetleges hitelezÅ‘it, hogy igÃ©nyeiket a mÃ¡sodik kÃ¶zzÃ©tÃ©teltÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l a tÃ¡rsasÃ¡g szÃ©khelyÃ©n jelentsÃ©k be.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">1109002909</mezo>
-<mezo id = "nev">Lencsehegyi Szénbánya Korlátolt Felelõsségû Társaság (2517 Kesztölc Lencsehegy)</mezo>
+<mezo id = "nev">Lencsehegyi SzÃ©nbÃ¡nya KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (2517 KesztÃ¶lc Lencsehegy)</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Lencsehegyi Szénbánya Kft. (2517 Kesztölc, Lencsehegy; Cg.: [11 09 002909]) közzéteszi, hogy a társaság taggyûlése 2001. december 13-i ülésén a 89/2001. (XII. 13.) sz. határozatával a Lencsehegyi Szénbánya Kft. 586 500 000 Ft (ötszáznyolcvanhatmillió-ötszázezer forint) összegû törzstõkéjének 450 000 000 Ft-ra (négyszázötvenmillió forintra) történõ leszállítását határozta el. A törzstõke leszállítása nem tõkekivonása, hanem veszteségrendezés céljából történik az eredménytartalék terhére, azaz a társaság tõkéje csökken 136,5 millió forinttal, míg a társaság - jelenleg negatív - eredménytartaléka ugyanezen összeggel növekszik.<ujsor/>
-Felhívjuk a társaság hitelezõit, hogy a törzstõke leszállításához hozzá nem járuló hitelezõk követeléseiket a jelen hirdetmény utolsó közzétételétõl számított harminc napon belül jelentsék be.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">A Lencsehegyi SzÃ©nbÃ¡nya Kft. (2517 KesztÃ¶lc, Lencsehegy; Cg.: [11 09 002909]) kÃ¶zzÃ©teszi, hogy a tÃ¡rsasÃ¡g taggyÅ±lÃ©se 2001. december 13-i Ã¼lÃ©sÃ©n a 89/2001. (XII. 13.) sz. hatÃ¡rozatÃ¡val a Lencsehegyi SzÃ©nbÃ¡nya Kft. 586 500 000 Ft (Ã¶tszÃ¡znyolcvanhatmilliÃ³-Ã¶tszÃ¡zezer forint) Ã¶sszegÅ± tÃ¶rzstÅ‘kÃ©jÃ©nek 450 000 000 Ft-ra (nÃ©gyszÃ¡zÃ¶tvenmilliÃ³ forintra) tÃ¶rtÃ©nÅ‘ leszÃ¡llÃ­tÃ¡sÃ¡t hatÃ¡rozta el. A tÃ¶rzstÅ‘ke leszÃ¡llÃ­tÃ¡sa nem tÅ‘kekivonÃ¡sa, hanem vesztesÃ©grendezÃ©s cÃ©ljÃ¡bÃ³l tÃ¶rtÃ©nik az eredmÃ©nytartalÃ©k terhÃ©re, azaz a tÃ¡rsasÃ¡g tÅ‘kÃ©je csÃ¶kken 136,5 milliÃ³ forinttal, mÃ­g a tÃ¡rsasÃ¡g - jelenleg negatÃ­v - eredmÃ©nytartalÃ©ka ugyanezen Ã¶sszeggel nÃ¶vekszik.<ujsor/>
+FelhÃ­vjuk a tÃ¡rsasÃ¡g hitelezÅ‘it, hogy a tÃ¶rzstÅ‘ke leszÃ¡llÃ­tÃ¡sÃ¡hoz hozzÃ¡ nem jÃ¡rulÃ³ hitelezÅ‘k kÃ¶vetelÃ©seiket a jelen hirdetmÃ©ny utolsÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott harminc napon belÃ¼l jelentsÃ©k be.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">1109002909</mezo>
-<mezo id = "nev">Lencsehegyi Szénbánya Korlátolt Felelõsségû Társaság (2517 Kesztölc Lencsehegy)</mezo>
+<mezo id = "nev">Lencsehegyi SzÃ©nbÃ¡nya KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (2517 KesztÃ¶lc Lencsehegy)</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Lencsehegyi Szénbánya Kft. (2517 Kesztölc, Lencsehegy; cégjegyzékszáma: [11 09 002909]) a 2001. december 13-án tartott taggyûlésén úgy határozott, hogy a társaság 586 500 000 Ft (ötszáznyolcvanhatmillió-ötszázezer forint) törzstõkéjét 450 000 000 Ft ra (négyszázötvenmillió forintra) leszállítja.<ujsor/>
-A törzstõke leszállítására veszteségrendezés céljából kerül sor.<ujsor/>
-A társaság felhívja az esetleges hitelezõit, hogy igényeiket a második közzétételtõl számított 30 napon belül a társaság székhelyén jelentsék be.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">A Lencsehegyi SzÃ©nbÃ¡nya Kft. (2517 KesztÃ¶lc, Lencsehegy; cÃ©gjegyzÃ©kszÃ¡ma: [11 09 002909]) a 2001. december 13-Ã¡n tartott taggyÅ±lÃ©sÃ©n Ãºgy hatÃ¡rozott, hogy a tÃ¡rsasÃ¡g 586 500 000 Ft (Ã¶tszÃ¡znyolcvanhatmilliÃ³-Ã¶tszÃ¡zezer forint) tÃ¶rzstÅ‘kÃ©jÃ©t 450 000 000 Ft ra (nÃ©gyszÃ¡zÃ¶tvenmilliÃ³ forintra) leszÃ¡llÃ­tja.<ujsor/>
+A tÃ¶rzstÅ‘ke leszÃ¡llÃ­tÃ¡sÃ¡ra vesztesÃ©grendezÃ©s cÃ©ljÃ¡bÃ³l kerÃ¼l sor.<ujsor/>
+A tÃ¡rsasÃ¡g felhÃ­vja az esetleges hitelezÅ‘it, hogy igÃ©nyeiket a mÃ¡sodik kÃ¶zzÃ©tÃ©teltÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l a tÃ¡rsasÃ¡g szÃ©khelyÃ©n jelentsÃ©k be.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">1109002909</mezo>
-<mezo id = "nev">Lencsehegyi Szénbánya Korlátolt Felelõsségû Társaság (2517 Kesztölc Lencsehegy)</mezo>
+<mezo id = "nev">Lencsehegyi SzÃ©nbÃ¡nya KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (2517 KesztÃ¶lc Lencsehegy)</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a Cégközlönyben közzéteszi a fenti gazdálkodó szervezet végelszámolási eljárásának megindítását.<ujsor/>
-A végelszámolást elrendelõ szerv neve: taggyûlés.<ujsor/>
-A megszûnés elhatározásának idõpontja: 2002. 05. 24.<ujsor/>
-A végelszámolás kezdõ idõpontja: 2002. 06. 30.<ujsor/>
-Törölni rendelt cégjegyzésre jogosult(ak):<ujsor/>
- Fehér Ernõ ügyvezetõ (an: Horváth Erzsébet)<ujsor/>
-2510 Dorog, Attila út 9.<ujsor/>
- Törölve: 2002. 06. 30-i hatállyal.<ujsor/>
-Végelszámoló(k) és cégjegyzésre jogosult(ak):<ujsor/>
- Dr. Török Attila (an: Dr. Zsinkó Margit) végelszámoló<ujsor/>
-1016 Budapest, Róka út 3/A.<ujsor/>
- Hatályos: 2002. 06. 30-tól.<ujsor/>
-A bíróság felhívja a végelszámolás alatt<ujsor/>
-álló cég hitelezõit, hogy ismert<ujsor/>
-követeléseiket a végelszámolás<ujsor/>
-megindítását tartalmazó végzés<ujsor/>
-közzétételétõl számított 40 napon belül<ujsor/>
-a végelszámolónak jelentsék be.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a CÃ©gkÃ¶zlÃ¶nyben kÃ¶zzÃ©teszi a fenti gazdÃ¡lkodÃ³ szervezet vÃ©gelszÃ¡molÃ¡si eljÃ¡rÃ¡sÃ¡nak megindÃ­tÃ¡sÃ¡t.<ujsor/>
+A vÃ©gelszÃ¡molÃ¡st elrendelÅ‘ szerv neve: taggyÅ±lÃ©s.<ujsor/>
+A megszÅ±nÃ©s elhatÃ¡rozÃ¡sÃ¡nak idÅ‘pontja: 2002. 05. 24.<ujsor/>
+A vÃ©gelszÃ¡molÃ¡s kezdÅ‘ idÅ‘pontja: 2002. 06. 30.<ujsor/>
+TÃ¶rÃ¶lni rendelt cÃ©gjegyzÃ©sre jogosult(ak):<ujsor/>
+ FehÃ©r ErnÅ‘ Ã¼gyvezetÅ‘ (an: HorvÃ¡th ErzsÃ©bet)<ujsor/>
+2510 Dorog, Attila Ãºt 9.<ujsor/>
+ TÃ¶rÃ¶lve: 2002. 06. 30-i hatÃ¡llyal.<ujsor/>
+VÃ©gelszÃ¡molÃ³(k) Ã©s cÃ©gjegyzÃ©sre jogosult(ak):<ujsor/>
+ Dr. TÃ¶rÃ¶k Attila (an: Dr. ZsinkÃ³ Margit) vÃ©gelszÃ¡molÃ³<ujsor/>
+1016 Budapest, RÃ³ka Ãºt 3/A.<ujsor/>
+ HatÃ¡lyos: 2002. 06. 30-tÃ³l.<ujsor/>
+A bÃ­rÃ³sÃ¡g felhÃ­vja a vÃ©gelszÃ¡molÃ¡s alatt<ujsor/>
+Ã¡llÃ³ cÃ©g hitelezÅ‘it, hogy ismert<ujsor/>
+kÃ¶vetelÃ©seiket a vÃ©gelszÃ¡molÃ¡s<ujsor/>
+megindÃ­tÃ¡sÃ¡t tartalmazÃ³ vÃ©gzÃ©s<ujsor/>
+kÃ¶zzÃ©tÃ©telÃ©tÅ‘l szÃ¡mÃ­tott 40 napon belÃ¼l<ujsor/>
+a vÃ©gelszÃ¡molÃ³nak jelentsÃ©k be.<ujsor/>
 Bejegyezve: 2002. 07. 17.<ujsor/>
-A közzététel idõpontja: 2002. 08. 08.<ujsor/>
+A kÃ¶zzÃ©tÃ©tel idÅ‘pontja: 2002. 08. 08.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1109002909</mezo>
-<mezo id = "nev">Lencsehegyi Szénbánya Korlátolt Felelõsségû Társaság &quot;végelszámolás alatt&quot;</mezo>
-<mezo id = "cim">2517 Kesztölc, Lencsehegy.</mezo>
+<mezo id = "nev">Lencsehegyi SzÃ©nbÃ¡nya KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g &quot;vÃ©gelszÃ¡molÃ¡s alatt&quot;</mezo>
+<mezo id = "cim">2517 KesztÃ¶lc, Lencsehegy.</mezo>
 <mezo id = "adosz">11186281211</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Komárom Esztergom Megyei Bíróság mint Cégbíróság által a Cg. [11 09 002909] cégjegyzékszám alatt nyilvántartásba vett Lencsehegyi Szénbányák Kft. &quot;v. a.&quot; (székhely: 2517 Kesztölc) végelszámolója a Gt. 169. § (1) bekezdése alapján az alábbi hirdetményt teszi közzé:<ujsor/>
-A végelszámoló: dr. Török Attila (1013 Budapest, Róka u. 3/A).<ujsor/>
-A végelszámolás elhatározásának napja: 2002. május 24.<ujsor/>
-A végelszámolás kezdõ idõpontja: 2002. június 30.<ujsor/>
-A végelszámolásról szóló bírósági végzés közzététele: 2002. augusztus 8.<ujsor/>
-Felhívjuk a hitelezõk figyelmét, hogy követeléseiket a közzétételt követõ 40 napon belül jelentsék be a végelszámolónál.<ujsor/>
+<mezo id = "szoveg">A KomÃ¡rom Esztergom Megyei BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g Ã¡ltal a Cg. [11 09 002909] cÃ©gjegyzÃ©kszÃ¡m alatt nyilvÃ¡ntartÃ¡sba vett Lencsehegyi SzÃ©nbÃ¡nyÃ¡k Kft. &quot;v. a.&quot; (szÃ©khely: 2517 KesztÃ¶lc) vÃ©gelszÃ¡molÃ³ja a Gt. 169. Â§ (1) bekezdÃ©se alapjÃ¡n az alÃ¡bbi hirdetmÃ©nyt teszi kÃ¶zzÃ©:<ujsor/>
+A vÃ©gelszÃ¡molÃ³: dr. TÃ¶rÃ¶k Attila (1013 Budapest, RÃ³ka u. 3/A).<ujsor/>
+A vÃ©gelszÃ¡molÃ¡s elhatÃ¡rozÃ¡sÃ¡nak napja: 2002. mÃ¡jus 24.<ujsor/>
+A vÃ©gelszÃ¡molÃ¡s kezdÅ‘ idÅ‘pontja: 2002. jÃºnius 30.<ujsor/>
+A vÃ©gelszÃ¡molÃ¡srÃ³l szÃ³lÃ³ bÃ­rÃ³sÃ¡gi vÃ©gzÃ©s kÃ¶zzÃ©tÃ©tele: 2002. augusztus 8.<ujsor/>
+FelhÃ­vjuk a hitelezÅ‘k figyelmÃ©t, hogy kÃ¶vetelÃ©seiket a kÃ¶zzÃ©tÃ©telt kÃ¶vetÅ‘ 40 napon belÃ¼l jelentsÃ©k be a vÃ©gelszÃ¡molÃ³nÃ¡l.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1109002909</mezo>
-<mezo id = "nev">Lencsehegyi Szénbánya Korlátolt Felelõsségû Társaság (2517 Kesztölc Lencsehegy)</mezo>
+<mezo id = "nev">Lencsehegyi SzÃ©nbÃ¡nya KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (2517 KesztÃ¶lc Lencsehegy)</mezo>
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Magyar Követeléskezelõ Részvénytársaság (1062 Budapest, Andrássy út 105.; Cg.: [01 10 043319]) közzéteszi, hogy 2002. szeptember 17-én Cg. [11 09 002909] cégjegyzékszám alatt nyilvántartásba vett Lencsehegyi Szénbánya Korlátolt Felelõsségû Társaságban &quot;v. a.&quot; (2517 Kesztölc, Lencsehegy) az üzletrészek 47,6%-át szerezte meg és ezzel 99,9%-kal, közvetlen irányítást biztosító befolyással rendelkezik.<ujsor/>
-A hitelezõk a Gt. 296. § (2) bekezdése szerinti jogaikat gyakorolhatják.<ujsor/>
+<mezo id = "szoveg">A Magyar KÃ¶vetelÃ©skezelÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (1062 Budapest, AndrÃ¡ssy Ãºt 105.; Cg.: [01 10 043319]) kÃ¶zzÃ©teszi, hogy 2002. szeptember 17-Ã©n Cg. [11 09 002909] cÃ©gjegyzÃ©kszÃ¡m alatt nyilvÃ¡ntartÃ¡sba vett Lencsehegyi SzÃ©nbÃ¡nya KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gban &quot;v. a.&quot; (2517 KesztÃ¶lc, Lencsehegy) az Ã¼zletrÃ©szek 47,6%-Ã¡t szerezte meg Ã©s ezzel 99,9%-kal, kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡ssal rendelkezik.<ujsor/>
+A hitelezÅ‘k a Gt. 296. Â§ (2) bekezdÃ©se szerinti jogaikat gyakorolhatjÃ¡k.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1109002909</mezo>
-<mezo id = "nev">Lencsehegyi Szénbánya Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Lencsehegyi SzÃ©nbÃ¡nya KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2002. 10. 16-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-A Cégközlönyben 2002. november 14-én megjelent, a végelszámolás tényének törlésére, továbbá egyéb változások bejegyzésére és törlésére vonatkozó végzését a Ctv. 20. §-a szerint alkalmazandó Pp. 224. §-a alapján a cég kérelmére kijavítja az alábbiak szerint: <ujsor/>
-A végzésben szereplõ összes rovat bejegyzésének és törlésének hatályossága helyesen: 2002. szeptember 19. napja.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2002. 10. 16-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+A CÃ©gkÃ¶zlÃ¶nyben 2002. november 14-Ã©n megjelent, a vÃ©gelszÃ¡molÃ¡s tÃ©nyÃ©nek tÃ¶rlÃ©sÃ©re, tovÃ¡bbÃ¡ egyÃ©b vÃ¡ltozÃ¡sok bejegyzÃ©sÃ©re Ã©s tÃ¶rlÃ©sÃ©re vonatkozÃ³ vÃ©gzÃ©sÃ©t a Ctv. 20. Â§-a szerint alkalmazandÃ³ Pp. 224. Â§-a alapjÃ¡n a cÃ©g kÃ©relmÃ©re kijavÃ­tja az alÃ¡bbiak szerint: <ujsor/>
+A vÃ©gzÃ©sben szereplÅ‘ Ã¶sszes rovat bejegyzÃ©sÃ©nek Ã©s tÃ¶rlÃ©sÃ©nek hatÃ¡lyossÃ¡ga helyesen: 2002. szeptember 19. napja.<ujsor/>
 Bejegyezve: 2002. 11. 15.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1109002909</mezo>
-<mezo id = "nev">Lencsehegyi Szénbánya Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">2517 Kesztölc Lencsehegy.</mezo>
+<mezo id = "nev">Lencsehegyi SzÃ©nbÃ¡nya KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2517 KesztÃ¶lc Lencsehegy.</mezo>
 <mezo id = "adosz">11186281211</mezo>
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Magyar Befektetési és Vagyonkezelõ Részvénytársaság (1023 Budapest, Lajos u. 26.; Cg.: [01 10 043266]) - a Gazdasági társaságokról szóló 1997. évi CXLIV. tv. 292. § (1) bekezdésében foglalt kötelezettségének eleget téve - bejelenti, hogy a 2002. november 15-én kötött üzletrész-adásvételi szerzõdéssel, 2002. november 19-i hatállyal megszerezte a Lencsehegyi Szénbánya Korlátolt Felelõsségû Társaság (Cg.: [11 09 002909]; 2517 Kesztölc, Lencsehegy) 586 400 000 Ft névértékû üzletrészét, és ezzel a szavazatok 99,98%-át, így a társaságban közvetlen irányítást biztosító befolyással rendelkezik.<ujsor/>
-A hitelezõk a Gt. 296. § (2) bekezdése szerinti jogaikat gyakorolhatják.<ujsor/>
+<mezo id = "szoveg">A Magyar BefektetÃ©si Ã©s VagyonkezelÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (1023 Budapest, Lajos u. 26.; Cg.: [01 10 043266]) - a GazdasÃ¡gi tÃ¡rsasÃ¡gokrÃ³l szÃ³lÃ³ 1997. Ã©vi CXLIV. tv. 292. Â§ (1) bekezdÃ©sÃ©ben foglalt kÃ¶telezettsÃ©gÃ©nek eleget tÃ©ve - bejelenti, hogy a 2002. november 15-Ã©n kÃ¶tÃ¶tt Ã¼zletrÃ©sz-adÃ¡svÃ©teli szerzÅ‘dÃ©ssel, 2002. november 19-i hatÃ¡llyal megszerezte a Lencsehegyi SzÃ©nbÃ¡nya KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [11 09 002909]; 2517 KesztÃ¶lc, Lencsehegy) 586 400 000 Ft nÃ©vÃ©rtÃ©kÅ± Ã¼zletrÃ©szÃ©t, Ã©s ezzel a szavazatok 99,98%-Ã¡t, Ã­gy a tÃ¡rsasÃ¡gban kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡ssal rendelkezik.<ujsor/>
+A hitelezÅ‘k a Gt. 296. Â§ (2) bekezdÃ©se szerinti jogaikat gyakorolhatjÃ¡k.<ujsor/>
 </mezo>
 <mezo id = "cjsz">1109002909</mezo>
-<mezo id = "nev">Lencsehegyi Szénbánya Korlátolt Felelõsségû Társaság &quot;végelszámolás alatt&quot;</mezo>
-<mezo id = "cim">2517 Kesztölc Lencsehegy, </mezo>
+<mezo id = "nev">Lencsehegyi SzÃ©nbÃ¡nya KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g &quot;vÃ©gelszÃ¡molÃ¡s alatt&quot;</mezo>
+<mezo id = "cim">2517 KesztÃ¶lc Lencsehegy, </mezo>
 </alrovat>
 <alrovat id = "11">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság Cégbírósága által nyilvántartásba vett SAYE Kereskedelmi és Szolgáltató Kft. (Cg.: [01 09 867204]; 1051 Budapest, Nádor u. 6.) közzéteszi, hogy a SAYE Kft. és a Lencsehegyi Szénbánya Kft. (Cg.: [11 09 002909]; 2517 Kesztölc, Lencsehegy; a továbbiakban: LESZ Kft.)<ujsor/>
-egyesül.<ujsor/>
-Az egyesülés módja: beolvadás.<ujsor/>
-A SAYE Kft. mint beolvadó társaság beolvad a LESZ Kft.-be, mint átvevõ társaságba. Az egyesüléssel a SAYE Kft. megszûnik, vagyona az átvevõ LESZ Kft.-re mint jogutód társaságra száll át, amely társasági szerzõdés módosítását követõen változatlan társasági formában mûködik tovább.<ujsor/>
-Az átvevõ társaság adatai az átalakulás után:<ujsor/>
-A társaság formája: korlátolt felelõsségû társaság.<ujsor/>
-Cégneve: Lencsehegyi Szénbánya Kft.<ujsor/>
-Székhelye: 2517 Kesztölc, Lencsehegy.<ujsor/>
-A társasági szerzõdés elfogadásának idõpontja: 2007. március 13.<ujsor/>
-Átvevõ társaság fõ tevékenységi köre (TEÁOR ’03): 1020 Barnaszén, lignit bányászata.<ujsor/>
-Az átvevõ társaság ügyvezetõi: Fehér Ernõ (a. n.: Horváth Erzsébet; 2510 Dorog, Attila u. 9.) és Vincze András (a. n.: Jarmál Zsanetta; 1038 Budapest, Temes u. 11. F1. épület).<ujsor/>
-Az átvevõ társaság alaptõkéje az egyesülés után: 589 500 E Ft.<ujsor/>
-Vagyonmérleg-tervezetek (2006. december 31.):<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g CÃ©gbÃ­rÃ³sÃ¡ga Ã¡ltal nyilvÃ¡ntartÃ¡sba vett SAYE Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ Kft. (Cg.: [01 09 867204]; 1051 Budapest, NÃ¡dor u. 6.) kÃ¶zzÃ©teszi, hogy a SAYE Kft. Ã©s a Lencsehegyi SzÃ©nbÃ¡nya Kft. (Cg.: [11 09 002909]; 2517 KesztÃ¶lc, Lencsehegy; a tovÃ¡bbiakban: LESZ Kft.)<ujsor/>
+egyesÃ¼l.<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: beolvadÃ¡s.<ujsor/>
+A SAYE Kft. mint beolvadÃ³ tÃ¡rsasÃ¡g beolvad a LESZ Kft.-be, mint Ã¡tvevÅ‘ tÃ¡rsasÃ¡gba. Az egyesÃ¼lÃ©ssel a SAYE Kft. megszÅ±nik, vagyona az Ã¡tvevÅ‘ LESZ Kft.-re mint jogutÃ³d tÃ¡rsasÃ¡gra szÃ¡ll Ã¡t, amely tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s mÃ³dosÃ­tÃ¡sÃ¡t kÃ¶vetÅ‘en vÃ¡ltozatlan tÃ¡rsasÃ¡gi formÃ¡ban mÅ±kÃ¶dik tovÃ¡bb.<ujsor/>
+Az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g adatai az Ã¡talakulÃ¡s utÃ¡n:<ujsor/>
+A tÃ¡rsasÃ¡g formÃ¡ja: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gneve: Lencsehegyi SzÃ©nbÃ¡nya Kft.<ujsor/>
+SzÃ©khelye: 2517 KesztÃ¶lc, Lencsehegy.<ujsor/>
+A tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s elfogadÃ¡sÃ¡nak idÅ‘pontja: 2007. mÃ¡rcius 13.<ujsor/>
+ÃtvevÅ‘ tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©gi kÃ¶re (TEÃOR â€™03): 1020 BarnaszÃ©n, lignit bÃ¡nyÃ¡szata.<ujsor/>
+Az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g Ã¼gyvezetÅ‘i: FehÃ©r ErnÅ‘ (a. n.: HorvÃ¡th ErzsÃ©bet; 2510 Dorog, Attila u. 9.) Ã©s Vincze AndrÃ¡s (a. n.: JarmÃ¡l Zsanetta; 1038 Budapest, Temes u. 11. F1. Ã©pÃ¼let).<ujsor/>
+Az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g alaptÅ‘kÃ©je az egyesÃ¼lÃ©s utÃ¡n: 589 500 E Ft.<ujsor/>
+VagyonmÃ©rleg-tervezetek (2006. december 31.):<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK<ujsor/>
-SAYE Kft. (beolvadó) LESZ Kft. (átvevõ) LESZ Kft. (átalakulás után)<ujsor/>
-Könyv szerinti Átrendezés Vagyonmérleg Könyv szerinti Átrendezés Vagyonmérleg Könyv szerinti Különbözetek Vagyonmérleg<ujsor/>
-A) Befektetett eszközök 1 225 149 1 225 149 1 318 801 1 318 801 2 543 950 2 543 950<ujsor/>
-I. Immateriális javak<ujsor/>
-II. Tárgyi eszközök 40 166 40 166 40 166 40 166<ujsor/>
-III. Bef. pénzügyi eszközök 1 225 149 1 225 149 1 278 635 1 278 635 2 503 784 ­1 137 944 1 365 840*<ujsor/>
-B) Forgóeszközök 6 121 6 121 111 438 111 438 117 559 ­69 215 48 344<ujsor/>
-I. Készletek<ujsor/>
-II. Követelések 4 099 4 099 103 726 103 726 107 825 ­69 215 38 610<ujsor/>
-III. Értékpapírok<ujsor/>
-IV. Pénzeszközök 2 022 2 022 7 712 7 712 9 734 9 734<ujsor/>
-C) Aktív idõbeli elhatárolások 138 226 138 226 138 226 ­70 000 68 226<ujsor/>
-ÖSSZESEN: 1 231 270 1 231 270 1 568 465 1 568 465 2 799 735 ­1 277 159 1 522 576<ujsor/>
+ESZKÃ–ZÃ–K<ujsor/>
+SAYE Kft. (beolvadÃ³) LESZ Kft. (Ã¡tvevÅ‘) LESZ Kft. (Ã¡talakulÃ¡s utÃ¡n)<ujsor/>
+KÃ¶nyv szerinti ÃtrendezÃ©s VagyonmÃ©rleg KÃ¶nyv szerinti ÃtrendezÃ©s VagyonmÃ©rleg KÃ¶nyv szerinti KÃ¼lÃ¶nbÃ¶zetek VagyonmÃ©rleg<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 1 225 149 1 225 149 1 318 801 1 318 801 2 543 950 2 543 950<ujsor/>
+I. ImmateriÃ¡lis javak<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 40 166 40 166 40 166 40 166<ujsor/>
+III. Bef. pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 1 225 149 1 225 149 1 278 635 1 278 635 2 503 784 Â­1 137 944 1 365 840*<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 6 121 6 121 111 438 111 438 117 559 Â­69 215 48 344<ujsor/>
+I. KÃ©szletek<ujsor/>
+II. KÃ¶vetelÃ©sek 4 099 4 099 103 726 103 726 107 825 Â­69 215 38 610<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 2 022 2 022 7 712 7 712 9 734 9 734<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 138 226 138 226 138 226 Â­70 000 68 226<ujsor/>
+Ã–SSZESEN: 1 231 270 1 231 270 1 568 465 1 568 465 2 799 735 Â­1 277 159 1 522 576<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK<ujsor/>
-SAYE Kft. (beolvadó) LESZ Kft. (átvevõ) LESZ Kft. (átalakulás után)<ujsor/>
-Könyv szerinti Átrendezés Vagyonmérleg Könyv szerinti Átrendezés Vagyonmérleg Könyv szerinti Különbözetek Vagyonmérleg<ujsor/>
-D) Saját tõke ­207 849 ­207 849 1 379 473 1 379 473 1 171 624 1 171 624<ujsor/>
-I. Jegyzett tõke 3 000 3 000 586 500 586 500 589 500 589 500<ujsor/>
-II. Lekötött tartalék 224 070 224 070 224 070 224 070<ujsor/>
-III. Tõketartalék<ujsor/>
-IV. Eredménytartalék ­106 899 ­103 950 ­210 849 470 917 +97 986 568 903 358 054 358 054<ujsor/>
-V. Értékesítési tartalék<ujsor/>
-VI. Mérleg szerinti eredmény ­103 950 +103 950 97 986 ­97 986 97 986<ujsor/>
-E) Céltartalék 173 437 173 437 173 437 173 437<ujsor/>
-F) Kötelezettségek 1 362 063 1 362 063 15 555 15 555 1 377 618 ­1 207 159 170 459<ujsor/>
-I. Hosszú lejáratú kötelezettségek<ujsor/>
-II. Rövid lejáratú kötelezettségek 1 362 063 1 362 063 15 555 15 555 1 377 618 ­1 207 159 170 459<ujsor/>
-G) Passzív idõbeli elhatárolások 77 056 77 056 77 056 ­70 000 7 056<ujsor/>
-ÖSSZESEN: 1 231 270 1 231 270 1 568 465 1 568 465 2 799 735 ­1 277 159 1 522 576<ujsor/>
-* A jegyzett tõke fedezetét képzõ vagyontárgyak.<ujsor/>
-Felhívjuk a társaság hitelezõit, hogy a jogszabályban megadott határidõn belül jogosultak a Gazdasági társaságokról szóló, 2006. évi IV. tv. 76. § (2) bekezdésében foglaltak szerint igényeik bejelentésére.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+FORRÃSOK<ujsor/>
+SAYE Kft. (beolvadÃ³) LESZ Kft. (Ã¡tvevÅ‘) LESZ Kft. (Ã¡talakulÃ¡s utÃ¡n)<ujsor/>
+KÃ¶nyv szerinti ÃtrendezÃ©s VagyonmÃ©rleg KÃ¶nyv szerinti ÃtrendezÃ©s VagyonmÃ©rleg KÃ¶nyv szerinti KÃ¼lÃ¶nbÃ¶zetek VagyonmÃ©rleg<ujsor/>
+D) SajÃ¡t tÅ‘ke Â­207 849 Â­207 849 1 379 473 1 379 473 1 171 624 1 171 624<ujsor/>
+I. Jegyzett tÅ‘ke 3 000 3 000 586 500 586 500 589 500 589 500<ujsor/>
+II. LekÃ¶tÃ¶tt tartalÃ©k 224 070 224 070 224 070 224 070<ujsor/>
+III. TÅ‘ketartalÃ©k<ujsor/>
+IV. EredmÃ©nytartalÃ©k Â­106 899 Â­103 950 Â­210 849 470 917 +97 986 568 903 358 054 358 054<ujsor/>
+V. Ã‰rtÃ©kesÃ­tÃ©si tartalÃ©k<ujsor/>
+VI. MÃ©rleg szerinti eredmÃ©ny Â­103 950 +103 950 97 986 Â­97 986 97 986<ujsor/>
+E) CÃ©ltartalÃ©k 173 437 173 437 173 437 173 437<ujsor/>
+F) KÃ¶telezettsÃ©gek 1 362 063 1 362 063 15 555 15 555 1 377 618 Â­1 207 159 170 459<ujsor/>
+I. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek<ujsor/>
+II. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 1 362 063 1 362 063 15 555 15 555 1 377 618 Â­1 207 159 170 459<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 77 056 77 056 77 056 Â­70 000 7 056<ujsor/>
+Ã–SSZESEN: 1 231 270 1 231 270 1 568 465 1 568 465 2 799 735 Â­1 277 159 1 522 576<ujsor/>
+* A jegyzett tÅ‘ke fedezetÃ©t kÃ©pzÅ‘ vagyontÃ¡rgyak.<ujsor/>
+FelhÃ­vjuk a tÃ¡rsasÃ¡g hitelezÅ‘it, hogy a jogszabÃ¡lyban megadott hatÃ¡ridÅ‘n belÃ¼l jogosultak a GazdasÃ¡gi tÃ¡rsasÃ¡gokrÃ³l szÃ³lÃ³, 2006. Ã©vi IV. tv. 76. Â§ (2) bekezdÃ©sÃ©ben foglaltak szerint igÃ©nyeik bejelentÃ©sÃ©re.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">1109002909</mezo>
-<mezo id = "nev">Lencsehegyi Szénbánya Korlátolt Felelõsségû Társaság &quot;végelszámolás alatt&quot;</mezo>
-<mezo id = "cim">2517 Kesztölc</mezo>
+<mezo id = "nev">Lencsehegyi SzÃ©nbÃ¡nya KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g &quot;vÃ©gelszÃ¡molÃ¡s alatt&quot;</mezo>
+<mezo id = "cim">2517 KesztÃ¶lc</mezo>
 </alrovat>
 <alrovat id = "12">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság Cégbírósága által nyilvántartásba vett SAYE Kereskedelmi és Szolgáltató Kft. (Cg.: [01 09 867204]; 1051 Budapest, Nádor u. 6.) közzéteszi, hogy a SAYE Kft. és a Lencsehegyi Szénbánya Kft. (Cg.: [11 09 002909]; 2517 Kesztölc, Lencsehegy; a továbbiakban: LESZ Kft.)<ujsor/>
-egyesül.<ujsor/>
-Az egyesülés módja: beolvadás.<ujsor/>
-A SAYE Kft. mint beolvadó társaság beolvad a LESZ Kft.-be, mint átvevõ társaságba. Az egyesüléssel a SAYE Kft. megszûnik, vagyona az átvevõ LESZ Kft.-re mint jogutód társaságra száll át, amely társasági szerzõdés módosítását követõen változatlan társasági formában mûködik tovább.<ujsor/>
-Az átvevõ társaság adatai az átalakulás után: <ujsor/>
-A társaság formája: korlátolt felelõsségû társaság.<ujsor/>
-Cégneve: Lencsehegyi Szénbánya Kft.<ujsor/>
-Székhelye: 2517 Kesztölc, Lencsehegy.<ujsor/>
-A társasági szerzõdés elfogadásának idõpontja: 2007. március 13.<ujsor/>
-Átvevõ társaság fõ tevékenységi köre (TEÁOR ’03): 1020 Barnaszén, lignit bányászata.<ujsor/>
-Az átvevõ társaság ügyvezetõi: Fehér Ernõ (a. n.: Horváth Erzsébet; 2510 Dorog, Attila u. 9.) és Vincze András (a. n.: Jarmál Zsanetta; 1038 Budapest, Temes u. 11. F1. épület).<ujsor/>
-Az átvevõ társaság alaptõkéje az egyesülés után: 589 500 E Ft.<ujsor/>
-Vagyonmérleg-tervezetek (2006. december 31.):<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g CÃ©gbÃ­rÃ³sÃ¡ga Ã¡ltal nyilvÃ¡ntartÃ¡sba vett SAYE Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ Kft. (Cg.: [01 09 867204]; 1051 Budapest, NÃ¡dor u. 6.) kÃ¶zzÃ©teszi, hogy a SAYE Kft. Ã©s a Lencsehegyi SzÃ©nbÃ¡nya Kft. (Cg.: [11 09 002909]; 2517 KesztÃ¶lc, Lencsehegy; a tovÃ¡bbiakban: LESZ Kft.)<ujsor/>
+egyesÃ¼l.<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: beolvadÃ¡s.<ujsor/>
+A SAYE Kft. mint beolvadÃ³ tÃ¡rsasÃ¡g beolvad a LESZ Kft.-be, mint Ã¡tvevÅ‘ tÃ¡rsasÃ¡gba. Az egyesÃ¼lÃ©ssel a SAYE Kft. megszÅ±nik, vagyona az Ã¡tvevÅ‘ LESZ Kft.-re mint jogutÃ³d tÃ¡rsasÃ¡gra szÃ¡ll Ã¡t, amely tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s mÃ³dosÃ­tÃ¡sÃ¡t kÃ¶vetÅ‘en vÃ¡ltozatlan tÃ¡rsasÃ¡gi formÃ¡ban mÅ±kÃ¶dik tovÃ¡bb.<ujsor/>
+Az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g adatai az Ã¡talakulÃ¡s utÃ¡n: <ujsor/>
+A tÃ¡rsasÃ¡g formÃ¡ja: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gneve: Lencsehegyi SzÃ©nbÃ¡nya Kft.<ujsor/>
+SzÃ©khelye: 2517 KesztÃ¶lc, Lencsehegy.<ujsor/>
+A tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s elfogadÃ¡sÃ¡nak idÅ‘pontja: 2007. mÃ¡rcius 13.<ujsor/>
+ÃtvevÅ‘ tÃ¡rsasÃ¡g fÅ‘ tevÃ©kenysÃ©gi kÃ¶re (TEÃOR â€™03): 1020 BarnaszÃ©n, lignit bÃ¡nyÃ¡szata.<ujsor/>
+Az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g Ã¼gyvezetÅ‘i: FehÃ©r ErnÅ‘ (a. n.: HorvÃ¡th ErzsÃ©bet; 2510 Dorog, Attila u. 9.) Ã©s Vincze AndrÃ¡s (a. n.: JarmÃ¡l Zsanetta; 1038 Budapest, Temes u. 11. F1. Ã©pÃ¼let).<ujsor/>
+Az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g alaptÅ‘kÃ©je az egyesÃ¼lÃ©s utÃ¡n: 589 500 E Ft.<ujsor/>
+VagyonmÃ©rleg-tervezetek (2006. december 31.):<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK<ujsor/>
-SAYE Kft. (beolvadó) LESZ Kft. (átvevõ) LESZ Kft. (átalakulás után)<ujsor/>
-Könyv szerinti Átrendezés Vagyonmérleg Könyv szerinti Átrendezés Vagyonmérleg Könyv szerinti Különbözetek Vagyonmérleg<ujsor/>
-A) Befektetett eszközök 1 225 149 1 225 149 1 318 801 1 318 801 2 543 950 2 543 950<ujsor/>
-I. Immateriális javak<ujsor/>
-II. Tárgyi eszközök 40 166 40 166 40 166 40 166<ujsor/>
-III. Bef. pénzügyi eszközök 1 225 149 1 225 149 1 278 635 1 278 635 2 503 784 ­1 137 944 1 365 840*<ujsor/>
-B) Forgóeszközök 6 121 6 121 111 438 111 438 117 559 ­69 215 48 344<ujsor/>
-I. Készletek<ujsor/>
-II. Követelések 4 099 4 099 103 726 103 726 107 825 ­69 215 38 610<ujsor/>
-III. Értékpapírok<ujsor/>
-IV. Pénzeszközök 2 022 2 022 7 712 7 712 9 734 9 734<ujsor/>
-C) Aktív idõbeli elhatárolások 138 226 138 226 138 226 ­70 000 68 226<ujsor/>
-ÖSSZESEN: 1 231 270 1 231 270 1 568 465 1 568 465 2 799 735 ­1 277 159 1 522 576<ujsor/>
+ESZKÃ–ZÃ–K<ujsor/>
+SAYE Kft. (beolvadÃ³) LESZ Kft. (Ã¡tvevÅ‘) LESZ Kft. (Ã¡talakulÃ¡s utÃ¡n)<ujsor/>
+KÃ¶nyv szerinti ÃtrendezÃ©s VagyonmÃ©rleg KÃ¶nyv szerinti ÃtrendezÃ©s VagyonmÃ©rleg KÃ¶nyv szerinti KÃ¼lÃ¶nbÃ¶zetek VagyonmÃ©rleg<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 1 225 149 1 225 149 1 318 801 1 318 801 2 543 950 2 543 950<ujsor/>
+I. ImmateriÃ¡lis javak<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 40 166 40 166 40 166 40 166<ujsor/>
+III. Bef. pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 1 225 149 1 225 149 1 278 635 1 278 635 2 503 784 Â­1 137 944 1 365 840*<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 6 121 6 121 111 438 111 438 117 559 Â­69 215 48 344<ujsor/>
+I. KÃ©szletek<ujsor/>
+II. KÃ¶vetelÃ©sek 4 099 4 099 103 726 103 726 107 825 Â­69 215 38 610<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 2 022 2 022 7 712 7 712 9 734 9 734<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 138 226 138 226 138 226 Â­70 000 68 226<ujsor/>
+Ã–SSZESEN: 1 231 270 1 231 270 1 568 465 1 568 465 2 799 735 Â­1 277 159 1 522 576<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK<ujsor/>
-SAYE Kft. (beolvadó) LESZ Kft. (átvevõ) LESZ Kft. (átalakulás után)<ujsor/>
-Könyv szerinti Átrendezés Vagyonmérleg Könyv szerinti Átrendezés Vagyonmérleg Könyv szerinti Különbözetek Vagyonmérleg<ujsor/>
-D) Saját tõke ­207 849 ­207 849 1 379 473 1 379 473 1 171 624 1 171 624<ujsor/>
-I. Jegyzett tõke 3 000 3 000 586 500 586 500 589 500 589 500<ujsor/>
-II. Lekötött tartalék 224 070 224 070 224 070 224 070<ujsor/>
-III. Tõketartalék<ujsor/>
-IV. Eredménytartalék ­106 899 ­103 950 ­210 849 470 917 +97 986 568 903 358 054 358 054<ujsor/>
-V. Értékesítési tartalék<ujsor/>
-VI. Mérleg szerinti eredmény ­103 950 +103 950 97 986 ­97 986 97 986<ujsor/>
-E) Céltartalék 173 437 173 437 173 437 173 437<ujsor/>
-F) Kötelezettségek 1 362 063 1 362 063 15 555 15 555 1 377 618 ­1 207 159 170 459<ujsor/>
-I. Hosszú lejáratú kötelezettségek<ujsor/>
-II. Rövid lejáratú kötelezettségek 1 362 063 1 362 063 15 555 15 555 1 377 618 ­1 207 159 170 459<ujsor/>
-G) Passzív idõbeli elhatárolások 77 056 77 056 77 056 ­70 000 7 056<ujsor/>
-ÖSSZESEN: 1 231 270 1 231 270 1 568 465 1 568 465 2 799 735 ­1 277 159 1 522 576<ujsor/>
-* A jegyzett tõke fedezetét képzõ vagyontárgyak.<ujsor/>
-Felhívjuk a társaság hitelezõit, hogy a jogszabályban megadott határidõn belül jogosultak a Gazdasági társaságokról szóló, 2006. évi IV. tv. 76. § (2) bekezdésében foglaltak szerint igényeik bejelentésére.<ujsor/>
-(Második közzététel.)<ujsor/>
+FORRÃSOK<ujsor/>
+SAYE Kft. (beolvadÃ³) LESZ Kft. (Ã¡tvevÅ‘) LESZ Kft. (Ã¡talakulÃ¡s utÃ¡n)<ujsor/>
+KÃ¶nyv szerinti ÃtrendezÃ©s VagyonmÃ©rleg KÃ¶nyv szerinti ÃtrendezÃ©s VagyonmÃ©rleg KÃ¶nyv szerinti KÃ¼lÃ¶nbÃ¶zetek VagyonmÃ©rleg<ujsor/>
+D) SajÃ¡t tÅ‘ke Â­207 849 Â­207 849 1 379 473 1 379 473 1 171 624 1 171 624<ujsor/>
+I. Jegyzett tÅ‘ke 3 000 3 000 586 500 586 500 589 500 589 500<ujsor/>
+II. LekÃ¶tÃ¶tt tartalÃ©k 224 070 224 070 224 070 224 070<ujsor/>
+III. TÅ‘ketartalÃ©k<ujsor/>
+IV. EredmÃ©nytartalÃ©k Â­106 899 Â­103 950 Â­210 849 470 917 +97 986 568 903 358 054 358 054<ujsor/>
+V. Ã‰rtÃ©kesÃ­tÃ©si tartalÃ©k<ujsor/>
+VI. MÃ©rleg szerinti eredmÃ©ny Â­103 950 +103 950 97 986 Â­97 986 97 986<ujsor/>
+E) CÃ©ltartalÃ©k 173 437 173 437 173 437 173 437<ujsor/>
+F) KÃ¶telezettsÃ©gek 1 362 063 1 362 063 15 555 15 555 1 377 618 Â­1 207 159 170 459<ujsor/>
+I. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek<ujsor/>
+II. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 1 362 063 1 362 063 15 555 15 555 1 377 618 Â­1 207 159 170 459<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 77 056 77 056 77 056 Â­70 000 7 056<ujsor/>
+Ã–SSZESEN: 1 231 270 1 231 270 1 568 465 1 568 465 2 799 735 Â­1 277 159 1 522 576<ujsor/>
+* A jegyzett tÅ‘ke fedezetÃ©t kÃ©pzÅ‘ vagyontÃ¡rgyak.<ujsor/>
+FelhÃ­vjuk a tÃ¡rsasÃ¡g hitelezÅ‘it, hogy a jogszabÃ¡lyban megadott hatÃ¡ridÅ‘n belÃ¼l jogosultak a GazdasÃ¡gi tÃ¡rsasÃ¡gokrÃ³l szÃ³lÃ³, 2006. Ã©vi IV. tv. 76. Â§ (2) bekezdÃ©sÃ©ben foglaltak szerint igÃ©nyeik bejelentÃ©sÃ©re.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">1109002909</mezo>
-<mezo id = "nev">Lencsehegyi Szénbánya Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">2517 Kesztölc</mezo>
+<mezo id = "nev">Lencsehegyi SzÃ©nbÃ¡nya KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">2517 KesztÃ¶lc</mezo>
 </alrovat>
 <alrovat id = "13">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Magyar Befektetési és Vagyonkezelõ Zrt. (Cg.: [01 10 043266]; székhelye: 1051 Budapest, Nádor u. 6.; MBV Zrt.), a TREPORT Vagyonhasznosító Kft. (Cg.: [01 10 042051]; székhelye: 1051 Budapest, Nádor u. 6. II. 1.), a Lencsehegyi Szénbánya Kft. (Cg.: [11 09 002909]; székhelye: 2517 Kesztölc, Lencsehegy) és a BORSOD-ABAÚJ 2000 Vagyonkezelõ Kft. (Cg.: [01 09 676052]; székhelye: 1051 Budapest, Nádor u. 6.) egyesül.<ujsor/>
-Az egyesülés módja: beolvadás.<ujsor/>
-A TREPORT Vagyonhasznosító Kft., a Lencsehegyi Szénbánya Kft. és a BORSOD-ABAÚJ 2000 Vagyonkezelõ Kft. mint beolvadó társaságok beolvadnak a Magyar Befektetési és Vagyonkezelõ Zrt.-be, mint átvevõ társaságba. Az egyesüléssel a TREPORT Vagyonhasznosító Kft., a Lencsehegyi Szénbánya Kft. és a BORSOD-ABAÚJ 2000 Vagyonkezelõ Kft. megszûnik, vagyonuk az átvevõ MBV Zrt.-re mint jogutód társaságra száll át, amely az alapszabálya módosítását követõen változatlan társasági formában (zrt.) mûködik tovább.<ujsor/>
-Az átvevõ társaság adatai az átalakulás után: <ujsor/>
-A társaság formája: zártkörûen mûködõ részvénytársaság.<ujsor/>
-Cégneve: Magyar Befektetési és Vagyonkezelõ Zrt.<ujsor/>
-Székhelye: 1051 Budapest, Nádor u. 6.<ujsor/>
-Az alapszabály elfogadásának idõpontja: 2008. november 13.<ujsor/>
-Fõ tevékenységi köre (TEÁOR ’08): 6420 Vagyonkezelés (holding).<ujsor/>
-Vezérigazgatója: Vincze András (a. n.: Jarmál Zsanetta; 1038 Budapest, Temes u. 11. F1. épület).<ujsor/>
-Az átvevõ társaság alaptõkéje az egyesülés után 20 000 000 Ft.<ujsor/>
-Az átalakulás során fennmaradó részvénytársaság részvényeinek fajtája és névértéke 20 db, egyenként 1 000 000 Ft névértékû törzsrészvény.<ujsor/>
-Vagyonmérleg-tervezetek (2008. augusztus 31-i fordulónappal):<ujsor/>
+<mezo id = "szoveg">A Magyar BefektetÃ©si Ã©s VagyonkezelÅ‘ Zrt. (Cg.: [01 10 043266]; szÃ©khelye: 1051 Budapest, NÃ¡dor u. 6.; MBV Zrt.), a TREPORT VagyonhasznosÃ­tÃ³ Kft. (Cg.: [01 10 042051]; szÃ©khelye: 1051 Budapest, NÃ¡dor u. 6. II. 1.), a Lencsehegyi SzÃ©nbÃ¡nya Kft. (Cg.: [11 09 002909]; szÃ©khelye: 2517 KesztÃ¶lc, Lencsehegy) Ã©s a BORSOD-ABAÃšJ 2000 VagyonkezelÅ‘ Kft. (Cg.: [01 09 676052]; szÃ©khelye: 1051 Budapest, NÃ¡dor u. 6.) egyesÃ¼l.<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: beolvadÃ¡s.<ujsor/>
+A TREPORT VagyonhasznosÃ­tÃ³ Kft., a Lencsehegyi SzÃ©nbÃ¡nya Kft. Ã©s a BORSOD-ABAÃšJ 2000 VagyonkezelÅ‘ Kft. mint beolvadÃ³ tÃ¡rsasÃ¡gok beolvadnak a Magyar BefektetÃ©si Ã©s VagyonkezelÅ‘ Zrt.-be, mint Ã¡tvevÅ‘ tÃ¡rsasÃ¡gba. Az egyesÃ¼lÃ©ssel a TREPORT VagyonhasznosÃ­tÃ³ Kft., a Lencsehegyi SzÃ©nbÃ¡nya Kft. Ã©s a BORSOD-ABAÃšJ 2000 VagyonkezelÅ‘ Kft. megszÅ±nik, vagyonuk az Ã¡tvevÅ‘ MBV Zrt.-re mint jogutÃ³d tÃ¡rsasÃ¡gra szÃ¡ll Ã¡t, amely az alapszabÃ¡lya mÃ³dosÃ­tÃ¡sÃ¡t kÃ¶vetÅ‘en vÃ¡ltozatlan tÃ¡rsasÃ¡gi formÃ¡ban (zrt.) mÅ±kÃ¶dik tovÃ¡bb.<ujsor/>
+Az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g adatai az Ã¡talakulÃ¡s utÃ¡n: <ujsor/>
+A tÃ¡rsasÃ¡g formÃ¡ja: zÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ rÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gneve: Magyar BefektetÃ©si Ã©s VagyonkezelÅ‘ Zrt.<ujsor/>
+SzÃ©khelye: 1051 Budapest, NÃ¡dor u. 6.<ujsor/>
+Az alapszabÃ¡ly elfogadÃ¡sÃ¡nak idÅ‘pontja: 2008. november 13.<ujsor/>
+FÅ‘ tevÃ©kenysÃ©gi kÃ¶re (TEÃOR â€™08): 6420 VagyonkezelÃ©s (holding).<ujsor/>
+VezÃ©rigazgatÃ³ja: Vincze AndrÃ¡s (a. n.: JarmÃ¡l Zsanetta; 1038 Budapest, Temes u. 11. F1. Ã©pÃ¼let).<ujsor/>
+Az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g alaptÅ‘kÃ©je az egyesÃ¼lÃ©s utÃ¡n 20 000 000 Ft.<ujsor/>
+Az Ã¡talakulÃ¡s sorÃ¡n fennmaradÃ³ rÃ©szvÃ©nytÃ¡rsasÃ¡g rÃ©szvÃ©nyeinek fajtÃ¡ja Ã©s nÃ©vÃ©rtÃ©ke 20 db, egyenkÃ©nt 1 000 000 Ft nÃ©vÃ©rtÃ©kÅ± tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+VagyonmÃ©rleg-tervezetek (2008. augusztus 31-i fordulÃ³nappal):<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK<ujsor/>
-Lencsehegyi BORSOD- TREPORT Magyar Befektetési és Magyar Befektetési és<ujsor/>
-Szénbánya Kft. ABAÚJ 2000 Vagyon- Vagyonkezelõ Zrt. Vagyonkezelõ Zrt.<ujsor/>
-átalakuló (záró) Vagyonkezelõ Kft. hasznosító Kft. átalakuló átalakulással<ujsor/>
-   átalakuló (záró) átalakuló (záró) (záró) létrejövõ (nyitó)<ujsor/>
-Befektetett eszközök 645 316 40 603 20 985 675 908 226 061<ujsor/>
-Immateriális javak 61 61<ujsor/>
-Tárgyi eszközök 38 771 23 196 61 967<ujsor/>
-Befektetett pénzügyi eszközök 606 545 40 603 20 985 652 651 164 033<ujsor/>
-Forgóeszközök 267 464 34 683 70 170 216 682 344 586<ujsor/>
-Készletek 1 000 1 000<ujsor/>
-Követelések 241 152 34 574 67 980 207 679 306 972<ujsor/>
-Értékpapírok 878 878<ujsor/>
-Pénzeszközök 26 312 109 2 190 7 125 35 736<ujsor/>
-Aktív idõbeli elhatárolások 12 260 57 579 12 376<ujsor/>
-ÖSSZESEN: 925 040 75 286 91 155 950 169 583 023<ujsor/>
+ESZKÃ–ZÃ–K<ujsor/>
+Lencsehegyi BORSOD- TREPORT Magyar BefektetÃ©si Ã©s Magyar BefektetÃ©si Ã©s<ujsor/>
+SzÃ©nbÃ¡nya Kft. ABAÃšJ 2000 Vagyon- VagyonkezelÅ‘ Zrt. VagyonkezelÅ‘ Zrt.<ujsor/>
+Ã¡talakulÃ³ (zÃ¡rÃ³) VagyonkezelÅ‘ Kft. hasznosÃ­tÃ³ Kft. Ã¡talakulÃ³ Ã¡talakulÃ¡ssal<ujsor/>
+   Ã¡talakulÃ³ (zÃ¡rÃ³) Ã¡talakulÃ³ (zÃ¡rÃ³) (zÃ¡rÃ³) lÃ©trejÃ¶vÅ‘ (nyitÃ³)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 645 316 40 603 20 985 675 908 226 061<ujsor/>
+ImmateriÃ¡lis javak 61 61<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 38 771 23 196 61 967<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 606 545 40 603 20 985 652 651 164 033<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 267 464 34 683 70 170 216 682 344 586<ujsor/>
+KÃ©szletek 1 000 1 000<ujsor/>
+KÃ¶vetelÃ©sek 241 152 34 574 67 980 207 679 306 972<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 878 878<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 26 312 109 2 190 7 125 35 736<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 12 260 57 579 12 376<ujsor/>
+Ã–SSZESEN: 925 040 75 286 91 155 950 169 583 023<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK<ujsor/>
-Lencsehegyi BORSOD- TREPORT Magyar Befektetési és Magyar Befektetési és<ujsor/>
-Szénbánya Kft. ABAÚJ 2000 Vagyon- Vagyonkezelõ Zrt. Vagyonkezelõ Zrt.<ujsor/>
-átalakuló (záró) Vagyonkezelõ Kft. hasznosító Kft. átalakuló átalakulással<ujsor/>
-   átalakuló (záró) átalakuló (záró) (záró) létrejövõ (nyitó)<ujsor/>
-Saját tõke 376 332 ­89 338 64 164 717 917 245 948<ujsor/>
-Jegyzett tõke 589 500 300 000 200 000 993 000 20 000<ujsor/>
-Tõketartalék 638 583<ujsor/>
-Eredménytartalék ­437 238 ­389 338 ­135 836 ­913 936<ujsor/>
-Lekötött tartalék 224 070 225 948<ujsor/>
-Mérleg szerinti eredmény<ujsor/>
-Céltartalékok 119 013 119 013<ujsor/>
-Kötelezettségek 422 417 164 620 26 991 186 224 209 881<ujsor/>
-Hátra sorolt kötelezettségek 158 729 26 194 185 591<ujsor/>
-Hosszú lejáratú kötelezettségek 195 000 195 000<ujsor/>
-Rövid lejáratú kötelezettségek 227 417 5 891 794 633 14 881<ujsor/>
-Passzív idõbeli elhatárolások 7 278 4 46 028 8 182<ujsor/>
-ÖSSZESEN: 925 040 75 286 91 155 950 169 583 023<ujsor/>
-Felhívjuk a társaságok hitelezõit, hogy a jogszabályban megadott határidõn belül jogosultak a Gazdasági társaságokról szóló 2006. évi IV. tv. 76. § (2) bekezdésében foglaltak szerint igényeik bejelentésére.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+FORRÃSOK<ujsor/>
+Lencsehegyi BORSOD- TREPORT Magyar BefektetÃ©si Ã©s Magyar BefektetÃ©si Ã©s<ujsor/>
+SzÃ©nbÃ¡nya Kft. ABAÃšJ 2000 Vagyon- VagyonkezelÅ‘ Zrt. VagyonkezelÅ‘ Zrt.<ujsor/>
+Ã¡talakulÃ³ (zÃ¡rÃ³) VagyonkezelÅ‘ Kft. hasznosÃ­tÃ³ Kft. Ã¡talakulÃ³ Ã¡talakulÃ¡ssal<ujsor/>
+   Ã¡talakulÃ³ (zÃ¡rÃ³) Ã¡talakulÃ³ (zÃ¡rÃ³) (zÃ¡rÃ³) lÃ©trejÃ¶vÅ‘ (nyitÃ³)<ujsor/>
+SajÃ¡t tÅ‘ke 376 332 Â­89 338 64 164 717 917 245 948<ujsor/>
+Jegyzett tÅ‘ke 589 500 300 000 200 000 993 000 20 000<ujsor/>
+TÅ‘ketartalÃ©k 638 583<ujsor/>
+EredmÃ©nytartalÃ©k Â­437 238 Â­389 338 Â­135 836 Â­913 936<ujsor/>
+LekÃ¶tÃ¶tt tartalÃ©k 224 070 225 948<ujsor/>
+MÃ©rleg szerinti eredmÃ©ny<ujsor/>
+CÃ©ltartalÃ©kok 119 013 119 013<ujsor/>
+KÃ¶telezettsÃ©gek 422 417 164 620 26 991 186 224 209 881<ujsor/>
+HÃ¡tra sorolt kÃ¶telezettsÃ©gek 158 729 26 194 185 591<ujsor/>
+HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 195 000 195 000<ujsor/>
+RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 227 417 5 891 794 633 14 881<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 7 278 4 46 028 8 182<ujsor/>
+Ã–SSZESEN: 925 040 75 286 91 155 950 169 583 023<ujsor/>
+FelhÃ­vjuk a tÃ¡rsasÃ¡gok hitelezÅ‘it, hogy a jogszabÃ¡lyban megadott hatÃ¡ridÅ‘n belÃ¼l jogosultak a GazdasÃ¡gi tÃ¡rsasÃ¡gokrÃ³l szÃ³lÃ³ 2006. Ã©vi IV. tv. 76. Â§ (2) bekezdÃ©sÃ©ben foglaltak szerint igÃ©nyeik bejelentÃ©sÃ©re.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">1109002909</mezo>
-<mezo id = "nev">Lencsehegyi Szénbánya Korlátolt Felelõsségû Társaság &quot;végelszámolás alatt&quot;</mezo>
-<mezo id = "cim">2517 Kesztölc</mezo>
+<mezo id = "nev">Lencsehegyi SzÃ©nbÃ¡nya KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g &quot;vÃ©gelszÃ¡molÃ¡s alatt&quot;</mezo>
+<mezo id = "cim">2517 KesztÃ¶lc</mezo>
 </alrovat>
 <alrovat id = "14">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Magyar Befektetési és Vagyonkezelõ Zrt. (Cg.: [01 10 043266]; székhelye: 1051 Budapest, Nádor u. 6.; MBV Zrt.), a TREPORT Vagyonhasznosító Kft. (Cg.: [01 10 042051]; székhelye: 1051 Budapest, Nádor u. 6. II. 1.), a Lencsehegyi Szénbánya Kft. (Cg.: [11 09 002909]; székhelye: 2517 Kesztölc, Lencsehegy) és a BORSOD-ABAÚJ 2000 Vagyonkezelõ Kft. (Cg.: [01 09 676052]; székhelye: 1051 Budapest, Nádor u. 6.) egyesül.<ujsor/>
-Az egyesülés módja: beolvadás.<ujsor/>
-A TREPORT Vagyonhasznosító Kft., a Lencsehegyi Szénbánya Kft. és a BORSOD-ABAÚJ 2000 Vagyonkezelõ Kft. mint beolvadó társaságok beolvadnak a Magyar Befektetési és Vagyonkezelõ Zrt.-be, mint átvevõ társaságba. Az egyesüléssel a TREPORT Vagyonhasznosító Kft., a Lencsehegyi Szénbánya Kft. és a BORSOD-ABAÚJ 2000 Vagyonkezelõ Kft. megszûnik, vagyonuk az átvevõ MBV Zrt.-re mint jogutód társaságra száll át, amely az alapszabálya módosítását követõen változatlan társasági formában (zrt.) mûködik tovább.<ujsor/>
-Az átvevõ társaság adatai az átalakulás után: <ujsor/>
-A társaság formája: zártkörûen mûködõ részvénytársaság.<ujsor/>
-Cégneve: Magyar Befektetési és Vagyonkezelõ Zrt.<ujsor/>
-Székhelye: 1051 Budapest, Nádor u. 6.<ujsor/>
-Az alapszabály elfogadásának idõpontja: 2008. november 13.<ujsor/>
-Fõ tevékenységi köre (TEÁOR ’08): 6420 Vagyonkezelés (holding).<ujsor/>
-Vezérigazgatója: Vincze András (a. n.: Jarmál Zsanetta; 1038 Budapest, Temes u. 11. F1. épület).<ujsor/>
-Az átvevõ társaság alaptõkéje az egyesülés után 20 000 000 Ft.<ujsor/>
-Az átalakulás során fennmaradó részvénytársaság részvényeinek fajtája és névértéke 20 db, egyenként 1 000 000 Ft névértékû törzsrészvény.<ujsor/>
-Vagyonmérleg-tervezetek (2008. augusztus 31-i fordulónappal):<ujsor/>
+<mezo id = "szoveg">A Magyar BefektetÃ©si Ã©s VagyonkezelÅ‘ Zrt. (Cg.: [01 10 043266]; szÃ©khelye: 1051 Budapest, NÃ¡dor u. 6.; MBV Zrt.), a TREPORT VagyonhasznosÃ­tÃ³ Kft. (Cg.: [01 10 042051]; szÃ©khelye: 1051 Budapest, NÃ¡dor u. 6. II. 1.), a Lencsehegyi SzÃ©nbÃ¡nya Kft. (Cg.: [11 09 002909]; szÃ©khelye: 2517 KesztÃ¶lc, Lencsehegy) Ã©s a BORSOD-ABAÃšJ 2000 VagyonkezelÅ‘ Kft. (Cg.: [01 09 676052]; szÃ©khelye: 1051 Budapest, NÃ¡dor u. 6.) egyesÃ¼l.<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: beolvadÃ¡s.<ujsor/>
+A TREPORT VagyonhasznosÃ­tÃ³ Kft., a Lencsehegyi SzÃ©nbÃ¡nya Kft. Ã©s a BORSOD-ABAÃšJ 2000 VagyonkezelÅ‘ Kft. mint beolvadÃ³ tÃ¡rsasÃ¡gok beolvadnak a Magyar BefektetÃ©si Ã©s VagyonkezelÅ‘ Zrt.-be, mint Ã¡tvevÅ‘ tÃ¡rsasÃ¡gba. Az egyesÃ¼lÃ©ssel a TREPORT VagyonhasznosÃ­tÃ³ Kft., a Lencsehegyi SzÃ©nbÃ¡nya Kft. Ã©s a BORSOD-ABAÃšJ 2000 VagyonkezelÅ‘ Kft. megszÅ±nik, vagyonuk az Ã¡tvevÅ‘ MBV Zrt.-re mint jogutÃ³d tÃ¡rsasÃ¡gra szÃ¡ll Ã¡t, amely az alapszabÃ¡lya mÃ³dosÃ­tÃ¡sÃ¡t kÃ¶vetÅ‘en vÃ¡ltozatlan tÃ¡rsasÃ¡gi formÃ¡ban (zrt.) mÅ±kÃ¶dik tovÃ¡bb.<ujsor/>
+Az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g adatai az Ã¡talakulÃ¡s utÃ¡n: <ujsor/>
+A tÃ¡rsasÃ¡g formÃ¡ja: zÃ¡rtkÃ¶rÅ±en mÅ±kÃ¶dÅ‘ rÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gneve: Magyar BefektetÃ©si Ã©s VagyonkezelÅ‘ Zrt.<ujsor/>
+SzÃ©khelye: 1051 Budapest, NÃ¡dor u. 6.<ujsor/>
+Az alapszabÃ¡ly elfogadÃ¡sÃ¡nak idÅ‘pontja: 2008. november 13.<ujsor/>
+FÅ‘ tevÃ©kenysÃ©gi kÃ¶re (TEÃOR â€™08): 6420 VagyonkezelÃ©s (holding).<ujsor/>
+VezÃ©rigazgatÃ³ja: Vincze AndrÃ¡s (a. n.: JarmÃ¡l Zsanetta; 1038 Budapest, Temes u. 11. F1. Ã©pÃ¼let).<ujsor/>
+Az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g alaptÅ‘kÃ©je az egyesÃ¼lÃ©s utÃ¡n 20 000 000 Ft.<ujsor/>
+Az Ã¡talakulÃ¡s sorÃ¡n fennmaradÃ³ rÃ©szvÃ©nytÃ¡rsasÃ¡g rÃ©szvÃ©nyeinek fajtÃ¡ja Ã©s nÃ©vÃ©rtÃ©ke 20 db, egyenkÃ©nt 1 000 000 Ft nÃ©vÃ©rtÃ©kÅ± tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+VagyonmÃ©rleg-tervezetek (2008. augusztus 31-i fordulÃ³nappal):<ujsor/>
 Adatok E Ft-ban<ujsor/>
-ESZKÖZÖK<ujsor/>
-Lencsehegyi BORSOD- TREPORT Magyar Befektetési és Magyar Befektetési és<ujsor/>
-Szénbánya Kft. ABAÚJ 2000 Vagyon- Vagyonkezelõ Zrt. Vagyonkezelõ Zrt.<ujsor/>
-átalakuló (záró) Vagyonkezelõ Kft. hasznosító Kft. átalakuló átalakulással<ujsor/>
-   átalakuló (záró) átalakuló (záró) (záró) létrejövõ (nyitó)<ujsor/>
-Befektetett eszközök 645 316 40 603 20 985 675 908 226 061<ujsor/>
-Immateriális javak 61 61<ujsor/>
-Tárgyi eszközök 38 771 23 196 61 967<ujsor/>
-Befektetett pénzügyi eszközök 606 545 40 603 20 985 652 651 164 033<ujsor/>
-Forgóeszközök 267 464 34 683 70 170 216 682 344 586<ujsor/>
-Készletek 1 000 1 000<ujsor/>
-Követelések 241 152 34 574 67 980 207 679 306 972<ujsor/>
-Értékpapírok 878 878<ujsor/>
-Pénzeszközök 26 312 109 2 190 7 125 35 736<ujsor/>
-Aktív idõbeli elhatárolások 12 260 57 579 12 376<ujsor/>
-ÖSSZESEN: 925 040 75 286 91 155 950 169 583 023<ujsor/>
+ESZKÃ–ZÃ–K<ujsor/>
+Lencsehegyi BORSOD- TREPORT Magyar BefektetÃ©si Ã©s Magyar BefektetÃ©si Ã©s<ujsor/>
+SzÃ©nbÃ¡nya Kft. ABAÃšJ 2000 Vagyon- VagyonkezelÅ‘ Zrt. VagyonkezelÅ‘ Zrt.<ujsor/>
+Ã¡talakulÃ³ (zÃ¡rÃ³) VagyonkezelÅ‘ Kft. hasznosÃ­tÃ³ Kft. Ã¡talakulÃ³ Ã¡talakulÃ¡ssal<ujsor/>
+   Ã¡talakulÃ³ (zÃ¡rÃ³) Ã¡talakulÃ³ (zÃ¡rÃ³) (zÃ¡rÃ³) lÃ©trejÃ¶vÅ‘ (nyitÃ³)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 645 316 40 603 20 985 675 908 226 061<ujsor/>
+ImmateriÃ¡lis javak 61 61<ujsor/>
+TÃ¡rgyi eszkÃ¶zÃ¶k 38 771 23 196 61 967<ujsor/>
+Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 606 545 40 603 20 985 652 651 164 033<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 267 464 34 683 70 170 216 682 344 586<ujsor/>
+KÃ©szletek 1 000 1 000<ujsor/>
+KÃ¶vetelÃ©sek 241 152 34 574 67 980 207 679 306 972<ujsor/>
+Ã‰rtÃ©kpapÃ­rok 878 878<ujsor/>
+PÃ©nzeszkÃ¶zÃ¶k 26 312 109 2 190 7 125 35 736<ujsor/>
+AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 12 260 57 579 12 376<ujsor/>
+Ã–SSZESEN: 925 040 75 286 91 155 950 169 583 023<ujsor/>
 Adatok E Ft-ban<ujsor/>
-FORRÁSOK<ujsor/>
-Lencsehegyi BORSOD- TREPORT Magyar Befektetési és Magyar Befektetési és<ujsor/>
-Szénbánya Kft. ABAÚJ 2000 Vagyon- Vagyonkezelõ Zrt. Vagyonkezelõ Zrt.<ujsor/>
-átalakuló (záró) Vagyonkezelõ Kft. hasznosító Kft. átalakuló átalakulással<ujsor/>
-   átalakuló (záró) átalakuló (záró) (záró) létrejövõ (nyitó)<ujsor/>
-Saját tõke 376 332 ­89 338 64 164 717 917 245 948<ujsor/>
-Jegyzett tõke 589 500 300 000 200 000 993 000 20 000<ujsor/>
-Tõketartalék 638 583<ujsor/>
-Eredménytartalék ­437 238 ­389 338 ­135 836 ­913 936<ujsor/>
-Lekötött tartalék 224 070 225 948<ujsor/>
-Mérleg szerinti eredmény<ujsor/>
-Céltartalékok 119 013 119 013<ujsor/>
-Kötelezettségek 422 417 164 620 26 991 186 224 209 881<ujsor/>
-Hátra sorolt kötelezettségek 158 729 26 194 185 591<ujsor/>
-Hosszú lejáratú kötelezettségek 195 000 195 000<ujsor/>
-Rövid lejáratú kötelezettségek 227 417 5 891 794 633 14 881<ujsor/>
-Passzív idõbeli elhatárolások 7 278 4 46 028 8 182<ujsor/>
-ÖSSZESEN: 925 040 75 286 91 155 950 169 583 023<ujsor/>
-Felhívjuk a társaságok hitelezõit, hogy a jogszabályban megadott határidõn belül jogosultak a Gazdasági társaságokról szóló 2006. évi IV. tv. 76. § (2) bekezdésében foglaltak szerint igényeik bejelentésére.<ujsor/>
-(Második közzététel.)<ujsor/>
+FORRÃSOK<ujsor/>
+Lencsehegyi BORSOD- TREPORT Magyar BefektetÃ©si Ã©s Magyar BefektetÃ©si Ã©s<ujsor/>
+SzÃ©nbÃ¡nya Kft. ABAÃšJ 2000 Vagyon- VagyonkezelÅ‘ Zrt. VagyonkezelÅ‘ Zrt.<ujsor/>
+Ã¡talakulÃ³ (zÃ¡rÃ³) VagyonkezelÅ‘ Kft. hasznosÃ­tÃ³ Kft. Ã¡talakulÃ³ Ã¡talakulÃ¡ssal<ujsor/>
+   Ã¡talakulÃ³ (zÃ¡rÃ³) Ã¡talakulÃ³ (zÃ¡rÃ³) (zÃ¡rÃ³) lÃ©trejÃ¶vÅ‘ (nyitÃ³)<ujsor/>
+SajÃ¡t tÅ‘ke 376 332 Â­89 338 64 164 717 917 245 948<ujsor/>
+Jegyzett tÅ‘ke 589 500 300 000 200 000 993 000 20 000<ujsor/>
+TÅ‘ketartalÃ©k 638 583<ujsor/>
+EredmÃ©nytartalÃ©k Â­437 238 Â­389 338 Â­135 836 Â­913 936<ujsor/>
+LekÃ¶tÃ¶tt tartalÃ©k 224 070 225 948<ujsor/>
+MÃ©rleg szerinti eredmÃ©ny<ujsor/>
+CÃ©ltartalÃ©kok 119 013 119 013<ujsor/>
+KÃ¶telezettsÃ©gek 422 417 164 620 26 991 186 224 209 881<ujsor/>
+HÃ¡tra sorolt kÃ¶telezettsÃ©gek 158 729 26 194 185 591<ujsor/>
+HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 195 000 195 000<ujsor/>
+RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 227 417 5 891 794 633 14 881<ujsor/>
+PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 7 278 4 46 028 8 182<ujsor/>
+Ã–SSZESEN: 925 040 75 286 91 155 950 169 583 023<ujsor/>
+FelhÃ­vjuk a tÃ¡rsasÃ¡gok hitelezÅ‘it, hogy a jogszabÃ¡lyban megadott hatÃ¡ridÅ‘n belÃ¼l jogosultak a GazdasÃ¡gi tÃ¡rsasÃ¡gokrÃ³l szÃ³lÃ³ 2006. Ã©vi IV. tv. 76. Â§ (2) bekezdÃ©sÃ©ben foglaltak szerint igÃ©nyeik bejelentÃ©sÃ©re.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">1109002909</mezo>
-<mezo id = "nev">Lencsehegyi Szénbánya Korlátolt Felelõsségû Társaság &quot;végelszámolás alatt&quot;</mezo>
-<mezo id = "cim">2517 Kesztölc</mezo>
+<mezo id = "nev">Lencsehegyi SzÃ©nbÃ¡nya KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g &quot;vÃ©gelszÃ¡molÃ¡s alatt&quot;</mezo>
+<mezo id = "cim">2517 KesztÃ¶lc</mezo>
 </alrovat>
 </rovat>
 <rovat id = "99017">

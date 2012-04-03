@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">735199</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">1061 Budapest, Andrássy út 9. 1. em. </mezo>
+<mezo id = "cim">1061 Budapest, AndrÃ¡ssy Ãºt 9. 1. em. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">13438515242</mezo>
 </alrovat>
@@ -13,13 +13,13 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20050406</mezo>
-<mezo id = "nev">Király utca 40. Ingatlanforgalmazó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">KirÃ¡ly utca 40. IngatlanforgalmazÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">20050406</mezo>
-<mezo id = "nev">Király u. 40. Kft.</mezo>
+<mezo id = "nev">KirÃ¡ly u. 40. Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
@@ -27,14 +27,14 @@
 <mezo id = "hattol">20050406</mezo>
 <mezo id = "irsz">1133</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Visegrádi utca 78.</mezo>
+<mezo id = "teru">VisegrÃ¡di utca 78.</mezo>
 <mezo id = "kirsz">0</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20110815</mezo>
 <mezo id = "irsz">1061</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Andrássy út 9. 1. em.</mezo>
+<mezo id = "teru">AndrÃ¡ssy Ãºt 9. 1. em.</mezo>
 <mezo id = "valtk">20110815</mezo>
 <mezo id = "bkelt">20110914</mezo>
 </alrovat>
@@ -177,7 +177,7 @@
 <rovat id = "13">
 <alrovat id = "4">
 <mezo id = "hattol">20110815</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "pnev">Ehud Amir</mezo>
 <mezo id = "panev">Mond Marta Miriam</mezo>
 <mezo id = "pirsz">1138</mezo>
@@ -202,18 +202,18 @@
 <mezo id = "adosz">13438515242</mezo>
 <mezo id = "kadosz">HU13438515</mezo>
 <mezo id = "bkelt">20110919</mezo>
-<mezo id = "megj">Státusz kezdete: 2005/01/26</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 2005/01/26</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0109">
 <alrovat id = "10">
 <mezo id = "hattol">20110815</mezo>
 <mezo id = "cgjsz">0109713353</mezo>
-<mezo id = "nev">TRIGROUP Ingatlanfejlesztõ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">TRIGROUP IngatlanfejlesztÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1061</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Andrássy út 9. I. em.</mezo>
+<mezo id = "teru">AndrÃ¡ssy Ãºt 9. I. em.</mezo>
 <mezo id = "tagsk">20050406</mezo>
 <mezo id = "valtk">20110815</mezo>
 <mezo id = "bkelt">20110914</mezo>
@@ -221,11 +221,11 @@
 <alrovat id = "11">
 <mezo id = "hattol">20110815</mezo>
 <mezo id = "cgjsz">0109680448</mezo>
-<mezo id = "nev">Amir Holding Ingatlanfejlesztõ Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Amir Holding IngatlanfejlesztÅ‘ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1061</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Andrássy út 9. 1. em.</mezo>
+<mezo id = "teru">AndrÃ¡ssy Ãºt 9. 1. em.</mezo>
 <mezo id = "tagsk">20050406</mezo>
 <mezo id = "valtk">20110815</mezo>
 <mezo id = "bkelt">20110914</mezo>
@@ -236,13 +236,13 @@
 <mezo id = "orsz">VI</mezo>
 <mezo id = "hely">Tortola British Virgin Islands</mezo>
 <mezo id = "teru">East Asia Chambers P.O: Box Road T.</mezo>
-<mezo id = "pcnev">dr. Tomcsányi Tamás</mezo>
+<mezo id = "pcnev">dr. TomcsÃ¡nyi TamÃ¡s</mezo>
 <mezo id = "pcirsz">1134</mezo>
 <mezo id = "pchely">Budapest</mezo>
-<mezo id = "pcteru">Csörsz utca 43.</mezo>
+<mezo id = "pcteru">CsÃ¶rsz utca 43.</mezo>
 <mezo id = "tagsk">20050406</mezo>
 <mezo id = "valtk">20110815</mezo>
-<mezo id = "knyh">Brit Virgin Szigetek Cégnyilvántartó Hivatal</mezo>
+<mezo id = "knyh">Brit Virgin Szigetek CÃ©gnyilvÃ¡ntartÃ³ Hivatal</mezo>
 <mezo id = "bkelt">20110914</mezo>
 </alrovat>
 </rovat>
@@ -250,15 +250,15 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2008. 11. 13-án hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-05. 1133 Budapest, Visegrádi utca 78.<ujsor/>
- A változás idõpontja (törlés): 2008. 10. 10.<ujsor/>
- Törölve: 2008. 10. 10.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2008. 11. 13-Ã¡n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+05. 1133 Budapest, VisegrÃ¡di utca 78.<ujsor/>
+ A vÃ¡ltozÃ¡s idÅ‘pontja (tÃ¶rlÃ©s): 2008. 10. 10.<ujsor/>
+ TÃ¶rÃ¶lve: 2008. 10. 10.<ujsor/>
 2008. 11. 27.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109735199</mezo>
-<mezo id = "nev">Király utca 40. Ingatlanforgalmazó Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1061 Budapest, Székely Mihály utca 16.</mezo>
+<mezo id = "nev">KirÃ¡ly utca 40. IngatlanforgalmazÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1061 Budapest, SzÃ©kely MihÃ¡ly utca 16.</mezo>
 <mezo id = "adosz">13438515242</mezo>
 </alrovat>
 </rovat>

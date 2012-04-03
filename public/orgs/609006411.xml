@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">006411</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">6726 Szeged, Ildikó utca 43. </mezo>
+<mezo id = "cim">6726 Szeged, IldikÃ³ utca 43. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">11856001206</mezo>
 </alrovat>
@@ -13,13 +13,13 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19990614</mezo>
-<mezo id = "nev">DÓZER - ÉP Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">DÃ“ZER - Ã‰P Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "1">
 <mezo id = "hattol">19990614</mezo>
-<mezo id = "nev">DÓZER - ÉP Kft.</mezo>
+<mezo id = "nev">DÃ“ZER - Ã‰P Kft.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
@@ -27,7 +27,7 @@
 <mezo id = "hattol">20060112</mezo>
 <mezo id = "irsz">6726</mezo>
 <mezo id = "hely">Szeged</mezo>
-<mezo id = "teru">Ildikó utca 43.</mezo>
+<mezo id = "teru">IldikÃ³ utca 43.</mezo>
 <mezo id = "kirsz">0</mezo>
 </alrovat>
 </rovat>
@@ -558,25 +558,25 @@
 <mezo id = "hattol">20100319</mezo>
 <mezo id = "valtk">20100319</mezo>
 <mezo id = "bkelt">20100329</mezo>
-<mezo id = "teaszov">Ipari gép, berendezés javítása</mezo>
+<mezo id = "teaszov">Ipari gÃ©p, berendezÃ©s javÃ­tÃ¡sa</mezo>
 </alrovat>
 <alrovat id = "80">
 <mezo id = "hattol">20100319</mezo>
 <mezo id = "valtk">20100319</mezo>
 <mezo id = "bkelt">20100329</mezo>
-<mezo id = "teaszov">Ipari gép, berendezés üzembe helyezése</mezo>
+<mezo id = "teaszov">Ipari gÃ©p, berendezÃ©s Ã¼zembe helyezÃ©se</mezo>
 </alrovat>
 <alrovat id = "81">
 <mezo id = "hattol">20100319</mezo>
 <mezo id = "valtk">20100319</mezo>
 <mezo id = "bkelt">20100329</mezo>
-<mezo id = "teaszov">Városi, elõvárosi, szárazföldi személyszállítás</mezo>
+<mezo id = "teaszov">VÃ¡rosi, elÅ‘vÃ¡rosi, szÃ¡razfÃ¶ldi szemÃ©lyszÃ¡llÃ­tÃ¡s</mezo>
 </alrovat>
 <alrovat id = "82">
 <mezo id = "hattol">20100319</mezo>
 <mezo id = "valtk">20100319</mezo>
 <mezo id = "bkelt">20100329</mezo>
-<mezo id = "teaszov">M.n.s. egyéb szárazföldi személyszállítás</mezo>
+<mezo id = "teaszov">M.n.s. egyÃ©b szÃ¡razfÃ¶ldi szemÃ©lyszÃ¡llÃ­tÃ¡s</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -591,9 +591,9 @@
 <rovat id = "13">
 <alrovat id = "5">
 <mezo id = "hattol">20100215</mezo>
-<mezo id = "tiszt">cégvezetõ</mezo>
-<mezo id = "pnev">Kávai Endre Árpád</mezo>
-<mezo id = "panev">Kovács Ilona</mezo>
+<mezo id = "tiszt">cÃ©gvezetÅ‘</mezo>
+<mezo id = "pnev">KÃ¡vai Endre ÃrpÃ¡d</mezo>
+<mezo id = "panev">KovÃ¡cs Ilona</mezo>
 <mezo id = "jogvk">20100215</mezo>
 <mezo id = "jogvv">20150215</mezo>
 <mezo id = "valtk">20100215</mezo>
@@ -602,9 +602,9 @@
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20101202</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Kovács János</mezo>
-<mezo id = "panev">Terbán Emília</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">KovÃ¡cs JÃ¡nos</mezo>
+<mezo id = "panev">TerbÃ¡n EmÃ­lia</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20101202</mezo>
 <mezo id = "valtk">20101202</mezo>
@@ -616,16 +616,16 @@
 <alrovat id = "2">
 <mezo id = "hattol">20090416</mezo>
 <mezo id = "cgjsz">609003048</mezo>
-<mezo id = "nev">CONTROLEX Könyvszakértõ, Befektetési Tanácsadó Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">CONTROLEX KÃ¶nyvszakÃ©rtÅ‘, BefektetÃ©si TanÃ¡csadÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">6722</mezo>
 <mezo id = "hely">Szeged</mezo>
-<mezo id = "teru">Béke</mezo>
+<mezo id = "teru">BÃ©ke</mezo>
 <mezo id = "hsz">2</mezo>
-<mezo id = "pnev">Ézsiás László</mezo>
-<mezo id = "panev">Kónya Margit</mezo>
+<mezo id = "pnev">Ã‰zsiÃ¡s LÃ¡szlÃ³</mezo>
+<mezo id = "panev">KÃ³nya Margit</mezo>
 <mezo id = "pirsz">6791</mezo>
-<mezo id = "phely">Szeged, Kamilla utca 43. B. ép.</mezo>
+<mezo id = "phely">Szeged, Kamilla utca 43. B. Ã©p.</mezo>
 <mezo id = "jogvk">20090101</mezo>
 <mezo id = "jogvv">20140531</mezo>
 <mezo id = "valtk">20090416</mezo>
@@ -659,10 +659,10 @@
 <alrovat id = "4">
 <mezo id = "hattol">20080303</mezo>
 <mezo id = "felel">x</mezo>
-<mezo id = "pnev">Kovács János</mezo>
-<mezo id = "panev">Terbán Emília</mezo>
+<mezo id = "pnev">KovÃ¡cs JÃ¡nos</mezo>
+<mezo id = "panev">TerbÃ¡n EmÃ­lia</mezo>
 <mezo id = "pirsz">6726</mezo>
-<mezo id = "phely">Szeged, Ildikó u. 43.</mezo>
+<mezo id = "phely">Szeged, IldikÃ³ u. 43.</mezo>
 <mezo id = "tagsk">19990614</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20080303</mezo>
@@ -680,20 +680,20 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Csongrád Megyei Bíróság mint Cégbíróság a Cg.06-09-006411 cégjegyzékszámon bejegyzett DÓZER - ÉP Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság (6726 Szeged, Ildikó utca 43.; adószáma: 11856001-2-06) kérelme alapján elrendeli az 2010. február 25. napján hozott Cg.06-09-006411 /22. számú végzésének kiegészítését az alábbiak szerint:<ujsor/>
-13. A képviseletre jogosult(ak) adatai<ujsor/>
-Adóazonosító jel: 8263900972<ujsor/>
-Kávai Endre Árpád cégvezetõ (an.: Kovács Ilona)<ujsor/>
-Jogv. kezdete: 2010.02.15. Jogv. vége: 2015.02.15.<ujsor/>
-Vált. kezdete: 2010.02.15.<ujsor/>
-Bejegyezve (végzés kelte): 2010. március 30.<ujsor/>
-E végzés ellen fellebbezésnek nincs helye, azonban az ügyész, továbbá az, akire a végzés rendelkezést tartalmaz - a rendelkezés õt érintõ részére vonatkozóan - pert indíthat a cég ellen a cég székhelye szerint illetékes megyei bíróság elõtt a bejegyzõ végzés hatályon kívül helyezése iránt.<ujsor/>
-A per megindításának a bejegyzõ végzés Cégközlönyben való közzétételétõl, illetve - közzétételi kötelezettség hiányában - annak kézbesítésétõl számított 30 napon belül van helye. A határidõ elmulasztása jogvesztéssel jár.<ujsor/>
-2010. március 30.<ujsor/>
+<mezo id = "szoveg">A CsongrÃ¡d Megyei BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.06-09-006411 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett DÃ“ZER - Ã‰P Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (6726 Szeged, IldikÃ³ utca 43.; adÃ³szÃ¡ma: 11856001-2-06) kÃ©relme alapjÃ¡n elrendeli az 2010. februÃ¡r 25. napjÃ¡n hozott Cg.06-09-006411 /22. szÃ¡mÃº vÃ©gzÃ©sÃ©nek kiegÃ©szÃ­tÃ©sÃ©t az alÃ¡bbiak szerint:<ujsor/>
+13. A kÃ©pviseletre jogosult(ak) adatai<ujsor/>
+AdÃ³azonosÃ­tÃ³ jel: 8263900972<ujsor/>
+KÃ¡vai Endre ÃrpÃ¡d cÃ©gvezetÅ‘ (an.: KovÃ¡cs Ilona)<ujsor/>
+Jogv. kezdete: 2010.02.15. Jogv. vÃ©ge: 2015.02.15.<ujsor/>
+VÃ¡lt. kezdete: 2010.02.15.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2010. mÃ¡rcius 30.<ujsor/>
+E vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye, azonban az Ã¼gyÃ©sz, tovÃ¡bbÃ¡ az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s Å‘t Ã©rintÅ‘ rÃ©szÃ©re vonatkozÃ³an - pert indÃ­that a cÃ©g ellen a cÃ©g szÃ©khelye szerint illetÃ©kes megyei bÃ­rÃ³sÃ¡g elÅ‘tt a bejegyzÅ‘ vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt.<ujsor/>
+A per megindÃ­tÃ¡sÃ¡nak a bejegyzÅ‘ vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l, illetve - kÃ¶zzÃ©tÃ©teli kÃ¶telezettsÃ©g hiÃ¡nyÃ¡ban - annak kÃ©zbesÃ­tÃ©sÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l van helye. A hatÃ¡ridÅ‘ elmulasztÃ¡sa jogvesztÃ©ssel jÃ¡r.<ujsor/>
+2010. mÃ¡rcius 30.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0609006411</mezo>
-<mezo id = "nev">DÓZER - ÉP Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">6726 Szeged, Ildikó utca 43.</mezo>
+<mezo id = "nev">DÃ“ZER - Ã‰P Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">6726 Szeged, IldikÃ³ utca 43.</mezo>
 <mezo id = "adosz">11856001206</mezo>
 </alrovat>
 </rovat>

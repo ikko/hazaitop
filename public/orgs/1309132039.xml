@@ -6,7 +6,7 @@
 <mezo id = "szam">132039</mezo>
 <mezo id = "nevalrovat">1</mezo>
 <mezo id = "regi_szh">0109866872</mezo>
-<mezo id = "cim">2143 Kistarcsa, Móra Ferenc utca 87. </mezo>
+<mezo id = "cim">2143 Kistarcsa, MÃ³ra Ferenc utca 87. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">13664529213</mezo>
 </alrovat>
@@ -14,7 +14,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">20060216</mezo>
-<mezo id = "nev">GARDEN-SYSTEM Kertépítõ és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">GARDEN-SYSTEM KertÃ©pÃ­tÅ‘ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -28,7 +28,7 @@
 <mezo id = "hattol">20090709</mezo>
 <mezo id = "irsz">2143</mezo>
 <mezo id = "hely">Kistarcsa</mezo>
-<mezo id = "teru">Móra Ferenc utca 87.</mezo>
+<mezo id = "teru">MÃ³ra Ferenc utca 87.</mezo>
 <mezo id = "valtk">20090709</mezo>
 <mezo id = "bkelt">20091118</mezo>
 </alrovat>
@@ -524,7 +524,7 @@
 </alrovat>
 <alrovat id = "35">
 <mezo id = "hattol">20060216</mezo>
-<mezo id = "sznev">kiz.számviteli tevékenység</mezo>
+<mezo id = "sznev">kiz.szÃ¡mviteli tevÃ©kenysÃ©g</mezo>
 <mezo id = "hengk1">0</mezo>
 <mezo id = "hengv1">0</mezo>
 <mezo id = "hengk2">0</mezo>
@@ -667,133 +667,133 @@
 <mezo id = "hattol">20090709</mezo>
 <mezo id = "valtk">20090709</mezo>
 <mezo id = "bkelt">20091118</mezo>
-<mezo id = "teaszov">Út, autópálya építése - fõtevékenység</mezo>
+<mezo id = "teaszov">Ãšt, autÃ³pÃ¡lya Ã©pÃ­tÃ©se - fÅ‘tevÃ©kenysÃ©g</mezo>
 </alrovat>
 <alrovat id = "92">
 <mezo id = "hattol">20090709</mezo>
 <mezo id = "valtk">20090709</mezo>
 <mezo id = "bkelt">20091118</mezo>
-<mezo id = "teaszov">Lakó- és nem lakó épület építése</mezo>
+<mezo id = "teaszov">LakÃ³- Ã©s nem lakÃ³ Ã©pÃ¼let Ã©pÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "93">
 <mezo id = "hattol">20090709</mezo>
 <mezo id = "valtk">20090709</mezo>
 <mezo id = "bkelt">20091118</mezo>
-<mezo id = "teaszov">Vasút építése</mezo>
+<mezo id = "teaszov">VasÃºt Ã©pÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "94">
 <mezo id = "hattol">20090709</mezo>
 <mezo id = "valtk">20090709</mezo>
 <mezo id = "bkelt">20091118</mezo>
-<mezo id = "teaszov">Híd, alagút építése</mezo>
+<mezo id = "teaszov">HÃ­d, alagÃºt Ã©pÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "95">
 <mezo id = "hattol">20090709</mezo>
 <mezo id = "valtk">20090709</mezo>
 <mezo id = "bkelt">20091118</mezo>
-<mezo id = "teaszov">Egyéb m.n.s. építés</mezo>
+<mezo id = "teaszov">EgyÃ©b m.n.s. Ã©pÃ­tÃ©s</mezo>
 </alrovat>
 <alrovat id = "96">
 <mezo id = "hattol">20090709</mezo>
 <mezo id = "valtk">20090709</mezo>
 <mezo id = "bkelt">20091118</mezo>
-<mezo id = "teaszov">Bontás</mezo>
+<mezo id = "teaszov">BontÃ¡s</mezo>
 </alrovat>
 <alrovat id = "97">
 <mezo id = "hattol">20090709</mezo>
 <mezo id = "valtk">20090709</mezo>
 <mezo id = "bkelt">20091118</mezo>
-<mezo id = "teaszov">Építési teerület elõkészítése</mezo>
+<mezo id = "teaszov">Ã‰pÃ­tÃ©si teerÃ¼let elÅ‘kÃ©szÃ­tÃ©se</mezo>
 </alrovat>
 <alrovat id = "98">
 <mezo id = "hattol">20090709</mezo>
 <mezo id = "valtk">20090709</mezo>
 <mezo id = "bkelt">20091118</mezo>
-<mezo id = "teaszov">Talajmintavétel, próbafúrás</mezo>
+<mezo id = "teaszov">TalajmintavÃ©tel, prÃ³bafÃºrÃ¡s</mezo>
 </alrovat>
 <alrovat id = "99">
 <mezo id = "hattol">20090709</mezo>
 <mezo id = "valtk">20090709</mezo>
 <mezo id = "bkelt">20091118</mezo>
-<mezo id = "teaszov">Egyéb befejezõ építés m.n.s.</mezo>
+<mezo id = "teaszov">EgyÃ©b befejezÅ‘ Ã©pÃ­tÃ©s m.n.s.</mezo>
 </alrovat>
 <alrovat id = "100">
 <mezo id = "hattol">20090709</mezo>
 <mezo id = "valtk">20090709</mezo>
 <mezo id = "bkelt">20091118</mezo>
-<mezo id = "teaszov">Gépjármûjavítás, -karbantartás</mezo>
+<mezo id = "teaszov">GÃ©pjÃ¡rmÅ±javÃ­tÃ¡s, -karbantartÃ¡s</mezo>
 </alrovat>
 <alrovat id = "101">
 <mezo id = "hattol">20090709</mezo>
 <mezo id = "valtk">20090709</mezo>
 <mezo id = "bkelt">20091118</mezo>
-<mezo id = "teaszov">Egyéb élelmiszer nagykereskedelme</mezo>
+<mezo id = "teaszov">EgyÃ©b Ã©lelmiszer nagykereskedelme</mezo>
 </alrovat>
 <alrovat id = "102">
 <mezo id = "hattol">20090709</mezo>
 <mezo id = "valtk">20090709</mezo>
 <mezo id = "bkelt">20091118</mezo>
-<mezo id = "teaszov">Egyéb háztartási cikk nagykereskedelme m.n.s.</mezo>
+<mezo id = "teaszov">EgyÃ©b hÃ¡ztartÃ¡si cikk nagykereskedelme m.n.s.</mezo>
 </alrovat>
 <alrovat id = "103">
 <mezo id = "hattol">20090709</mezo>
 <mezo id = "valtk">20090709</mezo>
 <mezo id = "bkelt">20091118</mezo>
-<mezo id = "teaszov">Egyéb nem bolti, piaci kiskereskedelem</mezo>
+<mezo id = "teaszov">EgyÃ©b nem bolti, piaci kiskereskedelem</mezo>
 </alrovat>
 <alrovat id = "104">
 <mezo id = "hattol">20090709</mezo>
 <mezo id = "valtk">20090709</mezo>
 <mezo id = "bkelt">20091118</mezo>
-<mezo id = "teaszov">Üzletvezetés</mezo>
+<mezo id = "teaszov">ÃœzletvezetÃ©s</mezo>
 </alrovat>
 <alrovat id = "105">
 <mezo id = "hattol">20090709</mezo>
 <mezo id = "valtk">20090709</mezo>
 <mezo id = "bkelt">20091118</mezo>
-<mezo id = "teaszov">Üzletviteli, egyéb vezetési tanácsadás</mezo>
+<mezo id = "teaszov">Ãœzletviteli, egyÃ©b vezetÃ©si tanÃ¡csadÃ¡s</mezo>
 </alrovat>
 <alrovat id = "106">
 <mezo id = "hattol">20090709</mezo>
 <mezo id = "valtk">20090709</mezo>
 <mezo id = "bkelt">20091118</mezo>
-<mezo id = "teaszov">Mérnöki tevékenység, mûszaki tanácsadás</mezo>
+<mezo id = "teaszov">MÃ©rnÃ¶ki tevÃ©kenysÃ©g, mÅ±szaki tanÃ¡csadÃ¡s</mezo>
 </alrovat>
 <alrovat id = "107">
 <mezo id = "hattol">20090709</mezo>
 <mezo id = "valtk">20090709</mezo>
 <mezo id = "bkelt">20091118</mezo>
-<mezo id = "teaszov">Egyéb természettudományi, mûszaki kutatás, fejlesztés</mezo>
+<mezo id = "teaszov">EgyÃ©b termÃ©szettudomÃ¡nyi, mÅ±szaki kutatÃ¡s, fejlesztÃ©s</mezo>
 </alrovat>
 <alrovat id = "108">
 <mezo id = "hattol">20090709</mezo>
 <mezo id = "valtk">20090709</mezo>
 <mezo id = "bkelt">20091118</mezo>
-<mezo id = "teaszov">Általános épülettakarítás</mezo>
+<mezo id = "teaszov">ÃltalÃ¡nos Ã©pÃ¼lettakarÃ­tÃ¡s</mezo>
 </alrovat>
 <alrovat id = "109">
 <mezo id = "hattol">20090709</mezo>
 <mezo id = "valtk">20090709</mezo>
 <mezo id = "bkelt">20091118</mezo>
-<mezo id = "teaszov">Egyéb takarítás</mezo>
+<mezo id = "teaszov">EgyÃ©b takarÃ­tÃ¡s</mezo>
 </alrovat>
 <alrovat id = "110">
 <mezo id = "hattol">20090709</mezo>
 <mezo id = "valtk">20090709</mezo>
 <mezo id = "bkelt">20091118</mezo>
-<mezo id = "teaszov">Zölterület-kezelés</mezo>
+<mezo id = "teaszov">ZÃ¶lterÃ¼let-kezelÃ©s</mezo>
 </alrovat>
 <alrovat id = "111">
 <mezo id = "hattol">20090709</mezo>
 <mezo id = "valtk">20090709</mezo>
 <mezo id = "bkelt">20091118</mezo>
-<mezo id = "teaszov">M.n.s. egyéb kiegészítõ üzleti szolgáltatás</mezo>
+<mezo id = "teaszov">M.n.s. egyÃ©b kiegÃ©szÃ­tÅ‘ Ã¼zleti szolgÃ¡ltatÃ¡s</mezo>
 </alrovat>
 <alrovat id = "112">
 <mezo id = "hattol">20090709</mezo>
 <mezo id = "valtk">20090709</mezo>
 <mezo id = "bkelt">20091118</mezo>
-<mezo id = "teaszov">M.n.s. egyéb szórakoztatás, szabadidõs tevékenyésg</mezo>
+<mezo id = "teaszov">M.n.s. egyÃ©b szÃ³rakoztatÃ¡s, szabadidÅ‘s tevÃ©kenyÃ©sg</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -808,12 +808,12 @@
 <rovat id = "13">
 <alrovat id = "2">
 <mezo id = "hattol">20090709</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Egyed László</mezo>
-<mezo id = "panev">György Zita Rozália</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Egyed LÃ¡szlÃ³</mezo>
+<mezo id = "panev">GyÃ¶rgy Zita RozÃ¡lia</mezo>
 <mezo id = "pirsz">2143</mezo>
 <mezo id = "phely">Kistarcsa</mezo>
-<mezo id = "pteru">Móra Ferenc utca 87.</mezo>
+<mezo id = "pteru">MÃ³ra Ferenc utca 87.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20060123</mezo>
 <mezo id = "valtk">20090709</mezo>
@@ -850,22 +850,22 @@
 <rovat id = "0109">
 <alrovat id = "3">
 <mezo id = "hattol">20090709</mezo>
-<mezo id = "pnev">Egyed László</mezo>
-<mezo id = "panev">György Zita Rozália</mezo>
+<mezo id = "pnev">Egyed LÃ¡szlÃ³</mezo>
+<mezo id = "panev">GyÃ¶rgy Zita RozÃ¡lia</mezo>
 <mezo id = "pirsz">2143</mezo>
 <mezo id = "phely">Kistarcsa</mezo>
-<mezo id = "pteru">Móra Ferenc utca 87.</mezo>
+<mezo id = "pteru">MÃ³ra Ferenc utca 87.</mezo>
 <mezo id = "tagsk">20060216</mezo>
 <mezo id = "valtk">20090709</mezo>
 <mezo id = "bkelt">20091118</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20090709</mezo>
-<mezo id = "pnev">Egyed Mária Magdolna sz. Gergely Mária Magdolna</mezo>
+<mezo id = "pnev">Egyed MÃ¡ria Magdolna sz. Gergely MÃ¡ria Magdolna</mezo>
 <mezo id = "panev">Kolozsi Ilona</mezo>
 <mezo id = "pirsz">2143</mezo>
 <mezo id = "phely">Kistarcsa</mezo>
-<mezo id = "pteru">Móra Ferenc utca 87.</mezo>
+<mezo id = "pteru">MÃ³ra Ferenc utca 87.</mezo>
 <mezo id = "tagsk">20060216</mezo>
 <mezo id = "valtk">20090709</mezo>
 <mezo id = "bkelt">20091118</mezo>

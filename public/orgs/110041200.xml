@@ -5,7 +5,7 @@
 <mezo id = "cf">10</mezo>
 <mezo id = "szam">041200</mezo>
 <mezo id = "nevalrovat">4</mezo>
-<mezo id = "cim">1116 Budapest, Barázda utca 42. </mezo>
+<mezo id = "cim">1116 Budapest, BarÃ¡zda utca 42. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">10244043243</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "4">
 <mezo id = "hattol">20100601</mezo>
-<mezo id = "nev">BUDAPIÉRT Kereskedelmi Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">BUDAPIÃ‰RT Kereskedelmi ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">20100601</mezo>
 <mezo id = "bkelt">20100608</mezo>
 </alrovat>
@@ -21,11 +21,11 @@
 <rovat id = "3">
 <alrovat id = "3">
 <mezo id = "hattol">20051230</mezo>
-<mezo id = "nev">ÁBP ÁPISZ-BudaiPiért Zrt.</mezo>
+<mezo id = "nev">ÃBP ÃPISZ-BudaiPiÃ©rt Zrt.</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">20100601</mezo>
-<mezo id = "nev">BUDAPIÉRT Zrt.</mezo>
+<mezo id = "nev">BUDAPIÃ‰RT Zrt.</mezo>
 <mezo id = "valtk">20100601</mezo>
 <mezo id = "bkelt">20100608</mezo>
 </alrovat>
@@ -34,15 +34,15 @@
 <alrovat id = "4">
 <mezo id = "irsz">1135</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Béke</mezo>
-<mezo id = "terj">út</mezo>
+<mezo id = "teru">BÃ©ke</mezo>
+<mezo id = "terj">Ãºt</mezo>
 <mezo id = "hsz">2-4</mezo>
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">20110526</mezo>
 <mezo id = "irsz">1116</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Barázda utca 42.</mezo>
+<mezo id = "teru">BarÃ¡zda utca 42.</mezo>
 <mezo id = "valtk">20110526</mezo>
 <mezo id = "bkelt">20110622</mezo>
 </alrovat>
@@ -766,22 +766,22 @@
 <rovat id = "13">
 <alrovat id = "61">
 <mezo id = "hattol">20050607</mezo>
-<mezo id = "pnev">Sándor Istvánné</mezo>
-<mezo id = "panev">Karacs Róza</mezo>
+<mezo id = "pnev">SÃ¡ndor IstvÃ¡nnÃ©</mezo>
+<mezo id = "panev">Karacs RÃ³za</mezo>
 <mezo id = "pirsz">1144</mezo>
-<mezo id = "phely">Budapest, Szentmihály u. 12-14.</mezo>
+<mezo id = "phely">Budapest, SzentmihÃ¡ly u. 12-14.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "tv">5</mezo>
 <mezo id = "jogvk">20050607</mezo>
 </alrovat>
 <alrovat id = "76">
 <mezo id = "hattol">20110526</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (vezérigazgató)</mezo>
-<mezo id = "pnev">Dr. Lóczy Zoltán</mezo>
-<mezo id = "panev">Radácsi Borbála</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (vezÃ©rigazgatÃ³)</mezo>
+<mezo id = "pnev">Dr. LÃ³czy ZoltÃ¡n</mezo>
+<mezo id = "panev">RadÃ¡csi BorbÃ¡la</mezo>
 <mezo id = "pirsz">1055</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Balassi Bálint utca 9-11.</mezo>
+<mezo id = "pteru">Balassi BÃ¡lint utca 9-11.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20110526</mezo>
 <mezo id = "jogvv">20120531</mezo>
@@ -791,12 +791,12 @@
 </alrovat>
 <alrovat id = "77">
 <mezo id = "hattol">20110526</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Boros Barna Albert</mezo>
 <mezo id = "panev">Barna Magdolna</mezo>
 <mezo id = "pirsz">2131</mezo>
-<mezo id = "phely">Göd</mezo>
-<mezo id = "pteru">Erzsébet liget 49-59. B. ép.</mezo>
+<mezo id = "phely">GÃ¶d</mezo>
+<mezo id = "pteru">ErzsÃ©bet liget 49-59. B. Ã©p.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20110526</mezo>
 <mezo id = "valtk">20110526</mezo>
@@ -808,16 +808,16 @@
 <alrovat id = "17">
 <mezo id = "hattol">20110526</mezo>
 <mezo id = "cgjsz">0109467801</mezo>
-<mezo id = "nev">&quot;FAIRCONSULT&quot; Könyvelési és Gazdasági Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">&quot;FAIRCONSULT&quot; KÃ¶nyvelÃ©si Ã©s GazdasÃ¡gi SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1171</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Göcsej utca 2.</mezo>
-<mezo id = "pnev">Ézsiás Miklósné</mezo>
-<mezo id = "panev">Czégér Rozália</mezo>
+<mezo id = "teru">GÃ¶csej utca 2.</mezo>
+<mezo id = "pnev">Ã‰zsiÃ¡s MiklÃ³snÃ©</mezo>
+<mezo id = "panev">CzÃ©gÃ©r RozÃ¡lia</mezo>
 <mezo id = "pirsz">1171</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Temetõ utca 2.</mezo>
+<mezo id = "pteru">TemetÅ‘ utca 2.</mezo>
 <mezo id = "jogvk">20110526</mezo>
 <mezo id = "jogvv">20120531</mezo>
 <mezo id = "valtk">20110526</mezo>
@@ -828,17 +828,17 @@
 <alrovat id = "1">
 <mezo id = "hattol">20011009</mezo>
 <mezo id = "cgjsz">110044661</mezo>
-<mezo id = "nev">Pacific East Ingatlanhasznosító és Befektetõ Részvénytársaság</mezo>
+<mezo id = "nev">Pacific East IngatlanhasznosÃ­tÃ³ Ã©s BefektetÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20050607</mezo>
 <mezo id = "cgjsz">109078839</mezo>
-<mezo id = "nev">BUDA-PIÉRT Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">BUDA-PIÃ‰RT Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">20050909</mezo>
 <mezo id = "cgjsz">109078839</mezo>
-<mezo id = "nev">BUDA-PIÉRT Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">BUDA-PIÃ‰RT Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "20">
@@ -852,21 +852,21 @@
 <mezo id = "adosz">10244043243</mezo>
 <mezo id = "kadosz">HU10244043</mezo>
 <mezo id = "bkelt">20111028</mezo>
-<mezo id = "megj">Státusz kezdete: 1989/06/01</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 1989/06/01</mezo>
 </alrovat>
 </rovat>
 <rovat id = "22">
 <alrovat id = "1">
 <mezo id = "hattol">20030828</mezo>
 <mezo id = "jccjsz">109716875</mezo>
-<mezo id = "nev">Royal Investment Ingatlanhasznosító Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">Royal Investment IngatlanhasznosÃ­tÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0110">
 <alrovat id = "7">
 <mezo id = "hattol">20100421</mezo>
 <mezo id = "cgjsz">0109684900</mezo>
-<mezo id = "nev">IRO-PLUSZ Kereskedelmi és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">IRO-PLUSZ Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1044</mezo>
 <mezo id = "hely">Budapest</mezo>
@@ -886,682 +886,682 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A CITIBANK BUDAPEST RT. bejelenti, hogy az ÁPISZ Kereskedelmi Rt.-ben 27 454 db (huszonhétezer-négyszázötvennégy darab) részvény megszerzésével jelentõs részesedéshez jutott.<ujsor/>
+<mezo id = "szoveg">A CITIBANK BUDAPEST RT. bejelenti, hogy az ÃPISZ Kereskedelmi Rt.-ben 27 454 db (huszonhÃ©tezer-nÃ©gyszÃ¡zÃ¶tvennÃ©gy darab) rÃ©szvÃ©ny megszerzÃ©sÃ©vel jelentÅ‘s rÃ©szesedÃ©shez jutott.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110041200</mezo>
-<mezo id = "nev">ÁPISZ Kereskedelmi Részvénytársaság</mezo>
+<mezo id = "nev">ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az ÁPISZ Kereskedelmi Részvénytársaság (1075 Budapest, Wesselényi u. 6.) értesíti hitelezõit, hogy a részvénytársaság 1990. március 24-én tartott közgyûlése alaptõkéjének leszállításáról a következõ 9/1990. számú határozatot hozta:<ujsor/>
-A részvénytársaság alaptõkéjét a közgyûlés 150 000 000 Ft-ra (egyszázötvenmillió forintra) leszállítja.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">Az ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g (1075 Budapest, WesselÃ©nyi u. 6.) Ã©rtesÃ­ti hitelezÅ‘it, hogy a rÃ©szvÃ©nytÃ¡rsasÃ¡g 1990. mÃ¡rcius 24-Ã©n tartott kÃ¶zgyÅ±lÃ©se alaptÅ‘kÃ©jÃ©nek leszÃ¡llÃ­tÃ¡sÃ¡rÃ³l a kÃ¶vetkezÅ‘ 9/1990. szÃ¡mÃº hatÃ¡rozatot hozta:<ujsor/>
+A rÃ©szvÃ©nytÃ¡rsasÃ¡g alaptÅ‘kÃ©jÃ©t a kÃ¶zgyÅ±lÃ©s 150 000 000 Ft-ra (egyszÃ¡zÃ¶tvenmilliÃ³ forintra) leszÃ¡llÃ­tja.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110041200</mezo>
-<mezo id = "nev">ÁPISZ Kereskedelmi Részvénytársaság</mezo>
+<mezo id = "nev">ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az ÁPISZ Kereskedelmi Részvénytársaság (1075 Budapest, Wesselényi u. 6.) értesíti hitelezõit, hogy a részvénytársaság 1990. március 24-én tartott közgyûlése alaptõkéjének leszállításáról a következõ 9/1990. számú határozatot hozta:<ujsor/>
-A részvénytársaság alaptõkéjét a közgyûlés 150 000 000 Ft-ra (egyszázötvenmillió forintra) leszállítja.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">Az ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g (1075 Budapest, WesselÃ©nyi u. 6.) Ã©rtesÃ­ti hitelezÅ‘it, hogy a rÃ©szvÃ©nytÃ¡rsasÃ¡g 1990. mÃ¡rcius 24-Ã©n tartott kÃ¶zgyÅ±lÃ©se alaptÅ‘kÃ©jÃ©nek leszÃ¡llÃ­tÃ¡sÃ¡rÃ³l a kÃ¶vetkezÅ‘ 9/1990. szÃ¡mÃº hatÃ¡rozatot hozta:<ujsor/>
+A rÃ©szvÃ©nytÃ¡rsasÃ¡g alaptÅ‘kÃ©jÃ©t a kÃ¶zgyÅ±lÃ©s 150 000 000 Ft-ra (egyszÃ¡zÃ¶tvenmilliÃ³ forintra) leszÃ¡llÃ­tja.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110041200</mezo>
-<mezo id = "nev">ÁPISZ Kereskedelmi Részvénytársaság</mezo>
+<mezo id = "nev">ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Fõvárosi Bíróság 01 10 041200<ujsor/>
-ÁPISZ Kereskedelmi Részvénytársaság<ujsor/>
-A bíróság az 1990. 03. 20-án hozott végzését az alábbiak szerint javítja ki:<ujsor/>
-A társaság alaptõkéje helyesen: 719 700 000 Ft (hétszáztizenkilencmillió-hétszázezer forint).<ujsor/>
+<mezo id = "szoveg">FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g 01 10 041200<ujsor/>
+ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g<ujsor/>
+A bÃ­rÃ³sÃ¡g az 1990. 03. 20-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja ki:<ujsor/>
+A tÃ¡rsasÃ¡g alaptÅ‘kÃ©je helyesen: 719 700 000 Ft (hÃ©tszÃ¡ztizenkilencmilliÃ³-hÃ©tszÃ¡zezer forint).<ujsor/>
 1991. 01. 29.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110041200</mezo>
-<mezo id = "nev">ÁPISZ Kereskedelmi Részvénytársaság</mezo>
+<mezo id = "nev">ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Kereskedelem 2000 Portfólió Korlátolt Felelõsségû Társaság (székhelye: 1116 Budapest, Hengermalom út 1.; cégjegyzékszáma: [01 09 462693]) az ÁPISZ Kereskedelmi Részvénytársaságban (székhely: 1075 Budapest, Wesselényi u. 6.; cégjegyzékszám: Cg. [01 10 041200]) 1995. szeptember 15-én, részvényvásárlással 78,7%-os részesedést szerzett, mely alapján a társaságban uralkodó tagként közvetlen irányítást biztosító befolyást gyakorol. Az uralkodó tag 98 379 szavazattal rendelkezik az ellenõrzött társaságban.<ujsor/>
-Azok a hitelezõk, akiknek az ellenõrzött társasággal szembeni, le nem járt követelései a befolyás közzétételét megelõzõen keletkeztek, a közzététel utáni 90 napos jogvesztõ határidõn belül követeléseik erejéig biztosítékot követelhetnek az uralkodó tagtól.*<ujsor/>
-* A társaság a hirdetményt az IM figyelmeztetése ellenére jelenteti meg, mert az 1997. évi CXLIV. tv. hatálybalépése elõtt keletkezett befolyásszerzés esetén közzétételi kötelezettség nem áll fenn. A bejelentési kötelezettségre a Cégtörvény 62. §-a irányadó.<ujsor/>
+<mezo id = "szoveg">A Kereskedelem 2000 PortfÃ³liÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (szÃ©khelye: 1116 Budapest, Hengermalom Ãºt 1.; cÃ©gjegyzÃ©kszÃ¡ma: [01 09 462693]) az ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡gban (szÃ©khely: 1075 Budapest, WesselÃ©nyi u. 6.; cÃ©gjegyzÃ©kszÃ¡m: Cg. [01 10 041200]) 1995. szeptember 15-Ã©n, rÃ©szvÃ©nyvÃ¡sÃ¡rlÃ¡ssal 78,7%-os rÃ©szesedÃ©st szerzett, mely alapjÃ¡n a tÃ¡rsasÃ¡gban uralkodÃ³ tagkÃ©nt kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡st gyakorol. Az uralkodÃ³ tag 98 379 szavazattal rendelkezik az ellenÅ‘rzÃ¶tt tÃ¡rsasÃ¡gban.<ujsor/>
+Azok a hitelezÅ‘k, akiknek az ellenÅ‘rzÃ¶tt tÃ¡rsasÃ¡ggal szembeni, le nem jÃ¡rt kÃ¶vetelÃ©sei a befolyÃ¡s kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, a kÃ¶zzÃ©tÃ©tel utÃ¡ni 90 napos jogvesztÅ‘ hatÃ¡ridÅ‘n belÃ¼l kÃ¶vetelÃ©seik erejÃ©ig biztosÃ­tÃ©kot kÃ¶vetelhetnek az uralkodÃ³ tagtÃ³l.*<ujsor/>
+* A tÃ¡rsasÃ¡g a hirdetmÃ©nyt az IM figyelmeztetÃ©se ellenÃ©re jelenteti meg, mert az 1997. Ã©vi CXLIV. tv. hatÃ¡lybalÃ©pÃ©se elÅ‘tt keletkezett befolyÃ¡sszerzÃ©s esetÃ©n kÃ¶zzÃ©tÃ©teli kÃ¶telezettsÃ©g nem Ã¡ll fenn. A bejelentÃ©si kÃ¶telezettsÃ©gre a CÃ©gtÃ¶rvÃ©ny 62. Â§-a irÃ¡nyadÃ³.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110041200</mezo>
-<mezo id = "nev">ÁPISZ Kereskedelmi Részvénytársaság</mezo>
+<mezo id = "nev">ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az ÁPISZ Kereskedelmi Részvénytársaság a Gazdasági társaságokról szóló 1997. évi CXLIV. törvény 292. § (1) bekezdése alapján fennálló kötelezettségének eleget téve közzéteszi, hogy a Pacific East Ingatlanhasznosító és Befektetõ Rt. (székhelye: 2030 Érd, Fuvaros u. 131.; cégjegyzékszáma: [13 10 040673]) az ÁPISZ Kereskedelmi Részvénytársaságban (székhelye: 1075 Budapest, Wesselényi u. 6.; cégjegyzékszáma: [01 10 041200]) 2001. február 26-án 99,82%-os szavazati arányának megfelelõ közvetlen irányítást biztosító befolyást szerzett. Az ÁPISZ Rt. alaptõkéje: 1 250 000 000 Ft.<ujsor/>
-A hitelezõk a Gt. 296. § (2) bekezdésében foglalt jogaikat gyakorolhatják.<ujsor/>
+<mezo id = "szoveg">Az ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g a GazdasÃ¡gi tÃ¡rsasÃ¡gokrÃ³l szÃ³lÃ³ 1997. Ã©vi CXLIV. tÃ¶rvÃ©ny 292. Â§ (1) bekezdÃ©se alapjÃ¡n fennÃ¡llÃ³ kÃ¶telezettsÃ©gÃ©nek eleget tÃ©ve kÃ¶zzÃ©teszi, hogy a Pacific East IngatlanhasznosÃ­tÃ³ Ã©s BefektetÅ‘ Rt. (szÃ©khelye: 2030 Ã‰rd, Fuvaros u. 131.; cÃ©gjegyzÃ©kszÃ¡ma: [13 10 040673]) az ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡gban (szÃ©khelye: 1075 Budapest, WesselÃ©nyi u. 6.; cÃ©gjegyzÃ©kszÃ¡ma: [01 10 041200]) 2001. februÃ¡r 26-Ã¡n 99,82%-os szavazati arÃ¡nyÃ¡nak megfelelÅ‘ kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡st szerzett. Az ÃPISZ Rt. alaptÅ‘kÃ©je: 1 250 000 000 Ft.<ujsor/>
+A hitelezÅ‘k a Gt. 296. Â§ (2) bekezdÃ©sÃ©ben foglalt jogaikat gyakorolhatjÃ¡k.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110041200</mezo>
-<mezo id = "nev">ÁPISZ Kereskedelmi Részvénytársaság</mezo>
+<mezo id = "nev">ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A befolyást szerzõ:<ujsor/>
-Név: Pacific Corporation UK Limited.<ujsor/>
-Székhely: Reliance House, 6. Theobald Street, Borehamwood, Hearts WD6 4SE.<ujsor/>
-Az ellenõrzött gazdasági társaság neve: ÁPISZ Kereskedelmi Részvénytársaság.<ujsor/>
-Székhely: 1135 Budapest, Béke u. 2-4.<ujsor/>
-Cégjegyzékszáma: [01 10 041200].<ujsor/>
-Törzstõkéje: 1 250 000 000 Ft.<ujsor/>
-A befolyásszerzés idõpontja: 2001. július 15.<ujsor/>
-A befolyás mértéke: 99,8936%, azaz közvetlen irányítást biztosító befolyás.<ujsor/>
-A hitelezõk a Gt. 296. § (2) bekezdése szerinti jogaikat gyakorolhatják.<ujsor/>
+<mezo id = "szoveg">A befolyÃ¡st szerzÅ‘:<ujsor/>
+NÃ©v: Pacific Corporation UK Limited.<ujsor/>
+SzÃ©khely: Reliance House, 6. Theobald Street, Borehamwood, Hearts WD6 4SE.<ujsor/>
+Az ellenÅ‘rzÃ¶tt gazdasÃ¡gi tÃ¡rsasÃ¡g neve: ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khely: 1135 Budapest, BÃ©ke u. 2-4.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡ma: [01 10 041200].<ujsor/>
+TÃ¶rzstÅ‘kÃ©je: 1 250 000 000 Ft.<ujsor/>
+A befolyÃ¡sszerzÃ©s idÅ‘pontja: 2001. jÃºlius 15.<ujsor/>
+A befolyÃ¡s mÃ©rtÃ©ke: 99,8936%, azaz kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡s.<ujsor/>
+A hitelezÅ‘k a Gt. 296. Â§ (2) bekezdÃ©se szerinti jogaikat gyakorolhatjÃ¡k.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110041200</mezo>
-<mezo id = "nev">ÁPISZ Kereskedelmi Részvénytársaság</mezo>
+<mezo id = "nev">ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Pacific East Ingatlanhasznosító és Befektetõ Részvénytársaság (2030 Érd, Fuvaros u. 131.; Cg.: [13 10 040673]) és az ÁPISZ Kereskedelmi Részvénytársaság (1135 Budapest, Béke u. 2-4.; Cg.: [01 10 041200])<ujsor/>
-egyesül<ujsor/>
-oly módon, hogy a Pacific East Ingatlanhasznosító és Befektetõ Részvénytársaság beolvad az ÁPISZ Kereskedelmi Részvénytársaságba.<ujsor/>
-Az átalakulás módja: beolvadás.<ujsor/>
-Az átalakuló társaságok vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-Pacific East Ingatlanhasznosító és Befektetõ Részvénytársaság:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 278 533 Saját tõke 23 265<ujsor/>
-Forgóeszközök 952 758 Jegyzett tõke 100 000<ujsor/>
-  Kötelezettségek 1 185 398<ujsor/>
-ÖSSZESEN: 1 257 140 ÖSSZESEN: 1 257 140<ujsor/>
-ÁPISZ Kereskedelmi Részvénytársaság:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 379 291 Saját tõke 112 404<ujsor/>
-Forgóeszközök 175 623 Jegyzett tõke 1 250 000<ujsor/>
-  Kötelezettségek 426 314<ujsor/>
-ÖSSZESEN: 554 974 ÖSSZESEN: 554 974<ujsor/>
-A létrejövõ társaság (ÁPISZ Kereskedelmi Részvénytársaság) vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 657 824 Saját tõke 135 669<ujsor/>
-Forgóeszközök 1 070 764 Jegyzett tõke 105 500<ujsor/>
-  Készpénz 20 286<ujsor/>
+<mezo id = "szoveg">A Pacific East IngatlanhasznosÃ­tÃ³ Ã©s BefektetÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (2030 Ã‰rd, Fuvaros u. 131.; Cg.: [13 10 040673]) Ã©s az ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g (1135 Budapest, BÃ©ke u. 2-4.; Cg.: [01 10 041200])<ujsor/>
+egyesÃ¼l<ujsor/>
+oly mÃ³don, hogy a Pacific East IngatlanhasznosÃ­tÃ³ Ã©s BefektetÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g beolvad az ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡gba.<ujsor/>
+Az Ã¡talakulÃ¡s mÃ³dja: beolvadÃ¡s.<ujsor/>
+Az Ã¡talakulÃ³ tÃ¡rsasÃ¡gok vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+Pacific East IngatlanhasznosÃ­tÃ³ Ã©s BefektetÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 278 533 SajÃ¡t tÅ‘ke 23 265<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 952 758 Jegyzett tÅ‘ke 100 000<ujsor/>
+  KÃ¶telezettsÃ©gek 1 185 398<ujsor/>
+Ã–SSZESEN: 1 257 140 Ã–SSZESEN: 1 257 140<ujsor/>
+ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 379 291 SajÃ¡t tÅ‘ke 112 404<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 175 623 Jegyzett tÅ‘ke 1 250 000<ujsor/>
+  KÃ¶telezettsÃ©gek 426 314<ujsor/>
+Ã–SSZESEN: 554 974 Ã–SSZESEN: 554 974<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g (ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 657 824 SajÃ¡t tÅ‘ke 135 669<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 1 070 764 Jegyzett tÅ‘ke 105 500<ujsor/>
+  KÃ©szpÃ©nz 20 286<ujsor/>
   Apport 85 214<ujsor/>
-  Kötelezettségek 1 554 095<ujsor/>
-ÖSSZESEN: 1 754 497 ÖSSZESEN: 1 754 497<ujsor/>
-A létrejövõ társaság adatai:<ujsor/>
-Név: ÁPISZ Kereskedelmi Rt.<ujsor/>
-Rövidített név: ÁPISZ Rt.<ujsor/>
-A társaság forma: részvénytársaság.<ujsor/>
-Székhely: 1135 Budapest, Béke u. 2-4.<ujsor/>
-Az alapító okirat elfogadásának napja: 2001. szeptember 17.<ujsor/>
-A társaság alaptõkéje: 105 500 000 Ft.<ujsor/>
-Az alaptõkét megtestesítõ részvények:<ujsor/>
-1. Névre szóló, A sorozatú, 10 000 000 Ft névértékû.<ujsor/>
-2. Névre szóló, B sorozatú, 1 000 000 Ft névértékû.<ujsor/>
-3. Névre szóló, C sorozatú, 100 000 Ft névértékû.<ujsor/>
-4. Névre szóló, D sorozatú, 100 Ft névértékû.<ujsor/>
-A társaság vezetõi: dr. Szabó Pál igazgatósági tag (a. n.: Frei Rozália; 1121 Budapest, Istenhegyi út 66.), Orbán Mária igazgatósági tag (a. n.: Balla Mária; 1144 Budapest, Bezerédi köz 5.), Antalóczy Zoltán igazgatósági tag (a. n.: Opre Johanna; 1165 Budapest, Futórózsa u. 58.).<ujsor/>
-A felügyelõbizottság tagjai: Varga Sándor (a. n.: Marton Ilona; 1142 Budapest, Rózsa u. 57. III. 9.), Bartha István (a. n.: Gnándt Margit; 1142 Budapest, Árpád út 167.), Major Árpád alkalmazott (a. n.: Radics Erzsébet; 1163 Budapest, Színjátszó u. 49.).<ujsor/>
-A társaság tevékenységi körei:<ujsor/>
-Fõ tevékenység: 5247 Könyv-, újság-, papíráru-kiskereskedelem.<ujsor/>
-Egyéb tevékenységi körök: 5118 Máshova nem sorolt termék ügynöki nagykereskedelme; 5147 Egyéb fogyasztási cikk nagykereskedelme; 5164 Irodagép, -berendezés nagykereskedelme; 5170 Egyéb nagykereskedelem; 5212 Iparcikk jellegû vegyes kiskereskedelem; 5243 Lábbeli-, bõráru-kiskereskedelem; 5248 Egyéb, máshova nem sorolt iparcikk-kiskereskedelem; 5274 Egyéb fogyasztási cikk javítása; 5144 Porcelán-, üvegáru-, tapéta-, tisztítószer-nagykereskedelem; 5261 Csomagküldõ kiskereskedelem; 5263 Egyéb nem bolti kiskereskedelem; 7011 Ingatlanberuházás, -eladás; 7012 Ingatlanforgalmazás; 7020 Ingatlan bérbeadása, üzemeltetése; 7031 Ingatlanügynöki tevékenység; 7032 Ingatlankezelés; 7133 Irodagép, számítógép kölcsönzése.<ujsor/>
-Felhívjuk a hitelezõk figyelmét, hogy a Gt. 66. §-a szerinti jogaikkal élhetnek.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+  KÃ¶telezettsÃ©gek 1 554 095<ujsor/>
+Ã–SSZESEN: 1 754 497 Ã–SSZESEN: 1 754 497<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g adatai:<ujsor/>
+NÃ©v: ÃPISZ Kereskedelmi Rt.<ujsor/>
+RÃ¶vidÃ­tett nÃ©v: ÃPISZ Rt.<ujsor/>
+A tÃ¡rsasÃ¡g forma: rÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khely: 1135 Budapest, BÃ©ke u. 2-4.<ujsor/>
+Az alapÃ­tÃ³ okirat elfogadÃ¡sÃ¡nak napja: 2001. szeptember 17.<ujsor/>
+A tÃ¡rsasÃ¡g alaptÅ‘kÃ©je: 105 500 000 Ft.<ujsor/>
+Az alaptÅ‘kÃ©t megtestesÃ­tÅ‘ rÃ©szvÃ©nyek:<ujsor/>
+1. NÃ©vre szÃ³lÃ³, A sorozatÃº, 10 000 000 Ft nÃ©vÃ©rtÃ©kÅ±.<ujsor/>
+2. NÃ©vre szÃ³lÃ³, B sorozatÃº, 1 000 000 Ft nÃ©vÃ©rtÃ©kÅ±.<ujsor/>
+3. NÃ©vre szÃ³lÃ³, C sorozatÃº, 100 000 Ft nÃ©vÃ©rtÃ©kÅ±.<ujsor/>
+4. NÃ©vre szÃ³lÃ³, D sorozatÃº, 100 Ft nÃ©vÃ©rtÃ©kÅ±.<ujsor/>
+A tÃ¡rsasÃ¡g vezetÅ‘i: dr. SzabÃ³ PÃ¡l igazgatÃ³sÃ¡gi tag (a. n.: Frei RozÃ¡lia; 1121 Budapest, Istenhegyi Ãºt 66.), OrbÃ¡n MÃ¡ria igazgatÃ³sÃ¡gi tag (a. n.: Balla MÃ¡ria; 1144 Budapest, BezerÃ©di kÃ¶z 5.), AntalÃ³czy ZoltÃ¡n igazgatÃ³sÃ¡gi tag (a. n.: Opre Johanna; 1165 Budapest, FutÃ³rÃ³zsa u. 58.).<ujsor/>
+A felÃ¼gyelÅ‘bizottsÃ¡g tagjai: Varga SÃ¡ndor (a. n.: Marton Ilona; 1142 Budapest, RÃ³zsa u. 57. III. 9.), Bartha IstvÃ¡n (a. n.: GnÃ¡ndt Margit; 1142 Budapest, ÃrpÃ¡d Ãºt 167.), Major ÃrpÃ¡d alkalmazott (a. n.: Radics ErzsÃ©bet; 1163 Budapest, SzÃ­njÃ¡tszÃ³ u. 49.).<ujsor/>
+A tÃ¡rsasÃ¡g tevÃ©kenysÃ©gi kÃ¶rei:<ujsor/>
+FÅ‘ tevÃ©kenysÃ©g: 5247 KÃ¶nyv-, ÃºjsÃ¡g-, papÃ­rÃ¡ru-kiskereskedelem.<ujsor/>
+EgyÃ©b tevÃ©kenysÃ©gi kÃ¶rÃ¶k: 5118 MÃ¡shova nem sorolt termÃ©k Ã¼gynÃ¶ki nagykereskedelme; 5147 EgyÃ©b fogyasztÃ¡si cikk nagykereskedelme; 5164 IrodagÃ©p, -berendezÃ©s nagykereskedelme; 5170 EgyÃ©b nagykereskedelem; 5212 Iparcikk jellegÅ± vegyes kiskereskedelem; 5243 LÃ¡bbeli-, bÅ‘rÃ¡ru-kiskereskedelem; 5248 EgyÃ©b, mÃ¡shova nem sorolt iparcikk-kiskereskedelem; 5274 EgyÃ©b fogyasztÃ¡si cikk javÃ­tÃ¡sa; 5144 PorcelÃ¡n-, Ã¼vegÃ¡ru-, tapÃ©ta-, tisztÃ­tÃ³szer-nagykereskedelem; 5261 CsomagkÃ¼ldÅ‘ kiskereskedelem; 5263 EgyÃ©b nem bolti kiskereskedelem; 7011 IngatlanberuhÃ¡zÃ¡s, -eladÃ¡s; 7012 IngatlanforgalmazÃ¡s; 7020 Ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se; 7031 IngatlanÃ¼gynÃ¶ki tevÃ©kenysÃ©g; 7032 IngatlankezelÃ©s; 7133 IrodagÃ©p, szÃ¡mÃ­tÃ³gÃ©p kÃ¶lcsÃ¶nzÃ©se.<ujsor/>
+FelhÃ­vjuk a hitelezÅ‘k figyelmÃ©t, hogy a Gt. 66. Â§-a szerinti jogaikkal Ã©lhetnek.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110041200</mezo>
-<mezo id = "nev">ÁPISZ Kereskedelmi Részvénytársaság</mezo>
+<mezo id = "nev">ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Pacific East Ingatlanhasznosító és Befektetõ Részvénytársaság (2030 Érd, Fuvaros u. 131.; Cg.: [13 10 040673]) és az ÁPISZ Kereskedelmi Részvénytársaság (1135 Budapest, Béke u. 2-4.; Cg.: [01 10 041200])<ujsor/>
-egyesül<ujsor/>
-oly módon, hogy a Pacific East Ingatlanhasznosító és Befektetõ Részvénytársaság beolvad az ÁPISZ Kereskedelmi Részvénytársaságba.<ujsor/>
-Az átalakulás módja: beolvadás.<ujsor/>
-Az átalakuló társaságok vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-Pacific East Ingatlanhasznosító és Befektetõ Részvénytársaság:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 278 533 Saját tõke 23 265<ujsor/>
-Forgóeszközök 952 758 Jegyzett tõke 100 000<ujsor/>
-  Kötelezettségek 1 185 398<ujsor/>
-ÖSSZESEN: 1 257 140 ÖSSZESEN: 1 257 140<ujsor/>
-ÁPISZ Kereskedelmi Részvénytársaság:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 379 291 Saját tõke 112 404<ujsor/>
-Forgóeszközök 175 623 Jegyzett tõke 1 250 000<ujsor/>
-  Kötelezettségek 426 314<ujsor/>
-ÖSSZESEN: 554 974 ÖSSZESEN: 554 974<ujsor/>
-A létrejövõ társaság (ÁPISZ Kereskedelmi Részvénytársaság) vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 657 824 Saját tõke 135 669<ujsor/>
-Forgóeszközök 1 070 764 Jegyzett tõke 105 500<ujsor/>
-  Készpénz 20 286<ujsor/>
+<mezo id = "szoveg">A Pacific East IngatlanhasznosÃ­tÃ³ Ã©s BefektetÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (2030 Ã‰rd, Fuvaros u. 131.; Cg.: [13 10 040673]) Ã©s az ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g (1135 Budapest, BÃ©ke u. 2-4.; Cg.: [01 10 041200])<ujsor/>
+egyesÃ¼l<ujsor/>
+oly mÃ³don, hogy a Pacific East IngatlanhasznosÃ­tÃ³ Ã©s BefektetÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g beolvad az ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡gba.<ujsor/>
+Az Ã¡talakulÃ¡s mÃ³dja: beolvadÃ¡s.<ujsor/>
+Az Ã¡talakulÃ³ tÃ¡rsasÃ¡gok vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+Pacific East IngatlanhasznosÃ­tÃ³ Ã©s BefektetÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 278 533 SajÃ¡t tÅ‘ke 23 265<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 952 758 Jegyzett tÅ‘ke 100 000<ujsor/>
+  KÃ¶telezettsÃ©gek 1 185 398<ujsor/>
+Ã–SSZESEN: 1 257 140 Ã–SSZESEN: 1 257 140<ujsor/>
+ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 379 291 SajÃ¡t tÅ‘ke 112 404<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 175 623 Jegyzett tÅ‘ke 1 250 000<ujsor/>
+  KÃ¶telezettsÃ©gek 426 314<ujsor/>
+Ã–SSZESEN: 554 974 Ã–SSZESEN: 554 974<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g (ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 657 824 SajÃ¡t tÅ‘ke 135 669<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 1 070 764 Jegyzett tÅ‘ke 105 500<ujsor/>
+  KÃ©szpÃ©nz 20 286<ujsor/>
   Apport 85 214<ujsor/>
-  Kötelezettségek 1 554 095<ujsor/>
-ÖSSZESEN: 1 754 497 ÖSSZESEN: 1 754 497<ujsor/>
-A létrejövõ társaság adatai:<ujsor/>
-Név: ÁPISZ Kereskedelmi Rt.<ujsor/>
-Rövidített név: ÁPISZ Rt.<ujsor/>
-A társaság forma: részvénytársaság.<ujsor/>
-Székhely: 1135 Budapest, Béke u. 2-4.<ujsor/>
-Az alapító okirat elfogadásának napja: 2001. szeptember 17.<ujsor/>
-A társaság alaptõkéje: 105 500 000 Ft.<ujsor/>
-Az alaptõkét megtestesítõ részvények:<ujsor/>
-1. Névre szóló, A sorozatú, 10 000 000 Ft névértékû.<ujsor/>
-2. Névre szóló, B sorozatú, 1 000 000 Ft névértékû.<ujsor/>
-3. Névre szóló, C sorozatú, 100 000 Ft névértékû.<ujsor/>
-4. Névre szóló, D sorozatú, 100 Ft névértékû.<ujsor/>
-A társaság vezetõi: dr. Szabó Pál igazgatósági tag (a. n.: Frei Rozália; 1121 Budapest, Istenhegyi út 66.), Orbán Mária igazgatósági tag (a. n.: Balla Mária; 1144 Budapest, Bezerédi köz 5.), Antalóczy Zoltán igazgatósági tag (a. n.: Opre Johanna; 1165 Budapest, Futórózsa u. 58.).<ujsor/>
-A felügyelõbizottság tagjai: Varga Sándor (a. n.: Marton Ilona; 1142 Budapest, Rózsa u. 57. III. 9.), Bartha István (a. n.: Gnándt Margit; 1142 Budapest, Árpád út 167.), Major Árpád alkalmazott (a. n.: Radics Erzsébet; 1163 Budapest, Színjátszó u. 49.).<ujsor/>
-A társaság tevékenységi körei:<ujsor/>
-Fõ tevékenység: 5247 Könyv-, újság-, papíráru-kiskereskedelem.<ujsor/>
-Egyéb tevékenységi körök: 5118 Máshova nem sorolt termék ügynöki nagykereskedelme; 5147 Egyéb fogyasztási cikk nagykereskedelme; 5164 Irodagép, -berendezés nagykereskedelme; 5170 Egyéb nagykereskedelem; 5212 Iparcikk jellegû vegyes kiskereskedelem; 5243 Lábbeli-, bõráru-kiskereskedelem; 5248 Egyéb, máshova nem sorolt iparcikk-kiskereskedelem; 5274 Egyéb fogyasztási cikk javítása; 5144 Porcelán-, üvegáru-, tapéta-, tisztítószer-nagykereskedelem; 5261 Csomagküldõ kiskereskedelem; 5263 Egyéb nem bolti kiskereskedelem; 7011 Ingatlanberuházás, -eladás; 7012 Ingatlanforgalmazás; 7020 Ingatlan bérbeadása, üzemeltetése; 7031 Ingatlanügynöki tevékenység; 7032 Ingatlankezelés; 7133 Irodagép, számítógép kölcsönzése.<ujsor/>
-Felhívjuk a hitelezõk figyelmét, hogy a Gt. 66. §-a szerinti jogaikkal élhetnek.<ujsor/>
-(Második közzététel.)<ujsor/>
+  KÃ¶telezettsÃ©gek 1 554 095<ujsor/>
+Ã–SSZESEN: 1 754 497 Ã–SSZESEN: 1 754 497<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g adatai:<ujsor/>
+NÃ©v: ÃPISZ Kereskedelmi Rt.<ujsor/>
+RÃ¶vidÃ­tett nÃ©v: ÃPISZ Rt.<ujsor/>
+A tÃ¡rsasÃ¡g forma: rÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khely: 1135 Budapest, BÃ©ke u. 2-4.<ujsor/>
+Az alapÃ­tÃ³ okirat elfogadÃ¡sÃ¡nak napja: 2001. szeptember 17.<ujsor/>
+A tÃ¡rsasÃ¡g alaptÅ‘kÃ©je: 105 500 000 Ft.<ujsor/>
+Az alaptÅ‘kÃ©t megtestesÃ­tÅ‘ rÃ©szvÃ©nyek:<ujsor/>
+1. NÃ©vre szÃ³lÃ³, A sorozatÃº, 10 000 000 Ft nÃ©vÃ©rtÃ©kÅ±.<ujsor/>
+2. NÃ©vre szÃ³lÃ³, B sorozatÃº, 1 000 000 Ft nÃ©vÃ©rtÃ©kÅ±.<ujsor/>
+3. NÃ©vre szÃ³lÃ³, C sorozatÃº, 100 000 Ft nÃ©vÃ©rtÃ©kÅ±.<ujsor/>
+4. NÃ©vre szÃ³lÃ³, D sorozatÃº, 100 Ft nÃ©vÃ©rtÃ©kÅ±.<ujsor/>
+A tÃ¡rsasÃ¡g vezetÅ‘i: dr. SzabÃ³ PÃ¡l igazgatÃ³sÃ¡gi tag (a. n.: Frei RozÃ¡lia; 1121 Budapest, Istenhegyi Ãºt 66.), OrbÃ¡n MÃ¡ria igazgatÃ³sÃ¡gi tag (a. n.: Balla MÃ¡ria; 1144 Budapest, BezerÃ©di kÃ¶z 5.), AntalÃ³czy ZoltÃ¡n igazgatÃ³sÃ¡gi tag (a. n.: Opre Johanna; 1165 Budapest, FutÃ³rÃ³zsa u. 58.).<ujsor/>
+A felÃ¼gyelÅ‘bizottsÃ¡g tagjai: Varga SÃ¡ndor (a. n.: Marton Ilona; 1142 Budapest, RÃ³zsa u. 57. III. 9.), Bartha IstvÃ¡n (a. n.: GnÃ¡ndt Margit; 1142 Budapest, ÃrpÃ¡d Ãºt 167.), Major ÃrpÃ¡d alkalmazott (a. n.: Radics ErzsÃ©bet; 1163 Budapest, SzÃ­njÃ¡tszÃ³ u. 49.).<ujsor/>
+A tÃ¡rsasÃ¡g tevÃ©kenysÃ©gi kÃ¶rei:<ujsor/>
+FÅ‘ tevÃ©kenysÃ©g: 5247 KÃ¶nyv-, ÃºjsÃ¡g-, papÃ­rÃ¡ru-kiskereskedelem.<ujsor/>
+EgyÃ©b tevÃ©kenysÃ©gi kÃ¶rÃ¶k: 5118 MÃ¡shova nem sorolt termÃ©k Ã¼gynÃ¶ki nagykereskedelme; 5147 EgyÃ©b fogyasztÃ¡si cikk nagykereskedelme; 5164 IrodagÃ©p, -berendezÃ©s nagykereskedelme; 5170 EgyÃ©b nagykereskedelem; 5212 Iparcikk jellegÅ± vegyes kiskereskedelem; 5243 LÃ¡bbeli-, bÅ‘rÃ¡ru-kiskereskedelem; 5248 EgyÃ©b, mÃ¡shova nem sorolt iparcikk-kiskereskedelem; 5274 EgyÃ©b fogyasztÃ¡si cikk javÃ­tÃ¡sa; 5144 PorcelÃ¡n-, Ã¼vegÃ¡ru-, tapÃ©ta-, tisztÃ­tÃ³szer-nagykereskedelem; 5261 CsomagkÃ¼ldÅ‘ kiskereskedelem; 5263 EgyÃ©b nem bolti kiskereskedelem; 7011 IngatlanberuhÃ¡zÃ¡s, -eladÃ¡s; 7012 IngatlanforgalmazÃ¡s; 7020 Ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se; 7031 IngatlanÃ¼gynÃ¶ki tevÃ©kenysÃ©g; 7032 IngatlankezelÃ©s; 7133 IrodagÃ©p, szÃ¡mÃ­tÃ³gÃ©p kÃ¶lcsÃ¶nzÃ©se.<ujsor/>
+FelhÃ­vjuk a hitelezÅ‘k figyelmÃ©t, hogy a Gt. 66. Â§-a szerinti jogaikkal Ã©lhetnek.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110041200</mezo>
-<mezo id = "nev">ÁPISZ Kereskedelmi Részvénytársaság</mezo>
+<mezo id = "nev">ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2001. 10. 09-én hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-5(10). Részvényfajta: törzsrészvény.<ujsor/>
-Sorozatszám: B.<ujsor/>
- Tíz darab tízmillió Ft.<ujsor/>
- Törölve: 2001. 10. 09-i hatállyal.<ujsor/>
- Részvényfajta: törzsrészvény.<ujsor/>
-Sorozatszám: A.<ujsor/>
- Tíz darab tízmillió Ft.<ujsor/>
- Hatályos: 2001. 10. 09-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2001. 10. 09-Ã©n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+5(10). RÃ©szvÃ©nyfajta: tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+SorozatszÃ¡m: B.<ujsor/>
+ TÃ­z darab tÃ­zmilliÃ³ Ft.<ujsor/>
+ TÃ¶rÃ¶lve: 2001. 10. 09-i hatÃ¡llyal.<ujsor/>
+ RÃ©szvÃ©nyfajta: tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+SorozatszÃ¡m: A.<ujsor/>
+ TÃ­z darab tÃ­zmilliÃ³ Ft.<ujsor/>
+ HatÃ¡lyos: 2001. 10. 09-tÅ‘l.<ujsor/>
 Bejegyezve: 2002. 02. 01.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110041200</mezo>
-<mezo id = "nev">ÁPISZ Kereskedelmi Részvénytársaság</mezo>
-<mezo id = "cim">1135 Budapest, Béke út 2-4.</mezo>
+<mezo id = "nev">ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1135 Budapest, BÃ©ke Ãºt 2-4.</mezo>
 <mezo id = "adosz">10244043241</mezo>
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az ÁPISZ Kereskedelmi Részvénytársaság (Cg.: [01 10 041200]; 1135 Budapest, Béke út 2-4.)<ujsor/>
-szétválik<ujsor/>
-oly módon, hogy az ÁPISZ Kereskedelmi Részvénytársaságból kiválik a Royal Investment Befektetõ és Ingatlanhasznosító Korlátolt Felelõsségû Társaság.<ujsor/>
-Az átalakulás módja: kiválás.<ujsor/>
-Az átalakuló társaság (ÁPISZ Kereskedelmi Részvénytársaság) vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 1 524 624 Saját tõke 1 282 129<ujsor/>
-Forgóeszközök 786 717 Jegyzett tõke 105 500<ujsor/>
-  Kötelezettségek 942 707<ujsor/>
-ÖSSZESEN: 2 320 785 ÖSSZESEN: 2 320 785<ujsor/>
-A fennmaradó társaság (ÁPISZ Kereskedelmi Részvénytársaság) vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 55 574 Saját tõke 262 692<ujsor/>
-Forgóeszközök 410 835 Jegyzett tõke 21 600<ujsor/>
-  Kötelezettségek 176 895<ujsor/>
-ÖSSZESEN: 475 497 ÖSSZESEN: 475 497<ujsor/>
-A kiválással létrejövõ társaság (Royal Investment Befektetõ és Ingatlanhasznosító Korlátolt Felelõsségû Társaság) vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 1 469 050 Saját tõke 1 019 437<ujsor/>
-Forgóeszközök 375 882 Jegyzett tõke* 83 900<ujsor/>
-  Kötelezettségek 765 812<ujsor/>
-ÖSSZESEN: 1 845 288 ÖSSZESEN: 1 845 288<ujsor/>
-* Ebbõl pénzbeli hozzájárulás: 1000 Ft, nem pénzbeli hozzájárulás: 83 899 000 Ft.<ujsor/>
-A jogok és kötelezettségek megoszlására vonatkozó megállapodás fontosabb rendelkezései:<ujsor/>
-Az ÁPISZ Rt. tulajdonosai a 2002. december 28-án megtartott közgyûlésen határoztak az ÁPISZ Rt. ingatlan és papír-írószer üzletágának szétválasztásáról. Az üzletágak szétválasztása az ingatlan üzletág kiválása útján történik. Ennek megfelelõen a társasági vagyon felosztásának elve a két üzletághoz kapcsolódó eszközök és források, jogok és kötelezettségek üzletági tevékenységhez igazodó szétválasztása.<ujsor/>
-A fentiekben leírt elvek szerint az ingatlan üzletághoz kapcsolódó jogok és kötelezettségek a kiválás útján létrejövõ társaságot illetik meg és terhelik. Az ingatlan üzletághoz nem kapcsolható tevékenységekhez fûzõdõ jogok és kötelezettségek a szétválás utám maradó ÁPISZ Rt.-t illetik meg és terhelik.<ujsor/>
-A fennmaradó társaság adatai:<ujsor/>
-Név: ÁPISZ Kereskedelmi Részvénytársaság.<ujsor/>
-Rövidített név: ÁPISZ Rt.<ujsor/>
-Társasági forma: részvénytársaság.<ujsor/>
-Székhely: 1135 Budapest, Béke u. 2-4.<ujsor/>
-Alapító okirat elfogadásának napja: 2003. május 5.<ujsor/>
-Az alaptõkét megtestesítõ részvények:<ujsor/>
-1. Névre szóló, A sorozatú, 10 000 000 Ft névértékû törzsrészvény.<ujsor/>
-2. Névre szóló, B sorozatú, 1 000 000 Ft névértékû törzsrészvény.<ujsor/>
-3. Névre szóló, C sorozatú, 100 000 Ft névértékû törzsrészvény.<ujsor/>
-4. Névre szóló, D sorozatú, 100 Ft névértékû törzsrészvény.<ujsor/>
-A társaság vezetõ tisztségviselõi: Bodrogváryné dr. Kádár Ilona elnök-vezérigazgató (1025 Budapest, Verecke út 34.), Kiss Mihály igazgatósági tag (1225 Budapest, Campona u. 1.), Berta Oleg Zsolt igazgatósági tag (8600 Siófok, Koch R. u. 20/B).<ujsor/>
-A társaság felügyelõbizottságának tagjai: Varga Sándor (1042 Budapest, Rózsa u. 57. III. 9.), Bartha István (1042 Budapest, Árpád út 167.), Orbán Mária (1044 Budapest, Bezerédi köz 5.).<ujsor/>
-A társaság tevékenységi köre (TEÁOR &apos;03):<ujsor/>
-Fõ tevékenység: 5247 Könyv-, újság-, papíráru-kiskereskedelem.<ujsor/>
-Egyéb tevékenységi körök: 5118 Máshova nem sorolt termék ügynöki nagykereskedelme; 5144 Porcelán-, üvegáru-, tapéta-, tisztítószer-nagykereskedelem; 5147 Egyéb fogyasztási cikk nagykereskedelme; 5184 Számítógép, szoftver nagykereskedelme; 5185 Egyéb irodagép, -bútor nagykereskedelme; 5190 Egyéb nagykereskedelem; 5212 Iparcikk jellegû vegyes kiskereskedelem; 5243 Lábbeli-, bõráru-kiskereskedelem; 5245 Elektromos háztartási cikk kiskereskedelme; 5248 Egyéb, máshová nem sorolt iparcikk-kiskereskedelem; 5261 Csomagküldõ kiskereskedelem; 5263 Egyéb, nem bolti kiskereskedelem; 5274 Egyéb fogyasztási cikk javítása; 7011 Ingatlanberuházás, -eladás; 7012 Ingatlanforgalmazás; 7020 Ingatlan bérbeadása, üzemeltetése; 7031 Ingatlanügynöki tevékenység; 7032 Ingatlankezelés; 7110 Gépkocsikölcsönzés; 7133 Irodagép, számítógép kölcsönzése; 7412 Számviteli, adószakértõi tevékenység.<ujsor/>
-A kiválással létrejövõ társaság adatai:<ujsor/>
-Név: Royal Investment Befektetõ és Ingatlanhasznosító Korlátolt Felelõsségû Társaság.<ujsor/>
-Rövidített név: Royal Investment Kft.<ujsor/>
-Társasági forma: korlátolt felelõsségû társaság.<ujsor/>
-Székhely: 1135 Budapest, Béke u. 2-4.<ujsor/>
-Az alapító okirat elfogadásának napja: 2003. május 5.<ujsor/>
-A társaság vezetõ tisztségviselõje: Berta Oleg Zsolt ügyvezetõ (8600 Siófok, Koch R. u. 20/B).<ujsor/>
-A társaság tevékenységi körei (TEÁOR &apos;03):<ujsor/>
-Fõ tevékenység: 7012 Ingatlanforgalmazás.<ujsor/>
-Egyéb tevékenységi körök: 3220 Ipari híradástechnikai termék gyártása; 3230 Híradás-technikai fogyasztási cikk gyártása; 5114 Gép, hajó, repülõgép ügynöki nagykereskedelme; 5115 Bútor, háztartási áru, vasáru ügynöki nagykereskedelme; 5118 Máshova nem sorolt termék ügynöki nagykereskedelme; 5139 Élelmiszer, ital, dohányáru vegyes nagykereskedelme; 5141 Textil-nagykereskedelem; 5143 Elektromos háztartási cikk nagykereskedelme; 5147 Egyéb fogyasztási cikk nagykereskedelme; 5153 Fa-, építõanyag-, szaniteráru-nagykereskedelem; 5181 Szerszámgép-nagykereskedelem; 5184 Számítógép, szoftver nagykereskedelme; 5185 Egyéb irodagép, -bútor nagykereskedelme; 5190 Egyéb nagykereskedelem; 5211 Élelmiszer jellegû vegyes kiskereskedelem; 5212 Iparcikk jellegû vegyes kiskereskedelem; 5227 Egyéb élelmiszer-kiskereskedelem; 5241 Textil-kiskereskedelem; 5242 Ruházati kiskereskedelem; 5244 Bútor-, háztartásicikk-kiskereskedelem; 5245 Elektromos háztartási cikk kiskereskedelme; 5246 Vasáru-, festék-, üveg-kiskereskedelem; 5247 Könyv-, újság-, papíráru-kiskereskedelem; 5248 Egyéb, máshová nem sorolt iparcikk-kiskereskedelem; 5262 Piaci kiskereskedelem; 5263 Egyéb, nem bolti kiskereskedelem; 5272 Elektromos háztartási cikk javítása; 5274 Egyéb fogyasztási cikk javítása; 7011 Ingatlanberuházás, -eladás; 7020 Ingatlan bérbeadása, üzemeltetése; 7031 Ingatlanügynöki tevékenység; 7032 Ingatlankezelés; 7110 Gépkocsikölcsönzés; 7133 Irodagép, számítógép kölcsönzése; 7140 Fogyasztási cikk kölcsönzése; 7210 Hardver-szaktanácsadás; 7221 Szoftverkiadás; 7222 Egyéb szoftver-szaktanácsadás, -ellátás; 7260 Egyéb számítástechnikai tevékenység; 7414 Üzletviteli tanácsadás; 7415 Vagyonkezelés; 7420 Mérnöki tevékenység, tanácsadás; 7430 Mûszaki vizsgálat, elemzés; 7440 Hirdetés; 7487 Máshová nem sorolt, egyéb gazdasági szolgáltatás.<ujsor/>
-Felhívjuk a hitelezõk figyelmét, hogy a Gt. 66. § szerinti jogaikkal élhetnek.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">Az ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 041200]; 1135 Budapest, BÃ©ke Ãºt 2-4.)<ujsor/>
+szÃ©tvÃ¡lik<ujsor/>
+oly mÃ³don, hogy az ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡gbÃ³l kivÃ¡lik a Royal Investment BefektetÅ‘ Ã©s IngatlanhasznosÃ­tÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+Az Ã¡talakulÃ¡s mÃ³dja: kivÃ¡lÃ¡s.<ujsor/>
+Az Ã¡talakulÃ³ tÃ¡rsasÃ¡g (ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 1 524 624 SajÃ¡t tÅ‘ke 1 282 129<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 786 717 Jegyzett tÅ‘ke 105 500<ujsor/>
+  KÃ¶telezettsÃ©gek 942 707<ujsor/>
+Ã–SSZESEN: 2 320 785 Ã–SSZESEN: 2 320 785<ujsor/>
+A fennmaradÃ³ tÃ¡rsasÃ¡g (ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 55 574 SajÃ¡t tÅ‘ke 262 692<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 410 835 Jegyzett tÅ‘ke 21 600<ujsor/>
+  KÃ¶telezettsÃ©gek 176 895<ujsor/>
+Ã–SSZESEN: 475 497 Ã–SSZESEN: 475 497<ujsor/>
+A kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g (Royal Investment BefektetÅ‘ Ã©s IngatlanhasznosÃ­tÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 1 469 050 SajÃ¡t tÅ‘ke 1 019 437<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 375 882 Jegyzett tÅ‘ke* 83 900<ujsor/>
+  KÃ¶telezettsÃ©gek 765 812<ujsor/>
+Ã–SSZESEN: 1 845 288 Ã–SSZESEN: 1 845 288<ujsor/>
+* EbbÅ‘l pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s: 1000 Ft, nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s: 83 899 000 Ft.<ujsor/>
+A jogok Ã©s kÃ¶telezettsÃ©gek megoszlÃ¡sÃ¡ra vonatkozÃ³ megÃ¡llapodÃ¡s fontosabb rendelkezÃ©sei:<ujsor/>
+Az ÃPISZ Rt. tulajdonosai a 2002. december 28-Ã¡n megtartott kÃ¶zgyÅ±lÃ©sen hatÃ¡roztak az ÃPISZ Rt. ingatlan Ã©s papÃ­r-Ã­rÃ³szer Ã¼zletÃ¡gÃ¡nak szÃ©tvÃ¡lasztÃ¡sÃ¡rÃ³l. Az Ã¼zletÃ¡gak szÃ©tvÃ¡lasztÃ¡sa az ingatlan Ã¼zletÃ¡g kivÃ¡lÃ¡sa ÃºtjÃ¡n tÃ¶rtÃ©nik. Ennek megfelelÅ‘en a tÃ¡rsasÃ¡gi vagyon felosztÃ¡sÃ¡nak elve a kÃ©t Ã¼zletÃ¡ghoz kapcsolÃ³dÃ³ eszkÃ¶zÃ¶k Ã©s forrÃ¡sok, jogok Ã©s kÃ¶telezettsÃ©gek Ã¼zletÃ¡gi tevÃ©kenysÃ©ghez igazodÃ³ szÃ©tvÃ¡lasztÃ¡sa.<ujsor/>
+A fentiekben leÃ­rt elvek szerint az ingatlan Ã¼zletÃ¡ghoz kapcsolÃ³dÃ³ jogok Ã©s kÃ¶telezettsÃ©gek a kivÃ¡lÃ¡s ÃºtjÃ¡n lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡got illetik meg Ã©s terhelik. Az ingatlan Ã¼zletÃ¡ghoz nem kapcsolhatÃ³ tevÃ©kenysÃ©gekhez fÅ±zÅ‘dÅ‘ jogok Ã©s kÃ¶telezettsÃ©gek a szÃ©tvÃ¡lÃ¡s utÃ¡m maradÃ³ ÃPISZ Rt.-t illetik meg Ã©s terhelik.<ujsor/>
+A fennmaradÃ³ tÃ¡rsasÃ¡g adatai:<ujsor/>
+NÃ©v: ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+RÃ¶vidÃ­tett nÃ©v: ÃPISZ Rt.<ujsor/>
+TÃ¡rsasÃ¡gi forma: rÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khely: 1135 Budapest, BÃ©ke u. 2-4.<ujsor/>
+AlapÃ­tÃ³ okirat elfogadÃ¡sÃ¡nak napja: 2003. mÃ¡jus 5.<ujsor/>
+Az alaptÅ‘kÃ©t megtestesÃ­tÅ‘ rÃ©szvÃ©nyek:<ujsor/>
+1. NÃ©vre szÃ³lÃ³, A sorozatÃº, 10 000 000 Ft nÃ©vÃ©rtÃ©kÅ± tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+2. NÃ©vre szÃ³lÃ³, B sorozatÃº, 1 000 000 Ft nÃ©vÃ©rtÃ©kÅ± tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+3. NÃ©vre szÃ³lÃ³, C sorozatÃº, 100 000 Ft nÃ©vÃ©rtÃ©kÅ± tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+4. NÃ©vre szÃ³lÃ³, D sorozatÃº, 100 Ft nÃ©vÃ©rtÃ©kÅ± tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+A tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘i: BodrogvÃ¡rynÃ© dr. KÃ¡dÃ¡r Ilona elnÃ¶k-vezÃ©rigazgatÃ³ (1025 Budapest, Verecke Ãºt 34.), Kiss MihÃ¡ly igazgatÃ³sÃ¡gi tag (1225 Budapest, Campona u. 1.), Berta Oleg Zsolt igazgatÃ³sÃ¡gi tag (8600 SiÃ³fok, Koch R. u. 20/B).<ujsor/>
+A tÃ¡rsasÃ¡g felÃ¼gyelÅ‘bizottsÃ¡gÃ¡nak tagjai: Varga SÃ¡ndor (1042 Budapest, RÃ³zsa u. 57. III. 9.), Bartha IstvÃ¡n (1042 Budapest, ÃrpÃ¡d Ãºt 167.), OrbÃ¡n MÃ¡ria (1044 Budapest, BezerÃ©di kÃ¶z 5.).<ujsor/>
+A tÃ¡rsasÃ¡g tevÃ©kenysÃ©gi kÃ¶re (TEÃOR &apos;03):<ujsor/>
+FÅ‘ tevÃ©kenysÃ©g: 5247 KÃ¶nyv-, ÃºjsÃ¡g-, papÃ­rÃ¡ru-kiskereskedelem.<ujsor/>
+EgyÃ©b tevÃ©kenysÃ©gi kÃ¶rÃ¶k: 5118 MÃ¡shova nem sorolt termÃ©k Ã¼gynÃ¶ki nagykereskedelme; 5144 PorcelÃ¡n-, Ã¼vegÃ¡ru-, tapÃ©ta-, tisztÃ­tÃ³szer-nagykereskedelem; 5147 EgyÃ©b fogyasztÃ¡si cikk nagykereskedelme; 5184 SzÃ¡mÃ­tÃ³gÃ©p, szoftver nagykereskedelme; 5185 EgyÃ©b irodagÃ©p, -bÃºtor nagykereskedelme; 5190 EgyÃ©b nagykereskedelem; 5212 Iparcikk jellegÅ± vegyes kiskereskedelem; 5243 LÃ¡bbeli-, bÅ‘rÃ¡ru-kiskereskedelem; 5245 Elektromos hÃ¡ztartÃ¡si cikk kiskereskedelme; 5248 EgyÃ©b, mÃ¡shovÃ¡ nem sorolt iparcikk-kiskereskedelem; 5261 CsomagkÃ¼ldÅ‘ kiskereskedelem; 5263 EgyÃ©b, nem bolti kiskereskedelem; 5274 EgyÃ©b fogyasztÃ¡si cikk javÃ­tÃ¡sa; 7011 IngatlanberuhÃ¡zÃ¡s, -eladÃ¡s; 7012 IngatlanforgalmazÃ¡s; 7020 Ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se; 7031 IngatlanÃ¼gynÃ¶ki tevÃ©kenysÃ©g; 7032 IngatlankezelÃ©s; 7110 GÃ©pkocsikÃ¶lcsÃ¶nzÃ©s; 7133 IrodagÃ©p, szÃ¡mÃ­tÃ³gÃ©p kÃ¶lcsÃ¶nzÃ©se; 7412 SzÃ¡mviteli, adÃ³szakÃ©rtÅ‘i tevÃ©kenysÃ©g.<ujsor/>
+A kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g adatai:<ujsor/>
+NÃ©v: Royal Investment BefektetÅ‘ Ã©s IngatlanhasznosÃ­tÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+RÃ¶vidÃ­tett nÃ©v: Royal Investment Kft.<ujsor/>
+TÃ¡rsasÃ¡gi forma: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khely: 1135 Budapest, BÃ©ke u. 2-4.<ujsor/>
+Az alapÃ­tÃ³ okirat elfogadÃ¡sÃ¡nak napja: 2003. mÃ¡jus 5.<ujsor/>
+A tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘je: Berta Oleg Zsolt Ã¼gyvezetÅ‘ (8600 SiÃ³fok, Koch R. u. 20/B).<ujsor/>
+A tÃ¡rsasÃ¡g tevÃ©kenysÃ©gi kÃ¶rei (TEÃOR &apos;03):<ujsor/>
+FÅ‘ tevÃ©kenysÃ©g: 7012 IngatlanforgalmazÃ¡s.<ujsor/>
+EgyÃ©b tevÃ©kenysÃ©gi kÃ¶rÃ¶k: 3220 Ipari hÃ­radÃ¡stechnikai termÃ©k gyÃ¡rtÃ¡sa; 3230 HÃ­radÃ¡s-technikai fogyasztÃ¡si cikk gyÃ¡rtÃ¡sa; 5114 GÃ©p, hajÃ³, repÃ¼lÅ‘gÃ©p Ã¼gynÃ¶ki nagykereskedelme; 5115 BÃºtor, hÃ¡ztartÃ¡si Ã¡ru, vasÃ¡ru Ã¼gynÃ¶ki nagykereskedelme; 5118 MÃ¡shova nem sorolt termÃ©k Ã¼gynÃ¶ki nagykereskedelme; 5139 Ã‰lelmiszer, ital, dohÃ¡nyÃ¡ru vegyes nagykereskedelme; 5141 Textil-nagykereskedelem; 5143 Elektromos hÃ¡ztartÃ¡si cikk nagykereskedelme; 5147 EgyÃ©b fogyasztÃ¡si cikk nagykereskedelme; 5153 Fa-, Ã©pÃ­tÅ‘anyag-, szaniterÃ¡ru-nagykereskedelem; 5181 SzerszÃ¡mgÃ©p-nagykereskedelem; 5184 SzÃ¡mÃ­tÃ³gÃ©p, szoftver nagykereskedelme; 5185 EgyÃ©b irodagÃ©p, -bÃºtor nagykereskedelme; 5190 EgyÃ©b nagykereskedelem; 5211 Ã‰lelmiszer jellegÅ± vegyes kiskereskedelem; 5212 Iparcikk jellegÅ± vegyes kiskereskedelem; 5227 EgyÃ©b Ã©lelmiszer-kiskereskedelem; 5241 Textil-kiskereskedelem; 5242 RuhÃ¡zati kiskereskedelem; 5244 BÃºtor-, hÃ¡ztartÃ¡sicikk-kiskereskedelem; 5245 Elektromos hÃ¡ztartÃ¡si cikk kiskereskedelme; 5246 VasÃ¡ru-, festÃ©k-, Ã¼veg-kiskereskedelem; 5247 KÃ¶nyv-, ÃºjsÃ¡g-, papÃ­rÃ¡ru-kiskereskedelem; 5248 EgyÃ©b, mÃ¡shovÃ¡ nem sorolt iparcikk-kiskereskedelem; 5262 Piaci kiskereskedelem; 5263 EgyÃ©b, nem bolti kiskereskedelem; 5272 Elektromos hÃ¡ztartÃ¡si cikk javÃ­tÃ¡sa; 5274 EgyÃ©b fogyasztÃ¡si cikk javÃ­tÃ¡sa; 7011 IngatlanberuhÃ¡zÃ¡s, -eladÃ¡s; 7020 Ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se; 7031 IngatlanÃ¼gynÃ¶ki tevÃ©kenysÃ©g; 7032 IngatlankezelÃ©s; 7110 GÃ©pkocsikÃ¶lcsÃ¶nzÃ©s; 7133 IrodagÃ©p, szÃ¡mÃ­tÃ³gÃ©p kÃ¶lcsÃ¶nzÃ©se; 7140 FogyasztÃ¡si cikk kÃ¶lcsÃ¶nzÃ©se; 7210 Hardver-szaktanÃ¡csadÃ¡s; 7221 SzoftverkiadÃ¡s; 7222 EgyÃ©b szoftver-szaktanÃ¡csadÃ¡s, -ellÃ¡tÃ¡s; 7260 EgyÃ©b szÃ¡mÃ­tÃ¡stechnikai tevÃ©kenysÃ©g; 7414 Ãœzletviteli tanÃ¡csadÃ¡s; 7415 VagyonkezelÃ©s; 7420 MÃ©rnÃ¶ki tevÃ©kenysÃ©g, tanÃ¡csadÃ¡s; 7430 MÅ±szaki vizsgÃ¡lat, elemzÃ©s; 7440 HirdetÃ©s; 7487 MÃ¡shovÃ¡ nem sorolt, egyÃ©b gazdasÃ¡gi szolgÃ¡ltatÃ¡s.<ujsor/>
+FelhÃ­vjuk a hitelezÅ‘k figyelmÃ©t, hogy a Gt. 66. Â§ szerinti jogaikkal Ã©lhetnek.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110041200</mezo>
-<mezo id = "nev">ÁPISZ Kereskedelmi Részvénytársaság</mezo>
-<mezo id = "cim">1135 Budapest, Béke út 2-4. </mezo>
+<mezo id = "nev">ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1135 Budapest, BÃ©ke Ãºt 2-4. </mezo>
 </alrovat>
 <alrovat id = "11">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az ÁPISZ Kereskedelmi Részvénytársaság (Cg.: [01 10 041200]; 1135 Budapest, Béke út 2-4.)<ujsor/>
-szétválik<ujsor/>
-oly módon, hogy az ÁPISZ Kereskedelmi Részvénytársaságból kiválik a Royal Investment Befektetõ és Ingatlanhasznosító Korlátolt Felelõsségû Társaság.<ujsor/>
-Az átalakulás módja: kiválás.<ujsor/>
-Az átalakuló társaság (ÁPISZ Kereskedelmi Részvénytársaság) vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 1 524 624 Saját tõke 1 282 129<ujsor/>
-Forgóeszközök 786 717 Jegyzett tõke 105 500<ujsor/>
-  Kötelezettségek 942 707<ujsor/>
-ÖSSZESEN: 2 320 785 ÖSSZESEN: 2 320 785<ujsor/>
-A fennmaradó társaság (ÁPISZ Kereskedelmi Részvénytársaság) vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 55 574 Saját tõke 262 692<ujsor/>
-Forgóeszközök 410 835 Jegyzett tõke 21 600<ujsor/>
-  Kötelezettségek 176 895<ujsor/>
-ÖSSZESEN: 475 497 ÖSSZESEN: 475 497<ujsor/>
-A kiválással létrejövõ társaság (Royal Investment Befektetõ és Ingatlanhasznosító Korlátolt Felelõsségû Társaság) vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 1 469 050 Saját tõke 1 019 437<ujsor/>
-Forgóeszközök 375 882 Jegyzett tõke* 83 900<ujsor/>
-  Kötelezettségek 765 812<ujsor/>
-ÖSSZESEN: 1 845 288 ÖSSZESEN: 1 845 288<ujsor/>
-* Ebbõl pénzbeli hozzájárulás: 1000 Ft, nem pénzbeli hozzájárulás: 83 899 000 Ft.<ujsor/>
-A jogok és kötelezettségek megoszlására vonatkozó megállapodás fontosabb rendelkezései:<ujsor/>
-Az ÁPISZ Rt. tulajdonosai a 2002. december 28-án megtartott közgyûlésen határoztak az ÁPISZ Rt. ingatlan és papír-írószer üzletágának szétválasztásáról. Az üzletágak szétválasztása az ingatlan üzletág kiválása útján történik. Ennek megfelelõen a társasági vagyon felosztásának elve a két üzletághoz kapcsolódó eszközök és források, jogok és kötelezettségek üzletági tevékenységhez igazodó szétválasztása.<ujsor/>
-A fentiekben leírt elvek szerint az ingatlan üzletághoz kapcsolódó jogok és kötelezettségek a kiválás útján létrejövõ társaságot illetik meg és terhelik. Az ingatlan üzletághoz nem kapcsolható tevékenységekhez fûzõdõ jogok és kötelezettségek a szétválás után maradó ÁPISZ Rt.-t illetik meg és terhelik.<ujsor/>
-A fennmaradó társaság adatai:<ujsor/>
-Név: ÁPISZ Kereskedelmi Részvénytársaság.<ujsor/>
-Rövidített név: ÁPISZ Rt.<ujsor/>
-Társasági forma: részvénytársaság.<ujsor/>
-Székhely: 1135 Budapest, Béke u. 2-4.<ujsor/>
-Alapító okirat elfogadásának napja: 2003. május 5.<ujsor/>
-Az alaptõkét megtestesítõ részvények:<ujsor/>
-1. Névre szóló, A sorozatú, 10 000 000 Ft névértékû törzsrészvény.<ujsor/>
-2. Névre szóló, B sorozatú, 1 000 000 Ft névértékû törzsrészvény.<ujsor/>
-3. Névre szóló, C sorozatú, 100 000 Ft névértékû törzsrészvény.<ujsor/>
-4. Névre szóló, D sorozatú, 100 Ft névértékû törzsrészvény.<ujsor/>
-A társaság vezetõ tisztségviselõi: Bodrogváryné dr. Kádár Ilona elnök-vezérigazgató (1025 Budapest, Verecke út 34.), Kiss Mihály igazgatósági tag (1225 Budapest, Campona u. 1.), Berta Oleg Zsolt igazgatósági tag (8600 Siófok, Koch R. u. 20/B).<ujsor/>
-A társaság felügyelõbizottságának tagjai: Varga Sándor (1042 Budapest, Rózsa u. 57. III. 9.), Bartha István (1042 Budapest, Árpád út 167.), Orbán Mária (1044 Budapest, Bezerédi köz 5.).<ujsor/>
-A társaság tevékenységi köre (TEÁOR &apos;03):<ujsor/>
-Fõ tevékenység: 5247 Könyv-, újság-, papíráru-kiskereskedelem.<ujsor/>
-Egyéb tevékenységi körök: 5118 Máshova nem sorolt termék ügynöki nagykereskedelme; 5144 Porcelán-, üvegáru-, tapéta-, tisztítószer-nagykereskedelem; 5147 Egyéb fogyasztási cikk nagykereskedelme; 5184 Számítógép, szoftver nagykereskedelme; 5185 Egyéb irodagép, -bútor nagykereskedelme; 5190 Egyéb nagykereskedelem; 5212 Iparcikk jellegû vegyes kiskereskedelem; 5243 Lábbeli-, bõráru-kiskereskedelem; 5245 Elektromos háztartási cikk kiskereskedelme; 5248 Egyéb, máshová nem sorolt iparcikk-kiskereskedelem; 5261 Csomagküldõ kiskereskedelem; 5263 Egyéb, nem bolti kiskereskedelem; 5274 Egyéb fogyasztási cikk javítása; 7011 Ingatlanberuházás, -eladás; 7012 Ingatlanforgalmazás; 7020 Ingatlan bérbeadása, üzemeltetése; 7031 Ingatlanügynöki tevékenység; 7032 Ingatlankezelés; 7110 Gépkocsikölcsönzés; 7133 Irodagép, számítógép kölcsönzése; 7412 Számviteli, adószakértõi tevékenység.<ujsor/>
-A kiválással létrejövõ társaság adatai:<ujsor/>
-Név: Royal Investment Befektetõ és Ingatlanhasznosító Korlátolt Felelõsségû Társaság.<ujsor/>
-Rövidített név: Royal Investment Kft.<ujsor/>
-Társasági forma: korlátolt felelõsségû társaság.<ujsor/>
-Székhely: 1135 Budapest, Béke u. 2-4.<ujsor/>
-Az alapító okirat elfogadásának napja: 2003. május 5.<ujsor/>
-A társaság vezetõ tisztségviselõje: Berta Oleg Zsolt ügyvezetõ (8600 Siófok, Koch R. u. 20/B).<ujsor/>
-A társaság tevékenységi körei (TEÁOR &apos;03):<ujsor/>
-Fõ tevékenység: 7012 Ingatlanforgalmazás.<ujsor/>
-Egyéb tevékenységi körök: 3220 Ipari híradástechnikai termék gyártása; 3230 Híradás-technikai fogyasztási cikk gyártása; 5114 Gép, hajó, repülõgép ügynöki nagykereskedelme; 5115 Bútor, háztartási áru, vasáru ügynöki nagykereskedelme; 5118 Máshova nem sorolt termék ügynöki nagykereskedelme; 5139 Élelmiszer, ital, dohányáru vegyes nagykereskedelme; 5141 Textil-nagykereskedelem; 5143 Elektromos háztartási cikk nagykereskedelme; 5147 Egyéb fogyasztási cikk nagykereskedelme; 5153 Fa-, építõanyag-, szaniteráru-nagykereskedelem; 5181 Szerszámgép-nagykereskedelem; 5184 Számítógép, szoftver nagykereskedelme; 5185 Egyéb irodagép, -bútor nagykereskedelme; 5190 Egyéb nagykereskedelem; 5211 Élelmiszer jellegû vegyes kiskereskedelem; 5212 Iparcikk jellegû vegyes kiskereskedelem; 5227 Egyéb élelmiszer-kiskereskedelem; 5241 Textil-kiskereskedelem; 5242 Ruházati kiskereskedelem; 5244 Bútor-, háztartásicikk-kiskereskedelem; 5245 Elektromos háztartási cikk kiskereskedelme; 5246 Vasáru-, festék-, üveg-kiskereskedelem; 5247 Könyv-, újság-, papíráru-kiskereskedelem; 5248 Egyéb, máshová nem sorolt iparcikk-kiskereskedelem; 5262 Piaci kiskereskedelem; 5263 Egyéb, nem bolti kiskereskedelem; 5272 Elektromos háztartási cikk javítása; 5274 Egyéb fogyasztási cikk javítása; 7011 Ingatlanberuházás, -eladás; 7020 Ingatlan bérbeadása, üzemeltetése; 7031 Ingatlanügynöki tevékenység; 7032 Ingatlankezelés; 7110 Gépkocsikölcsönzés; 7133 Irodagép, számítógép kölcsönzése; 7140 Fogyasztási cikk kölcsönzése; 7210 Hardver-szaktanácsadás; 7221 Szoftverkiadás; 7222 Egyéb szoftver-szaktanácsadás, -ellátás; 7260 Egyéb számítástechnikai tevékenység; 7414 Üzletviteli tanácsadás; 7415 Vagyonkezelés; 7420 Mérnöki tevékenység, tanácsadás; 7430 Mûszaki vizsgálat, elemzés; 7440 Hirdetés; 7487 Máshová nem sorolt, egyéb gazdasági szolgáltatás.<ujsor/>
-Felhívjuk a hitelezõk figyelmét, hogy a Gt. 66. § szerinti jogaikkal élhetnek.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">Az ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 041200]; 1135 Budapest, BÃ©ke Ãºt 2-4.)<ujsor/>
+szÃ©tvÃ¡lik<ujsor/>
+oly mÃ³don, hogy az ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡gbÃ³l kivÃ¡lik a Royal Investment BefektetÅ‘ Ã©s IngatlanhasznosÃ­tÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+Az Ã¡talakulÃ¡s mÃ³dja: kivÃ¡lÃ¡s.<ujsor/>
+Az Ã¡talakulÃ³ tÃ¡rsasÃ¡g (ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 1 524 624 SajÃ¡t tÅ‘ke 1 282 129<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 786 717 Jegyzett tÅ‘ke 105 500<ujsor/>
+  KÃ¶telezettsÃ©gek 942 707<ujsor/>
+Ã–SSZESEN: 2 320 785 Ã–SSZESEN: 2 320 785<ujsor/>
+A fennmaradÃ³ tÃ¡rsasÃ¡g (ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 55 574 SajÃ¡t tÅ‘ke 262 692<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 410 835 Jegyzett tÅ‘ke 21 600<ujsor/>
+  KÃ¶telezettsÃ©gek 176 895<ujsor/>
+Ã–SSZESEN: 475 497 Ã–SSZESEN: 475 497<ujsor/>
+A kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g (Royal Investment BefektetÅ‘ Ã©s IngatlanhasznosÃ­tÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 1 469 050 SajÃ¡t tÅ‘ke 1 019 437<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 375 882 Jegyzett tÅ‘ke* 83 900<ujsor/>
+  KÃ¶telezettsÃ©gek 765 812<ujsor/>
+Ã–SSZESEN: 1 845 288 Ã–SSZESEN: 1 845 288<ujsor/>
+* EbbÅ‘l pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s: 1000 Ft, nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s: 83 899 000 Ft.<ujsor/>
+A jogok Ã©s kÃ¶telezettsÃ©gek megoszlÃ¡sÃ¡ra vonatkozÃ³ megÃ¡llapodÃ¡s fontosabb rendelkezÃ©sei:<ujsor/>
+Az ÃPISZ Rt. tulajdonosai a 2002. december 28-Ã¡n megtartott kÃ¶zgyÅ±lÃ©sen hatÃ¡roztak az ÃPISZ Rt. ingatlan Ã©s papÃ­r-Ã­rÃ³szer Ã¼zletÃ¡gÃ¡nak szÃ©tvÃ¡lasztÃ¡sÃ¡rÃ³l. Az Ã¼zletÃ¡gak szÃ©tvÃ¡lasztÃ¡sa az ingatlan Ã¼zletÃ¡g kivÃ¡lÃ¡sa ÃºtjÃ¡n tÃ¶rtÃ©nik. Ennek megfelelÅ‘en a tÃ¡rsasÃ¡gi vagyon felosztÃ¡sÃ¡nak elve a kÃ©t Ã¼zletÃ¡ghoz kapcsolÃ³dÃ³ eszkÃ¶zÃ¶k Ã©s forrÃ¡sok, jogok Ã©s kÃ¶telezettsÃ©gek Ã¼zletÃ¡gi tevÃ©kenysÃ©ghez igazodÃ³ szÃ©tvÃ¡lasztÃ¡sa.<ujsor/>
+A fentiekben leÃ­rt elvek szerint az ingatlan Ã¼zletÃ¡ghoz kapcsolÃ³dÃ³ jogok Ã©s kÃ¶telezettsÃ©gek a kivÃ¡lÃ¡s ÃºtjÃ¡n lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡got illetik meg Ã©s terhelik. Az ingatlan Ã¼zletÃ¡ghoz nem kapcsolhatÃ³ tevÃ©kenysÃ©gekhez fÅ±zÅ‘dÅ‘ jogok Ã©s kÃ¶telezettsÃ©gek a szÃ©tvÃ¡lÃ¡s utÃ¡n maradÃ³ ÃPISZ Rt.-t illetik meg Ã©s terhelik.<ujsor/>
+A fennmaradÃ³ tÃ¡rsasÃ¡g adatai:<ujsor/>
+NÃ©v: ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+RÃ¶vidÃ­tett nÃ©v: ÃPISZ Rt.<ujsor/>
+TÃ¡rsasÃ¡gi forma: rÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khely: 1135 Budapest, BÃ©ke u. 2-4.<ujsor/>
+AlapÃ­tÃ³ okirat elfogadÃ¡sÃ¡nak napja: 2003. mÃ¡jus 5.<ujsor/>
+Az alaptÅ‘kÃ©t megtestesÃ­tÅ‘ rÃ©szvÃ©nyek:<ujsor/>
+1. NÃ©vre szÃ³lÃ³, A sorozatÃº, 10 000 000 Ft nÃ©vÃ©rtÃ©kÅ± tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+2. NÃ©vre szÃ³lÃ³, B sorozatÃº, 1 000 000 Ft nÃ©vÃ©rtÃ©kÅ± tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+3. NÃ©vre szÃ³lÃ³, C sorozatÃº, 100 000 Ft nÃ©vÃ©rtÃ©kÅ± tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+4. NÃ©vre szÃ³lÃ³, D sorozatÃº, 100 Ft nÃ©vÃ©rtÃ©kÅ± tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+A tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘i: BodrogvÃ¡rynÃ© dr. KÃ¡dÃ¡r Ilona elnÃ¶k-vezÃ©rigazgatÃ³ (1025 Budapest, Verecke Ãºt 34.), Kiss MihÃ¡ly igazgatÃ³sÃ¡gi tag (1225 Budapest, Campona u. 1.), Berta Oleg Zsolt igazgatÃ³sÃ¡gi tag (8600 SiÃ³fok, Koch R. u. 20/B).<ujsor/>
+A tÃ¡rsasÃ¡g felÃ¼gyelÅ‘bizottsÃ¡gÃ¡nak tagjai: Varga SÃ¡ndor (1042 Budapest, RÃ³zsa u. 57. III. 9.), Bartha IstvÃ¡n (1042 Budapest, ÃrpÃ¡d Ãºt 167.), OrbÃ¡n MÃ¡ria (1044 Budapest, BezerÃ©di kÃ¶z 5.).<ujsor/>
+A tÃ¡rsasÃ¡g tevÃ©kenysÃ©gi kÃ¶re (TEÃOR &apos;03):<ujsor/>
+FÅ‘ tevÃ©kenysÃ©g: 5247 KÃ¶nyv-, ÃºjsÃ¡g-, papÃ­rÃ¡ru-kiskereskedelem.<ujsor/>
+EgyÃ©b tevÃ©kenysÃ©gi kÃ¶rÃ¶k: 5118 MÃ¡shova nem sorolt termÃ©k Ã¼gynÃ¶ki nagykereskedelme; 5144 PorcelÃ¡n-, Ã¼vegÃ¡ru-, tapÃ©ta-, tisztÃ­tÃ³szer-nagykereskedelem; 5147 EgyÃ©b fogyasztÃ¡si cikk nagykereskedelme; 5184 SzÃ¡mÃ­tÃ³gÃ©p, szoftver nagykereskedelme; 5185 EgyÃ©b irodagÃ©p, -bÃºtor nagykereskedelme; 5190 EgyÃ©b nagykereskedelem; 5212 Iparcikk jellegÅ± vegyes kiskereskedelem; 5243 LÃ¡bbeli-, bÅ‘rÃ¡ru-kiskereskedelem; 5245 Elektromos hÃ¡ztartÃ¡si cikk kiskereskedelme; 5248 EgyÃ©b, mÃ¡shovÃ¡ nem sorolt iparcikk-kiskereskedelem; 5261 CsomagkÃ¼ldÅ‘ kiskereskedelem; 5263 EgyÃ©b, nem bolti kiskereskedelem; 5274 EgyÃ©b fogyasztÃ¡si cikk javÃ­tÃ¡sa; 7011 IngatlanberuhÃ¡zÃ¡s, -eladÃ¡s; 7012 IngatlanforgalmazÃ¡s; 7020 Ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se; 7031 IngatlanÃ¼gynÃ¶ki tevÃ©kenysÃ©g; 7032 IngatlankezelÃ©s; 7110 GÃ©pkocsikÃ¶lcsÃ¶nzÃ©s; 7133 IrodagÃ©p, szÃ¡mÃ­tÃ³gÃ©p kÃ¶lcsÃ¶nzÃ©se; 7412 SzÃ¡mviteli, adÃ³szakÃ©rtÅ‘i tevÃ©kenysÃ©g.<ujsor/>
+A kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g adatai:<ujsor/>
+NÃ©v: Royal Investment BefektetÅ‘ Ã©s IngatlanhasznosÃ­tÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+RÃ¶vidÃ­tett nÃ©v: Royal Investment Kft.<ujsor/>
+TÃ¡rsasÃ¡gi forma: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khely: 1135 Budapest, BÃ©ke u. 2-4.<ujsor/>
+Az alapÃ­tÃ³ okirat elfogadÃ¡sÃ¡nak napja: 2003. mÃ¡jus 5.<ujsor/>
+A tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘je: Berta Oleg Zsolt Ã¼gyvezetÅ‘ (8600 SiÃ³fok, Koch R. u. 20/B).<ujsor/>
+A tÃ¡rsasÃ¡g tevÃ©kenysÃ©gi kÃ¶rei (TEÃOR &apos;03):<ujsor/>
+FÅ‘ tevÃ©kenysÃ©g: 7012 IngatlanforgalmazÃ¡s.<ujsor/>
+EgyÃ©b tevÃ©kenysÃ©gi kÃ¶rÃ¶k: 3220 Ipari hÃ­radÃ¡stechnikai termÃ©k gyÃ¡rtÃ¡sa; 3230 HÃ­radÃ¡s-technikai fogyasztÃ¡si cikk gyÃ¡rtÃ¡sa; 5114 GÃ©p, hajÃ³, repÃ¼lÅ‘gÃ©p Ã¼gynÃ¶ki nagykereskedelme; 5115 BÃºtor, hÃ¡ztartÃ¡si Ã¡ru, vasÃ¡ru Ã¼gynÃ¶ki nagykereskedelme; 5118 MÃ¡shova nem sorolt termÃ©k Ã¼gynÃ¶ki nagykereskedelme; 5139 Ã‰lelmiszer, ital, dohÃ¡nyÃ¡ru vegyes nagykereskedelme; 5141 Textil-nagykereskedelem; 5143 Elektromos hÃ¡ztartÃ¡si cikk nagykereskedelme; 5147 EgyÃ©b fogyasztÃ¡si cikk nagykereskedelme; 5153 Fa-, Ã©pÃ­tÅ‘anyag-, szaniterÃ¡ru-nagykereskedelem; 5181 SzerszÃ¡mgÃ©p-nagykereskedelem; 5184 SzÃ¡mÃ­tÃ³gÃ©p, szoftver nagykereskedelme; 5185 EgyÃ©b irodagÃ©p, -bÃºtor nagykereskedelme; 5190 EgyÃ©b nagykereskedelem; 5211 Ã‰lelmiszer jellegÅ± vegyes kiskereskedelem; 5212 Iparcikk jellegÅ± vegyes kiskereskedelem; 5227 EgyÃ©b Ã©lelmiszer-kiskereskedelem; 5241 Textil-kiskereskedelem; 5242 RuhÃ¡zati kiskereskedelem; 5244 BÃºtor-, hÃ¡ztartÃ¡sicikk-kiskereskedelem; 5245 Elektromos hÃ¡ztartÃ¡si cikk kiskereskedelme; 5246 VasÃ¡ru-, festÃ©k-, Ã¼veg-kiskereskedelem; 5247 KÃ¶nyv-, ÃºjsÃ¡g-, papÃ­rÃ¡ru-kiskereskedelem; 5248 EgyÃ©b, mÃ¡shovÃ¡ nem sorolt iparcikk-kiskereskedelem; 5262 Piaci kiskereskedelem; 5263 EgyÃ©b, nem bolti kiskereskedelem; 5272 Elektromos hÃ¡ztartÃ¡si cikk javÃ­tÃ¡sa; 5274 EgyÃ©b fogyasztÃ¡si cikk javÃ­tÃ¡sa; 7011 IngatlanberuhÃ¡zÃ¡s, -eladÃ¡s; 7020 Ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se; 7031 IngatlanÃ¼gynÃ¶ki tevÃ©kenysÃ©g; 7032 IngatlankezelÃ©s; 7110 GÃ©pkocsikÃ¶lcsÃ¶nzÃ©s; 7133 IrodagÃ©p, szÃ¡mÃ­tÃ³gÃ©p kÃ¶lcsÃ¶nzÃ©se; 7140 FogyasztÃ¡si cikk kÃ¶lcsÃ¶nzÃ©se; 7210 Hardver-szaktanÃ¡csadÃ¡s; 7221 SzoftverkiadÃ¡s; 7222 EgyÃ©b szoftver-szaktanÃ¡csadÃ¡s, -ellÃ¡tÃ¡s; 7260 EgyÃ©b szÃ¡mÃ­tÃ¡stechnikai tevÃ©kenysÃ©g; 7414 Ãœzletviteli tanÃ¡csadÃ¡s; 7415 VagyonkezelÃ©s; 7420 MÃ©rnÃ¶ki tevÃ©kenysÃ©g, tanÃ¡csadÃ¡s; 7430 MÅ±szaki vizsgÃ¡lat, elemzÃ©s; 7440 HirdetÃ©s; 7487 MÃ¡shovÃ¡ nem sorolt, egyÃ©b gazdasÃ¡gi szolgÃ¡ltatÃ¡s.<ujsor/>
+FelhÃ­vjuk a hitelezÅ‘k figyelmÃ©t, hogy a Gt. 66. Â§ szerinti jogaikkal Ã©lhetnek.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110041200</mezo>
-<mezo id = "nev">ÁPISZ Kereskedelmi Részvénytársaság</mezo>
-<mezo id = "cim">1135 Budapest, Béke út 2-4. </mezo>
+<mezo id = "nev">ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1135 Budapest, BÃ©ke Ãºt 2-4. </mezo>
 </alrovat>
 <alrovat id = "12">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az ÁPISZ Kereskedelmi Részvénytársaság (Cg.: [01 10 041200]; 1135 Budapest, Béke u. 2-4.)<ujsor/>
-szétválik<ujsor/>
-oly módon, hogy az ÁPISZ Kereskedelmi Részvénytársaságból kiválik a Royal Investment Ingatlanhasznosító Korlátolt Felelõsségû Társaság.<ujsor/>
-Az átalakulás módja: kiválás.<ujsor/>
-Az átalakuló társaság (ÁPISZ Kereskedelmi Részvénytársaság) vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 1 524 624 Saját tõke 1 282 129<ujsor/>
-Forgóeszközök 786 717 Jegyzett tõke 105 500<ujsor/>
-  Kötelezettségek 942 707<ujsor/>
-ÖSSZESEN: 2 320 785 ÖSSZESEN: 2 320 785<ujsor/>
-A fennmaradó társaság (ÁPISZ Kereskedelmi Részvénytársaság) vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 116 589 Saját tõke 262 692<ujsor/>
-Forgóeszközök 349 820 Jegyzett tõke* 21 600<ujsor/>
-  Kötelezettségek 176 894<ujsor/>
-ÖSSZESEN: 475 497 ÖSSZESEN: 475 497<ujsor/>
-* Ebbõl pénzbeli hozzájárulás 1 937 564 Ft, nem pénzbeli hozzájárulás 19 660 436 Ft.<ujsor/>
-A kiválással létrejövõ társaság (Royal Investment Ingatlanhasznosító Korlátolt Felelõsségû Társaság) vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 1 408 035 Saját tõke 1 019 437<ujsor/>
-Forgóeszközök 436 897 Jegyzett tõke* 83 900<ujsor/>
-  Kötelezettségek 765 813<ujsor/>
-ÖSSZESEN: 1 845 288 ÖSSZESEN: 1 845 288<ujsor/>
-* Ebbõl pénzbeli hozzájárulás 759 000 Ft, nem pénzbeli hozzájárulás 83 141 000 Ft.<ujsor/>
-A jogok és kötelezettségek megoszlására vonatkozó megállapodás fontosabb rendelkezései:<ujsor/>
-Az ÁPISZ Rt. tulajdonosai a 2002. december 28-án megtartott közgyûlésen határoztak az ÁPISZ Rt. ingatlan és papír-írószer üzletágának szétválasztásáról. Az üzletágak szétválasztása az ingatlan üzletág kiválása útján történik. Ennek megfelelõen a társasági vagyon felosztásának elve a két üzletághoz kapcsolódó eszközök és források, jogok és kötelezettségek üzletági tevékenységhez igazodó szétválasztása.<ujsor/>
-A szétválási szerzõdés vagyonmegosztási javaslata szerint az átalakuló ÁPISZ Rt. összesen 2 320 785 Ft értékû eszközeinek 79,5%-a (1 845 288 Ft) a kiválással létrejövõ Royal Investment Kft., 20,5%-a (475 497 Ft) a fennmaradó társaság (ÁPISZ Rt.) eszközeit képezi.<ujsor/>
-A fentiekben leírt elvek szerint az ingatlan üzletághoz kapcsolódó jogok és kötelezettségek a kiválás útján létrejövõ társaságot illetik meg és terhelik. Számszerûsítve ezt, az átalakuló társaság (ÁPISZ Rt.) jogainak és kötelezettségeinek 79,5%-a a kiválással létrejövõ Royal Investment Kft.-t illeti meg, illetve terheli. Az ingatlan üzletághoz nem kapcsolható tevékenységekhez fûzõdõ jogok és kötelezettségek a szétválás után fennmaradó ÁPISZ Rt.-t illetik meg és terhelik. Számszerûsítve ezt, az átalakuló ÁPISZ Rt. jogainak és kötelezettségeinek 20,5%-a a fennmaradó ÁPISZ Rt.-t illeti meg, illetve terheli.<ujsor/>
-A fennmaradó társaság adatai:<ujsor/>
-Név: ÁPISZ Kereskedelmi Részvénytársaság.<ujsor/>
-Rövidített név: ÁPISZ Rt.<ujsor/>
-Társasági forma: részvénytársaság.<ujsor/>
-Székhely: 1135 Budapest, Béke u. 2-4.<ujsor/>
-Alapító okirat elfogadásának napja: 2003. május 5.<ujsor/>
-Az alaptõkét megtestesítõ részvények:<ujsor/>
-1. Névre szóló, A sorozatú, 10 000 000 Ft névértékû törzsrészvény.<ujsor/>
-2. Névre szóló, B sorozatú, 1 000 000 Ft névértékû törzsrészvény.<ujsor/>
-3. Névre szóló, C sorozatú, 100 000 Ft névértékû törzsrészvény.<ujsor/>
-4. Névre szóló, D sorozatú, 100 Ft névértékû törzsrészvény.<ujsor/>
-A társaság vezetõ tisztségviselõi: Bodrogváryné dr. Kádár Ilona elnök-vezérigazgató (1025 Budapest, Verecke út 34.), Kiss Mihály igazgatósági tag (1225 Budapest, Campona u. 1.), Berta Oleg Zsolt igazgatósági tag (8600 Siófok, Koch R. u. 20/B).<ujsor/>
-A társaság felügyelõbizottságának tagjai: Varga Sándor (1042 Budapest, Rózsa u. 57. III. 9.), Bartha István (1042 Budapest, Árpád út 167.), Orbán Mária (1044 Budapest, Bezerédi köz 5.).<ujsor/>
-A társaság tevékenységi körei (TEÁOR &apos;03): 5247 Könyv-, újság-, papíráru-kiskereskedelem (fõ tevékenység).<ujsor/>
-Egyéb tevékenységi körök: 5118 Máshova nem sorolt termék ügynöki nagykereskedelme; 5144 Porcelán-, üvegáru-, tapéta-, tisztítószer-nagykereskedelem; 5147 Egyéb fogyasztási cikk nagykereskedelme; 5184 Számítógép, szoftver nagykereskedelme; 5185 Egyéb irodagép, -bútor nagykereskedelme; 5190 Egyéb nagykereskedelem; 5212 Iparcikk jellegû vegyes kiskereskedelem; 5243 Lábbeli-, bõráru-kiskereskedelem; 5245 Elektromos háztartási cikk kiskereskedelme; 5248 Egyéb, máshová nem sorolt iparcikk-kiskereskedelem; 5261 Csomagküldõ kiskereskedelem; 5263 Egyéb, nem bolti kiskereskedelem; 5274 Egyéb fogyasztási cikk javítása; 7011 Ingatlanberuházás, -eladás; 7012 Ingatlanforgalmazás; 7020 Ingatlan bérbeadása, üzemeltetése; 7031 Ingatlanügynöki tevékenység; 7032 Ingatlankezelés; 7110 Gépkocsikölcsönzés; 7133 Irodagép, számítógép kölcsönzése; 7412 Számviteli, adószakértõi tevékenység.<ujsor/>
-A kiválással létrejövõ társaság adatai:<ujsor/>
-Név: Royal Investment Ingatlanhasznosító Korlátolt Felelõsségû Társaság.<ujsor/>
-Rövidített név: Royal Investment Kft.<ujsor/>
-Társasági forma: korlátolt felelõsségû társaság.<ujsor/>
-Székhelye: 1135 Budapest, Béke u. 2-4.<ujsor/>
-Alapító okirat elfogadásának napja: 2003. május 5.<ujsor/>
-A társaság vezetõ tisztségviselõje: Berta Oleg Zsolt ügyvezetõ (8600 Siófok, Koch R. u. 20/B).<ujsor/>
-A társaság tevékenységi körei (TEÁOR &apos;03): 7012 Ingatlanforgalmazás.<ujsor/>
-Egyéb tevékenységi körök: 3220 Ipari híradástechnikai termék gyártása; 3230 Híradástechnikai fogyasztási cikk gyártása; 5114 Gép, hajó, repülõgép ügynöki nagykereskedelme; 5115 Bútor, háztartási áru, vasáru ügynöki nagykereskedelme; 5118 Máshova nem sorolt termék ügynöki nagykereskedelme; 5139 Élelmiszer, ital, dohányáru vegyes nagykereskedelme; 5141 Textil-nagykereskedelem; 5143 Elektromos háztartási cikk nagykereskedelme; 5147 Egyéb fogyasztási cikk nagykereskedelme; 5153 Fa-, építõanyag-, szaniteráru-nagykereskedelem; 5181 Szerszámgép-nagykereskedelem; 5184 Számítógép, szoftver nagykereskedelme; 5185 Egyéb irodagép, -bútor nagykereskedelme; 5190 Egyéb nagykereskedelem; 5211 Élelmiszer jellegû vegyes kiskereskedelem; 5212 Iparcikk jellegû vegyes kiskereskedelem; 5227 Egyéb élelmiszer-kiskereskedelem; 5241 Textil-kiskereskedelem; 5242 Ruházati kiskereskedelem; 5244 Bútor-, háztartásicikk-kiskereskedelem; 5245 Elektromos háztartási cikk kiskereskedelme; 5246 Vasáru-, festék-, üveg-kiskereskedelem; 5247 Könyv-, újság-, papíráru-kiskereskedelem; 5248 Egyéb, máshová nem sorolt iparcikk-kiskereskedelem; 5262 Piaci kiskereskedelem; 5263 Egyéb, nem bolti kiskereskedelem; 5272 Elektromos háztartási cikk javítása; 5274 Egyéb fogyasztási cikk javítása; 7011 Ingatlanberuházás, -eladás; 7020 Ingatlan bérbeadása, üzemeltetése; 7031 Ingatlanügynöki tevékenység; 7032 Ingatlankezelés; 7110 Gépkocsikölcsönzés; 7133 Irodagép, számítógép kölcsönzése; 7140 Fogyasztási cikk kölcsönzése; 7210 Hardver-szaktanácsadás; 7221 Szoftverkiadás; 7222 Egyéb szoftver-szaktanácsadás, -ellátás; 7260 Egyéb számítástechnikai tevékenység; 7414 Üzletviteli tanácsadás; 7415 Vagyonkezelés; 7420 Mérnöki tevékenység, tanácsadás; 7430 Mûszaki vizsgálat, elemzés; 7440 Hirdetés; 7487 Máshová nem sorolt, egyéb gazdasági szolgáltatás.<ujsor/>
-Felhívjuk a hitelezõk figyelmét, hogy a Gt. 66. § szerinti jogaikkal élhetnek.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">Az ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 041200]; 1135 Budapest, BÃ©ke u. 2-4.)<ujsor/>
+szÃ©tvÃ¡lik<ujsor/>
+oly mÃ³don, hogy az ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡gbÃ³l kivÃ¡lik a Royal Investment IngatlanhasznosÃ­tÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+Az Ã¡talakulÃ¡s mÃ³dja: kivÃ¡lÃ¡s.<ujsor/>
+Az Ã¡talakulÃ³ tÃ¡rsasÃ¡g (ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 1 524 624 SajÃ¡t tÅ‘ke 1 282 129<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 786 717 Jegyzett tÅ‘ke 105 500<ujsor/>
+  KÃ¶telezettsÃ©gek 942 707<ujsor/>
+Ã–SSZESEN: 2 320 785 Ã–SSZESEN: 2 320 785<ujsor/>
+A fennmaradÃ³ tÃ¡rsasÃ¡g (ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 116 589 SajÃ¡t tÅ‘ke 262 692<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 349 820 Jegyzett tÅ‘ke* 21 600<ujsor/>
+  KÃ¶telezettsÃ©gek 176 894<ujsor/>
+Ã–SSZESEN: 475 497 Ã–SSZESEN: 475 497<ujsor/>
+* EbbÅ‘l pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s 1 937 564 Ft, nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s 19 660 436 Ft.<ujsor/>
+A kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g (Royal Investment IngatlanhasznosÃ­tÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 1 408 035 SajÃ¡t tÅ‘ke 1 019 437<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 436 897 Jegyzett tÅ‘ke* 83 900<ujsor/>
+  KÃ¶telezettsÃ©gek 765 813<ujsor/>
+Ã–SSZESEN: 1 845 288 Ã–SSZESEN: 1 845 288<ujsor/>
+* EbbÅ‘l pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s 759 000 Ft, nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s 83 141 000 Ft.<ujsor/>
+A jogok Ã©s kÃ¶telezettsÃ©gek megoszlÃ¡sÃ¡ra vonatkozÃ³ megÃ¡llapodÃ¡s fontosabb rendelkezÃ©sei:<ujsor/>
+Az ÃPISZ Rt. tulajdonosai a 2002. december 28-Ã¡n megtartott kÃ¶zgyÅ±lÃ©sen hatÃ¡roztak az ÃPISZ Rt. ingatlan Ã©s papÃ­r-Ã­rÃ³szer Ã¼zletÃ¡gÃ¡nak szÃ©tvÃ¡lasztÃ¡sÃ¡rÃ³l. Az Ã¼zletÃ¡gak szÃ©tvÃ¡lasztÃ¡sa az ingatlan Ã¼zletÃ¡g kivÃ¡lÃ¡sa ÃºtjÃ¡n tÃ¶rtÃ©nik. Ennek megfelelÅ‘en a tÃ¡rsasÃ¡gi vagyon felosztÃ¡sÃ¡nak elve a kÃ©t Ã¼zletÃ¡ghoz kapcsolÃ³dÃ³ eszkÃ¶zÃ¶k Ã©s forrÃ¡sok, jogok Ã©s kÃ¶telezettsÃ©gek Ã¼zletÃ¡gi tevÃ©kenysÃ©ghez igazodÃ³ szÃ©tvÃ¡lasztÃ¡sa.<ujsor/>
+A szÃ©tvÃ¡lÃ¡si szerzÅ‘dÃ©s vagyonmegosztÃ¡si javaslata szerint az Ã¡talakulÃ³ ÃPISZ Rt. Ã¶sszesen 2 320 785 Ft Ã©rtÃ©kÅ± eszkÃ¶zeinek 79,5%-a (1 845 288 Ft) a kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ Royal Investment Kft., 20,5%-a (475 497 Ft) a fennmaradÃ³ tÃ¡rsasÃ¡g (ÃPISZ Rt.) eszkÃ¶zeit kÃ©pezi.<ujsor/>
+A fentiekben leÃ­rt elvek szerint az ingatlan Ã¼zletÃ¡ghoz kapcsolÃ³dÃ³ jogok Ã©s kÃ¶telezettsÃ©gek a kivÃ¡lÃ¡s ÃºtjÃ¡n lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡got illetik meg Ã©s terhelik. SzÃ¡mszerÅ±sÃ­tve ezt, az Ã¡talakulÃ³ tÃ¡rsasÃ¡g (ÃPISZ Rt.) jogainak Ã©s kÃ¶telezettsÃ©geinek 79,5%-a a kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ Royal Investment Kft.-t illeti meg, illetve terheli. Az ingatlan Ã¼zletÃ¡ghoz nem kapcsolhatÃ³ tevÃ©kenysÃ©gekhez fÅ±zÅ‘dÅ‘ jogok Ã©s kÃ¶telezettsÃ©gek a szÃ©tvÃ¡lÃ¡s utÃ¡n fennmaradÃ³ ÃPISZ Rt.-t illetik meg Ã©s terhelik. SzÃ¡mszerÅ±sÃ­tve ezt, az Ã¡talakulÃ³ ÃPISZ Rt. jogainak Ã©s kÃ¶telezettsÃ©geinek 20,5%-a a fennmaradÃ³ ÃPISZ Rt.-t illeti meg, illetve terheli.<ujsor/>
+A fennmaradÃ³ tÃ¡rsasÃ¡g adatai:<ujsor/>
+NÃ©v: ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+RÃ¶vidÃ­tett nÃ©v: ÃPISZ Rt.<ujsor/>
+TÃ¡rsasÃ¡gi forma: rÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khely: 1135 Budapest, BÃ©ke u. 2-4.<ujsor/>
+AlapÃ­tÃ³ okirat elfogadÃ¡sÃ¡nak napja: 2003. mÃ¡jus 5.<ujsor/>
+Az alaptÅ‘kÃ©t megtestesÃ­tÅ‘ rÃ©szvÃ©nyek:<ujsor/>
+1. NÃ©vre szÃ³lÃ³, A sorozatÃº, 10 000 000 Ft nÃ©vÃ©rtÃ©kÅ± tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+2. NÃ©vre szÃ³lÃ³, B sorozatÃº, 1 000 000 Ft nÃ©vÃ©rtÃ©kÅ± tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+3. NÃ©vre szÃ³lÃ³, C sorozatÃº, 100 000 Ft nÃ©vÃ©rtÃ©kÅ± tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+4. NÃ©vre szÃ³lÃ³, D sorozatÃº, 100 Ft nÃ©vÃ©rtÃ©kÅ± tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+A tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘i: BodrogvÃ¡rynÃ© dr. KÃ¡dÃ¡r Ilona elnÃ¶k-vezÃ©rigazgatÃ³ (1025 Budapest, Verecke Ãºt 34.), Kiss MihÃ¡ly igazgatÃ³sÃ¡gi tag (1225 Budapest, Campona u. 1.), Berta Oleg Zsolt igazgatÃ³sÃ¡gi tag (8600 SiÃ³fok, Koch R. u. 20/B).<ujsor/>
+A tÃ¡rsasÃ¡g felÃ¼gyelÅ‘bizottsÃ¡gÃ¡nak tagjai: Varga SÃ¡ndor (1042 Budapest, RÃ³zsa u. 57. III. 9.), Bartha IstvÃ¡n (1042 Budapest, ÃrpÃ¡d Ãºt 167.), OrbÃ¡n MÃ¡ria (1044 Budapest, BezerÃ©di kÃ¶z 5.).<ujsor/>
+A tÃ¡rsasÃ¡g tevÃ©kenysÃ©gi kÃ¶rei (TEÃOR &apos;03): 5247 KÃ¶nyv-, ÃºjsÃ¡g-, papÃ­rÃ¡ru-kiskereskedelem (fÅ‘ tevÃ©kenysÃ©g).<ujsor/>
+EgyÃ©b tevÃ©kenysÃ©gi kÃ¶rÃ¶k: 5118 MÃ¡shova nem sorolt termÃ©k Ã¼gynÃ¶ki nagykereskedelme; 5144 PorcelÃ¡n-, Ã¼vegÃ¡ru-, tapÃ©ta-, tisztÃ­tÃ³szer-nagykereskedelem; 5147 EgyÃ©b fogyasztÃ¡si cikk nagykereskedelme; 5184 SzÃ¡mÃ­tÃ³gÃ©p, szoftver nagykereskedelme; 5185 EgyÃ©b irodagÃ©p, -bÃºtor nagykereskedelme; 5190 EgyÃ©b nagykereskedelem; 5212 Iparcikk jellegÅ± vegyes kiskereskedelem; 5243 LÃ¡bbeli-, bÅ‘rÃ¡ru-kiskereskedelem; 5245 Elektromos hÃ¡ztartÃ¡si cikk kiskereskedelme; 5248 EgyÃ©b, mÃ¡shovÃ¡ nem sorolt iparcikk-kiskereskedelem; 5261 CsomagkÃ¼ldÅ‘ kiskereskedelem; 5263 EgyÃ©b, nem bolti kiskereskedelem; 5274 EgyÃ©b fogyasztÃ¡si cikk javÃ­tÃ¡sa; 7011 IngatlanberuhÃ¡zÃ¡s, -eladÃ¡s; 7012 IngatlanforgalmazÃ¡s; 7020 Ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se; 7031 IngatlanÃ¼gynÃ¶ki tevÃ©kenysÃ©g; 7032 IngatlankezelÃ©s; 7110 GÃ©pkocsikÃ¶lcsÃ¶nzÃ©s; 7133 IrodagÃ©p, szÃ¡mÃ­tÃ³gÃ©p kÃ¶lcsÃ¶nzÃ©se; 7412 SzÃ¡mviteli, adÃ³szakÃ©rtÅ‘i tevÃ©kenysÃ©g.<ujsor/>
+A kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g adatai:<ujsor/>
+NÃ©v: Royal Investment IngatlanhasznosÃ­tÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+RÃ¶vidÃ­tett nÃ©v: Royal Investment Kft.<ujsor/>
+TÃ¡rsasÃ¡gi forma: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 1135 Budapest, BÃ©ke u. 2-4.<ujsor/>
+AlapÃ­tÃ³ okirat elfogadÃ¡sÃ¡nak napja: 2003. mÃ¡jus 5.<ujsor/>
+A tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘je: Berta Oleg Zsolt Ã¼gyvezetÅ‘ (8600 SiÃ³fok, Koch R. u. 20/B).<ujsor/>
+A tÃ¡rsasÃ¡g tevÃ©kenysÃ©gi kÃ¶rei (TEÃOR &apos;03): 7012 IngatlanforgalmazÃ¡s.<ujsor/>
+EgyÃ©b tevÃ©kenysÃ©gi kÃ¶rÃ¶k: 3220 Ipari hÃ­radÃ¡stechnikai termÃ©k gyÃ¡rtÃ¡sa; 3230 HÃ­radÃ¡stechnikai fogyasztÃ¡si cikk gyÃ¡rtÃ¡sa; 5114 GÃ©p, hajÃ³, repÃ¼lÅ‘gÃ©p Ã¼gynÃ¶ki nagykereskedelme; 5115 BÃºtor, hÃ¡ztartÃ¡si Ã¡ru, vasÃ¡ru Ã¼gynÃ¶ki nagykereskedelme; 5118 MÃ¡shova nem sorolt termÃ©k Ã¼gynÃ¶ki nagykereskedelme; 5139 Ã‰lelmiszer, ital, dohÃ¡nyÃ¡ru vegyes nagykereskedelme; 5141 Textil-nagykereskedelem; 5143 Elektromos hÃ¡ztartÃ¡si cikk nagykereskedelme; 5147 EgyÃ©b fogyasztÃ¡si cikk nagykereskedelme; 5153 Fa-, Ã©pÃ­tÅ‘anyag-, szaniterÃ¡ru-nagykereskedelem; 5181 SzerszÃ¡mgÃ©p-nagykereskedelem; 5184 SzÃ¡mÃ­tÃ³gÃ©p, szoftver nagykereskedelme; 5185 EgyÃ©b irodagÃ©p, -bÃºtor nagykereskedelme; 5190 EgyÃ©b nagykereskedelem; 5211 Ã‰lelmiszer jellegÅ± vegyes kiskereskedelem; 5212 Iparcikk jellegÅ± vegyes kiskereskedelem; 5227 EgyÃ©b Ã©lelmiszer-kiskereskedelem; 5241 Textil-kiskereskedelem; 5242 RuhÃ¡zati kiskereskedelem; 5244 BÃºtor-, hÃ¡ztartÃ¡sicikk-kiskereskedelem; 5245 Elektromos hÃ¡ztartÃ¡si cikk kiskereskedelme; 5246 VasÃ¡ru-, festÃ©k-, Ã¼veg-kiskereskedelem; 5247 KÃ¶nyv-, ÃºjsÃ¡g-, papÃ­rÃ¡ru-kiskereskedelem; 5248 EgyÃ©b, mÃ¡shovÃ¡ nem sorolt iparcikk-kiskereskedelem; 5262 Piaci kiskereskedelem; 5263 EgyÃ©b, nem bolti kiskereskedelem; 5272 Elektromos hÃ¡ztartÃ¡si cikk javÃ­tÃ¡sa; 5274 EgyÃ©b fogyasztÃ¡si cikk javÃ­tÃ¡sa; 7011 IngatlanberuhÃ¡zÃ¡s, -eladÃ¡s; 7020 Ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se; 7031 IngatlanÃ¼gynÃ¶ki tevÃ©kenysÃ©g; 7032 IngatlankezelÃ©s; 7110 GÃ©pkocsikÃ¶lcsÃ¶nzÃ©s; 7133 IrodagÃ©p, szÃ¡mÃ­tÃ³gÃ©p kÃ¶lcsÃ¶nzÃ©se; 7140 FogyasztÃ¡si cikk kÃ¶lcsÃ¶nzÃ©se; 7210 Hardver-szaktanÃ¡csadÃ¡s; 7221 SzoftverkiadÃ¡s; 7222 EgyÃ©b szoftver-szaktanÃ¡csadÃ¡s, -ellÃ¡tÃ¡s; 7260 EgyÃ©b szÃ¡mÃ­tÃ¡stechnikai tevÃ©kenysÃ©g; 7414 Ãœzletviteli tanÃ¡csadÃ¡s; 7415 VagyonkezelÃ©s; 7420 MÃ©rnÃ¶ki tevÃ©kenysÃ©g, tanÃ¡csadÃ¡s; 7430 MÅ±szaki vizsgÃ¡lat, elemzÃ©s; 7440 HirdetÃ©s; 7487 MÃ¡shovÃ¡ nem sorolt, egyÃ©b gazdasÃ¡gi szolgÃ¡ltatÃ¡s.<ujsor/>
+FelhÃ­vjuk a hitelezÅ‘k figyelmÃ©t, hogy a Gt. 66. Â§ szerinti jogaikkal Ã©lhetnek.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110041200</mezo>
-<mezo id = "nev">ÁPISZ Kereskedelmi Részvénytársaság</mezo>
-<mezo id = "cim">1135 Budapest, Béke út 2-4. </mezo>
+<mezo id = "nev">ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1135 Budapest, BÃ©ke Ãºt 2-4. </mezo>
 </alrovat>
 <alrovat id = "13">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az ÁPISZ Kereskedelmi Részvénytársaság (Cg.: [01 10 041200]; 1135 Budapest, Béke u. 2-4.)<ujsor/>
-szétválik<ujsor/>
-oly módon, hogy az ÁPISZ Kereskedelmi Részvénytársaságból kiválik a Royal Investment Ingatlanhasznosító Korlátolt Felelõsségû Társaság.<ujsor/>
-Az átalakulás módja: kiválás.<ujsor/>
-Az átalakuló társaság (ÁPISZ Kereskedelmi Részvénytársaság) vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 1 524 624 Saját tõke 1 282 129<ujsor/>
-Forgóeszközök 786 717 Jegyzett tõke 105 500<ujsor/>
-  Kötelezettségek 942 707<ujsor/>
-ÖSSZESEN: 2 320 785 ÖSSZESEN: 2 320 785<ujsor/>
-A fennmaradó társaság (ÁPISZ Kereskedelmi Részvénytársaság) vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 116 589 Saját tõke 262 692<ujsor/>
-Forgóeszközök 349 820 Jegyzett tõke* 21 600<ujsor/>
-  Kötelezettségek 176 894<ujsor/>
-ÖSSZESEN: 475 497 ÖSSZESEN: 475 497<ujsor/>
-* Ebbõl pénzbeli hozzájárulás 1 937 564 Ft, nem pénzbeli hozzájárulás 19 660 436 Ft.<ujsor/>
-A kiválással létrejövõ társaság (Royal Investment Ingatlanhasznosító Korlátolt Felelõsségû Társaság) vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 1 408 035 Saját tõke 1 019 437<ujsor/>
-Forgóeszközök 436 897 Jegyzett tõke* 83 900<ujsor/>
-  Kötelezettségek 765 813<ujsor/>
-ÖSSZESEN: 1 845 288 ÖSSZESEN: 1 845 288<ujsor/>
-* Ebbõl pénzbeli hozzájárulás 759 000 Ft, nem pénzbeli hozzájárulás 83 141 000 Ft.<ujsor/>
-A jogok és kötelezettségek megoszlására vonatkozó megállapodás fontosabb rendelkezései:<ujsor/>
-Az ÁPISZ Rt. tulajdonosai a 2002. december 28-án megtartott közgyûlésen határoztak az ÁPISZ Rt. ingatlan és papír-írószer üzletágának szétválasztásáról. Az üzletágak szétválasztása az ingatlan üzletág kiválása útján történik. Ennek megfelelõen a társasági vagyon felosztásának elve a két üzletághoz kapcsolódó eszközök és források, jogok és kötelezettségek üzletági tevékenységhez igazodó szétválasztása.<ujsor/>
-A szétválási szerzõdés vagyonmegosztási javaslata szerint az átalakuló ÁPISZ Rt. összesen 2 320 785 Ft értékû eszközeinek 79,5%-a (1 845 288 Ft) a kiválással létrejövõ Royal Investment Kft., 20,5%-a (475 497 Ft) a fennmaradó társaság (ÁPISZ Rt.) eszközeit képezi.<ujsor/>
-A fentiekben leírt elvek szerint az ingatlan üzletághoz kapcsolódó jogok és kötelezettségek a kiválás útján létrejövõ társaságot illetik meg és terhelik. Számszerûsítve ezt, az átalakuló társaság (ÁPISZ Rt.) jogainak és kötelezettségeinek 79,5%-a a kiválással létrejövõ Royal Investment Kft.-t illeti meg, illetve terheli. Az ingatlan üzletághoz nem kapcsolható tevékenységekhez fûzõdõ jogok és kötelezettségek a szétválás után fennmaradó ÁPISZ Rt.-t illetik meg és terhelik. Számszerûsítve ezt, az átalakuló ÁPISZ Rt. jogainak és kötelezettségeinek 20,5%-a a fennmaradó ÁPISZ Rt.-t illeti meg, illetve terheli.<ujsor/>
-A fennmaradó társaság adatai:<ujsor/>
-Név: ÁPISZ Kereskedelmi Részvénytársaság.<ujsor/>
-Rövidített név: ÁPISZ Rt.<ujsor/>
-Társasági forma: részvénytársaság.<ujsor/>
-Székhely: 1135 Budapest, Béke u. 2-4.<ujsor/>
-Alapító okirat elfogadásának napja: 2003. május 5.<ujsor/>
-Az alaptõkét megtestesítõ részvények:<ujsor/>
-1. Névre szóló, A sorozatú, 10 000 000 Ft névértékû törzsrészvény.<ujsor/>
-2. Névre szóló, B sorozatú, 1 000 000 Ft névértékû törzsrészvény.<ujsor/>
-3. Névre szóló, C sorozatú, 100 000 Ft névértékû törzsrészvény.<ujsor/>
-4. Névre szóló, D sorozatú, 100 Ft névértékû törzsrészvény.<ujsor/>
-A társaság vezetõ tisztségviselõi: Bodrogváryné dr. Kádár Ilona elnök-vezérigazgató (1025 Budapest, Verecke út 34.), Kiss Mihály igazgatósági tag (1225 Budapest, Campona u. 1.), Berta Oleg Zsolt igazgatósági tag (8600 Siófok, Koch R. u. 20/B).<ujsor/>
-A társaság felügyelõbizottságának tagjai: Varga Sándor (1042 Budapest, Rózsa u. 57. III. 9.), Bartha István (1042 Budapest, Árpád út 167.), Orbán Mária (1044 Budapest, Bezerédi köz 5.).<ujsor/>
-A társaság tevékenységi körei (TEÁOR &apos;03): 5247 Könyv-, újság-, papíráru-kiskereskedelem (fõ tevékenység).<ujsor/>
-Egyéb tevékenységi körök: 5118 Máshova nem sorolt termék ügynöki nagykereskedelme; 5144 Porcelán-, üvegáru-, tapéta-, tisztítószer-nagykereskedelem; 5147 Egyéb fogyasztási cikk nagykereskedelme; 5184 Számítógép, szoftver nagykereskedelme; 5185 Egyéb irodagép, -bútor nagykereskedelme; 5190 Egyéb nagykereskedelem; 5212 Iparcikk jellegû vegyes kiskereskedelem; 5243 Lábbeli-, bõráru-kiskereskedelem; 5245 Elektromos háztartási cikk kiskereskedelme; 5248 Egyéb, máshová nem sorolt iparcikk-kiskereskedelem; 5261 Csomagküldõ kiskereskedelem; 5263 Egyéb, nem bolti kiskereskedelem; 5274 Egyéb fogyasztási cikk javítása; 7011 Ingatlanberuházás, -eladás; 7012 Ingatlanforgalmazás; 7020 Ingatlan bérbeadása, üzemeltetése; 7031 Ingatlanügynöki tevékenység; 7032 Ingatlankezelés; 7110 Gépkocsikölcsönzés; 7133 Irodagép, számítógép kölcsönzése; 7412 Számviteli, adószakértõi tevékenység.<ujsor/>
-A kiválással létrejövõ társaság adatai:<ujsor/>
-Név: Royal Investment Ingatlanhasznosító Korlátolt Felelõsségû Társaság.<ujsor/>
-Rövidített név: Royal Investment Kft.<ujsor/>
-Társasági forma: korlátolt felelõsségû társaság.<ujsor/>
-Székhelye: 1135 Budapest, Béke u. 2-4.<ujsor/>
-Alapító okirat elfogadásának napja: 2003. május 5.<ujsor/>
-A társaság vezetõ tisztségviselõje: Berta Oleg Zsolt ügyvezetõ (8600 Siófok, Koch R. u. 20/B).<ujsor/>
-A társaság tevékenységi körei (TEÁOR &apos;03): 7012 Ingatlanforgalmazás.<ujsor/>
-Egyéb tevékenységi körök: 3220 Ipari híradástechnikai termék gyártása; 3230 Híradástechnikai fogyasztási cikk gyártása; 5114 Gép, hajó, repülõgép ügynöki nagykereskedelme; 5115 Bútor, háztartási áru, vasáru ügynöki nagykereskedelme; 5118 Máshova nem sorolt termék ügynöki nagykereskedelme; 5139 Élelmiszer, ital, dohányáru vegyes nagykereskedelme; 5141 Textil-nagykereskedelem; 5143 Elektromos háztartási cikk nagykereskedelme; 5147 Egyéb fogyasztási cikk nagykereskedelme; 5153 Fa-, építõanyag-, szaniteráru-nagykereskedelem; 5181 Szerszámgép-nagykereskedelem; 5184 Számítógép, szoftver nagykereskedelme; 5185 Egyéb irodagép, -bútor nagykereskedelme; 5190 Egyéb nagykereskedelem; 5211 Élelmiszer jellegû vegyes kiskereskedelem; 5212 Iparcikk jellegû vegyes kiskereskedelem; 5227 Egyéb élelmiszer-kiskereskedelem; 5241 Textil-kiskereskedelem; 5242 Ruházati kiskereskedelem; 5244 Bútor-, háztartásicikk-kiskereskedelem; 5245 Elektromos háztartási cikk kiskereskedelme; 5246 Vasáru-, festék-, üveg-kiskereskedelem; 5247 Könyv-, újság-, papíráru-kiskereskedelem; 5248 Egyéb, máshová nem sorolt iparcikk-kiskereskedelem; 5262 Piaci kiskereskedelem; 5263 Egyéb, nem bolti kiskereskedelem; 5272 Elektromos háztartási cikk javítása; 5274 Egyéb fogyasztási cikk javítása; 7011 Ingatlanberuházás, -eladás; 7020 Ingatlan bérbeadása, üzemeltetése; 7031 Ingatlanügynöki tevékenység; 7032 Ingatlankezelés; 7110 Gépkocsikölcsönzés; 7133 Irodagép, számítógép kölcsönzése; 7140 Fogyasztási cikk kölcsönzése; 7210 Hardver-szaktanácsadás; 7221 Szoftverkiadás; 7222 Egyéb szoftver-szaktanácsadás, -ellátás; 7260 Egyéb számítástechnikai tevékenység; 7414 Üzletviteli tanácsadás; 7415 Vagyonkezelés; 7420 Mérnöki tevékenység, tanácsadás; 7430 Mûszaki vizsgálat, elemzés; 7440 Hirdetés; 7487 Máshová nem sorolt, egyéb gazdasági szolgáltatás.<ujsor/>
-Felhívjuk a hitelezõk figyelmét, hogy a Gt. 66. § szerinti jogaikkal élhetnek.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">Az ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 041200]; 1135 Budapest, BÃ©ke u. 2-4.)<ujsor/>
+szÃ©tvÃ¡lik<ujsor/>
+oly mÃ³don, hogy az ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡gbÃ³l kivÃ¡lik a Royal Investment IngatlanhasznosÃ­tÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+Az Ã¡talakulÃ¡s mÃ³dja: kivÃ¡lÃ¡s.<ujsor/>
+Az Ã¡talakulÃ³ tÃ¡rsasÃ¡g (ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 1 524 624 SajÃ¡t tÅ‘ke 1 282 129<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 786 717 Jegyzett tÅ‘ke 105 500<ujsor/>
+  KÃ¶telezettsÃ©gek 942 707<ujsor/>
+Ã–SSZESEN: 2 320 785 Ã–SSZESEN: 2 320 785<ujsor/>
+A fennmaradÃ³ tÃ¡rsasÃ¡g (ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 116 589 SajÃ¡t tÅ‘ke 262 692<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 349 820 Jegyzett tÅ‘ke* 21 600<ujsor/>
+  KÃ¶telezettsÃ©gek 176 894<ujsor/>
+Ã–SSZESEN: 475 497 Ã–SSZESEN: 475 497<ujsor/>
+* EbbÅ‘l pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s 1 937 564 Ft, nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s 19 660 436 Ft.<ujsor/>
+A kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g (Royal Investment IngatlanhasznosÃ­tÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 1 408 035 SajÃ¡t tÅ‘ke 1 019 437<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 436 897 Jegyzett tÅ‘ke* 83 900<ujsor/>
+  KÃ¶telezettsÃ©gek 765 813<ujsor/>
+Ã–SSZESEN: 1 845 288 Ã–SSZESEN: 1 845 288<ujsor/>
+* EbbÅ‘l pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s 759 000 Ft, nem pÃ©nzbeli hozzÃ¡jÃ¡rulÃ¡s 83 141 000 Ft.<ujsor/>
+A jogok Ã©s kÃ¶telezettsÃ©gek megoszlÃ¡sÃ¡ra vonatkozÃ³ megÃ¡llapodÃ¡s fontosabb rendelkezÃ©sei:<ujsor/>
+Az ÃPISZ Rt. tulajdonosai a 2002. december 28-Ã¡n megtartott kÃ¶zgyÅ±lÃ©sen hatÃ¡roztak az ÃPISZ Rt. ingatlan Ã©s papÃ­r-Ã­rÃ³szer Ã¼zletÃ¡gÃ¡nak szÃ©tvÃ¡lasztÃ¡sÃ¡rÃ³l. Az Ã¼zletÃ¡gak szÃ©tvÃ¡lasztÃ¡sa az ingatlan Ã¼zletÃ¡g kivÃ¡lÃ¡sa ÃºtjÃ¡n tÃ¶rtÃ©nik. Ennek megfelelÅ‘en a tÃ¡rsasÃ¡gi vagyon felosztÃ¡sÃ¡nak elve a kÃ©t Ã¼zletÃ¡ghoz kapcsolÃ³dÃ³ eszkÃ¶zÃ¶k Ã©s forrÃ¡sok, jogok Ã©s kÃ¶telezettsÃ©gek Ã¼zletÃ¡gi tevÃ©kenysÃ©ghez igazodÃ³ szÃ©tvÃ¡lasztÃ¡sa.<ujsor/>
+A szÃ©tvÃ¡lÃ¡si szerzÅ‘dÃ©s vagyonmegosztÃ¡si javaslata szerint az Ã¡talakulÃ³ ÃPISZ Rt. Ã¶sszesen 2 320 785 Ft Ã©rtÃ©kÅ± eszkÃ¶zeinek 79,5%-a (1 845 288 Ft) a kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ Royal Investment Kft., 20,5%-a (475 497 Ft) a fennmaradÃ³ tÃ¡rsasÃ¡g (ÃPISZ Rt.) eszkÃ¶zeit kÃ©pezi.<ujsor/>
+A fentiekben leÃ­rt elvek szerint az ingatlan Ã¼zletÃ¡ghoz kapcsolÃ³dÃ³ jogok Ã©s kÃ¶telezettsÃ©gek a kivÃ¡lÃ¡s ÃºtjÃ¡n lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡got illetik meg Ã©s terhelik. SzÃ¡mszerÅ±sÃ­tve ezt, az Ã¡talakulÃ³ tÃ¡rsasÃ¡g (ÃPISZ Rt.) jogainak Ã©s kÃ¶telezettsÃ©geinek 79,5%-a a kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ Royal Investment Kft.-t illeti meg, illetve terheli. Az ingatlan Ã¼zletÃ¡ghoz nem kapcsolhatÃ³ tevÃ©kenysÃ©gekhez fÅ±zÅ‘dÅ‘ jogok Ã©s kÃ¶telezettsÃ©gek a szÃ©tvÃ¡lÃ¡s utÃ¡n fennmaradÃ³ ÃPISZ Rt.-t illetik meg Ã©s terhelik. SzÃ¡mszerÅ±sÃ­tve ezt, az Ã¡talakulÃ³ ÃPISZ Rt. jogainak Ã©s kÃ¶telezettsÃ©geinek 20,5%-a a fennmaradÃ³ ÃPISZ Rt.-t illeti meg, illetve terheli.<ujsor/>
+A fennmaradÃ³ tÃ¡rsasÃ¡g adatai:<ujsor/>
+NÃ©v: ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+RÃ¶vidÃ­tett nÃ©v: ÃPISZ Rt.<ujsor/>
+TÃ¡rsasÃ¡gi forma: rÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khely: 1135 Budapest, BÃ©ke u. 2-4.<ujsor/>
+AlapÃ­tÃ³ okirat elfogadÃ¡sÃ¡nak napja: 2003. mÃ¡jus 5.<ujsor/>
+Az alaptÅ‘kÃ©t megtestesÃ­tÅ‘ rÃ©szvÃ©nyek:<ujsor/>
+1. NÃ©vre szÃ³lÃ³, A sorozatÃº, 10 000 000 Ft nÃ©vÃ©rtÃ©kÅ± tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+2. NÃ©vre szÃ³lÃ³, B sorozatÃº, 1 000 000 Ft nÃ©vÃ©rtÃ©kÅ± tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+3. NÃ©vre szÃ³lÃ³, C sorozatÃº, 100 000 Ft nÃ©vÃ©rtÃ©kÅ± tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+4. NÃ©vre szÃ³lÃ³, D sorozatÃº, 100 Ft nÃ©vÃ©rtÃ©kÅ± tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+A tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘i: BodrogvÃ¡rynÃ© dr. KÃ¡dÃ¡r Ilona elnÃ¶k-vezÃ©rigazgatÃ³ (1025 Budapest, Verecke Ãºt 34.), Kiss MihÃ¡ly igazgatÃ³sÃ¡gi tag (1225 Budapest, Campona u. 1.), Berta Oleg Zsolt igazgatÃ³sÃ¡gi tag (8600 SiÃ³fok, Koch R. u. 20/B).<ujsor/>
+A tÃ¡rsasÃ¡g felÃ¼gyelÅ‘bizottsÃ¡gÃ¡nak tagjai: Varga SÃ¡ndor (1042 Budapest, RÃ³zsa u. 57. III. 9.), Bartha IstvÃ¡n (1042 Budapest, ÃrpÃ¡d Ãºt 167.), OrbÃ¡n MÃ¡ria (1044 Budapest, BezerÃ©di kÃ¶z 5.).<ujsor/>
+A tÃ¡rsasÃ¡g tevÃ©kenysÃ©gi kÃ¶rei (TEÃOR &apos;03): 5247 KÃ¶nyv-, ÃºjsÃ¡g-, papÃ­rÃ¡ru-kiskereskedelem (fÅ‘ tevÃ©kenysÃ©g).<ujsor/>
+EgyÃ©b tevÃ©kenysÃ©gi kÃ¶rÃ¶k: 5118 MÃ¡shova nem sorolt termÃ©k Ã¼gynÃ¶ki nagykereskedelme; 5144 PorcelÃ¡n-, Ã¼vegÃ¡ru-, tapÃ©ta-, tisztÃ­tÃ³szer-nagykereskedelem; 5147 EgyÃ©b fogyasztÃ¡si cikk nagykereskedelme; 5184 SzÃ¡mÃ­tÃ³gÃ©p, szoftver nagykereskedelme; 5185 EgyÃ©b irodagÃ©p, -bÃºtor nagykereskedelme; 5190 EgyÃ©b nagykereskedelem; 5212 Iparcikk jellegÅ± vegyes kiskereskedelem; 5243 LÃ¡bbeli-, bÅ‘rÃ¡ru-kiskereskedelem; 5245 Elektromos hÃ¡ztartÃ¡si cikk kiskereskedelme; 5248 EgyÃ©b, mÃ¡shovÃ¡ nem sorolt iparcikk-kiskereskedelem; 5261 CsomagkÃ¼ldÅ‘ kiskereskedelem; 5263 EgyÃ©b, nem bolti kiskereskedelem; 5274 EgyÃ©b fogyasztÃ¡si cikk javÃ­tÃ¡sa; 7011 IngatlanberuhÃ¡zÃ¡s, -eladÃ¡s; 7012 IngatlanforgalmazÃ¡s; 7020 Ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se; 7031 IngatlanÃ¼gynÃ¶ki tevÃ©kenysÃ©g; 7032 IngatlankezelÃ©s; 7110 GÃ©pkocsikÃ¶lcsÃ¶nzÃ©s; 7133 IrodagÃ©p, szÃ¡mÃ­tÃ³gÃ©p kÃ¶lcsÃ¶nzÃ©se; 7412 SzÃ¡mviteli, adÃ³szakÃ©rtÅ‘i tevÃ©kenysÃ©g.<ujsor/>
+A kivÃ¡lÃ¡ssal lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g adatai:<ujsor/>
+NÃ©v: Royal Investment IngatlanhasznosÃ­tÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+RÃ¶vidÃ­tett nÃ©v: Royal Investment Kft.<ujsor/>
+TÃ¡rsasÃ¡gi forma: korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khelye: 1135 Budapest, BÃ©ke u. 2-4.<ujsor/>
+AlapÃ­tÃ³ okirat elfogadÃ¡sÃ¡nak napja: 2003. mÃ¡jus 5.<ujsor/>
+A tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘je: Berta Oleg Zsolt Ã¼gyvezetÅ‘ (8600 SiÃ³fok, Koch R. u. 20/B).<ujsor/>
+A tÃ¡rsasÃ¡g tevÃ©kenysÃ©gi kÃ¶rei (TEÃOR &apos;03): 7012 IngatlanforgalmazÃ¡s.<ujsor/>
+EgyÃ©b tevÃ©kenysÃ©gi kÃ¶rÃ¶k: 3220 Ipari hÃ­radÃ¡stechnikai termÃ©k gyÃ¡rtÃ¡sa; 3230 HÃ­radÃ¡stechnikai fogyasztÃ¡si cikk gyÃ¡rtÃ¡sa; 5114 GÃ©p, hajÃ³, repÃ¼lÅ‘gÃ©p Ã¼gynÃ¶ki nagykereskedelme; 5115 BÃºtor, hÃ¡ztartÃ¡si Ã¡ru, vasÃ¡ru Ã¼gynÃ¶ki nagykereskedelme; 5118 MÃ¡shova nem sorolt termÃ©k Ã¼gynÃ¶ki nagykereskedelme; 5139 Ã‰lelmiszer, ital, dohÃ¡nyÃ¡ru vegyes nagykereskedelme; 5141 Textil-nagykereskedelem; 5143 Elektromos hÃ¡ztartÃ¡si cikk nagykereskedelme; 5147 EgyÃ©b fogyasztÃ¡si cikk nagykereskedelme; 5153 Fa-, Ã©pÃ­tÅ‘anyag-, szaniterÃ¡ru-nagykereskedelem; 5181 SzerszÃ¡mgÃ©p-nagykereskedelem; 5184 SzÃ¡mÃ­tÃ³gÃ©p, szoftver nagykereskedelme; 5185 EgyÃ©b irodagÃ©p, -bÃºtor nagykereskedelme; 5190 EgyÃ©b nagykereskedelem; 5211 Ã‰lelmiszer jellegÅ± vegyes kiskereskedelem; 5212 Iparcikk jellegÅ± vegyes kiskereskedelem; 5227 EgyÃ©b Ã©lelmiszer-kiskereskedelem; 5241 Textil-kiskereskedelem; 5242 RuhÃ¡zati kiskereskedelem; 5244 BÃºtor-, hÃ¡ztartÃ¡sicikk-kiskereskedelem; 5245 Elektromos hÃ¡ztartÃ¡si cikk kiskereskedelme; 5246 VasÃ¡ru-, festÃ©k-, Ã¼veg-kiskereskedelem; 5247 KÃ¶nyv-, ÃºjsÃ¡g-, papÃ­rÃ¡ru-kiskereskedelem; 5248 EgyÃ©b, mÃ¡shovÃ¡ nem sorolt iparcikk-kiskereskedelem; 5262 Piaci kiskereskedelem; 5263 EgyÃ©b, nem bolti kiskereskedelem; 5272 Elektromos hÃ¡ztartÃ¡si cikk javÃ­tÃ¡sa; 5274 EgyÃ©b fogyasztÃ¡si cikk javÃ­tÃ¡sa; 7011 IngatlanberuhÃ¡zÃ¡s, -eladÃ¡s; 7020 Ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se; 7031 IngatlanÃ¼gynÃ¶ki tevÃ©kenysÃ©g; 7032 IngatlankezelÃ©s; 7110 GÃ©pkocsikÃ¶lcsÃ¶nzÃ©s; 7133 IrodagÃ©p, szÃ¡mÃ­tÃ³gÃ©p kÃ¶lcsÃ¶nzÃ©se; 7140 FogyasztÃ¡si cikk kÃ¶lcsÃ¶nzÃ©se; 7210 Hardver-szaktanÃ¡csadÃ¡s; 7221 SzoftverkiadÃ¡s; 7222 EgyÃ©b szoftver-szaktanÃ¡csadÃ¡s, -ellÃ¡tÃ¡s; 7260 EgyÃ©b szÃ¡mÃ­tÃ¡stechnikai tevÃ©kenysÃ©g; 7414 Ãœzletviteli tanÃ¡csadÃ¡s; 7415 VagyonkezelÃ©s; 7420 MÃ©rnÃ¶ki tevÃ©kenysÃ©g, tanÃ¡csadÃ¡s; 7430 MÅ±szaki vizsgÃ¡lat, elemzÃ©s; 7440 HirdetÃ©s; 7487 MÃ¡shovÃ¡ nem sorolt, egyÃ©b gazdasÃ¡gi szolgÃ¡ltatÃ¡s.<ujsor/>
+FelhÃ­vjuk a hitelezÅ‘k figyelmÃ©t, hogy a Gt. 66. Â§ szerinti jogaikkal Ã©lhetnek.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110041200</mezo>
-<mezo id = "nev">ÁPISZ Kereskedelmi Részvénytársaság</mezo>
-<mezo id = "cim">1135 Budapest, Béke út 2-4. </mezo>
+<mezo id = "nev">ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1135 Budapest, BÃ©ke Ãºt 2-4. </mezo>
 </alrovat>
 <alrovat id = "14">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2003. 08. 28-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-5(10). Részvényfajta: névre szóló törzsrészvény.<ujsor/>
-Sorozatszám: &quot;D&quot;.<ujsor/>
- Egy darab egyszáz Ft.<ujsor/>
- Törölve: 2003. 08. 28-i hatállyal.<ujsor/>
- Részvényfajta: névre szóló törzsrészvény.<ujsor/>
-Sorozatszám: &quot;D&quot;.<ujsor/>
- Egyezer darab egyszáz Ft.<ujsor/>
- Hatályos: 2003. 08. 28-tól.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2003. 08. 28-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+5(10). RÃ©szvÃ©nyfajta: nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+SorozatszÃ¡m: &quot;D&quot;.<ujsor/>
+ Egy darab egyszÃ¡z Ft.<ujsor/>
+ TÃ¶rÃ¶lve: 2003. 08. 28-i hatÃ¡llyal.<ujsor/>
+ RÃ©szvÃ©nyfajta: nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+SorozatszÃ¡m: &quot;D&quot;.<ujsor/>
+ Egyezer darab egyszÃ¡z Ft.<ujsor/>
+ HatÃ¡lyos: 2003. 08. 28-tÃ³l.<ujsor/>
 Bejegyezve: 2003. 12. 01.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110041200</mezo>
-<mezo id = "nev">ÁPISZ Kereskedelmi Részvénytársaság</mezo>
-<mezo id = "cim">1135 Budapest, Béke út 2-4.</mezo>
+<mezo id = "nev">ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1135 Budapest, BÃ©ke Ãºt 2-4.</mezo>
 <mezo id = "adosz">10244043241</mezo>
 </alrovat>
 <alrovat id = "15">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az ellenõrzött gazdasági társaság neve: ÁPISZ Kereskedelmi Részvénytársaság.<ujsor/>
-Cégjegyzékszáma: [01 10 041200].<ujsor/>
-Székhely: 1135 Budapest, Béke u. 2-4.<ujsor/>
-A befolyást szerzõ neve: Royal Investment Ingatlanhasznosító Korlátolt Felelõsségû Társaság.<ujsor/>
-Cégjegyzékszáma: [01 09 716875].<ujsor/>
-Székhely: 1135 Budapest, Béke u. 2-4.<ujsor/>
-A befolyásszerzés idõpontja: 2003. december 31.<ujsor/>
-A befolyás mértéke: 99,569%, azaz közvetlen irányítást biztosító befolyás.<ujsor/>
-A hitelezõk a Gt. 296. § (2) bekezdése szerinti jogaikat gyakorolhatják.<ujsor/>
+<mezo id = "szoveg">Az ellenÅ‘rzÃ¶tt gazdasÃ¡gi tÃ¡rsasÃ¡g neve: ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡ma: [01 10 041200].<ujsor/>
+SzÃ©khely: 1135 Budapest, BÃ©ke u. 2-4.<ujsor/>
+A befolyÃ¡st szerzÅ‘ neve: Royal Investment IngatlanhasznosÃ­tÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡ma: [01 09 716875].<ujsor/>
+SzÃ©khely: 1135 Budapest, BÃ©ke u. 2-4.<ujsor/>
+A befolyÃ¡sszerzÃ©s idÅ‘pontja: 2003. december 31.<ujsor/>
+A befolyÃ¡s mÃ©rtÃ©ke: 99,569%, azaz kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡s.<ujsor/>
+A hitelezÅ‘k a Gt. 296. Â§ (2) bekezdÃ©se szerinti jogaikat gyakorolhatjÃ¡k.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110041200</mezo>
-<mezo id = "nev">ÁPISZ Kereskedelmi Részvénytársaság</mezo>
-<mezo id = "cim">1135 Budapest, Béke út 2-4. </mezo>
+<mezo id = "nev">ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1135 Budapest, BÃ©ke Ãºt 2-4. </mezo>
 </alrovat>
 <alrovat id = "16">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az ÁPISZ Kereskedelmi Részvénytársaság (Cg.: [01 10 041200]; 1135 Budapest, Béke u. 2–4.) 2003. május 5-i átalakulását a Fõvárosi Bíróság mint Cégbíróság 2003. augusztus 28-i keltû, 01-10-041200/144. számú végzésével bejegyezte. Az átalakulással kapcsolatosan az alaptõke leszállítására is sor került, melynek kapcsán a társaság írásban felszólította a részvényeseket a részvényeik határidõben történõ benyújtására.<ujsor/>
-A felhívásnak eleget nem tett részvényesek 072460–072502 sorszámú, 10 000 Ft névértékû, ,,B” sorozatú, névre szóló törzsrészvényeit a társaság a Gazdasági társaságokról szóló 1997. évi CXLIV. tv. (Gt.) 263. § (1) bekezdése alapján érvénytelenné nyilvánította.<ujsor/>
-A részvények érvénytelenítését követõ eljárásra a Gt. 263. § (2) bekezdésének rendelkezései irányadók.<ujsor/>
+<mezo id = "szoveg">Az ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 041200]; 1135 Budapest, BÃ©ke u. 2â€“4.) 2003. mÃ¡jus 5-i Ã¡talakulÃ¡sÃ¡t a FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g 2003. augusztus 28-i keltÅ±, 01-10-041200/144. szÃ¡mÃº vÃ©gzÃ©sÃ©vel bejegyezte. Az Ã¡talakulÃ¡ssal kapcsolatosan az alaptÅ‘ke leszÃ¡llÃ­tÃ¡sÃ¡ra is sor kerÃ¼lt, melynek kapcsÃ¡n a tÃ¡rsasÃ¡g Ã­rÃ¡sban felszÃ³lÃ­totta a rÃ©szvÃ©nyeseket a rÃ©szvÃ©nyeik hatÃ¡ridÅ‘ben tÃ¶rtÃ©nÅ‘ benyÃºjtÃ¡sÃ¡ra.<ujsor/>
+A felhÃ­vÃ¡snak eleget nem tett rÃ©szvÃ©nyesek 072460â€“072502 sorszÃ¡mÃº, 10 000 Ft nÃ©vÃ©rtÃ©kÅ±, ,,Bâ€ sorozatÃº, nÃ©vre szÃ³lÃ³ tÃ¶rzsrÃ©szvÃ©nyeit a tÃ¡rsasÃ¡g a GazdasÃ¡gi tÃ¡rsasÃ¡gokrÃ³l szÃ³lÃ³ 1997. Ã©vi CXLIV. tv. (Gt.) 263. Â§ (1) bekezdÃ©se alapjÃ¡n Ã©rvÃ©nytelennÃ© nyilvÃ¡nÃ­totta.<ujsor/>
+A rÃ©szvÃ©nyek Ã©rvÃ©nytelenÃ­tÃ©sÃ©t kÃ¶vetÅ‘ eljÃ¡rÃ¡sra a Gt. 263. Â§ (2) bekezdÃ©sÃ©nek rendelkezÃ©sei irÃ¡nyadÃ³k.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110041200</mezo>
-<mezo id = "nev">ÁPISZ Kereskedelmi Részvénytársaság</mezo>
-<mezo id = "cim">1135 Budapest, Béke út 2-4. </mezo>
+<mezo id = "nev">ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1135 Budapest, BÃ©ke Ãºt 2-4. </mezo>
 </alrovat>
 <alrovat id = "17">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az ellenõrzött gazdasági társaság neve: ÁPISZ Kereskedelmi Részvénytársaság.<ujsor/>
-Cégjegyzékszáma: [01 10 041200].<ujsor/>
-Székhelye: 1135 Budapest, Béke u. 2­4.<ujsor/>
-Törzstõke: 21 600 000 Ft.<ujsor/>
-A befolyást szerzõ neve: BUDA-PIÉRT Kereskedelmi Korlátolt Felelõsségû Társaság.<ujsor/>
-Cégjegyzékszáma: [01 09 078839].<ujsor/>
-Székhelye: 1119 Budapest, Tétényi út 106.<ujsor/>
-A befolyásszerzés idõpontja: 2004. szeptember 30.<ujsor/>
-A befolyás mértéke: 99,7861%, közvetlen irányítást biztosító befolyás.<ujsor/>
-A befolyásszerzõ törzsbetéte: 21 553 800 Ft.<ujsor/>
-A hitelezõk a Gt. 296. § (2) bekezdése szerinti jogaikat gyakorolhatják.<ujsor/>
+<mezo id = "szoveg">Az ellenÅ‘rzÃ¶tt gazdasÃ¡gi tÃ¡rsasÃ¡g neve: ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡ma: [01 10 041200].<ujsor/>
+SzÃ©khelye: 1135 Budapest, BÃ©ke u. 2Â­4.<ujsor/>
+TÃ¶rzstÅ‘ke: 21 600 000 Ft.<ujsor/>
+A befolyÃ¡st szerzÅ‘ neve: BUDA-PIÃ‰RT Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡ma: [01 09 078839].<ujsor/>
+SzÃ©khelye: 1119 Budapest, TÃ©tÃ©nyi Ãºt 106.<ujsor/>
+A befolyÃ¡sszerzÃ©s idÅ‘pontja: 2004. szeptember 30.<ujsor/>
+A befolyÃ¡s mÃ©rtÃ©ke: 99,7861%, kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡s.<ujsor/>
+A befolyÃ¡sszerzÅ‘ tÃ¶rzsbetÃ©te: 21 553 800 Ft.<ujsor/>
+A hitelezÅ‘k a Gt. 296. Â§ (2) bekezdÃ©se szerinti jogaikat gyakorolhatjÃ¡k.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110041200</mezo>
-<mezo id = "nev">ÁPISZ Kereskedelmi Részvénytársaság</mezo>
+<mezo id = "nev">ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1135 Budapest</mezo>
 </alrovat>
 <alrovat id = "18">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A BUDA-PIÉRT Kereskedelmi Korlátolt Felelõsségû Társaság (Cg.: [01 09 078839]; 1119 Budapest, Tétényi út 106.) és az ÁPISZ Kereskedelmi Részvénytársaság (Cg.: [01 10 041200]; 1135 Budapest, Béke u. 2­4.)<ujsor/>
-egyesül<ujsor/>
-oly módon, hogy az ÁPISZ Kereskedelmi Részvénytársaságba beolvad a BUDA-PIÉRT Kereskedelmi Korlátolt Felelõsségû Társaság.<ujsor/>
-Az átalakulás módja: beolvadás.<ujsor/>
-Az átalakuló társaságok vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-BUDA-PIÉRT Kereskedelmi Korlátolt Felelõsségû Társaság:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 229 251 Saját tõke 429 992<ujsor/>
-Forgóeszközök 1 174 171 Jegyzett tõke 110 000<ujsor/>
-Kötelezettségek 963 237<ujsor/>
-ÖSSZESEN: 1 407 739 ÖSSZESEN: 1 407 739<ujsor/>
-ÁPISZ Kereskedelmi Részvénytársaság:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 52 616 Saját tõke 89 930<ujsor/>
-Forgóeszközök 548 307 Jegyzett tõke 21 600<ujsor/>
-Kötelezettségek 481 101<ujsor/>
-ÖSSZESEN:  602 324 ÖSSZESEN: 602 324<ujsor/>
-A létrejövõ társaság (ÁBP ÁPISZ-BudaPiért Kereskedelmi Részvénytársaság) vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 95 461 Saját tõke 333 516<ujsor/>
-Forgóeszközök 1 422 485 Jegyzett tõke 110 000<ujsor/>
-Kötelezettségek 1 144 345<ujsor/>
-ÖSSZESEN: 1 523 664 ÖSSZESEN: 1 523 664<ujsor/>
-A létrejövõ társaság adatai:<ujsor/>
-Név: ÁBP ÁPISZ-BudaPiért Kereskedelmi Részvénytársaság.<ujsor/>
-Rövidített név: ÁBP ÁPISZ-BudaPiért Rt.<ujsor/>
-Társasági forma: részvénytársaság.<ujsor/>
-Székhely: 1149 Budapest, Mogyoródi út 32.<ujsor/>
-Alapító okirat elfogadásának napja: 2005. június 7.<ujsor/>
-Az alaptõkét megtestesítõ részvények:<ujsor/>
-1. névre szóló „A” sorozatú 10 000 000 Ft névértékû törzsrészvény.<ujsor/>
-2. névre szóló „B” sorozatú 1 000 000 Ft névértékû törzsrészvény.<ujsor/>
-3. névre szóló „C” sorozatú 100 000 Ft névértékû törzsrészvény.<ujsor/>
-4. névre szóló „D” sorozatú 100 Ft névértékû törzsrészvény.<ujsor/>
-A társaság vezetõ tisztségviselõi: Berta Oleg Zsolt igazgatósági tag (8600 Siófok, Koch R. u. 20/B), Bodrogváryné dr. Kádár Ilona igazgatósági tag (1025 Budapest, Verecke út 34.), Verõ György igazgatósági tag (1141 Budapest, Vízakna u. 15.).<ujsor/>
-A társaság felügyelõbizottsági tagjai: Varga Sándor (1042 Budapest, Rózsa u. 57. III. 9.), Bartha István (1042 Budapest, Árpád út 167.), Nagy Andrea (1148 Budapest, Örs vezér tere 12. V. 23.).<ujsor/>
-A társaság tevékenységi körei (TEÁOR ‘03):<ujsor/>
-Fõ tevékenység: 5147 Egyéb fogyasztási cikk nagykereskedelme.<ujsor/>
-Egyéb tevékenységi körök: 2222 Máshova nem sorolt nyomás; 5114 Gép, hajó, repülõgép ügynöki nagykereskedelme; 5115 Bútor, háztartási áru, vasáru ügynöki nagykereskedelme; 5118 Máshova nem sorolt termék ügynöki nagykereskedelme; 5144 Porcelán-, üvegáru-, tapéta-, tisztítószer-nagykereskedelem; 5184 Számítógép, szoftver nagykereskedelme; 5185 Egyéb irodagép, -bútor nagykereskedelme; 5190 Egyéb nagykereskedelem; 5212 Iparcikk jellegû vegyes kiskereskedelem; 5233 Illatszer-kiskereskedelem; 5243 Lábbeli-, bõráru-kiskereskedelem; 5245 Elektromos háztartási cikk kiskereskedelme; 5247 Könyv-, újság-, papíráru-kiskereskedelem; 5248 Egyéb, máshová nem sorolt iparcikk-kiskereskedelem; 5261 Csomagküldõ kiskereskedelem; 5263 Egyéb, nem bolti kiskereskedelem; 5274 Egyéb fogyasztási cikk javítása; 6312 Tárolás, raktározás; 7011 Ingatlanberuházás, -eladás; 7012 Ingatlanforgalmazás; 7020 Ingatlan bérbeadása, üzemeltetése; 7031 Ingatlanügynöki tevékenység; 7032 Ingatlankezelés; 7110 Gépkocsikölcsönzés; 7133 Irodagép, számítógép kölcsönzése; 7134 Máshova nem sorolt, egyéb gép kölcsönzése; 7222 Egyéb szoftver-szaktanácsadás, -ellátás; 7230 Adatfeldolgozás; 7412 Számviteli, adószakértõi tevékenység; 7413 Piac-, közvélemény-kutatás; 7414 Üzletviteli tanácsadás; 7440 Hirdetés; 7487 Máshová nem sorolt, egyéb gazdasági szolgáltatás.<ujsor/>
-Felhívjuk a hitelezõk figyelmét, hogy a Gt. 66. § szerinti jogaikkal élhetnek.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">A BUDA-PIÃ‰RT Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [01 09 078839]; 1119 Budapest, TÃ©tÃ©nyi Ãºt 106.) Ã©s az ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 041200]; 1135 Budapest, BÃ©ke u. 2Â­4.)<ujsor/>
+egyesÃ¼l<ujsor/>
+oly mÃ³don, hogy az ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡gba beolvad a BUDA-PIÃ‰RT Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+Az Ã¡talakulÃ¡s mÃ³dja: beolvadÃ¡s.<ujsor/>
+Az Ã¡talakulÃ³ tÃ¡rsasÃ¡gok vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+BUDA-PIÃ‰RT Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 229 251 SajÃ¡t tÅ‘ke 429 992<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 1 174 171 Jegyzett tÅ‘ke 110 000<ujsor/>
+KÃ¶telezettsÃ©gek 963 237<ujsor/>
+Ã–SSZESEN: 1 407 739 Ã–SSZESEN: 1 407 739<ujsor/>
+ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 52 616 SajÃ¡t tÅ‘ke 89 930<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 548 307 Jegyzett tÅ‘ke 21 600<ujsor/>
+KÃ¶telezettsÃ©gek 481 101<ujsor/>
+Ã–SSZESEN:  602 324 Ã–SSZESEN: 602 324<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g (ÃBP ÃPISZ-BudaPiÃ©rt Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 95 461 SajÃ¡t tÅ‘ke 333 516<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 1 422 485 Jegyzett tÅ‘ke 110 000<ujsor/>
+KÃ¶telezettsÃ©gek 1 144 345<ujsor/>
+Ã–SSZESEN: 1 523 664 Ã–SSZESEN: 1 523 664<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g adatai:<ujsor/>
+NÃ©v: ÃBP ÃPISZ-BudaPiÃ©rt Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+RÃ¶vidÃ­tett nÃ©v: ÃBP ÃPISZ-BudaPiÃ©rt Rt.<ujsor/>
+TÃ¡rsasÃ¡gi forma: rÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khely: 1149 Budapest, MogyorÃ³di Ãºt 32.<ujsor/>
+AlapÃ­tÃ³ okirat elfogadÃ¡sÃ¡nak napja: 2005. jÃºnius 7.<ujsor/>
+Az alaptÅ‘kÃ©t megtestesÃ­tÅ‘ rÃ©szvÃ©nyek:<ujsor/>
+1. nÃ©vre szÃ³lÃ³ â€Aâ€ sorozatÃº 10 000 000 Ft nÃ©vÃ©rtÃ©kÅ± tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+2. nÃ©vre szÃ³lÃ³ â€Bâ€ sorozatÃº 1 000 000 Ft nÃ©vÃ©rtÃ©kÅ± tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+3. nÃ©vre szÃ³lÃ³ â€Câ€ sorozatÃº 100 000 Ft nÃ©vÃ©rtÃ©kÅ± tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+4. nÃ©vre szÃ³lÃ³ â€Dâ€ sorozatÃº 100 Ft nÃ©vÃ©rtÃ©kÅ± tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+A tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘i: Berta Oleg Zsolt igazgatÃ³sÃ¡gi tag (8600 SiÃ³fok, Koch R. u. 20/B), BodrogvÃ¡rynÃ© dr. KÃ¡dÃ¡r Ilona igazgatÃ³sÃ¡gi tag (1025 Budapest, Verecke Ãºt 34.), VerÅ‘ GyÃ¶rgy igazgatÃ³sÃ¡gi tag (1141 Budapest, VÃ­zakna u. 15.).<ujsor/>
+A tÃ¡rsasÃ¡g felÃ¼gyelÅ‘bizottsÃ¡gi tagjai: Varga SÃ¡ndor (1042 Budapest, RÃ³zsa u. 57. III. 9.), Bartha IstvÃ¡n (1042 Budapest, ÃrpÃ¡d Ãºt 167.), Nagy Andrea (1148 Budapest, Ã–rs vezÃ©r tere 12. V. 23.).<ujsor/>
+A tÃ¡rsasÃ¡g tevÃ©kenysÃ©gi kÃ¶rei (TEÃOR â€˜03):<ujsor/>
+FÅ‘ tevÃ©kenysÃ©g: 5147 EgyÃ©b fogyasztÃ¡si cikk nagykereskedelme.<ujsor/>
+EgyÃ©b tevÃ©kenysÃ©gi kÃ¶rÃ¶k: 2222 MÃ¡shova nem sorolt nyomÃ¡s; 5114 GÃ©p, hajÃ³, repÃ¼lÅ‘gÃ©p Ã¼gynÃ¶ki nagykereskedelme; 5115 BÃºtor, hÃ¡ztartÃ¡si Ã¡ru, vasÃ¡ru Ã¼gynÃ¶ki nagykereskedelme; 5118 MÃ¡shova nem sorolt termÃ©k Ã¼gynÃ¶ki nagykereskedelme; 5144 PorcelÃ¡n-, Ã¼vegÃ¡ru-, tapÃ©ta-, tisztÃ­tÃ³szer-nagykereskedelem; 5184 SzÃ¡mÃ­tÃ³gÃ©p, szoftver nagykereskedelme; 5185 EgyÃ©b irodagÃ©p, -bÃºtor nagykereskedelme; 5190 EgyÃ©b nagykereskedelem; 5212 Iparcikk jellegÅ± vegyes kiskereskedelem; 5233 Illatszer-kiskereskedelem; 5243 LÃ¡bbeli-, bÅ‘rÃ¡ru-kiskereskedelem; 5245 Elektromos hÃ¡ztartÃ¡si cikk kiskereskedelme; 5247 KÃ¶nyv-, ÃºjsÃ¡g-, papÃ­rÃ¡ru-kiskereskedelem; 5248 EgyÃ©b, mÃ¡shovÃ¡ nem sorolt iparcikk-kiskereskedelem; 5261 CsomagkÃ¼ldÅ‘ kiskereskedelem; 5263 EgyÃ©b, nem bolti kiskereskedelem; 5274 EgyÃ©b fogyasztÃ¡si cikk javÃ­tÃ¡sa; 6312 TÃ¡rolÃ¡s, raktÃ¡rozÃ¡s; 7011 IngatlanberuhÃ¡zÃ¡s, -eladÃ¡s; 7012 IngatlanforgalmazÃ¡s; 7020 Ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se; 7031 IngatlanÃ¼gynÃ¶ki tevÃ©kenysÃ©g; 7032 IngatlankezelÃ©s; 7110 GÃ©pkocsikÃ¶lcsÃ¶nzÃ©s; 7133 IrodagÃ©p, szÃ¡mÃ­tÃ³gÃ©p kÃ¶lcsÃ¶nzÃ©se; 7134 MÃ¡shova nem sorolt, egyÃ©b gÃ©p kÃ¶lcsÃ¶nzÃ©se; 7222 EgyÃ©b szoftver-szaktanÃ¡csadÃ¡s, -ellÃ¡tÃ¡s; 7230 AdatfeldolgozÃ¡s; 7412 SzÃ¡mviteli, adÃ³szakÃ©rtÅ‘i tevÃ©kenysÃ©g; 7413 Piac-, kÃ¶zvÃ©lemÃ©ny-kutatÃ¡s; 7414 Ãœzletviteli tanÃ¡csadÃ¡s; 7440 HirdetÃ©s; 7487 MÃ¡shovÃ¡ nem sorolt, egyÃ©b gazdasÃ¡gi szolgÃ¡ltatÃ¡s.<ujsor/>
+FelhÃ­vjuk a hitelezÅ‘k figyelmÃ©t, hogy a Gt. 66. Â§ szerinti jogaikkal Ã©lhetnek.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110041200</mezo>
-<mezo id = "nev">ÁPISZ Kereskedelmi Részvénytársaság</mezo>
+<mezo id = "nev">ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1135 Budapest</mezo>
 </alrovat>
 <alrovat id = "19">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A BUDA-PIÉRT Kereskedelmi Korlátolt Felelõsségû Társaság (Cg.: [01 09 078839]; 1119 Budapest, Tétényi út 106.) és az ÁPISZ Kereskedelmi Részvénytársaság (Cg.: [01 10 041200]; 1135 Budapest, Béke u. 2­4.)<ujsor/>
-egyesül<ujsor/>
-oly módon, hogy az ÁPISZ Kereskedelmi Részvénytársaságba beolvad a BUDA-PIÉRT Kereskedelmi Korlátolt Felelõsségû Társaság.<ujsor/>
-Az átalakulás módja: beolvadás.<ujsor/>
-Az átalakuló társaságok vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-BUDA-PIÉRT Kereskedelmi Korlátolt Felelõsségû Társaság:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 229 251 Saját tõke 429 992<ujsor/>
-Forgóeszközök 1 174 171 Jegyzett tõke 110 000<ujsor/>
-Kötelezettségek 963 237<ujsor/>
-ÖSSZESEN: 1 407 739 ÖSSZESEN: 1 407 739<ujsor/>
-ÁPISZ Kereskedelmi Részvénytársaság:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 52 616 Saját tõke 89 930<ujsor/>
-Forgóeszközök 548 307 Jegyzett tõke 21 600<ujsor/>
-Kötelezettségek 481 101<ujsor/>
-ÖSSZESEN:  602 324 ÖSSZESEN: 602 324<ujsor/>
-A létrejövõ társaság (ÁBP ÁPISZ-BudaPiért Kereskedelmi Részvénytársaság) vagyonmérleg-tervezetének legfontosabb adatai:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-Befektetett eszközök 95 461 Saját tõke 333 516<ujsor/>
-Forgóeszközök 1 422 485 Jegyzett tõke 110 000<ujsor/>
-Kötelezettségek 1 144 345<ujsor/>
-ÖSSZESEN: 1 523 664 ÖSSZESEN: 1 523 664<ujsor/>
-A létrejövõ társaság adatai:<ujsor/>
-Név: ÁBP ÁPISZ-BudaPiért Kereskedelmi Részvénytársaság.<ujsor/>
-Rövidített név: ÁBP ÁPISZ-BudaPiért Rt.<ujsor/>
-Társasági forma: részvénytársaság.<ujsor/>
-Székhely: 1149 Budapest, Mogyoródi út 32.<ujsor/>
-Alapító okirat elfogadásának napja: 2005. június 7.<ujsor/>
-Az alaptõkét megtestesítõ részvények:<ujsor/>
-1. névre szóló „A” sorozatú 10 000 000 Ft névértékû törzsrészvény.<ujsor/>
-2. névre szóló „B” sorozatú 1 000 000 Ft névértékû törzsrészvény.<ujsor/>
-3. névre szóló „C” sorozatú 100 000 Ft névértékû törzsrészvény.<ujsor/>
-4. névre szóló „D” sorozatú 100 Ft névértékû törzsrészvény.<ujsor/>
-A társaság vezetõ tisztségviselõi: Berta Oleg Zsolt igazgatósági tag (8600 Siófok, Koch R. u. 20/B), Bodrogváryné dr. Kádár Ilona igazgatósági tag (1025 Budapest, Verecke út 34.), Verõ György igazgatósági tag (1141 Budapest, Vízakna u. 15.).<ujsor/>
-A társaság felügyelõbizottsági tagjai: Varga Sándor (1042 Budapest, Rózsa u. 57. III. 9.), Bartha István (1042 Budapest, Árpád út 167.), Nagy Andrea (1148 Budapest, Örs vezér tere 12. V. 23.).<ujsor/>
-A társaság tevékenységi körei (TEÁOR ‘03):<ujsor/>
-Fõ tevékenység: 5147 Egyéb fogyasztási cikk nagykereskedelme.<ujsor/>
-Egyéb tevékenységi körök: 2222 Máshova nem sorolt nyomás; 5114 Gép, hajó, repülõgép ügynöki nagykereskedelme; 5115 Bútor, háztartási áru, vasáru ügynöki nagykereskedelme; 5118 Máshova nem sorolt termék ügynöki nagykereskedelme; 5144 Porcelán-, üvegáru-, tapéta-, tisztítószer-nagykereskedelem; 5184 Számítógép, szoftver nagykereskedelme; 5185 Egyéb irodagép, -bútor nagykereskedelme; 5190 Egyéb nagykereskedelem; 5212 Iparcikk jellegû vegyes kiskereskedelem; 5233 Illatszer-kiskereskedelem; 5243 Lábbeli-, bõráru-kiskereskedelem; 5245 Elektromos háztartási cikk kiskereskedelme; 5247 Könyv-, újság-, papíráru-kiskereskedelem; 5248 Egyéb, máshová nem sorolt iparcikk-kiskereskedelem; 5261 Csomagküldõ kiskereskedelem; 5263 Egyéb, nem bolti kiskereskedelem; 5274 Egyéb fogyasztási cikk javítása; 6312 Tárolás, raktározás; 7011 Ingatlanberuházás, -eladás; 7012 Ingatlanforgalmazás; 7020 Ingatlan bérbeadása, üzemeltetése; 7031 Ingatlanügynöki tevékenység; 7032 Ingatlankezelés; 7110 Gépkocsikölcsönzés; 7133 Irodagép, számítógép kölcsönzése; 7134 Máshova nem sorolt, egyéb gép kölcsönzése; 7222 Egyéb szoftver-szaktanácsadás, -ellátás; 7230 Adatfeldolgozás; 7412 Számviteli, adószakértõi tevékenység; 7413 Piac-, közvélemény-kutatás; 7414 Üzletviteli tanácsadás; 7440 Hirdetés; 7487 Máshová nem sorolt, egyéb gazdasági szolgáltatás.<ujsor/>
-Felhívjuk a hitelezõk figyelmét, hogy a Gt. 66. § szerinti jogaikkal élhetnek.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">A BUDA-PIÃ‰RT Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Cg.: [01 09 078839]; 1119 Budapest, TÃ©tÃ©nyi Ãºt 106.) Ã©s az ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 041200]; 1135 Budapest, BÃ©ke u. 2Â­4.)<ujsor/>
+egyesÃ¼l<ujsor/>
+oly mÃ³don, hogy az ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡gba beolvad a BUDA-PIÃ‰RT Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+Az Ã¡talakulÃ¡s mÃ³dja: beolvadÃ¡s.<ujsor/>
+Az Ã¡talakulÃ³ tÃ¡rsasÃ¡gok vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+BUDA-PIÃ‰RT Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 229 251 SajÃ¡t tÅ‘ke 429 992<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 1 174 171 Jegyzett tÅ‘ke 110 000<ujsor/>
+KÃ¶telezettsÃ©gek 963 237<ujsor/>
+Ã–SSZESEN: 1 407 739 Ã–SSZESEN: 1 407 739<ujsor/>
+ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 52 616 SajÃ¡t tÅ‘ke 89 930<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 548 307 Jegyzett tÅ‘ke 21 600<ujsor/>
+KÃ¶telezettsÃ©gek 481 101<ujsor/>
+Ã–SSZESEN:  602 324 Ã–SSZESEN: 602 324<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g (ÃBP ÃPISZ-BudaPiÃ©rt Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g) vagyonmÃ©rleg-tervezetÃ©nek legfontosabb adatai:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+Befektetett eszkÃ¶zÃ¶k 95 461 SajÃ¡t tÅ‘ke 333 516<ujsor/>
+ForgÃ³eszkÃ¶zÃ¶k 1 422 485 Jegyzett tÅ‘ke 110 000<ujsor/>
+KÃ¶telezettsÃ©gek 1 144 345<ujsor/>
+Ã–SSZESEN: 1 523 664 Ã–SSZESEN: 1 523 664<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g adatai:<ujsor/>
+NÃ©v: ÃBP ÃPISZ-BudaPiÃ©rt Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+RÃ¶vidÃ­tett nÃ©v: ÃBP ÃPISZ-BudaPiÃ©rt Rt.<ujsor/>
+TÃ¡rsasÃ¡gi forma: rÃ©szvÃ©nytÃ¡rsasÃ¡g.<ujsor/>
+SzÃ©khely: 1149 Budapest, MogyorÃ³di Ãºt 32.<ujsor/>
+AlapÃ­tÃ³ okirat elfogadÃ¡sÃ¡nak napja: 2005. jÃºnius 7.<ujsor/>
+Az alaptÅ‘kÃ©t megtestesÃ­tÅ‘ rÃ©szvÃ©nyek:<ujsor/>
+1. nÃ©vre szÃ³lÃ³ â€Aâ€ sorozatÃº 10 000 000 Ft nÃ©vÃ©rtÃ©kÅ± tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+2. nÃ©vre szÃ³lÃ³ â€Bâ€ sorozatÃº 1 000 000 Ft nÃ©vÃ©rtÃ©kÅ± tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+3. nÃ©vre szÃ³lÃ³ â€Câ€ sorozatÃº 100 000 Ft nÃ©vÃ©rtÃ©kÅ± tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+4. nÃ©vre szÃ³lÃ³ â€Dâ€ sorozatÃº 100 Ft nÃ©vÃ©rtÃ©kÅ± tÃ¶rzsrÃ©szvÃ©ny.<ujsor/>
+A tÃ¡rsasÃ¡g vezetÅ‘ tisztsÃ©gviselÅ‘i: Berta Oleg Zsolt igazgatÃ³sÃ¡gi tag (8600 SiÃ³fok, Koch R. u. 20/B), BodrogvÃ¡rynÃ© dr. KÃ¡dÃ¡r Ilona igazgatÃ³sÃ¡gi tag (1025 Budapest, Verecke Ãºt 34.), VerÅ‘ GyÃ¶rgy igazgatÃ³sÃ¡gi tag (1141 Budapest, VÃ­zakna u. 15.).<ujsor/>
+A tÃ¡rsasÃ¡g felÃ¼gyelÅ‘bizottsÃ¡gi tagjai: Varga SÃ¡ndor (1042 Budapest, RÃ³zsa u. 57. III. 9.), Bartha IstvÃ¡n (1042 Budapest, ÃrpÃ¡d Ãºt 167.), Nagy Andrea (1148 Budapest, Ã–rs vezÃ©r tere 12. V. 23.).<ujsor/>
+A tÃ¡rsasÃ¡g tevÃ©kenysÃ©gi kÃ¶rei (TEÃOR â€˜03):<ujsor/>
+FÅ‘ tevÃ©kenysÃ©g: 5147 EgyÃ©b fogyasztÃ¡si cikk nagykereskedelme.<ujsor/>
+EgyÃ©b tevÃ©kenysÃ©gi kÃ¶rÃ¶k: 2222 MÃ¡shova nem sorolt nyomÃ¡s; 5114 GÃ©p, hajÃ³, repÃ¼lÅ‘gÃ©p Ã¼gynÃ¶ki nagykereskedelme; 5115 BÃºtor, hÃ¡ztartÃ¡si Ã¡ru, vasÃ¡ru Ã¼gynÃ¶ki nagykereskedelme; 5118 MÃ¡shova nem sorolt termÃ©k Ã¼gynÃ¶ki nagykereskedelme; 5144 PorcelÃ¡n-, Ã¼vegÃ¡ru-, tapÃ©ta-, tisztÃ­tÃ³szer-nagykereskedelem; 5184 SzÃ¡mÃ­tÃ³gÃ©p, szoftver nagykereskedelme; 5185 EgyÃ©b irodagÃ©p, -bÃºtor nagykereskedelme; 5190 EgyÃ©b nagykereskedelem; 5212 Iparcikk jellegÅ± vegyes kiskereskedelem; 5233 Illatszer-kiskereskedelem; 5243 LÃ¡bbeli-, bÅ‘rÃ¡ru-kiskereskedelem; 5245 Elektromos hÃ¡ztartÃ¡si cikk kiskereskedelme; 5247 KÃ¶nyv-, ÃºjsÃ¡g-, papÃ­rÃ¡ru-kiskereskedelem; 5248 EgyÃ©b, mÃ¡shovÃ¡ nem sorolt iparcikk-kiskereskedelem; 5261 CsomagkÃ¼ldÅ‘ kiskereskedelem; 5263 EgyÃ©b, nem bolti kiskereskedelem; 5274 EgyÃ©b fogyasztÃ¡si cikk javÃ­tÃ¡sa; 6312 TÃ¡rolÃ¡s, raktÃ¡rozÃ¡s; 7011 IngatlanberuhÃ¡zÃ¡s, -eladÃ¡s; 7012 IngatlanforgalmazÃ¡s; 7020 Ingatlan bÃ©rbeadÃ¡sa, Ã¼zemeltetÃ©se; 7031 IngatlanÃ¼gynÃ¶ki tevÃ©kenysÃ©g; 7032 IngatlankezelÃ©s; 7110 GÃ©pkocsikÃ¶lcsÃ¶nzÃ©s; 7133 IrodagÃ©p, szÃ¡mÃ­tÃ³gÃ©p kÃ¶lcsÃ¶nzÃ©se; 7134 MÃ¡shova nem sorolt, egyÃ©b gÃ©p kÃ¶lcsÃ¶nzÃ©se; 7222 EgyÃ©b szoftver-szaktanÃ¡csadÃ¡s, -ellÃ¡tÃ¡s; 7230 AdatfeldolgozÃ¡s; 7412 SzÃ¡mviteli, adÃ³szakÃ©rtÅ‘i tevÃ©kenysÃ©g; 7413 Piac-, kÃ¶zvÃ©lemÃ©ny-kutatÃ¡s; 7414 Ãœzletviteli tanÃ¡csadÃ¡s; 7440 HirdetÃ©s; 7487 MÃ¡shovÃ¡ nem sorolt, egyÃ©b gazdasÃ¡gi szolgÃ¡ltatÃ¡s.<ujsor/>
+FelhÃ­vjuk a hitelezÅ‘k figyelmÃ©t, hogy a Gt. 66. Â§ szerinti jogaikkal Ã©lhetnek.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110041200</mezo>
-<mezo id = "nev">ÁPISZ Kereskedelmi Részvénytársaság</mezo>
+<mezo id = "nev">ÃPISZ Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1135 Budapest</mezo>
 </alrovat>
 <alrovat id = "20">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2005. 09. 09-én hozott végzését hivatalból az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-16. [01 09 078839] BUDA-PIÉRT Kereskedelmi Korlátolt Felelõsségû Társaság.<ujsor/>
- Törölve: 2005. 06. 07-i hatállyal.<ujsor/>
- [01 09 078839] BUDA-PIÉRT Kereskedelmi Korlátolt Felelõsségû Társaság.<ujsor/>
- Hatályos: 2005. 09. 09-tõl.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2005. 09. 09-Ã©n hozott vÃ©gzÃ©sÃ©t hivatalbÃ³l az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+16. [01 09 078839] BUDA-PIÃ‰RT Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+ TÃ¶rÃ¶lve: 2005. 06. 07-i hatÃ¡llyal.<ujsor/>
+ [01 09 078839] BUDA-PIÃ‰RT Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+ HatÃ¡lyos: 2005. 09. 09-tÅ‘l.<ujsor/>
 Bejegyezve: 2005. 09. 15.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110041200</mezo>
-<mezo id = "nev">ÁBP ÁPISZ-Buda Piért Kereskedelmi Részvénytársaság</mezo>
-<mezo id = "cim">1149 Budapest, Mogyoródi út 32.</mezo>
+<mezo id = "nev">ÃBP ÃPISZ-Buda PiÃ©rt Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1149 Budapest, MogyorÃ³di Ãºt 32.</mezo>
 <mezo id = "adosz">10244043242</mezo>
 </alrovat>
 <alrovat id = "21">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2005. 09. 09-én hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-13. A képviselet módja: önálló.<ujsor/>
- Tisztsége: más munkavállaló.<ujsor/>
- Sándor Istvánné (an: Karacs Róza)<ujsor/>
-1144 Budapest, Szentmihály u. 12-14.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2005. 09. 09-Ã©n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+13. A kÃ©pviselet mÃ³dja: Ã¶nÃ¡llÃ³.<ujsor/>
+ TisztsÃ©ge: mÃ¡s munkavÃ¡llalÃ³.<ujsor/>
+ SÃ¡ndor IstvÃ¡nnÃ© (an: Karacs RÃ³za)<ujsor/>
+1144 Budapest, SzentmihÃ¡ly u. 12-14.<ujsor/>
  A jogviszony kezdete: 2005. 06. 07.<ujsor/>
- Törölve: 2005. 06. 07-i hatállyal.<ujsor/>
- A képviselet módja: együttes.<ujsor/>
- Tisztsége: más munkavállaló.<ujsor/>
- Sándor Istvánné (an: Karacs Róza)<ujsor/>
-1144 Budapest, Szentmihályi út 12-14.<ujsor/>
+ TÃ¶rÃ¶lve: 2005. 06. 07-i hatÃ¡llyal.<ujsor/>
+ A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+ TisztsÃ©ge: mÃ¡s munkavÃ¡llalÃ³.<ujsor/>
+ SÃ¡ndor IstvÃ¡nnÃ© (an: Karacs RÃ³za)<ujsor/>
+1144 Budapest, SzentmihÃ¡lyi Ãºt 12-14.<ujsor/>
  A jogviszony kezdete: 2005. 06. 07.<ujsor/>
- Hatályos: 2005. 06. 07-tõl.<ujsor/>
+ HatÃ¡lyos: 2005. 06. 07-tÅ‘l.<ujsor/>
 Bejegyezve: 2005. 09. 23.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110041200</mezo>
-<mezo id = "nev">ÁBP ÁPISZ-Buda Piért Kereskedelmi Részvénytársaság</mezo>
-<mezo id = "cim">1149 Budapest, Mogyoródi út 32.</mezo>
+<mezo id = "nev">ÃBP ÃPISZ-Buda PiÃ©rt Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1149 Budapest, MogyorÃ³di Ãºt 32.</mezo>
 <mezo id = "adosz">10244043242</mezo>
 </alrovat>
 <alrovat id = "22">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2005. 12. 30-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
-03. ÁBP ÁPISZ-BudaiPiért Zrt .<ujsor/>
- Törölve: 2005. 12. 30-i hatállyal.<ujsor/>
- ÁBP ÁPISZ-BudaPiért Zrt .<ujsor/>
- Hatályos: 2005. 12. 30-tól.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2005. 12. 30-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
+03. ÃBP ÃPISZ-BudaiPiÃ©rt Zrt .<ujsor/>
+ TÃ¶rÃ¶lve: 2005. 12. 30-i hatÃ¡llyal.<ujsor/>
+ ÃBP ÃPISZ-BudaPiÃ©rt Zrt .<ujsor/>
+ HatÃ¡lyos: 2005. 12. 30-tÃ³l.<ujsor/>
 Bejegyezve: 2006. 01. 13.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110041200</mezo>
-<mezo id = "nev">ÁBP ÁPISZ-BudaPiért Kereskedelmi Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">1149 Budapest, Mogyoródi út 32.</mezo>
+<mezo id = "nev">ÃBP ÃPISZ-BudaPiÃ©rt Kereskedelmi ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1149 Budapest, MogyorÃ³di Ãºt 32.</mezo>
 <mezo id = "adosz">10244043242</mezo>
 </alrovat>
 <alrovat id = "23">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A befolyást szerzõ cégneve: TRANSCOM GLOBAL LLC.<ujsor/>
-Cégjegyzékszáma: 20021202893.<ujsor/>
-Székhelye: US 419 31 St. Avenue Greely, Colorado 80634.<ujsor/>
-Az ellenõrzött gazdasági társaság neve: ÁBP ÁPISZ-BudaPiért Zrt.<ujsor/>
-Cégjegyzékszáma: [01 10 041200].<ujsor/>
-Székhelye: 1149 Budapest, Mogyoródi út 32.<ujsor/>
-Alap tõkéje: 110 000 000 Ft.<ujsor/>
-A befolyásszerzés idõpontja: 2006. május 15.<ujsor/>
-A befolyás mértéke: 99,9%, azaz közvetlen irányítást biztosító befolyás.<ujsor/>
-Részvénycsomag együttes névértéke: TRANSCOM GLOBAL LLC 109 959 600 Ft.<ujsor/>
-A hitelezõk a Gt. 296. § (2) bekezdése szerinti jogaikat gyakorolhatják.<ujsor/>
+<mezo id = "szoveg">A befolyÃ¡st szerzÅ‘ cÃ©gneve: TRANSCOM GLOBAL LLC.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡ma: 20021202893.<ujsor/>
+SzÃ©khelye: US 419 31 St. Avenue Greely, Colorado 80634.<ujsor/>
+Az ellenÅ‘rzÃ¶tt gazdasÃ¡gi tÃ¡rsasÃ¡g neve: ÃBP ÃPISZ-BudaPiÃ©rt Zrt.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡ma: [01 10 041200].<ujsor/>
+SzÃ©khelye: 1149 Budapest, MogyorÃ³di Ãºt 32.<ujsor/>
+Alap tÅ‘kÃ©je: 110 000 000 Ft.<ujsor/>
+A befolyÃ¡sszerzÃ©s idÅ‘pontja: 2006. mÃ¡jus 15.<ujsor/>
+A befolyÃ¡s mÃ©rtÃ©ke: 99,9%, azaz kÃ¶zvetlen irÃ¡nyÃ­tÃ¡st biztosÃ­tÃ³ befolyÃ¡s.<ujsor/>
+RÃ©szvÃ©nycsomag egyÃ¼ttes nÃ©vÃ©rtÃ©ke: TRANSCOM GLOBAL LLC 109 959 600 Ft.<ujsor/>
+A hitelezÅ‘k a Gt. 296. Â§ (2) bekezdÃ©se szerinti jogaikat gyakorolhatjÃ¡k.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110041200</mezo>
-<mezo id = "nev">ÁBP ÁPISZ-Buda Piért Kereskedelmi Részvénytársaság</mezo>
+<mezo id = "nev">ÃBP ÃPISZ-Buda PiÃ©rt Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1149 Budapest</mezo>
 </alrovat>
 </rovat>

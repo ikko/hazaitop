@@ -14,17 +14,17 @@ namespace :fetch do
       u.name = "Beta"
       u.email_address = "beta@addig.hu"
     end
-    kepv_rel = P2oRelationType.find_or_create_by_name('önkormányzati képviselő') do |r|
+    kepv_rel = PToORelationType.find_or_create_by_name('önkormányzati képviselő') do |r|
       r.name = 'önkormányzati képviselő'
     end
-    testulettars = P2pRelationType.find_or_create_by_name("önkorm. képviselőtestület tagja") do |r|
+    testulettars = PToPRelationType.find_or_create_by_name("önkorm. képviselőtestület tagja") do |r|
       r.name ="önkorm. képviselőtestület tagok"
     end
-    kepv_rel.update_attribute :p2p_relation_type_id, testulettars.id
-    polg_rel = P2oRelationType.find_or_create_by_name('polgármester') do |r|
+    kepv_rel.update_attribute :p_to_p_relation_type_id, testulettars.id
+    polg_rel = PToORelationType.find_or_create_by_name('polgármester') do |r|
       r.name = 'polgármester'
     end
-    part_rel = P2oRelationType.find_by_name('párttag')
+    part_rel = PToORelationType.find_by_name('párttag')
     Dir.foreach( 'db/onkorm/files' ) do |file|
       next if file == '.' or file == '..'
       next if file[-4..-1] == '.log'
@@ -64,7 +64,7 @@ namespace :fetch do
 
                           PersonToOrgRelation.create!( :person_id => p.id,
                                                        :organization_id => part.id,
-                                                       :p2o_relation_type_id => part_rel.id,
+                                                       :p_to_o_relation_type_id => part_rel.id,
                                                        :information_source_id => info.id,
                                                        :parsed => true,
                                                        :start_time => "2010.10.03".to_date,
@@ -72,7 +72,7 @@ namespace :fetch do
                                                      ) if polg_part != 'FÜGGETLEN'
                           PersonToOrgRelation.create!( :person_id => p.id,
                                                        :organization_id => t.id,
-                                                       :p2o_relation_type_id => polg_rel.id,
+                                                       :p_to_o_relation_type_id => polg_rel.id,
                                                        :information_source_id => info.id,
                                                        :parsed => true,
                                                        :start_time => "2010.10.03".to_date,
@@ -98,7 +98,7 @@ namespace :fetch do
                                   )
         PersonToOrgRelation.create!( :person_id => kepviselo.id,
                                      :organization_id => part.id,
-                                     :p2o_relation_type_id => part_rel.id,
+                                     :p_to_o_relation_type_id => part_rel.id,
                                      :information_source_id => info.id,
                                      :parsed => true,
                                      :start_time => "2010.10.03".to_date,
@@ -106,7 +106,7 @@ namespace :fetch do
                                    ) if kepv_part != 'FÜGGETLEN'
         PersonToOrgRelation.create!( :person_id => kepviselo.id,
                                      :organization_id => t.id,
-                                     :p2o_relation_type_id => kepv_rel.id,
+                                     :p_to_o_relation_type_id => kepv_rel.id,
                                      :information_source_id => info.id,
                                      :parsed => true,
                                      :start_time => "2010.10.03".to_date,
@@ -727,7 +727,7 @@ namespace :fetch do
                                                                       :currency => c_currency,
                                                                       :vat_incl => afa(c_ertek_afa),
                                                                       :contract_id => contract.id,
-                                                                      :o2o_relation_type_id => O2oRelationType.find_by_name(KOZBESZ_NYERTES).id,
+                                                                      :o_to_o_relation_type_id => OToORelationType.find_by_name(KOZBESZ_NYERTES).id,
                                                                       :organization_id => megr.id,
                                                                       :related_organization_id => vall.id,
                                                                       :notification_id  => note.id,
@@ -829,10 +829,10 @@ namespace :fetch do
   desc 'fetch article dates'
   task :dates => :environment do
     info_id = InformationSource.find_by_name('k-monitor.hu').id
-    f_p2p = P2pRelationType.find_by_name('sajtó')
-    f_o2o = O2oRelationType.find_by_name('sajtó')
-    f_o2p = O2pRelationType.find_by_name('sajtó')
-    f_p2o = P2oRelationType.find_by_name('sajtó')
+    f_p_to_p = PToPRelationType.find_by_name('sajtó')
+    f_o_to_o = OToORelationType.find_by_name('sajtó')
+    f_o_to_p = OToPRelationType.find_by_name('sajtó')
+    f_p_to_o = PToORelationType.find_by_name('sajtó')
     articles = Nokogiri::HTML(open('http://www.k-monitor.hu/adatbazis/kereses'))
 #    (1..articles.css("span.result")[0].children[0].text.to_i / 10 + 1).each do |i|
     (1..500).each do |i|
@@ -875,10 +875,10 @@ namespace :fetch do
   desc 'fetch articles from k-monitor.hu'
   task :articles => :environment do
     info_id = InformationSource.find_by_name('k-monitor.hu').id
-    f_p2p = P2pRelationType.find_by_name('sajtó')
-    f_o2o = O2oRelationType.find_by_name('sajtó')
-    f_o2p = O2pRelationType.find_by_name('sajtó')
-    f_p2o = P2oRelationType.find_by_name('sajtó')
+    f_p_to_p = PToPRelationType.find_by_name('sajtó')
+    f_o_to_o = OToORelationType.find_by_name('sajtó')
+    f_o_to_p = OToPRelationType.find_by_name('sajtó')
+    f_p_to_o = PToORelationType.find_by_name('sajtó')
     articles = Nokogiri::HTML(open('http://www.k-monitor.hu/adatbazis/kereses'))
 #    (1..articles.css("span.result")[0].children[0].text.to_i / 10 + 1).each do |i|
     (1..259).each do |i|
@@ -929,7 +929,7 @@ namespace :fetch do
                     relation = InterpersonalRelation.create!( :person_id => t1.id, 
                                                               :related_person_id => t2.id,
                                                               :information_source_id => info_id,
-                                                              :p2p_relation_type_id => f_p2p.id,
+                                                              :p_to_p_relation_type_id => f_p_to_p.id,
                                                               :start_time => issue_date,
                                                               :no_end_time => true,
                                                               :parsed => true
@@ -948,7 +948,7 @@ namespace :fetch do
                 if t1.kind_of?(Organization) and t2.kind_of?(Organization)
                   relation = InterorgRelation.find( :first, :conditions => [ 'organization_id = ? and related_organization_id = ? and information_source_id = ?', t1.id, t2.id, info_id])
                   unless relation
-                    relation = InterorgRelation.create!( :organization_id => t1.id, :related_organization_id => t2.id, :information_source_id => info_id, :o2o_relation_type_id => f_o2o.id, :issued_at => issue_date, :parsed => true )
+                    relation = InterorgRelation.create!( :organization_id => t1.id, :related_organization_id => t2.id, :information_source_id => info_id, :o_to_o_relation_type_id => f_o_to_o.id, :issued_at => issue_date, :parsed => true )
                     puts "new relation for #{t1.name} and #{t2.name}"
                   else
                     relation.issued_at = issue_date
@@ -964,7 +964,7 @@ namespace :fetch do
                     relation = PersonToOrgRelation.create!( :person_id => t1.id, 
                                                             :organization_id => t2.id,
                                                             :information_source_id => info_id,
-                                                            :p2o_relation_type_id => f_p2o.id,
+                                                            :p_to_o_relation_type_id => f_p_to_o.id,
                                                             :start_time => issue_date,
                                                             :no_end_time => true,
                                                             :parsed => true

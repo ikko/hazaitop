@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">269486</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">1103 Budapest, Kõér u. 2/d </mezo>
+<mezo id = "cim">1103 Budapest, KÅ‘Ã©r u. 2/d </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">10902154242</mezo>
 </alrovat>
@@ -13,16 +13,16 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19931231</mezo>
-<mezo id = "nev">MÁV Vasútépítõ-Gépellátó és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">MÃV VasÃºtÃ©pÃ­tÅ‘-GÃ©pellÃ¡tÃ³ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
 <alrovat id = "1">
-<mezo id = "nev">MÁVGÉP Kft</mezo>
+<mezo id = "nev">MÃVGÃ‰P Kft</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">19931231</mezo>
-<mezo id = "nev">MÁVGÉP kft</mezo>
+<mezo id = "nev">MÃVGÃ‰P kft</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
@@ -30,7 +30,7 @@
 <mezo id = "hattol">19931231</mezo>
 <mezo id = "irsz">1103</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Kõér u. 2/d</mezo>
+<mezo id = "teru">KÅ‘Ã©r u. 2/d</mezo>
 </alrovat>
 </rovat>
 <rovat id = "6">
@@ -760,7 +760,7 @@
 <mezo id = "hattol">20090831</mezo>
 <mezo id = "valtk">20090831</mezo>
 <mezo id = "bkelt">20091123</mezo>
-<mezo id = "teaszov">Vasúti áruszállítás</mezo>
+<mezo id = "teaszov">VasÃºti Ã¡ruszÃ¡llÃ­tÃ¡s</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -777,9 +777,9 @@
 <rovat id = "13">
 <alrovat id = "14">
 <mezo id = "hattol">20100730</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "pnev">Frigyik Attila</mezo>
-<mezo id = "panev">Ambrus Mária</mezo>
+<mezo id = "panev">Ambrus MÃ¡ria</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20100801</mezo>
 <mezo id = "jogvv">20150731</mezo>
@@ -792,13 +792,13 @@
 <alrovat id = "9">
 <mezo id = "hattol">20100715</mezo>
 <mezo id = "cgjsz">0109267553</mezo>
-<mezo id = "nev">Ernst&amp;Young Könyvvizsgáló Kft.</mezo>
+<mezo id = "nev">Ernst&amp;Young KÃ¶nyvvizsgÃ¡lÃ³ Kft.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1132</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Váci út 20.</mezo>
-<mezo id = "pnev">Ispánovity Mártonné</mezo>
-<mezo id = "panev">Komanovics Éva</mezo>
+<mezo id = "teru">VÃ¡ci Ãºt 20.</mezo>
+<mezo id = "pnev">IspÃ¡novity MÃ¡rtonnÃ©</mezo>
+<mezo id = "panev">Komanovics Ã‰va</mezo>
 <mezo id = "jogvk">20100715</mezo>
 <mezo id = "jogvv">20130531</mezo>
 <mezo id = "valtk">20100715</mezo>
@@ -806,8 +806,8 @@
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">20100715</mezo>
-<mezo id = "pnev">Szabóné Lückl Judit</mezo>
-<mezo id = "panev">Horváth Ilona</mezo>
+<mezo id = "pnev">SzabÃ³nÃ© LÃ¼ckl Judit</mezo>
+<mezo id = "panev">HorvÃ¡th Ilona</mezo>
 <mezo id = "jogvk">20100715</mezo>
 <mezo id = "jogvv">20130531</mezo>
 <mezo id = "valtk">20100715</mezo>
@@ -817,8 +817,8 @@
 <rovat id = "15">
 <alrovat id = "42">
 <mezo id = "hattol">20100730</mezo>
-<mezo id = "pnev">Kondorosi János</mezo>
-<mezo id = "panev">Nagy Rozália</mezo>
+<mezo id = "pnev">Kondorosi JÃ¡nos</mezo>
+<mezo id = "panev">Nagy RozÃ¡lia</mezo>
 <mezo id = "jogvk">20100801</mezo>
 <mezo id = "jogvv">20150731</mezo>
 <mezo id = "valtk">20100730</mezo>
@@ -826,7 +826,7 @@
 </alrovat>
 <alrovat id = "44">
 <mezo id = "hattol">20100730</mezo>
-<mezo id = "pnev">Szarka László</mezo>
+<mezo id = "pnev">Szarka LÃ¡szlÃ³</mezo>
 <mezo id = "panev">Szunyog Katalin Anna</mezo>
 <mezo id = "jogvk">20100801</mezo>
 <mezo id = "jogvv">20150731</mezo>
@@ -835,11 +835,11 @@
 </alrovat>
 <alrovat id = "45">
 <mezo id = "hattol">20110331</mezo>
-<mezo id = "pnev">Koncz Zoltán</mezo>
-<mezo id = "panev">Pásztor Mária</mezo>
+<mezo id = "pnev">Koncz ZoltÃ¡n</mezo>
+<mezo id = "panev">PÃ¡sztor MÃ¡ria</mezo>
 <mezo id = "pirsz">1115</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Fraknó utca 8/a.</mezo>
+<mezo id = "pteru">FraknÃ³ utca 8/a.</mezo>
 <mezo id = "jogvk">20110401</mezo>
 <mezo id = "jogvv">20150731</mezo>
 <mezo id = "valtk">20110331</mezo>
@@ -864,11 +864,11 @@
 <alrovat id = "2">
 <mezo id = "hattol">20090813</mezo>
 <mezo id = "cgjsz">0110042272</mezo>
-<mezo id = "nev">MÁV Magyar Államvasutak Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">MÃV Magyar Ãllamvasutak ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1087</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Könyves Kálmán körút 54-60.</mezo>
+<mezo id = "teru">KÃ¶nyves KÃ¡lmÃ¡n kÃ¶rÃºt 54-60.</mezo>
 <mezo id = "tagsk">20090813</mezo>
 <mezo id = "valtk">20090813</mezo>
 <mezo id = "bkelt">20090915</mezo>
@@ -883,42 +883,42 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság a(z) 2000. 07. 13-án hozott végzését az alábbiak szerint javítja (egészíti) ki:<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g a(z) 2000. 07. 13-Ã¡n hozott vÃ©gzÃ©sÃ©t az alÃ¡bbiak szerint javÃ­tja (egÃ©szÃ­ti) ki:<ujsor/>
 19. 5058-4.<ujsor/>
- Hatályos: 2000. 07. 13-tól.<ujsor/>
+ HatÃ¡lyos: 2000. 07. 13-tÃ³l.<ujsor/>
 Bejegyezve: 2000. 08. 07.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109269486</mezo>
-<mezo id = "nev">MÁV Vasútépítõ-Gépellátó és Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">1103 Budapest, Kõér u. 2/d.</mezo>
+<mezo id = "nev">MÃV VasÃºtÃ©pÃ­tÅ‘-GÃ©pellÃ¡tÃ³ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1103 Budapest, KÅ‘Ã©r u. 2/d.</mezo>
 <mezo id = "adosz">10902154242</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A MÁV Magyar Államvasutak Zártkörûen Mûködõ Részvénytársaság (Cg.: [01 10 042272]; székhelye: 1062 Budapest, Andrássy út 73­75.) mint a MÁVGÉP Kft. (Cg.: [01 09 269486]; székhelye: 1103 Budapest, Kõér út 2/D) egyszemélyes tulajdonosa, a 2006. évi IV. tv. 168. § (1) bekezdése alapján 2/102/2007. szám alatt az alábbi alapítói döntést hozza:<ujsor/>
-A 2006. évi IV. tv. 143. § (2) bekezdés a) pontja és (3) bekezdése alapján, miután a társaság veszteségei következtében saját tõkéje a törzstõke fele alá csökkent, a MÁV ZRt. a társaság jegyzett tõkéjét 3 000 000 Ft-ra (hárommillió forintra) leszállítja.<ujsor/>
-A MÁV ZRt. 2/102/2007. sz. alapítói határozata értelmében a 100%-os tulajdonában álló MÁVGÉP Kft. jegyzett tõkéje 954 510 000 Ft-ról (kilencszázötvennégymillió-ötszáztízezer forintról) 3 000 000 Ft-ra (hárommillió forintra) csökkent.<ujsor/>
-Felhívom a MÁVGÉP Kft. hitelezõit, hogy a 2006. évi IV. tv. 162. § (1) bekezdés értelmében a jelen hirdetmény elsõ alkalommal történt közzétételét megelõzõleg keletkezett és esedékessé vált követeléseik után a (3) bekezdés szerinti kivételekkel biztosítékokra tarthatnak igényt.<ujsor/>
-A társaság veszteségének rendezése a 143. § (3) bekezdés értelmében a MÁV ZRt. követelése elengedése, illetve a tulajdonos tõkejuttatása útján valósult meg.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">A MÃV Magyar Ãllamvasutak ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 042272]; szÃ©khelye: 1062 Budapest, AndrÃ¡ssy Ãºt 73Â­75.) mint a MÃVGÃ‰P Kft. (Cg.: [01 09 269486]; szÃ©khelye: 1103 Budapest, KÅ‘Ã©r Ãºt 2/D) egyszemÃ©lyes tulajdonosa, a 2006. Ã©vi IV. tv. 168. Â§ (1) bekezdÃ©se alapjÃ¡n 2/102/2007. szÃ¡m alatt az alÃ¡bbi alapÃ­tÃ³i dÃ¶ntÃ©st hozza:<ujsor/>
+A 2006. Ã©vi IV. tv. 143. Â§ (2) bekezdÃ©s a) pontja Ã©s (3) bekezdÃ©se alapjÃ¡n, miutÃ¡n a tÃ¡rsasÃ¡g vesztesÃ©gei kÃ¶vetkeztÃ©ben sajÃ¡t tÅ‘kÃ©je a tÃ¶rzstÅ‘ke fele alÃ¡ csÃ¶kkent, a MÃV ZRt. a tÃ¡rsasÃ¡g jegyzett tÅ‘kÃ©jÃ©t 3 000 000 Ft-ra (hÃ¡rommilliÃ³ forintra) leszÃ¡llÃ­tja.<ujsor/>
+A MÃV ZRt. 2/102/2007. sz. alapÃ­tÃ³i hatÃ¡rozata Ã©rtelmÃ©ben a 100%-os tulajdonÃ¡ban Ã¡llÃ³ MÃVGÃ‰P Kft. jegyzett tÅ‘kÃ©je 954 510 000 Ft-rÃ³l (kilencszÃ¡zÃ¶tvennÃ©gymilliÃ³-Ã¶tszÃ¡ztÃ­zezer forintrÃ³l) 3 000 000 Ft-ra (hÃ¡rommilliÃ³ forintra) csÃ¶kkent.<ujsor/>
+FelhÃ­vom a MÃVGÃ‰P Kft. hitelezÅ‘it, hogy a 2006. Ã©vi IV. tv. 162. Â§ (1) bekezdÃ©s Ã©rtelmÃ©ben a jelen hirdetmÃ©ny elsÅ‘ alkalommal tÃ¶rtÃ©nt kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘leg keletkezett Ã©s esedÃ©kessÃ© vÃ¡lt kÃ¶vetelÃ©seik utÃ¡n a (3) bekezdÃ©s szerinti kivÃ©telekkel biztosÃ­tÃ©kokra tarthatnak igÃ©nyt.<ujsor/>
+A tÃ¡rsasÃ¡g vesztesÃ©gÃ©nek rendezÃ©se a 143. Â§ (3) bekezdÃ©s Ã©rtelmÃ©ben a MÃV ZRt. kÃ¶vetelÃ©se elengedÃ©se, illetve a tulajdonos tÅ‘kejuttatÃ¡sa ÃºtjÃ¡n valÃ³sult meg.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109269486</mezo>
-<mezo id = "nev">MÁV Vasútépítõ-Gépellátó és Szolgáltató Korlátolt Felelõsségü Társaság</mezo>
+<mezo id = "nev">MÃV VasÃºtÃ©pÃ­tÅ‘-GÃ©pellÃ¡tÃ³ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÃ¼ TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1103 Budapest</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A MÁV Magyar Államvasutak Zártkörûen Mûködõ Részvénytársaság (Cg.: [01 10 042272]; székhelye: 1062 Budapest, Andrássy út 73­75.) mint a MÁVGÉP Kft. (Cg.: [01 09 269486]; székhelye: 1103 Budapest, Kõér út 2/D) egyszemélyes tulajdonosa, a 2006. évi IV. tv. 168. § (1) bekezdése alapján 2/102/2007. szám alatt az alábbi alapítói döntést hozza:<ujsor/>
-A 2006. évi IV. tv. 143. § (2) bekezdés a) pontja és (3) bekezdése alapján, miután a társaság veszteségei következtében saját tõkéje a törzstõke fele alá csökkent, a MÁV ZRt. a társaság jegyzett tõkéjét 3 000 000 Ft-ra (hárommillió forintra) leszállítja.<ujsor/>
-A MÁV ZRt. 2/102/2007. sz. alapítói határozata értelmében a 100%-os tulajdonában álló MÁVGÉP Kft. jegyzett tõkéje 954 510 000 Ft-ról (kilencszázötvennégymillió-ötszáztízezer forintról) 3 000 000 Ft-ra (hárommillió forintra) csökkent.<ujsor/>
-Felhívom a MÁVGÉP Kft. hitelezõit, hogy a 2006. évi IV. tv. 162. § (1) bekezdés értelmében a jelen hirdetmény elsõ alkalommal történt közzétételét megelõzõleg keletkezett és esedékessé vált követeléseik után a (3) bekezdés szerinti kivételekkel biztosítékokra tarthatnak igényt.<ujsor/>
-A társaság veszteségének rendezése a 143. § (3) bekezdés értelmében a MÁV ZRt. követelése elengedése, illetve a tulajdonos tõkejuttatása útján valósult meg.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">A MÃV Magyar Ãllamvasutak ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 042272]; szÃ©khelye: 1062 Budapest, AndrÃ¡ssy Ãºt 73Â­75.) mint a MÃVGÃ‰P Kft. (Cg.: [01 09 269486]; szÃ©khelye: 1103 Budapest, KÅ‘Ã©r Ãºt 2/D) egyszemÃ©lyes tulajdonosa, a 2006. Ã©vi IV. tv. 168. Â§ (1) bekezdÃ©se alapjÃ¡n 2/102/2007. szÃ¡m alatt az alÃ¡bbi alapÃ­tÃ³i dÃ¶ntÃ©st hozza:<ujsor/>
+A 2006. Ã©vi IV. tv. 143. Â§ (2) bekezdÃ©s a) pontja Ã©s (3) bekezdÃ©se alapjÃ¡n, miutÃ¡n a tÃ¡rsasÃ¡g vesztesÃ©gei kÃ¶vetkeztÃ©ben sajÃ¡t tÅ‘kÃ©je a tÃ¶rzstÅ‘ke fele alÃ¡ csÃ¶kkent, a MÃV ZRt. a tÃ¡rsasÃ¡g jegyzett tÅ‘kÃ©jÃ©t 3 000 000 Ft-ra (hÃ¡rommilliÃ³ forintra) leszÃ¡llÃ­tja.<ujsor/>
+A MÃV ZRt. 2/102/2007. sz. alapÃ­tÃ³i hatÃ¡rozata Ã©rtelmÃ©ben a 100%-os tulajdonÃ¡ban Ã¡llÃ³ MÃVGÃ‰P Kft. jegyzett tÅ‘kÃ©je 954 510 000 Ft-rÃ³l (kilencszÃ¡zÃ¶tvennÃ©gymilliÃ³-Ã¶tszÃ¡ztÃ­zezer forintrÃ³l) 3 000 000 Ft-ra (hÃ¡rommilliÃ³ forintra) csÃ¶kkent.<ujsor/>
+FelhÃ­vom a MÃVGÃ‰P Kft. hitelezÅ‘it, hogy a 2006. Ã©vi IV. tv. 162. Â§ (1) bekezdÃ©s Ã©rtelmÃ©ben a jelen hirdetmÃ©ny elsÅ‘ alkalommal tÃ¶rtÃ©nt kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘leg keletkezett Ã©s esedÃ©kessÃ© vÃ¡lt kÃ¶vetelÃ©seik utÃ¡n a (3) bekezdÃ©s szerinti kivÃ©telekkel biztosÃ­tÃ©kokra tarthatnak igÃ©nyt.<ujsor/>
+A tÃ¡rsasÃ¡g vesztesÃ©gÃ©nek rendezÃ©se a 143. Â§ (3) bekezdÃ©s Ã©rtelmÃ©ben a MÃV ZRt. kÃ¶vetelÃ©se elengedÃ©se, illetve a tulajdonos tÅ‘kejuttatÃ¡sa ÃºtjÃ¡n valÃ³sult meg.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109269486</mezo>
-<mezo id = "nev">MÁV Vasútépítõ-Gépellátó és Szolgáltató Korlátolt Felelõsségü Társaság</mezo>
+<mezo id = "nev">MÃV VasÃºtÃ©pÃ­tÅ‘-GÃ©pellÃ¡tÃ³ Ã©s SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÃ¼ TÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1103 Budapest</mezo>
 </alrovat>
 </rovat>

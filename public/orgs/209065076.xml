@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">065076</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">7621 Pécs, Perczel Miklós utca 11/1. fszt. 4. </mezo>
+<mezo id = "cim">7621 PÃ©cs, Perczel MiklÃ³s utca 11/1. fszt. 4. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">11546094202</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19970801</mezo>
-<mezo id = "nev">URO-CLIN Egészségügyi Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">URO-CLIN EgÃ©szsÃ©gÃ¼gyi SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -32,8 +32,8 @@
 <alrovat id = "3">
 <mezo id = "hattol">20100219</mezo>
 <mezo id = "irsz">7621</mezo>
-<mezo id = "hely">Pécs</mezo>
-<mezo id = "teru">Perczel Miklós utca 11/1. fszt. 4.</mezo>
+<mezo id = "hely">PÃ©cs</mezo>
+<mezo id = "teru">Perczel MiklÃ³s utca 11/1. fszt. 4.</mezo>
 <mezo id = "valtk">20100219</mezo>
 <mezo id = "bkelt">20100322</mezo>
 </alrovat>
@@ -42,20 +42,20 @@
 <alrovat id = "2">
 <mezo id = "hattol">20040311</mezo>
 <mezo id = "irsz">7621</mezo>
-<mezo id = "hely">Pécs, Munkácsy M. utca 2.</mezo>
+<mezo id = "hely">PÃ©cs, MunkÃ¡csy M. utca 2.</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">20060328</mezo>
 <mezo id = "irsz">7623</mezo>
-<mezo id = "hely">Pécs, Szabadság utca 30.</mezo>
+<mezo id = "hely">PÃ©cs, SzabadsÃ¡g utca 30.</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">20091201</mezo>
 <mezo id = "irsz">7621</mezo>
-<mezo id = "hely">Pécs</mezo>
-<mezo id = "teru">Irgalmasok utcája 1.</mezo>
+<mezo id = "hely">PÃ©cs</mezo>
+<mezo id = "teru">Irgalmasok utcÃ¡ja 1.</mezo>
 <mezo id = "valtk">20091201</mezo>
 <mezo id = "bkelt">20100111</mezo>
 </alrovat>
@@ -64,7 +64,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">20060328</mezo>
 <mezo id = "irsz">7300</mezo>
-<mezo id = "hely">Komló, Pécsi út 1.</mezo>
+<mezo id = "hely">KomlÃ³, PÃ©csi Ãºt 1.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
@@ -72,7 +72,7 @@
 <alrovat id = "2">
 <mezo id = "hattol">20060328</mezo>
 <mezo id = "irsz">7800</mezo>
-<mezo id = "hely">Siklós, Magyar utca 2.</mezo>
+<mezo id = "hely">SiklÃ³s, Magyar utca 2.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
@@ -80,7 +80,7 @@
 <alrovat id = "3">
 <mezo id = "hattol">20060328</mezo>
 <mezo id = "irsz">7900</mezo>
-<mezo id = "hely">Szigetvár, Szent István ltp. 7.</mezo>
+<mezo id = "hely">SzigetvÃ¡r, Szent IstvÃ¡n ltp. 7.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">0</mezo>
 <mezo id = "valtv">0</mezo>
@@ -88,7 +88,7 @@
 <alrovat id = "4">
 <mezo id = "hattol">20070514</mezo>
 <mezo id = "irsz">6500</mezo>
-<mezo id = "hely">Baja, Rókus utca 10.</mezo>
+<mezo id = "hely">Baja, RÃ³kus utca 10.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20070125</mezo>
 <mezo id = "valtv">0</mezo>
@@ -96,7 +96,7 @@
 <alrovat id = "5">
 <mezo id = "hattol">20070514</mezo>
 <mezo id = "irsz">4100</mezo>
-<mezo id = "hely">Berettyóújfalu, Orbán Balázs tér 1.</mezo>
+<mezo id = "hely">BerettyÃ³Ãºjfalu, OrbÃ¡n BalÃ¡zs tÃ©r 1.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20070125</mezo>
 <mezo id = "valtv">0</mezo>
@@ -104,7 +104,7 @@
 <alrovat id = "6">
 <mezo id = "hattol">20070514</mezo>
 <mezo id = "irsz">4043</mezo>
-<mezo id = "hely">Debrecen, Bartók B. utca 2-26.</mezo>
+<mezo id = "hely">Debrecen, BartÃ³k B. utca 2-26.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20070125</mezo>
 <mezo id = "valtv">0</mezo>
@@ -112,7 +112,7 @@
 <alrovat id = "7">
 <mezo id = "hattol">20070514</mezo>
 <mezo id = "irsz">7200</mezo>
-<mezo id = "hely">Dombóvár, Kórház utca 39-41.</mezo>
+<mezo id = "hely">DombÃ³vÃ¡r, KÃ³rhÃ¡z utca 39-41.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20070125</mezo>
 <mezo id = "valtv">0</mezo>
@@ -120,7 +120,7 @@
 <alrovat id = "8">
 <mezo id = "hattol">20070514</mezo>
 <mezo id = "irsz">2400</mezo>
-<mezo id = "hely">Dunaújváros, Korányi S. utca 4-6.</mezo>
+<mezo id = "hely">DunaÃºjvÃ¡ros, KorÃ¡nyi S. utca 4-6.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20070125</mezo>
 <mezo id = "valtv">0</mezo>
@@ -128,7 +128,7 @@
 <alrovat id = "9">
 <mezo id = "hattol">20070514</mezo>
 <mezo id = "irsz">2500</mezo>
-<mezo id = "hely">Esztergom, Petõfi S. utca 26-28.</mezo>
+<mezo id = "hely">Esztergom, PetÅ‘fi S. utca 26-28.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20070125</mezo>
 <mezo id = "valtv">0</mezo>
@@ -136,7 +136,7 @@
 <alrovat id = "10">
 <mezo id = "hattol">20070514</mezo>
 <mezo id = "irsz">9024</mezo>
-<mezo id = "hely">Gyõr, Vasvári P. utca 2-4.</mezo>
+<mezo id = "hely">GyÅ‘r, VasvÃ¡ri P. utca 2-4.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20070125</mezo>
 <mezo id = "valtv">0</mezo>
@@ -152,7 +152,7 @@
 <alrovat id = "12">
 <mezo id = "hattol">20070514</mezo>
 <mezo id = "irsz">6800</mezo>
-<mezo id = "hely">Hódmezõvásárhely, Dr. Imre József utca 2.</mezo>
+<mezo id = "hely">HÃ³dmezÅ‘vÃ¡sÃ¡rhely, Dr. Imre JÃ³zsef utca 2.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20070125</mezo>
 <mezo id = "valtv">0</mezo>
@@ -160,7 +160,7 @@
 <alrovat id = "13">
 <mezo id = "hattol">20070514</mezo>
 <mezo id = "irsz">7400</mezo>
-<mezo id = "hely">Kaposvár, Tallián Gy. utca 20-32.</mezo>
+<mezo id = "hely">KaposvÃ¡r, TalliÃ¡n Gy. utca 20-32.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20070125</mezo>
 <mezo id = "valtv">0</mezo>
@@ -168,7 +168,7 @@
 <alrovat id = "14">
 <mezo id = "hattol">20070514</mezo>
 <mezo id = "irsz">6000</mezo>
-<mezo id = "hely">Kecskemét, Nyíri út 38.</mezo>
+<mezo id = "hely">KecskemÃ©t, NyÃ­ri Ãºt 38.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20070125</mezo>
 <mezo id = "valtv">0</mezo>
@@ -192,7 +192,7 @@
 <alrovat id = "17">
 <mezo id = "hattol">20070514</mezo>
 <mezo id = "irsz">6900</mezo>
-<mezo id = "hely">Makó, Kórház utca 2.</mezo>
+<mezo id = "hely">MakÃ³, KÃ³rhÃ¡z utca 2.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20070125</mezo>
 <mezo id = "valtv">0</mezo>
@@ -208,7 +208,7 @@
 <alrovat id = "19">
 <mezo id = "hattol">20070514</mezo>
 <mezo id = "irsz">3100</mezo>
-<mezo id = "hely">Salgótarján, Füleki út 54-56.</mezo>
+<mezo id = "hely">SalgÃ³tarjÃ¡n, FÃ¼leki Ãºt 54-56.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20070125</mezo>
 <mezo id = "valtv">0</mezo>
@@ -216,7 +216,7 @@
 <alrovat id = "20">
 <mezo id = "hattol">20070514</mezo>
 <mezo id = "irsz">8600</mezo>
-<mezo id = "hely">Siófok, Semmelweis utca 1.</mezo>
+<mezo id = "hely">SiÃ³fok, Semmelweis utca 1.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20070125</mezo>
 <mezo id = "valtv">0</mezo>
@@ -224,7 +224,7 @@
 <alrovat id = "21">
 <mezo id = "hattol">20070514</mezo>
 <mezo id = "irsz">9400</mezo>
-<mezo id = "hely">Sopron, Gyõri út 15.</mezo>
+<mezo id = "hely">Sopron, GyÅ‘ri Ãºt 15.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20070125</mezo>
 <mezo id = "valtv">0</mezo>
@@ -232,7 +232,7 @@
 <alrovat id = "22">
 <mezo id = "hattol">20070514</mezo>
 <mezo id = "irsz">6725</mezo>
-<mezo id = "hely">Szeged, Kálvária sgt. 57.</mezo>
+<mezo id = "hely">Szeged, KÃ¡lvÃ¡ria sgt. 57.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20070125</mezo>
 <mezo id = "valtv">0</mezo>
@@ -248,7 +248,7 @@
 <alrovat id = "24">
 <mezo id = "hattol">20070514</mezo>
 <mezo id = "irsz">2600</mezo>
-<mezo id = "hely">Vác, Argenti Döme tér 1-3.</mezo>
+<mezo id = "hely">VÃ¡c, Argenti DÃ¶me tÃ©r 1-3.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20070125</mezo>
 <mezo id = "valtv">0</mezo>
@@ -256,7 +256,7 @@
 <alrovat id = "25">
 <mezo id = "hattol">20070514</mezo>
 <mezo id = "irsz">8200</mezo>
-<mezo id = "hely">Veszprém, Kórház utca 1.</mezo>
+<mezo id = "hely">VeszprÃ©m, KÃ³rhÃ¡z utca 1.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20070125</mezo>
 <mezo id = "valtv">0</mezo>
@@ -264,7 +264,7 @@
 <alrovat id = "26">
 <mezo id = "hattol">20070514</mezo>
 <mezo id = "irsz">8900</mezo>
-<mezo id = "hely">Zalaegerszeg, Zrínyi M. utca 1.</mezo>
+<mezo id = "hely">Zalaegerszeg, ZrÃ­nyi M. utca 1.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20070125</mezo>
 <mezo id = "valtv">0</mezo>
@@ -282,7 +282,7 @@
 <alrovat id = "28">
 <mezo id = "hattol">20080124</mezo>
 <mezo id = "irsz">9330</mezo>
-<mezo id = "hely">Kapuvár, Dr. Lumniczer Sándor utca 10.</mezo>
+<mezo id = "hely">KapuvÃ¡r, Dr. Lumniczer SÃ¡ndor utca 10.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20080124</mezo>
 <mezo id = "valtv">0</mezo>
@@ -292,7 +292,7 @@
 <alrovat id = "29">
 <mezo id = "hattol">20080124</mezo>
 <mezo id = "irsz">7100</mezo>
-<mezo id = "hely">Szekszárd, Béri Balogh Ádám utca 5-7.</mezo>
+<mezo id = "hely">SzekszÃ¡rd, BÃ©ri Balogh ÃdÃ¡m utca 5-7.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20080124</mezo>
 <mezo id = "valtv">0</mezo>
@@ -302,7 +302,7 @@
 <alrovat id = "30">
 <mezo id = "hattol">20080124</mezo>
 <mezo id = "irsz">7300</mezo>
-<mezo id = "hely">Komló, Majális tér 1.</mezo>
+<mezo id = "hely">KomlÃ³, MajÃ¡lis tÃ©r 1.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20080124</mezo>
 <mezo id = "valtv">0</mezo>
@@ -322,7 +322,7 @@
 <alrovat id = "32">
 <mezo id = "hattol">20080626</mezo>
 <mezo id = "irsz">7030</mezo>
-<mezo id = "hely">Paks, Táncsics M. utca 13.</mezo>
+<mezo id = "hely">Paks, TÃ¡ncsics M. utca 13.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20080626</mezo>
 <mezo id = "valtv">0</mezo>
@@ -342,7 +342,7 @@
 <alrovat id = "34">
 <mezo id = "hattol">20080626</mezo>
 <mezo id = "irsz">1033</mezo>
-<mezo id = "hely">Budapest, Vörösvári utca 88-96.</mezo>
+<mezo id = "hely">Budapest, VÃ¶rÃ¶svÃ¡ri utca 88-96.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20080626</mezo>
 <mezo id = "valtv">0</mezo>
@@ -352,8 +352,8 @@
 <alrovat id = "35">
 <mezo id = "hattol">20091201</mezo>
 <mezo id = "irsz">9200</mezo>
-<mezo id = "hely">Mosonmagyaróvár</mezo>
-<mezo id = "teru">Régi Vámház tér 2-4.</mezo>
+<mezo id = "hely">MosonmagyarÃ³vÃ¡r</mezo>
+<mezo id = "teru">RÃ©gi VÃ¡mhÃ¡z tÃ©r 2-4.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20091201</mezo>
 <mezo id = "bkelt">20100111</mezo>
@@ -362,7 +362,7 @@
 <mezo id = "hattol">20110629</mezo>
 <mezo id = "irsz">1139</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Szegedi út 17.</mezo>
+<mezo id = "teru">Szegedi Ãºt 17.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20110629</mezo>
 <mezo id = "bkelt">20110729</mezo>
@@ -821,7 +821,7 @@
 <mezo id = "hattol">20091201</mezo>
 <mezo id = "valtk">20091201</mezo>
 <mezo id = "bkelt">20100111</mezo>
-<mezo id = "teaszov">Szakorvosi járóbeteg-ellátás</mezo>
+<mezo id = "teaszov">Szakorvosi jÃ¡rÃ³beteg-ellÃ¡tÃ¡s</mezo>
 </alrovat>
 </rovat>
 <rovat id = "11">
@@ -838,12 +838,12 @@
 <rovat id = "13">
 <alrovat id = "16">
 <mezo id = "hattol">20091201</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Dr. Fábos Zoltán</mezo>
-<mezo id = "panev">Bodó Teréz</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">Dr. FÃ¡bos ZoltÃ¡n</mezo>
+<mezo id = "panev">BodÃ³ TerÃ©z</mezo>
 <mezo id = "pirsz">7634</mezo>
-<mezo id = "phely">Pécs</mezo>
-<mezo id = "pteru">Cserebogár dûlõ 10.</mezo>
+<mezo id = "phely">PÃ©cs</mezo>
+<mezo id = "pteru">CserebogÃ¡r dÅ±lÅ‘ 10.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20080124</mezo>
 <mezo id = "jogvv">20130124</mezo>
@@ -852,12 +852,12 @@
 </alrovat>
 <alrovat id = "17">
 <mezo id = "hattol">20110629</mezo>
-<mezo id = "tiszt">cégvezetõ</mezo>
+<mezo id = "tiszt">cÃ©gvezetÅ‘</mezo>
 <mezo id = "pnev">Grozdics Gabriella</mezo>
-<mezo id = "panev">B. Nagy Ildikó</mezo>
+<mezo id = "panev">B. Nagy IldikÃ³</mezo>
 <mezo id = "pirsz">7621</mezo>
-<mezo id = "phely">Pécs</mezo>
-<mezo id = "pteru">Király utca 38.</mezo>
+<mezo id = "phely">PÃ©cs</mezo>
+<mezo id = "pteru">KirÃ¡ly utca 38.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20110701</mezo>
 <mezo id = "valtk">20110629</mezo>
@@ -868,11 +868,11 @@
 <rovat id = "14">
 <alrovat id = "3">
 <mezo id = "hattol">20091201</mezo>
-<mezo id = "pnev">Vékony Gyula</mezo>
+<mezo id = "pnev">VÃ©kony Gyula</mezo>
 <mezo id = "panev">Lovas Ilona</mezo>
 <mezo id = "pirsz">7623</mezo>
-<mezo id = "phely">Pécs</mezo>
-<mezo id = "pteru">Ungvár utca 41.</mezo>
+<mezo id = "phely">PÃ©cs</mezo>
+<mezo id = "pteru">UngvÃ¡r utca 41.</mezo>
 <mezo id = "jogvk">20091201</mezo>
 <mezo id = "jogvv">20141201</mezo>
 <mezo id = "valtk">20091201</mezo>
@@ -883,12 +883,12 @@
 <alrovat id = "1">
 <mezo id = "hattol">19970801</mezo>
 <mezo id = "cgjsz">206064014</mezo>
-<mezo id = "nev">URO-CLIN Betéti Társaság</mezo>
+<mezo id = "nev">URO-CLIN BetÃ©ti TÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">20100705</mezo>
 <mezo id = "cgjsz">0209067877</mezo>
-<mezo id = "nev">THERMO-CLIN Egészségügyi Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">THERMO-CLIN EgÃ©szsÃ©gÃ¼gyi SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "valtk">20100705</mezo>
 <mezo id = "bkelt">20100705</mezo>
 </alrovat>
@@ -917,16 +917,16 @@
 <mezo id = "adosz">11546094202</mezo>
 <mezo id = "kadosz">HU11546094</mezo>
 <mezo id = "bkelt">20110729</mezo>
-<mezo id = "megj">Státusz kezdete: 1997/08/01</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 1997/08/01</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0109">
 <alrovat id = "34">
 <mezo id = "hattol">20080626</mezo>
-<mezo id = "pnev">Dr. Fábos Zoltán</mezo>
-<mezo id = "panev">Bodó Teréz</mezo>
+<mezo id = "pnev">Dr. FÃ¡bos ZoltÃ¡n</mezo>
+<mezo id = "panev">BodÃ³ TerÃ©z</mezo>
 <mezo id = "pirsz">7634</mezo>
-<mezo id = "phely">Pécs, Cserbogár dûlõ 10.</mezo>
+<mezo id = "phely">PÃ©cs, CserbogÃ¡r dÅ±lÅ‘ 10.</mezo>
 <mezo id = "tagsk">19970801</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20080626</mezo>
@@ -936,10 +936,10 @@
 </alrovat>
 <alrovat id = "35">
 <mezo id = "hattol">20080626</mezo>
-<mezo id = "pnev">Dr. Götz Frigyes</mezo>
-<mezo id = "panev">Szántó Mária</mezo>
+<mezo id = "pnev">Dr. GÃ¶tz Frigyes</mezo>
+<mezo id = "panev">SzÃ¡ntÃ³ MÃ¡ria</mezo>
 <mezo id = "pirsz">7624</mezo>
-<mezo id = "phely">Pécs, Székely Bertalan utca 30.</mezo>
+<mezo id = "phely">PÃ©cs, SzÃ©kely Bertalan utca 30.</mezo>
 <mezo id = "tagsk">19970801</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20080626</mezo>
@@ -950,9 +950,9 @@
 <alrovat id = "37">
 <mezo id = "hattol">20080626</mezo>
 <mezo id = "pnev">Dr. Pusztai Csaba</mezo>
-<mezo id = "panev">Kõcs Gizella</mezo>
+<mezo id = "panev">KÅ‘cs Gizella</mezo>
 <mezo id = "pirsz">7623</mezo>
-<mezo id = "phely">Pécs, Mártírok útja 26.</mezo>
+<mezo id = "phely">PÃ©cs, MÃ¡rtÃ­rok Ãºtja 26.</mezo>
 <mezo id = "tagsk">19970801</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20080626</mezo>
@@ -962,10 +962,10 @@
 </alrovat>
 <alrovat id = "38">
 <mezo id = "hattol">20080626</mezo>
-<mezo id = "pnev">Dr. Somogyi László</mezo>
-<mezo id = "panev">Wéber Ella</mezo>
+<mezo id = "pnev">Dr. Somogyi LÃ¡szlÃ³</mezo>
+<mezo id = "panev">WÃ©ber Ella</mezo>
 <mezo id = "pirsz">7625</mezo>
-<mezo id = "phely">Pécs, Kaposvári utca 9.</mezo>
+<mezo id = "phely">PÃ©cs, KaposvÃ¡ri utca 9.</mezo>
 <mezo id = "tagsk">19970801</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20080626</mezo>
@@ -975,10 +975,10 @@
 </alrovat>
 <alrovat id = "39">
 <mezo id = "hattol">20080626</mezo>
-<mezo id = "pnev">Dr. Polyák László</mezo>
-<mezo id = "panev">Nádasi Erzsébet</mezo>
+<mezo id = "pnev">Dr. PolyÃ¡k LÃ¡szlÃ³</mezo>
+<mezo id = "panev">NÃ¡dasi ErzsÃ©bet</mezo>
 <mezo id = "pirsz">7635</mezo>
-<mezo id = "phely">Pécs, Víztározó dûlõ 14.</mezo>
+<mezo id = "phely">PÃ©cs, VÃ­ztÃ¡rozÃ³ dÅ±lÅ‘ 14.</mezo>
 <mezo id = "tagsk">20030320</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20080626</mezo>
@@ -988,10 +988,10 @@
 </alrovat>
 <alrovat id = "40">
 <mezo id = "hattol">20080626</mezo>
-<mezo id = "pnev">Dr. Székely József</mezo>
-<mezo id = "panev">Kis Bíró Györgyi</mezo>
+<mezo id = "pnev">Dr. SzÃ©kely JÃ³zsef</mezo>
+<mezo id = "panev">Kis BÃ­rÃ³ GyÃ¶rgyi</mezo>
 <mezo id = "pirsz">7625</mezo>
-<mezo id = "phely">Pécs, Aradi Vértanúk útja 28/A.</mezo>
+<mezo id = "phely">PÃ©cs, Aradi VÃ©rtanÃºk Ãºtja 28/A.</mezo>
 <mezo id = "tagsk">19970801</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20080626</mezo>
@@ -1001,10 +1001,10 @@
 </alrovat>
 <alrovat id = "41">
 <mezo id = "hattol">20080626</mezo>
-<mezo id = "pnev">Dr. Morvay Géza</mezo>
-<mezo id = "panev">Dr. Wéber Mária</mezo>
+<mezo id = "pnev">Dr. Morvay GÃ©za</mezo>
+<mezo id = "panev">Dr. WÃ©ber MÃ¡ria</mezo>
 <mezo id = "pirsz">7621</mezo>
-<mezo id = "phely">Pécs, József utca 23.</mezo>
+<mezo id = "phely">PÃ©cs, JÃ³zsef utca 23.</mezo>
 <mezo id = "tagsk">20030320</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20080626</mezo>
@@ -1014,10 +1014,10 @@
 </alrovat>
 <alrovat id = "42">
 <mezo id = "hattol">20080626</mezo>
-<mezo id = "pnev">Dr. Villányi Kinga</mezo>
-<mezo id = "panev">Sovárszky Ilona</mezo>
+<mezo id = "pnev">Dr. VillÃ¡nyi Kinga</mezo>
+<mezo id = "panev">SovÃ¡rszky Ilona</mezo>
 <mezo id = "pirsz">7621</mezo>
-<mezo id = "phely">Pécs, Szilágyi D. utca 13.</mezo>
+<mezo id = "phely">PÃ©cs, SzilÃ¡gyi D. utca 13.</mezo>
 <mezo id = "tagsk">19970801</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20080626</mezo>
@@ -1027,10 +1027,10 @@
 </alrovat>
 <alrovat id = "43">
 <mezo id = "hattol">20080626</mezo>
-<mezo id = "pnev">Dr. Pytel Ákos</mezo>
-<mezo id = "panev">Dr. Horváth Katalin</mezo>
+<mezo id = "pnev">Dr. Pytel Ãkos</mezo>
+<mezo id = "panev">Dr. HorvÃ¡th Katalin</mezo>
 <mezo id = "pirsz">7634</mezo>
-<mezo id = "phely">Pécs, Gém út 28/2.</mezo>
+<mezo id = "phely">PÃ©cs, GÃ©m Ãºt 28/2.</mezo>
 <mezo id = "tagsk">20030320</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20080626</mezo>
@@ -1040,10 +1040,10 @@
 </alrovat>
 <alrovat id = "44">
 <mezo id = "hattol">20080626</mezo>
-<mezo id = "pnev">Dr. Tornai Zoltán</mezo>
-<mezo id = "panev">Fehér Nóra</mezo>
+<mezo id = "pnev">Dr. Tornai ZoltÃ¡n</mezo>
+<mezo id = "panev">FehÃ©r NÃ³ra</mezo>
 <mezo id = "pirsz">7634</mezo>
-<mezo id = "phely">Pécs, Újfasor 9.</mezo>
+<mezo id = "phely">PÃ©cs, Ãšjfasor 9.</mezo>
 <mezo id = "tagsk">19970801</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20080626</mezo>
@@ -1053,10 +1053,10 @@
 </alrovat>
 <alrovat id = "46">
 <mezo id = "hattol">20080626</mezo>
-<mezo id = "pnev">Dr. Szántó Árpád</mezo>
-<mezo id = "panev">Hollender Rozália</mezo>
+<mezo id = "pnev">Dr. SzÃ¡ntÃ³ ÃrpÃ¡d</mezo>
+<mezo id = "panev">Hollender RozÃ¡lia</mezo>
 <mezo id = "pirsz">7831</mezo>
-<mezo id = "phely">Pellérd, Szabadság utca 14.</mezo>
+<mezo id = "phely">PellÃ©rd, SzabadsÃ¡g utca 14.</mezo>
 <mezo id = "tagsk">19970801</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20080626</mezo>
@@ -1066,21 +1066,21 @@
 </alrovat>
 <alrovat id = "47">
 <mezo id = "hattol">20090625</mezo>
-<mezo id = "pnev">Dr. Buzogány István</mezo>
-<mezo id = "panev">Klapka Mária</mezo>
+<mezo id = "pnev">Dr. BuzogÃ¡ny IstvÃ¡n</mezo>
+<mezo id = "panev">Klapka MÃ¡ria</mezo>
 <mezo id = "pirsz">1037</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Mátyáshegyi út 4.</mezo>
+<mezo id = "pteru">MÃ¡tyÃ¡shegyi Ãºt 4.</mezo>
 <mezo id = "tagsk">19970801</mezo>
 <mezo id = "valtk">20090625</mezo>
 <mezo id = "bkelt">20090902</mezo>
 </alrovat>
 <alrovat id = "48">
 <mezo id = "hattol">20090625</mezo>
-<mezo id = "pnev">Dr. Szénás-Máthé Jenõ</mezo>
-<mezo id = "panev">Sztuflák Etelka</mezo>
+<mezo id = "pnev">Dr. SzÃ©nÃ¡s-MÃ¡thÃ© JenÅ‘</mezo>
+<mezo id = "panev">SztuflÃ¡k Etelka</mezo>
 <mezo id = "pirsz">7800</mezo>
-<mezo id = "phely">Siklós-Máriagyûd</mezo>
+<mezo id = "phely">SiklÃ³s-MÃ¡riagyÅ±d</mezo>
 <mezo id = "pteru">Liszt Ferenc utca 12.</mezo>
 <mezo id = "tagsk">20030320</mezo>
 <mezo id = "valtk">20090625</mezo>
@@ -1088,21 +1088,21 @@
 </alrovat>
 <alrovat id = "49">
 <mezo id = "hattol">20090625</mezo>
-<mezo id = "pnev">Dr. Farkas László</mezo>
-<mezo id = "panev">Sohár Irma</mezo>
+<mezo id = "pnev">Dr. Farkas LÃ¡szlÃ³</mezo>
+<mezo id = "panev">SohÃ¡r Irma</mezo>
 <mezo id = "pirsz">7625</mezo>
-<mezo id = "phely">Pécs</mezo>
-<mezo id = "pteru">Péter utca 25.</mezo>
+<mezo id = "phely">PÃ©cs</mezo>
+<mezo id = "pteru">PÃ©ter utca 25.</mezo>
 <mezo id = "tagsk">20090625</mezo>
 <mezo id = "valtk">20090625</mezo>
 <mezo id = "bkelt">20090902</mezo>
 </alrovat>
 <alrovat id = "50">
 <mezo id = "hattol">20110428</mezo>
-<mezo id = "pnev">Dr. Jávorházy András</mezo>
+<mezo id = "pnev">Dr. JÃ¡vorhÃ¡zy AndrÃ¡s</mezo>
 <mezo id = "panev">Bellavics Sarolta</mezo>
 <mezo id = "pirsz">7625</mezo>
-<mezo id = "phely">Pécs</mezo>
+<mezo id = "phely">PÃ©cs</mezo>
 <mezo id = "pteru">Hegyalja utca 68.</mezo>
 <mezo id = "tagsk">20110428</mezo>
 <mezo id = "valtk">20110428</mezo>
@@ -1110,11 +1110,11 @@
 </alrovat>
 <alrovat id = "51">
 <mezo id = "hattol">20110428</mezo>
-<mezo id = "pnev">Dr. Damásdi Miklós</mezo>
-<mezo id = "panev">Dr. Cseke Borbála</mezo>
+<mezo id = "pnev">Dr. DamÃ¡sdi MiklÃ³s</mezo>
+<mezo id = "panev">Dr. Cseke BorbÃ¡la</mezo>
 <mezo id = "pirsz">7400</mezo>
-<mezo id = "phely">Kaposvár</mezo>
-<mezo id = "pteru">Arany János tér 7.</mezo>
+<mezo id = "phely">KaposvÃ¡r</mezo>
+<mezo id = "pteru">Arany JÃ¡nos tÃ©r 7.</mezo>
 <mezo id = "tagsk">20110428</mezo>
 <mezo id = "valtk">20110428</mezo>
 <mezo id = "bkelt">20110530</mezo>
@@ -1122,11 +1122,11 @@
 <alrovat id = "52">
 <mezo id = "hattol">20110428</mezo>
 <mezo id = "cgjsz">0209076012</mezo>
-<mezo id = "nev">BÁNYAI-MEDICAL Egészségügyi Szolgáltató Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">BÃNYAI-MEDICAL EgÃ©szsÃ©gÃ¼gyi SzolgÃ¡ltatÃ³ KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">7635</mezo>
-<mezo id = "hely">Pécs</mezo>
-<mezo id = "teru">Zurna dûlõ 1/1.</mezo>
+<mezo id = "hely">PÃ©cs</mezo>
+<mezo id = "teru">Zurna dÅ±lÅ‘ 1/1.</mezo>
 <mezo id = "tagsk">20110428</mezo>
 <mezo id = "valtk">20110428</mezo>
 <mezo id = "bkelt">20110530</mezo>
@@ -1141,168 +1141,168 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az URO-CLIN Kft. egyesül a THERMO-CLIN Kft.-vel oly módon, hogy a THERMO-CLIN Egészségügyi Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság beolvad az URO-CLIN Egészségügyi Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaságba.<ujsor/>
-Az egyesülés módja: beolvadás.<ujsor/>
-A társasági szerzõdés módosításának idõpontja: 2010. április 26.<ujsor/>
-Az átvevõ társaság beolvadás elõtti fõbb adatai:<ujsor/>
-Cégnév: URO-CLIN Egészségügyi Szolgáltatási és Kereskedelmi Korlátolt Felelõsségû Társaság.<ujsor/>
-Cégjegyzékszám: [02 09 065076].<ujsor/>
-Székhely: 7621 Pécs, Perczel Miklós u. 11/1. fszt. 4.<ujsor/>
-Törzstõke: 6 550 000 Ft (hatmillió-ötszázötvenezer forint).<ujsor/>
-Vezetõ tisztségviselõk: dr. Fábos Zoltán ügyvezetõ, Grozdics Gabriella cégvezetõ.<ujsor/>
-Az URO-CLIN Egészségügyi Szolgáltatási és Kereskedelmi Korlátolt Felelõsségû Társaság (átvevõ) beolvadás elõtti, 2009. december 31-i fordulónapi (záró) vagyonmérleg-tervezete:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-A) Befektetett eszközök 53 984 D) Saját tõke 136 143<ujsor/>
-I. Immateriális javak 858 I. Jegyzett tõke 6 550<ujsor/>
-II. Tárgyi eszközök 18 926 II. Jegyzett, de még be nem fizetett tõke 0<ujsor/>
-III. Befektetett pénzügyi eszközök 34 200 III. Tõketartalék 0<ujsor/>
-B) Forgóeszközök 76 353 IV. Eredménytartalék 118 442<ujsor/>
-I. Készletek 1 622 V. Lekötött tartalék 4 561<ujsor/>
-II. Követelések 72 030 VI. Értékelési tartalék 0<ujsor/>
-III. Értékpapírok 0 VII. Mérleg szerinti eredmény 6 590<ujsor/>
-IV. Pénzeszközök 2 701 E) Céltartalékok 0<ujsor/>
-C) Aktív idõbeli elhatárolások 104 170 F) Kötelezettségek 72 190<ujsor/>
-I. Hátra sorolt kötelezettségek 0<ujsor/>
-II. Hosszú lejáratú kötelezettségek 40 000<ujsor/>
-III. Rövid lejáratú kötelezettségek 32 190<ujsor/>
-G) Passzív idõbeli elhatárolások 26 174<ujsor/>
-ÖSSZESEN: 234 507 ÖSSZESEN: 234 507<ujsor/>
-A beolvadó társaság beolvadás elõtti fõbb adatai:<ujsor/>
-Cégnév: THERMO-CLIN Egészségügyi Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság.<ujsor/>
-Cégjegyzékszám: [02 09 067877].<ujsor/>
-Székhely: 7621 Pécs, Perczel Miklós u. 11/1. fszt. 4.<ujsor/>
-Törzstõke: 5 880 000 Ft (ötmillió-nyolcszáznyolcvanezer forint).<ujsor/>
-Vezetõ tisztségviselõk: dr. Fábos Zoltán ügyvezetõ, Grozdics Gabriella cégvezetõ.<ujsor/>
-A THERMO-CLIN Egészségügyi Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság (beolvadó) beolvadás elõtti, 2009. december 31-i fordulónapi (záró) vagyonmérleg-tervezete:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-A) Befektetett eszközök 162 737 D) Saját tõke 30 852<ujsor/>
-I. Immateriális javak 73 I. Jegyzett tõke 5 880<ujsor/>
-II. Tárgyi eszközök 148 014 II. Jegyzett, de még be nem fizetett tõke 0<ujsor/>
-III. Befektetett pénzügyi eszközök 14 646 III. Tõketartalék 0<ujsor/>
-B) Forgóeszközök 10 937 IV. Eredménytartalék 24 972<ujsor/>
-I. Készletek 818 V. Lekötött tartalék 0<ujsor/>
-II. Követelések 8 465 VI. Értékelési tartalék 0<ujsor/>
-III. Értékpapírok 0 VII. Mérleg szerinti eredmény 0<ujsor/>
-IV. Pénzeszközök 1 654 E) Céltartalékok 0<ujsor/>
-C) Aktív idõbeli elhatárolások 14 769 F) Kötelezettségek 143 154<ujsor/>
-I. Hátra sorolt kötelezettségek 0<ujsor/>
-II. Hosszú lejáratú kötelezettségek 88 722<ujsor/>
-III. Rövid lejáratú kötelezettségek 54 432<ujsor/>
-G) Passzív idõbeli elhatárolások 14 437<ujsor/>
-ÖSSZESEN: 188 443 ÖSSZESEN: 188 443<ujsor/>
-A létrejövõ társaság beolvadás utáni fõbb adatai:<ujsor/>
-Cégnév: URO-CLIN Egészségügyi Szolgáltatási és Kereskedelmi Korlátolt Felelõsségû Társaság.<ujsor/>
-Cégjegyzékszám: [02 09 065076].<ujsor/>
-Székhely: 7621 Pécs, Perczel Miklós u. 11/1. fszt. 4.<ujsor/>
-Törzstõke: 12 430 000 Ft (tizenkettõmillió-négyszázharmincezer forint).<ujsor/>
-Vezetõ tisztségviselõk: dr. Fábos Zoltán ügyvezetõ (7634 Pécs, Cserebogár dûlõ 10.), Grozdics Gabriella cégvezetõ (7621 Pécs, Király u. 38.).<ujsor/>
-Fõ tevékenységi kör (TEÁOR ’08): 8622 Szakorvosi járóbeteg-ellátás.<ujsor/>
-Az URO-CLIN Egészségügyi Szolgáltatási és Kereskedelmi Korlátolt Felelõsségû Társaság (jogutód) beolvadás elõtti, 2009. december 31-i fordulónapi (nyitó) vagyonmérleg-tervezete:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-A) Befektetett eszközök 216 721 D) Saját tõke 166 995<ujsor/>
-I. Immateriális javak 931 I. Jegyzett tõke 12 430<ujsor/>
-II. Tárgyi eszközök 166 944 II. Jegyzett, de még be nem fizetett tõke 0<ujsor/>
-III. Befektetett pénzügyi eszközök 48 846 III. Tõketartalék 0<ujsor/>
-B) Forgóeszközök 81 370 IV. Eredménytartalék 143 414<ujsor/>
-I. Készletek 2 440 V. Lekötött tartalék 4 561<ujsor/>
-II. Követelések 74 575 VI. Értékelési tartalék 0<ujsor/>
-III. Értékpapírok 0 VII. Mérleg szerinti eredmény 6 590<ujsor/>
-IV. Pénzeszközök 4 355 E) Céltartalékok 0<ujsor/>
-C) Aktív idõbeli elhatárolások 118 939 F) Kötelezettségek 209 424<ujsor/>
-I. Hátra sorolt kötelezettségek 0<ujsor/>
-II. Hosszú lejáratú kötelezettségek 128 722<ujsor/>
-III. Rövid lejáratú kötelezettségek 80 702<ujsor/>
-G) Passzív idõbeli elhatárolások 40 611<ujsor/>
-ÖSSZESEN: 417 030 ÖSSZESEN: 417 030<ujsor/>
-Az átalakuló társaság felhívja azokat a hitelezõket, akiknek le nem járt követelései a hirdetmény elsõ közzétételét megelõzõen keletkeztek, hogy biztosíték adása iránti igényeiket a hirdetmény második közzétételét követõ 30 napon belül jelentsék be.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">Az URO-CLIN Kft. egyesÃ¼l a THERMO-CLIN Kft.-vel oly mÃ³don, hogy a THERMO-CLIN EgÃ©szsÃ©gÃ¼gyi SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g beolvad az URO-CLIN EgÃ©szsÃ©gÃ¼gyi SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gba.<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: beolvadÃ¡s.<ujsor/>
+A tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s mÃ³dosÃ­tÃ¡sÃ¡nak idÅ‘pontja: 2010. Ã¡prilis 26.<ujsor/>
+Az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g beolvadÃ¡s elÅ‘tti fÅ‘bb adatai:<ujsor/>
+CÃ©gnÃ©v: URO-CLIN EgÃ©szsÃ©gÃ¼gyi SzolgÃ¡ltatÃ¡si Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡m: [02 09 065076].<ujsor/>
+SzÃ©khely: 7621 PÃ©cs, Perczel MiklÃ³s u. 11/1. fszt. 4.<ujsor/>
+TÃ¶rzstÅ‘ke: 6 550 000 Ft (hatmilliÃ³-Ã¶tszÃ¡zÃ¶tvenezer forint).<ujsor/>
+VezetÅ‘ tisztsÃ©gviselÅ‘k: dr. FÃ¡bos ZoltÃ¡n Ã¼gyvezetÅ‘, Grozdics Gabriella cÃ©gvezetÅ‘.<ujsor/>
+Az URO-CLIN EgÃ©szsÃ©gÃ¼gyi SzolgÃ¡ltatÃ¡si Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Ã¡tvevÅ‘) beolvadÃ¡s elÅ‘tti, 2009. december 31-i fordulÃ³napi (zÃ¡rÃ³) vagyonmÃ©rleg-tervezete:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 53 984 D) SajÃ¡t tÅ‘ke 136 143<ujsor/>
+I. ImmateriÃ¡lis javak 858 I. Jegyzett tÅ‘ke 6 550<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 18 926 II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke 0<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 34 200 III. TÅ‘ketartalÃ©k 0<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 76 353 IV. EredmÃ©nytartalÃ©k 118 442<ujsor/>
+I. KÃ©szletek 1 622 V. LekÃ¶tÃ¶tt tartalÃ©k 4 561<ujsor/>
+II. KÃ¶vetelÃ©sek 72 030 VI. Ã‰rtÃ©kelÃ©si tartalÃ©k 0<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 VII. MÃ©rleg szerinti eredmÃ©ny 6 590<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 2 701 E) CÃ©ltartalÃ©kok 0<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 104 170 F) KÃ¶telezettsÃ©gek 72 190<ujsor/>
+I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0<ujsor/>
+II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 40 000<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 32 190<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 26 174<ujsor/>
+Ã–SSZESEN: 234 507 Ã–SSZESEN: 234 507<ujsor/>
+A beolvadÃ³ tÃ¡rsasÃ¡g beolvadÃ¡s elÅ‘tti fÅ‘bb adatai:<ujsor/>
+CÃ©gnÃ©v: THERMO-CLIN EgÃ©szsÃ©gÃ¼gyi SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡m: [02 09 067877].<ujsor/>
+SzÃ©khely: 7621 PÃ©cs, Perczel MiklÃ³s u. 11/1. fszt. 4.<ujsor/>
+TÃ¶rzstÅ‘ke: 5 880 000 Ft (Ã¶tmilliÃ³-nyolcszÃ¡znyolcvanezer forint).<ujsor/>
+VezetÅ‘ tisztsÃ©gviselÅ‘k: dr. FÃ¡bos ZoltÃ¡n Ã¼gyvezetÅ‘, Grozdics Gabriella cÃ©gvezetÅ‘.<ujsor/>
+A THERMO-CLIN EgÃ©szsÃ©gÃ¼gyi SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (beolvadÃ³) beolvadÃ¡s elÅ‘tti, 2009. december 31-i fordulÃ³napi (zÃ¡rÃ³) vagyonmÃ©rleg-tervezete:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 162 737 D) SajÃ¡t tÅ‘ke 30 852<ujsor/>
+I. ImmateriÃ¡lis javak 73 I. Jegyzett tÅ‘ke 5 880<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 148 014 II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke 0<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 14 646 III. TÅ‘ketartalÃ©k 0<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 10 937 IV. EredmÃ©nytartalÃ©k 24 972<ujsor/>
+I. KÃ©szletek 818 V. LekÃ¶tÃ¶tt tartalÃ©k 0<ujsor/>
+II. KÃ¶vetelÃ©sek 8 465 VI. Ã‰rtÃ©kelÃ©si tartalÃ©k 0<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 VII. MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 1 654 E) CÃ©ltartalÃ©kok 0<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 14 769 F) KÃ¶telezettsÃ©gek 143 154<ujsor/>
+I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0<ujsor/>
+II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 88 722<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 54 432<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 14 437<ujsor/>
+Ã–SSZESEN: 188 443 Ã–SSZESEN: 188 443<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g beolvadÃ¡s utÃ¡ni fÅ‘bb adatai:<ujsor/>
+CÃ©gnÃ©v: URO-CLIN EgÃ©szsÃ©gÃ¼gyi SzolgÃ¡ltatÃ¡si Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡m: [02 09 065076].<ujsor/>
+SzÃ©khely: 7621 PÃ©cs, Perczel MiklÃ³s u. 11/1. fszt. 4.<ujsor/>
+TÃ¶rzstÅ‘ke: 12 430 000 Ft (tizenkettÅ‘milliÃ³-nÃ©gyszÃ¡zharmincezer forint).<ujsor/>
+VezetÅ‘ tisztsÃ©gviselÅ‘k: dr. FÃ¡bos ZoltÃ¡n Ã¼gyvezetÅ‘ (7634 PÃ©cs, CserebogÃ¡r dÅ±lÅ‘ 10.), Grozdics Gabriella cÃ©gvezetÅ‘ (7621 PÃ©cs, KirÃ¡ly u. 38.).<ujsor/>
+FÅ‘ tevÃ©kenysÃ©gi kÃ¶r (TEÃOR â€™08): 8622 Szakorvosi jÃ¡rÃ³beteg-ellÃ¡tÃ¡s.<ujsor/>
+Az URO-CLIN EgÃ©szsÃ©gÃ¼gyi SzolgÃ¡ltatÃ¡si Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (jogutÃ³d) beolvadÃ¡s elÅ‘tti, 2009. december 31-i fordulÃ³napi (nyitÃ³) vagyonmÃ©rleg-tervezete:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 216 721 D) SajÃ¡t tÅ‘ke 166 995<ujsor/>
+I. ImmateriÃ¡lis javak 931 I. Jegyzett tÅ‘ke 12 430<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 166 944 II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke 0<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 48 846 III. TÅ‘ketartalÃ©k 0<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 81 370 IV. EredmÃ©nytartalÃ©k 143 414<ujsor/>
+I. KÃ©szletek 2 440 V. LekÃ¶tÃ¶tt tartalÃ©k 4 561<ujsor/>
+II. KÃ¶vetelÃ©sek 74 575 VI. Ã‰rtÃ©kelÃ©si tartalÃ©k 0<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 VII. MÃ©rleg szerinti eredmÃ©ny 6 590<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 4 355 E) CÃ©ltartalÃ©kok 0<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 118 939 F) KÃ¶telezettsÃ©gek 209 424<ujsor/>
+I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0<ujsor/>
+II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 128 722<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 80 702<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 40 611<ujsor/>
+Ã–SSZESEN: 417 030 Ã–SSZESEN: 417 030<ujsor/>
+Az Ã¡talakulÃ³ tÃ¡rsasÃ¡g felhÃ­vja azokat a hitelezÅ‘ket, akiknek le nem jÃ¡rt kÃ¶vetelÃ©sei a hirdetmÃ©ny elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, hogy biztosÃ­tÃ©k adÃ¡sa irÃ¡nti igÃ©nyeiket a hirdetmÃ©ny mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ 30 napon belÃ¼l jelentsÃ©k be.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0209065076</mezo>
-<mezo id = "nev">URO-CLIN Egészségügyi Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">7621 Pécs</mezo>
+<mezo id = "nev">URO-CLIN EgÃ©szsÃ©gÃ¼gyi SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">7621 PÃ©cs</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az URO-CLIN Kft. egyesül a THERMO-CLIN Kft.-vel oly módon, hogy a THERMO-CLIN Egészségügyi Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság beolvad az URO-CLIN Egészségügyi Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaságba.<ujsor/>
-Az egyesülés módja: beolvadás.<ujsor/>
-A társasági szerzõdés módosításának idõpontja: 2010. április 26.<ujsor/>
-Az átvevõ társaság beolvadás elõtti fõbb adatai:<ujsor/>
-Cégnév: URO-CLIN Egészségügyi Szolgáltatási és Kereskedelmi Korlátolt Felelõsségû Társaság.<ujsor/>
-Cégjegyzékszám: [02 09 065076].<ujsor/>
-Székhely: 7621 Pécs, Perczel Miklós u. 11/1. fszt. 4.<ujsor/>
-Törzstõke: 6 550 000 Ft (hatmillió-ötszázötvenezer forint).<ujsor/>
-Vezetõ tisztségviselõk: dr. Fábos Zoltán ügyvezetõ, Grozdics Gabriella cégvezetõ.<ujsor/>
-Az URO-CLIN Egészségügyi Szolgáltatási és Kereskedelmi Korlátolt Felelõsségû Társaság (átvevõ) beolvadás elõtti, 2009. december 31-i fordulónapi (záró) vagyonmérleg-tervezete:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-A) Befektetett eszközök 53 984 D) Saját tõke 136 143<ujsor/>
-I. Immateriális javak 858 I. Jegyzett tõke 6 550<ujsor/>
-II. Tárgyi eszközök 18 926 II. Jegyzett, de még be nem fizetett tõke 0<ujsor/>
-III. Befektetett pénzügyi eszközök 34 200 III. Tõketartalék 0<ujsor/>
-B) Forgóeszközök 76 353 IV. Eredménytartalék 118 442<ujsor/>
-I. Készletek 1 622 V. Lekötött tartalék 4 561<ujsor/>
-II. Követelések 72 030 VI. Értékelési tartalék 0<ujsor/>
-III. Értékpapírok 0 VII. Mérleg szerinti eredmény 6 590<ujsor/>
-IV. Pénzeszközök 2 701 E) Céltartalékok 0<ujsor/>
-C) Aktív idõbeli elhatárolások 104 170 F) Kötelezettségek 72 190<ujsor/>
-I. Hátra sorolt kötelezettségek 0<ujsor/>
-II. Hosszú lejáratú kötelezettségek 40 000<ujsor/>
-III. Rövid lejáratú kötelezettségek 32 190<ujsor/>
-G) Passzív idõbeli elhatárolások 26 174<ujsor/>
-ÖSSZESEN: 234 507 ÖSSZESEN: 234 507<ujsor/>
-A beolvadó társaság beolvadás elõtti fõbb adatai:<ujsor/>
-Cégnév: THERMO-CLIN Egészségügyi Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság.<ujsor/>
-Cégjegyzékszám: [02 09 067877].<ujsor/>
-Székhely: 7621 Pécs, Perczel Miklós u. 11/1. fszt. 4.<ujsor/>
-Törzstõke: 5 880 000 Ft (ötmillió-nyolcszáznyolcvanezer forint).<ujsor/>
-Vezetõ tisztségviselõk: dr. Fábos Zoltán ügyvezetõ, Grozdics Gabriella cégvezetõ.<ujsor/>
-A THERMO-CLIN Egészségügyi Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság (beolvadó) beolvadás elõtti, 2009. december 31-i fordulónapi (záró) vagyonmérleg-tervezete:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-A) Befektetett eszközök 162 737 D) Saját tõke 30 852<ujsor/>
-I. Immateriális javak 73 I. Jegyzett tõke 5 880<ujsor/>
-II. Tárgyi eszközök 148 014 II. Jegyzett, de még be nem fizetett tõke 0<ujsor/>
-III. Befektetett pénzügyi eszközök 14 646 III. Tõketartalék 0<ujsor/>
-B) Forgóeszközök 10 937 IV. Eredménytartalék 24 972<ujsor/>
-I. Készletek 818 V. Lekötött tartalék 0<ujsor/>
-II. Követelések 8 465 VI. Értékelési tartalék 0<ujsor/>
-III. Értékpapírok 0 VII. Mérleg szerinti eredmény 0<ujsor/>
-IV. Pénzeszközök 1 654 E) Céltartalékok 0<ujsor/>
-C) Aktív idõbeli elhatárolások 14 769 F) Kötelezettségek 143 154<ujsor/>
-I. Hátra sorolt kötelezettségek 0<ujsor/>
-II. Hosszú lejáratú kötelezettségek 88 722<ujsor/>
-III. Rövid lejáratú kötelezettségek 54 432<ujsor/>
-G) Passzív idõbeli elhatárolások 14 437<ujsor/>
-ÖSSZESEN: 188 443 ÖSSZESEN: 188 443<ujsor/>
-A létrejövõ társaság beolvadás utáni fõbb adatai:<ujsor/>
-Cégnév: URO-CLIN Egészségügyi Szolgáltatási és Kereskedelmi Korlátolt Felelõsségû Társaság.<ujsor/>
-Cégjegyzékszám: [02 09 065076].<ujsor/>
-Székhely: 7621 Pécs, Perczel Miklós u. 11/1. fszt. 4.<ujsor/>
-Törzstõke: 12 430 000 Ft (tizenkettõmillió-négyszázharmincezer forint).<ujsor/>
-Vezetõ tisztségviselõk: dr. Fábos Zoltán ügyvezetõ (7634 Pécs, Cserebogár dûlõ 10.), Grozdics Gabriella cégvezetõ (7621 Pécs, Király u. 38.).<ujsor/>
-Fõ tevékenységi kör (TEÁOR ’08): 8622 Szakorvosi járóbeteg-ellátás.<ujsor/>
-Az URO-CLIN Egészségügyi Szolgáltatási és Kereskedelmi Korlátolt Felelõsségû Társaság (jogutód) beolvadás elõtti, 2009. december 31-i fordulónapi (nyitó) vagyonmérleg-tervezete:<ujsor/>
-ESZKÖZÖK (E Ft) FORRÁSOK (E Ft)<ujsor/>
-A) Befektetett eszközök 216 721 D) Saját tõke 166 995<ujsor/>
-I. Immateriális javak 931 I. Jegyzett tõke 12 430<ujsor/>
-II. Tárgyi eszközök 166 944 II. Jegyzett, de még be nem fizetett tõke 0<ujsor/>
-III. Befektetett pénzügyi eszközök 48 846 III. Tõketartalék 0<ujsor/>
-B) Forgóeszközök 81 370 IV. Eredménytartalék 143 414<ujsor/>
-I. Készletek 2 440 V. Lekötött tartalék 4 561<ujsor/>
-II. Követelések 74 575 VI. Értékelési tartalék 0<ujsor/>
-III. Értékpapírok 0 VII. Mérleg szerinti eredmény 6 590<ujsor/>
-IV. Pénzeszközök 4 355 E) Céltartalékok 0<ujsor/>
-C) Aktív idõbeli elhatárolások 118 939 F) Kötelezettségek 209 424<ujsor/>
-I. Hátra sorolt kötelezettségek 0<ujsor/>
-II. Hosszú lejáratú kötelezettségek 128 722<ujsor/>
-III. Rövid lejáratú kötelezettségek 80 702<ujsor/>
-G) Passzív idõbeli elhatárolások 40 611<ujsor/>
-ÖSSZESEN: 417 030 ÖSSZESEN: 417 030<ujsor/>
-Az átalakuló társaság felhívja azokat a hitelezõket, akiknek le nem járt követelései a hirdetmény elsõ közzétételét megelõzõen keletkeztek, hogy biztosíték adása iránti igényeiket a hirdetmény második közzétételét követõ 30 napon belül jelentsék be.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">Az URO-CLIN Kft. egyesÃ¼l a THERMO-CLIN Kft.-vel oly mÃ³don, hogy a THERMO-CLIN EgÃ©szsÃ©gÃ¼gyi SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g beolvad az URO-CLIN EgÃ©szsÃ©gÃ¼gyi SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡gba.<ujsor/>
+Az egyesÃ¼lÃ©s mÃ³dja: beolvadÃ¡s.<ujsor/>
+A tÃ¡rsasÃ¡gi szerzÅ‘dÃ©s mÃ³dosÃ­tÃ¡sÃ¡nak idÅ‘pontja: 2010. Ã¡prilis 26.<ujsor/>
+Az Ã¡tvevÅ‘ tÃ¡rsasÃ¡g beolvadÃ¡s elÅ‘tti fÅ‘bb adatai:<ujsor/>
+CÃ©gnÃ©v: URO-CLIN EgÃ©szsÃ©gÃ¼gyi SzolgÃ¡ltatÃ¡si Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡m: [02 09 065076].<ujsor/>
+SzÃ©khely: 7621 PÃ©cs, Perczel MiklÃ³s u. 11/1. fszt. 4.<ujsor/>
+TÃ¶rzstÅ‘ke: 6 550 000 Ft (hatmilliÃ³-Ã¶tszÃ¡zÃ¶tvenezer forint).<ujsor/>
+VezetÅ‘ tisztsÃ©gviselÅ‘k: dr. FÃ¡bos ZoltÃ¡n Ã¼gyvezetÅ‘, Grozdics Gabriella cÃ©gvezetÅ‘.<ujsor/>
+Az URO-CLIN EgÃ©szsÃ©gÃ¼gyi SzolgÃ¡ltatÃ¡si Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (Ã¡tvevÅ‘) beolvadÃ¡s elÅ‘tti, 2009. december 31-i fordulÃ³napi (zÃ¡rÃ³) vagyonmÃ©rleg-tervezete:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 53 984 D) SajÃ¡t tÅ‘ke 136 143<ujsor/>
+I. ImmateriÃ¡lis javak 858 I. Jegyzett tÅ‘ke 6 550<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 18 926 II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke 0<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 34 200 III. TÅ‘ketartalÃ©k 0<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 76 353 IV. EredmÃ©nytartalÃ©k 118 442<ujsor/>
+I. KÃ©szletek 1 622 V. LekÃ¶tÃ¶tt tartalÃ©k 4 561<ujsor/>
+II. KÃ¶vetelÃ©sek 72 030 VI. Ã‰rtÃ©kelÃ©si tartalÃ©k 0<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 VII. MÃ©rleg szerinti eredmÃ©ny 6 590<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 2 701 E) CÃ©ltartalÃ©kok 0<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 104 170 F) KÃ¶telezettsÃ©gek 72 190<ujsor/>
+I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0<ujsor/>
+II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 40 000<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 32 190<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 26 174<ujsor/>
+Ã–SSZESEN: 234 507 Ã–SSZESEN: 234 507<ujsor/>
+A beolvadÃ³ tÃ¡rsasÃ¡g beolvadÃ¡s elÅ‘tti fÅ‘bb adatai:<ujsor/>
+CÃ©gnÃ©v: THERMO-CLIN EgÃ©szsÃ©gÃ¼gyi SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡m: [02 09 067877].<ujsor/>
+SzÃ©khely: 7621 PÃ©cs, Perczel MiklÃ³s u. 11/1. fszt. 4.<ujsor/>
+TÃ¶rzstÅ‘ke: 5 880 000 Ft (Ã¶tmilliÃ³-nyolcszÃ¡znyolcvanezer forint).<ujsor/>
+VezetÅ‘ tisztsÃ©gviselÅ‘k: dr. FÃ¡bos ZoltÃ¡n Ã¼gyvezetÅ‘, Grozdics Gabriella cÃ©gvezetÅ‘.<ujsor/>
+A THERMO-CLIN EgÃ©szsÃ©gÃ¼gyi SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (beolvadÃ³) beolvadÃ¡s elÅ‘tti, 2009. december 31-i fordulÃ³napi (zÃ¡rÃ³) vagyonmÃ©rleg-tervezete:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 162 737 D) SajÃ¡t tÅ‘ke 30 852<ujsor/>
+I. ImmateriÃ¡lis javak 73 I. Jegyzett tÅ‘ke 5 880<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 148 014 II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke 0<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 14 646 III. TÅ‘ketartalÃ©k 0<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 10 937 IV. EredmÃ©nytartalÃ©k 24 972<ujsor/>
+I. KÃ©szletek 818 V. LekÃ¶tÃ¶tt tartalÃ©k 0<ujsor/>
+II. KÃ¶vetelÃ©sek 8 465 VI. Ã‰rtÃ©kelÃ©si tartalÃ©k 0<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 VII. MÃ©rleg szerinti eredmÃ©ny 0<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 1 654 E) CÃ©ltartalÃ©kok 0<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 14 769 F) KÃ¶telezettsÃ©gek 143 154<ujsor/>
+I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0<ujsor/>
+II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 88 722<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 54 432<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 14 437<ujsor/>
+Ã–SSZESEN: 188 443 Ã–SSZESEN: 188 443<ujsor/>
+A lÃ©trejÃ¶vÅ‘ tÃ¡rsasÃ¡g beolvadÃ¡s utÃ¡ni fÅ‘bb adatai:<ujsor/>
+CÃ©gnÃ©v: URO-CLIN EgÃ©szsÃ©gÃ¼gyi SzolgÃ¡ltatÃ¡si Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g.<ujsor/>
+CÃ©gjegyzÃ©kszÃ¡m: [02 09 065076].<ujsor/>
+SzÃ©khely: 7621 PÃ©cs, Perczel MiklÃ³s u. 11/1. fszt. 4.<ujsor/>
+TÃ¶rzstÅ‘ke: 12 430 000 Ft (tizenkettÅ‘milliÃ³-nÃ©gyszÃ¡zharmincezer forint).<ujsor/>
+VezetÅ‘ tisztsÃ©gviselÅ‘k: dr. FÃ¡bos ZoltÃ¡n Ã¼gyvezetÅ‘ (7634 PÃ©cs, CserebogÃ¡r dÅ±lÅ‘ 10.), Grozdics Gabriella cÃ©gvezetÅ‘ (7621 PÃ©cs, KirÃ¡ly u. 38.).<ujsor/>
+FÅ‘ tevÃ©kenysÃ©gi kÃ¶r (TEÃOR â€™08): 8622 Szakorvosi jÃ¡rÃ³beteg-ellÃ¡tÃ¡s.<ujsor/>
+Az URO-CLIN EgÃ©szsÃ©gÃ¼gyi SzolgÃ¡ltatÃ¡si Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g (jogutÃ³d) beolvadÃ¡s elÅ‘tti, 2009. december 31-i fordulÃ³napi (nyitÃ³) vagyonmÃ©rleg-tervezete:<ujsor/>
+ESZKÃ–ZÃ–K (E Ft) FORRÃSOK (E Ft)<ujsor/>
+A) Befektetett eszkÃ¶zÃ¶k 216 721 D) SajÃ¡t tÅ‘ke 166 995<ujsor/>
+I. ImmateriÃ¡lis javak 931 I. Jegyzett tÅ‘ke 12 430<ujsor/>
+II. TÃ¡rgyi eszkÃ¶zÃ¶k 166 944 II. Jegyzett, de mÃ©g be nem fizetett tÅ‘ke 0<ujsor/>
+III. Befektetett pÃ©nzÃ¼gyi eszkÃ¶zÃ¶k 48 846 III. TÅ‘ketartalÃ©k 0<ujsor/>
+B) ForgÃ³eszkÃ¶zÃ¶k 81 370 IV. EredmÃ©nytartalÃ©k 143 414<ujsor/>
+I. KÃ©szletek 2 440 V. LekÃ¶tÃ¶tt tartalÃ©k 4 561<ujsor/>
+II. KÃ¶vetelÃ©sek 74 575 VI. Ã‰rtÃ©kelÃ©si tartalÃ©k 0<ujsor/>
+III. Ã‰rtÃ©kpapÃ­rok 0 VII. MÃ©rleg szerinti eredmÃ©ny 6 590<ujsor/>
+IV. PÃ©nzeszkÃ¶zÃ¶k 4 355 E) CÃ©ltartalÃ©kok 0<ujsor/>
+C) AktÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 118 939 F) KÃ¶telezettsÃ©gek 209 424<ujsor/>
+I. HÃ¡tra sorolt kÃ¶telezettsÃ©gek 0<ujsor/>
+II. HosszÃº lejÃ¡ratÃº kÃ¶telezettsÃ©gek 128 722<ujsor/>
+III. RÃ¶vid lejÃ¡ratÃº kÃ¶telezettsÃ©gek 80 702<ujsor/>
+G) PasszÃ­v idÅ‘beli elhatÃ¡rolÃ¡sok 40 611<ujsor/>
+Ã–SSZESEN: 417 030 Ã–SSZESEN: 417 030<ujsor/>
+Az Ã¡talakulÃ³ tÃ¡rsasÃ¡g felhÃ­vja azokat a hitelezÅ‘ket, akiknek le nem jÃ¡rt kÃ¶vetelÃ©sei a hirdetmÃ©ny elsÅ‘ kÃ¶zzÃ©tÃ©telÃ©t megelÅ‘zÅ‘en keletkeztek, hogy biztosÃ­tÃ©k adÃ¡sa irÃ¡nti igÃ©nyeiket a hirdetmÃ©ny mÃ¡sodik kÃ¶zzÃ©tÃ©telÃ©t kÃ¶vetÅ‘ 30 napon belÃ¼l jelentsÃ©k be.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0209065076</mezo>
-<mezo id = "nev">URO-CLIN Egészségügyi Szolgáltató és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
-<mezo id = "cim">7621 Pécs</mezo>
+<mezo id = "nev">URO-CLIN EgÃ©szsÃ©gÃ¼gyi SzolgÃ¡ltatÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">7621 PÃ©cs</mezo>
 </alrovat>
 </rovat>
 <rovat id = "99017">

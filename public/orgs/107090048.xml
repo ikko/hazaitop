@@ -6,14 +6,14 @@
 <mezo id = "szam">090048</mezo>
 <mezo id = "nevalrovat">1</mezo>
 <mezo id = "allapot">6</mezo>
-<mezo id = "cim">1138 Budapest, Róbert K. krt. 22. II. 35. </mezo>
+<mezo id = "cim">1138 Budapest, RÃ³bert K. krt. 22. II. 35. </mezo>
 <mezo id = "adosz">10302011201</mezo>
 </alrovat>
 </rovat>
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19891101</mezo>
-<mezo id = "nev">KöZLEKEDÉSI, HIRKöZLÉSI ÉS ÉPITÉSüGYI KORRÓZIÓVÉDELMI ÉS KöRNYEZETVÉDELMI EGYESüLÉS</mezo>
+<mezo id = "nev">KÃ¶ZLEKEDÃ‰SI, HIRKÃ¶ZLÃ‰SI Ã‰S Ã‰PITÃ‰SÃ¼GYI KORRÃ“ZIÃ“VÃ‰DELMI Ã‰S KÃ¶RNYEZETVÃ‰DELMI EGYESÃ¼LÃ‰S</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
@@ -21,13 +21,13 @@
 <mezo id = "hattol">19891101</mezo>
 <mezo id = "irsz">1119</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Thán K. 3-5.</mezo>
+<mezo id = "teru">ThÃ¡n K. 3-5.</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">19980601</mezo>
 <mezo id = "irsz">1138</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Róbert K. krt. 22. II. 35.</mezo>
+<mezo id = "teru">RÃ³bert K. krt. 22. II. 35.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "8">
@@ -89,11 +89,11 @@
 <rovat id = "13">
 <alrovat id = "1">
 <mezo id = "hattol">19891101</mezo>
-<mezo id = "nev">dr. V a d á s z E m i l , igazgató</mezo>
+<mezo id = "nev">dr. V a d Ã¡ s z E m i l , igazgatÃ³</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1138</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Róbert K.krt. 22.</mezo>
+<mezo id = "teru">RÃ³bert K.krt. 22.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "20">
@@ -111,61 +111,61 @@
 <rovat id = "0107">
 <alrovat id = "2">
 <mezo id = "hattol">19891101</mezo>
-<mezo id = "nev">Autópálya Igazgatóság</mezo>
+<mezo id = "nev">AutÃ³pÃ¡lya IgazgatÃ³sÃ¡g</mezo>
 <mezo id = "irsz">1024</mezo>
-<mezo id = "hely">Budapest, Fényes E. u. 7-13.</mezo>
+<mezo id = "hely">Budapest, FÃ©nyes E. u. 7-13.</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">19891101</mezo>
-<mezo id = "nev">Gyõri Közuti Igazgatóság</mezo>
+<mezo id = "nev">GyÅ‘ri KÃ¶zuti IgazgatÃ³sÃ¡g</mezo>
 <mezo id = "irsz">9022</mezo>
-<mezo id = "hely">Gyõr, Batthyány tér 8.</mezo>
+<mezo id = "hely">GyÅ‘r, BatthyÃ¡ny tÃ©r 8.</mezo>
 </alrovat>
 <alrovat id = "5">
 <mezo id = "hattol">19891101</mezo>
-<mezo id = "nev">Nyiregyházi Közuti Igazgatóság</mezo>
+<mezo id = "nev">NyiregyhÃ¡zi KÃ¶zuti IgazgatÃ³sÃ¡g</mezo>
 <mezo id = "irsz">4401</mezo>
-<mezo id = "hely">Nyiregyháza, Buza tér 20.</mezo>
+<mezo id = "hely">NyiregyhÃ¡za, Buza tÃ©r 20.</mezo>
 </alrovat>
 <alrovat id = "6">
 <mezo id = "hattol">19891101</mezo>
-<mezo id = "nev">Pécsi Közuti Igazgatóság</mezo>
+<mezo id = "nev">PÃ©csi KÃ¶zuti IgazgatÃ³sÃ¡g</mezo>
 <mezo id = "irsz">7601</mezo>
-<mezo id = "hely">Pécs, Köztársaság tér 5.</mezo>
+<mezo id = "hely">PÃ©cs, KÃ¶ztÃ¡rsasÃ¡g tÃ©r 5.</mezo>
 </alrovat>
 <alrovat id = "7">
 <mezo id = "hattol">19891101</mezo>
-<mezo id = "nev">Szegedi Közuti Igazgatóság</mezo>
+<mezo id = "nev">Szegedi KÃ¶zuti IgazgatÃ³sÃ¡g</mezo>
 <mezo id = "irsz">6701</mezo>
-<mezo id = "hely">Szeged, Juhász Gy. u. 9.</mezo>
+<mezo id = "hely">Szeged, JuhÃ¡sz Gy. u. 9.</mezo>
 </alrovat>
 <alrovat id = "8">
 <mezo id = "hattol">19891101</mezo>
-<mezo id = "nev">Szolnoki Közuti Igazgatóság</mezo>
+<mezo id = "nev">Szolnoki KÃ¶zuti IgazgatÃ³sÃ¡g</mezo>
 <mezo id = "irsz">5001</mezo>
-<mezo id = "hely">Szolnok, Petõfi S. u. 7-11.</mezo>
+<mezo id = "hely">Szolnok, PetÅ‘fi S. u. 7-11.</mezo>
 </alrovat>
 <alrovat id = "9">
 <mezo id = "hattol">19891101</mezo>
-<mezo id = "nev">Szombathelyi Közuti Igazgatóság</mezo>
+<mezo id = "nev">Szombathelyi KÃ¶zuti IgazgatÃ³sÃ¡g</mezo>
 <mezo id = "irsz">9701</mezo>
-<mezo id = "hely">Szombathely, Március 15 tér 2.</mezo>
+<mezo id = "hely">Szombathely, MÃ¡rcius 15 tÃ©r 2.</mezo>
 </alrovat>
 <alrovat id = "10">
 <mezo id = "hattol">19891101</mezo>
-<mezo id = "nev">Veszprémi Közuti Igazgatóság</mezo>
+<mezo id = "nev">VeszprÃ©mi KÃ¶zuti IgazgatÃ³sÃ¡g</mezo>
 <mezo id = "irsz">8201</mezo>
-<mezo id = "hely">Veszprém, Mártirok u. 1.</mezo>
+<mezo id = "hely">VeszprÃ©m, MÃ¡rtirok u. 1.</mezo>
 </alrovat>
 <alrovat id = "23">
 <mezo id = "hattol">19891101</mezo>
-<mezo id = "nev">MEDIKÉMIA Ipari Kisszövetkezet</mezo>
+<mezo id = "nev">MEDIKÃ‰MIA Ipari KisszÃ¶vetkezet</mezo>
 <mezo id = "irsz">6728</mezo>
-<mezo id = "hely">Szeged, Zsámbokréti sor 1/A.</mezo>
+<mezo id = "hely">Szeged, ZsÃ¡mbokrÃ©ti sor 1/A.</mezo>
 </alrovat>
 <alrovat id = "37">
 <mezo id = "hattol">19891101</mezo>
-<mezo id = "nev">IKARUS Karosszéria és Jármûgyár</mezo>
+<mezo id = "nev">IKARUS KarosszÃ©ria Ã©s JÃ¡rmÅ±gyÃ¡r</mezo>
 <mezo id = "irsz">1165</mezo>
 <mezo id = "hely">Budapest, Margit u. 2.</mezo>
 </alrovat>
@@ -179,47 +179,47 @@
 <mezo id = "hattol">19891101</mezo>
 <mezo id = "nev">PANNONKORR Kft.</mezo>
 <mezo id = "irsz">1087</mezo>
-<mezo id = "hely">Budapest, Kõbányai ut 21.</mezo>
+<mezo id = "hely">Budapest, KÅ‘bÃ¡nyai ut 21.</mezo>
 </alrovat>
 <alrovat id = "60">
 <mezo id = "hattol">19940402</mezo>
 <mezo id = "cgjsz">1109000977</mezo>
-<mezo id = "nev">SZINKRON Jármûalkatrész Felujitó és Kereskedõ Kft.</mezo>
+<mezo id = "nev">SZINKRON JÃ¡rmÅ±alkatrÃ©sz FelujitÃ³ Ã©s KereskedÅ‘ Kft.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2800</mezo>
-<mezo id = "hely">Tatabánya, III. Széchenyi u. 18.</mezo>
+<mezo id = "hely">TatabÃ¡nya, III. SzÃ©chenyi u. 18.</mezo>
 </alrovat>
 <alrovat id = "68">
 <mezo id = "hattol">19980601</mezo>
 <mezo id = "cgjsz">114000063</mezo>
-<mezo id = "nev">Állami Közúti Mûszaki és Információs Kht.</mezo>
+<mezo id = "nev">Ãllami KÃ¶zÃºti MÅ±szaki Ã©s InformÃ¡ciÃ³s Kht.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1024</mezo>
-<mezo id = "hely">Budapest, Fényes Elek u. 7-13.</mezo>
+<mezo id = "hely">Budapest, FÃ©nyes Elek u. 7-13.</mezo>
 </alrovat>
 <alrovat id = "69">
 <mezo id = "hattol">19980601</mezo>
 <mezo id = "cgjsz">1109000977</mezo>
-<mezo id = "nev">&quot;SZINKRON&quot; Jármûalkatrész Felújító és Kereskedõ Kft.</mezo>
+<mezo id = "nev">&quot;SZINKRON&quot; JÃ¡rmÅ±alkatrÃ©sz FelÃºjÃ­tÃ³ Ã©s KereskedÅ‘ Kft.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2800</mezo>
-<mezo id = "hely">Tatabánya III. Széchenyi u. 18.</mezo>
+<mezo id = "hely">TatabÃ¡nya III. SzÃ©chenyi u. 18.</mezo>
 </alrovat>
 <alrovat id = "70">
 <mezo id = "hattol">19980601</mezo>
 <mezo id = "cgjsz">109072703</mezo>
-<mezo id = "nev">HIDROPRESS Hidraulikajavító és Kereskedelmi Kft.</mezo>
+<mezo id = "nev">HIDROPRESS HidraulikajavÃ­tÃ³ Ã©s Kereskedelmi Kft.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1095</mezo>
-<mezo id = "hely">Budapest, Soroksári út 150.</mezo>
+<mezo id = "hely">Budapest, SoroksÃ¡ri Ãºt 150.</mezo>
 </alrovat>
 <alrovat id = "71">
 <mezo id = "hattol">19980601</mezo>
 <mezo id = "cgjsz">110043855</mezo>
-<mezo id = "nev">HOLOFON 95 Mûanyag újrahasznosító, Alapanyaggyártó és Forgalmazó Rt.</mezo>
+<mezo id = "nev">HOLOFON 95 MÅ±anyag ÃºjrahasznosÃ­tÃ³, AlapanyaggyÃ¡rtÃ³ Ã©s ForgalmazÃ³ Rt.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">2086</mezo>
-<mezo id = "hely">Tinnye, Perbáli u. 2.</mezo>
+<mezo id = "hely">Tinnye, PerbÃ¡li u. 2.</mezo>
 </alrovat>
 </rovat>
 <rovat id = "93">
@@ -231,80 +231,80 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Cégbíróság a rendelkezésére álló adatok<ujsor/>
-alapján megállapítja, hogy a cég székhelyén,<ujsor/>
-telephelyén, fióktelepén nem található,<ujsor/>
-és a cég képviseletére jogosult<ujsor/>
-személyek lakóhelye, tartózkodási helye is ismeretlen,<ujsor/>
-illetve a cég képviseletére jogosult lakóhelye<ujsor/>
-ismeretlennek minõsül, mivel a lakóhelye külföldön van és<ujsor/>
-nincs a Cégjegyzékbe bejegyzett kézbesítési megbízottja.<ujsor/>
-Ezért a bíróság a 2006. évi V. tv. 89. § (1) bek.<ujsor/>
-alapján felhívja a cég tagjait (részvényeseit),<ujsor/>
-hogy a cég törvényes<ujsor/>
-mûködéséhez szükséges intézkedéseket 60 (hatvan) napon<ujsor/>
-belül tegyék meg. A törvényes mûködés helyreállítása<ujsor/>
-érdekében a tagok (részvényesek)<ujsor/>
-a cég legfõbb szervének összehívására is jogosultak.<ujsor/>
-A felhívás eredménytelensége esetén a bíróság<ujsor/>
-a 2006. évi V. tv. 90. § (1) bek. alapján az<ujsor/>
-ismeretlen székhelyû cég megszüntetésére<ujsor/>
-irányuló eljárást megindítja.<ujsor/>
+<mezo id = "szoveg">A CÃ©gbÃ­rÃ³sÃ¡g a rendelkezÃ©sÃ©re Ã¡llÃ³ adatok<ujsor/>
+alapjÃ¡n megÃ¡llapÃ­tja, hogy a cÃ©g szÃ©khelyÃ©n,<ujsor/>
+telephelyÃ©n, fiÃ³ktelepÃ©n nem talÃ¡lhatÃ³,<ujsor/>
+Ã©s a cÃ©g kÃ©pviseletÃ©re jogosult<ujsor/>
+szemÃ©lyek lakÃ³helye, tartÃ³zkodÃ¡si helye is ismeretlen,<ujsor/>
+illetve a cÃ©g kÃ©pviseletÃ©re jogosult lakÃ³helye<ujsor/>
+ismeretlennek minÅ‘sÃ¼l, mivel a lakÃ³helye kÃ¼lfÃ¶ldÃ¶n van Ã©s<ujsor/>
+nincs a CÃ©gjegyzÃ©kbe bejegyzett kÃ©zbesÃ­tÃ©si megbÃ­zottja.<ujsor/>
+EzÃ©rt a bÃ­rÃ³sÃ¡g a 2006. Ã©vi V. tv. 89. Â§ (1) bek.<ujsor/>
+alapjÃ¡n felhÃ­vja a cÃ©g tagjait (rÃ©szvÃ©nyeseit),<ujsor/>
+hogy a cÃ©g tÃ¶rvÃ©nyes<ujsor/>
+mÅ±kÃ¶dÃ©sÃ©hez szÃ¼ksÃ©ges intÃ©zkedÃ©seket 60 (hatvan) napon<ujsor/>
+belÃ¼l tegyÃ©k meg. A tÃ¶rvÃ©nyes mÅ±kÃ¶dÃ©s helyreÃ¡llÃ­tÃ¡sa<ujsor/>
+Ã©rdekÃ©ben a tagok (rÃ©szvÃ©nyesek)<ujsor/>
+a cÃ©g legfÅ‘bb szervÃ©nek Ã¶sszehÃ­vÃ¡sÃ¡ra is jogosultak.<ujsor/>
+A felhÃ­vÃ¡s eredmÃ©nytelensÃ©ge esetÃ©n a bÃ­rÃ³sÃ¡g<ujsor/>
+a 2006. Ã©vi V. tv. 90. Â§ (1) bek. alapjÃ¡n az<ujsor/>
+ismeretlen szÃ©khelyÅ± cÃ©g megszÃ¼ntetÃ©sÃ©re<ujsor/>
+irÃ¡nyulÃ³ eljÃ¡rÃ¡st megindÃ­tja.<ujsor/>
 2009. 02. 09.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0107090048</mezo>
-<mezo id = "nev">KÖZLEKEDÉSI, HÍRKÖZLÉSI ÉS ÉPÍTÉSÜGYI KORRÓZIÓVÉDELMI ÉS KÖRNYEZETVÉDELMI EGYESÜLÉS</mezo>
-<mezo id = "cim">1138 Budapest, Róbert K. krt. 22. II. 35.</mezo>
+<mezo id = "nev">KÃ–ZLEKEDÃ‰SI, HÃRKÃ–ZLÃ‰SI Ã‰S Ã‰PÃTÃ‰SÃœGYI KORRÃ“ZIÃ“VÃ‰DELMI Ã‰S KÃ–RNYEZETVÃ‰DELMI EGYESÃœLÃ‰S</mezo>
+<mezo id = "cim">1138 Budapest, RÃ³bert K. krt. 22. II. 35.</mezo>
 <mezo id = "adosz">10302011201</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság az ismeretlen székhelyû cég megszüntetésére irányuló eljárást m e g i n d í t j a .<ujsor/>
-Felhívja a bíróság azokat, akiknek a cég székhelyére, mûködésére - ideértve azt az esetet is, ha a cég ellen per van folyamatban - illetve a képviselõ lakóhelyére vonatkozó adatról tudomásuk van, azt ezen végzésnek a Cégközlönyben való közzétételtõl számított 30 (harminc) napon belül jelentsék be a Cégbíróságnak.<ujsor/>
-A bíróság felhívja a cég hitelezõit és az egyéb érdekelteket, hogy a cég általuk ismert ingó és ingatlan vagyonára vonatkozó adatokat - hitelezõk esetében hitelezõi igényüket is megjelölve - 30 napon belül jelentsék be a Cégbíróságnak.<ujsor/>
-A bíróság a 2006. évi V. tv. 90. § (1) bekezdés alapján hozta meg a végzését.<ujsor/>
-A végzés ellen fellebbezésnek nincs helye. (2006. évi V. tv. 72. § (2) bekezdés, Pp. 233. § (3) bekezdés b./ pont.)<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g az ismeretlen szÃ©khelyÅ± cÃ©g megszÃ¼ntetÃ©sÃ©re irÃ¡nyulÃ³ eljÃ¡rÃ¡st m e g i n d Ã­ t j a .<ujsor/>
+FelhÃ­vja a bÃ­rÃ³sÃ¡g azokat, akiknek a cÃ©g szÃ©khelyÃ©re, mÅ±kÃ¶dÃ©sÃ©re - ideÃ©rtve azt az esetet is, ha a cÃ©g ellen per van folyamatban - illetve a kÃ©pviselÅ‘ lakÃ³helyÃ©re vonatkozÃ³ adatrÃ³l tudomÃ¡suk van, azt ezen vÃ©gzÃ©snek a CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©teltÅ‘l szÃ¡mÃ­tott 30 (harminc) napon belÃ¼l jelentsÃ©k be a CÃ©gbÃ­rÃ³sÃ¡gnak.<ujsor/>
+A bÃ­rÃ³sÃ¡g felhÃ­vja a cÃ©g hitelezÅ‘it Ã©s az egyÃ©b Ã©rdekelteket, hogy a cÃ©g Ã¡ltaluk ismert ingÃ³ Ã©s ingatlan vagyonÃ¡ra vonatkozÃ³ adatokat - hitelezÅ‘k esetÃ©ben hitelezÅ‘i igÃ©nyÃ¼ket is megjelÃ¶lve - 30 napon belÃ¼l jelentsÃ©k be a CÃ©gbÃ­rÃ³sÃ¡gnak.<ujsor/>
+A bÃ­rÃ³sÃ¡g a 2006. Ã©vi V. tv. 90. Â§ (1) bekezdÃ©s alapjÃ¡n hozta meg a vÃ©gzÃ©sÃ©t.<ujsor/>
+A vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye. (2006. Ã©vi V. tv. 72. Â§ (2) bekezdÃ©s, Pp. 233. Â§ (3) bekezdÃ©s b./ pont.)<ujsor/>
 2009. szeptember 7.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0107090048</mezo>
-<mezo id = "nev">KöZLEKEDÉSI, HIRKöZLÉSI ÉS ÉPITÉSüGYI KORRÓZIÓVÉDELMI ÉS KöRNYEZETVÉDELMI EGYESüLÉS</mezo>
-<mezo id = "cim">1138 Budapest, Róbert K. krt. 22. II. 35</mezo>
+<mezo id = "nev">KÃ¶ZLEKEDÃ‰SI, HIRKÃ¶ZLÃ‰SI Ã‰S Ã‰PITÃ‰SÃ¼GYI KORRÃ“ZIÃ“VÃ‰DELMI Ã‰S KÃ¶RNYEZETVÃ‰DELMI EGYESÃ¼LÃ‰S</mezo>
+<mezo id = "cim">1138 Budapest, RÃ³bert K. krt. 22. II. 35</mezo>
 <mezo id = "adosz">10302011201</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság az ismeretlen székhelyû cég törlését elrendeli.<ujsor/>
-A végzés ellen a Cégközlönyben való megjelenéstõl számított 15 (tizenöt) napon belül fellebbezésnek van helye a Fõvárosi Ïtélõtáblához. A fellebbezést a Fõvárosi Bírósághoz, mint Cégbírósághoz kell benyújtani 7.000.-Ft (hétezer forint) fellebbezési illeték leróvása mellett. A Fõvárosi Ïtélõtábla elõtti eljárásban a fellebbezõ fél részére a jogi képviselet kötelezõ.<ujsor/>
-2010. február 9.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g az ismeretlen szÃ©khelyÅ± cÃ©g tÃ¶rlÃ©sÃ©t elrendeli.<ujsor/>
+A vÃ©gzÃ©s ellen a CÃ©gkÃ¶zlÃ¶nyben valÃ³ megjelenÃ©stÅ‘l szÃ¡mÃ­tott 15 (tizenÃ¶t) napon belÃ¼l fellebbezÃ©snek van helye a FÅ‘vÃ¡rosi ÄtÃ©lÅ‘tÃ¡blÃ¡hoz. A fellebbezÃ©st a FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡ghoz, mint CÃ©gbÃ­rÃ³sÃ¡ghoz kell benyÃºjtani 7.000.-Ft (hÃ©tezer forint) fellebbezÃ©si illetÃ©k lerÃ³vÃ¡sa mellett. A FÅ‘vÃ¡rosi ÄtÃ©lÅ‘tÃ¡bla elÅ‘tti eljÃ¡rÃ¡sban a fellebbezÅ‘ fÃ©l rÃ©szÃ©re a jogi kÃ©pviselet kÃ¶telezÅ‘.<ujsor/>
+2010. februÃ¡r 9.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0107090048</mezo>
-<mezo id = "nev">KöZLEKEDÉSI, HIRKöZLÉSI ÉS ÉPITÉSüGYI KORRÓZIÓVÉDELMI ÉS KöRNYEZETVÉDELMI EGYESüLÉS</mezo>
-<mezo id = "cim">1138 Budapest, Róbert K. krt. 22. II. 35</mezo>
+<mezo id = "nev">KÃ¶ZLEKEDÃ‰SI, HIRKÃ¶ZLÃ‰SI Ã‰S Ã‰PITÃ‰SÃ¼GYI KORRÃ“ZIÃ“VÃ‰DELMI Ã‰S KÃ¶RNYEZETVÃ‰DELMI EGYESÃ¼LÃ‰S</mezo>
+<mezo id = "cim">1138 Budapest, RÃ³bert K. krt. 22. II. 35</mezo>
 <mezo id = "adosz">10302011201</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A bíróság az ismeretlen székhelyû cég törlését elrendeli.<ujsor/>
-A végzés ellen a Cégközlönyben való megjelenéstõl számított 15 (tizenöt) napon belül fellebbezésnek van helye a Fõvárosi Ïtélõtáblához. A fellebbezést a Fõvárosi Bírósághoz, mint Cégbírósághoz kell benyújtani 7.000.-Ft (hétezer forint) fellebbezési illeték leróvása mellett. A Fõvárosi Ïtélõtábla elõtti eljárásban a fellebbezõ fél részére a jogi képviselet kötelezõ.<ujsor/>
-2010. február 9.<ujsor/>
+<mezo id = "szoveg">A bÃ­rÃ³sÃ¡g az ismeretlen szÃ©khelyÅ± cÃ©g tÃ¶rlÃ©sÃ©t elrendeli.<ujsor/>
+A vÃ©gzÃ©s ellen a CÃ©gkÃ¶zlÃ¶nyben valÃ³ megjelenÃ©stÅ‘l szÃ¡mÃ­tott 15 (tizenÃ¶t) napon belÃ¼l fellebbezÃ©snek van helye a FÅ‘vÃ¡rosi ÄtÃ©lÅ‘tÃ¡blÃ¡hoz. A fellebbezÃ©st a FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡ghoz, mint CÃ©gbÃ­rÃ³sÃ¡ghoz kell benyÃºjtani 7.000.-Ft (hÃ©tezer forint) fellebbezÃ©si illetÃ©k lerÃ³vÃ¡sa mellett. A FÅ‘vÃ¡rosi ÄtÃ©lÅ‘tÃ¡bla elÅ‘tti eljÃ¡rÃ¡sban a fellebbezÅ‘ fÃ©l rÃ©szÃ©re a jogi kÃ©pviselet kÃ¶telezÅ‘.<ujsor/>
+2010. februÃ¡r 9.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0107090048</mezo>
-<mezo id = "nev">KöZLEKEDÉSI, HIRKöZLÉSI ÉS ÉPITÉSüGYI KORRÓZIÓVÉDELMI ÉS KöRNYEZETVÉDELMI EGYESüLÉS</mezo>
-<mezo id = "cim">1138 Budapest, Róbert K. krt. 22. II. 35</mezo>
+<mezo id = "nev">KÃ¶ZLEKEDÃ‰SI, HIRKÃ¶ZLÃ‰SI Ã‰S Ã‰PITÃ‰SÃ¼GYI KORRÃ“ZIÃ“VÃ‰DELMI Ã‰S KÃ¶RNYEZETVÃ‰DELMI EGYESÃ¼LÃ‰S</mezo>
+<mezo id = "cim">1138 Budapest, RÃ³bert K. krt. 22. II. 35</mezo>
 <mezo id = "adosz">10302011201</mezo>
 </alrovat>
 <alrovat id = "4">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság megállapítja, hogy a(z) KöZLEKEDÉSI, HIRKöZLÉSI ÉS ÉPITÉSüGYI KORRÓZIÓVÉDELMI ÉS KöRNYEZETVÉDELMI EGYESüLÉS nevû (1138 Budapest, Róbert K. krt. 22. II. 35; adószáma: 10302011-2-01) Cg.01-07-090048 cégjegyzékszámon nyilvántartásba vett cég Cg.01-07-090048/29 számú, a Cégközlöny 2010.03.04-i számában megjelent hivatalbóli törlést elrendelõ végzése 2010. március 20. napján jogerõre emelkedett.<ujsor/>
-2010. május 11.<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g megÃ¡llapÃ­tja, hogy a(z) KÃ¶ZLEKEDÃ‰SI, HIRKÃ¶ZLÃ‰SI Ã‰S Ã‰PITÃ‰SÃ¼GYI KORRÃ“ZIÃ“VÃ‰DELMI Ã‰S KÃ¶RNYEZETVÃ‰DELMI EGYESÃ¼LÃ‰S nevÅ± (1138 Budapest, RÃ³bert K. krt. 22. II. 35; adÃ³szÃ¡ma: 10302011-2-01) Cg.01-07-090048 cÃ©gjegyzÃ©kszÃ¡mon nyilvÃ¡ntartÃ¡sba vett cÃ©g Cg.01-07-090048/29 szÃ¡mÃº, a CÃ©gkÃ¶zlÃ¶ny 2010.03.04-i szÃ¡mÃ¡ban megjelent hivatalbÃ³li tÃ¶rlÃ©st elrendelÅ‘ vÃ©gzÃ©se 2010. mÃ¡rcius 20. napjÃ¡n jogerÅ‘re emelkedett.<ujsor/>
+2010. mÃ¡jus 11.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0107090048</mezo>
-<mezo id = "nev">KöZLEKEDÉSI, HIRKöZLÉSI ÉS ÉPITÉSüGYI KORRÓZIÓVÉDELMI ÉS KöRNYEZETVÉDELMI EGYESüLÉS</mezo>
-<mezo id = "cim">1138 Budapest, Róbert K. krt. 22. II. 35</mezo>
+<mezo id = "nev">KÃ¶ZLEKEDÃ‰SI, HIRKÃ¶ZLÃ‰SI Ã‰S Ã‰PITÃ‰SÃ¼GYI KORRÃ“ZIÃ“VÃ‰DELMI Ã‰S KÃ¶RNYEZETVÃ‰DELMI EGYESÃ¼LÃ‰S</mezo>
+<mezo id = "cim">1138 Budapest, RÃ³bert K. krt. 22. II. 35</mezo>
 <mezo id = "adosz">10302011201</mezo>
 </alrovat>
 </rovat>

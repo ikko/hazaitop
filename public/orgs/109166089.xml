@@ -5,7 +5,7 @@
 <mezo id = "cf">09</mezo>
 <mezo id = "szam">166089</mezo>
 <mezo id = "nevalrovat">1</mezo>
-<mezo id = "cim">1117 Budapest, Hauszmann Alajos utca 4. C. ép. 2. em. 202. </mezo>
+<mezo id = "cim">1117 Budapest, Hauszmann Alajos utca 4. C. Ã©p. 2. em. 202. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">10754700243</mezo>
 </alrovat>
@@ -13,7 +13,7 @@
 <rovat id = "2">
 <alrovat id = "1">
 <mezo id = "hattol">19920227</mezo>
-<mezo id = "nev">Agrochimtranspack mezõgazdasági és vegyitermékeket szállitó, átrakó, tároló, csomagoló, értékesitõ és szolgáltató korlátolt felelõsségû társaság</mezo>
+<mezo id = "nev">Agrochimtranspack mezÅ‘gazdasÃ¡gi Ã©s vegyitermÃ©keket szÃ¡llitÃ³, Ã¡trakÃ³, tÃ¡rolÃ³, csomagolÃ³, Ã©rtÃ©kesitÅ‘ Ã©s szolgÃ¡ltatÃ³ korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -25,15 +25,15 @@
 <rovat id = "4">
 <alrovat id = "1">
 <mezo id = "hattol">19920227</mezo>
-<mezo id = "nev">orosz nyelven röviden: Agrochimtranspack OOO</mezo>
+<mezo id = "nev">orosz nyelven rÃ¶viden: Agrochimtranspack OOO</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">19920227</mezo>
-<mezo id = "nev">angol nyelven röviden: Agrochimtranspack Ltd.</mezo>
+<mezo id = "nev">angol nyelven rÃ¶viden: Agrochimtranspack Ltd.</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">19920227</mezo>
-<mezo id = "nev">német nyelven röviden: Agrochimtranspack GmbH</mezo>
+<mezo id = "nev">nÃ©met nyelven rÃ¶viden: Agrochimtranspack GmbH</mezo>
 </alrovat>
 </rovat>
 <rovat id = "5">
@@ -41,7 +41,7 @@
 <mezo id = "hattol">20080515</mezo>
 <mezo id = "irsz">1117</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Hauszmann Alajos utca 4. C. ép. 2. em. 202.</mezo>
+<mezo id = "teru">Hauszmann Alajos utca 4. C. Ã©p. 2. em. 202.</mezo>
 <mezo id = "kirsz">0</mezo>
 <mezo id = "valtk">20080515</mezo>
 <mezo id = "valtv">0</mezo>
@@ -53,7 +53,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">19920227</mezo>
 <mezo id = "irsz">4623</mezo>
-<mezo id = "hely">Tuzsér (Záhony)</mezo>
+<mezo id = "hely">TuzsÃ©r (ZÃ¡hony)</mezo>
 </alrovat>
 </rovat>
 <rovat id = "8">
@@ -300,12 +300,12 @@
 <rovat id = "13">
 <alrovat id = "10">
 <mezo id = "hattol">20090508</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
-<mezo id = "pnev">Kövesdi Péter</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
+<mezo id = "pnev">KÃ¶vesdi PÃ©ter</mezo>
 <mezo id = "panev">Cseke Olga</mezo>
 <mezo id = "pirsz">4625</mezo>
-<mezo id = "phely">Záhony</mezo>
-<mezo id = "pteru">Platán utca 19.</mezo>
+<mezo id = "phely">ZÃ¡hony</mezo>
+<mezo id = "pteru">PlatÃ¡n utca 19.</mezo>
 <mezo id = "kepvo">x</mezo>
 <mezo id = "jogvk">20090601</mezo>
 <mezo id = "jogvv">20120531</mezo>
@@ -314,7 +314,7 @@
 </alrovat>
 <alrovat id = "11">
 <mezo id = "hattol">20090508</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (ügyvezetõ)</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (Ã¼gyvezetÅ‘)</mezo>
 <mezo id = "pnev">Liszin Vladimir Fedorovics</mezo>
 <mezo id = "panev">Zsitnyikova Ljubova Petrovna</mezo>
 <mezo id = "pirsz">1222</mezo>
@@ -330,11 +330,11 @@
 <rovat id = "14">
 <alrovat id = "7">
 <mezo id = "hattol">20090508</mezo>
-<mezo id = "pnev">Szép Tamás egyéni vállalkozó</mezo>
-<mezo id = "panev">Tóth Sarolta</mezo>
+<mezo id = "pnev">SzÃ©p TamÃ¡s egyÃ©ni vÃ¡llalkozÃ³</mezo>
+<mezo id = "panev">TÃ³th Sarolta</mezo>
 <mezo id = "pirsz">1026</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Branyiszkó utca 13/a.</mezo>
+<mezo id = "pteru">BranyiszkÃ³ utca 13/a.</mezo>
 <mezo id = "jogvk">20090601</mezo>
 <mezo id = "jogvv">20100531</mezo>
 <mezo id = "valtk">20090508</mezo>
@@ -344,10 +344,10 @@
 <rovat id = "15">
 <alrovat id = "18">
 <mezo id = "hattol">20060517</mezo>
-<mezo id = "pnev">Rákóczi András</mezo>
+<mezo id = "pnev">RÃ¡kÃ³czi AndrÃ¡s</mezo>
 <mezo id = "panev">Balogh Anna</mezo>
 <mezo id = "pirsz">4600</mezo>
-<mezo id = "phely">Kisvárda, József A . u. 29.</mezo>
+<mezo id = "phely">KisvÃ¡rda, JÃ³zsef A . u. 29.</mezo>
 <mezo id = "jogvk">20060601</mezo>
 <mezo id = "jogvv">20110531</mezo>
 <mezo id = "valtk">0</mezo>
@@ -360,10 +360,10 @@
 <mezo id = "pkorsz">RU</mezo>
 <mezo id = "pkirsz">129343</mezo>
 <mezo id = "pkhely">Moszkva 652, Beringov projezd 3. kv. 652.</mezo>
-<mezo id = "pmneve">dr. Szabó Lajos</mezo>
-<mezo id = "pmanev">Bujdosó Irma</mezo>
+<mezo id = "pmneve">dr. SzabÃ³ Lajos</mezo>
+<mezo id = "pmanev">BujdosÃ³ Irma</mezo>
 <mezo id = "pmirsz">1142</mezo>
-<mezo id = "pmhely">Budapest, Kassai tér 12.</mezo>
+<mezo id = "pmhely">Budapest, Kassai tÃ©r 12.</mezo>
 <mezo id = "jogvk">20060601</mezo>
 <mezo id = "jogvv">20110531</mezo>
 <mezo id = "valtk">0</mezo>
@@ -371,10 +371,10 @@
 </alrovat>
 <alrovat id = "21">
 <mezo id = "hattol">20060517</mezo>
-<mezo id = "pnev">Vernes András</mezo>
-<mezo id = "panev">Ledinger Anikó</mezo>
+<mezo id = "pnev">Vernes AndrÃ¡s</mezo>
+<mezo id = "panev">Ledinger AnikÃ³</mezo>
 <mezo id = "pirsz">1031</mezo>
-<mezo id = "phely">Budapest, Aranyalma út 1/ A .</mezo>
+<mezo id = "phely">Budapest, Aranyalma Ãºt 1/ A .</mezo>
 <mezo id = "jogvk">20060601</mezo>
 <mezo id = "jogvv">20110531</mezo>
 <mezo id = "valtk">0</mezo>
@@ -387,10 +387,10 @@
 <mezo id = "pkorsz">RU</mezo>
 <mezo id = "pkirsz">123100</mezo>
 <mezo id = "pkhely">Moszkva, Smytovszkiy proezd , dom 16., I./ kv. 90.</mezo>
-<mezo id = "pmneve">dr. Szabó Lajos</mezo>
-<mezo id = "pmanev">Bujdosó Irma</mezo>
+<mezo id = "pmneve">dr. SzabÃ³ Lajos</mezo>
+<mezo id = "pmanev">BujdosÃ³ Irma</mezo>
 <mezo id = "pmirsz">1142</mezo>
-<mezo id = "pmhely">Budapest, Kassai tér 12.</mezo>
+<mezo id = "pmhely">Budapest, Kassai tÃ©r 12.</mezo>
 <mezo id = "jogvk">20080515</mezo>
 <mezo id = "jogvv">20110531</mezo>
 <mezo id = "valtk">20080515</mezo>
@@ -430,16 +430,16 @@
 <mezo id = "hely">Moszkva</mezo>
 <mezo id = "teru">B.Znamenskiy per.</mezo>
 <mezo id = "hsz">2.</mezo>
-<mezo id = "pmnev">dr. Szabó Lajos</mezo>
-<mezo id = "pmanev">Bujdosó Irma</mezo>
+<mezo id = "pmnev">dr. SzabÃ³ Lajos</mezo>
+<mezo id = "pmanev">BujdosÃ³ Irma</mezo>
 <mezo id = "pmirsz">1142</mezo>
-<mezo id = "pmhely">Budapest, Kassai tér 12.</mezo>
+<mezo id = "pmhely">Budapest, Kassai tÃ©r 12.</mezo>
 <mezo id = "tagsk">19970530</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20080515</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "knytsz">1027739228626</mezo>
-<mezo id = "knyh">Moszkvai Cégbíróság</mezo>
+<mezo id = "knyh">Moszkvai CÃ©gbÃ­rÃ³sÃ¡g</mezo>
 <mezo id = "bkelt">20080904</mezo>
 <mezo id = "tkelt">0</mezo>
 </alrovat>
@@ -449,27 +449,27 @@
 <mezo id = "orsz">RU</mezo>
 <mezo id = "hely">119992 Moszkva</mezo>
 <mezo id = "teru">B. Znamenskiy per.2.</mezo>
-<mezo id = "pmnev">dr. Szabó Lajos</mezo>
-<mezo id = "pmanev">Bujdosó Irma</mezo>
+<mezo id = "pmnev">dr. SzabÃ³ Lajos</mezo>
+<mezo id = "pmanev">BujdosÃ³ Irma</mezo>
 <mezo id = "pmirsz">1142</mezo>
-<mezo id = "pmhely">Budapest, Kassai tér 12.</mezo>
+<mezo id = "pmhely">Budapest, Kassai tÃ©r 12.</mezo>
 <mezo id = "tagsk">19970530</mezo>
 <mezo id = "tagsv">0</mezo>
 <mezo id = "valtk">20080515</mezo>
 <mezo id = "valtv">0</mezo>
 <mezo id = "knytsz">1027739100916</mezo>
-<mezo id = "knyh">Moszkvai Cégbíróság</mezo>
+<mezo id = "knyh">Moszkvai CÃ©gbÃ­rÃ³sÃ¡g</mezo>
 <mezo id = "bkelt">20080904</mezo>
 <mezo id = "tkelt">0</mezo>
 </alrovat>
 <alrovat id = "23">
 <mezo id = "hattol">20080515</mezo>
 <mezo id = "cgjsz">110045318</mezo>
-<mezo id = "nev">MÁV Cargo Árufuvarozási Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">MÃV Cargo ÃrufuvarozÃ¡si ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1133</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Váci</mezo>
+<mezo id = "teru">VÃ¡ci</mezo>
 <mezo id = "hsz">92.</mezo>
 <mezo id = "tagsk">20060224</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -481,10 +481,10 @@
 <alrovat id = "24">
 <mezo id = "hattol">20080905</mezo>
 <mezo id = "cgjsz">1509064155</mezo>
-<mezo id = "nev">&quot; KELET-TRANS 2000&quot; Fuvarozó és Kereskedelmi Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">&quot; KELET-TRANS 2000&quot; FuvarozÃ³ Ã©s Kereskedelmi KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "irsz">4625</mezo>
-<mezo id = "hely">Záhony</mezo>
-<mezo id = "teru">Széchenyi</mezo>
+<mezo id = "hely">ZÃ¡hony</mezo>
+<mezo id = "teru">SzÃ©chenyi</mezo>
 <mezo id = "hsz">5</mezo>
 <mezo id = "tagsk">20030619</mezo>
 <mezo id = "tagsv">0</mezo>
@@ -503,48 +503,48 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az AGROCHIMTRANSPACK Kft. (1065 Budapest, Hajós u. 39.) 1995. szeptember 15-én megtartott taggyûlésén egyhangú határozattal a társaság jelenlegi 446 000 000 Ft-os (négyszáznegyvenhatmillió forintos) törzstõkéjét 176 000 000 Ft-tal (egyszázhetvenhatmillió forinttal) 270 000 000 Ft-ra (kettõszázhetvenmillió forintra) leszállítja.<ujsor/>
-A társaság felhívja hitelezõit, hogy követeléseiket a hirdetmény utolsó közzétételtõl számított 3 hónapon belül jelentsék be.<ujsor/>
-(Elsõ közzététel.)<ujsor/>
+<mezo id = "szoveg">Az AGROCHIMTRANSPACK Kft. (1065 Budapest, HajÃ³s u. 39.) 1995. szeptember 15-Ã©n megtartott taggyÅ±lÃ©sÃ©n egyhangÃº hatÃ¡rozattal a tÃ¡rsasÃ¡g jelenlegi 446 000 000 Ft-os (nÃ©gyszÃ¡znegyvenhatmilliÃ³ forintos) tÃ¶rzstÅ‘kÃ©jÃ©t 176 000 000 Ft-tal (egyszÃ¡zhetvenhatmilliÃ³ forinttal) 270 000 000 Ft-ra (kettÅ‘szÃ¡zhetvenmilliÃ³ forintra) leszÃ¡llÃ­tja.<ujsor/>
+A tÃ¡rsasÃ¡g felhÃ­vja hitelezÅ‘it, hogy kÃ¶vetelÃ©seiket a hirdetmÃ©ny utolsÃ³ kÃ¶zzÃ©tÃ©teltÅ‘l szÃ¡mÃ­tott 3 hÃ³napon belÃ¼l jelentsÃ©k be.<ujsor/>
+(ElsÅ‘ kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109166089</mezo>
-<mezo id = "nev">Agrochimtranspack mezõgazdasági és vegyitermékeket szállitó, átrakó, tároló, csomagoló, értékesitõ és szolgáltató korlátolt felelõsségû társaság</mezo>
+<mezo id = "nev">Agrochimtranspack mezÅ‘gazdasÃ¡gi Ã©s vegyitermÃ©keket szÃ¡llitÃ³, Ã¡trakÃ³, tÃ¡rolÃ³, csomagolÃ³, Ã©rtÃ©kesitÅ‘ Ã©s szolgÃ¡ltatÃ³ korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "1">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">Az AGROCHIMTRANSPACK Kft. (1065 Budapest, Hajós u. 39.) 1995. szeptember 15-én megtartott taggyûlésén egyhangú határozattal a társaság jelenlegi 446 000 000 Ft-os (négyszáznegyvenhatmillió forintos) törzstõkéjét 176 000 000 Ft-tal (egyszázhetvenhatmillió forinttal) 270 000 000 Ft-ra (kettõszázhetvenmillió forintra) leszállítja.<ujsor/>
-A társaság felhívja hitelezõit, hogy követeléseiket a hirdetmény utolsó közzétételtõl számított 3 hónapon belül jelentsék be.<ujsor/>
-(Második közzététel.)<ujsor/>
+<mezo id = "szoveg">Az AGROCHIMTRANSPACK Kft. (1065 Budapest, HajÃ³s u. 39.) 1995. szeptember 15-Ã©n megtartott taggyÅ±lÃ©sÃ©n egyhangÃº hatÃ¡rozattal a tÃ¡rsasÃ¡g jelenlegi 446 000 000 Ft-os (nÃ©gyszÃ¡znegyvenhatmilliÃ³ forintos) tÃ¶rzstÅ‘kÃ©jÃ©t 176 000 000 Ft-tal (egyszÃ¡zhetvenhatmilliÃ³ forinttal) 270 000 000 Ft-ra (kettÅ‘szÃ¡zhetvenmilliÃ³ forintra) leszÃ¡llÃ­tja.<ujsor/>
+A tÃ¡rsasÃ¡g felhÃ­vja hitelezÅ‘it, hogy kÃ¶vetelÃ©seiket a hirdetmÃ©ny utolsÃ³ kÃ¶zzÃ©tÃ©teltÅ‘l szÃ¡mÃ­tott 3 hÃ³napon belÃ¼l jelentsÃ©k be.<ujsor/>
+(MÃ¡sodik kÃ¶zzÃ©tÃ©tel.)<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109166089</mezo>
-<mezo id = "nev">Agrochimtranspack mezõgazdasági és vegyitermékeket szállitó, átrakó, tároló, csomagoló, értékesitõ és szolgáltató korlátolt felelõsségû társaság</mezo>
+<mezo id = "nev">Agrochimtranspack mezÅ‘gazdasÃ¡gi Ã©s vegyitermÃ©keket szÃ¡llitÃ³, Ã¡trakÃ³, tÃ¡rolÃ³, csomagolÃ³, Ã©rtÃ©kesitÅ‘ Ã©s szolgÃ¡ltatÃ³ korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g</mezo>
 </alrovat>
 <alrovat id = "2">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A MÁV Cargo Árufuvarozási Zártkörûen Mûködõ Részvénytársaság (Cg.: [01 10 045318]; székhelye: 1062 Budapest, Andrássy út 73­75.) közzéteszi, hogy 2006. február 24-i hatállyal az Agrochimtranspack Kft.-ben (Cg.: [01 09 166089]; székhelye: 1113 Budapest, Bocskai út 21. III. 5.) mint ellenõrzött gazdasági társaságban a törzstõke 30%-át kitevõ részesedést, azaz jelentõs befolyást szerzett.<ujsor/>
+<mezo id = "szoveg">A MÃV Cargo ÃrufuvarozÃ¡si ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (Cg.: [01 10 045318]; szÃ©khelye: 1062 Budapest, AndrÃ¡ssy Ãºt 73Â­75.) kÃ¶zzÃ©teszi, hogy 2006. februÃ¡r 24-i hatÃ¡llyal az Agrochimtranspack Kft.-ben (Cg.: [01 09 166089]; szÃ©khelye: 1113 Budapest, Bocskai Ãºt 21. III. 5.) mint ellenÅ‘rzÃ¶tt gazdasÃ¡gi tÃ¡rsasÃ¡gban a tÃ¶rzstÅ‘ke 30%-Ã¡t kitevÅ‘ rÃ©szesedÃ©st, azaz jelentÅ‘s befolyÃ¡st szerzett.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109166089</mezo>
-<mezo id = "nev">Agrochimtranspack mezõgazdasági és vegyitermékeket szállitó, átrakó, tároló, csomagoló, értékesitõ és szolgáltató korlátolt felelõsségû társaság</mezo>
+<mezo id = "nev">Agrochimtranspack mezÅ‘gazdasÃ¡gi Ã©s vegyitermÃ©keket szÃ¡llitÃ³, Ã¡trakÃ³, tÃ¡rolÃ³, csomagolÃ³, Ã©rtÃ©kesitÅ‘ Ã©s szolgÃ¡ltatÃ³ korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g</mezo>
 <mezo id = "cim">1114 Budapest</mezo>
 </alrovat>
 <alrovat id = "3">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság a Cg.01-09-166089 cégjegyzékszámon bejegyzett Agrochimtranspack mezõgazdasági és vegyitermékeket szállitó, átrakó, tároló, csomagoló, értékesitõ és szolgáltató korlátolt felelõsségû társaság (1117 Budapest, Hauszmann Alajos utca 4. C. ép. 2. em. 202.; adószáma: 10754700-2-43) kérelme alapján elrendeli az 2003. február 6. napján hozott Cg.01-09-166089 /67 számú végzésének kijavítását az alábbiak szerint:<ujsor/>
-29. A bejegyzõ végzés hatályon kívül helyezése iránti per adatai<ujsor/>
-A végzés száma, amelynek hatályon kívül helyezése iránt per indult: Cg.01-09-166089/65<ujsor/>
-A perindítás dátuma: 2003.01.27.<ujsor/>
-A per ügyszáma: 22.G.41302/2002<ujsor/>
-Vált. vége: 2003.09.03.<ujsor/>
-Törölve (végzés kelte): 2009. december 2.<ujsor/>
-A végzés ellen a kézbesítéstõl számított 15 (tizenöt) napon belül a Fõvárosi Ítélõtáblához címzett, de a Fõvárosi Bíróságnál, mint Cégbíróságnál 3 (három) példányban benyújtható fellebbezésnek van helye. A fellebbezés elsõ példányára 7.000.-Ft (hétezer forint) eljárási illetéket kell leróni. A Fõvárosi Ítélõtábla elõtti eljárásban a fellebbezõ fél részére a jogi képviselet kötelezõ.<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.01-09-166089 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett Agrochimtranspack mezÅ‘gazdasÃ¡gi Ã©s vegyitermÃ©keket szÃ¡llitÃ³, Ã¡trakÃ³, tÃ¡rolÃ³, csomagolÃ³, Ã©rtÃ©kesitÅ‘ Ã©s szolgÃ¡ltatÃ³ korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g (1117 Budapest, Hauszmann Alajos utca 4. C. Ã©p. 2. em. 202.; adÃ³szÃ¡ma: 10754700-2-43) kÃ©relme alapjÃ¡n elrendeli az 2003. februÃ¡r 6. napjÃ¡n hozott Cg.01-09-166089 /67 szÃ¡mÃº vÃ©gzÃ©sÃ©nek kijavÃ­tÃ¡sÃ¡t az alÃ¡bbiak szerint:<ujsor/>
+29. A bejegyzÅ‘ vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nti per adatai<ujsor/>
+A vÃ©gzÃ©s szÃ¡ma, amelynek hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt per indult: Cg.01-09-166089/65<ujsor/>
+A perindÃ­tÃ¡s dÃ¡tuma: 2003.01.27.<ujsor/>
+A per Ã¼gyszÃ¡ma: 22.G.41302/2002<ujsor/>
+VÃ¡lt. vÃ©ge: 2003.09.03.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2009. december 2.<ujsor/>
+A vÃ©gzÃ©s ellen a kÃ©zbesÃ­tÃ©stÅ‘l szÃ¡mÃ­tott 15 (tizenÃ¶t) napon belÃ¼l a FÅ‘vÃ¡rosi ÃtÃ©lÅ‘tÃ¡blÃ¡hoz cÃ­mzett, de a FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡gnÃ¡l, mint CÃ©gbÃ­rÃ³sÃ¡gnÃ¡l 3 (hÃ¡rom) pÃ©ldÃ¡nyban benyÃºjthatÃ³ fellebbezÃ©snek van helye. A fellebbezÃ©s elsÅ‘ pÃ©ldÃ¡nyÃ¡ra 7.000.-Ft (hÃ©tezer forint) eljÃ¡rÃ¡si illetÃ©ket kell lerÃ³ni. A FÅ‘vÃ¡rosi ÃtÃ©lÅ‘tÃ¡bla elÅ‘tti eljÃ¡rÃ¡sban a fellebbezÅ‘ fÃ©l rÃ©szÃ©re a jogi kÃ©pviselet kÃ¶telezÅ‘.<ujsor/>
 2009. december 2.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0109166089</mezo>
-<mezo id = "nev">Agrochimtranspack mezõgazdasági és vegyitermékeket szállitó, átrakó, tároló, csomagoló, értékesitõ és szolgáltató korlátolt felelõsségû társaság</mezo>
-<mezo id = "cim">1117 Budapest, Hauszmann Alajos utca 4. C. ép. 2. em. 202.</mezo>
+<mezo id = "nev">Agrochimtranspack mezÅ‘gazdasÃ¡gi Ã©s vegyitermÃ©keket szÃ¡llitÃ³, Ã¡trakÃ³, tÃ¡rolÃ³, csomagolÃ³, Ã©rtÃ©kesitÅ‘ Ã©s szolgÃ¡ltatÃ³ korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1117 Budapest, Hauszmann Alajos utca 4. C. Ã©p. 2. em. 202.</mezo>
 <mezo id = "adosz">10754700243</mezo>
 </alrovat>
 </rovat>

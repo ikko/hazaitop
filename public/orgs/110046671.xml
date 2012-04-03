@@ -6,7 +6,7 @@
 <mezo id = "szam">046671</mezo>
 <mezo id = "nevalrovat">2</mezo>
 <mezo id = "regi_szh">0910000033</mezo>
-<mezo id = "cim">1033 Budapest, Kórház utca 6-12. </mezo>
+<mezo id = "cim">1033 Budapest, KÃ³rhÃ¡z utca 6-12. </mezo>
 <mezo id = "plus">10</mezo>
 <mezo id = "adosz">10561070244</mezo>
 </alrovat>
@@ -14,7 +14,7 @@
 <rovat id = "2">
 <alrovat id = "2">
 <mezo id = "hattol">20060418</mezo>
-<mezo id = "nev">Debreceni Magas, Mély és Útépítõ Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">Debreceni Magas, MÃ©ly Ã©s ÃštÃ©pÃ­tÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 </alrovat>
 </rovat>
 <rovat id = "3">
@@ -28,7 +28,7 @@
 <mezo id = "hattol">20100415</mezo>
 <mezo id = "irsz">1033</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Kórház utca 6-12.</mezo>
+<mezo id = "teru">KÃ³rhÃ¡z utca 6-12.</mezo>
 <mezo id = "valtk">20100415</mezo>
 <mezo id = "bkelt">20100617</mezo>
 </alrovat>
@@ -37,13 +37,13 @@
 <alrovat id = "15">
 <mezo id = "hattol">20031007</mezo>
 <mezo id = "irsz">5650</mezo>
-<mezo id = "hely">Mezõberény, Mezõberény keverõtelep 0380/8. hrsz.</mezo>
+<mezo id = "hely">MezÅ‘berÃ©ny, MezÅ‘berÃ©ny keverÅ‘telep 0380/8. hrsz.</mezo>
 </alrovat>
 <alrovat id = "19">
 <mezo id = "hattol">20110316</mezo>
 <mezo id = "irsz">4200</mezo>
-<mezo id = "hely">Hajdúszoboszló</mezo>
-<mezo id = "teru">Hõforrás utca 30.</mezo>
+<mezo id = "hely">HajdÃºszoboszlÃ³</mezo>
+<mezo id = "teru">HÅ‘forrÃ¡s utca 30.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20110316</mezo>
 <mezo id = "bkelt">20110419</mezo>
@@ -51,8 +51,8 @@
 <alrovat id = "20">
 <mezo id = "hattol">20110316</mezo>
 <mezo id = "irsz">3323</mezo>
-<mezo id = "hely">Szarvaskõ</mezo>
-<mezo id = "teru">Rózsa utca 17.</mezo>
+<mezo id = "hely">SzarvaskÅ‘</mezo>
+<mezo id = "teru">RÃ³zsa utca 17.</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "valtk">20110316</mezo>
 <mezo id = "bkelt">20110419</mezo>
@@ -844,7 +844,7 @@
 <rovat id = "13">
 <alrovat id = "141">
 <mezo id = "hattol">20100625</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
 <mezo id = "pnev">Gali Tibor</mezo>
 <mezo id = "panev">Dombi Ilona</mezo>
 <mezo id = "kepve">x</mezo>
@@ -855,12 +855,12 @@
 </alrovat>
 <alrovat id = "143">
 <mezo id = "hattol">20110401</mezo>
-<mezo id = "tiszt">más munkavállaló</mezo>
-<mezo id = "pnev">Molnár Csaba</mezo>
+<mezo id = "tiszt">mÃ¡s munkavÃ¡llalÃ³</mezo>
+<mezo id = "pnev">MolnÃ¡r Csaba</mezo>
 <mezo id = "panev">Semperger Zsuzsanna</mezo>
 <mezo id = "pirsz">2365</mezo>
-<mezo id = "phely">Inárcs</mezo>
-<mezo id = "pteru">Napsugár utca 17.</mezo>
+<mezo id = "phely">InÃ¡rcs</mezo>
+<mezo id = "pteru">NapsugÃ¡r utca 17.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20110401</mezo>
 <mezo id = "valtk">20110401</mezo>
@@ -869,12 +869,12 @@
 </alrovat>
 <alrovat id = "145">
 <mezo id = "hattol">20110815</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Benoít Philippe Marie Clément de Givry</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">BenoÃ­t Philippe Marie ClÃ©ment de Givry</mezo>
 <mezo id = "panev">Marie-Chantal Thellier</mezo>
 <mezo id = "pkorsz">FR</mezo>
 <mezo id = "pkirsz">78210</mezo>
-<mezo id = "pkhely">Saint-Cyr-l&apos;École</mezo>
+<mezo id = "pkhely">Saint-Cyr-l&apos;Ã‰cole</mezo>
 <mezo id = "pkteru">Mansart rue 10.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20110815</mezo>
@@ -885,12 +885,12 @@
 </alrovat>
 <alrovat id = "146">
 <mezo id = "hattol">20110815</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Sokorai István</mezo>
-<mezo id = "panev">Balázs Erzsébet</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">Sokorai IstvÃ¡n</mezo>
+<mezo id = "panev">BalÃ¡zs ErzsÃ©bet</mezo>
 <mezo id = "pirsz">1118</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Somlói u. 64. fszt. 2.</mezo>
+<mezo id = "pteru">SomlÃ³i u. 64. fszt. 2.</mezo>
 <mezo id = "kepve">x</mezo>
 <mezo id = "jogvk">20110815</mezo>
 <mezo id = "jogvv">20140531</mezo>
@@ -900,8 +900,8 @@
 </alrovat>
 <alrovat id = "147">
 <mezo id = "hattol">20110815</mezo>
-<mezo id = "tiszt">vezetõ tisztségviselõ (igazgatósági tag)</mezo>
-<mezo id = "pnev">Körtvélyessy Géza</mezo>
+<mezo id = "tiszt">vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag)</mezo>
+<mezo id = "pnev">KÃ¶rtvÃ©lyessy GÃ©za</mezo>
 <mezo id = "panev">Radnai Kinga</mezo>
 <mezo id = "pirsz">1131</mezo>
 <mezo id = "phely">Budapest</mezo>
@@ -918,16 +918,16 @@
 <alrovat id = "14">
 <mezo id = "hattol">20110316</mezo>
 <mezo id = "cgjsz">0109078412</mezo>
-<mezo id = "nev">MAZARS Könyvszakértõ és Tanácsadói Korlátolt Felelõsségû Társaság</mezo>
+<mezo id = "nev">MAZARS KÃ¶nyvszakÃ©rtÅ‘ Ã©s TanÃ¡csadÃ³i KorlÃ¡tolt FelelÅ‘ssÃ©gÅ± TÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1074</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Rákóczi út 70-72.</mezo>
-<mezo id = "pnev">Bohus Zoltánné</mezo>
-<mezo id = "panev">Vörös Mária</mezo>
+<mezo id = "teru">RÃ¡kÃ³czi Ãºt 70-72.</mezo>
+<mezo id = "pnev">Bohus ZoltÃ¡nnÃ©</mezo>
+<mezo id = "panev">VÃ¶rÃ¶s MÃ¡ria</mezo>
 <mezo id = "pirsz">1149</mezo>
 <mezo id = "phely">Budapest</mezo>
-<mezo id = "pteru">Kövér Lajos utca 45-47.</mezo>
+<mezo id = "pteru">KÃ¶vÃ©r Lajos utca 45-47.</mezo>
 <mezo id = "jogvk">20110316</mezo>
 <mezo id = "jogvv">20120531</mezo>
 <mezo id = "valtk">20110316</mezo>
@@ -954,7 +954,7 @@
 <alrovat id = "1">
 <mezo id = "hattol">19901229</mezo>
 <mezo id = "cgjsz">901000017</mezo>
-<mezo id = "nev">Debreceni Közuti Épitõ Vállalat</mezo>
+<mezo id = "nev">Debreceni KÃ¶zuti Ã‰pitÅ‘ VÃ¡llalat</mezo>
 </alrovat>
 </rovat>
 <rovat id = "20">
@@ -977,18 +977,18 @@
 <mezo id = "adosz">10561070244</mezo>
 <mezo id = "kadosz">HU10561070</mezo>
 <mezo id = "bkelt">20110908</mezo>
-<mezo id = "megj">Státusz kezdete: 1991/01/01</mezo>
+<mezo id = "megj">StÃ¡tusz kezdete: 1991/01/01</mezo>
 </alrovat>
 </rovat>
 <rovat id = "0110">
 <alrovat id = "7">
 <mezo id = "hattol">20090815</mezo>
 <mezo id = "cgjsz">0110046401</mezo>
-<mezo id = "nev">COLAS-HUNGÁRIA Építõipari Zártkörûen Mûködõ Részvénytársaság</mezo>
+<mezo id = "nev">COLAS-HUNGÃRIA Ã‰pÃ­tÅ‘ipari ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
 <mezo id = "orsz">HU</mezo>
 <mezo id = "irsz">1033</mezo>
 <mezo id = "hely">Budapest</mezo>
-<mezo id = "teru">Kórház u. 6-12.</mezo>
+<mezo id = "teru">KÃ³rhÃ¡z u. 6-12.</mezo>
 <mezo id = "tagsk">20090630</mezo>
 <mezo id = "sz3">x</mezo>
 <mezo id = "valtk">20090815</mezo>
@@ -999,30 +999,30 @@
 <alrovat id = "0">
 <mezo id = "hattol">0</mezo>
 <mezo id = "hatig">0</mezo>
-<mezo id = "szoveg">A Fõvárosi Bíróság mint Cégbíróság a Cg.01-10-046671 cégjegyzékszámon bejegyzett Debreceni Magas, Mély és Útépítõ Zártkörûen Mûködõ Részvénytársaság (1033 Budapest, Kórház utca 6-12.; adószáma: 10561070-2-44) kérelme alapján elrendeli az 2011. szeptember 7. napján hozott Cg.01-10-046671 /20. számú végzésének kijavítását (kiegészítését) az alábbiak szerint:<ujsor/>
-13. A képviseletre jogosult(ak) adatai<ujsor/>
-A képviselet módja: együttes.<ujsor/>
-Együttes képviselet esetén ez a személy mindig aláíró.<ujsor/>
-Adóazonosító jel: 8375023035<ujsor/>
-Körtvélyessy Géza vezetõ tisztségviselõ (igazgatósági tag) (an.: Radnai Kinga)<ujsor/>
+<mezo id = "szoveg">A FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g mint CÃ©gbÃ­rÃ³sÃ¡g a Cg.01-10-046671 cÃ©gjegyzÃ©kszÃ¡mon bejegyzett Debreceni Magas, MÃ©ly Ã©s ÃštÃ©pÃ­tÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g (1033 Budapest, KÃ³rhÃ¡z utca 6-12.; adÃ³szÃ¡ma: 10561070-2-44) kÃ©relme alapjÃ¡n elrendeli az 2011. szeptember 7. napjÃ¡n hozott Cg.01-10-046671 /20. szÃ¡mÃº vÃ©gzÃ©sÃ©nek kijavÃ­tÃ¡sÃ¡t (kiegÃ©szÃ­tÃ©sÃ©t) az alÃ¡bbiak szerint:<ujsor/>
+13. A kÃ©pviseletre jogosult(ak) adatai<ujsor/>
+A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+EgyÃ¼ttes kÃ©pviselet esetÃ©n ez a szemÃ©ly mindig alÃ¡Ã­rÃ³.<ujsor/>
+AdÃ³azonosÃ­tÃ³ jel: 8375023035<ujsor/>
+KÃ¶rtvÃ©lyessy GÃ©za vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag) (an.: Radnai Kinga)<ujsor/>
 1131 Budapest, Unoka u. 64.<ujsor/>
-Jogv. kezdete: 2011.08.15. Jogv. vége: 2014.05.31.<ujsor/>
-Vált. vége: 2011.08.15.<ujsor/>
-Törölve (végzés kelte): 2011. szeptember 12.<ujsor/>
-A képviselet módja: együttes.<ujsor/>
-Adóazonosító jel: 8375023035<ujsor/>
-Körtvélyessy Géza vezetõ tisztségviselõ (igazgatósági tag) (an.: Radnai Kinga)<ujsor/>
+Jogv. kezdete: 2011.08.15. Jogv. vÃ©ge: 2014.05.31.<ujsor/>
+VÃ¡lt. vÃ©ge: 2011.08.15.<ujsor/>
+TÃ¶rÃ¶lve (vÃ©gzÃ©s kelte): 2011. szeptember 12.<ujsor/>
+A kÃ©pviselet mÃ³dja: egyÃ¼ttes.<ujsor/>
+AdÃ³azonosÃ­tÃ³ jel: 8375023035<ujsor/>
+KÃ¶rtvÃ©lyessy GÃ©za vezetÅ‘ tisztsÃ©gviselÅ‘ (igazgatÃ³sÃ¡gi tag) (an.: Radnai Kinga)<ujsor/>
 1131 Budapest, Unoka u. 64.<ujsor/>
-Jogv. kezdete: 2011.08.15. Jogv. vége: 2014.05.31.<ujsor/>
-Vált. kezdete: 2011.08.15.<ujsor/>
-Bejegyezve (végzés kelte): 2011. szeptember 12.<ujsor/>
-E végzés ellen fellebbezésnek nincs helye, azonban az ügyész, továbbá az, akire a végzés rendelkezést tartalmaz - a rendelkezés õt érintõ részére vonatkozóan - pert indíthat a cég ellen a cég székhelye szerint illetékes megyei bíróság elõtt a bejegyzõ végzés hatályon kívül helyezése iránt.<ujsor/>
-A per megindításának a bejegyzõ végzés Cégközlönyben való közzétételétõl, illetve - közzétételi kötelezettség hiányában - annak kézbesítésétõl számított 30 napon belül van helye. A határidõ elmulasztása jogvesztéssel jár.<ujsor/>
+Jogv. kezdete: 2011.08.15. Jogv. vÃ©ge: 2014.05.31.<ujsor/>
+VÃ¡lt. kezdete: 2011.08.15.<ujsor/>
+Bejegyezve (vÃ©gzÃ©s kelte): 2011. szeptember 12.<ujsor/>
+E vÃ©gzÃ©s ellen fellebbezÃ©snek nincs helye, azonban az Ã¼gyÃ©sz, tovÃ¡bbÃ¡ az, akire a vÃ©gzÃ©s rendelkezÃ©st tartalmaz - a rendelkezÃ©s Å‘t Ã©rintÅ‘ rÃ©szÃ©re vonatkozÃ³an - pert indÃ­that a cÃ©g ellen a cÃ©g szÃ©khelye szerint illetÃ©kes megyei bÃ­rÃ³sÃ¡g elÅ‘tt a bejegyzÅ‘ vÃ©gzÃ©s hatÃ¡lyon kÃ­vÃ¼l helyezÃ©se irÃ¡nt.<ujsor/>
+A per megindÃ­tÃ¡sÃ¡nak a bejegyzÅ‘ vÃ©gzÃ©s CÃ©gkÃ¶zlÃ¶nyben valÃ³ kÃ¶zzÃ©tÃ©telÃ©tÅ‘l, illetve - kÃ¶zzÃ©tÃ©teli kÃ¶telezettsÃ©g hiÃ¡nyÃ¡ban - annak kÃ©zbesÃ­tÃ©sÃ©tÅ‘l szÃ¡mÃ­tott 30 napon belÃ¼l van helye. A hatÃ¡ridÅ‘ elmulasztÃ¡sa jogvesztÃ©ssel jÃ¡r.<ujsor/>
 2011. szeptember 12.<ujsor/>
 </mezo>
 <mezo id = "cjsz">0110046671</mezo>
-<mezo id = "nev">Debreceni Magas, Mély és Útépítõ Zártkörûen Mûködõ Részvénytársaság</mezo>
-<mezo id = "cim">1033 Budapest, Kórház utca 6-12.</mezo>
+<mezo id = "nev">Debreceni Magas, MÃ©ly Ã©s ÃštÃ©pÃ­tÅ‘ ZÃ¡rtkÃ¶rÅ±en MÅ±kÃ¶dÅ‘ RÃ©szvÃ©nytÃ¡rsasÃ¡g</mezo>
+<mezo id = "cim">1033 Budapest, KÃ³rhÃ¡z utca 6-12.</mezo>
 <mezo id = "adosz">10561070244</mezo>
 </alrovat>
 </rovat>
