@@ -380,6 +380,10 @@ class SiteSearchController < ApplicationController
 
 
   def index
+    @info = []
+    if params[:information_source]
+      @info =  params[:information_source][:id].map do |i| i.match(/[0-9]+/).to_s.to_i end
+    end
     if params[:id] && params[:type]
       @id = params[:id].to_i
       @network = {:nodes=>[], :edges=>[]}
@@ -388,10 +392,6 @@ class SiteSearchController < ApplicationController
       @organizations = []
       @litigations = []
       @non_litigation_nodes = []
-      @info = []
-      if params[:information_source]
-        @info =  params[:information_source][:id].map do |i| i.match(/[0-9]+/).to_s.to_i end
-      end
       # ajax request
       # ilyenkor figyeljük hogy milyen node-ok vannak már az oldalon, és az új kigenerálandó node-ok között milyen kapcsolatok vannak
       if request.xhr?
