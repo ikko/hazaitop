@@ -60,6 +60,12 @@ class Contract < ActiveRecord::Base
     "http://www.kozbeszerzes.hu/lid/ertesito/pid/0/ertesitoHirdetmenyProperties?objectID=Hirdetmeny.portal_#{case_number.gsub('/','_')}"
   end
 
+  after_save do |r|
+    r.interorg_relations.each do |w|
+      w.update_attribute :value, r.contracted_value
+    end
+  end
+
   # --- Permissions --- #
 
   def create_permitted?

@@ -41,6 +41,10 @@ class Tender < ActiveRecord::Base
     attributes["name"].blank? ? "<dokumentáció>" : attributes["name"]
   end
 
+  after_save do |r|
+    r.interorg_relation.update_attribute :value, r.amount
+  end
+
   # --- Permissions --- #
 
   def create_permitted?
