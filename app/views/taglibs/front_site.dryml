@@ -164,7 +164,7 @@
       <strong><view:seller.name/></strong><br/>
       <strong><view:buyer.name/></strong><br/>
       ajánlattevők száma: <view:no_of_proposals/><br />
-      <a class="notification_url" href="&this.notification.url" target="_blank">forrás</a> | <a target="_blank"><view:notification/></a>
+      <a class="notification_url" href="&this.source_url" target="_blank">forrás</a> | <a target="_blank"><view:notification/></a>
     </body:>
   </card>
 </def>

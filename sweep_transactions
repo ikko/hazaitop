@@ -1,0 +1,5 @@
+rm /home/ahalo/hazaitop/public/cache/ahalo.hu/transactions.html
+rm /home/ahalo/hazaitop/public/cache/www.ahalo.hu/transactions.html
+rm -r /home/ahalo/hazaitop/public/cache/ahalo.hu/transactions/*
+rm -r /home/ahalo/hazaitop/public/cache/www.ahalo.hu/transactions/*
+
