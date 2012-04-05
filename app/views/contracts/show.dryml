@@ -12,6 +12,6 @@
   </field-list:>
   <append-content-body:>
     <%= this.cpvs.empty? ? "" : this.cpvs.*.to_s.join("<br/>") %> <br/><br/>
-    <strong>Source:</strong> <a href="&this.notification.url" target="_blank"><%= this.notification.url %></a><br />
+    <strong>Source:</strong> <a href="&this.source_url" target="_blank"><%= this.source_url %></a><br />
   </append-content-body:>
 </show-page>

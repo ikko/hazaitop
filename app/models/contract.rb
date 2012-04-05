@@ -29,6 +29,8 @@ class Contract < ActiveRecord::Base
 
   named_scope :info, lambda { |info_ids| info_ids.present? ? { :conditions => [ "information_source_id in (?)", info_ids ]} : {} }
 
+  attr_reader :source_url
+
   has_many :contract_type_rels
   has_many :contract_types, :through => :contract_type_rels
 
@@ -52,6 +54,10 @@ class Contract < ActiveRecord::Base
 
   def name 
     attributes["name"].blank? ? "<dokumentáció>" : attributes["name"]
+  end
+
+  def source_url
+    "http://www.kozbeszerzes.hu/lid/ertesito/pid/0/ertesitoHirdetmenyProperties?objectID=Hirdetmeny.portal_#{case_number.gsub('/','_')}"
   end
 
   # --- Permissions --- #
