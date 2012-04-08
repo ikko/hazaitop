@@ -6,6 +6,8 @@ gem "nokogiri"
 gem "pdftohtmlr"
 gem 'lazy_high_charts'
 gem 'tlsmail'
+gem 'awesome_print'
+gem 'pry'
 
 group :development, :test do
   gem 'pickle'
