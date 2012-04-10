@@ -27,8 +27,8 @@ class PToORelationType < ActiveRecord::Base
 
 
   has_many :person_to_org_relations
-  has_many :organizations, :through => :person_to_org_relations, :accessible => true
-  has_many :people       , :through => :person_to_org_relations, :accessible => true
+  has_many :organizations, :through => :person_to_org_relations#, :accessible => true
+  has_many :people       , :through => :person_to_org_relations#, :accessible => true
 
   after_create do |r|
     t = OToPRelationType.create( :name => r.name,
