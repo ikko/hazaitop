@@ -3,8 +3,8 @@ class SiteSearchController < ApplicationController
 
   hobo_controller
 
-  caches_page :index,     :expires_in => 90.minutes
-  caches_page :node_show, :expires_in => 90.minutes
+#  caches_page :index,     :expires_in => 90.minutes
+#  caches_page :node_show, :expires_in => 90.minutes
 
   def generate_node(source, source_type)
     node = {}
