@@ -117,9 +117,9 @@
           <input type="hidden" name="type" id="selected_elem_type" value="#{params[:type] == 't' ? 'o_to_o' : params[:type]}"/>
           <input type="hidden" name="search_type" id="search_type"/>
           <p>
-            <a style="#{params[:type] && params[:id] ? 'display: none' : ''}" href="#" id="load_node_relations">Kapcsolati háló felderítése</a>
-            <br />
-            <a href="" id="load_node_details" style="#{params[:type] && params[:id] ? 'display: block' : 'display: none'}">Részletes információk</a>
+            <a style="link #{params[:type] && params[:id] ? 'display: none' : ''}" href="#" id="load_node_relations">Háló bővítése a profil kapcsolataival</a>
+            <br /><br />
+            <a href="" id="load_node_details" style="link #{params[:type] && params[:id] ? 'display: block' : 'display: none'}">E profil kapcsolatai táblázatban</a>
           </p>
         </div>
         <div id="graphtype_wrapper">

@@ -755,6 +755,11 @@ h2 {
 
 #network_info {
   text-align: left;
+  color: #054756;
+}
+
+#link {
+  color: #054756;
 }
 
 .tab_content p {
