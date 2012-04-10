@@ -56,6 +56,7 @@ class PeopleController < ApplicationController
   end
 
   def add_new_entities
+    return true
     info_source = InformationSource.find_or_create_by_name('ahalo.hu') do |r| r.name = 'ahalo.hu'; r.web = 'http://ahalo.hu' end
     if !params[:person][:personal_relations].blank?
       params[:person][:personal_relations].each do |k,p|
@@ -88,7 +89,8 @@ class PeopleController < ApplicationController
 
   end
 
-  def edit
+=begin
+def edit
     @this = find_instance
     fill_drop_down
     fill_local_drop_down
@@ -99,7 +101,7 @@ class PeopleController < ApplicationController
     fill_local_drop_down
     hobo_new
   end
-
+=end
   def index
     @this = Person.relations_counter_is_not(0).order_by(:order_name)
     respond_to do |format| 

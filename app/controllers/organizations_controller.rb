@@ -3,7 +3,7 @@ class OrganizationsController < ApplicationController
 
   hobo_model_controller
 
-  auto_actions :all
+  auto_actions :all, :except => [:new, :create, :edit, :update ] 
 
   autocomplete
 
@@ -15,7 +15,7 @@ class OrganizationsController < ApplicationController
   caches_page :financial_pagination, :expires_in => 20.minutes
   caches_page :list, :expires_in => 20.minutes
 
-
+=begin
   def create
     add_new_entities
     if flash[:errors].present?
@@ -40,8 +40,9 @@ class OrganizationsController < ApplicationController
     logger.info e.inspect
   end
 
-
+=end
   def add_new_entities
+    return true
     info_source = InformationSource.find_or_create_by_name('ahalo.hu') do |r| r.name = 'ahalo.hu'; r.web = 'http://ahalo.hu' end
     if !params[:organization][:person_to_org_relations].blank?
       params[:organization][:person_to_org_relations].each do |k,p|
