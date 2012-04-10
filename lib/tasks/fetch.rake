@@ -16,13 +16,16 @@ namespace :fetch do
     end
     kepv_rel = PToORelationType.find_or_create_by_name('önkormányzati képviselő') do |r|
       r.name = 'önkormányzati képviselő'
+      r.parsed = true 
     end
-    testulettars = PToPRelationType.find_or_create_by_name("önkorm. képviselőtestület tagja") do |r|
+    testulettars = PToPRelationType.find_or_create_by_name("önkorm. képviselőtestület tagok") do |r|
       r.name ="önkorm. képviselőtestület tagok"
+      r.parsed = true
     end
     kepv_rel.update_attribute :p_to_p_relation_type_id, testulettars.id
     polg_rel = PToORelationType.find_or_create_by_name('polgármester') do |r|
       r.name = 'polgármester'
+      r.parsed = true
     end
     part_rel = PToORelationType.find_by_name('párttag')
     Dir.foreach( 'db/onkorm/files' ) do |file|
@@ -891,6 +894,7 @@ namespace :fetch do
             gsub("január","jan").
             gsub("február","feb").
             gsub("március","mar").
+            gsub("április","apr").
             gsub("május","may").
             gsub("június","jun").
             gsub("július","jul").
