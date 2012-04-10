@@ -380,6 +380,7 @@ class SiteSearchController < ApplicationController
 
 
   def index
+    redirect_to '/people/1' and return if params[:type] == 'p' and params[:id].to_i == 1 # amig rossz adat van a rsz ben TODO: autocomplete
     @info = []
     if params[:information_source]
       @info =  params[:information_source][:id].map do |i| i.match(/[0-9]+/).to_s.to_i end

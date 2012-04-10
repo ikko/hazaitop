@@ -5,7 +5,7 @@ class PeopleController < ApplicationController
 
   include Hobofix
 
-  auto_actions :all 
+  auto_actions :all, :except => [:new, :create, :edit, :update ] 
 
   autocomplete
 
