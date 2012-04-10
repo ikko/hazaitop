@@ -82,8 +82,8 @@ class SiteSearchController < ApplicationController
     elsif source_type == 'o' && target_type == 'p'
       edge[:id] = "o_to_p#{relation.id}"
       edge[:alternateId] = "p_to_o#{relation.id}"
-      edge[:label] = relation.o_to_p_relation_type.name
-      edge[:relationTypeId] = "o_to_p#{relation.o_to_p_relation_type_id}"
+      edge[:label] = relation.p_to_o_relation_type.pair.name
+      edge[:relationTypeId] = "o_to_p#{relation.p_to_o_relation_type.pair_id}"
       # mivel csak akkor rajzolunk ki edge-t ha a target megtalálható az oldalon ezért már betöltöttük őket
       edge[:person] = @persons.select {|r| r.id == relation.person_id}.first.name
       edge[:org] = source.name
@@ -102,10 +102,10 @@ class SiteSearchController < ApplicationController
       edge[:endTime] = relation.end_time.present? ? relation.end_time : no_data
       edge[:source] = relation.information_source.name || no_data
     elsif source_type == 'o' && target_type == 'l' 
-      if relation.try.o_to_p_relation_type._?.name
+      if relation.try.p_to_o_relation_type.pair._?.name
         edge[:id] = "o_to_p#{relation.id}"
-        edge[:label] = relation.o_to_p_relation_type.name
-        edge[:relationTypeId] = "o_to_p#{relation.o_to_p_relation_type.id}"
+        edge[:label] = relation.p_to_o_relation_type.pair.name
+        edge[:relationTypeId] = "o_to_p#{relation.p_to_o_relation_type.pair_id}"
         edge[:org] = relation.organization.name
       elsif relation.try.p_to_o_relation_type._?.name
         edge[:id] = "p_to_o#{relation.id}"
@@ -127,10 +127,10 @@ class SiteSearchController < ApplicationController
         edge[:id] = "p_to_o#{relation.id}"
         edge[:label] = relation.p_to_o_relation_type.name
         edge[:relationTypeId] = "p_to_o#{relation.p_to_o_relation_type.id}"
-      elsif relation.try.o_to_p_relation_type._?.name
+      elsif relation.try.p_to_o_relation_type.pair._?.name
         edge[:id] = "o_to_p#{relation.id}"
-        edge[:label] = relation.o_to_p_relation_type.name
-        edge[:relationTypeId] = "o_to_p#{relation.o_to_p_relation_type.id}"
+        edge[:label] = relation.p_to_o_relation_type.pair.name
+        edge[:relationTypeId] = "o_to_p#{relation.p_to_o_relation_type.pair_id}"
       elsif relation.try.p_to_p_relation_type._?.name
         edge[:id] = "p_to_p#{relation.id}"
         edge[:label] = relation.p_to_p_relation_type.name
