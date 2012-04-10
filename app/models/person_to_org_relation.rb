@@ -115,10 +115,10 @@ class PersonToOrgRelation < ActiveRecord::Base
         else
           if no_end_time
             potential_relations = PersonToOrgRelation.find( :all, :conditions => [
-            "organization_id = ? and ((start_time <= ? and (end_time >= ? or no_end_time = ?)) or (start_time <= ? and no_end_time = ?)) and id != ?", organization_id, start_time, start_time, true, Time.now.to_date, true, id ])
+            "organization_id = ? and ((start_time <= ? and (end_time >= ? or no_end_time = ?)) or (start_time <= ? and no_end_time = ?)) and person_to_org_relations.id != ?", organization_id, start_time, start_time, true, Time.now.to_date, true, id ])
           else
             potential_relations = PersonToOrgRelation.find( :all, :conditions => [
-            "organization_id = ? and ((start_time <= ? and (end_time >= ? or no_end_time = ?)) or (start_time <= ? and (end_time >= ? or no_end_time = ?))) and id != ?", organization_id, start_time, start_time, true, end_time, end_time, true, id ])
+            "organization_id = ? and ((start_time <= ? and (end_time >= ? or no_end_time = ?)) or (start_time <= ? and (end_time >= ? or no_end_time = ?))) and person_to_org_relations.id != ?", organization_id, start_time, start_time, true, end_time, end_time, true, id ])
           end
         end
         press_id = PToORelationType.find_by_name("sajtó").id
@@ -170,8 +170,8 @@ class PersonToOrgRelation < ActiveRecord::Base
                     calculated_end_time = pot.end_time
                   end
                 end
-                info = InformationSource.find :first, :conditions => { :internal => true, :weight => weight }
-                info = InformationSource.create!(:internal => true, :weight => weight, :name => "system", :web => 'http://hazaitop.addig.hu' ) if !info
+                info = InformationSource.find :first, :conditions => { :internal => true }
+                info = InformationSource.create!(:internal => true, :weight => weight, :name => "system", :web => 'http://ahalo.hu' ) if !info
                 interpersonal = InterpersonalRelation.new(:p_to_p_relation_type_id => relation_type_id,
                                                           :person_id => person_id,
                                                           :related_person_id => pot.person_id,

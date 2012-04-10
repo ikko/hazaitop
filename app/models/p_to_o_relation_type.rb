@@ -23,7 +23,7 @@ class PToORelationType < ActiveRecord::Base
   belongs_to :pair, :class_name => "OToPRelationType"
 
   has_many :relations, :through => :p_to_o_relations
-  has_many :p_to_o_relations, :accessible => true
+  has_many :p_to_o_relations# , :accessible => true
 
 
   has_many :person_to_org_relations

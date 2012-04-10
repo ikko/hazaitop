@@ -21,7 +21,7 @@ class OToORelationType < ActiveRecord::Base
   belongs_to :pair, :class_name => "OToORelationType"
 
   has_many :interorg_relations
-  has_many :organizations, :through => :interorg_relations, :accessible => true
+  has_many :organizations, :through => :interorg_relations#, :accessible => true
   
 
   # --- Permissions --- #
