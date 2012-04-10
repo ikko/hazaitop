@@ -8,7 +8,7 @@
       <section class="welcome-message">
         <h3><ht key="custom.relations">Relations</ht></h3>
 
-          <navigation if="&current_user.administrator? or current_user.editor?">
+          <navigation if="&current_user.administrator?">
             <nav-item with="&OToORelationType"><ht key="o_to_o_relation_types.nav_item">Interorganizational Relation Types</ht></nav-item>
             <nav-item with="&PToORelationType"><ht key="p_to_o_relation_types.nav_item">Person and Organization Relation Types</ht></nav-item>
             <nav-item with="&OToPRelationType"><ht key="p_to_o_relation_types.nav_item">Person and Organization Relation Types</ht> Pairs</nav-item>
@@ -18,7 +18,7 @@
 
         <h3><ht key="custom.qualities">Qualities</ht></h3>
 
-          <navigation if="&current_user.administrator? or current_user.editor?">
+          <navigation if="&current_user.administrator?">
             <nav-item with="&PersonGrade"><ht key="person_grades.nav_item">Person Grades</ht></nav-item>
             <nav-item with="&OrgGrade"><ht key="org_grades.nav_item">Organizational Grades</ht></nav-item>
             <nav-item with="&Activity"><ht key="activities.nav_item">Activity Types</ht></nav-item>
