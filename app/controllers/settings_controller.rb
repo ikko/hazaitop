@@ -5,5 +5,12 @@ class SettingsController < ApplicationController
 
   auto_actions :index
 
+  def index
+    if current_user.administrator?
+      hobo_index
+    else
+      redirect_to '/'
+    end
+  end
 end
 
