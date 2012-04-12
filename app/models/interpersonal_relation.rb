@@ -36,7 +36,7 @@ class InterpersonalRelation < ActiveRecord::Base
   has_many :article_relations, :as => :relationable, :accessible => true
   has_many :articles, :through => :article_relations, :accessible => true
 
-  default_scope include => :p_to_p_relation_type
+  default_scope :include => :p_to_p_relation_type
 
   belongs_to :p_to_p_relation_type
   belongs_to :person, :counter_cache => true

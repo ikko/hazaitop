@@ -90,6 +90,7 @@ class InterorgRelation < ActiveRecord::Base
     r.information_source_id = (r.info_id ? r.info_id : r.articles.first.try.information_source_id ) if r.information_source.blank?
     r.information_source_id = InformationSource.find_by_domain_name('ahalo.hu').id if r.information_source.blank?
     r.parsed = r.o_to_o_relation_type.parsed if r.o_to_o_relation_type
+    r.start_time = r.issued_at if r.issued_at
     # r.weight = r.information_source.weight * r.o_to_o_relation_type.weight
     true
   end
