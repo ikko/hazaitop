@@ -838,7 +838,7 @@ namespace :fetch do
     f_p_to_o = PToORelationType.find_by_name('sajtó')
     articles = Nokogiri::HTML(open('http://www.k-monitor.hu/adatbazis/kereses'))
 #    (1..articles.css("span.result")[0].children[0].text.to_i / 10 + 1).each do |i|
-    (1..500).each do |i|
+    (500..1000).each do |i|
       puts "fetching dates on page #{i} on k-monitor.hu at " + Time.now.to_s
       articles = Nokogiri::HTML(open("http://www.k-monitor.hu/kereses?page=#{i}"))
       articles.css(".news_list_1").each do |article|
@@ -884,7 +884,7 @@ namespace :fetch do
     f_p_to_o = PToORelationType.find_by_name('sajtó')
     articles = Nokogiri::HTML(open('http://www.k-monitor.hu/adatbazis/kereses'))
 #    (1..articles.css("span.result")[0].children[0].text.to_i / 10 + 1).each do |i|
-    (1..259).each do |i|
+    (1..50).each do |i|
       puts "fetching page #{i} on k-monitor.hu at " + Time.now.to_s
       articles = Nokogiri::HTML(open("http://www.k-monitor.hu/kereses?page=#{i}"))
       articles.css(".news_list_1").each do |article|
@@ -910,12 +910,13 @@ namespace :fetch do
             r.issued_at = issue_date
             r.internet_address = internet_address
           end
-          x = article.search("a").last.attributes.first.last.text
+          x = article.search("a").last.attributes['href'].text
           x = "http://#{x}" if x[0..6] != "http://"
           a.original_internet_address = x 
           a.original_source = Domainatrix.parse( x ).domain
           a.issued_at = issue_date
           a.save
+          puts a
           tags = []
           article.css(".links a, .links_starred a").each do |link|
             href = link.attributes['href'].value.sub("/kereses","").split('?')[0]
@@ -928,7 +929,7 @@ namespace :fetch do
             tags.each do |t2|
               if t1.klink != t2.klink
                 if t1.kind_of?(Person) and t2.kind_of?(Person)
-                  relation = InterpersonalRelation.find( :first, :conditions => [ 'person_id = ? and related_person_id = ? and information_source_id = ?', t1.id, t2.id, info_id ])
+                  relation = InterpersonalRelation.find( :first, :conditions => [ 'person_id = ? and related_person_id = ? and interpersonal_relations.information_source_id = ?', t1.id, t2.id, info_id ])
                   unless relation
                     relation = InterpersonalRelation.create!( :person_id => t1.id, 
                                                               :related_person_id => t2.id,
@@ -950,7 +951,7 @@ namespace :fetch do
                 end
                 
                 if t1.kind_of?(Organization) and t2.kind_of?(Organization)
-                  relation = InterorgRelation.find( :first, :conditions => [ 'organization_id = ? and related_organization_id = ? and information_source_id = ?', t1.id, t2.id, info_id])
+                  relation = InterorgRelation.find( :first, :conditions => [ 'organization_id = ? and related_organization_id = ? and interorg_relations.information_source_id = ?', t1.id, t2.id, info_id])
                   unless relation
                     relation = InterorgRelation.create!( :organization_id => t1.id, :related_organization_id => t2.id, :information_source_id => info_id, :o_to_o_relation_type_id => f_o_to_o.id, :issued_at => issue_date, :parsed => true )
                     puts "new relation for #{t1.name} and #{t2.name}"
@@ -963,7 +964,7 @@ namespace :fetch do
                   end
                 end
                 if t1.kind_of?(Person) and t2.kind_of?(Organization)
-                  relation = PersonToOrgRelation.find( :first, :conditions => [ 'person_id = ? and organization_id = ? and information_source_id = ?', t1.id, t2.id, info_id])
+                  relation = PersonToOrgRelation.find( :first, :conditions => [ 'person_id = ? and organization_id = ? and person_to_org_relations.information_source_id = ?', t1.id, t2.id, info_id])
                   unless relation
                     relation = PersonToOrgRelation.create!( :person_id => t1.id, 
                                                             :organization_id => t2.id,

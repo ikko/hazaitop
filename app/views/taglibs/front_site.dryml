@@ -470,8 +470,7 @@
                 </input-many>
               </article-relations-view:>
               <organization-view:>
-                <hjq-autocomplete source="&query_organizations_path" delay="200" minLength="3" />
-                <!--name-one/-->
+                <hjq-autocomplete value='&this ? "#{this.name} (ID:#{this.id})" : ""' source="&query_organizations_path" delay="200" minLength="3" />
               </organization-view:>
               <information-source-view:>
                 <select-one options="&@info_sources"/> | <a href="&new_information_source_path"  target="_blank"><ht key="custom.new">new</ht></a>
@@ -494,8 +493,7 @@
                 <select-one options="&@p_to_p_types"/>
               </p_to_p-relation-type-view:>
               <related-person-view:>
-                <hjq-autocomplete source="&query_people_path" delay="200" minLength="3" />
-                <!--name-one-->
+                <hjq-autocomplete value='&this ? "#{this.name} (ID:#{this.id})" : ""' source="&query_people_path" delay="200" minLength="3" />
               </related-person-view:>
               <article-relations-view:>
                 <input-many>
@@ -536,8 +534,7 @@
                 </input-many>
               </article-relations-view:>
               <person-view:>
-                <hjq-autocomplete source="&query_people_path" delay="200" minLength="3" />
-                <!--name-one/-->
+                <hjq-autocomplete value='&this ? "#{this.name} (ID:#{this.id})" : ""' source="&query_people_path" delay="200" minLength="3" />
               </person-view:>
               <information-source-view:>
                 <select-one options="&InformationSource.not_internal"/> | <a href="&new_information_source_path" target="_blank"><ht key="custom.new">new</ht></a>
@@ -557,8 +554,7 @@
           <item:>
             <field-list fields="related_organization, o_to_o_relation_type, article_relations, litigations, information_source">
               <related-organization-view:>
-                <hjq-autocomplete source="&query_organizations_path" delay="200" minLength="3" />
-                <!--name-one/-->
+                <hjq-autocomplete value='&this ? "#{this.name} (ID:#{this.id})" : ""' source="&query_organizations_path" delay="200" minLength="3" />
               </related-organization-view:>
               <information-source-view:>
                 <select-one options="&InformationSource.not_internal"/> | <a href="&new_information_source_path" target="_blank"><ht key="custom.new">new</ht></a>

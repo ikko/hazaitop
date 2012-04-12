@@ -3,7 +3,7 @@ class OrganizationsController < ApplicationController
 
   hobo_model_controller
 
-  auto_actions :all, :except => [:new, :create, :edit, :update ] 
+  auto_actions :all #, :except => [:new, :create, :edit, :update ] 
 
   autocomplete
 
@@ -15,7 +15,6 @@ class OrganizationsController < ApplicationController
   caches_page :financial_pagination, :expires_in => 20.minutes
   caches_page :list, :expires_in => 20.minutes
 
-=begin
   def create
     add_new_entities
     if flash[:errors].present?
@@ -28,6 +27,22 @@ class OrganizationsController < ApplicationController
   def update
     render :text => "access denied" unless current_user.administrator? or current_user.editor? or current_user.supervisor?
     add_new_entities    
+    params[:organization][:manual_person_to_org_relations].each_pair do |k,v| 
+      if v[:person]
+        params[:organization][:manual_person_to_org_relations][k][:person_id] = v[:person].split('(ID:')[1].chop if v[:person]
+      else
+        params[:organization][:manual_person_to_org_relations].delete k
+      end
+      params[:organization][:manual_person_to_org_relations][k].delete :person
+    end if params[:organization][:manual_person_to_org_relations].present?
+    params[:organization][:manual_interorg_relations].each_pair do |k,v| 
+      if v[:related_organization]
+        params[:organization][:manual_interorg_relations][k][:related_organization_id] = v[:related_organization].split('(ID:')[1].chop if v[:related_organization]
+      else
+        params[:organization][:manual_interorg_relations].delete k
+      end
+      params[:organization][:manual_interorg_relations][k].delete :related_organization
+    end if  params[:organization][:manual_interorg_relations].present?
     redirect_to edit_organization_path(params[:id]) and return if flash[:errors].present?
     @organization = find_instance
     hobo_update
@@ -40,7 +55,6 @@ class OrganizationsController < ApplicationController
     logger.info e.inspect
   end
 
-=end
   def add_new_entities
     return true
     info_source = InformationSource.find_or_create_by_name('ahalo.hu') do |r| r.name = 'ahalo.hu'; r.web = 'http://ahalo.hu' end

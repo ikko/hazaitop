@@ -5,7 +5,7 @@ class PeopleController < ApplicationController
 
   include Hobofix
 
-  auto_actions :all, :except => [:new, :create, :edit, :update ] 
+  auto_actions :all#, :except => [:new, :create, :edit, :update ] 
 
   autocomplete
 
@@ -43,6 +43,22 @@ class PeopleController < ApplicationController
   def update
     render :text => "access denied" unless current_user.administrator? or current_user.editor? or current_user.supervisor? # mivel nincs hobo permi check ilyenkor...
     add_new_entities    
+    params[:person][:manual_person_to_org_relations].each_pair do |k,v| 
+      if v[:organization]
+        params[:person][:manual_person_to_org_relations][k][:organization_id] = v[:organization].split('(ID:')[1].chop if v[:organization]
+      else
+        params[:person][:manual_person_to_org_relations].delete k
+      end
+      params[:person][:manual_person_to_org_relations][k].delete :organization
+    end if  params[:person][:manual_person_to_org_relations].present?
+    params[:person][:manual_interpersonal_relations].each_pair do |k,v| 
+      if v[:related_person]
+        params[:person][:manual_interpersonal_relations][k][:related_person_id] = v[:related_person].split('(ID:')[1].chop if v[:related_person]
+      else
+        params[:person][:manual_interpersonal_relations].delete k
+      end
+      params[:person][:manual_interpersonal_relations][k].delete :related_person
+    end if params[:person][:manual_interpersonal_relations].present?
     redirect_to edit_person_path(params[:id]) and return if flash[:errors].present?
     @person = find_instance
     hobo_update 
